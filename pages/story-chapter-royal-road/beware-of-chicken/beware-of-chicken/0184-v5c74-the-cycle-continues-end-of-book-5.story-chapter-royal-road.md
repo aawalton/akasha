@@ -1,0 +1,225 @@
+---
+id: 56f44cd3-4d32-5b59-a18e-4d38c146c64f
+page-type-slug: story-chapter-royal-road
+title: "v5c74: The Cycle Continues—End of Book 5"
+slug: 0184-v5c74-the-cycle-continues-end-of-book-5
+partOf: beware-of-chicken
+position: 184
+ownLength: 2894
+unit: words
+ownProgress: 2894
+publishedAt: 2024-12-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1943576/v5c74-the-cycle-continuesend-of-book-5"
+royalRoadId: "1943576"
+markedReadAt: "2026-06-29T18:57:37.682Z"
+---
+
+On the tenth day since the battle, Shen Yu returned to his grandson’s home. He descended from his flying sword onto the ground beside the great snow golem. The amusing thing was as tall and proud as ever, with a great many birds on his jaunty hat.
+
+There, he was awaited.
+
+His grandson, granddaughter, and all the rest had stepped outside to greet him.
+
+“Welcome home, Grandfather…” Jin trailed off as he got a good look at Shen Yu. His expression became worried, as did the others. “Are you alright? Did you get injured again?”
+
+Ah, that was to be somewhat expected. Shen Yu was definitely feeling his still-present injuries. Minute tremors shook his limbs, and sweat beaded upon his brow from the strain of controlling his Qi. In front of the others, he had kept up his mask, as unflappable as always, but his body was… unhappy at what he had put it through so soon.
+
+However, it had been necessary. Shen Yu would rather have turmoil of the body, than turmoil of the soul.
+
+“It is done,” Shen Yu declared, a small smile coming to his face. “Every base in the north has been destroyed.”
+
+The relief was palpable among the assembly. His soul pulsed with the acknowledgement.
+
+It was the providence of the heavens that Lu Ri had captured that base. And without Yukong’s artifacts, they would have been up here searching for their prey for centuries. The distances in the Sea of Snow were immense. Three Imperial Realm cultivators working without rest and several Earth Realm strike teams, all traveling at their maximum velocity and knowing exactly where their enemies were located, had still taken five days to reach their targets… and would likely take longer still.
+
+But for now, every base connected to the transport network, and as many others as they could find, had been obliterated. Those that had tried to fight had been slain. Those that had tried to run were driven into the cold, and had fallen prey to the dangers of the Sea of Snow.
+
+Doom had come for the Heavenly Demon Sect. And while there was still much work to do, to make completely sure that the north was free of these vermin, his cultivation and oath had been soothed with this decisive action. The north was clear.
+
+Now, he just needed to scour the rest of the Empire for this Yulong. There hadn’t been a corpse found, which meant he was still alive—but his instincts told him the boy was no longer in the Sea of Snow.
+
+He would be found, him and his Master both. But now Shen Yu could truly rest and recover, instead of his cultivation constantly urging him northwards.
+
+His grandson let out a breath. He looked at Shen Yu… and he did not ask why Shen Yu went out to do battle while he had been in the state he was still in.
+
+Jin knew. There were some things that men must do.
+
+Instead, he simply lowered his eyes and bowed his head in thanks.
+
+“Again, welcome home, grandfather,” Jin said—while little Mei looked at his injuries like they personally offended her.
+
+Ah, her expression was most amusing.
+
+“Indeed, welcome home, Master,” Bi De intoned, and that was the catalyst. The rest of them paid their respects, greeting him warmly.
+
+It had been some time since so many greeted him like this. Warmly, rather than with sycophantic, fearful humility. Tigu begged him for tales of their hunt, the little one as all over him as she could be whilst being mindful of his injuries.
+
+It was most pleasant.
+
+And doubly pleasant when he was able to sit on the couch. He got to hold Zhuye, the babe giggling at his arrival, and a dragon made him tea.
+
+Shen Yu sighed, the burden on his soul light.
+
+“So, the Shrouded Mountain Sect has departed?” he asked.
+
+“Yes, they left yesterday. Nezan went with them,” Jin replied. Shen Yu nodded. He wished the old fox luck. “Though speaking of guests, will we be having any soon?”
+
+“Not for a while yet,” Shen Yu replied. “They have to consolidate and take stock of everything they captured. Ge, Minyan, and the Herald will all be quite busy for a while.”
+
+Jin nodded. “Well, it's nice to have things just with the family for the moment.”
+
+Shen Yu nodded, a small smile on his face. “What were your plans for today, grandson?”
+
+“First? The funeral for Vajra’s soldiers. Give them a proper send off. Then tonight, we’re going to open the gifts we were going to give each other on the solstice,” Jin replied.
+
+Shen Yu paused.
+
+“Then I shall change into appropriate garments. The Honoured Martyrs must be given their proper respects.”
+
+Some might find it silly to thank insects, but they had given their lives in defense of his grandson’s home.
+
+They were worthier than most—but more, it was a reflection of Jin’s values.
+
+Even the smallest of things that had aided him had their kindness returned tenfold.
+
+=======================================
+
+Vajra the Boozemaster, honoured of His Imperial Majesty's servants, stood tall in the cold air. Her Immortals were arranged around her, their ranks bold and gleaming. Chief among them was the Bane of the Black Lances. New scars adorned the honoured warrior’s carapace, making her appearance even fiercer. Their podium was draped with little droplets of sunlight, warding away the cold.
+
+The air was solemn, and only the true Servants of the Emperor were in attendance. Their clothes were dark, muted colours, as appropriate for those not directly related to the fallen, and none bore a smile. The filthy beggars from the Shrouded Mountain Sect had been rightfully cast out, their presence intolerable for such a ceremony of reverence. Truly, they were miserable wretches, living only through the largesse and eternal benevolence of her lord.
+
+She was most glad to be rid of them, especially after having to watch over them all for a full seven days. It had been most stressful and had driven Vajra half mad being so alert for so long, cataloguing every minute movement in case they even twitched towards her lord’s home.
+
+The only mark in their favour was that the beaten dogs were not also perfidious—but such creatures hardly deserved her attention when something more important should occupy her time.
+
+“We are gathered here today to give thanks to the brave souls who gave the ultimate sacrifice in defense of our home,” His Majesty began, his voice soft.
+
+Before them all was a raised table, and upon it were one thousand, eight hundred, and thirty-eight small boxes. One for each of the fallen, confirmed by Vajra’s ledgers. They were crafted of rice stalks and wax, each and every one hand made by the Emperor himself, an honour beyond all honours, while Vajra had commissioned tapestries from her hive depicting the deeds of each fallen, the finest of burial shrouds. Some were empty of a body, the honoured dead lacking a corpse due to being destroyed fully in battle, but most were full—and each one had a flowering plant seed within. The Empress had even deigned to use her power to remove the poisons that tainted them, consecrating their once-desecrated bodies.
+
+The honour and favour bestowed upon her and her hive was enough to have some amount of emotion. How long had it been since she had mourned losses? In her war against the flying lesser demons, millions had perished every day without fanfare.
+
+Yet here, these small numbers were considered a loss and given accolades.
+
+Truly, this was paradise.
+
+“They were the smallest of us, but each one had the heart of a tiger. It is thanks to them, these scouts and those who threw themselves without flinching upon the enemy, that we still stand today. They were, one and all, heroes.”
+
+His Majesty paused for a moment. The only sound was a sniff, as Duke Chun Ke dried his wet eyes. He was in his natural form today, but both suited him—he was unbearably handsome in both forms.
+
+“I wish that none had to make such a sacrifice, yet they rose up without hesitation. So we shall honour them by holding dear what they gave everything to defend. Our home. Our little slice of heaven.”
+
+“And so we return them to the earth, to the embrace of their home. May the flowers grow above them and bloom, becoming a part of this land forever more. When the bounty of spring comes, we will all know whom to thank.”
+
+Vajra and the rest of her hive froze at the heartfelt declaration. She could feel her servants’ emotions. The love, the respect, the honour they felt at the Emperor’s words surged through her so much that the collective feelings were nearly overwhelming.
+
+This? This was where they wanted to be. This is who they wanted to serve.
+
+His Majesty picked up the first of the boxes and gently placed it into a small freshly dug into the snow and down into the earth. With his hands, he took the earth and buried the box.
+
+Then he took another.
+
+The first to step forward was Bi De. The rooster was even more stunning than normal. Like Chun Ke, both of his forms were utterly delectable.
+
+He too took a box and planted it.
+
+Then, the others stepped forwards. One by one, the little boxes were placed into the earth and buried. By the hands of humans. By the hands of a monkey. By the gentlest bite of a dog, and by Vajra’s own legs, until all one thousand, eight hundred, and thirty-eight small boxes were buried in the field beside the house.
+
+His Majesty bowed, and the others followed suit, paying their respects.
+
+Then, His Majesty rose and picked up a barrel. The barrel was full of mead, the finest creation of her hive, and the thing that had earned her her title.
+
+His Majesty had asked earlier whether her soldiers would have preferred a solemn period of mourning, or a celebration of their lives.
+
+The soldiers had all chosen the latter.
+
+His Majesty lifted the mead and poured out the cups.
+
+“To the fallen,” he toasted.
+
+“To the fallen,” his words were echoed by all.
+
+=========================
+
+Together they moved to the greenhouse, where Vajra—or rather Chun Ke translating for Vajra—regaled them with stories of her valiant warriors while they sipped the golden drink.
+
+It was warm and delicious—but all of them took care not to overindulge. Instead, it was simply warm and mood-lifting as they relaxed within the greenhouse. It never got rowdy as they paid their respects.
+
+In the end… the little bees weren’t much different than the rest of them. All of them had fought the demons now. All of them knew their vile ways, and all of them had shed blood in the defence of their home. It was something intangible… but Bi De felt a bit closer to all of his family because of it.
+
+Soon the sky darkened and they returned to the warmth of the house. It was dark, with only the glass orbs and the fireplace for light.
+
+There they exchanged gifts, as had become tradition.
+
+“The people from Underbridge taught me how to make those,” Yin said as Bi De looked intently at his gift. It looked to be a kind of wind-chime. Bi De tapped it and it produced pleasing notes. “They put them on the outside of the bridges, so when the wind blows they jangle in sequence—I made that one out of bits of a door I bashed in, the remelted bits of one of the foundries we raided, and the glass beads a nice lady gave me!”
+
+“It is beautiful, Yin,” Bi De said, smiling at it. “I shall put it under my perch that our Master has graciously made for me.”
+
+“Yeah! It can go next to Big Sis Mei’s gift!” Yin declared, pointing at the fabric fish that also worked as a windsock. Yin’s gifts were an eclectic mix of things she had been taught how to make on her own journey, from people she had befriended, and each one was beautiful.
+
+The other gifts Bi De received were no less interesting and thoughtful.
+
+He had of course received a human-sized Gi of his own, with their family symbol on it, courtesy of the Healing Sage. Tigu had added Bi De’s sculpture to her collection, though in granite. He was posed triumphantly on a rock, his chest bared. The composition was spectacular.
+
+As for himself? “This one is for you,” Bi De said, handing over a package. Yin eagerly opened it, and her eyes widened at what was within. It was a spool of thread the colour of fire that crackled and shone with an inner glow. “One of the aggressive Spirit Beasts in the Sea of Snow produced this thread to line its ice tunnels and keep them from freezing. It would go well with your own pendant, I think.”
+
+“It is gloriously incandescent,” Yin murmured, before she turned back to Bi De. “Was it tough?”
+
+“It ate me whole, and I had to kick my way out,” Bi De confirmed.
+
+Yin laughed, and Bi De sat back to watch the other gift givers. Tigu had put away his charcoal reliefs and carved designs of the Thunderhooves, intent on perusing them later, and Miantiao was examining several minerals Bi De had brought from the north of the Howling Fang Mountains that Old Ling had mentioned were used in glassmaking. Bi De hoped the old groundskeeper from the Shrouded Mountain Sect was doing alright.
+
+Bi De shook his head and instead simply... relaxed, soaking in the enjoyable atmosphere.
+
+Wa Shi gushed over his new hat, exulting in his recognition as a Master Chef. Spooks’ eyes bugged out at the giant jug of maple syrup that had been placed before him, the Thunderhoof looking like he was about to faint. Chun Ke’s assortment of extremely cute pottery had improved vastly in quality this year, and the rooster-shaped mug would be Bi De’s go-to drinking vessel.
+
+Bowu had made a miniature version of his Azure Express, the little contraption currently huffing and puffing around the room on a set of circular tracks that had caught the attention of Shen Yu, the old man looking incredibly intrigued. The old man, in turn, was wearing a hat that the Healing Sage had an exact replica of—one with two deer having… relations. The man had laughed uproariously when he had received it.
+
+Xiulan and Xianghua had both gotten everyone items from their respective homes. Xianghua gifted river hats and woven tapestries of Koi and scenes of the Misty Lake, while Xiulan gave masterfully made fans and lanterns, as well as some of the finest paper Bi De had laid eyes on.
+
+On one of the walls, all the images Yun Ren had recorded were playing, his favourite works transferred to slate and hung already upon the walls.
+
+A great many gifts were handed out, and a great many thanks were had over the thought given to each one.
+
+It was one of Bi De’s favourite traditions, handing out each gift and seeing how the recipient reacted.
+
+All too soon, the final gift of the night was unveiled.
+
+“Awww, you guys…” Bi De’s Great Master said as he smiled at his repaired shovel.
+
+“Uncle Che busted his ass to make that steel!” Bowu declared. “Yin and Miantiao helped too!”
+
+“I repaired the damage to the carvings,” Tigu said.
+
+“And Han used his formations on it,” the Healing Sage declared. “Hopefully this time it won’t chip.”
+
+His Great Master reverently took the tool. “Welcome back, buddy,” he said to it.
+
+============================
+
+After the gift giving was done, and the cookies had been consumed, Bi De found himself on the roof in his natural form, sitting beside his Great Master. Both of them looked up at the dark sky.
+
+“One hell of a year, eh?” his Great Master asked after a companionable silence.
+
+Bi De reflected on his year. His year spent infiltrating the Shrouded Mountain Sect and learning much more about the world of cultivation, to say nothing of their assault against the Demonic Sect.
+
+There were some good parts, like the courage of those who challenged the greatest odds.
+
+There were bad parts too: the suppression of others—the way people murdered and stole to keep their secrets secure and their face intact.
+
+It was a mess of contradictions. He knew well why his Great Master had abandoned that path.
+
+But... there was something exhilarating about it, too. Exploring and adventuring had its appeal… and it suited his goals.
+
+Bi De knew that he would continue on this path. He would once more go and venture out into the world. He would be a cultivator—so that he could protect his home. He could preserve those warm feelings for this wonderful place.
+
+“Hell of a year,” he agreed.
+
+The silence returned, warm and comfortable, under a light dusting of falling snow.
+
+Then the clouds broke and the moon shone through. The wonderful moon that had protected and cared for him.
+
+Bi De paid it his respects, his voice rising in greeting.
+
+His Great Master laughed.
+
+“I really missed that,” he said, his voice full of mirth. “You tell ‘em, Bi De.”

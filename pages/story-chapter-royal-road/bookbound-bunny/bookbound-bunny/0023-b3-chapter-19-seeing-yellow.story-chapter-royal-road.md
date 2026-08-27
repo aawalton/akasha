@@ -1,0 +1,177 @@
+---
+id: d3f16861-ecf8-517c-9239-1514d8e6ec87
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 19 - Seeing Yellow"
+slug: 0023-b3-chapter-19-seeing-yellow
+partOf: bookbound-bunny
+position: 23
+ownLength: 2090
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3168256/b3-chapter-19-seeing-yellow"
+royalRoadId: "3168256"
+---
+
+The next day, the plan for the group was to try their best to take it easy and, if possible, have an afternoon nap before the nighttime adventure. During the day, they spent most of the time brushing up on some magic, with Lily also redrawing the Magesight lens for Thomas and Lotte to continue working on.
+
+Lily, on the other hand, spent her time brushing up on Lunar Radiance before switching to Lunar Eclipse. Her enunciation and visualization needed some more work, but it was a far better start than even a week of her trying to learn its counterpart.
+
+There was also somewhat of a shortcut that Lily could attempt in this regard, where she could use the experience of Lunar Radiance and try to imagine "the opposite of that" for Lunar Eclipse. Although that was certainly easier said than done.
+
+Still, as she practiced her chant, Lily began to see traces of a manifestation, which made her feel a teensy bit uncomfortable. The dark, rather ominous-looking moon that was trying to emerge was a stark contrast to the bright blessing she had finally acquired.
+
+When the afternoon finally rolled around, the group took nap shifts, with one staying awake as a precaution. This way, they would be fresh and ready for adventure. Of course, that was the optimistic approach, and as often happens when you're trying to force yourself to sleep, it's a struggle. The group found themselves failing to properly rest up for the exciting evening they had planned, resulting in them all looking a little weary before they'd even begun!
+
+"Well, it's not like we're planning on going out too far," Lotte said with a sigh.
+
+"Yeah, we don't want to directly put ourselves in danger," Thomas promptly agreed. "Even if we were fully rested, I would have suggested we stick to a more cautious approach."
+
+Lily also agreed. While she had already experienced a few nighttime excursions, they were all contained to the outskirts of Ceedale, where there was nothing bigger than a dire wolf. The dungeon's dire wolves looked like they could eat the ones from her hometown.
+
+After splashing some cold water on their faces, the group headed out, where Lily gave each of them a small bottle of night drops.
+
+"It's one drop per eye, so be careful," Lily instructed.
+
+"What happens if I use two by accident?" Thomas asked.
+
+"You waste money," Lily answered.
+
+Thomas gave an awkward smile, which made Lotte giggle. "Did you expect your eyeballs to explode?" she teased.
+
+"Not exactly… I just figured with that stern of a warning, there were some consequences," he replied.
+
+"Well, things might be a bit more yellow," Lily revealed.
+
+"Yellow?" both her friends asked.
+
+Lily nodded. "You'll see what I mean when you use them."
+
+The two glanced at one another before carefully unsealing their bottles and gingerly filling the pipette. Seeing this, Lily couldn't help but sigh at how things had changed for the better.
+
+Thank goodness it's easy to get decent alchemy supplies through Sylwel. I wonder if he's got a good supplier through Regarth, or if he's using his transmutation magic?
+
+After the two carefully administered their eye drops, Lily told them to close their eyes and keep them shut for several seconds. Upon opening them, the two gasped in surprise.
+
+"I see what you mean by yellow," Thomas was the first to speak.
+
+Lily nodded again. "It's how the drops work. Make sure not to stare at any bright lights directly for too long, or you'll suffer some prolonged discomfort."
+
+After that final warning, Lily applied her own. Each drop coated the eye with an alchemical film, making the world appear in a mild yellowish hue. However, that was a small price to pay for the ability to see clearly in the dark, and it would ensure their trip was as smooth as possible.
+
+As they trekked out into the forest, Lily's two companions couldn't help but marvel at how different the world appeared. Lily had already experienced it when she was ensuring the formula was perfect, so her fascination with the environment was more subdued.
+
+The night air was crisp, and aside from the occasional rustle of leaves or the sounds of nocturnal wildlife, it was dead quiet. If not for their alchemical eyes, it would have been quite a scare, but instead it was to their benefit.
+
+Despite going over ground they had already previously covered, their enhanced vision picked up all sorts of little hidden wonders. The rare nighttime flora, in particular, was quite eye-catching, emitting a faint luminescence as if drinking in the moonlight, and for the three students, they lit up like a beacon.
+
+As they gathered, they continued venturing deeper until they heard the echoing screech of a bat. The group immediately readied up, taking a defensive position with their backs to one another as they each scanned the horizon.
+
+Lotte was the first to spot it, and she called it out. As predicted, it was a dire bat, but its sheer size made it almost indistinguishable from something else entirely. If that wasn't bad enough, the bat monster had something dribbling down its mouth and neck that was especially highlighted by their enchanted eyes. The only saving grace was that it hadn't directly spotted them yet.
+
+Lily unconsciously swallowed as she noticed it, her Nebula Veil suddenly appearing and protectively wrapping around her. "Eww…"
+
+"It probably fed on an animal," Thomas suggested.
+
+"Or another monster," Lotte added.
+
+"Just get rid of it!" Lily pleaded.
+
+After a few more echoing screeches, the monster must have found them and decided they were juicy targets, as it abruptly beelined straight at them.
+
+Lotte beat Thomas to the punch, and a magical serpent shot out like an arrow at the creature to intercept it; however, to Lily's dismay, it noticed and actively evaded the oncoming spell. Lotte clicked her tongue in annoyance and was about to cast another spell, but Thomas had finished his chant and fired out a bolt of lightning.
+
+"Ah!" the three cried out in unison, their vision suddenly becoming nothing but a blinding yellow.
+
+However, they weren't the only ones who reacted poorly, and after the crashing thunder came the monster's hysterical, pained screechings.
+
+"I think I got it!" Thomas shouted, wincing painfully with his eyes shut tight.
+
+"But at what cost…" Lotte whined while frantically rubbing her eyes in an effort to soothe them.
+
+Lily was blinking rapidly, trying to recover her vision before the monster attacked again. She didn't doubt that a massive beast like that would need more than a single spell to be defeated.
+
+[You should all be fine, the monster is not looking too well. But, in the interest of safety, you should cast Lunar Radiance followed by Starburst.]
+
+{Okay!}
+
+While Lily was relieved that the monster wasn't on the verge of attacking them, she was still worried. Following Arakil's recommendation, she blessed herself with a swift, decisive incantation. Even while momentarily blinded, she felt the spell settling upon her, then she held out her hand to where she thought the monster was.
+
+[A little lower, and to the left.]
+
+Guided by Arakil's voice, Lily adjusted and then quickly cast a Starburst. Whether due to her momentary panic or concern for safety, Lily set an upper limit of five stars, and the result was spot on.
+
+In an explosion of stars and stardust, whatever remained of the monster perished in starlight. Lily had kept her eyes shut tight throughout this process, guided by feeling, luck, and Arakil's remarks. Unfortunately, the same could not be said for her companions…
+
+"Again!?" Lotte wailed.
+
+"My eyes!" Thomas yelled out, too.
+
+Realizing her blunder, Lily gulped and guiltily apologized. "Sorry…"
+
+[On the positive side, the monster is no more. Five stars were probably overkill, but at least the three of you are safe and sound. Ignoring the obvious eye pain, of course.]
+
+Lily was naturally the first to regain her sight without her eyes stinging, so she stood on guard for her friends as they slowly recovered. The two seemed quite distraught, so she threw out endless apologies while trying to justify her hasty decision.
+
+"It's okay, Lily, I forgive you," Lotte said and glared at Thomas. "After all, you weren't the first to start it."
+
+"How was I supposed to know?" Thomas defended himself.
+
+"Lightning! It's even got light in the name!" Lotte replied confidently. "You didn't listen to Lily's warning."
+
+Thomas sighed, rolling his eyes. Evidently, he wasn't going to continue fighting this battle.
+
+"I guess night drops aren't for us…" Lily eventually said somberly.
+
+"Combat-wise, definitely, but for exploration and gathering, they are still worthwhile," Thomas replied.
+
+"But it's not like we can turn it off and on again at the drop of a hat, right?" Lotte asked, turning to Lily.
+
+Lily shook her head. "We could wash the concoction out, but that's a permanent remedy. We'd need to apply it again afterwards."
+
+"Which would be a massive waste," Lotte sighed.
+
+"Or we could try fighting with our eyes closed," Thomas suggested, although judging by his face, he didn't seem confident in the idea.
+
+Lotte let out a snort. "Good luck with that."
+
+The group let out a collective sigh. Their collective mood had definitely been soured by the unintended catastrophe. Two of their mages were rendered effectively useless by their own signature spells.
+
+"Let's try to do a bit more gathering," Lily suggested. "After we've looted what we can, we can wash out the drops and try to do a bit of hunting."
+
+"It's a good plan, but even with the lantern, do we have enough to do it safely? Thomas asked.
+
+Lily smiled and spread her hands out, causing her starry cloak to flutter outward. At the same time, countless tiny stars were released and began to gently float outward, providing a soft glow to their surroundings.
+
+"I forgot you can do that," Thomas admitted.
+
+"I'm just glad it didn't burn our eyes," Lotte commented.
+
+"I knew it would be gentle enough," Lily replied, although her smile turned ever so slightly awkward. "But I can turn up the light after we wash out the drops."
+
+The two agreed with the plan, and after Lily dismissed the starlight spells, the group tried their best to gather what they could. To improve their chances, the group tried to be as stealthy as possible, with Lily even pulling out two shadow cloak talismans for her two friends.
+
+To their surprise, however, Lily didn't use one on herself; instead, her Nebula Veil seemed to slowly grow darker, as if the stars and galaxies within it were gradually dying. This was something she had previously stumbled upon while on her quest to make it her unique spell, although it was something she very rarely used.
+
+While it was wonderful for a stealthier approach, it had a significant downside in that it reduced the defensive capabilities of the spell tremendously. When Lily had first accomplished this, Arakil had postulated that if Lily could produce the opposite effect—brightening the stars even further—the cloak should improve its defense.
+
+Sadly, while Lily could easily imagine that effect, she had yet to produce that outcome. It seemed simple enough, but evidently, there was more to it than simply making a few stars brighter.
+
+"Is your bloodline magic stronger at night?" Lotte asked curiously.
+
+Before Lily could muster an answer, Arakil promptly chimed.
+
+[Inherently, that isn't the case; however, some can take advantage of the starry ambiance. Having said that, though, most Astral magic rituals do require it, or at the very least have an easier time under the clear night sky. How else can you accurately witness moon phases or picture celestial bodies?
+
+Lily's mind raced, trying to summarize that lengthy explanation into something more reasonable. Unfortunately, Lily was drawing a blank, and so she fumbled out a half-response.
+
+"I think it's just more natural at night."
+
+"I suppose that makes sense…?" Lotte replied, although she was scratching her head.
+
+"Like how a water mage would be better in the water," Thomas commented.
+
+"Enough whispering, we're trying to be stealthy," Lily hissed, trying to hide from her embarrassing fumble.
+
+"Yeah, let's grab what we can and get this stuff out of our eyes," Lotte promptly agreed.
+
+The group collectively nodded and then quietly moved out while searching for any glowing resources. Like three unseen shadows, unless there was another bat, it was improbable they'd unwillingly be involved in another monster brawl this time.

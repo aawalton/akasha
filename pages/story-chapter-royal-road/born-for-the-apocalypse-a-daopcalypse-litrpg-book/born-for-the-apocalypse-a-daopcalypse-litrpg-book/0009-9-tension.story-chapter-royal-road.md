@@ -1,0 +1,185 @@
+---
+id: 09c337b7-5d3e-55aa-b1a4-d43d063f0c79
+page-type-slug: story-chapter-royal-road
+title: "9: Tension"
+slug: 0009-9-tension
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 9
+ownLength: 2164
+unit: words
+publishedAt: 2023-02-13
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1113051/9-tension"
+royalRoadId: "1113051"
+---
+
+[You have received 1295 Experience for successfully slaying the Level 3 Twilight Boar!]
+
+[Swordsman (Basic) has reached level 3! +5 Free Points, +1 Qi Pool has been awarded. ]
+
+Jack could barely focus on the notifications that popped up before him even when their contents were directly conveyed to his thoughts. The battle fever that had gripped him had only just begun to recede but he hadn’t even gotten an opportunity to sweep his surroundings yet. Without knowing if there was still danger abound, he made the decision in a snap second.
+
+In truth, he had decided on the stat allocation long ago and now he was only reaffirming that decision— the only leeway he had left was for the leveling system’s variables changing, allocating progressively greater or lesser Free Points as he grew in level.
+
+Three in strength, two in perception,’he thought-commanded, finally addressing his lowest stat, strength, which had been resting at a measly six. Though Jack had always preferred a more agile fighting style that relied more on precision and skill over raw power, the limitations of his technique had been quite thoroughly exposed in his battle with the Twilight Boar— if there had been enough strength behind his initial blow, whilst he still wouldn’t have outright managed to have killed the boar due to his poor footing and rushed form, the battle didn’t need to be as down to the wire as it had ended up being.
+
+Plus, part of him wanted to know how powerful Zornhau would be with such a significant increase in strength.
+
+The rationalization for perception remained much the same—-though Qi Pulse meant that he did not have to rely on his natural ability to perceive danger all the time, it was still too volatile a skill to use regularly and more importantly, it drained his Qi Pool too fast.
+
+Once again, a golden spark ignited in the whirlpool of energy that regulated his Qi Pool, distributing the ethereal power to every corner of his body. His muscles began to wildly twitch and writhe as if they were a living organism trying to break free of his body, the experience far stronger than the time he’d improved his constitution. His gaze began to feel sharper, his senses, keener, while improving his perception largely remained the same experience.
+
+[Name: Jack Anderson
+
+Cultivation Stage: Qi Gathering
+
+Race: Human [Unrefined]
+
+Class: Swordsman [Basic]
+
+Class Level: 3 (679/2000)
+
+Dao Mark: Inert
+
+Minor Dao Fragment: -
+
+Skills: Inspect (Lv.2), Qi Blade (Lv.3), Qi Pulse (Lv. 2)
+
+Statistics:
+
+Strength: 9
+
+Constitution:9
+
+Intelligence: 9
+
+Wisdom: 7
+
+Dexterity: 8
+
+Perception: 12
+
+Qi Pool: 4/12
+
+Tutorial Points: 84]
+
+Jack felt satisfied by the status that flashed in his mind’s eye, especially when he confirmed that his strength was no longer lagging behind his other stats.
+
+“What the fuck was that supposed to be, man?” Trent's raised voice interrupted the brief leeway he’d managed to carve out for himself, yanking him back to the present.
+
+Involuntarily shifting back to the chūdan-no-kamae stance, Jack hurriedly sweeped his surroundings, fully prepared for another round of combat. Maintaining an iron grip on his sword’s hilt, he immediately felt a pang of ill-timed desire; wanting to test out the explosive strength he knew to be concealed within his wiry muscles.
+
+This time though, it was Jack’s turn to be surprised.
+
+Since he had heard no desperate pleas for help or mournful cries echoing out, Jack had indeed expected his group to survive the onslaught.
+
+However….
+
+Jack’s gaze first fell upon Sarah, who towered above the corpse of a Level 2 Twilight Boar. What surprised Jack was not the feat of her slaying the beast itself, though that deserved kudos aplenty, but how she’d killed it— the tip of her spear had punctured through the beast’s eye shaft and likely pierced through the brain. It was a kill so clean that it made Jack wonder if his mind was playing tricks on him. Not even he would consider aiming for a target that small and precise and he was plenty crazy by the other’s standards already.
+
+Martial artists were inherently proud individuals, so he would not be surprised if most in his position would chalk it up to luck. Sure, there was likely an element of luck involved but her aura had changed.
+
+In her mind’s eye, the image he had of Sarah was of a sociable, well-adjusted individual who had been thrown into a grossly unfair situation. She was fit, yes, her toned musculature indicating that she took care of her physical health, but that was about it. The aura he spoke of was no arcane concept, but instead, a social construct of sorts; a person’s demeanor, body language and footwork revealed much more about a fighter than words or conversations could.
+
+The way Sarah had held her spear, form notwithstanding, was an entirely defensive one, casting some doubt upon her willingness to kill. The hesitation visible in her gaze, her unsteady footwork and her twitchy fingers projected the aura of a capricious fighter.
+
+Now though...
+
+This time, when Jack looked in her direction, Sarah met his gaze. Her spear was casually planted in the ground, held aloft with her right hand, meaning that she had surveyed the area and determined that there was no threat left, instead of forcing herself to maintain a defensive stance at all times. The latter might sound like the risk averse methodology, but all it really accomplished was exhausting oneself to the point of weariness.
+
+This meant that this new version of Sarah was confident and she trusted her abilities and reflexes to keep her safe. In her amber eyes, Jack saw a gleam of defiance that was lacking before, her body language conveying a relaxedness that was a hallmark of experienced fighters and her aura, a sense of stability? It was as if she’d found something that had rekindled her desire to keep going.
+
+That was the only way it made sense— a person couldn’t simply change their entire aura, their demeanor in a matter of minutes, not unless they found something extraordinary. Leveling up alone could not provide such confidence.
+
+Jack averted his gaze before Sarah could see the small smile that had made its way onto his visage.
+
+This group just got a whole lot more interesting, eh, He thought.
+
+“What did I do?” Andrew replied in a perfectly innocuous tone, not a shred of his usual veiled aggressiveness in his voice.
+
+That caught Jack’s attention.
+
+“Damn you!” Trent snapped, practically screaming at this point.
+
+That made Jack cringe. He supposed that their scrap had already made enough noise at this point, but screaming didn’t help.
+
+“I saved your life and this...” Trent snarled, his hate-filled gaze falling upon the Twilight Boar’s carcass. Jack found himself examining the arrow puncture wound, before his gaze flickered over to the seemingly impossible sword strike; another puncture wound, but this time it had somehow perfectly found the beast’s throat with an upwards thrust. A sword strike that couldn’t have been executed due to their difference in stature unless the target was stationary.
+
+“.... this is what I get as a thanks? You stole my kill, you damn bastard!" Trent bellowed out furiously as Jack jogged towards them, aiming to break up the confrontation before it spiraled into something nastier.
+
+“I was just defending myself,” Andrew replied with a nonchalant shrug. “If I didn’t end it there, the damn Twilight Boar would have bitten my arm off. What the fuck do you expect me to do, man?” Andrew posed a rhetorical question as he took a step towards Trent, his sword still held in his hand; clearly trying to intimidate him into quietening down.
+
+“How do you know that?" Andrew questioned.
+
+“Know what? he retorted, a brief flash of confusion visible on his visage.
+
+“What that alien thing is called, you fuck-wit! You got that message Jack was talking about, didn’t you!” Trent accused.
+
+Andrew’s expression darkened.
+
+“Yeah,” he replied, his voice deep and gravelly. “Yeah, I did. What are you going to do about it?” Andrew asked, his breathing turning heavy as he took another step towards Trent. “Report me to the police?” he asked, as he took another step. “Gonna file a lawsuit, aren’t you now?” another step. “I stole your kill, so tell me what you’re going to do about it?”
+
+Though he hadn’t realized it, Trent had instinctively begun to back away, fear flashing in his expression as his right hand inched towards his quiver.
+
+“I’m going to need you to stop, Andrew,” Jack’s voice echoed out from the side, startling both of them.
+
+Jack stood there calmly, sword held in his right hand, gaze centered on Andrew.
+
+Trent breathed in a sigh of relief, while Andrew, though he tried to conceal it, let his emotions slip onto his visage.
+
+“This ain’t none of your business. Stay out of it,” he shot back, still refusing to acknowledge Jack as the de-facto leader of their group.
+
+Instead of taking affront to his words, Jack smiled.
+
+A warm, genial smile was offered, the kind one would offer to a cherished relative or a loved one.
+
+“Make me,” he replied politely, his words devoid of an ounce of malice.
+
+Jack just calmly remained standing on the spot, allowing Andrew to scrutinize his gaze as much as he wanted to.
+
+A bead of sweat rolled down Andrew’s forehead, his mind flashing with the crazy maneuver Jack had pulled off back when the rest of them had been running for their lives.
+
+He flinched, turning his gaze back to Jack, “Let bygones be bygones, it won’t be happening again.”
+
+Trent shot Jack a grateful look, before glowering at Andrew one, final time before he let out a frustrated sigh, “It better not.”
+
+“Trent, walk with me. Andrew, if you haven’t looted your kill, do it now. Doesn’t look like there’s any more beasts in the vicinity, but I don’t plan to stay here for longer than a second necessary,” Jack commanded, not hesitating to order around Andrew again. The danger his volatile nature presented had, of course, not been something that had slipped by Jack— but for now atleast, especially considering how close the last encounter had been, they needed all of their members preferably alive.
+
+The walk was a small one, but seemingly long enough for Trent to once again offer his gratitude. Though on the timid side, Trent's demeanor was refreshingly open and honest— maybe not the best survivalist trait, but it was a good people trait and those kind of people would do his mental health some good.
+
+[Looting Twilight Boar….
+
+Congratulations, you have successfully slain an enemy (1) level above you.
+
+You have received 186 Tutorial Points.
+
+You have received Twilight Armor (Uncommon, Qi Gathering Stage) x1]
+
+Jack’s eyes widened in surprise at the words armor, desire flashing in his gaze as he hurriedly pulled up its description.
+
+[Twilight Armor Chest Piece, Qi Gathering Stage Artifact (Uncommon).
+
+Description: This chest piece was crafted from the flesh, bone and sinew of the Twilight Boar, Evolved Earth Predator. The armor itself exhibits strong resistance to slashing and blunt force attacks, mild resistance to stabbing based attacks and no resistance to Basic Qi Empowered attacks.
+
+Artifact Ability: Generate a small Qi Shield that shields vital regions in the abdomen. Channel 1 Qi Point into the Twilight Armor for every second the shield is active. Shield can negate Basic Qi Empowered attacks for its duration.
+
+Requirements met.]
+
+Holy fuck.
+
+Jack remembered that the System had promised him rewards for killing the enemies it had demarcated but this... he hadn’t expected something like this, not yet anyway.
+
+His heart thumped with anticipation as he withdrew the Twilight Armor Chest Piece from his inventory, startling Trent.
+
+The fearsome Twilight Boar’s inky black fur now comprised the innermost layer of the armor, offering a more regal first impression over an intimidating one. Interlocking bone chips formed the outer layer, resulting in a rather morbid, but well protected scale armor that should offer him decent protection against regular attacks. The white sinew epaulets seemed a bit overkill, but Jack would not dare utter a word in complaint—compared to his current, paper-thin ‘armor’, this was a great boon.
+
+“Trent, can you guard me for a second?” Jack asked.
+
+“Sure. After you’re, erm, done changing though, could you tell me more about how you got that? I mean, I have my guesses but…”
+
+“I will,” Jack replied, as he sheathed his sword and began to don his new acquisition.
+
+Trent's envious gaze had not escaped him, but he had done nothing to attract his ire so he wasn’t too concerned about it at this point.
+
+A minute later, Jack secured the last of the armor straps, surprised by how comfortable it was from the inside. He felt far more secure than he had been earlier, but at the same time he resolved himself to not fall into complacency.
+
+“It’s time to leave.”

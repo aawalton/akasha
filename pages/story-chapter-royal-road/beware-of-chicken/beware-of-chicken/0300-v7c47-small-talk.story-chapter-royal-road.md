@@ -1,0 +1,137 @@
+---
+id: 489a78a5-f6ea-5b79-95df-ed1ba461d9eb
+page-type-slug: story-chapter-royal-road
+title: "v7c47: Small Talk"
+slug: 0300-v7c47-small-talk
+partOf: beware-of-chicken
+position: 300
+ownLength: 2186
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3254467/v7c47-small-talk"
+royalRoadId: "3254467"
+---
+
+The show was both entertaining and engaging. Not going to lie, I had been expecting to be a bit bored by all the pomp and circumstance, but in the end it just turned into a good time. We went through poetry readings, artifact displays, calligraphy demonstrations… all sorts of “noble” pastimes, interspersed with the occasional martial demonstration, like the one the Grand Ravine Sect did, their cultivators soaring like Spider-Man through the air with their rope darts, which looked cool as hell. Everyone relaxed, even Meimei, the show settling her nerves. She had enjoyed the hockey performance just as much as I had.
+
+Through it all, we ate a very nice meal, which after the first three performances was explained to us. It was apparently a historical feast, or as close as they could get it. They had found a menu in one of the libraries beneath the mountain for a feast that had once been hosted here.
+
+A lot of it was similar to the fare we had eaten at the Framed Sun Sect, but there were interesting notes thrown in. There was food that was obviously from the Grand Ravine; a kind of dumpling stuffed with lamb, yogurt with berries, and cheese curds that were a lot better than the ones we got back home. They were nice and squeaky, and my mind instantly went to poutine.
+
+But beyond the interesting interjections from regional food, there was a bunch of stuff that was obviously meant for Spirit Beasts, which the announcer seemed to not realise. I don’t think humans were meant to eat that much steak tartare and raw bone marrow; and the flavours in the massive salad marinated in a variety of subterranean roots were definitely a bit strange to a human palate. Not bad by any means, but they were strong.
+
+Washy looked like he was in heaven, trying each and every one of the new dishes. One, that contained a lot of fish and lake reeds, seemed especially agreeable to him.
+
+“Oh, I remember that one,” Tianlan said. “The Lord of the Lake loved it. It's specially made to taste good to dragons, and the lazy fish always had one of his priestesses feed him. Said lounging while being pampered made it taste better.”
+
+I snorted at the mental image.
+
+Eventually, though, the demonstrations ended. The food was eaten.
+
+“And that concludes tonight’s presentation. The Earthly Arena will now undergo transformation to make a space better for socialization."
+
+The Sect Masters didn’t do anything as gauche as staring, but I could feel the intent. Everyone focused on us as the lights returned.
+
+The stage rumbled, and the main viewing gallery we were on descended until it was flush with the floor. Benches and seats sprang up like mushrooms, and fountains grew to break up the line of sight between people and provide at least a bit of sound cover for more private conversations. Our tables disappeared, leaving things open for people to approach.
+
+And then it was time to mingle. People immediately began jockeying for position… or at least the “less honoured” people did.
+
+“The Grand Ravine Sect will pay their respects first, as is their right,” Xiulan whispered.
+
+Which made sense. The old man who was sitting at the head of their table, and who everyone clearly deferred to, rose.
+
+He looked to be about in his sixties, like Gramps, and like Gramps the old man still had a frame full of muscle. He looked like a wrestler who had cut down some to fight in a different weight class. His skin was slightly tanned, and definitely weatherbeaten, though in the Spiritual Realm that was more a choice than anything the sun could do to him. A bandana was wrapped around his head, printed with geometric patterns that were repeated on the people around him. He wore no sleeve on his right arm, instead bearing a tattoo that went from his neck to his hand. He had a full beard, and the entire thing made him look like one of those old biker gang chiefs—the guys who had lived through everything their lives had thrown at them.
+
+None of them wore clothes that could be considered “normal” Imperial style. All of them were in something that looked more Mongolian than anything.
+
+“Ulagan Baatar and the Grand Ravine Sect pay their respects to Master Rou and Lady Hong,” the old man said, and beside him, the rest of his sect contingent also bowed. I recognised Guo Daxian and his dad—who also looked like a biker. They had a new addition, a very pretty woman that I think was Sarnai, assistant to Xiulan, who had pointed her out to me earlier. In fact, I kind of recognised every Sect Master here. Back home, I had gotten Xiulan to teach me a little about all the sects and their key members. “We hope that the small skills of our province were agreeable to you.”
+
+“It was a fine bit of entertainment. I greatly enjoyed the hockey match—it was good to see it played here,” I replied.
+
+“It is a good thing for the Younger Generation to engage in. Training, and a game. It is a wise Master who makes the necessary things in life fun,” Baatar said…. and he actually got it. It was supposed to be fun, not just something you grinded at. “Young Mistress Tigu has shared with us Laku Rou Se. A fine sport for summer, and a fine sport for winter,” he nodded to Tigu, who smiled back at him.
+
+“Tigu and Yin have spoken to us of their competitions against Tarkhan and your Grand Ravine; they say they are a good challenge.” The Young Master of the Grand Ravine Sect instantly puffed up at the praise, while Baatar smiled with some pride.
+
+“It is rare that one can trade pointers with those outside our sect, and that he may do so with your daughter is a blessing,” Baatar replied. “And yourself, My Lady?”
+
+“It was an enjoyable evening. I am of like mind with my husband,” Meimei said, giving him a small smile.
+
+Baatar nodded at the response. “Then we are content; we only wished to show our appreciation. We shall bother you no more tonight unless you call upon us; there is no point in taking up the Great Expert’s time when he has generously given it to us by agreeing to travel to the Grand Ravine.”
+
+I raised a brow at the rather swift bow out, but nodded. I would have thought he wanted to monopolise our time, but instead it was a rather brief interaction, acknowledging that he had our time later. He was polite and to the point, without too much asskissing.
+
+“If the food in the Ravine is anything as good as it was here, I’m looking forward to our trip,” I said. The old man’s eyes brightened for a moment at the praise.
+
+The old man smiled. “I guarantee it, Lord Rou. My daughter and granddaughter shall attend to your family personally.”
+
+Xiulan’s assistant gave a little wave when he said ‘granddaughter”, then realised what she was doing and blushed. She looked like she wanted to bolt, but stayed rooted to the spot.
+
+Yeah, I've been there. I gave her a reassuring smile, and she just blushed harder.
+
+And with that, the Grand Ravine Sect went down the table. “Young Mistress Tigu, your work was exemplary in setting up this event. Now may I have the honour of greeting your fellow disciples?”
+
+Tigu, Washy, and Babe all looked a bit surprised… and so did Bane of the Black Lances when Baatar looked directly at her and called her a disciple. Both she and Babe had seemed to expect to be ignored. Yet there was no hesitation from Baatar, no hitch at all when talking to the Spirit Beasts. Either he was good at acting… or he was genuinely talking to them to try and gauge what they liked.
+
+And I was fairly certain it was the latter. The man was radiating honesty… which did kind of match what Xiulan had told me. The Grand Ravine felt positively towards us.
+
+Hopefully, every interaction could be this pleasant.
+
+Next up were the Hermetic Iron Sect. Originally, Delun thought to keep the betrothal a secret, to not attract undue attention.
+
+Tigu, naturally, when somebody saw her hug Delun and asked when they were getting engaged as a joke, responded, “We already are.”
+
+There was no need to say how fast that news travelled. By midday, everyone knew.
+
+We made a bit of small talk after—Delun’s grandparents were doing better, thanks to Meimei’s help, which was always good to hear. Then, Delan and his wife bowed, and the next in line came.
+
+“Lady Meiling, it's good to meet you at last,” Cai Xi Kong said, his smile warm.
+
+“And it's good to meet you at last as well, Master Xi Kong. It's long been my desire to meet the father of my Sister,” Meiling replied.
+
+Xi Kong and Meiling just chatted a bit before we promised to talk later. Xianghua and Gou Ren also came up to greet us “officially”, though it was mostly as a joke, I think. Xianghua launched into an entirely too flowery greeting, her tone poetic, and a twinkle in her eye.
+
+“And so I hope a thousand blessings shall fall upon you and your line,” she finished her ten minute speech, while the other people who wanted to come up and talk behind her looked increasingly annoyed.
+
+It was pretty fucking hilarious to have her just troll everybody else while I sat there and occasionally nodded my head or stroked my chin.
+
+“You have my thanks, Liu Xianghua. Truly, you have a way with words,” I replied, my voice dry.
+
+Xianghua, hands on her hips, just nodded proudly.
+
+And then came the people I didn’t know.
+
+…and the first one started off kind of how I expected it to.
+
+“The Azure Horizon Sect is exceeded only by the Grand Ravine Sect, and with the return of our ancestor’s arts? We only go from strength to strength. We would be delighted to show Master Rou our hospitality—our manor is the finest in the hills. It is situated on the sea, where one may view the endless blue horizon,” the Sect Master of the Azure Horizon Sect, Tian Shen, boasted. He was clearly a proud man, and one that I was mainly listening to for the sake of politeness, when he said something that surprised me. “You surely know deep secrets of the sword, Master Rou—your daughter and even this Spirit Beast have profound Sword Intent. I would trade pointers with him if possible,” Babe perked up when he heard that.
+
+‘This one is but a novice, but if the Elder wishes to trade pointers, it would be this one’s honour,’ Babe said, his quiet voice carrying to Tian Shen. The man’s eyes widened.
+
+“You speak well!” the cultivator said, clearly surprised, before he recovered. “You are quite skilled in my estimation, yet you call yourself a novice?”
+
+‘I have witnessed a Cloudy Sword and an Unconquered Blade. I am indeed a novice,’ Babe said, his voice matter-of-fact.
+
+The man paused. “Of course. I am but a frog in a well. The Disciple of Master Rou would have indeed seen things that would be the equal of our ancestors. Truly, our paths were meant to cross!”
+
+…we did need a place by the seaside for the final leg of the journey, and Babe looked interested.
+
+“We are headed to the sea, so perhaps our paths will cross,” I replied non-commitally, not entirely sure yet, but my words seemed to be enough. The man walked off with a massive smirk on his face, while others looked jealous of his “success”.
+
+I kept my face neutral as the next sect stepped up. The Jade Dew sect: the best pill makers in the Azure Hills.
+
+The man came forward with his daughter in tow, and was not entirely subtle about introducing her.
+
+The young woman looked just a bit uncomfortable and overwhelmed by the entire thing, trying to smile, but that didn’t take away the trepidation in her gaze.
+
+Meiling, despite the fact that her nose was wrinkling from the smell of pill impurities, took pity on her.
+
+“What manner of medicinal pills do you make?” she asked, directing the question to the young woman… who I think was older than she was.
+
+The woman startled, listing out the pills they made… and then Meiling started asking actual questions about production and the woman got more into it.
+
+By the time the conversation was over, the lady was smiling, looked rather relaxed, and they both walked off happy.
+
+I glanced up at the line of people still subtly jockeying for position.
+
+…it was going to be a long night. But I was in a good mood from the show, and things hadn’t been too bad so far. Just a lot of small talk, mostly.
+
+Though I did wonder how this looked from their point of view.

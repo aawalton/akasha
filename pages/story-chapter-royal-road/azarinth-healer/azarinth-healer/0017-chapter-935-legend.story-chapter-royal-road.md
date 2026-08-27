@@ -1,0 +1,279 @@
+---
+id: 61e4118e-35e7-52bf-8c16-42d72aeccf6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 935 Legend"
+slug: 0017-chapter-935-legend
+partOf: azarinth-healer
+position: 17
+ownLength: 3789
+unit: words
+publishedAt: 2024-08-29
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1779187/chapter-935-legend"
+royalRoadId: "1779187"
+---
+
+Chapter 935 Legend
+
+Gweneth looked on with wide eyes as the sky turned all kinds of colors. All the magic she had ever seen didn’t come close. Except maybe when the sun had started flickering. That one was more impressive but also worse. She made sure her aura was active when the bits and pieces came flying down again. What a stupid thing to do, she thought and jumped off from the roof she had stood on. “It did look nice at least,” she murmured to herself after landing. A grin on her face, she ran through the packed streets of Morhill, past the stalls and merchants, the performers and visitors, all of them ready to join the festival.
+
+She dodged past a group of dwarves, one of them cursing after her with loud shouts. She rushed past a few Mava, the foxes following her for a short while, quipping with joy before they dispersed again.
+
+Gweneth laughed and kept running, feeling the arcane magic flowing through her veins. It had been such a pain to get that Class, she wouldn’t ever not use it. Will need more mana, I can barely keep this up for a few minutes. She kept the spell up anyway, rushing out of the open southern gate before she skidded to a stop, her leather boots sliding on the pebbles. All around, she saw foundations set down for new structures. She frowned. She had liked Morhill when she had arrived here after the Extraction. Soon it would be just another massive city, like Arkamp in Asila. She spat on the ground and crossed her arms.
+
+They’re late, she thought and glared towards the high gate of the city. Taking the teleportation gates back to Ravenhall would take longer than just running there, with all of those visitors around. And she liked running. She had always liked it but now, with her Class, she liked it even more.
+
+Gweneth grumbled and started pacing. She didn’t like waiting. Waiting annoyed her. She had waited enough already. All of that waiting but now she was here. An Arcane Sentinel! Part of the Sentinel Corps. Not corpse. She didn’t like the word. Why use a word so close to another? The Healers, Lilith’s Legion, Arcane Monsters, three names she came up with on the spot, and all of them were better than Medic Sentinel Corpse. She stuck out her tongue at the thought. It sounded like thick volumes of history, like the notebook Paige always carried around in her pack. Yucky.
+
+She forgot her thoughts and beamed when she saw the aforementioned girl step out from the city. She was smaller than her but not by much, wearing the same black leather armor as the other new Sentinels in Ravenhall. Paige had long shiny blonde hair and striking green eyes but she wasn’t really that pretty. Not at all! The girl looked cautious, carefully studying the foundations all around before her eyes found Gweneth. She smiled. A kind smile. A stupid smile, Gweneth thought and narrowed her eyes.
+
+Next to Paige walked Ryan, the boy assigned to their group of three. His shoulders were hunched, his eyes focused on the ground before he scanned the surroundings. Like a dog that had been beaten, Gweneth thought. He was tall and a little bit muscular but not a lot. She didn’t mind him. He fought well and she liked that. When he fought he was different. Now, here, not fighting, he was boring and sad.
+
+“Let’s gooooo!” she shouted towards them and jumped. “To Ravenhall!”
+
+Paige smiled and Ryan glanced at her with an unreadable expression. His black eyes seemed to almost look through her.
+
+Gweneth shuddered before she shook her head and turned, glancing back to see if the others were coming and then she ran off whilst giggling to herself. Her magic felt so good! And they had a lot of work to do before the Headmaster would let them go and fight void monsters. She hoped there were at least a few hundred thousand of them left when she was ready, maybe a few villions, or was it millions? She didn’t care, Paige would know.
+
+The winding road to Ravenhall still showed craters, bits and pieces of burnt and splintered rock, fragments of magical creations from when people had fled past here and to the city of Shadows. She slowed and whistled when she saw the furrow burnt into a nearby mountainside, one of the cannons, she was sure of it. “Look!” she pointed but was already running along again.
+
+“Why are we running so fast?” Ryan asked as he tried to keep up.
+
+Gweneth rolled her eyes. “They’re going to have fights at the Academy, to show off what the students have learned.”
+
+“It’s just a way to entice new people to join,” Paige said. “There won’t be anything we haven’t seen before.”
+
+Gweneth frowned. “Well, who cares, let’s go anyway.”
+
+They soon saw the city in the distance, cannons and a ton of walls. She felt her chest rising with pride. The headquarters were here and she already thought of the massive fortress city as her home. She looked up and grinned, nodding her head towards the dead dragon nestling atop the mountain. She would kill tens of them someday. Or more. She wasn’t sure yet. Maybe they were nice too but not this one, because Lilith had fought and killed it.
+
+She rushed down the slope and heard the others following behind, the three young Sentinels soon reaching the city before they made their way inside and to the Academy grounds.
+
+Gweneth jumped up one of the walls surrounding the training grounds and sat down on it, ignoring anyone who would stare at her. Yes, look at me. I can jump onto walls now. What are you going to do? Fight me? She grinned, glaring at a few adults looking up at her with frowns. Civilians, not teachers here, or adventurers.
+
+“Gwen, what are you doing? We’re not allowed on the walls,” Paige said.
+
+“Today is special,” Gweneth answered. She knew the girl would come around. Not that she cared either way.
+
+Before her, she saw the broad field covered in a thin layer of sand, various students of differing ages showing off their skills and magic, most of the ones here using swords and other martial weapons. They flashed with different colors, vanished and appeared, charged and lunged, metal striking metal as dozens of people watched on, more joining with every passing moment.
+
+She felt someone pull on her armor and turned, seeing Ryan but the boy didn’t look her way. She frowned. “Why are you pulling me?” she demanded and followed his gaze. Her eyes went wide.
+
+A vampire, pale, with long and wavy black hair, holding a black and silver umbrella to protect himself from the sunlight. He stood with casual grace but she could tell he was different. He listened to a man wearing black and dark red armor, two curved swords at his hips, his hair short and black. But more importantly, next to the vampire, she saw a woman with long black hair and blue eyes, a woman wearing chipped and scraped up armor that looked just like the dragon on the mountain far above. They looked almost normal but something she felt in her deepest heart and soul let her know that they were different.
+
+“It’s her,” Paige murmured.
+
+“Her…” Ryan copied.
+
+Gweneth jumped down from the wall with a bright smile. Lilith!
+
+She took a few confident steps before she faltered. Hadn’t she waited for this day? Wouldn’t she go to her and tell her all about the plans she had, wouldn’t she go and challenge her to a battle, like all the older Sentinels talked about? Limbs and blood strewn about, Lilith sitting on her ashen throne. She wanted to see it but she couldn’t take another step. She gulped. Her head reeled just looking at the two. She could feel the weight of their magic.
+
+“It’s like looking at two monsters,” Paige murmured, the girl having joined her.
+
+“What are they doing here? Shouldn’t she be out there fighting void creatures?” Ryan asked.
+
+“No,” Paige said, using her usual condescending tone. “Lilith is at such a high level, she doesn’t benefit anymore from killing those lower monsters. She helped with clearing the most dangerous groups but the rest is up to others who can actually level up and train against those creatures. It’s like the whole world has become a dungeon.”
+
+“What do you think they’re doing here?” Gweneth asked.
+
+“They’re just talking,” Ryan said.
+
+They heard the man standing in front of Lilith and the vampire laugh, he reached out his hand and Lilith shook it.
+
+Gweneth gulped and narrowed her eyes. She used her magic and then took a step, then another. She could feel her entire body reject the idea of getting closer to those monsters but she did it anyway. She sneaked past a few trees and waited, glancing out from behind them to see the people closer now.
+
+Her armor is so cool!
+
+“… I’m glad you found your place here, Edwin,” Lilith said, letting go of the man’s hand.
+
+“Still getting used to things but you know, after everything, I’m glad. More so for Fel than myself but I’ll find my way. There is some satisfaction in teaching these would be adventurers the basics.”
+
+“And beating them down,” Lilith said.
+
+He grinned. “Sometimes. If they deserve it.” He glanced over to where Gweneth was hiding.
+
+She moved her face behind the tree and blinked away, her heart beating in her chest, a wide grin on her face as she joined her friends again. “I heard…” She couldn’t get the words out.
+
+“Breathe first,” Paige said.
+
+She did that. It didn’t sound like the worst idea. But not because Paige said it, just because she herself figured it out. “I heard them talk! He’s Edwin, and it sounded like he knows Lilith.”
+
+“A spy.” Gweneth heard someone say. She saw both Paige’s and Ryan’s eyes go wide. The voice had come from right behind her. She gulped. She knew the voice and felt the paralyzing weight of magic, of power. Two hands grasped her shoulders and she knew she was dead. Just a bug squashed on the window, like the small fruit flies that were always around in the orphanage. They liked the old bits of vegetables in the trash.
+
+She couldn’t talk and felt herself turn as she was moved, coming face to face with Lilith, her blue eyes staring into her. There was something else in there. Something deeper. Something more terrifying than even old gran Kara when she was really angry. It was bright. So very bright. She looked down and shuddered, her breathing fast as she stared at the chipped armor. The armor used to fight the Ascended, she knew it, had heard it all. Then she felt something warm flow into her mind, something so pure and perfect, it felt like someone hugged her. Really hugged her, and for once, she didn’t mind.
+
+“Didn’t mean to terrify you that much,” Lilith said and stepped away, looking at Gweneth and then at her companions.
+
+Gweneth felt fine again, the pressure she had felt in Lilith’s eyes a strange memory. She knew there was something terrifying there, but she didn’t mind anymore.
+
+[Dragonslayer – lvl ????]
+
+It’s true. All of it is true. She smiled and saw the vampire from before join Lilith.
+
+He twirled his umbrella and smiled, fangs visible as he stared at them.
+
+When Lilith felt like a monster, like a storm or something, the vampire felt like a cat, a dangerous one though, one that could kill Gweneth with a single strike of its paw. “What is it you found? Battle healers, I see.”
+
+“Haven’t met them yet,” Lilith said. “You three are arcane sentinels, you ate the root, didn’t you?”
+
+Gweneth felt herself nod.
+
+“It’s nice to meet you. I’m Ilea, also known as Lilith, one of the founders of the Sentinels, but Trian did most of the work if I’m honest, and all the faculty,” Lilith said and touched her own cheek. “What are your names?”
+
+“Ryan,” Ryan said immediately, his voice different, like when he was fighting.
+
+“Paige,” Paige said, her voice quivering slightly.
+
+Gweneth tried to slow her heart pounding in her chest and then she spoke. “Gweneth!” Too loud!
+
+Lilith only smiled. “My hearing’s just fine. Do I look that old?” she said and glanced at the vampire.
+
+He stared at her with his deep red eyes. “Do I have to comment?”
+
+“Oh, right, forgot you were ancient,” Lilith said and smiled. “You three, if you have time, come join us, I was about to show Verillion the headquarters. A good time to meet the new students as well.”
+
+Gweneth smiled and watched as Lilith turned, the vampire giving them a long glance before he followed. She slapped her own cheeks and felt the heat and pain before she made a yelping sound.
+
+“Is this real?” Ryan asked.
+
+“I think it is,” Paige said. “She invited us along.”
+
+“They said she was nice,” Gwen said.
+
+“Only when she’s not fighting,” Ryan whispered.
+
+“I heard that,” Lilith’s voice resounded in Gwen’s head. She froze in place and used her healing to make sure her heart didn’t explode.
+
+“She hears all. Sees all,” Paige said.
+
+“No I don’t. I’m not a goddess, just a powerful human,” Lilith said again.
+
+“Hears all, sees all,” Paige murmured.
+
+“I should probably stop,” Lilith murmured, her voice still coming to Gwen’s head. “Let’s follow them.”
+
+“She invited us, didn’t she?” Ryan said.
+
+“She did,” Paige whispered. “But let’s stay at a distance, we shouldn’t bother her.”
+
+Gwen took in a deep breath, crouched, and prepared. “I’ll bother her.” Her legs felt like jelly but she ran off anyway, rushing past Lilith and Verillion, twirling in front of them right when something in her mind clicked and she recognized his name. Verillion. The First Vampire. The most powerful of them. He had fought the Ascended with Lilith. And she froze. “You’re the first vampire,” she murmured.
+
+“Yes, child,” Verillion said, a slight grin on his face.
+
+“I’m not a child,” she said.
+
+“That’s exactly what a child would say,” Lilith said.
+
+Gwen frowned. A retort was on her tongue but then she realized who she was looking at. She nodded. “I’m a child.”
+
+“A teen,” Lilith said and touched her shoulder. “A Medic Sentinel with arcane magic, the same that flows through me.”
+
+“And me,” Verillion said.
+
+Gwen felt like she saw a sad expression in his eyes but she didn’t know what to say. Her chest felt like it was glowing. A Medic Sentinel. Lilith herself said it. The same magic that she has. She had been many things in her life. A nobody. A thief. A worthless nobody. Never a Medic Sentinel. Not yet. Not really. She blinked her eyes and found her sight was blurry.
+
+“You’ll do great things in the future, I’m sure of it,” Lilith said. “But take your time. Don’t rush into danger and trust your teammates, they seem a little more cautious than you. That’s not a bad thing.”
+
+Gwen glanced past them and saw Ryan and Paige standing a few meters away.
+
+Lilith let go of her shoulder and turned away. “To my earlier point, yes, Aki trains them as well. But he’s a bit more… hands on, if that makes sense.”
+
+“I see. I suppose he would be more effective than the enchanted training golems in the Azarinth temples,” Verillion said as he joined in beside Lilith.
+
+“Vastly. I remember fighting my first Centurion like it was yesterday, let alone what the Executioners can do. Still strange to think they’re on our side now,” Lilith said.
+
+“What you did with Aki was a stroke of genius, though knowing you, I would assume it was just dumb luck,” the vampire said.
+
+“Decades of planning coming to fruition,” Lilith said and laughed.
+
+Verillion sighed.
+
+“Are you okay? Why are you crying?” Paige said, having stepped close to Gweneth.
+
+“I’m not crying. It’s just dust and sand,” Gweneth said, rubbing her eyes.
+
+“You’re crying,” Ryan stated.
+
+She glared at him but the boy smiled and touched her shoulder.
+
+“I’m proud of you,” he said.
+
+Gweneth closed her eyes and groaned. Everything was confusing. “Why would you be proud of me?” she asked but instead turned and pointed to the two high level monsters. “They said they were going to the headquarters. Let’s follow them!”
+
+“Yes, we have to find out more about their magic,” Paige said, her notebook in hand now. She scribbled things down as they walked.
+
+Gwen felt like a huntress as they followed the two people along. They waited at a distance whenever Lilith bought something from one stall or another. It looked like she was constantly eating. When they finally reached the headquarters, other Sentinels and some random people and adventurers were walking with them too, some at a distance, others openly approaching the two, both of them taking some time to greet and talk to the people. Even the vampire seemed nice by now, though he had seemed scary from up close.
+
+They entered the headquarters and Gweneth saw a lot of Sentinels she hadn’t ever met before. They looked impressive, had high levels she couldn’t identify, wore armor made of ash, some a silvery metal and bone. The stonehammer armor, she thought. Someone had told her a rumor that the bone was from Lilith herself, ripped out of her body with her own hands and given to those who became Medic Sentinels.
+
+She couldn’t imagine ripping out her own bones, it sounded so cool.
+
+“They’re going to have a bout,” one of the nearby Sentinels said, a man with blonde hair and armor made of ash.
+
+The girl next to him grinned. She had chains wrapped around her arms. “She’s been out there all this time. How many do you think she killed?”
+
+The man puffed air out of his nose. “You’re not trying to compete, are you?”
+
+“I’ll never stop,” the girl said and glanced at Gweneth. “Seeing something interesting? You’re new, aren’t you? One of the arcane ones.”
+
+“Is that a problem?” Gwen asked, more bite in her voice than she intended. She was excited. And she knew the girl was trouble, she would get hit again.
+
+Instead, the other Sentinel grinned. “Look at this one, talking back to me like she’s some three mark brawler. I like that.”
+
+“Don’t get too close to her, little one,” the man said, looking at Gweneth. “She will die soon.”
+
+Me or her? Gweneth gulped.
+
+“What the fuck is that supposed to mean, Nathan,” the girl with the chains said and spread her arms wide as he smirked. “I won’t challenge her to a bout this time.”
+
+“Sure,” the man said and followed the other Sentinels down the stairs.
+
+The girl sighed. “He always tells me I’m too reckless,” she glanced at Gweneth and her group. “I’m Celeste, good to meet you. Hard to get around to seeing the newbies these days, so many void creatures to hunt and kill. I hope you’re not softening up.”
+
+“Aki doesn’t let us,” Ryan said.
+
+Celeste grinned. A dark expression. “Yeah. I almost forgot.” She paused and then pointed to the stairs. “Come now, they said they would have a quick bout. You’ll see something crazy, though I doubt they’ll go all out or we’d all be literal red mist clinging to the walls.”
+
+“They’re that powerful?” Paige asked.
+
+Celeste glanced back, her expression unreadable. She only said one word. “Yeah.”
+
+They went down and soon reached the deepest training hall, the one for the higher leveled Sentinels training with Executioners and Hunter Praetorians. It had the most enchantments out of all the training areas.
+
+She joined the others, excited murmurs shared by the Sentinels.
+
+Gweneth watched Lilith and Verillion standing at the center and then she saw how Lilith raised her boot and slammed it down into the ground. Gweneth had to raise her arms to protect herself against the wave of air. A ringing sound came to her ears and she heard a thrumming set of cracks run through the entire hall. Touching her nose, her hand came back with blood as she healed herself.
+
+Her hearing returned but her eyes were a little blurry still. She saw lines of blue running through the ground and walls. She cracked the enchantments. With just her boot.
+
+She gulped.
+
+“… yeah, I’ll ask him,” Lilith said.
+
+A moment later, a man in wide robes stepped out of nowhere. He looked old but nice, like the baker at the Heavenly Sweets in Arkamp who sometimes gave them leftover bread and that one time even sweets.
+
+“I don’t think this is safe at all,” the man said after a moment.
+
+“We won’t go all out,” Lilith said.
+
+“You better don’t, I don’t think I could stop you,” the man said as he stepped aside, his form glowing once with arcane power before he flared up into blue light.
+
+Gweneth once again covered her face before she saw a shimmering barrier appear before her. A dome that closed around Lilith and Verillion.
+
+“No ash or heat, just fists and claws,” Lilith said, her voice perfectly clear despite the barrier.
+
+“No fire either,” Verillion said.
+
+“Sure,” Lilith answered.
+
+Gweneth saw sets of turquoise runes flare to life above Lilith’s armor, the runes slightly hazy, an afterimage following them as Lilith changed into a battle stance. A very similar stance to the one she had learned to use. She gulped, feeling the thrumming magic of the barrier and the warriors within. She saw blood red claws form in front of Verillion’s fingers and a moment later both of them vanished, a thundering wave of force slamming against the arcane barrier. She heard impacts but couldn’t follow anything. Streaks of red splattered against the barrier. She raised her brows, realizing it was blood.
+
+“Incredible.” Gweneth heard Celeste murmur.
+
+They’re not human at all, Gweneth thought when the two fighters stood still again, their armor damaged, wounds healing in the blink of an eye. The vampire was losing.
+
+How can someone be that powerful? Could I get to that point too? She didn’t think it possible. Looking around at the Sentinels, she could see admiration, joy, and excitement in their faces.
+
+The barrier came down and she could hear Verillion’s strained breaths. He straightened up and brushed away blood from his damaged armor.
+
+Lilith looked at the gathered group and grinned. “Who’s next?”

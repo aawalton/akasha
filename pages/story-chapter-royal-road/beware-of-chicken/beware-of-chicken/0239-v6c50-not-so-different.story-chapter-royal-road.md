@@ -1,0 +1,159 @@
+---
+id: e6d272f4-8be3-553d-a7ad-97ad9758c9ce
+page-type-slug: story-chapter-royal-road
+title: "v6c50: Not So Different"
+slug: 0239-v6c50-not-so-different
+partOf: beware-of-chicken
+position: 239
+ownLength: 2075
+unit: words
+ownProgress: 2075
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2482623/v6c50-not-so-different"
+royalRoadId: "2482623"
+markedReadAt: "2026-06-29T18:59:35.726Z"
+---
+
+As always, the silence after Bi De resumed his true form was heavy. Eyes were wide, mouths were open, and some had even recoiled.
+
+Bi De said nothing, letting them recover, but one man spoke before the others.
+
+“Your plumage is more radiant than ever, Bi De,” Cai Xi Kong said, raising his own wine cup in salute.
+
+Bi De smiled. “Thank you, Sect Master Xi Kong. It is good that we are sharing a drink again; and I dare say we are overdue for another round of go.”
+
+“It would be a pleasure,” Xi Kong said. “Our discussion last time was enlightening.”
+
+Their casual conversation blew away the shocked silence, and some of the Elders started shifting on their cushions. Now, Bi De could see it in their eyes; they were rationalizing his existence. A chicken, who surpassed them. They were searching for a reason, to salvage their pride. Elder Xinling was still staring at him, her eyes shifting back and forth in abject confusion. He heard her muttering “He's a bird, how's he still handsome as a bird?” under her breath.
+
+On Gang was staring at Bi De like he was a ghost.
+
+“This is your true form?” Baatar of the Grand Ravine asked after a moment. His eyebrows were high on his forehead, but he had calmed himself. Now, he just looked interested.
+
+“Indeed. I am no legendary phoenix, nor vermillion bird. I am but a humble rooster. I do believe many of you met me the last time we were at the Dueling Peaks; I was oft perched upon my Master’s shoulder,” Bi De commented, fluffing out his feathers.
+
+There were several sounds of recognition this time, the Elders remembering the chicken on his Master’s shoulder. Most had been too awed by his Master to look more closely at Bi De.
+
+“How does a rooster even become a cultivator, let alone First Disciple?” Elder Chen of the Framed Sun Sect asked, clearly louder than he intended to. The man paused, but Bi De saw the interest in the room at the words.
+
+Bi De considered the question.“It is a tale as old as cultivation. A powerful Master met a poor child and recognised something within him. When he realised what I was, my Master took responsibility for me, raised me, and taught me how to live,” he narrated, looking into the cultivators’ eyes as he spoke, making sure they saw the truth of his words. “He is my father and Master both; just as I am his son and Disciple.”
+
+Baatar stroked his beard. “That is indeed a familiar tale; all of us have heard one akin to it. Many of us have even participated in a variation on that story.”
+
+The humans in the room nodded at Bi De’s motivations. The slight apprehension when he revealed his true form started to fade at his very human way of looking at the world, and his familiar tale.
+
+“Indeed,” Bi De said. “But as to the original point I was making. No, the monkeys of Crystal Hill and Shaggy Two are not exceptions. More Spirit Beasts than you are aware of might be possible to work with.”
+
+“Yet every other Spirit Beast I have met has been a savage animal,” Sheng of the Azure Horizon Sect rebutted.
+
+“Yes, I am sure that is true,” Bi De acknowledged. “But I shall impart unto you some knowledge: the vast majority of Spirit Beast lineages think of humans in the exact same way. Have you not gone into the homes of Spirit Beasts to slay them, extract their cores, and kill their young? Have you not destroyed their dens and put to the torch their nests to use them as resources, or just because they were in the way?”
+
+Sheng grimaced. On Gang looked away, his dead eyes boring into the tray in front of him.
+
+“I do not tell you this to shame you, but to provide context. Some men are wicked. Some men are righteous. Some Spirit Beasts are wicked. Some Spirit Beasts are righteous. The angry ones go out and fight. The angry ones attack villages. The ones that just wish to live their lives? They stay in their dens, or stay away from humans in general. It is a cycle, I’ve found. It is the same with the various human tribes and the Empire. Violence begets violence. Past slights spawn future insults.”
+
+At this there was silence. The Elders of the Azure Hills were considering his words carefully. Baatar frowned, the old man stroking his chin. On Gang downed the rest of his cup.
+
+“So you suggest that we can just treat them like they’re human, ask them to come to the table and they will simply listen?” Xinling asked.
+
+“Yes and no,” Bi De replied “While some of their behaviour will be understandable, they are not human. They will not think the same way you do. They will consider different priorities. They will have goals that are incomprehensible to you, yet make perfect sense to them. Asking them might not work.”
+
+“So it's hopeless then,” On Gang muttered, his voice raw.
+
+“I did not say that. I said it might not work. Just as the cultivators gathered here might not have agreed to work together,” Bi De paused, and then continued. “The scars run deep between men and Spirit Beasts. But… I think the bonds might run deeper.”
+
+On Gang’s head snapped up. He saw Bi De looking at him and bit his lip. Bi De knew he was thinking of Lord Yao, the ruler of the Roadspinners, who had sheltered humans under his shell, in an act that had killed him.
+
+“The cycle must be broken. And a new cycle must be formed in its place,” Bi De finished.
+
+“Thank you for your insight, Fa Bi De,” Baatar said. “You have given us much to think on.”
+
+There was another pop, and Bi De was human again. “My pleasure,” he said with a smile. “I consider the Azure Hills my home as well, and I would aid it as I can… even if I have much business to attend to outside the province.”
+
+“Wait…” Elder Xinling said. “You said we worked with many Spirit Beasts, but the monkeys don’t have many of their members here. Are there others that have already joined us without us knowing?”
+
+Bi De raised an eyebrow.
+
+“You will treat them differently if I say; so I shall not. If you ask and they answer, that is their business… but you might be surprised. Just as I have said, the Azure Hills is their home. Why would they not wish to support something that will bring peace?”
+
+Bi De stayed a while longer, but the atmosphere was quiet and considering.
+
+On Gang repeatedly clenched his fist almost idly, staring off into the distance.
+
+“The cycle must be broken,” he muttered to himself.
+
+=============================
+
+Bi De stayed for a few more days at the Dueling Peaks, watching over his friends and family. It was a most enjoyable experience.
+
+“This is my Senior Brother! He's going to be trading pointers with us today!” Tigu volunteered him in the morning when he came down to see how she trained with her people.
+
+Bi De raised an eyebrow at his Junior Sister, but accepted the charge with grace.
+
+He ended up exchanging blows with nearly a hundred disciples. Their cultivation was quite weak, but they were acceptably skilled. All of them were in fact better at dodging than most he had met in the Shrouded Mountain Sect, simply because they were weak enough to see the need to dodge. The healing arts and their own bodies were less refined than those outside the province as well.
+
+However, their cultivation arts were showing signs of improving. Their movements were still sloppy, and they were obviously still learning how to incorporate new techniques into old styles that sometimes clashed with the new direction in which they had been taken, but it was a pleasure to watch the work in progress.
+
+With Yin and her team, she forced him to be decidedly less gentle. The silver-haired woman cheerfully made him the enemy the entire Blazing Swords had to assault at once, attempting to hound and drag down a far superior opponent. It was quite a bracing session, and though in the end Bi De was victorious, he saw them visibly improve during the course of the exercise.
+
+He sat in on another official meeting with Xiulan and Ri Zu in attendance, the latter arriving with numerous scrolls he had watched her write last night with the help of her shadowy helpers. The little rats had used their tails like ink brushes, producing fifty-eight scrolls in a matter of hours; one for each sect, and a copy to be kept at the Dueling Peaks
+
+The new medical standards were adopted quite quickly.
+
+Yun Ren was normally with Biyu and Master Gen, the woman getting situated with what her duties would be, taking orders from the other Sects that she would be bringing back to her Masters and reading up on the crystal arrays in the Dueling Peaks using the library managed by Bao Wen so she could start repairing them.
+
+They lost Gou Ren for most of a day, but they found him at sundown, his shirt off and putting the finishing touches on a newly cleared and repaired viewing deck on the side of the mountain, a team of twenty monkeys as his work crew. Delun was in attendance, nodding along at the drawing Gou Ren had given him.
+
+“You think this matches the style alright? It's important cultural heritage, so you have to get it just right,” Gou Ren declared.
+
+“If you hadn’t told me you built three-quarters of this. I would have assumed it had just been cleaned, rather than constructed,” Bi De replied.
+
+The young man grinned brightly, stepping back to admire the work.
+
+=========================
+
+But soon enough, the time came to depart.
+
+“You gonna be okay?” Yun Ren asked Biyu. She nodded firmly and gave him a kiss on the cheek.
+
+“Don’t worry, bro. I’ll take care of her,” Gou Ren declared.
+
+Yun Ren, Ri Zu, and Bi De were the only ones who would be leaving the Peaks. Gou Ren had decided to stay a while, too interested in the repair work to journey back home yet, much to Xianghua’s ill-hidden pleasure. They probably wouldn’t see him again until spring proper, for his wedding.
+
+Bi De chuckled at the byplay. He stepped forward and hugged Tigu and Yin.
+
+“See you both soon,” he told them.
+
+“But not too soon. You’re distracting all the girls!” Tigu accused him.
+
+“I make no promises,” Bi De replied.
+
+“At least they’re getting lots of practice using their new technique, Hidden Waterfall,” Ri Zu said, amused.
+
+“Uhhhhhgh!” Tigu made a gagging noise and glared, while Yin just laughed, practically leering at Tigu.
+
+“Big Sis is gettin’ some practice too, I’ve seen her eyein’ up Delun,” Yin declared.
+
+“Wha—? I’m admiring his work!” Tigu rebutted, absolutely offended.
+
+“And his abs,” Ri Zu sniped.
+
+A small blush appeared on Tigu’s cheeks, and then her eyes narrowed to slits. A tiger formed behind her, and both Yin and Ri Zu turned and bolted.
+
+Xiulan sighed dramatically as a snarling growl and two yelps echoed down the halls.
+
+“See you soon, Bi De. Have a safe journey,” she said, her voice warm.
+
+“I will. And may you have few meetings and little paperwork,” Bi De replied.
+
+“You only give the best blessings, Senior Brother,” Xiulan said with a giggle.
+
+And then it was time. He collected a very disheveled Ri Zu, who apparently Tigu had stuffed down some sort of cistern and then activated the water function, which created an effect not unlike one of the toilets back home.
+
+He vaguely remembered his Master saying the Swir Li technique was very effective against studious, bookish types. Ri Zu certainly looked like she had taken critical damage, and Yin refused to use her Qi to dry Ri Zu off.
+
+So they walked out of the mountain like that, a slightly damp Ri Zu, an amused Bi De, and Yun Ren. They gave the Dueling Peaks one last glance before they were away.
+
+The entire mountain was full of hustle and bustle. Alive, its heart beating stronger and stronger with each passing day.
+
+It was in good hands.

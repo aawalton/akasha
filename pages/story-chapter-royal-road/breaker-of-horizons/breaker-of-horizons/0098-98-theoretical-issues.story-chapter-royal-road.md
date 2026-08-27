@@ -1,0 +1,103 @@
+---
+id: be558fad-1f80-5d85-8115-509aaaa0c372
+page-type-slug: story-chapter-royal-road
+title: "98. Theoretical Issues"
+slug: 0098-98-theoretical-issues
+partOf: breaker-of-horizons
+position: 98
+ownLength: 1738
+unit: words
+publishedAt: 2021-04-08
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/660595/98-theoretical-issues"
+royalRoadId: "660595"
+---
+
+Caden's interest was piqued. His first few moments of lucidity after being restored by the Spire augera had given some fresh insights to ponder, especially since it had mentioned a veil of some sort. Perhaps Jerric had stumbled across something similar.
+
+"Okay..." Jerric pursed his lips as he mentally sorted through all the information he had to present, and wondered where best to start. He shot a sideways glance at Emilia. "So, first, this only makes sense if I tell you more about what happened between Kevan and me."
+
+Both Caden and Emilia nodded, indicating that he should continue.
+
+"Dev and I were tasked by the augera to stop the twins from interfering because it knew that they were going to somehow try to stop it from putting Caden back together again. I was pretty sure that the two of us weren't going to be able to take them in a fight, so I got the augera's help to delve into Kevan's auric-ambient-flare."
+
+Caden was the one who now looked askance at Emilia, but she showed no negative reaction. She nodded again when Jerric paused, and he resumed his narrative.
+
+"Well, while we were rooting around in his memories, I was looking for ways to influence his active thoughts. But it's tough, because we're literally moving through his memories, and there's a lot of emotional bleed. We can actually get lost in other people's past thoughts and emotions. Your whole perception can get pulled into that moment, and you think and feel what they thought and felt. But Devon improvised this sort of bubble, based on our anti-ensorcelment sequence, and it actually worked. It helped us separate our sense of self from the rest of the memories and emotions around us."
+
+Caden's eyes widened a little as he processed this. "So when we're in someone else's auric-ambient-flare, we're constantly being ensorceled, but it's entirely passive, like some sort of defence mechanism?"
+
+Jerric shook his head. "No, I don't think the auric-ambient-flares are automatically ensorcelling people who invade. I think ensorcelment is the weaponisation of the way our auric-ambient-flares work. I'm not sure how it works, but for now, it seems to be the case."
+
+"What does this have to do with defending against wild augera?" Emilia asked. "I don't quite see the connection."
+
+"I'll get to that. Anyway, before I could get a better handle on how things worked, we actually bumped into Kevan's consciousness, and I ended up engaging with him."
+
+"Engaging?" Caden prompted. "You mean... combat?"
+
+"No, not at first. I'd call it talking, but in the arcanic space, it's a lot more like swapping thoughts and emotions rapidly. So it's not as gentle as talking. But there's a lot more going on. I mean a lot. Honestly, it felt like we were doing a milder version of ensorcelment on each other all the time."
+
+Caden nodded slowly, piecing together Jerric's descriptions with the theoretical framework he had. "That makes sense. In the arcanic space, this is how the augera communicate with us. And the Demiurge has done this to me before."
+
+"Well, it was tough at first, but we managed. Anyway, when we met with Kevan's consciousness, I had this idea. Because we were getting so lost in his memories, I figured that there was some way to snare a consciousness in a perceptive plane of your own creation. I've got a really messy homebrew sequence that I used, but it actually worked, and I caught Kevan in a perceptive plane that I could freely control. That meant I could lock his consciousness down in one part of his auric-ambient-flare, and stop him from being aware of what was happening elsewhere."
+
+Caden shook his head slowly. "That's amazing. Terrifying. Incredible."
+
+Jerric looked a little surprised at Caden's reaction, but then he thought a little more about the implications of what he had said, and he nodded grimly and shot an apologetic look at Emilia. "I didn't really have the luxury of time to think about the ethics of it. I'm sorry, but this is going to get worse, but I have to tell it all."
+
+Emilia let out a small sigh of impatience. "Jerric, just recount everything. I promise to listen until the end."
+
+"Mm. Okay." He ran a hand through his hair distractedly as he thought back to the harrowing encounter with Kevan. "Well... anyway, I trapped Kevan in what I guess we can call a prison for his senses. The thing is, it's not fool-proof, and he later figured out how to get out. He realised that we were still in his auric-ambient-flare, and that he can also freely manipulate the perceived space. I guess he figured it out because he was actually still able to show me specific memories when he was trying to convince me to go along with his plan. It was a simple frame-shift from showing memories to being able to control the whole perceptive space. More importantly, since we were actually in his auric-ambient-flare, he's the one who has more control within its space. He was able to reverse the prison, and this time, I was the one locked inside."
+
+"And then you fought," Caden stated flatly.
+
+"We fought," Jerric nodded with a heavy sigh, and his expression darkened. "It was bad. It's not real, but it feels real. We both experienced death in there."
+
+He fell silent for such a long time that Caden got a little worried. "Jerric?" he prompted softly.
+
+"Sorry." Jerric fidgeted a little and did a peculiar little pat-down of himself, with one hand ending on his stomach, and the other in the small of his back. "Anyway... now that I've had some time to think about it, I realised something. Do you two remember how we felt when the lake augera was — what term did the Demiurge use... I think it was 'perturbed'?"
+
+"Yes, perturbed," Emilia supplied.
+
+"Yes, perturbed." Jerric sat a little straighter, becoming more focused. "And you remember how Reeves keeps saying that precision is important. The Demiurge's word for it got me thinking about ripples in water at first, but now that I've been in an arcanic space and engaged in 'combat' there... I realise it's also talking about how auric-ambient-flares interact with each other, and with the ambient arcana. When the wild lake augera perturbed the ambient arcana, we couldn't even make sense of what was happening around us."
+
+"You think we can stop that from happening?" Caden asked.
+
+"I think we can," Jerric confirmed. "Because what the augera did naturally is similar to what Kevan and I were doing to each other intentionally. We trapped each other in spaces of perception that we created. The augera's was undirected, but ours was sculpted. I think the mechanics are the same. I think we can build our own perception, and sidestep any perturbations an augera might be putting out."
+
+"But as you said, the spaces of perception that can be formed are created," Emilia pointed out. "They're not reflective of what is happening in the real world. You can only make an illusion of it."
+
+"That's the part I'm still thinking about," Jerric replied, getting a little excited now. "Because if I'm right, and the mechanics really are the same, all we need to do is find a way to actively shape our own perceptions to fit what is physically around us. And we'd be able to totally circumvent any disorientation or ill-effects of any perturbations in the ambient arcana."
+
+"Well, we know there's definitely some way to do it because the Demiurge wasn't affected by the wild augera by the lake," Caden noted.
+
+Jerric deflated a little. "I'm not sure if any of the usual rules apply to that man."
+
+Privately, Caden agreed with Jerric's sentiment, especially after what he had just witnessed with the Demiurge's use of the telepresence sphere. But Emilia shook her head. "If he seems to be doing incredible things, it is only because we have not yet uncovered the principles he is working with. Jerric, I think you may be right, and it may be how the Demiurge himself is shielding himself from an augera's perturbations."
+
+"Thanks for the endorsement," Jerric said, smiling a little. "Well, that's the puzzle I'm currently wrestling with. I've got what I think are the mechanics of how to defend ourselves from losing our minds when an augera is perturbed, but I still don't know how to actively create a space of perception that's anchored in what's really around us if we can't see it."
+
+"Why not ask Lynus?" Caden said suddenly.
+
+"Excuse me?" Jerric asked. "Why would he have a handle on the theoretical bits of this?"
+
+"If I recall, you said you trapped Kevan," Caden replied, deciding not to remark on the slightly derisive tone that Jerric had adopted. "That means Lynus was basically going solo against the Spire augera in order to stop it from restoring me. Plus, Devon told me some of what happened on the way back, and he mentioned that Lynus seemed to be able to withstand the augera's presence pretty well compared to the two of you."
+
+"That seems promising. I will ask him," Emilia said, getting up decisively.
+
+"Whoa, no!" Jerric stood up too, gesturing for her to stop. "He's not going to be in a talking mood."
+
+"Why is that important?" she asked, raising an eyebrow, still half-turned and ready to go.
+
+"... because... you can't just force this kind of information out of someone?" Jerric threw a helpless glance at Caden.
+
+"I will not be forcing him," Emilia frowned. "I will be asking him."
+
+"Emilia," Caden jumped in, "what Jerric means is that he doesn't think Lynus will want to share that information with us."
+
+She finally turned fully to face them, her arms crossed. "But why would he not talk with me? I understand that the two of you might have some tension with him, but I haven't done anything to offend him."
+
+Jerric let out a sigh. "Em, you're coming between him and Kevan. Don't you see it?"
+
+She looked at him for a long moment, her expression unreadable. Then, she nodded once. "Then I think that is all the more reason for me to talk to him and sort some things out."
+
+She turned to go, leaving Caden and Jerric to wonder exactly how she intended to smooth things over with the embittered Lynus.

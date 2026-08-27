@@ -1,0 +1,205 @@
+---
+id: 9b7bcf46-1fe5-5ea6-8061-8d1f98c927ce
+page-type-slug: story-chapter-royal-road
+title: "v7c16: A Man has Three Masks"
+slug: 0269-v7c16-a-man-has-three-masks
+partOf: beware-of-chicken
+position: 269
+ownLength: 3254
+unit: words
+ownProgress: 3254
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2916268/v7c16-a-man-has-three-masks"
+royalRoadId: "2916268"
+markedReadAt: "2026-06-29T19:00:38.874Z"
+---
+
+Our carriage trundled up the road toward the Hermetic Iron Sect. The bee behind Washy’s ear had relayed to Bane of the Black Lances that our message had been received, so we set off again. We hadn’t actually spent much time in Iron Town, but the short time had been pretty interesting.
+
+The streets were paved with beaten brass rather than flagstones. You could see the paths most people took, because they were burnished to a warm, orange-yellow shine compared to the duller metal beside it. There was still some stone and wood, but for the most part it was all metal.
+
+Despite the strange building material, Iron Town was… a normal-looking town. Well, a rather nice-looking town, clearly wealthy and well cared for. It was one of the holdings of the Hermetic Iron Sect, so it did make sense. “Look how prosperous we are!” is kind of a universal statement, along with the decor of the place. The town gates had a massive version of the Sect’s symbol emblazoned on them, as did the local palace, and the longevity symbol that was inside the hammer was plastered everywhere—on blacksmith’s aprons, on miner’s picks, even on women’s aprons.
+
+Everything was well ordered and clean, and great care had obviously been made to make a park with fruiting trees and softer grass. A park that was popular, with kids running around in it and one group even having a cookout.
+
+The people were clearly prosperous. Hells, the strangest thing about them was their hair colour. Paris green, cobalt blue, shock white—it was full on anime land down there… though it said something that my senses twinged when I looked at them.
+
+Hearing the percentage of the amounts of rather toxic metals run through my head whenever I concentrated on somebody’s hair was a bit distracting, and very interesting. Excreting heavy metals through their hair?
+
+“I still can’t believe they’re so healthy,” Meimei mused.
+
+She had surreptitiously checked a bunch of people out with a light touch of medical Qi. She had been getting strange feelings about them, and found that most people were doing pretty damn well despite the contaminated water. It was still accumulating in their bodies and damaging their organs, but it was a lot less than it should have been.
+
+She still thought it would be knocking damn near a decade off their lives though, which was the sobering part.
+
+I could feel Tianlan’s own feelings of concern. She had been pretty quiet, assimilating the parts of herself that had opened back up along with their memories. There weren’t actually that many bad ones here—too many people had died too fast to really leave any grudges, horrible as that sounded. Still, it was a bit hard feeling the kind of quiet sorrow those early memories had, and the fact that everyone here was getting slowly poisoned to death was not a pleasant one. I wondered if there was something we could do? Just to make life a bit easier here.
+
+I pushed my thoughts away from the topic, and instead focused ahead. Washy had delivered our message, and the Sect had invited us forward. Originally, we were going to leave the Lord Magistrate and the other non-cultivators behind in Iron Town, but he and Lady Wu wanted to meet Delan. The man, according to the stories we had been told, had interacted a lot with their son during the events in Grass Sea City. Where they went, Xue Ji went, and the Auditor had no real desire to be left alone… so the whole party was here, heading deeper into the ironfields.
+
+The road on the way to the sect was similarly paved of metal, gleaming in the sun. It was quite long, but I supposed Sects did like a bit of distance between them and mortals.
+
+Soon, however, we saw a silver gleam. I blinked, and squinted toward the horizon, where a large and incredibly shiny wall rose up out of the ground.
+
+It was perfectly smooth and reflected the light like a mirror. It had a gentle, graceful curve to it, and it looked… oddly futuristic. Or like what a 1980s vision of the future would be, with chrome everywhere.
+
+I concentrated on it, and the world told me what it was.
+
+Iron 72%, chromium 18%, nickel 9%, gold 1%, no impurities. Perfect crystalline lattice. Height thirty feet. Thickness ten feet. Depth twenty feet, connected to a plate of tungsten that has only a few basal cracks to let in spring water. Circumference is nearly equal to 1/1000 of the planet's circumference, but is 1% too large my mind supplied, and my mouth dropped open.
+
+What the—it was chrome?! And connected to an underground tungsten plate? I was pretty sure they didn’t call those metals that here. It looked like my analysis super power was using my own memories to fill the gaps, so I would understand it. And what was that composition? Wasn’t that stainless steel?
+
+They had a thirty foot tall and ten foot thick wall made out of pure stainless steel, further reinforced by Qi. The ratios were all divisible by nine, the number of longevity, with one percent gold, a “pure” metal to further strengthen the Qi reinforcement… though I could tell most of the reinforcement was gone. Only dregs of it remained, though those dregs still made it strong enough I was pretty sure it could bounce tank rounds.
+
+The end result was a perfectly circular chrome ring sitting atop a hill, reflecting the light of the sun and turning the brown grasses around us gold.
+
+Man, if they knew how to produce steel in that great amount it would be a godsend. Bowu would be in business. We’d have trains running across the province in maybe a decade. I had no idea how to actually make the stuff; I’m pretty sure it was called the Bessemer process, but I had no idea what that process entailed. Something about a crucible, directed hot air, constant heat, and a tap in the bottom? That was going to bother me now.
+
+Meimei whistled. The Lord Magistrate simply stared. In a land of brown grasses and oxide dust, it stood out, like the little birds we had seen on the way here. It was nearly as impressive as the Dueling Peaks, almost alien in how shiny it was.
+
+I finally managed to snap myself out of my gawping when Babe started slowing down, and some of my nervousness came back. It was time to put Teacher’s lessons to good use. The Lord Magistrate gave me an encouraging smile.
+
+This was my first "official" greeting of a sect, my first real trial run of “Master Jin.” A political mask of sorts; an imprint of what I wanted to project… and the best ones were the ones with a lot of truth in them.
+
+Unfortunately, everything was a statement, when people wanted to read into a powerful person’s life and motivations. Including how you walked up to somebody’s house. I had talked to Lu Ri and Gramps about how cultivators normally did things, and I got in return an explanation of the thousand little power plays and games cultivators normally did while meeting.
+
+Most of it sounded like what a prison gang would consider appropriate. Force. Domination. Displays of might and wealth.
+
+I could march in there, my Qi blazing; the sect would fall to their knees and kowtow before my majesty, if they didn’t just pass out altogether. Some men would leave the intimidation to their servants—Suyan and Xue Ji could do that, taking care of the “ants” for me. Grand processions and great fanfare were the name of the game, showing all their wealth and power.
+
+It was basically just walking up to somebody and slapping your dick on the table. They left no room to question; they just demanded obedience. Even from people who were ostensibly allies, games like that happened. The senior in the relationship made sure the junior knew their place. Equals tried to one-up each other. The weak pulled out all the stops when they could.
+
+Honestly, it sounded like a damn hassle.
+
+I could go in that direction. It would certainly be simple to just tell everybody what to do. But as always, there was another way. The way that showcased my intentions much better.
+
+“Master Jin” was so strong he didn’t care about silly games like that. He didn’t need to crush and dominate, showing his might to the heavens. He didn’t want fealty or to take control of this province. He sent a single messenger, and then walked up to the front gate without a care in the world.
+
+We had tweaked things just a little bit, Tianlan and I. We made our power just a bit easier to sense—the goal was to make the statement that I wasn’t hiding my Qi, but rather, I was too incomprehensibly vast to notice properly.
+
+These things and more were in the service of one thing, the ultimate message: if Master Jin doesn’t play the first game, what are the chances he’ll want to be bothered by your game?
+
+I’d be polite. I'd be friendly. I’d be mostly myself… but with luck everyone would get the hint. I didn’t care to get embroiled in cultivator plots and politics.
+
+Still, that was no excuse to be standoffish and mean. And, well, I did want to be friends with these people. Delun was a good guy, and everything I had heard about his parents had been positive.
+
+Suyan opened the door for us, and I stepped out first, holding my hand out to Meiling so she could grab it, and step down. Together we turned to the gate of the sect. Tigu was there too, to my surprise. She gave me a big grin and a wink.
+
+The person who could only be Tie Delan stood at their head. He was a big man, with the physique of a blacksmith. His forearms bulged with muscle, and his hands looked like sledgehammers. His chest was broad, and his body was a pillar; he was built like an old oak, straight and strong. His hair was tied back into a bun. He wore steel grey robes, and had a large hammer sheathed at his belt. A light dusting of freckles graced his cheeks, making it plain where Delun got his from.
+
+Delun’s mom was standing slightly behind him. She too was very tall for a woman, nearly six feet herself, with rust red hair similar in shade to Chunky’s. I could see the outline of muscles through her clothes, and her skin was fairly tanned; she had a slight bit of wrinkling around her eyes, the barely visible lines of a woman who smiled a lot.
+
+And Washy waved at me from where he was at a table, chewing on something.
+
+Cheeky little shit.
+
+Then, as one, the cultivators bowed. “We pay our respects to Master Jin!” the rows of disciples and non-cultivators alike chorused.
+
+Showtime.
+
+==========================
+
+The wait for Master Jin to arrive had actually passed quite quickly. The dragon asked all sorts of questions about the food, which occupied everyone's attention, the great envoy of the heavens praising flavours or making noises of interest.
+
+Still, the thought lingered. How would Master Jin arrive? Winging down from the heavens like his dragon?
+
+It was one of the mortals who had called “carriage!”. Delan instinctively looked up, imagining some grand flying formation, but there was nothing. Embarrassed, he returned his eyes to the road. He cast his senses outward, his eyes focusing, and froze when he saw a beautiful carriage, and who was pulling it.
+
+Bei Be. Delan recognised him from the images Yun Ren had displayed. He remembered the perfect cuts, the works of art, carved into demonic flesh. The Spirit Beast was a true sword cultivator—and here he was serving without flinch as a beast of burden. There was no shame in his gait, no hesitation. He bore his master with pride.
+
+And then he felt what was in the carriage. Two presences that were not trying to hide. One in the Spiritual Realm. The other Profound, at the cusp of Spiritual. At first, he thought that these were the suppressed Qi signatures of Master Jin and his wife… but that idea was quickly put to rest when Master Jin stepped out of the carriage.
+
+He wore a fine coat with a maple leaf and rice stalk emblazoned upon his breast, but underneath that his clothes were the simple robes of a travelling Daoist.
+
+Delan felt nothing. For a moment, he thought the man a mortal, but he matched the description.
+
+His son had said Master Jin’s power was subtle. So Delan focused. He tried to see the bare depths of Master Jin’s might, to see if he could comprehend the merest thing about him.
+
+And then, Tie Delan saw it. The smallest portion of the mountain. He then realised that he was within Master Jin’s power. The entire sect was. No, not just the sect, he couldn’t see the edges of it. It spread as far as Delan could feel, and continued on without stopping.
+
+Some hid their Qi when they wanted to obfuscate. When they wanted to act dishonourably.
+
+Master Jin’s power at rest was so vast he didn't even notice it enveloping him.
+
+… this is what all of them had felt. This is what had cowed the entire Azure Hills. The man lifted his hand, and a smaller hand clasped his. Lady Meiling stepped from the carriage. Like her husband, her clothes, too, were relatively simple. A well-fitting long dress of deep purple, and a blue top that matched her husband’s. Lady Meiling gracefully stepped down, her babe in her arms. A show of great trust, to bring the child. Lady Meiling also felt like nothing at first—but like her husband, there was something vast within her.
+
+Delan carefully kept his attention on them, even as the others, servants, stepped out of the carriage. He was fairly certain this meeting would turn out well; his son had spoken nothing but praise for Master Jin’s temperament.
+
+Master Jin turned to them, his eyes locked on Delan, and he began to approach.
+
+“We pay our respects to Master Jin!” the sect chorused, and Delan bowed with them.
+
+There was a moment of silence.
+
+“Thank you for the warm welcome, Sect Master Delan.” Tie Delan had of course never heard Master Jin speak before—but it was far, far warmer than he had been expecting. Delan rose to look upon the man before him to see Master Jin performing the gesture of respect back to them, a small smile on his face. His head did not lower an inch, however—as was right for a man of his stature. “Though do you perhaps have any family near Crimson Crucible City? We might just be cousins!”
+
+Delan blinked in shock as the man stepped forward, a genial smile on his face, and his arm outstretched in the traditional warrior’s clasp. Delan was thrown off by the friendliness and amusement in the man’s voice, and then the question registered as he reflexively extended his own arm. Master Jin took it and nodded.
+
+They were about the same height, and both of them were well-muscled. Delan felt an internal surge of amusement. People had called him an overmuscled oaf for years!
+
+And this monster without equal sported the same physique!
+
+“I do not believe so, Master Jin,” Delan replied, glad for the fact that the powerful cultivator was joking. And not at the expense of Delan or his sect. “We of the Tie family don't tend to travel much.”
+
+“Ah, I know the feeling of not wishing to leave home quite well,” the man agreed, drawing Delan in with his good nature. “Your sect is beautiful; a silver ring atop a hill. It made quite the sight travelling up the road!”
+
+“Yes, it is our pride!” Delan replied, a smile forming on his own face. His son had truly made a good impression on this man, for him to look so favourably upon their sect. “The greatest work of our ancestors is still beyond us, but thanks to the benevolence of your disciple, I’m sure we will be recreating them in no time.”
+
+It was this man before him who had given back the Azure Hills their hope, after all. The works of their ancestors had been returned to them by the grace of this man.
+
+Master Jin gave him another firm nod, and turned to Delan’s wife. “Lady Liquin, a pleasure. My daughter had only fine things to say about your carving skills.”
+
+Liquin blinked and flushed at the praise; he had actually bothered to remember their names.
+
+“Thank you for the praise, Master Jin. Your daughter is very skilled.”
+
+“That she is!” he agreed, before he looked upon their son. “Delun! How's the shoulder?”
+
+“Not a trace of the injury remains, Master Jin. Lady Meiling works wonders,” his son replied.
+
+“Excellent. Though speaking of Lady Meiling…” Master Jin turned, and allowed his own wife to take the center of attention.
+
+“Lady Meiling,” Delan greeted, bowing again.
+
+“Master Delan,” the woman replied, her voice calm and imperious. Her amethyst eyes were sharp and assessing, but after a moment, she graced him with a smile. “Thank you for inviting us into your home, and for taking care of both our little ones; especially a little one who I thought was supposed to be in the north, taking care of her duties to the survey teams.”
+
+She raised an eyebrow at Tigu, who had walked forward, just a bit sheepishly.
+
+“This is on the way!” Tigu deflected.
+
+The babe Lady Meiling was carrying perked up
+
+“Bi’ sis! Bi’ sis!” he babbled, reaching for Tigu.
+
+“I’m sure it is,” the woman replied with one arched eyebrow, handing her son to her daughter, who immediately started snuggling him.
+
+“It is our pleasure, Lady Meiling,” Delan said honestly, and the woman graced him with another smile.
+
+“You’re very much like your son, Master Delan,” she told him.
+
+Delan took it as a compliment.
+
+The rest of Master Jin’s retinue was introduced after that, bringing things back to more of a formal tone, but Delan found he had a small smile on his face.
+
+Then he realised how quickly and utterly Master Jin had dominated the conversation and the mood. The disciples, once tense, were relaxed, and smiling as well.
+
+Delan was already treating him like an old friend.
+
+… it was humbling.
+
+They went to the feasting table, where they ate rice together; the great dragon Wa Shi pointed out the dishes he liked the most, and Master Jin ate them, praising the flavours.
+
+But there was one thought on his mind that needed soothing.
+
+“You do us a great honour by visiting us first, Master Jin,” Delan said, his voice quiet while others made their introductions. “But might this one inquire for the purpose of your visit?”
+
+Master Jin cocked his head to the side. “Ah, it appears there has been a misunderstanding, Master Delan. This is indeed just to greet the parents of our good friend Delun. We were going to be travelling in the area, and we stopped by. Nothing more and nothing less than that.”
+
+Delan let out a breath, relief taking hold.
+
+This was going much better than he had hoped already!
+
+=============
+
+=============
+
+Editors: Aaron “Pastafarian” Sofaer, BargleNawdleZouss,

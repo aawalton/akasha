@@ -1,0 +1,119 @@
+---
+id: 1c6e632c-f61f-5940-b40e-5e1a9b344753
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 38 - Luck?"
+slug: 0042-b3-chapter-38-luck
+partOf: bookbound-bunny
+position: 42
+ownLength: 2225
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3365280/b3-chapter-38-luck"
+royalRoadId: "3365280"
+---
+
+Lessons, alchemy, drawing, and dungeon exploration continued as per normal. This was Lily's general routine and one she quickly settled into.
+
+Despite dedicating a few weekends to conquering the first floor, her group had not yet found the exit to the second floor. Strangely enough, none of the students had managed to reach the forest yet for so long that the race was starting to lose its luster.
+
+The general consensus seemed to be that it couldn't be forced, or that you just needed to be lucky, considering that the first floor seemed to shift quite regularly, making past familiarity futile.
+
+Lily had even blessed her entire group with Lunar Radiance before entering, trying to capitalize on the luck rumor, but even that didn't help. Naturally, she consulted Arakil about this strange occurrence, and he threw out a few possibilities that, sadly, only complicated things further.
+
+[It could be related to time, either entering at a specific time, staying for a particular duration, or even reaching a destination within a limit. Alternatively, there could be a puzzle or criteria to meet, a rare object to be found, an enemy to be defeated, or even a lever to be pulled. Similarly to a puzzle, it could truly be a shifting maze which needs to be conquered through wit and persistence.]
+
+The issue with Arakil's offered answers was that most of the first-year students were simply not capable of doing them at the moment. Time was a crucial factor, and their entry into the dungeon was still quite limited; they simply didn't have enough available hours to meet the duration requirement or fully solve the shifting maze.
+
+I even tried drawing a map, but the next time we entered, nothing was the same.
+
+Hence why the dungeon had fallen from "must be conquered" to "it'll happen when it happens" for Lily and most of the students. Hana and Arthur were likely the only two still keeping the torch of competition burning, and from what Lily coincidentally overheard, even Clarissa had mostly given up.
+
+Since the dungeon was being approached more casually now, that gave Lily the time she needed to focus more on her studies, with both her and Lotte taking some dungeon diving time off to spend in Professor Sylwel's lab.
+
+Lily's alchemy progress was pretty much on par with before; she hadn't really learnt any new techniques and was still relying on glyphs, immaculate preparation, and brewing. Temperatures were exact, measurements were precise, and timings were down to the wire.
+
+Lotte, on the other hand, had also found her groove, and while she was a bit more chaotic in her concoctions, she was steadily improving. Her approach was closer to Sylwel than Lily, and the professor seemed to notice and freely offered a few pointers from time to time. Lotte's strange constitution offered her this benefit, allowing her to not be too wary of ingredients or brews and handle the more hazardous reagents with ease.
+
+Consequently, the pair couldn't brew together from time to time, as the professor had Lotte handle materials that would be too hazardous for ordinary students without proper safety measures. Lily had already started devising a few types of spells she could apply to herself in the future when she needed to work with those materials, but Lotte and Sylwel could proceed without a care in the world.
+
+Alice's practical lessons were now all in the forest, and for the most part, they seemed to focus on the areas that caused the other students to leave early. This also introduced the other students to the massive staircase that led to the deeper floors, and Alice repeated her chilling warning not to jump.
+
+Thankfully, this wasn't always the case, and some lessons involved locating monster dens and then tactics to appropriately deal with them. One such suggestion involving any cave or burrow was to trap the inside and then lure the monster out, which was extremely suitable for Lily with her glyphs and runes.
+
+Unfortunately, none of these lessons went close enough to the area where their fort was, so Lily and her friends didn't get to see what had become of it. They were dreadfully curious to see if it was still standing, and Lily eventually asked Rose if she could check on it.
+
+"You're not going to believe this, but it's become a sort of unofficial resting point for people," Rose said the next time they met.
+
+Lily and her friends were shocked by that outcome, but at the end of the day, it seemed to make sense. According to Rose's explanation, the second floor lacked any secret rooms because of its open layout. Or at least that was what the students had all speculated, since in all the years nobody had found one on the second floor.
+
+Since there was no secret room, the only option was to camp if you wanted to stay. Now, with the fort, there was a safe, secure spot that could accommodate quite a few people. Supposedly, monsters tried to set up a den there at one point, but the older students quickly fended them off and claimed it for the school instead.
+
+"You three have actually started a bit of a trend; now we've got a few earth mages trying to set up similar forts around on the other open area floors," Rose explained. "Although word on the street is that none of them can compare to the forest fort. A few people have suggested finding the creator and getting them to spill the beans on why it's so much better than theirs."
+
+Lily was surprised by this, as she hadn't done anything too outrageous in her opinion. Then again, Regarth wasn't exactly known for its construction magic, as that was Tresnia's area of expertise. Lily, on the other hand, had watched Theo work his magic while also asking Arakil about it.
+
+Back then, Lily had awkwardly dropped hints to Theo that came from Arakil, while pretending that they were random ideas she had, or things she had stumbled upon in books she happened to have read. If Theo was suspicious of where these notions came from, he never mentioned it, and Lily had thought they were nothing special at the time.
+
+Maybe I should have gone to Tresnia? Lily joked to herself. Even if her talents were more suited to crafts and construction, she wouldn't have had the plethora of dungeon resources available.
+
+And just like that, the weeks were falling away. The next big event of the year would be the competition among the three factions, which would determine the school's representatives for the interschool competition at the end of the year.
+
+Lily had achieved quite a bit during this time, finally casting Lunar Eclipse successfully, and was presently working on refining it alongside Lunar Radiance. She wanted both to be as easy to cast as Starburst, which was a tall order considering their jump up in complexity. Still, Lily felt confident she'd achieve it eventually.
+
+As for her new spells, Lily had to demonstrate both of them to Headmaster Fabrelis, Professor Elius, and Alice. The latter normally wouldn't be involved in such matters, but she had taken it upon herself to act as Lily's 'guardian' so to speak, regardless of Lily's opinion on the matter.
+
+The reason she needed to demonstrate her new spells was to prove that she was progressing her bloodline. Considering Lily was not attending Spellcasting Fundamentals and Bloodline Focus, she needed to prove that she wasn't just messing around. Not that the staff believed she was, anyone with eyes could see the girl was working herself to the bone, so it was mostly a formality combined with curiosity at this strange Astral magic.
+
+Unfortunately for the staff, the demonstration only left them with even more questions than answers. When Lily explained that she could affect luck, both positively and negatively, it sounded like something born from imagination. Yet the results were undeniable, leaving the headmaster, in particular, speechless.
+
+Lily had originally explained that the two spells were like opposite sides of the same coin, taking inspiration from Arakil, and mentioned how they were supposed to help her Starburst and probably other Astral spells she would learn later.
+
+This was reasonable, and everyone seemed to accept this, as other types of magic often had ways to improve the caster. However, when Lily mentioned she could apply these to other people, that was when things took a strange turn.
+
+"Why would you grant someone else an enhancement to Astral magic?" Professor Elius had asked.
+
+"Well, it makes them luckier," Lily had tried to explain.
+
+This was what had opened the can of worms and led to quite a few strange and bizarre tests. From rolling dice to flipping coins, Alice had even pulled out a deck of cards at one point. At first, the staff thought it was a strange coincidence, but when things kept happening, it became undeniable and left them perplexed.
+
+"How?" Professor Elius asked.
+
+"More importantly, why?" Headmaster Fabrelis replied.
+
+"Damn, you could make a fortune at a gambling den," Alice chuckled.
+
+Unfortunately, Lily couldn't really give a proper explanation, and now she partly understood why Arakil had found the magic so confounding. Even he was perplexed by how effective the two spells were in Lily's hands, and he'd already investigated that her Astral affinity would not have enhanced it to this extent.
+
+Thankfully, the headmaster didn't press too much; no doubt other bloodlines had similar unexplained answers. He just asked Lily to provide an updated explanation if she happens to stumble across one.
+
+If Arakil can't explain it, what chance do I have?
+
+Still, Lily did try her best and started incorporating the two spells into her day-to-day activities. Lunar Radiance in particular got plenty of chances to shine, as Lily would endeavor to keep it active throughout the day.
+
+Its positive effects manifested in all sorts of strange and bizarre ways. During a combat lesson, she tripped over her own foot, but it let her perfectly avoid an illusory bee she hadn't noticed. In the dungeon, she would happen upon random fungi that hadn't been seen for years. And, most peculiar of all, she would somehow avoid any food-related catastrophes with Aura.
+
+Maybe it really is luck? Lily pondered, although she dared not mention that to Arakil.
+
+As for Lunar Eclipse, it too had its chance to shine, or to be more accurate, its chance to cause disaster. Lily obviously wouldn't cast it upon herself, so at first she started casting it on her dueling opponents.
+
+The first few times it failed, Lily was too slow to cast it, and surprisingly, it could be avoided if you didn't allow the shadowy moon to fully manifest above your head. But, as time went on and Lily's casting speed improved, it soon became almost unavoidable.
+
+Lily's first few victims had thought that the spell had failed, as, despite having the shadowy moon looming over them, there was no apparent effect. However, as the duel continued, they soon found themselves burdened by misfortune.
+
+One student bit her own tongue during a chant, causing her spell to fail catastrophically. Another's boot came loose, and he faceplanted on the arena. An unfortunate boy sneezed right at the moment he was completing a gesture, causing his spell to target the ground beneath him rather than his opponent. The list went on, and at first it was brushed off as coincidental, but after it kept happening, it began to genuinely terrify some of the students.
+
+It got to the point that Professor Elius had to step in and ask Lily to refrain from using it in duels. Never in his years had he ever needed to ask that of a student, and he profusely apologized, but the effects were just too strange!
+
+The spell failures in particular were a huge risk, as if the timing was unfortunate, the Ward could be triggered by the user at the same time as Lily's attack spell. In fact, with how the spells were appearing to function, that was exactly what the professor was afraid of, as it seemed more likely to happen than not.
+
+The worst effects after all seemed to happen when Lily was blessed, and her foes were cursed at the same time, with fortune and misfortune colliding in spectacular and unimaginable ways. Professor Elius himself had unfortunately suffered the apex combination of the two, which aligned perfectly. As a result, not only did he lose to a first-year student, but he also burnt his own hair to ash!
+
+Lily had apologized profusely, but thankfully, his hair could be restored through a questionable tonic provided by Professor Sylwel. Yes, the hair had come back green, but it was nothing a bit of dye couldn't fix.
+
+{I can see why you said I should learn both spells as soon as possible!}
+
+[Yes… Although now I'm thinking I should quickly teach you something else instead. In fact, what about a change in focus? With the dungeon at our fingertips, we could change your affinity with a bit of effort. Why not learn illusions, or perhaps some floramancy? If you'd like something similar to earth, there's crystal magic, very shiny and quite beautiful.]
+
+Lily stared at Arakil and frowned.
+
+[It was just a suggestion…]

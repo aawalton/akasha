@@ -1,0 +1,167 @@
+---
+id: cab62b89-383c-5e76-8354-200937b482a5
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 11 - In Which Ranthia Goes on a Hunt"
+slug: 0068-book-5-chapter-11-in-which-ranthia-goes-on-a-hunt
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 68
+ownLength: 4118
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3306568/book-5-chapter-11-in-which-ranthia-goes-on-a-hunt"
+royalRoadId: "3306568"
+---
+
+Ranthia had expected to feel some degree of satisfaction or elation at proving her worth as a Hunter, yet even after she returned home, she still just felt… Tired? Disgruntled? Honestly, she wasn’t entirely sure what her mood was, just that she wasn’t satisfied or elated. She’d done as she was asked—she rewarded the woman whose name she couldn’t recall with drinks and made small talk until it felt permissible to leave. There had been a whirlwind of introductions too, not that Ranthia had absorbed any of it. She wasn’t even sure if she’d recognize any of the faces. And yes, she’d washed the damn knife too.
+
+At home, Ranthia just settled in to brush her dearest dynamo of devastation with a soft brush while she read—aloud—from one of the books meant to familiarize her with how the city worked. She was tempted to go to bed, but it was still important to spend time with Clover. Their [Companion Bond] Skill was largely the easiest-to-level Skill Ranthia had ever seen, but moments that affirmed their Bond were important. They were tied together by the System, after all.
+
+And reading aloud felt more involved, even if she suspected the bunny had even less interest in elven law than she did.
+
+“Come on, you liked the [Healer]. Besides, you’ll be the one to benefit from any levels I might get.” Ranthia kept her voice gentle and tender, as she tried to fish the bunny out from under her bed.
+
+It was already getting hard to tell if Clover could understand her or not. Most of the time the rabbit seemed to entirely ignore any and every sound she made—unless she wanted privacy—but Clover had been excited for another outing until Ranthia off-handedly mentioned that she was going to leave the rabbit with the animal [Healer] while she went on a hunt.
+
+Moments later, Ranthia realized the bunny had vanished without so much as a vlip—leaving Ranthia reaching for nothing but air. A brief search revealed that the bunny had moved to her preferred hiding place, which was even harder to reach.
+
+Clover stamped her foot again as she evaded Ranthia’s outstretched hand. Sure, it’d be easy to use her speed to snatch the rabbit, but it was important for her to acknowledge Clover’s wants and reason with her. …Probably?! She really needed to do more research about Companion Bonds, it just felt like there were always a thousand and twenty-four things that she needed to do.
+
+And high up on the list was a need to level Clover as quickly as she could! Ranthia was immortal, but Clover was an all too mortal rabbit. For the moment, her bunny was still a juvenile. Yet Ranthia had first-hand experience with how subtle and sudden the ravages of time could feel, even with her not yet reaching her one hundred and sixteenth birthday. More vitality while Clover was young meant years more time for Clover to find her own path to eternity. And since Ranthia couldn’t control which class her bond took each time she reached a class up point—assuming animals even got options—the only means she had to give Clover as much vitality as possible was to level her. Fast.
+
+Admittedly, lower class quality meant Clover would get fewer stats per level, but 1024 levels at a red quality was significantly more vitality than 512 levels at orange and yellow quality. And just as importantly, it provided more opportunities for her to get offered the rarest of Skills—a means to become immortal. Once Clover was immortal, they could worry about her class quality. Once they had time.
+
+Gods and goddesses, Ranthia could finally understand why the elf with the copper-colored hair had completely lost herself when she found out that the best hope she had for her own Bond’s immortality had perished. Clover still had time, but… Well, even the [Healer] wasn’t sure how many years Clover might live naturally.
+
+But she had offered to look after Clover any time Ranthia needed it! Yet neither of them had really factored the bunny’s stubbornness into their expectations.
+
+“You do not want to go hunting with me. You got freaked out when I nearly got into a fight with the guards at the city’s… entrance.” Having to omit the word ‘gate’ from her everyday language still felt weird. “So please, I’m sure the nice [Healer] will have tasty treats and fun things to do—she knows more about rabbits than I’ve had time to learn!”
+
+Vlip. With a Skill-assisted hop, Clover moved herself deeper under the bed to avoid Ranthia’s encroaching arms. She stamped her foot again a moment later, just in case Ranthia was somehow unaware that she was in an ill temper.
+
+“Tomorrow we can explore more of the city together.” Ranthia offered a promise, as if she honestly expected such a thing to coax the rabbit out of hiding.
+
+She couldn’t just leave Clover all alone for however long Ranthia ended up out of the city! Sure, she fully intended to return by that night, at the latest, but she wasn’t stupid enough to guarantee anything. The time she spent was dependent on what she found rather than her own desires—that was just how hunting worked.
+
+“Oh hey, great timing! I was just finding a stopping place since lunch opens soon. What brings the two of you in today?” The animal [Healer] looked up from the thick book on her desk with a smile.
+
+“Hi, sorry to drop this on you without advance notice, but would you mind looking after Clover for the day? I joined the Hunter’s Guil… er, group, and I wanted to get out there and see what I can accomplish in a day. She was just a bit stubborn.” Ranthia raised the satiated bunny in her arms a little for emphasis.
+
+“Aww, did you not want your mommy to leave you?” The woman cooed as she walked over. “Hm, sorry, was that not the right word for your relationship?”
+
+“Er, sorry. I’m… not sure? But my childhood is a bit…” Ranthia inwardly chastised herself for making a visible expression of her discomfort while she scrambled to avoid the topic.
+
+“Ah, no worries! No worries at all. You’ve got time to figure out exactly what this handsome lady means to you.” The [Healer] smiled reassuringly as she drew near. “Visually, I can see that her coat is already looking better. Impressive, given how short a time it’s been. And of course I can take her for now. What do you say, sweet little lady? I can show you some of my favorite spots and I’ll bring snaaacks.”
+
+“I… Well, I had to bribe her to get her over here. She’s already had more fruit than you suggested. Half an apple, specifically.” Ranthia confessed while she passed the bunny to the [Healer].
+
+“Such a willful and clever lady! We’ll have to make sure you play very hard to work off that sweetness. We don’t want you getting spoiled and lazy now. So, go ahead and wave a paw at your Bond and wish her luck on her boring old hunt. Then you and I are going to have some fun together.” The [Healer] held Clover upright in her arms and gently raised one of the remarkably compliant bunny’s forepaws.
+
+“Thank you. I know I’m asking a lot.” Ranthia directed her gratitude to the [Healer] while she reached over to pat her rabbit on the head one last time.
+
+“‘Thank you so much for taking on the arduous task of spending a day that would have been boring with an amazing and fluffy bunny.’ As if this isn’t one of the perks of my profession? We’ll be fine, so go on. ‘The day fades while immortals exchange increasingly meaningless platitudes.’” The [Healer]’s tone implied the final line was a quote from something.
+
+“Right. Well thanks again! You two have fun and I’ll try to get back as soon as I can!” Ranthia called over her shoulder as she turned to leave.
+
+Clover was in good hands—she knew as much, even if there was still some guilt in her heart. But, to borrow Green’s terminology, the best good she could do for her Bond was to get out there and accomplish something. Their [Companion Bond] Skill would direct most, if not all, of the progress Ranthia made on her own classes to Clover and level her until she caught up to Ranthia’s own class levels.
+
+And for better or worse, hunting was the easiest path Ranthia had. [Priests] weren’t barred from leading prayers or performing ceremonies, but there were restrictions in place to prevent ill behavior or disputes—allegedly, to keep the gods from intervening. By the letter of the laws and rules, it didn’t matter that Ranthia served Xaoc. Even if He was far beyond petty disputes with minor deities with ill-formed domains, she was still bound by the same rules. And, frankly, Ranthia was hoping Avyna would show up before she felt obligated to test the waters of whatever political whims ruled the City of Arts—especially since she was still actively ignoring and avoiding the inane arts rankings.
+
+“I’ve missed this.” Ranthia subvocalized her pleasure as she explored the tranquil forest beyond the City of Arts’ boundary wall. She’d felt notes of the same sentiment when she briefly got to trek through the wilderness of Remus after her time at the Unbreakable Image, but she’d always been dealing with some crisis or distraction or another as a newly minted Sentinel.
+
+For the first time in far too long, Ranthia had no crisis or need to be wary for more than her own sake. Clover was safe in the City of Arts, under the watchful eye of an expert. And Ranthia owed no obligation or duty to anyone except herself and those she chose to welcome into her life. It was freeing.
+
+And even better, the freak blizzards were confined to the other side of the opposite mountain range. So, there was little concern about the weather forcing her out of her happy thoughts. It was just Ranthia and a wilderness that she looked forward to (metaphorically) mapping out over however long she stayed in the area. She didn’t want to range out too far since she hoped to return to the city before nightfall, but she was also a level 766 [Warrior] with solid class quality—she could travel both far and fast.
+
+No matter how satisfied she felt, she couldn’t relax her guard. She had a Reman’s sensibilities about the dangers of a forest, and she was in an elven forest. Sure, she had a list of creatures dangerous enough to be worth a bounty, but she wasn’t stupid enough to assume they were the only possible threats. And there was precious little that she actually recognized as she explored the forest. From the six-legged furry creature that jumped between the tree branches (a [Springstep Sloth – Wood], only level 103) to the beautiful red-and-orange flower that stood as tall as her waist with petals that slightly exceeded her arm span (which alarmingly actually identified: [Firetrap Mimic – Fire] level 391).
+
+There was just something… greater about the elven forest than Ranthia had ever seen in Remus. She had no idea if the dead zone had stifled Remus’ wilderness just as it had stifled their levels, but Ranthia had never expected a forest to feel so… magical. A pale-furred monkey fled from her presence, leaving Mirages in its wake. Later, a bird trilled and the buds on the branch it perched upon all burst into vibrant blooms—which the bird greedily drove its beak into.
+
+And then Ranthia stepped into an area where the canopies of multiple ancient trees overlapped and day became night. Past the borders of the light, the wilderness transformed. The pocket of darkness was vividly cooler than the rest of the forest, to the extent that it felt downright chilly. There, Decay flourished, as the leaves from those trees composted into fertile ground inhabited by wildlife wholly unlike that of the more illuminated regions of the forest. Mushrooms of prodigious size grew, with glowing green caterpillars the size of Ranthia’s arm crawling on them. Each step a caterpillar made left a glowing trail across the fungus, with each individual mushroom conveying a different color until the effect faded.
+
+Unlike the rest of the forest, the denizens of the dark entirely ignored Ranthia’s presence as she warily moved through the alien landscape. If it weren’t for [Divine Eyes in the Void] she might not have dared to risk passing through the area. The darkness was absolute enough that it was hard to shake the suspicion that some caster monster (…or plant) might have been responsible for making it thicker than it should have been. But with her night vision, she could confidently walk through the surreal landscape without worrying about her footing or an ambush.
+
+Not that anything bothered her. The creatures that lived in that special space ignored her and focused on living their own lives, and soon enough Ranthia passed through the other side and returned to the more familiar forest. As she journeyed, she spotted other similar niches of darkness, but she never detoured into another—it was impossible to shake the uncomfortable feeling that she had trespassed somewhere that she shouldn’t have after the first. Instead, she continued to explore until she found a set of heavy tracks.
+
+Her ears didn’t report anything, but her nose informed her that the trail was fresh. She didn’t recognize the exact tracks, but anything large enough to leave them was worth checking—most of the dinosaurs and other large creatures were viable targets for hunting just due to how much damage they could inflict on the forest as they traversed. And, of course, due to the bounty of meat they contained.
+
+Ranthia considered her skill at tracking to be somewhere around average at best, even by human standards, but it wasn’t exactly difficult to follow the path. The area was mostly just rich soil with scattered vegetation beneath a carpet of leaves, and each footfall of the beast that she was tracking left a deep, clear impression. There were few rocks or obstacles sufficient to obscure a single print, let alone the path.
+
+Along the way she witnessed a wild elk, though she had no interest in hunting it. It just felt kind of wrong to kill an elk after she spent much of a year tending to Brush’s majestic creatures—much like how she would likely never kill or sup upon a rabbit ever again, thanks to Clover.
+
+At length, Ranthia finally laid eyes on her quarry.
+
+[Stellasaurus – Sound] level 874, [Stellasaurus – Mirror] level 653. The beast was a fair bit taller than Ranthia was, with most of its bulk dedicated to its width and length. It was a hefty brute of a dinosaur, even if its tail was surprisingly short and puny for its size. And like many caster monsters, the number of classes was mismatched—any intelligent creature would have a third class.
+
+Still, the elements were concerning. Even as the beast greedily gulped water from a small pond, there was no sound. Ranthia watched the water splash as the beak rose and fell, but no matter how carefully she listened there wasn’t a single sound coming from the direction the dinosaur was in. Its Mirror element wasn’t immediately obvious, but Ranthia was quite aware of just how deadly the element could be.
+
+The facts lined up unambiguously: the beast was both worthy and permissible to hunt. Which was great, though Ranthia found herself grappling with how to go about hunting the beast. It was undeniably resilient-looking and bulky, but she wasn’t the struggling teenager she had been when she and her fathers had found peril in an ankylosaurus half its level.
+
+Besides, she had felled far greater beasts. Which was a great mindset to use, assuming she wanted to get herself killed. No, the dinosaur warranted caution, even if she was confident that she could bring it down by herself.
+
+Ranthia began the encounter by waiving the element of surprise. As rapidly as [Scattered Reflections] allowed, Ranthia formed three images around the dinosaur and had them lash out with their [Void Edge]-empowered knives. The dinosaur hadn’t reacted to their appearance, but it certainly reacted when three shallow wounds split its hide. It raised its head and came about while Ranthia busied herself with creating more images further away from the beast.
+
+So, it wasn’t a damage reflector. That much was obvious, since her images continued to inflict minor wounds on the beast without suffering any blowback. But Ranthia kept her images fixated on mindless aggression, even as the beast brought its armored face around to them—she wanted to know what her prey was capable of before she struck.
+
+Unsurprisingly, the dinosaur weaponized its bulk and charged. It lowered its head as it did and caught her middle image with its curved horn. Then, as it raised its head along with her not-yet-impaled image, the horns that protruded from its bony crest turned reflective as the Mirror element finally made its appearance. Phantasmal echoes of those horns appeared behind her image and slammed into it, even as the main horn vibrated. Her image, unsurprisingly, shattered immediately beneath the coordinated attack.
+
+A brutal enough attack, but if that was all the creature was capable of… Well, she just needed to avoid getting gored by its lead horn!
+
+Ranthia erupted from her hiding place behind a thick tree, just as her next wave of images began to dance toward the beast. Her first three images had been shattered, by horn or by forceful impact, but they were always meant to be expended.
+
+For a moment, the beast hesitated, unsure of which direction to attack.
+
+“Hey ugly, speak up!” So Ranthia made it easy on the poor creature.
+
+As she expected, the dinosaur’s own sounds were erased by its Sound element, but it still heard her taunt. It curved its slowed charge until it was moving exactly where she wanted it to go. Namely, straight toward the empty image that spoke, courtesy of [Echoes Reflected].
+
+The beast’s course let Ranthia reach it from the side, and she wasted no time in putting her newly formed knives to work. Using [Void Edge] and [Echoes Reflected], Ranthia inflicted a pair of deep, bloody wounds into its neck—just behind the dinosaur’s bony headplate—even as it shattered the image that had baited it.
+
+The beast opened its mouth to unleash an eerily silent howl of pain and fury as it thrashed its head to try to knock her aside, but Ranthia proved too deft for the clumsy brute—it was all too easy to dance clear. Unsurprisingly, the dinosaur dug its feet into the ground, tearing a deep trough through the damp forest floor, as it brought itself around to face her.
+
+Naturally, by the time it reached her, the only outlet for its retribution was another image. Ranthia had activated [Reflections of Reality] the moment she delivered her strikes. While the beast stamped and smashed in unheard frustration, Ranthia reached it again and drove her knives into the tender flesh on either side of its front left leg.
+
+The dinosaur tried to turn forcefully and, for a moment, seemed as though it would fall when its partially crippled leg proved unable to handle the speed or weight behind the beast. Alas, it caught its balance with its other legs and Ranthia was forced to parry its main horn as she danced away. The vibrational force from its Sound element was intense enough that she felt it, even through [Higher Power], but she had suffered worse at the hands of the shimagu—she wasn’t going to be distracted by a little numbness.
+
+Beasts had their own form of cunning. They could learn from mistakes, especially when pain was involved in every misstep. No Adventurer lived a long life without being aware of how quickly monsters and other animals could adapt to threats.
+
+But it was always nice when their low cunning led them astray. The dinosaur chose to ignore the image she was still in, and started an awkward, shuffling charge toward the remaining inbound image. She hadn’t actually activated [Reflections of Reality], so she chose to watch while she focused on generating more images around the dinosaur.
+
+“Hey, over here!” An image to the dinosaur’s right called out at the very moment the dinosaur successfully shattered the image it’d chosen.
+
+“Don’t believe her, I’m here!” An image to the dinosaur’s front-left declared, before the beast could move.
+
+“Obviously I’m the real one, just look at me.” Ranthia added her true voice to the chorus.
+
+“[Sexy] woman, right here!” An image further to the back of the beast shouted.
+
+It was too much for the injured beast. It stamped in place several times, then tried to make a break for it. It picked a direction where none of her images stood and started running as fast as it could with a partially disabled leg. But even if it had been in good condition, the dinosaur’s weight made it far slower than Ranthia was, especially in the damp terrain near the pond.
+
+And Ranthia had left that path open for a reason—she and her images were able to hit the beast from both sides. While her images inflicted minor damage to spur the beast on, Ranthia activated [Reflections of Reality] one last time. She replaced an image a moment before it reached the side of the dinosaur’s head, bent over backwards, and danced her way under the beast’s raised head. By the time it thought to lower its head to stop her, it was too late, Ranthia twirled clear on the other side of the beast.
+
+And watched the blood spill from its neck in droves. From there, she stayed where she was and waited, a smile on her face.
+
+The dinosaur was too bestial to realize that its fate was sealed. All she had to do was wait for the crash—the moment its System vanished and its strength and momentum failed.
+
+[*ding!* You have slain a dinosaur [Stellasaurus] (Sound, level 874), [Stellasaurus] (Mirror, level 653)!]
+
+[*ding!* [Echoes Reflected] has leveled from 503 to level 505!]
+
+[*ding!* [True Grace] has reached level 525!]
+
+[*ding!* [Companion Bond between Ranthia and Clover] has leveled from 135 to level 140!]
+
+Ranthia’s dramatic entrance was slightly marred by the dinosaur’s damned horn getting caught on the doorway, forcing her to back up and finagle it through the gap, but Ranthia strolled into the Lodge, carrying the dinosaur’s severed head, followed by her images carrying the sacks of carefully harvested meat. It was her first hunt, but Ranthia had already seen a few examples of what everyone else did to proclaim their hunt a success.
+
+“A stellasaurus! A caster monster! Level 874, Sound and Mirror elements!” Ranthia shouted the expected words to the handful of faces that looked her way.
+
+Only a handful of voices cheered, but almost everyone raised a tankard or mug in acknowledgement. And that was all the affirmation that Ranthia needed to feel like she had proven her place amongst the Hunters.
+
+The muscular woman back behind her bar raised a mug in acknowledgement too—a mug of the blackberry spirit that Ranthia was growing fond of. Sure, she’d be expected to pay for it—and any other drinks she imbibed—before she left, but it was the tavern master’s way of welcoming back Hunters. She always silently greeted them with a mug of their preferred poison.
+
+Ranthia left the head in the oversized, enchanted crate that all proof of kills were tossed into and approached the counter—keeping her [Divine Eye] facing her images so they wouldn’t lose their footing—with a grin on her face. The meat would be used for the city’s meal within the next day or two and Ranthia looked forward to it. Ordinarily she would have claimed enough to cook herself a meal once she finished with her social obligations, but her home had no kitchen.
+
+That was on her to-do list to remedy, but it was buried somewhat deeply in the vast list.
+
+Ranthia was more focused on graciously accepting her mug and sipping on its tart contents while she oversaw the sacks being handed over. Once that was done, she ordered another two mugs of the same beverage and approached the table she was being beckoned toward by the elf that shared the same taste in alcohol.
+
+Exploring the woods had been fantastic, but it was also pretty great to sit down amongst her peers and be acknowledged by almost everyone at the table.

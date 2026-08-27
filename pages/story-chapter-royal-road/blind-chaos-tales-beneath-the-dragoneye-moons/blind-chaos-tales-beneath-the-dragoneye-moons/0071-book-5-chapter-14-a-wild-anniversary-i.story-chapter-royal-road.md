@@ -1,0 +1,233 @@
+---
+id: 9f58ab75-f26b-5cda-a251-8bec87d6a0c4
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 14 - A Wild Anniversary I"
+slug: 0071-book-5-chapter-14-a-wild-anniversary-i
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 71
+ownLength: 4782
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3342953/book-5-chapter-14-a-wild-anniversary-i"
+royalRoadId: "3342953"
+---
+
+Summer in the City of Arts proved to be far milder than Ranthia had expected—it was hardly the sweltering humidity of Remus or the dry, deadly heat of the wastelands. If anything, the temperature outside the city finally matched the perfect environment within the city’s walls which was provided by a combination of enchantments and auras.
+
+The seasonal change also left everyone in the city abuzz with excitement. Contrary to Ranthia’s expectations, the summer solstice itself was a total nonevent, but that was only because the elves were gearing up for a far grander celebration. Namely, the celebration in honor of the day that the City of Arts was “completed”—the day that the twin trees were finished and the first Maestro of Sculpture and the first Maestro of Horticulture ascended.
+
+Oddly, it wasn’t a religious celebration. Sure, it was customary—though far from required—for residents to leave some offering for one or the other, but the celebration itself focused on the life and immortal achievements of the beings as they walked Pallos, not the God of Arboriculture or the Goddess of Sculpting Crystal. And as part of the eight-day celebration, the top ranks from every art were expected to do presentations, samples, and giveaways.
+
+And, naturally, grand competitions were planned. After all, it was one of the few venues where even a Maestro could be unseated.
+
+More annoyingly, it was a rare celebration for which even the Lodge closed its doors for the duration, which would forcibly disgorge Ranthia and the other Hunters into the revelry. As such, its final day open was crowded—everyone was eager to get their last drinks in and compete to see who had the best final hunt ahead of the celebration.
+
+Ranthia’s own contribution was modest. She had no good explanation for where in Xaoc’s glory the eighteen wild hogs had come from—and none of them had been particularly high level—but they were tearing up the place. She was perfectly pleased with the medium amethyst she received for removing the problem and the vast quantity of pork she’d infused into the upcoming festivities.
+
+Besides, a modest success was infinitely preferable to Anthelleon’s ongoing drunken misery.
+
+“A level 1094 thunderbird, completely unawares, and I still missed! Is this all that my quest to become a Hunter has wrought? A loathsome inaccuracy against an even more loathsome bird?!” Ranthia’s friend shed another singular tear—seriously, how did she keep managing to shed only the one on command?—before she pounded back yet another mug of their favored blackberry spirit.
+
+Ranthia got along—to varying extents—with most of the Hunters, but a few exceptions to that rule had made themselves clear over the months. Ranthia stopped comforting her friend as the most glaring exception sauntered his way over grinning like a dog that bilked its well-meaning masters out of a second meal.
+
+“This is why we should remove the lowest performing Hunters from our ranks periodically, so shameful displays don’t mar our crystalline reputation.” The jackass stopped on the opposite side of their table and directed his words their way, even if he kept his eyes forward.
+
+“Mm-hm, and remind me how many Hunters were in your party when you took down a level 600-something dinosaur?” Ranthia sassed. She honestly didn’t care about people like him, but she knew Anthelleon’d appreciate the retort. Her friend was vulnerable, and she wasn’t about to let an obnoxious idiot make things worse.
+
+Even if she was eighty percent certain that he was Sunny’s oft-derided father.
+
+“It was level 703—749!” As if anyone could have possibly missed his brazen attempt to inflate his half-borrowed achievement. “But at least I didn’t miss. Accept it, little miss diamond spoon—you aren’t meant to be a Hunter!”
+
+Ranthia was halfway out of her chair, ready to invite the man to join her outside of the city when a metal mug bounced off one of his horns with enough force to stagger him.
+
+“Shut up already, you damned idiot. You haven’t got any room to talk about failed hunts, and I’m not in the mood to listen to you fill the air with your shit! Pay for the woman’s next round and sit down or get the fuck out of my Lodge!” The tavern owner’s annoyed shout reached them about the same time Ranthia caught the slightly dented mug.
+
+The asshole stamped off, grumbling darkly and Anthelleon raised her head from the table just long enough to send a half-hearted smirk Ranthia’s way. With the situation… handled, Ranthia made her way to the bar to return the mug to its owner.
+
+“I’m afraid it dented on… er, his horn.” Ranthia gently warned the woman. The effect was probably hindered somewhat by her wince over her inability to recall his name. Honestly, Sunny’d said it more than once and he’d been a part of the introductions Ranthia received!
+
+“That’s my throwing mug. I use it on idiots that deserve a cracked horn. That piece of shit got lucky though, happened to turn his head just right at the moment of impact—otherwise I would’ve taken a chunk off.
+
+“But you, right here, right now: tell me what his name is.” The profound woman leaned over the bar, scowling at Ranthia, totally ignoring the mug held in Ranthia’s outstretched hand.
+
+“Um…” Her mind’s best offering was blatantly wrong, but she had nothing better on the spot! “Primus?”
+
+Honestly, he was an elf, not a Reman!
+
+“Why don’t you have a memory Skill?” The question felt atypically gentle. The woman was still leaning deep inside of Ranthia’s personal space, yet her tone was undeniably kind!
+
+“Er, well I had one, but it didn’t work very well. I’ve been waiting for Avyna to return so I can…” Ranthia stopped talking. The bartender had a look of annoyed resignation on her face as she blatantly raised her hand and balled her fist at perfectly mundane speeds. Ranthia’s silence didn’t stop her, of course.
+
+The punch came and Ranthia assessed it. Her instincts told her it wasn’t a threat and [Divine Eyes in the Void] plainly agreed. She could have dodged it, at least so long as the high-level woman didn’t get serious, but she chose to accept the incoming bonk. It seemed like the prudent thing to—
+
+The bursts of color resolved into an unsteady reality as Ranthia tried to stumble back to her feet, aided by multiple deft hands. One of which was on her butt, though it moved before Ranthia could figure out where—er, who—it had come from.
+
+She had blood in her mouth, but she narrowly came to her senses before she spit it out. The bartender was still glaring in her direction and pissing her off further by making a mess was a bad move. There was a reason she and every other Hunter made damn sure they weren’t carrying actively leaking trophies into the Lodge.
+
+Instead, Ranthia sent out a fresh image and tried to force her spinning head to focus long enough to shift.
+
+“Fuck me, I swore that was a gentle rebuke—not a full-force punch.” Ranthia groused once she was in her fresh image. Mid-way through her gripe, she dismissed her abandoned image and struggled to fight down the moment of discomfort that stemmed from sharing [Reflections of Reality]’s effects with such a large crowd. She was done with hiding her Skillset, but old habits and mindsets were hard to overcome.
+
+“It was. If I punched you seriously, you would’ve painted half my damned Lodge! …Wait. The low experience zone… Dumbass, answer me this: amongst your people, how prevalent were levels like mine?” The barkeep’s initial snort of disdain vanished beneath an unmistakable note of concern.
+
+Questions felt especially hazardous after recent experiences, but Ranthia still answered.
+
+“I’m only aware of one other human that’s ever seized immortality, but I had one of the highest levels Remus had ever seen. …To be honest, I was an adult by their standards before I even knew it was humanly possible to unlock your third class; not many people got much past level 200.” Ranthia confessed, baffled by the complete change in the woman’s demeanor.
+
+“Ah, fuck. You’re an idiot, yes, but this is actually bad. You have no idea how to coexist with people like me, do you? I really should have realized the problem after your ridiculous showing when I tested you… Eh, well, I’d apologize, but you’re still stupid.” The tall woman paced back and forth behind the bar as she complained, then stopped and took a deep breath before she continued speaking. “Fine, we can fix all of this. First. You have until this stupid celebration comes to an end to either pick a Skill to drop or make something merge—I know dropping Skills is hard on non-elves and so I’m not going to force it here. But don’t even waste your time trying to learn someone else’s—every fucking child knows better than that. I’ll teach you how to make a memory Skill that is actually tailored to you. And no damned excuses about your Skills—I’ll rip out your damned tongue, and I won’t even feel bad about it since I already know you have the classes to survive it. Second, I know someone that has experience with mixed level groups. I’ll call in that old favor and let him teach you how to not get yourself killed.”
+
+Ranthia was left momentarily stricken by the words. Okay, rationally, yes, eight days was… ambitious, but it was probably fair. As much as she liked [Skilled Fingers] and [Expert Tongue], the Skills were ultimately ‘disposable’ and she could spend some time mulling over which to drop—assuming she couldn’t miraculously make anything merge within that period of time. But the Skill question felt unimportant after the (willfully nameless) woman’s final words!
+
+“I know what a favor means to immortals, I’m not—” Ranthia had to voice her protest. She had been uncomfortable enough with Avyna calling in a favor when their hearts were intertwined, but the tavernkeeper was practically a stranger to her!
+
+“Don’t worry about it. Honestly, this is a good thing—I’ve been looking for a sensible way to discharge that damn favor for longer than most of the idiots in here have been alive. Time is running out and you’re the best damned excuse to call it in that I’ve seen. The favor isn’t a proud moment for either of us; it’ll be good to have it done. So shut up and be grateful—in other words, buy another fucking drink and get away from my bar.” The woman growled, before she turned performatively to the drinks available.
+
+Ranthia sighed and went to set the dented mug down, only to notice that it was no longer in her hand. How?! Sure, the triple-classed level 2560 [Warrior] had to be in a league of speed beyond what Ranthia recognized, but she should have at least felt the mug being taken from her hand!
+
+Ranthia just grumbled and ordered another round for herself and Anthelleon, along with a loaf of warm cheese-covered bread. The night was still young, and her friend still needed to be cheered up. By the time she reached the table, said friend was sprawled on her back across the table and was subvocalizing moody poetry that used as many flavors of the word ‘fail’ as the woman possessed.
+
+Ranthia rolled her eyes, set the drinks down, tore a chunk off the loaf, and stuffed it into the brooding woman’s mouth.
+
+“Eat. You’ll feel better. And take this drink slow, it’s a waste to throw a good brew back like cheap swill.” Ranthia ordered.
+
+“You can be quite loathsome, my friend.” The elf complained after she swallowed the bread. Though, for all she complained, she slid bonelessly back onto the bench next to Ranthia and reached for more bread.
+
+“Oh, you don’t know the half of it! If you promise to properly listen, I’ll tell you about the time I locked three rapists into a building together and pitted them against one another.” Ranthia offered her friend an impish grin.
+
+“You’d have more of my attention had you taught them to love one another—physically—and have no further need to torment the vulnerable for their lust.” Anthelleon turned her nose up, but her eyes were far more honest—she wanted to hear the tale.
+
+Ranthia snorted, but she still launched into her story. Remembering her tenure with Ranger Team 13 was still… bittersweet, at best, even after years of correspondence with her [Mind Healer]. But in hindsight, she was genuinely grateful to Republius for turning a blind eye to her… unofficial and unsanctioned acts of justice. There was little chance that the man had been unaware, and she improved lives through those moments, just as she did with the official acts of the team.
+
+By the time Ranger Team 6 began its rounds, most cities in Remus had begun to pay at least serious lip-service to the rights of women. And, of course, Green was more than willing to lean on her authority to force the city guard to comply with the letter and spirit of the law, unlike the aloof Leoios. He only cared about overt actions that safeguarded the lives of cities as a whole—the man never cared about the plight of individuals or marginalized groups that were beneath his notice.
+
+Naturally, Ranthia was just getting to the fun part of the story when an interruption came.
+
+“Friends, Hunters, and anyone else desperate enough to wet their lips in this hole—no offense, ma’am—I have returned triumphant! I bid you to join me outside, so I can unveil proof of my latest hunt! …Because it’s a bit too big for the crate.” An unfamiliar elf declared even as he thrust the door to the lodge open. His sand-colored hair was short, and his horns swept back from his forehead, obscuring much of it. He was dressed in light riding leathers with no trace of a weapon on his person.
+
+[Warrior – Arcanite] level 1024, [Mage – Arcanite] level 519, [Warrior – Gravity] level 1024.
+
+“Who is that?” Ranthia quietly asked her newly distracted audience of one. She’d been in the City of Arts for almost half a year—so an unfamiliar face that was known to the crowd was more than a bit surprising.
+
+“Aegiomus! I’ve mentioned him before, he’s at the top of my to-do list. Come on, you’ll want to see this.” Anthelleon was completely back to her normal self as she grabbed Ranthia’s arm and dragged her along to join the masses trying to filter their way through the Lodge’s tiny exit.
+
+Ranthia just sighed and yielded to her friend’s efforts. Honestly, she spent hours trying to bolster the woman’s mood with only minor success, then all it took was some (allegedly) handsome guy showing up?!
+
+Gathering everyone outside of the Lodge took time, even with Egopus, or whatever his name was, trying to coordinate things. He refused to start or give any hints until every last Hunter was gathered around the Lodge. As a crowd, they wholly blocked the street, even before other stickybeaks bolstered their numbers, but no one seemed to complain.
+
+“Behold, the greatest fruit of my latest hunt!” The man shouted as he waved a hand over a reddish-tinted metal case that was strapped over his chest. The action made enchantments engraved across the little boxy case glow.
+
+A moment later, Ranthia’s view of the surroundings was replaced by what felt like an endless expanse of deadly teeth. She’d never seen anything like the head that appeared—it was on a scale greater than even the gigantosaurus had been, but it was also undeniably aquatic given the fins on its cheeks. Even if it was clearly dead, several elves took a nervous step back from the absurd predator—gods, Ranthia narrowly swallowed the instinctive urge to do the same.
+
+“A greater sea serpent! Level 2,871! And I never got a chance to confirm if it was a caster monster, but damn few of these things aren’t!” The Hunter boasted, holding the head aloft with arms of shimmering energy that were several times the size of his natural limbs.
+
+There was no space for jealousy or bickering, not with an accomplishment like that. The crowd roared with approval, energized by the feat.
+
+“My great uncle has the flesh of this beast and a bounty of oceanic fish to add to the feast that comes! And there’ll be another surprise on the second level of the Heart of Arts and Learning starting tomorrow, so uh, check it out when you get a chance?” The man seemed to be a lot more bashful about selling them on an experience than he was when he was boasting about his own achievement. Anthelleon even let out a girlish squeal over the shy, questioning lilt the man used.
+
+“Forget your uncle and the food, we want to hear how you managed to take this beast down!” One of the other Hunters shouted.
+
+“Ha! Fair enough! So, we were aboard my uncle’s ship, and the day was as fine as any you’ve ever seen. The ocean was as calm as it ever gets, and I was lounging on deck enjoying the sun when all of a sudden, the ocean itself seemed to rise right in front of the ship! I’m mid-cycle on my second class, y’know, which is really less than ideal when I realized what was surfacing. So, there was only one thing to do! I leapt right for the beast!” The man used the gigantic head like an oversized prop as he told his fanciful tale.
+
+Ranthia lost interest as the man claimed to have outwrestled the monster in its own element. The fact that it was dead was undeniable, but the story was brazenly aggrandized. After a bit, Ranthia bade her star-struck friend a farewell—receiving no response whatsoever—and slipped through the crowd until she emerged on the far side.
+
+She had a bunny to retrieve and some decisions to mull over.
+
+“What do you mean you don’t want to go with me today?” Ranthia gawked incredulously at her Bond.
+
+Their room remained serene within whatever soundproofing enchantments worked their miracles, but a glance through any window revealed a city in the grasp of grand revelry. For days the ‘gates’ into the city had been busy as caravans and individuals arrived in droves for the celebration. Elves and more poured into the city to join in on the festivities or to offer goods to the crowds.
+
+Ranthia had expected Clover to be skittish about the crowds, but she still wanted to share the experience with her Bond. Instead, she was (somehow) convinced that the rabbit wanted to join Litil, the animal [Healer]!
+
+“I was looking forward to exploring the celebration with you.” Ranthia tried sweet tenderness.
+
+The bunny thumped her leg ill-temperedly in response.
+
+“It’s a big crowd; you’ll be more comfortable with me.” Ranthia tried logical reasoning.
+
+Thump.
+
+“I know things are usually peaceful here, but an outsider might try and grab you. Tame caster monsters are valuable.” Ranthia tried a dire what-if.
+
+Two thumps and what was undeniably a displeased glare.
+
+“Fine… We can see if we can find her, but if we can’t you’re stuck with me, got it?” Ranthia acquiesced.
+
+She could have sworn the bunny was looking quite smug and pleased with herself as they departed their shared home.
+
+“Oh, hey! Good on you, you convinced her all by yourself, didn’t you?” The [Healer] was surprisingly waiting outside of her shop and knelt down to scritch Clover’s ears.
+
+“You knew?” Ranthia leveled a glare at the woman. No one had said anything when Ranthia retrieved her Bond the night before!
+
+“She is a very clever and very willful lady. You know this as well as I do. Don’t worry, she’ll join you tomorrow, I’m sure. Oh, but before you go, would you be willing to give her a few gems to spend? Currency is more important when we have so many outsiders in town.” Litil’s words were matter of fact, but the smile on her face suggested there was some great secret in play.
+
+It was kind of refreshing to deal with an elf that she could read so easily. Weirdly, knowing that something was afoot made Ranthia feel better about the entire thing.
+
+“Alright. Here’s…” Ranthia paused to fiddle with her beltpouch of gems as she calculated. “Two medium obsidian, eight small arcanite, and a small jadeite. That should be enough, I hope?”
+
+“That works wonderfully, thank you.” Litil accepted the gems.
+
+Clover pawed at the air twice—her way of waving goodbye—before she turned and started to hop away, followed by the [Healer].
+
+“Guess I’m on my own…” Ranthia was possibly sulking just a teensy bit as she watched the duo leave her behind.
+
+“Why so forlorn, my pretty?” Sunny’s face leaned into Ranthia’s field of view.
+
+She was seated on a bench where she had been watching the water elemental—Arq—as she playfully launched water at anyone that passed next to her fountain without greeting her. The moment of outrage on the elves, forcibly restrained with polite civility, was an entertaining distraction.
+
+“I’m not forlorn, I’ve… just been thinking.” Ranthia defended her honor as she scooted to the side to let her friend join her.
+
+“About what? Something twisted and scandalous, I hope?” Sunny chose to remain standing as she smiled sweetly in Ranthia’s general direction.
+
+“You’ve got me. I was considering abducting one of the beautiful women visiting our city and tying her up in my bedroom to keep as a plaything.” Ranthia deadpanned.
+
+“Ah, yes, I can see that. You do seem the sort. Well, if you go through with it, I hope you’ll share the goods, though I’m afraid I’ll have to be shocked and outraged once you get caught.” The dark-clad elf nodded.
+
+“You would.” Ranthia snorted. The joke at least gave her time to find a plausible excuse. “I was just thinking, I’ve got until this festival ends to come up with a Skill to drop, unless I manage to merge one of my current General Skills into something else before then.”
+
+“Not as fun as your first suggestion, but I suppose I can still listen. What are your candidates?” Sunny finally plopped herself down next to Ranthia, leaning against Ranthia’s shoulder.
+
+“I mean, I have a couple of Skills tied to my first class that might fuse together or into a class Skill, but that feels like a long shot. I’m not going to miss out on the festivities to climb a mountain or two and challenge whatever apex predators reign atop them. Really, my candidates for what to drop are [Skilled Fingers] and [Expert Tongue]. I’m just trying to decide which I’ll miss the least. The former gets more day-to-day use, even aside from… you know. But I kinda want to keep the latter too, maybe even more?” Ranthia explained.
+
+“My pretty, you are overthinking this.” Sunny had her face in her hands when Ranthia looked back her way.
+
+“Oh?” For a moment, Ranthia dared to hope that there was some great elven wisdom that would save her from the predicament.
+
+“I know sex Skills when I hear ‘em. And those are always easy to merge. So, let’s get you out there and see if you can pull any interest from some pretty lady or another! Yeah yeah, your woman isn’t here, but it’s a party and you’re not off-limits or anything. Have some fun!” Sunny offered Ranthia a wink as she hopped back to her feet and began to walk away.
+
+“I’m not in the mood!” Ranthia protested as she rose to follow.
+
+“Oh please, you’re so pent up I can smell it on you some mornings. Come along, my pretty. And hey, maybe if you put on an entertaining enough show, I might invite you to share in some of my… proclivities.” Sunny’s voice was consistently sultry, but Ranthia had never known the woman was capable of dipping into a range even more charged than usual.
+
+Fuck.
+
+Ranthia’s experiences with elven styles of flirting was a litany of direct—and often frank—displays or offers. And she’d expected Sunny to needle her into doing the same. She wasn’t entirely sure if she was comfortable with the idea or not, even with the… offer her friend made. But instead, the elf led her across the town to where a crowd was gathered outside of the Green Pavillion. Then, without fanfare or expectation, Sunny shoved Ranthia forward into the Pavillion.
+
+“I, Ranthia, who holds Rank 41 for Dancing hereby challenges the Rank 40 of the same!” Sunny called out in an insufferably exaggerated imitation of Ranthia’s voice.
+
+Why?! Ranthia silently mouthed her demand to her friend, but the elf was just innocently cheering along with the crowds as if she had nothing to do with what was happening. But Ranthia could only glare at the traitor for a moment, because another elf stepped into the Pavillion with a confident smile on her face.
+
+The crowd was allowed to choose the method of the match, which left Ranthia and her opponent dancing together, with the leader of their dance changing with the claps that accompanied certain points in the song. There was no musician to play the music, instead the crowd formed an impromptu chorus to sing the unfamiliar song—which somehow worked far better than it should have. Had a crowd of humans from Remus attempted to harmonize, the result would have been ear-searing chaos. Yet a few dozen random elves managed the feat to a downright impressive extent.
+
+The lithe woman in Ranthia’s arms possessed elven grace and precious little else. Sure, her fundamentals were sound, but she seemed to struggle with improvisation. Every time she led during their dance, Ranthia chafed under the rigid dance she wove. Yet when Ranthia led, she was forced to tone herself down to match her opponent’s prowess. By the time the song ended, they were both in a somewhat prickly mood, but the elf ceded her rank to Ranthia as the crowd expected her to.
+
+In hindsight, Sunny’s plan was somewhat obvious. Once Ranthia accepted her new rank and stepped off the Pavillion’s steps, several men and women swept in to congratulate her and to make carnal offers. It was only a fraction of the crowd—the showing hadn’t been that impressive—but when the cute woman with the pink hair bared her pink-tipped breasts to Ranthia when she made her offer, Ranthia found herself assenting.
+
+The day wasn’t just sex. Ranthia also spent time hanging out with Sunny with clothing firmly in place. After the pink-haired elf, they visited the Heart of Arts and Learning to check out the new display that was on the lips of half the elves in the city. A significant portion of the second floor of the facility had been replaced with vast tanks of perfectly clear crystal, displaying vibrantly colored fish that swam through the pristine seascapes that were impressively replicated within. Ranthia recognized a few of the denizens of the deep from her time in Massilix, but it was a wonder to see them alive and in a recreation of their natural habitat.
+
+Sunny, on the other hand, was far less enamored. After half an hour, the woman made her boredom known.
+
+“Hi, my friend here can’t stop checking you out. Would you like to have sex with her?” Sunny’s voice drew Ranthia out of her reverie.
+
+She could only stare incredulously as her friend propositioned another woman on her behalf!
+
+Ranthia was exhausted by the time she finally left her home again. The day had been taxing enough, but Sunny’s… proclivities had turned out to be something of an acquired taste. She’d never imagined that anyone would consider a sharp knife to be a tool suited to the bedroom, though she’d tried to keep an open mind. She truly had. And she was struggling with emotions that were more than merely mixed as she sought out the [Healer] and her wayward Bond.
+
+At length, she found Litil sitting on a bench with a towering sweet—which made her stomach angrily remind her that she hadn’t eaten anything of substance since breakfast, even with her disdain for sweets. But Ranthia had little room to pay heed to her hunger.
+
+“Good evening!” Litil called out when she noticed Ranthia’s approach.
+
+Ranthia, on the other hand, eschewed polite civility.
+
+“Where is Clover?!” She only had eyes for who was conspicuously absent! Her shout drew annoyed looks from nearby elves, but it only evoked a slow blink from the [Healer].
+
+“She isn’t with you?” And the worst possible response came from the confused woman’s lips.

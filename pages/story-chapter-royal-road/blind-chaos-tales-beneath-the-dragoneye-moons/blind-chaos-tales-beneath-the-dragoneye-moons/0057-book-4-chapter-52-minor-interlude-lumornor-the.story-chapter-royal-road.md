@@ -1,0 +1,119 @@
+---
+id: e7fd93d4-332b-55d2-bb82-c726d82d5ee4
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 52 - Minor Interlude – Lumornor – The Pursuit of Progress"
+slug: 0057-book-4-chapter-52-minor-interlude-lumornor-the
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 57
+ownLength: 2469
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3051764/book-4-chapter-52-minor-interlude-lumornor-the"
+royalRoadId: "3051764"
+---
+
+It was ironic, really. Or at least it was ironic with the benefit of hindsight.
+
+Lumornor had found himself at the cusp of abandoning a pursuit that had consumed centuries of his life. But no matter how many samples he studied, what new theories he tried—he remained stymied. It was as if he was facing a wall… no, it was as though he faced a door, and there was some trick to it or some key that he lacked. There was something he needed to further his research. Yet time and time again, he emerged from his lab empty handed.
+
+Surely, the sensible thing to do was to give up. At least for a time. The march of progress or a refreshed perspective might be all that he needed.
+
+And the very day that he had nearly convinced himself to give up—to set aside everything—an unexpected parcel arrived. It had been sent by a former acquaintance, one that Lumornor struggled to place initially—a younger elf that seemed content to pursue little more than novel ways with which to inebriate himself.
+
+It had been too great an insult to bear. The message that accompanied the book—a manuscript of such sloppy providence that it borrowed the binding of an existing tome—claimed that it was a treatise written by a human [Healer] that self-proclaimed to be an expert on biology and anatomy. Humans were a mortal race, and a lesser one, even amongst mortals. Honestly, he had assumed that they had the good sense to go extinct long ago.
+
+Was Aegion trying to insult him, or was it supposed to be some sort of twisted joke at his expense?!
+
+Lumornor had tossed the book aside with utter revulsion and stormed off, his determination renewed by his anger.
+
+He would succeed, even if it was only to prove to everyone that he could.
+
+Four days of continuous lab work without rest or meals was generally a bad idea, but the dedication that it required helped. Lumornor returned to his home with a far more benevolent mindset and an eagerness for a shower, a hot meal, and a good night’s rest—and the order was quite important to him as well.
+
+As he passed by the book, he glanced at it—wedged open beneath a small table that was littered with hopelessly antiquated notes—and sneered. He possessed no greater clarity about what would have driven Aegion to send him such a rude gift, but he would be damned if he was going to lose his spirit just because…
+
+Lumornor’s thought processes ground to a halt, as his eyes unwittingly absorbed the crudely scrawled words that had been writ across the page.
+
+The marrow found within bones is a fatty tissue that creates the cellular aspects of blood including the red blood cells that carry oxygen, white blood cells that provide the backbone of the immune system, and even platelets. Bone marrow even supplies some of the proteins that make up plasma. In newborns, all bone marrow is red, but it is gradually replaced by yellow bone marrow with age. Under certain conditions, including those discussed further below, the process can reverse itself. The difference between the two types is simple, the yellow bone marrow…
+
+In his rush to retrieve the book, Lumornor overturned his table as though he was a petulant child. His fatigue, hunger, and aroma went entirely forgotten, as he obsessively pored over the book.
+
+How in Pallos had a backwater mortal learned any of this?!
+
+Some things were more important than sleep.
+
+Lumornor, a peerless elven scholar and researcher, had crouched like an animal while he read the entire book, cover to cover. The instant he was done, he had rushed to his study and begun a second—then third—read-through while he obsessively compiled notes. Humans hadn’t gone extinct; they must have hidden themselves away from the world and focused on becoming the greatest scholarly minds that could be found outside of Tympestshard! No mortal could have possibly amassed so much information in the span of a single White Dove-endorsed lifetime; Elaine must have composed the accumulated knowledge of generations of scholarly [Healers]!
+
+He had, of course, completely memorized the book the first time he read it, yet he still found himself poring through it again and again. At times it felt as if this Elaine stopped half a step away from handing him answers to problems that had stymied him for centuries! But that was fine, it just wouldn’t do for him to be cut out of his own research.
+
+The book was specific to human anatomy, though that was a somewhat minor barrier. Lumornor had learned the truth of the world long ago: the creator gods were lazy. Near identical structures could be found within almost all life on Pallos—the only difference was the quality of the organ or biology. It was clear that humans were atypically fragile, and he already had half a dozen ideas about how to improve their shortcomings.
+
+Oh, if only he could consult with the sparkling intellectual that had written—
+
+Aegion! If his dear old friend was still in the vicinity of this Elaine, he might be able to bring her to Tympestshard!
+
+Lumornor hurriedly scrawled a letter—then discarded it and replaced it with a far less rambling version. But before he could find a courier, he needed to check his own cellar; Aegion deserved the finest gift that he could send!
+
+Lumornor was an elf of impeccable lineage and of sound mind. He had the accumulated wisdom of millennia of experience and was, quite possibly, the single most brilliant elf to have ever set foot on Pallos. When the unfortunate news arrived, he accepted it with dignity and grace.
+
+Honestly, it wasn’t even entirely surprising. Humans were mortal, entirely too many couriers were still wasting their time cycling, and it must have taken a mortal lifetime to acquire and combine so much knowledge. …Except for the fact that, for some inexplicable reason, Elaine was permitted to enter a fairy ring?!
+
+He emerged from his study, left a few gems to make up for the excess workload he had placed upon his housekeeper, and prepared to return to his research facility. It was a shame that he would never have the pleasure of working alongside the late Elaine, but if humans possessed the underlying knowledge and wisdom to produce one elf-tier genius, there existed the potential for a second.
+
+In the interim, he would use her knowledge and combine it with his own expertise. He had made great strides recently, and if he was unable to work alongside Elaine, he needed to devote time to ensuring that every last word she wrote was accurate.
+
+Only a child would assume the works of another were flawless—in Lumornor’s experience, he was the only one who recorded nothing except the exact truth.
+
+Research, testing, and revision continued. For a very long time Lumornor had remained devoted to his plans, but the novelty of constant advancement was still a boon. The human’s words weren’t quite infallible. Minor details were incomplete and there were a few true errors recorded, but none of that was a significant setback. Where he found shortcomings, he noted them and provided corrections or guideposts for others to correct things that were too irrelevant and time-consuming for him to personally pursue.
+
+But Elaine wrote the Medical Manuscripts exclusively for humans, and that was insufficient. Lumornor’s own contributions to the Medical Manuscripts added elven anatomy and established a framework for the comparison and expansion to the other species that walked (or slithered or whatever other means of conveyance they found acceptable) the world. The structure was necessary, not only for his future work, but to standardize future additions to the Medical Manuscripts.
+
+Because there would be future additions. Once Lumornor’s additions to the book were completed, he visited [Scriveners] and added his own signature before he had them produce copies. Forty-eight went to other [Scriveners] throughout Tympestshard—so that they may provide copies to those that sought the brilliant work. Sixty-four went to the Academy, split evenly between those who taught and the Academy’s vast library. The final sixteen went to specific scholarly minds that Lumornor was acquainted with—directly, or through their own work—in hopes that they would provide their own expansions to the masterpiece.
+
+It was something of a shame that Elaine’s own brilliant insights would have been insufficient to garner the attention that the addition of his name would engender. The woman had saved him… notable amounts of time and frustration. But many elves were too foolish and arrogant to appreciate insight that came from those that had the misfortune to be born as a non-elf.
+
+Lumornor had only intended to acquire a single apprentice, though he was ready to admit that the woman’s brother had proven to be quite an asset. The man had appeared—uninvited—because he was a (seemingly doltish) competitive fool that was jealous. He considered it unfair that his younger sister—fresh out of the Academy—had landed an apprenticeship with one of Tympestshard’s most prominent elves. It was a sentiment that Lumornor could sympathize with, but the man hadn’t even heard of the Medical Manuscripts. Honestly, when he left the muscular elf alone with a copy of the invaluable book, he had expected the man to quietly leave.
+
+Instead, a year later, Lumornor found himself pacing while he awaited his second apprentice to return from classing up.
+
+Bolstered by the Medical Manuscripts, Lumornor had made incredible progress. It hadn’t even been a century since Aegion—Lumornor paused to make a mental note to send his dearest friend another fine bottle of something or another—sent him the original work Elaine provided, yet he had already achieved a goal that he had spent the bulk of his life pursuing.
+
+Biomancy.
+
+The System had accepted his brilliance and he and his apprentices wielded Skills that allowed them to sculpt and modify biological tissue and structural substrates. But he and Evanera still wielded classes derived from their existing [Healer] class. By fluke, Relvarith was the first of them to reach the point where they would learn if a [Healer] class was truly a prerequisite for Biomancy.
+
+At last, the glowing aurora around Relvarith faded away. The man was rushing to give his report, though there really wasn’t much need.
+
+The [Artisan] tag he bore was unmistakable.
+
+Biomancy was a massive achievement. Any other elf would be proud to call an entirely new System-acknowledged profession their eternal legacy. But it had always been merely the first step toward Lumornor’s true ambitions. It was a grand step to be certain, and yet it was still a single step.
+
+“This is going to take forever.” Evanera complained, as she tugged at her messy brown hair. The girl had seen fit to give herself naturally curly hair and was being obnoxiously obstinate about accepting that it was a mistake. It was an easy mistake to reverse, but she first had to accept that she was unhappy with it.
+
+Though her words bore an undeniable truth. Moving forward needed considerable research—not a deep dive into any specific question, but a broad set of research from dozens or, ideally, hundreds of different potential resources.
+
+“Nah, with me here, we’ll be done before you know it!” Relvarith flashed his impractically pointy teeth.
+
+Lumornor was morbidly curious how long it would take before his second apprentice injured himself. Excessively sharp and pointy teeth were ill-suited to someone that spent much of his time wagging his tongue.
+
+“No, the time has come to train the first generation of [Biomancers]. Additional researchers will be essential as we move forward with the plan.” Lumornor staved off the impending argument before the siblings could begin.
+
+“We’re returning to the Academy?” Evanera was blatantly eager—she was well-suited to academia. That or she had come to miss the larger labs; Lumornor’s personal research facility had never been intended for three people to use it at the same time.
+
+“No, not at this time. I have precious little experience with teaching groups, and it would be better to begin in a less formal setting to find the first generation that will work under us. With our numbers bolstered by the first group—twenty-four at most—we will be better positioned to handle the applicants that I am sure to receive at the Academy.” Lumornor crushed his first apprentice’s hopes without a trace of guilt. Patience was essential for a researcher that hoped to accomplish anything of merit and that was a lesson that the young invariably struggled with.
+
+“So, what, we just going to stick up a notice in town and stuff cots in your den?” Relvarith was quick to find a joke, as always.
+
+“We will begin at Ar-Suelle, the City of Arts. It is an ideal location, with thousands of elves that spin their wheels in useless cycles while they search for some direction with which to shape their lives. Moreover, they have ample space that we may lease at minimal cost while we find and train our students.” It was always best to provide a concise, yet ample explanation. It prevented time from being wasted on obvious follow-up questions and it helped to avoid bruising young egos.
+
+Of course, Evanera still wore her disappointment on her face—she was bright enough to realize that their first generation of students would not be adequately trained within a year or three. Her brother, in contrast, was grinning.
+
+Given everything that Lumornor knew about Ar-Suelle, his eldest apprentice would do well there. It was a place where the young gathered to compete with little reason or sense—a waste of time, for certain, but it appealed to those who lacked any true sources of pride.
+
+Together, master and apprentices began to pack and prepare everything that they needed. There was much to do, and Lumornor was truly looking forward to what was to come. Biomancy was still in its infancy—its limitations and capabilities needed to be explored. He had endless theories about what was truly possible, but theories were worth little until they were tested.
+
+And even if Biomancy could do everything that he hoped, there was a substantial amount of data that needed to be gathered before the next step could be taken. That was the problem with being a true visionary—he had to pave his own way forward. He needed to find talent and potential that he could polish into useful peers and staff. Myriad preparations were required before he could take the smallest step forward.
+
+But that was to be expected, after all his goals weren’t limited to Pallos. When he finally ascended, he needed everyone—elves and gods alike—to know that he belonged there.
+
+And the cleanest way to do that was to prove that he was, at the very least, equal to the five creator gods.

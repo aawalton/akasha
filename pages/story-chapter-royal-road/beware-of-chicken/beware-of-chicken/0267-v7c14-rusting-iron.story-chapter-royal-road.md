@@ -1,0 +1,229 @@
+---
+id: 1d2b1a10-b722-5b39-a192-463e67026465
+page-type-slug: story-chapter-royal-road
+title: "v7c14: Rusting Iron"
+slug: 0267-v7c14-rusting-iron
+partOf: beware-of-chicken
+position: 267
+ownLength: 3247
+unit: words
+ownProgress: 3247
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2860189/v7c14-rusting-iron"
+royalRoadId: "2860189"
+markedReadAt: "2026-06-29T19:00:34.670Z"
+---
+
+Sheng Yanjing, Auditor General of the Azure Hills, was still wondering if this was some strange dream. Had he slipped and hit his head on that fateful night when he had gone to confront the Lord Magistrate? Had he imagined the arrival of the Imperial Herald? Was he some drooling fool laying on a bed somewhere in Verdant Hill?
+
+He knew in his heart that this was just idle musings. This was real. He was now a co-conspirator in a scheme to bring down his once-benefactors. He was also being treated surprisingly well. He would have thought he would have gotten the cold shoulder from the Lord Magistrate or the cultivators, but instead he was treated with something almost like respect. And if not respect, he was treated cordially, and even included in their convoy—to protect him, even, just in case the Wus tried anything with him.
+
+It was certainly a lot better security than the Wus ever provided for him. To think his once-enemies valued him more than his previous masters.
+
+Though… he had never really been seen as an enemy, had he? An unfortunate tool perhaps, but never an actual threat.
+
+It did hurt his pride a bit, but honestly, it was the best outcome.
+
+Yanjing sighed and pushed those thoughts away. He returned his attention to the window of the enormous carriage he was seated in.
+
+A carriage that was being pulled by a Spirit Beast.
+
+The bull ran like the wind, his great strides gobbling up Li like a man gobbles up bowls of rice—yet the carriage was level and straight, and he didn’t even feel the galloping of the Spirit Beast.
+
+Perhaps that was what made it feel so strange. The lack of movement, and the lack of noise. Oh, he could hear the thundering of hooves, but… the wind. There was no wind. When one rode upon a horse, all one could hear was the roaring gusts.
+
+But there was nothing.
+
+It almost made things boring. Well, not almost, he was rather bored at the moment, yet the question was bugging him.
+
+He paused and turned his eyes to his companions within the carriage. He wondered if he had the guts to ask them questions… but they had all been fairly polite so far when they had stopped for the night, and Lord Jin even deigned to cook for them all. If he didn’t know better, he would have thought the young man the real servant… but cultivators were supposed to have some strange quirks, and cooking one of the most delicious meals Yanjing had ever eaten was certainly on the low end of strangeness.
+
+His eyes first caught Xue Ji, and he immediately dismissed the severe-looking woman. She had seemed fairly approachable… until about five minutes into the trip when she pulled out a sword and started sharpening it while talking to the maid, Suyan, about what kind of poisons they could expect in the Azure Hills; their scents and tastes… And casually going into detail about how quickly she could expect to kill any cultivator assassins the Wus could possibly send with the bored tone of somebody who had actually killed people before.
+
+Xue Ji was currently laying on her back and using the maid’s tail as a pillow, with the rest of it wrapped around her body and chest. He understood that they were family, and apparently had not seen each other in some time. Xue Ji was reading through a scroll on said poisons; her severe eyes were locked into an especially intimidating glare today—she had been complaining to the maid about the lack of Qi in the air.
+
+The maid herself was reading a different scroll, this one of cooking recipes… while swirling a a blade that looked somewhat like a cicada wing blade around her fingers like a young student twirled his calligraphy brush. The viciously curved blade was a silver blur that cut through the air with a disconcerting low hum, and the woman was spinning it in a way that sounded almost like music.
+
+Yanjing shuddered and turned to the final person within the carriage. The Lord Magistrate was sitting on top, out in the elements, with Lady Wu, Lady Meiling, Lord Jin, and their child, which left the fish.
+
+The Spirit Beast was lounging in his beautiful jar, an absolute work of art in Yanjing’s opinion. The fish’s tail flopped gracelessly over one edge, his head propped up on the other. His fins had turned into odd, muscled arms; one was holding a sheaf of paper with math formations, and the other fishing around in a bag of nuts. He occasionally popped one into his mouth.
+
+The Spirit Beast caught Yanjing’s gaze and he froze. The fish stared at him for a moment, then picked up his bag of nuts and offered it to Yanjing.
+
+Instantly, the awkwardness faded. “Ah, my thanks, Master Wa Shi,” Yanjing took one and popped it into his mouth. His eyes widened. They were different from what he was used to, but they were clearly some variation of drunken nuts; savoury and spiced, instead of sweet. “Ah, drunken nuts, how delightful.”
+
+The fish perked up. “Oh? I didn’t invent these?” he asked. “Are they done differently in Pale Moon Lake City?”
+
+“They are indeed. Firstly, we use a southern Azure Hills nut called a pecan, instead of walnuts. We typically use sugar on the outside, instead of this mixture—they’ve recently started using a new ingredient, maple sugar, on some of their batches. Delicious. Still, I can see these catching on as well, “ Yanjing said. Those nuts had gotten him through many long nights studying.
+
+The fish perked up. “Oho? Do you have a shop you recommend?” Yanjing nodded.
+
+They went into that conversation for a little, and it was a good distraction, before he circled back around to the journey.
+
+“It's really great that Bei Be volunteered. Being carted around in style is better than flying there myself!” the fish declared, and Yanjing blinked. The fish could fly?
+
+“It is a little disconcerting not to hear the wind though. I suppose it's some cultivator magic?” Yanjing asked, finally getting to his question.
+
+“Yes, Bei Be and the Boss are working together. Bei Be is still learning—he’s cutting the air ahead with his will, but we would still hear things if it was just him. Boss’s Qi is also around the carriage. He's asking it to be nice and quiet, so we can all talk without yelling,” the fish explained matter of factly.
+
+He’s asking the wind to be quiet so we can talk.
+
+Shen Yanjing wanted to laugh. Heavens above, the Wus had no idea what was coming, did they? They truly tried to strike the one man they should not have. And now they were sitting blissfully unaware as a storm gathered around them. How wonderfully poetic.
+
+And Shen Yanjing was, thank the Heavens, on the winning team.
+
+“What about you, Wa Shi?” Yanjing asked. “Can you command the wind?”
+
+“This Great Dragon is like the Boss. The wind is eager to submit, and would be quiet!” the fish declared in a haughty voice that turned sly after a moment. “…but don't tell the Boss that, because he might make me take over wind duty.”
+
+The sheer shameless laziness made Yanjing laugh.
+
+“Worry not, great fish, this humble auditor knows well the value of discretion,” he said with a wink. They both shared a chuckle, and the silence was companionable, before Yanjing saw the papers Wa Shi had set to the side. “What manner of math formations are you working on, by the way?”
+
+The fish picked them up and showed them to Yanjing. They were… very advanced. And very much unfamiliar to Yanjing, though he could see some vague similarities from other scholar’s advanced courses. From there they got into accounting math. Wa Shi swiftly grasped his calculations on how to determine fraud, and nodded sagely, before launching into an explanation of a bookkeeping method Lord Jin had mentioned—something about double entries?
+
+He listened intently. This… this was all very interesting.
+
+And it took his mind off the trip, the two terrifying women in the carriage with him, and the fact that in a few days, he was going to meet more cultivators.
+
+===============================
+
+Running to the Ironfields, while shorter in distance than going to Pale Moon Lake City, would have been a far more difficult journey if we hadn’t been cultivators.
+
+Unlike the northern road, which was at least passably maintained, all the roads leading in this direction were near derelict, full of potholes, and in some cases merely a dirt path. Not many people came out this way, it seemed.
+
+Still, it was a nice enough journey. Zhuye and Meimei looked to be enjoying it at least. They spent most of their time on top of the carriage, watching the world flash past us along with the Lord Magistrate and Lady Wu. Zhuye also appreciated Big D’s gift, though he always seemed a bit confused when the rooster himself didn’t materialize.
+
+Occasionally Suyan would open a door and leap onto the roof to serve tea and cakes that she had cooked with a fire crystal, and we would just sit around, talking or singing.
+
+The auditor, Yanjing, was actually a pretty chill guy too. Had a bit of a dry sense of humour, and he was willing to answer my questions about how the capital worked. Teacher was good, but it had been decades since he had last been in Pale Moon Lake City, and Yanjing had an updated view of things.
+
+Xue Ji also answered questions about governance and working in a provincial capital, and when I asked why she had volunteered to help Teacher, her response was simple.
+
+“Oh, I enjoy it. The numbers, the moving parts—where the theoretical resolves into a practical plan of action combining resources from across the province, or across the Empire, to accomplish a goal? It’s quite something!” she said, her smile bright… and her tail wagging.
+
+Which was fair enough. There were worse hobbies to have.
+
+I switched off with Babe once or twice, but it was only when I was sure nobody would notice; Master Jin, unfortunately, had an image to maintain. But mostly, it was all Babe. He wanted to perfect his air-cutting technique and didn’t mind putting in the hours, racing tirelessly onwards.
+
+Meimei once smelled a Qi source while we were camping—sharp like a sword, but oddly dull to her senses. It was heading toward us.
+
+Suyan and Xue Ji both stood up, blades dropping into their hands… but I waved them off.
+
+“I’ll take care of it,” I said. Last time I had met a Spirit Beast from the Azure Hills, it had literally pooped itself and ran.
+
+Maybe I could have a better interaction this time?
+
+I went to investigate and found a Reaper Wolf. The Spirit Beast snarled at me in shock when he noticed me, clearly surprised that I had snuck up on him. His claws bit into the earth, and he flared his Qi at me.
+
+This one certainly looked a lot better than the Wicked Blade had. His fur was smoother and shinier, but there were still two hairless patches shaped like crescent moons on his shoulders that exposed rippling muscle. He had a row of extra claws that formed from his knuckles, shaped like sickles. He would be about as tall as me if he stood on its hind legs, but other than that he looked pretty much like a normal wolf.
+
+Second Stage of the Initiate’s Realm.
+
+A bit of gold welled up in my soul. The wolf froze, its heart thundering in its chest so loud I could hear it. Then his eyes widened and it rolled over, exposing his belly and throat to me in submission.
+
+‘Forgive, Great Lord, forgive!’ he whimpered, his voice broken, disjointed, and animalistic. ‘Begs, begs, make death swift!’
+
+I sighed and crouched down, making myself smaller. “I’m not going to kill you. I just want to let you know that we’re eating over there. If you want some food, I don’t mind sharing some.”
+
+The Reaper Wolf paused. A look of pure bafflement came over hiss features.
+
+‘No kill?’ he asked.
+
+“Nope. No kill. No eat. Not prey,” I affirmed. He stared at me for a moment longer before hesitantly rising to his feet, keeping his head low and his ears pinned back. I looked at him for a moment. He probably couldn’t be convinced to come for a chat. He looked like he was going to bolt or pass out. So I pulled out one of the skewers I had brought along. Meat we had hunted, and veggies from home.
+
+‘Great Lord gives?’ he asked, still confused.
+
+“Yeah. They're tasty,” I replied. Hesitantly, the Reaper Wolf took the skewer and pulled off some of the meat and veggies. He gasped, swallowed, and immediately went in for a second bite.
+
+‘Benevolent Great Lord! Gives Qi to lesser!’ the Reaper Wolf declared, his tail starting to wag. I chuckled. He still looked terrified of me, but was a bit calmer now.
+
+Probably shouldn't push my luck.
+
+“You can go if you want. Just don't hunt any humans, okay?” I told him and turned, starting to walk back to camp.
+
+“No hunt humans? Understand! Benevolent Great Lord commands, obey!’ he said... and then turned to leave.
+
+…at least he didn’t poop himself, so progress, I guess?
+
+======================
+
+Soon we approached the Ironfields. On the map, it was actually rather small, an almost unassuming thing. I had read some depictions, and listened to Delun talking about it, but the descriptions didn’t do it justice.
+
+The rolling green hills and pine trees started to change—and I felt it. Mei and I both did, and even Zhuye started looking around like something was just ever so slightly amiss.
+
+The transition was striking. The lush green grass thinned out, and started to grow in scraggly, bushy clumps. Instead of a uniform verdant carpet, the clumps of grass took on yellow or brown hues. The trees went from tall and proud to stunted things. They were gnarled and twisted, clawing for every inch of growth.
+
+The soil here was obviously poor— there were entire bare patches of dusty soil.
+
+And then we saw the first rust spire.
+
+An ancient karst, transmuted into metal by the cataclysm that had broken Tianlan. The name “The Ironfields” was astoundingly accurate, because the hulking mass was coated with a dusty orange powder, the entire edifice crumbling from exposure to the wind and rain.
+
+We slowed and I jumped off the carriage, my hand touching the ground. Copper contamination, iron contamination, elevated lead levels.
+
+This area of the Azure Hills had probably been affected the worst by what had happened when Xiaoshi had broken Tianlan.
+
+Choking green had eaten the riverlands. A flood had spawned from the Pale Moon mine, sweeping everything away. Fires had burned down a forest that had touched the clouds, and earth had sealed shut every magma vent—but life could adapt more easily to that.
+
+That was a brief instant of destruction.
+
+This was a poisoning and sundering of the land. Earth to metal. Every single rock had been turned, and these had been home to towering karsts, offshoots of the Howling Fang Mountains, as well as the largest marble mines in the province.
+
+Yet in spite of everything, life found a way.
+
+The great rusting spire had trees stubbornly growing out of it, their roots grasped tight around iron and buried in rust. Squirrels scampered along their lengths, collecting nuts and seeds, chattering up a storm. Birds flitted in between the cracks and crevices of the spire—little raptors that were hunting insects and rodents, hanging the corpses on spikes of metal so they could eat them later. They squawked and squabbled with each other, flashing stunningly patterned feathers at one another. A riot of brilliant blues, purples, greens, and deep reds flickered on the decaying karst.
+
+A herd of fleet-footed deer leapt across the ground in the distance, their antlers just slightly too shiny to be completely made of bone.
+
+I knelt down and pushed away the thin layer of soil, and then through a thin layer of rust; little tendrils of mycelium came away, happily decomposing the metal.
+
+I took a deep breath in and out, and felt the land.
+
+It was not crying out in pain. It was not ruined. It had been changed, irrevocably, but it was still here.
+
+I felt a block in the way. It was a relatively small one. I pushed through it, and let the trickle of gold connect again.
+
+My own connection deepened. I felt the thrum of resonance between plates of metal. I felt all the life roaring all around me.
+
+Around us.
+
+I felt Tianlan shudder as the sensations flowed into her. We could feel the cracks and breaks in the dragon veins; I could feel the leaks, slowly oozing out her Qi, but honestly?
+
+“...it's not as bad as I thought,” she murmured to me.
+
+The Ironfields were solid; they were metal, and that seemed to have contained most of the blowouts.
+
+I rose and opened my eyes, looking over the landscape. At first glance it was pretty desolate… but there was a stark beauty to it.
+
+“I never knew a place like this could exist,” Meimei murmured from beside me, looking up at the spire in wonder.
+
+Zhuye squinted at the karst—no, the birds on the karst, singing and squawking. He pointed and asked in a confused voice:
+
+“Jī?”
+
+“Kind of, little man,” I said, ruffling his hair. “Want to see one up close?”
+
+I went and caught a bird for my son. Well, caught is really too strong a word. I took out some jerky, lifted it up, and pointed at one of the birds. Which promptly flew over, landed on my hand, and started digging in.
+
+The entire carriage came out to take a look, marvelling at the colours and just how fierce the little beast looked.
+
+Zhuye in particular studied it intently, and then with great solemnity declared: “Jī!”
+
+Such an honour, to be named a chicken.
+
+================================
+
+We continued onwards, deeper into the Ironfields. All around us, great pillars stabbed into the sky, and not all of them were iron. Some of the smaller ones were the green patina of copper, and one, toppled onto its side and mostly buried by a sand dune of rust and soil, was aluminum.
+
+I made a note of that one; I would have to see if anybody could mine that—because mining was definitely a thing.
+
+We saw evidence of it as we continued—massive chunks ripped from the rust and the ground. Some karsts were missing completely, leaving only great mounds of rust and patina.
+
+There were a couple of villages that we passed by, but humans were few and far between in this place. I understood. Though there was a bounty of metal, this was clearly a hard place to live. Delun had warned us that enough of the water was outright poisonous to regular humans—and thankfully I could tell what was what.
+
+We didn’t stop, instead forging onwards until we saw a tower in the distance, and the banner hanging from it.
+
+A hammer with the symbol of longevity inside it.
+
+We had arrived at our first destination.

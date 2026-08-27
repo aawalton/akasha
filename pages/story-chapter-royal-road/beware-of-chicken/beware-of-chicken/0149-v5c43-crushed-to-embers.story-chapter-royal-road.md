@@ -1,0 +1,431 @@
+---
+id: 4b34461f-4250-5fca-8e60-429227e1888a
+page-type-slug: story-chapter-royal-road
+title: "v5c43: Crushed to Embers"
+slug: 0149-v5c43-crushed-to-embers
+partOf: beware-of-chicken
+position: 149
+ownLength: 4282
+unit: words
+ownProgress: 4282
+publishedAt: 2024-09-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1811180/v5c43-crushed-to-embers"
+royalRoadId: "1811180"
+markedReadAt: "2026-06-29T18:56:24.081Z"
+---
+
+Once upon a time, a great and powerful Demon captured an Old Soldier. He had been the demon’s greatest nemesis for an age, defying it with every breath he took. Now, injured and aged, he could not resist as the Demon pounced upon him.
+
+===================
+
+The entire mountain rumbled and shook. Dirt and rocks fell from the ceiling in a constant stream. Qin Peng, Formation Lead for the Northern Base, tried to keep his calm as another ripping explosion made the command room shudder. It only added to the scene of controlled chaos—the room was full of moving bodies, the last of the command staff collecting the final reports for retrieval or for destruction.
+
+As much as Peng wished to be on those evacuation transports, he had a duty to Heavenly Demon Yulong.
+
+“Report on the evacuation!”
+
+“All essential personnel have been moved,” his assistant replied immediately, “but we need two more runs to get the rest of the staff!”
+
+Better than he had hoped. It looked like all the drills Heavenly Demon Yulong had insisted on were showing its worth.
+
+“Fine work. The crystals?”
+
+“Set in the walls and ready to blow, Formation Lead!”
+
+“Let us pray it does not come to that,” Peng said, his voice grim. “Last call, everybody! We’re pulling out!”
+
+“Yes sir!” came their responses.
+
+Peng examined the formation one last time, about to set it to scramble and then purge the artifacts in the command room when he was interrupted.
+
+“Formation Lead! Team Night Spider has a report!”
+
+“Night Spider?” Peng asked, baffled. ”I told them to evacuate! They should already have left! They’re too valuable to lose!” They had always been damn mavericks, but this was beyond the pale!
+
+“They say they couldn’t leave while the Heavenly Demon was here, Formation Lead!”
+
+Peng grimaced. “Fine, tell me what they’re reporting!”
+
+“Night Spider reports they have a viable workaround to get the defensive formation back to working order.”
+
+“They repaired something damaged by an Imperial Realm Cultivator?!”
+
+“Less… repaired and more a stopgap, sir. Night Spider Lead sacrificed an arm and an eye. It's acting as a direct conduit to the formation’s crystals.”
+
+Peng grimaced. Of course she did, crazy woman. A direct conduit to the crystals powering the formation, bypassing the damaged sections; it was something he hadn’t considered because he was more useful with all his body parts, as was Night Spider Lead. It was also dangerous and power-hungry. They’d get one shot, but if that one shot aided the Heavenly Demon…
+
+“...what do they need?” Peng asked.
+
+“They need you to manually set target priority and initiate the surge on their mark.”
+
+“We’re setting target to the prison. I want it locked down by the time Heavenly Demon Yulong finishes with the enemy that is delaying him.”
+
+“Yes, Formation Lead!”
+
+“Team Night Spider—if you survive this you’re going to be rewarded greatly. Glory to the Heavenly Demon.” Peng set the artifact aside and licked his lips. “I am ready on Team Night Spider’s mark!”
+
+The mountain rumbled again, more dirt falling from the ceilings. The sounds of combat reverberated through the halls. Explosions, roars, and…
+
+Peng paused. A rooster’s crow?
+
+=============================
+
+The Demon sought to break the soldier. It sought to crush his iron will. To visit despair upon the one who had defied it.
+
+===============================
+
+The hall was filled with Qi and light. Any below the middle of the Profound Realm would have seen only blurs: a tall, dark form with a spear that struck like it was trying to split the seas; a smaller, lithe individual whose blade would cleave the tops off of mountains; and a blur of silver and gold.
+
+It was a true battle between cultivators. The kind that would be told in stories and songs, save for one thing—it was a battle against a chicken.
+
+Heavenly Demon Yulong’s strongest subordinates were equal in level to a farm animal. Beidou and Zhigong, who had been serving their Master since the start of his journey.
+
+They had fought the horrors of the Doomed Canyon for the sake of her people whom the Empire had abandoned. They had faced down the Lord of the Pass so refugees of Zhigong’s tribe could find a new homeland, away from the corruption and persecution of the Empire. They had cut their way through the nobles of Bold Gate City, rescuing the enslaved formation specialists and putting the hypocrites to death.
+
+A hundred, a thousand battles they had fought by his side; and when he joined the Heavenly Demonic Master, they had followed. They owed him their lives—not just because he had saved them, but because he was the true heir to the Empire. He was their Prince, their Son of Heaven, and they would see him on his throne no matter what it took. Things had only gotten harder after that; slaying other mad Demonic Sects, assassinating Imperial Officials, hunting down ever more powerful Spirit Beasts, and finally, taking out an entire Fulmination Assault Squadron and its Elder leader at the Howling Fang Mountains Base.
+
+And yet, a chicken was their match. Crashing waves and mountain-splitting strikes crashed against the smaller form. The rooster burned silver and gold; his body whirled into the Taijitu, cycling endlessly and unknowably before striking with sublime technique, the equal of any powerful cultivator.
+
+They exchanged a hundred strikes in an instant, each blow meant to kill. Against any other in the Spiritual Realm, it would have been an impossible task to stay alive under the onslaught.
+
+Yet still, the Spirit Beast remained. He acted as if turning aside the blows was effortless, even as his limbs shook, as each moment brought him closer and closer to exhaustion and death. His eyes were clear and pure, his mission righteous, and his goal?
+
+To keep the both of them occupied for as long as possible so they could not join the assault on the prison.
+
+His attention was wholly on the battle in front of him—so he felt great trepidation when suddenly the base’s lighting, already intermittent, dimmed. The walls shuddered. His foes paused, looking up at the ceiling.
+
+A low, dull whine rose in the air.
+
+====================
+
+It devised a hundred thousand torments. It enacted a hundred thousand cruelties, yet the old man stood unmoved, even with the devastation visited upon his body.
+
+==========================
+
+Yun Ren’s world had compressed to his ragged breathing and the movement of his sword. He bled from a hundred little cuts, and the room spun slightly from the Demonic Qi that circulated around his body.
+
+But he still stood, still swinging. Lightning erupted from behind them. Han had actually managed to wake up a couple of the Shrouded Mountain Sect Disciples—and though they were all in what had to be excruciating pain, each and every one that had awakened had made their way to the front, blasting rather anemic bolts of lighting, hurling Qi infused stones, or simply forming one last barrier of flesh between Elder Shenhe and their still-unconscious comrades, their hands gripped tight around scavenged spears and swords.
+
+They had nearly been pushed back to the last line of defense. All of them were bleeding. All of them were nearing the end of their ropes, and still the Artificial Demons kept coming.
+
+All of a sudden, they stopped.
+
+Yun Ren went for a thrust, only for his slavering opponent to suddenly jerk and retreat, throwing itself backward, and racing for the door with the rest of its comrades.
+
+“Wha—?” Fenxian asked. He could barely see with all the blood in his eyes from the cut on his head. Yushang looked similarly confused, one arm hanging limply. Shao Heng was beside her immediately, binding her arm while ignoring the chitin-covered appendage still stabbed into his own shoulder.
+
+“This—this is not good—” Yun Ren began, the hairs on the back of his neck standing up. He glanced to Spooks, the Thunderhoof’s eyes similarly worried.
+
+The mountain started rumbling. Characters built into the wall of the prison suddenly began to glow with a baleful inner light. The Qi around them surged.
+
+Spooks reached up with his hoof and shattered the talisman around his neck.
+
+He did it not a moment too soon. The world rumbled and screamed as massive blades of blue light plunged down towards all of them, overwhelming all of Yun Ren's senses with their pressure and intent, and were only stopped as Spooks exploded with power. The Thunderhoof bellowed, a protective aurora forming around them all and clashing with the burning characters.
+
+A crown of ice formed around his antlers, a storm grew out of his back, and a ghostly image of something far, far grander that Spooks took to the field. It roared like an oncoming storm, protecting all of them with green, shimmering power that, for a brief instant, made Yun Ren feel safe.
+
+It threw the tide of blazing swords backward, shattering every formation on the walls around them and throwing them all to the ground as the mountain heaved.
+
+The ghostly form of Master Forest Sweeper turned his eyes to the ceiling, and with another burst of might, his Qi plunged into the walls. He reinforced them against the rumbling backlash, stabilizing them. Pillars of ice erupted from the floor, further reinforcing the prison complex. Finally, an icy shell formed over the entrance, one final shield against the demons outside.
+
+Spooks wobbled and collapsed to his knees, panting. The mantle of the storm faded.
+
+The booming roar of falling rocks filled Yun Ren’s ears.
+
+========================
+
+With his torments upon the old soldier ineffective, the Demon turned elsewhere. The Demon slew cultivators and destroyed cities. It crushed the great works the old man’s descendants had built and forced the old soldier to watch.
+
+========================
+
+Bi De’s eyes widened as a massive shockwave suddenly ripped through the base and the ceiling began to collapse.
+
+He and his foes disengaged, throwing themselves in opposite directions. Bi De paid them no more mind as he raced through the halls, trying to stay in front of the falling rocks.
+
+Yet it was not to be. A boulder slammed down in front of him, blocking his escape route. He simply rammed through it, shattering the obstacle, but the passage ahead was already littered with boulders, his path entirely blocked.
+
+A silver shield formed around him—and the rocks fell, covering its face.
+
+================================
+
+The Demon savaged an entire province; he glutted himself on souls, consuming all who stood against him.
+
+=================================
+
+The Unconquered Blade’s foe sought to use distance, to be beyond the reach of his lessers—The Unconquered Blade cut the distance between them, for there was no foe beyond the reach of his will.
+
+His foe thought that crushing weight and curling space would mar his sword, but a weapon made of conviction is unbreakable.
+
+The Darkness had been hungry, consuming everything in its path.
+
+So the Unconquered Blade fed it steel.
+
+A field of dark stars lay in ruins. Some were cleaved in two, others had been rendered into a thousand separate pieces. The once blank canvas of night bore burning scars of light, and it was unraveling at the seams.
+
+Shen Yu stood before Jingsheng. His foe was lying within his final dark star, his chest opened and his organs exposed to the air.
+
+“Magnificent. Truly, you are the Unconquered Blade. I salute your might,” Jingsehng chuckled, his voice wheezing. It was a sound like a death rattle as blood poured from the Demonic Master’s mouth and his wounds.
+
+Yet, Shen Yu was not completely unharmed either. His breathing was heavy. His face was a mask of serenity, yet within his Qi was in turmoil, strained too much by the battle. The Demonic Qi that lingered from his previous battle was making its presence known, threatening to breach his containment. Some of his foe’s Qi had also been added to the tally, little pockets of foulness in his system that he would need to purge.
+
+“You are a dangerous man,” Shen Yu acknowledged. “I shall dedicate two centuries to rooting out each and every one of your hidden cells—I shall scour the Empire to make sure none of your taint lingers.”
+
+“Ah, to have such dedication from you, I’m honoured,” Jingsheng chuckled. “Ahhh… all these domains. All these grand techniques. In truth, I've never much cared for them. I prefer a more refined skillset, a more subtle one.”
+
+“One punch, practised a hundred thousand times, is more valuable than a hundred thousand blows practised once,” Shen Yu said, and Jingsheng smiled through his gummy lips.
+
+“Ah, such a shame we cannot be friends and comrades. You get it,” Jingsehng sighed in contentment.
+
+This battle had been entirely too close. He needed to get out and support his Disciple—especially because he could feel the rumbling of collapsing tunnels outside his Domain. Shen Yu’s attention wavered from his foe for a moment.
+
+[Internal Impurity Tremor]
+
+Shen Yu’s heart spasmed in his chest.
+
+“But I will say this about those big, flashy moves,” Jingsheng smiled a gummy smile as he brought two fingers up before his face. “They strained you and depleted your Qi.”
+
+Shen Yu’s eyes widened. He tried to burn out the subtle, insidious Qi Jingsheng had pushed into him; at the same time, his blade leapt toward Jingsheng’s throat.
+
+Black blades burst from Shen Yu’s flesh. They were massive things, spears and lances that ripped through Shen Yu’s body. Blood poured from his mouth, Demonic Qi rampaging through his organs. Hairline fractures formed all over his body as the Qi did its best to tear apart Shen Yu.
+
+Jingsheng caught Shen Yu before he could fall to his knees, the other man’s blank eyes staring into Shen Yu’s own.
+
+“Ah… bad luck, to get distracted at the last moment,” Jingsheng murmured.
+
+The fingers tightened around Shen Yu’s throat, and his smile widened.
+
+The darkness closed around the sword of light, its glow fading.
+
+=========================================
+
+The Demon loomed over the old man, its face twisted into a grin.
+
+“This is how the stars burn out,” the Demon declared.
+
+=======================================
+
+There were two sets of Qi circulating within their main target. One set was his own, and the other was a full set of Medicinal Qi. It was powerful. It was hidden.
+
+The man was focused on Rong. The Spirit’s titanic blows had forced the man back, forcing him to block. They took his attention and allowed Chixia to figure out what was stymying her.
+
+It gave her time.
+
+“I’ve got you now,” Chixia snarled, her own Qi pressing up against her foe’s. A piece of Chixia’s own vital Qi fueled the attack—a sacrifice that made her guts burn.
+
+[Poison Butterfly Arts: Hell Wing Purge]
+
+The man she was fighting screamed with pain, his body spasming—and the Qi on the other end of the connection spasmed as well.
+
+The Spirit’s fist rose and then fell, smashing him into a hill.
+
+=====================
+
+This is how the darkness wins.
+
+========================
+
+Meiling barely managed to move Zhuye out of the way before she slumped over and vomited blood. Her soul was screaming. It hurt. It hurt. It hurt more than she had ever been hurt before. It was a blinding, horrific pain. Tears poured from her eyes, foreign Qi ripping into her soul like a white-hot poker. Her ears were ringing. She couldn’t hear Miantiao’s worried shouting. Her ears were bleeding. Her eyes were bleeding.
+
+Her forehead touched the floor.
+
+==========================
+
+This is how all your little flames are extinguished.
+
+=============================
+
+Erlang’s prey let out a groan as the titanic Spirit Beast slumped, Mistress Chixia’s poison finally laying it low.
+
+It had been a difficult hunt. They had managed to wear the tougher prey down, their Mistress’s poison ravaging the giant creature. Its size had been a detriment, and its companion was too weak to stop them.
+
+They had lost half their number, even with his Mistress’s support. They would have to feed this beast’s flesh to the new recruits to regain some of their power—after they dealt with the weaker one. But the other Spirit Beast had stopped attacking; now it was only staring at the slumped one, its eyes blank.
+
+The pig opened its mouth and screamed.
+
+Five more mouths opened along its flanks, and those screamed too.
+
+“What the Hells is that?!” one of Erlang’s subordinates shouted before one of the mouths snapped shut. The man disappeared with a wet-sounding crunch. The rest of the mouths bit down, each bite carving a scoop of the world out indiscriminately.
+
+The small pink pig shifted and grew as the darkness consumed it. Its mouths opened, as the Beast of the Void keened a dirge of anger and hate.
+
+=========================
+
+This is how the Longest Night casts even the sun into embers.
+
+===================================
+
+Gou Ren glared at the slavering beast that had driven him against the wall of the fortress. He could barely breathe, crushed against the fortress.
+
+“Kowtow, grovel, destroy your cultivation, and kill yourselves! Your sins are unforgivable!” Xianghua’s booming roar made his heart leap to his throat. Everything was going to be alright.
+
+Gou Ren snarled and redoubled his efforts, throwing the demon off of him and crushing its skull. He headbutted the next one and threw the third off the parapet and back into the teeming horde. Beside him, Delun’s hammer rose and fell, each strike splattering demons. He had some on his shoulders, trying to drag him down. One missing half of its body was holding onto Delun’s legs. But still, he swung his hammer, crushing all before him. Bei Be was covered in cuts and surrounded by sliced corpses, while Huo Ten, the Torrent Rider, and Shaggy Two had retreated further into the fortress, going to protect Zhuye and the others.
+
+Gou Ren smashed another demon and searched desperately for where Xianghua’s voice had come from.
+
+There she was, stalking out from the mist. Everything before her died. Every demon could barely look at her, her sword flashing through the air and butchering the things attacking their home.
+
+She was stunning. She was beautiful, even as the blood splattered through the air, never touching her. She cleaved a demon leaping at her in two, and her eyes met his.
+
+The man appeared out of the demon’s blood as its halves sailed past Xianghua.
+
+Gou Ren screamed a warning. Xianghua tensed, starting to turn, but reacted too slowly. The blade punched into Xianghua’s back and out through her chest.
+
+Gou Ren roared with anger and made to leap off the walls, but another demon rammed into him, smashing him off balance. Another man with the same red blade appeared behind the demon, and its sword traced a burning line over Gou Ren’s chest, eating at the Qi covering his skin. Delun shouted with shock. The Torrent Rider and Huo Ten screamed warning from inside the fortress.
+
+“Xianghua!” Gou Ren smashed the demon’s skull that was holding him down, trying to rise, but more and more demons pounced upon him, driving him to the ground and slashing at whatever they could reach, burying him under a tide of darkness.
+
+====================
+
+The people wept as all that was theirs was undone. The Demon laughed at their suffering at the weaklings that were as ants before it.
+
+=========================
+
+She was back in the Valley again.
+
+Xiulan felt it in the air.
+
+The smell of blood mixed with the screams of pain and the shouts of desperation.
+
+A blast of fire forced her back. Both of their foes turned to Tigu and pounced upon her.
+
+Tigu’s defense was magnificent. She took two foes that eclipsed her cultivation head-on and fought well. Her claws slashed through skin and made their enemies' weapons shriek.
+
+Yet the flames burned, and the shadows bubbled. The Jade Grass Blades leaped to intercept.
+
+Blood erupted from Tigu’s chest, and she fell to her knees.
+
+Xiulan’s heart hammered like a drum.
+
+======================
+
+All that was left was the funeral pyres and the barest of cooking fires, little specks of light soon to be swallowed.
+
+“What can these little embers do against the howling dark?” the monster snickered, secure in its victory.
+
+========================
+
+A fox whimpered with pain, spears of starlight pinning him to the wall.
+
+A dragon slammed into the ground, snapping trees into kindling with his uncontrolled crash.
+
+Cultivators, trapped in a prison, watched and waited as demonic hands clawed at their protective shell of ice, ripping it apart piece by piece.
+
+A demon lifted a silver-haired woman by her throat, her blazing armor nowhere to be seen.
+
+A young man, a dog, and a monkey stabbed frantically at the man in their midst, his red blade gleaming with malevolence.
+
+A snake and a bee launched themselves at the creature that burst into their sanctuary.
+
+The creature's eyes locked onto the woman on the ground and the babe crying in the corner, and raised its arm.
+
+========================
+
+The old soldier looked upon the Demon’s works yet he felt no fear nor despair.
+
+The soldier smiled.
+
+=========================
+
+"Hear me, hear me! This one is Hong Xian! In accordance with the ancient pact, I do depart to perform the Rite of Fire. Who will aid me in casting out this night and assisting in the awakening?" a boy asked, one only in his eleventh year.
+
+"Yes, Hong Xian. This Liu Bowu will aid you in casting out the Long Night!"
+
+"Yes, Hong Xian. This Ty An will aid you in casting out the Long Night!"
+
+"Yes, Hong Xian. This Zhao Liu will aid you in casting out the Long Night!"
+
+The children’s voices rose, brave and strong, into the night sky, along with the thunderous rumble of the village’s drum.
+
+Dan, Dan, da-Dan.
+
+===========================
+
+A great laugh erupted from his mouth, and The Demon recoiled at the sound.
+
+The Soldier knew the truth of this world.
+
+==============================
+
+Dan, Dan, da-Dan!
+
+In Hong Yaowu, the mood was one of terror and hopelessness. The earth quaked, the sky burned, and the children cried.
+
+Hong Xian jumped at the sudden thunder of drums and the shrill scream of the Steam Furnace as they echoed through the village. He was not the only one. Everyone huddling in the house practically fled their skin at the noise.
+
+Dan, Dan, da-Dan!
+
+Xian raced from his home to where the drums began pounding with increasing ferocity, the ancient, primal beat hammering into his soul. He dashed to the field, then froze as the Azure Express puffed and heaved, familiar figures upon its back.
+
+Dan, Dan, da-Dan!
+
+Bowu pounded the drum, beating it with all his might, the sound resonating through the village. His shirt was around his waist, sweat dripping from his form, the pyres around him burning bright. Ty An was with Little Liu, the two women heaving charcoal into the Steam Furnace’s hungry mouth. The steam locomotive huffed and puffed, traveling around the little track set up for it—a track that was a perfect circle.
+
+Yet it was the last member of this group that caught Xian’s eye. A boy wearing the mask of the sun.
+
+His footing was precarious. Shockwaves reached the village, frightful noises that echoed through the forest—yet Hong Xian the Younger’s feet missed not a step.
+
+Dan, Dan, da-Dan!
+
+He danced. He danced as they had sworn to since the Hong family had existed. He danced, fulfilling an oath that his father was about to forsake.
+
+Hong Xian the Elder stared at his son. The Azure Express roared, spitting out a gout of Qi-charged smoke when it completed its first circuit.
+
+Its first cycle.
+
+Dan, Dan, da-Dan!
+
+The Azure Express traveled around the field like the sun soared through the sky.
+
+“Elder Xian… what do we do?” one of the villagers asked, fear still in his voice.
+
+Dan, Dan, da-Dan!
+
+“What we always do,” the Chief of Hong Yaowu declared. “Light the pyres! The night is dark and full of terror—but the sun will rise again!”
+
+His roar boomed over the village. Hong Xian raised his own staff and stepped within the tracks.
+
+Fire danced around all who did, jumping in time to the beat of Bowu’s drums.
+
+A key piece slotted into place.
+
+From Hong Yaowu, the first pulse resonated.
+
+DAN, DAN, DA-DAN!
+
+===========================
+
+“What can those Embers do, you ask?” the Old Soldier asked, his eyes fixed upon the future.
+
+He knew in his heart what was coming. He knew what those little sparks would do. His eyes were filled with the blazing inferno the Demon was too blind to see.
+
+=========================
+
+Dan, Dan, da-Dan!
+
+Xiulan gasped. She heard the thunder in her soul. She saw the fire around her foe start to dance, the motes drifting of their own accord… and her eyes widened. The golden crack in her chest began to glow.
+
+Dan, Dan, da-Dan!
+
+She felt the little fire, from an insignificant village spark and leap within her soul. A dance her ancestor created burned in her mind.
+
+[Purgatory Blaze]
+
+[Shadow Reaper]
+
+Fire and shadow combined from her foes, a ravening inferno that would consume all in its path. Yet to Xiulan it was silent, the only sound she could hear was the pounding of an ancient drum.
+
+Dan, Dan, da-Dan!
+
+============
+
+The Old Soldier gazed back at the Demon, directly into its eyes, and answered. The Demon withered under the old man’s gaze, his eyes pure and unclouded even after everything the Demon had done to him. His grin stretched wide, and the Demon felt terror.
+
+What could those embers do?
+
+“Enough.”
+
+=================
+
+Cai Xiulan stepped onto the path and let the inferno consume her completely.
+
+A blazing torch contacted her cultivation. It contacted her soul... and ignited.

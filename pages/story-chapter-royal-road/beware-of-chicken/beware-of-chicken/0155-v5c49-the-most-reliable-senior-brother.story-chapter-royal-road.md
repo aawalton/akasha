@@ -1,0 +1,171 @@
+---
+id: 423d98a9-4709-5386-bc82-f852c9d6644c
+page-type-slug: story-chapter-royal-road
+title: "v5c49: The Most Reliable Senior Brother"
+slug: 0155-v5c49-the-most-reliable-senior-brother
+partOf: beware-of-chicken
+position: 155
+ownLength: 1726
+unit: words
+ownProgress: 1726
+publishedAt: 2024-10-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1836770/v5c49-the-most-reliable-senior-brother"
+royalRoadId: "1836770"
+markedReadAt: "2026-06-29T18:56:36.683Z"
+---
+
+Several hours ago:
+
+Lu Ri let out a breath as the last demon fell and silence once more returned to the world. His Qi reserves had been depleted much less than anticipated thanks to Miss Yuanlin’s assistance. The protections around First Den were indeed formidable; Lu Ri could have destroyed ten times this number without strain.
+
+The cold winter wind blew over the dark land, the sky heavy with clouds and devoid of stars.
+
+“Looks like that's all of them,” Miss Yuanlin declared, landing on the ground beside him. Her blades were slick with demonic blood. She had proven again to be a reliable comrade.
+
+“The diviner’s vision was surprisingly clear,” Lu Ri replied. “The level of this enemy was not a threat, per her description of their forms.” Their number was mildly concerning, but an elephant did not notice the difference between one ant and a hundred when it stepped on them.
+
+Still, there was obviously something—or someone—controlling all these demons. Their intelligence was low, far too low for what demons were normally capable of.
+
+A mystery for now.
+
+“What's the plan?” Miss Yuanlin asked.
+
+“We conduct reconnaissance. Miss Yuanlin, if I could ask you to take the lead on this matter? We must divine our enemy’s presence. I shall complete my duties here and dispose of these corpses,” Lu Ri answered, tapping his storage ring. A stack of talismans and sealwork popped out. “The Honoured Founders were very clear on procedure following a demonic attack.”
+
+The fox woman paused and seemed confused. “Is cleaning up truly that urgent?” She asked.
+
+“With this level of demon, no, not especially, but it is still best practise. Nobody wants another Demon’s Grave Ravine, and leaving these to fester outside this holy site is unconscionable.”
+
+Miss Yuanlin smiled at him and nodded. With a blur of speed she was gone, her body disappearing into wisps of smoke.
+
+Thus began some small tedium, but like all things worth doing, it was worth doing well. The corpses were collected, carefully purged, rendered into their component parts, and stored.
+
+Upon further study, Lu Ri discovered they were not true demons, but mutated humans. Artificial Demons.
+
+The Honoured Founders of the Cloudy Sword Sect had never actually encountered these beings; the first reference to these foul creations having been long past those august scholars’ time.
+
+However, through careful study of their work, later masters inferred what their thoughts might have been on this matter. These speculations were recorded in appendices recommended to all who sought to deepen their understanding of the Great Enemy, so as to more effectively fight them.
+
+In most appendices, experts often disagreed on what the Founders' perspectives would be, but when it came to demons, there was no dissent: all artificial demons deployed in combat were to be eliminated, and the process of their creation studied, with hopes of reversing it. After all, demonic cultivators rarely used willing subjects for disposable troops like these.
+
+Utterly barbaric. Turning one's own people into mindless shock troops was the act of those without honor.
+
+Lu Ri felt a kind of contempt rising in his soul for the savages that had violated these people so.
+
+Lu Ri gave them what funerary rites he could, as outlined in Acceptable Procedures for Fallen Unwilling Enemy Combatants.
+
+After that, he attempted to use his transmission stone to contact both Jin and Hong Yaowu.
+
+There was no response from either location.
+
+===========================
+
+It took roughly an hour and a half for Miss Yuanlin to return.
+
+"There are no other enemy troops that I could find, but these are definitely part of a larger force. I found a point where multiple tracks converge—some kind of hidden base. They tried to conceal it, but the tracks vanishing so abruptly is as suspicious as the tracks themselves. Two sets of tracks passed there around the same time. One came from the northeast, one departed southeast. The last set comes this way."
+
+Lu Ri considered Miss Yuanlin’s words. The tracks departing southeast meant that they were heading away from Jin’s home and Hong Yaowu.
+
+There was a choice here. Remain defensive… or try to regain the initiative.
+
+Miss Yuanlan, by her own words, was rather an expert on breaking into secure areas.
+
+The mist gently enclosed First Den as its protectors departed; it would keep them safe until they returned.
+
+They made great haste, flying through the snow with Miss Yuanlin in the lead, the woman occasionally sniffing the air. They swiftly reached the point where the tracks disappeared—and began their search for the hidden base.
+
+It was surprisingly easy to find. Oh, it was extremely well-hidden. In the summer time it would have been completely impossible to find, so well did it blend into its surroundings.
+
+But as Miss Yuanlin had said, the absence of something could be just as conspicuous. The tracks had been removed, but with how recently the demons had departed their base, the snow was too smooth. The rest of the snow looked fluffy from the continuous fall, but this part was much straighter and flatter, practically a path directly to the enemy’s doorstep.
+
+There were no words exchanged between himself and Miss Yuanlin. They simply nodded.
+
+Lu Ri cut the door off its mounting, and then both of them were in.
+
+========================
+
+There were but two surprised looking guards that had quickly been captured. Their cultivation peaked at the Profound Realm. Both of whom were hauled out into the snow after being swiftly stripped of anything that could be used to call for help.
+
+This base was rather small and in serious disrepair. An outpost, a place to stop at, but nothing that would support the amount of Artificial Demons that had attacked First Den.
+
+Interrogation proved fruitless. Even with the weight of Lu Ri’s Qi pressing down upon them, they refused to budge, their eyes gleaming with the zeal of true fanatics.
+
+However, they did let loose one piece of actionable intelligence.
+
+“When the Heavenly Demons return from the Azure Hills, they’re going to kill you all!” one of the men said, even though urine had pooled around him in the snow. He was snarling with defiance.
+
+The words made Lu Ri’s heart start pounding in sudden anxiousness. The demonic cultivators were disposed of, and Lu Ri began to sprint back to Hong Yaowu, his transmission stone constantly trying to reach somebody, anybody.
+
+=======================
+
+His haste, by unfortunate necessity, left Miss Yuanlin behind.
+
+They were at the edge of the Sea of Snow. Two hours passed; Lu Ri gave it his all. The land was but a blur below him
+
+On the third hour, the dawn broke.
+
+Lu Ri was just getting close when finally somebody on the other end of his stone acknowledged him.
+
+“Lu Ri?” A weary voice issued forth from the other end—before it suddenly hardened. “What was the last thing you gave me before I left the sect?”
+
+“I returned to you your coin pouch,” Lu Ri answered immediately. A question like that almost certainly meant he had been attacked and suspected possible infiltrators. “Junior Brother, are you well? What is going on?”
+
+“There was an attack. We… well, we won, but we’re still sorting everything out.” His voice was tense. “What about you? What about the Nezin tribe? The attack came from the north—”
+
+“They are well, safe within First Den. There was a minor incursion, but they were dealt with. Additionally, Hong Yaowu was never attacked. The wards never triggered,” Lu Ri informed the man on the other end of the stone.
+
+Rou Jin let out a relieved breath. “Thank you, Senior Brother. Thank the Heavens you went north.”
+
+Lu Ri smiled slightly at the sudden lack of tension in the other man’s voice. He had obviously had a hard-fought battle, yet his virtuous Junior Brother first concerned himself with others.
+
+“Are there any casualties?” Lu Ri asked.
+
+“Some of Vajra’s forces. Thankfully, no more deaths, but…” his Junior Brother sighed.
+
+“I shall be there shortly,” Lu Ri informed him.
+
+There was a brief pause on the other end of the stone, then Jin spoke again. “...Senior Brother, could I ask you to do something else?”
+
+“What do you need?” Lu Ri asked.
+
+“They’re broken and reeling, but we’re too tapped out to give chase.”
+
+“You wish me to complete the rout?““Find out where they came from, please.” Jin’s voice was heavy with intent.
+
+“A wise course of action,” Lu Ri replied. “Fear not Junior Brother. Not a soul shall escape.”
+
+Lu Ri flipped in midair, landed on a mountaintop, and reversed his course. The tracks led northeast, to where a likely more substantial base was.
+
+“May Heaven be kind to you, Lu Ri,” was the last thing Jin said before the transmission faded. The same words he had said three years ago when he had left the Sect.
+
+His Junior was a good egg. The small smile of relief faded, however, as Lu Ri kept his pace back north.
+
+Instead, fury and grim resolve filled his heart.
+
+He apologised to Miss Yuanlin for leaving her behind when they met back up an hour later; She understood, but requested that he serve her tea in recompense.
+
+Then, once more, they headed north. They followed the tracks into a mountain in the Sea of Snow.
+
+And just like the last base… there was only a skeleton crew.
+
+=======================
+
+Lu Ri had just finished dispatching the last of the operators when the transmission stone array buzzed.
+
+He looked at it for a moment, before he pressed his hand to it and spoke.“Receiving,” Lu Ri stated, his voice mild and subservient.
+
+“This is Heavenly Demon Yulong! Priority message! Get this to Huian and Chixia! Retreat immediately! We are compromised, Code White! Blow the rails on the completion of this message!” The man’s voice was terse, worried.
+
+A small smile spread across Lu Ri’s face.
+
+This base was important.
+
+“Your will be done, Heavenly Demon,” Lu Ri replied, and the “Heavenly Demon” sighed with relief before the transmission was cut.
+
+The formations were carefully deactivated. The roof of the tunnel was collapsed just past the explosive crystals, to make it look like ‘Heavenly Demon” Yulong’s last order had been carried out.The Shadow of the plum blossom fell over the base... all its secrets would be laid bare.
+
+====================
+
+=====================
+
+Editors: Massgamer,

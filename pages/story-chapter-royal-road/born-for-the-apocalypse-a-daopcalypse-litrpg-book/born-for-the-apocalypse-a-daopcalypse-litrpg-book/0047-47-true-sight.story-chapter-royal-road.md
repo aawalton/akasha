@@ -1,0 +1,101 @@
+---
+id: 0ffeefb8-9756-59e1-8888-9726746a530e
+page-type-slug: story-chapter-royal-road
+title: "47: True Sight"
+slug: 0047-47-true-sight
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 47
+ownLength: 2214
+unit: words
+publishedAt: 2025-01-21
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2022299/47-true-sight"
+royalRoadId: "2022299"
+---
+
+47:
+
+Jack’s perception of time became hazy as the minutes stretched on and on without offering him the slightest hint of a reprieve. Jack suspected that over an hour might have passed since their first encounter with the lupine creature, but with the weight of having to maintain a state of constant, unrelenting vigilance, it could have as easily been twenty or thirty minutes since then.
+
+Lapsing for even a few seconds meant giving an opportunity to the lupine creature, for that was enough time for it to cover the distance separating them if it was lurking at the periphery of the shifting dome of clear air that offered them a shelter from the fog, no matter how deeply they encroached into its depths. His enhanced stats and the Greater Recovery Pill that he had consumed earlier meant that his body was primed to explode into combat at a moment’s notice and with every passing moment his Qi Pool recovered more of the spiritual energy from the ambient qi present in the environment.
+
+But Jack couldn’t deny the weariness that had begun to set in his bones, having run from one close encounter right into the jaws of another. This impasse couldn’t last forever and he was certain that they would escape the foggy plains if they just kept moving forward, but Jack had noticed no major variance the soft grass they marched across or the rhythm of the fog as it slipped past them.
+
+Even the sky had been concealed from them and while it may have been a poor replacement for real sunlight, its absence was still felt. Jack couldn’t help but wonder if it was a better idea for all of them to split up and run for their freedom instead of trying to fight the beast in a formation that required mutual trust, skill in execution and a good deal of luck.
+
+The protection offered to cultivators in the fog should extend to them individually, but whether it would be as large in diameter as the one currently being offered to them was a matter of consideration. Testing his theory would require one of the four to split off from the formation and charge into the fog outside the periphery of the dome, which almost certainly meant death for any of them. That wasn’t something anyone would volunteer to do and even if they were willing, they wouldn’t be coming back to report it to the group.
+
+So the only way, as a last resort perhaps, was for everyone to pick an angle and break off into mad dashes into the fog in unison. That way, one or maybe two people could survive at the sacrifice of the others.
+
+Realizing that his thoughts were spiralling into a dark abyss, Jack shook his head and shifted his gaze from the fog, taking a quick glance at Marcus before peeking over his shoulder to see if Jin was doing okay.
+
+Then his gaze returned to the fog, as he mused on his observations. There was a hollowness to Marcus’s gaze as he had swept the environment with his gaze, his grip over his blade far too relaxed for the situation they were currently in and his expression more blank than it appeared to be weary. Jack could only hope that Marcus would snap out from the fugue-like state he appeared to be caught up in, but in the midst of what was becoming an increasingly dangerous situation, there was little that he could do for him.
+
+On the other hand, Jin seemed to be grappling with different kind of demons. A brief glance at her had been enough to reveal how tightly he was holding onto her spear, her knuckles having gone white as she swivelled her head from left to right, with her spear following in jerky motions. Jack suspected that she would run anyone or anything that approached her in a flurry of motion. He had continued to watch as Jin had pivoted on the ball of her right foot to point the spear behind her.
+
+Jack had almost come to her aid thinking that the lupine creature had finally revealed itself, but his True Sight had revealed the truth to him.
+
+As Jin turned forward again, Jack had retracted his gaze to conceal the worry in her gaze.
+
+If things kept going as they were, the fog would break them before the lupine creature did.
+
+Jack’s gaze couldn’t help but take note of Sarah, her expression hidden from him given that she had taken the role of the vanguard and led the way. Fortunately, she also happened to be the group member he had spent the longest time with, making the composure she carried herself with clear to see.
+
+Her steps were measured and confident, her spear held in both her hands yet remaining steady as she marched towards what well could be certain death. Given the glimmering Jade armor that had moulded to her form and the white marble spear she carried with her, she looked more like a legendary warrior from the folklore of old rather than an ordinary office worker from Seattle.
+
+Neither armor nor a weapon alone could be the source of such confidence, and Jack knew that there was more to the equation. She had fought silvercrest wolves and killed twilight boars and rift goblins before she had set out to rescue captives from the most guarded spot in a camp teeming with rift goblins.
+
+It was sufficient to say that she wasn’t the same person he had been merely a few days before. A more mutated version of the silvercrest wolf wouldn’t be able to make her give into despair, but his gut told Jack that the truth wasn’t that simple.
+
+It was then, as Jack’s gaze was largely focused in Sarah’s direction, did he notice a disturbance that sent ripples through the clouds of Qi that made up the artificial fog from her right.
+
+The ripples intensified with every passing millisecond, the shifting of the clouds of fog growing more intense by a force that caused the Qi clouds to disperse away from it’s approach. Given the angle and the increasing intensity, if the lupine creature cut a straight line through the fog, its likely target would be…
+
+“Sarah!” Jack called out, snapping the entire group from the collective reverie they seemed to have fallen to, each mired in a bog made of their own thoughts. “Your right. Incoming!”
+
+Almost as soon as the words left his mouth, multiple things happened at once. Sarah’s spear began glowing with the silvery-white sheen of Moon Qi, as she raised it before herself and angled herself and consequently, the spear, rightwards. The lupine creature seemed to have wanted that exact moment to claim its entrance, covering the distance between itself and Sarah with ferocious speed.
+
+As for Jack himself, he had already called upon Qi Blade and now stood with his sword raised above his head as he tried to angle it to catch the lupine beast in a straight line with his blade. The advantage of a diamond formation was that it could allow Jack to attack an enemy approaching Sarah with a ranged means of attack before they made contact, but unfortunately for him, the lupine creature was way too quick and Sarah couldn’t hesitate to thrust her spear if she wanted to live.
+
+And she did, with Moonspear flitting forward as a silvery-white blur, aimed right for the lupine beast’s exposed visage, above the snout and between the eyes.
+
+Jack could see the venous structure running underneath the lupine creature’s flesh, noting that almost all the meridians in its body were flooded with Qi. The blasted monstrosity was using Qi to empower its entire body, down to every organ and muscle. The secret behind its enhanced speed and strength was made clear, but Jack almost physically flinched when he noticed the sheer size of its beast core, which was easily the size of a human head and nestled behind its ribcage.
+
+He watched with bated breath as Sarah’s spear inched closer and closer to the lupine creature’s skull and for a moment there, given the tremendous speed Moonspear offered and the fact that Sarah hadn’t revealed that ability to the creature yet, Jack believed that her strike would end it right then and there.
+
+His eyes went wide in astonishment as what he had originally considered to be double-jointed forelimbs and rear limbs bent sideways, both lowering the creature’s overall height and making Sarah’s thrust puncture nothing but air.
+
+A stunned gasp could be heard as Sarah swept her spear in a wide arc to protect herself before the lupine creature ripped her throat out. From his perspective, Jack could see why the lupine beast hadn’t already. Bending it’s knees to the side and fixing them in place had brought its galloping pace down to a trot, so it chose to sidestep the range of the spear and move past her flank with what could still be considered a reasonably fast pace.
+
+The lull in the battle didn’t last as it’s double-jointed knees shifted back into their original shape and the lupine creature regained it’s pace, charging directly at Jack with it’s piercing orange eyes locked onto his form.
+
+“Marcus, move!” Jack called out as he pulled his sword backwards and swiped in a horizontal arc. Qi Projection was a dangerous skill, because it would just about as readily slice through an ally as it would against an enemy. He hadn’t been able to target the lupine creature as it was passing by Sarah for that very reason, but now that he could, Jack wouldn’t take any chances.
+
+A horizontal arc of Qi whizzed forth from Jack’s slash, blurring towards the lupine creature’s ribcage with a speed that rivaled its own. It couldn’t dodge towards the left or the right now and even if it chose to leap over it, there was a chance Jack would slice off a forelimb or one of its tails.
+
+The lupine creature chose to do none of those things, as all its limbs bent outwards in the shape of an elongated spear point as its upper leg pressed against its lower leg for all four limbs.
+
+Jack was stupefied as his attack sailed harmlessly over the lupine creature’s head.
+
+However, before he could commit to another one, the tension in its limbs uncoiled in unison and it angled itself forward just in time to be sent flying into the sky. Before Jack knew it, the lupine creature stretched all its limbs outwards and elongated its forelimb claws to the maximum length he had seen earlier.
+
+Jack backpedalled as fast as he could without tripping over, but even then, he fell just short of escaping the reach of the right claw that was swiping for his face as the lupine creature was on the verge of landing before him.
+
+Moonsword swiped forward to intercept, Jack’s own staggered reaction to due the sheer unexpectedness of the scenario unfolding before him counterbalanced by the Moon Qi ensconcing his blade, giving him both enhanced speed and strength.
+
+The screeching clash of metal clashing crystal sounded out in his ears as the lupine creature’s Qi empowered strength clashed against his Moon Qi empowered one. If Jack tried to empower his strength in the raw manner the lupine creature was, he was certain that he would run out of Qi in not minutes, but seconds.
+
+Still, the creature needed to find its footing as it landed, managing to balance itself on its hindlimbs without much difficulty beyond a little initial step to stabilize itself. An opening that had allowed Jack to send the creature’s right forelimb whipping backwards.
+
+He wanted to press the hard fought advantage, but the lupine creature lashed out with it’s left forelimb before he could, so instead Jack chose to backstep out of its reach.
+
+Jack took the moment he had stolen from the lupine creature to observe its form more closely under True Sight. There were two things that stood out to Jack, now that he had an opportunity to inspect the lupine creature with such proximity.
+
+The first was the runic symbol that seemed to be nestled in the back of the creature’s head, with his wisdom stat boost paying off as he almost instantly guessed that it might be what allowed the creature to blend in, see through and perhaps, even have created the Qi fog. If the last was the case, then Jack hoped that the sea of fog was vast enough for other lupine creatures to be far away.
+
+The second observation was far more interesting to his immediate predicament. It was hard not to study the claws with his True Sight the moment he could without getting his head sheared off, but now that he could, Jack realized that they were constructs of pure Qi.
+
+But that couldn’t be true, because Jack had true sight active this entire time and he was certain that he would have caught three elongated lengths of crystalline bone nestled within the creature’s arm, given the sheer amount of Qi that had been packed and compressed within.
+
+Unless…
+
+An idea rose to the forefront of his mind.

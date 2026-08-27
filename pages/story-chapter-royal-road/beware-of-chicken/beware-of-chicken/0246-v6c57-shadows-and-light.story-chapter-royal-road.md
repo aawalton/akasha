@@ -1,0 +1,203 @@
+---
+id: c7a7390e-6144-5d1f-b585-df2b0881199a
+page-type-slug: story-chapter-royal-road
+title: "v6c57: Shadows and Light"
+slug: 0246-v6c57-shadows-and-light
+partOf: beware-of-chicken
+position: 246
+ownLength: 2525
+unit: words
+ownProgress: 2525
+publishedAt: 2025-08-16
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2522191/v6c57-shadows-and-light"
+royalRoadId: "2522191"
+markedReadAt: "2026-06-29T18:59:50.134Z"
+---
+
+As Bi De and his companions continued southeast, they heard more of the same rumours. The Shrouded Mountain Sect had stopped most patrols for a time, before restarting them.
+
+Thankfully, in spite of what they had heard in the first town they had stopped at, the entire province hadn’t exploded with the sudden retreat of the sect. Bandits were still few and wary enough from the past culls from the sect that the roads were still relatively safe; the same with the local Spirit Beast population. Some outposts had even continued to perform their duties while they waited for news from the main sect.
+
+But still, the rumours abounded. Everyone knew someone who had heard from a friend of a friend about a destroyed village… and eventually, Bi De and his companions came across one of these savaged places.
+
+They wandered through the empty village, walls smashed, doors torn off hinges, and roofs collapsed. Some places still had food frozen on the tables. It was too cold for the corpses to decompose, so they sat still and unmoving, pieces of them chewed off by scavengers.
+
+In this forlorn place, all that was left was the haunting sound of the wind howling through empty homes.
+
+They gave what burials they could to the fallen, their cultivation letting them dig into the frozen ground.
+
+Bi De knew he would be seeing the body of a little girl and her doll in his dreams for a while yet.
+
+In the next town, they found the survivors of the attack. Many were covered in bandages and still healing wounds. Others were missing arms and legs, and still others were blinded entirely.
+
+But the worst were the Beast Cursed, six of them. They were wracked with lingering, chronic sickness from being too close to Qi techniques. The ailment was a pervasive feeling of being unable to get warm—one and all these poor souls were bundled in blankets and furs, huddled by the hearths or fire crystals, yet still shivering. The worst afflicted had to be physically restrained from jumping into open flames in a desperate attempt to rid themselves of the maddening cold.
+
+They did what they could for those they encountered, Ri Zu applying the Healing Sage’s formation to draw out the Beast-Qi that was within them, gnawing on their inner fire.
+
+Yet in spite of the damage to the province, the mortals did not seem to blame the Shrouded Mountain Sect. In fact, the people only seemed to have more faith in the sect than ever before, in spite of everything.
+
+“They were doing something for His Majesty! It's not their fault. I hear they fought off an entire demonic incursion by themselves!” a woman who was clad in bandages and had barely healed claw marks on her chest exclaimed.
+
+“T-they st-st-st-started the p-patrols back up as s-s-s-soon as they c-could,” a man grit out between his chattering teeth while Ri Zu worked on ridding him of the foreign Qi in his system. “It's the F-frozen Cloud Sect’s fault, the b-bastards!”
+
+“Greedy, grasping, underhanded scum,” a second woman stated, her voice full of scorn. “I had family up in their territory, and they got the hell out of that shithole. The roads are atrocious, and you need to wait a week to get them to move if a Spirit Beast attacks. A week! You send an emergency transmission to the Shrouded Mountain Sect and they’re here within the hour… or at least they used to be, no thanks to the Frozen Cloud Sect!”
+
+“If they think they can waltz in here, attack our heroes, and then say we belong to them, they got another thing coming,” another person chimed in, glaring at the mountains in the distance.
+
+There were several sounds of agreement.
+
+“Do you know anything about what's happening?” Yun Ren asked.
+
+“Not really. The Shrouded Mountain Sect pulled back completely, and the Frozen Cloud is following them. I heard there were a few skirmishes, but we don't know who won,” the second woman replied, a grimace on her face. “It’s surely just a plan! They’re doing it on purpose to lure the Frozen Cloud in, all smart like!”
+
+Several people echoed this opinion… But Bi De could tell that it was more to convince themselves.
+
+==========================
+
+They camped together with Shen Yu and Spooks that night on a mountainside, staying in the town felt too uncomfortable with all the thanks they were receiving from the populace.
+
+“...did I even do the right thing, if it led to this?” Yun Ren muttered.
+
+Bi De had no answer for him. It was Yun Ren’s revelations that had caused the disruption.
+
+Shen Yu, who was watching, sighed.
+
+“Do not look away from it. Your actions did contribute to what happened here,” the old man stated. “Acknowledge, but do not regret. If one regrets, then they have inflicted suffering upon mortals for an unworthy reason. You shame yourself, and you shame them. Those are the words of the Honoured Founders of the Cloudy Sword Sect.”
+
+Yun Ren sucked in a breath and grimaced.
+
+“It’s a cold comfort, for those suffering,” he muttered.
+
+“It is,” Shen Yu agreed. “But it is something that you must understand. You were once mortal, and now you are a cultivator. Your actions, whether you wish them to or not, affect more than a single village. So, you must decide if your actions were worth the outcome.”
+
+Bi De put a hand on Yun Ren’s shoulder while the man worked his jaw.
+
+“...I don't know quite yet. I thought they were worth it when I was with the foxes. but…” he trailed off and heaved another sigh. “Well, everything would have been fine, it seems, if the Frozen Cloud Sect hadn't attacked. Wasn’t there some kind of pendant thing from the Emperor that Shenhe got that should have stopped people gettin’ ideas?”
+
+“There is indeed such a thing,” Shen Yu replied. “But that's likely the only reason why more sects aren’t attacking the weakened hegemon of the region. The Heavens are high, and the Emperor is far away. The only thing they have right now is their own might.”
+
+Bi De frowned. “...will we be joining them in battle?”
+
+“No,” Shen Yu replied. “This is one of those moments where our interference will make things worse. Continue your mission as you were.”
+
+They all had trouble sleeping that night.
+
+===================
+
+They picked up the pace, and the rumours got more detailed the closer they travelled to the Shrouded Mountain Sect.
+
+Rumours of skirmishes, of retreats by the Shrouded Mountain Sect, of the Frozen Cloud Sect pressing forward.
+
+But they also heard some rumours that brought hope.
+
+“Even in the midst of war, a Fulmination Squadron came to our aid!” a Town Elder declared. “Captain Shao Heng arrived on a bolt of lightning and saved us all from that Frost Wolf!”
+
+Ri Zu brightened up.
+
+“I heard that Lady Yushang defeated an entire team of Frozen Cloud cultivators—she’s the personal disciple of Sect Master Shenhe!”
+
+Bi De couldn’t help his smile.
+
+In spite of these small moments, the mood amongst the people they met got more and more tense.
+
+“The Elders met under a banner of truce, but Elder Chang Guozhi of the Frozen Cloud Sect said that Sect Master Shenhe was a liar and a charlatan, and they were going to ‘rid the province from the tyranny of the Shrouded Mountain Sect’.”
+
+“It's inevitable now.”
+
+And then came the moment Bi De had been dreading.
+
+“There was a fight. A big one. We heard the thunder from here. The mountains shook like they were trees.”
+
+“How long ago?” Bi De asked.
+
+“Four days,” the mortal replied, their face lined with worry.
+
+============================
+
+It did not take long for them to find the battlefield. It was in an uninhabited part of the Howling Fang Mountains, and it was good that it had been. Several mountains were missing their tops. Their sides were slagged from the heat of lightning. Many more had spikes of ice the size of a palace growing out of them.
+
+Banners and blood splattered the ground. The air smelled of ozone.
+
+But there were no bodies, and no indication of who had won.
+
+===========================
+
+It was with great trepidation that they approached the next town. They were all prepared for the worst.
+
+And yet, what they found… was a party.
+
+“What is the reason for the celebration?” Bi De asked one of the happy-looking townsfolk cautiously.
+
+The man grinned brightly. “Oh, you haven’t heard! Three days ago the Shrouded Mountain Sect met the Frozen Cloud Sect in full battle—and crushed them! The Frozen Cloud is running with their tail between their legs!”
+
+All any of them could feel was relief.
+
+===================
+
+Three days ago:
+
+Strength Above All. The mantra of the Shrouded Mountain Sect. How pitiful that mantra seems now,  Chang Guozhi of the Frozen Cloud Sect mused. Their advance thus far had made a mockery of the once-mighty, indomitable sect, but what else could have happened when they were led by such a weakling? Shenhe constantly tried to talk, to weasel out of battle, in stark contrast to what the Sect normally did. That meant they were truly weak. Thus, the law of the world came into effect. The Shrouded Mountain was powerless to hold its territory, so it had to go to someone strong enough to take care of it.
+
+Yes, they indeed had something that signified the Emperor’s Favour… but that was not going to dissuade them. The Empire didn’t step in unless things got out of hand.
+
+This minor dispute would be beneath any notice, and as long as they didn’t attack the mountain directly… they could later claim that the seal they had been shown had looked fake, until a messenger confirmed its authenticity.
+
+A slap on the wrist would be all they would get. But in the meantime, they could finally break the stranglehold the Shrouded Mountain Sect had on the province. The other sects were waiting, the cowards, seeing how things played out, but as the first to act, fortune would favour the bold.
+
+He was with his fellow Elders, observing the battlefield. The cold mist of the mountains was particularly thick today, and full of cold Qi, but easy enough to see through for those of their caliber. Their sect was encamped behind them, their anti-Fulmination Squadron techniques ready at a moment's notice. They were deep inside Shrouded Mountain Sect territory now, and this was the last pass they had to take before they would be in range to strike at the sect…and  then they would see what Shenhe had to say.
+
+Or rather, they were near the Unshrouded Mountain. The scouts, those that could get close enough, had reported the rumours were true… the mountain was lacking its mist and lightning. Though that information had come at a cost. The Outriders were still surprisingly effective, even when wielded by an incompetent.
+
+“It is a good battlefield,” his sister mused, looking upon the pass. “We shall force the Fulmination Squadrons into fangs of ice, and with our victory, we shall be ascendant; the new power of the Howling Fang Mountains.”
+
+Guozhi smiled at her confidence, and was about to speak, when Elder Shi interrupted.
+
+“Movement. We are approached,” he said, glaring into the snow and frost crystals. They danced and writhed in scintillating patterns, and the wind was driving them into a thick fog. Many shadows moved within the dancing, reflective light. At first, there seemed to be an army—but the shadows began to stack and meld together, until one woman walked from the mist.
+
+Guozhi snorted, glaring down at the lone fool approaching them. Her steps were confident and deliberate enough to be irritating.
+
+“Are you here to kowtow before us, Shenhe? Beg us for mercy?” Guozhi asked, drawling in amusement.
+
+Shenhe looked up at him, and he tensed. Her blue eyes were set in a glare that made the hair on the back of his neck stand up.
+
+“No. You have brought death and destruction to the people of the Howling Fang Mountains. You have defied the symbols of the Emperor. I am not here to offer surrender, but give you one last chance. Surrender to me now, or you will be destroyed. This is the final demand of the Shrouded Mountain Sect.”
+
+Guozhi recoiled at the sheer audacity of the woman, before his face split with a grin. He threw his head back and laughed.
+
+“Oh? And I suppose you alone shall defeat us all?” his sister asked, amusement leaking out from her.
+
+And yet Shenhe of the Shrouded Mountain Sect smiled.
+
+“Oh, my dears,” an amused voice snickered, coming out of the mist. It was hissing and predatory. Cunning and fox-like. “She’s not alone.”
+
+The mist twisted, and with it, the world. It pulled back and into Shenhe, the cold Qi completely at odds with lightning and yet inhabiting her—
+
+And arrayed on the peaks around them were the Shrouded Mountain Sect. Already here, and already crackling with electricity.
+
+They unleashed their full power into the camp, a ripping boom that made the ground quake.
+
+There had been no lightning Qi. No thunderous impact of the Shrouded Mountain’s arrival. All of their wards, directed to the heavens, and ready to intercept the Fulmination Arrays were bypassed.
+
+Guozhi’s head whipped to Shenhe, but the woman wavered and disappeared—
+
+Elder Shi let out a choked gurgle as lightning burned through several of his protective talismans and threw him from the mountaintop.
+
+Zang Shenhe stepped out of the mist behind them, six ghostly tails waving behind her, and an ethereal fox-mask hid half her face. It was locked into a smug grin, and it was watching them. The mist coming from the mask looked to be coming out of Shenhe, converting crackles of lightning into misty darkness.
+
+“Strength above all,” the fox mask purred, its Qi mingling with Shenhe’s, nearly a part of her.
+
+“To protect what we love,” Zang Shenhe competed, her blue eyes burning.
+
+Lightning burst from her form, casting giant, misty shadows. Light and darkness swirled and played.
+
+Shenhe erupted towards him, all violence and force. The first clash nearly tore his blade from his hands, lightning dancing over his body. He knew instantly she was his superior. Against that, perhaps, he could have mustered a defense. He could buy time for his fellows. In an even fight, they would win.
+
+But it was not an even fight.
+
+His sister turned and swung at empty air, before leaping and backpedaling away from nothing. Shi roared below them, his Qi blooming into an eruption of force that pulped an empty mountaintop.
+
+The fox in the mist cackled, long, loud, and mocking.
+
+Up was down. Left was right. His eyes and ears and nose and tongue lied to him. There were ten Shenhes. There was no Shenhe. There was an attack coming from the left but also from the right and also from nowhere at all, as the illusions invaded his mind.
+
+The darkness came for him. And it only made the lightning brighter.

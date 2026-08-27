@@ -1,0 +1,149 @@
+---
+id: 25da442c-58a4-5648-b62b-98be82f1cfb3
+page-type-slug: story-chapter-royal-road
+title: "49. Raising Standards"
+slug: 0049-49-raising-standards
+partOf: breaker-of-horizons
+position: 49
+ownLength: 3222
+unit: words
+publishedAt: 2020-10-19
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/571487/49-raising-standards"
+royalRoadId: "571487"
+---
+
+Now that Emilia was in a relationship with Kevan we started seeing a lot more of her, especially since she started joining us for meals. The most striking change was her behaviour whenever we cooked instead of eating in the cafeteria or library cafe. Outside, she was her usual curt and aloof self, but within the cosy privacy of our dorm, as we sat around a table filled with sumptuous food (which was by now of sufficient quality that Devon stopped pronouncing it merely passable, and was finally crossing over into the realm of compliments), she became much warmer and less guarded.
+
+As someone who had only thus far been exposed to her hyper-competitive, hyper-competent side in our Thaumaturgy lessons with Kant, this was a welcome surprise. And although I still harboured a general dislike for Kevan because of our early interactions (and the effect he had had on Jerric), I found myself regarding him with a little more charity since he was proving to be a rather caring person towards Emilia, and not at all like his usual egotistical self. In fact, Emilia's presence made Kevan's company not merely tolerable, but sometimes even pleasant.
+
+As the season progressed into deep winter, my father's lectures turned to the production and upkeep of the artefacts that regulated the temperature of our living and working spaces. And although it wasn't yet possible for us to create a stable and persistent field using glyphs that was portable enough to carry, our Thaumaturgy and Advanced Glyph lessons provided us with an alternative; we had advanced to the point where we had enough theoretical knowledge and fine control to sustain and suspend a small amount of arcanic fire while encapsulating ourselves in a thin shield that was just strong enough to keep heat in. I recognised echoes of it in Devon's sequence to keep food warm. With some practice, it was possible to hold these sequences in place while doing something else.
+
+By this point, arcanic manipulation was becoming something very tactile for me. I wasn't sure whether this was a natural progression of my abilities or a direct result of the shield against prophetic links that the Spire's augera had put over me, but I realised I could sense my auric-ambient-flare as a sort of nebulous other body that I was beginning to really feel and control. I no longer had to imagine shaping arcana with phantom hands — it was something I could quite literally get ahold of. And the more we worked with arcana in our Thaumaturgy or Double Thau sessions, the more I became finely attuned to this arcanic sense. Sequences were no longer abstract strings of glyphs. They were things I could hear, touch, taste, or smell. And even if two people were using the exact same sequence, there was a subtle quality that I had learned to recognise that helped me differentiate one person's work from another. It was like hearing two people speaking — the words might be the same, but their voices were distinct.
+
+The term was coming to an end and before our test against Reeves' ensorcelment, we decided to have a final bout of practice just to make sure we were prepared. Thanks to the augera's shield I was immune to ensorcelment and had no need to practice (although the twins and Emilia still thought I was just that good at guarding against ensorcelment), so I was once again put on ensorcelment duty so the rest could practice resisting it.
+
+But of course, with people like Kevan and Emilia in the mix, we weren't staying in the dorm for a straightforward mass ensorcelment. They had floated the idea of trying to defend against ensorcelment in the middle of combat.
+
+So it was that the seven of us found ourselves in the largest duelling chamber again on the weekend before the test. Emilia had arrived bright and early for breakfast at our dorm, where Devon had complained loudly about how over-the-top this idea was. But in the end, he sighed and resigned himself to being a part of it when Jerric convinced him to just give it a try.
+
+"So, how are we doing this?" Jerric asked. "Caden's on ensorcelment duty, so I'm assuming somebody has to join him and focus on bombarding us while we shield against both the ensorcelment and the arcanic attacks?"
+
+"But that person won't get as much ensorcelment practice in," Lynus pointed out. "Maybe we should do teams of three against each other, while Caden tries to ensorcel everyone at once?"
+
+"That means we'd have to block against ensorcelment, defend ourselves, and attack the other party at the same time," Devon said, aghast. "Guys, come on, not all of us are in the 90th percentile of the cohort."
+
+There was some lighthearted chuckling, but Kevan took his complaint seriously. "It is a bit much," he admitted.
+
+I cleared my throat. "Actually, I want to try something, and if that doesn't work then we can think of something else."
+
+"What's your idea?" Ambrose asked.
+
+"You guys just focus on shielding against ensorcelment and arcanic attacks. I'll do both at once."
+
+That drew some looks of surprise. Emilia was the first to object. "Unless you've made significant progress since our last session with Kant, I don't think you'd provide much of a challenge against six people at once, Caden," she said, softening her comment with a wry smile.
+
+I grinned. "Well, it's not a straight-up fight, so I won't have to worry about shielding. That frees me up to really go on the offensive. Who knows? I may just surprise you yet."
+
+The sceptical look on her face was mirrored by the twins, but the others seemed happy with the proposal. Devon, in particular, was looking relieved (which left me feeling conflicted — happy on one hand that I had taken a bit of pressure off him, but also annoyed since he seemed to think I really wouldn't provide much of a challenge).
+
+"Well, it's worth a try," Ambrose shrugged. "We've got time to try other things if this doesn't pan out."
+
+"Right. Let's start off simple, then, shall we?" I asked casually, positioning myself in the centre of the dome and indicating that they should space themselves out. They moved to the edge of the arena and naturally settled into an arc facing me.
+
+The Minor Control Sphere materialised in front of me and I activated the barriers around the stands, as well as the personal barriers for everyone.
+
+"Don't really think we'll need these," I heard Kevan say to Emilia, who was about ten paces from her, "but better safe than sorry."
+
+Hah.
+
+I closed my eyes and focused on my arcanic sense, thinking back to the first moment when the augera had encapsulated me in the carapace that rendered me free of the Prophecy and granted me immunity to ensorcelment. Back then, I had been so attuned to the arcana that when Ambrose had tried to attack me, I was able to nullify his sequences even before they came to fruition.
+
+That feeling of attunement suffused me now. The carapace throbbed in time to my beating heart, and with each breath, my arcanic sense expanded until it encapsulated the whole space within the arena barrier.
+
+I was already used to doing this during our Double Thau sessions since I had to ensorcel all of them at once. It was probably how Reeves did it, too, though it likely involved a slightly different method because he wasn't benefiting from something the augera had bestowed on him. In this state, it took almost no arcana at all to perform an ensorcelment. All it took was a focused thought of razor-sharp intent, and everything in the field was subjected to it. The ambient arcana was both source and channel, and right now, nobody was challenging my hold over it.
+
+Today, since the opportunity had presented itself, I wanted to push it further. The theory I had was that if I could ensorcel the whole field, then it also meant that I could employ certain combat sequences that would take effect over the whole field, or emerge from any part of it.
+
+Ensorcelment first. It came like breathing now — I effortlessly combined a visceral fear with the impulse to drop prone and projected it. The field was instantly bathed in the weight of my ensorcelment, and the six of them anchored themselves with the sequences we had collectively developed. Ambrose, Jerric, Kevan, and Emilia looked composed, but Lynus and Devon's brows were furrowed in concentration. After a few seconds, I was comfortable enough to shift this to the back of my mind, and I started amassing arcana. It was the arcanic equivalent of balancing on one foot while turning your attention to something else.
+
+An easy spread next. Attuned as I was, the sequence didn't even need to be fully-formed in my head. It was like muscle-memory now. Heavy arcanic bolts burst from the air around me and roared towards the rest, who reflexively brought up throwaway shields to deflect them. Devon misjudged the angle a little and was forced to conjure another layer to absorb the impact when the bolt crashed through his first shield, but he held firm against the ensorcelment.
+
+Now, a simple barrage. More bolts poured from the air around me in rapid succession, shooting off towards random targets. Since I wasn't directing them, it was still well within my abilities to simply fire off bolts one after the next in double or triple shots that demanded firmer shields or more careful deflection.
+
+"Everyone still alright?" I called.
+
+"Pace is a little slow," Kevan called back, grinning.
+
+A bit more heat, then. While still gathering arcana, I sent forth another barrage, this one mixed with invisible bolts that I directed, bringing them in from other angles. The rest were able to manage, but Devon let a few slip through and sustained some damage. I felt his focus over his sequence slip ever-so-slightly, allowing a trickle of the impulse to bleed through. He quickly asserted himself and scowled in frustration.
+
+"Still alright?"
+
+"Can I tap out, now?" Devon whined.
+
+Jerric threw a weak arcanic bolt at him in lieu of a slap on his shoulder. "C'mon Dev, if you outlast me, I'll take all your washing duties for the next month."
+
+"IT'S ON!" he roared back, drawing laughter from the rest.
+
+It was a mark of how far we had all come that resisting ensorcelment was something we could do while laughing, now. But it also meant that they still had plenty of mental bandwidth left. It was time to take it up a notch and test my theory.
+
+The next barrage of bolts did not come from the air around me. They emerged from the barrier of the arena, bursting out unexpectedly and with great violence. Everyone was caught by surprise, but Emilia and Ambrose managed to encapsulate themselves in identical honeycombed shields. It seemed that they had sensed the bolts coming, but couldn't tell which direction they were coming from.
+
+The twins didn't do too badly. Kevan got struck once, but he quickly deflected the rest with directional shields, showing an exceptional awareness of the space around him. Lynus was less adept and got hit two more times.
+
+Jerric and Devon, on the other hand, took several direct hits before they knew what was happening. They both pitched forwards but managed to cover themselves in shields to weather the rest of the bolts. I sensed Devon's hold against ensorcelment slip again, but he recovered just in time before he gave in to the impulse.
+
+"What was that?" Kevan demanded.
+
+"Surprise!" I grinned at them. "Let's get serious."
+
+Ambrose shook his head and grinned back. The twins settled into identical battle stances, and Emilia turned to face me with the deadly calm she always exhibited in a proper duel. Jerric looked torn between determination and curiosity. I felt a little sorry for Devon, who was regarding me with increasing dismay.
+
+My next barrage emerged from both the arena barrier and the floor around them. Devon and Jerric weren't as adept at conjuring throwaway shields, so they leaned hard into sustaining all-encompassing barriers. Jerric's lattice held up under the barrage, and although Devon's exhibited heavy cracks, it weathered the volley before it crumbled.
+
+Kevan managed to deflect everything now that he was prepared, while Lynus got hit a few times and I felt the ensorcelment creep in on him before he managed to reassert himself. Ambrose, too, had managed to find his bearings and deflect the bolts. Emilia, on the other hand, had to rely on a heavy sustained shield at her back while she deflected the rest coming from the front.
+
+"How is he doing that?" Lynus complained.
+
+But they had no time to speculate. Even as I continued to amass arcana, I sent out tendrils of energy that writhed out of the ground around them, plunging into their defences. The directional shields shattered, forcing all of them to bring up heavy-duty barriers. But the snakes of arcana continued to coil around their shields, drawing themselves tightly around the barriers and squeezing.
+
+Devon's was the first to shatter, but although he gave out a cry of dismay, he instinctively let loose some arcanic fire that burnt the tendrils away. Jerric had been the quickest this bout. The moment the tendrils had wormed around his shield, he quickly severed their roots with a concentrated burst of arcana that took parts of his shield with it. The twins took some time to shift the frequencies of their shields so they could fire arcanic bolts through them and riddle the tendrils with holes. Ambrose had somehow managed to manipulate the arcanic tendrils themselves and unravel them from the inside out. Emilia's solution was the scariest — her barrier rippled and spikes violently erupted from it, perforating the tendrils completely.
+
+"You've been holding out, Caden," Emilia said seriously, almost smiling. "I think I'd like to take you on next in a proper fight."
+
+That was high praise, coming from her. But I couldn't manage much more than a nod in reply. This next bit was taking quite a bit of arcanic control.
+
+By now, the arcana I had been gathering was reaching critical mass, but it wasn't time yet. While I continued to feed power into that reservoir, I took in a deep, calming breath so I could focus on the next array — six simultaneous copies of the beam sequence that Emilia favoured so much. In a proper fight, I would probably never have the time and space to prepare something like this, but since I had both in spades now, it was time to go wild.
+
+The air around me sparked, and the next moment the arena was filled with the deafening noise of six beams lancing towards the rest. Even over the din, I heard Devon cry out, "OH COME ON!"
+
+The beams smashed into six heavy-duty barriers. I hadn't modified the sequence at all, so Emilia and Kevan expertly diverted the energy and even managed to reflect some back towards me, which I dealt with using a barrier of my own. Ambrose was doing his filtering trick again, and I could sense him holding the energy in reserve. Lynus and Jerric were struggling to make the adjustments necessary for their barrier to hold up under such a sustained barrage. To my great satisfaction, Jerric's barrier held for a few seconds longer, although both of them were engulfed in the beam as their defences failed and they were blown back against the arena barrier, their arena-generated personal barriers registering fatal damage. A moment later, they dropped to the floor as their focus on the anti-ensorcelment sequences broke.
+
+After a minute, the beams petered out. Lynus and Jerric both turned to stare at Devon, who was still standing.
+
+"Hoooly shit!" Devon cried out, looking down at himself in amazement. The barrier around him was badly cracked, but he had shaped it into a spike that deflected most of the energy, and he had leaned hard into maintaining its integrity.
+
+"Nice one, Dev!" Jerric cheered.
+
+"You're on washing duty!" he crowed, but a moment later he fell prone as his focus slipped and the ensorcelment took hold. "Ahhh shit!"
+
+"Clear the field, guys," I managed to say through gritted teeth. It was getting really hard to shape the last array.
+
+The three of them brought up the Minor Control Sphere to create an opening in the arena barrier and quickly slipped out. That left Kevan, Emilia, and Ambrose.
+
+"Alright, here it comes. Last one and we're done."
+
+I half-expected some sort of jibe from Kevan about being worn out so soon, but he was regarding me seriously.
+
+It was finally ready. The arcana I had been amassing all this time was like a lump of white-hot coal in my stomach. I applied a frame-shift to it and the air around me came alive, charged with power that was ready to lash out. The three of them knew what to expect, and all of them conjured the decoy orbs that would draw lightning away, holding them in reserve for the moment when I allowed the energy to snap out from me.
+
+But it didn't come from me. With a sudden, violent sizzling, Kevan found himself engulfed in a bolt of lightning that fell on him from above. When it dissipated, Kevan's shield registered fatal damage, and he was prone.
+
+Emilia gasped, but she was quick to envelop herself in her grounded shield, producing one spike in every cardinal direction and one more to guard her against strikes from above. But my bolt erupted from the ground beneath her feet, shattering her shield from within and sending her flying up two metres. Her arena barrier registered fatal damage, but she was still quick enough to recover and perform an elegant landing. At the last moment, her focus slipped, and she went prone as the ensorcelment took effect.
+
+Now it was just Ambrose and me. He wasn't grinning any more. I realised that I hadn't seen him this serious before. It wasn't just a look of concentration — there was a steadiness in his eyes and a kind of professional composure that reminded me very much of Kant. It was... battle-readiness.
+
+There was a lot of arcana left, and no other targets to use it on, so I put all of it into this last burst. It was getting hard to concentrate now and I was forced to gesture. My right hand came up in a claw, and sparking forth from the very air around him, a crackling sphere of lightning materialised and rapidly snapped inwards.
+
+But just before he was engulfed, I realised with a thrill of horror and excitement that there was, quite suddenly and unexpectedly, another presence in the arcana; another person attuned to its strings.
+
+There was a blinding flash as the sphere of lightning imploded. I felt a great flexing and stretching in the fabric of the arcana, and then, all at once, the air was clear and the presence in the arcana was gone. Even my hold over the ensorcelment had been broken. And Ambrose was standing there, unscathed, panting slightly.

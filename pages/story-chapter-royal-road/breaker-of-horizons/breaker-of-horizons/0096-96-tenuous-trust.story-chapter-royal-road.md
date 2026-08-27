@@ -1,0 +1,79 @@
+---
+id: 43620c27-4879-5487-b5d5-560fba55142d
+page-type-slug: story-chapter-royal-road
+title: "96. Tenuous Trust"
+slug: 0096-96-tenuous-trust
+partOf: breaker-of-horizons
+position: 96
+ownLength: 1804
+unit: words
+publishedAt: 2021-04-01
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/656220/96-tenuous-trust"
+royalRoadId: "656220"
+---
+
+"Broker peace with the augera?" Lynus shook his head in frustration. "Are you even listening to yourself? Did you forget how well we all did against that wild augera by the lake?"
+
+Caden took some small measure of comfort from the fact that Lynus' tone and body language seemed to indicate that he wasn't frustrated at Caden, but instead at the seemingly insurmountable nature of the task. It was a small but important difference because Caden took it to mean that despite the earlier decision the twins had made to kill him, they (or at least Lynus) didn't have something against him personally.
+
+"I remember," he said, nodding grimly. "But that was before a lot of other things happened. I know it seems completely crazy and impossible, but you need to remember that we're not working in a vacuum here. The five of you are literally the anchors of one of the first major Prophecies in a long, long time."
+
+"That just means the odds are stacked against you," Kevan argued. "The Prophecy isn't something that's supporting what you want to do. We've all agreed that it's basically going to set up Ambrose as a Fateweaver. It's got nothing to do with saving your family, and it's actively against the idea of freeing any augera at all."
+
+"But that's only part of the story, isn't it?" Caden persisted. He was pacing around now, suddenly seized by manic energy as his own ruminations gave themselves a voice outside his head for the first time. It felt good to say these things, to talk about them. "You're all anchors, so that already means we're going to be embroiled in incredible things. And working off that that, on top of the probabilities around you all already shifting out of the bounds of the ordinary, I'm not ordinary either. I'm benefitting from both the augera's manipulation of the Prophecy itself and the fact that the Fateweavers didn't account for the existence of someone like me, a byproduct of the augera's meddling and sheer cosmic chance."
+
+Devon was wearing an expression of deep trepidation as the gravity of the situation began to dawn on him. Jerric looked grim, and Caden guessed he was sketching out the darker possibilities that came with what had just been mentioned. Emilia simply looked at him with her usual vacant stare, her thoughts inscrutable. Of the twins, Kevan was the one who radiated less scepticism and more wary acceptance. Caden pushed on.
+
+"We've got two zeitgeist-changing factors coming into play here, and we need to start getting used to the fact that whether we like it or not, we're going to be seeing a lot of things that are 'crazy and impossible'. In fact, from what we've already seen so far, we're even going to end up being responsible for some of those things." He rounded on Lynus, gesturing to indicate Lynus' appearance. His body was restored, but his clothes still bore some marks of the terrible duel between him and Jerric. "I mean, just take the last few hours for instance. You do realise that I basically healed you and Jerric from potentially fatal injuries even though none of us has ever studied advanced healing sequences, right?"
+
+Lynus shuffled uncomfortably. "Yeah, about that... what you did... thanks. Especially after what Kev and I tried to do."
+
+Caden waved it away, too caught up in the flow to stop and acknowledge Lynus' awkward apology. "And I didn't have the time to tell you this, but i think what happened to me was a net benefit. When the Geldor Spire augera put me back together again, whether by design or by accident, it left me with this new sense of arcana itself. I can... I can read it, understand the flow of arcana itself on some instinctive level, way beyond anything I could do before. That's how I healed the two of you, and that's also how I picked the Panoply ward to get us back in the manor. It just all makes sense to me, if I take the time to listen, to see, to taste."
+
+He was struggling to really describe how he was navigating the arcana now. It wasn't something that lent itself to mere words, and he was worried that he wasn't getting his point across well enough. But Emilia gave a curt nod.
+
+"Like me finally seeing more of a person's auric-ambient-flare now, after you've told me more about it. It's knowledge born of experience," she said.
+
+"Exactly!" Caden pointed excitedly at her, seizing on that. "Or like ensorcelment. It's not something you teach by theory alone. Our minds become more open when we encounter these things. And think of what we've encountered! Emilia's met two augera. The rest of you have met three. I've met four. The Academy augera interacted with all of us on a really fundamental level after our run-in with the wild augera by the lake. And as for me, I've literally been stitched back together by the Geldor augera after being possessed and hurt by the Creyvlor augera. It's changed all of us. And me, most of all."
+
+"Okay," Kevan conceded, "we're all definitely not ordinary. But think about it, Caden. Take the lake augera, for instance. If something like that got angry at us... how would you even begin to calm it down? Even the shackled augera leave us feeling overwhelmed. Can you imagine dealing with a wild one, let alone a caged one that is set free?"
+
+Caden deflated a little as he stopped pacing. "I don't know yet. But I have to believe it's something I'll be able to manage in the future. This isn't a leap to the finishing line. There are things I'll need to learn, things we all need to learn before we get to that end-game. If you're asking me if I can lay out the whole plan for you now, then the honest answer is that I can't."
+
+"I get that," Jerric said, chiming in. "And I understand what you mean about learning by experience and having our whole understanding of arcana changed or evolved in leaps and bounds. What we did there in the Spire, putting you back together again..." He glanced sideways at Kevan and Lynus. "And even fighting with the twins, especially Kevan in the arcanic space... I learnt a lot from it. Things I couldn't have imagined or thought of. I don't believe it's much of a leap to say that it won't take us long to get a handle on things."
+
+Kevan grimaced but nodded. "Yeah, that fight was definitely educational."
+
+"Besides," Jerric continued, turning to Lynus, "the two of you have directly experienced what Kevan was talking about with that knife, haven't you? Somehow, working with those unknown glyphs changed your perceptions and gave you new capabilities. That's how you were able to work around the Spire augera in the arcanic space, even though Devon and I were almost overwhelmed by it."
+
+Lynus frowned as he thought it over. "I don't know. Everything happened so fast in there, I wasn't really thinking. I just knew what I had to do when the time came. Things clicked and made sense."
+
+"Even if that's the case," Kevan weighed in again, "and we do really advance in leaps and bounds in our arcanic ability, we're basically banking on these random epiphanies. That's not a plan. That's just rushing in and hoping for the best."
+
+"It's faith," Emilia said simply, and everyone turned to her. "Belief that it will work. But not entirely unfounded. We have prior experiences serving as a foundation. And having faith in something isn't always bad, nor is belief always blind."
+
+"Devon, what do you think?" Caden asked, looking over to the young lord.
+
+"Me?" He looked momentarily surprised that his point of view was being considered, but then worry fell over his features again. "Honestly, next to the rest of you, I feel like I'm the least able to do all this anchor stuff. I mean..." He gestured helplessly at himself in general.
+
+"Dev," Jerric said severely, "you're the one the augera contacted. There's got to be a reason for that. You put the guards in stasis. And when the augera plunged us into the arcanic space, you were the one who adjusted first out of all of us, then helped me get my bearings."
+
+Devon looked down at his feet, abashed, and muttered, "Could've been done by any of you."
+
+"But it wasn't," Jerric continued fiercely, going over to give Devon a little shake. "And that's the point Caden's trying to make. We're not ordinary. You're not ordinary."
+
+"Alright, alright!" Devon cried out, raising his hands in surrender and shrugging away from Jerric. "For what it's worth, I do believe in Caden eventually being able to placate the augera, and even if I'm not sure what use I'll be–"
+
+"Devon–" Jerric's voice contained a hint of menace now.
+
+"–I'm sure I'll be a great help, even if I can't see it now," he finished, reaching over for an eclair and snatching it up with unnecessary violence. He preoccupied himself with eating it, avoiding everyone else's gaze.
+
+Caden gave a little cough. "So... that's Devon, Jerric, and Emilia. It's just down to the two of you now. Kev? Ly?"
+
+There was a little part of him that shied away from addressing them in such a familiar manner. Over the course of the semester, he had spoken to them like this many times before, but after what had happened, it felt odd coming out of his lips now. Still, he squashed that impulse to aversion (however understandable and justifiable, given what they had done) because he was tasting it in the air again – the tension that signalled a point of confluence in the threads of fate. This was a moment to extend an olive branch to the twins and add another brick to the road of reconciliation. He had to be the bigger person here and start doing the work first if he wanted their support when the time came.
+
+Emilia turned out to be right – the 'damage' to Kevan's auric-ambient-flare was making him less difficult to deal with. He was the first of the two to give Caden a nod, and he did it with the minimum amount of grudging concession. Lynus looked deeply unhappy with his brother's capitulation, but he wasn't able to muster any reasoned argument.
+
+"It makes sense," Lynus said, relenting. "It doesn't feel right to me now... but it makes sense."
+
+Relief washed over Caden. He sat down and helped himself to an eclair. "So... we'll talk Ambrose through everything that's happened when he arrives. And after that... we put all of Devon's hard work here to use, and find ourselves another wild augera."

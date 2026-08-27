@@ -1,0 +1,119 @@
+---
+id: e24707da-26fa-5dd8-b852-3e5773d733c7
+page-type-slug: story-chapter-royal-road
+title: "20: The Tutorial Shop"
+slug: 0020-20-the-tutorial-shop
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 20
+ownLength: 1363
+unit: words
+publishedAt: 2024-10-27
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1871011/20-the-tutorial-shop"
+royalRoadId: "1871011"
+---
+
+20:
+
+Jack blinked.
+
+While he hadn’t forgotten about the Tutorial Shop, so much had happened in the past twenty four hours that it was hard to keep it at the forefront of his mind. He’d ended up changing more in a day than he had in the preceding decade, but the trial he was facing had only begun.
+
+Show me, Jack thought-commanded.
+
+[Tutorial Shop
+
+More items will be added to the shop in twenty four hour intervals.
+
+Available TP: 3566]
+
+Jack wasn’t surprised to find that his available reserve of TP had gone to over four thousand points. While he had been in a bit of a trance after Trent’s death and admittedly hadn’t been paying too much attention to the TP and loot he was getting for his kills, it was in line with what he remembered.
+
+With him taking the lead and his Qi Pulse having reached level 3 then, Jack had taken out one berserker variant Rift Goblin and five Rift Goblin assassins. Sarah had dealt with the other three, working in tandem with him. Letting Sarah trail behind him did focus most of the risk onto him, but he had advantages in the form of the Twilight Armor’s Chest Piece, his Silvercrest Cape and the Greater Recovery Pill that he was pretty sure he’d looted from Trent.
+
+And it had paid off.
+
+Sarah had contributed greatly to the fight with the deadlier Rift Goblin Berserkers. The dangerous part about fighting them was their own disregard for their safety, as they charged through the forest after spotting him without fear of ranged attacks with a hefty greataxe.
+
+She had killed the first one after Jack had dodged the Rift Goblin Berserker’s strike by throwing himself to the side. It’s greataxe had cleaved through the earth where Jack had been standing a mere moment ago, embedding itself halfway through.
+
+Sarah had taken advantage of that opening by thrusting her Qi spear towards the back of the Rift Goblin Berserker’s skull, felling it in a single blow.
+
+It was a testament to her growth that she’d managed to fell it so effortlessly and Jack suspected that not even Sarah was aware of just how much her demeanour, her body language, all encompassed by a single term that was her aura, had changed in a mere day.
+
+Unfortunately, the second time Sarah tried the same gambit, the Rift Goblin Berserker managed to instinctively dodge to the left, reducing what should’ve been a fatal wound to a scrape. Jack felled that one eventually, relying on baiting and dodging to chip away at its stamina before he unleashed a kesagiri cut from the hasso-no-kamae stance.
+
+The strength behind his diagonal cut was enough to carve a deep gash into the Rift Goblin Berserker’s chest, to the point where its innards had been exposed to the air. Jack had retreated because he expected it to keep going with its frenzied charge, but the damage had been enough to fell it.
+
+Sarah’s final tally had been two Rift Goblin Assassins and one berserker, putting their total count at nine.
+
+Jack was pretty sure that Sarah had gotten a similar number of experience and tutorial points as he had, even though his final kill count was double hers, because he was fighting Rift Beasts that were one level lower than him and he’d only gotten about 500 soul experience per kill versus the whopping near 1200 he’d gotten for killing a male Silvercrest Wolf.
+
+For that same reason, his tutorial points haul was lower than he had expected.
+
+Thankfully, his skills were not dependent on the soul experience he got, as far as Jack coil;d tell.
+
+So far, the more he had used them, the faster they had levelled up.
+
+After the end of the fighting, Inspect and Qi Pulse had reached level 4 while Qi Blade had reached level 5.
+
+His class was also pretty close to reaching the next level, where if he was lucky, Jack would unlock a new skill.
+
+“Did you get the notification too?” Sarah asked, snapping him out of his reverie.
+
+Jack nodded, sucking a cool breath of air before he replied, “Yeah. It’s almost overwhelming.”
+
+“What is?” Sarah asked, sending a puzzled look his way.
+
+“I know that there’s always someone better out there, but the fact that there’s someone who can already throw around fifteen thousand tutorial points rankles,” Jack admitted with a frown.
+
+“Fifteen thousand?” Sarah repeated, the question in her tone evident.
+
+“He bought a cultivation technique called Tenfold Strike,” Jack replied. “System, what does it do?” He asked.
+
+A moment passed and no blue box popped up to clarify.
+
+Oh, you’ve got to be kidding me, Jack thought sourly. “Sarah, can you try and ask the system what any of the items in the tutorial shop do?”
+
+“On it,” Sarah teresly replied, her attention shifting to a screen that was invisible for all but her.
+
+“It’s not letting me see any of the descriptions,” Sarah answered a few moments later. “I even tried to use inspect on it, but it just told me that I was looking at a System Avatar and that my inspect skill was too low to be granted access to any further information.”
+
+“Damn it,” Jack grumbled under his breath. “They made a trial out of the tutorial shop,” He said sourly.
+
+“What do you think? What’s worth buying?” Sarah asked, an undeniable intrigue audible in her tone.
+
+“How many tutorial points do you have?” Jack asked.
+
+“Nineteen hundred.”
+
+Jack nodded, before he pulled a Greater Recovery Pill from his pocket and used his Level 4 Inspect upon it.
+
+[Greater Recovery Pill, Adept Ranked Alchemical Pill
+
+Description: A Greater Recovery Pill refined by a competent alchemist. Heals flesh wounds 75% faster than a regular Recovery Pill. Capable of healing damage to bones without leaving any scarring or inefficiencies in the healing process. Seals off open wounds 100% faster than a regular recovery pill on a priority basis.]
+
+“I don’t have an exact benchmark for you,” Jack explained. “But I just used inspect on a Greater Recovery Pill and that gives me a benchmark for what 500 TP buys.”
+
+Jack then proceeded to repeat the system’s description to Sarah, who’s eyes widened as she gazed at the Greater Recovery Pill with newfound respect.
+
+“That is lifesaving,” Sarah replied, with an ordinary recovery pill in her hand. Jack had used inspect on it as well and had found himself largely underwhelmed. It did heal non-lethal wounds, sure, but it was slow and crude when it came to healing the bone. At level 4, Inspect even told him that repeated use of the ordinary recovery pill to heal bone damage would cause his bones to become brittle.
+
+“It is,” Jack said. “Which means that the tenfold strike cultivation technique probably means exactly what it says and that…sounds like a nightmare to fight.”
+
+Sarah shuddered, before shaking her head. Only one person had bought the tenfold strike cultivation technique and the odds of them running into them were negligible.
+
+“I think I’m going to get one body refinement stone and three Qi Gathering Pills,” Jack said.
+
+“The stone?” Sarah asked, sounding confused. “Why?”
+
+“Our Race,” Jack replied. “I think it’s a hint. Human— Unrefined. If the Body Refinement Stone unlocks a path towards improving my genetic makeup somehow, it might be invaluable. Or I’m wrong and I end up buying something completely worthless for a thousand TP.”
+
+Sarah fell silent as she deliberated on Jack’s words, while he sweeped the surroundings again.
+
+Jack didn’t know if it was because of his 12 in perception, his repeated use of Qi Pulse making him better at sensing things or simply a matter of luck that he spotted a glint of light reflecting off a metallic surface from within a dense patch of shrubbery beneath them.
+
+But the fact of the matter was that he’d seen it.
+
+Jack lunged forward, his hands wrapping around Sarah’s back as they tumbled down the Anarix tree they had climbed.
+
+A moment later, a metal tipped arrow that was now ensconced in a layer of Qi when whirring past where Sarah had been sitting.

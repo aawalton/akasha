@@ -1,0 +1,111 @@
+---
+id: ca13496a-f9b0-580a-89e9-8b65540742d9
+page-type-slug: story-chapter-royal-road
+title: "v6c5: Through a Falcon's Eyes"
+slug: 0193-v6c5-through-a-falcon-s-eyes
+partOf: beware-of-chicken
+position: 193
+ownLength: 1650
+unit: words
+ownProgress: 1650
+publishedAt: 2025-03-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2135975/v6c5-through-a-falcons-eyes"
+royalRoadId: "2135975"
+markedReadAt: "2026-06-29T18:57:56.411Z"
+---
+
+“… first thing in the morning he takes a big swig—and gets a mouthful of horse piss!”
+
+Tianzhe Minyan, who had been restraining herself, couldn’t help the honest laughter that broke free. Ge and Shou made not even a token effort—both started howling. Ge was holding his stomach, while Shou was hitting the table with his fist. Yukong’s shoulders shook with mirth, hand planted onto her face as if to hide her laughter..
+
+Minyan could just imagine Shen Yu, his eyes bugged out comically and a look of dawning horror upon his face—an expression she had seen enough times.
+
+And really, the sheer audacity! That a boy had dared to visit such indignities upon the Unconquered Blade—and that Shen Yu had fallen for them—was truly adding flowers to a lovely view.
+
+“How did you even get enough horse piss to fill a drinking gourd?” Ge asked, a giant grin on his face.
+
+“With patience, quick feet, and a bucket,” was the cheeky reply, provoking a fresh round of laughter.
+
+“Nephew, your uncle pays his respects to your skill!” Shou managed to get out between his laughs, and Minyan shook her head with amusement. Shou had always been prickly and concerned with propriety… but that was apparently thrown behind his head when the target was Shen Yu.
+
+“Look at this. I do everything for him, and he visits such a grievous injury upon his Grandfather!” Shen Yu had a look of mock offense on his face, but he too had a massive smile, his eyes twinkling as he just laughed along with the tale.
+
+“Haaa?! You deserved it, you old goat! I bought those candied nuts with my own money, and you decided that they went well with your booze!” came the instant rebuttal, and both of them started childishly swatting at each other. Beside the boy, his wife and Shen Yu’s other disciple—in his human form—were chuckling along. All of the others had retired to look after the babe and grant them some privacy.
+
+It was an honest struggle for Minyan to compose herself enough to stop laughing at the tale. The boy was not just good but great at telling stories. His depictions of the antics he’d indulged in was enough to break even Minyan’s composure.
+
+She finally managed to calm herself by taking a sip of the mead, a pleasant, golden yellow drink that tasted and felt like the first time she had ever consumed alcohol—warm in all the right ways.
+
+They were quite deep into their cups, all of the high level cultivators allowing the pleasant buzz to be felt. Minyan took one of the last rice noodle rolls, filled with beef, fresh herbs, and familiar spices. Shen Yu had most assuredly kept and instructed the boy on how to use the spices, but the fact that he had gotten this close to the familiar taste of the Isle was impressive.
+
+She looked up at the boy and his bright smile, then sighed.
+
+Minyan had arrived at this place wanting to dislike the boy.
+
+When she had first met him and he had been introduced as Shen Yu’s grandson, she had nearly struck him down. Grandson. The blood of that beast, the wicked fruit of that woman. The woman who had ruined everything. Who had stolen Shen Yu’s heart, wrapped him around her fingers, only to produce a disgusting, vile creature—a worthless thing that killed her.
+
+Pathetic.
+
+Even thinking about it made Minyan’s Qi grow sharp and jagged, like icicles violently bursting out of a body.
+
+She hated few things—most simply were not worthy of that level of her attention. She was indifferent to them.
+
+Tianzhe Minyan loathed that bitch and her spawn with every fiber of her being.
+
+They had marred, tarnished the wonderful, beautiful blade she had gotten the privilege of seeing forged. A blade of such breathtaking majesty that it shone over the entire world.
+
+One of her oldest and dearest friends, the one she had known would ascend and become immortal—reduced.
+
+Her heart broke, and at the same time it burned with fury that he was doing that to himself. Hurting himself for nothing. It had been a monster. Cast it down and think no more on it.
+
+Shen Yu had nearly broken from her. He had then run from the very thing that had brought him low, refusing to sire more children. A weakness. A flaw in his cultivation. One that saw him turn from the vital force that he was, the Unconquered Blade, into something nearly unworthy of himself.
+
+He should be stronger than that. He would be stronger than that… perhaps with some more time, had been her thought.
+
+But alas, what was done was done. And today, for the first time in over three hundred years… she could see true light in Shen Yu’s eyes again.
+
+For that the boy—Rou Jin—was… acceptable. If Shen Yu had broken his oath to sire no more children, she still would have been wroth. For him to know of her desires and still do that? No. She did not think even Shen Yu would dare. But a boy taken off the streets and raised as an apprentice? Specifically because he reminded Shen Yu of himself?
+
+That was only right. Had Minyan not promised to take in any recruit who managed to climb the eighteen Li tall Spiritual Herb Stalk that connected Soaring Heaven’s Isle to the land below, just as her own Master had done for her?
+
+In that… Minyan could see no fault nor take offense for his adoption.
+
+And even without his relation to Shen Yu… he didn't have a bad temperament. She turned her eyes to him—he noticed her quick glance and his eyes flicked down to her cup, which was nearly empty. Wordlessly, he raised a bottle of his mead, and at her nod he filled her cup, both hands on the bottle to properly show his respect.
+
+She could never imagine that creature lowering himself to serve anyone anything. She didn’t even remember him pouring his father’s cup, the few times she had been able to stomach his presence.
+
+By any standard, Jin’s demeanor was entirely tolerable. Perhaps a touch too familiar, and just a bit too boisterous… but considering his upbringing, that was entirely acceptable.
+
+He had even avoided the trap most men fell into—his eyes had not wandered. Even when he had greeted the Disciples of Soaring Heaven’s Isle’s sect, he had been more concerned with getting them food than appreciating their beauty.
+
+Seiyu had been quite taken with him, and she would probably be inconsolable with the fact that he was already married… if she did not take it as a challenge. And a challenge she would likely fail.
+
+He was a good, upstanding, and virtuous young man. The Spirit Beasts around him, those creatures that were normally harbingers of destruction, all bowed their heads and called him Master with genuine reverence. Minyan had only known of one awakened Spirit Beast that was like these ones… and that had been her fellow Elder, Han Song’s, childhood dog. A dragon lived in Jin’s halls of his own free will. Not only that but as the… chef.
+
+His wife was no quiet flower either. Hong Meiling had genuine skills; Shen Yu was right, Minyan did want her for the Sect. The Anti-Demonic Qi Formation was a brilliantly simple piece of work—but Minyan knew that even if she did make the offer, she would be refused. Hong Meiling’s child was new to this world, and asking a mother to leave so soon after birth was rank stupidity.
+
+She had been impressed with Jin’s talent for growing herbs. Shou’s praise was no small thing, and even her fellow Elders, Lili and Dongmei, freely admitted the Hidden Forest’s mastery of Spiritual Herbs.
+
+But he was also unguarded. He spoke and gave away knowledge too freely, and now Minyan knew how to grow the Silver Yin Lotus. He readily answered her questions when she idly asked about them, and even showed them the underlying meaning and methods of his techniques. Minyan knew nothing of beekeeping, but she was fairly certain that one had to destroy the hive to collect the honey—those sliding frames were a clever notion done well, and she would remember them.
+
+It was a bit annoying that he was so tolerable. She would have to figure out some way to repay him, instead of taking them as her due. Tolerable and… softer than Shen Yu had been at that age. Well, not softer—calmer. Less angry at the world, less ready to fight it tooth and nail.
+
+She could see the quiet strength in his eyes. It almost seemed beyond his years, and she had a feeling it had to do with whatever had caused Ge and the Cloudy Sword Sect to apologise to him. Something fateful had happened. Something that had driven Shen Yu’s boy here. A mystery.
+
+For a moment, she contemplated disturbing the peace and asking what happened.
+
+For a moment.
+
+Instead, she looked into Shen Yu’s eyes. The blazing, unclouded eyes.
+
+… the boy was good for him. Shen Yu’s path was finally correcting itself. Why ruin a good thing for the sake of mere curiosity, when she could tease the story from Shen Yu’s lips?
+
+So instead, she simply sat back and listened. She listened to a childhood in Crimson Crucible City… and then a story about a young man, his cock, and his wife, on a freshly cleared plot of land.
+
+From a rooster’s first thoughts and experiences, to a wedding, to a dramatic tournament finish. Up until a battle less than a month finished.
+
+Ge and Shen Yu chimed in with their own stories.
+
+Most of the stories were not particularly grand. Yet Tianzhe Minyan found herself enjoying them all the same.
+
+This place… wasn’t bad, she decided. Not bad at all.

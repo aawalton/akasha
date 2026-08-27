@@ -1,0 +1,111 @@
+---
+id: 353d5983-60b0-5181-b0d5-822f4629176d
+page-type-slug: story-chapter-royal-road
+title: "Interlude - Bonus Content - Black Crow//White Dove"
+slug: 0005-interlude-bonus-content-black-crow-white-dove
+partOf: beneath-the-dragoneye-moons
+position: 5
+ownLength: 315
+unit: words
+publishedAt: 2021-02-28
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/639242/interlude-bonus-content-black-crowwhite-dove"
+royalRoadId: "639242"
+---
+
+Black Crow! White Dove!
+
+
+ 
+
+
+There was once a pale woman, who nearly every living being must meet. And yet, they feared this meeting, ran from her, shunned her. Loneliness was her only companion.
+
+
+ 
+
+
+So she split herself in twain, so she would always have a friend.
+
+
+ 
+
+
+White Dove offers wings to those who are ready to meet their end. Black Crow violently wrenches away those who stubbornly cling to life.
+
+
+ 
+
+
+They are two sides of the same coin. Never apart, never seen together, there is only one. A coin, flipping eternally.
+
+
+But two.
+
+
+ 
+
+
+White Dove//Black Crow also curse all humanoids (I'm not cursing turtles) who are unable to meet them naturally. Some races are naturally long-lived, and the curse is racial. Others find their way to immortality their own way, and get a unique curse. A few I know so far:
+
+
+ 
+
+
+1) Elves are cursed to be stubborn and aloof
+
+
+2) Trolls are cursed to petrify under the sun
+
+
+3) Vampires are cursed to lose all System blessings under the sun
+
+
+4) Liches are cursed to be unable to reproduce
+
+
+5) Ents are cursed with being deliberate - they must be Very Certain of what they are doing before they do it.
+
+
+6) Demons are cursed to chase mortal pleasures, but unable to properly enjoy them
+
+
+7) Sphinxes speak in riddles
+
+
+8) Dryads are bound to their tree
+
+
+ 
+
+
+ 
+
+
+A few creatures are extraordinarily long-lived, but not properly immortal. This includes:
+
+
+1) Giants - they have a lifespan measured in 5 digits, but they can die of old age.
+
+
+2) Most dinosaurs
+
+
+ 
+
+
+ 
+
+
+Notable exceptions:
+
+
+1) Phoenixes do die - they're just one of the only creatures that can come back. White Dove//Black Crow has given up on them - they are dying after all....
+
+
+ 
+
+
+I know I've missed dozens of humanoids - let me know who else I'm missing!
+
+
+Cheers, hope you enjoy the bonus content.

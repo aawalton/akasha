@@ -1,0 +1,147 @@
+---
+id: 56001165-a57a-5c6f-8c3a-894c589c8e3a
+page-type-slug: story-chapter-royal-road
+title: "v6c16: The Hills and Valleys of Life"
+slug: 0204-v6c16-the-hills-and-valleys-of-life
+partOf: beware-of-chicken
+position: 204
+ownLength: 2354
+unit: words
+ownProgress: 2354
+publishedAt: 2025-04-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2221439/v6c16-the-hills-and-valleys-of-life"
+royalRoadId: "2221439"
+markedReadAt: "2026-06-29T18:58:20.505Z"
+---
+
+Going tobogganing proved to be just the thing we all needed. One of the hills in the back was a bit misshapen from the battle, but it had emerged largely unscathed.
+
+“Waaaaaaaah!” Zhuye cheered as we thundered down the slope. He was in his momma’s lap, and Meimei was in my lap, all three of us on the piece of wood. He raised his little arms in the air and hollered for all he was worth.
+
+Both of us couldn’t help but laugh at the enthusiasm. It was his first time on the slopes, and the little man had fallen in love instantly.
+
+“Was that fun?” Meimei asked him as we hit the bottom and finally stopped. Zhuye’s response was to make a ‘guuuuuu!’ noise, and start bouncing up and down.
+
+“Want to go again?” I asked. I don’t think he understood the question, but he certainly understood me getting off the toboggan and beginning the climb, the sled behind me. His bouncy cooing noise got louder and more enthusiastic as we got higher up the hill.
+
+Beside us, the slope was full of traffic. Big D and Rizzo, both in human form, went down nearby laughing with good cheer. The small woman had a comfortable seat in between Big D’s legs and was leaning backwards against his chest.
+
+Peppa and Chunky, also in human form, had decided to forgo a sled and instead had a different, much more draconic steed. Washy belly slid down the hill way faster than we had gone. He had used his hydrokinesis to melt and refreeze several sections of the hill, creating several advanced courses that were rather intense, even for us cultivators. The prim and proper Peppa leaned forwards and used Washy’s horns like a motorcycle’s handlebars, while the giant Chunky let out thunderous laughs while holding onto her waist.
+
+Gou, Xianghua, and Bowu were on their own toboggan, having chosen a bit less of an advanced course, while Yun Ren was using the skis I had made for him last year, carving down the slope beside them… along with Babe. Apparently me calling the technique ‘carving’ had piqued his interest, and so he was standing on a piece of wood and ‘cutting’ his way down the hill, his plow on the planks behind him.
+
+Yin was using one of Washy’s ice tracks, Huo Ten on her back and Noodle on her arm. The monkey was hooting and hollering at the speed they were going, and then on one corner he jumped up and grabbed Yin’s arm so he could swing out wide before being pulled back in.
+
+The Torrent Rider was, of course, on the hardest course, doing tricks on a halfpipe. Delun had decided to take the slower route and had Shaggy Two in the toboggan with him, the dog barking excitedly at every trick that the young man performed. Considering he had no foot straps, it was more snow surfing on a plank of wood than snowboarding, and honestly that made it more impressive as he performed what was basically a 2340° spin and aced the landing like it was nothing.
+
+Tigu and Xiulan were clearly having a bit of a race down the hill—only for both of them to get beaten by Spooks, much to the young Thunderhoof’s amusement.
+
+We eventually reached the top again. Gramps was seated at the top of the hill, looking amused at the activities. He had some tea and a small smile. I left him to it and I maneuvered us into position on one of the more gentle parts of the slope.
+
+But before I could get back in behind Meimei, I heard the pounding of feet. I looked up just in time to see somebody else jump into my spot.
+
+Tigu grinned and looked at me hopefully—then squawked as Big D in human form shoved himself in behind her, leaning forward to hug Meimei and squashing the orange haired girl between them. Big D didn’t wait, shoving off with his legs and sending them back down the hill.
+
+“Waaaaah!” cheered Zhuye
+
+“Yeaaaaah!” cheered Meimei.
+
+“Don’t squeeze so hard, stuuuuuupid!” roared Tigu.
+
+“Ahahahaha—ack! No biting! No biting!” yelped Big D as Tigu sunk her teeth onto one of the offending limbs keeping her from raising her arms to cheer.
+
+The toboggan bounced and jolted all the way down the hill until at the end, where Big D and Tigu bailed out with an explosion of snow. With two pops, a cat and rooster raced off, the rooster pecking at the cat’s head while the cat hissed and spat and batted at the ball of feathers chasing her.
+
+Then there was another pop as they returned to human form and just started wrestling in the snow. The normally regal-looking Big D looked significantly less regal with his red cap pulled over his eyes while he and Tigu flailed at each other. Not really fighting, and all technique forgotten as they simply tried to shove each other… until they both collapsed in the snow and started laughing.
+
+They acted so mature most of the time, but they really were just big kids.
+
+Not that I was any different.
+
+Meimei, for a moment, looked like she wanted to scold them for involving Zhuye, but instead just sighed and shook her head, looking back up the slope at me and shaking her head again. I turned to where I also had company; Rizzo and Xianghua just shook their heads at what was going on. Xiulan dropped her sled and turned to Rizzo who had dropped her own. Taking the invitation, both of them went down the hill together.
+
+I looked at the abandoned piece of wood, and then turned to the old man.
+
+“Hey, Gramps!” I called. He turned to look at me, and then at the toboggan.
+
+Shen Yu rose regally from his seat and got in behind me on the sled.
+
+It was a nice ride until halfway down, where I purposefully torqued it. The sled jerked sideways, hit a patch of snow, and spilled us both out.
+
+The old man stared at me as I started laughing. Soon enough, he joined in.
+
+For long enough for me to let down my guard, and then I found a snowball smacking me in the face.
+
+Man, all we needed was hot chocolate and this would be perfect.
+
+===========================
+
+We spent most of the day outside—Zhuye was so bundled up he couldn’t really feel the cold, and when it was finally time to stop going down the hill he threw a little bit of a tantrum.
+
+Not full on screaming, but he was definitely upset it was time to stop the fun. It was a little bit of a downer… though also kind of funny because it was the first time Xiulan’s braids didn’t do the trick of distracting him.
+
+Poor Lanlan looked like the Heavens themselves had fallen when he turned his nose up at the tickling braids. The thing to finally get him to stop grumbling was riding on Chunky's back…. and I had to cheer Xiulan up with ice cream and assurances that she was still Little D’s favourite aunt.
+
+We had our dinner, a familiar one of breaded chicken, Seven Fragrance Jewel Herbs, mashed potatoes, and rehydrated mushrooms. We also broke into our stores of salted fish, finishing up the first set of preserves I had made on the farm. They weren’t my finest work, but they tasted fine enough.
+
+After dinner Zhuye forgot that he was upset with Xiulan and reached for her, much to her delight.
+
+We got the dishes cleaned… or rather, Washy got the dishes cleaned, we relaxed for a bit, and then people started going their separate ways to get ready for bed.
+
+Gramps, however, had other plans.
+
+“Jin, join me on the roof for a drink, my boy,” he said. I looked to Meimei, who just nodded with a smile, and I set off to spend some time with the old man.
+
+The roof was always a wonderful place to relax, especially since the cold didn’t really bother most of us. We could look out over the farm with cups of warmed wine.
+
+“Man, that fortress is a bit of an eyesore, innit?” I asked as we settled down. It had been useful, but it totally ruined the skyline.
+
+“Its roof could do with a bit of reworking,” Gramps agreed. We clinked cups, and I leaned back to look at the stars. We lapsed into silence for a bit, and then Gramps turned to me. “So…” he ventured. “What are your thoughts on the Elders of the Cloudy Sword Sect?”
+
+I raised an eyebrow, both at the vague question and at the slight tension in the old man’s voice, but I answered him honestly.
+
+“I liked them.” I noticed the slightly relieved smile that came to his face. “I’m glad I got to meet them, Elder Shou especially. It was nice to have somebody to talk to about Spiritual Herbs with.”
+
+“That was the most animated I’ve ever seen him! He's normally all so stiff and boring, but that? If I hadn’t seen it with my own eyes, I never would have believed somebody if they said he could smile that much!” Gramps replied. “Well, outside his wedding with Yukong, that is.”
+
+“She seemed pretty nice. Meimei liked her, at least. And it was kind of funny that she had to keep reminding Shou that there were things other than Spiritual Herbs on the farm.”
+
+“Oh, she does that too, but with formations. One time I remember we literally had to drag her out of a collapsing Hidden Realm! She moped all the way back to the Sect, and to this day she maintains she would have been fine and gotten out! She most certainly wouldn’t have!” Gramps said with a fond smile.
+
+“Elder Ge struck me as a good friend. The responsible one, who keeps everyone in one piece.”
+
+“He is a good friend, but in his youth he was just as reckless as I was! Why, on our first mission, he completely blew our cover! He just jumped into the middle of the Sovereign Sword Sect members and started swinging!”
+
+I chuckled along as Gramps went off on a tangent, telling stories about Elder Ge and the rest of his friends who had visited. It was a romping tale full of twists and turns, battling against a Demonic Sect.
+
+“We finally fight our way out and into open air, but we can still hear the bastards behind us. But there! On the horizon, just like Minyan had promised. The ship, diving out of the sky like a falcon, Song and Lili blasting our foe out of the sky. We all start cheering, but Ran just freezes and says ‘I don’t think it's going to fit.’ It doesn’t. Minyan’s ship scrapes through the valley, grinding through stone, and she just keeps standing there with her arms crossed on the prow. When it finally grinds to a stop she just turns to us like this is completely according to plan and says, ‘Another perfect rescue.’ We had to dig the ship out of the side of the canyon, while we were getting attacked by half the enemy forces. Her master had her buff every scratch out of the ship by hand. She was lucky she wasn’t executed for that stunt. Turns out she hadn’t gotten permission to use the ship, she had just taken it, and when we got back she thanked her Master for letting her use the ship to rescue the sect’s comrades and the important hostages. The actual captain of the ship looked like she wanted to murder us all.” Gramps sighed with a fond smile. “Some days I still can’t believe she risked all that for us… but that's Minyan.”
+
+I chuckled at the end of the story, and took another swig of my wine. Gramps had a kind of wistful look on his face.
+
+“Speaking of Minyan, I saw you both sneaking off to your house multiple times,” I said with a teasing lit to my voice. “Am I gonna be getting a grandma soon?”
+
+I said it as a joke, but as soon as the words were out of my mouth, I could tell that I had stepped on a landmine. His good cheer faded from his face, and his laughter died in his throat.
+
+Gramps paused at my question… and then let out a little breath.
+
+“It's an old wound between us,” the old man finally said.
+
+I raised an eyebrow. He clearly had no problems doing the horizontal tango with her, but marrying her was a hang-up? Still, it was clearly an uncomfortable topic, and frankly… it wasn’t really any of my business. “Sorry for bringing it up,” I said instead.
+
+The old man sighed at my response and turned his gaze to the sky. “… no, it is fine. Meant nothing by it… and how could you know? I have told you little about myself.” The words sounded like a revelation from him.
+
+He was right. I really didn’t know too much about him. I had just assumed it was a strange old man cultivator thing, wanting to remain incognito. Honestly, I hadn’t minded much. It had made sense, if you were a powerful cultivator, to hide your family from your enemies, especially with just how famous the old man seemed to be.
+
+We sat in silence for a moment, and then Gramps slumped slightly. His rigid shoulders sagged under some invisible weight.
+
+Then, they firmed again, and the old man sat up straight.
+
+“Do you have time for one more story, Jin?” he asked me. “I can’t say it's a particularly nice one. But… I believe I owe you this story. I owe you the reason for why everything has turned out how it has with us.”
+
+I turned to face him.
+
+“Whatever you want to tell, I’ll listen,” I said.
+
+Gramps smiled at me. It was a bit crooked, but I could tell he appreciated it.
+
+“From the beginning, then.”

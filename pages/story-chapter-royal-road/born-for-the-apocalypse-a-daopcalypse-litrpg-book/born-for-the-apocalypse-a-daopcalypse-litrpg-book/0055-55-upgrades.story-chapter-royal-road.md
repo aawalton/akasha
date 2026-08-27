@@ -1,0 +1,131 @@
+---
+id: bc39d70f-3536-5c19-b766-b9acce12d5c4
+page-type-slug: story-chapter-royal-road
+title: "55: Upgrades"
+slug: 0055-55-upgrades
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 55
+ownLength: 2727
+unit: words
+publishedAt: 2025-02-10
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2059499/55-upgrades"
+royalRoadId: "2059499"
+---
+
+55:
+
+“How did you do that?” Sarah asked him as she watched the rest of the Sand Stalkers escape their line of sight, her tone laden with unfiltered awe.
+
+Jin and Marcus reached their side before Jack could respond, their gazes a mix of confusion and shock as they watched the Sand Stalkers get beaten back into retreat by an unseen force, as if they had been confronted by a Werewolf instead of a man.
+
+“The giant scorpions, or Sand Stalkers I suppose, mistakenly think that I’m the juvenile werewolf we fought earlier. It’ll work for now, but they’ll be back sooner or later if there was something keeping them in this area. Don’t count on me to push them back again, I don’t think this will work twice,” Jack explained, only offering half the truth he could.
+
+The Slaughter Aura was effective, there was no doubt about it, but it had a cooldown of once in twenty four hours. If they came across more enemies before his Slaughter Aura was primed for use again, then he couldn’t have his group becoming complacent after having seen the collective threat the desert environment could pose to them. The exact depths of his abilities wasn’t something Jack was willing to let the group in on as a whole yet, either, though he would tell Sarah the moment they found an opportunity to converse without being overheard.
+
+It’s best to keep the Slaughter Aura as a last resort, especially because it won’t work if we run into something stronger than me. The temptation of safety, even if a temporary one, is a very tantalizing prospect, but if I slow down, the advantage I’ve built up will be eroded away and I’ll be at the mercy of the next Dao Mark user I run into, Jack grimly thought, as the doomsday prepper within him didn’t let him count on a magical power unlocking within him that would level the playing field. It was best to assume it wouldn’t happen and move forward by seizing every advantage he could. That said, for now, we could all use some rest.
+
+“Why don’t you appear any different to us?” Jin asked, as Jack caught her giving him a scrutinizing look.
+
+“Not sure,” Jack admitted as his gaze returned to scanning the sea of wind-sculpted dunes that stretched out for as far as his eyes could see. “If I had to guess, I would say that it’s likely for the Sand Stalkers to have sensory abilities that surpass our own in certain parameters, like being able to hear at higher frequencies or being able to see ultraviolet light. Regular scorpions can actually do the latter, but I don’t know what Sand Stalkers can and cannot do.”
+
+“Most animals' senses already exceeded ours, it’s disturbing to think about how that difference has widened even further,” Jin thoughtfully replied, taking his theory in her stride.
+
+“The difference is that now we can catch up,” Sarah joined the conversation, her tone one of unmasked conviction.
+
+“How long do we have before they return?” Marcus asked, his tone mellow and contemplative as he scanned the dunes for any sign of a threat.
+
+“I’m not sure,” Jack admitted. “But the way they retreated left some hints.”
+
+Marcus seemed surprised at that revelation, then his expression fell a little as he clenched his sword a little more forcefully before asking, “What hints?”
+
+“Tricking the Sand Stalkers into believing that I was a Werewolf wasn’t actively harming them in any manner, it just made them afraid. If they were confident in their speeds through the sand, then they would have burrowed deeper into the dunes instead of revealing themselves in their frenzied charge,” Jack explained. “The fact that they didn’t tells me that either they can’t travel too deep into in the earth for some reason or more likely, while they can hide in the sand and even hollow it out to create traps, their movement speed is too restricted while travelling underneath it.”
+
+“Traps?” Jin cut into the conversation, her tone of alarm not going by unnoticed.
+
+“Using Inspect on the Sand Stalkers told me that it was a thing they did. Definitely something to watch out for.”
+
+“So what you’re saying is that if they approach, we should see them coming?” Marcus asked, sounding a little annoyed at having his conversation derailed.
+
+“Hopefully,” Jack replied.
+
+“I’ll take hope,” Marcus said with a grunt.
+
+Jack nodded, “This is as good as a time we’ll get to get our equipment in order and get anything else we need from the Tutorial Shop. Use it wisely.”
+
+Sarah and Jin nodded at his words, while Marcus trudged back down the dune, stopping at the half-way mark before unceremoniously dropping onto his behind and seating himself on the dune’s incline.
+
+Marcus’s actions reminded Jack just how tired he was before he decided to do the same. Sarah seated herself next to him, while Jin remained standing as her eyes glazed over, clearly accessing the system and most likely, the tutorial shop at that.
+
+That’s right, conversations can wait, Jack thought, as he called upon the tutorial shop himself.
+
+[Tutorial Shop
+
+More items will be added to the shop in twenty four hour intervals.
+
+Available TP: 17,785]
+
+“Sarah, is spending five thousand points on a Rare Spear Artifact worth it?” Jin asked in a hasty tone. “They’re running out really quickly so I have to make a decision now,” She added.
+
+“Absolutely. The Moonspear let me fight against the Juvenile Werewolf and you saw just how quick that beast was,” Sarah replied, though she seemed distracted if her gaze flitting between Jin and the space before her where Jack was sure a system screen was staring back at her said anything.
+
+“You don’t have to answer if you’re uncomfortable, but in case you don’t mind, can I know what the Moonspear does, exactly?” Jin asked, the way she pursed her lips and fidgeted with her free hand’s fingers revealing her hesitation.
+
+“I don’t mind,” Sarah replied reassuringly. “The gist of it is that if you feed it Qi, the spear weighs less and gets an augmentation to the force and velocity it can generate.”
+
+“That’s in line with what I thought,” Jin muttered thoughtfully, more to herself than to Sarah. “If you and Jack have got speed covered, then maybe I should approach it from a different angle…,” She trailed off, but her gaze lit up with clarity as she turned to the front to face the system’s tutorial shop.
+
+Jack had barely been paying attention to Sarah and Jin’s conversation, just about enough to get the gist of it while his focus remained on the Tutorial Shop. In truth, he hadn’t expected to amass such a vast sum of TP as quickly as he had and Jack had made the decision to buy the Essence Syphon Art fully expecting that by the next time he managed to amass a similar reserve, every cultivation technique in the Tutorial Shop would be sold out.
+
+The new addition to the tutorial shop wasn’t an item he’d missed and Jack found it pretty interesting that the system would be willing to sell a Rare Qi Gathering Stage Artifact without putting any limits on it, but the prohibitive cost coupled with the presumably non-combat focus of the Portable Shelter made it an item very few cultivators would consider purchasing.
+
+Still, a portable shelter sounds like heaven, especially if it comes with a few defenses, He thought. If there were individuals in a group that prioritized the overall survival of the people in the group over their own, I can see the portable camp being an item that they’d purchase. That’s still an unlikely thing to do, since the system saw fit to pair us up with strangers, unless… someone stronger forced you to purchase it.
+
+It wasn’t a facet of the tutorial shop that Jack had considered before, but nothing had stopped Sarah from offering her Body Refinement Stone to Marcus and Jin to get the Feat for it, which also meant that if Jack was willing to coerce the weaker members of their group with threats or displays of force, then he could force them to buy items for him with the only cost being his humanity.
+
+The only counterbalance to such a realization was that for someone to amass TP, they needed to get stronger and in most cases, it was just easier to do it yourself, but Jack was certain that there were people out there that were forcing others, perhaps even targeting other groups and subordinating them into buying items for them, or just plain killing them with the downside that they would only get one of the items in their inventory— Jack was certain that after killing Andrew, Trent should have more items in his inventory, but he had only recovered a single item from looting him, a Greater Recovery Pill. Admittedly, the sequence of events involving Andrew and Trent had unfolded before the Tutorial Shop was active, which had made the Pill very valuable to him, making him wonder if a cultivator got the most valuable item from another after killing them, or if the item was chosen at random and Jack had just gotten lucky.
+
+Focus. What do you need right now? Jack asked himself, thinking back to the encounter with the Juvenile Werewolf, only for the answer to come to him in a matter of moments.
+
+Armor. I need armor, Jack determined, finding that his judgement was absent of any lingering doubts. Two more items had been added into the system shop, yet neither of them seemed to be combat oriented items and the Flowing Vitality Pill had also came with a frankly terrifying side-effect and the existing supply of armor sets was depleting at an alarming rate. If he passed up on a chance to acquire an armor set now, there was a very real possibility that he wouldn’t get one until the end of the Awakening Quest unless he got lucky with looting beasts.
+
+What do I want, though? As Jack asked himself the question, his gaze zeroed in one the most expensive cultivation art he could afford with his TP balance. Cultivation Technique: Tenfold Strike could either be a single, powerful strike that would require a lot of Qi or a sequence of strikes that were plausibly stronger than the last. Or the cultivation technique could be something else entirely. Any cultivation technique that would let him convert his Qi to powerful strikes was naturally powerful and if he had that technique in his battle against the Juvenile Werewolf, he might not have had to risk his life multiple times to use Primordial Claw on the incredibly quick beast to steal it’s Qi and use it against the beast.
+
+Yet, surprisingly enough, Jack wasn’t too interested in the technique. Tenfold strike might be powerful, sure, but the difference between a skill and a cultivation technique was something Jack now understood. Had tenfold strike been a skill, he would only need to input a known amount of Qi into it to get the desired results, but it was a cultivation technique, a framework that allowed him to understand and modulate Qi to devise an approach to the result. Using Primordial Claw on the Juvenile Werewolf’s paw had nearly caused his hand to burst open, because he was trying to subsume a quantity and concentration of Qi that far surpassed his own and using it on Marcus still burned him, because while regular Qi was something his Primordial Claw could devour, a Dao Mark’s Qi seemed to be attuned to the one the mark belonged to as such, a foreign energy that offered no immunity to him.
+
+A cultivation technique like Tenfold strike sounded like it would drain his Qi reserves at exaggerated paces, which didn’t interest him because Jack could already replicate that effect with the Essence Syphon Art against powerful opponents. Depleting his own Qi didn’t make sense when he could use his enemy’s, but more importantly, it wasn’t cultivation techniques Jack was chasing, but rather knowledge itself.
+
+The Essence Renewal Art was a lot more interesting to him. Anything that could let him renew his Qi was very valuable, but the lower cost told Jack that he shouldn’t be expecting too much from the cultivation technique. Still, the only other alternative available were Qi Gathering Pills and they were pretty terrible when it came due to the 24 hour cooldown and the 5 Qi Point limitation.
+
+If the Essence Renewal Art let him maintain his Qi Reserves, then Jack could use Qi Pulse at longer distances and more frequently without worrying about them dipping and he wouldn’t have to fight every battle as recklessly as the one he did with the Juvenile Werewolf. There was also the limitations of the Essence Syphon Art itself— Jack had used the Qi he stole from the Juvenile Werewolf to use Qi Sword and Qi Projection, but those had been external applications of Qi. Not only could he feel a resistance from the Qi when he had used it to fire off one Qi Projection after the next, but Primordial Claw wasn’t designed to regenerate his Qi reserves in the first place. The Essence Syphon Art’s Primordial Claw took regular Qi from the opponent, used it to increase the range of his claw while robbing the opponent of the Qi they had committed to the attack and finally, if Jack wanted to, he could either dismiss the excess Qi into the ambient environment or funnel it into an external skill.
+
+There was no instruction on how to add the stolen Qi to his own reserves, so Jack could either shove it down his meridians to see what happened or maintain the Primordial Claw for hours and days on end to see if the resistance from the Qi faded. Neither were options feasible for battle.
+
+Maybe there’s a possibility of Primordial Claw synergizing with Tenfold strike, but giving up a set of armor for only a single cultivation technique crosses the line of recklessness and becomes stupidity when I can get both, Jack thought, his decision made.
+
+[Cultivation Technique: Essence Renewal Art (Rare, Qi Gathering Stage— Foundation Establishment Stage) and Jade Guard Armor Set (Rare, Qi Gathering Stage Artifact Set 3/3) has been deposited into your inventory. 17500 TP has been subtracted. Available TP: 285]
+
+“Jack,” Sarah addressed him. “Do you think I should get the Tenfold Strike Cultivation Technique?” She asked.
+
+Jack turned to face her, his gaze doing a poor job of concealing his surprise, “Do you have enough TP for that?”
+
+“Just barely,” Sarah replied.
+
+“Huh,” Jack muttered. “Walk with me?”
+
+“Sure.”
+
+Jin had either the tact not to follow them or was lost in her own musings as she considered the system screen before reaching out to the void, likely in search of her newly purchased spear, as Jack and Sarah walked along the dune’s crest.
+
+“I bought the Essence Renewal Art. If you can look out for me, I’ll tell you what it does right now,” Jack explained once they had walked a reasonable enough distance from Jin. There were still chances that her enhanced senses would pick up on his words, but Jack wasn’t exactly going out of his way to hide it— if it worked anything like the Essence Syphon Art, it’s usage would be obvious enough.
+
+“Another one?” Sarah asked, her interest piqued.
+
+“I can’t pass up on any chances of growing stronger in the here and now, even if it means missing out on future opportunities,” Jack replied.
+
+Sarah nodded, before speaking, “I’ll look out for you.”
+
+Jack didn’t hesitate after receiving confirmation from Sarah, as he reached out for the void and pulled out a platinum canister that had a vivid gold etching upon it that immediately caught his eye. The depiction of a cultivator sitting cross legged with his eyes closed and his palms pressed against each other in a gesture of devotion didn’t give him much of a hint as he scrutinized it for any hints.
+
+Oh well, Jack thought as he tugged the lid of the canister free and tossed it back into his inventory before gently reaching for the scroll.
+
+There was no interference as Jack unfurled the scroll.

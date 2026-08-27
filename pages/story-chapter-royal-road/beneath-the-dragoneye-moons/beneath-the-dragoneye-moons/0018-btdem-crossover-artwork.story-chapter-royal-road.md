@@ -1,0 +1,17 @@
+---
+id: 5bbbb04e-8935-560d-ab26-04fff3b377f6
+page-type-slug: story-chapter-royal-road
+title: "BTDEM Crossover Artwork!"
+slug: 0018-btdem-crossover-artwork
+partOf: beneath-the-dragoneye-moons
+position: 18
+ownLength: 258
+unit: words
+publishedAt: 2023-10-15
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1374936/btdem-crossover-artwork"
+royalRoadId: "1374936"
+---
+
+Hey all!I saw Pirateaba was running an art quest THING and thought "Hey, wouldn't a crossover with a number of pirate's favorite authors be cool?"Quite a bit of coordinate later, and a large artwork purchase, and we have the crossover!Titles and authors left to right!Jin from BOCMei Ling from BOCUlvama the goblin from TWIErin from TWI(Above)Auri from BTDEMBi D (Big D) from BOCApista from TWI(Below)Salvos from SalvosMelas from Melas (Anyone noticing a trend with MelasD's character/book names...?)Elaine from BTDEMIona from BTDEMStolen from its original source, this story is not meant to be on Amazon; report any sightings.Had a great time coordinating this, and now artwork for everyone!On a posting-related note:All posts for the week have been loaded, and should all post at exactly the same time - 10PM EST. I'm going to try to have this be a pattern moving forward where all posts are prescheduled and come out at exactly the same time and day every week. No telling if I'll be able to keep up with it, so no commitment, but I'd like it to be the case.Also no idea if RR schedule will work exactly the same!
+
+A little sorry for the double not-a-chapter posts, but as I mentioned I've already scheduled all the posts for the week and I don't want to fiddle with it. Post incoming soonish!! No ads on this one because that'd just be cruel.Also, the new posting time is 4AM my time, aka... first post is open and available for those members of the F5 sect who want it!Cheers all,Selkie

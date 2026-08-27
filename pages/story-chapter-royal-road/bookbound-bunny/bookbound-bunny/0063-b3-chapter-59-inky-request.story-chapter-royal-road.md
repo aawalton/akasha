@@ -1,0 +1,177 @@
+---
+id: 58a9e963-3898-5034-abd4-a62bd67d574b
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 59 - Inky Request"
+slug: 0063-b3-chapter-59-inky-request
+partOf: bookbound-bunny
+position: 63
+ownLength: 2344
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3610845/b3-chapter-59-inky-request"
+royalRoadId: "3610845"
+---
+
+With the festival only a few days away, the excitement was palpable around the school, and it seemed a convoy of supplies was being brought in. Not only that, Regarth started having visitors arrive and stay in Kaeling, which Lily soon found out were some of the students' parents.
+
+Since it was timely and costly to come all the way here, and the event was just a few days away, only a few chose to come. From what Lily gathered, it was only the wealthy and even then, only if the student was a top performer. Lily was initially dumbfounded by this until Hana explained it.
+
+"For a lot of nobles, pride is everything to them, so unless their kid has a good shot at winning, they won't come. If they came out all the way here only for their child to lose, it would be like throwing mud on their face. You'll probably find most of the parents who made the trip are merchants who can afford the trip and even try to turn it into a business opportunity."
+
+"Are your parents coming?" Lily asked.
+
+"They have to," Hana answered. "Since the Viremonts are coming."
+
+Lily nodded, assuming it was some kind of political drama between their two families, although another question suddenly itched in her mind. "Sorry for only asking this now, but who is your family? I don't think you mentioned them."
+
+Hana gave a defeated chuckle. "Yeah… I didn't for a reason."
+
+"Sorry, I didn't mean to pry; you don't need to answer."
+
+"No, it's fine. It's just… Messy," Hana said with a sigh, before she perked up. "Okay, so my father's side of the family is Vandriel, lots of wind mages thanks to the pegasus bloodline, and somewhat famous in the adventurer scene. My mother's family is Lucaryn, a sort of old noble family with unicorn blood and light magic. Then I'm part of the Lucandriel family, since I have both bloodlines."
+
+"So you technically have three names?" Lily asked in surprise.
+
+"I told you it was messy. The arrangement between our two families is that the child takes the name of whichever bloodline manifests. Although apparently when I was born, there was even a big fuss about changing the joint name to be something with Vandriel in front because my father was from their side family..."
+
+"I'm sorry," Lily replied, not really sure what else she could say.
+
+"Don't be, my parents are fine, it was the old fogeys in the family that were causing the trouble. At least my great-grandfather shielded me from most of that drama, which was why I was happy to take the Lucandriel name."
+
+Lily nodded, relieved to hear that Hana's parents were good to her. The conversation, unfortunately, reminded Lily that somewhere in the world was Andreas, her biological father, who had left her.
+
+I'd rather have Arakil adopt me.
+
+***
+
+As the week went on, Lily received a rather unexpected request from Professor Sylwel. "Can you draw me several glyphs according to an exact specification?"
+
+"What for?" Lily asked curiously.
+
+"For the competition," Sylwel replied. "My thought was that if everyone has the exact same flames, at the exact same temperatures, for the exact same durations, then the best alchemist will be revealed!"
+
+Lily was startled by the sudden outburst, but eventually understood the professor. What he said actually made sense, and it would be a rather good way to standardize the test, as there were no hidden surprises in a perfectly designed glyph.
+
+"Sure, how are we going to go about this?" Lily asked.
+
+"Well, we can't use chalk as that could still be up to the quality of the students, Mana," Sylwel replied.
+
+"I can draw the glyphs with my wand," Lily offered.
+
+Sylwel shook his head. "No, that won't do, people don't understand those and might think you cheated. Of course, if you and Lotte dropped out, we could go with that arrangement."
+
+"What? No way," Lily whined.
+
+"Exactly. So instead, we will go with ink," Sylwel answered.
+
+"I don't think I have enough Fairymoss…" Lily hesitantly replied.
+
+"Of course, which is why we will be making a new ink!"
+
+Lily blinked in surprise.
+
+"You just want an excuse to brew something new and exciting," Professor Ollie suddenly said, walking into the laboratory.
+
+"Ah, my accomplice has arrived," Sylwel said with a sly grin.
+
+"Accomplice? More like your babysitter,"  Ollie grumbled.
+
+"I brought this one to assist you," Sylwel said to Lily. "You can design the glyphs to meet my standards, and he will provide the grunt work to copy them."
+
+"Um…" Lily mumbled awkwardly.
+
+Ollie looked flustered, but he took a deep breath and calmed himself. "What he means to say is that I'll be ensuring there is nothing wrong with the glyphs, and providing a helping hand to meet the quantity demands."
+
+"And getting to play around with magic ink," Sylwel quickly added.
+
+Ollie abruptly coughed, but he didn't deny what his fellow professor claimed. Lily did her best to hold back her giggles, finding the entire situation too ridiculous.
+
+"Anyway, I figured this was the best outcome for all of us. I asked you to research ink, but you seem to have forgotten about it," Sylwel mumbled.
+
+I mean… I've got my wand now. Stronger talismans would be nice, but…
+
+"She's got her studies to prioritize," Ollie pointed out.
+
+"Well, now she can consider this part of her studies," Sylwel declared.
+
+Ollie sighed and looked at Lily with an apologetic gaze.
+
+"I don't mind, but can we really do it in so little time?" Lily finally asked.
+
+"I'm not a master alchemist for nothing," Sylwel said, puffing up his chest. "We will have the magic ink in no time, and Headmaster Foblub is paying the bill."
+
+Lily was surprised. "Really?"
+
+"This mad alchemist told the headmaster that the ink could be used for enchanting exams, and it was how I was roped in," Ollie explained.
+
+Sylwel nodded three times. "Enchanting exams, alchemy exams, and who knows what else?"
+
+"If we run out of time, I can ask some of my senior students to help draw. I know a few of them would be quite excited to work with a new enchanting medium," Ollie added.
+
+"As long as they don't mess up. Otherwise, I'm telling Headmaster Fablus it's your fault."
+
+"My students are better than that," Ollie scoffed.
+
+"So the alchemy competition is basically the trial run?" Lily asked, trying to stop the bickering.
+
+"Pretty much," Sylwel replied. "If it works for a fun competition, then it can be considered for official testing. It would also save a fortune in equipment."
+
+Ollie nodded. "Even I'll admit it would be very beneficial for my class. One of the biggest reasons for failure is a lack of practice, and that's simply because we can't afford to give the students enough enchanting material. Practicing with ink has the potential to change that."
+
+Ollie explained that chalk was how they usually tried to bridge the gap, but it wasn't foolproof, and blood was avoided because it could cause even more issues. If your blood were potent, you could ignore far too many blemishes and not realize the mistakes you were making along the way.
+
+With magic ink, they would be forced to learn precision and efficiency, which was vital when it came to actually enchanting items. Lily was already fully on board as this was a way to bring some life to Arakil's legacy, but Sylwel sweetened the pot even further.
+
+"Of course, I'm not asking you to do this for free. You'll be given your own batch of ink as thanks, and when you run out, you can always draw a few more glyphs for me, and I'll top you up."
+
+"Why do I get the feeling you're doing this to have enchanters at your beck and call?" Ollie murmured.
+
+Sylwel gasped and erupted with a smile. "I wasn't, but that's a pretty good idea! If I'm the only one who can make the magic ink, maybe I'll finally get the service I desperately need?"
+
+Ollie sighed, muttering something under his breath. Lily couldn't help but feel sorry for him, but at the same time, she was delighted to have a potential ink supplier. If she wanted to explore the second floor and beyond, then upgrading her talismans was definitely on the agenda.
+
+"Let's do it!" Lily said excitedly.
+
+***
+
+For their project, Sylwel did the bulk of the work, as he had far more experience than even Camilla had shown. Lily had thought her alchemy skills were good, but she would only slow the professor down. Instead of helping with the brew, she was delegated to testing, advising, and occasionally drawing a flame glyph for the professor to use.
+
+Sylwel had many ingredients at his disposal, but he knew nothing of what was required for glyph ink. He had unearthed old tomes on the subject and replicated their recipes, but Arakil, explaining through Lily, had rejected them. They were far too inconsistent, and it was no wonder they had fallen out of favor. Their true purpose was to allow the mad professor to study them.
+
+If not for Arakil, Lily would have failed in her advisor role, as things quickly became far too much for her, but thanks to their secret telepathic conversations, they kept the story straight. Eventually, Sylwel could replicate the consistency needed with astonishing proficiency, and then it came down to finding the right main ingredient for the job.
+
+Sylwel could transmute most materials, but it was stupid to waste them like that, not to mention risky. Their enemy was any ingredient that could also be used for Mana potions, which meant they had to look at more toxic ingredients. This left Sylwel to ponder what to use, as if it were too mild, its side effects could be countered in the brew and thus still usable for Mana potions, while too potent could be hazardous to the students.
+
+While he was left to find the best primary ingredient, Lily spent time with Professor Ollie designing the glyphs for the alchemy competitions. This was actually the easiest part, as, aside from the temperature, they all needed to have a strict one-hour time limit.
+
+Sylwel's idea for the competition was for the flames to all come on at once, and then for the students to finish their work before it ran out. Most brews didn't need one hour, and Lily even assumed that some of these flames might be too hot for whatever they were concocting on the day, but it would be up to the student to realize that and shorten the boil time appropriately.
+
+Everyone would have the same pot, same ingredients, and now even the same flame, so only your skill and knowledge would make the difference. Lily found the idea exciting, and even Professor Ollie admitted it was a good idea, saying he wanted something similar for enchanting.
+
+"If we know exactly how much potential is in the glyph ink, I can design a test around that," Ollie explained to Lily while she drew. "Going back to our old conversation, if we know each student has ten points of Mana to work with, then the ones who best utilize all ten points would pass."
+
+"What about adding restrictions and exceeding the original ten points?" Lily asked.
+
+"Assuming it doesn't compromise the desired outcome, that could be seen as bonus marks. Although if you push it too far, you could be penalized. Actually, that might be a good idea, balancing risk versus reward…" Ollie mused.
+
+Eventually, Sylwel found what he considered the perfect ingredient: Witchlight Sporecap. It was a mushroom that faintly glowed with pale blue light, not too rare, and it was only toxic when ingested, so unless the students decided to drink their ink, it would be fine. He had found other, more potent and abundant ingredients, but, considering that, even diluted, they could cause reactions on skin contact, he was forced to compromise.
+
+The one issue with his chosen shroom was that, even when reduced to a fine powder, it remained too clumpy when introduced to the ink. Lily tried her best with it, but it was not consistent enough for glyphs. The professor wasn't one to give up, though, and he brought out several other alchemical tools.
+
+"I suppose we will have to distill it," he declared and got to work.
+
+Lily watched with fascination as Sylwel went far beyond anything Camilla had taught her. Unfortunately, it had gotten late, so she had to reluctantly leave, but the professor vowed to have something usable by the morning.
+
+Lily was disappointed that she wouldn't get to see the finished product until after class, until Professor Ollie informed her that most classes had actually been canceled in favor of preparing for the festival.
+
+So that's why the older students are so excited, this is basically like a mini-holiday!
+
+When she excitedly returned to the lab the next day, she was met with several different variations of the fluid. Sylwel wasn't sure which would be best for glyphs and decided to leave the final decision up to Lily. While Ollie was her professor, even he had to admit he wasn't as obsessed with ink as she was.
+
+Lily meticulously tried each pot of ink; some were too runny, while others were too thick, but eventually she settled on a few potential candidates. With the consistency of a few just right, what ultimately decided the winning batch was their Mana potency, and thanks to Arakil providing the required Magesight, they selected the best of the best.
+
+"Right! I'll have more ready in a jiffy, I hope you two are ready to start drawing!" Sylwel said excitedly and handed them a stack of papers. "Freshly transmuted paper, ready to be inked. I even color-coded them for the different temperatures!"
+
+Lily and Ollie stared at the large stack of paper before turning to each other.
+
+"Perhaps I'd better get us some additional hands…" Ollie whispered.

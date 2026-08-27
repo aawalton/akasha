@@ -1,0 +1,149 @@
+---
+id: 9398f022-e34c-5bf8-b3c7-ed4bb6c40776
+page-type-slug: story-chapter-royal-road
+title: "v6c37: The Master of the Forest"
+slug: 0226-v6c37-the-master-of-the-forest
+partOf: beware-of-chicken
+position: 226
+ownLength: 2101
+unit: words
+ownProgress: 2101
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2381079/v6c37-the-master-of-the-forest"
+royalRoadId: "2381079"
+markedReadAt: "2026-06-29T18:59:07.452Z"
+---
+
+He Who Sweeps The Forest Floor Of Snow and Opens The Way—or Forest Sweeper, as his name was often shortened to—could not help the smile upon his face as he listened with rapt attention to the sword shaped like a human before him.
+
+“Bi De comes from the side, his body alight with Qi. The bastard lifts a finger to bat him away. The finger should suffice—he is in the Imperial Realm. But it is not enough! A finger. Then two, then his whole hand is forced,” Shen Yu narrated, his voice bold and firm as he continued his tale of what happened during his battle. Shen Yu had previously detailed some of the battle in the warning he had sent to Forest Sweeper.
+
+His kin were arranged in a circle, their eyes shining with admiration. The rooster stood tall on the antlers of Forest Sweeper’s apprentice. The mood in this clearing was almost… celebratory. There was food and drink, enough even for their titanic bulk, and his kin were clearly enjoying themselves. It had been a long while since such happiness had entered this solemn place, but it was right—the Great Enemy had been dealt a great blow. All the Ancestors deserved to hear of this triumph, and the demonic Qi within the giant black crystal impaled upon his antlers deserved to hear of their failures.
+
+He felt the hatred and loathing of the sealed demons, writhing against their frozen prison.
+
+‘And then?’ Forest Sweeper bellowed eagerly. He tipped up the massive mug, feeling warmth spread down deep into his chest. He had spent so long frozen he barely remembered warmth, but this seeped deep into him. Not the ice-melting power of a fire-aspected pill, but something different. Cleaner. A small bit of warmth for a weary soldier on guard, to keep him going through the cold and long night, with a final light kick of Qi to make it taste all the better and invigorate the body.
+
+Shen Yu took a drink of his own, then grinned.
+
+“It was but a hand, but it is enough. A moment of distraction, and that is all I required. A Demonic cultivator of the Imperial Realm had his head removed from his shoulders, and his very soul split into dregs!”
+
+Forest Sweeper threw his head back and laughed. The rest of his kin let out their own bellows and jeers, making a wondrous mockery of the Great Enemy.
+
+‘Holding all the advantages, yet still they were trampled under foot!’ Steps That Circle The North shouted.
+
+‘Unworthy of our Ancestor’s prison!’ He With a Beard of Icicles and Frost declared.
+
+‘How many years has the Great Enemy tried? And still, they’re defeated at every turn!’ She That Calls The Aurora taunted.
+
+The ice crystal impaled upon Forest Sweeper’s antlers shuddered, so minutely it was only felt by him. He felt its prisoners’ rage and humiliation as they cursed their own kin for their failures, and whispered that if they were freed, they would visit a thousand tortures upon those that could not release them. Their impotent rage brought Forest Sweeper true joy; they smashed against the ice, trying to move, and when that failed, such was their agitation and humiliation that the separate consciousnesses within started to bite and tear at each other.
+
+For a moment, the burden upon him was not so heavy.
+
+‘Wonderful! Wonderful!’ Forest Sweeper declared, ‘Little friend Bi De, I raise a toast to you! Your strides may be small, but they surely shake the earth!’
+
+The rooster bowed, polite as always. Forest Sweeper quite liked the little creature, and both of his masters. Especially the one that made this wonderful food and drink! And the syrup!
+
+‘The little friend is a true hero!’ Steps That Circle The North rumbled, nodding in respect. He was in the Second Stage of the Earth Realm, yet he had only respect in his eyes for the Spiritual Realm rooster.
+
+“And I am not the only one,” Bi De demurred. “Without my comrades…. and without Spooks especially, we would have been lost.”
+
+That got the attention of the Thunderhooves. His apprentice blushed.
+
+‘The Young Master saw battle? And a name already?’
+
+‘So young, and already dealing blows to the Great Enemy!’
+
+‘The Young Master’s antlers are a crown; Master Forest Sweeper’s eye for his successor was unparalleled.’
+
+“It's true! Yun Ren, show them!” the woman with a streak of green in her hair demanded.
+
+“You got it!” the fox-man said, bringing out his recording crystal. It chimed, a frozen hallway appearing, projected onto the trunk of a nearby titanic tree. The corpses of near a hundred demons were piled high on the floor. The image changed and showed the fox-man and Forest Sweeper’s apprentice—both ragged and covered in wounds, supporting each other. Ri Zu was tending to both their wounds, her hands glowing with green light. “Without our boy we would have been rice husks!”
+
+‘Tell us! Tell us of your battle, Young Master!’ came the clamour. Spooks looked uncomfortable at the attention and gave Yun Ren a glare, butting him lightly with his antlers. The human stuck out his tongue and laughed.
+
+Forest Sweeper looked on with a smile, and listened well to the tale of his apprentice. Spooks. It was a fine name for the youngling, and he was going to be the future Forest Sweeper… but he needed something with a bit more gravitas.
+
+He Who Instills Fear in the Wicked?
+
+That had potential.
+
+=======================
+
+The merrymaking continued, and the Ancestors were most pleased by the tales of their enemy’s defeat.
+
+But such things could not last forever. The young ones were turned loose into the forest to collect every kind of seed and nut they desired, to take back to their Master. His kin served as their steeds, for they knew of the secret places where to find such things, from the basest mortal plants to the treasures of cultivation within the forest.
+
+He could hear through his avatar their laughter and cheer, and their speculations on how what they collected would taste later, a most amusing pastime.
+
+It was only with half an ear he listened, however, because now it was time for business.
+
+‘And who would come into my forest, Shen Yu?’ he asked.
+
+“Both my Emperor and my Sworn Brother wish to treat with you,” the sword intoned, his face serious. “It is, however, just a request. If you desire not their presence, then I shall not tell them where to find you.”
+
+There was no lie, his Qi laid bare for Forest Sweeper to inspect. His oath was absolute, and Forest Sweeper had nothing but respect for the human.
+
+Still, his earlier statement required thought. The human’s Emperor and Empire were mighty things, and treating with them might bring unwanted attention. Forest Sweeper himself was mighty enough to give most pause, but his kin were not so protected.
+
+But if he engaged with them directly, he might be able to control the reveal and start an actual dialogue.
+
+“I know little of the dealings of men. Shen Yu, I would ask for your true and honest advice, as a friend to this forest.’
+
+“I shall speak only the truth to your ears, without omission,” Shen Yu replied immediately, his voice reverberating through his body and his soul, his vow an oath of Spirit rather than Letter; which was the more honest of the two.
+
+‘Then, what are their intentions?’
+
+“The Cloudy Sword Sect is the easier of the two to answer. My Sworn Brother wishes to pay his respects properly—the Cloudy Sword Sect considers its highest calling to be of learning, but their second-highest calling is the slaying of Demons. Xiao Ge sees you as a comrade and wishes to have your history recorded and remembered within the halls of our Sect. If you would allow him, he would write the names of your heroes upon the Wall of Martyrs, alongside our own Honoured Founders. The little that Ge has heard of your people from young Spooks and one of your warriors has already made a good impression upon him and his fellow Elders.”
+
+Forest Sweeper raised an enormous brow at Shen Yu’s explanation. To have his ancestors so thoroughly honoured by humans… well, Forest Sweeper could not deny the pride he felt at that moment. The Cloudy Sword Sect was apparently one of the humans’ mightiest—and that they were so impressed as to put the names of Spirit Beasts on a wall with their own honoured dead.
+
+‘Hmmm. They sound not bad,’ Forest Sweeper admitted. But making a decision based upon that would be foolish.
+
+“Your suspicion of humanity is warranted, but in this it is my belief that Ge’s intentions are pure. He would desire academic dialogue and an exchange of resources, and in the best case he would name you his ally, and commit men to your defense should you ever call for our aid. He would teach his disciples about the noble defenders of the north, and put to the sword those who would dare hunt your kin. I see no likely future where you end up as enemies. Should you desire secrecy, Ge will take your location with him to the Heavens—whether in death or ascension. Past that, I cannot speak for the next generations, but Ge’s hand is firm upon the tiller of the Cloudy Sword Sect. He failed once through complacency… and the sting of that failure has made his vigilance for the wicked sharper than it ever has been. He is my sworn brother, and he had my trust, even though his failure harmed my grandson.”
+
+Forest Sweeper nodded at the explanation. It did sound promising.
+
+‘And your Emperor?’
+
+Shen Yu frowned. “I can speak of two people who are the same man. Fengyan, and The Crimson Phoenix Emperor. Fengyan… he would likely desire little else than to meet you, and wander your forest to see its beauty. The Emperor is not so simple a man. The Emperor must be worried about the Imperial Realm cultivator upon his borders. He must consider the north with suspicion. He must consider you a potential threat.”
+
+‘I see,’ Forest Sweeper rumbled. A man like himself, who had to consider his people.
+
+“And yet, your kin have done him a great service. You have guarded his borders, protected his subjects, and have done battle with his enemies; never have you offered him insult. Thus the most likely outcome in my mind is a continuation of the status quo… though with a dialogue open, for mutual sharing of information. I am quite sure this state of affairs will last until the next Emperor, in a few thousand years’ time. After that, I cannot say what the outcome will be.”
+
+Forest Sweeper heaved a great sigh, considering what Shen Yu had told him. He spoke truly. The most likely outcome was peaceable. Agreeing to meet with the envoys would stop them from trying to search for him, and assuage any worries. If he was ‘civilized’ and open to dialogue, the humans would be more likely to take him seriously.
+
+Forest Sweeper made his decision.
+
+‘I shall meet them… and take their measure,’ he declared.
+
+Shen Yu nodded and then clasped his fist with his palm. “I shall convey the message of Honourable He Who Sweeps the Forest Floor Of Snow and Opens the Way.”
+
+Forward, into the future, then.
+
+==============================
+
+Their friends stayed the night, and in the morning they gathered to leave… though Spooks seemed anxious. He kept glancing at his friends, then back at Forest Sweeper.
+
+‘Speak, my apprentice,’ Forest Sweeper said, smiling down at his charge. The young Thunderhoof took a deep breath.
+
+‘Can… can I go back with them? At least for the rest of the New Year? And can I visit them sometimes?’ His voice was nervous and uncertain, and Forest Sweeper had to hold in his laughter.
+
+Was that all?
+
+‘You may,’ he replied.
+
+“It can be, uh, like visiting our ally, and Jin said he would send up food and stuff, and…’ Spooks paused in his rambling. ‘Eh? I can just go?’
+
+‘Yes. Your trip has been good for you. And it is as you said. You are visiting our allies… and affirming our bonds,’ Forest Sweeper answered.
+
+Indeed. Travel would help his apprentice grow strong… and he would hopefully bring back more vodka and maple syrup.
+
+They were quite delicious.
+
+Actually…
+
+‘This shall be your mission. Negotiate a deal of trade, my apprentice. This shall be your duty.’
+
+Spooks perked up and nodded with conviction.

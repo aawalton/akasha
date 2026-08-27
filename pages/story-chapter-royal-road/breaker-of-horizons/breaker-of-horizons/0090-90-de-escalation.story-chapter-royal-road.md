@@ -1,0 +1,119 @@
+---
+id: 9a8360d9-ddc2-5a3c-b1cd-39fa6857d849
+page-type-slug: story-chapter-royal-road
+title: "90. De-escalation"
+slug: 0090-90-de-escalation
+partOf: breaker-of-horizons
+position: 90
+ownLength: 2081
+unit: words
+publishedAt: 2021-03-11
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/644997/90-de-escalation"
+royalRoadId: "644997"
+---
+
+'{~?~}.'
+
+Caden recognised that particular glyph on the knife the moment he touched it. Somehow, nestled there within the other ineffable glyphs, was one that represented a part of his own auric-ambient-flare. He gasped, and the knife fell out of his startled grasp onto the floor with a mundane clatter. Devon stumbled into him a moment later and seized his shoulders to give him a shake.
+
+"Are you alright?" Devon demanded.
+
+"F-fine, I'm fine," Caden stammered. But a moment later his eyes started wandering around, looking for the fallen knife.
+
+Devon noticed, and tried to kick it away, but his foot was suddenly frozen in place by an implacable force.
+
+"Stop it," Caden said, frowning.
+
+"Wh–" Devon's protest was abruptly cut off as the restraining force vanished. He lost his balance and fell backwards.
+
+He and Lynus both stared as Caden gestured at the fallen knife and it leapt into his hand. Far from being weakened after his recent ordeal, he seemed to now be possessed of a strange level of intensity, and he was demonstrating an instinctive grasp of arcanic manipulation that went far beyond anything he had shown before during the term in the Academy.
+
+While the two of them were trading looks of unease mingled with awe, their feud momentarily forgotten, Caden was turning the glyph over in his head. Somehow, while holding the knife, he felt like he was on the cusp of really understanding this particular aspect of his auric-ambient-flare. The feeling of being on the verge of an epiphany was so strong that it was easy for him to ignore the sense of danger that emanated from the knife.
+
+A part of him felt a little sense of self-reproach at his utter disregard for safety when he had first touched the knife, but now that nothing had actually happened, he reasoned that the sequence upon it was likely keyed to some other sort of activation besides touch. There was even the possibility that being stabbed by the knife wouldn't trigger the sequence, and that it had to be activated by means of arcanic manipulation. Since he was reasonably sure that holding it wouldn't be harmful to him, he could set aside that instinctive fear and try to study the thing up close.
+
+Like the glyph for prophetic links, the glyph for {~?~} had a rightness that fit in his mind. He had never seen it before, but having laid eyes on it now, it made perfect sense that it would go together with that concept in his head. And yet even though he felt he understood more now, it was hard to settle on one complete idea.
+
+He remembered his conversation with the Academy augera when it was repairing the damage wrought in everyone's encounter with the wild augera by the lake. Back then, it casually mentioned that this {~?~} aspect allowed him to "do what everyone can, or what no one can, or nothing." That small scrap of knowledge gave him the barest glimpse of the full import of the mysterious aspect.
+
+'Caden was momentarily distracted by something he had just picked up with his arcanic sense. 'Lynus really was telling the truth,' he noted, turning the knife over in his hands. 'I can feel it. This really was made by the Academy augera.'
+
+And there was a twinned intent, there. He could read it in the way the sequence sat on the knife. It was like being able to glean someone's mood from their facial expressions. Or rather, it was like looking at someone's angry face and realising that the person was actually only feigning anger, and actually hiding mirth. He sensed a deleterious desire that was the source of the danger he felt coming from the knife, but behind it, carefully shaded from casual inspection, was a desire to share, to advise...
+
+... to unveil. And hadn't Geldor's augera mentioned something, about how 'Few mortals touch the veil'?
+
+"Caden?" Devon called tentatively, and the moment of discovery and realisation collapsed like a house of cards.
+
+"Yes?" he replied a little testily.
+
+"Maybe you should hand the knife to me?" Devon asked, looking worried as he extended a hand. "You know, on account of it being a weapon that's probably meant to kill you with some sort of advanced arcanophany?"
+
+Caden looked from the knife, to Devon's outstretched hand, and to Lynus, his mind working fast. Lynus' intentions had been made abundantly clear, and he definitely believed that the knife was a weapon to be used to kill an ex-anchor of the Prophecy. From what Caden could tell, that might very well be true. And yet, now that he had the knife in his hands, he was also quite certain that the Academy augera had decided to nestle another sequence within that dangerous one. He couldn't be completely sure, but there was a strong suspicion he had that the augera had meant for Caden to get his hands on it.
+
+The fact that the augera had gone to such lengths to conceal that fact from Lynus led Caden to believe that this was some sort of manoeuvring around Prophetic constraints. In all likeliness, the augera had indeed been forced to equip the twins with a weapon that could end him. But it had also taken the gamble, or the opportunity, to pass vital information along to him as the unchosen-sighted-{~?~}.
+
+If that was the case, then it made Caden loathe to part with the knife. If he gave it over to Devon, who was (for all his staunchness as a friend) someone still bound by prophetic links, then there was no telling if he'd ever be able to get it back safely. He thought Devon might understand if all this was explained, but Lynus' presence complicated things. Caden didn't feel it was safe to lay these realisations out in the open when both the twins were actively working against him, likely goaded on by the terms of the Prophecy.
+
+Caden straightened and gave Devon an apologetic smile as he carefully sheathed it in a protective barrier and pocketed it. "Sorry, Dev, but I think it's best if I hang on to this."
+
+Lynus sighed. "Well... I've told you as much as Kev and I know. What now?"
+
+Devon's look of concern for Caden was quickly replaced with contempt for the twins. He turned expectantly to Caden, waiting for a pronouncement.
+
+The weight of the moment settled on Caden's shoulders and he knew, deep in his gut, that this was a crucial decision. He felt hot and cold all at once, and there was a keen sense of {~?~} about this moment. Seeing the glyph clarified that for him. This was an inflection point in the threads of Fate.
+
+"The two of you tried to kill me," he began slowly. "Had a whole plan in place. And you were definitely going to go through with it, weren't you?"
+
+Lynus' mouth was a grim slash as he gave a curt nod. "No point denying it," he said tightly. He shifted a little, and even though he was still on the floor, lying on his back, it was clear that he was getting ready for trouble. He wasn't going to go down without a fight, even though he knew it was probably going to be futile.
+
+Caden drew in a fortifying breath and ploughed on. "But I don't think it was personal."
+
+A tense silence filled the space. Devon's eyes swivelled from Caden to Lynus, the look of satisfaction gradually giving way to one of confusion. Lynus' tense muscles relaxed ever-so-slightly, and he regarded Caden warily. "... No, it wasn't, if that makes any difference."
+
+"It does," Caden said simply, extending a hand to Lynus, who flinched away at first. After a moment of hesitation, he took it, and Caden pulled him to his feet.
+
+"What?" Devon spat, suddenly livid. "Caden, what are you doing?"
+
+"Practicing mercy," Caden answered, giving Devon a pained grin in an attempt to diffuse the situation a little.
+
+"Caden," Devon's voice was full of cold fury, "what they've done... Lynus tried to kill you, and he was willing to go through both Jerric and me to do it. And what Kevan tried to do to us in the arcanic space... they... they deserve–"
+
+"I know what they deserve." Caden's own ire stirred in answer to Devon's, and it was all the more forceful because he had slipped partially into the arcanic space and was now speaking both with his lips and also into the arcana. "I was the one who was broken. I was the one who hung there, helpless, while you all fought around me. And my threads remember."
+
+Devon took several steps back and pressed himself against the wall. Lynus, too, had scrambled away after he had stumbled and fallen back onto the floor. There was a steady pulse of power washing out from Caden even as he turned and regarded both of them. Echoes of his pain bled into the air. It was almost like being at the centre of that storm of corruption again when he had first been brought into the Spire.
+
+Then, as suddenly as it had come, the storm was gone. Caden unclenched his fists and looked wearily at his hands.
+
+"If it were me," he said so softly that the two of them had to strain to hear him, "and it was a question of saving my sister, my father, my mother... I probably would have done the same thing."
+
+Devon was frightened but still angry. "So you're going easy on them because they claimed that they're protecting the Empire?"
+
+"I'm not going easy," Caden answered through gritted teeth. He glared at Lynus, who involuntarily backed away another inch or so, before turning back to Devon. "But this is bigger than you and me, Dev. At the very least, you should let Ambrose have a say in this."
+
+"Ambrose?" Devon looked like he was about to roll his eyes, but he caught himself and pursed his lips. "Because he's the Chosen One?"
+
+Caden nodded. "He's the centre. All of this," he gestured at the mess in the chamber, and at the still-unconscious Jerric and Kevan, "it's a result of us being caught up in his life. And like it or not, his choices matter."
+
+Devon shot a dirty look at Lynus. "Five threads. So you're saying that we're going to have to team up, even after all the twins have done."
+
+Caden raised an eyebrow and gave a wry smile. "You don't have to become best friends. Think of it as working with really shitty teammates on a group project."
+
+This time, Devon really did roll his eyes, and he gave a snort of disgust to go with it. But Caden found himself breathing a sigh of relief. The tension of the moment was over, and it felt like he had managed to successfully stop a major tangle in the threads of Fate.
+
+"So..." Lynus gave a small cough of embarrassment. "Uh... what now?" he asked again.
+
+"Grab your asshole brother and get back to the car," Devon snapped. "Caden, help me with Jerric?"
+
+"You've got a car outside?" Caden asked, his interest piqued as he worked with Devon to hoist Jerric up.
+
+"Stole it from agents," Devon answered curtly.
+
+"Stole it from agents?" Caden echoed, surprised and confused.
+
+"Yes," came the short reply.
+
+Evidently, Devon was still deeply displeased by Caden's decision not to entirely cut the twins off. Caden decided not to press the matter, certain that Devon would come around in time. However, even as he thought that it occurred to Caden that this certainty he harboured wasn't altogether based on Devon's free will. In all likeliness, the Prophecy was going to work to smooth over the cracks that had formed. It was a rather sad thought.
+
+Devon ordered the twins into the backseat together with Caden while having Jerric deposited in the front passenger seat. The rationale was that he didn't trust the unconscious Jerric to be seated in the back with the twins, and Caden would at least be able to keep the two of them in check. Caden followed meekly, content to let Devon have his way now that the conflict had passed.
+
+As they drove back to Devon's home, Caden's thoughts went to the knife in his pocket and the mystery of the hidden sequence that that Academy's augera had planted on it through the twins.

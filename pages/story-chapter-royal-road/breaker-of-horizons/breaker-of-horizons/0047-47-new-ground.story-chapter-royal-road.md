@@ -1,0 +1,177 @@
+---
+id: 8d8227ec-5391-516e-b864-42a4bb8f9d7d
+page-type-slug: story-chapter-royal-road
+title: "47. New Ground"
+slug: 0047-47-new-ground
+partOf: breaker-of-horizons
+position: 47
+ownLength: 2892
+unit: words
+publishedAt: 2020-10-12
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/568151/47-new-ground"
+royalRoadId: "568151"
+---
+
+When we finally reached the biggest duelling chamber (because a bout between the Chosen One and one of the most celebrated duellists in the first year cohort demanded nothing less), we found the doors wide open. The arena barrier was already up, but it was set to be opaque. It was possible, just barely, to make out some vague shapes that were on the other side of the barrier. They looked like... structures.
+
+"You're finally here," Emilia's voice came from within the barrier. Something sounded off, though. It wasn't nearly as echoey as it should be in an empty duelling chamber.
+
+"I'm sorry!" Ambrose called out, pausing by the door to catch his breath. "Didn't mean to be late. Lost track of time."
+
+"It's alright," Emilia continued in an even tone. And yet, inexplicably, I caught the impression she was being playful. "I've had all this time to prepare."
+
+"Prepare?" Ambrose asked, puzzled.
+
+Emilia's laughter filled the chamber — an impish sound, quite uncharacteristic of her, that was joined by others. She wasn't alone. I recognised the twins' voices.
+
+"It's more exciting than a traditional duel," she explained, "and it's what you get for being late."
+
+The cloudy obfuscation in the barrier slowly thinned, finally giving us a clear view of what it contained.
+
+Devon let out a gasp. Volumes made out of a dark grey material were scattered across the arena floor, providing cover for combatants by approximating an urban environment. There were solid pillars, walls arranged into maze-like configurations, and low barriers that provided enough cover if one were to crouch.
+
+Emilia was standing on the tallest structure right in the centre, where a two-storey tower offered a good view of the surrounding terrain. She was dressed in an outfit similar to the one she had worn in the fight against Kevan, though this time the colours were coordinated — her long-sleeved navy blue top was now paired with black leggings and shoes.
+
+Kevan and Lynus were seated on either side of her, their legs dangling off the edge. The twins were dressed in a similar sweater and sweatpants combo, but I couldn't help but notice that Kevan's colours matched Emilia's, whereas Lynus' was a grey top with white bottoms. But that was something to be pursued later.
+
+"Did you guys put her up to this?" I called out to the twins, though I suspected one more than the other.
+
+Kevan put up his hands, claiming innocence. "Hey, this is all her. Ly and I just gave a couple of suggestions for the arrangement."
+
+"Please leave the duelling space now," Emilia said to the twins in her usual curt manner. "It's time we got this started. I'm starving."
+
+The twins leapt off the front of the tower while Emila jumped off from the opposite side, drawing cries of alarm and surprise from the rest of us on the floor. They fell out of sight, but we didn't hear any shouts of pain. After a few moments, the twins emerged from the arena, completely unscathed.
+
+"Relax, guys," Lynus said, grinning at Devon, who looked particularly shocked. "It's the arena's personal protections, remember? Emilia got the idea to set all this up, and we were playing around for a bit. We were just about to take it down and head back when you finally decided to show up."
+
+"Good luck," Kevan smirked, clapping Ambrose on the shoulder. "You're gonna need it."
+
+Ambrose's only reply was a vague "hmm" and a raised eyebrow. As usual, next to Kevan, Ambrose looked like the lesser fighter. It didn't help that today, he had dressed for the comfort of the library rather than a serious duel. He had removed his jacket and was now in an oversized maroon T-shirt, jeans, and sneakers.
+
+"Are you ready, Ambrose?" Emilia called out, her voice now amplified.
+
+"In a minute," he answered, conjuring the Minor Control Sphere to send his reply through the chamber's amplification so he didn't have to shout.
+
+"One minute starts now," Emilia replied. A countdown appeared right above the tower, rotating slowly in place.
+
+I shook my head wonderingly. "Quite literal. Well, good luck, Ambrose."
+
+The rest of us climbed to the highest tier and positioned ourselves in the mid-point so that we got a clear view of the entire space. Ambrose and Emilia had both taken up their places at either end of the chamber.
+
+"I didn't know the arena could do this," I said, once we had settled down.
+
+"They start this in second year, usually. But they only do it for some sessions, because the other chambers are too small, and the classes have to share this space," Lynus explained. "Some of the seniors we train with showed us how to set it up."
+
+"Does it only do these big blocks?" Jerric asked.
+
+"No, it can do complex shapes too. Even natural-looking ones like trees and rocks. But apparently, the classes just do urban environments."
+
+"Because that's where most fights take place now," Kevan pointed out. "In cities."
+
+The timer hit zero and winked out, and Emilia started moving at once. She sprinted straight for the tower in the centre, bobbing and weaving through the obstacles. It was clear that she had the advantage here since she knew the layout in advance. There were steps that went around all four sides leading up to the apex, but she didn't bother with them. Instead, as she neared the bottom of the tower, she leapt forward, brought her feet together, then slammed them into the ground. A burst of arcana erupted from the point of contact and she shot six metres straight up, giving her just enough clearance to step into the top of the tower.
+
+"What?!" Devon exclaimed.
+
+"Yeah, pretty insane," Lynus remarked, shaking his head.
+
+From that superior vantage point, Emilia started raining fists full of arcanic fire down on Ambrose, who hadn't been making a mad dash for the tower. Instead, he had released several palm-sized orbs that were now fanning out across the rest of the arena, keeping low as they darted around the obstacles. He deflected the fire with a hasty shield and darted behind cover, opting to use the environment to shield him as much as possible. The space slowly began to fill with smoke as Emilia continued spewing fire.
+
+Suddenly, a beam of energy lanced out towards Emilia from behind her. It was Triss' sequence, not as amplified as the one Emilia had utilised, but still potent. It clipped her on the shoulder, interrupting the stream of flame she was pouring out. The arena's cocoon around her registered some damage. She retaliated by directing a bolt of arcana at the source, and one of Ambrose's little orbs collapsed into fine dust.
+
+"Wait, wait, what was that?" Lynus leaned forward.
+
+"Always something new," Jerric smiled, looking intrigued.
+
+By the time she spun around, Ambrose was gone. I saw more orbs skittering around through the maze. Emilia started directing arcanic bolts at them, but now they were firing back at her with arcanic bolts as well, forcing her to conjure shields. Exposed as she was on top of the tower, she was beset on all sides, making it difficult to rely on the throwaway barriers. After a few seconds, she gave it up and leapt from the tower, avoiding any damage with the use of some sequence that caught her a moment before she hit the ground.
+
+It looked like Ambrose needed to see the orbs in order to make use of them. As Emilia wove through the obstacles, she dispatched any she came across, and none of them so much as threw an arcanic bolt at her. Despite that, Ambrose was pumping out more them, likely seeding them around the arena so they could be called upon the next time he spotted her.
+
+The two of them spent a minute trying, without much success, to locate each other. Eventually, Emilia cloistered herself inside one of the mini-mazes and ensconced herself in a solid honeycomb-lattice shield. It was hard to tell exactly what she was doing inside it.
+
+Emilia's fires had burnt themselves out since she was no longer supplying arcanic fuel. That left the field clear for Ambrose, and he was now pressing his hands to various surfaces as he passed, laying temporary glyphic sequences into the structures. From this distance, I couldn't tell what they were supposed to do, and in any case they faded into invisibility almost immediately.
+
+"This is gonna be good," Lynus said, rubbing his hands together gleefully as we watched them make their preparations.
+
+"What do you think Emilia's doing?" Devon asked.
+
+"She can't take the high ground, and Ambrose has better coverage over the field with his little orbs at the moment," Kevan pointed out. "So she's probably going to pull out something that gives her control over the field again."
+
+Right on cue, there was a disturbance in the air around Emilia and her shield dropped. It was the same sequence she had used in the final moments of her fight against Kevan. This time, it was more concentrated, manifesting as translucent, fog-like energy that billowed forth. It rapidly rolled through the space, this time managing to cover a height of a metre and a half, and the moment Ambrose's roving orbs made contact with it, the orbs sputtered out and disintegrated.
+
+It didn't take long for Ambrose to encounter the fog. He stopped in his tracks and raised a solid barrier, which immediately began to flake and tatter. In a few seconds, it frittered away into nothingness. He hastily brought up a honeycombed barrier in its place, but that lasted only a little longer. Backpedalling furiously, he took a different path but found himself being hemmed in as the fog closed in from multiple directions.
+
+Left with no other options, Ambrose quickly clambered up onto a volume to bring him out of the fog's reach. But Emilia had been waiting, having hauled herself up onto a volume as well. The moment Ambrose appeared, she gestured, and a rolling wave of the fog rushed towards him, threatening to engulf him.
+
+Ambrose crouched, then sprang forwards with a burst of arcana that sent him flying several metres. He managed to stumble onto the top of another volume, but his landing was nowhere near as graceful as Emilia. She followed up by sending another wave rolling towards him. Ambrose leapt again, making for the tower in the centre as Emilia dominated the floor with her dissolving fog. He couldn't jump straight to the top and instead had to settle for launching himself onto the steps on the side before climbing up the rest of the way.
+
+As soon as she was out of sight, Emilia started skipping across volumes, aiming for the tower as well. Now that she had cut off the arcanic supply, the fog was beginning to thin. But Ambrose gained the summit first while she was only halfway there. He clawed savagely at the air.
+
+The volume beneath Emilia shattered with a sound that was remarkably like glass, and she tumbled to the ground in a heap. The broken pieces of the volume began fizzling in the vestigates of Emilia's fog now that their integrity had been compromised, and she, too, looked like she was suffering damage from it. With an impatient wave of her hand, she dispersed the fog around her.
+
+Kevan let out a sound of amazement. "Those volumes are hard to damage. How'd he do that?"
+
+"I think that's one of the volumes he marked earlier. We'll have to ask him exactly what he did," I said.
+
+Ambrose didn't give her time to recover. There were still some orbs left, and they were now rising to the air and directing beams on her from several directions. Emilia held off the first two with directional shields, but as more joined in, she manipulated her own shields and used them to reflect the arcana. One by one, the orbs fizzled and died, shot down by their own energies.
+
+I felt a familiar absence in the air, and Ambrose sent arcanic lightning arcing down to Emilia. This time, instead of shielding, she shot out an orb that drew the bolt away, and the energy smashed harmlessly into the arena barriers. Out of the corner of my eye, I saw Kevan folding his arms, looking irritated.
+
+By now, Emilia's fog had dispersed. There was a momentary lull in the battle as Emilia looked up at Ambrose while he looked down at her.
+
+"You weren't at the fight with Kevan," she called up to him, frowning. "But you picked it up somehow?"
+
+"Credit to you and Caden for that," Ambrose smiled. "He taught me the sequence after the two of you reconstructed it."
+
+She glanced in my direction, and I felt a frisson of fear run up my spine.
+
+"You must have tagged me with that first beam then. And the arcana-assisted movement," she said, turning back to him. "How long have you been practising?"
+
+"No practice at all," Ambrose replied, looking abashed. "I only just figured out how you were doing it, so I'm nowhere near as fluid as you are."
+
+"Just?" she repeated, her frown becoming more pronounced. "You learn fast."
+
+Ambrose bobbed his head in humble acknowledgement. "Shall we call it a draw, and have lunch?"
+
+"We're not finished," she replied tersely. And with that, she let loose with her signature massive beam of energy. It was so intense that bits and pieces of the tower were breaking off, though the structure itself remained sound.
+
+But Emilia had clearly taken Kant's admonishment to heart. Even as she maintained the beam, I sensed a buildup of arcana being held in reserve for something. It was amazing how efficient she was in her use of arcana.
+
+Ambrose, meanwhile, had opted to stand right in the line of fire. However, there was something odd about his shield — it wasn't reflecting anything back at Emilia, neither was it holding off the entire attack. Instead, it seemed to be... filtering the energy. He had arranged some panels in such a way that some energy was being deflected, but most of it was passing right through an outer layer that altered the beam in some way. A secondary inner layer then channelled that energy into a fist-sized ball that was now thrumming with power.
+
+The beam died out, but the moment it did, I sensed the arcana Emilia had amassed undergo some sort of shift. She crouched, then launched herself straight towards Ambrose, enveloped in a dense weave of shifting energy that looked a lot like the arena shield.
+
+But Ambrose wasn't totally unprepared. The condensed ball of arcana sparked briefly, then shot towards Emilia even as she sailed through the air. She didn't bother to shield and instead met the projectile head-on. A blinding flare of energy made it impossible to see what happened next, and the moment of impact was also accompanied with a shockwave of sound and air that slammed against the arena barriers and caused them to hum.
+
+When our vision cleared, the tower was completely blown apart, and so were a couple of the nearby volumes.
+
+"Hooooly shit," Devon breathed, rubbing his eyes. "What happened? Is it over?"
+
+Kevan's laughter cut through the silence. He pointed at Emilia, who was slowly extracting herself from the ruins of the central tower. The lattice of arcana she had built around herself was falling apart, and beneath that, the arena wards indicated some damage, but she was largely unharmed. "I think she's done it!"
+
+"Where's Ambrose?" Jerric asked, scanning the battlefield.
+
+"He's not out yet," I replied.
+
+"What?" Kevan's eyes darted around, trying to find him.
+
+I had no idea where he was, either. And I was pretty sure it wasn't Kevan's mirror trick at play, because we should have been able to see him from our vantage point if he was employing it against Emilia. But I could feel the stirring in the arcana. He was definitely still in play, and he was preparing something big.
+
+"There!" Devon pointed, just as Ambrose emerged from one of the chunks of the tower, like someone stepping out of a wall of water. It rippled momentarily, then dissolved into a pool at his feet. His arena barrier was not registering any damage at all.
+
+Emilia's expression darkened, but she planted her feet to face him.
+
+Ambrose held up an open palm before him, and some of the dark grey substance at his feet snaked up and coalesced into the shape of a sword that hovered in place.
+
+"Okay, gotta admit, that is badass," Lynus remarked.
+
+"What does he think he's gonna do with that?" Kevan snorted, though he did look a bit worried.
+
+His expression of worry was mirrored on Emilia's face as, all around the arena, more volumes were melting apart and rising up again as swords, spears, lances, and other assorted weaponry.
+
+"Badass," Lynus repeated in a whisper, at the same time as Devon.
+
+Almost desultorily, Ambrose plucked his sword from the air and held it at his side.
+
+"Shall we have lunch, now?" he asked, grinning.
+
+Emilia's reply was eloquent in its simplicity. The lattice of energy reformed around her, and she launched herself straight at the Chosen One with a snarl.

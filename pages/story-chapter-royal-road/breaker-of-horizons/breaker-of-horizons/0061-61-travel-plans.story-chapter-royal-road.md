@@ -1,0 +1,121 @@
+---
+id: 3ac313f5-cbe4-5abd-8b2f-cf1224f9a9f8
+page-type-slug: story-chapter-royal-road
+title: "61. Travel Plans"
+slug: 0061-61-travel-plans
+partOf: breaker-of-horizons
+position: 61
+ownLength: 1972
+unit: words
+publishedAt: 2020-11-30
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/592898/61-travel-plans"
+royalRoadId: "592898"
+---
+
+Our original purpose behind meeting the Demiurge was to ask him about where to find wild augera, but he had vanished without a trace and we had no idea how to get in touch with him. His disappearance was effectively a dismissal from the Spire. Our only consolation was that the meeting hadn't been a waste of time. With what he had just taught us, we were reasonably confident that we could prepare for the worst if an encounter with a wild augera went awry. All that was left now was for us to settle on a plan of action over the winter break. We returned to the dorm and Jerric plucked out one map out of a stack of others. This one was a standard view of the Empire's territories.
+
+Since there was no clear direction about where we should look for wild augera, Jerric pointed out several locations across the Empire where he believed the Spire coverage was at its weakest.
+
+"I'm thinking we go home, spend maybe two days with our families, then meet up before we strike out to one of these places," Jerric said. "Most of these aren't that far away from the major cities or towns, so it's just a matter of choosing a central location for all of us if we want to minimise travelling and wait time."
+
+"We need to figure out some transport, though," Kevan added, scrutinising the map. "They're not far, but they're not exactly a day hike. Even the nearest one to civilisation looks like it'll take three days on foot, and that's at a rather fast pace."
+
+"How do you know that?" Devon asked.
+
+"We do that kind of stuff," Lynus piped up. "Lots of hiking around when we were younger. Then treks across the Empire when our dad finally let go enough."
+
+"How convenient," I muttered dryly, recognising the prophetic influence.
+
+Jerric gave me a wry smile. "It's both reassuring and a little scary to see things line up for us. We'll be counting on your presence to make sure we don't fall head-long into the Prophecy's path when we don't want to."
+
+I nodded gravely. It was a big thing to ask, and I still had no idea exactly how I was going to exert any sort of influence over the terms of the Prophecy, but for now, it seemed like my being there was a step in the right direction. The Spire augera's short conversation with me had made that clear.
+
+"Uh, about the transport, and logistics, and the rest of that kind of stuff..." Devon reddened a little as we all turned to him. "My family has a couple of contacts, so I can look into all that. For transport, we're probably looking at some mobility artefacts, right?"
+
+"... You still haven't told us how loaded you are, Devon," Kevan said slowly.
+
+Jerric grinned. "Panoply ward on our dorm room, lives in a place with a cook... c'mon Kevan, it's not hard to guess with just those two details."
+
+I waved a hand dismissively. "I don't think we need to know if he doesn't want to tell. What do you think we'll need, Kevan? Mobility artefacts like he said?"
+
+"Well, if this were some kind of crazy wish-list, then I'd want top-of-the-line Hawk-class wings for everyone so we don't even need to walk the whole way," Kevan said, shooting a dubious look at Devon. "Is that kind of stuff on the table?"
+
+Devon kept his face neutral. "Maybe. But just in case, what else might we need if that's not possible?"
+
+There was a brief silence. The only person who didn't look utterly flabbergasted at the idea of how much wealth Devon might have was Jerric, who was his roommate and was still the only person who had been allowed to even see inside it. The Panopoly ward had kept everyone else out the entire term.
+
+Together, the twins provided Devon with a list of goods that included everything from suitable clothing and food to commercial artefacts. But Devon wasn't simply taking it all down — every so often, he interjected to ask why the twins weren't asking for something else that might get the same job done, and their reply was usually because they didn't know that it was available, or it was something wildly out of the average person's budget. Devon would nod, then quietly note down both the usual item and his own recommendation. Soon, his list was populated with cascading diagrams that indicated where the procurement of one item or other might invalidate the need for some other items.
+
+Kevan shook his head as he scanned the list one last time. "You're serious about some of these things? I mean, this isn't a joke?"
+
+"I'm not promising the sky," Devon said testily. "I just want to know everything we may need, from best-in-class down to bare-minimum."
+
+"But Ly and I wouldn't even bother looking for some of these things. It's just... too exclusive. Or too expensive."
+
+Devon sighed. "Look, just leave it, ok? The list is done, so give it to me, and let me settle it."
+
+"Should we just turn up with nothing but our own clothes, then?" Lynus asked, only half-joking. "You're gonna buy us everything we need?"
+
+Devon shrugged. "Turn up naked if you want."
+
+"Alright, let's stop bugging him about it," Jerric interjected, clapping Devon on the shoulder, "and just thank him."
+
+"Dev, are you sure this is alright?" I asked dubiously. "I mean, this is... a lot."
+
+"If it wasn't alright, I wouldn't offer," he said, softening a little. "I don't like to announce that my family is well-heeled, but the way I see it, we're doing something important, and it's silly not to make sure we're as prepared as we can possibly be. Just... stop asking me about my family, okay?" He directed that last at the twins, who nodded. Kevan had the grace to look a little abashed.
+
+"Right, now that we've settled that..." Jerric pulled the map forward again and pulled a few wisps of arcana from the air to create temporary glowing tokens that he pushed to each of us. "Plonk down which city or town you live in, and we can start figuring out which is the best place to meet."
+
+Devon, unsurprisingly, lived in the capital city of Geldor. I shifted my token further north of his to the neighbouring city of Creyvlor. Emilia turned out to be nearby, just a little east of me in the smaller town of Glenside. Jerric was south of the capital in Myordin, and the twins were close to the western border at Hanafast. Ambrose shifted his token all the way to the eastern shore at Lighthaven.
+
+"We're pretty scattered," Jerric said, mulling it over with a frown. He pulled out another map where had marked out the Spire coverage. "It looks like our best option, if we're minimising travel, is to meet at Glenside since that's sort of the central point between us. Then we can head north from there, pass the town of Honourhall, and reach this thinner patch of Spire coverage. And actually, there's even an abandoned Spire just on the edge of that zone, if you guys are up for a bit of a hike to the foot of some mountains."
+
+"Why are you minimising travel?" Emilia asked.
+
+"That's just one suggestion," Jerric answered. He tapped another point on the map, not far from the capital. "If we don't mind taking more time, I'd actually like to head for this spot here. It's an abandoned Spire in a strangely thin patch of coverage even though it's more or less in the middle of the Empire."
+
+"I'd like to go there, too," Ambrose said suddenly.
+
+We all looked up, a little surprised. "Why?" I asked.
+
+He frowned. "I've got a sense that heading to the first place Jerric mentioned is something desirable. I've got a generally bad feeling about that spot near the capital, so that's why I think it's the better option on balance."
+
+"Don't we want to head away from the place that gives the Chosen One bad feelings?" Devon asked.
+
+Jerric gave him a rueful smile, then turned to me. "Looks like we get to make use of you sooner rather than later. I think you should be choosing, Caden."
+
+"Are there other options you're particularly interested in?" I asked Jerric.
+
+"There's another abandoned Spire near Hanafast." Jerric put a marker there. "The rest are either too far for us to cover within the term break, or they're in zones of Spire coverage that are a little denser. These three are the only ones that are on the very edge of a single Spire's coverage."
+
+"What about zones of thin Spire coverage without any abandoned Spires? I mean, we're only looking for wild augera, aren't we?" Lynus interjected.
+
+"Yes, but the way I see it, if we can gather more information in one little expedition, I'd rather prefer to try killing two birds with one stone," Jerric answered.
+
+I nodded in agreement. "Let's make the most of this trip. So it's either the one past Honourhall, the one near Hanafast, or the one smack in the centre of the Empire. Ambrose, any thoughts about the Hanafast option?"
+
+"No, don't have any particular inclination for that one."
+
+I weighed the three options in my mind. Hanafast was a neutral pick, going for the one north of Honourhall was favouring Ambrose's prophetic inclination, and going for the one in the Empire's heart was directly opposing it.
+
+"The way I see it," I said slowly, "we're looking at either Hanafast or the one in the central region. My worry is that going for the one in the central region might make our movements more obvious to the Fateweavers. But I'm personally more interested in that one, too..."
+
+Emilia opened her mouth to speak, but Jerric gestured for her to stay quiet. "We shouldn't influence his decision. I'm sorry, Caden, but if you're to really try and steer Prophecy here, it has to be without our input."
+
+I sighed heavily. What was the wise option here?
+
+Our time in the arcanic space around the dodecahedron had left me with a sense of how complex the weave of prophetic links was. Even with the Demiurge nearby, it had been impossible for us to trace his physical presence by simply following the links from the dodecahedron. It was hard for me to imagine the Fateweavers being able to reliably locate us, even if we did move contrary to the Prophecy's leanings for a short period of time.
+
+It was a risk... but I believed it was worth it. Going to the one in the central region possibly yielded three sources of information — whatever lay in an abandoned Spire, a meeting with a wild augera, and also an opportunity to find out exactly what the Prophecy didn't want the Chosen One to be encountering.
+
+I sent a pulse of arcana to the little marker that Jerric had left over the central region's abandoned Spire. "That one," I said decisively.
+
+Ambrose looked worried, and so did Devon. Emilia frowned in disapproval, and Kevan looked a little uncertainly at her. Lynus shrugged his indifference.
+
+Jerric kept his expression neutral. "Well, looks like we have a destination. If we're headed there, we should meet up in the capital, though that means we'll have to wait probably a day for Ambrose to get there since he's the furthest."
+
+"... in that case..." Devon hesitated, then plouged on. "I guess you guys can stay at my place for a day."
+
+"You don't have to—" Jerric began, but Lynus cut across him with a loud "THANKS, DEVON!" and shook his hand profusely.
+
+"Just... just don't turn up naked," Devon said feebly.

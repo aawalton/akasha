@@ -1,0 +1,219 @@
+---
+id: 9dc6d1d3-232f-581c-b274-55e544a596ba
+page-type-slug: story-chapter-royal-road
+title: "v6c59: Short but Sweet Reunion"
+slug: 0248-v6c59-short-but-sweet-reunion
+partOf: beware-of-chicken
+position: 248
+ownLength: 2242
+unit: words
+ownProgress: 2242
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2553446/v6c59-short-but-sweet-reunion"
+royalRoadId: "2553446"
+markedReadAt: "2026-06-29T18:59:54.365Z"
+---
+
+After learning of the battle, and of the great victory the Shrouded Mountain Sect had won, Shen Yu allowed Bi De and his companions to increase their pace. The information they gathered from the mortals had been judged sufficient to justify it.
+
+It did not take long for them to reach the mountain after that, arriving in late afternoon. Bi De thought the mountain still looked rather strange without its covering of mist, like something important was missing from it.
+
+Bi De had expected for Shen Yu to just fly forward and land upon the mountain, but instead he set them down a ways outside the city around the foot of the mountain and then advanced, not bothering to hide his Qi.
+
+Several scouts spied them… and their eyes widened as they once more beheld the man who had so thoroughly suppressed their Patriarch. Yet, credit to their bravery, they still watched instead of fleeing.
+
+Shen Yu, with Bi De and the rest in tow, marched directly up to a section of the mountain sealed by a gate. The guards froze—and Bi De recognised them. They had been part of Shenhe’s original assault force. While their bodies looked mostly fine now, their Qi was still unstable from their tribulations. They were clearly on light duty to recover, this close to their home.
+
+“Hail, Disciples of the Shrouded Mountain Sect,” Shen Yu announced, his presence unrestrained, yet not oppressive. A sword that was sheathed, rather than bared. “I would request an audience with your Sect Master.”
+
+Some of the tension faded at Shen Yu’s downright polite words. One of the guards immediately entered the sect, while the other paused.
+
+“It shall take a moment, Lord Shen Yu. Um… shall you be waiting? Or…” the other guard began, before trailing off, unsure if they would just be coming in anyway.
+
+“I am content to wait, Disciple of the Shrouded Mountain Sect,” Shen Yu replied, and the guard’s relief that they weren’t here to cause trouble was palpable. “How are your injuries? I see the wounds of the flesh have healed, but your spirit still wavers.”
+
+The man paused. “The demonic Qi burrowed itself deep, Lord Shen Yu. Trauma to the meridians. Elder Lishu says it shall be a year or two yet to fully repair the damage to my cultivation.”
+
+Shen Yu nodded. “Heed his advice well. I would additionally advise meditating outside under the sun, and in places with warming Qi. Lightning cleanses, but it is sharp and violent. A more gentle touch will speed your recovery.”
+
+The man’s eyes widened, and he clasped his hands together in the sign of respect.
+
+“This one thanks the Master of Cultivation for his guidance,” the man said.
+
+Shen Yu nodded absently.
+
+It didn’t take long for Shenhe to arrive, the woman landing gracefully before them… along with the other Elders of the Shrouded Mountain Sect. Bi De recognised Chongyun, Lishu, and Hanbin, Han’s grandfather.
+
+“Lord Shen Yu,” they intoned, bowing.
+
+“Nephew! Bi De! Ri Zu! And young Spooks, too!” Nezan cheered from her shoulder.
+
+“You look well, Zang Shenhe; and fresh off of a well-earned victory,” Shen Yu declared. “Truthfully, I was expecting you to take more time before resuming your patrols; yet even while pressured by your foes, your Outriders still did their duty. You do His Imperial Majesty's will, and you have my praise for the swift ordering of your house.”
+
+Shenhe’s head dipped lower, and the guards swelled with pride. The tension in the Elders’ shoulders faded as well. “Thank you, Lord Shen Yu,” she said earnestly.
+
+The rest of the Elders straightened up, looking pleased.
+
+The old man waved her away. “I speak only the truth,” he said, before looking at Master Lishu. “So, you ended up staying.”
+
+“Yes, Lord Shen Yu. I decided that my talents had a worthy cause here,” Master Lishu replied.
+
+“Very well! A man must be where he chooses to be. My grandson and my granddaughter were very grateful for your instruction of little Ri Zu.” Shen Yu nodded, and Bi De stepped forward with Ri Zu.
+
+“Master Lishu,” they both intoned, bowing. “Our Master wishes to convey his gratitude.”
+
+Ri Zu smiled and pulled out a large satchel of fine leather, stamped with the symbol of Fa Ram, and handed it over to the surprised-looking physician.
+
+“A selection of Spiritual Herbs from his garden,” she said, and Lishu’s eyes widened. “We’ll have to have tea, Master Lishu.”
+
+“I am honoured to receive this,” Lishu replied, looking in wonder at the gift.
+
+“Now, we’re here for a social call. May we enter your mountain?” Shen Yu asked.
+
+Again, that Shen Yu was actually asking to be let in was a large statement of respect. The old monster that had trampled all over the Shrouded Mountain Sect’s Patriarch held the rest of the mountain no ill will.
+
+“Please be welcome, Lord Shen Yu,” Shenhe replied, straightening up. She had a smile on her face. “Though, three of your number did not technically need to ask. I do not believe we ever got around to removing them from the rolls of our disciples.”
+
+Bi De, Yun Ren, and Ri Zu all stared blankly at that piece of information, while Shen Yu found it very amusing.
+
+They were guided up the mountain, towards where Bi De remembered the Core Disciples resided. The rest of the Elders dispersed, going about their business.
+
+“Please, rest after your journey. I’ll call my disciple to tend to you,” Shenhe said, bringing them toward the mansion.
+
+A mansion which had a familiar form sweeping the front courtyard. Bi De smiled, feeling one of his worries ease. Shenhe stopped at the entrance, and stepped just so she couldn’t be seen from the courtyard, or more specifically, so she could not be seen by the man currently sweeping it.
+
+“Old Ling!” Bi De called out. The old man perked up and his eyes brightened.
+
+“Young Master!” he exclaimed, the old man’s face turning into a bright smile. “And your friends, and… Shen, you old goat! How are the brothels treating you?”
+
+Shen Yu grinned. “I’m doing well, my friend.”
+
+“Here to win back that pendant you lost to me?” Ling asked with good nature, pulling out a simple, but well-made necklace that had a small bit of crystal on the end.
+
+“Ah, it's fine, it's fine. You keep that,” Shen Yu waved him away. “And remember to break it if you’re ever in danger. I hear it can summon a powerful spirit to aid you!”
+
+Bi De suddenly realised why Shen Yu had never looked worried that Old Ling was alive. The old man had given him something.  Bi De hadn’t even been aware they had met!
+
+Old Ling rolled his eyes. “Of course it can. Now come in, come in, the Young Mistress is out…” Ling began, trying to get them into the house.
+
+Bi De turned curious eyes on Shen Yu.
+
+“It contains one of my cuts. A rather discerning one; should he have been attacked, he would merely have to break the talisman and all that are his enemies would find themselves severed by it. A fine reward for taking such loyal care of my disciple, and being a fine drinking buddy,” Shen Yu whispered to him before begging off and going with Shenhe, while Nezan hopped from her shoulder onto Yun Ren’s, nuzzling him affectionately.
+
+The rest of them entered the mansion… and it wasn’t long before they saw her again.
+
+Yushang’s warm brown eyes widened, when she burst through the doors, tears forming in their edges.
+
+It was quite nice to embrace her again.
+
+And not long after Yushang returned, Han and Shao Heng arrived as well.
+
+“Yes, my health is progressing well, Ri Zu,” Shao Heng said with an indulgent smile while Ri Zu fussed over him.
+
+“Yes, yes! See, Ri Zu said so! It's not yet been a year and you’re doing so well!” she cheered.
+
+“Oh, thank the Heavens! I had nearly run out!” Han exclaimed, embracing Yun Ren and Spooks, the jar of maple syrup beside him.
+
+“We made it ourselves, just for you,” Yun Ren replied, clapping him on the shoulder.
+
+‘It was very fun!’ Spooks agreed. ‘And I think it's even better this year!’
+
+Bi De let the worry flow out of him while he listened to his friends. From the little things, to the boasts about what they had accomplished.
+
+It had been a mere four months… but it was good to catch up all the same.
+
+“Wait, you’re getting married?!” Nezan demanded.
+
+“Yeah, in the spring. You’re all invited, of course… but only if you can make it,” Yun Ren replied.
+
+“Of course we’ll be there!” Yushang cheered.
+
+“Wouldn’t miss it for the world!” Han continued.
+
+“Do you even have to ask?!” Nezan demanded, sounding insulted.
+
+Summer’s Sky, at Yun Ren’s waist, rattled merrily.
+
+They had a wonderful dinner of beet soup made by Old Ling, and then Yushang gave them all a tour of her new house and their sleeping quarters. Yun Ren got one nearby Han and Shao Heng… while Yushang gained a flush to her face.
+
+“You’ve got two choices,” Yushang told Bi De and Ri Zu. “This room… or this one!”
+
+One was empty. The other… was Yushang’s.
+
+“Hmm. Which one, Ri Zu?” Bi De asked.
+
+“Ri Zu heard Yushang was very heroic. Perhaps the pretty hero of the Shrouded Mountain Sect deserves some sort of reward?” Ri Zu asked.
+
+The choice was obvious, naturally. The three of them still had plenty to catch up on.
+
+=========================
+
+They stayed for a few days at the Shrouded Mountain Sect, catching up with their friends and looking over the rebuilding, the training… and the one or two Ha Qi games Bi De saw being played. Apparently Elder Shenhe had enjoyed the game enough to introduce it to the sect.
+
+A lot of the rules at home about high-sticking had been disregarded, and the direct attacks the disciples levied at each other were much more intense.
+
+Bi De got to talking with a few of the disciples about the game, and they were eager to share.
+
+Surprisingly, the other disciples of the Shrouded Mountain Sect held little animosity for their role in what had happened. In fact... most of them seemed grateful when Bi De spoke with them.
+
+They were free of the treachery of the Patriarch.
+
+Some faces were familiar. The Medical Pavilion disciples, some of the customers from their herb stall, and others…
+
+“Noooooo!” Zang Fengfeng howled and fled from Bi De, her face crimson. The rest of her companions fled with her. “He’s not handsome!”
+
+Bi De recoiled, hurt. He had thought that they were fairly good friends before!
+
+The others had the audacity to laugh at him.
+
+=============================
+
+They wandered over to the Mountain Pavillion as they used to, had lunch with Fenxian and Yingwen, and had tea with Master Lishu; the man had been dumbfounded by the gift he had received from them.
+
+And they spoke with Nezan about the future of the sect.
+
+“I do believe that I can start inviting some kin back to the mountain, should they wish to make the journey. But it will be their choice,” Nezan said. “I don’t mind helping Shenhe. She's a very passionate young girl! She's good for the Shrouded Mountain… and the Misty Fang.”
+
+“Are you going to change the name? Shrouded Mountain doesn’t sound too accurate now,” Yun Ren joked… but he got a fanged smile in return.
+
+“Oh? Well, perhaps in a year we’ll see if that's still true,” the fox replied enigmatically.
+
+===========================
+
+But their time on the Shrouded Mountain was short.
+
+Their mission had been, for now, accomplished. They would have to check in again later… but time waited for no man.
+
+If they waited too long, Yun Ren would miss his own wedding.
+
+So they waved goodbye again to the Shorouded Mountain Sect and started back home.
+
+“So, what is your answer now, Yun Ren?” Shen Yu asked. “Was it worth it?”
+
+Yun Ren considered the question for a moment.
+
+“Yeah. Yeah, I think it was,” Yun Ren replied.
+
+Shen Yu nodded.
+
+“By the way, what's going to happen to the Frozen Cloud Sect? Was that what you were discussing with Shenhe?”
+
+“Hm? Oh, they won’t be a problem. While breaking the rules and winning may result in leniency… breaking the rules and failing? That is a different matter.”
+
+===============================
+
+The remaining Elders of the Frozen Cloud Sect sat frozen in their seats. Elder Chang Guozhi, missing an arm, felt blood crawl up his throat. Before him was a piece of paper.
+
+A piece of paper that had been commissioned by the Imperial Center for Spiritual Ascension Affairs, and ordered to be copied and distributed throughout the Howling Fang Mountains. To every sect. To every city. To every town. To every village.
+
+The bold words at the top of the page stared at them all.
+
+Imperial Declaration of Censure for the Frozen Cloud Sect.
+
+In defiance of His Imperial Majesty's Authority, Granted unto Him by Heaven, the Frozen Cloud Sect has levelled blades at the Shrouded Mountain Sect…
+
+============================
+
+The Frozen Cloud had thought themselves wolves, preying on the weak Shrouded Mountain. The other sects of the Howling Fang Mountains had been content to sit back and wait.
+
+But now, those other wolves' eyes turned from the Shrouded Mountain Sect… to them.

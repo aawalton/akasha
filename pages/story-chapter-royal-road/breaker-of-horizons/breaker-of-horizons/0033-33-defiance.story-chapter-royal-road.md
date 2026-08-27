@@ -1,0 +1,111 @@
+---
+id: 5d8cea80-d908-5063-a034-bb88ba1aa5fa
+page-type-slug: story-chapter-royal-road
+title: "33. Defiance"
+slug: 0033-33-defiance
+partOf: breaker-of-horizons
+position: 33
+ownLength: 2344
+unit: words
+publishedAt: 2020-08-24
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/543761/33-defiance"
+royalRoadId: "543761"
+---
+
+As my father released me, I felt a skewing of my mind as I slipped out of my own thoughts and into the skin of a dispassionate observer. It was something that had happened before on a number of occasions, usually after a great change or upheaval in my life.
+
+The earliest memory I had of this blend of dissociation and serenity was after I had been caught telling my first lie. My mother had sat me down on the porch and given me the scariest talk of my life up until that point. Then she grounded me, confining me to that porch until dinner. After the shame, guilt, anger, and fear had ebbed a little, I remember feeling so wretched that I wondered what it would be like to simply not be me, just so I could escape those feelings. And then before I knew it, I was utterly calm, a stranger in a boy's body, looking through the eyes of a little boy who was crying quietly.
+
+In that state of mind, the world seemed fresh and new. I remember being utterly fascinated by the ants that were creeping out of the grass and resolutely scaling the steps. The blue sky was overhead and the warmth of the sun brought out the perfume of the wooden beams of the porch. Life was teeming all around me. Why was I so locked in my own head and consumed by my own fears and feelings?
+
+That mental state came over me now. Caden Dundale was free of the Prophecy, and his father was proud of him, so what was there to worry about? The weight that had settled on me just a moment ago seemed to vanish. This was a wonderful, marvellous moment, and everything about it was beautiful. The stale smell of books in the study. The dust in the air stirred out of hidden niches, whirling in crazed silence through beams of light. The stoic shape of the shelves. The vague throb in my knees from falling on them earlier.
+
+"Now, before you go, you need to know as much as I can tell you about how the orb works, and you need to understand something about prophecies," my father said, nodding towards the sitting room.
+
+I allowed myself to be led to the chair. As I went, I experimentally flexed the phantom muscle that was the orb and it did a circuit around my head, traced a winding path around my torso, then climbed back up to shoulder height. It was unexpectedly easy to manipulate. My father gave me an appraising look as we sat.
+
+He launched straight into it, slipping into his teacher-voice. "The fundamental function of the orb is to apply a more complex version of your Prophecy-blocking sequence. It frees you up from having to concentrate on it, and as a bonus for being so efficient, it actually uses less auric arcana to keep active."
+
+"Is there a reason you have five of them instead?" I asked. "Is the protection somehow incomplete with only one?"
+
+"Well, yes, and no. My five orbs were made with slightly different principles. Mine is designed to work as an array, to project a field of protection over an area, not just over myself. But more importantly, there's a different view of prophetic links embedded in your orb, since I was informed by your view."
+
+"How is my view of prophetic links different?"
+
+He leaned forward, regarding me over steepled fingers. "We're venturing into very theoretical ground here, Caden. In arcanophany, knowledge is often, though not always, both a tool and a shackle. When you know something, really know something, you have more power and control over it. But it also seems to work in reverse. My research on prophetic links has led me to believe that the more aware you are of them, the tighter they hold on to you. You've just shared with me your own personal, subjective experience of what it is like to be bound by a major Prophecy. When I made my orbs, I only ever knew my own experience of being bound by a minor prophecy. And now I know both."
+
+It took a moment for that to sink in. That definitely did not sound like a good thing. "So that means... you have more power and control over both... but they each also have more power over you?"
+
+He nodded. "Given my work, I'm protected against the minor one... but I have nothing for the major Prophecy. And now, I suspect, I never will be able to make anything against it."
+
+"Unless I make the orb and give it to you," I pointed out. "I'm outside its influence."
+
+"That's something worth considering, but don't pin your hopes on it being that easy, Caden," he said, leaning back with a sigh. "Even working against your sister's prophecy to make these orbs took a lot of... lateral thinking. I believe a major Prophecy would be even worse."
+
+"Lateral thinking? What do you mean?"
+
+"That brings me to the nature of prophecies. Even a minor prophecy exerts a very real influence. At the start, when I mapped out ideas about how to thwart it, I found that I could write things down, but if I wasn't especially careful my notes would be misplaced or get damaged in unlikely ways. If I tried to rely on memory alone, then it would be particularly hard to concentrate whenever I needed to reliably recall anything. The more I understood what I was fighting against, the more difficult it became to fight against it."
+
+He massaged a temple, shaking his head slowly. "Eventually the probabilities started becoming more... dangerous. The distractions became bigger. They started involving the wider world, and the rest of you. A small accident here and there, but only annoying asides, never life-threatening things. Then one day, Triss choked on a fishbone."
+
+"I remember that," I blurted. "It was that big fish we had caught in the lake. We started dinner without you because you were busy."
+
+"Yes," his face darkening. "I was in my study, because I had thought of something that would help me with a breakthrough, and I needed to record it for future reference. And then your mother screamed out, and I dropped everything. Later on, she told me she was so panicked she couldn't remember the basic sequences that would have cleared it up in a moment. And I knew why. It was the prophecy, thwarting me more directly now. I had a handle on it, and it did not want to be brought to heel."
+
+I thought back to all the moments when I had been on the cusp of revealing Ambrose's Chosen One status to the rest, only to be interrupted, or else distracted. But after I had seen the glyph of prophetic links, the intervention had become more direct, right up to my most recent experiences when I hadn't even been able to speak about it to Devon.
+
+"So that's why you never really worked at home," I said slowly. "You confined your research to other places, to avoid endangering us."
+
+"Yes. So it was slow going. Eventually, I came to realise that trying to directly attack the prophecy was a fool's errand. Anything that crystalised my intention would be challenged. I had to work in a very intentionally unstructured way, which is a bit of a paradox. I honestly don't really know how I managed it. In the end, I was working with, I suppose, a kind of self-deception in place. I would focus very firmly on the fact that this little piece of work in front of me was simply utterly fascinating, and that I had no practical use for it. And so, piece-by-piece, I laid the foundations for something I could eventually bring together into its current form."
+
+I couldn't even begin to really imagine how hard that must have been. "So you're saying that if we try to push against the major Prophecy too hard, we will end up getting hurt."
+
+"Yes. And you need to understand something else. You're free of the prophetic links of the major Prophecy, Caden... but remember, the rest of the world is still encompassed in it. The Prophecy can still work around you, even if it can't work through you. This orb doesn't guarantee total immunity. And you mustn't underestimate the Prophecy. I've just learned that the hard way."
+
+A shiver ran up my spine. "... Just?"
+
+He gave me a wry smile. "After my five orbs were up and running, and I was here on campus before you were enrolled, I was reasonably sure I was protected from your sister's prophecy. But you, Caden... at home, you were still in thrall to it. And I had overlooked that fact since it was hard for me to even plan properly while I was still bound by it."
+
+I felt like I was hearing and seeing this from a long way off. I could watch myself grip the seat a little more tightly. "What do you mean?"
+
+"I mean that I succeeded in protecting myself from your sister's prophecy, but not you, nor your mother. 'This daughter shall be your ruin'. The horror of her prophecy is that the ruin can come in many forms, and through many avenues. It seems that after I took myself out of its sphere of influence, it moved on to the other more readily available means of its own fulfilment."
+
+The skein of dissociation and serenity was slipping. I broke out in cold sweat.
+
+"I think it chose you because you were particularly suited to its purpose. Intelligent. Driven. Fiercely protective over Triss, even if she gets on your nerves. And until this very moment, when I crafted this orb for you, you were held in its thrall."
+
+In my mind's eye, I could see my life spread out before me as a series of events, all linked together. Between each major turning point was a series of smaller moments, each seemingly minor and inconsequential, but all neatly strung into a cohesive whole by causality.
+
+"It must have been so easy for it to lead you here to the Academy. Two arcanists for parents. What other vocation would we have nurtured you towards? And for a driving purpose, all it needed was to tap onto that bit of knowledge that your mother and I had foolishly shared with you — the knowledge of the prophecy itself. We were trying to be inclusive, understanding parents. But good intentions are never a shield against calamity."
+
+The links were forming more clearly now. In hindsight, it all seemed so obvious.
+
+"And even then, that knowledge was probably incomplete. Because I never explained to you that the prophecy is targeted. You see, it was delivered to me, personally, not to us as a family. Her prophecy is my ruin. And maybe if I had helped you understand that, you might have been less enthralled by it, less driven to break it. But then again... probably not. Because you also care about me."
+
+It was like watching a chess game in reverse and being able to trace how every step had led inexorably to this moment.
+
+"So it brought you here, into the sphere of influence of the Chosen One, who had his own cloud of prophetic links to snare you. Fates knows how crazy your first few weeks must have been. But all of it brought you here, before me, where everything was in place for you to ensorcel me with a new understanding of prophetic links. You had a reason. You had the knowledge. And you had my permission."
+
+My heart couldn't sink any lower than it already had.
+
+"Now I am bound more closely than I could have ever been to the Chosen One's Prophecy had I been left to my own devices."
+
+Fates. Oh Fates.
+
+"So you see, even though I was protected from its direct influence... your sister's prophecy seems to have fulfilled itself all the same. And here I am, delivered by one prophecy meant for my ruin, right into the hands of a major Prophecy. It doesn't take a great leap of imagination to guess what will become of me."
+
+I was on my feet, and I couldn't remember when I had decided to stand up. Blood was pounding in my ears, but I heard it with that curious sense of detachment that added in a dash of fascination with how warm my face and neck felt. "Why didn't you stop me?" I heard myself choke out.
+
+"I didn't know, Cadey," he said heavily. "Not until you shared your vision of the prophetic links with me."
+
+It was impossible for me to stand still now. I paced, trying to look at anything else, at anywhere else, not at the man I had doomed. Wallpaper, table leg, bookshelf, shoes, back of chair, then back to the wallpaper again. "I did this to you. How can you be proud of me?"
+
+"Cadey, stop." I found myself enveloped in a tight hug. "Stop."
+
+The warmth wasn't only in my ears, face, and neck anymore. It was spilling out of my eyes, staining my face. It was burning my throat.
+
+"I did this," I seethed through clenched teeth, my face buried in his shoulder. "I did this, I did this..."
+
+"It's my fault, Cadey. Not yours." His grip grew firmer, and his voice cracked. "And it's my right as a father to be proud of a son who has done nothing but love his family, and who has worked hard to make his dreams come true, Fates be damned."
+
+Yes... Fates be damned. The skein of dissociation and serenity slid over me again, and I could think around the anguish. A part of me was watching myself cry into my father's shoulder, and another part of me was sketching into the future, laying out my own plan of war. A cold purpose settled over my heart. Fates be damned.

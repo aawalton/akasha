@@ -1,0 +1,83 @@
+---
+id: eefd7704-9dd9-51f6-af1c-fd00a60b1965
+page-type-slug: story-chapter-royal-road
+title: "25: Run, Jack, Run"
+slug: 0025-25-run-jack-run
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 25
+ownLength: 1099
+unit: words
+publishedAt: 2024-11-10
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1896078/25-run-jack-run"
+royalRoadId: "1896078"
+---
+
+25:
+
+Jack knew that he could run faster than Sarah if he wanted to. But if he did that, he would be leaving her behind as the obvious target.
+
+He had no intention of doing that and it was there that both the survivalist within him and his own personality were in complete agreement. Jack suspected that there was a reason why the system had clumped them into groups of four and given the increase in difficulty only a day in, he could see why.
+
+Unless Jack managed to awaken a power like Trent had, he needed to work together with Sarah. Even on a personal level, Jack owed her just for being there. Used to solitude as he was, he could still appreciate the importance of having someone to talk to in the environment of constant danger they found himself in.
+
+So, Jack had reduced his sprinting speed just enough so he matched Sarah, as they left behind the safety of the cover provided by the Anarix Tree in a mad dash towards the next one.
+
+Trying to outrun an archer wasn’t the greatest of strategies, but if they managed to pull it off and keep the darn thing’s attention, Jack could counter it.
+
+Life had become a gamble in the new world and regardless of how it panned out, Jack did not intend to disappoint the persona he had adopted.
+
+After years of pretending to be a wildly eccentric doomsday prepper, he’d come to enjoy the lot in life he’d chosen for himself. He had come to respect the modern weapons in his hand, because their history was stored in his bunker and every time he studied his historical artifact collection, he could not help but be awed at the ingenuity of man both in the past and the present.
+
+Just like that, he would come to honor this new power that the system had thrust upon him, he just needed to survive long enough first.
+
+This time, Jack didn’t hear the twang of a bowstring, and even the whooshing of the arrow was more like a muted hiss as it plummeted towards them in a downward arc as they were three fourths of the way to their target.
+
+Jack couldn’t help but let raw instinct take over as he pushed Sarah forward in case the arrow was targeting her before he dove in a hard right away from where they had been standing a mere moment ago.
+
+If the archer had somehow accounted for their reactions, then, well, Jack had no choice but to accept that outcome. But he chose to move forward with the hope that it’s rune did not have such an outlandish power, as he used his dive’s momentum to roll forward not once or twice, but three times before landing on a crouched position on his feet.
+
+A muffled thunk rang out and Jack simply had no time to check on Sarah as he willed strength into his legs to stand back up before taking three long steps in quick succession that were buildup for a dive that had all his fifteen strength behind it as he aimed for the tree trunk’s curvature.
+
+Jack flew through the air, realizing that he’d underestimated how strong he had gotten by a degree or two. He was forced to roll to try and restrain the momentum behind his leap but when even that didn’t prove enough, Jack slammed his feet to come to a stop behind cover.
+
+His eyes focused only to find a heavily panting Sarah staring right back at him, the adrenaline rush having caused her pupils to dilate.
+
+“Thanks,” She whispered in between a pant, before breaking out into a manic chuckle.
+
+Jack suspected that the arrow had been aimed for Sarah, given her reaction.
+
+He offered her a nod, before checking his Qi Pool.
+
+He just about managed to hold back a grimace. He still needed two more Qi in his Pool to hit the requisite number of five. Though it was tricky to estimate how long it took to normally charge, he had a rough estimate of about three and a half hours, back when his Qi Pool was smaller.
+
+It was only a suspicion of his, but Jack’s intuition was telling him that the base rate of regeneration had improved as his Qi Pool expanded in size.
+
+Still, if he wanted to be conservative in his estimates, Jack would say that it took him anywhere from fifteen to twenty minutes to regenerate a point of Qi, which was why allowing it to fall low was so damn risky.
+
+With the Qi Gathering Pill’s double the regeneration rate, that was anywhere from a total of fourteen to twenty minutes total that they had to survive before Jack had a counter.
+
+It was not an easy task, but it was doable given that Jack intended to hide behind the cover they’d fought so hard for, for at least ten of those minutes.
+
+The forest had fallen eerily silent and Jack found that doubts had begun to creep up. Gritting his teeth, he thrust his hand out from behind cover, his palm outstretched for one long second before he yanked it back.
+
+And thank whoever was listening that he did, because this time Jack’s sense of sound and instinct both failed him as an arrow, a normal arrow at that, softly whizzed past where his hand had been a moment ago.
+
+This arrow did not have the Qi enhancement and it had come from a position diagonal to them, as it lodged itself in the grass before Jack.
+
+Fucker’s trying to flank us, Jack thought, his gaze turning to Sarah before he said, “Like we discussed.”
+
+“Okay,” Sarah replied. “Three, two, one… go!”
+
+Jack and Sarah sprinted like their lives depended on it, crossing the one half of the distance between them and the next tree in what felt like the blink of an eye, even after Jack matched her pace.
+
+Then, they split apart after crossing the midpoint, arcing towards the tree from two different arcs.
+
+Jack stopped holding back his speed and Sarah used her strength stat investment to dive the last of the distance.
+
+The Anarix tree they’d barely managed to get behind in time vibrated lightly as a Qi empowered arrow slammed into it’s trunk, near it’s curvature as Sarah had dived for safety.
+
+For some reason, the goblin archer really wanted Sarah dead.
+
+Thankfully, a mere two minutes later, Jack’s counter was ready.
+
+Now, all that was remaining was to execute the riskiest plan of them all.

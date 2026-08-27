@@ -1,0 +1,121 @@
+---
+id: 3b759ffc-367c-5e56-8770-60ba9d232ad6
+page-type-slug: story-chapter-royal-road
+title: "137. Monstrous"
+slug: 0137-137-monstrous
+partOf: breaker-of-horizons
+position: 137
+ownLength: 1811
+unit: words
+publishedAt: 2021-08-23
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/738555/137-monstrous"
+royalRoadId: "738555"
+---
+
+Ambrose felt the arcana pass through the glyphs in his mind, through his auric-ambient-flare, before being twisted into fantastical shapes that defied comprehension. Even now, he couldn't really understand all of it, but something about its essence troubled him. For a sequence that was supposed to be defensive, it felt alarmingly sharp as it took form.
+
+The sequence drank in every ounce of arcana that Devon and Jerric had supplied to him, and then proceeded to almost completely hollow him out. The arcanic draw was so immense that he almost passed out right there and then, but just as he thought he was going to shrivel up like a prune, the sequence took hold.
+
+The fabric of reality around the trailer stuttered.
+
+Then, the hostile sequences came to fruition. Six beams swept across the trailer — one from every side, aimed horizontally, each pitched at different heights so there was no way for anything or anyone inside to escape unscathed; and two from the top, aiming to slice the whole trailer front-to-back into four long strips. The air hissed and sizzled with the violence of their passing, and two long, bubbling gashes appeared in the asphalt, traced by the twin beams coming from above.
+
+Immediately after that, the empty blue sky was suddenly dotted with four little explosions roughly half a mile above the trailer.
+
+Devon and Jerric were screaming as the trailer screeched to a halt, but their horrified yells slowly pettered out as they realised they were still whole and unharmed.
+
+"... What?" Devon whispered, staring around at Ambrose and Jerric, his hands gripping the steering wheel so tightly that it creaked a little. His foot was still jammed on the brakes.
+
+Jerric was gingerly patting himself down, as though he half-expected to fall apart into charred lumps of flesh. When he was finally assured that he was indeed still in one piece, he turned his disbelieving gaze to the rest of the trailer behind them. Except for the damage they had sustained earlier, everything else was untouched.
+
+"G-get us out of here," Jerric finally managed to gasp out, turning to Devon. "They must be getting ready to—"
+
+"We're fine," Ambrose wheezed. He was doubled over and panting heavily, but he shook his head at Jerric, then reached out and gave Devon a comforting pat on the shoulder. "We're safe. Good driving. Got us this far."
+
+Devon didn't look like he was in any shape to drive. He simply stared back at Jerric, then at Ambrose, then out at the road in front of them.
+
+"But the attackers—" Jerric began, sounding slightly hysterical.
+
+"Dead." Ambrose collapsed into the passenger seat, wincing.
+
+"How?"
+
+"Give me a sec," Ambrose pleaded, waving a hand weakly.
+
+"I felt them go right through me," Devon murmured, still staring straight ahead. "Those beams. Right through me."
+
+Jerric nodded slowly as one of his hands subconsciously reached for his throat before drifting down to his abdomen. "Me too."
+
+Ambrose leaned out the passenger-side window but only found himself retching a few times. When he felt a little more settled, he leaned back against the seat and forced himself to calm his breathing, hoping to quell the churning in his auric-ambient-flare that was also throwing his body's functions into chaos. He knew if he didn't get this under control, the overdraw would hit him like a truck.
+
+Next to him, Devon started sobbing quietly. Jerric had sunk to the floor between the two front seats, but he struggled to his feet and laid a comforting hand on Devon's back while bracing himself against the wall behind the driver's seat.
+
+It was several minutes before Ambrose felt fit enough to speak, and by then Devon had calmed somewhat, although he still maintained his death-grip on the steering wheel. Jerric was looking a little better as well, though he was clearly only still upright because of how he had wedged himself between the wall and the back of Devon's seat.
+
+"The Nightwatchers gave me sequences to use in emergencies," Ambrose began, his voice cracking a little. He cleared his throat and continued. "I was told this one's some kind of ultimate defence."
+
+"But our attackers are dead? How does that work?" Jerric asked.
+
+"I don't know," Ambrose confessed. "I only memorised the glyphs. I don't know the theory behind it. I only got some impressions when I used it. But I think—"
+
+"You mean you... took a gamble?" Devon's voice was tiny. "You didn't know it would work?"
+
+"I knew it would work, but I didn't know how," Ambrose answered. "When the Nightwatchers gave this one to me, I was told it would work on any attack, as long as its based on arcana. Anyway, after I used it, I—"
+
+Devon let out a sound that was something between a snort and a sniffle. "Did it work as intended?" he asked, a slight edge to his voice.
+
+"Well... we're still here, aren't we?" Ambrose asked a little uncertainly.
+
+"Still here," Devon repeated, nodding slightly. "Sliced to ribbons, but somehow still here. Felt it happen, but still here. Still okay. It's okay. I'm okay. Okay."
+
+Ambrose turned helplessly to Jerric.
+
+"We almost died," Jerric said wryly, looking utterly drawn himself. "Actually, for a moment there, it felt like we did die. That doesn't bother you at all?"
+
+No, because what matters is that we didn't die. That was what Ambrose wanted to say, but he knew better than to do that. However, watching Jerric and Devon now made him realise that he hadn't really come through that experience with the same level of trauma. He was understandably shaken by the use of an unknown sequence and suffering some overdraw from the monstrous amount of arcana it had demanded, and his mind was quite wrung out by the degree of arcanic control required to successfully make use of the sequence, but beyond that he felt alright. In fact, now that he was paying attention, he felt positively thrilled. Watching the sequence unfold had been terrifying, but also exhilarating. It was a thing of sophistication and elegance, of beauty, even.
+
+"We didn't die," Ambrose said, trying to communicate his relief, and the insights that had come with making use of that sequence. "The sequence secures everything within it and sort of... envelops. Uhm, no, it... it subsumes you. Then when hostile arcana interacts with you, it blends you with it, but it, uh, remembers you, and then returns you back to your original state after the hostile sequence has passed. You were never harmed."
+
+But he knew, almost as soon as the last word was out of his mouth, that he had misspoken somehow. Devon's shell-shocked face suddenly twisted in anger. "Never harmed?"
+
+"He means—" Jerric began.
+
+Devon moved so quickly that neither Ambrose nor Jerric had time to react. The seatbelt snapped as he rose, arcana bolstering his limbs, and he flung open the driver's side door and launched himself out before either of them could lay a hand on him. The trailer rocked a little with the force of his departure.
+
+Ambrose recovered from the surprise and was about to set off after Devon, but Jerric gripped him firmly by the shoulder. "The last person who should go after him is you," he said.
+
+"You look like you can hardly move," Ambrose protested.
+
+"Yeah, but he doesn't need catching." Jerric nodded out the open door, and Ambrose followed his gaze. Devon had stopped a few hundred meters away on the top of a small hill. Even his silhouette looked distraught, but he went no further.
+
+"If you're sure the people attacking us are dead, then we should give him some time alone," Jerric said.
+
+Ambrose looked skyward. If not for the harrowing last few minutes they had just endured, the day would have seemed like a pleasant one. But Ambrose was certain that the threats had been dealt with. He had felt it. "We're safe from the ones who were attacking us. But there's no telling how many more might be on their way."
+
+Jerric pursed his lips and thought for a moment before he made up his mind. "Let's give him five minutes, then I'll go to him. Meanwhile, fill me in. What else did your sequence do?"
+
+This time, Ambrose did a better job of concealing his excitement. "Well, it can somehow identify arcana that has been formed into hostile sequences, which is how it knows its supposed to activate and protect the people within the field. But there's something... almost intelligent about it. It tracks the hostile sequences to their source, and then does something to totally neutralise the points of origin."
+
+"But you said the enemies had their auric-ambient-flares veiled, like ours," Jerric said, frowning.
+
+"Yes," Ambrose nodded, his eyes alight. "That's what makes it so amazing. It worked anyway. I saw it happen. I don't really understand all of it yet, but it was glorious—"
+
+Jerric interrupted him by clapping him on the shoulder. "Ambrose, arcanophany fascinates me as much as the next person, and if the Academy wasn't going to force us all to be thaumaturgists, I'd have probably worked towards becoming a sage. But..."
+
+He sighed, withdrew his hand, and shook his head.
+
+"But what?" Ambrose asked, a little more subdued now.
+
+Jerric smiled sadly. "I don't know. I was going to say that you need to be more human. Wasn't sure if I should, but I guess I have now."
+
+"I'm human," Ambrose said, and his voice cracked a little. "What do you mean?"
+
+"I mean..." Jerric looked a bit uncomfortable, but he ploughed on. "You say we didn't get harmed, but you're totally ignoring the fact that we all felt the beams cut through us. We're alive, but for a moment we felt death. And I know those guys, whoever the hell they were, were trying to kill us. But now they're dead. All that pain and death... and you... I mean... is 'glorious' really the word to use here?"
+
+Ambrose's throat had gone suddenly dry.
+
+Jerric took in a deep breath and continued. "But... well, that's what I wanted to say. But then maybe I'm wrong. I mean, that's what you talked about earlier, isn't it? Maybe you're like this because of the Prophecy. And if so, then... I guess in a way it's not your fault. There's nothing you can do about it."
+
+"I'm human," Ambrose repeated, though even in his own ears that statement rang a little hollow. Jerric bobbed his head in awkward acknowledgement, then clambered over the empty driver's seat and out the door, leaving Ambrose alone in the front.
+
+Ambrose watched as Jerric slowly made his way towards the distant figure of Devon. As the sound of Jerric's footsteps crunching on the dry ground faded away, the silence rushed in to envelop the Chosen One.

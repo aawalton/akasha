@@ -1,0 +1,181 @@
+---
+id: 0330e75d-e945-500c-906f-9ffb212167b9
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 62 - Treat"
+slug: 0066-b3-chapter-62-treat
+partOf: bookbound-bunny
+position: 66
+ownLength: 2505
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3642856/b3-chapter-62-treat"
+royalRoadId: "3642856"
+---
+
+Walking around together, one thing became quite apparent for Lily and her friends—most of the kids at this event seemed to be sticking to their factions. It made sense: this was not only a festival but also a competition among the three for the top spot.
+
+Lily herself didn't really care who was on top, as she didn't see it affecting her too much, although Hana and Arthur appeared to still have quite the competitive spirit. Not to mention Clarissa, who was still crudely taunting Lily into trying to compete with her.
+
+Her latest antic was in a written test that Alice had thrown at them to pass the time before everyone took a break for the festival, where both Lily and Thomas had scored full marks, with Hana and Lotte not far behind. Arthur… Passed.
+
+"Hmph. You studied that long? How dreadfully inefficient," Clarissa had taunted. Her own score was good, but certainly not within the top ten, which seemed to upset her.
+
+At the time, Lily didn't want to admit she hadn't exactly studied for this test; nobody had, but she actually sort of felt bad for Clarissa in a weird way. Thomas must have felt the same, as he actually offered to help tutor her if she wanted some help.
+
+"I do not require tutoring," Clarissa had quickly said, before pausing. "However, observing your study methods may prove… mildly instructive. You will be compensated for your time. I would not exploit free labor, and it would be irresponsible of me not to circulate wealth within my immediate social sphere."
+
+Come to think of it, I haven't seen Thomas much since that. I hope he's surviving…
+
+As the trio walked around, they saw that more stalls had been set up since their last visit, notably several food and snack stalls, giving it a strange, almost harvest-festival vibe. The three now suddenly understood why the cafeteria had been relatively empty; there was plenty of food for the event.
+
+"Maybe we skip breakfast tomorrow," Lotte suggested.
+
+"Who knew we had so many cooks in the school?" Lily commented.
+
+"It's probably the easiest way to earn some money on the side. Who doesn't like a sweet treat?" Hana replied.
+
+They continued wandering, avoiding the food areas for now and focusing on random trinkets and crafts. While they were distracted, they were nearly barreled over by an energetic Rose who had come out from nowhere to grapple Lily into a tight hug.
+
+"Finally found you!" Rose said excitedly.
+
+"We waited at the cafeteria for you," Lily said as she freed herself.
+
+"Nobody eats food at the cafeteria during the festivals," Rose rebutted.
+
+"Yeah, we found out," Lotte sighed.
+
+"So, are you ready for your big competition?" Rose asked.
+
+"I don't think it's going to be that exciting. We're only first years, they might as well ask us to make tea," Lily said, trying to downplay it.
+
+Lotte shook her head. "I don't think Professor Sylwel is capable of anything subtle. He might throw a real complex potion at us just to see if we can. Also, he probably wants to show off the standardized glyphs."
+
+"Oh… Right…" Lily murmured, realizing that might exactly be the case.
+
+"Oh? You were involved in the competition?" Rose asked.
+
+"Just some grunt work," Lily replied and gave a brief explanation.
+
+"Still, though, not many first years can say they were part of that. You should be proud," Rose insisted after hearing the explanation.
+
+"And all the glyphs you were drawing around the school," Hana chimed in.
+
+"Exactly! I was so proud of you. I kept bragging to everyone that that was my little sister doing it," Rose said, proudly puffing out her chest.
+
+"At this rate, everyone is going to forget you're a star mage," Lotte joked.
+
+"Astral," Lily corrected, to which Lotte playfully stuck out her tongue.
+
+"Speaking of which, have you ever considered that maybe astral is somehow linked to glyphs?" Hana suddenly asked.
+
+Lily had to forcibly hide her smile upon hearing that. It was exactly what she wanted to start spreading.
+
+"No, but now that you mention it…" Lily whispered, trying to hide her real feelings behind mumbles.
+
+"That would make a lot of sense if it did," Lotte chimed in. "Bloodlines don't only grant magic, my poisonous blood is the prime example, so why not glyphs?"
+
+"Or wings, tails, gills, and a whole bunch of other things," Rose added.
+
+Rose knew that Lily didn't actually have a bloodline, but her response must have been her attempt to go along with it. Neither of them had any idea how the world would respond if they found out the truth, and Rose had even admitted she was afraid that someone would take Lily away if word got out. Thus, she had more than enough incentive to push the bloodline agenda whenever possible.
+
+"Maybe I'll ask my parents about it," Hana suggested. "Our families having two, well, technically three bloodlines means we probably know more about them than others. I've just never really cared enough to ask. I wanted to be a top adventurer regardless."
+
+"Looks like me and Lily have some competition then," Rose replied with a grin.
+
+"I'm already falling behind Lily, and you want me to compete with you?" Hana chuckled.
+
+"Don't sell yourself short, you never know what growth will happen during your stay at Regarth," Rose replied. "Having access to the dungeon is really a blessing like no other. Sure, the other schools might see it as a bit barbaric, but I don't think there's anything better for nurturing your bloodline."
+
+"Or in my case, fighting it," Lotte sighed.
+
+Rose shrugged. "Give it a few years, and you might harmonize with it, who knows? I've seen some of my seniors, and the longer they've been here, the more they've grown. Of course, there are exceptions; some people have given up, but put in the time and effort, and more often than not, you will be rewarded."
+
+Lily blinked several times in astonishment. "Since when could you give inspirational speeches?"
+
+Rose sighed, "The headmaster suggested I learn to fight with words instead of fire and fists all the time. He even assigned me a tutor…"
+
+"I'd better thank him then," Lily giggled.
+
+They continued walking around until just after lunch, where they had tried a variety of food and snacks. From there, they split up: Hana needed to meet her parents, while Lily and Lotte needed to get ready for the alchemy competition.
+
+"Look for me in the audience, I'll be cheering you on," Rose said.
+
+Lily smiled and nodded before departing with Lotte. They were heading for the auditorium, which was where the competition would be held. It had undergone quite a renovation since they had last stepped inside, and Lily quickly noted that plenty of adults were seated in the audience. She also spotted an excited-looking Professor Sylwel and a rather nervous Headmaster Fabrelis.
+
+When they walked onto the stage, Lily caught the tail end of their conversation.
+
+"I can't believe I let you talk me into this," Fabrelis sighed.
+
+"It was approved by the enchanting department. What more do you need?" Sylwel replied.
+
+Unfortunately, his words did little to alleviate the look of unease on the headmaster's face. Sylwel, however, didn't seem to care, and when he spotted Lily and Lotte, he immediately became more excited.
+
+"Great, you two are here, we can get started soon then," Sylwel said.
+
+"Do you need us to do anything?" Lotte asked.
+
+Sylwel shook his head. "You can just find an open cauldron and stand by. Everything else has been taken care of."
+
+The pair nodded and found two unoccupied tables relatively close to one another. Other than the cauldron and basic tools, there was nothing on the table yet, so there was no hint of what they were going to be brewing. While waiting, they whispered to one another while occasionally glancing at the audience.
+
+Despite being the first year students first, there was a surprising number of people, which made Lily suspect that either the headmaster or the professor had informed people that something was going to happen. Why else would they come to see a bunch of first years fumble around with ingredients?
+
+Lily felt a little conflicted about the arrangement: while she was happy to be part of it, she had expected the older students to headline the big reveal. Still, this probably worked out better for her and her ultimate goal.
+
+"Alright, places everyone, we will be starting in a few minutes," Headmaster Fabrelis said, his voice magically amplified so everyone could hear him perfectly. "Make sure to put away anything unnecessary, Familiars included, we don't want any accidents."
+
+Lily nodded and had Arakil shrink down in size before pocketing his grimoire. Although the headmaster's comment had brought up a question for her, she secretly conversed with Arakil about it.
+
+{I thought the Familiars were supposed to be a secret, but what about all the adults? Are they all graduates?}
+
+[Perhaps, or maybe they had to sign a waiver to be allowed entry? You can't expect children to keep their Familiars a secret from even their parents forever, so there must be some compromise in place.]
+
+{I wonder if the other schools actually know, but pretend not to.}
+
+[Quite possible, although they might not know the full details. They might think it's just a combat companion, and not know about the Mana-sharing aspect, for example.]
+
+While Lily was secretly talking to Arakil, she spotted Rose in the audience, waving dramatically to catch Lily's eye. Holding back a smile, Lily gave a small wave of her own before bringing her attention to Headmaster Fabrelis.
+
+"Right, I believe that's everyone. As some of you might have heard, we have a small change in the alchemy competition this year, which Professor Sylwel has graciously offered to be the test case. If this proves successful, we may look into expanding this into other areas or, at the very least, use it to aid with tests so our students will be ready for their official examinations."
+
+The audience stirred as they listened eagerly to the headmaster's words. The students taking part were also now very curious, and some were even searching their tables for answers. Meanwhile, Fabrelis continued.
+
+"With the help of the enchanting department, we've established standardized glyphs for each of the alchemy competitions. Each is identical in performance so that every student will be on even footing, and no longer will be forced to endure a massive expenditure or learn to split their focus on flame control."
+
+The audience seemed excited by his words, although there seemed to be a big question on everyone's mind: how could Regarth afford this?
+
+Headmaster Fabrelis chuckled faintly as he shook his head. "No, Regarth didn't suddenly find a ludicrously wealthy sponsor, nor did we find some massive treasure from within the dungeon. In fact, this solution is surprisingly affordable."
+
+He lifted his hand, grasping a page with a familiar drawing on it. At the same time, a larger, illusory image of it appeared, considerable enough for the audience to see clearly.
+
+"Glyphs, drawn not with blood, but ink. This ancient practice was revived through the collaboration between Professor Ollie and Professor Sylwel, along with the help of our very own students," Fabrelis explained.
+
+Lily sighed with relief; she was a little afraid that she would be named personally as a collaborator. While she appreciated the gesture of being included, she didn't want that level of attention directed at her and was more than happy to have her two professors shield her from it.
+
+Besides, Sylwel really did most of the work in this regard. I just tested his results.
+
+Headmaster Fabrelis went on to explain some of the details, and Professor Sylwel actually assisted him with. Not only did they activate one of the glyphs for everyone to see, but he also went on to explain that, since the formula was consistent, assuming a competent alchemist, the results could not only be replicated but also their limits understood.
+
+While most of this went over the average person's head, a few gave understanding nods at the potential this held. Sylwel himself explained several, and even spent some time badmouthing the inflexibility of enchanted items, which were often made for a broader market.
+
+Thank goodness Professor Ollie wasn't here, or he might have erupted on stage.
+
+Recovering from Sylwel's rant, Fabrelis went on to explain that it could be used to add flexibility to the teaching curriculum and even allow their enchanting students to properly test out their knowledge before the official examination. Saving money really spoke to everyone's hearts, and it seemed, for now, there was quite a lot of positivity surrounding this endeavor.
+
+"Right, I think we've had enough talk, so why don't we show some of the results?" Fabrelis said, motioning to the wings of the stage.
+
+Several staff members came out; some were holding stacks of pages, while others were holding ingredients. One by one, they handed each student a page and a variety of ingredients. Seeing mass-produced glyphs, even on a notably small scale like this, excited the audience, and the students themselves seemed quite eager to work with a highly controlled flame.
+
+"Oh, one last thing," Professor Sylwel suddenly said. "While some of you might not be able to read glyphs, let me explain why this is great for tests or competitions. Each of these glyphs is set to the exact same temperature, the same size, and, more importantly, the same duration. Each of you will have exactly one hour to finish your concoction before your flame goes out. Whether you need ten minutes, twenty, or the whole hour is up to you; the flame, however, is your limit, so use it wisely."
+
+Most people didn't seem to like it when Professor Sylwel spoke, but this time his words had caught them. Ordinary people didn't know that glyphs could be customized so specifically, and hearing that all of this had not only been planned but reproduced for every student was certainly exciting to behold.
+
+"Right, now follow my lead and place your page under the cauldron. There will be a countdown, and you will all be expected to activate the glyph with a spark of Mana or be disqualified," Sylwel explained, as Fabrelis demonstrated his actions through an illusory image.
+
+The students all copied his movements and seemed ready. Thankfully, nobody had accidentally activated it early out of nerves, and Lily realized that maybe she should have added an extra trigger to the design for just such circumstances.
+
+Well, it was a rush job; we can make improvements next time…
+
+With everyone ready, the last thing left before they started was for Sylwel to announce their task. Just looking at the ingredients, Lily had several predictions of what the potion could be, but she realized some of them could even be there purely for distractions.
+
+Let's hope Sylwel wasn't too crazy this time…

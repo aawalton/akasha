@@ -1,0 +1,137 @@
+---
+id: c9f40cf1-eb93-5b11-88e1-270b55a60321
+page-type-slug: story-chapter-royal-road
+title: "v6c34: Tranquil Morning"
+slug: 0223-v6c34-tranquil-morning
+partOf: beware-of-chicken
+position: 223
+ownLength: 1784
+unit: words
+ownProgress: 1784
+publishedAt: 2025-06-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2362330/v6c34-tranquil-morning"
+royalRoadId: "2362330"
+markedReadAt: "2026-06-29T18:59:01.054Z"
+---
+
+I woke up to the feeling of something ticklish on my nose. I absently tried to swat at the feeling, but my right arm was weighed down. Assuming that was the arm Meimei had slept on last night, I tried my other arm… only to have that one weighed down too.
+
+There were two sets of muffled giggles. My nose tickled again. I opened my eyes, and raised an unimpressed brow at my tormentors. Meiling was laying on one arm, Xiulan on the other. It was actually a rather nice view… but it was ruined by the fact that both of them had brushes with ink on them. I most certainly had vulgar things drawn on my face.
+
+I looked Xiulan dead in the eyes.
+
+“I expect this from Meimei, but you too?” I demanded of her. Xiulan’s smirk simply widened.
+
+“Oh, but Master Jin, I know not what you mean,” she tried, badly hiding the brush behind her back.
+
+My arms snapped up, locking around two waists, and with a complex grappling maneuver—also known as just gripping the two idiots—I made a Meimei and Xiulan Burrito, tying them up in the blankets.
+
+“Oh~? What are you going to do with us captured maidens?” Meimei asked me, waggling her eyebrows.
+
+I stuck both pinkies in my mouth. Meiling and Xiulan stopped giggling.
+
+“Meimei made me do it?” Xiulan tried, instantly throwing her partner in crime under the bus.
+
+“Wait, dearest husband, we can talk this out. We can talk this out—” Meimei started, her voice nervous and wavering.
+
+I had no such mercy. The Heavenly Punishment Technique: Wet Willie descended from the heavens and smote the foul face-defacers. With the soundproofing added to our room… I don’t think anybody below heard the shrieks.
+
+With divine punishment meted out, I descended from my room to wash my face. Both Xiulan and Tigu had decided our bed was the best place to conk out. But while Xiulan had evidently decided to stay and tease, Tigu and Zhuye were nowhere to be seen. Probably having something to eat. It was rather late—but then again I normally woke up around the time we finally hit the hay last night.
+
+Ah, well. At least one day of relaxation was all good, especially after drinking so much of Vajra’s mead. By the end of the night everyone was hailing the Boozemaster, who basked in our adulation… especially Bailu’s. I think that woman was about to start a religion.
+
+Both of the Soaring Heaven’s Isle ladies had been pretty chill. They only wanted to have a good time, eat and drink… which really, was probably the best use of a life extended by cultivation.
+
+The ink came off quickly, and I prepared myself to see the aftermath. I wasn’t disappointed. The living room looked like a real party had hit it.
+
+Rags was tied to the ceiling. Loud Boy was the little spoon to Delun, something I knew would cause an argument when they woke up, because both men looked surprisingly comfortable. Gou Ren was asleep on Xianghua’s chest, his arms and legs tied up with rope. Neither of them had made the trip back home last night. Yun Ren and Biyu were in a similar state, though Biyu was the one tied up… and both of them were cross-dressing. Yun Ren was entirely too pretty in that dress of his, but Biyu was more cute than actually looking like a guy. Both of them were wrapped up by one scarf, and both had lipstick marks all over their faces.
+
+Beside them were another set of cross-dressers: Chunky and Peppa. Chunky was barely squeezed into one of Peppa’s dresses, which was basically a tube-top on him, and a skirt that reached mid-thigh. It was valiantly holding on, though it did look rather stretched around Chunky’s human form. Peppa had her hair in a traditional male topknot, and was wearing Yun Ren’s travelling gear. She wore the warrior-maiden look really well.
+
+Spooks had the top half of his snout still in a maple syrup jar, and there was a sticky mess all over him. Babe and Sunny were nearby, the ox surrounded by logs that had been chopped into busts of people as a party trick. Huo Ten was using one as a pillow… and had a pair of somebody’s underwear on his head and a blanket tied around his neck like a cape.
+
+That was just what I could see from the stairs. I chuckled and moseyed along, not really concerned about the mess. It would buff out.
+
+I glanced into a mead barrel as I walked past it, the top having been removed entirely… and there was Washy in carp form, a happy smile on his face, and the last dregs of the drink around him. I hazily remembered him finally getting to jump into the half-empty barrel, cheered on by the rest of the party.
+
+‘Good morning!’ a voice greeted me with cheer. A tail thumped against the floor as I passed the couch. I turned and raised an eyebrow.
+
+“Good morning Shaggy Two,” I greeted the dog… who was currently sandwiched between Bailu and Seiyu. Man, he was living most men’s dream right there. He gave me a doggy smile.
+
+‘Friends say Shaggy Two comfortable! Shaggy Two helps friends!’ he declared with pride.
+
+“Yes you did, boy,” I praised him. I noticed both Bailu and Seiyu had woken up as soon as I had spoken, so they hadn’t completely dropped their guards. “Blessings on the New Year.”
+
+I left them to it and wandered over to the kitchen, where there was some sound.
+
+I peeked my head in, and there was Tigu, Zhuye tied to her back, the Torrent Rider, and Noodle, all chatting while they made rice.
+
+“Blessings on the New Year,” I called to them, and they immediately perked up.
+
+“Blessings on the New Year!” all three of them returned with beaming smiles.
+
+“Some party last night, eh?” I asked.
+
+“Everyone made delightful fools of themselves!” Tigu agreed. “We have to do the games again!”
+
+“We definitely do,” I agreed. I gave her a kiss on the forehead, then gave one to Zhuye, and started helping out myself. People were bound to be hungry.
+
+“Do you know where everybody else is at?” I asked. “I know Bowu, Lu Ri, and the Cloudy Sword Sect Disciples stayed in Hong Yaowu.” Bowu, because he had been too busy seeing what Ty An’s tonsils tasted like to want to leave, and Lu Ri because he was back “on duty” as it were, guarding the village.
+
+“Vajra is in her hive. Grandfather is beside his house. I think he was paying his respects to old comrades,” Tigu informed me. “He had incense and filled cups he didn’t drink… but he had a smile on his face. I don’t know where Bi De, Ri Zu, and Yin are though…”
+
+I paused at the statement, before shrugging.
+
+“They’ll turn up at some point,” I said and got back to work. Tigu had already fed the sourdough starter and shaped the bread, so I would just have to bring the oven up to temperature.
+
+I opened up the oven… and paused as a shock of red, black, and silver greeted me.
+
+“...see? I told you they’d turn up,” I said after a moment, while simultaneously wondering how the hells the three of them had fit… and more importantly, how they found a roasting tray big enough to fit three humans. Sure they were mostly curled up, but still.
+
+“Oi. Wakey wakey!” I demanded of them, and all three moaned and shifted.
+
+“Blessings on the New Year, Master,” came Big D’s bleary voice, before he paused. “Am I in a roasting tray again? Wha? When did we even get one this big…?”
+
+=========================
+
+Eventually, the smell of food got everybody up and at ‘em. Loud Boy and Delun were both pointedly not looking at each other. Meimei and Xiulan were both giving me the stink-eye. Yun Ren was still wearing a very pretty dress, and still hadn’t noticed.
+
+As we were cultivators, hangovers really didn’t affect us as much… but still, getting a hangover breakfast was still something that was awesome after a night of partying. The Full English rode alongside congee and fish balls in broth… and quite a few fresh vegetables.
+
+If I haven't waxed poetic enough about the greenhouse? Let me tell you, it was a complete and total game changer. You just end up craving fresh things as the winter drags on. It had been pretty damn hard during the first winter, I won't lie about that… but now? Now you could bite into a vine-ripened tomato in the middle of winter, and it was glorious.
+
+Everyone else was assembled, and I went to get Gramps. True to Tigu’s words, he was outside, sitting on his porch. Beside him, he had erected a small table, and on that small table were funerary tablets. In front of those was a small bowl of sand, the sticks of incense long burned down. There were cups of wine, glutinous rice balls, and other small offerings.
+
+“Grandfather,” I greeted. Shen Yu turned. “Blessings on the New Year.”
+
+The old man smiled. “Blessings on the New Year, Grandson.” he replied. There was… a kind of peace in his eyes.
+
+“May I?” I asked him, and gestured to the small memorial.
+
+Gramps paused, then inclined his head.
+
+I instead stepped in front of the small memorial. None of the names meant anything, save for one.
+
+Qinxiao.
+
+I got onto my knees as tradition dictated, and lowered my head.
+
+“This one pays his respects to the dead, and wishes them blessings on the New Year,” I whispered.
+
+Three times I bowed my head, and three times I paid my respects. I did not know them; but if Gramps had taken the time to do this for them, then it was only right that I greeted them properly.
+
+I raised my head and turned to Gramps. There was a fond smile on his face.
+
+“May I bring some offerings later?” I asked.
+
+“Indeed you may. They should know the quality of my Grandson’s work, even far away as they are. I’m quite certain they already enjoy the view.”
+
+We sat together for a moment, on the first day of the Lunar New Year.
+
+It was quiet, peaceful, and tranquil.
+
+We had a busy year ahead of us, of that there was no doubt. But for the moment, we indulged.
+
+Then, we went and got breakfast… and prepared for the rest of the week of celebrations.
+
+New Year's Eve, eat your heart out. The old school celebrations went hard.

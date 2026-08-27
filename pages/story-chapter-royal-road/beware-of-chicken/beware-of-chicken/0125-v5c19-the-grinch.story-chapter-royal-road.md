@@ -1,0 +1,101 @@
+---
+id: 5f5f0b54-239b-5423-8013-fabaef9037e6
+page-type-slug: story-chapter-royal-road
+title: "v5c19: The Grinch"
+slug: 0125-v5c19-the-grinch
+partOf: beware-of-chicken
+position: 125
+ownLength: 1637
+unit: words
+ownProgress: 1637
+publishedAt: 2024-07-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1705319/v5c19-the-grinch"
+royalRoadId: "1705319"
+markedReadAt: "2026-06-29T18:55:48.075Z"
+---
+
+Mix the ink to the right consistency. Not too much water; not too much ink. The ratio was important, and it was subject to change depending on the humidity, the brush, and the paper. Inspect the brush; this one being of horse hair, soft and malleable. Inspect the paper: of middling quality. The ink would spread a bit more than I was used to. There was also an interesting darker part on the paper that I thought I could use to really make things pop.
+
+With a steady hand I drew the ink, remembering my time with Gramps as he taught me the Courtly Characters. They were honestly some of the best memories I had learning with the Old Man.
+
+I took up the precise amount of ink… and then, as he had taught me, I let the brush flow.
+
+From Darkness, Comes Light.
+
+I examined it with a critical eye and then nodded. “What do you think?” I asked as Meimei walked over to examine my work, along with Peppa.
+
+“This is really good,” Meimei said, her eyes tracing the characters.Her smile was bright, while Peppa nodded as well.
+
+‘Indeed. Sir has wonderful handwriting when he actually tries. This servant does wonder, however, why his scrolls are always such a mess when he hands them over,’ her voice was pleasant and mild, even as a small vein pulsed in her forehead.
+
+I scratched the back of my head sheepishly. Most of the time I didn’t bother, because getting in the right mindset and preparing the ink wasn’t worth the hassle when I was mentally translating English into Chinese while jotting down my thoughts into the margins of my scrolls, or doing things I found boring.
+
+“Thank you for your hard work,” I tried. Peppa squinted at me, and then huffed before primly trotting off. Meimei just laughed and looked at the writing again while I leaned back and admired our living room.
+
+The preparations for the solstice were well underway; less than a week remained before the festival, and this year was once more grander than the last. It had been really fun designing the decorations with everyone.
+
+We had probably gotten a bit carried away, but that was half the fun of it.
+
+My house was covered in garlands of pine and cedar—and had, to my delight, Christmas lights. Noodle, Huo Ten, and Yin had collaborated to make small glass balls in reds, greens, blues, and purples filled with bits of glowstone. They hung on the eaves, along the path and over the fence, and around the giant pine I had kept near the house. They glittered like miniature stars in the night sky and just added to the wonderful atmosphere.
+
+Of course, we also had the more traditional red cloth and lanterns. It wouldn’t do to have the Before stuff take over completely. This was Meiling’s culture and traditions, too! And, well, it helped that it looked amazing and the festival was super fun. It was why I had done the wall scroll—as well as a bunch of red pennants with the character for sun on them.
+
+The fusion looked really good—and didn’t mess up the aesthetics of the actual solstice festival. Things were supposed to be bright and colorful to call back the sun, coupled with songs and laughter.
+
+And there would certainly be plenty of that on the solstice. There always was. I smiled at the thought and turned to the rest of my family.
+
+Xiulan had, it seemed, finally caught up on some of her sleep debt. Instead of dozing or lazing around, she was smoothly going through the steps of the dance Hong Yaowu performed, her movements graceful and smooth. Zhuye was watching her from the couch. He looked fascinated by Xiulan’s movements and was waving his arms around, seeming to try and imitate her. He looked very cute with his oversized Santa hat on, its pom pom bouncing on the end.
+
+Near the fire, Chunky had brought out the single deer antler I had tied to his head the first year as an homage to a certain green creature who stole Christmas's noble steed. Chunky took his duty as chief sleigh operator very seriously. The antler was the last thing to be polished. His bells were gleaming, his leather harness freshly cleaned, and the big red sleigh shined until its lacquer gleamed.
+
+Gou Ren and Xianghua used Chunky’s side as a backrest as Xianghua taught Gou Ren the proper way to make decorations made of reeds, as the people of the Misty Lake did for their own festivals. Bowu was watching on with a little smile. He still had his shirt off and was steaming from his recent bath after completing a couple projects in the forge—I couldn’t wait to see the looks on people’s faces when they saw our latest project. It had been expensive and finicky as all hell, but Bowu had managed it. Huo Ten was beside him, similarly steaming, his fur slightly damp as he munched on some pickled cabbage.
+
+Yin, Noodle, and Vajra were all in the greenhouse, keeping warm and probably looking at the new shoots. The blueberries and beets Big D had sent back were growing well in the warm room.
+
+The final members of our family in the province still were out roaming the hills. Washy had begged Tigu and Babe to help him because he had left preparing his solstice presents until the last minute, again.
+
+Lazy dragon.
+
+Big D, Rizzo, Yun Ren, and Gramps weren’t home yet, but I wasn’t particularly worried. They probably wouldn’t be home at the solstice, simply because of time and distance.
+
+All that mattered was that they did come home… and then they could get their presents, even if it was a bit belated.
+
+That night, we had our annual cookie decorating. The sugary, slightly lemony frosting was put onto spice bark cookies and topped with various nuts and crushed coloured sugar. There were the usual assortment. The ones that were heartfelt. The ones that looked so pretty you almost didn’t want to eat them. And of course, the gingerbread men with a third leg.
+
+Meimei had entirely too much fun putting dicks on things… and then had even more fun as Xianghua joined in and they decided that they were going to have a competition to see who could decorate the crudest-looking cookie.
+
+Naturally, being a responsible adult, I joined in. As did nearly everybody else besides Noodle, who huffed and rolled his eye at our childishness.
+
+As well as the size of the dongs we were putting on things.
+
+It was a great end to a great day—and I couldn’t help but smile as we lined up cookies that we had done of ourselves on a tray with a glass cover. A blank rooster, rat, two gingerbread men, and a fox stared back at us, ready to be completed.
+
+=========================================
+
+The next day saw us in Hong Yaowu as we checked in on Pops and Xian. Both of them were meditating and preparing for the dance—but we did end up talking for a bit about the events of the year—especially what Pops considered the biggest development.
+
+“The hives have changed everything,” Pops said emphatically. “It's even more than we expected—with the way the frames work, we get more wax than we would have if we destroyed the hives… and we get that much wax every year. It’s quadrupled yields and halved the work. If we weren’t called Medicine Warehouse already, we would surely be called Honey Warehouse in a few years.”
+
+As it turns out, industrial grade beekeeping tends to produce industrial quantities—and in medieval times, that's damned huge. It seems in my ignorance, thinking beehives like this were ancient, I had accidentally revolutionized a very important industry. I knew we used wax for a lot of things, but I had underestimated how much people were willing to pay for the quantity and quality Hong Yaowu was suddenly producing.
+
+I whistled as I saw the numbers. And this was just from only two years of the hives being active.
+
+“What are you planning to do about it?” I asked.
+
+“I honestly don’t know,” Pops replied. “I’ll have to talk to the Lord Magistrate about this, and set some things up—” he paused as we heard a commotion coming from outside, some people exclaiming and others laughing. Curious, I opened the door and looked outside.
+
+To my surprise, an old woman riding a goat with a three legged tomcat on her shoulders galloped into the village.One eye was blank and milky white. The other was rolling about madly in her skull—until it locked on to me. Then she suddenly seized.
+
+I instantly knew something was going to go wrong today.
+
+“Grandmother?” I asked hesitantly as I stepped out of the house towards her. She started to fall off her goat and I caught her as she wheezed.
+
+Her wizened hand clamped down on my bicep. She panted harshly. “Inside, don’t want to cause a panic,” she bit out.
+
+I obliged her, picking her up gently and carrying her with me as we entered Pop’s house again. I gently set the old woman down on a cushion as Meimei sat swiftly at her side.
+
+“Something—something bad is coming. Something from the north,” she wheezed. And then her eye rolled again as she started shaking. “It is indistinct. Hazy. Like something is shrouding its coming. Divination is inaccurate at the best of times, I know, and my power is nothing like it used to be—”
+
+“I believe you,” I said, calmly interrupting her babbling spiral. The old woman froze for a moment, and then her panting breath started to even out. “Please, tell us what you saw.”
+
+The old woman swallowed thickly, nodded, and began.

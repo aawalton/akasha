@@ -1,0 +1,153 @@
+---
+id: de8659f3-c7cf-5b3f-ac54-5f18770627b8
+page-type-slug: story-chapter-royal-road
+title: "v6c27: Heading South"
+slug: 0215-v6c27-heading-south
+partOf: beware-of-chicken
+position: 215
+ownLength: 2077
+unit: words
+ownProgress: 2077
+publishedAt: 2025-05-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2301712/v6c27-heading-south"
+royalRoadId: "2301712"
+markedReadAt: "2026-06-29T18:58:44.340Z"
+---
+
+One Day before the New Year: Northern Azure Hills
+
+Lu Ri, Senior Disciple of the Cloudy Sword Sect, considered the landscape before him. Each breath came with labour, the air near devoid of Qi, but that was simply the nature of the Azure Hills. They were deep into the province now, and the last of the freezing Qi from the Sea of Snow had long since passed.
+
+“This place is most disagreeable,” Core Disciple Su Ge muttered under her breath, glaring out at the landscape as if it had personally offended her.
+
+“It is good training, I’ve found,” Lu Ri replied. The feeling was not as unwelcome as it once was; for it simultaneously was good training and meant that he was near both his Junior Brother and his good friend, the Lord Magistrate. Good food and better company was close at hand. “Examine each leak from your meridians and address it. In doing so, find a greater awareness of yourself.”
+
+Su Ge considered Lu Ri’s words, then turned her gaze inwards with narrowed eyes.
+
+“I see. I do believe I understand what you mean,” she said. Lu Ri felt her Qi instantly adjust and its flow stabilize—Elder Ge’s granddaughter was truly a prodigy of cultivation. “Thank you for your pointer, Senior Disciple.”
+
+Lu Ri inclined his head, pleased at both her words and that the Core Disciples had such a thorough understanding of the Will of the Founders.
+
+He smiled to himself as he took in the scenery. The week so far had been leisurely as they traveled towards the south. Indeed, the pace had been positively glacial for a cultivator, though there was good reason for that.
+
+“Mastah Lu Ri?” A voice, thick with tribal accent, cut through Lu Ri’s musings. He turned towards the man on a horse.
+
+Nezin Han, leader of his tribe, waited patiently for acknowledgement. Lu Ri nodded, and the man continued.
+
+“We’re ready to get back to it.”
+
+Himself, Miss Yuanlin, Core Disciple Su Ge, and Senior Sister Yeo Na were escorting the Nezin tribe south to Hong Yaowu. It was an amusingly powerful escort for mortals, but they were kin to his Junior Brother; the escort was therefore appropriate, even if it had not been his original plan.
+
+His Elders had charged Lu Ri and his fellow disciples with collecting their resupply and granted them leave of their duties. Upon hearing what Miss Yuanlin planned to do, Lu Ri saw no reason not to accompany her. He had been charged with the tribe’s safety by his Junior Brother, and he would see it through.
+
+That his Seniors decided to accompany them as well was a surprise, but a welcome one. They had many enjoyable evenings discussing the mail system and the uniform Su Ge had created. He hadn’t expected the Core Disciple to have what Miss Yuanlin called “an eye for fashion”,  but all true Masters had hidden depths, and his Senior in cultivation was no different.
+
+“Then we advance,” Lu Ri replied as he started to walk forward. His Qi flattened the snow in front of him, making a path to follow. “How are your people holding up, Chief Han?”
+
+“We’re wearing a bit, but at our current pace? We should hit Hong Yaowu by tomorrow, and that's lettin’ us push through,” the mortal replied. The pace had been rather brutal for the mortals, driving south swiftly for them, but the hardy nomads raised not a word of complaint. “It's a bit earlier than we were expecting to swing by, but Brother Xian said we were welcome. Fascinating things, those Transmission Stones. Makes me want some, if only to hear my daughter’s voice!”
+
+Lu Ri chuckled good naturedly. Lu Ri and Jin had served as the go between Hong Yaowu and the tribe. Madam Hu Li had been overjoyed to hear her family again, even though she had known they were safe.
+
+“A fine use of the crystals,” Lu Ri replied. “Communication, I find, is vastly underrated by many.”
+
+The tribal man laughed. “Ain’t it just? Though, speakin’ of communication, I head youse all talkin’ about boots for that mail thing. Said it was for mortals?”
+
+Li Ri perked up. “You have suggestions?”
+
+The man nodded, reaching around and pulling out a set of leather boots that looked similar to the ones he was wearing.
+
+“Sole is thicker than what Imperials normally like, but when you’re walking the north you’re grateful for every bit of cushion. We use snow cork and layers of treated yak hide to keep it flexible and light. Winter versions are waterproof—we use northern oil duck grease, and you can submerge it completely. Doesn’t wash off. The summer ones we make to breathe easy, so your feet aren’t swamped. They dry out real fast. We only make ‘em for friends, yanno?”
+
+Lu Ri’s eyes were locked onto the boot. Truly, it was a work of art. The sole was quite a bit thicker than normal; springy, almost.
+
+“I will have to discuss this with the Lord Magistrate… but I do believe I am thankful I am a friend of the Nezin Tribe.”
+
+Nezin Han smiled at Lu Ri.
+
+The trip, while slow, was indeed worth it; and tomorrow, he would be able to enjoy the company of his dear friends, and even introduce his Seniors to the Lord Magistrate!
+
+============================
+
+One Day before the New Year
+
+“Attention!” Lanlong Bailu of Soaring Heaven’s Isle Sect belted out. The crew of the Windward Blade all snapped ramrod straight, their eyes clear and focused.
+
+Bailu looked across the serried ranks of her Sister Disciples, then pulled out a scroll and unfurled it.
+
+“By Order of Admiral Tianzhe Minyan, the Divine Falcon of the East Wind, all crew hear this! The following Disciples are to conduct a resupply mission! Once the resupply mission is complete, they are approved for leave on the New Year! The following Disciples have been chosen! Lanlong Bailu, Wakokukin Seiyu, Lai Ni…”
+
+Bailu listed off names, her voice crisp and commanding. Each Disciple that was called nodded once to show they had heard.
+
+“… Qiao Ju, and Han Ting. This concludes the roll of Disciples who have leave!” Bailu finished. Some of the women looked slightly disappointed to not have been called. “Those that remain will be compensated appropriately!” That got them perking back up. Bailu rolled up her scroll and turned to the aft, where Elder Minyan was watching over them. “Orders have been delivered!” She saluted and waited, clasping her fist with her palm.
+
+Elder Minyan’s cold eyes roved over them, piercing and weighing all of them.
+
+Then their Elder spoke, “Disciples of Soaring Heaven's Isle Sect, an ally is graciously providing our Sect with Spiritual Herbs, Gold-Grade Rice, and other valuable victuals.” Her voice was a razor that made all of them shiver. “Your conduct shall be impeccable. There will be not a single complaint. Or the consequences will be… dire.”
+
+“Yes, Admiral!” all of them called, dropping to one knee.
+
+Elder Minyan found their response satisfactory.
+
+“You are dismissed. Carry out your duties.”
+
+And so the Windward Blade rose into the air, guarded by the beautiful, dutiful fairies of Soaring Heaven’s Isle.
+
+=========================
+
+Bailu yawned and stretched as she soared through the air in escort formation near the Windward Blade. She practically lounged in the air, lazily floating forwards.
+
+Her eyes absently searched for trouble even though she was fairly certain nothing would bother them, especially after what had happened. They had blasted the hell out of the north, and if anybody wanted any more, she’d blast the Hells out of them!
+
+Actually, it would be good if somebody attacked them. Bailu was bored as hell. The Sea of Snow made her want to fall asleep when she couldn’t go out and explore. Guard duty sucked, and while the rations they were eating were alright… they didn’t hold up when she knew that there was such good food a short trip south. Hells, she was fairly sure Seiyu had been purposefully eating more so they would have to resupply faster.
+
+But the day had finally come. Now the Windward Blade was on a resupply mission, and after that they had leave for the New Year! Elder Minyan was too good to them!
+
+Well, mostly too good. They had… well, strict orders. Turns out the big guy they had met was a real big shot! Elder Minyan wanted them all on their best behaviour! Hells, she had even sent a transmission ahead and asked if it was okay for them to visit.
+
+“Your conduct shall be impeccable. There will be not a single complaint. Or the consequences will be… dire.”
+
+Bailu shivered when she remembered Elder Minyan’s glare.
+
+They weren’t normally this polite! Normally the Sect just kind of told people what was happening. Asking was reserved for really strong people, or really good friends.
+
+Bailu was happy that Master Rou Jin was both! He was a good guy, Bailu could tell! The dragon parts of her had been hollering and jumping around in her head when they met, telling her that she should be nice to him, but she would have done that even without the strange familiarity she felt about him. He had been nice to Seiyu, and that was enough for her!
+
+That and she had a hunch he had good booze. Guys who had good food normally had good booze too, and he just seemed the type. The type who enjoyed life! And there were far too few people like that. Most people were waaaay too serious about everything.
+
+It was safe to say Bailu was looking forward to the New Year! She got to go, pick up good food, and then do basically whatever she wanted for three days, Admiral’s orders!
+
+The only thing that might cause an issue was flying beside her. She glanced at Seiyu’s form, her friend’s eyes fixed on the horizon. Seiyu’s eyes had gone all gooey when the big guy had given her those rice balls, and she had spent weeks sighing wistfully while staring south.
+
+But! Bailu was an optimist! Seiyu probably wouldn’t cause a problem.
+
+She would probably stay polite and professional.
+
+Probably.
+
+==============================
+
+Despite the bombshell that Biyu was now a cultivator… well, frankly, nothing really changed for her. Gramps said she had impressive control—and she did. Biyu didn’t break a single thing with her newfound strength, and it only took her a couple of minutes to be able to do basic Qi exercises.
+
+Gramps had muttered, “They make girls different in these Hills,” and had just shaken his head. But the truly funny part was when I asked her the same question I had asked Gou and Yun years ago.
+
+“What do you want to do now?”
+
+Biyu had cocked her head to the side at the question, her big eyes wide. She looked like a confused owl.
+
+And then she answered: “Keep working at Mengde’s?”
+
+Which… honestly tracked. Biyu didn’t just like her job, she loved it—and really, it was win-win. Biyu got to work at her dream job, and Mengde’s Crystal Emporium got a cultivator who was going to specialize in crystal carving. Now, she could work even longer hours, as she’d once complained to me about not being able to do!  Finally, it was already a profession respected by other cultivators.
+
+Even Gramps had opened his mouth, paused, and then said, “A good choice.”
+
+Though… she did start exercising after Ri Zu advised it. Tigu had looked very, very smug when it had been the little rat who recommended the usefulness of being able to defend herself.
+
+We finished our preparations with a day to spare. The games were forged, and the prizes sewn.
+
+We even had all the food ready for when the Sects arrived for resupply. We had done a bunch of traditional New Year's food, like glutinous rice balls, soups, and dumplings, and all the cultivators had to do was either reheat or cook it. I had even used some of the maple reserves to make dessert.
+
+Takeout, farm style. It would be a good morale boost for the poor sods stuck up in the arctic who had guard duty. They were, after all, protecting us, instead of having a good time at the New Year’s celebration. Some good food would go a long way.
+
+I could barely wait until tomorrow.
+
+This New Year’s was going to be one to remember.

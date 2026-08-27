@@ -1,0 +1,157 @@
+---
+id: 23556ac3-60e9-513e-9542-8fbcf9d1f3c8
+page-type-slug: story-chapter-royal-road
+title: "57. Sketching Futures"
+slug: 0057-57-sketching-futures
+partOf: breaker-of-horizons
+position: 57
+ownLength: 2428
+unit: words
+publishedAt: 2020-11-16
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/585858/57-sketching-futures"
+royalRoadId: "585858"
+---
+
+Later, none of us could remember much about what had happened after the Demiurge arrived on the scene. We woke in our own beds. Emilia came over in the morning, as was her custom in recent days, and we tried to go over the events.
+
+Ambrose was tight-lipped about what he had seen, and Emilia had such a haunted look every time the subject came up that no one dared press her for details. I shared as much as I could reliably recall but thinking back to those moments in the arcana brought on a sense of great vertigo, or something akin to it, and it was hard for me to usefully articulate anything.
+
+We weren't much use for the rest of the day. Harrowed by the events of the night before, we mostly lay in bed (or the couch, in Emilia's case), bone-weary and listless. Devon kept us fed and watered and, feeling worried for him, I tried to help as much as I could and get a sense of his mental state, but he quietly sidestepped any attempts to talk about how he was. It was clear his mind was a thousand miles away as he went through the familiar motions of preparing food.
+
+Emilia did not return to her dorm that night. The mood lifted ever-so-slightly when, with a perfectly straight face, she had asked if she could share the bed with Kevan. Red-faced, his response was lost in spluttering and stammering, and she had cracked a rare smile to show that she had been joking. She slept on our couch in the common room, and Kevan rustled up an extra pillow and blanket for her.
+
+Some time in the middle of the night, I heard crying. It sounded like it was coming not just from the common room where Emilia was, but also through the wall that Ambrose and I shared with Jerric and Devon.
+
+I lay in my bed, staring up at the ceiling and listening. "Ambrose?"
+
+"Yeah?"
+
+"Why aren't you as affected by what happened?" I turned my head to look at him.
+
+His eyes glinted in the moonlight coming through our window as he rolled over in his bed to face me, not a trace of sleep in them. "Why aren't you?"
+
+"Because..." I thought back to that moment of orientation, of recognising the existence of a surface, and realising it was possible to dive into the arcana, whatever that meant. It was all so metaphorical. "Because it made a little bit of sense."
+
+"That's why, then," he said softly. "It made sense to me, too."
+
+"It barely made a little bit of sense," I clarified. "And I think it's to do with how much I've been in contact with the Spire augera, and because it freed me from prophetic links. So... how have you made sense of..." I gestured vaguely to indicate the entire scope of what we were discussing, which I had no words for.
+
+"Well... you've spoken to the Spire augera a couple of times. But after you ensorceled me, I was out in the infirmary for a while remember?"
+
+"Two weeks," I nodded, recalling the scattering of words he had murmured in his sleep, painstakingly compiled by the rest of us whenever we could spare the time to sit by his bed and watch him. It had been impossible for me to glean any useful information about what he and the augera had spoken about.
+
+"Felt like a lot longer. And it wasn't just talking. It was showing. It was... being. You know how it communicates. Words are the simplest, thinnest form. When I was under, it was slowly taking me into its world, helping me to get to grips with how it... sees, knows, thinks."
+
+"That kinda explains why you were out for so long," I muttered. I could scarcely imagine how mind-bending the experience must have been after having had only a glimpse of it when we were by the lake.
+
+Ambrose shifted and stared up unblinkingly at the ceiling.
+
+"Before the Demiurge put me under... I saw you," I began hesitantly.
+
+"Mmhmm?" He did not turn, this time.
+
+"You were looking out across the lake, where the augera had gone... and you looked... uhm... excited. Happy." Hungry, I wanted to say, but it didn't seem appropriate somehow.
+
+There was a long silence between us, made all the more apparent by the sound of crying coming faintly through our door and wall.
+
+"Happy?" he murmured, turning the word over in his lips a few times, almost like a toddler trying it out for the first time. "Happy... happy... happy? No. I wasn't happy. I was... I... don't have a word for it."
+
+Almost against my will, the word tumbled out of me. "Hungry?"
+
+"No," he said sharply, turning to face me for a moment before returning his now-alien gaze to the ceiling. "Not that, either. I don't want that."
+
+Confusion and concern rose in equal measure. I propped myself up on my elbows to get a better look at him. "Ambrose, are you—"
+
+"I'm tired, Caden. Let's just sleep."
+
+He rolled over and drew the covers up to his shoulders, and somehow, by that simple act, pulled up an impenetrable wall between us. We were just a few paces away, but he might as well have been on the moon.
+
+The crying did not stop until I fell asleep.
+
+It was the morning of our last day in the Academy before the winter break. Some students had opted to return home a little earlier, but most only made plans to leave on the final day the Academy would remain open. By nightfall, it would be empty.
+
+I got up at 7 as usual and found Devon up even earlier than that. He acknowledged me with a brief nod, looking even more haunted and worn out than the day before, then went about wordlessly making breakfast. I helped him, and together we cranked out a pile of egg sandwiches with only a few brief words to coordinate things.
+
+The figure on the couch did not stir, and not wanting to be the first to rouse Emilia, Devon and I simply settled down at the table and ate. Soon enough, though, the rest were up. To our great surprise, Lynus went over to the couch and kicked it, and Kevan emerged with a yelp. Apparently, he had come out some time in the night and slept on the floor next to it, and his sleeping figure had been hidden under the blanket that was draped across both him and Emilia.
+
+Devon's lips twitched upwards in the ghost of a smile as a red-faced Kevan hastily took a seat at the table, avoiding everyone's eyes. Emilia quietly sat next to him, looking perfectly at ease despite the tear-stains on her face. It was clear she didn't care at all about how she looked, or about what the rest of us thought about the circumstances that led to Kevan keeping her company.
+
+We ate in silence, and it wasn't until all the sandwiches were gone that Jerric cleared his throat to get everyone's attention. His voice was hoarse, but he looked determined. "We need to make plans over the winter break."
+
+"Plans?" Lynus echoed. "You mean about the Prophecy stuff?"
+
+"Yes. We need to find more wild augera and get in contact with them. Away from the Demiurge."
+
+Lynus laughed. "Are you crazy? Did the augera leave you cracked? It's thanks to him we're not all glassy-eyed husks or something."
+
+"No, I'm not crazy," Jerric said, clearly biting down a sharp retort. "We were actually fine. Ambrose, Caden, and Emilia were holding it steady. And Caden was even talking to it. Weren't you?" He turned to me.
+
+I nodded slowly. "Kind of. The augera don't 'talk'. But it was definitely making things simpler for me, and I think I understood most of what it was... 'saying'."
+
+"Uh huh, and then the world went to shit," Lynus snapped.
+
+"That was the Demiurge's doing," I said, cutting across Jerric, who seemed to be very on-edge and combative now. "He... was chasing it away. Or something. Whatever it is, the Demiurge was the one who triggered that whole... whatever it was."
+
+"He wasn't chasing it away," Ambrose said softly, and all eyes turned to him. He was looking down, speaking to his knees. "He was trying to capture it."
+
+"What?" Our collective response was so synchronised it was almost comical.
+
+"Or... no, not capture. Maybe... bind? Link? Mark? Yes, mark. Mostly mark."
+
+"What does that mean?" Kevan asked, frowning.
+
+"Yes, mark," Emilia added softly, drawing surprised looks from the rest of us except Ambrose. She looked thoughtful. "That fits. Doesn't it, Caden?"
+
+The question directed the eyes in the room to me. It felt like suddenly having a spotlight on me. But now that Ambrose and Emilia had said it, I realised it did make instinctive sense. And a hazy memory from that night returned to me.
+
+"Chased?" The Demiurge had asked, raising an eyebrow at me. He opened his mouth to answer, then seemed to reconsider. "You are not at all well..."
+
+"The lake augera was... afraid of the Demiurge. He wasn't protecting us from it. He was there to mark it, after we had drawn it out, and it ran away," I said wonderingly.
+
+Jerric nodded grimly. "That's what I suspected, even though I didn't really understand what it was saying to you. Think about it — even though he's been kind of helpful, he's still not exactly completely on our side. He's kinda like the Spire augera. They're both working against the Fateweavers, but they're still bound by the Fateweavers. At the very least, even if he's not doing this as part of the Prophecy, I think he's trying to grab a new augera for use in the conflict that's brewing. Either way, we need to get in touch with wild augera, and the Demiurge is in the way. We can't make contact with the lake augera again if he's near. That leaves one other option — find other wild augera, far from the Academy."
+
+"Yeah? How do we solve the teleportation problem? What if he just shows up?" Kevan asked, but more in the spirit of discussion rather than challenge.
+
+"I won't pretend to know the arcanophany behind how the heck he's doing something that's supposed to be impossible, but my working theory is that it involves the Spires. So... if we're outside of a Spire's reach, he may not be able to teleport there."
+
+"Jerric, the whole Empire is in range of a Spire somewhere," I pointed out helplessly.
+
+"I know." He ran a hand through his hair in frustration. "I may be grasping at straws here, but I think it's something that he can only do within a certain radius of a Spire. Call it a hunch. I was looking at the arcanic flow of the land when trying to figure out how the lake augera can somehow hear us there, and there are patterns to the Spire's flow. It does weaken with distance, which is obviously why we need multiple Spires to cover the whole Empire in the first place. And they are all connected. But between them, I'm thinking we'll have spots with weaker coverage."
+
+"You want us to go traipsing around the Empire in the middle of winter, looking for wild augera in places as far as we possibly can be from a Spire, which may put us beyond the help of anyone if things go wrong?" Devon asked.
+
+Jerric gave a wry smile. "Well, when you put it that way... yes."
+
+"Do we all have to go, or can this just be a Chosen One thing?" Devon continued testily.
+
+"The choice is yours," I said. Devon snorted, but I forestalled his retort with a raised hand. "I mean it. I spoke with the Spire augera, when it put me under... and it literally told me that the Prophecy has some optional bits to it. One of it is all of you meeting the lake augera. Ambrose was the only one who needed to meet with it. But because of... well... many factors... all of us were there. And that has changed things a little."
+
+"Free choice, even for us?" Jerric raised an eyebrow. "I'd be really suspicious about that if it had come from anyone else but you, Caden."
+
+"Come, don't come," Ambrose murmured, and we all looked to him again. He seemed to have shrunken in on himself. "Doesn't matter. Your choice. Won't hold it against you. I... I'm sorry for putting you all through this."
+
+"You didn't drag us into this," I said.
+
+Lynus laughed. "He kinda did. Imagine if he were in another dorm. We'd all be having normal-er lives."
+
+"It's not his fault," I retorted sharply. "It's literally not his fault he's the Chosen One. The people who do the choosing are to blame. Don't like what's happening to all of you? Take it up with the Fateweavers. So you can either mope around and indulge in wishful thinking, and let Fate have its way with you, or you can come along and do something about it."
+
+"You're awfully fired up about this," Lynus said, a little taken aback. "I'm not blaming him or anything."
+
+"... Sorry. I'm just frustrated. And tired of getting all my information from the Demiurge, or the Spire augera. I agree with Jerric. We need to get a proper meeting with a wild augera."
+
+Jerric coughed. "Ironically... I thought our first step would be to actually ask for his advice."
+
+I raised an eyebrow.
+
+"Ask him," Emilia nodded. "Then go where he doesn't tell us to go."
+
+"But what if he expects that, and he does some sort of reverse-psychology thing?" I asked.
+
+"We'll ask," Jerric clarified, "and then you, Caden, will choose where we go."
+
+Ambrose flexed his fingers as though playing with invisible elastic bands. "Yes. And if I have inclinations to any particular place, we can use that as an additional layer of information when deciding where to go. We may want to avoid places that call out to me."
+
+The weight of the choice was beginning to settle on me. Ordinarily, I might have backed out, but the Spire augera's words, quoted straight from my entrance essay, came back to me, even though I was loath to lean on anything it said at this point.
+
+"Alright," I said with a sigh. "Let's talk about how we're gonna do this."

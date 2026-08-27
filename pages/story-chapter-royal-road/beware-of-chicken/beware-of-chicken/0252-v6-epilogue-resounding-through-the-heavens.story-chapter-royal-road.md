@@ -1,0 +1,153 @@
+---
+id: fe6f86a2-9007-5cf1-b1b4-4157037771ed
+page-type-slug: story-chapter-royal-road
+title: "v6 Epilogue: Resounding Through the Heavens"
+slug: 0252-v6-epilogue-resounding-through-the-heavens
+partOf: beware-of-chicken
+position: 252
+ownLength: 1320
+unit: words
+ownProgress: 1320
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2577257/v6-epilogue-resounding-through-the-heavens"
+royalRoadId: "2577257"
+markedReadAt: "2026-06-29T19:00:02.697Z"
+---
+
+Tianlan sat in the middle of her realm, her legs crossed and her breathing even. All around her, little strands of gold branched out from her body.
+
+Those little strands were her most precious thing. They were not her dragon veins, her golden lifeblood. They were not the strands of Natural Law, the power of the Path of Shennong.
+
+They were something far, far, simpler. Something far less grand.
+
+Each and every tiny strand… was a connection.
+
+Each connection was to a person. Her people.
+
+She could feel them all; their hopes and worries. Their dreams for the future. They sang to her in all their different ways, filling her world with their wonderful music.
+
+======================
+
+It was the largest gathering Hong Yaowu had quite possibly ever seen. They had always been a fairly small village, and yet today they played host to nearly six hundred… or several hundred thousand, if one counted the bees.
+
+They were people from all over the Azure Hills and even beyond, in a tiny, unimportant little village at the extreme north of the province.
+
+The entire Nezin tribe stood with their horses and their yaks, clad in their tribal dress and cheering.
+
+The Foxes of the Howling Fang Mountains laughed and joked with their new friends, wide and open and uncaring if any saw them. Centuries of pressure, centuries of being hunted, seemed to slough off their shoulders as this new land welcomed them without reservation.
+
+There was Huo Ten and several monkeys from the Crystal Hill. Master Jing from the Crystal Emporium. Bingwen of the Misty Lake. An old woman, her husband, her goat, and her cat. Lu Ri of the Cloudy Sword Sect. Liao Yushang from the Shrouded Mountain Sect goaded both of her male companions and her Master to cheer louder so as to not be outdone by the Nezin tribe, much to the amusement of Zang Shenhe and Nezan.
+
+And there were those of Fa Ram, all in their finery. Animals and humans alike stood together in a place of honour near the front. Meiling was sniffing and holding back tears, her eyes locked onto the men she called brothers, and her smile was warm and proud.
+
+They were gathered for a wedding; brothers being married on the same day was most auspicious.
+
+The village had been transformed. Bedecked with colourful cloth and flowers that were noticeably out of season.
+
+It was officiated by the head priest of Verdant Hill, and witnessed by the Lord Magistrate who stood in his finery with a warm smile on his face.
+
+Yun Ren stood with an easy grace; his sharp, handsome features drew the eye. He felt like a lounging predator, content enough not to hunt. His tribal scarf fluttered in the wind, and he had a sheathed sword at his hip that rattled with anticipation.
+
+His younger brother was beside him. Tall and broad-shouldered. Solid as a fortress. The man who was once derided for his resemblance to a monkey now heard no insults. While his brother was androgynously handsome, smooth and sharp, Gou Ren was ruggedly masculine, his well-groomed sideburns and heavier brow lending strength to his striking face.
+
+The joking, prankster boys of years past were undeniably men.
+
+And then came their brides. Cao Biyu was escorted by her mother. Her brand-new dress was of a traditional Imperial style. Her mother had gotten married in her normal clothes, too poor to afford any luxury, and now her daughter strode forth in finery she never could have dreamed of, her own scarf flapping behind her.
+
+Liu Xianghua was escorted by Hu Li. Her dress had been her new mother-in-law’s. Her hair was held back by a tribal headband. The only nod to her origins was a traditional reed hat from the Misty Lake, which currently hung down her back from a cord around her neck.
+
+Both women bore radiant smiles.
+
+The ceremony went off without a hitch. They served tea to their fathers, Ten Ren standing in for Xianghua’s father. They bowed three times to the west.
+
+And then they stole something from another wedding they had witnessed.
+
+Yun Ren and Gou Ren leaned in and kissed their brides. Technically a breach of tradition… but their excuse was that Jin had done it.
+
+The cheers and wolf-whistles echoed all over the village.
+
+Along with one booming voice from a tall man with a brace of freckles across his cheeks.
+
+“Let's party!” Jin roared, barrels of mead the size of his torso hefted on his shoulders.
+
+The most legendary party in Hong Yaowu’s history commenced.
+
+======================
+
+It had started simply. It had started quietly. Jin’s steady, tireless beat; a single voice humming along with the wind and the trees.
+
+That simple song, honest and true, had resonated with others. It started catching on. The others began adding their own parts. Each was a new instrument. Each was something different and fresh and new, changing the song inside of Tianlan.
+
+Some were quiet and understated. Others were bold and bombastic. Each was special. Each was unique… and yet each one followed the first’s lead, adding on to the song he started.
+
+The song grew and grew with each passing year. It flowed down their connection, soothing the aches, and reminding her that she had people with her.
+
+Yet this song was not just hers alone.
+
+When they set off from their home, Tianlan’s Connected Ones kept singing their song. Wherever they traveled, they kept up the beat, humming along to something that at first they had borrowed, and now had made their own. It was a simple song, made by a simple man. Its core message wasn’t anything ground-breaking. It did not set out to change the world.
+
+But as more and more people started singing it… maybe it could?
+
+As Jin was so fond of saying… everything was connected.
+
+===========================
+
+The clerk looked at the numbers, then looked back at his compatriot from the Grass Sea.
+
+“Are you sure these numbers are right?” he inquired.
+
+“Yes. There's been a ninety-eight percent reduction in bandit and Spirit Beast attacks over the last six months,” the other clerk replied.
+
+“That’s…”
+
+“Unprecedented?”
+
+“Just what is going on in the Grass Sea?” the man from Pale Moon Lake asked.
+
+“I don’t know, but I did hear a rumour,” his counterpart replied.
+
+“Oh?”
+
+“Someone important is going to be taking a tour.”
+
+=====================================
+
+“Liuliu! Liuliu, we got something for ya!”
+
+Yangtze Luisei of Soaring Heaven’s Isle sighed as Bailu’s boisterous voice interrupted her thoughts, the Storm Wings barging into her office without a care in the world.
+
+She was in the middle of sorting out the duty rosters… but she could use a break.
+
+“Yes, Bailu?” she asked, looking up only to see both of the Storm Wings’ eyes locked onto her chest like they were undressing her with their eyes.
+
+Liusei brought her hands up to cover her chest instinctively.
+
+“Oh, man, your face didn’t try at all, but those things are distinctive!” Bailu said pointing below Liusei’s chin.
+
+“They are powerful,” Seiyu said, nodding sagely.
+
+Liusei pinched the bridge of her nose at the absolute nonsense these two were spouting. She took a deep breath and counted to ten.
+
+Why did such powerful, accomplished cultivators have to be… this?
+
+“You said you had something for me?” Liusei asked.
+
+“We met your daughter!” Bailu said cheerfully.
+
+Seiyu shoved her hand into her cleavage, and pulled out a scroll. “She wrote you a letter.”
+
+All the air wheezed out of Liusei’s lungs.
+
+“Wha?!”
+
+===================
+
+A man marched out of the snows of the north.
+
+His clothes were ragged tatters. He wore a pelt of a titanic bear as a cape. His eyes burned with purpose.
+
+Yulong, the Heavenly Demon, set foot on the Azure Dragon Continent.
+
+===================
+
+And so the ripples of a little song, started in the least important province in the empire, started to spread.

@@ -1,0 +1,145 @@
+---
+id: 0deab25e-8fb2-5b45-bb7c-6831f7e99969
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 74 - Burning Bright"
+slug: 0078-b3-chapter-74-burning-bright
+partOf: bookbound-bunny
+position: 78
+ownLength: 2372
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3776349/b3-chapter-74-burning-bright"
+royalRoadId: "3776349"
+---
+
+"I don't think Hana is coming back…" Lotte pointed out as the second-year students entered.
+
+Arthur shrugged. "I guess her parents wanted to have a chat. Considering she might not go home for the holiday, it's a good thing for them to spend some time together."
+
+"Are any of us going home?" Lily asked.
+
+"My dad asked me if I wanted to," Lotte admitted. "He said the family would be thrilled to see my better health after the dungeon. I sort of would like to see them, but honestly, I think I'd rather spend the break here and keep the momentum going."
+
+"Staying definitely feels like the better option," Thomas agreed. "Look at what Rose has accomplished during her break. Do you know any other second-year students already on the twentieth floor?"
+
+"Even if all of us worked together, I don't think we would reach the twentieth floor during the break," Arthur replied.
+
+Thomas nodded. "More isn't always better, but I get your point. Still, getting a head start, gathering more resources, and improving our spells is something we can all strive for."
+
+The group nodded, and all revealed they had no intention of going home for the break. Of course, talking about it now was a bit premature; they still had a decent portion of the year to get through, with the interschool tournament and the finals as the remaining highlights.
+
+That, however, made them wonder about the finals and whether the school would raise their year's criteria. Normally, first years only needed to beat the first floor of the dungeon as the bare minimum. If you hadn't, you were encouraged not to go home until you did, which Lily knew would mean they'd eventually reach the final challenge, even with the slowest of times, thanks to the removal of the curfew.
+
+However, there was a chance that beating the forest might become the new goal, or at least be heavily encouraged. Signs pointed to the forest challenge being an exploration-based one, which Lily could quite easily accomplish if she was willing to risk her feet off the ground.
+
+What further made her believe beating the second floor might become the goal was that Thomas revealed he had learned that the dungeon trials are revealed when they become a deadline. At the moment, they were a secret meant to serve as an encouraging incentive, with only the worthy overachievers managing to beat them before they were officially announced.
+
+He went on to explain that once you officially passed the first year, most of the secrecy disappeared, and you could actually purchase the information outright. Regarth itself would trade it to you for resources or even high marks or rankings in examinations, and you could even buy it from other students. This also answered how Rose managed to beat so many floors, as brute-forcing her raw power alone was likely insufficient.
+
+For the group, it was nothing but excitement, as it seemed that once they reached the second year, the world would be their oyster. Almost no restrictions, no more dumb secrets, and plenty of opportunities to be had. Naturally, that came with risks too, as without the kid gloves, they'd be willingly putting themselves in harm's way.
+
+At this point, the rounds had started, although there wasn't much to see in the initial rounds. Almost all eyes were on Rose as she won every fight instantly by casually flicking a fireball into the center of the arena. Lily had expected this, although even she was surprised by how casually she won round after round.
+
+"Why does the fireball not trigger her own Ward?" Lotte asked.
+
+"A fire mage getting burnt by their own spell would be stupid," Arthur chuckled.
+
+"That goes for almost all mages. You don't see Lily hurting herself with her stars," Thomas replied.
+
+"Um… Did you literally trigger your own Ward?" Lotte retorted. "Also, I definitely have to pay extra attention to ensure I don't hurt myself."
+
+"I don't think what I did should be used as an example… It wasn't exactly orthodox, and it might have been triggered just by contact alone," Arthur said a little awkwardly. "Also, wow, your bloodline really hates you, doesn't it?"
+
+Lotte sighed and nodded.
+
+"I have to be careful with lightning magic," Thomas said reassuringly. "Although I imagine once I get more proficient in it, I won't have to. Like growing up in a cold environment, you eventually become tolerant to it."
+
+"I've never seen Rose get burnt. I wouldn't be surprised if she bathed in fire," Lily joked.
+
+Judging by the results they were seeing, it wasn't hard to imagine. Still, even if Rose was immune to fire, her Ward wasn't, which begged the question: Shouldn't it have been triggered? Thankfully, someone in the audience had the same question, and Lily happened to overhear their conversation and shared it with the group.
+
+"Apparently, we can have our Wards tuned when we enter the second year," Lily whispered. "It lets you set it to ignore certain types of spells, and Rose must have had it tuned to ignore fire."
+
+"Sounds risky…" Thomas replied, scratching his head.
+
+Lily nodded. "That's why you need to get explicit permission, and only the Headmaster can arrange it. Yes, there's a risk, but you could also see it as a safety feature. If Rose keeps triggering her own Ward, she might get hurt when she really needs it."
+
+Apparently, this wasn't unique to Regarth, which made sense since Wards were highly integrated into the magical world with entire dueling structures centered around them. Of course, Regarth's were special in the fact that they were extra effective in the dungeon, but it seemed they followed all the normal principles as well.
+
+If you were injured because your Ward was tuned, barring any tampering or other nefarious actions, it was entirely your own fault. Supposedly, there were even recent advancements that allowed more modern Wards to even correctly identify your own spells, and be configured appropriately.
+
+Arakil actually thanked Lily for the provided retelling, as while he might have had an unparalleled level of Magesight, the same could not be said for his ability to hear within the grimoire. As for her friends, they were also quite interested in having their Wards tuned, especially Arthur, who had so spectacularly eliminated himself. Lily, on the other hand, wasn't so sure she needed it, as she liked having the reassurance that anything that got through her Nebula Veil would be caught by the Ward.
+
+And then there's still shield glyphs and inscriptions…
+
+Rose continued dominating the competition with very little effort, and some people began to feel bad for those forced to face her. There was even speculation that the lineup was tampered with, so none of the other top students faced her too early, so they could at least try to show off in the quarter or semifinals.
+
+"Man, this is way worse than last year…"
+
+"They should have let her compete against third years."
+
+"Guess we know who the winner will be."
+
+"Hopefully, whoever makes it to the finals will at least survive a single spell."
+
+The audience was very blunt, and this was the neutral side; Lily could only imagine how bad it was on the Maranix or Zephyrix section of the audience.
+
+At least, with how quickly Rose finished her fights, there was plenty of time to watch the other matches, which were a lot more interesting than the first years. There were still cheap tricks, but most of the time they were countered or negated, with very few falling victim to such easy plots. In terms of scale, the spells were much grander, although Lily couldn't shake the feeling that there weren't any students as unique as her own peers.
+
+Sure, there was the occasional frost mage who froze the arena, or conjured up a flurry of icicles, but there were no beams of light, no magically grown plants, no bolts of lightning, and certainly no exploding stars. The spells were still impressive in their own right, but they seemed to have more ordinary bloodlines: more Arthurs and fewer Lottes.
+
+Eventually, it came down to the quarterfinals, and people thought they might finally get to see a real match from Rose as she faced the ice mage. At least that was what the audience assumed, but when the match started, and the protective dome of ice melted in a flash, it seemed Rose's reign of terror was unstoppable.
+
+The semifinals had Rose against an earth mage, a bit of a rarity in terms of duels due to their notable lack of speed. He also proceeded to defend himself immediately, pulling up part of the arena floor itself to defend himself from a gout of flame. The audience erupted in cheers, having finally seen someone survive the first spell, only for their jubilations to simmer down as the flames began to creep over the barrier.
+
+Against all belief, the rock seemed to have combusted, and the fires were raging across it. The poor student, who had been hiding behind his wall, panicked when his Ward was triggered and, thankfully, extinguished the encroaching wildfire. The audience still applauded Rose's victory, though some were unsettled by what they had just seen.
+
+"Okay. I'm giving up on my dreams of ever beating her," Arthur said flatly. "If she can burn rock like it was dry grass, I don't want to be anywhere near her."
+
+[Saying she made the rock combust isn't exactly true; she manipulated the flames to cling to its surface, while burning Mana continuously to act as a fuel to keep them alive. Her control has improved significantly since coming to Regarth; she couldn't have ever done something like this when we first met.]
+
+Lily was awed by Arakil's explanation, especially since she had put so much effort into learning to control her Nebula Veil, which was still attached to her. Yet here was Rose, controlling flames at a distance as if it were the most natural thing in the world.
+
+Obviously, Lily had to keep Arakil's explanation to herself, meaning her friends were left wildly speculating on what exactly had happened. Regardless of that, she also didn't want to spill Rose's secrets without her explicit permission.
+
+"Her flames must be so hot that they make the unburnable burnable," Arthur concluded.
+
+"That sounds… Dumb, but the legends do say dragonfire can burn anything," Thomas sighed.
+
+[I genuinely fear the day Rose is actually able to conjure dragonfire.]
+
+Lily had no time to react to Arakil's rather ominous comment as the finals were beginning. Rose strode out confidently, although the same could not be said for her final opponent, who perhaps was also rather intimidated by the previous performance.
+
+"Oh, I know him, he's in Zephyrix," Arthur said. "Poor guy is just a wind mage like me. I feel bad for him."
+
+"He's gotta be good to get to the finals," Lily replied.
+
+"I think I saw one of his earlier matches," Thomas said. "If I'm not mistaken, he could fly, so maybe he can dodge her spells?"
+
+"Uh… I don't think that's a good idea," Arthur said bluntly.
+
+The group seemed confused, and Lotte was the first to speak out. "Why not?"
+
+"Let's watch and see. If he does fly, you'll see what I mean…" Arthur said, pointing to the stage where things were about to kick off.
+
+When the match began, Rose instantly set off an explosive flame in the center of the stage, but her opponent leaped into the air and continued ascending. Underneath his feet was a visible spherical vortex of magical wind that he appeared to be standing upon and using to maneuver.
+
+"Ugh, it's the worst kind of flying," Arthur grumbled.
+
+Lily wasn't sure what he meant, but would save the question for later. Rose's opponent continued to rise in height, using the ball of wind almost like a mount, and one thing was certain: he was indeed fast. The audience was quite excited at the prospect of seeing actual flight magic from a young mage, as Hana's was only half of it.
+
+Rose threw out a barrage of firebolts, which scattered across the sky like countless fireflies while her opponent maneuvered wildly to dodge them. It quickly became apparent that all of his effort was going towards maintaining and manipulating his spell, leaving no room to actually attack back.
+
+Arthur continued to mutter complaints, although the rest of the group was enjoying the show. Even though her opponent still hadn't done anything but dodge, the fact that he had survived this long was already a much more enjoyable performance.
+
+Sadly for him, though, the game of cat and mouse came to a close as Rose's missed projectiles all suddenly seemed to converge in the air. It was as if they had suddenly been seized by an invisible force and redirected to a shared focal point in the center of the sky above the stage.
+
+The audience went wild at seeing so many magical projectiles being manipulated after the fact, although some let out curious remarks about the target. Yes, it was nowhere near her opponent's actual location, and even he seemed perplexed.
+
+"It's over," Arthur declared confidently.
+
+The firebolts all collided, and a midair explosion erupted, causing the protective barrier to flicker wildly. As for Rose's opponent, his Ward was quickly triggered, and its own burst protected him from the combustion. However, while he was saved from the explosion, the same could not be said for his flight spell, which was dispelled at the same time. Whether he lost concentration or the Ward had destroyed it, it didn't matter as suddenly he was falling to the arena.
+
+Unlike Hana's predicament, nobody wasted any time preparing to catch and save him, as he had already lost his Ward. Although they had given him some time to save face, where he attempted to reform his wind orb before he was caught by the staff. Ultimately, he didn't manage in time, to the dismay of some onlookers hoping for extra excitement, but at least he was safe.
+
+"And we have our winner!" Professor Elius announced, causing the crowd to once again clap and roar.

@@ -1,0 +1,197 @@
+---
+id: b82cfc68-a5cb-5749-8dd7-3468062d5f6f
+page-type-slug: story-chapter-royal-road
+title: "v4c12: Induction"
+slug: 0018-v4c12-induction
+partOf: beware-of-chicken
+position: 18
+ownLength: 2499
+unit: words
+ownProgress: 2499
+publishedAt: 2023-05-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1226454/v4c12-induction"
+royalRoadId: "1226454"
+markedReadAt: "2026-06-29T18:51:56.492Z"
+---
+
+Standing off to the side, Bi De watched as more aspirants made it through the mists. They had been waiting for hours already. Some looked confused that they had made it at all, while others looked troubled. He gave each of them an encouraging nod as they realized they had passed. Most of the men seemed surprised, before nodding back, while most of the women responded eagerly. One even started to march up to talk to him… before she caught Ri Zu’s aura and changed direction.
+
+Yun Ren, disguised as Biren, snorted at her sudden change in course.
+
+Sister Ri Zu was still in a foul mood, it seemed. “Do you require any assistance with… what happened back then, Sister?” he asked her, referring to the examiner who had challenged her and directed his intent at her back.
+
+The small woman paused in her glaring for a moment, and turned a smile onto Bi De. “Thank you, Brother. If Ri Zu needs help she will ask for it… but she also left some of her Qi in his dantian. If he tries anything again…” She shrugged.
+
+Bi De nodded at her forethought. This place was not their ally, and her caution would serve them well. They lapsed into silence again as another person wandered through the mists.
+
+“We probably should have been a bit less obvious that we’re all together, though,” Yun Ren muttered.
+
+“As our Master said, we are here to learn,” Bi De agreed simply, and Yun Ren nodded.
+
+They lapsed into silence for a moment. “So, we are in agreeance that Master will choose Chun Ke’s chosen name?” Bi De asked.
+
+“Naturally,” Ri Zu declared. “Ri Zu can’t believe Tigu would ever think they would name him Kai…”
+
+More people filed out of the mist as the sun began to set, the successful ones milling about or attempting to meditate.
+
+In the end, there were forty aspirants who had managed to pass before a gong sounded.
+
+And then, there was another bolt of lightning that slammed into the earth. Despite the strength of the strike, no dust or smoke was kicked up, a testament to the control of the user, and the Head Examiner suddenly appeared, idly brushing off his clothes.
+
+“Congratulations,” he boomed. “You all have shown aptitude above that of the common rabble. Rejoice, for only the strong pass the trials of the Shrouded Mountain Sect.”
+
+Bi De tuned out the murmuring as he listened to the Head Examiner’s words. The man had paused, and his gaze was sweeping over them. There were a couple of cheers.
+
+And then the man’s intent slammed into them. The Second Stage of the Spiritual Realm.
+
+“But do not get complacent. Each new day brings a new trial. You must be better, faster, stronger—and our Sect will cultivate this. Steel sharpens steel. Might attracts might. In combat, you see the truth and glory of the world. There is only one thing that need be answered by you—will you rise, or will you be a stepping stone for another?”
+
+… was this truly his speech? Bi De could hear some value in it. Indeed, training together made people stronger. Powerful allies bettered each other. But it was phrased in a way that made it sound like those were the only two outcomes—and was being a stepping stone really so bad, if the person you aided helped you reach new heights as well after?
+
+“Tomorrow, you will be judged further and assigned a place in our Shrouded Mountain Sect. Perhaps it shall be as part of the brave Fulmination Squadrons, the profound smiths of the Artifact Pavilions, or maybe even, should you prove worthy, the Inner Sect, where treasures and resources beyond your wildest imaginations reside. But for now, you have accomplished much and the Shrouded Mountain Sect welcomes you! Eat, drink, and be merry—and know that this is our gift to you!”
+
+The Head Examiner disappeared in a peal of thunder—and then the doors to the Sect itself opened. Servants, most of whom were quite beautiful women, wheeled in massive tables which groaned with food and bottles of wine. The scents were thick and heady.
+
+“Roasted Imperial duck?” a man asked, gaping openly at the ducks that were the size of dogs.
+
+“Birds nest soup!” a second exclaimed, his eyes on a gilded pot.
+
+“Braised deer tails, too!”
+
+“Is that a Spirit Beast?” a girl demanded, looking at the whole cooked corpse of a Frosthorn Goat.
+
+“We’re eating like kings tonight!” another cheered. “Praise the Shrouded Mountain Sect!”
+
+Bi De raised an eyebrow at the enthusiasm. It looked like ten entire villages worth of animals had been culled for them.
+
+“Please, take a seat, Disciple,” one of the servants asked him. “Eat as much as you’d like.”
+
+“Thank you.” Bi De nodded and smiled at her. Her face instantly went nearly as red as Bi De’s hair.
+
+Hrmm. That is getting a bit annoying, he thought. Especially because one part of himself demanded he take advantage of it. All he had to do was ask, and he would have a companion for the night—
+
+He shoved the idle thought away and sat with Ri Zu, Yun Ren on her other side and talking idly with one of the others who had passed. Bi De was seated next to another woman, one with brown hair and warm brown eyes. Her sword was slightly too big for her, it seemed.
+
+“Oh, heavens, this is amazing, is it not?” she asked him as she dug into her food.
+
+“It's quite good,” he replied lightly. Indeed, the food was… passable. He had consumed much better in his time. Everything was too thick and rich. Some salad, and perhaps a few spiced worms, would drastically improve things.
+
+Yun Ren had thought it hilarious that Bi De had made another batch, but they still tasted the same as when he was a chicken. Better even. He had no idea why people didn’t like them.
+
+“This one is Liao Yushang, martial Brother. Might she know your name?”
+
+“Fa Bi De. It is a pleasure to meet you.”
+
+The girl smiled and, to his surprise, leaned back slightly so she could address Ri Zu, who was giving her a look out of the corner of her eye. “And it's good to meet you too, Sister Hong! You kicked that bastard’s ass!”
+
+Ri Zu blinked at the friendly tone, but she inclined her head. “He had it coming,” she stated simply.
+
+“Yeah! You said you were a doctor, right? Could you spare this Sister a check up?”
+
+Ri Zu seemed taken aback by the friendliness. “Ri Zu can see what she can do…?”
+
+“Great! So, so, where are you both from?” Yushang demanded.
+
+Bi De chuckled. “You’re quite vivacious, Miss Yushang.” She almost reminded him of a taller and more developed Tigu. She even had her hair in two tails.
+
+“Of course! One must seize every opportunity! And you seem like good friends to have!”
+
+Bi De nodded. He couldn’t sense any duplicity. “We come from a ways away…”
+
+He spoke with Yushang, who came from the Spine Mountains, and admired Zang Shenhe—Bi De honestly felt a bit bad he could not be fully truthful with her. She was certainly chipper. On the other side of things, Yun Ren was introduced to “Fat Han”. A jolly, well, fat man who reminded Bi De of Wa Shi.
+
+Soon the feast began to die down, with what looked like a distressing amount of food left over, when Bi De heard something.
+
+The head servant clapped her hands together. “Disciples of the Shrouded Mountain Sect! We have something special for you all today as well.” She gestured to a golden pot, even more gilded than the one that contained bird’s nest soup. It was opened with a flourish—and Bi De had to hold back his laughter. He heard Ri Zu let out a squeak, and Yun Ren choked.
+
+Because in the pot was something he recognized. Gold Grade Rice.
+
+The rest of the disciples sucked in breaths as the woman carefully started spooning out amounts onto golden plates, instead of heaping it into a bowl like Bi De was more used to.
+
+He struggled to keep his face straight as a servant reverently put it before him, while Fat Han and Yushang were practically drooling.
+
+Bi De picked up his spoon and took a measured amount into his mouth. He could only smile as he felt the Qi within. There was a subtle taste of Qi from Tigu’s reaping claws, a hint of Wa Shi’s draconic water, and a note of stone from Gou Ren.
+
+It was the taste of home, and he savored it.
+
+He almost broke out laughing, though, when Yushang and Fat Han made noises that sounded like they came from Disciple Xiulan.
+
+Yun Ren, on the other hand, started choking when rice went down the wrong way.
+
+The feast wound down, and then the drinking truly began. More people started talking as the alcohol flowed. Bi De learned more about those who had passed. Their hopes and dreams. Some came from far flung villages. Others from noble houses, and others from the cities.
+
+They were… just people. Many of them seemed more exaggerated or expressive than most mortals Bi De knew, but that might have been because of the alcohol.
+
+Eventually, the night ended, and they were shown to their rooms. The beds had silk sheets, and their sleeping robes were of a quality Bi De had never seen.
+
+It was honestly just a bit too much. He knew how much things cost. Sister Pi Pa had lectured him at length about the price of things to make sure he wasn’t taken advantage of… and even his Great Master’s wealth utterly paled in comparison to just this room.
+
+It was strange. But for all its value… the bed still felt cold.
+
+===========================
+
+“Please come with us, Disciple. Elder Chongyun calls upon you.”
+
+It was rather a surprise when, in the morning, another cultivator had approached him. He had just been preparing to greet the sun. The urge was quiet these days, but it still felt wrong not to welcome the new day properly.
+
+He even had something to sing now, after Yun Ren had lambasted him for just shouting “It's Time to get up!” at the top of his lungs.
+
+It wasn’t Bi De’s fault that his traditional exaltation sounded strange when he was a human. It just didn’t translate properly.
+
+“I see. Thank you for informing me,” he said as he jumped off the roof of the dormitory room he had been given. He bowed politely to the man who had been sent to get him, and the man nodded with approval.
+
+“Keep up,” he commanded as he set off. Bi De followed behind as they bounded up the mountain, through a checkpoint of guards and a wall of mist. Bi De was led to an absolutely massive mansion in the heart of the mountain. It looked… well, it was quite gaudy, but he had little time to examine it before they were let in, and the cultivator, who had not spoken another word since they began, led him through the vast, vaulted stone halls until they came to stop outside a large set of double doors.
+
+The cultivator knocked twice with booming rapports.
+
+“Enter,” a voice commanded.
+
+The cultivator pushed them open.
+
+The room was, if Bi De was honest, almost comically large. The Healing Sage would have said these people were compensating for something. It was a vaulted wooden room filled to the brim with scrolls and trophies—broken Spirit Beast parts, shattered weapons, several dried Spirit Herbs, and more.
+
+Sitting at a desk twice the size of their dining table was a man.
+
+Elder Chongyun of the Shrouded Mountain Sect. He had a certain power about him resting on his shoulders, like a barely leashed storm.
+
+“Approach,” the grey haired man commanded.
+
+Bi De did as he was told, his steps even as he crossed the massive room, until he could stand before the desk.
+
+“Bi De greets Elder Chongyun,” he intoned, bowing properly to the man.
+
+He looked up from where he was writing, looking at Bi De. Bi De held his bow.
+
+After a minute, the man nodded, apparently satisfied.
+
+“Greetings, Disciple. Sit. I trust you are curious as to why you are here?”
+
+“Yes, Elder.”
+
+“Your power. At your level, you are utterly wasted in the Outer Sect, and you have caught my eye,” the Elder said.
+
+Bi De didn't know whether that was good or bad. But he was rather certain infiltrating didn’t involve catching people’s eyes.
+
+“I am humbled that the Honoured Elder considers my power worthwhile.”
+
+The Elder snorted. “Such humility. Power necessitates a change in protocol. You are at the Fifth Stage of the Profound Realm. You have gotten strong. So, I would hear your reason from your own mouth. Why have you joined our Shrouded Mountain Sect?” the older man asked, and his intent came down upon Bi De.
+
+Compared to Shen Yu, it was nothing. Yet it still made Bi De’s heart beat faster, and sweat threatened to form on his skin.
+
+This was an existence he could not hope to defeat.
+
+“I have had a sheltered upbringing, learning at my Master’s knee. Now, I have been commanded to learn the truth of the world of cultivation. I have been told that your sect is the one I can best learn this from. I have no desire to steal any of the treasures of your sect; I do not know if I am suitable to learn any of your techniques. But while I am here, I am a disciple of your sect. I will give my all to learn whatever lessons may be taught to me.”
+
+The Elder of the Shrouded Mountain Sect intent pressed down upon him. Unless Shen Yu was right outside the door, there would be no escaping if Elder Chongyun took offense to Bi De’s words, truthful though every one of them had been.
+
+The man, however, simply nodded.
+
+“You speak no lies, Fa Bi De—and your composure is admirable,” Elder Chongyun declared after a moment. “Your Master must be powerful, to raise you up so well.”
+
+“He is,” he stated simply. “Learning from him has been a gift that is invaluable.”
+
+The Elder examined him for a moment more.
+
+“Very well then, I shall take the face he has given us; a man who can raise a student up to your level is strong and skilled. If we are the best he can think of to nurture you further, then I will allow it. You shall be inducted into the Inner Disciples. Report to Zang Zhong for assignment within the Inner Pavilion—the Heavenly Retribution Division. I will be looking at your advancement with great interest.”
+
+“This disciple will endeavour to meet your expectations, Elder,” Bi De intoned with total honesty.

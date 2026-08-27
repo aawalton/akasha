@@ -1,0 +1,29 @@
+---
+id: ff508ebc-affc-56e1-8d66-6b6e7b0daf2d
+page-type-slug: story-chapter-royal-road
+title: "Book 2 is out. Audiobook as well now."
+slug: 0011-book-2-is-out-audiobook-as-well-now
+partOf: azarinth-healer
+position: 11
+ownLength: 352
+unit: words
+publishedAt: 2023-04-20
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1186719/book-2-is-out-audiobook-as-well-now"
+royalRoadId: "1186719"
+---
+
+Forgot how many words I have to put here to be able to post the chapter. 300 or something? That would be a super short chapter lmao.
+
+Someone last time asked why I didn't just put the text above down here. It's because you can't put links into the chapter text, and I need them links.
+
+Hope you've been doing alright otherwise. Feels a bit strange in a way, not to post regularly to RR anymore. Excited to do that again some time in the future, just haven't managed to write quite enough to justify posting. Lots of editing to do as well. How's your life been going? Any major changes or updates? Got a girlfriend? Boyfriend? This is very parasocial, I don't really know you. Still, I guess you read my stuff, if you're not just checking out this author's note. Which I get, if you do, I've done that as well for other people's notes.
+
+At 157 words, I don't even know how many there have to be but I guess I'm shooting for 300. Feels like the right number somewhere in my head but I might just be wrong.
+
+Not been thinking quite as much in terms of wordcount in the past year anymore, interesting change without a schedule I'm trying to adhere to. Massive impact on pacing I think. Writing a webnovel with set release dates and set chapter lengths just kinda pushed me to write a lot more words, even though sometimes I wasn't really feeling the scenes. Which is sad. Editing is cool in that way. Lets me go back with more time, to really look at everything, to cut out what felt like filler, and to flesh out scenes where I tried to have some emotional depth. Harder to write some things than others but the schedule didn't change lmao, so you get some awkward stuff in there.
+
+Reached the 300. Chapter done. Ready to post.
+
+Thanks for reading. And for being on RR, for enjoying this quickly growing niche. One more post onto the pile. One more number going up.
+
+And here I go.

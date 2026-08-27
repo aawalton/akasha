@@ -1,0 +1,181 @@
+---
+id: 889f4ab3-0bc1-545e-becb-72e0e11ff57e
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 4 - Monster Meat"
+slug: 0008-b3-chapter-4-monster-meat
+partOf: bookbound-bunny
+position: 8
+ownLength: 2099
+unit: words
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3032163/b3-chapter-4-monster-meat"
+royalRoadId: "3032163"
+---
+
+True to her word, Alice intended to escort them through the forest, but before she did, she handed everyone a circular device that looked like a compass.
+
+"This always points back to the main camp," Alice explained. "If for any reason you need to retreat, give up, get lost, or otherwise, head straight there."
+
+The students all promptly nodded in agreement. While the potential threats of the forest were definitely on their mind, what truly caused their compliance was the fear that Alice was far worse than anything the dungeon could throw at them.
+
+Once everyone pocketed their new tool, Alice led them out. This was a very hands-on lesson that brought about some of their earlier teachings. Alice demonstrated a wide range of skills, from tracking to gathering and even scouting.
+
+Obviously, such a short training period wouldn't immediately make them wilderness veterans, but it certainly gave them an impression of what was possible. Hana, in particular, was delighted by this and asked endless questions throughout.
+
+Alice also gave brief refresher explanations of some of the concepts on these open floors of the dungeon, including monster territories and roamers. This included signs of entering a territory, such as markings or even droppings.
+
+As for roamers, Alice couldn't really teach them directly in that regard, and you just explained that you needed to remain vigilant at all times. She did suggest that you could scout around before engaging, but also admitted that doing that each and every time would consume a considerable amount of time for such small groups.
+
+"In large adventurer groups, they sometimes hire a few people to constantly provide area scouting for the main team," Alice casually explained.
+
+The demonstration of gathering was rather half-hearted as it appeared that Alice didn't really care too much about this activity. It was painfully apparent that she preferred doing nothing but monster extermination and found the other tasks beneath her.
+
+Speaking of monster extermination, the entire class got to witness her brutally savage fighting style. Against the Brassbound and skeletons, there hadn't been too much for them to see, but against these beastlike monsters, her fighting style changed considerably.
+
+Rather than settling things with her fists and feet, Alice had pulled out a sword with a fanciful flourish. It instantly drew their eyes and stole the hearts of the more adventurous students, especially the boys.
+
+"Damn, I want a sword like that," Arthur muttered in the group.
+
+Others quickly expressed their agreement, and even Hana seemed enchanted by the blade. While Lily was momentarily fascinated by seeing it, she didn't feel the same magnetism to it that she might have had in the past—in her mind, she had fully committed herself to magic.
+
+The spectacle of the blade being unleashed was soon forgotten, replaced by shock and even a little terror as Alice cut through monsters like butter. The first victim was a pack of massive dire wolves, and Alice toyed with them relentlessly.
+
+Lily, in particular, was extremely startled as the ones she'd seen near Ceedale looked like puppies compared to these dungeon wolves.
+
+I guess the dungeon wolves grow differently? Lily gulped and unconsciously touched a talisman that was sitting in her pocket. I really hope we don't run into any hawks…
+
+Rather than taking them out in a single hit, like Alice usually would, she instead went for limbs and demonstrated what she had spoken of in class. When the first leg went soaring and landed near the students, there were startled cries of horror from the more squeamish students, yet strangely, there was no blood.
+
+When Alice eventually finished off the monsters, which began exploding into their signature black specks, they couldn't help but glance at the remains on the forest floor.
+
+"See? Monster meat. Not the best, but in an emergency, beggars can't be choosers," Alice said casually as she sheathed her blade.
+
+None of the students responded. Even Hana, Alice's biggest fan, was awkwardly silent as they glared at the monstrous wolf legs.
+
+"Nobody wants to give it a try?" Alice cheekily asked.
+
+"I'm good."
+
+"No thanks."
+
+"Maybe someone else…"
+
+And all sorts of other rejections came from the class. Alice shrugged and was about to leave when, suddenly, a small black creature darted forward.
+
+"Yona! Come back here!" Thomas shouted, only to be ignored.
+
+The small black cat sprinted up to the remains, and one by one seemed to swallow them up whole. None of the students believed what they were seeing, and even Alice looked astonished.
+
+Thomas chased after his mischievous Familiar, continuing his pleas and shouts for her to stop to no avail. When he saw that he was making no progress and that only a few legs remained, he turned to face Alice.
+
+"I'm so sorry! She won't listen no matter what," Thomas said, looking distraught.
+
+Alice shook her head and chuckled. "Don't worry about it, kid, at least they aren't going to waste."
+
+Thomas sighed in relief, moments before a smug cat strolled back to his side as if nothing was wrong. He looked incredibly frustrated and tried to dismiss Yona, but his desummon attempts were painfully unsuccessful.
+
+"I didn't even summon you in the first place… How did you even come out?" Thomas muttered in dismay.
+
+"Mrawr!" Yona cried out before jumping and landing on top of his head.
+
+Thomas sighed as he visibly slumped, before slowly walking back to the rest of the class.
+
+"Don't be so glum, kid. From what the fuzzball in charge says, eating monsters is good for Familiars," Alice suddenly said.
+
+"Wait, really!?" Hana abruptly asked.
+
+Alice turned to her and nodded. "It's what he says. While I might be the dungeon expert of Regarth, that's in a general sense. However, for this particular dungeon, I don't think anyone is as close to it as he is."
+
+The students murmured excitedly and, in quick fashion, began bringing out their previously dismissed Familiars. The size of their group instantly doubled.
+
+Hana frowned as she looked at her ball of light of a Familiar. "My Familiar doesn't even have a mouth…"
+
+Alice shrugged. "Maybe it just needs to envelop the monster parts? I'm not sure. Either way, I'm glad to see you all even more enthusiastic about this trip."
+
+"It's worth a shot…" Hana murmured, staring at Tach.
+
+Arthur sighed as he patted Hana on the shoulder. "Look on the bright side, will Sphii even eat meat? And she's only got a small beak…"
+
+Other students with Familiars in similar situations awkwardly glanced at their companions while pondering how to even feed them. The image of Yona scarfing down multiple meals larger than her entire body was still fresh in their minds, and all of them could only be left to wonder if this was something their Familiars could do too.
+
+Lily looked at Arakil's floating grimoire and could only be glad she didn't need to involve herself in any of this. Not only did she find it weirdly gross, but there was also the issue of her two teammates.
+
+With Yona and Jade on the team, even if Arakil could eat monster meat, I don't think he'd get a chance. Those two gluttons won't even leave a crumb behind.
+
+As Alice continued to show them around and demonstrate for all of them, another question began to arise among the students—how would they even acquire monster meat?
+
+Unfortunately, Alice only shrugged and told them to figure it out for themselves. Even Lily wasn't sure how to accomplish it, not that she even wanted to.
+
+"I guess you and I have an advantage for this," Arthur said, bumping shoulders with Hana.
+
+"Wind aside, I might be able to cut with light magic too," Hana said excitedly.
+
+Other students were also whispering their ideas. For Lily and her group, though, Lotte and Thomas looked somewhat discouraged.
+
+"My magic kind of only has one option: painfully lethal," Lotte said with an awkward smile.
+
+"Lightning doesn't really have any options either. At best, I could maybe stun a monster temporarily," Thomas replied. "I guess I could go back to using wind temporarily…"
+
+Thomas seemed very reluctant, and Lily could easily resonate with his feelings. She currently didn't want to do anything but Astral magic and glyphs right now, and it felt like using other magic would be going backwards in her development.
+
+While I don't really want to, I could draw a glyph to help with this situation. I can even save it so I can use it in combat, and if Thomas really can stun the monsters, it'll be even easier.
+
+When it was finally time to head back, everyone looked relieved. Compared to the first floor, this one definitely consumed more stamina to explore, especially with the false sun beating down on them.
+
+They did take a short lunch break, but it was only some rations from what they brought. Alice had offered to cook some monster meat, but nobody was brave enough to try that and happily ate their hard bread and dried foods instead.
+
+Much to everyone's delight, Alice actually provided supper for all of them, though it was just a giant pot she casually tossed her soup bombs into. Still, after a day of doing nothing but chase after her as she rampaged, the warm meal around the fire was especially soothing.
+
+The atmosphere, as the night darkened, was particularly jovial, with an undercurrent of anticipation for tomorrow. While everyone settled in, Alice took the time to explain how each team would be distributed.
+
+Essentially, they were all being assigned an area, and they were to stick to it as best as possible. She especially discouraged going into any other team's turf and said that if she caught anyone violating this, there would be consequences. However, there was one exception—she said if there was genuine danger, they could help each other.
+
+"I'll be roaming and keeping an eye on all of you, so I'm being serious when I say don't try to exploit this loophole," Alice warned.
+
+After that, everyone returned to their respective camps to get ready for the night. This was when Alice made her final announcement for the day.
+
+"Okay, we are going to practice night watch rotations. I'll be up all night, whereas you need to decide amongst yourselves who will be going first, second, and last."
+
+Shortly after that declaration, there were numerous complaints and whining from the groups. It seemed after a rough day of being dragged around at Alice's pace, nobody wanted to be up for the first watch.
+
+Lily glanced at her two friends and gave a soft smile. "I'll go first."
+
+Lotte looked relieved, as she was looking particularly pale. Lily knew her condition wasn't good, thanks to her unique condition, as she hadn't defeated nearly enough monsters to strengthen her constitution enough to overcome her blood.
+
+"Are you sure?" Thomas asked. "I can probably stay up first."
+
+Lily nodded. "I'm used to all-nighters drawing."
+
+"Alright. Thanks, I appreciate it," Thomas agreed.
+
+Lotte smiled at Lily. "Thanks, Lily, you're the best."
+
+"You should probably take the last watch, Lotte," Lily suggested.
+
+"I'm okay with that," Thomas said.
+
+"I'm not that bad…" Lotte whined before grinning. "But, I'll gratefully accept your generosity."
+
+As the two went to their tents, Lily joined the rest of the first watch class and noticed Hana was joining the first watch too.
+
+Well, she's definitely an endless source of stamina. I bet she could take the second watch as well without any trouble.
+
+Lily was just glad that she would have a friend to chat with to pass the time. Truthfully, she would have loved to have spent the time drawing glyphs or conversing with Arakil, but that would have to wait until they were in their smaller group.
+
+"So you lot are the sacrificial lambs for the first watch," Alice said, grinning impishly.
+
+The students glanced nervously at each other when Alice suddenly burst out laughing.
+
+"Don't look so terrified. Night watch isn't anything too bad, your only real concern is a roaming monster accidentally stumbling upon your camp," Alice explained.
+
+"Can we use these charms?" a boy asked, showing a pouch full of the carved wood.
+
+"Oh, nice, did you make those?" Alice asked in return.
+
+"Bought…" he admitted.
+
+"Still a smart move. Make sure to use those in your camp from tomorrow night onwards, but for tonight, we will forgo protection."
+
+The students reluctantly agreed; unfortunately, Alice made the rules, and they were helpless to follow her.
+
+"Hopefully something will bump into us tonight," Alice said ominously.

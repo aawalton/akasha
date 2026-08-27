@@ -1,0 +1,247 @@
+---
+id: f4a59b50-049a-503a-bf28-1c1f438507ed
+page-type-slug: story-chapter-royal-road
+title: "v5c58: The Return of Uncle Fox"
+slug: 0164-v5c58-the-return-of-uncle-fox
+partOf: beware-of-chicken
+position: 164
+ownLength: 2929
+unit: words
+ownProgress: 2929
+publishedAt: 2024-10-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1878029/v5c58-the-return-of-uncle-fox"
+royalRoadId: "1878029"
+markedReadAt: "2026-06-29T18:56:56.072Z"
+---
+
+Nezan shoved Shenhe out of the way, starfire stabbed deep, and the world faded away.
+
+It wasn’t the way he thought he would go…but when his eyes closed, Nezan found himself content with his death.
+
+He was old. So old, and so tired. He had been blessed enough to see the day the Shrouded Mountain Sect was brought low. He had hope for the future—Yun Ren was less burdened by hate and the things he had done. Even if they couldn’t take back their mountain…they would have a home in the Azure Hills and never have to fear persecution again.
+
+So he let his eyes fall closed, and Nezan dreamed of Wen.
+
+He dreamed of her smell. He dreamed of her silken hair. He dreamed of her soft voice singing tunelessly.
+
+It was beautiful and perfect. It was his greatest wish to see her again, beyond even his wish to see the Misty Fang again. The darkness closed in and his eyes grew heavy. He felt the Qi of his family caressing his core; he felt the deep strength of the earth gently trying to wake him.
+
+Yet he was content with sleeping. Content with his dream.
+
+And then he felt a little strand of lightning, a trail to guide him. Lightning that felt so much like Wen.
+
+Ah, she was here to guide him into the afterlife. He grasped the lead and the world began to brighten. He found himself walking through a mountain valley in the height of summer, the warm sun beating down on his back and the smell of flowers in his nose.
+
+But…Wen was further away now, even though he was following her lightning. She was on the other side of a mountain stream.
+
+His dear smiled at him. It was wide and bright and took up most of her face; a brilliant, breathtaking sight.
+
+“It's not time just yet,” she said, her voice gentle.
+
+A spark, a jolt of energy, and Qi so similar to Wen’s filled his body.
+
+Nezan opened his eyes.
+
+==========================
+
+“Not so rough, nephew,” Nezan complained to the boy as he was embraced. It took all of his willpower to keep corporeal—he was barely awake, and even that much was straining him. But it was indeed a joyous thing, to be loved so much, so he endured it for Yun Ren’s sake.
+
+“I knew you couldn’t be dead, you bastard. You’re not a fox, you're a cockroach!” the man said, swiftly wiping the tears away from the corner of his eyes. Nezan pressed his forehead into Yun Ren’s and chuckled.
+
+“I resent that comparison. What bug is so cute and fluffy?” Nezan asked.
+
+‘Nezan is a fuzzy caterpillar. The useless, wriggly kind children step on,’ Summer’s Sky sniped, the sword rattling in an offended manner. The blade was obviously quite upset with Nezan and his temporary death.
+
+“Good to see you as well, dear. And you,” he said before turning to the other person in the clearing. Zang Shenhe had her hand still raised and looked on with a pained expression on her face. “Do be more gentle when you wake a gentleman up, especially when your hand is on such a sensitive organ. I can’t handle that kind of rough play in this state.”
+
+The woman blushed at Nezan’s crass joke, outrage coming into her eyes before the fire died. Then the woman sucked in a breath, got on to her knees, and pressed her forehead to the snowy ground.
+
+“Thank you, for saving my life. I know you did not have to,” Shenhe said, kowtowing before him.
+
+So she knew, then. She had seen the truth. Her Qi was fluctuating, on the brink of deviation. She had obviously seen something that had completely shattered her worldview and had disturbed her greatly. Guilt rolled off her in waves.
+
+The dark part of Nezan took great joy in this scene, a member of the Shrouded Mountain Sect kowtowing to a fox. He would have gloated and shoved the knife in as deep as he could. He would have made her feel as powerless as the foxes their sect had butchered.
+
+And yet…what would that accomplish? Had he savaged Wen, when his dear had come to him, barely coherent? Why should he heap punishment upon a woman who was already punishing herself?
+
+His nephew had been right when they had spoken last. The foxes could retake their mountain without another drop of their blood being spilled.
+
+All it required…was to put an end to things. It sounded so simple, saying it, but… words were always easier than action.
+
+“It had to stop somewhere,” Nezan said after a moment. Shenhe’s head jerked up, and she stared at him with wide eyes. “And besides, I couldn’t let my beloved’s dear niece die.” Zang Shenhe looked away again, clearly at a loss for words. Yun Ren, still holding Nezan, shifted uncomfortably. It seemed Shenhe needed just a bit more time. “Summer’s Sky, dear? Do you mind keeping Shenhe here company whilst I pay my respects to the others?”
+
+The blade pondered the request for a moment before rattling agreeably.
+
+Yun Ren handed over the blade to Shenhe. Their fingers touched.
+
+Both of them nodded to each other.
+
+Then Yun Ren was off, racing towards Jin’s house, a big smile on his face.
+
+“..nephew, what are your thoughts on older women?” Nezan asked. “Shenhe was looking at you quite nicely~”
+
+Yun Ren stumbled, then jerked around to glare… but there was no real heat in it.
+
+“Okay, I didn’t miss this a bit…” he grumbled, clearly not meaning it.
+
+Nezan chuckled. Not his time quite yet… but this was not too bad either.
+
+His amused smile froze on his face, however, when Yun Ren stepped past the house and exposed the battlefield beyond. Smoke flowed into the air from corpse pyres various people were tending to, and the smell of burning meat finally drifted into Nezan’s nose.
+
+Nezan knew he had been forgetting something. The attack on Jin’s home!
+
+“Is everyone alright?” Nezan demanded. Yun Ren didn’t seem too worried, so things likely were not dire…
+
+“They’re pretty beat up…but they won,” Yun Ren replied. Nezan sighed with relief
+
+“Good, good. That is fantastic news—I was quite worried when that bastard started running his mouth about kidnapping little Mei.” Yun Ren’s stride hitched and his eyes narrowed. The snarl that issued forth from his nephew’s throat made Nezan’s hair stand on end. Nezan beamed with pride. “But I assume Shenhe or Lord Shen Yu dealt with him, seeing as we’re all here?”
+
+Yun Ren shook his head. “He got away. But…we’ll get to that in a sec. I wasn’t the only one worried about you.”
+
+“Oh?”
+
+Yun Ren nodded and then cupped his hands around his mouth. “Hey guys! Guess who didn’t kick the bucket?!”
+
+All activity around the pyres ceased. Nezan waved a paw in greeting. There were a lot of people, all the members of Fa Ram plus Yun Ren’s new friends.
+
+Everyone dropped what they were doing to greet him. They may not have been foxes, but they were certainly family.
+
+It was quite fun being picked up and hugged, even if it was a bit hard to keep himself solid.
+
+“You are so cute,” Yushang whispered to him, stars in her eyes.
+
+“My dear, we are obviously twins with our looks,” Nezan replied, and the woman giggled.
+
+Even Shen Yu rose from his seat. The man walked with a limp, and his fearsome presence was much diminished. His cultivation, from what Nezan could tell, had fractures all through it.
+
+“Su Nezan, I am pleased to see my comrade alive,” Shen Yu said, clasping his hands in respect.
+
+Nezan raised an eyebrow at the compliment. “I would have thought you to be more disapproving of this existence.”
+
+Indeed, Nezan was practically a ghost. His cultivation was now in the Initiate's Realm. Shen Yu had spoken with derision for beings like Nezan currently was.
+
+“There is a difference between hiding part of your soul out of cowardice…and living through an attack meant to kill you,” Shen Yu stated simply. “You fully intended to make your stand and only through chance did you avoid death. No man should look down on one crippled fighting against the Great Enemy.”
+
+Well, that was certainly better than he had been expecting.
+
+“Wait! We still have your body!” Yun Ren suddenly exclaimed. “And another bit of your core! Would that help you? Could we like…just shove you back in there?”
+
+Nezan and Shen Yu both paused at the hopeful look in his eyes.
+
+Nezan shook his head. “Unfortunately, nephew…my body is dead. There's no fixing that without techniques I have no desire to learn. I could refine it, eventually, but right now if I tried, my own body would destroy my spirit.”
+
+“Oh…” Yun Ren muttered. He looked a bit dejected.
+
+Nezan smiled and nuzzled the man. “Fret not, nephew. This existence is more than I thought I would have. Lord Shen Yu? If I could trouble you to keep that part of me? If I don't return to claim it in a hundred years, please do what you want with it. I do believe I would make a fabulous coat.”
+
+Shen Yu grinned. “I suppose I can do you this favour, Su Nezan. I look forward to having such a coat; your pelt is quite pleasing—though it can be Bi De’s, his own coat was destroyed.”
+
+Bi De squawked. “I don’t want to wear Nezan!” he said, aghast. “Besides, my coat was not destroyed! It's… it's just a bit burned! See! It can be fixed!”
+
+The man who was a rooster pulled out a charred, burned, and extremely ragged chicken-sized vest.
+
+Everyone stared at it. Bi De’s face tinted red under the scrutiny.
+
+Shen Yu blinked. “You actually retrieved that?”
+
+“I went and got it when you were chasing the one that escaped,” he said, his refined accent growing more akin to Jin’s country twang under the stares. “It was my Master’s first gift, I couldn’t just leave it!”
+
+Jin looked quite touched.
+
+Nezan laughed. “Then… shall we have a drink? I would like to hear about everything that happened.”
+
+“Sounds good. We need a break anyway,” Jin said, looking amused. “And what better reason to drink than to celebrate someone not being dead?”
+
+===========================
+
+It was really good that Nezan was alive. I was happy to see the prankster of a fox again, and Yun Ren was finally smiling—but it only drove home just how damn lucky we had been.
+
+Still, I wasn’t one to look a gift horse in the mouth, and so I said a little prayer for Nezan as we took a little break, filling the fox in on what he had missed.
+
+Nezan looked pissed when we mentioned everything that had gone down here. The fox let out little growls and snarls. I was quite touched that he was so angry on our behalf.
+
+My mild mood lasted until he started telling his side of the story.
+
+“I got the Heavenly Demon Yulong talking and…well, his desire was to kill everyone here, then capture and remove the memories of little Mei…because she is related to him. They share the same bloodline.”
+
+The teacup in my hand turned to powder. I could feel the fresh scabs on my arms rip open. Something pulsed in my forehead.
+
+I wasn’t the only one who reacted. Xiulan’s swords, resting by the wall, lifted into the air of their own accord, and I saw red markings begin to crawl along her eyelids and cheeks. Her expression could only be described as thunderous.
+
+Gou Ren’s arms had turned grey and rocklike, and only Xianghua’s hand on his arm kept him from rising to his feet…but she too looked extremely displeased.
+
+Yun Ren’s lips were curled up in a snarl. Bi De had stopped brushing his vest, his green eyes focused on the fox. The shadows around Ri Zu writhed like living things. Tigu let out a growl from deep in her chest that sounded exactly like a tiger. Chunky and Peppa had both frozen. The others looked a bit nervous at the sudden tension in the room.
+
+Gramps’s frown was severe.
+
+But the one who hadn’t reacted…or seemed to react, was Meiling herself.
+
+She sipped her tea and looked to Nezan with a soft smile. “Quite rude of these demonic cultivators…though there is one thing I know is false. I am certainly not related to a beast that would wish to do that to me.”
+
+Her voice was mild and pleasant, but her eyes were daggers.
+
+Gramps smiled. “Indeed, little Mei. I shall have this imposter who claims relation to you hunted down and executed for such an absurd claim.”
+
+Nezan chuckled too, as the tension started to drain out of the room. “Indeed. My apologies, little Mei. As for their plan…their ultimate goal is to lead a revolution to depose the Emperor, then use some manner of technique to craft a stable gateway, invade the Demonic Realm, then use widespread Demonic Cultivation with demons as fuel to reduce the resource load on this world, and eventually farm the demons themselves for power.”
+
+There was silence at Nezan’s declaration.
+
+Quite frankly, it all sounded like a bunch of bullshit to me.
+
+Gramps, however, was clearly thinking about it.
+
+“That is both completely insane, and unfortunately brilliant…simply because of the implications. If they have the ability to open stable portals now…” Shen Yu trailed off, deep in thought, before he shook his head. “We shall discuss this later, hopefully tomorrow, in Verdant Hill. For now…this is not something we need to concern ourselves with. Instead, we shall concern ourselves with the present.”
+
+The old man’s words were a bit worrying…but it seemed like we would be talking more about this tomorrow. I was just kind of annoyed by the whole thing. Wasn’t that the plot of DOOM? Mining Hell for cheap energy? What kind of dumbass would think that was a good idea?
+
+“Indeed,” Nezan said, glaring at the battlefield further away from the house. “Even in death, these bastards make a nuisance of themselves.”
+
+“Indeed, but the method my grandson is using to deal with them is quite brilliant,” Gramps said, turning from stoic general to doting grandfather in an instant. He seemed…genuinely proud of me for this.
+
+All I did was apply the scientific method.
+
+“We’re seeing which of our Qi does the most damage to Demonic Qi the fastest, and in what combination,” I explained. Time, Qi use, Qi type…every variable I could think of plotted out and quantified the best we could. I wanted this shit out of my damn lawn. “Right now, Tigu’er’s Ghost Hunter Arts and Big D’s Lunar Qi are the best at destroying the physical body—that destroys a big chunk of the impurities. But the solid impurities are not the only ones—some are a kind of liquid, and others a miasma or gas that lingers in place. Me and Meimei do best at clearing out the liquid, while Yun Ren seems to do the best with the gas—at least before he gets too tired to keep going. So we’re trying a multi-stage approach, instead of us just slowly grinding it down by throwing Qi at it. Which does work, but some people are naturally better at removing the solids, liquids, or ‘gas’ part of the impurities by themselves, which seems to be generally why it takes so long for individuals to deal with all three at once on their own.”
+
+Nezan looked suitably impressed.
+
+I just wanted something that worked if this ever happened again.
+
+We restarted our experiments not long after, and we were watched by some of the members of the Shrouded Mountain Sect.They all still looked listless and demoralized. They were certainly a sorry sight… but I couldn’t say I entirely blamed them. They had been through the wringer.
+
+I’d give them a little more time… but eventually they would have to leave. I just hoped they would have some kind of hope to hold on to soon.
+
+=========================
+
+Shenhe meditated upon the recent revelations with Summer’s Sky in her lap, quelling her Qi deviation.
+
+Yun Ren was right.
+
+She could not give in to despair. The sect needed fixing—and someone needed to be the one to fix it.
+
+That someone…was going to have to be her.
+
+As soon as she thought that, Shenhe felt an insistent pull. She sat back down and let Summer’s Sky direct her Qi, pulling it into the blade.
+
+When she opened her eyes, she was in a mountain valley in the height of summer; And before her was a woman.
+
+Zang Wen. The person who Shenhe had spent so long hating. The person she had blamed for everything. The person who was innocent of all her crimes, beaten and tortured for finding the sect’s dirty past.
+
+She smiled at Shenhe, reached forward, and took both her hands.
+
+“Hello, little crane. Would you like to have some tea?” Wen asked.
+
+“Yes please…Auntie,” Shenhe whispered.
+
+Wen pulled her into a hug. It was warm.
+
+They talked about nothing. They talked about everything. They went from drinking tea to walking through the valley, to her aunt giving her pointers, imparting all she had learned into Shenhe.
+
+Under that summer’s sky, for the first time in her life, Zang Shenhe truly felt at peace.
+
+When she opened her eyes again…the once cloudy storm-grey burned brilliant blue.
+
+====================================================
+
+=======================================
+
+Editors: Massgamer, Plasma Regulators, Brandon “Philosophysics” Zhang-Leong

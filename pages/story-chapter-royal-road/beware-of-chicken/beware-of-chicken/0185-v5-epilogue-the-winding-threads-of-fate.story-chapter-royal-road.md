@@ -1,0 +1,269 @@
+---
+id: 01485928-fde3-5f2b-81f1-e654dd44b8c3
+page-type-slug: story-chapter-royal-road
+title: "v5 Epilogue: The Winding Threads of Fate"
+slug: 0185-v5-epilogue-the-winding-threads-of-fate
+partOf: beware-of-chicken
+position: 185
+ownLength: 3393
+unit: words
+ownProgress: 3393
+publishedAt: 2024-12-09
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1948115/v5-epilogue-the-winding-threads-of-fate"
+royalRoadId: "1948115"
+markedReadAt: "2026-06-29T18:57:39.704Z"
+---
+
+To the south-east, Zang Shenhe and the Shrouded Mountain Sect travelled. They moved at their best speed. They used the roads when they could, but unlike mortals the forests, hills, rivers, and valleys were of no impediment to them. Their bounding leaps took them many hundred Li per day—the pace was still not particularly fast for cultivators, truthfully, but they still made good time.
+
+Their path took them to the Outer Fangs—the great barrier that separated the Howling Fang Mountains from the Azure Hills. The rolling foothills rapidly turned into towering titans of grey stone. The sheer cliff faces were near impossible for mortals to climb and were treacherous even for cultivators, but it was faster by far to go this way rather than heading all the way south to Stone Gate. Here, having so many experienced Outriders, including Shao Heng, was a blessing. Despite the dangers, their path was as easy as it could be. They scaled the mountains and headed for the nearest outpost for resupply. One of the larger ones, a hub for the surrounding area.
+
+But once they entered the mountains, it became clear how much things had changed.
+
+The outpost was empty. The sub-formation that initiated the fulmination transportation array was deactivated and destroyed. Perhaps it wouldn’t have been so worrying if this was a truly isolated outpost, but this close to the Sect it should have been well-manned and supplied.
+
+When they went into the nearby town, the mortals were relieved to see them. Not just relieved, but genuinely happy. They had quickly noticed something was amiss, as the men from the outpost frequented the town for supplies and drink.
+
+“We were wondering if they were all alright!” the Lord Magistrate of the town said. “We’ve had no answer from the transmission stones, and we heard some rumors—aye, they were foul things, Master Cultivator, and we didn’t believe them! But some Blackguards are saying that the sect is gone so that they can do as they please. We have heard tales of a group of bandits actually daring to harass people…”
+
+Shenhe nodded. “We shall get to the bottom of this,” she told the man. “The outposts will be manned soon.”
+
+After a brief resupply they left, though with a small detour. The burgeoning bandit problem was swiftly dealt with. Yushang acquitted herself well in the swift victory.
+
+It was only when they finally got to the heartlands of their territory that they were finally challenged. A single Outrider confronted them, barring their way… before his eyes widened.
+
+“Elder Shenhe! When you fell completely out of contact, we feared the worst!” he exclaimed, his eyes widening at the size of their troupe—nearly seventy cultivators in total with two Elders. He looked quite happy to see them… but then his eyes landed on Zeng and they narrowed. “Elder, I need to speak with you. Things have… changed.”
+
+“I know what has occurred.” Shenhe’s voice was soft. “We now go to the Sect. Tell me, who won?”
+
+“The Elders defeated the Patriarch. Elder Chongyun has taken over interim leadership of the Sect,” the man dutifully replied.
+
+“Inform them of our arrival,” she commanded, and it was so.
+
+Their retinue slowly grew as they approached the Sect. Outriders and members of the Sect on patrol joined them, swelling their numbers, until they finally set their gaze on the Shrouded Mountain.
+
+The mountain was… just a mountain now. It was no longer cloaked in mist and storm clouds. It was revealed, laid bare for all the world to see.
+
+They walked through the city at the foot of the mountain. Nervous, curious stares of mortals followed them.
+
+The guards did not stop them as they approached. They merely pointed the way before falling in behind her.
+
+The walk through the Sect revealed a surprisingly little amount of damage. Some of the manors were smashed. Some buildings were ruined. There was the occasional scorch mark. But for the most part, things had clearly been limited to the section they were approaching.
+
+The great stadium that had once stood here had been near-completely destroyed. The walls had fallen, leaving only a few sections of the stands intact. A gaping hole instead of an entrance greeted them.
+
+There, they were awaited. What stands remained were full. Others had to make do with standing on the ground.
+
+Again, the numbers surprised her. There were still a lot of disciples. When she heard there was a civil war she had feared that they would be reduced to half, or less than that—but the crimes of the Zang family and of the Inquisition had been great enough that the righteous had turned against them.
+
+And the righteous had outnumbered the wicked greatly, it seemed.
+
+Elder Chongyun stood at the head of the gathering. He had bandages on his limbs and had a patch over his eye, yet he stood tall, the rest of the Elders and Pavillion Masters behind him.
+
+Lishu was one of the first and foremost. The Pavillion Master stood with Chongyun, though in contrast, he was untouched. At Chongyun’s other shoulder stood Che Hanbin, Patriarch of the Che clan. He was missing an arm and great scars adorned his body, but he still stood. He was the only one who did not have a neutral expression on his face. His was twisted into a scowl, which changed to surprise and then joy as he noticed Che Han walking to her right, a place of honour and trust.
+
+There was an air of tension between Shenhe’s party and the Aect. The disciples watched on from the seats of the stadium.
+
+“Elder Shenhe,” Chongyun began. “It is good to see you returned to us alive—when we lost contact with your forces, we feared the worst.”
+
+“The enemies we fought were more insidious than we could have ever imagined. Our force was defeated and captured, but with the help of Lord Shen Yu and his disciples, we escaped and destroyed the main base of the enemy. Even as we speak, the Cloudy Sword Sect and the Soaring Heaven’s Isle Sect have deployed their disciples and Elders to bring low this threat.”
+
+There were gasps and murmurs as they got a look at her and her forces. The half that remained were still covered in wounds, but they assembled behind her.
+
+“Truly?” Chongyun asked, concern flashing across his face.
+
+“Yes. For the past week we have partaken of the hospitality of Master Rou and Lord Shen Yu—where we learned of what has happened with the Sect.”
+
+Again, there was muttering.
+
+“And? What are your thoughts, Zang Shenhe?” Chongyun asked.
+
+Shenhe took a deep breath of the air on the mountain. She tasted the nervousness and tension in the air.
+
+“My intention is simple: we will make things right. For the wronged. For those who have suffered. For those that believed in the righteous name of our Sect—In the name of the Emperor, I shall return us to the path of Zang Yong,” Zang Shenhe declared, raising high the jade talisman given to her by the Imperial Herald, to the surprised gasps of many. “Atonement and glory will be ours—built not on a lie, but on the words we received from our true founder! Strength Above All: To Protect What We Love!”
+
+Her declaration rang out, washing over everyone present. Her voice and Qi filled the mountain, rumbling like a peal of fresh thunder. The mountain itself seemed to shudder in joy and acknowledgement as a single stormcloud formed above them all, sparking and cracking with lightning.
+
+There was a pop as Nezan appeared, materializing on her shoulder.
+
+Even unflappable Chongyun’s eyes widened.
+
+“Shenhe!” one of the disciples shouted.
+
+“Shenhe!” another roared.
+
+Her name was taken up as the world rumbled and shook with the power of the stormcloud above.
+
+Chongyun sank to his knee, bowing his head. “Chongyun pays his respects to Zang Shenhe, Master of the Shrouded Mountain Sect.”
+
+The others followed.
+
+And on the mountain, broken and bleeding, there was hope.
+
+========================
+
+The Sect had been brutalized by the short war. Even on his last legs the Patriarch had done great damage before he had died. They had completely lost most of their information gathering capabilities with the destruction of the Inquisitors. Their territory was being probed from all sides.
+
+The Sect had been wounded. But if Shenhe had her say, it would live on and become stronger for it.
+
+Though the biggest question… was that of the Zang family. Her line was small and had been spared most of the violence. Fengfeng had been protected by her companions, while Haoyu was too young to have fought.
+
+The other branches were treated less kindly, especially the Patriarch’s branch. Some had been killed—especially those who had openly taken up arms against the ‘rebellion’.
+
+Most, however, had simply surrendered—too shaken by the truth and the suddenness of the shift to put up a fight. There was even a tale of an old mortal groundskeeper who had averted tragedy by putting himself in between a group of enraged rebels who got it in their mind to attack the youngest members of the clan—his scolding of the men and women attempting to hunt innocent children had shamed the disciples so badly they had ceased their attack—and when confronted by Che Hanbin himself had refused to give an inch before the man who had lost the most to the Zang family, whom soon gave his own word that they would be unharmed.
+
+Then the old man had simply gone back to tending the manor he was in charge of, saying it had to be kept clean for Young Master Bi De’s return.
+
+Shenhe ended up assigning more cleaners to that manor, just to make sure the old man wasn't too overworked.
+
+There were bitter feelings on both sides, but Shenhe would not start things off with killing the innocent. She had been blamed her entire life for the actions of another. She would not inflict that curse on anyone else.
+
+But neither would she force them to stay with the Sect while they were hated. She gave them the same choice as Zang Zeng—atonement or exile.
+
+In the end, Zang Zeng himself chose exile. Zhang Zhong was dead, having tried to help the Patriarch. Zang Sheng was unaccounted for, having disappeared during the fighting.
+
+“There is nothing left for me here,” the man said simply. “I will find my son or I will perish. Either way, you shall see no more of me.”
+
+Shenhe honoured her word. Zang Zeng was allowed to leave peacefully.
+
+And so began the long road to healing the Shrouded Mountain Sect.
+
+=====================================
+
+A thousand Li away, a man whose name used to be Zang Sheng sat atop a mountain.He had escaped during the chaos of his Sect’s civil war. He had wandered in a daze, his mind whirling from the revelations.
+
+“Strength Above All, To Protect What We Love.”
+
+The words were complete, but they made no sense to him. He could not understand them. What was it to love? Why did that make Zang Yong so strong?
+
+He did not know what they meant, but he had made a decision.He abandoned his name, for his namesake was a worthless being, unworthy to be carried by himself.
+
+His cultivation was that of the Third Stage of the Initiate’s Realm. He had broken himself, because his cultivation had been built upon a worthless foundation. It had been built to follow in the footsteps of a weak man.
+
+So he had discarded that, too.
+
+And now… now the man formerly known as Sheng wandered. He observed. He wanted to understand. He would achieve it—that beautiful, pure strength, untouched by weakness or deceit. He would find it and then return to his home. He would return to the mountain and kowtow before his true ancestor, the leader of the Lightning Brigade.
+
+But until that time…
+
+There was a scream below him. Far down the mountain, a mortal ran from a Spirit Beast. A Spirit Beast in the Profound Realm. The beast had been haunting this area, according to the tales of the mortals.
+
+Strength Above All, To Protect What We Love.
+
+“…Youchen.” Protector of the morning. A much better name than Sheng.
+
+Youchen stood. The enemy was a Realm above him, yet that was of no consequence. The truly strong would bridge the gap; if he was not strong enough, he would die and that would be that.
+
+Youchen’s roar matched the Spirit Beast below. His voice boomed like the thunder of a storm.
+
+He would be strong. No matter what it took. No matter how many times he would have to reforge himself.
+
+So swore Youchen.
+
+====================================
+
+Far, far away, Yulong could take no more. Trekking across the Crown of the World to avoid being captured had taken the last of his reserves.
+
+He found a cave, fortified it the best he could, and then finally allowed himself to sleep.
+
+He drifted off into the darkness… and then felt a tug, the same tug he had felt back at the base that he had shrugged off.
+
+He opened his eyes again, and there, in his dream, was a patch of darkness.
+
+“Disciple, I was trying to reach you,” the little spot of darkness chided. “But you were so intent on working, you missed my warning. I spent quite a bit of power on that, you know, power I didn’t have.”
+
+Yulong blinked, then flushed.
+
+“My apologies, Master,” he said with a bow. “It warms my heart to see you still live.”
+
+The tiny patch of darkness let out a chuckle. “It was a near thing. The only reason I am as coherent as I am right now is because you remember me speaking like this. In the waking world… well, it is unpleasant to say the least.”
+
+Yulong grimaced.
+
+“I’ll do everything I can to restore you to your former glory, Master,” Yulong promised.
+
+“Oh? You will, will you?” the darkness asked, a toothy, gummy, smile appearing on the patch of nothingness. His spirit swelled, the darkness from his Master coiling along the corridors of Yulong’s mind… before receding.
+
+Then his Master started to laugh, and Yulong chuckled too.
+
+“Ah! Too honest! Most of my kind would have taken that as an invitation to steal your body, my boy.”
+
+Yulong shrugged. “Would you even be capable of such in your current state?”
+
+“No, of course not. You would have snuffed me out like a candle flame! And besides, what sort of fool just eats such a promising disciple?” The mirth partially drained out of the voice. “I know you will help me, my disciple, but it will take some time before I can do anything of value. You will have to step in for me… completely. As the new Demonic Master.”
+
+“For that future… I’ll do whatever you need, Master.”
+
+The pit of darkness’s smile widened.
+
+“Continue across the Crown of the World. Head for the Azure Dragon Continent. I have some allies there who will be most useful.”
+
+====================================
+
+Ming Jie, Messenger of the Lord Magistrate of Verdant Hill, trudged through the snow. His cloak was warm, his bag was waterproof, and this entire journey had been more pleasant than he was expecting. The equipment devised by his Master and the man named Lu Ri was holding up very well! His newest report was very detailed on the boots especially. They had to be of good quality!
+
+He would be at Grass Sea City soon, to find his Master’s wayward son. It had been quite some time since he had seen the Young Master!
+
+He wondered how the man was doing.
+
+========================
+
+The Acting Lord Magistrate for Grass Sea City squinted at the transmission stone message.
+
+Extended?! He thought incredulously. Replacement delayed until at least spring of the new year?!
+
+What the Hells was this?! Why were they dragging their feet?! He wanted out of here! Being the Lord Magistrate was far too stressful. He pressed his hands into his forehead.
+
+It was only a matter of time until his parents found out about this!
+
+=======================
+
+Su Yuanlin smiled as she finished penning the letter to Nezuha and the rest of her tribe. They had family here and they would be safe here while Uncle sorted everything out in the Howling Fang Mountains.
+
+She sealed her letter. She would be headed to the Mountains to deliver the letter and give the all clear to her kin now that things had finally calmed down.
+
+She looked at the bags of pills and sprigs of Spiritual Herbs she had received as thanks from the Cloudy Sword Sect. High grade items, perfect for cultivation… and according to Elder Shou, perfect for helping to strengthen one’s bloodline.
+
+Yuanlin had come to say hello to distant kin… and fate had instead given her and her kin the best things they could have hoped for.
+
+She had a spring in her step as she went off to say goodbye to Lu Ri for now. She was breaking through to him, she just knew it. The man had been all too happy to have tea with her the past couple of days as they spoke about long range transportation of goods.
+
+Her path was unimpeded. The Cloudy Sword Sect had created their own base, courtesy of Elder Yukong and Elder Ge, in minutes. It had been humbling to watch the clouds descend and watch as the rock was hewed and formations laid down faster than she could perceive.
+
+Lu Ri was currently on standby while the others were analysing the demonic artifacts they had recovered, so he should be in his room.
+
+Her course set, she knocked on his door and poked her head in. Lu Ri always left his door unlocked and didn’t mind her visiting. “Lu Ri, I—”
+
+Yuanlin froze.
+
+“Ah, Miss Yuanlin! I could use a second opinion, but this is quite the idea, is it not?” Lu Ri said from between Xiao Su Ge’s legs. He was holding a piece of measurement string against her bare thigh.
+
+The Young Mistress of the Cloudy Sword Sect, who had been smiling brightly the moment before, suddenly turned her eyes to Yuanlin, a blush spread across her cheeks. She was standing with her arms out, and there were multiple drawings and measurements of the woman on the walls.
+
+She was currently wearing a uniform of some sort. Yuanlin’s practiced eye evaluated the costume… and she could only blink in shock and awe that the stiff, prudish looking Young Mistress had designed something like that.
+
+“That looks absolutely fantastic! The coat, the hat, look at how swishy that skirt is!” Yuanlin declared.
+
+Su Ge paused at her words, and her slowly building anger guttered out. Li Ri blinked. “Truly? Is it not an impediment on a long journey when delivering mail?”
+
+“Delivering mail?” Yuanlin replied. “Oh! Oh, I suppose that's interesting too. Better for the cities though, I think…. Uh, could I have the designs for that when you’re done? I know a lot of people who would want that—and if you are making a uniform, the design is really important to be memorable! The Young Mistress has a great eye—you should work with her more on this!”
+
+Su Ge actually did a double take at Yuanlin’s words, and Yuanlin gave her one of Yun Ren’s ‘thumbs up’ gestures when Lu Ri looked back at Su Ge.
+
+“I hadn't thought of that. Hmmm. Thank you very much. And Young Mistress, thank you for taking an interest in my work. I am humbled and honoured that you have chosen to assist me.”
+
+Su Ge smiled awkwardly. “You are welcome…?”
+
+=============================
+
+I was rather surprised it took so long for Gramps’ friends to visit, but I suppose that they did have a lot of work to do. But today was the day. Gramps had called us over to greet his friends… and had decided to do a little trolling.
+
+Elders Ge, Shou, and Yukong stared at us.
+
+“I told you my Disciple is a proud, erect fellow,” Shen Yu said as he held out his hand, a massive, shit-eating grin on his face. “Truly, he is the most magnificent of cocks!”
+
+Bi De bowed.
+
+Tianzhe Minyan raised an eyebrow.
+
+“A chicken?” she asked, sounding utterly flabbergasted.

@@ -1,0 +1,193 @@
+---
+id: 9d477d85-eea1-5ccf-ab9d-748c02c1f5a0
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 22 - Facing a Legend"
+slug: 0079-book-5-chapter-22-facing-a-legend
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 79
+ownLength: 3825
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3498386/book-5-chapter-22-facing-a-legend"
+royalRoadId: "3498386"
+---
+
+Ranthia didn’t bother getting out of bed. Instead, she threw a new image into the doorway, and had it sprint into the main room while she waited for [Reflections of Reality] to make it her. It was faster, and—just as importantly—it cleaned her up after her prolonged malaise. And after spending days languishing in her armor, every bit of cleanliness helped. Then, since she was still fully kitted, all she had to do was snatch up her traveller’s cloak when she sprinted past it.
+
+The new image had restored her hair to a freshly groomed state, not that it prevented her from pulling the hood over it—no matter her mood, she was in mourning. At the door, she hesitated for the briefest moments to confirm her condition, but she was as clean and ready as she’d get without disassembling and maintaining her armor. With some reluctance—it wasn’t like she was remotely ready to deal with people—Ranthia opened the door… to an extremely unexpected sight.
+
+“All I am asking is for you to refrain from intentionally damaging the tree.” The Maestro of Conducting stood tall and regal, the scarred flesh of her neck on full display thanks to her raised, defiant chin.
+
+“And like I said, if I wanted it damaged, I would have torn my way through or set the damn thing on fire.” The nameless barkeep—the ‘Black Flame Berserker,’ per the councilwoman—had her arms crossed as she glared down at the Maestro.
+
+The two tallest elven women Ranthia had ever seen were having a power spat on her doorstep. Gods and goddesses, the urge to just close the door and go back to bed was intense—she wasn’t at all ready to deal with the antics of the powerful. But that wasn’t a viable option, and she knew it. She was miserable, not ignorant.
+
+“I missed her initial knock; it was my mistake.” Ranthia stepped between them while she spoke.
+
+The woman hadn’t actually led with a polite knock, but that was beside the point. The truth had no role in de-escalation.
+
+“And we’re in a hurry, so get your cursed ass out of our way.” The barkeep did her best to burn Ranthia’s diplomacy to ashes. …Strictly metaphorically. Please.
+
+“If I might offer a piece of advice before we part ways: I would suggest you choose carefully who and what you wish to associate with, young one.” The Maestro tossed her white hair back as she spoke, still glaring daggers at the tavern owner.
+
+“I am grateful to everyone that has helped me out as I’ve tried to settle into a new society and culture.” Ranthia replied with the first thing (okay, the first tactful thing) that came to mind—anything to keep them from arguing.
+
+Thank Xaoc, it worked. After a brief pause, the woman nodded.
+
+“I see. Oh, before I forget… the Maestro have agreed to allow you to offer your services as a [Priestess] within the city’s boundaries. I will have the details delivered to your home later, though as long as you allow others to sign up and seek you out, there should be no difficulties. It would be best to avoid seeking people out, lest they accuse you of attempting to convert them.
+
+“And for now, I wish you the best with… whatever you are being dragged into. Do remember that I will help you with anything that is within my power.” The scarred woman favored Ranthia with a brief—visibly strained—smile, before she walked away at speeds suited to her extreme level.
+
+When one reached level 3041, even a leisurely walk could circumnavigate the city in the blink of an eye.
+
+“…I’ve been waiting for months to meet with them to try to get permission to do something with my [Priestess] class, and she just off-handedly gives me full permission out of nowhere?” Yes, she was happy, but it was weird. And only an idiot accepted an unexpected and unusual boon without questioning it.
+
+If there was one lesson she had to learn from Avyna, it was that she desperately needed to question things a lot more than she once had.
+
+“Heh, they probably heard you met with a member of the Council. I doubt they know you received a trinket from her though, otherwise they’d be painting your face everywhere they could. …Don’t give me that look, Anthelleon came to me for advice. She was worried about what you might have got yourself caught up in—and for damned good reason! How fucking stupid do you have to be to meet with a member of the Council in an intimate setting with no damned witnesses?!” The woman favored Ranthia with a sneer of displeasure before she started walking, plainly expecting Ranthia to follow.
+
+“Wait, what did Anthelleon say to you? I thought she was mad at me!” Ranthia jogged to keep up with the excessively tall woman’s long strides.
+
+“She’s been looking for you for days, you morose idiot. If you want to know more, talk to her yourself—I don’t give a damn about your petty drama! So shut up already and just follow me—you’ve kept him waiting long enough.” And with that, the conversation died. The woman ignored Ranthia’s queries about where they were going as they traversed the city, following quieter streets and routes.
+
+The elf never bothered to offer any clarification about who ‘he’ was, but the answer was obvious enough—she had promised to introduce Ranthia to someone that could help her adapt to interacting with extremely high-level entities. That much made sense, but instead of heading to the Lodge, like Ranthia assumed, they kept moving.
+
+Past the tavern, they finally passed through one of the seldom used exits from the city. Contrary to the tavernkeeper’s earlier words, she was in no rush. It was an aggressive pace for mundane speeds, but they were both capable of moving much faster had they wanted to.
+
+At least it gave Ranthia time to try to collect herself. By the time they ventured into the forest outside the city, her thoughts were… well, they were less scattered. It helped that she had already cried herself out at some point days ago; that was always an important landmark when it came to processing her emotions. Nothing felt processed, but she was used to that—there was never a neat and clean point where anything was ‘better’. Instead, things just gradually became easier, one infinitesimal step at a time.
+
+“Alright,” the barkeep abruptly announced to the forest, “this is her. Try not to break her. And if you do, I don’t want to hear about it.”
+
+Seriously, what the heck! There was no one there, it was just the same familiar forest they’d been walking through for some time. Ranthia would have assumed it was some sort of bizarre prank, if such a thing wouldn’t be wildly against what she understood of the woman’s personality.
+
+Those few moments were all it took for the barkeep to move beyond even the range of Ranthia’s ever-improving hearing. Instead of following her, Ranthia chose to focus on an entirely different sense—[Divine Eyes in the Void]. She had… mixed experiences with seeing through various stealth or invisibility Skills, though her more immediate focus was to find something that returned a level.
+
+…Something that wasn’t a squirrel, monkey, or similarly common bit of wildlife.
+
+She was about to give up and call out when something changed. There was no sound, no new scent in the air, nor any other discernable alteration, yet something indescribable felt… wrong. The wildlife that had been chittering and carrying on vanished rapidly. Not that they could be blamed for it.
+
+The sensation was… unexpectedly intense.
+
+Ranthia’s cheeks were burning as she forced herself to return to the stretch of forest that had been affected. Whatever had happened was seemingly absent by then, not that any other creature had returned to the site. As much as she wanted to vocally blame her [Companion Bond], she still had no idea who or what was there. And ‘what’ was a true possibility—even in her memories, the barkeep had never called whoever was allegedly out there anything except pronouns like “he” or “him.”
+
+Though it was almost hard to focus on that mystery after making such a fool of herself! Gods and goddesses, the drawback to her bond with Clover could be insidious! “Increased fight-or-flight instinct per level.” She’d known it would cause her problems—one of the questions she’d been grappling with was whether or not she would have killed Sunny’s father without the Skill—but it wasn’t like she received any notification or warning when the Skill was influencing her. She hadn’t even questioned why she was running away until she was halfway back to the city!
+
+“A human.” A voice rang out, masculine and positively aglow with open amusement. “Fairly vital, but otherwise physically lacking as compared to many of the Creators’ early efforts. With obvious exceptions, of course. A single free stat per level as you advance, once again sacrificing power in exchange for a nominal and irrelevant bit of flexibility. Truly, neither the Creators nor the System did your kind any favors.”
+
+It wasn’t the first time she’d encountered such an effect, but she was more than a little annoyed that even her dramatically improved hearing couldn’t narrow down which direction the voice was coming from. If her [Companion Bond] insisted on making her look like a fool, the least it could have done to make up for that was to help her find whatever was taunting her!
+
+“Humankind disappeared into the low experience zone—a presumed wasteland that had been insufficiently explored. Yet here you stand, just like your distant ancestors. Proud of personal achievements that mirror an elven child’s. Level 766. [Warrior] tagged, though slower than I would have expected. Either the low experience zone offered an inferior class quality increase than I expected, or you only have two [Warrior] classes at most.” The voice continued to judge her with every word. Notably, his Creation was old. The pronunciation was stiff and bereft of any accent—a pure expression of the language, with none of the advancements or changes that had come to it over the ages.
+
+“You could at least show yourself if you’re going to make me stand here and listen to your taunts.” Ranthia snarked ill-temperedly. She had no idea what she had expected of the man that owed the barkeep a favor, but yet another egomaniacal jackass hadn’t been high on the list. Honestly. She’d assumed the gruff woman had better taste than that.
+
+And she was in no mood to indulge him.
+
+“Not only is the blindfold a distraction, but you also possess a sensory Skill that surpasses your perfectly functional sight. The fine movements of the musculature of your face made it obvious. Your hearing is also atypically strong, though you trust your sight more. You wear the signs of mourning, yet you are far angrier than you are morose.” Of course he ignored her, why wouldn’t he?!
+
+“Enough of this… Show yourself!”
+
+There were quite a few things that Ranthia could have done, and a more tolerant woman would have probably used her words. Instead of doing anything sensible, Ranthia thrust her arms forward while she activated [Adamantium Chaos]. Layers of adamantium separated from her bracers into a wide hail of jagged shards and launched forward in a diffuse spray, covering almost the entire forest in front of her. She wasn’t stupid—she didn’t launch them at full power, just hard enough to hopefully elicit a response from whoever or whatever was taunting her.
+
+Not that a single sound reached her ears except the pinging of metal against wood, leaves, and dirt. The voice even remained silent while she pulled the adamantium back to her bracers with a second activation of the Skill.
+
+“I know she’s young, but I really expected her to have better taste. What makes you worthy?” The voice finally spoke again, his amusement refreshed.
+
+“The exact same thing that makes me worthy of standing here listening to someone ridicule me just because they happen to be more capable than I currently am—I’m here.” Ranthia was aiming for sass, but her tone landed closer to seethe. Oh well, at least she managed the grin.
+
+Honest—and somewhat effeminate—giggling echoed across the forest, until the sound suddenly narrowed to a single origin point. There were no signs of a Skill being cancelled or a Mirage fading away; just one moment there was nothing, the next an elf stepped forward. His chestnut brown hair was lightly curly and served as an unlikely home to more than a few sticks and leaves. His white horns rose tall from the top of his head without branching. And his armor was unlike anything Ranthia had ever seen—it seemed to be nothing more than leaves woven together with a bit of bark, yet it somehow gave off the same impression as the stoutest sets of armor she had ever seen.
+
+Not that she cared about any of that.
+
+[Divine Eyes in the Void] returned his classes and levels alright, but for once, Ranthia had no context for how to differentiate between the tenebrous shades. She had never encountered any entity that registered black—a level so high that there wasn’t a single trace of purple. He was an existence that had a foot in the divine realm. A level so high that he could likely surpass a manifested deity, at least outside their domain.
+
+And she had sassed him and tossed complaints his way! Gods, no, it was worse than that—she had attacked him! She needed to apologize. She needed to say something, anything to stifle his wrath.
+
+“What level are you?” …How was that even remotely helpful?!
+
+“4089.” He answered, the corners of his lips climbing a notch higher after.
+
+With the single point of context, she desperately tried to make sense of what her Skill was telling her. [Ranger – Forest] level 4089. [Ranger – Poison] level 4077. [Ranger – Arcanite] level 4080. …Probably. It wasn’t like she had more than one reference for discerning the subtle differences between shades of darkest onyx!
+
+The fight-or-flight instinct flared up again and, for a precious moment, Ranthia wasn’t able to do anything except struggle against it. She had no idea what expression she wore during her struggle, but she kept her feet firmly planted, because neither option was remotely acceptable. Though it was the oddest thing that ended her turmoil.
+
+He was familiar. She had seen him somewhere before.
+
+That distracted her from her nameless panic. It was… odd to think that she’d met someone at that level without her—or anyone else present—[Identify]ing him, but she knew she knew that face. From somewhere. Oddly though, [Immortal Armaments] turned up nothing when she tried to check through her memories of the elves that she met. So where…
+
+“Oh, please tell me I don’t have something on my face. I once met with a dragon that proclaimed herself queen with a blob of spinach stuck between my teeth. I’d prefer to be done with that type of mortification.” The nigh-divine man’s expression turned stricken as his hands blurred across his face and teeth, moving so fast that his arms seemed to wholly vanish from his person.
+
+Wait, what?
+
+“I… Sorry, no, you’re fine! Er, not like that—you’re okay for a guy, I guess? But there’s nothing on your face or in your teeth, at least not that I noticed!” Why was she getting panicked again?!
+
+“Ah, well then.” His arms reappeared and he offered her a smile. “So, where was I? Ah, right. Well said! …The answer to my question, I mean. The one I asked before I appeared. Ugh, why did the System have to make time manipulation impossible? I could use a redo here.”
+
+Should she apologize? It kind of felt like she needed to apologize.
+
+“Well, no matter! Ahem, I am Ranger. You might have heard of me.” The elf bowed, losing some of the sticks in his hair in the process.
+
+“The art in Avyna’s shop!” The words slipped out of Ranthia’s lips while she remained staggered by the revelation.
+
+He wasn’t just seven levels away from ascension—he was one of the first elves! She was standing in front of a being that Xaoc Himself (and the other gods) crafted!
+
+…She chose to believe Xaoc’s influence explained his behavior and messy appearance.
+
+“You’d think people would get bored of me after almost five thousand years, but no. Everyone sees paintings of me, reads propaganda pieces about me, and hears songs about me. Because, like you, I was there. Well, you weren’t there; I was just trying to hearken back to your response because I liked it.” Ranger frowned a little as he lost the trail of his intended wordplay.
+
+Seriously, was he trying to ingratiate himself with her, or was pseudo-divine speed somehow insufficient time for him to consider his words before he said them?!
+
+“Ranthia. By Xaoc, I hope you haven’t heard of me.” Stiffly, she returned his bow.
+
+“An adherent to one of the Creators? Neat! Not even a little uncommon, mind you, but I still like to see it. And nah, Elleth—” he paused to noisily clear his throat, “the rather private woman that finally called in that dusty old favor didn’t tell me anything. Well, except that you needed help getting used to interacting with people far beyond your level. I’d assumed it would be one of the local whelps though. Nice to see a human finally seized immortality and made your way to civilization.”
+
+“I… suppose you have some experience with that.” Ranthia carefully quashed the questioning lilt from her words.
+
+“Of course.” And with those words, he was abruptly directly in front of her. “Look, you’ve probably noticed that, compared to when you were small, the consequences of your physical actions have increased, right? That never stops as you level. Sounds really trite, doesn’t it? But seriously, it escalates until the actions and consequences feel entirely mismatched. Mind a demonstration?”
+
+“Sure.” Ranthia agreed, despite being convinced that she would regret it.
+
+At utterly mundane speeds, Ranger raised a hand. Quietly, she watched him gently press one of his poorly maintained fingernails against one of the steel plates of her armor, just below her collarbone.
+
+“Okay, as soon as I finish talking, I’m going to flex a single muscle within my finger, just a little. It’ll be like I was trying to stretch the finger just a little further outward, without really trying. This is pretty much the smallest movement I can make, but you see—”
+
+His finger never moved. Every sense she had agreed—his finger never moved.
+
+And yet. Ranthia’s feet left the ground and pain registered across her chest. A deformed plate even separated from her armor as she passed through the air.
+
+All told, she wasn’t thrown far—only a dozen paces or so. But she had started with solid footing, and his finger hadn’t even moved!
+
+“The least that I can do at my level still has severe impacts on the world around me. There are clear rules that govern actions and effects in our world, but they break down as your level advances. Were you an elf, you might have seen this already, even at your level. The effect grows. I can do nonsense like—oh, wait, crap. Your armor broke! Sorry, I assumed you had a better Skill than that!” From lecture mode to panic in an instant.
+
+“It’s fine, it’s designed to do that.” Ranthia winced as she spoke. Her chest was probably already discoloring under her armor, but she was more than a little reticent to tip her hand to the elf. It wasn’t like she had any reason to distrust him—nor would her ability to shift save her had he intended to kill her. But it was really hard not to feel cowed before such a powerful being!
+
+That or it was the ill effects of her [Companion Bond] leaving her skittish.
+
+Meh, at least the plate wasn’t too bent. She was reasonably confident that she could repair it.
+
+“Here, to make up for it.” Ranger tossed something unexpectedly large her way.
+
+After his last demonstration, she hurriedly danced clear of the incoming object, but contrary to her expectations, it flopped gently into the bed of leaves without scattering them—a feat of dexterity. The truly unexpected bit was that it was a large ruby. The man was casually tossing about the most valuable piece of currency his society used as if it was nothing!
+
+…Avyna. Misery smothered her borrowed outrage once her mind helpfully reminded her of its source. She had once-fond memories of watching her… the elf carefully polish and care for gems.
+
+“Wait, no, why…?! Who gets sad over money?! Did I not give enough? I thought the economy was in better shape than that! What have Orthandis and the others been doing?!” Ranger was back to freaking out.
+
+Right, she needed to hold herself together.
+
+“Sorry, no, it’s… a personal thing.” She knelt to retrieve the gem and pulled the traveller’s cloak a bit tighter around herself afterwards. “I can’t accept this; I can repair the plate.”
+
+She held the gem out to the ancient elf.
+
+“Just keep it. Seriously, I have an absurd amount of wealth, especially since I usually just live in the forests as I wander Pallos. Have you ever met a tree that wants gemstones? Wait, bad example, I almost forgot treants and dryads exist. Still, keep it. I insist!” Ranger clasped his hands behind his back.
+
+“…Fine. Thank you.” Ranthia chose not to argue. Instead, she wondered if he had always been like that or if it was a side-effect of living in the woods for over four thousand years.
+
+“You’re welcome! So, back to what I was saying before. The rules of the world just don’t have any meaning at my level. I can scoop granite like clay. Like clay! I can still hold back, mind you. But it takes diligence. Get a high-level immortal angry? Control can slip. And even with the slightest slip, well… Bad things can happen.
+
+“That’s what you need to learn. Your intuition is based on whether someone means to throw a playful jab or a punch. But from a being like… our mutual friend—seriously, what do you even call her?—there’s a bigger spectrum. Which makes sense! One percent of my strength might surpass you going all out. So, I’m going to teach you how to tell when our restraint cracks. And hey, it might even help you avoid horrible accidents as you get stronger.” He concluded his brief speech with a polite smile.
+
+“Okay… How are we going to do that?” Ranthia asked, wary of future bruises.
+
+“By playing games!” Ranger’s smile turned far more honest—with outright ominous excitement—as he produced a small leather ball.
+
+What in Xaoc’s glory had she gotten herself into?

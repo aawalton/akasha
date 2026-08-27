@@ -1,0 +1,127 @@
+---
+id: 82a429ab-dad4-5fa9-a1d6-d0b8b353e7a0
+page-type-slug: story-chapter-royal-road
+title: "v4c42: Forty Years, and Forty More"
+slug: 0055-v4c42-forty-years-and-forty-more
+partOf: beware-of-chicken
+position: 55
+ownLength: 1645
+unit: words
+ownProgress: 1645
+publishedAt: 2023-09-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1349716/v4c42-forty-years-and-forty-more"
+royalRoadId: "1349716"
+markedReadAt: "2026-06-29T18:53:16.146Z"
+---
+
+“…Ri Zu also needs five drops of essence of Fire Petal, two blood replenishing pills, and the standard array of healing poultices for disembowelment and a severed limb. We begin immediately,” Ri Zu commanded as soon as her patient was laid on one of the beds in the medical theater. It had been arranged more like the rooms Master Jin and her own Master had begun to work with—white sheets and masks on the faces of all who entered. While infection wasn’t quite as big of a danger for cultivators as it was for mortals, Ri Zu was of the opinion that every bit helped.
+
+Her assistants obeyed immediately, wheeling in the emergency medical kits and rushing off to get the proper herbs. Ri Zu was pleased that their training, though still ongoing, had largely stuck. They were getting close to where she wanted them, though Ri Zu could still do multiple assistants’ jobs simultaneously. Still, Ri Zu found that partitioning the work into smaller chunks yielded better results—but only a sect as large as the Shrouded Mountain could afford that number of skilled people assigned to each doctor.
+
+It was still strange that the physical injuries this man had were considered only moderate injuries, after coming from the perspective of Hong Yaowu’s ways. Instead of the practically assured death of disembowelment, a quick inspection of his vital organs for tears and then a brief wash if they were dirty was all that was needed before a man could have them shoved back into his body cavity and his wound sewn up. Cultivation in the Profound Realm and a few healing herbs would handle the rest of the physical trauma, and he would be back on his feet within the month.
+
+The ‘mere’ physical trauma was not what was causing the most damage, however.
+
+Ri Zu grimaced as she held her fingers to the man—Shao Heng’s—wrist. She could feel his hammering pulse, and his body thrashed in an unending seizure.
+
+Qi rampaged through the man’s system. Wild and icy, yet not demonic— his own Qi was damaging his body. It felt like a savage wolf as it ripped and tore, damaging both his meridians and the tissue around them. What was more, his own body was producing more of the wild Qi, particularly in his dantian.
+
+It was a Beast Curse. It was the last, spiteful act of a slain spirit beast. Just as Chow Ji had cursed the land of Fa Ram… the King Tundra Wolf had spent the last of its power before its death to do this. To force the man’s own Qi to rampage like it had.
+
+Without the studying she had undertaken after failing her first test, she would have had no idea what to do. But now, she was prepared for something like this. The mortal medicine of Hong Yaowu was good… but this was a cultivator problem, and it required cultivator solutions.
+
+She ran through the methods of treatment. Two, and only two, were at all suitable.
+
+The first was to use her own Qi to try and build a bulwark, an area of forced calm in Heng’s Qi. From there, if he was strong enough, the area of calm could spread. With time, and an iron will, he would recover.
+
+Yet Ri Zu could tell Heng was not strong enough. He was fading. Perhaps, if he was not so injured. Perhaps, if he had had more Qi when the ability struck him low.
+
+Perhaps…
+
+As he was now, Ri Zu gave him perhaps a five percent chance of survival—yet to take this path is what the scrolls instructed her to do. It was what Master Lishu would do. They were to do all they could to recover the years, likely decades of the man’s cultivation… and the rest was in heaven’s hands.
+
+A five percent chance at life and full cultivation.
+
+Ri Zu could not condone it.
+
+Ri Zu pulled out her needles, her gifts from Fat Han, and began the other procedure. What she was about to do was the reason why every fool was warned to never allow spiritual doctors they did not trust to examine them.
+
+“Enter into the records. Primary treatment is non-viable. Ri Zu is performing [Snuffing the Fire].” There was a brief intake of breath from the assistant, but he didn’t do anything else.
+
+It was rather like her own Master’s formation. Drain the Dantian completely of Qi, and snuff out the fire that was in all cultivator’s core—the fire that was producing his own death.
+
+She would heal him. He would live. And though his cultivation would be destroyed, she would make sure this man had a second chance.
+
+Ri Zu chose life. There was no hesitation. There was no pause.
+
+Heng spasmed as Ri Zu broke his cultivation. As she shattered decades of his work… so that he could live.
+
+============================
+
+Master Lishu was waiting for her when she exited. The man in the room behind her was sleeping peacefully in a warm bed, the various healing items of the sect nursing him back to health.
+
+The stern master’s eyes examined Ri Zu for a moment.
+
+He nodded at whatever he saw there. “Your performance was acceptable, doctor. Your assistants once more show their worth.”
+
+“Thank you, Master,” Ri Zu responded to him.
+
+“You took the path I expected you to. Now, you shall prove your words. Forty years. That was what you just cost Shao Heng. Most of a mortal lifetime. Many cultivators would have preferred death,” Master Lishu stated conversationally.
+
+“Ri Zu takes full responsibility for her actions, Master Lishu. If he hates and rages at Ri Zu… then good. At least he is alive to do so.”
+
+Master Lishu nodded. “Good. We constantly make choices on life and death—we should always be committed to everything that comes after.” The man paused. “It will be a long, arduous journey, Disciple Hong Ri Zu.”
+
+“It will be. But is anything in this world easy? Death is the end. While we still draw breath, we can continue to challenge the heavens.”
+
+Master Lishu’s lips twitched slightly before his face settled again. “What is your plan for continuing treatment?”
+
+“Speedy rehabilitation,” Ri Zu replied. “While his body and soul still remember the level of his cultivation, Ri Zu will immediately begin exercises to rebuild his foundation. He has accomplished this once before, and Ri Zu hopes it will be a speedier process to get him back to his former self. The physical changes in a cultivator are noticeable, and the controlled breaking of his cultivation and dantian should have left less trauma.”
+
+“You’re treating his cultivation as part of the treatment itself?” Master Lishu asked, raising a brow.
+
+“Why would it not be? It was a part of him. And besides, was he not a skilled and experienced outrider? Should not his years of service entitle him to resources so that a loyal member of the sect may regain himself?” Ri Zu asked him.
+
+“It should… but that is not the case. Strength above all,” Master Lishu said, his voice hard, “If you have no strength, you have no merit… and though the Medical Pavilion does have some excess resources, they are for healing, not for cultivating.”
+
+Ri Zu frowned at the words. “So effectively there is no compensation.”
+
+“We are the compensation. We save their lives, and nurse them back to health. What happens after is up to them,” Master Lishu said. “Which is why he is still listed at his previous strength—it is his pavilion’s role, not ours, to determine whether that should change. As such, the assistants should be back soon with the resources he is merited as a Profound Disciple of the Outriders. That is standard procedure.”
+
+Ri Zu smiled at the small deception. “Thank you, Master Lishu,” she said, bowing.
+
+The man turned with a barely audible huff of dignified impatience. “Don’t thank me. Show me the fruit of your path.”
+
+With that, he strode away.
+
+Not for the first time, Ri Zu wished the man wasn’t a member of this sect.
+
+She took a deep breath and turned back to her patient. He would be unconscious for several days.
+
+And then, she would know how he would truly react to learning Ri Zu had purposefully destroyed his cultivation.
+
+================================
+
+In the end, one of the injured had perished, his wounds too severe.
+
+The entire pavilion was quiet as the day drew to a close and Ri Zu trudged back to her dorm. She grunted in return to Yushang’s greeting and set about preparing for the next day. She needed to monitor the patient's condition, prepare the treatment—
+
+Her thoughts were interrupted as Yushang hugged her from behind. Ri Zu mentally sighed and prepared for the joking squeezes or comments that she looked good, but instead, Yushang simply stayed there. Quiet and warm.
+
+Ri Zu’s tense shoulders became slightly less tense, and they ended up sitting on the floor together.
+
+It was half an hour before she drew away.
+
+“Better?” Yusahng asked.
+
+Ri Zu nodded. “Yes, actually.”
+
+The other woman smiled and pumped her fist. “Great! I’m three for three today! First Han was all sad about the Artifact Pavilion, then Biren was all grumpy! I had to pin him before he gave in and was healed by me! Now I just need our Handsome Brother and I’ll have completed the set!”
+
+Ri Zu snorted at the relentlessly cheerful response. “Let's go see if he’ll host us all for dinner then. We’re allowed in the Inner Sect as guests.”
+
+“Oho?! Inviting me to dinner with your man!? What are your designs, you saucy wench?”
+
+Ri Zu just laughed and stepped out the door to collect Yun Ren and Fat Han.
+
+She didn’t even feel mad when Yushang hugged Bi De, much to the man’s bewilderment.

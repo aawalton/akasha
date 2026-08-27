@@ -1,0 +1,205 @@
+---
+id: f2e4ac3e-07f3-5151-a872-092523368581
+page-type-slug: story-chapter-royal-road
+title: "v6c51: Today's Date"
+slug: 0240-v6c51-today-s-date
+partOf: beware-of-chicken
+position: 240
+ownLength: 2263
+unit: words
+ownProgress: 2263
+publishedAt: 2025-08-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2485839/v6c51-todays-date"
+royalRoadId: "2485839"
+markedReadAt: "2026-06-29T18:59:37.786Z"
+---
+
+“You know, my dear husband, the people of that other place were truly depraved,” Meimei said, her eyes locked on to me. “Absolute degenerates.”
+
+I looked down at my apron. It was the only thing I was currently wearing, and it didn’t cover much.
+
+“I can go change if you’re offended,” I replied, raising an eyebrow back to my wife while setting down our breakfast. We had gone traditional today, with a sweet congee of dried berries and honey, as well as tea eggs.
+
+“You will do no such thing!” came the instant rebuttal. “I spoke only in simple admiration. Now go and get momma some more tea.”
+
+I turned around and smiled at the absolutely perverse giggles that echoed out from my wife. She sounded like a dirty old man. I knew what was coming with the sound of her chair shifting, but allowed the sneak attack to land. I just laughed as her hand hit my butt with a meaty thwack.
+
+The legendary naked apron was a hit. A very big hit. And after breakfast my wife showed me just how much she enjoyed it.
+
+While the house normally felt a little empty with everyone away, sometimes it was nice to have the place pretty much to ourselves, especially after how busy everything had been.
+
+It made it a lot easier to have a date day. Peppa had taken Zhuye out for us after his morning meal, so we had the entire day to ourselves. It was really nice to have a day to just mess around.
+
+After our late and lazy morning, we set off arm in arm on a walk around the property. We bundled up in our winter finest: me with the coat Meimei had made me, and her wearing the hat with two deer humping I had made her.
+
+It was her favourite hat.
+
+The snow was deep, but it bothered us none. While we could probably walk on top of it with cultivation, it was a lot more fun to simply trudge through the white powder. It was up to Meimei’s waist in some places, and in those parts instead of powering through she hopped onto my back, pointing forwards and kicking her legs.
+
+“Go forth, my mighty steed!” she commanded me. Naturally, I obeyed, snorting and bucking like a bronco, much to Meimei’s delight.
+
+We wandered over frozen streams that we could still hear flowing weakly under the ice. I picked Mei up so she could clamber on top of the biggest rocks. We balanced and walked along the tops of fallen trees, letting ourselves slip and fall into a soft blanket of snow.
+
+The air danced with iridescent ice crystals, and the forest was quiet and still. Cold light shone from above a canopy of bare branches and evergreens.
+
+We let the chill in, to give the air just a bit of bite. We let our noses and cheeks turn red from the cold. We wandered in the middle of winter, happy with all it was.
+
+We walked the land, the pristine and the scarred alike. We knew every route we could take, because we had walked them all before. This was our home, and it was good.
+
+We walked past branches full of birds, their feathers puffed from the cold, and not a one took flight. We walked among a herd of deer, their heads down and hooves pawing at the snow to get at buried plants. The buck, a majestic one even without his antlers, looked directly at us and snorted, before paying us no more mind. We walked alongside two foxes as they bounced, rolled, and yapped at each other, with not a care in their little world. They chased each other around our legs for a while, before they shot off, heading deeper into the forest.
+
+We both had smiles on our faces as we finally started the way back home, cold and slightly wet.
+
+We passed by Babe, the ox examining characters he had carved into the snow along with Gramps.
+
+“Clean, but too clean,” the old man commented. “The flourish is what elevates writing to art, the personality of the calligrapher.” Gramps looked up and saw us before waving us over. “Granddaughter! I know today is yours, but might I borrow your husband?”
+
+“I expect him back shortly!” she commanded, and I rolled my eyes as Gramps chuckled.
+
+I walked over to where Babe was standing, glancing at the character. Turtle. A fairly complex character honestly. I picked up a nearby stick and, after a moment, wrote the same character in the snow. Bold, and strong. Tough.
+
+Babe’s cuts were sharper and more square, while mine flowed.
+
+Gramps sighed. “Look at him, he writes so beautifully, but resorts to chicken scratch in his personal notes!” the old man lamented.
+
+‘A clean cut can also flow like water, rather than have such rigid straightness,’ Babe said after a moment, nodding. ‘I will meditate upon this. This one thanks you for your instruction.’
+
+Gramps smiled. “Calligraphy is a wondrous art that teaches a man much, both about himself and about the world. All who seek its study should receive pointers. But this isn’t the only reason you called me out, no?”Stolen novel; please report.
+
+Babe shook his head.
+
+‘This one found much enjoyment in carving wood block print stories with Bi De. This one was wondering if perhaps Master Shen Yu had any stories that would be acceptable for this medium.’
+
+Gramps chuckled. “Oh? You’re going to illustrate my feats? Sure, why not! I think I have a good one…”
+
+We left them to it and continued our walk.
+
+As we got closer to home, we noticed how quiet it was. Bowu had given the drop hammer and forge a rest. He and Washy were both sitting at a firepit, roasting chestnuts and potatoes. Nearby were Chunky and Peppa, who were also outside with Zhuye. Both Peppa and Zhuye were sitting on the boar’s back as he made a slow circuit around the fire.
+
+Peppa looked quite radiant, a soft smile on her face.
+
+“Adaba!” Zhuye cheered.
+
+“Adabada~” Peppa sing-songed back, much to Zhuye’s giggles. Then our little man noticed us and threw up his arms.
+
+“Ah! DaMa!” he babbled, reaching for us.
+
+Naturally, neither of us could resist.
+
+“Are you being good for your big brother and sister?” Meimei asked while we cuddled him.
+
+‘Little brother is very good!’ Chunky answered happily.
+
+“He stood up again earlier, and got another step in!” Peppa said with a bright smile.
+
+I let go of our son and gave Peppa a big hug too.
+
+“Thanks for looking after him,” I said.
+
+“It's never any trouble,” Peppa answered, holding me tight.
+
+“Make sure you ask us for help with your own,” I told her, and she blushed prettily.
+
+“I don’t yet know when that will be,” she demurred, but she was glowing.
+
+Then I hopped onto Chunky’s back behind her. Our big man let out a grunting laugh and took off to Peppa’s shock at first, before she started laughing as we charged around for a while.
+
+When we came back, the roasting potatoes were done.
+
+“Cheers!” I said as Washy did one up for me with butter and cheese. Meimei wrinkled her nose a bit at my choice but otherwise didn’t comment. “You’re a champion!”
+
+Washy snorted. “Obviously!” he declared, and continued onto making one for Peppa, which ended up so red with spice it looked radioactive, but she looked to really enjoy it.
+
+All of us ended up trying a bite. The flavours were intense, and a bit much, but it wasn’t just heat. Washy, as always, had put real thought into the flavor.
+
+I sat beside Bowu. “I thought you said you were helping Noodle today?”
+
+Bowu shook his head. “He’s deep into it right now, planning a big project. I know how it is, you just want to concentrate alone,” he explained. “But honestly, I needed this. Been burning hard for a while. It's been good to sit around and hang out with Wa Shi.”
+
+Bowu did indeed look good. The young man had gotten a bit taller over the past year, and was now  only slightly shorter than Xianghua. His eyes, which once had been weary, now sparked with life. He looked calm and confident.
+
+I clapped him on the shoulder.
+
+“Everyone needs a rest day,” I said sagely.
+
+Bowu smiled. “What about you, Big Bro? You have a good day with Auntie Mei?”
+
+“The best,” I replied truthfully.
+
+===========================
+
+After our snack, Mei and I decided to go into the greenhouse for tea. Chunky and Peppa, both of them in human form, took our son back with them to go have a nap, while Washy took Bowu over to Hong Yaowu.
+
+We waved hello to Vajra as we entered, the bees buzzing in greeting, and we walked into the seating area. It was lush and green here, and smelled wonderfully of flowers and life.
+
+Noodle was already there, beside the tanks that were holding the other snakes. He had taken over caring for the other snakes that had been the test subjects for his own procedure, stating that it was the least he could do for them. He was adapting well to having his mobility fully back and was constantly taking advantage of it, slithering all over the place happily.
+
+His eye was focused on the paper before him, drafting plans and material ratios with a determined, gleaming eye. I had no idea what he was working on, but I was looking forward to it.
+
+We stayed there for a while, soaking in the warmth of the artificial summer we had created. Then, it was back into the cold. We brought out the skates and went up and down the river, a leisurely journey.
+
+Afterward, we curled up in front of the fireplace with some scrolls.
+
+Drama scrolls. I had started reading them recently, just out of something to do, and was currently on a random one chosen from Meimei’s little library.
+
+They were unintentionally hilarious to me because of how melodramatic they were. Hells, they were basically ancient Chinese soap operas.
+
+“Man, Xiao Cheng is kind of a dumbass,” I said after I finished reading a passage.
+
+“I know, right?!” Meimei snarled. “Meihua was all like, oh, it was so romantic!’ No! Faking suicide is not romantic! If the Magistrate’s son hadn’t gotten that extremely weird hint that he’s been characterized as too dumb to figure out all this time, she’d have actually died!”
+
+I just sat back and listened as Meimei went into an entire tirade about the author and her ‘melodramatic bullshit.’
+
+It was god damn hilarious how angry she got about it.
+
+“I dunno, I kind of like her prose,” I said with a shit-eating grin.
+
+Meimei turned to glare at me.
+
+I had to make up my teasing by taking her to our big rock, all bundled up, and serenading her with the greatest country hits.
+
+As always, my wingman John Denver cooled her—mostly performative—anger at me. And then the kissing rock once more lived up to its name.
+
+Never once had I regretted carrying the rock here from that distant hill. He was my buddy.
+
+================================
+
+Our date day concluded with a candle-lit dinner, after Meimei fed Zhuye. We worked together in the kitchen and made a true classic—the first meal we had had together on my farm. Strips of chicken filled with Spiritual Herbs, squash, mushrooms and some spices, then crusted in leftover rice, and fried until crispy. It was served with baked carrots, radish, and rice.
+
+It was absolutely delicious.
+
+We had a bath together, a long, hot one amidst the Silver Yin Lotuses and other plants. The smell of cedar and sandalwood mixed with the flowers. We helped wash each other’s backs, I combed Meimei’s hair, and she gave my arms and back a wonderful massage.
+
+After that, we went to bed.
+
+And a while after that, we actually tried to get to sleep.
+
+I had a big smile on my face, and Meimei had her head resting on my chest. It was really nice to not have to worry about waking other people up.
+
+Meimei raised an eyebrow at my smile.
+
+“Whatcha thinking about?” she asked. She had a small smile on her face as well.
+
+“About how lucky I am,” I replied, looking into her eyes.
+
+Meiling kissed me.
+
+All was right with the world.
+
+==============================
+
+The next day, everything was back to normal for us. We made sure to confirm when Peppa and Chunky were going on their next date and thanked them again for taking care of Zhuye. Peppa almost didn’t want to let him go, content with carrying him around, but she eventually relented, her eyes soft as she stared at her little brother.
+
+The time the others had gone passed peacefully. We cooked. We cleaned. We repaired what needed it.
+
+Waiting for the spring, and when our family would come back home.
+
+We did not have to wait long. Meimei sniffed the air, and a smile spread across her face.
+
+For a moment there, when Big D, Rizzo and Yun Ren returned, I was almost expecting that something had happened during their trip. Had they found another crystal? Had they had another tournament arc? Had they fought another set of Demonic Cultivators?
+
+Turns out the answer to all of those questions was no.
+
+“You have to see it, Master,” was all Big D said.
+
+“I can’t wait,” was all I could say.

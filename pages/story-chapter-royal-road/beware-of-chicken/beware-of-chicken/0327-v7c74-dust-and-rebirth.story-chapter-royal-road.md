@@ -1,0 +1,211 @@
+---
+id: fe00e71b-4374-5f99-a870-68005b51a748
+page-type-slug: story-chapter-royal-road
+title: "v7c74: Dust and Rebirth"
+slug: 0327-v7c74-dust-and-rebirth
+partOf: beware-of-chicken
+position: 327
+ownLength: 2733
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3624996/v7c74-dust-and-rebirth"
+royalRoadId: "3624996"
+---
+
+It was over.
+
+The Emperor and his subjects were victorious. The great demons that had plagued Vajra’s nightmares for so long, the beasts that had destroyed her old empire, were vanquished.
+
+A grand celebration was being held as the moon rose high. There was music and the sound of drums. Many of her daughters were flying in formation above the gathering, showing off with acrobatics and carrying banners of woven reeds depicting the symbol of Fa Ram, and those beneath them laughed and cheered when they saw them pass.
+
+Others, however, were still busy. They ranged far and wide, making sure their enemy was actually as defeated as they seemed. Others watched over the Emperor and his Empress, who were still about their duties, hands pressed to the soil of Ash Forest and eyes closed.
+
+And still others collected the fallen. Again, her forces had been spared the brunt of the enemy’s attention, but they were small and weak compared to the others. Even a human could shrug off perhaps fifty stings. Her daughters, even bolstered by the Qi of the Empress and Consort Ri Zu, could barely take one.
+
+And yet they had done their duty without hesitation.
+
+Normally, there they would have lain; it was the way of things. But the Emperor, in his kindness and his nobility, had granted them an honour beyond honours.
+
+“Bring them home, Vajra,” he had told her, before he went to do his heavenly duty.
+
+Home. Home, to Fa Ram. Instead of disappearing into the dirt in this Heavens-forsaken forest, their blood and bodies mingling with that of the enemy… they would be brought back to their home, where they would be laid to rest and next year grow into flowers.
+
+Her daughters said that all those who died and were buried at Fa Ram would become immortal. Their souls would rise, becoming spirits that would dance on the wind and help the flowers of Fa Ram spread their blessed seeds until they laid over every corner of the world.
+
+It was a beautiful dream her daughters had.
+
+Spooks held court with man and bear alike, sampling different flavours of alcohol and regaling them with stories about the frozen north. Prince Yun Ren ghosted around the gathering, recording the scenes of victory and celebration equally with scenes of the injured, many of whom were attended to by Consort Ri Zu and other healers.
+
+Bi De himself was at the head of the congregation, seated before the great corpse of their enemy. The bears had placed it upon a carved wooden stump, with the creature's core torn from its body and placed before Bi De.
+
+It was massive, bigger than the Emperor’s clenched fist, a pearl-like gem of yellow, streaked through with gold inclusions. She heard the humans and the bears alike talk about it; how it was the biggest core they had ever seen; and how it was perhaps the most potent cultivation resource the Azure Hills had ever produced.
+
+She saw covetousness in the gazes of some. But none dared to claim the power for themselves.
+
+Vajra glanced between the corpse and the core.
+
+She had expected to feel more triumphant at this moment. Oh, she certainly felt satisfaction, but it was less than the all-consuming pleasure she had expected. Perhaps because its end was so pitiful?
+
+Or maybe it was because she was not allowed to parade its head around as she pleased?
+
+Ah, mayhaps that was it. One needed to parade around an enemy’s skull! It was how things were done!
+
+Vajra huffed, but didn’t voice her dissatisfaction. Noble Bi De had his reasons. It did not stop her from grumbling, though, at least until she was interrupted.
+
+‘Your Majesty,’ Bane of the Black Lances said as she and her sisters landed before her and bowed deeply. ‘We have returned.’
+
+‘Ah! My daughters! Come, come!’ Vajra danced, insistently tapping the treebark before her. ‘We have not yet had the time to speak of your grand mission!’
+
+All of them looked immensely pleased. Before, Vajra had been too distracted with the battles to listen to their reports, but here and now she finally could.
+
+She groomed Bane as her most accomplished daughter opened her mind and let Vajra see everything. Naturally, their guarding of the Prince was beyond question. He was growing well, and was truly a kindly prince, lavishing his affection on her daughters. Much of Bane’s thoughts were about the Prince and how to best serve him, and it was quite delightful!
+
+But after that, came Bane’s view of the world.
+
+Vajra had known of its vastness, but it was beyond even what she had been expecting. She saw the land of red sand that stank of metal and scratched at the carapace, and the shining ring on the hill. She saw the towering pines and the lake that went on forever. She saw the hive of humans where they seemed to outnumber even her own daughters!
+
+She also saw the wondrous outfit the Empress had crafted and... Oh, it was such a small piece of fabric, but—!
+
+Only Bane’s mental nudge brought her back from her fantasies.
+
+She saw the Twin Peaks and the army of cultivators who lived there; all those different places. All those different people. One and all her Emperor’s subjects, for they greeted him and offered him tribute.
+
+Yet for all its vastness, the world was impossibly vaster still; he still had so many more places to visit, so many more subjects who begged for his presence.
+
+It was… so fascinating. All these different humans. All these different Spirit Beasts. Each one, who knew of her Emperor’s might and benevolence.
+
+Some, she had fought beside. Her daughters had landed on them and danced for them, directing them in battle. She had led them to the injured, or warned them of impending attacks. She and her daughters had stood guard over the fallen, driving away swarms of their foe.
+
+It had felt… right. They were all a part of the Emperor’s hive. But there was a small problem. Most could not understand her! It was very, very inconvenient! The Emperor relied on Vajra for information first and foremost! And while being a bee had its advantages, conveying the Emperor’s will to his subjects was definitely something she had to work on.
+
+The others had spoken of gaining human form. Perhaps that was the way? But Vajra was not yet strong enough. Not yet. To become a better pillar for the Emperor to lean on, to properly be able to command his subjects—she needed to get stronger. She needed to learn about them, and whisper honeyed-words so they would follow the sweet sounds.
+
+She groomed each of her daughters as she thought, her mind racing. Yes. Yes, that was most certainly the way forward!
+
+Satisfied with her revelations, she turned once more to the celebration below. The music was winding down, and the exhaustion of the day was catching up with everyone.
+
+But there was one last commotion.
+
+‘Blaze Douser! Blaze Douser! You slew the great demon! Tell us, what will you do with its core? What great trophy will you make of it?’ one of the Blaze Bears roared. His words got everyone to pay attention.
+
+Noble Bi De raised a perfect brow, his gaze spearing the bear who asked. Then he looked down at the core before him.
+
+With a pop of displaced air, his form changed and he became a man, his red hair reflecting the dancing lights of the fire. He carefully picked up the core—as it was too big for him to properly hold as a rooster. He glanced to Paobu and jerked his chin upward at their fallen foe. The bear picked up the corpse, and together they walked to the middle of the clearing.
+
+“You ask what I shall do with this core; you ask if I shall make it a trophy?” Noble Bi De asked, his voice carrying throughout the clearing. “No, this is not what I shall do with it. For this core, and the power within, is not mine. All of this being's power was stolen.”
+
+His voice echoed, powerful, throughout the cultivators and Spirit Beasts alike. He looked at the core again. “Entire sections of the Ash Forest have been rendered barren. The trees have been burned, poisoned, or smashed to pieces because of our battle. The land itself has had its Qi, the breath of its life, torn from the bones of the earth. To take this core, to refine it, is to take a thief’s hoard and claim that all that was stolen yours.”
+
+Bi De knelt down. The clearing was utterly silent. He dug into the dirt, getting it beneath his fingernails. The loamy soil stained his hands and got on his clothes. Beside him, Paobu did the same.
+
+Two graves. One for the body, one for the core. Both were buried; and then Noble Bi De laid his hands atop the small mound and closed his eyes.
+
+“I shall not build my power on the backs of the next generation; instead I will plant this seed—for a tree whose shade that I may not ever see.”
+
+Golden light spilled forth from between his fingers and raced into the ground. It was not just the Qi of the Spirit Beast core, but Bi De’s own Qi that saturated the land. Vajra had seen it a thousand times at Fa Ram, and sometimes she too sought to emulate it… though she got tired very quickly, her Qi spread out throughout her hive.
+
+The others, those poor souls who did not know of Fa Ram’s ways, only stared in dumbfounded shock.
+
+The grass and the trees began to shed glowing motes like fireflies, rising into the air and illuminating the world.
+
+The entire forest trembled. Those humans who wore bandannas and tattoos, that Vajra now knew were from the Grand Ravine, fell to their knees, their eyes wide.
+
+Everyone felt it. The shift and turn beneath the earth as Bi De followed the lessons of the Emperor.
+
+Like the very land itself had suddenly risen from the dead.
+
+Vajra saw the stunned shock on the faces of the gathered cultivators—who could only stare as Bi De spent his energy so freely, letting it dissipate into the ground.
+
+And then he was joined by others. First by Princess Tigu. Then Princess Yin. Prince Yun Ren. Consort Ri Zu. Young Master Spooks—and the Blade of Grass, who was some manner of general for the Emperor.
+
+Vajra, naturally, added her own might. She gave it her all, as did her daughters, their Qi mingling with the gold of the earth.
+
+This place had been her old home. It had raised her. And while she had a new home now… she still wished the best for it. They were all the Emperor’s subjects, after all, and they needed to act like it! They needed to be the best! From the bears, to the humans, to the fish and the birds that lived in the forest. Everything needed to be fixed and brought to right! She would do it herself if the Emperor so commanded! Her Qi touched the Emperor’s vast golden web, and… it filled her soul with gold and green.
+
+Ash Forest suddenly changed. The Qi beneath them surged, becoming more vital, more powerful. It was like a heart suddenly started beating.
+
+Vajra felt connected to the power of the Emperor like never before… and could feel something that felt like approval.
+
+===
+
+“Thank you,” Tianlan whispered. The power that had been torn from her… was returned. The symbolism of the act itself had power—as did the clumsy tendrils of Qi that reached down into the earth, brushing up against her and her Connected Ones.
+
+The sensation was indescribable. It was a balm to all her little aches and pains.
+
+She could hear the pounding of Jin’s pickaxe, clearing the way. She felt Mei’s fingers weaving and splicing connections together.
+
+Tianlan marched forward. The world around her, the darkness, the ugly, snarled connections and holes within her quivered and bent, the drooping trees of her domain shuddering and bending before rising up.
+
+Like a dream, she was suddenly shrouded in mist—and then she saw the towering trees of Xiaoshi’s time. She felt the vibrant pulse of wood Qi that had saturated everything, allowing trees to grow to bigger than the tallest skyscrapers of Jin’s Before.
+
+For a moment, Tianlan saw her. The green ghost of the Empress of the forest. Dear Mishu, who had a voice like honey and a temper like a firework. She was fierce and loving, the guardian of all who called this forest home.
+
+In every other area, the main element had been defeated—the Grass Sea could boast a draw at best.
+
+Here, Wood had won. The fires had been quelled, the magma vents sealed off and battered back into position, their encroachment scars beneath the earth Tianlan could still feel.
+
+The fires had burned. They had killed. But eventually they had fallen silent. From that ash, the forests had grown again—stunted only through a lack of Qi. She could feel their dormant, latent power, waiting patiently for the time when they could grow again.
+
+It almost felt like a promise. Like they had been expecting that one day, Tianlan would return, and once more all would be well.
+
+‘You always did like to sleep in, Little Blue,’ Mishu’s voice ghosted across Tianlan's ears, and a lump formed in her throat at the sound. The great bear was looking at her with the gaze of a fond mother, who had just seen an oversleeping youth scramble out of bed in a panic.
+
+“I’m sorry it took so long,” Tianlan whispered back, and Mishu’s eyes softened further. There was no blame in her eyes. Her ghostly body started to degrade into wisps, as the golden light of the present started overtaking the past.
+
+Her nose touched Tianlan’s forehead.
+
+‘Take care of them. My cubs, the new Empress… and yourself, Little Blue.’
+
+Tianlan closed her eye.
+
+“I will,” she promised.
+
+‘That's a good girl,’ Mishu whispered. She started humming, an old tune she had taught them all, a song about the little things in life. They had sung it all together, while Mishu’s cubs bounced and gamboled around them.
+
+The song got quieter and quieter, until it faded completely.
+
+The connection to Ash Forest solidified.
+
+Tianlan opened both her eyes. The pane of gold on the side of her face was nearly gone, with only some cracks remaining.
+
+Two blue eyes stared at a forest, with the moon and golden stars shining overhead. She said goodbye to her old friend, reflecting on her final words.
+
+She reflected on them again, confusion overcoming her features.
+
+“Wait. New Empress?”
+
+===
+
+“Did you mean it, Daughter of Ash Forest?”
+
+“Of course! This forest will be under my and my Noble Lord’s Aegis! The bears, the men, even the fish and the worms! All shall know our benevolence, and all shall be elevated!”
+
+“...you’ll do.”
+
+====
+
+Vajra opened her eyes and breathed out. She had a feeling that she had been concentrating for quite a while. But how could she not, when her Emperor’s power had so filled her breast! Why, it was even light out!
+
+One of her daughters, who was suddenly very small, buzzed in front of her.
+
+Vajra paused.
+
+“Daughter, what are you—” she began, then froze again.
+
+She looked down and saw a vast expanse of pale, creamy skin. She could not see her feet.
+
+“Ha?” she asked, suddenly feeling unbalanced. The tree branch she was on was very small and—
+
+Vajra started tilting backwards. Her new, strange limbs flailed. She tried to arrest her movement with her wings, but she had none.
+
+The new Empress of the Forest slipped out of a tree, made a terribly undignified sounding squeak, and hit the ground face first. She lay there for a moment, her ears bright, crimson red. She prayed to the heavens that nobody had noticed—
+
+“Are you all ri…ght…” Noble Bi De’s voice began full of concern, before trailing off. “Why are you not wearing any clothes…?” Her daughters gathered around her, worried. “Wait… Vajra?” Noble Bi De asked.
+
+Vajra’s new mouth made an odd whining sound.
+
+===
+
+===
+
+Edited by:  BargleNawdleZouss, Massgarmer, Brandon “Philosophysics” Zhang-Leong

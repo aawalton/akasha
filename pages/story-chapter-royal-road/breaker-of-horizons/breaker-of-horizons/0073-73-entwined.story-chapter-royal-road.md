@@ -1,0 +1,113 @@
+---
+id: f302c62e-cc8b-5d3d-a3fb-ba166291c569
+page-type-slug: story-chapter-royal-road
+title: "73. Entwined"
+slug: 0073-73-entwined
+partOf: breaker-of-horizons
+position: 73
+ownLength: 1945
+unit: words
+publishedAt: 2021-01-11
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/613014/73-entwined"
+royalRoadId: "613014"
+---
+
+The cars came to a stop and four agents from the frontmost vehicle disembarked first. Each of them held a thin, black wand, and with brisk, efficient movements, they took up positions around the other car and sketched glyphs in the air that faded into invisibility. Devon had no idea what they were meant to accomplish, but with his newfound connection to arcana, he sensed a strange shifting in the air. If he had to guess, they were protections of some kind, or maybe even something to ward against prying eyes. Thankfully, Devon and the others didn't seem to be affected by what had been done. In any case, there probably wasn't anything they could do to circumvent the agents by themselves. They had to trust in the augera's provisions.
+
+The back door of the rear vehicle opened and out stepped another agent, though there was an air of authority about him. His black hair, streaked with grey, somehow made Devon think about a grizzled bear — aged, but still dangerous. The agent leaned back into the car, and a moment later he emerged with Caden in his arms.
+
+Next to Devon, Jerric took in a sharp breath.
+
+"What?" Devon asked as he turned in alarm to Jerric.
+
+"You don't see it?" Jerric's eyes were filled with worry.
+
+Devon turned back to the window, but all he saw was the agent now mounting the steps and bearing Caden towards the front door as one of his men hastened to open it. There was no time for any more discussion or clarification. They had to act.
+
+"I'm helping him," Devon said coldly to the twins as he moved to stand just beside the entry to the vestibule. "If you're not going to, then at least stay out of the way."
+
+They hesitated as Jerric took up a position on the other side of the vestibule entrance, but when the door burst open they both started moving. For one fearful moment, Devon thought they were going to subdue Jerric and then move on to him, but they only pressed themselves against the wall behind Jerric. Kevan had taken the lead and hauled his brother there, and Lynus was looking irritated.
+
+The agents passed the four of them, oblivious to their presence. As the one carrying Caden crossed the threshold, Devon dug into the arcana, calling forth the power that the augera had given him.
+
+But power wasn't quite the right term for it. It was more like a knowing — having, for a brief moment, a flash of insight into how the world beyond the senses truly worked. The arcana answered his summons, gathering with alarming rapidity. As a mere vessel, the complexity of what was happening was beyond Devon's understanding, but he did catch a faint impression of powerful glyphs being formed in the sea of arcana itself. He had just enough time to wonder why glyphs were involved instead of pure arcanic manipulation before the sequence was complete.
+
+To their credit, the agents had mustered some sort of resistance. The moment Devon had called forth the power that the augera had gifted him, they enveloped themselves in potent shields out of instinct. The one holding Caden had even managed to sink a powerful ensorcelment into the air that forced the four Academy students to their knees despite their personal protections against it. But then the ambient arcana shuddered as Devon's sequence took effect, and the ensorcelment was scattered like leaves before a storm.
+
+As before, Devon's sequence passed through the shields entirely. The agents all froze in place, staring straight ahead.
+
+"What did you do?" Jerric whispered.
+
+"They're in some sort of stasis. And they're hidden from perception, too, so we can leave them like this for a bit," Devon explained, not bothering to keep his voice down as he hurried forward. He tentatively reached out, hesitating just a little before his hands made contact with the agent's shield, but he let out a sigh of relief when his hands passed right through. It was a struggle for him to get Caden out of the agent's arms, but Jerric joined him and between the two of them they managed to prop up their unconscious friend, each Caden's arms draped over their shoulders.
+
+"What now?" Jerric asked.
+
+It was strange being the one giving directions. Devon swallowed, looking from the statue-still figures of the agents, to Jerric, to the twins. The world was waiting for him to make a decision.
+
+"The lead car. We'll take that," he decided, a shadow of the Duke's authoritative manner slipping into his tone.
+
+He had no idea what the twins were thinking now, but he wasn't comfortable leaving them behind in the mansion. Jerric seemed to be on the same page, because as soon as the two of them had deposited the unconscious Caden in the back seat, Jerric hurried over to the driver's seat just as Lynus was getting into it.
+
+"I think I'll drive," Jerric said, laying a firm hand on the door before Lynus could close it.
+
+Kevan was already in the front passenger seat. He looked over, then gave his brother a nudge. "Let him."
+
+Lynus shot Jerric a wry smile. "I get that you don't trust us. But we should talk about that another time."
+
+"Yes. I'm sure we should. Now let me drive, please."
+
+There was no objection from Lynus as he relinquished the wheel to Jerric and joined Devon in the back. Jerric checked the rear-view mirror to make sure they were settled, then sent the car hurtling down the driveway and out the gates.
+
+"I'm guessing we can just drive right up to the Spire, hidden as we are?" he asked.
+
+"I think so, but be careful. I don't know if this means nobody can see us on the road, too," Devon replied, suddenly anxious as he realised the implications of being hidden from perception when driving on the road.
+
+As it turned out, they needn't have worried. The other motorists were able to see the car, even if they couldn't quite pay any attention to the people inside it. Not a single soul gave even a casual glance at the occupants as they passed other vehicles.
+
+Traffic was a shade smoother since the morning rush hour was over, but every delay made Devon more nervous. Even if the agents were hidden and in stasis, there was a possibility that a passing servant might bump into them. What would happen, then? But there was nothing that could be done now. He had to trust that the augera had thought of these things when it imprinted these sequences on his mind.
+
+In the front passenger seat, Kevan was occupying himself by carefully reading the glyphs of the flight artefact he had strapped on. Lynus looked deep in thought as he stared out the window. Devon took the opportunity to finally get a good look at Caden.
+
+His dark brown hair was tousled and dusty, and his clothes bore signs of abuse. Little flecks of dirt peppered them, and there were even some faint burns. Most curiously (and here, Devon had to squint and rub his eyes to be sure of this), there were even parts of it that seemed to glimmer and glow with a faint luminescence. It took a moment for him to realise that it was the faint glow of coalesced arcana.
+
+Was this what Jerric had meant, earlier? Devon gingerly took Caden's sleeve between his fingers to feel the material. Was it his imagination, or was it a little warm to the touch?
+
+The worry was an excellent motivator, and Devon found himself sliding into the sea of arcana as soon as he had made up his mind to take a deeper look at what was going on. The transition wasn't smooth, but even though he tumbled gracelessly into it, he managed to quickly find his bearings and stabilise himself.
+
+It was immediately clear what Jerric had been talking about. Caden's auric-ambient-flare was no longer the stable, clear shape that it was supposed to be. It was a confused snarl of unchosen-sighted-{~?~} and... and...
+
+MONSTROUS-HORROR-{~!~}.
+
+Devon recoiled, landing back in his physical body with a cry of fear. The others in the car shouted in alarm, and Jerric almost swerved into a nearby car. There was a cacophony of horns before he managed to straighten out.
+
+"What the hell?!" Lynus exclaimed, staring, wide-eyed at Devon. Kevan had twisted in his seat to see what was going on.
+
+"I... he..." Devon found himself instinctively cringing away from Caden.
+
+"Don't look too closely," Jerric hissed, keeping his eyes on the road.
+
+"You can see it?"
+
+"I see something. It's on him. In him. Sitting this close, I can feel something's very wrong. I guess you slipped into the arcana to get a better sense of it? Don't do that. Everything's sharper there."
+
+"And you're both sure the Geldor Spire's augera will make this all better," Lynus said. It was not a question.
+
+"We're not discussing this." Devon managed to steady himself enough to sound curt, but he was still shaken.
+
+"We'll help," Kevan said quietly, surprising Devon a little.
+
+"Kev," Lynus began, "I really think—"
+
+"Yeah, you made it pretty clear what you think, Ly," Kevan interrupted. He pulled up the glyphs on the flight artefact again, not bothering to turn to address his brother. "But that doesn't mean we can't help. For now."
+
+Lynus shrugged even though Kevan wasn't looking, and turned to look out the window again. That statement did not inspire any confidence in Devon at all, but at this point, he was simply glad to have some assurance that the twins weren't going to try anything while they were in this car. And if they made it to the Spire, Devon was pretty sure the augera would be able to protect its own interests and keep Caden safe against anything the twins might do.
+
+For the rest of the journey, Devon wrapped his auric-ambient-flare tightly around himself so that he wouldn't accidentally brush up against what was happening in the ambient arcana. Caden's mere presence had begun to distort it ever-so-slightly, and after what Devon had felt, he could tell that it was some sort of corrupting influence that came from the thing inside Caden. He felt quite cut-off, now, like he was missing his sense of smell, but it served to keep him safe from the cloying odour of wrongness in the arcana.
+
+They arrived at the Spire without any further incident. Devon connected just enough with the ambient arcana again to briefly wrap Caden in the same sequence that kept the rest of them hidden from perception, and then the four of them disembarked. Once again, to Devon's surprise, Kevan came over wordlessly and helped him to carry Caden out of the back seat, leaving Jerric free to take point.
+
+Together, they crossed the marble tiles around the Spire. The morning crowd had long since dispersed, but there was still some light foot traffic. Nobody glanced their way even though they looked rather odd — a group of young men in casual wear in the middle of a sea of formal shirts, blouses, and suits, carrying one unconscious and ragged-looking fellow.
+
+The augera kept its promise. The doors swung open with glacial silence, revealing an inky void, much like the Academy Spire. They braced themselves against the faint sense of dread and shouldered their way through the darkness that stood sentinel at the threshold.
+
+But just as Devon and Kevan carried the unconscious Caden over it, his eyes flew open, and the world turned upside down.

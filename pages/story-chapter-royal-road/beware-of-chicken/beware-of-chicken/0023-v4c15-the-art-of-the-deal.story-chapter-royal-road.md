@@ -1,0 +1,123 @@
+---
+id: 1f01b101-5dc0-57cc-b589-d51f6e2267b8
+page-type-slug: story-chapter-royal-road
+title: "v4c15: The Art of the Deal"
+slug: 0023-v4c15-the-art-of-the-deal
+partOf: beware-of-chicken
+position: 23
+ownLength: 1529
+unit: words
+ownProgress: 1529
+publishedAt: 2023-06-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1242650/v4c15-the-art-of-the-deal"
+royalRoadId: "1242650"
+markedReadAt: "2026-06-29T18:52:07.428Z"
+---
+
+Three years ago, if anyone had told the Lord Magistrate he would be frequently visiting a cultivator—or becoming friends with one—he would have called them mad. Cultivators, to him, had been unknowable, inscrutable beasts in the form of men. Monsters that had to be appeased when necessary and avoided at all other times.
+
+He had feared and hated them in equal measure, after what they had done to his lady wife. They were nothing but scum.
+
+‘Everything indeed looks to be in order, Lord Magistrate. The House of Rou can easily commit this amount of money for the purposes of allowing the villages to rent the Bowu Machines,’ Pi Pa said as she looked over the contract.
+
+Today, he was sitting in a cultivator's home and discussing with a pig how that cultivator could aid the farmers who lived in his commandery.
+
+It was absolutely absurd. It went against the natural order of the world.
+
+“Excellent. I am glad that His Imperial Majesty's government could come to an agreement with the House of Rou.”
+
+And yet here he was. Jin had asked Pi Pa to negotiate on his behalf, to give the pig more experience in her chosen role as a majordomo. She had proved herself an able negotiator, and a tiny part of him wanted to poach her for himself… but Pi Pa likely wouldn’t care for anything he had to offer. Even he could see the way she looked at Chun Ke and that any separation from her husband would be intolerable for her, just like it was for his lady wife and himself.
+
+Not that he would poach his student's servant anyway. That was just rude.
+
+The man himself was seated nearby, playing with his son. Lady Wu and Meiling were nearby, seated comfortably on a couch, speaking to each other in a familiar manner about some book. He put it out of his mind and returned to the task at hand.
+
+Pi Pa had clearly researched exactly how much the average farmer in the region made beforehand, and she’d applied that knowledge admirably. Thus, in less than an hour, they had something that satisfied both parties. All that was needed was Jin’s approval. The negotiation with the pig had the Lord Magistrate imagining Pi Pa as a stereotypical portly matron with a gimlet eye, always on the lookout for people who would try to cheat her family.
+
+Not that the Lord Magistrate would, of course. The last thing he wanted to do was lose Jin’s support—with this new initiative, he could already imagine the redoubled praise of his people!
+
+“The Lord Magistrate, making farming easier!”
+
+“Look at how much his foresight has increased our yields by!”
+
+“Hail the Lord Magistrate!”
+
+Oh, if he could only be a fly on a peasant’s wall as they received their new farming aids. Truly, he would not be able to walk down the street without being thanked!
+
+‘It is most good that you are so pleased, Lord Magistrate,’ Pi Pa said, and he realised he had been smiling quite widely.
+
+He put forth his best resolute expression. “Anything that improves my people’s lives pleases me, Miss Pi Pa.”
+
+The pig smiled warmly at him. ‘Truly, we are blessed to have such a fine Lord Magistrate,’ she declared.
+
+There was something… knowing in her words, and the Lord Magistrate considered her pleasant smile. It had entirely too much amusement in it.
+
+He would never say it aloud, but Pi Pa reminded him quite a bit of his own wife. Both were shrewd women.
+
+He let her amusement go, however, in far too good of a mood to take offense to her. And her words were not mocking in the slightest. She did truly mean them.
+
+“I must commend you for your role as well, Miss Pi Pa. Jin is lucky to have such a diligent servant. To be trusted with the House’s coin purse is no small thing.” Indeed, Jin choosing to delegate this task implied a lot of trust.
+
+‘Oh, my. The Lord Magistrate is a flatterer!’ the pig said demurely, and both of them chuckled. ‘The Master and the Mistress are both able hands at this, and it was out of necessity that Pi Pa took over this role.’
+
+“Oh?” he asked.
+
+“Indeed. At first our Master sought to pay us all weekly for our toils… but we had nowhere to put this coin, nor any use for it, so Pi Pa’s fellows all started sneaking the money back into the Master’s coin purse. Even Young Sir Bowu, who wished to repay us for his treatment.’
+
+Servants that returned their master’s money. How strange, but he supposed that if he lived here it would make a kind of sense. When one was fed and watered as thoroughly as Jin fed and watered any who came to him, what use would a man have for money?
+
+‘When our Master found out what we had done, he was quite cross with us all, though understanding. He then charged this Pi Pa with keeping track of all the money we are owed, so that if the time does come that we wish to purchase something, or if we need some money for an adventure outside our home, we have an accurate tally.’
+
+“I see. He is considered with the wellbeing of those who he is master of, as is right and proper.”
+
+The majordomo once more nodded. ‘Then, shall we finalize things?’
+
+The Lord Magistrate considered the document once more. The terms were generous. Both parties got what they wanted. Truly, it was a rare sort of deal.
+
+“Indeed. Shall we retire?” he asked, and Pi Pa bowed.
+
+He watched as Jin and Meiling read over the contract, looking for things just the way he and his wife had taught them over a delicious cup of tea and pastries.
+
+It was still slightly surreal, to have two people who could splatter him across the countryside with a flick treat him with such respect.
+
+But as they talked about aiding a community of mortals for no reason other than virtue… it was like they were just… people. Normal people, doing their best.
+
+The Lord Magistrate smiled at them.
+
+How he enjoyed that there were no more misunderstandings between them. Why, he would have driven himself into an early grave if he had kept worrying that his words would be misconstrued!
+
+======================
+
+Chen Lianji of the Plum Blossom’s Shadow stood at attention under Master Scribe’s profound gaze. All of the executives did. Their backs were straight, and their chests were puffed up with obvious pride.
+
+How could they not be proud? Master Scribe had given them all a task, and it was their solemn duty to see it through.
+
+Lianji, as had all the others, had immediately seen the power of what their Master had described.
+
+They would not just gather information but control its flow. All of it, for the entire province—while being completely hidden in plain sight.
+
+It was something both brilliant and insidious.
+
+“You managed to convince the Lord Magistrate of Pale Moon Lake City?” Master Scribe asked as he finished reading their report.
+
+“Yes, Master Scribe! The Lord Magistrate was successfully convinced of the merit of this initiative!”
+
+At first, they had only approached the Azure Jade Trading Company. Shan Daiyu had seen the value of their new system, and offered the Plum Blossom’s Shadow both a grant… and their political support. It tied the two organizations closer together, true, but it mattered little. Both the Azure Jade Trading Company and the Plum Blossom’s Shadow were servants of higher powers, who had their own alliance.
+
+So they had taken the initiative. What they were building was too large to stay discreet… and with the Azure Jade Trading Company’s backing, their new initiative was barely even glanced at before a legion of scribes began distributing orders all across the Azure Hills.
+
+In less than an hour, the Azure Hills Postal System was official government policy—any who obstructed their work would be obstructing His Imperial Majesty.
+
+The Blossoms, used to working in the shadows, hidden and unseen, found themselves hiding in plain sight. Who takes notice of the messenger on his route, after all?
+
+Master Scribe looked up at all of them, and a smile broke out over his face before he stated,  “Excellent work.” Lianji could feel the pride in those words and allowed it to seep into the smile that crossed his own features.
+
+“What are your orders now, Master Scribe?” one of their number asked.
+
+“Continue as you are. I am still in the process of refining the system.” Their Master’s voice was calm, but the intensity in it rang deafeningly. “What we do in these Hills may echo over the Empire entirely.”
+
+Every man and woman in the room froze at his words as their understanding of his plan became crystal clear. The sheer scope. The sheer unmitigated ambition Master Scribe had!
+
+Truly, they were honoured above all others to be the first to obey him, the ones trusted to make his plans a reality!
+
+The Plum Blossom’s Shadow would one day stretch across the entire world!

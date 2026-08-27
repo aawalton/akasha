@@ -1,0 +1,165 @@
+---
+id: 556c9b05-3108-5057-88ab-86a3f4ef6fbe
+page-type-slug: story-chapter-royal-road
+title: "v7c56: The Hidden Master"
+slug: 0309-v7c56-the-hidden-master
+partOf: beware-of-chicken
+position: 309
+ownLength: 2486
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3369164/v7c56-the-hidden-master"
+royalRoadId: "3369164"
+---
+
+The young couple introduced themselves as Shen Rou and Lin Liling. They were undoubtedly fools, but they were generous fools. Maybe it was the drink, maybe it was the day he had had, but Ye Shun actually started talking.
+
+“It’s been a trying day,” Ye Shun said with a sigh. “There have been several less than fortunate developments, and this old man sought to drown his sorrows.”
+
+The young man poured Ye Shun a drink, showing the deference proper from a junior to his senior. Ye Shun found himself liking the young man. He showed proper respect for his elders!
+
+“What kind of troubles?” Shen Rou asked.
+
+“Mostly foolish colleagues. Their blood is burning hot, so they’re being rash, and thus it's difficult to associate with them even though we do roughly desire the same things,” Ye Shun said.
+
+The day had been an unfortunate one for Ye Shun. His attempt to find the Great Expert Rou Jin had failed, which had been an annoyance, but a minor one. A Great Expert disappearing as they pleased was par for the course; it was just something to be expected.
+
+No, Ye Shun’s current issues were with those he considered his comrades. Passions had been high the first night, as they always were. People had advocated immediate strikes and brazen theft wearing other sects’ symbols, which were indeed not tactics to be discounted, but neither were they tactics of first resort.
+
+How these things normally went was that somebody would suggest an extreme course of action, and then as the meeting went on, that extreme course of action would slowly evolve and become something more cautious as they discussed the various strengths and weaknesses of their foe.
+
+Ye Shun expected this to be the direction of the second meeting, but instead his fellows were riled up enough to stay the course. Not all of them, but quite a few moderating voices were met with fierce opposition. They wanted action now, and yet that was the worst course of action.
+
+“Ugh, I know the type,” the young man commiserated.
+
+“The kind of people who force you to do all the work and take charge because they can’t think of an actual good plan, then ruin it for you anyway,” Liling grumbled.
+
+“Ha! Yes, exactly the type,” he said, smiling at the young woman. “For some of them it's understandable, they’re younger, but the older ones? They should know better.”
+
+“Any chance you could just work with the smaller group?” Rou asked.
+
+It was an idea—they would certainly get more done if he went and worked with just those who actually knew what they were doing, but… while the meeting had given Ye Shun a headache, what happened after had unsettled him further.
+
+His son and his grandson had returned to him with their own reports; for he had sent them out into the Azure Alliance to learn what they could.
+
+Both came back with troubling news. His son reported the rapid consolidations, the strengthening of borders… and deeper changes. They had heard about the Young Master of the Silent Rain Sect being rewarded for actions on the Stone Fist Sect’s land. They thought it was merely words; some minor thing done that Cai Xiulan could point to and show success.
+
+His son had approached the rank and file of the sects, who would be the first to jump at any slight. He brought drinks, and began fishing for the cracks that should have been there.
+
+Instead, these two sects, which were legendary for their hate for each other… had little bad to say about the other. The casual talk about wanting to fight and kill the other sect’s disciples was absent. The contemptuous expressions were replaced mostly by neutrality… or even positive words. The Stone Fist Sect was impressed by Zhuan Yimu’s bravery; and the Silent Rain Sect by their once-enemy’s own nobility, staying fast to his oath, and not acting on millennia of hatred when he had his foe’s future in the palm of his hand.
+
+It was clear that there was still dislike, but they were mere cracks, rather than gaping rifts.
+
+And it was not just them. Any strike that would get their enemy to fight each other would have to be extremely well planned.
+
+Yet his grandson’s own findings were the thing that made him truly doubt.
+
+His grandson was… excited about the whole thing. He spoke positively of the masses of disciples from different sects, and even independents, training with each other. He spoke of the various ways the Alliance was implementing to earn and distribute resources… but more than that, he spoke of Rags.
+
+Cai Xiulan’s information master, who had given his son a tour of his facilities, and spoke of how they were the ones who were in charge of coordinating the entire alliance, as the ones to speak the most with the Grand Marshal.
+
+His grandson had always been interested in such clandestine things, and it was good for an independent to keep his ear to the ground. But when his grandson expressed interest in joining… Rags had winked at him and then taken him in the back for a “special tour”.
+
+The room his grandson had described had made Ye Shun’s blood run cold.
+
+A massive map dominated the room, crowded with markers and notes, displaying where cultivators were, sect resources, Spirit Beast sightings… and rank upon rank of transmission stones, which were connected to every sect, so that they could immediately respond to reports and dispatch resources.
+
+His grandson had been awed at the level of information Rags commanded.
+
+Ye Shun had been similarly stunned, and then he realised that every current plan bandied about by the disgruntled independents was absolutely useless.
+
+“...no, I don't think even working with those who know what they’re doing might be victorious. We would have too little manpower.” Which was the unfortunate truth. The disciples, not the elders, were all growing like weeds. It was a stunning development. With their numbers they would have to ambush cultivators who were close in power to them, instead of those in the First or Second Stage of the Initiate's Realm. To say nothing of having to make a wide berth around Cai Xiulan. Spiritual Realm… she could destroy the entire conspiracy by herself. It wouldn’t even be a fight.
+
+They might be able to perform one or two strikes. But if the level of command and coordination that Rags had casually shown was levied against them, they were doomed to failure. If a single person got captured, and spoke to spare themselves, the entire conspiracy would be rooted out and crushed. They were Independents. Most were fair weather friends at best. The kind of planning and coordination they would need to tackle this behemoth was currently beyond what the rest of Ye Shun’s fellows could muster.
+
+It could have been a bluff. It could have been an attempt at appearing strong to make a person want to join… but it seemed like a lot to get a single unknown Independent on board. People had been updating the map in real time while his grandson had been watching—and in one case, a squad of the Blazing Swords had been dispatched to help deal with bandit activity.
+
+A squad his son had seen depart.
+
+Rags was clearly the most dangerous of Cai Xiulan’s pawns, even more than Rou Tigu. To command that level of information, and have the ear of the Grand Marshal?
+
+And he was an Independent himself. It was common knowledge. The man had managed to catch Cai Xiulan’s eye with sheer competence. He had apparently been an illiterate gangster from Grass Sea City, and now his cultivation was superior to Ye Shun’s own.
+
+He was clearly getting resources and ascending. He obviously had power and influence.
+
+And yet that was exactly why it was so grating. Rags had bowed his head to this new organization, and he was reaping the rewards. He was subordinate to the sects. He wasn’t really an Independent, in Ye Shun’s mind.
+
+But he had everything Ye Shun wanted, gained in a fraction of the time.
+
+And that was the crux of it. That was why he had headed to his favourite bar to help clear his head… and how he found himself talking to this young couple.
+
+He could see a path forward. It just required him bowing his head… and that was something he had no desire to do.
+
+“Have you ever hunted, young man? Have you ever traversed the wilds, on your own terms, wandering where you please, and taking what you can eat from wily beasts?” Ye Shun asked.
+
+“I have,” Rou replied. “To wander the wilds and see their beauty is one of the greatest blessings a man can have.”
+
+“What would you do, if the paths you hunted were one day closed to you; every one of them. Some rich fools, with wealth earned only by their fathers, closed off that land, and now guards patrol the edges, keeping you out?”
+
+“I imagine I would be very upset,” Rou replied in a dry voice. Ye Shun chuckled again.
+
+“They own everything from horizon to horizon. Whenever you want to hunt anything, now, you have to bow your head to the Young Master, and beg his permission to have even a rabbit. Or perhaps, if you join his guards, and keep others out, then you might score a buck, when they deign to let you have one,” Ye Shun said bitterly.
+
+Liling looked unsure of his point—but Rou? Rou nodded solemnly. He understood, Ye Shun realised. He was a rugged sort of man. Ye Shun could see callouses on his fingers, and a spark in those green eyes—the spark of a man who could and would survive in the wild, with nobody at his back. There was a wolf here before him. One that had eaten well and was taut with muscle, but who still remembered the hungry winters.
+
+“I see. So you feel like you have to join some organization, give up your freedom just to eat? And their terms are that odious?” Rou asked.
+
+Ye Shun thought back to his grandson. To the interest he had shown. To the experience he stood to gain, sparring so heavily with the younger generation. He didn’t mind bowing his head so much, because there were benefits to him.
+
+But Ye Shun was old. Old and stuck in his ways, he knew. He had no Master save himself.
+
+“To me, they are,” Ye Shun said.
+
+“Then, if some place is unbearable… then you either fight to change it, or you leave,” Rou said, matter of factly. There was something in his voice, again. An honest truth, as he imparted his own experiences. It made him seem... more. Like he was more than a mortal speaking to what he thought was an old man.
+
+“Which did you choose?” Ye Shun asked, looking at the young man who carried himself with such confidence. He was a young buck, and with those muscles of his, he surely smote whatever mortal had dared to stand in his way.
+
+“The second,” Rou admitted easily, and Ye Shun was shocked.
+
+“You ran?” he asked, the very thought making some part of Ye Shun’s soul rebel, and yet it was intriguing to witness his tale.
+
+“I could not change anything with the power that I had; and only suffering and indignity awaited me. So I left. I walked away from the city with only what I could carry. I travelled a long, long time to this province. I went away from the places everyone else wanted, to a piece of land everyone else said was worthless. And now, everyone who looks at it says it's the nicest place they’ve ever seen,” Rou said.
+
+“...which province did you leave?”
+
+“Raging Waterfall Gorge,” was the reply.
+
+This mortal had seen more of the Empire than Ye Shun had. Ye Shun had never left the Azure Hills. He truly looked at the man’s clothes. They were simple, yes, but they were expertly made. Both he and his wife were wearing garments with threadcounts equal to his own finest robes, with not a string out of place.
+
+His eyes found the sharp gaze of Rou’s wife. There was intelligence in those eyes, not foolish gullibility.
+
+…they helped, because they had once had nothing. They spoke to people who looked down on their luck, and offered their hand, because they too had likely been approached with help. It was still rather foolish, and yet, the man clearly had riches enough to spare money for food and drink.
+
+“Is this place you want to hunt in just comfortable? Is it the path you want because it's just what you’ve always known? Or do you want to make a leap, and travel beyond the horizon they’ve claimed, to new places that they have no knowledge of?” Rou asked.
+
+Ye Shun sat in silence, digesting the young mortal’s words. He was right. Ye Shun had three options. Bow his head. Fight against this Azure Alliance and hope it broke apart, without getting caught by people who were likely even better organized than what they had shown his grandson.
+
+Or he could leave. He could trust himself, as he always had. He could brave the wild unknowns, and claim a new horizon for himself.
+
+He had grown fat, lazy, and comfortable on that contract with the Wu Clan. And yet he had advanced slower than these whippersnappers who forged recklessly ahead.
+
+…maybe that fox-demon woman had been sent by fate. Maybe it was a harsh tribulation sent by the heavens, for feasting when he should have been hunting.
+
+All three paths were fraught with uncertainty, and he could only choose one.
+
+“...thank you for the company. You’ve given this old man much to think about,” Ye Shun said.
+
+When the bill came, Ye Shun paid the rest of it. And then he walked back to his manor, contemplating things.
+
+Three paths. And yet, by the time he reached his home, he had already discarded two of them.
+
+===========================
+
+We watched the old man go.
+
+“Huh, not really how I expected to spend the night,” I mused.
+
+“I’m more surprised you actually gave him advice,” Meimei said. “And that he actually seemed to be considering it.”
+
+“Eh. If it stops him from doing something stupid, it was worth it,” I said with a shrug. “We’ll tell Rags to keep an eye out for the guy just in case though, and his ‘foolish colleagues’. I’m fairly certain he was referring to the Azure Alliance.”
+
+“You too, huh?” she asked, before we both lapsed into silence, taking a sip of our drinks.
+
+“This is a really nice place,” Meimei said after a moment.
+
+“I know, right? The kind of quiet atmosphere is really doing it for me…”

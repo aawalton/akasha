@@ -1,0 +1,199 @@
+---
+id: 0205b455-90d5-5c03-bef7-8711d23be8ea
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 75 - An Invitation"
+slug: 0079-b3-chapter-75-an-invitation
+partOf: bookbound-bunny
+position: 79
+ownLength: 2656
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3785774/b3-chapter-75-an-invitation"
+royalRoadId: "3785774"
+---
+
+The excitement continued for quite some time; even though Rose's victory seemed inevitable, it was still a terrific demonstration. While she had swept through her challengers with little effort, she had still shown remarkable control over her spells, indicating that, despite appearances, she wasn't purely relying on brute force.
+
+Lily felt nothing but pride as she clapped excitedly for her big sister, as this had shown how much she had grown since they were last together. Compared to their romps through the forest of Ceedale, fending off gremlins, wolves, and the occasional spider, this was a massive difference.
+
+A small part of her even regretted not taking part herself, to give Rose the same demonstration of her growth, although that quickly faded. For duels, she only really had Starburst and her Nebula Veil, which she had already demonstrated plenty of times for her sister. There were Lunar Radiance and Eclipse, but while they were effective, they didn't have the same level of presentation.
+
+Do I need another Astral spell already…?
+
+Lily wasn't sure; as far as Regarth was concerned, she had already fulfilled her bloodline magic quota for the year, so she wasn't obligated to. Of course, she still desired to learn more Astral magic, that certainly had not changed, but her focus was most definitely on glyphs and inscriptions. She also had further improvements to make with Lunar Radiance and Eclipse, such as shortening its casting time or, as Arakil suggested, learning to expand its targets, so she couldn't exactly write it off as mastered.
+
+When I go into the dungeon with Rose to show her that flying inscription, I'll also get the chance to show her how much I've improved.
+
+The little snippet of her battle against the frog didn't count; Lily wanted her sister to see everything she had been working towards. She wanted her big sister to feel the same pride she felt right now.
+
+As the second year was departing, the group was chatting about the exciting duels and speculating what they might see from the older students. Again, while there hadn't been too many unique forms of magic displayed, the power and skill were clearly elevated. If the other years had similar growth, with a bit of added spice from a rare bloodline or two, then they were in for a fantastic show.
+
+They were happily chatting away when suddenly there was a bit of a commotion around them, and when they turned to investigate, they saw Rose had made her way to them. Lily quickly moved to the side, and she plopped down right next to her.
+
+"Thanks for saving me a seat," Rose said, snuggling up to Lily. "I hope you enjoyed the show."
+
+Lily nodded. "We all did, it was amazing!"
+
+"Feels like they should put you up against third years," Arthur replied, getting a few nods from the others.
+
+"I might be at the top of my year in Regarth, but there's still the other schools to worry about. Hopefully things go well this time," Rose replied.
+
+"Are you not supposed to go sit in the Terravix section?" Thomas asked. "Surely they'd want their winner there for the morale or appearance."
+
+"And miss out on some time with my cute little sister? Never! Besides, I already went there and came back. I've given them enough face for the day, not to mention winning for them."
+
+"Not much into the team spirit?" Lotte asked.
+
+"Not since Lily was put in the wrong faction," Rose admitted. "Although it certainly doesn't help that they want me to enter more events and win on their behalf. I'm not some prized pig to show around at the fair; if it's not fun for me, then why bother?"
+
+Lily couldn't have agreed more, and considering Maranix and Bradley had also tried to convince her, she knew exactly what Rose was talking about. She'd already given them a win in the dungeon duos; did she really need to also try to give them one in the tournament?
+
+Besides, I'm not even sure I could guarantee a win against Hana. I could stop her light spells, but if she did a big enough wind, she could probably blow me off the stage. Or, maybe she'd even get physical. I didn't see any rules that would prevent that!
+
+If Lily had lost not through magic, but a kick, she would've died of embarrassment. Yes, she wasn't as physically gifted as her peers, so it was a known weakness, but she still didn't want it to happen, even if it made logical sense.
+
+They happily chatted away as the third-year students began their rounds. While the earlier rounds with the first- and second-year students didn't make much sense, with so many matches going simultaneously due to their short duration, it became clearer for these matches. No longer were students instantly winning; more often than not, spells were cast in clashes to counter one another.
+
+If the third years were already showing this much of a difference, then they could only imagine that the fifth years in the mass elimination rounds might last as long as the finals for the younger students. That didn't mean that the tricks were entirely gone, although from the very few tricks Lily managed to witness, they were often defeated by a counter-trick.
+
+"PMC is great for general stuff, but there's more focused dueling lessons you can take in the second year and especially the third year onwards," Rose explained. "In those, you learn all sorts of strategies and counter-tactics. Speed is still the name of the game, but with proper thinking and planning, you can overcome it."
+
+It was fascinating to watch, especially when magics you wouldn't normally associate with defensive abilities were surviving well longer than they should have. One of the fire mages, for example, was countering spells by flinging his own firebolts at them, colliding in the middle of the ring in a magical burst of energy. A similar example came when another fire mage used the explosive force of a fireball to counter a gale of wind.
+
+Rose seemed to be paying attention to these matches in particular with scrutinizing eyes, as if she was trying to absorb every moment of it for herself. Seeing this, it was obvious why Rose had gone for the throat immediately: if she wasn't confident in her ability to counter incoming spells, she might have lost. Her natural mastery, combined with overwhelming power, had secured her easy wins now because it was likely the only way she could. Later on, if she didn't learn and practice tactics like this, would she still keep her crown?
+
+Maybe Rose should branch out from fire magic for a bit. I know she hates it, but it could cover for shortcomings. I'll have to talk to her about it when we are in the dungeon.
+
+Between rounds, as the excitement waned, there seemed to be another small commotion behind them, only this time it revealed Hana, who didn't exactly look cheerful.
+
+"That's not the face I'd want to see on our winner!" Arthur said, trying to cheer her up.
+
+Hana gave a dry chuckle and shook her head. "I'm happy I won, I'm not happy about being sent here by my parents."
+
+"Let me guess. They want you to invite me to something?" Rose asked.
+
+Hana blinked in surprise. "How'd you know?"
+
+Rose shrugged. "I figured with that Clarissa girl's family doing it, it was only a matter of time till you did too."
+
+"I'm sorry…" Hana sighed, looking more dejected.
+
+"It's okay. I just hope you won't bug me as much as her, or I'll have to declare Lily my champion against you as well."
+
+Hana's expression became extremely awkward, and the way she was nervously twiddling her foot around was extremely uncharacteristic of the boisterous girl they'd come to know.
+
+"What?" Rose asked bluntly.
+
+"Um…" Hana mumbled, paused to take a breath, and finally spoke outright. "They also want me to invite Lily."
+
+"Really?" Lily gasped.
+
+"Hm… Honestly, I'm surprised it hasn't happened sooner," Rose sighed.
+
+Lily frowned. "Are they just wanting to use me to get to you?"
+
+Before Rose could answer, Hana actually interjected. "Actually, my mom wants to see you with or without Rose."
+
+Lily was even more shocked, although Rose actually seemed to take that well, even going as far as to nod along as if agreeing with the sentiment.
+
+"I see the world is finally noticing my sister's brilliance," Rose said proudly.
+
+Lily nudged her in the side. "Don't joke like that. Why would anyone want to see me?"
+
+"Lily, are you being serious right now?" Lotte asked. "Did you honestly forget that you're the only Lagia mage? If that wasn't enough, there's all the glyph drawing stuff you're doing. I'm just shocked it hasn't happened sooner."
+
+"There was probably not enough proof before," Thomas suggested.
+
+"My parents saw Lily's performance in the headmaster's recording," Hana admitted. "I didn't mean to… I just wanted them to see Arthur and me working together, and they just happened to see yours at the same time."
+
+"Aww, no invite for me?" Lotte joked.
+
+"They asked, but you're not exactly an orphan…" Hana mumbled.
+
+"And my dad would never sell me," Lotte said with a wink. "He may be a merchant, but thankfully, he isn't that greedy."
+
+"Duh. It would also be very stupid," Rose snorted. "Think of the profit he could make if he sold your dungeon loot. Way more than whatever a noble adoption would pay in the long run."
+
+"Hey, I hadn't thought of that! I'd better let my dad know, then he can start looking for some distribution channels."
+
+"Going back to earlier. You don't have to accept it. I was just asked to invite you," Hana said.
+
+"You should go, it's free food at the very least," Rose replied.
+
+Lily frowned. "I'm not that desperate for a meal."
+
+Rose shrugged. "It's not every day you get to experience noble food. And it's not like one dinner date means you have to agree to anything."
+
+"Then why don't you come too?" Lily insisted.
+
+"I'd love to, but that would be a very bad idea… I've got a bunch of invites pending, and as soon as I accept one, it would cause all sorts of drama I don't want to be part of. You've only got one invite, so it should be fine to accept it. It's when you get dozens, then you need to ignore them."
+
+"Your sister is right," Hana agreed. "Even if she just ate a meal and left without talking or agreeing upon anything, it would be seen as taking a side. Questions would be asked why you accepted this one and not the others, and they'd demand answers on the spot to the outstanding invitations."
+
+"Yup. No more free meals for me. That's the price of popularity," Rose said with a hint of smugness.
+
+Lily sighed. "Can I think about it?"
+
+Hana nodded. "Yeah, that's fine. They're not leaving immediately, so you have a good few days to sit on it."
+
+"Great! Now we can get back to enjoying the show," Arthur exclaimed, shifting to the side to offer Hana a seat.
+
+She smiled and took it, sitting down and visibly relaxing after putting aside the drama with her parents.
+
+"Congrats on the win by the way," Arthur said, bumping her shoulder.
+
+"Thanks! I didn't expect Clarissa to suddenly grow plants in the field. I was hoping to shoot a beam straight through that rock, but she wouldn't give me the chance."
+
+"The way you won was far more impressive," Rose replied. "I was wondering how you were going to land safely after you failed twice. I didn't expect such a grand spell at the end."
+
+"I didn't want to use it, but I had to. Especially after my dad made such an embarrassing announcement," Hana sighed. "It was either that or hit the ground."
+
+"Talk about kicking the bird out of the nest…" Thomas muttered.
+
+"You're not far off there," Hana agreed. "Anyway, thankfully, it all worked out; I didn't paint the ground and ruin the event."
+
+"Please don't joke about that…" Lily groaned.
+
+"Sadly, my sister isn't a fan of dark humor."
+
+"Sorry, Lily, I didn't mean to joke like that. I'm just… Tired," Hana sighed again.
+
+"Hey, at least you did better than that guy in the second year finals," Arthur said, trying to lighten the mood.
+
+"Oh gods, I saw that!" Hana replied, her attitude flipping almost immediately. "To think he's in Zephyrix with us and flying like that… Talk about embarrassing."
+
+"Okay, Arthur mentioned that before and didn't give me an answer. What's the deal?" Lotte insisted.
+
+Everyone else looked at the pair, including Rose, so evidently nobody knew what they were talking about. For them, flying was flying, something to be envied and not looked down upon.
+
+"Well, he lost and fell because he dispelled his own flight," Arthur replied.
+
+Lotte rolled her eyes. "We saw that. That doesn't answer my question."
+
+"Let me," Hana offered, and when Arthur gave a thumbs-up, she continued. "There are different ways to achieve magical flight, some easier than others, but with their own peculiarities or downsides. The ultimate and most desired form is often called freeform flight, where you're just flying with your body and magic without any medium."
+
+The group was all listening eagerly, especially Rose, who was glued to her seat as Hana continued speaking.
+
+"What he did is usually referred to as mounted flight. He used his magic to form a sort of construct, and it handled the flying for him. He just needs to sit or stand on it. These are usually the easiest to achieve, but they have the most downsides: firstly, they require a stupid amount of concentration to maintain, so doing anything else is a struggle. You all saw he couldn't attack Rose; he only dodged.
+
+Secondly, since they are an external medium, they are easy to dispel or disrupt, as seen when his own Ward destroyed them. Finally, although I could go further, they need to be formed in a stable environment. He cast it at the start, when he was on solid ground with no interference, but he couldn't do the same when falling, as the air was too turbulent for his version. That's not to say it's impossible, but those who take the shortcut to use mounted flight often don't go that far."
+
+"That seems… Really stupid?" Lotte blurted out. "Why wouldn't they care about their safety?"
+
+"They do care about their safety, but it's usually just a landing spell," Hana answered. "Then once they are safe on the ground, they recreate their flight. Like I said, it's a shortcut, and once you take a shortcut like that, you tend to keep taking shortcuts."
+
+"And that's not even counting people who use vehicle flight," Arthur grunted.
+
+"Like a carriage?" Lily asked.
+
+"Yes, but usually smaller," Hana answered. "Think of a pair of shoes, or maybe a platform. I've heard some people even use strange things like a broom, or even a chair."
+
+The group seemed baffled by this explanation, causing Arthur and Hana to laugh together.
+
+"I'm actually surprised you haven't heard of this, Lily," Hana admitted. "Vehicle flight usually involves enchanting to make it even easier. Needless to say, the huge downside is if your device is broken, you probably won't be able to fly again until you get a new one."
+
+"It's also usually banned in all duels," Arthur added. "Since, unlike mounted flight, you don't need as much concentration, you're kind of flying for free."
+
+"Sounds more like flying with your wallet than free, but I get your point," Rose commented.
+
+The group laughed together, and Lotte seemed happy with the explanation as they soon returned to watching the rest of the performances, which were already underway again.

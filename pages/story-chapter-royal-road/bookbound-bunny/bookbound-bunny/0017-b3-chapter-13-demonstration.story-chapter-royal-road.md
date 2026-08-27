@@ -1,0 +1,161 @@
+---
+id: db5ee98c-d99f-5adc-903d-4932b2be390b
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 13 - Demonstration"
+slug: 0017-b3-chapter-13-demonstration
+partOf: bookbound-bunny
+position: 17
+ownLength: 2196
+unit: words
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3118152/b3-chapter-13-demonstration"
+royalRoadId: "3118152"
+---
+
+Lily still wasn't sure what to make of this situation. On the one hand, it was amazing to witness Arakil's magical prowess, while on the other hand, it felt bizarre to see her own body do it. Hearing her own voice was bad enough already, but seeing such an overwhelming demeanor applied to her own… cutesy body was jarring.
+
+After leaving the snowy tundra, they arrived in what appeared to be a desert, or perhaps a beach? There was a scorching sun and endless sand. Mere moments after their arrival, the ground shook, and a tremendous scorpion revealed itself.
+
+Unlike the other monsters, it lacked the baleful green eyes, so it appeared they had just unluckily arrived in a monster's lair. Arakil wasted no time and, with a swish of his hand, formed an array of glyphs that bombarded the scorpion endlessly. Moments before its demise, its eyes began to flicker green, but it was too late, and it exploded into black flecks.
+
+[Right. Next floor then.]
+
+Another teleportation design was promptly created, pulling them out of the sand and deeper into the dungeon below. They'd left the bright dunes and plummeted into pitch darkness. Arakil quickly cast starlight, illuminating the surroundings and revealing dark, winding underground tunnels.
+
+[This dungeon certainly has gorged itself over the years if it is this large with so many biomes. I estimate we've traversed over forty floors already.]
+
+{So this isn't normal?}
+
+[It was certainly rare back in my time. While they existed, they didn't usually live long enough to do so without external factors or the influence of a powerful force. I can only assume many peaceful decades, if not millennia, led to this dungeon growing to this size. No wonder it dares to be so confident.]
+
+Arakil was already drawing the next teleportation inscription on the floor, a complex design that left Lily speechless. She'd grown quite confident in the years after making good progress; now, all her designs and tools made it seem like she was playing with mere toys.
+
+[Don't feel discouraged, not many mages dabbled in dimensional glyphs, so you could say what I'm doing is a rarity. I'm also gathering and converting dungeon Mana to ensure I don't drain your Mana Core dry, so you could say it's more complicated than it needs to be.]
+
+{How come we are teleporting multiple times?}
+
+[I don't know the actual size of this dungeon, and overshooting it could be problematic. My goal is not to reach the bottom unless truly necessary. Hopefully, the threat of our progress alone will be enough to strike an accord with the dungeon.]
+
+Once again, while Arakil was mid-drawing, another monster rushed onto the scene. This time, it appeared to be a large red ant monster, except it had an upper torso growing out where its head should've been. The torso was extremely muscular, covered in thick chitin armor, and ended in a monstrous ant head with baleful green eyes. It also wielded what looked like a polearm made out of chitin and claws.
+
+The strange mutant ant let out a screech upon their discovery, causing the tunnels to tremble as if a large force were converging on their location. The chittering noises, echoing and growing closer, indicated it was bringing more ants to their location.
+
+"Defiler! You shan't get away again!" the ant mutant screeched between the sound of mandibles clicking.
+
+[Looks like it isn't confident in dealing with us alone.]
+
+{Are we going to be okay?}
+
+[Naturally! In fact, this gives me a good opportunity to make a show of force.]
+
+Arakil revealed another shield inscription that floated out from the palm of his hands, and formed a full dome around them—even going as far as to dig into the ground below and seal them off.
+
+The possessed ant mutant struck out with its spear, which crashed against the barrier. Either the weapon was stronger, or this shield didn't have enough rebound force, since it didn't implode like the yeti's did. Seeing this, the ant continued to strike the barrier, hoping to wear it down.
+
+While Lily was feeling frantic, Arakil showed no signs of panic. In fact, his grimoire began to glow as the pages unfurled, revealing endless ancient text. He was reading!
+
+At this time, the ant mutants reinforcements had arrived and were clicking and clacking their mandibles threateningly. Unlike the one the dungeon possessed, they were just overgrown and lacked the additional humanoid torso. Like an endless swarm, they began assaulting the shield bubble, causing it to flash endlessly, never once fading.
+
+{Arakil, are you sure we are okay!?}
+
+[Yes. I'm just doing some quick research since I'm a little rusty when it comes to Astral magic.]
+
+{Astral magic?}
+
+[I could solve this with glyphs or inscriptions, but I figured this might be an opportune time to show you the pinnacle of your chosen focus.]
+
+{I thought you gave up on Astral magic?}
+
+[Yes… However, do you recall the subcategories that Astral has access to?]
+
+Lily pondered for only a moment before she recalled the answer.
+
+{Light, Dark, Heat, Cold, and Void.}
+
+[Correct! Although in doing my research to contribute to your future teachings, I've discovered there are a few more. Albeit they are somewhat convoluted concepts to grasp at this stage, as they involve understanding celestial bodies in far greater detail.]
+
+Lily was both shocked and surprised at this sudden revelation. She knew Arakil had been doing endless research for her benefit, but she didn't think it had gone that far already.
+
+It really feels like he's gone ahead and planned decades of my life! I wouldn't be surprised if he's got a hundred years' worth of lessons already stocked up.
+
+Lily's thoughts were interrupted when Arakil began to make his move. After referencing his book, he began to chant while holding out his free hand. Immediately, the air began to stir, and a magical pressure emanated throughout the tunnels. The possessed mutant ant hesitantly took some steps back, glaring at them.
+
+The normal ant monsters continued to swarm the shield. At this point, they had actually dug out the ground around them, fully revealing the sphere that contained them. While they continued to crawl over the ball and chomp at it, Arakil continued his work undisturbed.
+
+Lily watched as, in the palm of her small, partially clenched hand, an all-consuming darkness seemed to converge. It was only a tiny pinprick, yet it seemed like something that had stabbed a hole through reality itself. At the same time, she felt that a significant chunk of her Mana had been used to form this spell.
+
+[Looks like this is as far as I can go with your affinity and current Mana Core growth.]
+
+Lily wanted to say that she still had more than half of her Mana remaining, but she quickly realized that they still needed that for the rest of this trip. Especially if the dungeon refused to settle its grudge.
+
+Arakil had Lily unfurl her fingers, revealing the spell to the world. Almost immediately, the possessed ant mutant let out a hiss.
+
+"What is that!?" it demanded.
+
+"My ultimatum," Arakil replied through Lily.
+
+And then, with a casual flick of the wrist, the tiny black dot was sent out towards the ant mutant. It leaped backwards, but as soon as the spell left the confines of the shield, it activated—the pinprick of ultimate darkness pulsed, and then it began growing!
+
+Loose dirt and rock began to rise and be pulled into the spell, being devoured in the process. As it ate, it also grew, and what was once a pinprick had already grown to the size of an apple. The regular giant ants didn't seem to realize the situation and continued their attack; however, those nearest to the spell soon found themselves pried off the sphere and pulled into the growing sphere.
+
+Once a few ants fell into the devouring void, its growth seemed unstoppable, and soon all of them, even the solid ground, fell victim to the pulling force. Lily herself was growing incredibly nervous at such a sight, but to her relief, Arakil had drawn another glyph to reinforce their shield. Whatever was happening outside, they appeared safe and sound in the bubble.
+
+The same could not be said for the ant monsters, as soon as the entire army was gone, and only the mutant remained. It was desperately clinging to the ground, using its six legs to adhere to the ground while its arms desperately clutched the spear it had stabbed into the earth.
+
+Lily thought that perhaps it might survive the suction, but then saw that the earth beneath it was cracking. She gasped as the entire ground, ant mutant included, was ripped from the world and sent plummeting towards certain doom. The mutant ant cried out in horror, but it was too late, as not even light could escape this force.
+
+Once the body of the monstrous creature was gone, Arakil made a few gestures, and the black hole wavered a few times before it shrank into nonexistence. Once it disappeared, everything that was in the process of flying towards it fell to the ground in unison.
+
+Lily was the first to break the silence that followed this overwhelming, magical destruction.
+
+{That was Astral magic!?}
+
+She couldn't believe it. She'd been making cloaks, lights, and exploding stars—this seemed like something else entirely beyond her comprehension.
+
+[It's one of the small handful of void spells that Astral magic has access to. As you can see, the results are particularly dangerous, and the caster can also be at risk if unprepared.]
+
+Lily instinctually nodded. She didn't want to even touch something like this until she was much, much older!
+
+[Let's go see if the dungeon is willing to give up its pointless vendetta.]
+
+And with that, the teleportation inscription activated, and they went further below. Lily could feel a sense of urgency from Arakil, which might have explained why he went with such a flashy finish.
+
+I still have enough Mana… Is Arakil running out of his own?
+
+Lily wasn't sure, and she also considered the possibility that there was a strict time limit on this technique. If they couldn't settle this dungeon before she was put back in her own body, then that would be catastrophic!
+
+This time, when they appeared, it was in an area of bronze and gold. The floors were made of metallic platforms with grates and vents. Glancing between them, you could see a river of magma.
+
+Arakil hissed and quickly wrapped Lily's body in more of the Nebula Veil before he promptly formed a few ice glyphs that she recognized.
+
+[I didn't expect such tremendous heat. It appears this dungeon's growth is beyond my previous estimations.]
+
+{Rose would probably love it here…} Lily replied, trying to lighten the mood.
+
+[Most likely, she could stay here and drink in the rich fire Mana endlessly. Although getting down here is another problem entirely… Now, let's see if the dungeon is willing to talk.]
+
+"Well, are you ready to give up!?" Arakil shouted through Lily.
+
+There was silence until a metallic, lizard-like creature emerged from the distant magma pool. As it left the lava, the metal scales were a bright orange and gold, but as it lumbered towards them, it began to slowly darken. Once again, its eyes were baleful green, indicating that the dungeon was present.
+
+"I'm willing to let you leave… and never return," the metallic lizard said with surprising enunciation.
+
+"No, that's not good enough," Arakil immediately rejected. "You're asking me to sacrifice my apprentice's education and growth for nothing."
+
+The massive lizard shook its head. "You ask for too much."
+
+Arakil scowled and raised his palm outward, revealing another magical construction. What surprised Lily was that it looked like a glyph or inscription, yet the entire thing was in the form of an oblate spheroid.
+
+The lizard seemed shocked and surprised by the sudden turn of events, but nothing happened immediately. However, with a mere flip of the wrist towards the floor, the situation suddenly changed.
+
+The large lizard-like creature crashed to the floor as if struck by an invisible force. Its limbs buckled, and it struggled to even raise a finger from whatever was crushing it against the ground.
+
+"I suppose we need to keep going deeper to find your core, then," Arakil threatened. "I can accomplish this much with a few simple gestures and drawings. Do you honestly wish to continue this feud?"
+
+There were hints of thought in the creature's eyes, one of the few things it was still capable of moving under the unseen force.
+
+Arakil sighed and shook his head in disappointment. "I only want fair and proper grounds for my apprentice to grow. Not unlike what you've been doing already. As I mentioned previously, what happened eons ago shouldn't apply to us, but I'm more than happy to add another dungeon core to my collection if you refuse to see reason."
+
+There was a long pause. When Arakil gave a momentary flex of Lily's fingers, the lizard finally spoke.
+
+"I'm… willing… to… negotiate…" it finally said, its voice strained.

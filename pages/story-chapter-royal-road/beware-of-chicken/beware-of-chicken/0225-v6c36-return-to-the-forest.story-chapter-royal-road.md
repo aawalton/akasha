@@ -1,0 +1,181 @@
+---
+id: 59782975-e814-5fff-8ba1-de0d70ff7fed
+page-type-slug: story-chapter-royal-road
+title: "v6c36: Return to the Forest"
+slug: 0225-v6c36-return-to-the-forest
+partOf: beware-of-chicken
+position: 225
+ownLength: 2347
+unit: words
+ownProgress: 2347
+publishedAt: 2025-06-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2373427/v6c36-return-to-the-forest"
+royalRoadId: "2373427"
+markedReadAt: "2026-06-29T18:59:05.405Z"
+---
+
+Spooks watched as a bundle of firecrackers danced along the ground popping and banging, leaping up into the air, and jerking this way and that. He had finished packing, and was now just waiting for the humans to be ready.
+
+He approached the circle standing around the crackers slowly, not making a sound as he joined the group. He positioned himself just behind Tigu and Yun Ren. He caught Bi De’s eyes for a brief moment, the rooster smirking at his appearance.
+
+The early morning was lit by red lanterns; Loud Boy was playing a pipa, and Rags was hammering out the beat on a drum he had purchased in the stone town of the humans.
+
+Human New Year’s was very different from Thunderhoof New Year’s, Spooks reflected. The single New Year he had experienced was a quiet, solemn affair in the Iceheart Forest. It was a time of remembrance for those who had fallen. And even though it was quiet, Spooks did love the stories his Master told, of the old days and of the great heroes who had fought the Great Enemy.
+
+Some of his larger kin made pilgrimages to the forest to pay their respects. They helped Spooks clean the grave mounds and repair the great stone cairns. Some of the oldest nuzzled his head and praised his work, happy that Spooks was Master Forest Sweeper’s disciple. They sat and chatted and they gave him preserved fruits from the summers, their Storage Stones always full of interesting things.
+
+In the perpetual darkness of the winter months, the only light were the stars and the auroras.
+
+Human New Year’s? Now that was a different beast.
+
+The music! The lanterns! All of it was so bright, so flashy. There were so many humans, great herds of them, mingling for the celebrations. There was so much food, and the games? Oh, the games! They were so much fun—even if they were a bit too small for him.
+
+“Alright, these are the last ones!” Jin shouted. “Who wants to do the honours?”
+
+Tigu perked up, raising her hand to wave, when Spooks spoke up from directly behind her.
+
+‘Oh, can I?’ he asked. Tigu froze and whipped around, her yellow eyes shocked. She had a muted look of surprise on her face. Yun Ren, on the other hand, did his usual thing, his face going all wobbly for a moment when he whipped around to stare at the sudden presence behind him.
+
+Ah, that never got old. Tigu’s reaction was alright, but there was something special about Yun Ren’s wobbly face.
+
+“Kuh! You’ve gotten better!” Tigu declared, while Yun Ren just scowled at him. The rest of the circle began to laugh, and Jin smiled at Spooks’s prank.
+
+“Spooks! Would you do the honours, please?”
+
+Spooks chuckled and walked forward. He pressed his snout to the end of the wick. Though his cultivation was ice-natured, it was quite easy to make a spark and set them alight. Jin tossed them to the ground.
+
+The firecrackers erupted, sparking and dancing. Wa Shi matched the explosive dance, coiling and winding through the air. Spooks smiled as he watched the fascinating show, shoulder to shoulder with a great many new people… and new friends.
+
+“Oh? A fine ignition, this one!” Bi De called, stroking his wattles. He leapt up from his previous perch to land on one of Spook’s antlers. “Much better than what Tigu could have managed!”
+
+A snowball instantly struck at him, only to be batted away by a negligent wing. The rooster chuckled, and Tigu stuck out her tongue at the bird before turning her eyes on him.
+
+They narrowed challengingly.
+
+‘What can I say? I’m truly a prodigy. Don’t worry, Young Mistress, there's no shame in your loss.’ he boasted with false arrogance, provoking a fresh round of chuckles. Yin punched Tigu in the shoulder, and Tigu huffed… though Spooks knew he might be paying for that later on the ice.
+
+….well, he hoped, anyway. He had told Xiulan last night that he would be back for the end of the festival, but that was up to his Master in the end.
+
+Compared to the way the days passed in the Iceheart Forest, Spooks found the time he spent at Fa Ram to be just blazing by. He had spent nearly two months here, and it felt like a week had passed.
+
+There was just so much to do every day! Fixing up the damage from the Demon invasion, playing Ha Qi, or even making all sorts of new and interesting things… oh, and the food. Don’t get him started on the food! It was positively amazing!
+
+They had been so nice to him. Spooks was rather quiet by nature. He mostly preferred to sit back and watch… if only to find somebody prime for ‘spooking’, but everyone here went out of their way to include him. They welcomed him. They told him stories, and he loved listening to stories. Stories about the Dueling Peaks, stories about Chow Ji and Ba Si Bushi, and more.
+
+They went out of their way to make things sized for him. Miantiao, Huo Ten, and Yin had worked together to make him a bowl and a cup with “better insulating properties” so that his soups would stay warmer for longer, even in the cold. Gou Ren, Jumpy Yun Ren’s brother, had reinforced it with his Qi so that it wouldn’t break as easily, because he was just a bit clumsy with them still. Meiling and Xianghua had even woven him a blanket!
+
+He liked this place. He really did hope he could come back.
+
+“Is everyone prepared?” Shen Yu asked, when the firecracker finally burnt itself out. However, the old man’s attention was mostly on Spooks himself.
+
+Spooks nodded, before he paused. ‘Um… could I say goodbye to the villagers first?’ He liked the humans of Hong Yaowu. Sure, all the kids had wanted to ride on his back and hang off his antlers, but it had been really fun.
+
+The old man considered Spooks’s request and then nodded.
+
+“A small detour will not prolong the journey,” the man allowed.
+
+They stepped aboard the flying sword; Spooks, Bi De, Ri Zu, and Yun Ren. Half of their number who had fought in the demon’s base. He hoped Yushang, Han, Shao Heng, and Nezan were all doing well. They had been kind to him too.
+
+The people of Fa Ram waved their goodbyes, and the sword zipped to Hong Yaowu. The humans looked up with curiosity when the sword descended. Spooks stepped off and bowed politely to them.
+
+‘Thank you for having me in your village for the celebrations. And thank you for helping me out that first year.’
+
+The grass that little Xian had helped grow had been truly delicious.
+
+“Lord Thunderhoof, you’re heading back home?” one of the old humans asked. One of the Nezin, Jumpy’s foxy-faced family.
+
+‘Yes, but hopefully I’ll be back soon.’
+
+Spooks had meant it to just be that. A short goodbye. What he didn’t expect was for the villagers to start scrambling to give him gifts.
+
+They were little things; garlands of holly and cedar, little carved pendants, bottles of wine and such. Yun Ren’s family even clapped their hands twice and bowed when they handed them over. They looked like tiny versions of the offerings that Spooks made for his own ancestors.
+
+“We pay our respects to the titans of the north; whose passage wards our steps,” the oldest of them, a tiny wizened human woman who made Ri Zu look tall, spoke, her voice cracking slightly. “We thank you for the fortune you bring us. May the north resound eternally with the footfalls of thunder.”
+
+Spooks flushed at the reverence. To think that his Master’s Master being saved by a human, and saving them in turn, would lead to this.
+
+‘Thank you. My Master will appreciate what you’ve given us,’ he said, trying to sound as regal as he could.
+
+The humans bowed as the sword rose into the air.
+
+“What the Hells, they gave you the good stuff! The grannies woulda tanned my hide if I so much as touched this cloth!” Yun Ren grumbled.
+
+“Spooks is obviously the favoured son. Look at him, so big and strong, not short like Yun Ren,” Ri Zu teased. Yun Ren’s head snapped up. The sword at his waist rattled with amusement.
+
+“Right, that's it, you’re getting it, come here you little—” the man snarled, grabbing for Ri Zu. There was a pop as she turned back into a rat.
+
+“Iyyaaa! Save Ri Zu, Elder Brother,” the rat shouted, jumping up into Spooks’s fur and leading Yun Ren on a merry chase as he swatted at her and dug through it.
+
+Spooks tried his best not to laugh. Bi De rolled his eyes.
+
+“Children, I will kick you off and make you walk,” Shen Yu threatened, though he had a smile of his own on his face.
+
+========================================
+
+The trip took a lot less time than Spooks thought it would. He supposed with the time Shen Yu spent healing, and having a lot fewer people, the sword could travel a lot faster. The sun rapidly disappeared below the horizon, and day turned into the perpetual night of northern winter.
+
+In what seemed like no time at all, Spooks could see it; he could feel it: the comforting cold of Iceheart Forest.
+
+They stopped outside the boundary, at the warding stones. Spooks bowed his head, along with everyone but Shen Yu.
+
+‘Master, I’ve returned,’ Spooks called, flaring his Qi.
+
+At first, there was silence.
+
+And then, the world began to tremble. The trees shook, and a massive form moved through the forest.
+
+Half a Li tall at his shoulder, his rack of magnificent antlers looked like the crown of a king. His fur was a dark grey, and he was wreathed in frozen mist and storm clouds, the mantle of his power swirling around his body like a royal cloak.
+
+He was not alone. The trees shifted and more crowned heads appeared, moving through the mists of the forest. Their stride was like thunder, and their mantles shimmered around them.
+
+Ten of Spooks’ kin stood, ranked behind Master Forest Sweeper.
+
+‘Apprentice. Guests. It gladdens me to see your return,’ The warm voice of his Master filled the world with its might. His eyes looked down upon Spooks with pride, before his eyes shifted to Shen Yu. ‘I would scold you for the time it took for you to return, Apprentice, but the battle clearly was not without its own trials.’
+
+“It was a worthy sacrifice,” the old human declared. His voice was one of utter conviction.
+
+Master Forest Sweeper bowed his head. Then his mantle flared, burning bright.
+
+‘You warned us against the Great Enemy. You bled against them in combat. You put your very souls upon the line. Know this: you are friends of all Thunderhooves. Iceheart Forest shall be your home and shelter, should you ever require it,’ his voice boomed over the land, and the stars seemed to glow more brightly. Beside him, Yun Ren, Bi De, and Ri Zu all sighed as his Master’s Qi touched them. ‘We greet you, heroes of the North!’
+
+The other Thunderhooves let out their own titanic bellows, making the world shudder and shake. ‘We greet you, Heroes of the North!’
+
+‘Come into the heart of our forest. There is a celebration to be had,’ Master Forest Sweeper declared. ‘We promised to drink and be merry when we last parted, did we not?’
+
+Shen Yu grinned. “Indeed we did. I came prepared!”
+
+Master Forest Sweeper laughed. ‘Then let us waste no more time then. Steps That Circle The North: attend to our guests.’
+
+‘At once, Master,’ one of Spooks’ kin rumbled. Four Thunderhooves stepped forward, one for each of the humans. Each one knelt and offered their back to carry them into the forest.
+
+A great honour.
+
+Spooks, on the other hoof, was surrounded by his Master’s mantle. He was taken into the air and into his Qi construct. His Master’s spirit was comforting, probing gently for any damage.
+
+‘Your cultivation has grown,’ came the approving voice of his Master. ‘Your meridians are reinforced. These humans took good care of you?’
+
+‘The best,’ Spooks answered honestly.
+
+A pleased rumble was his response.
+
+Astride the giant backs of Thunderhooves, his friends were conveyed to the heart of the forest, where Master Forest Sweeper resided.
+
+As always, the sight of his Master’s true body brought a mixture of pride and an ache in Spooks’ heart at what he had to endure. Frozen trees had grown into his flesh, winding around his body, curling up around his antlers, which were impaled into a black, frozen gem. His body rippled with his power and his burden, but his eyes still burned with life and power.
+
+‘Friends,’ his Master greeted them once more.
+
+“We greet Master He Who Sweeps the Forest Floor Of Snow and Opens the Way,” all of the humans and Spirit Beasts replied, inclining their heads.
+
+Then Shen Yu rose, a smile on his face, and tapped his storage ring. A massive barrel popped out, an equally giant handle attached to its side.
+
+“My grandson pays his respects as well,” Shen Yu said and lifted the top of the barrel. At once, a heady, fiery scent filled the air. Master Forest Sweeper’s eyes widened, his nostrils flaring. The other Thunderhooves did the same, their nostrils also flaring, tasting the heady brew within.
+
+Master Forest Sweeper licked his lips.
+
+Shen Yu offered him the barrel. Slowly, and with great care, his Master’s titanic head reached down and he took a draught of the brew within.
+
+He closed his eyes, savouring the taste, and he swallowed.
+
+What issued forth from his mouth was a sound those of Fa Ram called a Xiulan noise.
+
+For a moment he saw Master Forest Sweeper with Xiulan’s braids and wearing her dress. It took quite a lot to keep from laughing at his august Master.

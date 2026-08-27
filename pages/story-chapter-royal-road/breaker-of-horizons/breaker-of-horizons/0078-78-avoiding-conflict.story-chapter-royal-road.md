@@ -1,0 +1,83 @@
+---
+id: 517e0ffd-2849-52d3-975f-d04e3a6de2b6
+page-type-slug: story-chapter-royal-road
+title: "78. Avoiding Conflict"
+slug: 0078-78-avoiding-conflict
+partOf: breaker-of-horizons
+position: 78
+ownLength: 2056
+unit: words
+publishedAt: 2021-01-28
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/621512/78-avoiding-conflict"
+royalRoadId: "621512"
+---
+
+Kevan had never been one to shy away from a challenge, but this was almost too much.
+
+As soon as the augera had opened their minds to the full, raw, unfiltered workings of their own auric-ambient-flares, Kevan had been beset by wave after wave of memories and all the attendant emotions that came with each moment. When he instinctively flinched away from them and tried to repress them, it only served to highlight the whole region that was his active, conscious mind — there, he could watch his thoughts and intentions play out in real-time.
+
+The thing about self-deception was that it wasn't quite so easy when you could literally see what you were doing to yourself.
+
+Since the augera had just shown them the full extent of Caden's auric-ambient-flare, he knew what healthy, unsullied strands looked like. There had been parts of Caden that were whole and sound. The threads that made up his very essence looked like miniature rivers, flowing clear and strong.
+
+The corruption had been a stark contrast. Where the corrupted augera had stitched itself into Caden when it possessed him, it had left horrific marks. The threads, the miniature rivers, had become choked with black sludge in some places. The flow of thoughts and emotions crawled to a treacle slowness, turning rancid even as it got caught in knots and tears.
+
+Now, looking at his own mind with the enabling of the augera, he saw for the first time the corruption in himself.
+
+It wasn't anywhere near as bad as what had happened to Caden, but it was still sickening to look at. His own consciousness had been frantically racing from thread to thread, choking off the flow to stop things from rising to the fore, but his shock at seeing the damage spread out like this had arrested that process for a moment. The threads now hung, badly frayed, spewing their contents into the empty spaces of himself. Here and there, little pools were forming, and with another sickening pang, he realised that they were simply spreading over old, hardened layers, and were rapidly beginning to harden. His auric-ambient-flare was a mess. A hot, steaming mess.
+
+Tangled-anger-power.
+
+He hadn't really understood that term before this. It had simply been a brief collection of impressions about himself — a stray realisation that had come as a result of his contact with the Spire augera, courtesy of Caden's ensorcelment in the arena. He hadn't really set aside any time to investigate it. Perhaps he had reflexively pushed it aside. But here it all was now, these 'face aspects', as the augera had called them.
+
+His instinct was still to run. He couldn't suppress it all now that he was literally swimming in it, so he tried to extricate himself, to back out of this enforced introspection.
+
+It helped to have a purpose. There were no arms and legs to use, no muscles he could depend on, so he quickly sank into the mental exercises that had been drummed into him by the preparatory schools, which had served him well enough in the early weeks at the Academy. Basic glyphs of directions formed in his mind's eye, temporarily displacing the horrible sight of his own tangled essence, and he latched on to them like a drowning man grasping for any piece of flotsam. With an almost herculean effort in focusing his will, he managed to drag his little mote of consciousness to the very edge of his auric-ambient-flare. There wasn't actually any direction here, but it helped to put some mental distance and it made it easier for him to look away from the mess that was his self.
+
+Here, at the edge, it was just barely possible to think. If he had eyes, he'd be squinting them. If he had a body here, he'd be shaking his limbs to loosen them. But he had nothing, so he had to settle for a mental shudder and a curse at how difficult it was to navigate this space. But he'd be damned if he let himself drown here now. He had things to do. And he needed to get himself out of this so he could go find Lynus, who was probably having just as bad a time (if not worse) and help him. So he grit his metaphorical teeth and tried to piece one thought at a time together, ever-so-carefully.
+
+The augera had sent them spiralling into their own auric-ambient-flares so that they could pull out memories of Caden. So it made sense that it had left a way out because it wanted them to emerge with the memories in tow. It hadn't given them any knowledge about how to do it themselves... so that either meant it was simply a matter of getting to the right arcanic space or whatever... or (shit, hopefully not) that the augera would pull them out only when they had found some memories of Caden.
+
+That second possibility was almost enough to break Kevan's resolve, so he flinched away from it first. If, if it really came to that, he would cross that bridge when he reached it. For now, he would search for a way out by himself.
+
+Back in the Academy Spire's augera chamber, they had drifted outside their bodies without being tied down to their own auric-ambient-flares. So if he was muddling about in his own essence now, it meant he hadn't yet left the boundary of his auric arcana. And if his auric-ambient-flare now was so large that he could get lost in it, it stood to reason that the Geldor augera had probably shrunk his little mote of perception down to this tiny scale so he could go rooting around in his own head for memories.
+
+If that was the case, then he could either get out by frame-shifting the scale of his perception or by 'travelling' far enough.
+
+He paused, hanging in the void between his own threads. He risked a glance at the nearest one so that he could gauge the scale of things and get some idea about how big he needed to go before he could simply step out of his own auric arcana.
+
+Almost immediately, a memory poured out, and he—
+
+—was standing with his heart in his throat, his hands outstretched. Black lightning streamed out of them and swarmed over Emilia's domed shield, but he knew it wouldn't hold. With a desperate twisting, he tried to cut off the flow of arcana, but all he succeeded in doing was redirecting it away from her. As her shield turned to powder, one thin arc, an off-shoot of the primary stream, snapped against her anyway, and he felt the pit of his stomach drop away. He had—
+
+The echoes of that memory stuttered, then died as he wrenched his mind out of it. More emotions were rising to the surface, but he forcefully beat them back down, falling into a familiar mental pattern of suppression.
+
+He had the scale of it, or near enough to attempt a frame-shift. He was roughly the size of a grain of sand next to his own body. With that mental picture, he tried to coax his little mote of consciousness into expanding.
+
+But that meant it was easier for him to come into contact with the threads. He realised this too late as he smashed straight into one, and—
+
+—he knew with a grim certainty that his brother was probably reliving one of those terrible moments. How were they both grown, and still so chained to the past? He was helpless back then, and he felt the same thing now: helplessness, total helplessness, even as he hurled heavy arcanic bolts at the shimmering ghost of Jerric's mother as it bore down on his brother, who was now shaking and twitching in a fit even as he babbled into the arcana, 'No, no, no, no, no!'
+
+Why the hell was it going for Ly? And why weren't the bolts having any effect? They should have planned more, should have discussed what they might be able to do to take it down. They should have assumed it would be hostile, but no, Jerric, and Caden, and the rest had just assumed that they could traipse up to it and just take a look without any reprecussions. Maybe it would have been like that for them, but he and Ly were different, they had ghosts to deal with, things that—
+
+—with another supreme effort of will, he pulled himself out of that memory. Impotent rage welled within him, but once again he beat it back down and tried to slip into a more dispassionate frame of mind. He drew in a metaphorical breath to calm himself.
+
+The threads are 'his' traps. I need to be quiet. I need to be light.
+
+Unbidden, the image of a dark hallway filled his mind for a moment, and he was six years old. The task was simple: get to the other end, and don't get caught.
+
+It worked. He had no body here but his mind assumed the shape he was most familiar with. His little mote of consciousness became less fuzzy, less clumsy. He was still too small to simply step out into the clear air of the ambient arcana, but he was big enough to travel and make acceptable progress out of the mire of his own mind.
+
+He launched himself through the void, and now that he had frameshifted himself into some sort of physical form, he found that he could manipulate the world around him with a little more certainty. He wanted to avoid the threads since they would send him spiralling into unwanted introspection, so he conjured little platforms to leap onto or use as stepping stones as he vaulted through the tangled mess.
+
+Sometimes, he had to shrink himself in order to make any progress, especially when he reached a particularly thorny or gnarled patch where the threads were crowded in so close together that they almost formed a solid wall. Those were dangerous moments, because the smaller he got, the more the threads looked less like strings and more like surging rivers that threatened to pull him under and keep him there. It didn't help that gravity didn't make any sense in this arcanic space. It was becoming painfully clear that his own frameshift of a physical body was extremely limited here, but he didn't have any time to stop and come up with a better way to navigate. Maybe he'd discuss it with Ly later.
+
+After what felt like an eternity, the threads started thinning. It had quickly become clear that his auric-ambient-flare was not shaped like his physical body, so he had simply picked a direction and gone straight ahead, keeping to the same bearing as much as he could. But the closer he got to what he believed was the edge, the harder it became to move. He found that he couldn't leap as far any more, and that his little conjured platforms didn't stay fixed in place. They wobbled dangerously whenever he landed on them to catch his breath, and sometimes when he leapt off one, it shattered before he could properly propel himself.
+
+After a particularly difficult leap, the next platform simply failed to materialise. His momentum was sending him careening straight towards a thread. In desperation, he tried to scale himself up so that he would be too big to fall into it. Perhaps if he got big enough, he would simply break straight through it.
+
+It worked, after a fashion. He had grown to such a size that the thread no longer loomed in his vision like a spider's web to a tiny fly. But as he crashed into it, it did not break. Instead, he found his frameshifted body being wrapped around it in an almost cartoonish fashion, and the illusion rapidly broke apart until he was just a frazzled mote again, like a ball of cotton caught on a string.
+
+But then, miraculously, he heard something that was not an echo of a memory, and he immediately oriented himself towards it. The world around him made a little more sense with this bit of sensory input from outside.
+
+'I need you...' It was Jerric's mind! '...to stop me from going too far.'

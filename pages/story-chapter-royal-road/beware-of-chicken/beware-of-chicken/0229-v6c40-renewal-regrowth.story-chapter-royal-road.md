@@ -1,0 +1,173 @@
+---
+id: 0553f8fe-106a-53a2-9af2-ba78ceec17d4
+page-type-slug: story-chapter-royal-road
+title: "v6c40: Renewal, Regrowth"
+slug: 0229-v6c40-renewal-regrowth
+partOf: beware-of-chicken
+position: 229
+ownLength: 2018
+unit: words
+ownProgress: 2018
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2399095/v6c40-renewal-regrowth"
+royalRoadId: "2399095"
+markedReadAt: "2026-06-29T18:59:14.645Z"
+---
+
+The morning after the week of New Year’s dawned wonderful and crisp. It was one of those slow mornings, where everyone moved lethargically, and most people were half asleep until after the late breakfast.
+
+That quiet, lazy atmosphere lasted until we heard a commotion outside. The other women of Soaring Heaven’s Isle, the ones who had gone to Grey Shard Coast, had apparently returned to travel back north with their seniors. All of them looked rather worse for wear, but they all had big smiles on their faces… and were carrying a massive box between them.
+
+My eyes widened when they opened it to reveal a tuna twice my size nestled in a box packed with ice.
+
+“We heard ye like these, Captain,” Lai Ni said in her thick accent.
+
+Seiyu’s eyes were practically sparkling.
+
+The party ended up getting extended just a bit. After all, there was sushi to be had, and it was accompanied by the tale of their own hectic New Year’s. The auction had gone wrong when a group of thieves attacked the venue and tried to steal the main event… only to run face first into the girls from Soaring Heaven’s Isle. Comedy, I was informed, ensued.
+
+Considering the banged-up clothes some of them had, I suspected they were embellishing how easy it had been to win that fight.
+
+Whatever the case, it certainly provided an amusing distraction while I butchered the massive tuna. I was lucky I could reinforce my knife with Qi, because this thing’s skin was like a rock. It was officially the biggest thing I had ever rendered down as well, being heavier than Babe. The thing was a damn monster of a fish!
+
+Washy watched carefully as I cut against the grain, and we folded the vinegar rice together. We didn’t have any wasabi, but we did have some spicy Spirit Herbs, and we definitely had pickled ginger.
+
+A couple of people were a little weirded out by eating it raw… but after they had a taste of it? Well, that was a whole ‘nother story. Our funazushi was alright, but it was nothing compared to the delicious, fatty tuna belly paired with vinegar rice.
+
+I got to watch Tigu lean into the cat stereotype. She devoured her portions, making little noises of happiness.
+
+“Master, Master! Is there any way we can get more of this?” she asked eagerly.
+
+I considered the question. Well… maybe? None of us could fly as fast as the Soaring Heaven’s Isle disciples, and the sea was at least a week away. If somebody felt like taking two weeks for a fish run, that could definitely happen. With an ice crystal, it would be cold enough…
+
+But there was another way. I did have to see how much damage Tianlan had suffered in the Grass Sea, and if she needed any patching up. That, and I wanted to meet with the monkeys of Crystal Hill again.
+
+“Zhuye is going to be old enough to travel this year,” I told her. “So after the planting… will my daughter show me around the Azure Alliance? I hear there's a big port near Grass Sea City.”
+
+Tigu straightened up. Her smile got even wider.
+
+“Of course! There are so many beautiful things! I’ll arrange a grand trip for us all!” Tigu declared.
+
+“I have always wanted to see the ocean…” Meiling muttered from beside me.
+
+A family vacation.
+
+==========================
+
+We ate our fill and preserved the rest of the giant tuna. Even cultivators had a limit to how much they could eat...even Seiyu. The bones would make delicious soup, and we were going to try our hand at preserving a bunch of the meat—we didn’t have cans, but Meiling sterilized some oil and glass containers. So we heated the meat, filled a bunch of jars, and then sealed them with wax.
+
+I caught Meiling scowling in thought afterwards at the jars. “It's still strange to use so much wax,” she muttered. “We had to make sure every bit of it counted, but now…” her voice trailed off when she turned to look at the bricks of yellow wax we had stacked up against one of the walls. “If everyone could store food like this…”
+
+It would save lives. A lot of them. We had already shared the method with Hong Yaowu. Food security was an issue at this level of development, and every little bit of preservation would help. Part of the reason people didn’t use wax for this was because it took so much. With the previous methods of gathering wax, they could maybe do five or six jars like this per year.
+
+With frames that could be harvested year after year? Suddenly, you could preserve a hundred jars, instead of five.
+
+It was weird to think something as simple as wax was so life changing. But there it was.
+
+We finished putting everything away, and went outside, where our new friends were waiting.
+
+Bailu and Seiyu had been pretty fun. A bit strange, sure, but they hadn’t caused any problems. They had arrived on a storm, hung out, had drinks, played around with everybody, and now they were leaving again just as quickly.
+
+Still though, they had left an impact.
+
+“We’ll visit again!” Bailu cheered, hugging all her new “dragon buddies”. Xianghua just looked amused, while Loud Boy flushed at just how touchy the bubbly woman could be. Wa Shi nodded gravely.
+
+“Bring plenty of interesting things!” he commanded her. “The tastes of the world will be ours!”
+
+Bailu saluted.
+
+“I’ll bring suika next time,” Seiyu said. I paused. Suika? Didn’t that mean watermelon?
+
+“You will?” I asked hopefully. She nodded gravely.
+
+“Indeed! It has been a while since I was last home anyway. I shall bring the entire bounty of Wa for the services Lord Jin has rendered to this humble woman,” she declared, fire in her eyes as she lifted the “going away bento” I had given her.
+
+It had twelve levels, and was comically large.
+
+The other women had smaller bentos, but they were just as happy with them.
+
+“See you all again,” I said, as they rose into the air.
+
+“May the heavens bless your path,” Big D intoned, nodding his head in their direction.
+
+“Goodbye, dragon buddy!” Washy and Loud Boy shouted.
+
+“Have a good trip!” Tigu called.
+
+“We’ll deliver your letter! Don't worry!” Bailu called to Xiulan, patting her cleavage with a smile. Which was where she had stored the scroll. Xiulan smiled and waved back though there was a bit of nervousness to the wave, and she was clearly wondering if her letter was really safe.
+
+They turned north, not looking back, and flew onwards. We watched them go for a while before turning back to our house.
+
+And then came the less fun part of the celebrations: cleaning everything up.
+
+Luckily, our friends and family weren’t the kind of people to make actual messes. There were a few bottles in odd places, and the floor was a bit sticky in the hallway where somebody had spilled their drink. We didn’t even need everybody to help—it was done in half an hour.
+
+The containers and bottles would be washed and used again. The leftovers would either be tributed to Washy or head to the compost. Objectively, there was quite a bit of ‘garbage’, but to me it felt like there was barely any at all. Compared to the masses of wrappers and plastic we used in the Before, what we had here was simple enough to get rid of.
+
+Here, everything returned to the earth; nothing was truly wasted.
+
+After we finished cleaning, we took the decorations down. The paper lanterns had the soot brushed out of them, the red banner cloths folded, the extra glowstone lights on the walls taken down and packed away.
+
+It was a good New Year’s celebration. We had made plenty of new friends and rejoiced with our old ones.
+
+“Now, take this to your Master. He may have given you leave to negotiate on his behalf, but since this is your first time, have him look it over for you before you agree to any terms, okay?” Peppa lectured Spooks, going over the contract one last time with him. “Many people will try to take advantage of you, to cheat you, so you must be vigilant!”
+
+The Thunderhoof still looked a bit overwhelmed by the whole thing, but nodded his head dutifully.
+
+Finally, there was just one last thing to do.
+
+“Are you ready?” Meiling asked Noodle, her face calm.
+
+The snake simply smiled. “I am,” he replied.
+
+=========================================
+
+The first time Meiling had operated on somebody, her heart had felt like it was going to explode. Every movement had been second guessed. Every moment a race against the hourglass so that Bowu wouldn’t bleed out.
+
+This time, Meiling was calmer. This time, she knew. She knew exactly what to do, and how to do it. Guided by the experience of the books Jin had gotten for her, and by the dreams that seemed all too real. By the lessons Ri Zu had shared, and by the instruction of Elder Shou. She was as ready as she would ever be; everything was as perfect as she could make it.
+
+The room was sterilized one last time. Her assistants were briefed. The paralytics, infused with her Qi, took hold.
+
+“I’ll see you when you wake up, Shifu,” Yin said with a soft smile. There was no doubt in her eyes. Not an ounce of disbelief that Meiling would fix the snake's spine.
+
+There was no doubt in anyone’s eyes. To them, the operation had already succeeded.
+
+It was humbling, utterly humbling. Yet the only thing Meiling could do… was make sure that trust was well-placed.
+
+Miantiao’s eyes closed. The scalpel that Han from the Shrouded Mountain Sect had infused with an artificial spirit accepted her Qi with an ease that she hadn’t known existed before using it. The blade became an extension of herself, complete and prepared.
+
+She began.
+
+Somewhat ironically, operating on Miantiao’s spine was proving easier than operating on Bowu’s knee. Miantiao was a cultivator, and was capable of withstanding far, far more relative blood loss than the young man, and was just overall better at taking the strain of what was currently happening to him.
+
+Meiling’s hands moved without hesitation and with purpose. Her fingers were too thick for the operation, so Bowu had forged her a set of tweezers that were as thin as he could make them. Both she and Ri Zu worked, rearranging bones, breaking them in some cases, and then stitching the cracked, mangled, and ruined spine back together.
+
+But that wasn’t the only reason why it was easier. Her assistants had grown in skill. Ri Zu’s tiny hands worked in perfect synchrony with Meiling’s. Wa Shi’s water control had improved spectacularly, leaving the area clean of blood while minimizing the loss of it.
+
+Together, they were one unit. A machine like Bowu’s reapers, working with perfect movements over and over and over again.
+
+There was no break. There was no moment of rest. For eight hours, they worked tirelessly, rebuilding Miantiao’s spine while avoiding the nerves and blood vessels. Starlight Pathway Leaf, a gift from Master Shou, fixed the connections that were broken.
+
+Eight hours of perfection.
+
+It was almost anti-climactic when it was over. When the skin and scales sealed again, there was no awkward kink in his back. There was no disfigurement. Spiritual Medicine had sealed everything back up like it had been healing for months.
+
+Meiling held her breath as they purged the paralytics from Miantiao’s system.
+
+His good eye had its luster returned. The moment of truth came.
+
+His tail moved and flexed. His body curled.
+
+Everything slid. Smooth. Right.
+
+‘Thank you,’ Miantiao said, his voice hoarse.
+
+“I promised, didn’t I?” she asked.
+
+The snake chuckled.
+
+‘Indeed, you did.’ The door opened, Yin poking her head through the crack. Her eyes were sparkling with joy. ‘Ah, what a New Year.’
+
+Meiling let out a breath.
+
+What a New Year indeed.

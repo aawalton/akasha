@@ -1,0 +1,119 @@
+---
+id: 3ae47b92-5b26-519f-9944-00af99933d49
+page-type-slug: story-chapter-royal-road
+title: "97. Exchanging Information"
+slug: 0097-97-exchanging-information
+partOf: breaker-of-horizons
+position: 97
+ownLength: 1734
+unit: words
+publishedAt: 2021-04-05
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/658664/97-exchanging-information"
+royalRoadId: "658664"
+---
+
+With the matter settled, the group broke apart and went about their own business. Devon went to look for the agent-in-charge to check on the arrangements that had been made for Caden, Emilia, and Ambrose. Jerric busied himself with familiarising himself with the inventory of artefacts on hand. The twins decided to retire to their own rooms.
+
+Caden took the opportunity to have a quick word with Emilia. "Uhm, Emilia... earlier, you said you'd take care of Kevan."
+
+She nodded. "Yes."
+
+"What did you do?" he asked. "How did you get him up?"
+
+Emilia looked a little confused by the question. "I didn't do anything. I only slipped into the arcana to take a closer look at what was going on, and as I said before, you probably can see a lot more than I can."
+
+Caden returned her puzzled look. "Then why were you so sure he'd be mobile and functional?"
+
+"I wasn't," she replied. "I asked you to assume he would be since we were talking about future plans that involved moving around. If he turned out to still be unconscious, I Intended to carry him with us on our search for the wild augera."
+
+"Carry him?" Caden repeated blankly, and he couldn't help but give her a quick once-over, taking in her slight frame, and the fact that she was more than a head shorter than Kevan.
+
+That brief glance did not go unnoticed. She raised an eyebrow at Caden. "It wouldn't have inconvenienced me."
+
+He gave a sheepish grin, recalling her proficiency at channelling arcana to enhance her own physical capabilities, and decided not to comment any further on how impractical it would have been to lug around a comatose Kevan even if she were technically capable of doing it. "Right. Well, I suppose it's a good thing he's really up and about, moving under his own steam."
+
+He bobbed his head by way of farewell and turned to go, but Emilia called out before he had gone more than a few steps.
+
+"Caden," she hesitated and showed a rare moment of embarrassment but she forced herself to look at Caden in the eye. "You may be extending forgiveness to Kevan out of obligation, or for your own purposes in steering Prophecy... but thank you nonetheless."
+
+"Oh." Caden felt a little uncomfortable himself, now. "You, uh, don't have to thank me."
+
+He was never quite sure where he stood when it came to Emilia, and her eccentricities made it really hard to read her. Seeing her behaving like this was actually a little disconcerting. He was on the verge of making a hasty exit but he decided that he might as well make some sort of start in getting to know her a little better, so he drifted back into the room.
+
+"You know, Emilia, I don't think we've ever talked about your stake in all this," he said, coming to stand a little closer.
+
+"No, we haven't. If you want to go over this now, maybe we should sit." She moved back to the couch, passing Jerric along the way. "Both of you."
+
+Jerric looked up from his checklist, a little bemused, but followed Caden's lead. Emilia took one end of the couch while Jerric sat at the other, and Caden pulled up a chair so they wouldn't all be squashed up against each other.
+
+Emilia waited until they were settled, then sat a little straighter, like she was being interviewed. "So, what do you want to know?"
+
+"I really, really just have to get this off my chest," Caden said. "But you and Kevan. I mean, I'm going to be blunt — why?"
+
+If Emilia took any offence to that question, she didn't show it. She nodded in a business-like manner and responded matter-of-factly. "He's the first person I've met who accepts me for who I am."
+
+"Really?" Caden almost stopped himself from blurting that out but decided at the last moment not to hold it back. If she was going to be her usual, clinical self, then this was a good opportunity to engage with her. "Honestly, Kevan doesn't strike me as that sort of person."
+
+She nodded again. "No, not at first. On our first meeting, he was abrasive and arrogant. When he first looked for me and challenged me, it was with quite a bit of condescension. He didn't believe that anyone would be as good as him."
+
+"Yeah, that sounds more like the Kevan we know," Jerric muttered, and Caden nodded with a slight grin.
+
+Much to their surprise, Emilia gave a small smile of understanding. "To be honest, what first caught my attention was the fact that he beat me. That had never happened before."
+
+"But wouldn't he have been really horrible right after that?" Caden asked. "Everybody knows he's really proud, and I'm guessing he gloated a bit"
+
+She laughed. "More than a bit. But I told him to his face that he shouldn't rest on his laurels, and that I would definitely beat him."
+
+"How did he take that?"
+
+"He took me seriously. I think that was the start of it, for me. People tend to ignore me or brush me off. But he accepted my challenge seriously, without any more gloating. He realised that our first duel was actually a little close, and he acknowledged my ability. He knew there was a chance I'd be able to really win."
+
+"And then later, when you guys had that big duel in the arena, and he asked you out later... that's all it took?"
+
+For once, Emilia looked a little unsure of herself. "Do you remember what we talked about after the Prophecy was revealed to me?"
+
+Caden nodded. "We figured that you became a lot closer to us as a group because I was removed from the Prophecy, and it needed you to fill the gap."
+
+Emilia sighed. "At the time, I was very sure that my decision to be together with Kevan was entirely my own. But I see now that this is naive. It's obvious that the Prophecy did bring us together, and that my feelings for him are definitely a result of its influence."
+
+Caden's mouth was a grim slash. This was not a pleasant thought.
+
+Unexpectedly, though, Emilia looked up and gave him a small smile. "I have made my peace with that, though. In my view, the Prophecy may have brought us together, but if so, it only provided the opportunity to meet. It made the circumstances favourable. But I still am convinced the choice is my own. Kevan acknowledged my power, and he accepts me for who I am, with all my strangeness and all my rudeness. And I, in turn, do the same for him."
+
+There was so much open honesty and happiness in her face that Caden couldn't bring himself to contradict her. In any case, he wasn't the sole arbiter of how the Prophecy really worked. They were all still just discovering how it really functioned. He nodded and gave her a small smile of encouragement, and changed the topic.
+
+"Where'd you pick up your thaumaturgical skills?" Caden asked, recalling how proficient Emilia had been in their classes from the very beginning. "From a prep school that focused on it, like the twins'?"
+
+"No. My prep school offered focused courses in artificing, but it didn't interest me so I never pursued all the programmes that were available. My thaumaturgical skills come from independent study."
+
+"That's impressive," Jerric remarked. "What did you do?"
+
+"I danced."
+
+"Danced?" Caden asked, his interest piqued, and he thought back to the little he had learned about her past. "You've mentioned before that you've done some gymnastics. Is that a part of it, too?"
+
+"The gymnastics classes were the start. Then, I got interested in dancing. I started figuring out how to use arcana to bolster the body's physical movements." To demonstrate, she slipped out of her shoes and stood up en pointe, then slowly and deliberately extended a leg so that her entire weight was supported on just one toe. Caden and Jerric stared in awe.
+
+"Normally, you need proper shoes for this, and it requires a lot of physical training," she explained, lowering herself back onto the couch and drawing her legs up so she could sit cross-legged. "Arcanic assistance offers shortcuts for those who haven't gone through all that. And if you do go through rigorous physical training, arcanic assistance can help you do things that are normally almost impossible."
+
+"But how do you get from dancing to thaumaturgy?" Jerric asked, clearly captured by the theory behind it.
+
+"Because using arcana in this way to assist movement in dance requires extremely fine control. I learned how to direct arcana very efficiently and quickly. The focus you learn to cultivate in order to channel arcana while dancing is something that is also easily transferable to the rest of what we've learned."
+
+"That kinda explains why you're always running around and smashing straight into things when you fight," Caden mused. "You really favour close-quarters combat."
+
+"It's a weakness, though," Emilia pointed out. "I am working on other methods of engagement that will play to my strengths. The fight with Ambrose last term showed me that my preferred method of engagement isn't wise when we're going up against an enemy with more firepower."
+
+"But you're still pretty good at the standard bolts, and that beam sequence," Caden said.
+
+"I'm good, but not excellent. Those are suitable for stalling or testing the enemy, but they are not tools I can rely on to win an engagement."
+
+"We could theory-craft something, if you're interested," Jerric offered.
+
+Emilia favoured him with one of her rare smiles. "Thank you. I am actually quite interested in your input. I want to talk about your experience with the lake augera, and your mother."
+
+Jerric stiffened. "What's there to talk about?"
+
+"I want to talk about how you frameshift. I believe what happened between you and the lake augera hints at some principles we can take advantage of in combat."
+
+There was a brief silence before Jerric sighed. "Actually, now that you've mentioned it... I need to tell Caden something, too. I figured something out when we were trying to piece his auric-ambient-flare together. And I think it may help us to at least keep a wild augera at bay if it comes after us."

@@ -1,0 +1,135 @@
+---
+id: ad52f48f-5136-5bdd-bdf5-782f7c3500a7
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 35 - Elective Swing"
+slug: 0039-b3-chapter-35-elective-swing
+partOf: bookbound-bunny
+position: 39
+ownLength: 2477
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3335879/b3-chapter-35-elective-swing"
+royalRoadId: "3335879"
+---
+
+As for the return of Lily's elective classes, those were quite different. For enchanting, she had actually missed out on two lectures, but thankfully, she had already informed Professor Ollie ahead of time. The professor was thankfully fully understanding of the situation and gave her notes on what she had missed.
+
+Initially, Lily had been excited about the notes she had received, but when she went through them, she discovered that they were still very much in the early stages of glyphs and the importance of accuracy. Lily excelled in this regard, so it was almost as if she had missed nothing at all.
+
+However, Ollie did ask her, as compensation for her missed classes, to give a short report on how she used glyphs during her camping trip. He must have heard through the grapevine that she put on quite a performance, likely from the headmaster spilling the beans.
+
+Lily was more than happy to recount her achievements and provide commentary on runes. The book on runes was a very last-minute addition to her education, and she hadn't fully explored them beyond the explosive glyph. She hoped that the professor could point her in the right direction for some more combat-capable runes that were more subtle in their usage.
+
+"If you're looking for ones that are simple yet effective, look no further than the motion runes: push and pull," Ollie said, plucking at his bristly mustache. "There's also lift and press, but those are a bit more dependent on your target. If it's too large a creature, your lift rune might be ineffective, while something smaller would most likely ignore your press rune."
+
+Lily took note of his explanation and could already imagine the usefulness of laying a motion rune as a trap for a charging monster, or, if it were a ranged attacker, drawing it in with a timely pull rune under its feet. However, when it came to lift and press, Lily was a little unsure. She could fully understand why lifting a heavy creature would be hard, but she couldn't wrap her head around why a smaller creature would resist press.
+
+[It's a bit of a strange phenomenon, but the downward force scales with the target's volume. A smaller creature will receive less force as there is less area for the effect to apply. If we were dealing with gravity magic, then it wouldn't matter the size of the creature, but runes are far too simple to accomplish that.]
+
+{Got it; for small monsters I'll use lift, and for big ones I'll use press!}
+
+[Or stack multiple lift runes to handle a larger monster; that way, you could use gravity as your weapon.]
+
+After that, it was Hearthcraft with Professor Melina, and while they hadn't missed any lessons for hers, there was a big request from the other students: cooking lessons. Yes, the biggest reason for dropouts was food-related, and now they are desperately seeking a solution, with occasional requests for better cleaning methods while out in the wilderness.
+
+Melina was more than happy to compromise, and her lessons took a turn from precise control over spells and Mana towards more practical applications. Of course, none of it was some grand spell to handle it; these were all basic cantrips being used to great effect. For example, with just telekinesis, some cutting wind, and finally some fire, Melina could descale a fish and cook it on the spot.
+
+Lily, as always, was amazed at how many spells she could keep active at once. However, for Thomas, today's lesson was an eye-opening experience unlike any other. Undoubtedly, he used his Magesight during the lesson and was left gasping in shock at what he saw. Lily couldn't help giggling at his reaction, as hers had been just as bad.
+
+While Lily found the lesson beneficial, her own mind was trying to apply it in far different ways. She was imagining stringing together glyphs to handle all of this with precision and control. Lily often found herself now thinking of magic in terms of glyphs, and it was a rather startling turn of events compared to her younger self when she was first learning magic.
+
+Not knowing any better, she had called casting spells with gestures or chants 'real magic,' while imagining drawing glyphs as something else. After witnessing Arakil's grandeur, that opinion was now entirely flipped on its head. Drawing glyphs with the flick of the wrist was now 'real magic,' and what she craved.
+
+Yet, to her surprise, Arakil reminded her to focus on magic as a whole. She would have assumed he'd be delighted with her trying to focus more on glyphs, but undeniably, he believed in a far more rounded approach. Of course, she knew he was right; he was the god of magic after all, not the god of glyphs.
+
+That only left alchemy class, and it was certainly the most eventful of Lily's three electives. Entering the laboratory, they were immediately greeted by the sight of countless herbs, plants, fungi, and fruits. Evidently, these were the collective gathering of everyone, or at least the ones donated to Regarth.
+
+"Ah, good, my helpers, I mean, students, have arrived!" Sylwel said with a look of joy on his face.
+
+The class quickly realized his intention, and a collective groan was let out. Yes, they were tasked with sorting out the various gatherings so that they could be properly categorized and stored. It was a simple enough task, but one that would take considerable time.
+
+While the students were categorizing the materials, Sylwel was paying close attention to everything. Occasionally, he would chime in to correct a mistaken identification, which was more likely when two plants looked remarkably similar. However, he also went a step further and began throwing out some of the resources.
+
+Lily quickly caught on to what he was doing and, to skip a step, began incorporating it into her own work. Lily thankfully didn't classify anything wrong, but thanks to her previous teachings as well as her Magesight, she could correctly remove the plants that were too poor to be used as proper reagents.
+
+Her deviation from the norm was quickly noticed, and after Sylwel scrutinized her work and confirmed she was correct, he had her join him in cleaning out the junk and double-checking the others. Arguably, this job was far harder than just categorizing things on their own, so Lily whispered what she had done to Lotte in the hopes of getting another pair of hands, and more importantly, eyes, to help.
+
+Even at its base level, Magesight was enough to correctly locate which reagents were unsuitable, made even easier thanks to the low-Mana environment of the world. After Lotte demonstrated the same proficiency in removing the duds, she also joined the team.
+
+"Can anyone else help?" Sylwel excitedly asked the rest of the class.
+
+A few of them tried to volunteer, but aside from a few obvious guesses about which plants were bad, the majority were not proficient enough to meet the mad professors' stringent requirements. It was one thing to know the flower missing its petals was no good, but seeing the fruit or herb devoid of Mana was another thing entirely.
+
+{I'm guessing Professor Sylwel has his own version of Magesight, although I'm not sure if it's a shaping technique or not. He hasn't chanted or made any gestures I could recognize, so I don't think he's using a spell version like the headmaster suggested.}
+
+[He could be using an enchanted item, or perhaps he ingested an elixir, as those would usually be the safer approach to detect Mana. However, considering he is a transmuter with a penchant for casting without any safety precautions, he most likely has his own personal method.]
+
+{Considering he drinks poisons, I would have guessed he could taste Mana. Although I haven't seen him lick any of the plants just yet.}
+
+[You jest, but you might not be too far off. He does appear to be touching almost every item before he decides to keep it or throw it away.]
+
+Lily was almost dumbfounded by that answer and realized that her alchemy professor might be even stranger than she previously acknowledged.
+
+Still, the work continued despite a few protests, and what quickly shut them up was Sylwel pointing out the obvious with venomous sarcasm.
+
+"The majority of these resources are for you to use during class. Or would you prefer to have to search through a big pile in the middle of a brewing session for the last root of thimbleweed you need?"
+
+Yes, this was all for their benefit. Even this, while it could be seen as grueling work, was actually somewhat educational. Learning to correctly classify your ingredients and dispose of subpar resources was vital if you wanted to brew the best potions.
+
+Or as Miss Camilla would say, make the most money!
+
+As for the bad ingredients, they would be used for throwaway lessons. Yes, they wouldn't be good enough for actual potions you wanted to use, but they were perfect for learning grinds, dissolution times, or temperature requirements.
+
+In fact, Sylwel was casually teaching during this work and explaining the importance of the correct ingredients and how they were the dividing line between alchemy and herbalism. Ultimately, it all boiled down to Mana, and without the reagents having Mana, it couldn't officially be called alchemy, as that was what produced the magical catalyzing effects.
+
+Many hands made light work, and eventually the task was complete, with time to spare. Sylwel was delighted, and, as a reward, decided to show the students one of the many resource rooms. Behind one of the locked doors was a room filled with cabinets, each with a multitude of drawers, all labeled in immaculate detail.
+
+Everyone couldn't help but marvel at the sight, even the more casual alchemy students, as this was a proverbial treasure trove. Lily's eyes in particular felt like they were on fire as she tried to absorb every scrap of information.
+
+Her mind quickly put together a puzzle of the distribution, although it was a little different from what she had expected. Lily had assumed the resources would be distributed based on their effects, such as grouping all the healing items together, but that was not the case.
+
+Instead, the cabinets appeared to be based on the dungeon floors, and if the floor had more resources than one cabinet could hold, it would have another. The second floor had three cabinets dedicated to it, while the first floor had only one, with several drawers unlabeled and presumably unused.
+
+"This is where you'll be spending a lot of your time outside of direct teaching lessons, so I expect you to familiarize yourselves with these drawers. Also, if I catch any of you making a mess of things in here, there will be dire consequences," Sylwel warned.
+
+The students quickly nodded, some even promising out loud.
+
+After seeing their prompt agreement and understanding, he smiled. "Since we are here, are there any questions?"
+
+A few students' hands shot up, Lily included. One by one, Sylwel would point to a student and let them speak their mind.
+
+The questions varied, with some just satisfying their own curiosity rather than anything really worthwhile. The few standouts were asking whether these were the complete catalog of each floor's resources and what the restrictions on using them were.
+
+"As far as we know, this is everything, but the dungeon is still growing, so who knows? Maybe some rare new fungus will grow on the first floor? As for the restrictions, you are allowed to take any resources from your currently accessible floor, plus one. Although that's with the caveat that you withdraw within reason. If I find any of you embezzling resources, or worse, wasting them, there will be hell to pay!"
+
+The students nervously gulped, as they could only imagine what strange or bizarre punishment this madman would inflict.
+
+Finally, it was Lily's turn to ask her question, although it had sort of been answered already. Still, she asked anyway, hoping for further clarification.
+
+"Why are they grouped by dungeon floor, rather than by their properties or family?" Lily asked.
+
+"Good question, there are two reasons, or three if you want to be pedantic," Sylwel replied. "First, it forces you to learn what each reagent is used for and not have it spoon-fed to you. Second, it lets us properly restrict your access based on your accomplishments. And lastly, it serves as a crude catalog of what each floor can provide."
+
+Lily was happy with the answer, though she remained curious about the second reason. "How does it restrict us?"
+
+"Oh, that's simple. You use your dungeon pass to unlock the cabinet, or else you won't be able to open the drawers," he explained and gestured to one of the cabinets.
+
+Lily walked over and picked a drawer at random. She gave it a tug, but it didn't open.
+
+"See? Working as intended. Now touch it with your dungeon pass," Sylwel explained.
+
+Lily pulled it out of her pouch and tapped the drawer. There was a clicking noise, and then the drawer opened with an effortless pull, releasing the scent of the herbs stored inside.
+
+It was a simple demonstration, but it still left the class excited. This meant that their progress in the dungeon was more important than ever; if they didn't reach new floors, they wouldn't have access to the supplies they might need.
+
+Professor Sylwel even revealed that it used to be restricted to the floor you currently had access to, but they found it was far more effective to show what the next floor provided as an incentive. Seeing what the next floor had to offer was just the right kind of motivation they needed to seek deeper and deeper levels.
+
+"Why, though?" Lotte asked. "Wouldn't they be more motivated to get to the next level if they can't access them?"
+
+"Perhaps, but depending on how thoroughly you investigated the second floor and scrutinized the cabinets here, you might have noticed a few rare and precious resources are missing," Sylwel revealed.
+
+Lily quickly understood that this was them providing an appetizer of what the floor had to offer, and if you wanted the real treasures, you needed to seize them yourself.
+
+"Also, I really wasn't joking about restraining yourselves when taking resources," Sylwel stated clearly. "And if you're churning through a certain floor's herbs and run out, the only solution is to go get them yourself!"
+
+That brought an end to the class that started off a little dull but ended with a bang. The alchemy students were now more motivated than ever before to explore the dungeon, and Lily couldn't help but wonder if the other electives offered their own incentives to dive into the depths.

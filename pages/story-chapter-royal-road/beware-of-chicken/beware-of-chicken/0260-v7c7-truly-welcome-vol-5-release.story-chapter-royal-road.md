@@ -1,0 +1,181 @@
+---
+id: 934f8bd9-76f7-56b3-91a9-b1a8774dee67
+page-type-slug: story-chapter-royal-road
+title: "v7c7: Truly Welcome+ Vol 5 Release"
+slug: 0260-v7c7-truly-welcome-vol-5-release
+partOf: beware-of-chicken
+position: 260
+ownLength: 2209
+unit: words
+ownProgress: 2209
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2811111/v7c7-truly-welcome-vol-5-release"
+royalRoadId: "2811111"
+markedReadAt: "2026-06-29T19:00:19.940Z"
+---
+
+What was it to truly be welcome?
+
+It was a thought that ran through Su Nezuhua’s mind often these days. They had been in the Azure Hills for perhaps a month and a half now. When they first arrived, they had expected, at best, to live in a quiet, isolated little village with their kin. A place that was safe, but a quiet refuge. A place where they would live alone, with just each other for company, and serving at Master Jin’s or the Cloudy Sword Sect’s pleasure. Perhaps they would occasionally meet with their kin from the north, the Nezin tribe, and renew their bonds of family.
+
+She thought, after their initial help, the visitors would soon peter out. It was, after all, a very busy time of year. They had their own people to look after.
+
+Naturally, nothing went to her initial expectations.
+
+=====================
+
+Some days it seemed like they had half the Nezin tribe in the village, their northern cousins arriving by foot, by horse, by a wagon pulled by one of Master Jin’s Spirit Beasts, or even the huffing and puffing Azure Express.
+
+They arrived with food, they arrived with clothes, they arrived simply to help out, the gatherings presided over by Uncle Han. The old, weatherbeaten mortal had said they were family—and to him that was all the tribe needed.
+
+They were a poor, nomadic, tribe, just like a lot of the foxes. And yet they gave their all to people they had just learned were cousins, lending a hand to help them to their feet.
+
+Their hunters, along with Ten Ren and the Young Master, even organized hunting expeditions to show them the lay of the land, the game and their habits, and what things to avoid.
+
+Nezuhua listened intently, and she learned that this was a land much, much kinder than their previous home.
+
+There were no avalanches or rockslides to worry about. The cold was more of a natural thing, instead of Qi-fuelled storms that drove icicles as long as spears through the air. The Spirit Beasts, outside those beholden to Master Jin, stopped at the Initiate’s Realm. Not that they would get close, for Lady Vajra’s patrols ranged far and wide, and Lady Meiling’s nose would detect any that evaded her.
+
+There was only one real rule—no hunting Thunderhooves, which was easy enough to follow.
+
+The lack of Qi was also a minor concern…. But in this part of the north, the ugly, sucking feeling was mostly absent. The air was tin with Qi, to be sure, but that was quickly alleviated by the food that Master Jin had so graciously given them.
+
+Was it any wonder that many of them started wearing tribal headbands and scarves? Nezuhua herself received a beautiful long coat, decorated in red and white with the swirling symbol of the Nezin tribe—it looked similar to the one that Xianghua, the wife of the Young Master’s brother, wore.
+
+It was warm, it was comfortable, and Nezuhua took to wearing it over the low-cut robe she had gotten used to wearing as the head of a brothel. The effect was very fetching, and closing the coat instantly transformed her image.
+
+Their people mingled without restraint; the Nezin tribe told them tales of their travels through the north, of the things they saw, and of the wide open vistas of the tundra. It was a tale of wandering that was starting to find its mark in at least a few families. Nezuhua would not be surprised to see them head off with their cousins when the time came for them to begin their nomadic lifestyle again.
+
+Just as she was fairly certain that a few of the Nezin tribe would be permanently joining them in Smoky River… and there would probably be at least one more wedding this year.
+
+=======================================
+
+It was not only their cousins who made sure they were well, though. Just as often, there was somebody from Hong Yaowu in the village… or they headed back that way themselves. The children especially were eager for more playmates—and more than once Yuanlin had had to take a child who had lost track of time home, or run to Hong Yaowu to get one of their wayward little ones back where they belonged.
+
+It was sweet, seeing the children wandering without a care in the world. Those who retained enough of the bloodline to turn back into foxes were especially popular, leading games of chase around the villages.
+
+Nezuhua found herself meeting quite often with Hong Xian, their village chief. He was Lady Meiling’s father, and the two of them had much to discuss. He had taken it upon himself to assist her and Xue Ji with the taxation forms the Lord Magistrate required, as well as what they would need in the future. While things across the Empire were largely similar, each province tended to have its own quirks in their paperwork.
+
+He was also an adept healer and seller of medicine. His prices for Seven Fragrance Jewel Herbs, of all things, were simply astounding. Mortals, growing Seven Fragrance Jewel Herbs! No wonder he was Master Jin’s father-in-law!
+
+“Thank you again for the business,” Hong Xian said to her, handing over his packages of herbs. He was not a tall man, but his thin frame held a deceptive amount of muscle. His eyes sparked with intelligence… and a deeply hidden sadness.
+
+“And thank you. We’ll be relying on you,” she replied.
+
+“Not for everything, I don't think. Some of these are quite common; your healers should find some of their own nearby where you live. I’m quite shocked they have not already.”
+
+Nezuhua grimaced. “Most of our herb lore is rather useless, I'm afraid. We know of cultivation herbs… and herbs from the Howling Fang Mountains. This land is new to us.”
+
+Xian’s brow furrowed. “I would be happy to meet with your healers, and see if we can find local replacements for your more familiar herbs.”
+
+Nezuhua paused.
+
+“You would do that?” she asked.
+
+“Of course. Every village needs a healer,” he explained. “You need to know which herbs are which. They can treat people faster, instead of having to run to me.”
+
+“Is this not your livelihood?” she asked, still confused.
+
+The green-haired man smiled. “It is. If you think you can compete with my Hong Yaowu, I accept the challenge.”
+
+His voice was full of good humour… and a bit of actual challenge. Nezuhua felt her cheeks heat slightly and laughed. Ah, it was a bit of a shame he was off limits, being Lady Meiling’s father. This was quite nice!  “Ah, if you’re that confident in your ability, what hope do we have?” she asked… before she offered him a small smile. “...thank you.”
+
+Xian nodded. “Yun Ren told me of the hospitality of the Northern Mountains. This is the hospitality of Hong Yaowu. We trade favours so often we forget the score.”
+
+…the heavens truly had blessed them for all the hardship they had endured.
+
+Nezuhua ended up staying for tea. Next time they agreed to meet in Smoky River, and Xian would bring along his scrolls of herb lore so they could cross-reference the effects of the herbs they were missing with his own family’s.
+
+========================
+
+The final visitors were the most esteemed; the Young Master and Fa Ram.
+
+Young Master Bi De and Young Mistress Ri Zu were their friends, so their appearance was natural. They came to lend their hands, along with the other disciples, who were also Spirit Beasts. But there was another presence with them.
+
+One that eclipsed them.
+
+Again, Nezuhua had expected nothing from Master Jin. What regard did an elephant have for an ant taking refuge under his shade?
+
+Yet he did notice them. He noticed them and offered his aid.
+
+However, instead of things for their cultivators, instead of powerful reagents, Lord Jin, the grandson of Lord Shen Yu, the one who Uncle Nezan said he could not feel the depths of… walked into the middle of the field.
+
+And then he began to speak on farming.
+
+It should have been absurd. But… for some reason it was captivating. Everyone stopped to listen when he spoke.
+
+“We give to the earth, and the earth gives back,” Master Jin said. “It will not return your investment immediately. It may take years. But you are building a foundation. The foundation for life. And like all foundations, it starts with the earth beneath our feet.”
+
+He knelt down to scoop some soil into his hands. The act dirtied his clothes and his body. A cultivator as powerful as he would have, should have, simply willed the dirt away from his body.
+
+He allowed it to cling. He allowed the dirt to stain him. The wind tousled his hair. The water stuck to his shoes. A blossom settled on his shoulder.
+
+The world acted on him as it pleased. And yet, despite this, his words seemed all the more profound as he imparted lessons to the least of their people. The mortals, who had bloodlines so weak they were effectively human.
+
+He spoke to them like a father. He spoke to them like… something that resonated deep within her. Something that told her the man before her was something different. Like the heavens themselves approved of the words he was speaking. He seemed to grow. To become the air in her lungs. The earth beneath her. The mountains in the distance, the streams that brought life.
+
+A crown of antlers, a panoply of living leaves and blooming flowers—
+
+Nezuhua blinked and it was gone. But the man before her still remained.
+
+It was not just advice for the farms, she realised. It was advice for all of them. A stable foundation. Strong roots in fertile soil, that would let them once more grow.
+
+Nezuhua rubbed her eyes.
+
+All the suffering. All the loss. It was truly at an end now, wasn’t it?
+
+===================================
+
+One month turned into two, and the frantic pace started to slow.
+
+The little part of Nezuhua, the part of her that was perpetually on edge, waiting for the bad to finally happen… started to release its clenched hold on her soul.
+
+There was nothing bad waiting in the wings. There was no hawk waiting to snatch them up. No lightning from the sky about to smite them.
+
+They really and truly were safe.
+
+A road now connected them to Hong Yaowu, and then to Verdant Hill. A good road, built solidly by their people and Lord Bei Be, the ox Spirit Beast relentless in cutting apart the earth and stone to form one of the nicest roads Nezuhua had ever seen.
+
+Xue Ji, who had once worked in the office of Lord Governor of Howling Fang Mountains, started her probationary period among the Lord Magistrate’s staff.
+
+Some of the Nezin started to drift back north, headed for their summer camps—and some of the Su went with them.
+
+A couple of their number simply stayed in Hong Yaowu. A widow met a widower, and Hong Yaowu had another family—not that they were away from the village all that often. The road wasn’t as fast as the Azure Express, but the trip was fairly quick by foot.
+
+It was pleasant. It was peaceful. And yet one thought gnawed at her mind. She asked the Young Master for advice, but he just laughed and told her that Master Jin appreciated a direct approach.
+
+So she asked him directly.
+
+“Master Jin, is there anything that we can do to repay you?” Nezuhua asked when the man was in the village again. He had come to inspect the hot spring.
+
+Master Jin paused, considering her question. She could clearly see that he didn’t think there was anything they could do… when the pink pig beside him, Lady Pi Pa, let out a polite cough.
+
+Both of them looked to her.
+
+“Master, myself and my husband are staying home while you travel. Perhaps a set of hands to attend to our little brother would not go amiss? Especially if there are any important meetings?”
+
+Master Jin blinked. “You think we need a maid?”
+
+“It would make things easier, would it not?” she replied.
+
+The powerful cultivator considered the words of his servant. He turned to look directly at Nezuhua, studying her, weighing her.
+
+They were speaking of entrusting his son to one of their number. Nezuhua bowed deeply.
+
+“Master Jin, it would be our honour if we could assist you,” she said. Nezuhua already had several candidates in mind, people she knew would understand the weight of a task like this; a task heavier than their life.
+
+“I’ll talk to Meimei about it,” the man decided. “We’ll discuss the matter with Teacher and Lady Wu—they also mentioned going south this year…”
+
+In the end, Lady Meiling did approve of the idea.
+
+And so, one of their number would be dispatched to Fa Ram. One who knew of the importance of their new position, a position she heard Master Jin mutter was to be called “Battle-Maid.”
+
+A most apt descriptor.
+
+===========================
+
+And so Smoky River grew. Quietly. Without anyone really noticing.
+
+But one thing was for certain.
+
+They were welcome.

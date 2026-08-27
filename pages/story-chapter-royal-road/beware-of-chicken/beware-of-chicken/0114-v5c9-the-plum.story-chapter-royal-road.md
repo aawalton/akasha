@@ -1,0 +1,123 @@
+---
+id: 47c85801-d325-5a5d-9a54-fa2b28506d46
+page-type-slug: story-chapter-royal-road
+title: "v5c9: The Plum"
+slug: 0114-v5c9-the-plum
+partOf: beware-of-chicken
+position: 114
+ownLength: 1842
+unit: words
+ownProgress: 1842
+publishedAt: 2024-06-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1661630/v5c9-the-plum"
+royalRoadId: "1661630"
+markedReadAt: "2026-06-29T18:55:24.664Z"
+---
+
+Lu Ri, Senior Disciple of the Cloudy Sword Sect, was mildly amused at how quickly Rou Jin, Hong Meiling, Cai Xiulan, and Hong Xian prepared a table and tea to better hear what Lu Ri had to say about the audit.
+
+The concern all of them had for the Lord Magistrate warmed his heart; truly, the Patriarch of Verdant Hill’s virtue was rewarded with such a loyal student, and similarly loyal subjects. Even the least of the mortals who lived here were a cut above many Lu Ri had seen.
+
+However, before such talk could begin in earnest, Lu Ri did have his duties to attend to… and duty came before discussing such things, especially duty to Honoured Allies of the Cloudy Sword Sect.
+
+Lu Ri intently studied a set of glowing symbols; a diagnostic formation deployed with a key of which only he and Elder Yukong held copies. He considered them at length, noting their strength and position, and referencing it against the thick scroll he had been given by Elder Yukong.
+
+It took perhaps thirty minutes to complete his task, and then, with a nod and a flex of his Qi, the formation disappeared.
+
+“The stabilization continues according to the timetable Elder Yukong granted me,” Lu Ri informed his companions. “By summer, it will have fully stabilized and all of its protections will have fully activated.”
+
+There were pleased looks from Jin and Meiling, both appreciative of the protection being offered this village. Some would say it was excessive, to protect a village of mere mortals so heavily.
+
+Those people would be fools.
+
+“Thank you once more for your hard work, Master Lu Ri,” Hong Xian intoned, bowing his head politely. Lu Ri inclined his head in return. Like working with the Lord Magistrate and Lin Bao, working with Hong Xian was always a pleasure. Lu Ri could safely say the mortal was brilliant—he could even comprehend the barest secrets of the Formation that protected his home, after Lu Ri had explained them.
+
+A formation crafted by Elder Yukong of the Cloudy Sword Sect. There were cultivators who would have sat there dumbfounded after Lu Ri’s explanation, yet Hong Xian had grasped  the basics..
+
+As expected of the man who had managed to complete a formation so profound it had earned him the title of Honoured Ally. The Demon Siphoning Formation would be of great use to the Cloudy Sword Sect in the centuries ahead, and indeed the entire Crimson Phoenix Empire. His intelligence had also clearly been inherited by his daughter.
+
+Hong Xian was also a very good host; he always had a room prepared for Lu Ri, despite the fact that he rarely rested in the village… and his ability to create herbal teas was top notch. Lu Ri wet his palate before he addressed the tiger in the room.
+
+The bitter medicinal flavour contrasted well with the honey candies Miss Yuanlin had given him. He did not know the woman well, but she was kind to him whenever he came back to Hong Yaowu to check the wards and listened intently whenever he spoke about the mail. She seemed very interested.
+
+Lu Ri swallowed his candy, feeling quite relaxed, and began.
+
+“Indeed, the Lord Magistrate is being audited. The Imperial Auditor arrived last week—quite uncharacteristic of most I know to arrive so late in the season and brave the hardship that the snows bring, yet his credentials were wholly in order.”
+
+“Is it anything to be worried about? Because I’ve only really heard of audits in the sense of things to be avoided… or as things the government uses to attack people they don’t like,” Jin said, his arms folded and a frown upon his face.
+
+Lu Ri inclined his head slightly at the insightful, if cynical, answer from Jin. The man had an intuition about him that was top notch. “Indeed, wielding the powers of government against one’s rivals is something of a common practice in the cities. This far out, I originally assumed there was no ill will to his investigation. This Lu Ri has examined all of the Lord Magistrate’s records, and there can be no fault found with his bookkeeping.”
+
+Hong Xian looked slightly shifty at Lu Ri’s words. The man obviously knew about the state of the Lord Magistrate’s finances. Lu Ri knew about the discrepancies, and Lin Bao had obviously assisted the Lord Magistrate with some… creative bookkeeping.
+
+However, the most hidden and most severe breaches were all done for virtuous reasons; funds for the construction of the Gutter, buying and distributing food after harvests failed, taking in the survivors of one of Sun Ken’s rampages, all of these were buried so deep Lu Ri nearly hadn’t noticed them and he was quite certain that the auditor would not at all.
+
+These breaches of the law, in Lu Ri’s determination, were not true crimes. Yes, they violated the letter of the law; yet the man had always paid back everything he had ‘stolen’ from the government’s taxes… if slightly down the line.
+
+There were other small sources of corruption as well, hidden competently but noticeably. Lu Ri knew that these were likely put there for a reason. Auditors came expecting at least some corruption and guilt. Having some minor things that could warrant a slap on the wrist at most, if the discrepancies were even found, would have the auditor walking away satisfied.
+
+These too Lu Ri dismissed. A crate of a certain type of wine every three months or so using some of the tax revenue was permissible, especially when the man had put far more of his own personal finances into aiding his commandery than he had ever taken out.
+
+Indeed, there should be nothing of concern for most auditors to uncover.
+
+But of course… that was only if an Imperial Auditor was acting in good faith.
+
+“Originally?” Hong Meiling asked, her eyes narrowing. “He is here to harm the Lord Magistrate?”
+
+Lu Ri smiled at her deduction, as well as the affront in her voice that anyone would dare target Lu Ri’s good friend. How pleasant was it, to have intelligent conversation partners. Things had been getting better since Elder Ge had restored order to the Sect, but there were still few who were so open with Lu Ri.
+
+“Yes. Originally, I thought him merely a delayed asset, sent north to assess the higher amount of taxes the Lord Magistrate was sending forth. However, I did ask a friend about his background and they were only too happy to tell me. It appears he is a creature of the Wu family—the family of Lady Wu, the Lord Magistrate’s wife. Previously, he had been deployed to the Dueling Peaks, to make trouble with the Lord Director there and send information about what the cultivators were doing to the mortal noble families.”
+
+Cai Xiulan blinked. “At the Peaks—Lord Director Bai Huizhong was complaining about an auditor. They were one and the same?”
+
+“Yes. After being chastised by the Patriarch of the Grand Ravine Sect, it appears he planned to try another target that had been given to him,” Lu Ri finished, taking another sip of tea.
+
+Meiling frowned heavily. “So what were you planning on doing about this bastard?”
+
+Lu Ri raised an eyebrow as he swallowed his beverage.
+
+“Nothing, of course. The affairs of mortals are the affairs of mortals, and the Lord Magistrate has this auditor well in hand. It is a pleasure to observe his maneuvering,” Lu Ri replied simply. Imposing a cultivator’s will into these matters was generally considered in poor taste by the Founders. The apparatus of government was there for a reason, and only if it was broken should a cultivator step in and administer justice.
+
+The woman seemed taken aback at Lu Ri’s calm, matter-of-fact reply. The fire and anger in her eyes dulled as she considered Lu Ri’s words.
+
+“...I mean, yes, the Patriarch probably does have things well enough in hand, but after telling us all this I did think that we were going to do something with this information,” she ventured.
+
+“Truly? It was merely an interesting distraction to me, and I assumed you would like the information,” Lu Ri replied, amused at Meiling’s desire for action.
+
+And then his eyes widened as he comprehended another piece of the Founders’ wisdom. He had not known why the Founders had called the ‘fires of youth’ charming; it resulted in broken bones and bad sparring matches in his experience, but here, with a young woman hungering for justice for a virtuous man, he was beginning to see why the Honoured Founders enjoyed it so much.
+
+Especially because after she was gently chastised the woman tempered her fire and gained new wisdom; truly wonderful!
+
+“Of course Teacher has it covered,” Jin said, nodding his head, displaying the faith a student should have in their honoured teacher. “But, since we’re headed over for a bit… we’ll ask him how he wants to play things.”
+
+Lu Ri inclined his head. Leave the offer for assistance open, yet do not act unless requested. That was indeed the best way to approach this situation.
+
+“Quite so, Rou Jin, quite so. And if the auditor is a fool… there are certain mortal contingencies in place. I have some friends looking into things for me,” Lu Ri finished and took another sip of his tea.
+
+The mood in the room slowly relaxed… though Cai Xiulan was still looking at him strangely.
+
+“Even though the plum tree does not move, one might still find themselves in its shadow?” the woman asked.
+
+That was quite pointed.
+
+“Quite poetic,” the Leader of the Plum Blossom’s Shadow replied, a slight smile on his face.
+
+The woman stared at him a moment longer, trying to see behind his mild mask… before Cai Xiulan’s gaze became less intense and her smile more genuine.
+
+“Thank you,” she replied… though it was for more than simple thanks for him complimenting her poem.
+
+Lu Ri took another sip of his tea as both Jin and Meiling looked between them for a moment, before Jin shrugged.
+
+“Oh! By the way, I finished that scroll you gave me,” he said.
+
+Lu Ri’s eyes widened. “Truly? What did you think?”
+
+“The Honoured Founders were much more interesting than I initially thought. They really thought about everything, and they were completely different than I first imagined…”
+
+To Lu Ri’s delight, he spent the rest of the day discussing the wisdom of the Founders with Jin. The man had even copied out sections of the scroll he wanted to study in more detail, and he had truly read it.
+
+The Azure Hills truly was a marvelous place. Lu Ri was most pleased with his day… especially the moments where he got to ponder about what the Lord Magistrate would do to suppress the villainous auditor.
+
+==============================
+
+A man, glaring at pages in an archive, with an entirely too jolly and fat First Archivist standing beside him, felt a chill crawl up his spine.

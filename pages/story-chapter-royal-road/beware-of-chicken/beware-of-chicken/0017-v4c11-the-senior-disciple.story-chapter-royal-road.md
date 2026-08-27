@@ -1,0 +1,271 @@
+---
+id: bf127591-6fe8-5f6f-b56b-a33469bf5327
+page-type-slug: story-chapter-royal-road
+title: "v4c11: The Senior Disciple"
+slug: 0017-v4c11-the-senior-disciple
+partOf: beware-of-chicken
+position: 17
+ownLength: 3907
+unit: words
+ownProgress: 3907
+publishedAt: 2023-05-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1224170/v4c11-the-senior-disciple"
+royalRoadId: "1224170"
+markedReadAt: "2026-06-29T18:51:54.179Z"
+---
+
+One Month Ago
+
+Lu Ri, Disciple of the Cloudy Sword Sect, placed one hand against the gate that barred his way into the Cloudy Sword Sect. He had set out from Rou Jin’s home with his mission, which was for the moment, complete. He had accomplished his goal: he had delivered Shen Yu to an amicable meeting with his grandson.
+
+Now, it was time to make his report. With one hand, he pushed on the door and the massive gate moved like it was made of paper. He took a deep breath and allowed the smell of the Sect to fill his nose. Crisp, pure air.
+
+“Brother Lu Ri!” His fellow Senior Disciple Yichou exclaimed from his post at the gate. Lu Ri turned to him, and his fellow raised an eyebrow. “You’re certainly in a good mood. I trust your mission went well?”
+
+Lu Ri paused, then realized he was smiling. He had been doing that a lot lately. “It was time well spent, Brother,” Lu Ri responded.
+
+“So I see.” His fellow Senior Disciple looked Lu Ri up and down before continuing. “Elder Ge wishes for you to join him in one day’s time; he bids you to rest and recover yourself, and on the morrow meet in the Hall of the Elders so that you may be debriefed.”
+
+Lu Ri smiled and nodded, setting forth into his Sect. His clean, freshly and lovingly repaired Sect.
+
+His feet took him to one of the amphitheaters—where the various disciples were having a calligraphy contest arranged by one of the Core Disciples. The works on display were bold and evocative, and Lu Ri spent several long hours admiring their work and listening to the arguments over the arrangement of characters and brush strokes.
+
+He was just preparing to join in himself when a voice caught his attention.
+
+“Junior Brother?”
+
+Lu Ri paused at the unexpected development.
+
+“Senior Sister Yeo Na,” he said respectfully.
+
+The bandaged woman smiled at him.
+
+===========================
+
+Lu Ri found himself in Crimson Crucible City, sitting with his Senior Sister on top of the Grand Balcony, one of the highest points in the metropolis.
+
+It was a beautiful sight. The fortress city was built partially into the great Cloudy Mountain mountain, and then extended outwards on the few pieces of flat and solid ground of the tiered and river-crossed province. The outer bailey extended out into the Great Plunge, the edge of the waterfall that was the end of the Great Snake River. It descended into one of the gorges Raging Waterfall Gorge was named for. It fell over a thousand Li into the depths of the earth—a vast curtain of water thundering ever downwards and into the unknown.
+
+Massive bridges and roads stretched from all directions to the great walls, as the precipice of the Great Plunge was the end of a trade route that spanned most of the Empire. People streamed in and out of the great city constantly, and Lu Ri could see the smoothness which the design of the roads imparted upon the masses in their motion. It was an efficient and well-run place; clearly proximity to the Cloudy Sword Sect and the teachings of the Honoured Founders had influenced them greatly.
+
+After his time in Verdant Hill, Lu Ri looked at it with new eyes.
+
+“You’ve grown quite a bit, Junior Brother. There is a new light to your eyes,” Senior Sister said, and Lu Ri was startled out of his reflections, turning his attention back to his companion who looked quite amused.
+
+It seemed like a lifetime ago that Senior Sister Yeo Na had trained him to resist killing intent. Now, his kind—if still imposing—Senior was not quite so fearsome. Her wounds in the final battle against the Demonic hordes had been quite severe. Now she looked tired, with one arm and one leg completely covered in seals and bandages.
+
+She did not seem quite so imposing; and that was honestly a travesty. “You look best stern and uncompromising, Senior Sister.” Lu Ri murmured.
+
+She smiled at him, a chuckle escaping her lips. “Your words are dangerous weapons, Junior Brother, even when you do not mean them like that. It's quite flattering that you hold this old lady in such high regard.”
+
+“Always, Senior Sister,” Lu Ri replied. “One must always pay respects to those who have shown them the correct path.”
+
+Senior Sister shook her head, her voice fond. “Always so earnest. That part of you has not changed.” She took a bite of the pastry that Lu Ri had given her. He saw how her eyes widened as the maple hit her tongue. “Oh! This is quite good.”
+
+“Indeed. I must confess a weakness for it.”
+
+“I can see why.” She took another bite. “It's quite delicious. But I do have a hunger for a different thing. Tell your Senior Sister, what changed you so? Your eyes are one thing, but you hold yourself differently. I can tell you’re close to being able to use the Raging Cloudy Sword Formation.”
+
+Lu Ri nodded. His Senior Sister was incredibly perceptive. “This Lu Ri, in the course of his mission, was rewarded with pointers from a cultivator in the Imperial Realm.”
+
+Senior Sister’s eyes widened. “Diligence and good karma have truly rewarded you, Junior Brother,” she praised.
+
+Lu Ri smiled. Shen Yu was one of the preeminent Masters of the world. His lessons had skyrocketed Lu Ri’s understanding of himself and his abilities. That alone would have been a princely reward for his work.
+
+But it was not all he had received.
+
+“It was that… and I suppose I found a kindred spirit, of a sort. A man who seemed like he was birthed directly from the pages of the Honoured Founders.” A gem of a mortal that had understood Lu Ri perfectly. The Lord Magistrate of Verdant Hill was a rare sort of man. A true ruler, lifted directly from the texts that Lu Ri held so dear. He had heard Lu Ri’s ideas, and immediately grasped their value.
+
+“Oh? He sounds like an interesting man.”
+
+“Indeed. He and his subordinates are truly pearls hidden in the dirt.” The people of Verdant Hill had heard the Lord Magistrate's request to begin naming and numbering houses, and had immediately accepted the command. The Lord Magistrate said it would better facilitate the distribution of mail, and the people had immediately recognised the usefulness of such measures. Even those who did not fully understand the plan simply shrugged their shoulders, confident that the Lord Magistrate would not lead them wrong.
+
+The Ideals of the Founders, recreated in a far flung village. The rulers, gentleman scholars who guided with a firm and steady hand; the people, confident and eager to elevate the society.
+
+His Senior Sister listened quietly as he spoke of his experiences, his ideas for connecting the provinces. She seemed amused by his passion though Lu Ri noted her careful pose and the lines of pain on her otherwise smooth face.
+
+“Before I departed, I left special instruction with my organization, the Plum Blossom’s Shadow, to begin their own work. The maps and census data needed to be redone.”
+
+They had kept their faith admirably, providing services and gathering information, consolidating their hold, but they were coasting with no clear goal in mind beyond that. They had been completing tasks for the sole sake of completion with no true purpose.
+
+So he had provided one, and his subordinates, truly receptive to the words of the Founders, had grasped his intentions perfectly. Taking control of the province’s mail, linking the entire province together with superior infrastructure, and providing an invaluable service took ahold of them. Already the ‘mail corps’ was being rapidly assembled, routes being planned out and rest stops being designated on maps and built upon the land.
+
+“You sound like you can’t wait to go back.”
+
+Lu Ri paused at her words before a realization struck him. “Yes. It's true.” Lu Ri nodded. “I want to see how far this goes.”
+
+His Senior Sister graced him with a warm smile. “I do believe that attitude shall take you far. Your Senior Sister expects plenty of stories, later, for she must take her time in purging this demonic corruption.”
+
+She paused as a spasm of pain rippled across her face. He could sense the Demonic Qi churning within her.
+
+“I do believe I have something for that. Though it is for the Elders tomorrow—”
+
+“Then do your duty first, Senior Disciple Lu Ri.” Senior Sister laughed, waving her uninjured hand in humorous but clear dismissal. “I shan’t keel over in the meantime—but what is this about the Plum Blossom’s Shadow? Is my Junior going around naming things after himself?”
+
+Lu Ri flushed slightly at the teasing tone. His name was spelled with the character for Plum…
+
+He spent the rest of the day deflecting her amused remarks, and occasional bouts of Intent—just like old times.
+
+==========================================
+
+When Lu Ri, Senior Disciple of the Cloudy Sword Sect, gave his report, he had been expecting Elders Ge, Ran, and Chen. He had not been expecting Elder Yukong of the Artifact Pavilion and Elder Shou of the Medicine Pavilion to also be in attendance. Both had been in Closed Door Cultivation for centuries.
+
+He was instantly under the focus of five elders, their intent heavy. He bore it with the ease of practice and bowed respectfully.
+
+“Senior Disciple Lu Ri reports his mission accomplished,” he declared.
+
+“Excellent,” Elder Ge replied, smiling. He already knew of the mission’s success, but he seemed to be using this bit of theater to introduce Lu Ri to the newly awakened Elders. Lu Ri was quite flattered to be introduced like this, but was it not written by the Honoured Founders that a leader had to set their followers up for success?
+
+“So, this is your boy, Ge?” Elder Shou asked, scratching at his short beard. He was thin and lanky, with a bald head and the wrinkles of age. He had one half of his robe’s top off, exposing his wiry muscle. Sharp, intelligent eyes roved over Lu Ri’s body. “Doesn’t look like much.”
+
+“He comports himself well, husband. You at his age would have fallen to your knees under the weight of the intent upon him,” Elder Yukong observed, her voice quiet. She looked not a day over twenty, but instead of jade, she was hard granite; stark, like the face of a mountain.
+
+Elder Shou increased the pressure upon Lu Ri, and he did not move. The Elder snorted and relented.
+
+“Indeed, this is Disciple Lu Ri, whose actions have benefited our sect greatly.” Elder Ge gestured towards a chair. “Sit, Disciple, for we have much to discuss—and be free with yourselves, my friends. He is ‘my boy’ as you say. I hope to have him join our number in the future.”
+
+“Thank you, Elder Ge,” Lu Ri intoned as he sat down. Elder Ran was similarly smiling, while Elder Chen was inscrutable. Instead of trying to divine meaning in that impassiveness, he turned to the two he had not yet interacted with. “It is an honour to see you both awake, Elders.”
+
+Elder Shou snorted, while Elder Yukong’s eyes narrowed slightly.
+
+“Well… it was simply time to come out of seclusion,” Elder Shou said, shrugging.
+
+“The state of the Sect was appalling,” Yukong stated simply. “Inattention nearly had it end in disaster.”
+
+Shou grunted again. “So many things left to fall to the wayside… but I suppose it's our fault in some ways.” The admission looked like it physically pained him, before he shook his head. “But enough about that. How is that bastard doing, eh? We don’t have to prepare for a sword to cut our mountain in two?”
+
+And thus, Lu Ri recounted his dealings with Shen Yu, his grandson, and his grandson's newfound sect.
+
+==========================
+
+When he finished his tale, the room was warmer and the mood lighter. Elder Ge sat back with a satisfied smile. Even Elder Chen looked a bit less worried.
+
+“So… everything has been resolved,” he said.
+
+“I believe so, Elder Ge. Shen Yu has found his grandson in good health, and neither blame our Cloudy Sword Sect.”
+
+“Well, at least that is some good news. The whispers of demons in the north is worrying, but if Shen Yu is to personally be looking into the matter then we can only sit back and wait.”
+
+There were nods at the declaration.
+
+“And… what does Jin Rou wish to be done with the man who maimed him?” Elder Yukong asked.
+
+“He, and Master Shen, trust the Cloudy Sword Sect to dispense fitting justice—Rou Jin does not wish to ever hear of him again, and does not wish for any more resources to be wasted upon him. He holds no grudge with the boy’s family. In his own words, ‘This ends here.’”
+
+Elder Yukong looked vaguely amused. “How embarrassing for our Sect, that a boy must allow us to gain face.”
+
+“Ha! Temperance and restraint from a boy raised by that bastard? I thought you said he was trying to build another one of himself.” Elder Shou slapped his knee. “What say you of this, boy?”
+
+All eyes turned to Elder Chen at the statement. The man looked both resigned, and slightly hopeful at the same time. The fate of his entire bloodline had hung in the balance, and been spared. “This Elder of the Cloudy Sword Sect can only thank Shen Yu’s Grandson for his magnanimity.”
+
+One dead instead of hundreds. Mercy abound, indeed.
+
+“Excellent,” Elder Ge declared. “The culprit shall be disposed of tonight, then. Now, what of Rou’s attitude towards our reparations?”
+
+“He is amenable to the Cloudy Sword Sect’s offer of restitution, and is fine with ties to our Sect. Indeed, he has even offered to supply us with Lowly Spiritual Herbs—
+
+“Lowly Spiritual Herbs?! Shen Yu’s blasted name for the Seven Fragrance Jewel Herbs stuck?!” Elder Shou demanded, looking like he was about to spit blood. The sky rumbled as his Qi flared. Elder Ran and Elder Ge looked half amused and half guilty. “The Seven Fragrance Jewel Herbs are a marvel! The best herbs for any cultivator in the Spiritual Realm, and he called them ‘Lowly Spiritual Herbs’?!”
+
+“To be fair, you were being an annoying bastard about how amazing they were,” Elder Ran muttered.
+
+Li Ri blinked. They called them Lowly Spiritual Herbs because Elder Shou had been annoying about plants? It was quite… childish, but from what he knew of Shen Yu it fit. It was more surprising his Elders had gone along with it—and then Lu Ri noticed Elder Ran staring at Elder Ge, who looked entirely too innocent.
+
+Elder Yukong’s hand grasped Shou’s as the woman rubbed circles on the back of his hand. As soon as the rage came, it went, the Elder grumbling.
+
+“… I have some samples, Elder Shou.”
+
+The Elder waved his hand. “Well, let's see them then.”
+
+Lu Ri took one of the samples out from the storage ring.
+
+Every Elder’s eyes locked on to the Lowly—Seven Fragrance Jewel Herb. The iridescent sheen. The seven fragrances. The vital Qi wafting off them. High criteria met and exceeded with each aspect of the herbs examined.
+
+“Oh my… we lost something quite good, didn’t we?” Elder Yukong said mildly. Elder Shou looked apoplectic.
+
+“Screw Shen. I would have taken him,” the Elder grumbled. “Buy all of them. I will gift him some seeds from some of the other plants. If he can grow those like he grew these…”
+
+Lu Ri nodded. “I do believe that that will be the case.”
+
+Elder Ge plucked a sprig from Lu Ri’s hand and took a breath. “This is fine material. We shall indeed be pleased with such a supply. Is there anything else he desires?”
+
+“A protective formation around a village, and a guard detail—as part of the settlement between our Cloudy Sword Sect… and for services rendered.”
+
+“‘Services rendered’?” Elder Ge asked, curiosity piqued twice over.
+
+“Yes. The House of Hong and Lin Bao have something for the Cloudy Sword Sect… and indeed for the Empire as a whole.”
+
+Lu Ri activated his storage ring and retrieved a scroll given to him by Hong Xian. A scroll with a formation on it.
+
+“Hong Xian, Lin Bao, and Hong Meiling have perfected a formula that will be of great aid in combating the Enemy.”
+
+=================================
+
+It took the Elders mere minutes to decipher the formation and dissect it. Elder Yukong had produced reams of paper already, her brush moving so fast it was a blur. Elder Shou was handing her more paper, and absently keeping her ink at the best consistency for her writing.
+
+“An interesting piece,” Elder Shou declared. “Normally, Demonic Qi is destroyed outright rather than removed like this, because dragging it out of the body using Qi can infect the Qi of the person performing the procedure, in addition to the corrosive, toxic waste. But routing it through metal, with a source of Qi, and into water… I shall have to study this more. Especially this word—osmosis. Is this what people are calling the tendency for liquids to move from high concentrations to low concentrations these days?”
+
+“It appears so.” Elder Yukong’s brush was still dancing. “The most fascinating thing is the scalability. Different metals and reagents produce stronger effects. Mass production is simple. We can use premade sealing papers, with the wire and the herbs necessary contained in one package. Press the formation paper to the affected area—the result would be automatic, instantaneous. It is indeed a powerful tool in combating the Enemy, until they learn of it and develop countermeasures. And even then, the formulas can still be repurposed to work on most venoms and poisons. The principles behind the formation alone… they open up new venues for study and research.”
+
+Elder Ran was frowning as he looked upon the formation. “I do not know what is more unbelievable. That this came from the Azure Hills, or that mortals made this.”
+
+“Kowtow to the mortal who enlightens you. Disdain the barbarian who knows only the strength of his arm,” Elder Ge recited. “As always, the wisdom of the Founders is superior to our own. I shall have a detail scour the Archives. All of them, if need be.”
+
+“We could restart the Trials,” Elder Chen put forward tentatively. All attention turned to him. “In the time of the Founders, when the Scholars ruled the Crimson Crucible, the Trials were open to mortals as well. This practise was stopped after the Age of Heroes, around the same time that the entry requirements for the Sect were raised to include cultivation ability.”
+
+Elder Ge looked thoughtful. “An idea that shall be discussed further—but a good one, Elder Chen.”
+
+“Who would have thought this matter would end up like this?” Elder Shou asked, looking at the formation. “I could use this. It needs a few tweaks, but… it is useful.”
+
+“It is indeed a boon to the Empire,” Elder Yukong said before she stopped writing for a moment, her eyes sharp and focused. “They have asked for a ward? One shall be prepared—I shall see to it personally.”
+
+“A ward is insufficient,” Elder Ge stated bluntly. “This Elder Ge, puts forward the motion to have Hong Xian, Hong Meiling, and Lin Bao added to the rolls as Honoured Allies and Affiliates of the Cloudy Sword Sect.”
+
+Lu Ri paused at the declaration. Such a title was not given out lightly—having the Cloudy Sword Sect as an ally was no small thing when it was a personal friendship. To be named an Official Ally? Attacking them would be akin to raising one’s hand against both the Cloudy Sword Sect—and the mortal administration of Crimson Crucible City, including the mortal army. The mortal army that had access to Jade Armors.
+
+If the Hong Family or Lin Bao ever ask for a guard, then an entire cadre of disciples could descend to stand watch over the boundaries of the village of Hong Yaowu.
+
+However, that would most certainly attract attention. Attention Rou Jin, Shen Yu, the Hong Family, and his good friend, the Lord Magistrate, did not desire.
+
+“Forgive this Lu Ri for interrupting, Elders. But he thinks discretion would be appreciated by Rou Jin and the Hong family. Instead of the normal compliment of disciples, this Disciple will volunteer himself for a period of twenty years to begin with, to complete the formation and serve as the guardian they have requested.”
+
+The Elders paused in their planning, but after a moment Elder Ge nodded.
+
+“Then We shall abide by this request. Senior Disciple Lu Ri, you shall be instructed in how to set up the formation Elder Yukong devises, and then you shall guard the village of our Honoured Allies for a period of twenty years to start with. Do you accept this charge?”
+
+Lu Ri bowed his head. “I do.”
+
+=====================================
+
+It took the better part of a month for the formation to be made to Elder Yukong’s liking. Lu Ri trained himself for most of it, meditating deeply upon the nature of the Raging Cloudy Sword Formation.
+
+On other days, he spent time with Senior Sister Yeo Na, using the formation upon her. While not completely curing Senior Sister over the month, it had drastically lessened the pain she was in and that was enough for Lu Ri.
+
+He also had several meetings with… his intended. Xiao Su Ge, granddaughter of Xiao Ge, was certainly a beautiful woman. A Core Disciple of the Cloudy Sword Sect, her cultivation was in the Earth Realm.
+
+But their experiences having tea were awkward affairs, Lu Ri found. The conversation was stilted, but he tried to make it work. He was a dutiful son of the Cloudy Sword Sect, after all.
+
+He was quite happy when it came time to leave, however. He would be returning to a mission he so loved. It would take him perhaps a week to travel back to Hong Yaowu, now that he knew the way, and he would be including a stop at the wonderful teahouse by the waterfall.
+
+He received the treasures that would create the formation, said his farewells, and left—eagerly wondering how far things had progressed in his absence.
+
+==========================
+
+Xaio Su Ge watched her intended go. Her face was cold and indifferent, as all Young Mistresses had to be.
+
+“What do you think of him, Granddaughter?” the clan’s patriarch asked.
+
+“He is acceptable, Grandfather,” she replied, her voice calm as always. “He gets oddly passionate about things. I don’t mind it.”
+
+Her Honoured Grandfather frowned slightly, before shaking his head. “You are dismissed, Granddaughter. You may continue your cultivation.”
+
+She bowed and headed to the Silent Tower, locking herself in her room for some closed door cultivation.
+
+She immediately slammed to her knees, her face turning crimson, and a cold sweat breaking out on her back.
+
+“Oh, heavens he's so handsome and passionate! Oh, Grandfather, thank you for finding me such a nice man~!”
+
+Wait, he liked mail right? Maybe she could send him some letters? Or dress up like one of those uniforms he had shown her?! Maybe even-
+
+Xiao Su Ge slammed down on her emotions, becoming the Young Mistress once more. She had a lot of work to do!
+
+Hail her Grandfather! For the Cloudy Sword Sect!

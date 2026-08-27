@@ -1,0 +1,145 @@
+---
+id: 8a1bc59e-dd4b-58eb-b14f-7b99aa487efe
+page-type-slug: story-chapter-royal-road
+title: "116. First Principles"
+slug: 0116-116-first-principles
+partOf: breaker-of-horizons
+position: 116
+ownLength: 2215
+unit: words
+publishedAt: 2021-06-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/696982/116-first-principles"
+royalRoadId: "696982"
+---
+
+By the time the twins were done talking the sun had already dipped below the treeline, casting long shadows across the tarmac. With Emilia, they returned to the trailer and sat near where Devon had preemptively started preparing dinner in the outdoor kitchen together with Jerric. The warm glow of a small globe light kept the encroaching darkness at bay, creating a little bubble of cosiness. Inside the trailer, Ambrose had sequestered himself inside the trailer in an attempt to experiment and figure out how to hide auric-ambient-flares.
+
+Caden, however, was still standing alone near the road with a little globe light of his own for company. Occasionally, a passing car would flood the area with light and he sometimes caught glimpses of inquisitive faces inside turned in his direction, but they all continued on their way. As the darkness deepened, fewer and fewer cars sped by, until at last the night was completely quiet except for the distant sound of conversation from the trailer.
+
+When the sun's last lingering fingers of light faded from the sky, Caden decided that it was time to head back to the others. His request for help from the augera had been answered in an instant, but he stayed away because he needed the time to sort through the knowledge he had just received. And, more importantly, he needed to come to terms with the implications of what he had just been gifted with.
+
+The augera hadn't taught him how to hide auric-ambient-flares per-se. They had given him a pattern of thought that made hiding auric-ambient-flares possible, but that was simply one small application of it. Even now, after several hours, his subconscious mind was still drawing connections and picking up on faint possibilities.
+
+When he wandered back into the globe light near the trailer, the conversation came to a halt.
+
+"Hey Caden," Devon said, managing to sound cheerful. "Dinner's almost ready. You alright?"
+
+"Yeah, fine," he answered, his throat dry. He cleared it and looked around, his vision supplemented with more information by his arcanic senses. It was a little alarming for him to realise just how much more acute his senses were after his request had been granted.
+
+The twins weren't exactly relaxed, but he could sense a subtle shift in their auric-ambient-flares that indicated there was less tension between the two of them now. Jerric seemed morose, and there was a melancholic twist to his threads that Caden supposed that had to do with how he was probably thinking about what had happened to his mother since Devon and Lynus had brought up the spectre of suicide. Emilia was deep in thought, but her auric-ambient-flare was as clear and serene as a frozen lake, in sharp contrast to the roiling emotions in Devon.
+
+"I'm fine," he repeated, slightly dazed. He took in a bracing breath of the chilly air and turned to Emilia and the twins. "Have you guys been brought up to speed?"
+
+Kevan nodded. "As it stands, if you and Ambrose can't figure out a way to hide our auric-ambient-flares, we've got to take our chances. Now that we've seen how the enemy agents work in combat, we can plan around it and try to hit them hard and fast. There's a good chance we can beat them if we know they're coming, which we do."
+
+"You think it's worth risking engagement with enemy agents?" Caden asked.
+
+"Unless you want to call off this expedition, we have to risk it," Lynus pointed out. "Regardless of whether we have a way to hide, there's always a chance they can crack it, like how they managed to adapt to my method. It's just that if you or Ambrose can hide us, then we've at least got the element of surprise, and maybe a chance of being able to travel completely undetected."
+
+Caden sighed and sat down heavily in an empty chair. "Yep. You're right. Well, the good news is I've got a way."
+
+Everyone looked up in surprise. "You just figured it out like that?" Devon asked, shaking his head in a mixture of awe and disbelief.
+
+"No," Caden smiled mirthlessly. "I got help from the augera."
+
+"How?" Jerric asked, slightly alarmed. "Wouldn't their involvement draw the Fateweavers' attention?"
+
+"It's fine," Caden waved a hand wearily. "Long story, most of which I can't share yet. Anyway, they've given me a way to hide our auric-ambient-flares, so we can keep going."
+
+"What are the practical limits?" Emilia asked, emerging from her reverie.
+
+Caden's brow furrowed as he considered what he had learned. "I... actually don't know. Honestly, it doesn't seem to have any practical limits."
+
+Emilia frowned. "That seems unlikely. If we were in combat, would your concealment keep us completely undetectable even while we were actively manipulating arcana?"
+
+"I think so," Caden said uncertainly. "Honestly, the theoretical framework seems to suggest that, but maybe my implementation will be imperfect and we won't get that result."
+
+"Sounds like we should test it a little, then," Kevan said, glancing at his brother. "Wanna do a simple duel?"
+
+"No," Emilia cut in sharply. "We're out in the open where combat-grade sequences can be easily be noticed in the arcana. There's almost nothing and no one around us for miles. If Caden's method doesn't work in combat, we could be advertising our presence."
+
+"Maybe if you explain it to us, we can figure out what some practical limitations are?" Jerric suggested.
+
+Caden sighed. "It's... not something that the augera want me to share with others yet. And even if I didn't care about that, it's also not something I can explain. The augera sort of just... 'wrote' the knowledge into my mind. I'm still not totally done figuring everything out myself, but I've got enough understanding to make it work even if I don't fully understanding all the mechanics."
+
+Jerric looked troubled and Lynus was clearly unhappy, but Kevan was the one who spoke up. He shrugged. "Well, we don't really need to know. If you can handle the concealment alone, the rest of us can work around it. I guess we'll just try to be as discreet as possible and limit our use of arcana, just to be safe."
+
+"What about artefacts?" Emilia asked, glancing at the trailer.
+
+"We don't need to be that cautious," Caden said. "I'm not sure about how it works in active combat yet, but I'm pretty sure we'll be covered outside of combat if we stick to artefacts and our non-combat sequences."
+
+It was Emilia's turn to look troubled. "If you cannot explain the mechanics and give us clearly defined practical limitations, it seems best to err on the side of caution."
+
+"I get that," Caden conceded. "How about this — I'll run some small experiments with Ambrose to see how much arcana we can safely use without being detected. We'll do it before we leave tomorrow, so even if we leave some traces, we'll be gone by the time anyone comes to check it out."
+
+"Good idea," Jerric said approvingly. Emilia thought it over, then nodded as well.
+
+"Alright. I'll go talk it over with him now," Caden said, getting to his feet.
+
+The trailer was completely dark inside. Caden felt a momentary pang of alarm since it seemed like Ambrose had run off somewhere, but he relaxed when he picked up on Ambrose's presence a moment later. He was lying on one of the bunk beds and as Caden drew closer, a little globe light sprang into existence so that the place was now dimly lit.
+
+"You figured it out," Ambrose said, still staring up at the ceiling. His globe light drifted lazily in small circles over him. "Or rather, the augera helped you."
+
+"You can tell?" Caden asked, a little surprised.
+
+"Just a guess. There's something different about you. Don't know how to phrase it. Your auric-ambient-flare is the same, but its... its 'resonance' is changed somehow."
+
+"Makes sense," Caden muttered, running a hand through his hair. He sat down on the bunk facing Ambrose. "Did you manage to come up with something?"
+
+"No," Ambrose answered, finally turning his head so he could look at Caden. "I don't suppose you'll tell me how we can do it?"
+
+"I would if I could," Caden said, looking closely at Ambrose. "Is something wrong?"
+
+"I think I'm a little slow here, but it only just occurred to me that if you're going to champion the augera and free them, then at some point the Prophecy is going to force me to act against you," Ambrose said quietly.
+
+A heavy silence filled the air. It was something that had occurred to Caden, but it was the kind of thought that he had simply pushed out of his mind because he didn't want to consider it too closely.
+
+"Yep," Caden said at last. "I had thought of that."
+
+"It's really, really obvious, and I don't know why I didn't think of it until earlier, after Lynus talked about being forced to do things he didn't want to," Ambrose said, looking up at the ceiling again. "So when did you realise?"
+
+Caden leaned forward and sighed, trying to think back. "I think maybe back when we all just learned about the augera wanting to be free. We all started talking about me being a catalyst that might allow you to be the one who decides to free the augera, and that's definitely possible, so that's the thing I focused on. But back then, it did occur to me that it might possibly bring us into conflict."
+
+"Does that bother you?" Ambrose asked.
+
+"Of course it does!" Caden tousled his hair again in frustration. "We're friends, aren't we?"
+
+"Yeah, we are." Ambrose's response was almost too soft to hear. "I'd prefer if it didn't come to that."
+
+"The augera said that they want me to challenge the will-curse-test, whatever that is," Caden said, striving to keep his voice even. "They didn't say anything about challenging the Chosen One."
+
+"What if the Chosen One ends up being one obstacle along the way?"
+
+"Is he going to be?" Caden asked, getting to his feet and standing over Ambrose so he could look him directly in the eye. "Do you know something about it? Is it a knot of some kind?"
+
+"I don't know," Ambrose said, turning his face away.
+
+"Ambrose!" Caden grabbed him by the shoulder and pulled him to a sitting position. "If you know, tell me!"
+
+"Why?" Ambrose demanded, suddenly angry. He stood up, threw Caden's hands off, and pushed him back a step. "So you can get a headstart on me?"
+
+"No, you idiot," Caden said, gritting his teeth and repressing the urge to shove Ambrose back. "So I can help you!"
+
+Ambrose stared at him for a moment, then sat back down heavily. "Sorry," he mumbled, looking down at his feet.
+
+Caden didn't trust himself not to say something snarky, so he simply sat down as well, breathing deeply through flared nostrils.
+
+It was a minute or so before Ambrose broke the silence. "You remember you once asked me... if I had a real choice, if I would still want to be the Chosen One?"
+
+"I remember. You said something about how the Prophecy gives your life a purpose, a meaning, a goal."
+
+Ambrose nodded. "When I learned I was the Chosen One, it was the best thing that happened to me. I got a whole new life, and the promise of a future beyond my wildest dreams. Can you imagine what it's like, to learn that you're destined to become a Fateweaver? My path was so clearly marked. And now... now I know what it feels like to have lives in my hands. What it means. What it all comes with. And now I know the stakes a little better, it actually scares me. But so does the alternative of undoing the Prophecy. Because at least with the Prophecy, there's a path. You know?"
+
+"I get it," Caden said heavily. "I don't envy your position. And I'm kinda in the same boat myself, except as far as I know I don't have any prophetic links that will literally force me to do things."
+
+"But that makes all the difference," Ambrose said, looking up at Caden in anguish. "Because at the end of the day, you won't have to live with yourself being twisted to do something you don't want to do. But I will."
+
+"So what does this mean? Are you asking me not to help the augera?" Caden felt his chest tighten in sudden fear.
+
+"N-no." Ambrose looked down at his hands and started twisting them in frustration. "I don't know. All this stuff just occurred to me. All I know is that I don't want us to end up on opposite sides. I'm... I'm afraid the Prophecy might force me to... to..."
+
+Caden stood up, then took a deep breath. "Then teach me," he said.
+
+"What?" Ambrose looked up, a little confused.
+
+"Teach me how to pass knowledge on through the arcana," Caden replied firmly. "Give me what I need to become a Fateweaver, and we'll tear the whole shitty system down together so no one has to fear being twisted by arcanophany to act against their will. Not even the Chosen One."

@@ -1,0 +1,141 @@
+---
+id: 5f83df90-5eab-5f97-92d4-f8aa7a48c354
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 71 - Breaking Expectations"
+slug: 0075-b3-chapter-71-breaking-expectations
+partOf: bookbound-bunny
+position: 75
+ownLength: 2437
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3735927/b3-chapter-71-breaking-expectations"
+royalRoadId: "3735927"
+---
+
+There was a brief delay before announcing the next round, giving the participants a bit of time to recover and the organizers time to decide on the lineup. For both the semifinals and finals, the arena was merged into one large square, giving them more than enough room to maneuver around to their heart's content and go wild with magic.
+
+Lily did overhear one of the bystanders comment that the first-years didn't need the full size, but his friend shot him down, saying they deserved the full stage, even just for show. It really revealed that nobody had high hopes for them, which was a little disappointing, even though she expected it.
+
+Maybe I should have participated… Just to add some unexpected fireworks for those looking down on us.
+
+It was too late now, though, and she didn't doubt that the first years of the interschool tournament would face similar naysayers. There she would try her best to go all out, within reason, a bit of an oxymoron, but that was how she wanted to handle it. Sure, she could summon an inscription and blast away the competition; she had no doubt she could whip something up with enough preparation, thanks to all of Arakil's teachings, but it would probably be the last performance she did if that was the case.
+
+That's something Professor Sylwel would do, and it would end up with me in hot water with the Royal Inquisitors. Better to keep things flashy yet still within reason. Hopefully, that will be enough belief in my glyphs and 'bloodline'.
+
+Finally, the next round was announced, and it immediately caused quite a stir, as the semifinals pitted Thomas vs. Clarrisa and Arthur vs. Hana. The entirety of Zephyrix was utterly livid. Why were their two competitors being forced to eliminate each other, ruining their chances of claiming both second and first place?
+
+The fights were delayed as a result, although not for too long. Either a compromise was reached, or Zephyrix gave up, not wanting to spend too much effort on only the first years. It probably helped that neither Hana nor Arthur was complaining; in fact, the two looked excited to officially duel each other as they both proudly walked up to the stage.
+
+"Who do you think is going to win?" Lotte asked.
+
+Lily was silent for a moment before finally answering, "I want to say Hana just because she's got another bloodline to fall back on, but Arthur seems to have prepared quite a lot for these fights."
+
+"Yeah, he definitely seems to have the fighting spirit. He fully countered Garet, who was one of the favorites of this whole event by the looks of things."
+
+"I wonder what tricks he has planned for Hana…?"
+
+"Good question, hopefully they put on a good show regardless of who wins."
+
+The countdown began, and when the fight began, the two, in perfect unison, both shielded themselves. It was like two opposing mirrors, no doubt the result of the two practicing together tirelessly. After shielding herself with wind, Hana fell back on light magic for her offenses, while Arthur still only had the winds.
+
+Arthur was quickly forced to cast another supportive spell rather than go on the offensive, his magical shield appearing to be a poor match for the penetrating beams of light. Yet thanks to his swift maneuvering, he managed to avoid any blows that would trigger his Ward.
+
+[It's a good thing for Arthur that her spells aren't actually at the speed of light, or he'd have no chance of dodging.] Arakil offhandedly commented during the match, but Lily was too focused to give it much thought.
+
+It was quickly becoming evident that Arthur was on the back foot ever since Hana took the offensive, and it was unclear what strategy, besides survival, he was pursuing. Some of the audience speculated that he was trying to wear her out, but both Lily and Lotte knew full well that he was spending a lot more energy to evade than she was to attack.
+
+"Is it just me, or is he getting faster?" Lotte suddenly asked.
+
+Lily blinked in surprise, and as she stared, she wasn't sure whether her eyes were playing tricks on her or if Arthur was getting faster. She activated her Magesight, and that was when she saw the large amount of magical winds gathering around him.
+
+"Wait… Is that not a shield?" Lily murmured.
+
+"Did he seriously fake a shield spell? That's crazy!" Lotte excitedly exclaimed. "How is that possible? His gestures and presumably the chant were exactly the same as Hana's, or she would've noticed something, right?"
+
+Lily nodded, and the only explanation she could think of was that Arthur had mastered this spell to such a level that he didn't need any gestures or chants. Or, perhaps he had faked half of them and substituted the ones that the two spells shared from the air magic family?
+
+I don't know enough about wind spells to speculate any further. I suppose I can just ask him after the fact.
+
+"I guess this is the difference between splitting your focus and not," Lotte said again, both of their gazes glued to the arena.
+
+Arthur was darting around the ring faster and faster, and at this point, even Hana seemed to notice something was wrong. As spectators, others had a better overall picture, and several more had caught on that Arthur was planning something, yet nobody was sure exactly what it was.
+
+That was until Arthur finally made his move, and it was one that shocked everyone. He charged Hana directly, with his right arm braced as if he was going to use it as a battering ram. As prospective mages, it was highly unorthodox, but there was nothing in the rules that prohibited physical contact, especially given Regarth's association with adventurers.
+
+Hana panicked and tried to stop him, but by then, he had built up too much speed for her to land a hit. Her hand unconsciously reached for her waist, as if trying to pull something from her pouch, but it wasn't there.
+
+She wanted to use a lens! But she must have left her bag behind to stop an accident like this from happening!
+
+Lily wasn't sure whether the lenses were against the rules for this event, but they would have caused quite a commotion due to the controversy surrounding crystals. Lily hadn't realized that Hana had trained so hard for their dungeon explorations that it was something she unconsciously reached for in times of need. It gave Lily a warm feeling to know her friend was so reliant on her, though, considering the scene unfolding before her eyes, she couldn't exactly revel in it.
+
+Arthur's "shield" gathered around his arm and bashed against Hana's own barrier, causing an explosive gust of wind to erupt from the arena. It was like a miniature hurricane had been set off from the two magics colliding, causing debris to scatter and the audience's barrier to rumble. People instinctively shut their eyes or shielded their faces, their hair, clothes, and items being rustled by the escaping zephyr.
+
+"Did he do it!?" Lotte excitedly asked.
+
+"I'm not sure…" Lily replied, unable to see clearly what had happened due to the unsettled dust and dirt.
+
+When things finally cleared, both figures were visible in the arena, with Hana sitting on her behind and Arthur collapsed on his back. Both appeared to be laughing hysterically at what had just transpired.
+
+"Um… I'm not exactly sure who won," Professor Elius finally announced. "Both their Wards were triggered at the exact same time. We might need to ask for the judges to deliberate."
+
+The audience practically erupted at that announcement, with all of them speculating and throwing around their own opinions of who should be declared the victor. The general consensus seemed to be that Arthur won due to being the cause of both Wards triggering. Still, it was shot down by some very vocal opponents who declared that such self-destructive behavior should not be rewarded.
+
+Others pointed out that Arthur was entirely on the back foot against Hana, and even his desperate move was only enough to secure a draw, so she deserved to proceed to the finals. However, the relentless back-and-forth came to a close when a voice suddenly emerged from the stage, magically amplified so the audience could hear.
+
+"I give up, let Hana take the win," Arthur said, his hand raised.
+
+"Are you sure?" Professor Elius asked.
+
+"I'm utterly spent. If I go to the finals, it's going to be a miserable experience. I've got no Mana left, and my legs feel like they are going to fall off."
+
+"Hey, I don't want to win like this!" Hana refuted.
+
+"Then call it a draw between us, but I can't fight in the finals," he insisted.
+
+Hana still didn't seem happy about it, but it looked like the ones in charge were delighted to have an easy solution arrive at their doorstep and readily accepted Arthur's surrender. He had to be helped off the stage, as his legs felt like jelly when he tried to stand up, though many weren't sure whether it was real or he was faking it.
+
+One thing was for certain, though, the people who had been dismissive of the first year's performance had quickly changed their tune after such an exciting match. Draws weren't unheard of when it came to using Wards, but never through such an intentional, self-destructive method. At the same time, now that the winner was already decided, more people began to sing praises for Arthur's performance, such as mentioning his ingenuity and quick thinking for getting out of a perilous situation.
+
+"I wonder if the last two matches will be as good," Lotte commented, now calmed down.
+
+"The finals should hopefully be good. Hana is probably fired up after Arthur passed the torch to her," Lily replied. "As for the next one, I'm not sure… I want to say Thomas will win, but I really have no idea what Clarissa can do."
+
+"She's only thrown rocks so far, and I don't think she can dodge lightning," Lotte replied.
+
+"What if she makes a rock wall?"
+
+"I guess that's true… Although she hasn't shown that yet. Then again, we also haven't seen what her plant magic can do. Maybe she can summon a tree to block the lightning?"
+
+Lily could only shrug her shoulders in response. It was a big mystery, although the arena itself certainly didn't lend itself well to growing plants. If they were fighting in the forest, Clarissa would have an undeniable advantage, but at the moment, things seemed to be leaning in Thomas' favor.
+
+The two walked onto the stage, and the difference between them couldn't be more apparent. One was just a simple human boy, a little on the scruffy side, while the other was from a noble lineage of Equinia, with not even a hair out of place. Before the match even started, there seemed to be a presumption among the spectators that Clarissa deserved to win.
+
+As for the two on stage, Lily wasn't sure, but she felt there was this strange awkwardness between them. She didn't really know Clarissa well enough, but she'd spent a lot of time around Thomas, especially during the camping trip, and he normally didn't fidget this much.
+
+Is he nervous because of the audience?
+
+It felt a bit out of character for Thomas, as he usually maintained meticulous focus on any activity. If he could stare down the dryad sending monsters to fight them, why couldn't he handle being the focus in a relatively small tournament like this? However, Lily didn't have too long to ponder the matter as Professor Elius began the countdown and the match began.
+
+Both began chanting as soon as it started, and Lily's concerns were brushed to the back of her mind, as Thomas didn't appear to miss a beat. Yet as they continued to chant for what she assumed was a bit longer than normal, she couldn't shake the feeling that something was wrong.
+
+Moments before Thomas concluded his spell, Clarissa beat him to the punch, and a spire of rock burst from the ground. Thomas' bolt of lightning fired off, only to be intercepted by the protruding rock and, surprisingly, not destroy it. He quickly went into another, much shorter chant, but with Clarissa practically hugging the rock spire as it continued to protect her, it seemed he was unable to trigger her Ward.
+
+Still, regardless of its ineffectiveness, the audience was certainly exclaiming excitedly with each bolt, as it wasn't every day that you'd see such a fresh-faced student using lightning magic, which packed quite the punch.
+
+From behind her protective rock, Clarissa began launching projectiles at Thomas, but whether due to his own awareness or her lack of accuracy from hiding behind the shield, none of them met their mark. The two continued trading spells back and forth, with Clarissa maintaining her defensive position while Thomas was forced to keep moving with the rocks beginning to pile up around him.
+
+Compared to the previous match, it was much less exciting, except for the momentary flashes when a bolt of lightning streaked across the arena. Every time Thomas launched a spell, the audience would almost collectively hold their breath as if expecting it to finally break the rock spire. Yet, strangely, that didn't seem to happen, leaving the audience, especially Lily and Lotte, confused.
+
+"Does it seem less impactful than normal?" Lily asked.
+
+"I'm glad you said something, I was wondering if there was a problem with my eyes…" Lotte replied, shaking her head.
+
+But before they could continue their conversation, the situation in the arena changed. From behind and hidden in the rubble, something green emerged like a slithering snake, and Thomas, entirely caught off guard, was suddenly apprehended. It looked to be some kind of vine, and it wrapped itself around his legs and most of his lower torso.
+
+Thomas was squirming, trying to break free, when a rock was suddenly lobbed at him. His struggles abruptly stopped, and he seemed to accept his fate as the rock struck him, triggering his Ward and declaring his defeat.
+
+The crowd erupted in cheers, not expecting such an end to the relentless back and forth between the two. However, while the crowd was celebrating, the two girls glanced at each other, sharing a perplexed look.
+
+"What just happened?" Lotte asked. "Did Thomas hold back?"
+
+"I'm not sure…" Lily admitted. "But I think you might be right."

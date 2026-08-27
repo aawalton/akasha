@@ -1,0 +1,143 @@
+---
+id: 83ab64c4-a331-59a7-886a-f6c9f10c7a8e
+page-type-slug: story-chapter-royal-road
+title: "v7c6: Growing Around a Thistle"
+slug: 0259-v7c6-growing-around-a-thistle
+partOf: beware-of-chicken
+position: 259
+ownLength: 2098
+unit: words
+ownProgress: 2098
+publishedAt: 2025-11-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2802358/v7c6-growing-around-a-thistle"
+royalRoadId: "2802358"
+markedReadAt: "2026-06-29T19:00:17.896Z"
+---
+
+“So, you’re going then?” Meiling asked Gou Ren under the early dawn light. Their breath was visible in the air on this cold, damp morning, but the sun was steadily warming the earth.
+
+All of the Azure Heroes were packed… as was Gou Ren. He’d be heading south to be introduced to the Misty Lake Sect as Xianghua’s husband. A possibly dangerous position, from enemies within and without the sect.
+
+“Yeah, I am,” Gou Ren said, bending down slightly to embrace her, mindful of Zhuye who was bundled against her back. Gou Ren was her little brother in a lot of ways, and she worried for him. But… as she hugged him, she could feel how broad his shoulders were. “A man’s got to do things for himself.”
+
+She chuckled at the statement. She pulled back and took a good look at him. His once black hair was tinted with gold, his canines were longer, and his tail was wrapped around his waist; they were drastic changes, but they also looked… natural on him. The monkey tribe seemed to think so, and Gou Ren would also be going to Crystal Hill to see if he could get his transformation under control. Not that anybody who cared actually minded, and Xianghua was only too happy to boast about Gou Ren’s similarities to the Great Sage Wukong.
+
+“You’re right. A man does have things he has to do for himself. And my little brother is indeed a man,” she said, cupping his face. Gou Ren’s eyes widened at her acknowledgement and trust. And she did trust him. Gou Ren might complain and had an impulsive streak… but Meiling trusted the Xong brothers with her life. “Remember, only your Elder Siblings are allowed to bully you. Everyone else gets poison, or Meihua’s slipper.”
+
+Gou Ren laughed, but it was accompanied by a shudder. Meiling’s pranks, dyes, and itching powders had been threats, but she took care to never make things more than a mild inconvenience; a delayed kind of punishment.
+
+Meihua running them down with one of her shoes in hand was a rather more vivid image. The dainty princess of Hong Yaowu reminded everyone of the fact that she was a blacksmith’s daughter whenever she was pushed too far—and butts made for her anvil.
+
+“I think I’ll just settle for beating the crap out of anybody who tries shit,” Gou Ren said. “I’ll do less damage than the two of you.”
+
+Yun Ren laughed and clapped his little brother on the shoulder. “If he needs backup I get first dibs. They’ll be humbled by this Young Master,” he said pompously. The sword at his waist rattled in agreement.
+
+“And that's overkill too,” Gou Ren deadpanned. “I don’t think hitting them and their descendants for nine generations with a fox curse is going to help…”
+
+It was easy to forget that, despite the fact that they seemed down on their luck, the foxes of Smoky River could steal the title of “Strongest Sect in the Azure Hills” without breaking a sweat if they cared to. Miss Yuanlin alone could savage the entire stock of Sect Elders. If anything happened to the “Young Master’s” little brother, there would be a reckoning.
+
+“Right, shit. Forgot that would probably happen,” Yun Ren muttered, before shaking his head. “Well, good luck riding solo, little bro!”
+
+Gou Ren rolled his eyes at the chipper, flippant words. “Just do everything I wrote down for you, and it'll all be good.”
+
+Yun Ren snorted. Meiling had seen the rather hefty scroll Gou Ren had written down for Yun about how to properly do all the duties Gou Ren normally did here. Yun Ren and Biyu would be staying here for at least as long as Jin and Meiling remained in the Azure Hills.
+
+“Don’t worry, they won't even know you left,” Yun Ren said, puffing out his chest.
+
+“We will. Please return soon, Young Sir,” Pi Pa interjected, flanking Yun Ren and striking with a devastating blow. The elder brother spluttered, while Gou Ren was embraced by the pink-haired woman. She had a little smile on her own face.
+
+“Wha—you’ll see! I can do just as good of a job as him!” Yun Ren declared. Meiling caught Pi Pa’s little smirk, her goading having its desired effect.
+
+She ignored him, however, to focus on Gou Ren. She and Chun Ke had lived with him for nearly three years, and Gou Ren had designed the house they lived in around making things more convenient for their animal forms—and there was a pop as Pi Pa returned to her natural form. The pink pig bowed, the picture of elegance. “It has been my greatest pleasure serving you, Young Sir. I look forward to doing so again.”
+
+Chun Ke, in his boar form, chuffed in agreement and nosed Gou Ren’s fingers.
+
+Gou Ren looked away, embarrassed and touched. “Come on, guys! It's not like I’ll be gone long!”
+
+Meiling just watched on with a smile. Arms wrapped around her waist, and she looked up to see Xiulan.
+
+“Don’t worry. My junior brother is better at making friends than you are,” the other woman said, her voice entirely too chipper.
+
+“Yeah, I kno—” Meiling paused as the insult registered. “Oi.”
+
+Xiulan released her, kissed Zhuye on the top of his head, and then danced away from Meiling's retaliatory swipes, giggling merrily. She even went so far as to hide behind Jin, using her husband as a shield from righteous retribution.
+
+The sweet moments could not last forever, though. Soon enough the final goodbye hugs were given and received, and the Azure Heroes set off.
+
+It was getting easier to watch them go, Meiling mused, waving to her friends while they walked away. They all marched forth with confidence and purpose, ready for whatever the world threw at them. She knew they would return, safe and sound… or at the worst, not too banged up for her to fix.
+
+That, at least, soothed most of the worries. Even Zhuye seemed to be getting used to his sister, his aunt, and the others who would bounce him up and down or make funny faces at him leaving—Rags was most adept at making Zhuye laugh. The rough-looking man was surprisingly good with children.
+
+Her son had no tears this time. Just a look of mild concern and confusion, one hand hesitantly raised like everybody else’s. But since nobody else was crying or upset, he seemed to be fine with it.
+
+“Jiejie!” he shouted after them. Sister. Tigu’s steps hitched for just a moment. It was rather cute how much her son and adopted daughter got along. “Ji! Jie!”
+
+It obviously took quite a bit of effort for Tigu not to turn around and race back to give Zhuye another hug. Instead, she turned around and waved. “Bye bye, little brother! See you soon!”
+
+==========================================
+
+Perhaps another reason why Zhuye was less sad was the fact that the house was less empty. While the Azure Heroes and Gou Ren had left, there were still others who remained… including Zhuye’s favourite morning wakeup call.
+
+Bi De’s presence certainly made the mornings more bearable for her son.
+
+But the work of spring didn’t stop just because there were fewer of them. It continued, and all who remained contributed.
+
+Jin took the lead as he always did. Meiling loved watching him work, and it was not just because he was often without a shirt.
+
+He just looked so content. He was in his element, and he was their chief and guide. He never needed to raise his voice. All of his commands were polite requests. But everyone knew to follow his vision, as the land flourished and bloomed around him.
+
+Bi De, in his human form, was equally as happy. His eyes closed and a small smile on his face, he delighted in using the hoes and shovels, or even his hands, to work the earth. He watched Jin, and how he moved, and listened well when her husband talked at length about compost and soil drainage. He really did look like a son learning from his father, the two of them working shoulder to shoulder in beautiful synchrony.
+
+Chun Ke, Pi Pa, Wa Shi, and Bei Be knew their roles well by this point and needed no direction. Yun Ren followed Gou Ren’s guide, the Elder Brother proving his words that they would not notice the difference between them mostly right—the work was nearly the same, but Gou Ren himself was missed.
+
+Meiling and Ri Zu tended to their herb gardens and the medicine shed. It was so good to have her apprentice back, and the two of them took great joy in discussing herbs and healing techniques while they tended to the plants. They shot each other obscure medical questions, or talked about the plot in that scroll the foxes had given them—a series of stories from the Howling Fang Mountains.
+
+Biyu joined them, using her efforts as the physical training she was still lacking. Watching the slim, owlish woman haul around great stones on her back and wrists, copying Jin’s Ahni Mei training, was pretty funny. She ended every day exhausted—but a bit less exhausted than the last. And when she took the weights off and jumped, she crested the trees. Only to immediately unbalance and fall screaming and flailing into the river.
+
+Even Shen Yu helped, the old cultivator concentrating intently while he farmed, his focus clearly on the earth.
+
+What he thought about what was happening he kept to himself, however, even while Meiling helped tend to his injuries. She normally tended to him while Jin, Bi De, Bei Be, and Shen Yu sat together and practised calligraphy; their one small distraction at the end of the day.
+
+And so the days passed in a blur of work.
+
+====================
+
+Some days, their presence was requested by the Lord Magistrate.
+
+Bowu had to oversee the implementation of his Bowu Machines; the first of Jin’s subsidies granted to farmers, who watched with shock and awe as their fields were tilled in hours without the backbreaking labour. They spluttered and roared and puffed, trundling forward relentlessly.
+
+There was still an issue with some of them breaking down… but the breakdowns seemed to increase the farmers’ opinion of them.
+
+Their breaking paradoxically made them more accepted by the villagers. Even though they had seen the demonstrations, they were still a bit wary. But when something snapped, or the furnace sputtered to a halt, it meant that they were not perfect cultivator magic, but fallible, mortal things just like they were.
+
+When they broke, and Bowu narrated his repairs of them, they were suddenly understandable.
+
+And even if they did break, getting a field half-plowed was still better than having to do the whole thing yourself.
+
+Though it was also very amusing to watch people treat the machine like a prized ox or horse, patting the red casing’s side and whispering praises and encouragements to it when it started up again.
+
+“I think the Young Master will need some more assistants if he wishes to keep up with demand,” the Lord Magistrate declared.
+
+He most certainly wasn’t wrong.
+
+========================
+
+They worked from sun up until sun down. They gave to the earth until they were exhausted. They ate well of spring’s bounty, of Meiling’s favourite mushrooms and fiddleheads.
+
+They felled trees, they carried water, they broke rocks, they tilled the land, and they sowed seeds.
+
+When night fell, Meiling fell asleep in Jin’s arms, the sound of his and Zhuye’s breathing the sweetest lullaby.
+
+Then they did it all over again the next day.
+
+It was simple, and it was beautiful.
+
+And yet, there was a sense of anticipation. For in the night, their conversations drifted to the supplies they would need, the places they would visit… and who would be staying to take care of the farm while she and Jin ventured south.
+
+It would not be time for at least a month or two. But it still provoked anxiety and excitement in equal measure.
+
+For the first time since that one fateful trip ten years ago, where Meiling had seen a cultivator kill a child for dirtying his robes, she would be travelling south.
+
+It was an unnerving thought, to once more go to Pale Moon Lake City, but she knew that nothing like what she had experienced there would ever happen within her sight again. She wouldn't stand for it. None of them would.
+
+But for now… she had work to do, and neighbours to help.

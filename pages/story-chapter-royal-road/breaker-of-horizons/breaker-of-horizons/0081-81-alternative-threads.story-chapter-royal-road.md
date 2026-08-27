@@ -1,0 +1,109 @@
+---
+id: 36f3e2cf-d7eb-52e5-8ea0-22aefa34e329
+page-type-slug: story-chapter-royal-road
+title: "81. Alternative Threads"
+slug: 0081-81-alternative-threads
+partOf: breaker-of-horizons
+position: 81
+ownLength: 2088
+unit: words
+publishedAt: 2021-02-08
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/628065/81-alternative-threads"
+royalRoadId: "628065"
+---
+
+It was surprisingly easy for Jerric to make practical use of the theory he had only recently formed about arcanic spaces.
+
+He had to thank Devon for it since it was inspired by the improvised bubble that Devon had based on their anti-ensorcelment sequence. The strange fact that it had worked to help them both navigate the arcanic space instead of being overwhelmed by their own thoughts and emotions had gotten him to examine his own consciousness a little more carefully.
+
+At first, he wondered if the Spire augera had performed something analogous to ensorcelment in order to magnify their awareness of their own auric-ambient-flares. But that didn't seem to fit, because ensorcelment as he understood it involved wrapping an impulse of some sort with an emotional trigger. What was happening in the arcanic space now seemed too chaotic to be a form of ensorcelment, since they were dropping off into their memories without any specific impulse.
+
+So even as he had been floating along with Devon, making ingress through Kevan's auric-ambient-flare, the gears of his mind were turning it over.
+
+The realisation came when Devon fell into Kevan's memory and Jerric had to pull him out by duplicating the improvised bubble and layering it over the one that Devon had already wrapped himself in.
+
+The improvised bubble helped, not because this was some sort of ensorcelment, but because their anti-ensorcelment sequence involved a few self-referential portions. It was meant to maintain the 'shape' of one's auric-ambient-flare in order to resist outside manipulation. So here, whether in one's own auric-ambient-flare or in someone else's, it served to protect one's consciousness against any outside influence as well.
+
+That, he theorised, meant that it was entirely possible to co-opt the process of how the memories were snaring their consciousness, and then use it to build a perceptual space to work in.
+
+It was extremely risky to try this on Kevan, but the gamble had paid off. He had put together a slapdash sequence built around the glyph of transmutation, hoping that if he simply focused strongly enough on his conceptualization of that process, he would be able to shoehorn it in as a pseudo-glyph and 'transmute' it into a tool he could use to generate a perceptive plane. It had required a great deal of concentration, but once the sequence was activated, the mental strain was lifted and he could focus on freely manipulating the perceptual space he had created.
+
+Since it wasn't even a real space, that meant they couldn't be physically harmed. It would be no more dangerous than thinking back to a painful memory. And as long as he concentrated on the fact that he couldn't be harmed in this perceptual space, then he would even be able to tweak it so that he would perceive no pain at all. Kevan, however, did not possess this privileged information. And to Jerric's delight, the longer he observed, the more he realised that Kevan had difficulties navigating the arcanic space as a disembodied mote. He was too bound to a somatic frame of reference. So when Jerric simply put two bodies identical to their own in the perceptual space, it had been enough to trap Kevan. He had defaulted to confining himself within what he thought was his body when in truth anyone could manipulate the perceptive space.
+
+He was a little worried that Kevan would be too dense to figure out that he could, at least, still invite his own memories into the space. After Jerric asked Kevan to call forth a memory, there was an awkward silence. Kevan simply stood there, glaring.
+
+Jerric was about to offer some suggestions about how he could go about calling forth the relevant memories, but Kevan finally took in a deep breath and experimentally extended a hand. He mimicked what Jerric had done earlier and waved it vaguely through the mist. His brows furrowed for a moment, and then a little sphere coalesced in his hand, with the memory that Jerric had pulled out earlier playing within it.
+
+"That's the memory?" Jerric shot him a quizzical look.
+
+"No." Kevan allowed it to dissipate, closed his eyes, and took in a deep breath. Jerric allowed himself a small, private smile as Kevan fell deeper into the illusion of actually being in his own body.
+
+There was no air in the arcanic space, but Jerric noted how that action seemed to ground Kevan and help him focus. Idly, Jerric wondered if Kevan actually felt any physical relief usually associated with breathing. Would he then feel like he was suffocating if Jerric were to somehow engineer the experience of being deprived of air? That was something to consider for later.
+
+'Jerric.'
+
+It was Devon's mind, making tenuous contact with Jerric. He spent an anxious moment wondering if Kevan had heard it too, but relaxed when it was clear that Kevan was still preoccupied with what was happening in the perceptive space that Jerric had created. He took special care to reply 'softly'.
+
+'Shh. Keep it low, Dev,' he sent.
+
+A little worry leaked back from Devon. 'I don't like the feel of your thoughts. If I say you have to stop, do you promise to listen?'
+
+The question brought a lot of conflicting feelings to the fore. On one hand, he trusted Devon's sense of goodness and there was a part of him that acknowledge, albeit grudgingly, that he should defer to Devon's judgement on what was permissible. On the other hand, this was the most unchartered territory he had ever found in arcanophany. Even after all their trawling in the Academy library, he hadn't found anything described about arcanic spaces like these. For all he knew, he was literally breaking new ground here. It was breathtakingly exciting, and his desire to push the envelope was extremely hard to ignore.
+
+'Jerric,' Devon repeated, a note of warning in his voice now.
+
+'I'll listen,' he relented. 'But you need to give me some benefit of the doubt.'
+
+There was plenty of doubt coming off Devon now, so much so that Jerric worried a little of it might be bleeding through to Kevan despite how both of them had sealed up as much spillage as they could. Devon didn't say anything more, and Jerric understood. He had crossed a line with Devon, and a little of the trust and respect that Devon had for him had been compromised here.
+
+Suddenly, Jerric realised that the mist in the perceptive space, previously almost lacking any olfactory component, became suffused with the tang of raw arcana. A moment of panic gripped him before he mastered himself and remembered that there was literally nothing that Kevan could do here that would harm him. In fact, the sensation of arcana being focused was also entirely illusory in this perceptive space.
+
+So that meant that Kevan had finally figured out how to steer the space a little, at least enough to invoke one of his memories.
+
+Kevan had opened his eyes and was gesturing vaguely before him. An orb coalesced out of the mist as before, and a new memory began playing out within it. Frowning in concentration, he gripped the orb with both hands and pulled. It stretched and ballooned, growing in size until it became large enough for them to step through.
+
+"Come on," Kevan said, looking extremely pleased with himself. He gestured for Jerric to go first.
+
+Jerric sent his illusory body forward, confident that he would be able to manage anything Kevan could toss at him here in this perceptive space of his own creation. He took a moment to carefully note how Kevan had worked with the memory, and was again pleased to see that Kevan had sunk even further into viewing their present space as 'real', since he was acting entirely through the illusion of his own body, without realising that his consciousness was still free to roam the space and even manipulate it without being tethered to it. For the first time, he appreciated how powerful a tool frameshifting was. Because of Kevan's smaller frame of reference, he was entirely locked out of a whole dimension of control and perception.
+
+As soon as Jerric's body went through the orb-turned-portal, Kevan followed. Jerric allowed his consciousness to hover outside for a moment so he could peek into the memory that had been opened, just out of an abundance of caution. Once he was satisfied that it was still really a memory and not some kind of trap by Kevan, he allowed his consciousness to slip through and land in the new perceptive space of the memory.
+
+The two of them had emerged into a familiar scene. It was late afternoon, judging by the light, and the marble wall that encircled the Academy grounds overshadowed them. There was the heavy scent of raw arcana in the air, and it was coming from the twins who were standing in front of the wall, their palms pressed against it.
+
+"What are the two of you doing?" Jerric asked.
+
+"That's what you're here to experience," the Kevan standing next to him answered, grinning. He gestured at his memory-duplicate. "Go ahead. Step into my shoes."
+
+The frown that appeared on Jerric's illusory body was not just for show. There was a touch of worry that he felt now. Kevan was not an idiot, and if he asked for this, that meant he had something up his sleeve. But as far as Jerric could tell, Kevan was still stuck in his somatic-centred perception of this whole arcanic space and the lesser perceptive plane that Jerric had conjured. If there was any danger, it was probably just the danger of being overwhelmed by someone else's memories and thoughts, and being lost in them. However, he was confident that with his current frame of reference and with the help of Devon's improvised bubble, he'd be able to weather any dips into Kevan's psyche. Plus, Devon was still out there, ready to intervene.
+
+He covered the moment of hesitation by glancing at Kevan and shooting him a wry smile. "Maybe after all this, I'll have you step into mine."
+
+"Sure," Kevan shrugged nonchalantly. "If you think it'll change my mind about Caden, I'll be happy to give it a shot. But that comes later."
+
+There was no point delaying. Jerric stepped forward and made tentative contact with the memory-duplicate of Kevan. There was—
+
+—only the slightest tingling that he could feel. Even with all the arcana they had pumped into the air, it was hard to get a clear image of exactly what wards were on the door.
+
+"It's not working," Ly said, frustration clear in his voice.
+
+"It has to," Kevan replied. He felt equally frustrated, but he absolutely refused to believe that the seniors had pulled a prank on them. Something felt right about this.
+
+They channelled even more raw arcana into the wall, flooding it so thoroughly that the air around them had grown heavy with the spillage. Kevan grit his teeth and focused firmly on the glyphs in his head that helped him to maintain an efficient flow so that he didn't suffer from overdraw.
+
+After another two solid minutes of this, the faint outline of a door appeared, overlaid on the marble. A surge of triumphant excitement washed away any sense of weariness, and Kevan quickly employed the sequence that the seniors had taught them. The outline solidified and gained more definition before finally resolving into a solid, ancient wooden door that was set into the previously blank section of the wall.
+
+Lynus gasped, equal parts relief and surprise. "We did it!"
+
+"Of course we did," Kevan grinned. "The principles made sense. We just needed to trust in them."
+
+"Kev..." Lynus had sobered rapidly. "You realise the others–"
+
+"–they don't matter," Kevan snapped again. "Especially not Caden. Not after what he did to me."
+
+"Well, you ensorceled me after that," Lynus said quietly. "That kinda makes you as bad as him."
+
+A shadow passed over Kevan's face as anger, bitterness, and self-loathing rose in equal measure. He clenched his fists, then took in a deep breath and forced himself to relax. He shunted Lynus' remark out of his mind and swapped in the looming concern — following the Academy augera's instructions.
+
+"Yeah, maybe," he muttered. "But we're going to make this right."
+
+And with that, he stepped over the threshold with his brother behind him. Before them, the Academy lake stretched out, golden in the light of the setting sun.

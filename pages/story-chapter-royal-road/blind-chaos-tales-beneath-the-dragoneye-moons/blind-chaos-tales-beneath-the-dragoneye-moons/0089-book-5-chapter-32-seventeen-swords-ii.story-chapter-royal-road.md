@@ -1,0 +1,431 @@
+---
+id: ff25ad38-855d-5741-a583-494669821747
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 32 - Seventeen Swords II"
+slug: 0089-book-5-chapter-32-seventeen-swords-ii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 89
+ownLength: 6479
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3784137/book-5-chapter-32-seventeen-swords-ii"
+royalRoadId: "3784137"
+---
+
+Clover wasn’t in her lap anymore, which was strange—Ranthia didn’t think she’d been in her world within for so long that Clover could have finished both classes. But she still didn’t even bother to open her eyes, instead she checked her notifications and quickly started to read about what had changed. After all, she was a [Mage]-tagged Void user at the moment, and she had no interest in tarrying for a moment longer than she needed to, not even in her own home.
+
+She’d faced enough misfortune in her life; she could do without actively courting her own annihilation.
+
+[*ding!* Congratulations! You have upgraded your first class – [Shards of the Shattered Mirror – Mirror]!]
+
+Okay, “Mirror – Mirror” was a mildly abrasive annoyance that she really should have expected. Eh, it was preferable to how [Knife in the] had used its Dark element. And if nothing else, at least the System had heard her plea.
+
+[*ding!* Congratulations! [Shards of the Shattered Mirror] has leveled from 768 to level 774! Per level: +68 Dexterity, +59 Vitality, +424 Mana, +479 Mana Regeneration, +464 Magic Power, +441 Magic Control from your class, +1 Free Stat for being human, +1 Mana Regeneration and +1 Magic Power from your element.]
+
+[*ding!* [Mirror Spirit] has leveled from 768 to level 774!]
+
+Huzzah, stats and levels—whatever, onto the new stuff!
+
+[*ding!* [Scattered Reflections] has evolved into [Shatter the Mirror]!]
+
+[Shatter the Mirror]: Your images have always served you, even when they should have been nothing more than a delicate curiosity. Instead, they exist as shards of your own potential, scattered around you to actively assist your art. Now take that to a new stage, and shatter the reality that others expect. Create and freely position images anywhere within range, limited by your perception. Alternatively, you may use sufficiently reflective surfaces within that range as the target for this Skill, even if they remain out of sight. Additional images may be generated from the same Skill activation with level. Additional maximum range per level. Additional distance between images simultaneously created per level. Images may be generated at a slightly increased distance from a reflective surface per level.
+
+[*ding!* [Shatter the Mirror] has leveled from 768 to level 774!]
+
+At first blush, the Skill upgrade wasn’t surprising. After all, more than a few of her near visits from Black Crow resulted from [Scattered Reflections] being too slow to keep up with her adversaries. She expected the System to give her a way to generate more images—that part made sense. But being able to use reflective surfaces to create images in locations that were blocked from view? That was unexpected.
+
+At least it finally gave her some practical utility for [Mirror Spirit]’s ability to sense mirrors. Not that she expected to get much use out of the effect—[Divine Eyes in the Void] had done a lot to erase the line-of-sight limitation already.
+
+[*ding!* Your Skills [Echoes Reflected] and [Pure Reflections] have evolved into [Shards of the Perpetual Dancer]!]
+
+[Shards of the Perpetual Dancer]: Lifelike images are only the first step, now make them truly reflect all that makes you unique. Any Mirror image you create will seem more lifelike and follow your every command, down to the smallest details that you provide. And as they reflect you, they will also reflect your System. Attempts to discern the class archetype and level of your Mirror images will return your true result, depending on your respective levels and their capability for circumventing falsehoods. Slightly improved ability to match complex instructions per level.
+
+No, she hadn’t missed that the System still kept the extraneous words from the original class name. But she’d rather have them scattered amongst the Skill names than walk around with a mouthful of a class name. She might not share the names often, but she didn’t want to sound like a pretentious teenager every time she did.
+
+At least the new Skill partially addressed the most obvious flaw to her images. She’d have to find out just how easy the effect was to bypass, but any improvement whatsoever was welcome.
+
+[*ding!* [Shards of the Perpetual Dancer] has leveled from 768 to level 774!]
+
+Good to know the Skill used [Pure Reflections]’ progress instead of [Echoes Reflected]’s lower level. Merged Skills could behave in weird ways.
+
+[*ding!* [Persistent Imagery] has leveled from 768 to level 774!]
+
+No upgrade for [Persistent Imagery], it seemed. Which was probably fair—it wasn’t like she’d taken [Polished Steel]. And honestly, the Skill had kept pace with her levels adequately; it wasn’t like she really needed her images to endure attacks.
+
+[*ding!* [Ideal Reflectance] has evolved into [Latent Reality]!]
+
+[Latent Reality]: Merely reflecting the appearance of your power is insufficient. Now change reality to suit your will. You hereby possess a pool of potential based on your own and may distribute it as you see fit to any Mirror image you create. Note: no single image may surpass eighty percent of your own power. The pool of available potential is increased per level. -13963 Mana Regen Rate.
+
+[*ding!* [Latent Reality] has leveled from 768 to level 774!]
+
+She was looking forward to trying [Latent Reality] out. For too long, she’d been forced to assume that her images would be almost entirely ineffectual, unless the target had defenses that were just as lacking as her own—or was significantly weaker than she was. But at long last, they would be… well, not her equals, but their knives would be able to draw blood from most adversaries!
+
+[*ding!* [Distorted Likeness] has evolved into [Twisted Reflection]!]
+
+[Twisted Reflection]: A subtle imperfection in or change made to a mirror can alter the resulting image significantly. Control those changes and you may even create wholly new images to reflect. Note: images that deviate too far from your true form may be incompatible with other Skills. Memory Skills may interface with this Skill to utilize existing designs. More dramatic modifications possible with level.
+
+Huh, she really hadn’t expected [Distorted Likeness] to upgrade—she would’ve assumed that was gated behind [Fractal Chaos]. Still, at least according to the description, it didn’t sound like anything significant had changed, except perhaps it might be able to connect directly to [Immortal Armaments] as well as [Image Recall].
+
+…Wait, wouldn’t that render [Image Recall] entirely superfluous? She’d definitely have to experiment with that later.
+
+[*ding!* [Reflections of Reality] has evolved into [Manifest Chaos]!]
+
+[Manifest Chaos]: Amongst the nearly identical dancers, which one is truly you? Whichever you wish, of course. Choose any Mirror image that you create that is sufficiently similar to your true self and make it your true body permanently, converting your current body to a mere Mirror image. All items, beneficial effects, and enchantments on your person are transferred as well, to an extent. The activation process for this Skill becomes faster with level. Improved range per level.
+
+She took the briefest of moments to cool her own excitement. It was unlikely that [Manifest Chaos] erased every last issue she had with [Reflections of Reality]. Both Skills referenced the speed that had long haunted her, but yes, she would absolutely take anything that helped. And she was downright excited to test just how effectively Skill gems and enchantments transferred—not that she had a good source for either without Avyna.
+
+[*ding!* You have unlocked the Class Skill [Reflective Source]!]
+
+[Reflective Source]: A mirror has a thousand and twenty-four uses—and perhaps more for you. Conjure the perfect mirror at will and dismiss it just as easily. Increased maximum surface area, increased complexity of shape and form per level, and increased durability per level.
+
+Okay, that actually had some potential. The Skill definitely explained the unexpected language in her [Shatter the Mirror] Skill—and its name, for that matter. Sure, she had never had much interest in [Mirror Conjuration], but the ability to make complex shapes and forms…?
+
+Well, she’d happily take yet another way to never be knifeless.
+
+[*ding!* You have unlocked the Class Skill [Unlucky Gaze]! Would you like to replace a Skill?]
+
+[Unlucky Gaze]: A look might not kill, but some expressions or visages may still inflict harm. You may choose to shatter any mirror that you can see. Increased efficiency and improved control over how they break with level.
+
+That was far from the most exciting Skill. She had time to change her mind after she classed up again, but she was pretty sure she was going to let it fade away.
+
+[*ding!* [Submind] and [Fast Learner] have leveled from 768 to level 774!]
+
+She needed time to experiment with the changes and new Skills to figure out their full metes and bounds, but she’d reviewed what she could. A few seconds with a [Mage] tag showing was about the limit of her tolerance. And with that thought, she triggered the class up for her second class.
+
+…Wait, why hadn’t her [Companion Bond] leveled alongside her other General Skills?
+
+“What in Xaoc’s name is that ridiculously stubborn bunny doing?!” Ranthia complained once she manifested in the temple armory once again.
+
+“It is always such a pleasure to see you again, especially since you possess truly impeccable manners regarding how you greet others.” Her guide sassed, offering Ranthia a frosty look.
+
+“Yeah, yeah. I come face-to-face with myself pretty much every day and most nights; you’re nothing special.” Ranthia offered her annoyed counterpart an incorrigible grin and finally approached the counter. “I’d offer a kiss to make up for my lack of kindness, but I already know that you’d refuse my generosity. So cruel! Heartbroken, I must turn to the cold simplicity of what I’m here for, in a pale effort to distract myself.
+
+“This time I’m thinking similar restrictions as last time—no significant sidegrades that would take away my dancing focus or specialization in knives, no element changes, or anything that would take away [Divine Eyes in the Void] or [True Grace]. Oh, and no absorbing [Submind]. Or [Immortal Armaments], for that matter. Past that… hm. Nothing super-specialized for specific opponents. I’d prefer to never have to raise a blade against a shimagu again, and it’s not like I’m going to be a full time [Wyvern Hunter] or anything. Please.”
+
+“Fine, so long as you behave.” Her guide replied primly.
+
+The woman was technically her, so she wasn’t entirely sure why she had such an antagonistic relationship with her. Her [Mind Healer] probably could have said a lot about it, had Ranthia ever actually told her. But she hadn’t, and she truly didn’t hate the dynamic they’d established. It was kind of… refreshing to have someone—other than the barkeep—that had a low tolerance for her antics. She knew that her guide would never humor her, which made it all the more entertaining to tease… herself.
+
+Eh, there was a coherent point somewhere in there.
+
+“Ranthia.”
+
+She had heard a wide range of emotions from her guide throughout their oft-brief encounters. Annoyance, judgmental loathing, and stiff business-like politeness for the most part. But never breathless excitement. Never until that moment.
+
+She watched the woman carefully lower the sword she was carrying, as though it might break if she was too rough with it. And when she moved her hand from the hilt, she revealed wrapping in a color that Ranthia had never expected to see.
+
+Black.
+
+The progress of quality tiers—and levels returned by Skills like [Identify]—was simple. From white, the colors shifted through the rainbow’s vivid hues, until purple gave way to black. She was expecting a blue or purple blade, the same as before!
+
+[She who Dances with Death]. Throughout history, many newfound immortals have asked White Dove to dance with them. Each was refused, until you succeeded where they failed. Now dance with her grace and try to win the favor of both her and her counterpart. +1101 Strength, +1932 Dexterity, +1112 Vitality, +1301 Speed, +874 Mana, +659 Mana Regeneration, +519 Magic Power, +821 Magic Control.
+
+By Xaoc… What had been the highest stat for her last class up again? 479? It barely even compared to the—by far—lowest stat in [She who Dances with Death]! And the dexterity was nearly four times that!
+
+She nearly grabbed the sword then and there, without even properly absorbing its story. Her arm even twitched when she aborted her grab and tried to settle for a needlessly forceful touch. The power it offered was more intoxicating than any liquor could ever be. It was hard to even measure the merits of the class against the sheer stats that it provided.
+
+But the class itself wasn’t what she hoped.
+
+“If… If I’m parsing this correctly, [Rhythmic Grace] would turn into a Skill that weakened me, significantly, until Black Crow or White Dove is in the vicinity. From there I’d gain escalating bonuses based on their proximity, which would fade if they leave?” Ranthia looked to her grim-faced guide.
+
+“I agree. [True Grace]’s bonuses would be unaffected, but what [Void Edge] and [Rhythmic Grace] became would both be weakened and the stats that we can leverage normally would be limited. And while it’s possible that the stats from the class could make up for the difference in time, this is a class that we achieved by being the first on Pallos to achieve something. The class will likely fall off in quality as we progress, unless you somehow earn adequate favor from White Dove or Black Crow—and we have no idea if that is even possible, let alone what it would require.” Her doppelganger’s answer was more than a little pensive.
+
+“Fuck me. So, I’m weak across the board in my lead class until something dies—assuming the chaos-forsaken bird even appears! I honestly have no idea how Black Crow // White Dove works. Death can’t be so irregular on Pallos that they show up and linger for every last soul. This class would have been far stronger when I was fighting in the war.” Ranthia already knew in her heart what her answer had to be. But the power…
+
+“We are in a party, their current absence aside. Let us assume that Black Crow comes for any deceased creature. The onus is not necessarily on you to cause the first kill. In addition, the divine birds do not need to perch on your shoulder for you to regain the full use of your abilities, and with stats like those, you could accomplish much in a short time.” Her guide knew that she wanted possible solutions, so she tried her best.
+
+“There’s a whole mess of nested assumptions there. I don’t know if Black Crow even shows up for monsters or animals! Even if he does, wouldn’t it make more sense that he’s there for an immortal moment—a fraction of a second, at most—before he leaves for the next soul? White Dove was surprisingly patient with me, yes, but I can’t exactly expect to have someone on hand ready to accept an immortal’s curse every time I fight!
+
+“If I was a disciple of Thanatos, instead of Xaoc, I might be more tempted. But this… I can’t fight a stronger foe while crippled. And you said yourself that the class can’t possibly maintain this quality. We could get locked into weaker options moving forward, and even at black quality, a level 768 class’ stats will fall off quickly.” Fuck, fuck, fuck, and—for emphasis—fuck.
+
+How was it even fair to get a class like that?!
+
+She had to refuse. Every single logical piece of her mind knew as much and agreed. The class was likely to get her killed, and Black Crow harvesting her did nothing after the System left her. [She who Dances with Death] indeed—it was a class that implicitly courted death!
+
+Even with the stats, how many levels would it take to match elven potential? Sure, she might manage to physically rival some of the elves still on their first cycle, but she was already more than a match for them, no matter what their raw physicality might suggest. Strength without experience was clumsy and limited. The escalating boost based on proximity with Black Crow // White Dove would erase the gap, even with stronger, more experienced elves like Aegiomus or Avyna, but the requirement was out of her control.
+
+And that was the crux of the issue. It was a class of borrowed strength, based on a sapient, spiteful source that she had no control over. She barely even had a relationship with Thanatos’ independent aspects—it was possible that White Dove had already forgotten her.
+
+And she somehow doubted that either side of the aspect of death was willing to do her favors every time she found herself in a pinch.
+
+“…Bring me other classes, please.” If nothing else, she had to know what her other options were.
+
+“I just want to be up front about this: there was only one black quality class. Do not get your hopes up for a directly better option.” Her guide offered her an apologetic smile and even briefly reached over the counter to touch her arm. Then she went back to work and browsed the racks of jumbled swords.
+
+Leaving Ranthia to stew in her regret for a brief while.
+
+[Graceful Destroyer] was the next class, weighing in at a low purple. Which made it disappointing in comparison, but she tried to force her mind past that absurdity. She wasn’t getting another black class, so she needed to focus on what the classes she had access to truly offered. And much like the Mirror class she chose, this one made improvements across the board, but the big thing that it provided was a significant upgrade to [Void Edge]. The new Skill would function like the troll twin’s Void attacks had—a larger eruption of Void that reached beyond her weapons.
+
+The mana demands would be a lot higher, but… well, she was getting to the point that she could afford that, even if her mana regeneration was falling a touch behind.
+
+It wasn’t bad. It wasn’t a black quality class, but it wasn’t bad. She could start from there, especially since she had more classes to go.
+
+[The Corruptive Chaos of the Void] “only” had a peak blue class quality, but it was still interesting. [Echoes of Devastation] would turn into a curse-type Skill, leaving fragments of Void energy in the wounds of whatever she cut. It was a powerful answer to regenerators—extremely difficult to heal through—while also making wounds steadily grow worse. The Void she left behind couldn’t last forever once it was cut off from her mana, but every wound she inflicted could be similarly infected if she chose. The effects would add up, no matter what she faced.
+
+It wasn’t the type of class she had expected, but she tentatively planned to shortlist it.
+
+The next blade with a purple-wrapped hilt was [Dancing Across the Darkest Sky]. The class leaned heavily into her ability to dance above the ground, offering her the ability to form discs of Void that she could touch safely—yet would be dangerous to anyone or anything else. Footholds in the air. Granted, it would be a new Skill, which meant that their durability would be… horrendous for her level. She’d have to rely fully on her dexterity and wouldn’t be able to kick off of them.
+
+There weren’t any obvious drawbacks, but she wasn’t really feeling it either. It sounded fun, but she wasn’t sure if the ability to dance through the sky was so beneficial that she wanted to pivot to a class that focused on it.
+
+[The Dancer Masked by the Void], an upper tier blue quality class. It was defensively focused, upgrading [Rhythmic Grace] and [Flowing Momentum] into a Skill that worked in close proximity to [Divine Eyes in the Void] to bring her evasive capabilities to an even greater tier. In addition, the armor Skill manifested in a Skill that reminded her of the [Costume of the Void] Skill that she had discarded when she was making [She who Dances with Chaos]—it would wreathe her in Void, making it that much harder for opponents to know exactly where she was. And as Void was wont to do, it would also try to delete anything that touched it. The mana drain would be tremendous though, given that it would cover a surface area larger than her body.
+
+Still, she didn’t have to activate the Skill, it was just a failsafe that she could fall back on if the opponent outclassed her improved evasion. Shortlist.
+
+Surprisingly, it wasn’t the only class that finally gave her an armor Skill. [A Passion for Chaos] bore a purple wrapping and also promised an armor Skill, albeit a more traditional and relatively weak one. It wouldn’t even extend to her weapons—not that she really needed it to, her [Priestess] class already handled them. It ‘just’ extended her vitality to her armor (whenever she finally had armor again, her old suit was unsalvageable) and clothes, based on a maximum total mass. Easy to level, at least.
+
+But [A Passion for Chaos] wasn’t defined by its armor Skill. The class offered numerous general improvements—like most of the classes she had reviewed—and it offered a barrier Skill, of all things. Well, sort of. She would be able to manifest tiny dots of Void over her own body and move them as necessary to intercept attacks. It was a solid defense against precision, low-mass attacks like those the shimagu had often tried to use to assassinate her while she was busy fighting. Naturally, even if the Skill was described as a defense, the energy was still Void—there were a thousand and twenty-four offensive uses as well, at least in melee range.
+
+Shortlist.
+
+[Grace Incarnate] had the highest class quality among her options—the black class aside. A vibrant purple that stood out among the bluer hues on the counter. Unfortunately, stats aside, the class just didn’t change anything significant. Sure, there was always some merit to improving her stamina and warding off fatigue while she continued to dance, but the class felt more focused on the performance than combat.
+
+And she wouldn’t live in the City of Arts forever. Already, she often felt the itch to just… get away and explore for a while—the local area was becoming a bit too familiar.
+
+[The Dance of a Survivor], purple quality. The class toed the line of her request to avoid classes that specialized against specific opponents, but she understood why her guide had brought it. It was a class meant to help her fight against an army. With it, [Void Edge]’s successor would linger in the air for a few seconds, making it difficult for a mass of enemies to close in around her. It was a class that answered her fear of ending up trapped within a press of shimagu bodies and being worn down—it made both aspects of that fear far less likely.
+
+If she was still at war, it would have probably been the class that she took. And to be fair, the class would benefit her while she hunted more foolhardy beasts that could be baited into running face-first into the lingering Void. But the class wanted her to fight in a war.
+
+Something she hoped she would never find herself within ever again.
+
+“Last one.” Her guide announced, as she set the blade down. Yet another blade with purple wrapping around its hilt—wait, why was she getting jaded to purple?! It was the second highest class quality for chaos’ sake!
+
+“Thanks.” Ranthia forced herself to smile before she touched the blade.
+
+[Dancing Mad] was almost the direct inverse of [The Dancer Masked by the Void], it was a class that accepted the simple truth of the world—Ranthia couldn’t evade everything. While she was injured, her mana regen rate would increase, and she’d gain escalating buffs to her strength and magic power, depending on the severity of her injuries. The logic was similar to [The Dancer Masked by the Void]’s trump card Skill: they both provided the means to survive and distance herself from a near death experience. But instead of giving her a powerful and expensive defense Skill, it gave her a boost in power to cut herself out of trouble or to hold out long enough for [Manifest Chaos] to transfer her to a fresh image.
+
+That said, the class wasn’t without its risks. She knew herself too well—she knew that she’d be tempted to use the effect each and every time she fought an opponent with powerful defenses. “It’s just a little, to break their defense.” “Just for a few seconds longer.”
+
+And then, before she knew it, she’d be cutting herself. Just to get a bit stronger.
+
+“Okay, now to figure out which of these resonates with me the most.” Ranthia tried to reach for her early enthusiasm once again. But first, she needed to figure out which classes she’d be comparing.
+
+“[Dancing Mad], no. [The Dance of the Survivor], no. [Grace Incarnate], no. [A Passion for Chaos], shortlist. [The Dancer Masked by Void], shortlist. [Dancing Across the Darkest Sky], no. [The Corruptive Chaos of the Void], shortlist. [Graceful Destroyer], shortlist. And…” She trailed off, watching her guide collect the blades she had refused.
+
+Ranthia took one last look at the black class and allowed herself an absurd daydream. She invited White Dove over for tea, discussed what timing worked for her—she tried to work around death’s schedule, as if any aspect of that was even remotely possible. But no, that couldn’t be her path. And beyond that, she just wasn’t comfortable with the idea of being defined by something that she just happened to be the first person on Pallos to achieve. One-off achievements were easy. Gods and goddesses, she hadn’t even meant to dance with White Dove, she’d just been in the middle of a battle! And in the end, she would rather be known for what she honed and polished herself—intent was required for her to feel any measure of pride.
+
+And every other class waiting on the counter qualified.
+
+“Take it away.” She made her final choice. She would never be [She who Dances with Death].
+
+[Graceful Destroyer] wasn’t exciting, but it was practical. The biggest thing it offered was a larger arc of Void as she attacked. Useful against both larger opponents and multiple opponents. She could probably even use it to counter incoming attacks more readily. It didn’t make her excited to play with any new abilities, but it was practical.
+
+[The Corruptive Chaos of the Void] was in a similar vein. Sure, she had fought all of two regenerators in her life, but both of them were dangerous adversaries that could have worn her down. The curse-like damaging effects would also make her more effective against elvenoids supported by a [Healer] as well as massive beasts. …Again, it wasn’t exciting, but it was practical.
+
+[The Dancer Masked by the Void] was exciting. Additional evasion was great, but its core Skill was the bigger draw. The ability to completely conceal herself within the Void would be a great way to throw off whatever was trying to kill her—it was another means to change the rhythm of battle to suit her. The biggest issue was her mana; the Skill would have her burning mana at a rate that might exceed constantly shifting. And she couldn’t even calculate its draw without taking the class and testing.
+
+[A Passion for Chaos] was also exciting, though in a different way. The permanent—properly Passive—armor Skill would help to protect her new suit, just as soon as she leveled it far enough to apply it to the whole thing. But it wasn’t like she was planning to wear a full suit of terrasium plated armor or anything supermassive. The elven alloy at the top of her list was autumnal steel, due to its low weight. Beyond that, the pseudo-barrier Skill would provide additional protection and give her more combat options, including the ability to make her Bond-enhanced kicks even more potent.
+
+Four options became two.
+
+Except that was still wrong—she had made her choice. [The Dancer Masked by the Void] was exciting, yes, but it came with caveats. And there was nothing holding back her enthusiasm for [A Passion for Chaos].
+
+Reverently, she unsheathed the blade that represented [She who Dances with Chaos].
+
+“I forged this class myself, through the grace of Xaoc. It served me well and for so many years. It saw me through some of the darkest, roughest periods of my life. Thank you, old friend. You were everything I hoped you would be and more, one non-manifested Skill aside. But our time together is done, and I know [A Passion for Chaos] will carry me forward—along the same path you prepared for me.”
+
+Passing the class that she built over and being rid of it was hard. But the class had taken her as far as it could, and the System—or Xaoc, or however that worked—hadn’t given her the opportunity to create its successor.
+
+Not that she had a single complaint about [A Passion for Chaos].
+
+Her guide accepted the blade with just as much reverence.
+
+“I shall find a place of honor for it. I promise.” Her guide’s words helped.
+
+“I’ll see you when [Adventuring Priestess of Chaos] finally caps. It might be a bit.” Ranthia admitted. She knew that she needed to focus on running services more often, but only a small portion of the elves bothered to show up without some gimmick drawing them in. Even the ones that liked feeling the connection to Xaoc were just too easily distracted.
+
+“You forget—you are no longer alone.” Her guide chided, still holding the short sword that represented [She who Dances with Chaos].
+
+“I don’t even know what’ll happen with my party once Anthelleon has her kid.” It was a horribly selfish fear that she tried to keep out of her head, but it felt safe enough to mention it where no one could possibly overhear it.
+
+“Not them. I refer to our Bond. She was the one that earned the bulk of the levels from the wyvern. And it is likely that many of the levels for our third class came through her. Never lose sight of that.” The rebuke was warmer than most that came out of Ranthia’s counterpart, though it was no less genuine.
+
+She… hadn’t even thought about that. She was so used to desperately trying to carry Clover up through the class tiers—so used to trying to buy more time for her Bond—that she’d never even stopped to consider what would happen once they became equals.
+
+It was her kill, but Clover was the first one to truly wound the wyvern. Her little bunny wasn’t so helpless anymore.
+
+“Right, thank you. Again. What would I do without you?” Ranthia grinned at herself.
+
+“Die in a ditch with a hole punched through your head, I assume.” Her doppelganger tried to hide her smile with sass.
+
+Ranthia just laughed and bowed, then made her way back to reality.
+
+[A Passion for Chaos]. Dancing is more than a mere tool for survival. Your dance is a celebration of chaos and a manifestation of your passion. Now, take that forward, and show the world just how deep your passions run. Let nothing impede your dance, nor the chaos that you bring! +501 Strength, +716 Dexterity, +578 Vitality, +627 Speed, +48 Mana, +52 Mana Regeneration, +43 Magic Power, +47 Magic Control.
+
+[*ding!* Congratulations! You have upgraded your second class – [A Passion for Chaos – Void]!]
+
+[*ding!* Congratulations! [A Passion for Chaos] has leveled from 768 to level 781! Per level: +501 Strength, +716 Dexterity, +578 Vitality, +627 Speed, +48 Mana, +52 Mana Regeneration, +43 Magic Power, +47 Magic Control from your class, +1 Free Stat for being human, +2 Mana from your element.]
+
+More levels than her Mirror class got, but that was expected. Still, it would have been nice had it gone a bit further—there were only seven levels insulating her from her [Mage] tag.
+
+[*ding!* [Void Affinity] has evolved into [Void Authority]!]
+
+[Void Authority]: Your connection to the Void has improved and has deepened through your experience. Improved efficiency for all Void-aspected Skills per level.
+
+Not entirely surprising, but welcome. It was no [Void Mastery] or [Void Spirit], but she would happily accept the first step beyond affinity.
+
+[*ding!* [Void Authority] has leveled from 768 to level 781!]
+
+[*ding!* Your Skills [Rhythmic Grace], [Flowing Momentum], and [Facets of Passion] have evolved into [Rhythmic Passions]!]
+
+[Rhythmic Passions]: Your rhythm defies order. Your passions soar, refusing to be stifled. United, they shall carry you to even greater heights. Dance. Cut. Love. Live! -9999 Mana Regen Rate.
+
+That had to be one of the most useless Skill descriptions she had ever seen. Then again, the System hadn’t even asked before it merged the Skills, which meant that the effects of all three Skills were likely still present. Perhaps the useless, flowery language was a nod to the fact that it was nothing more than three Skills in one. Or she might randomly trip over new effects someday. Who knew?!
+
+Meh, she probably should have foreseen [Facets of Passion] merging into the class somehow, given the name.
+
+[*ding!* [Rhythmic Passions] has leveled from 768 to level 781!]
+
+[*ding!* Your Skills [Void Edge] and [Echoes of Devastation] have evolved into [Void Lacerations]!]
+
+[Void Lacerations]: Why merely cut your enemies with Void when you can lacerate them instead? Cut deeper and spill their lifeblood faster than ever. From the edge of your knives, the Void surges forth, chaotic and turbulent.
+
+The effect wouldn’t be anywhere near as pronounced as what [Graceful Destroyer] offered, but it promised to be at least as effective as [Void Edge] and [Echoes of Devastation]’s combined efforts. It did sound like the Skill wouldn’t cut quite as cleanly though, which would make it worse for butchering and harvesting parts from monsters. Eh, she could live with that, assuming it was even true. Time would tell.
+
+[*ding!* [Void Lacerations] has leveled from 768 to level 781!]
+
+[*ding!* [Divine Eyes in the Void] and [Sustained Chaos] have leveled from 768 to level 781!]
+
+Neither Skill evolved, but she was fine with that. Both had served her well in their current incarnations—the most recent [Divine Eye]’s antics excepted.
+
+[*ding!* [Submind] and [Fast Learner] have leveled from 774 to level 781!]
+
+Still no trace of her [Companion Bond] leveling. She really needed to find where Clover went.
+
+[*ding!* You have unlocked the Class Skill [The Dancer’s Costume]!]
+
+[The Dancer’s Costume]: A dancer can hardly perform without her costume. This is true whether you dance on stage or dance across a battlefield. Through the Void, your resilience flows into whatever costume you choose to don. Slightly increased protection per level. Increased maximum affected mass per level. -8102 Mana Regen Rate.
+
+At long, long last. …And a bit too late, but she would figure out a way to address that. The wyvern’s parts had to be worth a decent bit, considering the expensive equipment that the barkeep freely used to preserve them. Hopefully it would be enough to buy her a decent suit of elven armor.
+
+[*ding!* You have Unlocked the Class Skill [Passionate Exhibition]!]
+
+[Passionate Exhibition]: Or perhaps a dancer can perform without her costume. While you remain exposed while dancing—
+
+No! For the love of Xaoc, no. Next Skill, please!
+
+[*ding!* You have unlocked the Class Skill [Pinpoint Barrier]! Would you like to replace a Skill?]
+
+Yes—whatever it is, yes she would!
+
+[Pinpoint Barrier]: The best defense is an overwhelming offensive, but sometimes you have to survive attacks to visit the appropriate violence upon everything that opposes you. Apply minute points of Void to your body and move them anywhere you please over anything that is considered to be your body; and ensure that attacks never manage to reach you. Improved eradicative power per level. Decreased effect on harmless or benign sources per level. Increased number of simultaneous points with level.
+
+Ah, that Skill!  She really was looking forward to playing with it. With the defense tied to her body, it would be difficult to overwhelm it while her mana held up, and the small size should help keep its costs down. Radiance [Mages] would no longer be a lethal threat—assuming she managed to move the points fast enough to intercept their absurdly rapid attack, of course.
+
+[*ding!* You have Unlocked the Class Skill [Void Blast]! Would you like to replace a Skill?]
+
+[Void Blast]: Every [Warrior] is caught unarmed every now and then. But you should never be helpless, no matter how unexpected the threat is. You may unleash a small burst of Void from your body when you make a melee attack. Increased control over size and potency per level.
+
+Had she taken any other class, she would have probably tried to figure out a way to take the Skill. Sure, no matter what the Skill’s description claimed, she was always armed, but having a way to make her kicks more lethal was quite welcome! Too bad for [Void Blast] she already got what she needed. Why would she settle for a weak burst of Void when she could slip a point of Void or two onto her feet and get a more concentrated effect?
+
+And that was that. Ranthia called up her full sheet, to admire the sum of the changes.
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 119]
+
+[Mana: 868270/868270]
+
+[Mana Regen Rate: 524079]
+
+[Stats:]
+
+[Free Stats: 88]
+
+[Strength: 50481]
+
+[Dexterity: 118867]
+
+[Vitality: 114805]
+
+[Speed: 112231]
+
+[Mana: 86827]
+
+[Mana Regeneration: 102938]
+
+[Magic Power: 83298]
+
+[Magic Control: 68794]
+
+[Class 1: [Shards of the Shattered Mirror – Mirror (774)]]
+
+[Mirror Spirit: 774]
+
+[Shatter the Mirror: 774]
+
+[Shards of the Perpetual Dancer: 774]
+
+[Reflective Source: 1]
+
+[Persistent Imagery: 774]
+
+[Latent Reality: 774]
+
+[Twisted Reflection: 716]
+
+[Manifest Chaos: 619]
+
+[Class 2: [A Passion for Chaos – Void (781)]]
+
+[Void Authority: 781]
+
+[Rhythmic Passions: 781]
+
+[Void Lacerations: 781]
+
+[The Dancer’s Costume: 1]
+
+[Divine Eyes in the Void: 781]
+
+[Sustained Chaos: 781]
+
+[Pinpoint Barrier: 1]
+
+[True Grace: 635]
+
+[Class 3: [Adventuring Priestess of Chaos – Magic Metal (303)]]
+
+[Magic Metal Authority: 303]
+
+[Adamantium Chaos: 303]
+
+[Priestess of Xaoc: 303]
+
+[I am the Priestess; I am the Champion: 303]
+
+[Divine Seeker: 107]
+
+[Adamantium Will: 303]
+
+[Dedication to Xaoc: 303]
+
+[Higher Power: 303]
+
+[General Skills:]
+
+[Companion Bond between Ranthia and Clover: 768]
+
+[Ranthia’s Covenant with Xaoc: 364]
+
+-
+
+[Submind: 781]
+
+[Immortal Armaments: 450]
+
+[Fast Learner: 781]
+
+[Image Recall: 701]
+
+[Sexy: 675]
+
+[Other:]
+
+{Xaoc's Covenant with Ranthia}
+
+Things had changed, alright. It was almost strange to see the changes to her sheet. So many Skill names that she knew by heart were changed or gone—replaced by new Skills. Still, it felt good. After almost a century, she had reached a new tier of power.
+
+And it was time to find out just how far that could take her.

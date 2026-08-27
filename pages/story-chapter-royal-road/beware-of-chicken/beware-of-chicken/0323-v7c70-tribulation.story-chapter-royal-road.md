@@ -1,0 +1,217 @@
+---
+id: f7e77a38-1b6e-58b2-9c67-7aca5a4cbe6e
+page-type-slug: story-chapter-royal-road
+title: "v7c70: Tribulation"
+slug: 0323-v7c70-tribulation
+partOf: beware-of-chicken
+position: 323
+ownLength: 2601
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3582621/v7c70-tribulation"
+royalRoadId: "3582621"
+---
+
+Ruo Ma, Squad Leader in service of the Blazing Swords, was having a wonderful day. He had made a small breakthrough in his cultivation earlier, thanks to the library that the Grand Marshal had put together. There were so many interesting techniques! Sure, those who were in a sect would have turned up their noses and scoffed, but these ‘petty techniques’ were amazing. Lighting fires without crystals? Reducing boulders to sand? Or even walking on water? Each was extremely useful.
+
+He then went to the commissary and received the free food he was entitled to. He honestly didn’t know why more people didn’t take advantage of it. They called it boring—which was their loss. It had everything a man needed: rice, some new tuber called a ‘potato’, some vegetables, and dried meat or fish. It was better than anything he had eaten before he became a cultivator.
+
+Ruo Ma ate the rations for most meals and was putting on a lot of muscle. Which may not have been necessary for one outside the Initiate’s Realm, but the mechanics of his body still played a role at his current level.
+
+Master Rou’s visit had lit a fire in his heart. He hadn’t been there for the first time, at the Dueling Peaks Tournament, but he had heard the stories about the man, even if he hadn’t really believed them.
+
+But now that he saw him? That he saw the heights one could reach? Well, who wouldn’t want to see if they could eventually climb that high?
+
+He was just doing his cooldown exercises when something disrupted his concentration.
+
+“Assemble, assemble! Assemble, assemble! All members of the Blazing Swords, assemble!”
+
+The voice through the crystals, as well as the crack-crack-crack of the assembly alarm, ripped through the training hall.
+
+Ruo Ma was sprinting towards the assembly point as soon as the first “assemble” sounded, with the others following quick behind him.
+
+“What the hells? Is this another drill?” Wei Tianshu, one of the men he normally commanded, asked as they sprinted towards the meeting point.
+
+“She tells us there's going to be a drill, and within how many days it will be, so I don’t think so,” Guo Chen—or rather Munkhbat said. The Ravineman had told Ruo Ma his name only recently… and it was rather hard to pronounce. They settled on a happy medium of Ruo Ma just calling him Bat.
+
+“What do you think, boss?” Li Hui asked, bringing up the rear. The irreverent, sassy woman was a constant pain in his ass… and quite fun to tease.
+
+“I agree it's not a drill. But I don’t know anything more than that,” Ruo Ma replied, not bothering with any of their verbal games at the moment.
+
+They made it to the parade ground in record time to find several Outriders and members of the White Tigers there too.
+
+But more importantly… Commander Tigu, Captain Yin, and the Grand Marshal herself were standing at the head of the assembly.
+
+“This can’t be good,” Hui muttered. Ruo Ma privately agreed. The looks on everyone’s faces were rather severe. Even Shaggy Two wasn’t hopping around and barking, the sheep dog instead tense and focused.
+
+The Grand Marshal stepped forward.
+
+“Thank you for assembling so swiftly; and I will speak with equal haste, for time is of the essence. I have recently received news that a threat brews in the Ash Forest, and our aid has been requested to deal with it by a friend of our alliance, Fa Bi De.”
+
+Several breaths were sucked in. Master Rou’s apprentice, in the Spiritual Realm, was asking for their help?
+
+“Blaze Bears?” somebody asked, and the Grand Marshal shook her head.
+
+“No, something else. Our duties will be containment and defense of mortals. Combat is expected. I will leave candidate selection to your respective commanders. We leave within the hour,” the Grand Marshal continued, her voice calm. Her eyes roved over the assembled cultivators, and Ruo Ma felt his back straightening. This was deathly serious.
+
+And unlike last time, where they had all been defended by Master Rou… this time, they were going to be able to fight back, instead of being dead weight.
+
+“Jian Jiang. Ruo Ma. Get yer squads,” Captain Yin said instantly, her wine-red eyes focusing on Ruo Ma and Jiang. “Elbeg! Get everyone else ready just in case!”
+
+“Yes, Captain Yin!” came the chorus.
+
+And then, true to her commands, they were off, with the Grand Marshal at their head.
+
+=====================
+
+They set a punishing pace towards the Ash Forest; a forced march that pushed them all to their limits.
+
+“I never thought I would be glad Captain Yin insisted on going on all those runs,” Hui grit out, sweat trailing down her head. They had reached their destination in record time: five days of nonstop running. The Grand Marshal, at the head of the column, suddenly lifted up a hand—and a bee landed on her finger.
+
+A bee that looked rather like the ones that hung around Master Rou.
+
+Which once more increased the scope of what exactly this was. The Grand Marshal stared at the little insect for a moment as it danced, before she nodded.
+
+“Our opponent is a swarm of Spirit Beasts,” the Grand Marshal informed them, and waved to Commander Tigu, who pulled out several maps—it appeared the survey she had been conducting was already bearing fruit. “We will be splitting up to form a cordon and to protect the mortals here. Those of you who can affect wide areas with your techniques, team up with those who can not.”
+
+And then they were off again; Ruo Ma ended up with Hui, while the others split off into the villages at the edge of the Ash Forest. All of them had small transmission stones, so they could keep in contact.
+
+Ruo Ma would be the one taking care of the wide area. While his techniques were weak, rudimentary things… it turned out that they combined quite well.
+
+So when the ground suddenly erupted into a rather large swarm of hornets, [Burning Ash Pyre] was expanded with [Howling Gale Palm], incinerating most of the swarm; and then from there, it was a simple matter of helping Hui cut down the rest of the attack. His fists easily pulped their carapaces, while Hui’s sword flashed in silver arcs.
+
+It was more annoying than anything, but the hornets were fast enough that they would be a problem for the mortals in the village.
+
+Disoriented from the fire and smoke, it was easy work… but Ruo Ma remained on his guard. The strategy of burrowing close suggested a certain level of intelligence and coordination, which was worrying.
+
+And then Hui got arrogant and got stung.
+
+The woman shrieked like a scalded cat and started cussing like a sailor. Ruo Ma finished off the rest of the hornets and got to witness the amusing scene of Hui wiggling out of her pants with tears in her eyes
+
+“Oh? Now is hardly the time, but I suppose I have that effect on the ladies,” Ruo Ma deadpanned, but he was a bit concerned by the welt on her inner thigh. It was as large as a clenched fist already.
+
+“Stop laughing, asshole! It's the only time you’re going to see a woman like this!” she hissed back. Which, naturally, made him chuckle more audibly. Her glare intensified—only for her ire to pause as Ruo Ma took out some medicinal herbs.
+
+Before he had joined up, having some of these would have been nearly unthinkable. They would have been for emergency use only, and while nasty looking, the welt wasn’t life threatening.
+
+Now? He had more, so he could just… use them. It was both a nice and a weird feeling.
+
+Hui huffed, but let him salve and bandage the wound, her cheeks pink. Then, he used one of the weak earth manipulation techniques that had been in the scrolls to collapse the hornets’ tunnels.
+
+Not long after, his transmission stone buzzed.
+
+“All teams are to advance,” came the order.
+
+And off they went. They quickly started feeling Qi signatures from the rest of the teams, forming a rough ring, pressing inward.
+
+“Nasty little bastards,” Hui grumbled, her voice still rough. The welt was clearly still painful—which meant a mortal would have probably been on the ground, writhing in agony. They were nasty bastards. “But nothing special. We’re probably just here to make sure none of them escape. It's kind of a shame, but I was looking forward to killing more of them.”
+
+Which is precisely when they heard a terrifying shriek.
+
+It slammed into them both, sending them staggering, a roar half physical and half spiritual. The earth rumbled and a bolt of lightning speared from the heavens in what Ruo Ma realised was closer to the center of the cordon.
+
+It was no ordinary lightning. He felt it in his soul, and he instantly recognised it, the power setting off every alarm gong his cultivation had.
+
+“That was tribulation lightning,” Ruo Ma said through gritted teeth.
+
+“In the Azure Hills?!” Hui asked for them both, staring in shock, before she forced out a laugh. “Well, if something did get hit by a tribulation, it's probably dead—”
+
+And then, there was pressure. It started out a light touch on their shoulders, which got progressively heavier, in time with a droning buzz.
+
+A buzz that got louder and louder and louder, so deep it felt like Ruo Ma’s bones were vibrating.
+
+Ruo Ma turned to look at Hui, who had the grace to look mildly ashamed for tempting the heavens like that.
+
+Qi flares erupted from the other teams, signalling attacks.
+
+And then a seething tendril made of hornets materialized from the depths of the Ash Forest to lash out against them.
+
+=======================
+
+Zhuazi the Blaze Bear had heeded the call of his kin; as any good Blaze Bear would, when he heard that Home was under attack and that they had been driven from it.
+
+His wrath had been a blaze to ignite even stone, and he ran forth to where his kin were assembled.
+
+When he had learned the truth of their foe, that bugs had caused all this, he had been aghast. When he had learned that they were allying with humans, he had been disgusted. Huishou was even calling one of the humans Little Brother.
+
+It was a corruption. A perversion. Others in Home. Running from bugs.
+
+Zhuazi had challenged Huishou then and there—but Zhuazi had been intercepted by Bu Shou. The old scarred male who had once set Zhuazi on his ass with a roar simply shook his great head.
+
+‘I did not believe either,’ the greymane said. ‘But he speaks only the truth. What lies in there will need all of us to fight.’
+
+Zhuazi was glad he had heeded the old one’s words.
+
+‘More flame!’ Huishou commanded, sucking in another heaving breath.
+
+Twenty Blaze Bears stood abreast on their hind legs and as one roared. A towering inferno consumed everything before them, sweeping back the darkness that was threatening to consume them.
+
+And it was darkness. The bees—or hornets, as the others now called them—were blurring. They were changing, even as they fought. Some were suddenly splitting down the middle into two, and then splitting again, the swarm multiplying itself.
+
+Another shadow materialized through the flames, and Zhuazi cut off his fire and swung at the same time as his foe. His arms rattled from the blow, and the abomination stared at him, flitting its sideways teeth at him.
+
+Some turned to shadow to make more of themselves. Others smashed into each other and… for lack of a better term, fused. The already huge hornets turned into things nearly the size of Blaze Bears!
+
+The hornet slashed with its weird paw, scoring a glancing blow against Zhuazi’s thick arm hide—yet managing to cut him.
+
+This one had Qi wavering around its paw, forming into what almost looked like blades that spluttered and hissed, losing cohesion before forming up again.
+
+Zhuazi’s other paw whipped around into the thing’s body, and the bladelike claws the hornet had been trying to form shifted into something that looked like armour, with an odd pattern on it that almost looked like the sun.
+
+The Qi construct shattered under Zhuazi’s heavy paw, and his own claws carved deep, tearing off its arm and pulping most of its chest.
+
+But Zhuazi had over swung and the thing’s stinger shot forward, aiming for under Zhuazi’s armpit.
+
+“No you don’t!” a human shouted, and all of a sudden a stick was there, thrusting against the hornet’s giant arse and forcing the stinger aside.
+
+Zhuazi immediately took advantage of the opening and finished killing the hornet, pulping it with another heavy swing.
+
+He looked down at the one Huishou called Little Brother. His limbs were trembling and he smelt of fear.
+
+He had also possibly just saved Zhuazi’s life.
+
+‘Good blow,’ he grunted, turning away from the human.
+
+‘Flames! Turn them to ashes so that trees may grow!’ Huishou roared.
+
+Zhuazi sucked in a breath, and this time so did the human.
+
+He spat out only embers along with the rest of their fire… but he wasn’t that bad.
+
+Fine, the human was Little Brother. They would eat some hornet larvae together after this.
+
+A wall of fire ate more hornets, but it quickly petered out as the demons beat their wings in unison, blowing back the flames. A couple of the big ones sucked in breath—and then spat a cloud of green liquid at them.
+
+Whatever it was, it quickly turned to gas and was burnt away by the heat.
+
+Then, they dove again, surrounded by flights of their lesser kin.
+
+The sons and daughters of the forest roared and met them, and the world devolved to chaos.
+
+More thunder rolled, and lightning ripped into the great darkness above, filling the air like gold wire. A great gale from all around them fanned the flames, and shattering blasts of ice ripped through the sky to shred wings.
+
+Silver light shone, ripping titanic holes through the swarm; audible above the din was the sound of another bear slamming their paws together, making boom sounds so loud it hurt their ears.
+
+A sickly sweet scent invaded his nostrils, making him feel ill—but it did more than that to the hornets, as several of the big ones simply keeled over, twitching. Zhuazi stomped on them, just to make sure they were dead.
+
+Little shadows, glowing green, leapt upon the injured, pressing herbs against them and squeaking. Some wielded silver stingers while their brethren worked, stabbing and slaying many more hornets.
+
+He kept fighting. It was all he could do. His paws swung with earth-shattering blows. His teeth bit down and through hornet-armor, crunching and tearing. His flames burned so hot they started burning himself.
+
+He got separated from the others.
+
+Two humans erupted out of the smoke. A male and a female. The male had fluffy, sheep-like fur on his head, while the female was small with one of the human’s blade claws in her hands. The male punched his fist through a big hornet’s chest, while the female cut off its head.
+
+All three of them froze for a moment.
+
+The human lunged. Zhuazi’s paw whipped around.
+
+The human’s fist pulped a hornet’s claw, while Zhuazi crushed another.
+
+The human looked at the bear.
+
+The bear looked at the human.
+
+“This is a very strange day,” both of them said at the same time.
+
+And then they kept fighting.

@@ -1,0 +1,211 @@
+---
+id: cd38370a-a639-5932-bbff-24ccd5eafb0d
+page-type-slug: story-chapter-royal-road
+title: "v5c68: Beginning to Feel Like Victory"
+slug: 0177-v5c68-beginning-to-feel-like-victory
+partOf: beware-of-chicken
+position: 177
+ownLength: 2787
+unit: words
+ownProgress: 2787
+publishedAt: 2024-11-23
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1919328/v5c68-beginning-to-feel-like-victory"
+royalRoadId: "1919328"
+markedReadAt: "2026-06-29T18:57:23.283Z"
+---
+
+Gou Ren couldn’t help but smile when he saw Chun Ke and Pi Pa embrace, hugging each other tightly. He had been having a kind of shitty week, all told—his sleep had been troubled, and he had to get up a couple of times in the night to check on everyone just to make sure they were alright.
+
+“They’re cute, are they not?” Xianghua asked, a small smile on her face.
+
+He was lucky Xianghua was Xianghua—he woke her up whenever he woke up, but she never minded. She simply held his hand and checked on everyone with him, a silent shadow. Yun Ren had been fine ever since Nezan had popped back up, Bowu had slept soundly… but Pi Pa had squirmed and whimpered, reliving whatever had happened in her dreams.
+
+Now, the bundled tension she had been holding onto was gone.
+
+“They are,” Gou Ren replied, giving the two their space along with everyone else. After a moment longer the two separated and Chun Ke rose to his full height. He really was huge. And though he looked like a wild bandit, Chun Ke was still Chun Ke. His big smile and warm eyes would dispel any kind of fear his physique would generate. He felt like he always did. Warm, at peace, and happy.
+
+Like Tigu and Bi De, he had a bit of a resemblance to Jin—his brow and his smile.
+
+Pi Pa, on the other hand, looked the closest to Meihua, if he had to choose somebody they knew. Her features were more refined; noble almost, compared to everyone else bar Yin.
+
+Chun Ke took them all in, his grin growing.
+
+“Hello, Friends,” Chun Ke said, his voice a deep, warm rumble.
+
+The dam broke. Chun Ke was impacted by Jin, Tigu, Wa Shi in his dragon form, Bi De, and Ri Zu all at once. The big man took it all without a single step back and he began to laugh, his voice booming off the hills.
+
+Everyone else soon got their turn. Gou Ren leapt up and put Chun Ke in a headlock as best he could, ruffling the big guy’s mane of hair.
+
+“How do you feel, brother?” Gou Ren asked, honestly happy for them. Pi Pa… well, Gou Ren had heard her discussing her fears about having children with Meimei and Xiulan. He was glad they no longer needed to worry.
+
+“Life Good,” Chun Ke declared. His manner of speech was still simple and halting, using few words… but as always, the big guy managed to get to the heart of the matter.
+
+Gou Ren chuckled. “I meant your body. Does it feel any different?”
+
+“Like Wa Shi says, Chun Ke is Chun Ke.” The dragon positively preened at Chun Ke’s words. The man nodded, before reaching into the pocket of his borrowed pants and pulling out his bag of treats. It was big, and definitely made for him when he was a boar. “Persimmon?”
+
+Gou Ren took the proffered treat and stepped aside, letting Yun Ren in to pound the massive man’s back. He turned to Pi Pa, who was watching on with a bright smile on her face, her cheeks pink with emotion.
+
+“Hey, how are you doing?” he asked her quietly. Pi Pa’s eyes widened at the question, before her demeanor softened. She hesitated for a moment, before taking Gou Ren’s hand in both of hers and squeezing.
+
+“I am doing very well, Young Sir…” she paused at his raised eyebrow. “Gou Ren, I am doing… well. Thank you.”
+
+Gou Ren nodded. “I’ll get started on a bed for you guys—the cushions on the floor were fine for your other forms, but let me tell you, a mattress is a lot better. Gonna have to make the ceilings of your place real high, too…”
+
+It was kind of a shame, though. He had gotten used to living with Chun Ke and Pi Pa—he would even say he enjoyed it. They were always considerate housemates, and lazing against Chun Ke after a hard day was really nice—as was having Pi Pa’s help in doing the laundry.
+
+Pi Pa paused and looked a bit hurt. “Ah… you wish for us to move out?” she asked delicately.
+
+Gou Ren blinked. “Well, I just assumed you would want your own place…?”
+
+“Perhaps in the future?” Pi Pa asked. “We would need time to think about such a thing. And it seems a bit of a waste, with how far you went to accommodate us…”
+
+Gou Ren was about to wave her off. Adding the extra parts to the door to make it easier for their Spirit Beast forms hadn't been a bother.
+
+“Living with Gou Ren and Xianghua and Bowu is good,” Chun Ke stated, adding his thoughts.
+
+“You’re welcome to stay as long as you’d like,” Gou Ren replied with a smile… and was internally quite pleased.
+
+They appreciated the things he had built. They liked him enough that they wanted to stick around with him.
+
+Jin clapped Gou Ren on the back, smiled, and nodded. He guessed this was how Jin felt when they all first arrived.
+
+“I think this calls for a picnic in the greenhouse,” Jin announced, pitching his voice to carry to everyone present.
+
+They had been having a lot of little celebrations recently, Gou Ren noted… but he certainly wasn’t going to complain.
+
+=================================
+
+Soon enough, everyone was in the greenhouse. It never ceased to make Gou Ren grin when people complimented the design. Yushang, Han, Shao Heng, Fenxian, and Yingwen were especially enamoured with the place, but none of them knew if a glass house would be able to survive in the mountains. Ice storms and more limited sunlight were apparently issues, according to Yingwen.
+
+It still felt a bit weird talking to Yingwen, now that they weren't enemies. They had spoken a bit, after Tigu had talked with them. He was just… a guy. All of them were. Yushang was a hoot and a half, Fenxian was boisterous, Han quiet but considerate, Shao Heng was the amused uncle of the group, and Yingwen? He was a bit stuffy and reserved, but he wasn’t a bad person from what Gou Ren could tell, and he had an interest in architecture himself.
+
+However, Gou Ren was not thinking about architecture for once. Instead, Chun Ke’s transformation had made him curious about his own—so he found himself sitting with his brother, Xianghua, and Nezan beside the blooming sunflowers, bees buzzing around and pollinating them.
+
+“How does a bloodline work, anyway? And why would mine just activate?” Gou Ren asked Nezan. The small, slightly transparent fox considered his question for a moment.
+
+“A bloodline is, as the name would suggest, an inherent ability passed down from one’s ancestors. They are created by inventing a new technique, cultivation style, or are the product of children born from Spirit Beasts with human forms. They can be beneficial, neutral, or even detrimental in their nature.”
+
+“Detrimental?” Yun Ren asked curiously, cutting in.
+
+“Yes. However, they’re generally beneficial or at least neutral—I know not what Gou Ren’s does, nephew, but ours provides an affinity with illusions, a long life, and senses far above a normal man. But say, if your body was aligned with fire, and your bloodline was that of water, it suddenly activating could douse your cultivation completely, rendering you back into a normal mortal. In other cases, it could cause the bearer to explode if the reaction is particularly bad.”
+
+Gou Ren grimaced at the description. “Explode?”
+
+“Oh, yes. It's quite rare, but it does happen to those poor, unlucky few. As for yourself…? Well, the higher one goes in cultivation, the more likely they are to activate a latent bloodline if they have one. I would guess the surge of Qi you mentioned during the fight forcefully awakened whatever had lain dormant within you. Unlike your brother, whose bloodline was first activated through the presence of my Qi and the techniques of his ancestors… well, yours was brute forced. And it still is not fully active, if I were to guess. Your cultivation feels more physical than Yun Ren’s—thus, your physicality changed first, and the spiritual aspects of whatever your ancestors were is still not fully developed, while Yun Ren was the opposite.”
+
+That made sense to Gou Ren… but it also opened up a lot of questions, like how exactly he could learn about his bloodline. Maybe Huo Ten? His tail did look like the other monkey’s…
+
+He sighed. “I’m annoyed that people were right all this time. We really are a monkey and a fox.”
+
+Yun Ren chuckled. “It's been one hell of a thing to come to terms with, Little Bro.”
+
+Gou Ren looked at his brother for a moment. “And, well, my other question is how do you… put it away? It's inconvenient.”
+
+Xianghua turned to him. “But I like your tail,” she said, looking a bit put out. Gou Ren flushed while Nezan started to laugh.
+
+Xianghua did indeed like playing with his tail. The fur on it was really soft… but she had also asked Huo Ten on how to properly groom a monkey’s tail, and then the two of them had spent nearly an hour picking at him like… like…
+
+Well, like he was what he was. Gou Ren blinked as he thought about it. Somebody calling him a monkey wasn’t an insult anymore, it was the truth. And besides, shouldn’t he be thankful that Xianghua didn’t dislike it?
+
+“Having a tail can be inconvenient,” Yun Ren came to Gou Ren’s defense. “It catches on things. It's not like he’ll never bring it out again…”
+
+Xianghua turned her eyes to Gou Ren.
+
+“I’ll keep it out at home?” he ventured, knowing he was defeated.
+
+Xianghua smiled brilliantly at him.
+
+Gou Ren spent perhaps an hour learning how to try and put his tail away… when Jin proposed another idea.
+
+Gou Ren turned and beheld his plan.
+
+“Wow, Meimei works fast.” he said, raising his eyebrows at the giant clad in red.
+
+===============================
+
+Xian the Younger‘s eyes widened as he heard the ching ching ching of jingling bells, the bells that Big Bro Jin used for his sleigh. The smell of earth and the tang of medicine filled his nostrils.
+
+They hadn’t seen anybody but Wa Shi and Big Bro, briefly, since the Solstice. They had said everything was fine… but Xian felt his heart leap up into his throat.
+
+He dashed out of the house, his father hot on his tail. The other kids soon sprinted outside as well, bounding towards the sound of the bells.
+
+“Ho ho ho ho ho!” the booming voice echoed through the trees. Xian smiled at the sound of Big Bro Jin’s voice.
+
+“Ho ho ho ho ho!” another voice echoed, and Xian recognised his sister.
+
+“Ho ho ho ho ho!” a third voice boomed, so warm and full of cheer Xian felt himself smiling.
+
+Jin’s giant sleigh pulled out of the mist, and Xian’s eyes widened. The sleigh wasn’t being pulled by Chun Ke this time. Instead, it was dragged by Jin—and running beside the sled was a giant animal. Xian thought it was called a Thunderhoof? Whatever he was, he had massive antlers and it looked amused.
+
+On the sleigh there were a bunch of people Xian didn’t recognise. A massive guy stood out the most, wearing a bright red outfit and, of all things, an antler tied to his head. Beside him was a pretty woman with pink hair, her nose painted red. Another man stood tall on the back of the sleigh, his arms crossed and rust red hair streaming in the wind, while a woman leaned against the front—a woman that Xian had to do a double take at because, for a second, he thought she was Meimei. She looked so much like her! The final new person was a taller lady who had her hair in a side-tail, who was waving really enthusiastically.
+
+All of them were wearing Big Bro Jin’s long red hats. Behind him, he heard Auntie Hu Li gasp, clapping her hands to her mouth—and that was when Xian noticed Yun Ren, grinning and waving.  “Yun! You’re back!” She cried, racing forwards to embrace her son.
+
+“Sorry we’re a bit late! But once again, I wish to you all—good tidings on the Solstice!” Jin boomed.
+
+“Good tidings on the Solstice!” everyone in the village, who were quick to follow the children outside at the sound of bells, shouted back as the sleigh slowed to a halt. There was a collective sigh of relief as they finally saw that everybody was fine… though people started muttering and pointing at the newcomers.
+
+The strange people jumped off first. The big man was the fastest. He looked really scary… but also familiar, somehow. The other children huddled behind Xian as the man approached. He was so huge, with wild hair, scars. and…
+
+Xian paused, staring intently at the bright, warm smile.  He sniffed. The smell was familiar…
+
+“Chun Ke?” he asked, astonished.
+
+The giant of a man grinned.
+
+“Hello, little brothers and sisters,” the big man boomed, his voice warm and happy and so Chun Ke.
+
+All of a sudden, he wasn’t scary anymore.
+
+“You’re human!” he exclaimed.
+
+“Sometimes,” the boar replied. “Makes wife happy.”
+
+“Wife—Miss Pi Pa?” Xian gasped, turning to the pink-haired lady with her painted red nose—it was what Miss Pi Pa did every year. She smiled brilliantly at him, and then at Chun Ke.
+
+The others, emboldened, immediately surrounded the two. Chun Ke gladly let them.
+
+“Does this mean no more sleigh rides?” one of the other children asked in a disappointed tone.
+
+Chun Ke shook his head. With a pop, he was once more a boar.
+
+“Chun Ke is Chun Ke,” he stated. “And sleigh rides are the best.”
+
+His sage wisdom was met with a cheer.
+
+Xian, however, as much as he wanted to immediately join the fun, had to say hi to Meimei and the others first.
+
+He dashed back through the crowd, dodging around Hu Li and Ten Ren greeting Yun Ren, Gou Ren, Xianghua, and Big Bro Bowu, until he spotted Jin talking to Xian’s father.
+
+“Gramps is holding down the fort and the site is cleaned up enough—” the rest was tuned out as Xian tackle-hugged his sister, who bore his weight with ease.
+
+“Meimei!” he shouted, “Who are these people?!”
+
+A couple of them again smelled familiar but….
+
+His sister laughed at his enthusiasm. “Well, you already know two of them. Those are Bi De and Ri Zu.”
+
+“She looks so much like you!” Xian said, staring at Ri Zu in shock.
+
+“She is Hong Ri Zu, you know?” his sister reminded him, a note of pride in her voice. It suddenly made sense to him when she put it like that. Tigu looked like Big Bro. And now that he thought about it, Bi De and Chun Ke looked kind of like him too. “The others? The big and distinguished young man right there is Spooks,” she said, pointing at the Thunderhoof. “And those are Yushang, Han, and Shao Heng,” she said, introducing side-tail girl as well as two guys that Xian had missed. The larger man looked a bit lost as curious people walked up to introduce themselves, while the older guy was leaning against a tree, looking on with a small smile.
+
+“Did they help beat up the bad guys?” Xian asked. Meimei paused.
+
+“They did,” Lanlan cut in. She had a small smile on her face as she got down on one knee before him. Her smile was warm. “We all helped. Everybody from this village helped too.”
+
+“We did? What did we do?” Xian was confused. They had helped? How?
+
+“Bowu told me how everyone was scared, and it was you who started to dance again, Xian,” Xiulan whispered.
+
+“Yeah? Everybody was really scared, so I danced. We have to. We swore,” he said.
+
+Xiulan nodded. “I know. And what you did made all the difference. Your dance made the sun notice. It made the earth sing—and that's why we won. So thank you, Xian, for being so brave.”
+
+She pulled him into a hug and he felt heat blossom on his cheeks. She sounded so serious and… well, really really thankful.
+
+Xian didn’t know exactly how his dancing had helped—but there was no way Lanlan was lying about this.
+
+The warmth of Xiulan’s hug and the earnestness of her thanks stayed with him even after she let go.
+
+Somehow, some way, his dance had helped and had brought back the sun. Just as all his ancestors before him had sworn.

@@ -1,0 +1,157 @@
+---
+id: 1f7f4168-aab2-5fde-8ac9-de6567220297
+page-type-slug: story-chapter-royal-road
+title: "72. Undercurrents"
+slug: 0072-72-undercurrents
+partOf: breaker-of-horizons
+position: 72
+ownLength: 2008
+unit: words
+publishedAt: 2021-01-07
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/611039/72-undercurrents"
+royalRoadId: "611039"
+---
+
+"What happened?" Jerric asked, alarmed at the urgency in Devon's voice.
+
+"Short version, Caden got attacked, but he's on his way here now with an armed escort, and we need to secretly bring him to the Geldor Spire without anyone else noticing," Devon replied, gesturing impatiently. "Come on, we've gotta go now!"
+
+"Attacked?" Lynus hastily deposited the plate on a nearby end table and cleaned his hands off. "Who attacked him?"
+
+"Don't know all the details myself. But the Spire augera told me—"
+
+"Wait, that's where you disappeared to? It contacted you?" Kevan demanded. "What did it say? Why didn't you—"
+
+"I'll explain later! Just come on!"
+
+Devon turned and hurried off, not waiting to see if the others were behind him. Lynus and Jerric exchanged a brief look of confusion, then followed. Kevan swore as he tried to quickly shrug off the harness but after a few seconds of fumbling without any success, he pelted after them and started securing the various straps as he ran.
+
+He almost crashed into the other three as he rounded a corner. They were in a corridor but had stopped just before a door that opened into the sitting room. Voices from within indicated that it was currently occupied.
+
+Devon briefly considered walking past the open door of the sitting room as nonchalantly as he could, but then he caught his mother's voice and realised she was talking to an agent about security arrangements.
+
+"... some of them have been working in this household for years and years! Must you really subject them all to an interrogation?"
+
+The agent sounded polite, but there was a little weariness in his tone. "Your Grace, please understand we're doing all we can to be as unobtrusive as possible, but the safety of your family is..."
+
+"What now?" Jerric whispered.
+
+The arcana suddenly started stirring around Devon, and Jerric flinched away in surprise. The twins were alarmed and quickly started pulling together defensive sequences. Devon raised a placating hand and they eased off but did not look reassured.
+
+"Well," Devon's mother was saying, "what if you limited this background check to the newer staff? I really don't think the loyalty of our oldest—"
+
+"Your Grace, I'm sorry, please wait a moment," the agent interrupted, his voice suddenly sharp and authoritative. Devon heard someone getting up from a chair, and muffled footsteps rapidly approaching the open door.
+
+The sequence that Devon was building was only moments away from activation, so he backed away hastily, hoping to avoid any confrontation with the agent, and the others took their cue from him and tried to go back the way they came. But the man crossed the threshold before the four Academy students could hide behind the corner.
+
+His shields were already up — a shimmer in the air that distorted the light passing through it so that he appeared to be surrounded by a faint blue liquid. And he was also already looking in Devon's direction. As soon as he laid eyes on the four of them, arcanic bolts materialised out of the air all around them. Jerric and the twins hastily brought up shields, but they knew their last-second conjurations wouldn't stand a chance against the heavy fire of a fully-trained arcanist.
+
+But the bolts never landed. A pulse of arcana washed out of Devon, so palpably that the others felt it like a wave of warm air engulfing them. And even though it had originated from the young lord, it did not feel like his power. There was something in it that tasted of an augera, reminding the other three of the terrible incident by the Academy lake, and their safer but no less disconcerting encounter in the Academy Spire.
+
+The pulse hadn't done anything to the agent's shields or bolts — it had passed right through all of them. The agent blinked in confusion, staring at the four of them, his arcanic bolts hovering ominously in the air. He looked up and down the corridor, frowning. Devon held his breath even as he held up a hand to stop the others from taking any further action. They all stared at the agent in silence.
+
+After an agonisingly long moment, the agent dropped his shields and dismissed his unfired arcanic bolts, and went back into the sitting room.
+
+"My apologies, Your Grace. I think we were discussing something?"
+
+Devon's mother sounded equally confused. "You know, I think we were, but it seems to have escaped me."
+
+Devon didn't wait to hear the rest of it. He beckoned to the rest and confidently walked past the open door. They hesitated but followed when Devon made it past without raising any alarm.
+
+"What was that?" Jerric asked, awed.
+
+"Something from the augera. It's some kind of ensorcelment? Except it's laid on us, instead of on other people. As long as we're not directly interacting with someone, it'll be almost impossible for them to notice us."
+
+They were finally at the front entrance. Devon gestured at it, but they didn't open.
+
+"Damnit!"
+
+"Where's Caden?" Kevan asked, going up to a window and peering outside at the empty driveway.
+
+"He's not out there yet?" Devon asked anxiously, pacing up and down a little. "The augera just told me he's arriving."
+
+Jerric went up to the door and tried to peek at the locking sequence, but it refused to manifest. "Well... this is serious security. Is there any other way out?"
+
+"Maybe the servants' exit... but I think my father revoked my keys to all the entrances, not just this one."
+
+"We're essentially invisible, right? What if we just wait for Caden to be brought in, and we walk out when the doors are open?" Lynus suggested.
+
+"But we need to grab him," Jerric pointed out. He turned to Devon. "That would mean direct interaction, and the sequence wouldn't cover us then, right?"
+
+"I... may have something to help there," Devon said slowly, frowning as he went over what the augera had put in his mind.
+
+Jerric folded his arms. "Since we've got time, you better give us more details so we're on the same page."
+
+Devon nodded. "The Spire augera got me out of the house late last night. Or, er, really early this morning. I was sleeping, and it just whispered to me and woke me up, and it got me to sneak out of the house. I got out by my window."
+
+"How?" Kevan jerked a thumb back at the window behind him. "I tried my first night, but it looks like all the windows here have got Panoply wards on them."
+
+"No idea," Devon shrugged. "It briefly nullified the wards somehow. I opened my window with my bare hands, climbed down with a bit of arcanic assistance, then ran into town."
+
+"You ran?" Lynus raised an eyebrow and glanced downwards at Devon's stomach. He didn't yet have a sizable paunch like the Duke's, but it was definitely there.
+
+"With a lot of arcanic assistance," Devon added, rolling his eyes. "And the augera helped a bit."
+
+"What did it want?" Jerric asked.
+
+"It said Caden got attacked along the way here, but the augera in Crevylor's Spire possessed him and defended him."
+
+There were exclamations of surprise and disbelief.
+
+"Possessed? What—"
+
+"So do you know who—"
+
+"Does this mean he's—"
+
+"—let me finish!" Devon said, raising his voice slightly. At that moment, a servant came into the entrance hall and passed through to the vestibule. They all froze, but relaxed when it became clear that they were still hidden from perception. Everyone started forwards when it looked like the servant was going to open the front door, but retreated in disappointment when it turned out that he was just collecting refuse from the little bin next to it.
+
+Out of an excess of caution, they waited until the servant was out of earshot before resuming their conversation.
+
+"Anyway," Devon continued, "I really don't know much more than that. The augera only told me Caden was attacked, not who did the attacking. And he was possessed by the Crevylor Spire augera, but apparently it's unstable somehow, and so Caden's been affected by that. And we need to bring him to the Geldor Spire augera so it can fix him."
+
+"Possessed by an unstable augera," Jerric muttered. He paused, then shuddered. "Can't imagine how that must feel."
+
+The rest of them looked a little queasy as they reflected on the memory of the wild augera's violent perturbations that had sent them to the edge of madness. If that was what happened with an augera that wasn't unstable... what might it be like to have an unstable one sitting in your head?
+
+"So... are we doing this?" Kevan asked after a brief silence.
+
+"What do you mean? Of course we're doing this," Devon said, looking up in surprise.
+
+"Look..." Kevan paused, trying to find a way to phrase his thoughts. "I know he's our friend, but he's... not really one of us, is he?"
+
+"Not one of us?" Devon echoed, colour rising in his cheeks.
+
+"He's not bound by fate. By the Prophecy. He's... loose."
+
+"Isn't that a good thing? He's supposed to be the one helping us to get unloosed, too!"
+
+"Yes, but... I've been thinking. Well, Ly and I were thinking..." Kevan glanced at his brother, who looked a little uncomfortable and was now avoiding Jerric and Devon's gaze.
+
+"Thinking about what?" Jerric asked calmly, placing a hand on Devon's shoulder both to reassure and to restrain.
+
+"... maybe... maybe we should let the Prophecy run its course," Kevan finished with a grimace.
+
+Devon gaped at him. His mouth worked as he tried to get past his indignation in order to form words, but Jerric cut in first. "You do realise what that might mean?" he asked, still keeping his tone calm. "We all think Caden used to be the one whose 'bones' will form Ambrose's 'crown o'er mortal thrones'. And now that he's out, Emilia's been brought in to take his place. You're okay with that, now?"
+
+"You think I don't know that?" Kevan snapped. "I'm the one who... she's my..."
+
+"We talked about it," Lynus said quietly, stepping forwards and clapping his brother on the back. "But I was the one who floated the idea first."
+
+"You?" Devon had finally found his voice, and it was filled with disbelief and indignation.
+
+"Yeah, me," Lynus said, straightening a little and looking at Devon a little defiantly. "Kevan's not the only one with an opinion, alright? And here's mine: maybe some sacrifice is necessary, for the greater good of the Empire."
+
+"The greater good of the Empire?" Devon snarled. Jerric drew back in surprise, not expecting to see this kind of venom and anger from him. The twins looked a little taken aback as well, but Kevan rallied, buoyed by his own emotions.
+
+"I don't see why you're so worked up over this, you've got no skin in the game," he shot back. "Why do you even care? I mean, look at all this!" He gestured around at the entrance hall. It wasn't resplendent beyond belief, but it was clear that there was wealth on display, done tastefully and with an eye towards elegance rather than opulence. "You've got a good life, and you don't have to give anything up. You can just sit here in your little palace and be mummy's little boy—"
+
+"Kev, enough," Lynus said sharply. Kevan turned and glared, but he took in a deep breath and reined himself in.
+
+Devon's anger, white-hot just a moment ago, had sharpened into a frosty silence. It was so pronounced that Kevan shuffled a little nervously, and little eddies of arcana stirred as Jerric and the twins surreptitiously gathered it in just in case Devon cracked and started lashing out.
+
+But the moment passed. The venom in Devon's eyes dimmed, and he turned away.
+
+"... Dev..." Kevan sighed. "I..."
+
+"Caden's here," Devon said flatly, nodding out the window. Outside, two black cars were just turning into the driveway.

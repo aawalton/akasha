@@ -1,0 +1,155 @@
+---
+id: 35e633b4-6040-54a3-a193-c55723ed356d
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 55 - Leaving her Mark"
+slug: 0059-b3-chapter-55-leaving-her-mark
+partOf: bookbound-bunny
+position: 59
+ownLength: 2190
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3555453/b3-chapter-55-leaving-her-mark"
+royalRoadId: "3555453"
+---
+
+When the group neared the fort, they began hearing the din of people talking. Admittedly, running into others outside of their group made Lily a little nervous, as she still remembered the "senior tax" that Rose had mentioned.
+
+Does the fort count as a safe zone?
+
+The walls of the fort looked a little more scuffed than she remembered, likely from a few monsters who attacked it, yet it was still holding firm. Nobody was manning the walls, so evidently it didn't get attacked that often.
+
+Entering through the familiar door, the group was welcomed by the sight of several older students. One or two had set up storefronts and appeared to be selling supplies, while others looked like they were resting.
+
+Lily was immediately puzzled, and Lotte joined in on the confusion. This was admittedly a rather large group of students, yet Sylwel had told them that supplies for the second floor were rapidly running dry. Both of them had assumed it meant the older students weren't on the second floor, but this directly contradicted that assumption.
+
+Or maybe they aren't selling their gatherings to the school?
+
+From everything Lily had heard, the school offered very generous rates for supplies, especially if they were in demand. Rose herself had mentioned this a few times, and with the added convenience of being able to dump it after a dungeon run, it was her go-to solution. Thus, unless Sylwel had forgotten to list the ingredients running low, there should have been good rates for the second floor.
+
+No, even if Sylwel forgot, one of his assistants would have posted the notice.
+
+That was when she caught a small whiff of potential profit. Lily had heard countless stories from Camilla about the various tricks of the trade and what to watch out for, and while she hadn't confirmed it, this felt like a small bit of market manipulation.
+
+Are they hoarding resources till the school's buyout price reaches a certain level? Then they will sell it for maximum profit.
+
+Lily couldn't help but wonder if whoever organized this had a bit of a merchant upbringing. Of course, the school wasn't run by idiots, so they probably saw through schemes like this. But if they hadn't been prevented from doing this, it would mean the school was allowing it to happen.
+
+"Oh? Looks like we've got some new arrivals," a boy said, pointing at Lily and her friends.
+
+The groups collectively looked up from what they were doing and spotted the unfamiliar bunch. Confusion was evident on their face, especially when it came to Lily.
+
+"First years?" a girl asked.
+
+"Already? It hasn't been that long yet."
+
+"I heard a rumor they were letting them jump ahead because of their good results."
+
+"Damn, that's not fair. Why didn't they do it for our year? We had a fricken dragon."
+
+"I heard they gave her permission. I guess the rest of you were too slow."
+
+The groups continued their casual banter, leaving Lily feeling a little awkward. Thankfully, she had Hana to step up.
+
+"Hey. Yeah, we're first years, we're the first group to beat the first floor, but there might be another group soon," Hana explained.
+
+"Congrats," the boy from earlier said. "I guess that means we need to hurry up before the market is ruined."
+
+"Why not tell them about it? I'm sure they need money too," someone suggested.
+
+"Yeah, I was absolutely broke in my first year…" a girl muttered.
+
+"I'll almost never say no to more money," Lotte quickly chimed in.
+
+The boy who appeared to be in charge nodded and explained the situation. It was almost exactly like Lily had predicted, and they were hoarding resources. The students had banded together to only sell together, as anyone who dumped too early would pop the bubble and ruin it for everyone else.
+
+"I had no idea you could do something like this," Hana muttered.
+
+The leader nodded. "Not only can you do something like this, but the school kind of also encourages it. Why else leave most of the supplies up to students, when someone like Alice could probably gather more than all of us in an afternoon?"
+
+"Usually, the schemes don't go this far, but the fort has made a safe gathering point for everyone to send back supplies and keep going," the girl added.
+
+"Not to mention whatever Professor Sylwel has done to upset the headmaster. His transmutation fingers are twitching," another boy added. Lily assumed he must have been one of her seniors in the alchemy class.
+
+"So, that's the story. Just don't sell your goods for maybe another week or two, and then we can all cash out together," the leader said.
+
+"Who knew your fort would cause such a commotion?" Hana chuckled, giving Lily a poke.
+
+"I never could have imagined it would result in all this…" Lily whispered.
+
+"Wait, you're the one who created the fort?" a girl asked.
+
+Lily nodded and gestured to Lotte. "I drew the design, but I had help from my friends to meet the Mana requirements. It was our home during the camping trip."
+
+Someone whistled, and a few others stirred as they muttered to themselves. There were plenty of rumors flying around about the fort and who built it, but nothing had been confirmed. The only proof they had was that it had appeared after the camping trip.
+
+"No wonder they let them skip ahead," someone finally said. "I heard they had zero failures during the mock gauntlet, too."
+
+"Well, that's good news for the interschool competition. Hopefully, Regarth can take the win this year," the leader chuckled.
+
+Everyone agreed and nodded, excitement evident in their eyes and expressions.
+
+The older students had a few more questions for their group, especially Lily, who had been outed as the designer of the fort. She tried her best to answer what she could without revealing too much, and effectively answered the majority of the questions with glyphs being the solution.
+
+"Wait, you're the weird bunny who's been drawing in the air!" a student suddenly cried out.
+
+Lily gave a small chuckle and nodded. Usually, she would have been embarrassed, but this was further proof that the rumors and, hopefully, the belief were spreading. So she did her best to suppress her shyness and push the "glyphs can do anything" agenda.
+
+When one of the students requested a small demonstration, she was happy to do so and decided to add a more semi-permanent feature to the fort: a water supply. Her old glyphs that had made the fort their home had long since faded, so the other students hadn't seen it in its prime. While Lily would have loved to have rebirthed it, they didn't have the time for a long project.
+
+Using her Nebula Veil to hide her wand while hiding her actions, she began to draw in the air. For those who hadn't seen it, their shock was evident, and, to her joy, someone had even whispered "bloodline," exactly what she wanted.
+
+Thanks to the job she had done for Rose, components for a water glyph were fresh in her mind. It was being pieced together quite quickly, although Lily knew that it would, unfortunately, fade.
+
+Should I upgrade it to an inscription?
+
+If she did that, she could add supply points to the design. As long as students fed it a bit of Mana, it could theoretically remain indefinitely. While Lily was considering this, Arakil spoke up as if he had read her mind.
+
+[Your fort is already increasing your reputation, especially if these students spread that you are its creator. If you added a feature to it that never faded, it might further reinforce the belief in your abilities.]
+
+{Okay!}
+
+Lily settled her mind and started upgrading it; since they were all auxiliary glyphs, it was a very simple matter. At the same time, she asked if any of the older students were specialized in earth magic.
+
+Two students raised their hands, and Lily made the rather odd request to build a stone fountain in the center of the fort. She explained that she would embed the finished glyph into it as a fixture of the fort, and it should be able to permanently supply water.
+
+Several students couldn't believe it, and while conjuring water wasn't the most impressive display, Lily's mention of it being permanent still caught their attention. The pair of earth mages started working together to make a fountain, as creating large amounts of dense stone was a bit of a challenge.
+
+This is another area where glyphs and inscriptions are clearly superior.
+
+By the time Lily was finishing up the last touches of her glyph, the pair had mostly completed their fountain. It wasn't the prettiest creation, and Lily wished she had someone like Theo here to help, but this was Regarth, not Tresnia.
+
+Maybe I should have just asked for a big bowl… Oh well, what's done is done.
+
+Lily finished the inscription and then began moving it, causing a large stir from the onlookers. Drawing in the air was one thing, but moving it freely was another; it had genuinely shocked them. Doing her best to ignore the excited comments, she repositioned it to line up with the fountain.
+
+"Can you raise a bit of stone here?" Lily asked, pointing to one of the edges.
+
+One of the earth mages nodded and quickly did that. Now there was a squarish shape raised on the rim of the fountain, and where Lily would house the replenishment glyph. The final creation wasn't perfect, and Lily felt a tinge of disappointment that her inscription was a little tarnished, but for a rush job, it was good enough.
+
+She finalized the inscription's placement, double-checked that her sigils wouldn't cause the fountain to overflow, and then activated it. It shone brightly before water began to gush out of the center and fill the basin.
+
+The students were quite impressed, and a few even began to fill their canteens with the fresh water. It seemed that no matter how much they took, it would always refill itself. Not only that, but the water was even chilled, much to their delight.
+
+They asked a few questions about this creation, and Lily did her best to answer them all. One concern was that someone might vandalize it by throwing something into the fountain, but Lily explained that it would be filtered out over time.
+
+Finally, she pointed at the raised section on the rim and explained that as long as people donate a bit of Mana here, this fountain wouldn't lose its ability to create fresh water. This was the biggest shock and surprise, and a few of them tried and found that they could fill it with Mana.
+
+"Did you just create an enchanted item from scratch?" the leader asked.
+
+A few nodded at his question; to them, it seemed exactly like a magical item. However, Lily denied that assumption, simply stating that it was a glyph, and to emphasize this, she explained that without resupply, it would fade away. At the same time, magical items just went temporarily inert.
+
+This seemed to satisfy their curiosity, and they already agreed to spread the word that anyone who visits the fort should touch the raised section and donate some Mana. Lily couldn't have been more thrilled at the idea, as this would definitely help with her plan.
+
+"You need to get to deeper floors as soon as possible. We need more forts like this," one student said, to the nodding agreement of the other students.
+
+"I'll try my best, but it's up to Alice and Headmaster Fabrelis," Lily responded.
+
+After that, she apologized to Lotte and Hana, who had been sort of left on the sidelines. The two didn't complain and, in fact, said they had enjoyed the show, but were still eager to get back to exploring.
+
+The group said farewell to the students while also agreeing to hold back on selling their ingredients for now. Lily felt a little bad since Sylwel had specifically asked them to try to get supplies, but she didn't want to have a bunch of older students upset with her.
+
+When they were out of earshot of the fort, Lotte also brought it up, saying it wouldn't be wise to ruin their little scheme. Plus, they were expected to end it in a week or two, which was hardly any time at all.
+
+With that out of the way, the trio had quite a day venturing around the second floor. With Hana as their scout, they found a few interesting areas that hadn't been harvested yet. While they didn't find any chests or magical items, they certainly made up for it in terms of raw resources.
+
+When they finally returned home, they had achieved quite an impressive haul, which made Hana giddy for the day they all cashed in. All in all, Lily thought the day went perfectly. They had met good-natured older students, she had hopefully advanced her plan, and she had a fun day exploring with two of her friends.

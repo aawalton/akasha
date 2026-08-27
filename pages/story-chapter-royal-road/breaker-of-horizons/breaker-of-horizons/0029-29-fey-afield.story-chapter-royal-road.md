@@ -1,0 +1,93 @@
+---
+id: 17feda0f-e88d-548a-b890-33d6c5db7322
+page-type-slug: story-chapter-royal-road
+title: "29. Fey Afield"
+slug: 0029-29-fey-afield
+partOf: breaker-of-horizons
+position: 29
+ownLength: 2399
+unit: words
+publishedAt: 2020-08-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/537082/29-fey-afield"
+royalRoadId: "537082"
+---
+
+It seemed that every passing week brought to light some new application of arcanophany just casually displayed in the Academy — the blackboard in the Nivordin Lecture Hall transcribing our speech in our handwriting; the glyphs in the Ka'atus Room being capable of granting conditional invisibility and temporarily manifesting matter; and now, Caldwell materialising from and de-materialising into thin air.
+
+Before my admission into the Academy, I might have seized upon this latest phenomenon and obsessed over it. The simplest explanation was that he had been invisible and lying in wait for me at the gate, but that seemed quite unlikely. The more incredible explanation was that he had teleported — but that was the kind of thing you read in exaggerated stories about arcanists. If teleportation were real, the transport industry as we knew it wouldn't exist.
+
+But now I was too tired to dwell on it. It wasn't a physical thing — I suppose it was just the accumulation of so many stressors, coming together and manifesting in a sudden burst of general apathy with this proverbial last straw on the camel's back. I just wanted to sit down with my books and study, and not have to think about the strange things happening around me for a while.
+
+Thankfully, the door yielded to a simple push. Despite its ancient and hefty appearance, it was perfectly balanced and swung open without complaint. A closer look revealed that glyphs had been worked into the hinges, but I didn't recognise them at all even though I had a passing familiarity with the entire Advanced Set. Apparently there was an even greater body of glyphs that we had yet to learn about, not including glyphs that were probably not public knowledge, such as the glyph for prophetic links.
+
+I stepped over the threshold and into the blessed warmth of the morning sun. The path of paving stones meandered down a gentle grassy slope, leading to a sizeable square pavilion set on an expanse of flat ground that had been cut into the slope. A two-story structure stood alongside it. Both were designed after a rather antiquated style, featuring sturdy oaken beams with little decoration. The gabled roofs of both the pavilion and building were polished slats of wood. It had an altogether more rustic feel that was a little at odds with the grandeur of the walls nearby. Beyond that, the civility of the paving stones gave way to a dirt path that traced a route through the knee-high grass, leading further down the slope to the banks of the lake.
+
+And there it was — the water brilliantly blue, the surface only gently perturbed by the soft breeze, reflecting the slightly cloudy skies. There wasn't a soul in sight. I paused at the threshold to take in a deep breath and just drink in the vista, then slowly made my way down towards the building.
+
+It turned out to contain more than just toilets and showers. The first floor was mostly dominated by a small hall with stacks of foldable tables and chairs neatly set against a wall. A simple spiral stair led up to the second floor, which contained smaller rooms that were populated with circular tables and an assortment of beanbags and comfier seats. And although this place appeared unused, there wasn't a speck of dust anywhere. Whatever housekeeping glyph sequences were in use here, they were definitely working well. All in all, it was the kind of place you might use to throw a nice party, or as a great study spot, which struck me as rather odd if this place was generally off-limits.
+
+While the place was nice, I finally settled on actually sitting by the lake. I borrowed one of the foldable chairs from the premises (a deck chair would have been preferable, but this would do) and found a nice spot by the bank to plant it. I took a few minutes to just contemplate the view from the water's edge, then buried my nose in the Advanced Glyphs textbook.
+
+I jerked awake as the textbook slipped out of my grasp, along with the notebook I had been scribbling in. Even though I had been sitting in the sun, I was still kept pleasantly cool by the intermittent cloud cover, and the weather conspired to make me so comfortable that I managed to fall asleep. I groaned as I looked at the time — it was almost noon.
+
+At the very least, I had been able to run through the entire Advanced Set with my flashcards, and I was pretty confident about being able to accurately read and write maybe 90 percent of them. The reading for the next class was dense, and that was where I had started to drift off.
+
+That first discussion question had presented a huge knot. I picked up my books and tried to go over that last fuzzy train of thought before I headed back to get lunch.
+
+"Why do common artefacts work reliably for laymen despite the fact that they have no understanding of glyphic theory, and do not recognise anything beyond the Basic Set?"
+
+That was quite puzzling. I knew that having a deeper understanding of the concepts tied to a glyph would enable you to do more with it when using mental glyphs — that was how we were all beginning to learn how to bend arcanic bolts without resorting to full, pre-set sequences. It thus stood to reason that you needed, at the very least, a rudimentary understanding of the glyphs on an artefact before you could get it to do anything. And yet many common artefacts like my watch made use of Advanced Set glyphs, and they work just as well for laymen as they do for arcanists.
+
+If glyphs were just a structured form of frameshifting, then it followed that the laymen ought to be unable to use artefacts at all. After all, they didn't even know enough to know what to expect from the glyphs. So why was it they could get away with just knowing the Basic Set?
+
+The discussion question seemed to be designed to raise even more questions. I penned down my follow-up queries and resolved to ask them in the next class.
+
+As I stuffed everything into my bag and looked out across the lake, a stray thought entered my head: the view must be awesome from the air.
+
+My heartbeat quickened as I made the leap through a series of mental checkpoints — friend-in-the-arcana; flying; not forbidden; private space; friends safe; time to experiment?
+
+A grin split my face.
+
+I set my bag on the chair, walked past the boundary where the grass gave way to the pebbled bank and went right to the edge of the water. Somehow, standing there with the lake spread out before me, I was filled with a sense of... something. Exhilaration? Expectation? Wonder? It was hard to put a name to that emotion, but it suffused me, and I found myself throwing my arms wide open as if to embrace the world. A laugh escaped my lips — bright, care-free, even a little childish. I felt like I was six, and an old memory blossomed into full colour; racing my father across a jetty and leaping into the water after him, while my mother who was already floating there raised an arm to shield her eyes from the twin bombardment of our splashes.
+
+Come, I called into the arcana, feeling it surge both in and around me, and let us leap across the lake and skies!
+
+It answered. The air grew heavy again at the moment of manifestation, but this time it quickly resolved into a buoyant force that lifted me emotionally as much as it did physically. My feet left the ground with a soft gust of air, knocking the chair and my bag over. I barely had time to register that when they, too, floated upwards before being gently righted and set back down.
+
+As before, I found myself awash in euphoria. But now instead of being borne up and away by the friend-in-the-arcana, I found myself drifting forward lazily. The sunlight glinted off the water, and I wondered what it would be like to touch—
+
+—panic-shock-glee! I rocketed straight into the lake and sent up a plume of water before breaching the surface and shooting up several metres into the air. My hair and clothes were soaked, but a wonderful warmth was spreading through my body, a thousand times better than the whiskey my father had given me, and I was immune to the chill of the air.
+
+I lost myself for a while, moving more by impulse and instinct than by properly structured thought. We leapt across the lake and skies, as I had asked. The lake yielded itself to me as I plunged deep into it, deep enough to look up and see the surface as little more than a glowing spiderweb of waves silhouetted by the sun, and then the lake released me lovingly as I shot back up to fill my burning lungs with life. The wind caught me and sent me skittering across the water, and I filled the air with spray as my shoes traced a path in the froth. Back and forth I went, a capricious spirit darting from one whimsical fancy to the next. I wanted to hug the sunlight, to dance with the wind, to make the water sing. I did all that and more, lost in a haze of giddy delight.
+
+Utterly, marvellously lost, like a child snatched up by the fey.
+
+It wasn't until I somehow managed to take a proper look at the sun without being captivated by it that I was jolted out of that euphoric reverie. It was setting. I fiddled with the watch on my wrist and turned it around since it had gotten a little loose after all that messing around and confirmed that it was nearly four.
+
+With that realisation, I began my descent. The ripples of arcana wafting off me diminished as I approached the lone chair on the bank, and I slowly settled back into reality. I was still soaked to the bone, and now the wind playing across my skin was no longer pleasantly warm — it sent icy tendrils snaking over me. The last of the arcana fell away in tattered ribbons as my feet brushed the pebbled bank, and I stumbled forwards onto the chair, shivering violently.
+
+The overdraw hit me a moment later in full force. Suddenly the darkening sky didn't seem to want to stay fixed overhead anymore. I tilted sideways, clinging on to the chair for support as the world spun around me. The thundering of my heart filled my ears and pulsed painfully through my fingertips.
+
+Vent. I clung on to that thought and tried to focus on the right glyphs for the job. The air began to ripple again as I forced out the ambient arcana that was suffusing me.
+
+The light was fading fast, and there wasn't enough auric arcana left in me to spend on a simple globe light. I had enough presence of mind to grab my bag. The chair I abandoned — maybe I would come back for it some other time when I had enough life in me to care about Academy property. I started trudging up the dirt path, fighting off physical exhaustion while dealing with the mental strain of venting.
+
+I felt a moment of abject panic when I neared the wall and couldn't immediately spot the door, but I let out a cry of relief when I saw its dim outline in the darkness as I drew closer. The relief sharpened exquisitely when I found that it still opened easily. I thanked the Fates for the architect or artificer who designed a door so balanced I could probably still have found the strength to open it right before I shuffled off the mortal coil.
+
+As soon as I staggered over the threshold and the door clicked shut, it vanished. This time, there was an audible squelching sound and I watched as the marbled wall rapidly grew over the door, effectively swallowing it. But I couldn't waste any energy on that disturbing sight at the moment. I continued my agonising journey back to the dorm. Mercifully, the paths within the grounds were illuminated by globe lights, so all I had to do was just keep putting one foot... in front of... the other...
+
+"Caden? Fates, what happened?"
+
+My head felt too heavy to raise, so I settled for tilting it to the side. It was... someone, frozen in the act of opening the door to our dorm building, a bag of groceries under his free arm. I had managed to make it back.
+
+"I'm just gonna... sit down here..."
+
+I sank to my knees as the world spun around me again. Distantly, I heard raised voices. There was a vague impression of frenzied movement around me. And I couldn't tell if my feet had left the ground again, or if that was just a particularly bad flare of vertigo. All I could do was cling on to the glyphs in my head and make sure that I was venting, and sealing as much as I could.
+
+Inexplicably, the phantom smell of pancakes came to me, and I thought of someone's glyph sequence for slowing down heat loss. It came apart in my head, and I decided to try slotting its principles together with my understanding of venting with the proximate ambient arcana glyph. I needed to form his 'fuzzy' barrier. It seemed to work better than trying to create a perfect screen. The ambient arcana continued to seep in, but the flow had slowed to a trickle. It no longer felt like I was trying to bail water out of a sinking ship with nothing more than a pail.
+
+I finally gained enough awareness to realise that I was now in my bed in the dorm. Five other people were crowded into that small room, looking down at me. I was sure I knew who they were. I opened my mouth, intending to thank them, but I felt another throb of vertigo and my focus on the glyphs slipped.
+
+I needed to close my eyes for another moment.
+
+... just another moment.

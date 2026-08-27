@@ -1,0 +1,231 @@
+---
+id: 9bbab6f1-3d01-5dd5-83b5-9bb713106b45
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 26 - Final Fight"
+slug: 0030-b3-chapter-26-final-fight
+partOf: bookbound-bunny
+position: 30
+ownLength: 2325
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3242166/b3-chapter-26-final-fight"
+royalRoadId: "3242166"
+---
+
+Lily wasn't sure how to react after hearing that Lotte had attacked the headmaster's floating eye. Her mind raced as she tried to figure out how to explain it when she or they inevitably got questioned about their actions.
+
+[I don't think it will matter too much. If anything, I'm sure you three have just learnt it ahead of schedule. I cannot fathom a reason why this world would have lost the ability to see Mana. If you need an excuse, just say you found an illustration of it in my book.]
+
+{Okay…} Lily sighed and eased up. If Arakil wasn't worried about it, then why should she be?
+
+As they ate breakfast, the two gave a more detailed recollection of their evening. Lotte had used her improved attack spell to great effect, and Thomas had used another component from the lightning scroll Arakil had designed.
+
+It sounded like quite the exciting evening, and Lily once again felt like she'd missed out. She couldn't help but look at her creation and feel sad that it wouldn't be put to use.
+
+"Won't you get a chance tonight?" Thomas asked.
+
+"I feel like the test might be over," Lily answered. "Why else would the teachers be spying on us with the eye?"
+
+"I guess that makes sense," Lotte said, scratching her cheek.
+
+"Yup, she's right," Alice suddenly said, having once again appeared from nowhere.
+
+The three students flinched at her sudden arrival, watching the woman poking around inside their pot while sniffing it.
+
+"Did we win?" Thomas asked.
+
+"Yes, technically, but all three groups are being declared winners," Alice answered as she unabashedly began helping herself to food.
+
+"Technically?" Lotte repeated.
+
+"Well, since it's likely we can't get any of you to give up, we are telling you all to 'forfeit' at the same time, while marking you all as easily able to stay longer," Alice answered between mouthfuls of food.
+
+The three didn't have any complaints about that decision, as they had long predicted they'd receive more unsupervised access to the dungeon as a reward for their good performance. Not to mention, even though their camp was luxurious in comparison to others, they still missed their rooms and beds. Lily was surprisingly even missing Aura's pastries.
+
+"Is our technical win because of the treasures we found?" Lily asked this time.
+
+Alice nodded, her cheeks stuffed with food.
+
+The three smiled triumphantly at one another.
+
+"So when are we forced to leave?" Lotte asked.
+
+"Tonight, so everyone can properly recover before classes start again," Alice answered.
+
+Lotte sighed, "That's sooner than I expected…"
+
+"Should give you enough time to do one last adventure," Alice shrugged. "Just don't do anything too crazy, or your win will be marked as a failure."
+
+The three gulped nervously and nodded. It would be horrible to suddenly forfeit their win right at the finish line.
+
+"Do you think you could take our camp supplies with you then?" Thomas asked.
+
+Alice paused. "Why?"
+
+"We've run out of space…" Lily answered.
+
+"Already? Even with her bag?" Alice asked, pointing at Lotte.
+
+The three nodded again.
+
+"If you can't, we were just going to leave them here," Lotte said.
+
+Alice awkwardly scratched her head before letting out a sigh. "Okay, sure, I'll take your stuff as thanks for this meal."
+
+The three smiled again, especially Lily, who was delighted they weren't going to be wasting money.
+
+"Hopefully, we find something good for you to test that glyph on," Lotte said.
+
+"Can you bring it with you?" Thomas asked.
+
+Lily nodded. "I can, thanks to the wand."
+
+"I swear that wand has every staff member scratching their head," Alice said, pointing her spoon at Lily. "Ollie especially has been tearing his hair out for missing such an amazing treasure."
+
+"They won't take it away from her, will they?" Lotte asked, frowning.
+
+Alice shook her head. "No, it was a reward and earned. It would go against Regarth's principles if they did that. I wouldn't allow that, and neither would the fuzzball."
+
+Lily sighed with relief. While she had wondered if someone would take it away from her, she had thought it might end up being another book situation. Yes, they might take it, but when they discovered they couldn't use it like she could, then they'd ultimately return it.
+
+I even offered to let Professor Ollie study it. So that threat should be at a minimum.
+
+After that, Alice actually spent some time chatting with Lotte and Thomas about last night. Evidently, she had also been watching the events and was complimenting them on their efforts and new surprises. Thomas especially received quite a bit of praise, as he'd begun to shine throughout this trip.
+
+I should have given him the scroll sooner.
+
+Lily still had a bit of regret about that blunder, but considering Alice spoke of other students getting their chance to shine during this trip, she started to forgive herself.
+
+After receiving a dose of praise and constructive criticism, Alice dismissed them, telling them to hurry and get any last-minute adventures out of the way. Thankfully, the topic of the floating eye was not brought up by her friends or Alice, but Lily expected that Headmaster Fabrelis might have a few words for them when they returned.
+
+"Return to the central camp tonight, then I'll lead all nine of you out of the dungeon," Alice said.
+
+Alice wasn't budging, evidently her plan was to stay behind and polish off any remaining food before packing up their camp for them. They were about to leave when Lily suddenly paused and looked around them.
+
+"Do I need to take down these walls?"
+
+Lotte looked genuinely upset by that question. "I hope not… I was hoping it would become a landmark for the dungeon that we could revisit sometime."
+
+Thomas bobbed his head in agreement, likely sharing similar thoughts.
+
+Alice scratched her head as she thought, then shrugged. "Nah, leave it up. I can't promise it will stay, as who knows what other students will do to it when they find it. Also, there's a slim chance the dungeon might reclaim it if it decides to shift the second floor."
+
+"How often does it shift the floor?" Thomas asked curiously.
+
+"On these big open floors? Almost never," Alice answered. "Unless the headmaster specifically requests it, or there's too much damage they generally stay untouched. For example, if a certain girl with a fiery temper sets half of the entire floor ablaze…"
+
+Lily groaned as she placed her head in her hands.
+
+Rose…
+
+"That's great, I hope we can see how long this fort lasts," Lotte smiled and patted the wall.
+
+"It would be nice if it became an unofficial secret room," Thomas said.
+
+Alice raised an eyebrow at Thomas. "First years aren't supposed to know about those…"
+
+Thomas looked surprised. "But I found it in a book on the first floor of the library? Was it misplaced by accident?"
+
+Alice sighed. "I suppose so. Anyway, try to keep that to yourself for now."
+
+After that, she waved them off. Lily and Lotte stared at Thomas expectantly, and he subtly motioned with his head towards the exit.
+
+The group had all their supplies ready for one last trip, with Lily dragging her glyph along with the wand. She really hoped that one of her future lessons would include a better way to store away such large constructs.
+
+I saw Arakil shrink a glyph down after it was drawn, so there's hope!
+
+Once they were out of earshot of the camp, the two looked at Thomas expectantly again.
+
+"Okay, I'll spill," he sighed. "Although I'm warning you beforehand, I don't have the full story as it was only a small note in the book I read."
+
+"Okay, we'll temper our expectations," Lily agreed.
+
+"Secret rooms are hidden locations inside the dungeon that remain unchanged no matter how the floor might shift," Thomas began explaining. "Not only that, but monsters cannot enter them, so they are safe to stay in. However, there's a catch: you need to not only find them but also have the key to access them."
+
+"That sounds cool and all, but why the big secret?" Lotte asked.
+
+"Perhaps it's how you find the secret room? Or more likely, the key?" Lily suggested.
+
+"I think so," Thomas concurred. "If the key is held by an elite monster on the floor, then wouldn't it be too risky for us first years?"
+
+"I guess…" Lotte agreed reluctantly.
+
+"Rose mentioned having a secret room," Lily revealed.
+
+"Do you think she earned it during the break before the second year started?" Thomas asked.
+
+"Must be, if first years aren't allowed," Lily replied.
+
+"Okay, so it's a safe room, but what's the big deal?" Lotte asked and pointed back at the fort. "We made one ourselves. We could probably do it again, right?"
+
+"I believe the untouched by the dungeon is the key part," Thomas speculated. "Meaning you could leave behind supplies and items in the room."
+
+"Like a secret base!" Lily gasped.
+
+"Exactly," Thomas said. "So you have a place to store loot and food, as well as a place to recover and rest. That's a massive advantage in a dungeon, especially on the more dangerous floors further down."
+
+"If one of us finds one, we should share it," Lotte suggested.
+
+"Like a clubhouse?" Thomas asked.
+
+"Sounds like a good idea," Lily agreed. "I might be able to borrow Rose's, too."
+
+"Assuming we can reach the floor it's on," Thomas pointed out.
+
+"Hey, have some confidence! We survived the second floor so well that Alice is literally kicking us out," Lotte chuckled.
+
+Thomas grinned. "Good point."
+
+The group continued their cheerful chatter, with much of the conversation focused on speculating about the potential of the secret rooms. They even made rough plans to bring in proper furniture and fully kit out a home away from home, which made Lily finally realize that Rose had been staying down below for so long.
+
+"No wonder Rose said the dungeon was better than her room. I bet she's built something amazing," Lily said after revealing it to her friends.
+
+"Damn, now I'm even more excited," Lotte said, almost dancing on her feet.
+
+"We still have the rest of the first year to get through," Thomas said.
+
+They eventually wandered into some uncharted territory, where they found another monster den. At first, they thought it must have been a small one, since they didn't sense many presences, but they soon found out why.
+
+The territory was home to huge monsters with blueish-grey skin. They had massive upper bodies, especially their muscular arms, yet with almost comically small legs and heads. At first, Lily thought they were overgrown gremlins, but Thomas actually revealed what they truly were.
+
+"Forest trolls…" he whispered.
+
+"Well, it looks like we will definitely be ending on a high note then," Lotte whispered back.
+
+"I haven't read anything about trolls," Lily admitted. "What are their weaknesses?"
+
+"Fire or acid," Thomas answered. "They can regenerate, so you have to cauterize the wounds. Of course, that's assuming they aren't killed outright."
+
+"Do you think your lightning would count?" Lotte asked. "Otherwise, it sounds like I'll be working overtime."
+
+Thomas paused, scratching his chin. "It should work…"
+
+"If it doesn't, I can maybe throw out some fire glyphs," Lily replied, then gestured at the glyph she'd been carting around. "Although I still want to try this one out before that."
+
+Lotte giggled softly. "With the size of that thing, I don't think they will be regenerating."
+
+"Still better to be safe than sorry," Thomas correctly pointed out.
+
+Lily agreed and looked through her pouch. She did have two firebolt talismans remaining, but the rest of her supplies had been spent when she gave them to her friends during the dryad attack. Strangely, the two had still not brought that up, and she couldn't help but wonder what dreams Arakil had made them see.
+
+"Okay, will you do the honors then?" Lotte asked Lily.
+
+Lily nodded and brought the large glyph to the forefront. She locked it in place and, after swapping her wand to its default mode, activated the glyph. It hummed with magical might as it began to glow, and its magical presence caused the forest trolls to stir.
+
+Lily pointed her wand directly at the nearest troll, and the glyph instantly responded. Bolts of ethereal arcane energy shot out like a swarm directly at the troll; its eyes went wide, and before it could react, it was pummeled relentlessly by the magical attack.
+
+Lotte and Thomas gasped, not having expected such a brutal display from Lily. Even Lily was slightly taken aback, as even though she had personally drawn it, she had never used it on a monster before. The glyph continued to hum, and as long as Lily kept pointing at the troll, it kept unleashing a seemingly endless barrage of magical bolts.
+
+The troll soon succumbed and exploded into black flakes, its regeneration not enough to withstand the onslaught. The glyph stopped responding when the target perished, yet it remained still, thrumming with power. Lily quickly fed it some Mana to replenish it, ready to target the next troll immediately after.
+
+"I'm glad we didn't wake you up, or we would have had nothing to do!" Lotte suddenly said, her tone was joking, but Lily could sense there was some truth to the statement.
+
+"I just wanted to be prepared…" Lily said sheepishly.
+
+"More like overprepared," Thomas chuckled as lightning began to crackle in his hands. "Leave some for the rest of us!"
+
+"Then you better hurry up," Lily teased, right as she thrust her wand at the next forest troll.
+
+"Oh no, you don't!" Lotte shouted too, a magical snake already coiling around her arm.
+
+Lily giggled. This trip was totally worth it. I can't wait to see what else Regarth and this dungeon have in store for us.

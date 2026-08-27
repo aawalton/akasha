@@ -1,0 +1,159 @@
+---
+id: a2aa526d-7ce3-5861-9a97-ea00263932a5
+page-type-slug: story-chapter-royal-road
+title: "v7c10: The Virtuous's Reward"
+slug: 0263-v7c10-the-virtuous-s-reward
+partOf: beware-of-chicken
+position: 263
+ownLength: 1998
+unit: words
+ownProgress: 1998
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2834480/v7c10-the-virtuouss-reward"
+royalRoadId: "2834480"
+markedReadAt: "2026-06-29T19:00:26.077Z"
+---
+
+Guan Chyou of the Azure Jade Trading Company loved what was becoming a semi-annual journey north; it was a full third of her year that was spent traveling, and yet, every moment was worth it.
+
+The wind in her hair, the strain of travel, the feeling of adventure… all of it was fantastic. She could tell why her ancestors chose this profession. It was freeing.
+
+They traveled light, making very good time on their horses… and better time on their carts. Their last trip north had allowed them to purchase some miraculous new equipment from Mengde’s Crystal Emporium.
+
+Master Jin had shown them Lady Biyu’s newest creation, the Partial Storage Array. They had tested the new arrays extensively… and now the trading company was buying as many of them as the crystal carvers were selling. The demand was so high they were using their new contacts outside the province to purchase both defective storage crystals, and any spare scraps people had.
+
+Another lucrative venture for them both. They increased the speed at which the caravans could move by over fifty percent when fully laden. Axle and wheel breakdowns were being reduced to a fraction. Animal wear? The beasts practically skipped along the road, and now they could run while fully laden, in case anything went wrong.
+
+It also took nearly five days off the trip north. The gates of Verdant Hill soon were upon them, and they went straight to their warehouse to prepare everything for their meeting with Master Jin.
+
+Lady Biyu had crafted an absolute wonder—and it was quite something to see just how far things had come.
+
+Last year they had delivered one thousand bales of Gold Grade Rice to the most secure compound the trading company owned.
+
+And not just rice. They had bushels of wheat, baskets of root vegetables, and even some barrels of preserves.
+
+It had certainly been an arduous journey transporting it. Their cultivator guards had been on edge the entire time, and they had not just one, but two Spirit Beast encounters. Unlike the disciples of Master Jin, these had not been kindly creatures. They had desired nothing but to kill everyone and devour the bounty they had been escorting.
+
+The thunderous roars had been terrifying, sending Chyou’s heart racing, her palms sweating, and taking all her effort not to grin at the sheer excitement of the event.
+
+The sectless guards they had hired had been paid well for their trouble afterwards, and each and every one put in a polite request that the trading company think of them every time they took the northern route; for they would be happy to accompany them.
+
+Staring out over the vast warehouse with her family, each bale in an individual strongbox, her grandfather had remarked:
+
+“Heavens above; did we raid the Celestial Treasury?”
+
+They may as well have.
+
+It was good that Master Jin was their lord. He understood the matters of merchants, and allowed them to take their profit—money was, after all, not what he desired. Instead, he wished for food, seeds, books, and medicine.
+
+Their people had swiftly become squirrels, hunting down seeds and sprinting back to their quarters. They took great pains to speak with farmers throughout the Azure Hills, and the traders from other provinces, so they could tell Master Jin what they had gathered for him.
+
+While they did that, they continued the preparations for the southbound expedition. Their partners at Shipbreaker Coast from the Wave Piercer Trading Company were nearly as eager as they. The fleet expanded to six ships. The route was finalized; and the timetable was set.
+
+Guan Chyou would be heading to the southern reaches of the Empire at the end of summer, this year.
+
+The thoughts danced in her head of the wondrous places she would visit; the first in her family to see them. She was practically vibrating from excitement, even now.
+
+Chyou woke up every day thinking that their patron was so benevolent.
+
+“Bo! Chyou! Good to see you two!” And speak of Cao Cao, here he was. “I was in town and heard you arrived, how have you two been?”
+
+Master Jin was as jovial as ever, his smile wide as he clasped wrists with Bo. Lady Meiling was with him, and the short woman walked forward to greet Chyou herself, treating her like an old friend.
+
+They made small talk about the journey, and Master Jin apologised that due to unforeseen circumstances, the maple syrup yield would be slightly smaller this year.
+
+“Worry not, Master Jin!” Bo waved off all the concerns. “Leave it to us, we’ll soothe over any ruffled feathers. It just drives home how rare your product is and will drive up demand!”
+
+“Good man,” Master Jin said, clapping him on the shoulder. “We’ll catch up more at my place… but for now, do you have any information on that… stuff, I asked you about?”
+
+His tone remained jovial, but Chyou abruptly felt a chill pass over her spine.
+
+Benevolent did not mean without teeth, as they had been reminded.
+
+After the Solstice his First Disciple, Fa Bi De, had arrived in the city along with the Demon Slaying Orchid; he had come with a box and a message, couched in polite language, and then the man had left after delivering a primed firework into their midst.
+
+The Wu Clan had offended Master Jin. They had tried to harm those under his protection… and come spring, there would be a reckoning.
+
+The Wus were one of the trading company’s biggest customers, not to mention one of the preeminent powers in the Azure Hills. Their clan was truly ancient. They boasted a history that traced their line back to the Age of Heroes, and they had money and prestige to match. They were powerful, and even more so since most of their rivals had been cut off at the knees in the Grass Sea City incident. The power bloc that had been founded, in part, to fight against the Wus’ overwhelming might was now in ruin.
+
+The answer they had, and the path forward was obvious… especially when they opened the box.
+
+There were Spiritual Herbs in it. Not rice, but actual Spiritual Herbs.
+
+Spiritual Herbs so powerful Chyou could feel the Qi on them, and she was mortal.
+
+What came next was only natural. They began the process of decoupling themselves from the Wus, and the Plum Blossom’s Shadow did brisk business.
+
+Though, to her surprise, at reduced rates. It appeared that the Wus had well and truly messed up.
+
+Rumours spread, cultivators were bribed and bought off, and the Wus were starting to feel the first seeds of unease; like something was wrong.
+
+The shadows danced all around them, quietly cutting tendons and blocking arteries.
+
+“We have followed your instructions to the letter, Master Jin,” she replied.
+
+Master Jin was not involved, after all. This was merely a… mortal spat.
+
+Lady Meiling embraced Chyou like a sister. “You both are always so reliable,” she praised, and Chyou straightened up.
+
+Master Jin smiled. “Good, good. Well, get freshened up, and then we’ll talk to the Lord Magistrate, eh?”
+
+=====================
+
+When the Lord Magistrate of Verdant Hill came into the meeting, he merely thought that they would be discussing travel arrangements. He knew his student wished for them to travel with him… and now he was listening to the argument Jin was presenting.
+
+“And that's why we should travel together!” Jin finished, a smile on his face.
+
+The Lord Magistrate considered his student’s words carefully and glanced to his wife, who simply raised her eyebrow.
+
+…he had to admit that the points his student had brought up were pertinent.
+
+They had their business in the south with his wife’s family, and though it was shameful to involve his student directly in mortal business… not travelling with them at least to Pale Moon Lake City would be, quite frankly, stupid. While his wife was largely healed from her affliction, travelling all the way to Pale Moon Lake City on horseback would be a very hard journey. With Jin, it would be much easier, and they wouldn't have to worry about any bandits or Spirit Beasts.
+
+“We will travel with you,” he conceded.
+
+Jin nodded happily.
+
+“Who is going to be in charge while you’re gone?” Meiling asked, her voice curious.
+
+“I will be,” Bao answered. “Though we shall sorely miss your direct hand, Lord Magistrate, your orders shall be followed with precision.”
+
+Bao gave the Lord Magistrate a little smirk, and the Lord Magistrate huffed.
+
+Frankly they could be gone for probably a decade, if Bao was in charge… but being gone a decade meant that his people would start ascribing their success to someone else! His legend would diminish! He would not be greeted so warmly on the streets!
+
+No, this was intended to be a lightning assault. The Lord Magistrate still had some allies, and the Wu’s had no shortage of enemies. Combined with his wife’s knowledge… they could do immense amounts of damage. It would be a hard fought battle to be sure, but his son was worth the battle.
+
+His wife’s declaration of ‘Joyous Days Ahead’ with her fan, however, should have quickly clued him in that things were going to be different than his original plans.
+
+“And so we will also be relying on the hospitality of the esteemed Azure Jade Trading Company?” he asked, still curious about the woman’s presence. He was planning to sound them out and see about their opinion of the Wu Clan. Perhaps they would be amenable to some manner of alliance?
+
+“Yes, Lord Magistrate. We will support you in every way we can while you conduct your business in the south. The Azure Jade Trading Company heard of the grievous insult the Wu Clan has levelled at the teacher of our patron. Naturally, such a thing cannot stand,” Guan Chyou said, her voice like she was talking about the weather.
+
+The Lord Magistrate blinked. Sheng Yanjing, the Auditor, started chuckling to himself.
+
+He had been counting on some allies. He had not been expecting to walk into the battlefield with an entire army at his back already.
+
+Some part of himself felt shamed that it was not his shield that his son would take shelter under. It was not his actions that were going to protect his family.
+
+And yet it was a foolish thought, driven by his own pride.
+
+“The virtuous receive aid wherever they tread. The wicked are spurned from every corner,” his wife spoke, her voice cutting through his thoughts. She was quoting the Cloudy Sword Sect manual that they were reading together. “Is this not a reward from the heavens for your exemplary work?”
+
+The Lord Magistrate paused.
+
+He did not consider himself a particularly virtuous man. He was a coward, a liar, and a fake. He acted righteous so people would praise him.
+
+And yet… was not his commandery prosperous? Were not his people protected? Maybe the heavens could not read men’s hearts. Maybe they could, and they were helping out his son instead—his dear son certainly fit the bill better than he did.
+
+His wife had said everything that would happen afterwards was karma. Maybe it was karma for making him deal with all these intrusions into his peaceful life.
+
+The Lord Magistrate of Verdant Hill let out a breath.
+
+When he first left Pale Moon Lake City, it was fleeing with a crippled princess to the most out of the way and poorest town he could find. Their enemies left them alone because they were so weak and worthless they were beneath their notice.
+
+Now, he would be returning at the head of a force that would make the Wus tremble… even before counting the cultivators that would help if he asked.
+
+It appeared that heaven’s justice was stronger than he imagined.
+
+“Well, I do believe that I can work with that,” the Lord Magistrate said with a smile.

@@ -1,0 +1,175 @@
+---
+id: 84e070a6-81e2-5012-b437-f3049f5acb5a
+page-type-slug: story-chapter-royal-road
+title: "v6c29: A Surprise Storm"
+slug: 0217-v6c29-a-surprise-storm
+partOf: beware-of-chicken
+position: 217
+ownLength: 2478
+unit: words
+ownProgress: 2478
+publishedAt: 2025-05-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2313667/v6c29-a-surprise-storm"
+royalRoadId: "2313667"
+markedReadAt: "2026-06-29T18:58:48.338Z"
+---
+
+It took quite a lot to surprise Xiulan anymore. Fa Ram had a way of making the most absurd things seem natural. But this? This was a bit much, even for her.
+
+Everyone knew of the elegance, the control, the grace of the ladies of Soaring Heaven’s Isle. They were legendary even in the Azure Hills, and of all the tales of powerful sects her mother had told to her when she was young, Xiulan had enjoyed the ones about Soaring Heaven’s Isle the most. The tales of those cultivators, who reached heights the Azure Hills couldn’t even dream of, standing atop the heavens. They gazed down upon the world like all of it was beneath them, and they plied the skies on great ships so powerful none would dare bar their passing.
+
+The ethereal fairies of the floating isle were cultivators every woman aspired to be like. The self-control and self-mastery, unburdened by the stigma that still sometimes came with their sex; for no man could ever dare call the ladies of Soaring Heaven Isle Sect weak, nor unsuited for cultivation. Even the most chauvinistic of men could only swallow their tongues and bow their heads, lest they be smote like ants before the titans that ruled the heavens.
+
+Lady Minyan had been the ultimate example of that. Her effortless grace had taken Xiulan’s breath away. Her sublime control was a thing of beauty. Each movement was taken with unparalleled skill. She was the epitome of the legends of the Isle.
+
+But now…
+
+Lanlong Bailu had her arm slung around the back of Wa Shi’s head like they were old friends, and the other one, Seiyu, had both of her fists raised in the air, victory written all over her face. The others looked in varying states of panic.
+
+It was even worse because Xiulan had actually heard of the Storm Wings before, even in the Azure Hills—traders whispering in awe of the shattered remains of an entire pirate fleet, mountains with craters in them, and the bellowing roar of a dragon mixed with the crashing waves of an inland sea.
+
+It was certainly a blow to the image Xiulan had built in her mind, an image of indomitable glory and perfection.
+
+But in the end, she supposed, nobody was truly perfect. Hells, several Imperial Realms she had met hadn’t been perfect, so it stood to reason that the lower ranks weren’t anywhere near Lady Minyan.
+
+“My, my,” Shen Yu chuckled. “Minyan understated how carefree you were.”
+
+Both of the women paused when he spoke. Seiyu coughed and rose to her feet, while Bailu just draped her spine over Wa Shi’s neck so she could clasp her fist in a salute… while hanging upside down.
+
+“Lord Shen Yu,” Seiyu greeted with the grace that had been missing seconds ago. “We beg pardon if we offended you, but Elder Minyan spoke of you in the fondest terms. How could we not lower our guard in front of such a friend of our Isle?”
+
+“And it feels like a good, safe place here,” Bailu chimed in with a big smile on her face. “If they have a dragon, it has to be!”
+
+Shen Yu chuckled. “Minyan did speak of her Storm Wings. She praised your strength… but she did not say you were insightful. She mentioned that you had a quarter of a brain between you.”
+
+A look of smug pride came over Bailu’s face. “We’re getting better in our Elder’s eyes! Last time, she said we only had a third of a brain!”
+
+Wa Shi looked utterly appalled at the violation of basic mathematics, and Xiulan couldn’t tell if she was joking or not through her ditzy demeanour.
+
+Shen Yu laughed. Meiling looked back at Xiulan and seemed amused as well.
+
+“Well! I think we can safely put any formalities behind us. Pi Pa, let’s get out some tables, since we’re making lunch.” Jin’s words caused the distraught-looking women to lighten up, relieved that there was no offence taken. “Take a load off, and come meet everyone else.”
+
+And so introductions were made. Both Bailu and Seiyu squinted at Xiulan for a moment when they exchanged greetings, like they weren’t quite sure what to make of her… before Bailu shrugged and just gave Xiulan a smile.
+
+“Nice to meet you!” she said, her voice bubbly and like she was genuinely pleased to make her acquaintance.
+
+=====================
+
+After Seiyu composed herself… she realised that she had been a little bit reckless in being so carefree. They had been briefed about Lord Shen Yu’s presence, and it had been impossible not to feel his Qi. Even diminished to the Sky Realm, the man’s presence and bearing were formidable.
+
+But it was just as she had said. Elder Minyan had complained about Lord Shen Yu, but her eyes had been smiling the entire time.
+
+Master Jin and his wife had found them both amusing. Lady Meiling was a slip of a woman with sharp eyes, and a son cradled upon her back, who had greeted them with good humour. The rest of the introductions had gone smoothly enough as well! It was mostly pleasantries, and Bailu, ever outgoing, easily met two more who had draconic powers: one Xianghua, and one Loud Boy, which was an odd name. They were all still standing off to the side. Xianghua had misty horns around her head, while Loud Boy had a dragon tail coiled around his arm. The boy’s face flushed when Bailu clapped him on the back with a wink and a smile.
+
+Then there was the woman who for some reason seemed a bit familiar, even though Seiyu had never met her in her entire life. There was something about her, this Xiulan.
+
+But they hadn’t gotten too good a look at her, because she had left with Master Jin and Wa Shi to begin cooking.
+
+Such a gracious host!
+
+But while the man was cooking for them, he had asked Pi Pa to bring them what they were actually here for. Their mission: the retrieval of supplies.
+
+And that? That was enough to have all her subordinates gasp.
+
+“Ahem. As agreed upon, in the contract with Elder Tianzhe Minyan of the Soaring Heaven’s Isle Sect,” Pi Pa began, “here are twenty bales of Gold Grade rice, one hundred shares of glutinous rice balls, one hundred catties of carrots, ten jars of pickles…”
+
+Seiyu stared blankly at the overflowing tables. All of them had expected simple things; bags of rice, preserved meat, and the common fare of winter.
+
+Instead, they got full meals that just had to be cooked, along with fresh fruits and vegetables. They were receiving an entire New Year’s feast, and if it had tasted anything like the food they had eaten in Verdant Hill, even those who had duties wouldn’t mind if they got to eat this.
+
+Gold Grade rice was a luxurious rarity, given out on feast days or to the winners of tournaments.
+
+There was enough rice here that they could probably be eating it every day until they got back to the Sect!
+
+“Please sign here, here as a copy for our record-keeping, and you may begin moving these to your ship,” Pi Pa finished, holding out a brush for Seiyu, who instantly did as she was told before the woman could reconsider this bounty they were being handed.
+
+The woman nodded, then put the brush in her mouth and used it to sign with a flourish and calligraphy Seiyu instantly envied.
+
+The Midships pounced on the supplies as soon as the woman nodded, stars in their eyes and a hunger in them as they loaded up the ship.
+
+“Elder Minyan is truly skilled to have negotiated such a deal,” Seiyu whispered.
+
+“The Master of the House was most pleased with it,” Pi Pa replied, her voice elegant. “And we pride ourselves on serving only the best to our customers.” Judging by the smells coming out of the house… she was correct. Drool flooded Seiyu’s mouth. “Now, if you would please come this way?”
+
+Seiyu obliged, following along with the rest of the crew, over a hill and towards a house… a house which made Seiyu freeze.
+
+“Miss Pi Pa… who—who designed your house?” she managed to get out. It wasn’t perfect, it wasn’t one-to-one, but there was no mistaking the design elements that had been included. The wide roof and enclosed deck—that was Wa architecture.
+
+“Our Master did. He said he had seen the style in a scroll in the Archives and liked it,” the woman answered.
+
+The knowledge dashed any hopes that Master Jin was, in fact, some long-lost kinsman… but still, she would like to talk to him about the design. And maybe ask if she could lay on the engawa and dip her feet in the river, come summer. And watermelon. She would have to bring watermelon as a gift. Seiyu forced herself to keep moving, toward the house.
+
+===============================
+
+“You know, for a second there, I was worried that Seiyu was about to proclaim her undying love for you,” Meimei mused to me while we cooked. We hadn’t been fully planning to feed the Soaring Heaven’s Isle Sect contingent food, but what the Hells? It was really no skin off my back.
+
+I chuckled. “That would have been fun, causing a national incident by poisoning another cultivator.”
+
+Meimei let out a snort… but she sighed. “She is pretty,” Meiling said after a moment.
+
+That was objectively true. A face that was just a touch exotic-looking to my memories, purple hair that went just past her chin, and a small mole under her left eye that just added the perfect accent. Seiyu was… well, to say she was beautiful was an understatement. She was stunning. Both she and Bailu were nearly as pretty as Xiulan. If she were a gacha character, she would be an SSR crafted by the finest minds in the industry to bring in whales that would beg to be harpooned.
+
+“Yeah, and I would have told her to screw off if she had done anything like you were thinking. You’re the only woman for me.”
+
+Meimei snorted. Her hip hit mine. “Yes. No other women without my say so, dear husband,” she said primly.
+
+I rolled my eyes at the joke and focused back on cooking.
+
+My initial feeling about her had said Japanese—especially because of her last name, Wakokukin. Wa or Wakoku was the ancient Chinese name for Japan. And while most cultivation stories seemed to be China all the way down, Gou Ren’s tribe, as well as the Grand Ravine and bits of the Howling Fang Mountains, proved that there were, at least, some other influences.
+
+They were small, relegated to the far corners of the world, but they were there.
+
+Hells, there were even some Korean influences, judging by the gochujang from Green Stone Forest the caravan had with them.
+
+But still, Japanese food. It was occasionally on the rotation, the flavours were similar enough to Chinese food that nobody really batted an eye when we made it… but the real reason I had just said yes is because I wanted an excuse to just go and make a bunch at the same time.
+
+Tamagoyaki—made with a dashi of freshwater clams. The taste wasn’t quite right, but it was good enough.
+
+Yakitori, grilled chicken and green onion skewers.
+
+Funazushi, using our fish from the first year. The precursor to sushi, which this world might not even have.
+
+While we didn’t have miso, soybean paste and soy sauce did taste rather similar—both things I was still buying. We had had one harvest, but we would need years more for actual soy sauce. That stuff took a long time!
+
+We even had some leftover chicken ramen I had made, frozen in the cold cellar.
+
+And of course, onigiri.
+
+It was fun, we could afford it, and Washy was humming with a massive smile on his face as I unleashed my creativity.
+
+Now, it might bring some questions as to where I learned all this, but there were two easy answers: the Archives, and the fact that Crimson Crucible City was a main stop on an empire-wide trade route. Rifling through my memories, I even think I remember seeing some guys dressed vaguely like Seiyu at the docks.
+
+I shrugged. It didn’t actually take us that long to cook everything. With cultivator speed and precision, the meal was done swiftly and brought to the women, who still looked a bit nervous at being so easily fed.
+
+When the plates clinked down, Seiyu looked as if she had ascended to the Heavenly Realm. I smiled. Man, serving so many people like this, it was almost like we were a restaurant!
+
+Tears sprang to her eyes when she took that first bite of funazushi. Washy nodded approvingly at her slow, methodical chewing, as she savoured the mouthful to its fullest extent.
+
+And then her mouth opened wide and she ate the entire plate in what looked like a single bite, making a noise worthy of Xiulan.
+
+The dragon went from pleased to incensed. He whipped his head to Bailu, who had forgone the food to just chug an entire bottle of vodka.
+
+Man, I was kind of flattered at how much they liked the food. They were scarfing it down. They were absolutely outpacing the other girls, who had also dug in.
+
+Washy’s mouth dropped open. A vein bulged on his forehead.
+
+Seiyu reached almost desperately for a bowl of soybean paste soup. Bailu eagerly went for another bottle.
+
+“YOU DARE?!” Washy roared. Two lightning bolts struck from the heavens, smiting both cultivators. The women looked up in shock, their eyes narrowing as the dragon rose up to his full height. “You dare, you gluttonous wenches?! Look at you! Are you even tasting it?!”
+
+For a moment, I was worried that there might be violence and I had jinxed things by mentally comparing my house to a restaurant.
+
+Yet, both women instantly bowed their heads.
+
+“We’re sorry!” they chorused.
+
+A breath of steam came out of Washy’s nose, his eyes still glaring.
+
+“I know well the lure of base gluttony!” he began, adopting a lecturing pose. “But we are cultivators! We must rise above it! Here, let your Senior Brother Wa Shi tell you the ways to savour each bite!”
+
+Everybody turned to watch, as the two women were scolded and cowed by a dragon they could paste if they really wanted to, both of them sitting like chastised children. I don’t know who started laughing, but it infected the entire table, and the only thing we got in return were a pair of pouts.
+
+A storm had blown in and brought chaos.
+
+…but it wasn’t exactly the bad kind of chaos, considering I got lunch and a show.

@@ -1,0 +1,107 @@
+---
+id: 40fbbf96-3118-5c2e-8f96-5f79db6303ef
+page-type-slug: story-chapter-royal-road
+title: "6. Familial Ties"
+slug: 0006-6-familial-ties
+partOf: breaker-of-horizons
+position: 6
+ownLength: 2174
+unit: words
+publishedAt: 2020-05-21
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/499438/6-familial-ties"
+royalRoadId: "499438"
+---
+
+When it was time for Basics of Artificing back in the Nivordin Lecture Hall, I found myself seated at the front row again with the rest of my dorm mates. There was a little tension between us, but Jerric offered a handshake and tried to smooth things over and we all exchanged apologetic looks before taking our places.
+
+I was actually quite nervous about this lecture. After the last two classes, I wouldn't have been surprised if I had some new revelatory look at arcanophany that would challenge my view of the world, but that wasn't what made me feel even more on edge. It was the lecturer.
+
+He quietly entered the room exactly at the clock struck two. The conversation in the hall died down, but not as a result of some heavy auric arcana. Silence swept through the hall as everyone's eyes took in the lecturer's appearance. He was dressed ordinarily enough - black pants, business shoes, a brown vest over a blue shirt with the sleeves rolled up. What was remarkable was that he had five polished silver spheres drifting vaguely around him. They did not stay in any formation, but there was something clearly organic about the way they moved — the immediate impression was that they were extensions of his body, like how someone's arms might naturally sway as they walk.
+
+On my left, Ambrose leaned forward with a frown. I saw him take in the lecturer's face — his dark brown hair flecked with streaks of grey, the fierce, thick eyebrows, the hawkish nose and high cheekbones. Then he turned to look at me, mapping the resemblance, his eyebrows raised in dawning comprehension.
+
+"Caden Dundale," he whispered.
+
+Devon was on my right, so he heard. He stiffened and looked from the lecturer to me, then back to the lecturer again. It was almost comical. I grit my teeth and nodded.
+
+"You said your father is an artificier. You didn't say he teaches artificing," he hissed.
+
+"Welcome, everyone, to my lecture on the Basics of Artificing," my father said. "I am Everett Dundale, and I'll be taking you for this semester." His eyes flicked to the empty desk in front of him. "It looks like everyone's here, so let's get straight to it."
+
+I knew my father didn't possess a flawless memory, so it seemed unlikely that he had memorised everyone's names and faces. Neither was it possible that he had been able to count us all off in just one glance. It seemed that the desk itself was somehow helping the lecturers to track our attendance. Reeves hadn't done any roll call either and just seemed to know whether there was anyone missing. It was reasonable to assume that the desk also helped the lecturer identify the students, perhaps by displaying our names in their field of vision. If that was true, then it was a bit of a relief to know that there was a mundane explanation. Reeves was scary enough with his level of control over auric arcana without adding a flawless memory to the mix.
+
+But my father definitely had a different air about him. I was actually surprised at how striking a figure he cut, standing there with those mysterious orbs floating around him. I had never seen this side of him before.
+
+"Artificing is a field that exists at the intersection between the study of glyphs and the study of arcana, both auric and ambient. I will not be covering old ground, so please keep up with the work my colleagues are giving you. In our lectures, we will look at the principles of designing artefacts, drawing on the glyphic vocabulary you have as well as your understanding of the underpinning principles of arcana itself. It will be mostly theory and observation as we will need to make sure that you have a thorough understanding of the basics before we allow you to begin making your own artefacts. But rest assured, there will be plenty to do with your hands even if you're not building anything just yet."
+
+"So!" He clapped his hands together eagerly. The orbs around him bobbed in the air, moving seamlessly with his body. "Let's start with definitions. What is an artefact?"
+
+"The blackboard behind you," Kevan called out.
+
+I smirked because I had a pretty good idea how this was going to pan out. True enough, my father shook a finger reprovingly. "Learn to listen to the question. I asked what is an artefact, which means I am asking for its definition, not for examples of artefacts. This is not a kindergarten where I ask you to identify things. Yes, Emilia?"
+
+The strange girl had raised a hand. "An artefact is any construct that makes use of glyphs to channel arcana."
+
+Dundale nodded. "Halfway there. As Prime Sage Reeves would have said in his lecture, precision is important."
+
+I heard an irritated tsk from Emilia as she was shot down for the second time today on a technicality. I understood her frustration. I grew up being taught like this.
+
+"An artefact is anything that uses glyphs to channel auric or ambient arcana, or a combination of both?" Jerric offered.
+
+"Yes, there's the distinction we need to make," Dundale said approvingly. "You'll understand why when you all get further in your Principles of Advanced Arcanophany lecture. For now, let's cover how you can identify exactly what an artefact is doing. Earlier today you would have been introduced to an expanded vocabulary of glyphs beyond the Basic Set, and you should be familiar enough with the first group of glyphs in the Signifier Set."
+
+As he spoke, the blackboard behind him filled itself out with the entire Signifier Set, and a border appeared around the first six glyphs.
+
+"Caden," he called suddenly. "Tell us what these are."
+
+Acutely aware that all eyes in the hall were on me, I stood and took a deep, calming breath. "These are the glyphs representing frames of reference for arcana. In order from the left; general auric arcana, core auric arcana, surface auric arcana, general ambient arcana, surface ambient arcana, and proximate ambient arcana."
+
+"Good," he said, and he gave me a half-smile as he waved me back down. "The first rule of artificing is that you should never, ever, activate an unknown artefact until you have read the glyph sequence to determine three things."
+
+He turned to the blackboard and pointed at the list that had just appeared:
+
+1) What is/are the source(s) of arcana?2) What is the artefact's arcanic draw?3) What is the artefact's field of effect?
+
+"In the Empire, we have built a civilisation around the use of artefacts. But because of that, many new arcanists are complacent. Artefacts are inherently dangerous. The only reason our Empire has come this far is because of arcanophanic standards that have been established and upheld by the Academy when it comes to the design and use of common artefacts, and the high level of glyph literacy in our general population thanks to the Basic Set being taught in schools."
+
+"The first obvious problem with artefacts is that they are not intelligent. They execute the glyph sequence and do exactly what is written. If you activate an artefact that is designed to take in a specific amount of your auric arcana, it will do exactly that without checking to see if you have enough in the first place, which will leave you exhausted, unconscious, or dead depending on the level of overdraw. Common artefacts have a safety clause written in, but as arcanists you must learn to check for these things. You will also eventually work with artefacts that are not designed with laypeople in mind, and such safety clauses may be absent as they take up space that could be better used for something else. So when you're using an artefact that was not designed for safe commercial use, always check the source and the draw."
+
+"With simple artefacts, those are the only two things you need to worry about. However, from here on out, we'll be working with more complex creations. When it comes to artefacts that use complex glyph sequences, the field of effect is important. An artefact that draws a small and safe level of arcana from your auric core may not seem dangerous, but with advanced glyphs it is possible to set up cascading effects that can spiral out of control. And so today, I want to draw your attention to the glyph of proximate ambient arcana. If you see this glyph on an artefact and you're not careful with it, or if you slap it on something without understanding how it works, you might just end up blowing yourself up, along with everyone else around you."
+
+"I'm ready to die now," Kevan groaned as he sank into a chair and threw his head back.
+
+There was a chorus of agreement as the rest of us staggered back into our dorm. My father's lecture didn't dump as much information onto us as the other two, but it demanded a high level of application of what we had already learnt. It was like being forced to speak fluently after only just learning the alphabet. The key message that he kept coming back to was how inherently dangerous it was to work with artefacts, and he even discussed how some ordinary artefacts in circulation could potentially misfire and end up doing serious harm to either the user or those nearby. By the end of it, I was beginning to feel a little paranoid. When I realised that my watch was actually attuned to my auric arcana I took it off, determined to read and understand its glyphs thoroughly before I put it on again.
+
+Devon pointed an accusing finger at me. "You held out on us. You didn't say your father would be one of our lecturers!"
+
+"Wait, what?" Kevan's head snapped up.
+
+"Everett Dundale, Caden Dundale," Devon said, emphasizing our last names.
+
+"I thought that was just a coincidence!" Lynus said, mirroring his brother's shocked expression.
+
+Jerric laughed. "It was kind of obvious, wasn't it? That was the first thing I thought of when he told us his last name, and that his father is an artificer. Plus, they look alike, so that confirmed it for me."
+
+Devon pretended to be scandalised. "And you didn't say anything! Some roommate!"
+
+Lynus shook his head at me. "No wonder you turned out so smart. You weren't just home-schooled by some run-of-the-mill arcanist, you were taught by an Academy lecturer."
+
+"Yeah, that helps," I admitted. "Not that he ever made it easy for me. Super high standards."
+
+"So what are those orbs things?" Jerric asked. "He didn't say, and I kind of got the feeling that he didn't want anyone to ask."
+
+"I honestly don't know. I've never seen them before. He's brought home some of his work before to show me and my sister, but that's totally new."
+
+The orbs became the subject of wild speculation as the rest started to animatedly discuss what they were and what they could do since all of us had just seen our first slice of how truly powerful artefacts could be after being exposed to the special rooms in the Advanced Glyphs classes. I couldn't help but laugh and join in even though some of the suggestions were completely ridiculous. Even Ambrose, who had been very quiet and withdrawn so far, opened up a little. The tension in our group from lunch seemed to have completely evaporated.
+
+I realised that this was probably one of the biggest things I had missed out on from being an independent study. I had few friends my age — just a handful of cousins that my family and I would visit from time to time. That meant that I didn't have very many opportunities to just sit around with a group of people who were my age and talk and joke with them.
+
+Eventually, the topic got around to dinner. Devon rubbed his hands together gleefully. "Ok, how many of you here can cook?"
+
+The rest of us stared back at him blankly. He snorted in disgust. "Ok, we can't eat at the restaurant or the cafe all the time because it's too pricey, and I don't think anyone wants to eat from the cafeteria all the time because the food is probably just average, so if you want affordable and good, it's gonna have to be stuff we cook here. Now, I can cook, but I'm not going to do it all the time, so the rest of you," he leaned forward ominously, "are going to learn from me."
+
+"Don't we already have enough classes?" Kevan complained.
+
+"If you don't learn to cook, then you don't get to eat when the rest of us cook," Devon said haughtily. The rest of us laughed at Kevan's exaggerated cry of dismay.
+
+Devon crossed over to the kitchen cupboards and opened them up. "Right, let's see what we have to work with!"

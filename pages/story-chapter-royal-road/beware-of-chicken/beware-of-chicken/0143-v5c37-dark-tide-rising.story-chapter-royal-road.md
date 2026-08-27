@@ -1,0 +1,173 @@
+---
+id: 95cf9de5-fb36-50f8-9eeb-19296bb46934
+page-type-slug: story-chapter-royal-road
+title: "v5c37: Dark Tide Rising"
+slug: 0143-v5c37-dark-tide-rising
+partOf: beware-of-chicken
+position: 143
+ownLength: 2268
+unit: words
+ownProgress: 2268
+publishedAt: 2024-08-30
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1780259/v5c37-dark-tide-rising"
+royalRoadId: "1780259"
+markedReadAt: "2026-06-29T18:56:11.740Z"
+---
+
+The demons roared as they charged forward, their bodies filling the hall with a tide of chitin and muscled flesh.
+
+A crescent of silver met them. Three were bisected, falling in halves. The fourth raised its arms and lost both of them, but the dark chitin blunted the blow enough that the silver blade only went halfway through its chest. It did not pause or slow as it continued its mad dash, stepping between its fallen comrades—two of whom kept scrabbling forwards, using their arms, now that their legs were missing, and only moving slightly slower.
+
+Black blades burst out of the stumps of the creature’s arms as it reached for its opponent, intent on his end.
+
+Its eyes failed to track the shadow it had been reaching for as Bi De appeared behind it. Its head was separated from its shoulders. Bi De did not land, instead snapping his wings, his spurs glowing with light.
+
+The ones still clawing their way forward stilled as the Moon’s Fangs descended. The next rank similarly fell as the rooster moved through them, cutting them all down. They reached for him. Tentacles burst out of their backs that aimed to snatch and snag. Attacks that should have been fatal were shrugged off, as the beasts did their best to drag him down even in death.
+
+Their skills were lacking. Their might was lacking. But his breathing was still off. Using that technique took much from his reserves, but there was no real choice in the matter. His foe had been two Stages above him and had needed to die—fast. However, while he did not need long to recover himself, he still needed some time.
+
+His latest enemies had appeared just as Bi De was trying to make sure his foe was dead for good, and such was the ferocity of the initial attack that Bi De had been forced to retreat briefly, giving ground to not be overrun.
+
+The beast had a hole through him and hadn’t been obviously regenerating, but that was no certainty with these things.
+
+Bi De hadn’t had a moment’s respite since.
+
+But… instead of retreating and dragging the attacks towards his comrades, Bi De had purposely slowed his pace. By Bi De’s own design, the fight had taken him quite far from the prison. It would keep this section of artificial demons here, and hopefully draw more away from the prison. The little shadow rat with him had not tried to warn him of anything yet either.
+
+So Bi De kept fighting. He flared his Qi, to let the enemy know he was near. He opened his mouth and roared his challenge.
+
+The demons would come, and they would break upon him.
+
+Indeed, his prayers were answered, as the hallway was once more filled with black chitin and snarling beasts.
+
+Standing alone against the darkness, the moon shone on.
+
+======================================
+
+The thunder of chitin-clad feet. The wheezing, rasping breaths. The snarls. The smell of blood. The creeping terror that crawled up his spine that he forced down with every breath.
+
+Fenxian had been in a situation far too similar to this barely a month ago. He remembered the halls of the other demonic cultivator base after the explosion had gone off.
+
+They had lost then. They had been hunted like animals through the snow. Yingwen had lost his legs and Fenxian had nearly died too, his scalp and face burned down to the bone.
+
+Had he been saved by the will of Heavens, or had he defied his destined death? Yingwen always liked to think about that sort of thing, and Fenxian was long used to Yingwen’s musings. Before the Azure Hills, the two of them hadn’t exactly been friends. They were too different to truly get along, brought together by chance because the Elders wanted to keep an eye on Zang Li.
+
+A truly shameful thing that they had missed the imposter, and worse, nearly brought the Shrouded Mountain Sect into conflict with the Cloudy Sword Sect. They had been defeated, at Master Rou’s mercy… and Yingwen had offered to shoulder the blame. He had volunteered himself as the sole sacrifice, to preserve all their lives. Fenxian honestly hadn’t expected that of the stuck up, stuffy bastard. He seemed like more the type to try and save his own skin—but he hadn’t.
+
+Even if the Expert had denied Yingwen’s offer, Fenxian’s fellow disciple had managed to save their lives with quick talking, successfully shifting the blame to the actual demonic imposter.
+
+Yingwen got himself a sworn brother that day—even if they hadn’t actually said it to each other yet. They had been too busy. First the inquiry from the Elders, then the punishments—Fenxian thought they were going to die all over again when Elder Zang Zeng called for their deaths for their “gross incompetence”. It was only through Elder Shenhe’s grace that they were spared worse punishments for such a loss of face for the Sect, and that immediately transitioned into fighting demons.
+
+Which had led him here, fighting said demons again with the help of Master Rou’s disciples. Two of which were foxes. That had been a mind-bend. Foxes helping to save the Shrouded Mountain Sect.
+
+Fenxian took a deep breath and pushed every other thought away, refocusing himself. The ones in the back just needed some time. He wasn’t entirely looking forward to round two. The demons were strong, and it would only be a matter of time until they were overwhelmed. Each of them could certainly take on at least one of the beasts… but there was never just one.
+
+Maybe if they had Bi De, it would be a certain thing, but judging from the sound of combat further off… the man returning wasn’t guaranteed.
+
+At least this time there was no ambush. This time, they were prepared.
+
+The sound of pounding feet got closer, slowing slightly as the demons took in the hallway and the illusion of the door. The others were all looking at it, tense. Yusahang was standing to the side, her Heavy Sword raised above her head and ready to bring it down on the first thing through. Spooks the Spirit Beast stood shoulder to shoulder with Fenxian, forming the core, while Outrider Shao Heng and Yun Ren would provide support.
+
+The silence was tense. The footfalls got closer and closer and closer. The wheezing rattle of their foes’ breath echoed through the hall.
+
+They stopped.
+
+The wheezing rattle echoed.
+
+And then, to Fenxian’s surprise, it seemed that the illusion had actually worked.
+
+The chitin clad feet started to move on. The sound of it started to pick up speed.
+
+Then, one of the demons kicked a rock. It was a small stone, knocked off the ceiling by the door when it had impacted. It skipped off the ground, with quiet little clacks.
+
+It passed right through the door that was supposed to be there, rolling and tumbling until, with a little pirouette, it settled at Fenxian’s feet.
+
+“Aw shit,” he heard Yun Ren whisper.
+
+The sound of pounding feet paused, as one of the demons screeched. They were stupid things, these artificial demons.
+
+But stupid… did not mean unobservant.
+
+The clack, clack, clack of chitin on stone returned.
+
+A black sword stabbed through the illusion.
+
+There was more wheezing and several clacks as the monsters communicated with each other.
+
+The sword pressed further in, and a twisted face poked through the illusion.
+
+Part of its face was that of a man’s. The other half was covered in darkness, and one of its eyes was red and insectile, comprising thousands of hexagons.
+
+The demon saw Fenxian and smiled.
+
+Yushang relieved it of its head.
+
+The illusion fell.
+
+The hallway was revealed, filled with their enemy.
+
+The demons exploded into motion. Spooks stomped his hooves, throwing up a set of impaling ice spikes as Yushang retreated. A bottle flew over their heads to shatter into the demons’ lines.
+
+The ice was smashed through. Two demons were dead, and a third had a spike of ice through its chest big enough that it shouldn’t have any lungs left, but it kept coming, a wheezing rattle of a laugh echoing through the halls. [Fulmination Arts: Gold Wire]
+
+Qi blasted the demonic ranks, sending their enemy twitching and spasming to the ground. Outrider Shao Heng joined him. A wave of mist swirled around the bolts of lighting and the demons stumbled and staggered, their eyes focused on things that weren’t there.
+
+Yet still the black tide came.
+
+‘For the Ancestors!’ Spooks bellowed and lowered his head, ice forming all over his antlers. The first one to leap at them was smashed to the ground. The Spirit Beast threw himself forward into a counter-charge, impacting the center of the enemy advance. The titanic impact and scythes of killing cold tore out from the Spirit Beast as a cloak of snow started forming about him. Fenxian and the others joined him, supporting the reversal.
+
+Fenxian clashed with the first one to throw itself at him, the blow rattling his arms, but he managed to deflect the blade down. He dodged the spines that shot from its chest, twisted his sword up and struck a clean blow to the heart.
+
+He didn’t make the mistake of thinking it was a killing blow. He twisted his sword and forced it up, cleaving into the spine near the chest, and then up and out, throwing his foe back. A spine still pierced his shoulder in its death throes and Fenxian grimaced as the Demonic Qi entered his body, but he kept moving forward. By lightning and blade, by hoof and cold, did they advance into an enemy disorientated and reeling.
+
+Fenxian felt hope as their counter took them all the way to the door, trampling the demons under their feet. A fierce grin stole over his features as he and Yun Ren impaled one of the beasts together, driving it into the wall as it screeched and thrashed, but together, they slew it.
+
+The prison was clear. Their damage was mostly superficial. Spooks was panting slightly, his flanks covered in cuts. Yushang looked a bit uncomfortable as Shao Heng pulled a spine out of her thigh.
+
+Yet still the pounding of feet echoed. Their job wasn’t done. Yun Ren raised his arms to cast his illusion over the door again. His arms were covered with small cuts.
+
+But it was too late. More demons poured into the hall and saw the open door.
+
+And then more.
+
+And then more.
+
+Fenxian braced himself. Their howls and wheezes echoed off the wall.
+
+A river of black smashed into them.
+
+Then Fenxian was fighting for his life.
+
+==================================
+
+Yulong held up his hand and his retinue immediately stopped. His eyes narrowed as he glared at the mist that was coiling almost unnoticeably against the ground.
+
+His nose scented the air, finding fur and mist—a scent he knew, having previously met a fox from the Howling Fang Mountains that had smelled similar. Earth Realm. He could not afford to be reckless here. If his subordinates went into this mist, they would be surely befuddled and spend the entire time walking around in circles while Yulong chased the beast down.
+
+Fools would do it anyway, trying to expend some of the Spirit Beast’s power, but Yulong needed his subordinates to accomplish their mission. He put his hand behind his back, signaling his subordinates to go around. He was obeyed instantly, as the others turned around to find another path.
+
+There was an annoyed click of a tongue that echoed through the mist.
+
+“Quite rude to ignore my invitation,” the voice purred.
+
+Yulong stepped forward. There was nothing here that could harm him, not yet. He knew his foe was trying to hide. So he would advance, reveal it, kill it, and then get a fine reagent in the process.
+
+Also… two could play at the game the fox was trying.
+
+“A fox, helping the Shrouded Mountain Sect?” he asked as he entered the mist. They had tried to recruit some of the foxes before, but the foxes of the Howling Fang Mountains were either too weak… or hated demons too much to be useful. Really, for being the Blood of Da Ji, they were annoyingly righteous about certain things.
+
+“Oh? So you can smell me, can’t you?” the voice asked back, ignoring the barb, and Yulong frowned. That was confirmation. Two relatives “That is a bit of a pity.”
+
+“Oh? A pity? A pity none of your techniques will work?” Yulong replied, gathering his own Qi and weaving his own technique.
+
+A small flare of Qi came from the mist, signifying an illusion approaching. Yulong walked toward it, intent on simply walking through whatever the fox would try.
+
+Except what he beheld caused him to pause.
+
+A woman walked out of the mist. An exact copy of the woman in the south. Her eyes were sharp purple, and a band of freckles dotted her nose.
+
+“I know a family with the same ability, you see. One is milk sibling to my nephew and chosen heir,” the woman before him said. Yulong felt his cheek spasm slightly at the all too familiar timbre of her voice. She sounded exactly like… “To see her family here… well, it's a pity we’re on opposite sides. You’re quite right, aiding the Shrouded Mountain Sect is not something I desire, but aiding my kin… “
+
+The woman smiled at him. It was a motherly smile, full of care and warmth.
+
+“Well, that might be arranged, no?”

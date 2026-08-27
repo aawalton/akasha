@@ -1,0 +1,155 @@
+---
+id: b57de75d-624c-5177-a7fa-91515c26cd9a
+page-type-slug: story-chapter-royal-road
+title: "v7c60: An Uninvited Guest"
+slug: 0313-v7c60-an-uninvited-guest
+partOf: beware-of-chicken
+position: 313
+ownLength: 2116
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3438404/v7c60-an-uninvited-guest"
+royalRoadId: "3438404"
+---
+
+Bi De raised a brow at the prostrating creature as the Spirit Beast begged for his life, repeatedly smacking his forehead into the ground. It was a pitiful sight, all told.
+
+“Please, stop. I have no intention of killing you,” Bi De said, pulling in his Qi.
+
+Paobu paused, his teary eyes rising up to meet Bi De’s gaze. ‘You don’t?’ he asked, his voice wavering. ‘But you were so scary back in the forest, Blaze Douser! You defeated so many Blaze Bears! And you're even stronger now!’
+
+“...not unless you attack my home, no,” Bi De replied. Blaze Douser? They had given him a nickname?  “But… why are you here? What drives you to such haste?”
+
+Paobu swallowed. ‘I was chased! Chased by those monsters! So many dead—Please, Great Lord, this Paobu begs of you, grant him succour within your domain!’
+
+Bi De took the Spirit Beast in. The Blaze Bear had large, ugly lumps under his fur—welts the size of hand balls that were weeping poison. His ribs were clearly visible, like he had not eaten in a long time. The fur on his back, where flames normally sprouted, was thin and brittle like rice straw, so thin the skin was visible. He smelled very strongly of ash and the scent of burnt meat, to the point where it was almost overpowering.
+
+Not too long ago Bi De had stood upon these pillars and looked down upon a community of Spirit Beast rats. They had begged for sanctuary, just like this Spirit Beast was. They had been starving and many had been injured.
+
+And yet they had conspired to take Fa Ram. They had preyed upon his generosity and sought to enslave him. It was only due to Ri Zu that he had been delivered, and at great cost.
+
+Now, another was here before him, begging for the same thing. Another Spirit Beast, spinning a tale of woe and asking to be let in.
+
+Past experience would tell him to turn this beggar away. Once already, he had been burned under these exact circumstances; once more, he was left in charge of his Master’s home, to guard it from any who would wish it harm.
+
+And yet… he could not find it within him to drive Paobu away, back into the forest. As his Master said, and Bi De knew to be true:
+
+It was better to be kind and be hurt, than to live without being kind at all.
+
+“Please come this way to the gate. We have food, and one who can treat your wounds,” he said, gesturing with his wing and pointing the way along the Great Pillars.
+
+The injured, weak, and tired, the Spirit Beast looked up at Bi De, his eyes full of shock. He obviously thought it deception for a moment, but Bi De’s Qi hid nothing. He made his sincerity known to Paobu by turning his back and leading the way, and after a moment’s hesitation, the Blaze Bear slowly walked after him. Bi De didn’t think the Blaze Bear could manage to climb over the fence in his state, and likely would not appreciate being lifted over it either.
+
+“Vajra, please tell everyone what is going on,” he told the swarm of bees around them. Vajra’s soldiers were on edge, all of them, their antennae twitching and their eyes locked on the poison weeping from Paobu’s wounds.
+
+They flew in formation, forming a single word.
+
+Demons.
+
+Bi De surmised as much, what with the wounds that had been inflicted on Paobu.
+
+They had heard and seen little from the south these past couple of months. Not once had the ‘demons’ darkened their doorstep again, and neither had Vajra’s scouts smelled them on the breeze.
+
+But now, here was their work. And more than that, the ‘flying demons’ had progressed to the point where they could apparently kill Spirit Beasts who wielded the power of fire. That was no small thing.
+
+Blaze Bears were bears writ large, yes, but they were more than that. Their skin was more like armor than flesh—and their forearms became so thick and craggy the flesh formed “bracers” that even cultivators one or two stages higher than them could barely pierce. Skin that ignited, along with their back fur, to give them the name “Blaze Bears”.
+
+And those forearms were as riddled with welts along with the rest of his body. The flaming hairs on his back, in addition to looking thin and brittle, seemed to be purposely sheared in places, like an army of small blades had torn into the fur.
+
+It did not take too much longer to reach the gate. Bi De turned to the bear and bowed.
+
+“Be welcome in Fa Ram, honoured guest. No harm shall befall you here whilst you remain our guest. This Fa Bi De swears it,” Bi De intoned, his Qi once more bare for the Spirit Beast to examine.
+
+The Blaze Bear hesitated at the threshold. He swallowed.
+
+‘I swear upon the forest; I shall do no harm to your home,’ he replied, his voice weary.
+
+Then, he stepped over the threshold. The Blaze Bear had to concentrate on every movement, so his reaction to everything was muted. He saw not the land of plenty before him; he saw not the heads of grain growing fat and ripe; he took no notice of a fortress that now was covered in greens and flowers.
+
+His eyes instead were on the welcoming party.
+
+Most of the rest of those still at Fa Ram were waiting for them, when Paobu passed through the gate. Yun Ren looked concerned, his hand loosely on his sword. Brother Chun Ke simply waited in his natural form, while Pi Pa rested her arm against his side, the pink-haired woman’s eyes wary. Spooks stood tall, his eyes focused on the Spirit Beast. Biyu, Bowu, and Miantiao were still in the house.
+
+Ri Zu, in her human form, didn’t ask a single question, simply striding forward with medicine in hand; the first of the fresh sprigs they had grown. They had been hard at work replenishing Fa Ram’s medicinal stocks, and Bi De was particularly pleased with the quality they had achieved. He had spent many hours meditating upon the Spiritual Herbs, and his work and dedication was bearing fruit.
+
+Paobu flinched at her approach, stumbling back for a moment. For an instant, he looked like he would try to turn and run.
+
+Ri Zu slowed at his reaction, letting out a little breath, and then opening her arms. “Ri Zu will not hurt you,” she whispered to him. The Blaze Bear looked upon her, Ri Zu’s Qi radiating only a desire to help. The Blaze Bear relented, and turned his more injured flank toward her.
+
+Ri Zu’s hands worked fast, and he let out a soft groan of relief as the first of the medicine began its work. He staggered and practically collapsed.
+
+“You let him in?” Pi Pa asked, her eyes upon the Blaze Bear. Her voice was devoid of all inflection. She turned to him, the depths of her blue eyes icy.
+
+“I did,” Bi De replied. “I will be watchful for betrayal, but I will not turn away one who so obviously needs help without first knowing their circumstances.”
+
+She searched his face for a moment, seeing his resolve. The ice in her eyes softened, turning into something that looked like approval.
+
+“A good answer. I will begin preparing a meal for our guest, Master,” She informed him, bowing. She turned and set off to the house.
+
+Chun Ke lingered for a moment. ‘Brother made the right choice,’ he said, in his simple and honest way.
+
+And then he trotted after Pi Pa to help her prepare the food.
+
+Chun Ke and Pi Pa had both been harmed by this exact circumstance in the past—and yet neither of them showed any hesitation in tending to their new guest.
+
+The only thing they showed was approval. Approval, and implicit trust. They both trusted him, that nothing like what happened with Chow Ji would happen again under his watch.
+
+He would do his best to live up to that trust.
+
+Bi De turned back to Ri Zu—who had Yun Ren helping her guide the Blaze Bear back to the house so she could work on him further.
+
+“How is he?” Bi De whispered in Ri Zu’s ear.
+
+“Not great,” came the matter-of-fact reply. “He has enough poison in his system to fill up one of our drinking mugs; his meridians are over-stressed, his Qi is exhausted, and his inner fire is flickering… but Ri Zu shall have him mostly fixed within the hour.”
+
+The Blaze Bear plodded forward with heavy steps, looking dazed.
+
+“Than-thank you…’ the bear whispered, still stunned that they were actually treating his wounds—as well as by the strength of their cultivation, no doubt.
+
+“You can thank us by telling us what happened, when you are able,” Bi De replied. “In the meantime, is there any food you enjoy eating?”
+
+The bear blinked, again seeming shocked by his question.
+
+‘...I like honey,’ he said after a moment.
+
+“I’ll see what we can do,” Bi De said, glancing to the side. Vajra’s soldiers stiffened, and he got a general feeling of offense that the Blaze Bear would dare to say that.
+
+…He would word it as a bribe, to make sure the Blaze Bear would talk. That would probably soothe some of the rage.
+
+They got him into the house and onto one of Chun Ke’s bean bags, the Blaze Bear sinking into it with a groan. Ri Zu’s hands glowed with medicinal Qi, and tinctures were applied to Paobu’s wounds. Bi De informed Pi Pa of their guest’s tastes, and she smoothly transitioned. She set up a blazing fire, and heavily charred the meat before adding a honey glaze.
+
+Bi De remembered from the bestiary scrolls that said Blaze Bears cooked their food, blasting it with fire. Pi Pa remembered it too, and was replicating the cooking method. To the meat she added berries and some vegetables. The rice she cooked in a clay pot until it was dark and crispy.
+
+Paobu’s eyes once more widened when the meal was brought out to him. Tears formed in the corners of his eyes. He hesitantly took a bite of the charred meat and wept.
+
+‘Ah… you did slay me, didn’t you, Blaze Douser? It was so fast I didn’t notice. I have died, and now I reside in the Heavens. All that is left is to see the Great Mother, so that I may sleep beneath the trees,’ the Blaze Bear murmured.
+
+“You are not dead, and Ri Zu intends to keep it that way,” Ri Zu told him gently, but firmly.
+
+Paobu swallowed, clearly still confused, but also clearly touched by what was happening. He dug in with gusto, making sounds of delight. The exhaustion seemed to slough off him, until he did not look like he was about to fall over at any moment. Ri Zu did fill up an entire jug of poison—and the stench of it, now not hidden under the smell of ash and fire, made every one of Vajra’s bees vibrate with barely contained anxiety. Bi De ended up turning into his human form and stroked the Queen until she stopped trembling—and then another bee took her place after she had recomposed herself.
+
+Biyu, Bowu, and Miantiao came to see the Blaze Bear as well, and Miantiao cocked his head to the side.
+
+‘Wait, isssn’t he the one who ran away from ussss in the Assssh Forest?’ the snake asked, looking incredibly confused.
+
+“It's a small world, sometimes,” Bi De replied, while Miantiao shook his head in astonishment.
+
+Sometimes it was. They did seem to have fated meetings quite often.
+
+Paobu ate his fill and his eyes began to droop, the medicine and food taking their toll. But the Blaze Bear tried to shake off the drowsiness.
+
+“No, you said I have to tell…” he began, slurring his words.
+
+Bi De held up a hand. “Rest now. Tell us later,” he said, his voice gentle.
+
+Paobu heeded Bi De’s words. The bear’s eyes closed, and he finally rested.
+
+The mood in the rest of the house was rather grim.
+
+“Vajra, patrol in force, as far south as you can go. I want your scouts in groups of no less than ten,” he commanded.
+
+The bee buzzed, her soldiers rising into a chorus of wrath.
+
+“And the rest of us?” Yun Ren asked.
+
+“The rest of us wait, for now. Until Paobu awakens, and we know the true extent of our foe.”

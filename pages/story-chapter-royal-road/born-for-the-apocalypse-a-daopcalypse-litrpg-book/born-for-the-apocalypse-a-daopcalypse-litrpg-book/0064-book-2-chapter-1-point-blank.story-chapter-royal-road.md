@@ -1,0 +1,51 @@
+---
+id: 7200b244-c1c7-599d-ad09-6e0b74c125b2
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 1-  Point-Blank"
+slug: 0064-book-2-chapter-1-point-blank
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 64
+ownLength: 1111
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2255021/book-2-chapter-1--point-blank"
+royalRoadId: "2255021"
+---
+
+63:
+
+Jack tried to bring his Shield of Greater Deflection onto an intercept course with the released arrow, but in deflecting the previous projectile he had instinctively applied all the resistance he could offer with his left arm, which had flung it outwards and Jack had been content to halt the offset momentum and let his shield rest at his side— until now.
+
+Even with his greatly increased movement speed while within the cloud of Mist Qi released by his Pendant of the Miststalker, Jack wasn’t nearly fast enough to match the speed of a released Qi Arrow at point blank range. His Epic Artifact was also supposed to visually obfuscate his form and dampen any scents that could be used to track him, but it didn’t account for sound Jack had made while driving his sword through Matt and even if it had, there was no way it would have stopped the gurgling that escaped Matt’s lips as the last dregs of life he was clinging onto flickered out.
+
+He had relied too much on the effect of his Epic Artifact and now, Jack would pay the price for his arrogance. He had assumed that the second archer would go down as easy as the first, that his composure would fail him upon realizing that his comrade was no longer replying to his callout, but whether it was because the second archer had heard the first go down, because Jack’s footsteps had been too heavy as he navigated the sand dunes or simply because his perception stat was high enough to clue him into an ambush from his behind, Jack had fucked up. Had the second archer aimed for his head again, his survival instincts would have kicked in and he would have dived away, or atleast tried to dive away in time. But instead, the arrow had been pointed at his lower abdomen and released just as the final wisps of life escaped him.
+
+So, it was all Jack could do to hold onto his Moonsword and watch as the blur that was a fully drawn and released Qi Arrow struck his lower abdomen. Jack gasped out loud as a wet wheeze escaped his lungs, the air knocked out from the impact of a Qi Arrow striking him at a point-blank range. His gaze was still focused on his abdomen, his expression still frozen on the shock he’d felt upon noticing the second archer’s parting surprise, besides the fear glimmering in his eyes as he watched the flowing jadeite ore plate guarding his abdomen glow vividly in response to the encroaching point of the azure-tipped Qi Arrow, it’s hue growing in luminescence with every passing millisecond.
+
+Then, time resumed it’s flow for Jack and he was sent ragdolling across the side of the dune, the world spinning as he rolled repeatedly across the slight incline, kicking up a cloud of sand in his wake even as he gasped desperately for even a mouthful of air. The sharp, biting and vicious pain he was expecting to follow never arrived as Jack lay on the incline of the dune the archer’s were originally hiding behind, near it’s base, with his back and behind pressed against the sand. Instead, what Jack got for his efforts was a dull, throbbing pain whose surface area seemed to grow with each pulse of his heart.
+
+This time, when he tried to breathe, it was air that flooded his lungs.
+
+[You have slain Level 4 Unawakened Cultivator. You have received 445 Soul Experience.]
+
+[You have slain Level 5 Unawakened Cultivator. You have received 998 Soul Experience.]
+
+“Fuck,” Jack rasped out, his throat feeling wet and sticky as he did so. He groggily reached for a tear in space; his new Jade Guard Armor Set coming with no convenient pockets meaning that he had just opted to store his solitary Greater Recovery Pill in his inventory. Although he had gone without even a single Greater Recovery Pill in his possession for a little while, having prioritized purchasing the Essence Renewal Art and Jade Guard Armor Set, his cautious nature hadn’t allowed him to not obtain one at the soonest instance the opportunity presented itself.
+
+The three Sand Stalkers he had killed before his group ran into an ambush had given him the necessary tutorial points he needed along with what little he had in reserve to purchase and store a Greater Recovery Pill and now, his cautious nature would let him return to the battlefield a few minutes quicker.
+
+Jack swallowed the Greater Recovery Pill and a soothing warmth suffused his chest, before flowing downwards and focusing on his lower abdomen, massaging away the manageable but constant throbbing pain that made him feel like his stomach was just one massive bruise at this point.
+
+As his mind started clearing up, Jack noted that his moonsword was lying next to his right hand, he’d placed it there when he’d reached for his inventory and he was still holding on to his shield of Greater Deflection.
+
+It was his good fortune that he hadn’t been knocked unconscious by the blow, for that meant the Pendant of the Miststalker’s Mist-Walk ability was still active and the bait was still tantalizingly cast.
+
+Jack had killed all three of the enemy’s archers on his own, though it was not an encounter he prided himself on. Given his advantages with an epic artifact that obfuscated his form, his first long-distance Qi Projection that had caught one of the archer’s off guard and his enhanced speed while the Mist-Walk ability was active, he should have been able to neutralize all three archers without a scratch. If Jack had assessed the threat correctly, he would have approached the encounter very differently, but in his efforts to keep Qi costs low, he had overestimated his own capabilities and nearly died for it.
+
+Still, there was a difference between theory and practice and now that Jack knew the limitations and key weakness of the Pendant of the Mistwalker, he could work around it and even use it to his advantage— he had a few ideas in that department. But for now, Jack needed to get up.
+
+So he did, doing the best he could to shake off the wooziness still clinging to him as he started climbing the dune.
+
+Jack crested the dune so that the mist cloud would be easily visible from a distance, along with the message he hoped to send— to one who ruled through fear, there was nothing as disturbing as defiance.
+
+But as his gaze stretched out into the distance, it was him who couldn’t keep his eyes from widening in astonishment.

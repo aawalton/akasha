@@ -1,0 +1,151 @@
+---
+id: 84b30a5c-5f5d-5395-8e74-bfdb56e7d325
+page-type-slug: story-chapter-royal-road
+title: "v6 Prologue: A Cultivator's Guide to Waste Removal"
+slug: 0188-v6-prologue-a-cultivator-s-guide-to-waste-removal
+partOf: beware-of-chicken
+position: 188
+ownLength: 2209
+unit: words
+ownProgress: 2209
+publishedAt: 2025-02-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2089145/v6-prologue-a-cultivators-guide-to-waste-removal"
+royalRoadId: "2089145"
+markedReadAt: "2026-06-29T18:57:45.648Z"
+---
+
+I always did my best thinking while I worked on something else. While my body did one thing, it was easy to let my mind wander… and now there was plenty to think about.
+
+It had been nearly a month since our home had been attacked by demons. Nearly a month since we had been forced to fight for our lives.
+
+In some ways it didn’t feel real. Like it was a distant nightmare… which, to my surprise, I hadn’t really had too many. Sure, I got up most nights to check on everyone and make sure they were okay… but I was waking up less and less as the month wore on, and one thing became clear.
+
+That we had won, and the demons truly were defeated.
+
+But while that night sometimes felt like a dream… the aftereffects were all too real.
+
+I placed down the burden I had been carrying on my back, and crouched down. I grimaced as my clothes rubbed against my raw skin, before the cold soothed the sensation. The electrical burns Zang Zeng had given me still hurt like hell, forming long, ropey scars that crawled from my hands to my chest. The skin on my knuckles was similarly raw, fresh, and tender, only starting to heal, and that was rubbing on my thick gloves. We didn’t know how effective the reinforced leather gloves impregnated with medical Qi and Spirit Beast beeswax would be as protective equipment, but better safe than sorry. I used an iron trowel to clear away the snow, until I saw bare soil. I grimaced at the slight purple tint to it, then sighed.
+
+I looked up at the broken forest I was in. My favorite grove… or what was left of it. The physical reminder of everything that had happened.
+
+The trees always looked a bit dead in winter, their limbs devoid of leaves, but they still stood tall, just waiting for the warmth of spring. Nowadays, I could even feel the small spark of life in them, humming just beneath the bark, waiting to wake again in spring.
+
+Here, though, there was none of that. Here, there was silence. Everything around me was dead, and I could feel the echo of what had transpired, a gasp of pain that made me shudder when I concentrated on it.The trees were puckered and withered, husks of once proud oaks, pines, and maples. Some had turned partially to mush and keeled over, slumping to the ground. The once beautiful grove now looked like the aftermath of a warzone, the corpses of the trees laying strewn like bodies.
+
+I took a deep breath of the cold winter air, letting it fill my lungs. It was crisp, but tinged with a sickly sweet odor that burned my nostrils—the remains of poison in this plot of land.
+
+The demons that had attacked us had left their mark, leaving wounds on our home. It had been irrevocably changed from what I remembered it as, the peaceful, beautiful place I had come to escape the life of cultivation.The land was dead. The old trees, a ruined mess. I could even sense the writhing feeling below the dirt, the poison that had sunk into the very bones of the earth.
+
+If it was left alone, this area would stay dead for a thousand years.
+
+If we left it alone.
+
+I pressed my trowel into the frozen earth, and it parted obligingly, more like it was sand on a beach rather than hard-packed dirt. I drew in the soil a symbol—a symbol I had gotten quite good at drawing. Then, I reached back and grabbed the things I had set down. A glass jar, filled partially with water, and shiny strands of silver wire.
+
+My task complete, I rose again… and felt a weight alight on my shoulder.
+
+“You done too, Big D?” I asked. I saw out of the corner of my eye scarlet feathers, and a rather beaten up fox fur vest. I had repaired it the best I could… but it had still definitely seen better days. The feathers on his chest were just starting to grow back in, his own wounds exposed to the cold air—a wound he had gotten attacking an Imperial Realm cultivator and succeeding in distracting him for long enough for Gramps to put the bastard down.
+
+He was a bit of a mad lad, my disciple. And I wouldn’t have it any other way.
+
+“Indeed, Master,” the rooster spoke, my ever-dutiful disciple’s voice calm, self-assured in his satisfaction with the completion of our tasks. “I do believe we are almost done, and then we may banish this darkness that plagues our home.”
+
+I smiled at his absolute confidence that the current plan we had for dealing with this would work, and turned, looking back the way I had come. Hundreds of glass jars and modified demonic Qi siphoning formations that had been set up in this patch of forest, directly over every concentration of demonic poison.
+
+In addition to the jars, there was a small army of people in red toques and our medieval PPEs. It looked a bit strange to have everyone in thick gloves and aprons.
+
+A great, rust-red boar, an ox, and a man who looked quite a lot like a monkey were carefully dismantling some of the less affected trees. Chunky, Babe, and Gou Ren piled them together, while dancing green blades and claws made of Qi carved larger formations around them. Tigu and Xiulan worked very well together, none of their friendly rivalry here today. Tigu had her tongue poked out of the corner of her mouth, wild orange hair sprawling out from her hat, while Xiulan waved her finger like a conductor’s baton, directing her legion of blades. Her blue eyes practically sparkled in the cold light.
+
+A silver-haired woman with a snake coiled around her arm delivered the last of the glass jugs to a fox-faced man, a woman wearing the same bandana as Gou Ren, and a monkey. Yin and Noodle had been working overtime to get the jars we needed, and Yun Ren, Xianghua, and Huo Ten hopped to get them into their proper places.
+
+A pink-haired woman with a jade bangle around her wrist was seated outside the affected area, accompanied by a moose loaded down with a saddlebag. Peppa and Spooks had arrived with hot tea and food for any who needed it.
+
+Behind them was a pillar of smoke and the distant sound of a press. Bowu was hard at work in the forge, finishing the last of the silver wire, helping in his own way. Nobody wanted to see what would happen if any of this poison got on somebody who wasn’t a cultivator.
+
+“That one needs to go a little to the left!” a great dragon called down from the heavens. His sinuous body undulated as he kept himself aloft. In his claws was a paper with the planned formation on it, and Washy was studying it with great attention, determined to have the formation right.
+
+He had been spectacularly upset the poison had hurt our main maple grove, and sworn vengeance upon all demonkind for this most grievous of insults.
+
+“Ah! Yes!” the young man below him called, while a shaggy white dog sitting at his feet yipped. Zhang Fei, the Torrent Rider, corrected the placement of his jar. We had him to thank for all the silver we currently had—we had bought all the silver we were using from his hometown. Shaggy Two used his nose to carefully adjust the wires. Beside the young lad, there was a behemoth of a man, clad in stone armor. Tie Delun was finishing up the formation on the ground.
+
+Finally, my eyes landed on a group of two women, and I started towards them. One of the women had green hair, freckles, and purple eyes—and in my humble opinion, she was the most beautiful woman in the world. The other looked as if to be her sister—slightly shorter, but just as freckly. Both had just finished their own last jars, and had turned to observe, just as we had.
+
+I reached out, and captured Meiling from behind, my arms wrapping around her shoulders. My wife leaned into my touch instantly. Big D hopped off my shoulder and on to Rizzo's, the small woman giggling as he nuzzled her cheek with his beak.
+
+“Looks like we’re nearly ready,” I said, looking over what we had accomplished so far.
+
+“And not a moment too soon,” my Meimei declared, her voice sounding just a bit nasally. She rubbed at her nose in irritation. “This place reeks. If I ever have to smell such foul Qi again it's too soon.”
+
+I smiled at the way her nose scrunched up, but I had enough sense not to tell her she looked cute like that.
+
+“You didn’t need to help with this. We had it,” I reminded her. I knew how sensitive her nose was to Qi. I couldn’t imagine having to actually be out here with her sense of smell.
+
+“Zhuye kept looking off in this direction,” Meimei huffed after a moment. I frowned when she brought up our son. I knew the look. It made my own blood boil—the look of distress on his face whenever he glanced towards the forest.
+
+Couldn’t blame Meimei for wanting this shit out of our home.
+
+“Well. He's going to be having a good time with his Grandpa and his dancing friends.” Gramps and Vajra the bee were taking care of him today. “And then he won’t ever have that expression again. Little D’s brilliant parents figured out how to get rid of the nasty smell!”
+
+Meimei chuckled at the sudden pompous tone my voice took, and then she sighed.
+
+“I hope this works,” she muttered.
+
+“It will,” I replied.
+
+===========================
+
+Less than half an hour later, our preparations were complete. Everyone went to their assigned positions around the edge of the area.
+
+“Everyone ready?” I called, and a chorus of affirmatives answered me.
+
+We pressed our hands into the ground, and activated the formation.
+
+The earth pulsed, and I could feel the poison beneath the earth shudder and wail, as it was dragged out of the ground and into the jars. The silver started corroding. A couple of the glass jars got hairline cracks—but they held.
+
+The earth seemed to breathe a sigh of relief.
+
+Tigu, of course, was the first one to let out a cheer.
+
+I let out a breath, and settled back on my haunches.
+
+Despite our victory, the forest was still dead. Despite our success in extracting the poison,... we honestly had no clue what we were going to do with all these poison-filled jars.
+
+I looked at the withered trees, and the wound on the landscape. The poison had stabbed deep. This place, this grove, would never again be how it was.
+
+I took in a breath, and the cold air once more filled my lungs, this time devoid of acrid taint.
+
+But though those wounds were deep… they were not fatal. With time and effort, these wounds would become scars, physical reminders of what had happened.   But together, we would make sure that those scars would be even more beautiful than what had come before.
+
+We still had a lot of work to do.
+
+Yet our mood was joyful, as we walked back home, and our spirits were high.
+
+***
+
+“Were you good for Gramps?” I asked the rosy-cheeked boy, nearly a year old, in my arms. Zhuye’s purple eyes were alight with mirth as I tickled his belly.
+
+“He spent nearly an hour tugging upon my beard!” Gramps declared. “My grandson’s endurance shall surely be legendary in the future!”
+
+Unlike the rest of us who had started taking off our bandages, the old man was still wrapped tight—the massive rents in his body barely looked like they had started to heal.
+
+He had lost an entire Realm of cultivation, up there in the north. And yet the old man seemed to have a permanent smile etched onto his face these days.
+
+“He's going to give us all the runaround for sure once he learns how to walk, aintcha?” I asked Zhuye, who once more giggled.
+
+“It is only a good thing for a man to be so vigorous,” Gramps agreed, nodding his head.
+
+I plonked down on the couch beside him, as our home became a hive of activity, the preparations for dinner well under way.
+
+It was a good night… and not even the piece of news I learned before I got into bed could dampen my spirits.
+
+Elder Xiao Ge of the Cloudy Sword Sect was taking me up on my offer to have his people rest and recover at my home.
+
+Tomorrow… tomorrow we would be hosting Gramps’ old friends.
+
+It seemed like a lifetime ago, that I had run away from all of that. That the mere mention of cultivators would make my stomach churn.
+
+There was some nervousness, that was true. But as I climbed into bed that night… there was no fear.
+
+A lot had changed in these past three years.
+
+The only thing to do was keep trucking forwards.

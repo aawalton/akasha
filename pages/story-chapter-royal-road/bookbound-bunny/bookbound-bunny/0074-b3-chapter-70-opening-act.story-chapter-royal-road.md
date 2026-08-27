@@ -1,0 +1,133 @@
+---
+id: c3d86324-42f7-5ffc-a41a-dcbff0c71495
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 70 - Opening Act"
+slug: 0074-b3-chapter-70-opening-act
+partOf: bookbound-bunny
+position: 74
+ownLength: 2344
+unit: words
+publishedAt: 2026-07-25
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3723085/b3-chapter-70-opening-act"
+royalRoadId: "3723085"
+---
+
+The dueling tournament was held behind the school in a large courtyard with grandstands surrounding it. Neither Lily nor Lotte had ever been to this part of the school, as even their PMC class used different facilities. From what they had heard, though, this was where some of the older students practiced.
+
+When they entered, they found decent seats that allowed them to see the majority of the arena without issue. The reason for this was that the seating was split into four sections, one for each faction, and then a communal area. Most students chose to avoid the communal area, leaving it quite vacant, which made it prime for Lily and Lotte, who could even save seats for their friends.
+
+As for the arena itself, there were twelve platforms arranged in a grid formation, though they could easily be combined to make four medium-sized arenas or one giant one.
+
+From what they had heard, the first few rounds would be done simultaneously to quickly move on to the exciting final few rounds. It had to be done this way, or they wouldn't be able to get through all the years, and honestly, most people were only interested in the semifinals and finals anyway.
+
+As for how the tournament was arranged, it was done through seeded cross-faction brackets. At the start, everyone was matched up against someone from a different faction, and the winners were reseeded for the next brackets. The organizers would try their best to avoid same-faction pairings unless there was simply no other option.
+
+"Imagine how mad Arthur or Hana would be if they knocked each other out," Lotte joked when she first heard about it.
+
+Lily fully agreed and was glad that there was a bit of fudging around with the pairings to avoid such an outcome. Unless one faction was weirdly dominant over the entire event, then it would usually end up with relatively even pairings into even the final rounds.
+
+The first years were to be the opening act, mostly because their matches tended to be short. As the students got older and more experienced, the duels tended to drag on, so it was better to get the younglings out of the way first. It also gave them the chance to watch all their seniors duke it out if they chose to stick around.
+
+Professor Elius seemed to be in charge, and he gave a brief welcome speech before jumping straight into the first round of the events. The students poured out and took positions in their arenas, and after a brief countdown, the magical duels began. Spells instantly went flying, and roughly half of the pairings concluded in the first exchange, the arena floor glowing either red, white, or blue depending on the victor, and the sound of Wards erupted in succession.
+
+However, what really got the crowd excited was a stray fireball that curved into the stands, only to smash against an invisible barrier protecting the audience. Cheers and jeers erupted from the crowd, and now it seemed like things had finally kicked off.
+
+"Uh… Did you see who won?" Lotte asked.
+
+"Not really, I didn't expect things to start right off the bat like that," Lily admitted. "No wonder Rose said fire mages were dominant in duels. When you just need to trigger the opponent's Ward, you can win quite easily."
+
+Their conversation was interrupted by a familiar crack of thunder, and they both glanced at the source, where one of the platforms glowed blue, and Thomas claimed victory. The two clapped with excitement, and thankfully, his opponent wasn't Hana or Arthur, which made them sigh with relief.
+
+"This is probably why they encourage you to make friends in the same faction," Lotte suggested.
+
+In response, Lily quickly scanned the rest of the competitors to her friend, only to spot Hana and Arthur both already walking back with the other victors, giving each other a high five as they passed.
+
+"Damn, we missed them," Lily complained.
+
+"Don't worry, I'm sure we will spot them in the quarterfinals."
+
+The rest of the first-round pairings went just as quickly, with students eliminated in record time. Still, nobody complained, and it seemed this was to be expected from first years. Professor Elius seemed a little flustered, however, and Lily could swear he was shouting "dodge" or "block," just like in his classes.
+
+With the first round complete, the reseeding began, and the students were paired off again. Despite everyone being winners, they didn't seem to last much longer against their opponents, and after an exchange or two, the winner was determined again.
+
+This time, Lily caught Arthur's victory, where he simply shoved his opponent outside of the arena with a gust of wind while the poor girl was still in the middle of a chant. Such sneak attacks seemed to be the easiest way to win, and Lily thought that protecting yourself right at the start was probably the best course of action before even thinking about attacking.
+
+"You know, I've watched knights dueling before, and this is nothing like that," Lotte commented. "Those are often long and drawn out until someone surrenders, is disarmed, or otherwise unable to continue fighting. This seems to put an emphasis on speed more than anything else."
+
+"Speed is one of the quickest ways to show mastery over your magic, though," Lily replied. "The more proficient you are, the less chanting you need. The same goes for substituting gestures and other tricks you can manage."
+
+"I guess that's true… I dunno, I guess I'm just a bit disappointed it seems to boil down to who's the quickest caster."
+
+"It's a pity you can't compete, your petrified scales would be great for extending a fight. Still, I'm sure the older students will surprise us. I bet they have defensive spells or counters to most of these tricks."
+
+"I hope so, as for my scales… I don't know if they'd help against being pushed out of the arena," Lotte sighed.
+
+With every round being rushed through, it was very hard to catch all of their friends' performances. Lily rotated so she witnessed at least one of their matches each, but at the end of every round, both she and Lotte watched like hawks to confirm who had advanced.
+
+Eventually, it came to the quarterfinals, and it pretty much looked like the lineup of their regular classes' top performers, with a few exceptions due to Lily, Lotte, and Wallace's absence. Seeing that almost none of them had met in earlier rounds suggested that some of the matchups might have been rigged to give better performances in the finals.
+
+"I wonder if anyone is going to complain about that," Lily murmured.
+
+Lotte shook her head. "That would make them sore losers in my opinion. It's not like reaching this stage would get them a prize; they'd just give an easy win to whoever they faced next from the top students."
+
+Apparently, only the top four received anything, so unless they were exceptionally lucky with their bracket seeding, they wouldn't make it that far. One notable exception, though, was Frederick, who was absent, and after looking over the results, they discovered he had been eliminated by Hana.
+
+"Damn, I can't believe we both missed that fight. I bet Clarissa is pissed," Lotte speculated.
+
+"I wonder if Hana gave him a chance to cast a spell. I don't think I've seen what his specialty is…"
+
+Lotte shrugged. "Who knows? He probably tries not to stand out so Clarissa can shine brighter."
+
+"Speaking of… I'm a bit surprised she's here in the finals. I thought plants were bad for duels?"
+
+"I mean that information came from Arthur, so I wouldn't exactly call it a reliable source…"
+
+Lily giggled and nodded before asking Arakil if he'd noticed. It turns out he had caught a few of the matches they had missed, and that Clarissa had only used earth magic so far. That was a bit of a surprise as it wasn't exactly known for its speed, but compared to growing plants, maybe it was.
+
+I wonder if she's saving the plants as a secret weapon for the finals?
+
+For the quarterfinals, the participants were Hana, Arthur, Thomas, Garet, Clarissa, Oscar, Ethan, and Kenny. Lily only really recognized the last two boys because one was in her alchemy class and the other had previously beaten Thomas in the mock gauntlet. As for Oscar, she had no idea, and neither did Lotte, but he wasn't even in Maranix, so that was the excuse they fell back on.
+
+"Damn, maybe you should have competed," Lotte muttered.
+
+"Why?"
+
+"Well, there's only Hana and Clarissa up there. The rest are all boys."
+
+Lily could only chuckle and shake her head in response. While there was no inherent difference between boys and girls when it came to magic, unless you really dug into the weeds relating to specific bloodlines, that didn't mean they were exactly equal when it came to fights, at least at this young age. For example, most boys saw no issue in winning through tricks or brute force, while some girls thought such methods were uncouth. There were obvious exceptions, Hana being the prime example, as she was more than willing to blind you in a match to secure her win.
+
+Likewise, not many girls would be willing to roughhouse, or would be forbidden from it by their parents, even if they wanted to. Rose was the clear exception to this, as she routinely would fight with anyone back in the orphanage, while Lily herself refrained from that for obvious reasons. Lily imagined that as everyone matured and spent more time at Regarth, learning all the tricks of the trade, the gap would shorten, if not be removed entirely.
+
+The quarterfinal pairings were announced, and looking at the results, it seemed Arthur had drawn the short straw: Hana vs. Oscar, Arthur vs. Garet, Thomas vs. Kenny, and Clarissa vs. Ethan. While Alice's warning of not overlooking others still rang in her head, it was hard not to imagine who would be winning these rounds.
+
+The arena was also changed for this, with the twelve becoming four, and even though each pairing was in its respective zone, they would not start at the same time. Hana versus Oscar was up first, and the moment the signal was given, she flashed him with a bright light, followed by a gust of wind. It was cheap and quick, but the results spoke for themselves: poor Oscar was eliminated before he knew what happened.
+
+"I bet her next opponent is going to keep their eyes shut," Lotte whispered.
+
+"Maybe that's what she wants?" Lily suggested.
+
+Whether they were blinded by light or their own actions, both would end up in Hana's favor. Of course, if her opponent was unflinching and just blindly continued their spell, Hana might be the one caught off guard.
+
+Next up was Arthur versus Garet, and judging by their faces, neither was too happy about facing each other this early. When the match began, Arthur didn't try his usual tricks; instead, he summoned a shield of wind, just in time to protect himself from a fireball that exploded at his feet.
+
+It appeared Garet had his own schemes and realized he didn't need to hit his opponents directly to win, as being caught in the blast radius was often enough to trigger their Ward. But Arthur had predicted this, and his shield was more than enough to protect him from elimination.
+
+Not discouraged in the slightest, Garet continued with his next fireball, still hoping to catch Arthur in the resulting explosion. Still, Arthur was no longer willing to stay put and began dashing around the arena with newfound speed.
+
+"The bigger arena has given him more room to use his speed; no wonder he went for quick wins in the early rounds," Lily commented.
+
+Garet continued his assault, throwing around more and more flames, but with none of them being direct hits, Arthur's protective barrier was more than enough to shake them off. Lily had thought he would switch to direct spells, but he almost mindlessly continued with the same strategy over and over as if expecting a different result.
+
+"I wonder if he's bad at aiming?" Lotte suddenly asked, probably also noticing the same strangeness of his strategy.
+
+"That would explain why he keeps going for explosions…"
+
+It was a bit of a silly idea, but it had clearly worked up until now. Why bother aiming when you can catch your opponent in the collateral damage? Even worse, Lily could easily imagine Rose using this same tactic, making her wonder if this was a natural inclination for fire mages.
+
+Arthur surprisingly kept his cool, and that was when he finally went on the offense. He got right up in Garet's face and unleashed an explosion of his own. It was almost like a sonic boom of wind, with Arthur's wind shield also joining the detonation and sending out a fierce gale in all directions around him. The protective barrier flickered, and Garet was sent hurtling out of the ring.
+
+Moments later, Arthur was declared the winner. Lily and Lotte both cheered, as did most of the audience, as this was finally the closest thing to a real duel they'd seen so far. The only exception was the Terravix students, who looked quite upset by Garet's unfortunate loss.
+
+Unfortunately for the audience, the next two matches weren't as exciting. Just as Lily predicted, Thomas and Clarissa were both victorious, as their opponents didn't seem to have much to work with. Thomas was given enough time to fire a bolt of lightning, instantly sealing his victory, while Clarissa's opponent had tried to blow her out of the ring, only to find her firmly rooted to the arena floor. After that, before he could switch tactics, he came face-first into a large rock, which shattered his Ward unceremoniously.
+
+Next up was the semifinals, and everyone seemed hopeful that they were in for a good show.

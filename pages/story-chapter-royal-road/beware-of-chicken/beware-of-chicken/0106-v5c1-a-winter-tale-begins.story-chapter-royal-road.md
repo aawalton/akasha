@@ -1,0 +1,185 @@
+---
+id: 664d05d6-d11e-5dd5-acac-181ce78e6790
+page-type-slug: story-chapter-royal-road
+title: "v5c1: A Winter Tale Begins"
+slug: 0106-v5c1-a-winter-tale-begins
+partOf: beware-of-chicken
+position: 106
+ownLength: 2810
+unit: words
+ownProgress: 2810
+publishedAt: 2024-05-14
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1635547/v5c1-a-winter-tale-begins"
+royalRoadId: "1635547"
+markedReadAt: "2026-06-29T18:55:07.662Z"
+---
+
+The best part about winter was definitely being lazy by the fire. The chores were all done: the animals fed, the barn mucked, and the pathways shoveled after the fresh snowfall yesterday. Which would have been one hell of a job to do by hand… if I wasn’t a cultivator.
+
+Instead, it just took a while, moving what had to be several tons of snow.
+
+While it couldn’t hurt me, I still felt the cold and the damp, so I was taking a well deserved rest.
+
+I reached out into the coals, grabbing a chestnut that had reached optimal roastiness, and I cracked the shell open the rest of the way.
+
+Half, I popped into my mouth. The other half, I ground into a paste with the back of a spoon. After making sure it was cool enough, I scooped it up and presented my offering to the Young Master.
+
+Zhuye, or Little D as we often called him, eagerly opened his mouth to receive the offering. My son’s amethyst eyes were wide and happy, and he burbled gleefully as he smacked his lips.
+
+“Was that tasty?” my wife asked, her voice lit with amusement. Meiling was laying back on the couch reading a medical scroll. Her green hair was splayed all around her head, and her eyes, the same colour as our son’s, were sparkling with amusement as Zhuye bounced in place.
+
+“Little man has good taste. Chestnuts are great,” said Gou Ren, one of my best friends, while lounging on his own couch. He was the perfect picture of sloth… or rather, of a lazy monkey. His sideburns had grown out again and he wasn’t wearing his bandana, which hid his hairline, so the resemblance to our distant ancestors was rather strong today.
+
+“That they are," I agreed.
+
+I gently tousled Zhuye’s brown hair and grabbed another couple of chestnuts.
+
+Meimei opened her mouth with an “ahhh” the request clear—and I got nothing but net from the three point line. As Meimei chewed on her prize, I ground the other into paste. Though this time, instead of giving it to my son… I spread the chestnut paste onto two glutinous rice dumplings that had been roasting over the fire.
+
+Both dumpling skewers were promptly retracted from the fire by two muscled, scaly arms which were attached to the sides of a rather portly brown carp who was leaning out of a nearby trough filled with water. One disappeared immediately into his mouth. His eyes sparkled with delight.
+
+‘Another delightful combination!’ Washy, our resident dragon and glutton declared. ‘But the rice dumpling needs more char!’
+
+The other skewer was held out so a massive, rust-red boar who was laying on a cushion could munch on it. Chunky oinked happily as his friend fed him, and when he was done, the fish chucked the skewers into the fire and started preparing fresh ones. He set those newly made rice dumplings up beside the other ten that were hanging over the fire charring.
+
+There were dumplings slathered in maple. Others had honey, and still others had pickles or even hot pepper paste. It was a really eclectic mix, but no one could ever say Washy was unimaginative when it came to food, and the good ones found their way into our cookbooks.
+
+Washy grabbed one of the hot pepper dumplings and examined it carefully before nodding with satisfaction… and opening his mouth with a sly smile.
+
+‘Wa Shi, you scoundrel!’ a prim, offended voice rang out. A pink pig that had been laying beside Chunky shot to her feet and glared at the fish.
+
+‘Just a nibble?’ he asked teasingly, and Peppa glared at him. The fish started laughing as he handed over the skewer, which Peppa took with a huff before making a pleased noise.
+
+‘Ah, I can taste the smokiness!’ she said happily.
+
+‘The roasting time is paramount! Too little, and the taste doesn’t change! Too much, and it burns and tastes horrible!’ Washy declared. ‘It took this Master ten tries to find this optimal char point! Achieving the correct strength of flavour that you now enjoy!’
+
+Both me and Peppa rolled our eyes at his pompous tone, and Peppa sat back down beside Chunky, snuggling into his side. I smiled at the comfy scene, before turning my attention to the sound of soft humming.
+
+Bowu, a young man with wavy blue hair, was reading as he hummed tunelessly to himself—though unlike Meiling, he had a technical manual on pill furnaces in his hands rather than a medical scroll. With a contented smile on his face, he was a far cry from the rather grim looking young man who had come to us last year. He was also bouncing one of his legs up and down as he read—the one Meiling had fixed last year, after the lad had spent years having to use a crutch to compensate for his mangled leg.
+
+Nearby and closer to the fire was the long green, noodly form of… well, Noodle. The old, scarred snake was bundled up in a knitted tube and conked out completely. He had never been the best with the cold in the first place.
+
+Last but not least were Babe the ox and Vajra the queen bee. Babe was gazing contemplatively at the flames and Vajra was, for once, still instead of dancing, the three inch long iridescent bee settled by the fire with a couple of her workers.
+
+Finally, I closed my eyes as I reclined in front of the fire and traced the connections of my Qi to a world beneath the earth.
+
+There, in a little cottage with a snowman standing guard outside, rested the last member of our family. I poked my head in and checked on the little Earth Spirit, Tianlan, as she slumbered.
+
+There were golden cracks along her face—but her clothes were new and clean, and she had a soft smile on her face as she slept.
+
+She looked content.
+
+I left her to sleep.
+
+It truly was a perfect day. A warm fire and companionable silence… though the fact that it was so quiet only highlighted that there were people missing, because it was rarely so still with them here.
+
+Tigu, Xiulan, Xianghua, and Yin had gone off to the Dueling Peaks, in an attempt to stop the feuding between the sects of the Azure Hills. They, at least, were coming home soon, their task having succeeded.
+
+The other group, made up of Big D, Rizzo, Yun Ren, and Gramps, had gone to the Shrouded Mountain Sect to infiltrate it and make sure they were not conspiring with demons.
+
+The last I heard from them they had found out that the sect had been innocent and were now on the trail of the actual demons.
+
+It had been a long, slightly melancholic summer, knowing my family was doing dangerous things without me—but that was their choice.
+
+All I could do was support them as best that I could; with food from home and a place to come back to.
+
+Our little slice of heaven.
+
+Hopefully, I would see them all soon.
+
+And hopefully, they would be whole, hale, and have wonderful stories to tell as I pampered the shit out of them.
+
+==============================
+
+Fa Bi De, First Disciple of Fa Ram, let out a breath as he stared at the titanic trees before him, looming out of the perpetual night that had descended upon the north. Their trunks glowed with luminescent fungi, and their boughs were surprisingly largely clear of snow.  The rooster, currently in the form of a man who had long red hair and eyes as green as his Master’s, was once again surprised by the Sea of Snow. The moon shone brightly down upon them with a silver glow, casting the trees in cold light as well as revealing a break in the snowfields.
+
+“They’re… so big,” a voice gasped from beside him, and Bi De turned to look at Ri Zu. The short woman with dark purple eyes and freckles across her nose looked slightly intimidated by the sight before them.
+
+At first he had imagined, by the name, that it would be like the Grass Sea: a vast expanse of rolling hills, but white instead of green.
+
+He had been categorically wrong.
+
+The Sea of Snow played host to a myriad of different environments. There were mountains of ice taller and wider than any of the Howling Fangs, lone behemoths that formed enormous walls in their path. There were ice caves and crevasses that opened suddenly, and they were hundreds, if not thousands of Li deep. There had been fields of flowers made of ice that were alive, growing in snow like it was rich soil. There were floating ice islands, and in the distance they had even spotted a trio of volcanoes belching fire into the air.
+
+That was not to say the white fields did not exist; indeed, they were the dominant land feature. Snow fields as far as the eye could see, with Spirit Beasts lurking in the powder and the ice like it was an actual body of water. Most heeded not Bi De’s calls for parley; enraged by Bi De and his companions’ presence in “their territory”, they decreed the punishment was death. Others were simply hungry and declared them food.
+
+They had been here a week, and had been in sixteen battles with the locals. This place was incredibly dangerous, and if they had been mortals the cold would have finished them off long, long before the Spirit Beasts would have.
+
+Now they were before a forest of pines so tall they disappeared into the clouds, with trunks as thick around as Brother Chun Ke was long.
+
+Though they were in the middle of trying to track down the demonic forces that had defeated Elder Shenhe of the Shrouded Mountain Sect and her forces, and they were on somewhat of a time limit—they still had at least a month according to Shen Yu, to find the captured cultivators before they would be corrupted and turned into weapons—and the sights could not help but take his breath away.
+
+And judging by the chiming of Yun Ren’s recording crystal, he found it equally as impressive. The vulpine man’s perpetually squinting eyes were open slightly. The cold silver light of the moon glinted off his black hair, especially the portions streaked through with blonde.
+
+They had found tunnels under the first demonic base they had come across. Though they had been collapsed, it was clear that they had been used to facilitate speedy transport, using a flying sword that set into grooves in the walls.
+
+They were headed roughly in the direction Master Shen Yu had deduced the grooves ran in, and that path took them into a dark and foreboding forest.
+
+“The forest looks a bit… ominous,” Fat Han muttered.
+
+“At least we’ll have a windbreak for when we rest!” Yushang replied, trying to find something good about having to venture into the massive trees. The bubbly woman shifted the massive sword on her back. “What do you think, Uncle?”
+
+They all turned to Shao Heng, the older-looking man squinting slightly at the forest. “We must certainly be wary—the boughs are clear of snow, which concerns me.”
+
+All three of them had once been members of the Shrouded Mountain Sect… and all three had abandoned it after the excesses of the Mountain’s Inquisitors had come to light.
+
+“We cannot go around. It would take too long,” Yingwen’s cold voice, tinged with a bit of pain, declared. There was a grunt from Fengxian beside him.
+
+Bi De turned to look at the two members of their group who were still a part of the Shrouded Mountain Sect, the only two members of the Fulmination Squadron that had either survived or escaped capture at the hands of the demonic forces. The two still looked slightly weak. Yingwen’s grafted-on limbs caused him pain, and Fenxian was still recovering. But neither man had slowed their pace down, soldiering on without flinching, determined to save their comrades.
+
+“The boy has the right of it. We go through,” the gruff voice of Shen Yu stated bluntly. The Old man, an Imperial Realm cultivator, simply appeared beside them after he dropped down from the air.
+
+He had clearly gone to scout out the outskirts and make sure that going through the forest was necessary… though that was likely going to be the extent of his aid unless they encountered a truly powerful Spirit Beast they could not fight off or escape from on their own.
+
+Otherwise, he largely stayed silent, listening carefully to their deliberations on choosing paths and judging their skills. He was teaching them how to combat demons and how to navigate such dangerous places. If he simply did it all for them, then they would learn nothing.
+
+“Do be careful though, children,” the final member of their group, Nezan declared. He was in his Spirit Beast form, a massive white fox. His narrow eyes fixed on the trees. “This forest radiates power.”
+
+Bi De could not help but agree.
+
+They approached cautiously—it took half an hour of travel at the speed of a cultivator to reach the start of the forest—when Bi De suddenly noticed something.
+
+There was a cairn, and the mound of stacked rocks included some of the massive tree branches to form a pair of what looked almost like a pair of large antlers—denoting a boundary, almost like a fence.
+
+Bi De’s eyes widened. With a pop he reverted to his true form and snapped out a wing.
+
+His companions all stopped immediately before they could set even a single foot within the forest. Bi De’s eyes snapped around at the trees, locking onto scrapes very, very high up on the trunks, as well as the quality of the snow. It looked just like how Brother Chun Ke moved it out of the way. He scented the air, and found the slight tang of a storm.
+
+All of these were noted… and Bi De had a rough idea of exactly what lived in this forest. Judging by Shao Heng’s own considering expression, he too had seen the signs.
+
+“Oh? You felt that?” Shen Yu asked. He sounded impressed.
+
+Bi De frowned. Shen Yu was suppressing his power and intentionally trying to hide. He had learned to tell that much about him.
+
+“I feel nothing, Master. But those,” he said, gesturing at the stones. “They denote a boundary. I believe politeness should prevail, before we trespass.”
+
+Shen Yu considered his statement, then nodded. “Not the path I would have chosen… but good eyes nonetheless.”
+
+Bi De took the statement for the leave it was and bowed. “We humbly ask for passage through your home,” Bi De called out, his voice echoing throughout the forest.
+
+There was a moment of silence.
+
+And then the massive trees started shaking.
+
+The smell of a storm came to them on the winds; and a creature fit to live among the behemoth trees seemed to materialize out of thin air, power at the pinnacle of the Earth Realm as far as Bi De could tell.
+
+Half a Li tall at his shoulder, his head was as big as a house and his rack of magnificent antlers looked like the crown of a king—or like a set of battering rams that could breach any fortress in the world. His fur was a dark grey, and he was wreathed in frozen mist and storm clouds, the mantle of his power swirling around his body like a royal cloak.
+
+Bi De swallowed as the creature walked with deceptively silent steps.
+
+The massive moose—or Thunderhoof, as those not his Master called the creatures—stared down at them.
+
+Bi De still remembered the baby Thunderhoof who had followed Yun Ren north. It had been, at the time, the largest creature he had ever seen.
+
+The Spirit Beast considered them. For a moment, Bi De wondered if this would come to a fight… but Thunderhooves were considered symbols of luck amongst the Nezin tribe and thus implied they were not prone to violence at first meeting.
+
+The great Spirit Beast stared down at them, then cocked his head to the side.
+
+Finally, he spoke, his voice a deep rumble.
+
+‘… This is the first time little ones have asked to enter my home in a long while. I shall greet you; This one is He Who Sweeps the Forest Floor Of Snow and Opens the Way; you may refer to me as Forest Sweeper. Tell me, little ones, what brings you this far north, to the gates of my domain?’
+
+Bi De had the Spirit Beast’s full and undivided attention—a beast who eclipsed him utterly.
+
+So he once more bowed politely, and began to speak.

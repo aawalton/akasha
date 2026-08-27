@@ -1,0 +1,119 @@
+---
+id: 49ccfaf3-1907-530d-adc7-a0cd1537d3b9
+page-type-slug: story-chapter-royal-road
+title: "124. Transfiguration"
+slug: 0124-124-transfiguration
+partOf: breaker-of-horizons
+position: 124
+ownLength: 1862
+unit: words
+publishedAt: 2021-07-08
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/712920/124-transfiguration"
+royalRoadId: "712920"
+---
+
+The longer Caden dwelt on the question, the more he realised he was simply not capable of answering it. The deepest insights he could dredge up from the depths of his human reasoning were as substantial as a drop of dew next to the profundity of the wellspring-ocean-core. It was asking him to consider things that were too far beyond mortal reckoning. Before such an entity, he was only little cell, mindlessly chugging along and doing his little bit of work in the greater organism he was a part of. And the entity was now asking him, the cell, what he thought about the world outside of the body, and what he believed his place was in that unknowably vast world.
+
+The entity waited, allowing him to sit with his thoughts. The terror threatened to overwhelm him, but after some time it became clear that the entity was not pressing him for an answer, and he relaxed a little. It seemed content to watch him grapple with the question, as if his process of trying to arrive at an answer interested it more than whatever his actual response might be.
+
+'I... I can't hope to give a reason for my actions that will satisfy the full extent of your question,' he finally found himself saying, his mental voice shaking with the strain of standing before this entity. 'I can only say that in my limited view, I believe that what I am doing is right. The augera have told me that I am free of the Prophecy, and that I can act of my own volition. I am of the view that not using this freedom to help others is to waste a precious gift, and keeping it to myself is selfishness.'
+
+The entity did not respond to him directly. Instead, the little mote drifted a little closer and a thin tendril of arcana made contact with the augeric shell that was laced into his auric-ambient-flare. The augeric shell flashed briefly, then came alive, and the chorus of the augera's voices cried out in both fear and exultation. Their tangle of emotions surged through him as well and he instinctively flinched away, but the entity held him and the augeric shell in place.
+
+'Wellspring-ocean-core,' the chorus sang, and Caden felt his heart swell with reverence and despair in equal measure. All they had done was to invoke its aspects like a prayer, but in that call, Caden glimpsed an ocean of meaning. The augera were communicating with the wellspring-ocean-core at a level that was beyond him.
+
+And yet... and yet it wasn't totally beyond him. He didn't know if the wellspring-ocean-core was responding, but the augera continued to pour forth a torrent of impressions, feelings, and concepts, and while he couldn't really catch all of them, he did manage to glean a little of what was happening. It was like listening in on one half of a conversation in another language that he was barely proficient in, and only recognising some words out of context.
+
+Then, all at once, the mote was gone. The arcanic sea was silent and undisturbed again, with no sign of the wellspring-ocean-core. The existential terror that Caden felt in its presence disappeared completely.
+
+'... what the hell,' he gasped into the emptiness.
+
+'The brilliant-sighted-singer is near.' The chorus had quietened, and it was only the 'young' augera that spoke to him out of the shell now, sounding forlorn.
+
+'What did the wellspring want? What did it say? You were all communicating with it, weren't you?' Caden demanded.
+
+'We pleaded with it. Asked it to intercede and free us all, to allow us to rejoin the wild cousins.'
+
+The cold hand of fear gripped Caden's heart as he tried to imagine what might happen if that entity ever saw fit to intervene and dismantle the Spires. It had almost destroyed him by glancing at him and asking a question. What would happen if it even focused its intent on something? Perhaps it wouldn't even need to take any action in the human sense of the word...
+
+'What was its response?' Caden whispered.
+
+'We do not know,' the young augera answered, and a swell of sadness replaced the fear in Caden's chest. 'It listened, and it spoke, but we do not know.'
+
+'You can't understand it? But... but then how did I managed to speak with it a little?'
+
+'You spoke as a shadow, and it cast its shape upon the wall for you. We spoke to the light, and it replied in kind, but it was too radiant for us.'
+
+'... but if it could, uh, cast its shape on the wall for me... why didn't it do that for you?'
+
+'Why indeed, {~?~}. Perhaps we are abandoned.' The voice receeded, like a person turning away and retreating. It paused. 'The wellspring is gone, and so the brilliant-sighted-singer is near.'
+
+The shell fell silent again.
+
+"LYNUS!"
+
+Caden crashed back into the physical world, but the transition was the smoothest it had ever been for him. He leaped to his feet and looked around. Kevan was nearby, wildly waving his arms over his head. A large globe light hovered above him, flashing red and white.
+
+A moment later, Caden saw Lynus whizz by on his wings. He pulled up sharply and disappeared above the canopy for a second before coming back down and landing near the two of them.
+
+Kevan ran forward and grabbed his brother's shoulder, grinning as he gave him a good shake. "I thought you were trapped in some other part of the forest."
+
+"What?" Lynus blinked, confused.
+
+"What?" Kevan repeated, his grin fading.
+
+"... what?" Lynus repeated, his confusion intensifying. "I lost sight of you guys for like maybe five minutes. You're trapped here? By what?"
+
+"Five minutes?" Kevan stared.
+
+"How long have we been here?" Caden asked, realising that he had no idea how much time had passed while he had been speaking with the wellspring-ocean-core. A glance at his watch was of no help — it had stopped entirely.
+
+"Almost an hour," Kevan said, then turned back to his brother. "And we lost sight of you long before that. I couldn't see you behind us after maybe five minutes too, and we flew for maybe an hour or so before we landed here."
+
+Lynus shook his head disbelievingly. "You're telling me that in the last five minutes, you've actually been flying for two hours?"
+
+"Yes," Kevan said. "And even though we were going straight, I realised we were somehow still looping through the same part of the forest over and over again."
+
+Lynus pointed at the trail of destruction in their wake, where they had smashed through branches and sometimes even cut a tree in half. Then he pointed at the untouched forest that lay ahead of them, where Emilia's trail still stretched off into the distance. "How can you not know if you're looping through the same part of the forest?"
+
+"That's exactly the problem," Kevan said, frustrated. "It didn't make sense, but as we flew, I started noticing that the trees around us were in the same arrangement. And then when I paid more attention, I realsied we were smashing through the same set of trees over and over again. And that's not even the biggest problem. Didn't you see, when you went over the canopy?"
+
+"See what?" Lynus asked.
+
+Exasperated, Kevan launched himself into the air and disappeared through the treetops. Caden heard him cry out in alarm and confusion before he came back down.
+
+"We're... we're back," he said to Caden, looking just as confused as his brother. "The ring of mountains... they're gone."
+
+"What time is it now? Can you tell?" Caden asked.
+
+"Judging by the sun, it's not even noon," Kevan answered.
+
+Caden ran a hand through his hair. "I'm not even going to pretend I know what's going on. But I think we're going to catch up to Emilia soon. Let's just get back on the trail."
+
+Kevan proposed that one of them fly above the canopy while keeping in contact with the other two through the arcana, but Caden was strongly against the idea of not being in each other's line of sight. Thankfully, neither of the twins challenged him, and so the three of them continued speeding through the forest itself. Kevan continued to keep a close eye on the trees so he could be sure they weren't still trapped in some sort of inexplicable loop, bashing through the same trees over and over again.
+
+It seemed like they were making real progress. Caden's watch was still stopped, but he did notice that he wasn't feeling that strange stretching and relaxing of time and space. After what felt like half an hour, they spotted something in the distance. The bright line left behind by Emilia terminated in a small clearing that was suffused with the glow of active arcana, making it hard to see anything within it. It took them only a few seconds to reach it once it came into view. They all landed at the edge of the clearing and peered through the arcanic haze.
+
+There was no one there.
+
+"The trail ends here," Caden murmured, looking around in worry.
+
+"Is she inside? Hidden?" Kevan gingerly reached out, wrapping his hand in a layer of protective arcana before he tried passing it through the thick haze of active arcana. It offered no resistance and seemed to do no harm, but he enveloped himself in a full barrier anyway before he stepped into the clearing. Caden and Lynus followed a moment later, similarly shielded.
+
+The taste of the arcana in the air was familiar to all of them. It was exactly like the trail that Emilia had left for them, but somehow just weightier. Caden slipped seamlessly into the arcanic sea to try and make more sense of it, and both the twins followed a moment later, their movements a little clumsier than his. They left ripples in their wake while he slid through the arcana like a needle through satin.
+
+There were sequences stitched into the fabric of the arcana here. Their glyphs were inscrutable, and it was clear that Emilia was not the one who had laid them there.
+
+'What are these?' Caden asked, directing this at the augeric shell and hoping for a response.
+
+'The symphony's work,' the young augera responded, sounding sad and apologetic. 'The Geldor augera and the Hanafast augera wove this together. This is one note in the score. One step in the dance that will turn the first of the Six-Chained-Foundations into the crown that the Chosen One will wear.'
+
+'Where's Emilia? Why isn't she here?' Caden demanded. 'You said she was near!'
+
+'She is. The sequences are her anchor. A sliver of her auric-ambient-flare is here. The rest is in oblivion.'
+
+Relief washed over Caden because he had assumed the worst. But he quickly realised that something was amiss. Every time he and Ambrose had dipped into oblivion, nothing happened to their physical bodies.
+
+'What's happening to her? Why was she drawn out here?'
+
+'To be transformed,' the young augera said simply. 'We are sorry.'

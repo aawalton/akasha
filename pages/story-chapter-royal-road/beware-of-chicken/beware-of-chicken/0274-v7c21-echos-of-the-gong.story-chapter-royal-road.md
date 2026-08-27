@@ -1,0 +1,191 @@
+---
+id: bfabdd64-08c9-5b30-99b2-03f36f76d1bc
+page-type-slug: story-chapter-royal-road
+title: "v7c21: Echos of the Gong"
+slug: 0274-v7c21-echos-of-the-gong
+partOf: beware-of-chicken
+position: 274
+ownLength: 2316
+unit: words
+ownProgress: 2316
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2973542/v7c21-echos-of-the-gong"
+royalRoadId: "2973542"
+markedReadAt: "2026-06-29T19:00:49.855Z"
+---
+
+Xan Boshi, the Lord Magistrate of Irontown studied the document in front of him intently. It should be his last piece of work of the day, and he was glad for it. The past week had been very busy.  Master Delan had a very important guest visiting him. A powerful cultivator, named Master Jin.
+
+Master Jin was a bit of an odd man, interested in their mortal techniques and their lives… but he wasn’t bad. He was a lot like Master Delan, and the whole Hermetic Iron Sect in that regard, if less gruff and outwardly grumpy. Their Lord acted stern, but Boshi had been serving the sect since before their Lord had been born; he knew that for all his sternness, their Master was a kind and generous soul, who protected all of them without hesitation.
+
+Master Jin gave off the same feeling. The feeling of a man who was honest and forthright like his Lord; and since the man’s daughter was apparently now betrothed to the Young Master, Master Delan felt the same.
+
+Truly, times were changing. He shook the thoughts away, and returned to the document, reading the last line. Then he nodded.
+
+“And I do believe that concludes our business,” he declared, placing his seal on the parchment. He raised a bushy eyebrow at the man sitting across the table from him. “You drive a hard bargain, young man.”
+
+The Lord Magistrate of Verdant Hill chuckled, clasping his hands in the gesture of respect. “Senior, you praise me too much. Your skill in these arts surpasses my own.”
+
+Boshi barked out a laugh himself. It had been most enjoyable greeting his counterpart and engaging the whippersnapper in a battle of wits; Boshi was nearly twice the younger man’s age, but his mind was still as sharp as ever, and he had needed it. The man before him was a canny sort, and Boshi knew why Master Jin had chosen the Magistrate of Verdant Hill to be his servant.
+
+And while the dealing and sparring had been most enjoyable, their conclusion was mutually beneficial; the sheer amount of metal that Verdant Hill was buying certainly made the discount worth it.  It was a lot of iron and steel; as well as completed rails for the strange mining cart contraption he had been shown, after Master Delan’s guest had left.
+
+In return, they had been shown wonders. The little iron carriage had been fascinating—but what was more fascinating were the pumps.
+
+A pump that needed no man nor beast to have it pull water. While the people of the Ironfields normally carved bits out of the ironkarsts, the best quality ore was actually underground—fewer rusted holes in it from ironbore beetles and the elements.
+
+And being underground meant water. A lot of it was contaminated with heavy metals and quite toxic, and sending in workers to man the pumps was something nobody did lightly. Master Delan, would have the hide of any fool who spent the lives of his people carelessly.
+
+Those pumps would be extremely useful. According to the young man the most powerful of them could do the work of three horses!
+
+Boshi was quite pleased about the promise of the artifacts.
+
+“Shall we conclude our business for today then, Junior? These old bones of mine fancy a walk,” Boshi asked.
+
+“Of course, Senior,” the young man said agreeably. “I would love to view your town in more detail; what little beauty I've seen is breathtaking.”
+
+“Ha! What a charmer you are!” Boshi laughed. He grunted, pushing himself to his feet slowly, and his junior attentively handed Boshi his cane. “Let us get our womenfolk then, and enjoy the view.”
+
+His junior let Boshi lead the way to the side room, where his darling granddaughter was entertaining his junior’s wife.
+
+Out of his thirteen grandchildren, Jinjing was his favourite—she always enjoyed going on walks with him, and she was a very insightful girl. He had her sit in on important meetings with him, serving snacks.
+
+Both women were tittering merrily away when Boshi entered, and his granddaughter perked up when she saw him.
+
+“Grandfather, is everything done?” she asked.
+
+“Indeed it is; we shall now go for a walk, should you ladies wish to join us,” he replied.
+
+“It would be my pleasure, Lord Magistrate,” Lady Wu said.
+
+“Bah! Just call me by my name. Work is over,” he grumped, jokingly, and all of the younger ones laughed.
+
+=========================
+
+The walk improved his mood greatly. The road clacked satisfyingly under his cane upon the metal street; the sound of ore processing filled the air, and smoke pumped out of tall smokestacks. Though the metal was reasonably pure, they still had to get the rust off and melt it down into more easily transported forms. The ingots they used were well known throughout the Azure Hills for their purity… and there was much work to be done.
+
+The orders had already gone out and his people were hard at work.
+
+His junior seemed most impressed by their industriousness; and the mood was further lightened by his granddaughter’s tale, telling them all of the tomfoolery her youngest had gotten up to. Lady Wu responded in kind, telling of her son’s own foolishness.
+
+“It is a lot cooler than I was expecting,” his junior observed after a moment.
+
+“One would indeed think living in a town made of metal would be unbearable—but the wisdom of the Hermetic Iron Sect prevents that,” Boshi said, launching into an explanation of how the town was designed. The way the road was shaped, the way the city was built, and the magic within the carvings of the Sect stopped it from getting too hot due to the sun… and when it did get too hot in high summer, they erected great white cloths over the town to keep the sun away.
+
+Today that cloth was unneeded, and the town was merely pleasantly warm, contrasted with the cold wind that came down from the Howling Fang Mountains.
+
+His junior nodded along, clearly enthralled. It was a wonderful thing to be able to boast about his people and his Masters. Serving the Sect was his pleasure, even at this old age.
+
+In turn, his junior spoke of Verdant Hill; of harsh winters and dangerous floods, and of his Gutter.
+
+“Truly, each part of the world has its own problems,” Boshi mused. “How lucky are we then, that we have our lords to help make it bearable.”
+
+His junior paused, reflecting on Boshi’s words, before he nodded. “Indeed; it makes the occasional stomach ache they bring worth it.”
+
+“Don’t I know it!” Boshi exclaimed, his laugh bubbling up from deep in his belly.
+
+It was truly a wonderful afternoon. They spoke freely of their lands… as well as their troubles. That Wu business his junior was dealing with was most certainly an annoyance, but one Boshi had no trouble believing would soon be resolved. Even so, he made a mental note to talk to some of his people. They had some contacts in Pale Moon Lake City, as well…
+
+Eventually, however, their meeting concluded. His junior and his lovely wife had to return to the Sect to attend to their Master, and Boshi bid them goodbye. A chance meeting, money and food guaranteed from the north—a truly good day.
+
+He closed his eyes for a moment, enjoying the breeze. Somewhere in the distance, he heard what sounded like the pure note of a gong.
+
+It was a deep, resonant note, and even the whisper of it was one of the finest sounds he had ever heard. It reverberated in his core. He felt his shoulders relax, and his knee even seemed to quiet its incessant complaining.
+
+“Oh, that was a good one. Granddaughter dear, remind me to send out a commendation to whoever made that. Master Delan will want to know the craftsman of such a fine piece,” he said, turning to his granddaughter. She startled, jerking her eyes away from the horizon.
+
+“Ah… yes, grandfather,” she said, looking disconcerted. She shook her head. “I’ll make sure you remember.”
+
+“Thank you, my dear,” he said. “Now keep telling me about little Peng, he had just started walking along the fence, yes?”
+
+She smiled exasperatedly and launched back into the story.
+
+It was a moment of bliss… that was shattered an hour later when a man walking with a contained sense of urgency marched up to him.
+
+“Lord Magistrate… you have to see this.”
+
+In his hand he held something simple. Dirt.
+
+At first, Boshi didn’t get what all the fuss was about. And then, another person came up, out of breath and holding up a flask of water.
+
+“Water from Death Creek!” the man shouted, almost hysterically, pouring it out into a bowl. Instead of the usual ugly, black, and disgusting-smelling water… it was clean-looking and pure.
+
+Boshi went entirely silent.
+
+Then, Master Delan sent him a transmission. A survey of their lands, to be completed immediately.
+
+===============================
+
+Five times did the clear ring of a gong resound over the Ironfields. Five times was the soil tilled, one for each point on the formation.
+
+It took five days. And yet in those five days, the Ironfields had changed.
+
+==========================
+
+Boshi was exhausted. He was sitting in his rocking chair, blanket over his legs, and cane resting atop them. His dear granddaughter was carving him an apple.
+
+Master Delan was sitting in on the meeting, his arms crossed.
+
+The people were wary. Things had changed dramatically, and even though Master Delan said that they should not worry, he couldn’t help it. None of them could.
+
+This kind of thing just didn’t happen.
+
+“It's the entire top metal plates and the rust layer. It's just gone,” one of the scouts said, his voice baffled. “Nearly every toxic river has been purified as well.”
+
+“Nearly every?” Master Delan rumbled.
+
+“... the Jewel Springs are completely untouched,” the man explained, referring to the series of small lakes and springs whose water were stained different colours and glittered in the light.
+
+Yes, the water was undrinkable, but it was one of the most beautiful places in all the Ironfields; they held celebrations there every year.
+
+“The Blue Star Lake and Ironstream didn’t change either,” came a second report.
+
+Again, both places were places of beauty and importance, if not safe to drink from directly.
+
+“The karsts? And the mines?” the Lord Magistrate asked, now feeling the worry start to give way to something else.
+
+“Unchanged,” came the response. “The Seven Colour Gates, the Nine Sisters, the Iron Dune Glyphs—none of them were touched. Hells, even my childhood “fortress” that I made is still intact. Anything that we used, anything that we liked… all of it is completely untouched.”
+
+The men finished marking the map and held it up for them all to see.
+
+“It's focused around where we live,” his granddaughter said suddenly, looking with interest at the map. “Or rather… where the best places to farm would be, I think?”
+
+All of them stared.
+
+Everything that made the Ironfields the Ironfields had been left untouched; the wilds left to the beasts. All that had happened was that the worst things about living here had quietly disappeared.
+
+At the current rate of population expansion, it would take a thousand years to start butting up against the edges of the lines on the map. Even at ten times the population growth it would still take centuries.
+
+It was… it was… “A blessing from the heavens,” Master Delan declared. “Or rather, a blessing from the earth.” All heads turned toward him.
+
+His words had only the truth in them. Because what else could this be but some manner of blessing? The worry began to fade, leaving only wide-eyed awe.
+
+“Who… what?” one of the scouts asked, sounding faint. Such things just did not happen in the Azure Hills.
+
+“We have been blessed,” was again the only words Master Delan spoke, his own voice filled with emotion. “And yet… we have not. In fact, our home has always been this way,” he intoned, looking deeply into the eyes of all present, with the barest hint of a raised eyebrow.
+
+Master Delan’s unspoken command was clear.
+
+They were not going to talk about this. They were not going to shout it to the heavens. It would get out… but slowly. Their merchants were all trusted men and women, and their Patriarch had spoken.
+
+Their course was set. The tension was dispelled, instead turning into quiet reverence.
+
+What manner of divine being walked among them?
+
+==================================
+
+I stuck my tongue out and blew the loudest raspberry I could.
+
+Zhuye roared with laughter, kicking his legs and clapping his hands before jumping on me.
+
+It was nice to kick back and relax after working hard all week. I was pretty tired from everything we had done. Carving five huge circles and five uses of [Till the Land] had taken a lot out of both me and Mei, but I think we had done the right thing.
+
+Hopefully there would be no unintended consequences, but I had been as careful as possible… and the land did feel a lot better.
+
+A lot of the Dragon Veins had been smoothed out; there were now three robust connections leading back home, instead of one thin one. The place still needed a lot of work… but Tianlan was very satisfied.
+
+Repairing the Ironfields had been “easy” because there weren’t as many emotions tied up in the chunk of Tianlan that had resided here. It had been quiet, and less full of grudges than the parts that awaited us in Pale Moon Lake and the Grass Sea.
+
+Our time here had been pretty enjoyable; and tomorrow, we would be leaving the Ironfields and heading to Pale Moon Lake City.
+
+The Lord Magistrate had some business there, after all.

@@ -1,0 +1,163 @@
+---
+id: 0e2c012c-bd3b-55fc-b53b-72924cb1abb9
+page-type-slug: story-chapter-royal-road
+title: "v4c46: They are a Changin'"
+slug: 0059-v4c46-they-are-a-changin
+partOf: beware-of-chicken
+position: 59
+ownLength: 2036
+unit: words
+ownProgress: 2036
+publishedAt: 2023-10-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1360106/v4c46-they-are-a-changin"
+royalRoadId: "1360106"
+markedReadAt: "2026-06-29T18:53:24.365Z"
+---
+
+“Alright, now here, pull this and off you go!” the kid, Bowu, said.
+
+Mi Lan watched intently as Yao Che’s apprentice gave his instruction to One-Leg Boquin. He was the first of their number to be allowed to ride the ‘Steam Reaper.’ Lan was holding the old dog’s crutches and watching with interest.
+
+Boquin licked his lips and then pulled the lever. The artifact made a ca-chunk noise, the weird looking kettle on top spluttered, and then it started moving forwards of its own accord.
+
+Like a cultivation artifact in a story. Except Bowu had said it was just hot water! Hot water! How could hot water have such magical power? Lan didn’t know, but the results were self-evident.
+
+Boquin whooped as it rumbled forwards, blades snipping and shearing the rice to lay it in a flat row. The rest of the crowd started shouting too, marveling at the iron and wood beast.
+
+It was… it was… well, Lan had no real words for what it was. It was. A few of the men looked a bit uncomfortable at the sight of it. Lan knew his fellows' worries well. If this had been the first contraption the boy had brought out, he likely would have gotten a less receptive audience.
+
+They were mortal. They should be using mortal tools, and none of this… nonsense. But the boy had shown them the ox-powered one first. He had shown them the gears that spun to shear plant stalks, moved by the wheels.
+
+This was just that, but without the ox. It was… kind of understandable, and not cultivator magic beyond their station.
+
+Mortals using cultivator things upset them, as the stories went. And nobody should make cultivators upset. Lan had seen the aftermath of Sun Ken when a town had tried to defy him. He used to have bloody nightmares about it, but the Demon-Slaying Orchid talisman he had put above his home's door frame warded those away.
+
+She was definitely a powerful cultivator, if even just a doll of her chased away the evil, nightmare-causing spirits. Lan’s granddaughter was in charge of offering the tiny cultivator her weekly offering of rice wine.
+
+As the last of the rice fell into a pile, Lan squinted at the machine as it stopped at the end of the row. It was a slow, trundling thing. It belched smoke and hissed. It wasn’t graceful, or pristine… so it shouldn’t upset cultivators.
+
+Lan nodded as he finished reaffirming his understanding of the world and turned his eyes to the rice itself. He walked forwards and picked a stalk up, inspecting it to see if the machine had damaged anything.
+
+It hadn’t. It was cut through like with a hand-scythe. He glanced at the fat head of grain… and froze.
+
+Mi Lan knew rice. It was said his family were given the surname Mi, Rice, for their rice was the favourite of some noble lord a long, long time ago. They knew rice so much that every head of his family was named Mi Lan. Indeed, they grew the most consistent Blue Grade Rice in the north!
+
+All he could do was stare for a few moments at the rice, feeling slightly faint.
+
+He had never seen such fat heads of grain in his life. He swallowed. Then he glanced down at the row and paused. It was straight. It was too straight.
+
+He looked up at the machine and the perfect line it was traveling. When it stopped again, he spoke.
+
+“Really?” Lan asked, bending down. Seed drills did make things easier, but they were rickety, unreliable things.
+
+“Yeah, it's this one over here,” the lad replied, walking over to something that was not a seed drill. Or at least like no seed drill Lan had ever seen.
+
+This one didn’t have a kettle, so once more the remarkably obedient ox was hooked up and another demonstration was run.
+
+When it was over Lan resolved himself to purchase one as soon as possible.
+
+“Do you have any other machines?” Boquin asked.
+
+“Here? Just the inter-row tiller,” the boy replied.
+
+Everybody paused at that.
+
+“‘Inter-row tiller?’” Lan asked.
+
+“Yeah, for when you till the rows between the rice to help with aerating the roots and dredging up weeds?”
+
+There was silence.
+
+Lan had never heard of… inter-row tilling before.
+
+“…how does that work?” Lan asked.
+
+Bowu shrugged. “You’d have to ask Big Bro Jin,” he replied.
+
+They all looked over to where the big lad was sitting in the shade, chatting with the Lord Magistrate. There was an awkward shuffle. One didn’t just ask a man for his family’s secrets.
+
+“Big Bro Jin! Big Bro Gou! They want to know about how you guys do your rice!” Bowu just shouted, and the big lad looked up.
+
+“They do? Well, sure!” he replied as he got up along with another—Lan had to do a double take at Gou Ren. He looked a lot different these days.
+
+“The young lad said you grow your rice differently, and it makes it easier to harvest with the machines,” Lan said as the man approached.
+
+“Well… Instead of telling you, how about we show you?”
+
+===================================
+
+Mi Lan marveled at the road as they walked down it to Hong Yaowu. It was a thing of beauty, made of pristine paving stones, and every fifth of a Li was carved with spiraling vines. Normally it would have taken two days for them to get to Hong Yaowu. The new road would cut it down to hours.
+
+He still remembered the dirt path when he had been down this way during the Year of Sorrows. He and his kin had helped clear the landslide that had blocked the road. The week had been a miserable one, but that was when Lan had started referring to the Lord Magistrate as ‘the Patriarch’ in earnest.
+
+What else could you call the man who bought food for the people with his own coin? The man who ate only when the last man was served taking only the dregs of the pot for himself?
+
+What else could you call a man who worked longer than the farmers, shovel in hand, so that he could save more of his people?
+
+He shook the memories away and refocused on the road. The sun was getting lower in the sky and they were nearly there. Lan was concerned about their presence in the village, however. They would likely be staying the night, and Hong Yaowu was tiny. He would have a bowl of rice to not shame their hospitality, but nothing more. They were ill-equipped to handle over a hundred people showing up!
+
+Or at least that is what he thought until they rounded the bend and he skidded to a stop.
+
+His memory of Hong Yaowu was of barren fields, empty houses, and emaciated people.
+
+That memory blew away like mist under the sun.
+
+The fields were full to bursting. Golden stalks of rice actually drooped from the weight of their grains. A man was in his rice paddy, pushing one of Bowu’s machines at a leisurely pace while talking to his friend who was walking beside him. The gardens were a riot of colours, fruits and vegetables heavy on the vine.
+
+In all his sixty-seven summers, he had never seen such fields. Were these all thanks to these machines?!
+
+His eyes snapped over the rest of the village. Word had been sent ahead and the large communal pots were cooking over fires, the smell delicious even from where he was standing.
+
+Lan stared… and then imagined his village overlaid over on present Hong Yaowu.
+
+It was a good image.
+
+=============================
+
+I was smiling as I watched the impromptu party consume Hong Yaowu. There was laughter, drinking, and a steam reaper race.
+
+Daheng from Hong Yaowu was one pilot, while the guy with one leg was the other. He looked to be pushing north of sixty… but as he drove the reaper around the years seemed to just melt away. His smile was so big it took up his entire face as he laughed. The rest of the guys, the village heads and wealthy farmers of the area, cheered him on.
+
+These men had all lived hard lives, that much was certain. Their skin was weatherbeaten and looked like old leather. Their muscles were visible, and their hands were calloused. I could rely on my Qi. The men before me had lived their whole lives on nothing but the strength of their backs and the whims of the weather.
+
+None of them was truly educated. I doubted more than half of them could read the simple characters on the side of the reaper. But uneducated didn’t mean stupid. Each and every one of them had instantly grasped the value of the reapers. With the Lord Magistrate’s confirmation of financial aid to the villages for the machines, all of their doubts and apprehensions evaporated.
+
+Part of me had been worried that people would take the machines the wrong way. That they would say it was witchcraft or something, but I guess growing up on tales of spirit beasts, or actually seeing them for that matter, gave them a bit more resilience. A reaper was just an artifact mortals could use, like transmission stones or crystals.
+
+And they were certainly taking well to the reapers, as the one-legged guy demonstrated by passing the finish line first. He stumbled off the reaper and nearly collapsed onto Bowu, the rest of the old men laughing and slapping the boy’s back.
+
+“It was a bit last minute, but rice and vegetables are easy enough,” Meimei said from beside me. “Bowu did well.”
+
+I turned to look at her. She seemed to have gotten bored of screwing with the guy who called her a viper.
+
+I had heard what the shithead had been saying, but my wife had put her hand on my arm to stop me from having a word with him.
+
+And I meant just having a word with him. I wasn’t going to haul off and pop him one, considering Meimei had put laxatives in his drink after he called her ‘Spotty Mei’ to her face, but just to set some boundaries.
+
+But I was beginning to think the talk would have been a lot kinder. The guy looked kind of spooked.
+
+“Of course he is! He’s Yao Che’s apprentice! Look at my boy!” Yao Che shouted, his grin splitting his face in two. “He’s doin this old man proud!”
+
+I chuckled as the blacksmith refused to acknowledge the tears and snot trailing down his face. His smile was that of a proud father’s. Bowu had only been with the man a year, but they were already thick as thieves… and every metal component had the stamp of the Che family’s forge on it.
+
+On one hand, it was kind of sad that the only member of Bowu’s family who was worth something was Xianghua, but at the same time… Liu Bowu had a family here now too.
+
+“Ugh! Old man! Here, wipe your face, it's dripping!” Ty An scolded and brought out a handkerchief.
+
+“I’m not crying, damn it! Men don’t cry! It's raining!”
+
+Everybody pointedly ignored him as Ty An started trying to wipe his face.
+
+I turned back to the party and to where Bowu was standing.
+
+It was a beautiful sight. It was like those stories I had loved reading. The ones where brilliant men got sent back in time and made people's lives better with the power of science. Instead of just one brilliant protagonist though… it was all of us.
+
+I smiled.
+
+Somehow, watching it unfold in person was even better. Knowing that these were real people and not just words on a page.
+
+It would take decades for any of this stuff to reach beyond Verdant Hill. Centuries in a place as big as the empire… but it was a good first step.
+
+I may not have been the kind of man to be able to go on an uplift crusade… but as I watched Bowu talking with the farmers, only one thought crossed my mind.
+
+“The times, they are a’ changin’.”

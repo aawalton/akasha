@@ -1,0 +1,207 @@
+---
+id: d160cbe0-ed09-5050-a4f1-bb4a28b27b97
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 20 - Damned Accolades"
+slug: 0077-book-5-chapter-20-damned-accolades
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 77
+ownLength: 4925
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3466867/book-5-chapter-20-damned-accolades"
+royalRoadId: "3466867"
+---
+
+In some ways, things were going well. Avyna was alive. Ranthia had killed the horrific man that had dared to hurt her Gemheart. And the items she had gifted to Avyna helped to keep her safe—just as Ranthia had hoped they would.
+
+But as Ranthia emerged from the burning woods—her armor scorched, her flesh singed, and Avyna’s hair gripped in her fist—she was unable to find a single bright point to focus on. Avyna had lied to her. For eighty years the woman she loved had offered Ranthia lies, even after they’d pledged to be completely honest with one another. She had accepted that Avyna wasn’t telling her everything. She hadn’t been happy about it, but she had forced herself to accept it. But of course, it was all just lies.
+
+Why was she even surprised? Everyone lied to her, and she kept falling for it time and time again. Night, Remus’ leadership, the former base commander she worked under, Hexara, and… well, Xaoc alone knew who else! What was the point of trying to be a good person if everyone else kept lying to her face?!
+
+Be careful. You have to stay safe, so we can talk. I’ll be yelling at you—a lot—so don’t be late. Gods damn every last thing, Ranthia couldn’t even do angry correctly! Her final words to Avyna had practically been flirty! She had no idea if Avyna could ever even begin to mend the rift that her loathsome lies (damnit, Anthelleon) had created between them. But with every step Ranthia took, it was just a bit harder to imagine that they could ever go back to what they’d once shared.
+
+By Xaoc, she just wanted to curl up somewhere and sleep.
+
+But when she finally tore her gaze away from the beautiful hair clutched in her grimy fist, the reality of the world reasserted itself. Of the twenty-nine Hunters that departed from the City of Arts, ten had turned against them and sided with the Elf Hunters. And Ranthia was counting Jarthrams among that number, even if he had died—by her hand—before ‘Blood Chain’ ever riled the rest into rebellion.
+
+She had hoped to leave the slaughter of elvenoids behind by moving to the Tympestshard Council, at least for a time. Instead, barely three-quarters of the way into her first year, she found herself culling multiple lives. Again.
+
+The aftermath of the betrayal was predictably bleak. Jubrand and Vistiviantus were standing over Alagora’s body, struggling to process their grief. Elves, pieces of elves, and piles of what had once been elves littered the vicinity. Many of the Hunters were nursing wounds of varying severity as well. Anthelleon was sitting stock still on the ground, clutching her arm with an atypically pale complexion. Aegiomus had a hand firmly pressed against his stomach—trying to stem the crimson tide—as he slowly moved amongst the wounded to offer what advice he could.
+
+For a single moment, Ranthia considered embracing selfishness. She only had five more healing potions on her, after giving one back to Avyna. And if everyone insisted on treating her like a flea-ridden rug, why shouldn’t she hoard what she had and look out for herself? Why shouldn’t she be just like everyone else?
+
+The moment passed and her ill temper soon saturated itself with shame.
+
+“Hey, let me see it. I have some potions.” Ranthia approached Anthelleon first and knelt next to her friend. Gods and goddesses, what had she even been thinking?! Anthelleon had been the one to convince her to go after Avyna after Rogue Wind was killed. The last she’d seen her friend, Anthelleon was fighting two other Hunters to try to protect the sniveling elf that claimed to represent the Unchanging Council’s interests. Yet she still told Ranthia to go.
+
+Anthelleon tried to refuse assistance, though she slowly released her wounded limb and let her worry show on her face. For a rare change, Ranthia was glad that she had faced the horrors of war and helped in the [Healers]’ tents. The wound was bad. It looked as if someone had just scooped out a massive chunk of her friend’s upper arm. Flesh and bone were both just… gone, leaving her arm attached by a thin bit of meat. And a copious amount of blood that was refusing to stop flowing, of course.
+
+“Tell me true, will I be able to play the violin after this loathsome injury?” Anthelleon tried to crack a joke. That was probably a good sign.
+
+“Only if you learn to play it after you get healed. Here, we’ll see what one of my potions can do for you. I’ve never tried using it on damaged bones, but you’ll bleed out without doing something dramatic, like cauterizing the wound.” Ranthia’s heart wasn’t in the banter, but she still let her mouth do what it must to help keep her friend at ease. If the potion was unable to help her, Ranthia would have to slice the woman’s arm the rest of the way off and burn the wound until the bleeding stopped. Anthelleon had enough vitality to reduce the utility of tourniquets—her skin and musculature just couldn’t be forcibly contracted far enough with mere cloth or rope.
+
+“Loathsome…” Anthelleon just kind of trailed off there while Ranthia tried her best to get half of the contents of the bottle applied evenly to the entire surface of the wound—using only a single hand, no less. After that, Anthelleon drank the rest and went back to clutching her arm. “Check on Aegiomus, I could smell foulness from his wound. It is deeper than he wants us to know.”
+
+There was probably something more that she should have said to her friend. Everything about the situation was Avyna’s fault, and Ranthia couldn’t help but feel culpable. Had she known… Had she been less of a trusting, love-struck fool…
+
+Instead, Ranthia numbly moved to the next elf that needed whatever aid she could offer.
+
+It felt as though each elf was more stubborn than the last about accepting Ranthia’s assistance. There also just weren’t enough potions to go around. The instructions on the bottles didn’t speak of partial doses and she had no idea if she would waste them if she did, but necessity left her with no alternative. She doled out three potions to the worst of wounds—Aegiomus’ was a mortal wound, no matter what he claimed—and split the remaining two bottles between the rest of the elves. They didn’t need perfect restoration; they just needed to be hale enough to reach a [Healer].
+
+She was hardly the only one with supplies, but Ranthia’s potions proved to have a dramatically higher degree of efficacy than any of the ones her fellow Hunters had. There were questions, and Ranthia pretended not to hear them. After everything, she couldn’t even bring herself to trust Avyna’s story about the almost miraculously effective potions being commissioned from some old favor.
+
+But no matter their origin, they helped. And she chose to focus on that.
+
+“Out of my way. I have to see for myself what she died for!”
+
+Naturally, the moment the crisis had passed… Grudgingly, Ranthia—like almost everyone present—raised her eyes to the source of the disruption. Jubrand was climbing into the back of the wagon, ignoring the protestations of the nameless official (that wasn’t Ranthia’s fault, the ass just never introduced himself).
+
+Ranthia hesitated to get involved as her eyes once again drifted down to Avyna’s hair—still clutched in her fist.
+
+“What the shard is this?! Flowers?!”
+
+“Wait… no, those are…!”
+
+By the time Ranthia reached them, four elves had gathered to peer into the open spatial crate. One was eagerly stretching out her arm with her eyes fixed greedily on stacked rows of tiny plants. The others were watching her, as if they were curious to see what would happen—or, more likely, they were waiting for her to clarify what she was convinced the tiny buds were.
+
+Ranthia seized the crate’s lid and slammed it shut with as much force as she dared. And she dared to use quite a bit, given that she spotted a structural resilience enchantment amongst those engraved on the inside of the crate.
+
+Khitra cursed, yanking her fingers clear just fast enough to avoid getting them smashed under the lid. Three of the elves seemed ready to start shouting, only to find Ranthia already glaring at them. Her blindfold was still stuffed into one of her belt pouches, so they got to experience the full extent of her inhuman fury.
+
+“I’ve already killed three elves to protect this fucking cargo. Do not volunteer to pad the damn number! Fuck off, all of you!” Ranthia shouted her threat into their stunned silence.
+
+She hadn’t exactly intended to channel the tavernkeeper with her threat, but her foul mood seemed to mirror the woman’s default state more than she would have expected. Either way, it had the effect she’d hoped—all four elves scattered as though the massive woman herself had snarled at them.
+
+Peeking into the crates with [Divine Eyes in the Void] was, predictably, a wildly uncomfortable experience. Like most spatially expanded containers she could peer into, their outsized contents overlapped with reality in ways that mundane beings were never meant to parse. Not that she allowed it to stop her; she stoically endured the discomfort while she counted the plants.
+
+If a single plant went missing, she would use whatever violence was required to recover it. The thrice-cursed weeds had cost her Avyna—for at least another eighty years, even if her former partner had some rationale or excuse to offer that would mollify Ranthia’s later self. The plants had made elves turn against each other. Gods and goddesses, she had killed the father of one of her closest friends! How was she even going to begin to explain it to Sunny?! Sure, Sunny vocally despised the man, but he was still her father!
+
+The moment she finished counting, Ranthia moodily sat down on the topmost crate and found herself gazing at Avyna’s hair yet again. …She was committed to playing her part, no matter how her heart agonized over it. And, if nothing else, she could genuinely mourn the innocent love that she’d once cherished. If—if—she somehow still had a future with Avyna, things would never be quite what they were. Probably.
+
+Gods and goddesses, she was done with worrying about the future.
+
+Instead, Ranthia began to try to weave Avyna’s once-cherished hair into their shared sigil, just as she was supposed to.
+
+Getting underway had been a bit of a process. The beasts that had pulled the wagon had been killed during the melee and the official’s mount had suffered a somewhat gruesome fate during the initial strike meant to kill him. That left the elves forced to pull the wagon—and most of them refused on principle. In practice, Aegiomus ended up pulling the wagon more often than not, though a couple of others took turns while making a spectacle out of how little they wished to do so.
+
+Anthelleon wanted to take shifts, but even if Ranthia’s potion had seemingly restored her flesh and—against all expectations—bone, no one was willing to let her risk her improbably restored limb. At least not until a [Healer] verified that the restoration had been as thorough as it seemed. Ranthia never even tried to volunteer; her strength was low by elven standards, and she refused to leave the crates unguarded.
+
+She also stubbornly refused to sleep. She even left her burns in place without shifting, convinced that the minor ache was somehow meaningful. She remained a vigilant protector, perched atop the crates in her traveller’s cloak with the hood over her head. Weaving Avyna’s cherished hair into a sigil was harder than she had expected it to be too. There was a lot of hair, and it felt… cruel to discard the bulk of it.
+
+The wagon-pulling issue resolved itself during their first night, when a force of elves responding to the on-going woodland fire found them. The official somehow convinced the elves on a far more important task to part with a beast—a goat that stood almost as tall as she did, with grotesquely exaggerated musculature, and harmless(?) flames flickering across its black fur.
+
+No goat should meet the eyes of anyone that dared to look its way.
+
+Ranthia finally put her blindfold back on after that.
+
+The wagon came to a stop at the fork in the road. The bulk of the Hunters prepared to depart to the south, while the wagon continued its way west—to… wherever its destination was. The name had come up, but ‘Field 4096’ meant precious little to Ranthia.
+
+“You sure you don’t want me to take over?” Aegiomus stuck his head into the wagon to make the offer again. As if they hadn’t gone through the exact same conversation four times previously.
+
+“Very sure. You need to be the one to tell the Lodge’s owner what happened. I’m staying right where I am until the wagons are at their destination. For Avyna…” Ranthia tried to keep her annoyance out of her voice.
+
+She could sympathize with the Hunter—she wouldn’t want to be the one to tell the tavernkeeper that a third of the Hunters that she chose ended up betraying them. Honestly, that was one (small) factor in Ranthia’s decision to stick with the wagon. Sunny was another.
+
+“Fair enough. Anthelleon’s sticking with you—we talked it over. You’ll be a stone’s throw from Ithil when you’re done delivering the cargo, and I’d rather a higher level [Healer] take a look at her. I’ve never even heard of a potion that can mend bone, you see. Besides, after this cargo already got attacked once, I’d feel better with at least two Hunters guarding it.” He tried to make it sound like an order, but he lacked the weight of authority to pull it off.
+
+Not that Ranthia had the energy or will to argue with him. He had a decent point about Anthelleon too.
+
+“Okay.” With that, she refocused on her sigil. She had finally given up on doing it ‘traditionally’ after making a knotted mess out of too much of Avyna’s beautiful hair. Instead, she had spent an inordinate amount of time forming, scaling, and adjusting her adamantium into hollow tubes that recreated the sigil at the proper size to match the volume of hair she had to work with. The channels of adamantium were her guides as she worked even braids of Avyna’s hair through it, temporarily removing sections as needed to thread knots and connections.
+
+The journey, surprisingly, went smoothly from there. Without the crowd around them, Ranthia finally allowed herself to rest—and to get bullied into shifting into an uninjured image. She trusted Anthelleon, no matter what hateful doubts lurked in the back of her mind. …Especially after the first few times, with the number of plants in the crates remaining unchanged.
+
+Unlike Remus, roads within the Tympestshard Council were paved, with the styles varying based on which city or organization was nearest. Around the City of Arts, the roads contained murals. Other areas were paved with simple stones or crushed crystal. But in a wide region around Ithil, each road was raised above the ground and formed of seamless luminescent crystal. Subtle patterns were carved into it to prevent it from being as slippery as it should have been, yet they were fine enough that they inflicted no real damage on the wagon’s wheels, even with none of them possessing any Skills that reinforced the wagon.
+
+Unless the horrifying and eerie goat had a Skill for that. But some possibilities were too unnerving to seriously consider. Seriously, Ranthia had watched the thing crunch a rock between its teeth while it stared at her head.
+
+Just before noon, their wagon turned off a ramp and followed a smaller road of green crystal into the tree line. Minutes later, the trees came to an end, and they found themselves within a vast, open area. Multiple buildings were placed along the maze of roads, with eight fields set amongst them in a neat grid. Most of the presumed farm was seemingly unoccupied, though quite a few elves wearing uniforms not unlike their official’s were waiting outside of a building that somehow reminded Ranthia of the finer governor’s manors she had seen in Remus.
+
+The architecture was wildly different, of course. No one in Remus built anything out of crystal. But the building was undeniably intended to serve as both a home and a statement to any and all guests. The walls were riddled with windows, architectural flourishes lurked everywhere Ranthia looked, and trailing ivy with blue, translucent leaves hung from planters fixed along the highest windows of the home.
+
+The wagon came to a halt in front of the crystalline manor. While Anthelleon helped their official down from the driver’s seat, Ranthia vaulted out of her defensive position with the cargo.
+
+Honestly, it was her own fault. She truly should have used [Divine Eyes in the Void] to check some of the personnel standing by before she made her appearance. Had she, she might have been less surprised when she was immediately surrounded by a variety of weaponry. Each elf wielded a blunt weapon, surprisingly, ranging from staves to weighted chains—all made of purple crystal.
+
+“Wait, wait, wait, wait! That was instrumental to the safe recovery of this cargo! It defended the Ilan family’s masterpiece and, just as crucially, it defended me!” The official scurried around the men and women that menaced Ranthia as he protested.
+
+…Setting aside her being treated like a thing, the man’s words were a bit too generous. Anthelleon was the one that actually reached and protected him. Ranthia had been far too busy dealing with the Elf Hunter woman. About her only contribution to the man’s continued existence was that she’d thrown a knife to disrupt a Skill that Anthelleon would have likely been able to block either way.
+
+“Back off from her!” Anthelleon tried to menace them, despite being half the level of the lowest level individual threatening Ranthia.
+
+“Enough. I appreciate the sentiment, but I informed you to let all of those that recovered the cargo through. I now inform you that I wish to speak to the human, so kindly show her the respect of a guest.”
+
+The words came from nowhere. They were not overly loud, nor were they terribly forceful. They just… existed. The voice was feminine and rich. And they caused the uniformed guards to practically teleport into a new configuration—kneeling on the ground with their heads down, forming a living corridor that led directly to the manor’s open door.
+
+They also barred Ranthia’s access to Anthelleon.
+
+“…I would prefer it if my friend and party member were to accompany me.” Ranthia tried to keep the fatigue out of her voice. Gods and goddesses, she was in no mood to deal with someone with power.
+
+“My apologies, dearest guest. The Councilwoman has only given leave for your presence.” One of the kneeling women provided a prompt answer. And an alarming amount of context.
+
+Councilwoman. There was only one ‘council’ in Tympestshard—every other organization very carefully used different words or names to describe themselves. She was being asked to meet with a member of the Unchanging Council?!
+
+Her armor reeked of smoke, she had no cosmetics, and she was still nursing one of the foulest moods she had carried in years! She had never gotten along with those that wielded power from behind a table, yet if she was forced to meet with one, she would have much rather had some warning—and the services of a well-stocked wardrobe as well as a Skilled [Beautician].
+
+“Is there anything I should know?” Ranthia directed the question to Anthelleon.
+
+Her friend shrugged.
+
+“Please do not keep the Councilwoman waiting.” The same kneeling woman did her best to remain unerringly respectful and offer a genuine plea.
+
+“Right…” Ranthia took a deep breath, then began to walk toward the door.
+
+“Hood off, please!” The official that had travelled with them shouted, just before she reached the threshold.
+
+Ranthia swallowed her urge to growl, removed her hood, and made sure the sigil of mourning was visible beneath her traveller’s cloak. With that, she stepped through.
+
+Inside, an elf wearing a sheer, frilly set of mistweave waited just out of view from the doorway. She kept her head down and never looked Ranthia’s way, instead she beckoned Ranthia to follow her, and made her way deeper into the estate. The woman carefully kept her silence, until she finally stood by a door and opened it, gesturing for Ranthia to proceed through.
+
+Ranthia found herself in a crystalline dining hall. A long table of blue-and-green striated crystal took up the bulk of the space, and at the far side of the room Ranthia finally laid eyes on the Councilwoman, seated on one side of a smaller, ornate wooden table. The table itself was laden with a feast of foods, ranging from a whole roasted chicken to a towering eight-layer cake.
+
+[Leader – Gemstones] level 3584, [Leader – Sound] level 3584, [Mage – Arcanite] level 3584. The woman’s emerald green hair was piled into staggered waves of curls. Her horns, polished black, raised from just above her forehead and traced the curvature of her head as they swept backward, just barely above her hair. She was dressed in a shimmering outfit made using a material Ranthia had never seen before—the exact same shade as her hair—that hugged her generous curves dangerously. And Ranthia had no idea how the effect worked, but the woman’s eyes seemed to drift between her three elements every few seconds. From faceted blue-grey gemstones to ripples flowing from the center of her eye to glowing with an inner light.
+
+“Welcome, please join me. You must be hungry from your travels, my friend.” The woman parted her richly painted red lips to offer Ranthia a toothy smile.
+
+Her accent was interesting. The variation on Creation that she was growing accustomed to from elves had its differences from Remus’. The largest example was an entire tense—imminent and intentional future, used for things they planned to do the moment they concluded their current task. Still, there was enough in common that Ranthia could communicate with any given elf without difficulty. The Councilwoman, in contrast, spoke a stiffer and stranger form of Creation, one that should have been harder to parse—except it closely mirrored the version of the language that Ranthia had used… when she was first reborn.
+
+No matter how much she tried to convince herself to relax, Ranthia was still visibly stiff as she carefully pulled the cushioned chair out and sat down. The sixteen pieces of cutlery that surrounded her plate and three bowls were crafted from finely detailed summer steel and included implements that she had no idea how to even use. Also, gods and goddesses, she wasn’t sure if she could stomach heavy foods—let alone while dining with one of the most (politically) powerful people on the face of Pallos!
+
+“Please, relax. You are my guest and I will not take any offense. You have hardly had an opportunity to learn our ways, and I suspect you have precious little experience with anything quite this absurd. Unfortunately, no matter how I informed my staff that I desired a more informal meeting, a certain degree of ceremony remains.” The woman winked Ranthia’s way. Her body language was inviting, to say the least—even the blindest idiot had to notice she was arching her back to try to draw Ranthia’s gaze to her chest.
+
+Not that Ranthia could have been any less interested. Between the woman’s station and the heartache Avyna had left her with, Ranthia’s lust was absolutely dead.
+
+“Forgive me, but I’m struggling to imagine what I could possibly do for you.” Ranthia had tried to be polite and deferential, she truly did her best. But the words that emerged weren’t quite what she had rehearsed in her head.
+
+The Councilwoman giggled openly, though only for a moment. “You might be surprised. However, I wished to meet with you to satisfy my own curiosity. I had heard tale of a human woman that had seized immortality within the City of Arts. It would have reflected ill on us both had I visited you or summoned you to visit me, as you might expect. However, I was aware that you were a Hunter, and I suspected the infamous Black Flame Berserker would send you along. Based on the thinnest of hopes that the precious cargo would be retrieved and that you would be among those that retrieved it, I chose to wait here.”
+
+Well, that was unsettling.
+
+“I still don’t even know what the cargo is—just what it cost me.” Ranthia touched a hand to the sigil hanging from her neck.
+
+“Ilan fruit remains the most essential crop of our nation. And we guard it jealously to prevent its spread. Each fruit provides effects that rival some of the greatest alchemical concoctions that have ever been brewed. They boost every stat, every Skill, and make you haler while they are in effect. People have survived grievous injury through eating these fruits. And that is just the initial variety that the Ilan family has released to farmers across our nation.
+
+“What you recovered is the latest masterpiece of the lineage. The potency of the fruit’s effects has increased and the flavor is richer. It would have been devastating had the plants escaped our borders. We require every advantage we can maintain to prevent the devils or other malefactors from threatening our sovereignty.” The woman poured herself a goblet full of a densely fragrant wine while she offered an explanation.
+
+Ranthia, in contrast, had yet to touch a single item on the table. Instead, she indulged her whim to debate—to learn more about what Avyna had hoped to accomplish. “I can’t imagine a crop’s exclusivity is that valuable.”
+
+“Come now, I have provided you a boon with my first answer. Before I answer your follow-up, it is only polite to do the same. Remove your eye-covering, if you would. I wish to see your eyes.” The elf chided her, with a playful expression and fluttered eyelashes.
+
+“My gaze tends to unsettle people.” Ranthia warned. When the Councilwoman refused to relent, she shrugged and carefully removed her blindfold. “Happy?”
+
+“Ecstatic. You should have no shame over such uniqueness. To answer your question: once these fields are producing, roughly ten percent of each harvest will go to tables much like this one. The majority of it will go to [Alchemists] chosen by myself and my peers, as well as other researchers. And that is our true advantage. Ilan fruit is one of our most precious ingredients for alchemical concoctions and is widely utilized in a variety of crafting projects, many of which would likely surprise you.
+
+“Now, I believe that it is my turn again. Were you ordered to come to our nation? Rather, if you will excuse a bit of rudeness: are you a spy?” The questions were offered in the exact same conversational tone as the woman’s explanations had been—and her eyes had remained fixed on Ranthia’s since the moment she revealed them.
+
+“No. Xaoc willing, everyone in Remus believes that I’m dead. I had to escape. Is that why you wanted to meet with me?” Ranthia deliberately chose to offer the most minimal version of the truth that she could.
+
+“Excellent. This matches what our people heard, and you have remarkably honest eyes. Thank you for satisfying my sole concern. And no, it had nothing to do with why I wished to meet with you. Though I had to ask before I could move forward, naturally. You see, my predilections are quite well known to my peers. I find beauty in that which is both feminine and exotic. This makes for an excellent way to hide things in plain sight. For example, the lovely elf with the unusual horns that led you to me? She wears lurid clothing and I am unsubtle about sharing my bed with her. And so, even though she is level 2048, even you never batted an eye.
+
+“She is one of the greatest [Assassins] alive, or at least I dearly hope that her talent is seldom matched. Yet because of my nature and her [Artisan] tag, no one is wary of her. Few suspect her, until they breathe their last. I have even had people attempt to kill me while she was in the room.”
+
+Nothing good could come of being told such a dangerous truth. In that moment, Ranthia would have given almost anything to somehow convincingly unhear the woman’s words.
+
+“And that is why I wished to meet with you. You are delightfully feminine and dearly exotic. And though my peers would deny it, you have done us a great boon by protecting the crop. Our reputation with the Ilan family would have suffered severely had we been unable to keep our own lands secure. My fellow members of the Tympestshard Council would have my head, politically, if I offered you the accolades you truly deserved.” She paused to lick her lips.
+
+Dramatic pause or not, Ranthia wasn’t so out of it that she missed the obvious thread. She knew exactly what was coming.
+
+“Luckily, you are the rare individual to whom I can make an even better offer: I invite you to join my household.”

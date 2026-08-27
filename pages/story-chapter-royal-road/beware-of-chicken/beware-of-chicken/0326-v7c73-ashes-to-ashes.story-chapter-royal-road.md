@@ -1,0 +1,197 @@
+---
+id: 305334ef-6cf5-5629-92c9-2a4b0f3af5a1
+page-type-slug: story-chapter-royal-road
+title: "v7c73: Ashes to Ashes"
+slug: 0326-v7c73-ashes-to-ashes
+partOf: beware-of-chicken
+position: 326
+ownLength: 2447
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3615301/v7c73-ashes-to-ashes"
+royalRoadId: "3615301"
+---
+
+After the victory, there always came the silence, Xiulan reflected. She would have liked to just sit for a moment, to let the calm wash over her, and center herself… perhaps talk to Jin and Meiling, but they had immediately departed to aid Tianlan. The hornet’s tribulation had done a lot more damage than they had realised at the time, destabilizing the already damaged Dragon Veins.
+
+There was no moment of respite. She was the Grand Marshal. And in the lull after the storm, she had her duties.
+
+She marched through the clearing, flanked by Yin and Tigu, with heads dipped. Exhausted cultivators stood and greeted her and her companions.
+
+“Grand Marshal.”
+
+“Captain.”
+
+“Commander.”
+
+They were ragged-looking, utterly spent from the titanic battle they had been a part of, but they still stood out of respect and pride in their own accomplishments.
+
+Everyone knew that but two years ago a plague like this would have likely destroyed the entire Azure Hills. Without such a unified and swift response… it did not bear thinking about.
+
+While less personally dangerous to her than the battle on the solstice, this was still the largest fight Xiulan had ever been a part of. That all of them had been a part of. It had transpired over thousands of Li, and it had been a brutal, fast-paced, running battle that left little time for rest.
+
+They had trained for something like this—a battle against hordes of demons. That had been one of the goals of the past six months. Tigu, Yin, and all the others had driven their people hard, practising day in and day out when they were not preparing for Jin’s arrival at the Peaks. Xiulan had confidence in their people… but they were, at the end of the day, untested in such a massive endeavor. They were all cultivators, and no strangers to combat, but each and every plan they had implemented, their chain of command; all of it had been suddenly hit with a trial by fire.
+
+And yet it was a testament to them all that they had performed as well as they had. Each member of their various branches had shouldered this burden with grace Xiulan had been humbled to witness. They worked together like one of Bowu’s steam reapers, whirring like interconnected gears. Emergency medical treatments. Cultivator teams. Extracting the wounded. Their tenacity, their training, the protocols they had instituted… everything had worked. Everything had held.
+
+Without that training, without the effort their people had given, striving to be better, to work with their fellows as one unit… even with Ri Zu and Meiling’s medical techniques dulling the enemy’s power, it could have been a lot worse.
+
+They had accomplished every one of their objectives. Not a single mortal had been slain since they arrived. Against a swarm that turned the sky black, the White Tigers and Blazing Swords had fought like heroes.
+
+It was a stunning victory. It was one that the people of the Azure Hills would cheer their names for, writing songs and plays about.
+
+And yet even a stunning victory still came with costs.
+
+Both Tigu and Yin were grim-faced as they approached the person Xiulan came to see.
+
+“Zhan, report on the casualties,” Xiulan asked the man in charge of transmission stone dispatches.
+
+“Yes, Grand Marshal,” the man replied, taking out a scroll where he had written everything down. “We got off lightly, all told. We have ten casualties that will require more than a few days of healing… and two deaths, Grand Marshal.”
+
+Both Tigu and Yin said nothing. They had clearly some idea beforehand, through the reports they had been given.
+
+“What were their names?” Xiulan asked, her voice quiet.
+
+“Wei Shan of the Blazing Swords. Independent. Yu Yan of the White Tigers. Member of the Lonely Tree Sect,” Zhan replied, his voice never wavering.
+
+“What happened?” Xiulan asked, her voice surprisingly calm.
+
+“Wei Shan got separated from his partner and was ambushed by four of the enemy giant hornets. He slew three, but in its dying moments, the third grabbed his arm, and the fourth ran its stinger through his eye and into his skull. Yu Yan… similar circumstances.”
+
+The old ache of the valley and Sun Ken returned. Those under Xiulan’s command had died in the line of duty.
+
+It was a dreadful, bitter feeling, and one that the Grand Marshal could not let show on her face.
+
+She had sworn an oath that she would defend those who could not defend themselves. They all had.
+
+They had done their duty well. They had saved thousands. Without them, entire towns would have been depopulated, lost to swarms of Spirit Beasts.
+
+Xiulan’s head bowed.
+
+Two more lives.
+
+The weight was heavy, and Xiulan hoped she would never get used to it.
+
+“Have them prepared for transport. We’ll take our heroes home,” Xiulan said, her voice quiet.
+
+Yu Yan would be returned to her sect… but Wei Shan had no one else. The Azure Alliance was the only organization he had ever been a part of.
+
+It was good, then, that they already had a place for fallen heroes.
+
+“Yes, Grand Marshal.”
+
+They would not be forgotten. She would not forget them.
+
+And she knew that neither Tigu nor Yin would forget them either.
+
+But she could not yet mourn. The Grand Marshal still had duties to attend.
+
+And perhaps, an ancient bond to rekindle.
+
+===
+
+As the last roar petered out, Huishou slumped with exhaustion. It was over. It was finally over. They had won a great victory. Brave Paobu had journeyed with Bi De, the Blaze Douser himself, and slain the greatest enemy they had ever known. Even now, he carried the demon bee’s corpse upon his back, a true son of the forest.
+
+Yet, in the quiet, came sudden awkwardness. One half of the clearing was mostly Blaze Bears, while the other half was mostly humans. Their groups had mingled a lot during the battle, but even as he watched, the two of them began to separate. Some more reluctantly than others, forming lines with their own kin. Huishou saw the two humans with Zhuazi simply ignore the separation altogether, all three of them slumped against the same tree.
+
+These were cultivators. Actual cultivators, not Huishou’s brave and foolish little brother, who had ignited in the chaos of battle. Nor were they the dauntless heroes who had journeyed to the Ash Forest with brave Paobu, impressed by his martial prowess. They were simply here.
+
+Part of his blood rebelled against the sight. He felt his mane bristle and stiffen, because humans were not supposed to be in Home. It was theirs.
+
+And yet… they had shed their blood helping the Blaze Bears, had they not?
+
+Others of his kin were eyeing the newcomers with some suspicion as well. He could see the territoriality in their body language, the preparation for what they thought would be another fight.
+
+And then, from the group of humans, leaders emerged. Huishou could tell, from the way they carried themselves, and the way the others parted around the lead female.
+
+She walked funny, like she was gliding, rather than her feet touching with any solidity. She moved with a grace that no bear could have. She was unmarred by the surrounding soot and ash. While others around her looked like they had been in battle, their clothes and bodies ragged and worn, she was pristine, like a lone lotus rising out of the center of a murky pond.
+
+And yet the green blades that hovered around her were familiar to Huishou. He had seen thousands of the human claws tearing through the air, slaughtering many times their number of demon bees.
+
+The human leader was dangerous. Even more so because she moved without any hint of fear, striding towards the center of the clearing where she would be near surrounded by them.
+
+“Thank you for informing us of this threat, Bi De, Vajra,” the woman said, her voice musical and somehow soothing.
+
+“Grand Marshal Cai Xiulan. Thank you for heeding my call; without your presence, this would have ended far worse,” Bi De replied.
+
+The human, Xiulan, turned to look directly at Huishou and his kin. Little Brother, still on Huishou’s back, stiffened at her gaze and soft smile. Her eyes were utterly entrancing. They were the colour of the best blue skies, the kind that every Blaze Bear loved to sleep under. “I am glad we were able to respond in time to assist you, and the Blaze Bears.”
+
+Huishou blinked.
+
+‘You’re happy…. to help us?’ Huishou asked, confused.
+
+Humans did not particularly like Blaze Bears. Blaze Bears did not particularly like humans. That was the way of things.
+
+“Why would I not be glad to assist the children of the Forest Empress?” the human asked, and a ripple passed through the assembled Spirit Beasts.
+
+‘Wha—how do you—’ Huishou asked, utterly baffled. The human… she knew of their Mother…?
+
+The human took out a crystal. She held it with a certain amount of reverence, and offered it to Huishou.
+
+“We were friends, once. And I would like us to be again,” the human woman replied. Her Qi radiated around her body, pure and honest, soft and inviting as a warm meadow.
+
+Huishou reached out and touched the crystal with a claw.
+
+His eyes widened at what he saw.
+
+A great green bear and a human woman, who looked very much like the human before him. The human woman was teaching Mother’s cubs to dance, laughing as the little ones stumbled clumsily through the moves. She changed the steps and tweaked them, so it would better match their bodies, and it looked, for all the world, like a growing tree.
+
+===
+
+Ruo Ma had never really been much for parties. He attended them, because it would be discourteous to do otherwise, and occasionally he enjoyed himself, but he would usually rather be training.
+
+He took a swig of the rice wine Bat had gotten him, before the Ravineman had gone to mingle. He was in good shape, with his clothes only a bit singed.
+
+And yet this party... well, it wasn’t so bad. It was certainly different from many other parties that Ruo Ma had been to, on account of the massive bears dancing around numerous bonfires. They were towering things, vast pillars of flames, fueled by the titanic paper hornet hives that had once covered this section of forest. The beat they danced to made Ruo Ma tap his foot against the forest floor.
+
+It was a familiar tune; wasn’t it from the solstice dance some villages did? He remembered it vaguely from his youth around Pale Moon Lake—before he became a cultivator.
+
+‘She's dancing wrong,’ Zhuazi said from beside Ruo Ma, squinting at Hui. ‘She's supposed to be a tree, not whatever that is.’
+
+“She said it's supposed to look like water,” Ruo Ma replied.
+
+The bear squinted, and cocked his head to the side…before looking back at Ruo Ma. ‘If water is a beached fish.’
+
+Ruo Ma snorted. “For calling herself an elegant lady she really sucks at dancing.”
+
+Zhuazi snorted with amusement, and Ruo Ma chuckled.
+
+Here he was sitting beside a ‘stupid, gluttonous brute’ and sharing jokes. Blaze Bears had always featured in stories of Spirit Beast attacks and daring escapes. He would be more skeptical of things if he hadn’t heard that the Rumbling Earth Sect and the Wreckerballs, of all groups, had apparently just… stopped being enemies and moved into the sect together. It was one of the most ancient and bloodiest rivalries in the Azure Hills… and somehow it had simply ended seemingly over night.
+
+He looked up to where Bi De and the Grand Marshal were both speaking with a gaggle of Blaze Bears, her smile soft and warm, and the bears listening to her with surprising attentiveness.
+
+If that could happen, who was to say there couldn’t be friendly neighbourhood bears?
+
+… look at him, being all optimistic.
+
+But it wasn’t all sunshine and rainbows.
+
+“... he goes and just slams face first into the wall! And then had the gall to ask, ‘I won, right?!’ This cheeky bastard! He always gave everything he had to what he did! He had guts!” Captain Yin shouted, gesticulating. The crowd around her roared with laughter. She was clearly a bit drunk as she regaled the rest of the Blazing Swords with tales about Wei Shan. Ruo Ma… hadn't really known the man. They had been only colleagues.
+
+Nearby, Commander Tigu was doing something similar, talking about Yu Yan with others in the White Tigers.
+
+It was rather a revelation that the people who led them… actually cared about them.
+
+Ruo Ma had long since made peace with the fact that he would probably die alone and unknown in some ditch somewhere. It was just the way of the world. He and Wei Shan were nobodies.
+
+And yet, they were remembered. Remembered by people who shouldn't have given a damn, in his experience.
+
+Ruo Ma had originally joined the Azure Alliance out of selfishness. He had wanted the free food and a place to stay. It had been a convenient thing to take advantage of at the time. He thought he would move on once he got what he wanted out of things.
+
+These days, the thought rarely crossed his mind. Leaving seemed… wrong. Wrong, when he could actually make a difference in the world. Wrong, when he took his job as squad leader seriously.
+
+Wrong when he thought, ‘if that had been me, I think I might have died satisfied.’ Even cultivators, who longed for immortality, had things they were willing to die for. A purpose. A legacy.
+
+So many people liked to say kindness was a weakness. But was it really? Was it weakness, when it made people want to believe in your dream with you? Who would fight for it until their dying breaths?
+
+Ruo Ma didn’t know. He listened absently to the stories. To the little details that proved without a doubt Yin had been actually paying attention to their lives.
+
+… Ruo Ma would light an incense stick for the man’s funerary tablet. And at that thought he paused and glanced to the Spirit beast beside him.
+
+“Hey, Zhuazi, how do Blaze Bears do funerals?” he asked.
+
+‘Hmm? You burn them to ash, take that ash home, and then spread them on the soil so they can grow into a tree,’ the bear replied easily.
+
+… it was a surprisingly beautiful ending.
+
+Ruo Ma sat back against the tree beside a Blaze Bear, and watched the party continue.

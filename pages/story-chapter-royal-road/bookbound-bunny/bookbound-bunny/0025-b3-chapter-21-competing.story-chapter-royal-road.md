@@ -1,0 +1,217 @@
+---
+id: ff7f2073-00b8-5d67-9b35-18db0533ced9
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 21 - Competing"
+slug: 0025-b3-chapter-21-competing
+partOf: bookbound-bunny
+position: 25
+ownLength: 2531
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3186643/b3-chapter-21-competing"
+royalRoadId: "3186643"
+---
+
+The awkward atmosphere persisted until Lotte eventually woke up, looking particularly scruffy and bedraggled. When she joined the group and began eating, Alice finally revealed why she had been sticking around—other than free food that is.
+
+"The other teachers want this test to end during the weekend at the latest. So while we originally said you could stay as long as you could survive, it's looking like that's no longer feasible."
+
+"Why the change of plan?" Thomas asked.
+
+Alice sighed, appearing as if she wasn't too happy about the decision either. "Well, usually it's not this bad. Four groups are remaining, which will drop to three tonight. While the third group is also in a particularly rough spot, you and the second group are looking like you're prepared to go the distance."
+
+"Hana and Arthur?" Thomas asked again.
+
+"And Wallace," Alice corrected.
+
+"Who's Wallace?" Lotte asked bluntly.
+
+Alice frowned. "Your two friends aren't the only other notable kids in the class, you know? Wallace came in eighth during the gauntlet. You better watch out, he might be a diamond in the rough after seeing his performance out here."
+
+The trio shared an awkward glance, looking a little sorry for their attitude. They had certainly thought that only Hana and Arthur were the ones they had to worry about.
+
+No, wait, what about the other two who also earned bags? Were they in the other remaining group?
+
+Lily suddenly regretted not paying a little more attention to her fellow students; however, growing up in a rather large orphanage, she tended to stick only to the people she knew and interacted with. Even when she went out "adventuring" with some of the other kids, she admittedly only knew a few of them by name.
+
+"Is the other group the pair who beat me?" Thomas asked.
+
+"Hey, good guess," Alice smirked. "Garet and Felix are both in Terravix, so you can definitely add them to your rivals list. Not to mention Clarissa, who did poorly in the gauntlet, but she's been flourishing in this test. Honestly, the other two might not have pressed on this long without her."
+
+The three looked at each other again.
+
+"And you don't know them either…" Alice sighed, shaking her head. "You're really not living up to the Maranix name. You're supposed to be all sneaky and mysterious, shouldn't you be collecting information on your rivals?"
+
+The three were silent as they awkwardly shifted in their seats.
+
+Alice sighed again. "Well, whatever… It's not like I belong to any of the factions, so maybe I shouldn't care one way or the other."
+
+"You're not? I thought all teachers were part of one?" Thomas questioned.
+
+"Oh, now you're suddenly talking," Alice snorted. "No. I'm not part of one; the founding rule is that you need to be a spellcaster, and I'm most definitely not one. Frankly, my teaching position has been put under fire from time to time as well, until I beat the naysayers into submission."
+
+As Alice had a fiendish-looking smile, the three students collectively gulped nervously. Thomas especially shrank a little, feeling like he was to blame for touching an evident sore spot.
+
+"Surely Rose lasted longer than us, right?" Lily asked.
+
+"Yes, but only her team," Alice answered. "They stayed on for a few extra days after the last team dropped out, then we asked them to withdraw as the victors."
+
+I guess the issue is the Zephyrix team and us. Neither of us is anywhere near dropping out.
+
+Lily was surprised to hear that the other team was doing just as well as they were. She thought her group, given the rather accommodating camp they had constructed, would have a significant advantage.
+
+Although Hana is rich… Did she buy a ton of supplies? Or did this mysterious Wallace have a hand in it?
+
+"So… What's going to be changing?" Lotte finally asked, interrupting Lily's thoughts. "I hope you aren't expecting us to give up?"
+
+Alice shook her head. "While that would make some of the teachers happy, it would be very boring. No, I'm going to be making life difficult for the nine of you."
+
+"Difficult… How?" Lily cautiously asked.
+
+"Luring monsters into your camps for a start. If that doesn't shake things up, then I'm going to get creative," Alice explained with a nefarious grin.
+
+Thomas scratched his head. "Should you be telling us this?"
+
+"Why not?" Alice shrugged. "I told the others already, hence why one group is already dropping out."
+
+"Oh…" Thomas mumbled.
+
+"Yup, and with that, I'm going to be off," Alice said abruptly. Before the three could say anything further, she disappeared with a blur.
+
+"Well, that kinda sucks," Lotte sighed.
+
+"It shouldn't be too bad," Lily said optimistically. "I'm sure we can handle it. I can maybe create some more defenses with glyphs or runes?"
+
+"Hopefully not of the explosive variety," Thomas chuckled. "But I agree, it shouldn't be too bad. Even if we do give up, I reckon we have a good chance of coming in first thanks to finding some treasures."
+
+"The best outcome would be to agree to withdraw at the same time as Hana and Arthur. That way, we are guaranteed to come in first," Lily suggested.
+
+"And Wallace," Lotte chimed in.
+
+Lily rubbed her eyes, feeling tired. "Right… And Wallace."
+
+The three awkwardly looked at one another.
+
+"Was she messing with us? Do we really have a Wallace in our class?" Lotte asked.
+
+"Not to mention Clarissa, Fredrick, and Garet," Lily sighed.
+
+"I don't think she was lying," Thomas replied. "But she definitely raises a good point. We've been focused on our group, so we don't know what the others can do."
+
+"I mean… Not to rag on them, but they haven't exactly been standing out much," Lotte pointed out.
+
+"Unless you count the two who also won bags," Lily added.
+
+"I definitely should have paid attention to the two who beat me," Thomas admitted.
+
+"Oh well, what's done is done," Lotte said, standing up and patting her legs. "What's the plan of action?"
+
+"Take a rest day and work on our camp's defenses?" Lily suggested.
+
+"I agree with the rest day part," Thomas responded.
+
+"Yeah, we aren't in the best condition to go exploring," Lotte admitted.
+
+"Great. I'll see what I can draw," Lily said excitedly, her previous fatigue rapidly fading.
+
+"What about a big wall for our camp?" Thomas suggested.
+
+Lotte frowned. "Hey, that was my idea, and you turned it down!"
+
+Thomas smiled. "Yes, but, well… Back then, it would've been too eye-catching, but now that we are basically guaranteed monsters are going to be sent our way, then there's no point in trying to hide."
+
+"Sure, I can do that," Lily agreed, hoping to move on.
+
+Lotte still looked a bit unhappy. "What does that leave for the two of us to do, though? I don't want Lily doing all the work."
+
+"Umm… Give me a bit to think of something," Thomas replied.
+
+[Why not have the two of them donate Mana to the construct? You can partially draw it and have them provide the Mana.]
+
+{I can do that?} Lily asked in surprise.
+
+[Of course. Remember the other glyph drawing mode of the wand? The one that uses the natural Mana. Well, if you use that and provide an infusion point, then others can donate to fuel it.]
+
+{I've never drawn this… Infusion point, before. Will it be hard?}
+
+[No, it's actually relatively simple.]
+
+Arakil's book opened, revealing a self-contained glyph, perfectly illustrated in his pages. Lily's eyes sparkled with amazement, now realizing how significant an improvement this was over their previous situation. It was no wonder that Arakil had spent some time repairing the grimoire, despite the foreboding situation.
+
+{So, do I just add this to an inscription as a loose glyph?}
+
+[Two to be exact, one for each of your friends, and you don't need to worry about the inscription's balance or anything like that.]
+
+{An auxiliary glyph!}
+
+[Precisely!]
+
+Lily tried her best to hide her glowing smile. But with that out of the way, she informed her two friends of how they could help.
+
+"If you can't think of anything else, then how about donating Mana to my glyph?"
+
+"We can do that?" Lotte and Thomas asked, almost in perfect unison.
+
+Lily smiled and nodded, happy that she wasn't the only one caught off guard by Arakil's sudden idea.
+
+"Yes. I can draw it, and you can fuel it," Lily answered.
+
+"Are you sure? My Mana has… Issues," Lotte said somberly.
+
+"Well, it's an earth glyph, so I don't see why it would be an issue," Lily pointed out.
+
+[Correct. There should be no issue even with Lotte's Mana having additional corrosive properties.]
+
+Lotte looked relieved and nodded happily. Thomas also promptly agreed, although it looked like he was still trying to find something to do.
+
+"Just make food, or practice your spells," Lotte suggested.
+
+"I suppose we can practice trying to shape our Mana on our eyes in the meantime," Thomas agreed. "If we use up all our Mana practicing spells, then we won't be able to fuel Lily's glyph."
+
+"It shouldn't be that much Mana," Lily insisted. "I'm not drawing some sloppy glyph. But, it's definitely better to be safe than sorry."
+
+Lotte couldn't help giggling at Thomas' expense. This was the second time he'd accidentally touched on someone's sore spot. He tried to explain himself but gave up and just apologized before moving on.
+
+Lily didn't take it too seriously, so she did forgive him. Plus, his idea was good; they needed to work on their Magesight some more. So, Lily once again drew the illustration for them of the lens they needed to shape with their Mana, then began her own task.
+
+The first thing Lily approached was learning how to draw the auxiliary glyph, which, as Arakil had pointed out, wasn't too complicated. After only one failed attempt, Lily had already produced a working version, and the third one was even better.
+
+With that out of the way, Lily then moved on to designing the earth glyph that would construct the walls around their camp. Now that Lily could designate magical marker points, it would be a far simpler task to handle.
+
+For that, she actually asked her two friends to draw a rough perimeter in the dirt of where the wall should be. In this regard, Thomas was quite handy as he seemed to have a good understanding of how far away it should be without the size being completely unreasonable. Lily speculated that this might have been some knowledge he picked up from his Sorcerous Warfare class, as no doubt they used magic to construct ramparts or even forts.
+
+While the two were drawing in the dirt, and Lily was designing the glyph, she couldn't help but wonder again how her friend Theo was doing. If he were here, he probably could have snapped his fingers and summoned a wall for them. Then he could've spent the rest of the time engraving for bonus points.
+
+I must ask someone when the interschool tournaments start. Hopefully, Theo is on a team for sculptors or builders. As for myself, I'll probably need to ask Sylwel if I can join the alchemy team, if we even have one. While I'd love to join the enchanter team, I don't think I can until I learn how to enchant physical objects. Even if Professor Ollie seems to like me, I don't think anyone will let me submit a talisman.
+
+As Lily's thoughts began to wander, she continued to draw. She'd stumbled into a routine of repeating the same few sigils over and over to add reinforcement to the earth, and with enough of them, it would create a much denser stone. Usually, she would avoid using too many of these in the interest of efficiency, but now she had two volunteers to foot the bill!
+
+Eventually, the glyph was ready, and the final step was designating the points. She left the partial glyph floating and asked Thomas to show her where the central points would be. One by one, as he pointed them out, she marked them with a rune. The entire camp was practically sparkling with magic as the beacons were set, the inscription complete, and the only thing left was to fuel it.
+
+"Okay, it's time for you two to finish the job," Lily said, dusting her hands against the hem of her skirt.
+
+"Finally! I can't wait to see what this looks like," Lotte said enthusiastically.
+
+Thomas was a little more grounded, but he, too, looked excited. "How do we do this?"
+
+Lily pointed to the two floating auxiliary glyphs. "You need to put your hand on those and channel your Mana into them. Try to keep a steady pace, as this isn't a race."
+
+The pair nodded, and each walked to a glyph. They placed their hands on it and, after taking a breath, began to channel their Mana. The inscription responded in kind, gradually lighting up as the two auxiliary glyphs distributed the Mana appropriately.
+
+Lily made sure to watch the entire process with her Magesight active, and it was fascinating to see how the auxiliary glyph handled the distribution. It looked like Lotte was fueling it faster than Thomas, probably due to her earth affinity. Yet despite that, the two glyphs were somehow communicating with each other and balancing the result throughout the inscription.
+
+In almost no time at all, the inscription was fully fueled and pulsing brightly. "Stop!" Lily quickly told her two friends, who immediately pulled their hands away from their auxiliary glyphs.
+
+Then Lily flourished her wand and pointed it at the inscription, activating it. It flashed, and the markers went off one by one. The ground trembled as the earth shifted, and six pillars rose. Once the pillars reached their intended heights, they, too, began to tremble, as if linking up and resonating with one another, and raising walls of earth between them.
+
+The entire time the three were staring in amazement, even Lily, as the designer of this glyph, hadn't experienced something on this scale yet, so she was once again enthralled by this world of magic Arakil had introduced her to.
+
+Once the foundation for the walls was set, the final step was fortification. In fact, this was a separate glyph that Lily had drawn at the behest of Arakil. Thankfully, since both were earth, there was no need to worry about balance, and instead, Lily got to experience a relatively easy transition into inscriptions.
+
+The fortification glyph began reinforcing the earthen walls, drawing in more resources from the surrounding area and solidifying them into dense stone. As this process went on, the brown walls gradually took on a greyish hue, and by the end, they looked almost like real fortress walls—minus the mortar.
+
+Thomas was the first to break the silence. "Holy crap…"
+
+Lotte picked her jaw off the floor and nodded frantically. "I think we've won."
+
+Lily couldn't help but smile victoriously, especially when she thought of the look on Alice's face when she saw their camp, no, their fortress!

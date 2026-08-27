@@ -1,0 +1,151 @@
+---
+id: 4f8f0c7a-ac43-52c5-9b77-fbf11e3b0585
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 72 - Showdown"
+slug: 0076-b3-chapter-72-showdown
+partOf: bookbound-bunny
+position: 76
+ownLength: 2596
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3744885/b3-chapter-72-showdown"
+royalRoadId: "3744885"
+---
+
+While the stage was being cleared of all the rubble, the two girls were left with plenty of time to speculate on what had just happened. Having explored the dungeon together, they knew full well what Thomas' bolts of lightning were capable of, and in theory, they should have been even more devastating now, assuming he was preparing for the dueling tournament.
+
+"It's like they were all flash, but zero substance," Lotte suggested.
+
+Lily could only nod in agreement, as even if she knew earth and rock would be a good counter to lightning, it should have still caused it to burst or explode at the point of contact. This was magical lightning after all.
+
+While the two were throwing out ideas, which were unfortunately growing to sound more and more like a presumption that he'd thrown the match, Arakil finally spoke up.
+
+[I don't think he necessarily threw his duel on purpose. Unfortunately, we were too far away for me to overhear his chants or clearly see what gestures he might have incorporated. However, I could see his flow of Mana, not to mention I know what was in the scroll we gave him. I suspect what might have occurred was that he focused his lightning towards disabling, rather than damaging.]
+
+{Disabling?}
+
+[Rather than maximizing destructive force, he prioritized neural interference. This isn't really something you need to know. Still, it's electrical impulses that target the nervous system, overwhelming muscle control and sensation without delivering enough sustained current to cause catastrophic damage to the body. In simple terms, you could say he tuned his lightning towards subduing.]
+
+{But… Why?}
+
+[Perhaps he thought it was safer for this tournament? Considering how your Wards function, they would trigger regardless. In fact, I suspect it might be easier to trigger with this method.]
+
+{But he lost.}
+
+[Well, a rock doesn't have nerves, does it?]
+
+Lily didn't even bother responding, although she had to hide her tinged cheeks from her friend and hope she didn't notice. What Arakil said made sense even if he was jumping to conclusions. At the very least, it would explain why Thomas' spells were overtly flashy but had little physical impact.
+
+And I'm pretty sure it's something he would do; he doesn't want to accidentally hurt anyone. Considering he's pretty much flying into uncharted territory with his lightning magic, with only Arakil's scroll to guide him, he probably was scared he'd get banned like Lotte if something happened.
+
+And if something did happen, he would probably be forced to explain exactly where he got that scroll from, which would ultimately lead back to Lily. While the headmaster currently approved of the Magesight page, she wasn't sure how he'd feel about something like lightning magic. Not to mention, it went against the excuse they had given Fabrelis, claiming Arakil couldn't search the book for other teachings as he was focused on finding information about Lily's bloodline.
+
+"I guess we will just have to ask Thomas when it's over," Lily finally said, unable to really give Lotte Arakil's explanation.
+
+By now, the arena was cleaned up, and it looked like they were asking Clarissa if she was ready for the finals. It made sense, as Hana theoretically had more time to recover, but Clarissa seemingly refused the offer to wait and drank a potion on the spot. Several members of the audience hissed at that, as not many could afford to so casually use a luxury.
+
+"Damn, rich kids really have it good," Lotte murmured. "Dad really needs to expand his merchant business so I can also have Mana potions on tap."
+
+"I'm surprised you didn't invite him to watch with us."
+
+Lotte shook her head. "He needs to get his business done since he wants to watch whatever is happening tomorrow. Plus, he will get to see the recording of the frog we beat."
+
+Lily nodded at the explanation and then gave a small attempt to manifest a mental drawing. She was curious to see if her spontaneous idea had borne any fruit, but from the looks of it, if there was any change, then it was far too minor for her to notice.
+
+Or maybe I haven't given it enough time? Does it need to accumulate? Honestly, I have no idea…
+
+She was about to ask Arakil, but that was when Hana and Clarissa walked onto the stage.
+
+"For the final round, we have Hana Lucandriel from Zephyrix and Clarissa Viremont from Terravix," Professor Elius announced, earning a round of applause from most of the spectators.
+
+In particular, the Maranix side of the audience was strangely quiet, and Lily was glad they hadn't sat there to avoid any accusatory stares for not competing.
+
+"A Viremont and a Lucandriel in the finals, talk about staged," one bystander commented, earning a frown from both Lily and Lotte.
+
+"Yeah, I wanted to see that human with lightning magic, too bad he couldn't win," another agreed.
+
+"Guess that's humans for you, they can't compare to someone with a bloodline," the original complainer sighed.
+
+Since it was the final round, Professor Elius gave a small speech, mostly mentioning that this year's batch of students showed a lot of promise while also mentioning their early descent into the dungeon. Lily noted that some of the audience weren't sure what to make of that, while others seemed particularly impressed. She assumed the latter were probably Regarth alumni.
+
+"I don't want to jinx it, but I think Hana's got this in the bag," Lotte whispered.
+
+"I don't know what Clarissa can do to stop light magic. She doesn't exactly seem to be the nimble type," Lily whispered back.
+
+"Exactly! Then again, she had that vine-root thing that grabbed Thomas, so who knows what other tricks she has."
+
+Lily nodded. "It's the first time she's even shown her plant magic. It's always been simple earth spells up until now."
+
+"I could never do that," Lotte admitted. "As much as my poison magic has its issues, I don't exactly want to be casting mud spells at people."
+
+Lily smiled, understanding where her friend was coming from. While Lily didn't share Lotte's issue thanks to her Mana Core, she was now committed to glyphs and Astral. Sure, a little cantrip on the side was fine, but otherwise, she wanted to use her drawings to solve any predicaments that the stars couldn't fix.
+
+The countdown began, and the match opened with Hana blasting a gust of wind toward Clarissa at startling speed. It was as if she had skipped the incantation entirely, catching the entire audience off guard as she hadn't shown this in her earlier matches. However, while the audience was surprised, it looked like Clarissa was prepared, as she remained rooted to the ground, flashing an angry glare in retaliation.
+
+"Did Hana do that just to mess up her hair?" Lotte joked.
+
+Lily thought back to the snide comments back at the campsite after their camping trip and genuinely wondered if Lotte's joke was actually spot on. She didn't think Hana was that petty, but who knew when it came to the supposed grudges between their families.
+
+Clarissa's actual retaliation came shortly after, sending a small shrapnel barrage of what looked like gravel straight at Hana. No defensive spell was cast; instead, she simply dodged it, showing off her natural agility and why she routinely earned the top spot in the evasion test.
+
+Finally, the time had come as Hana cast a light spell, sending a beam of light straight at Clarissa. While Arakil had mentioned it wasn't "as fast as light," it was still far beyond what ordinary students could dodge, meaning it had to be blocked. The match might have ended right there, but at the last moment, another pillar of rock emerged from the ground, which sheltered Clarissa from the magical beam.
+
+While the pillar had shown remarkable resilience against Thomas' repeated bolts of lightning, after blocking just this one spell, it was already looking worse for wear. If Hana had chanted just a bit more to empower it, it might have pierced through and claimed victory already.
+
+Clarissa seemed to have realized this, and that was when she reached into her pouch and threw something into the arena. At first glance, it looked like she was throwing gravel, but what happened next revealed what it really was—seeds!
+
+Bursting from the seeds were brambles that crawled across the floor at a rapid pace towards Hana's location. She immediately began moving, but it seemed the rapid plant growth was seeking to cover the entire arena floor. If she didn't end the match quickly or destroy the plants, then she'd be trapped in a corner.
+
+"Is that allowed?" someone in the audience asked. "Nobody else used any items."
+
+"You're allowed to bring ordinary objects. I'm positive seeds count as ordinary," someone else replied.
+
+That got mixed murmurs from a few people, but most seemed too focused on the match to think or care about it. Lily herself had only a vague understanding of the rules for these types of duels, mostly to confirm whether she could use talismans. The answer was sadly no, as the rule seemed to be "don't bring items already imbued with Mana," which her talismans unfortunately fell under.
+
+It would explain why she doesn't have that wooden staff with her that she's been nurturing.
+
+While Lily wasn't sure on the particulars, Arakil had hinted that such a staff could probably secure her victories with very little effort. If Lily extrapolated from what she had seen from crystals and her own preparations, she could easily guess why that might be the case. Maybe the staff grew into a dryad and attacked for her, maybe it just turned into a giant tree that could attack and block. Until she saw it in action for herself, she could only imagine what secrets it held.
+
+I wonder if she will use it in the interschool tournament?
+
+Unlike this "friendly" Regarth tournament, the official one between schools had fewer restrictions, perhaps to allow the nobles to fully exert the power of their wealth and influence. While talismans were probably still out of the question, her wand would be fair game to bring along and use.
+
+It seemed like a strange distinction to make. Why was a staff or a wand okay, but a talisman or a potion was not, until Rose correctly pointed out that some rich kid could buy hundreds of alchemical weapons and just throw them at people to win. Whereas with a magical item, like Lily's wand, it still required some understanding and mastery of the device. Sure, that sounded dumb, but unfortunately, she could imagine someone winning by quite literally throwing their wallet at people.
+
+Returning to the duel, Hana now seemed to be on the back foot thanks to the approaching brambles. Rather than attacking Clarissa directly, she started using a cutting wind to clear away the approaching plants. Meanwhile, Clarissa used the time to summon another pillar of rock to hide behind, reinforcing her defensive position even further.
+
+"Damn, she distracted Hana long enough to fortify her position," Lotte cursed.
+
+Lily sighed, "It's too bad she's not a fire mage, or she could just burn the brambles."
+
+Lily also thought that the ultimate counter to Clarissa hiding behind the rock would be to strike from above. If Hana were allowed to use a lens, she could throw it up into the sky, shoot it, and use it to refract the spell downward. It was something Hana had been working on recently for the dungeons, though it was still very much in the experimental phase.
+
+What Hana needed was time enough to chant for a powerful, penetrating beam, like the one she used to take down the ant monster or that giant, undead Brassbound they fought as the final challenge of the first floor. Unfortunately, Clarissa seemed to be aware of this and was doing everything in her power to prevent her from having that opportunity.
+
+When Hana began chanting, Clarissa would throw rocks at her. When Hana was on the move, she would force her to deal with brambles; it seemed like things were gradually getting worse for their friend. She must have realized her rapidly diminishing position, as she suddenly changed her approach.
+
+"A wind shield?" Lily muttered.
+
+Lotte also didn't seem convinced as she frowned. "That might help against the gravel, but if Clarissa throws a big enough rock, it won't do anything."
+
+Yet despite that, Hana kept chanting and gathering more and more wind around her. Someone in the audience shouted that she was trying to copy Arthur. Still, that opinion was shot down by someone pointing out that she had nowhere to run, as the majority of the stage was infested with brambles that kept growing.
+
+This was another rather insidious trap set by Clarissa, as whenever she had the chance, she reinforced the ground her plants claimed. Gradually, they were becoming more than Hana could handle, and she was becoming increasingly trapped. Perhaps Hana knew this, and this was her last-ditch attempt to break the situation.
+
+Suddenly, Hana finished whatever she was doing, and to the surprise of everyone, she did the unthinkable. With a jump, the winds gathered around her, clustered, and exploded downward, sending her soaring into the sky.
+
+"She flew!" Lotte yelled out, and the audience was exploding with similar reactions.
+
+Lily was dumbfounded; she couldn't imagine wanting to win that badly that she'd willingly put herself at risk. This wasn't flying; this was simply launching herself with wind and hoping for the best. While she had done it in tandem with Lily during their scouting, Lily had focused on the lifting portion, while Hana had worried about the landing. Here? Hana had to do both, alone.
+
+What happened next only further panicked Lily as Hana, rather than worrying about how she was going to land, cast a light spell. It appeared that rather than refracting a beam of light to attack from a downward angle, Hana had decided to just literally do that herself.
+
+Clarissa seemed to realize the situation and began to panic. At first, she launched a few rocks, but even as she tried to lead the shots, Hana was soaring higher and higher at startling speed. When Hana's spell neared its completion, the girl seemed to almost give up and crouched down, hand on her head, as she tried to shrink as much as possible behind her rock.
+
+Hana's spell went off, and surprisingly, it wasn't even that strong a beam. If Clarissa had built a roof, she might even have blocked it, but, whether due to panic or oversight, she had tried shooting Hana down instead. With nothing to block her, Hana's spell struck, and the sound of the Ward being triggered echoed into the arena, met with cheers and applause from the excited audience.
+
+However, not everyone was celebrating so prematurely, as there was still one unanswered question: how was she going to land safely? Some members of the audience were already crying out that someone should catch her or save her, but more staunch observers pointed out that would likely disqualify her.
+
+Rapid arguments were going back and forth, people correctly pointing out that her safety mattered more than a competition. It looked like some people were genuinely going to intervene to save her regardless of the consequences until a man's voice boomed out from the audience, amplified through some form of magic.
+
+"My daughter will handle this herself! Nobody is to interfere!"

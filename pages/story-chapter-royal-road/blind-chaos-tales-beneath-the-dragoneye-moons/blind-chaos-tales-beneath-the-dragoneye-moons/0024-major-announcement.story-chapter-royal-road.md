@@ -1,0 +1,317 @@
+---
+id: 07d20e8d-7270-5aae-9fc5-c2b1fd7e7132
+page-type-slug: story-chapter-royal-road
+title: "Major Announcement"
+slug: 0024-major-announcement
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 24
+ownLength: 1937
+unit: words
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2681904/major-announcement"
+royalRoadId: "2681904"
+---
+
+Hey everyone, I’ve some big announcements to make!
+
+First of all, I’ve finished splitting Books 1 and 2 on Royal Road into Books 1, 2, 3, and 4. I’ll have a breakdown below for what moved where.
+
+The big announcement though is this: On November 16 Blind Chaos will launch on Kindle and Kindle Unlimited! I’m aiming to have books 1 and 2 both drop on KU at the same time, but life might necessitate delaying book 2 by a few days.
+
+In essence, the former “book 1” from before my split will be stubbing as the first two books drop!
+
+Going to include a FAQ here. If you have any questions feel free to comment and I'll answer 'em there or add them to this!
+
+1) Why did you split the books?
+
+They were too long! As things stand right this moment on Royal Road (and per RR’s tools), the word counts for each volume are:
+
+Book 1 (Budding Rhythm): 151,720 words
+
+Book 2 (Dancing with Chaos): 157,058
+
+Book 3 (The Grace of War): 238,445
+
+Book 4 (War & Worship): 118,176 (and counting!)
+
+…And yes, I might end up having to break Book 3 and 4 into three books instead of two. My research so far suggests that 250k words is the outer limit for what I can make work for physical copies, and depending on formatting it can be dicey to even get close to that. I’m going to wait until I have a better sense of War & Worship’s final length to decide for sure (also, I’m not sure when Nozomi will be available for another cover).
+
+2) Where’s Book 4’s cover?
+
+Nearly done! Nozomi’s in the final stages, but I wanted to get word out while there was a full month left before release. I’ll need to get typesetting done for the new covers (and to fix what used to be book 2’s cover. And I’m oh so glad I already spent the money on the next book’s cover typography long before I decided to split these. Just grand.)
+
+3) There will be physical books?
+
+Yes! They might come out after the ebook release does. This stuff has a higher learning curve than I thought, and I’ve still got surgery coming up next week (knock on wood; really hoping they don’t have to delay it). There will, at a minimum, be softcovers. I’ll look into hardcovers after everything else is ready.
+
+4) Why can’t the story remain free on RR forever?
+
+So, I started writing Blind Chaos’ OG draft when my career died. Since that day I’ve been coasting on savings, aided immensely by the bit of money Patreon brought in. Problem is, I’m getting dangerously low on savings and my recent medical troubles have made things worse by being a double-whammy of being expensive and by costing me numerous Patreon supporters (which is valid, I lost a lot more time than I was comfortable with and had to drop a day off my release schedule; though I’m still hoping to avoid admin/recovery weeks while I do this).
+
+In a lot of ways, the Kindle Unlimited release is a bit of a Hail Mary. I would have loved to try to get a bigger reader base first (and I will be doing an advertising push in my final month), but I’m out of time. And if I have to return to my former profession, the time I can spare for writing will diminish significantly, resulting in an unpredictable release schedule (assuming I can even find an acceptable remote job).
+
+That said, even if this goes horribly, I’ve no intention of stopping! Ranthia’s journey is far from finished. So long as I can move my fingers, I will find opportunities to continue writing.
+
+Book 1: (no chapters renumbered)
+
+Chapter 1: Chapter 2
+
+Chapter 2: Seeking Direction
+
+Chapter 3: The First Class Up
+
+Chapter 4: Awkward Repercussions
+
+Chapter 5: Spellcraft and Banditry
+
+Chapter 6: Familial Bonds
+
+Chapter 7: Becoming an Adventurer
+
+Chapter 8: Aquiliea Antics I
+
+Chapter 9: Aquiliea Antics II
+
+Chapter 10: Setbacks and Disappointment
+
+Chapter 11: Covenant
+
+Chapter 12: Violence Visited
+
+Chapter 13: Sudden Success
+
+Chapter 14: Adventurer I
+
+Chapter 15: Adventurer I
+
+Chapter 16: A Void of Her Own Making
+
+Chapter 17: Seeking Value and Saying Farewell
+
+Chapter 18: Adventurer III
+
+Chapter 19: Minor Interlude - The Guildmaster of the Sardonia Adventurer’s Guild branch – Tomorrow
+
+Chapter 20: Minor Interlude - Lacintus - The Darkest of Arts
+
+Chapter 21: Ariminum, the Capital of Remus
+
+Chapter 22: Old Faces New Encounters
+
+Chapter 23: Heart & Home
+
+Chapter 24: Inspiration & Aspiration
+
+Chapter 25: Personal Enrichment
+
+Chapter 26: Those Left Behind
+
+Chapter 27: Adventurer IV
+
+Chapter 28: The Chaotic Adventurer
+
+Chapter 29: A Brief Bit of Immortality
+
+Chapter 30: Advice Sought
+
+In short, it covers the start of the adventure to Ranthia’s decision to join the Ranger Academy.
+
+Book 2:
+
+Chapter 1: Academy I (Formerly Book 1 - Chapter 31)
+
+Chapter 2: Academy II (Formerly Book 1 - Chapter 32)
+
+Chapter 3: Academy III (Formerly Book 1 - Chapter 33)
+
+Chapter 4: Blind Faith (Formerly Book 1 - Chapter 34)
+
+Chapter 5: Blindfolds & Bloodsports (Formerly Book 1 - Chapter 35)
+
+Chapter 6: Academy IV (Formerly Book 1 - Chapter 36)
+
+Chapter 7: The Winter Solstice (Formerly Book 1 - Chapter 37)
+
+Chapter 8: Academy V (Formerly Book 1 - Chapter 38)
+
+Chapter 9: Ranger Convocation (Formerly Book 1 - Chapter 39)
+
+Chapter 10: Ranger I (Formerly Book 1 - Chapter 40)
+
+Chapter 11: Ranger II (Formerly Book 1 - Chapter 41)
+
+Chapter 12: Ranger III (Formerly Book 1 - Chapter 42)
+
+Chapter 13: She who Dances with Chaos (Formerly Book 1 - Chapter 43)
+
+Chapter 14: Vision of Her Dreams (Formerly Book 1 - Chapter 44)
+
+Chapter 15: Outmatched (Formerly Book 1 - Chapter 45)
+
+Chapter 16: Minor Interlude – Leoios – One Miscalculation (Formerly Book 1 - Chapter 46)
+
+Chapter 17: A Hundred Thousand Cuts (Formerly Book 1 - Chapter 47)
+
+Chapter 18: Ranger Versus Route I (Formerly Book 1 - Chapter 48)
+
+Chapter 19: Ranger Versus Route II (Formerly Book 1 - Chapter 49)
+
+Chapter 20: Love & Leadership (Formerly Book 1 - Chapter 50)
+
+Chapter 21: Duel & Direction (Formerly Book 1 - Chapter 51)
+
+Chapter 22: A Flower in a Garden (Formerly Book 1 - Chapter 52)
+
+Chapter 23: Problems to be Solved (Formerly Book 1 - Chapter 53)
+
+Chapter 24: The Garden Roams (Formerly Book 1 - Chapter 54)
+
+Chapter 25: Contact (Formerly Book 1 - Chapter 55)
+
+Chapter 26: In the Defense of Others (Formerly Book 1 - Chapter 56)
+
+Chapter 27: The Price of Life (Formerly Book 1 - Chapter 57)
+
+Chapter 28: Confluence of Individuality (Formerly Book 1 - Chapter 58)
+
+Chapter 29: A Grand Honor (Formerly Book 1 - Chapter 59)
+
+Chapter 30: Minor Interlude - Emperor Augustus - Absolute Ambition (Formerly Book 1 - Chapter 60)
+
+In short, it covers Ranthia’s time at the Ranger Academy, her two rounds, and her assignment to the War Rangers.
+
+Book 3:
+
+Chapter 1: A Nameless Base (Formerly Book 2 - Chapter 1)
+
+Chapter 2: The Morality of War (Formerly Book 2 - Chapter 2)
+
+Chapter 3: Momentum Shifts (Formerly Book 2 - Chapter 3)
+
+Chapter 4: The Tower on the Horizon (Formerly Book 2 - Chapter 4)
+
+Chapter 5: Blind Judgment (Formerly Book 2 - Chapter 5)
+
+Chapter 6: Patchworked Fragments (Formerly Book 2 - Chapter 6)
+
+Chapter 7: Changes Were Made I (Formerly Book 2 - Chapter 7)
+
+Chapter 8: Changes Were Made II (Formerly Book 2 - Chapter 8)
+
+Chapter 9: Unbreakable Days (Formerly Book 2 - Chapter 9)
+
+Chapter 10: The Price of Fourteen Words (Formerly Book 2 - Chapter 10)
+
+Chapter 11: A Great Honor (Formerly Book 2 - Chapter 11)
+
+Chapter 12: Rediscovering Life's Rhythm (Formerly Book 2 - Chapter 12)
+
+Chapter 13: The Grace of Remus (Formerly Book 2 - Chapter 13)
+
+Chapter 14: Old Friends (Formerly Book 2 - Chapter 14)
+
+Chapter 15: Old Enemies (Formerly Book 2 - Chapter 15)
+
+Chapter 16: Responsibilities & Secrets (Formerly Book 2 - Chapter 16)
+
+Chapter 17: Three Lessons (Formerly Book 2 - Chapter 17)
+
+Chapter 18: Ariminum Issues (Formerly Book 2 - Chapter 18)
+
+Chapter 19: Crushing Arrogance (Formerly Book 2 - Chapter 19)
+
+Chapter 20: The Face of Vengeance I (Formerly Book 2 - Chapter 20)
+
+Chapter 21: The Face of Vengeance II (Formerly Book 2 - Chapter 21)
+
+Chapter 22: Minor Interlude - Captain Bantus - Captain’s Log (Formerly Book 2 - Chapter 22)
+
+Chapter 23: The Invasion of Remus (Formerly Book 2 - Chapter 23)
+
+Chapter 24: Hitting Words (Formerly Book 2 - Chapter 24)
+
+Chapter 25: Facing Vengeance (Formerly Book 2 - Chapter 25)
+
+Chapter 26: Defining Herself I (Formerly Book 2 - Chapter 26)
+
+Chapter 27: Defining Herself II (Formerly Book 2 - Chapter 27)
+
+Chapter 28: An Erstwhile Flower (Formerly Book 2 - Chapter 28)
+
+Chapter 29: Words Shared (Formerly Book 2 - Chapter 29)
+
+Chapter 30: Various Little Duties I (Formerly Book 2 - Chapter 30)
+
+Chapter 31: Various Little Duties II (Formerly Book 2 - Chapter 31)
+
+Chapter 32: Spilling the Blood of Remus (Formerly Book 2 - Chapter 32)
+
+Chapter 33: Humanity I (Formerly Book 2 - Chapter 33)
+
+Chapter 34: Triumph & Debacle (Formerly Book 2 - Chapter 34)
+
+Chapter 35: Release (Formerly Book 2 - Chapter 35)
+
+Chapter 36: A Contract Signed (Formerly Book 2 - Chapter 36)
+
+Chapter 37: Markets by Day (Formerly Book 2 - Chapter 37)
+
+Chapter 38: Passions by Night (Formerly Book 2 - Chapter 38)
+
+Chapter 39: What Goes Up (Formerly Book 2 - Chapter 39)
+
+Chapter 40: Heart and Home (Formerly Book 2 - Chapter 40)
+
+Chapter 41: Endless Preparations (Formerly Book 2 - Chapter 41)
+
+Chapter 42: An Unwanted Truth (Formerly Book 2 - Chapter 42)
+
+Chapter 43: A Slow-Moving Target (Formerly Book 2 - Chapter 43)
+
+In short, the current book 3 covers Ranthia’s War Ranger days at the Unbreakable Image, her time in Remus, and the preparation work for Remera’s founding.
+
+Book 4:
+
+Chapter 1: Remera (Formerly Book 2 - Chapter 44)
+
+Chapter 2: Her Worldview (Formerly Book 2 - Chapter 45)
+
+Chapter 3: Unexpected and Unseen (Formerly Book 2 - Chapter 46)
+
+Chapter 4: A Little Taste (Formerly Book 2 - Chapter 47)
+
+Chapter 5: Conflict Rekindled (Formerly Book 2 - Chapter 48)
+
+Chapter 6: Time Won (Formerly Book 2 - Chapter 49)
+
+Chapter 7: The First Challenge (Formerly Book 2 - Chapter 50)
+
+Chapter 8: Parties, Profits, and Plots (Formerly Book 2 - Chapter 51)
+
+Chapter 9: Bricks of Wisdom (Formerly Book 2 - Chapter 52)
+
+Chapter 10: A Frozen Calm (Formerly Book 2 - Chapter 53)
+
+Chapter 11: Feeding Thanatos (Formerly Book 2 - Chapter 54)
+
+Chapter 12: A Bit of a Siege (Formerly Book 2 - Chapter 55)
+
+Chapter 13: The Cavalry (Formerly Book 2 - Chapter 56)
+
+Chapter 14: A Return to Consistency (Formerly Book 2 - Chapter 57)
+
+Chapter 15: Minor Interlude - Hunting - The Hunter (Formerly Book 2 - Chapter 58)
+
+Chapter 16: The Night of the Second Sun (Formerly Book 2 - Chapter 59)
+
+Chapter 17: Ancient History I (Formerly Book 2 - Chapter 60)
+
+Chapter 18: Ancient History II (Formerly Book 2 - Chapter 61)
+
+Chapter 19: Lives Lived, Lives Lost (Formerly Book 2 - Chapter 62)
+
+Chapter 20: Burning Love Heart (Formerly Book 2 - Chapter 63)
+
+Chapter 21: War-Time Celebrations (Formerly Book 2 - Chapter 64)
+
+In short, the current book 4 covers the time from Remera’s founding, Ranthia and Avyna living together, everything else from here is redacted.

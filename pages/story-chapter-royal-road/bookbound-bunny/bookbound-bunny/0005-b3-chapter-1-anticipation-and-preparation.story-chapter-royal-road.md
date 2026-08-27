@@ -1,0 +1,205 @@
+---
+id: 68758327-3095-5519-a4ff-a2ce42b7a044
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 1 - Anticipation and Preparation"
+slug: 0005-b3-chapter-1-anticipation-and-preparation
+partOf: bookbound-bunny
+position: 5
+ownLength: 2513
+unit: words
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3007598/b3-chapter-1-anticipation-and-preparation"
+royalRoadId: "3007598"
+---
+
+Regarth was abuzz with excitement about the upcoming camping trip. The first years were eager not only for the experience, but also for the assumed rewards for the top performers. The mock gauntlet test they had just gone through was the first taste that Regarth was willing to invest in anyone who showed potential.
+
+The first-years were not alone in their enthusiasm, though, as the senior students had suddenly woken up like hungry beasts—there was profit to be made! Everyone wanted to be as prepared as possible, and with almost no restrictions on what they could bring with them, it was the opportune time to offer their wares.
+
+The alchemy students were naturally the first to seek out the first years, offering potentially vital potions to aid in their trip. Money wasn't their only objective, though, as they made notes of various rare plants they wanted in return for a deep discount.
+
+While the senior students could acquire these resources themselves, time was money, and it was far better to have the first years as their laborers. Plus, it was a way to build early relationships with a potential future supplier.
+
+Similar events happened with the other senior students, although with slightly less vigor. The forest floor didn't have too many resources they required, so it was just the coin they were after. Of course, once they had access to deeper floors, the situation would drastically change.
+
+***
+
+[With everyone preparing, shouldn't you help out your friend?]
+
+Lily tilted her head. "What do you mean?"
+
+[It seems in your excitement to learn all about your new wand, you've forgotten about poor Thomas.]
+
+Lily flinched, almost as if she had been slapped across the face; she had forgotten! The worst part was that with a big event coming up, he would need ample time to prepare. She quickly sought to rectify the problem, immediately proceeding with drawing out the spell scroll for him.
+
+Unlike Lotte's spell scroll, Arakil had designed this one differently. The best way to describe it was that it was multiple spell components that could work individually, added together, or even combined into a whole.
+
+It was effectively the opposite approach that Thomas had taken, where he'd found the simplest advanced spell he could and tried to break it down into something beginner-friendly. Instead, this had working simple spells that just happened to be combinable.
+
+Needless to say, Lily found such an approach particularly groundbreaking as the learner could continuously build on their foundation with a final goal in mind while expediting learning and growth along the way.
+
+[You're allowed to learn this too, if you wish.]
+
+Lily was tempted, but ultimately shook her head. "I'd rather learn the lightning crest and some recommended glyphs to go with it."
+
+Arakil chuckled. [I'm glad you asked…]
+
+When Lily handed the scroll to Thomas, he was notably confused, but he took it and began skimming it. Almost instantly, his expression changed, with his eyes threatening to pop out of their sockets!
+
+"Where did you find this?" Thomas frantically asked. "I turned the library upside down, and couldn't find anything like this."
+
+"It was in my book," Lily whispered secretively. "It is a dungeon artifact after all."
+
+Thomas gulped before nervously licking his lips. "I promise I'll keep it a secret."
+
+Lily smiled and nodded. As long as it didn't cause any trouble for her or Arakil, she was more than happy to share his knowledge with others. Considering Thomas was both a friend and with Maranix, it was an easy choice to make.
+
+"Thank you…" Thomas murmured, clutching the scroll like a precious treasure.
+
+"You're welcome. I hope it's not too late for the camping trip," Lily replied, feeling a little guilty.
+
+Thomas looked at it and chuckled. "If anything, this will save me time. I don't have to waste hours searching every nook and cranny for something that's been overlooked."
+
+Lily was relieved. While sooner would've no doubt been better, at least she hadn't completely ruined his chances. Now she could focus on her glyphs again without any negative thoughts.
+
+***
+
+The teachers also began changing their lessons a bit more, with a notable emphasis on staying in the dungeon for extended periods. Alice's lessons in particular took a sharp turn towards one subject in particular—dire monsters!
+
+The forest's primary monster inhabitants were dire beasts in all shapes and sizes. There were others, which Alice briefly mentioned, such as insectoids and plants, but they were all relegated to much deeper areas of the second floor, which they would avoid.
+
+The students initially took a relatively relaxed approach to this subject, thinking of them as nothing but overgrown animals, until Alice stomped angrily and threatened to deny them the chance to participate.
+
+"Dire beasts are not to be underestimated!" Alice hissed.
+
+Naturally, she didn't just stop there and went on to elaborate further, explaining that they didn't behave like ordinary dungeon monsters and acted more like their natural counterparts—having vast territories and, for predators, even going out hunting. This also led to another tangent, where Alice suggested they all familiarize themselves with hunting during this trip.
+
+"Hunting? Don't you mean slaying?" Arthur immediately questioned.
+
+Alice smirked. "I knew you'd think that, but no, I definitely mean hunting. Unless you want to be a vegetarian once your supplies run out."
+
+"Are you suggesting we eat monsters?" Hana blurted out in surprise.
+
+Alice nodded again, causing an uproar in the class.
+
+"What? They're just overgrown animals, right?" Alice sneered.
+
+"But they dissolve!" Hana quickly answered, to the nodding agreement of almost the entire class.
+
+"They do, but only once you kill them," Alice replied.
+
+That answer only brought about more confusion: how could you hunt without killing? Not to mention these were dangerous dire beasts, which Alice had just spent a considerable amount of time emphasizing.
+
+Alice sighed. "I guess none of you have noticed it before. But if you dismember a monster without killing it, that part doesn't dissolve. Now it's not the tastiest of food, but desperate times call for desperate measures."
+
+Most of the class frowned, not liking the sound of this. Disregarding the fact that a majority still didn't believe her about the monster not dissolving, nobody wanted to actually eat a monster. The thought alone was almost stomach-churning, especially after seeing those black flakes that they turned into.
+
+Alice merely shrugged. "We will see how your attitude changes once you are in the forest."
+
+Similar curriculum changes were happening across the board. For Lily, the greatest unexpected benefit came from Hearthcraft and Household Charms.
+
+Professor Melina not only taught a few lessons on campfire cooking, both magical and non-magical, but also included some lessons on creating charms to secure their campsites.
+
+This was like an offshoot of enchanting, where you'd carve protective glyphs into objects and use them to form a protective perimeter. The ones Melina focused on were simple enough that even a novice could carve with a bit of practice and effort, but they had been an eye-opener for Lily.
+
+Can I draw these with my wand?
+
+The answer was a resounding yes, and Lily couldn't believe her luck. This was another field of glyphs that she had no idea existed, which was somewhat ironic because she had accidentally touched on it with her idea to enchant her room.
+
+So Professor Melina wasn't lying when she said her class could help with glyphwork.
+
+While the glyphs were far simpler than anything Lily had worked with previously, the actual benefit could be reaped if she applied them to inscriptions. Yes, these simple glyphs had a small basis in inscriptions, with the inferior glyphs working in tandem to create an effect greater than the sum of their parts.
+
+[Looks like we will need to add a few more things to our lessons.]
+
+Lily excitedly nodded in agreement.
+
+Practical Magical Combat with Professor Elius switched to a heavy focus on not only defense, but also retreat. He stressed repeatedly not to bite off more than they could chew, before throwing them all into a practical lesson plan that could only be described as hell.
+
+The defensive retreat lessons showed everyone another side of the professor, one in which he didn't hold back as he usually did, forcing almost every student to retreat in terror. Previous cocky confidence was obliterated, and nobody dared joke around during his classes.
+
+For alchemy class, Sylwel provided everyone with some basic potion formulas that might prove helpful, with one in particular being a step above the rest—night drops! This was a relatively rare recipe that could be dripped into the eyes to give anyone perfect night vision.
+
+Needless to say, everyone wanted it, but the difficulty involved in its creation would be the deciding factor, and even Lily was nervous about potentially wasting the ingredients it required.
+
+In addition, he provided a list, along with descriptions, of the various plants on the second floor. His intention was evident—he wanted them to gather what they could.
+
+Professor Ollie's Applied Enchanting & Glyphwork lesson plan did not change since his students were all second-years except for Lily. She had expected this, so she wasn't really disappointed; however, to her surprise, at the end of the lesson, he handed her a small book dedicated to blood glyphs.
+
+Lily couldn't help but shudder at the topic, even though she wasn't going to be touching her blood. The reason for the book was unmistakable—blood glyphs were usually used for "emergencies," so many of them had designs emphasizing simplicity and speed. In the heat of the moment, seconds were precious, and you couldn't be uptight in the face of danger.
+
+Arakil was actually quite interested in this book in particular, and when they went through it together in her room, the reason quickly became apparent. The blood glyphs used several alternate components; these were simplified versions that traded strength for ease of use.
+
+[It's always interesting to see how magic changes over time. What forgotten practices might suddenly reemerge, or what might become obsolete in the face of progress?
+
+Lily was just happy she could finally add more knowledge to Arakil's collection, something she had done very little of so far. If she compared herself to that saintess in the past, Lily had failed to contribute the bare minimum.
+
+As for these particular blood glyphs, Arakil said she could learn these in conjunction with the charms, which revealed that the two were vaguely similar in concept. At the same time, Lily couldn't help but imagine that she could combine these simple glyphs into a pseudo-inscription, much like how the charms formed a perimeter.
+
+***
+
+As the days flew by and the camping trip rapidly approached, the excitement was palpable. One reason it escalated was that the students had predicted that if they performed well enough, they'd likely get early unsupervised access to the first floor. After all, if they could thrive on the second floor, then surely they could easily handle the floor before it?
+
+Lily had even asked Rose about this and got vague confirmation. In her year, shortly after they had passed the camping test, they had gained more freedom in the dungeon. Naturally, she shared this with all her friends, and they all unanimously agreed that they had to pass with flying colors.
+
+As the event neared, Alice finally revealed more details about it.
+
+"For this test, you will be forming groups of three," Alice said, and almost instantly, some students started sharing glances and stirring up a fuss.
+
+Alice sighed and slapped her desk, grabbing everyone's attention. "If you'd let me finish…" she grumbled while shooting glares at the trouble makers. "You will be making teams of three, restricted to your factions."
+
+This caused quite a few groans from the students. Most of them had friends outside their faction, and they hadn't really had a chance to catch the infectious "team spirit" like their seniors had just yet.
+
+"Don't worry, your friends won't be going away," Alice snickered knowingly. "The school competition will be coming up before you know it, and the factions want you to start building teamwork. Of course, once the interschool tournaments start, you'll get a chance to work with everyone again."
+
+Lily, Lotte, and Thomas looked at each other with a smile.
+
+"Well, that works out perfectly for us," Lotte whispered.
+
+"Now that we know we are forming a team, we can delegate tasks for us to focus on," Thomas replied in a hushed tone.
+
+"Other than killing monsters and making a few basic potions, I don't think I can contribute much," Lotte sighed.
+
+"Well, you've got the biggest bag," Lily pointed out.
+
+"Oh, great. I'm the team porter," Lotte grumbled and turned to Thomas. "What about you?"
+
+Thomas paused to think, evidently weighing up. "I can cook for us."
+
+"Really? You can cook?" Lily asked in surprise.
+
+"Professor Melina is a great teacher…" Thomas replied, a tinge of red on his cheeks.
+
+"I can cook, but nothing too great. I don't mind letting you handle it," Lily said.
+
+"Well, that's great. Trust me, you don't want me near food preparations," Lotte sighed, shaking her head.
+
+Thomas nodded, looking quite eager to play his part.
+
+"As for me…" Lily said, fidgeting with a few strands of her hair. "I think I can glyph up our entire campsite."
+
+Lotte and Thomas glanced at each other before smiling.
+
+"Sounds like we will be living in luxury compared to the others," Lotte giggled.
+
+Lily smiled back before nearly jumping out of her seat in shock as Alice stomped her foot angrily.
+
+"I swear, if not for your good results, I'd kick all of you out of my class," Alice threatened, scowling. Thankfully, it was directed at the entire class, not just Lily's group.
+
+The class shared a collective gulp before sitting straight up in their desks, mouths glued shut.
+
+"That's better… Anyway, this is the last bit. As you might have heard, the camping trip will be a bit of a competition, and the group that survives the longest will score the highest. Okay, that's it, you may commence the chatter," Alice said, waving her hand dismissively at the class.
+
+"I thought it was only for the weekend?" Hana asked.
+
+"That's the bare minimum passing mark," Alice answered before giving a fiendish grin. "And that includes the whole of the last day of the week."
+
+"Three whole days!?" someone shouted, causing quite a commotion.
+
+Meanwhile, Alice just continued her grin, with an extra dose of smugness added now.
+
+Three whole days in the dungeon… Lily was honestly surprised, as Rose hadn't mentioned anything like this. Everyone thought it would just be two days, maybe even a day and a half if they started late on the first day.
+
+Lily glanced at Hana and Arthur, who both were brimming with confidence. Unless there were any dark horses in this competition, they would be Lily's group's biggest competition. Also, Lily couldn't help having a strange thought pop up.
+
+I wonder what happens if we go well past three days?

@@ -1,0 +1,171 @@
+---
+id: eb8b75c6-cba7-50e7-95ad-10c868a52ecf
+page-type-slug: story-chapter-royal-road
+title: "v4c64: Upending Heaven and Earth"
+slug: 0079-v4c64-upending-heaven-and-earth
+partOf: beware-of-chicken
+position: 79
+ownLength: 1962
+unit: words
+ownProgress: 1962
+publishedAt: 2023-12-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1429433/v4c64-upending-heaven-and-earth"
+royalRoadId: "1429433"
+markedReadAt: "2026-06-29T18:54:08.173Z"
+---
+
+The disciples of the Shrouded Mountain Sect were for a moment arrested. Mouths wide open as if they had been slapped by a writhing fish. The disciples watched on as the magnificent rooster took an obvious breath and began to stretch like a mortal before they did strenuous activity—making sure his body was in perfect shape. His movements were smooth and unhurried; and though he still bore marks on his body where Sheng had struck him, he seemed little worse for wear.
+
+After he was satisfied… he stopped and turned his profound gaze upon Sheng.
+
+“This one apologises for holding back. We may begin again,” he said, his voice deep and smooth.
+
+The world was held spellbound by the sheer absurdity of it all.
+
+A single voice called out from the crowd, thin and reedy, croaking out an exclamation “It’s a fucking chicken!?”
+
+The spell broke. The crowd roared in shock.
+
+============================
+
+Zang Zhong stared at the arena.
+
+A chicken. He had been humiliated by a chicken. He had failed to suppress a chicken. He had been surpassed by a chicken. It was a chicken a chicken a chicken—
+
+More blood came out of his mouth.
+
+=============================
+
+Zang Fengfeng felt like her soul was leaving her body. She had… She had offered that to a chicken? To a Spirit Beast?! Oh heavens!
+
+She stared at his bright plumage and handsome eyes and—oh heavens!
+
+===================================
+
+Yushang turned to Biren as he looked down into the arena.
+
+She pointed at the chicken.
+
+“Yeah. He's a chicken,” Biren replied evenly, as he squinted at the arena.
+
+Yushang was at a loss for words for a moment before she spoke up, pointing at his sideburns. “Are you a monkey?!”
+
+Biren snorted. “No, but my brother is.”
+
+======================
+
+Master Lishu of the Medical Pavilion paused, his eyebrow rising. He had come down to the emergency room to assist his disciples in what was surely going to be a rather bad situation; Sheng had sent many, many disciples into Lishu’s hands over the years after all.
+
+He also knew Bi De and Ri Zu were close… so he decided to do a kindness to one of his new favourite students.
+
+At first, all of his disciples had been watching the fight with interest.
+
+Now, they were staring in shock… all except Ri Zu.
+
+Lishu frowned at her reaction… and especially when she turned to look at him, a slight bit of apology in her eyes.
+
+Ah. He felt the sting of betrayal. A promising student, a woman he actually liked, leading him on.
+
+And yet… it did not make full sense for her to be some manner of nefarious infiltrator. She had been far too helpful, and had even trained able replacements. She challenged him and caught his attention on purpose.
+
+He pushed down his rising feelings and beckoned Ri Zu forward.
+
+She followed him to the back of the room.
+
+“So… what exactly is going on here?” He asked, his eyes peeled for any sort of treachery.
+
+“As Ri Zu and her companions have said; we were sent here to learn from the Shrouded Mountain Sect.” He could feel her openness and honesty. He looked into her dark eyes, and found no deceit. “And investigate the Shrouded Mountain Sect for demonic corruption, as a test from Bi De’s Master.”
+
+That pulled Lishu up short. He paused. Zang Li had been a hollowed out husk—likely puppeted by a demon. He was defeated by somebody, and now their Sect was apparently under review by disciples of… Elder Shenhe going off fighting something demonic in the north…
+
+Lishu swallowed. This had suddenly changed things.
+
+“Who exactly is your patron?” he asked tentatively.
+
+Ri Zu told him. A dull ringing began in Lishu’s ears.
+
+“He isn’t just a story?”
+
+=========================
+
+Elder Chongyun swallowed thickly. He had nearly screamed in shock, but managed to contain himself. It would not do to lose his head in front of the Patriarch.
+
+Still, it was a bare thing.
+
+Elder Lulai, the older woman beside him, had shamefully dropped her cup and was staring with bafflement at the arena below them.
+
+In truth, Chongyun did not blame her.The man had transformed and ascended a Realm and a Stage.
+
+Transformed into a chicken. Chongyun had suspected the man to be a spy for the Cloudy Sword Sect! He was either a Spirit Beast, or a man who had a transformation technique that turned him into a chicken. The fact that anyone would willingly take the form of such a beast was absurd… He even had a fox-fur vest on—
+
+Something suddenly slammed into the forefront of his mind. A report from the Fulmination Squadron that had been in the Azure Hills with Zang Li when everything had happened. They had mentioned a chicken, a Spirit Beast commanded by Master Rou. A Spirit Beast with a fox-fur vest and a silver necklace. The creature had not been given a name in the report, but it was the splitting image of the thing in the arena at this very moment.
+
+He wished that any of the men who had returned from the Hills were still around to confirm; but Shenhe had taken all of them with her north to remove them from any retaliation Elder Zeng might have had in mind for “failing his son.”
+
+But now that he recognised the chicken… all of the pieces that had been bugging him clicked into place.
+
+Chongyun had been suspicious of Bi De from the start. One did not just come out of nowhere that powerful and asked to join a sect. Or at least… not their Sect.
+
+Chongyun had taken notice of the irregularity, though Bi De had spoken the truth about his master wanting him to learn the ways of the world.
+
+He had initially suspected the young man to be a disciple of the Cloudy Sword Sect. It fit after all. Bi De’s mild personality, his insistence on reading, and his utter disregard for any kind of reward for his actions. In addition to this were the herbs he grew that had purifying properties, which were especially effective against demons.
+
+The Inquisitors had considered that angle… but Chongyun himself had dissuaded them. They wanted more surveillance, and perhaps a quiet conversation, the fools.
+
+If they were truly being audited by the Cloudy Sword Sect then the worst thing they could do was get in the man’s way. So Chongyun supported Bi De as he could, distributing the purifying herbs, and having more sent to those battling in the north.
+
+Chongyun was cautious by nature… But he was not above some underhanded tricks. If they were being inspected by a member of the Cloudy Sword Sect… then he would be known as the helpful Elder who assisted him at every turn. If they passed whatever test was in store for them, there would be rewards; but if the rest of the Sect failed,there would hopefully be lighter punishments.
+
+And if he had not been of the Cloudy Sword Sect at all, then they got some extremely useful herbs and a talented disciple.
+
+Yet… the Rooster was a spy for the Cloudy Sword Sect.
+
+His hunch had been utterly correct.
+
+For Master Rou had sent his chicken to check them over for demonic taint, after they failed to act upon his first hint. He had sent a Spirit Beast to infiltrate their Sect and make sure they were doing as he ordered.
+
+Chongyun swallowed… And then flinched as the Patriarch’s lightning Qi exploded out of his body.
+
+“Someone seems intent on making a fool out of our Sect with this farce. Whoever it is I shall destroy them,” the man declared as he rose to his feet, stalking forwards to leap from the box. “They dare to have a Spirit Beast as our Young Master’s final opponent? I shall stuff the creature into a soup pot—”
+
+“Now, now. None of that, boy,” an amused voice declared from behind them. Everybody in the box froze before wheeling to look at where the voice was coming from… because it was speaking from within the box.
+
+In the box was a person, sitting in the Patriarch's formerly vacated chair, and who was even now practically lounging in it.
+
+The voice issued forth from a ragged old man wearing a rice hat. His beard was unkempt and would not be out of place on the face of a beggar or a street-sweeper. His clothes were rough and worn. A smell hit Chongyun’s nose— dumplings and cheap wine.
+
+All of the members of the Shrouded Mountain Sect sucked in a breath—because none of them had sensed this old man even move. Between one instant and the next, he was suddenly in the room, in the Patriarch’s seat and…Chongyun gaped as the old man took a pull of the Patriarch’s wine. He examined the bottle and huffed. “Hm. Mediocre. If you’re going to get something expensive, make sure it actually tastes good.”
+
+The man was drinking the Patriarch’s wine and complaining about it. It was Spirit Wine of nearly the highest grade! And he had just called it mediocre?!
+
+And then he had the further gall to completely ignore all of them and fix his attention on the man and chicken who were now sizing each other up.
+
+The sheer audacity of the man was something that made Chongyun want to spit blood—and made the Patriarch grind his teeth so loud it sounded like a landslide. The air itself began to feel like a storm as the Patriarch’s Qi turned wrathful. Chongyun flinched as an expert in the Sky Realm flared his Qi, then focused all his attention on the man who had sat in his chair.
+
+“You court death,” the Patriarch rumbled like an oncoming storm. He advanced on the old man, murder in his eyes. “Who dares to enter my Sect and insult us so? I shall flay your skin from your muscles and keep you alive for a thousand years in agony for this.”
+
+The old man sitting in the chair nonchalantly lit his pipe.
+
+Chongyun, on the other hand, realised that things were about to go very poorly. The Patriarch’s rage spiked even higher.
+
+“You dare—” the Patriarch began, his Qi making Chongyun shudder. It felt like the largest storm imaginable was about to vent its fury. A mortal in this room would have died instantly from the pressure alone. The world shifted and started to crack as the Patriarch began to express his domain, imposing his soul upon the world.
+
+Storm Clouds and lightning flashed without ceasing as the Patriarch’s body began to decompile into pure lightning.
+
+The old man pushed up his hat, revealing his eyes.
+
+He gave the Patriarch a singularly unimpressed look. Then, he changed slightly. His body shifted. The beggar faded and an Emperor revealed himself clad in qi. A Sovereign of Cultivation.
+
+Chongyun barely resisted the urge to throw himself to the floor and kowtow. He had no idea who this man was; and clearly neither did the Patriarch.
+
+But recognition was unnecessary in the face of a monster.
+
+It was almost gentle, the way his Qi grasped the Patriarch’s own burgeoning domain and snuffed it out.
+
+The Patriarch’s thundering voice caught in his throat. The man’s pupils dilated and sweat began to pour off his body. The lightning disappeared as if it had never been. The Patriarch was forced to once more be a man, rather than an avatar of the storm.
+
+“Do be quiet,” the old man said kindly. “I want to watch the match.”
+
+Chongyun did not move. The Elder held his breath, it took all he had to be still.
+
+The old man simply smiled as the battle below them began anew.

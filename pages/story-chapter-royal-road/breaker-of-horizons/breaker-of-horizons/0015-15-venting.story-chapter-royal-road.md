@@ -1,0 +1,177 @@
+---
+id: cb599520-5958-5013-96f5-45f8bb69c578
+page-type-slug: story-chapter-royal-road
+title: "15. Venting"
+slug: 0015-15-venting
+partOf: breaker-of-horizons
+position: 15
+ownLength: 2456
+unit: words
+publishedAt: 2020-06-22
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/514176/15-venting"
+royalRoadId: "514176"
+---
+
+Ambrose signed us into the compound, but this time he led me to one of the smaller chambers. It was a dome, like the big chamber we had first used, but with a total floor space that was just a little larger than the Ka'atus Room. Only a single tier of seats ran around the circumference.
+
+"Not that I don't want to learn new things," I said warily as Ambrose strode in and gestured at me to stand opposite him, "but I'm overdrawn and feeling it."
+
+He nodded. "I know. And that last stunt you pulled can't have helped. But this is the best time to do it."
+
+"Exactly what are we doing?" It occurred to me that if Ambrose wanted some payback for what I had done, this would be the perfect place to do it. I was overdrawn, and there was no one around to stop him. I felt my heartbeat quicken.
+
+"Improving your arcanic control by an order of magnitude."
+
+I took in a deep breath to calm my nerves. "Is there a reason we're doing it in a duelling chamber?"
+
+He blinked, apparently only just realising how threatening the situation seemed. A slow smile spread across his face. "Don't worry, I'm not going to hurt you. But we need some privacy because I can't share this with the others yet. So, how much do you know about overdrawing?"
+
+He didn't seem like he was going to do anything terrible, and the line of his questioning looked like it was venturing into something less combat-oriented and more sedentary. I relaxed a little.
+
+"It's something that happens when we use too much of our auric arcana," I replied. "Short-term symptoms include headaches, lightheadedness—"
+
+"Okay, no need for the whole textbook!" Ambrose laughed. "Can you tell how much you've overdrawn?"
+
+"I guess so? You just go by how bad the symptoms are. Most people have the same progression."
+
+Ambrose pursed his lips. "Most, but not all. If you experience symptoms a little differently from others, you may end up overdrawing more than you mean to."
+
+"So you're saying there's a way to check how overdrawn you are?"
+
+He raised an eyebrow. "Common artefacts do that so they don't kill people, don't they?"
+
+I slapped a hand to my forehead. It was such an ingrained part of life that I hadn't given it a second thought, but he was right. Fatal overdrawing almost never happened, even among laypeople, because common artefacts had safety clauses written into the glyphs. They simply wouldn't activate if the user was overdrawn. And any arcanist worth their salt wouldn't fatally overdraw because they were educated enough to know about the symptoms. It was such a rarity that dying by overdraw was newsworthy, and usually involved accidents with artefact experimentation.
+
+"I just need to know the glyphs, then?"
+
+He nodded. "That's one way. The common artefacts use a pretty elegant glyph sequence. For arcanists there's a faster way, but we do need to look at the glyphs first."
+
+With a gesture, he conjured a sequence of glyphs off to the side where we could both read them. Instead of being arranged as a string, it was actually laid out in three concentric circles. "This is the usual sequence."
+
+I did recall seeing this on various artefacts, but I had never really paid much attention to it, mostly because I had until recently only known the Basic Set. Now that we had been given study materials and had to learn an even greater range of glyphs, I realised I could pick out some things.
+
+And Ambrose was right. Elegant was the word.
+
+It was almost like poetry. Not only was each concentric circle a clause on its own, they had all been arranged in such a way that they also formed clauses that went from the innermost to the outermost circle. The glyphs had been scribed in different sizes across the circles to facilitate the cross-circle clauses. The more I studied it, the more I saw layers and layers of meaning packed into this dense formation of glyphs.
+
+"Wow." It was all I could muster.
+
+"Yeah, it's really amazing glyph work once you know enough to read it."
+
+"It doesn't seem like I need all of it, though. I think it's written to fit into any artefact, but the part that actually checks for overdraw is..." I frowned, running through the advanced glyphs I had learned. "This bit?" I sent a burst of arcana that highlighted one of the cross-circle clauses.
+
+"Got it in one," Ambrose said, impressed. "Think you know what to do with it?"
+
+I pulled the clause out and formed it into a normal string from left-to-right so I could read it more easily. There was the glyph for general auric arcana at the start, with a few more glyphs I didn't yet recognise, and the glyph of proximate ambient arcana at the end.
+
+A chill ran up my spine as my father's lecture came to mind. "If you see this glyph on an artefact and you're not careful with it, or if you slap it on something without understanding how it works, you might just end up blowing yourself up, along with everyone else around you."
+
+"Uh, should we be messing with this?" I pointed at the offending glyph.
+
+"As long as we don't use it as part of a sequence to draw arcana and shape it. Can you tell how it's used here?"
+
+I shook my head. "Don't know the glyphs in the middle, so I'm not sure. But if I had to guess, it's linking our auric arcana with the ambient arcana in some way?"
+
+"Not linking," Ambrose said, pointing out one of the glyphs that I didn't understand. "Comparing. In essence, this middle part weighs the difference between the two variables."
+
+"How does that actually check for overdraw, though?"
+
+"So back to theory for a bit. What is overdrawing?" The emphasis reminded me of how my father phrased questions when he was asking for definitions, not examples.
+
+"It's the expenditure of more auric arcana than is safe."
+
+"What makes it unsafe?"
+
+"The... symptoms? The reaction to overdrawing? Because they can trigger physical reactions that cause the body to fail."
+
+Ambrose folded his arms, thinking hard. "Maybe it's better if I asked it differently. Why does overdrawing cause the symptoms?"
+
+I blinked. That was a little like "Why does eating poison kill you?" It was the kind of question that people didn't usually bother with because you just needed to know enough to not eat poison. But of course, there was a whole body of knowledge behind how poisons work, and exactly how they kill a person. And if you wanted to make an antidote, you needed to know the mechanics of the poison so you could counter it.
+
+Distantly, I noted Ambrose nodding with satisfaction now that he had gotten his point through to me. I folded my arms too, turning the matter over in my mind.
+
+The term 'overdraw' itself relied on the idea that there was a reservoir of arcana within each person, their auric arcana, and that it was a finite resource that could be depleted. And when used up past a certain threshold, it would begin to affect the body. So that suggested that auric arcana was necessary for life. Perhaps it was like blood, and not having enough of it circulating inside of you would cause bodily functions to fail.
+
+But if that were the case, then why would the overdraw detection glyph sequence make comparisons with the ambient arcana? If auric arcana was a kind of reservoir, wouldn't it just measure the metaphorical level of the water? But the glyph sequence had no absolute values, so it wasn't checking for some minimum threshold. So that meant overdraw wasn't just simply depleting the amount of auric arcana you had.
+
+"Overdraw isn't a result of depleting your auric arcana?" I asked, slightly confused.
+
+"Not exactly, no. That's why that sequence checks against the ambient arcana. Any idea why it might do that?"
+
+"It'd be easier if you just told me," I said waspishly. The headache I was suffering as a result of overdraw was getting worse.
+
+Ambrose gave an apologetic shrug of his shoulders. "When we're working with advanced glyphs and arcanophanic principles, you have to have an epiphany of your own, or it'll take longer to really understand the glyph fully. Trust me, I was just as frustrated when I had to figure this out."
+
+I sighed and sat down cross-legged, kneading my knuckles across my forehead. "If the glyphs compare the levels of auric and ambient arcana, then the relationship between the two of them has something to do with overdraw symptoms?"
+
+"Getting warmer."
+
+So ambient and auric arcana were related somehow. That reminded me of something Reeves had said in his first lecture when he commended me for saying 'auric arcana' instead of just using the shorthand term 'aura'.
+
+"...it reminds us that there is a commonality in the arcana inside us and the arcana outside us, even though we often think of them as separate..."
+
+And that was exactly how Reeves and I had managed to seed our intentions into the air and transmit them to others to influence them. Because auric and ambient arcana could mesh, to a certain extent. And if I could push my auric arcana out to modify the ambient, then... did that mean that ambient arcana could also push its way in, and change my auric arcana?
+
+"Is... is overdraw a result of... ambient arcana entering the space left in us when we expend too much auric arcana?"
+
+"Yes, you're on the right track!"
+
+"But why does the ambient arcana cause such a reaction? I mean, we're surrounded by it and that doesn't harm us."
+
+"I'm not sure yet. But for now you don't need to worry about that - what have you worked out so far?"
+
+"The symptoms of overdrawing come from having too much ambient arcana entering your system as a result of not having enough auric arcana occupying that space?" It was difficult to talk about arcana because it wasn't even a physical thing that could be felt. It didn't actually occupy any space.
+
+"Something like that. So now, how can you manage overdrawing?"
+
+"You don't use up so much auric arcana," I said, feeling like I was pointing out the obvious.
+
+Ambrose nodded and gestured for me to continue.
+
+"... or you push out the ambient arcana that's entering you. Or you stop it from entering at all."
+
+"Exactly!"
+
+And with that Ambrose closed his eyes, concentrating hard. I saw the air around him ripple slightly. It was almost imperceptible at first, but then it grew in intensity until he looked like he was standing in the middle of a heat haze. After almost a minute, he opened his eyes and grinned at me. "There, not overdrawn."
+
+"What? That's all we have to do?"
+
+"It's not easy, and it's only a temporary solution," Ambrose clarified. "When you push out the ambient arcana, it starts leeching back in almost immediately unless you seal it out, which is actually quite difficult too. And even if you manage to perfectly seal out ambient arcana so you don't die from overdraw, you can't cast anything if you've depleted your auric arcana."
+
+I closed my eyes and tried to focus on pushing out the arcana, but all I succeeded in doing was venting some of my auric arcana, like I had done earlier with the compulsion trick. My headache worsened.
+
+"Argh, how do you separate your auric arcana from the ambient arcana that's in your auric arcana's space?" I complained. "There's nothing to focus on, it's all mixed in there!"
+
+"Yeah, there's no glyph for it," Ambrose said with a grimace. "I've tried searching for one."
+
+"Think we can just create it?"
+
+He raised an eyebrow. "You can certainly try."
+
+"You've already tried, haven't you?" I groaned and massaged my head as it gave a particularly violent throb.
+
+"Let's just say creating glyphs is something far beyond our current abilities. I'm thinking we'll learn why soon enough."
+
+"So how do you focus on it?"
+
+He gestured at the glyphs and highlighted the glyph of proximate ambient arcana. "That's the only hint I can give you."
+
+It was hard to think around the headache when it kept interrupting my train of thought with pulses of agony laced with nausea. I tried breathing deeply through my nose.
+
+The glyph of proximate ambient arcana was usually used to refer to the ambient arcana that was near something. But what if I thought of the proximate ambient arcana glyph as more of a direction for the ambient arcana to go, instead of thinking of it as a label for a type of arcana? I wanted it to gather near me, on the 'outside'.
+
+It seemed to work. That shift in my perception helped me to feel a slight difference in the arcana within me, which I had just learned was not all auric arcana after all, but a mix of auric and ambient. And with my new understanding of the glyph, I found that focusing on it helped me to slowly push out the ambient arcana into the air around me, which was growing denser with ambient arcana that continued to stay near me instead of dissipating away as Ambrose's had done.
+
+"You've got to let it disperse, or it'll just leech back in all at once when you stop."
+
+My head was clearing a little as the ambient arcana left my system. I looked down and saw a rippling in the air around me that didn't radiate outwards. It clung close to my skin.
+
+It needed more direction. Now that I knew how it could work, I thought about the general ambient arcana glyph and used it as a final destination for the flow. Slowly, the heat haze around me spread outwards, thinning a little. It took me almost five minutes, but I found myself remarkably clear-headed and fresh after I was done.
+
+"This is great," I said, grinning at Ambrose.
+
+"It helps with recovery. Somehow, not having ambient arcana inside you makes your auric arcana replenish more quickly too. And now that you can vent the ambient arcana, we can move on to keeping it out."
+
+"We're doing that now?" My heart sank. As much as I enjoyed improving my arcanophanic ability, I was feeling quite mentally drained.
+
+"Oh, yes, we're doing it now." The grin that Ambrose was giving me now seemed almost predatory. "It's the same principle behind how we'll beat Reeves' mind-control. And... I owe you a little payback for what you did."

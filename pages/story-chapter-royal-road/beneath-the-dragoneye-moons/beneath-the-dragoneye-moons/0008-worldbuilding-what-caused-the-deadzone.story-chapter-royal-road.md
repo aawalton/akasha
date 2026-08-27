@@ -1,0 +1,53 @@
+---
+id: dd9c7475-19df-5e40-b352-92513d479fce
+page-type-slug: story-chapter-royal-road
+title: "Worldbuilding - What caused the deadzone?"
+slug: 0008-worldbuilding-what-caused-the-deadzone
+partOf: beneath-the-dragoneye-moons
+position: 8
+ownLength: 411
+unit: words
+publishedAt: 2021-08-10
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/731474/worldbuilding-what-caused-the-deadzone"
+royalRoadId: "731474"
+---
+
+Hey!
+
+One of the things I'll unfortunately never be able to say in-story - What caused/causes the deadzone?
+
+Due to what it is, and the nature of it, I have *no way* of getting the information to Elaine in-story. Since I can't get it to Elaine, I can't get it to you, the readers.
+
+Well, the deadzone has been posted to Royal Road now, and they've gotten some time to speculate. Not nearly as much as everyone else has, but hey. That's why you're my patrons - you get advanced goodies that RR doesn't get.
+
+And you've all gotten plenty of time to speculate.
+
+Didn't speculate? Stop reading!
+
+...
+
+...
+
+...
+
+Alright, you were warned!
+
+The deadzone is caused by the massive plant that's living in the Nostrum sea. The very same plant that prevents cross-sea travel, making the people of Remus stick to the shores. The same plant that Night doesn't think is a problem, because it prevents anything else from growing inside the sea.And he's right about that! No giant sea monsters in the Nostrum because the plant's eating them all.
+
+Now, I hate it when things seem to be introduced out of the blue, or are this convenient in stories. So I was hinting at it for a long, LONG time.
+
+Back in October.
+
+https://www.patreon.com/posts/43364547
+
+It's not really an oddity if it's only eating things now is it?
+
+It came around when I asked myself; "What stops someone else from coming in and evicting humans from their nice, cosy spot in the world?" Because Remus's location is almost like a paradise in many ways. Good climate, easy transportation, good food, a variety of locations and places to be - it's ideal in many ways. Why didn't someone else move in and evict the humans?
+
+Dead zone.
+
+I also hate the "MC starts in the weakest spot" trope, so I balanced it. Since it's experience being eaten, and not like mana density or something like that, it takes longer for people to level up. Well, the System still sees all the stuff they do, and if a carpenter needs to carve twice as many chairs to level up, his (improved) classes will reflect that!
+
+A trade off that most anyone wouldn't make - after all, you can always live outside the deadzone and carve twice as many chairs - but it's an effort not many people will make. So an advantage.
+
+Ask me anything else about the dead zone!

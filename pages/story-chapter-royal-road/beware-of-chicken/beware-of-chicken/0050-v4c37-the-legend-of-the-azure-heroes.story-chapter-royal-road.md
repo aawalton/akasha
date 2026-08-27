@@ -1,0 +1,251 @@
+---
+id: 8866dc4b-4507-5d6f-911c-99f89c0c3641
+page-type-slug: story-chapter-royal-road
+title: "v4c37: The Legend of the Azure Heroes"
+slug: 0050-v4c37-the-legend-of-the-azure-heroes
+partOf: beware-of-chicken
+position: 50
+ownLength: 2904
+unit: words
+ownProgress: 2904
+publishedAt: 2023-09-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1332094/v4c37-the-legend-of-the-azure-heroes"
+royalRoadId: "1332094"
+markedReadAt: "2026-06-29T18:53:05.089Z"
+---
+
+The man known as the Special Inspector stared blankly at the transcript of the transmission he had received from Pale Moon Lake City. He could no longer hear the rest of the people in the room talking. The cultivators, the guardsmen, nor the people of Underbridge. They all had smiles on their faces, oblivious to the pounding in the Special Inspector’s ears. The room he was in had narrowed squarely onto the piece of paper in front of him.
+
+It was a relatively short message, with a relatively short command. He read it again for the forty-seventh time since he had received it. The messenger was still in the room, waiting for his reply.
+
+The characters remained the same, and he was not asleep. He had checked.
+
+He had come to Grass Sea City because he was looking forward to a few minor cases of corruption or something. Stuff he could slap some nobles on the wrist, make them pay a fine, and then ride off into the sunset for. No risking his life, no cultivators, just a bit of a wipedown of the undoubtedly dirty windows without drawing too much attention. They could instead go through records, drink tea, and enjoy the beautiful city.
+
+But then they heard the rumours. The rumours of slavery. His own Lord Father hated slavery—slaves didn’t pay taxes, and were an underclass stewing in resentment looking for the right opportunity to rebel and kill you. It was sound reasoning. The learned men of the cities had surely come to the same conclusion. What sort of fool would enslave his fellow subjects when instead one could have loyal and productive men—especially when the penalty for the crime was death?
+
+The Special Inspector, eager for something simple, had chased that wild goose of a rumour. It was surely some baseless whisper on the wind they could waste their time on, and the nobles would laugh about the Special Inspector who had accomplished nothing during his stay instead of assassinating him, like what had happened to his predecessor.
+
+It had been a great plan!
+
+And then it turned out the rumours were true, and he and Han had found themselves neck deep in conspiracy.
+
+He grimaced as he remembered himself and Han splitting up to cover more ground, at first convinced it was some minor thing. Instead, with the help of Lao, they had found out just how vast it had been.
+
+It was sheer dumb luck that Lady Xinlai had arrived—and then luck again when Lady Cai Xiulan, the Demon-Slaying Orchid, and seven other cultivators arrived with Han. Cultivators who had been willing to help.
+
+Without them… he had no idea what he could have done. It was too big for him. Much too big.
+
+It seemed that everywhere he went, he would get involved in some incident that put him in way over his head, only for him to get out of it through dumb luck and the fact that he could keep his face straight even while he was gibbering internally with terror.
+
+He came to understand why some spat the words 'may you live in interesting times' as a curse. The only question was… how long would his luck hold, especially with the way his life was going?
+
+He looked down at the paper and at the relevant worlds on it. He read it for the forty-eighth time, wishing they would change.
+
+They didn’t.
+
+“...Your predecessor has been recalled. Take command, and take them all to heel. You shall be Acting Lord Magistrate?!” a boisterous female voice sounded from beside his ear as Lao read the confidential message from over his shoulder.
+
+Of course, the pretty woman who he thought was just a simple flower seller had turned out to be one of Boss Tanhui’s closest friends, and had managed to sneak him into a heavily guarded noble mansion.
+
+The rest of the conversation in the room stopped.
+
+“You little wretch, you dare read over his shoulder?!" Xinlai demanded… even as she herself was clearly leaning over to catch sight of what he had been reading as well.
+
+“Congratulations, Special Inspector.” Cai Xiulan said, inclining her head. He couldn’t even appreciate her melodious voice with how stressed he was.
+
+The rest of the room erupted in well-wishes from others. He caught Tanhui and Rags’ eyes, the only people who seemed reserved.
+
+The Special Inspector swallowed thickly, before plastering a smile on his face as Han clapped him on the back.
+
+“It is a post I am ill-suited for, but since my superiors have spoken, I suppose all I can do is try to meet those expectations.” He felt rather close to screaming at the moment. “I must prepare the criers and inform my… predecessor. I also need to write a speech…”
+
+Hopefully in his room. Heavens, how the hells was he supposed to hide this from his parents?! He had been telling them he hadn’t been doing anything exciting!
+
+“Criers?" Tie Delun asked, his rough voice cutting through the welling panic. “Is there not supposed to be a formation that carries your voice throughout the city?”
+
+The Special Inspector paused. Not many people actually knew about that system. “It's been broken for centuries. Nobody could repair it, so it was left alone,” He replied.
+
+Tie Delun pondered his reply, before nodding his head. “You write your speech. I think I may be able to do something about that.”
+
+“I see. Then you have my thanks, and I shall take my leave,” The Special Inspector replied, collecting his brush and paper, barely holding himself together. He was a little worried that Xinlai was going to follow him, but instead her eyes were fixed on Delun.
+
+“You can repair one of the Ancients' formations?” Lady Xinlai demanded, an eyebrow raised.
+
+“Yes,” Delun replied, his back straight.
+
+Xinlai looked like she was going to spit blood.
+
+“You would use your talents on this, son?” Tie Delan, the Sectmaster of the Hermetic Iron Sect, asked. His voice had an odd note in it, and the Inspector was sure he was missing something here.
+
+“Our ancestors helped build this palace, I saw some of their marks in the halls. I would repair what was broken.”
+
+The cultivators began laughing, but the Special Inspector tuned it all out as he wondered what he was going to write.
+
+He managed to make it to his room before he threw up.
+
+After regaining what he could of himself, he started writing his speech.
+
+============================
+
+Tie Delun took a deep breath as he touched the fresh carvings in the wall a day later. The entire system was elegant and surprisingly simple. It was like the resounding crystal dias at the Dueling Peaks in a way. The formation went out from a central room in the palace and to several pillars that were arranged around the city. From each pillar the speaker’s voice would issue forth.
+
+There was little on the construction of Grass Sea City, truth be told. The formation for voice transmission was one of the few things that were really clear, if only because at one point there had been a plan to put the formation over the entire province.
+
+The massive, wonderous bridges weren’t really considered as something amazing. They had truly just been bridges. The interiors of them were actually the real 'main' routes, meant to keep the sun off the workers, before the place was turned into a slum.
+
+Once upon a time, their ancestors had been masons. People who had built cities and bridges, their hammers never meeting flesh, only stone.
+
+He was glad that he could honour them this way… even if they probably would have sniffed at Delun’s lacking mastery.
+
+It hadn't taken too much to clean them off and recarve the formation. It was, surprisingly, mostly intact.
+
+Of course, it wasn’t entirely that simple. They were missing the crystals that were supposed to sit atop the platforms, but they could use their own Qi to replicate the effect—so the rest of the cultivators had spread out, each of them standing atop a different pillair.
+
+He tapped the formation. It seemed to pulse.
+
+Satisfied, Delun rose and nodded to the mortal man who was waiting on his signal.
+
+The Special Inspector. The mortal was a rare breed. He had managed to work nearly the same hours the cultivators had, doing paperwork and assisting them in every way he could, along with Sergeant Han. He had, according to Xiulan, held his own against the nest of vipers that was the previous Lord Magistrate’s household, completely unflappable.
+
+He was a good man. Though Tigu got annoyed whenever she looked at him, because he looked very familiar to her. Xiulan, Yin, and Xianghua also seemed to think he looked a bit familiar as well, but they had mostly dismissed it as a coincidence.
+
+Delun shook the idle thought away.
+
+“Ready?” Delun asked
+
+“Yes, Master Cultivator,” the Special Inspector replied, his voice mild and unwavering as always.
+
+“Then… Three, two, one—” He pointed.
+
+The Acting Lord Magistrate took a deep breath in the center of the formation and began to speak.
+
+“My fellow subjects; Citizens of Grass Sea City. This Humble Servant of the Emperor is to now be the current Acting Lord Magistrate of Grass Sea City…"
+
+===================================
+
+“By now, you shall have heard the rumours, and will have witnessed the aftermath of the events that have transpired. I am here to explain everything to you as best as I can.”
+
+The people of Grass Sea City gaped at the pillars, things that had been used by children as climbing poles or notice boards by adults for generations. Now they resonated with sound, a cultivator standing atop them in the city squares.
+
+Colourful characters lit up on the side of the pillars, and though the sound occasionally crackled oddly it was as if the speaker was right beside them.
+
+But what was more impressive was the man speaking. His voice was calm, soothing, and full of authority, as he told them what had happened.
+
+The people shouted with outrage as he described the foul conspiracy perpetrated upon them—and that scorn turned to cheers as they heard the fate of those evil slavers, and of the heroes who had brought them low.
+
+“I would like to thank them all, these heroes who bear the banner of Azure on their back. With their aid, we have captured all one thousand, three hundred, and forty seven members of this conspiracy…”
+
+======================================
+
+“Without the help of the people of Underbridge, however, it would have all been for naught— without their stalwart support, it is certain that some of these defyers of the Imperial Will would have escaped justice. I look forward to our continuing relationship as Tanhui of Underbridge takes his place at the head of the Underbridge Restoration Commision…”
+
+Tanhui, Boss of Underbridge, stared at the pillar, even as his boys erupted around him, hooting and hollering.
+
+Inside, he was numb.
+
+He had been expecting something under the table. Something so the city wouldn’t have to lose any face from relying on slum dwellers.
+
+Instead, the Special Inspector… no, the Acting Lord Magistrate, had just acknowledged them. Acknowledged them and wanted their help so they could improve things for Underbridge.
+
+Rags, on top of the pillar and concentrating, shouted in shock.
+
+Things… Things were certainly changing.
+
+=============================
+
+“My time as Acting Lord Magistrate will be short, but I shall do all in my power to alleviate the confusion and repair this great city. You have my word, under all the eyes of the heavens. I swear this, on my clan’s name of…”
+
+The previous Lord Magistrate of the city, Shi Suzeng, spared a glance at the damn resonating pillar outside the window of his home.
+
+House arrest. He was under house arrest. It would have been unthinkable, even a week ago, for Pale Moon Lake City to push this far. But with the decimation of his powerbase, the Cai fucking Xiulan standing behind the Special Inspector…. What could he do but bow his head?
+
+Internally, he raged.
+
+============================
+
+“...I will go now, for duty awaits. May the heavens watch over us all.”
+
+The Special Inspector coughed as the formation powered down. That had been… something. His entire concentration was on not messing things up!
+
+“Thank you, Master Delun,” he said, bowing to the cultivator. His voice was raspy.
+
+The young man nodded, a look a pleasure in his eyes as he looked at the formation. “It was good to see that it worked, Special Inspector.”
+
+The Special Inspector swallowed as he stepped out of the center of the room. He took a deep calming breath, as Han brought him some water—and frowned as noise reached his ears.
+
+“Han, is it raining?” he asked, listening to the dull roar. The sky had been so clear earlier…
+
+Han smiled. “How about you come see for yourself?”
+
+The Special Inspector blinked as his friend started dragging him out of the dark room until they reached the doors to a balcony.
+
+Han opened the door.
+
+They were hit with a wall of noise as thunderous cheers resounded from the city streets.
+
+“Oh…” The Special Inspector said, feeling rather like he was going to faint. He barely noticed the cheers redouble as the cultivators jumped from the streets to stand beside him.
+
+===============================
+
+The streets were lined on either side. People hung out of windows and looked down from rooftops.
+
+They looked onto the scene below them where the Acting Lord Magistrate stood across from the cultivators.
+
+The people were silent; for they knew they were witnessing something special. Something important. Something that would resound throughout history.
+
+The man clasped his hands together and bowed, while the cultivators did the same.
+
+Cultivators, bowing in respect to a mortal magistrate. Truly bowing, instead of the mocking lip-service some courtiers and scribes occasionally witnessed.
+
+As one, they rose and turned. Upon each of their backs was the character for Azure. A banner declaring that they shared one purpose.
+
+And then the orange haired Rou Tigu raised her arm and waved goodbye.
+
+The silence broke. The streets and buildings erupted again as the cultivators broke first into a jog, then a run, as they crossed the top of the city's massive bridge and back to the north. To the Dueling Peaks.
+
+“Hey… things are gonna change, aren’t they? Lao asked Tanhui as they watched their new friends grow smaller and smaller in the distance.
+
+“Yeah. Yeah, I think they are,” Tanhui replied.
+
+They watched the cultivators go to the shouts and cheers of people for the Azure Heroes.
+
+======================================
+
+“Elder, our report for this week.”
+
+“Speak,” Zhang Zeng said as he ate another mouthful of the delicious rice. He would have to commend the subordinate who found this. The peasant fools hadn’t known they had silver grade rice. Truly, it was pearls before the swine, so he had brought their entire stock—and then found out the entire village had somehow managed the feat without noticing.
+
+They had taken it all, and all the fruits and vegetables as well.
+
+His stay had swiftly gone from annoying to tolerable, especially since his woman was away in town, buying herself some baubles.
+
+“Yes, Elder. There was an incident in Grass Sea City, but it was deemed low priority, a slavery ring that was broken up by cultivators. The only thing of note was the name Rou Tigu. Apparently she was the one that was… accosted by Zang Li.”
+
+Zhang Zeng frowned at the name, rage bubbling in his mind, and he chewed hard on the rice and vegetables in his mouth. The rage passed surprisingly swiftly and he frowned.
+
+“Continue.”
+
+“She departed at speed from the City and should be at the Dueling Peaks soon. There was some manner of conclave called by the cultivators of the province. It looks like every sect will be there within the month.”
+
+“...have her followed, but do not engage or interact,” he commanded, shaking off the desire to go and confront the whelp immediately. It was irrational to confront the girl at this juncture. Something was trying to stoke conflict. He would have to be certain she was alone and not being watched before he approached her. Especially since there were going to be so many witnesses.
+
+“Yes, Elder. We hear and obey.”
+
+Zang Zeng waved his hand in dismissal and he returned to his food. He savoured the next bite.
+
+The taste was one thing, but its Qi was also soothing and mild. It was a very invigorating meal. He even felt a bit more clear-headed. He would have to get some more. It made the waiting and the lack of killing bearable.
+
+He paused at the thought of killing and frowned slightly.
+
+==============================
+
+“Ahhh!” Tigu suddenly screamed as they ran down the road.
+
+“What's the matter?" Xiulan asked.
+
+“I finally know why he was so familiar! His Clan name! It's the same as the Lord Magistrate’s!” Tigu exclaimed.
+
+Xiulan, who, to her embarrassment, didn’t actually know the man’s name, compared the two in her head. Now that she was thinking about it, they did look quite similar.
+
+“Ha! It's quite the small world, is it not?” Xiulan asked, her voice full of mirth. “I’m sure he’ll tell his father all about what happened. It will be good to reminisce with him when we eventually return home!”

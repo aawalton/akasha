@@ -1,0 +1,131 @@
+---
+id: 14f29e05-e59c-508e-808c-4ba573441c37
+page-type-slug: story-chapter-royal-road
+title: "v4c2: Qi Shock"
+slug: 0005-v4c2-qi-shock
+partOf: beware-of-chicken
+position: 5
+ownLength: 2167
+unit: words
+ownProgress: 2167
+publishedAt: 2023-04-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1186307/v4c2-qi-shock"
+royalRoadId: "1186307"
+markedReadAt: "2026-06-29T18:51:28.356Z"
+---
+
+Deep, deep beneath the earth a little spirit sat in the center of a web of gold. Eyes closed, her breathing slow and even. Energy moved amongst the lines of golden energy, pulsing like the beat of a heart—her heart, and the hearts of all those it was connected to. Some beat slow and steady, others faster from excitement. All entwined into a golden core that the little Earth Spirit sat upon. Thin golden cracks, scars, ran throughout her body. Legacies from a calamity that had left her broken.As she breathed deep, the energy entered her. And as she breathed out, it slowly went back up through her connections, a cycle that connected them all together. slow pulses of energy entered her through a golden thread. The cracks pulsed and shuddered in time with her breath.
+
+Slowly, Tianlan reached her hand out, and tugged on a golden thread. It was the thickest of them, the most connected to her. She opened her eyes, as the thread brightened, and with an expenditure of her energy, suddenly she was there, standing beside the person whose thread it was. Three figures stood about a giant porcelain bowl, Jin, her connected one, Bowu and Miantiao. Her Jin was grinning and gesticulating as the young man and the snake nodded seriously. Tianlan wondered what they were doing with such a big bowl, but Jin always had interesting ideas. She supposed she would find out soon enough. He kept going on about “indoor plumbing.”
+
+Another tug, and she was somewhere else, with Meiling and Wa Shi. She listened to the pair as Wa Shi compiled a list of foods that the baby in Meiling’s arms should try first. Tianlan’s lips quirked into a smile at how seriously the dragon was taking this. His eyes were intense as he spoke of flavours and textures, Meiling nodded along, amused. Tianlan’s ghostly fingers touched the bae in Meiling’s arms, and she pressed a kiss to his forehead, before she selected the next closest strand.
+
+Another tug, and Pi Pa sat with Chun Ke on top of a hill, both leaning into each other. Satisfied with them she moved on. Place to place. Babe practised with his plow. Gou Ren sketched on a pad of paper house designs… and a rather cute rendition of Xianghua winking.
+
+This… this was her home. Her people, where they belonged. Safe, happy. Near to her. Her eyes turned next to the other threads. The ones of those who were farther away. This time, when she pressed her hand to the thread, instead of appearing there, an image formed.
+
+Tianlan was surprised to see two cultivators, front heir robes and their distinct flavour stood before Xiulan and Tigu, looking thoroughly cowed. Tianlan chuckled at the two men’s expressions, as they submitted their grievances to Xiulan for judgment.
+
+Ruolan’s descendant was truly something else, taking on this mission of hers. Tianlan watched for a moment, as the rage on both cultivator’s faces simmered to a low boil, and the men went their separate ways instead of engaging in more bloodshed. Satisfied for now, Xiulan turned, and walked into a noodle bar. Food was ordered, and their little party began to eat. Tianlan snorted as Yin got her food. The rest of the bar looked on with horror as the “pretty fairy” ripped great chunks of spiced meat off the bone with not an ounce of decorum.
+
+Tianlan felt their oath resonating in her soul. A promise. A promise to the people, and to her.
+
+Tianlan couldn’t help but trust them. She let the images fade, a feeling of peace overcoming her.
+
+And then… then she turned her attention to those three at the barest edge of her vision. At the border of what was “her” slowly climbing out of the edges of her awareness.
+
+She felt their own promise and conviction. That though they would leave her… they were going to come back, guaranteed.
+
+The Earth Spirit slowly closed her eyes again. Concentrating on the little lights, as they got dimmer and dimmer. Bi De, Ri Zu, and Yun Ren ventured off into the unknown.
+
+“Safe travels.” Tianlan whispered.
+
+And a small, golden pulse of energy echoed in the wake of her words.
+
+======================================
+
+Bi De expected the journey up into the Howling Fang Mountains to be uneventful. And indeed it was. Nobody attempted to bar their path. They had some lovely tea at a rest stop half way up the pass. It was a nice, relaxing hike. Even mortals made the journey without a care in the world.
+
+And yet... all of them were panting like they had just finished a grueling spar. Disciple Yun Ren had lopped off a branch to use as a walking stick, and the man was grimacing with every step. Ri Zu’s breath was coming out in squeaks. Bi De himself struggled to maintain his composure.
+
+“What the hells is this shit?!” Yun Ren managed to gasp out.
+
+The air had swiftly grown thick with Qi as they ascended the pass. At first, it was interesting. The world outside the Azure Hills had much more Qi, an amount that put it nearly equal to Fa Ram.
+
+Bi De had taken in the air, tasting it. The Qi had a nature of frost and stone, so different to the feeling of life and growth that pervaded Fa Ram.
+
+But aside from what could be called the flavour of the energy, it had another quality that Bi De was fast coming to dislike.
+
+It was heavy. The Qi settled in their lungs. It coated their throats and stuck to their bodies like thick mud, the kind Chun Ke loved to wallow in.
+
+It was like all of their bodies were struggling to process it. So it simply sat there within them, inert. Unmoving, yet still taking up space and making their actions more laborious. Compared to Fa Ram, where breathing was easy and mild? Where the energy almost seemed helpful?
+
+This Qi was cold and indifferent to them. It simply was.
+
+Shen Yu and Nezan were looking on curiously at them. Both the fox’s and the old man’s gazes were intense.
+
+“Interesting,” was all the old man said, while Nezan scratched his chin, still in the guise of a woman.
+
+“They were fine in my home, but it is rather insulated. Still, this is quite the unexpected reaction. Qi shock from leaving the province. I suppose it's to be expected, living in that desert down there.” Nezan looked closely at Yun Ren before poking him in the side, while Shen Yi plucked Bi De up by his ankles to examine him more closely. The position was rather humiliating, but Bi De endured the master’s intense scrutiny, his Qi touching Bi De’s own.
+
+“Qi Shock?” Ri Zu asked, her medical Qi flaring as she tried to figure out what was wrong with them.
+
+Nezan smiled. “There is such a thing as too much Qi. Like consuming a pill too powerful for your current level, some places have ambient Qi levels so high that they start to damage the body from the outside. It settles in your lungs and ruptures the meridians… but well, those places are rare and dangerous. One shouldn’t feel Qi shock from simply leaving the province.”
+
+“No. This is not Qi shock. If it was, the mortals would be feeling it as well, but they’re relatively unaffected. A bit of shortness of breath, but now that I see it, they are breathing slightly too hard from the climb. Your bodies simply…do not know what to do with it. Which is strange, as you were fine within my Grandson’s home. This is indeed a conundrum. We shall pause here. Attempt to refine this energy and we will continue when you are prepared.”
+
+Shen Yu’s command was absolute. Thus, their journey stopped barely into the Howling Fang Mountains so that they could try and rid their bodies of whatever was dragging them down. Bi De and Ri Zu chose meditation, while Yun Ren picked up his Recording Crystal. His eyes soon went blank as he lost himself entirely to the act of recording the sights around them.
+
+Bi De considered the Qi within himself as he took deep, even breaths.
+
+Bi De circulated this new Qi, so different from the Qi in the Azure Hills. At first, it refused to move.
+
+Was the land angry with them for trespassing? He did not think so, since Shen Yu and Nezan were fine. But before he made the attempt to touch the Qi within him, he first had something else to do.
+
+It never hurt to be polite; and if one gave to the land, it would give back.
+
+Bi De took a portion of his energy and pressed it into the ground. But unlike in the Azure Hills, there was no steady pulse of golden power. No veins near the surface, ready to receive his offering. Instead, there was nothing. Or rather, not nothing. There was a little piece of Dragon Vein, further down then Bi De had ever gone before.
+
+Bi De realised then, that this is what the land of the Azure Hills would have looked like if Tianlan and Xiaoshi had not dredged up their Dragon Veins in order to combat the Azure Emperor.
+
+Still, a bit of extra effort was no effort at all. Bi De pushed his energy deep; Down, down, into the dark. A bare trickle of his power managed to make the journey, touching the pulse of stone and frost, the roots of the mountains. It was vast, and it was ancient… and it was absolutely wondrous. The power and strength of these edifices of stone. Their enduring, savage spirit. He could feel only a fraction of it… but it was something beautiful just the same. Different than the rolling green hills, but just as worthy of his respect.
+
+Bi De pressed what energy he could into the land. The little offshoot of dragon veins twitched, like Xiaode, the Great Master’s son, when he tickled the babe with a feather.
+
+Bi De filled the energy with his gratitude and respect… And the dragon vein accepted his offering.
+
+He left a part of himself in the land, letting it know him as a friend. He idly wondered if there was a spirit here like Tianlan. He would like to meet them if he could… but if they preferred not to, he would not force the issue.
+
+Bi De smiled and withdrew, then began to concentrate on refining the energy within him. He gently coaxed the energy. He got to know it.
+
+For a moment, it seemed like it would not work. That there was some barrier that would prevent him from refining this province’s Qi… but then there was a twinging snap and that barrier broke. The heavy energy started to move slowly, sluggishly… and then he took a breath. And instead of heavy energy that deadened his senses and made it hard to breathe, he took in a lungful of crisp, clean, and invigorating air.
+
+He opened his eyes again and truly took in the Howling Fang Mountains. The minute difference in the colour of the sun. The reflections off snow-capped peaks. The pure water thundering down the mountain sides. The different kinds of grass and meadow flowers.
+
+He rose to his feet, the heavy feeling dispelled.
+
+Shen Yu looked at Bi De with an appraising eye.
+
+“Exemplary speed, Disciple.” The old man declared after a moment.
+
+“We give to the land, and the land gives back.” Bi De declared. He felt Ri Zu suddenly twitch at his words, and her Qi began to move, searching downwards, into the earth.
+
+Shen Yu snorted, but he nodded after a moment.
+
+“I guess there is some wisdom in those words.”
+
+An hour later,Ri Zu sighed with relief. Then, she rose to her feet, and bounded over to Yun Ren, her Qi touching his. The disciple paused in his recording, and then his Qi too entered the earth. Thirty minutes after that Yun Ren stopped, his eyes swimming back into focus and the weight lifted from his shoulders.
+
+“Oh, yeah. That's a lot better.” He said, stretching.
+
+Nezan chuckled.
+
+=======================
+
+They made much better time for the rest of the day as they traveled in between the massive mountains and through the valleys filled with the hustle and bustle of thousands of people. In some ways, the landscape was completely alien to the Azure Hills. It was much harsher and more rugged, where the valleys met the mountains, but in the lush gorges it was much the same as the Grass Sea, terraced rice paddies bracketing every mountain stream.
+
+It would be several days until they managed to reach the Shrouded Mountain Sect… but Bi De was curious as to how exactly they were to perform an investigation of the Sect.
+
+Shen Yu smiled.
+
+“Well. First, we walk in the front door.” the old monster stated.

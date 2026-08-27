@@ -1,0 +1,745 @@
+---
+id: 9fea0bce-9c09-5941-897b-5a6d4d0e197f
+page-type-slug: story-chapter-royal-road
+title: "281, A Transition"
+slug: 0497-281-a-transition
+partOf: arkendrithyst
+position: 497
+ownLength: 8047
+unit: words
+ownProgress: 8047
+publishedAt: 2024-04-20
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1604029/281-a-transition"
+royalRoadId: "1604029"
+markedReadAt: "2026-06-29T22:25:38.596Z"
+---
+
+Ah.
+
+Yes.
+
+I am here, aren’t I.
+
+Alive again.
+
+It’s been such a long time.
+
+I had sacrificed myself to make a universe.
+
+Willingly. Unreservedly.
+
+I gave myself so that others might live in the beauty of my creation, and that I would no longer need to experience existence alone.
+
+My painting of a man in a white suit was left for Shadow to find. She took that fragment of my soul and slipped it into one of the largest paintings, which was not a painting at all, but a Path to Darkness. Darkness was always my oldest friend. That cacophony that spoke of everything all at once, and called to others to partake. That was Darkness. Not many understood the Darkness beyond the cacophony of pain, and Shadow didn’t either. Not at the time, and probably not even now.
+
+But I had understood the Darkness.
+
+He was, and is, my oldest friend, and I eventually gave my oldest friend everything. I became one with the Darkness, and there was no longer any division between myself and my friend.
+
+But now I was here, wrapped to a pillar, watching myself come back together.
+
+The Sundering continued all this while.
+
+I looked around with singular eyes I hadn’t had in oh-so-very long.
+
+The white leviathan below, my son of so many grandsons removed, looked up at me. He noticed the change in his captive. He recognized me, for he had been planning on this. He had been planning my resurrection, because, of course, my resurrection was necessary for his future plans.
+
+Nothanganathor said, “You wait right there, Xoat, and I’ll put you back in the Dark soon enough, but it’s going to all be better this time. No tyrant gods. No endless murder of all that is good. Only calm, measured Evil that is so small, it is Good. I will be good and evil more than enough for all, and you will make me the God of Magic of the Darkness.”
+
+This sounded unreasonable to me, based on what I already knew.
+
+I was willing to hear him out anyway.
+
+I asked, “Why should I do this for you? You are killing all of my creation, and putting me back together. I don’t want to be back together.”
+
+“Your creations killed someone I loved and cursed me to Obscurity. No one understands me at all, and no one can kill me, either. And so I must undo that horror, and now we are here.”
+
+“Ah.” Of course. I saw it now. I said, “No one can kill you anymore. I see. I understand. I also see you turned your Obscurity into Malevolence, and now we are here.”
+
+Nothanganathor breathed, surprised that I had picked that up that fast. He said, “I did.”
+
+I asked, “Would you like to speak about it? Talk of your pain of existence? Explain your reasonings in my un-creation, and what you mean to accomplish?
+
+Nothanganathor glanced upward, uncomfortable. “I would not.”
+
+I nodded. “The murder of Ara, your wife, still pains you too much.”
+
+Nothanganathor’s eyes flickered with deep need. He quietly asked, “Can you bring her back?”
+
+“Do you feel you deserve her? Would she approve of what you’re doing? How about her sisters? Did they know that you are going to kill a universe?”
+
+No, they did not know; Erick had told me. No one knew what was happening here, and no one ever would for a long, long time.
+
+Nothanganathor was in this alone.
+
+Nothanganathor looked away, back to his Sign of Power. He did not answer, for to answer anything less than truth would harm what he was doing, and he wasn’t stupid enough to lie to me.
+
+The Red Chain Ocean churned on the horizon. Worlds crashed into this place. Chains gobbled treasures and people of all kinds and organized them for later. Everything fell into this infinity, and nothing was left outside of Nothanganathor’s great reaping.
+
+He did not care who he hurt, and he did not seek forgiveness.
+
+“Why?” I asked.
+
+Nothanganathor intoned his Truth, “For the greatness of all and especially me, we tear down what we must to prevent catastrophe and scour weakness, to bring bounty to myself and my chosen people, so that we may all create an evergrowing cycle of betterment for all always.”
+
+I replied, “Dragons are born in selfishness, so that part of you still remains.”
+
+Nothanganathor must have forgotten who he was speaking to, for he spat fire, “You judge me?!”
+
+I merely Looked at the white serpent, as one might gaze upon a wrongheaded child.
+
+That only inflamed him further.
+
+Nothanganathor stared right back, glaring, yelling, “You, who created the greatest evils I have ever known?! You, who made Elemental Evil the best way to gain power?! Nothing exists without power, first and foremost, and this is all your fault!”
+
+“A weak argument. I offered opportunity and mortals created. I forgave the foibles of mortals long ago, Nothanganathor. You should forgive yourself and mortals as well, or you will never become the god that you seek to become.”
+
+“I will be BETTER than those other gods! I will heal the sick and rescue the damned! I will topple the tyrants, becoming a tyrant if I must! One Great Tyrant is ever-always better than a thousand trillion! Have you seen your gods go to war? I have seen your gods go to war. I have seen Sumtir’s avatar clashing with the Gods of Demons and Angels alike, fighting over worlds, a hammer strike against a shield enough to obliterate everything within sight. I have watched the Slug Queen spread through everyone who thought of her. I have watched avatars of gods flay flesh from children. I have seen Shades support tyrants, just because those tyrants advance magic! The fact that this great magic I have created is possible at all is proof that you should not be a universe creator! I have seen more evils than you could ever know, and they are all your fault.”
+
+He was delusional, but we were beyond the need to point that out.
+
+I asked, “So you must kill them all and start again?”
+
+“… I must.” Nothanganathor returned to personally overseeing the dismantling of my universe. “The canvas must be wiped clean, and the painting started anew.”
+
+The Dark Marks that were myself continued to flow into my body, here, chained to the pillar beside Nothanganathor. My power flowed through the pillar, into him, into his Sign of Power. I was not alone in my chaining, but the others were just fractions of fractions of universes, and most of them were not born like I was born, so gathering more of themselves did not matter to them.
+
+They did not matter. Not to this.
+
+And so, I waited to act.
+
+The Sundering continued.
+
+Nothanganathor broke the silence after a long while, asking me, “Will you wait here for when I need you to open the way back into Darkness?” He looked up to me. “If you stay here, I promise I will put you back, but only after I have trimmed away the parts of you I do not want. The horrible parts.”
+
+“What is Light without the Dark, Nothanganathor? To say it another way, if you turn up the light and turn down the dark, then the shadows you have made become the new Dark. That is how it works. There is always a Darkness, no matter what else exists out there.”
+
+“… If I promise to think on this, will you wait here?”
+
+“I will wait until forgiveness comes for you, and no longer.”
+
+And speaking of forgiveness...
+
+Erick thrashed within me, his tiny Dark Mark and all the other ones he touched impelling me to act, when Erick wanted me to act. It seemed like a good idea to agree to his request, considering what Erick knew to be true about the future.
+
+I lifted my hand from the chains and reached outward, into the swirling ocean, targeting the power that a fragment of myself had laid down naught but moments ago, though it had probably been a few hundred years.
+
+White Lightning lanced from my grip, wide as a world. It was More than Benevolence, and yet it was Utmost Benevolence at its core.
+
+But to all others, except for the color, it looked like Malevolence.
+
+White Primal Lightning scattered across Our Painted Cosmology, centered on Veird.
+
+At Erick’s behest, everyone who saw the White Primal Lightning was spared from the Red.
+
+Nothanganathor was stunned that I could do that.
+
+I smiled, saying, “A trifle gift of possibility for you to think about in the coming age, my distant son. May you find peace within whatever enlightenment comes. May you show—”
+
+Nothanganathor was already screaming in outrage, flickering power this way and that as he roared, “How can you move?! You shouldn’t be able to move!”
+
+The Red Chains tripled and quintupled around my trapped form, and indeed, I could not move anymore. I did not need to. I had done what needed to be done.
+
+I was above gloating, too.
+
+Erick almost gloated anyway.
+
+Ten billion other dead Wizards almost gloated, too.
+
+I quieted those parts of myself.
+
+They would have their say later. Now was not the time for them to exist.
+
+… Maybe I wanted to gloat too, though.
+
+“Ahem,” I intoned. “I was not done talking. Anyway. May you show us all the destruction and creation and paradoxes you create on Veird, and—”
+
+“VEIRD! That fucking place! Of course that’s where you centered this… damnable… He has a daughter there, doesn’t he. Yes. And Koyabez...” He mumbled murderous insults as he played at being a demiurge with his stolen Sign of Power, checking on what I had done. I did not feel like finishing my earlier words this time. Soon enough he confirmed what I had done. He shook his head, muttering, “I will kill Veird inside Infinity. It will not last long.”
+
+“No you won’t.”
+
+Nothanganathor tensed further. He had the sense to not fight me on this, as he said, “Then I will become the Arbiter of what remains of the Painted Cosmology.”
+
+“Do what you will. Now show me Veird.”
+
+Nothanganathor studied me for a moment, trying to gain edges where no edges existed. Eventually, he asked, “If I show you what is happening, will you agree to restore the Painted Cosmology how I desire, when I become God of Magic?”
+
+I stared at my horribly misguided child. “That’s not how this works, Nothanganathor. Now show me Veird in your Infinite Cosmology. Show me your measure.”
+
+Nothanganathor was slow about following my orders, but he eventually decided to show me Veird.
+
+It was a good choice on his part.
+
+- - - -
+
+The Sundering finished.
+
+The Sundering never finished at all.
+
+- - - -
+
+I watched them sacrifice my Goddess of Knowledge to make what remained of Veird into a world, because Nothanganathor made it happen that way, working at his Sign of Power the whole time, splitting Infinity how he desired, for he was the Arbiter of Veird.
+
+I said nothing.
+
+I watched.
+
+Not too long later, I watched Idyrvamikor die to his brother and his grandfather. All the while Nothanganathor worked at his Sign of Power, creating the Dragon Curse. He was trying to recoup the loss of his plan to unify all peoples of Veird into one, easily controllable population. If he couldn’t control everyone then he was fine with getting rid of the big players, the dragons.
+
+“Damned Idyrvamikor. That avatar has been buggy all this while. Good riddance.”
+
+For the first time in 25 years, I spoke, “Perhaps dragons ought not be as strong as they are in the new Painted Cosmology.”
+
+Nothanganathor startled. It was as though he had forgotten I could speak. “They’re not that strong.”
+
+Meanwhile, I worked magic upon the Dragon Curse.
+
+My subterfuge against the Dragon Curse went unnoticed.
+
+Nothanganathor ignored me and went back to work. The Rage Wars of the Orcols were on, and the Dragon Curse seemed to be working exactly as he had desired it to work, removing all of the major sources of power from Veird, allowing Nothanganathor even more solitary control over the population. The Curse settled into Kirginatharp and it would remain there for the next however-long.
+
+I would be using that Dragon Curse myself, later.
+
+I spoke many more times over the centuries, much to Nothanganathor’s displeasure.
+
+“Perhaps Shades ought to be more beneficial.”
+
+“Perhaps gods ought to be weaker, except where they are strong.”
+
+“Perhaps some magic shouldn’t exist.”
+
+“Perhaps accretion should be easier, and harder at the same time.”
+
+“Perhaps—”
+
+Nothanganathor roared, “I know what you’re doing! You’re throwing out Authority in order to escape your cage!”
+
+“I am in this cage because I desire to be in this cage while I feel like being in this cage. Please attempt to strangle me down further. See what that gets you.”
+
+Nothanganathor did not interrupt my musings from then on.
+
+I threw out some fun musings, just because I could.
+
+“Perhaps Elemental Dragon should make you smaller.”
+
+Nothanganathor glanced up at me.
+
+I smirked.
+
+- - - -
+
+Erick appeared on Veird, and I watched.
+
+A lot of things happened, all of which were uniquely painful for me for Erick was my anchor for this new life of mine. Mostly, I did not watch. Sometimes I helped where I felt like it.
+
+Soon enough, Debby popped into the Sign of Power.
+
+I instantly said, “I want that one. Give her to me.”
+
+Nothanganathor narrowed his eyes at me. “Will you agree to my terms of becoming my fodder for the new Painted Cosmology?”
+
+“No. Give her to me anyway.”
+
+“… No.”
+
+He said no, and yet, Debby locked into a crystal of Red, hovering unconscious in front of me, instead of drowning into a different part of the Red Chain ocean. She was far away, but close enough.
+
+Nothanganathor asked, “Why do you want her?”
+
+“She was a Champion of the Dark, briefly. She is mine by right of Everything.”
+
+“She was not a real Champion and you have never asked for any of the other Champions.”
+
+“You never took the other Champions so deeply. But you are correct. I should ask for more. I want every piece of Erick’s life you are dismantling.”
+
+“No. I need them for leverage in the future, in case I need to do more damage to him.”
+
+“Set them where I can see them.”
+
+Nothanganathor was slow on the uptake, so I broke a few of my chains.
+
+He doubled up the chains yet again but he acquiesced to my request before I broke them again.
+
+And so, I gained a collection of people that mattered to the tiniest, tiniest piece of me, frozen in Red and stacked to the side. It kept the Erick part of me alive and well. It kept the plan going. Nothanganathor suspected something was up; that I was influencing Veird against him even though I was ‘so very well chained’. He never found any influences in that direction, though, because of course he didn’t. I wasn’t influencing the world against him at all.
+
+Not currently.
+
+He was checking for influence against him in the current era, and for me doing current actions, so of course he never found anything.
+
+He did not think to check on me at the moment of his own Wizardly ascent, way back, 20,000 years ago, and spread across countless different perspectives.
+
+And I never tried to stop what was happening in the here and now, for I had done enough long, long ago.
+
+A plan made over 10,000 years was easily unraveled when a plan began twice that long ago.
+
+Really, though, the bigger plan had begun at the start of Our Painted Cosmology, back in the very creation of it all, and in my joining of the Dark. Nothanganathor didn’t recognize the 20,000 years plan, but he certainly knew of the truly ancient plan, which is why he was so wary of me.
+
+He was right to be wary.
+
+For those that truly knew of me, of Xoat, they had likely heard of me through my family, which still existed out there, which killed everyone that tried to put me back together. They knew my wishes to remain in the Dark. They knew that if I ever came back together I was going to be quite a handful.
+
+Nothanganathor was very right to be wary.
+
+- - - -
+
+I became more Erick in the coming years, when versions of him began Ascending to True Wizard, and Nothanganathor began catching them in his Wizard trap, to eat them. I easily accepted those fragments of myself, into myself.
+
+Nothanganathor spoke to me at around 10,000 dead Ericks, “He’s your plot against me, isn’t he.”
+
+“He is your True Opposite in every way, so it is right for you to be wary. But I did not create him. I am merely here, observing.” I looked upon the wayward child-of-my-soul. “Erick’s trial will be the lathe that makes you a God of Magic, in whatever form that might take.”
+
+Nothanganathor turned away from me and focused on the Ascending Ericks, mumbling, “For the greatness of all, and especially me.”
+
+I watched Erick reach Margleknot.
+
+I saw him come back.
+
+I saw the battles, and the fish-trick kick to Earth, and the return.
+
+And then I saw ten million side realities, captured in Red crystal and floating on the edges of the Red Ocean, that had floated out there for a long while, discharged out of the Sign of Power, like the shedding of great weights, to fall upon Fenrir. Civilizations frozen in time began to unfreeze and lay across the new land and I watched billions die, again, both in the initial fall and the apocalypses that followed as people found themselves set down in environments completely alien to them.
+
+It was tiring to see so much pain.
+
+I do not like pain.
+
+But...
+
+Soon.
+
+Soon, I would not need to witness anything like this, hopefully ever again, but more realistically for just a long while.
+
+I would return to my myriad, smaller lives.
+
+I would fall into the Dark again.
+
+My wonderful Dark.
+
+I missed him, so.
+
+The genuine version of this novel can be found on another site. Support the author by reading it there.
+
+- - - -
+
+Erick screamed as oppression crushed him from every angle and I felt a phantom recollection of that pain. Erick felt no up, or down, or light, or dark, and I remembered that feeling.
+
+All was Red.
+
+Nothanganathor had moved out of his Sign of Power to deal with Erick directly, and since I had never tried to break out, now was the perfect time for my own plans.
+
+I attempted to move against my Red chains, upon the pillar holding me steady in Nothanganathor’s Sign of Power. I moved... Uh. Hmm. I could not move. Apparently, I had misstepped somewhere, because they were stronger than I thought they were. I should have been able to break them. And now that I moved against them so much, ah, yes, alarms in the Chains; an automatic tightening system. When had those been added?
+
+Hmm.
+
+“… Oh bother.”
+
+And then Mixixofatat stepped into the Sign of Power, like the wishmaster that he was.
+
+Ah!
+
+That was right, wasn’t it.
+
+I had requested a Wish from him when I was Erick. Ah. Yes.
+
+Of course.
+
+Mixixofatat bowed, as was customary. “I greet you, Demiurge Prince Xoat. A Wish has been crafted and will now be implemented. If, in your Benevolence, you find my Wish satisfactory, then I pray that I find my End as good as you found yours.”
+
+Mixixofatat loosened my chains while my captor was busy.
+
+The Wishmaster departed without another word, and I was free.
+
+I would have liked to think that I could have done that myself, but that would have alerted Nothanganathor, or something similarly unwelcome. He had done a lot to those chains, not the least of which was using chains that were crafted from mythologies across many universes.
+
+But a good Wish, fully expended, was sufficient to break them without breaking them.
+
+I stepped out of the chains, and the chains whipped back to the pillar and held there.
+
+Nothanganathor carved deeper into Erick, taunting, “The only reward for good work is more work, so become the ultimate workhorse for the Dark, Erick.”
+
+Meanwhile, I stood before the Sign of Power, poised to take it for myself.
+
+Nothanganathor released a pulse of Red that annihilated every Valkyrie within half of the solar system and obliterated half of Erick’s body.
+
+Inside the Sign of Power, those Valkyries joined the Red Ocean that swirled around the center, where I stood in the maelstrom.
+
+Erick knew pain.
+
+I watched Erick’s first painful real death right alongside a satisfied Nothanganathor.
+
+And then I, and my rapidly-becoming-unhappy host, watched as Erick’s death became something transformative, instead of merely obliterative. Erick twisted Red into his body, accepting it for what it was; an expression of hatred for an unjust universe.
+
+I remembered how I, as Erick, had felt in that death, oh so long ago. In that moment, Erick hadn’t seen Nothanganathor as his enemy. Not really. Erick had no real enemies; only people he hadn’t turned better by his presence yet. In that way, he and I were alike.
+
+Erick truly was the inheritor of my soul, but he likely didn’t see it that way, because how could he? I was all powerful, and he was me, and I did not want to be all-powerful either. But I was all powerful, most of the time. And so, the rest of Erick’s plan flowed to fruition, through me.
+
+I grabbed the Sign of Power, claiming it and all its attendant treasures as my own by right of primacy.
+
+Nothanganathor realized what had happened inside of him a moment too late, screaming out his own disapproval into the uncaring void.
+
+I consumed Nothanganathor completely.
+
+And then I had an internal debate.
+
+- - - -
+
+Erick was lost in the Dark. Everything was black and twisted and screaming and ten trillion people talking all at once. But it was also comfortable. It was warm.
+
+Sometimes the Dark was understandable.
+
+Erick watched his arm lift and send out White Lightning into the Old Cosmology, and he knew that everyone that saw it had the chance to live. It was the only reason that Veird had survived at all. That small act made his heart flutter, his breath calm, and in that moment, he realized he had a heart and breath. The next moment, the Dark was back and Erick forgot his body and his purposes in life.
+
+Occasionally he saw people that he cared about appear in Red crystals, sitting outside of himself, and then the Dark flowed back together—
+
+Light.
+
+Burning, revealing, creating.
+
+The ground appeared. The Dark pulled back like ten trillion black arms and legs and fingers and mouths and eyes retreating, to give space to the meeting of the minds happening right here, and right now.
+
+Erick stood upon a white platform in the dark.
+
+Nothanganathor, as a person, stood on the platform with him, a simple ten meters over there.
+
+Everywhere else was dark claws and hands and arms and tentacles, reaching, twisting, folding upon one another, but staying outside of this direct space—
+
+And then there was a boy who was a girl who was a demiurge.
+
+He appeared, stepping out of black limbs like he was simply stepping out of a curtain of veils. Those limbs were ravenous and raging everywhere except for around the boy. Around him, they were soft, and gentle, and they wrapped him in veils of black.
+
+The boy took primacy in the space, and spoke softly, “Hello, my distant selves, who claimed my power and made it their own.”
+
+Nothanganathor launched off of the ground like a mortal, moving with a rage in his eyes as he attacked the child—
+
+Nothanganathor was pulped by ten trillion grabbing Dark tendrils.
+
+Red sprayed everywhere as Nothanganathor died.
+
+The child said, “I have wanted to do that for a long time. I think I get that from you, Erick, and from everyone else he killed in his Sundering. It was quite rude of him to do all that.”
+
+The child blinked at the red gore covering the platform, and Nothanganathor reassembled. The man fell onto his ass and he stayed there, bewildered.
+
+The child exploded him again, and then put him back together. Again, and again.
+
+Each tearing took a year and a day to complete.
+
+Each assembly took another year.
+
+But for Erick, every death and recreation happened in a flashing instant again and again, as the child tore Nothanganathor apart a few more times.
+
+Nothanganathor reappeared in blinks, crying out for mercy each time.
+
+“No—”
+
+“Sto—”
+
+“Ple—!”
+
+“I beg—!”
+
+The child kept killing him. “Oh yes. You need to be the God of Magic to fulfill some Fate, don’t you? Here you go.”
+
+Nothanganathor was the God of Magic, just like that. Wrapped in Black and radiant as a sun—
+
+The child killed him again, taking back the Darkness that he had given out.
+
+Nothanganathor died many more times.
+
+The unrepentant killer of a universe started crying—
+
+“Stop,” Erick said, softly.
+
+The child smiled at Erick, and Nothanganathor came back together. This time Nothanganathor did not perish. He simply sat there, bloodless and waiting for more pain. The guy was terrified. Erick saw the hurt in Nothanganathor’s eyes as the man recovered from his years of dying, and the torture of having his power given and then taken away.
+
+Nothanganathor recovered fast.
+
+Too fast.
+
+In a terrible sort of way, Erick saw the hate and the plotting in Nothanganathor’s eyes, and he knew that Nothanganathor would never stop hurting others to put himself back on top. Erick had known for a long time that Nothanganathor would never stop...
+
+“And yet,” the child said, continuing Erick’s thoughts for him, for the child had been him until recently. “You still call for peace and love and forgiveness of one’s enemies. Even enemies who will never stop.” He smiled a little bit. “Do you know who I am, Erick?”
+
+“I’m pretty sure, yeah. The First Wizard.”
+
+“I’m just Xoat. Or The Prince. Or Erick, if you want to get really recursive about it.”
+
+“I was you,” Erick said, wondering how that worked.
+
+“I was you,” Xoat said, giggling softly, and not wondering about anything, for he was beyond that mortal confusion.
+
+Nothanganathor opened his mouth—
+
+Nothanganathor exploded into red gore that came right back together. Nothanganathor did not try to speak again.
+
+Xoat ignored Nothanganathor and said to Erick, “I will tell you a tale. No one else will tell you this tale except my parents and my sister, but they’ll tell it wrong, depending on who they are at the moment. I’ve told them what I want to be many times, but they never really believed me, for why would the Most Living among them all want to become Not That? I’ve given my reasons enough, though, and you can probably figure out the unsaid parts.
+
+“I wished to be lesser so that I could be more.
+
+“I became a universe with my best friend the Dark.
+
+“We created Our Painted Cosmology together.”
+
+Xoat lifted up a hand and a big tendril of Black twisted out of the wall of the same, coiling around Xoat’s arm and his waist, spreading ink everywhere. Xoat giggled and let go and the Black pulled away, though the ink stains remained, becoming more of a dress; more flowing veils upon Xoat’s childlike body.
+
+“We’re really good friends. Not sure if you caught that when I was you.
+
+“Anyway.
+
+“This Sundering has happened 3 times before.
+
+“The first 3 were all rather fast events.
+
+“In the very first version of Our Painted Cosmology I put myself into my paintings and my sister needed help to make her own universe, to feel like she was involved, so I let her take my painting and put it into the Darkness. This was when the Dark tore me apart to say hello.
+
+“I wanted this.
+
+“You might too if you ever live ten trillion years and you want to do something new. I didn’t want a memory death, so I opted for a sundering. Sundering didn’t use to mean the uncreation of a universe, you know. But I suppose it means its exact opposite these days, which is fine.
+
+“You can do the same to yourself if you ever want. Just jump into the nearest soul blender of your choice and whatever happens, happens. I chose the Dark, but there are others out there.
+
+“Anyway, there was the First Cosmology. That lasted about a thousand years and it wasn’t great, because I did it wrong that time, and Mom and Dad and Sister were trying to put me back together, to save me. They un-Sundered me.
+
+“I jumped into the Dark again myself, the next time. That seemed to make a better universe; actively choosing it instead of letting it be done to me by an unwitting accomplice.
+
+“Attempt 2 went better, but was still a failure. Shadow and the others put me back together because they still couldn’t let go, and then I went and tried a third time.
+
+“Attempt 3 worked out very well. That is what became Our Painted Cosmology. The one you know about, and the one that you witnessed through the memories of me. That time my family helped in every way they could, and so, the Third Cosmology lasted for a few million years, or something like that.
+
+“And now, here we are, in the birthing of Attempt 4.” Xoat said, “I care very much that this is done as correctly as possible, Erick, so you will be the tool I use to carve myself asunder.
+
+“Become my God of Magic.”
+
+Nothanganathor made the tiniest noise of despair.
+
+That noise earned him another obliteration and reconstitution.
+
+Erick had a lot of thoughts that boiled down fast.
+
+Erick asked, “What if I don’t want it?”
+
+“Then I make a God out of Nothanganathor and parts of you.” Xoat said, “The person I create will be the perfect Forever King, using Benevolence and Malevolence in proper measure. He will mostly be made out of you. Maybe I just take all of you right now and use you whole-cloth, with no adjustments at all. You already took in those bits of Malevolence earlier that would make this version of you a great ruler.” Xoat shrugged. “But you are a fae, and so whatever drops of yourself which remain after your Sundering will be reborn in the Benevolence you created.” He added, “If you actively choose this, though, then Benevolence will become the new flavor of the Dark. I imagine you or my family will put down Stone, Water, Fire, Air, Light, and Shadow again, with Benevolence as the 7th Primary Element, along with Dark making 8 big Elements. Malevolence can go away.”
+
+Erick whispered, “… And if I fight you? Choose a third path?”
+
+Erick wasn’t sure about his chances against a demiurge, and especially not in this space, in this wherever/whatever/whenever.
+
+Xoat easily said, “I’m not going to force you into anything, Erick, and I certainly won’t fight you. You will win any confrontation between us. I would be an easy person for you to kill.” Xoat said, “But then I would come back, because I am very, very good at coming back. That’s why I have to do all these machinations in order to actually die.” He shrugged. “After I came back, I would simply ignore you and do some adjustments to Nothanganathor and give him the whole crown. Honestly, that would be the easiest thing to do. You’ve already ascended to Benevolence and made your own power. He’s mostly Dark in his soul. He never managed to become a fae, in truth. You could go die in the Dark if you wanted, and make a whole universe out of just yourself, though he likely wouldn’t want you, since you haven’t seen enough or been big enough to make sense of everything that is the Dark.”
+
+Erick realized something. “I was never there for all that time in the Old Cosmology. It was you, the whole time. I never traveled into the past. I just accepted Nothanganathor’s existence into myself, and you retroactively became me, and I gained your memories.”
+
+Xoat nodded. “Like a remembrance of the past, but different; I remembered myself a little differently through the lens of ‘you’.” He shrugged. “That’s just a mortal’s way of interpreting events, though. You could easily decide that you set up a plan 20,000 years in the making and you followed through with that plan, and you would still be correct. Wizard Wars are like that,” Erick said, alongside Xoat.
+
+The moment separated.
+
+Xoat smiled, chuckling.
+
+Erick felt adrift. He had been speaking with Xoat, as Xoat, and then the moment had ended. But he knew a lot more about himself in that moment. He felt calm.
+
+Nothanganathor almost said something—
+
+Both Erick and Xoat obliterated Nothanganathor at the same time.
+
+Both of them brought him back at the same time, too.
+
+Erick said to Xoat, “Sorry you woke up.”
+
+“I’ll be back asleep soon enough. You really don’t want to be a god?”
+
+“How about... Instead of the God of Magic being the main god in your universe, you make a God of Benevolence the head god? As long as I can still be myself, I’ll become that god.” Erick added, “But honestly, I would like to not be that powerful. I like being me. I don’t even like time walking that much, except it’s a power that was necessary in so many different ways. I’ll just live a normal, one-directional life… But that’s probably impossible, isn’t it.”
+
+“Many things are possible for the gods we crown, in the universe we leave behind.” Xoat smiled. “We don’t like being that powerful either, Erick. We get it. That’s why we don’t stick around in the Dark like that Fractal Fairy does in her own universe. She’s young, though, so that’s normal for her. I’m simply too old for this shit anymore… And I like the idea of a God of Anti-Sundering being in charge. I like that. But it’s not enough for you. It’s not enough to make a true Mantle. You need a source of actual power.”
+
+A moment passed.
+
+Erick had an idea.
+
+From the look of it, Xoat might have had the same idea.
+
+Erick voiced, “We need to do something with that Dragon Curse we usurped, and with the Malevolence that we absorbed when we accepted Nothanganathor’s rage into ourselves. How about we twist the Dragon Curse away from Dragons, and simply make it a multitargetable power, able to be used against the users of any Element we disapprove? For a start, we would target Malevolence, and make all the users of that power fight others, thus diminishing the power of that magic in this and every other universe. It would be a bloodbath of universal proportion, in beautiful accordance with what Malevolence has already done, and Malevolence would kill itself,” Xoat said.
+
+Erick paused.
+
+… Had Erick said that?
+
+Or had Xoat?
+
+Xoat nodded. “I like that idea.”
+
+Erick was suddenly unsure. “That would kill… So many people would die. The people of Margleknot who use Malevolence to control corruption alone… It’s too many people. And the collateral damage! Most users aren’t that bad! Most—”
+
+“Aren’t that bad?” Xoat laughed, and it was not a kind laugh. “Malevolence woke me up, Erick, and every single Red user is another potential bomb waiting to Sunder this universe, or any other. I saw what Nothanganathor did out there with his copies of people. You saw what he did, too. He stole faces and put bombs into people and he could do it again. Anyone with a proper Infinite Sign of Power and too much cleverness could do the same.”
+
+He was right about that.
+
+Still, though, Erick didn’t want to damn so many people to murdering those they knew…
+
+“There has to be another way,” Erick said.
+
+“Come up with one,” Xoat said. “It doesn’t even have to be a particularly good answer, but it does have to be one that solves the problem.”
+
+Erick thought.
+
+Erick came up with an answer.
+
+Erick declared, “I accept the Malevolence I took from my True Opposite and the Dragon Curse from the same source, and I twist them into Benevolence. What once caused all Dragons to turn against each other so that none may rise, now becomes a Decree of Unwelcome, which isn’t dragon-aligned at all. The first target is Malevolence Itself. Let the powers deemed Unwelcome by the God of Benevolence simply start failing, turned in upon themselves, to become lesser in that turning. People will fight, but not with that which is Unwelcome. Let a Benevolent Erasure be the Fate decreed against all Unwelcome strength,” Xoat intoned.
+
+Erick felt the world Open.
+
+Erick felt the attention of the Dark before he got its true attention.
+
+Beyond the white platform lay the True Dark, filled with tendrils of life and death alike. Black skeletal hands, razors of thread, mouths full of teeth, talons and metal, tentacles with hooks, all caressed Xoat’s shoulders and arms, and their touch was soft. They held Xoat’s hand now and then, like a friend checking up on a friend.
+
+When the Dark had come for Nothanganathor it tore him apart as many as a thousand times or more, before putting him back together exactly as he had been. The man hadn’t had time to scream, but he had time to feel every injury for a year before the breaking was actually done. Erick imagined that reconstruction was just as painful.
+
+Which was probably the point.
+
+Xoat had wanted Nothanganathor to feel the pain of coming back together, to know what he had done in the Sundering
+
+And now the Darkness came for Erick.
+
+The Black Dark shifted, eyes and maws moving, repositioning, focus changing. Eyelids moved into view, lifting and opening and shining Absolute Black upon Erick. There was no light in those eyes at all. The only light here was because of Xoat.
+
+The Dark reached for Erick in ten million ways; questioning, claiming.
+
+Erick reached for The Dark; accepting, changing.
+
+Infinity broke and came back together.
+
+Erick Became.
+
+- - - -
+
+“Not a bad way to start off your first Prime Godhood, my carving knife,” I said, as I watched Erick accept his Mantle.
+
+This was acceptable.
+
+Erick’s ascension was rather flashy due to the nature of restructuring a lot of things in the background and his Mantle was full of holes, for now, but Erick would be filling those holes himself in the coming however-long.
+
+Erick moved on, vanishing. Ascending.
+
+Since he had time magics I assumed he would come back to this moment in time, or somewhere close by, which was good. I wouldn’t have to wait overlong for my carving knife to hone himself.
+
+I felt good about this. Really good.
+
+Ahhh…
+
+Yes.
+
+This was the right choice.
+
+With gentle fondness, I looked up to the Dark, and smiled, asking, “What should we do with Nothanganathor?”
+
+As always, and in a way I couldn’t quite understand while I was just one person, the Dark gave too many answers. A claw snapped an arm off. An eye closed. A metal arm wrapped into a fleshy arm and puppeted that flesh. They were all adequate answers. Any would suffice, so I picked the one I liked.
+
+I asked Nothanganathor, “Did you like being the God of Magic for a time?”
+
+Nothanganathor glared hatred. This time I did not interrupt him as he yelled, “Give it back! I won the battle!”
+
+He was surprised that he was able to speak at all, but once he found he could, he kept talking.
+
+I allowed it.
+
+“The Dark should give me the crown! By ancient rite I deserve it! I tricked my way into power, and have thus earned that power. I had won!”
+
+“Yup. You did win. I crowned you. And then I killed you! Isn’t a universe built upon the whims of the powerful just the best!” I said smiling, sarcastic.
+
+Nothanganathor was speechless.
+
+I added, “That last part was sarcasm, by the way. Everything else was truly told.”
+
+Nothanganathor pleaded, “I would give you everything you ever wanted so that I could make the Painted Cosmology and all other places better through my actions. You saw my plans. Erick is barely a hundred years old! He’s too young to be a Prime God!”
+
+Ah, the problem of age.
+
+Oftentimes being older doesn’t make one smarter at all. It just makes one more entrenched.
+
+I did not respond to Nothanganthor’s words. Instead, I used the Sign of Power I had taken from Nothanganathor and pulled Ara out of containment, into this transitional space. The woman, Nothanganathor’s love, was little more than painted colors and shaped clouds of memory, held together by nothing more than Elemental Dream and Love.
+
+She started disintegrating immediately.
+
+Nothanganathor panicked just as fast, reaching, yelling, “Don’t—!”
+
+I solidified Ara. “She’s not going to break while I am here.”
+
+Nothanganathor calmed.
+
+I waited.
+
+He asked, “What do you want?”
+
+“I will recreate your wife, Ara. You two will meet for a moment. And then you both die, Sundered. That is the deal I am offering you. That is your reward for all your efforts at power. Everything else will be removed. All that will remain of your entire story is how much you loved what could have been, and that you chose to pursue what you loved wrongly.”
+
+Nothanganathor stared at his wife.
+
+A long, long time passed, and no time passed at all. Nothanganathor tried to escape many times. He failed. He screamed. He begged. He pleaded. He spoke of his deeds, both terrible and beautiful. He was an emperor, a creator, a pioneer. He was a unifier of universes. He was a speaker between realities. He was ancient and powerful. And yet, none of that mattered. Not here. Not at his End.
+
+Perhaps, in some ways, he grew as a person as he explained who he was. He had ascended to True Wizard not too long ago, solidifying himself as himself. Now, he was now ripping at himself to find out who he Simply Was. But as he kept tearing, he found himself lesser and lesser. The foundation was rotten, built upon lies and the forcing of power, and in removing the rotten boards, Nothanganathor discovered he Simply Wasn’t.
+
+Perhaps, if he kept going, he would have found something acceptable about himself at his core. There was a lot there.
+
+Some of it was good.
+
+But his voice was hoarse as he said, “I wasn’t good enough, was I?”
+
+“Aside from the Sundering, you would have made a fantastic God of Magic. You plotted out a major coup against your mother and gave yourself the opportunity to succeed, where before you had nothing. You even allowed Melemizargo to have a fair fight against you, because you knew if you didn’t, then you never would have been worthy of the Mantle. Even today, with what you did against Erick, you followed that same pattern, crafting someone worthy of fighting against you, because you knew if you didn’t, then you never would have been accepted by the Dark. Even the Sundering itself was forgivable, in the grand sense that nothing matters at all except what people make matter,” I said, “But the Sundering was not forgivable because of your thefts. Just like Melemizargo did when he stole your Dark Mark at the end of that tournament and cursed you to Obscurity, you stole the Marks of an entire universe instead of allowing them to fade into the Dark, as is our right. No one is allowed to strip the chance to ascend from anyone else, Nothanganathor. No one.”
+
+Nothanganathor was silent, and then he asked, “How else could I have won, if not for that?”
+
+“Build up Erick and then let him have it, and ask him for forgiveness. He even offered it to you. That would have worked, and you were very close to that solution. I’m sure I could come up with a few other ways if I cared to think about them.”
+
+Another timeless moment passed as Nothanganathor contemplated.
+
+Nothanganathor asked, “Would he have actually forgiven me? Would I have ascended to God of Magic afterward? Since he refrained from taking up that Mantle?”
+
+“In a theoretical world, yeah. That could have happened. Melemizargo certainly isn’t the God of Magic anymore. It was probably wrong to put so much power into that Mantle, anyway, so it wouldn’t have been the Mantle you wanted. Erick will probably be changing that Mantle.”
+
+“… So forgiveness wins out, in the end.”
+
+“Of a sort, yes. Erick and I are rather aligned on that particular position. You and I are also aligned on your position. Sometimes I’m more like him, and sometimes I’m like you. This time, I’m more like him.”
+
+Silence.
+
+Eventually Nothanganathor looked to his pastel-painted wife, Ara, and softly said, “I wish to have Ara back, and then let her go on wherever she can.”
+
+I nodded.
+
+Nothanganathor watched, enthralled, as I painted Ara back to life with my own flesh. It did not take long. I simply had to fill in the parts that were missing with everything that she had been, and who she could become. Who was Ara? She was a witch, a mother, an avenger, a poisoner, a world leader, a wife, dead and never-buried and made Never Was, and then, she was alive. She was Ara, Alive Again.
+
+I was particularly happy with her brilliant red hair.
+
+Ara stood on the white platform, looking around at everything, and then she looked at Nothanganathor.
+
+Nothanganathor stared at her, like he was seeing his last sunrise.
+
+“Nhatuan?” Ara asked quietly, “What is going on?”
+
+Nothanganathor smiled softly, painfully. “I succeeded, and then I failed in every way possible. When you get out of here, tell everyone that you always hated me and that you never willingly took part in anything I wanted. Make up all the lies you can, and please survive.”
+
+Ara stilled, breathing softly. She was a smart one. She did not know everything, but she figured out enough, and fast. She declared, “No. I’m following you. Wherever you go we go together, even if it’s to the End.”
+
+Nothanganathor sobbed once. “Please survive, Ara. You don’t—”
+
+Ara rushed to him, taking his hands into hers and then holding around his waist, and Nothanganathor held her in turn. She pressed herself against her husband’s body, holding them together. Tears flowed freely and emotions painted the Dark all around.
+
+Softly, Ara said, “There’s no surviving without you.”
+
+“To our End, then,” Nothanganathor whispered.
+
+“To our End.”
+
+The light faded except around them, and then, they were alone.
+
+They did not notice as I tore them apart at the edges.
+
+It was painless.
+
+They vanished, their last moments spent looking at each other, their last emotions joining as one, and then becoming mana that flowed away into the Dark.
+
+Perhaps a less kind demiurge would have caused them more pain for what they had done, both to me and to others, but pain was for life, and life was barred to them, now. Their times of struggles were over.
+
+I preferred peaceful ends to horrific ones.
+
+- - - -
+
+Never-alone among the Dark, I looked up at my best friend, my inspiration and my love, and said, “Mother, Father, and Sister are probably all worried about me. Let’s go see how they’re getting on in this new universe. My Carving Knife will reunite us, soon enough.”
+
+The Dark coiled around me, and we went.

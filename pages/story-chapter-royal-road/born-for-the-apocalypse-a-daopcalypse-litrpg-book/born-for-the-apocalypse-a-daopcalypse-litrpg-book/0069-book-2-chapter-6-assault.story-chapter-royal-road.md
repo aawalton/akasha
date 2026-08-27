@@ -1,0 +1,49 @@
+---
+id: 0c84d5c3-f83b-54e4-bc45-f906dbee2803
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 6- Assault"
+slug: 0069-book-2-chapter-6-assault
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 69
+ownLength: 1079
+unit: words
+publishedAt: 2025-05-15
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2281074/book-2-chapter-6--assault"
+royalRoadId: "2281074"
+---
+
+68:
+
+Jack cut off his Pendant’s Mist-Walk ability before it could obfuscate his group’s vision, finding himself at the base of the dune in what had to be the greatest sprint of his life, so much so that he was thankful for the upwards curvature of the dune acting as a dampener for the tremendous momentum he had built.
+
+“What the fuck!” Jin blurted out as Jack moved past her, albeit outside of the reach of her spear in case she instinctively reacted to movement in her vicinity.
+
+“Sarah, behind you!” Jack screamed out even as he ran up the dune, having known from the moment he had committed to his charge that there was no retreating for him, not if he wanted to minimize casualties— the middle-aged man’s Dao Mark was too dangerous if the conclusion Jack had drawn was correct and the brown-haired woman had yet to reveal her own Dao Mark, if she had one. “The assassin is back on his feet!” He added for clarification. “Jin, Marcus, with me!” He commanded, not stopping even for a second to see if they had acknowledged his commands.
+
+Within a few seconds, Jack was half-way up the dune and his gaze locked upon the white stone screen that was still in place, an elongated laceration still visible near it’s lip, albeit one that was rapidly repairing itself.
+
+He heard no pained screams or dying throes and Jack’s aim had not nearly been clean enough from such a vast distance to grant her instant death, but at the same time none of his group members had been injured by her attack. So she had either let go of the Qi Projection at an awry angle and ducked behind cover or she had retained the Qi Projection and ducked in time. It was a pity that Jack hadn’t managed to eliminate the target like he had intended to, but he didn’t regret prioritizing the brown-haired woman over the recovering assassin even if targeting the latter was sure to get him a kill. The enemy leader had been content in risking the lives of his weaker group members to act as bait and draw fire from Qi Projections so his partner could kill Marcus from behind the safety of cover, but by prioritizing the lives of his own group members, Jack had created a situation where his group now outnumbered the enemy’s by one.
+
+The assassin’s Dao Mark is centered on camouflage and neither Marcus nor the leader seem to be able to manipulate anything other than their element. He’s also heavily injured and while a Greater Recovery Pill might keep him alive, it’s going to take an hour to fully heal from a Qi Projection to the chest. Sarah will be fine, Jack reminded himself in an attempt to assuage the anxiety churning in his gut, an anxiety that wasn’t concerned for his own safety. Asking Marcus and Jin to reinforce his charge had strategically been the right decision, since the middle-aged man’s Dao Mark was far more powerful than the assassin’s and the brown-haired woman presented an unknown level of threat. Neutralizing them with as much force they could muster in as quick as a time possible was the best way to minimize casualties on their side and yet— a part of Jack couldn’t help but feel like he had made the wrong call.
+
+There was no such thing as a battlefield without risk and it was entirely possible that the assassin had more tricks up his sleeve that would get the better of Sarah and Jack, despite sharing a relationship with her that was of no more than two strangers caught up in the unlikeliest of circumstances that were forced to work together to survive, he did not want that to happen. Sarah was the only one in in the group that Jack trusted and she had earned that trust by displaying her resolve and ability multiple times and now that he was no longer tied down by the ghosts of his past, losing her would mean being more alone than he had been in the old world.
+
+Yet, it was all Jack could do to have faith in her abilities and truly test the weight of the trust he had placed in her as he continued to charge forward, only moments away from cresting the dune.
+
+Then he was there, his way forward barred by a screen of white stone. Trying to flank it would give their position away by lieu of the sound of his footfall and Marcus had already proved that cutting through it was futile.
+
+However, none of that stopped Jack from bringing his left hand down in a crescent arc, it’s length and breadth enveloped by the Essence Siphon Art’s Primordial Claw. If Jack hadn’t tested Primordial Claw on Marcus’s flames, there was no way he’d risk such a brazen maneuver in the middle of battle and even now he wasn’t completely sure that it would work as he intended it to.
+
+Yet, Jack had to believe that no matter how robust the white stone looked, it was still a form of attuned Qi.
+
+The feedback he got was as immediate as it was visceral and Jack had to bite down on his teeth to stop himself from screaming out loud. He felt like he was running his fingers through molten glass as his Primordial Claw tore through the white stone screen that obfuscated the middle-aged man’s form, the makeshift shield dissolving as and where he made contact with it.
+
+Finger-sized blobs of white stone sticking to his Primordial Claw was the source of the nerve-tingling pain Jack had felt, as parting the white stone had not only caused it’s remnant attuned Qi to heat up, but it was also tugging at the Unattuned Qi he was channelling through his Primordial Claw.
+
+Jack wouldn’t be able to keep it up for long and already a few blisters had begun to swell up on his hand, but he could manage a second or two longer.
+
+And that was all he needed.
+
+A moment later, Jack got to watch the shell shocked expression of the middle-aged man as the white screen he was using to shield himself from harm was bisected from the centre, it’s two halves thumping against the sand in opposite directions and leaving him wide open to attack.
+
+Activating Moon-flow, Jack lunged for his chest with his sword arm, Moonsword in hand.

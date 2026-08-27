@@ -1,0 +1,221 @@
+---
+id: b2869bad-3ac7-5864-8c19-7274c27ca418
+page-type-slug: story-chapter-royal-road
+title: "v6c49: Watching it Grow"
+slug: 0238-v6c49-watching-it-grow
+partOf: beware-of-chicken
+position: 238
+ownLength: 2902
+unit: words
+ownProgress: 2902
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2474869/v6c49-watching-it-grow"
+royalRoadId: "2474869"
+markedReadAt: "2026-06-29T18:59:33.112Z"
+---
+
+“Thank you again, Senior Disciple Lu Ri. Are you headed back to your post?” she asked him as her team watched the Elders and the audience congregate in groups before slowly moving towards the exits.
+
+Lu Ri put on his hat and gave her a nod. “I will resume my northern vigil,” he said, loud enough that the Elders could hear him… and draw their own conclusions about what he meant, though it was the truth. “Good day, Grand Marshal.”
+
+With that, he turned and left. The Elders watched him go silently. He strode from the Earthly Arena, his coat billowing around him as he set off for his next duty, a true cultivator.
+
+Things had gone as well as Xiulan could have expected as they closed down the official meeting; now, came the real work. Tigu, Delun, Loud Boy, Rags, Yin, and the Torrent Rider set about gathering the Younger Generation, carefully sliding them back into the roles that they had joined, with the Blazing Swords, the White Tigers, the Masons, and Rags’ burgeoning information network. Bai Huizhong staggered off with Bao Wen to the town beyond, his face still pale.
+
+Xiulan herself went to her office, after Xianghua clapped her on the shoulder, giving her a little smile.
+
+She didn’t have to wait long for the first knock at the door, with her assistant Sarnai of the Ravine escorting in Elder Chen of the Framed Sun Sect, the first of many.
+
+Truth be told, this was where most of the actual work got done, with Elders approaching in ones and twos to ask her questions they hadn't felt comfortable discussing earlier.
+
+There were quiet questions about what she thought of Jin’s intent, of the Cloudy Sword Sect’s intent, and always the last one. What would they do if the Demonic forces came again in the future?
+
+She answered each question as truthfully as she could. Jin would stay up north for the most part; the Cloudy Sword Sect would largely be in the Sea of Snow for the duration of their time, and the final question…
+
+“I saw how strong they were, but in the end they were not unbeatable. I have seen it. You can see it. We’re all growing stronger. All we need is time. Time we are now afforded. With the wisdom of our Ancestors and the path we are on… it is my belief that in less than fifty years we could give a good accounting of ourselves. In one hundred, we will meet them directly,” Xiulan swore. “It will take work, but we will not fear the darkness. We know what's out there—and if they return, the Azure Banner will fly over their graves.”
+
+Her words were heeded. Her conviction was clear to the Elders… and now they had an enemy to think of. There was an undercurrent of fear, but it was tempered. To the Azure Hills, the Demons had been a distant, abstract threat. Nothing ever happened in their corner of the world; they were so weak even the Great Enemy avoided them.
+
+Now, they were a target.
+
+The myth of their unimportance had been shattered.
+
+The demons had come for their forefathers and been driven back when they had stood together. Would their children tarnish their legacy? Would they let down their ancestors by failing?
+
+The answer, Xiulan hoped, would be no. They would not be found wanting. And judging by the looks in the Elders’ eyes when they left, her conviction, and the respect the Cloudy Sword Sect had for her, they seemed to start to believe too.
+
+It was a horrible thing to think, but in a way… it was almost beneficial that the Demons had attacked Jin’s home; they had failed, and now the cultivators of the Azure Hills were galvanized.
+
+Framing for each Elder the path ahead and convincing them that the alliance was the path forward was necessary. However, that didn’t stop all the meetings from being utterly exhausting. She expected to meet with all of the Sect Masters save for her father and Xianghua.
+
+The Grand Ravine, surprisingly, had waited until the end rather than push forward to the forefront as she had expected.
+
+They were served tea by Sarnai, Baatar’s granddaughter, and Xiulan’s aide. Butter tea, which Xiulan had developed a taste for. Sarnai brewing the tea gave Xiulan time to gather some of her distracted thoughts, and the final product was just as delicious as Xiulan remembered.
+
+“Thank you, Sarnai,” she said. The other woman bowed and retreated. Xiulan sat up straighter. “How may I help you, Patriarch Baatar?”
+
+The older man chuckled. “First, I wish to congratulate you, Grand Marshal, and thank you for your service. You have done well. The Grand Ravine is pleased with your leadership, and your defense of the Azure Hills.”
+
+Xiulan paused, and allowed a small smile to came to her face. “Thank you, Patriarch Baatar,” she replied, inclining her head. The man felt utterly truthful, his Qi open to her senses, and his respect for her was clear in his tone.
+
+The man nodded. “As for the Grand Ravine, we need no extra reassurances. Your words and actions are enough to know the path forward. Though, I do have a more personal inquiry, if you will allow it, for it is rather rude. The technique you used… that resonance you called. It resonated with the entire province. It resonated with the earth, and roused it to action.”
+
+Xiulan closed her eyes. “Yes. It did. It is something I did not use lightly. What I did… was not without consequence to the Azure Hills.”
+
+Baatar’s eyes narrowed. “How so?”
+
+“It damaged the earth itself. The damage is repairable… but it is not something I care to repeat. That power is not mine to wield; it is merely granted, and only in the worst of circumstances.”
+
+Baatar looked at her long and hard, considering her words, before the old man made his judgement. “It is good you treat that power with the reverence it deserves, Cai Xiulan. Thank you for answering my question. Now, I understand Master Rou has accepted our invitation to the Ravine. Tell me, how may we host him properly?”
+
+Xiulan nodded at the shift in the conversation. “He will want a minimum of ceremony… and to see you as you are. He holds some interest in your culture, and would prefer it unsanitized. He will travel the Grand Ravine without fanfare, but understands there are some places he will not be allowed to tread, for they are important to your people. Additionally... his wife and son will be coming with him on his journey.”
+
+Baatar paused.
+
+“He shows us great face by trusting in our hospitality,” the man murmured, then he nodded. “I shall make the necessary arrangements. Thank you for conveying our message, Grand Marshal.”
+
+“I promised, did I not?” she replied with a smile.
+
+The man’s face shifted from stern to something almost grandfatherly. “Indeed you did, Grand Marshal. Your words and deeds carry much weight within our Ravine, and I dare say outside it. After all, who else but our Grand Marshal can accomplish such impossible tasks?”
+
+Xiulan chuckled. “Flattery will get you nowhere, you wily old fox.”
+
+The Patriarch of the Grand Ravine stood, and made the gesture of respect.
+
+And then Xiulan could finally, truly rest for a moment. Though only for a moment, because there was another knock on her door as An Ran and the rest of her students poked their heads in, hopeful smiles on their faces.
+
+…Xiulan couldn’t be mad about that.
+
+“Come in,” she called to them. “And tell me all about your solstices.”
+
+=======================================
+
+The rest of the day after the meeting had been quite relaxing for Bi De. Tigu and Yin had managed to command most of the attention, letting him, Ri Zu, Yun Ren, and Gou Ren have a relatively unmolested tour of the Dueling Peaks. Yun Ren had nearly joined Biyu… but she had to go off with Xianghua to finalize some matters about the Crystal Emporium’s induction into their ranks. It was a wonderful time, examining all the repair work and hearing Brother Gou Ren discussing his passion with the others who were a part of the Dueling Peaks Restoration Commission. Their enthusiasm was quite infectious as they brought out schematics and formation arrays they were working on. Gou Ren practically had stars in his eyes the entire time, traversing the newly-opened sections of the mountain.
+
+They weren’t the only passionate ones. It was a joy to watch Tigu drilling with the White Tigers, and Yin racing along with the Blazing Swords. His Junior Sisters had grown into fine leaders while he was gone, their voices commanding respect and their troops motivated.
+
+There were still the occasional hitches as they figured each other out again after the break, but those smoothed out swiftly.
+
+Yun Ren’s crystal chimed, even while the rest of them watched on with warm eyes.
+
+“They’re really building something here,” Ri Zu mused. “Ri Zu almost feels left out.”
+
+“I’m sure you can join up. Tigu would love having you as her junior,” Bi De teased, but Ri Zu seemed to actively consider it.
+
+“Ri Zu still has her notes on from when she was reworking the Shrouded Mountain’s Spiritual Doctor System…” she said.
+
+“That is actually a fantastic idea,” Bi De replied. “Even if you do not join, I’m sure they would value your expertise.”
+
+Ri Zu nodded firmly.
+
+Eventually, they saw all there was to see and they ventured into Dueling Town. It was a lot emptier than the last time they had been here, but there were still a great many people on the streets going about their business. The fresh look of the repairs Bi De remembered had faded. They weren’t special or new-looking, they were just a part of the town now. But the difference was still visible. Little scars crisscrossed the place, scabbed over and healed.
+
+Bi De knew his own home would recover just as well.
+
+Eventually, the sun started to set and the town lit its lanterns. From the Dueling Peaks came the cultivators… and they were rather quickly accosted by the Xong Brothers’ friends.
+
+“Hey Image Master—ahem, my apologies. Chen Yang pays his respects to Xong Yun Ren,” the other cultivator started, changing to a formal and quite stilted tone.
+
+Yun Ren grimaced at the tone… and then his eyes caught onto the Still Image Recording Crystal case the other man had attached to his hip.
+
+“Chen Yang, Brother. You got one? How is it?” he asked. The eager tone cut through the stilted awkwardness, and the other man brightened up.
+
+“Well, I’ll show you!” Chen Yang declared. They swiftly found their way to Chao Baozi, picking up more and more cultivators as they went. At first orbiting carefully… and then just approaching when one of the Xong Brothers would call out their names.
+
+Soon began a game of comparing images, much to the enjoyment of the crowd. The dumplings quickly began arriving, along with the drinks.
+
+The place still had the fascinating tables, carved by Tigu and Delun.
+
+“Oh, the light on that one! Yang, you’ve got a great eye for this,” Yun Ren praised. The other man beamed. “Let me see one from your adventure!” Yang demanded.
+
+“I don’t know about that. There are grave secrets, Yanno?” Yang started to wilt. “Well, I suppose.” Grinning, Yun Ren pulled out his own Recording Crystal.
+
+“Heavens, it's so beautiful!” Chen Yang of the Framed Sun Sect exclaimed as Yun Ren projected images onto the wall. Ah, the floating islands of the Sea of Snow, catching the light of the aurora and shining like rainbows.
+
+“Three cheers for the Image Master!” somebody else called, to much laughter.
+
+Slowly, more and more cultivators started trickling in; Delun and the rest of the Masons, Biyu with Xianghua, Tigu and Yin with their companions.
+
+Ulagan Tarkhan marched right up to Gou Ren and clapped him on the shoulder, lifting a gourd full of drink. “Cousin! Drink with us! I need to congratulate you on your betrothal!”
+
+There was a great cheer, and Gou Ren found himself the center of attention, hands slamming down onto his back.
+
+The atmosphere was quite good, and Bi De found himself and Ri Zu not at the center of attention, but beside it, just taking in the sights.
+
+Biyu found herself looking just slightly bewildered next to Xianghua as the two women were surrounded by ladies from the Grand Ravine, whose eyes were wide and hungry for gossip.
+
+“Lady Biyu, your scarf is so beautiful!” a woman in the garb of the Grand Ravine declared. “And so bold! Are you already married?”
+
+Biyu shook her head. “Ah, no. We’re still betrothed. It's what this red rope is for. We haven't been able to go to his parents’ house yet… sooooo…”
+
+There was dead silence for a moment.
+
+“Wait, that's what that is for?” another one of the women shouted, her eyes locked on the red rope that bound Biyu’s arm. “Oh, Earth and Sky, that's so romantic!”
+
+The dam broke and the other women of the Ravine piled forward to get a better look at Biyu’s arm, and the pitch started rising higher and higher, the sounds of excitement and enjoyment most amusing.
+
+Eventually Xiulan’s Petals joined too, big smiles on their faces. Ri Zu looked at them for a moment and then with a pop she was a rat again. She waved to Bi De and he chuckled as she slipped through the crowd. An Ran startled for a moment when Ri Zu scampered up her leg, but the shock soon turned to joy. She hugged Ri Zu close.
+
+Bi De watched it all, pleased. Until he noticed somebody else approach him.
+
+“First Disciple Fa Bi De?” the man asked.
+
+“Yes?” he replied.
+
+“The Elders of the Azure Hills respectfully invite the First Disciple to drink with them.”
+
+=================================
+
+Bi De found himself in another restaurant. This one was much more upscale than Chao Baozi; the servers were polite, respectful, and to his surprise, deaf. The way they reacted made it obvious. Fascinating.
+
+He soon found himself in a well-appointed sitting room, with silk cushions and fine lacquered trays.
+
+The Elders of the Azure Hills were mostly seated around the room on those cushions. The Patriarch of the Grand Ravine Sect nodded to him, and gestured to the cushion beside him at the head of the room.
+
+“Thank you for accepting our invitation, First Disciple,” Baatar said, once Bi De was seated.
+
+“How may I aid the Elders of the Azure Hills?” he asked pleasantly. Elder Xinling was rather blatantly staring at him, to his amusement.
+
+The Patriarch of the Grand Ravine snorted. “It is moreso how may we aid you, First Disciple,” the man said.
+
+“Oh?” Bi De asked, surprised.
+
+“We understand we have you to thank, Fa Bi De, for the retrieval of our Ancestors’ history,” Cai Xi Kong said, his smile warm. Bi De nodded to the man. “The Elders of the Azure Hills were wondering how they could repay that debt.”
+
+There were several murmurs of agreement.
+
+“Your benevolence is the subject of much discussion,” Baatar agreed. Bi De paused, slightly taken aback. Truthfully, he expected nothing.
+
+“To hoard the knowledge was of no use to me. To return it to its rightful owners cost me nothing. Why would I not give it back? My Master is fond of the saying: 'we give to the earth and the earth gives back’,” Bi De quoted. He saw the Grand Ravine Elder’s eyes widen. “So I have given. The crops that bloom from my gift may not fill my belly, but they shall surely fill someone else's.”
+
+“Truly, Master Rou is most wise,” Baatar said, his voice slightly awed. “Yes, we’re quite looking forward to hosting your Master.”
+
+“I’m glad. I know not his itinerary, but he will be visiting the Grand Ravine and the Crystal Hill at least. Master Gen is a fine host,” Bi De said, though he noticed the monkey wasn’t in the room.
+
+The room was quiet after his words, and then another spoke. On Gang of the Rumbling Earth Sect, who had drops of alcohol on his robe, leveled a dead-eyed stare at Bi De.
+
+“Spirit Beasts, huh? What does Master Rou think of the creatures anyway?” his voice was rough sounding, and full of some emotion Bi De couldn’t place.
+
+“That they are about the same as humans. They think, therefore they are. Thus, he treats them with the dignity he treats all men with,” Bi De answered.
+
+There was a pause.
+
+“He thinks them the same as humans?” another Elder asked carefully.
+
+“Yes. It was one of the first lessons he taught me. Why would it be strange? You already work with many.”
+
+“But the Monkeys of Crystal Hill and little Shaggy Two are exceptions, aren’t they?” another inquired.
+
+Bi De raised a brow.
+
+“Are they?” he asked.
+
+There was a pop.
+
+And there on the nice silk cushion, Bi De sat in his true form. The Elders of the Azure Hills, save Xi Kong, stared in utter bafflement.
+
+Bi De picked up his cup with his wings and took a sip.
+
+“A fine vintage,” he complimented.
+
+Mouths opened. A familiar shocked question echoed across the room.

@@ -1,0 +1,235 @@
+---
+id: 6570f21f-0c53-5376-86c0-5f66a4ef5c88
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 17 - Ancient History I"
+slug: 0019-book-4-chapter-17-ancient-history-i
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 19
+ownLength: 4752
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2644317/book-4-chapter-17-ancient-history-i"
+royalRoadId: "2644317"
+---
+
+With each day that passed, Ranthia… well, moved on wasn’t the right phrase, but she gradually absorbed her grief. The pain diminished slowly, and Ranthia strived to pretend that everything was normal and okay. It wasn’t, but no one else needed to be burdened by that. She had asked enough of both Xaoc and Avyna.
+
+She was strong enough to carry the rest.
+
+One of the nicer things about Remera coming out of the siege intact—and without any sign of retribution from the shimagu? Travelers were more willing to visit. And with Avyna’s shop—and bargaining on Remera’s behalf—giving the base a proper economy, unlike almost every other base, they were one of the most popular stops in the region. Second only to Coalition City itself.
+
+Or, at least, that was how Avyna explained it when Ranthia asked about the seeming non-stop parade of [Merchants] and even the occasional entertainer. Avyna was rather self-satisfied about the whole thing, because Remera was the only base that wasn’t operating as a net loss for the coalition. That much Ranthia could vaguely understand, conceptually, though why other merchants and convoys cared about that was beyond her.
+
+She wasn’t about to try to ask for further details though—the explanation that she received had baffled her until she decided to distract her beloved with numerous kisses in an effort to spare them both.
+
+Besides, she had her own scholarly obsession. She was determined to come up with a cute, affectionate nickname for Avyna—using High Elvish. She was finally becoming “almost passable” at her pronunciations and her internal dictionary of words and phrases grew daily.
+
+Ranthia’s latest effort had failed. The intent was a cute phrase that meant ‘little gem’. Except apparently, her efforts were better translated as ‘expensive dust’. When Ranthia suggested that it still sounded cute, Avyna rolled her eyes and shooed her off with a bemused grin. Okay, so ‘little gem’ had probably been a bit juvenile anyway—an obvious fact that, somehow, had never managed to dawn on her before the attempt. But Ranthia could do better, and she would… eventually!
+
+One of the largest trade caravans that Ranthia had ever seen had encircled Remera. Avyna was frustratingly busy, but Ranthia was still glad for her—nothing boosted Avyna’s mood quite like business deals did. Even if Avyna still preferred to negotiate without Ranthia there, since—allegedly—she could be “distracting.” As if she—and her wandering hands—were anything but the very model of innocence!
+
+So Ranthia found herself exploring Remera to pass the time until Avyna concluded her various business dealings. Spring had finally arrived, and the evening was in that wonderfully comfortable range of cool. Legionaries and dwarves were out in droves, enjoying the weather. Some exercised or ran in clusters, but most were enjoying meals or company in clumps. Sure, most of the people of Remera were crowded around the caravan, seeking goods unlike any Avyna bothered to stock, but Remera was still bustling with laughter and voices.
+
+It was nice. There were often musicians—of variable, yet often limited, skill—around the area that she was approaching, and she luxuriated in the mood that surrounded her. Remera was at peace and the people were happy. It was enough to warm the scars on her own emotions.
+
+And then a hauntingly beautiful voice reached Ranthia’s ears—a voice rich with femininity, yet it was somehow deep and sonorous at the same time. Ranthia had never heard anything like it before, she found herself almost outright drawn toward the source of the beautiful song. The music came from the little raised wooden stage—used by Legion brass to yell at the others in the training yard by day—that was one of the popular hangout spots in Remera by night. Once the day’s training regimens were done, there were almost always Legionaries hanging around offering music and gambling while they shared alcohol (that they most certainly didn’t possess; it’s just tea, sir).
+
+Atop the stage was an elven woman with long, vibrant red hair and striking blue eyes. She sang a familiar song—Ranthia was pretty certain she had heard it from [Bards] in Ariminum before she left—while what should have been colorful Mirages moved through the air around her and played out the roles of the characters in the ballad. The gorgeous woman—not that she was Avyna’s equal—swayed gently while she sang, allowing her natural assets to entice the eyes of her audience. Though Ranthia couldn’t help but notice that her movements weren’t quite synced to the melody. Not that most of the audience seemed to mind—the elf’s prominent chest seemed to draw more attention than her Mirages did.
+
+The sensuous elf was a triple classed [Artisan]—quite plainly a [Bard]—with Sound, Mirage, and Brilliance. Given her first and third classes were both capped at level 768, while her second was only at level 291, she was obviously in the midst of a cycle. Ranthia had never cared much for [Bards]—with the exception of the musicians at the party Avyna’s trade associates threw for her—but she had to admit, the woman was good. She wasn’t a dancer, but her song was easily the best that Ranthia had ever heard, edging out even the ‘muse’ from Fausteo’s Musical Theater.
+
+If such a thing weren’t an impossibility from dubious stories, Ranthia would have sworn that there was some compulsion behind the music—it was that good. Ranthia lingered while she could until enough time had passed. Once she was optimistic that Avyna should be free, Ranthia set off to find her.
+
+Music that good needed to be shared, plus Avyna would actually be able to enjoy the Mirage display—[Vision of the Void] rendered it somewhere beneath merely muted and forgettable, tragically. With ambitions for a lovely evening of dancing to the music with her own perfect elf, Ranthia hurried through Remera’s crowds.
+
+“If your surprise is another attempt to get me to join you for training…” Avyna trailed off ominously, though the humor was apparent in her voice.
+
+Ranthia just laughed and, as they rounded the corner, carefully extricated her fingers from Avyna’s horns. She had chosen to muffle her lover’s ears, rather than her eyes. Ranthia just smiled smugly as Avyna took in the scene with the tension of surprise writ throughout her lithe body.
+
+It was still the same ballad—a rather long one, as Ranthia recalled—so the impeccable song still caressed their ears while the (presumably) vivid Mirages crafted a lovely show (…in addition to the show the elf’s curves provided). Avyna’s surprise lingered for far longer than Ranthia had expected, which had Ranthia outright beaming. This particular ballad didn’t exactly invite a dance, but Ranthia—
+
+“We need to leave. Now.” Avyna urged in a low voice.
+
+“What?” Ranthia asked as she blinked. Avyna’s severe reaction caught her flatfooted.
+
+Ranthia barely had time to parse it though; Avyna spun around and pushed at Ranthia’s shoulders, urging her to move. Ranthia was confused, but if Avyna was that insistent, she wasn’t going to delay. She turned and started what was, at their level, a brisk walk.
+
+Yet, before they could escape around the corner…
+
+“Oho, wait is that… Why ‘tis my Avynaria! Apologies, my good audience, but this is a reunion worthy of its own song! ‘Tis been a millennium, my sweet Avynaria, but that is you!” The same awe-inspiring voice rang out, an instant after the song died on her lips.
+
+Avyna froze again, and this time Ranthia froze up too.
+
+Oh. Oh no. What had she done?! She hadn’t even considered the fact that Avyna might know the elf—it wasn’t as if she could be expected to know any given random human! Gods and goddesses, it was hard to imagine the odds behind the coincidence; there were more elves than there were humans, after all!
+
+Ranthia slowly turned, but by the time she did, Avyna was already facing the elven [Bard]. Ranthia stepped alongside her lover—Avyna had a polite expression on her face, but her eyes were practically screaming open hostility—and joined her in eyeing the red-haired elf warily.
+
+“Ashiwynn, it is good to know that you have been doing well. Unfortunately, I have no time to catch up currently. Perhaps we will see each other again before you depart. Now, if you will excuse us…” Avyna’s voice was just as stiff and strained as her demeanor.
+
+“Oh, my sweet Naria, you know I prefer to be called Ashynn. I’ve missed hearing my name on your lips, you know… Stay, sing with me, and perhaps afterwards we—” The obvious ex (fuckfuckfuck!) cooed in a seductive tone.
+
+“Apologies, but the two of us have plans.” Avyna answered, her tone no longer cordial—Avyna was letting her words turn openly frosty.
+
+“Two… You mean… with that?! Oh Naria, please don’t tell me you’re spreading your legs for some humdrum mortal!” The [Bard] called, aghast.
+
+Ranthia’s urge to murder the woman increased even further.
+
+Avyna switched to High Elvish and spoke rapidly in an openly cold, boastful tone. Ranthia struggled to follow the pace Avyna set—she wasn’t anywhere close to fluent—but her cheeks rapidly reddened as she found the gist of Avyna’s meaning. She was pretty certain that her beloved was boasting about Ranthia’s prowess exceeding that of the [Bard]! In rather broad terms too—assuming Ranthia understood certain words correctly.
+
+The red-haired jerk scoffed and proclaimed a challenge—a formal one—to compare her talents against that of any mortal. Okay, even Ranthia could tell the woman’s boast was intended to be salacious, but she decided to play the part of a naïve fool trying to master the language.
+
+Ranthia called out her acceptance—in High Elvish. Both of the elves seemed startled—Avyna in particular looked as if she was torn between delight, despair, and a burning desire to correct Ranthia’s pronunciation. But at least it stalled the brewing argument out.
+
+And with the argument stalled, Ranthia was ready to go all in. She plastered a broad—definitely not crazed—grin across her face and turned to address the crowd of humans (and a single bored-looking dwarf).
+
+“What do you say?! Our guest seems to think she’s the greatest performance artist currently in Remera! Would you all like to see Sentinel Grace prove that my name is well earned?! No dancer trained within Fausteo’s Musical Theater would lose to some street performer after all!” Ranthia worked the crowd.
+
+The men and women gathered cheered uproariously.
+
+The redheaded elf looked briefly alarmed at the sudden turn of events, before she smiled a venomous smile.
+
+“So be it! I’ll show my sweet Naria exactly how inferior that creature is! Spread the word everyone, for tonight beneath the full moons, you shall see my greatest performance!” The [Bard] recovered swiftly, if nothing else.
+
+…So much for intimidating her, but that was fine. Ranthia was confident in her own prowess, and, by Xaoc, she was determined to put that smug, self-important wannabe songbird in her place—elf or not.
+
+“Oh, my love, I did not want to get you involved in this!” Avyna whispered fiercely.
+
+Ranthia was in the middle of changing into her mistweave dress. She was trying to get the dark blue legless bodysuit settled just right across her curves—seeking perfection just as earnestly as she had before she met Avyna’s peers at that ill-fated party. It was a rare moment that she kind of wished her hair was long enough to do something with it, but there wasn’t a [Stylist] attached to a military base (…which, honestly, was kind of odd given how many amenities Remera had and the officers’ fondness for showing off).
+
+“It was that or murder her right then and there. I figured you would prefer it if I chose the nonviolent option.” Ranthia answered with a smug grin.
+
+“My love, she is my senior—I would be surprised if she is not at least on the same cycle I am, perhaps even one or two further in. Worse, I believe that all three of her classes are related to her performances.” Avyna was openly fretting.
+
+“Yeah, all three of her classes are [Artisan]-tagged. Sound and Brilliance are capped, Mirage is still early into its cycle. But don’t worry, I meant what I said. No headlining dancer from Fausteo’s Musical Theater gives a bad performance! Plus, think it through, babe. With my station, the crowd’s going to be on my side. I’m bold, but I’m not stupid; I knew what I was doing when I challenged her.” Ranthia gave a reassuring smile to her beloved, to help reinforce her words.
+
+And then she further reinforced them with a quick kiss—she had to lean over there anyway to retrieve the sheer, white dress that was worn over the bodysuit. She couldn’t let the kiss linger for too long, she still had other prep to do, but moments of stolen affection were one of the best parts of being in a romantic relationship! After, she settled the floaty mistweave over her body and swiftly arranged it into place.
+
+Next up were her cosmetics. With a practiced hand, Ranthia began to paint her Reman cosmetics around her blue-and-silver mistweave blindfold. Avyna ambushed her with a few touches from her own elven set once Ranthia thought she was done, enhancing her mundane look into something more. Subtle glowing pigments and patterns that gave her a more enchanting visage, even with the necessity of her blindfold.
+
+Ranthia nodded to her own reflection in the mirror, then turned to Avyna.
+
+“How do I look?” Ranthia asked in her best cheeky, flirtatious tone.
+
+“Gorgeous and [Sexy], my love. I just hope it will be enough.” Avyna’s smile was somewhat flat. She clearly had no enthusiasm for the contest.
+
+But Ranthia was determined. She had never liked [Bards], and Xaoc had seen fit to put one in her path that had insulted the love of her life while brazenly ignoring Avyna’s feelings. Which meant that she needed to put the woman in her place, and the best way that Ranthia knew to do it was to beat the foul elf at her own game!
+
+“I… really need to stop underestimating bored soldiers.” Ranthia mused.
+
+The red-haired elf nodded mutely beside her, seemingly just as… disturbed as Ranthia was.
+
+The little wooden stage had been expanded upon while they prepared and waited for nightfall. After everything the legionaries and dwarves had done, there was plenty of room for two acts—even with Ranthia’s range of movement. It was simultaneously impressive and intimidating; she had expected them to take turns!
+
+Worse, it seemed that most of Remera was gathered for the event. Avyna was fidgeting in front of the crowd, with an expression that Ranthia could read all too easily—she was torn between her nervousness over what was about to happen and her frustration that she hadn’t thought to grab snacks and juice to sell to the crowd. It was adorable and it helped settle Ranthia’s nerves.
+
+And then the awful elf had to open her noise hole.
+
+“No hard feelings, mortal.” The redhead offered Ranthia her hand. There wasn’t a single trace of her momentary shock any longer, instead she was thoroughly—and exceedingly punchably—smug.
+
+“Oh, there are plenty of hard feelings, I assure you. I’ll pass on the handshake; I might not be able to resist the urge to crush it.” Ranthia replied. She kept her voice pure and saccharine and her smile unsettlingly wide.
+
+That, at least, seemed to shut the damned [Bard] up.
+
+Which was good, because almost that very moment, the mousy Sound [Mage]—the one that gave Ranthia essential orders like “stay there,” repeatedly—bounced excitedly onto the stage.
+
+“Ladies and Gentlemen of Remus! And our dwarven allies too! Oh, and our honored guests from the latest trade caravan! For tonight, Remera has prepared for you all a special treat! A clash of the arts! Introducing the wandering minstrel Ashynn! She has recently completed a tour of Remus and comes to us with music and stories from around all of Pallos!” The exhaustingly energetic youth called out.
+
+The [Bard], somewhat nervously, skirted around Ranthia and made her way onto the stage with a flair of showmanship, sashaying her hips as she went.
+
+“And coming from Remera, you all know her as the deadly butcher that tears our enemies asunder! But before she was our Sentinel she trained for years at a once-legendary musical theater within the capital of Remus! Now see what her exotic movements can do when they’re not accompanied by blood and entrails! Here’s Sentinel Grace!” The mousy girl shouted.
+
+…Ranthia had quite a few opinions about that introduction, but she set them aside and focused on her (properly bright) smile as she twirled out onto stage. Her mistweave dress was obviously a hit, given how many eyes she had following her every move. She had never worn it around the base before, and the seemingly weightless, sheer material floated and accentuated her movements just as effectively as her dancer’s attire at Fausteo’s once had.
+
+The crowd was charged to a frenzy between the energetic introductions from the normally mousy youth, the exotic and—begrudgingly, yes, still attractive—elven [Bard], and the sight of Sentinel Grace connecting back to her performative roots. Unfortunately, there were also crude whistles and leers that were directed at the two competitors, though neither let it faze them.
+
+Ranthia could smack the legionaries around later.
+
+Both women worked the crowd as they knew best. The curvy red-haired elf solicited advice for story-rich songs from Remus to play and finessed the crowds with minor corrections until someone called out the song she intended to play from the start. A regrettably effective ploy to engage them, which made them feel as if they had some meaningful role in her performance. Ranthia, on the other hand, was all smiles and happy energy; she accentuated every word she said with flourished movements to maintain visual interest while she joked with the crowd about hoping for some music she could dance to.
+
+But no matter where her voice went, Ranthia’s gaze never left Avyna’s. The blindfold hid the fact from everyone else, but she trusted that Avyna would feel the connection.
+
+The [Bard] announced “the people’s” choice of song and settled into her position.
+
+“Well, looks like that’s my cue. If you have the vitality for it, try not to blink! You won’t want to miss a single moment of this dance, I’m sure!” Ranthia announced with an unseen wink.
+
+She raised herself onto her toes.
+
+The [Bard] had no instrument, but she didn’t need one. Amplified and enhanced by her Skills and Sound element, her voice was a rich tapestry of music in and of itself. Her illusionary performers made by her Mirage skills no doubt provided the visual interest to make up for the lack of the flourish of an instrument.
+
+Ranthia had no performance-specific Skills any longer. [Rhythmic Grace] and [True Grace] amplified her dance, of course, but they were ultimately combat Skills—even if [The Art of Dance] had helped to develop them. But, for Ranthia, the art of dance was more than just a stage performance—it was life itself. Her battle dance was still less than half a step removed from its performative roots. In both, she had to give it her all or she might lose everything in a single moment of carelessness—whether it was her life or, to borrow Fausteo’s phrasing, the applause.
+
+She was trained by Remus’ greatest dance master. She knew how to move with flair, and she was confident that she could compete with any [Bard] her own level.
+
+Except Ass-whatever wasn’t Ranthia’s level—Ranthia needed to punch up. She was competing with a triple classed performer who had two classes capped at level 768, while Ranthia only had her dance-focused [Warrior] class at 635. Ranthia’s secret weapon was, of course, [Sexy]—assuming a Skill at less than level 300 could actually compete with an elf.
+
+Not that she could afford to fret.
+
+Ranthia let go of her thoughts as she settled into the dance. She allowed them to drift away as she lost herself in the [Bard]’s song. Letting her opponent control the competition this way was… suboptimal, but it was that or Ranthia had to awkwardly try to hum a different song. There was no flow of battle or energy to react to; she had to step into and embody the music, just as she had been trained.
+
+Of course, Ranthia wasn’t stuck just dancing along to the music. Her own passions and whims fueled her dance, carried by her emotions. In many ways, her audience was singular: the dance, the competition, everything—it was all for the sake of the woman she loved.
+
+Ranthia’s focus was so singular that she failed to even notice the eyes in the crowd that left her dance, seduced by the light show and the more generous curves of the [Bard]. One after another, they abandoned Ranthia. The Mirages weren’t quite in tune to the music, nor were the [Bard]’s own lascivious movements. But few in the audience had the training or expertise required to notice, and none of them were such ardent patrons of the performative arts that they were bothered by mere differences in rhythmic mastery. Had the audience been more discerning, Ashynn’s relatively anemic level for her Mirage class and her comparatively careless movements would have sunk her.
+
+But their audience was comprised of soldiers. The vibrant illusions were a dazzling spectacle they hadn’t seen since Ariminum. Coupled with the impossibly beautiful vocals and the woman’s too-perfect body, she was a feast for the eyes that exceeded the movements of a solitary dancer matched to the same rhythm. Besides, Ranthia was infamously unavailable, while the elf’s playful eyes made wondrous promises.
+
+Fortunately for Ranthia, she wasn’t alone.
+
+A discordant note seemed to physically cut through the [Bard]’s ongoing song. Both performers were pulled out of their respective reveries—with uncanny unison, their eyes found the source of the interference.
+
+Avyna stood there, with a downright savage smile on her face. Glorine was panting for breath nearby, even as four of the better musicians in Remera readied instruments that hadn’t been there a short time ago. They were ringed by familiar faces—legionaries and dwarves that were friendly to either Ranthia and/or Avyna, bolstered by several people that owed their lives to Sentinel Grace.
+
+“You serve the god of Chaos, my love, so do not dance to her amateurish tune!” Avyna roared out, her voice rich with manic emotion.
+
+Ranthia wasn’t sure if she had ever seen her oft-composed lover so worked up, but a piece of the mystery resolved itself an instant later.
+
+Avyna launched into her own song. Gods and goddesses, Ranthia had never even known Avyna could sing—she had never heard it before. It was an elven tune, namely a poem that Ranthia had struggled to read once, not that she’d known it was meant to be sung. But that wasn’t what threatened to make Ranthia stumble—it was her voice.
+
+Avyna had no skills to help her, aside from whatever nonsense her [Elven Experience] Skill provided. But her voice was just as beautiful and perfect as she was.
+
+I shouldn’t even be surprised, Ranthia reminded herself with a smile.
+
+The musicians matched Avyna’s beat after a few false starts, aided by the claps that Avyna provided, and soon the instruments provided a rich—if somewhat rough—accompaniment to Avyna’s beautiful vocals.
+
+Ranthia had almost stopped moving, but after she took a deep breath, she pivoted her dance to follow the new song. And with the [Bard]’s monopoly over both the music and the atmosphere broken, eyes returned to the dancer.
+
+The poem that Avyna sang had been a favorite of Ranthia’s, once she had finally expanded her budding repertoire of High Elvish far enough to understand it. She was never Pallos’ biggest fan of poetry, but it was a beautiful tale of two women that fell in love. The strength and depth of the bond that they forged forced their families to set aside an ancient political feud and healed a land. Their love was challenged, but neither woman was young—both were high-ranking women of proven power and cunning. Their love was new, but its depth was greater than their prior matches had found. The women brought peace to their land, and at the end of their two-thousand-year pledge, they parted ways for a single winter. Then, with the arrival of spring, they returned to one another and renewed their bond—a bond that promised to be forever unbreakable, no matter how it was tested.
+
+Ranthia had no idea if the poem—song, apparently—was fanciful or if it was based on historical events. If it was true, since it was about elves, it was entirely possible that the women were still together or had ascended side-by-side to become goddesses.
+
+Ranthia had never asked, of course. Not all things of beauty needed to be explained. She was enough of an artist to know that much. But she definitely aspired to love Avyna just as intensely—and just as eternally.
+
+Ranthia did her best to do the story’s heartwarming theme and her own aspirations justice with her dance. Ranthia manifested an image—of herself, and she was hoping no one would read into that—dressed in her toga and, using a blend of [Submind] and her own conscious orders, had it join her dance as her partner. As the story progressed, she and her image came together and separated as the poem required—concluding with Ranthia dipped and kissed by her own image.
+
+Ranthia and her image held their positions as the music and the final note of the song came to an end. Then, with an airborne pirouette, Ranthia leapt from the stage and embraced Avyna. She swept the elf into her arms and easily sprang back onto the stage, dismissing the image she had abandoned.
+
+With their arms around one another’s waists, they bowed to the audience while people cheered. Then they shared a long, tender kiss.
+
+The [Bard] still wasn’t even done with her song, but few in the audience seemed to even notice.
+
+Ranthia was sweaty. The dance hadn’t been particularly demanding, at least not physically. But there had been a lot of emotional weight behind it, and she poured everything she could into the performance—which always seemed to cause her body to sweat just as intensely as it would at the peak of physical exertion. Bodies were weird, but the chaotic nonsense was just fine with her!
+
+It was possible that she was in a somewhat good mood.
+
+Avyna, quite surprisingly, seemed to not care that Ranthia was positively dripping—she remained tightly attached to Ranthia while they exchanged small expressions of affection, both physical and verbal.
+
+“Should I just scoop you up and rush past everyone out there so we can get home already?” Ranthia offered with a playful, yet unseen, wink (it was possible that she was a little too used to not wearing her blindfold around Avyna).
+
+They were inside a small, borrowed tent to unwind for a moment. The crowd still waited, as did the obnoxious elven woman. Ranthia was confident that they had thoroughly defeated her, but it was harder to feel confident that she wouldn’t cause a scene.
+
+Avyna laughed at the offer.
+
+“Next time, my love, when I finish business deals and inform you of my desire to take you home immediately, please just allow me to have my way and accept your imminent ravishing. Never again talk me into doing something else that can escalate into nonsense.” Avyna mock-complained.
+
+“Definitely.” Ranthia agreed immediately.
+
+“But I suppose that we should be respectable and finish this properly. I still cannot believe my luck was this poor. Of all the [Bards] on Pallos, why did it have to be Ashiwynn?!” That bit of complaining definitely wasn’t playful, Avyna was genuinely incensed—to the point that what was presumably the ex’s name sounded like a curse from Avyna’s lips.
+
+Ranthia nodded her solemn agreement, before she offered Avyna a final kiss—happily accepted. Then Ranthia slipped off the bench they were sharing and offered Avyna her hand.
+
+“I’m pretty sure I intimidated her before we started. If you want, I could do a nice menacing growl. Maybe she’ll let us walk right past.” Ranthia offered with as much sincerity as she could muster.
+
+Avyna laughed and took her hand, letting Ranthia pull her to her feet before she answered.
+
+“I shall give you a signal if I decide it is necessary, my love.” Avyna promised with a smile.
+
+Hand-in-hand, they emerged from the tent, back into the crowds.

@@ -1,0 +1,115 @@
+---
+id: f472ee14-51bf-5d1f-9f3e-03b12f8661b5
+page-type-slug: story-chapter-royal-road
+title: "133. Changed Plans"
+slug: 0133-133-changed-plans
+partOf: breaker-of-horizons
+position: 133
+ownLength: 2096
+unit: words
+publishedAt: 2021-08-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/731509/133-changed-plans"
+royalRoadId: "731509"
+---
+
+[Several hours earlier]
+
+This is it, Ambrose thought as he watched Caden and Lynus fly off. It's a knot. I can feel it.
+
+Emilia was gone. It was an elegant knot and he couldn't help but marvel at it. They had no idea where she was because no one had their eyes on her when she vanished. The one person who might have been able to stop it was Caden, and events had conspired to ensure that Caden hadn't been alerted until she had already disappeared, and now he had nothing to go on except that odd arcanic trail. So that meant that the entire group had one very clear path to follow.
+
+But something was wrong. Ambrose could feel it in his gut — the pattern of the Prophecy was not right.
+
+Caden wasn't supposed to go. Emilia had been spirited away for a reason, and the rest of them were meant to still be together as they set out in search of her. Ambrose had no idea where this certainty came from, but the whole framework of the Prophecy settled in his mind as if it had been there all along, and he was only just beginning to uncover the details. It was like walking through the memory of your own house and expecting to find specific things and details in various places, only to realise that those spots were now occupied by new and unfamiliar things when you turned your attention to them.
+
+So Caden was supposed to be here, and he definitely wasn't supposed to take Lynus away. In fact, Jerric probably shouldn't have woken up that early either, so that Kevan would still be here. And their group was supposed to travel as one unit. Somehow, that seemed very important.
+
+Jerric came up to Ambrose and shook him by the shoulders. "What's wrong? Why do you look like that? Should we have stopped them?"
+
+Ambrose stared slack-jawed at the figures of Caden and Lynus, now little more than black specks over the treetops. He couldn't answer immediately — something had just occurred to him.
+
+The knot of the Prophecy had been elegantly fashioned, but this disruption wasn't random chaos. Ambrose could have stopped Caden and Lynus from heading off if he had woken up a few minutes earlier. Or he might have realised what was going on if he had more presence of mind to listen to what had been happening in the trailer in that bleary, muddled state between sleeping and waking. But no, somehow, other things had conspired to bring the present turn of events to pass — he hadn't had a good night of sleep, and consequently, he wasn't awake to seize that crucial opportunity to stop the unchosen-sighted-{~?~} from flying off.
+
+Was it possible to stop them? But even as he contemplated it, he felt a shifting in his auric-ambient-flare, felt a tilting of the whole fabric of reality beneath him. Somewhere in oblivion, the threads of Fate were tightening. The knot that was coming up was becoming firmer, more secure, more insoluble. But at the same time, there were threads around him right now that were coming loose.
+
+"Ambrose?" Jerric shook him again. "Do we need to follow them?"
+
+"I... I don't know," he whispered, aghast, trying to make sense of this seismic shift.
+
+Jerric dithered for a moment, then decided to follow Caden's instructions. He went back into the trailer started rummaging through the boxes in search of the personal protection artefacts. He found the stash of pendants and hurried back out, stuffing one into Ambrose's hands as he passed, and tossing another to Devon, who was frantically packing up the chairs.
+
+Ambrose stared at the pendant, with its clear crystal cut into a pencil point shape, set into a silver wire frame and threaded with a fine metallic chain. He could hear the faint hum of the sequence itself, carved into the tiny glyphs within the crystal in complex, three-dimensional shapes. He realised with a start that he instinctively recognised the shape that the sequence formed — it was itself a glyph, although it wasn't one that he had learned from any books. He simply understood it through his arcanic senses. It sang of stability and weight, of certainty, of immutability.
+
+"Jerric, there's a whole sequence to use to key these to ourselves," Devon said, holding up the pendant. "There should be a reference sheet. Did you—"
+
+"Come here, I can do that for us." Ambrose said, turning to the two of them and motioning for them to hold out their pendants. He was still going over the recent turn of events in his head, but something told him they had to get ready quickly, and they didn't have time for both Jerric and Devon to try and follow some instructional manual.
+
+"What?" Jerric stared at him.
+
+"Don't know how to explain, but I can do it. Come on, hold out your pendants like this," he said tersely, wrapping the chain of the pendant around his hand and allowing the crystal to dangle from his palm.
+
+They obliged, and Ambrose dipped into the arcanic sea. The crystals had a song that looped in on itself, forming a protective bubble. He needed to nudge their auric-ambient-flares into alignment with the crystals so that the bubble enveloped more than the crystal itself. If they relied on the glyphs, then this was a multi-step process that would take perhaps ten minutes. Ambrose simply allowed the song to flow over him, then reached out with his auric-ambient-flare to maneuver himself into his crystal's protective bubble. It was over in just a few seconds.
+
+It was marginally trickier to do this for others since he couldn't manipulate their auric-ambient-flares, so he worked on their crystals instead. He listened to the flow of Jerric and Devon's auric-ambient-flares, then stretched the song of the crystals ever-so-slightly so that they opened up to the two of them, allowing him to wrap Jerric and Devon in the bubbles of their crystals before he closed them up again. He was done in less than a minute.
+
+"Wow, that felt a little weird," Devon said, holding up the small crystal to his eye to inspect it more closely. "It felt like this thing, uh, covered me."
+
+"Okay, Dev's got everything on the trailer, we're all keyed, now we need to figure out some protections for the trailer while we hunker down," Jerric said, looking around. "It's not exactly the most defensible or most discreet spot to stay, though..."
+
+"No," Ambrose shook his head, having made up his mind. "We have to move."
+
+"Move?" Jerric turned to him. "But the rest of them will come back to this spot, and—"
+
+"We have to move," Ambrose repeated insistently, hurrying back into the trailer. "Come on, one of you drive while I set up some—"
+
+"But Caden—" Jerric began.
+
+"He's wrong!" Ambrose raised his voice, sounding a little more panicked now. He could feel it. Something was coming. A shifting of the threads of Fate. "This is all wrong. Please, we have to move. We'll figure out how to get in touch with them later, but we can't stay here!"
+
+Jerric and Devon exchanged a look before he turned back to Ambrose and nodded. "Alright, let's go, then."
+
+Devon got into the driver's seat and pulled out the map so he could figure out where to go, while Jerric started packing the boxes away to keep the trailer free from clutter. Ambrose got into the front passenger seat and took in a deep breath to calm himself.
+
+The augera had taught Caden how to hide auric-ambient-flares, and Caden had in turn shared that knowledge with Ambrose, but they hadn't had the opportunity to test it out. The original plan had been to try it in the morning, but that was before Emilia's disappearance had split the whole group up. Still, it was the first and most important thing to do — hide their auric-ambient-flares from any pursuers.
+
+"I'm going to do something now to hide our auric-ambient-flares," Ambrose said, pitching his voice so that Jerric could hear. "It will probably feel... uh, disorienting. So brace yourselves."
+
+He didn't wait for a response before he sank into the arcanic sea, where he could more securely wrap his metaphysical hands around Jerric's and Devon's auric-ambient-flares. They flinched a little at the contact, but he didn't give them any time to react. It was probably better to do this quickly. He took careful hold, making sure to mark the portion where their consciousness resided, and then threw himself headlong into oblivion, dragging their auric-ambient-flares along.
+
+Being in oblivion was not the utterly alien experience it had once been for Ambrose, especially now that Caden had shared the augera's technique with him. There were mental anchors for him so that somehow this non-space made more sense, even if he couldn't articulate what those mental anchors were. By instinct, he held his auric-ambient-flare in oblivion, then grabbed Devon's and Jerric's core of consciousness, and gently poked all three of them back into the arcanic sea, and then back into the physical world.
+
+"Fa—" Devon gasped next to him, before choking on his saliva.
+
+"Fu—" Ambrose heard Jerric choke mid-curse as well in the trailer.
+
+"You alright?" Ambrose asked, thumping Devon on the back. The young lord waved a feeble hand as he massaged his chest. Ambrose got out of his seat and found Jerric staggering back to his feet, clutching a counter for support.
+
+"Wh—... was that... oblivion?" Jerric asked shakily.
+
+"Yes. Short version, our auric-ambient-flares are hidden there while our minds are back here," Ambrose said, helping him over to a seat.
+
+Jerric nodded, looking a little queasy. "Okay. Give me a minute. Then I'll help you with some protective sequences around the trailer."
+
+Ambrose went back to the front where Devon was staring into the distance, still panting slightly. "Oblivion, huh?" he asked, trying to sound casual. "Great stuff."
+
+"You sure you're okay to drive?" Ambrose asked worriedly.
+
+"Sure. In a bit." Devon closed his eyes and started regulating his breathing. After a few deep, calming breaths, he seemed a lot better.
+
+"That's... a lot better than my first time," Ambrose said, sounding impressed.
+
+"Yeah, Emilia's breathing thing is seriously helpful," Devon remarked. "Alright, so we're just going to head along our planned route for now?"
+
+"Yes, as long as we're moving," Ambrose answered, settling back into the front passenger seat.
+
+As Devon brought the trailer back onto the road, Ambrose sank back into the arcanic sea. Operating here without the presence of his own auric-ambient-flare was rather disorienting at first, mostly because he had no anchor for his consciousness. As soon as the trailer started moving, his mind was left behind until he returned his attention to the physical world. It took him a moment to properly orientate, and he realised that he had to intentionally follow their trailer, which felt extremely odd because he felt a sense of motion, but it was completely disembodied.
+
+"Ambrose, I can't do this," Jerric said, tapping him on the shoulder. Ambrose looked back and saw Jerric holding a hand to his forehead. "It's... I can't focus, can't follow the trailer."
+
+"It's alright," he answered. "Just try and acclimate. I'll take care of our defences."
+
+Once more, he sank into the arcanic sea and started layering protective sequences over their trailer. It already had an impressive array of barriers and countermeasures that came built-in, but something compelled him to shore them up with whatever he could. There were other heavy-duty security sequences he had been taught by the Imperial Nightwatcher agents, but something told him to rely more on the novel creations he could mould with his refined arcanic senses, so he started shaping arcana less by rote and more by instinct.
+
+The crystals they were keyed to had a song, so he used that as his foundation. The trailer had barriers to handle direct assault, but he wanted something subtler. He knew how to tear apart an active sequence to repurpose its arcana if he knew its constituent glyphs, so his intention now was to see if he could extend that defensive capability to the trailer, and make it work even if he wasn't aware of the source.
+
+The puzzle opened up in his mind's eye, and he started weaving the arcana into experimental patterns as they drove down the road. And all the while, even as he worked, he felt the hand of Fate closing in, like a spectre on their trail.

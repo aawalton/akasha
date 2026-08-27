@@ -1,0 +1,161 @@
+---
+id: 8af8cf5e-a751-526c-8437-56074309b17c
+page-type-slug: story-chapter-royal-road
+title: "v6c14: Interlude: The Best Boy"
+slug: 0202-v6c14-interlude-the-best-boy
+partOf: beware-of-chicken
+position: 202
+ownLength: 2069
+unit: words
+ownProgress: 2069
+publishedAt: 2025-04-11
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2191798/v6c14-interlude-the-best-boy"
+royalRoadId: "2191798"
+markedReadAt: "2026-06-29T18:58:16.202Z"
+---
+
+The roar of battle thundered in his veins, yet his heart beat steadily. He could smell his foe. He could taste him on the wind. His jaw was held loosely, ready to snap and crunch.
+
+He was called Shaggy, second of his name. He was a proud warrior. He was a protector of the flock.
+
+He was a Good Boy. No, not a Good Boy. Big Bro Jin said he was the Best Boy.
+
+His tail unconsciously wagged.
+
+A sharp whistle from his brother, his closest packmate, cut off his happiness. Shaggy Two’s ears pricked and he immediately hastened to follow the command, his Qi singing through his meridians. That whistle meant circle right! He was to cut that direction off from their quarry!
+
+He raced through the snow as fast as he could, his senses intent—and then he was upon the foe. The red-haired man, Big Bro’s Master, raised an eyebrow as Shaggy Two burst from the trees and acted like he meant to jump. Like his instincts commanded, to go for the throat. But a true warrior mastered himself! He dodged the kick as he had trained for, shooting under the blow and whirling at the right moment.
+
+His teeth caught the leg in the soft, tender bit and he bit down as hard as he could. His teeth ground against skin like metal, unable to penetrate, but he didn’t need to penetrate. He had the clothes, and that provided leverage enough—or so his Big Sisters said. He only had to be wary of his foe ripping out of them!
+
+But he had done his duty. Their Master had slowed. He released the hold in time to dodge the next blow, just in time for his Big Brother to appear in their Master’s blind spot, Moon Spur intent on striking true.
+
+They struck on both fronts, Shaggy snarling and snapping and making a nuisance of himself. He longed to sink his teeth and hold, but his packmates, his Big Brothers and Sisters, had commanded that he not commit himself too dearly, because they would be very sad if he got hurt.
+
+Shaggy Two didn’t really get it. If he died protecting the pack, that would have made him very happy. It was his purpose! But it was also an order, so he followed it, like the Best Boy he was.
+
+He harried the rooster man as much as he could, always there, always present, his intent to rip and tear so strong that he barely caught himself from jumping at the opportunities sometimes… but those sometimes would always make their Master’s head jerk to him, a brief moment where he stole their Master’s attention.
+
+It wasn’t enough to defeat their foe, for he was beyond them. Shaggy Two miscalculated a snap and found himself pinned. He went limp instantly as his Bro landed beside him.
+
+Their Master’s face was impassive for a moment… and then he smiled.
+
+“You both have done very well,” he proclaimed, his voice filled with warmth. “Your improvement is something beautiful to behold.”
+
+Shaggy Two’s tail wagged really hard. Beside him, Big Bro smiled.
+
+Their Master let them up, and then, once the snow was off of them, he raised his hands, clasping his fist with his palm. He bowed to them both. Big Bro did the same gesture. Shaggy Two tried as well, but he had no hands! So instead he sat on his haunches and raised both pawns touching each other.
+
+Then there was a pop, and their Master was once more in his Mastershape. The rooster hopped up onto Big Bro’s shoulder, and they started talking about the fight, where to improve, and how they could do things differently. Shaggy Two listened well, because he was the Best Boy.
+
+But soon, their learning was interrupted with the distant sound of “Dinner Time!”
+
+Shaggy Two’s ears pricked up. Drool formed in his mouth. He loved dinner time! It was one of the best times of day! That and breakfast time, and lunch time, and time with his pack and… well, a day had many best moments!
+
+They trotted back to the Big House.
+
+Yesterday they had to be in the Little House. Shaggy Two very much liked the Little House! Big Bro Gou Ren had all these little handles on everything so it was easy for him to open doors and cupboards and fetch things for people! He liked fetch! Fetch was fun!
+
+But the Big House was best for food because everyone was there! Everyone was together and happy!
+
+And it was especially the best after everything that had happened. Wicked creatures had attacked the Big House! It was just like the tales of his father, how bad things had come to kill and destroy. It had been bad and scary, but Shaggy Two had stood firm. He had bitten them and ripped them and torn them with all of his might, and though they had hurt Shaggy Two by smacking him and cutting him, he hadn’t stopped.
+
+He honestly didn’t remember most of the night, it all being one big blur… but at the end of it, like the story about his father, the wicked had been defeated.
+
+Shaggy Two hadn’t failed his father’s memory.
+
+Big Sis Meiling had bandaged his cuts and kissed his forehead. Big Bro Jin had said he was not just a Good Boy, but the Best Boy. Big Bro Wa Shi had promised him meat and bones and Big Bro Chun Ke had gotten him those tasty sweet berries. Everyone had given him lots of pets and rubbed his belly and said he was a very Brave Boy! Big Sis Tigu and Big Sis Yin had hoisted him up and rubbed his belly and told him he had done his duty well. Big Bro Delun had brushed his coat, tutted over the scabs, and had begun making measurements for armor.
+
+And Big Bro… Fei, his best friend and closest companion… he had just held him. And that one was the best. He also had him sleep in his bed with him, because he said Shaggy Two chased away bad dreams. He didn’t know how one could chase away bad dreams, but he made sure to lay in bed and think hunting thoughts! It seemed to have worked, because the bad dreams had stayed away.
+
+Good. He would bite the bad dreams and tear them to pieces if they dared to attack his Bro!
+
+Things had been bad, but now they were good. Bad things had happened, but the flock had been guarded and the wicked beasts would hunt no more.
+
+However, yesterday had been strange with the weird people coming flying in, but they were guests and friends, or so Master Bi De had said. They had important business, like Big Sis Lanlan had with the Azure Alliance! Big Bro Jin was an important pack leader, so he needed to talk with the old, strange-smelling people. They were strange because they mostly smelled like nothing! The only scent was from the one with the shiny bald head, and he smelled a bit like the tasty herbs.
+
+His name was Shou! He looked excited and happy! Shaggy Two could tell why he was a friend.
+
+And Big Bro was very happy because “they were all cool old masters!”
+
+He liked cool old masters. Masters like Uncle Shao Heng.
+
+“Do you think Elder Ge might tell us some stories?” Big Bro whispered as they entered the Big House.
+
+“I’m sure they could be convinced,” their Master replied.
+
+Big Bro beamed.
+
+Everyone was in the ‘living room’ when they arrived.
+
+Shaggy Two got to really see all the old people for the first time. He did not greet them like he normally did, because that was apparently rude, but he watched them while the others in his pack made food. Big Sis Xiulan was making the knives dance today, which always fascinated him, but he purposefully didn’t look at them. Instead, he looked at their new friends. They had a big presence! But everyone was just a little wary around them still, their conversations not flowing… except Big Sis Tigu, but Big Sis Tigu was Big Sis Tigu!
+
+Still, they seemed like fine people! He didn’t get a bad feeling from any of them!
+
+Though he did notice something. The lady who had her face covered… she smelled cold! She felt a bit too cold! And that shouldn’t be right, it was nice and warm in here!
+
+Maybe she needed to be warmer?
+
+Shaggy Two walked over to Big Sis Yin, who was lounging on the couch. He poked her with his nose.
+
+“Hmm?’ she asked, turning to look at him.
+
+Shaggy Two grabbed her sleeve and pulled.
+
+“Oh? What's going on, Shaggy?” Yin asked, but obligingly got up and started walking with him.
+
+Shaggy pulled her over to the cold lady.
+
+“What are you doin’, Little Bro?” she asked, curious and slightly apprehensive.
+
+He let go of her sleeve and took a deep breath, composing himself. He had been practicing with Big Bro, and he definitely could do this!
+
+‘House is warm, but Friend smells cold,’ he stated before turning his concerned gaze on cold lady. ‘Friend will be alright. Big Sister is very good at fighting cold!’
+
+Yin’s eyes lit up at his words, a proud smile coming to her face. Shaggy Two’s tail wagged at his new capability. The lady with the hidden face looked at him with a bit of surprise, before her eyes softened.
+
+“Oh? I shall thank you for your concern, Young One, but I am fine. No cold can harm me, that is just how I am,” the lady said, her voice gentle, but with an undercurrent of praise.
+
+Shaggy Two cocked his head to the side, considering this development. ‘Like Big Sister is warm, you’re cold?’
+
+“That is indeed correct,” the woman confirmed.
+
+Oh! That did make sense!
+
+‘Is the cold nicer? Should I fetch an ice crystal?’ he asked. It was good to make people comfortable.
+
+The lady let out a little laugh. “That will not be necessary. The warmth in here is fine too. Tell me, little one. What is your name?”
+
+Shaggy Two puffed up. ‘This one is Shaggy! Second of his Name! Son of Shaggy! He was a proud warrior and a great hero!’
+
+“Oh? Will you tell me about this Shaggy?” she asked.
+
+‘I don’t remember him,’ Shaggy Two admitted. ‘He died before I could remember anything. But! But! Everyone in the village loved him! He protected them from wicked beasts! Like I did! I protected our home from wicked beasts!’
+
+The woman’s eyes smiled at him.
+
+“I can see why Song likes dogs so much…” she whispered, so quiet he could barely hear it, before her voice went louder. “I shall praise you for your bravery, young one. You are a credit to your sire.”
+
+Shaggy Two’s tail started wagging.
+
+‘Thank you! You’re a very nice lady!’
+
+The woman chuckled and gave his head a single pat. “And what of your Master? Do you like him? Is he treating you well?”
+
+‘Oh, all of my pack is the best! Big Bro, Fei, is the best Big Brother. He takes care of me and gives me baths and carries me when I can't run far enough…’ Shaggy Two talked until his voice started to not come out properly. He couldn’t talk for too long yet it seemed! But he would be able to talk more soon. The cold lady gave him another pat.
+
+And then they had dinner! Everybody at the big table, which was best! There were a whole bunch of things, and Shaggy got to try most of them! They were very, very tasty!
+
+The other best thing, though, was that Big Bro got his stories.
+
+The man called Ge started telling him about the time they all joined forces to destroy a Wicked Beast Den, on one of Cold Lady’s flying ships!
+
+It was a very fun dinner.
+
+After dinner Big Bro Jin and Master Bi De had to talk to the old Pack Leaders about copying a crystal—but that wasn’t for Shaggy Two. Instead it was time to get his coat brushed!
+
+And after his coat was brushed, it was time for bed.
+
+Shaggy Two once more took up his guard.
+
+He dreamed of chasing bad dreams and biting them.

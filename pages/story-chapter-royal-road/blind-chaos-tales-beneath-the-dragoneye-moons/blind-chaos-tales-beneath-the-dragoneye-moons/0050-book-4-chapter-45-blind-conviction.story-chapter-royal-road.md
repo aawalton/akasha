@@ -1,0 +1,155 @@
+---
+id: ffffa6e2-f240-5462-9727-01d6e0c1cdfd
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 45 - Blind Conviction"
+slug: 0050-book-4-chapter-45-blind-conviction
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 50
+ownLength: 3029
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2965895/book-4-chapter-45-blind-conviction"
+royalRoadId: "2965895"
+---
+
+The momentum of the Coalition’s grand assault was broken. In a single attack, the shimagu’s final twins—despite being outnumbered three to one—had them on the back foot. The ogress twin disappeared, having returned to normal size or been slain by elven retribution, but there was no time to try to figure out which.
+
+Ranthia’s group was surrounded by hostiles and half of them were still down from injuries!
+
+“<Protect the wounded! If anyone’s in dire condition, call it out!>” Ranthia shouted in her best High Elvish, abandoning all pretenses. Holding back wasn’t an option any longer and she was not about to let anyone die over the arrogance, indifference, or misdirected fury of the elves that were supposed to be in charge.
+
+Ranthia’s images joined her. She couldn’t watch every direction at once, but she had to try. In chaotic unity, she and her images danced past the wounded and met the incoming shimagu masses. Ranthia could cull most parasite-driven shimagu soldiers with something closely related to ease, but her images were hard pressed to match the power of the remaining regulars—even when she was able to lend [Submind] her own sight. But if they slowed the shimagu down, they were doing their job.
+
+She could replace them faster than they broke against threats of that tier.
+
+Probably.
+
+Ranthia’s knives met the charging shimagu. Her adamantium blades struck the brittle steel and dull iron that the shimagu wielded and wore—and pierced right through the lesser materials, even without [Void Edge]. Her Skill just allowed her to work faster, as she sundered their weapons and sent them to Black Crow’s talons.
+
+The elven ‘elites’ that were supposed to lead their group had seemingly vanished in the aftermath of the ogress’ attack. Ranthia was mostly certain that they were both alive, but she couldn’t waste the time looking for them. The angry copper-haired elf and her wolf were still trying to fight their way toward the shimagu bases, which was (temporarily) beneficial since that was an area Ranthia didn’t need to cover.
+
+The three images that were opposite to her back were problems—every time she checked at least one of them had broken since she last peeked. But there was no solution, and the System seemed disinclined to offer her a sudden Skill evolution to address it. She just needed to spare a glance and replace whatever was gone as she could.
+
+At least the other elves were bouncing back. No one called out to her for assistance with injuries, which was probably a good sign. …She chose to take it as a good sign, at least. It wasn’t like she could spare a ton of attention; the shimagu were almost desperate to get past her—or her images—to strike at what they perceived to be vulnerable targets of value.
+
+Ranthia immersed herself deeper and deeper into her defensive dance, trusting the instincts that she had honed through just over eighty-eight years of experience with war. Her instincts intermingled with [Rhythmic Grace] and [Combat Awareness] to ensure that she—or her image—stepped where she needed to be. Ranthia evaded or cut through the attacks that came her way, while her images were forced to avoid attacks entirely. Few among the shimagu survivors could be cut down by the power Ranthia’s images wielded—almost every opponent had all three classes in both their host and their parasite—and she was gradually being overwhelmed on every front. With the exception of the one that her current body held.
+
+Seconds stretched to minutes.
+
+And then Ranthia’s attack—meant to cull another shimagu [Warrior] from the face of Pallos—was parried.
+
+“Hi there, I heard you were dead.” Ranthia quipped.
+
+“Your intel is as crude as your sense of strategy. But I had promised to finish things when we next met.” The words were in Creation, slightly accented in a way Ranthia seldom heard—with an unmissable metallic twang.
+
+The dullahan twin hadn’t been on the list of the five remaining twins. He should have been dead! Yet there he was, speaking casually, as though it hadn’t been eighty years since they last met, back when he attacked her alongside multiple other twins.
+
+[Mage – Lava] level 846, [Warrior – Lava] level 680, [Warrior – Inferno] level 599.
+
+Of course he out-leveled her, why wouldn’t he? Their grand plan was in the gutter, her group was in shambles, and she was about to be checked by a twin that was presumed dead!
+
+Ranthia took advantage of her opponent’s moment of inaction and let out a deep breath before she offered the metal man a sarcastic half-bow.
+
+“I suppose I’m dancing with you then.” Ranthia just needed to roll with it. She’d bought the elves as much time as she could.
+
+“You shall not survive this time.” The dullahan offered her a warning as he settled into a ready position. He wasn’t erupting with Lava like he had before, but he was already starting to glow brighter as the amount of heat in the vicinity grew. The brewing storm (courtesy of Sentinel Sage) had been cooling the area off, but in her little corner of the field of battle, she had to endure the summer’s heat—and her opponent was just getting started.
+
+Realistically, when she assessed him without incredulity, it was strange how little he had leveled since they last met—he had only gained somewhere around eighty levels or so? Ranthia had punched up far further, against far deadlier adversaries.
+
+“Meh, I’ve heard better threats.” Ranthia offered a verbal retort, even as she danced around her opponent’s first strike. Her opponent’s blade wasn’t quite as excessively long as the sword he’d carried when they last fought, but there also wasn’t any trace of damage from when he’d parried her strike.
+
+Ranthia pirouetted as she tried to close the gap between them, but her opponent was faster than her memory wanted to suggest he had once been. His blade appeared between them in a blur, and she was forced to dance clear as he lashed out.
+
+She evaded the sword readily enough, though a blast of flames erupted from it and washed over her. Her skin and armor charred—and several nearby shimagu ignited before they could get clear—but Ranthia gritted her teeth through the pain as she pressed back in. She threw an image behind herself and started [Reflection of Reality], but she could press her attack while she waited for the Skill to complete its process.
+
+Ranthia managed to strike his sword with [Void Edge] and [Echoes of Devastation] twice more before her perception warped. Her armor’s inner layers were already getting sodden with her sweat while she danced back in—her image didn’t last long without her vitality behind it—even if the heat hadn’t built up to a level that was hazardous.
+
+More annoyingly, her opponent continued to flap his metal-plated lips while they fought.
+
+“This all-too-predictable attack shall fail. Your allies will pay the price for the horrors that you and your ilk have committed—and your comeuppance stands before you here and now.” It was admittedly slightly impressive that he could continue his word salad while they fought, without resorting to speaking in bursts or accelerating how quickly he spoke. Though speaking at a ‘normal’ cadence while their perception was pushed to the limits made him seem especially ponderous.
+
+Ranthia shifted again to escape another particularly large explosion of flame from her adversary’s robust blade. The heat was stifling, yet her opponent still hadn’t erupted with Lava like he did when they last fought—which raised questions. Obviously, it was preferable to fight without evading Lava, though the question of why was somewhat important.
+
+“Once we have broken your army, we shall march upon your precious empire. Those that reign over humankind shall be forced to—” The dullahan just kept talking instead of pursuing her.
+
+“I’m morbidly curious, how in Xaoc’s glory did they get a parasite inside your metal skull—or however that works?” Ranthia chose to interrupt him.
+
+If he was so eager to talk, she was willing to exploit that. She couldn’t let her focus wander too far from a high-tier opponent, but she stole the opportunity to try to gauge the larger situation.
+
+“I do not bear a shimagu consort, at least not as of yet. Our alliance remains transactional. Perhaps, in the future, I will find a young shimagu that I would be willing to attempt to form a true bond with, howe—” Her opponent continued to stand there, sword held ready for their next exchange.
+
+Notably, their fight had begun almost in the exact same location. The lack of movement was strange for a clash at their level—there had to be something there. Yet Ranthia couldn’t help but find herself distracted by his latest words.
+
+“Wait wait wait! You’re not even infected?! You just chose to work for body-jackers for money?!” Ranthia once again interrupted him.
+
+“My motivations are not so crude. The Dullahan Dynasties have grown fetid with corruption. Those in power seek to enforce a caste system that no one else desires. Many of my brethren have left our nation to seek their individual fortunes, admittedly, but I remain a true son of my people.
+
+“Long have I sought the means to overcome the corrupt rulers that plague my kind. And, in the shimagu, I have found my answer. The shimagu have the might to surpass even the strongest of the houses. Once we break your expansionistic empire, I have been promised the services of the full might of the shimagu. We shall use your homeland as a staging ground and strike down those that abuse my people. Those that lorded their status and became little more than a pestilence upon my people shall be purged. And with the support of my shimagu allies, I shall create a truly unified dullahan nation! We shall—” His voice rose several octaves as he raved.
+
+But Ranthia had heard enough.
+
+“Oh, shut up! Gods and fucking goddesses, are you seriously the stupidest godsdamned piece of shit on Pallos?!” Ranthia’s voice accelerated as she lunged at her opponent. He was so caught up in his spiel that she managed to get inside his guard long enough to leave a deep laceration across the metal plating that covered his chest.
+
+“You have no right to judge me, human! You do not—” The moronic dullahan seethed with indignation and his armor began to glow brighter as the heat built up.
+
+“Your idea of salvation is to offer your people up to the worst kind of slavers! Do you honestly think they’ll leave naturally armored hosts alone?! They’d love to ‘save’ your nation from its leadership, and they’ll come bearing the tools necessary to slip their parasites through every last one of you!” Ranthia roared.
+
+While she spoke, she danced past his counterattack and hurled her fully imbued knife at his chest. The dullahan’s elbow snapped backwards, letting him narrowly interpose his sword in the path of the blade. Unfortunately for him, [Adamant Commander] had the knife back in her hand just in time for her to slam the tips of both knives into the side of his blade.
+
+The fool was stronger than she was, but the potions that still coursed through her veins and [Higher Power] let her put up a hell of a fight.
+
+“You know not—” His voice was strained.
+
+“I. Said. Shut. Up!” Ranthia delivered a kick to his stomach. The metal plating didn’t even dent, but it still forced a grunt out of him as he was driven back. “I don’t want to hear anything else about how idiotic you are! By Xaoc, the only thing worse than self-important assholes are people like you—people that chose the stupidest fucking option they could find and act self-righteous about it! No more words, no more posturing—we finish this!”
+
+Her opponent howled with fury. At the height of his shriek, Lava erupted around his feet—a geyser that reached high into the sky. His blade—finally damaged after she struck the side of the blade with everything she had—cleaved through the Lava, though her opponent was moving far more slowly than he had before he erupted.
+
+Ranthia tried to parry the blow, but even with [Higher Power] diminishing the force behind it, her dance was knocked out of rhythm. Her stumble was as inelegant as anything, though at least she finally had an answer for why the non-twin had waited to erupt. Mana consumption aside, it was glaringly obvious that her opponent traded speed and grace for raw power.
+
+Case in point: he would have been able to punish her misstep if he was still able to move as swiftly as he had.
+
+Elsewhere, rain was beginning to fall, but the drops sizzled away long before they reached her. With the arrival of the Lava, the heat was bad enough that Ranthia’s armor was starting to suffer. The acrid scent of smoke rose from her leather and the lining within her steel and the oil that protected her armor began to burn away. To say nothing of the damage that it accrued every time a stray fleck of Lava landed on her armor.
+
+There was no way to dodge them all.
+
+Still, she formed her images anew—she needed to keep as many up as she could for [Reflections of Reality]. Even if the dullahan was slower, her battle had become far more dangerous with the arrival of the surging Lava.
+
+Ranthia began the process to shift once again and danced in, alongside her images. The opaque Lava was a major obstacle that prevented her from surrounding her adversary, but she strove to keep her perception as wide as she could while she tried to pressure her indomitable opponent. Images shattered one after another as globules of Lava found them, until Ranthia finally concluded her shift and struck out.
+
+A jet of Lava intercepted her. By the skin of her teeth, she managed to take the unexpected counterattack on her adamantium bracers instead of getting a lethal facial—but even that was far from ideal. Within the adamantium, her flesh cooked. Worse, that moment of panic cost her every image she had!
+
+She needed to do better. Ranthia danced around another strike from his blade as she tried to find an opening in the Lava that erupted around the dangerously stupid dullahan. Thrice, her activation of [Reflections of Reality] failed when the image she had selected was destroyed, and her frustration mounted by the moment.
+
+Lava was a terrible matchup, yes, but after all of the promises that she had made to herself and to others about her ability to punch up when it counted, she was utterly failing! She couldn’t even force her adversary—not even a twin—to take a step, let alone land a meaningful blow.
+
+At last, she shifted to a fresh image—one that wasn’t losing feeling in its hands—and tried to dance around the scattering Lava. For whatever idiotic reason, it seemed to refuse to cool unless it landed well beyond the dullahan’s position. Trying to keep track of every threat that he generated felt as complex as monitoring an army, but she had no choice in the matter.
+
+Besides, she wasn’t so limited. She already had to track an absurd amount of information to fight alongside her images, yet even as she became greater with her ever-increasing stats, she had never truly pushed those limits alongside them. So what if she only had two eyes?! Willfully, she clawed desperately against her perceived limits.
+
+She tried to move her eyes faster, even as they watered—and lost that moisture as quickly as it came. She struggled to track and anticipate every drop of Lava that rained down on the vicinity. She pushed her body and her images to dance faster—better—and evade. And she forced herself to endure the heat as she tried to close in.
+
+She just needed one opening. It was an optimistic thought, but she struggled to convince herself of it, as she danced around her adversary. She never had properly studied dullahan anatomy—cursed books aside—yet if she could carve a large enough piece out of him, she was determined to use that momentum to see him dead.
+
+Another attack came. Ranthia used the tactic she had honed against the troll twin—she deflected his heat-hazed sword with her knife and used the momentum to dance clear of his strike. The gap in the Lava that his weapon carved closed with unnatural swiftness; there was no time to even recklessly throw a knife.
+
+With the dullahan’s next attack, a pattern emerged. Her opponent was attacking after the exact same interval of time—it was the kind of orderly foolishness that she was born to punish.
+
+Ranthia activated [Reflections of Reality].
+
+And the dullahan’s sword parted the Lava at the exact moment she expected it to.
+
+Instead of evading it, Ranthia braced herself and stepped into the attack while the image that she was shifting to crouched at her side. White hot steel—held together by the weight of the dullahan’s System—met adamantium with enough force that the shockwave momentarily warped the plume of Lava and redirected the droplets that rained down throughout the vicinity.
+
+Elven curses came in response, but Ranthia had no space to pay heed to them.
+
+The dullahan activated the burst of flames again. The explosion of Inferno was far more potent than it had been before, and Ranthia was forced to sacrifice the stability of her footing to try and desperately shield the image she would—Xaoc willing—soon inhabit. It hurt, but she could endure that much.
+
+She stumbled.
+
+And her perception jumped at that exact moment. Immediately, Ranthia launched herself forward. With the dullahan’s blade (mostly) halted, there was a single, precious moment that her quarry was left vulnerable. An opening in the Lava, just large enough for her to plunge her arm—and her knife—through to reach his torso.
+
+It was the moment of victory that she’d longed for.
+
+The next instant, her world erupted into an ocean of pain; something far greater than she had ever endured. She had no defense against it. Her experience with agony wasn’t enough!
+
+Ranthia’s tormented scream pierced through the din of war.

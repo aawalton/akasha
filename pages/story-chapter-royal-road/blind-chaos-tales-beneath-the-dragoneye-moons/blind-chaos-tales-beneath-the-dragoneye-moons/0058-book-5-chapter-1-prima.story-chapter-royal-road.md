@@ -1,0 +1,167 @@
+---
+id: f0d1a864-d80b-52e9-8236-aeed5d33776f
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 1 - Prima"
+slug: 0058-book-5-chapter-1-prima
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 58
+ownLength: 3781
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3117203/book-5-chapter-1-prima"
+royalRoadId: "3117203"
+---
+
+Freedom. Even just the word itself was intoxicating—every time said word or its accompanying sentiment passed through her mind, Ranthia felt a fresh thrill of delight. Sure, she was still slogging through the rocky wasteland she had wasted much of her life in, but the year was changing and Ranthia was determined to savor and respect every aspect of her newfound freedom. She promised herself that the year of 4902 would be a time that she’d forever cherish, no matter how long her immortal life actually lasted!
+
+Assuming her current journey ever actually ended. Maps were one thing, but the rocky wasteland that the war against the shimagu had (mostly) been fought within was larger than she had known.
+
+There was something to be said for rushing to her destination—if the powers that reigned over Remus and its warmongering discovered something amiss with how she faked her death, speed could be her greatest ally. But Ranthia had convinced herself that travelling at ‘mundane’ speeds—as though she wasn’t a level 758 [Warrior]—was the better choice. A slow journey gave her more time and space to make her trail as convoluted and well-concealed as she could make it, while it also helped to ensure that anyone who might happen to find records of her arrival at her destination wouldn’t immediately connect it to their erstwhile Sentinel. And, perhaps more importantly, it gave her an opportunity to actually rest, at least once she completed the first two or so days of her journey (one spent moving south, before she finally allowed herself to travel north-west).
+
+She had offered the majority of her life to Remus. She could be patient for mere days of travel—they were the first steps on her path to seeing a wider swath of Pallos than she ever had before! She was especially eager to lay her eyes upon the other nations and cultures of Pallos—to experience things she had whiled away more than eighty years reading about in the books that her beloved had introduced her to.
+
+The journey also gave her some more time to get used to the new quirks in her powerful [Divine Eyes in the Void] Skill. Acclimating to having a second source of vision—especially one that could rapidly pivot without her body moving—was a process that needed time and patience. And there was another aspect to the Skill that she had nervously anticipated the opportunity to test. By the time the day finally arrived, Ranthia found herself impatient for the sun to set! As an immortal, she had been cursed by White Dove—the divine embodiment of the great god Thanatos’ mechanism for handling the souls of those that perished. Said curse took her vision on the nights when neither of Pallos’ beautiful twin red moons lit up the sky.
+
+But the System—and perhaps some divine meddling by the god she served, Xaoc (the god of chaos)—had bestowed Ranthia with a way to see that wasn’t tied to her eyes. Xaoc willing, she dearly hoped that she had defanged her curse.
+
+Not that she could muster any surprise when White Dove proved to be too malevolent to allow it.
+
+The moment the sun set, Ranthia’s eyes ceased to work—as usual—and her [Divine Eye] metaphorically slammed shut. The ‘force’ behind that act was sufficient to scatter her thoughts (and stifle her disappointment), but only for a moment. It was hard to describe the sensation—it hadn’t harmed her, it was ‘just’ uniquely unpleasant in some manner that she had no defense against. That was frustrating, yes, but the bulk of Ranthia’s indignation was somewhat caught up on the fact that she was still completely blind!
+
+Ranthia took a reasonable moment or eighty to silently fume about the avatar of death itself, her curse, and the System failing to hand her a solution to the problem that was both easy and complete. But then, just as her [Mind Healer] had taught her, Ranthia took a deep breath and tried to move forward. She acknowledged her frustration and let it pass over her. …Or, at least, she made her best effort to do so—the feat was never quite as simple as the empathetic elf had made it seem. And with a clear(…er) head, Ranthia refocused.
+
+[Divine Eyes in the Void] hadn’t solved the problem for her, but she still needed to discover what the Skill could do while affected by her curse.
+
+The first experiment was the easiest; the Skill still let her move the [Divine Eye], even while it was blinded. How she was confident about that was just a quirk of the System—even without sight, she still had sufficient feedback through the System to know that it moved. From there she branched out, but no matter what she tried, the Skill seemed to behave as it always did (with the obvious exception of providing sight), at least until she tried to metaphorically ‘close’ the eye.
+
+Typically, when she ‘closed’ the (still singular) source of her vision Skill, the Skill seemed to resist her efforts—she needed to actively concentrate on keeping it ‘closed’. Thus, when she was overwhelmed by her doubled vision, it was far easier to just close her real eyes beneath her mistweave blindfold.
+
+Yet while her curse affected her, the Skill failed to respond at all when she tried to ‘close’ the [Divine Eye]. The dearth of feedback was familiar—it was as though she was attempting an invalid act that the Skill couldn’t respond to. And that was interesting! If the Skill’s behavior had changed, the curse’s effects weren’t as literal as they had seemed.
+
+Without getting her hopes up (honest), Ranthia continued her experiments to try to find any other instances where the Skill wasn’t responding as it should. It was a dull process, but the distraction was still welcome—it was better than focusing on the fact that she was shivering in a cold, uncomfortable crevice of stone that she’d tucked herself into as the sun set. Seriously, she had regrets about using her traveller’s cloak to wrap the stuff she’d stolen off the corpse that she used as a body double when she faked her death.
+
+Ranthia tried to let go of her internal metaphors and the foolhardy urge to treat her Skill as though it relied upon real-world mechanics as she experimented. The System wasn’t tied to the material world and there were times that the convenient shortcuts she used to think about Skill effects could limit what was actually possible. It was an easy lesson in theory, but even if she knew it was a bad habit, it was still convenient—especially since the shortcomings of indulging in it seldom mattered.
+
+For once, they mattered—she needed to discover everything that her Skill was still capable of. …With one exception. Ideally, she’d rather find out if [Divine Eyes in the Void] would still warn her of danger while her curse was active in a more controlled environment, with someone she trusted. Given her typical life experience, such kindness was unlikely, but she could still hope for the best!
+
+She had been on the cusp of giving up for the night—drowsiness was winning out over her hopeful curiosity—when she discovered something new.
+
+It was brief, blurry, and uncomfortable—but Ranthia got a glimpse of her surroundings! The [Divine Eye] had snapped back ‘shut’ almost the same instant, but that wasn’t important. A single concept consumed her: she’d found a way to see! In an instant, every trace of drowsiness vaporized, replaced by searing anticipation. Her heart thundered in her breast with enough force to drive off the chill that had been seeping into her flesh. The smart thing would have been to wait—to still her mind—before she tried again.
+
+Instead, Ranthia reactivated the new ‘open’ trigger to her Skill with everything she could muster. The Skill—more likely her curse—fought against her, but through triumph-driven will she resisted and held it open. She could see! The headache didn’t matter. The fact that her Skill-induced vision was a bit shaky and more than a little blurry didn’t matter. The distant *ding!*s didn’t matter!
+
+She could—
+
+Groggy and disoriented, Ranthia came to and immediately started cursing when all three of her eyes fixated on the brilliant midday sun. Once she inverted her [Divine Eye] to look at herself, she beheld an unsightly woman covered in dust, with her lovely face absolutely caked in stale blood (another nosebleed?!). Even worse, her complexion was unusually pale and the source of the sour taste in her mouth was slathered across her shoulder! [Sexy], she wasn’t.
+
+[*ding!* [Adamantium Will] has leveled from 21 to level 33!]
+
+[*ding!* You have unlocked the General Skill [Paying Attention to Your Body]! Would you like to replace a Skill?]
+
+[Paying Attention to Your Body]: Provides a System-generated notification to remind you to pay attention when your body is enduring suffering due to your own actions. Increased clarity as to why the pain and discomfort is your own fault with level.
+
+Infrequent brief glances it is. Ranthia promised herself, rejecting the Skill.
+
+Stretching out her limbs as she went, Ranthia crawled out of her crevice and carefully removed and set down her backpack. With that, she activated [Scattered Reflections], fed it a carefully crafted image of herself in her armor from those stored in [Image Recall] and created a new mirror image. From there, [Reflections of Reality] (and a few moments’ wait) had her in a clean, less abused body—and ready to resume her journey!
+
+…A few minutes later, she backtracked to retrieve her backpack, silently hoping that Xaoc hadn’t been looking down on her at that moment.
+
+With a bit of time and the luxury of a long walk to clear her mind, Ranthia had shaken off her disappointed malaise. Instead, she chose to look to the future and renew her passion for her newfound freedom. As an Adventurer, Ranthia would see the world, travel to the Tympestshard Council, and there she would reunite with the woman she loved! Sure, she was still cursed, but she had an edge she hadn’t possessed before—and that was a good thing, even if it wasn’t the absolute solution she’d hoped for.
+
+The Empire of Remus had been her home once, but… well, her own Covenant explained her feelings about what they were becoming.
+
+Whether I am your Paladin or just another blade,
+
+I will always accept Chaos and carry it with me.
+
+I will do what I can to reject the stagnation of Order,
+
+and I shall endeavor to spare those that cause true Chaos.
+
+I shall never accept those who court the final form of Order, destruction,
+
+for their actions may briefly be chaotic but they ultimately deny Your goals.
+
+In every place I visit, every battle I bring havoc to, every life I touch,
+
+I shall do my utmost to add a little more Chaos into our world.
+
+And you may always call upon me to exert your will upon this world,
+
+I was and forever shall be your Paladin and herald, even on this path.
+
+You gave me a second chance and an opportunity to sculpt myself anew,
+
+And so, this life is hereby pledged to the service of Chaos and to You.
+
+Remus was undeniably courting destruction. They sought to scour the shimagu from the face of Pallos. And the worst part about that was that Ranthia knew she could have convinced herself to accept it. Xaoc Himself gave her a path to remain a tool in Remus’ service and, had her [Mind Healer] not helped her to accept and move on from her retributive hatred against the shimagu, she probably wouldn’t have even batted an eye at Remus’ plans. But Ranthia had moved past her anger and her hate, which made the long-awaited ‘victory’ repugnant.
+
+And that was for the best, truly. She didn’t want to become the kind of person that accepted exceptions and changes to the Covenant that defined the core of her principles! Xaoc willing, she fully intended those words to forever hold the exact same meaning to her as they did when she first rambled them out. They were too important to be flexible or become mired by the misery of experience. They were sacred—a promise from her to Xaoc. And promises shouldn’t be bent by mere convenience.
+
+Ranthia’s destination was a trading outpost, a place that civilian caravans used before they journeyed into (or away from) the war zone. It was clearly marked on the map that Avyna had left her, and her beloved’s own words had described it as a bustling place where traders exchange wares before making the next leg of their journey.
+
+Ranthia spent hours convincing herself that she’d arrived at the right location. [Chest of Experience] (and an undesirable amount of time wasted trying to find the right memory with the damned Skill) brought Avyna’s words back to her: “There is no name, but this is the only post for traders in the region, my love. Typically, there will be multiple traders present. All you must do is follow this stream to its source, then you will find the post next to the pond.” They’d discussed it as an alternative location to find a trader heading toward the Tympestshard Council’s territory, if she proved unable to find a caravan in Coalition City.
+
+There was a wooden post, sure enough. It was large enough to be prominent and was painted with glossy, iridescent stripes of color unlike anything Remus’ pigments were capable of, but there wasn’t a single person, wagon, or structure in sight. There was just the stream, the pond, and a few barren trees that were doing their best to endure the winter.
+
+Ranthia had consigned the dead legionary woman’s armor and hair to the bottom of the pond (and even buried them in the mud), then washed her traveller’s cloak and hung it up on a tree branch before she scouted the region, but there weren’t any other ponds in the vicinity. There were tracks aplenty through the region, but she was forced to conclude that Avyna had somewhat exaggerated how active the area was.
+
+That, or the site had been abandoned. After all, it was perilously close to shimagu territory. It was easy to imagine some tragedy had driven the place out of use.
+
+But enough wagon tracks had been made recently enough that Ranthia decided to wait. She needed to wait for her cloak to dry anyway.
+
+Ranthia ended up camping out under her drying tree for the night. Lingering felt dangerous, but pressing on by herself was just as foolhardy. Sure, there were other civilizations—including cities—further to the west that she might be able to find a caravan at, but she was already in unfamiliar terrain. She was an experienced traveller and well above average at foraging, but everything she knew pertained to Remus or that Xaoc-forsaken wasteland. Relying on what she knew when she ventured into climates wholly unlike those that she was familiar with would—at best—severely test her vitality.
+
+And she felt some degree of aversion to earning her freedom, only to die in a ditch because she ate what seemed to be a familiar berry.
+
+Yet if some patrol came from Remus as they secured the former shimagu territory, what would happen? Even if they didn’t recognize her, she was still quite obviously human. And just because she was done with Remus didn’t mean she wanted to cut down legionaries to protect her newfound freedom.
+
+She’d worked herself into a somewhat disgruntled mood by the next morning, yet the risk of being caught by Remus remained a “what if” scenario, while the dangers of travelling solo were undeniable. She just wrapped herself up in her traveller’s cloak and, absent any more productive use for her time, activated [Chest of Experience].
+
+Ever since she’d finally gotten the slot to take the Skill, there were more than a few memories that she’d looked forward to revisiting. Plus, she needed to level the Skill more if she ever hoped to make it easier to find specific memories. The drawers and divisions between how things were stored were so nonsensical that Ranthia chose to believe that levels would provide some guidance—even if there was nothing about that in the Skill description.
+
+But until such a time came, she needed to fight against the convoluted chest of drawers that represented her memories. She finally had the opportunity to revisit old friends and cherished memories.
+
+It was late in the evening when Ranthia’s ears drew her out of a particularly blissful memory. The phantom sensations of the silken ropes faded from her flesh as her focus returned to her true state—cold, vaguely uncomfortable, and still clad in her familiar armor. The cold also helped her recenter herself, calming her quickened breathing as she stumbled to her feet.
+
+[*ding!* [Chest of Experience] has leveled from 39 to level 57!]
+
+The sound of approaching wagons was unmissable, even if they weren’t yet in sight. Ranthia gathered her belongings and bundled herself in her traveller’s cloak as she readied herself to meet them.
+
+Okay, yes, in retrospect, she really should have anticipated that each caravan—arriving as the day came to an end—would be in a rush to get their respective beasts fed, their wagons secured, and sleeping arrangements prepared. No one really had time or interest in engaging with a stranger; their sole focus was the race against the incoming darkness.
+
+Thankfully, the caravans were in no rush to get moving the next day. Instead, many of them opened up their wagons and set up to trade amongst their peers, and even those that remained closed dithered while they caught up with friends or traded advice with other [Merchants]. Ranthia was an outsider, but most of the people she spoke to were generally welcoming.
+
+The market gave her an opportunity. Changing her armor was out of the question—she was unlikely to find another suit that properly fit her, and even if she did, she wouldn’t have familiarity with it. She might not rely on armor for protection anymore, but she had learned the difference that having a reliable, tailored set of armor made. Besides, the actual issue wasn’t her armor, it was her adamantium—people were far more likely to talk about the exotic metal. Which was why she had wrapped her bracers in bandages. And it was why she checked the various dwarven goods on offer until she finally exchanged a few of the gems Avyna had left her for a pair of short swords that were reasonably close to those Remus favored.
+
+Suitably armed, she was ready to find a caravan heading west. And the one with an elf standing next to its table of goods seemed like the ideal place to start.
+
+“Hi! Sorry if this is rude, but are you heading west?” Ranthia asked as she neared, with as broad a smile as she dared contort her face into.
+
+“Yes, we are. Is there something specific that we can help you with?” The short man seated behind the table removed his colorful hat before he bobbed his head in greeting, revealing a pair of short horns.
+
+Huh, Ranthia actually hadn’t clocked the guy as an elf—she’d never seen one that short. The elf standing next to the table seemed at ease, but she didn’t miss the fact that his muscles tensed up as she drew near. Best case scenario: he was a guard.
+
+The worst was probably some vocal anti-human sentiment.
+
+“Right, so! I’m Prima, nice to meet you! I was hoping I could lend you my blade as a caravan guard, since I aim to head west myself.” Ranthia did her best to channel a blend of Lysia and Pyra into her voice and mannerisms. She puffed out her chest as she made her offer and made sure that inane smile stayed on her face. Her blindfold was in one of her belt pouches, but she was counting on the hood of her traveller’s cloak to help mask how unusual her eyes were.
+
+She hadn’t spent a day lurking through her memories just to relive moments of passion that she’d shared with Avyna. Her memories of her old friends from Ranger Team 6 were just as precious, and the exuberant energy of the tiny shield-bearer and the young-at-heart firebug were about as far removed from Ranthia’s normal behavior as she could imagine. Her brown hair was common enough and many women in the Legions favored short hair—an incredibly common false name and an exaggerated persona were probably all she needed.
+
+Besides, there were entirely too many risks involved in trying to use a distorted image for months on end.
+
+“Mm, you may call me Danther. However, pleasantries aside, I’m afraid that my associates and I have no interest—we already have two protectors.” The short elf kept his expression and tone polite, even as he dashed her hopes.
+
+“If I might be so bold, I think we should hear her out.” The elf standing guard cut in.
+
+“Should I take this to mean that you’re now claiming that you and your daughter are unable to perform the duties you were hired for?” The short elf’s tone never changed, but there was still an undeniable note of displeasure.
+
+“Not at all! I’m just saying that she’s a level… seven hundred and fifty-eight, I assume?” He waited for her to nod, before he continued. “[Warrior], which shows a significant amount of experience, given her mortality and apparent youth. Since she’s going our way, I bet she’ll work cheap.”
+
+Ranthia offered another energetic nod, even as she inwardly winced. She really could have used more funds! But safe passage meant far more—she just wasn’t willing to try to buy a ride as a passenger unless it proved to be absolutely necessary. Using her more valuable gems might raise questions or start rumors.
+
+With the unexpected assistance from her fellow caravan guard, the [Merchant] finally seemed to seriously appraise her.
+
+The negotiations were swifter and a touch more brutal than Ranthia had hoped. She truly was selling her services for a song—one small arcanite per day, seriously?!—but at least it included two meals a day and the caravan was bound for the Tympestshard Council. They wouldn’t pass through the City of Arts, but it seemed like they would pass pretty close by it. She could always handle a short journey on foot; the important thing was to get into the right nation.
+
+Though by the time they concluded their negotiations, Ranthia had regrets about the persona she had chosen. How had Lysia or Pyra managed to endure their bubbly personalities without living in a state of perpetual exhaustion?!

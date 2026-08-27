@@ -1,0 +1,149 @@
+---
+id: dfaadf0e-5830-5f7d-98d3-03f287d5685f
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 56 - Soloing with Glyphs"
+slug: 0060-b3-chapter-56-soloing-with-glyphs
+partOf: bookbound-bunny
+position: 60
+ownLength: 2391
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3564891/b3-chapter-56-soloing-with-glyphs"
+royalRoadId: "3564891"
+---
+
+Since Lily had nothing else planned for the last day of the weekend, she spent some time exploring the second floor on her own. She had tried to take Lotte along, but the girl surprisingly turned her down, saying she wanted to go brew potions in the lab.
+
+Lily almost changed her mind, but decided to stick to her plan. She hadn't really spent time in the dungeon with just Arakil recently, and this way, she could be a bit more selfish in refining her Mana Core. However, she still planned to make the offer to Hana to join, but she couldn't find her anywhere.
+
+She's probably run to Kaeling again.
+
+Seeing Lily determined to go alone, Lotte eventually offered to go with her, which Lily quickly turned down. "Focus on your alchemy. I just want to draw some glyphs in the dungeon that I can't in my room."
+
+"Alright, see you at dinner then," Lotte said, waving goodbye.
+
+Lily double-checked her supplies and found them more than sufficient. Hana had gone out of her way to buy supplies to make up for the crystal lenses, and so all three of them had enough travel rations stashed away to choke a dragon.
+
+After descending the staircase, she entered the second floor and was greeted by the early morning scenery and the chirping of wildlife. No matter how many times she came here, she still found it unbelievable. How the artificial forest felt and even smelled so real.
+
+I wonder if the floors below have the same feel.
+
+Lily hadn't gotten much of a chance to look around when Arakil was teleporting them, as she was too focused on what the dungeon was throwing at them. That and watching Arakil wave around magic like never before.
+
+Despite being in the abundant forest, Lily didn't spend too much time gathering unless she spotted something rare. Instead, her focus was almost entirely on using glyphs and runes to defeat monsters. When adventuring with her friends, it wasn't practical to have them wait for her to draw something for every encounter, but now that she was going solo, that wasn't an issue.
+
+At the same time, Lily wanted to try out some of the offensive crystal seeds she had prepared. They had been very ineffectual on the first floor, but now they would have their chance to shine, and when Lily found a small pack of dire wolves, she got to see it in action.
+
+"Oh…"
+
+The crystal shards had violently pierced through the monsters, causing them to perish in a manner that was a little too gruesome for her liking. She hadn't realized it at the time, since the first floor didn't really have prime targets, but this was quite a deadly spell. To her relief, the monsters, after being skewered, always exploded into black flecks, meaning she didn't have to worry about being squeamish at the results.
+
+[If it's too much, you could change to an alternative configuration where it grows crystals over a target and seals them inside. Then, you could finish them off with a Starburst or glyph.]
+
+"That also sounds a bit… I dunno, I guess I'll think about it."
+
+Lily noted that when she was alone, she didn't have the same enthusiasm to kill monsters compared to when partnered up with Hana and Lotte. Or, maybe it was because these monsters were a bit more animal-like than others.
+
+Well, I have to get over it if I want to be an adventurer with Rose.
+
+Unrestrained from the confines of her room, Lily was able to experiment with glyphs and inscriptions like never before. Yes, she had drawn some of these, but she never dared activate them. With glyphs, she summoned a blaze of fire, a tornado of slicing wind, launched a massive boulder, conjured bolts of lightning, and even had the monster's own shadows attack them.
+
+Seeing her drawings do all of this really left quite an impression on Lily, as seeing the result was far more effective than hearing about it. Arakil also began chiming in with suggestions, and this turned into a rather impromptu lesson as they wandered aimlessly.
+
+Of course, not all of it was destructive, and Lily spent quite some time in an open clearing she found, experimenting with creation. Lily's knowledge of earth glyphs got a thorough workout as she molded the soil and stone into various structures and shapes resembling furniture.
+
+However, none of this was reinforced; Lily couldn't waste the time and Mana on it, meaning it wouldn't exactly stand the test of time, and if a monster found it, it would all be reduced to rubble. Still, that didn't stop Lily from trying out a variety of configurations and turning the area into her own little canvas.
+
+[What about learning an inscription for travel?]
+
+"Do you mean teleportation?"
+
+[No, that's a bit too advanced and risky for you at this stage. The safest option would be something using wind.]
+
+"You mean flying…? How is that the safest option?"
+
+[Not exactly flying. It would be similar to what you achieved during the gauntlet to get across that bridge.]
+
+"You mean the dumbest idea I ever had…"
+
+[Well, it was thrown together with just a few talismans, not exactly what you'd call a refined inscription fit for purpose.]
+
+"I'm not saying no, but… What would the alternative to wind be?"
+
+[Going underground and traveling through rock. This has the risk of temporarily trapping you if you unexpectedly reach a denser patch of earth than you expected. I'm not sure if you're claustrophobic, but this method of traversal is known to cause a spike in cases.]
+
+Lily thought about it for a moment, and the idea of being trapped underground caused her to gulp dryly. Who wouldn't be afraid of being buried alive? That was completely rational in her honest opinion!
+
+"Wind sounds… Good…"
+
+[Excellent. For the most part, you've already learned the individual parts; you just need to know how to put them together. Let's begin—]
+
+Late into the afternoon, when it was almost time for Lily to leave, she had finally finished her sudden lesson with Arakil. The finished inscription drawn before her was quite impressive, and she had to admit it might have been one of the best things she had drawn to date.
+
+Now this is a proper inscription.
+
+Technically, the crystal ones were proper inscriptions too, but Lily didn't really feel that, considering how it treated earth and water as auxiliaries. This also included her opinion on a few of the other mono-element inscriptions she had drawn, as those were "cheating" by doubling up on identical glyphs.
+
+No, this inscription contained four glyphs, none of which were duplicates. The first glyph, which was the biggest of the three, launched you up and forward, with Lily being extremely restrained on the maximum height. Effectively, this was the crux of the inscription, and it could be used as a glyph on its own if you had outside means to reproduce the next two glyphs.
+
+The second glyph was a barrier, something Lily was quite knowledgeable about. Arakil usually emphasized safety, so barriers and shields were a must. She had yet to reproduce his super shield in full, but her own creations were not bad by any stretch of the imagination. As for this wind barrier, it was to ensure user safety from minor hazards and prevent them from being affected by high-speed winds.
+
+The third glyph was also for protection, specifically for the landing portion of this inscription. It would not only absorb the excess inertia but also reduce the impact of the landing. To Lily, this was arguably the most amazing part of the entire drawing, as she had no idea that any of this was possible and involved components she hadn't seen before.
+
+According to Arakil, to land safely, Lily needed to dispel her momentum, but it still had to go somewhere. In this case, the majority of it would be sent safely downwards as a sort of air cushion for her landing, while the remainder would be sent out in a radius around her, focused upwards, so that she wouldn't be sent flying up again.
+
+Seeing it all come together had taught Lily quite a lot she hadn't realized about inscriptions and had given her some insight into the ones Arakil had drawn for the Mana Core ritual site, for example. Lily had played around with timers for alchemy; you could even argue it was one of the sigils she knew the most of, but she hadn't considered that inscriptions would allow you to stage a spell rotation.
+
+Finally, there was one last component, which was the only thing that could compete with the third glyph for Lily's amazement. It was a type of auxiliary glyph, but like nothing Lily had seen before.
+
+[This is a control glyph, and it's what allows inscriptions like this to be safely used.]
+
+"Control? But isn't that what sigils are for?"
+
+[You're correct, but also wrong. Those are forms of control, but in this case, it's for the user's operation of the inscription. We will be keeping it simple to avoid any potential mistakes, but what would happen if you are flying and suddenly there's a rock in your way?]
+
+"Umm… I'd wrap myself in my Nebula Veil and hope that it and the wind barrier were enough to protect me? I could also use a shield talisman… Maybe try to remove the rock with a Starburst?"
+
+[Good answers, but in this case, the correct answer would be to land early.]
+
+Lily frowned; this answer felt like cheating to her, as it went against what was set out in the parameters of the inscription. If making up answers were allowed, she could've just said she would teleport past the rock.
+
+Arakil chuckled, as if knowing exactly what was going through her mind. [Yes, yes. I understand your frustration, it's like I'm telling you to modify a glyph while it's already active, something you can't do.]
+
+Lily nodded.
+
+[But we aren't modifying it; we are preparing the controls beforehand. In this case, we are configuring the control glyph to trigger the third glyph before its established parameters are met. You could think of it like a manual override.]
+
+"How does that work, though? You can't really interact with a glyph after it's activated… Unless moving counts?"
+
+[You're right, but what we will be going over is establishing a specific trigger event, in this case, an intentional gesture, which the control glyph will be waiting for. If it doesn't sense it, nothing happens; if it does, it activates, and for our purposes, manually starts the third glyph for landing.]
+
+Lily was dumbfounded by this explanation. It sounded absolutely unreal, and she wondered why Arakil hadn't taught her something like this sooner. The answer came to her shortly after her initial confusion; she hadn't touched on inscriptions enough for this to be worthwhile. Furthermore, she now felt like this control glyph had far more options available, and that this initial usage wasn't even scratching the surface.
+
+Since this was a brand new glyph with all the bells and whistles, Arakil kept it to a bare minimum, but even that occupied the majority of their time. Lily had thought the trigger gestures would be individual sigils, but instead, it was a kind of recording variant similar to the ones she used to map out a target area. You drew the sigil, partially activated it while performing a gesture, and it was saved.
+
+Lily had thought to make the gesture simple, but Arakil told her to make it complex so she wouldn't unintentionally trigger it. Thankfully, with the wand, she could just erase the sigil and redraw it to record a new gesture, settling on pinching her thumb together with her ring and middle finger, while keeping her pinky and index finger raised.
+
+With how long the lesson took and Lily's earlier dungeon activities, there would be no time for her to redraw the inscription. Because of this, Arakil gave her permission to save the finished inscription in the wand, so that she could experience it a few times in rapid succession before their departure.
+
+Lily had used this so rarely that she actually needed a reminder on how to use those functions, as the saved within the wand was still a shield glyph Arakil had suggested. Overwriting the saved glyph with an inscription took no time at all, and now Lily was prepared to test it out.
+
+[Since we have time for several attempts now, I suggest using the override a few times so you get the feel for it. The last thing we want is for you to slam into a tree because you weren't ready.]
+
+"Yes…" Lily murmured nervously.
+
+Lily held Arakil's book, which had shrunk down, and put away her wand before activating the inscription. It lit up brightly before the drawing enveloped her; the arcane symbols swirling around her like a magical tornado. Before Lily could marvel at the sight, she was abruptly sent flying forward as it activated.
+
+"Eeeeeee!"
+
+Thankfully, there was nobody around to hear her unexpected screech, as she was sent hurdling forward in an upward arc. In her panic, she clutched at the book tightly and instinctively wanted to shut her eyes tight. At the same time, her Nebula Veil began to wrap around her tightly, attempting to become a protective cocoon for the startled bunny. Thankfully, Arakil's reassuring voice came to her aid.
+
+[Use the gesture!]
+
+Lily reacted quickly and tightly punched her three fingers together, and her diagonal ascent abruptly stopped, only for her to go straight down. As the ground approached, the cushion of air caught her, and when it popped, it released the accumulated inertia.
+
+When Lily hit the ground, her legs felt like jelly as they quivered, not from the impact, but from her own shock. All things considered, it was a very smooth experience; mentally, however, it had been anything but that.
+
+[Not bad for your first time off the ground. Well, second, if we count the gauntlet.]
+
+Lily glared at the book she held, her arms quivering as much as her legs. She had to restrain herself from suddenly taking a page from Rose and hurtling him at the nearest tree.

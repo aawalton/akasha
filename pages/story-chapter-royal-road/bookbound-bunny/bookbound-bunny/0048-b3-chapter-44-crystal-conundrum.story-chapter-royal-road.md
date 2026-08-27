@@ -1,0 +1,257 @@
+---
+id: ea0dd4d3-176b-51d1-a401-f4747712b9c9
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 44 - Crystal Conundrum"
+slug: 0048-b3-chapter-44-crystal-conundrum
+partOf: bookbound-bunny
+position: 48
+ownLength: 2336
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3426264/b3-chapter-44-crystal-conundrum"
+royalRoadId: "3426264"
+---
+
+While Lily's hidden progress went unseen to the majority, the same could not be said for her friends. Since they spent a lot of time together, they quickly picked up on the subtle differences, as well as the not-so-subtle ones, like the pair of crystal spheres she continued to toy with.
+
+The reactions were quite different depending on her friends. Hana thought they were priceless treasures and wondered where Lily had bought them, and more importantly, how she had afforded them. Thomas and Arthur thought they were clearly hidden weapons of some kind, and both were highly intrigued by them. Lotte thought it was just a toy, and it wasn't until Lily explained what she was doing that she finally stopped the playful teasing.
+
+Even after Lily explained it, most of them weren't too sure about their usefulness. Was there really a need for your fingers and hands to be that fast and flexible? Even Thomas, who was comparable to Lily in his extra effort in his studies, had doubts about the authenticity of this exercise.
+
+Lily couldn't blame them; it really did look like she was just playing with some kind of fidget toy, and if not for her utmost trust in Arakil, she would've joined them in their doubts. Once the topic shifted from their purpose to their origin, and Lily revealed that she had crafted them herself, things took a strange turn.
+
+"These are made from crystal?" Hana asked, rolling the silver orb in her palm.
+
+"Yes, I recently started exploring crystal glyphs and inscriptions," Lily admitted.
+
+"And you're a hundred percent sure it's crystal?" Hana asked again, stressing the importance.
+
+Lily nodded. "I'm absolutely positive."
+
+"What's the big deal? It's just like a fancy type of glass, isn't it?" Lotte asked, playfully tossing and catching the dark orb a few inches each time.
+
+"Well, Lily is a Lagia, not a Mustelia," Hana said.
+
+"A what?" Lotte asked, blinking a few times.
+
+Even Lily tilted her head in confusion. She naturally assumed it was a demi, but had no idea of the kind it was.
+
+"Come now, you're both demis, not humans. How have you not heard of the Mustelia?" Hana insisted.
+
+Lotte and Lily could only shrug in response.
+
+"Lily makes sense at least… She grew up in an orphanage, no offense," Hana said with an apologetic smile.
+
+"None taken," Lily chimed in.
+
+"If there was a Mustelia at an orphanage, then something must have gone terribly wrong," Hana continued.
+
+"What creature are they similar to?" Lotte finally asked.
+
+"Badgers," Hana answered, frowning at Lotte. "I'm genuinely shocked you haven't heard of them."
+
+"Really? Why?" Lotte asked. Lily nodded in curious agreement.
+
+Hana sighed. "There's a lot of animosity between most Serpia and the Mustelia clan."
+
+"Well, I'm not part of a clan or noble family, so that's got nothing to do with me," Lotte shrugged.
+
+"Clan?" Lily asked.
+
+"Think noble, but multiple families together. In some cases, they are more powerful than nobles, as they usually own a big territory," Lotte explained before Hana could answer.
+
+"And yet somehow you don't know who the Mustelia are…" Hana grumbled. "I know they are a northern clan, but they are still technically part of the kingdom."
+
+Lotte gave a shrug and resumed playing with the dark sphere. "What does that have to do with Lily, though?"
+
+"Is it a bloodline?" Lily guessed.
+
+"That's correct," Hana sighed. "The Mustelia are all-powerful earth mages, with their elites having access to a bloodline that gives them crystal magic. They use it to sell all sorts of goods, which the rich just lap up, for obvious reasons."
+
+To emphasize her point, Hana held out the silver crystal sphere. She even went as far as to cast a minor light spell to make it glimmer and shine like never before.
+
+"So?" Lotte asked, almost sounding disinterested. "It's not like they have a monopoly on crystal magic."
+
+"Actually, they do," Hana answered.
+
+"What?" Lotte blurted out.
+
+Lily was also extremely surprised. "Really? Well, I'm using an inscription, so it's technically different."
+
+"I don't think they would see it that way," Hana replied. "Honestly, I've never even heard of glyphs being able to replicate a hidden bloodline before."
+
+"I guess it would be like you drawing a glyph for one of my spells," Lotte commented.
+
+Hana nodded.
+
+"Wait! Can you draw a glyph of my spells!?" Lotte cried out, looking at Lily.
+
+"Um… No…" Lily replied a little hesitantly.
+
+"But could you?" Lotte pressed.
+
+Lily unconsciously glanced at Arakil.
+
+[You could. The poison crest isn't that difficult; I only didn't teach it to you as I assumed you'd find it unsavory. Although to correctly reproduce the potency of a basilisk, you'd need to incorporate it into a basic inscription at a minimum.]
+
+"I probably could…" Lily admitted.
+
+Lily expected Lotte to get mad, but the girl laughed instead. "Damn, you really can do anything with glyphs. That's crazy."
+
+"Crazy is putting it mildly," Hana said, her brows furrowed. "There are a lot of magics that are closely guarded."
+
+"Magical legacies…" Lily mumbled.
+
+"Oh. So you do know about it," Hana commented, a little surprised.
+
+"Rose mentioned it to me," Lily revealed. "It's part of why I donated that Magesight page to Headmaster Fabrelis."
+
+"I'm still bitter you didn't tell me about that sooner, by the way," Hana pointed out.
+
+"Hey, it was a Maranix secret," Lotte said with a teasing wink.
+
+Hana sighed. "Getting back to the point, not all magical legacies are the same."
+
+"I don't get it. A secret is a secret, no matter what, right?" Lotte asked.
+
+Hana shook her head. "No, there's a big difference between me hiding a light spell or Arthur hiding a wind spell. In theory, almost anyone can use that, especially humans."
+
+"Right…" Lotte agreed.
+
+"But crystal magic is not the same. You have to have the bloodline to even cast it; the majority of the Mustelia clan don't have access to it."
+
+"And you're sure they aren't just hiding it from them?" Lily asked.
+
+"Would they hide it from the head of the clan himself?" Hana countered.
+
+"So it's a bloodline-only type of magic," Lotte chimed in.
+
+Hana then gave a pained smile and gestured toward Lily with the crystal ball. "Well, it was."
+
+"Oh," Lily and Lotte said, almost in unison. The crux of the issue was now crystal clear.
+
+[I suppose it's a good thing we didn't change your focus then. Who knew it would be claimed by a prominent clan?]
+
+{Not now…}
+
+"Common sense says that even with glyphs, there's just some types of magic that can't be handled by anyone else," Hana said.
+
+"Even with glyphs? How would they check that?" Lotte asked.
+
+"Well, do you think they don't have their own glyphs?" Hana responded. "I can't confirm or deny the Mustelia's situation, but I know there have been other bloodlines who could make their own exclusive glyphs."
+
+"Even humans?" Lily asked.
+
+"Even humans," Hana confirmed.
+
+"That doesn't seem right…" Lily mumbled.
+
+"Yeah, what happened to that human flexibility?" Lotte asked, then gave a playful smirk. "Poor Thomas, he lost his biggest advantage without even knowing about it."
+
+[I can think of two probable reasons right off the bat. Firstly, the humans might not have as neutral Mana as they assume. While seeming pure, they might have traces of a bloodline or even a subtle bias towards an element, meaning that they cannot activate any glyph.
+
+Secondly, the glyphs designed through these bloodline practitioners actually require the bloodline to activate. I've been teaching you neutral glyphs, as they are universally applicable, but there are variations. You could liken it to the divine glyphs designed by the gods, except instead of needing a divine key, you need the correct natural affinity.]
+
+What Arakil said made sense to Lily, and she already assumed that the reason for this was to make them easier to use. No doubt, limiting the glyph to a specific kind of user could simplify the requirements at the cost of no longer being neutral.
+
+"I'd advise you to keep this a secret," Hana said, seriousness in her eyes. "There's no telling how the Mustelia clan will react to finding out about you. Their crystal crafts quite literally keep their entire faction alive."
+
+"I wasn't planning on selling crystal furniture," Lily swiftly denied.
+
+"Aw. I was hoping for a crystal bed," Lotte joked before becoming a little more serious. "You could tell the headmaster. I'm sure he would stop any problems from reaching you."
+
+"That's a good idea, but his influence doesn't extend to outside of Regarth, or have you forgotten about Aura?" Hana asked.
+
+"I don't mind telling Headmaster Fabrelis, I mean, he would figure it out eventually anyway, I'm sure," Lily answered.
+
+Lotte tilted her head. "How come?"
+
+"Well, I planned to use crystal glyphs in the dungeon," Lily replied. "After putting in the effort to learn it, and having seen its effectiveness, I'm not writing it off for some group of people I've never even heard about. "
+
+"Since when were you so assertive?" Hana asked.
+
+"What do you mean? I've always been this way…" Lily replied.
+
+Hana and Lotte both shook their heads, leaving Lily dismayed.
+
+I suppose I just don't want anyone telling me not to use something that Arakil taught me…
+
+"Well, anyway, I guess if you keep it to the dungeon, you're probably safe," Hana partially agreed.
+
+"Just sucks you won't be able to use them in any of the competitions," Lotte added.
+
+"That's fine," Lily said, and with a smirk held out a black crescent moon in the palm of her hand. "I always have this to rely on."
+
+The pair shuddered, and Hana even took a few steps back. Nobody wanted to be the victim of Lily's Lunar Eclipse. Only when Lily made the dark moon apparition vanish did the room's temperature return to normal.
+
+"Speaking of competition, aren't they soon?" Lotte asked.
+
+"Yes, although I can't imagine it will be that exciting for us first years," Hana answered. "The expectations of us are relatively low, so the focus will mostly be on the senior students. Having said that, it will be used to determine the slots for the interschool tournament, so it's still worth trying our best."
+
+"I dunno… Even the interschool competition sounds a bit boring," Lotte said. "I mean, take alchemy, for example, we will only be able to brew some beginner potions, I'm guessing."
+
+"You're just upset you aren't in the duels," Hana asserted.
+
+Lotte groaned, planting her forehead into her palms in frustration. "Okay, okay, yes, you got me!"
+
+"There's still the dungeon competition," Lily said, trying to cheer her up.
+
+"I guess…" Lotte grumbled. "Although, isn't it just another gauntlet on the first floor? I'm sick of fighting those monsters."
+
+"Even I'm getting a bit tired of them, and that's with me having spells to beat them," Hana admitted. "It's strange how nobody has actually reached the end yet."
+
+"I want to say that Alice did something, but I'm not sure," Lily speculated.
+
+"More likely the headmaster, he's the one in charge of the dungeon," Hana replied.
+
+"Unless he did it on her request," Lotte suggested.
+
+"Sorry, I'm friends with you both, but I'm not joining you on the anti-Alice sentiment," Hana said, with a bit of an awkward smile. "She's a four-star adventurer, and I'm kind of a fan…"
+
+"Want Lily to ask for her autograph?" Lotte teased.
+
+"Please don't…" Lily groaned.
+
+"No… But I do have a bit of a selfish request…" Hana admitted, giving Lily a pleading look.
+
+"I'll hear you out…" Lily sighed.
+
+"Well, I know it's hypocritical of me to say after everything we just talked about… But, do you think I could get something made out of crystal?" Hana asked, gesturing shyly at the crystal sphere in her hands.
+
+Lily blinked a few times in astonishment before she began giggling almost uncontrollably. It really was quite the request, and Lily had been suspecting it would involve Alice. Yet Hana was asking for a crystal ornament. It just sounded so silly.
+
+"Sure, I don't mind, I can use the practice," Lily finally said, a smile still on her face.
+
+"Hey, no fair, I want one too," Lotte moaned.
+
+"I'll make one for both of you," Lily quickly interjected. "In whatever color or shape you want. Well, provided it's not too complicated…"
+
+"Define too complicated," Lotte requested.
+
+Lily paused to scratch her chin, trying to think about what her actual limit was at the moment. In theory, given enough time, she could make any shape she wanted. Still, she didn't want anything too insane.
+
+"No statues of your favorite celebrity," Lily finally said, with a little cheeky smirk.
+
+"Aww, no crystal replica of Alice for Hana," Lotte teased.
+
+Hana blushed and shook her head. "I don't want a statue… I was hoping for a diamond, or if that's too hard, maybe just a triangle?"
+
+"Sure, diamonds are easy," Lily agreed.
+
+"The Mustelia better not hear you say that…" Hana whispered.
+
+"Well, I want a star," Lotte said.
+
+Lily smiled. "Well, stars are my speciality."
+
+"Exactly! That way I'll know you made it. I want one like your Starburst," Lotte explained.
+
+Lily gave a confirming nod. Lotte's request wasn't actually that complicated compared to making a star polyhedron, which Lily had originally assumed she wanted.
+
+"You'd better make two then, otherwise if Rose finds out, you'll never see Lotte again," Hana joked.
+
+Lotte chuckled nervously, although her face had gone a notable shade paler. "That's a good idea… Better make two stars! In fact, I'll hide mine until you give Rose hers first."
+
+"I think I'll do the same," Hana admitted.
+
+Lily giggled again, while her finger was already fidgeting as if already sketching out the initial design. She wasn't sure if these crystal badgers would find out about her, but with Regarth, Rose, and Arakil backing her, she felt like she didn't have anything to worry about.

@@ -1,0 +1,167 @@
+---
+id: 3d06cd0f-e832-5b0c-843e-715be1cce8bc
+page-type-slug: story-chapter-royal-road
+title: "v4c5: Across the Face"
+slug: 0010-v4c5-across-the-face
+partOf: beware-of-chicken
+position: 10
+ownLength: 2182
+unit: words
+ownProgress: 2182
+publishedAt: 2023-05-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1200675/v4c5-across-the-face"
+royalRoadId: "1200675"
+markedReadAt: "2026-06-29T18:51:38.917Z"
+---
+
+Shi Jipeng of the Shrouded Mountain Sect was quite glad that the yearly examinations were his contribution to the sect. To weed out the weak was his duty—one he quite enjoyed.
+
+The current brat had been uniquely unworthy. The First Stage of the Initiate’s Realm, and no techniques to his name? How utterly contemptible! To think that he would dare even disgrace their doorstep!
+
+He did the boy a favour in crushing him. The Shrouded Mountain Sect was a place for the strong, and better to be defeated and banished here than killed later! Perhaps the boy would even come to him and kowtow before Jipeng like he was the boy’s father!
+
+But of course, the boy had to land beside one of those. One of the bleeding hearts. The annoying fools who would shout and rave about unfairness, and who would waste valuable resources on the unworthy.
+
+And indeed, the woman before him did have valuable resources. Healers were not entirely common, and ones that could obviously brew their own cures and potions were a resource to be acquired.
+
+“The first lesson all cultivators should learn is that one should not waste their time with trash. Harden your heart and discard worthless things, especially the weak,” Jipeng instructed the woman. “Leave him and I shall be lenient.”
+
+She froze momentarily at his words, then smiled at Jipeng.
+
+“Worth differs between perspectives,” the insolent girl replied. Her Qi pulsed, and the boy’s breathing evened. She stood, interposing herself between Jipeng and the defeated brat, still smiling. Perhaps she meant that smile to be intimidating? A laughable thought. She was below him in cultivation—he could feel her power, that of the First Stage of the Profound Realm.
+
+“Foolish. You should have taken this Senior’s wisdom, girl,” he informed her.
+
+Arrogant as her actions were, he knew he could not break her for her cheek. She was a healer, and in the Profound Realm. Her admittance was a forgone conclusion, from what he had seen of her skill, and his superiors would not look kindly on driving her way completely.
+
+Still, something of an example could be made. After all, a senior had a duty to… chastise a junior who was disrespectful.
+
+He strode back into the ring and the woman stepped in behind him, her movements graceful and her smile still locked on her face. Her body, however, betrayed her tension. He could see the taut readiness of her muscles, and her left fist was clenched into a white knuckled grip.
+
+“What is the name of the one before me who wishes to join the Shrouded MMountain sect?” he demanded.
+
+“Hong Ri Zu greets the Examiner,” the small woman said, her voice tight and slightly guttural.
+
+“Take your stance, girl. Your Senior shall make this quick.” She was lucky he was such a kindly instructor. “Be thankful to have caught my attention. Do well, and I will allow you to have personal lessons under me.”
+
+He could overlook some blemishes, and her eyes were rather fetching.
+
+Ri Zu stilled. Her dark eyes looked to be in shadow and the air around her looked thick, roiling with her Qi.
+
+Very well, Jipeng thought to himself. If she is not ready, she is even more deserving of her lesson than anyone could expect.
+
+He opened up with a strike that would have slain the boy on the ground outright, a fist heading directly to the girl’s chest. It was speed certainly beyond one who had just ascended to the Profound Realm!
+
+So it was a bit of a shock when she dodged it. Easily, as though she was used to taking on far faster foes.
+
+Jipeng’s eyes narrowed, and Ri Zu immediately counterattacked. A claw hand lashed out to blind him. He jerked his head back, and the claw transitioned to another blow, this one heading to his throat while covering an attack meant for his liver.
+
+Three strikes in such short succession, and each one to a vital area? Enough, Jipeng snarled to himself.
+
+[Heavenly Fulmination Arts: The Lightning Strikes!]
+
+A flurry of punches flashed out. Each one flew like lightning and crashed thunderously, shattering the air—and each one was dodged. The woman bobbed and weaved around his blows with what looked like ease, her eyes never leaving Jipeng’s… and not once during his flurry did she strike back.
+
+He continued his assault, trying to tire her out, knowing that every blow he failed to land was a loss of face in the eyes of every other examiner. His movements got faster with every strike until he reached the end of his technique, culminating in a knife hand that was as a bolt from the heavens.
+
+Something stabbed just below his thumbnail, and he hissed. A little silver needle had been driven into his body.
+
+Ri Zu was still smiling. A heat built in his thumb.
+
+He jumped backwards, considered for an instant of what kind of poison the woman had used and easily identified the feeling. It was a paralytic, something he could easily purge. She dared think that this would work on him?
+
+“Ri Zu expected more from an examiner from the Shrouded Mountain Sect,” the woman said, her head cocked to the side.
+
+“Well, you shall see my might now!” Jipeng snarled, ignoring the weak poison as lightning Qi gathered around his fist. Ri Zu pulled two fingers up in front of her face—
+
+[Thunderous—]
+
+[Poison Arts: Virulent Spread]
+
+—and his arm seized as lingering green Qi activated. The weak poison twisted and mutated within his thumb… and burst past the Qi barrier he had formed to contain it. It raced up his arm and into his chest, making every one of his muscles contract painfully.
+
+His technique spluttered and died—and Ri Zu was suddenly right there.
+
+Two dark eyes boring into his own. A smile that had seemed laughable before, now suddenly no longer funny.
+
+He tried to strike her with his good arm, but almost leisurely Ri Zu deflected it. An instant later her palm hammered into his chest just above his stomach. Bile rose in his throat at the blow.
+
+“Sit down and let Ri Zu examine you,” the woman said conversationally as more poison entered his bloodstream, paralyzing him completely. Ri Zu shoved him over and, like a toppled tree, he landed on his back with the woman’s fingers still on his chest.
+
+Green Qi invaded his body like an army through open gates, brushing aside his own attempts to dislodge her. He was utterly helpless. The feeling of utter violation and terror grew as her Qi plunged deeper into his body. The touch ghosted along vital pathways, feeling like a bared blade gently tracing meridians and vital organs, promising that it could plunge into him at any time. The poison waited like a slavering hound just outside his heart—with a single thought she could let slip its chain, and the organ would freeze just as much as the rest of him.
+
+He couldn’t even voice what was happening to him, for his jaw was locked shut. And all the while, he was staring into dark, pitiless eyes.
+
+He waited for her to crush him utterly.
+
+And then… the woman didn’t. Her Qi withdrew and Ri Zu stood up, looking bored.
+
+“The meridians in your left arm are clogged through poor control of your techniques. Your liver has a band of scar tissue from improper healing. Your nerves have degraded twelve percent from this method of cultivation. The joint in your left knee is six percent less mobile than the one in your right.” She was still smiling, speaking as if she had just examined him like any other doctor. ”Ri Zu could fix all of this easily… but Senior’s words have merit. Ri Zu will spare no time to heal trash.”
+
+A drop of blood leaked past Jipeng’s lips.
+
+“Master Examiner, has Ri Zu passed this test?” the woman asked as she turned to Zihui.
+
+The man frowned at her. “Girl, I allow this once. Do not shame the Shrouded Mountain Sect like this again.”
+
+“Ri Zu hears and obeys, Senior,” the woman said, the very picture of grace as she bowed. “She just imagined the examiner here to be stronger than he was.”
+
+Zihui snorted. “I’ll allow it. The rest of you, take note! A Spiritual Doctor is never to be taken lightly.”
+
+Shame and embarrassment burned in Jipeng’s guts as Zihui walked up to look down on him. He just let this bitch get away with what she had done to him. How dare this bastard!
+
+Zihui leaned down, under the guise of checking on him. “That you did not recognize that one’s talent is your own fault, fool.” Lightning cracked through the head examiner’s hands, and then surged into Jipeng’s body, purging the poison from Jipeng’s veins. He immediately shot up to his feet and turned to glare at Ri Zu’s back as the woman moved to stand beside a red-haired man.
+
+His hand tightened into a fist. Lightning cracked around it. She was open…
+
+Two green eyes speared him like a heron spears a fish. The red-haired man did nothing more than stare at Jipeng, but the moon rose in his vision, filling the sky with silver light.
+
+Fifth Stage of the Profound Realm.
+
+Jipeng turned and glared at those who were still watching.
+
+“… next aspirant!”
+
+============================
+
+They had an acceptable crop this year, Examiner Zihui noted as the last of the successful aspirants bowed to their instructor. Only one incident this year as well. Jipeng had made a fool of himself and would be on a punishment detail, but other than that things were going well.
+
+There were several aspirants of note among those who had passed. Fa Bi De, Hong Ri Zu… and the monkey looking fellow, Gen Biren. He used a sword style reminiscent of the Shrouded Mountain Sect’s orthodox style—but such was their strength that many in the Howling Fang Mountains had tried to imitate it.
+
+Still, imitator or not, he was good enough to pass. And now… it was time for the next portion of the trial.
+
+The gates at the top of the pavilion opened, and mist spilled forth.
+
+“You have done well to pass the trial of combat,” Zihui said in a carrying voice. “Now… you must navigate the Shrouded Path. It is full of the illusions of the Foxes; your will must prove strong enough to overcome them! You have until sunrise. Your trial begins… now.”
+
+There was a pause, and then some of the aspirants shot forwards.
+
+The Shrouded Path was a leftover from the Demon Foxes. The part of the trial they told the aspirants was true: it was filled with a befuddling mist. But it was the second part that was valuable to the Shrouded Mountain Sect. It would reveal both the disposition of their Qi… and, on the surface level, their desires for becoming disciples of the Shrouded Mountain Sect.
+
+It was imperfect, as once one passed through the Shrouded Path defeating the illusions tended to be trivial. But it was another line of defense against infiltrators. They expected straight forward lightning… but neglected to defend against the insidious nature of a fox.
+
+Zihui kept his eye on those who looked to be the most promising as they stepped into the shadows and mists. Many were instantly led astray…
+
+Fa Bi De strode forward. His Qi was silver, shining like the moon and an anathema against corruption. He raised an eyebrow at a shadowy figure, deep in the mist.
+
+“Learn well the teachings of the Shrouded Mountain,” the old man commanded him.
+
+Bi De paused and frowned at the illusion… then dispelled it with a simple shake of his head.
+
+Slightly behind him marched Ri Zu. Her eyes were still narrowed, and anger continued to radiate off her. Ri Zu’s Qi was a dark, medicinal green, and though it was shot through with poison there was no corruption that could be sensed there.
+
+“I won’t be left behind! I’ll stand beside you, wherever you choose to go!” Ri Zu said, her fist clenched with determination.
+
+The woman clicked her tongue and marched onwards, not bothering to disperse the phantom.
+
+Biren brought up their rear, looking entirely unconcerned. His Qi strobed and flickered like the Mountain’s own lightning, light in its purest form and expression.
+
+“Ah, man, why do I have to be so damn responsible! Wait up you two!”
+
+The young man chuckled at his own voice echoing through the mists and walked on, smiling.
+
+Others came after them. They bore wishes for power. Wishes for fame. Wishes to learn the secret techniques of the Shrouded Mountain Sect and become legends. All of these were just as valid. To the Shrouded Mountain Sect, ambition was necessary.
+
+Zihui turned to where his senses insisted nobody stood beside him, ensuring his voice would not carry. “What is the assessment of the Honored Inquisitor?”
+
+“No corruption,” the veiled man said. “No taint. No shadows from the foxes. They are to be admitted.”

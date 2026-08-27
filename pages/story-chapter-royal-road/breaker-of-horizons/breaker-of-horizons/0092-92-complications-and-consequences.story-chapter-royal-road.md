@@ -1,0 +1,95 @@
+---
+id: 00ffd864-c77f-5711-bda4-76315e23abbc
+page-type-slug: story-chapter-royal-road
+title: "92. Complications and Consequences"
+slug: 0092-92-complications-and-consequences
+partOf: breaker-of-horizons
+position: 92
+ownLength: 1657
+unit: words
+publishedAt: 2021-03-18
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/648877/92-complications-and-consequences"
+royalRoadId: "648877"
+---
+
+Maugrim Caldwell. Caden's heart skipped a beat at the mention of the Demiurge, but he kept himself limp in Mr Silver's arms as the whole entourage hurried through the halls of the manor. It wasn't long before he felt himself being lowered into a soft bed. His eyes were closed, but the sound of industry around him and the movements in the arcana told him that the agents were setting defensive wards in place.
+
+Once again, even though he had never studied or even encountered these sequences before, he could get the gist of them. They whispered their nature to him or else radiated their intent. It was actually a little distracting, and he had to force himself to pay more attention to the conversation in the room.
+
+There was a stirring in the arcana that told Caden a wide-area telepresence orb had been activated. "SD-P7 is secure in Safehouse 3," Mr Silver said crisply.
+
+"Acknowledged," came the reply; a female voice that somehow put the image of an elderly matriarch in Caden's mind. "Has Caldwell been informed?"
+
+There was a pause, presumably as Mr Silver turned to one of his fellows for confirmation. "Yes, ma'am."
+
+"Permission has been granted for him to make contact with SD-P7. Facilitate the call and make sure it does not exceed 5 minutes. After that, hand SD-P7 over to the detachment at Safehouse 3 and proceed to rendezvous with Team 1 to complete the transfer of SD-P1."
+
+"Yes, ma'am."
+
+The telepresence orb's coverage ended, then started up again.
+
+"I believe I have five minutes," came Demiurge Maugrim Caldwell's smooth voice. "Will all of you please wait outside?"
+
+"I have orders to–" Mr Silver began.
+
+"Wait outside," the Demiurge repeated, an icy quality to his voice that Caden had never heard before. And even though this was only a telepresence orb's projection of him, somehow, the arcana became charged with intent. Mr Silver relented, and Caden heard the agents all filing out of the room. As soon as the door clicked shut behind them, the atmosphere lightened.
+
+"You can stop pretending to be unconscious, now," the Demiurge said, sounding like his cavalier self again.
+
+Caden opened his eyes. He was in a bedroom that was at least twice the size of his own. It looked more like a full hotel suite, with a little sitting area. The door to the en-suite bathroom was ajar, offering a glimpse into the luxurious interior. There was a telepresence set in a corner, but the Demiurge's image was coming from a separate orb that had been set up in the very centre of the room. Maugrim Caldwell was in his usual casual outfit – a white T-shirt and faded grey jeans.
+
+"Well, well, you've come a long way since we last met in person," he said, grinning.
+
+Caden had no idea what he was supposed to think or say. A part of his mind was still preoccupied with the fact that the Demiurge was inexplicably affecting the arcana in the room even though he was probably miles and miles away. "What's going on?"
+
+"I'll be brief," the Demiurge replied, becoming a little more serious. "We're going to pretend that I restored your mind following your unfortunate encounter with Crevylor's augera. You should remain in Devon's home for at least two to three days before you decide to do whatever it is you want to do. If you encounter any trouble, do know that using the glyph the agents have taught you will indeed bring you aid, but it will also introduce further Prophetic connections. You will have to be the judge of whether that is something you want."
+
+There were so many new questions popping in Caden's mind, but he was painfully aware that time was limited. "Why do you want the augera to be freed?" he demanded. "What's your angle on all this, exactly?"
+
+The Demiurge frowned a little. "That is neither here nor there. You are the unchosen-sighted-{~?~}, and your choices are not beholden to my motives. Do what you will, Caden."
+
+It occurred to Caden that the Demiurge was operating on a whole different level from any arcanist he had encountered so far, because once again even though this was a telepresence orb, the Demiurge had managed to communicate through the arcana when he mentioned Caden's auric-ambient-flare.
+
+"I'm doing what I will by asking you what your motives are," Caden said. "Are you going to give me a straight answer?"
+
+The Demiurge gave a wry smile. "No. It is not in my interest to do so."
+
+Frustration bubbled up within Caden, but he forced it down. "Then tell me why we have to wait two to three days before we do what we want to do." He did not know if the Demiurge knew of their plans to seek out wild augera — from the way he had phrased it, it sounded like he did — but there was no need to actually speak in specifics and give their plans away, just in case he really didn't know.
+
+"Ah, that is simple advice for would-be rulebreakers. From one maverick to another, you'd do well to let your minders think that you have no intention of breaking boundaries." He grinned mischievously.
+
+"Why do we have to pretend you're the one who fixed my mind? How do you know what happened? Why are the agents seemingly against you?" All deference was thrown out the window as Caden decided to just pepper the Demiurge with questions to see what he could get.
+
+The Demiurge replied without missing a beat. "Hm. For the first one, it's to cover up the fact that you've been to the Geldor Spire. Second question – I can't give away my methods to you just yet. Final answer – that's because the Academy doesn't always see eye-to-eye with the Empire. You might say that in this matter, I am an expert that they had to consult, despite their great reluctance to do so."
+
+Caden was about to follow up with another series of questions, but the Demiurge stepped forward and placed a hand on his shoulder, shocking Caden into silence. A telepresence orb's coverage only served to transmit visual and auditory information. The very best ones did so with so much fidelity that it seemed like the person was actually there. However, nothing in their sequences would serve to transmit tactile information. It was supposed to be impossible.
+
+"How–"
+
+"You are at the precipice, the boundary, touching the veil. When you draw it back, you will see. But when you see, remember you can also be seen."
+
+And then he was gone, even though the five minutes were not yet up. The telepresence orb was still functioning, projecting nothing, as it had been since the very beginning. The theoretical impossibility of teleportation aside, it meant that despite all the wards, all the protections, the Demiurge had appeared in person in the room.
+
+Caden sat back shakily on the bed. What was he supposed to do as one person, in a world of augera and Prophecies, of a Chosen One and Prophetic anchors, and a Demiurge who defied all the known laws of arcanophany?
+
+The next hour passed in a blur. Mr Silver quizzed Caden on everything he could remember from his departure from his home right up till he had been brought into the car after the attack. It seemed like he was trying to check to see whether Caden's memory had been modified. Once he was satisfied, an agent came in and ran several diagnostic sequences on him and pronounced him to be of sound body and mind. Mr Silver looked deeply displeased even though he was trying to hide it, but with all that done, he formally handed Caden over to the care of the agent heading up the operations in Devon's home, who went by Mr Garnet. He was a man well into his fifties but with a headful of blonde hair, and his manner was just a hair's breadth away from unctuous.
+
+"Wait, Mr Silver," Caden called as the agent turned to leave. Even though Caden wasn't certain exactly how Mr Silver was connected to the whole web of intrigue, he did feel indebted to the man. "Thank you for bringing me here safely."
+
+Mr Silver nodded gravely. "Take care. Our paths may not cross again, so this may be goodbye for good. I wish you well."
+
+"Would you like to see the rest of your friends?" Mr Garnet asked, stepping forward and rubbing his hands.
+
+"Yes, please."
+
+He was escorted through the halls by Mr Garnet himself, giving Caden the strong impression that he was indeed being watched closely, and not just for his own safety. It struck Caden as odd that the agents were being so generally suspicious of the people they were apparently tasked with protecting. He wondered exactly who had made these arrangements. The easy answer was that it was Devon's father, but that only raised the question of exactly who Devon's father was, and what his role was in the whole tapestry of events involving the Prophecy and the Fateweavers.
+
+Caden desperately wanted to talk this over with someone, but he was beginning to feel that it was a luxury he would not be able to indulge in. Everyone else was in the arms of Prophecy.
+
+Preoccupied as he was, he was only half-listening to Mr Garnet who was going on about the various rules and regulations he would have to abide by for his own security. When they finally reached a door, Mr Garnet stopped in front of it.
+
+"They're through here. I'll leave you all to you catch up!" And with that, he left, humming tunelessly.
+
+Caden took in a deep breath and reached out to the doorknob, but before he could turn it, the door swung open inwards.
+
+"Caden," Emilia said in steely tones. "I need you to explain everything."

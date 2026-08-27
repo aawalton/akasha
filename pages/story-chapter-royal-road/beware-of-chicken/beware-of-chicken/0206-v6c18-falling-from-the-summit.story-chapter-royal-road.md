@@ -1,0 +1,361 @@
+---
+id: 2ce82ce8-f129-5389-884c-4b5ec290d092
+page-type-slug: story-chapter-royal-road
+title: "v6c18: Falling from the Summit"
+slug: 0206-v6c18-falling-from-the-summit
+partOf: beware-of-chicken
+position: 206
+ownLength: 3732
+unit: words
+ownProgress: 3732
+publishedAt: 2025-04-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2232169/v6c18-falling-from-the-summit"
+royalRoadId: "2232169"
+markedReadAt: "2026-06-29T18:58:24.769Z"
+---
+
+In his memories, it was all so perfect. Bu was a treasure; and Qinxiao looked so radiant. He remembered the pride that burned in his chest as he looked at them both.
+
+When his son came of age, his training began. It was not Shen Yu’s training, begging drunks for their secrets. No. Shen Yu taught his son personally. Each lesson would see him have only the best—an art of Shen Yu’s own creation, refined over two hundred years of effort. There would be no bad habits to unlearn later. There would be no unstable foundation in his son.
+
+Qinxiao found it endearing how focused Shen Yu was on their son’s future training regimen. Her suggestions improved it even further, and she sat in on the lessons, a fond smile on her face.
+
+His son was lavished with attention and resources, the most in the Empire. The most powerful of men came to pay tribute to the Young Master. His friends gave him gifts, so he could grow.
+
+But it was... slow. Or slower than Shen Yu first expected. Shen Bu was not a heavens-shaking prodigy.
+
+It was a bit worrying, but it did not matter to Shen Yu. As long as Bu remained diligent, then his son would surely improve. With his parents who they were, how could he not? It was the same thing that everyone said. He was Shen Yu and Qinxiao’s son.
+
+He was destined for great things.
+
+Occasionally, Bu would get angry and destroy the training pavilion, but what did it matter to Shen Yu or Qinxiao? It was only a training arena. It had been even amusing back then, when Bu had run wild, his heart burning with the passion of youth. Both of them had laughed at his antics. And it wasn’t anything too bad, nor anything that they couldn’t fix. So he smashed the roof of one of Shen Yu’s retainers; so what? Shen Yu of course gave restitution to the injured party, and his own people would wave off the damage.
+
+“The Young Master is just spirited,” they would say.
+
+Everyone would simply… shrug it off. It was natural. It was accepted. Bu would skip lessons. He would play pranks. He would race around like he owned the world… and both he and Qinxiao would just smile, for was that not the childhood they would have liked? Where every person who interacted with him was kind, and he would never fear, for they were his loyal servants?
+
+And besides, in the beginning… it wasn’t truly anything terrible. Shen Yu remembered one time, when he actually scolded his son—when he struck a retainer, for being too slow in complying with his demands.
+
+Both Shen Yu and Qinxiao had been upset with him… but the punishment had been light. Too light. What was a mere scolding and a lecture?
+
+=======================================
+
+“Looking back, I can see what I had wrought. My eyes were blinded. I spared him from punishment and hardship, like I had promised… and planted a seed which grew to bear wicked fruit,” Gramps said, his voice a whisper.
+
+I grimaced. That was a common tale, wasn’t it? A man who was never disciplined, turning into a monster.
+
+A classic tale of a Xianxia Young Master.
+
+And yet… Gramps was… I hesitated to call him a good man. He was an old monster of cultivation. But even if he wasn’t a good man as somebody from the Before would say, he was a righteous man. A man of strong convictions, a man who went out of his way to protect people who were basically ants to him.
+
+If his son had honestly been that bad… I couldn’t see the man before me not correcting him. And by his own words, he had. Considering the corrections this world considered natural, yes, a scolding instead of a beating was light.
+
+But Shen Yu didn’t simply let his son run entirely amok.
+
+… maybe I was making excuses for him. But I could tell, I could feel it. He wasn’t being objective about this story. But in the end, how could he be? If this story was going the way I thought it would…
+
+I held my tongue as Gramps continued his story.
+
+==================================
+
+Shen Yu gave his son everything. All of his experiences. All of his tales of cultivation. Bu enjoyed most of the stories, but there were some subjects Shen Yu could not rouse his passion for.
+
+Like the Cloudy Sword Sect, and the Honoured Founders. Bu always found those tales boring when Shen Yu got onto the subject of righteousness, or duty, or obligations… and Shen Yu did not push very hard when he noticed his son’s eyes glazing over.
+
+He supposed it was a rather boring subject when one looked at it.
+
+One tale and one lecture Bu always did like was when Shen Yu told him he was going to be his legacy. A man who would be guaranteed to advance to the heavens.
+
+But still, life went on. When he was twelve, Bu participated in his first tournament. He won, and Shen Yu still remembered the pride and the gloating. His friends had all rolled their eyes with good humour and raised toasts to the Young Master.
+
+It was natural that his son would succeed and win. Expected. But they were a bit surprised at how close the final bout was.
+
+Shen Yu waved them off. So what? It only meant that Bu had room to grow. Haste was a poison to a cultivator who had all the time he needed.
+
+Satisfied that his son had resources and training, and that all he needed was some time to refine himself, both he and Qinxiao started to venture forth into the world again. They had duties and obligations, and they were cultivators. They had to go forth. Shen Yu left his son with his teachings, loyal guards and retainers, and a steward he trusted utterly to ensure his son had what he needed to blossom.
+
+They were only small trips of course. Six months here. A year there. And they came back, hoping each time to hear of his growth.
+
+It was still slower than they expected. But again, it did not matter. For Shen Bu had the finest cultivation aids. The most powerful of resources. All of those, gifts for their son.
+
+At first, Bu was so thankful. At first, he celebrated each time his parents returned. But as the years passed… those gifts simply became expected. Resources that sects would war for were things taken entirely for granted, as though they were trinkets that had no value.
+
+Neither Shen Yu nor Qinxiao minded. They were for his growth, and if their son did not need one of the treasures they returned with, that was fine.
+
+And then he reached the age where he could go out into the world himself. At first, Shen Yu was going to send him to Brother Ge, so he could fledge in the same nest Shen Yu had.
+
+“You left them, Father. You said all those rules stifled your growth—and that a man should see the world for himself,” Bu had argued.
+
+Shen Yu had been convinced.
+
+So Bu ventured forth, and Shen Yu watched on with pride. He would fight his own battles. He would make his own mistakes.
+
+Yet Bu did not seem to enjoy his adventuring very much. The next tournament he entered, he lost. He was furious and had asked Shen Yu to strike down the one who had insulted him so.
+
+Shen Yu had thought the demand a joke.
+
+“They say I’m weak,” Bu snarled. “They say I have no talent.”
+
+Shen Yu laughed. “Oh, is that all? Well, the answer to that is simple. If they insult you, defeat them!”
+
+“But they’re stronger than me,” Bu whispered angrily.
+
+“Then your path is clear. Get stronger, and then defeat them,” Qinxiao said with a soft smile as she brushed her fingers through Bu’s hair.
+
+Bu had grumbled.
+
+Shen Yu and Qinxiao had thought of it again as the folly of youth. He would grow out of such whining. Had they not taken their first losses badly? It was merely a bit of anger he would grow out of.
+
+Shen Bu complained a few more times. It seemed harsher and angrier each time, but their responses were the same.
+
+Grow strong, and shut their mouths. But his growth was… still not particularly fast.
+
+“Why aren’t you helping me?” Bu asked once.
+
+“We are,” Qinxiao had replied.
+
+He was smart. He would figure it out. They were confident of it.
+
+======================
+
+Another part of a puzzle that didn’t quite fit. The old man… hadn't bailed him out of every hardship. There was no “my daddy is going to kick your ass!” moment.
+
+To somebody who had lived life on easy-mode, I could see where some resentment would form. If that was his first time ever being denied… then no wonder he took it poorly.
+
+But I still couldn’t guess what exactly had happened. Did his overconfidence get him killed? Had he bit off more than he could chew, and gotten his parents dragged into a conflict that eventually got Qinxiao killed?
+
+=========================
+
+As Bu got older, they started leaving their home more. Their own cultivation had to be continued as well, and Shen Yu’s home could run without him. Each and every person whom he left in charge had his complete trust.
+
+Six months and perhaps a year turned into two years. Then some journeys were three.
+
+One was five.
+
+Shen Bu grew up in skips and jumps. His passionate boy grew more reserved. He stopped telling Shen Yu about his adventures. He heard of his son’s life like he was a character from a story, and it was pleasing to him.
+
+Bu was growing. He seemed to be becoming his own man. Shen Yu thought he knew everything about his son, and waved him goodbye when he went on his own adventure, gone for five years. Shen Yu didn’t mourn the lost time, because they would have all the time in the world later on, when they all became immortal.
+
+After all, both he and Qinxiao were close. So close.
+
+=========================
+
+“You climb and you climb and you climb, until you can wave planets into existence and shit universes. And Then What?"
+
+"And then you shall be truly free."
+
+"To do what? Make a universe where you actually spend time with your family, instead of doing it when it mattered?"
+
+============================
+
+Qinxiao asked him for a second child. Bu had left their home for several years, travelling his own path, and both of them had fond memories of his childhood.
+
+Who was Shen Yu to deny her?
+
+“It's going to be a girl,” were her happy words, before anything could show, and Shen Yu shared in her joy.
+
+Then, he received word from a friend. The Millennium Realm, which only opened for six hours every thousand years, was opening.
+
+Shen Yu had hesitated.
+
+Qinxiao had kissed him and told him to go.
+
+If he could do it all again, he never would have gone.
+
+But go he did. He braved the Millennium Realm, where each minute inside was a day outside. He could feel it. This was the last one. The last hidden realm they needed. The last pills they needed.
+
+Then, they would both be able to ascend at their leisure.
+
+He returned from the hidden realm triumphant—only to see the ashen face of Shi Lang, Fengyan’s most loyal man.
+
+=========================
+
+Shen Yu raced home. To his pride and joy. To where all he had sworn to protect had lived.
+
+He could taste ash on the wind before he ever saw it. But that was it. Just ash and smoke.
+
+Gone were the beautiful, pristine waterfalls; they had been shattered. The spots where he used to sit with Qinxiao and listen to her play her pipa.
+
+Gone were the peaceful, idyllic villages, now no more than black stains on the ground. Gone were the people who would greet him with warm smiles. Gone were those who trusted him utterly and swore their sons to his service.
+
+Gone were the guards he had trained, whom he had taught to defend themselves. The cultivators he saw as nearly his children, who called him their lord. Who thought it was the greatest honour that they could help defend what was Shen Yu’s.
+
+Gone was his home, the beautiful manor he had built with Qinxiao. Gone was the place that could never be broken. Gone was the whisper of his wife, and what was supposed to be the sound of his newborn daughter.
+
+All that was left was a hole in the ground, scorched. Scorched, and full of twisted glass.
+
+Ten thousand, two hundred and sixty-seven souls. People he knew personally. People whom he had sworn to protect.
+
+His people.
+
+Not a taste of Qi remained. Not any feeling of life.
+
+Nothing lived here.
+
+The world around him began to split, cut by an invisible sword.
+
+Blood leaked from his lips. His Qi spasmed. His mind went blank from his fury.
+
+His roar split the land. His roar split the sea.
+
+His roar split the heavens, tearing a rent in the firmament itself, and exposing a scintillating sea beyond.
+
+If there had been anything around him, it would have instantly perished.
+
+And then the tears fell from his eyes.
+
+=========================
+
+He did not know how long he stood there, his body locked in a rictus of pain. He vaguely remembered sending a message out to the Cloudy Sword Sect.
+
+All he knew was that one moment later, Ge was beside him, his hand on Shen Yu’s shoulder.
+
+“We have a lead on who did this. There is a meeting,” Ge whispered. “The Emperor wishes for you to attend.”
+
+Shen Yu let himself be led. His Qi poured out of him. His eyes caught those who were in the meeting—finding his Sworn Brothers and Sisters, and Fengyan himself.
+
+There was a map on the wall showing the devastation. His Qi spasmed.
+
+“Why are we here?” Shen Yu demanded, and everything not reinforced with Qi disintegrated from his intent. “Why are we in a meeting? What is there to discuss, when some demon runs amok?!”
+
+The atmosphere was tense. The eyes of his comrades shifted to the side, not daring to look at him. None, save for Fengyan, outside the capital. His entire body was straining under Shen Yu’s Qi.
+
+“Because there is a complication.”
+
+“What kind of complication? Who dared to do this?”
+
+Fengyan hesitated. Then, he took a deep breath.
+
+“Your son.”
+
+The world tilted.
+
+Something inside Shen Yu snapped.
+
+======================
+
+He left the tent numb. They said the proof was absolute. None wanted to be the one to slay Shen Yu’s son, not before he had answers.
+
+Shen Yu did not believe them. He did not believe that his son had done this until he came upon the flattened, smoking ruins of a city.
+
+In the middle of the city, there was a hole. A hole filled with blood, and a single man bathing in it. A man in the Imperial Realm.
+
+A man who turned toward the raging mass of Sword Qi and smiled.
+
+“Oh. Hello, father,” Shen Bu said. “Aren’t you proud of how I’ve grown?”
+
+Shen Yu could feel Qinxiao’s Qi flowing inside Bu’s body. Her cultivation, consumed.
+
+Shen Yu was hollow.
+
+“Why?” he gasped.
+
+Shen Bu chuckled as he rose from the pool of blood. “I did what you taught me. I took matters into my own hands. You said if you’re not growing with one cultivation method, you should change to another. The Demonic Cultivators were right—this is a most useful technique.”
+
+“You’re under the control of Demonic Cultivators?” Shen Yu latched onto the word. Perhaps they had done something to his mind. Perhaps this was not his son’s fault, maybe he could save him!
+
+“No, of course not,” Bu said, sounding genuinely offended. “Don’t worry, father, I killed them all. They tried to control me, but they were too weak. Yet they did set me on the right path. Really, I’m grateful to Mother. She said she would do anything for me, and she did. She finally gave me resources that mattered.”
+
+Bu’s grin spread so wide it split his face in two. He gestured negligently, and Shen Yu flew backwards as a titanic force smashed into him. He slammed into a mountain and slumped. He could barely hear. He could barely see. His Qi screamed and writhed underneath his skin.
+
+The world was falling apart around him.
+
+Shen Bu’s feet stopped in front of his father. He reached down and pulled Shen Yu up.
+
+“See? Aren’t I strong now? Won't you just stand there like mother did? Soon, I’ll have the whole family supporting me.”
+
+Something latched onto Shen Yu’s Qi. Onto his soul. He reflexively, unintentionally reacted, his Qi piercing back into the invader.
+
+And he saw everything. He felt everything.
+
+He could see himself through his son’s eyes, as every slight he had suffered was forced into his mind. Every time he felt Shen Yu had slighted him. Every time others had patronized him. The frustration. The rage. The struggle. The arrogance. The entitlement.
+
+The accusation that it was all Shen Yu’s fault. The years of simmering resentment.
+
+He saw the way it made his son look for another path. A path of blood and hatred. He saw him slaughtering his former comrades. He felt the heady rush of power, and the knowledge that he had finally found his way.
+
+He saw Bu coming home. He saw him hug his mother.
+
+Qinxiao’s Qi, disrupted by her pregnancy and the shock of her son’s arm piercing her chest, could only feel horror.
+
+And then he saw the consumption—the consumption of the light of his life, and his unborn child.
+
+Shen Yu’s Qi solidified. The writhing mass reformed into a blade.
+
+Shen Bu was blown backwards.
+
+The vision lingered. He saw the screaming faces of his family. He saw the looks of horror on the faces of his retainers. He saw the little villages turn into charnel houses.
+
+He saw the reaping across the provinces. And then he saw his son, his eyes full of maddened lust for power, and Shen Yu understood.
+
+It was his actions that had made his son choose this path. His light hand. He had failed his boy.
+
+And now his son was a monster.
+
+A monster that would inflict itself upon the world until it was satisfied.
+
+Shen Yu drew his sword.
+
+“I’m sorry, my son.”
+
+For the first time, the smile slipped off Bu’s face.
+
+======================
+
+The battle nearly broke him. But in the end…. Bu’s foundation was too unstable. His technique, unsuitable for facing off against the Unconquered Blade.
+
+Shen Bu died with a sword in his soul. At first, he cursed Shen Yu. he spat upon him. He raged and screamed about the unfairness of it all.
+
+Yet as the moment came, at the end of it all…he smiled. And not the twisted, wretched thing, full of malice. But one that looked relieved.
+
+And then it was done.
+
+He had lost everything. Qinxiao. His unborn daughter. His home. His people. His son. Everything.
+
+Shen Yu had failed so spectacularly at raising his only child that he would burn the world to feel its warmth.
+
+In his grief, he swore to sire no other children. For the memory of Bu… and the memory of Qinxiao. For the memory of a little girl who had no name.
+
+Some part of him wanted it to be over. But Qinxiao never would have forgiven him if he had just given up. He had promised her immortality, her name, her essence, carved into the blade that was Shen Yu.
+
+For three hundred years, he wandered. He tried to find a new path. A new way. His cultivation needed something to work towards, a goal to accomplish. Immortality for Qinxiao’s sake barely sustained him, barely maintained him, for it was mixed with grief and his feelings of failure.
+
+It was not a victory.
+
+He wandered. He aged. The grief and regret burned him. His cultivation twisted at the seams, cracking and flaking like untempered iron.
+
+Until he found himself in Crimson Crucible City. In the home of his youth.
+
+Like Master Chiang, he could feel himself walking the path of failure. He could feel himself failing. He wondered if he would fail Qinxiao too, and die alone in an alleyway, food for dogs.
+
+Then, one day while he was wandering, he found a boy.
+
+He was a hard worker. He spent his days earning coin so he could pay to learn how to read. His eyes were so pure… and so full of hunger.
+
+Shen Yu saw himself. And in that moment, he was enlightened.
+
+He saw a path. An immaculate, beautiful way to immortality.
+
+The crystalized story of one with nothing, rising above their birth to have everything. A legacy of a journey.
+
+Not a man with a silver spoon in his mouth. Not a man who could not appreciate life. Not a man who fell apart at the first bit of true adversity.
+
+The boy before him would build himself of himself. He would walk upon ten thousand branching paths, experience everything and anything. He would have all of his thoughts and preconceptions challenged, and still end up on the same path that Shen Yu had gifted him.
+
+And then, teach another the same way.  A way that was so self-evident that even after everything, he would say, “Shen Yu was right to teach me this way.”
+
+The cultivation of one’s pure self.
+
+Of the Indomitable Spirit.
+
+==========================
+
+Rou and Gramps started living together. He was a cheeky boy, but dutiful. He grew like a weed under firm instruction, and was still bright and cheerful, a legacy of hardship written on him.
+
+Shen Yu grew to love the boy like his own son, for he had saved him from a path of failure.
+
+======================
+
+“You were my chance to redeem myself. A son who would live, and thrive,” Gramps said, his tone wistful. “...and then a letter came from the Emperor.”
+
+The silence between us was heavy… but tinged with warmth.

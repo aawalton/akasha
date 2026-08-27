@@ -1,0 +1,85 @@
+---
+id: e7aea91b-e4e6-5ef4-acb0-fbc3f0adeaea
+page-type-slug: story-chapter-royal-road
+title: "57: Preparation"
+slug: 0057-57-preparation
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 57
+ownLength: 1834
+unit: words
+publishedAt: 2025-02-16
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2070736/57-preparation"
+royalRoadId: "2070736"
+---
+
+57:
+
+[Pendant of the Miststalker, Qi Gathering Stage (Epic)
+
+Description: The Pendant of the Mistwalker is a valuable artifact that has a small chance of being received as a reward upon slaying an enemy within the territory of the Howling Mist-Vault.
+
+Artifact Ability:
+
+Mist-Walk: The Pendant of the Miststalker converts Unattuned Qi into Mist Qi that is automatically stored by the artifact for a maximum of 25 Charges. Upon activating the Mist-Walk ability, will the stored Mist Qi will expand into a cloud that ensconces the wielder’s physical form before expanding outwards into a trail that visually obfuscates their form, dulls or eliminates bodily scents that can be used to track the wielder, greatly increases movement speed while the wielder remains within the Mist Qi’s spread while offering full immunity to Mist Qi’s negative effect on visual acuity.
+
+Cost: 1 charge per minute
+
+Self-Charge: The Pendant of the Mistwalker will automatically draw ambient Qi from the environment and automatically convert it to Mist Qi until it reaches capacity or the wielder activates Mist-Walk. For the duration of Mist-Walk, the Recharge ability is deactivated.
+
+Current Charges: 0/25]
+
+Jack hurriedly wrapped his hand around the pendant, the sliver he’d exposed having been enough for his inspect skill to work its magic. Besides the tremble that ran up his left arm, Jack felt like he did a decent enough job of hiding his shock.
+
+He had expected there to be a step-up from a Rare Artifact to an Epic one, but Jack was still flabbergasted when he realized that the pendant was offering him most, if not all of the abilities the Juvenile Werewolf had displayed in its battle against his group.
+
+The immunity to Mist Qi’s negative effects would let him fight like the Juvenile Werewolf had, except his enemies wouldn’t be granted the grace of seeing where the attack was coming from while he saw their movement with perfect clarity from the cover of the Mist Qi cloud. Had the Bracelet of the Mist-Vault worked against Mist Qi in general instead of being operable only in the Vault’s territory, his group members would be immune to the effects of the obfuscating Qi too, making the pendant perfect for group ambushes.
+
+Unfortunately, as it stood, the effects of the pendant only applied to him, meaning that if Jack used it in the midst of combat then his own group members would be as visually discombobulated as any enemies they were fighting.
+
+It hadn’t slipped by Jack that the cloud of Mist Qi that the pendant would generate would suppress his scents, which could potentially be very valuable against evolved earth predators that relied on their sense of smell to hunt.
+
+Telling his group members about his new artifact would allow them to come up with strategies to revolve around his fighting style, but Jack knew just how valuable the pendant was. The doomsday prepper within him told him that it was best to keep the pendant in reserve for now and Jack was inclined to agree— if he couldn’t rely on a Dao Mark to save him when the situation got dire, then the pendant would have to be the next best thing.
+
+Jack hadn’t forgotten that Marcus’s emotional state was volatile and that was before he had unlocked a Dao Mark in a particularly destructive element, nor had he missed Jin’s motivations in switching over to his and Sarah’s side. Jin had done nothing wrong by choosing the side that offered her a clearer path to survival, but it was hard to trust a person whose allegiances shifted with the calculus of power until Jack was given a reason to believe that there was more to her. If Jin became the second person to unlock her Dao Mark while Jack and Sarah hadn’t, would she slowly come to side with Marcus? Would they leave the group? Or would they do something worse?
+
+Jack didn’t know and it frustrated him. Even Sarah, the person he had known for the longest amongst the group, shared a relationship with him that could be counted in days, a few days at that.
+
+However, the line between preparation and paranoia was a thin one, as Jack had learned through personal experience in the years after his parents assassination. There had been assassins hidden in every shadow, snipers on every rooftop and stalkers in every crowded area for a good deal of those years and that had taught Jack that trying to prepare himself against every possibility was no different from giving in to the ones he had the power to influence, being reduced to a prisoner in his own mind.
+
+Sarah had given him no reason to distrust her and they had been through multiple life and death experiences together that had immutably changed them both, perhaps more in a few days than the preceding few years ever could have. Everything seemed to move faster in the apocalypse and in a few days multiple alliances had been forged, be that between Jack and Trent, Trent and Andrew or Marcus and his former group’s leader, Takeshi had formed and fallen through.
+
+Jack might not have known Sarah for long, but their alliance benefitted both of them so far— they had saved each other's lives multiple times and Sarah had also offered him guidance when he had been lost, after Trent’s death. She could be trusted and if Sarah asked him about the pendant after he used it in combat, he’d tell her the truth.
+
+On the other hand, Marcus and Jin were not entitled to his secrets and to them, Jack had no qualms doing what a doomsday prepper did best. Preparation was the key to survival and to that end, Jack had no problem telling them both that the Mist Qi came from his Dao Mark instead of an extremely precious artifact that could be taken from him, either physically snatched or looted from his body.
+
+Making his decision, Jack reached into his inventory and pulled out the Jade Guard Armor Set’s chest piece, having already equipped the legguards and the sabatons.
+
+Jack had to admit that he was excited about finally getting his hands on a proper set of armor, especially since when he’d made the decision to purchase the Essence Syphon Art he was prepared for the armor sets to be sold out in the Tutorial Shop by the time he amassed enough TP to get it. The animal-hide inner layer made the chest piece far easier to slip it on than one wrought out of metal would be and as Jack pushed down on both sides of the chest plate so his head could poke through, he made sure to keep his thumbs wrapped around the pendant that he had concealed along the circumference of the gorget.
+
+So as Jack pushed his hands through the length of the supple leather’s full sleeves and six segments of light green metal fell into place over his abdomen, he had also managed to equip his Epic pendant artifact without anyone noticing. Had Sarah not seemed so lost in her internal musings on the new cultivation technique she had acquired, she might have gotten a glimpse as Jack made his attempt at a little sleight of hand, but one could hardly blame her for that.
+
+Almost immediately, Jack felt a connection form between him and the artifact, confirming both his ownership and his command over the pendant.
+
+Jack didn’t hesitate as he began to channel his Unattuned Qi directly into the artifact, channeling the three Qi Points he’d recovered by using his Essence Renewal Art. He felt only a minute amount of resistance as he imbued Qi into the artifact, as the connection between him and the artifact strengthened.
+
+A single thought command would be all that was required to release the Mist Qi that was compressed within the pendant in a burst. A part of him was eager to see the artifact in action, not to mention how satisfying it would be to see a power that had tormented him to now become a part of his strength, but Jack would have to wait for the right moment to reveal his greatest trump card.
+
+While Jack had been imbuing the pendant with Qi, the Jade Guard Armor Set had finished moulding to his form, as it had done for Sarah. Now that Jack had all three pieces equipped, he used Inspect on the armor set to discern its complete properties.
+
+[Complete Jade Guard Armor Set (Chest Piece, Legguards, Sabatons), Qi Gathering Stage (Rare)
+
+Description: The Jade Guard Armor Set is a set of armor forged by a young blacksmith, it’s elegant design where flexibility meets seamless protection paying homage to the natural defenses of the Spiritual Beast, Jade Serpent. Using the hide of the beast, Two-headed Grass Salamander, known for its soft yet durable leather as the base, upon which a mesh of forged pieces of Qi-Gathering Tier Jadeite Ore, known for it’s high Qi Conductivity and low resistance to intent, have been strategically overlaid, with the Qi and intent of the blacksmith serving as the final ingredient, the Jade Guard Armor Set shines the most when worn as a complete set.
+
+Artifact Ability:
+
+Jade Reflection (Set): When all three armor pieces belonging to the Jade Guard Armor Set are equipped by the wielder in unison, the Jade Reflection Ability is shared across all the three armor pieces.
+
+This ability allows the wielder to channel unattuned Qi to any of the Jade Guard Armor Set’s pieces up to a maximum of 30 Charges. Upon taking damage or stress from a physical or unattuned/attuned Qi attack, the Armor Set’s Qi Pool will be channeled to the affected plates of Jadeite Metal to resist or dampen the effect of the impact.
+
+Seamless Armor (Set): When all three armor pieces belonging to the Jade Guard Armor set are equipped by the wielder in unison, the plates and fragments of Jadeite Ore employed in the construction of this armor set will mould to the wielder’s physical form, offering them the flexibility of cloth armor while providing the defenses of plate armor.]
+
+So that’s why Sarah’s armor held against the werewolf’s strike, Jack thought, not at all surprised by the revelation. Ironically enough, it was not the Qi-Empowered defenses that had drawn Jack towards zeroing in on the armor set, but rather its second ability. It was hard not to appreciate the beauty and elegance of an armor set that could employ metal in it’s construction yet still manage to offer the flexibility of cloth and Jack couldn’t help but wonder how his former Historical European Martial Arts instructor, Victor Aldridge, would feel upon witnessing such form-fitting beauty— well, if he was still alive.
+
+Jack began to stretch his arms out in preparation for what was to come. For now, Jack Anderson, a Doomsday Prepper among other things, lacked nothing in his arsenal when it came to fighting.
+
+That’s why, it was time to hunt.

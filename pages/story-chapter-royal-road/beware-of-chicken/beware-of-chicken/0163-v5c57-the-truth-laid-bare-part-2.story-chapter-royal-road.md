@@ -1,0 +1,207 @@
+---
+id: f77dd396-feca-55c6-9538-3005d792d735
+page-type-slug: story-chapter-royal-road
+title: "v5c57: The Truth Laid Bare Part 2"
+slug: 0163-v5c57-the-truth-laid-bare-part-2
+partOf: beware-of-chicken
+position: 163
+ownLength: 2561
+unit: words
+ownProgress: 2561
+publishedAt: 2024-10-30
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1874921/v5c57-the-truth-laid-bare-part-2"
+royalRoadId: "1874921"
+markedReadAt: "2026-06-29T18:56:53.987Z"
+---
+
+Zang Shenhe thought that she was stronger than this, as she wobbled on her feet. She thought that she had conquered the feeling of despair that crawled into her guts long ago. She thought she had mastered her own feelings of weakness, for she had been hardened against it at an early age.
+
+She had been insulted, belittled, scoffed at, and ignored. Her ability, her loyalty, her identity itself had been in question, all because of the actions of another. Her aunt, Zang Wen. The traitor. The weakling, who had been beguiled by a fox.
+
+“Strength Above All: To Protect What We Love!” Zang Yong roared as he went into battle. His smile was wide and his steps were fearless.
+
+Everything about the woman was placed onto Shenhe. They said she was exactly like her, and so Shenhe had based her entire existence around proving that she wasn’t. She hardened her heart. She bore every insult. She strove to prove herself the best and most loyal member the Sect had ever seen in all its years of existence.
+
+She had been the fiercest hunter. She had been a powerful cultivator. Her actions had always been beyond reproach.
+
+Lightning punched through Yong and Nezuhua’s backs.
+
+She told herself that every moment that she had endured had bettered her. And at the end of her road, she would be the best. She would know peace. Somehow, someway, she would defeat the shadow her aunt had cast and stand triumphant.
+
+She thought that nothing could shake her. She thought that no matter what came, she would follow her path unflinchingly—for she was a member of the righteous Shrouded Mountain Sect, guardians of the Howling Fang Mountains, and she would follow their words
+
+Strength Above All.
+
+“We can still make use of its stunted fruit,” the Inquisitors said as they consigned generations of a loyal family to death.
+
+It all started to come tumbling down.
+
+Everything she had done, everything she had dedicated herself to, was a lie. She watched as a man she trusted betrayed his oaths, betrayed his people, betrayed his kin. She watched as a slaughter was perpetuated—a slaughter she herself had taken part in.
+
+She saw her aunt be tortured, broken, for learning the truth— only to be saved by their greatest enemies
+
+Blood filled her mouth and spilled past her lips. Her cultivation’s foundation trembled, barely holding together. Her ears were ringing with the Patriarch’s insidious words and whispers.
+
+At that moment, Shenhe realised she would never wash away the stain. She could never. She was not a person to the Patriarch. She was a useful sword to be used and abandoned as necessary—or she would simply be killed, if the Patriarch had thought her a threat.
+
+Worst of all was the fact that she could not refute what she was seeing. The Lightning Qi within was almost gentle as it caressed her own. It told nothing but the truth. But even without it… even without it, Shenhe knew. Shenhe knew it was true. The pauses in conversation when she asked certain questions. The casualty figures of the Che clan. All the little things that she had purposefully ignored, or told herself that she didn’t have all the details about.
+
+The vision ended with the Patriarch ordering another promising individual killed for getting too close to the truth.
+
+Shenhe fell to her knees. Her lightning sparked feebly around her. She dimly heard the shouts of outrage from the disciples, their cries demanding answers about this secret conspiracy.
+
+Or rather… perhaps not so secret a conspiracy. She turned to her fellow Elder. Zeng had a grimace on his face, but there was no true surprise in his eyes.
+
+She spat out the blood that was in her mouth, focusing entirely on Zeng.
+
+“You knew,” she snarled. The other man looked at her. The man who had so often been the source of her woes. He was clearly deciding on what to say to her… but he evidently decided that lying in the presence of Lord Shen Yu was foolhardy.
+
+“Some,” he stated simply. “Not all. I knew of the origins of the Sect, and about the Che clan.”
+
+The words were damning. He had known. She wanted to scream and rage and tear the crippled bastard in two.
+
+He had known that what they did was based on a lie and yet…
+
+“...Why?” she whispered.
+
+“Why what?” the other man asked.
+
+“Why did you do nothing?!” Shenhe demanded.
+
+The Shrouded Mountain Sect was a righteous sect, defenders of the Howling Fang Mountains against the foxes. They were above others because of their actions.
+
+“And do what?” Zeng asked derisively. “Go openly against the Patriarch and die? Make amends to beasts? Admit we were wrong to people who would see us destroyed? Did you forget the war? The Foxes have as much blood on their hands as we do. So what if it was a lie? The Shrouded Mountain Sect was strong. Mighty. We had the best resources and the most power in the province. Should we give it all up, everything our family has achieved, for a war won in the Age of Heroes? Strength Above All. Those are our words.”
+
+The words were cynical. They were words that she had heard hundreds of times. And she supposed the words were the end point of their Sect’s abbreviated mantra.
+
+Strength above all, no matter what.
+
+“So that's it? In the end all that you are is a greedy coward, just like your entire line’s sire,” Shenhe snarled.
+
+Zeng’s entire body tensed and rage filled his eyes at the comparison. “I am no coward!” he roared. “I did not flinch from my end! In fact, I would be glad for it now rather than hearing this, seeing this. Our Sect is destroyed—my sons are likely all dead. Neither of us have anything any more. We shall be swallowed up by others who envied our position. The last fading glow from a bolt of lightning.”
+
+Despite his bluster, his words were bitter. Shenhe heard the worried muttering from the disciples. That they were arguing in front of their subordinates like this was shameful. Doubly so since the Cloudy Sword Sect was watching them. All the humans and all the animals were here. It was all out in the open—a scene better suited for thundering rain was instead lit by the bright light of the early winter sun.
+
+All of their disciples had fought so hard and lost so much, only to continue losing everything. They looked lost. Most of them still bore the wounds of their battle, and now… they were being told it was hopeless.
+
+The fire and the hate burned out of Shenhe’s stomach. Her Qi still roiled and sparked.
+
+“Is your sect destroyed?” Bi De asked. His voice made them all startle. The red-haired man had his arms crossed. “Last I saw, the Patriarch was on the precipice of defeat, with the rest of the sect rising against him—and though we fought once… I don’t think Sheng would be killed by something like this. The Shrouded Mountain Sect stands… but at the precipice. There is still time to save it, if you believe it is worth saving. You should make your choices—for the decision you make now will come to define you.”
+
+With those words, the members of the Cloudy Sword Sect quietly left, leaving them to ponder the revelations they had been given.
+
+=============================
+
+Shenhe wandered about in a daze. She had asked Lady Meiling if they were confined to the fortress, but the woman had shaken her head and had simply told her to stay away from the house.
+
+No others had taken her up on the offer. They were too injured, too weak, and too shaken. Most just wanted food, sleep, and to wake up, to have found all of this to have been but a bad dream.
+
+Something Shenhe herself desired.
+
+Yet it was a hopeless dream. This was reality.
+
+She trudged slowly through the snow in a circuit. Followed and watched, of course, but she didn’t care. She had nothing to hide. Her cultivation was too unstable to do any damage even if she wanted to at this point.
+
+A lifetime of work, all for a lie. It was honestly funny in some ways.
+
+A choked sob found itself coming from her throat. The sun ascended in the sky, and she slowly found herself wandering back towards the fortress.
+
+She paused on a hill overlooking the fortress. Lord Shen Yu was seated with a babe in his lap, looking at a single corpse they had pulled from the pile. Most of the other Cloudy Sword Sect members were around it and seemed to be preparing a formation at the direction of Lord Rou.
+
+Bi De stood on one side of the pile, and the orange-haired girl on the other.
+
+“Alright! Test five! The Moon and Ghost Hunting! Bi De, Tigu’er, are you ready?” The man received affirmatives. “Wa Shi, count us in!” Lord Rou shouted.
+
+Bi De and the orange one—Tigu— clapped their hands together. Purest silver emanated from Bi De, flowing into the corpse, which simultaneously caught fire with ghostly green flames that came from Tigu. The two energies mixed, swirled… and then combined, producing glowing silver and black flames. The demonic body seemed to writhe, even in death, as the hungry fires consumed it, eating away at the body and impurities.
+
+They kept their Qi burning for thirty seconds, and then both of them backed off.
+
+“Alright, let's check the burns and purification. How were your abilities working together? Can you keep it up?” Lord Rou began questioning the two of them while the dragon recorded the corpse with a recording crystal and Lady Meiling walked around it with Ri Zu, examining the mostly-destroyed body.
+
+The pink-haired woman then tallied whatever results they were getting on a graph.
+
+They worked together, united by a common goal. One of the disciples said something, and Master Rou paused, obviously considering the man’s words, before he nodded and praised the man for whatever he had brought up.
+
+Shenhe’s stomach churned. How unlike her Sect.
+
+She trudged off again, not really caring where she was going. Another hour passed. Her Qi deviation was getting worse. She could feel her foundation cracking.
+
+Shenhe idly wondered if it would kill her.
+
+But fate… had another plan.
+
+Shenhe ran into the person she least wanted to see, the one who made her guts clench with guilt.
+
+“Oh, it's you,” the man said. His tone was one of half curiosity and half fear. Yun Ren was sitting there in the forest. The rocks were covered in a riot of colours, and in his hands was the remainder of the fox’s core. The fox that had taken a blow for her and was in this state because of her.
+
+She stared at the core in his hands.
+
+“Is he…?” she whispered.
+
+The man grimaced and shrugged.
+
+“I swear I will save your uncle!” Shenhe remembered swearing and picking up Summer’s Sky.
+
+“He's there, but, well… I need something,” the man was frustrated and grieving.
+
+Even if she had lost everything… Zang Shenhe refused to be an oathbreaker.
+
+“Is there anything I can do to help?” she asked.
+
+His head jerked up once more to look at her. He stared into her eyes. Summer’s Sky beside him rattled. His body language softened and, after a moment, he nodded.
+
+Zang Shenhe walked over and sat beside Yun Ren. Sowly, after a moment’s hesitation, she held her hand over the core. Carefully, very carefully, she started feeding what Qi she had into the cracked shard of a core. She forcefully calmed her spasming Qi—at least for the moment. Afterwards? She didn’t know.
+
+Zang Shenhe willingly started giving her power to save a fox.
+
+“Thank you,” Yun Ren said after a moment.
+
+“I swore an oath,” Shenhe replied, and that was that.
+
+They sat together in the snow for several moments. Yun Ren let out a breath.
+
+“You have any idea on what you’re going to do?” he asked.
+
+“No,” Shenhe replied. Other than die, maybe.
+
+“I spent half a year in your sect. I have to say, I didn’t entirely enjoy myself,” he was attempting a joke, but judging from his grimace he regretted it as soon as it left his mouth. He huffed and scratched the back of his neck… and then he sat up straighter and turned to look at her. “There are people who count on it, who need it. Despite everything… it did a lot of good.”
+
+Shenhe turned in surprise to the man. “But you’re a fox.”
+
+“Until recently, I wasn’t. Didn’t know about the whole war thing till a year ago. Honestly, I still feel like an outsider in a lot of ways… but maybe that just lets me see what's going on unclouded. And I think that Uncle thought the same thing when he pushed you out of the way. That this… this all has to stop. He bet his life on it, Zang Shenhe.”
+
+His words were a hammerblow. “What?”
+
+“You hate it, don’t you? Now that you know the truth. You despise it. It makes your skin crawl, and I saw you vomiting blood.”
+
+She grit her teeth. “Yes,” she whispered. She loathed Zengsheng’s legacy with every fiber of her being.
+
+“You probably don’t want anything to do with your sect, I wouldn’t either. But the only thing it takes for evil to triumph is for good people to do nothing. You have a chance. Maybe we have a chance. To end the war that's been going on since the Age of Heroes. The only question is… what are you going to do? There is no medicine for the scars of the past—only a balm that may make them eventually fade.”
+
+Shenhe realised that she was being called upon. Called to action once more. It was, in some ways, like the call that the Patriarch gave, whenever he wanted her to prove her loyalty.
+
+And yet, for the first time she had ever remembered… it was given in good faith.
+
+For the first time, the person challenging her actually wanted her to succeed.
+
+The fox stared into her eyes.
+
+She had accused Zeng of being a coward, of taking the easy way. Would she do the same? Wander aimlessly, abandon everything, and stop caring?
+
+She remembered Zang Yong’s smile as the man advanced.
+
+Strength Above All: To Protect What We Love.
+
+It would be the toil of a lifetime.
+
+“...your words are profound,” she whispered to him.
+
+Yun Ren smiled awkwardly. “I stole half of them,” the young man admitted shamelessly.
+
+Shenhe didn’t stop the large, amused smile spreading across her face. Her Qi started to settle and regain its charge. It jolted down her arm before she could stop it and into the core of Nezan.
+
+There was a shudder, a pop—and then a small white fox was curled between Shenhe’s palms.
+
+The small creature twitched, opening one red eye. He glanced down at his position, then back up at her.
+
+“Dear, if you wanted to touch me so badly, you only needed to ask,” Nezan said with a saucy wink… before Yun Ren grabbed him by the scruff of the neck and hugged him.

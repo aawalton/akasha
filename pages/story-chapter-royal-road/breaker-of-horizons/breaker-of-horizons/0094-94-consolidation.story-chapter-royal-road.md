@@ -1,0 +1,149 @@
+---
+id: e8a7c094-a61b-55b8-9d42-0c138da36bc8
+page-type-slug: story-chapter-royal-road
+title: "94. Consolidation"
+slug: 0094-94-consolidation
+partOf: breaker-of-horizons
+position: 94
+ownLength: 2013
+unit: words
+publishedAt: 2021-03-25
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/652415/94-consolidation"
+royalRoadId: "652415"
+---
+
+The atmosphere in the room was still a little tense, but Devon's enthusiasm helped Caden ignore the brooding looks from Lynus. There was plenty of stuff in the room, but Devon started with the artefacts he was most proud of – the wings.
+
+"Hawk-class," Devon said proudly, taking a set out of a box and laying it on the nearest surface he could find. "Good for around three hours of continuous flight in clear weather, or more if we're just coasting."
+
+The wings came in the form of a harness vest. The sets that Devon had procured were all in a very sleek, matte black. Caden ran his hands over the material and realised that beneath the durable weave was a rigid frame.
+
+"That's where the glyphs are inscribed," Devon explained as he saw Caden testing the flexibility and finding it unyielding. Devon reached back into the box and plucked out a manual. "You can bring up the full set of glyphs for display like any other normal artefact, but you need to use their activation sequence to do that."
+
+"Have you tried them yourself?" Caden asked.
+
+"Haven't had the chance." Devon nodded over at the couch were Kevan was still unconscious, and still wearing the harness he had strapped on earlier that day. "Kevan was going to be the first, but then the Spire augera contacted us, and... well. You know the rest."
+
+"These must cost a fortune," Caden murmured, placing the set back into the box.
+
+"Mm." Devon made a non-committal noise and gestured for Caden to follow. "And here, we've got some personal protection."
+
+He led Caden to a much smaller box that had been placed on a table and opened it, revealing several slender packages within. He popped the lid on one of them and pulled out a pendant – a clear crystal cut into a pencil point shape, set into a silver wire frame and threaded with a fine metallic chain.
+
+"Is that diamond?" Caden asked, taking it from Devon and peering closely at it in disbelief.
+
+"No, couldn't get my hands on those. These are quartz, but they're still pretty heavy-duty."
+
+Caden could definitely feel the dense weight of the sequences in the arcana. He held the pendant up to the light, trying to figure out where the glyphs were inscribed. It took him a moment to realise that the minuscule specks he had taken for imperfections in the crystal were in fact neat, orderly lines of sequences, scribed in complex three-dimensional shapes, inside the crystal itself.
+
+"Wow," he breathed, marvelling at the workmanship and wondering how it was even accomplished.
+
+"Right?" Devon said, shaking his head in awe. "There's a whole sequence we need to work through to key these to the wearer, but once they're in place, they provide pretty hefty security."
+
+It took Devon another ten minutes to give Caden a quick look at the other items and artefacts he had managed to put together for their wild augera hunt, and by the end of it, Caden was feeling a lot more confident about their ability to take on this daunting task, assuming the whole group was still functional, and it was still something that they ought to get done. Once Devon had given him an overview, Caden decided to check in with Emilia.
+
+"How is he?" he asked, pulling up a chair and settling down close to where Emilia sat with the still-unconscious Kevan on the couch.
+
+Emilia had been staring, unfocused, at nothing in particular. At Caden's question, she blinked and shook her head distractedly. Caden sensed movement in the arcana as her attention returned to her immediate surroundings. "Hmm?"
+
+Caden nodded at Kevan. "How much could you see? How do you think he's doing?"
+
+"You can probably see a lot more than I can," she replied with a sigh. "What you told me, that he is now the tangled-broken-power, it helped me navigate a little better, and I saw more than what I could before. I see the brokenness. But it is... strangely familiar."
+
+"That's because it's not all my doing."
+
+Everyone's attention snapped to Jerric. He leaned forward with a slight groan, cradling his head in his hands and massaging it gently.
+
+"What do you mean?" Caden prompted.
+
+"The broken bit. I did that, but I got the pattern from other parts of his own auric-ambient-flare. I'm guessing it's always been a part of him. Just not one of the face aspects," Jerric explained, his voice a little hoarse.
+
+"Then you didn't... you didn't..." Devon trailed off.
+
+"Tear his mind apart?" Jerric asked, looking up with a wry smile, but it quickly faded. "No. I wanted to... but in the end, what I wanted to do ended up being almost the same as duplicating patterns that were already there. All the pain and hurt I wanted to cause... he'd already experienced it before."
+
+Nobody knew what to say to that. Caden noticed Emilia's hand had gone to Kevan's, and she was squeezing it tightly in silence.
+
+"Anyway, that means that I ended up not actually destroying anything." Jerric stood up and rubbed his shoulders. "To use the augera's terminology, no information was lost. I didn't tear any threads. They're just... even more tangled than they were before. And that was enough to change his face aspects."
+
+"How much can you see?" Caden asked.
+
+"Before this?" Jerric thought for a moment. "I think I got as far as the first two aspects. But after the Spire augera showed us your auric-ambient-flare, and also showed us our own, I think I've got a good handle on the whole thing. I can see he's the tangled-broken-power now. I can actually still pick up traces of the anger bit, but that's because we spent some time rooting around in there with the augera's help."
+
+"If you didn't actually tear any of his threads, then why is he like this?" Caden asked, frowning down at Kevan's unmoving form.
+
+"He grieves," Emilia answered softly.
+
+"He's so sad that he's unconscious?" Devon blurted, disbelievingly.
+
+Despite the seriousness of the situation, Caden's lips twitched and he had to force himself not to let out a laugh. Devon's oversimplification somehow struck him as incredibly funny.
+
+Unexpectedly, Jerric's reply was more sombre. "It's a coping mechanism. You remember the first time he ensorceled us, and we were all horribly depressed until we managed to lift it? Well, I think I understand a bit more now. I've seen flashes of his memories."
+
+"So do we just... splash some water on him?" Devon asked blankly.
+
+"Emilia." Jerric approached her, ignoring Devon. She looked up at him with a guarded expression. "I don't know if this is going to be worth anything, but I want to tell you I'm sorry. And if Kevan will listen, I want to apologise to him too. Will you let him know?"
+
+She stared at him for a long moment, then nodded once. "But why are you apologising to me?"
+
+Jerric blinked. "Because you're, uh, close with him. I mean, the two of you..."
+
+"I think you might have made an improvement," she said simply.
+
+Lynus had a look of disbelief on his face at what Emilia had just said. "An improvement?"
+
+"I will be happy to take back that statement if he proves to be just as unruly as before," she replied, looking at Lynus in surprise. "I thought you'd share my opinion."
+
+Lynus' cheeks coloured a little, but he chose not to say anything.
+
+"I'm not proud of what I did," Jerric said, directing this at Lynus. "In my defence, neither of you were giving me much choice. But Caden's alright now, and I'm guessing we've got some sort of ceasefire going on for now since you're all sitting in the same room. So, truce?"
+
+"I'm going to talk it over with my brother first," Lynus said thinly.
+
+Jerric shrugged and sat back down on the far end of the couch.
+
+"How are you feeling, then?" Caden asked, taking a closer look at him. A casual inspection suggested that Jerric was physically fine because he seemed to be moving without any pain, which was quite a miracle given the condition he had been in.
+
+"Head feels a little light, but otherwise fine, I think," Jerric answered, looking up at him. "Actually, how did I get patched up? What's our standing with the agents now?"
+
+Devon gave a brief summary of how Jerric and Lynus had been physically restored by Caden's newfound proficiency with healing sequences before they had all piled back into the car. When he got to the point where Caden had to pretend to have been back in Mr Silver's arms all along, Jerric sat up in alarm.
+
+"How long were we away?" he asked, his eyes wide.
+
+"Almost four hours in total," Devon replied, glancing at a clock on the wall. "Why?"
+
+"We were working under the assumption it'd be a quick job," Jerric pointed out. "A time difference of even an hour would've been a bit of a stretch, but don't you think the agents would definitely notice if they skip four hours ahead? I mean, that's enough to see a difference in daylight!"
+
+Devon paled and turned to Caden. "Did they notice?"
+
+"I don't think so. There seemed to be a lot of other things for them to process. They got in touch with someone higher up on the command chain, then there was a link to the Demiurge."
+
+Everyone else in the room gave a start, and blurted, "What?"
+
+"Let's leave that for when Ambrose is here. We probably all need to hear that," Caden said. "Anyway, I don't think the agents noticed."
+
+Jerric looked doubtful. "We're going to have to assume they know something happened, even if they're not sure what happened. I really don't think something like that can go unnoticed."
+
+"Maybe the augera took care of it," Devon suggested. "I mean, I don't even fully understand what it got me to do to them."
+
+"If anything," Caden murmured, thinking hard, "it was the Demiurge who took care of it. He told me to pretend that he was the one who healed me, not the augera. He seemed to want to hide our trip to the Spire too. It's probably no big deal for him to somehow smooth this over."
+
+Jerric's eyebrows rose. "Well... it looks like that's a major update. But anyway, even if the agents suspect something, I don't think we're in any immediate trouble. In any case, they're supposed to be the ones protecting us from whoever it is that has been attacking Academy students, so even if they do learn we've been to the Spire, it's not like they're going to do anything terrible to us."
+
+"Does anyone know where Ambrose is now?" Caden asked.
+
+"He's actually supposed to arrive around the same time as Emilia," Devon said, glancing at the clock.
+
+"I overheard the agents saying that the team assigned to bring me here was asked to join another team to 'complete the transfer of SD-P1'. I'm guessing that's Ambrose," Caden said, pursing his lips. "You don't think something's happened, do you?"
+
+"I think the agents will see him safely here. Maybe he's just delayed by traffic?" Devon suggested.
+
+"Heavy traffic doesn't warrant a need for extra support," Jerric pointed out.
+
+"Well... the command didn't sound particularly urgent." Caden rubbed his chin, thinking back to what he had heard. "Maybe we shouldn't worry too much."
+
+"If he's not too far off schedule, he'll be here by the end of the day," Devon said, getting up. "How about I get us all some refreshments?"
+
+"Eclairs," Kevan said suddenly, and everyone jumped. Even Emilia got to her feet in surprise. Kevan hadn't moved at all, and his head was still lolled back on the headrest of the couch, but after a few seconds of tense silence, he straightened and cracked his neck.
+
+"Eclairs," he repeated, looking around at them through reddened eyes before settling on Devon. "The ones Lynus was keeping all to himself earlier."

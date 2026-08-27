@@ -1,0 +1,135 @@
+---
+id: 4c6641cb-a8a9-5d49-8243-ff91876d7a74
+page-type-slug: story-chapter-royal-road
+title: "v4c75: To Home"
+slug: 0091-v4c75-to-home
+partOf: beware-of-chicken
+position: 91
+ownLength: 1915
+unit: words
+ownProgress: 1915
+publishedAt: 2024-01-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1496424/v4c75-to-home"
+royalRoadId: "1496424"
+markedReadAt: "2026-06-29T18:54:34.507Z"
+---
+
+It was raining. The sky was drab and grey, and I had a frown firmly planted on my face as I stood across from a great, bloated beast.
+
+It was a truly massive thing, after so long of glutting itself on my farm’s bounty. Its corpulent body rose into the sky, and its smell struck my nose with the sickly sweet tang of decomposition.
+
+I took a breath, and with a heave I thrust my mighty weapon into my foe. The blade bit deep, penetrating into my adversary’s very core; a sublime blow that any cultivator would be proud of. With a flex of my muscles I heaved; and I felt things tear as I ripped open the wound I had made in this great beast. Steam erupted from its innards, billowing in great gouts into the cold air.
+
+But one strike, no matter how perfect, was not enough to have defeated this foe. There may have been a time when I could have conquered it with just this, but it had grown large indeed.
+
+Like really damn big. Man, my compost pile had gotten fat.
+
+My shovel struck again as I heaved up the mass of decomposing food, manure, and other assorted farm waste, aerating it so it would decompose properly instead of just rotting. Normally, I actually liked this job, but I was in my least favourite state as I worked—wet and a bit cold.
+
+Rain fell down from the sky, too much to be called a drizzle but too little to be an excuse to stay in… not that any amount of rain would really be an excuse to a cultivator.
+
+Instead of sitting inside and watching the rain fall, I was wearing the very nice jacket Meimei had made me and a thick hat made of reeds and rice stalks. It was almost a poncho, and it helped keep the rain off… kind of. That rain, in addition to the biting north wind, had made it the worst kind of day to work.
+
+But it needed to be done.
+
+So my shovel churned up the mound of compost. The hot innards of the compost heap made it look kind of like the ground was on fire, belching smoke into the air—and as I worked, some of the annoyance from the cold and the rain faded away.
+
+It sounds kind of weird, but working by the compost pile always did make me happy. I wasn’t sure why, honestly; it wasn’t the smell, that's for certain.
+
+No, I did know why. It was the fact that I could feel how lively the entire thing was. I could feel the microbes and bacteria and the various detritivores as they did their work. I could feel the nutrients in the soil. I could feel just how good the compost I was making was for everything that would grow within it.
+
+Tianlan could feel it too. She said it felt good, and that she couldn’t exactly describe it. Maybe a bit like getting to drink warm tea after a day out in the cold, a sudden burst of warmth that improved everything.
+
+And maybe a little bit of my momentary contentment was from remembering the teachings of an old man who resided in Tianlan’s dreams.
+
+‘Behold: I follow the path of Shennong. Composting is, after all, destruction. The first step on the path of creation,’ I thought at her, making myself sound like an old master.
+
+I heard Tianlan’s laughter in the back of my head.
+
+‘Indeed. Truly, my contractor is most wise to recognise this,’ Tianlan declared pompously. ‘But he is still a fool! He claims the work of the Master of Destruction as his own! May Heavenly Master Worm strike you down for your hubris!’
+
+I nodded solemnly. ‘You’re right, my martial sister. Heavenly Master Worm, forgive this unworthy man for taking credit for your work!’
+
+I kowtowed immediately. A pink creature poked its head up from the compost heap, seemed to look at me for a moment, then burrowed back into his home.
+
+‘Master Worm has acknowledged us!’ Tianlan shouted.
+
+‘Praise Master Worm!’
+
+“… Jin, why are you bowing to the compost heap?” my lovely wife asked as she dumped some scraps that even Washy didn’t like eating onto the pile.
+
+“I received enlightenment from the Heavenly Master of the Dao of Destruction, Master Worm,” I said seriously.
+
+Meiling just stared at me for a couple of seconds. She considered at length my words. She walked over to stand beside me.
+
+“Praise Master Worm,” she intoned, her lips twitching as she struggled not to smile.
+
+==============================
+
+We could only praise The Heavenly Master of the Dao of Destruction for so long, however, because we both had other things to do. The barn needed mucking, the sheep needed to be fed, and I put out some more birdseed in the feeders Yao Che had made for us.
+
+At first Meimei hadn’t liked the feeders, deeming it wasteful… but she had come around to them pretty fast, and now she looked forward to watching the songbirds eat their fill at breakfast.
+
+The drop hammer wasn’t pounding today. Instead, Bowu joined myself and Gou Ren and we taught him how to do some repair work on the fence.
+
+It was brisk work, and away from the warmth of the compost pile the world made it very clear that it was truly getting into fall. The leaves had already started turning, and the main harvest of rice would be very soon.
+
+I was really looking forward to going to the Mid-Autumn Festival again this year. I have to say, that and the solstice were my favourite festivals.
+
+The Solstice especially, if things went well. That meant everybody would be back home.
+
+The thought put another smile on my face.
+
+Soon enough though the chores were done and we could finally go back inside.
+
+I took off my muddy boots and pulled off my reed poncho. Buzzing greeted us immediately as bees swarmed around us, their wings beating for all they were worth in an attempt to dry us off. Some outright landed on me, licking off the drops of water. It kind of tickled as they licked me, and buzzed happily.
+
+“Thanks, Vajra,” I said as I rubbed my hands together. The bees buzzed happily.
+
+I banged my boots off outside and then put them in their cubby—and then I noticed another pair of shoes.
+
+I was slightly surprised, but we might have taken a bit too long on the fence if he was here already. I could hear his voice in the other room.
+
+“—are improving. Remember to keep your guard high,” a calm voice intoned.
+
+“Yes,” Meimei replied, and then swishing sounds started up again.
+
+“Senior Brother,” I greeted as I walked into the main room. Lu Ri was sitting at the main table and playing Go with Washy, who was in his dragon form. Meiling was standing off to the side, her training spear in her hands.
+
+“Jin, I thank you again for your invitation,” Lu Ri replied from where he was sitting at the table. Lu Ri mostly stayed at Hong Yaowu, but I had invited him around for dinner tonight. Recently, we had actually started talking about the Cloudy Sword Sect a bit more, and he had given me a couple of scrolls on their work.
+
+It was actually interesting hearing the stuff they had to say. If I'm honest? Kind of a complete mood whiplash, comparing what they wrote to how I had been treated there—but they had made amends and were going to be protecting Hong Yaowu in case anything went wrong, so the least I could do was read things with an open mind.
+
+‘Tea is nice and hot, Boss,’ Washy said as he examined the Go board while I started pouring cups for me, Bowu, and Gou Ren. In a mirror to Lu Ri and Washy, Babe and Chunky were playing their own board game, one Xiulan had gotten me. Babe was still partially out in the rain, the board on the veranda between them. I had long since given up on trying to get the ox to come inside, even during weather like this. He just liked the outdoors too much. Peppa, meanwhile, was dozing near the table with Zhuye resting against her side.
+
+I sat down at the table to watch Washy and Lu Ri’s game with Bowu while Gou Ren wandered into the kitchen to get himself a snack.
+
+Washy and Lu Ri were way better than I was at Go and I was trying to learn so I could finally kick Xiulan’s ass when she came back. Watching two masters at work was leveling up my own game… and really, Lanlan wasn’t exactly ‘good’ at Go either.
+
+I would have my vengeance!
+
+However, my studying of the board was interrupted by a grunt. I glanced down at the floor.
+
+Zhuye was sitting up and leaning on his front arms, his eyes focused completely on Washy’s glittering tail. My son stared at the waggling appendage and grunted as he reached forwards, slapping his hand down, only to not land anywhere near his target,
+
+He pouted, looked up at Washy, and grunted. Washy, too engrossed in speaking with Lu Ri about tea, didn’t seem to notice, his tail wagging outside our little man’s reach.
+
+Zhuye’s pudgy hand slapped down again, trying to grab the glittering scales, but again he was denied. His face screwed up in frustration, and for a moment I thought we were going to have a tantrum on our hands. He sucked in a great breath, like he was going to start wailing.
+
+But instead of an ear-splitting cry escaping from his lips, he grunted, his cheeks puffed up comically. His arms shook as he put more weight on them and then he pushed with his legs, settling onto his knees and wobbling for a moment.
+
+My eyes widened, and I shot towards the cabinet that housed our recording crystal. I opened the door, snatched the crystal, and chucked it towards Meimei, who had also noticed our son’s actions and leapt into the air and caught the crystal like a football star, activating the crystal in one smooth motion.
+
+I rushed back around the couch just in time as Zhuye, his eyes determined, crawled for the first time. Both Lu Ri and Washy had obviously caught our commotion, and the dragon turned around to look, his own eyes widening. He inadvertently pulled his tail away slightly further. I don’t think Zhuye noticed; instead he just kept up with it, crawling maybe two paces across the ground before he managed to slap his hand down on the shiny dragon scales.
+
+Then, finally, his cheeks deflated and he released a mighty cry as he collapsed face first into Washy’s tail, hugging the appendage tight.
+
+Me and Meimei cheered along with him.
+
+‘Little Bro!’ Washy cried as he reached down and scooped him up into the air. “Haha! It is I who helped you learn how to crawl! Tigu is going to be so jealous!”
+
+I hugged Meiling as we both crowded around as well, Zhuye looking a little confused about why he was being praised so much, but happy with it all the same.
+
+All in all, the rain might not have been my favourite thing… but it was still a good day.
+
+And, after the rains finished, we had things to look forward to.

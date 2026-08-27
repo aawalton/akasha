@@ -1,0 +1,161 @@
+---
+id: 6697427f-471f-5eab-9df3-31f8001b5af9
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 42 - Crystal Balls"
+slug: 0046-b3-chapter-42-crystal-balls
+partOf: bookbound-bunny
+position: 46
+ownLength: 2235
+unit: words
+publishedAt: 2026-05-16
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3402540/b3-chapter-42-crystal-balls"
+royalRoadId: "3402540"
+---
+
+Lily had to practically force herself to move as the toll continued to be paid for her lesson inside the book. Still, regardless of how she felt now, she didn't regret it for even a second, as not only did she finally get to meet and even hug Arakil, but the quality of the lesson couldn't be compared.
+
+Hands-on teaching far exceeded self-taught, especially with someone as knowledgeable as Arakil around to offer advice you hadn't even considered. How would Lily have ever realized her Mana was flowing awkwardly to her left pinky finger when she was doing somatic gestures?
+
+Then there was the lesson on drawing with one's mind, which was an experience like no other. After eating, catching up with her friends and their dungeon encounter, and then going for a brisk walk, one of the first things Lily did upon returning to her room was try to see if she could get that ethereal hand to draw a circle, or even a dot.
+
+Sadly, not only did Lily fail to manifest it for even a moment, but all she received for her efforts was also a splitting headache, practically on the verge of a full-blown migraine. As Lily regretfully clutched her head, eyes shut tight, Arakil provided an explanation.
+
+[You've taxed your mental acuity to the extreme, so there's nothing more you can really learn or do today. Remember, you crammed a full day's worth of learning into only a handful of hours.]
+
+Lily tried to respond with her own mental talk, but found even that a struggle. Sighing with disappointment, she reluctantly conversed the old-fashioned way.
+
+"If we did three hours instead of six, would it lessen the effects at all? And would we be able to do this weekly instead of every two weeks?"
+
+[The burden would be reduced, but in all likelihood, it would not allow you access any sooner in any meaningful manner.]
+
+Lily frowned. "Is most of the cost related to the opening?"
+
+[That's correct. In fact, shortening the duration would be like cutting off your nose to spite your face.]
+
+"What?" Lily asked, clutching her nose in a panic.
+
+[Sorry, I see that that proverbial metaphor went over your head… It would be like spending a gold coin to save a few coppers. Basically, reducing the duration at all would be saving a pittance.]
+
+Lily finally let go of her nose and nodded, finally understanding what Arakil was talking about. In fact, this clarified that she should want to increase the duration as much as possible if she truly wanted to be cost-effective, so that they could maximize the value of the expenditure.
+
+With nothing else to do, Lily took a nice, long bath before finally settling down to sleep. Finally, she allowed all the lessons and experience to slowly digest in her subconscious.
+
+***
+
+Time at Regarth continued as normal, with lessons still following their post-camping trip structure. While none of that really changed, Lily's personal time had taken quite a detour since her library visit as she continued trying to manifest that ethereal hand to draw.
+
+Lily would thrust and wave her wand around like a lunatic, but none of that helped at all. Now she truly felt the weight of Arakil's words, as reality itself did its best to stop such manifestations. How was one little bunny supposed to impose her will upon the world without the backup of magical chants?
+
+Arakil had to remind her every now and then that this was something to be worked upon gradually, not rushed, but having already experienced it in the mental landscape, she was struggling to accept that.
+
+Outside of that frustration, everything else Lily was involved in was going swimmingly. She immediately sought to make the corrections in her casting that Arakil had mentioned, and the results were very evident when suddenly her spells were flowing out like a river.
+
+As for Lily's practice to improve her hands, she was doing the exercises Arakil had mentioned whenever she could, but what she really wanted was a set of balls to roll around. At first, she considered purchasing them, but after thinking it over some more, she decided she'd prefer a pair she made herself.
+
+Making a stone ball with the aid of a well-designed glyph was child's play for Lily at this point, and that was exactly what she did. Yet when she held the stone balls in her hand and rolled them around, she couldn't help but frown. They were heavier and rougher than Arakil's golden balls, and ugly on top of that.
+
+"Should I make them out of glass?" Lily pondered. "Or I could ask Professor Sylwel to transmute them into something else…"
+
+Lily was musing to herself, trying to think which option she liked the most. With the help of glyphs and some telekinesis, making glass was a very good possibility; the only catch was finding the right type of sand for the occasion.
+
+"I watched Miss Camilla make glass… I tried it myself, but the sand I had was too dirty," Lily sighed.
+
+[I could offer a suggestion.]
+
+"I hope it's not melting my money to make gold balls…" Lily said, snipping that potential problem in the bud right from the start.
+
+It was something she had considered, but when she realized how many coins she would have to sacrifice to make even one ball, she felt like the wrath of Camilla had descended on her.
+
+[Why not make it out of crystal?]
+
+"You mentioned that before… Is there a crest for it?" Lily asked.
+
+[There is, although it's usually used exclusively in inscriptions rather than glyphs.]
+
+"Well, that's not too bad… But why's that the case? Pretty much every other crest I can think of is perfectly fine working on its own."
+
+[Crystal spells require being seeded by earth Mana. You could equate it to a plant requiring both soil and water to grow.]
+
+Lily nodded at the explanation. At first, she was hesitant when he mentioned crystal, thinking this was another attempt for him to sway her from astral magic, but now it sounded quite good. Not to mention, Lily was always happy to add more crests and sigils to her repertoire.
+
+Arakil's book unfurled, revealing a brand-new set of components just begging to be drawn. Lily felt her eyes sparkle with awe as she stared at their immaculate designs, the urge to draw them on the spot swelling inside her.
+
+Pulling out her wand, Lily began to sketch out the initial practice designs. At this point, she did all her first-time sketches with the wand, as it cost her nothing but a bit of Mana to do so, while also improving her proficiency in drawing without a physical medium to press on.
+
+These sets of crystal glyph components were highly interesting, and as Lily sketched them, Arakil provided narration on their use, both alone and as part of a whole.
+
+[These control the growth rate. These control the shape. These can change the color, if you wish.]
+
+The explanations continued on and on, with Lily happily listening as she drew her practice versions. What really caught her attention, though, was that crystal magic seemed to have two varieties for every type of spell.
+
+[You can either have an instant effect, just like any ordinary spell you'd cast. However, I wasn't merely joking when I likened crystal magic to planting seeds, as you have the option to create a crystal catalyst version of every spell, with not much change in its design. With these crystal catalysts, or seeds if you'd prefer, you can keep them ready for when the time requires them.]
+
+"Isn't this just like my talismans?" Lily gasped.
+
+[While similar in execution, they do have their differences. But as a resource that can be prepared ahead of time, the result is undeniable.]
+
+"I'm guessing this is why it was on your list of suggestions…" Lily mused.
+
+[One of many… But yes.]
+
+Arakil continued his lecture on crystal magic, and Lily found that it actually branched again. Not only could crystals be created from earth, but also from water, with varying drawbacks for each. Crystals made in water were quicker to form, but at the cost of durability, while earth crystals were the exact opposite—slow and tough. Arakil mentioned that there were other differences, but nothing Lily should need to worry about.
+
+"Is glass a crystal?" Lily suddenly asked.
+
+[Heavens, no! They are nothing alike at all! How could you even compare the disordered mess that is glass to the ordered lattice of a crystal?]
+
+Arakil then threw around a bunch of words that went entirely over Lily's head, such as 'amorphous solid' and 'crystalline solid,' which left her regretting her question. Whatever the case, it seemed Arakil held some kind of grudge against glass and preferred crystals.
+
+When the rant finally ended, and Lily had almost run out of components to try drawing, Arakil finally said something that left her with a shining smile.
+
+[Let's work together to create a crystal inscription.]
+
+"Yes!" she cheered.
+
+As always with their lessons, Lily took the lead, with Arakil providing corrections or timely advice. This way, she would be given the opportunity to explore her own thoughts without accidentally stumbling down the wrong path, as he could always bring her back to the mistake.
+
+The design was simple: Lily just wanted to create a crystal sphere, and the components were relatively straightforward. When it came to adding the earth glyphs to the inscription, though, Lily was unsure.
+
+According to Arakil, you didn't need to worry about keeping the elemental balance with crystal and earth, or crystal and water. This would've normally meant that a crystal inscription was far easier than any other inscription, but sadly, that was not the case.
+
+Rather than worrying about balance in the overall structure, you instead had to measure the right amount of fuel. Too much and your crystal could be deformed at a minimum or unstable at worst. Too little and it would be hindered in its formation, smaller, or even not grow at all.
+
+Lily asked whether there was a trick or method to correctly guess how much earth or water to feed the crystal, but the answer was sadly not what she wanted to hear.
+
+[You sort of feel it out. Only you know what your intended outcome for the spell is, and you measure it out appropriately. If you're baking a cake, you know you need two cups of sugar.]
+
+"Margit uses three cups…" Lily replied.
+
+[That's dreadfully sweet…] Arakil coughed. [I suppose that was a poor analogy, but I hope you get my point?]
+
+Lily nodded.
+
+Arakil did, however, say that there were ways to regulate or calculate the Mana, but that would have added even more complexity to the inscription than was needed. In this regard, it was better to intuit the ratios, and apparently, it wasn't as strict as she was imagining.
+
+In fact, Arakil mentioned that, in combat, it's better to overestimate, as even if the spell is misshapen, that often doesn't matter during the heat of battle. If you want a crystal spike to pierce through a manticore, who cares if it's a little bigger or lopsided? Heck, if it exploded due to instability, that could be seen as a boon!
+
+Lily continued her design under Arakil's watchful gaze. Soon enough, the rough draft was done and ready for more scrutiny. To Lily's surprise, there weren't many corrections, but right at the end, Arakil did tell her she'd forgotten to pick a color.
+
+"I didn't think that mattered," Lily answered truthfully.
+
+[Would you not prefer to have something you find visually appealing? Crystal magic is one of the few chances you have to exhibit such degrees of control.]
+
+Lily scratched her cheek as she thought about it. She found Arakil's reasoning good enough, although she couldn't help but wonder why he cared so much about it. Crystals were already pretty as far as she was concerned; did it really matter if she picked the color?
+
+Is he trying to show me how beautiful crystal magic is, so I'll be tempted?
+
+Lily wasn't sure whether she was being paranoid. After she said no to swapping her focus, Arakil had dropped the subject entirely, so it was more likely that he was genuinely trying to be caring for her.
+
+Lily mentally sighed, giving up on her own unreasonable thoughts. Returning to the heart of the matter, she thought about what colors she would like.
+
+Something related to astral magic…
+
+That she was sure of, but then she thought about it a bit more. For practice, she would have two balls, and in fact could have two different colors. Lily's eyes widened as inspiration struck.
+
+What if I have a dark one and a bright one? I could have them represent Lunar Eclipse and Radiance!
+
+Lily smiled, she really liked that idea, and it had settled into her heart as the result she wanted. After consulting the grimoire for the appropriate sigils she needed to get the colors she wanted, she began to fine-tune the crystal glyph portion of the inscription to meet her demands.
+
+[I see… I suppose I should have expected this.]
+
+Lily smiled and continued drawing; she was now filled with anticipation about what her two moon-inspired spheres would look like once they were finished.

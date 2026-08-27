@@ -1,0 +1,133 @@
+---
+id: e8f341f2-8f38-5121-870d-90e4123abe81
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 41 - Hands On"
+slug: 0045-b3-chapter-41-hands-on
+partOf: bookbound-bunny
+position: 45
+ownLength: 2368
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3393676/b3-chapter-41-hands-on"
+royalRoadId: "3393676"
+---
+
+While Arakil made things look and sound simple, that was obviously not the case when it came to Lily. Thankfully, he was there to provide ample guidance, through both his words and gestures, giving Lily his undivided attention.
+
+Her previous lessons couldn't compare to this direct one-on-one treatment, and while they weren't bad, they didn't have this level of attention to detail, thought, and care combined. Heck, until Regarth, Arakil couldn't even talk to Lily, so it had to be all done purely through written text, which had notably slowed things down.
+
+After spending some time on initial attempts, Arakil had her switch focus for a bit and, surprisingly, had her practice some of her Astral spells. Lily was understandably confused, but followed his instruction anyway, intending to go through her usual practice routine. Arakil even told her not to hold back, as she couldn't damage anything within this environment.
+
+Lily quickly noticed the results; everything was notably easier to manifest, and at times, she barely had to recite the incantation for Lunar Radiance or Eclipse. Seeing these results, she finally understood what Arakil had meant about this mental landscape being almost unrestrained from the rules of reality.
+
+"I should practice all my spells here first…" Lily mused.
+
+"That would be the ideal circumstances," Arakil confirmed. "That way, you'd get to experience casting the spell earlier than normal, which is often the biggest hurdle to overcome. I'll try to coincide teaching new spells for when this domain is available, although I still expect you to put in just as much effort outside."
+
+Lily quickly nodded. Even if this was a blessing, she wasn't going to let it get to her head. Everything she had learnt prior to this was proof enough that she didn't need it as a crutch.
+
+Going through her Astral spells was a treat, as getting to experience them so freely was quite the rush. Although now that Lily could see Arakil, she couldn't help but notice the subtle twinges on his face whenever she cast Starburst. Whatever ill-fate prevented him from creating even a single star had clearly affected him greatly, despite his adamant refusal.
+
+At the same time, now that they were in person, Arakil started giving her some pointers on her gestures to smooth out her movements. The way Arakil's hands and arms moved was unnaturally graceful, with not even a single wasted motion, and Lily found herself swallowing her previous thought about his hands looking oafish.
+
+With his patient and caring guidance, they slowly worked through some minor pain points that Lily hadn't even known about. At the same time, he started showing Lily exercises she could do in her own time in the real world that helped build hand dexterity.
+
+While Lily had wished she had received these sooner, she understood how much trouble that would have been. With only illustrations, writing, and eventually words to go by, it would have been a slow and painful process, compared to him showing his own gestures or even holding and guiding her hands into the correct positions.
+
+Flexing fingers and holding positions aside, Arakil also demonstrated a technique that involved rolling spheres in his hands. Two golden balls appeared in his hand from thin air, and he showed them to Lily before demonstrating the exercise.
+
+His fingers curled slightly, and the spheres began to move. The thumb pushed one forward while the ring finger nudged the other aside, sending them rolling around each other in a slow circle. At first, the motion was careful, the balls clicking softly whenever they touched.
+
+Gradually, the rhythm smoothed, and the spheres spun faster and faster. After a moment, he eased the intensity, letting the balls slow until they settled quietly back into his hand.
+
+Lily was very surprised. This involved no magic at all, yet Arakil seemed to have practiced it for who knows how long. Lily started at her own hands and felt a tinge of disappointment in herself. He'd somehow improved her hand growth; she remained positive that he had influenced their development, yet she hadn't actively sought to improve them further.
+
+"Don't beat yourself up," Arakil said. "You still have practically endless time to learn and grow. As long as you don't settle for stagnation, you will always improve."
+
+Arakil then handed her the two golden balls and helped her go through the simple motions. It was harder than it looked, and Lily could only maintain a slow and steady pace, yet he never once diminished her or scolded her, even when she accidentally dropped them.
+
+"I suggest you make or procure your own spheres once you are out here. You can even start with only one to get the hang of it, and eventually you can progress to three or more, and involve cycling them through both hands."
+
+Lily enthusiastically nodded, which brought an end to the apparent 'break' that Arakil had provided as they went straight back into glyphs. Only now did she realize that this method of manifesting with your mind's eye was extremely taxing, as if it drained mental clarity like a spell drained Mana.
+
+And this is within a mental landscape, I can't even imagine how hard it must be to do it in the real world!
+
+By now, Lily had also realized that despite hours passing, she wasn't physically tired. Apparently, this was another boon of this place, and Arakil confirmed that she would be able to work for a full twenty-four hours without any repercussions.
+
+"Your actual body is paying the cost, but it won't exceed six hours," Arakil explained. "You've certainly studied and practiced for longer than six hours on multiple occasions, so I knew you would be able to manage."
+
+"Does that mean I could stay here longer?" Lily asked.
+
+"It's certainly possible, but it would likely be at the cost of extending the reopening for longer than two weeks," Arakil answered. "I'm also not too fond of letting your body vegetate for extended periods of time outside of sleep. Remember, none of the bodily exercise you do here is real; you only retain your memories and understanding."
+
+This was why Arakil didn't have her do the hand practice for longer than it took to properly demonstrate it, as it would have almost no benefit. It would be up to Lily to take this knowledge and use it on the outside.
+
+After what felt like far too long for her liking, eventually Lily managed to draw a circle with only her thoughts. It had come through what felt like blood, sweat, and tears, with her on more than one occasion having to stop her hand from just drawing it so she'd get a result. However, while Lily was feeling dismayed that it had taken her this long, Arakil had a look of surprise on his face.
+
+"That's honestly sooner than I expected…" he murmured.
+
+Lily felt as if she'd been slapped in the face. "Really!?"
+
+"Yes, really," Arakil confirmed. "I truly didn't expect you to manage this on your first visit, but I didn't say anything because I didn't want to dampen your spirits."
+
+Lily was shocked and now joined Arakil in staring at her circle, as if she also couldn't believe it was there. Arakil was running his hand through his hair, furthering the scruffled mess as he vigorously scratched it.
+
+"Is this a matter of talent? Or is this 'luck' again?" Arakil pondered, with the second question almost sounding accusatory.
+
+Lily actually hoped it wasn't just a lucky breakthrough. Regardless of Arakil's feelings on the matter with his personal demons, she didn't want her accomplishment to be diminished due to random chance. If everything could be resolved through luck alone, then what was the point of putting in the effort?
+
+Much to Lily's relief, Arakil shook his head, perhaps sensing her feelings or sharing similar opinions. "No, I don't think mere 'luck' could be regarded here. You either do it the right way or you don't do it at all. There are no half measures when it comes to this."
+
+Arakil had Lily continue, and despite her earlier success, she didn't immediately manage a second circle. At first, she was disheartened, having expected the first success to fuel the rest. She almost began to doubt herself, but thankfully, during the next few attempts, she paid closer attention. Yes, something had changed after the first experience, and Lily felt that her mental drawing somehow felt clearer than before her success.
+
+Pulling on these feelings and the newfound clarity, Lily continued to draw, and soon enough, after countless reimaginings, she drew a second circle. Lily wanted to celebrate but held it in; instead, focusing on the experience and feeling of what had just happened.
+
+It was more than just imagining herself drawing it; it was almost as if she had produced an ethereal hand from within her mind, and it had drawn it for her. That line of thinking seemed to resonate unexpectedly well with Lily, and her third circle came in a much shorter amount of time.
+
+Seeing this, she finally celebrated and turned to Arakil, beaming. However, she quickly noticed that Arakil had a look of deep thought, as if he was trying to piece together something that was troubling him.
+
+"Is everything okay?" Lily asked.
+
+Arakil sighed, shook his head, and then turned to her with a smile. "Sorry, I'm just overwhelmed at how fast you've taken to this. It really exceeded my expectations, and that was even with me factoring in your previous accomplishments. You might really be a natural when it comes to glyphs and inscriptions."
+
+Lily felt giddy with pride and happily explained to Arakil her current thought process. Arakil listened intently, hanging on to every word and eventually nodding with approval.
+
+"There's nothing wrong with this line of thinking, and in fact, it might help you progress depending on your mindset," Arakil said.
+
+"It's that good?" Lily asked with surprise.
+
+"You just need to extrapolate it. For example, you've got your ethereal hand drawing for you, that's step one. Now, this hand is ethereal, so why would it be confined to the norms? Naturally, it should be able to draw with unparalleled speed and precision. In fact, what's stopping it from drawing at double speed? It also happens to be magical, so why can't it draw more than one line at once?"
+
+Arakil continued to throw out hypothetical trails of thought, each one a different mindset that could be applied to her imagined ethereal hand. Of course, all of these were beyond her understanding at the moment, but she was delighted that Arakil approved of her method and confirmed that it had plenty of room for growth.
+
+Lily curiously asked what method Arakil used, if any, but he answered by saying that he quite literally drew it in his mind. He went on to explain that he could attribute similar extrapolations, with the ultimate being "it's in my mind, why would I have any limits?"
+
+Part of her wished she could copy Arakil's methodology, but he told her to stick to what works for her, as it evidently produced successful results. In fact, he even speculated that it might be a 'Magesight lens' situation again, and that was why Lily needed a metaphorical hand to draw it for her, rather than Arakil's more direct approach.
+
+Much to Lily's regret, by the time she finished her fourth circle, her mind was feeling taxed beyond belief. It quite literally felt like her focus, or perhaps her willpower, was being spent like Mana in casting a spell.
+
+"We've got less than an hour remaining, so this is a perfect opportunity to stop and take a breather," Arakil said.
+
+"Less than an hour!?" Lily cried out in shock. "But didn't I just get here?"
+
+Arakil smiled and nodded. "Time flies, I'm afraid. You've been in some intense concentration for several hours. I thought you'd run out of steam sooner, but I didn't want to interrupt you while you were in the zone."
+
+Lily grumped in disappointment, but sadly, no amount of complaining would change the situation. As the final moments ticked away, she and Arakil just spoke casually, with not much thought put towards training, education, or the sort.
+
+Arakil led most of the conversation, perhaps trying to ease Lily's mental fatigue, not that she minded. He asked her questions about her lessons and what she was enjoying, occasionally branching into subjects he was involved in. They touched on what her favorite crests were, or what sigil she found the most useful, the latter of which Lily could answer instantly.
+
+"It has to be the point sigils; marking out an area has never been easier," Lily expressed with unbridled joy.
+
+Arakil gave a knowing nod, and they continued their casual conversation. Lily was surprised by how casual it felt, and while they had had moments like this before, seeing him across the table from her, seated in his own chair, made it feel like a completely different experience.
+
+Arakil's approach almost brought Margit to mind, making Lily realize that she already considered Arakil family. It was a heartening experience and one she wouldn't trade for anything.
+
+Sadly, time eventually ran out, and after one final parting hug, he led her towards the door. As Lily was about to walk through, she turned around and blushed. "Thank you for everything."
+
+Arakil smiled and nodded. "Thank you, too, Lily. I look forward to our next face-to-face."
+
+Lily bopped her head and stepped through the door. The colors seemed to fade into a dull darkness, and before she knew it, she suddenly felt her body. It was almost like one of those falling dreams, with her feeling like she had crashed onto her mattress.
+
+As she got up, she couldn't help but groan a little and understood why Arakil was adamant about the time limit. Her body was stiff, and she definitely didn't feel rested; in fact, the fatigue from all her time began to seep into her.
+
+"Dinner… Bath… Bed…" Lily grumbled, then, when she felt her stiffness, she sighed. "Scratch that; I think I need a walk before all of that."

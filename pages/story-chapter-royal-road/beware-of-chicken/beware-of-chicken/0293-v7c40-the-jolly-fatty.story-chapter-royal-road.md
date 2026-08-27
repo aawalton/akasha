@@ -1,0 +1,139 @@
+---
+id: 03922651-43ac-5bf1-8432-04d5206baa9f
+page-type-slug: story-chapter-royal-road
+title: "v7c40: The Jolly Fatty"
+slug: 0293-v7c40-the-jolly-fatty
+partOf: beware-of-chicken
+position: 293
+ownLength: 2020
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3186538/v7c40-the-jolly-fatty"
+royalRoadId: "3186538"
+---
+
+Ming Mao, master of the Jolly Fatty Inn, was seated outside his domain. His feet were up, his pipe was lit, and he was running his fingers through Magistrate Fluffy’s fur. The ancient tom was dozing and purring in a regal manner; his grey fur poofy, but starting to thin. He was too old to catch mice these days, but his long life of service granted him certain privileges, and his children and grandchildren did his duty for him. So the good Magistrate could focus on more important things—like warming people’s legs.
+
+The lunch rush was over, his boy could take on any stragglers, and it was indeed a fine day.  He was taking a well-deserved break, in his opinion.
+
+Ever since the cultivators started staying at the Dueling Peaks, for some still as yet unknown reason, his inn had been seeing quite a bit more custom of the immortal persuasion.
+
+It had started before winter; when a regal and noble-looking young lady had come in with an entire troop of cultivators, declaring that she had “been here before” and that his family’s roast duck was amazing.
+
+Ming Mao had never seen the woman before, but Lady Yin was clearly familiar with his place and his legendary roast duck. But she had been surprised at his duck fat fried potatoes. Which didn’t make sense. Ming Mao had a good mind for his customers’ names and faces, it was a requirement in this line of work. And the only being with silver hair and the name Yin that he remembered had been a rabbit.
+
+For an animal to be a stunningly beautiful lady was preposterous—but he played along anyway. She paid well, as did all her friends, and she was very… well, not polite for a cultivator, because the woman had a mouth like a bandit, but she and her people caused surprisingly little damage. The one time there had been a small incident, Lady Yin had made the other cultivator repair the floorboards he had broken, and hadn’t been satisfied with the job until Ming Mao couldn’t tell the difference between the repairs and his original floor.
+
+Ming Mao had been pleasantly surprised by the young lady, and he had grown to look forward to when she and her “Blazing Swords” visited again.
+
+And it wasn’t just them—other cultivators would come in ones and twos, asking for his famous roast duck. Which was stressful but, like Lady Yin’s group, they kept to themselves and didn’t frighten off his regulars.
+
+He yawned mightily in contentment, leaning back in his chair, when he heard a series of low murmurs coming from the main street. They sounded quite impressed, instead of scared or angry, so Mao took a look, carrying Lord Magistrate Fluffy with him. His Eminence was most displeased by being moved, grumbling and growling, but he didn’t shift a whit, the lazy old man, allowing himself to be transported without putting up a fight.
+
+Mao quickly saw what exactly had drawn the town’s attention—because it had stopped right in front of his inn. It was the finest carriage Ming Mao had ever seen. It was a gigantic thing of dark, but warm toned wood, pulled by a Northern Azure Ox; the great beasts were renowned for their might, but that a single one was pulling this enormous carriage spoke of a strength beyond its usual type. Finally, there were bees circling all around it for some strange reason, though the little honey-gatherers were not doing any threat displays and seemed quite calm.
+
+And on that carriage… there was a symbol. A symbol that every merchant that passed through his inn was quickly learning to recognise; the symbol that proclaimed the goods within were of the highest quality, and commanded the highest prices. The rice and leaf that travelled exclusively via the Azure Jade Trading Company, in heavily-guarded caravans.
+
+Ming Mao, using his new largesse from the cultivators, had once splurged on a small jug of maple syrup. It had cost a small fortune and, though it was undeniably delicious, Ming Mao had been a bit disappointed in what he had got for the price.
+
+Until he served some to a pair of cultivators, who had raved over it, bought the rest of his small jug, and more than recouped his purchase price.
+
+The door to the carriage then opened, and exiting it was a procession of beautiful ladies, one and all in fine clothes; and one handsome older man who wore authority like a mantle. He was clearly some sort of general or magistrate.
+
+Then the door to the carriage closed, and Ming Mao beheld someone he recognised.
+
+It was that cultivator! The one with the Azure Jade Trading Company’s medallion! Last time the man had arrived here looking like a vagrant, but this time he too wore fine clothes and looked like a man on top of the world.
+
+“Master Rou?” Ming Mao called out.
+
+The man paused, looking rather shocked to be addressed by name, before a wide smile spread across his face. He held a jar underneath one arm and moved to unhitch the ox… which had entirely too much intelligence in his eyes. A fish popped over the lip of the jar and appeared to look around with… excited anticipation? Ah, more Spirit Beasts, then.
+
+“You’ve a good memory, sir!” the cultivator replied, good cheer in his voice. “But you have me at a disadvantage! I don’t think I got your name, last time I was here!”
+
+“Ming Mao, Honoured Customer!” Mao replied immediately, before his eyes wandered to the ox...  again, who was looking at his inn with interest. “Ah, but Honoured Customer, I do not believe one of your number will fit through our doors. I… can arrange a table outside for him, if it pleases him?”
+
+Again, the cultivator seemed pleasantly surprised.
+
+“It's a nice day. If it's not too much trouble we’ll all enjoy the sunshine,” Rou Jin said, pulling out his jade medallion. This time Mao didn’t bother to compare it; he knew it was good. “We’ll have some of your ducks, as well as an assortment of vegetables… actually, bring out some of everything, if you please, but no rush. I know how it is to have to feed a group like us, especially on short notice.”
+
+Ming Mao bowed. It appeared his break was over. He gently set down Magistrate Fluffy, who huffed mightily at the interlopers interrupting his rest and mao’d his grave displeasure—but that stopped when Master Rou leaned down to give the old man proper tribute.
+
+Mao rushed back into his inn and alerted the kitchen. There were some groans at the sudden order, but his son and employees dutifully got to work, especially when they heard whom they would be serving.
+
+And then Mao was out again, moving tables and chairs and mingling with his customers. Magistrate Fluffy had moved to Master Rou’s lap and was dozing happily.
+
+Master Rou, now not distracted by whatever had been on his mind that night two years ago, was a sharply intelligent man, who knew Ming Mao’s trade well. He couldn’t believe he ever thought the other man a dullard when they had first met!
+
+That a cultivator knew so much of innkeeping didn’t really make sense, but he clearly understood the trade and its hardships. They commiserated over the scourge of drunk and unruly customers. The others at Master Rou’s table were equally polite and well-spoken, and the atmosphere was perfect.
+
+Soon, the food started coming out as well. The fish in the absolutely gorgeous jar sampled some of everything, slapping his fins on the side of his jar and… speaking.
+
+It was only with the desire to provide good service to the cultivator that kept him on his feet.
+
+That, and the effusive praise the fish had for him. “Fantastic! The glaze on the duck is perfectly proportioned! Not too sweet, just enough to bring out the flavour of the meat—and the potatoes! In duck fat?! Inspired!”
+
+The ox received a massive salad of cabbage and other greens, as well as leaves from the inn’s fruit trees. It seemed suitable to his palate.
+
+The bees received… well, honey. For Master Rou had ordered them some.
+
+The final members of their party was a babe and his mother, a green-haired and quite cute woman, who turned out to be Master Jin’s wife. She was most grateful that Ming Mao’s daughter had chopped up her son’s dish up finely enough that nothing else needed to be done.
+
+Master Rou was similarly pleased.
+
+From there, the topics meandered as Master Rou insisted he continue their conversation. Of course, he wanted the latest gossip, which Mao obligingly provided—mostly to do with the shift in the cultivators’ actions. They were patrolling more, hunting down bandits, and being… oddly visible and proactive.
+
+“Some people are worried, of course. They think it might be some kind of prelude to a cultivator war, but I’m optimistic. The roads are the safest they’ve ever been; And… well, they’re nicer now. Most of them were always fairly generous, but now… they look at us instead of through us.”
+
+Master Rou smiled.
+
+“Sounds like things really are changing,” the big cultivator said. “Yin sounds like she’s doing a good job, too.”
+
+Ming Mao paused. “...your rabbit, or Lady Yin, Master Rou?”
+
+“Oh, they’re the same person.”
+
+…it turned out that a rabbit apparently could be a beautiful young woman.
+
+From there, the conversation continued to meander; and Master Rou told Ming Mao of the rumours he had heard, as well as the prices of certain goods in Pale Moon Lake City.
+
+He truly knew how things worked.
+
+But the man was only here for a meal, not to stay the night.
+
+“Your service was impeccable, Master Ming; and you too, Lord Magistrate,” Master Rou declared, smiling at the old cat. Magistrate Fluffy mao’d magnanimously once more, acknowledging the praise. The older gentleman and his wife both laughed as well.
+
+“Your praise honours us, Master Rou,” Ming Mao replied.
+
+“Here, I’ve got some excess stock that I think you could use—and a gift, as thanks for putting up with us ordering the whole menu,” Master Rou said while pulling out several bags and a couple of bottles. Each one was stamped with the rice and leaf.
+
+It turned out to be both rice and alcohol—the finest rice Mao had ever seen. The grains were fat, and almost gleamed in the sun.
+
+Mao had only heard tales of Gold Grade Rice in Pale Moon Lake City—of tiny bowls beside meals that one paid a small fortune for.
+
+And these were entire bales.
+
+“Master Rou, this is simply too much!” he protested, for the sake of propriety.
+
+Yet the man insisted; and so Ming Mao gratefully accepted the gift.
+
+He got it loaded inside, quickly putting it under lock and key. He also filled out all the appropriate forms for the Azure Jade Trading Company, as pertaining to his deal with them.
+
+And then he closed down the kitchen for a while, to give everyone a well-deserved break.
+
+Then Ming Mao sat behind his inn, in his chair, smoking his pipe, with Magistrate Fluffy on his lap once more. His son and daughter sat beside him; and his wife bought out some cups so they could try Master Rou’s wine.
+
+The breeze was nice. The alcohol was stunning.
+
+It was a good day to be an innkeeper
+
+Together they watched the great carriage disappear over the horizon, and Ming Mao idly wondered what the man’s business was.
+
+Ah, probably some mercantile venture. The man seemed to like things to be quite low key.
+
+========================
+
+Chen Yang of the Framed Sun Sect stared up at the cloudy sky as the heavens parted, and a long, sinuous shape descended.
+
+Abruptly, the light shower of rain stopped, and a dragon stared at them all, his profound gaze weighing and measuring.
+
+"I bring a message from my Master to the Master of the Framed Sun Sect…” the dragon began, his regal voice rumbling like thunder.

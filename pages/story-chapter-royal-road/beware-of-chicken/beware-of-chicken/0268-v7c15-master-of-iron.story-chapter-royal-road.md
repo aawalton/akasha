@@ -1,0 +1,167 @@
+---
+id: 2d66edc3-01b9-506f-ba1f-bec6bf245372
+page-type-slug: story-chapter-royal-road
+title: "v7c15: Master of Iron"
+slug: 0268-v7c15-master-of-iron
+partOf: beware-of-chicken
+position: 268
+ownLength: 2345
+unit: words
+ownProgress: 2345
+publishedAt: 2025-12-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2866104/v7c15-master-of-iron"
+royalRoadId: "2866104"
+markedReadAt: "2026-06-29T19:00:36.751Z"
+---
+
+Tie Delan, Sectmaster of the Hermetic Iron Sect, hammered upon the red hot metal on his anvil. He held it still with his bare hand so that he could feel the heat; and each driving blow from his hammer kept the metal at that perfect temperature as it was being shaped.
+
+It was a soothing action he had done many thousands of times; here, in the forge, all his worries faded away, and all that was left was the song of steel and the shower of sparks.
+
+He was forging a simple thing; a chisel, specifically for stone working. He was too unbalanced to give the arts of his forebears the attention they deserved; so he went back to the thing he knew, and it made everything else wash away.
+
+And besides, this was necessary anyway.
+
+The Hermetic Iron Sect, for the first time in centuries, was growing.
+
+They had fallen far from what Delan had witnessed in the memory crystal given to them by Cai Xiulan. Once, their ancestors had boasted thousands of cultivators in the Sect. They were the artisans and masons that had built the foundations of the entire Azure Hills.
+
+The cataclysm that had rocked the land and changed the ground to metal had decimated their numbers, and the turning of the land had consigned them to a slow death.
+
+It had reduced them to one family, a handful of disciples, and some mortals to keep it all running, who lived in perhaps the harshest place in the Azure Hills.
+
+It was a constant worry about their numbers… even if they had carved out a niche for themselves. They made the best blades in the Hills, and their land, while full of valuable resources, was considered too harsh to take by others.
+
+So they had survived. Clinging on, generation by slowly dwindling generation, preserving the ways of their ancestors. Some had left, but many more had died. Their Sect was the closest to the Howling Fang Mountains and, as a result, they were the ones who had to deal with any Spirit Beasts that fell onto their side of the border. That netted them useful resources… but the fall and lack of Qi tended to throw the beasts into such a frenzy they destroyed their own cores. One practically needed to be a smith to get any use out of them.
+
+A land of scarce resources and battles with little reward was their prize; but it was their home. Delan’s ancestors had sworn to keep the land and defend the mortals to some ancient lord that Delan now knew to be Lord Xiaoshi. And in doing so, they were one of the few sects to have actually preserved most of their true traditions. Out of every sect, despite the shift to iron, they were the closest to their ancestors. Creators first, rather than warriors.
+
+That had been noticed. Well, mostly the excellence of Delan’s son had been noticed. The Head Mason for the Restoration of the Azure Hills was a title that filled Delan’s breast with fierce pride whenever he heard it spoken. His work restoring the Dueling Peaks was already entering legend, and that meant the name of the Hermetic Iron Sect resounded throughout the land.
+
+For the first time in a long, long time, they had recruits coming in from outside the Ironfields. The sectless, who witnessed his son’s repairs of the Azure Hills, journeyed to Delan to beg that they be taught the ways of stone and steel.
+
+They saw the revitalization of the Azure Hills, and wished to contribute to it.
+
+He had thought long and hard before accepting them… but in the end, accept them he did.
+
+If they wished to reclaim their former glory, they would need all the hands they could get.
+
+And that was before the sudden ignitions that had happened on the solstice. Nine children of the Ironfields had ignited their dantian during the solstice, when Qi had erupted throughout the land; it had happened right in the middle of the traditional solstice dance.
+
+Four of them had already been assistants and the others were pleased to join the ranks of the Sect, those who had defended their families for thousands of years.
+
+Once more, the Hermetic Iron Sect would lay the foundation of the new order, and craft wonders that would last for ten thousand years.
+
+It was a soothing thought, and one that brought him great joy.
+
+But nothing could last forever.
+
+There was a knock on the door frame, and Delan turned to look at who had interrupted him. His wife, Liquin, smiled at him. Her dress hid well the growing bump of her belly. It was an era of growth, and there would be no better time. Liquin had also been most convincing.
+
+His son was very pleased with the decision, and there had been a great celebration in Iron Town when the news had reached them. Delan hoped this birth would be easier on her than their son's.
+
+“Is it time?” Delan asked.
+
+Delan still remembered the shock at the Dueling Peaks, when the Grand Marshal had returned with Master Jin’s rough itinerary.
+
+“He plans to visit the Hermetic Iron Sect first?” the Master of the Azure Horizon Sect had asked, a brow raised.
+
+There had been several other murmurs. Some whispered that Master Jin should see a more impressive sect first, rather than one so small.
+
+The Grand Marshal had simply raised one delicate eyebrow.
+
+“Tie Delun shed his blood in the defence of Master Jin’s home. Out of all of us, I would say the Hermetic Iron Sect has the most qualifications to have the honour of receiving him first,” she had declared.
+
+The reason had silenced all others; and so Delan found himself and his Sect given great face. The first to be visited by the Hidden Master of the Azure Hills, who had saved them all from a demonic invasion.
+
+His son had told Delan much about the vicious battle, and of the feeling of Qi so far beyond his own. His boy had been shaken by the knowledge of just how high the heavens were—but resolute in his march forwards.
+
+What a man, his son, who stared into the face of the Great Enemy and broke it with his hammer. It brought a smile to his face each time he remembered it. Heavens above, he was so proud of the person Delun had grown into. A true man!
+
+Still, it was unnerving that he would be playing host to such a power. A power whose daughter Delan’s son was courting.
+
+…his lad was a good sort! Master Jin surely saw that as well!
+
+“Master Jin has stopped in Iron Town. His messenger should be along shortly,” Liquin replied.
+
+The Grand Marshal had also informed them of the face that would be given to all sects that Master Jin would be visiting; for Master Jin was following the most courteous of ways.  Announcing himself, and waiting to be granted entry.
+
+To even be given the option of turning away such a powerful Expert was more than the Azure Hills deserved, but Master Jin was a Spiritual Herb Master from the Cloudy Sword Sect—a sect legendary for their respect for tradition.
+
+“Inform the disciples please, my dear. I’ll be along shortly,” he requested, and his wife nodded, leaving him to it.
+
+Delan made sure his current work would not be ruined. Then, he removed his work clothes and stepped directly into the forge, into the blazing heart of fire. The flames cleansed his body… and it was faster than using water. He stepped out of the fire and put on his finest clothes before exiting his personal forge with as much haste as was not unseemly.
+
+His feet took him to the entrance of the Sect where, sure enough, all the disciples and mortal servants had gathered.
+
+His son stood tall at the head of the disciples and mortal servants. He was easily spotted not just because of his frame, but because of his hair. Delan’s family and some of the new initiates stood out amongst the mortals not because of something extraordinary, but because of a lack of it. It was their hair. The brown and black hair common to the Empire was rare here. Instead, the colouration was universally brighter. Vivid greens, yellows, purples, and even shocks of purest white were common; it depended on which village the mortal hailed from, and if they moved to a different village, their hair would slowly change colour too.
+
+His ancestors thought it had something to do with the metal in the water; the water within the Sect’s compound was completely pure, while the water in other parts of the Ironfields was not. Those that drank it wouldn’t die, but it did taste a bit funny.
+
+The Sect Elders were here as well. First was Delan’s own mother. Her cultivation was gone, destroyed by the same Spirit Beast that had taken Delan’s father; but her words still held weight, and her hammer work was still quite skilled.
+
+Liquin’s parents, both still in the Initiate’s Realm, were together as always. Jiang had gone blind decades ago, but the patterns he carved into steel were still stunningly beautiful. Yanmei, hunched back and wrinkled face, stood beside him with one hand on her cane. That she was standing at all was impressive.  Though most of it had to deal with the only outsider present; her massages were apparently very good.
+
+The final member of the assembly had bright orange hair; a young lady who had asked if they could show her their home. Considering who was coming, it seemed only right.
+
+Rou Tigu was smiling brightly at the open gate. She had only been with them for two days—she and Delan’s son traveling together after they finished some work for the Grand Marshal. The last two to arrive, but already she was winning hearts. She was so bright, so vibrant! A true artist, as well!
+
+His son had become infatuated with the perfect woman! It was a little improper since she had come without a true escort, but Master Jin would understand.
+
+Delan nodded at what he saw. All of them were in their finest, though most of the mortals and disciples looked very nervous still about the prospect of who was coming.
+
+So they settled in to wait in the spring sun. Delan stood with his hands folded behind his back, looking for someone approaching on the road—when something caught his senses and his eyes snapped to the sky.
+
+His jaw dropped at what he beheld.
+
+“Above!” one of the other disciples called, awe in their voice.
+
+There was a dragon in the sky. His shimmering blue scales were wreathed in clouds, and he descended from the heavens in a lazy, snaking course. He was beautiful. So beautiful. His stunningly blue scales, the lustre of his horns… Delan could have wept.
+
+He had seen still recorded images of this great lord of the skies from Xong Yun Ren’s crystal, and it did nothing to prepare him for this moment.
+
+The dragon slowly, gently touched down, standing upon the base earth. His eyes gleamed with intelligence, and his body rippled with the power of one at the Fourth Stage of the Profound Realm.
+
+Tigu whispered something and Delan’s son choked. Delan frowned at the lack of decorum… but it was fine. The dragon noticed Tigu and smiled at her, before turning back to Delan.
+
+“I bring a message from my Master to the Master of the Hermetic Iron Sect, Tie Delan. Be you he?” the dragon asked, his tone regal and imperious.
+
+“I am Tie Delan, Sectmaster of the Hermetic Iron Sect!” he declared, stepping forward.
+
+The great dragon took his measure, his eyes focused on Delan. They were a bit…oddly round and fish-like, not that he was really judging the beast—he shook the thought away. How rude!
+
+Then, the dragon inclined his head in a bow.
+
+“My Master, Rou Jin, sends his greetings to Tie Delan, and requests his hospitality,” the dragon intoned with great politeness.
+
+Delan clasped his hand over his fist in the martial gesture of respect.
+
+“We humbly thank your Master for the great respect he has shown us, and bid him welcome to our home; let no door be barred to him, and let none obstruct his path,” Delan completed.
+
+There was a faint buzzing sound that Delan almost thought he imagined, but the dragon nodded.
+
+“My Master has heard your words, and is grateful to the father of his good friend and ally, Tie Delun,” came the response.
+
+So fast, to speak across such distances without a transmission stone; surely it was an amazing, profound technique!
+
+“Then please enter, great dragon, we have food and drink to soothe your appetite after the long journey!” Delan said. “We pay our respects to you!”
+
+“We pay our respects to the great dragon!” the disciples behind Delan chorused.
+
+The dragon perked up. “Oh? You have this Wa Shi’s thanks!” he declared and followed Delan past the gate, to where refreshments were already set up. The dragon turned to the disciples and nodded. “Hello everyone! Handsome Man, Sister, how are ya?”
+
+“Wa Shi, Master is using you as his messenger?!” Tigu asked, amusement in her voice.
+
+“I know, it's terrible, terrible! So much work!” the dragon moaned, a chuckle in his voice.
+
+Delan blinked at the sudden change from regal beast of the heavens to something more like a young man. The dragon bumped fists with Tigu, and then lifted his hand as Delan’s son lifted his own. The two clapped their hands together with a boom of displaced air, and then the dragon coiled around Delun in a kind of hug.
+
+The other disciples gaped at the casual banter, and Delan himself barely kept his mouth shut. Truly, they were held in high regard.
+
+“Now… you said there was food?” the dragon demanded, a bit of drool escaping his jaws.
+
+=======================
+
+=======================
+
+Editors: Massgamer, BargleNawdleZouss,

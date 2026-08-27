@@ -1,0 +1,169 @@
+---
+id: adb94088-a590-564a-9a86-633fdcd11bd5
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 73 - Vandriel"
+slug: 0077-b3-chapter-73-vandriel
+partOf: bookbound-bunny
+position: 77
+ownLength: 2282
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3766819/b3-chapter-73-vandriel"
+royalRoadId: "3766819"
+---
+
+Hana's height at this point was extraordinary, and if she couldn't safely land, the consequences would be dire. Lily and Lotte were huddled together, praying that their friend could pull it off. This was exactly why Lily herself wanted to keep herself as close to the ground as possible with that wind inscription.
+
+While it was impossible to hear Hana's chants from this distance, both Lily and Lotte watched as Mana surged around her. Whatever spell she was casting, she was bringing out whatever remained in her reserves to ensure this went off without a hitch.
+
+[With how erratic her Mana is behaving, she must have really spent herself in the duel. Then again, she did launch herself and attack in rapid succession, and that was after a day of other activities.]
+
+{Will she be okay!?}
+
+[I believe she is more than capable of handling this. Not to mention the conditions are ideal for pushing through her current limits. She has an audience, her well-being is at risk, and her Mana is almost drained. What more could you ask for?]
+
+For once, Lily refused to agree with Arakil. She believed her friend's safety was more important than anything else, and she wanted nothing more than to run to the stage and use her Nebula Veil to catch her. However, the current situation prevented her from doing so. Hana's own father had outright rejected the idea of anyone intervening.
+
+Thus, all Lily could do was pray and believe in her friend. She'd certainly managed to achieve multiple safe landings during their dungeon events, and she had boasted that she had learned to "fall with style" from the get-go.
+
+Finally, it looked like Hana was about to make her move. She cast a relatively small spell compared to the Mana she brought forth and sent a burst of wind downward. Lily could only assume it was either a test or meant to start slowing her descent. While falling, she cast another spell, slightly stronger this time, but hardly enough to make an impact, as she was still plummeting towards the ground.
+
+When Hana's body was nearing the ground and had still not resolved the situation, the audience began to panic. The Wards were remarkable defensive tools, but even they weren't enough to protect someone from the all-powerful gravity.
+
+If Lily's Magesight hadn't revealed the Mana still under Hana's control, she would have shut her eyes and hid her head, refusing to watch the terror unfold. Then Hana made her move, the Mana was unleashed, and the spell she had been preparing was unveiled.
+
+Wind gathered around her in visible currents, spiraling around her as if the air itself was trying to bear her weight. Yet despite the winds, neither her hair nor her clothes rippled at all. With how intensely you could hear the winds, you would've expected them to be billowing wildly, but it was as if she were calmly in the eye of a storm.
+
+As her feet neared the ground, the rushing wind currents intensified, sending a ring of dust and any nearby loose debris. The brambles on the stage, which had rapidly withered into husks after Clarissa stopped feeding them, were scattered like autumn droppings.
+
+The force of her momentum vanished into a cushion of compressed air, and she settled onto the ground as lightly as a drifting feather. The winds around her lingered momentarily, circling her in graceful arcs before dispersing like a gentle breeze. What should have been a bone-shattering impact had been transformed into what appeared to be an effortless landing, and if not for the look of relief on Hana's face, one might have thought it was almost routine.
+
+Cheers erupted from the crowd, including Lily and Lotte, who squeezed one another tightly as the mounting pressure had popped. Hana had never used this particular spell during the dungeon, so they had no idea she had it. However, unlike the two of them, someone in the audience seemed to have recognized it.
+
+"Isn't that one of the Vandriel's signature spells?" he asked his friend.
+
+"You're right. I guess all the drama was just for show," his friend sighed.
+
+Lily wanted to slap the two of them over their heads for such a ridiculous claim. If you looked at Hana's face, not to mention her practically non-existent remaining amount of Mana, it was clearly evident that it was not an act. Thankfully, those two jokers were drowned out by the overwhelming support of the rest of the audience.
+
+Hana gave a wave to the cheers before catching herself in an almost stumble. She was clearly drained, and the effects of severe Mana loss were often more prevalent in those with bloodlines, resulting in symptoms like extreme anemia.
+
+Thankfully, with her safely on the ground, she could be officially declared the winner, and Professor Elius could now help her. However, beating her to the punch was Alice, who had rushed to the stage before anyone could react and practically lifted Hana off her feet. Her words were inaudible, but judging by Hana's smile, it must have been something good.
+
+"Right… After that exciting display, we bring the first-year students to a close. I hope you can all see that this year has been quite something, with new talent practically crawling out of the woodwork as it's progressed. I look forward to seeing how they might develop by the time of the interschool tournament, so they can do Regarth proud," Elius announced and proceeded to continue managing the event.
+
+As it moved on to the second-year students, more people began to arrive, and Lily predicted that by the time the fifth years got their chance, the audience would be packed to the brim. There was supposed to be one final round to determine third place between Arthur and Thomas, but Arthur, to everyone's surprise, actually forfeited. Evidently, his gambit had caused more harm than even he realized, as he bottomed out his Mana entirely, whereas Hana, even after everything she did, still had dregs.
+
+The actual prizes and everything would be announced at the end of the event, so the students were released, and Lily and her friends soon reunited in the seats she and Lotte had unofficially reserved. Arthur and Thomas were the first to arrive, with the latter lending a shoulder as they trudged along.
+
+"You sure you shouldn't be going to bed?" Lotte teased.
+
+Arthur smirked. "And miss out on the dragon sweeping the competition? No way!"
+
+"Congrats on making it to the semifinals, by the way," Lily said, turning to Thomas.
+
+"I really didn't think I'd get this far," Thomas admitted.
+
+"I'm surprised you didn't make it to the finals," Lotte chimed in. "I swear I've seen you do better in the dungeon."
+
+"I said the same thing!" Arthur agreed wholeheartedly. "Although I will admit that getting to the end is a challenge in itself. Unless you're blessed with insane regeneration or have the coffers to splurge on potions, you have to be frugal in the early rounds."
+
+"But not too frugal as to lose," Thomas added.
+
+"Yeah, that's the tricky part," Arthur sighed. "Imagine if I didn't trigger my own Ward and actually won. That would have been the lamest finals ever compared to what we actually got."
+
+"With you standing in the corner while Clarissa lobs a rock at you," Lotte joked.
+
+Arthur nodded. "Pretty much. To be honest, I've never exploded all my Mana before, so I always thought the warnings were overexaggerated. Little did I know that it's this bad."
+
+"Do you need a potion?" Lily asked. "We can maybe ask Sylwel for one."
+
+"Na, don't worry," Arthur said, waving dismissively. "I got nothing else to do, so I can just sit back and enjoy the show."
+
+"I didn't realize your regeneration was this bad… Weren't you above average?" Lily asked.
+
+"I am," Arthur quickly replied, his face blushing a little. "But when you hit rock bottom, it delays the process entirely. That's why they always warn you to leave a tiny smidgeon in the tank."
+
+"Always nice to have the textbook example proven," Thomas teased at Arthur's expense.
+
+Lily, however, was still a bit baffled, so she turned to Arakil while her friends were distracted. {Is that right?}
+
+[A completely empty Mana pool is like a dry pump. With no Mana left to circulate, the body's natural regeneration slows to a crawl until you reach a bare minimum in order to restart the process. Even a single drop of Mana is enough to keep the cycle alive, allowing regeneration to proceed at full speed. I can only imagine that with the Mana being in their blood, the effects are far worse.]
+
+{And for me? I don't think I've ever run into that issue.}
+
+[Mana Cores are a little different, as the solidified core itself is, in fact, Mana. You could forcibly restart the process by shaving off a fraction of a fraction of the outer layer to jumpstart it.]
+
+Lily shuddered slightly, horrified at the thought of sacrificing her beautiful silver moon she'd worked meticulously to refine. {Or gather from the ambient Mana?}
+
+[Correct, which is another reason why I had you learn to keep it spinning at all times. Should you ever run entirely dry, your Mana Core should still have enough momentum to keep the process going. If your Core was stationary, then you wouldn't be able to get it moving again without Mana from somewhere else.]
+
+"Man, I'm jealous of that spell Hana did at the end. I wish she could share it with me," Arthur sighed.
+
+"Why not?" Lotte asked bluntly.
+
+"Unless I was adopted into the Vandriels, I'd probably be hunted down," he explained. "Flying is often seen as the pinnacle of magic, and reliable methods to replicate it are guarded almost as much as forbidden magic."
+
+"Just adoption. What about marriage?" Lotte asked again.
+
+Arthur coughed awkwardly, and judging by the impish grin on her face, she knew exactly what she was doing. "Uh… I suppose. But it's way too early to think of things like that."
+
+"Does your family not have its own flying spell?" Thomas asked before Lotte could fan the flames further.
+
+"My dad has a spell to fly, but it's his own one he threw together. He is willing to share it with me, but there are risks involved."
+
+"What sort of risks?" Lily asked curiously.
+
+"Remember that part I mentioned about replicating it? That's the difference. His spell is sort of custom-made for his body and build, his natural affinity with the winds, and so forth. If I copied it word for word, gesture for gesture, it could end in disaster for me."
+
+Lily nodded her head. "Oh, that makes perfect sense."
+
+"It does? That sounds stupid to me," Lotte replied, frowning.
+
+"Do you mind sharing?" Thomas asked curiously.
+
+"I guess I'm thinking of it like a glyph, or since its flight, an inscription. All the sigils and configurations have been perfected for his father, which is like the crest, or primary glyph. You can just swap out the crest or primary glyph for another similar one and expect the same results."
+
+"Of course, it comes back to glyphs," Arthur sighed. "But yeah. I suppose that makes sense."
+
+"But then why does Hana's one work?" Lotte asked.
+
+"Who knows?" Arthur shrugged. "Considering I think her dad only told it to her yesterday, and she already cast it today, is proof enough that it's repeatable."
+
+"Are you serious?" Thomas asked, wide-eyed.
+
+Arthur tilted his head. "Yes?"
+
+"But that's extremely risky. I know Hana is a bit of a daredevil, but that seems insane," Thomas replied, receiving nods of agreement from Lily and Lotte.
+
+"Well, if she had received it sooner, wouldn't she have used it by now?" Arthur pointed out. "Remember, she and I were trying to work on our own flying spells during the dungeon, and I've never seen her use that before today."
+
+"Same with us," Lotte added, to which Lily nodded in confirmation.
+
+"So yeah. That's what it means to be in the Vandriels," Arthur replied.
+
+"I wonder what her mother's side gave her," Lotte murmured.
+
+"No idea," Arthur shrugged. "You'll have to ask her when she gets here. I'm assuming she's having a chat with her parents right now. Maybe celebrating defeating the dreaded Viremont."
+
+"That's a bit far," Thomas replied, nudging his friend.
+
+"Hey, man, not my fault you chose to fall on your sword," Arthur countered.
+
+"I didn't," Thomas swiftly denied.
+
+"I dunno man, even if you were tired, I've seen stronger bolts of lightning from you. But that rock stopped you in your tracks."
+
+"Sorry, Thomas, but I have to agree with Arthur," Lotte said.
+
+"I really didn't. I'm not sure why that rock stopped all my spells…" Thomas replied dejectedly.
+
+"I know why it didn't," Lily interrupted. "Although it might be a bit difficult to explain…"
+
+"Please do," Thomas pleaded.
+
+"We got the time until Rose's time to shine," Lotte pointed out.
+
+Lily nodded and slowly tried her best to repeat what Arakil had said. While her friends listened eagerly, the look of realization and dismay that flashed across Thomas' face made it evident he realized how and why he screwed up.
+
+Still, while Lily wasn't the best at reading people, she still felt like it wasn't the full story. Maybe Thomas had decided to go a little easy on her until he realized he was entirely countered by a simple rock, or maybe he was really tired after the previous matches. Regardless, she was glad that everyone seemed in high spirits from the results and the startling display in the finals.

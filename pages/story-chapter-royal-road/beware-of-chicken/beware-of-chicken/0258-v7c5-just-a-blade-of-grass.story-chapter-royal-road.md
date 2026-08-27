@@ -1,0 +1,167 @@
+---
+id: 2580caf0-4a3d-591d-94f4-0fdfdb26e874
+page-type-slug: story-chapter-royal-road
+title: "v7c5: Just a Blade of Grass"
+slug: 0258-v7c5-just-a-blade-of-grass
+partOf: beware-of-chicken
+position: 258
+ownLength: 1907
+unit: words
+ownProgress: 1907
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2799146/v7c5-just-a-blade-of-grass"
+royalRoadId: "2799146"
+markedReadAt: "2026-06-29T19:00:15.590Z"
+---
+
+The sound of instruments filled the air, and Cai Xiulan bounced a giggling Zhuye along to Rags’ ballad. He was belting it out right into Jin’s recording crystal. Jin and Biyu had worked together on a simple array so that the crystal would continue to play sounds without anybody touching it—and now he was getting songs from everyone he knew, so they could play them in the evenings.
+
+It was a wonderful idea—and thankfully, they were going to copy the recordings over when they got another crystal. Xiulan couldn’t wait to have some of her own recordings. It would be wonderful to have some music as she did paperwork. Jin’s songs were a joy to listen to.
+
+She smiled as she watched the performers. Rags was singing, Pi Pa was on the guzheng, Chun Ke was providing the beat, and Jin was playing his pipa. He was strumming without a care in the world, a very faint golden, ghostly outline that Xiulan could see hanging onto his shoulders.
+
+Tianlan was bobbing her head up and down to the music.
+
+Xiulan let out a contented sigh, leaning into the strong fingers kneading her back to smirk up at Tigu.
+
+Her friend glared down at her. “Next time I’m winning,” Tigu said, squeezing just a bit harder than needed.
+
+“Perhaps. But for now, to the victor go the spoils,” she said smugly.
+
+She and Tigu had had their annual crop planting contest. It had been a knock-down, drag-out battle that ended up with them both covered in mud—and Xiulan barely squeaking out a victory. She had won, in the end, by a single seed.
+
+She felt more from that victory than when she had won at the Dueling Peaks two years ago. The prize had been a favour, which Xiulan immediately spent. Tigu’s massages were nearly as good as Meiling’s or Ri Zu’s.
+
+It was a wonderful moment.
+
+The nights before Xiulan departed Fa Ram were always filled with both melancholy and joy. Melancholy, because come morning she knew she would have to leave the place that had become her home; and yet joy, because the celebrations they had reminded her just how much she loved it here.
+
+There was no pretention, no watching what she had to do or say; here, she was not the Grand Marshal, or even the Young Mistress of the Verdant Blade Sect.
+
+Here, she was just Xiulan, and it was perfect.
+
+She tilled fields and sharpened tools. She herded sheep and shoveled out cow stalls. She waded in muddy paddies, packing it by hand into any place that Gou Ren said needed reinforcement.
+
+It was hard, messy, and above all, fulfilling. Perhaps one day, when things fully stabilized, the Grand Marshal could take a year off and just be a farmer. Living here with Jin and Meiling for a full year sounded like bliss. Giving her Qi to the land and examining every connection would surely only increase her understanding of the world.
+
+The fact that her Qi was helping Tianlan was also a consideration. She had hurt her friend quite badly during the winter. And though Xiulan had been forgiven, it didn’t feel right to not give it her all for Tianlan’s sake.
+
+She would keep that part to herself though. She didn’t want to get headbutted again.
+
+The song ended to much applause, Rags taking a bow. The Torrent Rider was next, Yin cheering her junior brother on, and Shaggy Two howling in time to the music.
+
+Tigu finished her massage and wandered off to sit beside Tie Delun. Xiulan simply settled in to watch. She heard a similarly contented sigh beside her and turned to Xianghua, who was also watching.
+
+Xianghua had no big, boisterous smile on her face. Instead, it was something smaller and softer, but very beautiful.
+
+“It is always something to see just how wrong my father was when it came to matters of family,” Xianghua mused. “This is a far superior environment for raising children.”
+
+Xiulan’s eyes widened. “Are you already…?” she asked, excitement filling her. Another niece or nephew to spoil so soon?!
+
+Xianghua laughed at Xiulan’s excitement. “Not quite yet! I would prefer a spring birth, if I am frank, so I shall be waiting a few more months. But soon, I think. This little one needs more playmates his own age, after all!”
+
+Xianghua reached across with waggling fingers to Zhuye, who giggled.
+
+“Half the year here, and half the year at Misty Lake?” Xiulan asked.
+
+“That is indeed what Gou Ren and I are thinking, but it shall be whatever is best for our child. Gou Ren will be starting up a farm closer to the lake, after he finishes his duties here, but he will be travelling. He says he still has much to learn from Jin… and he just likes it here,” Xianghua explained. “He will be heading south with Master Jin, and then I will have him introduced as my husband and have a ceremony in the sect then. An efficient use of time, no?”
+
+“Efficient indeed…” Xiulan paused, and then squinted at her friend. “I’m going to have to prepare another wedding gift, won't I?”
+
+Her suspicion was well-warranted, for Xianghua smirked. “You were so lovely and thoughtful the first time, I am certain you can give me much face by preparing a second gift of the same quality.”
+
+“Haaaa? I generously gave my Junior Brother to you, I specifically grew those lotuses, and made for you a fan from my Sect’s heartgrass—and you demand more?! How greedy do you dare to be, Liu Xianghua?” Xiulan huffed, offended.
+
+“I am the greediest! I shall have everything I desire!” Xianghua declared getting into it. “In fact, I need something from you too. Hurry up and produce for me a child, younger than my own, of course, so they may call mine Senior!”
+
+Xiulan rolled her eyes. “I’ll get right on that,” she said sarcastically.
+
+Xianghua just laughed. Xiulan did want children of her own, Zhuye had absolutely convinced her of that. But finding someone… she didn’t yet know.
+
+The next song ended.
+
+“Lanlan next, Lanlan next!” Meiling commanded.
+
+“Oh? Very well!” she declared.
+
+She rose gracefully to chants of her name and returned Zhuye to his mother. Her blades leapt to her hands and then snapped open, turning into fans.
+
+The tunes started up and she gave it her all. Poems. Ballads. And of course, her favourite.
+
+“Oh, the ol’ spry whore~”
+
+Xiulan sang her heart out; she gave her very best performance so that when they played the recordings, it would be like she was right there with them.
+
+Of course, Meiling tried to prank her by getting the others to play a love song… though that lasted until she had to run out of the room with a red face after Xiulan sat beside her and crooned the heartfelt lyrics into her ear.
+
+Jin laughed a bit too hard at Meiling's hasty retreat, so he got some of it next. Jin was normally unflappable, but even he could blush as she stepped her fingers across his shoulders, her voice low and throaty.
+
+He hid his face in his hands to the cheers and jeers of the others… and then Xiulan captured Biyu’s chin in her fingers and started on her next, staring deep into the other woman's eyes.
+
+Yun Ren, Bi De, Pi Pa, Loud Boy, Wa Shi, Yin, even Xianghua. All of them fell before her. Xiulan would have ended the song with a one hundred percent fluster rate—if Delun hadn’t made the most constipated-looking face she had ever seen. He gripped his thighs like a man possessed, scrunched up his brows, and stared directly into her eyes.
+
+It was so silly looking, Xiulan burst into laughter and couldn’t sing anymore, doubling over and wheezing.
+
+Delun, much to his shock, was raised upon the masses’ shoulders and praised for his victory.
+
+===========================
+
+They recorded many more songs that night. They played board games, and had flame-grilled meat and vegetables. They drank cups of mead, and tasted vodka infused with the first petals of spring.
+
+But eventually, it was time to rest. Xiulan was captured by Meiling… and she did not try all that hard to escape, laying down to sleep with Jin, Meiling, Zhuye, and Tigu.
+
+She closed her eyes and drifted off… and then opened them again. She appeared in a plain of rolling hills, bordered by mountains. The night sky above her was streaked with golden cracks.
+
+It was Tianlan’s domain.
+
+The little spirit jumped onto her shoulders, and playfully knocked her head against Xiulan’s.
+
+Xiulan turned to look at the spirit. She looked… worse than she had last seen her. The cracks were slightly deeper. Some of the gold on her body was tarnished once again.
+
+Yet her smile was utterly radiant.
+
+“Dance with me?” Tianlan asked.
+
+“Of course,” Xiulan replied.
+
+And so they did. They danced together, to the pounding, pulsing beat of what Xiulan had realised was Tianlan’s own heart. They moved, following in the footsteps of Xiulan’s ancestor Ruolan, who created the Dance of the Elements.
+
+It was the dance that had saved them.
+
+It was the dance that had hurt Tianlan.
+
+The little spirit danced it anyway. There was no hesitation in her steps. No interruption of her flow, her own fans of stone laced with cracked gold moving with utter mastery.
+
+For what seemed like hours, they moved together, their motions in perfect sync until the drum beat started to fade, and their feet stepped into the last position.
+
+“You’re going back down south soon, huh?” Tianlan asked.
+
+Xiulan turned to the spirit. “Yes. I am.”
+
+“I heard about the alliance. I felt it. And I just wanted to say… good job. You’re doing better than I ever could have imagined.”
+
+Xiulan’s eyes widened at the earnest praise. Tianlan looked up at her, and reached up. Xiulan had a flashback to their first meeting when two hands grabbed the braids that framed Xiulan’s face.
+
+There was no headbutt. Instead, lips pressed against her brow. The golden crack in Xiulan’s chest pulsed.
+
+“Go with my blessing, Grand Marshal of the Azure Hills. Walk along your path as far as you can go.” Tianlan’s soft, warm voice hardened. “But promise me, if you need to do what you did on the solstice again—do not hesitate.”
+
+Xiulan pulled back to look into Tianlan’s eyes. One blue and vibrant, the other a gold carving.
+
+“I will promise you that,” Xiulan said. “But I will also promise you that I will get so strong I won't need it.”
+
+Tianlan blinked at the oath. Her smile widened again. Xiulan’s braids were tugged, then her forehead met Tianlan’s, a light tap.
+
+“Look at this cultivator! So cocky! Fine then, Cai Xiulan. I’ll hold you to that!”
+
+Xiulan smiled, “Care for another dance?” she asked.
+
+“I do!” Tianlan declared. “But a newer one!”
+
+Slowly, ghostly figures solidified in her realm. Those of Fa Ram who were dreaming as she was looked around in curiosity and greeted the earth spirit.
+
+And then, the celebration continued while they rested.
+
+By morning, it was a fading memory. All of them awoke well rested, and ready for the day, packs filled with supplies already waiting for them.
+
+The Azure Heroes once more departed south. To protect the Hills… and give to the sects a timetable to prepare for Jin’s arrival.

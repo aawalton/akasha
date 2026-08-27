@@ -1,0 +1,167 @@
+---
+id: 3d6aa1bf-11ea-519c-bd27-b602a5c23d45
+page-type-slug: story-chapter-royal-road
+title: "v6c6: The Musings of a Blade of Grass"
+slug: 0194-v6c6-the-musings-of-a-blade-of-grass
+partOf: beware-of-chicken
+position: 194
+ownLength: 2172
+unit: words
+ownProgress: 2172
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2140530/v6c6-the-musings-of-a-blade-of-grass"
+royalRoadId: "2140530"
+markedReadAt: "2026-06-29T18:57:58.640Z"
+---
+
+The morning had started off rather stressfully for Cai Xiulan. While she was quite used to odd things happening at her home, it was something else entirely to have some of the foremost experts in the Empire suddenly drop by for a social call.
+
+Well, aside from Shen Yu, but she hadn’t exactly known who the man was before she had gotten relatively used to him.
+
+But their guests? The Cloudy Sword Sect and the Soaring Heaven’s Isle Sect? Everyone knew those names. Less than a year ago, a single Outer Disciple from either of those sects could have conceivably fought and defeated every single sect in the Azure Hills. Their weakest members would have rolled over their best like a Wreckerball over a rice stalk.
+
+So Xiulan had been quite nervous… and that nervousness had increased when she felt them.
+
+If Xiulan hadn't been used to Jin’s and, more importantly, Shen Yu’s Qi, then the power that came down from the Heavens would have sent her to her knees. Even restrained, it was potent—four blazing stars in the sky. She had shifted uncomfortably. Standing close by, Tie Delun had grunted with discomfort but still held as strong as stone, and the Torrent Rider had wobbled uncertainly before Xianghua had pressed a hand to his back.
+
+When Xiulan had stepped forwards to pay her respects… well, nothing had happened. Every single one of their guests’ eyes had simply just swept past her, barely seeing Xiulan. Not a single one of them even paused to give her more than a moment of their attention.
+
+She was the strongest of her generation, the Grand Marshal of the Azure Hills, and she had been treated like she was no more interesting than a pebble at the side of the road.
+
+Some may have been insulted by the clear disinterest—but Xiulan knew better than to take any offence.
+
+Objectively, she lacked the qualifications to be “somebody” to the Masters of the Cloudy Sword Sect and a Lady of Soaring Heaven’s Isle Sect. The Azure Hills were simply too weak. Outside of them, her position meant nothing. And Xiulan was honestly fine with that. To them, she was not something to comment on. Her power, barely into the Spiritual Realm, and wavering there because of her injuries, unremarkable.
+
+Besides, what would she even do if she had their attention? The Azure Hills needed to sort itself out, not ask for boons from the Cloudy Sword Sect. Perhaps, sometime in the future she might speak with them… but that was not today.
+
+So instead of putting on her political cap, instead of being the Grand Marshal, who would have to step daintily around these old monsters… Xiulan got to spend all day looking after Zhuye while everyone else had to be all prim and proper and give the tour!
+
+Her dear Martial Nephew had been quite the fussy little man today, rubbing at his nose and grumping that he couldn’t go and hug his mother, but Xiulan was his favourite aunt and so she could calm the Young Master’s mercurial temper with her most powerful technique!
+
+The ends of her braids!
+
+His little teeth were coming in and he loved chewing on things, Xiulan’s hair chief among them.
+
+… well, Xiulan’s hair was second among them. His actual favourite thing to chew on were the fuzzy, armored carapaces of Vajra’s bees… who seemed to like the treatment. They looked to jostle amongst themselves for the position, and once a winner was decided, they bathed themselves fastidiously with water before obligingly landing in his chubby fist to be gummed at relentlessly.
+
+Somehow, they managed to look proud and smug at the same time while enduring such treatment, their little butt waggles even seemed vaguely insulting whenever she looked at them for too long.
+
+However, today, Xiulan had provided his comfort and his nose rubbing eventually stopped. He didn’t even make that much of a mess when Xiulan fed him some diced up carrots and a bit of meat for dinner, following Meiling’s instructions precisely, and now he was content to doze on Xiulan’s chest while she lay on Gou Ren’s couch.
+
+It was actually the first time Xiulan had used the couch. Gou Ren had learned well from Jin the art of making furniture. It was sturdy, yet wonderfully soft, and big enough that even Chun Ke at his normal size could sleep on it. It was decorated with the geometric designs of his mother’s tribe—and the thick quilted blanket draped along the back had the symbol of the Misty Lake Sect on it.
+
+Gou Ren’s home was very pleasant. Here, Xiulan could devote herself to recovering. The demons had been horribly inconsiderate, interrupting Xiulan’s limited rest time and injuring her so. The middle of her chest still sent dull throbs of pain throughout her body at times, but she had grown adept at not reacting to them.
+
+She shifted and hugged Zhuye a bit tighter. Zhuye mumbled and snuggled in, making murmurs of contentment.
+
+Ah… cute.
+
+“Cai Xiulan, you take care of Young Master Zhuye well; I shall allow you to attend to my own children when they arrive. Be honoured,” Xianghua said from her place at her loom, weaving cloth in the traditional style of the Misty Lake. Yin was working beside her, the woman intent on learning this new skill as she had learned so many others. Xianghua had a little smile on her face as she said it, and Xiulan took the compliment for what it was.
+
+“Naturally, if they are as cute as my nephew and Junior Brother. They shall wail for their aunt instead of yourself when they need comfort,” Xiulan returned haughtily.
+
+“Impudence. Declaring yourself their aunt already?” Xianghua huffed.
+
+“Will I not be?” Xiulan asked.
+
+“If you need to ask, you are a fool a hundred times over,” came the prim reply.
+
+Both of them chuckled. Once upon a time Xiulan would have been foolish and second guessed Xianghua’s words, taking needless offense to what should have been friendship.
+
+Now she knew better. What a fine friend to have, who always spoke exactly what she meant.
+
+Xiulan sighed with contentment and let her eyes wander. Gou Ren, Yun Ren, Ri Zu, Miantiao, Tie Delun, Bowu, Huo Ten, the Torrent Rider, Spooks, and Bei Be were all around the central table, playing one of the card games Jin had made up and betting nuts on the outcome. Yun Ren looked to be in the lead, his vulpine grin wide and his pile of nuts vast. He pushed them all forwards and threw down his cards. Miantiao, whose cards were on a glass stand so he could tilt his head down and look at them, flipped his cards as well.
+
+The table erupted.
+
+“Royal Court?! You noodley bastard, what?!” Yun Ren howled, much to the merriment of the others. Miantiao was hoisted into the air by Bowu and Ri Zu, the snake laughing as he was paraded around the table as the victor.
+
+Xiulan smiled and felt her eyes start to close when she was interrupted.
+
+“Hello everyone!” came Tigu’s voice, along with the sound of Gou Ren’s door opening. “We’re done for today!”
+
+Tigu strolled into the main room, accompanied by Wa Shi, Pi Pa, and Chun Ke. All attention turned to them.
+
+“No Bi De?” Ri Zu asked, and Tigu shook her head.
+
+“He's still gotta stay. We all begged off,” Tigu replied. Room was swiftly made at the table, and most of them sat down, except for Tigu, who stalked over to Xiulan and opened her arms.
+
+Xiulan glared.
+
+Tigu pouted.
+
+Xiulan grumbled and carefully handed Zhuye over. Tigu buried her face on the top of his head, took a deep breath, and sighed, before expertly shifting her grip and laying him to rest on her own chest.
+
+“So, how was dinner?” Xiulan asked.
+
+“They were distinguished guests with fine palates,” the dragon declared, “and they were enamoured with my creations.”
+
+His long, sinuous body oozed smug satisfaction. Tigu rolled her eyes at the boasting but didn’t refute his words.
+
+“It was a little boring,” Tigu said. “We were the ‘children’, so the old man’s guests didn’t really pay us much mind. They were polite, but their interest was clearly on the old man and Master. The only one who really paid us any attention at all was Formation Lady. Really, they were like the grannies and grandpas of Hong Yaowu!”
+
+Xiulan snorted at the description of some of the most powerful people in the world as “like grannies and grandpas,” but Tigu always did boil things down to simplicity.
+
+“Are they staying long?” Xianghua asked.
+
+“At least another day, Master and Mistress said during breakfast, so we should all eat together and do our normal exercises, help them get used to everyone.” That got a few nods.
+
+“These powerful cultivators are surprisingly skittish,” Gou Ren observed. “Like a bunch of spooked deer. Something new moves and they’re onto it.”
+
+“One person’s ‘skittish’ is another’s ‘reasonable caution,’” Yun Ren replied. “With the kinda shit we saw back at the Shrouded Mountain? It ain’t paranoia if somebody is out to get ya—and a lot of people are probably out to get these guys. Problem with being the biggest buck is every hunter wants your horns.” Spooks gave a polite cough, and at least Yun Run had the grace to look embarrassed.
+
+“Sage wisdom, Elder Brother,” Xianhua said. The man had always been pragmatic and wily, and his time spent infiltrating the Shrouded Mountain Sect had only made him more so.
+
+“It ain’t much,” he demurred.
+
+Xiulan frowned. Speaking of things like this here at Fa Ram… almost seemed wrong, somehow. Like the outside world was intruding when it was not welcome.
+
+‘Friends will warm up to us,’ Chun Ke declared, his voice absolutely certain. Just those words seemed to cut through some of the unease.
+
+‘Brother Chun Ke hassss sssspoken. Who are we to sssay otherwisssse?’ Miantiao asked, his voice amused. The others around the table nodded in agreement, so thoroughly did all present respect Chun Ke’s judgment of character.
+
+Indeed, who were they to say otherwise? They were guests… and Jin wouldn’t let them stay, if they truly disturbed his home. That much, all of them knew.
+
+The tension swiftly drained. They got back to their games, and Xiulan joined in the next round of cards.
+
+Yes, the skittishness was nothing to be concerned about. Neither were the Imperial Realm Cultivators. They would surely find the peace of Fa Ram as Xiulan did.
+
+She let a small smile cross her face.
+
+Then, there was an explosion of noise and Qi. Zhuye bolted upright and wailed angrily.
+
+“Bastard of three fathers!” a voice roared, coming from the bathhouse. A door banged open, and the river erupted. Shen Yu’s howls of laughter echoed out.
+
+=====================
+
+Shou was utterly relaxed, the steam of the bath filling his nostrils, along with the scent of Spiritual Herbs. He picked up a boiled egg—cooked to a perfect temperature by the hot water, infused with the Qi of the Spiritual Herbs, and took a bite. Then, he took a swig of heated wine and leaned back into the bowl-shaped tub.
+
+As soon as he got back to the Sect, he was constructing one of these. Young Jin had the right idea—though Shou would have to be careful not to indulge too much, for this was a truly decadent place. Perhaps he should build another set of bathhouses; one for the women of the Cloudy Sword Sect, to help their crops of Silver Yin Lotuses grow?
+
+It had been centuries since he had taken a bath with any other than his wife… but this was an acceptable circumstance.
+
+Shen Yu’s Disciple, Bi De, was next to Shou, the rooster bobbing up and down on some manner of floating ring, while Shen Yu was showing Ge the heated rocks that belched more steam in the air and waving around a few strands of birch leaves. Young Jin was watching them both warily.
+
+“What are those branches for?” Shou asked absently.
+
+“Well…,” Young Jin began—only for him to be interrupted.
+
+Shen Yu’s Qi pulsed. There was a meaty thwack as the branches impacted Ge’s rump.
+
+“Bastard of Three Fathers!” Xiao Ge roared.
+
+================================
+
+Meiling sat with Lady Yukong and Lady Minyan. Both women were staring out the window as Shen Yu smashed into the frozen river, going under the ice, with Ge hot on his tail.
+
+“… what are they doing?” Lady Minyan asked, her voice baffled.
+
+“They found the birch branches,” Hong Meiling said, her voice droll. “Jin says it improves circulation… and he's technically right. If you count exercise by chasing after the one who hit you as improving circulation.”
+
+All three women looked at each other.
+
+“Men,” Elder Yukong said, a small smile on her face.
+
+“Men,” Elder Minyan huffed over her tea.
+
+Meiling carefully stayed silent… because she had gotten Xiulan with them more than once.

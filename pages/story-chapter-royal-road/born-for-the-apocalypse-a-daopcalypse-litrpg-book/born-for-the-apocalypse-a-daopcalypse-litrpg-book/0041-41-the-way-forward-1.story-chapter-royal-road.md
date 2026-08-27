@@ -1,0 +1,125 @@
+---
+id: 17fdaeaf-662f-5796-85e8-e38549416379
+page-type-slug: story-chapter-royal-road
+title: "41: The Way Forward (1)"
+slug: 0041-41-the-way-forward-1
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 41
+ownLength: 2198
+unit: words
+publishedAt: 2025-01-13
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2008193/41-the-way-forward-1"
+royalRoadId: "2008193"
+---
+
+41:
+
+Jack, Sarah and two other veritable strangers charged into the gray fog and for a few minutes straight, they just focused on blindly running forward as fast as they could. Of course, Jack and Sarah had to keep their pace more manageable to let the former captives keep up with them, which required active focus on their part to make sure that neither they didn’t force Marcus and Jin beyond what the limits of their stamina and physique allowed.
+
+Only when they had ventured a good deal into the fog, did Jack come to a realization that he would’ve come to seconds into their charge, had his mind not been so occupied and his physical body not teetering on the verge of complete exhaustion. He could see through the fog, which was the entire reason he suspected Marcus and Jin had been able to keep up the pace without tripping or stumbling, either on their own or into one another. While Jack didn’t have any actual way of knowing what their exact stats were, his perception told them that they weren’t much further beyond what was expected for their builds, unless they had inspected all their points in the Wisdom Stat.
+
+“Take a right here,” Jack decided to call out, as he noticed Jin’s pace flagging a notch.
+
+“Why?” Marcus croaked out, his breath winded from the exertion.
+
+“Look around you,” Jack called in reply, keeping his voice as low as he could while making sure everyone in the group could hear him. He waited for Marcus and Jin to finish a sweep of their surroundings, including taking a peek behind them, before speaking, “Even now, the dense fog obscures our way in every direction, but it has parted around us in a circle. If the same protections are granted to the rift goblins, who are bound to eventually outpace us, then going straight will just lead them right to us.”
+
+Well, it would outpace Marcus and Jin, A part of him thought, but he didn’t have the heart to part ways. The two would certainly die if they were left on their own, of that Jack had no doubt. They had lost too much valuable time as the days had progressed, which would put them at a disadvantage against both human survivors and the deadlier region they had been forcibly led to after their capture.
+
+“Isn’t that why we should keep going until we get out of the fog?” Marcus called back, arguing from what Jack realized was a place of fear. Jack couldn’t blame the man for being afraid of the eerie fog and he knew enough about the system at this point to be certain that they weren’t alone within the gray fog.
+
+“We will,” Jack replied with a conviction he wasn’t entirely feeling. “But there’s not going to be any point if we don’t lose the goblin’s tail. Sarah, on your call,” He called out in a firm tone, hoping that the iron in his voice would dissuade Marcus from pushing this any further.
+
+“Fine,” Marcus grumbled a quick word of agreement, though it was evident that he wasn’t fully convinced.
+
+A quick countdown from three to one later, they all veered right with acceptable coordination and continued that way for another seven to ten minutes, not that Jack had any real way to tell for sure, before he called for them to course correct back towards the direction they thought forward.
+
+If running in a crooked way towards a single direction opposite the goblin camp wouldn’t see them towards the end of the seemingly never ending stretch of gray fog, Jack wasn’t sure what would.
+
+They could double back if all else failed, he supposed, but if they got assaulted by goblins in numbers then Jack and Sarah would find a way to survive, but Marcus and Jin would certainly die. The handsome man had already declared that he would sooner slit his own throat than be taken prisoner and Jack didn’t doubt the weight of the man’s resolve.
+
+The fact of the matter was, there was nowhere in this new world where they could escape conflict. There were no old lives to return to and while people like Sarah’s parents were being kept alive and safe for now, there was no telling what would happen after the sixty days elapsed. If Marcus and Jin wanted to survive, they would have to come to terms with that reality, to confront the raw truth that the only way to do so was to keep moving forward, growing stronger and amassing strength as long as they drew breath in their lungs.
+
+Jack figured that half an hour had passed since they had set off from the border of the rift goblin camp and stepped into the gray fog and since then, they had encountered no sight, sound or smell that indicated that the rift goblins were pursuing them, or for that matter, there was anything else that lived within the eerie gray fog.
+
+But that wasn’t the reason Jack had called for a halt.
+
+Jin was the first to drop to the ground, unceremoniously dropping down to her knees as she heaved for breath. She had tried her best to keep up with the pace set by Jack and Sarah and she had done a commendable job at that given the condition they had found her in.
+
+Marcus sat down with more grace, as he seated himself with his knees raised and his hands pressed against the earth, greedily inhaling mouthfuls of air.
+
+Jack however, remained standing as he looked into Sarah’s eyes, before both of them turned their gazes back to the system notification that had popped up before them.
+
+[Congratulations on being awarded Feat: Seeker of Hidden Wisdom for discovering a Hidden Piece— Rift Goblin Camp and completing the Quest attached to the hidden piece.
+
++2 Wisdom]
+
+[Congratulations upon partially completing Quest: Rescue. Your conquest of a Rift Goblin Commander tasked with surveying the new lands they have found themselves in led you to the Rift Goblin Camp.
+
+Utilizing the tools available in your arsenal, you aided in the rescue of two out of three humans that were captured within the rift goblin camp for the purpose of harvesting their blood, while the third unfortunately succumbed to an arrow during your escape.
+
+Calculating rewards based on contribution:
+
+Reward for rescuing two hostages from the rift goblin camp: 6666.666x 2= 13,333 TP
+
+Demerit for not being able to rescue one hostage from the rift goblin camp: 0 (escaped out of camp boundaries).
+
+Additional reward for killing multiple rift goblins during your escape:
+
+Total TP in possession of the eight slain rift goblins: 4,000 + 1250+ 550 +487+ 399+445+576+445= 8152.
+
+System fee for recovery of TP @ 15%: 6929 TP
+
+Total TP transferred: 20,262
+
+Current TP: 20,284]
+
+The first thing that Jack noticed immediately after the notification was the effect of the Wisdom stat. He found himself being able to draw conclusions from existing information that he had far quicker than he normally would have been able to, concluding that the bulk of his TP from the goblin kills must’ve come from the staff-wielding goblin that could erect a shield out of Qi to defend itself and the smith that was standing next to it, given their importance to the overall order of the camp, both the source of their weapons and a very powerful vanguard in the form of the staff-wielding goblin.
+
+It wasn’t that he was processing information faster, because he wasn’t. It was more akin to a moment of clarity one had after pondering on something for a while, except Jack could tell that the improvement was perfect as threads connected related pieces of information into a larger piece of the puzzle.
+
+Simply put, he could reach conclusions faster with the existing information he had. It wouldn’t let him read a book in a minute, but whatever information he did retain, he could extract value out of it better.
+
+Twenty thousand TP was an amount he and Sarah had intended to receive in the plan, but in all honesty he didn’t think he’d actually do it. The thirteen thousand TP Sarah would receive was nothing to scoff at, but twenty thousand at this stage could offer him an advantage Jack had to capitalize on this very moment.
+
+[Tutorial Shop
+
+More items will be added to the shop in twenty four hour intervals.
+
+Available TP: 20,284]
+
+The Flowing Vitality pill was new and from the looks of it, it didn’t have any limitations on the amount of purchases, which meant that it couldn’t be too powerful. His Moonsword had already saved his life more times than he could count and it was an advantage only a fraction of the surviving humans would have access to, which explained the power of limited quantity items.
+
+On the other hand, its name seemed to indicate another variant of a healing pill, though Jack wasn’t in any position to gamble on a pill he could purchase at any point in time.
+
+His eyes fell upon the cultivation techniques, though Jack would have been lying if he claimed to have not been interested for a while. If he was to be a cultivator in the new world, it wasn’t much of a leap to claim that cultivation techniques would teach him how to hone his power, his Qi, for specific purposes. There had to be more to it than just a simple attack or defense, otherwise it was something his class would’ve seen to.
+
+Everyone got a class, but it was clear that these techniques weren’t for everyone— far from it. Only tens of thousands amongst a population of eight billion, or whatever was remaining of that eight billion, would be granted the opportunity to claim one from the tutorial shop and Jack intended to be one of them.
+
+He just didn’t know which one to buy.
+
+Of the three techniques available, Tenfold strike seemed to be the most offensively inclined. That was precisely why Jack wasn’t enthused by it, irrelevant to the cost. If the name said anything, it was the allure of a single, powerful attack that was being dangled before him. Or it could be more, but how many times would his Qi Pool let him land an attack that was ten times of, hypothetically, what he could manage?
+
+Jack couldn’t help but recall his battle with the rift goblins and the desperation he had felt as he battled them. Tenfold strike could reduce one, two, three and maybe four, maybe ten of the goblins to mush, but the end result would still mean that Jack would end up needing to flee from the commander, effectively changing nothing.
+
+Might could change a lot many things, but Jack Anderson was up against the unknown. And against the unknown, adaptability was paramount.
+
+For the other two cultivation techniques, Jack had come to assume that essence referred to his Qi. The essence of the new world, the essence embedded in the trees and the soil, the essence that kept his own supernatural body going, it was all Qi. One technique let him renew, to resume Qi, whatever that meant, while the other syphoned it, drew it off from somewhere.
+
+They were the same rarity, which meant that neither would let him lift mountains and hurt them at his enemies, but Jack had to wonder why there was a ten thousand TP difference. If their value and power was similar, then the only criteria left was their usefulness to his situation.
+
+On one hand, Jack knew that the safe play was to buy an armor set for 7500 TP, the Essence Renewal Art for 10,000 TP and a stock of Greater Recovery Pills.
+
+It was safe… and that was the problem. It certainly wasn’t what had gotten him this far and as rankled as the doomsday prepper side of him got by that observation, it was the truth.
+
+The system hadn’t lied to him so far. The Moonsword had been worth 5,000 TP and Jack knew just how worth it it was.
+
+What would 20,000 TP get him?
+
+Jack didn’t know, but there was more to his considerations. Besides a Dao Mark, which for all he knew was just another aspect of Qi, Qi itself was clearly the future.
+
+It was a source of energy unlike anything the planet Earth had seen and it was capable of feats beyond his wildest expectations.
+
+A determination that the doomsday prepper was in inclination with, was that he needed to know more about the energy. The staff-wielding rift goblin had used Qi as a shield and Jack doubted that he would be the only one using the energy in unfamiliar modulations going forward. Jack also hadn’t missed the system’s mention of Carmen’s death and the bloodletting the rift goblins were using the captives for. He also suspected that he knew where the blood and eventually the people would go. As much as it angered him, it was also a reminder of where he would be heading if he made the wrong call.
+
+That’s why he needed to know more about Qi.

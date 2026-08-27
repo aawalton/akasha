@@ -1,0 +1,129 @@
+---
+id: 11235e23-4acc-5ca8-9f3a-d357496493b6
+page-type-slug: story-chapter-royal-road
+title: "11. Kant Touch This"
+slug: 0011-11-kant-touch-this
+partOf: breaker-of-horizons
+position: 11
+ownLength: 2226
+unit: words
+publishedAt: 2020-06-08
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/507485/11-kant-touch-this"
+royalRoadId: "507485"
+---
+
+The fact that all of us had read the same textbooks was evident. Nobody bothered shielding. After a quick glance to see that we were on the same page, all ten of us fired off the best glyph sequences we had in our arsenal.
+
+Rule One: Focus fire.
+
+If an arcanist had no access to artefacts and they had to rely on mental glyphs, then the best way to take them down was to overpower them fast by sheer weight of numbers. After all, a person could only split their attention so many ways, and no matter how good your arcanic control was, you could only channel so much arcana at once. If they had to throw up an all-encompassing shield, they were spreading their arcana thin. And a thin shield can be smashed with raw power.
+
+Triss' attack was the first to manifest. Her sequencing speed was really impressive. Somehow, she modified her formula and managed to produce two beams this time - one from each palm - that seemed even more potent than her single beam from before. They filled the air with a keening noise as they lay siege to Kant's defences.
+
+It looked like he was still holding her at bay using a directional shield but this time instead of a flat plane of energy, it seemed to be made up of several overlapping layers that rotated around a central point.
+
+Since my improvised quadruple-bolt sequence was still fresh in my mind, I took a quick moment to tweak the density formulas and packed more arcana into each one, and adjusted the angles to hit at a slightly different spot than before, then fired it off again.
+
+The rest of our modified bolts didn't take such a different form like Triss', but the distinctions were still clear. Bolts of all shapes and sizes were flying from every direction towards Kant, who was still reading. No other shields had appeared, and he was only maintaining the one directly in front of him that kept Triss' twin beams at bay.
+
+At the last possible moment, the rotating layers from his frontal shield swarmed out and then re-formed in front of him. In that single instant, they had moved quickly enough to deflect the rest of our bolts. They flew off in wild trajectories, smashing against the walls, floor, and ceiling, where they glowed briefly before dissipating as the room's glyph sequences safely absorbed them. Triss' beam managed to push against the last layer and press it back by maybe a centimetre, but by then the other layers had reformed and bolstered it again. Her beam sputtered out after ten seconds.
+
+Kant looked up from his book and grimaced. His body shields were completely untouched.
+
+"Good attempt, I suppose."
+
+We all knew what was coming next, and again we defaulted to the conventional wisdom. Since all of us were already standing close together, we instinctively arranged ourselves in a standard spearhead formation. I found myself just behind Emilia, who was at the tip, with Reyes next to me.
+
+Rule Two: Gestalt where possible.
+
+Kant's attack was obviously meant to show off. I think if I had been at the tip of the spear, I would have completely dropped the ball because his work was so distractingly incredible. Where our combined assault had been a chaotic hodge-podge of arcana, he had somehow seamlessly joined them together into an efficient array.
+
+He copied Triss' twin beams and directed them at us out of his opened palms. But at the same time, just as the beams shot out, a copy of each of our sequences also blossomed out from each palm, and as far as I could tell he had somehow managed to reconstruct exactly what each of us had been doing. I recognised Emilia's denser bolts because of their telltale change in shape, and Reyes' bolt that was designed to split and swarm on impact was actually several bolts held together by a membrane. And I could see the tell-tale wavering in the air that meant my own invisible variations were arcing out towards us at an angle.
+
+But what was even crazier was that he was double-casting them. Where each of us had launched one set of sequences, he was firing two sets of the same sequence back at us — one from each palm.
+
+"What the fu—" Reyes choked out, and then we were enveloped in a storm of arcana.
+
+Emilia had thrown up a complex barrier around all of us. Instead of a simple dome, the arcana had formed into a honeycomb lattice several layers deep. I felt the arcanic link form and immediately poured as much as I could to feed her sequence. The rest were doing the same. As Kant's twin beams reached us first, I felt a precipitous drop in the level of arcana in that portion of the shield, and I pushed harder to flood the gap.
+
+Individually, we wouldn't have been able to conjure and sustain such a complex and powerful sequence. The glyphs for a shield of this type took up a lot of arcana to even bring into being. Working as a gestalt meant that we could simply pour our own arcana in, while one person was responsible for creating the frame. Additionally, as a gestalt, we could manage the arcana within the framework together and shore up weak areas. With ten minds in the gestalt, there was less of a mental load for each person to bear.
+
+Reyes and I were just behind Emilia, which meant that we were automatically tasked with holding the front. I could feel Reyes' arcana flagging as he struggled to maintain his segment against Kant's beam, so I sent some of my own arcana to his segment since I had better flow.
+
+Peripherally, I could tell that everyone else was struggling. Kant hadn't just copied our sequences — he had increased the arcanic load on them too. The bolts were heavier than ours had been. His copies of Emilia's bolts managed to leave craters in the honeycomb pattern even with two people covering those areas.
+
+Unexpectedly, one segment of the shield failed completely and Triss collapsed, her entire body shield marked in red. An instant later, a guy on the opposite side of the formation, someone named Petyr, fell too.
+
+"Invisible bolts," I cried out. "He copied mine! Watch for a shimmer in the air!"
+
+But even as I said that, I knew it was hopeless. The only reason I was able to spot them at all was because I had had the luxury of seeing them in use last night.
+
+To Emilia's credit, she didn't waver for an instant. The holes quickly patched up and the shield shrank in size to cover only the remaining members — a desperate attempt to conserve arcana.
+
+Reyes and Emilia were engaged in a brief exchange as Kant showily cracked his knuckles. "Swap resonances, do a reflective layer!" Reyes hissed.
+
+"I don't know how to do that." Emilia's voice was calm; a sharp contrast from her earlier outburst. "You take the lead."
+
+Reyes hesitated for a fraction too long. Kant raised both palms and repeated his absurd barrage just as the sequence for our shield was being modified. It wouldn't hold up.
+
+"Everyone down!" I yelled, throwing myself to the floor.
+
+It was a gamble. If Kant's improvements to our own sequences were only to make them hit harder, then that meant all his attacks were 'dumb-fire' ones and we could simply dodge out of the way. None of them were designed to track and follow individual targets. Even my arcing bolts were only meant to follow a pre-planned route.
+
+The honeycomb barrier around us shattered into tiny pieces. As a testament to how sturdy the sequence was, the fragments still managed to hold their cohesion instead of dissipating uselessly upon impact. We were covered in semi-solid forms of arcana that slowly frayed around the edges.
+
+Everyone was on the floor. Reyes, Emilia, and I were still untouched, but the rest had been too slow. They had actually been knocked over by the sheer weight of the arcana and been blown back a little. I could see the room itself had conjured some cushions of energy to soften their landing.
+
+"I shield, you gestalt, Caden attack," Reyes barked at Emilia, getting to his feet and moving to the front.
+
+There was no time to question or plan. I didn't have a better idea anyway. A much smaller version of the honeycomb barrier enveloped the three of us as we stood in a single file; a simple but efficient formation. The front member provided the defensive frame while the rear member provided the offensive sequences. The middle member of the gestalt supplied more power and finer arcanic control to either as the situation demanded.
+
+Kant, it seemed, wasn't bothering with anything new. He raised both palms again and sent our copied sequences right back at us. I had no idea how he was channelling so much arcana all at once.
+
+I had to trust Reyes and Emilia to shield us. We probably weren't going to get another good shot in, so this attack had to count. I swapped some numbers in the equation of my bolts even though I knew they would overdraw and I'd pay for it later. And to try to get past his shields I wanted to try a series of twists instead of doing predictable arcs, but I didn't have any prepared sequences like Kevan and Lynus. How could I calculate the angles now? If only I could get the bolts to take direction from me instead of the numbers in the glyphs, then—
+
+The discussion from last night suddenly flashed across my mind — a cascade of words clicking into place.
+
+"—this other clause marks where the fusion happens as the point of origin for all directions—"
+
+"—just need to focus. The bolt comes out from where you want it to—"
+
+"—what does this have to do with how the point of origin can change the direction and movement patterns—"
+
+"Everything."
+
+In a flash of inspiration, it hit me. I understood how Ambrose moved his bolts.
+
+I am the point of origin for all directions. Not the glyphs. My will can provide the direction.
+
+There were staggering implications to this shift in understanding the meanings of the glyphs, but there was no time for me to consider them now. I pushed everything I had into that initial thought and sent out four invisible bolts using my arcing equation. But this time, I felt a distant, vague connection to them. They were like limbs that had gone completely numb but would still awkwardly obey the brain's commands.
+
+Peripherally, I registered that Kant's barrage was actually failing to tear down Reyes' shield. His version was reflecting almost half of the arcana back at Kant in ghostly afterimages of the original sequences, which meant that the structure was able to weather the remaining energy. I wrenched my attention back to the bolts, which I now felt more than I saw.
+
+Kant's defences materialised. He had opted to use small directional barriers instead of using an all-encompassing shield. Several of these interposed themselves between him and the incoming reflected attacks, and others were already in the predicted paths of my invisible bolts.
+
+At the last moment, just before they smashed against his shields, I twisted them.
+
+The connection was too vague for me to pull off something subtle. I found myself physically gesturing as I tried to move things I couldn't see and could barely feel — a primal instinct that told me it was necessary to physically interact with the world to change it.
+
+Two bolts shot off at right angles and spun off into the walls. The remaining two managed to double back on a different trajectory, and they slipped right through the gaps in the shields.
+
+With impossible speed, Kant somehow managed to bring up additional barriers. My hand spasmed again as I tried desperately to weave the bolts past his defences, and then a storm of arcana washed over us and Reyes' shield evaporated. All three of us were knocked to the ground, our armour entirely red.
+
+Reyes groaned, not bothering to get up. "I didn't know these arcana bolts could hit so hard. Did we last 30 seconds at least?"
+
+Nobody else said anything. There was a strange silence in the air. I sat up and looked around at the shocked faces of the others who had been knocked out of the fight earlier.
+
+"What...?" I began. I felt a little hollow and worn out as a result of the overdraw.
+
+Triss, who was staring at me wide-eyed, pointed a finger at Kant.
+
+His right shoulder piece was red.
+
+"By the Fates," Reyes breathed, craning his neck from where he lay.
+
+"Well done, the three of you," Kant said with a smile, dispelling everyone's armour. "32 seconds. And Caden, excellent job at the end there. That'll teach me to let my guard down."
+
+If that was him with his guard down, I wondered what he was like in a real battle. It was a terrifying thought.
+
+"Well, now that we're properly introduced," Kant gestured, and eleven very comfortable-looking padded chairs appeared. "Let's talk about how well that fight went."

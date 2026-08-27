@@ -1,0 +1,197 @@
+---
+id: 27591475-99be-532d-94dd-e2aefc9d03ca
+page-type-slug: story-chapter-royal-road
+title: "v5c52: Reunion"
+slug: 0158-v5c52-reunion
+partOf: beware-of-chicken
+position: 158
+ownLength: 2470
+unit: words
+ownProgress: 2470
+publishedAt: 2024-10-18
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1855827/v5c52-reunion"
+royalRoadId: "1855827"
+markedReadAt: "2026-06-29T18:56:43.309Z"
+---
+
+The mood was tense as the Flying Sword cut its way south. Bi De had tried to meditate, but it was useless. He was too unsettled by the news of the attack on his home. The others were as well. Ri Zu was muttering dire portents under her breath as she attended to Shen Yu, who was standing at the tip of the blade.
+
+Yun Ren’s face was tight and his Qi in turmoil. Spooks, Shao Heng, Han, and Yushang had all sensed their worry and were similarly quiet.
+
+Elder Shenhe and the rest of the Shrouded Mountain sect Disciples were nearest to the hilt of the Flying Sword. Many needed medical attention still, and none of them had the spikes of demonic chitin removed yet. Many were meditating to stave off the pain, their faces pinched as they quietly suffered… But they had not enough medicine nor time to treat them all yet.
+
+They needed their Qi if there was another battle to come.
+
+So instead of meditating, Bi De looked at the heavens. The sky was getting lighter and lighter as they traveled south, the eternal night giving way to the dawn. When the sun finally crested the horizon, it was the most beautiful sunrise Bi De had ever seen after weeks of perpetual darkness. It warmed his face and his soul, so dazzling was it. Ri Zu stopped her work for a moment. Yushang grabbed Bi De’s hand. Han let out a sob of relief. Shao Heng slumped slightly, letting out a breath. Even Yun Ren stopped his brooding for a moment, his amber eyes wide.
+
+Yet the reprieve was short-lived because Shen Yu grunted with discomfort—Yushang grimaced, as did Han. Shao Heng’s face twitched. A wave of groans and uncomfortable noises issued forth from the members of the Shrouded Mountain Sect, and Elder Shenhe’s grimace intensified.
+
+Bi De felt it too for a moment. The air felt like it thinned to nothing. After so long in places with high Qi, it did feel different. Hostile.
+
+But it was home.
+
+As soon as he thought that, his breath came easier.
+
+“You’re all actually from here?” Yushang asked incredulously before coughing. ”How the hells did you cultivate?”
+
+“You will see,” Bi De declared. He said it like he knew his home was fine, his voice full of confidence. He looked up again at the sun… and realised he had been remiss in his duties.
+
+“Country Roads, take us home…” Bi De sang under his breath, exhausted, but stil giving his praise.“to the place…. we belong…”
+
+==================
+
+As the hours passed, they got closer and closer to home, and Bi De could feel it. He could feel Fa Ram calling out to him. The tension should have grown, but instead… he felt a cool, almost soothing presence brush against him.
+
+Something caught Shen Yu’s eye and the Flying Sword angled itself to a new heading. Bi De, curious, looked over the side of the blade—and beheld the first signs of combat.
+
+A massive blackened section of earth, devoid of snow, sat around a crater. The ground had been melted, then fused. Nearby, a devastated forest lay, broken like matchsticks and kindling.
+
+But there was something about the destruction pattern familiar to Bi De—as well as the lingering feeling in the air.
+
+“That is… lightning Qi,” Shenhe murmured, looking confused. “That's Zeng’s Qi. How…?”
+
+“It appears not just Zang Li was taken and turned into a demon,” Shen Yu’s voice was light, but his face was severe. Shenhe’s body seized as his eyes turned to her. She dropped to one knee immediately, her head bowed.
+
+“If my sect has sinned, I shall atone with my life if it pleases Lord Shen Yu.”
+
+“It may yet,” the man stated simply. His voice was completely devoid of emotion, and right now… right now Shen Yu was as sword-like as Bi De had ever seen him.
+
+Bi De’s own wrath was stoked at seeing the destruction… but again, the cold wind soothed it.
+
+The sword picked up speed. It speared south, unrelenting. Bi De’s heart thundered in his chest as they got closer and closer and closer—until he could see it.
+
+Until he felt it. The air of Fa Ram filled his lungs, still sweet and nourishing. It was nostalgic, comforting, and it brought tears to his eyes.
+
+He joined Shen Yu at the front of the blade, his heart pounding.
+
+His ears strained for the sounds of battle. His heart sang with the song of war, ready to smite anything that was his enemy.
+
+His eyes were first drawn to the sections of blackened forest, devoid of snow. Then, to the fallen Pillars of Fa Ram. He took in the unfamiliar fortress, the alien thing that looked so out of place—and his eyes narrowed at the mound of corpses.
+
+And then… then his eyes landed on the people. All standing tall, and all waiting for them.
+
+Beside him, Bi De saw Shen Yu let out a breath.
+
+The Blade that was Shen Yu disappeared. In its place there was a tired old man. There was something vulnerable on his face that flashed for a brief moment… before pride filled it.
+
+Bi De’s eyes searched them. They were injured. They looked tired—but all were accounted for—except for Pi Pa and Wa Shi. Bi De paused and stared at the pink-haired woman who was standing where Pi Pa normally stood. Had she…?
+
+“Ahoy up there!” Bi De’s Master called out. His arms were bandaged. He had electrical burns all over his chest, barely faded. He had a mostly healed black eye.
+
+And he was smiling at them.
+
+Bi De leapt from the sword before it touched down, his body impacting his Great Master. His Master let out a whuff of breath as he caught Bi De. Yun Ren and Ri Zu both leapt past, Yun Ren tackling his brother and holding him tight, while Ri Zu buried her face into Meiling’s neck.
+
+“Man, you’ve gotten big,” his father mused, a small, almost whimsical smile on his face. Bi De abruptly realised he was still in his human disguise. He was almost as tall as his Great Master in this form.
+
+“Yes, I am indeed tall like this,” Bi De murmured back. A large hand rose and settled onto his head. His Great Master rubbed vigorously, messing up Bi De’s hair, but he relished the contact.
+
+Then, he released Bi De—so he could get tackled by someone else.
+
+“Look at you, you bastard! Copying our Master like this and failing to get his muscles right, you dare!?” Tigu’s voice was loud and boisterous, and her eyes were full of unshed tears. “You’re not bad, but you’re all scrawny!”
+
+Bi De laughed, his voice full of relief. “You’ve gotten taller, Sister! But where is Wa Shi?”
+
+“He's off delivering messages,” Yin said. The taller woman was right behind Tigu, hugging him and pinning his arms to the side—inadvertently or on purpose Bi De didn’t know, but Tigu took the opportunity and immediately grappled him, trying to put him into a headlock. He allowed it, her knuckles digging into Bi De’s hair and messing it up even more. Yin’s warm body was a balm to his soul, the complementary sun to his moon.
+
+‘You mean lazing. The fool of a fish got distracted eating and made the Lord Magisssstrate worry with his delay!’ Miantiao declared from his place on Yin’s arm. The snake transferred himself, slithering over to Bi De to give him a hug of his own.
+
+“Master! Master, we helped!” the Torrent Rider shouted, eager to say his own piece. The boy stood tall and proud, while Shaggy Two was at attention beside him, the dog barking happily.
+
+Tigu disengaged from Bi De to sneak up behind Ri Zu and lift the smaller woman into the air, much to her protest, while Yin practically dragged Bi De over so she could boast about how much the younger man had helped in Fa Ram’s defense.
+
+“Truly, a better disciple I could not ask for,” Bi De declared, his finger tracing over a scab on the boy’s cheek. “You did well.”
+
+Zhang Fei beamed.
+
+Bi De then turned his attention to the two who had hung back a bit. The pink-haired woman approached slowly, her hand braced on Chun Ke. Bi De looked into her eyes and found the joy mixed with the sadness. She was injured as well, and he could feel the lingering void around her. It was yoked and caged, but it pulsed unhappily.
+
+“Sister Pi Pa. Brother Chun Ke,” he greeted his two oldest friends, holding them tight. The two who, along with Ri Zu, had saved his life. He pulled back so he could get a proper look at them both. “Heavens above, your eyes are stunning. Brother Chun Ke, in every form, your wife is a peerless beauty,” he declared. The woman flushed slightly, and Chun Ke oinked in agreement.
+
+“... I bet you say that to every lady,” she murmured.
+
+“I only speak the truth. Especially to such a formidable lady,” Bi De said pompously, before he softened. “Sister… thank you so much for protecting our home. You always end up saving us. Against Chow Ji, against Sun Ken… and now.”
+
+Bi De didn’t know what had transpired yet… but judging by the thick bandages around Chun Ke, he could guess.
+
+The words seemed like a thunderbolt to Pi Pa. Her mouth opened and closed… and slowly a wobbly smile appeared.
+
+No more words were said as she embraced him again.
+
+Bi De… Bi De’s worries finally guttered out.
+
+================================
+
+Shen Yu stepped off his dissolving blade and largely tuned out the commotion going on behind his grandson. His disciple had abandoned decorum in front of the members of the Shrouded Mountain Sect to greet his family, caring little about their eyes.
+
+That was acceptable. Their opinions were irrelevant anyway.
+
+Shen Yu only had eyes for Jin, as the boy… no, as the man stepped forwards.
+
+“Gramps,” he greeted, his voice strong.
+
+Jin was tall and proud, unbent and unbroken. Wounds of honour littered his body—yet not a member of his household lay dead.
+
+Lingering traces of the battle persisted, fading into the Qi desert, but he could feel them still; three Earth Realm Cultivators, and one cultivator that had peaked at Sky—yet his grandson had triumphed over all of them.
+
+Pride. Pride filed his breast. Jin had said he would defend his home against all that threatened it, a true oath—and he had held to it. Held to it against odds Shen Yu could not say would be favourable. In truth, he had no idea how Jin had won. But he had. No matter the odds, his boy had been the victor.
+
+Shen Yu stepped forward. He embraced his grandson fiercely, yet mindfully. Both of them were injured.
+
+“You look like you had a rough time of it,” Jin whispered in Shen Yu’s ear. A smile bloomed upon Shen Yu’s face at the irreverence.
+
+“About as rough a time as you had. Perhaps rougher,” Shen Yu admitted. Jin’s arms tightened in alarm… before the tenseness faded. He pulled back so he could look Shen Yu in the eye… and then he smiled.
+
+“Thank you for protecting them… and welcome home, grandfather.”
+
+For an instant, Jin was somebody else.
+
+‘Welcome home, father!’ Bu shouted, a big grin on his son’s face.
+
+And then the moment faded. There was pain at those words… but a good pain.
+
+Shen Yu chuckled, a ball of emotion in his throat.
+
+“It is good to be back,” Shen Yu said honestly, before a mischievous grin found its way onto his face. “But really, welcoming your grandfather back here? In such a messy yard?”
+
+Jin laughed, the sound booming. “A thousand pardons, honoured grandfather,” he said, affecting a tone of scraping filial piety. “But we had some most rude guests recently.”
+
+Shen Yu’s own laughter bubbled up at the understatement. He was alive. His grandson was alive. Was there anything else worth laughing for?
+
+“And it seems, Honoured Grandfather, you have brought more,” Little Mei’s voice cut in, sounding reproachful as she took in the members of the Shrouded Mountain Sect present and waiting, having not moved or interrupted any of them.
+
+Good, Shen Yu would have been displeased if they had. It was a mark in their favour. Only Bi De’s group had left their places, waved over by Shen Yu’s disciple to meet the rest of his grandson’s household.
+
+He turned back to Mei and bowed low… before sweeping her up. She seemed rather surprised by his embrace.
+
+“Your grandfather can only beg your forgiveness, granddaughter—he brings these things to darken your doorstep due to unfortunate circumstances. But say the word, and this old man shall remove them.”
+
+Shenhe stiffened slightly and swallowed.
+
+Mei, however, just sighed.
+
+“They may stay. They’re injured quite badly,” Shen Yu turned to look at Jin, who just nodded along with his wife.
+
+“Very well! Shrouded Mountain Sect, mine Grandson and Granddaughter have graciously extended their hospitality to you,” he stated, his intent fully upon them.
+
+Shenhe and her disciples clasped their hands over their fists in martial salute and bowed low instantly.
+
+“We thank the Experts for their hospitality!”
+
+They all seemed to have good heads on their shoulders.
+
+Shen Yu smiled before he paused, noting one conspicuous absence. His mostly-banked fury began to flare. Had the Cloudy Sword Sect been lax in its duties again?!
+
+“Where is Lu Ri?” Shen Yu asked, his voice as calm as he could make it.
+
+“Senior Brother got the Nezin tribe to safety at our request… and he captured one of the enemy’s bases. He said something about an intact transportation array?” Jin replied.
+
+At once, Shen Yu’s wrath fled him. His burning eyes softened as the news was delivered. He let out a breath and felt slightly ashamed of his thoughts. Of course. Of course, he had not failed. Shen Yu had taken Lu Ri’s measure himself… there was no way the man would have abandoned his duty, but past events had left their mark.He would have to apologise to Lu Ri for questioning his honour—especially if he did have one of the enemy’s bases intact. Truly, Lu Ri was a cut above other members of the Cloudy Sword Sect.
+
+“It seems we have some stories to trade,” Shen Yu said.
+
+“And I have some work to do,” Meiling said, eyeing up the Shrouded Mountain Sect members. “Welcome home, Grandfather. Now! All of you, this way with the rest of your sectmates!”
+
+Her voice was a whip. Her presence, overwhelming. The Shrouded Mountain Sect obeyed.
+
+But Elder Shenhe paused. “With the rest of our sectmates?” she asked, sounding very confused.

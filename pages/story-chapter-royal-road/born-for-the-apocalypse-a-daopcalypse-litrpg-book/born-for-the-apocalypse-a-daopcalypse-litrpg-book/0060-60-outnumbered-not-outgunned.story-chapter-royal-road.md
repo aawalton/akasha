@@ -1,0 +1,93 @@
+---
+id: 2478d932-9540-5acf-b386-5f75b6c1c813
+page-type-slug: story-chapter-royal-road
+title: "60: Outnumbered, not outgunned"
+slug: 0060-60-outnumbered-not-outgunned
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 60
+ownLength: 1907
+unit: words
+publishedAt: 2025-02-26
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2090486/60-outnumbered-not-outgunned"
+royalRoadId: "2090486"
+---
+
+60:
+
+“Archers!” Jack screamed the only word of warning he could get out even as his left arm that had the Shield of Greater Deflection strapped onto it was instinctively placed before his exposed head, even if it required him to tightly place his arm above his eyes and limit his field of view because the arrows were coming from somewhere to his right, likely from one of the larger dunes that he had noted earlier.
+
+Jack dove forward, his dexterity aiding him as he converted his wild forward momentum into a controlled roll. His enhanced senses meant that Jack could feel the air the Qi-empowered arrow displaced as it blurred forward, a weak yet chilly breeze that kissed the back of his neck as sure as death would have if he had not reacted to the situation with an evasive maneuver.
+
+A dull thump followed as the arrow sunk into the sand, the burgeoning momentum behind it likely having caused it to have submerged under the sand completely. As Jack landed on his feet, he pushed himself back upwards with explosive force, back standing before the moment could pass.
+
+The tell tale glow of Qi Sword lit up as Jack pulled back his shield just enough to get a clear view in the direction the arrows had come from.
+
+There, Jack thought, as he caught sight of three archers that appeared to still be in their starter tunic, peeking out from behind the crest of the dune so that only their chest-level was exposed to any counter attacks. His enhanced sense of sight meant that Jack could discern that their bows were already drawn and their arrows primed for a second shot, but they hadn’t fired yet.
+
+Having survived the initial ambush, Jack was confident that he could dodge the next volley of arrows, but the fact that they hadn’t fired yet was a little disconcerting. Still, questions could wait until his Qi Projection bisected the enemy archers in half.
+
+“Surrender now!” A gruff voice boomed from a different direction and instinctively, Jack knew it had to be from the largest dune in the vicinity, one that was a little to his left but still prevented their group from going straight ahead, as they planned to navigate around it. “Throw your weapons on the ground and you keep your lives,” He declared and Jack followed the sound to catch sight of a lone man that was standing at the crest of the imposing dune. Clad in a crimson leather coat beneath which he was wearing a cuirass fashioned out of the same material, its surface studded with pearl-white tetrahedron teeth whose pointed tips looked like they were sharper than his sword. The leggings too seemed unique, in that they covered the feet completely unlike his Jade Guard ones, eliminating the need for sabatons.
+
+The man appeared to be in his early-forties, his piercing brown eyes focused in Jack’s direction as he regarded them with a scorching intensity. His hair was kept short in a military buzz-cut, peppered with streaks of gray that were harder to spot on the layer of stubble covering his chin. From his squared shoulders to his ramrod straight posture as he held onto his Bloodsong Spear, not to mention the boisterous confidence with which he had confronted them, spoke of a man that was not unaccustomed to command, one that he had almost certainly learned in the military
+
+If I had to guess, that’s probably the Juvenile Wyrm’s breath armor set, Jack thought, his expression not wavering at the sight of a clearly skilled opponent. Still, what gives him the confidence to step out from behind cover and confront us like this? No one with military training would be foolish enough to do something like that, unless…
+
+Jack held off firing Qi Projection long enough to catch onto the motion behind the middle-aged man.
+
+Unless he has overwhelming force to back him up, Jack grimly thought as more people lined up to his side, two clad in Jade Green Armor Sets that flanked him on either side, a black-haired wielding an icy white dagger in his hand while the other, a woman with short brown hair, wielded a familiar Moonsword. What was more surprising was the four individuals that followed, falling in line in twos on either side of the two well-armored people. These new entrants wore much less impressive armor, while one was still clad in the starter tunic like the archers had been. Jack would be surprised if any of the four men and women were wearing anything beyond common armor and their weapons too seemed as mediocre as their equipment.
+
+Besides the middle-aged man, none were bold enough to stand on the dune’s crest and expose themselves fully to an attack, but the odds of Jack managing to aim at his head while taking into account the distance and the elevation was low enough to begin with and he would only get one shot before the three archers and however many cultivators on the largest dune that were capable of using Qi Projection answered back with a flurry of their own ranged attacks.
+
+It didn’t take much deduction to understand why the middle-aged man, who was clearly the leader of the group, hadn’t aimed to kill and instead intended to subdue. There was safety in numbers and from the group dynamics he had witnessed, it seemed much more likely that the middle-aged man and two of his close aides had forced what seemed like the amalgamation of multiple groups into purchasing equipment for them. If Jack and his group surrendered, the first thing these vultures would do would be to strip them of their equipment and then they would be reduced to meat-shields until they died or the trial came to an end.
+
+Jack was fighting animals who had lost sight of their humanity, people who had fallen to killing out of convenience instead of survival. Trent had been a human and so had Andrew, but Jack could not extend the same privilege to the three that lorded over the groups they had won their conquest over. How many people they had already killed, because they had refused to bend the knee? How many more would they kill, not to survive but because it made things easier for them?
+
+Yet, Jack wasn’t powerful enough to kill only the three offenders without harming the other seven, not without his own group suffering multiple casualties. Once again, the system’s machinations were bringing his own resolve up for the test.
+
+One day, I’ll become strong enough to show mercy on the battlefield. Today is not that day, Jack thought as he made his decision.
+
+“What happens if we refuse?” Jack asked, his voice as loud and boisterous as he could make it in an attempt to buy time as he chanced a quick glance behind him. To his relief, there was no blood dyeing the sand. Sarah was already back on her feet behind him, while Marcus looked like he had just gotten back up on his feet, his position in the formation abandoned as he seemed to have thrown himself forward, now being closer to him then he was to Sarah as his jade guard armor’s surface was littered with sand. Jin was still crouching on the ground and from the sand dripping from her chest armor, Jack suspected that he had gone prone after hearing his warning.
+
+The middle-aged man’s expression wasn’t moved by his question, his response delivered with the same confidence he had displayed earlier, “Then my archers stop holding back their arrows from skewering you four.”
+
+A chilly silence hung in the air as a few seconds passed, before Jack slowly pulled away his shield from guarding his head and openly glared at the middle-aged man. “Give my group a minute to decide,” Jack asked, his tone as firm as steel as he fearlessly pointed the tip of his sword at the man’s head, not paying any heed to the distance separating them. “Or I swear to whatever god that is listening, I will kill more of your men than you can afford to lose.”
+
+They were outnumbered more than 2 to 1 and they had zero archers on their side while the enemy had three, yet Jack stood there with his head exposed to archer fire, pointing his sword at the enemy leader.
+
+Seconds ticked away with no response besides a gasp that escaped Jin, but Jack remained rooted to the spot, unfazed.
+
+Finally, the middle-aged man turned to his archers in the distance and called out loudly enough for them to hear, “They have a minute to decide if they want to live or die. If that one,” He pointed at Jack, “Doesn’t get me a reply by then, fire.”
+
+Jack lowered his sword, his gaze flitting from the top of the largest dune to the smaller one the archers were hiding behind.
+
+He didn’t have to say anything as Jin inched closer while the others were already close enough for them to hear anything he wanted to be heard only by the four of them.
+
+“If we surrender, we’re as good as dead,” Jack bluntly stated, his tone just above a whisper.
+
+“Do we have another choice?” Marcus asked, his tone curious instead of adversarial.
+
+“Yes,” Jack hurriedly replied. “Remember the fog from the Mist-Vault? I can summon it for a while.”
+
+“What’s the plan?” Sarah asked, the tension in her voice audible.
+
+“Your bracelets won’t let you see through my fog, but I’m going to run in a straight line to the dune we were already headed towards. It doesn’t matter if you stumble or even fall, just follow me and cut through to that dune,” Jack explained.
+
+“And then?” Marcus asked.
+
+“That dune will keep us out of the line of sight of the main group, but the archers will still have us in their line of sight. That’s why I’m going to continue onwards to their dune and take them out.”
+
+“What about us?” Jin asked, trying hard to keep the quivering out of her voice but still failing a little.
+
+“Stay behind the dune. They’re going to come down from the largest dune if they want to save the archers and from their line of sight, they’ll think all four of us are hidden in the fog and on our way to the archers.”
+
+“A counter-ambush?” Marcus threw his thoughts out.
+
+“You get the gist of it. Now, when I say surrender, get ready to move and don’t panic because of the fog,” Jack declared, before facing forward again and feigning a resigned nod.
+
+“Fine!” Jack exclaimed as he took two steps in the direction of the dune, that was still to his right. He hoped that it would look like an attempt to address the main group and the archers at once, but he had no choice but to do it. “We’re not going to fight you,” Jack declared, his tone tinged with dismay.
+
+“Then throw down your weapons!” The middle-aged man shouted back.
+
+“Okay, okay, we surrender!” Jack declared as his right hand blurred outwards in a flurry of motion, releasing a Qi Projection in the direction of the archers quicker than the blink of an eye.
+
+Before either of the enemy parties could react to his attack, a cloud of Mist Qi enveloped him and his party.

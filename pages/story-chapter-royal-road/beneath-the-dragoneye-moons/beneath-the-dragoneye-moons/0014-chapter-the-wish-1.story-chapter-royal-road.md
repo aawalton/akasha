@@ -1,0 +1,201 @@
+---
+id: c095b581-2f1f-5e1b-a636-0d864ba19979
+page-type-slug: story-chapter-royal-road
+title: "Chapter ??? - The Wish 1"
+slug: 0014-chapter-the-wish-1
+partOf: beneath-the-dragoneye-moons
+position: 14
+ownLength: 2309
+unit: words
+publishedAt: 2022-04-01
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/875405/chapter-the-wish-1"
+royalRoadId: "875405"
+---
+
+Elaine was walking back home from another mission. Auri was with Plato, safe at home, and the roads were strangely empty for the early evening. Just one of those flukes of traffic.
+
+As Elaine walked at a brisk clip, a lamb emerged from the trees around the road, bleating pitifully. Only slightly unusually, its wool was entirely golden, although with how many [Shepards] had weird skills, it wasn’t that weird.
+
+At least it wasn’t on fire, spitting venom, or followed by thousands of insects. Some [Shepards] got real weird.
+
+Elaine looked around, and not seeing anyone near, sighed.
+
+“Why hello there.” She approached the lamb, gently stroking its head. “Are you ok? Are you lost?” She slowly soothed the animal, while banishing thoughts of tasty, tasty lamb ribs from her mind.
+
+The lamb’s mouth opened, and instead of bleating, wispy smoke came out of it.
+
+What weird skill is this? Elaine tried to [Identify] the lamb, but nothing came back. The skill didn’t even seem to activate, like she’d tried to [Identify] a rock or something.
+
+Then the smoke solidified into a man with no waist, just more smoke leading into the lamb’s mouth.
+
+“Yo yo yo! Genie’s in the HOUSE! Whuzzup, you’ve just won yourself THREE SPARKLING WISHES! Tell me what you want, what you really, REALLY want in that little heart of yours!”
+
+Elaine took one look at the genie, turned around, and walked away.
+
+“Yoooooooooooo that’s not cool!” The genie easily kept pace with Elaine’s superhumanly fast, System-enhanced speed. “Anything you want! Only three rules! No bringing anyone back from the dead, no making someone fall in love, and no wishing for more wishes! But anything else you want, you can GET! Just say it!”
+
+Elaine paused. Pallos was a world filled with magic and monsters, dinosaurs and gods. She’d snuck into the lair of a dragon, and healed an angel. Krakens and leviathans ruled the ocean, why was a genie suddenly causing her to pause?
+
+What was the worst that could happen?
+
+“If I wished for ten thousand gemstones, you’d make it happen?”
+
+“Baby, I can give you a MILLION gemstones! But I wasn’t born yesterday! No tricks! You can’t pull wool over my eyes! Gotta start your wish with ‘I wish’, or it won’t work at alllllllllllll!”
+
+Elaine clicked her tongue. It had been worth a try.
+
+“I wish my friends were all here.” She said, and the genie snapped his fingers.
+
+“Your wish is myyyyyyyyyy COMMAND! Let it be DONE! There is NOTHING this genie can’t do!”
+
+With that, four portals opened up.
+
+From the first - Ariane. A pale vampire with long blonde hair and too much junk in her trunk.
+
+From the second - Cat. Not the loveable fluffy murder type. Well. She was a fluffy loveable murder type, but not THAT kind of fluffy murder type. Three quarters of a person, the rest cybernetic. Her arm and eye were artificial, and sadly her brain remained entirely organic. That one could use the upgrade.
+
+From the third - Edmund. A wooden door with no frame swung open to reveal a black abyss from which emerged a dark-haired man who looked way cooler than any of these other characters, I promise. He wore mismatched armor in varying states of disrepair, and wielded a dagger, a segmented spear, and a sour look on his face. That latter he brought to bear upon the assembled strangers without hesitation.
+
+From the fourth - Maud. A woman appeared, her eyes an uncanny blue. She was wearing a frown, enormous pauldrons and a velvet skirt embroidered with little pink skulls. What flesh was visible was gaunt. A bloody axe balanced lightly between her finger and thumb.
+
+“Yooooour wish is granted!” The genie roared as everyone looked around confused. “And I! Am! A! Generoooooous GENIE! You four get one wish each!”
+
+The five of them traded glances with each other.
+
+“Liam! This violates the fairness clause!” Edmund shouted into thin air, then started muttering to himself.
+
+“Five people, that’s the party limit size. There’s gotta be a secret here, somewhere. Gotta be…” He took his spear, and started poking at every inch of the road, completely sure that one spot would spring up a fantastic treasure chest, or a deadly trap.
+
+“Myalis. What’s going on?” Cat asked, cocking her head as she gazed off into the distance.
+
+Great. Elaine thought. Two weirdos that talk into thin air.
+
+“New world? Unknown to the Protectorate?” Cat muttered. She blinked a few times, as if hearing a response that she alone understood. “Is there anything I can’t buy?”
+
+Elaine continued to look around, and saw a familiar face.
+
+“Ariane! It’s great to see you again!” She bounded over to the vampire, who was cradling her head.
+
+“Is it too much to ask that my tender feet remain on Earth?” She groaned. “Every other decade, some force or another sees fit to wretch me from my domain. Is this Sinead’s doing?”
+
+Elaine cocked her head.
+
+“Decades…? It’s only been a few years here. Anyways! Probably mine, sorry! I asked for my friends, and the genie, well… has a weird definition of friends, what can I say. Need a bite?” Elaine offered her wrist.
+
+“Supplicant?” Ariane wondered. “What do you wish?”
+
+“I’m being polite. It’s my fault you’re here.” Elaine responded. She got an impish grin. “Plus, you don’t have to worry about draining me dry. You’d explode from drinking too much blood first.”
+
+Ariane gave Elaine a flat look, then chomped down on her wrist. Elaine went a bit pale, but color quickly returned to her cheeks as the vampire felt waves of delicious power course through her.
+
+“Can’t get a single break.” Maud grumped. “The moment I get home, the very second I sit down with some knitting, and I’m pulled here! The sheer nerve of you, young lady. Do you have any idea what you’ve done?”
+
+“Yeah. I made a wish.” Elaine flippantly countered back.
+
+“Harumph.” Maud crossed her arms. “Well, figure out how to fix all this. I’m Maud. Lich.”
+
+“Elaine. Healer-mage.” She touched Maud, flashing healing through her. Not much happened, since Elaine’s healing wasn’t well-geared towards liches, no matter how much Maud looked like a grumpy old lady.
+
+Old as Elaine saw things. Maud was, like, 30 tops. Practically ancient.
+
+“Cat. Samurai.” The young woman with the mechanical arm and eye introduced herself. “Where is this?”
+
+“Pallos.” Elaine answered.
+
+Ariane tore herself away from Elaine’s wrist, her belly unusually distended.
+
+“That was delectable most.” She said, slurring her words slightly as the vampire, unbalanced by both her large stomach and even larger derriere, swayed.
+
+“Arianeeeeee. Vampire. BY THE WATCHER!” She screamed, pointing at the sky.
+
+The five of them looked up. A pair of fierce crimson eyes hung in the night sky, staring down at them.
+
+“The dragoneye moons.” Elaine almost reverently said.
+
+“I already have one Watcher. Now there’s two more!” Ariane threw her hands up in despair.
+
+“Technically, one. Uses both eyes.” Elaine idly corrected her.
+
+“I’m Edmund.” The slightly mad, paranoid man said. “I don’t know how you’re all so casual in The Eternal Depths, but monsters could be coming at any time. Where’s the exit? Have any of you done this level before?”
+
+“Not a level.” Elaine corrected. “It’s Pallos, a different world.”
+
+Edmund stared daggers at Elaine.
+
+“Must be another trick of Liam’s.” He muttered, continuing to poke at the road. “If I don’t get back, I lose Obsession. But wait, if I’m trying to get back, that works for Obsession, right? No Solitude though…” Edmund continued to talk to himself in a low voice. He was quite Mad, and the rest of them shuffled away from him.
+
+“And there aren’t even any ghosts here. Bah!” Maud stomped over to the genie, but before she got there, a large box thumped into existence next to her, roughly the size of a bus.
+
+Cat rubbed her hands as the flaps fell away, revealing an elaborate series of screens, keyboards, knobs, bells, and whistles. The entire thing was decorated with small pictures of playful cats on every surface. The center was dominated by a circular teleportation pad.
+
+“AHHA! I KNEW IT!” Edmund shouted, as part of the road went click, and a golden treasure chest emerged from the ground.
+
+Elaine rubbed her eyes. Roads in Remus didn’t have secret compartments, plus hundreds of people walked over the roads daily!
+
+“The Carrier - Allstar Tempest Mk. MMMMMMDCLXVI is operational.” A soft woman’s voice from Cat’s station spoke. Cat walked over to the station.
+
+“Myalis, give me the user guide.” She said, then sharply looked up.
+
+Hovering between the two dragoneye moons, as large as they were, was a lucky cat-shaped supercarrier.
+
+“Hey hey hey. I need yo second wish. I ain’t staying here forever, you feel me?”
+
+“I wish I had enough mangos.” Elaine absent-mindedly answered. There was no telling if she was overwhelmed from the various antics of the strange companions she found herself with, the prodigious amount of blood she’d lost, or if the genie was screwing with her mind. Either way, the wish came out, idle and not well-formed.
+
+“Your wish is my command!” The genie snapped his fingers, and a single mango appeared in Elaine’s hands.
+
+She promptly devoured it with great gusto, as a second mango appeared beside her.
+
+A third.
+
+A fourth.
+
+A fifth came from high up, then like the skies opening up, like a monsoon, mangos rained from the clear skies. Dozens, hundreds, thousands, tens of thousands, as many mangos as drops of rain from a hurricane came pouring down on Elaine and the rest - and across the entirety of Pallos.
+
+The perfectly ripe fruits were being created by the genie high up in the sky, then getting all the time in the world to fall down to Pallos, picking up speed the entire way. They exploded as they landed, skin, flesh, and pit going flying in every direction.
+
+The Mangpocalypse had begun.
+
+Each mango was a deadly missile, a direct hit on the head lethal to even most Classers on Pallos. Everyone had been in numerous fights for their life, and while mangos raining from the heavens might be the strangest fight they’d had, it wasn’t enough to give them pause.
+
+Elaine raised a shield over everyone’s head, a small application of [Mantle of the Stars] acting as a last line of defense. She then carefully watched the falling mangos, and with a heavy heart, annihilated ones about to hit people with a powerful burst of Radiance magic, always prioritizing others over herself.
+
+Edmund was easily the least equipped to handle the falling storm.
+
+“This is nothing.” He muttered to himself. “I can dodge this.”
+
+And, impossibly, he was. His limbs contorted unnaturally as he ducked and weaved, somehow defying all known laws of physics and magic to entirely avoid direct hits from the mangos.
+
+Shards of exploded pip were harder to dodge, but they were irrelevant. Elaine’s wide-range healing fixed nicks, cuts, and deep splinters before Edmund even had time to register they’d happened.
+
+Ariane was wielding a strange sword, the weapon as fast and flexible as a whip, extending and moving in mysterious patterns as she sliced and deflected mangos raining down on them all.
+
+Cat covered her head - well protected by Elaine and Ariane’s defenses - and ran to her Carrier - Allstar Tempest station. The CAT station, for short.
+
+A glowing shield sprang up around the CAT station
+
+“MYALIS!” She screamed, and after a moment, small brown fighters started to disgorge themselves from the supercarrier’s… rear end. The fighters, after a few minutes of travel, came screaming down, guns blazing from the automated drones.
+
+Maud just crossed her arms as the occasional mango smashed through Elaine’s shield, braining her. Her visage flickered between human and skeleton, and spent most of her time grumbling about how long all the mango debris would take to wash out of her clothes.
+
+The five’s efforts were good, but there was a critical component. Even as they survived each falling mango, they appeared to be endless, pouring down from the sky. They didn’t vanish when they hit the ground, instead coating it in a thick layer of mushy fruit. The ground became slippery, the footing treacherous.
+
+Maud was the first to be buried, entirely uncaring. She’d easily survive it, and why waste energy trying to stay on top of things? She’d need to dig herself out sooner or later, and the sooner she was buried, the sooner she’d stop getting hit by THOSE BLASTED FRUITS!
+
+Honestly. All the luck to find a genie, not enough sense to properly form a wish. Maud grumped to herself as she was buried.
+
+Cat was the second to go, her shield holding as the mangos piled up against it. Fueled by a micro matter-antimatter annihilation generator, there wasn’t much it couldn’t handle.
+
+Edmund and Ariane continued to stay ahead of the downfall, impossibly balancing on the pyramids of unstable fruit, as Elaine snapped open glorious multi-colored butterfly wings, and took flight.
+
+As mangos buried the world meters deep, Maud got Properly Annoyed. With a flex, five gigantic golems made out of mango, possessed by her ghostly minions, rose and huddled up, forming a protective dome around the five of them.
+
+After three hours of listening to the mangos continue to rain down, and utterly disbelieving looks as Elaine chowned down on the mushy remains of shattered mangos, the hailstorm stopped.
+
+“Just how many mangos are ‘enough’ for you?” Cat asked in disbelief.
+
+Elaine shrugged with a guilty look on her face.
+
+The world ending in mangos isn’t my fault, the world ending in mangos isn’t my fault, She repeated the mantra to herself.
+
+“WHOA! Would you believe it! That was quite the show!” The genie said. “Whooooooooooooooos up next?!”

@@ -1,0 +1,117 @@
+---
+id: 352230cd-dd00-5903-b8f3-589123774255
+page-type-slug: story-chapter-royal-road
+title: "44: Incoming"
+slug: 0044-44-incoming
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 44
+ownLength: 1903
+unit: words
+publishedAt: 2025-01-17
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2015522/44-incoming"
+royalRoadId: "2015522"
+---
+
+44:
+
+As impressive as Jack’s display had been, ultimately, Sarah did not have 20,000 TP to spend. In fact, even if she did, Jack wouldn’t have recommended the Essence Syphon Art to her.
+
+He knew that there were more layers to the Essence Syphon Art, information that was encoded into his mind without the knowledge to apply it to the physical world. Jack had a feeling that information would come into play later on, but at the same time, he was certain that trying to use something he was yet to fully understand would be disastrous in combat. The Tutorial Shop had mentioned that the technique would last him until the Foundation Establishment cultivation stage, so Jack wondered if the full extent of the Siphon Art would be revealed then.
+
+Still, regardless of whether the technique would become more powerful with time or not, currently he and Sarah were allied. It didn’t make much sense to overlap their techniques even if she had the option available to her and as a spear user, it made more sense for her to keep her enemies at bay instead of lunging at them.
+
+Which was why she had ultimately chosen to go with the safe bet. She had seemed interested when Jack had mentioned Tenfold Strike, but ultimately, the allure of having a powerful armor set that could defend her from attacks seen and unseen was simply too much to pass up on.
+
+Her Goblin-Made Armored Tunic was tossed back into the void that led to her inventory, leaving Sarah unguarded against both ranged and melee attacks. Jack stood next to her and while his gaze swept across the fog, he was prepared to make a move if Jin and Marcus tried to make a move. Jack had already risked too much to save the duo and he wasn’t going to weigh his and Sarah’s life against two stranger’s morality.
+
+The paranoia that had rooted itself deep in Jack’s mind after his parents’s assassination had made him aloof and difficult to approach in the old world, leaving him with few acquaintances and not one he could truly call a friend. Robert might’ve gotten there had things not become so drastically bizarre and now he could only hope that somewhere out there, his British butler was alive.
+
+In the new world, it might very well prove to be a gift.
+
+The chestpiece of the Jade Guard Armor Set was a curious piece of armor, to say the least. Its base was fashioned out of a thick, deep-green leather that was ridged with small, rounded scales that were packed densely together, loosely resembling alligator hide. Of course, the scales were too consistent for such a thing, but Jack had to wonder if the sharp-toothed creatures had gotten enhanced by the system. He couldn’t help but shudder at the thought, allowing himself a quick prayer for Florida to whoever was listening.
+
+It was clear to Jack that the leather base was way too wide and dense for Sarah, but his attention was captivated by the thin sheets of metal that made up the second layer of the armor, having been shaped and fused into the ridged leather. The metal itself was a far lighter hue of green and to Jack, felt too thin to reasonably be able to offer any real protection from a steel blade, let alone a Qi empowered one.
+
+He was certain that he would be wrong on that front, but even more curiously, the armor was segmented, offering it’s protection in parts. The abs were guarded by six segments of the light green metal, each a slightly different size to form an ovular shape with its bottom sliced off. The gaps between the metal pieces didn’t make much sense to Jack, but the breastplate that was fused to the ridged leather didn’t connect to the backplate either. The rerebraces and the arm bracers were the only part of the armor that felt complete, with a gap left at the elbow to allow for comfortable movement, where the leather’s defenses would have to suffice.
+
+Sarah herself didn’t seem alarmed by the bizarre, if stunningly unique design of the armor, so Jack contented himself to wait as she wore the equally loose legguards over her mundane leggings. A fauld guarded her waist and hips, though it too had that odd separation between the front and the rear parts, while fused greaves guarded her thighs, knee in two segments and legs.
+
+One she had fitted it the best she could, she pulled out a pair of sabatons, with the jade metal layered over the leathery hide, covering most of the surface area available besides the sole, where the hide seemed swollen to accommodate the heel.
+
+The moment she had fitted into the shoes was nothing special. A few moments later, however, was a different matter.
+
+Jack dumbfoundedly watched as the gaps in the armor melded together as the metal began to flow, as if it was a liquid granted sentience. Moulding around Sarah’s form, it wasn’t long before the chestplate had become a single, night seamless unit. The same couldn’t be said about the rerebracers and the arm braces as a gap in the elbows remained and the hands and face were naturally still vulnerable. The legguards too had a very open vulnerability, leaving the back of the knees exposed and a small chink between the fauld and the greaves could be exploited, but in return, it felt seamless otherwise. The boots offered seemingly complete protection as well.
+
+“I’m not sure if you can get away with calling that armor,” Jack muttered, more to himself than Sarah.
+
+Her enhanced senses picked up on it though, before she proudly replied, “That’s good, because I don’t intend on sitting on the sidelines the next time we’re up against a horde of enemies.”
+
+Jack offered her an amused smile in return.
+
+After taking a few moments to stretch with her armor, allowing Jack to see how the metal flexed and seemingly even stretched by minute degrees to accommodate her movements, she once again reached out for her inventory.
+
+This time, Sarah pulled out a weapon he was acquainted with, a spear that was chiselled out of the same white marble-like material that made his moonsword.
+
+With the weapon and armor equipped, Sarah looked every part a warrior as one could and even Jack found himself assessing his odds in a fight against her.
+
+“Erm,” Jin’s soft voice cut in. “Sorry to interrupt, but is there anything for us?” She asked, gesturing towards Marcus.
+
+Jack remained calm, but Sarah seemed embarrassed as she apologized, “Sorry, I got carried away.”
+
+Jin nodded in understanding, having gotten back up to her feet after recovering her stamina.
+
+“Since you use a spear, I think my old one will serve you better in reach than that goblin-make one can,” Sarah said, as she offered the second spear in her hand by it’s rear end.
+
+Jin nodded, returning the goblin-made one to her inventory and accepting the basic, but longer spear.
+
+“As for armor,” Sarah’s eyes glazed over as she accessed the system, before refocusing. Pulling out the goblin-make armored tunic, she held it it her hand, her gaze moving from Marcus to Jin before she spoke, “I think this is too small for Marcus, so you take it Jin,” She offered it to the shorter woman, who gingerly accepted it, as if the inert armor would bite if she tugged at it too hard.
+
+“Thank you,” Jin softly said, her tone quivering as she tried to keep a hold on her emotions.
+
+Then Sarah turned towards Jack and asked, “Do you have anything that would fit Marcus?”
+
+Jack shook his head, before speaking to further clarify, “If I had gotten to loot those rift goblins, I would’ve gotten something. For now though, this chest piece and my shield is the only thing keeping me alive.”
+
+“Is there nothing you can offer me besides this… dagger?” Marcus asked, a note of frustration audible in his voice as he glared squarely at Jack.
+
+“There is something,” Sarah cut in, her tone assuaging as she reached out for her inventory and pulled out an ovular, amber stone.
+
+“A stone?” Jin muttered curiously, without any animosity audible in her tone.
+
+“Not any stone,” Sarah replied, offering it to Marcus. “You need to hold it and let it form a connection. Do it once and it’ll make you stronger.”
+
+“How?” Marcus replied, his expression scrunching up in confusion as he regarded the stone warily.
+
+“I don’t know,” Sarah honestly replied. “It’s just how the system works.”
+
+Marcus grunted in acknowledgement of her answer, but he didn’t accept the stone. Turning to Jin, he asked her, “Care to try it first?”
+
+Jin considered the question, her eyes flitting from Marcus to Sarah before she shrugged and answered, “Why not.”
+
+Sarah was happy to place the stone in Jin’s cupped right palm. For a few moments, nothing happened. Then Jin’s eyes went wide as she staggered backwards, catching herself before she could fall.
+
+Her eyes glazed over for a moment as she must’ve checked the system notification, then a smile bloomed on her visage.
+
+“It worked,” She excitedly said, her trauma and fear forgotten for a moment.
+
+Without a word, Marcus snatched the stone out of Jin’s hand. Sarah’s expression soured, while Jack just calmly watched as Marcus claimed the Body Cultivator feat for himself.
+
+Pulling the stone away from himself and letting it slip to the floor, Marcus recovered far quicker than Jin had and incredulously asked, “This stone makes you stronger?”
+
+“Yes and No,” Sarah replied. “From what we know, it’s something you need to use over time.”
+
+Marcus' gaze turned to the stone, a flicker of hunger flashing in his gaze as he reached for it.
+
+Jack moved with far more swiftness than Marcus was capable of, snatching the stone from under his hand and pulling back with two quick steps.
+
+Marcus’s fingers closed over air and as he straightened back up, it looked like he was fighting to keep his anger at bay.
+
+“The rest of you have some manner of items to keep yourself safe. Let me borrow the stone for a while, it’s the only chance I have at catching up,” Marcus made his cause more civilly than Jack expected, given the rage that had been smouldering in his gaze moments ago.
+
+“Sarah fought for that stone,” Jack calmly replied. “She bled for it and she was willing to put her life on the line to save you both. The greatest advantage it can offer in the short term has already been granted to you. As for armor, we’re going to encounter enemies sooner than later, so we’ll get you a piece on a priority basis,” He declared, as he offered the stone back to Sarah, who deposited it safely in her inventory.
+
+“Fine,” Marcus gruffly replied, clearly not satisfied by the offer, but not protesting against it either.
+
+It was only a matter of chance that he caught Jin’s expression as Marcus relented, her own eyes smouldering with anger as she listened to him speak. But Jin hadn’t been what had caught his attention, it was the flicker of white that now seemed to be speeding towards them.
+
+“Incoming,” Jack screamed, drawing his sword and positioning his shield even as he shouldered Jin to the side.

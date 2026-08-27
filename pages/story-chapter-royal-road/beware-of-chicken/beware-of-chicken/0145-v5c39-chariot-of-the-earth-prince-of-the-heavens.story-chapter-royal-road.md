@@ -1,0 +1,185 @@
+---
+id: f477ae40-8455-5a9e-8696-8bde4779b4cf
+page-type-slug: story-chapter-royal-road
+title: "v5c39: Chariot of the Earth, Prince of the Heavens"
+slug: 0145-v5c39-chariot-of-the-earth-prince-of-the-heavens
+partOf: beware-of-chicken
+position: 145
+ownLength: 2362
+unit: words
+ownProgress: 2362
+publishedAt: 2024-09-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1787240/v5c39-chariot-of-the-earth-prince-of-the-heavens"
+royalRoadId: "1787240"
+markedReadAt: "2026-06-29T18:56:15.858Z"
+---
+
+Chun Ke did not like fighting. He preferred to avoid it if he could, because he did not like hurting others. He had talked to his Big Brother about it. Big Brother always listened and always tried to offer good advice.
+
+Big Brother had said it was noble to solve things with words rather than violence. It was the mark of a great person to bridge grudges and make peace; to end cycles of violence so they would never grow again.
+
+But both of them knew that while it was noble to avoid violence… avoiding fighting, avoiding defending when fighting was hurting friends and family was not.
+
+There were some who would bring destruction for no reason. There were some who would not listen to words, no matter how many voices tried to reach them. To let them continue on their path was what was truly unjust. To refuse to stop beings like that was not moral.
+
+So Chun Ke once more marched to war, his wife steady upon his great back.
+
+Even with Big Little Sister asleep, the Earth was his friend. He knew this place, and this place knew Chun Ke. He had roamed far and wide over the land here. He had drank in the sun upon that hill, he had tasted the storms that shook those trees, and he had napped in that gully. He knew every stone and tree, each and every one a little companion that helped to make Fa Ram, Fa Ram.
+
+His stride was silent. His feet landed on boulders that he should have shattered into dust, but the rocks stood tall and firm, helping him on his way. The trees were missed by a hair’s breadth but did not shake or rustle because their friend asked for their silence.
+
+The snow parted from his path and closed again behind him, leaving no trace of his passing.
+
+Chun Ke was getting closer now. He could smell them. The foul stink that haunted Big Little Sister’s nightmares. The stink that had badly hurt Friend Lanlan. The stench of the wicked one who had nearly slain Chun Ke himself. The stink that corrupted, burned, and killed without any thought at all. It ate and consumed and destroyed; a pox upon all creation.
+
+Chun Ke knew that scent well… and felt nothing but pity for the broken creatures before him. They, who could only hurt and destroy. They, who could not see the beauty of this world.
+
+In some ways, ending them was a mercy—but they would be ended, and he would feel no remorse. They had come to destroy all Chun Ke held dear, and he would respond in kind.
+
+The beasts were oblivious to him even as he charged them head on. They did not know this land. They did not try to understand it. They could not understand it.
+
+Tusks that were lances thirty hands long were leveled as Chun Ke stepped between two trees and finally appeared before his foe.
+
+The demons spasmed. Their eyes widened. For a brief instant, the vanguard beheld Chun Ke.
+
+Chun Ke bellowed a warcry, his voice the hideous, wrothful roar of an avalanche bearing down upon a village. A thunder ripped through the air and night, heralding an unstoppable force of nature that would be the obliteration of all in its path.
+
+The artificial demons had skin like steel; they could rip apart castle walls with their bare hands; they could survive wounds that would slay a man a hundred times over.
+
+Chun Ke hit the vanguard and it shattered.
+
+The ones directly before Chun Ke simply ceased to exist. His tusks struck them and they perished, filling the air with black mist that was scattered by Chun Ke’s wake and Qi.
+
+The ones who were not struck by his lances were trampled. They were broken and shattered by diamond-hard hooves that crushed them into the earth—the breaks in their bodies filling with gold that consumed their taint.
+
+Those that were hit by his great bulk and hide soared. Cultivator-killing beasts were tossed into the air like they were children’s toys, every organ turned to liquid and every bone into a fine powder.
+
+Some were fast enough to react and fled out of his way. They jumped to the side, and then leapt at Chun Ke’s exposed flanks. Chun Ke paid them no mind, simply continuing his charge—he knew they would never reach him. For Chun Ke was never alone. His other half was with him, as she always was; a pillar of support that had never looked down upon him and would never abandon him.
+
+He could feel her preparing, awakening the swirling darkness which lay within her. He could feel her rage and what was hidden beneath. Wife loved the most and so she feared the most. Wife hated her power. She feared what it might be.
+
+Wife was kind. Wife was smart. Wife was pretty.
+
+Wife is strong.
+
+He sent his thoughts to her. She would not fall and he would be there for her forever.
+
+The power was a shadowed thing, born of despair. A void that strained and pushed against her will. It would devour the world to save the ones she loved. An unrelenting horror hidden beneath her graceful facade—and now she unleashed it.
+
+Her mouth snapped closed and she released terror and despair upon the wicked.
+
+The top half of an artificial demon disappeared mid-leap. The head of another. The chest and lungs of a third. A great invisible maw bit down, ripping and tearing the demons into the Void.
+
+Wife grunted in exertion. Yet instead of spitting out the monsters… he heard her gulp. She fed the swirling dark emptiness in her breast, consuming their essence and Qi. A black haze started to leak out from her body as she opened her mouth again, a vicious snarl on her lips.
+
+They left a gaping hole in their wake. Chun Ke listened to the earth as the surprise attack registered to their enemies. As the other flanks shifted in response, their rumbling feet changing in pitch, while the way to the center hesitated just slightly.
+
+Chun Ke sniffed. His nose was not as keen as Big Sister’s, but he could smell a leader. He could smell something more human further into the center of these beasts.
+
+Poison. The light scent of perfume, the stench of suffering.
+
+Yet Chun Ke did not head directly toward her. She would be strong. Mighty. As strong as the one who lit up the sky.
+
+Chun Ke did not know if he could win that fight… and that was not his job..
+
+He was to slow them down.
+
+So he turned, his feet sure, leading him down the best path. He stepped under a tree and through one of his friend-mole’s tunnels. He liked to eat the worms that dangled from the ceiling of this path.
+
+He strode across a branch used by birds to bathe in a river; they liked it because it was small and thin, too small for the foxes and mink to scrabble along. It bore Chun Ke’s weight well, without bend or dip.
+
+Through the secret paths he charged, circling around.
+
+The demons had turned. They were racing to the spot where Chun Ke had defeated them last.
+
+A boar as half as tall as the trees erupted from the woods behind them. Lances thirty hands long were leveled at their backs.
+
+The demons turned, shrieking in shock and anger.
+
+The Chariot of the Earth trampled them all underfoot, his warcry reverberating through the forest as the Demons were forced to halt again.
+
+=======================================================
+
+Huian frowned as the thunderous bellow reverberated through the night but paid it little mind. That was Chixia’s problem to deal with. What was more concerning was the churning clouds ahead, but the power within was only in the Profound Realm.
+
+Huian was still on schedule, approaching the target swiftly— at least until their own vanguard started screaming.
+
+Artificial Demons did not emote when in pain. Their nerves were dulled. They groaned and hissed, but this… this was an animalistic sound of agony.
+
+Huian grabbed the mind of a pawn close to the screaming and looked through its eyes. An artificial demon was staggering around and wailing as it convulsed, foam pouring from its mouth as it wept blood. It stumbled into another pawn, some of its black blood splashing onto it.
+
+That one stared at the spot where the blood had hit… then it started screaming too. It grabbed the afflicted arm and ripped it off, staggering away—only for a glass ball to fall from the air and shatter on it and another two, covering them with a mist of crushed glass.
+
+Poison. Of course, there was a poisoner. A skilled one to take down their pawns, as the artificial demons were normally quite resistant to that method of destruction.
+
+Damn it.
+
+Chixia would need to be warned. Huian distributed orders to their own forces to dodge the glass balls, and the artificial demons instantly obeyed. Another orb fell from the sky, but this one was dodged, as were the shards of glass—only for a series of tiny forms to zip through the cloud and throw themselves at the artificial demons.
+
+One connected, but the rest were easily swatted away with air-pressure or Qi alone, splattering the bugs against the trees.
+
+Poison, bug control… the defenders were unfortunately intelligent, but now that Huian knew what to look for some of their forces became blindingly obvious. Another order went out and the artificial demons started crushing the little creatures that were hiding amongst the trees. Mortals may have missed the insects, but while the artificial demons were not particularly intelligent, they were still cultivators.
+
+Forewarned and forearmed, the advance kept pressing.
+
+Until the power in the clouds spiked.
+
+They split with thunderous applause, lightning striking and blasting a long, sinuous form within.
+
+This time Huian’s jaw did drop.
+
+“A Dragon?!”
+
+=============================
+
+Wa Shi dropped the jar as his pupils dilated. His breath came in heaving gasps. Big Sis’s concoction made his blood sing in his veins; the taste was thick and syrupy on his tongue. It would go great with fried bread, and he would have to ask Big Sis to make him some sometime after this thatwouldbereallytasty!
+
+Wa Shi’s mind flew a hundred thousand li in a moment. He exerted himself to calm his racing thoughts. His body jittered. He forced himself to focus on the enemy and observe the situation.
+
+Vajra’s forces had briefly slowed them down.
+
+He could see his enemy. Their unnatural, jerking movements. He could hear their hisses and shrieks. He could sense their creeping corruption.
+
+It was terrifying.
+
+Every instinct told him to run. Flee, live, for you might perish. Any sane being would.Yet he could not.
+
+He promised.
+
+The cowardly carp, for that was what he was hidden beneath the form of a dragon, steeled his heart and drew fully on his power.
+
+What seemed like an age ago, an old turtle had asked Wa Shi what flow was.
+
+Wa Shi had replied: Q=V/t
+
+Wa Shi had not the Qi of his friends, he was not particularly strong despite being a dragon, but he had always known he had something to even the field. Wa Shi had long since learned everything Big Bro could teach him, the rest being vague understanding for he had never delved beyond what he needed. But he had never forgotten.
+
+Big Bro had taught him how the world could be understood by Math Formations. The secret source of the world’s movement hidden beneath the swirling numbers. It taught him how to make even a weak carp hit like the dragon prince he truly was. Now he would put his knowledge to use.
+
+Other people had to aim. They had to account for movement. Wa Shi’s was not so limited. His strikes would always be true, no matter how a foe tried to dodge. He knew where he was. He knew where his enemy would be. He needed nothing more.
+
+Connecting the points was just simple math.
+
+Wa Shi erupted from the clouds, eight balls of swirling water orbiting his coursing body. A spark of electricity formed upon his foes, forming a guiding current.
+
+The current hit the orbs. The great balls of water crushed in on themselves, and with a rippling series of cracks, they fired.
+
+The demons they were aimed at had no chance. The water pierced them, punching straight into their bodies.
+
+But the beasts barely slowed. The holes were too small, the damage too little to stop monsters such as these. Even the one who had taken a strike through the skull kept trying to move.
+
+Wa Shi’s first strike was just that; a first strike. A line of water connected to them now, and Wa Shi never stopped. Water flowed at a constant rate down the channels he had made, along with a burning current of electricity that made the monsters slow and spasm, buying the small amount of time Wa Shi needed.
+
+Wa Shi raised his hand, and snapped his fingers.
+
+Lightning erupted from Wa Shi and smashed into the connections, thundering down the web of water to every demon.
+
+Orbs of water that had formed within every single demon where the first strike had landed crushed themselves, miniscule holes forming in their containment.
+
+Spears of water erupted from inside the targets, stabbing out in a hundred different directions, tearing his foes apart from the inside.
+
+The demons collapsed as Wa Shi finally hit the treeline.
+
+Demons leapt at him. There were more cracks. This close the blasts were not needle thin, but blew holes the size of gourds in the monster's chests. Wa Shi’s mouth opened, and from it issued forth a torrent of light. Enemies fell, spasming, as Wa Shi added his own roar to Chun Ke’s—the world was split by the cracking boom of thunder, ripping and rolling over the hills.
+
+Lightning screamed and water burst forth with a never-ending torrent of shattering cracks as a Prince of the Heavens began his rampage with calculated efficiency.

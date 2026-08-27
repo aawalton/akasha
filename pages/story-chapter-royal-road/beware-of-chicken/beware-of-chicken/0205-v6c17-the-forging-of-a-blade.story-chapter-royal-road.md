@@ -1,0 +1,239 @@
+---
+id: 8359acdd-f18d-55bd-afcf-bf20e8f1f58a
+page-type-slug: story-chapter-royal-road
+title: "v6c17: The Forging of a Blade"
+slug: 0205-v6c17-the-forging-of-a-blade
+partOf: beware-of-chicken
+position: 205
+ownLength: 3154
+unit: words
+ownProgress: 3154
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2229007/v6c17-the-forging-of-a-blade"
+royalRoadId: "2229007"
+markedReadAt: "2026-06-29T18:58:22.668Z"
+---
+
+“I grew up in the Crucible, just like you—an orphan,” Gramps began.
+
+=============================
+
+He still remembered the flames. The crashing of the timbers, and the screeches of the stone.
+
+He remembered the smell.
+
+It would later be called the Great Crucible Fire. It would bloom into a city-wide emergency.
+
+The fire fighting companies hadn’t responded to the fires because the residents of the lower wards couldn’t afford their fees—and by the time they realised the scale of the fire, it was already too late.
+
+It was so bad a Master of the Cloudy Sword Sect descended, and personally beheaded every man who was found guilty of the debacle, before reforming the independent fire fighting companies into one commanded by the magisterial office, with the help of the Lord Magistrate of Crimson Crucible City.
+
+None of that particularly mattered to a boy with nothing left. All he knew was that if he had power and money, he wouldn’t have lost his family.
+
+That was what started Shen Yu’s climb.The feeling of powerlessness. Of helplessness. That his fate had been decided by somebody else… and they had decided that his life was worth nothing.
+
+The first order of business was to not have nothing.
+
+=====================
+
+“I worked as a street cleaner to earn my rice. I did jobs for the madams so I could sleep in their back rooms. I worked as much as I could, because I wanted more. I knew that the life of sweeping streets was not for me. Things would get better,” Gramps continued, his voice quiet.
+
+We had been the same.  His words brought my own memories forward. Of the stink of shit and the backbreaking labour. Of eating rats and scrounging, scraping for survival. Rou’s life had been shit. But the fire and will to survive had burned so strongly in Gramps’ guts that it was nearly a physical thing.
+
+I could see why he was so driven. And I understood.
+
+==================================
+
+He worked hard. He worked fast, and he worked long. And he started getting money. He listened carefully to conversations, trying to glean every advantage he could, and the rich and powerful men who visited the courtesans all had one thing in common. The red ladies of the night called it an education. They told him of the power of reading and writing.
+
+So that was what he would learn. He paid men to teach him. He asked for the few characters from the red ladies with his most charming smiles, and would work for free if the madams agreed to teach him.
+
+Shen Yu learned. And found that he quite liked the learning. The characters were beautiful things. Profound. They were the first key to having things. When he showed a man he could read and do sums, he got paid twice his normal wages—so, they were important.
+
+But for this victory, there was nearly disaster. One of the gangs caught a whiff of his payout. They were not common on the streets in those days, but the bowels of the Crucible have ever been good to those who wish to hide from the light. To think that the warren of tunnels that once sheltered the fathers of the Cloudy Sword Sect in their righteous fight against the Tyrant of the Crucible would later become a haven for the wicked.
+
+The gang surrounded the boy. They beat him, but he gave as good as he got at first. He was a scrappy thing, who spied on the city guards as they trained, and knew how to hit where it hurt.
+
+But he was outnumbered and outmatched, surrounded. The knives came out in vengeance for what had happened to their brothers. Shen Yu had been weak again. Helpless. It had welled up from his guts, a burning fire that made the men yelp as a boy nearly broke free from their grasp.
+
+Deliverance came in the form of a sword—and Shen Yu met his first Master.
+
+=================================
+
+“Master Chiang…he was a cultivator who had been crippled. Once a member of the Imperial Army, he had come to Crimson Crucible City to die. Yet even broken and a drunk, he saved my life. I remember seeing his movements, so fluid. The last fading dregs of his Qi, as he cut them all down. His sword… it was beautiful,” Gramps trailed off and sighed, before a fond smile came to his face.
+
+“It took me a week of bringing him booze and kowtowing before him to convince him to teach me. But teach me he did… but not like most masters, I think. He gave me nothing. Nothing but the basics. Nothing but the barest guidance to keep me from killing myself, and instead, he let me figure most of it out on my own. To this day I don’t know if he was doing the bare minimum out of laziness, or doing me a kindness. But that was what my foundation was made from. Myself. My own struggles. I don’t know what he thought of the speed of my advancement, for he neither praised nor disparaged my growth. For five years he was my Master… until the day he perished.”
+
+=====================
+
+“Leave me.” The words were from a throat filled with phlegm. His forehead burned with fever, and an infection had set in on the stump of his missing leg.
+
+“I have some money, Master!” Shen Yu begged. “I can get some medicine!”
+
+Chiang turned rheumy, barely seeing eyes on his disciple.
+
+“No. I’m not worth that, boy. My time has come,” he rasped. “I shall see my comrades once more.”
+
+“Master….”
+
+The man frowned, and let out a great sigh. “Go, boy, and live. Is that not your goal? To live, instead of just surviving? Take your future. Grasp it with your own hands, for nobody shall gasp it for you.” — His eyes sharpened like a sword on whetstone. — “Let nobody grasp it from you.” A series of coughs wracked his body as he lifted the sword that he had held for the past half-decade. “Here. I have no use for this anymore. Let this be my gift to you, worthless as a Master though I am.”
+
+Shen Yu’s trembling hands took the beautiful sword. His first blade that was not fashioned from a plank.
+
+Shen Yu kowtowed to the man who had taught him how to cultivate. “Thank you, Master.”
+
+“Fight, win, and live. Always be true to yourself. My path is the path of failure. Be better than this sorry end. Now go, boy. Leave me for the dogs—they were kind enough to warm me during the night, the least I owe them is a meal.” His grin was broken and crooked… but he looked genuinely amused by the thought. His breath rattled out in one last gasp.
+
+===================
+
+“Well, he had a sense of humour about it at least,” I said, cracking a grim smile at the gallows humour.
+
+The old man laughed. “He did. He told me about it when he was drunk, once, and forgot he had. He and his comrades had made bets on how they would go—outlandish, embarrassing deaths. Chiang bet that he would die in an alley and get eaten by dogs. I am an unfilial disciple, however. I could not bear the thought of dogs eating him, so I had him cremated, and bought the dogs a meal instead—so I robbed him of his final victory.”
+
+“Probably better for them anyway,” I said, shaking my head. “Did you go for the Cloudy Sword Sect after that?”
+
+“No. I had no knowledge of my strength, so I sought to test myself. They have academies for the rich, or for those who unexpectedly awaken their Dantian. I found their students. The ones who would go out into the city and ‘practise’ on each other. They were little better than the gangs at times. I challenged them. With My Master’s sword I defeated their least disciples. Then, those who I learned were in the middle of the road from the courtesans. Then the strongest. Then the Young Masters of their schools. This earned me my first epithet, though only my closest friends are alive to remember it.”
+
+“What’d they call you?”
+
+Taking a sip of tea, the man barely bothered to hide his smirk, “They called me the Academy Crusher.”
+
+===========================
+
+Each battle was difficult. Ech battle made him stronger. Each battle made him learn.
+
+He lorded his victories over his vanquished foes, as he had seen them do, where they laughed at broken bones and did their best to grind each other’s faces into the dirt.
+
+But every time, Shen Yu won. It was a heady, intoxicating brew. They formed squads to hunt him. They threw away all their honour and raced after him like hounds. But still, he prevailed. Still he won.
+
+He thought himself the best in the city, not realising that it was merely the Master’s courtesy to not squish him like a biting insect. In his arrogance, he turned his gaze skywards. The Cloudy Sword Sect was the best, they said.
+
+So he would join the best. He would rise to the top of the best. He would conquer the best.
+
+And then he ran face first into Xiao Ge, Young Master of the Cloudy Sword Sect.
+
+Shen Yu challenged him. Eager to prove his worth. Eager to claim resources. Eager to get stronger.
+
+==============================
+
+“Ge beat my arse like a drum,” Gramps stated bluntly. “As I lay there in the dirt, waiting for him to step on me, waiting for him to put me back into my place… instead, I was offered his hand. He said I had potential. He said I could do better, with the instruction of a Master. That was the day I knew the Cloudy Sword Sect was different. He brought me to his Master. My second Master, Zexian.”
+
+No wonder they were so close. No wonder he thought the sect was safe. To him, the Cloudy Sword Sect could only have been the best place for anyone to learn.
+
+“I guess I really should call him Uncle Ge, huh?” I asked.
+
+“Of course you should! Ge is my brother! Him and Ran. Oh, living in the sect in those days… it was perfect. I wish you could have had the same experience.”
+
+He sounded genuinely regretful. If I had the same experience as him, would I have left? The answer was, of course, no. Who didn’t dream of going on adventures and getting stronger with your friends?
+
+==========================
+
+It was under the banner of the Cloudy Sword that Shen Yu’s education truly began. Those fascinating shapes called characters became beautiful under his hands. His little allies, that let him read, and so become stronger. He learned of righteousness. He learned of the philosophy of the founders. He learned of the thousand thousand things that could make him stronger. That could make him truly live.
+
+He met like-minded people. Ran, their long-suffering friend who kept them on an even keel. Shou, who was so fun to tease. Yukong, who was from the streets like he was, and rising on her own power.
+
+He tempered himself there. He grew stronger. And then, the Masters allowed them to go to a tournament, he met her. Another one of the people who would become fixtures in his life.
+
+Tianzhe Minyan.
+
+He still remembered her blazing fire, despite looking so cold. She was hot-headed and passionate, and so, so beautiful. He defeated her in their bout. But like Ge had done for him, he offered her his hand. As a friend, because she had given him such a good fight.
+
+Looking confused, she took it.
+
+=======================
+
+“You’ve known her for that long?” I asked.
+
+Gramps nodded, and sighed. “At first we desired each other, but neither of us wished for marriage at that point in our lives. We were young, and reckless, and that arrangement suited us both. I honestly assumed she was seeing others as well, at the time.”
+
+I raised an eyebrow, a little bit shocked to hear him say that. It was surprising. Rather than saying “all the women are mine!” and getting a massive harem, Gramps was fine with it being that casual?
+
+“That's fair,” I said, and it was Gramp’s turn to raise an eyebrow.
+
+“Not many seem to think so,” he said, before sighing. “I’ve seen what men do to women they covet too fiercely. I’ve seen women who were kind to me broken due to obsession and lust. It's an ugly, wretched thing, and I am above it. They will either desire me and leap gladly into my arms, or they do not. The chase is fun, but binding someone to you, when you have no intention of reciprocating, is distasteful.”
+
+Which tracks, especially when the people who taught Gramps sex-ed were literal prostitutes. But I was beginning to see the problem, and Gramps had evidently seen it too.
+
+Minyan had fallen into the “fun, casual” category to Gramps. And with a lack of progress on each side… well, no wonder that a misunderstanding could happen.
+
+===========================
+
+Shen Yu went on a hundred thousand adventures, and met a hundred thousand people. He fought a hundred thousand battles, and won every single one.
+
+But it was not without its costs. Fellow disciples of the Cloudy Sword Sect. Lovers he had taken, who became targets. Villages he had befriended, broken ruins when he wasn’t there to protect them. Cultivators he had rivalries with, who were not near him when the battle was joined.
+
+But still, he grew stronger. He grew more powerful. He became a Champion of the Cloudy Sword Sect… and then he began examining himself.
+
+For as the Honoured Founders said, everything must be able to hold up to scrutiny.
+
+Including the words of the Founders themselves.
+
+He examined their laws, he examined their teachings, and though he found himself agreeing with most of them… there was friction.
+
+And Shen Yu realised that with so many laws and duties, he would never be able to properly grow. He would never be able to be true to himself, if he remained within their framework.
+
+He went to the Elders, and kowtowed before them, telling them of his findings… and his conclusion.
+
+He offered them many things, in exchange for his departure. Favours, and promises. Oaths of duty, and enough resources to rear an entire generation of the Sect.
+
+Instead, the Masters looked upon him, and Zexian spoke.
+
+“It takes a wise man to know himself so truly. Go with our blessing, Shen Yu. and know, as long as you remain a righteous man, you will always have a home here.”
+
+Shen Yu was never removed from the rolls of the Disciples. The Elders said he owed them nothing. But whenever the Cloudy Sword Sect called, Shen Yu answered. Without hesitation, and without thought for reward.
+
+======================
+
+And so he wandered alone, and without anyone to stand beside him.
+
+He explored the most dangerous places. He pushed every limit he could, whilst doing his best to be a righteous man.
+
+And during a battle that nearly killed him, he realised more of his own flaws.
+
+So he reforged himself. Down to his foundation. Every crack repaired, every piece that was superfluous cut out.
+
+It took him a mere sixty years.
+
+And when he emerged again from the cave he had chosen, Shen Yu truly was a blade.
+
+He fought. He won. He traveled. And he began to make something of his own.
+
+He received land for meritorious deeds from the Emperor. He had resources aplenty. Villagers and those he had saved, he offered succor in his lands, so that he would always be able to defend them.
+
+Shen Yu’s home grew. It grew, and it grew into a wonder.
+
+And then, one day, he met his other half.
+
+========================
+
+“Her name was Qinxiao,” Gramps whispered and I understood instantly. I felt a sinking feeling in my gut. I had a feeling that I knew where this was going, and it was nowhere good. “She was… indescribable. My own words will do her only injustice, but I will try to convey to you Qinxiao. What I first saw was her warmth. She put on no airs. She had no need of them. She simply was. She was strong and fierce and yet soft and welcoming. She was a woman who knew herself. She knew herself like I knew myself, and I instantly knew that she was… special.”
+
+================================
+
+It only took five years for Shen Yu to fall utterly in love with her. For five years they travelled together, slaying demons, bringing low demonic sects, and finding resources without compare.
+
+They shared every single one of them equally. They fought together with the perfect knowledge that they would never betray each other.
+
+Her laughter was bright and came easily. Her mind was the finest blade. She was warm and welcoming to friends, and an unflinching titan to foes. She did not need him; yet together, they were more than the sum of their parts.
+
+Shen Yu knew, at the end of those five years, that this was the woman whom he wanted to spend all of eternity with, for they would surely reach immortality together.
+
+And she wished it too.
+
+“Just the two of us, in this world, and all the rest,” she said with a soft smile and a giggle.
+
+If that was her desire, then it would be so. If that was her wish, he would never touch another woman, save her. He would covet no others.
+
+=============================
+
+“Minyan took it… poorly,” Gramps said with a grimace. “I hadn’t realised the extent of her desires until that point. I thought, like always, what we had was… casual. I was wrong, and I hurt her. But I would not go back on my decision.”
+
+I nodded, but didn’t trust myself to speak at the moment, as Gramps stared off into the distance. Things were… raw, when he talked about his wife. I could feel the pain in his voice.
+
+But he forged ahead, even though his voice wavered.
+
+“Together, we had a son. His name was Shen Bu. I still remember his birth. How he grabbed my finger, when Qinxiao handed him to me. I remember walking into the courtyard with him. How many of my retainers, my friends, were there, to pay their respects. How bright the sun was, and how perfect the breeze. I swore then that my son would never know the brutality I had been through. Would never know the hardship. From the start, he would grow properly. If I became strong despite my start, then, like the Young Masters, like Ge, he could grow stronger with a better foundation than me.”
+
+Gramps deflated.
+
+“And in the end it was that promise that ruined him.”

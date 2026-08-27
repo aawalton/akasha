@@ -1,0 +1,159 @@
+---
+id: f0a2207c-c652-5eec-b749-90b9148f14d9
+page-type-slug: story-chapter-royal-road
+title: "v4c24: The Fox Trap"
+slug: 0033-v4c24-the-fox-trap
+partOf: beware-of-chicken
+position: 33
+ownLength: 1890
+unit: words
+ownProgress: 1890
+publishedAt: 2023-07-18
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1280864/v4c24-the-fox-trap"
+royalRoadId: "1280864"
+markedReadAt: "2026-06-29T18:52:28.492Z"
+---
+
+‘You asked one of these inquisitors if he was in a sex cult?’ Ri Zu squeaked in her rat form from where she was pressed against his chest, interrupting Yun Ren’s retelling. It was the middle of the night and Yun Ren was laying on his side, all his senses peeled as he searched for any watchers that might be observing him as he ‘slept’.
+
+He was still kind of paranoid about what had happened. He had even resorted to using illusions to ask Ri Zu to come over in the night to talk to him. She had obliged him, waiting until Yushang was asleep before sneaking out, leaving behind some pillows in the shape of her body and wearing her clothes before transforming into her rat form and making her way to his room.
+
+Well, as Jin would say, it wasn’t really paranoia if somebody really was out to get you.
+
+“It seemed like a good idea at the time? Break the tension, yanno?” Yun Ren replied with a whisper.
+
+The rat just sighed and shook her head.
+
+=================================
+
+It had started out innocently enough. Yun Ren had been heading out to get a job after lunch when he was approached by a nondescript looking man wearing the robes of a higher ranking disciple.
+
+“You there. I have a job that needs doing. Come with me,” he demanded, pointing at Yun Ren.
+
+Yun Ren was rather used to the higher ranking disciples being kind of assholes at this point, so he just sighed internally and said, “Yes, Senior Brother.”
+
+He followed after the man as they went up the mountain. At first, there was nothing out of the ordinary about things, until he noticed that the path he was taking was filled with twists. If there was one thing besides recording images Yun Ren was good at, it was keeping his way, and so he was fine—but the hairs on the back of his neck stood up when he could feel people watching him that he couldn’t see.
+
+When they came to a wall with a nondescript looking door in it, he was ready to bolt.
+
+The urge to cut and run was intense, but he could feel the creeping sensation of someone watching him.
+
+He was definitely being taken somewhere secret—and then it hit him as Yun Ren realised that these must be the ‘Inquisitors.’ The man wasn’t wearing the black uniform they were said to wear, instead dressed as any other disciple. These were the men that were spoken of in whispers by the other disciples of the Shrouded Mountain Sect… and hatred by Nezuhua. While the rank and file of the Shrouded Mountain Sect rarely, if ever, caught foxes anymore… these guys did. The black-clad killers. The people who spirited away foxes in the night.
+
+“Follow me,” the man in front of him, suddenly clothed in the black robe and veil, said and opened the door.
+
+Yun Ren hesitated for a moment before reluctantly obeying. If this was the Inquisitors… he couldn’t exactly run.
+
+He followed the man through the door, down a set of stairs and into a cramped storage room, where there was a single desk waiting for him.
+
+“Sit, please,” the man commanded.
+
+Yun Ren sat.
+
+==============================
+
+And then Yun Ren called him a sex cult leader. Again, it had seemed like a good idea at the time, but sometimes his mouth got the better of him.
+
+‘So? What happened? If they thought you were a fox, you would still be down there,’ Ri Zu prodded.
+
+“That's the thing… they didn’t say anything about foxes, at least at first. They weren’t even that intimidating, besides the whole dark clothes and masks thing. They asked me if I knew why I was there—I said no, of course. I had no damn clue, and you never volunteer information.”
+
+Ri Zu glanced at him. ‘That sounds suspiciously like something a criminal would say.’
+
+“Verdant Hill isn’t all sunshine and roses—some bastard stiffed Gou, so I—well, the guards still don’t know who kicked the shit out of that shopkeep, but nobody fucks with my little bro, yeah? And, uh, don’t tell Mei either. Nobody knows I did that. ”
+
+Ri Zu just rolled her eyes. Maybe it wasn’t the best idea to confess that to Mei’s disciple, but hopefully, she’d stay quiet.
+
+Yun Ren cleared his throat and began his story again.
+
+==============================
+
+“Well, you can be rest assured, you are not in any trouble, Disciple,” the man said, sounding almost kindly. “No, Gen Biren, instead… we come to you with a unique opportunity.”
+
+“Unique opportunity?” Yun Ren paused, glancing at the black uniforms.
+
+“I see you have some idea of what we are asking, Disciple,” the man said, his eyes on Yun Ren’s face.
+
+======================
+
+‘They just asked you to join,’ Ri Zu deadpanned.
+
+“Yeah. It sounded… well, real damn dumb, and I told ‘em that it was. I’ve only been here a month, and that wasn’t enough time to be even trusted with cleaning these guys' sandals… And then he agreed with me. Said it was good I was thinking like that, but they had their reasons.”
+
+‘… suspicious.’
+
+“Yeah. They've also been watching me for a while.”
+
+‘How long?’
+
+========================
+
+“We first noticed it during your examination—a blinding flash of light,” the veiled man had said. “It was why we told the instructor to fail you, despite you achieving high marks. Your achievements were noted: you escaped the Spirit Beast in good time and good order while preserving your strength—all essential qualities for that position. The Head Outrider was quite upset he couldn’t have you, but your abilities warranted further observation, and we could not do that when you were charging across the province.”
+
+Yun Ren blinked, surprised. The man had looked down with contempt when he had failed Yun Ren. Had that actually been anger that he had been told by somebody else to keep him back?
+
+“Our interest and request have proved to be… quite right. Your Qi, it contains quite an interesting property.” He pulled out a vial of what looked like mist. An illusion, captured—Yun Ren suddenly realised what this was about. “If you please.”
+
+=========================
+
+‘It disrupts illusions—and you’ve been using it on the mountain—the mist stays away whenever you use one of your moves!’ Ri Zu squeaked.
+
+“Yeah.”
+
+‘They want to use you as a weapon against the foxes, don’t they? If they think they can recreate your light…’
+
+“That’s what I’m guessing. Shows us for thinking this would be as easy as walking in the front door… but at least they don’t think I’m a fox and aren’t going to kill me, eh?” Yun Ren tried to joke.
+
+Ri Zu sighed and pressed against him.
+
+‘Then what happened?’
+
+=================================
+
+“Gen Biren, we would like to offer you this special opportunity to be of great use to the Shrouded Mountain Sect.”
+
+This was way too deep. Getting inducted into a sect was fine. Getting inducted into the organization that Nezan and Nezuhua had specifically told him to avoid?! This was like… the definition of in over your head.
+
+And yet… these guys held all the secrets, didn’t they? They were the guys who stalked people in the night. If they had any information on the demons… well…
+
+Yun Ren knew his curiosity was getting the better of him. A slight thrill tingled down his spine. And, well, big brothers were supposed to take the biggest risks… he would just have to find a way to contact Shen Yu just in case this bit him in the ass.
+
+He swallowed thickly. “My friends will be suspicious if I suddenly disappear.”
+
+The man nodded. “Good! Already thinking—but it shall be no trouble. You just have a new job fixing things in the illusory zones. You may still join them for lunch and maintain your existing sleeping arrangements, provided you… exercise discretion.”
+
+Yun Ren was actually slightly surprised at the permissiveness, and the man chuckled.
+
+“The carrot is used liberally for our little organization, Gen Biren. Go to your friends. Return here tomorrow, ready to assume some new duties.”
+
+===============================
+
+Yun Ren was ready for an explosion of angry squeaking that he had agreed—but instead Ri Zu just pressed against him tighter.
+
+‘It's not like you were in any position to refuse,’ the rat whispered to him. ‘We’ll figure this out. And Ri Zu trusts you. The wily fox won’t be caught in any hunter’s trap.’
+
+That… was the nicest thing somebody had said to him in a while.
+
+He waved Ri Zu goodbye as she went back to her own room and sighed, laying in his bed.
+
+He reached down and grabbed Summer’s Sky’s sheath and with a bit of finangling popped the end cap off and revealed a small storage ring, courtesy of Nezuhua, the owner of the brothel. It was a small and weak one… and Yun Ren had kind of had wanted his first storage ring to be the one Biyu was making, but it was something, at least. He took a recording pane out of it—his original one—and touched it, calling up an image and some memories.
+
+On the eastern side of the mountain, near the base, Yun Ren had found a small bit of a fox’s illusion. He had nearly missed the little crevasse, hidden as it was by tree roots and shrouded in mists—in fact, the reason why this little place was missed was because the illusion itself flicked off, and only became solid again when the mists grew thicker.
+
+It was a tiny little hole… and it would have been utterly unremarkable, save for the fading remains of an illusion over it.
+
+So he entered. It was kind of a tight squeeze. He was greeted by spiders, and a bat. The floor of the little cave was covered in dirt, and if it hadn’t been covered in an illusion, Yun Ren would have believed it was just a cave. So he went looking further, until something on the back wall caught his eye. He wiped away the grime, revealing faded characters carved into the wall.
+
+He couldn’t help but snort with amusement as he read them. “No boys allowed” they declared. Underneath that, in slightly smaller characters, and written by somebody else, was an aside of “except Yuhan.”
+
+He had wiped some more grime off, revealing the rest of the wall. There were the carvings of five girls—four with fox-ears, and one without—and what seemed to be another human boy. On the other side of that was another boy with fox ears… who had a turd covered head and comical swirls for eyes.
+
+There were names carved under the group that had made this place home.
+
+Nezai. Shurong. Shumao. Leizin. Jing. Yuhan. The turd guy had “turd face Nezshit” written under him.
+
+Maybe they had living descendants still living… but maybe they didn’t. Either way, it was kind of cute. And the fact that there were human kids allowed on the mountain… well, that certainly put a bit of a hole in what the Shrouded Mountain Sect had been talking about.
+
+He sighed, looking at those kids who had once called this mountain home.
+
+Well, if he was in deep… he might as well keep swimming down and see what the bottom held.

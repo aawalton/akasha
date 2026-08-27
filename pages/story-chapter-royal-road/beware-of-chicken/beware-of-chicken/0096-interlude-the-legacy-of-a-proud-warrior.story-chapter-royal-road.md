@@ -1,0 +1,143 @@
+---
+id: beab4808-3032-5d6f-b23a-1a63d7823eac
+page-type-slug: story-chapter-royal-road
+title: "Interlude: The Legacy of a Proud Warrior"
+slug: 0096-interlude-the-legacy-of-a-proud-warrior
+partOf: beware-of-chicken
+position: 96
+ownLength: 1919
+unit: words
+ownProgress: 1919
+publishedAt: 2024-02-09
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1511645/interlude-the-legacy-of-a-proud-warrior"
+royalRoadId: "1511645"
+markedReadAt: "2026-06-29T18:54:44.630Z"
+---
+
+Rearing the striker back, he swung forwards a second time. The Gong sounded; its call a command that would have the White Tigers gather. It made his ears ring, being so close to the loud noise. It was scary, like thunder! But Big Sis had asked him to ring it! So he did! He was a good boy!
+
+He dropped the striker (it was not for chewing, no sir!) and turned, racing off to the meeting ground. He was speed incarnate! He was faster than fast! He shot along the corners, his mind fixated on the muster grounds.
+
+The few people in the halls either got out of the way or tested his agility as he dodged around them! Both were good! He made sure not to hit anybody because he was a good boy! Big Sis said he could hurt people, and he didn’t do that. Well, not to good people. Bad people were for killing, like wolves were for killing—sometimes. Big Sis taught him that.
+
+He didn’t entirely get it, but he listened like a good boy. He was always a good boy. All the people said so!
+
+He was called Shaggy, Second of his name. His father, even though he couldn’t remember him, had been Shaggy as well! He too had been a good boy—the best boy, Big Bro said. He had died a long time ago, and he had been a proud warrior, defending his village.
+
+Shaggy Two hoped that he could be as brave as his father.
+
+“Good morning, bud!” a voice called out and Shaggy Two immediately whipped his head to the side.
+
+‘Big Bro!’ he shouted back happily. Oh heavens it was Big Bro! Big Bro was his favourite! The best human! The human whose smell was so imprinted in his mind that he could never forget him, never ever! He was wearing his awesome mask and had on his cool cloak and amazing spear and Shaggy Two hoped that one day he could have a spear like that! It was like a big stick he could carry around all day—ah! His tail was wagging too hard! His back end was skidding and that wasn’t good!“Oh? I almost heard you that time!” the other human beside Big Bro said. Raggy was a good human too! He gave Shaggy Two treats and scratches! But he couldn’t hear Shaggy Two when he spoke. Well, he could hear his barks, but not his words! Most nobody could! Only Big Bro, Big Sis, and Yin-jie could. Big Sis and Yin-jie said more people would be able to hear him as he got stronger, but he didn’t really mind. Even if they couldn’t understand him, they could understand him. Barking was great like that!
+
+They raced into the muster grounds. It was a very big place and very old, with all sorts of interesting smells that he stopped himself from checking out. Big banners fluttered in the wind. Some of them said “Azure”, and there was a big one with a White Tiger on it. Shaggy Two paid his respects to one of the guardian beasts, and then he turned and trotted over to the end of the courtyard.
+
+Big Sis was already there, being the fastest person Shaggy Two knew! She turned and smiled as they all jogged to a stop before running her fingers through Shaggy Two’s fur. He leaned into the touch. It felt very nice. Her fingers were strong, and she was tanned and she smelled like the sun and vaguely like something he wanted to chase and also like a big predator.
+
+Part of him screamed at him to bark and drive her off, but he wasn’t dumb.
+
+Big Sis was also a guardian, like him. All the predators would run away from her, making their job of guarding people easier! How fantastic!
+
+“Good job ringing the gong, my Disciple,” Big Sis said warmly. Shaggy Two barked happily at her praise. “We shall be training hard today, so prepare yourself!”
+
+Shaggy Two nodded and marched over to stand beside his Big Bro and Raggy. Yin-jie was next into the courtyard, and she also gave him some scratches. Loud Boy, who could bark very loudly, hopped from the wall of the courtyard to stand with them. They were all behind Big Sis, lined up.
+
+And then the gates on the other end of the courtyard opened, admitting the rest of their pack. Or their pack in-training, as Big Sis said.
+
+They needed to be strong and skilled to be proper guardians of the flock, because it was very, very big!
+
+So big Shaggy Two couldn’t comprehend how big it was.
+
+Shaggy Two stayed quiet and still as he watched the people file in. It was a bit hard not to greet them and inspect the people entering their domain to make sure they weren’t threats, but he managed. Even though the one person in the back was making it very hard. He smelled delicious—like beef.
+
+Beef was very yummy.
+
+Shaggy Two licked his lips but stayed put.
+
+Big Sis nodded as everybody assembled. “Your speed is acceptable—but next muster we shall be even faster. Now, today we shall be working in randomized teams…”
+
+Shaggy Two listened intently as Big Sis made their big pack into smaller packs so that they could hunt better. The other people listened intently.
+
+Big Sis said most of these people were from the people without a pack, the “sectless”, so they needed to learn how to work as a team! There were people from the big packs as well, and they were a lot better at fighting and working together, so they all needed to learn from each other!
+
+“Shaggy Two! You’ll be with Grey Team. Hunter!” Shaggy Two perked up as his packmates cheered, while the others looked distraught.
+
+“Damn it. This is going to suck. The Captain's pet finds everyone,” he heard somebody mutter.
+
+He was right! Shaggy Two found everybody! Always!
+
+They trained long and hard—just the way Shaggy Two liked it!  He chased and chased and chased. He stayed quiet when they were stalking and ran out and barked while his pack came in from the other side. And he stayed awake for all of it. Sometimes when he was hunting he felt his head go blank and some of himself slip away, back to how he was before he could think better. He didn’t really mind it, but Big Sis said to keep it under control.
+
+So he did! He was a good boy!
+
+After the hunting and the chasing, they had combat training! People would pair up and spar. Shaggy Two helped Big Sis with demonstrations as she showed them how to fight wolves, since he was roughly the same shape. He would get to spar again later too, and then one of his pack would really trade pointers with him.
+
+After sparring they all ate food together, and then Big Sis split everybody up again. This time, a bunch of their pack went to study maps and talk about how to split up patrols, while Big Sis went to teach again.
+
+“Today you will be doing supply procurement,” Big Sis commanded. “I have a list of everything we need, and you will have to source this material.”
+
+She handed out the pages to the people who were left. They looked relieved… but today Big Sis was being sneaky!
+
+Today wasn’t a lesson on supplies! It was a lesson on ethics! She said it was the most important thing a person could learn! Shaggy Two didn’t really get it, but if Big Sis and Big Bro and Raggy and… well, everybody important all said it was important, it was!
+
+The sectless people were normally pretty good at these questions. But the people from the big packs needed more time to learn, for some reason.
+
+He still remembered Big Sis’s words. It was actually one of his first concrete memories.
+
+==================================
+
+They had been talking about what to do if a village was damaged. That much Shaggy Two remembered. They were discussing how to best compensate the people of the village, and how to rebuild what had been broken.
+
+“They’re just mortals. What should it matter?” one of the men had said. He looked bored.
+
+That lasted until Big Sis’s eyes focused on him completely.
+
+“They are not only mortals. They are the reason for our existence. Our only mission is to protect the people of the Azure Hills. I will not have the very people we are supposed to defend run in fear from us because we destroy their homes and hurt them without a thought,” Big Sis went from kind of scary to calm.
+
+“We will be operating throughout the entirety of the Azure Hills. We will be trusted to go onto other sects’ lands, if that means chasing down our quarry. The Elders are looking for a reason for this not to work. They’re looking for a reason to say all their old grudges were justified, that they should once more close down their borders and return to the old ways. We cannot give them this reason. We cannot make any mistakes. We must be paragons beyond reproach, beyond any accusations of spying or damaging another sect. This is a duty. We shall train as if we are going to war tomorrow. We will strive for perfection—for a better future for everyone.”
+
+The man hadn’t asked if the mortals mattered after that.
+
+=======================
+
+And today, Big Sis had a test. A test that needed all of Shaggy Two’s pack to help them!
+
+They snuck over the buildings, each member of the pack assigned a person. Shaggy Two was with Big Bro, as was only right. They tailed their quarry out of the big mountain and into the town. The man glanced at the note he had been given, located a shop, and nodded.
+
+“Excuse me, sir, I require several wooden barrel—”
+
+“Eh? Sonny, you’ll have to speak up!” somebody inside the shop shouted. “My ears ain't what they used to be!”
+
+“I need a—”
+
+“Louder than that, sonny!”
+
+Shaggy Two heard the man’s teeth start to grind.
+
+==================================
+
+Their quarry, in the end, managed to finish his list! Even though he met a lot of annoying people! Even though he ground his teeth a lot, he passed Big Sis’s test!
+
+He was a very good boy! Shaggy Two praised him!
+
+They finished for the day. They had a very nice dinner, and Shaggy Two got a steak!
+
+Then he sparred with Yin-jie and Big Sis, and then it was time for bed.
+
+He curled up with Big Bro.
+
+“Man, what a day,” Big Bro sighed. “Never thought I would be here.”
+
+‘Big Bro belongs!’ Shaggy Two comforted him, and Big Bro laughed.
+
+“Thanks, buddy. Do you want to hear another story about Shaggy tonight?” he asked.
+
+Shaggy Two barked happily.
+
+And so the tale began. It was a nice, peaceful tale. The thing Big Bro talked about the most when he told stories of Shaggy Two’s father was not his razor teeth or booming voice, but instead his kindness. How he would let children ride on his back, and talk about how gentle he was with the lambs that used his body for shade.
+
+Shaggy Two felt pride bloom in his chest. He had a great legacy to live up to!
+
+He was Shaggy, Second of his name!
+
+And all the People of the Azure Hills would be his flock.

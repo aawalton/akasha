@@ -1,0 +1,113 @@
+---
+id: f5175158-714f-5ff1-b39f-8d861d8e2ea2
+page-type-slug: story-chapter-royal-road
+title: "Interlude - The Magic Elements Explained!"
+slug: 0004-interlude-the-magic-elements-explained
+partOf: beneath-the-dragoneye-moons
+position: 4
+ownLength: 1392
+unit: words
+publishedAt: 2020-11-11
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/583066/interlude-the-magic-elements-explained"
+royalRoadId: "583066"
+---
+
+The elements!
+
+We can see the 8 basic elements forming a circle around the edge - Fire, Dark, Earth, Wood, Water, Light, Wind, and Metal.
+
+Around those, we see Inferno, Void, Mountain, Forest, Ocean, Brilliance, Gale, and Mantle. These are all "Intensifications" of the basic elements. In other words, Inferno is when Fire meets Fire, Gale is when Wind meets Winds.
+
+How do you get these elements? The USUAL rules (Which Elaine promptly violates) is to have one, or both, of the elements in a Class, then do something relating to that element, while also doing things related to that element's domain. I like blacksmiths for example.
+
+A blacksmith might have a Metal and/or a Fire class. This alone won't be enough for him to get offered a Mithril class, or something similar. They'd need to work with Mithril, and not just a bit. After all that, with other mysterious criteria, they might be offered a Mithril class.
+
+Sometimes, you can just get offered an element out of the blue, like Elaine was. Those are rare.
+
+Jumping "sideways" from one basic element to another happens all the time. It's nothing noteworthy. However, it's extremely rare for an element to evolve to a secondary element it has no affiliation with. Dark will basically never turn into Mist, and it'll never turn into something that contains an opposing element - for example, a Dark class can't turn into Mirage, because Mirage is an evolution off of Light. This doesn't apply to starter elements.
+
+A bit confusing. Let me explain some more secondary elements, and it'll become clear.
+
+Fire + Earth is probably the easiest example. They merge, and become Lava, since Lava requires both, but it's greater than Fire and Earth. Lavamancer!
+
+My attempts at posting Excel tables in here have failed a ton, so instead of a pretty chart, it's going to be manual typing. Hurray.
+
+There was an order to this originally that got mauled horribly. Without further ado:
+
+Dark + Dark = Void. Think standard void mages. Please note that this is almost purely destructive, and a different element from Spatial, which we've seen offered on the [World Traveler] class. Almost pure destruction.
+
+Dark + Earth = Gravity. Fairly standard making things heavy, making things lighter, and increasing forces. Artemis was a Gravity mage in a few early drafts!
+
+Dark + Fire = Pyronox. Teased in chapter 4, they're dark flames that burn with purification. It takes the concept of "Cleansing" and "Destruction" that's both in Darkness and Fire, and brings it to life. I think I can do some really neat things with this.
+
+Dark + Metal = Spatial. It's a bit more abstract how I got here. The darkness of space, the technology and shiny reflectiveness of metal. All the standard spatial magic goes here.
+
+Dark + Water = Ice. Water forms the base, and Dark sucks the heat out to create Ice magic.
+
+Dark + Wind = Miasma. "Bad" Air. Closely related to, but different from Mist and Poison.
+
+Dark + Wood = Decay. Part of the circle of life, something that Wood deals with a lot. The end of it is Decay, breaking down current life, preparing for new life.
+
+Earth + Earth = Mountain. An intensification of Earth. Bigger. Stronger. Heavier.
+
+Earth + Metal = Gemstones. Attuning stones to grab and store skills, which is the same as grabbing and storing magic. Elaine's Diamond was the result of a Gemstone mage "attuning" it so it could store skills. I have many plans for this. More of an artisinal alignment, although it's possible to use in a fight.
+
+Earth + Wood = Erosion. If Decay handled living things, Erosion handles structures. Both Earth and Wood can erode things - earth through earthquakes big and small, and wood through trees growing through things.
+
+Fire + Earth = Lava. See above!
+
+Fire + Fire = Inferno. Fire burns. Inferno consumes.
+
+Fire + Metal = Magic Metal*. And by this, it's an abstraction - there are dozens of tiny elemental variations in here. Mithril. Adamantium. It's the ability to work and shape that material directly, although there's an inability to conjure up the material. Regular Metal-aligned people can't work magic material with skills - it inherently resists. Useful property when making armor, PITA when trying to work it.
+
+Fire + Water = Steam. Not my most brilliant moment. To be fair, it can't be done with either element alone, but it just feels bleh. A slightly more brilliant moment was when I tried to use Geothermal as an alternate element, catering to mer-folk and other creatures that live under water, but I'm not quite sure if I'm following through with that idea. What does geothermal even DO that water alone can't?
+
+Fire + Wind = Storm. The fury and power of fire, when it meets the element of wind, can make a mighty storm. Artemis was also almost a storm mage, then I mathed out her power levels compared to a storm, and realized I'd be lucky if she could make a tiny amount of rain, forget a full-blown storm. When we see this, it'll be good.
+
+Fire + Wood = Ash. Burning embers, coal, tendrils of burning heat and the fading light of embers. Has quite a few added "concepts" behind it, including the cycle of life
+
+Light + Dark = Celestial. One of my more inspired moments - What's else is a brilliant juxtaposition of Light and Dark than stars and the moon twinkling on the backdrop of the void? Now, what Celestial does is a different question....
+
+Light + Earth = Arcanite. The ability to shape and manipulate the ubiquitous mana crystals. Another more artisinal element, although using it as a support class could lock someone out of using their own crystals in a fight.
+
+Light + Fire = Radiance. Light can't hurt anyone. The burning light of Radiance can.
+
+Light + Light = Brilliance. An intensification of Light. Brighter. Stronger.
+
+Light + Metal = Mirrors. And possibly, the ability to mirror skills and spells!
+
+Light + Water = Mirage. Light on its own can only produce a white light. Water can bend light, and when the two are together, you get Mirage, which is where illusion-based magic lives.
+
+Light + Wind = Sound. From cutting noise, to an inspirational bard, Sound binds them all. A bard getting to sound in the first place might be a bit hard though.
+
+Light + Wood = Verdant. Growing power! We saw an early demonstration of this in Chapter 5 where plants were rapidly grown. Mostly used in agriculture, although a druid could use this to make plants grow fast in a fight.
+
+Metal + Metal = Mantle. I had a lot of debating if this could be Mantle or Core. Core was more technically correct, but Mantle was cooler. Rule of cool won.
+
+Water + Earth = Ooze. Slimes and other sticky problems!
+
+Water + Metal = Acid. Some science creeping in here. Deadly, melty acid. Sure, Bases are also pretty strong, and can do nasty stuff, and the class can handle bases. But between "Acid" and "Base", one sounds much better, and rule of cool strikes again.
+
+Water + Water = Ocean. Bigger. Deeper. Higher pressure. The monsters in the deep.
+
+Water + Wind = Mist. Some minor illusions here, confusion, mis-direction.
+
+Water + Wood = Coral. All living plants (And some creatures) under the sea. This one gave me tons of problems.
+
+Wind + Earth = Sand. Somewhat related to Erosion, but it can preserve as well as whip up a sandstorm. Death by a thousand cuts - then they'll preserve your body for a thousand years.
+
+Wind + Metal = Lightning. [Lightning Bolt].
+
+Wind + Wind = Gale. Faster. Bigger. Sharper.
+
+Wind + Wood = Spore. Thousands of tiny plant seedlings, carefully controlled. Can also be used with toxic fungus spores.
+
+Wood + Metal = Poison. Wood can have weak poisons. Metals can be poisons. Metals in nature can be poisons. It worked too well.
+
+Wood + Wood = Forest. When nature calls, run.
+
+And now that you have both the circle and the elements, you can place where on the circle each element is, and see the icon representing each one!
+
+A handy table, since RR supports tables and Patreon doesn't!
+
+Element 1Element 2Cool Pairing

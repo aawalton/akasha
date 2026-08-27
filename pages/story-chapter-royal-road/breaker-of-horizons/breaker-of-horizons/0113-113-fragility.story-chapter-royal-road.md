@@ -1,0 +1,105 @@
+---
+id: 9f6e163f-a9a6-51ec-8710-02a0d150e089
+page-type-slug: story-chapter-royal-road
+title: "113. Fragility"
+slug: 0113-113-fragility
+partOf: breaker-of-horizons
+position: 113
+ownLength: 1874
+unit: words
+publishedAt: 2021-05-31
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/691288/113-fragility"
+royalRoadId: "691288"
+---
+
+When the barrier of privacy that Ambrose had set up finally came down, he emerged alone. Caden didn't give any indication that he was leaving the seat anytime soon. If anything, he looked even more withdrawn and harrowed. Ambrose forestalled any attempt by anyone, especially Devon, to approach Caden. Ambrose also proceeded to stonewall everyone when asked about whether or not he could teach Caden how to pass knowledge of sequences through the arcana. The tension in the trailer rose, but after the high-stress situation they had just escaped from in Geldor, no one had any energy left for a confrontation.
+
+The next few hours passed in uncomfortable semi-silence. Emilia and Jerric were the least-perturbed by all the secrecy, and they were engaged in anything productive — she started coaching him through a modified breathing-and-noticing exercise to help him cope with the overdraw that came as a result of his attempt to hasten the recovery sequence on Devon.
+
+Against the background noise of her firm but gentle instruction melded with the sound of the trailer's wheels on the asphalt, the twins' low voices sometimes came to the fore as they conferred with each other sporadically, sometimes confirming they were headed in the right direction, and other times turning to speculation and planning.
+
+Ambrose, like Caden, had retreated into himself. He claimed one of the bunk beds and sat, cross-legged, brooding, looking less like the Chosen One and more like the reserved, aloof person he had been at the start of the semester.
+
+Devon was the one who was most disappointed by Ambrose's and Caden's refusal to explain themselves, but he was still on the mend, so he hunkered down in another bunk that was furthest away from Ambrose and focused on sustaining the recovery sequence on him.
+
+Outside, the sun climbed to high noon, then continued on its journey to the west. The twins had driven them well out of Geldor and they were now in the nebulous inter-city regions where the only sign of civilisation was the road itself. The capital city was now nothing more than a little dash of colour on the knees of the Crystalline Peaks.
+
+At around two in the afternoon, Devon roused himself and looked around blearily at the others. "Lunch?" he asked.
+
+"What's our food situation?" Kevan asked, still keeping his eyes on the road.
+
+"We've got a crate full of ready-to-eat meals that'll last us two weeks," Jerric replied, consulting his memory. "But we've actually also got some fresh stuff, though Fates knows why Devon included that in the list of things to pack."
+
+"So we can get a decent meal," Devon shot back. He hesitated, but turned to Ambrose and managed a credible attempt at sounding like his ordinary, cheerful self. "Is it safe for us to stop for a bit?"
+
+Ambrose glanced at him and nodded. When he spoke, he seemed to be directing his words at the floor rather than at everyone else. "Got us covered. Should be hidden unless we run directly into any enemy agents on the road. Just don't wander off."
+
+While the twins consulted a map to look for a good place to park, Devon started rummaging through the boxes that had been loaded and taking out what he needed, while a slightly irritable Jerric followed in his wake and carefully repacked and stowed them away once Devon was done with them.
+
+They finally brought the trailer to a quiet rest-stop, which was little more than a wide space to park that had been unceremoniously slapped down at the base of an embankment, with trees jealously crowding in on the space. It was completely deserted and except for the occasional car passing by, they were alone. Still, out of an abundance of caution, Jerric got the twins to park the trailer at the very edge of the space, furthest away from the road, and threw up a simple illusory sequence in the form of a wall that duplicated the trees behind it. It was too big to really be effective against someone with a keen eye, but a casual observer driving by might not give it a second glance.
+
+Devon disembarked and started work — on one side, the trailer had a compartment that opened up and provided him with a mini open-air kitchen. While the others were preoccupied with their own thoughts or endeavours, he hummed softly to himself as he prepared the meal. In ten minutes, he had sausages and potatoes thrown in a skillet with cubed tomatoes, herbs, salt, and black pepper, and the air was filled with the promise of good food.
+
+"How do you do it?" Kevan asked. Devon looked up, slightly startled, and realised that Kevan had been standing there for some time now, watching him in silence. It was a little odd to see him without Lynus.
+
+"What, the cooking? It's always been—"
+
+"No," Kevan interrupted, stuffing his hands in his pockets and looking a little lost for words. He sighed. "You're just so... happy."
+
+It was Devon's turn to look lost for words. "I'm actually at a bit of a low point now. I mean, I asked Caden if Ambrose could teach him how to share sequences, so he could share that healing sequence with all of us, and now everything's gone to shit again and the two of them are stuck in 'mysterious mode', and here I am, cooking."
+
+Kevan let out a brief, mirthless chuckle. "Low point? You were humming and smiling."
+
+Devon shrugged. "Cooking makes me happy. Takes my mind off things. Probably because it gives me a sense of control. I know exactly how it all works, and I know how to get what I want out of it. And it can be a fun exercise to see what I can make with what's on hand."
+
+"Must be nice," Kevan said, looking away and staring into the woods around them.
+
+"I'm sure you've got something that makes you happy, right?" Devon asked with a touch of concern.
+
+"Sure," Kevan replied, not turning around. "Sort of. Thaumaturgy was my thing."
+
+"Was?" Devon prompted, when Kevan lapsed into silence.
+
+He didn't respond immediately. It seemed like he was mustering up the will to open up. After a moment, he let out an exasperated huff. "When Ly and I started out in our prep school, it was hard, but we got a handle on things quickly. But between the two of us, I was the one who usually figured things out first. And we'd practice, and I'd usually come out top. So that was my thing — winning. Winning in anything to do with thaumaturgy. It made me happy."
+
+"Oh," Devon said lamely, recalling what Kevan and Lynus had both blurted out when Caden had first accidentally ensorcelled them all.
+
+Kevan had finally turned to look at Devon, and he nodded grimly. "Yep. Then Caden ensorcelled us for the first time, and I learned that Lynus was letting me win most of the time. I think I could've handled that, but then Ambrose beat me, and then Emilia beat me, and then Caden beat me, and then Jerric beat me... I guess the only one left is you, and honestly, at this point, I fully expect you to whoop my ass too."
+
+Devon had no idea what to say to that. He was beginning to feel extremely uncomfortable, so all he could manage was a sheepish smile.
+
+"So this is me," Kevan declared, throwing his hands into the air in mock surrender, "at my low point. And there you are, at your low point. Still humming. How do you do it?"
+
+"Look, I'm not going to pretend that I know what's going on in your life," Devon began, avoiding Kevan's gaze by turning his own attention to the lunch he was preparing. "I mean, you and Ly still haven't told us much, apart from what's come up since we were forced to share stuff thanks to the Prophecy. So I don't know what will help. I don't know why you're coming to me. If you think I've got it all figured out, then, well, you'd be wrong. Because I'm the firstborn son of Duke Rhys Ka'atryn, and I've just run away from home. In laymen's terms, I'm like some stereotypical spoiled princeling who's just thrown out into the great unknown, and I'm with a bunch of worldly-wise people who've got dark and mysterious pasts. I guess next to you guys I look like a ray of sunshine, but guess what? I'm lost, too, alright? And just because I hum while I cook doesn't mean I don't have my own shit to deal with!"
+
+He was a little red in the face by the time he was done saying that, and he continued furiously stirring the dish, resolutely not looking at Kevan.
+
+There was a slightly awkward silence before Kevan cleared his throat. "Well, thanks for clearing that up," he said dryly.
+
+"No problem," Devon snapped back, still focusing on the food.
+
+"Yeah, that came out wrong," Kevan said with another exasperated sigh. "No really, Dev. Thanks. You showed mercy to me and Ly back at the Spire, you've given us a great place to stay for a bit, and you've put all this stuff together. And now you've given me a bit of perspective, and it'll give me something to think about while I try to sort through my own shit. So... really, thanks."
+
+Devon finally looked up, surprised, but Kevan had already turned away and retreated behind the trailer.
+
+"Warm-skilful-bridge."
+
+Devon jumped and flailed around in the arcana, half-expecting to catch a whiff of the Geldor Spire augera, but it was only Caden, who had just disembarked and had come around the other side of the trailer.
+
+"Caden?! Don't... don't do that," he said, massaging his chest a little.
+
+"I heard some of that. You're living up to your aspects." Caden gave him a wan smile.
+
+"Yeah? Great. Score one for me." He peered at Caden. "You don't look very good."
+
+"I'm sorry about withholding information from you," Caden said softly. "I'll tell everyone when I can. But right now you could say I've received heavy news, and I'm still trying to wrap my head around it."
+
+"Heavy news?" Devon repeated, looking worried. "Because of what I asked? Does that mean what's happening to you now is my fault?"
+
+"No," Caden shook his head firmly. "No, definitely not. It's something I only just realised, even though it was staring at me in the face all along. I'll be fine. I'll figure it out, and as soon as I'm sure it's the right thing to do, I'll tell you guys about it."
+
+"And what if it's not the right thing to do?" Devon asked, with a tinge of disappointment.
+
+Caden drew in a deep breath and let it out slowly. "Then I'll have to hope you keep living up to your aspects, or I'm going to lose all my friends."
+
+Once again, Devon had no reply to that. In silence, he emptied the contents of the skillet into several plates and called everyone to lunch, wishing desperately for his life to mirror, at least a little, the simplicity of cooking.

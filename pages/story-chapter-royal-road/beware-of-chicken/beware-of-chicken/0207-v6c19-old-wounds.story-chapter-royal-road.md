@@ -1,0 +1,139 @@
+---
+id: e7781acc-696e-5f79-a1f4-c883558bee1b
+page-type-slug: story-chapter-royal-road
+title: "v6c19: Old Wounds"
+slug: 0207-v6c19-old-wounds
+partOf: beware-of-chicken
+position: 207
+ownLength: 1811
+unit: words
+ownProgress: 1811
+publishedAt: 2025-04-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2239730/v6c19-old-wounds"
+royalRoadId: "2239730"
+markedReadAt: "2026-06-29T18:58:26.869Z"
+---
+
+They sat together under the stars; the night air blew against them, bitter and cold, with only a fading warmth from the tea in his hands to combat the chill. It was perfect for Shen Yu’s mood. Telling his story had drained him in ways he didn’t think possible.
+
+He had never told any before Jin what he had, not from his point of view like this, not even Ge. It was a raw, painful thing, even after so long. It was an admission of weakness. A weakness that the Unconquered Blade could not, should not have.
+
+Some part of him was braced for Jin’s reaction to be negative. Some part of him worried that he should have said nothing, instead of damaging his standing in the eyes of his grandson.
+
+There were many who would rather see him die on the mountain top, then see him fall off it.
+
+“I always did wonder why,” Jin eventually said, his gaze on the horizon. “Why you cared. Why you went out of your way for a single orphan boy, why you chose me over your plan for your legacy.”
+
+He turned to Shen Yu and gave him a small smile. “I’m glad we met, Grandfather. And I’m glad that I was able to help, even if I didn’t know it.”
+
+There was no condemnation in his eyes… nor any condescension. His arms reached out and wrapped around Shen Yu. They were thick, strong timbers. Overly muscled for a cultivator, and they felt like fortress walls.
+
+It felt just like when Qinxiao hugged him. That even the Unconquered Blade, for a moment, did not need to be on guard and could finally rest.
+
+Shen Yu leaned into the touch, his breathing hitching for a moment before he banished the hesitation. He simply embraced his boy, who had turned out well in spite of everything. Perhaps softer and gentler than a true cultivator should be. And yet, that softness had its place.
+
+A softness that made Spirit Beasts and cultivators alike set out on a path to change the world so it would be as Jin made it. Not out of naivete, for he had seen the true ills of the world, but because he saw it could be better than the status quo.
+
+Cai Xiulan had said it best. Cultivators were supposed to challenge the Heavens. What were they if they could not even challenge the Earth?
+
+They broke apart after a moment. The world was blurry, but Shen Yu forced the moisture away from his eyes.
+
+“I understand why. If something happened to Meimei and Zhuye, I don’t know what I would do,” Jin whispered. “Would I swear off having children forever? I don’t know. It's easy to discuss how things should be when you are not the one hurting. But Grandfather, I cannot make sense of one part of your tale. You said you ruined him. That it was your actions alone that caused things to turn out this way, but I cannot see how that could be true.”
+
+Jin’s words were simultaneously a balm to his soul and an arrow to his heart. He practically recoiled from his grandson, his eyes wide.
+
+Anger blossomed in his chest. “It was not Qinxiao’s fault!” Shen Yu barked. It could not be her fault. She was better than that—yet his fury froze as he looked at Jin’s face. He was calm. He did not react to Shen Yu’s outburst, nor the intent that pressed down on him.
+
+“I did not say it was her fault,” came Jin’s reply without rancor. He shouldered Shen Yu’s rage, and did not resent him for it. He could see in Jin’s eyes that he knew his words would be painful… but it was all without malice.
+
+“Then who should take the blame for the monster he became?” Shen Yu asked. “He was my responsibility. My choices led to that point.”
+
+“If he had killed one of your retainers, as a boy, would you have disciplined him?” Jin asked.
+
+Shen Yu grimaced at the question. The answer was one he knew, even so distant from that past. His retainers were all family to those he had a duty to. He had sworn to protect them, and not even his son was exempt from that oath.
+
+“Yes.”
+
+“Did you try to teach him about the Honoured Founders of the Cloudy Sword Sect? Did you try to teach him righteousness and honour?” the following questions came, and Shen Yu wondered where this was going.
+
+“I did,” Shen Yu replied. “But I should have tried harder. I should have forced him to listen…”
+
+“And would he have internalized those lessons? Or just resented them more? Did force change my mind?”
+
+Shen Yu paused. Jin’s point was sharp, spearing directly into something Shen Yu thought was absolute.
+
+He was at a loss for words.
+
+“Did you fight all his battles for him? Did you crush anyone who dared to even look at him? Did you side with your son, even if he did something wrong?”
+
+Shen Yu hadn’t. He shook his head, wordlessly.
+
+“Then it sounds like you were far less permissive with him than many other Young Masters. Young Masters who never see consequences. Young Masters who run to daddy and then daddy solves all their problems for them—and even then, some of those turn out to be not bad, don’t they?”
+
+They didn’t. Even one close to Shen Yu’s heart could be said to have been like that. Brother Ran was the scion of one of the largest and most prominent noble families in the Empire. His father had given him whatever he desired. His mother had doted upon him. His elder sister treated him like he was her own first born; even the servants in that house had lovingly lavished attention upon the Young Master, the one time they had visited his home. It had honestly been shocking to Shen Yu just how much everyone desired to pamper him. He could have lived his entire life without knowing any sort of hardship. The word ‘no’ never would have been uttered to him. Discipline had been a foreign concept to him until he had joined the Cloudy Sword Sect, by his own admission.
+
+Yet when he left his nest, and when the world had finally bared its fangs at him, with no one to rely on but himself… the ‘pampered noble princeling’ had thrived. Not just thrived, but came to embody the will of the Honoured Founders, a man who held no disdain for those who were lesser than him, but instead pulled them up to stand at his side.
+
+Shen Yu’s soul spasmed at the calm, relentless grind of Jin’s words. They broke through a shell of steel and carefully walked into a sanctum in Shen Yu’s soul, a sacred place where his truths lay.
+
+A truth, carved into him on that day, that it was Shen Yu’s fault.
+
+“Bu blamed me,” he whispered. “My son blamed me for everything that happened.”
+
+His thoughts were still raw and ragged, a gaping wound, a tarnish on Shen Yu’s blade.
+
+“Did he blame you? Or did you blame yourself for how things turned out?” Jin replied.
+
+Again, the words cut deeply. Shen Yu’s chest throbbed. He reached for an answer… and he could not find one. Never before had this portion of his life been spoken of. Never had it truly been challenged, Shen Yu shutting down any discussion before it could begin.
+
+It was just something that was.
+
+“I don’t know,” Shen Yu said.
+
+“How old was Bu when it happened?”
+
+The question again surprised him.
+
+“Fifty-seven,” Shen Yu answered, but even as he said it… he realised what Jin was getting at.
+
+In Shen Yu’s heart, he could only see a boy, a boy led astray by Shen Yu’s choices. Not a man. Not someone old enough to make their own decisions and mistakes.
+
+He saw Jin, three decades younger, as more of an adult than the son he had watched grow up.
+
+It hurt. It was agony. But at the bottom of the agony… there was something else. Something almost desperate.
+
+“Was it just Heaven’s whim, then?” Shen Yu asked, his voice hoarse.
+
+“I do not know. I was not there. But I know you had the same wish in your heart every good father has. The same wish I have for my child. Maybe a bit more discipline as a child would have made things turn out better in the end. And perhaps it would have done nothing. It's possible to commit no mistakes, to perform every action perfectly… and still lose. That's just life.“
+
+The words were wise beyond their years. Jin’s own eyes held a hint of wariness in them. Wariness, and his own worries about the future, shone clearly. But also in those green depths was resolve.
+
+Jin had said he had given up on cultivation, yet he still truly did have the will of a cultivator.
+
+“That is a cruel existence,” Shen Yu muttered.
+
+“It is. But you were the one who told me to move forward. That life is cruel… but we don’t have to accept that cruelty. We have to fight against it, even if the end is inevitable.”
+
+Shen Yu let out a weak chuckle at having his own words returned to him. His heart was burning, in turmoil. He felt… drained.
+
+“I can’t tell. I can't tell what's the truth. If I have just been taking the blame for all these years… or if those feelings were right.”
+
+It was an unpleasant feeling. Jin’s words, delivered with such calm, sank into the Blade that was Shen Yu. His Qi spasmed.
+
+He almost wished there was a battle. He almost wished Jin had agreed with him, had blamed him, had been disappointed in him, instead of being like Brother Ge. Calm, measured reason. No blame, only compassion.
+
+He didn’t know what to do. He had spent so long, knowing it was his fault, knowing Bu and Qinxiao blamed him, that any thought to the contrary felt like it was shaking his soul.
+
+Which one was the truth? Were those feelings he felt from Bu, or from himself? Which one was the truth?
+
+He felt a shoulder press against his own.
+
+“I’m here if you need me,” Jin said, his voice steady. “You may have faced the Heavens alone… but this isn’t the Heavens.”
+
+Shen Yu did not push Jin away.
+
+They stayed on that rooftop all night. Until the sun was high in the sky as Shen Yu lost himself to his memories, until the pain finally forced him to look away.
+
+Shen Yu did not find his answer that day. The guilt and the shame were almost too much.
+
+But somehow, the presence beside him made the thoughts bearable.

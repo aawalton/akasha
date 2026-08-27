@@ -1,0 +1,235 @@
+---
+id: 7c2adcdf-aa31-58cd-aab6-840e4a596a02
+page-type-slug: story-chapter-royal-road
+title: "v4c45: Steam Boy"
+slug: 0058-v4c45-steam-boy
+partOf: beware-of-chicken
+position: 58
+ownLength: 2954
+unit: words
+ownProgress: 2954
+publishedAt: 2023-09-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1357839/v4c45-steam-boy"
+royalRoadId: "1357839"
+markedReadAt: "2026-06-29T18:53:22.361Z"
+---
+
+Liu Bowu licked his lips and tried to calm both his apprehension and his excitement as he waited for the Lord Magistrate to arrive with the farmers from the surrounding area. He stared at the various machines sitting before him, ready for the demonstration, each one tested and designed by his own hand. The late summer sun beat down on his back as he stood within the demonstration ground, perhaps a fifteen minute walk from the gates. It was a fairly small piece of land, and rice had been transplanted here by Big Bro Jin so that he could give a proper demonstration of what exactly the reapers and seed drills could do.
+
+There were a few people around already. Big Bro Jin was sitting with Auntie Mei in the shade of the trees while Uncle Che made dumb faces at Zhuye. He had quite a few supporters sitting under the trees, a bunch of people from Hong Yaowu and Miantiao, but Jin had been blunt that this was going to be Bowu’s presentation.
+
+He swallowed and turned back to look at the nearest machine. Bowu’s eyes ran up and down the frame. It was a thing of beauty, the first production model. Its internals had taken three whole nights to get right, tweaking the gear shaft with Miantiao until it sang. The angle on the blades was a perfect 35 degrees, achieved with Wa Shi’s help for the best cutting force. It was the first of many, this perfect gal.
+
+Its outer shell was nice too. The wood lacquered bright red, and its iron reaping blades gleamed in the sunlight. Carved prominently into the side was a simplified boat traversing misty water, and two characters were displayed on its hull; ‘Plentiful’ and ‘mist’, pronounced Bo Wu.
+
+It had been Big Bro Jin’s idea. “Branding,” he had cheerfully said, “You want to be the most recognizable to make an impact! Bright red and a simple design! I would say green, but green is for assholes who screw you over, so red is better.”
+
+He had then started muttering about bastard deer with a spiteful look in his eyes.
+
+They had spent several days brainstorming ideas. Eventually, it was Big Bro Gou and Auntie Mei that had come up with the design. A boat on a misty lake. The Bo Wu reaping machines.
+
+His eyes ran up and down the machine again. He almost couldn’t believe it.
+
+Honestly… he had never really expected this day to come. When he had made the Steam Furnace he had expected what he had made to, maybe, be mentioned as a footnote in his sister’s story.
+
+That was really all a cripple like him could hope for. He’d have been content with that.
+
+And then he met Big Bro Gou Ren, and through him, Big Bro Jin.
+
+When Bowu had come to Jin’s farm, he had been running on desperate fumes. A chance at being healed and a chance to be around people who actually seemed to care. A place far away from the awful memories he had living in the Sect.
+
+Instead, he had found inspiration. Jin had seen the Steam Furnace and instantly knew how to use it. To use it for more than just cultivation. To use it to power wonders.
+
+To use it to change everything.
+
+They were still decades away from the half-finished drawings and ramblings of Big Bro Jin. Hells, most of the reapers were simpler, ox-drawn things. Only one had a steam furnace, due to worries about price. But they were possible. Bowu knew in his heart that they were possible. The steel carriages that looked like a snake that could transport hundreds of people faster than the fastest horse. The tireless drop-hammers that could function without the power of a river. The ships that rode without wind. All accomplishable by mortals.
+
+“I’m no good at things like this,” Jin had told Bowu. “I’ve got ideas, but no way to make it a reality… but I think you can.”
+
+For the first time in his life… somebody outside his sister trusted him. Believed in him. Had given him a path forward when Bowu was beginning to despair.
+
+Bowu’s once pipedream of immortality became more real with each hour in the forge. With each moment he spent with Miantiao and Uncle Che. Even if he wouldn’t live forever… his name would.
+
+Well, if things went well today, of course. Bowu bit at the nail on his thumb.
+
+“Stop eating yourself,” Ty An said from right beside him and slapped him on the back entirely too hard.
+
+Bowu jumped and stumbled forward as the girl laughed at him. He turned and glared at his sometimes assistant. The freckled girl, her hair tied up with a bandana, chortled at his expense. She still had some soot smudged on her face from helping Uncle Che in the forge, hammering out more blades for the harvesters. She was getting really good at getting the edge right, and they were the perfect thickness, just like her waist—
+
+She smirked, and Bowu cursed the way his anger mostly fled.
+
+“Screw off, Spots,” he growled, but instead of getting mad she just smirked harder. He shouldn’t have told her he liked her freckles the last time they had snuck out to drink wine together. It was a bit less fun than usual without Tigu, but… well, it was nice to be alone with Ty An.
+
+And kiss her. Kissing her was really nice, even if they swore to never talk about it after it happened.
+
+“Somebody’s grumpy,” she needled and pushed him again.
+
+“I’m nervous, okay? The Lord Magistrate is setting this up for me, and Big Bro just told me I’ll do fine and to trust my gut. But Auntie Mei also said that some of the villages are a bit rougher than Hong Yaowu, and they don't like southerners telling them what to do and… I don’t want to cock it up.”
+
+It was a weakness he never would have admitted to anybody back at the Misty Lake Sect. Here though? Well… here it wasn’t so bad.
+
+Ty An just laughed and slung an arm around his shoulder. “Oh no, the Young Master is afraid of a bunch of mortal farmers. They’re so scary.”
+
+Sometimes, though, admitting weakness still sucked. “Thanks, Ty An,” he grunted at her, scowling.
+
+Ty An, instead of continuing to tease him, actually paused. Then there was something soft against his cheek, and Ty An immediately let go of him.
+
+He turned in shock as she scratched at her cheek. “You’ll do good, Steam Boy,” she declared before marching off.
+
+Bowu touched his cheek.
+
+Then his face slowly turned red.
+
+Nervousness wasn’t the emotion he felt for the rest of the wait.
+
+==========================
+
+Soon enough the Lord Magistrate appeared on the road, leading a procession of men. There were some hundred farmers. Hells, that was a lot of people. Bowu was expecting like… fifty, at most!
+
+Bowu swallowed and stood straighter. Ty An was right, it was ridiculous that he was so nervous of mortal farmers! He had stared down cultivators in the Profound Realm!
+
+And they were here to look at his beauties. His reapers. He had to put his best foot forwards, for their sake!
+
+He took a deep breath and stood resolutely as the Lord Magistrate led the men to him.
+
+He nodded once at Bowu, then turned to address the crowd.
+
+“My thanks to you all for taking the time to join me here for this demonstration. As I was saying earlier, I have found the creations of Liu Bowu interesting enough that I believe that you all should see them,” he said, his voice carrying effortlessly.
+
+“You asked for us, Lord Magistrate. So we’re here,” a man said in a countryside drawl. His skin was tanned, wrinkled, and weatherbeaten. If somebody said ‘envision a farmer,’ he would be what most people saw. He was even chewing on a rice stalk. The man glanced at Bowu, and his eyes narrowed a bit before he returned his attention to the Lord Magistrate. “If you think it's worth checkin’ out, we’ll check it out for ya.”
+
+“That is all I can ask, Master Lan. A wise man always consults experts; I know some things about farming, but I defer to you gentlemen’s experience in matters of the field.”
+
+“You do us great honour, Lord Magistrate,” Lan and the rest of the farmers said while bowing, a current of respect in their voices.
+
+“That's why he's the Patriarch, I tell ya what,” Bowu heard one of the men mutter to a chorus of agreements.
+
+“Excellent. Master Bowu. If you please?” the Lord Magistrate declared.
+
+Bowu stepped forwards. The farmers’ appraising gazes all landed on him. The Lord Magistrate retired slightly, going to sit with the people from Hong Yaowu.
+
+“This one is Liu Bowu. Thank you all for coming. I think you’ll be very pleased with the efficacy of these machines.” Bowu gave a polite bow. Several farmers nodded, and a few people greeted him back, but most stayed quiet. Lan in particular frowned slightly.
+
+“‘Fore we hear anything else, who's your master, in makin’ these fancy things?” the man asked. He looked like one of the old riverboat captains from the Misty Lake, sharp eyed and shrewd.
+
+Bowu paused at the valid question. The people of the Misty Lake knew that a poor master produced a poor student, and when poor construction of the floating villages could lead to them breaking apart and drowning people, they took such things very seriously.
+
+Technically speaking Bowu didn’t really have a master, so instead he said the closest thing he had to one, and the one who would obviously have the most credibility.
+
+“Rou Jin,” Bowu answered.
+
+“The butcher?” the man asked, taken aback.
+
+“I mean… he's good with a knife, don’t get me wrong, but I wouldn’t trust him with a plow,” somebody else said while crossing his arms.
+
+“Nah, that's Jin Rou, not Rou Jin,” a third chimed in.
+
+Bowu blinked as their sudden chattiness derailed his train of thought. It was Big Bro Jin! How could they not know the guy who… liked his privacy and hated being bothered and… shit. Bowu opened his mouth to clarify, but somebody beat him to it.
+
+“Wait, hang on a sec, I think he means the southie boy. Big Guy. The cabbage seller,” one other man interrupted the confused mutterings.
+
+“Ohhhhhh,” the crowd said in unison, and the muttering began again.
+
+“Lad has good cabbages,” a man with a missing leg and on crutches said.
+
+“Twice as big as Dan’s,” another man replied.
+
+“Good bloke. Real nice chickens, but he wouldn’t hear about siring the beauties off. Right shame, that’s what it is.”
+
+“He's got a damn fine wife too. You see the size o’ her melons?” The man who said that had a perverse grin on his face as he gestured with his hands. Bowu paused, confused. Auntie Mei wasn’t exactly… well…
+
+“Nah, he's the one who got married to Spotty Mei,” somebody else cut in, and Bowu was so shocked he nearly twisted his head to stare incredulously at the man who had just insulted Auntie Mei.
+
+“Some poor sod actually took that viper?” a man demanded incredulously. He looked around Aunt Mei’s age.
+
+There were a few chuckles.
+
+Bowu felt a vein start to bulge in his forehead. This bastard, insulting Auntie Mei. He clenched his fist, running through all his martial training and getting ready to strike down this peasant who dared to speak ill of the Miracle Doctor who had saved his leg.
+
+The words “You honourless cur, you’re courting death!” were on his tongue when there was a soft whistle, and Bowu stopped himself from launching at the prick who was running his mouth. His eyes snapped to the little poke of Qi that he got. His eyes met Auntie Mei’s, and she shook her head… then smiled.
+
+It wasn’t wholly pleasant. The burgeoning rage faded, as did the kneejerk reaction to channel his big sister.
+
+Auntie Mei knew fates worse than death.
+
+“Still, though, is he a smith?” another voice said.
+
+“Not that I know of.”
+
+“Somebody said he was a cultivator.”
+
+“My Master is Rou Jin. My master in the art of smithing is Yao Che,” Bowu said, getting to the heart of the matter.
+
+“Ohhhhh.” The utterance was in unison again.
+
+“Che does good work.”
+
+“Ol’ Yao finally got himself an apprentice? Good for him.”
+
+“Well, at least we know they won’t break on ya. Liao.”
+
+“You bastard, you drove that plow into a rock! Of course it will break if you do that!”
+
+Old Man Lan nodded. “And you made these, not Che?”
+
+“He made ‘em! Stop acting like a bunch of hens and let my boy speak, you bastards!” Uncle Che shouted out. There was some laughter, save for the man who called Mei a viper.
+
+He had apparently just noticed she was there.
+
+And smiling while staring directly at him.
+
+The man started sidling to the opposite side of the crowd. Auntie Mei’s gaze followed like a snake tracking chicks.
+
+Bowu smirked at the bastard’s misfortune, before turning his attention back to the crowd. Old Lan, still at the head of the farmers, had his arms crossed, clearly considering him.
+
+“What was the hardest part of makin’ this piece?” The man asked.
+
+“Keeping the drive shaft clear. It took four iterations before I managed to get a covering that won’t jam after about an hour.” Bowu replied instantly.
+
+Old Lan nodded. “Bowu, was it? Show us these fancy things then.”
+
+Bowu nodded. “Right! First, I will demonstrate the reaper…”
+
+===========================
+
+The presentation went smoothly after that, as Bowu started explaining how the blades spun and harvested rice. The drive gears were a bit tricky, and it needed a lot of force without being powered by a Steam Furnace, but it was pretty rugged.
+
+The men all had pertinent questions too. Like what happened if it hit a rock, how to remove the blades to sharpen them, how often it would break down… Bowu had an answer for all of them, because Big Bro Jin and the rest of Hong Yaowu had already asked the same questions.
+
+Then Bowu got the help of Bei Be. He hooked up the ox to the first production model reaper, and gave everything one last check over. There were no problems. The gears were aligned, oiled, and ready to go.
+
+“Alright baby, lets show ‘em what we got,” he muttered, patting the side of the red machine. It was completely inert, without any of the power of the steam furnace version, but he could still almost feel like it was eager.
+
+“Hup!” he commanded, and Bei Be thrust himself into the specifically made collar Auntie Hu Li had made. It went more around his chest and shoulders than a normal collar. The Ox’s position on this model was at the back, rather than the front, so the rice could properly feed into the thresher blades. They pushed forwards over a line of transplanted rice, Bei Be moving leisurely, and without channeling his Qi into the blades to cut the stalks better.
+
+Bowu’s creation sang. Its blades snip snip sniped leaving a line of perfectly cut rice to be pushed over to the side, ready to be bundled and harvested. There was a little bit of a catch on the third blade, but it evened out as Bei Be pushed forwards.
+
+The men watched with wide eyes as in a minute, he reaped as much rice as a man could reap in an hour.
+
+There was dumbfounded silence. The rice stalk fell out of Old Lan’s mouth.
+
+“How much for one of these fancy things?” Old Lan asked, breaking the silence. “They can’t be cheap.”
+
+The Lord Magistrate took the opportunity to speak. “In the interests of improving the lives of the subjects of his Imperial Majesty, I have put forth a subsidy to aid those who wish to purchase new tools this year for the harvest. It need not be one of these machines… but they are classified under this provision.”
+
+The farmers started muttering amongst themselves.
+
+“...And that bigger one over there… what does that one do?” Old Lan asked.
+
+“The same thing, just without the ox,” Bowu replied.
+
+“Bullshit,” Old Lan replied.
+
+Bowu just smiled and walked over to the Steam Furnace Reaper. He placed his hand against the hopper on top, feeling the slight heat from the cultivation artifact. He pulled the starter cord and the once-cultivation aid spluttered to life, boiling the water within it and converting it to power. The fuel was simply charcoal, and it would operate for a good ten minutes before more needed to be added. Something to improve in the future, but it was a compromise between size and run time.
+
+When the furnace was good and hot, Bowu pulled out the safety that Big Bro Jin had insisted he install, which engaged the main drive shaft, and then pulled the lever to engage forward motion.
+
+The furnace chuffed, spitting out its first bit of steam, and with a groan, the reaper began to march forwards. At first slowly, and then with increasing speed as the steam got hotter.
+
+It was the most beautiful sound in the world, as the machine started to rumble forwards of its own accord.
+
+Bowu grinned, as he saw the sheer awe in the farmer’s eyes.
+
+“So…” Bowu clapped his hands as he finished his demonstration, “Who wants to try?”
+
+The resulting clamor and small scuffle over who got to order first was flattering.

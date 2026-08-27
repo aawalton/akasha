@@ -1,0 +1,127 @@
+---
+id: 2ce0aa31-3d56-5c93-8239-04ba8fb32690
+page-type-slug: story-chapter-royal-road
+title: "v6c48: Questions and Answers"
+slug: 0237-v6c48-questions-and-answers
+partOf: beware-of-chicken
+position: 237
+ownLength: 2294
+unit: words
+ownProgress: 2294
+publishedAt: 2025-07-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2467157/v6c48-questions-and-answers"
+royalRoadId: "2467157"
+markedReadAt: "2026-06-29T18:59:30.938Z"
+---
+
+“The Grand Marshal now opens the floor to questions,” Bai Huizhong declared in an admirably firm voice.
+
+Bai Huizhong, supported by Bao Wen, looked utterly exhausted in his new robes. None of the cultivators blamed the man for his… incident. Mortals had fragile constitutions. That he hadn’t keeled over from a heart attack and was instead back at his post was a mark in his favour. Xi Kong caught several concerned glances for the man from the other Elders, and while nobody wanted the chaos that came with the appointment of a new Director of Spiritual Ascension Affairs, there was some concern for the man himself as well.
+
+To be frank, he was not the only one still affected by the news of the demonic attack. The hour’s break had felt to Xi Kong as though it had passed in a heartbeat. He was himself not yet fully calm, but the time had come to gather again. He knew that the others were still unsettled. On Gang of the Rumbling Earth’s eyes were still unfocused, and Sheng of the Azure Horizon was unconsciously bouncing his knee. Even Ulagan Baatar was still deep in thought, solid though his bearing might be on the surface. Still, the arena filled swiftly. Even those with their cultivation shattering under the pressure of the revelation, not a soul of those assembled would dare miss the rest of this.
+
+“The Grand Marshal recognises Xong Yun Ren, disciple of Master Jin, to assist by showing his recorded images, should they be relevant,” Xiulan began.
+
+Yun Ren was recognisable, and at the same time not. Xi Kong remembered the fox-faced young man, for he had hosted him in their Sect’s manor in the town. Another of Master Jin’s disciples, and like all of them he was a credit to his master. He had changed greatly since last he had seen him. The young man he had once hosted was now even more striking, with the addition of streaks of blonde in his hair, furred ears, and a tail. The Second Stage of the Profound Realm, brushing against the Third. His Qi felt formless, like ethereal dancing lights, there one moment and gone the next. He walked with an easy, predatory grace. His body was clearly built by diligent study of the blade; a sword which radiated its own Qi, an obvious artifact treasure, sheathed at his hip.
+
+Like his daughter, Yun Ren had grown ferociously. The last time they had met, a mere Initiate. Now, he could challenge over half the Elders here, and Xi Kong didn’t like their odds against the man. Yun Ren bowed to Xiulan and pulled out his recording crystal pane, but otherwise offered no other comment.
+
+For a moment, there was silence. There were so many questions, so many things that they wanted answers too… but not all of them could be asked. The associate of the Cloudy Sword Sect was not named for a reason, of course, and each of the Elders had to navigate and hope they wouldn’t be the one foolish enough to ask a question that would not be answered.
+
+As ever though, Ulagan Baatar, Patriarch of the Grand Ravine Sect, proved his boldness. His Qi rose, and he was acknowledged.
+
+“This question concerns not the invasion of the north, but our guests. I have noted the other disciples of Master Rou who now watch over us. May I inquire with the Grand Marshal as to their intentions and purpose?”
+
+He looked up towards the audience. A short, freckled woman with a streak of green in her hair, who seemed amused by the attention, and a red-haired man sat beside Gou Ren, whom Xi Kong recognised. The boy had also grown, his form more solid and his own cultivation having swelled into the Profound Realm, his Qi solid as stone. He too had blonde, or rather, golden streaks in his hair. All gazes directed his way washed off him like a wave breaking against a rock. He was still as a statue, utterly unmoved, by the intent of the Elders, and turned his head to the red-haired man beside him. The red-haired man in the audience looked down at Xiulan, and raised one eyebrow.
+
+“The Grand Marshal calls upon Fa Bi De, First Disciple of Master Jin,” Xiulan said. Xi Kong, his composure renewed, almost felt it break again.
+
+That man, Fa Bi De. He was a chicken the last time he had seen the Spirit Beast. He had been powerful, a witty conversationalist, and a truly composed Spirit Beast… and now he had a human form. He was stunningly handsome, and within the Spiritual Realm.
+
+Higher still than his daughter.
+
+Xi Kong looked around, and realised he was the first and only one to notice that the chicken was now a man… but he supposed the majority of the people looking at Bi De were preoccupied with other things, if they had even caught the chicken’s name two years ago. Xi Kong saw the blushes on several faces as they fully saw the man who was sitting in the audience. Elder Xinling had outright frozen. Two of her three daughters present, sitting in the audience as well, visibly oriented on Bi De like hunting hounds.
+
+“We were invited by the Grand Marshal to witness the revival of the Dueling Peaks, as we expressed interest,” began Bi De, the man’s voice deep and smooth. All eyes were upon him and he smiled disarmingly back. “It was fortune that allowed us to come, for we might not be able to attend when our Master comes south.”
+
+“Master Rou is coming south?” Baatar asked, his voice eager. Xi Kong perked up. It would be wonderful to talk to the man again, after everything.
+
+“Indeed. My apologies, however, as I have preempted the Grand Marshal.”
+
+“Yes, Master Jin will be coming south. He gave me leave to inform the Sects of the Azure Hills of this,” the Grand Marshal stated. At once, Xi Kong could see the plots churning within many Elders' heads. They all desired to host and curry favour with him.
+
+“Our Master has much work to do, in the sowing of his crops and in repairing the damage caused by the Demonic Cultivators,” Bi De said, “But he plans to visit in late spring or early summer.”
+
+Of course, a Spiritual Herb Master would have to first tend to his fields and gardens, Xi Kong accepted instantly. It was only natural.
+
+“Will you not share with us your own account of the attack on your Master’s holding?” Sheng, Elder of the Azure Horizon Sect, asked boldly. To not have the First Disciple address them was a bit of an insult, showing Master Jin’s disfavour, but Xi Kong was rather sure the man did not mean for it to come across like that.
+
+Bi De raised an eyebrow. “I cannot give an accounting of a battle I was not present for. This Disciple, Sister Ri Zu,” he said, gesturing to his female companion, “and Brother Yun Ren were part of the assault group that struck the Demonic base in the Sea of Snow.”
+
+That shut Sheng up instantly. The man’s jaw dropped and he bowed his head. Xi Kong, however, only had eyes for the pair still sitting in the audience.
+
+Of course, the rooster had been part of the group that fought the Imperial Realm cultivator. And the rat, Ri Zu, had gained human form as well. A rat and a rooster, Heavens-blessed to ascend past the most talented of the Azure Hills. The Heavens truly had a strange sense of humour.
+
+Xiulan cleared her throat. “It appears we are getting distracted. Yun Ren?” Xiulan asked. The man nodded, and he projected an image that sharpened the air in the room.
+
+Xi Kong had seen depictions of demons before, but that… what the Hells was that?
+
+It had the signature black chitin of the Great Enemy, but instead of being completely encased, it was rough. Patchy. Half the body looked like a corpse, a human face leering out from a partial mask of bone.
+
+“This was the primary combatant encountered,” Lu Ri narrated calmly. “They are considered low demons, the strongest of these Artificial Demons reaching only the Spiritual Realm.”
+
+It was a truly monstrous beast. Entire sects would bleed to the bone to take down one, if they could overcome the monster at all.
+
+The image changed to a pile of corpses. They were crushed, smashed, and brutalized. There had to be nearly a hundred of them stacked like firewood before an imposing fortress, whose walls were cracked and filled with damage, but still standing. There was a dragon in the corner of the image, glaring at the pile of corpses along with Tigu. Both were covered in bandages, but well enough to move.
+
+…truly, the difference between the Sects of the Azure Hills and the Disciples of the Cloudy Sword Sect was vast.
+
+================================
+
+What followed was an accounting of a battle, the enemies faced, and the actions taken in the aftermath.
+
+Tigu and Yin stepped up first, with diagrams and images of a multitude of the Artificial Demons.
+
+“In some ways, they are easier than actual demons. They’re not particularly intelligent, but they are relentless. Aim away from the chitin where you can—but that is about the extent of what I can give you,” Tigu said, pointing to different sections on an image of the Artificial Demon.
+
+“Each one is different, and their fighting styles are chaotic. There is no simple way to deal with them. And while they’re not very skilled, they’re strong and tough fuckers,” Yin cautioned.
+
+“Can they use cultivation techniques?” came another question from the crowd.
+
+“Some can, as an echo of who they were before,” Lu Ri stated. “The more powerful they are, the more likely they are to use such techniques instead of pure physicality. Their creators are the lowest form of barbarian, to rob a person of themselves so completely. They are to be pitied, destroyed swiftly, and given their last rites.”
+
+The sheer disdain in the man’s voice was palpable.
+
+Next came Delun, who invited down Gou Ren, The young men revealed the blueprints for a fortress, the same one that had stood against cultivators in the Spiritual Realm.
+
+“It needs a lot of reinforcement, but the bracing structure here means it’ll hold,” Gou Ren narrated, pointing to each section.
+
+“The protective formations of my family were very effective at improving the structural integrity; I’m looking into incorporating them into more structures around the Dueling Peaks, and how feasible they will be to incorporate into new buildings,” Delun continued.
+
+“You would use your Sect’s protective formations on many structures?” Baatar asked.
+
+“Yes.” Delun shone with resolution. “I have seen the Enemy. I have crushed their bones under my hammer. We need everything we have if they should come back. I swore an oath to this alliance, and I mean to keep it.”
+
+Baatar grinned, and Xi Kong could only bow his head before Tie Delun’s declaration. The man’s father, the Sect Master of the Hermetic Iron Sect, simply nodded along with him, the pride clear in Delan’s eyes.
+
+Last was Ri Zu, who contributed her knowledge of how to defend against their corruption.
+
+“As you can see, Ri Zu’s Master’s formation is very effective. Ri Zu is currently experimenting with the Spiritual Herbs native to the Azure Hills to see their effects, but this is a very cost-effective way to deal with demonic corruption.” The small woman pointed at pressure points and acupuncture charts. Xi Kong was not well versed in medicine, but those who were nodded along and were frantically writing down every word the woman shared with them.
+
+It took nearly six hours to go through everything, and while a good portion of the questions were answered, some were simply skipped past: who was involved in the Raid on the Sea of Snow, the number of casualties, and any more details about what happened in the Howling Fang Mountains. Still, it was far, far more than they expected. It was done honestly and in good faith; Xi Kong could not imagine any complaints from the sects, because they were being treated seriously.
+
+The Cloudy Sword Sect had acknowledged their existence and given them information. The face their alliance had gained from that alone was immeasurable.
+
+Though it also showed them how far they had to go. They might as well have been mortals to be protected, and while that stung every true cultivator’s pride, there was nothing they could have contributed. All they had left now… was to get stronger. To ensure if the Enemy above did darken their doorsteps, they would be able to throw them back from their home.
+
+“Is there any way we can pay our respects to the Cloudy Sword Sect and Soaring Heaven’s Isle Sect?” Elder Chen of the Framed Sun Sect asked, after things finally started to wind down.
+
+“The Soaring Heaven’s Isle Sect has already left,” Lu Ri stated. “And the Cloudy Sword Sect requires nothing material. However, Elder Ge has expressed an interest in the lore of your province. Should you have any shareable histories, he would be much obliged.”
+
+That got everyone’s interest. They could actually do something to repay the Cloudy Sword Sect?
+
+“If that is everything?” Xiulan asked. There was some murmuring, but nobody else pulsed their Qi to speak. “Then we shall adjourn. I shall be available in my office for the next week to discuss anything further.”
+
+Though things had started grim… in the end, the mood was cautiously optimistic. The Enemy had been defeated. Their Grand Marshal was triumphant.
+
+Their little alliance… had passed another hurdle.

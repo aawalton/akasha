@@ -1,0 +1,143 @@
+---
+id: 06b9ed90-46aa-582a-b994-0cf0208fa893
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 54 - Unveiling Potential"
+slug: 0058-b3-chapter-54-unveiling-potential
+partOf: bookbound-bunny
+position: 58
+ownLength: 2329
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3546310/b3-chapter-54-unveiling-potential"
+royalRoadId: "3546310"
+---
+
+Lily was only broken from her trance when Arakil hit her with the book, literally. He had dropped the grimoire atop her head, albeit gently, and it finally brought her attention to the world around her. She'd been focused in the past, but never to this extent, and suddenly realized she had no idea how much time had passed.
+
+[If you don't hurry, you're going to be late for class. Actually, even if you rush there, you might still be late.]
+
+What proceeded was a frantic panic as Lily rushed to class, nearly barreling into a few other students who were roaming the halls. Thankfully, she didn't arrive late, but it was cutting it close, and the lesson proceeded as per normal.
+
+Lily's friends naturally asked why she skipped lunch, to which she could only admit she got lost in magic practice after finding some inspiration.
+
+"Did you just experience your first bloodline intuition?" Lotte asked.
+
+Lily was surprised and wondered if that was how it actually worked. She gave a vague non-answer that only seemed to solidify her friend's opinion. Seeing the rest of them joining in on Lotte's assumption, she dared not admit that she had just been too invested in playing around with her cloak and wand, as it had become far too embarrassing.
+
+After a painful lesson and the long-awaited dinner, Lily eventually returned to her room, where Arakil finally spoke to her. Needless to say, he was impressed with her creativity, as even he hadn't considered using her cloak to mask the wand.
+
+[You've certainly evolved it into more than just a simple defensive spell. At this point, I'm eager to see the next idea you'll come up with.]
+
+"Did you not do anything similar? Not hiding a wand, obviously, but making a signature spell?"
+
+[Honestly, not more than a few dabbles. I was always under the assumption that more was better, or that there was a better spell out there, which was why I gathered all the magical knowledge that I could. That's not to say I didn't believe in quality, as I would categorize and rank them, and then select the optimal ones to master.]
+
+Lily couldn't fault Arakil's opinion as their two situations were entirely different. If you had the world of magic at your fingertips, why would you need to continue trying to enhance a relatively simple spell? You could almost describe it as keeping the old toy you had as a child, rather than moving on. For all Lily knew, there was a spell far better than her Nebula Veil, but one she was incapable of casting at the moment.
+
+Still, Lily was happy to have impressed Arakil and shown him a slightly different path. It might not have been optimal, but it was fun and exciting, and, more importantly, helped her now trick everyone around her.
+
+Lily spent a bit of time showing and explaining her ideas, and Arakil found no immediate fault with them. It had been a small struggle to get him to imagine it from the mind of someone more ignorant of magic, but when he reframed it, he found it quite believable. If anything, Lily's cloak flowed a little too well, as if she had somehow accidentally designed it just for this purpose.
+
+When that was done, they returned to more of their regular studies, to which Arakil actually made a rather surprising comment.
+
+[With everything on your plate, I was expecting you to eventually request a break from certain studies, or to at the very least reprioritize. Yet, without complaint, you've continued to do everything I and others have asked of you.]
+
+"Is something wrong?"
+
+[Not wrong per se, more that I'm envious of the energy of youth. I was concerned about you burning out, but you've somehow avoided that.]
+
+Lily wasn't sure what to make of that. She tried to think about everything she was involved in, and while she thought it was a bit of a tight schedule, she didn't think she was overburdened. In fact, she had already lightened her load significantly by dropping most non-astral spells for their glyph counterparts. When she explained that, Arakil could only faintly chuckle in response before continuing their lesson.
+
+***
+
+For the rest of the week, Lily continued mostly as per normal. While Hana and Lotte spent some time venturing to the dungeon's forest, Lily opted to save it for the weekend, when there would be more time. The biggest change was that Lily started wearing her Nebula Veil a lot more, as she was trying to make it appear part of her normal garb.
+
+Thankfully, as a defensive spell that was on the subtle end, there were no rules prohibiting her from doing so. Rose, for example, couldn't do the same thing, as her idea of a subtle defensive spell was a raging, flaming aura that surrounded her. Not only did it harm the environment around her, but it was also an eyesore because of its brightness.
+
+Lily could even darken the stars in the cloak, making it far less noticeable, so none of that was an issue for her. The factor of it potentially interfering with her lessons was also a non-issue, as Lily had enough Mana regeneration to keep it going while leaving enough in the tank for even the most brutal PMC training session.
+
+As for her glyph drawing, at first, she started doing more of the same, somewhat frivolous glyphs that were a spectacle while masking her wand. After several of those, she moved on to something a little more practical and began drawing some simple glyphs to cool the air near the outside benches.
+
+Word about that got around surprisingly fast, and soon some older students even made suggestions on other spots Lily should enchant. These locations were on the outskirts of the school grounds and entirely within nature, such as under a tree or atop a hill. Usually, such locations would never receive an enchantment, as adding a tool would not only be wasteful but would also clash with the natural atmosphere.
+
+But Lily's glyphs solved both of those problems. Not only was there no need to worry about the setup, as she could literally draw them anywhere, but there was no need for landscaping. Seeing this, a few students quickly realized that these floating glyphs might have more merit than they had initially assumed.
+
+Lily only had a vague idea of what was happening behind the scenes, and it appeared Rose was trying her best to help now that the rumors were more positive. In fact, Rose eventually asked Lily to draw a glyph to water her herbs.
+
+While she wanted to blindly agree, she had to check with the staff to make sure it was okay, and while Rose was bitter about it, Professor Melina was the one who gave the sign-off. The glyph was relatively simple in function, but that didn't stop Lily from showing off her stuff. She could have made it unnecessarily complicated by creating an inscription, but instead focused on precision sigils to get what she wanted.
+
+The result? A glyph that would release a watery spray over a set area, for a determined interval, at a particular time of day. All of this was possible using calculated sigils and a simple water crest, and Lily was quite proud of it.
+
+This is like the culmination of all my glyph lessons with Arakil to date. Limiting the duration, automatic activation at a fixed point in time, an area designated with point-marking sigils, and changing the shape and form while maintaining compatibility with the crest.
+
+While Lily knew she had more to learn about glyphs, as she felt like she'd barely scratched the surface of the available crests, this still felt like she'd at least completed a chapter on her journey. Yes, she had already started drawing inscriptions, but now she truly felt she was ready to tackle them.
+
+If only the same could be said about drawing with my mind.
+
+On that front, Lily hadn't felt like she had made much progress, or at least nothing that she had noticed. She knew it was still very early days, but a small part of her had hoped there would be some tiny, noticeable difference as she gained confidence in her drawings.
+
+When the weekend hit, Lily joined her two friends in finally going down to the second floor. Seeing the bright, atmospheric forest again brought back pleasant memories of her time camping with Lotte and Thomas, and of the plethora of plants she had managed to find.
+
+"Let's go see our fort," Lotte said excitedly.
+
+"Yes, I want to see what beat me in the camping trip," Hana agreed.
+
+"We didn't beat you; it was declared a tie," Lily refuted.
+
+Hana shook her head. "Sure, on paper, but I feel like if the teachers didn't cut it short, your group would have been the victors. From what I've heard, you could have lived there comfortably for a month or more."
+
+"I don't know about that…" Lily tried to deny.
+
+Lotte smiled. "I guess you've been too busy drawing glyphs around the school to care for whispers about the dungeon. You could say our fort has inspired everyone to try to copy it."
+
+"Yes, Rose said so," Lily replied.
+
+"No offense to Rose, but I think she undersold it," Hana commented.
+
+The trio began exploring, with Lily and Lotte mostly sticking to the same tactics. Hana, however, switched from light to wind, which meant she didn't need to replace her crystal lenses as often. Lily had wondered why she hadn't been asked to grow new crystals, and now she had the answer.
+
+Since this floor was effectively entirely open, this finally gave Lily more of a chance to shine with her glyphs, or more accurately, her runes. Even though the runes were simple and quick to draw, in the tight stonework corridors of the first floor, it was often not feasible. Now, they often spotted the monsters at a distance, and Lily could draw as either of them approached.
+
+This finally gave her a proper chance to try out the motion runes that Professor Ollie had suggested some time ago: push, pull, press, and lift. Yes, the explosive runes were extremely effective, but the risk of bringing a forest of monsters to their location wasn't something she wanted to happen.
+
+After a few uses of the runes and seeing their effects, Hana proposed a rather outlandish idea. "Do you think I could trigger one of those lift runes?"
+
+"I don't know if that's safe…" Lily cautiously replied.
+
+"Safer than what Arthur had us do, trust me, it'll work out great."
+
+Lily was unsure, but Lotte joined in to coax her into agreeing, evidently curious to see what the crazy girl had in mind. Lily conceded and drew the rune, although she outright refused to enhance it with additional stacks.
+
+Hana accepted that and, after preparing herself for a moment, jumped on the rune. It triggered, and at the same time, wind gathered around her, sending her soaring into the sky.
+
+Lily's eyes widened in horror while Lotte was cheering as if it were the most exciting thing she'd ever witnessed. Unfortunately, that did not help Lily, who was starting to panic as Hana had gone up far higher than she thought possible.
+
+[Don't worry, it looks like she's got it under control.]
+
+Arakil's words did little to reassure her, and it was only after Hana landed safe and sound that Lily finally let out a massive sigh of relief. In fact, she nearly fell over when the girl was grounded and let out a gust of wind upon touchdown.
+
+"That was great!" Hana exclaimed excitedly. "If we do this, I can scout our surroundings for any points of interest."
+
+"No, never again!" Lily quickly cried out.
+
+"Oh come on, Lily, you've done crazier things, I'm sure," Lotte said, taking Hana's side.
+
+Lily refused to admit it and continued shaking her head.
+
+"Come now, I'm going to learn flying magic eventually," Hana pointed out. "I might not have wings, but I've practiced using the wind to fall with style plenty of times. Or did you really think I was nothing but a light show?"
+
+"No, I…"
+
+"Come on, Lily," Lotte urged. "You've got to admit this is brilliant. Think of all the time we wasted during our camping trip trying to find something good. With Hana as our flying scout, we can cover so much more ground."
+
+"And, I think I spotted your fort," Hana added.
+
+Seeing herself outvoted, as even Arakil thought it was a good idea, Lily succumbed to the peer pressure. After a few tries and seeing the result, even she had to admit it was useful. But seeing her friend being flung into the air, even if Hana could control it, was still a somewhat harrowing experience.
+
+While Lily missed having Thomas on the team, she had to admit that having a scout was far more beneficial than another offensive caster. But what was now missing was his almost encyclopedic knowledge of everything, until Arakil started filling that gap. He'd long since added several of her books to his library and now could reference them if needed.
+
+I wonder if I could use the mental landscape to study for exams…
+
+Lily quickly discarded that idea. It would be efficient and save her a ton of time and effort, but at the cost of the priceless one-on-one lessons with Arakil. Not only that, but where else would she be able to experience such an unrestricted reality?
+
+After a few scenic detours thanks to Hana's scouting, Lily and Lotte finally saw a familiar sight in the distance. Standing tall, the fort looked just like it had left, at least on the outside. The trio began jogging, eager to see what it had become after the older students took refuge inside it.

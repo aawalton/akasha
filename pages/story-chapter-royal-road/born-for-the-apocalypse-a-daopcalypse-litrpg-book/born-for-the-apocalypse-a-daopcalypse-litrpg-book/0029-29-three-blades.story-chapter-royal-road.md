@@ -1,0 +1,107 @@
+---
+id: 36f123f2-9ef3-5ee7-805e-b9444b88d40d
+page-type-slug: story-chapter-royal-road
+title: "29: Three Blades"
+slug: 0029-29-three-blades
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 29
+ownLength: 1633
+unit: words
+publishedAt: 2024-11-29
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1931122/29-three-blades"
+royalRoadId: "1931122"
+---
+
+29:
+
+“Can’t say I expected this,” Jack muttered aloud, his expression pensive as he stared at the transparent blue arrow hovering in the sky not too far away from them, pointing downwards in a clear indication of the location.
+
+“Expected what?” Sarah asked, her expression heavy as she leaned on the flat of her spear to catch her breath.
+
+“I think it’s best if I let the system explain,” Jack replied, before he asked the System to share the quest he had received.
+
+Sarah’s eyes went wide in surprise as she considered the system pop-up that had appeared before her. A few moments later she turned her head in the direction the translucent blue arrow was hovering above the purported location.
+
+Biting her lower lip in trepidation, Sarah slowly turned towards Jack before speaking, “I’m not in any condition to fight.”
+
+“Neither am I,” Jack reassuringly replied, able to see why Sarah was concerned. He had made a pledge earlier, after what had happened with Trent, swearing that he would not allow himself to lose his humanity. A pledge that had partly been driven by emotion, by the rage he felt towards the system’s machinations. A rage that had given way to a defiance. “Don’t worry, Sarah. I’m not going to give up my humanity, but having morals doesn’t mean that I’m going to rush into certain death,” He explained, knowing that he'd never reallly gotten the time to fully explain his new world view to Sarah and even then, it wasn't as if she had to subscribe to it.
+
+“That’s not what I was thinking,” Sarah softly replied with a shake of her head. “I was just… this might sound like I’m a terrible person and maybe I am, but a part of me thinks that it would’ve been better if I didn’t know this. Because, now that I do…,” She trailed off, her voice quivering.
+
+“Do you want to save them?” Jack asked, his voice barely above a whisper.
+
+“I…,” Sarah’s voice cracked as she tried to formulate a response, before she tried again, “I don’t know. Being captured by those vile creatures, I just can’t imagine what it would feel like. If I was in their position, I’d be praying to anyone and everyone in the hope of rescue. To know and do nothing about it feels…wrong.”
+
+“I understand,” Jack replied, offering a nod in her direction. “But for now, we need to recuperate. All hope is not lost though, we have forty eight hours to work with. We do not need to sleep anymore and our basic sustenance has been ensured by the system. I cannot guarantee anything, but if we commit to growing stronger from here on out, then the location is worth checking out.”
+
+“I’m sorry, it’s— you’ve already done so much for me. It’s unfair to burden you with another responsibility. I’m not thinking clearly right now. We’re not trained to rescue people and it sounds like we’ll be up against an entire camp. It’s madness to even consider it.”
+
+“In adversity lies opportunity,” Jack thoughtfully replied. “The system could’ve forced us into this quest. It didn’t, because this isn’t a punishment. It’s a reward, in a twisted way. For now though, the best thing we can do is move away from both here and the direction of the camp. Knowing where the rift goblins are coming from has given us a chance to avoid immediate danger unless we turn out very unlucky.”
+
+“I could use some breathing room,” Sarah replied, her tone heavy with exhaustion.
+
+For the next hour, they continued walking away from the place where the rift goblin commander had fallen, cutting a diagonal line across the forest as they retreated away from the transparent blue arrow.
+
+Jack watched his Qi Pool tick back up as they tread across the forest, keeping a close watch over Sarah only to be relieved as the color returned to her cheeks. His Qi Pool wasn’t even half way full, but thanks to the Qi Gathering Pill offering him a double regeneration rate, he was in a position to fight back with the 6 points he had recovered.
+
+“I’m fine now,” Sarah declared, prompting Jack’s attention to shift to the tear in her armor. He noted that the scab that had formed had given way to raw, pinkish-red skin, with no trace of blood remaining.
+
+“Those greater recovery pills are worth their weight in gold,” Jack remarked, finding it hard not to be impressed by how quickly Sarah had ended up healing from the wound.
+
+“Can we stop there?” Sarah asked, pointing to a wide-trunked tree. “I know it’s not the most reassuring cover, but I need to check the tutorial shop.”
+
+“I was about to suggest the same thing,” Jack replied. “I think I might have enough tutorial points to get something good.”
+
+“Let's go over then.”
+
+Jack nodded and jogged to keep pace with the now healed Sarah. Behind the tree’s cover, he and Sarah had their backs facing each other, standing within arms reach of each other. If they were targeted by a ranged attack, Jack was close enough to shield them, as long as his reaction time was quick enough and this way, they visually covered the 180 degrees they were exposed to the best they could.
+
+How many TP do I currently have? Jack mentally asked the system.
+
+[Available TP: 5022]
+
+Immediately, Jack exhaled the breath he had been holding onto. He wasn’t sure if he’d made the cutoff he was seeking, but it seemed like killing three Rift Goblin Assassins and one commander had proven to be just enough.
+
+Give me a list of items I can buy at or under five thousand and twenty two TP, Jack issued the thought-command.
+
+[Tutorial Shop
+
+1. Recovery Pill (Basic Rank Alchemic Pill) — 100 TP
+
+2. Qi Gathering Pill (Basic Rank Alchemic Pill) — 150 TP
+
+3. Greater Recovery Pill (Adept Rank Alchemic Pill) — 500 TP
+
+4. Body Refinement Stone (Uncommon, Qi Gathering Stage) — Not available for sale (99,341/250,000)
+
+5. Bloodsong Sabre (Rare, Qi Gathering Stage Artifact) — 5000 TP (82,541/100,000)
+
+6. Moonsword (Rare, Qi Gathering Stage Artifact) — 5000 TP (89,241,/100,000)
+
+7. Hoarfrost’s Edge (Rare, Qi Gathering Stage Artifact) — 5000 TP (85,433/100,000)]
+
+Jack’s brows were furrowed in concentration as he hurriedly read through the relevant parts of the list. The first thing that surprised him was the fact that a massive number of Body Refinement Stones had been sold, even though it came with no description attached to it. It hadn’t even been a few hours since the Tutorial Shop had been opened and no new items would be added before another twenty four hours elapsed, yet Jack suspected that the Body Refinement Stones would go out of stock before that happened.
+
+Thankfully, he had already gotten one, so it wasn’t his concern. He was stocked up on Recovery and Qi Gathering pills for the next few days and had held on to one Greater Recovery Pill for emergencies, so there was no immediate need for him to reserve funds for it.
+
+That left the blades. There was no description, so Jack had no way of telling which blade was the deadliest. However, it seemed like he had been beaten to the punch, as thousands of blades had already been sold.
+
+The Bloodsong Sabre was the most popular, an observation that more worried Jack than surprised him. What mental states had people been warped into, to choose such an ominous sounding weapon? Or perhaps, they had reached the conclusion that violence and bloodshed was what was rewarded in this blood and thus, anything associated with it had to be powerful.
+
+Jack wasn’t so sure of that.
+
+The system hadn’t been fair, by no means. Andrew had a build that would’ve trounced Trent in close quarters, while Trent had his archery skills that had eventually led to the former’s demise.
+
+But the system had its own perverse sense of justice, or more accurately, of balance. He refused to believe that it would let sheer luck decide between a powerful artifact and a weak one when they cost the same amount of TP.
+
+Hoarfrost’s Edge was only beaten out by the Bloodsong Sabre and Jack could see the appeal if it lived up to the name. Though he already owned a Rare Artifact of the Qi Gathering Stage and using it as a reference, he didn’t think the blade anywhere near powerful enough to freeze an entire basecamp full of goblins.
+
+His shield needed his own Qi as a reserve, which it converted into Wind energy, or he supposed, Wind Qi was the technical term there and drew upon it to defend him automatically. It was fantastic, but it also had very clearly defined limits and for its defense to activate, the shield needed to be struck.
+
+That left the Moonsword, the most unassuming of the bunch and consequently, the least picked.
+
+It didn’t take long for Jack to make his decision, one that was rooted in pragmatism rather than hope. As far as he was concerned, Sabres were single-edged blades that focused on slashing, their curved length making thrusting and stabbing awkward.
+
+Hoarfrost’s edge was a mystery and as far as Jack was concerned, it could be anything from a one-handed scimitar to a long knife or even a stiletto. Picking wrong would mean adapting to a new style of weapon, acclimatization that would be needed to be done in the midst of battle.
+
+In comparison, Moonsword would…hopefully end up being a sword. It might not be the most glamorous sounding of the bunch, but Jack had gotten too used to the versatility of a sword to give it up for the perhaps quicker Sabre or gamble on the unknown.

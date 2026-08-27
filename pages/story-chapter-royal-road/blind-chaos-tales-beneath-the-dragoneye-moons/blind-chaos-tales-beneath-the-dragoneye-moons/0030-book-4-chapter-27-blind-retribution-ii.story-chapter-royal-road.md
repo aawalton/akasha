@@ -1,0 +1,223 @@
+---
+id: 1b6498d8-75f2-53a3-b78b-9330126f7eff
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 27 - Blind Retribution II"
+slug: 0030-book-4-chapter-27-blind-retribution-ii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 30
+ownLength: 4564
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2741726/book-4-chapter-27-blind-retribution-ii"
+royalRoadId: "2741726"
+---
+
+Caelillia endured the group hug for exactly four seconds before she sought her escape—“Mom, you have a shower, right?” Avyna was stubborn enough to ignore her only child for a bit longer, before she finally released Ranthia and the younger elf. While Avyna showed her daughter to the shower, Ranthia took the opportunity to—at last—shift into a fresh image, freeing herself from her myriad cuts, punctures and scrapes.
+
+She had refused to do so in front of the two freakishly high-level elves. The duo had followed Ranthia and the survivors of the attack to Remera—without bothering to lend a whit of assistance—which made them even harder to trust. Ranthia’s abilities weren’t exactly a well-guarded secret, but something felt off enough about the duo that she was hesitant to invite further scrutiny from beings that could kill her on a whim.
+
+Ranthia was spared from her fretting about inadvertently inviting dubious elves into Remera by Avyna’s return. Her beloved had a warm smile on her face, and she whispered words of sweet gratitude as she reached for Ranthia…
+
+…But Ranthia only had eyes for the bruise that still marred Avyna’s face. Improbably, the bruise looked as if it had receded some in the scant hours since she had last laid eyes on Avyna, if anything it should have properly settled in and darkened in that time. But it was hard to muster any curiosity while she was suffocated by self-loathing.
+
+“<I’m so sorry, Gemheart>.” Ranthia quietly offered as she intercepted Avyna’s hand and held it gently within her own.
+
+“<Hush now. I know that you never meant to harm me, and you brought my daughter back to me safe and sound. And clearly some harm came to you in the process, though you weathered whatever happened well enough. I carry no grudge over an accident, my love.>” Avyna assured her.
+
+“<I still hurt you. I never wanted to hurt you.>” Ranthia promised. Her eyes were undeniably damp, though her blindfold hid the evidence.
+
+“<I am fine. It did not hurt very much.>” Avyna lied with a warm smile, her free hand reached for Ranthia’s cheek…
+
+“I knew it!”
+
+The new voice drew their attention. Caelillia announced her eavesdropping as she shoved her way through the curtain that separated out the personal area of their home—completely nude. Ranthia’s face went red, and she hurriedly looked away, haunted by memories of her former attraction for the young elf. Oh Xaoc—and those horrible jokes Avyna made when they first got together!
+
+“So, this barbaric beast hits you! Get away from my mom, you horrible—!” The girl was marching toward where she had left her staff.
+
+“Caeli, enough!” Avyna snapped after her daughter ignored her gesture to back off.
+
+Avyna pulled her hand from Ranthia’s, before she slipped to Ranthia’s side and put her arm around the human woman.
+
+“I care about Ranthia a great deal. You do not know what she has been going through, and she and I do need to have a discussion about that. However! That is not a matter for you to interfere with. If I felt unsafe or was unsatisfied with this relationship, do you truly believe that I would have remained here? Do you think… …Oh no…”
+
+Avyna trailed off mid-rant as she recognized the sound that dimly penetrated their tent. An alarm—namely an urgent call to battle.
+
+“Stay inside!” Ranthia ordered, as she cracked the entrance to the tent open. She immediately swore, threw an image out of the tent, and soon vanished from the elves’ sight. Mother and daughter looked at one another uncertainly as the flap fell back closed.
+
+The damned winged ogre was inside Remera, rampaging through the tents. The darkest form of chaos was visiting her home. Some legionaries fled, others unleashed attacks that all too often failed to even pierce the ogre’s dark hide. The dwarves were trying to respond, but the press of bodies was making it challenging to move through Remera.
+
+The town of tents had never been designed for a significant percentage of the base to move in opposite directions at the same time.
+
+Ranthia had shifted directly onto the base’s walls—she wasn’t about to waltz out of her tent and risk letting the twisted twin learn which tent was hers. She refused to risk endangering Avyna or her spitfire of a daughter.
+
+“Hey, Fuckface Wing-for-brains!” Ranthia called out.
+
+Just as she hoped, the monstrous shimagu turned to her and roared with fury borne of hatred. If she could bait her opponent outside Remera, she needed to. There was an open question of how he managed to bypass the [Mages] and everyone else on wall duty, but she could wring necks later—she needed to kill the twin before he crippled Remera or found someone she cared about.
+
+The ogre bore little resemblance to the twin that she met when the convoy set out to establish Remera. The torso was still undeniably that of an ogre, but long, dark claws had sprouted from each of his fingers. His face and head were like something out of a story, a blend of dinosaur-like features and those he one possessed. His body was hunched, and his musculature had inflated like a bad caricature of a living creature, with a wingspan nearly twice as large as it once was. His feet were no longer feet; they had been entirely replaced by the talons of a predatory flying beast. And his dark green hide was thick enough that rough skin and an endless expanse of wrinkles covered him from head to toe. He had mutated more than she had known when he flew ahead of the ornithocheirus—that or he had, somehow, twisted further in the hours since.
+
+Not that it mattered. The twin hurled his familiar massive club of stone at her, forcing her to dance to the side to avoid the clunky projectile—which was impressive, considering the distance between them. Unfortunately, that was to be expected…
+
+[Warrior – Mountain] level 719. [Warrior – Erosion] level 621. [Ranger – Forest] level 747.
+
+When Ranthia first encountered the ogre, she had out leveled him in everything except their respective third classes. He had kept his third class capped at 256 in every encounter since, yet after classing up it had enough banked experience that he was nearly at the next class up tier. The war had been unfairly kind to the hateful, bestial ogre.
+
+Which raised a question: what in the name of every god and goddess had the ogre done?!
+
+But her opponent hadn’t moved beyond throwing his club. Already, he was conjuring a replacement through some Skill or another. She wouldn’t get anywhere if he just stood there, throwing stone clubs further than she could throw her knives! She needed to convince the brute to come to her.
+
+“Yes, I’m talking to you. Or have you become as stupid as you are ugly? Because let me tell you, that would be a hell of—eep!”
+
+Ranthia had to cut her trash talk off with a mortifyingly undignified sound of surprise. The ogre launched himself at her at speeds far beyond what she had expected—level gap or not, she hadn’t expected the ogre to be so much faster than she was. Ranthia tried to dance away, but the stone club cleanly impacted the side of her body with enough force that she found herself launched off of the wall.
+
+Her body caved in from the blow. On panicked instinct, Ranthia threw an image out to her side and shifted over to it—[Reflections of Reality] narrowly completed the activation process an instant before her damaged body was obliterated in mid-air by the thrown club.
+
+Her shattered armor tore into her side, and she was still airborne. But those were trivialities that she could endure. She tapped [Sustained Chaos] and hurled a fully empowered knife directly at the ogre’s freakish face.
+
+A tendril of Ooze whipped out and deflected the knife back at her, but even the ogre’s power was insufficient to harm her with her own adamantium—[Adamant Commander] snapped the knife back to her hand. Moments later, Ranthia landed—stoically ignoring her knees’ protests—outside the base. She resumed her dance, ready for the ogre’s next move.
+
+Only to blink when the ogre snarled at her and dove back into Remera!
+
+“So much for stupid.” Ranthia grumbled to herself while she threw an image to the wall and waited through the precious, dangerous moments it took to shift into it.
+
+Inexplicably, Ranthia found no sign of the ogre within Remera. The base was in chaos with men and women running in every direction, shouting over each other. Two different fires had broken out, yet the legionaries and many of the dwarves were just standing around while they shouted for her, as if… Wait…
+
+[Combat Awareness] screamed almost the very instant realization dawned.
+
+The ogre’s blood-covered claws missed her by a margin that had to be slimmer than the width of her blades. Shards of steel and sparks flew where the tip of his claw left a shallow groove in one of the steel plates of her ruined armor, but she managed to dance clear of her near disemboweling.
+
+The ogre had grabbed onto the wall right beneath her and had waited for her to drop her guard! Ranthia stepped back, threw an image immediately behind herself, then let out an angry shout as she charged forward. Knives held ready, she leapt from the wall and threw herself at the ogre’s left wing. If she could just clip one of the oversized appendages…
+
+She swore as two whip-like Ooze tendrils intercepted her. She managed to deflect them with her knives, but the force behind them drove her off-course. The parasite’s fucking Ooze was strong enough that Ranthia might have lost her grip on her knives, if not for [Higher Power] mitigating the impact. As it was, Ranthia had to shake her arms, but she had a larger problem than a minor case of numbness.
+
+The winged twin lunged for her. Ranthia tried to form an image that she could kick off of to redirect her momentum, but there was no time—her opponent was too close and too fast. The brute seized her forearm in one clawed fist, and sparks flew as his claws splintered when he tried to crush her forearm. Powerful or not, her bracers were adamantium and were backed by her vitality—the ogre wasn’t overwhelming enough to stand a chance against the practically invulnerable metal. While he was distracted by his failure, Ranthia delivered a savage kick to his stomach. It felt like kicking a rock, but the ogre released her and started to spin. He was trying to prevent her from striking his stomach, but he just let his—
+
+He had a tail. Ranthia hadn’t even seen it behind his bulk until that moment. He certainly hadn’t had that tail that morning.
+
+The tail smashed into her stomach and sent her crashing into a tent, but through her pain and her inability to get a decent lungful of air, she still obsessed over her frustration at getting sucker punched by an unknown limb. The damned tail even had a bone (or maybe stone?) ball at the end, like some species of dinosaur! It wasn’t exactly tiny!
+
+Inwardly seething or not, Ranthia wasn’t stupid enough to lay there complaining. She indulged in her frustration until the moment she completed her shift back to the image she had left on the wall. While she greedily sucked air into her restored lungs, she watched the ogre smash shoulder-first into her abandoned image.
+
+Xaoc willing, no one had been in that tent. She wasn’t even sure which part of Remera she was in—her focus on her deadly opponent left her discombobulated—but it wasn’t her tent, at least. And as terrible as it was to admit it, she was willing to accept every other tent in the base being destroyed, so long as Avyna and her daughter were safe. She would mourn for others—especially their friends—but she had her priorities, no matter how un-Sentinel-y they might be.
+
+“Feel free to keep running away!” The ogre suddenly screeched, in Creation, with his twisted, shrill voice.
+
+Had he seriously lost track of her? Two more whips of Ooze lashed out, one from each of his shoulders, and tore through a nearby intact tent with ease. Then they snapped back through the canvas, dangling a legionary in full heavy kit. The man struggled, but he hadn’t even unlocked his third class yet—he was wholly outclassed by the single Skill from the ogre’s pet parasite.
+
+Ranthia activated [Sustained Chaos] and hurled both knives with everything she had—aimed for the ogre’s torso. The next instant, she placed an image behind the ogre and activated [Reflections of Reality].
+
+The Skill still wasn’t instant. And her opponent was fast. Two more tendrils of Ooze formed—from the ogre’s armpits, distressingly enough—and sacrificed themselves to blunt the threat her knives posed. Even as the ogre pulled the man close and his mouth opened far wider than it should have.
+
+Ranthia’s perception shifted into her new body the same instant as the ogre’s gaping maw tore through the man’s neck and shoulder.
+
+[Adamant Commander] had enough power to wrench her blades free of the damaged Ooze. With them in hand, Ranthia lunged at the ogre, even as he hurled the still living—though horrendously wounded—legionary carelessly aside. The ogre spat a mouthful of bloody meat, ruined leather, steel, and bone at her, even as his intact Ooze whips tore through the air.
+
+But this time, Ranthia was ready. She wasn’t some berserker throwing herself recklessly at her opponent. No matter what the situation was, she was a dancer.
+
+Ranthia’s foot found the splintered remains of what used to be a weapon rack, which gave her all the leverage she required to weave her way past the tendrils. She remained light on her feet as she closed in. Finally, she had the thrice-cursed fool—he was flatfooted and unarmed. She sent an image behind him as she closed into range.
+
+A new stone club—far smaller than those he usually used—appeared in his clawed fist in an instant. The ogre swung his newest weapon at her, which forced her to use her Void-kissed left knife to intercept his attack. [Void Edge] carved through the conjured stone, but her opponent managed to twist away from her follow-up attack with her right knife—he received only a shallow wound on his arm from their exchange.
+
+Ranthia sprang back before his tail found her and activated [Reflections of Reality] once again. The tail smashed into the baseplate with a muffled clang, followed by his whips. Her perception warped to the new image before they reached her. Her opponent’s eyes widened.
+
+He was off-balance and his appendages were all moving in the wrong direction—he couldn’t possibly stop her.
+
+Ranthia brought her knives up, and the winged ogre launched into the sky as though he had been fired from unseen artillery. Ranthia’s Void erased nothing except air.
+
+“Which of us is running away now?!” Ranthia snarled after her opponent.
+
+Even his strange ability to suddenly shoot himself into the air was far, far faster than it had been when she wounded him, back when he sought to prey upon their scouts. She was frustrated, but she danced in the remains of the ruined tent while she waited.
+
+Her opponent wasn’t fleeing. He circled tightly through the air above her, then entered a sharp dive, eyes locked on her mistweave. Ranthia sent an image through the hole the ogre had torn in the adjacent tent and waited to meet the ogre’s dive. She was willing to endure a bit of pain if it meant she could inflict true harm upon her opponent before she had to shift.
+
+It wasn’t like those powerful elves—may Xaoc curse their cowardice—were bothering to visit the promised elven retribution upon the twin!
+
+The ogre arrived. His claws bored their way deep into her shoulders and upper arms, but Ranthia slammed both knives into the ogre’s chest. Unfortunately, she couldn’t sweep them through his organs while he held her limbs in place, but she was content that she had inflicted a deep wound—even if her opponent wasn’t showing any signs of pain. Ranthia, inwardly, reached for [Reflections of Reality].
+
+…And learned that her image inside the tent was gone.
+
+A tendril of Ooze revealed itself as it retracted—the ogre had somehow guessed her plan! The brute’s wings tore at the air as he began to lift off with her.
+
+Ranthia snarled defiantly and activated the Skill again, seeking the image that she had left atop the wall. Yet, once again, [Reflections of Reality] failed to find purchase. Ranthia felt like ice flowed through her veins. The ogre had never gotten close enough to possibly have destroyed that image. The image she had left outside of the base was gone too!
+
+In the mere moment she was distracted, her opponent hunched his torso, which let him twist his body enough for his foot-talons to dig their way into the meat of her thighs. Ranthia hissed in fury as she struggled, but her opponent had her firmly grappled—she was helplessly pinned by his far greater strength.
+
+Worse, the only thing she could see was the ogre’s hideous form. Desperately, Ranthia thrashed as she sought the barest glance around his shoulder or enough space to turn her head. She needed line of sight to create images, yet every time she succeeded, a tendril of Ooze destroyed one of her still-too-fragile images before she could shift.
+
+They were rolling through the air in ways that Ranthia suspected were physically impossible—but for the System’s influence—for creatures that flew through the power of wings, even as they ascended higher and higher into the sky. At length, her opponent seemed to realize what she was doing or how [Scattered Reflections] worked and a thick band of Ooze cemented her head and neck in place, her gaze locked onto his broad, leathery chest.
+
+True desperation settled in. She was pinned and she couldn’t even get enough leverage from her arms to throw a knife meaningfully. Ranthia howled obscenities and abuses at her captor for a precious moment or three, then silently, desperately struggled while she tried to come up with a plan—some way to escape.
+
+“I finally have you, monster. I’m ripping you apart in midair, then I’ll devour your head. That should stop you from coming back. And if not? Well, I guess I’ll just have to consume every last scrap of your stinking meat!” The ogre snarled triumphantly. His foul, fetid breath was hot against her face.
+
+He was baiting her for a response. She had felt his Ooze gathering on her cheeks, and she had no intention of letting the beast that was once an ogre stuff her mouth full of Ooze. No one truly knew how the parasites reproduced or spread to other hosts and she was feeling—paradoxically, considering her situation—somewhat risk averse.
+
+Instead, Ranthia glared murder at her captor—channeling every whit of her fury and venomous hate into her glare. He couldn’t appreciate it thanks to her blindfold, but it cleared her head ever-so-slightly.
+
+Then [Combat Awareness] pinged. She was in so much danger it felt as though the skill was politely informing her that a new bit of pain was inbound. An arrow launched from somewhere below flew perfectly past the flapping leather strips of her skirts and punched deep into the meat of her butt. She already had claws and talons tearing into her flesh, so the newest source of agony barely even registered.
+
+Seriously, how did someone have aim so terrible that they managed to hit her?! She was less than half the damned ogre’s size, even before his wings. For Xaoc’s sake, whoever did that should have aimed for his wings; if a lucky hit managed to force him to release her or even dropped them both from the sky, her situation would be immeasurably improved!
+
+The ogre let out a surprised hiss and hurriedly beat his wings, bringing them even higher into the increasingly cold sky. Sadly, the brute was undeniably clever—he knew that the archer threatened his moment of triumph.
+
+This can’t be how it ends! Not to this blight on Pallos! Ranthia screamed inwardly. Yet no matter how she struggled, her opponent’s grip proved to be unshakeable. All that she was accomplishing was digging his claws even deeper into her flesh, and her blood wasn’t slippery enough to foul his deadly grip.
+
+Her pain was ramping up by the moment. Her opponent was, oh-so-fucking-slowly, applying more and more force upon her. His forelimbs pulled her upper body by the shoulders and forearms in one direction while his hindlimbs pulled her lower body by her thighs and hips in the opposite direction. He was taking his time, content in his safety.
+
+The fucker wanted her to suffer.
+
+She had been torn apart plenty of times. Which was a terrible sentence borne of more than a few horrible life experiences. But she had never been slowly, leisurely pulled apart by someone that just wanted to find out exactly how much force it took.
+
+She had never felt so helpless.
+
+There was no hope of rescue. As much fun as the mental image of Sentinel Aurora crashing her [Starship] into the ogre was, the sun hadn’t set. Aurora was the only Sentinel that could get so high—as far as she knew—and Night’s arrival was similarly impossible. No one in Remera had a flight Skill worth a damn; arguably she had the best one. And after everything, it was clear those two elves were no allies to her.
+
+And yet, even as the pain built up… Even as her bones started to crack and her flesh started to tear… Ranthia found her plan.
+
+It wasn’t a good plan. It was desperation masquerading as tactical decision-making. Even if she succeeded, there was a real chance that it would be nothing more than a final act of vengeance, but if she was about to face Xaoc, then by every last god and goddess, she would drag her killer along with her.
+
+Her opponent planned to devour her head, which meant he needed to adjust his grip and bring her upper body within striking range!
+
+With her mind settled, Ranthia stopped thrashing. She pretended to be in too much agony to do anything but scream, while she kept her mouth and teeth remained tightly clenched shut. Which… wasn’t much of an act; it was damned near the truth of her situation.
+
+She knew the agony of being torn apart. But having it play out slowly somehow made it far, far worse.
+
+The pain built. Every instant invented a new, slightly different form of suffering. Then came wet tearing sounds, followed by the final, horrible crack of bone. And then, with a final roar of triumph, the ogre tore her in half. Her ribcage and everything that was above it went one way. The rest of what used to be her went another.
+
+Ranthia very nearly lost herself in the exquisite agony of that instant. Darkness and an all-encompassing light clashed for dominion over her mind as she clung desperately to her fading consciousness. And while the desperate struggle to endure for a few precious moments waged in her mind, her body hung limply in her killer’s claws.
+
+Ranthia was losing her struggle. She faded rapidly in the interminable moment her opponent held her in triumph. And then her mind convinced her that she heard Avyna scream.
+
+Gods damn everything—Gemheart, you were supposed to wait inside! The thought brought her from the brink of oblivion. Unwittingly, she nearly laughed aloud at the absurdity—she was literally dying, yet she was worried about Avyna’s safety somewhere far, far below!
+
+Hopefully, the ogre assumed it was just a shudder from her failing body. She had dropped her knives from her near-lifeless grasp at some point, but her bracers were crumbling to replace them. The ogre released his grip on her left shoulder and raised her up. Through her blindfold, she watched and waited for the perfect opportunity—she wasn’t close enough yet. Her opponent wasn’t committed to a strike.
+
+If her final attack failed, she would die alone. And that couldn’t be tolerated.
+
+Yet every heartbeat threatened to be her last as her lifeblood and other viscera tumbled free of her severed torso. With every last drop of her willpower, she fought to hang on. She struggled to stave off Black Crow’s approach. She just had to wait a few more moments.
+
+Her opponent’s maw split open, wide enough to hide his eyes. And her moment came.
+
+Now.
+
+The thought was meant to evoke a war cry, but a weak, wet gurgle was all that escaped her throat. Perhaps it sounded angry. But what truly mattered was that her freed arm lashed out. [Void Edge] and [Echoes of Devastation] were active. There was no way to dance, but the lethality of her Skills would be enough. She had the perfect angle and range—there was nothing that could possibly make her miss.
+
+And yet.
+
+Something went wrong and her arm failed to move quite how she willed it to. The ogre’s bestial lips dropped just enough to show her the twisted man’s surprise reflected in his eyes—the only reaction he managed in his final moment. And then he was gone.
+
+But she had swung too high!
+
+The kill notification for the ogre appeared, but she ignored it after confirming what she already knew—there was no paired notification informing her that she had killed the ogre’s parasite! Without the host’s vitality infusing the corpse, Ranthia saw the parasitic ooze writhing within thanks to [Vision of the Void]. Her other arm was still pinned in the dead ogre’s grasp and there was no time to try to free it; she tried desperately to bring her knife back around instead. But the blade had escaped her grip at some point, and her empty hand kind of pathetically thumped against the shoulder of the ogre’s corpse—which wasn’t at all what she had tried to do.
+
+The top part of his head was gone, but she still found herself staring at a triumphant smile frozen across his face.
+
+A heartbeat was the only respite she received, before countless tendrils of Ooze lashed out and began to smash into and tear through her body, one after another. Bones broke and the last of her armor scattered to the winds. The final knife fell from her newly shattered arm’s grasp.
+
+And then she was wrenched free of the ogre’s final death grip. It should have been her moment of salvation, but what she found herself in wasn’t an uncontrolled descent. Ranthia tore through the sky at impossible speeds, driven by some Skill that imbued the Ooze that still coated the ruined fragment of her body.
+
+Caw! Caw! CAW!
+
+She wasn’t sure if he was real or imagined, but even as the wind screamed past her ears, Black Crow drew near. Ranthia tried, desperately, to ignore his approach as she struggled to activate [Scattered Reflections] and [Reflections of Reality]. The former Skill had always felt as if it was instant, but even before an image fully formed in the air above her, she made impact.
+
+And everything went black.

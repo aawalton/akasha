@@ -1,0 +1,119 @@
+---
+id: b780b924-aa7c-5984-8a3a-613efbcad809
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 47 - Recruitment"
+slug: 0051-b3-chapter-47-recruitment
+partOf: bookbound-bunny
+position: 51
+ownLength: 2093
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3459090/b3-chapter-47-recruitment"
+royalRoadId: "3459090"
+---
+
+After an exciting end of the weekend, resuming lessons seemed dull in comparison. If that wasn't bad enough, it felt as if time was dragging on the more they anticipated the weekend, and this applied doubly to Lily.
+
+The excitement of trying to race through the dungeon again was one thing, but what truly occupied her mind was her promised lesson with Arakil. The first lesson had been unexpected, and probably a little unprepared, so the second one left Lily bursting with anticipation.
+
+To accommodate both activities, Lily excused herself on the first day of the weekend. In the morning, she would have her weekly alchemy class, which left the afternoon entirely booked off for Arakil. At the same time, this would leave a whole day for dungeon diving the next day, to fully maximize their attempt.
+
+Who knows, maybe I'll even have a new trick up my sleeve from the lesson.
+
+Lily was optimistic, despite Arakil trying his best to temper her expectations. Repeatedly, he'd emphasized that drawing with will or intent was something that took a long time to grasp, let alone master. Yes, the mental landscape was the prime location to train it, but it still required time and dedication, even with the advantage.
+
+The actual school week was not much to talk about. Lily sacrificed her Spellcasting Fundamental lessons as usual and used the time to stock up on some more crystal seeds while also creating more discs for Hana.
+
+The girl had promised to be ready for their next attempt, which, unfortunately for Lily, meant that she was burning through the tools at a remarkable pace. While most students didn't explore the dungeon during the week due to a lack of time, Hana used the hour or so to desperately train in secret, as she couldn't reveal the crystals outside.
+
+Lotte was also making her own improvements, although she took a rather different approach than the others.
+
+"I'm training Jade to fight with me!" Lotte declared.
+
+Looking at the gluttonous green lizard rolling around, Lily didn't believe it until she recalled that it could barf out blobs of toxic acid, not unlike her master.
+
+"I suppose having an extra party member will help," Lily eventually agreed.
+
+"It's the only short-term benefit I can think of," Lotte said. "I considered trying to brew up some alchemical items, but it would be far too costly. Then I caught Jade slurping down some of my failed potions and thought of putting her to work."
+
+Lily nodded as the more she thought about it, the more she liked the idea. Jade was a little unique in the batch of Familiars that her friends had, with seemingly the only one that was combat-capable. Hana's Tach, for example, could only be a distraction if it flashed with light in a monster's eye. Arthur's Sphii could provide a flying scout, but had no chance of combat. Thomas' Yona… Honestly, Lily wasn't sure what to make of the cat creature and decided it was best to ignore it.
+
+Speaking of Familiars, I don't even know what Wallace, Garet, Frederick, or Clarissa have summoned.
+
+It was easy enough to find out the first two, as they weren't exactly subtle about it, and Wallace was a teammate of Hana during the camping trip.
+
+Wallace had a squirrel he named Flint, and, out of all the Familiars, it might have been the least remarkable of the bunch. Flint had displayed only one special ability, which was turning into a rock, and otherwise would be mistaken for a perfectly ordinary squirrel. Wallace didn't seem to mind, though, and according to Hana, he dotted on his Familiar quite often.
+
+Garet's Familiar was a strange impish creature that he named Torch. It was red and yellow, with small, dainty limbs that made its slightly bulbous head and body even more remarkable, along with curved horns and big blue eyes. It looked strangely cute, in a weird sort of way Lily couldn't explain, and Arakil claimed it was kin to an elemental or spirit of fire.
+
+As for the last two, nobody had any idea, not even Garet, whom Wallace asked on behalf of Hana. Although this was a little weird, it wasn't too out of the ordinary, as for the most part, students weren't supposed to have their Familiars out and about during the dungeon run.
+
+The Familiars' greatest strength was to be a backup Mana container for the mages, and any other coincidental benefits they could provide were merely the cherry on top. Take Lily, for example: from the outside, for those who didn't know the truth, Arakil was actually the perfect Familiar, as he seemed indestructible and thus removed the risk of losing your Mana reserve.
+
+Of course, the reality of the matter was far different. Arakil had no reserves for her, and Lily dared not waste even a drop of his precious Mana. Lily's increased capacity that she displayed was purely the work of her refining her Mana Core whenever possible, which, before the dungeon opened up to them, was quite the struggle. Thankfully, that potential issue was more than resolved, and now Lily was actually ahead of her peers in terms of capacity.
+
+The professors also spoke about the upcoming event, although what had previously been described as a competition was sounding more and more like a mini-festival. Yes, the spirit of competition still remained, but it was also a celebration for Regarth and a way to show off everyone's internal growth, magical or otherwise.
+
+Nothing was compulsory, and from what Lily discovered, many students actually just enjoyed the time off, which gave the vibe of a festival. Competitions aside, Professor Melina actually advised some students looking to make some cash on the side to set up a stall and sell food during the occasion. Professor Sylwel also mentioned something similar, saying it was a good opportunity to advertise yourself as an up-and-coming alchemist.
+
+Since it was internal, the three factions also played their part, encouraging their members to take part and compete. Lily and Lotte even received an unexpected visit from Bradley, the acting student chairmen of Maranix, who asked whether they were planning to enter any of the events. Both ended up giving him the same answer: alchemy and the dungeon duos, leaving him a bit perplexed. No doubt he was hoping one of them would be taking part in the highlight of the festival—dueling.
+
+While the dungeon competition had great prestige, it wasn't something everyone could watch, and all you could see was the scoreboard of the best times outside the entrance. On the other hand, the duels were extremely public and basically everyone watched them, especially the finals.
+
+Lily considered his request, but ultimately politely declined. She didn't have the energy to do both, and one of the reasons she chose the dungeon was to partner with Lotte, who was barred from the duels. Thomas was taking part, egged on to compete against Arthur and Wallace, meaning that if Lily didn't pick the dungeon, Lotte would be forced to partner with someone random within Maranix.
+
+Bradley certainly tried his best to get her to reconsider, even throwing out the fact that Rose took part in both dungeon and dueling, but Lily didn't take the bait. In fact, Lily countered that, unlike Rose, she was involved in alchemy and would be adding enchanting to that next year. Therefore, she simply didn't have the time to split her focus in so many directions.
+
+Lotte even threw out the condition that Bradley work to change the competition so she could compete if he really wanted to win them over. Ultimately defeated, Bradley thanked them both and promptly left. Lily felt a little guilty seeing his retreating figure, but held her ground. No doubt someone within Maranix had mentioned her performance in PMC to him, hence the recruitment drive.
+
+"You sure you don't want to do the duels?" Lotte asked privately.
+
+"Doing the dungeon with you is way more fun," Lily answered, confirming her decision. "Besides, I'll probably be involved with the duels in the interschool tournament, and as far as we know, there isn't a dungeon competition there."
+
+"If Regarth was hosting this year, there would be," Lotte sighed. "The other schools should just back off. Clearly, they are inferior. Who wouldn't want to compete in the dungeon?"
+
+Lily smiled and reassuringly patted her friend's shoulder.
+
+Depending on which school was the host, additional competitions would be added that they specialized in. Obviously, the host held an advantage with these, but it was seen as a tacit agreement to give them an almost guaranteed shot at winning at least one event, allowing them to save face. For Regarth, this would obviously be the dungeon, and for Tresnia, it would probably be something crafting-related, but Lily had no idea what the other schools would choose.
+
+Stremweth probably has a snooty competition, Lily silently snickered to herself.
+
+Unfortunately, Lily's refusal to take part in the dueling competition had become public knowledge, and her classmates had mixed reactions upon learning of it. At first, Lily suspected Bradley had done so to twist her arm into agreeing, but on second thought, she concluded he didn't seem like the kind of person to do so.
+
+The real suspect was soon found out, and all signs pointed to Clarissa, who was taking the news awfully well. In fact, the girl proudly declared that Lily was afraid of losing publicly, and that was why she wasn't taking part.
+
+Of course, such a claim was completely outlandish, and unless you were one of her cronies, you couldn't reasonably agree with her. During PMC, Lily had never lost to Clarissa even once, and if she used her combination of Lunar Radiance and Lunar Eclipse, it was laughably one-sided.
+
+Clarissa naturally had a counter to anyone who rightly pointed this out: she was simply holding back, as you should never reveal all of your cards until it really mattered. When Lily heard this, she couldn't help but give an almost pitying smile. Yes, what she said was true, but apparently Clarissa hadn't even considered that Lily was holding back.
+
+"She really has some nerve," Lotte muttered angrily.
+
+"It's fine," Lily replied, shrugging it off.
+
+If the rest of the class was joining in on her poor attempt at bullying, Lily might have cared more, but this was far from the case. If anything, the other students were grateful that she wasn't competing, as having to publicly suffer under Lunar Eclipse would no doubt tarnish their image in front of the school.
+
+"I just can't believe what a nasty piece of work she is," Lotte continued.
+
+"She's not that bad…" Thomas surprisingly chimed in.
+
+Lotte practically jumped down his throat. "Not that bad?"
+
+"I think she's just a bit too proud to admit defeat, no matter what—" Thomas tried to defend himself, but Lotte wasn't buying it as she began shaking him by the collar.
+
+Lily couldn't help but chuckle at the sight. Thomas was trying and failing to explain himself while Lotte refused to listen. She was glad to have a friend who cared so much about her, although in this case it was unnecessary.
+
+Even the orphanage had better bullies than this. This is just… Sad.
+
+Lily easily threw it to the back of her mind. The weekend was drawing ever closer, and she would finally get to enter the grimoire again. That magical library was like her refuge, and she was quite literally counting down the minutes.
+
+The buzz of the upcoming festival helped pass the time a little faster, and soon the glorious weekend had arrived again. Lily's alchemy class was a blur as she barely paid attention, and thankfully avoided any careless, catastrophic accidents on sheer muscle memory. Her hands prepared ingredients and stirred the cauldron as if guided by an invisible force.
+
+At lunch, she scarfed down her food almost faster than both Jade and Yona, before quickly saying goodbye to her friends and darting back to her room. Lily took out a prepared note asking not to be disturbed and left it outside her door, which she also locked.
+
+"Is it ready?" Lily asked Arakil, barely able to contain herself.
+
+[It is, although I suggest taking a breather before we start, or you might prevent the spell from correctly taking hold.]
+
+Lily's eyes widened, and she began trying to forcibly calm down. Even reciting her old mantra like the old days, until she heard Arakil faintly chuckling.
+
+[I was only joking.]

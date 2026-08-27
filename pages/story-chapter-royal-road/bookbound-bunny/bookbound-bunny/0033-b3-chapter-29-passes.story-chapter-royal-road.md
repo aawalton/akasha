@@ -1,0 +1,157 @@
+---
+id: 915e2d51-3148-5a02-97de-d02fb74b5c75
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 29 - Passes"
+slug: 0033-b3-chapter-29-passes
+partOf: bookbound-bunny
+position: 33
+ownLength: 2135
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3271321/b3-chapter-29-passes"
+royalRoadId: "3271321"
+---
+
+Lily's secret conversation with Arakil thankfully ended in time for her group's turn to share some of their stories. Lily felt a little bad about missing out on hearing what the other two groups got up to, as it felt like she was doing precisely what Alice had accused them of earlier.
+
+I'll ask Lotte about it when we get back…
+
+For the most part, Lotte and Thomas recounted their adventure. Both were far more social than she was, so she let them handle it. Of course, when it came to glyphs, Lily was forced into doing some talking and explaining in simple terms what she had drawn and why.
+
+Alice didn't seem too surprised by her explanations, which Lily assumed was because she occasionally spied on them. The other students, however, appeared quite shocked.
+
+"Unbelievable… You can do all of that with glyphs?" Wallace asked.
+
+"Isn't this cheating?" Garet suggested.
+
+"Why, just because you can't do it?" Arthur asked with a snort.
+
+Arthur's bluntness caught them off guard, and they began to hold their tongues. If that wasn't enough, Lotte landed the finishing blow.
+
+"If you think it's so easy, why don't you start studying them? I'll hold my breath for when you come crying that it's too hard to draw a perfect circle."
+
+While Garet and Wallace might not have known much about glyphs, the noble students did. Which might have been why neither Clarissa nor Frederick had said anything, instead just looking astonished.
+
+After that, they wrapped up their story, and while Lily missed the other group's summaries, the continued surprise on their faces led her to believe they hadn't gone as far as her team. Naturally, there had been no mention of the dryad, with the origin of the treasure chest being "hidden in the forest beyond the river," which was technically true!
+
+When the stories were done, Alice called the group's attention to wrap things up. "We will be heading back now, where you can submit the resources you gathered, and they will be officially tallied up. The school will offer a price for your various spoils if you don't want to bother handling that yourselves, or you can keep them; the choice is yours."
+
+"And that will give us our final score?" Garet asked, his nose twitching.
+
+"Yes. Although, like I said, all nine of you are winners. In fact, we had zero dropouts this year," Alice revealed.
+
+"Meaning…?" Arthur pressed.
+
+"Regarth has a good chance of winning this year's competition," Alice replied.
+
+While the students were somewhat excited to hear that, it was actually a disappointing answer, as they had hoped for a greater reward or prize. The mock gauntlet had given everyone a treasure, and most students still didn't have a storage bag or pouch unless they came from wealthy families.
+
+Seeing their evident disappointment, Alice grinned. "Okay, okay, I'll stop teasing you kids. Everyone who passed will have their permission tokens upgraded to allow exploration of the first floor."
+
+Smiles and excitement broke out on their faces; finally, they were getting proper access to the dungeon. However, Alice didn't stop there.
+
+"I'll just remind you that the official first floor is not like we've been doing in our classes, which have been strictly controlled environments. The monsters are the same, so is the general layout, but don't expect things to be as clean as they were before."
+
+The students all bobbed their heads in understanding and agreement, vowing not to underestimate the dungeon.
+
+Alice smiled again. "In addition, you nine will gain access to the second floor. Although no camping, you will have a curfew you need to exit the dungeon by, and certainly no skipping classes."
+
+Everyone was elated by that.
+
+"Does that mean the ultimate winner will get access to the third floor?" Garet asked, his eyes now sparkling.
+
+"Or will they be allowed to camp out?" Thomas asked, offering a more reasonable suggestion.
+
+Alice paused, tapping a finger against her lip as she thought. "I'm not sure… I'll have to talk to the headm—fuzzball, about that."
+
+Lily suppressed a giggle at Alice's slip-up. For whatever reason, she insisted on calling Headmaster Fabrellis "fuzzball" no matter what.
+
+"I hope it's something good, or was this ranking all for nothing?" Arthur asked.
+
+Alice shook her head, apparently there was a reason. "You were actually competing for privileges for your factions for the upcoming internal Regarth competition."
+
+"Privileges?" Clarissa asked, seeking clarification.
+
+Lily saw that nobody knew about this, so none of the older students had leaked it, or maybe even they weren't privy to this information.
+
+"Yes, there will be a dungeon competition, something similar to the gauntlet you participated in. Anyway, the order of your entries will be determined by your ranks here, including the people who left early. Your total days are worth a certain number of points each, and then the resources you acquired will also be added. In theory, there's a good chance some of the groups who left early might do better if they got lucky during their harvests."
+
+It was surprising to hear this, but Lily actually found it relatively fair. Otherwise, students who did nothing but hunker down in their camps would be the ultimate victors, which wasn't really adhering to the principles of exploring a dungeon. Yet awarding based on resources alone would encourage recklessness, so the total stay had to be rewarded.
+
+"What benefit does our entry order matter?" Thomas asked.
+
+It was a good question, and the other students stared at Alice in anticipation.
+
+"Well, hypothetically, if the tournament were a treasure hunt… Wouldn't going in first be a significant advantage?" Alice suggested, trying to sound vague.
+
+Now the students understood, as they had assumed, that it would be something like their own test, which had no benefit to the entry order. Lily could actually think of a few other reasons where going first could hold an advantage; for example, if it were another camping test, the group that went first could select the best location.
+
+And this is all just on the dungeon side; there's still the crafting and duels to look forward to.
+
+Lily was excited for the crafting side and wondered what Professor Sylwel had in store for them. If it were something like "brew the strongest poison," then Lotte could probably win by default, but she assumed there would be multiple factors involved.
+
+As for dueling, Lily was conflicted. She was perfectly fine with fighting monsters, but battling another student felt weird. She knew it would be a controlled environment, and part of her wanted to prove that Arakil's teachings were the best, yet she still felt a tiny bit conflicted.
+
+I guess I'll wait to see what the rewards are. As Miss Camilla would say, time is money!
+
+Despite this competition, Lily still didn't really feel the urge to enthusiastically represent her faction. She had offhandedly asked Rose why the students were so amped about their factions, but the response was just "it's fun," and when Lily asked if Rose herself was caught up, the answer was "well, my faction naturally needs to be the best!"
+
+Lily had almost regretted asking about it; her big sister really had a one-track mind. However, despite not being instilled with the Maranix spirit, the same could not be said about representing Regarth. Lily wanted her and Rose's chosen school to do the best, and would willingly participate in any competitions they asked her to.
+
+Being asked was probably another reason why she felt that way. The faction competitions were where you primarily represented yourself, whereas the interschool ones represented Regarth. If Regarth asked for her help, who was she to turn them down?
+
+I hope I'm not the weird one for feeling this way.
+
+The trip out of the dungeon was comically uneventful, so much so that a few of them joked that the dungeon "wanted them gone" for causing too much trouble. Lily chuckled nervously, because there was a reasonable likelihood of that being true for her and Arakil.
+
+Since it was so peaceful, Alice spent most of the time chatting to the students about the dungeon and their newfound opportunities. It seemed everyone had assumed that they could just travel to the second floor again if they wished, but Alice popped that bubble.
+
+"You'll only be able to access the second floor after you conquer the first floor," Alice explained. "As I mentioned previously, none of you has actually been to the real floor, so your trip to the second floor this time hasn't been registered on your passes."
+
+This was news for everyone, as they had wrongly assumed that the pass was only needed for entry into the dungeon; they had no idea there were restrictions per floor. Thankfully, Alice continued her explanation.
+
+"The reason you need to unlock floors is so that you can travel to your destination sooner. You'll see when you use the official dungeon entrance, rather than the one in the back of my classroom, that there's an additional staircase. By heading down this one, with the appropriately unlocked dungeon pass, you can exit on pretty much any floor you want."
+
+This was definitely good news, as if they had to stick to the curfew, the chances of them reaching the second floor and back with enough time to spare for adventure would be extremely limited. This, bundled with the fact that Alice kept mentioning the official first floor was different, would have likely ruined any chances of enjoying their reward for reaching the end of this camping trip.
+
+"Then what's stopping us from beating the second floor and going to the third?" Arthur asked.
+
+"The fuzzball," Alice answered with a smirk. "Your dungeon passes will be sealed from marking the second floor as complete, so you won't be able to open the door to the third floor and below."
+
+"Of course, things wouldn't be that easy…" Arthur sighed.
+
+"Hey, work on actually defeating the first floor before you start thinking about the third," Alice said, punctuated with a decisive snort.
+
+"What actually counts as defeating the floor?" Thomas asked. "Just reaching the next floor?"
+
+"For the most part, that's all you need to do. Except there might be something preventing access to the next floor, and I don't mean the fuzzball," Alice replied.
+
+At this point, they had reached a massive tree, like the one they had exited to arrive on this floor; however, this one seemed different, and there appeared to be no doorway. That was until Alice pulled out her pass and waved it, causing the bark to creak and groan as it opened up.
+
+"As you can see, your floor authorizations can also help you get back quicker," Alice explained. "However! Do not think you can use someone else's pass to skip floors!"
+
+"Are you serious? Damn it, that was my big plan!" Garet shouted in frustration.
+
+Alice looked like the cat that caught the canary with her smug expression. "You and about every other student. No shortcuts, that's the bottom line."
+
+"Does that mean we need to find the other exit?" Clarissa asked.
+
+Alice shook her head. "No, my pass is special. I can bring you guys along. Oh, and don't even think about trying to steal it; it only works for me, same with everyone's pass."
+
+Someone clicked their tongue, although Lily didn't catch who it was. Evidently, some students had tried to steal a dungeon pass in the past, and Alice was already warning them not to get any bright ideas.
+
+With no further explanation, she gestured for everyone to enter the tree, and when she finally entered, it closed behind her, revealing a door with a large number 2 engraved on it.
+
+Looking around, Lily noticed that they appeared to be on a landing for a massive spiral staircase made of a smooth, shiny black stone going in both vertical directions. There were no torches or apparent lights, yet the entire area was well-lit enough to see without any issue.
+
+"Welcome to the dungeon landing. If all goes well, you'll become very familiar with these stairs when you need to go down floors," Alice said. "Oh, and don't think of jumping down, I mean it. You must use the stairs every time or else."
+
+"Or else…?" Lotte asked.
+
+Alice smirked and held out her left hand, palm up. Then, with her right hand curled into a fist, she whistled as she brought it down to her left hand, opening her fist as they met and making a clapping noise.
+
+"Splat!"
+
+The students looked at Alice with shock, a few gulping nervously, not sure whether she was just teasing them. Lily glanced down at the blackness below and felt her mouth going dry.
+
+Always use the stairs, got it!

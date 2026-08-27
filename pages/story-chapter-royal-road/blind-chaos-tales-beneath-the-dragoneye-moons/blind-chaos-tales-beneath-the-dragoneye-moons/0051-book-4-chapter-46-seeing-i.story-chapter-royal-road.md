@@ -1,0 +1,337 @@
+---
+id: aea88f08-536c-53b8-a669-4ec182883f32
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 46 - Seeing I"
+slug: 0051-book-4-chapter-46-seeing-i
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 51
+ownLength: 5624
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2972822/book-4-chapter-46-seeing-i"
+royalRoadId: "2972822"
+---
+
+Pain. Ranthia wasn’t a stranger to pain; she had thought she’d been acquainted with pretty much every form of it that she could imagine. She had lived through being ripped apart, both quickly and with malice-induced graduality. She had endured severe headaches that felt as though her head was slowly being pierced by a white-hot knife. She had, at some point along her journey or another, presumably broken every bone that was to be found within her body. She endured the lingering wounds and afflictions stemming from every element the System possessed. About the only thing that she hadn’t suffered through was plagues like those that ravaged her body before she acquired it.
+
+And yet, for the first time in a very long time, Ranthia found herself overwhelmed by agony. It was so overwhelming that it felt like she wasted an eternity to even realize that the pain stemmed from her head, rather than the whole of her being. She could barely think through the ongoing torment and her senses impossibly seemed to be both muted and overwhelming.
+
+It was as though the core of her being was being sundered by blinding agony, but she mustered the ferocity of her will. She had endured far too much to be unmade by mere pain! She was supposed to be doing something—even if she struggled to recall what. She just knew there was something important happening.
+
+And she couldn’t suffer forever.
+
+Her eyes were screwed shut, but the visions of conflict that were afflicting her weren’t conjured by her tormented mind—she was somehow seeing!
+
+She had no idea what in Xaoc’s name was going on, but she seized what meaning she could. Voices were too hard—there was too much sound. But her strange—impossible—sight was easier. It was only almost impossible to make sense of, and she had done the almost impossible plenty of times. It was what made her an Adventurer. Er, Ranger—whatever she was!
+
+Ranthia was laying on the ground, face-down (which raised even more questions about how she was seeing, yes, but those could wait). She was tethered by some sort of… something to an… elf? For the barest of instants—even as the Ooze of the tether faded away—her heart surged, but no, it was the copper-haired elf. She was engaging with the dullahan, who was attacking a seemingly empty area with blasts of concentrated Inferno. The elf was fighting him, in Ranthia’s stead!
+
+As she made more sense of things, the pain seemed to have far less reign over her. As she wrested her mind back under her control, memory and context returned to the world around her. If the world had no answers for her, Ranthia hoped the System would. She consulted the notifications that she had silenced—while keeping kill notifications suppressed.
+
+[*ding!* Congratulations! [She who Dances with Chaos] has leveled up to level 758! +100 Strength, +100 Dexterity, +100 Vitality, +100 Speed, +8 Mana, +8 Mana Regeneration, +5 Magic Power, +5 Magic Control from your class, +1 free stat for being human, +2 Mana from your element.]
+
+[*ding!* [Void Affinity], [Rhythmic Grace], [Void Edge], [Flowing Momentum], [Vision of the Void], [Echoes of Devastation], [Divine-Touched Identify], [Sentinel’s War Supremacy], [Submind], [Combat Awareness] have reached level 758!]
+
+[*ding!* Your skills [Combat Awareness], [Divine-Touched Identify], and [Vision of the Void] have evolved into [Divine Eyes in the Void]!]
+
+What?! For the barest of instants, Ranthia could have sworn the description for her new Skill contained only the word ‘See’, blurred and overlaid atop itself an indescribable number of times. Yet when she metaphorically blinked, there was a perfectly normal Skill description there.
+
+[Divine Eyes in the Void]: Your sight has touched divinity, has been blessed with Void, and has been honed through combat to become something new. Your mystical sight can exist within a small radius of the core of your being and can be focused outward or inward. Through this sight, you may see past obstacles and illusions, map trajectories for threats, discern risk, and see that which was never meant to be seen. Increased power of sight with level. Trivially increased maximum radius with level. Additional eyes for this unseen sight may unlock with level. -18946 Mana Regen Rate.
+
+…The System seriously just merged every sensory Skill she possessed into some sort of absurd composite Skill that gave her a new sense—in the middle of a Xaoc-forsaken battle?! Had Howawful (no, that couldn’t be right) not come to her rescue, the System might have just gotten her killed! Even with the save, her hand was severely burned—though she didn’t miss the blood that sizzled its way down the dullahan’s chest.
+
+It wasn’t a kill, but at least she’d managed to do something while the System rewarded her with something she was unequipped to—
+
+Her new vision lurched suddenly—more than a little disorientating, yes—and focused on an inbound threat. Ranthia hadn’t paid them much mind, but one of the two dangerously stupid elves—the [Mage]—had returned and gathered with a few other elves to jeer over Ranthia. Their words were irrelevant; what was relevant was that there was a sharpened spike of arcanite coming their way.
+
+Seeing the future was impossible, but her new vision Skill measured the growing instability in the arcanite, its trajectory, and the positions of everyone involved. Unless something changed, the spike would pierce through the back of the idiot’s skull and explode. And even with the ablative wall of elven meat surrounding her, Ranthia wouldn’t escape unscathed.
+
+Ranthia forced her eyes open—and immediately regretted it. Double-vision was not helping the pain that still echoed through her skull. She still forced herself to move.
+
+Kipping to her feet left her disoriented enough that her stomach was roiling, but she still roughly shoved past the haughty idiot. Saying something would have probably been smarter, but she wasn’t sure if she could find the words in time. Her throat was raw, and her face was slick with blood—a nosebleed, she’d never had a nosebleed! …Aside from the times she’d gotten it broken or punched.
+
+But no matter how bad of a state she was in, she was still confident in her adamantium, her capability, and her Skills. The arcanite spike reached her, trailing destabilized mana. It wanted to explode, but that was fine—her Void really didn’t give a shit. Arcanite that had been driven unstable by some Skill was the same as iron or wood. [Void Edge] erased them equally.
+
+Ranthia’s hand was in worse shape than she had thought. She was pretty sure that the only reason the ruined hand still had a grip on the knife was because it had fused to whatever was left of her musculature, but she still managed to erase the deadly projectile.
+
+“Pay more attention! All of my sensory Skills just merged and created a new sense, and my head is killing me, but you have no excuse!” Ranthia snarled back at the elf.
+
+She had to close her eyes again; it was too much. Her nosebleed refused to even slow down. The pain in her head was potent enough that she wanted to just collapse back onto the ground. If she just let go, it would be so easy to black out and stop suffering.
+
+Instead, she sent out a new image and activated [Reflections of Reality]. The elves held their collective silence until it became irrelevant. Ranthia’s almost all-encompassing headache and—more alarmingly—her nosebleed followed her into her new body, but that was… well, she wasn’t dropping dead, so it had to be ‘fine’.
+
+A few lesser shimagu tried to get in Ranthia’s way, but she just kept her eyes shut behind her blindfold and used them to try to acclimate to the strange experience of fighting with her vision floating just within arm’s reach of her head. Why “the core of her being” seemed to be inside of the pinkish-grey goop that resided in her skull was beyond her, but at least it wasn’t her ass. She wasn’t entirely sure if she could survive knowing that the [Priest] had been right about that.
+
+Her knife that she’d tried to kill the dullahan with was still uncomfortably hot in her hand, but the discomfort (pain?) scarcely compared to what still raged through her head. With every moment that passed, she adapted. She still wasn’t ready to open her eyes, and moving her strange Skill-induced vision too quickly was a mistake. But she had to be ready, because she’d reached the dullahan.
+
+Ranthia burst through the Inferno he had unleashed on the Mirage of the wolf—hadn’t the Mirages been entirely absent from her new vision Skill when she first gained it?—which seemed to catch the dullahan entirely off-guard. He was forced to take her strike against one of his natural armor plates that served as vambraces before he could put a wall of Lava between them.
+
+He said something, but it was a wasted gesture—the oversized wolf’s endless barks denied all other sounds within the confines of their engagement. Though even without the dullahan’s words, it was obvious that he was being overwhelmed. The wolf couldn’t get too close to his Lava, yet the elf was tearing through their mutual enemy’s defenses.
+
+Was it unfair to pile on and overwhelm him? Absolutely. But Ranthia had no intention of giving any twin—or fool that’d sell out his own people to body-jackers—a fair fight. Besides, it was kind of poetic to overwhelm him after he’d tried to kill her with two twins at his side long ago.
+
+The dullahan had been heavily splattered with his own Lava, but it seemingly wasn’t doing much more than slowing him down a little. Still, that just—oh. Through that line of thought, Ranthia finally realized that she was able to see through the Lava, at least to some extent. [Divine Eyes in the Void] was at least a bit more powerful than [Vision of the Void] had once been!
+
+Not that it helped much. Ranthia started to stretch her adamantium bracers into thin gauntlet-adjacent designs that could protect her hands, but that process needed time. In the interim, she continued to deliver Void-empowered strikes to the dullahan’s Lava or sword.
+
+And then her opportunity came. The elf’s crystalline weapon tore through their mutual adversary’s Lava and her chains and Ooze surged in. He staggered and tried to refocus his Lava to burn through the bindings.
+
+Ranthia tore through the thinned Lava between them and embedded a knife deep into his shoulder. Her opponent’s mouth wrenched open as a blast of Inferno erupted from his body, but she could endure the heat.
+
+It didn’t hurt nearly so much as her head had ever since her [Divine Eye] (no matter the Skill’s true name, it seemed to be singular at the moment) opened. But even if she could endure the pain, she was literally being cooked alive while she aggressively—and repeatedly—stabbed her opponent through his metal-clad skin. She’d already sent a few images out, but she added to their numbers, just to be safe, while she continued her onslaught.
+
+The Ooze had already failed and the chains that bound the dullahan and his sword were white-hot and promised to fail at any moment—which meant that Ranthia needed to endure the heat. She had to inflict every bit of damage that she could before—
+
+[Divine Eyes in the Void]’s warnings felt different from what [Combat Awareness] used to provide. Instead of a sense of danger, her sight suddenly focused downward. With it came a somewhat inexplicable awareness that a large surge of Lava was coming. She couldn’t see mana—she had no idea if that was even possible within the System—yet she could still tell the attack was coming.
+
+Ranthia kicked backwards and activated [Reflections of Reality] once again. A vast geyser of Lava enveloped the dullahan—much like what he’d used to escape their last encounter—and Ranthia was forced to cover her head with her arms as it splashed over her. The agony of her flesh was edging out the pain in her head before she finally shifted into an intact image.
+
+Thank Xaoc, [Submind] hadn’t tripped while her chosen image fled—she was clear.
+
+Her adamantium was hot, but she didn’t dare to drop it. The dullahan was moving her way, more ponderous than ever. But she couldn’t even see him through that much Lava, much less reach him with a knife! And even if she could use her combat Skills with a polearm, there was no time—
+
+The dullahan froze.
+
+Literally.
+
+In one moment, a thick barrier of Lava roared from the ground as though they fought atop an angry volcano. In the next, she was facing off against a tower of unstable, ice-crusted rock. The heat that had seared her skin, even from a distance, was gone—replaced by a chill deeper than the stormy weather should have permitted.
+
+[*ding!* You have contributed to the slaying of a dullahan [Molten Destroyer of Those that Oppress] (Lava, level 846), [The Inner Flame that Denies Evil] (Lava, level 681), [Lord of All that Burns] (Inferno, level 601)!]
+
+The highest-level ‘elite’ elf—the one the two idiots had whined to before they deployed—scowled down at the so-called elven ‘elite’ [Mage] that had just sat back and watched them fight. Like most of the elven ‘elite’, he chose to remain a blatant target in the sky—though his massive, fractal wings of almost perfectly see-through ice were kind of beautiful, admittedly.
+
+Ranthia only spared a single glance at the elven woman to see if she was visibly abashed at being caught slacking off (she wasn’t), before refocusing on the crumbling, frozen husk in front of her. The System had already confirmed that the dullahan was dead, but she still chose to lash out with her Void-kissed knives and her ruined sandals until she smashed through the icy rock and shattered the frozen dullahan within. With the man reduced to rubble, Ranthia finally converted her adamantium to sand and let it fall—freeing her burnt and deformed skin.
+
+She wasn’t sure if it was intentional or not, but almost the very moment she finished shifting into an intact body, the Ice [Mage] elf rose higher into the sky and made an announcement with as much gravitas as he could.
+
+“Three of the shimagu’s twins have fallen! Those of you that are hale, come and join us to see the final two crushed! Do not waste your efforts on targets of little import!”
+
+With that, he flew away—toward the ferocious Storm that raged over the shimagu bases. Even with how far away she was, Ranthia could still see the massive hail that was being whipped around by the high-speed winds. Each struck the shimagu fortifications like artillery, scattering wood and shattering stone. To say nothing of the devastation that the bolts of lightning wrought.
+
+Sentinel Sage was earning his keep. And he wasn’t the only one. With more time to look around (and a bit more height, thanks to her Skill) she was able to see Pierce at the head of his group as they ventured ever deeper into shimagu lines, parting their enemy as though they were water. Sentinel Solace had gotten bogged down, but her team was culling shimagu regulars almost as swiftly as Pierce could.
+
+Other groups varied. Some hadn’t even made it as deep as Ranthia’s had before they stalled. A few had merged together, but—frontrunners aside—almost every group had wounded that were slowing them down. The group Beast had been assigned to hadn’t even tried; instead, they fought at the head of the advancing Coalition army while everyone tried to give Beast and his pack a wide berth.
+
+Ranthia couldn’t even find the idiotic [Warrior] that had left her group behind, and the lazy [Mage] had flown off with the Ice [Mage], effectively leaving most of the group stranded amidst the scattered shimagu. Not that the shimagu seemed able to capitalize on it. A few were even surrendering!
+
+Ranthia wiped at her face—the nosebleed was finally stopping—and consulted her sheet while she had a chance.
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 114]
+
+[Mana: 518371/722180]
+
+[Mana Regen Rate: 460828]
+
+[Stats:]
+
+[Free Stats: 0]
+
+[Strength: 44521]
+
+[Dexterity: 97015]
+
+[Vitality: 97623]
+
+[Speed: 95137]
+
+[Mana: 72218]
+
+[Mana Regeneration: 88537]
+
+[Magic Power: 74886]
+
+[Magic Control: 59339]
+
+[Class 1: [Diffuse Reflectance – Mirror (754)]]
+
+[Mirror Spirit: 754]
+
+[Scattered Reflections: 754]
+
+[Echoes Reflected: 499]
+
+[Pure Reflections: 754]
+
+[Persistent Imagery: 754]
+
+[Ideal Reflectance: 754]
+
+[Distorted Likeness: 690]
+
+[Reflections of Reality: 540]
+
+[Class 2: [She who Dances with Chaos – Void (758)]]
+
+[Void Affinity: 758]
+
+[Rhythmic Grace: 758]
+
+[Void Edge: 758]
+
+[Flowing Momentum: 758]
+
+[Divine Eyes in the Void: 758]
+
+[Sustained Chaos: 752]
+
+[Echoes of Devastation: 758]
+
+[True Grace: 521]
+
+[Class 3: [Harbinger – Magic Metal (256)] +]
+
+[Magic Metal Authority: 256]
+
+[Adamant Commander: 256]
+
+[Priestess of Xaoc: 256]
+
+[Unbreakable: 256]
+
+[Mine!: 107]
+
+[Adamantium Symbiosis: 256]
+
+[One With Chaos: 222]
+
+[Higher Power: 256]
+
+[General Skills:]
+
+-
+
+[Ranthia’s Covenant with Xaoc: 314]
+
+[Sentinel’s War Supremacy: 758]
+
+[Submind: 758]
+
+-
+
+[Fast Learner: 700]
+
+[Image Recall: 685]
+
+[Sexy: 599]
+
+[Other:]
+
+{Xaoc's Covenant with Ranthia}
+
+…
+
+……
+
+Okay. Ranthia had questions. Her headache felt like it was making a resurgence, but she tried to break down the multiple surprises into something manageable. Worse, she’d been surprised enough that she blinked—which forced her to endure another bout with doubled vision.
+
+The Skill seemingly didn’t want to, but during her skirmish with the shimagu regulars she proved that she could force the ‘Divine Eye’ to, for lack of a better descriptor, close—though she seemingly lost the benefits of [Divine-Touched Identify] and [Combat Awareness] while it was ‘shut’, which was—
+
+Oh gods and goddesses, if her curse affected the sight of [Divine Eyes in the Void] she was going to be worse off than ever during moonless nights! [Combat Awareness] had saved her life multiple times while she was blinded! [Rhythmic Grace] was a great Skill, but it wasn’t a direct replacement.
+
+But she was already getting off track—by borrowing worry from a what-if scenario, no less—and she hadn’t even begun to process her new sheet.
+
+She decided to start with the minor things. Her gap between her classes had narrowed again, which was unfortunate. [Diffuse Reflectance] tended to over-reward her for shifting after she was already dying, which was dangerously alluring. Once she had time, she needed to reflect on her battle—to make sure she hadn’t let that influence her.
+
+She was only ten levels away from her next class up, but she had doubts about the current battle providing them. The elves were so much faster than she was, and with them focusing their efforts, there was a solid chance that the remaining twins would be slain in mere moments—assuming it wasn’t already done.
+
+That was fine. Such concerns were perfectly normal and expected. …Which meant she really needed to look into the two things that weren’t.
+
+[Priestess of Xaoc]: Your bond with the God of Chaos allows you to serve as one of His true priestesses. You may lead religious services, ceremonies, and events in Xaoc’s name. Those in service to Him may attain innate awareness of your connection to Him. You may be entrusted to carry His words, when necessary. You are resistant to curses and generate an aura that causes curses to degrade at an advanced pace. Range and potency of degradation scales with level. This effect is limited to curses originating within the System. -25807 Mana Regen Rate.
+
+No matter how much a piece of her wanted to rage about how she had never seen the Skill before, nor noticed a hole in her third class… Such concerns paled in comparison to the emotion that roiled in her breast. The Skill had been there since she attained the third class, given its position. All that time…
+
+Xaoc had never forsaken her! She had been barred from becoming a [Paladin] once again, but that was all. And no matter how she struggled to bring about the chaos that He deserved, He still continued to have faith in her. He not only heard her words, He not only saved her life when she attained [Blessed With Chaos], but He had appointed her to…!
+
+With a surge of emotion, Ranthia forced her eyes open and inverted [Divine Eyes in the Void]—still only the one—to view herself.
+
+[Mage – Mirror] level 754, [Warrior – Void] level 758, [Priestess – Magic Metal] level 256.
+
+For her entire life, she had been forced to accept that she would never serve Him as a [Paladin] after the failure of whoever she used to be. She hadn’t entirely been fine with that, but… She had never imagined that she would be chosen as His [Priestess]! She was humbled by His benevolence, but she silently—no, some things needed to be spoken aloud.
+
+“Xaoc! I swear this: I shall sing your glories wherever I go! I’ll bear your will, no matter what I do! …Thank you!” Ranthia shouted her prayer into the heavens, without a single shred of care for the looks she was getting from the elves.
+
+She had no idea why or how she had overlooked the Skill, but the explanation… didn’t really matter. If she was honest with herself, she hadn’t been ready for that knowledge back when she’d been [Blessed With Chaos]—it would have gone to her head. Gods and goddesses, she wasn’t sure if she was ready yet, but she just had to do her best. In that way, it was the same as every other duty she had chosen to shoulder throughout her life.
+
+Xaoc only took three mana from her in exchange for the prayer, then sent her a sense of glee. She had achieved something that He had hoped she would, though He couldn’t tell how or even if she ever would. How she understood that much from the elation He offered her was one of the mysteries of conferring with divinity, but it was impossible to keep a grin off her face after that.
+
+There was just one more thing that she needed to look at. It wasn’t truly part of the System. It had been attached to her sheet, but it felt like she had to look past—or perhaps above or below—her interface with the System to comprehend it.
+
+{Xaoc’s Covenant with Ranthia}: By His will, the System will once again recognize the achievements of your previous self as though they were freshly earned. Once expended, this boon will remain dormant. However, this boon may be rekindled through…
+
+There was something else there, just out of reach. Yet no matter how she tried, she couldn’t quite glean anything more from her divine blessing (seriously!!). It probably explained some things about her acquisition of [Mirror Spirit], but she’d always known that was Miraculous. All this provided was an explanation for how Xaoc had done it.
+
+But she had remained in her own head for long enough. Some of the shimagu that intended to keep fighting were converging on those that were trying to surrender, and that had to be stopped.
+
+Besides, the elves were still staring.
+
+Ranthia called her adamantium back—thankfully, it’d cooled enough that she could endure the warmth that remained—and reformed her bracers and knives.
+
+“<Come on, let’s get moving! We’ll secure any shimagu that surrenders and take them prisoner while we punch through to the nearest friendly unit!>” Ranthia ordered.
+
+The elves didn’t exactly jump to follow her command, but the copper-haired elf took one last look at the blood splatter that had once been her comrade—okay, fuck, Ranthia had completely forgotten about that—before she nodded and formed up with Ranthia. Her massive wolf took Ranthia’s other flank, and the elves fell in after them as they charged the shimagu.
+
+Ranthia lasted six whole steps before she had to close her eyes again. She wasn’t sure if she’d ever get used to having doubled vision.
+
+A few hours later, the shimagu army fractured. Each twin had been confirmed to be dead, but the shimagu had continued to fight while clusters of elites hunted down the [Leaders] that commanded them. Once the voices that held the shimagu’s soldiers in line vanished, the army promptly imploded on itself. Many fought on with the ferocity of a cornered animal. Unfortunately, those that surrendered were rare, and the few that did often succumbed to the fury of their peers.
+
+Even Ranthia’s group, by far the most proactive about taking prisoners, only had five shimagu (hosted within four ogres and one human) that they managed to seize in time. Each was utterly encased in crystalline chains that drained their mana—courtesy of an elf that seemed inordinately proud of his newly broken horn (yes, they had all seen it, so seriously, stop pointing it out already).
+
+The majority of the shimagu were fleeing. And Ranthia’s team was pursuing one of the groups that had done so. A [Healer] had patched up those that needed it (broken horn guy had made a grand showing of declining restoration), which got them back into the fight. Sure, she was very aware that most of the elves were still pretending that they followed the copper-haired woman rather than her, but so long as they accomplished what they needed to, she was fine with that.
+
+It didn’t take much to track the cluster of shimagu they were chasing. They weren’t a large group—they only outnumbered Ranthia’s team four-to-one—but they weren’t even trying to hide their tracks as they fled into the wasteland. Less than sixteen minutes after Ranthia’s team set out, they caught up.
+
+All but three of the shimagu turned to fight. One of the elven [Mages] struck down the three that tried to keep running, while Ranthia, the copper-haired elf, her wolf, and four other elves met the armed shimagu soldiers. [Divine Eyes in the Void] told Ranthia exactly how the two shimagu that aimed for her were attacking with their steel swords, though it was a bit redundant—she was fast enough to bypass both attacks entirely.
+
+“<Do you surrender?>” Ranthia asked the pair—speaking the shimagu’s language had never gotten any more pleasant, even with her improved proficiency—her knives pressed against the backs of their necks.
+
+Neither chose to survive, so Ranthia cut them down before their Skills could reach her. After that, she moved to the next shimagu and repeated the (apparently futile) effort.
+
+The only shimagu from the group that chose to yield only decided to do so after an elf disarmed him when he tried to crush her skull.
+
+“You arrogant fool, you attack me then choose to demand mercy after your efforts fail? Give your demands to Black Crow, vile one.” The blonde elf was practically oozing contempt while she cut down the unarmed, unresisting soldier.
+
+It was brutal and callous, but it was also hard to refute the woman’s mindset. The shimagu controlling the ogre truly had done his best to kill her, he was just unequal to the task. As much as Ranthia wanted the shimagu to surrender—to show that they could find a better path forward—it was hard to take a plea for mercy seriously when it only came after a failed attempt at violence.
+
+But by that logic, did any of the shimagu army truly deserve the chance to surrender—to live? Each and every one of them had chosen to turn the hosts that they used into mindless husks. They had genuinely sought to kill everyone in the Coalition, conquer Remus, and enslave everyone. She had personally witnessed the gratitude of a dying man who spent his final moment of life free. Gods and goddesses, two of her prisoners possessed hosts that had fled permanently into the world within—the only means they had to escape their fate!
+
+Yet she didn’t want to believe that the shimagu needed to be wiped out. Was it truly the soldiers’ responsibility to bear the sin for the mandates that they received? If they could be convinced to leave their hosts… well, there had to be a better way. They could inhabit mindless animals too, or maybe they could live predominantly in some sort of liquid, like the slimes she knew from Remus?
+
+Questions of morality haunted Ranthia while they returned to the Coalition.
+
+Everyone was exhausted and Night looked especially haggard as the Sentinels gathered once again—in the early afternoon. Thankfully, they had all survived. Ranthia and Beast’s armor was in terrible shape, sharply contrasted by Pierce and Solace’s seemingly untarnished equipment. But they weren’t there to compare damage; Night had summoned them to handle pressing matters.
+
+“Our first issue is a known problem that has been somewhat exacerbated by our latest engagement. Sentinel Solace and her team were able to reclaim a large number of lives from the shimagu parasites, which is to be commended. However, this has increased the number of individuals that are either catatonic or willfully trapped within their class upgrade to levels that Spearpoint is ill-equipped to provide for. The current belief is that neither group is likely to return to whomever they once were, before the shimagu chose to inhabit them. I have also been informed that the elves have confirmed that there are no known means to contact those that have withdrawn from our world.
+
+“The Legion’s leadership has invited us to provide guidance for the quandary about what is to be done with them. Preserving so many individuals in hopes that they will emerge to discover—and accept—their freedom is a daunting prospect that may prove to be impossible, and some amongst the Coalition have already suggested that returning them to Samsara is the greater kindness.”
+
+Night’s explanation was provided without any obvious emotion—he even managed to set aside his exhaustion—presumably in an effort to avoid guiding their response.
+
+Pierce and Gravity immediately called for the rescued people to be given every opportunity to recover, stating that the empire had a moral imperative to aid them. They were so quick to jump to the ‘right’ decision that Ranthia felt guilty for her own reticence—she joined her voice to theirs several moments later.
+
+Sage and Grey recommended a swift, gentle end for those that had retreated into their world within—and Silence signed his agreement. They championed that those that were merely withdrawn into their own minds should be given the time and assistance they needed to try and recover.
+
+Solace, surprisingly, recommended culling both groups. It seemed awfully callous for a [Healer], but the woman legitimately had a point when she claimed that those that chose life needed every resource they had and that Spearpoint was ill-equipped to manage and care for those that were little more than husks. The Legions’ [Healers] especially were already stretched thin and overwhelmed with wounded.
+
+“Is it truly just to ask those that fought to end this war to endure their wounds—and risk death—just to give a stranger that has already given up on life an opportunity to change their mind? We have tried this time and time again. The simple fact is that, even if we condemn every last legionary that is in need of a [Healer]’s time, few—if any—of these people will ever be able to truly recover. We must support those that wish to live.” Solace’s words seemed to echo through Ranthia’s mind.
+
+Beast declined to take a side, instead he seemed dedicated to blatant attempts at convincing everyone else to start arguing. Not that any of them had the energy to fight amongst themselves.
+
+“Very well, I will inform the generals that the Sentinels will not make a recommendation as a whole. This means that we shall accept whatever they decide, even if their decision is to cull one or both groups. This war is not yet finished, but I will have little patience for any actions from the Sentinels that may damage the empire’s cohesion at this time. As the war concludes, we must continue to offer the appearance of cooperation above all else.” Night punctuated his warning with meaningful looks directed at each of them in turn—held until they nodded their acknowledgement.
+
+“It is a difficult problem, but I am sure they’ll do whatever is best for everyone.” Pierce clearly had far more faith in the Legion’s leadership than Ranthia ever could—she was certain that both groups would be promptly expunged.
+
+“As a final topic, I wish to ask Pierce and Grace to perform a long-range patrol. Many shimagu may still be at large in groups too small for the Coalition to track. As our highest-level Sentinels, I hope that you possess the stamina to deal with such hostiles before they can become a lingering problem or reach some currently unknown staging ground that might allow them to regroup. Once night falls, Beast, Gravity, Silence, and I can take over and permit the two of you to rest.” Night’s words were diplomatic.
+
+Ranthia was still ready to snarl at the man, but Pierce enthusiastically consented as though he spoke for them both!
+
+“…Fine, I’ve got a spare suit of armor in my—er, Grey’s room.” Ranthia narrowly managed to keep her wearied sigh on the inside.
+
+Her head was still throbbing and, beyond that, she felt somewhat numb, but what the heck. She even agreed to Pierce’s suggestion that he would take ‘the north’ while she handled ‘the south’ (as if that was a sane way to divide such a monumental task) and watched her former apprentice set out with a smile on his face—with no discernable trace of the fatigue he had to be feeling.
+
+She probably should have suggested that they stick together—she still owed the man a conversation or eight—but… Well, some time alone in the wasteland sounded almost as enticing as collapsing into a bunk did.
+
+…Okay, it was better than trying to hold a conversation in her condition, at least.

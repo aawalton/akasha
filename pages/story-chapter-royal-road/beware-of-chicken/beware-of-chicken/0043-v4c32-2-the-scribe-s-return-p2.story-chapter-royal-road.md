@@ -1,0 +1,153 @@
+---
+id: 3f395f84-b69e-50df-b771-f0896f22b0ca
+page-type-slug: story-chapter-royal-road
+title: "v4c32.2: The Scribe's Return p2"
+slug: 0043-v4c32-2-the-scribe-s-return-p2
+partOf: beware-of-chicken
+position: 43
+ownLength: 2185
+unit: words
+ownProgress: 2185
+publishedAt: 2023-08-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1307830/v4c322-the-scribes-return-p2"
+royalRoadId: "1307830"
+markedReadAt: "2026-06-29T18:52:49.386Z"
+---
+
+Lu Ri breathed deeply as he waited for his guests to be assembled. He was kneeling in the traditional way on a cushion in a garden, preparing himself.
+
+While it was most amusing to tease his Junior and witness his face go through so many emotions, there were several formalities that Lu Ri had to observe first in regards to his duties in Hong Yaowu and Verdant Hill.
+
+For this, he required a room that could properly convey the gravitas of what he was about to announce. Normally, this announcement would be done in the august halls of the Cloudy Sword Sect so that every disciple could memorise the faces of those they would be oathbound to aid. But here, discretion was superior to a grand announcement.
+
+So instead, the Lord Magistrate had donated his best garden for this ritual— one he and his wife had started tending together personally, and the ritual would be held here.. The Lord Magistrate would also be the one to witness these events, along with Lu Ri’s Junior Brother Jin, Jin’s disciple Xong Gou Ren, and all of Jin’s available animal disciples.
+
+Lui Ri opened his eyes as he heard his guests approach.
+
+Hong Xian, Hong Xian the Younger, Hong Meiling, and Lin Bao were all standing before him. They seemed slightly nervous, but that was to be expected when they had been ‘summoned on behalf of the Cloudy Sword Sect.’
+
+Yet they had come, and even now all of them stood tall. Lu Ri’s eyes lingered especially on Hong Xian and Lin Bao, the two men who had done the bulk of the work on the medical formation after Meiling had found it. They were truly brilliant men. Part of Lu Ri thought it was a waste that they were a mere village headman and archivist, the same with the Lord Magistrate. But he knew their reasons… and in the end, he could not refute them. He glanced at the other observers as well, but they were merely waiting against a nearby wall.
+
+Lu Ri walked forwards, stopping before them in the middle of the garden. Then he clasped his hands together in a martial salute and bowed at the waist.
+
+“Lu Ri, Senior Disciple of the Cloudy Sword Sect, pays his respects to the House of Hong and Lin Bao.”
+
+He heard Hong Xian swallow thickly and Lin Bao began to chew his lips nervously as they returned the bow. Both of them rose, and Lu Ri activated his storage ring. A scroll appeared, floating in mid-air from a flash of light.
+
+It was a simple looking thing, this scroll. It was not flashy, red and gold like the majority of documents denoted as this important. Its end caps were made of bronze, and the paper’s back was dyed a soft blue with detailing of single clouds.
+
+Yet within Lu Ri’s hand was a treasure. The paper had been crafted by one of the Honoured Founders—a roll of paper made expressly for this purpose, and infused with the Qi of the current Elders of the Cloudy Sword Sect. Within the delicate designs was a formation that would complete this little ritual. It would also never rot, never burn, and could only be destroyed by an Elder of the Cloudy Sword Sect revoking the status of Honoured Ally… or by an attack of a being in the Imperial Realm.
+
+The bronze end caps were tens of thousands of years old; older than the Sect itself. They were the melted down links of bronze chains that had once been used by the Tyrant of the Crucible as a symbolic marking of his slaved scholars—before those scholars rebelled and brought him low, forming the Cloudy Sword Sect.
+
+They were symbolically handing over the chains that had once bound them.
+
+Lu Ri pressed his Qi into the seal on the paper and unfurled it, gazing upon Elder Ge’s immaculate brushwork. The Elder had written this message a full ten times on lesser pieces of paper. For anything less than his best would be an insult to this document.
+
+“This Lu Ri, by the order of the Elders of the Cloudy Sword Sect, presents the House of Hong and Lin Bao with this document by the instructions of the Founders and the will of the Elders.” Lu Ri began, his voice filling the garden. He could feel the tension in the people before him. “For services rendered to our Sect and to all the Empire in crafting a formation of superior quality and unparalleled use against the Great Enemy—We, the Elders of the Cloudy Sword Sect, do declare that the House of Hong and the House of Lin are hereby declared Honoured Allies of the Cloudy Sword Sect.”
+
+At his announcement, there was silence. Hong Xian looked like he was about to faint. Lin Bao was openly gaping. Lu Ri’s Junior Brother looked utterly dumbfounded.
+
+“The gates of the Cloudy Sword Sect are open to you and your line. Those that raise their swords against you are our enemies. We will suffer no harm to come to you. May any evil that threatens you be subjugated. May the wicked quail from your presence. May your prosperity last until the end of time.”
+
+Lu Ri closed the scroll and stepped forward before dropping to one knee and presenting the contract to Hong Xian.
+
+The man slowly took it with shaking hands.
+
+=============================================
+
+If there was one person in this world who kept on surprising my ass, it was Lu Ri.
+
+Every time I met my Senior Brother, it was something.
+
+First was the money he gave back to me. Then it was my mail. Then it was him making a mail route. And now, he had just given my father-in-law and Uncle Bao a piece of paper that was the closest thing to having the wrath of god on speed dial.
+
+It still kind of blew my mind. The Cloudy Sword Sect was still, in my mind, like one of those Sects from the usual cultivator stories. Those bastards who kicked everybody down, and stomped on the remains. Arrogant, destructive, and not worth my time.
+
+Then they decided that the formation Pops, Uncle Bao, and Meimei made was worth something. Lu Ri had even said ‘kowtow to the mortal who enlightens you.’”
+
+…Honestly, I would have to read the stuff the Founders had written now. They sounded like smart people, but there was still a bit of a disconnect between my memories and what Lu Ri was saying now.
+
+Our trip back was mostly spent in shocked silence, with Pops staring blankly at the scroll he had clutched in his hands.
+
+Now, however, Gou Ren and I were helping Lu Ri to find the best locations for the ‘formation pillars’—which were spikes of what looked like crystal. And frozen within each crystal were what looked like plants, ores, roots… and what I even recognised as beast cores.
+
+“Special attention was paid by Elder Yukong for the subtlety of the array,” Lu Ri narrated as he walked us through the process of setting it up. “There shall be no unwanted intrusions.”
+
+I had learned the siphoning formation… but this thing was like a gods damned space ship compared to an abacus. I couldn’t make heads or tails of it!
+
+“Okay,” Gou Ren said, nodding, and then he pulled out a map of his own. “Here should be the furthest reaches, accounting for village growth for… like, at least seventy years. Of course, I can’t plan for everything, but… well, I did plan for about ten times the population size? Course we won't hit that for a long, long time…”
+
+I glanced at the map too, but I had seen this a bunch of times before. The man had plans, and was testing out his designing skills. This was the fourth edition of the map already.
+
+Number three hadn’t accounted for waste disposal properly. It was kind of funny how my certifications for wastewater handling were coming in more useful now than they had when it was my job.
+
+…you know what, I should probably write a scroll or something on that and give it to the Archives. Behold my power, the Shit-Tamer! I snorted to myself and returned my attention to the map.
+
+“Your forethought is exemplary, Xong Gou Ren—the streets are named and numbered as well?” Lui Ri replied, seeming honestly impressed.
+
+“Yeah. That mail system sounds real useful, so I figured I’d get a head start on it,” Gou Ren replied.
+
+Lu Ri smiled, the biggest most genuine smile I had seen on his face.
+
+“Truly, this is a spectacular province,” he said. “Come. Let us begin. In the absence of proper dragon veins we will need to align the formation anchors properly to the constellations…”
+
+That turned out to be my… or rather, Tianlan’s job.
+
+‘A little to the left,’ She said as I held the formation anchor over the ground. ‘Right there.’
+
+I raised my arm, ready to plant it… but then paused.
+
+I focused on the earth below my feet. ‘This won’t hurt you or anything, will it?’
+
+I could feel a slight bit of hesitation before Tianlan spoke back to me. ‘It’ll feel a little weird. Formations like this always do. But even if it did hurt… I’d still want him to do it.’
+
+I paused at Tianlan’s declaration, her conviction coming across our link. I had seen her do this before in the memory crystal. Hiding her pain and brushing it off by saying that ‘she could take it.’
+
+‘Don’t be too self sacrificing now, you hear?’ I replied. ‘If it does hurt… tell me, okay?’
+
+Warmth flooded down our link. ‘I know. I learned my lesson. No secrets. No trying to push ahead alone.’
+
+I smiled at her words, and sent a friendly nudge down our link. I felt what seemed like a cuff to the back of my head and a cheerful giggle, then returned my attention to my task. I was actually a little excited.
+
+It wasn’t every day you got to see a big Xianxia formation activate.
+
+========================
+
+Senior Disciple Lu Ri made one last check of the preparations. He sent a test pulse through the formation, and the return information was… well, it was even better than the practice attempts Elder Yukong had run Lu Ri through. Every formation anchor had been placed with an accuracy that was utterly sublime. He could feel the resonance within even this land, perfectly harmonized.
+
+Lu Ri glanced around once more. The entire village was here, watching what Lu Ri was doing. Most of them seemed quite intrigued. Hong Xian had explained things to the villagers, and they were now watching, fascinated.
+
+One child was even taking notes—or rather, she was drawing Lu Ri. Her brush work was quite good for a mortal her age.
+
+Lu Ri took a deep breath. It was time.
+
+Most formations did not have a verbal component. They could simply be operated by Qi alone. But the truly powerful, the truly esoteric ones, required one to speak.
+
+“I invoke the name of the guardian of the north, Xuanwu, upon whose shell does the polar star gaze,” Lu Ri began, his voice echoing across the hills. The world suddenly paused, as if it was holding its breath. “Eight Trigrams, Sixty four Hexagrams. The truth of the universe is written on a tortoise's back.”
+
+The formation anchors shuddered and beams of light shot out from all of them, connecting in the sky above the village. The taijitu formed in the center of the formation, as the eight trigrams spread outward from it. Sweat beaded on Lu Ri’s brow.
+
+“Defend against the wicked, the unjust, and the cruel. Protect against heavens shaking disasters and earthy upheavals,” Lu Ri rose into the air, his hands still clasped. At this point, he would normally feel some resistance… but here, he felt nothing. The spaces within the trigram flashed with kaleidoscopic light.
+
+“I invoke this, in the name of the guardian of the north.”
+
+All of Lu Ri’s concentration was on keeping the formation stable… yet even through his focus, he felt his attention shift elsewhere.
+
+She had the appearance of any other village girl. Her clothes were rough, but well cared for. Her hair was shaggy and unkempt, and stuck up a bit in places. But the thing that was odd about her was her body.
+
+Golden lines, cracks that ran up her face. She noticed his attention and smiled.
+
+The strain suddenly lessened even further.
+
+Lu Ri activated the final part of the formation. The anchors dissolved into light.
+
+[Eight Gates North Turtle Formation!]
+
+The light winked out. Lu Ri landed, almost gently on the ground, panting.
+
+The formation was nowhere to be seen… Save for some nondescript rocks marking where the formation anchors had been driven.
+
+Lu Ri let out a breath at the successful formation activation, then blinked, scanning the crowd.
+
+He could have sworn he heard an old man start laughing for a moment, and the scent of peaches reached his nose.

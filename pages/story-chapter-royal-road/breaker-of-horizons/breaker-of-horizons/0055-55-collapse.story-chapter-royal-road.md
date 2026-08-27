@@ -1,0 +1,105 @@
+---
+id: d23540c0-7ecc-5e4a-ac82-3af87a940c38
+page-type-slug: story-chapter-royal-road
+title: "55. Collapse"
+slug: 0055-55-collapse
+partOf: breaker-of-horizons
+position: 55
+ownLength: 1834
+unit: words
+publishedAt: 2020-11-09
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/581962/55-collapse"
+royalRoadId: "581962"
+---
+
+My barriers scattered like dead leaves as the void closed in on us. In my desperation, I dug deep and lashed out, flooding the night sky with Emilia's beam sequence. Cries of alarm on all sides were drowned out by the keening of the arcana being poured into the beam, which was larger and more intense than anything we had ever made use of so far. I was barely managing to keep it together as a coherent sequence, and it was dangerously close to falling apart.
+
+Suddenly, I was violently yanked sideways. Devon had gathered a burst of arcana under his feet and wrapped his arms around me before launching the both of us out of the path of the incoming void. My beam stuttered out and died, and as far as I could tell, my beam hadn't inflicted any damage at all. An instant after that, the void creature swallowed up the spot where we had been standing.
+
+Slightly bruised and scratched, we scrambled to our feet. Beyond the immediate threat right in front of us, I had a moment to take in more of what was happening. Lynus had inky tendrils of the void wrapped around him, and these were slowly spreading across him, turning him into a dark blot in the fabric of reality. Ambrose, Emilia, and Kevan were frantically trying to peel it off. Jerric seemed to be faring better; he had managed to break the grip that the phantasm of his mother had on him, and was now keeping the thing at bay with a shimmering dome of light.
+
+I had no idea what sequence he had used for that, but I tried to replicate what I felt through my arcanic sense. It was like a warm summer day, and there was the flavour-vein-echo of his auric-ambient-flare threaded through its foundations. At its most basic level, it seemed like he had simply amplified the ensorcelment protection sequence, and added a dash of emotion to bolster the effect.
+
+This wasn't the time for a traditional, limited dome shield, though. I concentrated as hard as I could on the concept of my auric-ambient-flare being an all-encompassing light, and I suffused it with the warmth borrowed from Jerric.
+
+The void was not repelled by my attempt, but whenever my arcana came into contact with it, it seemed to pause and simmer a little. Heartened by this reprieve, Devon laid down some heavy barriers between us.
+
+But a tendril of the void lashed out, whip-like, cracking against the protections he had raised. Devon screamed in pain, clutching his head, and his globe light winked out of existence as he sank to his knees. As if it sensed weakness, more tendrils snaked out of the void, leaving trails of nothingness on the ground like expanding cracks in the surface of reality. Perhaps it was my imagination, but it seemed to move just a shade slower as it pushed against my light.
+
+For the second time in several seconds, the air was knocked out of my lungs again. Ambrose and Emilia had launched themselves across the intervening distance and brought us out of harm's way. Both were covered in a dense weave of arcana, and some of it had coalesced around Devon and me to protect us from the violence of their intervention. The tendrils suddenly snaked forward and stabbed into the ground, missing us by mere inches.
+
+"Regroup further up," Ambrose ordered, his voice tense, with a certain steel in it that I had never heard before.
+
+Devon and I needed no further urging as we quickly retreated. I saw Kevan was already a little ahead of us, supporting a pale and haggard Lynus who was thankfully whole and seemingly unharmed. Jerric was next to them, having somehow extricated himself from the phantasm of his mother, who was nowhere to be seen. He was laying down an intricate set of glyphs, fitting them into the structure of my mirror set-up.
+
+As we stumbled behind the protections that Jerric had established, I turned to look at the state of the field. The void-thing had claimed more of the bank, splitting the ground up into little islands that seemed to drift in a sea of nothingness that throbbed a little, like the heartbeat of some unfathomably large creature.
+
+Ambrose and Emilia hadn't retreated. They were only a few paces away from the tendrils, but both were suffusing the air with warmth and light out of their own auric-ambient-flares, and keeping the void at bay.
+
+"Caden," Ambrose called, not taking his eyes off the void, "come and help us."
+
+"What?" Devon's voice had a hysterical edge to it, and I didn't blame him. "What the hell are you two still doing there? Get back!"
+
+"No," Emilia said curtly, her eyes also fixed on the threat before us, "I think we have it. We need Caden. The rest of you, stay with Jerric."
+
+Reluctantly, I crossed the threshold of Jerric's protections and cautiously drew closer to Ambrose and Emilia, adding the radiance of my auric-ambient-flare to theirs. I realised, for the first time, that mine was somehow more. It wasn't brighter, but it was somehow richer, fuller, as though it held more 'substance' in its light.
+
+"You understand," Emilia said simply, glancing at me. "More than we do."
+
+Ambrose nodded. "Between the three of us, I think we have it contained for now. We can do the second part of our test."
+
+"You mean testing to see if it becomes something different?" I asked, gesturing helplessly at the impossible scene before us — patches of earth separated by something even more profoundly unsettling than the darkness between the stars.
+
+"Yes." I marvelled at how calm Emilia was in the face of all this. "Somehow, you understand more. You... you see it more fully. Present yourself to it, and let us see what form it takes."
+
+I forced myself to take a deep, calming breath through my nose, and let it out slowly. I wasn't supposed to be the next person. I hadn't been able to really explain why, but I had told the rest that my exposure to the augera in the Spire had given me some understanding of what its true nature was, and it might be dangerous to unveil it fully. We were hoping to have the chance to present the others to it one at a time to see what form it took before deciding if I would have a crack at it, but that had turned out rather catastrophically. Lynus, Kevan, and Devon were ensconced behind Jerric's mirror-barrier, which was probably what allowed the rest of us to temporarily placate this wild augera. So now it was down to me.
+
+Jerric had called it 'mother', and that sealed its shape for him. Devon must have had some deep-seated conception of it that gave it this shadow-form. Maybe it was him and Lynus together, who somehow had a similar enough idea. And maybe that was what had drawn it out even before we had called to it — a visceral fear that made it coalesce and act accordingly, just like how Jerric's visceral pain had first summoned it to save him.
+
+So this inky blackness was a fantastical form that was not rooted in reality. Emilia and Ambrose, who probably had more disciplined minds, were able to hold it at bay. But out of all of us, I was closest to the truth.
+
+A thrill of fear rose within me. If I was right, we were about to see the pure form of an augera.
+
+I drew in another deep breath, thinking back to my last conversation with the augera in the Spire, and this time when I exhaled, I spoke into the arcana.
+
+'Raw-boundless-tempest, part of wellspring-ocean-core,' I sent, concentrating hard and trying to accurately thread those concepts through my arcanic voice, 'please... come... settle... listen.'
+
+The world exploded into a frenzy of activity. My arcanic sense was overwhelmed by a storm of sensations that I could scarcely comprehend. The void tendrils retreated into the water, but their absence was somehow even worse because it provided more space for the THING to occupy, and it weighed down on all of us like the hand of a god. Jerric's protections fell apart like spun sugar, and Ambrose, Emilia and I found our auric-ambient-flares being smothered.
+
+'UNCHOSEN-SIGHTED-{~?~},' it boomed. I could have sworn the world trembled even though it made no sound.
+
+'Wait, please, less... less power,' I gasped back, conveying the sensation of how the augera in the Spire had reined itself in a little. Incredibly, I sensed the lake augera shrink a little, and the night air felt less dense. There was a long silence, but I felt it gently press on me, almost tentatively. It was studying me.
+
+'With Chosen-Blinded-Jailer and Six-Chained-Foundations,' the lake augera said, its voice now a much gentler whisper. 'The woven-shackled-stream has done well.'
+
+It was surprisingly articulate and intelligible. But before I could remark on this, it cut in. 'Raw-boundless-tempest is wrong. Raw-boundless-tempest must not be sought. Even unchosen-sighted-{~?~} will be unravelled by raw-boundless-tempest.'
+
+'Wait... aren't you a raw-boundless-tempest?'
+
+'Yes.'
+
+'Then... what do you mean?'
+
+'Raw-boundless-tempest is a great aspect, a dangerous aspect. Call us drifting-pool-channel.'
+
+'... Are those the same? What is an aspect?'
+
+Inexplicably, I felt a wave of glee and amusement wash forth from the being. 'So little they teach, though great the Academy. Woven-shackled-stream is raw-boundless-tempest given a new aspect by the knot-link-anchor. Drifting-pool-channel is raw-boundless-tempest when soft, when gentle, when touching mortals. Be careful which aspect you call.'
+
+This was a lot to take in. I stared at the rest, who were looking at me with varying degrees of comprehension. I wasn't sure how much of this conversation they were able to follow, both conceptually and also literally through their arcanic senses, since we were all at different stages of development and sensitivity.
+
+'Did you... did you make me?' I asked it, finding it difficult to properly articulate that concept.
+
+'Yes. No. Caden is mortal name. Aspects many. Unchosen. Sighted. {~?~}. These are aspects woven by life, by chance, by design. Aspects are links. Links, woven together, can be chains that bind and enslave, or that strengthen and secure.'
+
+'That... that third link. What is {~?~}? Why can't I... hear it? Understand it? Think it?'
+
+'{~?~} is not an aspect with a mortal name. It is an aspect that only the augera have a name for. Perhaps you will name it, as augera was named. Perhaps you will not.'
+
+'Did you give me this aspect?'
+
+A wave of impatience. 'No. It is chance. It is woven-shackled-stream scheme. It is raw-boundless-tempest hope. It is wellspring-ocean-core dream. It is yours.'
+
+"It is time for you to stop stepping so far beyond the pale," Demiurge Maugrim Caldwell said, snapping us all out of our reverie as he stepped from thin air next to me.
+
+The lake augera recoiled, and all around us, the world tipped sideways.

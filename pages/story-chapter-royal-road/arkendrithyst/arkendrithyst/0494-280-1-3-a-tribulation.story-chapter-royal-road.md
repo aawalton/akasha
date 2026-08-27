@@ -1,0 +1,643 @@
+---
+id: 38925430-0503-522a-8463-0a273c2aa74f
+page-type-slug: story-chapter-royal-road
+title: "280, 1/3, A Tribulation"
+slug: 0494-280-1-3-a-tribulation
+partOf: arkendrithyst
+position: 494
+ownLength: 7247
+unit: words
+ownProgress: 7247
+publishedAt: 2024-04-20
+link: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1603932/280-13-a-tribulation"
+royalRoadId: "1603932"
+markedReadAt: "2026-06-29T22:25:32.088Z"
+---
+
+The void of space gained ten million claws, fractally spiraling out of Nothanganathor’s long body as he undulated in the shape of infinity, his head stilled at his center, one eye glaring Red, the other a bloody wreck. Nothanganathor was doing a dance. An Infinite Dance. In an offhanded sort of way, Erick recognized that his infinity symbol was the same as Earth’s symbol for Infinity. This was not too interesting of a fact, because apparently the symbol was the same in many different cultures.
+
+Erick had not seen Nothanganathor start dancing. He just was; he was already dancing, this whole time. Nothanganathor liked attacking like that, Erick reflected. Establishing himself as having done something. The white bastard was a master of Establishment Magic.
+
+Erick could play that game, too, but first he went through the process of understanding the attack so he could better counter it.
+
+Nothanganathor’s fractal claws extended out into infinity, or at least the infinity within this ‘contained’ space, at this Mercury-distance from the Red/Burning-White sun. Nothanganathor’s claws clipped Valkyrie after Valkyrie, though most of them had learned how to be leaves on the wind, bending away from attacks and Siphoning those attacks in turn. Most of them escaped, but the churn was getting deeper. Harder to evade. Nothanganathor had Established himself as an Inevitability.
+
+Erick wasn’t affected at all. In fact, the magic stayed away from him. That had implications as to how this was working, because the attack wasn’t avoiding Erick. It simply did not affect him.
+
+Nothanganathor wasn’t using Malevolence, directly. Not much, anyway. He was Mana Altering it to Void and expanding it outward with resons.
+
+Based on those facts, Erick deduced that this magic was focused on all forces that were subject to time. Nothanganathor had done that because this attack could hurt him, too, because it was just that destructive, and he was more interested in whittling down Erick’s forces than fighting him head-on.
+
+More than that, though, Nothanganathor’s fractal claws were laced with Malevolence on the edges, and every strike against a Valkyrie was a bit of mana grafted back onto Nothanaganthor. This, then, was another of Nothanganathor’s own mana siphon attacks. This was him using his Sign of Power to steal from others.
+
+That was the trick.
+
+He looked like he was attacking everything, but really he was Draining everything— Except for that black planet down there with Everbless and others. That was actively being avoided.
+
+This was a [Void Claw] enhanced with some ritualistic dancing and his Sign of Power. That Sign of Power was the only reason that it was hurting the Valkyries instead of the Valkyries fighting back against it, and Siphoning it apart.
+
+Erick just needed to break up the power and allow the Valkyries to Siphon once again, and then this [Infinite Claw Dance], or whatever, would be a big, big mistake on Nothanganathor’s part. He was spread out all over the place, after all. That much surface area made him an easy target.
+
+Erick spoke, “[Counter—”
+
+Nothanganathor stopped dancing instantly, as though he had never been dancing at all.
+
+Looked like he didn’t want that particular spell broken.
+
+He moved on to other attacks.
+
+He was in five places at once, and all of them were half-illusions and half-truths. Each of them was casting a different magic. One was doing something nuclear. Another was doing something penetrative. Another was doing some sort of grand ice magic. Another touched the void, and shattered infinity like breaking the iced surface of a pond. The other turned to nothing at all, and lunged at Erick, seeking to swallow him whole.
+
+Erick stepped through time.
+
+The nuclear attack was a beam that Nothanganathor swept across the void. It was more aimed at the Valkyries than at Erick. Erick opened a portal and swallowed Nothanganathor’s attack to aim it right back at him.
+
+That Nothanganathor vanished, and so did that Erick.
+
+The penetrative attack had Nothanganathor throwing out lances the sizes of moons, each of them differently-shaped, each carrying different horrors upon them. Fungus, eldritch tentacles, bones and eyes, souls twisted into horrors. Ten of them shot from the white serpent’s body, tearing toward Erick, and Erick could not move out of the way or else they would each strike a different Valkyrie and then infect those million-strong Weavers that the Valkyries linked to. So Erick conjured targets for the lances, summoning souls out of nothing, like slimes. The spears struck those slime souls and detonated their curses. Erick [Grand Reincarnation]d the cursed souls and sent them onto their new lives, cleansed.
+
+The Nothanganathors that did the ice magic and the infinity-breaking magic simply vanished, lost to the illusion. The ice and void-cracking attacks had been too ephemeral to work, apparently. Those Ericks ceased to be; unneeded.
+
+The shadowy Nothanganathor tried to eat Erick, but Erick easily dodged.
+
+The shadowy thing twisted to rejoin Nothanganathor, repositioning.
+
+It was one Erick and two Nothanganathors—
+
+Erick realized, right before it happened, what was about to happen. The shadowy Nothanganathor bit into the real Nothanganathor, and then flowed into that wound like poisoned power. Nothanganathor’s whiteness shadowed over, and he became as bright as an eclipse.
+
+Erick had done a little fuck up.
+
+That shadowy thing had not been an attack. It had been a major buffing magic, made all that much stronger because Nothanganathor had ‘offered’ it to Erick, first. It was some wonky hospitality/weird-thinking that made that sort of thing work at all, but it worked quite well. On the plus side, it had probably been poison for Erick to take that into himself, anyway, so there was never an option to accept that sort of attack/buff in the first pla—
+
+Wait.
+
+It was a poisoned buff.
+
+Buffs on Veird were always bad unless they were made by masters of magic, and even then you didn’t want to do Buffing Magic at all, almost all the time. But here Nothanganathor was, using major Buffing Magic on himself.
+
+“You fucker!” Erick said, realizing a truth. “You poisoned buffing magic for all of Veird, didn’t you!”
+
+Laughter echoed in the void and Nothanganathor joyfully declared, “YES!” He Declared, “NOW D—
+
+Erick squeezed an entire word and power between letters, announcing, “[Animadversion].”
+
+“—IE! Shit.”
+
+A pin of purple magic shot out of Nothanganathor like an arrow released. It was the size of a world. It vanished. It appeared inside of Erick, ephemeral and at the same time large enough for Erick to consider it like standing atop a very pointed pillar ten times the size of his own body. This pillar was already striking at his heart.
+
+And then, paradoxically, his silver shield of thorns caught the spellwork before it ever entered his body. The attack materialized as an arrow and Erick returned the world-sized arrow, shooting it back at Nothanganathor.
+
+The purple arrow vanished again and then reappeared—
+
+A whole third of Nothanganathor’s multi-Jupiter long, shadowed-white body, simply buckled. His spine tore out backward, spreading flesh everywhere. Nothanganathor roared in pain.
+
+Erick almost attacked, but he wasn’t going to take the bait of getting in some easy attacks, even if it really, really didn’t look like bait. He let his [Animadversion] shield dissipate, for it was mostly broken anyway and he didn’t want Nothanganathor to corrupt it with a trick—
+
+Nothanganathor’s shadowed body split away from him, taking his injury with it, and Nothanganathor was whole. He looked exhausted, though, and he didn’t collect all the flesh that he had just lost. The Valkyries feasted instead, their numbers multiplying.
+
+Nothanganathor had lost maybe a few Earths of length, but it wasn’t that much. Maybe 10% of his length?
+
+Also, Erick was bigger now, for some reason.
+
+That black planet down there, where Fallopolis fought Oozy and Everbless, seemed smaller now, and by a lot. Erick had already ripped out Nothanganathor’s eye once and gained some size out of that, but now he was a lot bigger.
+
+Nothanganathor glared at Erick, opening both eyes. It seemed the shadow magic dispersal had wiped away all his injuries.
+
+The white bastard roared, “Do you have any idea how long I’ve been saving that one! You shouldn’t have been able to do that!”
+
+Something clicked.
+
+That had been an arrow, hadn’t it. Like a real fucking arrow.
+
+Erick roared back, “You even stopped the development of bows and arrows?!”
+
+“Of course I did! Do you know how many powerful spells are tied to arrows!”
+
+Both of them realized something important at the same time.
+
+Nothanganathor liked to take credit.
+
+And.
+
+He would thus be subject to the results of that credit.
+
+Erick fired off perhaps his most effective attack yet, “Stopping progress isn’t in the portfolio of a God of Magic!”
+
+Reality itself pressed down on Nothanganathor, crunching scales and breaking horns, but Nothanganathor turned the strike, roaring, “Cultivating progress is certainly within my purview!”
+
+The reality crush slid off of Nothanganathor.
+
+Erick resumed his argument through [Luminous Beam]s.
+
+- - - -
+
+Fallopolis spun and twirled away from Oozy, who wielded a hammer that glowed with silver and gold.
+
+Normally, getting hit was not a problem for her, but Fallopolis had learned her lesson about Oozy’s endless supply of weapons once already, and then a few more times because she wasn’t used to dancing with someone with endless resources—
+
+The hammer came down in a world-cracking blow that was like unto a god touching the blackened planet. The world broke, and Red filled in the gaps. Fallopolis escaped anyway, flowing around the broken pillars of Everbless that stuck out of the black ground like frozen lightning. Her body was a rush of Darkness; eyes open, mouths eating, fangs biting.
+
+Oozy pursued, wielding way too many trinkets. His armor was an artifact that made him invisible to everything but direct sight. He discarded the hammer he had used twice to attack, neither blow hitting Fallopolis, and the hammer broke in the discard. He reached into one of the broken aerial roots of Everbless and pulled out an arch of wood and a bundle of arrows.
+
+Melemizargo's voice whispered into Fallopolis’s everything.
+
+“Lifekiller Arrows.”
+
+So, lesser versions of the Absolute Death that Nothanganathor had shot at Erick, and which Erick had reflected.
+
+Nothanganathor shouldn’t have had any of those arrows, but of course he did, since Melemizargo had had them in his armory, back in the Painted Cosmology. Nothanganathor probably had worse arrows, too.
+
+“Not likely, but it is possible. The really bad stuff was set to break if it ever got free.”
+
+Erick really shouldn’t have been able to reflect one of those Big Arrows, though, according to Melemizargo, but the Wizard of Benevolence was growing stronger off of this battle with Nothanganathor. Melemizargo was concerned with that, for any of a hundred reasons. If Erick was growing, was he a threat? Yes, but also no. If Nothanganathor was just leading Erick on, then was this a faulty fight? Yes it was, if that was the case, but in His opinion, Nothanganathor was truly trying, and had been trying this whole time.
+
+Fallopolis simply hated arrows; that was her reaction to those splinters of wood, tipped with death. It was a much simpler reaction. She had never fought an actual archer before, but that’s what Oozy was. He was an archer from a time long ago on Veird, when archery was a small pastime that had experienced a small boom in popularity, and then faded away into oblivion in favor of [Bolt] and [Beam].
+
+“As it had many times over the centuries! That bastard, Nothanganathor! I will rip his soul apart forever!” Melemizargo’s hatred burned a lot hotter than Fallopolis’s. He roared at the back of her mind, “I tried to get people to invent bows and arrows so many times!”
+
+Melemizargo stretched a tendril of Fallopolis far to the right of the battlefield and opened a maw, right as Oozy released his arrow. Instantly, Darkness poured forth, scouring the land for kilometers upon kilometers with [The Breath of Melemizargo].
+
+The arrow didn’t seem to care about that. It punched through Darkness and light and sky and reality, burying itself—
+
+Melemizargo created a heart inside of Fallopolis’s body and the arrow burrowed into that heart. Melemizargo discarded the heart and it exploded into Annihilation. Fallopolis was already moving to intercept three more arrows, each of them flashing purple and aimed at Erick. Would those arrows aimed at Erick have done anything to him? Toothpicks against a world-sized dragon more than a hundred worlds away? No, probably not. But, Fallopolis intercepted the attack anyway.
+
+Three more hearts intercepted those three more arrows, and now Fallopolis was above Oozy, blackening the sky with her flowing ooze body. [Avatar of Melemizargo] was only half under her control, which was the only reason she had survived this long. She usually had full control of her Avatar body, but not when Her God was this close to the battle, when He was this focused on this battle. Fallopolis was an ooze-shaped avatar, though, that could be pulled in a hundred ways at once, if Her God wanted it.
+
+She had fought this way for a very long time, though, whenever she absolutely needed to win, and she was good at being an ooze. She could do this for an age, if needed.
+
+The exact string of events that led to her being a person who became an ooze to fight, and Oozy of the Red being an ooze that had become a person, were unknown to her, but it was probably Fate, like the same Fate written into the sky above. Melemizargo grumbled about how he didn’t like that, because of the implications, whatever they might be. That whole dungeon of thought was too deep for her to explore right now.
+
+She focused on the fight—
+
+There, below her, Oozy floated in his Red armor, nocking another arrow onto the string of his bow. This one was tinged with brilliant gold.
+
+Fallopolis felt Melemizargo fade away as he said to her with her own mouths, “Goddeath Poison.”
+
+Fallopolis vowed not to get hit.
+
+Oozy grinned underneath his helmet, and then pointed past Fallopolis, to Erick, more than half a solar system away. He fired the arrow, and it multiplied to a thousand bolts that flew faster than light.
+
+Fallopolis almost tried to stop the arrows—
+
+Melemizargo stopped her from interfering in their flight path, for any of a hundred reasons. To touch that stuff —even with one’s magic— is to be infected.
+
+The Goddeath Poison arrows sailed on, into the sky and beyond.
+
+Did any of them have any hope of reaching Erick at all? The chance was not zero.
+
+It didn’t matter right now. Fallopolis had 50 more arrows of dubious origin flying at her, anyway. Oozy was firing a hailstorm at her, and none of these ones were Goddeath. With a howling twist, Fallopolis spun herself into an array of black beams that further twisted down at Oozy and at the ground below him. Arrows exploded into hundreds of colors, indication that hundreds of arrows had been fired at her, too, which was weird because she only saw 50. The very air and ground caved into itself in the passing of her magics. She only managed to tear Oozy’s cape from his shoulders.
+
+Fallopolis hadn’t seen that cape before it was destroyed, either.
+
+Oozy became easier to see with her magical senses, but several arrows appeared already lodged in her flesh. She pulsed the arrows away and restored the parts of her that were breaking. At least this stuff wasn’t Goddeath… Hopefully it wasn’t Goddeath. That stuff had to be prepared ahead of time for a specific god…
+
+Ah.
+
+She was probably infected now. Would Her God ever speak to her again?
+
+Oozy grinned and put another cape on his shoulders. Like a shattering of a mirror, Oozy multiplied across the battlefield—
+
+Everbless peeked out from one of the white aerial roots, like a boy peeking through a crack in a door, sticking red leaves through the opening. He did that way too much.
+
+Fallopolis opened up with a pillar of Blackfire that slammed into Everbless’s eyes and traveled all the way through them, to his main body far, far in the distance. His main body exploded in Blackfire. He screamed and focused on putting that fire out—
+
+Everything in the entire solar system turned absolutely brilliant as the light of the battle between Erick and Nothanganathor erupted in more [Luminous Beam]s. The sky was brighter than ten thousand suns.
+
+Fallopolis hunkered down under the lingering power of Her God, while Everbless burned under the light and Oozy screamed in pain.
+
+And then Shivraa was there, at Fallopolis’s side, saying, “You let Goddeath arrows past you, and in you.”
+
+She was blocking the Light for Fallopolis with an aura of ten million mana.
+
+Fallopolis recovered, saying, “I tried, damn you!”
+
+“Your loyalty is noted,” Shivraa said, “It is not your fault. You were just raised this way.”
+
+“I have done so much more for that man than you will ever know.”
+
+Shivraa seemed unconcerned about the destruction, even as the top layers of her body evaporated like ice under a [Flamethrower] spell. “Is that you speaking, or your god?”
+
+“Both!”
+
+Melemizargo was back.
+
+Oh thank Him.
+
+She wasn’t infected with Goddeath, or else He wouldn’t have come back.
+
+Fallopolis hoped that she had been clean, for she had no idea how to clean herself. All she knew is that she did not want to be the vector that had infected Her God.
+
+You were not clean, but those arrows were meant for Erick. The poison was easily removed.
+
+Oh.
+
+Fallopolis grew angry, right alongside a subtle anger inside Melemizargo.
+
+Oozy and Nothanganathor didn’t respect the power of Her God at all, did they! They hadn’t even been using Goddeath to kill Melemizargo! They considered Him already beaten! Fallopolis was furious, but she was still in control.
+
+The light soon faded and Oozy was nowhere to be found. Neither were any of the aerial roots, or the top several meters of land, or much of the atmosphere, though the atmosphere was already mostly gone long before this.
+
+He revives at Everbless.
+
+Fallopolis said, “He revives at Everbless.”
+
+“We are already attacking there. I am here to ensure your triumph. Explain how I can help.”
+
+Fallopolis instantly said, “Believe in Melemizargo, for He is the Darkness that will drown all that needs drowning!”
+
+“I do not worship anyone and I will not start now.”
+
+Surprisingly, Fallopolis was extremely happy with that answer.
+
+Melemizargo was also happy, Fallopolis could tell, but His joy was tinged with need. Maybe Shivraa could be converted? Hmm.
+
+Oozy comes first.
+
+Fallopolis said, “We work to trap Oozy. Not to kill. He has killed himself ten times already to get away from me. We do the same to Everbless. His body moves when he dies as well, but he is still on this planet. Everbless guards much of the mortal-rank armaments that Nothanganathor has given to Oozy.”
+
+Shivraa nodded, and then she turned her gaze toward Everbless in the far distan—
+
+She whipped her head around and then she sliced the air with a tiny knife in her hand.
+
+In that distance, Oozy floated, unseen until he was seen in that moment, but then Shivraa’s knife came down and, much like her master, she carved destruction on a scale only the avatar of a god could do. Several hundred kilometers of land instantly froze over.
+
+Oozy was among that freeze.
+
+Oozy popped like a balloon. Dead again.
+
+“Ah,” Shivraa said, realizing what she had done.
+
+Fallopolis said, “It’s harder than it looks!”
+
+Shivraa frowned.
+
+And then the Valkyries descended out of the void and made harrying Oozy considerably easier.
+
+Sometimes it was hard for Fallopolis to understand exactly how far Erick had gotten in life, at the heights of power he now enjoyed. She was just a Champion of Darkness —Funny way to think about it! Sorry, My God.— and Erick was here with armies of billions of mind-melded warriors, each of them flowing in lock-step with each other, while Erick battled with an ancient Wrongness that was the brother of Her God. There Erick was, in the void beyond the sky, battling the White One which was the size of several much larger planets.
+
+It boggled the mind!
+
+On the other hand, that would be her up there, one day, ending big threats, when Her God rose to the power that he should have had all this time.
+
+If Erick doesn’t steal my Mantle for himself!
+
+Humbly, he truly is not aiming for your Mantle, My God.
+
+… Yes yes. I am grounded again. But I am still slipping, my little Culler. I should not take it out on Erick.
+
+The Valkyries harried Oozy into a trap between a thousand of them where they all linked power to form a cage of brilliant Benevol—
+
+Oozy popped like a splash of blood again, his soul slipping through the cage before it could form.
+
+Shivraa slashed out a thousand kilometers away, her tiny ice knife carving a swath of Absolute Winter across the land, intercepting Oozy as he reformed—
+
+Oozy popped again.
+
+The Valkyries kept trying.
+
+Fallopolis thought, ‘This is utterly ridiculous. How is he able to evade these powers?’
+
+A Darkness hummed inside of Fallopolis.
+
+He is linked to Everbless and Everbless is spread across side realities like that Margleknot fellow. Nothanganathor is attempting to have his own Margleknot. It is an imperfect system, but it is a system that is good enough, for now, for doing this much.
+
+Hmm.
+
+Her God communed with others, and Fallopolis waited. She did not wait long.
+
+Erick will not kill Everbless and Sininindi is begging me not to kill him either.
+
+I see now.
+
+The most you can hope to do is control Oozy so he can’t use Nothanganathor’s toys against Erick, exactly as Erick wished you to do when he told you to go here. Perhaps… I was asking too much to have you contain him and bring him to me.
+
+Fallopolis slipped a few beams of Black into Oozy from several tens of kilometers away, drilling through his armor and snapping Oozy’s 25th new bow into pieces. Oozy cursed at his broken toy, and as the Valkyries tried to surround him again—
+
+A great dome of Benevolence instantly formed all around Oozy, trapping him from running. Fallopolis almost gasped. That had been Establishment Wizardry. The Valkyries had done Wizardry, and now Oozy crashed against the side of the cage and then bounced off, disoriented.
+
+He was trapped.
+
+He tried to kill himself, to pop again, but he failed.
+
+“Oh My God, they did it.”
+
+DO IT NOW.
+
+Time stopped.
+
+Oozy froze. Everything froze.
+
+Fallopolis cackled and twisted with power, flying forward, around Oozy’s cage, like a kraken around a pearl, taking control of the magic from the Valkyries.
+
+I knew I was never asking too much from you!
+
+Fallopolis luxuriated in the praise of Her God as she brushed away the time-frozen Valkyries, who— The Valkyries were still moving. They were still active, even in this [Time Stop]. And they allowed themselves to be brushed away. Oozy would probably be speeding up himself, soon enough.
+
+She had enough time to do this.
+
+She vibrated into the [Benevolence Barrier], using one of her favorite magics to do so, and something she had only started to develop properly in the last 120-ish years; Sanity Magic.
+
+Fallopolis had started her life off as the daughter of a Wizard Mind Mage who ended up Forgotten Campaigned. Erick had given her a lot of information about her mother, and about her history, in what seemed like a long time ago. That information had helped her own Sanity, but it was like learning a fact about something that did not really matter to her anymore, for she had done well in making herself, herself.
+
+Melemizargo had been the one to really be there for her.
+
+Her life before becoming a Shade was a blur, and afterward it was a blur, too.
+
+Most of her life was spent that way.
+
+It was only after the Great Purge of Spur, which she spearheaded all those years ago, did she realize that the insane power of Her God was better used when it was Sane. She recognized that calling for the Purge of Spur had been insane. That Purge had cost them all the adventurers that they preyed upon for their games.
+
+That was, perhaps, her first true waking.
+
+That was when she installed herself into the Crack in the Wall of Ar’Kendrithyst, and made herself every proper adventurer’s first introduction to the Dead City, so that they could fight and survive and grow, like Her God wanted them to, because otherwise those adventurers would just make fools of themselves and die to any number of horrors in the dark. The solidification of her Sanity Magic happened after she culled the Clergy, killing all Shades who were too insane to live.
+
+That was when she became the Culler of Ar’Kendrithyst.
+
+That was also when she became a person who truly dealt in world events on multiple fronts. Mostly as Fallopolis, the ‘Insane’ Grandmother at the Crack of Ar’Kendrithyst. But also as another, who had been working with Silverite all the last hundred years, after the Purge, in order to ensure another Purge never happened, and that the remaining Clergy never again succumbed to insanity. The Clergy would always survive, after all, but adventurers were weak things that needed guidance every now and then.
+
+Fallopolis had been Archmage Opal of Spur, the creator of barriers and the tricker of magic, and she had helped raise a lot of people to power, including Erick, to whom she had taught Tricking Magic.
+
+She used all of that right now, to Trick her way through the opalescent barrier housing Oozy, without actually breaking that barrier at all.
+
+In the Darkness of her body, Fallopolis opened a thousand eyes, gazing upon Oozy, into his very soul, into every part of him that had ever existed, or that ever would exist. With glee in her heart, Fallopolis drowned Oozy in Darkness, invading him in every way possible, as she opened a thousand mouths and spoke with the words of Her God into Oozy’s Everything,
+
+“I SEEEEEE YOOOOU.”
+
+MinE! miNe!! ! mINE!
+
+MinE! ! miNe!! mINE! mINe!!
+
+mINE! MInE!! ! MINE!
+
+MinE! ! mINE! MInE!!! MinE!
+
+miNe!! ! MInE!! !MinE!
+
+MINE!
+
+A cacophony of trinkets burst upon Oozy’s time-locked body, attempting to deflect her attempts at taking control of him, but Fallopolis’s spellwork sunk into his soul anyway. She dragged him kicking and screaming into a new life.
+
+The [Time Stop] broke.
+
+Fallopolis oozed away from Oozy, forming a white stone platform under both of them, under the void sky and surrounded by Valkyries. Oozy lay on that platform, the Red drained from him completely. He was asleep, but not for long.
+
+Fallopolis gathered Darkness into her hands and formed her usual staff. With a click upon the stone, the world vibrated.
+
+Oozy shook awake, opening his bright, bright white eyes, full of new sanity.
+
+Fallopolis said, “Welcome back, Shade Oozy.”
+
+The Valkyries were tense.
+
+Shivraa glared at Fallopolis. She had not been expecting her to do this, but it was done, and now everything that Nothanganathor had given Oozy was now Melemizargo’s, including all the plans that Oozy had ever been a part of.
+
+Oozy breathed out, “The Red is gone?” He started sobbing in joy, “The Red is gone!”
+
+- - - -
+
+Erick glanced over at whatever was happening on that planet over there. Shivraa and the Valkyries had helped Fallopolis trap and contain Oozy, and then Fallopolis had claimed him, it seemed.
+
+Sure. That was fine.
+
+Nothanganathor used Erick’s watching of those events to twist reality into a spear that flew his way, yelling out, “Don’t get distracted now!”
+
+The spear disappeared out of Nothanganathor’s grip and then appeared from an angle Erick hadn’t been watching, which was literally impossible. He was watching everywhere. He had no blind spots. Nothanganathor had created a blind spot.
+
+Erick had a choice, as the spear touched down in the middle of his back, between his wings. He could say he saw everything just fine, which would open him up to some sort of memetic threat which Nothanganathor had waiting in the wings, or Erick could take the hit, which was probably a terrible option—
+
+Erick realized he was already in the middle of a memetic threat.
+
+Erick said, “I can afford distractions while I’m winning.”
+
+His words came out faster than the spear impacted him, and whatever the spear had been trying to do it instead flicked off of his black scales and went spinning out into the void like a planetary-sized length of metal.
+
+Erick’s words, were, of course, turned back on him.
+
+Nothanganathor said, “This is nothing more than my subjects throwing a tantrum.”
+
+Nothanganathor was claiming Erick as a subject?! Ha!
+
+Erick threw off an ephemeral yoke, saying, “A popular uprising isn’t a tantrum. It’s a revolution against someone that isn’t even in charge.”
+
+“So you agree I’m in charge!”
+
+A weak rejoinder, but Erick was the only one that recognized it. Nothanganathor was way too narcissistic to see himself as anything other than the largest power wherever he was. He wasn’t, of course. He was delusional.
+
+Erick said, “You’re dead, and you don’t know it yet. This right here is nothing more than me putting down the creator of an age of destruction, to give rise to ever-flowing bounty from your corpse.”
+
+Nothanganathor laughed. Even though Erick had laced his words with power, even though he had the upper hand, even though he had thrown Nothanganathor’s insidious barbs about sacrifice right back at him, Nothanganathor laughed.
+
+Erick’s verbal spar had shattered upon the twisting Reality of Nothanganathor, as Red words filled the void.
+
+“They make bounty out of all the good things, Erick! Not the evil things! No one wants to live in a universe made of wrongness, and especially not me, or anyone like me! Let me give you a taste of how they would Sunder you into a new Painted Cosmology, if I weren’t around to win this war and save you from yourself.”
+
+Nothanganathor twisted into infinity, his long body curling this way and that, his gaze leveled at Erick. Somehow he had gotten between Erick and the sun. He was backlit, shadowing the sun, casting Erick into that shadow. Claws came out, vibrating from every scale and spine of his long body, carving across Infinity, ripping edges rimmed in Red, reaping Valkyries and Erick’s flesh. The Erased One carved a fractal into Erick’s flesh. Every kilometer of Erick’s black scale and skin and membranous wings became a ritual circle.
+
+Erick screamed.
+
+Oppression crushed him from every angle. He felt no up, or down, or light, or dark. All was Red. All was an anvil and hammer at the same time, pressuring Erick into a mold that Nothanganathor desired.
+
+Nothanganathor carved deeper, saying, “The only reward for good work is more work, so become the ultimate workhorse for the Dark, Erick.”
+
+Nothanganathor released a pulse of Red that annihilated every Valkyrie within half of the solar system and obliterated half of Erick’s body. The rest of Erick’s body soon followed.
+
+Erick knew pain.
+
+In that pain, Erick realized more than he had ever known.
+
+He accepted the Red for what it was; an expression of hatred for an unjust universe.
+
+Nothanganathor screamed, “NO!”
+
+But Erick was already headed Elsewhere.
+
+- - - -
+
+Hovering above a blackened land, Fallopolis witnessed sun-sized waves of Red cascading like fractal claws across the airless sky, and she knew terror. Power flowed out of Nothanganathor and power drilled into Erick. Carving. Winnowing. A wing went flying, followed by the tail and half of his neck and all of his lower body.
+
+Erick stood before a blast furnace, and perished.
+
+Fallopolis didn’t often get scared of things that were so much larger than herself, but when you watched something the size of a planet come apart in bits and pieces, you got scared—
+
+There is nothing to fear, for I am here, and you are fine. Erick will either die or transcend this trial. You need to leave before the wave reaches you. Grab Shivraa and Oozy. Everbless dies hiding from salvation.
+
+Shivraa howled at Fallopolis’s side as she witnessed the death of her King and the eradication of half of her army. Fallopolis wasn’t sure which affected her more. She went numb, floating there, eyes wide and her entire icy-body thawing, as though she was in complete shock. She probably was.
+
+The army that remained beyond the portals far, far beyond the battlefield, managed to kill themselves and retreat back to Veird, faster than flight was possible. Those portals shut.
+
+Of course, none of them could physically see any of that at all. Time was wonky, and light and power were moving faster than physically possible for those with the Sight to See what could be seen.
+
+Oozy had a more normal reaction because he was separated from everything, except for his very new connection to Melemizargo. He was basically a newborn, who could only see the red and white glows in the air, cast from the sun. He had no idea what to make of anything, but he was terrified of why Shivraa was terrified. He caught on to Fallopolis’s fear, as well.
+
+There was barely any time to think. There was absolutely no time to explain anything.
+
+Fallopolis swirled with darkness, expanding and wrapping up both of her targets—
+
+Suddenly a white branch invaded the working, grown from a suddenly-there aerial root. The branch spread out dull red leaves and a tiny spattering of roots into the center of where Fallopolis was already working her magic.
+
+Everbless was trying to come along for the ride.
+
+Darkness was already swirling. The tunnel back to Veird was already opening. Fallopolis had the option to abort her magic, and it never would have worked with the bigger aerial root impeding the space, but then the aerial root snapped off, leaving a red-leafed, white sapling floating next to Oozy. Oozy didn’t seem to understand the sapling, and Shivraa didn’t care about anything right now. Oozy grabbed the sapling to his chest anyway, like grabbing an uprooted bush.
+
+Fallopolis could already tell the sapling was Everbless, and it was either going to interrupt the ritual to get them back to Veird, or it was going to come along for the ride.
+
+Fine. He can come.
+
+Return to me, Fallopolis.
+
+And that is what Fallopolis did, collapsing space and ripping an insensate Shivraa, an ignorant Oozy, and a seemingly-contrite Everbless through a tunnel of Darkness.
+
+Everything clawed at Fallopolis.
+
+Everything was Black.
+
+Fallopolis was the only thing standing between the annihilation of that Dark and her cargo, held within her body. Her presence was the only thing that solidified the way forward, into a tunnel that continued on forever—
+
+The hole behind them was still open, held exposed by ripping Red claws.
+
+Shit.
+
+It was going to catch—
+
+Detour.
+
+The black tunnel branched off every which way, and Fallopolis raced down one of them.
+
+The Red followed.
+
+Fallopolis briefly dropped into a world of chaos that roared back at her with gibbering mouths and tumors untold. She screamed back at them, louder and stronger than any of them. The wrongness of the new world recoiled and the world turned intelligible with stone and trees and Darkness in the woods ahead. A portal opened up before her and she followed through the hidden horrors, protecting her cargo.
+
+The portal shut behind her and she was back in the tunnels between slices of Infinity.
+
+The Red clawed open the tunnels behind her, resuming the chase.
+
+She veered off into another detour.
+
+This world was mirrors and reflections and she was joined by ten thousand versions of herself, all of them carrying cargo onward into halls of Darkness. Red burst out of the mirrors, clawing her way.
+
+She lost the Red in the confusion of it all.
+
+Four more detours later Fallopolis spat out of a hole of Darkness in the air, landing atop the white pillar of Ascendant Mountain, on Veird. The hole closed up behind her as Melemizargo himself grasped the air where the hole had been, appearing like His True Self, majestic and Dark. He threw the portal away, back into Infinity, and Fallopolis knew the path to the big battle was lost to her.
+
+There was no way back to the big battle.
+
+Fallopolis’s part was done, anyway.
+
+Erick was either dead, or not—
+
+Melemizargo demanded of her, “My cargo.”
+
+Fallopolis spilled out of herself, her [Avatar of Melemizargo] falling away, peeled apart by her insistent God.
+
+She became so much smaller as she crashed onto the white stone underfoot, like a shell discarded.
+
+Everbless’s sapling wormed out of Oozy’s grip and tried to plant into the white stone, but Melemizargo whipped the Red thing into a sphere of Darkness, taking some of the ground with it. Everbless twisted his form into a tiny tree, his roots gathering those stones to his body, where he suspended himself among that debris like an impostor of Yggdrasil, who was probably safe and floating inside Benevolence Itself—
+
+Oozy suddenly retched out Red onto the ground. Red Sparks traveled this way and that, but Melemizargo descended his entire clawed hand onto the entirety of the Ascendant Mountain platform. Fallopolis briefly wondered if this was her End, as the world turned Dark.
+
+But it was an Ephemeral Dark. They were not crushed.
+
+Melemizargo’s hand and claws became ephemeral and bright with Darkness, slamming down on the Red and eradicating it.
+
+And then Melemizargo went to work in the Darkness of His own making.
+
+He reached into the Valkyrie, into Erick’s captain of his army, and Shivraa cried out in soul-torture.
+
+She fainted.
+
+Melemizargo pressed further into Shivraa’s soul, reaching, twisting. Shivraa thudded this way and that, as though buffeted by invisible winds. Melemizargo’s eyes opened in the Dark as he stared into Shivraa’s soul, and—
+
+Rozeta stepped to the side, looking like a bright white human wrought woman, singular in the Gloom of Melemizargo. She stared up at the white eyes in the Dark. Her voice was insistent, yet even, “What are you doing, father?”
+
+“The fact that I am doing this at all means that Erick has failed. He has not returned from his death. We are splitting up the Valkyries amongst ourselves. I am taking Shivraa.”
+
+And then Shivraa opened her eyes, and they were full of light. She was a Shade now.
+
+Her Brightness seemed clouded to Fallopolis, though. Full of confusion and insanity.
+
+She did not voice that opinion. She resolved herself to cull Shivraa later, after she had served her purpose, though a part of her was disappointed that Melemizargo was doing this at all. She did not voice that opinion, either.
+
+Melemizargo ignored Fallopolis as He said to His daughter, “You already have all of the Weaves of all of the remaining Valkyries. Split them up however you care to split them. Everbless is also Mine.”
+
+Inside the Darkness of the sphere that contained Everbless, Everbless’s Red leaves and white body turned Black, with only cracks of light appearing in the smallest of spaces, in the twist of bark, or on the edges of a leaf.
+
+Rozeta said nothing. She just stared.
+
+Melemizargo told Fallopolis, “Prepare to repel Paladins.”
+
+Fallopolis prayed for two things in that moment.
+
+She prayed for Erick’s return.
+
+And she prayed silently, so very silently, that Her God wasn’t going insane again.
+
+Melemizargo’s full weight fell upon Fallopolis as he turned his eyes toward her.
+
+Fallopolis splattered.
+
+Melemizargo’s voice called her back from oblivion. “Fall in line or fall forever, Fallopolis.”
+
+Fallopolis came back together, returned to life. She tried to stand. She ended up on her knees, which was as much as she could do. With her head pressed against the stone, she said, “Yes, My God.”
+
+“Cease your madness, Father,” Rozeta said, “There won’t be any paladins coming this way, for if Erick is gone, then we must do what we must. I will begin dispensation of the Valkyries now, and then—”
+
+The sky twisted and spilled with fractals.
+
+Something happened.
+
+Fallopolis had no idea what happened, but from one moment to the next, she had been witnessing the complete breakdown of everything Erick had tried to build, and then she was laid out on the ground again. When she regained her senses but her body was still numb, she saw the world had changed.
+
+The sky, which had been an illusion of blue and clouds and sun, was broken, revealing the black adamantium of the shell of the next layer above them.
+
+Melemizargo was alive, but his body was splashed across the land beyond Ascendant Mountain, like hills of black scales vaguely resembling a dragon, with one arm and one leg raised up in the air.
+
+Blood was everywhere.
+
+Rozeta was in metal pieces on the ground next to Fallopolis.
+
+Shivraa was gone.
+
+Everbless’s cage was gone, and so was the nascent World Tree.
+
+Fallopolis was alone with Oozy.
+
+Everything was silent, except for the breathing of her comatose god.
+
+That had been the Fractal Fairy, hadn’t it, Fallopolis thought, as she managed to rise to her knees, and no further. She steadied herself upon the ground, everything still spinning. And then the full gravity of the situation truly struck her like a sudden vanishing of the ground underfoot.
+
+The ground was still there, but was it, really?
+
+Fallopolis shouldn’t have been surprised at how easy it was to ruin everything that Erick had ever built. Shades had been ruling Veird for 1400 years before Erick came along, but there had been many such potential ‘Ericks’ before him. Shades had often called people Fires of the Age.
+
+And yet, none of them were real Fires.
+
+Not like Erick.
+
+And now the Fire was gone, and the shadowolves had come out.
+
+Fallopolis had toppled her fair amount of cities and otherwise by removing one key person here or there, so this level of breaking shouldn’t have been a surprise. In every breaking, many things happened, all rather fast. First came the frantic reestablishing of whatever norms people could grasp, then came the real upheaval as the previous existence simply didn’t work anymore and people started to realize that fact, and then came dissolution and establishing of new social norms. That is what happened in every breaking, give or take any tens of thousands of specific variables.
+
+And yet the ground still existed in all those scenarios.
+
+Did the ground exist anymore?
+
+Fallopolis lost her sense of self for a long moment.
+
+Moments passed.
+
+“All the Valkyries are gone, aren’t they?” Oozy asked, his voice full of sorrow.
+
+Fallopolis was still gathering herself. She wasn’t sure how to answer Oozy’s question.
+
+So, she was honest, “Yeah. Probably. The Fractal Fairy had enchanted that whole magic to never be corrupted, and every single god here just tried to corrupt it.”
+
+Silence.
+
+Oozy softly said, “You probably could have held out for a little while with them.”
+
+“Probably.”
+
+“What happens now?”
+
+“I don’t know.”

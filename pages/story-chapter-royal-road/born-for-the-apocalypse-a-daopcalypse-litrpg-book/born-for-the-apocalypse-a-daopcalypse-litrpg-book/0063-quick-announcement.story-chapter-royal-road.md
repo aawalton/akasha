@@ -1,0 +1,33 @@
+---
+id: 694eb5ed-b402-5e50-b86c-76e7544e9a2a
+page-type-slug: story-chapter-royal-road
+title: "Quick Announcement"
+slug: 0063-quick-announcement
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 63
+ownLength: 261
+unit: words
+publishedAt: 2025-03-13
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2123238/quick-announcement"
+royalRoadId: "2123238"
+---
+
+Won't take up much of your time (the next chapter is on its way, just got kind of tired after writing 50k+ words in 50-ish days for Born for the Apocalypse (Chapter 62 may or may not be the end of book 1, but it doesn't really matter for the webserial format)
+
+Anyway, if you've been enjoying my LITRPG Apocalypse so far, there's a chance you might be interested in my upcoming Deckbuilder LITRPG launch: The Legendary Fool, coming on Amazon and Audible on April 1st,2025. Since I don't have a patreon (which is on me, lol), any preorders/orders/kindle unlimited reads is the best way to support my writing career, plus you get a whole new book universe to dive into.
+
+When I started writing this story two summers ago for the writathon, my goal was to create a concept that I loved (fool/jester), mix it up with a LITRPG system that felt fresh (Deckbuilding) and most importantly of all, create a story that was just fun to read.
+
+If that seems like something you'd enjoy, here's the synopsis (Links and cover below):
+
+ONE CARD TO RULE THEM ALL...
+
+Thomas Lowe was destined for a life of mediocrity as he worked a dead-end job in rural america. But fate seemed to have other plans for him.
+
+One card changed everything. A power beyond imagination. A prophecy that put him in the crosshairs of Ancient Clans and Noble Houses that have existed since the dawn of the first era.
+
+The name of that card was....
+
+[Card Name: The Fool]
+
+[Rank: Ephemeral/ Legendary-Unique]

@@ -1,0 +1,217 @@
+---
+id: 74e662b8-8c8a-503c-a4a4-764db0311ee2
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 18 - Those Who Hunt…"
+slug: 0075-book-5-chapter-18-those-who-hunt
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 75
+ownLength: 5041
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3433655/book-5-chapter-18-those-who-hunt"
+royalRoadId: "3433655"
+---
+
+The fruit trees in the City of Arts bore fruit all year round, yet autumn still somehow set the apple trees into overdrive. Even in the Lodge, the rich aroma of apples lurked everywhere. Apple cider was the cheapest drink on offer, apple pastries were a small arcanite each, and Ranthia’s spiced and stewed apples sat neglected while she and Anthelleon compared notes ahead of their next joint hunt.
+
+Another so-called ‘mountain lord’ had been sighted, more than once, wandering the forests on both sides of the range. Logically, they needed to hunt food somewhere, though Anthelleon and the elven witnesses insisted that this was “highly atypical” and worrying. As such, the bounty for the beast had been increased. But the latest information had given them an unexpected problem.
+
+“Okay, so we have two caravan guards claiming it was level 1493. How reliable do you think they are?” Ranthia had her doubts. Sure, she was adapting to the absurdities of life beyond the Dead Zone, but the idea of a bear reaching such an extreme level felt downright ludicrous!
+
+“Why would anyone have trouble recognizing the exact hue? We live and die by those colors—the same is true for caravan guards.” Anthelleon looked up from the plush bunny she was stitching for the first time in a while, just to fix Ranthia with her best baffled expression.
+
+“…You would be surprised.” Ranthia had more than a few haunting memories of wildly exaggerated or under-reported levels. “But fine, let’s assume it’s true. We have a bear that’s a stone’s throw from twice our level. Our original plan isn’t going to cut it.”
+
+“We just need a bit more gumption, that’s all!” The elf retorted with a broad, confident smile on her face.
+
+“You made me carry you home when you stubbed your toe a month ago.” Ranthia offered a deadpan retort, before she refocused. “Seriously, I think we need to recruit someone else to help this time. We’re a great team, but I’d feel better with one or two more party members. We don’t need to be perfectly coordinated; we just need to be able to counter whatever this bear can do. There’s a weird lack of information. There’s just no way it’s that high level without being a caster monster.”
+
+“I disagree that we need any help to deal with a single creature, no matter how loathsome it may be. But I will listen if you have candidates in mind.” Anthelleon bowed her head, just to make it abundantly clear that she was being magnanimous.
+
+“I mean, Aegiomus would be at the top of the list.” Yes, she was still preening every time she was able to use [Immortal Armaments] to retrieve a name. It’d taken her a few weeks to get over greeting everyone she saw by name, but the thrill of it—after a lifetime of struggles—remained.
+
+“He wouldn’t join a team, not for something like this. He works alone.” Anthelleon immediately denied it, though the dreamy smile that was spreading over her face definitely suggested she was considering it.
+
+“He teamed up with Branegeth right after the anniversary concluded to look into the rumors of a drop bear.” Ranthia countered.
+
+“Oooh, true, I almost forgot about that! Branegeth is pretty handsome too, do you think they…” The elf licked her lips with her eyes sparkling with delight.
+
+“I thought you wanted Aegiomus.” Honestly, Ranthia knew better. But by the time her better sense tried to stop her, the words had already passed through her thrice-cursed lips.
+
+“Oh, honey. I can watch the spectacle of men, then they can invite me to join them.” Anthelleon was definitely deeper into her cups than Ranthia had expected.
+
+…That or the cider was a lot stronger than it smelled. She eyed her own half-empty crystalline mug with suspicion.
+
+“Okay, setting that aside. We still need to figure out who we—” Ranthia tried to get back to the topic at hand, she truly did.
+
+“Get out!”
+
+The words tore through the entire Lodge with elemental fury. Everyone was capable of imbuing the element of any class they had into their voice. It was generally considered rude and, even in emergencies, Ranthia rarely bothered. Mirror made for a strange, echoing sound and her Void-touched voice was reserved for the final thing the vilest of men ever heard. As for her Adamantium voice, she’d never even tried it—something about using a divine-granted class for intimidation just felt entirely too self-centric.
+
+But the Pyronox-touched words consumed the conversation throughout the Lodge. Their source was unquestioned—element-touched or not, everyone knew the voice of the wondrous woman that peddled their ale. Instead, every eye in the Lodge was driven to the target of the voice.
+
+A pale elf, wearing a drab outfit that could only be some flavor of uniform. A black coat with silver thread forming some sort of logo or sigil on his breast, worn over a white button-down shirt that was tucked into a pair of white trousers. The man was even wearing white gloves and white shoes, though the latter were somewhat stained from use outside of a more robustly urbanized city.
+
+“I am not here for you. This is the formally registered base of operations for the local Hunters, and I am here for them.” The man raised his head proudly, with an impressively unfazed and smug expression on his face.
+
+Too bad his knees were shaking as though he were a hapless fawn, namely one that was surrounded by a pack of snarling wolves.
+
+“Fine.” The tavern owner seemed to spit the word out, displeased by its taste. “Say your damned piece and get the fuck out of my Lodge! I’ll coordinate the rest.”
+
+“Acceptable. Hunters of the Tympestshard Council! You are being granted an opportunity to repay some small measure of all that you owe to the Unchanging Council. I have been charged with gathering a force from this location—just as many of my peers gather your brethren from other cities in this area of the Tympestshard Council’s territory—to pursue and eliminate outsiders that would dare to steal from their betters. Let us prove to the Wardens that we are capable of handling this matter internally, before they escape beyond our borders! I shall await those that shall join me for this task, at the northernmost exit from this… city.” The man seemed to recover his nerve as he spoke, metaphorically armoring himself with the arrogance of whatever authority he wielded.
+
+Which didn’t stop him from immediately running—not walking, running—out the door the very moment he finished speaking.
+
+“Fuck me, I hate when shit stains like that come around. Okay idiots, listen up! I have no idea what fuck up prompted this damned mess, but “outsiders” is clear enough—you’re being asked to fight either devils or mortals. I’m going to call out thirty names. This is optional. No matter what that smear thinks, he can’t compel any of you to do anything. That said, I don’t think I need to say how it’ll look to the Unchanging Council if we don’t offer a competent response, so I hope at least twenty-four of you will play along. And when it’s done, don’t let that pathetic fool walk away without paying you! I don’t take Council promises in exchange for good alcohol.
+
+“Aegiomus, despite what I just said, I’m seriously asking you to go. You can keep the other idiots in line in a way no one else can. If you refuse, I’ll feel obligated to tag along. And there isn’t any individual on Pallos that wants that to happen.
+
+“Rostanthus, Breesaillia, and Cormanth. Ranthia and Anthelleon. Jubrand, Alagora, Vistiviantus, and Carmilieum.” The stern tavern owner retreated into the tone that reminded Ranthia of a military instructor while she named known teams amongst the Hunters. Though only a few teams were named before she moved to individuals. Some were members of teams chosen without their usual allies, others worked alone or drifted between infrequent groups. Sunny’s father, Jarthrams, was called. But none of his usual circle were named.
+
+Ranthia wasn’t even slightly surprised that she’d been called. From the moment that the woman clarified that they were being asked to fight people, she knew what was coming. The others hunted animals and beasts for sport, glory, and/or gems; few among them had ever seriously fought another elvenoid to the death. The City of Arts had even barred contests that involved violence, like sparring, to protect the ‘young’ immortals that lived there from themselves. In stark contrast, she had more blood on her hands than any of her friends, colleagues, or would-be antagonists could possibly imagine.
+
+Inexplicable attraction or not, she’d tried to glare at the woman when she’d been named, only to get a moment of eye contact that told her exactly nothing. It was her choice, she had the power to say no. But she was also an outsider to the Tympestshard Council—which meant her refusal to play along with the Council’s authority was probably more fraught than it was for anyone else in the Lodge.
+
+“And for those of you that are too dumb to keep count, that’s thirty. Take a bit of time to mull it over. I want whoever’s going to meet the idiot by the northern exit in exactly two hours. Don’t show up early, but don’t be late either.” The barkeep finished speaking and promptly switched back to her preferred duties behind the bar.
+
+“Well, this promises to be entertaining! I’m in for sure. Let us see these loathsome thieves quail before our justice!” Anthelleon was grinning broadly.
+
+At least Ranthia had proof that she’d kept her inner turmoil off her face. For a few moments, she absorbed the various conversations blooming throughout the Lodge. Some voices nursed their wounded pride after they were left out of the shortlist. Others expressed their gleeful willingness to contribute, often bolstered by their hope to receive the Unchanging Council’s favor. A few were grumbling, namely those that seemed to find some insult in being asked to do something.
+
+Only one voice was actively refusing to join in, and that was because she had a rank challenge scheduled. Everyone else seemed to be committed, just with varying levels of enthusiasm.
+
+“Yeah…” Ranthia offered her own half-hearted confirmation to her friend.
+
+She had two hours to convince herself of whichever path she chose to take.
+
+Ranthia spent the first half an hour just taking a leisurely walk. She was never one for thinking while she held still; her mind craved movement. A walk wasn’t a dance, but the day was quiet and peaceful—at least by the City of Art’s standards—which made her stroll feel far more refreshing than it normally would have been. And it did exactly what she needed it to. By the time she reached her home, she had made up her mind to help catch the thieves.
+
+She had three reasons. First of all, thieves were worth stopping. And given that the elves would feed, house, and even offer healing to anyone that entered one of their cities, there was little chance that thieves were acting out of desperation in the Tympestshard Council’s borders. Second, she wanted to prove that even if she was an outsider, she was still part of the community. Sure, it was unlikely that she’d linger in the City of Arts forever, but once she reunited with Avyna they would presumably still establish a permanent home in the Tympestshard Council that they could return to between their travels. And third, she knew that if she stayed home and Anthelleon got seriously hurt—or worse—she would never truly forgive herself. And she refused to let another true friend become a source of unshakable regret.
+
+“Clover, I’m home! You around, sweetie?” Ranthia called out as she entered.
+
+Grudgingly, she was allowing Clover to have some autonomy. Without large numbers of strangers in the city, the bunny was free to come and go as she pleased—just as Litil had anticipated. She was really hoping she wouldn’t lose more time to tracking her Bond down though.
+
+Vlip.
+
+Ranthia let out a performative grunt as she caught her airborne bunny, then carried her like an oversized baby while she explained that she was going on a far-ranging hunt with several others that might take days. She didn’t have many details, but it was beyond unlikely that they’d locate and catch up to their quarry in just a few hours. Even just a solitary hunt without a specific quarry, done within the forest that surrounded the City of Arts, usually took most of the day.
+
+While Ranthia explained the circumstances, she started gathering things. Clover was allowed to come and go, but Ranthia had learned the hard way that she couldn’t leave multiple days’ worth of food out. Her bunny could be exceedingly clever, but as the saying went—her gaze was larger than her stomach. Gluttony and excessive food matched quite poorly. As such, Ranthia would need to leave Clover with Litil in her absence.
+
+Oddly, the simple children’s book that Clover seemed most interested in was on the floor—Ranthia could have sworn she’d put that up, and it wasn’t the first time she’d found it in an unusual place. Ranthia stacked it and a couple of others with the Medical Manuscripts, before she finally put her Bond down and retrieved her own backpack. Waterskins, a cooking pot, various dried ingredients for stew, trail rations, and her traveller’s cloak were carefully packed into it. Clover was removed from it every time she tried to sneak in—losing one backpack to bunny bowels was plenty. She also grabbed her ongoing Tali set project to have something to do during downtime, though she half-expected a group of immortals to operate with minimal rest.
+
+By the time Ranthia finished gathering everything and shifted into her armor, Clover had managed to add five more books to her own pile and had dragged her little backpack over. Which resulted in a second conversation, where Ranthia did her best to convince the bunny that she didn’t want to come and would rather stay with Litil.
+
+She had no idea who they were going after, and Clover wasn’t ready to keep up with a gaggle of elves. There was no way she was going to take her Bond along.
+
+“Hey, I know you don’t mind, but I am sorry for the lack of notice. Some official is in town and gathered up a group of Hunters for something urgent—and it might take a few days. Could you look after Clover for me?” Ten minutes before she was due to join the group, Ranthia delivered a belligerent bunny to Litil’s healing center.
+
+“Of course, come here you beautiful lady you. And might I say your dewlap is looking especially lovely today?” The [Healer] accepted the rabbit with relish.
+
+Clover, if anything, seemed to be further antagonized by the compliment.
+
+“I really can’t have her following, not with whatever this is.” Ranthia winced as she watched her Bond thrash ill-temperedly.
+
+“I know, I heard about someone entering the city with a guard. And be careful; the attention of officials isn’t always a good thing. We’ll see you when you get back.” Litil answered with a reassuring smile.
+
+“Right, thanks. I’ll see you both as soon as I can, I promise.” Ranthia answered, trying to pat Clover one last time—only to get bitten.
+
+The more things change…
+
+With that, Ranthia backed out of Litil’s shop and blurred into the distance at top speed. It seemed a bit cruel, but the easiest way to keep Clover from following her was to ensure Clover couldn’t find where she had gone. She’d carefully avoided mentioning where she would gather with the others, and the City of Arts wasn’t so small that a bunny—especially not one under Litil’s watchful eye—could find a small group of thirty or so people in short order.
+
+A few Hunters were milling around near the northern exit, so Ranthia joined them. Aegiomus was already there, handing out preserved fish and travel bread to everyone as they arrived. Ranthia accepted her share, politely refused the squares of Ilan bread, and waited for Anthelleon.
+
+Unsurprisingly, the painfully punctual woman only arrived exactly at the appointed time, leaving them with no time to do anything more than exchange nonverbal greetings while Ranthia fell into step beside her friend. As a loose herd, the twenty-nine Hunters made their way through the City’s protective barrier. Just outside the city, waiting off the road, the pompous official sat astride a two-legged feathered dinosaur that Ranthia didn’t recognize, with two other elves standing near him.
+
+The man was dressed in an outfit that Ranthia could only think of as a battle dress—a knee-length garment of hardened leather, wrapped loosely in white chains. Winter steel, most likely; one of the less popular alloys that elven smiths made. His blond hair had red streaks through it, and his thin, curly horns were painted the same crimson hue. [Warrior – Mantle] level 836, [Mage – Spatial] level 799, and [Warrior – Gale] level 642.
+
+The woman was dressed in several layers of cloth, dyed black, blue, and green. A long, curved sword was strapped to her back, and she had several bangles made from a variety of materials worn on her arms and lower legs. Strangely, her garments included a cape, which Ranthia had never even seen since she left Remus behind—and even then, they’d been relegated to formal dress. [Warrior – Gale] level 947, [Warrior – Mantle] level 909, [Warrior – Arcanite] level 856.
+
+“Elf Hunters.” Anthelleon hissed. Within moments, the phrase had spread to the lips of almost every other Hunter present, before they adjusted their positions and collectively turned their heads to the left to spit on the ground. Only Ranthia and a visibly flustered Aegiomus failed to take part in the openly hostile response.
+
+The elven official began some spiel about how the duo were requested for the skillset they uniquely possessed, but rather than listening to him, Ranthia caught Anthelleon’s attention.
+
+“What in Xaoc’s glory is an Elf Hunter and why is everyone so pissed off?” Ranthia whispered her question.
+
+“Those two used to be Hunters, until they left the Lodge. Elf Hunters go after anyone that tries to escape punishment when they break the laws or rules of any city. Mortals, yes, but most of those that these irredeemable curs turn their steel against are elves. I would have never taken this loathsome job had I known they’d be here.” Anthelleon was a sweet and caring person by nature. Even when someone successfully pissed her off, she preferred to remain quiet and pretend she wasn’t affected. So Ranthia was more than a bit shaken by the open hostility in her friend’s tone and body language.
+
+“Enough. Tythel, Ryondin, I trust that I can—” Aegiomus cut the official off and tried to broker a peace.
+
+“Oh, we don’t use those names anymore.” The male Elf Hunter cut him off. “These days, I’m Blood Chain. And she goes by Rogue Wind.”
+
+…Oh gods. Ranthia desperately tamped down on her urge to start laughing. Of all the juvenile absurdities! Blood Chain and Rogue Wind?! She couldn’t possibly engage with them in good faith. People can’t just take a fascinating or meaningful word or two and create a viable name without coming off as being ridiculous!
+
+… … …
+
+Somewhere down that chain of thought lurked a dire reassessment of Sentinel names and titles.
+
+“Enough, enough! Let us be on our way, yes? I will explain as we journey.” The official guided his mount between the two groups, then set out, clearly expecting them to follow.
+
+The Hunters created a loose wedge to the man’s left as they paced his mount, leaving the duo of try-hard Elf Hunters to stay at his right. The pace wasn’t as challenging as Ranthia would have expected it to be—by her standards, it was practically a light, sustainable jog. Yes, that was preferable to something taxing that would have exhausted her, but it was a fairly sedate pace by elven standards.
+
+As for the explanation, the official clearly had a fondness for the sound of his own voice. To cut through the pomp and excuses, they pursued a wagon that had been stolen by unknown actors. He was cagey about what the wagon was carrying, but allegedly the Unchanging Council itself had “at least some interest, though not an excessive amount” in seeing wagon and cargo both recovered. There were a few things that felt odd about his explanation though. First of all, he mentioned (with a chagrined expression, once he realized what he’d said) that they were pursuing “one of the wagons,” in a direction that it may have gone. Supposedly other groups were handling other routes it may have taken, though she was forced to wonder if they weren’t pursuing other wagons instead. Secondly, the man stressed that they had to find a lead and intercept the wagon before it left the Tympestshard Council’s territory. That much made sense, but he was candid about wanting to keep the Wardens from getting involved. Unfortunately, Ranthia knew even less about the Tympestshard Council’s politics than she had ever known about those in Remus, so she had no idea what to make of that.
+
+Still, the job sounded easy enough, so long as they managed to find a lead.
+
+Watching a gaggle of self-proclaimed experts at tracking compete with one another was a spectacle in and of itself. Half the Hunters were determined to be the first to find any and every lead as they progressed and they embraced silliness to gain every advantage they could. Grown elves crawled on all fours as they sniffed at the ground. Skills activated every few steps. One guy was even licking the road periodically, muttering to himself as though he was getting useful intel out of it. The group had been arguing amongst themselves about whether or not to set up camp for the second night when one of the Hunters announced that he was convinced he had caught scent of their quarry. No one else could detect the scent, but they still let him convince them to abandon the main road to follow the offshoot.
+
+It was early in the next morning before the next—and likely first true—clue was found. A tiny fragment sliced off a piece of poop, most likely one that had landed just outside of whatever Skill was erasing the wagon’s tracks. After all, who else would bother with such an effect unless they were trying to smuggle an entire wagon?
+
+…Unless it was an Aura that was always active. Still, the general consensus seemed to be that they were hot on the trail of their quarry.
+
+“I know this stink. Orcs. We’re after orcs, and we’re not far behind them.” Cormanth announced, as he returned from the woods. He’d suddenly darted off with the urgency of someone with severe digestive distress, but clearly, he’d caught a scent and rushed to investigate.
+
+The news seemed to drain a bit of the tension—mortals were easier to deal with, after all. It also encouraged them to speed up; ideally, they would complete their vengeful hunt before they lost the sun.
+
+“I hear something.” Ranthia whispered, projecting just enough to make sure she was heard by the elves that surrounded her.
+
+Several doubtful sneers were directed her way.
+
+“No, she’s right. I hear it too. Three voices, and the wagon’s noise is being suppressed, but it’s not entirely erased.” Aegiomus confirmed.
+
+That was more than she had gotten, but it was more than a bit surprising that she’d been among the first to notice the out-of-place sound. Sure, her [Companion Bond] improved her hearing, but it was only a level 480 Skill, and she was competing with elves.
+
+Silently (surprisingly so for a group of more than thirty people), they progressed toward the sound. It didn’t take long for everyone to hear the three arguing voices—their sources weren’t shouting or anything, but arguments tended to be hard to miss. Their rushed pace was just a bit faster than those they pursued and the volume increased steadily as they closed the gap.
+
+The road that they were on wasn’t a major one, it was little more than a game trail worn into the light woodlands they were in, north-northeast of the City of Arts. They were well past the mountains, and the trees were thin and scattered enough to allow larger grazers to wander where they wished. Dinosaurs lifted their maws from the grasses and greens they supped upon to warily watch them pass, only to return to grazing once it was clear that the Hunters weren’t bothering them.
+
+Once they passed some unspoken point, the Hunters sped up and began to scatter. Ranthia stuck with Anthelleon and tried to match her friend’s pace, as stealth was sacrificed for expedience. The official fell back, unable or unwilling to match their rush.
+
+The twang of a bow heralded the start of the battle. It felt absurd to attack the orcs without verifying anything, but by the time the first arrows and Skills were in flight, there was nothing Ranthia could do but form her knives.
+
+“They found us!” A guttural voice helpfully alleviated Ranthia’s concerns, even as the orc next to him died in a spray of blood.
+
+There were eight orcs in sight, loosely surrounding a wagon that was slowly trudging to a stop. The opening volley slew five and wounded a sixth, though the orcs rallied with alacrity. To the best of Ranthia’s knowledge, all of orckind had been at war with the dwarves of Khazad until they had been defeated and driven out. What they were doing so far west—or, more likely, east—was a mystery, but it was clear that all three of the surviving orcs had combat experience. Each was triple classed and wearing good steel.
+
+Two [Warriors] charged, while the injured [Mage] unleashed a massive barrage of lethal stones. The barrage arced over the [Warriors] and descended in a deadly hail on the elves with expert timing.
+
+It was too bad they were so utterly outclassed. Each of the orcs was almost level six hundred, with every level earned through blood and conflict. But that was the difference between mortals and immortals. The elves were comparatively soft, yet they wielded at least two level 768 classes—with some among their number choosing not to cycle.
+
+Anthelleon raised her staff and projected a broad pane of Brilliance, covering Ranthia and herself. A few Hunters contemptuously parried each individual stone—including the Elf Hunter woman—while others conjured barriers and other defenses. The barrage had likely consumed every bit of mana the [Mage] possessed, but he failed to so much as draw a single drop of elven blood.
+
+And neither [Warrior] lived to finish their charge. Arrows and other Skills tore through their steel and flesh until they succumbed—their endurance was impressive, but insufficient to save them from Black Crow’s harvest. The male Elf Hunter was the first to reach the [Mage], though instead of taking the man prisoner, he drove his sickle through the orc’s throat.
+
+[Divine Eyes in the Void] pinged, just as the orc fell, gurgling. But Ranthia hadn’t actually required the warning; she was already aware of the (presumed) orc’s approach. The layered stealth Skills were good, even her [Divine Eye] only saw a slight distortion in the air as the would-be assassin neared. They had just made a common mistake—whatever Skill(s) erased the sounds that their body and their passage made also erased every other sound that the wilderness had to offer. The wall of inexplicable, moving silence was as obvious as anything.
+
+Ranthia let her opponent draw near, then activated [Sustained Chaos] and threw a fully imbued knife into the distortion.
+
+Her grey-green skinned adversary shimmered into existence, a stupefied expression on his face as he gawked at her—her dagger buried deep in his chest. A moment later, Jarthrams took the orc’s head with a broad blade formed out of conjured ruby.
+
+[*ding!* You have contributed to the slaying of an orc [See No Death] (Mirage, level 701), [Hear No Death] (Sound, level 685), [Feel No Death] (Void, level 670)!]
+
+“Clear!” Ranthia called out of habit, once she confirmed that there were no other obvious hostiles in the vicinity.
+
+“Well, that was easy! Loathsome villains have been brought low and the deed is done!” Anthelleon beamed. She hadn’t actually done much more than provide defense, yet she was still smiling like she’d singlehandedly bested their enemies.
+
+“We should have kept one of them alive though. We might never know how or why they pulled this much off.” Aegiomus cut in, glaring at the inanely named Elf Hunter that was swinging his sickle idly via the chain it was tethered to.
+
+“Yeah, and this is why we’re here. You damn monster fuckers never pay enough attention.” The man replied, smiling the smuggest and most punchable smile he possessed. But with that, he loosened his grip on his weapon and sent it flying toward the driver’s seat of the wagon.
+
+With a strange, surreal sound, the weapon vanished, leaving a shimmering fissure in midair. An instant later, it went taut and the elf planted his feet and heaved on his chain. The little fissure expanded with a horrific noise—like an unholy halfway point between shattering crystal and ripping fabric—which was immediately erased by an even worse sound.
+
+It was a sound that Ranthia heard in most of her nightmares, ever since the horrible day that she’d inadvertently elicited it. The world seemed to be in slow motion as her dread built. One forceful, accelerated heartbeat revealed vibrant blonde—a vivid shock of color that seemed to leave the rest of Pallos greyer.
+
+By the time Ranthia’s next heartbeat came, Avyna’s head and torso were already in full view as she was hauled out of the Spatial distortion by the damned hook buried in her shoulder. Blood spread from the wound, staining her favorite travelling dress. And her haunting scream reached its crescendo as her [Hidden Hideaway] failed and her full body emerged.
+
+“Always look for Spatial bullshit.”

@@ -1,0 +1,51 @@
+---
+id: 701719b0-1f22-5433-835c-9a3543951c4e
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 9- The Threat"
+slug: 0072-book-2-chapter-9-the-threat
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 72
+ownLength: 1071
+unit: words
+publishedAt: 2025-05-19
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2290013/book-2-chapter-9--the-threat"
+royalRoadId: "2290013"
+---
+
+71:
+
+Jack had long since acknowledged the middle-aged man as a worthy adversary, despite his strong distaste, or rather, loathing he felt for the man’s moral failings. He was no stranger to caution, for in the years that had passed since his parent’s untimely assassination, he had not made any overt moves to find out the identity of the ones who had orchestrated the attack.
+
+Jack Anderson understood how important it was to see the threat for what it was, not what he wished it to be or who he wished was behind it. His hatred for the enemy would not make them any less competent, his regret and suffering incapable of bending reality in his favor like any other’s was. When Jack had been old enough to understand what it was that had transpired on the day he had lost what felt like everything, he had understood just how brazen and bold it was to gun down two targets in a crowded amusement park.
+
+Yet, the culprits had not been caught, despite the potential dozens of witnesses that could have sighted and identified suspicious individuals in the area. The brazenness of the incident was such that that there was detailed media coverage of the situation, but where there should have been a political storm there had been only a bonfire, with the reporters labelling it as a robbery gone wrong instead of what had been so very clearly a professional hit job. There had been outrage, of course, but when the death of a prominent mass media tycoon and his wife was labelled so clearly as an accident, there was little reason to doubt it.
+
+The signature of power had been scrawled all across his parent’s assassination, a self-made couple that had believed in the power that investigative journalism held and had refused many buyout offers that would have seen them walking away with a fortune. Emerson Holdings, the investment company his parents’ assets had been sold to through his trust fund, had never owned any mass media companies before and they had paid a little above the total valuation— so it hadn’t been about the money.
+
+It had taken more self-control than he believed he had to not try and find out the identities of the true hand that had directed the gun at his parents. But it had been necessary, for he was exposed out in the open, while the enemy watched from the cover of the shadows. He did not know who they were, how big their nexus was and just how far they were willing to go to bury whatever it was his parents had stumbled upon. The only way to counter-attack against such an enemy was to have them genuinely believe that you were not a threat, to let them believe that they had well and truly won.
+
+Logically, it was an easy enough thing to understand that your enemy was who they were, regardless of how much you believed that the laws of karma should blot their existence out of the world. Emotionally, it was and remained the most difficult challenge Jack had ever undertaken.
+
+That truth proved itself once again as the middle-aged man demonstrated that he understood the importance of the element of surprise in battle, as he let the spear that had narrowly missed his target drop to the ground as he charged forth with purpose reflected in his gaze and stepped into Sarah’s guard.
+
+In response, Sarah’s instincts flared and as the middle-aged man took advantage of her startled dodge to step past the tip of her spear and she slammed it into his side.
+
+Or atleast, that was how she had intended the situation to unfold.
+
+Instead, the middle-aged man caught the shaft of the spear on his white stone shield, a muffled thump sounding out as Jin got to feel the recoil from her maneovre as the side of the spear harmlessly bounced off the shield’s surface.
+
+Jin’s eyes widened in panic as she tried to reel her spear back in, to try and reposition herself to defend or dissuade against the charge, but neither Jin nor Jack were aware that the white stone was something the middle-aged man could form out of thin air.
+
+Where he had been weaponless a moment earlier, Jack could only watch as a crude, single-edged shortsword with a curved edge was fabricated from the hilt up out of seemingly nothing but empty air, which meant that the middle-aged man could directly convert Qi into white stone like Marcus could convert his into fire.
+
+It wasn’t entirely unexpected, but given how the middle-aged man had been carrying the white stone around and how he had reforged a shield out of it’s remnants once Jack carved it in half, it was also plausible to believe that he needed to synthesize the stone out of sand or earth or other biological materials that were available nearby.
+
+Jack’s eyesight was keen enough to note how the middle-aged man paled a little after he finished synthesizing the stone, sweat beading his forehead as the process took a few seconds longer than it had for him to reforge the white stone shield, which had boasted a much larger surface area.
+
+Before Jin could finish reeling her shield back in, the middle-aged man had already fully breached her guard and a surprised cry escaped her lips as he slammed the shield into her left hand, causing her grip over her moonspear to loosen. He slammed it again and this time, her grip slackened entirely due to either the surprise or the pain, even through her Jade Guard Armor Set and the Moonspear in her hands was flung a little distance away from her.
+
+A sword was resting against the base of Jin’s neck, it’s curved tip pressing against her throat.
+
+Jack’s expression turned grim and it was the same self-control that he had cultivated across his lifetime that stopped him from sending a Qi Projection aiming for the middle-aged man’s head. With Jin’s back to him and the middle-aged man behind her, there was a narrow margin where he avoided taking off her scalp while also injuring or killing the middle-aged man without
+
+“Any sudden movements and she dies!” The middle-aged man bellowed out. “You there, if you try your fog on me, I promise you my blade will pierce her throat before you can get anywhere near me!”

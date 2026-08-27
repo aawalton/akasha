@@ -1,0 +1,129 @@
+---
+id: 864bcd7d-2170-5302-8f1c-ac2f78f3ca48
+page-type-slug: story-chapter-royal-road
+title: "v4 Interlude 1: The Wanderers"
+slug: 0040-v4-interlude-1-the-wanderers
+partOf: beware-of-chicken
+position: 40
+ownLength: 1850
+unit: words
+ownProgress: 1850
+publishedAt: 2023-08-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1299143/v4-interlude-1-the-wanderers"
+royalRoadId: "1299143"
+markedReadAt: "2026-06-29T18:52:43.123Z"
+---
+
+“And so our ancestors, in their hubris, marched upon the Sea of Snow. They sought to claim its treasures, and become rich in the process.” Chenzheng of the Roaming Deer Caravan narrated to his guests. They were all sitting before him in his yurt, like the children of his own people, and they were drinking his horse butter tea. It was a warm, cozy, intimate space, and each of the nomad families had one. His guests all had looks of interest on their faces as they listened to him.
+
+“They got far, far to the north, but in the end, their luck could not hold. They were stricken with illness, one and all in this very town. They thought it was the end, but salvation arrived. The good people of Verdant Hill nursed them back to health, saving the caravan. Ever since then, we have returned to the north, to Verdant Hill, with the goods of the south to sell.” He finished.
+
+It had been centuries since then, and coming this far north was a bit of a chore, but his people had their own kind of honour. They said they could come… so they would be there.
+
+That, and coming to Verdant Hill had been especially nice the past two decades.
+
+There would be no need for additional guards tonight, and the inn was already prepared to handle their numbers.
+
+Why, even the Lord Magistrate greeted them personally, and had offered them respect. It was a far cry from a lot of the southern towns he had been to in his life. They had been offered respect, so respect would be given in turn. The prices stayed affordable, and no tax was levied. Though that was mostly good business. They did not come to Verdant Hill for the money they made directly. The people of this small town, though kind and accommodating, didn’t have much coin themselves. Instead, the end of the road was where they got rid of a lot of their remaining stock, and purchased things for the long trip back south.
+
+The tribe of the north, the Nezin, would be coming soon with the bestof furs and hides. The people of the Gutter would bring their silver and gems. The town itself would provide provisions and even some quite nice silks.
+
+“So that's why you come this far north.” One of his guests spoke up, looking intrigued. Chenzheng smiled. He was a massive lad, built like a bear and probably able to wrestle one too. But despite his rough appearance, his green eyes had been utterly pure and genuinely interested when he had asked Chenzang for his tale. And considering how much the man had bought, well, there was no harm in having some tea. He had even warned Rou Jin—whose name had been extremely familiar for some reason—about the seeds he had been looking for.
+
+“They won’t grow this far north,” he had said, but the man had just smiled, and said he had a way with plants.
+
+Who was Chenzheng to disagree?
+
+“It must have been one of your ancestors, Meimei.” Another one of his guests spoke up. This one he did remember. Yao Meihua, who his own son had pined over for years. Somehow, the jewel of Verdant Hill had grown even more radiant. She was a stunning, jaw-dropping beauty, and his son had gone to drink as soon as he had seen her walking arm in arm with her husband, the son of the Zhuge Family, who had been good customers.
+
+The others were familiar, but five years away had muddied some of his memory. There was… Meimei, but he barely recognised the daughter of the healer Hong Xian. He remembered a short bag of bones that could only charitably be called a girl. He only recognised her because the freckles were the same, because this was certainly not the person he remembered.
+
+This… this was a woman. He idly wondered what she ate to have filled out so much, but he supposed five years was a long time. The little bag of bones had grown into a stunner, that was for certain. A man could get lost in those eyes… though he had the feeling that any man who stared a little too long could have a problem.
+
+“It would make sense.” the purple eyed woman mused, before she smirked, and her voice took on a teasing lit. “Does your oath mention any discounts, Honoured Elder?”
+
+“Yes. The tea is free, otherwise you’d have to pay for it.” Chenzheng riposted immediately.
+
+The rest of them roared with laughter, while Meimei stuck out her tongue.
+
+“They certainly honour their debts!” The last one chuckled. While he wasn’t as stocky as Jin, he was still a very well muscled man. Chenzheng had seen the lad heft up the edge of a caravan with one hand to move it so it was better aligned with the others. He looked solid, for a lack of a better word, and dependable, and was well groomed—his sideburns were especially sharp looking. He did look a bit like a monkey, but Chenzheng doubted anybody would say that to his face.
+
+“Seems like quite an exciting life. Thank you for sharing it with us.” Jin said.
+
+“It is the true way to live, in this old man’s opinion.” Chenzheng said. “The road is endless, and the sky is vast. But even this life has its lacking moments. I was a bit disheartened to see the Azure Jade Trading Company here. I didn’t think they came this far north.”
+
+At those words, Jin straightened up. “There's a problem with the Trading Company?” he asked.
+
+“They wanted us to follow their rules on trading, and where to trade. We said no.” Chenzheng stated simply. For one not of their people to tell them where to go? That was as close to sacrilege as a nomad could get. Even the Emperor said it was their right to travel, a right guaranteed to them when their forebears had aided the Phoenix Empire… or at least that was what the songs said. “The deer wanders where it pleases. While we haven't had any direct altercations with them… They’ve made it clear that they did not appreciate our blunt dismissal.”
+
+Jin frowned at his words, but said no more. The mood was suddenly a bit darker.
+
+“Forgive me for making the mood heavy. As payment, have another cup of tea—it's quite expensive normally.” he joked.
+
+That got a few chuckles.
+
+“You must have seen some amazing things during your journeys.” The well groomed young man asked. “Do you have any places you think somebody should visit?”
+
+Chenzheng nodded. “First, there is the Thousand Needles of Green Stone Forest! It's to the south west, nearer to the coast. Every day, when the tide comes in, it winds around the thousands of karsts, spires poking up from the sea! The coral and anemones are all the colours of the rainbow, and it looks like a curated garden…”
+
+He ended up speaking with his guests for a while longer. It was a most enjoyable afternoon. But still. Jin, Jin. Where had he heard that name before?”
+
+==============================
+
+It was nearing bed time when his son came into the yurt. He seemed a bit befuddled.
+
+“Father. One of the Azure Jade Trading Company’s men wishes to speak with you.” His son said.
+
+Chenzheng raised an eyebrow.
+
+“Do you know what he wants?”
+
+“He said ‘The Company politely requests to meet with Elder Chenzheng at his leisure, to rectify a misunderstanding.’”
+
+Chenzheng blinked.
+
+“He may come in.” He said, and his son went out to fetch his new guest.
+
+The man who walked in looked a bit nervous, but quickly bowed. “Elder Chenzheng, it has come to our attention that there may have been a misunderstanding between our Trading Company, and your people.”
+
+Chenzehng was taken aback by the deference. “When exactly did this come to your attention?”
+
+“Very recently.” the man replied. “The message was sent by transmission stone. I have been contacted by Guan Ping, Master of the Azure Jade Trading Company. He wishes to apologise for a miscommunication, our Company clearly had no intention of intruding upon your ancestral rights, and he wishes to meet with you at your leisure in order to conduct profitable business with the skilled nomads of the Wandering Deer.” Chenzheng stared blankly at the young man. What the hells had brought this on? Why suddenly out of the blue? “To show our sincerity, we, the Azure Jade Trading company, would like to extend to the Wandering Deer the right of lodging at our Depots. Simply show them this, and none will dare to turn you away.”
+
+Chenzheng took the proffered jade piece, feeling just as bewildered as his son.
+
+He was receiving a gift… but he was a bit suspicious.
+
+“Forgive this old man, but he will be blunt. Why?”
+
+The man paused, and swallowed. “You gained the ear of a very, very powerful friend today, Elder Chenzheng.”
+
+=====================================
+
+Chenzheng was still staring at the piece as the man left. A powerful friend? All he had done today was talk to Rou Jin and—
+
+He paused as he suddenly remembered why the name sounded familiar. Not Rou Jin. Jin Rou.
+
+Little Ai of the Rolling Stones had been screaming from the top of the caravans that she was going to marry him some day, and that she had his Grandfather’s blessings. That had been secondary to the fact that the lucky bastards had sold an entire Earth-Crushing Devil Serpent Head, but he wracked his memory for what she had said.
+
+The description matched near perfectly.
+
+But even though the description matched, that meant that Rou Jin was a cultivator. What kind of cultivator sat around in a nomad’s yurt, drake horse butter tea, and asked for stories from the lives of nomads?
+
+He asked around about that night, and to his surprise… most people said, in whispers, that the man was a cultivator. A cultivator who for some reason called the Lord Magistrate teacher, and paid him the highest forms of respect.
+
+Chenzheng was pretty sure this was the same person. Jin Rou and Rou Jin. The description matched… and he was certain it was Rou Jin who had talked to the Azure Jade Trading company on their behalf.
+
+He didn’t know why, but cultivators were supposed to be mercurial at the best of times. Had he simply liked Chenzheng’s story?
+
+Chenzheng didn’t understand… but he could bow in respect if he ever saw the man again. Rou Jin was a friend and benefactor of the nomads.
+
+And if Ai had been telling the truth… He might actually be related to them, if the girl got her way. He would have to tell Ai about the man when they met up with the Rolling Stones again.
+
+Though… it was probably good the man was a cultivator. Ai was a bit… well.
+
+Intense.
+
+He shuddered slightly as he remembered the blazing fires of determination burning in Ai’s eyes.
+
+Yes, intense was the word.

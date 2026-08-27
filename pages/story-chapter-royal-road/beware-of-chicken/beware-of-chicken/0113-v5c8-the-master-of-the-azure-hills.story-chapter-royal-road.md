@@ -1,0 +1,129 @@
+---
+id: 0f20cf98-cb1f-5928-a0af-7483fe21abbb
+page-type-slug: story-chapter-royal-road
+title: "v5c8: The Master of the Azure Hills"
+slug: 0113-v5c8-the-master-of-the-azure-hills
+partOf: beware-of-chicken
+position: 113
+ownLength: 1883
+unit: words
+ownProgress: 1883
+publishedAt: 2024-06-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1659185/v5c8-the-master-of-the-azure-hills"
+royalRoadId: "1659185"
+markedReadAt: "2026-06-29T18:55:22.510Z"
+---
+
+While it was nice to relax with everybody, there was at least some work to be done before we went to Hong Yaowu later today… as well as some messages and reports I had to take as “The strongest man in the Province” rather than just Jin.
+
+Normally a guy would probably take correspondence from the leader of a powerful clan in an office as they pondered the political ramifications over some fine wine or something.
+
+I took them in my barn as I performed my monthly cognitive tests on my normal animals. Afro, Pompom, and Fuzzy the sheep completely disregarded me trying to communicate with them. They were butting my hands, trying to get more food. They were treasured members of my farm, and their fleece was in a good portion of our clothes, but it didn’t look like I would be holding any new lessons. Still absolutely zero thoughts in these guys’ heads.
+
+“Of course I’ll make some time to go to Crystal Hill to have dinner with Master Gen, Huo Ten,” I said, answering the polite request from the monkey. “It’ll be good to visit again.”
+
+‘Thank ye kindly, Master Jin,’ the Monkey said, bowing. ‘Master Gen wants to thank everybody who helped us retrieve our past, and this is the least we can do to show our appreciation. Near fifty of my kin have awakened. It's  glorious… but we’re a right barrel of monkeys right now, with everyone discovering themselves.’
+
+I laughed at his joke, and Huo Ten chuckled from beside me when I got an idea. “Actually, I’ll remind him of my previous offer. If Master Gen or any of your people want to stop by, my door is open.”
+
+‘Oh, you’ll definitely get some visitors then, Master Jin. The  young’uns are adventurous!’ Huo Ten replied.
+
+It would certainly be fun having a bunch of sapient monkeys around.
+
+The thought was appealing. I could only hope the Cultivators of the Azure Hills thought similarly…
+
+“And Huo Ten? I know you’re all taking a massive risk, exposing yourselves to the humans of the Azure Hills. If anything bad happens…” I trailed off, looking directly at him.
+
+The monkeys of Crystal Hill had extended their hand in friendship to the people of the Azure Hills, and I was partially responsible for them deciding to break their cover.
+
+I wasn’t just gonna let them hang out to dry.
+
+Huo Ten’s smile faded slightly as the seriousness of my words resonated with him. Huo Ten clasped his hands in the gesture of respect before bowing slightly.
+
+‘On behalf of all of my kin… thank you, Master Jin. I can only hope that we will never need to make use of that kindness.’
+
+“I hope the same,” I said before giving the begging sheep one last handful of food and then turning to face the monkey fully. I clasped my own hands but didn’t bow, as was expected of a man in my position. “Thank you for the message, Huo Ten of Crystal Hill. You’ve served your Master well.”
+
+The monkey repeated my gesture, bowed again, and nodded at me before setting off to the house.
+
+I watched him go for a moment before turning to the other “messenger” for today. Xiulan was standing in front of my cows, Lonlon and Malon, and their calves. She was looking into their eyes and feeling for their Qi, as well as asking them questions in a soft voice. The cows obviously weren’t getting a word, just like the sheep, but they were extremely happy to receive scritches from the floating brooms and brushes Xiulan was levitating.
+
+“Yes, you’re a cute little girl, yes you are,” I heard Xiulan murmur as Lonlon leaned into her. Lonlon was pregnant again and would be giving birth this spring.
+
+“So, Grand Marshal of the Azure Hills, what message do you bear?” I asked in my most pompous voice. Xiulan snorted at my tone, before her voice became a bit more serious.
+
+“Ulagaan Baatar, Patriarch of the Grand Ravine Sect, humbly invites you to the Grand Ravine,” Xiulan said.
+
+“That's quite a big thing, isn’t it?” I asked after a moment, remembering the lessons the Lord Magistrate had given to me. The people of the Grand Ravine rarely tolerated outsiders. To receive an invitation from the Patriarch himself? Well, that just didn’t happen. “Did he give any indication what it is about?”
+
+“He said it was so the Grand Ravine Sect could better serve your will… and I do believe he is telling the truth. Out of everyone, they were the least surprised by what the crystals contained… and when we first met them at the Peaks, they were bearing a banner that said Tianlan upon it,” Xiulan replied. “Tarkhan—Guo Daxian the Younger, as you know him, also mentioned something about listening when the earth speaks.”
+
+I grimaced as I realised what Xiulan was implying. “They think I might be Tianlan, or Xiaoshi’s successor, don’t they?"
+
+“It's very likely,” my friend said as she leaned against the cow she had been scratching. “They gave no indication that they know Tianlan is an Earth Spirit, just that she was a good friend to their people and that she and Xiaoshi were the ones to swear brotherhood to them.”
+
+I chewed my lip for a moment. That was a can of worms I didn’t particularly want to deal with. And yet… the secret was out.
+
+“Will it make your job easier?” I asked her. Xiulan smiled softly at me.
+
+“I will not say, because I know what your answer will be if I indicate one way or the other. The Patriarch of the Grand Ravine Sect holds no hopes in his heart that you will agree to meet with him, and I told him the answer would likely be no.”
+
+“Jeez, can't make it easy on me, eh?” I asked her before I sighed.
+
+Did I want to meet with him? Not particularly. But the Grand Ravine was a powerful sect for the Azure Hills… and I should probably keep my finger on the pulse of things, just so I didn’t get blindsided later.
+
+Well, I guess it was time to put my political education from the Lord Magistrate to work, eh?“I’ll meet with him after Big D comes home, or at the end of summer, whichever comes first,” I said after a moment. “I’ll talk with the Lord Magistrate as well about it. Baatar will have his answer… if only to dissuade him from “serving me” in person. Best to cut things off before they build up too much curiosity and do something dumb, eh?”
+
+Xiulan bowed her head slightly.
+
+“Then the Grand Marshal shall convey Master Rou Jin’s profound words to the Grand Ravine Sect,” Xiulan intoned… with just as much pompousness as I had given her earlier. We both held our serious faces for a moment before smiling. Xiulan shook her head. “Now that that's  out of the way… Meiling was saying something about a bad smell?”
+
+I paused at the question, mulling it over. “We’re trying to find it, but it comes and it goes. We think it's some kind of flying creature, because we can never actually find the damn smell. Lu Ri even helped us once. I don’t know if it's trouble… but we want to be more safe than sorry, so whenever she says anything about it we try to find it.”
+
+Xiulan frowned, and for the first time the sleepy aura around her pulled back, revealing the Grand Marshal of the Azure Hills rather than my tired and stressed-out friend. An aura settled around her, powerful and regal.
+
+I swallowed slightly.
+
+“If it is anything that wishes to cause you trouble, we’ll make sure it doesn’t last long,” Xiulan promised. She held my gaze for a moment… before the aura faded. “Especially if it interrupts my sleep.”
+
+I snorted as Xiulan went right back to leaning on Lonlon, looking like she was about to drift off right there.
+
+“Well! That's hopefully enough serious stuff for today! Let's head out! Hong Yaowu, then Verdant Hill—where you guys can tell the Lord Magistrate all about the “Special Inspector” you guys met.”
+
+“If he is the Lord Magistrate’s son, he will surely be pleased that his son is such a righteous, upstanding gentleman,” Xiulan said optimistically. She set pace beside me as we walked back to the house.
+
+I, knowing my teacher a bit better… well. He was sure to be something.
+
+========================
+
+Soon enough, we were on the way to Hong Yaowu. Each time we made that journey it seemed like the time it took for us to get there was shorter and shorter.
+
+It used to take me about three or four hours of full speed running, and then another three or four hours to hit Verdant Hill. For a mortal, it would take a day and a half to get there, and then another two days to Verdant Hill.
+
+These days, it felt like it took an hour at most to get to Hong Yaowu. Thirty minutes if I really pushed it.
+
+As always, the kids noticed us first, cheering as Chun Ke rounded the bend. I saw near the forge Ty An as she raised her hand in a lazy greeting, the freckled girl covered in soot from stoking the forge.
+
+Both Bowu and Tigu waved enthusiastically back… and I saw Xianghua squint at Ty An, consideringly.
+
+I wondered if she knew about the betting pool going on around her and her brother. I shook my head and turned back to surveying the village. Pops had come out from his house to say hi along with Meiling’s little brother… and I turned my gaze to the two newest ‘members’ of Hong Yaowu.
+
+Su Yuanlin, one of the foxes from the Howling Fang Mountains and Gou Ren’s kind of cousin, was talking with Lu Ri, my Senior Brother from the Cloudy Sword Sect. She handed him a small pouch and Lu Ri looked slightly surprised before he nodded his thanks, then turned to greet us.
+
+Yuanlin had a big smile on her face.
+
+I idly wondered what that was about, but it wasn’t really any of my business. The fox woman was staying with Gou Ren’s parents and had been taking little trips around the countryside. She was waiting for the Nezin tribe to return to their overwinter campground, instead of trying to find the semi-nomadic tribe.
+
+“Senior Brother,” I greeted, as Lu Ri approached. “Are you well?”
+
+“Indeed I am,” Lu Ri stated, before he turned his attention to Xiulan and Tigu. “I see your disciples have returned, Junior Brother; and I also hear some interesting things about what you have done in Grass Sea City and at the Dueling Peaks.”
+
+He sounded quite approving as he inclined his head to the women. Tigu grinned, while Xiulan bowed, but there was a considering look on her face.
+
+“What brings you to the village today, Senior Brother? Checking the wards?” I asked, and the man nodded.
+
+“Indeed. I shall be making sure the wards are stabilizing correctly—I also bring news from Verdant Hill,” Lu Ri stated. “The Lord Magistrate is currently being audited.”
+
+I paused at the statement, a bit confused.
+
+“He's being audited?”

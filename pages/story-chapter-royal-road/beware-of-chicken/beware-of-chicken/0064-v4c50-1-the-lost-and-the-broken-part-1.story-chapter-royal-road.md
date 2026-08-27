@@ -1,0 +1,171 @@
+---
+id: 97152b43-9e9c-5af1-8f33-57b929b2be38
+page-type-slug: story-chapter-royal-road
+title: "v4c50.1: The Lost and the Broken Part 1"
+slug: 0064-v4c50-1-the-lost-and-the-broken-part-1
+partOf: beware-of-chicken
+position: 64
+ownLength: 2253
+unit: words
+ownProgress: 2253
+publishedAt: 2023-10-18
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1378605/v4c501-the-lost-and-the-broken-part-1"
+royalRoadId: "1378605"
+markedReadAt: "2026-06-29T18:53:35.382Z"
+---
+
+Xiulan’s heart was surprisingly calm as the fifty-seven Sects of the Azure Hills took their seats. Thousands of people looked towards her, all of them cultivators.
+
+The Elders and Sectmasters sat upon the thrones and those thrones lit up with bands of light. These days, most thought the colour indicated the element of their cultivation, and that was true… but it was supposed to display a person’s rank in the court of Xiaoshi. One line for a minor functionary. Two for a higher ranked functionary or a visiting guest. Three for military officers and Magistrates. Four for generals and leaders of people. And five for Xiaoshi and Tianlan.
+
+Most of the chairs lit up with lights denoting that the mountain considered them guests. Some like her own father, lit up with one, denoting a minor functionary.
+
+Only the Patriarch of the Grand Ravine Sect had his chair light with three lines, provoking murmuring.
+
+The dais Xiulan was on, the center of attention, shifted itself as more chairs were added. She couldn’t help but glance down warily at the chair as it pulsed and started to light up. She was a little worried that it would light up like it had for Jin. Tianlan was, after all, watching… and had nearly intervened during their confrontation with the Patriarch of the Grand Ravine Sect.
+
+When the Intent hit her, she had felt the muted outrage coming from her bond with Tianlan and the sensation of approaching power that would cast aside the might of the Grand Ravine Sect. Her eyelids and forehead had begun to tingle, and the beginnings of some form of… transformation began to take hold. It had been heady.
+
+She could accept the power of Tianlan and style herself as a queen, an empress reborn and ready to lead the hills anew. In some ways, it would have been easier to do it like that.
+
+But that was not Xiulan’s goal.
+
+Instead, she had brushed against the little link.
+
+‘Please. Trust me. Trust us. We can do this,’ she had whispered.
+
+The golden power had frozen in its tracks, before warmth and affection had touched her mind. The feeling of change had faded. The power had retreated… and they had withstood the power directed at them on their own two feet.
+
+The chair shuddered underneath Xiulan’s body, and three lines lit up.
+
+Xiulan released the breath she was holding and serenity returned to her heart. She glanced towards the rest of her companions, all of whom were sitting behind her. Xiulan could tell the Torrent Rider was nervous, but his mask hid most of the tells. Yin clapped him on the shoulder. The rest at least looked calm. Tigu had given the banner to Delun, and she had a large cloth covered tray in her hands.
+
+Once everyone was seated, Bai Huizhong stepped forwards.
+
+“On the Seventeenth Day in the Month of the Rooster, this servant of His Imperial Majesty, the Lord Director of Spiritual Ascension Affairs for the Province of the Azure Hills, Bai Huizhong, does formally declare this Conclave of the Sects to be opened.”
+
+Xiulan smiled slightly. The Month of the Rooster, how auspicious.
+
+“As this meeting concerns only the business of cultivators, the records shall be sealed, with only the Provincial Lord Magistrate and the Imperial Household able to access it, as codified by the Clear Sky Decree and the privileges afforded to the Sects by His Imperial Majesty,” the Lord Director continued.
+
+“We give thanks to the Emperor and the Ancestors,” the cultivators rumbled as one.
+
+“Who shall be the first to speak? Cai Xiulan has called this meeting, and yet the Grand Ravine Sect has also put their weight behind it,” Huizhong asked.
+
+“Cai Xiulan shall have the floor,” the Patriarch of the Grand Ravine Sect stated simply.
+
+“The first to speak shall be Cai Xiulan, of the Verdant Blade Sect,” the mortal said before stepping back.
+
+This was it. This was the moment she had been working towards.
+
+Xiulan stood. “This Cai Xiulan gives thanks to the esteemed Elders and her peers for assembling. It is no small thing to march to the peaks.” She bowed to the cultivators before her, her voice carrying so that it sounded like she was beside each and every person. They all eyed her, curious, but not yet incensed enough to start speaking out of turn… though Xiulan knew that probably wouldn’t last. Her father had said the first five minutes were the calmest, before somebody started interrupting.
+
+“I have two orders of business to discuss. I shall get the first and most important part out of the way first. A man who I consider my Senior Brother came across a cache of crystals. Memories containing records of every Sect’s Ancestral Techniques.”
+
+Xiulan modded to Tigu, who stood and stepped forwards. Moving with deliberate, fluid grace, she laid the tray on the table and pulled off the cover.
+
+Row upon row of crystals laid on the silk cloth, each of them carefully labeled for each Sect.
+
+It had been quite a bit of work to get all the crystals. They had started with six from Shen Yu—and then they had asked for five of them to be split into smaller crystals. Shen Yu had asked Biyu for a formation because he was “out of practise.” It had taken the woman 3 days to draw the formation.
+
+It had taken Shen Yu an hour of study, and then with a touch of his fingers, he had split all 5 crystals into four pieces.
+
+Three low-grade crystals they got from Mengde’s—and six from Master Gen when the monkey had thrown open his vaults as promised. Mengde had then used the transmission stone to put in an order from Yellow Rock Plateau, to arrive at Pale Moon Lake City.
+
+Two they got from Xiulan’s own sect, which only barely worked; four from the Misty Lake Sect, in an alcove Xianghua had discovered, and then one was brought from the Hermetic Iron Sect. Xinlai had delivered a promised crystal from the Grey Water Sect.
+
+Furthermore, they had…liberated four more from the salving nobles of grass Sea City. Most hadn’t even known what they were. One was using the crystal as a paperweight. One was a decoration in a vase; the rest had just been family heirlooms of some Ancestor, which showed their birthdays.
+
+Finally, twenty had been purchased from the shipment from Yellow Rock Plateau.The price was… exorbitant, but they were entitled to a percentage of the value of properties seized in the name of Grass Sea City. They had more than they needed but it was just in case one broke.
+
+There was silence for a brief moment, as the crystals were unveiled. And then the shouting started.
+
+“You lie!” the Sectmaster of the Azure Horizon Sect thundered, rising to his feet.
+
+“Impossible!”
+
+“This snake oil seller, she dares?!”
+
+“Silence.” Ulagan Baatar, Patriarch of the Grand Ravine Sect commanded, his Intent filling the Arena. The shouts and accusations seized in the throats of those who were speaking. He stared at Xiulan, his face impassive.
+
+“Tie Delan of the Hermetic Iron Sect stakes his honour—she speaks the truth.” The towering smith’s arms were folded, his voice implacable as he spoke into the resounding silence. “I have seen it.”
+
+“So too has the Misty Lake Sect,” Elder Bingwen agreed, stroking his chin.
+
+“My daughter vouches for the authenticity,” Elder Xinling said, her eyes cold as she stared hungrily at the crystal with her Sect’s symbol upon it.
+
+The entire arena had been reduced to mutterings.
+
+“I shall confirm this,” the Patriarch of the Grand Ravine Sect said after a moment, and then he stood. His steps were unhurried as he strode down the stairs, stopping before her.
+
+Xiulan motioned to the crystal marked with his Sect’s symbol, and the old Expert pressed his finger against it. All of them were a cut down history, omitting most of Tianlan’s story by her request, but even so, they contained revelations fit to shatter any Elder’s worldview.
+
+After a brief second he recoiled as if he was burned, his eyes going wide.
+
+“That is how you know the name,” the Patriarch murmured, his voice an inaudible whisper to all but her. Xiulan nodded her head slightly, and his shoulders firmed. “We will be having words later, Cai Xiulan,” he promised before he raised his voice once more.
+
+“She speaks the truth!”
+
+Once more, there was murmuring. Baatar’s hand tightened on the crystal for a moment, naked greed shining in his eyes. His gaze flicked down to the others, and Xiulan knew he wished to take the crystal and destroy the others.
+
+But the old man put it down and returned to his seat, his back stiff and his eyes forward.
+
+Everyone was silent until the man sat back down.
+
+“This is all well and good for the older Sects… but what is our purpose here?” the Elder of the Ash Fist Sect demanded. They had been created in the last thousand years and were not directly connected to any of the old ways.
+
+“Because all of your Techniques bear similarities to others found within these crystals,” Xiulan replied. “This implies at least some relation to the Honored Ancestors of the Azure Hills, if removed by several generations.”
+
+The newer Sects stiffened as they realised they, too, had much to gain from being here.
+
+“So… how much are you demanding, Cai? Shall you beggar us? Shall you take our lands? Shall we kowtow before you?” On Gang of the Rumbling Earth Sect demanded.
+
+His eyes, too, shone with undisguised greed. Xiulan was sure that, despite his words, he would gladly sell his own sons into slavery for the knowledge of his ancestors; to improve upon the Techniques of the Rumbling Earth Sect.
+
+She saw the same utter obsession in the eyes of all who looked at the crystals. Each and every cultivator there was already plotting to steal the crystals. The only reason a fight hadn’t broken out yet is that they worried that they might damage their crystal as they tried to take it.
+
+It was disgusting… and yet she felt it proved her decision right. A man cannot fall to temptation if there is nothing to tempt him with.
+
+“I do not ask for anything,” Xiulan replied, and On Gang scoffed as the other Sect Elders tensed. The mood of the room plummeted.
+
+“So you brought us out here to gloat!?” the man roared, standing. His Qi wrapped around him, and several other Sect representatives tensed as well.
+
+Xiulan breathed in and out, the murderous Intent pressing down on her. The emotions of her fellow cultivators were at the boiling point, and the entire meeting hung in the balance. Sweat beaded on foreheads. Swords were grasped in white knuckle grips, and Ulagan Baatar’s face turned to grim resolve.
+
+“You misunderstand my intentions, Elder Gang. I do not ask for any compensation because I am not requesting any. I am returning the Ancestors’ knowledge to its rightful place—into the hands of their descendants. That is why I requested your presence.”
+
+Her words were like a hammer-blow throughout the arena; the glares and curled lips were replaced by utterly dumbfounded expressions. Elder Gang looked like he had been hit over the head, his eyes bugging out comically.
+
+“You’re… you’re just… giving it to us?” he managed to get out.
+
+“Yes,” Xiulan stated simply.
+
+Absolute and utter silence greeted her.
+
+“Prove it,” the man demanded.
+
+Xiulan picked up his Sect’s crystal and walked over to On Gang. Holding it carefully in two hands, she bowed politely and handed it over.
+
+The man stared at the crystal like it might bite him. Then, hesitantly, he reached out and took it. His eyes went blank as he accessed the memories within. And then he too jerked as if scalded.
+
+He stared at her, looking utterly lost and confused.
+
+Xiulan started to turn away when the man broke out of his spell. “Wait,” he asked, and Xiulan turned back towards him.
+
+On Gang was known widely as a man who thought little of women. He considered them pretty things to warm his bed, and that was the extent of it. He was a wild brute, a hard drinking, hard fighting bastard who never apologized and never backed down. It was a miracle his own son was as polite as he was.
+
+She was expecting chastisement from him. Perhaps he too would call her stupid, for giving away such a powerful thing.
+
+Instead, On Gang clasped his shaking hands together and bowed. “You humble this On Gang, Cai Xiulan of the Verdant Blade Sect, with your virtue and righteous bearing.”
+
+Unable to hide the flicker of surprise in her eyes, she returned the bow with perfect formality.
+
+“Thank you for your words, Elder,” Xiulan replied before walking back towards her seat.
+
+Every eye was upon her. Nearly every eye was mad with a lust for something they had not known existed until she’d spoken… and yet there was something else in their eyes.
+
+Respect. The other cultivators nodded as she met their eyes.
+
+She had intended to distribute the crystals at the end of the Conclave… but she had a feeling that if she delayed, things would swiftly spiral out of control.
+
+So she nodded to her companions, and they too rose to distribute the crystals. Hopefully they could continue the main conversation topic today… but that might have to wait until tomorrow.

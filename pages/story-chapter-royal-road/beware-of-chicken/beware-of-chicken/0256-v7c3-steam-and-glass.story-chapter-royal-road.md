@@ -1,0 +1,227 @@
+---
+id: 75fdbb59-a5ea-59ac-89a8-725d75999be4
+page-type-slug: story-chapter-royal-road
+title: "v7c3: Steam and Glass"
+slug: 0256-v7c3-steam-and-glass
+partOf: beware-of-chicken
+position: 256
+ownLength: 2767
+unit: words
+ownProgress: 2767
+publishedAt: 2025-11-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2782763/v7c3-steam-and-glass"
+royalRoadId: "2782763"
+markedReadAt: "2026-06-29T19:00:11.090Z"
+---
+
+Liu Bowu didn’t know if he could get any happier. The wind was in his hair, and the Steam Furnace below him was rumbling with a steady burning heartbeat. Ty An was beside him as they worked on the engine together, making sure she ran smoothly.
+
+This week had truly been something special.
+
+He had gotten to see his Elder Sister, the most important person in the world to him, married to the man she loved. Her smile hadn’t been one of her fake masks. It had been smaller than her normal, boisterous grin—but it had been an involuntary thing, and all the more beautiful for it.
+
+Big Bro Gou Ren had looked equally content; he hadn’t been able to keep his eyes off Xianghua. Now, he was Bowu’s Big Brother in blood. Bowu had an entire family now, one worth the title. Mother Hu Li, Father Ten Ren, Big Bro Yun Ren, Big Sis Biyu—Auntie Mei and Jin included themselves as well.
+
+The party afterward had been amazing. Bowu, Tigu, and Ty An had snuck some drinks out with a gaggle of Nezin Tribe, Fox Tribe, and monkeys—people their age, and they had had a party of their own. It had been a grand old time, though it had ended in a bit of a fight when Ty An threw one of the fox girls in the river. He didn’t know why, the other girl had been nice, if a bit too forward and huggy for his tastes—she didn’t even seem to mind being hucked in the river and had come back calling Ty An “Elder Sister”, much to her consternation.
+
+But that fight had led to Ty An sitting in his lap the rest of the night, so that had been really great.
+
+And now, he had taken another step forward towards his dream.
+
+When Big Bro Jin had asked him to help out with the foxes from Howling Fang Mountains, Bowu had just assumed it would be with physical labour. He could finally help like that, so truthfully, he enjoyed it—lifting heavy objects and helping people out was still a novelty.
+
+But Liu Bowu thought too small, until Big Bro reminded him.
+
+He had a legacy to craft, and experiments to run.
+
+The Azure Express chugged mightily along the rails. They were honestly the biggest bottleneck of this entire operation. He needed so damn many of them, and if he wanted to use metal that would last it would take forever.
+
+But he didn’t need perfect right now, he needed proof of concept. So Big Bro and the rest had laid down some wooden rails, courtesy of all the trees that had been killed during the fighting during the solstice, and the Azure Express had chugged forth.
+
+From Hong Yaowu to where the foxes were building their new village; they were already calling it Smoky River. They needed lots of trips to carry everything, and would need to go back and forth for a while, so… why not see if their Iron Dragon could work?
+
+She was running well, huffing and puffing. She was born for this. He was born for this, the wind in his hair, the smell of the steam. They were an hour in, and it was going perfectly. If Bowu’s calculations were right, they would be there in another hour at most!
+
+“Hey, Bowu, this doesn’t sound right,” Ty An suddenly said, squinting at the main assembly.
+
+Bowu paused. It did indeed not sound quite right, did it—
+
+And then something shrieked and snapped.
+
+===================================
+
+Ten hours later, they were on the move again.
+
+Liu Bowu had bags under his eyes, grease smeared over his cheeks, and his limbs trembled with exhaustion.
+
+One of the pistons had… disassembled itself.
+
+It had been a bitch and a half to repair in the field—at least the passengers had been understanding.
+
+But now, Bowu could see the finish line. People were crowded around the end of the tracks, gaping and gawping and staring with awe as the mighty Iron Dragon started to slow.
+
+It was slower than getting one of the cultivators to pull it by a long shot. It rattled and rumbled and trundled along, and it barely cornered without derailing. The valve seals were showing massive wear issues already, and a completely triumphant journey it wasn’t. Halfway through they’d blown that piston and had to stop completely so Bowu could repair it, a seven hour ordeal. None of the cultivators had helped, outside laying the initial tracks. Everything else had been accomplished by Bowu, Ty An, and Uncle Che.
+
+Eleven hours to get there, with a blown piston and repair time. And yet, that was still fourteen hours faster than the fastest mortal on foot. At least twenty four to forty eight hours if they brought the wagonload of cargo and people that they had brought with them.
+
+And if next time, if the piston didn’t blow? Shit, they could get here in three hours or less!
+
+The steam furnace let out a low groan and a whining hiss, coming to a stop. Bowu turned to Ty An and gave a theatrical bow.
+
+“You do the honours, my lady,” he said formally and in his best courtly voice.
+
+“Why thank you, good sir,” Ty An, who was his chief assistant, replied, trying for the same. It didn’t quite work with her rural accent, but Bowu thought it was cute.
+
+Ty An grabbed both their favourite part of the steam locomotive and pulled it down. The whistle shouted, the sound of its voice high, but not harsh, signalling the end of the trip.
+
+There were cheers and sounds of amazement. Bowu basked in it, resting for a moment.
+
+The Azure Express gleamed, her red and blue scales a thing of glory.
+
+Then Xianghua and Gou Ren leapt from the back of the carriage, both of them racing up to him. Big Bro Jin wasn’t far behind.
+
+“A resounding success!” Xianghua roared, scooping him up into a hug that he knew better than to try and resist.
+
+Not that he wanted to. Miss Nezuhua was staring with wonder at the metal beast. The passengers poured out of the Azure Express, carrying with them building material, seeds for the farms, and glass. The foxes had brought seemingly everything with them, and they had a fair amount of money that they would be spending when they started to make true homes, rather than these temporary simple shelters for the population. Already Bowu could see a large central hall going up.
+
+His job, however, was done for the moment. His legs were shaky and he was exhausted. He sat beside the cooling, ticking form of the Azure Express, a soft smile on his face. He was alone for a moment.
+
+And then he was interrupted.
+
+“This is truly something amazing, Young Master,” a soft voice declared. There was only one person who called him that anymore.
+
+“Thank you, Elder Bingwen,” Bowu said, glancing at the Elder of the Sect out of the corner of his eye.
+
+He was one of the few who had been against Bowu’s exile and had been his sister’s ally, returning the Sect to her even after the man had usurped their father.
+
+He… was at least tolerable. Bowu hadn’t talked to him yet, other than a brief greeting at the beginning of the festivities, and Elder Bingwen had been unfailingly polite then as well.
+
+In fact, Bowu dared to say Elder Bingwen had actually just been enjoying himself. Eating Gold Grade Rice, drinking Spirit Wine, and rubbing shoulders with everyone who had come to the wedding.
+
+Elder Bingwen, Jin, and Wa Shi had even had an hour-long discussion on water and flow that had the man walking away with an expression of awe and enlightenment.
+
+And now the man was looking at Bowu, studying him with a practised eye. Then the man sighed.
+
+“Forgive me for interrupting your moment of triumph, Young Master, but this Elder must ask you a question that was put to him by the other Elders of the Sect. They wish to know if you will be returning to the Sect, as they want to reinstate you to your former position,” Bingwen stated.
+
+Bowu paused at the question. Perhaps, once upon a time, Bowu would have jumped at the chance. To truly be the Young Master. To have the Sect’s love, and their adoration.
+
+That time, however, was long past. It was gone in the whistle of steam, the ringing of metal, and the cheerful, teasing smile of a girl whose cheeks were covered in freckles.
+
+“No. I’ll keep making Steam Furnaces for the Sect if they ask for them, but I will not be returning to the sect unless my sister asks me to,” Bowu replied, his voice final.
+
+…it felt good to say that to Elder Bingwen. To say it to his face and firmly close that chapter of his life.
+
+Elder Bingwen just nodded. “I thought as much. It is a shame, but I don’t believe there could be any other outcome. We shall merely have to be content with the Young Master's benevolence. You know, we still haven't made furnaces that are as good as yours, even with all your notes.”
+
+Bowu chuckled. “They’re a bit finicky,” he said. “Gotta make sure the seals are just right.”
+
+“Indeed. I tried my hand at one once and it blew up in my face,” Elder Bingwen admitted freely. Bowu chuckled, actually enjoying his conversation with the man.
+
+They chatted about a few more inane things, Bowu sitting beside his once-Elder, until the conversation trailed off naturally. Then they heard his sister’s booming laughter.
+
+She was standing beside Gou Ren and gesturing animatedly.
+
+“The future of our Misty Lake Sect looks bright,” Elder Bingwen said, and Bowu detected no falsehood from him. There was no sarcasm; he looked to genuinely believe it. The man watched for a moment more, before he sighed and turned back to Bowu. “I, however, must depart. Thank you for the conversation, Young Master. And I pray the heavens continue to watch over you.”
+
+Bowu closed his eyes.
+
+“You as well, Elder Bingwen,” he replied… and he meant it, too.
+
+===================================
+
+The Azure Express ran six more times over the next week and a bit, and each time Bowu found some new problem to fix and a new way how his creation could break.
+
+It was exhilarating. It was frustrating. It was maddening.
+
+But once, just once, they got a perfect run. The Azure Express roared like something out of a dream. Her wheels spun without seizing. She rattled and shook and bumped like a bucking horse.
+
+But she held.
+
+Two hours. Two hours from Hong Yaowu to Smoky River.
+
+Today, there had been a pressure loss problem. It had only taken an hour to solve, thankfully, because he had some important passengers.
+
+Everyone from Fa Ram and Hong Yaowu were aboard, along with the Lord Magistrate, who would formally declare the land and village part of the commandery. They had him… and one very precious gift.
+
+===================================
+
+Miantiao rested, his body weary, and yet his mind still alert. He watched on as the Lord Magistrate spoke with the foxes from the Howling Fang Mountains, the Spirit Beast Lineage arrayed before him.
+
+They have familiar eyes, was all Miantiao could think as he beheld them. The eyes of people who knew loss. It weighed heavily on them, even now. Even when they had been told all would be well, they didn’t truly believe it.
+
+…Miantiao knew that feeling well. They were how he had felt, not long ago.
+
+“I can’t believe you got that done this fast,” Bowu gestured at the covered and padded box that Yin was hovering around. She was guarding it like it was the most precious thing in the world, the silly girl… but he still did appreciate it. To think he could still inspire such feelings with his work.
+
+‘It isss all thanksss to your, and my apprentice’s aid,’ Miantiao offered a smile to the young man. They were kindred spirits. Both of them crippled, and now whole thanks to the efforts of Lady Meiling. Bowu was a joy to be around, his passion and work astounding Miantiao at every turn.
+
+Yin puffed up with pride at the mention that she had helped him.   “It seems almost a shame to give it away though,” she said.
+
+‘I can think of no better reassson. I wasss going to give it away in the first place, but one item for two couplessss would have been rude.’ Miantiao had originally intended to give it as a wedding gift, before both sets of brothers got married on the same day. In all honesty the two couples were probably more enthused by his more mundane gifts. One always needed cups and storage.
+
+Yin accepted his reasoning, but still glanced at the box, and Miantiao noticed the desire in her eyes.
+
+She did not need to worry, he would be crafting more of them. But this first one…
+
+It felt… necessary, for it to be given as a gift, considering what it was. It was a statement of sorts.
+
+His Master had dreamed it up first, all those years ago. It had been the start of an idea. Something utterly unrefined, and yet it had captured Miantiao’s imagination.
+
+He had died before he could even start working on it. For years, it had been forgotten. Miantiao had thought himself unworthy of even thinking of what his Master had left behind.
+
+But time had a way of changing things. Time, and those who cared for you.
+
+…. in the end, Yin had convinced him to start again. To make art again. To honour his Master, and prove that Sun Ken had not won.
+
+The glass of Boli Xin had not been destroyed or forgotten, and the world would know its radiance.
+
+And though it would not be travelling far, it would still start the journey.
+
+However, his lack of dexterity meant that his Master’s last, and greatest idea was beyond his reach.
+
+Until now.
+
+Lady Meiling really was too good to him.
+
+The documents were soon signed, and Miantiao nodded to Yin, who picked up the box, and allowed Miantiao to slither up her arm.
+
+Others had gifts to give first. The foxes—and Miss Nezuhua especially—looked a bit bewildered by the generosity they were receiving.
+
+And then, it was their turn.
+
+‘This is a gift of friendsssship, to welcome you to your new home,’ Miantiao announced to Nezuhua and the crowd of foxes, as Yin opened the box, and reached in. ‘From Fa Ram, and Hong Yaowu.’
+
+She carefully extracted the covered vase within, placing it on the table, and then, with a proud flourish, she removed the covering.
+
+It truly was beautiful. The shocked gasps only punctuated the moment.
+
+Miantiao had been designing the piece ever since his mobility had been returned… and then had used his skills to the utmost.
+
+He had carefully, painstakingly bent incredibly thin copper into one hundred three thousand, four hundred twenty seven closed cells, each fitting together to form an entire scene along a vase that stood as tall as Bowu’s chest. Then, he had filled each tiny cell, many no bigger than grains of rice, with coloured powdered glass, mixed with a binding agent.
+
+Finally, it was fired. His dear Yin’s flames had been perfect, heating without making the glass become too liquid and run.
+
+Each cell was now a shining, sparkling jewel of perfect glass, formed so that if one ran their hands down the vase it would be completely smooth. It formed into a scene of nature. The trees had leaves of emerald, the grass and rice had heads of gold. Vibrant ruby koi swam through sapphire rivers.
+
+It was Fa Ram, writ small; there was even a rooster, standing tall and proud, his feathers shining.
+
+There was nothing truly special about it, no secret Qi that made it a treasure. It was simply art, made with all his rekindled passion.
+
+There was utter silence for a moment, as the crowd just stared, absorbed in the craftsmanship.
+
+“Thank you. We will cherish this treasure,” Miss Nezuhua whispered. She looked at him, truly looked at him, and saw him. Just as he saw her.
+
+‘May you too find the solace that has found me,’ Miantiao said.
+
+Things took time to heal. But Miantiao was certain… they would heal.
+
+=====================
+
+=====================
+
+Editors: Massgamer, BargleNawdleZouss,
+
+What Miantiao made was cloisonne, except with a completely realistic scene
+
+https://www.youtube.com/shorts/Q2NfBZlnoFs

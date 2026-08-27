@@ -1,0 +1,281 @@
+---
+id: c9aee01e-2802-58fc-ae6d-4b8d9627e192
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 47 - Seeing II"
+slug: 0052-book-4-chapter-47-seeing-ii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 52
+ownLength: 6612
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2989242/book-4-chapter-47-seeing-ii"
+royalRoadId: "2989242"
+---
+
+Ranthia had been tasked with searching half of an entire region of territory to—somehow—locate small groups of shimagu soldiers that were too few in number to leave prominent trails. Which presupposed that any such groups even existed—it wasn’t like they had a headcount of how many shimagu had been killed or fled in any given direction. Also, any remotely sane or coherent shimagu would have fled toward the west, where their remaining cities lurked!
+
+But the Coalition was concerned about shimagu regrouping for another attack from an unexpected direction or starting hit-and-run operations or whatever, so Ranthia was patrolling half the map. Which meant she was dancing across the rocky wasteland aimlessly wherever her whims took her while she remained distracted by her own thoughts—she had more than a few things weighing on her.
+
+With the war coming to its blood-soaked conclusion, complex morality problems were cropping up one after another. And she was a [Priestess]—apparently—one that had been granted the authority to carry Xaoc’s words, no less!—which meant that she really needed to be the voice of morality. Presumably!
+
+Gods and goddesses, she would have traded almost anything for an opportunity to take a nap. Her head was still killing her and trying to figure out which shimagu deserved death, when they should be granted an opportunity to atone, and what such atonement should look like was… a lot. And that was, in some ways, the least of the problems! How should the Coalition approach the surviving shimagu? Was there truly nothing that could be done to help the victims of the shimagu that broke under their abuse or withdrew from the world? [Mind Healers] could help with the former, but it seemed as though only the elves had discovered the need for such a profession—which left them in short supply.
+
+“Oh Xaoc, what am I supposed to do?” Ranthia finally released the question that she’d struggled to keep contained.
+
+He had no answer for her. She knew that He heard her—He always did—but no answer came. It was frustratingly fair; it was very much a worldly concern that didn’t demand His direct involvement…
+
+She still wished that He had a divine mandate that she could carry. Some grand solution that no one could ignore—a true path to a Miraculous era of peace and cooperation.
+
+But if things were that easy, there would never be any war in the first place. If the gods had such domain over the minds and hearts of those that walked Pallos, there would be peace and cooperation without borders or conflict. Their world would be one that was free of the greed and ambition of men and women that coveted that which others possessed. But, for better or worse, every sapient being had their own free will, which meant a precarious balance between morality and ego shaped their world.
+
+Ranthia took a deep breath and tried to clear her aching head. Her thoughts had snarled, and she was losing the threads of her actual quandaries. She needed to choose one question and focus on it, if she intended to make any headway. Something like…
+
+“Wait, where am I?” Ranthia stopped moving forward—though she still danced in place—while she looked around at the nearby rocks and mesas.
+
+For all that she liked to grouse that the wasteland looked the same everywhere she went, that wasn’t quite true. Sure, there were plenty of areas that were tricky, but much like the Reman forests she had grown up in, it was possible to learn how to navigate after sufficient exposure. And she knew the area she found herself in.
+
+She hadn’t realized that she’d drifted so close to Remera. She was still at the outer reaches of what would ordinarily be considered a long-distance patrol from the base, but she was close by her standards. Her indecision lasted barely a second, before she renewed her dance—bound for Remera.
+
+Checking with local scouts for any signs of shimagu activity in the area just made sense! It was a wonderful excuse.
+
+“Hail friend! Sentinel Grace, returning to Remera. What has you out and about?” Ranthia called out.
+
+It was more than a little unusual to see a solo dwarf in light armor, but it seemed as though he was leaving Remera, which… presumably meant he wasn’t infected. [Ranger – Gale] level 617, [Warrior – Light] level 553, [Laborer – Sound] level 444.
+
+“Ahm in a hurry!” The man ill-temperedly snapped his response while he zipped past her. He didn’t bother trying to detour around her, he just kept moving and passed within arm’s reach—at speeds well in excess of what she was capable of.
+
+That was more than a little unusual. He was a stranger and, as such, was presumably a [Messenger], rather than a scout. But she’d never met a dwarf that was so surly—hospitality was a major part of their culture, no matter which dwarven nation or city state they hailed from. Sure, no species was wholly monolithic and there was always the possibility that she’d caught him on a bad day or something, but… why would he want to be a [Messenger] if he was so readily willing to be rude?
+
+Still, it wasn’t weird enough to try and chase him down—also, there was the minor fact that she had no way to do so. Even if he was a shimagu, he was alone.
+
+A short time after her encounter with the dwarf, Ranthia reached Remera’s walls. She shouted her side of the greetings that she exchanged with those on the walls, shifted past the raised gates (it was basically habitual after so many years), and waited impatiently for an overly slow [Healer]—one that was far too low-leveled to pose a threat to any shimagu—to poke her. Despite the afternoon hour, Remera was still quiet, a reflection of just how few personnel were still stationed there.
+
+“Heard anything about shimagu activity in the area?” Ranthia asked the first familiar face that she saw.
+
+“Here? You’re kidding, right?” The legionary replied, narrowly stifling a yawn.
+
+“Yeah, that’s what I figured. We broke the shimagu army last night, but the powers that be are worried some of them might have fled this way. Figured I’d check with the scouts here to see if there’s been any activity.” Ranthia explained.
+
+“Wait, seriously, it’s done? By the gods… Oh, I think the morning scouting report should be in the base commander’s hands right about now!” The man had been on the cusp of running off, presumably to spread the news, before he caught himself.
+
+“I figured, but thanks.” Ranthia offered the man a wry grin while she traded salutes with him, then set off for…
+
+After taking a few moments to figure out what day it was, Ranthia set off for the day’s command tent.
+
+“Grace, what are you doing here?” The base commander looked up, pursing his lips as though he expected dire news.
+
+“Every known twin is dead, and their army is scattered. I’m here because I was asked to look into any signs of shimagu activity from the remnants.” Ranthia explained.
+
+“Thank Herculix; we needed some good news. When the dwarves all retreated to their tent after some message, it was hard not to wonder if they knew something I didn’t. As for your task: Octavius’ teams didn’t report anything unusual, but they should be around their usual area if you want to ask them in person.” The base commander allowed his shoulders to sag for a few seconds before he decided their conversation was likely finished and turned back to his scrollwork.
+
+Getting through Remera was a bit tedious. Almost every man and woman that she tried to pass seemed to want to stop her and ask why she was there and Ranthia took to claiming “things are going well, but I’m in a hurry,” just to save time. There wasn’t a single dwarf anywhere in Remera, which was strange enough that she swung by her home to retrieve the Ilan bread, some salt, and a small keg of spiced pear cider—gifts to bribe her way into the dwarves’ oversized meeting tent.
+
+Not that she needed to bother. There was no guard outside their tent, but even with their enchantments she could hear the sounds of a fiery argument underway.
+
+“We haf ta annihilate each and every last one ‘f those slimy sons of orcs!”
+
+“Bugger that, ye really t’ink one of ‘em went ahl the way t’Khazad?! It’s the orcs returned; ah’ll bet ye anything!”
+
+“We should be out there showin’ them our fury!”
+
+“And abandon our charge and our honor?!”
+
+From the instant Ranthia opened the tent—wholly ignored by its occupants—she found herself looking at red-faced, seething dwarves that were wholly preoccupied with screaming at each other. At the table in the back of the hall—a place that was usually filled with laughter, merriment, and boasting—the [Battlemaster], the shrubbery-looking [Healer], and a few other respected dwarves sat while they watched the madness.
+
+It felt as though things would come to blows at any moment.
+
+“It’s done! Every last twin is dead, the shimagu army is shattered, and the Coalition’s hunting down its remnants!” Ranthia shouted.
+
+Ordinarily, she wouldn’t have stood a chance at being heard, but the [Battlemaster] (or some other Sound classer that was present) amplified her words until they drowned out even the roar of furious dwarves. In the aftermath, the oversized tent was utterly silent, and every last pair of eyes were fixed on her.
+
+“Good t’ see ya lass. My thanks for bringing word.”
+
+The [Healer] that aspired to live as a shrubbery had already been old—even by dwarven standards—the day she met him, and the eighty-two years since had taken an obvious toll on the man. Incidents aside, dwarves had a far greater lifespan than humans—two hundred fifty-six was practically the prime of their life—but the [Healer] should have retired many, many years ago. Every wisp of (abundant) hair on his body was pale and silvery and what little leathery skin was on display looked as though it was stretched over what little was left of the man.
+
+Yet his advanced age still felt like an illusion, one that was shattered every time he spoke or moved. Beneath that withering skin, the elderly dwarf’s muscles still bulged and surged with every move he made. And if he chose to shout, the volume he was capable of could easily rival any Sound classer she had ever met. The man was ancient, yes, but he was far from decrepit—he just had to choose when and how to expend his waning energy.
+
+“What has everyone so riled up? The commander already confirmed there was no shimagu activity in the area, and I know none of you would keep something like that to yourselves.” Ranthia aired her question while she dodged through the tightly packed crowds as she approached the table.
+
+The acknowledgement from the [Healer] was an invitation—likely prompted by the obvious bribes that she was carrying. The uncanny silence in the cavernous tent held until she arrived at the table, bowed (a feat of dexterity with her arms full), and presented the items one-by-one. The keg of cider was offered to the table as a whole, but the Ilan bread and the bowl of salt were offered to the elderly dwarf that had once saved her from Black Crow’s talons.
+
+The [Healer] perked up when he unwrapped the bread and took a massive bite from one of the two loaves—before noticing the side-eye his peers were giving him, at which point he made a show of dipping the fruity bread into the little bowl of salt.
+
+“We respect ye, human, but ‘tis a matter for us dwarves.” The man that spoke was one of the more experienced [Warriors] and he was often seen protecting the [Healers] that served Remera. His words were offered without malice, in a kindly tone.
+
+But Ranthia wasn’t the one that took offense to them.
+
+“Bah, don’t ye even start! ‘Tis not a dwarven matter, ‘tis a personal matter and I chose to share it with ye. And it’ll be me that’ll share it with tha lass too! Dwarven matter my ass.” The shrubbery [Healer] grumbled to himself and deftly flung half the salt in the bowl at a man two seats away from him—without getting a single speck on the [Battlemaster] that sat between them—before he turned his gaze back to Ranthia.
+
+Ranthia nodded and waited to hear what he had to say. A dwarf in her sandals might have offered some flowery words about being honored to hear about whatever the matter was, but—as hard as it was to believe—Ranthia wasn’t a dwarf. She had often found that the best way to interact with other cultures wasn’t to make a poor impersonation of their mannerisms, it was to offer respect in her own way. If they wanted her to conform to certain customs, someone would inevitably mention it—like how she learned to offer bread and salt to dwarven [Healers] that she met with.
+
+“We jus’ received a message. Our King Under the Mountain—as some o’ this lot liked to refer to my kin—has been killed, alleg’ly by the shimagu just twelve nights ago. An’ the men and w’men ‘e surrounded ‘imself with decided to keep it a secret until this war of ours is done! They claim they’re making sure no one does ‘anything foolish’ while the war concludes, but ah don’t trust ‘em! Tha lad was me kin ‘n they waited this long to even tell me! Ta heck with te shimagu, I have half a mind to take me nail and go remind them what respect means!” The walking white shrub roared, his voice echoing through the open space they were in.
+
+The [Healer]’s emotional state seemed to shift every few seconds, but that wasn’t entirely surprising—he was like that even when he wasn’t processing upsetting news. Ranthia bowed her head in sympathy. She hadn’t actually known her favorite shrubbery was related to the man, but she’d already known about the—
+
+Wait.
+
+“…They seriously aren’t telling anyone? Not even the heads of the Coalition?” Ranthia tried to keep her voice low, but the background chatter was amping back up again as the crowd’s outrage rekindled.
+
+“Aye, ‘tis very atypical of dwarves,” the implied insult against some other species went unsaid. “But those gits decided to go ‘ith total secrecy. The heads ‘o the war are exactly who they didn’t want to learn ‘bout it. Took ‘em this long to even decide they ‘ad to tell us that were kin to the lad.” The elderly [Healer] confirmed immediately.
+
+“…And how do they know it was the shimagu?” It was a struggle to keep her growing panic off her face and out of her voice. Thank Xaoc for her blindfold—she wasn’t confident that her eyes were as steady as she needed them to be.
+
+“Pah, like I’d know! All they said is they ‘believe’ it was tha shimagu.” The elderly man’s patience was plainly running thin, but…
+
+“Apologies, but you’re sure there were no details or anything? Because…” Ranthia hesitated, but she chose to lie. “I heard something about him taking ill while I was at Spearpoint.”
+
+“Feh, that’s the kinda fookin’ shit ye always hear ‘bout anyone that gets a wee bit famous.” The [Battlemaster] interjected, transparently eyeing the keg Ranthia had almost entirely forgotten about.
+
+“Aye, they’re even slowly releasin’ things the lad wrote ‘fore he was killed. We don’t do sneaky, stupid shit like this—we ain’t orcs!” The [Healer] snarled, before he slammed a sheet of paper on the table—the message he had received.
+
+Ranthia took that as tacit permission and read while the [Healer] went back to rapidly consuming the Ilan bread—just as the [Battlemaster] decided to set manners aside and reached for the keg. Ranthia just leaned out of her way and focused on consuming every word within the message. Every dwarf she had ever met wrote in familiar Creation—sure, there were a few stylistic differences between their writings and those Remus used, but the difference was far less impactful than their thick accents would suggest. It was still very much the same language that Ranthia grew up with.
+
+And the [Healer]’s summary of the message was correct! Night had given her details that weren’t in the message—details that the message implied no one should know. Even if there was another kinsman to the fallen would-be king in spearpoint…
+
+Ranthia took a deep breath, then bowed in front of the elderly [Healer].
+
+“Thank you for sharing your tragedy with me, old friend. As I stated, the war is all but done and every known twin has been destroyed. I have no idea what peace that gives you, but I hope that—at the very least—it helps ease the burden that you face moving forward. I need to return to my hunt for any shimagu that might have escaped into this region, so may the ancestors watch over you and your peers in my absence.” Ranthia chose to retreat into stiff formality to hide her fear.
+
+“I ain’t that old!” The dwarf grumbled, though he grinned and waved her off.
+
+“You’re a credit to your generation.” Ranthia’s own grin had more teeth than she intended, but if she failed to engage with such obvious bait he’d know something was wrong.
+
+“Bah!” The shrubbery bristled with feigned discontent for almost two seconds before he fell prey to his growing laughter.
+
+Ranthia bowed one last time, before she left the tent at speeds just barely within the realm of politeness. Once she was clear of that tent, she blurred back to her own home—the bowl and cloth that she’d meant to bring back with her wholly forgotten. Inside, she checked Avyna’s security enchantments as best she could to give herself peace of mind that she was truly alone.
+
+She was.
+
+She took a deep breath. …And unleashed a torrent of profanity that may or may not have escalated into a far greater volume than she had intended.
+
+Why—no, how was the far more important question—did Night know about the death of the King Under the Mountain at least seven or eight days before anyone outside of the man’s estate learned about it?! Spies were the obvious answer, but even such an extreme breach of the trust that close-knit allies should have shared was the least terrifying possibility.
+
+Ranthia raced into her bedroom and yanked her personal storage trunk open with enough force that the hinges creaked. She plunged both hands into the contents and shoved and shuffled things until she finally found what she was looking for—a set of instructions that Avyna had left her. This was too important of a matter for her to trust her own memory. Rather, her unaided memory.
+
+[Chest of Experience] was the solution, especially since she finally had Skill slots available. Avyna had taught her the visualization exercises necessary to get the Skill offered—they had even confirmed it worked, since she didn’t need to take the Skill to get it offered. After that, Avyna had written them down, and Ranthia thumbed through the instructions as she tried to rush through the visualization.
+
+A chest of drawers—a massive piece of furniture containing countless little drawers that could be pulled open. Ranthia just needed to picture it and imagine herself opening drawers and finding a sheet of paper within that contained the memory that she wished to recall—and recall said memory the moment that she found it. Then she needed to visualize putting the memory into the drawer, in the form of that paper. The exercise was easiest with core memories that she could vividly recall, but it was hard to keep her exhausted mind from wandering back to the true matter at hand.
+
+Because if they didn’t learn about the King Under the Mountain—a man who had yet to even seize power and merely had the popularity and potential to do so—through spies…
+
+Well, the next least terrifying possibility was that Remus had the man killed. Ranthia had long assumed that—per Night’s details—identical kills had been carried out by a group that operated under the emperor’s command.
+
+[*ding!* You have unlocked the General Skill [Chest of Experience]!]
+
+[Chest of Experience]: Store, sort, preserve, and access memories. Increased clarity for old memories with level. -64 Mana Regen Rate.
+
+That was one of the most straightforward Skill descriptions she had ever seen, but it was just the base Skill—Avyna’s had a large number of other Skills merged in. That said, once she activated the Skill… Well, it was hard not to feel disappointed in the result.
+
+Ranthia found herself metaphorically standing in front of an expansive chest of drawers with no idea where to even look. She’d assumed she could just open any random drawer and find what she needed, but instead she found herself perusing memories from a romantic evening with Hexara—bittersweet and not at all what she needed. Another drawer held her encounter with the wyvernflies from her Ranger days; a vivid recall of Green’s power as she split the ranks of the foreign monsters and the awe that Ranthia had felt at the woman’s prowess. Her third attempt was closer; the entire drawer contained memories of her Skill exchange with Avyna—including her beloved’s annoyed reaction when Ranthia inadvertently omitted her [Priestess of Xaoc] Skill.
+
+If there was a discernable explanation for where and how her memories were accessed through the Skill, Ranthia couldn’t figure it out! Some drawers housed days of memories, other times a single event spanned multiple drawers. Things weren’t quite chronological, but when Ranthia finally found memories of her encounter with the dwarves she had just lived through, she was able to work her way backwards with only a few false starts.
+
+Going through her memories was strangely off-putting too. For all she hated having to keep her eyes screwed shut to manage [Divine Eyes in the Void], the Skill’s absence in her memories was profoundly obvious. Touching a memory immersed her within it and reacquainted her with senses that no longer matched those she was used to—especially in her older memories. [Vision of the Void] had changed her senses almost as much as her vitality had. …And yes, even with that she still felt significant temptation to waste time that she didn’t have reliving the memories of the time she shared with her fathers—just like Avyna had warned her.
+
+But, at last, Ranthia found the memory that she needed to peruse. When she touched it, she found herself returned to the meeting room in Spearpoint—at least within her own mind. The memory was fresh and clear of the ‘fuzziness’ that had affected some of the older memories she had seen. She could remember the feel of the chair, the scent of oil and sweat that permeated the meticulously clean room, and the sounds of her peers. Much of it had been muted and dim, though when Night spoke, things clarified rapidly as her attention from back then refocused on the moment.
+
+“As a final note before we end today’s meeting, I wish to urge you all to take care when interacting with our dwarven allies. The one that some among them were calling the King Under the Mountain was killed four nights ago. There are undoubtedly individuals within their ranks that will be in an atypically sensitive state, and I will not tolerate any attempts to antagonize them. Be respectful and remember that their ways are different from our own.”
+
+Even with the playback slowed down, Night’s words came across as dry and unengaged. Everything about his tone and expression suggested that the words were inconsequential—a reminder to avoid doing something that none of them should have done in the first place.
+
+Ranthia’s own interjection—a demand to know what had happened—came as several in the room prepared to rise. Everyone else had expected to be dismissed. But Ranthia kept her focus on Night. He had been surprised by her question. It was brief, but it was reflected only in the brief pause he offered. His eyes never widened, the muscles that governed his lips neither tightened nor relaxed. He had been caught off-guard by her query, but he didn’t show a single physical trace of that.
+
+There was just a pause. And even by their standards, it was brief. Too brief to denote an attempt to recall or compose things not already known.
+
+“The kill was identical to others that have affected us in the past.” Night’s answer was delivered with eye contact, and but for the fact that it contained information that he shouldn’t have known, it was unremarkable. There was no uncertainty, there was no narrowing of the eyes or unease.
+
+Ranthia rolled the memory back and went through it again, focusing on each of her fellow Sentinels. Solace and Pierce had been surprised by the news, though Solace was plainly focused on Ranthia and didn’t seem to be fazed by her surprise. Pierce’s unguarded eyes practically radiated sympathy.
+
+Grey was inscrutable throughout the memory—though she was a bit unclear in general. Undoubtedly, it was a side-effect of where she sat; she had only been in the outer periphery of Ranthia’s range of vision and Ranthia had seldom had any cause to look in the uninteresting woman’s direction.
+
+Gravity seemed disinterested. If anything, she seemed to be a bit annoyed at the interruption—as though she had some place to be. That was hardly damning; few people had nothing better to do than to sit through a meeting. Beast was similar, though his apathy seemed to stem from boredom.
+
+Sage was more interesting. The man had been entirely unfazed by the news. There was no surprise or disinterest apparent in his posture or his eyes. Had he already known?
+
+Ranthia nearly wrote Silence off as having no visible reaction, but there, when Night paused—the corner of his lip moved just the tiniest bit. It was a somewhat terrible assumption, but Ranthia’s first thought was that it was a repressed sign of amusement. In reality, she knew that she was jumping to conclusions—it could have been anything.
+
+Ranthia watched Night repeat “The kill was identical to others that have affected us in the past” a few times. The words themselves were a bit odd. Night never named it an assassination, nor had he framed it as an act taken by the shimagu. It was a safe phrasing. And that felt out of place. It wasn’t like Ranthia knew Night well, but he had never shied away from conjecture… unless he wanted her to form her own opinion or theory. And even if it was the same as the other murders, his fondness for overexplaining meant that he should have included details about what an ‘identical’ kill meant.
+
+It was the flimsiest ‘evidence’ imaginable—if not for her personal distrust of the man, even after he had saved her life more than once, she might have never entertained it.
+
+But there was one more thing—a thought that had lurked in the back of her mind since she met her fellow ‘War’ Sentinels at that very same meeting.
+
+Why was Sentinel Silence one of them?
+
+Back when she visited Remus after being named a Sentinel—to shield her from Legion political maneuvering—Sentinel Swarm had explained how their order worked. Each of them had a specific ‘seat’ that was based on their true specialty. And each seat was claimed by a single Sentinel.
+
+Hunting had been named after his seat; he hunted monsters that lurked in the wilderness. Swarm inherited the seat from his predecessor, the seat that managed criminal elements—though Ranthia suspected spying to be closer to the true purpose of it. Ranthia had inherited the seat of the duelist.
+
+Going off of public information, it was a seat that Night should have held. By outward appearances, he mirrored her closely—they both wielded knives and relied on speed and lethality to overwhelm opponents. But Ranthia had never doubted his true seat: Night was a knife in the dark.
+
+She knew, because she had planned to walk the same path, back before she was inspired to dance. Each movement he made was measured and efficient. It was all too easy to imagine the man moving between dark hiding places at the dead of night as he infiltrated locations that should have been secure. And with his might, his Dark-enveloped knives were likely just as deadly as her Void-kissed weapons. He had even noted that the shape of her knives—designed for active combat against an opponent that was fighting back—weren’t suited to his style. She favored a round grip, so she could roll her knives to redirect force.
+
+Night’s knives weren’t meant to be rolled; he presumably wanted absolute precision.
+
+But if Night was a knife in the dark, why was Silence among them? Okay, yes, Ranthia was entirely ignoring the possibility that the system of seats that she knew had been set aside as part of the necessity of war—there were more Sentinels than ever. But every other War Sentinel that she met had a unique role. Pierce could stand before an army and win, Gravity fought in and from the skies, Sage wielded large-scale magic, Solace was a [Healer], Grey had her whole fortification thing, and Beast was presumably a hunter (assuming monster taming wasn’t its own seat).
+
+Night was fast, but he wasn’t a dedicated speedster like Nose—er, Scorch—had been. And Ranthia somehow doubted that his seat changed throughout… however long he’d been a Sentinel.
+
+Ranthia set the memory back into place and started pulling drawers open rapidly, touching memories within each. Her performance at Fausteo’s, an exceedingly unclear glimpse of her battle against the kraken, Tatius’ proud smile (…she couldn’t linger), some tavern brawl or another, sitting back-to-back with Tertia while they quietly laughed together during a night watch, one of the earlier clashes with the troll twin while he toyed with her, Avyna’s exquisite body (…she still couldn’t linger), and then finally she found a patrol that took place around the time she sought. From there, it took only several long moments for her to find the memory she sought—though she was forced to rush past Glorine and Gailla’s departure, that was still too hard to relive.
+
+Thank Xaoc, Ranthia had actually read the scroll she was handed back then. It wasn’t entirely clear in her memory, but she was able to reread the salient details. General Durmis Caeso Dominus had been touring Launchpoint 12—Argastus—and claimed the base commander’s tent while he stayed the night. The base’s leadership swore that their personnel were on full alert throughout the night, yet the next morning the general was found dead.
+
+His body was desiccated and withered. Per the assessment of some [Healer] that Ranthia had apparently glanced past the credentials of, there were no visible injuries, yet there wasn’t any blood found within the corpse. According to [Analysts] that had reviewed the [Healer]’s unabridged report, the assassination was the work of an Erosion, Water, or Ocean classer.
+
+But General whatever-his-name-was hadn’t been the only victim by any stretch of the imagination. Remera’s command staff had been afraid of an unidentified shimagu twin, yet even with another death coming days before their push to bring an end to the shimagu threat, Night never cautioned them about the presence of a peerless assassin amongst the shimagu. The first kill of its type was made before Ranthia had even become a War Ranger. And there were no recorded twins that had fought since the war began—each of the five that had served as the final obstacle had emerged during the conflict.
+
+Yet there was, undeniably, a killer. One with the ability to drain the very thing that vampires used as sustenance.
+
+Smoke and mirrors. That was almost the creed of how the Sentinels operated.
+
+And what could be better to mask your status as an assassin—one that struck down problems from within—than to have a known assassin sitting next to you? An assassin that presumably couldn’t have been responsible, for whatever reason.
+
+[*ding!* [Fast Learner] has reached level 701!]
+
+As intoxicating as it was to believe that the System was agreeing with her assessment, she knew better. Her Skill was rewarding her for following through her own chain of logic, and it would even if she was wrong at every single step. ‘Correct’ and ‘true’ were meaningless concepts to the System—she believed that her concerns were highly important, she had created a viable explanation to support them, and thus she was rewarded.
+
+But there had to be a thousand twenty-four alternative explanations. She had no proof, and each piece of conjecture was formed from a pile of suppositions. Gods and goddesses, even if Night truly did murder the best hope the dwarves had for unity, it wasn’t like she’d ever met the man. No dwarf that she’d ever met had spoken ill of the would-be King Under the Mountain, but power had a way of corrupting even those with noble ideals.
+
+And yet… Of everything, it was the timing that bothered her more than anything else. Remus’ armies had expanded and leveled aggressively through the war—and the war was about to end. The last time that had happened, Remus became an empire and those that commanded the Legions sat at the top—though only one became emperor. And if the dwarves failed to unite, Khazad would remain weak.
+
+“I won’t do it. If that’s where this is going… I won’t point my knives at a single dwarf—no matter what.” Ranthia subvocalized her promise.
+
+In the aftermath of the rise of the empire, hundreds—likely thousands—of people had rallied against the quiet surrender of the republic that they had been born into. People had been scared and angry, which allowed charismatic people with the worst possible intentions to lead them astray—all so a few twisted idiots could experience the debauchery that was power over life and death. But that had always been the work of a few people; the masses had only wanted the power to stop what they perceived as a greater injustice.
+
+She had never imagined that she might find herself wanting to become one of those masses.
+
+It wasn’t like she was a stranger to death. She didn’t even know how many sapient lives she had taken throughout her years. The System could tell her, but she had no interest in the number. Her kill count wasn’t something to brag about, nor was it a source of guilt. She had chosen the knife because Adventuring spoke to her in a way no other path ever had. But she wanted to help people, which was part of why she’d let Hexara talk her into joining the Rangers. Each and every time she culled a life, she did it because she believed it was necessary.
+
+There were undoubtedly dwarves that deserved the knife, but she flatly refused to ever turn her blades on the innocent—or, worse, on friends that had done nothing to deserve her fury.
+
+It was a what-if scenario; she had no way to know for sure if that was what was to come. …No, even that was a lie—she had one way.
+
+All she had to do was to ask one of the few people that truly scared her for the truth. She just had to risk becoming Night’s enemy.
+
+And even if her theory was true… would he even tell her, or would he offer her a soothing lie before he visited her while she slept?
+
+Ranthia looked around her home as she became increasingly convinced that she might never return to the place that she had shared with Avyna for most of eighty years. She found herself drawn to one thing that she had to bring with her—no matter what happened. Within the cabinet that contained her remaining sausages was a false back: the place where Avyna’s small safe box was stored. The enchanted plate that Ranthia could use to open it was hidden amongst the enchantments for their shower.
+
+Within the metal box was the contract that had defined Ranthia and Avyna’s relationship, the doll that Pupius had never given her, Tatius’ bone necklace, Pupius’ tooth, a pair of simple gold rings that she had once hoped to use to wed Hexara, and the tattered remnants of that dark blue blindfold that Hunting had gifted to her—the one that saw her through the darkest days she had ever known. And Ranthia blinked when she found an unexpected piece of paper beneath the expected treasures.
+
+<Our contract no longer binds you, but I am certain that you will consult it again sooner or later. I hope that it brings you some comfort or happiness, my love. I truly cherished the years that it gave us, and I shall always hope that we will find a way to meet again.>
+
+Ranthia stared at the note, unmistakably written in Avyna’s hand. Every word that they had ever exchanged—and every other note that Ranthia had found—spoke of their reunion as something that was both ‘near’ (by elven standards) and inevitable.
+
+And after every bit of anticipation, fear, agony, elation, hope, worry, and dread that Ranthia had experienced over the past two days, she discovered a single message—one that she presumably wasn’t expected to find quite so soon—that suggested their plans might not work out.
+
+It was too much.
+
+Numbly, Ranthia refocused on packing. Mage-rock and its inert inscribed tile were reverently added to the safe box. Next, she added the guide for encoding and decoding messages exchanged with her [Mind Healer]. There wasn’t much space left within the box, but she was able to fit one of her favorite books from among those that Avyna had gifted her over the years (there were so many candidates, yet she could only take one).
+
+Truly, there was so much that Ranthia wished she could take from their home—few items held no memory or value. But with the safe box full, her options were limited—the metal box required almost all the space she had. And if she emptied her home noticeably, her options would be narrowed.
+
+She was burning with a desperate need to see Avyna again—soon. And she was terrified about what Night and the emperor (…was the man even still alive?) could be planning. She felt as if she was being torn in every direction and she could only pray that every fear somehow proved to be over nothing. But too much was going wrong for her to take any chances.
+
+And she refused to leave the safe box—and everything that it contained—behind, no matter what happened. She’d have to drop her pack if she needed to shift—she couldn’t risk disrupting its enchantments—but that was basically habitual. In the end, she packed the safe box, a few small items that no one left in Remera knew she possessed, and four waterskins.
+
+By the time she left her tent, the sun was low in the sky. She would have to hurry to get back to Spearpoint—it would be best if everyone believed that she had spent her day fruitlessly hunting shimagu groups as she was assigned. Until she had her answers, she had to hope that no one found out that she had visited Remera.
+
+She had no idea what was going on with Avyna anymore—she would have described her uncertainty as ‘fear’ if she wasn’t already terrified that she was rushing headlong into her own demise.
+
+Night had always scared her… and for the first time since the day they met, she found herself unconvinced that they were on the same side.

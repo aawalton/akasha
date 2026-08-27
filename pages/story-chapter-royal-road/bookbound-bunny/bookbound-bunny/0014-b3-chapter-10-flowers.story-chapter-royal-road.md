@@ -1,0 +1,261 @@
+---
+id: 5064abf1-3c0b-56f2-a8a7-13a45ab4bfdf
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 10 - Flowers"
+slug: 0014-b3-chapter-10-flowers
+partOf: bookbound-bunny
+position: 14
+ownLength: 2680
+unit: words
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3086542/b3-chapter-10-flowers"
+royalRoadId: "3086542"
+---
+
+The night's watch was once again peaceful except for one occurrence: a floating eyeball appeared around the perimeter of the camp during Lily's turn.
+
+It circled around the shadowy shroud that cloaked their camp as if not understanding why it was there. Lily could only assume that the eyes had some way of detecting their location regardless of where they were.
+
+After a lengthy time spent poking and prodding at the barrier, it eventually floated through the shadows and entered their camp. Whoever was controlling this eye must have been shocked, as it frantically floated between various points of interest.
+
+Lily pretended not to be watching it and continued with her practice. That was until the eye floated directly in front of her, as if trying its best to distract her. Lily only managed not to give in to the crazy eyeball by focusing on her meditation, and to her relief, it eventually left her.
+
+I just hope it's going to leave now that they've confirmed we are safe and sound. I don't want it following us when we go exploring tomorrow.
+
+To her relief, after the eyeball observed both Lotte and Thomas' tents, it began floating off in another direction. If it stuck around any longer, she wouldn't have been able to maintain the charade that she hadn't seen it.
+
+[I'll let you know if it comes back, so you don't need to maintain your Magesight permanently.]
+
+"Thanks, Arakil…" Lily said before suppressing a yawn.
+
+In the morning, Lily didn't tell her friends what happened. Partly because she didn't want to feel anxious about it potentially coming back to stalk them, and partly because she wanted to see their reactions when they eventually saw such a strange apparition.
+
+After they made their preparations, the gang got together and headed out to the river, this time hoping to follow it to its destination. They wandered along, occasionally splashing the water or grabbing anything that caught their attention.
+
+They had traveled for quite a while and hadn't spotted any monsters, although they had found a few strange-looking fish in the water. Yona had tried to fish them out, but with no success.
+
+"Hey, look over there!" Lotte suddenly cried out, pointing across the river.
+
+Lily and Thomas both followed her gesture and saw a field of flowers surrounding a lone tree.
+
+"Is that a dryad tree?" Thomas asked curiously.
+
+"It must be," Lily concurred.
+
+"Shall we take a closer look?" Lotte asked.
+
+"Alice warned us not to," Thomas replied.
+
+Lotte clicked her tongue in annoyance. "Since when do we listen to everything Alice tells us to do?"
+
+While Lily wanted to agree with her close friend, even she was hesitant after the repeated warnings they'd received.
+
+"I dunno…" Lily murmured.
+
+"As long as we don't touch the tree, we should be fine, right?" Lotte asked.
+
+"That's what she said," Thomas confirmed.
+
+"Then let's at least go take a closer look. We can even avoid going in the ring," Lotte insisted.
+
+"That should be fine…" Thomas replied.
+
+"I can't see any harm in just taking a closer look," Lily added.
+
+"Great!" Lotte said excitedly. "And just to be safe, I'm going to even dismiss Jade."
+
+"Good idea," Thomas agreed. "Just now, Yona goes and eats the tree or something crazy."
+
+Lotte threw a small poison spell that Jade slurped down while Thomas shared a bit of his rations. After that, the two Familiars were unsummoned, evidently happy with their snacks.
+
+"Now we just need to cross the river," Thomas pointed out.
+
+"Lily, would you kindly do the honors?" Lotte asked, with a teasing bow and gesture.
+
+Lily giggled and pulled out her wand. "Sure. This is what I would've liked to have done in that gauntlet, after all."
+
+Thomas' eyes lit up with realization. "Oh! Your 'build a bridge' plan?"
+
+Lily nodded and began drawing an earth glyph. The other two sat down and watched the lightshow in anticipation, occasionally whispering to one another to avoid distracting Lily. While she was trying to roughly estimate the distance she needed to cover the gap, Arakil surprisingly spoke up.
+
+[Why don't you use this opportunity to try out the point marker sigils?]
+
+Lily turned to Arakil and curiously scratched her head, trying to remember what he was talking about. As if prompted by her action, the book unfurled its pages and turned to a lesson from a long time ago.
+
+Effectively, these sigils were just a form of numbers, and while Lily had learnt them, she'd never used them until this point. It was so long ago that it had completely slipped her mind.
+
+"How?" Lily whispered.
+
+[You'll only need two points for this one. Add the points to the sigils, then draw the corresponding points at start and end locations for your bridge. You draw the points as you would a rune, except it's only the marking sigil.]
+
+Lily was surprised by how simple Arakil made it sound, and now she realized why she'd never used such a useful batch of sigils until now. How would she mark the locations with mere paper and ink? No, this was a technique that could only be used by drawing with Mana.
+
+To think that even back then, Arakil was preparing me for eventually drawing with Mana. Although this wand has brought that day forward considerably.
+
+Lily carefully followed his instructions and drew the two point sigils and their corresponding runes on the ground. This strange action caught the attention of her two friends, who observed with curiosity.
+
+Arakil told Lily to quickly use her Magesight, which she did, and she found that there was a faint ephemeral link between the two runes and their matching sigils in her glyph design. He then explained that this can be used in place of distance limits, and while it wasn't as efficient in terms of Mana, it was well worth the slight loss in favor of gaining precision and the saved time and effort.
+
+Without these, I'd need to either guess or measure out the area I want. But why couldn't he tell me this back when I was designing the shadow glyph…
+
+Lily had trotted around the camp and counted her steps to try to get a close idea of how big she needed to make the shadow cloak. Even then, she'd added a few extra meters to the size for safety's sake, but now the whole thing seemed a little foolish.
+
+Was Arakil testing me to see if I could recall these sigils back then? This was almost a year ago, and I don't remember him telling me they could do this!
+
+Lily silently swallowed her complaints and continued the last steps to finish the glyph. When the glyph was done, she examined it and, when Arakil didn't speak up, took his silence as confirmation.
+
+The glyph was activated, and the ground gave a soft rumble; the two points lit up, and Lily could see the link between the sigils relaying some type of information between them and the glyph. This all happened in less than a second; if her Magesight wasn't already active, she would have missed it.
+
+The first point shone brighter, and the earth bridge began to form directly from it, extending out until it met the second. In moments, the bridge was magically constructed, providing a safe and dry passage across the river.
+
+"Wow!" Lotte cheered. "Couldn't you build a building or something using this?"
+
+Lily scratched her head. "It would take a lot of glyphs…"
+
+Or an inscription… She silently thought to herself.
+
+"Our campsite is already the best in the class. What, do you want to live in a forest mansion?" Thomas asked.
+
+"Well… If you're offering," Lotte teased back.
+
+"Sorry, I don't think I can do that right now. Maybe in the future," Lily quickly said.
+
+While she loved drawing glyphs, she didn't want to even imagine the time it would take to draw something to build a house—or a mansion, as Thomas had jokingly suggested.
+
+Lily quickly crossed the bridge, proving firsthand that it was a resounding success. She even jumped a few times to prove its sturdiness before she reached the other side. The pair quickly followed after, with Thomas muttering to himself as he poked and prodded the magical construction.
+
+I wonder how Theo is doing… Is he crafting stuff like this with his magic? Lily asked herself.
+
+The group cautiously headed towards the flower circle, where they all but confirmed it was a dryad tree. The circle was perfect, and there wasn't a weed or blemish in sight. The flowers looked beautiful, and the scene had a magical serenity.
+
+"Where's the dryad?" Lotte asked.
+
+"Probably inside the tree," Thomas answered.
+
+They stared at the tree, which seemed to radiate a strange presence. Almost instinctively, they dared not approach it.
+
+"Hey… What's that?" Thomas whispered and pointed at the base of the tree.
+
+"Oh, is it your turn to spot things?" Lotte teased and glanced over.
+
+Lily squinted but was struggling to see what it was. She frowned and wondered if it was hidden behind the tall flowers, and stood on her tiptoes to try to get a better vantage.
+
+"Is that a treasure chest?" Lotte suddenly asked.
+
+"I think so… It's got a golden trim," Thomas said.
+
+Lily hissed through her teeth. "Isn't that a rare one?"
+
+Thomas nodded, and Lotte's eyes sparkled with desire.
+
+"But it's in dryad's domain…" Thomas sighed.
+
+Lotte was biting her thumb. "But… It won't attack if we don't touch its tree, right?"
+
+"That's what the monster book says, but…" Thomas murmured.
+
+"If it's protecting the treasure, who knows what it will do," Lily said, finishing his thought.
+
+The group suddenly seemed gloomy. This was supposedly a rare treasure chest! But the risk seemed too great for them.
+
+"What about Arakil?" Lotte suddenly suggested.
+
+"Oh!" Lily and Thomas exclaimed together.
+
+"Can he still distract monsters?" Lotte asked.
+
+"That's a good question," Thomas concurred. "It hasn't come up since we've been on the second floor."
+
+[If I enter the territory first, it should happen.]
+
+"If he goes in first, it should work," Lily replied, indirectly relaying Arakil's answer.
+
+"Should we try it?" Lotte asked, fidgeting nervously.
+
+The pair glanced at Lily, causing her to sigh internally. She'd be lying if she said it wasn't extremely tempting, but was it worth the risk? She couldn't even imagine the dryad harming Arakil at all, but what if it changed targets once they opened the chest?
+
+[As long as you don't touch the tree at all, I don't see why any of you would earn its ire. Once you leave the flower circle, it isn't capable of following unless its bound tree is destroyed.]
+
+"Maybe…" Lily answered.
+
+"I suggested it. I'll do it," Lotte said confidently.
+
+"I can go," Thomas quickly offered, clutching the hilt of the dagger on his belt.
+
+"You and what defensive spell?" Lotte asked with a snort. She held out her arm, and it was instantly covered in blackish stone scales.
+
+Thomas opened his mouth to say something, but Lotte quickly shut down any room for interjections.
+
+"My defenses are top-notch, trust me. Even if you could use your lightning, it would probably damage the tree."
+
+"Lotte's right," Lily agreed.
+
+"Of course I'm right. I just hope you aren't planning on coming with me!"
+
+"I…" Lily stammered.
+
+"Nope. Just me. I'm faster at running than you, too," Lotte said.
+
+Lily sighed before reaching into her pocket and pulling out two talismans. "Okay, but take these then."
+
+"Gifts? Don't mind if I do," Lotte said, plucking them from Lily's grasp.
+
+"This one is a speed talisman; you place it on your leg. The other is a shield. Tear it if you feel in danger," Lily instructed.
+
+"Got it. I'll grab the treasures and be out like a breeze."
+
+"Arakil, can you go in first?" Lily asked.
+
+[Of course. Hopefully this goes as planned, otherwise all this planning has been for naught.]
+
+The book drifted over into the circle of flowers, and instantly, there was a reaction. The trees' leaves and branches rustled as if caught in a strong breeze, but there was not even a hint of wind. Arakil continued to float deeper in, positioning himself away from the route Lotte planned to take.
+
+Suddenly, a face emerged from the tree, followed by two pairs of limbs that grasped the trunk before it pulled itself out of the wood. If she weren't entirely made of wood and covered in moss, Lily might have thought she was the most gorgeous woman she'd ever seen.
+
+As soon as the dryad was free from the tree, she charged at Arakil's book, her steps somehow not even disturbing the flowers or grass as she strode through them. With a monstrous cry, the dryad lashed out with claws made from splinters, bark, and roots, clashing against the book.
+
+The group collectively gulped, and Lily nervously glanced at Lotte.
+
+"Okay, show time," Lotte declared, drawing on her confidence.
+
+She activated the wind talisman by placing it against her leg as instructed and dashed forward. The second she crossed the boundary, Lily and Thomas collectively held their breaths, but there was no sign of the dryad noticing the intrusion.
+
+"Thank the gods…" Thomas whispered.
+
+Lily felt the same and watched as the dryad continued to attack the book as if her life depended on it.
+
+Why do the dungeon monsters hate Arakil so much?
+
+Lily still had no idea, but this wasn't the time to think about it as she turned to watch Lotte. Lily also clutched her own talisman tightly in her grasp, ready to jump in at a moment's notice if the situation called for it.
+
+Lotte reached the chest and promptly flung it open. The dryad flinched midstrike, turned to look at her, then let out a snarl and struck the book again.
+
+"Get out of there!" Thomas shouted.
+
+Lotte didn't need to be told twice as she stuffed whatever was inside the chest into her storage bag before sprinting back to the group. Again, the dryad jerked, as if fighting a desire to chase after the stolen treasures or deal with the book.
+
+When Lotte crossed the boundary, the group let out a sigh of relief, and Lily hugged her friend tightly.
+
+"Let's not do that again," Lotte chuckled between breaths.
+
+"Let's get further away," Thomas said quickly, turning to Lily. "Then call back your Familiar."
+
+Lily nodded, and they hastily retreated.
+
+***
+
+When Arakil confirmed the safe retreat of Lily and her companions, he began floating away nonchalantly, causing the dryad to scream in fury and continue its assault.
+
+Even if you were born from a sacred tree, you wouldn't be able to leave a scratch on my grimoire!
+
+When Arakil breached the boundary, the dryad made one last all-out attack against him. Its limbs grew unnaturally large, and roots and thorny vines wrapped around it, artificially enhancing it. No doubt these were even poisoned, but the final hefty blow did nothing but push him out of bounds.
+
+Then, like a puppet with its strings cut, the dryad stood there ominously with its hollowed-out eyes glaring at him. Arakil thought nothing of it, as they had done no harm to the dryad's tree and it was bound to its natural order.
+
+That was when the dryad's dark, empty eyes suddenly flickered, a baleful green light appearing within. It raised its hand and pointed at Arakil, and as he moved, it continued to point and follow him, as if it had marked him.
+
+Arakil sensed no magical fluctuations between it and him, so he wanted to write it off as nothing but an empty threat. However, something in the back of his mind refused to settle down.
+
+He sped up his return to Lily, with the dryad continuing to point at him with flickering eyes. Arakil was going to tell them to return to the camp immediately, as the situation seemed far too strange.
+
+For some reason, I have a bad feeling about this…

@@ -1,0 +1,139 @@
+---
+id: 9be30a8c-2c71-539f-8679-5df8c2734ffa
+page-type-slug: story-chapter-royal-road
+title: "8: Selfishness"
+slug: 0008-8-selfishness
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 8
+ownLength: 1697
+unit: words
+publishedAt: 2023-02-12
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1112256/8-selfishness"
+royalRoadId: "1112256"
+---
+
+Shallow, rapid breaths were the only thing Trent could manage as he crawled forward towards safety, his dive having cleared enough distance to position him a little outside the Twilight Boar’s range— not that he had been anywhere near that calculating when he made the decision to abandon Jack, no his desire for self-preservation had made the choice for him before he was even offered a chance to debate it.
+
+Only a few seconds later did Trent realize that he was hyperventilating, a burst of lightheadedness washing over him. It subsided a few seconds later, only to be replaced by a crushing pressure weighing down upon his chest, as if an invisible boulder had been deposited upon his lungs. In that moment, Trent wasn’t sure if utterances would echo out if he attempted to speak as sweat beaded down his side, his fear-stricken eyes not daring to glance behind for fear of what he might see.
+
+It wasn’t his fault.
+
+Whatever happened to Jack, it wasn’t his fault.
+
+What kind of lunatic chooses to face an alien beast head-on?
+
+He wanted to protest, to rail against the wicked destiny that had dealt him this bizarre, nonsensical hand of cards, but….
+
+That image of Jack facing the Twilight Boar head on was like a radiant sun occupying the center of his mind, burning so brightly that even someone like him was drawn to the light.
+
+He huddled behind an oblong boulder, the most appropriate cover he’d managed to spot in the heat of the moment; buying himself a brief reprieve to think.
+
+Part of him wanted to be like Jack, to rush out boldly and shoot one arrow after the next with blazing accuracy, but the other, more realist side of him ruthlessly discarded the false bravado that he was trying to muster.
+
+He was no hero. The last sharp thing he’d held was a butter knife. He was a goddamned barista and when people like him tried to stand up to danger, they either ended up in the hospital or dead.
+
+Leading by example, braving the risks and overturning odds, as powerful as those leadership tools were, Jack’s actions could not change the true nature of a person.
+
+So when Trent finally mustered the courage to tightly grip his bow, nocking an arrow and resolutely stepping out from behind cover to get a better view, there was only one emotion that drove him, a very human emotion at that—- selfishness.
+
+He needed the others.
+
+If all three of his teammates met their demise, he would be next— and there would be no one left to stand up for him. Among the four combatants present, only he didn’t have any means to deal damage in close quarters combat— he needed the other’s protection, while the others could likely survive on their own even if they were the last ones’ left.
+
+So when he saw Andrew kneeling on one knee, red blood pooling near his feet, Trent knew he had to do something or they would be down to two combatants.
+
+“Aaaaaaaaaah!” Trent roared loudly in his best impression of a raiding viking as he stepped out of cover, drawing startled side-glances from both Andrew and the Level 2 Twilight Boar that was charging at him.
+
+It was a crazy, half-baked strategy, but Trent wasn’t confident enough in his ability to hit a moving target twice.
+
+A brief window of opportunity was what he needed, a momentary distraction that would split the Twilight Boar’s attention and hopefully….
+
+Now!
+
+Trent released the arrow he’d been holding at full draw, exploiting the brief lull in the Twilight Boar’s gait as it examined if the newcomer posed a threat to it or not.
+
+Trent watched as his arrow zipped across the air before punching the Twilight Boar in its side. He watched as its legs began to falter, its majestic gait now reduced to mistimed steps as the strength in its muscular limbs drained away. A second later it stumbled and crashed onto the ground, a gurgling sound echoing out as it began to choke on its own blood, only coming to a halt a few meters before Andrew.
+
+Sarah did not know why she felt so calm. It was no sudden awakening; she hadn’t come to realize that she had some sort of innate talent towards martial combat. She didn’t particularly feel confident about her odds, either.
+
+So, why?
+
+A thought bubbled up to the forefront of her consciousness.
+
+Ah.
+
+She had already resigned herself. No, well, honestly, she still wanted to live. She wanted to live but… the way she was currently, the only real reward she saw for surviving was dying to some stronger, nastier beast ten minutes down the line.
+
+The worst part was, she couldn’t even bring herself to blame her.
+
+Her career. The one she’d dedicated her entire life to.
+
+Her parents, whom she loved dearly.
+
+The Arbiter had promised her that she could see them again, if she survived.
+
+But… was such a world even worth surviving in. What guarantees did she have, even, that the Arbiter was not lying to her?
+
+Her friends. Were they here now, somewhere, on this hellscape? How many of them would survive? She did not need her bachelor’s in economics to tell her the statistical odds... people who she liked, cherished and loved— she would never see most if not all of them them again.
+
+Even if they did, would they even be the same people?
+
+More than likely not.
+
+There was no point lying to herself. She lived a comfortable life. Well, had. Her parents were able to afford sending her to a good private college without requiring her to take a mountain in student loans. Many would call it privilege and it was, but so what? She worked hard and she was rewarded for it with a cushy job. She was used to modern conveniences and a safe neighborhood and now--- was she expected to survive in the wilderness, hunting and killing monsters if she wished to be granted the most basic of all human rights?
+
+Just a couple more seconds and it would all be over, replaced by an eternal stillness.
+
+In death though, lay the greatest of truths and not even the greatest of orators could lie in face of the end of all things and unsurprisingly, neither could Sarah.
+
+I want to live.
+
+The voice echoed in her mind.
+
+I want to live. I want to live. I want to live. I want to live.
+
+I want to-
+
+There was no grand rationalization she could offer. It was no touching image of her parents that drove those thoughts at the last moment, no thoughts of wanting to meet her friends one last time that gave her the strength to muster that iota of strength that was the catalyst for change.
+
+It was hard to attribute it to any one instance or desire, more an amalgamation of the experience that was life itself that drove her to those thoughts. Perhaps, it was just selfishness but-
+
+I want to live and I'm going to do what it takes.
+
+Whatever it takes.
+
+Many others in her position would likely be beset with regret— what if I had moved a little faster? Why did I freeze up? The others… Where are they? Why aren’t they helping me? It’s all their fault! It’s over, isn’t it?
+
+But not Sarah.
+
+Regret would not offer her the path to life.
+
+Only action could.
+
+Had Sarah played her hand early, the Twilight Boar would more than likely have evaded her amateur strike. It was only because she had waited until the last possible moment to react, the point where the Twilight Boar was all but assured of a successful hunt, that it had no possibility of evading the Qi Spear thrust towards its skull.
+
+Even Sarah had not expected her last moment strike to punch through the Twilight Boar’s eye socket and melt its brain instantly—- a lucky strike would be how most saw it.
+
+But for Sarah,
+
+Only because she looked death in the eye and defied its call, could she attain life.
+
+A heavily panting Andrew tossed a Recovery Pill into his mouth, wearing an expression of wondrous gratitude upon his face.
+
+He had fought well, at least in his mind. The Twilight Boar had gotten him good, but in return he’d torn a gash into its side. If he knew how to use a sword, he’d have done better— in the heat of the battle though, a wild slash the best his ability let him offer.
+
+But the moment his sword had been knocked away by it’s second charge, he had resigned himself to the inevitable. The arrow that rained down from the heavens was divine benediction itself, in his eyes. His would-be killer now lay gurgling upon its own cursed blood, while he…. might be a little worse for wear, but it wasn’t his day to go today.
+
+The smile slowly began to fade though, as he was confronted with the ugly opportunity present before him.
+
+Andrew liked to believe that he did right by the people who treated him fair. He did.
+
+Well, usually.
+
+Being too perceptive sometimes was a curse— despite everything he’d been through, despite having barely escaped with his life, despite the damn gratitude he should feel for his savior, his sharp mind did not hesitate to remind him how Jack was able to sense the number of boars charging at them well in advance. He had not missed how Jack seemed faster, stronger after he had killed that first boar. Jack’s mention about a message you receive upon killing the boar from the system…. had not escaped him.
+
+That, combined with what the Arbiter and the Quest Rules had told him….
+
+Andrew groggily got back onto his feet, ignoring the stinging pain he felt with every micro-movement of his arm, reaching for his discarded blade. With five quick steps, he was besides the boar. With his next moment, he stabbed the tip of his blade into the barely breathing Twilight Boar’s throat.
+
+Was it selfishness if one followed the desires of the self?

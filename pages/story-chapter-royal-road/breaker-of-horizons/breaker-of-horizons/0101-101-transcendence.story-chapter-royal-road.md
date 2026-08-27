@@ -1,0 +1,115 @@
+---
+id: c323ad67-e536-5fbd-909a-3a48e9c61a8e
+page-type-slug: story-chapter-royal-road
+title: "101. Transcendence"
+slug: 0101-101-transcendence
+partOf: breaker-of-horizons
+position: 101
+ownLength: 2238
+unit: words
+publishedAt: 2021-04-19
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/667374/101-transcendence"
+royalRoadId: "667374"
+---
+
+In the limited privacy of his car, Mr Silver activated the mobile telepresence array and tuned its coverage so that it excluded everything else outside. Since there wasn't enough space to project a life-sized image of the people on the receiving end, it manifested a small screen that hovered just a few inches above the surface of the orb.
+
+The woman who answered his call looked to be well in her sixties, though the wrinkles did not diminish the vigour in her face. With her bone-white hair tied up in a severe bun, her deep-set green eyes were brought into prominence, and they glared out of the screen, leaving no one in doubt that her mental acuity was still intact.
+
+There was no greeting or preamble. She raised an eyebrow. "Yes?"
+
+"SD-P1 has not left the Spire for over nine hours. He went in unescorted and we have no trace placed on him, which means we do not know his current status. Am I to understand that we are still to wait for him to emerge from the Spire and that we should not be sending in anyone to confirm his safety?" Mr Silver asked, going straight to the point.
+
+"Yes."
+
+"Is there a more definite window of time we can be given so that we can make necessary arrangements?"
+
+"Mr Silver," the woman frowned, disapproval etched in every fold of her skin, "do not fish for information. Everything that needs to be communicated has already been communicated. Your team is supporting Ms Pearl's, so kindly defer to her judgement of the situation."
+
+Mr Silver's lips tightened, but he nodded in acknowledgement. "Understood."
+
+The array went dark as the woman terminated the connection. Mr Silver emerged from the car and looked to where Ms Pearl was still standing at the base of the Spire. Sensing his gaze, she turned to him, and her lip curled in a wry smile as she read the result of the call in the slight droop of his shoulders.
+
+"No change, I suppose?" she asked when he came to stand by her again.
+
+"No," he confirmed, keeping his voice even. "Shall we set up shifts to watch, since we're not sure how long we'll be here?"
+
+For the first time that day, Ms Pearl looked a little uncertain. "We'll definitely need shifts around the Spire, but I'm considering having your team set up a wider perimeter with patrols."
+
+Mr Silver nodded. "If we're going to be here for awhile then that's a good decision. I'll—"
+
+"—but in the event of an incident here at the Spire, we may need every available agent to be here in less than a minute."
+
+"If we're constrained by the need to be here within a minute, then we won't be able to expand the perimeter by any meaningful distance," Mr Silver pointed out. "Why do we need to commit to that? If we can detect or even stop enemies at the perimeter, we can afford to ease up on the precautions near the Spire."
+
+Ms Pearl folded her arms and fixed Mr Silver with a measuring gaze. "I suppose this means you don't sense it."
+
+The hairs on the back of Mr Silver's neck prickled. "Sense what?" he asked, dipping half his attention into the arcanic sea. But there wasn't so much as a ripple there, aside from the other agents and the protective sequences they had set up.
+
+"Nevermind," Ms Pearl said, massaging the bridge of her nose. "Yes, expand the perimeter far enough to give us a three-minute warning if any hostiles break through."
+
+"What do you sense? What other threat is there?" Mr Silver demanded.
+
+"You've made it clear that having additional hands nearby won't be any help at all if it comes to it," Ms Pearl answered matter-of-factly. "We'll make do with what we have, and guard against the threats we do know."
+
+"If there are other considerations, I should be appraised of them too," Mr Silver pressed.
+
+"No, Mr Silver. I am the ranking agent here, and I am telling you that you are not qualified to know more than what you already do," Ms Pearl replied seriously. Her expression softened, and she added, "I'm not being deliberately obtuse. If you haven't encountered this phenomenon before, then there's nothing left to be said, and there's nothing more you can do. Let me handle this. You and your team can help by manning the perimeter against any further incursions from Sedhah or other nations."
+
+Mr Silver held her gaze for a moment before he relented. With a curt nod, he turned away and went back to his car, signalling the rest of his team to join him so he could give out their new orders.
+
+I can ask, Ambrose thought to himself, staring up at the silent dodecahedron. He mulled over what the augera had told him before it apparently went off in a huff after he had vented his own frustrations at it. Now that he thought about it, that reaction seemed uncharacteristically childish, coming from an eldritch entity of unfathomable power and unknown provenance.
+
+And the sullen silence was completely at odds with what he had just been told — that he and the augera were free to converse until he was too hungry, thirsty, or tired to continue. Well, here he was, too riled up and agitated to even consider any of his bodily needs at the moment. And yet the wretched augera wasn't responding!
+
+When it became abundantly clear that trying to speak with the augera wasn't going to yield any further reply, whether verbally or through the arcana, Ambrose decided that he wasn't going to wait for it any longer. If it refused to connect with him, then he would go and connect with it.
+
+It had occurred to him that so far, his arcanic communication was happening within what he thought of as the arcanic sea. However, the augera had just shown him a layer that ran even deeper than that — it was the space beyond the veil, whatever that meant. The augera couldn't retreat physically, nor did Ambrose think it was possible for the augera to have vanished from the arcana, so that meant that it had simply retreated to that deeper layer. If he wanted to connect with it, then perhaps all that had to be done was for him to travel back to that layer.
+
+But the moment he resolved to do so and turned his mind to what he thought was the way for him to do it, his nerve almost failed him. The memory of being only a piece of himself made him shiver involuntarily.
+
+"That's not going to happen again," he said to himself as he lightly slapped his cheeks. "That was just the introduction. Like dipping a toe in the water. Now I know how to get fully immersed."
+
+His voice sounded thin in the nebulous silence of the chamber, and his words of self-assurance rang hollow in his ears. But he steeled himself again. "I can do this. I'm the Chosen One."
+
+Slipping into the arcanic sea was easy for him. He had been doing it as far back as his first week in the Academy, and he took to its depths easily. The glyphs in the chamber sang loud and clear here if he paid attention to them, and he noticed that after the augera had pushed him through the veil, he was actually able to discern more of their song even here in the arcanic sea. It was like he had only been able to see the glyphs as shoals of fish swimming around before, but now he could also tap into their shared mind and understand, instinctively, the infinitesimal signals they sent to each other to coordinate their movements.
+
+However interesting that was, this was not the layer he needed to be at. He needed to pierce the veil again. The fact that he had conceptualised arcana itself as a sea made this somewhat difficult because there was no veil to piece in the sea. There were only deeper depths, but he didn't need to go deeper into the sea of arcana that he knew. He needed to go beyond it altogether.
+
+Why a veil? Ambrose asked himself, drifting lazily in the arcanic sea.
+
+As disturbing and disconcerting as it was, he tried to focus on the memory of his experience when he had been forcibly pushed through that metaphysical veil into the domain beyond, and when his consciousness had recoiled from that and been temporarily fragmented. A part of him had remained in the arcanic sea while the rest of him was in that unknown dimension, and yet he had been able to sense the missing parts of himself somehow. He tried to focus on that sensation now, attempting to recall what it felt like to have parts of yourself hidden away in a place you couldn't see, or even feel.
+
+A veil... he repeated to himself. The augera pushed me through the veil... and I lost contact with parts of myself. A bit of me was stuck here.
+
+He drifted some more, allowing the peace of the arcanic sea to calm him. He had always enjoyed the sensation of being here, of floating, weightless, his limbs melting into the water.
+
+All physical, he realised with a jolt. The physical world is the veil. And any frameshifts involving the physical world are a part of that veil.
+
+It actually gave him a bit of a headache to think about it. If that was true, then piercing the veil meant abandoning any frameshift based on the physical world. He had to somehow grapple with the raw substance of arcana itself, working on some metaphysical level that did not rely on any abstraction of his five senses.
+
+Where the hell would he even begin?
+
+Ambrose realised his breathing had quickened because thinking about the magnitude of the task had actually also helped him to recall with more clarity the moment a part of him had been shoved beyond the veil, and he had actually managed to think about those missing bits of himself that had really not been missing at all but had only just been shunted into that dimension-which-he-had-no-sense for. He remembered the utter panic and horror of being in a dimension that did not conform to any physical experience at all.
+
+But that was it. That was his starting point. That was the key to going beyond the veil and finding the augera so he could exercise his freedom and ask it all the bloody questions he wanted.
+
+With a great flexing of his will, Ambrose oriented himself in the arcanic sea and did the equivalent of crossing his legs there. He calmed his mind down as much as he could, anchored himself firmly in place, and tried to slide out of all of his senses entirely, fixing on that alien not-here 'feeling' that his auric-ambient-flare had been exposed to.
+
+It was difficult, and he realised that it would be a lot more manageable if he could conceptualise it somehow. He couldn't use anything that was tied to concepts that touched the five senses. The only thing that had seemed to make sense there was time, so he started with that. But time wasn't a concept he could meaningfully use to navigate that other dimension, so he abandoned it for now and tried to think of something else.
+
+What had he felt, in that not-here space?
+
+A lot of emotion, certainly. His own fear, horror, panic, confusion... so much of it. But how was that going to be helpful? How could you locate something by emotion?
+
+He frowned. Wasn't location itself something that was grounded in the realm of the physical senses? Perhaps he needed to abandon the idea of finding the augera as if it were in a physical space. His headache was getting worse as he tried to grapple with these nebulous concepts.
+
+No matter how much more he thought about it, he kept coming back to the idea of emotions. Where all other senses had failed to give any meaningful information to him in that not-here space, his emotions had continued to operate exactly as they did. That had to mean something.
+
+An idea occurred to him. It wasn't a pleasant one, but it was the only one he had at the moment. If emotion could be used as a navigational tool — no, he interrupted that thought, not a navigational tool. You can't navigate a not-here space... I think — or rather, as a way to identify and consolidate a sense of self, then maybe he could just focus on that existential horror and panic he had felt, and use that as a channel to get into the not-here space.
+
+He realised with a twinge of frustration that his own thoughts were still all tangled up with notions of space and positions and discrete coordinates, but he figured that he would be able to make more sense of all this if he just managed to get 'there' one more time.
+
+So he gathered his thoughts, forcing himself to recall that moment with more clarity. The horror of the experience rose in his mind, filled out the contours of his thoughts, seeped into the present state of his auric-ambient-flare...
+
+... and the Chosen-Blinded-Jailer slipped out of the arcanic sea into oblivion.

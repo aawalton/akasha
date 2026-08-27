@@ -1,0 +1,161 @@
+---
+id: 0f4550a6-4215-59d4-9911-fb6797df0958
+page-type-slug: story-chapter-royal-road
+title: "v5c69: A Reassuring Place"
+slug: 0178-v5c69-a-reassuring-place
+partOf: beware-of-chicken
+position: 178
+ownLength: 2051
+unit: words
+ownProgress: 2051
+publishedAt: 2024-11-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1924762/v5c69-a-reassuring-place"
+royalRoadId: "1924762"
+markedReadAt: "2026-06-29T18:57:25.351Z"
+---
+
+Seeing Hong Yaowu really made things sink in that it was over. To the villagers, it had been a night of scary noises and distant flashes of light… and that was the extent of it. Nobody had gotten hurt here. Nobody died.
+
+I felt relieved, like an enormous weight was lifted off my shoulders. Gramps was holding down the fort at home so I could just, for the moment, drink tea, put my feet up, and watch over the rest of the village. It was nice to sit for a moment without having to worry about anyone or anything else.
+
+Meimei and her dad went to hang out in their personal library, taking Zhuye with them and leaving me on a bench, just soaking it in.
+
+The joyful shouts of children drew my eyes to Chun Ke who was, of course, racing around the fields. The usual gaggle of kids were on him and the sleigh strapped to him—surprisingly, this time he was joined by an amused-looking Spooks. The Thunderhoof had kids sitting in his antlers and on his back, cheering while he galloped along.
+
+A flash of red and laughter brought my gaze to Big D, Rizzo, and Peppa. They had gravitated more to the adults. Big D looked a lot more comfortable as a human than as a chicken, and instead of going off alone to sit on a roof he was amicably chatting with a couple of the men as they brought out a Go board. Peppa and Rizzo were, to my amusement, helping the rest of the ladies paint their noses Rudolph red—Peppa’s costume seemed to be quite the smash hit.
+
+“Eat, child, eat! You need more food!” The demanding voice brought me to one of the newcomers. The attention of the grandmothers and grandfathers were dominated by Yushang of all people. I still didn’t know her all that well, but what I did know was that she was the most gregarious cultivator I had met outside of Tigu. She was cheerfully eating sweets and getting pampered by all the old timers while she played Go with them and told them stories about where she had grown up in the Howling Fang Mountains. Han was beside her, rolling his eyes at her tales, but he seemed to like the attention. Shao Heng was nearby, shaking his head at her antics… but he seemed to have enough old man energy that he fit in too.
+
+Xiulan had been captured by Quiet Liu—and was smiling indulgently as they wove together crowns of cedar and holly.
+
+Yun Ren and Gou Ren were with Ten Ren and Hu Li—their parents were fussing over them, especially over their new appendages.
+
+“Am I gonna grow a set of these?!” Hu Li demanded, her narrow eyes sharp.
+
+Nezan, on Yun Ren’s shoulder, shrugged. “Your Qi is a bit too weak—but I do know some excellent craftsmen if you wish to know what it's like.”
+
+Hu Li considered this offer, then turned to Ten Ren with a cheeky smile. “Oh, what do ya think, hubby? Would I look good with ears and a tail?”
+
+Her voice was flirty and Ten Ren started to obviously consider the proposition, much to the brothers’ horror.
+
+“What the Hells, Ma! At least talk about this somewhere we can’t hear!” Gou Ren yelped while Hu Li started cackling. She seized Yun Ren in a headlock and started petting his ears.
+
+“Ah? Wouldn’t your mom make a pretty, foxy lady?” she demanded, her grin splitting her face. Yun Ren just looked resigned to his fate.
+
+I snorted at the commotion, instead turning my gaze to the huffing and the puffing contraption that everyone else was gathered around. Bowu stood upon the Azure Express, his arms crossed triumphantly as it chugged around its track. Xianghua was eagerly shoveling fuel into the locomotive’s engine.
+
+Washy was lazing inside his fellow “dragon”, coiled all about it. Tigu and Delun were in the small passenger car and having an animated discussion about the artifact. Delun was writing something down and gesturing wildly while Tigu looked on, a small smile on her face while she watched his focused eyes. Finally, Babe, Yin, Noodle, The Torrent Rider, Shaggy Two and Huo Ten were simply watching it go round and round.
+
+“It's a loud, rude, annoying contraption, ain’t it?” an old, crotchety voice mused from beside me. I turned to where the old woman was standing, her eyes on the Azure Express. Her goat, Lan Fan, was peacefully chewing her cud, while an old tomcat perched on her shoulder. Her words were haughty and disgusted, but I saw a glimmer of interest while she looked at the iron beast.
+
+“It can get noisy, yeah, with all the steam and gears,” I agreed. “Just wait until he figures out the steel and machining for a higher pressure; the whistle will sound out for a hundred Li.”
+
+“How utterly dreadful!” she complained halfheartedly, before she turned to look at me. “You look awful, brat.”
+
+I raised my bandaged arms. “You should see the other guys,” I replied. She snorted, a small smile coming to her face. I let my arm drop and bowed. “Thank you, Grandmother, for warning us. I don’t know how I can ever repay you.”
+
+The old crone let out another cackle. “Oh? I can think of some ways. Here.”
+
+I blinked and took the piece of paper she shoved into my face. I unfurled it, as it was rather long. I read through it carefully… before bursting out laughing.
+
+It was a formal demand for tribute. The items demanded were food.
+
+“Your terms are very steep, Honoured Grandmother,” I joked.
+
+“Damn straight! We had your food while staying here, and now neither I nor my husband desire anything else! You can take care of us until we croak, and then your debt will be fulfilled. Isn’t this old lady’s generosity grand?”
+
+“Indeed, Grandmother. I kowtow before your benevolence,” I said, bowing deeply again and continuing the bit. “My house and everything within is yours!”
+
+When I rose she was still smiling, but it was a bit complicated.
+
+“Hmph! Too much, brat, too much! The only thing this old lady desires is to be left alone. I’m quite fond of my peace and quiet.”
+
+“No one will bother you. I promise.”
+
+She looked into my eyes, and her expression softened.
+
+“Well… you’ve been quite good at keeping your oaths so far. This Shiyun shall trust you—and tell that old bastard who stayed behind to keep black clouds and shrieking falcons far away from me.”
+
+“Yes, Grandmother,” I agreed, and some of the tension released from her shoulders.
+
+“Excellent! Now, scooch over and tell this old lady a story! It's been way too long since I’ve had a blow-by-blow account!”
+
+I was already getting sick of telling this story—but I gave it my all.
+
+========================
+
+Bi De found the village much more enjoyable as a human.
+
+It was fun.
+
+Indeed, the grasping hands from children were far more tolerable when it was his clothes rather than his tail feathers that were grabbed. He even found their presence downright enjoyable, like when Young Xian asked to ride on Bi De’s shoulders.
+
+He spent the day most enjoyably, speaking with the villagers and playing some Go, helping cooking, and sneaking off for a moment with Ri Zu to enjoy her company. Her lips were as sweet as ever.
+
+And then, the final event of the day, was the solstice dance. Bi De had been worried that he was going to miss it this year, and technically he did—but Young Xian was kind enough to recreate it for them. The pounding drums and the whistling of the engine made for fine music. They wouldn’t be going all night, but that didn’t matter.
+
+He danced with his Master, he danced with the Healing Sage, he even danced with his little brother Zhuye, the babe bouncing up and down with a big smile on his face.
+
+He danced with Ri Zu, then with Yushang, and then with them both, before Yushang was recaptured by the elders, much to her amusement. He danced with Yin and Pi Pa, Yin’s blazing solar Qi resonating with the dance and making his heart pound, while Pi Pa was graceful beyond belief.
+
+He danced with brother Chun Ke, the boar in his human form. He was uncoordinated, but he made up for it with jolly enthusiasm.
+
+He danced with Tigu—but his sister turned it into an almost impromptu sparring match, their blows and dodges barely managing to stay within the realms of appropriateness, but it was fun.
+
+He saw Shao Heng sitting on a roof like Bi D once did, a small smile on his face as he observed the festivities.
+
+His heart was full and his smile bright—which is why it was so surprising when he was summoned away, along with Ri Zu.
+
+“To the chief’s house,” Xianghua said, her face blank. Gou Ren was watching on, his arms crossed and his face similarly blank. He looked extremely tense and stiff.
+
+Bi D felt his confusion grow, as Ri Zu was told to join him.
+
+He had been having a wonderful day—but now, there was tension in the air.
+
+He entered the chief’s home and walked to the house’s main hall. There, Hong Xian sat, his face severe. Beside him sat his Great Master, looking equally grim.
+
+“Sit,” Hong Xian the Elder commanded, and both Bi De and Ri Zu obeyed, shuffling nervously.
+
+“Fa Bi De, it has come to my attention that you have been… lax in your duties,” his Great Master proclaimed sternly, and Bi De felt his heart seize in his chest. Just what was going on?!
+
+“Indeed, Fa Bi De. When were you going to ask permission to court my daughter?” Hong Xian demanded.
+
+It was then that Bi De noticed the twitching of their lips, as both his Great Master and Elder Hong struggled to keep from laughing. The Healing Sage was even peeking in through a nearby door, her shoulders shaking with mirth.
+
+Ri Zu squeaked with mortification. Bi De felt a blush come to his cheeks.
+
+He bent low, kowtowing. “Forgive this one, Elder Hong, Master! He has indeed been lax! Elder Hong, Bi De begs you for your blessing so that he may court your daughter!”
+
+“Hmph!” Hong Xian huffed, turning his nose to the sky. “What say you, son? Shall we allow this one to continue hounding my daughter?”
+
+Bi De’s Master stroked his chin. “I think we should ask Ri Zu.”
+
+“Indeed! Daughter! What do you think of this man?” the man asked. Ri Zu bowed low as well.
+
+“Father, your daughter loves him very much and begs for her father’s blessing.”
+
+“It appears we must allow it, my son,” Hong Xian declared, smiling.
+
+“Indeed, indeed,” His Master decreed, his smile wide as well—until he could take no more and began to laugh. “Did you catch their faces, Yun Ren?” he asked.
+
+One of the corners of the room shifted and Yun Ren appeared, his grin vulpine.
+
+“They were pretty great, if I do say so myself.” He turned to Bi De and Ri Zu. “I told you Meimei would be upset that you didn’t allow me to take pictures! This is the consequence!” he joked, turning his nose in the air.
+
+Bi De snorted and began laughing. Ri Zu, after a moment, joined in.
+
+“They got us good, didn’t they?” he asked Ri Zu. His lover chuckled.
+
+“Yes, but… it's not so bad,” Ri Zu replied, before her expression became a bit complicated. “Daughter…” she muttered.
+
+“Indeed. You are Hong Ri Zu—I said as much, even in your other form, that you were a daughter of our house,” Elder Xian stated simply. “No matter what, you have a place here.”
+
+Ri Zu slowly smiled. She bowed again. “Thank you for looking after me, father,” she said.
+
+Their Masters got them cups of wine, and more of their friends came to see what the commotion was about.
+
+“I was so close to laughing and ruining it all!” Gou Ren said, mirth upon his face. “That's why I asked Xianghua to tell you for me!”
+
+Bi De could only laugh along.
+
+It truly was good to be home.

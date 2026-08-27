@@ -1,0 +1,357 @@
+---
+id: b46e1d97-4f52-5651-ab8e-21ebd8dbfc37
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 3 - Unexpected and Unseen"
+slug: 0004-book-4-chapter-3-unexpected-and-unseen
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 4
+ownLength: 6436
+unit: words
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2479581/book-4-chapter-3-unexpected-and-unseen"
+royalRoadId: "2479581"
+---
+
+“Fuck.” Ranthia hissed as she tried to tamp down on that instant of instinctive panic. She wasn’t going to ever get used to her sight being so abruptly taken from her. It was jarring—almost haunting—to go from admiring the eyes of the woman she loved—so full of mirth and energy—to a world of darkness in an instant.
+
+“My love…? What is… Oh! I had not realized so much time had slipped by already.” Avyna’s words came from so close by—just where she should have been.
+
+Ranthia took a deep breath to steady herself. She could still feel the slender woman in her arms. She was safe—they were together and there was no menace hanging over them. Deflection was protecting the base, and it wasn’t like she needed to be able to see to continue to share words with Avyna. She knew her own Skills and listening would be the important thing once she was done.
+
+“Yeah…” Ranthia wasn’t quite sure of what else to say, but she didn’t want to leave Avyna unanswered.
+
+“I am unsure if you are aware of this, but when your sight leaves you, your eyes rapidly move around until you settle—at which point your eyes lose focus, as though you were consulting your System. The effect might be less notable to those unfamiliar with your eyes, and I am well aware that most people never get to see your eyes, but it is worth learning to master that. Please, continue to act as if you are looking at me.” Avyna gently instructed.
+
+“Gods and goddesses, you really are perfect, aren’t you? A single look and you already find ways I can hide my curse that I had never even thought of.” Ranthia smiled and tried to follow Avyna’s advice.
+
+“Of course.” Avyna shamelessly preened before she continued. “But your hearing is better than that, my love, so use your ears to direct your eyes. Yes, that is much better. You should do this even when you wear your mistweave; it only takes one person with a sight Skill like your own to ruin your greatest secret.”
+
+Ranthia practiced under Avyna’s supervision for a little longer before the woman began to speak again.
+
+“You adapt swiftly, which will serve you well among immortals. But your curse must remain a secret. Even elves take… dramatic measures to ensure that our racial curse is never known. I wish that I could share mine in the spirit of your own trust, but it would spell the end of us both.” Avyna’s words were serious and—no matter how she boasted about her privacy wards—were so near to truly being silent that even Ranthia struggled to hear them clearly.
+
+Ranthia nodded seriously. If Avyna was being that paranoid, the wisest thing she could do was to accept it. She was curious, but her curiosity stopped far, far away from endangering the woman she loved.
+
+Not that she could stop herself from forming theories. Could ‘perfection’ in and of itself be a curse? She had certainly seen Avyna suffering as she strived to equal her peers…
+
+“Well, let’s move on to my other six General Skills. Next up is [Sentinel’s War Supremacy]—and I think I’ll leave off my explanation. Night might just show up to personally murder me if I explain any further.” Ranthia could only hope that she was joking, but continuing the Skill share was probably safer than her own thoughts were.
+
+Not that she wanted to dwell on thoughts of a vengeful, scary vampire while she couldn’t see, either!
+
+“[Submind]! My utility skill that lets me do maaaagical things with my first class.” Ranthia rushed forward with her next Skill.
+
+And was gratified when Avyna yelped in surprise.
+
+A second Ranthia had appeared behind Avyna and—assuming Ranthia remembered positions and distances accurately—had leaned over the other arm of their ‘bench’ to massage her shoulders. A few heartbeats later, a third Ranthia appeared, seated on the floor. Assuming that any part of those instructions worked out—it wasn’t like Ranthia could get tactile feedback from her uninhabited images—the newest image gently seized Avyna’s feet and started rubbing them.
+
+“Oh! Oh my. You have been holding out on me, my love!” Avyna crooned as she subtly adjusted her position to cover for the mistakes that Ranthia made.
+
+“I consider [Submind] my secret weapon. Basically, I can unload any task I know how to do into the Skill, and it takes care of it for me without me having to expend conscious effort multitasking. It works great to help with my control over my images, or at least it did once I got used to how to balance the Skill versus my input.” Ranthia explained, even as she shamelessly spoiled her lover with the physical attention of three of herself.
+
+Okay, so her explanation was awful enough to be borderline misleading, but instructing [Submind] was hard to explain. Once she got used to it, it felt far more automatic than it truly was.
+
+“[Combat Awareness] helps keep me alive. Basically, it combines my senses to help me be more aware of incoming attacks or other hostile actions within a limited zone of heightened awareness. Usually, I even instinctively know the direction and, at least to some extent, the danger that it poses.
+
+“[Fast Learner] boosts the rate I gain experience and helps me pick up new things, based on my personal creed of adapt or die. It was one of my initial skill offerings—and is another example of alarming skills for an 8-year-old to already have as soon as she unlocked.
+
+“[Image Recall] I’ve kind of already mentioned—it’s how I solved the problem caused by [Distorted Likeness]. It lets me store and instantly retrieve a number of images. I can basically tether it into my first class when I make images.
+
+“Then, of course, there is my legendary appearance skill, [Sexy]. It is what makes me irresistible to gorgeous women, even the utter perfection that I embrace as we speak.” Ranthia concluded.
+
+Avyna rewarded her shameless flirting with a kiss. Ranthia was content to just focus on Avyna for a time as her affectionate sentimentality blurred with blissful comfort. And, at some point, Ranthia subconsciously redirected her two images into kissing the back of Avyna’s neck and shoulders and her legs as she lost herself in the moment.
+
+Finally, a lightly flushed Avyna pulled away and swatted at Ranthia and her images.
+
+“Oh prisms, too much more of that and we would never get around to my turn to share!” The elf warned breathlessly.
+
+…Okay, yes, she was tempted. But Ranthia forced herself to take a deep breath and tried to refocus. They still had much to discuss, and the skill swap was no less important just because Ranthia had shared her grand revelations. It was her turn to be a good listener. She could do that much.
+
+Ranthia dismissed her images.
+
+“I still can’t believe that you already knew I was immortal.” Ranthia mock-grumbled in an effort to get them back on track.
+
+“You are terrible at secrets, my love. But we can work on that.” Avyna promised.
+
+That… sounded nice, Ranthia decided. She wasn’t really offended; she had already realized that she could be too relaxed at times. She had gotten far too used to life in the Unbreakable Image, where everyone already knew too much. It was yet another thing that she still struggled with, just the same as any of her fears.
+
+“But to be fair, I doubt any other elf would have realized it. Few have spent over a thousand and twenty-four years travelling Pallos while paying proper attention to mortals and truly seeing the effects that the passage of time has on different people.” Avyna reassured her.
+
+“Wait… what?!” Ranthia all but screamed. She was being far too loud for their proximity, but…
+
+Over a thousand and twenty-four years?!
+
+“What do you… oh!” Avyna laughed. “My love, you know well that I am—”
+
+The elf fell silent.
+
+“Oh, by the spires, I would have sworn that I had told you…!” She hissed several moments later.
+
+“I… Are you really…? I… I had known you had likely lived for at least four hundred years, perhaps six, but…” Ranthia’s words felt hopelessly clumsy.
+
+But she had no idea how to even process any of it. She had thought that the shocking revelations were done! Yet the woman she loved was… unfathomably ancient?!
+
+“My daughter is nearing two hundred and fifty-six herself, and I am not one of the impatient youths that rush through life and do reckless things like bearing a child before they are truly ready.” Avyna retorted.
+
+Ranthia wisely decided to keep her mouth shut and not point out just how impulsive and fast-moving her lover seemed to be. Not that she could even really appreciate the irony.
+
+Over a thousand and twenty-four years.
+
+“Are you bothered, my love? I had not meant to keep this from you, I had always meant to bring it up when we discussed cycling, to tell you that I was on my sixth cycle.” No matter how distracted Ranthia was, it was impossible to miss the concern—and pain—that was creeping into Avyna’s voice.
+
+“I… Sorry, it’s just a lot to take in. I mean I knew we had a massive age gap, but. …How old, exactly, are you?” Ranthia had to know.
+
+No more secrets.
+
+“One thousand, four hundred and forty-seven. Forty-eight come winter.” Avyna answered readily. Quite possibly desperately.
+
+“…I’m thirty-two. I won’t be thirty-three until next Spring!” A note of hysteria slipped into Ranthia’s words.
+
+Gods and goddesses, her entire lifetime was practically a rounding error for Avyna’s—likely both of her lifetimes in total still were. It felt like an impossibility. How could Avyna have even been willing to accept her?!
+
+“Never forget that I chose you, my love. I knew what it meant to get involved with you. I never meant to hold this information from you. And I know that you have not had the time to come to terms with your own comfort with relationships as an immortal, but please, allow me to share my own thoughts.
+
+“I understand death well, my love. Even better than mortal races do. It is a constant companion to the life of every immortal. Pets, bonds, and other animals are unable to stay with us. Friends we make among the mortals grow old and succumb to White Dove or Black Crow. Even the very trees of our familiar forests die off eventually and are replaced.
+
+“And yes, elves and other immortals die too, I know that better than most. For all some of my kind act as if they are invincible and eternal, elven blood can be spilled in a moment of sudden terror the same as any mortal.
+
+“I do not wish to forever be tied to only those that have survived for as long as I have. Young immortals can be overly sure of themselves, but many of my peers are just as impossible to suffer. I wish to spend my time with whomever I choose and do so freely. I wish to learn of mortals that are destined to disappear. And I choose to share myself with any immortal—young or old—that properly catches my attention. It is one thing if I knew you when you were young, but you are no child—no matter what the difference in our age might suggest.
+
+“I have already learned much from you my love, and I wish to continue to do so. But…” Avyna trailed off.
+
+Ranthia knew what Avyna had left unsaid—Ranthia could still break their relationship off if this was too much for her. And it was a lot, but the rational pieces of her understood the elf’s words. It was all but impossible for her to twist her mind into such an alien frame of reference, but she tried to put herself into Avyna’s mindset.
+
+Would she truly want to be consigned to relationships only with immortals her own age if she somehow lived for so long? And while their respective ages felt like an impossible eternity of difference… the difference became all but meaningless if they had met after another nine thousand, six hundred, and thirty-eight years.
+
+…It was a struggle to even imagine—the number wasn’t arbitrary, it was literally twice the age of the world. But she was immortal. Pallos would continue to exist as time marched on. And—with enough care and luck—so would she.
+
+As would Avyna.
+
+Heh, gods and goddesses, who was she kidding? Care and luck weren’t going to be enough to ensure her survival, but… Well, she needed to adapt to an immortal mindset, and this was a damned important moment to do her best to do so. Avyna was the greatest thing that had happened to her since… well, since her fathers. Was an unexpectedly large number seriously even remotely as important as that?
+
+“I…” Ranthia tried to form words she didn’t have yet with a predictable degree of success.
+
+May Xaoc smite that thrice-cursed bird that dared to associate itself with the divine—Ranthia would have traded almost anything just to be able to look into Avyna’s eyes! She had rarely hated her curse with such intensity—not since she last suffered through the sounds of battle and death while consigned to that horrible, filthy tent.
+
+Ranthia took a deep breath and tried to settle her mind before she accidentally actually prayed for Xaoc to strike down Thanatos’ chosen avatars. He wouldn’t do it—not for her—but she needed to keep her blasphemy to herself.
+
+Besides, she didn’t need to see; she had other senses.
+
+Ranthia had withdrawn her embrace from Avyna without ever even realizing it, but she was ready to carefully seek the elf’s delicate hands and hold them in her own. She felt their warmth and the complex textures of the woman’s skin. Every breath she took was infused with Avyna’s delicate, intoxicatingly familiar scent. And she didn’t miss the hopeful catch in Avyna’s breath.
+
+Ranthia needed to focus through her jumbled thoughts. In truth, nothing had changed. She had always known that Avyna had a greater wealth of worldly experience—even back when she had consigned herself to accepting that she could never be more than friends with the woman she was falling for. If she really thought about it, that wealth was just a little greater than she had expected. Nothing more had changed.
+
+Avyna was still Avyna.
+
+And Ranthia still loved her.
+
+She still wasn’t sure what to say, but her heart knew what to do. She pulled the elf back into her embrace and sought her lips. The time that they had lived might be different, but a good kiss was its own eternity—a time that existed only with and for the two of them. It was a kiss of reaffirmation—a promise that nothing had changed between them. Ranthia had just come to know the woman that she loved a little bit better than before.
+
+And that could only be a good thing, no matter how unexpected the knowledge was.
+
+Besides, she had always had a thing for older women, hadn’t she?
+
+“I’m sorry I worried you. If you’re still willing, I’m ready to learn about your Skills, my love.” Ranthia whispered when bodily needs for air finally forced their lips to part ways for a short while.
+
+She could only hope that adopting Avyna’s affectation meant as much to the elf as each and every ‘my love’ meant to her.
+
+“Thank you.” Avyna’s voice was rich with naked sentimentality.
+
+Not that Ranthia blamed her, she had shed more than a few tears herself. But she was happy to give her lover all the time that she needed to regain her composure. Ranthia didn’t even bother—she immersed herself in her emotions while she waited.
+
+“I am so near the completion of my sixth cycle, so do bear that in mind as I share. My Skills may have depth beyond your expectations. My stats favor my magic stats: magic power, followed by mana regeneration, then mana, then magic control. My physical stats are a lesser focus for me, but I prioritize them at vitality, dexterity, strength, with speed being my lowest priority.
+
+“My first class is [Multifaceted Merchant – Gemstones]. It has been a somewhat consistent companion for me across my cycles for my level 256 class, though its stats have steadily improved.” Avyna’s mood audibly improved as she started to share.
+
+Which made sense, Ranthia could hardly imagine spending so many years refining and honing her own classes. She was already fairly certain that she wouldn’t—and likely couldn’t—cycle, but Avyna had spent over forty-eight of Ranthia’s lifetimes improving, rather than progressing. There had to be more than a little pride in that, there was no way Avyna could have kept going without it.
+
+“I possess [Gemstones Authority]. I do not believe I need to get into discussion of it, you are familiar with the breadth of the Affinity Skills.
+
+“My first true Skill is one of my favorites: [Emerald Eyes of the Trader]. It allows me to see—so long as I have sufficient familiarity with the materials—exactly what an item is made out of. This is useful for seeing false goods and even lets me know the purity of purportedly valuable materials. And, of course, I am also fond of the effect it has on my eyes. The passive can be toggled, but in practice I rarely turn it off; I have sufficient mana that I rarely am bothered by the amount the Skill requires.” Avyna’s tone was bordering on outright bragging.
+
+“Wait, your green eyes are a Skill? What’s your natural eye color?” Ranthia could scarcely imagine her lover with different eyes—they felt just as intrinsic to Avyna as her horns!
+
+“You recall my daughter’s pale blue eyes? She inherited them from me.” Avyna playfully replied before she kissed the tip of Ranthia’s nose.
+
+“My next Skill can be summarized as [Calculation by Sight or Weight]. This allows me to more accurately tally things that I see or hold. It is mostly useful when someone gives me a handful of gems, so I do not waste both of our time counting them out to ensure the payment was adequate. When combined with my eyes, I am difficult to scam.
+
+“[Negotiation Without Barriers] is my variation of the standard [Merchant] Skill. …You do not have any idea what that means, do you, my love? Very well, in short, it is a Skill to enable smoother communication with other merchants. It works best when I interact with another [Merchant] with a similar Skill, but in essence, it helps to prevent unwanted misunderstandings during negotiations. It can even allow trade when there is no shared language. It also has merged effects from other social-focused Skills to assist with negotiating.
+
+“[Merchandise Monitoring] is an anti-theft Skill. It grants me greater awareness of my merchandise and gives me a fighting chance to notice thieves even through their own Skills. It also helps to preserve produce, making my goods resistant to spoilage and damage from transit.
+
+“[Gleaming Gems] is a broad Skill that enables me to—over time—purify and clarify gemstones by removing occlusions, prepare them to be charged, and it also assists my second class with cutting them. I may take an aura Skill on my next cycle that could potentially make this a passive effect while it also cleans gemstones within range.
+
+“[Mercantile Might] gives me a strength boost when I move my own merchandise. It is useful when I load up a cart or wagon, though I hope the Skill will eventually outlive its usefulness. By level or by class quality, I aim to no longer need the boost in the future.
+
+“[Universal Body Language] lets me understand and—in situations where my familiarity would be insufficient—match the body language of cultures outside of my own. It is a large part of why I came to Coalition City, not only for the opportunities that the Skill provides, but to raise it. It is my hope that, eventually, it will merge into [Negotiation Without Barriers].
+
+“Oh, I should have noted this for you, my love: once Skills merge during one cycle, it becomes easier for them to merge in the future. After a few cycles, I find that both Skills will start to have similar, broader effects. This is the case for many of my Skills.
+
+“And that concludes the current state of my first class.” At least she could hear the smile in Avyna’s voice, even if she couldn’t see it.
+
+Ranthia was no expert, but…
+
+“It sounds like it’s already a great class, one worthy of Pallos’ greatest [Merchant].” Ranthia gave her enthusiastic appraisal.
+
+“You are sweet, but I am not the greatest. There are those I must overcome, but I work diligently to do so. I shall make the current God of [Merchants] regret claiming that domain—even if it was before my time—before I ascend.” Avyna promised.
+
+“You aim for ascension, then?” Ranthia asked.
+
+“Of course, my love. I am all too aware of the danger involved, but I believe that I have a true chance to achieve it.” Avyna answered, as if it were something so obvious that she was surprised by the question.
+
+Level 4096 wasn’t the impossibility it had once been, but Ranthia still had no intention of becoming a goddess. She served Xaoc and existed for His sake first and foremost. She loved Avyna—deeply, it seemed—but that wasn’t enough to change the core of who she was. As nice as it sounded to ascend side-by-side with the woman she loved…
+
+Her fate was to remain on Pallos for as long as she could manage, until the day that she finally died. Only then would she discover if she had served Him enough to finally be worthy of becoming an angel at His beck and call.
+
+Still, it wasn’t worth raising that at the moment—it wasn’t worth derailing their conversation any further for a far-off concern. Ranthia sorely doubted that it was even possible to ascend in less than four thousand years from the point they were at, even if elves leveled faster than humans did.
+
+…Wait, how did—
+
+Avyna resumed speaking, which pulled Ranthia’s attention back from her own runaway thoughts.
+
+“My next class is [Enchanter, Engraver, Shaper – Arcanite]. I am… admittedly hesitant to cycle this one again, lest I lose [Arcanite Mastery]. I am unlikely to get an opportunity to work with such an impressive arcanite core again. But I am getting distracted.
+
+“[Arcanite Mastery] for this class, as I mentioned.
+
+“[Enchanting Enchanter] allows me to create useful enchantments. This Skill has already merged with my error detection Skill and—as of this cycle—the Skill that tied into my memory Skill. I can also power the enchantment directly while I create it, though it is usually best to create a connection to arcanite once it is complete.
+
+“[Arcanite Engraver] allows me to shape and form energy around my arcanite engraving tool. This allows me to easily engrave enchantments into wood, stone, crystal, or metal. In a pinch, I can even use this Skill using my own fingers, though a purpose-made tool is plainly preferable. I can also cut gems with it.
+
+“[Entwined Enchantments] allows me to connect and combine separate enchantments, which allows me to layer additional effects. This is still a complex and extremely advanced process—many [Enchanters] choose not to bother with it. But I believe that it will prove to be a valuable talent, once I truly master it.
+
+“[Arcanite Manipulation] is a bit misleading at this point, but it is the best translation I have. I can combine separate pieces of arcanite into a larger stone, reshape it—though not as finely as I would prefer as of yet—and even use my own mana to recharge it.
+
+“[Jewel of the Market] is my latest social Skill that I seek to merge. It makes it easier to entice potential customers to approach and assists me when I need to approach someone.
+
+“[Power Shunt] is a safety Skill. If an enchantment is damaged or proves unstable, I should be able to remove the mana from it before things… get messy.
+
+“[Crystalline Clarity] is the last Skill, and I hope to merge it into [Enchanting Enchanter] in the future. It allows me to clearly visualize and understand even the most complex enchantments and grasp—at least to some extent—just how different enchantments would affect one another with [Entwined Enchantments]. It also improves my focus while I work on inscriptions, at least a little. Though I fear that it could still be circumvented by a determined woman.”
+
+Avyna paused, presumably to eye Ranthia warily. At least that explained some of why Avyna chased her off every time she engaged in serious enchanting. Avyna was wise—not that Ranthia was going to feel guilty about it. Instead, she used the pause to steal another quick kiss and offered her lover an impish grin.
+
+Avyna huffed theatrically.
+
+“Sorry if this is a stupid question, but why weren’t you working as an [Enchanter] instead of a fruit [Merchant]? It sounds to me like it would have been more lucrative.” Ranthia asked before Avyna could resume.
+
+“Ah, there are… a few reasons.” Avyna sounded reticent, but she still continued to explain. “The first is that I, as I said, enjoy the breadth of contact that working as a [Merchant] grants me with other cultures. Coalition City was a rare opportunity for this. The second is that being a [Merchant] affords me more levels for my third class. As for the third… Well, I was not planning to hide the Skills from you, so I shall come out and say it: many of the enchantments that I know are stolen from other [Enchanters]. Selling enchantments to non-elves would have had me under quite a bit of… scrutiny, I believe is the word. Few [Enchanters] share what they have learned freely, and it would take every gemstone I have ever earned to acquire even half of my enchantments legitimately.”
+
+There was no pride in those words, they were as vulnerable as any Ranthia had ever heard from the elf.
+
+They truly were holding nothing back.
+
+Ranthia squeezed Avyna gently to reassure her that she wasn’t judging her or upset by this. Ranthia had never held a dim view of theft, at least so long as there was no better way and so long as it did not lead to someone suffering. Given that neither applied to her lover’s situation, her morality was just fine with Avyna doing what she had to. If anything, there was a certain admirable bit of chaos in taking from those that tried to restrain the flow of knowledge!
+
+Ranthia wasn’t biased, she was just in love. There was a difference.
+
+“My third class is titled [Protecting my Assets – Spatial]. Hm, the actual name is a bit… less direct than that. It is good enough. As the name suggests, this class is all about preserving my belongings and myself.” A note of annoyance crept into Avyna’s voice.
+
+Forced to truly listen and focus on her ears, Ranthia had to confront just how much of a struggle the language barrier was for the woman she loved. Subtle shifts in tone and in Avyna’s breathing denoted every last moment that the elf accelerated her perception to try to construct an acceptable sentence or translation. And the subtle hints of annoyance or exasperation that colored her words when she was displeased with the result after she began to speak it.
+
+The guilt was intense enough that Ranthia kept having to dismiss General Skill offerings for Skills to help her translate or rapidly learn languages—the idea was appreciated, but there was nothing she could spare in her current Skills!
+
+“I have [Spatial Authority] for this class.
+
+“[Spatial Safe Box] allows me to store precious items and the currency that I keep on-hand, so that no one can access them. I can store items with physical contact and retrieve them, but only so long as there is adequate room. The space is smaller than I would like—and worsened by another Skill—but it is atypically… resilient to others that might try to access it.
+
+“[Spatial Movement]. This Skill has little practical utility, it simply allows me to move objects without touching them, to varying effectiveness. When I am manning my stall or travelling, I often use this Skill to train the class. The experience it provides is minimal, but it adds up over time.
+
+“[Catch] allows me to capture a small incoming attack, such as an arrow or many types of spells. This Skill has its own spatial storage, though it requires both focus and mana to hold. This grants me a few seconds to either release the attack harmlessly away from my body or to use its companion Skill. I am less than fond that I must see the attack coming and wait until it is close to my body to even use the Skill though! It is highly unnerving, but it has saved me from harm more than once.
+
+“[Return] is the companion Skill to [Catch]. It automatically returns the attack that I captured back along the same path that it came to me from. Wait, no, that is incorrect—I got an upgrade this cycle that allows me to track the target and adjust its aim, so long as I can see them. It does not impart any more… momentum behind the attack, however, so it may not strike true.
+
+“[Hidden Hideaway] is my emergency Skill. It allows me to warp myself into a hidden pocket of reality—specifically my safe box. It is deeply unpleasant to spend time trapped in there, but it is a better option than being torn apart by beasts. This greatly limits the storage I can use for [Spatial Safe Box] since I must leave space for myself or I lose access to this Skill. Another flaw is that I am unable to see our world from within the box, thus I must use my own judgment for when to return. Another issue is that this Skill as of yet does not allow me to bring any objects with me that are not on my person. The prior cycle’s iteration of this Skill did not even include my clothing and personal effects—I am thankful that problem was resolved!”
+
+Ranthia inwardly pouted, though she kept it off her face. She had missed the time when there was a [And Suddenly Naked Avyna] Skill! But no matter how confident Ranthia was in keeping the pout internal—Avyna knew her too well.
+
+The elf gently bopped Ranthia with the side of a horn.
+
+“[Spatial Counter] is meant to help protect my wares. The Skill should activate any time someone attempts to use a Spatial Skill to teleport or move something within my range to negate the effect. In practice, I have still lost some goods even with this Skill active, so I am concerned that it may be defeatable without alerting me.
+
+“[Spatial Peek] is a Skill that supports my second class. It allows me to change the focus of my sight to any place within a certain range. I can use this to find misplaced goods, yes, but it is far more useful for seeing design documents that I was not meant to.” Avyna concluded primly.
+
+“Wait, wait, waaaaait! You gave me shit over [Vision of the Void], but you have a pervert’s Skill too!” Ranthia wasn’t going to even try to resist the opportunity to retaliate with some well-deserved teasing!
+
+“I would never! If I wished to see someone naked, no matter how [Sexy] they might be, I would simply ask to see them. It is remarkably effective.” Avyna swiftly retorted in entirely too stoic of a tone.
+
+Alas, Ranthia could only imagine the cute blush that had to be affecting the elf she so adored! White Dove continued to take things from her.
+
+“Mmhm, you never glanced into another stall while you were using one of those showers?” Ranthia still pressed her attack.
+
+“There would be no reason to, there are no stalls. It is simply an open area. …But very well, I apologize, my love. Shall we agree to not levy such claims against one another? I can always rile you up in other ways, after all.” Avyna was—at least audibly—unaffected and retaliated with playful teasing.
+
+So unfair.
+
+Also, Ranthia was suddenly glad that she never asked to accompany Avyna to the communal showers. Remus’ baths could be bad enough, but without the steam and deep water, she would see … everything—with elves no less. She would have been forced to stare at the ceiling the entire time!
+
+“I’ll agree, but only on the condition that I may have four kisses.” Ranthia magnanimously offered, completely devoid of ulterior motives.
+
+“Perhaps I can offer you some pointers for negotiating in the coming days, but for now… very well, I accept.” Avyna answered after a brief giggle.
+
+Ranthia had never expected to care about learning how to negotiate like a [Merchant], but she was more than willing to try anything that Avyna wanted to teach her. She could scarcely imagine a better way to spend her days—at least while the war continued to permit her personal moments of joy.
+
+No, don’t think about that right now. Ranthia chided herself—she had enough worries without inviting more.
+
+“On to my General Skills, I suppose. First and foremost is the skill that every elf requires and is encouraged to discover as soon as they are able. For me, it is [Chest of Experience].” Avyna began after their contracted kisses concluded.
+
+The lovely elf trailed off when she realized where Ranthia’s unseeing eyes had drifted. Ranthia could only giggle unrepentantly when Avyna playfully swatted at her.
+
+“I do not refer to those! This is my memory storage and retrieval skill. Immortals require one sooner or later, to prevent us from becoming ponderous or lost for ages in a flow of recollection. For me, it manifests as a vast chest of drawers, where I have my memories, experiences, and knowledge stored away. Wise elves take their first eight general skills related to their memory skill, then work to merge them together.
+
+“[Elven Enchantment] improves my use of magic, including my [Enchanter] work.
+
+“[Elven Experience] is a point of pride—I have met few other elves that managed to acquire this Skill evolution. It is a broad Skill that improves anything that I attempt to do, with greater benefits to any task that I have greater personal experience with.” Avyna enthused.
+
+Ranthia, on the other hand, was stunned—once again. Elves got powerful Skills just for being elves?! She had never seen a ‘human’ Skill! [Elven Experience] was, quite potentially, the best jack-of-all-trades Skill that she had ever even heard of, too.
+
+It… explained a lot and Ranthia’s brewing inferiority complex about her lover’s ‘talents’ was feeling somewhat soothed.
+
+“My next General Skill, I must gloss over. Apologies, my love. There are those that would respond poorly if I shared the details.” Avyna spoke the words in an oddly pointed tone.
+
+“I understand, love. I won’t pry.” Ranthia answered earnestly.
+
+There was a brief moment of silence before Avyna continued.
+
+“[System Perception] is my [Analyze] Skill, which functions similar to your people’s [Identify]. …Though I confess that I am somewhat peeved that your version is readily superior to my own.
+
+“[Worldly Navigator] is a traveller’s Skill. It allows me to know the direction of any important landmark that I am familiar with, so long as I generally know my current position.”
+
+Avyna paused in thought for a moment before she spoke.
+
+“I will bribe you to lie about my next Skill and ‘unintentionally’ share the falsification with my daughter.”
+
+“Oh?” Ranthia couldn’t help but to be curious.
+
+“I used to tell my daughter that I had a Skill called [A Mother Knows], which allowed me to see through any lies she told me. She once attempted to threaten me to force me to drop a Skill that never existed in the first place. But it is a convenient mask to cover just how well I know her. She will understand by the time she chooses to have her own children.” Avyna explained conspiratorially.
+
+Ranthia giggled.
+
+“I may not be a mother, but isn’t that a bit mean?” Ranthia asked.
+
+“Oh, my love, if I cannot tease my daughter, I would lose one of the ongoing delights of motherhood!” Avyna retorted.
+
+Fair enough.
+
+“Alright, but I should warn you that I am quite demanding when bribed.” Ranthia announced.
+
+“Of course you are.” Avyna played along. “My actual Skill is [Enchanter’s Eye]. It allows me to notice and disregard numerous common methods to obscure enchantments, such as false details that are not properly incorporated.”
+
+“My final General Skill is, as you no doubt figured out by now, [Make Ranthia Emotional]. It allows me—!”
+
+Avyna’s words were lost in a sudden gasp as Ranthia went on the attack, joined rapidly by three other images. Avyna tried to hold out, but after a few wonderful moments, Avyna—somewhat winded—called her surrender.
+
+“Okay, okay! My true final General Skill is [Eye for Character]. It works with my memory Skill to help me gauge people more easily and rapidly. To see who is good. To know who I can deal with. It is… a large part of why you caught my eye.” Avyna admitted once she caught her breath.
+
+“Aww, that’s so sweet!” Ranthia cooed with feigned innocence.
+
+After all, nothing about her current position—nor where her images’ hands still lingered—was innocent.
+
+“It sounds like something you hope to merge into a class Skill.” Ranthia noted.
+
+“You are correct, but perhaps not this cycle. And now that I am done, do remember that I am translating into your language, my love. I assure you, in my tongue the names have their own beauty, and I may have poorly described some aspects.” Avyna admitted, somewhat grudgingly.
+
+“I don’t doubt it. Surely the most beautiful elf in the world must have the most beautiful Skill names.” Ranthia immediately replied.
+
+Avyna made an adorable, pleased sound in response to Ranthia’s hopeless flattery-laden flirting and leaned closer.
+
+Ranthia met her lips happily. White Dove might have stolen her sight for the night, but her other senses were still sharp. And she was trying to become as capable as possible, even while blinded. Hunting’s ancient lessons may not have been intended to be so broadly applicable, but Ranthia had a life beyond conflict.
+
+And that was wonderful.

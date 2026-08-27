@@ -1,0 +1,189 @@
+---
+id: 73fbd06c-6cd3-507e-bfe2-a7074c076ce6
+page-type-slug: story-chapter-royal-road
+title: "v4c48: The Children of Tianlan"
+slug: 0062-v4c48-the-children-of-tianlan
+partOf: beware-of-chicken
+position: 62
+ownLength: 3029
+unit: words
+ownProgress: 3029
+publishedAt: 2023-10-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1367220/v4c48-the-children-of-tianlan"
+royalRoadId: "1367220"
+markedReadAt: "2026-06-29T18:53:30.607Z"
+---
+
+Ulagan Tarkhan, known to outsiders as Guo Daxian the Younger, felt almost drunk as he marched through Dueling Town with the Patriarch. It was a heady thing, to be part of such a vast host. To be able to feel the power of your kin as the world shook beneath your thunderous stride, marching at the van.
+
+It was good to finally be out and acting after all the talking. The months after the spring had been hectic in the Ravine, to say the least. First came Tarkhan’s ascension to the Profound Realm. Then there had been hours of talks as they caught the patriarch back up to speed on the state of the world.
+
+The Patriarch had meditated for three full days upon the information given to him. And when he emerged from within the sacred grove, he spoke.
+
+“The Earth has spoken. I have seen this Cai Xiulan in the depths of my meditations. Whatever gathering she calls, I know not the purpose… only that it concerns the entire Hills and the Earth itself. Be she friend or foe I do not yet know—but this gathering has the weight of destiny about it.”
+
+They were at the crossroads of fate. The Earth had returned to them, just in time for what was sure to be a heavens-shaking revelation.
+
+And now the Grand Ravine Sect marched. Marched with their true names bared for the world to see. Their drums thundered in an ancient beat and their banners soared high. Roars of Uukhai! thundered from their lips, half a battle cry and half praise for a god.
+
+The mortals, after the first brave soul who had approached them, retreated while the other sects came to bear witness. He could see the other cultivators watching them. The younger generation watched with undisguised nervousness, while the Elders counted the numbers, their faces grim.
+
+He chuckled. How galling it must have been to realise that the Grand Ravine Sect, already the strongest, had hidden the majority of its strength from them. They probably had no idea why. They probably couldn’t comprehend that the Grand Ravine Sect was enough for them and they coveted not the territory of other sects.
+
+Their Patriarch led them on a circuitous route through the town and inner rings. He seemed to be sensing something that Tarkhan could not, and it was not until they stopped in a square Tarkhan was intimately familiar with that it became clear. It was fixed now, not a trace of the battle remained, but here was where they had made their stand against the Shrouded Mountain Sect, and it was here where Master Rou had first revealed himself.
+
+The Patriarch paused and took a deep breath.
+
+“Hmm. There was power here. It lingers,” he whispered. Tarkhan knew the Patriarch wasn’t fully convinced that Mater Rou was the Herald of the Earth. He thought him a powerful man, yes, but he was skeptical. The man kept his eyes on the ground for a moment longer, then he turned and locked his eyes on the other end of the plaza.
+
+There, eight cultivators strode forwards, towards the host of the Grand Ravine Sect. They did not pause in their march at the army arrayed before them. They simply continued walking forwards.
+
+The first person his eyes were drawn towards was, of all people, Liu Xianghua. Long had he and his kin written her off as just another Imperial Young Mistress. A boor of a woman who was so stereotypical she seemed right out of a bad story. Beautiful, to be sure, but unworthy of any true Ravine-man’s time.
+
+His jaw nearly dropped to the floor when he realised what exactly she was wearing. He could feel the shock of his Brothers and Sisters as they too noticed, the sheer surprise of it breaking through their discipline and causing murmurs. Even the Patriarch raised an eyebrow.
+
+For the boring Imperial woman was wearing the colours of a northern tribe with dignity and grace so profound she was entrancing. While some of her dress remained Imperial, geometric designs and the cut of her sleeves were completely and utterly alien to Imperial sensibilities. The only remnant of her old clothes was the circle over her heart, displaying the misty lake of her Sect.
+
+But the headband she wore was what truly stood out. It had the same design as the one Xong Gou Ren and Xong Yun Ren had worn that year. And having a matching design could only mean one thing—she had been taken into their clan.
+
+Liu Xainghua had married one of their northern cousins—and contrary to the 'cold, boring Imperial' who would force her way on all she saw… she had taken on her husband’s colours and now outright advertised her allegiance to his tribe.
+
+Her head was high and her bearing effortlessly—but not arrogantly—proud, as befit a proper woman. Proud, forceful, and a savage beast in the defense of her home. All good men hungered for a woman with that kind of fire in her gut and steel in her spine. A man that wanted some meek creature was a shameful thing—it meant he couldn’t handle a real woman.
+
+And what a woman Liu Xianghua was. Had she not challenged the Shrouded Mountain Sect for Gou Ren’s sake? Had she not taken her entire sect to heel?
+
+Tarkhan cursed himself. He had eyes, but he could not see Mount Tai. To think that Liu Xianghua had turned out to be such a fine, loyal, and spirited woman!
+
+What a man his northern cousin was, to tame this most Imperial of Young Mistresses. He would have to buy the man a drink for his legendary feat.
+
+Rou Tigu marched beside her. The little firebrand had changed dramatically. She had been an amusing little thing before; Tarkhan had entertained her because of her relationship with the tribes and her genuine interest. Rare was the Imperial who had such ideas—rarer still those who exalted their tattoos as the art they were.
+
+In barely a year the little girl had budded into a young woman. Her hair was longer. She was half a head taller. Her eyes were sharper, and the baby fat on her cheeks had largely melted away, leaving only a stark, savage beauty. Her rough and raggedy gi was now pristine, with a maple leaf and rice stalk over her heart. Her bracers were masterworks, with carvings so perfect they appeared to be alive, the vines on the armor growing out of the metal. Around her wrists were thick lacquered prayer beads—the kind which devotees of the King of Ghosts wore when they beseeched him for justice. A rooster tail feather and what looked like two large, blue scales, completed the bracelet.
+
+She carried in her hands a flag that well could have been one of theirs. For sewn upon its surface were the characters for Azure—the old character for Azure. Tianlan. Again a ripple passed through the Grand Ravine Sect, and the Patriarch narrowed his eyes slightly.
+
+Directly behind Tigu was Spotted Delun. He rose, a hulking edifice of steel and stone whom Tarkhan had once taken to jabbing at as a rather fun pastime… a pastime that Tarkhan doubted he would resume. An octagonal piece of what almost seemed to be masonry sat prominently on the right side of his chest, an actively glowing character set in its middle. Each of the man’s steps had a weight behind them, not unlike Master Rou. The tenseness in his shoulders and the simmering, bubbling rage that had been amusing to provoke was utterly absent, leaving only peace and calm. He wore the same blue gi the others wore over most of his armor, with the Hermetic Iron Sect’s hammer and circle seal of longevity on his breast.
+
+Next came Loud Boy—Zang Wei. As had the others changed, so too had 'Loud Boy’ grown, to the point where he could never be called a boy any longer. A Rising Dragon was more appropriate… not that Tarkhan would ever say it to his face. The brat was growing into a handsome bastard, the kind that had women pining over them. Before, the kid had swaggered about with false confidence. Now, that confidence was real. Over his heart was what looked like a depiction of a fortress.
+
+Dong Chou was beside him, his easy, unhurried gait as irritating as his smirk. He was still a raggedy bastard—but where once Tarkhan had paid him no mind, now he was forced to acknowledge him. He too bore a fortress upon his uniform.
+
+Then came the two Tarkhan knew only through rumour… but they both bore the same symbol Tigu did, and thus they must be connected to Master Rou. And since it was so, only a fool would dare underestimate them, no matter their appearances.
+
+One, Fei the Rooster, was a young man wearing a spectacularly crafted rooster mask. Tarkhan had to admire the artistry of it. The kid had good taste… but he seemed like the least of the party.
+
+The other one was a stunning woman. Liang Yin, he’d heard her name was—a silver, ethereal fairy who seemed like a stiff breeze would knock her over. Her stunning, aristocratic features suggested a woman who was not of the physical arts.
+
+And yet every rumour had her punching down walls and gates, or grappling and breaking those that dared to get within her reach. Tarkhan could barely believe it… until the woman noticed his state, and the beautiful, serene face scrunched up into the most thuggish sneer Tarkhan had seen outside bandits. His eyebrows raised as he saw her mouth a few words.
+
+‘The fuck you lookin’ at?’
+
+Tarkhan nearly laughed at the disconnect between her appearance and her quite… fascinating  personality.
+
+And then… there was one he had left last to examine. He had avoided looking at her because if he truly took her measure… he felt he would be utterly entranced.
+
+He forced his eyes upon their leader.
+
+At their head could only be Cai Xiulan. She was an orchid in full bloom, as befitting her name. A pattern of golden thread stitched out several falling maple leaves descending from her right shoulder. Over her heart she bore the five Grass Blades of the Verdant Blade Sect. Her clothes were as vibrant as she was. She radiated a kind of vitality and life. Her long hair was pulled into a braid that hung down to the middle of her back, and it swayed gently in the breeze. Her eyes were serene, and a little smile graced her face even when beholding the might of the Grand Ravine Sect. Her steps were utterly unbothered.
+
+It should have angered Tarkhan that she was so utterly relaxed, leading a group of eight up to four hundred of their number. Yet instead, terrifyingly, it just seemed natural; like waltzing up to their host was just another day for her, and she was expecting them to offer to escort her to the Dueling Peaks themselves.
+
+Even more worryingly, Tarkhan didn’t know what would happen if she actually did ask them for an escort.
+
+Her eyes. Those Tianlan blue eyes. They were utterly bewitching.
+
+Tarkhan sucked in a breath and forced his beating heart to calm… and steeled himself as Cai Xiulan kept walking forwards, seemingly intent on confrontation.
+
+Tarkhan let out the breath. They had four hundred cultivators. What could these eight do if it somehow did come to a fight?
+
+Cai Xiulan and her companions strolled forwards. Past the halfway point of the plaza. Past the repaired fountain. Past where Tarkhan himself would have been comfortable until she was standing what would normally be considered a ‘polite’ distance that, for some reason, seemed far too close; like she had breached the gates of their castle and now stood before their Sectmaster without a fight.
+
+“Cai Xiualn pays her respects to Ulagan Baatar, Patriarch of the Grand Ravine Sect,” the woman intoned, bowing. It was a simple action, but she somehow made it seem like it was more elegant than it was… and it was again, the polite distance to bow.
+
+Against a man in the Spiritual Realm, even the elders of other sects would have been parallel to the floor instead of the normal etiquette.
+
+The Patriarch's stern gaze bored into Cai as she rose back up. There was silence for a moment, and then he spoke.
+
+“You have guts, girl. I’ll grant you that,” the Patriarch declared. “Especially bearing that flag before the Grand Ravine Sect.”
+
+Cai Xiulan inclined her head and pulled a fan from her sleeve. Like a court lady she opened it in front of her face. The fan was green on the outside with what looked like a white jade interior, run through with golden cracks.
+
+“This Cai Xiulan thanks the Patriarch for his praise—but she sees no reason why bearing the flag of her home would be gutsy. I have as much a right to this flag as you.”
+
+“Oh? You dare think you have the same right as us?” the Patriarch demanded. Tarkhan felt his own ire raise. An Imperial saying they had just as much of a right?!
+
+“Indeed. We are more the same, than we are different, after all.”
+
+That was the last straw. The Patriarch’s Qi, in the Spiritual Realm, slammed into being. Tarkhan added his own fury to the Patriarch’s. They were nothing alike, the Imperial bastards!
+
+The rest of the Sect snarled in outrage behind him.
+
+“We are little alike, girl.”
+
+The Patriarch gathered their own contempt and rage, adding it to his own; The cultivators before him were about to feel the wrath of their people made manifest.
+
+The Patriarch took in a breath… and then he unleashed his power. Their power.
+
+The Grand Ravine Sect qi itself took form in all its beauty. Yet instead of Tarkhan’s home, this was how the Imperials knew it: a yawning chasm that could swallow entire armies and eat a thousand cultivators without noticing. The chasm advanced forwards, its depth and looming walls threatening to crush the life out of the ants before them.
+
+Tarkhan felt a bit of worry take hold in his breast. Master Rou was a mighty man. He was a Master of the Cloudy Sword Sect. He could kill them all for the insult of focusing their intent upon his daughter like this… but a man had to have something he stood for—even if standing up for it meant his death.
+
+Tarkhan would have no Imperial spitting on the blue sky of Tianlan.
+
+Cai Xiulan’s once smiling eyes turned hard. The crushing vastness of the chasm met the Grass Sea. Vast, rolling fields appeared, verdant and beautiful. Their roots anchored deep, and the cracking slowed.
+
+A snarling tiger, a fierce heron, a proud dragon, and a ragged-looking soldier who had golden leaves growing out of his body waded out of the grass. They glared at the chasm and the cultivators crafting it. A blazing sun and small rivers flowed through the grass, reinforcing and strengthening the field of green.
+
+The Patriarch’s eyes narrowed. “Uukhai!” he roared, and the world trembled and cracked as the Ravine burst forth. Tarkhan felt the pulse as he called upon a treasure of their Sect. Tarkhan nearly spat blood at the realisation. Forget the First Stage of the Spiritual Realm—his had to be might in at least the Second Stage!
+
+Their opponents responded in kind.
+
+Cai Xiulan, Rou Tigu, Liu Xianghua—Fourth Stage of the Profound Realm.
+
+Tie Delun: Third Stage of the Profound Realm.
+
+Yin, Wei, Chou: Second Stage of the Profound Realm.
+
+Fei, in the Fourth Stage of the Initiate’s Realm.
+
+It went against all common sense of the world to Tarkhan.
+
+The beasts and soldier roared and smashed their legs as one into the ground, causing a landslide that filled in the chasm.
+
+The chasm attempted to tunnel under this assault—and instead met marble and steel, the sturdy elements holding firm.
+
+The chasm made the land quake as it thrashed and spasmed, trying to force its way into the grasslands… and yet…
+
+It couldn’t.
+
+The Patriarch should have been able to crush them. He was a full realm above them and bore the will of four hundred cultivators upon his back. He should have been able to cast all eight aside, like a cultivator casts aside a mortal. Yet even the weakest of them, his legs trembling slightly, stood firm.
+
+Eight cultivators stood before the Patriarch of the Grand Ravine Sect.
+
+And matched him. Stalemated him.
+
+“Very well then.” The Patriarch’s voice was as grim as his face. “If you think us alike, tell me how, Cai Xiulan.”
+
+Her face still hidden behind her fan, Cai Xiulan spoke. “We are indeed alike; for we both carry on some of Honoured Ancestor Chengis Altan’s will.”
+
+The Patriarch staggered. The Ravine snapped out of existence, taking all of the damage with it. Tarkhan’s jaw dropped.
+
+An outsider knew their most honored ancestor. She knew him by his true name.
+
+An outsider said she carried on his will.
+
+Such a thing should have warranted death.
+
+Yet Tarkhan was forced to acknowledge that this woman… she thought she was telling the truth.
+
+“This is the reason why I called upon all the sects. This is why we all have gathered. Like you say: The Earth Speaks. I have listened, and now I ask you to listen,” she stated, her voice reverberating around the plaza.
+
+The Patriarch stared at the sheer audacity of this woman. And then, instead of striking her down… he took a breath and nodded. “The Grand Ravine Sect will listen.”
+
+Xiulan closed her fan and graced them all with a smile. “Shall we continue this meeting elsewhere? It's impolite to stand around blocking the roads.”
+
+“It is indeed impolite. Allow this old man to escort you, for all the trouble he has caused.”
+
+They fell in beside each other as they made their way towards the Dueling Peaks and towards the dumbfounded spectators.
+
+Tarkhan took some solace in the fact that they looked just as utterly befuddled as he felt.

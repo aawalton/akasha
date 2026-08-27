@@ -1,0 +1,191 @@
+---
+id: cffc0fa0-4823-5bfb-8f11-c78f38d86bfc
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 27 - Interlude – Sylphene – Beneath the Dragon’s Eye I"
+slug: 0084-book-5-chapter-27-interlude-sylphene-beneath-the
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 84
+ownLength: 4840
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3628782/book-5-chapter-27-interlude-sylphene-beneath-the"
+royalRoadId: "3628782"
+---
+
+Aside from a handful of positive moments of culture shock, the elf that was calling herself Sylphene could hardly claim to be enjoying her time spent amongst the oft-seclusive devils. So many of her expectations and plans had gone awry…
+
+Magnate Ryx was supposed to be one of the wealthy sorts that prized the collection of greater wealth and power. After all, such greed was not uncommon amongst immortals that grew wealthy enough to gain a degree of detachment from the world. It should have made him predictable. It should have made him easy to manipulate.
+
+But Magnate Ryx defied her expectations again and again. Diamonds and rubies had utterly failed to sway the man. Even the offer of every secret to the elven art of enchantments that she knew—something she assumed to be invaluable—had failed to rouse his attention. It was only when she was forced to beg for the most minimal amount of assistance that she could possibly accept that he finally paused and looked her way once again.
+
+He considered the sight of a proud elf on her knees, pleading desperately, to somehow be more valuable than her secrets! Though, unsurprisingly, he took those as well. She had offered them, after all.
+
+Still, no matter how… ridiculous her initial negotiations proved to be, those with any devil other than Ryx went far more smoothly. After all, she had an advantage that no one could have foreseen: her time spent with the book of the nation’s tax code. It was absurd, but Ranthia’s gifts continued to save her. First, the woman’s unconditional love brought Avy—no, she could not allow herself to use her former name, not even in her own thoughts—from the brink. Second was the purium pendant, which quite literally saved her from an agonizing death. And without that book that should have never existed outside of the devils’ nation, Sylphene was… less than confident that she would have found any measure of success.
+
+The tax code itself was of little value—all that its rules directly offered was an explanation for why she would not be expected to pay taxes. The book’s true value came from what it taught her about the foundations of the devil’s laws and codes, and how their use had been shaped by their society.
+
+Superficially, the nation was controlled by a handful of powerful [Merchants] that ran the entire place as a business. That was the elven conclusion, and like many simplified statements, it was dangerously inaccurate. In truth, magnates like Ryx wielded little authority within their own nation, they were noteworthy only as the devils that were allowed to present themselves to the outside world. Yes, Ryx and the others were wealthy, but their authority ended at the outer walls of their own estates.
+
+The fact that Ryx’s estate was a sprawling complex that housed a full-fledged city was (somehow) beside the point.
+
+Instead, the true power of the devils rested with the people. Each and every devil was truly equal in a way that not even the elves could claim. The foundational code that formed the bedrock that the devils’ entire legal and mercantile system had been built upon required that an hour of labor from anyone carried the exact same value, regardless of level, field, or skill. It was nonsensical and it should have been unworkable, yet the code had withstood the tests of time. The code had been established long before the elven Council became ‘Unchanging’ and it had endured every challenge without becoming altered or lessened.
+
+That was why the nation remained nameless. It was a nation of people, and no individual or group had the right to force a name onto the rest. Similarly, their government was nothing more than individuals contracted to provide a specific service on behalf of specific constituents (or organizations), for a specific period of time.
+
+One of the most shocking things about their society was that enforcement provisions were rarely included in any contract. Even in the laws and codes, the enforcement of honoring the terms found in contracts was covered only in the broadest of strokes. After thousands of years of cultural pride, it was generally expected for every devil to follow the terms of their agreements.
+
+And if the tax laws had a mere three total examples of devils that fell short of their obligations, it was unlikely that ordinary agreements would create many issues.
+
+The context helped to explain some of what she had discovered through interacting with the devils that lived within Ryx’s compound. First and foremost, every contract had to specifically invoke which codes it would include. The codes themselves were a fascinating bit of cleverness; each code was, effectively, a set of rules that decided how contracts would be read and interpreted. Where codes and the contract were in conflict, the contract’s terms were to be used, but the codes guided any questions or ambiguities. Of course, the modern codes were both dense and complex, but in the tax laws Sylphene had found superior candidates for her needs: older codes that were straightforward and weighted to favor those with less bargaining power. A group that included individuals such as an outcast elf that was, admittedly, somewhat out of her depth.
+
+Her second advantage was unexpected. But it took little time to learn that the devils considered accepting a contract without negotiating to be the highest form of rudeness. She could almost follow the logic—to accept a contract outright was to treat it as unimportant, as if she was insinuating that the devil’s time and services were beneath her attention. It was still strange, but it meant that it was expected for her to change terms and substitute which codes the contract should be guided by. Far from being offended, almost every devil that she was forced to interact with was pleased to see her negotiate.
+
+At least [A Merchant with Luster] got a lot of mileage out of living among the devils. That said, being a [Merchant] was her career, and it was outright exhausting to never be able to just… stop for a while. Every last interaction she had demanded some form of contract—verbal, at a minimum. To employ the services of one of the [Maids] that worked in Ryx’s estate required a contract, yet to clean her own space also required her to negotiate with the [Maids], as she was taking work from them! Each meal was a contract. Certain social interactions required contracts. And her own contracted labor required her to enter into contracts with multiple other devils as well!
+
+Grimy gemstones! Her fondness for contracts and agreements eroded a bit more each and every day.
+
+Ryx’s ‘benevolence’ gave her access to a one-room guest house free of charge for as long as she remained, which included two simple meals a day and a bowl of soup at noon. For everything else, Sylphene needed to manage her own affairs. Which meant she needed to negotiate time and time again.
+
+Per her host’s… request, she spent much of her time working with [Enchanters] that lived within his estate, teaching them what she knew. Fortunately, she was allowed to charge for her time, though the good news ended there. There were foundational differences between elven and devilish enchanting, and she struggled to adapt enough to bridge the difference. More annoyingly, each [Enchanter] had a unique style—and two of them resented her efforts. They still contracted with her and indulged her, of course, but she truly could have done without the snide commentary!
+
+Compounding her frustrations was the simple fact that Sylphene had dramatically underestimated the burden she had pledged. Once she got a feel for the [Enchanters]’ levels and experience, she had expectated that she would require a season—two at most—to impart all that she had learned to them. Instead, she spent just over two years working with them until she felt that she had done all that she could do to further the techniques of each of the seven.
+
+Well, all she could reasonably do. Retraining them from the ground up was never an option, not truly.
+
+When each day ended, Sylphene dragged herself back to her borrowed home. There, she recorded her thoughts and hopes into her journal in the form of letters written to Ranthia that would never be sent—letters that were signed with her true name, the only place that it was allowed to persist outside of her heart and her System. She wrote each tender letter with every bit of elven grace she possessed, careful to never leave the tiniest indention on the paper. And each time she closed the journal, the enchantment that she wove into its cover purged the ink from the scant pages that were bound within. The words had to exist solely within her memories, but the physical act of writing to the woman that she had pledged her heart to genuinely helped her to accept the life she was forced to live.
+
+The eighty years they would be apart dwindled to seventy-eight by the time Sylphene was ready to pursue her true objective. Her [Merchant] class was hardly the only one she intended to reset. If she was ever going to truly accompany Ranthia, she needed to become far more capable of violence. And her Spatial [Mage] class was by far the best candidate. Unfortunately, her enchantments could only do so much to bridge the gap, especially as it widened with time—she needed a true combat class.
+
+But to become a combat-oriented Spatial [Mage], she needed both levels and training. And there was one place that could provide her with both as well as the necessary experience to truly make the most of her newfound direction. The elves believed it to be lost, however…
+
+The devils had the means to access the Dungeon. The tax laws mentioned it by name, and she had heard the whispers amongst the combat-oriented individuals and organizations that lived within Ryx’s estate. The magnate sponsored and/or contracted with more than just [Artisans], [Merchants], and [Laborers]—there were promising talents in the art of violence as well.
+
+Sylphene just needed to find some people that were prepared to face the Dungeon. And negotiate with them until they agreed to take her as well, of course.
+
+There were few records about the “land bridge” that provided crossing to the northern continent. Ancient elves had traversed it, but it was the devils that settled the land well before she had ever been born. Describing land that no elf was expected to see again—unless things went very wrong with the cold hostility that lingered between the devils and the elves—was never a priority. As such, Sylphene had created her own expectations. After all, the term itself provided a certain framework. “Bridge” implied narrowness and land suggested dirt and rock.
+
+The truth was stranger than that.
+
+The “land bridge” was a complete misnomer. There was a protrusion of land that invaded the ocean’s territory, followed by a series of islands of varying sizes. In ancient times people presumably swam—assuming there was never a true land bridge that had been sundered by some powerful classer—but someone had constructed durable and very robust wooden bridges over the water to allow traffic to move along the islands as they made their way north. They were some of the most impressive bridges that she had ever seen—broad and designed to endure even the primal fury of the ocean itself.
+
+Sylphene had joined with five devils that referred to themselves as the “Sisters of Strife,” a name they clearly earned through how often and how bitterly they argued with one another. The group was composed of four women and one man—who dressed like his fellow sisters, yet self-identified as a male whenever he spoke of himself. Each referred to the others as “sister,” though Sylphene was still unsure if they were actually related or just chose the name as an affectation.
+
+Given the undisguised sounds of passion that emerged from the other tents at times, she assumed they were not literally siblings. Yet she knew better than to trust such assumptions, nor was she curious enough to embrace crassness and ask.
+
+Moving on from those thoughts… Unlike most elven caravans or groups Sylphene had ever travelled with, they made good time as they moved toward the northern continent. They broke camp bright and early with a rigid adherence to routine and ate light fare while they continued their journey and only prepared camp a short while before sunset, unless the topography forced them to stop early.
+
+Their largest issue was that access to water was unreliable. Sylphene had prepared spatial storage cases for each of them, which helped to offset the issue, but it was vexing to be forced to ration their water while they were surrounded by so much of it! Unfortunately, none of the devils had a Water-aspected [Mage] class or any other Skill that could remove the harsh salinity from the bountiful ocean, nor was she familiar with any enchantment that could do so in a single night. There were a few islands that possessed sources of freshwater, but they all too often relied on luck—be it rainy weather or a helpful mermaid.
+
+Still, recklessly poor planning aside, they managed to endure until they reached the northern continent. That night, Sylphene struggled to rest—her gaze incessantly wandered toward the jungle that waited beyond the serene beach. She had heard a thousand and twenty-four stories about the northern continent. Many of them were unfair—even dragons could be found living in the southern continent that had long been her home—but it was true that the elves had tried and failed to establish a city there, long ago.
+
+And that failure gave the land a mystical and dangerous allure.
+
+“Alright, listen up. Of the five—six, sorry—of us, I’m the only one that’s been here before and I need to explain what’s about to happen for the next few days. So, gather ‘round, shut your noise holes, and actually listen because I don’t want to get killed because of some knife-eared jackass.” Malista announced, glaring at Sylphene the entire while.
+
+The woman had been the only one to vote against taking her along and she never, ever let Sylphene forget it. She was also the highest level of the group, at 984. Her primary role was defensive, despite the presumed implications of the absurdly massive sword that she wielded.
+
+“I’ve been up this way once, to the Hub at least.” Nangyna, the male wearing a dark steel bustier and matching armored skirt, chimed in. He was one of the two [Mages] in the group and specialized in both Pyronox and Mountain. And at level 780, he was the second weakest person in their group by conventional metrics.
+
+“Good. In that case, shut your noise hole and listen, because I refuse to just assume anyone else did anything correctly. We’re about to enter the domain of Drx’tharan, the Sun-kissed Slaughterer. Yes, for those of you who lack basic knowledge, he’s a dragon. He isn’t hostile toward our kind, and we want to keep it that way. We’re detouring to leave offerings for him—that was why I told you to bring some baubles, Knifey—before we proceed. If you see a strange bright light or a draconian shadow overhead, do not look. Our host is a Radiance specialist and I’m not turning around just because some tourist blinded herself.
+
+“If—and I mean if—he deigns to approach us, I expect everyone here to venerate him. This is his territory and he could erase us all if we test his patience. He has allowed devils to pass through his territory for over two thousand years, and we are grateful.” Malista punctuated her final words individually, with as much vigor as she could muster.
+
+Sylphene joined the chorus of acknowledgements once the other devils spoke up. Malista had never given them permission to speak, but the group was… surprisingly casual with one another, at least by the standards Sylphene had gotten used to since she crossed the border.
+
+As for the dragon, she was hardly surprised. The northern continent was sparsely populated, which resulted in monsters and other dangers that were far beyond their level. The only way they could travel safely without thousands of levels was to move through the territories of even deadlier threats—namely the beings that would both tolerate their presence and have the necessary might to tame a slice of the wildlands.
+
+“Oh, one other thing—don’t attack anything here. Even if something nasty comes after us, we’re running. Killing any of our patron’s flock is an absolute last resort and if it happens, we must make up for it. Sister Drastica, that means put your weapons away unless I specifically tell you to arm up.” Malista glared at their notoriously twitchy hybrid [Warrior].
+
+“Fine. Just don’t come crying to me when Black Crow reaps us.” The woman in question shrugged as she gave her flippant response, unshouldering her bundle of javelins afterwards. The [Warrior]/[Mage] had been the one to initiate almost every combat encounter they had faced. Granted, her unrelenting bombardment of—for someone at level 739—powerfully accelerated javelins was great for breaking through the defenses of even the toughest monsters, but it was something of a relief to know that no additional unexpected fights would be triggered without warning.
+
+The woman’s Skill-improved senses were a touch too honed.
+
+“Sister Endera, you’re with me if anything does attack. Debuffs only; I’ll call to disable it if we have no choice.” Malista concluded her speech there, apparently, as she stood back up from her crouch.
+
+“As you command, sister.” Endera chirped her agreement with a solemn nod. At level 830, she was just behind Sylphene’s level. She too was a [Warrior]/[Mage] hybrid, though she specialized in melee with hit and run tactics, applying escalating debuffs as she slipped in and out of range.
+
+Bialldra had never said a word during the entire session, though that was rather typical. The level 899 [Mage]’s entire repertoire of noises began with a disgruntled “meh” and ended with surprisingly shrill cries of passion, with precious little in between. And her contributions to battle were… messy. It was obvious that she lacked both the levels and the stats to properly utilize the spatial distortions that she wanted to use in battle, though she still tried her best. Which of course made it extremely dangerous to be downrange from her.
+
+Sylphene, as usual, fell in behind the group as they made their way into a tunnel that had seemingly been formed by melting directly through the mountain. There were no forks or branches to the cylindrical tunnel, it was simply an unerringly straight line that led to sunlight at the other end—almost certainly created by the dragon lord that controlled the region.
+
+They were just over halfway through the tunnel when they heard the first roars. Fury and pride in equal measure, formed into such powerful sounds that the mountain itself seemed to shake around them, dislodging a few glassy fragments of stone from the tunnel. Sylphene and the devils hesitated, then Malista broke into a sprint—forcing everyone else to follow.
+
+Unfortunately, she was running the wrong way. What sort of facetless fool ran toward what were, quite clearly, the sounds of two dragons locked in battle?!
+
+Sylphene emerged from the tunnel to witness a scene carved from the nightmares of her ancestors. A mere moment after she cleared the tunnel, the two dragons slammed into one another with such force that the [Mages] of her group were thrown backwards. Sylphene herself stumbled—only Malista remained unmoved by the ferocity of the impact. And they were still well removed from the dragons. There was enough distance that, without the benefit of their vitality (and superior elven eyes), both of the apex mysticals would have been mere dots in the sky!
+
+Please, if you have any say in the matter, do not allow either of them to notice what I am about to do. Sylphene sent the prayer on terror-filled impulse before she activated [System Perception] and directed it at the two dragons. She did what she could to keep the ‘impact’ of the Skill as indirect as possible, relying on a blend of her senses. It was recorded that dragons often had some means to sense attempts to [Analyze] them—but she had to know what they were facing.
+
+[Drx’tharan, the Sun-kissed Slaughterer], level 3071, was the larger of the two dragons. His scales were a vibrant and elaborate pattern of yellows, oranges, and reds—as though he were the sun itself, manifest in flesh. Golden jewelry hung from his claws, though much of it had been utterly ruined by the battle thus far. For the moment, the dragon seemed hale and unharmed, not that his unblemished state lessened the fury that radiated from his body.
+
+[Vex-tanax, the Platinum Pride], level 2690, was the challenger. As the name implied, their scales were a pale silver color that shone in the light of the midday sun. They wore no ornamentation, aside from the conjured Inferno that coated their fangs and claws.
+
+“What shall we do, sister?” Bialldra spoke a complete sentence for the first time since Sylphene had met the woman.
+
+And yet, Malista seemed to have entirely missed the rarest of sounds. Instead, she took an awed step forward as she watched the dragons circle one another.
+
+“No… Not now…” She whispered, so quietly that she seemed to fear either dragon hearing her.
+
+The dragons immediately ceased their posturing and resumed their battle. They were both fast. Dragons were the apex of existence—the final masterpiece of the creator gods. Just as elves were the perfected form of the elvenoids that preceded them, dragons were the perfected form of the mystical creatures that the gods had moved on to once the elves had been crafted. Even with her elven perception, honed by her modest vitality, Sylphene could barely even make sense of the battle.
+
+The dragons barraged one another with minor Skills and spells, each too weak to meaningfully injure the other. They were mere probing strikes. Any one of them could have struck Sylphene down with certainty, yet hundreds of them were exchanged with every moment that passed.
+
+And then, the time to test defenses came to an end, and the dragons got serious. Drx’tharan unleashed four beams of concentrated Radiance, each so dazzling that they seemed far thicker than they truly were. As expected of the element, there was no travel time—all four tore through the mountains that surrounded the lush jungle that comprised the dragon’s territory. Yet, despite the instantaneous nature of the attack, none of them so much as touched Vex-tanax.
+
+“Prisms… The challenger must have a Radiance element too—or Spatial.” Sylphene voiced her suspicion, wishing she had more speed. She had spoken as swiftly as she could manage, yet another dozen exchanges had passed between the dragons before she could finish!
+
+They needed to leave! By the spires, they had to get clear. Had any of those beams passed over them before they were cancelled, all six of them would have been annihilated instantly! Even the follow-ups would have reduced their numbers!
+
+By the time Sylphene finished her thoughts, Vex-tanax had managed to swoop higher into the air and soared above the lord of the domain. Once they had the advantage of altitude, they counterattacked with the staple attack of dragons—a blast of dragon’s breath. Moments before the Inferno-aspected mass made contact, Drx’tharan glowed vibrantly and vanished—reappearing adjacent to the challenger as he tried to grapple the smaller dragon.
+
+Inferno was not an instantaneous element, unlike Radiance, but there was still no time to react. Even with her perception at its limits, Sylphene’s body was too slow to move. Instead, Syl—Avyna, in her final moments she denied the deception!—turned her half-formed thoughts to the woman she loved, unsure if she was trying to silently apologize to Ranthia, or if she just wanted to call to mind her beloved’s face. One last time.
+
+The Inferno would miss them, but it was a close thing, especially at the scale of the attacks. The dragon’s breath strafed through a section of the jungle, before it swept up the mountains, a mere six peaks away from where they stood. The heat was too much to bear—she desperately shut her eyes as she felt agony seep its way into her skin.
+
+And then the heat was gone, as swiftly as it came.
+
+Sylphene had absolutely no explanation for it. A space six mountains wide was just gone—a shallow trench left in their place. It should have been too close for any of them to survive, yet there they stood. And all that Sylphene had suffered was a light reddening of her skin and a few mundane heat blisters. The others were largely the same, though Nangyna had suffered the most with his dismal vitality—there was true charring on sections of his exposed flesh.
+
+Still, they were alive and Malista’s and Endera’s Auras would be sufficient to tend to their inexplicably mild wounds. Even the jungle seemed to have endured the dragon’s breath far better than she would have ever expected. Much of the undergrowth was gone, but the trees still stood, with the bulk of their leaves intact, no less—which made the stink of burning leaves that filled the air even stranger.
+
+“We must leave!” Sylphene was never one to hope for a miracle twice in a row. And just in case, she sent her gratitude to her beloved’s deity. She was somewhat relieved when He declined it—she was uncertain of what she would have done had He directly intervened to save her.
+
+“Sister, please!” Nangyna seemed to be on her side, but Bialldra and Endera grimly looked to Malista, awaiting her instruction.
+
+Drastica had rearmed herself and held a javelin ready, as if she seriously expected to be of meaningful assistance to a battle between tyrants that possessed several times her own level.
+
+But before Malista could answer—assuming the woman even would have ever answered—the world turned white as all six of them were forced to shield their eyes. Even Sylphene could barely endure enough to make out Drx’tharan’s attack. His dragon’s breath felt as though it bore the sun’s total ferocity, compacted into a dense, blazing pillar of Radiance. And yet it was merely the first volley of the high-level dragon’s attack.
+
+Behind the dragon’s breath was a copy of the dragon himself—one wrought from Radiance that was undoubtedly just as potent as the breath itself. It was diving toward the would-be usurper with its claws bared.
+
+And the true Drx’tharan was right behind his attacks, with his fangs and talons ready to meet the younger dragon, in an uncanny mirror of his deadly doppelganger.
+
+A somewhat cursed thought, in retrospect.
+
+Neither Radiance attack was quite as instantaneous as the beams had been. They were swift, to be certain, yet had Drx’tharan not been in such close proximity to the upstart, Vex-tanax might have been able to evade.
+
+Not that they even tried. Instead, their scales became far brighter.
+
+No.
+
+They became reflective.
+
+Drx’tharan probably realized the danger, but it was far too late. His dragon’s breath touched the Mirror coated scales and were absorbed—followed by his doppelganger. Vex-tanax screeched in pain—assuming Sylphene was appropriately parsing the myriads of bestial sounds that dragons were capable of—though they endured and returned the Radiance in a powerful directed pulse.
+
+Dragons were notoriously difficult to burn. Some stories claimed that only a dragon could burn another—others extended the feat to other sovereigns of flame, like the phoenix. And there was no doubt that Drx’tharan had resistance to his own element.
+
+None of it was enough.
+
+Scales blackened and crumbled. Precious dragon’s blood—a treasure of such value that Sylphene could have lived like a queen for thirty-two thousand years with a mere vial—filled the air and rained down upon Vex-tanax.
+
+And then, once again, the dragons collided. The impact was greater than before—the jungle deformed beneath the dragons and the shockwave tore through the entire region. Malista planted her sword on sheer instinct, blunting the impact for their group with her defensive Skills. It just might have been the only reason they avoided casualties, given how the mountains themselves cracked and shuddered behind them.
+
+But it was hard for Sylphene—for any of them—to take their eyes off of what they were about to witness.
+
+“No…” Malista reached out with a hand, as though she hoped to somehow alter what was happening. She was much, much faster than Sylphene was.
+
+She was nowhere near fast enough.
+
+Drx’tharan—lord of the domain—had been dazed by the retributive fury of his own Radiance turned against him. He scarcely even resisted as Vex-tanax’s blazing claws tore through his ruined scales. And he rallied himself far too late—his eyes refocused a mere instant before his adversary’s fangs tore through his neck.
+
+And with that, the two draconic titles in Sylphene’s senses became one.

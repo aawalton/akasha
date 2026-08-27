@@ -1,0 +1,173 @@
+---
+id: 9429e33f-4814-5b51-b3d7-a0ef8fe935a5
+page-type-slug: story-chapter-royal-road
+title: "v6c52: Inching to Spring"
+slug: 0241-v6c52-inching-to-spring
+partOf: beware-of-chicken
+position: 241
+ownLength: 1996
+unit: words
+ownProgress: 1996
+publishedAt: 2025-08-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2493277/v6c52-inching-to-spring"
+royalRoadId: "2493277"
+markedReadAt: "2026-06-29T18:59:39.841Z"
+---
+
+And so the days marched on.
+
+Our home was a regular winter wonderland, blanked in a thick white layer of fluff, and watched over by the General That Commands The Winter. The great snowman’s smile was bright and cheery, and his giant hat was filled with birds that flocked out every morning, chirping and singing their little hearts out.
+
+A small legion of smaller snowmen surrounded the good General’s base, made using the snow we had shoveled from the pathways. Our hills out back were a patchwork of toboggan runs, jumps, and even loops. There was a permanent patch of cleared ice on the ponds, nets set up and centerline marked for our hockey games.
+
+But all of us knew that it wouldn’t last. Winter would soon be coming to its end. All of us could feel it in the wind, in the way it started coming from the south, rather than the north. In the way the sun felt, warming us all.
+
+And while winter was fun, all of us were glad that it wouldn’t carry on. We were all eager for spring.
+
+But that didn’t mean nothing was happening in our lives.
+
+=====================
+
+Everyone had their own project. Mei, Rizzo, and Yun Ren kept up in making their herb series and anatomical scrolls, with Yun Ren transferring direct recorded images to paper. Babe produced the first volume of his second manga… or rather manhua, with Big D. It was based on one of the Old Man’s stories, and Gramps found the entire thing quite amusing.
+
+Peppa, with her new hands, had taken up knitting, while Chunky continued with his pots and planters. He had shifted after breaking one. Instead of recycling the clay… he sealed the crack with a mixture of lacquer and fool’s gold.
+
+It was a rather beautiful piece, when he was finished with it.
+
+Washy kept messing around with new recipes and desserts, and we even had our first harvest of greenhouse beets. They grew quickly, only fifty days from planting to harvest, and were a deep, rich purple. They had a wonderful, earthy taste, and tasted great with vinegar, as well as in my own take on borscht. Big D had a recipe that looked a bit similar from the Howling Fang Mountains, but without the potatoes.
+
+Big D looked a little sad as he ate it. “It tastes almost like Old Ling made it,” he murmured, mentioning the old groundskeeper who had made him meals while he lived at the sect.
+
+“He’ll be alright,” Ri Zu said, putting a hand on Bi De’s shoulder.
+
+“I do hope so," he replied.
+
+The mood was a little down after that, but Gramps seemed amused as he took a sip of his drink and said nothing.
+
+As for me? I started getting back into calligraphy more, after seeing Gramp’s work. We began making nights of it; me, Gramps, Babe, and Big D all practising our brushwork, with occasionally somebody else looking on.
+
+It was fun getting to flex that muscle. The part of me from before didn’t really consider himself much of an artist. Simple drawings and crude carvings were about the extent of that part of my life’s skills, but now that I was here? Doing the characters was getting to be really engaging.
+
+Though I have to admit sometimes I did shamelessly steal some of my concepts from the Before. I picked one I was pretty sure most cultivators, and especially Gramps, would like.
+
+“A man is both the sculptor and the stone?” the old man asked, looking at my latest work. His bushy eyebrows had climbed up into his hair. “That is good.”
+
+=============================
+
+The biggest project that was finished was the telescope for our observatory. Noodle had evidently been satisfied with the designs of the other project he was making, and shifted to finally finishing the lens. With his spine fixed, Noodle had been determined to get it ready.
+
+The building had been framed in and covered since before the winter started, and now it had what it needed.
+
+A quite frankly absurdly large lens for this time period sat in a housing of brass, pointed at the heavens, another successful collaboration between Noodle and Bowu.
+
+“Most cultivators simply use the Thousand-Li view to achieve a similar effect,” Gramps observed, looking at the long tube with interest. “Some cities and nobles have rooms where the technique is rendered as a formation, but to use wholly mortal means… if it can be further modified with formations, this will be quite useful.”
+
+Both Bowu and Noodle smiled, their postures full of pride for their accomplishments.
+
+For me, it had been an idle thought. For the world? This was possibly game changing for a lot of people.
+
+I scratched my chin. This and the beehives both had the potential to do a lot of good. While I wasn’t exactly looking to change the world, perhaps I could get the word out there a bit. Maybe via the Archives? I would have to ask Pops.
+
+I put the thought out of my head for the moment, and instead looked into the telescope.
+
+In a world with basically no light pollution, the sky was utterly magnificent.
+
+========================================
+
+There were a hundred small moments, spent together and apart.
+
+“You ready? I asked. Zhuye was standing up and grabbing my hands. He had taken a few steps with my support, and now I was going to let go.
+
+“Ah! Jah!” Zhuye babbled, his eyes locked on his mom.
+
+“Come here. Come to mama,” Meimei encouraged. Zhuye reached his arms out towards her. His legs wobbled. His eyes were full of determination. One step, two step, three step, four— he staggered, and fell back onto his butt, then onto his side.
+
+He paused for a moment, looking a bit confused. He looked at his mom, like he was checking if he was supposed to cry or not.
+
+“Good job!” we both cheered. Our bright smiles made the decision for him. A tentative, then genuine smile lit up his face, and he started giggling, crawling over to his mom and completing his mission. She scooped him up and showered kisses on his face.
+
+“He’s getting better!” Meimei said with a big smile.
+
+“And more confident,” I agreed. I slung an arm around Mei’s shoulders and gave Zhuye’s stomach a tickle, provoking another round of giggles.
+
+“Ah! Jah! Tuh Buh!” he babbled.
+
+“Hmph! Again with Ti and Bi!” Meimei complained. “You dare insult your mother like that by not calling to her first!” she mock complained.
+
+Meimei liked to make noise about how ‘mama’ was going to be his first word. It would have been more believable if I hadn't caught her whispering ‘papa, Bi De, Tigu!’ to him, repeatedly.
+
+“Nah, It's definitely gonna be dada,” I replied with faux confidence. We both started up a little argument about who was going to be first… like she also hadn’t overheard me trying to get him to say ‘mama’ for the past couple of weeks.
+
+========================================
+
+Pi Pa had a bright smile on her face as they walked through a frozen forest. She was dressed in a beautiful robe and jacket combination. The robe and jacket had been made by her Mistress—Meiling, as Pi Pa was not a servant at the moment—and the fur lining on her jacket had been collected by Yun Ren; it was warm and soft.
+
+A parasol completed her ensemble, keeping the snow off her.
+
+She was arm in arm with her dear, who was also well-dressed. Chun Ke was bundled up in his own thick jacket, courtesy of Meiling. His hair was still wild as always, though contained somewhat under his red toque. A massive packframe on his back held all of their travelling gear, yet he scarcely noticed the weight. Her dear, to Pi Pa’s pleasure, could barely keep his eyes off her.
+
+Pi Pa had requested some time off, and naturally, it had been granted. Their Masters—Jin and Meiling had been happy to give them as long as they needed. And with everyone else exploring, Pi Pa had thought that was a grand idea for them. She had heard many a tale of Bi De’s adventure, and so she had asked him for directions, which he had only been too happy to provide.
+
+She was now the furthest from home she had ever been!
+
+“My, this is quite fun!” she exclaimed as they walked together.
+
+“Travelling with wife is the best,” he replied.
+
+They had both been the talk of the town when they had stopped in Verdant Hill. They had tea with Lady Wu and the Lord Magistrate, browsed all the shops, and bought this delightful parasol. It had been a most enjoyable day. The next day, they set off for this location.
+
+While they had traveled at a sedate pace, soon they were at the area which Bi De had mentioned in his letters—the center of one of the province-wide formation nodes. The node of Fire, that had been transformed to rock. Pi Pa only wanted to see the little bubbling and spitting pool of water, as well as the caves so caked with mineral deposits they looked melted, but clearly something had changed.
+
+“Is… is this alright?” Pi Pa asked, concerned.
+
+The snow around the entire area had melted and the ground was steaming. The sound of bubbling water reached their ears, along with the smell of sulfur.
+
+Hot water was rolling down from the rocks, collecting in old depressions, and filling them up. Even as they watched, something in the middle of the rocks suddenly spat and drops of water shot into the air, only to fall like rain.
+
+“Injury from the battle,” her dear rumbled, pressing his hand to the earth. “But… not bad. Stabilize Dragon Veins, will be fine.”
+
+Pi Pa breathed a sigh of relief and looked at the pools of hot water.
+
+“Well, this truly is an adventure now!” she proclaimed. “We’ll have to tell the others all about it!”
+
+Her dear nodded with a big smile. “We also should have bath. Test waters.”
+
+He smiled at her, and Pi Pa felt her heart flutter at the undercurrent in it.
+
+Oh. Oh my.
+
+Her adventure was quite fantastic.
+
+=========================
+
+The temperature gradually rose, and soon it would be time for another tradition. The maple trees that hadn’t been poisoned were inspected and cleared for tapping.
+
+=======================
+
+Tigu sighed while she stared out the window. There was another meeting soon, and she was having trouble mustering any enthusiasm for it.
+
+“What’s the matter, Tigu?” Xiulan asked, catching her attention.
+
+“I missed my little brother’s naming ceremony, and now I’m going to miss his birthday as well,” Tigu moaned after a moment. “Probably going to miss the sugaring season, too.”
+
+Xiulan’s eyes softened. “Are you going to be alright? You don’t have to be here for everything, and I’m sure everyone would understand—”
+
+“No. I swore an oath to help you,” Tigu replied. “I can’t quit just because I’m a bit sad!”
+
+Xiulan accepted Tigu’s reasoning.
+
+Or at least Tigu thought she did.
+
+===================
+
+“And so we will need a survey of the north of the province. The maps are all out of date,” the Grand Marshal declared, to the agreement of all. “Captain Tigu and Commander Yin will take detachments of their forces and accomplish this. The Captain and Commander shall be in charge of the areas concerning Master Jin, to keep his privacy.”
+
+“An excellent idea, Grand Marshal. If the demons return, we should begin preparations,” was the general consensus.
+
+Tigu froze. The Lord Magistrate of Verdant Hill already had accurate maps of his entire commandery. Tigu would barely have any work, besides organising the troops.
+
+Which meant she would also be home for her little brother’s birthday, and home for the sugaring season!
+
+Tigu didn’t know whether to hug Xiulan, or bonk her over the head.
+
+She settled on doing both in private.

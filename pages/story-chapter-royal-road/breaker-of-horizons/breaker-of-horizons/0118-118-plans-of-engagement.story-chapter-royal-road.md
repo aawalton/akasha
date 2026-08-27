@@ -1,0 +1,151 @@
+---
+id: ee357a91-f394-5e42-8ee1-ac873ca483c9
+page-type-slug: story-chapter-royal-road
+title: "118. Plans of Engagement"
+slug: 0118-118-plans-of-engagement
+partOf: breaker-of-horizons
+position: 118
+ownLength: 2131
+unit: words
+publishedAt: 2021-06-17
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/700970/118-plans-of-engagement"
+royalRoadId: "700970"
+---
+
+The question looming over both Ambrose and Caden was put on hold when Devon came looking for them to tell them that dinner was ready. Before they climbed out, Caden whispered a hasty explanation of the current plan to test how much arcana they could channel and still have their auric-ambient-flares hidden, and to have that done just before they set off tomorrow.
+
+Despite their austere surroundings, Devon had managed to conjure up a dinner of seared cod, mashed potatoes, and mixed greens. The good food proved a welcome distraction from the pressures they faced, and the atmosphere was a lot more relaxed.
+
+"How did you manage all this?" Kevan asked, savouring a bite of the fish as he waved a fork vaguely at the whole set-up.
+
+"We're well-stocked," Devon replied matter-of-factly. "But don't expect this the whole way. I'm using all the fresh perishables first. Our meals will get simpler once we've gone through them."
+
+"But still, how?" Kevan nodded at the skillet and the stove, which were the only implements that seemed to be around.
+
+"Practical application of arcanophany." This time, there was a hint of smugness in Devon's reply. "In a pinch, I can even do without the skillet OR the stove, but that'd be a lot more work and the result might not be as good."
+
+"So you just sliced the ingredients with arcana?" Lynus asked, now intrigued.
+
+"He used a knife at first," Jerric replied. "Then he started trying things out."
+
+Caden frowned. "You know the glyphs to make a cutting edge out of arcana alone?"
+
+Devon shook his head. "No, so I tried with pure focus, but I can't get the form and density right. I figured out another way, though."
+
+The rest were listening with great interest now. In theory arcana could be shaped into any physical form, allowing arcanists to conjure objects if they made use of the glyph of transmutation to turn the arcana into something solid. However, without the structure and stability of other glyphs beyond the Advanced Set, it was almost impossible to hold arcana in a useful physical form long enough to be of any practical use. The conjurations in the Academy's duelling chambers and other places like the Ka'atus Room were sustained by intricate glyphwork scribed into the venue itself. How Devon had managed to sidestep this was a mystery.
+
+"I'm guessing you guys want to know how?" Devon asked a little sheepishly, looking a little uncomfortable with the intense stares from the rest.
+
+Only Jerric was smiling slightly and shaking his head. "What do you think?" he said, rolling his eyes. "Go on, tell them."
+
+"You know, too?" Caden asked.
+
+"Well, I saw him do it, and he explained it to me. It's quite clever."
+
+Devon coughed, looking a little abashed. "Right. Well. We've got no problems demarcating boundaries with barriers, right?"
+
+"But barriers don't cut, they just—" Kevan began.
+
+"Yes, yes," Devon cut back in, "I wasn't finished! So I used a tiny barrier to serve as a point of focus for where I want to cut. It takes a bit of practice and concentration to get it to be wafer-thin, but once you do, you can sort of slide it through the material you're cutting since it's just pure arcana. Then you apply the glyph of transmutation and turn it corporeal, and that bisects your original material. It's actually faster to just use a proper knife, but I wanted to practice anyway."
+
+There was a stunned silence as the rest digested this.
+
+Lynus was the first to ask in a hushed whisper, "Does that work on bigger things?"
+
+"Like people?" Devon smiled grimly. "Yeah that occurred to me when I managed it. I imagine it could. But I faced more — I guess you could say 'resistance' — when I tried this on the cod compared to the vegetables. The potatoes were tough too. I'm thinking that the size of the material matters."
+
+"I don't think it'll work on people," Caden said, absently tapping his fork against his plate. "This method relies on sliding a wafer-thin panel of arcana through the substance you want to cut, and then transmuting it. People have auric-ambient-flares that don't allow that to happen. And a standard shield would stop it even if the auric-ambient-flare didn't."
+
+There were nods of agreement all around, and a small sigh of relief from Devon. "Good to know I didn't just accidentally invent an easy way to kill people," he muttered.
+
+"You may wish you had if we run into enemy agents," Jerric said darkly.
+
+Kevan shook his head. "I'm with Dev on this. I'm glad it doesn't work. That's one less dirty trick we need to look out for when fighting. Can you imagine if those enemy agents could do that? We might not even have made it out of the manor."
+
+"Cheerful thought," Lynus remarked, taking a bite of cod.
+
+"So did you bring Ambrose up to speed?" Jerric asked, turning to Caden.
+
+Caden exchanged glances with Ambrose. "I did, yeah. We'll figure out tonight what tests we should try, then be ready to run them tomorrow morning."
+
+"Right, regardless of the results, our plan is to head for the abandoned Spire regardless," Jerric said. "As Lynus pointed out earlier, what we need to do is settle a plan for how to deal with enemy agents if we encounter them. Even if we can pass undetected at first, we shouldn't assume we'll always be hidden."
+
+"We know they gestalt very effectively," Lynus noted. "We need to be ready to do the same at a moment's notice. We should pre-assign positions in a variety of gestalts."
+
+Jerric nodded. "Ambrose and Caden are the most capable in arcanic manipulation, but if we put both of them on attack duty, we risk being overwhelmed like before."
+
+"Kev and I can handle defence now that we know how they work," Lynus insisted.
+
+"We can handle it if they work the same way," Kevan clarified. "I'd feel better if either Ambrose or Caden were on defence as well. They're the ones who can deal with new and unusual shit a lot better."
+
+"But I was only able to eliminate the enemy gestalt that quickly back at the manor because Caden was acting as a really powerful conduit," Ambrose said softly. "Next to him, I think Emilia has the best arcanic flow, but I don't think it'll be enough. If I can't end it decisively, the engagement can become a lot more protracted, which isn't to our advantage."
+
+Jerric frowned, looking at each of them in turn before addressing Ambrose. "How big of a shortfall would there be if we really do have to swap Caden out with Emilia?"
+
+Ambrose chewed his lip as he thought it over. "I'd need Emila, and you at the very least. And one more to be safe, otherwise we risk severe overdraw."
+
+There was some surprised murmuring from everyone else, but Caden had already figured that the difference was somewhere on that scale. The memory of being almost literally drained made him shudder a little.
+
+Jerric shot Caden an appraising look, then turned back to the matter at hand. "The last time, we had both twins, Emilia, and Devon on defence. Caden, do you think you can make do with just you and the twins?"
+
+"I think so, if the twins go over that last engagement with me," Caden said, though he felt far from confident. "I saw the agents in action, but Emilia and I were running decoys, not direct defence."
+
+"That'll have to do, then," Jerric said, though he, too, didn't look confident about their arrangements. "Our previous set-up didn't have a strong-enough defence, so we'd be mad to try that again. Let's hope we won't have to test this out."
+
+"We may not have to, if that hiding thing works perfectly!" Devon said, trying to sound optimistic.
+
+"Well, enemy agents aside, what do we do if we run into Empire agents who're trying to get us back to a safehouse?" Jerric asked.
+
+"Can Devon invoke some authority?" Kevan asked seriously.
+
+"What?" Devon blinked as everyone turned to him again. He shook his head emphatically. "Guys, my father's the one with the authority. If anything, they'd be especially sure not to listen to me. I'm sure my father has given them express orders to have me safely delivered back even if they have to knock me unconscious."
+
+"It was worth considering," Jerric said, grinning a little. "I'm sure you'll get some use out of your title yet."
+
+Devon snorted. Jerric was about to go on when Ambrose spoke up. "Actually, I may be able to call them off."
+
+There were multiple exclamations of surprise and incredulity as everyone's head snapped to Ambrose.
+
+He smiled sheepishly at them. "The agents who escorted me to the manor have been with me for a long time. I kinda know the anchor agent, and she's hinted before that while they take their orders from their, uh, organisation, they're sort of unofficially supposed to defer to my judgement in some matters."
+
+"You can command Imperial Nightwatchers?" Devon asked, stunned.
+
+"Nightwatchers? The agents guarding us are Nightwatchers?" Lynus repeated, looking from Devon to Ambrose.
+
+"Fates, we're in deep," Kevan muttered, rubbing his forehead.
+
+Jerric frowned. "That's... both alarming and disappointing. You mean to say we managed to evade Nightwatchers to get to the Spire and back with that whole business with Caden?"
+
+"To be fair, we had the help of the augera," Devon pointed out, before turning to the twins. "Yeah, my father's got some pull, so he managed to get the Imperial Nightwatchers on our case. I'm guessing the ones with Ambrose were assigned way before my dad got involved, though."
+
+Ambrose nodded. "Since after the Prophecy was revealed to me. They're not allowed on Academy grounds, so they set up camp just outside."
+
+"All winter?" Caden remarked, shaking his head. "What a job."
+
+"They're Nightwatchers," Kevan said with a tinge of reverence. "Wouldn't have inconvenienced them much at all. They're really tough. Their training is supposed to be insane."
+
+Caden nodded, recalling Ms Fen and Ms Rain and their battle against the enemy agents when they had been ambushed just outside of Creyvlor. Even if they hadn't won, the two of them had managed to put up a hearty resistance against superior numbers while protecting him.
+
+"Okay, wait," Lynus interrupted. "So Ambrose, you can technically just tell the Nightwatchers to back off? Like, they answer to you?"
+
+Ambrose sighed. "I wasn't even supposed to let people know I had Nightwatchers shadowing me. Anyway, I think I can tell them to back off. It's been hinted that if I ever pull the Chosen One card on them, they'll defer to my judgement on certain matters, but I was never told what might fall under that category. If we run into them, I can try, but there's no guarantee that this is one of those 'matters' where they'll listen to me."
+
+"We can try that first," Jerric said hesitantly. "If that doesn't work, should we fight?"
+
+"No," Ambrose said decisively. "The Nightwatchers are on our side, and I won't be able to fend them off unless I'm seriously trying to kill them, which I don't want to do. I say if they find us, we go quietly."
+
+"After all the trouble we went through to get this far?" Jerric asked, shooting a glance at Caden.
+
+"Why are you looking at me?" Caden asked, a little bewildered.
+
+"Should we fight?" Jerric asked again, this time directing the question at him.
+
+Caden blinked, realising that Jerric was doing this because he assumed that the Prophecy was pressuring Ambrose into getting them all to retreat. He looked hard at Ambrose, who merely gave him a wry smile and shrugged, as if to say, "It's up to you."
+
+"I... don't want us to hurt them, but I don't think we should just go with them," Caden said finally. "Can we try running distractions and see if we can lose them again?"
+
+"We don't have a city to blow up like the last time we wanted to lose a bunch of pursuers," Lynus said sarcastically. Kevan gave his brother a sharp jab in the ribs and glared. Lynus scowled back, but looked appropriately contrite. "Sorry, Cade."
+
+Caden's throat had gone suddenly dry. He made a noise of acknowledgement, then got up and left his empty plate on his chair before walking off to the edge of the lot, near the treeline where the twins had spent so much time talking earlier that day.
+
+Kevan sighed and shook his head at his brother. "You know what? This time, you can keep the 'asshole' hat. I think you wear it better than me."

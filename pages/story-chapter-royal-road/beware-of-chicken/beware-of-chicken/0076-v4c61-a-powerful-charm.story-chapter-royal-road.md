@@ -1,0 +1,197 @@
+---
+id: c23954d3-7388-5ad5-a44b-9452a747736c
+page-type-slug: story-chapter-royal-road
+title: "v4c61: A Powerful Charm"
+slug: 0076-v4c61-a-powerful-charm
+partOf: beware-of-chicken
+position: 76
+ownLength: 2324
+unit: words
+ownProgress: 2324
+publishedAt: 2023-11-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1421464/v4c61-a-powerful-charm"
+royalRoadId: "1421464"
+markedReadAt: "2026-06-29T18:54:01.548Z"
+---
+
+“And there it is! A masterclass in the Fulmination Arts! But is being textbook enough to lead to ultimate victory?” The announcer shouted as another victor raised his fist to the cheers of the crowd.
+
+Bi De had to admit, he could see where the cultivators were coming from with this whole tournament thing. He had known that Tigu had enjoyed it, at least when she was fighting, or in the parties afterwards, but hadn’t especially enjoyed the watching part. But to Bi De’s surprise he was finding even watching enjoyable.
+
+With Yushang he was analyzing the combatants’ strengths and weaknesses, wondering what he would have done against the same opponent… and winning money from bets.
+
+Yushang was pouting fiercely as Bi De glanced over. He held out his hand, and another silver coin clinked into it—she had swiftly gone from thirty silver as a bet to a single piece.
+
+“Three exchanges,” Yushang bet hopefully, looking to Bi De as the next set went up.
+
+Bi De studied them intently. “Four,” he replied.
+
+Yushang slumped and Bi De sat back in his seat with a smile on his face, taking in the atmosphere.
+
+The cheers of the crowd, testing one’s strength against a worthy foe, the Qi in the air, and, of course, the promise of a prize at the end. It was a fine way to spend time; he should actually see about organizing a tournament amongst the disciples of Fa Ram. Perhaps not quite as violent as this, but something that they could all do together. And if they didn’t wish to fight, perhaps a cooking tournament? His Great Master had mentioned one of those before, the indomitable men of cooking, the Iron Chefs.
+
+The one black mark was the amount of damage some disciples inflicted on each other. Combat was always dangerous, but he didn’t like just how easily they went for blows that could possibly kill their fellow disciples.
+
+But he supposed this was the way of the world outside of Fa Ram.
+
+Indeed, the match was finished in four exchanges, and Yushang put another silver coin in his palm.
+
+“Next! Bolai Chenguang versus Yan Xiping!” That had Bi De sitting up and taking notice as Chenguang, one of Zang Sheng’s companions, took to the field. The woman with her veil and glaive radiated strength, and she was at the Fourth Stage of the Profound Realm—the same as the man that had been with the Young Master, Xie Shaoquing.
+
+There was something off about the Young Master. Despite his mercy to the disciple he had defeated, Bi De could tell that had not been the man’s desire. His eyes were too full of contempt for that. Now, Bi De could have been mistaken, the Young Master’s aura leading him astray… but he was certain that such kindness did not come naturally to the man.
+
+“Two blows,” Bi De said before Yushang could say anything.
+
+The bout started. The woman’s eyes were cold and hard. Every muscle was bunched in her shoulders.
+
+Yet she too held back and defeated her opponent with ease… though it took more than the two exchanges which Bi De had predicted.
+
+Yushang cheered as she got some of her money back.
+
+Well, Bi De supposed it was better than what had been done to his own Master by members of his own former sect. It did not matter if such restraint was under duress… only that they were showing it.
+
+Bi De let himself relax slightly.
+
+And then it was Bi De’s turn. His opponent, Luochu Ming, was an Outer Disciple, the older man looking bitter at having to face Bi De.
+
+It was an utter mismatch, with the man being at the First Stage of the Profound Realm, and both of them knew it.
+
+The rooster briefly considered ‘pulling a Xiulan’ as Tigu put it and simply pushing his opponent out of the arena without harming them… but Bi De knew that this would be a mistake. It would not be seen as a kindness. It would be seen as an insult. An insult to his opponent's skill, to his power, and to his techniques.
+
+It would be an abject humiliation, and something that would turn this man against him for the rest of his life.
+
+So instead, after Bi De bowed to his opponent, he took him seriously. His first kick was a powerful blow, but without any intent to truly harm his opponent behind it.
+
+Ming’s eyes widened slightly, and then the bitterness faded, as he realised Bi De was giving him some respect—not destroying him completely and inflicting a bad injury, yet neither embarrassing him. The man inclined his head politely, and his stance firmed as he became determined to take advantage of that grace.
+
+They had three exchanges before Bi De kicked aside his hands and brought his opponent low.
+
+“I yield,” Ming stated. His ribs were cracked, and yet it was a comparatively minor injury.
+
+Bi De nodded and that was that. The crowd cheered him on with his dominating victory, but he found Zang Sheng’s eyes upon him. The man looked utterly bored and contemptuous of Bi De’s victory.
+
+Again the ill feeling returned, but Bi De shook it off.
+
+Two bouts later, Yushang was called up… and her eyes began to gleam at the sight of her opponent.
+
+“He was one of the ones who ganged up on me during initiation,” Yushang said, her eyes narrow.
+
+“Oh? Well, if he required allies to deal with you then… I do not fancy his chances now,” Bi De replied.
+
+Yushang turned to him and smiled. “Kiss for good luck?” she asked cheekily.
+
+She clearly didn’t expect Bi De to sweep up her hand and press his lips to the back of her knuckles.
+
+“Good luck,” Bi De said to her.
+
+Her face flushed crimson and it looked like steam started to come out of her ears. Her gait was actually quite unsteady as she made her way into the arena.
+
+“Are you ready for another thrashing, peasant?” her opponent demanded.
+
+The remark snapped Yushang out of her daze. A smile crawled across her face as she raised her blade with both hands. Ascending Mountaineer seemed to shiver, the minor spirit that Fat Han had put into the blade sensing its mistress’s intent.
+
+“Begin!” the announcer roared.
+
+Yushang’s intent focused. Her Qi swirled around her, seeming to form snow-swept mountains.
+
+[Split the Skies]
+
+Her opponent’s eyes widened as Yushang moved. Her body twisted. He tried to block.
+
+Tried.
+
+Yusahng’s upward swing shattered her opponent’s blade, snapped both his arms, and hammered into his ribs with a sickening snap.
+
+“Jiayou!” she shouted, the words normally uttered by peasants before they lifted a heavy object to give them strength.
+
+The man was launched like a firework out of the arena to slam into the barriers with a crunch—and Yushang claimed the fastest victory so far over an opponent who was supposed to be her equal.
+
+The entire arena went silent.
+
+And then Yushang skipped back to her seat… but pointedly didn’t look at Bi De.
+
+“I’ll need some more luck tomorrow,” she informed him, still not turning to meet his eyes.
+
+=============================
+
+Zang Sheng looked at the woman—Yushang—as she skipped out of the arena, and then he looked to her defeated opponent, still dazed against the wall.
+
+“Not completely worthless,” he grunted, and took a pull of his wine.
+
+It did nothing to calm his rage and irritation.
+
+This entire tournament was a farce. But it was a farce the Patriarch had commanded him to partake in, so he had to hold his tongue.
+
+“Hold back.” The words had been as clear as they were enraging. “One does not hunt a rabbit with a ballista.”
+
+Hold back? What good did holding back do? He did not fight rabbits, but men—and men were dangerous foes, even ones who could be called weak. Were there not tales of mortals defeating initiates? Grand talents transcending realms to lay low their betters?
+
+Underestimating even a weakling was foolish. Giving somebody the first move courted death.
+
+You fought at full power or you didn’t fight at all. It was insulting to hold back one’s strength against members of their brave disciples—and worse, it harmed them.
+
+Broken bones taught better lessons than anything. To feel the might of a cultivator at full power and stand against it anyway was what one should strive for. This Sheng was certain of. After all, while the others had written off Li as weak and useless, Sheng had taken his younger brother’s training into his own hands. He had sent Li to the infirmary a hundred times, and each time he had come back stronger.
+
+The weak screamed bullying. Feh! Bullying? Why the fuck would he waste his time bullying? Iron had to be beaten harshly to be made into steel. The weak dross shattered, but the strong, like the true disciples of the Sect, were forged into something greater. No, he was teaching, and his methods provided results. Each time Li came back from the Medical Pavilion, his dodges were crisper. His eyes saw more of the world, and he was better at fighting.
+
+There was progress—until he had been forced to stop training his weak brother. He had been told his methods hadn’t worked.
+
+Li had been looking to the side and down at the ground as those words had been spoken. That was when he truly became useless. Breaking was not shameful—staying broken was. That was what he was sure was meant by their Sect’s words.
+
+And then, without his guidance, Li had died. Died in the Azure Hills against a Demon.
+
+How utterly pathetic. If he had submitted himself to Sheng he might have been alive. If he wasn’t blind he might have had a chance—instead of, as he had been told, strutting around like a peacock and humiliating those under him.
+
+His eyes drifted to the competitors. Most of them were weak iron. They would shatter. He hated the looks of admiration they gave him. He was slapping them across the face with his actions, and they were thanking him for it.
+
+They didn’t understand. And thus, they were weak. So his anger boiled and raged in his gut. He longed to have a person who understood... but he had to hold back. After all, his reward was to receive ten blows from the Patriarch.
+
+They would break him, he was sure. But he would beat out the cracks and come out of it stronger. If his cultivation shattered then that just meant his foundation wasn’t strong enough. He would rebuild it, better and stronger than ever.
+
+His fists clenched and he took a deep breath.
+
+Yushang was sitting now, speaking to the only other competitor who looked like he was worth something. An outsider. Perhaps the Patriarch would give him leave to properly test the red-haired man. To bear down upon him with all his might, and see if he was worthy steel.
+
+“Shaoqing. I want her. Take her measure and offer her a place to know true strength,” he commanded. Yushang could possibly be good material. A real cultivator to harden, rather than the rest of this…chaff. A true warrior of the Shrouded Mountain Sect.
+
+The big man grinned. “Of course, you shall have your prize, Young Master.”
+
+“Young Master, please remember the words of the Patriarch,” Chenguang said, her voice soft and affectionate. Both of his retainers knew strength, and always rose up again when he taught them in the proper manner. Both had been broken again and again—and each time they showed their might. Their cultivation was at the Third Stage; yet even one in the Spiritual Realm had to be wary of their might.
+
+Though sometimes he felt like they were misunderstanding him.
+
+“I know his words. That is why Shaoqing shall make the offer later. She shall last until she meets him in the bracket.”
+
+Both his retainers bowed, and Sheng sank back into his seat.
+
+Their world was one of violence. And one needed Strength Above All to survive it.
+
+=================================
+
+The day ended four bouts after Yushang’s. She was a little embarrassed about drawing so much attention to herself… but it was pretty funny. Especially because that asshole’s face had been immortalized in a recording crystal right after she hit him.
+
+“Look at his face, look at his face!” Biren said as he projected the image of Yushang’s opponent.
+
+“Who knew a kiss could be so powerful?” Han japed, and Yushang’s face went red. She had meant it to be a joke! Bi De wasn’t actually supposed to have kissed her!
+
+But then he had, even if it was just her knuckles.
+
+“Indeed. A kiss like that is surely mighty-powerful,” Ri Zu’s voice said from behind them, and Yushang paled slightly.
+
+Ri Zu was standing in the doorway, smiling, but her shadows chittered and spat unknowable curses at her, little red eyes glaring.
+
+A cold sweat beaded on Yushang’s neck as Ri Zu’s eyes swiveled to Bi De, the man looking slightly uncomfortable.
+
+And then there was a little chuckle as Ri Zu’s stern mask cracked, and she started chuckling. Yushang and Bi De both breathed sighs of relief.
+
+“Good job, Yushang, Bi De. You both performed well. Shall Ri Zu give you two a good luck kiss for tomorrow?” the woman asked teasingly.
+
+“You’re right,” Yushang said. “Tomorrow I’ll need a good luck kiss from everybody! Biren! Han! Ri Zu! Uncle! Grace your Pretty Sister with some of your power!”
+
+Her friends laughed at her request, and they spent a while dodging away from her as she attempted to claim her ‘prizes.’
+
+Yushang, however, won eventually.
+
+And the second day was just as successful as the first.
+
+At least in terms of her beating somebody. Bi De, the bastard, still won most of their bets and took her money.

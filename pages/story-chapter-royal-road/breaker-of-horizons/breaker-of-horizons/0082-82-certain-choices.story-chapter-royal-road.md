@@ -1,0 +1,125 @@
+---
+id: 63b3d98d-2e5a-522a-a9fb-fdea5e85999f
+page-type-slug: story-chapter-royal-road
+title: "82. Certain Choices"
+slug: 0082-82-certain-choices
+partOf: breaker-of-horizons
+position: 82
+ownLength: 1894
+unit: words
+publishedAt: 2021-02-11
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/629801/82-certain-choices"
+royalRoadId: "629801"
+---
+
+They had been warned by the Academy augera not to venture all the way down to the water's edge, so they loitered in the empty function room of the sole building beyond the Academy walls. The air was still fresh and clean, free of dust despite the obvious disuse of the place. It was clear that the Academy made liberal use of arcanophany to make life easier because the sequences that involved self-cleaning were finicky to implement and required regular maintenance.
+
+"Are you sure we're doing the right thing?" Lynus asked after five minutes of silent waiting had passed.
+
+"No," Kevan admitted. "But we need to find out more about this thing that Caden seems to have connected me to. And I'd rather not ask Caden about it."
+
+"Still... we've got no idea what it is, or what it wants. It seems like a really bad idea to be listening to it."
+
+"I know. But remember when I ensorceled you and passed on that connection? It opened your senses to the arcana, didn't it?"
+
+Lynus nodded, looking troubled and queasy. "That's one way of putting it."
+
+"And you got some impressions off it, didn't you?" Kevan pressed. "This... woven stream thing."
+
+"Where are you going with this?"
+
+Kevan looked out over the lake. "I don't think it's something bad or evil. It didn't feel that way."
+
+All of a sudden, the arcana around them came alive and the air grew heavy with the sheer presence of the woven-shackled-stream. Even though this was only his second time experiencing the touch of this eldritch being, he was ready for it and he mentally braced himself. Out of reflex, a dense honeycomb barrier was already springing into existence around him. Lynus was a little slower in getting his bearings, but a moment later he, too, was enveloped in his own shield.
+
+The being's thoughts reached them through the arcana itself, packed with more meaning than either of them could fully comprehend. It took a great deal of effort to really understand its alien ruminations. 'Tangled-anger-power is right. Woven-shackled-stream not evil.'
+
+"Who are you?" Kevan was finding it difficult to remain standing — there was such a weight on his very soul. His eyes darted around the space, but the function room was still empty apart from himself and his brother.
+
+'Am fabric. Am chain. Am channel.'
+
+"Why'd you ask us to come here?" Lynus managed to gasp out the question just before he sank to his knees, one hand pressed to his head.
+
+'To thread needle. To tighten spool. Two must listen.'
+
+"Then stop making it so hard!" Kevan snapped, dropping to a knee. He gritted his teeth and tried to shut out the massive headache that was rapidly getting worse.
+
+It wasn't until the roaring in his ears stopped that Kevan realised there had been some sort of noise drowning out everything else. In the sudden silence, he could hear the branches of a tree outside creaking slightly in the wind. Lynus blinked in surprise and looked around, wincing at he got to his feet.
+
+"What the hell was that?" he asked.
+
+"Shhh." Kevan raised a warning hand. "I think it's still here."
+
+'Still here,' came a faint echo in the arcana. 'But softer.'
+
+The twins exchanged an uneasy glance, but Kevan squared his jaw, his eyes flashing with determination. Lynus drew in a deep breath and nodded his support.
+
+"We're both here, like you asked," Kevan said, casting his eyes around the room. The feeling of being watched was niggling at him, but it wasn't coming from any one direction.
+
+'Two auric-ambient-flares, caught in orbit of Chosen One. Must know, or threads will be loose. Chosen One is Ambrose.'
+
+"What?" the twins blurted. But as soon as that piece of information was communicated, Kevan felt it slide inexplicably into his head like the last piece of a jigsaw. It clicked there, and all at once, he felt in his soul that this was the absolute truth.
+
+There was a confusing flurry of impressions from the strange being, and Kevan struggled to understand any of it. He caught a brief flash of displeasure, then of resignation. 'Two must also know. Chosen One is in danger.'
+
+"And you want us to help him?" Lynus asked.
+
+A wave of queasiness washed over Kevan as another jumble of impressions came his way. If the being were in an actual human body instead of being an incorporeal voice in the arcana, he would have expected it to be grinding its teeth in frustration, as if it were desperately fighting to stop itself from saying something.
+
+'Chosen One is the pinnacle, but grounded in five anchors. One is loose. Must fix.'
+
+Kevan had to take a deep breath to steady himself. "You need to be clearer," he said slowly. "Who are we supposed to help? What are we supposed to do?"
+
+Another mess of impressions came, full of self-reproach mixed with determination and other alien emotions. This time, Kevan couldn't cope with the flood. He bent over and emptied the contents of his stomach on the floor. Distantly, he heard Lynus doing the same.
+
+'Loose anchor... will be fixed. Protect new anchor.'
+
+Before either of them could recover, the air grew heavy again. Kevan was overwhelmed by the sensation of something massive and inscrutable stooping over the two of them, and it felt like they were just ants being fixed in the gaze of something possessing ineffable power. It bore them no malice, but it was clearly angry over something, and being close enough to witness that anger was terrifying beyond belief even though he knew he wasn't the object of that rage.
+
+'Fate of old anchor—' it almost spat. Why was it so unbelievably furious with itself? '—will be your choice.'
+
+That pronouncement fell on the twins like a hammer stroke. Kevan literally felt the wind being knocked out of him even though nothing had moved or shifted in their physical environment. The eldritch being pressed the two of them into the ground, and Kevan could no longer see what was around him. All he sensed was the arcana twisting and writhing like snakes, seeping into his very pores, twinning around his auric-ambient-flare. On some deep, fundamental level, he felt like he was being violated. This was worse than Caden's ensorcelment. It was—
+
+—too much. Jerric wrenched himself out of the memory-duplicate of Kevan and scrambled away, his eyes wide. The entire memory froze, and Kevan's consciousness also drifted out of his memory-duplicate, resolving into the physical form that Jerric had initially conjured in the perceptive space.
+
+"Do you get it, now?" the 'real' Kevan asked, looking down at Jerric.
+
+He was still reeling from the sensation of being... rewritten. That was what it had felt like. Now that Jerric knew more about auric-ambient-flares after their most recent experience, he was certain that the Academy augera had been directly altering both Lynus and Kevan that day.
+
+"The Academy Spire augera... it wants you to let Caden die?" Jerric finally managed to say.
+
+"That's how it started," Kevan said, looking down at his past self. "Of course, neither of us knew it was Caden at the time. We had no idea what five anchors the augera was talking about. But then Ambrose shared the Prophecy with us, and you guys explained that Caden was free of prophetic links, and it became clear."
+
+"But this doesn't make sense. It was the Academy Spire augera that freed Caden in the first place."
+
+Kevan raised an eyebrow. "We figured that might've been the case. But it still changes nothing. Do you understand what happened here?" He gestured around at the frozen memory.
+
+By now, Jerric had managed to calm himself down sufficiently, although the feeling of being violated still lingered. "The augera was fighting itself. It... didn't want to speak to the two of you."
+
+"Yep." Kevan sat down next to his past self and looked up at Jerric. "The augera all want to be free, right? So that's why it helped Caden. But it's also still a woven-shackled-stream thing. This was something it was forced to do thanks to what the Fateweavers had done to it. I don't think it was some sort of direct order, because honestly, if that were the case, I doubt the augera would have been able to get around it."
+
+"So you're saying that the reason you won't help Caden isn't personal — it's because your auric-ambient-flare has been modified to let him die?" Jerric clarified. But then he frowned. "That doesn't add up. The augera specifically said it will be your choice."
+
+"Yes. It's a choice," Kevan answered, smiling.
+
+A rare bloom of anger flowered in Jerric's mind. Kevan had no idea that the ice beneath him was perilously thin. Even though Devon was on hand, Jerric was fairly confident that if he wanted to, he could do terrible damage to Kevan's mind before his well-meaning friend could stop him.
+
+"Well," he said with forced calm, "you still haven't made the reason for your choice any clearer. If anything, you've just shown how you're not actually compelled by any prophetic links, which was my initial hypothesis."
+
+"Jerric, you're a smart guy. You've walked in my shoes a bit. Why not trying putting yourself in my place again, and set aside your biases? You think I'm an asshole, and to be fair, maybe I am. But what if I told you I'm not doing this out of any personal grudge?"
+
+"I'm biased?" Jerric asked, raising an eyebrow. "Are you really the one who should be lecturing me about that?"
+
+Kevan grinned maddeningly. "Touche. But what I said is true. You can tell, in here, can't you?"
+
+And the strangest thing, Jerric realised, was that Kevan was right. He still hadn't managed to seal his spillage, so Jerric was now getting an excess of smugness, but also very clear tones of sincerity and certainty. He was absolutely convinced that he was doing the right thing.
+
+Kevan nodded, reading the expression on Jerric's face. "So... why might I still make such a choice, even though I'm actually free from prophetic links in this specific matter?"
+
+"I assume you're going to show me," Jerric answered stonily. "But if I had to guess... I'd say it's because you actually think it's for the greater good, somehow."
+
+The smug grin on Kevan's face was gone now, and he was suddenly serious. The dominant emotion coming off him now was a quiet confidence. He got to his feet and dusted himself off. "I suppose that's hard for you to believe. So before I bring you to the main event, I want to show you one more memory. Then maybe you'll think a little better of me. Or if not me, then at least of Lynus."
+
+He closed his eyes and concentrated. A moment later, another orb of memory had formed in his hand. He enlarged it once again into a portal large enough for the two of them to step through. Jerric was a little perturbed to see that he seemed to be in a lot more control of the space than he had been before, but any thought of backing out now was washed out of his mind when he looked through the portal into the memory beyond.
+
+"What the hell?" he blurted.

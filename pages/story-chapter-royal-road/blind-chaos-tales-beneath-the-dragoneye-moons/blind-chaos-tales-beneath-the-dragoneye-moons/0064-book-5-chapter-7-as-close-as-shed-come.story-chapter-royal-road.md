@@ -1,0 +1,195 @@
+---
+id: b4cbe4b2-38d8-5565-b06f-9c435aa8abed
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 7 - As Close as She’d Come"
+slug: 0064-book-5-chapter-7-as-close-as-shed-come
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 64
+ownLength: 4354
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3219961/book-5-chapter-7-as-close-as-shed-come"
+royalRoadId: "3219961"
+---
+
+Finding the Pink Pavillion was her first task. Given the amount of pink on the beautiful roads that Ranthia walked as she drew near, the roads themselves were probably intended to guide people. But Ranthia wasn’t sure what the trick to that was yet, so instead she’d asked for directions. The two elves that she spoke to were as nice as anyone she’d met—they’d even tried to invite her to join their book club—but she had precious little energy or will to indulge in prolonged introductions or small talk.
+
+Xaoc willing, she was close to reuniting with her heart’s desire.
+
+The Pink Pavillion itself probably began its life as a space for events or for the use of every [Merchant] in town, but even from a distance Ranthia could see why her unrequested guide had described its current occupant as having “overtaken” the Pavillion. Eclectic goods were piled and shelved haphazardly up against the very steps of the wall-less structure, with several sides of the area blocked off entirely from entry. Other [Merchants] and [Artisans] had set up stalls on the streets that lead to and from the Pink Pavillion, though no one hawked their wares—in fact, many of the stalls were attended only by a single sign with an open bowl where a few gems sat unguarded.
+
+It was easily one of the most alien and inexplicable things Ranthia had experienced. If a [Merchant] left their stall unattended for a single minute anywhere in Remus, [Thieves] and other opportunists would have it picked clean by the time they returned. Gods and goddesses, some of the bowls were even placed in locations where the few stalls that were attended wouldn’t be able to see them! Sure, Ranthia wanted to believe that people could be trusted, but there was a stark difference between wanting to believe the best of others and offering blatant temptation with zero risk! Had Ranthia seen such a sight in Remus, she’d be looking to see where the guards were hidden for their poorly planned sting operation—yet no matter where [Divine Eyes in the Void] peeked, there was no trace of guards, enchantments, or other hidden danger.
+
+And the Pink Pavillion itself was almost worse! There were no walls and the only enchantments that Ranthia could recognize on the pillars were for repelling water—there were no anti-theft wards or any other means with which to secure the bloated shop when it closed. And with how many items were crammed into the sprawling area, it was hard to imagine that any theft would ever get noticed.
+
+Ranthia carefully kept to the center of the road with her arms at her sides so she wouldn’t seem even slightly suspicious, while she avoided looking too closely at any given stall as she passed it. Once she reached the Pavillion itself, she carefully skirted its closed off sections until she found an opening that was wide enough to walk through normally.
+
+Naturally, three turns later, she found that she’d chosen a dead end. Her way through was barred by an unstable mound made from bolts of various fabrics dyed in loud colors that Remus had never found the materials to match. Carefully, without getting too close to the shelves of colorful crystalline bottles or the loose and free-ranging sewing supplies, Ranthia turned around.
+
+Her next attempt at an entrance led her through increasingly narrow spaces and eight turns, but she finally found herself stepping into the central area of the shop! There were bins and displays scattered about, but at least the central area was more open. From her vantage, she could see several elves browsing assorted goods ranging from the practical to the absurd. And if the shop’s layout had any sense or reason behind it, she’d eat her right sandal. Sure, the chaos of the place spoke to her, but it was large enough that it was also kind of daunting. She’d hoped to find some nice things for Clover—including a bed, so she’d stop stealing Ranthia’s—but there was no way to even guess where to look.
+
+There was no coherent explanation for having three-legged stools and expensive bottles of wine side-by-side.
+
+But first, Ranthia had a mission. She carefully worked her way around an elf that was flipping through a book that contained surprisingly life-like depictions of nude men and women—all elves, of course—while muttering to herself about how she didn’t need or have the funds for the reference, then stepped up to the counter.
+
+Which was, of course, manned by a reedy man that was sound asleep. Because why would anything go easily?
+
+“Hi, excuse me?” Ranthia kept her volume conversational.
+
+Naturally, her target continued to snooze. Aside from his broad horns, the man was shaved bald—though it’d been long enough since his last session that light, visible stubble was coming in. His long, pointy nose looked like it’d give him an impressive snore, but the man’s breathing came easily and quietly.
+
+“Hello?” Ranthia tried again, just a touch louder. Using his name would have helped—she was certain that her guide had used it… But Gowron didn’t sound right for some reason, even in her own head.
+
+“Just snap your fingers in front of his face! It works every time it works.” A helpful(?) elf offered while he slipped entirely too far into Ranthia’s personal space and dropped a few gems onto the pile on the counter to pay for the fine cushion in his other arm. The man favored her with a dazzling smile while he transparently did his best to make sure that she saw the cushion.
+
+Offer made, offer ignored.
+
+“Thanks.” Ranthia side-stepped the unwanted presence and leaned forward to snap her fingers.
+
+“Eh, what? Prices are on the shelves and baskets.” The narcoleptic elf mumbled, not even bothering to open his eyes.
+
+“I just had a quick question, if you don’t mind?” Ranthia carefully kept her tone sweet.
+
+The ‘helpful’ elf let loose a rather conspicuous sigh that had a strong undercurrent of “her loss” while he made his exit.
+
+Just as Ranthia was about to give up hope that the shopkeeper was still awake, the man cracked a single eye open. His gaze flicked to her for a single moment, before his eyelid fell anew.
+
+“Prosthetic horns are over there. But seriously, just go to a [Healer]. Your ears are screwed up too.” He offered his heartfelt advice with a voice that faded further with every word he spoke.
+
+“No!” Ranthia hurriedly interjected before he could drift off. “I’m looking for someone, a [Merchant] I was told to meet here. Her name is Avyna; one of the Maestro suggested you would know if she’s in town currently.”
+
+Truth be told, she actually had no idea if the man was the person she was told to speak to. Sure, he was in the right store, but most store owners had at least one employee. Just because he wasn’t taking the job seriously didn’t necessarily mean he was Golos (was that right?). But even if he wasn’t, he was still a place to start her search!
+
+The bald elf let out a tiny hint of a grumble—a solitary noise, less than a syllable in length—and opened his eyes fully to look at her.
+
+“Never heard of her. And I’d know about any major [Merchants] around.” He had the decency to use a gentle, yet firm tone to break the news. He was awake. She had no cause to doubt him.
+
+Ranthia’s heart took some damage, but she was fine—she probably just was the first to arrive.
+
+“She’s with the Silverleaf Traders, if that helps?” Ranthia chose to forgo logic for a moment longer.
+
+“Eh, I haven’t seen a Silverleaf [Merchant] here for…” his eyes unfocused for a moment as he consulted a memory Skill—but only for a moment, proving once again that something had been severely wrong with her version of [Chest of Experience]. “Sixteen years and two seasons now. These days, they mostly deal in imported final products from other nations, and that just isn’t a big seller in the City of Arts. Better to ply that stuff on the idle elves in the bigger cities, you see. Sure, we have our imports, but it’s mostly just raw ingredients—I arranged most of those myself.”
+
+“I… see, thank you. Before I go, could you direct me to where I could find bedding suitable for a cat amongst your wares?” She just had to swallow her disappointment and press forward. And her Bond still needed some supplies—even if it was awkward to try to describe the scale of her bunny to those more familiar with the typical sizes of rabbits.
+
+“Nope.” The man offered a surprisingly blunt answer as he closed his eyes and settled back into his chair.
+
+“…As in you don’t have any?” Ranthia needed more clarity than that!
+
+“As in I have no idea. When goods come in I just stock ‘em wherever there’s space. I’ve got what you need, but you’ll need to find it. No worries though, the magic of the Pink Pavillion means that if you just wander while you think hard about what you need to find, you’ll find yourself in front of it.” The [Merchant] was fading fast, each word came just a bit slower and a touch more muffled than the last.
+
+“Wait, really?” How would that even work?! Conventional wisdom had it that the System couldn’t even read minds. Was the facility some sort of ‘oddity’ that somehow transcended the very laws of reality? Or—
+
+“Nope. Best of luck to you.”
+
+—was the jerk just messing with her.
+
+While she’d been out, Clover had migrated from sleeping on top of the bed to sleeping under it. She had also managed to scatter the hay Ranthia had left for her across a significant swath of the room and left a new pile of poop inside Ranthia’s abused backpack—and chewed through yet another fastener’s strap in the process. About the only pristine thing left in the room was the box of sand that Ranthia had left a few of the rabbit’s previous droppings in.
+
+But Ranthia just swallowed her frustration and set up the cute little dark green bed she’d bought for Clover. It was kind of like a little cave, with an opening Clover could slip through while offering her some shelter and privacy. It’d been a touch expensive, but Ranthia had a funny feeling her Bond would prefer something that left her less exposed while she rested.
+
+But since her Bond was once again sound asleep, Ranthia tried to minimize how much she risked bothering the bunny—she set up what she needed to, stowed the rest, and made her way out once again with the directions to the so-called Hunters in hand.
+
+When Ranthia had first arrived in Ariminum as a young Adventurer, she’d found the number of parks and open spaces excessive and wasteful. Over time, she learned the value of having tranquil places for people to relax and safe spaces for children to play. If anything, Ariminum hadn’t had enough spaces for it—several districts had no easy access to one.
+
+The City of Arts didn’t have that problem. If anything, Ranthia once again found herself questioning why there were so many open spaces and trees in the city! With housing consolidated to the two great trees and the stone tower, there was a surprisingly minimal number of buildings for a town of… er, however many people the City of Arts contained. Not that the green, empty spaces were disused—there were men and women pretty much wherever she looked. One park had two elves that were taking turns singing to a crowd of their peers—with the singers plainly aiming to compete with one another, another open area was home to an altogether different sort of gathering that Ranthia sincerely hoped wasn’t competitive, and when she turned a corner to what she assumed would be her destination, she found a wide, green space that contained a single stall manned by an elven woman in dark clothing.
+
+Absent any better ideas, Ranthia decided to approach the stall… though by the time she got a bit closer, directions were the last thing on her mind.
+
+“Is that… an arm?!” Morbid curiosity was the only reason she wasn’t recoiling away from the woman. It wasn’t just the arm either, the stall and the surrounding grass were littered with assorted body parts of varying degrees of… freshness. There wasn’t really any smell from them, but some of them were…
+
+“It’s just an arm-shaped sculpture, my pretty.” The elf replied in a surprisingly sultry tone.
+
+“It’s twitching!” Ranthia protested.
+
+“Well duh, it’s art.” The elf replied in a brazenly playful tone, fixing her rainbow-hued eyes directly into Ranthia’s own eyes beneath her blindfold.
+
+It took several moments for Ranthia to work up the courage, but with the woman’s permission, she finally reached out and gently touched the twitching, severed limb. …Thank Xaoc, it was plainly made of wood. Beneath whatever soft layer coated it she could feel the grain.
+
+“I can’t seem to even give my babies away—no one here shares my taste—but I’m still damned proud of ‘em. There’s like a thousand other [Artists] here that make art that celebrates the saccharine banalities of life and joy, so you’d think there’d be more interest in little ol’ me that looks to the macabre, but no, of course not. Instead, I get asked to leave the spaces where other [Artists] gather because I’m ‘ruining the experience’ of their art.” She didn’t sound angry—it was the tone of someone that’d come to accept the reality of her situation and was (more or less) content to do her best within it.
+
+“I can’t say I share your tastes, though they do seem… impressive. How do you even make them look so lifelike?” Ranthia knew she was more-or-less just humoring the pariah—it wasn’t like she had any interest in the ghastly décor, but it was genuinely well-crafted.
+
+“Trade secret, I’m afraid. But I will say that it’s been a direbear to figure out how to make each part’s twitches feel authentic, so I do appreciate your interest, however feigned it might be. And that was the best reaction I’ve had in months—almost as great as the guy that started screaming when he realized what he was looking at. I kinda doubt you walked over here just for me though, so let me pay my mirth forward: whatcha need, my pretty?” The elf offered her a warm smile with her bottom lip protruding noticeably.
+
+Ranthia had no idea if the elf was flirting with her, or if the woman was just teasing her—but her heart was still focused on her disappointment over the dearth of Avyna. She was in no mood to play along.
+
+“I was trying to follow the directions I was given to reach the hunting group. Instead, I ended up here?” Ranthia answered.
+
+“Ah, you made a common mistake that gets pretty much every newbie sooner or later. The road you were following, Moonfall, actually turned off that-a-way back at the last intersection. You ended up on Moonveiled Journeys, which continued over here. I know, it’s needlessly confusing. Personally, I’d just keep cutting through this clearing, the street on the other side is New Horizons, just turn right onto it and you’ll find the Lodge to your left after a quick jaunt.
+
+“But first, mind if I ask what you’re looking for the Hunters for? Did you lose some stuff or a friend to a horrifying monster along the road?” The elf’s eyes were practically sparkling as she levied her unambiguously hopeful question.
+
+“…Yeah, no, I killed the only beast that took anything from me myself. I was told to go there, but I’m curious about them too.” Seriously, was everyone going to assume she couldn’t handle herself?!
+
+“Huh? Oooh, you’re a [Warrior]! I never thought to [Analyze] you; I was weirdly sure you were a dancer, given your gait and all. That would explain the armor.” Like most elves, she was surprisingly observant.
+
+But Ranthia wasn’t exactly trying to hide who she was anymore.
+
+“Both, actually. I’m a [Warrior] by necessity, but my love for dancing shaped it.” Ranthia admitted. Honestly, it felt good to finally be open about herself. As an Adventurer, she followed her favorite Guildmaster’s advice a bit too stringently—she’d tried to refuse to communicate anything about herself if it was tied to a Skill. Then, as a Sentinel, she’d been forced to keep her mouth shut to avoid spilling “secrets” to the shimagu. Only her brief window of time as a Ranger with Ranger Team 6 had been different—two damned years out of a full mortal’s lifespan.
+
+“Oh! Well, I hope you can make it as a Hunter, because seriously—ouch. You picked a bad time to come to the City of Arts as a dancer. There probably isn’t a single other Maestro-seating art that’s even half as viciously competitive right now. The top eight get shuffled around almost every time I blink. Just a few months ago Lillilii left the city after she failed to claw her way back into the top eight—and she’d been the Maestro of Dance when I got here. I mean, yeah—most of the core arts have rankings that run deep, but breaking into the top sixty-four in dance is a feat. I mean, I was plenty wowed by a pretty little number that wasn’t even in the top one hundred and twenty-eight!” Her sultry voice practically dripped with genuine sympathy.
+
+“Trust me, I have no real interest in competing. I just dance because I love dancing—I don’t give a damn what other people think.” Ranthia replied, willfully ignoring the times that she had danced competitively, like with Avyna’s horrid ex.
+
+“They’ll pull you in sooner or later. No one gets to avoid the rankings here. No one. If you asked me for advice—which you didn’t, because you have questionable taste—I’d tell you to step into it on your own terms, sooner rather than later.” The woman paused to wink, then glanced upward and frowned. “But I’ve probably held you long enough. Neither of us want to miss dinner when it opens up. Fair warning for you when you get to the Hunters’ Lodge: avoid my dad, he’s an asshole. And he in no way reflects the beliefs of me, my sister, or our much cooler mother. There’s a reason I never visit him.”
+
+“Noted. Thanks for the advice; I’ll see you around!” Ranthia waved and stepped around the booth to head for the road that the unusual elf had recommended.
+
+The elf’s laughter reached her a moment later.
+
+“Yeah, I’m here most days. And hey, maybe next time we meet you’ll actually ask me for my name, my pretty!”
+
+Her tone was playful, but that didn’t blunt the impact of Ranthia’s absolute mortification. People weren’t being rude—she was! She hadn’t even thought to give her name or ask the name of almost anyone she’d met since she arrived!
+
+How had she gotten that bad at conversing with strangers?!
+
+She’d have to apologize to… well, everyone when she had time. But there was no undoing her shameful mistakes; all she could do was make sure she improved. And as mortifying as it was, she was genuinely grateful for the blunt correction—she seriously owed the woman a drink or something.
+
+She still wasn’t going to buy one of those grisly sculptures though—she could all too easily imagine Clover’s terrified reaction!
+
+The brief walk gave Ranthia just enough time to master her blush (…hopefully), but the Lodge (literally just named that, with no indication of its affiliation with hunting) was pretty much exactly where the elf had told her it would be. In a city of vibrant expression, the Lodge stood out with its drabness—there wasn’t a lick of paint on the outside, and its architecture was surprisingly utilitarian. If anything, it looked more like a tavern straight out of Remus rather than anything made by elves. Even the sign on the front was minimal, just black Creation letters on a rectangular board.
+
+The windows were oddly dark, but the sturdy wooden door was ajar. So Ranthia carefully pushed it open—though she hesitated when the interior proved to be dark as well. Was the place already closed for the day?
+
+““Surprise!””
+
+Some two dozen elves erupted from beneath tables, from behind supports, and out of other hiding places as they shouted in a… valiant attempt at unison.
+
+“Wait, that isn’t Arvantus!” Someone in the group pointed out the obvious, after which the glowing crystals that provided light were reactivated.
+
+Ranthia—still in the doorway—was on a single foot, poised to start a dance, with her arms held ready. Feeling somewhat sheepish, she reversed the trail of adamantium sand back to her bracers as she slowly lowered her leg, eyeing the disappointed elves warily all the while.
+
+“And it’s a good thing too—she was ready to start knocking heads, but Arvantus would’ve been throwing punches you idiots! And if any of you shits mess with my lights again, I’m drawing Steel!” Someone roared from further in the back, which sent the other elves scurrying for their seats.
+
+In no time flat, the tavern returned to a comfortable level of noise as elves chattered and drank—as if they hadn’t just botched a surprise. Only a few people even glanced her way—none of them visibly guilty about their misdeeds—as she walked past.
+
+“Eh, sorry about that. These fuck-for-brains never think anything through. They’d probably eat my fucking tables if I ever took my eyes off of them for more than ten minutes. Arvantus hates surprises and he doesn’t need a celebration for his five hundredth hunt—especially not for going after a measly spine-eater.” The words were grumbled by the largest elf Ranthia had ever seen. She’d assumed the Maestro she met earlier was tall, but no—the woman on the other side of the bar was tall enough that Ranthia stood under her chest. She was dressed in a one-piece leather bodysuit that left her broad, muscular arms and legs on full display. Her short, practical hair was almost the same shade of brown as her leather, her eyes bore the telltale dark blaze of the Pyronox element, and her horns were massive, even on her frame (seriously, were those moose antlers?!). The woman probably had to duck and shuffle in sideways to pass through her own door!
+
+“What’s a spine-eater?” Ranthia asked after entirely too many moments spent gawking.
+
+“Local bug. They can live for several centuries, and if they get high enough level they start growing again and won’t stop. At some point they stop eating leaves and little bugs and start killing animals and crunching their bones for the marrow. They’re generally pretty low risk, but every now and then you’ll hear of one getting the drop on an elf. The Unchanging Council has a standing bounty on any of the fuckers that get that large, especially since the big ones tend to breed up other big ones.
+
+“But you’re not here for bugs. You’re here because you’re the stupid fucker that climbed a mountain for no reason and killed that damned gorilla. I can give you three medium jadeite and a small obsidian, or I can buy the remains from you and round it up to five medium jadeite.” The woman with the size (and musculature) of multiple elves fused into a single, magnificent form sassed as she stared into Ranthia’s very being.
+
+She should say something, right? She should accept the offer. Or protest that she’d climbed the mountains for a reason. Or something, why was she remaining silent?!
+
+“Wait, what? You’re telling me whatever that is killed the Lord of Decay? Pull my other horn!” A man at a nearby table interjected loudly (thank you!).
+
+“Oh, come off of it! Just because you were too cowardly to ever go after the beast doesn’t mean everyone else is incapable!” A woman sitting with her back turned to the man snapped over her shoulder before she went back to tearing apart the chunk of bread she was holding.
+
+“Hey, he’s one of the most accomplished Hunters here! I mean, who else among us has caught the same Mist eagle and failed to deliver it thrice?!” Another elf called out from some distant corner of the building.
+
+“Hey, new kid, what’s with the stupid grin?” The muscular elf drew Ranthia’s attention back to her.
+
+“Sorry, just reminiscing a bit. This is… exactly the kind of place I belong.” Ranthia wiped the wistful smile off her face and offered a proper Adventurer’s grin to the woman—full of fierce determination.
+
+Competitive yet (more-or-less) good-natured mockery? Eating and drinking while trading insults? Her long dormant inner Adventurer was being nourished with every crude sound that reached her ears—the sweetest of music. Sure, the Legions and even the Sentinels had indulged in some of it, but these people weren’t bound by any authority higher than their own zeal to head out and risk their lives for coin and for their own satisfaction. And that made all the difference.
+
+“Oh, by the first forests. Not another idiot!” The tall elf complained.
+
+“Name’s Ranthia, I’m an Adventurer by trade and by my own desire. First ratified by the Guildmaster in Sardonia back in 4801 and A-Ranked by the authority of the Guildmaster of Ariminum as of 4804. I’ll sell you the carcass, but tell me: what do I need to do to join your Hunters?” Ranthia kept her grin.
+
+These elves weren’t Adventurers—the Guild didn’t even exist beyond Remus’ borders. But they had a spark, one that was familiar enough that Ranthia felt at home in a way she hadn’t for over ninety-six years. She’d hoped to rediscover herself as an Adventurer when she made her decision to leave Remus behind, but she hadn’t dared to hope she could find something so familiar half a world away. And now that she had?
+
+There was no way she was going to let it slip through her fingers.

@@ -1,0 +1,103 @@
+---
+id: 4844a107-576a-529f-9a69-cf9cbf19be88
+page-type-slug: story-chapter-royal-road
+title: "v4c66: Excecutioner's Blade"
+slug: 0081-v4c66-excecutioner-s-blade
+partOf: beware-of-chicken
+position: 81
+ownLength: 1413
+unit: words
+ownProgress: 1413
+publishedAt: 2023-12-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1433996/v4c66-excecutioners-blade"
+royalRoadId: "1433996"
+markedReadAt: "2026-06-29T18:54:12.370Z"
+---
+
+There was silence in the arena as Zang Sheng fell and did not rise again. Bi De stood before him, his eyes on his opponent. His feathers had been burned, blood leaked out of his beak and he was clearly exhausted, yet he still stood proud and erect.
+
+Elder Chongyun just stared at the arena, his mouth open.
+
+One of the greatest talents of the Shrouded Mountain Sect, defeated by a mere chicken. Worse, his defeat had been broadcast all over the Sect; including to the tens of thousands of mortal servants.
+
+It was a massive gaping hole ripped in the face of their sect. Nothing could rectify this wound.
+
+Any other day Elder Chongyun would be taking every action he could to fix it. Any other day, except that on this day, nothing could compare to the monster idly watching the tableau below. He was still just sitting in the Patriarch’s chair and laughing.
+
+The Patriarch himself looked furious; but after being so quickly suppressed was unwilling to say anything—or incapable. He simply stood there, his shoulders hunched like there was a great weight upon him.
+
+“Bi De, you little rascal! I haven't enjoyed myself so much in years!” the old man said, his smile wide and his eyes twinkling. “A great show, boy! A great show!”
+
+The rooster turned to their box and bowed politely, even as the crowd remained in stunned silence.
+
+The old man laughed again and raised the Patriarch’s wine before draining the rest of the bottle. “Isn’t my student a treasure?” the old man asked, turning to Chongyun. “Three years old and already crushing Young Masters. It brings a tear to this old man’s eye!”
+
+Chongyun nearly spat blood at the casual mention of three years. The rooster had been only cultivating for three years and already he was in the Spiritual Realm?! There were transcendent geniuses, and then there was that!
+
+“Y-yes, Great Expert.” Chongyun said deferentially as the Patriarch began to struggle against the great weight that was obviously pressing down on him. He looked like he desired nothing more than to speak—to shout and rage against this treatment—but his mouth remained locked shut, as it had been since the man had commanded the Patriarch to be quiet. “Might this unworthy man know the name of Bi De’s master?”
+
+The old man smiled brilliantly. “Regrettably, I cannot take full credit for this cock’s growth. His First Master’s name is Rou Jin. I believe you’ve heard that name?”
+
+His smile was friendly and kind, like a grandfather’s, but it did not reach his eyes. Rou Jin was a young man, according to Yingwen. And he had mentioned not wanting to get his Elder Brother involved.
+
+His Elder Brother, who was postulated to be an Elder of the Cloudy Sword Sect.
+
+Which… fit this nightmare day perfectly.
+
+Chongyun swallowed. “Indeed I have, Great Expert of the Cloudy Sword Sect. We have followed all of his instructions, as he dictated to us.”
+
+The old man blinked, then let his head fall back as he laughed. “Ah, commanding entire sects already! Magnificent! I’ll have to commend him later!” The Patriarch’s face soured further, the sheer insult this man was offering them almost too much to bear. The old man mimed wiping a tear from his eye. “My grandson is truly a magnificent man, no?”
+
+Chongyun paled slightly. The Patriarch paused in his struggle to speak.
+
+“Grandson, Great Expert?” Chongyun ventured, choking out the words.
+
+“Indeed! Though, I suppose you were looking for my name when you asked the question about the name of Bi De’s Master, no?” The man was still smiling as he turned to look at the Patriarch who until that moment had been glaring hatefully at him. The Patriarch suddenly paled as his eyes widened in recognition and horror.
+
+“My name is Shen Yu.”
+
+The words were soft and simple, yet they resounded throughout the world as if his name was whispered by the very air that sustained them. Chongyun and his fellow Elder suddenly found themselves sweating and struggling to breathe.
+
+Shen Yu, the Unconquered Blade.
+
+He needed no other titles, though he had a thousand more. He was more a myth than a real man to most—even Chongyun would have thought him more a legend if he hadn’t heard the whispered story of the man sleeping with the Patriarch’s aunt.
+
+A cultivator in the Imperial Realm. A man who stood at the peak. A man who had apparently left the Cloudy Sword Sect because one of the greatest sects in the Empire couldn’t help him grow any further.
+
+If the Cloudy Sword Sect auditing them had been unfortunate, this could very well be the last day of the Shrouded Mountain’s existence. The Cloudy Sword Sect could be reasoned with. For all of their might they were extremely “by the book”, considered and fair in their judgment… or so it was said. If they found no demonic taint and were pleased with their efforts to root out the beasts they would have at most censured them for negligence, then set them about their business. It would have been unpleasant, but in the long run they would survive.
+
+Instead of the vaunted Cloudy Sword Sect, they were dealing with a man who was legendary for not letting slights go unavenged.
+
+And Zang Li, or the demon that had been inhabiting his body, had assaulted this man’s grandson.
+
+Chongyun barely managed to look at his fellow Elder, the woman’s face so pale she might as well have been a corpse.
+
+“I heard a fascinating story from my grandson. A story about a little demon coming from this sect,” Shen Yu said, leaning forwards so he could stare into the Patriarch’s eyes. His expression changed for a moment. Blank. The man’s voice was a hollow void. Emotionless. “So I just had to see if they were true. You can’t let such a taint set in, you know. You have to rip it out, root and stem.”
+
+Then the man suddenly leaned back, smiling again.
+
+“That's why I sent my little disciples ahead, to investigate the rumour for me. And if they found any demonic taint I would eradicate your Sect!”
+
+The man said it so matter of factly that Chongyun’s mind struggled to grasp the words. Shen Yu spoke of eradicating their Sect like a man spoke of the weather.
+
+“Your sect provided training to my disciple and his companions! Be grateful that you were of use to me,” Shen Yu declared, turning to the Patriarch. He was clearly expecting him to say something.
+
+“Th-thank you,” The Patriarch choked out, speaking for the first time.
+
+Chongyun swallowed again. He felt the knife’s edge that his entire Sect stood upon. He could not fail. He forced himself to speak. If they were to be destroyed he would at least face his end with dignity.
+
+“And… what is your verdict, Great Master?” he asked.
+
+Shen Yu blinked, turning to Chongyun with an appraising eye.
+
+“Well, how about we find out together, hmm?”
+
+Shen Yu nodded magnanimously, then stood.Then he strode to the edge of the edge of the Elder’s Box, and Chongyun and the others felt compelled to follow him. The pressure upon them lessened fractionally as Shen Yu’s attention shifted. Despite the danger, now that Chongyun’s mind wasn’t solely occupied with the thoughts of Shen Yu, he noticed that the disciples were practically rioting in the stands, shouting and hollering.
+
+“Silence,” Shen Yu said; and his will was done. He did not flex his power. He simply spoke and it was so. Every man, woman, and child on the Shrouded Mountain instantly ceased their movements, frightened mice before the tiger.
+
+“Shrouded Mountain Sect. By the will of the Emperor, this sect has been, over these past five months, investigated for demonic corruption.” Shen Yu unrolled a very official looking scroll marked with the Blazing Phoenix Seal, proof of the authority of the Son of Heaven. The people in the stands’ jaws dropped. “This investigation is concluded, and the outcome shall now be revealed. None shall be permitted to leave during this deliberation.”
+
+As he said those words, Chongyun felt the world suddenly close off as another barrier erected itself around the Shrouded Mountain Sect’s wards. Shen Yu then leapt into the arena, his aura dragging them all with him.
+
+“Bi De. Ri Zu. Yun Ren. Attend me, and give witness. The trial of the Shrouded Mountain Sect begins now.”

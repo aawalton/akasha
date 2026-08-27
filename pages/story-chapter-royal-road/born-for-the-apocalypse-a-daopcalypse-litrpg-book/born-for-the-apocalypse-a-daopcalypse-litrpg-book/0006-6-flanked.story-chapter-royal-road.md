@@ -1,0 +1,97 @@
+---
+id: 5f7eb224-5b92-5e4d-a625-6e1e27c5a13a
+page-type-slug: story-chapter-royal-road
+title: "6: Flanked"
+slug: 0006-6-flanked
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 6
+ownLength: 1209
+unit: words
+publishedAt: 2023-02-10
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1110200/6-flanked"
+royalRoadId: "1110200"
+---
+
+“It's here!” Sarah yelled out in terror, her eyes flashing in recognition as she placed the inky black silhouette she’d spotted in the periphery of her vision with the mutated Twilight Boar she’d seen Jack dispatch by the skin of his teeth.
+
+The rustling of shrubbery in its path had already alerted the rest of them a second prior, Sarah’s exclamation more an involuntary, instinctive reaction, but nonetheless it had served its purpose well.
+
+Jack’s gaze befell upon the arcing trajectory of the first Twilight Boar, still maintaining the chūdan-no-kamae stance as he assessed the threat.
+
+“Andrew!” Jack bellowed, his voice echoing forth with a primal edge. “Brace yourself!”
+
+That was the only warning he could offer before the second prong of the staggered attack bloomed. This Twilight Boar adopted a different approach, it’s approach on the craftier side as it weaved between shrubbery, trees and a solitary, mottled boulder, still managing an impressive speed. From the general angle of its attack, Jack had a rough idea of its target.
+
+His face sank.
+
+These boars, they were far smarter than he’d assumed the first time around.
+
+If the Twilight Boar he’d encountered hadn’t underestimated him…
+
+“Sarah, keep your spear raised! All you need to do is time it right!” Jack offered the best advice he could in the heat of the moment, especially after he realized that his reaction time was a little faster than the others— the additional two points in his already high perception seemingly having been worth it.
+
+He had not failed to utilize his Inspect skill on each of the boars the moment he’d caught a lasting glimpse. They were both Level 2 Twilight Boars, but that did little to reassure Jack’s frayed nerves.
+
+Trent seemed to be fighting demons of his own, sweat caking his forehead as he tried to position himself for a clear shot. The angle was a risky one, a single miscalculation and he would end up shooting his allies instead of the Twilight Boar.
+
+Jack’s heart told him to assist one of his two teammates, but his instinct warned him against it. He wanted to believe that the third Twilight Boar was too injured to fight, but there was something off about this attack.
+
+No, this was a coordinated attack.
+
+“Ahead, Trent!” Jack screamed, genuine fear seeping into his voice as his suspicion turned to reality.
+
+The third Twilight Boar had finally revealed its presence without deigning to employ any subterfuge, directly facing Trent and Jack who were nestled in the center of the formation. There were three main differences that separated this specimen from the other two— the arrow shaft sticking out of its abdomen, the streaks of vibrant gold running across its otherwise blackened fur and its markedly sharper, longer crimson horns.
+
+It offered no mighty roar as it broke out into a furious, vengeful charge, as droplets of its murky lifeblood trickled down its fur— the aftermath of Trent’s first arrow.
+
+Almost at the same time, Jack used Inspect upon it.
+
+[You have successfully inspected a Level 3 Twilight Boar!]
+
+“Shoot it down!” Jack commanded, having realized that Trent was the type to respond well to simple, direct instructions.
+
+That seemed to snap him from his reverie, as he let loose of the arrow he’d spent the last couple of seconds angling into position. Another luminous trail arced through the air, but this time something completely unexpected happened. Instead of slowing down, it sped up by a tempo instead, right towards them.
+
+The arrow, which would have originally at least grazed its mark, now punched into the arable grasslands instead.
+
+“Oh no, no, no,” Trent's panicked voice tinged with regret sounded out in his ears, the shaken archer spilling two arrows onto the ground as he plucked out a third, nocking it and releasing it with his trembling hands.
+
+The fear had already consumed him. He was no good.
+
+Jack grimaced as the arrow hissed past the boar by a large margin, only to be met by a second, more worrying realization.
+
+The Level 3 Twilight Boar… had been ignoring Trent. It was after him.
+
+Why? Shit!
+
+Of course— among their group of four, he was the highest leveled here. That, given how this twisted system worked, probably made him a target.
+
+“Run!” Trent at least had the decency to sound out his intentions as he broke out into a three step sprint before diving for cover.
+
+Jack remained rooted to the spot, preparing himself to execute a modified version of the Do strike; aiming to accurately strike at the beast’s abdomen with a slight curvature in the sword arc to increase the cutting force behind the strike. It was only his improved stats that gave him the confidence of attempting such a risky maneuver.
+
+But the beast had been concealing one more trick up its sleeve, a final burst of speed that it had been deceptively conserving until the last moment.
+
+Having already committed himself to the attack, Jack felt a burst of primal, unmitigated fear well up in his gut as he could feel the Twilight Boar’s crimson horns seconds away from punching through his abdomen.
+
+He desperately fought down the natural urge to break out into a dive— knowing that the time it would take to shift his center of gravity and generate the necessary momentum to fling himself far away from the beast was time he did not have. Instead, Jack let out a bestial roar as he angled his abdomen away from the approaching threat with a sidestep whilst committing himself to executing his sword strike.
+
+Two events took place in rapid succession. Jack felt the tip of his Qi Blade arc across the Twilight Boar’s right flank, carving a crescent moon upon its flesh. The pain only hit him a few seconds after.
+
+Jack let out an agonized, ear-piercing scream as the stinging, burning pain washed over him, his face flushed with blood and his neck veins becoming more prominent as adrenaline accelerated his heart rate.
+
+His dread-filled gaze shifted to the source of his torment, wincing when he saw the laceration that the Twilight Boar had inflicted upon the left side of his abdomen.
+
+It was followed by a relieved exhale.
+
+No vitals, thank fuck.
+
+Knowing that he had no time to hesitate, he pivoted on the balls of his feet whilst his free hand slipped into his left pocket, withdrawing the solitary Recovery Pill he’d placed there and swallowing it without hesitation.
+
+He had turned just in time to see the Twilight Boar readying itself for another charge, still standing despite taking a slash from Qi Blade— one look at it and Jack could immediately tell why. The wound he had rent was far shallower than it had seemed in his mind’s eye, visceral fear seemingly having affected his judgment.
+
+The Twilight Boar let out a vicious snarl before it threw itself into another headlong charge, with the addendum that this time, the distance it had to cover was much, much shorter than before.
+
+Jack slowed down his breathing, his left hand applying pressure to the wound as the beginnings of an exhilarated grin made its way to his visage.
+
+No plan survives first contact with the enemy, eh?

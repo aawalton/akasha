@@ -1,0 +1,205 @@
+---
+id: 771897f6-f21b-5be0-a0c5-4f8018b5ae5f
+page-type-slug: story-chapter-royal-road
+title: "v6c62: 宁静 (Serenity)"
+slug: 0251-v6c62-serenity
+partOf: beware-of-chicken
+position: 251
+ownLength: 2560
+unit: words
+ownProgress: 2560
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2572135/v6c62-ningjing-serenity"
+royalRoadId: "2572135"
+markedReadAt: "2026-06-29T19:00:00.539Z"
+---
+
+The snow turned to rain, washing away the white blanket which had covered the world. The ice upon the river broke apart and flowed away, leaving no traces of its existence.
+
+There was no Devil Storm this year. No last roar of winter’s wrath.
+
+The warmth stirred animals in their dens, and the seeds beneath the earth. The song of life, so quiet and whispered in the cold, once more began to shout.
+
+Spring’s march was as inevitable as time itself; the Cycle turning inexorably onward.
+
+======================================================
+
+It was pouring rain outside, and the rivers were swollen to the point where they had nearly breached their banks. Cold, wet, miserable. My least favourite weather.
+
+Thankfully, I didn’t have to be out in it! Instead, I got to be inside, in the greenhouse, which was rather packed today.
+
+“And that's why Gou and Xianghua need wildflowers and lotuses! Our wild man and his refined beauty from the Misty Lake!” Meihua finished her passionate argument about what kind of flower arrangement they would need for the wedding. It wasn’t like the weddings back in the Before, where the bride chose everything; it was mostly their family and village that set up the decorations. And with access to a greenhouse, they could really run wild even before the growing season started.
+
+Her speech was well-received by the women of Hong Yaowu and the Nezin tribe, women from ages eight to eighty all gathered to discuss and plan. They had already, after much back and forth, decided on the flowers for Yun Ren and Biyu, which included peony and jasmine flowers for longevity, elegance, and good fortune. They were traditional flowers, but there was a twist. My joking suggestion of bullrushes, for their resemblance to foxtails, also ended up in the arrangement. The bright and colourful flowers coming out of the verdant reeds was just the artistic picture; a worthy twist I knew the two of them would enjoy.
+
+When the clapping died down, Meimei took her turn.
+
+“I agree on the lotuses for Xianghua! However, mere wildflowers for my brother Gou Ren isn’t enough! Meihua sees only his youth, and not the refined man he has become! He is no longer only a hunter, wild and free, but an architect! Thus, a core of bamboo is necessary!”
+
+“Oooooh!” the crowd gasped.
+
+“But we don’t have no bamboo around these parts,” one of the Nezin tribeswomen pointed out.
+
+“The closest grove is weeks away,” another woman agreed.
+
+Meimei raised an eyebrow, and then jumped two stories into the air and touched the ceiling. She landed without a sound.
+
+“Oooooh!” once more the ladies said.
+
+“Right, I keep forgetting they can do that…” another muttered, and then they all turned to Hu Li, who, as Gou Ren’s mother, had the final say.
+
+She pondered the dilemma for a moment, before she nodded.
+
+“Meihua’s overall arrangement is superior, but the addition of bamboo really works,” she decided.
+
+Meimei and Meihua gave each other begrudging looks of respect, and I chuckled.
+
+It was kind of nice to be able to sit back. I had done basically all the prep for my wedding myself.
+
+This time, even though the scope was far, far larger… things were going to be easier. I was looking forward to it. Yun Ren and Gou Ren were basically my family too.
+
+=====================
+
+Before the warmth and rain, even the stalwart legion of winter had no choice but to fade. The men of snow who sat upon rooftops and beside front doors joined the water in sinking into the ground and swelling the rivers. Even the titanic General Who Commands the Winter and his most able subordinate, the Warden Who Sends Forth the Ice and Flying Snow, had no choice but to capitulate before the onset of Spring.
+
+Small impromptu funerals were held for the winter protectors. Children and soldiers clapped their hands twice and bowed with respect to the little legions who, it was said, had kept them safe.
+
+Their big, jaunty hats were preserved for next year by tender, loving hands. Their smiling faces seemed to linger, their cheerful grins of ash and soot stayed firmly upon their faces until they finally disappeared completely.
+
+The General was the last to fade. His frozen heart was gently removed from his breast… even if he did not truly need it anymore. His heart was now just a symbol, for the General had become so much more.
+
+His meritorious service had been recognised by this land’s lord. His spirit was firmly seated at her side. And as long as that throne lasted, as long as at least one person believed…
+
+The General would never truly fade.
+
+=======================
+
+“I know Biyu and Yun Ren said they would take care of everything, but they’re cutting it kind of close,” Shiban of Pale Moon Lake City said, while frowning at the muddy ground outside. “We’ll be late for our Little Owl’s wedding at this rate!”
+
+Shiban, master of his shipping company, was naturally a punctual man, who knew his travel times well. With the rains of spring, any travel by road was going to add to the timetable. Not to mention with their luggage… it was already prepared and ready to go, and Shiban was very much considering just getting started north.
+
+“Faith,” was the only word his wife, Mao, chirped to him. “Biyu said she would take care of it. Does our Little Owl lie?”
+
+Shiban just grumbled and continued his pacing, ruminating on his little kingdom. He had an able second in command for the company while he would be away in the north, at least, and operations should continue smoothly for the entire trip…
+
+Mao finally got fed up with his pacing and suggested a walk to get his mind off things… which did help. They walked around the little village that their operation was based out of, the various people bowing or greeting them warmly as they went.
+
+“Master Shiban! Lady Mao!” they would call… which did wonders for both of their egos. From being so poor that neither of them had a surname, to this? Shiban was proud of what he had been able to do.
+
+When they finally returned home, however, there was a massive carriage parked in front of their manor. Shiban had done well for himself, but even he had to gape at the sheer wealth represented by the vehicle outside his home. It was fully enclosed with thick, sturdy planks of wood, looking for all the world like an entire house on wheels. It was stained a warm dark colour, letting the natural wood shine through, save for some highlights of tasteful red lacquer. It had windows, and those windows were made of the finest glass Shiban had ever laid eyes on, so pure and clear it was practically invisible.  Were they being visited by a noble?
+
+“Master Shiban? Lady Mao?” a voice called out, and Shiban pulled his eyes away from the carriage, where they landed instead upon a beautiful woman with peach blossom hair. Her clothes were of the highest quality while still indicating the function of a servant, stitched with a hand so precise that even Biyu would have been impressed. As it was, Mao’s eyes widened at the quality of the work the woman was clad in. She had a disarming smile, and was so graceful and elegant her movements were almost hypnotic.
+
+Looming behind her was the most enormous man Shiban had ever seen. He was a titan, with shoulders as wide as a barn door, forearms like other men’s torsos, and fists the size of ham hocks. His hair was a wild, rust red, a mane more than locks of hair that connected with an equally bushy beard. Three savage scars cut down his face, barely leaving his forest green eyes intact, and a single fang jutted up from his lower jaw.
+
+Yet in spite of his brutal, bandit-like face, his clothes were expertly tailored to his giant frame,  equal in quality to the servant woman’s, and the smile the man gave Shiban was so warm and peaceful that Shiban felt his guard instantly lower.
+
+“That’s us,” Shiban stated carefully. At Shiban’s confirmation, the two swept into a bow.
+
+“This one is Shan Pi Pa, and this one is Shan Chun Ke; we have been given the task of escorting you to Hong Yaowu by our Master on behalf of Young Sir Yun Ren and Young Miss Biyu,” the woman said with her smooth, almost lyrical voice.
+
+Mao smiled brightly at Shiban, who easily conceded defeat.
+
+“Yes, it does please us!” Shiban declared.
+
+“Then we pack and depart at your leisure, Master Shiban,” Pi Pa replied.
+
+“Well, no time like the present. I am eager to learn more about the house our daughter will be joining,” Shiban said.
+
+“Master Ten Ren and Lady Hu Li feel the same,” Pi Pa said, before turning to Shiban’s manor and beginning to coordinate with their own servants.
+
+The packing was done in record time, with the big man Chun Ke stowing even the heaviest of their luggage with ease.
+
+The names were familiar to him—then he paused as he realized why.
+
+“Pi Pa? Chun Ke…? The pig and the boar?” he asked quietly, remembering the stories and the images he had been shown.
+
+“That is us,” the pink haired woman said brightly. “Young Miss Biyu was very kind to us.”
+
+“Friend Biyu gave us pretty clothes,” the big man said in a rough, slow voice, his warm smile never wavering.
+
+Shiban did his best to keep things calm. He was getting escorted by Spirit Beasts in human form. “And how long do you expect the journey to take?”
+
+“The journey shall take five days at most,” the woman replied with the utmost confidence.
+
+“Truly, you have horses that fast?”
+
+“Chen Ke will be pulling,” the man replied with a big smile. “Is fastest. Country roads will take us home.”
+
+Both Shiban and Mao struggled for a while trying to wrap their heads around the whole thing… then they decided that giving up was probably for the best.
+
+Instead, they just leaned back and enjoyed the journey. Outside, the forests and hills blurred past, yet inside the carriage, their ride was without bump or creak. It was almost unnerving, but thankfully they had a distraction. Pi Pa was a most able host, and her tea was absolutely delicious. The vast distance they had to travel disappeared under Chun Ke’s stride, the big man humming a catchy tune as he went.
+
+======================
+
+Yet even as their mortal forms above became nothing more than water… they were more than that. One by one, even as they fell from above, they appeared below, in a world that was both more and less than the world they had come from.
+
+It was vast and tiny. It was broken, yet being fixed. A place that had once been completely covered in snow… yet now had only bare patches, hanging on just for this.
+
+It was home to a little cottage. During the winter, it had been visited by many. They had tended the fire, they had told its sleeping inhabitant stories, they had cleaned it of impurities and dust.
+
+But now the fire had burned low. The dark skies glowed with a golden dawn, just on the edge of the horizon.
+
+The General was tired, as were his men. Their watch had been long and full of peril, but they had one last task. One last thing before their watch ended, and then they could sleep away the summer months.
+
+The cottage door cracked open. A great yawn came from a tiny body. The legions of the General snapped precise salutes, paying their respects to their lady.
+
+=========================
+
+The visitors started to arrive in Hong Yaowu, slowly at first.
+
+Shiban and Mao of Pale Moon Lake were the first, arriving in a great carriage, and they were greeted warmly by the village and the Nezin tribe. It was their first time meeting the house their daughter was to join—and yet they knew the instant they met Ten Ren and Hu Li that it was a good one.
+
+Next came Liao Yushang, Che Han, and Shao Heng, who were rather surprised that they had arrived before Bi De. They had been granted leave by their Master, who would be coming along later, to bring Nezan to see his nephew's wedding.
+
+From Verdant Hill came the Lord Magistrate and his retinue in full pomp and circumstance; and an old woman, blind in one eye, riding on a goat beside her husband.
+
+Then came the guests of honour. Yun Ren and Gou Ren marched toward their home; Biyu and Xianghua carried like princesses. Their arms were ceremonially bound, and the victors delivered their brides to their parents’ home.
+
+With them came a mighty honour guard: the Legendary Azure Heroes, one and all, with the Grand Marshal herself at their head; Fa Bi De and Hong Ri Zu joined them, along with an amused-looking old man, bushy of brow and beard.  Finally there was another man, an Elder of the Misty Lake whose name was Bingwen, to witness the ceremony.
+
+They did not get much rest, as temporary shelters were being put up… for the next guests arrived in their hundreds.
+
+They came bearing banners from the Age of Heroes, of what remained of their history. They paraded in their finest silks and most beautiful coats. Their hair was done in foreign styles, and the songs they played as they walked were unfamiliar.
+
+But just one look revealed the truth; these were kin to the Nezin tribe. They bore gifts for their cousins and their Young Master; and they were embraced like the long-lost relatives they were.
+
+A woman whose face was hidden with a wide-brimmed hat watched on, along with the ghostly fox on her shoulder.
+
+“Welcome home,” was the whispered greeting. “Welcome home.”
+
+==========================================
+
+Tianlan Shan looked upon them all and smiled. Her pride in them filled their souls.
+
+“A more handsome set of guardians I can’t imagine,” Tianlan said, reaching up with a tiny hand that dwarfed the General entirely to fix his hat, and position it at a jaunty angle. “I relieve you of your watch. Rest well, my General.”
+
+The golden dawn broke the horizon. The General disappeared.
+
+For a moment, Tianlan was alone. Along with the dull ache that still pervaded her bones. Yet in spite of everything… she felt the spring breeze. She was awake and alive. And most importantly…
+
+A warm hand landed on her head, tousling her hair.
+
+“Morning, sleepyhead,” Tianlan’s Jin said.
+
+“Good morning, Tianlan,” Tianlan’s Mei said from her other side.
+
+And they were not the only ones. The area outside Tianlan’s cottage started to fill. Bi De, Ri Zu, Chun Ke, Xiulan, Miantiao—
+
+So many little shards of golden light.
+
+In spite of everything, Tianlan knew.
+
+This… this was going to be a good year.
+
+They turned together to the golden sun. Peaceful, tranquil—
+
+And then a rooster’s crow split the air. Booming, loud, and echoing out over the entire Azure Hills.
+
+Everyone turned. Bi De paused, looking embarrassed that he had broken the moment of tranquility.
+
+“I couldn’t help myself,” he defended.
+
+Jin laughed, and ruffled his feathers.
+
+“You tell ‘em, Big D.”

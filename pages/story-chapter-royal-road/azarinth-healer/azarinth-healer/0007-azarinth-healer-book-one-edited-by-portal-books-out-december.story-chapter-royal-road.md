@@ -1,0 +1,25 @@
+---
+id: 6be594b2-1d6a-5c05-b6d1-61427fa9979e
+page-type-slug: story-chapter-royal-road
+title: "Azarinth Healer - Book One - Edited by Portal Books - Out December 1st"
+slug: 0007-azarinth-healer-book-one-edited-by-portal-books-out-december
+partOf: azarinth-healer
+position: 7
+ownLength: 309
+unit: words
+publishedAt: 2022-11-08
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1035092/azarinth-healer-book-one-edited-by-portal-books"
+royalRoadId: "1035092"
+---
+
+I will go into more detail on the release post when the time comes, but it’s been enlightening to work with my editor Brook. I had tried to clean up and edit those early sections of Azarinth a few times in the past four years but it always felt overwhelming. I needed help, and I got it.
+
+Of course, the core story elements and characters were present, but to me, a lot of it felt unfocused, the characterization shallow, the world still in its infancy, without any of the worldbuilding shining through (because I made a lot of shit up on the spot). Let alone my technical writing skill. I suppose there was a charm to it at the time, back when Royalroad wasn’t quite as competitive and massive as it is today, but for a real book release, I wanted it to be cleaned up big time.
+
+Ilea is the same Ilea that we know, but she feels more grounded to me now, her actions and decisions make more sense, as do her emotions. Same for many of the other characters and the world itself. The readability and flow both in technical aspects and pacing should be improved a ton as well, without losing the chill/journey vibe that I really like. And I made sure to put in a bunch of easter eggs for anyone who’s read the original version already :).
+
+Oh, and the audiobook for the first book is done as well. Andrea Parsneau essentially became Ilea for this one, so if you’re interested in that, stay tuned. I can’t share any release date info on that yet as we are still working a couple of things out.
+
+So yeah, book 1 is up for preorder now. If you do get it, I’d love to hear what you think :).
+
+Thank you for reading, as always.

@@ -1,0 +1,131 @@
+---
+id: 727035b1-a5cf-57ed-9f84-f09bd5621fea
+page-type-slug: story-chapter-royal-road
+title: "v7c53: Golden Blood"
+slug: 0306-v7c53-golden-blood
+partOf: beware-of-chicken
+position: 306
+ownLength: 1925
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3339799/v7c53-golden-blood"
+royalRoadId: "3339799"
+---
+
+We spent a bit more time in Xiulan’s office, listening to her plans for the future. Teacher and Xue Ji also helped her go over some of her logistical challenges. It was just some minor stuff, but Xiulan looked like it was quite a load off her shoulders.
+
+After that, we went outside the mountain and towards the training grounds.
+
+What had once been a bunch of villas rendered nearly useless by Zang Li’s fire had been completely revitalized. Everything was fresh and new, and there were a lot of cultivators about, moving to and fro with purpose. Just like in the mountain, the younger generation would stop and bow to greet Xiulan—though unlike in the mountain, it was anything but quiet here. There were shouts that carried to our ears even from here, gongs to denote bouts, and the sounds of general exertion. I recognised it from my days in the Cloudy Sword Sect—the sound of training cultivators.
+
+Remembering my promise to Yin to look over the Spirit Beasts she had killed, we diverted towards the red flags that held a wheel of flaming swords arranged in such a way they looked like a sunburst or a flower.
+
+We soon reached a large arena, full of people. They were paired off in twos and sparring with each other, fast-paced and full contact. Yin was among them. Her body was covered in solar armor, and she was currently engaged in a tight, focused duel against another person. Her foe was clearly outmatched—but when her fist slipped through their guard there was a light tap instead of a blow that would have sent them through a wall. She spoke to the other person and they paused in consideration before nodding. Yin then stepped beside them and started showing them a sequence of movements. Her sparring partner nodded again and then started doing the moves she had just demonstrated.
+
+Yin nodded, but just as she was about to start again, she noticed us.
+
+“Grand Marshal! Big Br—er, Master Rou!” she shouted, waving. The sparring instantly stopped, and the people once more turned to bow to us.
+
+“I heard yourself and your Blazing Swords defeated some powerful foes,” I said. “I’ve come to see the trophies."
+
+The members of the Blazing Swords present immediately straightened up, pride on their faces.
+
+“Yes, Master Rou! Before our training here, we would have surely been slain!” one of the cultivators declared.
+
+“They were vicious things—very destructive. They put even Wreckerballs to shame!” another said, clearly boasting.
+
+“Yes, one was at the Fourth Stage of the Initiate’s Realm—what a monster!” the final cultivator said, shaking his head.
+
+“A mighty foe indeed,” I agreed. For the Azure Hills? The Fourth Stage was the makings of a legendary monster.
+
+“I’ll take over, Captain Yin. Please attend to Master Rou,” Xiulan said.
+
+“We’re getting pointers from the Grand Marshal!” somebody whispered, their voice full of excitement.
+
+“We’ll stay and watch,” Teacher said. Both Washy and Babe looked interested as well in the proceedings. In the end, it was just Meiling and I as Yin took us into a nearby administrative building.
+
+“I’ve already got them all out,” Yin said, referring to the mutated Spirit Beasts. And as soon as I laid eyes on them, I knew exactly why she had thought them strange. “One encounter was this one… and the other was this.”
+
+They were just the skins, to preserve them better, but they looked wrong. The first one she pointed to had once been a bison.
+
+Once been. It was twice the size of its former species. Its fur had turned bright crimson red. Its horns had turned into see-through ruby antlers. Its two front legs had grown unnaturally long, and its mouth was completely devoid of fur, instead showing only cracked and charred lips.
+
+“I can still smell the fire on it,” Meiling said with a frown.
+
+“Fourth Stage of the Initiate’s Realm; and it popped up four months after the Solstice. Flames came out every time it breathed. It set twenty Li of grassland on fire, and we were lucky it was raining. Its blood was liquid flame; the first few people to stab it nearly died. I tried talking to it but… all it did was scream about how much it hurt,” Yin said, looking with sorrow at the Spirit Beast. “This one… didn’t deserve what happened to it. It was just thrashing and burning, and it was already dying… I just put it out of its misery, you know? Least I could do, for something that I nearly shared the same fate with,” Yin sighed.
+
+Tianlan had mentioned helping Yin put her conflicting natures to right. I put my hand on her shoulder.
+
+‘It was deviating. It would have died with or without Yin,” Tianlan said, and I felt some of her sorrow. “Too much Qi isn’t a good thing.”
+
+I let out a breath and shook my head at the image. Yin was right, it really didn’t deserve what had happened to it.
+
+“And the other one?” I asked, after a moment.
+
+She directed her gaze to the next… Spirit Beast. “This fucker though, popped up three weeks ago.”
+
+It was a groundhog… but it had a bunch of golden, crystalline spines sticking out of its back.
+
+“What did it do?” I asked, a little amused at Yin’s ire towards the groundhog. It was only the size of a football.
+
+“See those spines? It could break them off, stab them into others of its kind, and then both control them and use techniques through them,” Yin said with disgust. “Sneaky little bastard,  too. At first, it was a weird dirt construct that looked like one of those octopus things Seiyu described.” Her arms wiggled like tentacles. “It would pop up and attack a village, just appearing inside the walls. Several teams fought it and thought they destroyed it—it was devious enough to give the constructs what looked like a core, while they controlled it from underground through their proxy. Another would pop right back up a few days later. When we finally managed to catch one and pull it out, all it did was scream about how we were inferior creatures, slaves to the Under Empire, and that he, the ‘Emperor’, would conquer all the ‘Great Green.’”
+
+“It sounds like a delightful creature,” Meimei deadpanned.
+
+“You don’t know the half of it. We managed to find our way to the heart of its territory, and fought a giant dirt thing.” She pointed to the groundhog skin. “Little mister Emperor spent the entire fight ranting about how he was going to capture and fuck me.”
+
+“He what?” Meiling asked, the slightly amused smile instantly dropping off her face. Her eyes locked onto the skin. I felt my own fist clench.
+
+“Yeah, so I punched him,” Yin said with a shrug, clearly unconcerned. “But before he died, he was screaming that it was impossible, that he was divinely favoured and ‘anointed by the power of gold’.”
+
+“If they changed that much…they must have drank a lot of my blood,” Tianlan said, and I could feel her grimace.
+
+“… well, it's a good thing we’re fixing this,” I said to Yin after a moment. “Where did you say you found them?”
+
+“They both came from the northeast, close to Ash Forest,” Yin said. “There’s honestly not been any concerning reports from around this section of the province, even after you mentioned that big blowout. We’ve all been paying close attention.”
+
+“We can’t really feel the Ash Forest either,” I thought to Tianlan. It was one of Tianlan’s main dark spots, so to speak. Big D hadn’t spent much time there, and the thread Tianlan had followed him with had pretty much shattered at the end of the Solstice. She only had vague feelings about the place. “Should we make a detour in that direction?”
+
+“Only if you want. Chances are they drank everything on the surface if they were like… well, that,” Tianlan said. “The Ash Forest doesn’t feel like there's any big leaks, so it's strange that two came from that direction.”
+
+Two incidents in six months. The couple more days we wouldn’t change things too much. The bison hadn’t actually done anything but scare people, the poor thing—and it had likely only gotten reported at all because there was a better information network. The groundhog, on the other hand, had killed eight, and caused a lot of property damage.
+
+“I trust you and Rags to keep an eye out,” I said, nodding at Yin. “But we might also make a bit of a detour after we leave the peaks. Just me and you, Meimei. Go for a run, fix it quickly, and then spend more time back here in the Grass Sea.”
+
+Meimei looked surprised by my offer, but then she smiled. “Oh? Just us on an adventure?”
+
+“Yeah, just us,” I agreed. “But for now, I leave it in the Azure Alliance’s hands.”
+
+Yin nodded solemnly.
+
+“That’s our job—to protect the Azure Hills,” Yin swore. “We’ll take care of it!”
+
+Her voice was full of confidence and conviction. Not just confidence in herself… but confidence in everyone else here, too.
+
+==============================
+
+We left the Blazing Swords after watching them train for a while. They were all training hard, and it was kind of funny watching people working out and using things that we used back home. Yin had hammered a set of kung-fu poles into a pool of water, and there were people balancing on top of them while dodging rocks getting thrown their way.
+
+From there, we saw the Tiger-Leopard Outriders, under Loud Boy. Their training arena was much less full, but there were still a lot of people rotating in and out of the compound. To my amusement, they were all wearing bags that looked extremely familiar.
+
+“I mean, you designed it for carrying mail, Lord Magistrate, but with a few tweaks it works really well for carrying everything an Outrider needs!” Loud Boy declared. “Also, we do end up having to carry a lot of messages…”
+
+Teacher looked most amused by the fact—even Shaggy Two had one, sized just for him. The big, fluffy, white dog seemed to be something of a mascot, drifting between sections with the Torrent Rider, who was still learning from everyone.
+
+Finally, we came to the White Tigers. And there Tigu stood, her hands on her hips, and a big smile on her face.
+
+Before her were not warriors, but scholars, instead.
+
+Some of whom were looking quite frustrated.
+
+“The new recruits are currently taking their preliminary ethics test,” Tigu said with obvious pride.
+
+I nodded sagely, managing to keep the smile from my face. “A wondrous idea—ethics are often overlooked, but an integral part of synthesizing one’s world view,” I said, laying on the Old Master wisdom. I let my voice carry so everyone taking the test could hear it.
+
+A bunch of people suddenly looked a lot more eager to be taking the test. Tigu beamed, and Xiulan shook her head with a smile.
+
+It was just past midday when our tour of the grounds finished. The Lord Magistrate and Lady Wu begged off, the lack of sleep finally catching up with them, and Xue Ji went with them back to the mountain.
+
+They went back to the room, and we continued on into the town around the Dueling Peaks.
+
+I was looking forward to seeing how it had changed… and seeing how the little shopkeeper, Ning, was doing.

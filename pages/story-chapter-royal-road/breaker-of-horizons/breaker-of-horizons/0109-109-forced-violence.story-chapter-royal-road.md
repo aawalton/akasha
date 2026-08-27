@@ -1,0 +1,93 @@
+---
+id: 5c4b0bd6-538d-5265-a3e5-42e6caad6169
+page-type-slug: story-chapter-royal-road
+title: "109. Forced Violence"
+slug: 0109-109-forced-violence
+partOf: breaker-of-horizons
+position: 109
+ownLength: 1905
+unit: words
+publishedAt: 2021-05-17
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/683901/109-forced-violence"
+royalRoadId: "683901"
+---
+
+If Caden hadn't been totally immersed in the arcanic sea, he would have been totally blinded by the intensity of the fire that now snarled all around them. But tuned in as he was to the arcanic flow, he was still aware of what was happening. The deadly heat was being held at bay by a layer of arcana that had wrapped itself around each of them, and Caden traced it back to Ambrose, who had abandoned the frontline at the last moment and flashed back to aid in the defence.
+
+For the first time, Caden was finally able to see just how much farther along in thaumaturgy Ambrose was. The barrier that Ambrose had spun into existence in that tiny fraction of a second was utterly alien in design to him. And even though Caden's arcanic senses were probably the most advanced in the group, with the exception of Ambrose, he didn't have the faintest idea how it worked. The weaving was inscrutable and did not give off so much as a whisper of its nature to Caden.
+
+'Idiot!' Caden heard one of their assailants berating another, their arcanic communication loud and brash. 'We need him alive!'
+
+Ambrose's message was more tightly focused, threading neatly between the seven of them. 'We need to move quickly. We're not going to hold them all off. We have to make a run for the garage.'
+
+'We need distractions to make it there safely,' Kevan responded, and they all saw his mind spinning out the bones of a diversion.
+
+'Yes,' Emilia concurred, joining in and riffing off his ideas. 'The auric signatures we used against the wild augera, and the mirrors, and some other points of origin for attacks... we can produce the illusion of our own reinforcements joining the fray.'
+
+Lynus' mind was wandering down a completely unexpected tangent — Caden caught a glimpse of his idea to actually modulate the field of arcana itself in their immediate vicinity. It occurred to Caden that this was probably how he had managed to stabilise himself so well in the presence of the Geldor Spire augera. 'I can run interference, make it harder for them to spot us.'
+
+At the same time, Jerric was physically helping Devon to his feet and bolstering the restorative weaving that Caden had placed over him. 'Can you move?'
+
+'Definitely,' Devon responded, threading arcana through his muscles even as he steadied his breathing. An iron resolve bled through their link, and Caden marvelled at how Devon seemed to be animating his battered body with arcana alone.
+
+'Alright everyone, we move in ten seconds. Caden,' Ambrose called, 'you're with me. I'll supply the structure, you supply the flow.'
+
+There wasn't any time for Ambrose to discuss the details of what he was going to do, but through their gestalt link, Caden caught the sense of it and he baulked at the direction Ambrose was leaning in.
+
+'No second-guessing!' Ambrose snapped at him, uncharacteristically forceful, before directing his attention at the rest. 'Let's go!'
+
+As one, the seven of them sprang into motion. Ambrose was the fastest, his arcanic-assisted movement honed to near-perfection (or so it seemed to Caden). But instead of heading straight to the garage, he broke off from the group and took a running jump, launching himself almost ten metres into the air in the direction of the enemy gestalt. Caden swallowed his misgivings and was only several steps behind Ambrose, and his leap only sent him half as high.
+
+As soon as Caden was in the air, he felt a shifting in the arcana and almost lost contact with the rest of the gestalt. It was as if Lynus had thrown a blanket over the luminous auric-ambient-flares of his friends. Just before Caden lost them entirely, Lynus reached out and re-established a ghostly tether, and Caden sensed a second link slither after Ambrose to keep him connected to the gestalt as well.
+
+Meanwhile, Emilia had already conjured several auric signatures into being at various locations. Some of them were faint because of how much distance she had to bridge to produce them, but in a pitched battle, they would be enough to serve as a momentary distraction. The feint was bolstered by an impressive flurry of heavy arcanic bolts coming from each of them, all directed at the enemy gestalt, expertly managed by Kevan so that they were credible threats that would do real damage if they weren't deflected.
+
+And then, in the two or three seconds of air-time that Ambrose had, he began his weaving.
+
+It had seemed reckless at first for Ambrose to place them both directly in the line of fire like that, but once Ambrose started working, Caden understood. The enemy gestalt desperately fired off a series of arcanic bolts at the two of them, but none of them ever made contact. Their energies were torn apart and instantly converted into fuel for his sequence even as he drew in more arcana than Caden had ever seen before in any fight, even the one when he had been ambushed en route to Geldor.
+
+And it still wasn't enough! Caden felt a tugging in the gestalt as Ambrose literally yanked in even more arcana, using Caden as a conduit. He let out a gasp of pain, then yielded to it and started actively pouring in the energy that Ambrose needed. He gave as much as he could, channelling more power than he had ever done before. It occurred to him that the arcanic demand was so absurdly great that if any of the others were in his position, they would likely have died outright from overdraw. He could hardly even understand how he was managing this at all.
+
+Just as Ambrose landed, Caden felt the sequence go off. It was just as alien and inscrutable as the barrier Ambrose had conjured to save them earlier, but this time Caden felt a faint note of recognition anyway. He had seen something like this before... when the Creyvlor augera—
+
+—the dense knot of arcana that Ambrose had amassed opened like a deadly flower. It didn't produce any visible effect at all in the real world, but Caden saw its threads snake out towards the auric-ambient-flares of the enemy gestalt. It moved with predatory grace and, distracted as they were by Kevan's barrage, they didn't notice it until it was almost upon them. Even then, it defied all attempts to blast it aside, twisting and swirling through the arcana almost as if it had a mind of its own, bridging the distance effortlessly. It slid through their barriers like a needle through satin and sewed itself into the threads of their auric-ambient-flares.
+
+And then, with a simple twist, Ambrose pulled them all apart.
+
+Caden landed only a second later, and he got to see them all fritter away like dust in the wind. They didn't even have time to cry out before they disintegrated into nothingness.
+
+'Move,' Ambrose sent tersely, sounding drained. 'More are coming. Can't deal with them all.'
+
+Caden felt the connection with the rest of the gestalt intensify as Lynus pulled him and Ambrose into the bubble of concealment. They were already loading up a transport. 'What the f—' he began.
+
+'Later!' Ambrose snapped, mustering enough strength to propel himself towards the rest. Caden followed behind, bolstering his flagging limbs with arcana. Every inch of his body and even his auric-ambient-flare felt bruised and battered from what he had just done to help Ambrose.
+
+When Caden finally got to the garage, he stopped in his tracks. If the situation hadn't been so dire, he might have spent more time there gawping. There were a number of luxury vehicles that would've merited at least an hour or two of examination, but what captured his attention now was what looked like a fully-equipped expedition trailer at the far end of the garage.
+
+"Hurry up!" Devon called, beckoning to him from the back entrance where Ambrose was clambering on board.
+
+He shook himself out of his reverie and dashed over. But even as he hurried on board, Ambrose rushed him to the nearest seat and pulled him into the arcanic sea, so there wasn't any time for him to properly take in the interior.
+
+'What?' Caden asked, bewildered.
+
+'Kevan's driving, Lynus is navigating. Emilia can't handle the diversion to the same level as Kevan. I can do Lynus' concealment trick, but you need to help Emilia with running interference.'
+
+Caden acknowledged the command and was about to get to work, but Ambrose pulled his attention back for a moment. 'Caden, don't hesitate. Use this.'
+
+Ambrose wove together a knot of arcana which, to Caden's senses, felt a lot like an ensorcelment. But it seemed to resonate in a rather different way — more benign, and less coercive. It was an invitation, not a compulsion.
+
+'What is it?' he asked apprehensively.
+
+'Military-grade sequence,' he replied brusquely, then flitted away to begin enveloping their entire transport in a bubble of concealment. Even though he had probably only just picked it up by observing what Lynus had done, Caden thought it seemed even more complex than the original, as though Ambrose had already layered in some improvements.
+
+Caden gingerly held the little ball of arcanic knowledge as he drifted in the arcanic sea, caught in a moment of indecision. Did he want this power? Would he be able to use it to dismantle others, like the Creyvlor augera? Like Ambrose?
+
+'Caden!' Emilia cried out, her voice much fainter in the arcanic sea than Ambrose's, owing to her lower level of attunement. 'Need help!'
+
+He swallowed his misgivings and unravelled the orb, allowing its knowledge to meld with his auric-ambient-flare. He felt a flood of relief when he realised it was not the disintegrating sequence that Ambrose had employed — it was the shield-piercing type that the agents had been employing against them so far. It was still fatal if it made contact with flesh, but somehow it seemed less horrific to use this to kill if it came to it.
+
+Caden quickly navigated the arcanic sea and made firm contact with Emilia in a gestalt. She had already supplied the auric signatures that would serve as decoys, but they were rapidly unravelling to enemy fire even as she desperately tried to shield them. And other auric-ambient-flares were honing in, learning to disregard her decoys since they weren't firing back.
+
+Caden quickly slipped into the formation that Emilia had established and began raining heavy arcanic bolts on their pursuers. At the same time, he started building the patterns with the sequence that Ambrose had just given to him, and now that some of the pressure had been taken off her, Emilia managed to divert some of her attention and energy to supply those sequences with the arcana they needed to come to fruition. They blossomed, sending deadly lances of concentrated arcana that shattered shields and pierced flesh.
+
+There was so much happening in the arcanic sea that Caden wasn't paying attention to anything at all in the physical world. He had no idea what was happening in the field of battle out there, but he imagined that it was messy, and loud, and terrible. They were likely carving a bloody, fiery path out of the High District. He could only hope that the twins would be able to get them out before their pursuers caught up.

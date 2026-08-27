@@ -1,0 +1,297 @@
+---
+id: e0fd7037-f00a-5cb3-a4da-fcbf6d9732bc
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 7 - The First Challenge"
+slug: 0008-book-4-chapter-7-the-first-challenge
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 8
+ownLength: 5377
+unit: words
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2521372/book-4-chapter-7-the-first-challenge"
+royalRoadId: "2521372"
+---
+
+Ranthia was a bit surprised that she wasn’t woken up during the night, but she was still awake before the sun rose. She carefully slipped out of bed—successfully managing to avoid waking Avyna—and hurriedly prepared some light food. Warm, mushed grains, a little honey, and two of her few remaining pears.
+
+After quickly eating, Ranthia picked up her armor and undergarments and shifted to get them on. It was one of her spare sets of armor; her prior set had been too heavily damaged to readily repair—odds were it needed to be broken down into spare parts. Once armored, she tugged her blindfold into place and pinned her Sentinel badge onto her chest. The only issue was her arcanite; her belts’ stores hadn’t recovered much yet, but at least her armor had fresh stones that were fully charged and ready to use.
+
+There were a few other changes. When she reflected on the prolonged battle against the shimagu army, she decided that the adamantium she had kept around her neck and ankles wasn’t working. The weight was more noticeable than she had expected. Instead, the adamantium that wasn’t used in her bracers/knives was stored in her belt pouches—in its ‘sand’ form—to better distribute the load and have it on-hand for when she needed it.
+
+Confident that she was ready, Ranthia turned to exit their home.
+
+“My love.”
+
+Avyna was next to the divider curtain, still wrapped in a blanket stolen from their bed, but there was no trace of lingering drowsiness on her features. Instead, there was concern in her expression, along with a clear amount of resolve.
+
+Ranthia rushed over to hug her. She was even starting to get used to the fact that her armor wasn’t an obstacle, Avyna was resilient enough that she could still get a delightfully tight squeeze.
+
+“Do be careful. Remember your promise.” Avyna ordered. Her voice wasn’t quite as steady as she no doubt intended it to be.
+
+The enemy army was near, and they would be ready for Ranthia. She had shown nearly every trick she had just to stay alive.
+
+“I will, always. But I need you to stay inside.” Ranthia countered.
+
+They had argued about this a few times. Avyna was confident that she could fight, but outside of three Skills—[Catch], [Return], and [Elven Experience]—she had nothing in her kit for combat. Ranthia refused to take the chance—there was a vast difference between a [Warrior] or a [Mage] and a [Merchant] with a couple of semi-useful Skills! Their home was supposedly the safest place in Remera, and Ranthia needed to trust that it would be there after everything was done.
+
+And there was no home without Avyna.
+
+“…I will.” The elf agreed after a long moment. She plainly wasn’t happy about it, but that was understandable.
+
+War wasn’t something anyone should be happy about.
+
+“I love you, and I’ll see you soon.” Ranthia offered. She had no idea what form ‘soon’ would take, but she meant every word.
+
+Ranger Command would strip her of her badge if they knew, but if Remera looked as if it would fall… well, Ranthia had her own contingency plan. She would be haunted by it, but she was fully prepared to sacrifice the base to delay the enemy while she got Avyna—and maybe anyone else she safely could—out.
+
+They shared a final—gods and goddesses, horrendous word choice—kiss, but Ranthia couldn’t let it linger for too long. She was half expecting to be torn away by the horns at any moment.
+
+“As your people say: good luck!” Avyna called out while Ranthia made her exit.
+
+Ranthia made her way to the wall through the predawn gloom. Legionaries were stirring and preparing around her. Remera was quiet in some ways—there were precious few words carried on the hot breeze—yet the base was undeniably abuzz with activity as everyone (more-or-less) efficiently carried out final preparations.
+
+Ranthia took her position on the wall and waited.
+
+The sun rose over the horizon and several of the legionaries keeping watch on the east cursed Solaris—because a bit of casual blasphemy against the Goddess of the Sun sounded like a great idea just before a battle. But before the sun had even climbed into the sky high enough to erase the vivid colorations its first rays had cast, the first call went up.
+
+The shimagu army’s ranks were sloppy by Legion standards and their march was mismatched, yet they undeniably moved as one. They were barbaric, but they were a cohesive army that followed orders. Even with the devastation that Ranthia and Night had inflicted, the [Analysts] pegged the army at roughly twelve thousand.
+
+Most towns in Remus had fewer people than that.
+
+Ranthia was usually glad that she wasn’t the type of Sentinel that could unleash widespread devastation over a large area, but as she surveyed the approaching army—and truly got a sense for just how reckless she had been to engage a large group of unknown scale—she almost wished that she was capable of it.
+
+Ridiculous rumors of exploding aside, Ranthia had no doubt that Remera could have used a Void [Mage] far more than they needed a Void [Warrior] at her level.
+
+The approaching army wasn’t in range yet, though the flat terrain and larger size of their opponents seemed to mess with a few legionaries’ sense of perception—a few arrows or Skills were loosed prematurely, destined to crash uselessly into the rocky terrain. It was about then that the base commander began his speech.
+
+He was safely ensconced within the base’s walls, but his amplified voice was hard to miss. It was the kind of speech that Ranthia expected from a career Legion officer—pompous and generic, it treated them like game pieces to be sacrificed and used at his whims. Yet, somehow, the legionaries seemed to eat it up and roared at the appropriate moments.
+
+“Madam Grace.”
+
+A voice interrupted Ranthia’s half-hearted attempts to listen to the generic imperialistic drivel. Ranthia turned and found the short mousy woman—girl, honestly—that was often near the base commander. A young woman with a rank that obviously outweighed any achievement she could have rationally managed as a level 304 [Mage] that was likely barely out of her teens. Ranthia had never paid the girl much attention and had written her off as the child of some general or senator that was given a cushy gig.
+
+“What do you need?” Ranthia asked diplomatically, fully immersed within her Sentinel Grace persona.
+
+“Orders for you, ma’am. First just let me… actually can you sit or something?” The girl requested.
+
+Ranthia resisted the urge to roll her eyes and knelt so the tiny brunette could carefully press something smooth and cold into her ear. After several moments, the girl stepped back and whispered into one of her many polished stone bracelets.
+
+“Can you hear me?”
+
+Amazingly, the whisper also came through at normal speaking volume right into Ranthia’s ear.
+
+“That’s… handy?” Ranthia blinked.
+
+“What, you didn’t think I got promoted this fast because of my hundred or so points in [Cute], did you? I might just be the greatest genius of a Sound [Mage] in the empire’s history.” The very humble girl humbly humbled.
+
+“Right. What’s the range on whatever you stuck in my ear?” Ranthia asked. She wasn’t about to point out just how young the empire was; she didn’t mind letting the young have their false pride while they managed to cling to it.
+
+“Erm, not far. It’s limited to how far I can shout and be understood normally. My uncle—er, the commander, I mean—wants you on that skinny rock over there. We’ll give you further orders from there once we know the situation.” The girl explained while she pointed past the wall.
+
+Ranthia followed the kid’s finger. It was the narrow tower of stone—the leftovers from the mesa that the Earth mages had ripped apart to make the base’s walls.
+
+That… at least finally explained why the melee legionary forces were mustering around it. Ranthia had long figured it had been left to be dropped on hostiles. That would make sense, but apparently the Legions had abdicated sense—instead, it was left as a stage.
+
+“So… he honestly expects me to go up there and just stand there?” Ranthia fought to keep the grouse out of her voice.
+
+“Only for the moment, we need to see what the enemy forces are going to do. It’s tactics.” The mousy kid replied.
+
+“…Fair enough.” Ranthia finally agreed.
+
+With that, she vaulted off the wall and Ranthia was vaguely gratified to hear the kid’s shocked gasp ring out. The walls were tall by Reman standards, but Ranthia was far beyond anything Remus could measure. She landed easily and sprinted to the pillar of stone—a shift would have been faster, but she wasn’t in a hurry to waste mana before the fight began.
+
+Plus, she had no idea how whatever the kid had shoved in her ear would react. Given how energetically inscriptions could fail… Well, precautions never hurt anyone—so long as they were reasonable.
+
+The tower of stone was, at least marginally, less precarious than it had seemed from the base walls. She still could have sworn she had seen it sway in a stronger wind before, but it had endured that storm without collapsing. There weren’t any visible cracks or signs around the base that it was about to come down, which meant she had no excuse. Spikes had even been driven into it to form a ladder that was easy for her to climb.
+
+Though she certainly could have done without the soldiers below noisily trying to look up the skirt of her armor. Seriously, she had modest undergarments—they would see more titillating sights just walking around Remera!
+
+Ranthia was in a surly mood by the time she assumed her instructed position atop the narrow stone and glared down at the approaching shimagu army. At least she was about to be able to vent her frustrations on more deserving targets. Deep down, she knew that the legionaries were just trying to blow off steam and acting out due to their nerves, but being treated like an object rankled. She had spent her entire childhood trying to be treated seriously, she sure as fuck didn’t need to deal with the same inanity as a godsdamned Sentinel.
+
+Soon, she promised herself.
+
+War was ridiculous.
+
+Two armies couldn’t just show up and start spearing each other, gods no—that wouldn’t be war. Apparently, instead, the armies had to arrive, gather, form ranks, and square off. There was pageantry involved in the prolonged process. Of course, the shimagu were rough and unpolished compared to the Legions—their understanding of war was copied from Remus’ ridiculous ideals, which, by definition, made them a crude facsimile.
+
+The mousy teen’s voice sometimes appeared in her ear and reminded her to wait, as if Ranthia had anything else she could do. Even she wasn’t quite stupid enough to just shift down there into the midst of the hostile army and start cutting. She had learned her lesson.
+
+An eternity later—late enough that Ranthia had eaten some of her trail rations and taken a couple of mouthfuls of water from her waterskin for lunch—the shimagu finally began their charge. Legion forces waited, a wall of shields and spears ready to break the charge from the ogres and dinosaurs that led the shimagu ranks.
+
+Ranthia swiftly identified a few points of risk—primarily the six therizinosaurs that were part of the initial charge—and braced herself to eliminate them.
+
+“Grace, hold! Let the first clash happen.” Insisted the voice in her ear.
+
+Ranthia growled in reply—she’d learned not to bother to try to explain her thoughts, the idiotic Skill was one-way only. She hated to do it, but she decided to defer to the base commander—or [Analyst] or [Strategist] or whatever. She remained in position.
+
+The sound of the clash was horrendous. A cacophony of metal tearing, bones breaking, and people dying. Yet the defensive line held and repulsed the charge, just in time for the second wave of spears to exact a bloody toll from their enemies. From there a jagged melee broke out; the survivors from both sides hacked, slashed, and stabbed at one another. Roars and battle cries waged their own auditory battle against screams and shouted orders. But the stench of blood and desperation reigned above it all, unchallenged.
+
+Yet Ranthia still remained in position.
+
+The dwarven forces swept out from the side and struck the flank of the shimagu forces like they were launched from siege weaponry. The dwarves didn’t do neat lines and columns like the Legion did—their forces were clustered into teams that worked well together and operated more-or-less independently. They coordinated well enough that they didn’t get in each other’s way, but the sight was a breath of fresh air. Just like Adventurers would have, they smashed into the shimagu as a hard wedge and scattered through their ranks to tear their enemy apart.
+
+Arrows and conjured material flew into the depths of both armies. All three forces had enough sense not to fire into the heart of where their allies were, but accidents didn’t just happen—they were everywhere. Bad shots, sudden changes in the wind, arrows and Skills that collided in midair and changed trajectories, and even just defensive Skills that were a bit too unfocused. The accidents were scarcely a drop in the swamp of blood that was being spilled, but they shook the bonds between allies here and there.
+
+Siege weaponry was fairly new to Ranthia. She knew it existed—for all that she focused on the power of a classer, even she would admit that throwing large rocks at someone was incredibly effective. She had even seen it atop the walls of major cities like Ariminum and Coalition City. But she had never seen it in use before. And she was… kind of unimpressed. The weapons were fired sparingly. It was difficult to be certain how much of that was due to the amount of preparation and pampering the things required and how much was just how indiscriminate they were.
+
+The exception was some sort of gigantic metal bow that looked incredibly intricate and complex—a mass of moving parts that required a full team of dwarves to manage it. It took them an eternity to load and pull it into readiness, but every time they fired the weapon dozens of shimagu were torn apart by the sheer force of it. A crimson trench was carved by every massive bolt.
+
+Even better—they never made a single mistake with their aim or trajectory. Their firing rate was worse than the other siege weaponry, but they were likely more effective than the rest of it combined.
+
+Everywhere around Ranthia, conflict raged and Black Crow feasted.
+
+All while she stood there, like a damned idol that the Coalition forces fought to defend.
+
+“Yeah, I’m going in. Nice playing tactics with you.” Ranthia snapped. The mousy girl might not be able to hear her, but the snark had to flow. She had better things to do than just standing there.
+
+Unfortunately, the mousy girl and/or base commander still had eyes.
+
+“Wait! Look! At their rear lines!” The mousy voice demanded before she could leap off the stone.
+
+Ranthia swallowed her curse and looked. Sure enough, behind the enemy lines, something bizarre was underway. A battering ram that was once a large tree—significantly larger than any that grew in the region—was being stood upright, pointy end down. While the ogres and dinosaurs struggled to keep it that way, a blur dropped from the sky and smashed into it. The sound filled the region—a crack that was rivaled only by the dwarves’ massive implement of destruction—as the force of the impact drove the battering ram into the ground. The single impact was enough to keep it stable.
+
+And from atop it, a familiar ogre leered at her from across the battlefield with his wings flared dramatically behind him.
+
+He was the same flying bastard that had attacked their convoy when they tried to establish Remera.
+
+“…Oh, neat, someone I’ve been hoping to stab.” Ranthia mused out loud.
+
+She was actively refusing to spare any mental energy over the fact that he had raised a tower to match her own and was posing atop it. It was entirely too inane to think about.
+
+“Excellent, remain there and keep the twin in check!” The kid ordered, her tone excited.
+
+“…What?!” Ranthia sputtered with righteous indignation.
+
+In what universe was sitting on display somehow keeping a dangerous opponent in check!? She kept powerful opponents in check with her blades and her Skills, not her [Sexy] face!
+
+“While you’re there, he can’t act without you being able to counter him! And vice versa! This is exactly what we hoped for! With you in position, a twin can’t affect the battle!” The voice in her ear excitedly explained.
+
+“…This is stupid, I’m going to cut some shimagu down until I draw him to me.” Ranthia replied (pointlessly) in a dry tone.
+
+Her body language must have communicated it just fine, because an unrequested rebuttal came.
+
+“If you abandon your post, there’s a real chance he’ll attack Remer…,” the mousy girl paused to cough, “the base directly. Only while you’re there, he can’t! Do you really want to take the risk that he’ll pick a fight with you instead of attacking the base?!”
+
+Ranthia froze, transfixed by the words.
+
+…Would she effectively risk Avyna’s life if she joined the battle?
+
+It was an absurd question. Realistically, their tent—no matter how it stood out among the Reman and dwarven tents—was unlikely to become the target of choice for a single shimagu twin. The winged ogre had shown no sign of being one of the classers that could inflict wide-area destruction.
+
+But if she got bogged down among the shimagu forces, just how long would it take her to disengage if the twin did fly past the defenses and attack Remera itself? Ranthia could all too readily imagine just how much devastation a high-level classer could unleash given time. There were all too few people in Remera that had the levels required to properly challenge him—and every single one of those dwarves was already fighting side-by-side with their allies to cull shimagu.
+
+Ranthia swallowed her pride and chose to remain in place.
+
+The tides of the conflict varied throughout the day, but by the time evening fell, it was clear that the shimagu forces had borne the worst of the damage. They outnumbered Remus’ legions—by a large amount—but the siege weaponry, the archers and the [Mages] on the walls, and the higher-level dwarven combat specialists had quite effectively neutralized that advantage.
+
+These shimagu weren’t the press-ganged civilians that Ranthia had grown all too used to butchering, but most of their hosts were still [Laborers]—brutes chosen for raw strength. The parasites had their Skills, but the Legions were well trained and better equipped. Numbers couldn’t entirely erase the disparity between the infected and the classes and unity that the Legions carried into the conflict.
+
+Reman legionaries died, but shimagu puppets were culled.
+
+The shimagu seemingly had exactly one individual that might have changed the equation and Ranthia had—somehow—kept him out of the battle just by standing there. She couldn’t even decide if it was more of a relief than it was frustrating.
+
+The shimagu ground forces withdrew as night fell. Archers and [Mages] from both sides continued to fire at each other, but—as if there was some absurd agreement in place—the melee halted for the night. The ground forces made their way back into the sanctuary of Remera’s walls in an uncomfortably orderly line while Ranthia watched carefully.
+
+It felt like a moment of vulnerability for Remera, yet there were no significant incidents.
+
+The shimagu army withdrew further from the base and worked to form a campsite that they could bunker into for the night. After a while, the winged ogre finally bowed to Ranthia—and she had thought the absurdities were done for the day—before he turned and flapped his way down to one of the tents that the shimagu had raised. He never even looked back before he disappeared inside.
+
+Almost the instant he disappeared, the—plainly weary—mousy girl finally told Ranthia to stand down and return to base. Her voice was quiet, but Ranthia had no idea if that was because of her fatigue or if the Skill was wearing off.
+
+Not that she was done for the day—the base commander was holding a meeting, and her attendance was expected. She hadn’t even done anything, but she still felt worn out just from the amount of stress and incredulity that she had endured throughout the day.
+
+War was so stupid.
+
+“We ken still hit ‘em!” A dwarf with magnificently woven curls—seriously, that had to have taken forever to put together—shouted angrily.
+
+“Your weapon is fantastic, and we greatly appreciate the tactical advantage that it provides us. But we should continue to make them underestimate its range and full capabilities. That army is clearly insufficient to take this base, so from here on we need to avoid showing them anything they do not already know.” The base commander used new words to regurgitate what was substantively the same counterargument that he had made last time.
+
+The argument had been going back and forth since shortly after the meeting began. The dwarven giant archery implement was (allegedly) capable of putting one of its bolts through the shimagu command tent that the twin went into. Quite reasonably, the dwarves that managed the weapon wanted to take the shot. The base commander and some higher-ranking dwarf were united in disagreement, though they didn’t agree about why inaction was the best policy.
+
+The dwarven leader was concerned that they would be firing blind and might not kill any of the targets they wanted to—he wanted to see his enemy’s deaths to be sure (so valid). The base commander wanted to keep the full capabilities of the weapon secret for a future element of surprise when it would be more beneficial—he believed that a greater threat would soon come.
+
+Honestly, after so much back-and-forth, Ranthia just could not have cared less. Her frustration mounted as it became increasingly, blindingly obvious that no one was going to agree with anyone. Finally, she hit her breaking point—she held a high rank too and she was done caring about the proverbial toes she would stomp on.
+
+“Enough! It’s clear at this point that we aren’t going to take the shot tonight and the reasons why we aren’t doing it are completely irrelevant. I say we break for the night and get a hot meal and what rest we can before we return to the killing!” Sentinel Grace cut in.
+
+With varying degrees of enthusiasm, everyone in the room got on board with her suggestion and she was finally freed.
+
+Xaoc bless Avyna. She didn’t ask any questions about the battle. The beautifully horned woman had just met Ranthia with an embrace and a loving kiss, then sat her down with a bowl of warm soup. A light broth packed with nutrition—and easy on the stomach—with finely diced meat and vegetables. After Ranthia ate, she knelt before her little altar and prayed to Xaoc for the sake of the men and women who died, while Avyna stood silently by and patiently waited for her to finish.
+
+That all done, Ranthia was the ‘little spoon’ that night when they settled to sleep. Wrapped in her lover’s embrace, Ranthia’s thoughts, frustrations, and worries stilled enough for sleep to find her.
+
+Ranthia dreamt. In a reality conjured by her twisted mind, she fought in the thick of a desperate battle. Then screams and smoke erupted from their base—behind her and beyond her reach. She fought desperately to get back, but no matter how she struggled, she failed to disengage. She was forced to kill every last nightmarish creature to get free.
+
+Within the walls, every last tent had been smashed and, in their ruins, Avyna stood defiant. The elf carried one of Ranthia’s short swords—which were left in Remus, not that her mind cared—and stood protectively over several of Remera’s civilians. The troll shimagu twin—again, her mind didn’t care about viability—approached her, unimpressed by Avyna’s attempts to menace him.
+
+Ranthia cried out and tried to reach them, but she was suddenly slow.
+
+Too slow.
+
+The dream repeated time and time again with numerous tiny variations, but the theme remained consistent: Ranthia fought and Avyna paid the price.
+
+After an eternity of torment, Ranthia awoke exactly when she planned to. Her body felt rested and refreshed, in stark contrast to her aching head. She had also managed to sweat everywhere—both Avyna and their bedding were soaked with foulness.
+
+Avyna woke up when Ranthia jumped as she shifted from her nightmares to the waking world, but she just groused playfully about needing a shower and was midway through making a cruder joke about it (“My love, if you wanted me we—”) when Ranthia suddenly kissed her desperately.
+
+None of it was real.
+
+Ranthia had finished eating before Avyna emerged from her shower. But, even if she needed to get out there before the fighting restarted, she needed to ground herself again and escape the lingering effects of the dream.
+
+Which, as Green would have pointed out, meant that Ranthia needed to actually talk about the damned nightmare. …Even though it plainly amused Avyna to no end.
+
+“Do not worry, my love. I have no intention of facing one of those monstrosities with a sword.” The elf assured her wryly.
+
+“I know, it’s stupid.” Ranthia grumbled.
+
+“I might be proficient with a sword, but I excel as an archer.” Avyna winked at her while she clarified her (terrible) point.
+
+“I love you.” Ranthia chose to stoically ignore the weapon preference comment.
+
+“And I you, my love. I will be fine, so go out there and show them just how impressive you are. So long as you are careful about it.” Avyna urged with an easy smile.
+
+Ranthia stole another kiss—long and deep—before she finally allowed her responsibilities to drive her outside before anyone came looking for her.
+
+Unsurprisingly, Avyna was far more enthusiastic about Ranthia’s participation in the war once she learned that Ranthia’s role was to stand in place and look imposing. This was—allegedly—a common strategy when the domains of powerful immortals came into play. Avyna was delightfully amused at someone below their level 768 class up claiming the same role—it was “adorable,” apparently—but she was happier knowing that Ranthia shouldn’t be in the thick of the fighting.
+
+“Can you kneel again?” The short Sound [Mage] asked.
+
+“Can’t you just hand me whatever it is so I can put it in my own ear?” Ranthia grumbled—ugh, she needed to get her emotions under control.
+
+The mousy girl stared at her—wait, had she seriously never thought of that?! A small, white stone was handed to Ranthia while the young woman silently mouthed something that looked alarmingly like ‘this is going to save me so much time.’
+
+Once again Ranthia perched atop her stone pillar just in time for dawn’s early rays to touch the ground. As the sun climbed into the sky the armies mustered and—well before either force could act—the winged ogre alighted atop his pillar of wood opposite her.
+
+There was still no sign of the theoretical twin that had manipulated the storm, which bothered Ranthia—she somehow doubted that the winged ogre had been behind the storms. The risk that there might be a second shimagu twin in the area was like an itch in the back of her mind that she couldn’t address. All she could do was wait and see what happened.
+
+The second day’s fighting largely mirrored the first. Ranthia’s favorite part was when the dwarven forces slipped around the shimagu entirely and set fire to their campsite while they killed the handful of shimagu that had stayed back there. Maneuvering so far around the battle had taken the bulk of the day and they hurriedly withdrew as soon as their act of brutality was done.
+
+The downside was predictable—with the stronger dwarves absent, the legionaries suffered heavier losses. Once things even got desperate enough that Ranthia risked lending a hand. She removed the little stone in her ear and tossed it into the sky, then—while [Submind] kept that body adjusting itself as though she were preparing to catch the stone—Ranthia shifted down into the melee to cut down two therizinosaurs that were carving through the Reman lines. She was quick and managed to shift back to the pillar in time to catch the stone, but it was a close call.
+
+If the winged twin noticed, he didn’t react.
+
+The mousy girl did notice and treated Ranthia to a long, whiny lecture about the importance of her role. Which wasn’t at all necessary, Ranthia was… more accepting of standing there after her nightmares, but she still refused to do nothing while people died to a threat they couldn’t match.
+
+There had to be a better balance.
+
+The next morning, Ranthia emerged to find her still unfamiliar—okay, maybe she was just a tiny bit overfocused on Avyna—personal messenger waiting outside her tent. Scouts had reported the winged twin flying off into shimagu territory during the night. Ranthia tried not to let herself feel hopeful excitement.
+
+The battering ram that served as the shimagu’s tower to oppose her had remained bereft of an occupant. Twice that morning a shimagu archer tried to scale it to use it as higher ground, but both ogres fell during the climb. After the second, the shimagu seemed to collectively possess just enough wisdom to give up on using it.
+
+Finally, in the afternoon, Ranthia received what she wanted: the go-ahead to join the battle.
+
+Ranthia immediately palmed the stone and threw an image into the melee—not too deep—and shifted. She wasn’t surprised that whatever Skill allowed the small stone to carry the Sound [Mage]’s words went inert, but thankfully it didn’t explode or anything.
+
+Oh well, she just needed to get closer to the nearest legionary who was important enough to get orders so they could relay them to her. Ranthia embraced her dance and carved into the shimagu ranks with a vengeance—she was ready to do everything that she could to preserve the legionaries in her vicinity.
+
+Once she fought her way to her allies, the unit leader gleefully accepted her help and her advice. A short time later, she formed the tip of the spear for the Legion’s push through the shimagu ranks. By the time they united with the dwarves—with relatively minimal friendly fire; that guy’s leg would heal up fine—the legionaries had split the shimagu army in two.
+
+And, in doing so, they effectively trapped half of their enemies between Remera and the hammer that the allied force formed.
+
+The shimagu that weren’t caught between the hammer and a deathtrap didn’t even try to rescue their imperiled fellows—they began to withdraw almost immediately. The shimagu [Leader(s)] apparently decided to cut their losses because they weren’t bound for the ruins of their campsite again, they formed a disorderly mob that kept running. A few archers harried those that retreated, but the bulk of Remera’s defenders united in the slaughter of the chunk of the shimagu army that had been left behind.
+
+As expected of the shimagu, not a single puppet surrendered. They were surprisingly content to try to inflict as much harm as they could upon the Coalition before they were seized by Black Crow.
+
+Night had fallen some time ago—not him, Ranthia had no idea where the unfortunately named vampire had disappeared to. He’d departed sometime before the conflict even began. But, beneath the moons, the battle finally came to an end. The survivors of the shimagu army—reduced to under five thousand, according to the scouts—were reportedly still in full retreat and showed no signs of stopping. Those they had abandoned had fought ferociously, but at long last every last ogre and infected beast had been cut down. And, in the aftermath, the cheers of the legionaries and their dwarven allies were unrestrained.
+
+The sounds of triumph echoed across the blood-soaked wasteland.

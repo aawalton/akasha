@@ -1,0 +1,239 @@
+---
+id: f5eeabea-f5ad-5b4d-85dd-7d509a9a55eb
+page-type-slug: story-chapter-royal-road
+title: "v4c74: To the North"
+slug: 0090-v4c74-to-the-north
+partOf: beware-of-chicken
+position: 90
+ownLength: 2649
+unit: words
+ownProgress: 2649
+publishedAt: 2024-01-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1492805/v4c74-to-the-north"
+royalRoadId: "1492805"
+markedReadAt: "2026-06-29T18:54:32.425Z"
+---
+
+Shen Yu frowned at the mountain before him, still belching smoke. Demons and demonic cultivators always soured his disposition, mostly because they always found a way to be inconvenient.
+
+He had been almost looking forward to meeting Zang Shenhe; her work against the various demonic bases had been praiseworthy in its completeness and effectiveness. They had one and all been burned down to the bedrock, and the taint they exuded was so miniscule Shen Yu himself could barely feel it.
+
+It was enough that he had decided that he wouldn’t be too harsh on her when they met—the Empire needed able warriors against these beasts. He would tear down any face she had, of course, for the incident in the Azure Hills, but she would return to her sect unscathed and with a pat on the shoulder.
+
+He imagined he would find her in the ruins of another demonic base; she was in the middle of the Earth Realm, Zang Shenhe, and the cult seemed to be one centered around infiltration. A strong assault, coupled with the competence the woman had shown, should have seen another base destroyed.
+
+But she had been laid low. Laid low by a trap; a formation whose residue was largely alien to Shen Yu, something which still sat ill with him now. The power had peaked at the Sky Realm, and the echo of it spoke of an enormous amount of reagents used to reach those heights.
+
+Shen Yu was fairly certain that this was the extent of their power. This base was too large and the battle here had been too vicious for it to have been anything less than their main stronghold… but he was dealing with a demonic cultivator who was not completely insane, as most of their wont had the grace to be.
+
+The enemy had even collapsed the base behind them and taken away nearly all traces of their presence.
+
+For that alone, Shen Yu would have to personally hunt them to the ends of the earth. The subtle knife was the most dangerous, and demons did so love to ferment the worst poisons. They had to be destroyed before they could lick their wounds and enter the Empire again.
+
+And they had nearly erased their trail.
+
+Shen Yu had their direction. North. North, into the Sea of Snow.
+
+An unfortunate direction.
+
+Shen Yu’s brooding was interrupted by Ri Zu’s approach.
+
+“It is as you postulated, Master Shen Yu.” he looked back to the rat, currently in the form of a woman. She was standing at attention, the task he had given her complete. “The corpses are… relatively fresh, and their meridians are developed enough that these people either had cultivation potential or were cultivators already.”
+
+The rest of the disciples were looking at the dissected bodies with varying levels of discomfort.
+
+He had, of course, already known that, but it was best for the children to familiarize themselves with the operations of demonic cultivators.
+
+Shen Yu glanced at the pieces of evidence he had found. While the enemy had been thorough in destroying the important things, some rooms had only been lightly touched. Shen Yu had found a… resource stockpile that had been somewhat intact.
+
+Full corpses and body parts. Rather fresh corpses that had likely been under preservation wards to keep the poor wretches alive—at least until they had been buried for two days in the freezing temperatures of the Howling Fang Mountains. The various other body parts had been preserved in jars.
+
+“A common tactic,” Shen Yu said bluntly. “They were either intending on refining or experimenting on them.”
+
+The rat paused at his declaration. She seemed to be debating whether a question would be appropriate, so he raised an eyebrow, gesturing for her to speak.
+
+“Ri Zu thinks the experimentation might have already begun,” she said. “Ri Zu has some experience with impurities. On a brief glance, they look like what would form naturally after eating a poorly refined pill… but the deposits are oddly regular, distributed throughout the body. Some are very large.”
+
+Now that was something he hadn’t noticed.
+
+“Interesting… but nothing we can act on at the moment,” Shen Yu said before turning back to the last two bodies in their camp, the still living but unconscious forms of the Shrouded Mountain Disciples. “And them?”
+
+“They should be awake within the hour.”
+
+“Good,” Shen Yu said. “A firsthand account is always valuable… though it is interesting that you know them.”
+
+“They were both a part of the team that was sent to capture us,” Ri Zu replied after a moment.
+
+“Oh?” Shen Yu asked, his eyes narrowing slightly. He locked on to the man who had gotten one of his legs put back on then conspicuously considered at length the man with half his face bandaged. Their faces were flush with healthy colour. “And yet still you have tried your best to heal them?”
+
+“Ri Zu does not like them… but neither does she hate them,” the woman pronounced. “Yingwen was furious about the mission they had been given. Although he did assault Ri Zu’s friends… even when he was losing, he refused killing blows, content with repelling the cultivators of the Azure Hills. In the end, he offered his own head to spare his subordinates' lives.”
+
+Shen Yu considered her words. Indeed, an enemy today could be an ally tomorrow, so long as certain courtesies were kept. Not everything devolved into centuries long blood-feuds.
+
+And besides, there were demons to slay; punishment could wait.
+
+=======================
+
+Like any other cleansing, it had been routine.
+
+Had been.
+
+The lightning struck, and the vanguard went into the tunnels. In all the other bases, there had been a few demonic cultists in the halls. They were immediately killed, as was their squad’s usual standing orders. Only the leaders were captured to have their information extracted.
+
+In each and every base, they had found corpses; but none of them had any ritual rooms or any place to refine the bodies. After months of interrogations, a leader had finally snapped and revealed this location to them, the main hub where everything was transported to.
+
+It was to be the final battle.
+
+Yingwen and his squadron had entered from the south with the rest of the Rampaging Roar Squadron. Behind them the Inescapable Judgment Squadron had formed the cordon meant to capture any escapees, and beyond them the Outriders ranged even further.
+
+They fought through the demonic cultists swiftly, the shock and awe paving the way to plunge deep into the heart of the mountain. Elder Shenhe was naturally in the lead, ready to reinforce any problem points.
+
+It was there they found a man, sitting on a throne, and smiling. Shenhe had immediately gone on the offense, only for a great barrier of what looked like constellations to block her blow—and then, the explosions started. Walls collapsed and out poured a new foe.
+
+They were biological horrors; these things that had once been men. Bones burst from their bodies and extra limbs spasmed in the air. They had never seen the like before.
+
+Elder Shenhe had made the call to retreat, but it was too late as another formation activated and their Elder screamed.
+
+In addition to the tide of horrors, there were several skilled cultivators within the beast’s ranks who were the equal of any Shrouded Mountain Disciple—one was even in the middle of the Spiritual Realm.
+
+Fenxian had managed a fighting retreat—only to find that their camp, the cordon, and the Outriders had been similarly ambushed. Nothing like this had ever happened. There had been bad raids before, but never had even their established base been yet another trap.
+
+Thus, in the middle of the blizzard, they continued with their last orders to retreat.
+
+Or rather Fenxian did. Yingwen had been indisposed.
+
+===============================
+
+“That is all these disciples know, Great Expert,” Bi De frowned as Yingwen finished his report.
+
+They were all seated in the tent to hear about their new enemy. Well, they had finally found the actual demons, and they were as monstrous as the stories. Only Sun Ken could come close to their depravity—and he had been hampered by the fact that he had lived in the Azure Hills.
+
+“Hmmm. Artificial demons,” Shen Yu said after a moment. He stroked his beard. “It has been a long time since those have been encountered.”
+
+“Artificial demons?” Bi De asked.
+
+“Indeed, they are as they are named. Wretches created by suffering and foul alchemy to ape a fraction of an actual demon’s power. They’re mindless things, without skill—but their physical abilities tend to wind up several stages higher than the person that was used to make them—and the best ones can be up to a full realm superior.”
+
+Yingwen and Fenxian paled. Elder Shenhe was in the Earth-Realm—and while Shen Yu was still above that, a full realm higher meant that Demonic Shenhe would have been stronger than their previous Patriarch.
+
+“They’re a small thing in the end,” Shen Yu said with a shrug. “It takes time to break and form one of those beasts… but still, speed will be our ally here. We will not be returning to the Azure Hills at this time.”
+
+Bi De caught nods from his fellow disciples.
+
+“Then, what shall we be doing?” Bi De asked.
+
+“We shall be heading into the Sea of Snow; we shall tear this out by the root. Left untouched and given time, it shall ferment like rotten poison.” He turned to the rest of Bi De’s companions. “If you are not confident in your strength, stay here. We shall camp here for the night. Make your decision by the morrow.”
+
+His words were heavy. Bi De looked to his companions. They would speak about it… but Bi De could see the hardness in Ri Zu’s eyes.
+
+Yingwen cleared his throat. “Great Expert, may this Yingwen speak?”
+
+Shen Yu looked at the man and shrugged.
+
+“This humble disciple knows the Shrouded Mountain Sect would deploy its full might for this, if it pleases you,” Yingwen said. “With our formations we may reach the Sea of Snow and forge onwards, bringing all of these creatures to justice.”
+
+Bi De winced slightly. Yes, this would be a moment where the Shrouded Mountain might shine in its own way and show their worth… but what was done was done.
+
+“That is an impossibility at this time,” Shen Yu replied bluntly. “They are in the middle of a civil war.”
+
+Both of the Shrouded Mountain disciples’ jaws dropped.
+
+Blunt, Bi De judged his words, but effective.
+
+“On the morrow,” Shen Yu merely repeated. And then he was gone.
+
+Fenxian turned woodenly to Yun Ren.
+
+Yun Ren sighed and pulled out his recording crystal.
+
+==============================
+
+Zhou Yingwen could barely process what had happened. It was unthinkable, inconceivable.
+
+And yet, with the monster of a man right there and the recording… how could it be anything other than the truth?
+
+He was numb. Here he was, missing a leg and absolutely useless, an absolute failure of a cultivator in the hour of the Mountain’s need.
+
+Yigwen considered his options. He never was one for rash action. But at this point, what other action was there?
+
+He looked to Fenxian.
+
+His friend shrugged.
+
+“Might as well go out like a bolt of lightning,” Fenxian said.
+
+Yingwen licked his lips and looked at the stump of his leg.
+
+Fenxian had managed to save one. Well and good; this meant he only needed one more.
+
+“Miss Ri Zu,” he said, his voice breaking despite his best efforts to keep it level.
+
+The woman looked up from where she was finalizing her preparations, packing away her medical supplies.
+
+“Though it is the height of impertinence, this Zhou Yingwen has a favour to ask of you.”
+
+The spiritual doctor listened to his request, and her eyebrows raised.
+
+“Ri Zu can remove the impurities… and Master Jin did say something about transplants…” The woman sounded intrigued, but she was hesitating, quite reasonably. There was a strange comfort in that. Yingwen would’ve been worried if the healer had been anything but hesitant.
+
+“If it starts killing me, I’ll cut it off,” Yingwen assured her.
+
+===================================
+
+Bi De, in his natural form, stood in a line with the rest of his companions, waiting for Shen Yu to descend the mountain.
+
+All of them were calm. All of them had made their decision.
+
+The dawn light crested the horizon and Shen Yu landed in front of them, his eyes gazing out over their line in approval.
+
+“The road ahead shall be challenging—we are headed into the Sea of Snow at the start of its winter, chasing the trails of demons. Who will join me?” Shen Yu asked.
+
+Bi De stepped forwards, and Shen Yu smirked at him. “I do not remember giving you much of a choice, disciple.”
+
+The rooster chuckled. “And yet if you had, I would be joining you anyway. I swore to follow this path until the end; and I shall.”
+
+Shen Yu smiled as next Ri Zu stepped forwards.
+
+“A group needs a doctor. Especially Master Shen, who still needs his treatments to draw out the residual demonic Qi,” Ri Zu said.
+
+“If we are headed for the Sea of Snow, it would behoove us to stop by Terminus Station,” Shao Heng said, strolling forward nonchalantly. “Stock up on more fire crystals and rope.”
+
+Yushang’s eyes were burning as she stepped forward. “They made those demons out of people. People go missin’ in the mountains and that's a fact of life… but what if they weren’t all missing? What if they were taken? Like hells I’m letting them get away with it!”
+
+Che Han sucked in a breath and stepped forward as well. “If they’re going, I’m going,” he said simply.
+
+There was a beat of silence, and Shen Yu turned to Yun Ren. The man sighed and scratched the back of his head. “I came here to record images. Nezan talked me into going to the Shrouded Mountain, but chasing demons into the Sea of Snow wasn’t exactly in the plan, yanno?”
+
+Both Shen Yu and Nezan nodded; the fox actually looked quite relieved—at least until Yun Ren took a step forward himself.
+
+“Plans change, I guess,” Yun Ren said with a shrug. His hand was shaking slightly. The sword at his hip rattled.
+
+Bi De knew his friend was scared of what was to come. Bi De had, last night, even tried to convince Yun Ren to stay.
+
+But in the end, Yun Ren had made his decision.
+
+“They make women fine in your Azure Hills; but the men, so far as I've seen, are of equal quality,” Shen Yu allowed approvingly.
+
+Finally, Shen Yu turned his gaze to the last two; the ones that were not Bi De’s friends, but still had conviction and drive Bi De had to respect.
+
+Yingwen stood stoically on a new leg—one from the preservation jar that Ri Zu had removed all the impurities from. Bandages with medical formations on it were wrapped around the leg.
+
+It was a stopgap solution, and painful enough to the man that Ri Zu had considered simply removing it again, but Yingwen had refused.
+
+“If we fall behind, cast us off without hesitation,” Yingwen said with determination.
+
+“If nothing else, we can be shields,” Fenxian continued.
+
+Shen Yu considered them for a moment. He nodded once.
+
+“I accept your resolve,” Shen Yu said, his eyes hard. “Very well, then we go. North, to the uncharted lands. North, to the Sea of Snow.”
+
+Shen Yu exploded into motion. Not the fastest he could go, but still an absolutely punishing pace.
+
+They all burst into motion behind him.
+
+Bi De kept his eyes fixed on the horizon.
+
+The beginning of winter….
+
+He hoped he would be home in time for the Solstice.

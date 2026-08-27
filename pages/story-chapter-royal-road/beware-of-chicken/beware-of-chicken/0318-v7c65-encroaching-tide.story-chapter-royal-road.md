@@ -1,0 +1,191 @@
+---
+id: ac932714-6402-54ed-8a5f-459cdfc0b15b
+page-type-slug: story-chapter-royal-road
+title: "v7c65: Encroaching Tide"
+slug: 0318-v7c65-encroaching-tide
+partOf: beware-of-chicken
+position: 318
+ownLength: 2316
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3494665/v7c65-encroaching-tide"
+royalRoadId: "3494665"
+---
+
+‘Brother. Yuhuo is back,’ the voice roused Huishou from his rest. His brother, Huofan, was poking his head into their den. His eye was still swollen and leaking, and he looked exhausted.
+
+It hurt Huishou’s heart to see his brother’s face—mostly because he looked so similar to Dazhao, and Dazhao…
+
+It should have been funny. First they had been beaten up by a chicken, and now the Ash Guardian Brothers had lost one of their number to insects.
+
+Instead, all it did was make his chest ache. He would have rather endured a thousand beatings from the Blaze Douser, Master Bi De, if it meant his brother still lived. He still remembered the seething mass and the screams. Dazhao’s fire trying to break through the coursing river of black and yellow—
+
+‘I’m coming,’ Huishou said, rising. His back was covered in welts. The wretched beasts had figured out that clipping the blazing hairs on their backs made it harder for them to ignite, and so they sacrificed themselves to do as much damage to that area as possible. What was once the sign of one shamed and exiled was now a common sight—though Huishou supposed they were indeed shamed and exiled.
+
+He came up out of the den and into the clearing. It was a place of misery. The wailing of cubs filled the air, as did the scent of death. The few of those who knew the healing ways danced around the prone forms of warriors who had fought the demon bees, using ancient arts to try and get the poison out of their bodies.
+
+Some of their number were portioning out food for others. Normally, not being able to find food for oneself—or take it for themselves—was the mark of a weak one. But the wounded were too many, and their flight meant they could not find as much food.
+
+Huishou walked past them, to where there stood more of his brothers and sisters. At their head was Yuhuo, who had gone to see the extent of these creatures' expansion, and see if he could find any more of their brothers and sisters.
+
+The others who had taken up guard duty parted at Huishou’s approach.
+
+‘Yuhuo. What happened?’ Huishou asked, taking in the weeping sores on the other bear’s body. They were fresh. The other three with him were newcomers, and they were also hurt.
+
+‘We found them again,’ Yuhuo said. ‘They’re adding a hundred proper territories a day, at minimum.’
+
+Huishou grimaced at the statement. The others went quiet. A proper territory was ten thousand stridelengths of forest, five thousand of meadow, another ten thousand of rivers and streams…
+
+A hundred of those. A day? They would finish taking over the entirety of Ash Forest in a couple of weeks at this rate. ‘Is there anything good to hear?’
+
+‘I found a few more survivors, and the expansion seems mostly northward. We may be able to move things south, and then cut up into their guts. What about you?’
+
+‘The word has gone out, and all will come. Even now our bellows travel to all corners of the forest, and we have heard answers. All are returning,’ Huishou said, with more confidence than he truly felt, but his words lit a spark in Yuhuo’s eyes.
+
+Yuhou slumped in relief, and butted his head against Huishou’s shoulder. ‘That is good news.’
+
+‘Come, rest and eat with me. Food is slim pickings, but you will have only the best,’ Huishou replied, apologetic.
+
+Yuhou grinned. ‘Worry not! For we have some food—and it should be coming along now.’
+
+Huishou perked up as he heard more feet padding—but more than that, he heard the sound of bleats and oinks. Food from a human den? There weren’t many around these parts.
+
+Everyone’s heads turned at the sounds, and they began to salivate.
+
+‘Your star burns bright, brother, you have all our thanks!” Huishou said as the animals were brought into view. There were another four bears, all pulling carts stolen from a human den and—‘Why did you bring those?’
+
+Because in addition to taking the food from the humans’ den, these fools had also stolen the humans. They all were reeking of fear and trying to stay small and quiet. Many of them were shaking. There were about fifty humans, all told.
+
+Everyone knew that the sparkless humans tasted disgusting. Stringy and lean, unlike the cultivating humans—not that Huishou had eaten either. Only the mad took a human, rather than following it back to its den to eat the things they grew or their den beasts. They even made dens of wood, so cooking their food was easier.
+
+‘The demon bees are eating everything, and that includes humans. Everything they eat makes more demon bees. So we took everything they could eat,’ Yuhou said. ‘At first the humans were doing human things when we ripped down their walls, like running and screaming and trying to poke us, but then they saw a cloud of demon bees drag one of them off and started bringing us their carts, then grabbed the rest of their food for us.’
+
+Huishou looked at the stinky humans for a moment longer before shrugging. He supposed it made some kind of sense. And right now, every little bit they denied the demon bees helped.
+
+‘Do you think we could use them?’ Huofan asked, his eyes focused on the small pink things.
+
+‘To do what?’ Huishou replied.
+
+‘To run them south, and see if they can get the human cultivators up here.’
+
+His words made everyone fall silent. In any other case, he would have been immediately struck for suggesting something so stupid. But it was proof of how dire things were that he was not dismissed out of hand.
+
+‘…no. It is our home. We shall free it. In perhaps two weeks we will blaze so bright the demon bees will not be able to hurt us. The forest will return to ashes, and grow anew,” Huishou declared.
+
+His words were met with roars of agreement, several of his kind standing on their hind legs.
+
+The humans cowered, and Huishou snorted dismissively.
+
+‘For now… they can live. We’ll put them in a den, and see if someone can get a human to understand. We’ll send them with their baskets to get berries.’
+
+His words provoked more roaring.
+
+They just had to last. Two weeks, until the fire that would come would burn this infestation to its core.
+
+========================
+
+They did not get two weeks.
+
+They got two days.
+
+It started with one of the humans running back into the clearing, shrieking and shouting and pointing to the east—not the west. At first, they thought the human had merely seen another bee and thought it a demon. But… then another human came scrambling in, a demon bee impaled on the end of his pointy stick. The thing was still alive, and trying to pull itself back up off the stick. But it was again from the east.
+
+Ash Forest was to the west.
+
+The truth made everyone’s blood run cold. If they were to the east… that meant they were surrounded.
+
+And then, they heard it. It started quiet. The sound that drilled into one’s skull. The constant low drone that made one’s back molars itch with its wrongness.
+
+‘THEY’RE COMING!’ Huishou bellowed. The others took up his roar, rising up and igniting the carefully constructed piles of pine needles—the smoke made the demon bees slower, dumber, and in some cases put them to sleep.
+
+The cubs began to wail and bolted for the dens, where there they had been digging an escape tunnel.
+
+‘We cannot go east as was the plan!’ Huishou growled, baring his teeth. ‘After you leave the exit tunnel, head south instead of east!’
+
+He looked at the humans, ready to see most of them start to run and scream like they always did. And some of them were wailing like cubs. But others were dashing to the fires and grabbing their human tools. They were using some of their human tools they had to pile up the needles—and then the smoke changed, getting even thicker.
+
+Another human walked up beside Huishou. He had one of his pointy sticks.
+
+The human smiled. It was a terrified smile. He reeked of fear. He would only get in the way and die.
+
+But he held that pointy stick anyway.
+
+Huishou snorted. Stupid, foolish, weak.
+
+If he hadn’t been born a human, he would have been impressive.
+
+‘Take the human cubs, too,’ he barked at the ones who would be running.
+
+The buzzing was coming from all around them. Huishou stood, rising to his hind legs. Flames erupted on his back, and along the skin of his forelegs.
+
+The human made a terrified whining noise, his knuckles white.
+
+Dark shapes raced out of the woods. Huishou took a deep breath. He had eaten well of human den beasts, of pigs and sheep, and the fire in his gut was well-stoked. He heard the others also take their own deep breaths.
+
+They roared, and everything before them burned. The trees and grass burst into flames, blazing instantly into an inferno, their own shaved off pieces of Blaze Hairs hidden in the branches. The humans recoiled from the heat—and then clearly forced themselves to keep moving, sweat pouring off their bodies. They tied their odd not-hides around their faces and mouths, dunked their heads in jugs of water, then went back to stoking the smoke piles.
+
+Demon bees were not expecting the intensity of the flame. Instead of the ugly buzz, the forest began to squeal, the demon bees screaming and cooking. Their wings burst alight, and many simply just popped, their guts boiling.
+
+But still they came, even aflame and dying.
+
+The stick human suddenly thrust forward his stick, a demon bee was cleft in two, whirled it, and took another one. Huishou’s own giant, reaping claws started to work, shearing through them with ease.
+
+That was what happened for the next half hour. The forest burned, the small, disorganized and on fire attacks were repelled.
+
+For a moment, Huishou thought that they would surely win; that this was the future, the fires burning and scorching all of the demon bees to cinders.
+
+And they started to feel wind.
+
+The smoke was slammed by a gust of wind, a hole opening up right over the clearing, the beating of thousands of wings blowing it away.
+
+The heavens were revealed. Instead of the pretty blue shade all Blaze Bears knew was called Tianlan, it was black and yellow.
+
+Huishou gaped up at the swarm. The human dropped his stick. One of his arms was twice its usual size and hanging limply at his side. His eyes were barely focused.
+
+The heavens began to descend.
+
+Huishou stoked the fires in his gut the best he could. He could get a lot if he aimed right—
+
+‘No you don’t, demons!’ a familiar voice roared. A massive gout of flame impacted the center of the swarm.
+
+Huishou’s eyes widened. ‘Paobu—?!’
+
+[Illusion Arts: False Image!]
+
+Then, for some reason, the mass of bees suddenly lost all coordination. They floundered and flew into each other, tumbling and lashing out at each other with their stingers.
+
+[Fury of the North Wind]
+
+The wind picked up, swirling and gathering with biting chill. The already flailing swarm was blown by the gale winds, spiralling and bunching together.
+
+Which is when everything went quiet.
+
+[The Light of the Full Moon] a calm voice declared.
+
+A silver lance of brilliance ascended, stunning in its radiance. The light touched the false sky—and the false sky fell before it, breaking and shattering to reveal the true blue light above.
+
+The few survivors that fell from the sky were instantly set upon by other bees, and savagely torn apart.
+
+Huishou froze at the Qi. He knew that Qi.
+
+From the smoke Paobu strode, panting. His eyes were worried, and he looked anxious. And upon his back… upon his back, standing proud and erect, was something Huishou would never forget.
+
+A chicken.
+
+He wore a dark blue coat, which flapped open to reveal colourful internal paneling depicting a human den, with human den beasts and human food. On his neck was a silver pendant, made of fused pieces. The flames reflected off his fire-red feathers, and his jade green tail waved in the breeze.
+
+It was the Blaze Douser.
+
+It was Master Bi De.
+
+Beside Paobu were two humans. One with an odd extra set of ears on his head, and another, small and short, with spots all over her face. Bringing up the rear was a titan. A Thunderhoof, which were rare delicacies for the smartest and strongest hunters. But this one was bigger than any Thunderhoof told of in the great tales. Gusts of wind shrouded his form, and he walked with eerie silence. More like a ghostly spirit, than anything alive. The fires around the clearing were dying out, smothered by a biting chill.
+
+The female human’s shadow was writhing like a living thing, and little dark rats were scurrying out of it. One of them raced up to the human who had been carrying the stick; putting its paws on him as green light spread across the man’s arm and the swelling instantly started to abate.
+
+Another shadow rat looked up at Huishou and cocked its head to the side, asking for permission.
+
+Huishou nodded absently, his eyes locked on the chicken.
+
+“It appears we are just in time, Paobu,” Blaze Douser declared. He glanced at the humans… and then a small smile formed on his face. “Brave warriors of the Blaze Bears! Brother Paobu has told me of your righteous quest! We have come to join forces with you mighty warriors, and put this land to right!”
+
+….just how the hells had Paobu done that?!

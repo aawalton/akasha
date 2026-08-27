@@ -1,0 +1,159 @@
+---
+id: 56f7c195-da1b-52fc-bec5-ae6ad304433a
+page-type-slug: story-chapter-royal-road
+title: "v7c54: A Praiseworthy Accomplishment"
+slug: 0307-v7c54-a-praiseworthy-accomplishment
+partOf: beware-of-chicken
+position: 307
+ownLength: 2178
+unit: words
+publishedAt: 2026-05-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3348152/v7c54-a-praiseworthy-accomplishment"
+royalRoadId: "3348152"
+---
+
+We went for a walk through the Dueling Town… or at least we tried to. It became very apparent that we were just a bit too disruptive. Everyone stopped and stared as we passed… though that probably had to do more with the fact we had a dragon trotting beside us.
+
+The people, thankfully, didn’t seem afraid. Curious, and a bit nervous, but the fact that Washy looked friendly for a dragon probably helped. His eyes were still fishy and round, giving him a puppy-like appearance when he had them open all the way.
+
+Washy was very cute for a dragon. Not that anybody told him that, of course; he was our fierce warrior, noble and profound, not a cute lizard!
+
+Still, it was a bit awkward for all of us. Instead of seeing how the people lived and the town worked, we mostly got to watch people stare at us… so we retired to a fancy restaurant that had a wonderful viewing balcony, and let the town go back to normal. The restaurant staff had been nervous about allowing Babe to climb the stairs, worried he wouldn’t be able to come back down… but cultivator cred and the Azure Jade Trading Company’s talisman quieted those arguments.
+
+And once we could actually take a good look at things, the view turned out to be spectacular. Meimei, Xiulan, and I were all standing at the edge of the balcony, while Washy, Babe, and Suyan were looking at the menus.
+
+“Oh, what a bad time for the Lord Magistrate and Lady Wu to retire—they need to see this,” Meimei said, looking around her with a smile. She was carrying Zhuye now, giving Suyan a break.
+
+“I think he’ll definitely get some ideas,” I agreed, looking around.
+
+When I had been here last, the place had still been recovering from the cultivator brawl that had happened within. The mood had been largely sombre, the people cowed and uncertain. Even the parts of the town that were largely unharmed had a bit of a stagnant air about them, like they weren’t used that much—and according to Xiulan the population had been largely transitory, coming only for the tournament. Those that stayed barely outnumbered the people of Verdant Hill—a tiny population for the Grass Sea.
+
+There simply hadn’t been that much to keep people here.
+
+That had changed with thousands of cultivators suddenly keeping permanent presence, along with their retinues of servants—and so the probably hundred thousand people who were once here temporarily were suddenly staying year round as well. Dueling Town was definitely not a town anymore, and would probably be the newest city in the province very soon.
+
+With all those people came a rapid restructuring of the entire town. I barely recognised the place, even though I had been here less than two years ago. The town went from that slightly strange artificial feeling all resort towns had to a proper hustle and bustle. The repairs that I remembered had gotten just enough weathering to look natural, and the skyline had changed with new construction. The entire place was, like the mountain, pumping with energy.
+
+But what had changed the most were the public works. Fresh, and more importantly, pure water coursed through every street. People filled up canteens from spigots in the walls, relaxed by fountains, or in the children’s cases, played in what looked like a purpose-built wading pool. One of the deeper channels even had a water wheel submerged in it, the flow great enough to power the mill.
+
+The gardens that had been closer to the cultivators’ section of the town had swiftly proliferated, covering the town in lush green. People tended to veggies in back gardens and hung baskets of hanging flowers on poles that provided 24/7 illumination of the streets via glowstones.
+
+The entire effect was beautiful, only adding to the image of the grand mountain in the center of the town.
+
+“Was this by design? Or did people just start doing it?” I asked Xiulan.
+
+“A little bit of both, but most of it was a collaboration between the Dueling Peaks Restoration Commission and the town, with the main ideas coming from Gou Ren and Delun. The argument was that they were the Dueling Peaks Restoration Commission, and the town around the peaks also counted as being under their purview,” she replied, smiling at the sight. “Though it was a bit less amusing for the town magistrate. He was rather shocked when Huizhong delegated this to him—he tries to stay out of cultivator business and is normally content to let Huizhong handle things, just giving out his stamp of approval. Most people think Huizhong is actually in charge of the town. The magistrate was not entirely prepared for Huizhong to make him our point of contact. He just kind of… agreed to everything. Gou Ren also has rather skewed ideas of what magistrates can accomplish. I think I saw the man’s soul leave his body when he realised how much work he was going to have to do now. He got it done eventually, but I was getting rather worried for his health by the end….”
+
+“That's pretty funny. Though I suppose when you think Teacher is the norm, it makes sense,” I said, shaking my head. Everyone else chuckled. Really, thinking competent government officials were the norm? That was the power of the Lord Magistrate. “Still, you guys have done an amazing job.”
+
+I turned to Xiulan, my words full of admiration. Man, I don’t think I could ever do something like this myself…
+
+“It has been a very interesting time,” Xiulan agreed. “Everything is changing so much, and not just on the surface. And so much of it is thanks to you. Your words reached people’s hearts, Jin.”
+
+I paused and blinked at her warm smile. “My words?” I asked, confused.
+
+“You told them if they broke something, they had to fix it. That was the bridge,” Xiulan continued on. “The Grand Ravine Sect makes the ropes for the cranes. The Framed Sun Sect has done half the store signs you can see. The Rumbling Earth Sect is repairing roads. The people they helped… so many continued to speak with them. Continued to work with them—and look, you see there?”
+
+She gestured and I turned to look where she was pointing. Her finger was directed at a pottery studio located not too far away. There, an obvious cultivator was standing outside, talking to an old man. The woman had a lovely butterfly hairpin. “Yinxia Qiao apprenticed there, to learn how to make pottery herself. She treats old potter Shu like her grandfather. They changed their maker's stamp to a butterfly, just this year.”
+
+I paused. “It can’t have had that much of an effect,” I murmured.
+
+Xiulan reached out, and squeezed my hand. She looked out over the town.
+
+“We were trying so hard to be cultivators, to distance ourselves from the mortals because we were so close to them. We wanted so much to be something more. To stride in the heavens and seize them, when we knew we couldn’t. We were told the powerful cared little for the opinions of their lessers. That the great heroes acted, and everyone else had to accommodate them.” She turned back to me, her smile having never wavered. “And then the most powerful man we have ever known walks among those people out there. He lets the dirt stain his clothes, and he bows his head before those ‘lessers’ because he harmed them. How could we ever say it was the domain of the weak, of those lesser to us, when one so high above helps without hesitation?”
+
+I felt my face heat up, and I searched for something to explain it away. This wasn’t… this was their accomplishment. I hadn’t helped that much…had I?
+
+Xiulan’s warm smile changed to something teasing.
+
+“Look at this, so quick to praise others, yet he cannot take praise himself! I think we have to work on such a weakness, don’t we, sister?” Xiulan asked.
+
+Meimei pressed in from the side. “Hu, hu, hu. Fix it? We must exploit it mercilessly,” Meimei said with a devilish grin. “Look! He's very cute when his face goes red!”
+
+My face was not red. It was pink at most.
+
+“Oh? You are right. A most comely expression. I shall have it on his face as much as possible,” Xiulan said, leaning closer and sandwiching me between Mei. They bumped fists behind my back, and then both of them started poking me in my sides, trying to provoke more of a reaction.
+
+I crossed my arms and turned my nose up. “You shall both regret earning the ire of this Great Expert,” I growled.
+
+Both of them burst into giggles.
+
+Two versus one really isn’t fair, I grumbled to myself.
+
+“Three versus one, my most virtuous, benevolent, handsome and brave contractor!” Tianlan’s voice came, sounding like butter wouldn’t melt in her mouth.
+
+Godsdamn it.
+
+There was nowhere to retreat to, not even my own mind. Bombarded from all sides, I staggered back to the table and slumped over it, hoping that this show of defeat would end this ruthless assault. I looked up to Washy. The dragon looked back at me.
+
+“You’re an absolutely amazing cook, boss; your creations are genius,” Washy said, a massive, shit-eating grin on his face.
+
+‘Your calligraphy is sublime, and I hope to learn more from you,’ Babe said.
+
+Suyan reached out, and then hesitantly patted my shoulder. I appreciated the gesture. But then I realised that it was to get close enough to twist the knife.
+
+“Of all the Masters this Su Suyan has served, Master Jin is the best, and there is no contest; if possible, this one would serve you for the rest of her days,” Suyan said sincerely… but I saw the slight upturn of her lips.
+
+The maid tossed the ball in the air.
+
+“Dada Bes’!” and Zhuye dunked it.
+
+I died.
+
+The bees also buzzed something. I caught “His Imperial Majesty” before I tuned them out along with Xiulan, Meimei, and Tianlan’s laughter.
+
+Tianlan, though, I couldn’t tune out, and the little shit knew it.
+
+===============================
+
+After our impromptu lunch, we decided to go incognito. Suyan went and got Washy’s jar, and the dragon became a fish. Mei and I took off our coats, and Suyan’s ears disappeared. Babe… well, Babe didn’t need a disguise to fool most people, looking no different from other oxen walking the streets. Xiulan smiled and waved us off, heading back to her own duties for the moment.
+
+And then we set out into town properly.
+
+This time, basically nobody stared. There were a couple of cultivators who were gawping at us, but eh. Always going to be somebody rubbernecking.
+
+We set off, and I knew exactly where I wanted to go.
+
+===========================
+
+Ye Shun frowned heavily. He had a mind to see this Master Rou—to see with his own eyes the power of one so beyond him, and try, even if futile, to take his measure.
+
+One of his friends had said the man went into a restaurant with the Grand Marshal, so Ye Shun waited—but to his knowledge, the man never came out.
+
+There was a brief moment when he sensed something, but it was difficult to see with the crowd outside the doors. The only other thing that caught his eye was a maid—though that was because she had unfortunately squinted eyes, like the monster he had encountered in Pale Moon Lake City.
+
+But this woman had no bestial aspects. Just a squint, he was fairly sure—and besides, attending to a Lord Magistrate was one thing, but another powerful fox-maid attending a wealthy farmer?
+
+Unlikely.
+
+So Ye Shun went back to his manse, frustrated for the moment.
+
+He sat down and meditated, purging himself of those feelings. He needed a clear mind for his meeting with his fellow independents tonight.
+
+============================
+
+It didn’t take long to find it. This street had changed a lot too—but the shop itself was the same.
+
+It was a shop that I had accidentally destroyed the first time I had visited. A small mom and pop affair, near the outskirts of the city.
+
+It was the first shop in the town to be repaired by a cultivator.
+
+Business seemed to be going very well; the shop was pretty crowded. Chaoxiang was at the front, the man talking to customers and haggling with a big smile. Presumably his wife worked behind him, packaging everything up for people.
+
+The final person behind the counter was also packing things up—and moving a lot slower, counting things out, and learning the ropes.
+
+Ning was two years older now—growing like a weed, from kid to that gangly just-before-teen phase.
+
+Ning saw me, and did a double-take.
+
+“Mister Freckles?” she asked, a bright smile overtaking her face.
+
+“Hey kiddo,” I replied.
+
+We had a lovely time, talking to the family. And a wonderful afternoon in Dueling Town.
+
+=====================
+
+=====================
+
+Edited by: Massgamer, BargleNawdleZouss,

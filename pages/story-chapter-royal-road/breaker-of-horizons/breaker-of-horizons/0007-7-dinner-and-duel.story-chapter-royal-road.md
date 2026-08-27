@@ -1,0 +1,149 @@
+---
+id: 69f91ae9-28ca-560d-b2ad-f5fe0f7c111c
+page-type-slug: story-chapter-royal-road
+title: "7. Dinner and Duel"
+slug: 0007-7-dinner-and-duel
+partOf: breaker-of-horizons
+position: 7
+ownLength: 2099
+unit: words
+publishedAt: 2020-05-25
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/501148/7-dinner-and-duel"
+royalRoadId: "501148"
+---
+
+Thanks to Devon's enthusiasm, putting dinner together was less of a hassle than we expected even though the rest of us were strangers to the art of cooking. Devon took stock of what was already in the fridge and set us to work with small tasks, giving clear instructions and demonstrating what needed to be done. He actually made a pretty good teacher.
+
+In just a little over half an hour, there was a decent spread on our table - omelettes, stir-fried vegetables mixed with mushrooms, braised chicken, and rice. I thought it was actually quite good but Devon only pronounced it as passable, insisting that if we had more time and better ingredients, we would be able to do much better than this. I wondered how well he ate at home.
+
+"When did you learn to cook, Devon?" I asked.
+
+"Pretty early on. The cook's been with us since before I was born, and I just got interested and started hanging around the kitchens a lot."
+
+Kevan stared. "You've got a personal cook?"
+
+Devon did tell me that his family was quite wealthy earlier this morning, but he had managed to skirt around any details and I didn't feel the need to pry. His face flushed a little now and he hastily shoved a spoonful of food into his mouth in lieu of a response.
+
+Jerric grinned and elbowed him. "Tell them how loaded you are."
+
+"Not loaded," Devon mumbled around a mouthful of food. "Parents, not me."
+
+"How do you know?" I asked Jerric. "He only told me a little this morning. Did you know each other from before?"
+
+"Oh, no, I'm his roommate, remember? I've seen things," Jerric said, wagging his eyebrows at us.
+
+Kevan sprang to his feet and rushed to Devon's door, which was ajar. It slammed shut before he could reach it, and the lock clicked audibly.
+
+We all turned to look at Devon, who hadn't even looked up from his food. He had given a casual flick of his fingers and gone right back to eating. An awed silence fell over the table.
+
+"The doors aren't keyed to do that, are they?" Ambrose asked uncertainly. "I thought we only had ordinary locks and keys."
+
+Jerric shook his head, his grin widening. "Like I said, I've seen things."
+
+"You guys have an arcane ward over your room?" Kevan demanded, sinking back into his seat.
+
+"A commercial one, yes. He installed it on the first night and keyed us both."
+
+"Over-the-top security. Great way to show you trust your dorm mates," Kevan said sarcastically.
+
+Lynus smacked his brother over the head. "You just proved why it's necessary. Sorry, Devon."
+
+"Is it from Panoply?" I asked. It was one of the big names in security artefacts, and I knew my father had done some consultant work for them in the past.
+
+Devon nodded grudgingly. Lynus gave a low whistle. "And you're using it on a dorm door. Damn, Devon."
+
+"An arcane ward covers windows too. Actually, it covers the six sides of the room and even reinforces the walls," I pointed out. Lynus whistled again.
+
+"I didn't want it," he grumbled, growing slightly red. "My mum demanded I use it, and she has a trace so she knows when it's active. We actually fight quite a bit over stuff like that. She even tried to get approval for a telepresence globe in the dorm, but Academy security put a stop to that."
+
+He was chewing his words as much as he chewed his food. I sensed a lot of angst there.
+
+"Alright, let's ease off on him," Jerric said airily. "Otherwise our next meal will be bread and water."
+
+The rest of the dinner conversation was steered into safer territory. Jerric really was quite the diplomat. By the end of the meal any tension was dispelled and Devon was his usual cheery self again.
+
+"Wonder if there's anything to do around here besides study our brains out," Kevan mused as he washed the dishes with Lynus.
+
+"There are actually shielded courts to practice duelling," Ambrose piped up.
+
+That got everyone's attention, but I was a little confused. I had read up on the facilities and there definitely hadn't been any mention of that. "I don't remember reading that in the orientation package."
+
+"It's... not widely known," he said, not meeting anyone's eyes.
+
+Kevan was obviously eager to go. He vaulted over the kitchen countertop and rejoined the table, leaving his brother with the remaining dishes and ignoring his cry of protest. "So anyone can use them? Even freshies like us?"
+
+Ambrose nodded. "If they're not booked for a class, it's first-come-first-served."
+
+A ripple of excitement passed over everyone at the table, and slow grins were spreading. Lynus came over, the dishes done, and looked worriedly from one face to the next. "My brother usually has that look on his face before he does something stupid. I don't like how I'm seeing that same look on everyone else here."
+
+Jerric waved a hand in breezy dismissal. "We're going to have a thaumaturgy class tomorrow. Might as well warm up a little!"
+
+"Yes, exactly!" Kevan got to his feet. "Let's go, lead the way, Ambrose!"
+
+I expected this from Kevan, but Jerric's quick acceptance came as a bit of a surprise, given what I had learned about his personality so far. He seemed to sense my suspicion because he gave me a conspirational wink, covered by the flurry of movement as the rest got up. I could only raise a questioning eyebrow in return. He was definitely up to something.
+
+Ambrose seemed to know his way around the Academy grounds quite well. My brief tour had only given me a passing familiarity with the place. He was leading us to a cluster of short buildings deep in the grounds. When we got closer, I realised that it was almost like a small compound of its own. A small office served as the entrance into what looked like a complex of interconnected structures, all topped off with polished marble domes.
+
+Ambrose went straight through the door and walked up to an attendant at the counter. "Hi, are there any chambers free?"
+
+The attendant, a middle-aged man dressed in staff robes, gave us a cursory glance and nodded to Ambrose. "Quite a few. Just sign in here," he said, pushing a book over.
+
+I leaned over Ambrose's shoulder as he filled in the fields indicating the time of entry along with our names. With a start, I noticed that he had been here before. There hadn't been many visitors since this was just the first day, but the entries indicated that he had been using the chambers for over a week.
+
+"Ambrose, how long—" I began.
+
+He hastily returned the book as soon as he was done. "Let's go, it's this way!"
+
+I frowned at his retreating back, resolving to ask him about it when we were back in our dorm.
+
+Ambrose led us deeper into the complex, passing several duelling chambers that were empty. I noticed that there were other facilities here, too — showers, a few study areas (currently almost empty, except for a few industrious souls), and even a small cafeteria that was currently closed for the day.
+
+"Hey, where are you taking us?" Kevan said as we passed yet another unused duelling chamber.
+
+"Biggest one's at the back, and it's available," Ambrose explained.
+
+We finally arrived at a set of double doors. Ambrose pushed them open and led the way in. It was pitch black, and the light spilling in from the corridor was quickly swallowed up by the space. Gesturing with practised ease, Ambrose called up a Minor Control Sphere to turn on the lights.
+
+The dome itself was suffused with a soft, warm glow, allowing us to see the true scope of the chamber. My jaw dropped.
+
+It was even bigger than the Nivordin Lecture Hall. Polished black marble spanned the entire floor, inlaid with silver glyphs that were so small I mistook them for decorative filigree at first. As it reached the walls, it formed three tiers that served as seats for an audience. There was enough space there to seat the entire student population and still have room to spare.
+
+Kevan whooped as he ran into the centre. "Are you guys seeing this?" he yelled, gesturing at the vast space. His voice echoed off the walls.
+
+The six of us started behaving like little kids. We threw harmless bolts of shaped arcana at the walls, watching them ricochet around before exploding into a variety of patterns and sparks. Keven, of course, was the first to throw a ball of arcana at someone else, and soon we were all flinging orbs of condensed energy at each other. Without using any glyphs, whether mental or inscribed, it was like getting hit with balloons, albeit ones that left a tingling sensation on contact.
+
+It was actually quite a good way for me to gauge how much arcanic control the rest of them had. Jerric had more finesse (I had to grudgingly admit that he was a shade better than me) and was able to form complex shapes that moved in unexpected ways instead of predictable arcs, but Devon had the best density out of all of us — some of his orbs felt as hefty as pillows when they struck.
+
+"Alright, how about we take this up a notch?" Kevan asked, his eyes gleaming with excitement. "A proper duel. Standard set up, first hit."
+
+Immediately, Jerric stepped forward and cracked his knuckles. "Let's do it."
+
+I could tell he was dying to show off a little. The rest of us retreated a fair distance as the two of them took up positions facing each other, standing about twenty metres apart.
+
+By my estimation, Jerric was the most technically adept in our little group. Although Kevan was a little rough around the edges, it was clear that he wasn't new to duelling — our earlier messing around revealed a mind that was quite tactical and shrewd.
+
+Wordlessly, the two of them went through a series of glyph sequences that brought up six transparent, blue, glowing bits of armour - one for each limb, one around the torso, and one around the head. These were designed to clearly show where they had been struck, and would turn red upon receiving a 'fatal' amount of damage. The glyph sequences used in mock combat wouldn't shape arcana into lethal forms — the most they would be able to do was give good bruises — and were instead tuned to inflict damage on the specially-designed shields.
+
+"Ready?" I called, having volunteered as a referee.
+
+They both nodded.
+
+"Three, two, one, BEGIN!"
+
+Jerric's weavings were fast. In just a few seconds he managed to send three bolts flying at Kevan — two arcing in from each side, and one zipping straight ahead. They were all intercepted by a faint spherical shield that cracked under the weight of the energy but managed to hold. Kevan replied with a similar salvo, but his lack of control meant he couldn't attack from multiple directions like Jerric. His bolts were easily dealt with using a much smaller circular barrier that Jerric raised, and it absorbed the damage without even a crack.
+
+"Wow, he's good," Lynus remarked. "Nice control."
+
+"I don't think Kevan can win," Devon said, awed.
+
+Lynus chuckled. "Don't count my brother out yet."
+
+I didn't think there was much of a contest. Lynus' faith in his brother seemed misplaced. Jerric and Kevan continued to exchange bolts, and every time Jerric managed to attack from multiple directions, Kevan was forced to shore up his defences on multiple sides. Jerric wasted less energy with shielding and was obviously controlling the flow of the battle much more easily since he didn't have to be worried about the direction of attack.
+
+After the fifth salvo, it was clear that Kevan was on the back foot. His shield looked like one more bolt would cause it to crumble, whereas Jerric's was only slightly cracked. Looking quite confident, Jerric sent another trio of missiles, this time managing to send one arcing right over Kevan to strike him from behind at the last moment.
+
+Kevan's shield shattered, and I squinted through the haze of arcana to see where he had been hit.
+
+Suddenly, Jerric collapsed, every piece of his armour registering a fatal hit. We all looked, bewildered, as an unharmed Kevan stepped out of the haze, grinning triumphantly. Jerric sat up, looking confused.
+
+"What the hell just happened?"

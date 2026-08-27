@@ -1,0 +1,301 @@
+---
+id: 8dc3ba06-6cdc-569d-820e-ab17fe14b75a
+page-type-slug: story-chapter-royal-road
+title: "v5c64: Course Plotted"
+slug: 0171-v5c64-course-plotted
+partOf: beware-of-chicken
+position: 171
+ownLength: 4283
+unit: words
+ownProgress: 4283
+publishedAt: 2024-11-15
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1906299/v5c64-course-plotted"
+royalRoadId: "1906299"
+markedReadAt: "2026-06-29T18:57:10.475Z"
+---
+
+“I first met Zang Li in this town. He tried to force himself on a woman, and, well, I objected to that…”
+
+Xiao Ge sat back and listened as Jin told his side of the story. The rest of them did as well whilst eating a very fine meal. Ge would rate this relatively simple fare quite highly in the meals he had eaten in his long life—it was flavorful and packed with Qi, but could not match the quality of some of the meals he had had at the Imperial Palace, or during his own adventures where Ge had befriended a Spiritual Chef.
+
+Still, it was of far, far better quality than he ever could have imagined possible in this province—especially the drink to go with it. With the immediate tension drained, Ge could sit back a bit and enjoy the tale being told, at least a little, a sentiment obviously matched by the others. It was not the most absurd tale Ge had ever heard—no, Ge himself had at least ten stories where the coincidences lined up like they had for the young man.
+
+It gave him a chance to take the young man’s measure. Shen Yu was obviously proud of him… but Ge himself needed to see exactly what the rot in their beloved Cloudy Sword Sect had cost them.
+
+“I assumed he was an imposter, because the Shrouded Mountain Sect couldn’t have had a disciple so weak, much less a Young Master, so I threw him in jail.”
+
+Everybody paused at that. At the abject humiliation, to be given to mortal guards? Minyan barked out a laugh along with Shen Yu, both looking amused.
+
+“You were the one to contain him?” Ge asked the mortal Magistrate. The man paused at being asked a question, and he took a moment, but when he spoke, there was no wavering to his voice.
+
+“Yes, Master Xiao Ge. My student gifted me a rather nasty surprise—we ended up having to use all of our suppression seals, and it was a close thing. The Shrouded Mountain Sect outrider arrived just in time.”
+
+Ge nodded. Suppression seals were only good against initiates. But another word caught his ears. A word he knew Yukong and Shou had noticed as well.
+
+“Young Jin is your student?” Ge asked. The Magistrate froze again.
+
+Young Jin spoke up. “Yes. I noticed my education in the realm of politics was… lacking. I’m honoured that the Lord Magistrate accepted me as his student—he was top of his class in Pale Moon Lake City.”
+
+The Lord Magistrate cleared his throat, a slight blush on his cheeks. “Indeed, Young Jin is a fine student, and I am honoured to have him.”
+
+Ge leaned back. Kowtow to the mortal who enlightens you. Those words resonated with him. With all of them. Shou was looking at the Magistrate with new eyes, while Yukong had a small smile on her face. Even Shen Yu looked satisfied.
+
+Once more Ge found himself mourning what could have been. It was painful to hear and to see the character of this man. Bright, upstanding, possessed of a sense of duty and honour, and willing to take responsibility. Before Xiao Ge was one who had been a disciple that the Honoured Founders of their sect would have held as a model to emulate.
+
+He had been in their sect—and their negligence had driven him away. Ge would have to kowtow before his Master’s funerary tablet a thousand times for this travesty.
+
+“Please, continue,” Ge whispered, his soul aching.
+
+“So I was very unhappy when I saw him again, attempting to kidnap a member of my family and attacking a good friend…”
+
+Young Jin had stumbled into fighting a user of demonic arts, defeated him, and sent him back to his sect while claiming he was an imposter, only to meet the same man again when he was attempting to kidnap a member of his family… and again defeat him, this time sending the obviously demonic corpse back to the Shrouded Mountain Sect.
+
+Ge could find no fault in the young man’s actions; they were well thought out, and he expressed the noble desire to solve things with his words and reason rather than simply taking the world in his hand. He respected the institutions of the Empire and he safeguarded the mortals.
+
+True, he had used their name to quell the budding conflict when he was no longer one of their disciples… but Ge had commanded Lu Ri to give him that symbol so that he could use it to protect himself.
+
+Young Jin used it to stop a war… and then had ceased using it, displaying temperance when given such a powerful symbol.
+
+Xiao Ge glanced at Shou and Yukong, both of them offering minute nods. Minyan simply watched, studying this young man, her expression neutral.
+
+“Next, I believe it would be you, Zang Shenhe,” Brother Shen Yu mused. The woman had remained stoic throughout the retelling, but now looked slightly nervous.
+
+“Yes, Lord Shen Yu. We received Master Rou’s message, as well as the body of Zang Li, and we deduced that the only cultivator who would disregard our resources…was an Elder of the Cloudy Sword Sect,” Shenhe reported.
+
+There was silence for a moment. Jin looked shocked and slightly panicked, the young man clearly not expecting that, before he schooled his expression.
+
+Shen Yu started to laugh. Ge could not help but chuckle along with Yukong, while Shou raised an eyebrow. Even Minyan let out a little snort of amusement.
+
+“Did he claim to be an Elder?” Shou asked.
+
+“… no, he just said he would rather not involve his Senior Brother.  After our disciples reported his strength was equal or greater than my own…” Shenhe trailed off, looking embarrassed.
+
+Ge shook his head. “And what did you do with this information?” he inquired.
+
+“We reasoned that we were being given a mission to redeem ourselves after we had missed the demonic corruption within Zang Li. I immediately assembled a strike force and we set about scouring the Fangs for hidden bases—which we found.”
+
+That stopped some of the amusement. Ge considered the situation.
+
+“That is indeed serendipitous,” Ge said. “Your actions on finding them?”
+
+“There were twenty-three of varying sizes and complexity, and we destroyed them all.”
+
+“She did good work,” Shen Yu interjected. “I was impressed with her efficiency and thoroughness.”
+
+That was no small praise.
+
+“Then I would say that you were indeed following the directives of a specialist attached to the Cloudy Sword Sect,” Ge stated, extending an offer to the Shrouded Mountain to save face —and deepen young Jin’s connection as affiliated with their Sect.
+
+“That is indeed a fine proposal, Ge,” Yukong said, while Shou just nodded. Jin looked relieved that their reaction to his “impersonation” of them was so mild, but indeed it was beneficial…and even the Honoured Founders sometimes made exceptions for victory, especially against the Great Enemy.
+
+Shenhe bowed, taking the offer immediately. It was nearly the truth anyway. As she rose, she grimaced. “However, at the last base we were ambushed by a prepared Earth Realm cultivator, many Demonic Cultivators, and an entire army of Artificial Demons. All but two of our number either fell in battle or were captured. After that…”
+
+She turned to look at Shen Yu.
+
+“My tale begins after I was reunited with my grandson. I was quite upset with the insult the Shrouded Mountain Sect had offered him and intrigued regarding the demon he had found…”
+
+Shen Yu’s own tale started slowly. Though it was rather a shock that he had accepted another disciple—one that he told them they would meet with later.
+
+Ge didn’t like how Shen Yu looked. Impossibly, he was even smugger than he had once been—but it had been a long while since Ge had seen Shen Yu so animated and amused by something as he recounted his disciple’s infiltration of the Shrouded Mountain Sect.
+
+It was like one of his old stories. The stories he had told before… his son. His grin was wild and his hands made exaggerated gestures, his Qi sparking and leaping as he really got into it. His joy and amusement was infectious as it always was.
+
+“And then I pulled out one of those old ration scrolls, you know the ones that the Emperor handed out during the Gate Breach? The ones with His seal on them?”
+
+“You didn’t,” Minyan sighed, but everyone could tell the woman was smiling. Shou rested his face in his palm, while Ge and Yukong chuckled.
+
+“Of course I did! Nobody ever stops to check, they just see the seal and assume!” Shen Yu declared, right in front of the Imperial Herald.
+
+“Lord Shen Yu, please refrain from admitting to impersonating the Emperor’s will,” the Herald said, his voice filled with emotion for the first time… though this was exasperation. “And…this one is rather certain that you have an actual writ from His Imperial Majesty.”
+
+“Yes, I do have one, but I didn’t want to use that there. It's too important for something like that,” the man stated shamelessly, before sighing. “But, well, there was no corruption of the demonic kind. Just… well, that is a story for another time. The Patriarch proved unworthy, and several developments exposed less than savoury practices used by the sect. My disciple and his allies caused a schism.”
+
+Zang Shenhe grimaced at his words. Young Jin frowned. Shen Yu sighed.
+
+“But that is the end of the merriment. After that we went after Shenhe and found the place of her defeat—and it was there we were alerted to the greater threat. A threat I gravely underestimated. I thought the Earth Realm cultivator would be the strongest of them. I intended to use the expedition to the Sea of Snow as a teaching opportunity.”
+
+Ge straightened at the change in tone.
+
+“The expedition went as reasonably well as it could—and we were aided by an Imperial Realm Spirit Beast after my disciple earned his favour.”
+
+“Imperial Realm?” the Imperial Herald asked. Such beings of immense strength were always of concern to the Emperor. Those that the Empire knew of were tracked as best as they were able, and if they proved hostile, entire sects would be called against them.
+
+“Yes. I name Master Forest Sweeper and his predecessors Martyrs, in the vein of the Honoured Founders—and I shall not reveal his location without his consent,” Shen Yu spoke, his tone firm and final. “You remember the confusion about the lack of northern demons? The line of Forest Sweeper is the reason, for they held and still hold the line in the cold and far North. They have been suppressing and destroying the demonic taint since the Age of Heroes, and providing succor to lost mortals who stumble into their domain.”
+
+Silence met his words. A friendly Spirit Beast was a rarity already. A friendly Spirit Beast of such power dedicated to fighting the Great Enemy? From the histories, nearly all had died in the Age of Heroes.
+
+“Then I shall pay my respects and raise a toast to Master Forest Sweeper,” Ge said. “If he is agreeable, the Cloudy Sword Sect shall pay their respects in person.”
+
+“I will convey your words to his Imperial Majesty,” the Herald stated. “He would be interested in opening a dialogue with such a being, if it is indeed benevolent.”
+
+“An interesting bit of trivia,” Minyan said with a shrug.
+
+Shen Yu nodded.
+
+“After instructing my disciples, we set off once more, and we found the Enemy’s base—where we were immediately greeted by a Demonic Cultivator in the Imperial Realm.”
+
+===================================
+
+The room was silent as Shen Yu finished the report of his battle. A victory… thanks to this mysterious new disciple of his. Ge was a bit suspicious that Shen Yu was being so cagey about a boy he was clearly proud of. However, though it was a victory… it was clearly a costly one. The damage to Shen Yu’s cultivation was severe.
+
+From there, once more Young Jin took over the tale.
+
+“A friend had a bad dream about demons from the north, one that seemed too real. Prophetic. She was very distraught, and the entire situation felt strange to me. I asked Brother Lu Ri to head north to check on some family I had up there, and scout for any hint of this threat…”
+
+Again, Young Jin’s instincts were correct. Diviners were unreliable at best but his saying, “Trust, but verify,” was indeed profound wisdom.
+
+From there, they counter-ambushed an ambush, revealed demonic mind control, and the man fought off three Earth realms and one Sky Realm. With assistance, according to him, but the fact that he had been able to accomplish the feat at all was the mark of a legend on the same vein as his grandfather.
+
+It would have been almost unbelievable—but the young man embellished nothing, noting his own near defeat. Shen Yu’s boy cared little for glory, that much was clear to Ge—he clearly preferred his solitude and peace. He was a quiet scholar called to war. Truly, truly he was a Disciple of the Cloudy Sword’s path.
+
+Finally, Shen Yu spoke again, and the depths of the Demonic Cultivator’s insidious plan was revealed.
+
+“A puppet worm this size—and the host is still alive?” Shou demanded, as he stared angrily at the glass vial.
+
+“Their disciple said their plan was to invade the Demon Realm?” Minyan asked, her eyes wide and furious.
+
+“Your foe implied that he was well-entrenched,” Yukong stated, her eyes narrow as she too inspected the vile creature.
+
+“Yes. Their disciples were… worryingly sane, and it is clear that this is a plan perhaps a thousand years in the making. They are clearly spread throughout the Empire, and if they can open permanent Hell Gates already… it would be disastrous,” Shen Yu said, before he bowed. “My friends, this is why I called for your aid. The resources of our foe are great, as you can see by the power of their disposable weapons. This cannot be allowed to fester. The enemy organization is vast and diffuse, and I cannot destroy them alone, especially in my current state. First, we need an analysis of their transport formation so that we may root them out wherever they may hide. Then, a decapitation strike against ‘Yulong’ and the destruction of the rest of their bases in the Sea of Snow. Finally, we mop up anything that is left, using their own formations to pinpoint them.”
+
+The plan was only considered for a moment as the light of the dawn began to filter in through the windows. They had arrived quite late and had been talking for hours.
+
+“You have called. The Cloudy Sword Sect will answer. In the name of the Founders, every Demonic Cultivator shall be put to the sword,” Ge intoned.
+
+“They will not see the blade before it descends from the clouds,” Shou agreed.
+
+“Hmph, I suppose you have some sense in your head,” Minyan said, her voice a jab. “Very well, but I will expect compensation for this, Shen Yu.”
+
+She demanded payment—even though everybody knew she was going to be participating even without it. Ge rolled his eyes.
+
+“Of course, Minyan. I have just the thing—or rather, I believe Ge has just the thing?” Shen Yu asked with a smile. “My granddaughter’s formation would certainly prove useful, no? Especially with stronger reagents.”
+
+Ge sighed. “Using me to pay off your debts… some things never change,” he said with good humor—because Shen Yu always did pay him back in the end.
+
+Minyan looked intrigued.
+
+“His Imperial Majesty’s experts seem to have the problem well in hand,” the Herald intoned. “A course is set… and This One shall remain to see the aftermath and report back to the Son of Heaven. If that is all, this meeting is adjourned.”
+
+Both Young Jin and the Magistrate seemed surprised by the swift and decisive action.
+
+“We shall head out immediately. Shen Yu, you said Lu Ri is currently defending the captured base?” Ge asked as he rose to his feet.
+
+“Yes. I have no doubt Yukong will expose the secrets of the enemy’s formation swiftly,” Shen Yu stated.
+
+Yukong rolled her eyes. “Empty flattery.”
+
+“If you need a place to rest and recover…my home is probably better for it than Verdant Hill. Keep people from getting worried, you know?” Young Jin offered.
+
+“I would very much like to see your gardens, after we complete our duty.” Shou said, his voice brooking no argument.
+
+“And you can meet my disciple. He's such a proud, erect fellow,” Shen Yu japed.
+
+Ge raised an eyebrow as they opened the door to leave… only to hear a commotion in the hall.
+
+==================================
+
+“Are you obstructing my path?!” Sheng Yanjing, the Auditor-General demanded, glaring at Bao and his guards through bloodshot eyes. This was the third attempt to slow roll him. The guard outside had stalled, pretending to be looking for the keys and claiming the door was locked despite the fact that all the lights were on. The second hemmed and hawed, and only a threat got him in line.
+
+And now, Bao himself was trying to stop the Auditor’s advance.
+
+Yanjing still felt a bit like shit. The bastard Magistrate had plied him with so much drink on the night of the solstice the Auditor had been sick the entirety of yesterday. But after a good night’s sleep, and a bit of rice, he was feeling much better… and he wanted answers, damn it! The Lord Magistrate had been utterly tight-lipped about the explosions and commotion, and Yanjing would have answers.
+
+Bao smiled disarmingly.
+
+“Lord Auditor, please. The Lord Magistrate has specifically asked not to be disturbed. This is an extremely important meeting—”
+
+“Oh, a meeting? How am I sure he's not cooking his books, hmm?” Yanjing responded. Bao frowned.
+
+“This early in the morning? Please, have patience—”
+
+“Patience does not factor into this! You’ve all been attempting to bar my path!”
+
+The rotund man frowned heavily and leaned in. “Listen, I’m trying to save your life—”
+
+“Save my life? I’m sure you’re just giving him time to do what he needs to do to finish some nefarious scheme, or to destroy evidence. By law I am to have access to him at all times—and if he will not see me, this is something I must report.”
+
+Bao glared and opened his mouth… but he was interrupted by another voice, smooth and nondescript.
+
+“You are largely correct. As signed into Imperial Decree in the one hundred and twelfth year of the Empire, the Lord-Auditor of a province shall be privileged, in the carrying out of his duties, to have the obedience of all other members of His Imperial Majesty’s Bureaucracy—except when they are carrying out the will of a superior assigned agent.”
+
+“Who dare—” he glared around Bao’s fat ass… and then the words died in his throat. His entire body seized when he saw the blank white mask etched with the seal of the Imperial Family upon it. For a brief, very brief moment, he wanted to accuse the Lord Magistrate of pulling some kind of prank, of trying to deceive him. Then he felt the sudden weight upon his shoulders as four men and three women stared at him, most with only barely concealed contempt.
+
+What he had felt at the Dueling Peaks was nothing compared to this. His heart shuddered in his chest. The room started going dark.
+
+“Ah- ah, um, wh—” he sputtered, and all of a sudden the pressure faded slightly. He stopped stammering to gasp for breath.
+
+The blank mask cocked to the side. Out of the corner of his eye, Yanjing saw Bao kowtow, and, to his great luck, his own legs gave out so he could collapse forward onto his face.
+
+“It would be remiss for this one to let a loyal servant suffer for this servant’s largesse… however, this meeting must be kept quiet, you understand?”
+
+“Yes!” he squeaked out.
+
+“You may continue with your audit, then,” the Imperial Herald declared. The Auditor only saw feet walking past him.
+
+Something warm pooled in his pants, his entire body shaking with terror.
+
+The world narrowed to a pinpoint. In a daze, he barely noticed the Lord Magistrate and Bao gently picking him up, nor the servants helping him bathe, and getting him into clean clothes.
+
+The world finally came back into focus when he noticed he was sitting in front of the Lord Magistrate’s desk, the man pouring him a cup of wine.
+
+The Lord Magistrate looked stressed, with deep lines on his face.
+
+“Here. A bit of a drink does wonders,” the man said.
+
+“Is… this a bad dream?” the Auditor-General asked.
+
+“No,” the Lord Magistrate replied. He sat down heavily, and loosened his robe. “The cultivators have been here for three years.”
+
+The Auditor stared at the man. “You’ve been dealing with this for three years?”
+
+“The first year and a half I spent every moment wondering if I was going to get deposed, or worse” the man said with a chuckle. “But luckily… things turned out. They’re quite easy to get along with when you understand them.”
+
+Yanjing took a swig of the wine, fire running down his throat. He had been nothing but antagonistic the entire time he had been here.
+
+“Are you going to…?” Yanjing asked.
+
+The Lord Magistrate shook his head.
+
+“I asked them not to interfere. You’re the symptom. Not the cause. My dear wife’s family, on the other hand…” At that, the Lord Magistrate’s expression became stony. All of a sudden, he looked like a general marching to war. Yanjing swallowed thickly. Then, his visage  softened again. “Well. That is no concern of yours. Please complete your audit to the best of your ability.  I must confess I found a great deal of fun in our little duel—looking at all I’ve accomplished is no bother.”
+
+Yanjing stared at the mad bastard. He had been having fun?! He had enjoyed getting the books out?!
+
+Yanjing took another swig of his wine, emptying his glass.
+
+And, at that moment, he made a decision.
+
+Fuck the Wu clan! There was not enough money in the world for him to put up with this shit.
+
+Besides, he knew when to get off a sinking ship. A fucking Imperial Herald. Yanjing thought he would never see one in his life. Here, at the far end of the Empire! He glanced at the Lord Magistrate. The man was obviously a rising power.
+
+He idly wondered if the man would like a loyal Auditor General.
+
+Failing that, he would be leaving the damn province.
+
+=====================================
+
+In a secret bunker within the Gold Grass Steppes, deep below the earth, a figure shifted fitfully. The new day dawned before them
+
+Huian looked close to death… and they had been for a while. They had nearly died when the teleportation sigil had deposited them into this base, thousands of Li away from the battle.
+
+Disaster. The entire thing had been a disaster. Huian tried not to dwell on it, but getting a report immediately upon waking up that Master’s failsafes had tripped and they had a destruction ping from the northern hub base had been… trying.
+
+It was almost unbelievable. No, it was unbelievable. How had things gone so wrong? The only spot that wasn’t a complete failure was that Yulong had managed to signal his survival while Huian was unconscious—a contact they were trying to reestablish so they could understand what exactly had happened.
+
+Huian had been in and out of consciousness for most of the day, tended to by the disciples of their Master. They had barely clung to life—and it was only the skilled ministrations of the men in the base that had saved them.
+
+But nothing they had done so far had managed to get rid of the burning agony in their leg. The cut was gone, but it still felt like it was there, burning, throbbing, judging—
+
+Huian grimaced. “Do we have a connection to Yulong yet?” they croaked to the other man in the room—Zhou Tai, the head of this base. Once more, Huian was thankful that their Master was their Master. Most demonic cults would have probably killed Huian if they had arrived in this state. Instead, Tai, who could have killed them easily at the moment, was still acting with polite deference and care.
+
+“No, Heavenly Demon. We are trying, but the aftershocks have made the system delicate. If we push too much we risk burning it out.” Huian’s grimace grew at the calm report. Tai had a sympathetic look in his good eye, the other covered by a patch. “We do, however, have the most recent reports. A new batch just arrived. May I assist the Heavenly Demon in reviewing them?”
+
+“Thank you, Tai,” Huian sighed.
+
+The man bowed, collected the reports, and returned swiftly. They started going through the reports. Most were mundane. However, one of the ones higher on the priority list caught their eye.
+
+“The Army Forged in the Crucible has been placed on standby. Quartermasters distributing cold-weather gear—greatcoats, hats, gloves, boots, and fire crystals. The order came from the Cloudy Sword Sect itself. Several members of the sect departed on flying swords…?” Huian said out loud.
+
+Their eyes met Tai’s. Dread started to pool in Huian’s guts. That… could not be a coincidence.
+
+“Get Yulong. Get Yulong now. Priority Black! Do whatever you have to!” Huian commanded—but Tai was already sprinting off, bellowing orders to the transmission stone teams.

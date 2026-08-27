@@ -1,0 +1,123 @@
+---
+id: 549dc6e5-e9ca-5026-a499-17f78efa20be
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 82 - Buried Treasure"
+slug: 0086-b3-chapter-82-buried-treasure
+partOf: bookbound-bunny
+position: 86
+ownLength: 2196
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3861992/b3-chapter-82-buried-treasure"
+royalRoadId: "3861992"
+---
+
+{I think I'm slowly getting the hang of drawing while moving around. Although only if I don't go faster than a brisk jog.}
+
+[Oh? Have you found a particular method or trick? I'd love to hear about it.]
+
+Lily sighed a little and told the truth, admitting that she was using her cloak to brace her arm and even help with the control. Even though she thought Arakil might scold her for cheating, she couldn't resist when he asked directly with such genuine curiosity. His actual response, though, surprised her a bit.
+
+[That's wonderful, I'm glad you've managed to find a technique that works for you. It seems that you've slowly but surely started incorporating your Nebula Veil into everything. At the same time, I might have thought of using it to train you on how to sustain spells or multitask them, but I hadn't considered that you'd continue to use it to push yourself further.]
+
+{I did say I was going to make it my signature spell.}
+
+[That you did… While I never doubted your commitment or enthusiasm, I thought you might eventually find a spell you preferred or were more interested in. But, if you do end up successfully enchanting the cloak, then I'd say you've entered the realm of making it a signature spell.]
+
+Lily was very excited about that prospect. Of course, there wasn't some fancy title, reward, or magical power-up from having it officially recognized, as it was more about the prestige surrounding it. Not to mention that having Arakil as the one to officially declare it was a level of renown itself that not many could brag about.
+
+As for Lily's traps and hazards, they seemed to play a significant role in preventing many students from breaching deeper into the rocky foothills. Occasionally, she would see dark cloud pockets appear in the distance, indicating that someone had triggered one and blanketed everyone within its radius.
+
+Naturally, these actions couldn't stop everyone, and several students found the obvious solution: just run straight through until you reached the outside. Lily had expected more of them to panic and lose their sense of direction, but perhaps she had underestimated her fellow students a tad too much.
+
+Thankfully, she had not only used clouds of darkness, but those were also just the easiest to draw while on the move. When she settled into a spot, she would try to freeze the ground into a slippery surface, and if it just so happened to overlap a shadow trap, they would combine into a very effective countermeasure. Barreling ahead through the darkness while the ground was treacherous was a very stupid thing to do, after all.
+
+However, all good things must come to an end, and many rival students soon started passing through. Some shot glares at her, the obvious perpetrator, while others actually took it quite well and laughed at how much chaos one little bunny could cause. Lily even found out that several students had given up at the first wall and rerouted to the forest, thinking it would offer less resistance.
+
+I guess I've done all that I can… Maybe I should try looking for a treasure? Or should I try heading into the forest and do some gardening?
+
+Lily decided to do a bit of both, as the rocky terrain and forest were next to each other. In fact, if students had gone through the forest, they could have entered the foothills that way and bypassed her traps. She suspected some of them might have done that already, especially if they were from Terravix and presumably unhindered by Clarissa.
+
+Heading there at a much faster pace now that she wasn't drawing along the way, Lily actually encountered a few monsters. Thankfully, they were not birds, but having a dire mole suddenly try to ambush you by bursting out from the ground had given her quite a scare. Lily yelped out in shock and instinctively cast her Starburst, sending almost half a dozen stars hurtling towards the monster. In a shower of stardust explosions, you couldn't even see the black flecks of the monster's remains when she finally calmed down.
+
+Maybe I need a bit of luck on my side…
+
+Lily began a chant, roughly half the original length, accompanied by precise, quick hand gestures. The spell completed, and the brightly glowing waxing crescent moon appeared above her head. However, she didn't move from the spot, instead staring down at her hands with a tiny frown.
+
+Still not fast enough… Do I need to do more hand exercises?
+
+Admittedly, she hadn't yet mastered the balls that Arakil told her to use, and while they kept her fingers feeling flexible, she didn't particularly think they were increasing in nimbleness. Arakil had said she was faster than before, and while she didn't think he was lying, it was hard to see the results herself.
+
+He did show that recording of me showing otherwise… But still… Maybe I need to speed up the exercise even more?
+
+Lily shrugged, realizing this wasn't the best time to be thinking about training. While she hoped her teammates were claiming enough treasures to win, that didn't mean she could stand around doing nothing.
+
+Continuing her path towards the forest, she kept getting ambushed by dire moles, which seemed almost drawn to her. Thankfully, this time she was almost expecting it, so she wasn't caught in a frantic panic, but now it was starting to feel suspicious.
+
+"What happened to my luck? Did I accidentally cast Lunar Eclipse on myself?" she muttered. "Also, where do these moles keep coming from? Am I accidentally walking over their nest?"
+
+[I'm going to skip my usual rant on luck and first point out that you did cast the right spell. As for the moles, you might be over their den, so why not try digging down and seeing for yourself?]
+
+Lily rolled her eyes. She didn't understand how Arakil could be so stubborn when it was obvious that luck was real; why else would these two spells be so effective? However, she thought he had a point; maybe there was a den or cave somehow below her, and that's where the moles were congregating.
+
+Maybe even a treasure? Wouldn't that be lucky?
+
+Lily giggled to herself and began drawing a glyph. She'd drawn so many digging glyphs earlier that it came out in record time, although she had to nearly correct herself as she had almost designated another trench rather than a tunnel downwards. After that near blunder, she double-checked her glyph before activating it, watching it start digging straight down.
+
+Almost immediately, more dire moles started to pop up, as if disturbed by the sudden digging. Lily wished she had had the foresight to predict this and set up some traps for the moles to get some more direct practice with her glyphs, but unfortunately, she had to dispatch them with several quick castings of Starburst.
+
+When the first wave was defeated, she hastily tried to remedy her earlier blunder and started drawing runes. They were quick and dirty, but effective, so when more moles popped up, they were easily manageable. Lily's method for dealing with the moles was either a simple "burn" rune or a "lift," as the monsters were thankfully not big enough to resist being flung into the air and falling victim to gravity.
+
+By the time Lily's digging glyph had finished its work, she had lost count of how many moles had popped up. This seemed excessive for what was supposed to be a normal challenge, and she wondered again if the dungeon was breaking its promise to mess with her. Arakil was once again the voice of reason on the matter.
+
+[I still don't think so. Remember, this was supposed to be a team event, and there's a good chance it should have been handled as a group. You just so happened to both stumble upon it and take care of it by yourself.]
+
+"I guess that makes sense…" she mumbled before walking carefully over to the hole she had just made.
+
+Gazing down, it was deep and dark, so she summoned forth several Starlights and sent them down in a chain. Her tunnel eventually breached what looked like a much larger chamber, probably the den of the dire moles.
+
+"Do you think there's a treasure down there?"
+
+[I don't see why else there would be a monster den, considering that's what this floor was repurposed for.]
+
+"Expecting students to dig for it seems a bit much, though."
+
+[Haven't you heard of buried treasure?]
+
+That got a small giggle out of Lily, although now she had another problem to solve.
+
+"Okay, okay, I see your point. Although now I wonder what the best way to get down is? Should I try building a staircase or a ramp down with an earth glyph? I could also try lowering myself with my cloak, although that feels risky…"
+
+[It's a pity you weren't interested in the earth traversal spell, or we could have used that and avoided digging entirely. A ramp would work, although the quickest might be to fill the hole with water and dive in. An alternative without getting wet would be to place a glyph at the bottom with an air cushion.]
+
+"Both of those involve jumping into a dark hole, which I'm not doing at all. I'm building a ramp."
+
+Lily huddled down near the hole, which thankfully wasn't producing more dire moles, and began drawing her glyph. She had considered using one of the moles' tunnels, but that seemed even riskier than Arakil's two alternatives. Those dug-out tunnels were probably highly unstable, not to mention cramped, so, potential claustrophobia aside, they could very well collapse on her.
+
+Besides, Lily always welcomed the opportunity to do some more drawing and, in this particular case, got to use some sigil configurations she had never done before. Creating a ramp like a spiral staircase was tricky, and she consulted Arakil for a bit of guidance after pulling him out of her pocket to look at it.
+
+A few minor corrections later, and it was ready to be activated. Lily took a step back and triggered the glyph, which began digging down again on the outside of her pit, almost like a corkscrew. Her original idea was to use a building glyph, until Arakil pointed out that her hole wasn't wide enough to build inward, and he suggested just digging the ramp into the walls.
+
+I wish Theo were here to see this, although I bet he would have wanted to build an actual staircase rather than a ramp. I wonder if I'll get the chance to see him at the interschool tournament. I hope Tresnia is treating him well.
+
+The education they were receiving was probably incomparable. Theo wanted to be a magical mason and was most likely learning things like architecture on the side rather than how to kill monsters and survive in the dungeon. Although building structures also had its place in a dungeon, too, as Lily's fort had proven, and was something she wanted to brag about to him.
+
+When the ramp was finished, Lily began cautiously descending, making sure to light the way with plenty of Starlight spells. The ramp wasn't entirely smooth, having been dug out of dirt and rock, so she had enough traction not to worry about slipping. She eventually reached the cavern breach point safe and sound, although that left only one thing to do.
+
+"I'm going to have to jump the last bit…" Lily sighed, looking down at the cave below.
+
+She could have drawn another glyph to build something up to the hole, but in this slightly cramped environment, that would have been a bit tricky. Also, the fall wasn't too bad, so she conjured forth as much of her Nebula Veil as she could before trying to lower herself down, and if the worst was to happen, she could cushion her fall.
+
+To her relief, that didn't happen, and she successfully descended the final bit. Her first action was to spread Starlights across the entire area, banishing the darkness with their warm, subtle glow. It appeared to be a main chamber, and in the distance, a larger pathway led deeper, or perhaps to a way out.
+
+"I don't see anything…" Lily whispered, her voice echoing slightly.
+
+[Even with your Magesight?]
+
+Lily blushed and quickly corrected her mistake. Looking around for traces of Mana, she saw something glowing underneath some rubble, probably caused by her two digging attempts. The light rubble was brushed aside by manipulating her cloak, and the larger chunks she removed with some casual telekinesis spell usage.
+
+What she ultimately found looked like a large, faceted gemstone, probably silverish in color, though it was a bit hard to tell with the lack of proper lighting. Considering its size and appearance, it practically screamed "this is a treasure," and she quickly pocketed it, hoping she'd scored something good for her team.
+
+She glanced back to where she had come from and then to the unexplored tunnel; her decision was made quickly.
+
+"Let's see where this leads to."

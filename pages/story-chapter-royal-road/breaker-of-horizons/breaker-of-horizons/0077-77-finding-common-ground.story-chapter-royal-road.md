@@ -1,0 +1,113 @@
+---
+id: 9a125ff8-e44c-5629-9c52-f8a1686d566f
+page-type-slug: story-chapter-royal-road
+title: "77. Finding Common Ground"
+slug: 0077-77-finding-common-ground
+partOf: breaker-of-horizons
+position: 77
+ownLength: 2187
+unit: words
+publishedAt: 2021-01-25
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/620046/77-finding-common-ground"
+royalRoadId: "620046"
+---
+
+It had already been difficult for Devon to come to terms with seeing his own auric-ambient-flare spread before him earlier. Having one's very essence laid bare to scrutiny like that was both liberating and terrifying. It invited a level of introspection and self-awareness that few people were comfortable with. The only way he had managed to cope with it at that moment was to actually distract himself by focusing on the other more pressing issues at hand. Listening to Jerric treating with the augera had been an excellent diversion from the terrors of confronting one's nature.
+
+Now, they were delving into someone else's auric-ambient-flare. It didn't prompt the same kind of aversion or shying away, since it was always easier to contemplate someone else's faults instead of one's own, but it was still a very disconcerting experience. Devon had observed Jerric's auric-ambient-flare from a distance during his exchange with the augera so he was passably familiar with the sensation, but actually being inside another person's innermost thoughts turned out to be a great deal more challenging than expected.
+
+The immediate danger was being lost, but not in the navigational sense. Physical space didn't really seem to exist in the arcanic ocean, and as far as Devon could tell, their perception of distance was just an abstraction that their arcanic senses were employing in order to help them make some sense of this metaphysical space.
+
+The real danger was holding on to one's sense of self and identity. As Devon and Jerric travelled past the boundary that marked the ambient arcana from Kevan's auric arcana, they found themselves swimming in his very essence. There, awash in his thoughts, feelings, and emotions, it was hard to tell where his ended and theirs began.
+
+Devon instinctively recognised that he had to make very certain that he didn't melt into this part of the arcana. He had to remain distinct, separate, pure. The fuzzy barrier that he had improvised was working surprisingly well, but it was beginning to fray. But before he tried shoring it up, a perturbation in the arcana snapped his attention to Jerric, who was fighting desperately to maintain a coherent image of himself. Devon hastily reached out to Jerric and enveloped his friend in a second barrier.
+
+'Thanks,' Jerric sent, sounding shaken.
+
+'This won't last. We need to figure out how to maintain our own arcanic integrity.' A sense of frustration and annoyance welled up inside Devon and, alarmingly, found an echo in Kevan's auric-ambient-flare. A memory blossomed—
+
+—they were all standing around in one of the smaller duelling chambers in the Academy, hard at work trying to learn the basics of what they were still calling 'compulsion' at the time. Kevan was staring hard at Lynus, trying and failing to get him to scratch his nose. Why was a bigger compulsion easier than something subtle? It made no sense. He had to figure it out first, had to remain ahead of the rest, because if he didn't, then—
+
+'Devon!' This time, it was Jerric who pulled him back from the brink by duplicating the barrier and wrapping Devon in another layer.
+
+He couldn't respond for a moment, still reeling from that moment when he had slipped right into Kevan's memory. It wasn't even like that moment when Jerric's memories had flooded into the space when they had been conversing with the augera — this time, Devon had been in Kevan's skin, actually reliving the moment as if it had been his own. What was more, Devon was actually personally familiar with that particular brand of self-directed frustration himself. Kevan's had somehow been sharper, stronger, more all-encompassing, but it was definitely from the same root.
+
+'Dev? Dev, are you alright?' Jerric drew closer, trying to push aside some of the threads of Kevan's auric-ambient-flare in order to produce a small bubble around the two of them. It wasn't much, and it was already beginning to close up, but it gave them some breathing room.
+
+'Fine. I'm fine, I think,' Devon replied, carefully managing his own thoughts. The augera had mentioned doing things 'softly' several times, and now he was beginning to understand a little more of what that meant.
+
+It seemed that Jerric could read the tenor of Devon's thoughts. A sense of agreement drifted between them. 'Yes,' Jerric noted, 'we need to manage our own thoughts and emotions here. Like calls to like. If we broadcast too much, we'll draw forth parts of his auric-ambient-flare that match ours, and we'll lose our way.'
+
+'Why'd you take us in? What are we looking for or doing?' Devon tried to rein in a sense of helplessness, and also resentment at Jerric for plunging headlong into the unknown without stopping to explain.
+
+Another memory pressed in on their shrinking bubble. This time Devon was ready for it, and he braced against the tide. The connection was brief, but he still felt—
+
+—helplessness, total helplessness, even as he hurled heavy arcanic bolts at the shimmering ghost of Jerric's mother as it bore down on his brother, who was now shaking and twitching in a fit even as he babbled into the arcana, 'No, no, no, no, no!'
+
+Why the hell was it going for Ly? And why weren't the bolts having any effect? They should have planned more, should have discussed what they might be able to do to take it down. They should have assumed it would be hostile, but no, Jerric, and Caden, and the rest had just assumed that they could traipse up to it and just take a look without—
+
+With a great effort of will, Devon pulled himself out of that moment by the Academy lake when the wild augera had attacked them. Instead of wallowing in more frustration, he forced himself to focus on an image: a slab of ice-cream, fresh out of the freezer, completely solid and unyielding.
+
+Rock solid. Not butter.
+
+It worked as he hoped it would. Kevan's emotions in that moment continued to swirl around, and even though it did catch a few stray flakes of Devon's consciousness, his core remained untouched. Who would have guessed that the imagery of food would work so well to help him adapt to arcanophanic mysteries?
+
+Jerric picked up on the change in Devon and mimicked him. Finally, after some adjustments, the two of them were better-insulated against the perils of being in someone else's mind. Their protections were far from perfect, but it bought them time and made it a little easier for them to manoeuvre. The temporary bubble of emptiness collapsed, so they allowed themselves to bob in place while they held a quick discussion. All around them, Kevan's mind continued to hum with activity as they tried their best to ignore it.
+
+'Sorry, Dev,' Jerric sent. 'I really should've explained first. I figured that if we get inside them, see how they tick, we'd have a better chance of just talking them down. I thought it'd be safer than trying to subdue them by force.'
+
+'Yeah, okay, that makes sense. But do you have any idea how we can do this safely, and quickly?' Devon replied.
+
+'I've got ideas, but I don't know how well they'll work,' Jerric admitted. 'I figure we should try and zoom in on a moment of disagreement, like earlier today before we left your place, and then slip into their heads there to see what was going on.'
+
+'You have any idea how to do that? The memories seem random,' Devon pointed out.
+
+'So far, they've all been recent. I think that's because we're here, so the memories that involve us are called to the front. Maybe if we just make a... a soft connection, and think back to the moment we want, we can get their memories of it to surface.'
+
+It was a simple enough concept, and while Devon was reasonably sure he could have come up with it by himself in less stressful circumstances, he had to admit that he was proud of Jerric's mind at that moment, and how brilliant his friend was. Here they were in the middle of a totally alien scenario, and he was still calmly analysing things and managing to piece coherent thoughts together without totally falling to pieces.
+
+To their surprise, this emotion from Devon called up another echo, though both of them were now sufficiently fortified that they didn't simply fall right into it. Instead of reliving the moment, they experienced it at a level of removal that made it seem like a dream, albeit a very clear one. They were—
+
+—all laughing at Dev's whining as Caden threw heavy arcanic bolts at them while they practised simultaneously shielding against his ensorcelment. But then Caden's bolts suddenly burst out from the arena shields instead of the space around him, and next to the surprise, Kevan felt a surge of genuine pride at how Caden had progressed so much in his thaumaturgy. Kevan didn't exactly like the guy, and there was a bit of rivalry between them, but it was quite gratifying to see someone improve by leaps and bounds like that. Maybe if—
+
+'You know,' Jerric mused as they allowed the memory to slide away, 'this may work better than I thought. On some level, we're all pretty alike.'
+
+'Yeah? Wait till Kevan finds out we've been rooting around in his head. I guarantee you any negotiations will go south faster than I can say "I told you so",' Devon shot back. But he had to admit that he had put a little more bite into that comment because on some level he disliked the idea of having things in common with Kevan.
+
+Jerric did not make any verbal reply, but he briefly radiated a certain smugness that made it clear that he knew he had struck a nerve with Devon and was choosing not to press the point. But then that emotion quickly bled away as Jerric sharpened his focus and extracted his own memory of what had transpired earlier in the day, when they were all waiting around in the entrance hall and discussing what to do with Caden when he arrived with the agents.
+
+The clarity of Jerric's memory sharpened as Kevan's own memory stirred in sympathy. Jerric quickly cleared his own mind so that they could focus on Kevan's strand without it being muddied with Jerric's perspective of that event. Devon did likewise, firmly fixing the idea of himself being a solid block of ice-cream.
+
+'Always food,' Jerric observed wryly.
+
+'Not now,' Devon responded testily.
+
+—"Possessed by an unstable augera," the echo of Jerric muttered. He paused, then shuddered. "Can't imagine how that must feel."
+
+Kevan grimaced as he recalled that terrible encounter with the wild augera by the lake, when he and Ly had been almost broken, especially after the Demiurge had appeared and the wild augera had shattered the world around them. And that was with a stable, albeit wild, augera. What must Caden have experienced to have something like that in his head? And a corrupted one, at that?
+
+But there was an even bigger problem. What if that somehow twisted his threads? He was the unchosen-sighted-{~?~}, and that meant he had the power to undo the Prophecy. They were all trying to modify it, and that was risky enough... could they trust a damaged Caden with the threads of the Prophecy, when he might end up unmaking it entirely? The Academy augera had mentioned... but there was too much to consider now. What did the rest think?
+
+"So... are we doing this?" Kevan asked after a brief silence.
+
+"What do you mean? Of course we're doing this," Devon's echo said, looking up in surprise.
+
+"Look..." Kevan paused. He wanted the Prophecy changed, too, but between saving Emilia and saving the Empire... "I know he's our friend, but he's... not really one of us, is he?"—
+
+But at this point, Devon's emotions were bleeding through too strongly. The echoes frizzled, morphed, and twisted, pulled between two different perspectives. Devon's own anger and indignation were coming through—
+
+—what would Kevan know about being 'one of us', he's always running off with Lynus, always looking down on everyone else, always thinking only of himself! What made him even think there was an 'us' that he was a part of!—
+
+The icy touch of Jerric's mind made Devon flinch away, but it also helped pull him out of that moment.
+
+'This... is going to be difficult for me,' Devon admitted, feeling raw and ragged.
+
+'I know, Dev, but I need you.'
+
+'What do you mean?' Devon asked, surprised.
+
+'You're the warm-skilful-bridge,' Jerric stated simply, drawing back the curtain on his own thoughts for a moment.
+
+The cold-strong-watcher held the threads of Kevan's memory with dispassionate hands. A part of him knew that, in principle, it was wrong to twist another person's mind. But another part of him wondered exactly what would happen, and how it would work, and it wanted to try. It wanted to watch.
+
+'I need you,' Jerric repeated, with a self-deprecating twinge, 'to stop me from going too far.'

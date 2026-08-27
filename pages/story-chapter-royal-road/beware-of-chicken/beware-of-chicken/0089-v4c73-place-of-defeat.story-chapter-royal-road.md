@@ -1,0 +1,313 @@
+---
+id: a478a666-5458-5645-8c46-14e9cf71c3f2
+page-type-slug: story-chapter-royal-road
+title: "v4c73: Place of Defeat"
+slug: 0089-v4c73-place-of-defeat
+partOf: beware-of-chicken
+position: 89
+ownLength: 3676
+unit: words
+ownProgress: 3676
+publishedAt: 2024-01-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1490210/v4c73-place-of-defeat"
+royalRoadId: "1490210"
+markedReadAt: "2026-06-29T18:54:30.279Z"
+---
+
+Zhou Yingwen was in darkness.
+
+He had been in darkness since Fenxian had caused the avalanche that hid them. He didn’t know how much time had passed as he faded in and out of consciousness. The stumps that were his legs had long since been tended to at least— though they lacked the resources to reattach the one limb Fenxian had managed to save, his foolish comrade carrying it along with them.
+
+They had survived, for now, but… Yingwen knew in his soul that this was the end. That this cave, covered by snow, was to be his tomb.
+
+It was an almost comforting thought. It was peaceful here. There was no more terror, no more pain.
+
+It was silent; save for the occasionally crunching sound as the snow settled a bit.
+
+They both lacked the strength to dig themselves out before they had no more air… and even if they had enough air, they were likely already being slowly poisoned by the ripped off arm of the beast Fenxian had taken with them. It was sharp enough to be a weapon, and neither of them had their swords.
+
+Yingwen let out a breath. It was wheezy and rattling.
+
+The initial assault had gone well. They had stormed the last base, their lightning burning everything in their path, as it had in every base before.
+
+Then it all went wrong. First the ripping explosion. Then, the Qi of the world went mad as a giant formation activated—and then the secret side tunnels opened up, disgorging horrors.
+
+Perhaps they had once been men or women, but now instead they were something terrible. Half man and half demon. Chitinous blades sprung from their arms or their backs. Black armor covered random bits of exposed flesh. Their breaths were raspy and their faces were twisted not with agony, but joy and amusement.
+
+They looked happy as they tore into the Shrouded Mountain Sect Disciples. They were not particularly strong, but they had durability and numbers on their side, and they cared nothing for taking damage so that they could strike in return.
+
+They literally buried people under them, grabbing cultivators and dragging them down.
+
+But those were not the only beasts.
+
+There were far more insidious ones. Demonic Cultivators. Demonic Cultivators who were not crazed beasts, but cold, efficient, and ruthless. They looked more like an Imperial Execution squad than any Demonic Cultivator Yingwen had ever heard of about.
+
+Yingwen shuddered as he remembered the battle and the screams of his fellow Disciples as he listened to the snow shift overhead.
+
+Their brother and sister Disciples had fought back as best they could… but it was overwhelming.
+
+They had honestly done well to survive as long as they had—for even Elder Shenhe had fallen to a man with burning purple eyes. She had been limp in his grasp, her body smoking, and constellations of light floating around her body.
+
+Yingwen’s only regret was that he wouldn’t be able to warn the Sect that had taken him in and practically raised him.
+
+He stared into the darkness and listened to the steady, almost rhythmic, shifting of snow.
+
+Crunch, crunch, crunch, it went.
+
+…that wasn’t the snow shifting. That was something digging.
+
+“Fenxian,” Yingwen rasped, his voice weak.
+
+“Yeah, I hear it, brother. Looks like they found us,” Fenxian’s voice was calm and Yingwen heard him shuffle around and stand. At once, there was an almost blinding light as Fenxian ignited a small spark in his hand, just enough to see. “Looks like my plan was shit, as always.”
+
+His brother Disciple was smiling ruefully. His plans had always been harebrained. His brother Disciple was an idiot of the highest order, after all.
+
+“It was a fine plan. The Lode Iron trap especially was inspired,” Yingwen stated. “You used up all your good ideas at the last moment, it seems.”
+
+Fenxian chuckled. “It truly is the end if you’re complimenting me.”
+
+The sound of digging was getting louder.
+
+“Well, shall we perform one last charge?” Yingwen asked. “You always said a man should go out in battle.”
+
+Fenxian nodded. “For the Shrouded Mountain Sect,” he declared.
+
+“For the Shrouded Mountain Sect,” Yingwen agreed, pushing himself into a seated position with his good arm. He could not die standing… But he could at least spit in defiance one last time.
+
+A limb punched through the snow. The cave erupted with light.
+
+Yingwen gathered all the Qi he could, his skin cracking from the energy, and as soon as a figure appeared in the portal, he unleashed it
+
+Fenxian roared and charged.
+
+The shadow dodged the lightning bolt—and caught Fenxian’s blow.
+
+Yingwen stared, determined to look his death in the eye.
+
+=============================================
+
+The snow crunched under Bi De’s feet and his breath came out in great steaming gouts that were instantly swept away by the howling wind.
+
+The worst storm Bi De had ever experienced before was the Devil Storm, at the end of winter back in the Azure Hills. It had been the true fury of nature, with its savage winds and bitter cold. Yet while it had concerned normal people, it had only been an interesting distraction for Bi De. As a cultivator he could have waltzed through it without a care in the world.
+
+The storms of the Howling Fang Mountains started as strong as a Devil Storm.
+
+The province was aptly named, for with the jagged mountains that looked like rows of serrated teeth combined with the roaring bellow of the wind, it was like they were in the mouth of a massive predator proclaiming its dominance for all the world to hear.
+
+For the first time since he had ascended past the Initiate’s Realm, Bi De felt truly cold. The outer layer of his skin was trying to freeze over, and he could feel the icy tendrils of the Qi-empowered storm reaching for his dantian.
+
+To the left and right of him were what looked like parodies of Tigu’s sculptures; humanoid forms hunched over like he was and trying to trudge forwards, interspersed with others holding out their hands in the direction of the wind.
+
+Except these were not sculptures. Each frozen statue had once been a human, part of an Imperial Army regiment, before the entire group had been frozen in minutes.
+
+And this was mild weather for Forlorn Sculpture Pass.
+
+He was near-blind from the driving snow and near-deaf from the screaming wind, but he glanced to the side as Shao Heng tapped his shoulder.. He made a hand signal that indicated “cave” and pointed off to the left side of the pass. Bi De nodded, sparing a glance at the others behind him. As the one with the strongest cultivation, Bi De was the “bulwark”, a shield for his companions against the wind… and other things. His hand lashed out as he caught an icicle as long as his forearm and absently crushed it.
+
+Bi De forged ahead, flaring his own Qi and shoving the storm aside as best he could, yet the world knew that a man must be humble. The storm refused to bow before him and kept venting its fury.
+
+After only a minute he found the cave Shao Heng had indicated. The wind cut off swiftly as they entered it, and the air warmed as Shao Heng immediately pulled out a fire crystal.
+
+All of their party let out a sigh of relief.
+
+Bi De himself started undoing buttons on his jacket, a gift from the foxes before they had left. At first Bi De had been confused about the gift… but then Shao Heng and Yushang had insisted that they take them.
+
+They received thick, puffy jackets, boots with nails poking out of the bottom, specially treated rope, and ice-picks. The clothes were lined with the fur of Emperor Wolves, or stuffed with Blaze Bird down. They additionally had a pocket specifically for a minor fire crystal in the chest area.
+
+Now, Bi De was rather glad that they had taken them.
+
+Yun Ren groaned as he collapsed against the wall, rubbing his hands together.
+
+“Wish my brother was here. He kicks out heat like a fire crystal,” he grumbled.
+
+“You have fluff if you want it. Stop complaining,” Han grumped while Yushang sighed heavily, draping herself over Ri Zu.
+
+“I never thought we’d actually take Forlorn Sculpture Pass. I thought you were joking, Uncle!” Yushang complained.
+
+“Lord Shen Yu demanded the fastest pace we could make. Forlorn Sculpture Pass is the fastest,” Shao Heng replied as he pulled out the map. The pass was marked with numerous skulls… but the route cut a week off their journey to the last place Elder Shenhe had been spotted.
+
+“The speediest paths are oft fraught with danger,” Shen Yu said as he casually walked into the cave, not looking cold at all. He wasn’t wearing anything different from his usual clothes. Nezan was behind him, similarly no worse for wear. “One always must consider this while traveling, especially when they have somewhere to be; as the shortest path can sometimes be the longest path, if things go wrong.” Shen Yu’s eyes roved over them all. “I will allow a short rest, but we will continue within the hour.”
+
+And with that he turned and walked back out into the storm.
+
+All of them sighed.
+
+“Couldn’t he have just flown us there?” Han complained, but his heart wasn’t in it.
+
+After all, Shen Yu had told them why he wasn’t allowing them to take a “shortcut”.
+
+“Traveling through hardship is good for you,” Bi De said to Han, repeating Shen Yu’s words. All of them let out a chuckle… but it was true. “Now, let us recover ourselves. Master Shen Yu wishes for our best speed.”
+
+Bi De sat beside Yun Ren, and the other man pressed slightly up against him. Han sat beside Yun Ren while Ri Zu sat on Bi De’s lap. Yushang sat beside Bi De, then the woman turned to Shao Heng and patted the ground beside her.
+
+The Healing Sage, if she could see him, most likely would have made a joke about how many people Bi De shared his bed with… but in the Howling Fang Mountains, multiple people crammed together and sharing heat was the norm.
+
+He closed his eyes and meditated upon their journey north.
+
+At first, the weather had been mild and their pace had seen them reach the first town Elder Shenhe and her people had visited within half a day of departing. The locations had been recorded by Yun Ren when he had raided the Inquistion's archives for knowledge.
+
+It had been a small town. The mortals had all been evacuated earlier by the Shrouded Mountain Sect, leaving it completely abandoned.
+
+It looked mostly unharmed… until they got to a building built into the side of a mountain. The building had been sealed entirely by a formation, but Shen Yu had made short work of it, allowing them entry.
+
+“Hmm, she's thorough,” Shen Yu had said with what sounded like a mild amount of praise. The halls were blackened and slagged, like the woman had ordered every inch cleansed with electricity. There were seals plastered all over the walls, and in quite a few of the rooms there were prayer offerings to cleanse tortured spirits. Bi De couldn’t feel any lingering demonic taint at all, and even Shen Yu had to actually focus to find any lingering Qi—and even there was the barest hint of corruption.
+
+After that, they had gone to where the mortals had been evacuated and spoke to them. Apparently none of them had known anything at all had been amiss until the mountain they had lived on started rumbling, and the Shrouded Mountain Sect Disciples had thoroughly examined all of them for a “Qi Plague”.
+
+They visited three other locations, each one as thoroughly cleansed as the last, and each with the same story.
+
+After that the old man had commanded they were changing their methods. Instead of taking a look at every place the Elder had cleansed, they were traveling to Zang Shenhe directly.
+
+And that meant taking the dangerous routes with all speed north.
+
+It was exhausting and freezing.
+
+Yet though it was a tiring journey… he was enjoying himself. He was enjoying the challenge of the route.
+
+But he was also curious at what they might find with Elder Shenhe.
+
+==================================
+
+It was when they were an hour away from their destination when they started to feel ill at ease.
+
+Bi De glanced at his companions and sped up. They exploded into motion, making all due haste, until, on the horizon, they saw smoke and stopped dead.
+
+Shen Yu and Nezan were already there; both of them were frowning heavily. They were standing in the middle of a ransacked camp. The banners of the Shrouded Mountain Sect had been tossed into a pile and burned.
+
+But more than the camp, there was a mountain.
+
+Half its top had been blown off, or had collapsed inward, and even now smoke poured out of it. The entire area felt off.
+
+There was no grand demonic taint. If anything, Bi De felt only the occasional whisper that was so faint it may as well not have been there.
+
+Bi De’s eyes went from the mountain to the area around it.
+
+There had been a storm through here recently, but there was still the occasional patch of red blood visible.
+
+Red blood… and what oddly looked like where patches of snow had been scooped out.
+
+Shen Yu’s face was grim as he glared at the mountain.
+
+“Disperse and search for survivors. If you see anything amiss, flee immediately and break this talisman; it shall call me to you,” Shen Yu said bluntly, his voice brooking no disagreement as he handed out talismans and transmission stones to each of them. “I shall be going into the mountain to investigate. Nezan, keep an eye on them.”
+
+“Yes,” the fox replied tersely.
+
+“Yushang, with Yun Ren. Han, with Ri Zu. Shao Heng, with me,” Bi De said, evenly splitting their combat power… as much as it could be split. An extra pair of eyes would help him out as well.
+
+His companions swallowed thickly, but made ready. Yun Ren’s ears and tail popped out, while Yushang drew her sword. Han let out a breath, while Shao Heng simply bowed his head.
+
+Ri Zu closed her eyes and a legion of little squeaking shadows boiled out of her sleeves.
+
+“They have a good sense of smell,” Ri Zu explained. “And if need be, they can scout ahead.”
+
+The shadow rats lined up like an army regiment and gave them all little salutes before running over to cling onto pants or hide under jackets.
+
+Then they dispersed in their pairs. Shao Heng was a lot slower than Bi De, but his knowledge of the mountains was still superior.
+
+The first thing Bi De noticed was the lack of corpses. Bi De saw places where bodies fell, the pools of frozen blood, but no one lay in them. Every single corpse was just… gone.
+
+For an hour they searched, in a winding pattern, but it seemed to be fruitless. All the trails ended quite close to the mountain. They were just contemplating going back to tell the others when Bi De’s transmission stone buzzed.
+
+“Yushang say—chrrzzzz,” Bi De winced as Yun Ren’s voice hissed harshly from the stone; interference from the disrupted Qi around the mountain. “—trail of somebody—Possible survivors?”
+
+“We shall head over to you immediately,” Bi De replied.
+
+“Got i—shhhhh— sittin’ tight.”
+
+Bi De nodded to Shao Heng and they both took off. Bi De sent a transmission to Nezan as well; and soon enough they were all assembled again.
+
+Yushang pointed at a trail. “It goes off further than the other ones,” the woman replied tersely. Normally bubbly Yushang was grim, her eyes hard. To Bi De it seemed the trail terminated, but Shao Heng gave it one glance and nodded.
+
+“Good eye, Yushang,” he praised.
+
+They set off together, following the trail; or rather Yushang and Shao Heng followed the trail, as it often broke completely, and then Shao Heng or Yushang spent several minutes searching before one called them over again.
+
+They followed the trail for half an hour—until Bi De felt something. He was casting his Qi out, searching, trying to help his companions… when he touched something that made his guts roil.
+
+He stepped off the path towards an unassuming patch of snow. Carefully, Bi De pushed the snow away and revealed a patch of darkness.
+
+A drop of black sludge, buried and frozen, yet emitting a demonic taint. Bi De swallowed at the sight of it. His Qi shuddered in his body, revulsion sweeping over him.
+
+“It is concerning that our enemy is so thorough in removing traces of themselves,” Nezan said as he approached Bi De and pulled out a vial. He then broke off a piece of rock and used it to push the drop of frozen sludge into it.
+
+They continued their search before they came to a ravine that had been filled in by a rockslide… but some of them had clearly been moved, dug out of where they had fallen, before whatever had been digging had clearly given up.
+
+“Lode Iron,” Shao Heng stated. The same weight increasing metal Yushang’s sword was made of. “A normal rockslide is largely ineffective against most in the Profound Realm, but Lode Iron is a different story. When each rock weighs as much as one a hundred times its size…”
+
+Bi De glanced to Ri Zu, who nodded. Her little helpers squeaked and shot off into the shadows of the rocks.
+
+Five minutes later, one returned.
+
+“There is wicked-evil sludge at the bottom,” she narrated as the little shadow beast squeaked. “The only solid piece is one off to the side. It's like a dark beetle, but sharp. Should we try to dig it up?”
+
+Nezan shook his head. “Unless Shen Yu does it, this will take weeks. Lode Iron is difficult to shift at the best of times.”
+
+“Then we keep searching,” Bi De replied. “Perhaps the ones who brought down the Lode Iron still live?”
+
+And so they did. For an hour they searched to see if there was another trail.
+
+They were just about to give up when Shao Heng let out a shout of triumph.
+
+“They doubled back,” the man reported, pointing at the snow and at something Bi De did not recognise. “It's an old Outrider gambit—to double back upon one’s own trail and get closer to the enemy before breaking off into another direction. It's a move of desperation, but…”
+
+“They were clearly desperate,” Han muttered. The portly man looked ill.
+
+Thus they reversed course, back along the trail, and began to search again.
+
+It took another hour, for those that were evading their pursuers had some skill, but Shao Heng eventually found their trail.
+
+A trail that led partway up to a mountain… until that too disappeared, as the mountain had been covered by an avalanche.
+
+Bi De was ready for another few hours of searching when Nezan put his ear to the ground and simply waited for a few moments.
+
+“Breathing. This way.”
+
+=========================
+
+And so they dug. The snow was deep; but it did not take them long to excavate enough so that Ri Zu could start to smell them.
+
+“Blood. Lots of it,” Ri Zu reported and she began to fish out her bag for medical supplies.
+
+Soon enough even Bi De could feel weak, flickering Qi.
+
+And then they broke through into the mouth of a cave.
+
+Bi De jerked his head to the side, dodging a weak lightning bolt.
+
+A roar sounded out as a body surged towards him. Bi De nearly reflexively struck the creature moving towards him before he realised it was not a creature at all, but a man with half his face missing. Burned and blackened bone was visible through flesh, and his eyes were wide and delirious as he made a desperate charge.
+
+Bi De gently caught his arm and let his Qi flow into the other man. Demonic poison that had been festering within the man’s blood was destroyed.
+
+“Hold! You are among friends,” Bi De said, his voice strong and commanding. “We are here to aid you.”
+
+The man, who had been on the verge of madness, suddenly calmed. He gaped at Bi De, before a smile spread across his face.
+
+“Thank the Heavens,” he breathed out.
+
+Ri Zu was on him in an instant, but the man shook his head. “My brother Disciple is more injured than I. Tend to him first, Lady Healer.” Ri Zu squinted at him, but nodded and brushed past them, deeper into the cave.
+
+The man sighed and collapsed onto his rear, a smile coming to his face. “Am I ever glad to see you lot—” He suddenly froze as he laid eyes on Yun Ren. “—fox?!”
+
+Yun Ren blinked. “Fenxian?!”
+
+Bi De blinked, suddenly recognising the man. He was one of those that had been with Zang Li.
+
+The man gaped at Yun Ren… until his eyes rolled back into his head and he fainted.
+
+Yun Ren and Bi De stared at each other.
+
+“Small world, eh?” Yun Ren asked, trying for some levity.
+
+Bi De was about to respond when Ri Zu came back out of the cave, her face grim.
+
+“You will wish to see this,” she commented.
+
+Bi De did as she bid, and laid eyes upon a twisted, corrupted arm.
+
+==========================
+
+They retired to the camp, taking both survivors, Yingwen and Fenxian, with them. Moving the arm had been harder, and required the sacrifice of a few sets of clothes to the ugly-looking thing.
+
+Ri Zu worked her skills on the two injured Disciples of the Shrouded Mountain Sect, while the rest of them were silent.
+
+Shen Yu returned not long after, his face like stone.

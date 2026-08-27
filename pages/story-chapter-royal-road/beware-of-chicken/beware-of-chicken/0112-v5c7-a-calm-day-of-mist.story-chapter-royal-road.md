@@ -1,0 +1,107 @@
+---
+id: d9269299-1e1a-5ed0-92bd-06c49b8d5231
+page-type-slug: story-chapter-royal-road
+title: "v5c7: A Calm Day of Mist"
+slug: 0112-v5c7-a-calm-day-of-mist
+partOf: beware-of-chicken
+position: 112
+ownLength: 1665
+unit: words
+ownProgress: 1665
+publishedAt: 2024-05-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1655095/v5c7-a-calm-day-of-mist"
+royalRoadId: "1655095"
+markedReadAt: "2026-06-29T18:55:20.615Z"
+---
+
+Liu Xianghua was quite certain she had never been more content in her life as she gripped her Ha Qi stick in her hands. The air was full of the sound of blades sliding along the ice, shouts of exertion, and laughter.
+
+They were taking advantage of the last bits of daylight to engage in this wondrous game, Bi De’s story having taken a few hours to finish. It had been exactly like one of those stories she used to read to her brother; a righteous cultivator exposing a corrupt sect and winning the day. It was quite nice to have one more thing that had been worrying herself and Xiulan off the long list of potential problems that they would have to deal with. Now, instead of a potential attack, Xianghua could just sit back and be amused that the bastards who had interrupted her first night with Gou had been defeated by a chicken, a rat, and her beloved brother.
+
+Xiulan had found it similarly amusing. Xianghua glanced at her friend who was for once not playing. Instead, she was sitting on the sideline, holding Young Master Zhuye to her chest while the babe chewed on her hair. Both were bundled up, and Xiulan looked absolutely content. The foolish Blade of Grass had been playing tough the entire time they had been at the Dueling Peaks, and had finally let the weight fall from her shoulders.
+
+There was a small part of Xianghua that wished to be right beside her, dozing today away. But that was impossible, for right now she was doing something she had hoped to do for a very, very long time.
+
+“Get your head in the game, Big Sis!” Bowu scolded as he skated past her, his face flush with exertion and his steps wonderfully steady.
+
+She was playing with her brother. Properly playing with her brother.
+
+Bowu, before his leg had been crippled, had always loved to run, jump, and chase her around. He had always been on the move, her little brother. And now, he was again. How utterly wonderful. But he was right! This was no time to get teary-eyed. They had a game to win!
+
+Xianghua shook herself out of her introspection and refocused. Herself, Bowu, Gou Ren, Pi Pa, and Huo Ten versus Jin, Meiling, Tigu, Wa Shi, and Chun Ke. Yin was asleep in the greenhouse with Miantiao, and Bei Be was, after every match, going over the ice with his plough. This left perfectly smooth ice with a mirror finish, and while he wasn’t playing the ox seemed to enjoy this duty immensely, snorting with satisfaction… and sliding on his side across the mirror finish back to the snowbank.
+
+She locked her eyes on the current scrum, and a flash of pride filled her chest as Gou Ren managed to steal the puck off Lady Mei—Meiling. The woman fell on her rump and skidded into a snowbank, shaking her fist good-naturedly at Gou Ren. Her beloved stuck his tongue out at her and turned to begin his run for the goal—only for his eyes to bug out.
+
+“Huo Ten!” he shouted and slapped the puck to the monkey moments before Gou Ren joined Meiling in the snowbank, courtesy of Wa Shi’s coils. The dragon continued on to Huo Ten, his eyes gleaming.
+
+Yet the monkey was equal to the task, dodging around the dragon with simian grace before passing the puck to Bowu.
+
+Bowu’s eyes filled with concentration as Xianghua formed up beside him.
+
+“Let's go! Left side!” Bowu shouted as he rocketed forward on his skates. Xianghua followed his callout, going left to intercept Tigu, clashing with her friend in a clatter of sticks and letting Bowu break through. Both Tigu and Xianghua gave it their all, their battle ending as they hit the riverbank and fell into the snowbank together.
+
+Xianghua immediately sat up, watching as Bowu skated down the gap—only to come face to face with a mountain.
+
+“Wa-ha-ha-ha! You dare challenge me?! The Master of Ha Qi?!” Jin boomed, a big smile on his face and his eyes dancing with what Xianghua was certain was amusement.
+
+Xianghua was quite pleased with herself for her certainty. Jin’s expressions had changed quite a bit after he met with Lord Shen Yu, and Xianghua had had to relearn all of them. A task she had accomplished in record time, and his expressions had not changed further!
+
+Jin barred Bowu’s path. Normally, this would signal instant defeat, to challenge such a Master— but Jin was adamant that they restrained themselves to mortal capabilities during these games, to better show their skills… unless it had been agreed beforehand to use Qi.
+
+Thus, her little brother had a chance as he skated towards Jin. The man barreled towards Bowu, intent on a hip check, but at the last moment Bowu stomped down on his once-bad leg and threw himself into a dodge all members of the Misty Lake Sect were taught. It was perfect—like he had never stopped training. A dodge befitting of the Young Master of the Misty Lake.
+
+However, Jin was a master of Ha Qi, and though momentarily foiled, launched into an immediate second attack.
+
+Bowu managed a hasty shot before he was taken off his feet. Jin’s bulk crashed into him and again Bowu took the full force on his bad leg.
+
+Xianghua knew that there was no risk, yet it did not stop her slight breath of relief when there was no crack, no shout of pain. Bowu skidded along the ice, his eye on the puck.
+
+Chun Ke’s own stick tagged it… but not enough to deflect it from the net.
+
+Bowu shouted with joy.
+
+“Good play, good play!” Jin praised as Gou Ren got himself out of the snowbank so both he and Bowu could jump into the air and slam their chests together—and then he did the same thing to Huo Ten.
+
+Xianghua was up on her feet instantly. Bowu saw her coming and braced for a jump. Their chests connected and Bowu landed without stumbling, laughing.
+
+There was no look of surly anger. No constant grimace of pain… and Xianghua realised that she would have to study her little brother more—these expressions were no longer familiar to her, being so full of what she was quite sure was joy.
+
+It was a wonderful thing.
+
+=======================
+
+Their game did eventually end, as the sun set and they headed back to the house for dinner—where Xianghua was finally regaled with the whole tale about Bowu’s machines and their spread across the commandery.
+
+“And they were interested?” Liu Xianghua asked her younger brother as he finished talking about the exhibition.
+
+“Were they ever! The main problem was the price—I know how little mortals make, but out here the margins are even lower so nobody could afford to buy them outright. But! That's where Big Bro Jin and the Lord Magistrate came in,” Bowu said with pride.
+
+“We set up a subsidy. We pay a portion of the machine’s cost, to make it more affordable,” Jin said simply. Xianghua nodded. Jin, for all that he said he was not a Sectmaster, took care of the mortals like one… or rather, like one was supposed to.
+
+“How many ended up using this subsidy?” Xianghua asked.
+
+“We sold ten machines this year!” Bowu said, puffing out his chest. “‘Course, me, Miantiao, Uncle Che, Big Bro Gou, Big Bro Jin, and Ty An had to do, like, three all-nighters to get them all done, but it was great! Everyone loved them, and they made the harvest way easier. There were some issues that the farmers brought up, but I think I have them fixed. I already got a new iteration made! And I’m probably going to have to hire a bunch of smiths—the Lord Magistrate said more villages have seen what they can do and are asking about them.”
+
+From there, Bowu launched into a bunch of technical explanations while Xianghua sat back to listen to him talk, committing every word he said to memory. Her shoulder was against Gou Ren’s as she followed along.
+
+Like Xiulan, she let the stresses of her duties to the Misty Lake Sect and the Dueling Peaks wash off her shoulders. What greater way to feel refreshed, than to know those she loved were content?
+
+===============
+
+Finally, she lay in bed with Gou Ren. His breath tickled her face and his arms were wrapped around her. Xianghua smiled at his face and his freshly trimmed sideburns.
+
+She didn’t mind it when it was all bushy… but Gou had admitted that he let it grow specifically so he could ask her to cut it.
+
+He liked the feeling, which was adorable, and nearly had her go for a repeat performance of last night… but they had kept it sweet instead. They were both too tired after their activities the previous night anyway.
+
+She had, as outlined in her letter, endeavored to break Gou Ren’s bed. In the end, however, she had been bested. Gou Ren’s reinforcement skill was surely heavens-defying to resist the power of one nearly a full Realm above him.
+
+She let out a breath and hugged him a bit tighter.
+
+They needed to set a date for their wedding. Gou Ren had said he wanted to wait until he had something worthy of her… and he no longer had that excuse with the fine manor he had crafted.
+
+They just had to figure out how they were going to spend their time, with her being Sectmaster and all. Having two homes wasn’t the worst thing, and she could always say she was entering Closed Door Cultivation or going on a resource gathering mission when she left to come back north.
+
+Those were thoughts for the future—a future Xianghua was sincerely looking forward to.
+
+As she drifted off to sleep, Xianghua thanked the heavens for their kindness and for giving her a place like this.

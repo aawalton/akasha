@@ -1,0 +1,155 @@
+---
+id: 8ca88d17-b8e0-51e6-b4ce-a1f200fcfdfa
+page-type-slug: story-chapter-royal-road
+title: "v6c7: The Sword and the Falcon"
+slug: 0195-v6c7-the-sword-and-the-falcon
+partOf: beware-of-chicken
+position: 195
+ownLength: 1699
+unit: words
+ownProgress: 1699
+publishedAt: 2025-03-23
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2144876/v6c7-the-sword-and-the-falcon"
+royalRoadId: "2144876"
+markedReadAt: "2026-06-29T18:58:00.669Z"
+---
+
+Minyan stood upon one of the logs that had been impaled into the riverbed outside Rou Jin’s home. The moon was high, and the lights were being extinguished as everyone retired for the night.
+
+Minyan willed the remaining water from her hair, but did not entirely purge herself of outside forces. Instead, she allowed the steam and heat of the bath to linger.
+
+There were few things that could make Minyan feel truly warm—but the bath and the alcohol she had partaken in came very close. Though no dirt could mar her form unless she allowed it, Minyan had baths quite often with her fellow Elders, at least once a year, in the Sacred Fairy Springs. It was an indulgence all of them shared and where they got their most productive conversations done, when they spoke on the future of the Sect. And while the bath here could not in any way compare to the secret treasure of their Sect… it had certainly been acceptable.
+
+Lounging in a heated pool surrounded by Silver Yin Lotuses? That ranked highly. She would have to see about adding the lotuses to the Sacred Fairy Springs. The soothing Qi and aroma they emitted was pleasant, and surely something her fellow Elders would appreciate as well.
+
+Yukong and Meiling were similarly acceptable. Both women had simply been quiet, unlike the fools who had started hitting each other with branches.
+
+“How wonderful, that a second moon has appeared in the heavens—and that its majesty eclipses the first.” Speak of Cao Cao, and he shall appear, Minyan thought as she turned to glance beside her. Shen Yu was on the porch of the house, his eyes fixed upon her so that she was silhouetted by the moon. “What must I do to get closer and see this moon more clearly?”
+
+Minyan huffed at the flattery, though she was not displeased by it.
+
+“I believe there is a parable about trying to possess the moon. Look, you are in luck. There I am.” She pointed at the frozen river, the dark ice showing her reflection on it. “Leap, and you shall surely be closer to me.”
+
+“A monkey, you call me, jumping into the river to catch but a reflection?” Shen Yu clutched his chest dramatically, like he had been wounded by her words, but his smile never left his face.
+
+“You had no problem with it less than an hour ago,” Minyan retorted, raising her nose into the air.
+
+“Dear moon, your tongue is barbed! I shall accept the charge of being a monkey, but dear moon, you know me. I might jump into the river one hundred times before I learn…” Shen Yu ascended to the log next to her. “But one day, I shall realise that I must simply jump higher to be next to you.”
+
+Minyan looked at him, at how at ease he was… and how paradoxically stronger he looked at this moment, his shoulders unburdened. Then she raised an eyebrow at him.
+
+“Not your best attempt,” she told him bluntly.
+
+“You did not give me much material to work with!” Shen Yu complained back. “I thought it was a fine recovery!”
+
+Minyan smirked. A blow to his ego was good. The man had been insufferably smug all day.
+
+“A true master would have better words,” she said mercilessly, and Shen Yu wilted, slightly grumbling under his breath. Minyan kept her smile hidden as they lapsed into silence. It was comfortable… And yet, with underlying tension lurking below the surface, as there always was.
+
+Then Minyan broke the silence.
+
+“Did you just come to flirt?” she asked.
+
+Shen Yu shook his head. “No, I’ve come to offer you my house for tonight.”
+
+Minyan raised a brow. “Bold.”
+
+Quite bold, skipping most of the game they played—but then she noticed his smile.
+
+“The Cloudy Sword Sect has taken the guest house, and to give you your privacy, you shall be my honoured guest while I remain with my grandson. I shall not impose upon you,” his words were phrased oh so innocently. “Unless you wish me too, of course.”
+
+He waggled his eyebrows at her. Minyan couldn’t help the smile.
+
+“I shall consider it. The gentleman may escort me,” she commanded him.
+
+They both leapt from the logs and landed on one of the pathways leading along the river. Shen Yu’s stride was slow, and Minyan matched him as they strolled together through the cold.
+
+“I hope my grandson’s hospitality has been acceptable,” Shen Yu said after a moment.
+
+“Oh? Not like you to be so worried about something like that,” Minyan replied.
+
+Shen Yu raised an eyebrow. “You gave him quite a scare when you first met,” he replied. Ah, so that was what he had been worried about.
+
+“And you know why that happened,” Minyan said, her voice cold.
+
+Shen Yu paused at her retort. He did indeed know why. Her desires, against his oath. He took a breath and looked to say something before he let it out.
+
+“It's been too nice of a night for such arguments,” he said after a second.
+
+For a moment, Minyan considered pushing the issue, but that would be a losing battle.
+
+“You are correct. It has been too nice a night,” Minyan said, dropping the matter. Shen Yu’s eyes widened slightly. “Your grandson is a fine boy. He has done well for himself, considering something happened at the Cloudy Sword Sect that necessitated their apology.”
+
+Shen Yu allowed her to change the subject. He was obviously pleased by her praise of the boy… and at the same time the mention of the Cloudy Sword Sect made him grimace.
+
+“...over tea,” he said. “And I will be speaking to my dear friend Minyan… not the Elder of Soaring Heaven’s Isle Sect.”
+
+“I swear upon my honour, not a word of this shall leave my lips.”
+
+Shen Yu nodded at her oath.
+
+Their walk stopped before a small house on the edge of the river. Shen Yu opened the door for her.
+
+“My home is yours, Minyan,” Shen Yu declared as they entered.
+
+It was as mortal as it was rustic. There was not a single thing that said this was the abode of a powerful cultivator. There weren’t even any wards.
+
+But there was calligraphy on the walls. A couple of wall scrolls hung, clearly made by Shen Yu’s hand. His calligraphy, as always, was stunningly beautiful; some were bold, striking single characters. As always, Shen Yu’s work on “sword” was so perfect that the character itself looked like it could cut those that read it.
+
+Others were more humble works. Sow. Reap. Farming terms. They removed their shoes, and Shen Yu set about preparing tea for them.
+
+Minyan glanced at the piece that Shen Yu was currently working on, centered on the table.
+
+Broken, yet Repaired with Gold.
+
+A truly interesting piece, one her fellow Elder, Lili, would want hours to contemplate. The collector of calligraphy had many of Shen Yu’s pieces.
+
+“It's still not right,” Shen Yu said as he saw what had captured her attention. “It needs a different ink, or perhaps a rougher paper.”
+
+Soon, however, the tea was finished brewing and the calligraphy set was put away.
+
+Shen Yu took a deep breath and let it out.
+
+And then he told her what had happened at the Cloudy Sword Sect.
+
+It was a rather short tale, all things considered.
+
+The young man had nearly been beaten to death by a fellow disciple. It happened sometimes, in Soaring Heaven’s Isle Sect. It was more prevalent among the Midships—their cultivation style increased the passion among the women who practised it, and that passion sometimes raged out of control… especially on far-flung outposts or ships long away from proper discipline.
+
+The punishment varied. Accidental deaths in sparring were forgivable, if the culprit was truly remorseful. Purposefully killing a fellow disciple? That earned execution by keelhauling.
+
+Minyan looked into her tea cup, a frown on her face.
+
+“You nearly lost him,” she said, her voice low.
+
+“Yes, I nearly lost him. Only Brother Ge stayed my hand.”
+
+“Always so reliable, that one,” Minyan said with a little smile, before her face turned again into a frown. It was a chilling tale. Shen Yu, directing his blade at the Cloudy Sword Sect? That would have ended in disaster for the Empire. “It seems almost unbelievable that that happened in the Cloudy Sword Sect.”
+
+“They thought the same,” Shen Yu sighed, his voice quiet.
+
+It was clearly a story he disliked telling. It was a shame that would stain the honour of the Cloudy Sword Sect for generations if it got out.
+
+“...he's quite resilient, to have endured that and kept going,” Minyan said. “But Shen Yu… you have only known him for… eight years?”
+
+To turn aside eight hundred years of companionship for eight years?
+
+“When I first found him, I was at my lowest. My cultivation was cracking at the seams. It was going to unravel. I was going to break, Minyan.” Shen Yu’s admission made the gorge rise in Minyan’s throat. “That child, shoveling dung in Crimson Crucible City. That child, so much like myself… he rekindled me. He gave me something to fight for again.”
+
+The blazing fire in Shen Yu’s eyes nearly scorched her. The eyes of Shen Yu, as he had been so long ago. The Unconquered Blade.
+
+…it appeared she had to be more thankful to Rou Jin.
+
+“It's a good thing you found him, then,” Minyan said, and raised her cup to her lips.
+
+“Yes. Yes it was,” Shen Yu said, before adopting a contemplative pose. “You know, I nearly asked you to take care of him. I think he would have done well on the Isle.”
+
+Tianzhe Minyan, Cultivator of the Imperial Realm, epitome of grace, choked on her tea, spitting it back into her cup.
+
+“What kind of mad fool plan would that be!?” she demanded.
+
+“Oh, I don’t know, I think it would have worked out.”
+
+Minyan snarled at him, rising to her feet. Shen Yu started laughing at her.
+
+He did not, in the end, go back to his grandson’s house that night.

@@ -1,0 +1,167 @@
+---
+id: 9c13f563-12c5-5691-aa68-cf1370ecb2a8
+page-type-slug: story-chapter-royal-road
+title: "v7c38: Reflection of the World"
+slug: 0291-v7c38-reflection-of-the-world
+partOf: beware-of-chicken
+position: 291
+ownLength: 2285
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3171231/v7c38-reflection-of-the-world"
+royalRoadId: "3171231"
+---
+
+Of course, we didn’t just say “go do your job” to Pale Moon Lake and leave her to figure it out. No, we stuck around for a little and eased her into it, teaching her how it was done. But above all… we got to know her. And so too did Pale Moon get to know herself. Suddenly waking up with thousands of years of impressions of what you were believed to be was obviously a bit disorienting.
+
+She was confident and determined. Proud, but not too arrogant. She acted like a regal empress one minute, calm and serene—then would break out into excited gesticulations. She would shout at the top of her lungs, and flail about with her spear and fan.  She was getting steadily more competent with her weapons, without herself even really noticing, as she got more and more used to being herself in every sense of the word.
+
+Meimei in particular delighted in getting to know an honest-to-goodness mermaid—she had a full tail in place of legs, and silver scales trailed from the sides of her eyes down her cheeks. Her hair was… well, it was both hair and not. It was more fluid than that, more cloud and foam than keratin, though it acted like hair. It was so curly it looked like sheep’s wool, and it was barely restrained in a poofy ponytail.
+
+Pale Moon Lake was quite proud of her appearance and “graciously allowed” Meiling to “attend” to her. Pale Moon quickly found out she liked being pampered and obviously really enjoyed it when Meimei started gushing over her scales and hair. She started sidling up to Meimei whenever we finished training for the day, and would start playing with and combing Meiling’s hair so that my wife would be “obligated to return the favour”.
+
+It became a quite common scene to see Pale Moon reduced to a near-drooling puddle while Meimei gave her a scalp massage and polished the scales on her cheeks. Sometimes Tianlan would join in too—though Pale Moon would shoot up like a scalded cat when she noticed her "liege" taking care of her, her face crimson.
+
+Naturally, this just made Tianlan more determined to tease her subordinate.
+
+My wife and Tianlan didn’t get all the Pale Moon time, though. You just had to mention fishing and she would be up and ready to go, hitchhiking in the back of my head with Tianlan, instructing me where the best spots to fish were, and how to make and handle a Pale Moon fishing spear. She also really liked rod fishing—and seemed very fascinated with the fact that I just released my catch, since I wasn’t planning on eating any of them.
+
+“A noble battle! An acknowledgement of strength! The warrior lives to fight another day!” she exclaimed when I pulled up what had to be a twenty foot long catfish.
+
+We also tried to introduce her to our friends, but nobody could really interact with her save for Washy… who said he felt a kind of tingling in the back of his head.
+
+Pale Moon was just hyped that there was a dragon in her lake.
+
+“How noble and majestic! I will prove a worthy place for him to rest, and gain much prestige! Perhaps he shall even join my court! …I can do that, right?” she asked, and frankly, I had no clue. I guess that happened in stories?
+
+“Don’t get ahead of yourself, now,” Tianlan chided. “Gotta work on being more here, first, yanno?”
+
+Pale Moon nodded and raised a fist, fire in her eyes. “I shall do as you command! This Pale Moon will shine bright! Fear not, My Liege, my Lord, my Lady! I shall drive back this darkness; indeed, I shall pierce it with my spear, and sunder it with my waves! Ahahahaha—ahem! Ohohohohoho~!”
+
+One hand raised to her mouth. Head thrown back, eyes closed. She did slip up in the beginning, so I could only give her a 9/10 on the haughty noblewoman laugh scale.
+
+She was certainly fired up.
+
+I chuckled and shook my head, sitting down with Tianlan to watch Pale Moon enthusiastically wave her fan around. The water churned around her. Watching her made me wonder about all the other possibilities and opportunities she presented…
+
+Naturally, I asked the question that was on my mind.
+
+“What exactly is a land spirit?”
+
+Tianlan paused and frowned; her brow furrowed as she thought on how to best answer the question. Cultivator texts had their own ideas: rogue ghosts, personifications of Natural Law… but honestly I wanted to hear it from the source.
+
+“I suppose the best way to describe most of us is as a reflection,” Tianlan explained, leaning back to stare up at the sky. “Both of the physical world, and what we are thought of as. The spirit of a raging river will generally be energetic and have a temper problem, both because it is a fast-paced river, and people believe it's fast-paced and angry.”
+
+“That does make sense,” I replied. “I’m guessing appearances work the same way?”
+
+“Yes. We look like what we are believed to look like. If a spirit is thought of as a boar, it will be a boar. If humans personify us as humans, that too is what we will be—but it doesn't have to be humans. Spirit beasts… even animals sometimes can leave enough of an impression to make us… us. Our forms are similarly malleable. If at first one set of people thinks a spirit is a dragon, but over thousands of years they start thinking it's a tiger… it will be a tiger, though remnants of its original shape will remain. After all, there's a reason it was thought to be a dragon at one point, and that belief saturates us; the land moves slowly, and therefore so do we.”
+
+“Spirits are formless until given form?” I mused.
+
+“Probably the best way to put it,” Tianlan agreed. “Even a spirit's ‘help’ is often just a reflection of someone’s belief. If a fisherman truly believes in her, then they’ll find a silver tail guiding them to safety. They expect to find it. They believe they will find it, if they have respected and honoured her; if their belief reaches her, and it is genuine, they will find the salvation they seek. So too if one believes a forest spirit is malevolent, and that it will try and lead them astray—it will. And yet we do have wills of our own. We can act contrary to what people believe we are. We can change…if we recognise we can. But I just don't know how far we can go.”
+
+I digested her words, and we turned our attention back to Pale Moon.
+
+“—summon a gale to smite it, and a wave ten Li tall to cast down the darkness! This is what I, the Lady of the Lake, shall do!” she boasted, one hand on her hip, spear extended like a conquering hero. Meimei clapped enthusiastically, to Pale Moon’s delight.
+
+“Can she actually do that?” I asked. I knew Tianlan could be destructive, but… if Pale Moon got angry at one of the villages, would she just wipe them off the map?
+
+“She can, but… things have to be quite dire for her to be able to. The only reason she's so energetic right now is because we’re letting her be. When the land is healthy, a spirit is perfectly content to just… be themselves. She is not human. She is the lake. So she does lake things.”
+
+“So she likes sitting around and occasionally sending out storms when she gets too excited?”
+
+Tianlan chuckled. “Pretty much. She’ll hold court with the fish and the seals, she’ll watch over the fishermen, and occasionally one of her courtiers will make her angry enough to send out a storm. The line between the pure physicality of the world and what a spirit is rarely blurs. But… sometimes it can. A spirit can be roused to violence—it’s just that it would take a spectacular and sustained assault on her by something. The larger a spirit is, the longer it takes, because most attacks are too small for them to notice.”
+
+“What about the General, then? He's not a lake, or a mountain.”
+
+“He’s a talisman you crafted and believe that he will work, but… I gave him a little boost, which only worked because I don’t have any other subordinate spirits. We don't normally get to choose the positions of those below us. They simply are. Pale Moon Lake, if she had awakened on her own, would get her seat simply because of her size and importance. But… because I'm so banged up, I get to cheat a little.”
+
+Which was fair enough.
+
+“Ah! My Liege! Look, look—I mean, please observe your humble servant!”
+
+“Yes, my Little Moon?” Tianlan asked. Pale Moon beamed.
+
+And then she was a fish. A bright silver fish. She popped back to mermaid form, and then shifted again—this time to full human. Though this did make her cool poofy cloud-hair into just normal straight hair, with a classic noblewoman’s cut.
+
+“A beauty no matter which form!” Tianlan praised.
+
+Pale Moon giggled.
+
+=============================
+
+But soon… we did have to leave. We had places to be. New people to meet.
+
+==========================
+
+“Thanks again for letting us use the boat, Lady Daiyu,” I said to the Mistress of the Azure Jade Trading Company. Bo and Chyou’s grandmother was a very pretty lady; she had aged like Lady Wu.
+
+“Any time, Master Jin,” she replied, bowing low. She gave me a winning smile that didn’t have even a whiff of customer service, instead looking completely genuine—before her eyes caught Washy’s jar. They widened, and I could tell she wanted to see it, but she held her tongue.
+
+So I picked up the fish’s jar and showed it to her.
+
+“I saw this catch your eye. It's a right beauty, isn’t it?” I asked. The cloisonné jar of copper and glass gleamed in the light.
+
+The older woman sighed, her eyes drinking in the sight. “Ah, it's beautiful, Master Jin. A masterwork. That shine, that purity of glass—I haven’t seen anything that wondrous since Sun Ken killed Boli Xin and destroyed his village.” Her words were bitter, and a flash of hatred entered her eyes.
+
+I paused. That was the name of Noodle’s master, wasn’t it?
+
+“You liked his work?” I asked.
+
+“All who laid eyes on his glassware and pottery were instantly smitten. I’ve preserved every piece that I could; I have a gallery that I display them in, so they may be properly admired, and we also have a few in the opera house reception, so that all can see their beauty. He and his people were true artists, and the world is lesser for their absence.”
+
+As she spoke, I could hear the passion in her voice; she sounded genuinely upset.
+
+“Well, they’re not entirely absent,” I said.
+
+Shan Daiyu paused. Her eyes widened. “You mean—this?!”
+
+“The last surviving student of Boli Xin made it, yes. He lives with me.”
+
+The woman looked faint, and pressed a hand to her heart. “One lives?! My—heavens. We searched—I had men out looking. Master Jin, may I…?”
+
+“I’ll arrange a meeting. Or maybe bring him down, to see the person who admired his Master’s work so much,” I replied. I actually thought you already knew—Chyou brought some down with her.”
+
+The older woman looked embarrassed. “We’ve been very busy ever since her return, Master Jin… but she should have at least showed me…”
+
+Her voice descended into grumbles, and she set about finding her granddaughter.
+
+I think Noodle would like to see how much his village’s work was appreciated, if one of the most prominent people in the Azure Hills had an entire gallery dedicated to it.
+
+Daiyu bowed again. “Master Jin;,words cannot explain how grateful I am for this.”
+
+=================================
+
+“Good luck and good fortune, Sheng Yanjing,” the Lord Magistrate said.
+
+The Auditor General made the gesture of respect back. “I think I’ll need it,” he grumbled. “This is a big mess.”
+
+“And yet you believe it's solvable, or you would have run away already,” Lady Wu said with a little smirk. Yanjing squinted back at her, and seemed annoyed that she had his number.
+
+“It's doable. For a man of my calibre, at any rate,” he said, tilting his nose into the air. All three of them chuckled. “May we not see each other for quite a while.”
+
+The Lord Magistrate smirked. “Ah, but I did so enjoy your company. We can go back over my books—”
+
+“At least a year,” Yanjing interrupted, rolling his eyes. “You can treat me to a drink from your stash of embezzled booze.”
+
+“A high price, Sheng Yanjing. But a man should be magnanimous,” they clasped each other's wrists and nodded to each other. Then Yanjing turned to Xue Ji and Suyan.
+
+“Thank you again. For this,” he gestured to a newcomer, just arrived from Smoky River. A woman with narrow eyes, who was wearing a serving girl’s outfit, twin to Suyan’s.
+
+“Treat our Da Lin well, Sheng Yanjing,” Xue Ji said.
+
+The man nodded firmly, and turned to the last person waving him goodbye.
+
+“And you, Master Dragon. Good travels, and good food.”
+
+Washy bobbed up and down.
+
+“Good travels and Good Food!” he agreed.
+
+===================================
+
+“Now, if you need anything, you get my attention okay? Tianlan’s orders!” the little earth spirit demanded.
+
+“Yes, My Liege!" the mermaid belted out, determination blazing in her eyes.
+
+And with that, we all got onto our cart, and set off towards the Grass Sea—towards the Dueling Peaks.

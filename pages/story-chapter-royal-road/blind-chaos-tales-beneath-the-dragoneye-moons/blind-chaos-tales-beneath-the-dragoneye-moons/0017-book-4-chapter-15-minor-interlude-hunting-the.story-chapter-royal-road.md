@@ -1,0 +1,129 @@
+---
+id: ec69ade4-00ad-50de-b853-9d0a13bfae77
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 15 - Minor Interlude - Hunting - The Hunter"
+slug: 0017-book-4-chapter-15-minor-interlude-hunting-the
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 17
+ownLength: 2901
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2626386/book-4-chapter-15-minor-interlude-hunting-the"
+royalRoadId: "2626386"
+---
+
+Sentinel Hunting leapt off the cliff without even hesitating. It looked sheer, but there was enough of a slope a short way down that he could slide down to the ground, at least with his vitality. Not that he had tested it before, but he knew the area well after so many years.
+
+His heat-damaged sandals were going to get absolutely shredded, but that was fine—he had plenty of caches with supplies still. Even if his current adversary had managed to track him to one of them already. It forced him to delete the letter the kid had left for him, but that was fine. He hadn’t planned to read it until Night told him that she had done something that was actually impressive.
+
+At least the damn vermin wouldn’t get anything useful out of that cache. He had enough time to be thorough.
+
+The shimagu had used a word that meant ‘hunter’ to identify the enemy that pursued him. The coincidence was grand, and it was enough that he finally understood why Toxic wasted his time on that pet [Bard] of his. It would have been great to listen to someone try and string a song out of nonsense like “The hunter that hunted Hunting was also hunted by Hunting. Hunting hunted the hunter.”
+
+Eh, it probably wouldn’t have been catchy anyway.
+
+He was trying to get enough of a lead that he could scrawl a message to Night at a drop site, then double back to nail his pursuer. The shimagu had scrounged up a (presumed) twin with an impressive level—and he was practically salivating at the prospect of taking on the level 1024 minotaur. But, even if the overgrown slab of beef promised to finally take him much of the way to his own goal, he wasn’t quite arrogant enough to indulge in the fight before he left word.
+
+Night needed to know that the damned generals were about to march most of their army into a trap—the shimagu had already abandoned the city. And it was primed to burn hotter than a Lava Classer’s farts. If Augustus were still in direct command, he wouldn’t be worried—he’d served under the man long enough to get a solid sense of how damned competent he was, at least before the self-inflicted emperor got a taste for the finer shit in life. But the new generals weren’t cut from the same cloth, they were bumbling oafs that were desperate to prove themselves. And the moronic fuckers weren’t even going to let the dwarves have a chance to save them from themselves.
+
+At the bottom of the ravine, Hunting shoved away the brief pang—Katastrofi had always loved a good scramble down a slope—and took off for the south. His destination wasn’t far; the rock formation that looked like someone with a fat ass bent over with their cheeks spread hid the current drop site. And damn if it wasn’t a satisfying mental image of Night rummaging around in there all dainty-like.
+
+Hunting arrived at his destination and planted a torn segment of a scroll against the cheek as he hurriedly scrawled his message. Writing in the shapes of Ranger hand signs had been a pain to master, but it was as secure as anything else they could do. It was a bit faster than writing words too, which was good. To borrow the dwarven expression, he was on the clock—that minotaur couldn’t be far behind, even if he’d dropped the bastard into a different ravine.
+
+With the message stuffed where the sun could never hope to shine, Hunting doubled back the way he came, letting tendrils of Void erase his tracks and his scent. It was a little trick he hadn’t shown his quarry, but he was ready to stop holding back. The stupid parasites had gifted him with one of the fattest bundles of System-worthy achievements he had seen since the formorians, and he was ready to collect.
+
+The hunter knew how to make an entrance. He leapt off the cliff and landed, rather dramatically, right in front of Hunting. It was impressive. Would have been more impressive if he’d used that raw momentum to land an actual attack instead of stopping to posture, but it was impressive.
+
+And the best way that Hunting knew to convey the shortcoming was to stab the wall of muscle with his spear, right in one of those oversized legs. [Katastrofi’s Teeth]—his contact-based Void attack Skill—let the dwarven steel bite deep into his opponent’s corded muscle, but even that wouldn’t be enough to cripple the minotaur.
+
+His opponent snarled some insult or another in the shimagu language, and the battle was finally joined.
+
+For an opponent with Ocean-touched eyes, the minotaur’s punches were utterly predictable. The element promised some graceful, tricky bastard—not unlike the kid—but the slab of beef had less elegance than the average drunken sailor. It was all strength and no technique. And he didn’t even have an acidic body or anything to make up for his brutish nature.
+
+Hunting was no idiot that pranced around in a fight, but even for him it was easy to side-step each overly telegraphed punch. Each time one of the calloused fists struck the earth, a few rocks stuck to them, adding additional weight and reinforcement to them. Every wound Hunting inflicted was sealed by blobs of Ooze—as if Hunting really needed to bleed his opponent dry.
+
+Just when Hunting gave up on getting a decent fight out of his opponent, the so-called hunter made things interesting again. A moment before Hunting’s spear reached his foe’s neck, thick black flames erupted around the beefy brawler. A second pair of arms—condensed Pyronox—formed as one lashed out for a punch that Hunting was ill-positioned to meet.
+
+He was forced to redirect the haft of his spear into the path as he pulled away. Naturally, the elemental fist wasn’t exactly a solid object, but his maneuver got him clear with only a mild burn across his arm.
+
+More annoyingly, he had to push [Katastrofi’s Teeth] through his hand to cut half his spear off, before the flames spread to the rest. He hated short spears.
+
+The minotaur looked ridiculous standing there wearing his golden loincloth, with his body covered in colorful globs of Ooze, and a pair of black flaming arms set atop his shoulders. But at least the fight was finally getting interesting.
+
+Hunting took off at a run, enjoying the too-obvious sounds of his larger opponent’s pursuit. He made a show of checking each rock formation he passed, until he finally stopped, with his back to a discolored section of the cliff wall. The minotaur was fast, but the idiot couldn’t turn worth a damn—it was easy to outpace him in short bursts.
+
+The minotaur neared, a wary look on his stupid face, even as he began to wind up a punch—what kind of idiot bothered to do that?
+
+“Katastrofi, now! Tear his head off!” Hunting suddenly roared, as he ducked away from the discolored stone wall.
+
+The minotaur shielded his head with his real arms, while his Pyronox limbs prepared to intercept a new threat.
+
+And it was so fucking beautiful just how often that worked—the complete idiot had completely taken his focus off of Hunting and directed all of it on the suspicious stretch of the cliff face. Hunting wasted no time burying his half a spear in the minotaur’s gut, wrenching it back and forth with all that he had to maximize the damage.
+
+A kick caught him in the side, but the hooved foot only tore some of his flesh. It wasn’t near as severe a wound as what he managed to inflict. Even with the parasite’s Ooze filling the gaping stomach wound, the minotaur was probably going to die a slow, agonizing death.
+
+The minotaur’s blood ran thick down the remaining part of his spear as Hunting backed away. This was it—his opponent was, no doubt, about to put every surprise he had left into play. It was time for the fight to get interesting.
+
+Actually, as Hunting reflected on the battle, he was beginning to suspect that his opponent wasn’t a twin. There were subtle signs, like the clumsy movements and the limited, passive expressions of the minotaur’s Ocean element. Also, there was the tiny detail that the minotaur began to glow with the tell-tale lights of a class up, without even stumbling, as he stepped toward Hunting.
+
+That was boring.
+
+Hunting closed in once again. The glowing husk of a minotaur lashed out with another too-obvious punch, which Hunting side-stepped. The Pyronox fists that followed were going to force him back, but that was fine—he was close enough to do what he needed to.
+
+Hunting thrust the half-spear forward, using its momentum to redirect his grip to the bottom of its remaining haft, and swept the tip across his opponent’s eyes. The slimeball that was his true opponent had focused the minotaur’s defenses on the vulnerable gut and the upper neck where it hid within the beef; it hadn’t even thought to protect the too vulnerable organs that were its host’s eyes.
+
+There was a reason he’d insisted the kid learn to fight blind—man or beast, few opponents were worth a damn without their eyes. Every time Hunting faced a tough opponent, he went for the eyes before he went for the kill. Most self-regeneration Skills couldn’t restore the complex sludge blobs that were the eyes. And what sort of mentor would he be if he didn’t hand a promising apprentice the tools to survive someone just as savage as he was?
+
+The minotaur howled in fury and impotently pummeled the rocks around him while Hunting stepped away, wisps of Void erasing his trail and the sound his footsteps should have made. Shards of rock flew in every direction, but Hunting had plenty of vitality—they, at most, left superficial damage on his sunbaked leather armor and exposed skin.
+
+“Some hunter.” Hunting projected his voice off to the side and watched his prey lunge in the wrong direction, spittle flying as the brute sought vengeance.
+
+“Just because you snagged a powerful body doesn’t make you impressive, Slime.” Every few words, Hunting tweaked the angle of his projection, leading his quarry on a merry little chase.
+
+Exactly as he hoped, the minotaur had his back turned to Hunting’s real position by the time he finished speaking. It was perfect, he just needed to take a single step forward and he could drive his shortened spear through the shimagu.
+
+He took his silent step, and his target inhaled so dramatically that the minotaur’s upper body swelled. But it was too late for his true opponent to try to recenter itself, his spear was already thrusting straight for where the parasite lurked, tangled around the top of the minotaur’s spine.
+
+The minotaur spun, faster than Hunting would have expected from the clumsy foe. His spear sheared off three fingers from the fist that came at him, and [Katastrofi’s Teeth] took a dreadful toll from the arm. But the blow shattered his spear, even with [Hunter’s Armament] reinforcing it.
+
+Worse was the fist of Pyronox. It clipped the minotaur’s true arm—scorching flesh—and delivered a blow straight to Hunting’s chest.
+
+One of those damnable quirks of the System let the fist—which had no true substance behind it—still provide an impact, and Hunting found himself launched backwards, leaving a trail of smoldering leather in his wake. The force propelled him through a nearby rock formation that the infrequent floods hadn’t quite finished wearing down, before he came to a stop.
+
+Fuck, even with [Weathering the Storm] from his third class’s latest evolution, he was going to be out of the game for at least a month while he healed. He might even need to consider returning to Remus for a [Healer], unless he still had one of Dawn’s moonstones left in one of his supply caches. But that was a problem for once he finished off his surprisingly adaptable prey.
+
+The minotaur’s nostrils flared around his prominent, golden nose ring over and over as the bestial creature sought out the wisps of his scent that his Void failed to erase. And the wounded hunter took a step, perfectly in his direction.
+
+Okay, so he had underestimated his opponent’s nose. Without Katastrofi, his own sense of smell wasn’t quite as keen as it once was. He had never been able to find his own scent while he had [Stalker] active, but the minotaur was able to pull it off. Didn’t matter. Hunting still rose to his feet and steadied his breathing, even as he drew a short sword and his pugio.
+
+The minotaur charged, lowering his head to menace Hunting with the minotaur’s metal-covered horns. Hunting met the charge with his sword—[Katastrofi’s Teeth] worked just as well with a blade as it did a spear—but when he was forced to stagger his way clear of the charge, the horn had only a small gash carved into it. The damned minotaur hadn’t even bothered to kill his passives before he retreated into his class up!
+
+The sword was only noric steel—dogshit compared to more modern stuff, let alone dwarven steel—so Hunting wasn’t even slightly surprised that the old blade was chipped when he glanced at it. But his opponent was already trying to turn around. The fucker still couldn’t turn worth a damn, but Hunting stood his ground and waited.
+
+On the second pass, Hunting broke the sword against the minotaur’s face. But it was worth it—blood was positively gushing across the bastard’s nostrils. Ooze hurriedly sealed the wound—and probably kept a section of the bastard’s face from peeling off—but the damage was done.
+
+The minotaur sneezed a mess of snot and blood everywhere, but no matter how the brute snorted, he couldn’t seem to find where Hunting was. A single sneeze wasn’t going to completely remove the overpowering stench of his own blood from his sinuses.
+
+Hunting had won the advantage he had sought since the fight began, but he was down to a single sidearm. The nearest supply cache wasn’t too far away, but there was a real risk that his opponent might manage to recover in the interim if he left the fight. The existing wounds should prove fatal, but with the minotaur’s passive Skills in play—fucking selfish idiot—Hunting was unable to be confident in the outcome.
+
+Plus, he really wanted the full weight of the experience, and killing the beast and parasite directly would take him further than leaving them to die of what he had inflicted. The pugio would be good enough. If the kid could drop a kraken and a pair of twins with similar blades, he could kill an overgrown cow and a ball of sludge with one.
+
+Keeping [Stalker] active, Hunting moved, pausing only to pick up a small pebble. The minotaur’s ears were the last hope the parasite had for tracking him. It was the easiest sense to exploit; there was a reason he’d mastered projecting his voice. But with that trick already spoiled, he needed to fall back on a more manual variant.
+
+Hunting closed the distance while his opponent remained still and wary, nostrils futilely sucking at the air, as if there was anything to pick up other than blood. The minotaur’s ears twitched, as if flexing the muscles would somehow improve his hearing.
+
+Hunting stabbed the hunter in his abused arm and swept the blade, even as he flung the pebble. The brute fell for it—the pain and noise momentarily tricked him into believing that Hunting was moving in that direction. The beast lunged, tackling empty air as he crashed into the ground.
+
+Hunting swept in while his opponent was down and jabbed the knife straight for the back of the slab of beef’s throat.
+
+The minotaur managed to react. He braced himself on his devastated arm and lashed out with his intact hand. The palm struck Hunting’s chest, and he found himself slammed against the canyon wall, his arms pinned at his side.
+
+The impact bruised his ribs and knocked the air out of his lungs, but the minotaur’s wounded arm was already visibly buckling under the stupid brute’s weight. Hunting had more than enough vitality to endure until the arm gave way; he was in no danger of being crushed while the minotaur’s leverage failed.
+
+He wasn’t that fucking nice. He hated relying on it—the range sucked and it was a tremendous waste of mana for the effect—but he was close enough that it was certain to finish off his opponent. Besides, he still had a bit of juice he could tear out of his arcanite.
+
+Hunting tapped [Void Conjuration] and directed the font of dark devastation directly into his opponent’s throat. His mana dropped precipitously, but flesh was stripped away from his foe’s wounded neck—and he could already see the parasite. Not even the slime’s Pyronox could save it from the destructive power of the Void.
+
+He’d just need to move as soon as he was done, no matter how much he wanted to rest. Sure, Night would probably come find him after he kicked up so much noise, but he never knew if the shimagu had other scouts in the area. All he had to do first was to hold out for another few seconds.
+
+His Void never failed to kill his target.

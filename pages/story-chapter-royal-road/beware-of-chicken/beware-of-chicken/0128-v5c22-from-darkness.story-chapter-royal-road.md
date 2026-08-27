@@ -1,0 +1,115 @@
+---
+id: fa8f61b0-6ebc-5a99-8abe-9ebee282bcb0
+page-type-slug: story-chapter-royal-road
+title: "v5c22: From Darkness"
+slug: 0128-v5c22-from-darkness
+partOf: beware-of-chicken
+position: 128
+ownLength: 1968
+unit: words
+ownProgress: 1968
+publishedAt: 2024-07-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1723426/v5c22-from-darkness"
+royalRoadId: "1723426"
+markedReadAt: "2026-06-29T18:55:54.365Z"
+---
+
+To say Hong Meiling was enraged about a prophesied attack on her home would be an understatement. Meiling had gone so far past angry that her mind had abruptly cleared. The seething, boiling thoughts that plagued her and demanded vengeance against any slight she suffered went silent. The hot bubbling in her chest stilled.
+
+All that was left was something…cold. Something quiet that filled her with ice, made her eyes burn, the flesh on the bridge of her nose itch, and the little voice that always cautioned her to be careful when making dangerous poisons go silent.
+
+For all her talk of crafting poisons, and describing the horrific effects her concoctions could have on people, Meiling was exceedingly careful with actually making such things—if she made them at all. Most of her knowledge was from scrolls, rather than first hand experience. Her father would not have tolerated any laxity from her in this regard. The knowledge of such poisons was a heavy burden, and used only when there was no other recourse; the Hong Clan were healers, not merchants of death, even if they could have been.
+
+Even after the Dueling Peaks, most of Meiling’s poisons had been made to debilitate, rather than kill. She had soothed the vengeful part of herself that said capture would be a worse fate than death for them, so she could experiment on them to her heart’s content. But realistically, she never would have done that, either.
+
+Mostly because her family wouldn’t approve. If Jin, the Xong brothers, Xiulan, Tigu, or any of the others ever looked at her with disgust for doing that to somebody… The mere thought was enough to silence the darkest parts of herself and send them recoiling.
+
+But now… well, it was like everybody always said.
+
+Demons were not people.
+
+The thought had infested her mind, and when they arrived home it had possessed her. Something was going to attack her home. Something was going to attack her home and that something, along with every other being in existence, needed to know why that was a bad idea.
+
+No. Not a bad idea. Something that no one would dare even think of, for the consequences for such a transgression would be too terrifying to contemplate.
+
+Her green medical Qi, light and sharp like fresh growth and evergreens, turned thick and sludgy. The crisp, clean smell curdled into something sickening as Meiling concentrated it into the cauldron at which she was sitting.
+
+Meiling’s eyes were fixed on the dark, viscous liquid taking shape. The concoction born from the worst things her ancestors had ever discovered and Meiling’s own viscous Qi was producing something that could only be described as horrific.
+
+It moved slowly, lethargically. Each bubble of gas swelling far past when it should have popped, before sitting like a ripe boil. Then, with a sigh, it would burst, releasing a belch of gas that would be invisible to most, but Meiling could see as a shimmering haze. She captured it with her own Qi, mixing it further, twisting and condensing it until the clear haze of gas became an ugly purple liquid, which Meiling placed into a glass flask Miantiao had made for her.
+
+All of the other vessels had been disintegrated by Meiling’s work. Only Qi-reinforced glass made by a master craftsman held firm against its ravages.
+
+It truly was a worthless thing she had made. It had no use in healing. Its only job was to inflict horrific death upon whoever was struck by it. It was suckled upon her darkest thoughts and gorged on her Qi as she tended to it. Lethal. Fast acting. The room seemed to be cast in shadow, despite the fire heating the cauldron. The dark purple liquid shimmered malevolently, darker patches appearing in it, looking almost like a constellation.
+
+‘The Horn of the Azure Dragon.’ In the back of her head she heard the whisper. ‘The First of Twenty Eight. The Poisons that Slay the Stars.’
+
+She could feel what felt almost like glee from the concoction as the last drop was added. A poison that would murder and never go away, turning where the slain fell into a wasteland. An eternal destructive—
+
+Meiling grasped the poison with her Qi. She yoked it, like the unruly beast it was. The darkness within the bottle seemed to quail. Poison the land? The land where they could grow food? No, that was unacceptable. It would kill. It would not taint. It would not defile her beautiful home.
+
+The room seemed to burn with amethyst light, as everything before her was stripped of shadow. The poison turned from purple to blue, and Meiling felt herself wobble a bit in her seat. She blinked as the room suddenly seemed brighter again.
+
+Meiling abruptly sucked in a breath and shook her head. She had been fairly certain that she hadn’t breathed anything in…
+
+She was sweaty and clammy, and her sludgy Qi suddenly felt… gross. And if the smell was making her a bit nauseous, then she couldn’t go and see Zhuye like this. He would cry at the bad smell.
+
+And Zhuye crying because Mommy smelled bad would absolutely make Meiling cry too.
+
+Meiling forced her Qi back to its proper state and let out another breath. She felt drained and the coldness was gone. She didn’t particularly trust her legs at the moment.
+
+Yet as she took another breath she felt the gentle push of Qi fill her, coming from the earth. Tianlan, even deep asleep, was looking out for her. Meiling didn’t know if they should try to wake the Earth Spirit up—or if they even could. Chun Ke seemed to think not when she had asked him. The golden power felt slightly more sluggish, but it was still there.
+
+And that, Meiling thought, is enough. They had promised to protect her, just as she had promised to protect them. With one last breath, she straightened up and glanced out of the window. Her eyes widened at the setting sun.
+
+How long had she been in here for?
+
+Too long was the answer. Impending demonic attack or not, that was no excuse not to notice so much time had passed. Her family and friends would be hungry. And even if the others could handle it… it was something Meiling wanted to do. It was a small way to express her own gratitude for those who had heard of what they were facing and pledged their help without reservation.
+
+She stood and walked to where there was a chunk of fire crystal in a ceramic holder, out of the way so it couldn’t be knocked or bumped and fall accidentally.
+
+She picked it up and pressed it to the side of the long neck of the flask. Another one of Jin’s ideas, when they couldn’t figure out how to stopper it properly—just melt the neck of the glass to fuse it together. One would need to break the neck to get at what was inside, but it was better than any of this escaping.
+
+This… should be enough poison, she thought to herself. It could be used on weapons or on the stingers of Vajra’s bees. Tomorrow she would again go over their medical supplies.
+
+Meiling was, after all, going to be tending to any possible injuries. If all went well, she should see neither hide nor hair of anything demonic until she had their corpses.
+
+And even then they should stay off her home’s property. Demonic Qi was disgusting.
+
+Meiling exited her medicine house and went out into the cold. She was somewhat surprised that her home did not look like a war-camp. There were no concentric walls or palisades, the ground was not churned with muck, but she supposed that kind of defense was largely useless against demons.
+
+Instead there was a stone building that was mostly hidden by trees. Gou Ren and Tie Delun worked feverishly on it. Gou Ren had large sheets of paper he showed to  the other young man, who nodded appreciatively and pointed at certain sections. Xiulan, Xianghua, and Tigu all did their part, hewing massive boulders that were not there before into usable blocks of stone. It was surprisingly quiet work, as tools slid through the stone with barely any resistance.
+
+Meiling frowned slightly. Will the stone even be of any use, then? she wondered as she walked over to the small castle keep that was being constructed. She was rather surprised that even this looked rather nice… but with Gou Ren designing it, he wouldn’t have intentionally made anything ugly—especially as this was his home too.
+
+Gou Ren rolled up the sheet of paper and both men clasped hands and nodded. Delun immediately took out his chisel and started carving something into one of the stone blocks. Tigu and Huo Ten joined him, adding their own hands to whatever work he was doing, while Gou Ren placed his hands on the block.
+
+A grey glow formed around her brother in all but blood, and the characters the other three were carving on the slab began to shine with inner light. The stone abruptly became more.
+
+“Jin! I have another one for you to test!” Gou Ren called out. Her husband, who had just deposited another boulder, turned to them.
+
+His eyes were serious and determined. His Qi, normally placid, was present and noticeable. He seemed…enormous like this. As if each step that he took rooted him to the earth like a mountain, and each stride was an inevitable fact. His Qi didn’t smell bad at all right now either. There was no conflict or hesitation… even if there was the slight simmering feeling he got when he was angry or upset. Right now, his Qi smelled of the pine of winter—with a new, colder nip at the end of it, like the beginnings of a winter storm.
+
+He raised his fist high as he approached the stone block Gou Ren had asked him to test—and brought it down like an avalanche. The ground quaked as he struck home, and Meiling wondered how the Hells she had missed the dull booms previous tests must have made as he drove the stone partially into the ground.
+
+The block didn’t have so much as a crack in it.
+
+“Good job,” her husband said, his voice firm. “Especially you, Delun. This is great work.” The man flushed slightly at the praise. “You’ve all done an excellent job—we’re going to stop for dinner soon, so finish up what you’re doing!”
+
+The last part was said louder, and a chorus of affirmatives answered him. Jin nodded, and then noticed Meiling. He started walking towards her, his stride indomitable.
+
+Part of her liked the look on him, the determination and aura of authority her husband had. It's the same feeling she got around the Lord Magistrate, and sometimes her father had it too.
+
+But… most of her wanted the silly man she fell in love with to be smiling again.
+
+“Hey, you alright? You were in there for a while,” Jin asked in concern.
+
+“I’m fine,” Meiling said, and hugged him. The Qi around him receded slightly for a moment… and then the brick wall that was her husband softened slightly. “What do you want for dinner tonight? Ta Kos? Dumplings? Or would you rather have me?”
+
+Jin snorted,and smiled. It wasn’t the good smile, the one he made when he was really happy, but it broke through his stony face.
+
+And that smile would come back. His real smile. Like all the tales of the solstice. After the darkest night…there's always a dawn.
+
+A dawn Meiling would have. Like Jin had said when he talked to her about the Before.
+
+There would be no Xianxia bullshit on this farm.

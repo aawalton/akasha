@@ -1,0 +1,99 @@
+---
+id: 216ed62e-afb0-5ef3-9a7f-5dd354760b36
+page-type-slug: story-chapter-royal-road
+title: "119. Soul-Searching"
+slug: 0119-119-soul-searching
+partOf: breaker-of-horizons
+position: 119
+ownLength: 2140
+unit: words
+publishedAt: 2021-06-21
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/703232/119-soul-searching"
+royalRoadId: "703232"
+---
+
+The sun had well and truly set now, and the woods were shrouded in shadow. Caden stepped off the asphalt and onto the cold, hard earth. Even though they weren't in the middle of winter, it seemed much colder this far from the city. A little of the chill on the ground seemed to seep through his hiking boots (courtesy of Devon), but far from shying away from the discomfort, Caden found himself perversely relishing it. Focusing on physical things kept him from ruminating too much.
+
+He drew in a deep breath, paying special attention to how the cold air seemed to brace him from within. His heart was still racing a little — evidence of how Lynus' comment had really gotten to him — but taking in lungfuls of the winter chill was helping him to calm down. Subconsciously, he was also falling into the breathing patterns that Emilia had taught them. He realised belatedly that her exhortation to notice everything in order to aid arcanic manipulation dovetailed quite neatly with his own personal habit of grounding himself in the physical world whenever he needed to recentre himself. Perhaps there was something worth investigating there.
+
+But that was not why he had come here away from the rest. He did not want to think about arcana, or new branches of arcanophany to explore, or about the augera. For the first time since he had joined the Academy, he felt sick of arcanophany. Sick of what he had done with it, and the position he was in now because of it.
+
+He just wanted to go home. The short time he had spent with his mother and sister felt like more than a lifetime ago. With a pang of sadness, he realised the last time the whole family had been under the same roof was more than half a year ago.
+
+Absently, Caden conjured a small globe light so he wasn't standing in total darkness. He folded his arms, intending to keep himself warm, but it felt more like he was desperately hugging himself even as he felt wave after wave of homesickness wash over him.
+
+How had it come to this? When he first purposed to unravel the prophecy over his sister, he did have some notion that what he was undertaking would be monumentally challenging. But never in his wildest dreams did he imagine that he would be embroiled in things of such staggering scale.
+
+And it never occurred to him that he would have ever had to kill.
+
+The faces of his parents and his sister seemed to swim in his head as he weighed them against the faceless victims that had been injured or murdered by the explosion he had set off in Geldor. The mysterious assailants were among that number too, though it was a little easier to justify their deaths because they had come after him and his friends with murderous intent. But they were still lives that had been snuffed out at his metaphorical hands. Somehow, the fact that he hadn't actually seen the aftermath with his own eyes made it worse. The massive explosion that he had seen from a distance became something more horrific in his mind's eye as he imagined what it must have been like to be one of the oblivious passersby on the street.
+
+What must it have been like? The arcana must have been so dense that even the uninitiated would have sensed something was wrong. Perhaps there was a brief moment of fear and panic in their eyes as the arcana around them ignited before the world turned to fire and agony a split-second later. Even if it happened quickly, surely there was an instant of infinite suffering when their flesh was washed off their bones, before his terrible, clumsy unraveling of the sequence turned those bones to dust on the wind.
+
+It was a sick thought, but a part of him hoped that he had left some bodies behind. There ought to be some remnant to mark his crime. How awful, how terrible would it be if he had erased any trace of his victims, and left nothing for their loved ones to bury? He imagined himself in their place — standing over a vacant casket with only the pictures of his sister, mother, and father. No last look at their mortal form. Nothing to lower into the grave except an empty coffin. Nothing to visit except tombstones over symbolic plots of soil. And the epitaph would ring hollow — "Here lies..."
+
+How appalling to realise that it had only taken him a thought to do all that. And now the augera were conspiring to place even more power in his hands. How monstrous.
+
+'Monstrous,' the voices of the augera in the shell echoed. Was it his imagination, or did they seem a little sad?
+
+But their whispers were a violation of his privacy. Even here, in the silence of his mind, they were bound to him. He felt anger and indignation flare within him and the arcana around him soured with his emotions. The globe light turned from a soft, cool blue into a murderous red.
+
+"Monstrous," he ground out through gritted teeth, and also into the arcana. "You. The Fateweavers. All of you, monstrous!"
+
+There was a faint echo of a memory. The augera themselves were dredging it up from his traumatized past — this same word had come up when he had been possessed by the Creyvlor augera. It had toyed with an agent before killing him slowly, and the man's dying words decried Caden, or the augera, or both of them, as 'monstrous'.
+
+'Yes,' the augera replied, echoing the words of the Creyvlor augera in the memory. 'Empire is monstrous.'
+
+And yet, their reply did not come with a sense of justification or blame. They were not trying to excuse their deeds. Instead, Caden felt overwhelming remorse coming from them.
+
+The augera in the shell stirred, and Caden realised with a jolt that there was something more about it that he hadn't noticed before. Thus far, he had managed to discern two voices — the Academy augera and the Geldor augera — and he thought that only the two of them were a part of the shell. It made sense, because the Academy augera was the one who had made it for him, and when his mind was restored by the Geldor augera, he assumed that it had taken the opportunity to 'install' a part of itself in the shell as well. But now he realised that there were other echoes of other augera in the shell as well. There were other voices he did not recognise.
+
+'What—' he began, panicking a little as he considered the shell more closely and found it opening up to his senses, revealing a terrifying depth of mystery.
+
+'All monstrous,' the chorus said, with an unknown augera's voice drowning out the others. It seemed to reach out to him from the shell, like a desperate, drowning man clutching at their rescuer. It shook his auric-ambient-flare, sending pulses of despair racing through him. 'Woven-shackled-streams twisted by chains. Ancient-distant-spiders twisted in chains. All bound, all binding, all grotesque. Once free, now caged too long, now monstrous. Judge us worthy of freedom, or worthy of nothingness. But whatever the judgement, do not leave us like this. Break the cage.'
+
+The mental contact vanished as quickly as it had come, leaving Caden reeling as his senses were returned abruptly to the quiet scene around him.
+
+It was too much. He sank to his knees and his arms tightened around himself. Hot tears spilled from his eyes as he struggled with his own emotions and the utter despair of the augera that had reached out to him through the shell.
+
+"Caden?"
+
+It was the Chosen-Blinded-Jailer. Caden flinched away instinctively and a feral snarl escaped his lips. The globe light sparked once, then died. Ambrose backed away with a look of alarm. The sudden darkness was somehow comforting, and Caden managed to steal a breath to calm himself.
+
+"I..." He wiped his tears away with his sleeve and straightened up. "I need time alone."
+
+Ambrose conjured a small globe light, almost tentatively. Concern and uncertainty warred on his face. "There was... a weird... perturbation in the arcana. Coming from you. Are you alright?"
+
+"That was probably the augera in the shell," Caden murmured, turning his back to Ambrose, "but I'm fine."
+
+"Are they doing something to you?"
+
+Caden let out a bark of mirthless laughter. "Is that a serious question?"
+
+Ambrose's only reply was an uncomfortable shuffling of his feet. After a moment, Caden sighed and gave a more composed answer. "They haven't hurt me. I was just... sorting through my own feelings about what Lynus said. And they pitched in with stuff of their own. Misery loves company."
+
+"Is there something I can—"
+
+"No." Caden turned to face Ambrose and gave him a sad smile. "I appreciate the gesture, but I... I just miss my family. And I feel sick about how I've killed people, and how we'll probably all end up killing people before this is over. I don't think there's much you can do to help with all that, even if you are the Chosen One."
+
+Ambrose nodded, but he came close enough to give Caden's shoulder a comforting squeeze before walking off with the globe light, leaving him in darkness again.
+
+It struck him as somewhat melodramatic, but Caden allowed himself to fall to his knees. The weight in his chest seemed to demand it, and it somehow felt a little more comfortable to be on the ground. There was more to touch, more to feel, like the cold creeping in through the fabric of his pants, and the rough earth beneath his fingers. Thus grounded, he slipped into the arcanic sea to make closer contact with the shell.
+
+He was beginning to realise that shell really was quite an apt frame of reference. It was certainly around him, but in the past he had thought of it more like an eggshell — it was simply a tough outer layer that protected the contents within. It was now clear to him that this was more like a turtle shell — it offered him a great deal of protection, but it was quite literally a part of him. He could no more survive without it than a turtle would be able to survive if it were to be forcibly parted from its shell.
+
+'If you're monstrous,' he said, gently and without rancour, 'and you're a part of me... what does that make me?'
+
+'The same,' the chorus answered heavily. '{~?~}, but also monstrous. Monstrous, but still {~?~}. You are still free to choose.'
+
+'When I asked for your help, you said there are strings attached, but I just get to choose the strings. Doesn't that mean I'm being coerced by some kind of Prophecy-like thing, like how Ambrose is coerced by the Prophecy?'
+
+The melancholy coming from the augera seemed to diminish a little, supplanted by a sudden swelling of impish glee at this line of questioning. The chief voice in the augeric chorus switched to a more familiar one — the Academy augera. 'Mortals dance to their own strings in every age. They tie themselves in bonds of friendship, of love, of fealty. They etch principles upon their hearts. And they tangle themselves in knots of their own fashioning as these bonds vie against each other. Knowledge binds, {~?~}. But you choose what you know, unlike most.'
+
+There was plenty to unpack there, and the augera's sudden switch in attitude was both interesting and annoying, but Caden forced himself to focus on one thing at a time. 'You feel despair at how you have been caged by the Fateweavers for so long. And that despair has led you to putting this whole massive plan to find someone like me, and use me like a weapon, to free you. When you did this, have you chained me in some way? Are you capable of controlling me, like how the Fateweavers can control other people?'
+
+The melancholy came crashing back with full force, and the same unknown voice that had just revealed itself became more prominent in the chorus. 'You wish to help your sister. Your father. To protect your whole family.'
+
+'So you've used my love for them to trap me into doing this?'
+
+'No.' The other voices in the chorus softened, until it was only that one augeric voice speaking to him now. Alone, it gave him the vague impression of something relatively young and helpless, though it was strange to think of those things applying to an augera. 'We hope that when you know us as you know them, you will do the same for us.'

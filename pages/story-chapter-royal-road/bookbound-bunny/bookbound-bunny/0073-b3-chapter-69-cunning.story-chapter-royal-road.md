@@ -1,0 +1,213 @@
+---
+id: 61303b8f-2066-5519-96fd-8d96e8f15cd2
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 69 - Cunning"
+slug: 0073-b3-chapter-69-cunning
+partOf: bookbound-bunny
+position: 73
+ownLength: 2374
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3713824/b3-chapter-69-cunning"
+royalRoadId: "3713824"
+---
+
+As they exited the mini-dungeon, the first thing they were greeted with was the sight of Headmaster Fabrelis, who looked extremely bewildered.
+
+"Impressed by our show?" Lotte asked, with just a touch of smugness.
+
+"That's certainly putting it mildly," Fabrelis admitted, his gaze drifting towards Lily. "What you did in there—"
+
+"There's no need to hide it," Lily answered, half-interrupting the headmaster.
+
+"Oh? Oh!" Lotte exclaimed, realization flashing across her face. "So you hide anything we don't want to be seen?"
+
+Headmaster Fabrelis gave a brief nod.
+
+Lotte gave a brief chuckle, shaking her head. "Damn, so you can't fully trust what was seen in your images? I suppose that makes sense. Maybe some people don't want to show off."
+
+"Or secrets like the crystals," Lily whispered.
+
+"Precisely," Fabrelis concurred. "It's one thing to let our students keep a hidden ace up their sleeve, but your safety and well-being are our topmost priority. Although some seem to need it more than others…"
+
+Fabrelis' gaze was drifting towards Lily again, but in response, she puffed out her chest confidently and tried to give the most assertive smile she could muster. "Don't worry, I'm fine with people seeing what I did. I've got plenty more tricks up my sleeve."
+
+There was a brief moment of hesitancy in his eyes before he finally nodded. "Very well. Although I can already hear the rumors that will be spread by anyone who sees this…"
+
+That's exactly what I want to happen!
+
+Lily tried to hide the mischievous smile she now had, as everything had gone exactly as planned. If the students started spreading rumors that her supposed bloodline let her summon glyphs, then she felt like her first mental manifestation was going to happen sooner rather than later.
+
+Then I just need to work on attuning my Mana correctly, so I don't need to use the wand to draw. I'll show everyone just how important glyphs are and make Arakil proud.
+
+"What time did we get?" Lotte asked as they were departing.
+
+"You can check the scoreboard, but I believe it was just over four minutes," the headmaster replied, as if that was the last thing on his mind.
+
+"Do we get a prize?" Lotte asked again, excitement on her face.
+
+"If you keep your first-place position until the end of the event, yes," Fabrelis confirmed.
+
+When the pair went out of earshot of the headmaster, Lotte turned to Lily. "What was that back there?"
+
+"A glyph, I summoned it to hold back the frog," Lily answered.
+
+"I know it was a glyph… But since when can you just make them poof out like that? What happened to drawing?" Lotte asked.
+
+"Would you believe me if I said I drew it with my mind?"
+
+"Sure, why not? Between your sister being a dragon, your Familiar being an ancient book, your exploding stars, and your unlucky moon, that hardly seems the most absurd thing surrounding you. Oh, and you're the only Lagia mage, lest we forget."
+
+Lily coughed awkwardly, causing Lotte to smirk. Putting it all together, her summoning a glyph wasn't exactly the most outlandish occurrence recently.
+
+And that's ignoring what the dungeon tried to do…
+
+"So, can you do it again?" Lotte asked.
+
+"Not always… It's something I'm working on. Hopefully, soon I'll be able to use glyphs whenever I want."
+
+"Wow. Our dungeon team really is going to skyrocket when that happens," Lotte said with a chuckle. "I'd better work on improving my own spells to keep up."
+
+"After seeing what you did to that frog, I don't think you'll have that problem."
+
+"True… But I want to summon an even bigger snake. Like one big enough to coil around my whole body before launching itself. Just imagine how cool that would be."
+
+"I'm more imagining how dangerous that would be, but I get the appeal," Lily replied, wrapping herself in her Nebula Veil.
+
+Lotte giggled and shook her head. "Not like that, but yeah. Hopefully, I figure out something soon, or maybe I'll need to ask Arakil if he can find another scroll for me in that tome of his."
+
+[That can certainly be arranged.]
+
+Lily giggled back and relayed that Arakil was on board if she needed help. It certainly helped that this was pretty much a hobby for Arakil at this point, a way for him to satisfy his curiosity about bloodlines.
+
+The two finally emerged to the rest of the students waiting in line to enter. Their perspective was a bit warped, as they had physically come up from a different location yet exited through the same entrance, suggesting either that illusions were involved or that the dungeon was messing with the location.
+
+From there, they saw the scoreboard where their names were listed at the top with an impressive time of four minutes, twenty-two seconds. If not for being slightly delayed by the marsh, with a movement spell, or perhaps even ignoring the small frogs at first, they might have easily secured a faster time.
+
+Or if I used a more offensive glyph. But I wanted to go for the flashiness.
+
+At the same time, the image began showing their own battle against the large frog, with Lily holding it back with a magical barrage until Lotte delivered the killing blow. Not too many people were paying attention to the first years, as their spells and monsters were often much less impressive than those of the seniors. If not for Rose's abnormal behavior, her year would've been neglected as well.
+
+However, the few who were paying attention were flabbergasted, and it wasn't hard to catch whispers asking where exactly that magical glyph had come from. Thankfully, the illusory recreation would be repeated as it cycled through the various top performers, so more would see it, assuming they heard about the strange performance through word of mouth.
+
+Hana, Arthur, Rose, and even Rebecca, however, were paying close attention to the first replay, and all of them looked like they wanted an explanation by the time Lily and Lotte reached them.
+
+"Since when can you summon glyphs?" Hana asked.
+
+"It's new, something I'm currently working on. Hopefully it'll be more permanent soonish," Lily answered.
+
+"Is it from your bloodline?" Rebecca asked curiously.
+
+Before Lily could answer, Arthur chimed in, "It's gotta be. Why else would she be so good with glyphs? Even if she studied her butt off every day, I don't think she would be that ahead of everyone else."
+
+"Hey—" Rose snarled, before Lily nudged her.
+
+"It might be from my bloodline, I'm not sure, but it's something I'm chasing after," she vaguely explained.
+
+"Mm," Rebecca murmured with an affirming nod. "Sounds like a bloodline intuition if I've ever heard it, and I get some of the weirdest ones you can imagine."
+
+"They come to her in her dreams. How unfair is that?" Rose said jokingly.
+
+"I think you're the last one who should be complaining about unfairness," Lotte sighed.
+
+"You're just as bad," Arthur replied. "Hana too. Compared to all of you, I'm almost ordinary. Maybe I need to ask my dad if there's some legendary bird in my bloodline just so I can keep up."
+
+"Hey, don't knock yourself down. We did great there," Hana said, patting him on the shoulder.
+
+"Yeah, you almost got sub-five minutes. For a first year that's basically unheard of," Rose agreed. "I don't think anyone will dethrone your spot."
+
+"Well, except for those two," Hana said, gesturing to Lily and Lotte.
+
+"Sorry, but you'll have to win the duels to make up for it," Lotte taunted jokingly.
+
+"Yeah, make sure you beat that Clarissa girl for me," Rose added.
+
+"Should you be saying that? She's in Terravix with us…" Rebecca said, evidently conflicted about it.
+
+"Look, anyone who gets in my way, or Lily's for that matter, is someone to knock down," Rose replied bluntly. "Whether they are in Terravix, Regarth, or otherwise."
+
+"Point taken…" Rebecca sighed, glancing at Lily.
+
+Lily could only shrug awkwardly in response. She'd also been assigned the task of beating Clarissa, although considering they weren't exactly competing in anything directly at the moment made that a bit of a tall ask. She just had to make sure she was up to date with all her studies and ready for whatever the next practical examination might be.
+
+The group watched a few more of the various scenes and time recordings, and it became very apparent that no one would threaten their solid first- and second-place positions. The same could be said of Rose's shocking time for the second-years, with only a few even breaking sub-five minutes.
+
+As for the third to fifth years, those were quite the interesting spectacles to observe. Unfortunately, quite a lot of it appeared censored, especially from the fifth year, likely at their request. From what they did see, however, their spells were basically flawless, grand spells able to be summoned with only a few gestures or a minuscule chant.
+
+The monsters they faced were quite the variety, too, and Lily even shockingly saw a dryad facing down one of the fourth-year pairs. They took it down with a combination of ice and wind magic, which the creature seemed unable to withstand until they claimed victory.
+
+As for their own display, it looked like word had spread about the strange glyph summoned, and an unusual amount of attention was drawn to the first year's results.
+
+Alice eventually came over and sighed, a slight frown directed at Lily. "You're really making my job harder. I thought you said you wanted to be subtle?"
+
+Lily could only offer a shrug in response. "It's different when it comes to glyphs. I want to show the world what they can do."
+
+Alice sighed. "It sounds like I might need to knock some sense into your enchanting professor. I hope he didn't put you up to this as some kind of marketing gimmick?"
+
+Lily quickly shook her head. "Nope. I think he will be just as shocked when he sees or hears about this."
+
+Alice looked surprised and seemed like she wanted to say more before suddenly giving up. She congratulated all of them for proving that this year's new students were a force to be reckoned with and left them to return to the front of the queues.
+
+"Let's get out of here before everyone starts coming to ask questions," Lily suggested.
+
+Nobody had any complaints, and Rebecca bid them farewell. Now that her part was over, she wanted to go back to her room with zero interest in the upcoming duels. Their group was certainly eye-catching, as not only were they all from different factions, but Rose's presence alone was enough to draw attention. Of course, it wasn't too odd for the factions to intermingle, especially for the younger years, but some still found it "against the festival spirit."
+
+Not that any of them cared, as they happily ate food and rested for the upcoming competition. Lily and Lotte were in full relaxation mode now, as they had no commitments for the rest of the day and could just sit back and enjoy the show.
+
+Arthur and Hana, however, seemed quite nervous, as they both wanted to perform their best.
+
+"Actually… What's happening with Wallace and Garet?" Lotte asked.
+
+"I don't think Wallace is participating," Arthur answered. "I tried to convince him, but he wasn't interested. Garet is competing, though, and he's probably the biggest threat in this competition."
+
+"Not Clarissa?" Lily asked curiously.
+
+Arthur shrugged. "She's a plant mage… What can she do in an arena? Even if she grew things on the floor, I could jump into the air and defeat her before I landed."
+
+"Who's Garet?" Rose asked.
+
+"He's in your faction…" Lily murmured in disbelief.
+
+"I don't really pay attention, to be honest."
+
+"He's a fire mage," Lily added.
+
+"It's not like we fire mages all gather around the campfire and share our secrets," Rose said with a smirk. "But, if he is, then I can understand why Arthur here says he's the biggest threat. It's hard to go wrong in duels with fire, as you can quickly shatter your opponent's Ward."
+
+"That's exactly what I'm worried about," Arthur replied.
+
+"Maybe you'll get lucky, and I can knock him out," Hana said with a grin. "A bit of blinding light and I should be safe from any fireballs."
+
+"He's a hot head, so that will probably work," Arthur agreed.
+
+"Actually, what about Thomas?" Lily asked. "His lightning can be hard to work around."
+
+"His ranged spells take time to form, so I just have to beat him before that," Arthur said confidently.
+
+"That makes sense…" Lotte murmured.
+
+"You probably shouldn't have told them your plan," Hana joked, causing Arthur to realize that he was telling his plan to two from Maranix.
+
+"Don't worry, I won't say anything," Lily said reassuringly, and Lotte nodded in agreement.
+
+"It wouldn't be fun otherwise," Lotte added. "I'd rather you all compete with everything on the line. I don't think Thomas would be happy if he won only because we told him your plan."
+
+"Good point. Plus, he probably knows that's his weakness," Hana pointed out.
+
+Arthur blinked in surprise. "He does?"
+
+"Do you really think someone who studies as much as him hasn't written down a list of his flaws to work on?" Hana asked.
+
+"Damn…" Arthur muttered. "I might need a new strategy then."
+
+"Good luck with that," Rose chuckled. "Anyway, I'd best be off to meet up with the second years and find out when my first fight is."
+
+"I'll be cheering you on from the stands," Lily said, waving farewell.
+
+Rose nodded and gave a reassuring thumbs-up before breaking off from the group. Hana and Arthur also realized they needed to get ready and excused themselves before rushing off.
+
+"Let's hope we can get some good seats for the show," Lotte finally said.
+
+"If not, let's hope the headmaster has a solution so we can all see," Lily replied.
+
+The two wandered off together, joining the queue of people coming to spectate, arguably the highlight of the entire festival. No matter who won, Lily figured they would be in for a magical feast for the eyes.

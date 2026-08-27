@@ -1,0 +1,169 @@
+---
+id: 6db5dc84-729c-50a2-9184-ba53fd72ed50
+page-type-slug: story-chapter-royal-road
+title: "41. Lapses in Judgement"
+slug: 0041-41-lapses-in-judgement
+partOf: breaker-of-horizons
+position: 41
+ownLength: 2214
+unit: words
+publishedAt: 2020-09-21
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/557848/41-lapses-in-judgement"
+royalRoadId: "557848"
+---
+
+"First off," Kant began, "thank you for adhering to the safety protocols. The next—"
+
+"What?" I cut in, incredulous. "Sorry, sir, Marcus, but how was that safe at all?"
+
+He favoured me with an indulgent smile. "Emilia and Kevan are a little ahead of the syllabus. Our class is due to shift over from the Ka'atus Room to the duelling chambers soon, and I'll be running everyone through the features of this place."
+
+"But the barriers were cracking," I objected. "And what Kevan was doing, it's a miracle Emilia wasn't hurt!"
+
+Kevan snorted. "I told you, you don't even know what's going on."
+
+"That'll do, Kevan," Kant said, frowning at him. "Short version, Caden, the barriers won't break short of the Demiurge himself making a concerted effort to take them down. The cracks are cosmetic, to indicate when significant structural damage would have been done to an ordinary building. The personal shields provided by the chamber are also similarly robust. You'll notice Emilia is perfectly fine."
+
+"Then... then there wasn't ever any danger?" I asked, feeling a little silly.
+
+"There's always danger involved in arcanophany, but in this instance, both of them had the necessary safeguards in place. And, on top of all that, I've been here since the start. The Demiurge asked me to sit in, so I did, undercover."
+
+"But the Demiurge also asked us to..." I glanced at Devon.
+
+Kant raised an eyebrow, while Kevan's head jerked up. Emilia, as ever, was hard to read. "Caldwell sent you here?" Kant asked.
+
+"He said Kevan was probably going to 'go overboard', in his words. And that I... we... should be ready to help," I supplied.
+
+Kant considered that for a long moment, his expression one of mild interest. "Well, he likes his jokes, that man. But to put your mind at ease, Caden, when I bring our class here, you'll learn why we have these chambers in the first place, and how they allow us to safely practice combat-grade Thaumaturgy."
+
+"But what Kevan was doing... the arcana..." I struggled to phrase it in words.
+
+"Yes, well, that's one of the horrible lapses I wanted to cover," Kant said, turning to Kevan, who sat up a little straighter. "That was extremely sloppy."
+
+"Sloppy?" I muttered, wondering if it was a horrible understatement. "Not dangerous? Not life-threatening?"
+
+"Outside of this chamber, it would have been those things," Kant conceded, glancing at me, "but the chamber would have shut Kevan's arcanophany down long before it became a danger to him or others. It looked quite spectacularly out-of-control, though, which I suppose is why even the seniors panicked and ran." He turned back to Kevan and his tone became stern. "You showed terrible judgement in combat. You never make use of a sequence you have modified on the fly, unless you are absolutely certain about the principles involved. You're more likely to destroy yourself than your opponent."
+
+Kevan clenched his fists but accepted the rebuke in silence.
+
+"I suppose you messed around with the glyph of proximate arcana for that one?" Kant questioned.
+
+"Yes," Kevan said through gritted teeth.
+
+"Talk me through it. What were you thinking?"
+
+"The sequence has a limiter on how many levels of proximity to draw on. I thought if I removed them, I could direct it by will alone, and draw in more at once, but still work with a safe amount of arcana since it should only extend as far as what my will can manage."
+
+Kant nodded. "A fair assumption. Have you tested this principle before with your tutor?"
+
+"...No."
+
+"Then what made you think it was a viable sequence for use in combat? Didn't you have other options?"
+
+"Yes, I had other options," Kevan said, visibly struggling to keep his temper.
+
+"So why did you pick one of the worst options?"
+
+"Because he is afraid of losing to me," Emilia stated matter-of-factly.
+
+"Nobody asked you," Kevan snapped.
+
+"And there we have it," Kant said, forestalling a retort from Emilia with a raised hand. "With that attitude, Kevan, you lost before the battle even started. Your judgement was clouded by other considerations that kept you from making wise tactical choices. You have great technical proficiency, but it needs to be applied properly. For instance, that business with the mirrors — inspired, I'll admit, but also unnecessarily complicated. I won't comment on the utter lack of chivalry for cheating there, because in the real world we may well have to resort to that to secure victory. But let's look at the plan itself. First, you had to have your brother rig the lights for you, which introduces an additional point of failure in your plans. But for that to work, you'd need to break line-of-sight first, which required you to assume that Emilia was going to use that beam attack again. Another possible point of failure. If either of those things hadn't fallen into place, how were you planning to buy the time to use that sequence for arcanic lightning?"
+
+"Smoke from arcanic fire to block line-of-sight," Kevan shot back.
+
+"The smoke would have made it easier to spot your mirrors. And what about the lights being done perfectly?" Kant pressed. Kevan had no reply, so Kant went on. "So you structured your fight around the one sequence you wanted to use and left yourself no other options. That's why you doubled down on the sequence when Emilia blocked it the first time. And that's what cost you the fight."
+
+"I wasn't the one who got knocked out first," Kevan protested, but there was no heart behind it.
+
+"No, you weren't, but if this were a real fight, you'd have died to your own runaway sequence. And I don't know what book you're using, but in my book, if you come out dead from a fight when you didn't intend to die, then you lost."
+
+Kevan took in a deep breath and sighed. "Yes, sir. Thank you."
+
+Devon and I exchanged surprised looks, having never seen Kevan take feedback like this before. But I supposed that Kant was speaking from a position of authority, and so even Kevan had the good sense to listen and accept it.
+
+Kant turned to Emilia. "As for you, commendable composure under literal fire. But that's the second time you've used that beam against him, isn't it? It's obvious because Kevan had a plan for it."
+
+"Yes," Emilia admitted. "But it's what won me our last match."
+
+"And that's exactly why you shouldn't have pulled it out again," Kant said emphatically, "unless you were using it to set up something else. If someone ever survives a fight with you, you can bet the next time they choose to face you, they'll have something ready for the thing that took them down. Did you have something else to use?"
+
+"Yes, but I'd rather not elaborate," she replied.
+
+"Good. But the worst thing was your choice to shield at the end against the black lightning."
+
+"But if it's the same sequence, only amplified somehow, then shouldn't the same principles work?" Emilia asked, frowning.
+
+"Why shield when you can dodge?"
+
+"But I couldn't dodge."
+
+"Next best thing; you could have provided a decoy, which you so expertly created mid-battle with that orb. And you know it works because it's what saved you the first time when the shield failed. Why didn't you simply shoot out a decoy, instead of trying to deploy a shield again?"
+
+She let out a small huff of annoyance. "It did not occur to me at the time."
+
+"And another thing. Surely you could tell the second iteration of his sequence was at least one or two orders of magnitude more powerful than the last. I know you modified your own shield in turn, but what made you think your slightly modified shield was going to hold up against that?"
+
+"Overconfidence," she replied in a clipped tone.
+
+"Yes. You were so flushed with the success of that first shield that you, like he did, over-invested in one sequence. It's important to be more nimble in your consideration of what to deploy."
+
+"I understand. Thank you." She lapsed back into an air of slight preoccupation.
+
+"As for you, Caden..."
+
+Startled, I looked at him. "Yes?"
+
+"Commendable concern for your friends. And excellent circumvention of the arena barrier by using ensorcellment instead of a traditional attack sequence. But even though it worked very well this time, I suggest you be careful with how you employ ensorcellment in the future," Kant said, regarding me seriously. "It works extremely well on laypeople, but by the end of this semester, those in your cohort would be proficient enough to resist ensorcellment. It is not a tactic you should rely on against a trained arcanist, because the channel works both ways."
+
+I nodded mutely.
+
+"Well, that's all I've got. All in all, not a bad fight. I'll see you in our next class, Caden, Emilia." He gave a casual wave and took his leave.
+
+"That was a pretty epic show," Devon said to Emilia and Kevan, completely sincere.
+
+"Thank you," Emilia said. "You're all dormmates, correct?"
+
+"Yup! If you ever wanna come over some time, I can whip up a good meal," Devon grinned.
+
+"Are you as proficient in combat as Kevan, or at least Caden?" she asked.
+
+"Uh, I..." The grin vanished from Devon's face.
+
+"What do you mean 'at least'?" I asked, affecting indignation.
+
+"You know what I mean, Caden," she went on, completely serious. "In Kant's class, you are of middling proficiency in the practical aspect of thaumaturgy."
+
+Lynus stifled a laugh. I rolled my eyes and addressed the rest. "You get used to her after a while. She's always this blunt."
+
+"Well, I'm not as, uh, proficient in combat," Devon said, "but why do I need to do that if I'm offering to cook if you come over?"
+
+"Oh, I was just wondering if Kevan's dormmates were all of similar levels of mastery. It would be nice to have more people to practice with," Emilia replied.
+
+"Well, Lynus is his brother, and they're both the most invested in thaumaturgy," Devon pointed out.
+
+"Lynus is not as good," Emilia said, with such a straight face that it was clear she was not being dismissive. Lynus mimed being wounded as Kevan elbowed him with a grin.
+
+"The only other person who may be a viable challenge is Ambrose, then," I added. "He's pretty good, too. Beat Kevan the first time they duelled."
+
+Kevan shot me a look, and I gave him a small smile. It would really be interesting to see Emilia go toe-to-toe against Ambrose. And I wouldn't say no to watching Ambrose and Kevan fight again.
+
+"That sounds wonderful." Emilia turned to Devon. "I'd like to take you up on that offer. Perhaps when our schedules permit, I can duel with Ambrose, and we can all eat together afterwards. Would you all mind helping me pass on the challenge?"
+
+"I'd love to," Kevan said, grinning. "Make sure you beat him."
+
+"Why wouldn't I make sure?" she asked, raising an eyebrow. "That's the point, isn't it? Well, goodbye."
+
+All of us made our way out of the arena, though Emilia set off at a quicker pace. I wondered if she had friends since she always seemed to be alone. She didn't seem to be bothered by that, so I didn't know whether to feel a little sorry for her or not.
+
+As we walked, at Devon's insistence, Kevan started explaining a little about what he had done during the fight. He was generally a lot more forthcoming now than he had been at the start of the semester. As he spoke, it became apparent that he really was quite far ahead — likely because of his association with some seniors, and his own independent training.
+
+But I was only half-listening. I kept thinking back to the fact that the duel had been completely safe, and yet the Demiurge had sent me and Devon there, making it sound as though we had to be the ones to stop Kevan. But now that everything was over, I realised how thin a reason that was. He had already forewarned Kant and planted him there, and Kant was infinitely more qualified to head off any arcanophanic disasters. That meant the Demiurge wanted Devon and me there for another reason. He could have just ordered us out of the room to get a private moment with Ambrose, so it wasn't just to get us out of the way either.
+
+I paled a little when I realised that perhaps the reason was already fulfilled, and it wasn't really to do with Devon. It was me. Because at the very end, even though the chamber would have shut down Kevan's sequence and prevented any lasting damage, I had been tricked into ensorceling him.
+
+I had given the arcanic being a direct link to Kevan's auric-ambient-flare, and I had shared binding knowledge of its flavour-vein-echo with him. And it must have communicated with him somehow and taught him, or else forced him, to stop the black lightning.
+
+My heart sank as I looked at him. And at that moment, in a lull in the conversation, he glanced at me. Our eyes met.
+
+And he smirked.

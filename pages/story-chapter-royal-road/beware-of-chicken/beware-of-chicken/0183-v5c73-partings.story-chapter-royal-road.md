@@ -1,0 +1,237 @@
+---
+id: 56b1ab3a-616e-574d-8119-ea5ae3154852
+page-type-slug: story-chapter-royal-road
+title: "v5c73: Partings"
+slug: 0183-v5c73-partings
+partOf: beware-of-chicken
+position: 183
+ownLength: 2963
+unit: words
+ownProgress: 2963
+publishedAt: 2024-12-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1939592/v5c73-partings"
+royalRoadId: "1939592"
+markedReadAt: "2026-06-29T18:57:35.723Z"
+---
+
+The early dawn saw me on the roof. Big D and Xiulan’s normal spot was quite comfortable and a good place to watch the sunrise, my eyes on the northern horizon. Big D was on my shoulder, in chicken form, my disciple and friend’s eyes in the same direction as mine. We sat in silence, simply spending time with each other.
+
+It had been two days since Gramps and Lu Ri had left.
+
+I have to admit, it was a little strange not to have to be at the forefront of the battle that was currently taking place in what was effectively the north pole. In a story, I would be one of the ones standing on top of a flying sword, wreaking vengeance upon those who had attacked my home.
+
+But… I hadn't needed to. Instead, Gramps had called in the cavalry, and they were only too happy to take care of things. I didn’t need to be the one fighting. I had allies who could help.
+
+It was simultaneously worrying and relieving. Worrying, because I didn’t know what was happening, and relieving, because this would hopefully be the end of everything nasty up in the north, without me having to fight in a long war to end it.
+
+Which again: some part of me said the only way to be sure was to do it myself. The other part… the other part extended the last olive branch of trust. The Cloudy Sword Sect had screwed up before. They said they had changed… and I had to trust that they had. They had certainly seemed sincere so far.
+
+So all I could do now was wait. It was a strange sort of emotion. Not urgent, not bad, but just feeling a little bit like I was stuck in limbo.
+
+I gave it five more minutes, watching the sunrise, then slapped my hands onto my thighs, stood, and took a deep breath. I let it out slowly.
+
+There was nothing I could do about it right now, so I just had to do something I could do.
+
+I went downstairs to help with breakfast. I gave a gentle hip-check to Xiulan as I settled in beside her, and she bumped me back with a smile. Peppa was humming a cheerful tune as she chopped and diced—and the new kitchen was big enough that a dragon could coil around in his spot before the stove, Washy’s eyes sharp and intent while he cooked the eggs. Sunny side up, over easy, over medium, over hard, cooked at a higher temperature so the edges got brown and crispy, cooked in indirect heat over water in a ramekin, soft and hard boiled, scrambled, poached… He had gotten inspired after he had found a doodle I had made of him in a chef’s hat in one of the ledgers Peppa had asked him to check over. I had explained that it was the mark of a master chef, and the pleats were meant to signify each way you could cook an egg.
+
+It was actually a good thing we had so many chickens, because Washy boasted he would earn a hat with ten-thousand pleats.
+
+I was also going to have to take his present out from under the tree and count how many folds I had put in it, to make sure it was accurate.
+
+We worked our magic on the morning feast, taking it out to the table. Meimei was relaxing this morning, her feet up on a stool and a scroll in front of her. I recognised the scroll, it was one she had gotten from Lady Wu that was some kind of fictional court drama about a woman who was an apothecary—both of them seemed to really like the tale.
+
+Tigu was watching Zhuye for us, playing peekaboo with her younger brother and Delun, the two of them making our son kick his legs and laugh uproariously. My son was in good spirits, and I think he was starting to test out his first word. Nothing concrete yet, but he was ten months old—I think I remember that some kids could say their first word that early… though judging by the sounds he was making, it wouldn’t be mama or dada, but something that started with either a Ti or a Bi.
+
+Little man loved his siblings.
+
+Chunky was in his human form nearby, listening to Noodle and Yin’s gentle coaching. He was spinning a bowl on a pottery wheel, his tongue stuck out in concentration. It was coming along well—until he pressed too hard and ruined it. He just chuckled and began again, unbothered by the failure.
+
+The others slowly filed in as word went out that breakfast was ready. We all sat at our long table, ten different conversations flowing at once.
+
+Then we all trouped out into the snow to do our morning exercises. After that, Meimei changed my bandages—the wounds were still not looking the greatest, but they were healing. She laid a kiss on my ravaged knuckles, then another on my lips.
+
+Then we got to work.
+
+Meimei went to the forest, where she was still detoxifying everything.
+
+I had other things to do. There were preparations for the funeral for Vajra’s soldiers. There was work to be done on the fences. The actual animals were finally calming down, and the birds were returning to the General's hat.
+
+I wasn’t fighting the demons, but life went on.
+
+=======================================
+
+Tomorrow. Yushang was leaving tomorrow, and it was weighing a bit on her.
+
+Staying at Fa Ram was one of the best times of Yushang’s life. The warmth and beauty were truly wonderful things.
+
+But today was the last day. The last day to act… if she even wanted to act. She glanced over at where Bi De and Ri Zu were talking and laughing with Han and Uncle.
+
+She remembered first seeing the two of them and Yun Ren, shining out like beacons compared to the rest of the other initiates. Righteous. Honest. The kind of people that she knew in her bones would never betray her.
+
+They had proved as good as she saw them. They were what Yushang wanted to be. Righteous heroes, who boldly stood against what they saw as injustice. They were all stunningly beautiful. Was it any wonder that Yushang’s heart had been enraptured by them?
+
+Yun Ren had made it very clear he was taken and had no desire for any female companionship, so he was off limits. But Bi De and Ri Zu? At first they had kind of danced around each other. They hadn’t been a thing. And most of all… neither of them had really said no.
+
+Yushang had always made it a joke. Hidden it in japes that they could safely dismiss, and not ruin what they had. If they had firmly rejected her, like Yun Ren had, she would have backed off and kept it just as something funny.
+
+But they hadn’t. Bi De flirted back more often than not. Ri Zu really seemed to like her the best as her test subject, and Yushang had caught the smaller woman’s eyes wandering down her form whenever she took her shirt off. Even when the two of them did get together, that hadn’t changed. If anything, Bi De had flirted more and Ri Zu had gotten even handsier.
+
+Of course, she could be completely and utterly misreading the situation and now she was about to fuck up horribly.
+
+They had fought together. Shed blood together. Yushang had gone north with them willing to die with them. To die for them. If it had happened that way, in those horrid claustrophobic corridors, she would have been content.
+
+When they were a constant presence, it was so easy to just let it be. To let things remain how they were, simply as friends. Even now, she was considering just… not doing it. It would be easy. So easy.
+
+But she didn’t know when she was going to see them again.
+
+She loved them. Maybe it was foolish. Maybe it was greedy to think those thoughts. Maybe it was too many stories of how things were supposed to go making her think with her loins. But Yushang wanted one last good memory—as good as she could get—with her dearest friends.
+
+And hey, if it blew up in her face, then they would have something to talk and laugh about the next time they met… if it didn’t ruin their relationship, of course.
+
+Yushang kept a smile on her face, even as her stomach churned. She grappled with a choice she was afraid to make.
+
+============================
+
+The last seven days, despite Han’s worries about his family, had been good. Better than good, honestly. Bi De’s home had been warm, welcoming, and kind. He had used his formations to craft for Lady Meiling several needles, a mortar and pestle, and several knives. He had meant to do it all for free, as thanks for their hospitality, but neither she nor Master Jin would hear of it. So he got several quite rare herbs, several bottles of medicine, and a healthy amount of silver in return. And by healthy he meant several pounds. Lady Meiling had been very satisfied with his work, complimenting the new ease with which she could infuse her objects with Qi.
+
+But today, he had no work. He had already packed everything he needed so he, Yushang, Shao Heng, Spooks, Fenxian, and Yingwen had spent most of the day doing little but spending time with Bi De, Ri Zu, and Yun Ren.
+
+They roamed far and wide over their home, the two of them reminiscing about past times and past battles; the clearing where they had met Vajra, the site of the battle against a cultivator bandit named Sun Ken, the first field Master Jin had ever made, and many more.
+
+In return, Han told them of his own childhood, his family manor, and the mountain springs. Yushang spoke of her village. Shao Heng, of his time of quiet solitude in the mountains. Spooks spoke of the dancing lights of the aurora. Fenxian, the most absurd tale of bar crawling he had ever heard, which was completed with Yingwen’s story of catching a goat thief who was posing as a Spirit Beast.
+
+All of this was backdropped by the snowy hills and towering pines.
+
+It truly was a beautiful place.
+
+When the sun dipped low, Bi De and Ri Zu glanced at each other and nodded—returning to the house, where another surprise awaited them.
+
+A goodbye party.
+
+The house was dark, save for its lights. A feast was laid out for them, and there was even extra food sent over to the other members of their Sect and Elder Shenhe.
+
+“To friends we shall see again one day,” Bi De said in toast to them.
+
+Tears fell from Yushang’s eyes, and Han barely mastered himself, but it was a near thing.
+
+He would almost be sad to go. But in the end… if he could make his own home like this place, he would go gladly, thankful for the example to follow.
+
+===========================
+
+“Come on, come on, I got something to show you!” a slightly tipsy Yushang demanded.
+
+“My, you’re very eager. What has caught your eye?” Bi De smiled as he and Ri Zu followed their friend out into the night; it was cold, but the temperature was bracing. The flush of alcohol was on all of their cheeks.
+
+“You’ll see! It's somethin’… well, a lady has to try, yanno?” she declared, looking slightly unsure of her course of action, before she straightened her back. “It's just over here!”
+
+Indeed, they did not have to walk long, for off to the side of the path there was… steam. Bi De sensed the Qi of a fire crystal, and then he saw—
+
+“A mud pit?” he asked, confused.
+
+Then, Yushang’s arm wrapped around his waist and she tackled him into the pit. It was warm because of the fire crystal, and Bi De was too shocked to put up any resistance. They both landed in the mud, and Bi De felt soft lips against his own.
+
+It was pleasant. Yushang was soft and warm and… he paused, as Yushang pulled back.
+
+“I think I remember you sayin’ how this sort of thing is done around here. The Grannies in the village said this was how your Masters met each other!”
+
+Bi De felt his cheeks heat up. He was about to scold her for doing such a thing in front of Ri Zu—but for one problem. Ri Zu was in Yushang’s other arm.
+
+Ri Zu looked halfway between annoyed and confused.
+
+“If you know what this means, why did you pull Ri Zu in…” She trailed off when she saw Yushang’s intense eyes boring into her own. Yushang leaned forwards. Their lips met. Ri Zu’s eyes widened, and then she practically melted, only coming back to her senses when Yushang pulled back.
+
+“I’m greedy,” Liao Yushang declared.
+
+Bi Di’s eyes widened and he glanced at Ri Zu, who looked dumbfounded.
+
+“Eh?” she asked with a squeak.
+
+“I’m greedy, so I want it all. You can either say no… or we can use the guest house. I asked Pi Pa.” Her words were casual, but Bi De could see her nervousness. She was very close to just jumping up and running, her heart thundering in her chest.
+
+Ri Zu’s wide eyes kept staring into Yushang’s, and her gaze flicked over to Bi De for a moment.
+
+Bi De confessed that the idea was immensely appealing—but he was a rooster. He wanted this. His body was screaming at him happily.
+
+Yet as much as the idea appealed to him, he did not wish to hurt Ri Zu more.
+
+He and Ri Zu looked into each other’s eyes.
+
+Ri Zu sucked in a little breath. “… perhaps an experiment is in order,” she whispered.
+
+They had a most enjoyable night after that. Though Bi De couldn’t help but reflect—
+
+It was indeed a victory for Yushang.
+
+==========================
+
+The Shrouded Mountain Sect was assembling on my lawn. We were all milling about too, as people said their last goodbyes.
+
+‘Are you sure you don’t want me to come?’ Spooks asked Han and Yushang. Han smiled and shook his head.
+
+“I don’t doubt your courage, and we know you promised that you would come along, but the Sect is likely going to be dangerous. I’d sleep better knowing you were here.”
+
+“Yeah, and some things are best if we do them ourselves. But don’t miss me too soon~” Yushang declared, though her last words were directed at Bi De and Ri Zu. The young woman was positively glowing this morning. Ri Zu’s face went a bit red, while Bi De just smirked challengingly at her.
+
+I raised an eyebrow at them, but in the end it wasn’t really my business.
+
+“Good luck, Shao Heng,” Ri Zu said to the older looking man.
+
+He bowed his head. “I shall never forget what you have done for me. Say the word, and I shall be by your side.”
+
+“Ri Zu will remember. If Ri Zu ever needs a hero, she will count on Shao Heng to arrive.”
+
+Shao Heng smiled like a much younger man.
+
+Yun Ren hugged Nezan, the fox burying his nose into Yun Ren’s neck. “I’m going to miss you,” he whispered to the fox.
+
+“I shall miss you too, nephew. But somebody has to make sure they’re doing it right this time, and Shenhe asked for my help,” the fox replied.
+
+Tigu approached Fenxian… then held out one of her arms to Fenxian. He looked surprised.
+
+“I still don’t like you,” she stated bluntly. “But….good luck.”
+
+Fenxian took the offering of peace and nodded at Tigu.
+
+“Yingwen,” I said. Getting the attention of the last of them.
+
+“Yes, Master Rou?” he asked.
+
+“Fair winds and safe travels,” I told him. I held out my arm, like Tigu had done.
+
+He looked surprised, before a small, genuine smile crossed his face.
+
+“Thank you, Master Rou. I hope if we do meet for a third time… it is indeed as friends. I do not think my heart could take another meeting as enemies.”
+
+I snorted at the joke. So he did have a bit of a sense of humor after all.
+
+Finally, with the last goodbyes said, the members of the Shrouded Mountain Sect lined up. Zang Shenhe stood at their head. Nezan was sitting on her shoulder.
+
+She clasped her hands in the gesture of respect and bowed near ninety degrees—an action mirrored by all behind her. Even Zeng bowed low.
+
+“Master Rou,” she replied with a bow. “We were your enemies, yet you have treated us like the most honoured of guests. Is there anything we can do to repay you?”
+
+It was a formality. Shenhe had also approached me last night about this.
+
+“My price is steep. Make right what your ancestors did wrong,” I commanded them.
+
+“Your order is heard. The Shrouded Mountain Sect will rise again, just like the phoenix,” she replied. When she stood, her eyes were burning.
+
+I nodded.
+
+“Then, may the heavens favour you.”
+
+“And you as well, Master Rou,” she said, “Shrouded Mountain Sect! Move out!”
+
+Her voice boomed off the hills, and the cultivators before me disappeared in a burst of wind and snow, beginning their run to the Howling Fang Mountains.
+
+We may have been enemies once. But right now… we had what I hoped to be new friends.
+
+They sped off into the distance, determined and resolute.
+
+And so, for the moment, our home was back to normal.
+
+==================
+
+=================
+
+Editors: Massgamer,  BargleNawdleZouss, Aaron “Pastafarian” Sofaer

@@ -1,0 +1,293 @@
+---
+id: 8035e061-99f9-51ee-9b73-40e1fa77a410
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 34 - Stolen Time, Faded Memories"
+slug: 0039-book-4-chapter-34-stolen-time-faded-memories
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 39
+ownLength: 4842
+unit: words
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2842906/book-4-chapter-34-stolen-time-faded-memories"
+royalRoadId: "2842906"
+---
+
+The remainder of Ranthia and Avyna’s journey proved to be less exciting. The idea of two people travelling at night through a warzone seemed ludicrous, but the region was vast, the sightlines were poor, and the odds of encountering anyone—even those travelling along similar routes—were minimal. Which was why the encounter with the shimagu ambush was so unexpected.
+
+And then, a bit further into their journey, a Reman scouting patrol intercepted them. Because clearly ‘minimal odds’ had ceased to have any and all meaning.
+
+Thank Xaoc, Ranthia knew the men and women, and they recognized the returning couple before any of them did anything uncharacteristically foolhardy. After a brief exchange of greetings, the scouts rushed back to Remera to carry news of their approach—which raised serious questions about whether or not the messenger bird had ever reached the new base commander.
+
+They took their time for their final leg of the journey to make sure the scouts brought word first. After all, neither of them had any desire to unwittingly test Remera’s defenses. The sun was brightening the eastern horizon by the time they finally arrived to find Remera’s gates wide open and a surprising amount of fanfare awaiting them. Namely, a full assembly had gathered to welcome them home. The new base commander, along with his second and his set of advisors—not a familiar face to be seen among them—were front and center. Behind him was a crowd peppered with familiar faces eager to exchange greetings with Ranthia and/or Avyna. Glorine and Gailla were there, of course. But many of the legionaries were just as unfamiliar as the base’s new leadership. It seemed that transfers had, if anything, only increased in her absence.
+
+Before the assembled, the new base commander formally—far too formally, it was outright stifling and awkward—greeted “Sentinel Grace and her consort” and invited them to lunch on the following day to get acquainted and to discuss the strategic role of Remera in the coming years of the war. When he departed, Avyna’s silent amusement at being called Ranthia’s consort became open and musical, and they went through the glacial process of greeting the others that were gathered. But even Ranthia was more engaged and interested than she normally would have been. Not only was she still feeling more like herself than she had felt in years, Remera was home, and she had missed it.
+
+Not that it helped her absorb any of the names she heard.
+
+It was still a tremendous relief when they finally reached their home. Glorine and Gailla had done as promised and kept Avyna’s plants alive, which meant that Ranthia and Avyna were able to dump their bags in a corner and share a quick shower to free Avyna from the grime of their journey. After that, they settled into their sorely missed bed and fell asleep before Ranthia could work up the energy to do anything more.
+
+The next day Ranthia helped Avyna haul goods back to her neglected shop until it was time for her meeting with the new base commander. And overall, Ranthia thought the meeting went surprisingly well. The new man didn’t immediately strike her as dramatically more capable than his predecessor, but at least he was seemingly far more open to her input. Avyna used the opportunity to meet with his advisors and seemed confident that her reign over the base’s economy would continue unabated. Time would tell just how accurate their initial impressions were.
+
+Armed with the lessons and, well, healing that the [Mind Healer] had granted her—reinforced with continual letters back and forth—Ranthia returned to war. She was happier and felt far more whole—far more like the Adventurer that she once was—than she had in a very long time. Even better, she had learned to truly trust Avyna. There were days where she fell short of where she aspired to be, but the jealousy and possessiveness that she had walled herself behind had largely melted away. Her insecurities and fears no longer defined and ruled her. After all, if she truly loved Avyna, she needed to trust her partner implicitly, under all possible meanings of the word. It took time, but as the years passed, Ranthia found that she no longer needed to tether her happiness to some idealized, goddesslike version of the woman that she loved. Truly, the real thing was better than anything her paltry imagination could conjure.
+
+It helped that the new base commander was true to his word. Ranthia was properly fielded against the shimagu, and the stupid towers were abandoned. When a shimagu twin arrived, Ranthia was there to push them away from the main engagement and keep them occupied. The one caveat was that the base commander didn’t want her to escalate a combat engagement, which was (more-or-less) fine with her—if she held back a little, the shimagu couldn’t just train a twin to specialize in countering her. She had no intention of reinventing the troll twin’s fatal mistake.
+
+The best part meant that, when the shimagu failed to bring a twin with them into the battle, she was there amongst the other legionaries and their stalwart allies. She was able to save lives and cull the parasites that threatened Remera.
+
+As the Legions recovered from the Disaster of Flame and the average levels of the legionaries increased, Remera at last resumed its primary function. Legions and other Coalition units were often hosted by the base while they resupplied and prepared for strikes against targets deep within shimagu territory or when they returned with varying degrees of triumph under their collective belts.
+
+And when Glorine and Gailla popped in unannounced with a few small gifts to surprise Avyna on her birthday and found Ranthia serving her beloved’s every whim while wearing nothing except the skimpiest and least functional apron elven [Artisans] could dream up, Ranthia was able to swallow her reflexive embarrassment and owned it—and she even got ideas. The next year, Glorine and Gailla were treated to dinner for their tenth anniversary, cooked and served by two beautiful and charming serving wenches—which let the married couple focus on one another for the night while their every need was met.
+
+“At this rate I’m going to go completely grey before the season ends!” Gailla’s complaint heralded the couple’s arrival for dinner.
+
+“You look lovely, stop worrying so much.” Glorine playfully chided her wife before she waved to Ranthia and Avyna. The food wasn’t quite done, but that was fine—Glorine and Gailla were used to making themselves at home.
+
+Though Avyna had to nudge Ranthia after her friends’ concerns about aging left her briefly distracted—neither of them wanted the sauce to burn! After all, meatbaths made the dish incredible, but a light application of a peppery sauce elevated the roast to an even higher level of deliciousness. Ranthia nodded to her beloved and refocused, forcing herself to swallow her own guilt for the moment.
+
+Her closest friends (with apologies to Tertia for being displaced by time and distance) were concerned about their signs of aging while Ranthia was exactly the same as the day that she met each woman—and it wasn’t as though she meant to hide the truth, but she hadn’t ever gotten around to telling them about her own immortality. Still, terrible misstep in her friendship or not, she wasn’t about to ruin any aspect of their dinner. Her pride as an unskilled cook would never allow it! Honestly though, she was overdue to finally tell them. It had been roughly nine years since she and Avyna returned to Remera, which meant it had been… gods and goddesses, about eighteen years since she had met Glorine, and not much less since she met Gailla.
+
+What could her friends have possibly made of the lack of changes to her own appearance?
+
+“Okay Ran, be honest with me… have you taken a [Chef] class without telling us?” Gailla’s demand wasn’t where Ranthia had feared where that question was going.
+
+“Practice makes as close to perfect as you can get without the System’s influence.” Ranthia replied, unable to keep the note of pride out of her voice. She really had fallen in love with cooking and was proud of every minor tweak and innovation she discovered that made the resulting meals just a little tastier. Alas, there were depths of flavor that her friends lacked the vitality to appreciate, but at least Avyna could appreciate those.
+
+“She’s just jealous because there’s only like… four things she can cook.” Glorine playfully threw her wife under the proverbial wagon.
+
+“So complains the woman that caught a pan of vegetables on fire the other day!” Gailla melodramatically retorted.
+
+“That was last month!” Glorine protested, moments before she succumbed to her own giggles.
+
+Once the shared mirth settled down Avyna served them the stronger drinks that she had chilled using an enchantment and the mood settled into something cozy and contemplative. …Which left Ranthia inwardly squirming until she finally had to say something.
+
+“This is awkward to say after so long, but after your talk when you came in… Well, I’m supposed to keep this quiet, but the two of you deserve to know that I’m also immortal, like Avyna is.” The words tumbled from Ranthia’s mouth. They weren’t quite the exact words she had planned to say, but her mind seemed to have lost the lines she had inwardly rehearsed while she finished preparing the meal.
+
+“…Um, we kind of figured.” Glorine admitted a moment or three into the resulting silence.
+
+“Ugh, I’m so sorry for not telling you, I just—” Ranthia started trying to explain herself.
+
+“Ran, let me stop you there. I have two questions.” Gailla interrupted. She waited for Ranthia to nod before she pointed her thumb at Avyna. “Does your immortality have anything to do with you having sex with her pretty much constantly?”
+
+“No! I actually seized before I even met her.” Ranthia admitted. Her mind wanted to insist that the words were an accusation that she needed to defend against, but that was nonsensical. But even almost a full decade of effort wasn’t enough to completely heal her of her ridiculous fears, unfortunately.
+
+“Mmhm. And I assume it isn’t anything you could use on us?” Gailla seemed unsurprised at the first answer.
+
+“No, it’s unique to one of my classes and only affects me.” Ranthia decided to forgo the entire explanation.
+
+“Then I’m not mad. It’s your business girl, and I can definitely understand wanting to keep it a secret. Not that it’s hard to notice for anyone that’s been around since day one.” Gailla replied with a shrug.
+
+Glorine nodded alongside her wife, then changed the subject by asking Avyna about when her promised new books for her shop were going to arrive.
+
+And Ranthia just sat there, feeling like an idiot both for waiting to tell her friends and for expecting her overdue reveal to be some dramatic revelation that left them in shock. The weight of the moment amounted to almost nothing. She had, once again, managed to underestimate the people around her.
+
+[*ding!* [Image Recall] has reached level 400!]
+
+Ranthia groaned with relief and flopped bonelessly onto the chaise lounge. She could feel the mounting headache pressing against the back of her eyes after that practice session, but that was nothing new—if anything, she was to blame for refusing to stop until she finally got the level. She was still grateful to her beloved for helping her to come up with the training exercises. Creating images from scratch, without relying on her own self as a base, was complicated and exhausting, but [Image Recall] was clearly loving the effort.
+
+The biggest gripe that she had was that, even after several years of running the exercises (well, while shimagu activity permitted it), her results still felt ‘off’ every time, for reasons that were increasingly difficult to identify. Something was just… slightly incorrect about the images every time, and rarely were any two wrong in quite the same way. Still, it was great training, even with the headaches and mental fatigue that it invited.
+
+“<How did it go that time, my lov—oh. Oh dear.>” Avyna froze almost the instant that she passed through the privacy curtain.
+
+“<Oof, I knew it wasn’t good, but it’s that bad?>” Ranthia’s unfamiliar and uncanny face pulled an unintentionally exaggerated wince.
+
+“<…Perhaps you should return to your normal body, my love. And remove that image.>” Avyna pleaded, only half-jokingly.
+
+Ranthia sighed and nodded her consent before she shifted back to one of her usual images and dismissed the new one.
+
+“<Thank you! Glorine delivered your messages that arrived with today’s convoy, my love. There are multiple scrolls from a sender in Remus that is unfamiliar to me, as well as a letter from your [Mind Healer]. I shall bring you the cipher book in a moment.>” Avyna offered Ranthia a sweet smile to accompany her cruel, cruel words.
+
+Ranthia whined with only mildly exaggerated despair.
+
+“<I already have a headache; I can’t unravel an encoded message from that fiendish elf! I will perish, Gemheart. If I make the attempt my mind will shatter, and I will be a drooling mess for my final days!>” Ranthia made her desperate appeal for mercy.
+
+“<If that is the price I must bear, I shall. I will not be solving and translating this one for you.>” Avyna answered solemnly.
+
+Which was fair, Avyna was neck deep in trying to solve the deep budget cuts that Legion Command had inflicted upon them, which was threatening to undermine the base’s fundamental viability for the year. Unfortunately, that was often the price of success—their safety net was getting revoked so the Legions could shove the funds at those that failed to get their spiraling expenses under control.
+
+But still!
+
+Ranthia made a piteous noise, but Avyna remained bereft of mercy. Ranthia took a deep breath or eight before she made her own way through the curtains, where the promised messages awaited her upon the table. The tightly folded, clean paper from her counselor promised a long message that discussed her fictional distant kin—all code that had to be translated, an obnoxious measure to ensure Ranthia’s privacy while she discussed her most private thoughts remotely with the woman—waited next to a neatly bound set of nine scrolls.
+
+The letter that required Ranthia to use a book to transcribe the actual message (let alone reversing the process for her response) promised to be painful, so Ranthia shamelessly chose to forgo any and all pain for the moment. She untied the bundle and plucked the first scroll from the pile.
+
+Salutations Sentinel,
+
+I don’t know if this message will reach you, but the Ranger I spoke to said your name wasn’t on some wall, which meant you were alive. She always meant to write you, but the costs… Well, it’s not like we need the money set aside anymore. I—wait, are you writing all of this? Ugh. Just let me start over!
+
+My apologies for that, Sentinel. I should lead with an explanation. My name is Lucima, I was the wife of a woman you were acquainted with, Hexara. My wife passed away last season. I recently rediscovered the various letters she planned to send to you. I am unable to bring myself to read them still, so I packaged the whole lot to have them delivered to you.
+
+There’s something wrong with this city. My wife was far from the only one to become sickly and die here. The city officials continue to insist that nothing is amiss, but Hexara was never so weak when we lived in Ariminum. I wish I hadn’t brought her here. If there’s anything you can do…
+
+Well, Hexara always spoke highly of you. I’ll end this here; this wonderful, scholarly gentleman is charging me by the word.
+
+Ranthia stared blankly at the message, unable to move.
+
+“<What is wrong, my love? Why are you crying?>”
+
+Avyna’s gentle voice shook Ranthia out of her reverie. She hadn’t even noticed the tears that were flowing down her face. Ranthia carefully set the message aside and wiped at her eyes before she got tears on any of the vulnerable scrolls.
+
+“<Sorry, Gemheart… Hexara, my ex that I told you about? She died.>” Ranthia explained, unable to quite keep the raw pain out of her tone.
+
+By Xaoc, Hexara was still so young! She was only a few years older than Ranthia was…
+
+…Not that Ranthia managed to recall how many years apart they had been. It hadn’t been much, had it? Three? Five? Eight at most, certainly. Probably less. That meant that Hexara had been under sixty when she passed.
+
+That was less than half the life she should have lived, safe within a secure city.
+
+“<My condolences, my love. I know that you had yet to work out things with what happened between the two of you. The mortals that we meet are all too often lost before we realize their time nears.>” Avyna offered soothing words while she hugged Ranthia gently from behind.
+
+“<She should have lived far longer.>” Ranthia tried to explain, but it felt atypically difficult to form the words that she wanted to say.
+
+“<I think that you will find that you shall often feel that way about mortals. …Oh, this is actually a good learning opportunity for you! You should create a form based on her! …Do not give me that look, my love, I am well aware that you dislike trying to copy the form of another person. What I was suggesting is that you could create a new form that uses her as an inspiration. Similar to when you created a form inspired by a combination of the two of us. I suggest doing the same for her, as a memento of her fleeting existence.>” Avyna’s words carried an unexpected note of anticipation.
+
+The strange lilt to the words and the unexpected suggestion were enough to quash Ranthia’s half-baked argument about human lifespans.
+
+“<Easy enough. But are you sure you won’t mind, Gemheart?>” Ranthia asked. She had created the image that Avyna spoke of as her idea of what their child could look like. She had come to accept that she was willing to indulge in physical pleasures alongside the woman she loved, but creating a faux-child with another woman felt like it was crossing some sort of line!
+
+“<Not in the least. It will be good for you for many reasons. And I fully expect that this will convince you that you need an immortal memory skill like my [Chest of Experience].>” Avyna answered, before she kissed the back of each of Ranthia’s ears and stood.
+
+“<It’s not that I don’t want one, it’s that I don’t have a slot!>” Ranthia repeated her usual response to Avyna’s insistence.
+
+“<Finish reading your mail, then you shall see what I mean. I would love to stay and watch your upcoming struggle, my love, but I do have a meeting with the base commander shortly. Do not give in to your grief. I will see you soon.>” Avyna promised.
+
+They shared a quick kiss before the elf hurried out. It was abrupt, but alas, Ranthia fell in love with a woman that considered being late to a business (or business-adjacent, it seemed) meeting to be the height of rudeness. Still, Ranthia had enough presence of mind to appreciate that her chosen partner had expertly defanged the grief that had briefly overwhelmed her. The pain was still there, but Ranthia felt ready to face her grief—just as she had been taught.
+
+The rest of the scroll set contained eight letters, written in Hexara’s own hand with smudged charcoal. Many of the scrolls were left incomplete, but they still painted a picture of the life of the woman that Ranthia had once hoped to pledge her heart to and grow old alongside.
+
+In the first scroll, Hexara wrote to Ranthia. She had just moved across Remus to the city that was established when the formorians were defeated once and for all, Augusta. Her wife had a great piece of property through her uncle, so they chose to move. The house was, in Hexara’s words, gorgeous and airy. And she and her wife were saving up so Hexara could open her own salon, as the competition was both minimal and run by men. Which meant that Hexara was all kinds of confident that she would do wonderfully in their new home.
+
+In the second scroll—also addressed to Ranthia—Hexara had just put in an offer for what she described as the perfect location. It had been a bit expensive, but her wife’s family offered to loan them the money. The tone of the letter was bubbly and excited, but it was tragically unfinished and cut off partway through Hexara’s descriptions of her future business’ layout.
+
+In the third scroll, Hexara’s salon had just opened. Hexara had been forced to delay the grand opening because she came down with a minor ailment, but she was mostly grateful that her wife never caught the sickness. She wrote the letter between customers; it was disjointed but it painted a picture of a woman confident that she had found her calling in life.
+
+The fourth scroll was a bit more somber. Hexara had hired her first employee but almost immediately thereafter she became ill again. She was impatient to return to work and much of the letter lamented how many extra burdens she had accidentally put on the younger woman that she hired. There was also a section at the end that suggested that the employee might make a good match for Ranthia if she ever settled down from her Ranger career, though someone had made an effort to rub those charcoal words off of the scroll, which left them faint.
+
+The fifth scroll, the final one that was addressed to Ranthia, had an unmistakably defiant tone. Hexara had heard that Ranthia was dead, but she refused to believe it and was writing in protest of the news. Her wife had hired a [Healer] that was advising Hexara to rest, but she was stubbornly manning the front desk of her business. She even noted that she was planning to give her newest employee some pointers as soon as she finished writing the message, though the next section only bore an incomplete thought about hoping Ranthia would visit someday.
+
+The sixth scroll was the first that was written for Sentinel Grace, rather than Ranthia. Hexara thanked her for surviving—literally, “thank you for surviving” were the first words after the greeting—and proudly boasted that she would continue to survive too. Allegedly, every time they splurged for a [Healer] she was renewed, but within a season she would be forced to use her cane again. Yet she refused to let a little weakness get her down. She had four employees and her shop’s future was bright, which meant that her mood was bright, no matter how her body betrayed her.
+
+The seventh scroll was largely focused on Hexara’s wife. Hexy wrote about how grateful she was to have met a woman who truly cared for her and supported her. She had been bedridden—again—but had recently recovered. The word choices implied that she carried more than a bit of guilt about what she put her wife through, and the letter ended, unfinished, shortly after Hexara pledged (most likely to herself) that she would start taking better care of herself.
+
+In the final scroll, Hexara spoke of problems at her salon. Two of her trained stylists had left for a competitor that promised better pay and more reliable ownership. Her new front desk girl was like her—sickly and chronically weak—but Hexara wrote that she was confident that the young woman could handle the front desk. Though she confessed that she mostly hired the girl to help her earn money for treatments. But Hexara’s own condition had deteriorated further—Ranthia could tell from the moment she opened the scroll. Her ex’s handwriting was larger and clumsier than it had ever been, and near the end of a rambling section about her business’ escalating expenses, Hexara offhandedly mentioned that her eyes seemed to be struggling a bit as of late. Hexara also stated that her wife had been trying to convince her to tap into their emergency funds to visit a [Healer] again, but Hexara chose the path of stubbornness and believed that she would once again improve on her own.
+
+The scroll was unfinished, and the final words were so poorly written that they remained beyond Ranthia’s ability to parse out their meaning.
+
+Ranthia sat with the scrolls around her until she felt too agitated to keep sitting still. She penned a quick message to Sentinel Night about strange deaths and health problems in Augusta and asked if there was anything the Remus-assigned Sentinels could look into. After a quick trip out of her home to see that letter sent off, Ranthia shifted into a fresh body—her face had gotten sticky and messy again at some point—and settled in to make the image Avyna had suggested.
+
+Ranthia had improved immeasurably in her creativity and consistency with her images since she made the image of her fictional daughter with Avyna. Across the board she had grown—substantially. A single glance at her System-generated sheet proved it. Each number increased Ranthia’s confidence that she could make a new image of her own appearance blended with Hexara readily. A way to remember a woman that she had once found some form of love with.
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 50]
+
+[Mana: 596335/633420]
+
+[Mana Regen Rate: 403547]
+
+[Stats:]
+
+[Free Stats: 0]
+
+[Strength: 40327]
+
+[Dexterity: 82123]
+
+[Vitality: 82846]
+
+[Speed: 80633]
+
+[Mana: 63342]
+
+[Mana Regeneration: 76438]
+
+[Magic Power: 64381]
+
+[Magic Control: 52302]
+
+[Class 1: [Diffuse Reflectance – Mirror (695)]]
+
+[Mirror Spirit: 695]
+
+[Scattered Reflections: 695]
+
+[Echoes Reflected: 370]
+
+[Pure Reflections: 695]
+
+[Persistent Imagery: 695]
+
+[Ideal Reflectance: 695]
+
+[Distorted Likeness: 303]
+
+[Reflections of Reality: 467]
+
+[Class 2: [She who Dances with Chaos – Void (708)]]
+
+[Void Affinity: 708]
+
+[Rhythmic Grace: 708]
+
+[Void Edge: 708]
+
+[Flowing Momentum: 708]
+
+[Vision of the Void: 708]
+
+[Sustained Chaos: 660]
+
+[Echoes of Devastation: 708]
+
+[True Grace: 454]
+
+[Class 3: [Harbinger – Magic Metal (208)]]
+
+[Magic Metal Authority: 208]
+
+[Adamant Commander: 208]
+
+[Unbreakable: 208]
+
+[Mine!: 107]
+
+[Adamantium Symbiosis: 208]
+
+[One With Chaos: 177]
+
+[Higher Power: 182]
+
+[General Skills:]
+
+[Divine-Touched Identify: 708]
+
+[Ranthia’s Covenant with Xaoc: 208]
+
+[Sentinel’s War Supremacy: 708]
+
+[Submind: 708]
+
+[Combat Awareness: 708]
+
+[Fast Learner: 523]
+
+[Image Recall: 400]
+
+[Sexy: 447]
+
+The young woman that Ranthia envisioned would be based off of Ranthia’s 18-year-old image and, as an easy place to start, she would give the image Hexara’s eyes. The green of that tiny gem on those rings that Ranthia still kept in their safe box was easy to picture; she saw her treasures somewhat often when she felt a need to assess the few relics of her past that she still owned. Okay, yes, Hexara’s eyes were a few levels away from that exact shade of green and Ranthia couldn’t remember if it was higher or lower, but that was a minor detail—the exact shade from the rings was good enough! And most of the general features were even easier. Hexara had a somewhat more generous bust than Ranthia, which she chose to adopt for the image, along with Hexara’s somewhat paler skin tone. Honestly, nothing about the exercise seemed particularly daunting.
+
+And then she hit the nose.
+
+Hexara’s nose… Ranthia just couldn’t seem to recall its shape. It had been a touch bigger than Ranthia’s own, she was fairly certain, but beyond that…
+
+Okay, that was weird, but Ranthia refused to freak herself out over it. Even if she had always trusted her memory implicitly, it was a minor detail. Heck, she tended to pay little attention to noses in general, so it even made sense. She was fine, things were going well overall.
+
+Except, as she moved on, she found herself stymied more often than not. Had Hexara had clear skin? She must have, she also had [Sexy] and it was tied to her [Stylist] class! …Yet in Ranthia’s increasingly hazy memory, she felt like Hexara had light freckling too.
+
+Avyna returned to find Ranthia on the verge of tears. She hadn’t felt so vulnerable and unsure of herself since some of her most difficult sessions with the [Mind Healer]! She had completed the assignment, yes, but… Gods and goddesses, she just felt no confidence that the image reflected Hexara, rather than a random stranger with a few superficial similarities to Ranthia’s former love.
+
+Avyna still doted on and complimented it, but… For the first time, Ranthia was ready to admit that Avyna was right—she needed her own [Chest of Experience]. Not that it changed the fact that there was no General Skill that she was willing to part with. All it did was redouble her eagerness for [Combat Awareness] or something—anything—else to finally merge.
+
+Because, by Xaoc, she never wanted to forget any other precious memories.

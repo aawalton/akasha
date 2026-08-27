@@ -1,0 +1,321 @@
+---
+id: 3362e452-cc46-5176-bc83-24591b8a6f33
+page-type-slug: story-chapter-royal-road
+title: "v5c72: The Scouring of the North"
+slug: 0182-v5c72-the-scouring-of-the-north
+partOf: beware-of-chicken
+position: 182
+ownLength: 3202
+unit: words
+ownProgress: 3202
+publishedAt: 2024-12-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1936252/v5c72-the-scouring-of-the-north"
+royalRoadId: "1936252"
+markedReadAt: "2026-06-29T18:57:33.692Z"
+---
+
+The days after the battle at the northern base had been immensely trying for Yulong. His Master’s defeat had sent shockwaves of fear through the rank and file—but he had managed to hold them together, if barely. Worse, Chixia and Huian were both missing. and after the second day of no response he had to assume that they were both dead.
+
+The only saving grace were the contingencies—some planned by Yulong, but most by his Master. He set those all into effect, constantly sending the coded pulses down the transmission stone relays—their enemy was one who could fight his Master and win, who knew they had bases in the north, so he sounded a general dispersal and evacuation. They thankfully had time—for from what he had been able to smell, the unknown man had been on his last legs at the end.
+
+And so the base was a hive of activity. The priority documents and specialists had gone first, speeding east, but they had a lot of bases in the north and a great number of their experiments were too volatile to easily move—and some of them were his Master’s personal projects, watched over only by shackled spirits. Going in and personally retrieving them would take time.
+
+Yulong was in the eye of a controlled storm, issuing orders, reassuring his followers, and making sure everything ran smoothly. Losing the main northern base and his Master’s defeat were both devastating setbacks… but Yulong had faced many setbacks in his life. Getting crushed into the dirt just meant you had to stand back up again—no matter how disgraceful you looked covered in mud. All that mattered was that you were alive—that you could try and struggle again and again and again. He could still feel the thin thread of connection to his Master, so the old man was alive. In time, they would recover their strength.
+
+“My Brothers and Sisters, keep your heads held high! This is not the end! I know the fires in your hearts have yet to burn out!” Yulong encouraged the flagging followers, clapping one of them on the shoulder. He saw the determination return and the man puffed out his chest.
+
+“I won’t fail you, Heavenly Demon!” he shouted.
+
+“Baishou, you’re on the next one out. West through Grey Shard Coast, and then coordinate from there,” Yulong commanded.
+
+“Yes, Heavenly Demon!”
+
+Yulong strode forth and commanded and comforted for three days. He did not sleep once, even when he felt exhausted, and even when he felt an odd tugging, trying to lull him to sleep. He must have been more affected by the fight than he thought.
+
+“Young Master,” an exhausted voice called out. A voice he knew.
+
+“Beidou! Zhigong!” he exclaimed, a wide grin overtaking his face. His two oldest companions were definitely worse for wear. Zhigong was missing an eye, and Beidou’s rib cage was mostly caved in, but they lived. Relief flooded his soul. “How did you manage to survive?”
+
+“Dug our way out of the collapsed tunnels, Young Master, then ran the rest of the way,” Beidou answered, her voice soft and raspy.
+
+He smiled and embraced them both. “You two are on the next transport out, no arguing. Rest and recover. I’ll take care of this and see you soon.”
+
+Things were looking up… which is when the transmission stone array began to buzz. It vibrated angrily. Yulong touched the artifact. The line hissed and buzzed, garbled exclamations coming over the line—before he felt a pulse. For a moment, the transmission stabilized.
+
+“—can anyone hear me?” Yulong’s eyes widened. Things really were looking up!“Huian! You still live—”
+
+“There's no time! The Cloudy Sword Sect has mobilized! They’re heading north!” Huian’s voice was urgent.
+
+Yulong’s heart seized in his chest at the words, but he forced himself to calm.
+
+“That is indeed worrying news, Huian, but the straits are not so desperate yet. All the arrays were destroyed. We have time, and the evacuation is well underway.”
+
+“You completed the destruction?” Huian asked. Their voice was terse, but Yulong could feel some of the tension starting to drain away from it. The Cloudy Sword Sect mobilizing was indeed a worry, but they would be stuck scouring the vast Sea of Snow, their bases thousands of Li apart and deep underground.
+
+“Yes, it is done according to our Master’s will.”
+
+There was a pause and more static.
+
+“What about the transit base I used? Somebody took out the entire set of reserves.”
+
+“I spoke to those you left to guard it,” Yulong said, walking over to the wall and pressing it. It brought up every active base. “They completed their task and blew the rails—”
+
+Yulong paused.
+
+He stared at the base in question.
+
+Instead of a dull, dark pearl that should have appeared, showcasing a destroyed formation, instead, the dot was yellow.
+
+That colour indicated that the formation was currently active, but the connection had been interrupted.
+
+His eyes slowly widened.
+
+“Yulong?”
+
+The conversation he had had with the transmission stone operator of that base once more came to mind. The brief pause. The dispassionate tone.
+
+“Yulong?” Huian tried again.
+
+“Protocol Silence,” was all Yulong said. His words hung in the air.
+
+The transmission stone cut out.
+
+Yulong’s freckles burned with sickly purple light. A crown formed above his brow. His Qi burned, surging down the rails, brute forcing every break in the connection and sprinting to the formation. He activated a talisman his Master had given to him, darkness swirling around Yulong’s body. He felt blood fill his mouth.
+
+He touched the formation, the decompiled formation, and activated the kill command. He could feel the Qi of the one examining the formation. Dispassionate interest was the only thing he could glean from the smell of fresh parchment and ink.
+
+The formation detonated, but Yulong wasn’t foolish enough to think that was the end of it. His hand slammed into the wall, activating the northern network.
+
+“All bases, commence Operation Ashes. Retreat and burn it all to the ground. If you come under attack, release every experiment.” With a heavy heart, he spoke the next part. They would evacuate all they could, but… “This is my last order to you.”
+
+There was a pause as the enormity of the situation sunk in.
+
+One of the transmission stone operators looked sick.
+
+“Glory to the Heavenly Demons,” he whispered. His eyes burned with conviction, and Yulong bowed his head at the man’s resolve.
+
+================================
+
+Floating high above the captured demonic base, its ruined corpse still smoking, twelve swords stayed in position around a skyship. The cultivators standing upon them had eyes of steel, and their backs were ramrod straight.
+
+The twelve swords were joined by two more. On one was a disciple of the Cloudy Sword Sect.
+
+On the other, an old man stood tall.
+
+“I swore an oath that I would see these wretches destroyed, and it would not do to sit out this assault. So, I ask all of you… shall we?” Shen Yu inquired. His smile was all teeth.
+
+The artifacts created by Elder Yukong began to glow.
+
+And like shooting stars the cultivators blasted towards the horizon, each one headed for a different base.
+
+===================================
+
+Throughout the Sea of Snow, transmission stones blared alarms. Cultivators rose to their feet, their expressions grim. Archivists went from preserving information to destroying it. Last orders were given. Suicide seals were prepared.
+
+Operation Ashes was in effect.
+
+The demonic cultivators were grim and determined. Their conviction, fanatical.
+
+And it meant little as the swords began to fall.
+
+================================
+
+It started quietly.
+
+The first of the demonic cultivators had no idea what had even happened. What simply looked like fog seeped into the base—a common occurrence.
+
+Then, the guards began to droop. Their eyes grew heavy and their shoulders began to slump. Their breathing became shallow, and shallower, and shallower as their muscles locked up. Some, in their final moments, thought they could see a towering forest lurking in the mist.
+
+Their hearts stopped. Silence reigned.
+
+Elder Shou of the Hidden Forest simply walked through the front gate. The pollen of the Heaven’s Gazing Bluebell did its work like it always did.
+
+==============================
+
+“We’re going to be ready for anything!” the leader of the base roared. “Not one step back! Glory to the Heavenly Demons!”
+
+The defenders, on their emplacements, and supposedly ready for everything, could only look on in confusion as the formation protecting their base suddenly powered down. The transmission stones went silent. The lights turned off.
+
+And then, all the doors opened and the formations reactivated—targeting the defenders.
+
+Yukong of the Subtle Scripture cocked her head to the side as the brief screams cut off.
+
+“Hmm, a bit disappointing. The variety wasn’t bad, but such simple, brute force methods…” she muttered.
+
+==============================
+
+A great Falcon surveyed her quarry from the heavens. She stood upon the sky, her ice blue eyes rendering judgement.
+
+“Perish,” she commanded her foes.
+
+Her words were heeded well. Where once there were people, preparing for a battle, only dead, frozen sculptures remained.
+
+Tianzhe Minyan turned and kept flying, leaving a beacon for her ship to clean up and secure anything of value.
+
+=================================
+
+The blades the disciples of the Cloudy Sword Sect stood upon shuddered and then shifted. Their forms became indistinct, hazy, like the disciples were simply standing on the clouds themselves.
+
+Twelve sets of the Raging Cloudy Sword Formation were deployed.
+
+Across all fronts, the butchery began. The swords came from nowhere. Guards died without a word, artificial Demons fell without fanfare, and when one man did get lucky and blew up his own base—the detonation was watched with dispassionate eyes.
+
+How could the explosion kill what had never been in the base in the first place?
+
+==============================
+
+Ji Min ran down the halls, tears in her eyes. Her courage failed her, Heavenly Demons forgive her, her courage had failed her. She, one of the Honoured Researchers taken in by the Demonic Master Himself.
+
+The others, their leader included, had all sacrificed themselves to their Master’s experiment when the base had first been breached. Min had been in awe of the massive construct as it had risen, its eyes burning and its Qi so oppressive it had nearly killed Min right then and there.
+
+A beast in the Earth Realm. Such was its might that their enemy had even paused, taking the creature in. A lone woman, who had obliterated everything in her path, hesitated.
+
+The dark haired woman had looked upon the construct, had tasted its might—and then a slow, happy smile had crawled across her face.
+
+Their clash had destroyed the construction chamber. Their battle was making the heavens shake and the earth rumble… And the demonic construct’s roars of fury were slowly turning into howls of pain.
+
+Howls of pain that were getting closer and closer—impact.
+
+Min’s lower body disappeared as the construct was driven back through the stone wall. She lay on her back. Their magnum opus ripped loose a beam of ravening Qi, and the woman cut it in half, her blade making a mockery of the corrosive breath.
+
+The last thing Min saw was the woman. Her clothes were singed, she was cut and bleeding, but her smile was the brightest thing Min had ever seen. The woman split the construct in two, and one of the halves fell atop Min.
+
+Xiao Su Ge was having a very good day.
+
+=============================
+
+The clouds were not the only thing that descended. Those within a northeastern fortress could only pray as something else was brought to bear.
+
+The first drop of rain that hit the fortress created a crater the size of a wagon.
+
+The second did the same. And then the heavens opened.
+
+The deluge hit the fortress like a manic drummer, making the earth quake to its primal beat.
+
+But this was only the prelude.
+
+Within a deep, dark stormcloud, Lanlong Bailu and Wakokukin Seiyu joined hands.
+
+From the sky, a ravening dark finger descended, a spiral that looked more like the maw of some great beast. The snow, Li deep in places, melted and turned into pitch black water.
+
+The nightmare sea of black began to rise.
+
+A hurricane and a tsunami formed in the middle of the continent.
+
+The gates were breached. The protections were worthless.
+
+The Storm Wings—also known as the Disaster Wings by those who had to face them—of Soaring Heaven’s Isle Sect wiped another landmark off the map.
+
+====================================
+
+Deep beneath the earth, a squad of cultivators sprinted. They were silent, their eyes focused and their expressions grim.
+
+“Left Here! Prepare the Demon Spike!” the leader, Huang Mo, barked as they came to a bend in the tunnel and walked into an enormous cavern. It had been slowly, painstakingly dug over generations, each one of the miners shaving the barest bits of dirt from the ceiling, to get them closer and closer to their prize—the massive well of Demonic Qi in Iceheart Forest.
+
+One day it would have been taken so that the worthy could use it. But now, with the artifact in their possession, they would instead destabilize the Qi—break it out of its prison to overwhelm the Spirit Beast and send it on a rampage south. A distraction that would bring to ruination an entire province.
+
+The cultivators went about setting up their formation. They worked feverishly, knowing time was of the essence. Well practised, the formation was deployed quickly. The leader raised his hand to give the order… and all of a sudden he found he couldn’t move.
+
+“Oh? Did you believe I would not notice?” a calm, pleasant voice asked as something began to press down on all of them. The intent was nothing like Mo had ever felt before. Heavier than the heaviest mountain. Colder than the deepest cold.
+
+Mo directed his eyes up, where a tiny spike of ice poked through the ceiling. It was glowing now, as ice crystals began to drift off it.
+
+‘Did you think I would not discover your designs? Your intent to desecrate the graves of the honoured martyrs?’
+
+The voice was growing in wrath and hate with each word. It could have killed them in an instant, that much the leader knew.
+
+But to their growing horror, Mo realised the voice wanted them alive.
+
+A titanic head formed from the ice crystals. Its eyes burned with fury. Its head was crowned with an aurora.
+
+‘You dare tunnel under here. You dare invade my home. You dare use me as a shield?! Little worms, little worms, you are far beyond courting death.’
+
+The Spirit Beast’s power reached down and ripped.
+
+Their bodies iced over and shattered as a wall of frost filled in the cavern, destroying everything in its path.
+
+But death did not find them. Instead, they were frozen to the world and pulled up through the earth until they beheld the beast. Its body, pierced with thorns and the roots of a tree. A cadaver, with burning eyes, crowned by a gem of purest blackThe Giant Spirit beast leaned in, moving a withered neck, and its lips formed into a smile.
+
+“You want what I guard so badly?You desire the essence of the Enemy? Very well, little worms. I shall give it to you.’
+
+Panic rose in Mo’s soul.
+
+The little shards of ice were pressed up against, then into the frozen mass above.
+
+The demons within were frozen, but some parts of the gem were far from inert. In the deepest recesses, a vile liquid swirled, the crystallization of hate.
+
+Ten human souls were unceremoniously dumped in.
+
+The churning liquid paused, the feral intellect within focusing on the new additions.
+
+If the human souls had mouths they would have started screaming.
+
+======================================
+
+He Who Sweeps the Forest Floor Of Snow and Opens the Way let out a snort of disdain, then turned his eyes to a small sword and a little floating amulet, shuddering and pointing the way.
+
+He would have to thank Shen Yu later for the gift.
+
+Ever since the little ones had left, Forest Sweeper had been in constant communication with his kin, searching for more of the places where the Enemy had tried to hide. Forest Sweeper turned his head to the heavens and bellowed. His voice echoed across the wind and the sky, making the very world rumble in his wrath.
+
+The sky flashed and a great aurora formed, covering the sky in maps and locations.
+
+Maps and locations others saw.
+
+=============================
+
+All across the north, giant heads were raised and the world shook.
+
+From out of the snows and the mists, titans advanced.
+
+Members of the Heavenly Demons Organization that tried to flee on foot could only look on as the kings of the north marched, a mantle of storm and ice their panoply. Their crowns were as big as castle battlements, edifices of bone that let all know of their might and majesty.
+
+In their coming was the unstoppable roll of thunder, their hooves shaking the firmament.
+
+And in their passing was a world scoured clean.
+
+==============================
+
+A man descended from the heavens as the Thunderhooves finished off another group of stragglers.
+
+Three great beasts paused, knowing that this man was beyond them. Yet still they formed up, steam issuing forth from their nostrils, glaring at the man before them
+
+His feet touched the bare earth and he addressed them.
+
+“Might you be kin of He Who Sweeps the Forest Floor Of Snow and Opens the Way?” he asked, his voice tinged with nobility.
+
+“We have that honour,” the biggest of the beasts declared—and then, to their surprise, the man bowed.
+
+“Xiao Ge, Elder of the Cloudy Sword Sect, greets the Righteous Heroes of the north,” he intoned, his hands clasped in the gesture of respect. “Shall we slay the Great Enemy together?”
+
+The Spirit Beasts deliberated for a moment… before deciding that the arrangement was agreeable to them.
+
+===========================================
+
+The voice of the Emperor watched it all. He stood upon the air, his hands behind his back. He was serene.
+
+He looked upon the devastation as a god, high above the concerns of the world.
+
+The Voice was satisfied.
+
+===================================
+
+Yulong ran. He ran as hard as he could, as fast as he could, staying in the darkness. Staying barely one step again. Without Huian’s warning, he would be dead.
+
+All he could do was curse. Curse and rage impotently as centuries of work were obliterated.
+
+He could feel his freckles itching. He could feel the fury in his gut. He committed each of the fallen to his memory.
+
+He could do nothing now but try to survive.
+
+=========================
+
+Upon a flying sword, Shen Yu stood. His smile was wide and toothy. He looked down at a sundered fortress, the only thing left of it a rent in the ground.
+
+“See, Lu Ri? That is how you cut through defensive wards. Now, you try.”
+
+“Yes, Master Shen,” the man stated, his voice mild. “Shall I attempt the next one?”
+
+“Indeed you shall,” Shen Yu decreed.
+
+He had sworn to scour the north—and now, he was filling his oath. Shen Yu could feel it in his bones.

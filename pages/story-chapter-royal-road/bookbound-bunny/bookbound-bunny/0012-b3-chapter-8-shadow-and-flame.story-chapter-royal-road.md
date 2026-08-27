@@ -1,0 +1,181 @@
+---
+id: 7e773e67-de18-574b-9f35-50ab72293b3e
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 8 - Shadow and Flame"
+slug: 0012-b3-chapter-8-shadow-and-flame
+partOf: bookbound-bunny
+position: 12
+ownLength: 2137
+unit: words
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3070364/b3-chapter-8-shadow-and-flame"
+royalRoadId: "3070364"
+---
+
+Sitting around the fire, Lily was busy designing the modified shadow glyph with precise flicks of her wand. Now that she'd experienced this level of glyphs, she almost didn't want to look back at simple ink and chalk anymore.
+
+Although that will probably change when it comes to enchanting items. I don't think my wand can engrave or sew.
+
+[I must say this trip into the dungeon is quite the opportunity. I didn't think we would get unsupervised access to the dungeon so early on.]
+
+Lily nodded long, still listening but mainly concentrating on the glyph.
+
+[I'm surprised you haven't been pulling more into your Mana Core for refinement.]
+
+"Lotte and Thomas need it too… Especially Lotte," Lily whispered. "I don't want to be greedy, and it's not like our situation is so dire anymore, right?"
+
+[Ah, good, I thought that might be the case. I was worried you had perhaps forgotten. As for our situation, I agree, we have plenty of time to slowly gather resources and build up. Once you gain permanent access to the dungeon, that will be your moment of opportunity.]
+
+"Yeah. Although if I ever go with Rose, I'll have to fight for my share," Lily giggled.
+
+A dragon's greed knew no bounds, and even with Lily directly drawing with her Mana Core, it had been a struggle. While she'd progressed considerably since then, even being able to gather passively, she was pretty sure Rose likely had her own improvements.
+
+They continued idly chatting, with Arakil mostly leaving it to Lily, except for offering very minor input to improve the outcome. This was their methodology, and it had been doing wonders for her growth, allowing her to explore at her own pace while occasionally gaining a nugget of wisdom for something she'd overlooked.
+
+Eventually, the glyph was complete, and Lily activated it after placing it in the center of the camp. The entire surroundings were enshrouded in a blanket of darkness, and while they could see out, anyone outside wouldn't be able to see in so easily.
+
+[Excellent. Now, no wandering eyes will see your campfire, and the darkness combined with the charms should have an additive effect.]
+
+"So we should be safe and sound during the nights," Lily said with a happy smile.
+
+[Unless someone directly led a monster here, I can't see why they would approach the camp.]
+
+"Alice might do that…" Lily muttered. "I'd better warn the others."
+
+[If she does, I doubt it would happen until after tomorrow evening. Perhaps to finally draw the camp trip to a close.]
+
+"Well then, we definitely need to prepare. They said we could stay here as long as we could, so I want us to achieve just that!" Lily declared, a mischievous smile creeping on her face. She could just imagine Alice tearing her hair out if they were the last group standing for far longer than anyone expected.
+
+The rest of her night watch shift went by without a hitch. Lily practiced only a bit longer with her wand before finally returning to her study on Lunar Radiance.
+
+While her glyphs were useful, they couldn't be brought into combat unless prepared beforehand, unless she resorted to runes, but those had their own issues. Thus, she needed more readily available spells in her repertoire, as she felt she couldn't only go around casting Starbursts.
+
+When her shift ended, she woke up Thomas. He looked relieved that nothing had happened, and after groggily getting up, he seemed ready to take over.
+
+"Thanks again, Lily," Thomas said, right as she was heading to her tent.
+
+"You're welcome…?" Lily responded curiously.
+
+"For that spell scroll," Thomas clarified. "It's… been like nothing I've ever seen before."
+
+"Oh! Yes, I'm glad it's helping. That forked lightning really saved the day against those weasels."
+
+Thomas waved dismissively. "You could have handled them with one of those explosive runes."
+
+"And drawn half the forest to us as a result," Lily replied. "I'll have to look into more subtle runes…"
+
+Thomas sighed. "Well, anyway. Thank you…"
+
+"You're welcome. I'm sure you would have gotten there eventually. This is just making the journey a little more comfortable," Lily replied and even gave a thumbs-up.
+
+Thomas opened his mouth, then closed it without saying anything. He simply gave her a smile before walking to the fire pit.
+
+[It's always fascinating seeing what a small bit of knowledge at the right time can do for a person. I don't doubt he would have stayed determined to the end, but still…]
+
+Lily nodded in agreement, happy to have helped a friend and given Arakil something to enjoy. When she finally reached her sleeping bag, she let out a tired yawn before succumbing to slumber.
+
+***
+
+As expected, nothing had happened during the night, although when Lily woke up to her horror, she saw that the shadow glyph she'd painstakingly put together had almost fallen apart. She quickly turned it off and started supplying Mana, while hoping it wasn't too late.
+
+"What happened?" Lily whispered, looking at Arakil.
+
+[During the night, the cost is significantly reduced; during the day, the effect goes up dramatically. After all, it needs to overcome the light produced by the dungeon, considerably increasing its burden.]
+
+Lily was momentarily surprised before she realized that what Arakil said made perfect sense. She threw out a few questions and confirmed that the same applied in the opposite scenario, such as trying to summon a flame in a blizzard.
+
+To her relief, the glyph hadn't fallen apart catastrophically yet, and soon it was rejuvenated. Lily realized Arakil probably gave her a bit of a tough love lesson in this regard, and even speculated he knew precisely when it was going to run out beyond repair.
+
+No wonder he gave such timely hints when I was designing it…
+
+Lily wasn't upset; she appreciated the lesson, and witnessing it firsthand would have a much greater impact on her than just being told it. In the past, Arakil had told her to only use the shadow cloak talismans at night, and she'd never bothered to question it further at the time.
+
+After that, she took the time to turn off other glyphs as she moved around the camp, while giving them small top-ups of Mana. Everything else was in running order, with the only other significant drain being the water source.
+
+Thomas or Lotte probably washed up. I should set up a hot water glyph too…
+
+But before that, she joined in for breakfast. Thomas was preparing it while Lotte was playing with Jade, casting minor spells and throwing it for the lizard to eat.
+
+If I didn't know that was deadly poison, I would think this was a cute scene…
+
+Lily shuddered and reminded herself not to let Jade lick her anytime soon.
+
+The group caught up and shared their experiences. As expected, it was a peaceful evening for everyone, and both her companions marveled at the usefulness of the shadow glyph Lily had created.
+
+"The first thing I did was walk outside and look in. I swear our camp disappeared!" Lotte exclaimed excitedly.
+
+"I did something similar," Thomas admitted. "I have to admit I'm once again reevaluating those glyphs…"
+
+"Well, I'm sure Professor Ollie will happily let you into his class next year," Lily said excitedly.
+
+"I can swap out Sorcerous Warfare for it… I doubt I'm continuing that one next year," he sighed.
+
+"Oh, you don't want to be a commander or something?" Lotte asked.
+
+Thomas grimaced. "It's more like an endless boot camp. I can't say I'm fond of Instructor Gerrard either…"
+
+"Looks like Aura's warning was a good one," Lily replied.
+
+"If I'd known how bad it would be, I would have taken Beast Handling instead," Thomas admitted, a pained look of regret on his face.
+
+"I don't think even Beast Handling would help you solve Yona," Lotte teased.
+
+Thomas visibly slumped and began shaking his head. Lily figured he was probably realizing how true that probably was. Now that Lotte figured out Jade wanted to eat poisons, she was starting to become tamed like a puppy. Yona, on the other hand…
+
+For some reason, I think even Arakil would struggle to tame that cat. Lily giggled to herself.
+
+After they were ready, the group finally began their exploration. All three of them were bursting with excitement, as now they could actually dedicate their time to searching for treasures. They picked a direction away from the central camp and headed straight out.
+
+Along the way, they were searching not only for valuable plants but also for additional food. The idea of monster meat was beyond their imagination, so they needed fruits, berries, or edible herbs.
+
+But this time, they had slightly changed their approach, thanks to the two Familiars, who made them the perfect food-finding duo. If Jade wanted to eat it, it was likely poisonous; if she didn't, it could be double-checked with Yona. This way, Lotte didn't have to suffer as the poison tester, some of which had left horrible tastes in her mouth.
+
+To Lily's horror, they had found a fruit that looked exactly like a strawberry. However, the insidious plant was actually bursting on the inside with a foul poison, leaving her particularly distraught as Jade happily chomped at them.
+
+As for monsters, the group had discovered a spider territory. The group cautiously poked into the area, only taking potshots at the monsters near the outskirts. Their biggest concern was getting stuck in the webs, as none of the group were dedicated fire mages.
+
+"If Rose were here, she would've burnt their entire nest to a crisp," Lily sighed.
+
+"Why not draw a fire glyph then?" Lotte asked.
+
+"It'll take quite a bit of time," Lily replied before reaching into her pouch. "I do have some fire bolt talismans…"
+
+"We could defend you during the drawing," Thomas suggested.
+
+"Yeah, that's a good idea. Then you don't need to spend your emergency glyphs," Lotte agreed.
+
+Lily scratched her cheek while thinking, before ultimately agreeing. "Okay, let's give it a shot."
+
+When Lily started drawing, a few spiders actually seemed to sense the Mana and came to investigate. As dungeon monsters, they were very attuned to their territories and evidently could sense the impending danger to their home.
+
+Thankfully, the numbers were more than manageable, and the pair kept Lily safe and secure while she drew a flame glyph like never before. Her idea was to take advantage of the alchemy glyphs she'd long since mastered and convert them into a gout of flame.
+
+And because of the wand, I can move the glyph around!
+
+Lily was particularly excited by the idea, as not only would she get to try something brand-new, but she could also emulate her big sister with this trick.
+
+Soon, the glyph was ready, a controlled flame that would spout outward when toggled on. Lily was quite happy with what she had created, and even Arakil had given his approval.
+
+"Let's burn some bugs!" Lotte cheered.
+
+"Spiders aren't bugs…" Thomas tried to correct, but gave up when he saw Lotte ignoring him.
+
+"I've never tried this before, so if it doesn't work, get ready to run away," Lily warned.
+
+Her two companions both agreed. Lily activated the wand's function with the appropriate gesture and pointed at the fire glyph, seizing it and having it float in front of her. Lotte's eyes sparkled in anticipation, evidently having a good idea what Lily was planning.
+
+As soon as they came across a large web, Lily activated the glyph. The flames spouted out, not only burning the web to a crisp but engulfing the spider as well, and in only a few short moments, it exploded into black flakes.
+
+"Wow, are you sure you aren't part dragon?" Lotte joked.
+
+Lily turned off the glyph and shook her head. "Trust me, if you saw Rose in action, you'd see there's no comparison."
+
+"Damn, is she really that good?" Thomas asked.
+
+"When we were still at the orphanage, she took out an entire camp of gremlins and a pack of wolves by herself. The spiders in the forest she would take out with the snap of her fingers. I can only imagine what she can do now," Lily explained.
+
+"Well, when we get our dungeon pass, you'll have to use your privilege as the little sister to get her to escort us," Lotte said with a wink.
+
+Lily chuckled. "Sure. I bet she'd love to show off."
+
+With the mobile fire glyph at hand, Lily refueled it as necessary while her two bodyguards protected her. The rest of the spiders in this area stood no chance against the flames. Their webs and egg sacs were reduced to ash, and the group had rather effortlessly cleared out a major monster den.

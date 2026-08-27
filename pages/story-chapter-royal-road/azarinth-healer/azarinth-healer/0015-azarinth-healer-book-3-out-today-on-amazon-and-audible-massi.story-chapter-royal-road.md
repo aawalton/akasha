@@ -1,0 +1,31 @@
+---
+id: 19da0991-3daf-5963-ad12-6aac4a2f8283
+page-type-slug: story-chapter-royal-road
+title: "Azarinth Healer – Book 3 – Out today on Amazon and Audible! Massive edits. M a s s I v e."
+slug: 0015-azarinth-healer-book-3-out-today-on-amazon-and-audible-massi
+partOf: azarinth-healer
+position: 15
+ownLength: 607
+unit: words
+publishedAt: 2023-12-11
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1439950/azarinth-healer-book-3-out-today-on-amazon-and"
+royalRoadId: "1439950"
+---
+
+A few more specific thoughts from here on out. Including spoilers (fine to read if you’ve read chapters 151-323 already).
+
+I wasn’t sure where to split chapters for book 3 but going through more and more of it, the best section would’ve been the revenge arc (Trian, the Redleafs, remember that eh? Been literal centuries since I wrote that). But that just wasn’t enough for a full book. And it would’ve been kind of a downer to end a book on. So I went on and on, trying to find something for an ending. And yeah, it became a pretty massive thing. And turns out that there was a lot of fluff in there too. And I’m not talking about nice and comfy slice of life scenes or funny interactions but just… Ilea flew here, now she flew there, oh here’s the same fight we’ve had before but it’s yet another one. Still knights? You saw the cover, right? Yes. Knights of the Rose. Remember those?
+
+There were a lot of those.
+
+One thing I was worried about with cuts in general was that things wouldn’t feel as prolonged. Got a comment recently about that in book 2, about how the training with the Hand and her team didn’t feel nearly as long as in the serial. And I agree, though I do think a big part of that is the release schedule the story was on back then. I think it’s far easier to stomach a similar monster fight 3-5 times a week with some slight differences than reading those 5 chapters back to back in a book, followed by another 50. I know that to some, the grindy feel of that section added to the eventual payoff and I agree there personally, but I’m not sure it’s the best for a book.
+
+So we tried to find a middle ground. Tons of training still there but more dialogue and interactions to make things a bit more fun, more fights skipped over to have those that are there feel fresher, and a bit more cohesion once Ilea goes North. But not too much. Will be interested to hear your thoughts on those changes. Of course we added a ton of character depth here too, because there wasn’t too much going on in the original, or at least the execution was lacking. Skill issue.
+
+The more difficult rewrite was the first half. The revenge arc. I’d known that section would be a nightmare to edit as soon as I’d thought about working with a publisher for real, like 14 millennia ago. And it was. Almost a complete rewrite. I think it works better but let me know your thoughts. This is the most interesting to me in terms of feedback, because the changes were pretty extensive. Mostly in terms of emotion and tone.
+
+Those are pretty much my thoughts. One funny thing I noticed when I edited the evolution (the 300 one ey) is that I must’ve been fucking tired from setting those up. Because when she finally gets the upgrades, Ilea seems to fucking hate everything lmao. She’s so tired and done with everything. Should be a little less like that now. And generally a bit more purpose and hype but ye, let me know what you think if you do check it out. As always, even if you don’t, ratings help a lot, also on the previous books and the audiobook. But don’t feel obligated to do anything.
+
+Big thanks to both my editor and copy editor at Portal. As well as to Andrea for the audiobook work.
+
+And as always, thank you for reading.

@@ -1,0 +1,107 @@
+---
+id: 174b7aa6-7724-50d0-904a-774cbf9dcc59
+page-type-slug: story-chapter-royal-road
+title: "128. Unlocking Secrets"
+slug: 0128-128-unlocking-secrets
+partOf: breaker-of-horizons
+position: 128
+ownLength: 2156
+unit: words
+publishedAt: 2021-07-22
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/720869/128-unlocking-secrets"
+royalRoadId: "720869"
+---
+
+'A shape to knowing,' Caden sent, repeating the term that Emilia had used as he continued to lead her attention along her own auric-ambient-flare. 'You're right. Our minds take a certain shape. But you've still only been looking at one part of the whole. You follow the shape of the finger and forget it is attached to a hand, which is in turn attached to the arm, and on, and on.'
+
+Emilia staggered backward, clutching the side of her head with a hand. 'S-stop!'
+
+Caden released her mind and together they drifted back into the more familiar parts of oblivion that were still within their ordinary means of perception. It was mentally exhausting, but he had helped her glimpse, for a moment, how their own auric-ambient-flares extended into oblivion in dimensions that were foreign to them. Emilia's trick of snapping someone's attention to something was just a simple movement of those unknown portions of her own auric-ambient-flare which, in turn, could be perceived by the same faculty in another person's auric-ambient-flare. It was something that everyone was ostensibly capable of if they ever managed to dip this far into oblivion.
+
+However, it was not without risk. Emilia's form shimmered as a mass of emotion coalesced, threatening to swallow her. She managed to beat it back with brutal efficiency, but it was clearly taking its toll on her. Caden also had to grapple with a cloud of his own confusion and discomfort, and it took him more time to disentangle himself from the mess. It turned out that discovering that your own auric-ambient-flare extended into unknown dimensions was a lot like waking up and suddenly finding alien bodyparts had been grafted onto your body without any clear logic or purpose, leaving you to guess at their origins and functions. It was unsettling at best, and even though Caden had been very intentional and methodical in his exploration, he could glimpse a chasm of existential horror that awaited him if he tried to delve too quickly and too deeply into those new segments of his auric-ambient-flare that had been opened up to him.
+
+'That wasn't very pleasant,' Emilia remarked wryly.
+
+'No, it wasn't,' Caden agreed, feeling a little queasy. Guiding Emilia to the parts of her own auric-ambient-flare in the strange and new dimensions had been a lot more disconcerting than his brief foray into his own.
+
+'It seems we face two problems,' Emilia began, slowly settling back into her usual dispassionate state. 'The first is that there may be additional glyphs in layers of reality that we either cannot currently access or are unable to operate on for prolonged periods of time. The second is that even if we can access all the glyphs, we have little means of extracting meaning from them because they are arbitrary constructs that may bear no relation to the glyphs we are familiar with.'
+
+'About that second part... I'm not so sure they're entirely arbitrary,' Caden mused, recalling one of his earlier moments of near-epiphany. It had been back in Devon's home when he was trying to study the glyphs that the augera had given Devon to freeze the agents.
+
+Emilia looked at him in surprise. 'What do you mean? This was our first lesson in Celwyn's class.'
+
+Caden shook his head. 'We can discuss the foundational parts of the theory later, but let's just assume glyphs aren't totally arbitrary. I've got reason to believe that glyphs aren't created by us, but discovered. I believe the augera are the ones that have created them, and they are the ones who establish the meanings of the glyphs.'
+
+Emilia's eyes widened even more, but then she frowned. 'Even if that's true, it doesn't help us much. The augera have already made it clear that they can't help us with this.'
+
+'Yes, but it means that we probably don't have to worry about the glyphs not following any sort of logic. If they come from the same source, then there ought to be a consistency to their logic. We may be able to deduce the meanings of these glyphs using what we already know.'
+
+'You're proposing we decode what is essentially an alien language when we know only a scattering of the vocabulary and have a vague sense of the grammatical structure,' Emilia pointed out.
+
+'Well, it sounds impossible when you put it that way, but you've already done a bit of that,' Caden countered. 'You said a few bits make sense to you.'
+
+She blinked at him, then shook her head as if to clear it. 'I... didn't.'
+
+Caden paused and looked at her in concern. 'You did.'
+
+'No, I mean... I didn't make sense of them. Not in that way.' She sat cross-legged in the middle of the clearing and took a few deep breaths, her brow furrowed in concentration. 'I've just realised, after what you showed me about my own auric-ambient-flare. I didn't make sense of the glyphs through methodical effort. I've intuited their meaning entirely. And it's because... because the shape of my auric-ambient-flare has already been altered.'
+
+'What?' Caden's heart rate ratcheted up and he almost flung himself down next to Emilia, as if looking at her up close might yield some information about her current state.
+
+'Stop overreacting,' she said testily, throwing him an irritable look before centering herself. 'I already said that the glyphs are altering me. It's not finished. But the changes that have already taken place... well, that's what has given me the ability to partially understand the glyphs.'
+
+'Then we have to work fast.' Caden got up and was about to rush towards the circle of glyphs, but Emilia caught his hand and gently pulled him back to sit with her.
+
+'You think you can figure the glyphs out faster than they can change me?' she asked, with a glint of impish amusement in her eyes. 'I think that's a bit of a tall order, even for the Top Scorer.'
+
+Despair nibbled at the edge of his thoughts again, but he firmly shoved it aside and sank back into his state of dissociation. 'Do you have any other ideas?'
+
+'I've tried them all out already long before you came, Caden. This thing about the full extent of our auric-ambient-flare... that's interesting and worth further study, but I don't think it'll help in my present situation. What about you? You're the one who came to rescue me.'
+
+Here in oblivion, Caden could tell that her words clearly carried no hint of mockery. They were just pure observations, almost entirely divorced of emotion. Caden wondered if this was how it was always like in her head. If she had made this kind of deadpan declaration in the flesh, he might have assumed she was being sardonic. He wondered now how much of his earlier impressions of her had simply been completely wrong.
+
+'Let me think,' he answered.
+
+Emilia's presence was a wonderful help. Her general dispassionate nature meant that even though she did experience swells of emotion, she was able to quickly manage them and work around them. Here in oblivion, that sense of stillness and control was amplified, and it served as an excellent mirror for Caden to examine himself and still his own mind so that he could better focus on the task at hand. The flurry of worries and anxieties that lurked at the edges of his psyche melted away into nothingness. Just by being there, Emilia was helping him attain a purity of focus that he had almost never experienced before.
+
+Combined with his own state of dissociation, he imagined he could see the possibilities swirling around him like a cloud. Working rapidly, but with a sense of unhurried calm, he explored each one and projected the available courses of action into the future, working out the implications in his mind.
+
+Waiting for Emilia to intuit the meanings of the glyphs was a viable, if risky, option. It was reasonable to assume that the changes the glyphs were making would continue to give her an increased understanding of the alien sequence. There might be a chance that it would give her enough knowledge to break free of the sequence just before the moment of total fruition. The danger was that the changes might not progress at a constant pace. If there was an exponential curve to the rate of change, then it might not be possible for her to get ahead of it.
+
+Trying to deduce the meaning by methodical study was theoretically possible but not exactly practical. He had no real frame of reference to estimate how much time this might take, and since he was without any writing material, he couldn't take notes. He could use arcana to write in the air itself, but that was messy and potentially dangerous if he accidentally etched a viable sequence into the arcana that was self-fuelling. On top of that, Emilia was right — even if he was the Top Scorer, there was almost no chance he'd be able to decode these alien glyphs before the changes caught up with Emilia.
+
+There had to be another way. He dug deeper, turning the situation over in his mind.
+
+Emilia had been brought here to be changed. The Geldor and Hanafast augera had done the deed by dragging her into oblivion and then etching these glyphs in the arcana. The path of the Prophecy here was clear — change the brilliant-sighted-singer into whatever was necessary, making her fulfill her purpose as the "bones" that would form the Chosen One's "crown o'er mortal thrones". The fact that she had been spirited away meant that this transformation was supposed to happen away from the rest. And it also meant that, alone, Emilia would have no chance of escaping.
+
+Something clicked in Caden's head.
+
+From what he had seen so far, the augera could have placed Emilia so far away that it would have been literally impossible for anyone to reach her in time, even if she had left a trail. And yet she had been placed in a seemingly random clearing not that far from the group, and it had been a simple matter of getting wings so they could reach her.
+
+And the trail itself... why would the Prophecy intend for her to leave one? That made no sense. It was more likely that the trail wasn't supposed to be there in the first place. That, combined with her proximity, had weakened this moment. The certainty of her transformation was now in jeopardy because she wasn't alone.
+
+The augera must have seized every possible loophole to deliver him to this moment. The Geldor and Hanafast augera fulfilled the terms of the Prophecy by seizing her and removing her from the rest, but there must have been some wiggle room that allowed them to deposit her so nearby. And as for the trail, they must have left enough clues in the arcana, or else nudged her along far enough so that she could discover how to leave one.
+
+So this was it. This had to be enough. Him being here, along with Kevan and Lynus. Somehow, this was all they would need to free her.
+
+What tools did he have at his disposal?
+
+No, that was the wrong way to think. If he were the tool itself... the instrument of the augera's freedom... what qualities did he now possess that were key to seizing this moment?
+
+I am unchosen-sighted-{~?~}, he thought to himself, stretching his auric-ambient-flare so he could glance over it. I can see oblivion. I can touch threads of reality beyond mortal comprehension. But Emilia is sighted, too, so that is not the whole answer.
+
+{~?~}. Somehow, when he had taken that step to cross completely over into oblivion, his state of dissociation had resonated with some meaning with this part of his auric-ambient-flare. Was this the key, the answer that would help free Emilia?
+
+But it was still too nebulous, too far beyond his understanding. He could not use something he did not know.
+
+... did not know.
+
+There is a shape to our thoughts. That was what Emilia had said.
+
+Ambrose had given him the ability to pass knowledge through arcana. Caden remembered asking the augera what it was, just before he had taken that knot of arcana into himself. Knowing, they had answered. The shape of it in the mind. The shadow of thought.
+
+His eyes snapped open and he stared, agog, at the sequence etched in the arcana around the clearing. He was so caught up in the moment that it hardly took any effort to fold his mind so he could see the hidden glyphs.
+
+And there they were. Tucked between the complex whorls and incomprehensible portions, Ambrose's sequence, the knot of knowing itself, the one portion he could actually read and understand. The augera had laid the patterns there like a lock.
+
+And Ambrose had given him the key.

@@ -1,0 +1,125 @@
+---
+id: d9778930-125e-5242-a4c4-4ce17490e717
+page-type-slug: story-chapter-royal-road
+title: "v7c25: Homecoming"
+slug: 0278-v7c25-homecoming
+partOf: beware-of-chicken
+position: 278
+ownLength: 1747
+unit: words
+ownProgress: 1747
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3007520/v7c25-homecoming"
+royalRoadId: "3007520"
+markedReadAt: "2026-06-29T19:00:58.033Z"
+---
+
+The sight of Pale Moon Lake City on the horizon filled the Lord Magistrate’s gut with complicated emotions. It churned unpleasantly in time with the gentle rocking of the carriage he sat within.
+
+It had been near thirty years since he had last seen the city of his birth—it looked less changed than he thought it would. While the outer boroughs had some differences, the main skyline hadn’t changed at all. The Palace still dominated. The governmental buildings rose tall. The manors of the nobles took up the heart of the city.
+
+His father had been employed by the city as a record keeper for the orchards of the main Imperial Palace. It paid fairly well; well enough that his father had been able to afford a home on Northwind Lane, which his mother kept, and supplemented their income with her own weaving.
+
+They were not affluent, but neither had they been particularly poor, though in his youth the Lord Magistrate had made friends with both kinds of people. He had seen the great vaulted palaces, and the beautiful gardens and orchards of the Provincial Governmental buildings, and had looked upon them with awe—at least until he had to leave.
+
+His father had accidentally run afoul of a lesser noble—his father had read a label wrong, and delivered the incorrect shipment to the noble’s wife. A small mistake in the grand scheme of things. The noble hadn’t even been that upset about the outcome, for the characters were relatively similar, but his words, “Do not let this happen again” had sealed his father’s employment. The Palace took no chances, and a minor orchard record keeper was not something that they had interest in having around.
+
+Without that income, they had to move out of the city, and for a brief while, they were poor, until his father found work again in Riverbend, a large town perhaps three hours west of Pale Moon Lake, along the shipping lanes to the Grass Sea.
+
+That was the day the Lord Magistrate found himself a goal—to never mistake the characters that had hurt his father.
+
+His father at first thought it amusing. Then, as his son swiftly memorized first a hundred, then a thousand characters, the amusement became pride.
+
+Both his mother and father began hiring tutors for him; and when he could work, he helped his father in the orchards, so he too could contribute toward his own steadily rising expenses.
+
+First a tutor, and then, later, the First Archivist of Riverbend taught him, for he absorbed every lesson they gave him. He worked, diligently, amazed by the things the numbers and characters could do.
+
+All the while the older man had looked on…until he had declared that the boy was skilled enough to take on the civil servant exams. That no mere orchard would be his fate. He would be a head scribe—or maybe even a magistrate.
+
+The young boy he had been had latched onto those words. He lived for the praise. The flames of ambition had filled his soul, and he set his sights on the horizon.
+
+His parents sold nearly everything they owned, so they could send their son back to Pale Moon Lake. They said to repay them when he was a powerful civil servant.
+
+A filial son was he, and so he took those words to heart.
+
+He arrived back in the city of his birth, and immediately set about proving his worth. He studied until his head hurt. Unlike some of the other commoners who had egos and chips on their shoulders, and who detested the nobles’ sons who “had it easy”—he schmoozed with any and everyone.
+
+He could joke in the upper-class dialect he remembered from his time in the Palace. He could commiserate with the lowborn.
+
+People started looking to him for leadership. It was a heady feeling. His grades were the best in centuries. All of the teachers took notice, and there were whispers that after this, he would head a city—or even be forwarded to the Imperial Capital for further training, such was his skill.
+
+It was not all good things. His father perished of illness. His mother had made him swear not to return, to complete his schooling, or she would kill him herself.
+
+It had torn out his heart, but he had stayed, and achieved a score never before seen in the province.
+
+He even caught the eye of the most beautiful woman he had ever laid eyes on. Lady Wu Zei Qi had been so stunning that she had eclipsed even the moon; and he had been charming enough that the icy fairy that had rejected all others found pleasure in his company… even if they did have to keep it a secret.
+
+Once he was a Lord Magistrate, however, his blood would matter less. It was a position even the Wus could respect.
+
+That was, of course, when it all came tumbling down.
+
+He and his lady had been walking that day, and Zei Qi had been unusually somber, so he had done everything to make her smile and laugh—and he had succeeded. He still remembered her, one hand on her stomach, a fan over her lower face as she tried to control herself.
+
+And then the explosion of noise and Qi that sent her flying to the side and crumpling to the ground, seizing and shaking.
+
+He had been so terrified he had taken her directly to the Wus—where he found out the reason for her sombre nature.
+
+She had been chosen by the Master of the Provincial Treasury to be his wife. A grand bargaining chip, for the Wu’s power.
+
+Her erstwhile betrothed had visited after her injury. Just once. His eyes had found Lady Wu, shaking and in the worst pain—and the man had said, “I will take the other daughter.”
+
+But in the end, her brokenness was the only thing that let them be together. He was the only man willing to marry their “worthless” daughter.
+
+The ambition that had filled his soul had then turned to terror. The backlash of a cultivator’s attack had nearly killed the woman he loved the most in this life.
+
+If he was a Lord Magistrate of a city, he would have to deal with these terrifying creatures on a daily basis.
+
+Perhaps it was foolish to discard everything he had been working towards for love. Perhaps his mother might have boxed his ears, or she would have been proud of him. He would never know—for he learned that she, too, was dead, not long after. Another illness, and with no one to take care of her…
+
+It was pure luck, or the providence of heaven, that Hong Xian, or rather, Hong San as he had been known at the time, had told him of Verdant Hill.
+
+He took the posting. His last memory of the City was fleeing with his tail between his legs, and wondering if each day would be Zei Qi’s last.
+
+“We’re here,” the voice of his student cut through the Lord Magistrate’s introspection. They were not at Pale Moon Lake City yet; instead, at the last stop before the city, a small town known as Lone Cloud. It was the town where they would be meeting the Azure Jade Trading Company… and where he would be parting ways with his student.
+
+It had been quite delightful, travelling together with Jin and his family; seeing sights he never would have been able to, and appreciating the beauty of the Azure Hills. But now, it was time for business.
+
+The Lord Magistrate of Verdant Hill rose, and offered his arm to his wife.
+
+She took it, and with perfect grace, she stepped out of the carriage with him. Behind them were the Auditor General, and Xue Ji, both of them with blank faces.
+
+The Lord Magistrate’s original plan was to conduct his business quickly and quietly. To strike the soft underbelly of the Wu Clan, but keep some things in reserve, as insurance. A blow strong enough to rebuke for the insult, but not so devastating that it would warrant the full force of the Wus to be visited upon his family.
+
+A polite blow, all told. The kind that forced respect, but not annihilation. With the power he thought he had, that was the best outcome.
+
+“Lord Magistrate!” Guan Bo greeted, bowing low. “We have arranged everything for you!”
+
+That was not the desired outcome, nor the plan, any longer. The Lord Magistrate had left Pale Moon Lake with his tail between his legs.
+
+He would not return to it that way.
+
+The Azure Jade Trading Company’s finest security forces stood in serried ranks, their armour polished to a gleaming shine, and their eyes cold and hard. These were professional men, who guarded only the most valuable cargo.
+
+They were before a fleet of the legendary Azure Jade caravans themselves; the ones that conveyed the masters of the company when they went to noble events, each one pulled by a team of six matching horses with coats brushed to gleaming.
+
+And the Azure Jade were not the only ones in attendance.
+
+A contingent of soldiers from Mengde’s Crystal Emporium stood, their bodies encased in what looked like armoured versions of their crystal carvers’ blast-proof coats. Their faces were completely covered, and their breath came through their masks in deep rasps. Their eyes were hidden behind crystalline goggles, and their leader was wielding a crossbow so large it looked like a siege weapon. Its ammunition glittered dangerously under the light of the sun.
+
+The Lord Magistrate’s stomach churned one last time, then calmed. As his student had said before he met with Master Delan: it was showtime.
+
+“My thanks to the Azure Jade Trading Company and Mengde’s Crystal Emporium for their hospitality,” he declared, an easy smile on his face. “I shall have to thank your Masters in person tonight.”
+
+“They will be pleased with your approval,” Bo replied, while the crossbowman bowed. The Lord Magistrate nodded, then turned to Jin, Meiling, and their disciples.
+
+“This is where we part ways, my student,” he stated.
+
+“So it seems,” Jin replied. “May the heavens favour you, Teacher,” he said, bowing as well.
+
+The Lord Magistrate felt his lips quirk into a smile. “Jin?” he asked.
+
+“Yes, teacher?” his student replied.
+
+“Enjoy the show,” the Lord Magistrate of Verdant Hill mouthed to him.
+
+For he was rather certain it was going to be spectacular.

@@ -1,0 +1,175 @@
+---
+id: 30979470-6c2c-58ff-a9b1-431d00f8cc72
+page-type-slug: story-chapter-royal-road
+title: "v7c64: Unnerving Meeting"
+slug: 0317-v7c64-unnerving-meeting
+partOf: beware-of-chicken
+position: 317
+ownLength: 2148
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3485587/v7c64-unnerving-meeting"
+royalRoadId: "3485587"
+---
+
+Yun Ren was surprised at how used to going on adventures he was becoming. A couple of years ago, even going to Verdant Hill was a big thing, something that required days of preparations.
+
+To travel to Ash Forest, so many Li away, to help out Blaze Bears against mutated cultivating hornets?
+
+They had needed but an afternoon. An afternoon to tell his parents and the foxes he would be out doing things, and an afternoon to gather all their gear and supplies.
+
+Nezuhua had asked if he needed any help, and for the moment, he didn’t think they did, but he said he would call them if they needed them. His parents, as always, looked just a bit worried, but they relaxed when Yun Ren had seemed calm.
+
+He wasn’t entirely calm, of course. Inside, he was fretting, and worrying about the scale of what they had to deal with… but surprisingly, he hadn’t been worried for himself, unlike last time. He had been worried about the villages in the path of the hornets.
+
+It felt weird to catch himself thinking that, and then weirder when the reflexive thought that he wasn’t much of a hero also sounded like he was lying to himself.
+
+It should have been tense, waiting for the morning, but Yun Ren had found himself oddly calm, as they finalized all their plans.
+
+They had dinner, and went to bed at a reasonable hour—or at least he did; Biyu had told him she had one last thing to finish, with that look in her eye. The far away, focused one she got when she was working on something.
+
+So Yun Ren kissed her goodnight, and went to sleep. When he woke up Biyu still hadn’t come to bed, so he went looking for her.
+
+He found her running a polishing rag over a deep blue ring—a storage ring.
+
+“You finished it?” Yun Ren asked, shocked. Uncle Nezan had given Yun Ren a storage crystal when he had first met the fox, and Yun Ren had passed it on to Biyu. The masters of the Crystal Emporium said it would take years to properly carve and stabilize it… but that was when all of their carvers had been mortals.
+
+Big sleepy eyes looked up at him, and his wonderful wife smiled.“The first ring from the crystal, as promised,” she said, holding it out to him. Yun Ren had used one during his infiltration of the sect, but had given it back to Shen Yu when everything was done. “I couldn’t help last time. But I can help this time.”
+
+Yun Ren couldn’t help but smile back as some determination entered Biyu’s sleepy eyes.
+
+“Thank you,” he said, kissing her. Biyu just leaned into his touch.
+
+Yun Ren touched the carved crystal ring. It hummed, coming to life, the dark blue crystal shining with an inner light for a moment. Now, he knew he was biased as hells, but this one was obviously superior to the one he had borrowed from Shen Yu. It just felt… better. Like it was more than the other storage ring.
+
+“It was a very interesting project, the facets are—” she paused and cut herself off, realizing she was going into detail. Normally, Yun Ren would love to listen, but… he had a job to do, unfortunately.
+
+“Tell me everything when I get home,” he said. And she nodded. She looked into his eyes.
+
+“Take a bunch of recordings of Ash Forest,” she commanded in turn. “Find the best parts… and we’ll visit it together.”
+
+“As my lady commands,” Yun Ren promised, and Biyu giggled. Well, Yun Ren had done enough relaxing anyway. He was starting to get a bit of an itch to go exploring, and record new sights.
+
+The completion of the storage crystal also proved fortuitous, because they had a lot of supplies. Paobu clearly hadn’t eaten for a while, so they were bringing along a lot of food, too. Originally, they were going to use a couple of carts, but with the storage crystal, they could just seal it all away and simply start running.
+
+Southwest; towards the Ash Forest.
+
+Which is what they were doing now, in the same formation they had used in the Sea of Snow. Spooks was in the rear, the Thunderhoof moving with his usual silence. Ri Zu and Yun Ren were on the wings, and Bi De was in the front with Paobu and Vajra, the bee hiding under his vest. The bear was leading them in the direction he thought the rest of the surviving Blaze Bears were gathered.
+
+The plan was to find their warriors, and then enlist their help. The lessons of the Shrouded Mountain had stuck with Bi De—they wouldn’t just be shoving into the forest by themselves. The Blaze Bears would help them retake it.
+
+However, that plan was interrupted a mere four hours into their run. The bees behind their ears suddenly buzzed. The fastest scouts had made contact.
+
+“Contact to the east,” Bi De said, glancing down at Vajra, who wiggled at him.  “A small swarm, they killed a boar, and are currently in the process of dismantling it—they appear to be taking the meat back to a central location.”
+
+Yun Ren knew they had already killed Blaze Bears, but shit, just casually killing and eating boars? What kind of hell insects were these? He glanced to Paobu—somehow, the bear seemed pale. Fear was in his eyes, and Yun Ren felt a certain amount of kinship for the bear, who was clearly in over his head.
+
+“Bypass or confront?” Ri Zu asked. She was currently human, her dark eyes scanning the horizon.
+
+“Let us take their measure, and see if they may be reasoned with,” Bi De commanded.
+
+The formation smoothly shifted, and they started running towards the danger.
+
+It wasn’t long until they heard the buzz. It was like Vajra’s swarm, but deeper and, dare Yun Ren say it, sinister-sounding.
+
+They slowed, before they entered the clearing, and what Yun Ren saw made him recoil.
+
+A great seething mass crawled all over a corpse, mandibles tearing through flesh. Each hornet was as long as his hand, from his middle finger to the bottom of his palm.
+
+It was not just a boar they had killed. It was an entire sounder, and the boar was just the last corpse they were ripping apart. The stark white bone of the piglets shone on the ground, stripped clean of flesh. More of the creatures rose from the nearby pond, dead fish and frogs clasped in their spined limbs. Even in the brief instant they watched, several birds fell from where they perched, only to be torn into as well.
+
+The hornets were eating everything. They ripped open bark to drag out grubs. There was the sound of cracking eggshells as they tore into nests. Squirrels screeched, and then went silent.
+
+It was like a plague of locusts, but worse. Yun Ren knew that what they were doing would lead to the destruction of the entire ecosystem—his father had taught him and Gou Ren that in not so many words, but Jin had made it all click, how everything was connected.
+
+Yun Ren saw Bi De grimace in time with him as he beheld exactly what the hornets were doing. Yun Ren’s first reaction was simple—kill every last one of these things, and kill them now.
+
+But Bi De… Bi De felt he had to at least try. The rooster cleared his throat, and stepped fully into the clearing. Yun Ren heard Paobu swallow, his paws shaking, and his eyes darting around at the seething mass of insects.
+
+‘You okay?” Yun Ren whispered to him.
+
+‘No,’ the Blaze Bear answered honestly, looking ill. But even though his paws were shaking, he was standing his ground. ‘But Paobu is a brave warrior.’
+
+Yun Ren clapped him on the shoulder, and Spooks nodded.
+
+“Hail. This one is Fa Bi De of Fa Ram. He greets you,” Bi De said, his voice calm and respectful.
+
+As one, the hornets froze… then turned, their eyes locking onto the chicken. The sudden silence in the clearing was unnerving. Bi De looked back at them all, fearless.
+
+The silence stretched for a moment.
+
+Then they attacked. There was no warning, they simply launched themselves towards the rooster, stingers aimed.
+
+Bi De raised a wing, and swept down.
+
+Every single hornet slammed to the ground, gale winds suddenly pinning them to the earth. His Qi rose around him, pressing down on the hornets.
+
+“That… is quite rude. Do you not have a queen with whom I may speak?” Bi De tried again, his intent pressing down on them.
+
+But the hornets did not relent. They struggled against the pressure, eyes fixed on Bi De. Their wings buzzed aggressively.
+
+This disrespect was evidently too much for Vajra, for she climbed up onto Bi De’s shoulder, and began to wiggle angrily at them.
+
+The hornets, as one, froze. Each and every one turned to the bee, who paused in her dance. The largest of the hornets rose from the carcass of the boar, its eyes locked onto Vajra. Its body jerked and cracked.
+
+It opened its dagger-like mouth, and spoke.
+
+‘Ah. We finally found you,’ the hornet said, its voice a rasping purr. ‘You do exist. How wonderful. Finally, we may rid ourselves of this curse. Finally, we can stop being hungry.’
+
+Its eyes gleamed with madness. Every single hornet started spasming, their eyes fixed on the smaller bee. They dragged their bodies towards her with singleminded intensity, ignoring everything else.
+
+Yun Ren had seen the experiment room in the Demonic Sect’s base, and thought he was beyond horror.  Yet seeing this was still unnerving. Normally, Spirit Beasts so focused on killing were incoherent. They screamed and raved, and they were hard to understand, but this thing… its diction was razor sharp. Its voice, surprisingly refined. It was… wrong, like the artificial demons had been.
+
+The madness was focused, aimed.
+
+The rooster frowned. “What curse?” he asked, but received no answer. He waited for a moment, but when nothing else was said, he sighed. “It seems that we cannot negotiate with them.”
+
+The bee behind Yun Ren’s ear buzzed again.
+
+“It appears we are going to have company,” Bi De said, and glanced to the side. A dark cloud burst up from the trees, the deep buzz filling the air. It was a living cloud that casted a shadow—like Vajra’s hives when they all flew in formation.
+
+“...how big is that swarm, compared to the ones you’ve seen?” Yun Ren asked.
+
+‘Tiny,’ Paobu replied with a whimper.
+
+Grimacing, Yun Ren drew Summer’s Sky.
+
+“Hey Bi De, can I handle these ones? I want to test how resistant to lightning they are.”
+
+The chicken nodded. He flicked his wing and every hornet on the ground died. “Please. We need to see how many we can kill with a single blow if their numbers are as great as Paobu described.”
+
+Yun Ren let out a breath.
+
+‘Eighth Wielder has been working hard. Remember. It is like Zaaahaaa!’ Summer’s Sky said to him.
+
+Yun Ren nearly smiled at the reminder. It really was Zaaahaa! The sparks gathered beneath his skin, a gift from Zang Yong and Zang Wen.
+
+[Fulmination Arts: Gold Wire]
+
+Lightning leapt from his sword, and for an instant, it was connected to the swarm. It jumped from hornet to hornet, chaining to each one.
+
+The fluids within the hornets vaporised, and the entire swarm detonated.
+
+Or at least most of it. While the bulk of the cloud dropped out of the sky, there were still a couple flying, though they were clearly injured.
+
+Yun Ren let out a breath and nodded.
+
+Which is when the bee behind his ear buzzed again.
+
+Bi De paused. “Smoke on the—ah. Hm.”
+
+Yun Ren frowned at the description, and jumped, so he could see above the treetops.
+
+What the scout had reported was correct. There was what looked a bit like smoke rising from the forest far away.
+
+But it wasn’t smoke at all.
+
+That… was a lot of hornets.
+
+“We have a better understanding of what we are facing, at least,” Bi De said. The rooster didn’t look worried. “Let us retreat for now, and meet up with the Blaze Bears. There is much to discuss.”
+
+They could have probably fought and won—but that would just alert these things to how many of them they could kill at once—and if the queen went into hiding instead of coming out to fight,  then it would be a pain to track her down.
+
+They turned, and left the clearing—though one of Ri Zu’s shadow rats rubbed a bee all over itself, and then ran in the opposite direction, laying a false scent trail.
+
+This… was going to be really annoying.

@@ -1,0 +1,163 @@
+---
+id: 81b306b8-5bfa-57a4-959d-88c3b1842436
+page-type-slug: story-chapter-royal-road
+title: "64. Building Blobs"
+slug: 0064-64-building-blobs
+partOf: breaker-of-horizons
+position: 64
+ownLength: 2212
+unit: words
+publishedAt: 2020-12-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/598000/64-building-blobs"
+royalRoadId: "598000"
+---
+
+Morning came with a fresh set of worries. My mother prepared a simple breakfast of eggs and toast for us and we sat together facing the telepresence orb, which threw up a projection against a wall that had been kept bare for that purpose. We had settled down just in time for a morning news bulletin. These broadcasts were usually kept to a two-dimensional view so that they could be received by all telepresence orbs, not just the ones that had been set up in full chambers. A grave-faced middle-aged woman with her hair done up in a severe bun was speaking into the air, her gaze fixed against what must have been a wall on her end since there wasn't anyone for her to address.
+
+"... series of attempted attacks that were swiftly curtailed by the combined efforts of the Imperial Police Force and Imperial Nightwatchers. At present, no organisations have stepped forward to take responsibility for the violence, and imperial sources are being tight-lipped about their investigations."
+
+"Mum, didn't you say it was just at one train station?" Triss asked, her mouth half-full with toast.
+
+All she got was a reproving glare. My sister grinned mischievously, then swallowed her food and repeated her question.
+
+"That's what was on last night," my mother replied with half a glance at me.
+
+The news didn't offer much more in the way of details, except to note that there were a number of casualties sustained by the enforcement, but thankfully no civilians were killed.
+
+"That's all?" Triss complained, frowning at the news anchor as she pivoted to another topic.
+
+"They probably can't reveal too much if it's all still under investigation," I said.
+
+"Then why bother saying anything if they've got nothing to say?"
+
+"Because if they said nothing, then people like you would complain that they're not saying anything." I grinned, which prompted my sister to send a ball of arcana my way. I lazily unravelled it without even gesturing.
+
+"Don't you two start at the table," my mother said warningly.
+
+"You don't need to point anymore?" Triss demanded, leaning over the table in excitement. "Can you teach me that too?"
+
+Mum cleared her throat. "Don't pester your brother about that."
+
+"But he promised in the car!"
+
+"And he'll teach you something, but now's not the time to talk about it. Finish your breakfast, then get started on the morning chores and the work you've got from school. There'll be time in the afternoon."
+
+"Can he start early if I'm done early with everything?"
+
+"If it's all done properly," Mum conceded. Triss scarfed down the rest of her breakfast, carried her plate and cup off to the sink for a quick but thorough wash, then sped off. Once she was gone, my mother fixed me with measuring gaze.
+
+"You're alright with it?" I asked, feeling a little nervous.
+
+"I remember my first term in the Academy," she said, not answering me directly. Her eyes softening as she smiled a little. "The world literally opens up, doesn't it?"
+
+"That's... one way to put it," I answered, thinking about the augera.
+
+"Well, what do you think you can teach her?" The question was asked gently, but there was also an incisive undercurrent to it.
+
+"I was thinking... maybe the basics of frame-shifting? She may not fully understand the theory behind it, but I can introduce different frames to her, get her used to thinking about arcana in different ways."
+
+My mother didn't reply immediately. She nodded, paused to eat a little more, then took a sip of her coffee. "What might go wrong?"
+
+"Maybe... the frames I select might become too fixed in her mind? And that can make it harder for her to frame-shift in the future."
+
+"That's possible. How will you resolve that?"
+
+"What if I gave her a way to think about the theory of frame-shifting? Like how arcana is like water. You can freeze it, or melt it, or turn it into steam, but it's still water. But you can't slide an ice-cube under a door. So you need to make the arcana behave the way you want it to."
+
+"If you do that, she may think of arcana's essential nature as being similar to water," my mother pointed out. "Not explicitly, but it would seed the idea."
+
+"Then how would you do it?"
+
+She smiled. "Probably in the same way. And then set an exercise that makes it unhelpful to think of arcana as water, so that she'll be forced to think of it in some other way."
+
+I nodded. "So I can teach her a bit? It's safe?"
+
+"Do it in your father's workshop, with the protective glyphs. And I want to hear how it goes at dinner." She rose, taking her empty plate and cup, but turned to look at me seriously. "But Caden, no combat-grade sequences or exercises. I know you want to keep her safe and you want her to be able to protect herself, but it's more dangerous to teach her how to run before she can even walk. Okay?"
+
+There it was — the feeling of being transparent. It was something I had not felt for a long while since I moved into the Academy's dormitories. I nodded and my mother left, satisfied, as I lingered over the remainder of my breakfast, thinking hard.
+
+Later that afternoon (Triss had failed to complete her chores properly, which meant that she had to rectify that before we could begin properly, and by then it was after lunch), my sister and I found ourselves in my father's workshop. It was a decent-sized structure at the back of the garden, big enough to fit a three-metre-long workbench while leaving plenty of room for moving about. Most of that space was currently taken up with the clutter of unfinished artefacts and little stacks of raw materials. If my father were more conscientious about keeping tidy, it might have been possible to even conduct some close-quarters duelling. Still, in its present state, it would do well enough for me to start teaching my sister the basics.
+
+We cleared a bit of room so that we could both sit on the floor and safely wave our arms around us without hitting each other, or anything else that was lying about. Triss was paying rapt attention, with none of her usual backchat or playfulness.
+
+"Okay, so... let's see that orb."
+
+Without hesitation, she instantly plucked one out of thin air and held it up for my inspection. The orb was translucent and gave off a slight glow. It was a very pale imitation of the standard globe light, except in miniature, and nowhere near as stable or cohesive.
+
+"Tell me how you learned to do this," I prompted.
+
+"I... just want an orb, and so I get an orb," she answered, frowning a little.
+
+"Yes," I nodded patiently. "But remember when you first started? How did it come together?"
+
+She still looked confused, so I thought back to what I remembered of how she used to conjure orbs. I waved my fingers vaguely in the air, willing the arcana to manifest in little globules from thin air and to coalesce around them. The globules then slowly melded together into a wobbly sphere, the more woebegone and fragile version of what was in my sister's hand now. "You used to do it like this, right?"
+
+She nodded, a little more understanding coming to her as she picked up the thread of what I was getting at. "I had to collect it first and make it an orb. But I practised so it got faster and faster, and now I can do an orb straightaway."
+
+"Okay, so what happens when I want a pyramid?"
+
+She blinked, then allowed the orb to vanish from her upturned palm. Now, instead of forming instantly, globules of arcana manifested over her hand and slowly joined together into one amorphous mass. It struggled to flatten out at the base and rise to a point. After a minute's hard work, Triss had managed a rather squashed-looking mound that had the vague suggestion of four sides, but it didn't hold up for long. Despite her best efforts, it refused to stay upright, and it dribbled through her splayed fingers.
+
+"That's okay," I said, smiling encouragingly at her.
+
+She scowled at me. "Don't make fun."
+
+"I'm not making fun!" I answered with a slight laugh. "I mean it. I wasn't that fast when I was your age. Okay, now I want you to start that again, and watch how the arcana comes out. You don't need to finish the pyramid, just start doing it, and pay attention to how the arcana comes out. Then watch me do mine, and tell me how my arcana comes out. Okay?"
+
+She nodded, her lips set with determination. Once again, her arcana coalesced out of thin air in globules. When it was my turn, I manifested the pyramid all at once, formed whole.
+
+"What?!" Triss exclaimed.
+
+"What's the difference?" I asked.
+
+"Mine takes time. Yours just pops out like my orb. You mean I have to practice different shapes?" she asked with a look of dismay. "I took ages to get the orb right, and now I have to do every shape?"
+
+"No, no, you don't have to do shape drills or something," I said and laughed at the look of relief on her face. "But actually, do your orb again. And pay attention again to how it comes out."
+
+She complied, her brows coming together with intense concentration. And even though she did summon it with great speed, this time she saw it — the arcana was forming in globules and coalescing in the blink of an eye, but it was not simply popping into existence.
+
+"Do you see it? Tell me what you saw."
+
+"I think so? Mine's got these... little blobs. Like honey drops. And it comes together really fast. But yours doesn't start as blobs, the shape is just there."
+
+I nodded approvingly. "That's where we'll start. You don't need to practice the shapes. You need to practice what makes the shapes. Why does yours come out in blobs, while mine just pops out?"
+
+"I dunno. I thought arcana always comes out in blobs."
+
+"Why is that?"
+
+"... 'Cause it's blobby? Like water's wet, and arcana's blobby." She grinned.
+
+I couldn't help but smile at her. "Uh huh, and who told you arcana's supposed to be blobby?"
+
+"It just is, Cade!" Triss rolled her eyes. "So how do you make yours not blobby? What's the trick?"
+
+"The trick, Triss, is that arcana isn't blobby. Yours is blobby because you think it is."
+
+At first, she regarded me with great scepticism, but once she could tell I wasn't joking, I saw the gears turning in her head. "So I can just unblob my arcana, and I can make shapes faster, without practising them?"
+
+"Maybe. Why don't you try?"
+
+"If arcana isn't blobby, then what is it?"
+
+I shook my head, grinning. "Come on, Mum doesn't give the answer straight away, and neither will I. You try making it not blobby first, and see what happens."
+
+With a huff, Triss regarded her open palm again. She took a moment to clear her mind, and the irritated furrow on her brow smoothed over. I watched, hawk-eyed, for the slightest sign of how she might be adjusting her perception of arcana. How would it manifest now?
+
+The seconds ticked by into a minute, then two. After almost seven minutes of focused concentration, the silence gave way to frustrated deep-breathing, and then at the ten-minute mark Triss let out an explosive gasp of annoyance. Nothing had formed.
+
+"If it's not blobby, then nothing comes out!" she complained.
+
+"What were you trying?" I asked curiously.
+
+"I... I don't know. Just... not blobby. I just wanted for the orb to be there, without being blobby."
+
+"Well... try this: if it has to be blobby, can you change the size of the blobs? Then maybe instead of lots of tiny blobs, you c—"
+
+Her eyes widened, and before I could finish my sentence, my sister had formed an orb-sized blob that took a moment to stabilise properly into a sphere. But this time, it hadn't coalesced from tiny globules first.
+
+"Excellent!" I applauded her and dragged her into a brief hug. She beamed at me and started giggling as she manifested orb-sized blobs that she sent bouncing around the workshop. I watched in amusement, then interest, as they bobbed and rolled around. She had packed so much arcana into them that it took a bit of time before they lost cohesion, and I realised that they were behaving a little like water balloons. They weren't substantial enough to exert much force on anything, so thankfully nothing around us was displaced.
+
+But watching them gave me a little more insight into how she was thinking about arcana. My mother's suggestion came to mind. I decided that she needed just one more exercise with arcana-as-blob first, and then I'd introduce her to a non-blob frame to shake her up a bit.
+
+"Okay, so now you've got an orb-shaped blob. Once you can do a pyramid-shaped blob, I've got something else for you."

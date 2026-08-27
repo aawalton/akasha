@@ -1,0 +1,213 @@
+---
+id: 8cbae0a1-5f36-5f18-96db-8c51eda103af
+page-type-slug: story-chapter-royal-road
+title: "V4c82: And the First Days of Winter"
+slug: 0104-v4c82-and-the-first-days-of-winter
+partOf: beware-of-chicken
+position: 104
+ownLength: 2535
+unit: words
+ownProgress: 2535
+publishedAt: 2024-03-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1548504/v4c82-and-the-first-days-of-winter"
+royalRoadId: "1548504"
+markedReadAt: "2026-06-29T18:55:03.588Z"
+---
+
+Su Yuanlin’s journey to the Azure Hills hadn’t been what she had been expecting.
+
+Everybody had harped on about the Qi void—and yeah, it had been bad for the first leg of the journey, down the mountains and into the hills. The sucking feeling had lessened the closer she had gotten to her destination, though, to the point where she couldn't feel it at all.
+
+Of course, just as she’d started getting comfortable, somebody came out to meet her, a cultivator. Except instead of being some weakling, barely scraping the Profound Realm, she met him.
+
+“State your business,” the cold, aristocratic man demanded. His eyes were sharp and his body was refined. He oozed calm mastery, and Yuanlin felt every hair on her body stand on end. His Qi was suppressed, in a way where Yuanlin could not sense his might, but her body knew.
+
+He was strong.
+
+Yuanlin licked her lips, carefully not moving too much lest the man cut her with his eyes and intent. “Might you be a servant of Master Jin? This Su Yuanlin has been instructed by Fa Bi De and Master Shen Yu to convey this letter to him.”
+
+She slowly and carefully pulled out the seal letter she had been given. The man’s eyes locked on to it… and then the dangerous aura abruptly ceased.
+
+Yuanlin took a breath, relieved that the pressure was gone.
+
+“That letter is indeed in order, and I feel your intentions to be pure. I am Lu Ri; guardian of this place.” The man bowed formally to her. Then he straightened up and gave her a small smile, looking slightly sympathetic. “I see you have been burdened with a task I know well.”
+
+Yuanlin blushed slightly—his smile was somehow more dangerous than his Qi.
+
+“Please, Miss Yuanlin, this way. I shall not impede your delivery.” The man raised an arm like a servant… and then began escorting her. Not the prisoner kind of escorting, but the gentleman escorting a lady and a guest kind of escorting. “I do hope your travels have not been too full of trials.”
+
+Yuanlin’s heart beat slightly faster in her chest.
+
+“It wasn’t too bad. A bit of difficulty in the beginning with so little ambient Qi around, but it was nothing I couldn’t handle.” She smiled and leaned over slightly, brushing a strand of hair behind her ear. Her nape was her best part!
+
+“Indeed? I am glad to hear that,” the man continued, completely ignoring her light flirtations.
+
+Yuanlin pouted. Sure, she wasn’t as feminine and soft as the other gals, but lots of men liked the wild look! It was just her luck that this gentleman didn’t.
+
+Of course, all the flirting was blasted out of her mind when she actually met Master Jin, who felt like a giant mountain just looking at her curiously. But he too had been polite, simply recieving her message before… and gently passing her along to her current predicament.
+
+Su Yuanlin stared awkwardly at the mortal human before her, her finger outstretched and her mouth slightly open.
+
+The mortal woman was her mirror image, save for the fact that her hair was black instead of blonde… and age had lined the woman’s face.
+
+It was one thing to see those features on somebody accompanying Honoured Elder Nezan. It was another to see them on a person here. Not that she had doubted the Young Master, but still.
+
+She was kin, alive and well, and that was always something precious.
+
+“Good evening, My Lady,” Yuanlan said, going for respect. “Su Yuanlin pays her respects to the Young Master’s honoured mother.”
+
+The woman went from shocked pointing to consternation. “The hells yeh callin’ Lady, cuz?” the woman demanded in an incredibly thick accent. “Young ladies should be calling old maids like me, Auntie! Now come on and sit down and tell Auntie Hu Li everything.”
+
+Yuanlin blinked, a small smile coming to her face at the immediate mothering attitude of the woman… even though she was centuries younger than Yuanlin.
+
+And her name! Hu Li—Fox was definitely a bit on the nose.
+
+“… ’course, Auntie,” Yuanlin replied in her own thick mountain-tribe accent.
+
+The mortal woman beamed even as the man beside her, a man who looked a bit like a monkey, raised an eyebrow at her. Then the man shrugged.
+
+“Ten, get us some dumplings, wouldja? Me and my cousin here gotta have a chat, yeah?” Hu Li asked. Her husband nodded agreeably, and Hu Li turned to Yuanlin again. “First! Everyone! Welcome my cousin here to Hong Yaowu! The best village in the Azure Hills!”
+
+There was a cheer from the other mortals, along with several well wishes. There were some curious glances at the colour of her hair and at the sharpness of her teeth, but it was just that—curiosity. Nobody here was having second thoughts about her, nor thinking of running to an authority to start a fox-hunt.
+
+She appreciated that. Though they hardly needed to with the monsters protecting this village.
+
+Hells, Yuanlin was of half a mind to sprint back to the Fangs and move everybody over right now if they could get protection from Lu Ri and Master Jin. They’d never have to fear a fox-hunt again!
+
+“Welcome to Hong Yaowu, Big Sis!” one young boy in particular said, smiling brightly up at her. He was a cute kid, with a band of freckles across his nose.
+
+“Thanks for the welcome,” she said, slightly awkwardly; and several people laughed, but even they smiled and nodded encouragingly.
+
+At that, Yuanlin’s smile became slightly more natural. She followed Hu Li to a fine house—a surprisingly fine house, one extremely well built for a mortal’s abode, especially in the countryside like this. It looked more like something a noble would have commissioned.
+
+And yet… it smelled… it smelled like family. The faint scent of foxes. Yuanlin almost staggered as what felt like a physical wave of relief travelled over her.
+
+She sat down at a table with a woman who couldn’t be anything but related. The woman’s husband brought in some dumplings, as the mortal woman studied her.
+
+“… you’ve had a rough go of it, haven’t you, cousin?” Hu Li asked quietly.
+
+Yuanlin looked into the woman’s amber eyes and let out a little breath, knowing that her emotions were in plain view. “We have, yeah. But I think things may be starting to get a bit better now.”
+
+Hu Li extended her hand across the table, and Yuanlin took it.
+
+“Now, why you’re callin’ my boy Young Master?” Hu Li asked.
+
+Yuanlin smiled at the tone in her voice. A mother, wondering just what sort of mischief her children had gotten up to.
+
+Yuanlin was only too happy to gossip.
+
+========================================
+
+The three of us sat in Pop’s house. It was just me, Mei, and Gou Ren for now. I would read the letter again to everybody else later, but for now… for now it was just us three. Chunky and Peppa were off in the forest somewhere, Washy was in a food coma, and Babe was asleep alongside him.
+
+Maybe it was a bit hypocritical of me to make people wait for Tigu’s letter and then read Big D’s immediately, but Big D had always been in more danger than Tigu… and I knew Tigu was fine through Tianlan.
+
+I unrolled the scroll with a steady hand, and was immediately greeted by elegant calligraphy. The part of me that had been taught to write by Gramps admired his brushwork. He had gotten even better, and had completely eliminated all the little imperfections that had come with writing with his beak.
+
+Fa Bi De pays his respects to his Great Master, the Healing Sage, and his fellow disciples.
+
+It is a relief to finally be able to write to you after so long. Necessity demanded silence from our band but now that necessity is no more, and we may speak candidly.
+
+Much has transpired since I have last seen home, and our deeds are many. Some good, some bad, and some I am still unsure what to think about, even after meditating upon the path we have traveled.
+
+Though now I can say with certainty I understand why you left this life behind, Master.
+
+I paused at that statement, and a small frown found its way onto my face. While Tigu got to see people at their best, coming together and abandoning past grudges… it seemed Big D got to see the worst sort of cultivators.
+
+It was not an experience I would wish on anyone, and my heart went out for my disciple—my first friend in this world.
+
+To know he had done it so I wouldn’t have to… part of me felt like a bit of a failure for that. Another person, a person who I liked, suffering for my choices.
+
+I felt a hand press into my back, and another one on my shoulder. I glanced over into Mei’s eyes first and then looked over to Gou Ren, who simply had a stoic expression on his face.
+
+I took a breath and forced the feelings away. No. Instead of pity, instead of regret… there would be pride. Pride and compassion. Big D wanted to defend his friends and home. He was brave—and he would return to a place that valued him and everything he had done for us.
+
+I returned my attention to the characters.
+
+What follows is an accounting of all we have done since departing in the spring. It shall be as detailed as I can make it, and my dear companions were invaluable in pointing out things I had overlooked. In addition to this, Yun Ren has provided his usual services, in addition to mine own art.
+
+Without further ado, I shall begin. After we departed, we tracked northeast, to the den of Nezan, to reunite his fragment with his main body. There, within his home, Shen Yu began our first bout of training and we stayed there for a period of one month; the training was difficult, as expected, but not overly so. Master Shen Yu is a fine teacher, and knew exactly the steps to push me to my limits. Nezan similarly instructed Yun Ren and Ri Zu…
+
+I smiled at the wood block print of all three of our friends meditating. The beginning part didn’t really have too much detail; they trained for a while, then set off for the Howling Fang Mountains with Nezan; they went through the Stone Gate, the same way I had come into the province.
+
+Of course, things didn’t stay simple for long.
+
+Thus, to facilitate our infiltration of the Shrouded Mountain Sect and investigate the potential Demonic presence, we transformed into humans.
+
+“They what?!” Meiling shouted. I quickly pulled the scroll open more, and there was the first real picture taken by Yun Ren.
+
+I stared in shock at the tall man with brilliant red hair who was standing beside a woman who could have been Meiling’s sister. She had a green streak in her hair, dark, soulful eyes—and she was very, very cute.
+
+“He's got your eyes,” Meimei whispered as she traced a finger along Big D’s image.
+
+He really did.
+
+“… man, Tigu is going to be so upset that Rizzo has freckles,” I said after a second.
+
+We chuckled.
+
+=============================
+
+Tigu sneezed, then shivered.
+
+She frowned at her office’s open window. The air was getting kind of cold…
+
+With great reluctance she closed it, but she still felt oddly cold.
+
+She frowned. The office had a fireplace… but hadn’t Handsome Man said something about a heating system?
+
+She would have to see if they could repair that sooner rather than later. If she felt cold, the poor mortals had to be freezing!
+
+=============================
+
+I had to admit, them literally just walking through the front door of the Shrouded Mountain Sect was kind of funny.
+
+But as we got deeper into the story, things became more uncomfortable. Meiling and Gou Ren looked slightly incredulous as Big D described the Inner Sect and the way everybody acted, pushing others down as hard as they could to try and get ahead.
+
+I knew the truth of that all too well.
+
+But at least they had made some friends. Old Ling the housekeeper, Fat Han, Yushang, and Shao Heng sounded like good people… and hells, I wouldn’t have even minded meeting Master Lishu, if Rizzo had such good things to say about him.
+
+It was especially awkward for me because, well, it read like a Xianxia story. Like the tale of some talented Young Master seeking revenge.
+
+Though I was actually rather surprised at the outcome of the investigation.
+
+Each and every one of us determined the same thing. The Shrouded Mountain Sect is not Demonic. They are merely assholes.
+
+I barked out a laugh at that one.
+
+But the rest? Well, there wasn’t much to laugh about at all, really.
+
+=================================
+
+An hour later, I was sitting on the roof of Pop's house.
+
+I had the letter in my hand, and I had just finished reading over the ending for the second time.
+
+The truth of the foxes and the Shrouded Mountain Sect Civil War.
+
+…no wonder Big D didn’t really know what to think of all that. I didn’t either.
+
+Meimei, of course, had just shrugged it all off and basically said “karma.” She, at least, was very proud of Rizzo. Gou Ren had been quieter, just relieved his brother was alright.
+
+If I was entirely honest? I… I mostly didn’t particularly care what had happened to the sect either. I’d never claimed to be a paragon of justice or the pinnacle of morality. The Shrouded Mountain Sect had apparently fucked around enough to find out—and honestly? That was the extent of my thoughts, really.
+
+Or it could have been, but I was forcing myself to consider it more deeply. Big D valued my opinion. He trusted me, and… he was kind of a kid, still, asking his father if what he had done had been the right thing.
+
+I sighed. It was a messy situation, but he had done what he could. He had spared as many innocents as he could manage. And that? That was enough. I wouldn’t have been able to navigate it any better. And I probably would have done worse.
+
+He didn’t have it easy, my boy. But… he came through in all the ways that mattered.
+
+I glanced down at the final part of the letter.
+
+We go now to the north, to confront Zang Shenhe and ensure that the demonic taint is purged from this province. I shall not tempt fate by saying anything foolish—but I hope to dance with you, My Master, on the night of the solstice.
+
+Until that time, we shall return to hunting evil.
+
+Forever yours, Bi De.
+
+Man, we return to hunting evil? That sounded really badass.
+
+I smiled and looked up at the night sky. There was no doubt in my mind that he would succeed in whatever he set his mind to.
+
+“You tell ’em, Big D,” I whispered, the wind carrying my voice away.

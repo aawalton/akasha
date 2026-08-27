@@ -1,0 +1,81 @@
+---
+id: f06ae8c7-36df-53a9-820d-db36eaec78ce
+page-type-slug: story-chapter-royal-road
+title: "52: Show of Strength"
+slug: 0052-52-show-of-strength
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 52
+ownLength: 1729
+unit: words
+publishedAt: 2025-01-31
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2039296/52-show-of-strength"
+royalRoadId: "2039296"
+---
+
+52:
+
+To say that Dao Mark users were the greatest threat Jack had encountered in his time in the new world would, surprisingly enough, not be an exaggeration.
+
+It was a belief he was willing to hold onto, even after his encounter with the terrifying Juvenile Werewolf, whose speed, strength, endurance and qi reserves outclassed Marcus’s by many times, so much so that it wasn’t anywhere near a competition. Yet, even the Juvenile Werewolf’s feather-touch reflexes and blinding speed, coupled with it’s clever maneuvers when it came to dodging and charging due to its unique physiology, were something Jack could scheme against and adapt to.
+
+Had it not been for his Essence Syphon Art, all four of his group members, including him, would’ve died to the Juvenile Werewolf. That was an undeniable fact. Yet it was not so much so the nature of its powers that instilled terror and panic on the battlefield, but the sheer magnitude of its stat and qi reserve dominance that had allowed it to tear through their diamond formation coupled with the battlefield advantage that it so heavily exploited.
+
+The Dao Mark had let James call upon a deadly poison, but back then, Jack didn’t have True Sight to discern its nature. Sure, he’d had his conjectures, but assumptions would have gotten him nowhere when there were such wide lacunae in his understanding of the energy source that Qi was.
+
+When Marcus had called upon his flames though, which seemed to be in an entirely different classification compared to that poisonous energy that had played a role in Andrew’s death, Jack hadn’t hesitated to use True Sight to discern its true nature.
+
+Until the Qi flowing through Marcus’s meridians reached his left arm, it appeared in a standard azure hue, no different from the Qi flowing through his own dantian. However, the moment it crossed from his left shoulder to arm, making contact with the flame symbol, its nature was invariably altered. Incandescent orange energy that seemed to be nimbler than regular Qi zipped down his meridians and in what felt like the blink of an eye, had made their way to the meridians mapping his left hand.
+
+It shouldn’t have been possible for Qi to just change like that, for its form to just be altered upon making contact with the flame symbol. There had to be more at work here, some form of energy that either his True Sight wasn’t capable of discerning because of a limitation in scope or because of the changes being so microscopic in nature that True Sight’s sensitivity wasn’t high enough to register them. Or maybe the answer was simply beyond his current level of knowledge that he had no hope at even guessing a reason.
+
+It was frustrating to be able to observe a Dao Mark in action from such proximity and not be able to discern the secret that allowed it to transform regular Qi into an elemental variant like fire, but there were still questions that Jack could have answered.
+
+He wondered if Marcus was capable of calling upon the Qi Fire on his other hand, given the absence of a mark on the other arm. Trent had been able to lash the poisonous energy onto his arrow tip as if it was second nature, so the Dao Mark didn’t need to be connected to the cultivator to still retain its effect. Andrew, rest his soul, had been testament to that fact.
+
+Even if he asked Marcus the question, if he was smart, there was no way he would answer honestly.
+
+Marcus’s immunity to his own Qi Fire seemed like a given, but Jack still found himself wondering how far it stretched. Would his tattered clothes and artifacts burn if he pointed his Qi Fire at them, or would they be exempt the same way his own body appeared to be?
+
+The poisonous Qi seemed very different in form and function from Marcus’s Qi Fire and Jack hadn’t forgotten about the Qi Fog that surrounded them.
+
+Perhaps it was foolish of him to try and solve the mysteries surrounding a power that the system was willing to plunge the entire world in chaos to awaken but there was still one question Jack needed answered at all costs.
+
+As Jack’s Primordial Claw swiped across the flames dancing across Marcus’s palm before the latter could react to it, an action he was determined to follow through even if his hand blistered from the exposure.
+
+To his surprise, his Primordial Claw caused the flames dancing on Marcus’s open palm to wink out as it raked across his hand. His fingers had never actually made contact with Marcus’s palm, just his Qi that comprised the claw-shaped construct overlaid on his hand.
+
+He had expected it to outright fail, but instead the Qi Fire began to use his Primordial Claw’s Qi Reserve to fan its own flames, spreading across the claw-shaped Qi Construct in the matter of seconds.
+
+“What the fuck!?” Marcus exclaimed in shock as he staggered backwards, gazing at Jack with disbelief and a glimmer of fear.
+
+Jack’s expression remained calm as he studied the flaming claw that now wreathed his right hand, though inwardly he was anything but. Firstly, Marcus’s flames were consuming the Qi that made up his Primordial Claw, which was requiring him to supply more Qi to the technique.
+
+Secondly, unlike Marcus, Jack wasn’t immune to the heat emanating from the Qi Fire, which meant that even though a layer of Qi was separating him from making contact from the flames, his hand still felt like it was being scalded in a pot of boiling water.
+
+The solution though, was simple enough. Jack simply let go of the Qi that made up the Primordial Claw, letting the Qi already outside his body return to the ambient qi that had transformed earth into the new world.
+
+The Qi Fire naturally followed the concentration of Qi, causing the flames to continue burning mid-air for a few seconds until they ran out of Qi to combust.
+
+Jack’s hand had turned a shade of red and inwardly, he was wincing in pain, but he let none of it show as his gaze squarely met Marcus’s own.
+
+“Not bad,” Jack declared with a nonchalant grunt, even as he inwardly acted on a decision he’d made a while ago. Two points into Constitution, Two points into Dexterity and One into Wisdom, Jack thought-commanded, making his decision clear to the system. Strength and Perception had been stats that had paid their dividends, but after unlocking the Essence Syphon Art, his fighting style had changed quite considerably. True Sight augmented his perception more than raw stat bonuses could do in the short term and Primordial Claw was more efficient than trying to hit harder than Spiritual Beasts.
+
+Constitution was something Jack felt like he could use more of if he was going to keep inadvertently finding himself in one on one battles. Jack doubted that two points alone would have made much of a difference if he had been the one to catch the Juvenile Werewolf’s elbow in the chest in Marcus’s stead, but if it kept him alive even a few minutes longer, then that was minutes he could use to access the tutorial shop and buy himself the Flowing Vitality Pill. It was better to live till forty than to not live at all, after all.
+
+Dexterity was a stat he hadn’t gotten to invest in much so far and being able to react to a threat was as important as being able to perceive it, though circumstances had forced him to lean in favour of the latter. True Sight had changed that and Jack intended on capitalizing on the opportunity.
+
+Wisdom was a stat that had spoken for itself, even though the two points he had gotten came from the Seeker of Hidden Wisdom Feat he had earned. Given that they now lived in a world of constant combat, Jack imagined that the stat wasn’t a high priority for other survivors or well, cultivators now, that were out there trying to eke out their survival. Even Jack couldn’t invest too heavily in it yet, but when it came to Wisdom, even a single point could make a difference between drawing a vague connection between two events and reaching a startling conclusion.
+
+The changes to his body had gotten subtler from an overt perspective as his overall stats has increased, but that didn’t stop his right arm from returning to a healthy tone as his skin was pulled taut, his muscles spasming beneath the surface as they were corded tighter and his blood rippling as what felt like a wave of purifying energy spread outwards from his dantian.
+
+“You should keep experimenting with this ability of yours, see if you can get it to apply to your sword,” Jack nonchalantly continued, as if he just hadn’t recovered from a burn in a matter of moments. If Marcus thought it through, he’d realize what had happened, but the healing could just as easily be attributed to his Essence Syphon Art — not like Marcus knew the extent or limits of the cultivation technique.
+
+“I… what— how did you…,” Marcus awkwardly trailed off, his tone too discombobulated to be angry.
+
+“I killed the Werewolf, this should hardly be surprising,” Jack dismissively replied. “Now, it’s time to claim our rewards and get moving. I might’ve killed one, but if we run into another there’s going to be casualties. If anyone disagrees, they can stay behind,” He declared with an air of finality to his tone, indicating very clearly that it wasn’t up for debate.
+
+Only time would tell if trouncing Marcus’s new ability with his Primordial Claw had crushed his ego enough to quench any rebellious thoughts, but until the Dao Mark wielder earned his trust Jack would keep his guard up around him. As was the case with the trial itself, the unknown inspired the greatest of fears and Marcus didn’t have a way of confirming the limits of his abilities, whereas Jack had an idea when it came to Dao Marks.
+
+As he turned and walked past Jin and Sarah towards the chest, he noticed Jin’s surprised look and Sarah’s intrigued expression with some amount of amusement, before continuing onwards to the chest.
+
+It was time to claim his rewards.

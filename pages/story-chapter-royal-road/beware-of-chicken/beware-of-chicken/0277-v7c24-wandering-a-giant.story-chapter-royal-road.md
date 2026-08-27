@@ -1,0 +1,195 @@
+---
+id: 96a5c902-60a2-5809-96b5-f16c996c5087
+page-type-slug: story-chapter-royal-road
+title: "v7c24: Wandering a Giant"
+slug: 0277-v7c24-wandering-a-giant
+partOf: beware-of-chicken
+position: 277
+ownLength: 2439
+unit: words
+ownProgress: 2439
+publishedAt: 2026-02-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3000910/v7c24-wandering-a-giant"
+royalRoadId: "3000910"
+markedReadAt: "2026-06-29T19:00:55.748Z"
+---
+
+“Your benevolence surpasses all others, Master Jin; we can only express our deepest gratitude,” Delan said, bowing deeply to me.
+
+We were standing at the gates to the sect, and everyone was lined up again to see us off.
+
+Delan still seemed a bit awestruck by everything that had happened with the Ironfields. While me fixing the water and the rust near the settlements was the most obvious thing I had done, there were also the facts that Mei had impressed healing upon her ‘new family’, and I had given them a bunch of primers on how to make good soil for this temperature range and composition. That would fix the problem of their stunted crops
+
+Oh, and I had provided instructions on how to grow the Spiritual Herb I had gifted him, but that was less important than fixing the soil quality.
+
+Things would get better for everyone here. Slowly, steadily, if they improved on the foundation I had given them.
+
+Now technically, I had put him vastly into my debt, going by the normal social conventions. A debt he was obligated to try and repay to me, but that was mostly sidestepped by saying that I considered this repayment for what Delun had done, taking care of Yin and the Torrent Rider, as well as defending Tigu not once but twice.
+
+A reward for virtue, rather than an unrepayable debt.
+
+And if that failed, I could just say it was part of Tigu’s bride price later. Honestly, now that everything was out in the open, the two of them were very sweet. Not much really changed, but Tigu’s cheek rubs on Delun were definitely more tender and affectionate than the ones she gave to other people.
+
+They both just… kept doing what they were doing. Working on art together, getting to know each other… and mostly just being friends.
+
+It was cute as hell. Meimei was practically addicted to listening to Tigu chatter about her and Delun’s days together. Tigu certainly didn’t mind Meimei doting on her while they spoke, and I listened in.
+
+I had been right in my initial assessment. Delun was a good guy.
+
+“Thank you for having us, Master Delan. I look forward to you visiting our home in the future,” I said, making the gesture of respect.
+
+And with that… it was over. We left the Hermetic Iron Sect with much fanfare from the people there. I clasped forearms with Delan and Handsome Man, and got plenty of hugs from Tigu—who in turn would be heading north to check up on the surveyors that were mapping the northern reaches of the province.
+
+Zhuye took us leaving better this time… but he still did seem confused about why Tigu wasn’t coming with us.
+
+We left the shining silver ring on the hill in our carriage, Washy flying overhead. It had been a good visit, all told, even if I did feel tired from all the work I had done.
+
+I closed my eyes, reopened them in Tianlan’s Spirit Realm, and walked back into the arid Ironfields on a road made of burnished bronze.
+
+“How you holding up, Tianlan?” I asked her, and received a feeling of relief in response.
+
+“Ah, man, it's like fixing a crick in my neck I never knew was there,” Tianlan whispered. “I feel… bigger. More whole.”
+
+I closed one eye and turned my sight inwards. I studied her intently.
+
+“Whatchu talking about, you’re still tiny!” I teased, and Tianlan rolled her normal eye.
+
+“Metaphoricially, jackass,” she replied. “And what's wrong with me being this size? I like it more than the size I was before—getting to ride around on people’s shoulders is great!”
+
+“You just like being a gremlin, and that form suckers people into forgiving you,” I accused.
+
+Tianlan’s grin just got wider. She really was a little shit sometimes… and I really did like that about her. Whimsical land gods were more fun. Kept you on your toes.
+
+I snorted and a spiritual arm reached out to ruffle her hair, while she stuck out her tongue at me. I retreated from her realm, and let my Qi flow, feeling the world around me.
+
+What we had done had mostly been patch jobs; Tianlan wasn’t wholly repaired here… but that was never the point. It was the start of the process.
+
+Just had to fix the rest of the leaks… but before that was Pale Moon Lake City. I settled in for the long haul. It was about a week away, again.
+
+==========================
+
+And so time passed, and we got readjusted to travelling. The carriage was fairly large, as carriages go, but we were still quite snug close to each other, and travelling for weeks on end was boring; we all needed stuff to do.
+
+Suyan was humming to Zhuye, who was laying on her chest and using the tip of her tail like a conductor’s baton, pointing at the bees on the ceiling, who obligingly would twirl or shuffle at his command. Suyan’s own head was on Meimei’s lap, the fox woman patiently and silently enduring Meimei’s questing fingers around her ears, and occasionally writing down an observation in a scroll while she relayed some of Tigu's stories to Lady Wu.
+
+Though Suyan’s position didn’t look like that much of an imposition. The fox-woman was practically a puddle, and her humming tune was weaving in and out of key as she struggled to stay awake.
+
+Well, she deserved the rest. She had been working hard for us already—hells, she had even learned a weaker version of Meimei’s siphon technique when she saw that Meimei didn't want Zhuye eating any of the extra metal.
+
+Not for the first time I was glad Peppa suggested the arrangement. Maids were very useful.
+
+Beside Suyan was Xue Ji, the other fox talking animatedly with the Auditor and Washy—who was hanging out the front window, his pot outside on the driver’s seat of the carriage.
+
+All of them were talking about the social and political ramifications of any changes to the Ironfields. Xue Ji and the Auditor were absolutely nerding out, scrolls in front of them, along with yields and projections I could only barely parse.
+
+“As you can see, populations correlate here. They're getting these yields now, with this population—” Xue Ji said, gesturing, with gleaming eyes.
+
+“Yes, though it also depends on how much the sect lets them get away with. If Master Delan takes a light hand, and the Lord Magistrate reinvests wisely…Master Wa Shi, if you please,” the Auditor asked, and the fish started crunching the numbers.
+
+Washy had gotten into it mostly for the numbers and formulas they were throwing around, he found the math of it all interesting, and occasionally would turn around and ask Babe what he thought about the discussion. Most of the time the ox would amusedly reply that he had no real opinion, but he seemed to appreciate being brought in on the conversation… though the one time he did speak he completely upended the conversation.
+
+‘But what about the railroads?’ he asked.
+
+Both of the finance professionals froze… and then their eyes widened almost comically.
+
+“Too stuck in the normal modes of thought. Heavens above—” Xue Ji murmured, looking stunned.
+
+The Auditor looked like he had just unlocked some secret of the universe.
+
+I shook my head with amusement and turned to the last member of the carriage, who was clearly deep in thought. His face was especially serene today.
+
+Which meant he was probably very nervous about us heading to Pale Moon Lake City. The man had an insane poker face, but I was beginning to suss out some of his tells.
+
+Honestly, it just made me respect him more. I had a long way to go to reach his level of composure.
+
+Still, it was no good to wallow in your own head.
+
+“Teacher?” I asked, and he startled slightly, his eyes snapping to me. “How did I do at the sect?”
+
+He paused, clearly processing the question, his mind obviously shifting from worry to analysis.
+
+“Well, I would say you have done very well for your first outing—you were perhaps a bit too generous, but with the nature of your relationship, I cannot fault…” he began, and I pulled out my own pad of paper to make notes of any critiques he had.
+
+I was pretty sure I got at least a passing grade.
+
+==============================
+
+While the Azure Hills were considered to be a small province by the Crimson Phoenix Empire, it was still massive. Nearly three thousand five hundred Li from north to south; 1700 kilometers. Over a thousand miles.
+
+Needless to say, it was still fucking huge.
+
+The Ironfields swiftly transitioned back to big conifers as we headed south, which then started turning into more deciduous trees. As we went we started getting more rain too, the landscape turning lush and vibrant, as the Howling Fang Mountains forced the clouds spawned over Pale Moon Lake away from them.
+
+We stayed in the shadow of the mountains for a couple of days, travelling along the rivers. This part of the province reminded me a lot of the foothills of the Rockies. You could see plenty of rivers coming down from the mountains, and there were a lot of exposed slabs of grey stone breaking up the landscape, which got more and more pronounced as we escaped the area of transmutation that had happened during the cataclysm.
+
+Villages remained few and far between; the land still had a wild and untamed feeling. Most of what people did here was logging, where they sent the timber down the various rivers to Pale Moon Lake; this was also where Biyu’s father plied his trade, taking shipments from here and from the Ironfields. The few villages we stopped in long enough to chat knew of him, and were quite pleased with his rates.
+
+There was one Dragon Vein blowout along this route.  There was a small puddle of golden liquid, pooling on the ground in the middle of a grove of trees; I fixed it up in about an hour, sealing shut the leak with Tianlan. Nothing really seemed to have happened with Tianlan’s Qi pouring out. The trees looked a bit bigger and healthier, but nothing else seemed to have found the upwelling of Qi.
+
+Soon, we turned in from the mountains. Away from the shadow of the Fangs, and to the west, beginning the long route one needed to travel around Pale Moon Lake’s northern shore.
+
+From there, we started to see more people. The isolated villages started to become towns with greater and greater regularity. The untamed Ironfields and pines of the far east turned into increasingly managed farms, and at last, we hit a route I was familiar with, having taken it before.
+
+Our pace slowed a bit, as we had to navigate suddenly having other people on the road, but we still kept up a good clip; this time, things were completely uneventful. No Spirit Beasts. No bandits. Just the road.
+
+We did have one detour though.
+
+================================
+
+Meiling stood at the top of the world. Her breath came out in wisps of vapour, her eyes wide as she stared down from the summit.
+
+“Yun Ren was right. You really do need to be here,” she breathed.
+
+Cloudrest Peak was truly spectacular; breathtaking even. Jin’s crystal chimed, and she smiled in the direction of the recording, her grin wide. Zhuye, in her arms, also turned to look at his father, her little one clearly intrigued at how quickly the temperature had changed.
+
+“Oh, that's a great shot!” Jin declared. “Teacher, you next! That rock right there! Put one foot on it, like a great general!”
+
+The Lord Magistrate huffed, but obliged, putting one foot upon on a rock, and staring out sternly into the distance.
+
+“Oh, yes, I want that one, make sure I get a copy, please—” Lady Wu said, her eyes sparkling.
+
+Meiling chuckled at the sight. The others were all looking around as well, taking in the sights. The Auditor was staring off into the distance, seeming genuinely touched by the view. Washy and Babe were making a little General that Commands the Winter out of the snow.
+
+There really was something about being so high up.
+
+Meiling scanned the horizon, taking in the vastness of the world… before her gaze turned back to the one thing that dominated the horizon.
+
+If one looked west, they would see the Grass Sea.
+
+If one looked east, they would see Pale Moon Lake.
+
+It was titanic. It stretched out as far as her eyes could see. She would have thought she could see some of its shape from up here, but the gentle curve of the body of water was nearly imperceptible.
+
+The blue just continued on forever. When she was younger, she had never seen the lake like this. The buildings had largely blocked the view.
+
+But here and now, she could see just how big the lake really was; it was the biggest body of water she had ever seen. The sails of ships stuck out against the blue in the thousands, and many more were heading east out of the river that eventually connected it to the sea.
+
+And the ocean, supposedly, made the lake look like a puddle.
+
+…how amazing the world was.
+
+And there, sitting against the lake, was Pale Moon Lake City.
+
+It too was a colossal thing, a sprawling metropolis that had spilled out over the walls that formed a half circle against the lake.
+
+It had been over a decade since she had last been to Pale Moon Lake City.
+
+There, she had seen a cultivator slay a child for daring to dirty his robes. It was an event that had haunted her ever since. It had coloured every thought she had about cultivators.
+
+And now she was returning to that city.
+
+There was some nervousness there. But she knew it was nothing compared to what Lady Wu and the Lord Magistrate were feeling.
+
+Meiling wanted nothing more than to just poison the lot of weeds; most people wouldn’t care.
+
+But they had their own plans; and Meiling respected them enough to let them do it their way.
+
+But if something did happen, Meiling had brought some poisons, just in case.
+
+Eventually, they had to get down from the hill.
+
+Meiling heard the Lord Magistrate take a deep breath.
+
+Then, he straightened out, his face firming, and he became the Patriarch of Verdant Hill.
+
+… she got the feeling that she didn’t need her contingency plans.

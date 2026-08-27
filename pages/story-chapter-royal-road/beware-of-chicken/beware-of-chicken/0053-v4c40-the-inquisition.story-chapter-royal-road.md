@@ -1,0 +1,149 @@
+---
+id: 490357e9-5a10-5883-935f-bde5bdb85446
+page-type-slug: story-chapter-royal-road
+title: "v4c40: The Inquisition"
+slug: 0053-v4c40-the-inquisition
+partOf: beware-of-chicken
+position: 53
+ownLength: 2087
+unit: words
+ownProgress: 2087
+publishedAt: 2023-09-11
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1339125/v4c40-the-inquisition"
+royalRoadId: "1339125"
+markedReadAt: "2026-06-29T18:53:12.078Z"
+---
+
+Yun Ren had to admit, it never got less nerve-wracking being called into the Inquisition's offices. Going down into the dark rooms and into the underground tunnels always made his hair stand on end.
+
+Lady Mist was escorting him as always, the woman walking slightly in front of him and gliding gracefully across the ground on soundless footsteps. Yun Ren copied her technique, leaving no trace behind him. It was pretty much how he was used to moving anyways when he was hunting—just altered for walking on stone floors rather than leaf litter.
+
+Not exactly the hardest thing to pick up, but Lady Mist had been impressed… though a bit too free with her praise, he felt. Like she was flattering him, rather than praising his ability.
+
+He was still leery of the woman.
+
+Yun Ren did his best to remember where they were going as they wound through the maze-like interior of the Shrouded Mountain. It wasn’t too difficult, remembering the left and right turns, but they were confusing as hell in how many there were and the nonsensical pattern that was leading deeper than he’d ever gone before. They passed by what had to be hundreds of wooden doors and entrances, most of them indistinguishable from one another, not including a few sets of large, fancy-looking double doors, before they eventually stopped. This door was a simple-looking wooden thing. A person’s eyes would glance over and dismiss it, as it was one of hundreds. Lady Mist opened it for them both and ushered Yun Ren in.
+
+Yun Ren kept his eyes forwards and stopped himself from fidgeting as he marched into the surprisingly big room. It had three other people in it, three cushions, and a low table for them to sit at. A single light crystal provided illumination. Yun Ren found his eyes drawn to the only person not wearing a veil. An old looking man with refined features, but not really anything truly stood out about him.
+
+The atmosphere was rather serious though, so he steadied his breathing like he did before he loosened an arrow at his prey, the world becoming calm and placid.
+
+“Gen Biren. Sit, please. We have much to discuss,” the old man said in a friendly voice. Yun Ren did as he was told. “Do you know who I am?” the old man continued.
+
+“I’m guessing the Head Inquisitor?” Yun Ren asked, shooting in the dark.
+
+The old man smiled. “Indeed I am. Now. This meeting is to discuss your progress with your training. Do you have any questions before we begin?”
+
+“No, Sir,” Yun Ren replied, shifting in his seat.
+
+“Excellent. Be at peace, for there is nothing about this meeting that should concern you,” the man said, accompanied by a toothy smile that never reached his eyes. Yun Ren couldn’t stop his shoulders from tensing, and the old man seemed amused. “We are very pleased with your performance thus far. Your decision making, your speed at learning our techniques, and your ability to remain discreet are all impressive. An aspect we are very impressed with is the capabilities you have shown with your self-imposed information gathering mission. Excellent work for a junior. Lady Mist in particular has issued a commendation for you.”
+
+Yun Ren felt the woman’s hand land on his shoulder, and he could tell she was smiling underneath her veil.
+
+“She has taught me well,” Yun Ren said honestly. The annoying part was that she was a fantastic teacher. Probably the best he had ever had, not that he would ever say it to Meimei. She had recognised his troubles learning without doing anything instantly, then adjusted her lessons. Really, if she hadn’t been constantly flirting with him he would have gotten her a thank you gift!
+
+The Head Inquisitor nodded. “You have performed admirably… and now, we shall unveil to you the reason why we were moving so quickly with you, and hopefully reduce some of your skepticism. Your Qi, please.”
+
+Three vials were placed on the desk. Like all the last times, they were filled with mist, but these looked… darker than normal. They were grey, and some parts looked to be shifting to black.
+
+Yun Ren shrugged and covered them in flashes of light.
+
+The mist-filled vials were once more clear, and the Head Inquisitor nodded. “Do you know what was in those vials?”
+
+“Fox illusions?”
+
+Again, the man appeared pleased. “Indeed. Not just fox illusions, however. There was something else—some Demonic Qi we added. Both are now gone.”
+
+Yun Ren’s eyebrows raised at the revelation. He didn’t know he could do that.
+
+“You see now the reason for our interest? In addition to your more mundane skills, this is what we are interested in. This is why we are prepared to offer you wealth and women…” Yun Ren felt Lady Mist’s fingers slightly stroke his shoulder. He felt the world twist slightly at the rather blatant offer. If he hadn’t met Biyu, and if he hadn't heard all the stories from the foxes about the Inquisitors, he may have felt tempted. “We would nurture your skills and in return, you would be nurtured. We know of your companion’s statement that he shall only stay a while… but just because a man leaves the Mountain does not mean he has to leave the Sect.”
+
+Yun Ren nodded carefully. From what he knew they were offering him a very good deal.
+
+“That is… extremely generous, Head Inquisitor,” he ventured.
+
+The Head Inquisitor nodded. “I’m glad you understand, disciple. Of course, there is another reason why we wish for haste—A reason that will not leave this room.”
+
+The man smiled.
+
+There was no sudden feeling of intent, or furious Qi… Yet Yun Ren's hair stood on end and he started sweating. He swallowed thickly and nodded. “I understand.”
+
+“Good. I am sure by now you have heard the rumors— demonic infiltration within the Sect. Sadly, those rumours are in part true. A single demon was able to find its way past our defenses for a time, though he was soon forced to flee and  doubtlessly fearing discovery. It has, of course, been dealt with. Slain by a member of the Cloudy Sword Sect, who then entrusted us with the corpse so that we may continue to root the vile taint out.”
+
+Yun Ren’s jaw dropped open at the man’s words. They were talking about Jin. Jin had killed the guy. But he had just told Yun Ren that he had used the threat of the Cloudy Sword Sect to get them to back off. Now this guy was saying that they were trusted by the sect, and had received a mission from them?
+
+Then he remembered Jin mentioning he had gotten a poem that he couldn’t understand from the sect. Was… was that them thinking they were accepting a mission or something?
+
+Either they were lying… or they were telling the truth, and Yun Ren didn’t know which was worse.
+
+Especially when Shen Yu came calling, though he had a feeling the old man would just find the entire misunderstanding hilarious.
+
+The Head Inquisitor looked amused at Yun Ren’s reaction. “Indeed, it is something shocking, but it is proof of our might. The only way the demons could hope to harm us was through infiltration, rather than combat, and we have been entrusted with the defense of the north by the Cloudy Sword Sect.”
+
+“I-I see,” Yun Ren got out, his voice a rasp.
+
+“This is why we desire your cooperation. This is why you have been put on a fast carriage. We shall meet the expectations of the Cloudy Sword Sect and for aiding us you shall be rewarded beyond your imaginations. We shall achieve glory as the bulwark of the north. We shall purge the demons from the north.” The Head Inquisitor’s voice was firm and filled with conviction. “Our strength will rise above all—this was the edict of our Master and Founder, the Second Patriarch of the Zang Clan.”
+
+Yun Ren’s mind was reeling. The story simultaneously made sense, and made no sense. They thought they were fighting against demons on behalf of the Cloudy Sword Sect?! They had gotten him in so fast because they thought he would help them fight against demons, and not foxes?
+
+His gut had been twisting itself into knots for no reason? He had been expecting demonic ambushes, or the inquisitors to be in cahoots with the demons or something, not that they were apparently committed to fighting them.
+
+There was still the chance that they could be lying to him, of course. They were clearly trying to get him on board. And yet…
+
+“Well, if it's against demons… I’ll do what I can to go against them,” Yun Ren said truthfully.
+
+“Excellent. Excellent! You shall receive your veil and you shall be afforded passage into the Archives. Lady Mist shall be your liaison. Treat her kindly.”
+
+“Yes, Sir,” Yun Ren responded.
+
+All at once, the small bits of tension in the room dissipated.
+
+“Good. Cultivate diligently, Gen Biren, and you may perhaps sit in this seat one day! Though we do have one final item on our agenda. Your own investigation… and the truth of the Che family. This, however, cannot be told directly to a member of the Che family. We know of your friendship… but consider this a test. Go into the Archives, section Bright Moon 11-190. Your answers lies there.”
+
+“Thank you, Head Inquisitor.” Yun Ren said, bowing.
+
+“Continue on your path, Gen Biren.”
+
+============================
+
+The Archives didn’t take long to find, especially as he was escorted by Lady Mist. He was even more wary now of her then when he just thought she might have been flirting. Now she was obviously flirting, and for an end that Yun Ren wasn’t sure he liked.
+
+He felt slightly slimy standing next to the woman who had been asked to… service him.
+
+He put it out of his mind as he was shown into the massive vault, at least three Li long and five wide, carved directly into the stone heart of the Mountain. He didn’t have time to gawk, however, as he was directed to a set of scrolls in the back.
+
+Section Bright Moon 11-190.
+
+He carefully picked up the ancient thing, and with one glance at Lady Mist he began to read. It was a rather short report.
+
+Che Hanbin was overheard by agents questioning the events surrounding the death of the previous Patriarch, Zang Yong. When the matter was unveiled to the current Patriarch, action was ordered.
+
+Culling was considered, but the Patriarch showed clemency. Instead of the line being culled, all Che Clan members are to be transferred to menial Sect tasks or to the Fulmination Squadrons. In the words of the Patriarch:
+
+“The vine shall wither, but the Sect may still make use of the stunted fruit.”
+
+Glory to the Shrouded Mountain Sect, and Strength Above All.
+
+He read it again and just stared at the page as his insides started to feel hollow.
+
+“At least one of my family has died in every conflict the Shrouded Mountain Sect has taken part in,” Fat Han said.
+
+They were using them as meat shields. And they just… felt justified doing it?
+
+The Che family didn’t even know they had disrespected the Patriarch either—it was purposefully kept secret, and it had been enforced for thousands of years by the Inquisitors? Thousands of years of people killed without recourse because of a slighted old man?
+
+Yun kept his face plain while inside he could feel nothing but disgust and nausea. The whiplash from stalwart men fighting against demonic infiltration to cunts getting people killed for nothing made his skin crawl.
+
+He felt the gentle brush of Summer’s Sky against his mind, the Sword concerned enough about what he was feeling to risk contacting him. Some people could feel Spirit Swords when they communed with their wielders, and Yun Ren gently pushed the tendril away… though he felt a spark of rage from the sword.
+
+Lady Mist, who had been reading over Yun Ren’s shoulder, snorted.
+
+“That truly was kind of the Patriarch, to let them live ” She said, her voice cold and haughty.
+
+“Yeah. Really kind,” Yun Ren replied evenly.
+
+He stared at the paper for a moment more.
+
+Then, he took a breath and steeled himself.
+
+He had access to their Archives. He might as well make the best of it…. And see what else they had.

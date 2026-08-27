@@ -1,0 +1,233 @@
+---
+id: 90dd1f76-488a-5d25-9ac6-3693811a5031
+page-type-slug: story-chapter-royal-road
+title: "v6c46: Senior Brother's Day at the Office"
+slug: 0235-v6c46-senior-brother-s-day-at-the-office
+partOf: beware-of-chicken
+position: 235
+ownLength: 3348
+unit: words
+ownProgress: 3348
+publishedAt: 2025-07-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2455918/v6c46-senior-brothers-day-at-the-office"
+royalRoadId: "2455918"
+markedReadAt: "2026-06-29T18:59:26.768Z"
+---
+
+Two weeks ago, Lu Ri had been approached by Elder Ge to discuss the matter of the explanation of recent events to the people of the Azure Hills. They sat together in their current base of operations in the north, while Su Ge listened in.
+
+“I would normally not bother informing those who could not contribute, but the Grand Marshal did ask politely… and judging by those around Rou Jin, the ‘weakness’ of the Azure Hills is either false or fading,” Elder Ge said, rubbing his beard.
+
+“That does seem to be the case, Elder,” Lu Ri replied. “The entire province has been overlooked. Upon deeper inspection, it has produced things of note and interest.”
+
+“Yes. We will be leaning upon your little Plum Blossoms in the future, to truly take this province’s measure,” Elder Ge intoned, and Lu Ri felt satisfaction that once more the wisdom of the Founders was vindicated. “That is also why I am sending you. Convey my words so there is no room for misinterpretation. Emphasize our relationship here with Young Jin but do not directly claim him. Give them enough to know that if they wish to violate his privacy… we won’t look kindly on it.”
+
+“I hear and obey, Elder Ge,” Lu Ri replied. “But who shall assume my post while I am gone?”
+
+“Su Ge,” Elder Ge turned to his granddaughter.
+
+“Yes, Elder Ge?” she asked, bowing.
+
+“Take over the duty of guarding Hong Yaowu while Lu Ri is completing his assignment,” came the command.
+
+“It will be done, Elder Ge.”
+
+Lu Ri nodded. Their obligations would be satisfied with another defender in the village.
+
+“I have full confidence that you will both bring honor to the Founders and their teachings. You are both dismissed,” Elder Ge commanded.
+
+Lu Ri and Su Ge rose, journeying south. He smiled at Su Ge.
+
+“If you are in need of stimulating conversation, do ask Hong Xian for tea—it is most agreeable.”
+
+Su Ge returned the smile and nodded. “I’ll be sure to—especially since the mortal is growing Lowly—” she paused and looked around for Elder Shou. “Seven Fragrance Jewel Herbs.”
+
+Lu Ri chuckled. The man was quite adamant that they call them by their proper name.
+
+“Then… I will see you soon.”
+
+=============================
+
+Lu Ri travelled with Cai Xiulan’s party for the first part of their journey—it was quite fun to watch over the Younger Generation, especially one with such camaraderie. The songs and stories they told were amusing. He left them mostly to themselves, for he was an imposition on their group… but they still invited him to sit with them by the campfire. Bi De made very good tea, and Tigu had a stash of sweets she shared with him.
+
+He twice was goaded into playing the pipa for them, and three times was entreated to share his experiences on the road to the Azure Hills. His travels with Shen Yu proved to be most popular, especially when he reached the part about the caravaneers who had been harassed by the Earth-Crushing Devil Serpent.
+
+“Wait, she said she was going to marry Master?!” Tigu demanded, sounding impressed. “This Ai has guts!”
+
+“Hells, if I was a girl I’d say the same!” Rags said, shaking his head. “That's the kind of heroism that's attractive!”
+
+“Like Master, like disciple,” Ri Zu chuckled, shoving her elbow into Bi De’s side and sticking her tongue out at him.
+
+“Of course. It's only natural,” Bi De said with an air of arrogant assuredness. Rags, Loud Boy, Gou Ren, and Tigu all made rude gestures at him.
+
+Cai Xiulan had an amused smirk on her face. “I’m going to tease Meiling with this later,” she giggled to herself.
+
+Ah, youth.
+
+But as they neared Pale Moon Lake, Lu Ri had other plans.
+
+“I will meet you at the Dueling Peaks. I have matters I need to attend to,” he informed Xiulan. Both she and Rags regarded him with knowing looks.
+
+“Then we’ll see you there, Master Scribe,” she told him. Lu Ri smiled enigmatically at them both.
+
+And so Lu Ri took a different path, accelerating far past what the slower members of the group could manage. He slipped into Pale Moon Lake City, his Qi suppressed so as to not rattle the few detection stones that remained. With casual, practised ease, he went down an alley until he stood before a drunkard who had eyes that were entirely too sharp.
+
+"The shade under a plum tree refreshes the spirit," Lu Ri said casually, using his specific passphrase.
+
+“And its fruit is a grand prize,” the drunk replied, his smile bright. His forehead touched the snowy ground. “Master Scribe, welcome back.”
+
+Lu Ri nodded to the man as the door to the Plum Blossom’s Shadow headquarters opened.
+
+It was much the same as the last time he was here—a hive of activity even in winter. Lu Ri noted the maps on the walls now all had street names, and there were lines of yarn connecting the fastest ways through the city. Lu Ri let himself smile.
+
+Wonderful.
+
+He entered into his office and was soon attended to by a man he recognised. Chen Lianji, who was wearing the new sash of a man who had been promoted to the higher echelons of Lu Ri’s organization. How diligent!
+
+“Master Scribe, how may we serve?” Lianji asked, bowing low.
+
+“I will need the usual reports,” Lu Ri replied. “And I have a recommendation.”
+
+“A recommendation, Master Scribe?” the man asked, tilting his head to the side. “Not an order?”
+
+“No, not an order. It would be an insult if I mustered myself for this matter, but I shall say that the Azure Jade Trading Company will soon desire all the information you have on the Wu Clan; and the Wu Clan is about to have… problems.”
+
+It was not Lu Ri’s place to interfere with mortal matters, even on behalf of his friend the Lord Magistrate. Nor was it needed. Lu Ri had, after all, full confidence that the man did not need his help.
+
+And so the Disciple of the Cloudy Sword Sect would do no such thing. Lu Ri’s information network was a mortal matter; the Lord Magistrate’s cleverness in making use of it, without it ever having been spoken of or offered, was none of his concern.
+
+Coming to an understanding of the situation, Lianji let a slow smile cross his face. “Of course, Master Scribe. We are always prepared to dutifully fulfill our customer’s needs. There is, as you say, no need for you to muster yourself in such a trivial matter.”
+
+Lu Ri nodded, pleased at the man’s swiftness of mind. “Now, how goes the classification of the Pale Moon Lake City addresses?”
+
+“We’ve completely finished assigning addresses to every street within Pale Moon Lake City itself, and are in the process of explaining the new system to its residents. We’ve already begun limited service within the city, as a cheaper alternative to the standard couriers and as a system open to everyone, not just government officials. We are rapidly building a reputation of trustworthiness and speed.”
+
+Lu Ri couldn't help the renewed smile that crossed his face. Having competent subordinates was a true blessing. “Excellent work on all accounts. Tell me, are there repeat users yet?”
+
+“Yes, Master Scribe. Miss Hua and Miss Zhu, both widows. They live on opposite sides of the city. Their requests are a bit…” Lianji paused.
+
+Lu Ri leaned forward. “A bit…?”
+
+“They’ve made it a game to see what we’ll accept. They have the proper fee and address each time, and we did say we’d deliver anything with the correctly filed paperwork… to date we’ve delivered thirteen letters, a ball, a candlestick, nine sets of chopsticks, a box of beeswax, and a puppy.”
+
+Lu Ri blinked. “Well, at least they’re using the service?”
+
+“Yes, Master Scribe. They also keep asking when we are going to expand operations. They have another friend on the north shore of the lake. We’ve already mapped out a route, and we think we can get it down to two days with the right men and properly placed waystations…”
+
+===================================
+
+An hour or so later, Chen Lianji bowed to his Master as he left. When he rose, he had an expression of pure wonder on his face. He walked back into the main hall, where his fellows were waiting patiently.
+
+“Lianji, what did Master Scribe share with you?” came the question when his expression was revealed.
+
+“Master Scribe has orchestrated the downfall of the Wu Clan, without ever revealing his—or our—hands,” Lianji said, the words difficult to fully comprehend. It was humbling, his machinations. They stretched so far, and with such silence.
+
+The Wus, one of the most powerful families in the Azure Hills. And Master Scribe had just strolled in, announced they were going to be no more, and then continued with the usual briefing.
+
+The room went silent.
+
+And then, their smiles were the same as his.
+
+“We must prepare for the downfall of one of the pillars of the Azure Hills. For our Master surely has someone ready to take their place… and extend our reach even further.”
+
+The smiles around him were all teeth.
+
+Truly, Master Scribe was an existence worth devoting oneself to!
+
+=====================================
+
+From there, Lu Ri ventured to Grass Sea City, where he received news of the successful delivery to the Lord Magistrate’s son as well as the requested report on how all of the delivery equipment was holding up.
+
+As expected, there had been problems over the long journey, but it was all useful data.
+
+As he was in the area, he decided to simply observe the Lord Magistrate’s son, curious as to his character.
+
+What he found pleased him greatly. The young man had not strayed far from his father. Righteous. Bold. A wonderful administrator. The Lord Magistrate had much to be proud of; his son would surely be his equal in time.
+
+Then, and only then, did he travel to the Dueling Peaks. He arrived a day before Xiulan and her company, and spent the time familiarizing himself with the Peaks. They looked different than when he was last here. The systems, rather than being derelict and rotting, were being repaired. There was fresh scaffolding and unworn parts, and Lu Ri couldn’t help but acknowledge Xiulan and her companions’ skills.
+
+They spoke briefly, confirming their prior plans, then Xiulan left to begin the meeting. Lu Ri waited, suppressing his Qi, while Bi De, Ri Zu, Yun Ren, Gou Ren, and Huo Ten took the stairs to the viewing gallery where the disciples were seated, being allowed to watch these proceedings. Several of the Azure Hills cultivators recognised Yun Ren and Gou Ren, standing up to welcome them warmly, one of them even shouting “Image Master!” with great cheer.
+
+And then it was time.
+
+========================
+
+The room was in complete silence. Xi Kong felt his breath catch in his throat. No one dared to make a sound. Not the Elders, and not even the disciples who were seated in the viewing galleries away from the main seats.
+
+Master Rou Jin, when he had first met with them, had said he was affiliated with the Cloudy Sword Sect. He bore their symbol, and for most, that was concrete enough proof—but some still doubted, in quiet whispers. What would a Master that powerful be doing here in the Azure Hills? He was mighty, yes, but was he truly of the Cloudy Sword?
+
+None dared to act on their suspicions of course, given Master Jin’s demonstrated power, and it was relegated to muted questions.
+
+Lu Ri’s arrival and announcement slew those rumours with a single stroke. The name of his Master resounded throughout the world—and it was not a relic of the past, that name, told only in stories. Only last year ago, the man had been honoured by His Imperial Majesty as one of the heroes who had thrown back the recent demonic invasion. Xiao Ge, the Black Cloud of the Silent Sky. A paragon of cultivation and might. A master beyond all other masters, a cultivator whose existence was, to them, the existence of a god.
+
+And the servant of this man, his disciple, had been ordered to speak to them and inform them of what had happened in the north because of Xi Kong’s daughter’s meritorious deeds.
+
+They had only been told the matter had been resolved and they need not worry about it happening again. Most had taken it to mean that some small thing had happened. This was obviously not the case.
+
+The man stood serenely, completely and utterly unbothered by the tension in the room. He was simply waiting… Xi Kong paused. He is waiting for any objections.
+
+He had asked them if it was alright to begin, and there had not been an answer yet. And after one more breath in frozen time, the man apparently judged that no objections were forthcoming.
+
+“To provide context for our involvement with this matter, I shall start at the beginning.” Lu Ri’s voice was mild, yet it commanded attention without effort. “During the last Dueling Peaks tournament, a matter was brought to Spiritual Herb Master Rou Jin’s attention; that matter being the potential demonic influence on the Young Master of the Shrouded Mountain Sect, Zang Li.”
+
+Xi Kong saw the nods around him as the other Elders remembered that fateful night. What was more interesting to Xi Kong was that they finally had Master Jin’s title; Spiritual Herb Master. A most appropriate title, when the man gave out treasures like his rice and syrup without a thought. A Spiritual Herb Master from the Cloudy Sword Sect would surely have Spiritual Herbs that made those of the Azure look like mortal plants.
+
+“This was concerning to Spiritual Herb Master Rou Jin, and so a trusted affiliate was dispatched to the Shrouded Mountain Sect to ensure that anti-demonic protocols were being followed. This move proved prescient. While the sect was clear of demonic taint, Demonic Cultivators had attempted to infiltrate the sect to sow discord within the Howling Fang Mountains province.”
+
+That caused several concerned murmurs, but Xi Kong felt his heart pulse wearily in his chest. To think that, without Master Jin, Xiulan would have been taken by an actual demonic cultivator! Truly they had the luck of the Heavens.
+
+“However, while the sect had no demonic taint, the conspiracy within the Howling Fang Mountains was far larger than anticipated. The trail of corruption led to the Sea of Snow—wherein a Demonic Cultivator of the Imperial Realm orchestrated events.”
+
+The man’s voice never deviated from its calm, matter-of-fact retelling, even when his each and every word left the room reeling. One of Xi Kong’s fellows spat blood, and Xi Kong could feel his own cultivation shaking under those words.
+
+An Imperial Realm Demonic Cultivator?! That was the kind of thing that would be akin to the end of the world for provinces far grander than they!
+
+“Our affiliate engaged this threat in battle and defeated it,” Lu Ri continued, his voice still unchanging. The swelling sea of emotion within Xi Kong shifted again to a peak, but he was sure it would drop just as swiftly. “However, before this occurred, the enemy sent an assault force… to the Azure Hills. This was composed of over one hundred Artificial Demons ranging from the Fifth Stage of the Initiate’s Realm to the First Stage of the Spiritual, three Earth Realm cultivators, and one Sky Realm Cultivator construct.”
+
+There was a choked wheezing sound coming from someone. Xinlingi had spilled her tea, her hands shaking so much they couldn’t even reach her lips. Ulagan Baatar’s face was pale and pinched, the man gripping the stone desk before him with all his might. Fortunately, the stone of the Earthly Arena held true.
+
+Tie Delan simply threw his hands up and slumped back in his seat, staring blankly ahead.
+
+“From here, I turn it over to the primary investigator for this body, Commander of the Grass Sea Dong Chou,” Lu Ri finished. At this the man stopped speaking and turned, nodding at Rags, the man who had started this investigation in the first place.
+
+The silence stayed, heavy and oppressive, as Rags cleared his throat.
+
+“The Grand Marshal and members of our alliance had gone to spend the Solstice with Master Jin and were present for the attack. Thus, Master Jin, his household, the Grand Marshal, Commander of the White Tigers Rou Tigu, Sect Master Liu Xianghua, Commander of the Blazing Swords Liang Yin, Head Mason Tie Delun, Ambassador Huo Ten, Zhang Fei, and Shaggy Two engaged this force in battle. During the course of this battle, the Grand Marshal used the unique geography of the area and a secret Qi source granted to her to perform a secret technique of the Verdant Blade Sect—a technique that reverberated throughout the Azure Hills as the Qi anomaly that was recorded on the solstice. With this technique the Grand Marshal was able to slay one of the Earth Realm Demonic cultivators; the rest fled or were defeated by Master Jin.”
+
+Xi Kong couldn’t even feel shocked anymore. His daughter had ascended to the Spiritual Realm, and transcended her Realm to defeat one in the Earth Realm.
+
+“That's… that's impossible,” the Master of the Azure Horizon Sect uttered weakly. He obviously could not believe it.
+
+Xi Kong almost agreed. That kind of thing just didn’t happen here. It sounded too fanciful. It sounded like they were making things up. Xi Kong himself could barely believe it, and he trusted his daughter implicitly.
+
+But the Senior Disciple of the Cloudy Sword Sect refuted nothing they were saying. No, instead, the man confirmed it.
+
+“It has been recorded by the Cloudy Sword Sect. The Grand Marshal acquitted herself well; her deeds were impressive to my Master, as was her bearing. It is for this reason that we are here addressing this body.”
+
+The man’s Qi hid nothing, for it did not need to hide anything. His intent bore down upon them, daring them to question the honour of the Cloudy Sword Sect.
+
+None were so foolish.
+
+“Upon finding out about the first Qi anomaly,” Rags continued, “We began our investigation. Due to the pulse of Qi, multiple secret vaults were opened and there has been damage to transmission stone networks across the province. There were minor secondary Qi anomalies from this. Additionally, when we reached Pale Moon Lake City, we discovered a second Qi anomaly, one which had damaged more crystals there. This second, greater anomaly has been deduced to have been a ship from Soaring Heaven’s Isle making all haste north; with the main forces of the Demonic Cultivators defeated, the affiliate of the Cloudy Sword Sect sent word to the Sect and their allies. Soaring Heaven’s Isle and the Cloudy Sword Sect then scoured the Sea of Snow, putting the rest of the demonic cultivators to the sword and destroying every hidden base they found.
+
+“A token force will remain in the very far north on guard for any other demonic cultivators.” Rags took a breath. “This concludes our report. I hope the Elders understand the truth of the first transmission I sent back. The situation was resolved, no longer dangerous, and could not be conveyed over a transmission stone.”
+
+Rags bowed and stepped back.
+
+For a moment there was nothing.
+
+And then Xiulan, his daughter, cultivator in the Spiritual Realm, a woman that had impressed the Cloudy Sword Sect, stood.
+
+“It is a lot to consider,” she said. “We shall recess and reconvene in an hour, where we will be available to answer most questions. All in favour?”
+
+Slowly, shakily, hands rose.
+
+A recess was called. Xiulan left the room, with the Azure Heroes trailing behind her.
+
+For a moment more, there was silence.
+
+Then Bai Huizhong broke it.
+
+“I need new robes,” the normally bombastic man said in a tiny voice.
+
+Xi Kong was quite close to needing the same.

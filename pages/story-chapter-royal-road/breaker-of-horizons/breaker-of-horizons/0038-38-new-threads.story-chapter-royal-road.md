@@ -1,0 +1,171 @@
+---
+id: 0d1b0dfb-18e9-5a6b-822d-e52e64adba0c
+page-type-slug: story-chapter-royal-road
+title: "38. New Threads"
+slug: 0038-38-new-threads
+partOf: breaker-of-horizons
+position: 38
+ownLength: 2328
+unit: words
+publishedAt: 2020-09-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/552560/38-new-threads"
+royalRoadId: "552560"
+---
+
+"Spiders..." Ambrose murmured as his eyes darted around behind closed lids. "Stream... chain..."
+
+After a minute or two more of this, he quietened and seemed to fall into a deep sleep.
+
+"Well, that's pretty much it," Devon said, getting to his feet and handing me the piece of paper he had been scribbling on. "It's all there. Spiders, stream, chain, woven, learn, and a bunch of other random words."
+
+"Thanks, Dev." I took it and looked down on the bed where Ambrose lay, dressed in the blue cotton clothes of the infirmary patients. He looked completely unharmed, but I could sense a violent roiling of arcana within him, and I could catch the flavour-vein-echo of that mysterious arcanic being wafting off him. My best guess was that he was having a very, very protracted conversation with it. I still wondered how nobody else seemed to notice it. At least, none of my fellow dormmates. The Demiurge himself had stopped by, and he was probably the only person who really knew what was going on. The healers probably knew a little, but not as much as Caldwell.
+
+Devon glanced at the wall clock. "That was the longest so far. About six minutes."
+
+My attention went to the list. I knew some of these concepts, but seeing them expressed only in scattered fragments made it hard to trace what was going on. It was like listening to only half a conversation and then only getting every tenth word, or even less than that.
+
+"So, it's been about two weeks now of taking turns to keep tabs on him during our free time. Do we get an explanation?" Devon asked, managing to somehow pitch his tone exactly between an impatient demand and a light request.
+
+I shot him a guilty look. "I'm sorry, Dev, but no."
+
+He sighed and shoved his hands in his pockets, looking frustrated. "Look, it's getting hard to ignore some signs."
+
+Something about the way he said that made me pay more attention. "What signs?"
+
+"People talk, Caden," he said simply, not meeting my eyes.
+
+"You guys have been talking about what happened? With people outside the dorm?"
+
+"What? No!" He shook his head emphatically. "No, it's still within the six of us. Well, five," he added softly, glancing at the comatose Ambrose. "But we've all been just sort of talking about it in private."
+
+"And?"
+
+"And... well..." He looked around nervously. By some stroke of luck (or more likely Prophetic intervention), the other beds were currently empty and the healer on duty was in her office, with the door closed. "...either you're the Chosen One, or Ambrose is."
+
+The laugh came naturally to me — I knew I was unchosen to the core. But I could see how they had arrived at that conclusion. That didn't mean I ought to spill the beans. "There are a hundred people in our cohort. How'd you narrow it down?"
+
+He gave me a pointed look, then jerked a thumb at Ambrose's unconscious form. "Nobody else in our year put someone else in some sort of coma. You haven't been disciplined in any way for that. You seem to be involved with the Demiurge a lot. And on top of all that, you've done some weird stuff, even for a Top Scorer. Remember that first ensorcelment in the dorm? And then that other time at the duelling compound where you flew?"
+
+"Ahead of the curve," I said dismissively. "Almost everyone knows about ensorcelment now, what with Reeves' weekly trial. As for the flying... well... I haven't been able to do it since, so that was a fluke." I saw no reason to burden him with the fact that I had managed it again at the lake. "And apparently the Demiurge drops in on other students too. You should hear some of the stories."
+
+"Yeah, I have, but come on, Caden. You've gotta know how it looks."
+
+"Well, it's not me," I said firmly, looking him straight in the eye. "I'm the guy who didn't even believe in prophecies, remember?"
+
+"Didn't?" Devon asked swiftly.
+
+"Well, I've seen some stuff too," I muttered, inwardly cursing myself for that slip. "And maybe I'm willing to revise my earlier position."
+
+"Then it's Ambrose who's the Chosen One."
+
+"And what makes you think that?"
+
+"If I believe you, then he's the next best option because of all the Double Thau stuff."
+
+"If that's your yardstick, have you seen Emilia this week?" I shot back.
+
+"You should ask Kevan that," Devon said, grinning a little despite himself. "Apparently she won their rematch earlier this week."
+
+"Well, that just proves my point."
+
+"Then... then that just means it's you!" he countered, serious again.
+
+"Come on, Dev, this is getting nowhere. And it doesn't matter who the Chosen One is because we all still have to live our own lives."
+
+"Uh-huh. That's the kind of thing the Chosen One would say."
+
+"Devon..." I sat down in the visitor's chair that he had vacated and looked up at him. "Let's say I go along with what you guys are saying. I tell you I'm the Chosen One. Then what?"
+
+His eyes widened and he sat down on the edge of Ambrose's bed. "Are you really—" he began in an awed whisper.
+
+"No," I said vehemently. "I'm trying to make a point. Work with me here. 'I'm the Chosen One'. Now what?"
+
+He looked extremely excited, but after a few moments on the receiving end of my disapproving frown, he sobered a little. "We... do what we can to help you fulfil your destiny?"
+
+"Why?"
+
+"Because... because it's a Major Prophecy. I mean, how do you walk away from that?"
+
+"But it's not yours to fulfil, is it? It's the Chosen One's. So why?" I pressed.
+
+"Well, they could use some help, couldn't they?"
+
+"You told me you just wanted to make your parents happy. That you didn't want to be a part of some world-changing, Empire-shaking thing."
+
+"I... well, maybe, but..." He hesitated, then seemed to settle on something. "that's if the Chosen One is someone I don't know. If it's one of my friends, then... then I guess I'll do what I can, even if it may not be much."
+
+I shook my head helplessly. "But you don't even know what the Prophecy is. What if it's something bad, and helping means you get hurt or even killed?"
+
+He paled a little. "Is that what it is?"
+
+"I keep saying, I'm not the Chosen One, and this is hypothetical," I said exasperatedly. "But stay with me here. If you somehow knew what it was about, and you figured out it would be bad for you... what would you do?"
+
+There was a long silence as he considered that. I could see that he was weighing it in his mind and taking it seriously. After a while, he let out a slow sigh. "I don't see that I have a choice. It's a Prophecy, isn't it? I can't choose my involvement. But I can choose the manner of my involvement. And I'd want to do my part willingly. Gladly. It's... it's like working in a restaurant. If you're in the kitchens and an order comes in, and it's a dish you don't like, you still have to make it. And you can choose to do a shitty job, or you can do your best anyway, and know that it brings some measure of joy to the person who ordered it, even if you don't like the dish, or even enjoy the process. There's... there's a certain kind of nobility in doing your part. And that's the kind of person I want to be."
+
+I stared at him, quite taken aback by the depth of emotion in his response. He was actually blinking furiously to clear his eyes.
+
+"So... so if you are, Caden, you know, the, the Chosen One..." he continued, his voice wavering a little, "just tell me, and I'll help. You can count on me."
+
+"I'm not, Dev," I said softly, feeling strangely moved. "Really. But... thanks anyway."
+
+"Well, that's... more than a little awkward," he mumbled, looking away and wiping his eyes. Then he chuckled weakly. "But also a bit of a relief. If that was my pledge of loyalty to the Chosen One, I'd have wanted it to be more epic. Like maybe with a sword or something, and also not next to a sickbed. And maybe minus the tears. I don't even know why I'm tearing up."
+
+"I'll take that pledge."
+
+Devon and I looked around, startled. Ambrose's eyes had cracked open, and he was favouring Devon with a pained half-smile.
+
+"Fates, you're awake!" Devon cried, leaping up. Then Ambrose's words sank in and he froze, the expression of glad relief on his face quickly giving way to shock.
+
+"Don't have a sword, but if you want a do-over we can use our butter knives," Ambrose joked, sounding very faint.
+
+I got to my feet, alarmed at how weak he seemed. "I'm going to get the hea—"
+
+"Wait," he interrupted, wincing as he raised a hand. "Before anyone comes. The Chosen One thing... just you two... for now. Let me... pick the time for... the rest."
+
+"Oh Fates, oh Fates, oh Fates," Devon started whispering, his eyes like saucers.
+
+"What has it been doing?" I asked in a hushed tone, certain that he would understand.
+
+Ambrose closed his eyes briefly and had to take in a laboured breath before he answered. "Doing lots... of stuff. Thinking. Telling... a lot. Too much. But it's all coming together. Making a bit of sense... here and there."
+
+I could tell, now that I was paying more attention, that there was a new development now. Even without the help of any arcanic construct, it was possible for me to catch a whiff of his auric-ambient-flare. The ensorcelment was finally sinking in. But it was clear that the ordeal was far from over.
+
+"Finally awake!" the healer said, emerging from the office with a silver rod inscribed with glyphs. She gestured at Devon and me to make way for her.
+
+The bed yielded to a practised wave of her hand and the top half gently inclined to bring Ambrose to a sitting position. She waved the rod slowly from the top of his head and down to his navel, then back up again. She repeated this several times, all the while staring hard, looking from the rod to the air around Ambrose, following things that were beyond our sight. And although she wasn't making any obvious motions beyond just waving the rod, my arcanic senses tracked some sort of interaction between her, the rod, and Ambrose, but I didn't understand enough to know what she was doing.
+
+"The Demiurge should be coming by soon, Ambrose, so wait until he arrives. I can let you try to walk around a bit, but you're not to leave the infirmary," she said finally, fixing him with a firm look. "I mean it. Don't leave until the Demiurge himself gives you the go-ahead."
+
+"What's happened?" Devon asked, equal parts curious and worried.
+
+"It's hard to explain. And I'm not sure if I should be the one doing that," the healer said, shaking her head as she stood. "I'll say it's really quite... unique."
+
+When she was back in her office and out of earshot, Devon rounded on him. "Ambrose... what you said earlier. You're not serious?"
+
+"He is," I said heavily, sparing Ambrose from having to muster the strength to answer. Ambrose nodded.
+
+"You knew?" Devon asked, rounding on me. "How long?"
+
+"I kinda figured it out within the first week," I said wryly. "But it wasn't until two weeks ago that I learned what the full Prophecy was."
+
+Devon had to sit back down at the edge of Ambrose's bed. "Then... what you were asking me... does that mean... does that mean people who help... they're going to..." He trailed off.
+
+This was the hard part. I still didn't know how much should be revealed. I looked at Ambrose, who looked back at me with a measured gaze. He didn't give any sign of encouragement or dissuasion. It was entirely my choice.
+
+"That's... more to do with me than with you. Listen, there are some things that I'm not sure if it's safe to tell you yet. We'll figure it out. But please, Devon, trust me, trust us," I said, indicating Ambrose as well.
+
+Devon looked quite overwhelmed, and I didn't blame him. But after a moment, he nodded.
+
+"Remember, don't tell the others yet," Ambrose managed. Then he tilted his head to indicate the entrance. Devon and I followed his gaze to see the Demiurge walking in. Devon immediately stiffened and got to his feet.
+
+"I guess this is where we leave you," I said to Ambrose. "Listen, before I go, I'm sorry for... you know."
+
+Ambrose didn't smile, not exactly. But his lips did twitch a little, and he didn't seem angry. "We're going to have words when I get out."
+
+"Caden, what a pleasure. And you too, Devon," the Demiurge said as he neared, beaming. "I see you're both already leaving, but before you go, could I trouble you to check in on your friend Kevan? He should be in the duelling compound, in the largest chamber."
+
+"What's happened?" I asked, a little alarmed.
+
+"Nothing, yet, but I rather think he may go a little overboard, and it'll be good to have a couple of friends on hand. Off you go!"
+
+That answer was not reassuring at all. Devon seemed to share my worry. Together, we hurried out of the infirmary, but as I glanced back at the entrance and saw the Demiurge easing himself into the visitor's chair, I was struck with the sense that this was going to be a very significant moment. The kind that history would look back on, and mark as a turning point.

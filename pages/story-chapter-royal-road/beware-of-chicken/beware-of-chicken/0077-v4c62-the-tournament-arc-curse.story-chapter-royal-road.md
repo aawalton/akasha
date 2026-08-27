@@ -1,0 +1,183 @@
+---
+id: b942c43a-db1f-517c-b423-484560e6b89e
+page-type-slug: story-chapter-royal-road
+title: "v4c62: The Tournament Arc Curse"
+slug: 0077-v4c62-the-tournament-arc-curse
+partOf: beware-of-chicken
+position: 77
+ownLength: 2175
+unit: words
+ownProgress: 2175
+publishedAt: 2023-11-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1423620/v4c62-the-tournament-arc-curse"
+royalRoadId: "1423620"
+markedReadAt: "2026-06-29T18:54:03.959Z"
+---
+
+The tournament raged, and the Shrouded Mountain was rocked with thunder and lightning, fire, and the occasional blast of ice.
+
+It’s certainly more of a spectacle than the Dueling Peaks, Yun Ren noted. Flashy, he supposed the word was, like fireworks constantly going off. If he hadn’t been a cultivator, he likely would have been blinded and deafened halfway through the second day.
+
+The crowd was loving it, however, as were Yun Ren’s friends.
+
+Han and Shao Heng were both laughing and cheering along with the rest of the crowd. Han was a bit more animated than Heng, the older man more content to sit back and relax with a bottle of wine, but he too would learn forwards or nod appreciatively at good hits. Yun Ren tried to enjoy himself with them. He tried to keep from looking too nervous… but considering what he was planning on doing, he couldn’t help but be a bit out of sorts. Yun Ren’s plan was, after all, for the end of the tournament. Just after the finals during the rewards ceremony. When all eyes would be on the victor… that was when he would activate the mist.
+
+He had told Bi De and Ri Zu to watch out after the finals, of course. He wasn’t just going to dump this shit on them without any warning… even if they wouldn’t be at risk, not really. Nobody could suspect them.
+
+Hells, if things went well, nobody would suspect him either. Jin, when he was a bit buzzed, liked to ramble about random things—and one of those things had been delayed captures. A timer, effectively, on his recording crystals, so he could leave it somewhere and then have himself in the frame after a certain amount of time had passed.
+
+Yun Ren had used that quite often… and now planned to use it for something that wasn’t his passion. A delayed release on an illusion detailing Zang Zengsheng stabbing his brother in the back, the Inquisition screwing with Wen’s head, and some other bits of dirty laundry the Inquisition had hidden over the years, like exactly why the Che family was being punished.
+
+With luck, the mist would hide or obscure his Qi enough to keep him from being noticed.
+
+It was sure to kick the ant’s nest and, at the very least, rip a gaping hole in the skin of the Patriarch’s face.
+
+If he was being honest, it was kind of out of character for him to be this angry and be willing to go this far over something.
+
+He knew he wasn’t the kind of guy who stuck his neck out for anybody but his immediate family and friends—his parents, Gou, Mei, Jin. Everybody knew he was a lazy bastard who did the bare minimum. Hells, he kinda liked that reputation. All he wanted to do with his life was to wander around recording images.
+
+Now here he was planning on sabotaging an entire sect. He kind of almost wished he hadn’t said anything and just stayed on the farm, hanging out with his brother and Jin and Mei, taking recordings of Little D as he grew up. Maybe going and hanging out with Biyu, or even recording Xiulan as she went and united the Hills—that would have been something interesting.
+
+But right now he was here, and his blood was boiling at it all. Was it because he was related to the foxes? Was it because of the torture Wen had gone through? Anger at the injustice of it all?
+
+He didn’t know.
+
+All he knew is that it felt like the right thing to do… and neither Bi De nor Ri Zu were even attempting to talk him out of it. They had simply nodded their heads.
+
+Yun Ren sighed and shook his head. He focused back on the crowd as the most recent bout ended—and then it was Yushang’s turn again.
+
+“You can do it, Yushang!” Fat Han roared from his seat, catching the girl’s attention. She nodded at them, her face tight with concentration. Her opponent was in the Third Stage of the Profound Realm, and thus stronger than she was.
+
+Yun Ren took a deep breath. He had to relax and calm down… and besides, Yushang needed some support.
+
+“Remember your footwork, kid!” Shao Heng advised, and Yushang nodded.
+
+Man, they were so supportive… but Yushang was also way too tense. Yun Ren knew enough about sword fighting now to tell she wouldn’t be doing her best.
+
+“Grab his dick and twist it!” Yun Ren shouted.
+
+The entire section around him went silent. Yushang’s mask cracked and she choked on her laughter. Her opponent’s eyes widened comically as he turned to Yun Ren, horrified at what he was saying.
+
+“Biren!” Han shouted, aghast. Shao Heng had spat out his wine. “You can’t just—”
+
+“The ol’ dick twist!” Yun Ren exclaimed, reaching up like he was grabbing an apple and then wrenching his wrist around.
+
+Yushang’s opponent crossed his legs slightly, and the rest of the stands began to howl with laughter.
+
+Han just stared at Yun Ren, then turned back to Yushang, who was looking much more relaxed. She shook her head at his antics.
+
+But she was ready now; Yushang faced an opponent a stage above her… and in the end, it wasn’t even close. Her heavy sword was an insurmountable obstacle. Her tips from Shao Heng, along with her training with the rest of them, showed just how strong she had gotten.
+
+She was panting, but she still raised her sword into the sky.
+
+Two bouts later and it was Bi De’s turn.
+
+Naturally, the man didn’t need any encouragement. They gave it anyway though, cheering as loud as they could.
+
+=================================
+
+The tournament was organized into seven rounds. Seven straight days of fighting with no breaks.
+
+On the fifth day, Yushang was starting to feel it. Her last two opponents had been true tests of her skills, and the fourth had left her with electrical burns bad enough to need Ri Zu’s aid. Honestly, she was amazed that she had gotten this far—she had been expecting to get knocked out in the second or perhaps the third round— but here she was on day five.
+
+She was rather glad she had made the friends she did. It was novel, to have people actually cheering for her… or in Biren’s case, cracking jokes and calming her nerves. Fat Han and Uncle Shao clapped her on the back. Bi De would smile and nod; Ri Zu’s skilled hands would ghost over her, checking for any injuries.
+
+When she walked about, she didn’t even have to constantly be worried about people jumping her—because one of her friends was always there, helping her keep an eye out.
+
+It was… wonderful. It was truly wonderful having friends. Each day she thanked her ancestors that she had found them… and that her little ability to see who was trustworthy, and who would be predisposed to hurt her, had never let her down.
+
+Yushang was content. Even if she lost today, she had everything she wanted.
+
+“And now, Xie Shaoqing versus Liao Yushang!”
+
+… and she probably would lose today. She would do her best, but she was against a man named Shaoqing—one of the Young Master’s servants.
+
+Yushang took a deep breath as she walked onto the stage, her sword resting against her shoulder, while Shaoqing practically swaggered in, his face twisted into a smile. He was a big man, slightly taller than Bi De, and to her surprise he was covered in scars—just like his fellow servant, a woman named Chengang. All of them were covered in scars received in battle.
+
+He was an entire two stages above her, and the man had looked bored in every fight he had been in so far, trading pointers with the other disciples before smashing them out of the arena.
+
+He was a man that Yushang honestly didn’t like looking at. Her ability always made people look slightly strange. It was hard to describe, but… well, Shaoqing looked malicious. He was as untrustworthy as they came, to the point where she felt slightly ill whenever she stared at him for more than a moment. His smile twisted more as he looked at her, and Yushang swallowed.
+
+This was likely not a battle she could win—but one she merely had to survive. The man had been kind to his juniors thus far… Maybe he would stay that way?
+
+Yushang bowed politely to him and kept her voice chipper. “Yushang greets her Senior Brother, and looks forward to this exchange of pointers.”
+
+She straightened up and gave him a disarming smile… one he did not return.
+
+Instead, he said something completely unexpected.
+
+“You have caught the Young Master’s attention. Be grateful, girl, for he sees something in you, and invites you to join him,” the man said, his voice pitched so only she could hear him.
+
+The offer was sudden and out of the blue. Yushang’s stomach dropped down to her feet. Some girls might jump at the chance—a few months or years until he got bored with her body, and in that time she may receive powerful cultivation resources and be able to throw her weight around as one of his women.
+
+Yushang’s eyes flicked over to the Young Master, and paused.
+
+One half of her instincts told her that he absolutely would hurt her. He wanted to hurt her. He was downright looking forward to hurting her.
+
+The other half seemed to think he was relatively trustworthy, and that while he meant her harm, he did not mean her harm.
+
+It was utterly bizarre, and honestly, Yushang had no idea what to think. His eyes were roving over her body, yet there was not an ounce of lust contained within.
+
+He looked more like a mountaineer inspecting an icepick for its quality.
+
+“What say you, girl?” Shaoqing asked.
+
+Yushang swallowed thickly, and then her smile turned slightly brittle.
+
+“This Yushang apologizes, but she must decline the Young Master’s generous offer. The world is too bright and vast to spend years cooped upon this mountain.”
+
+Maybe it was dumb to say it outright… but she said it anyway.
+
+There was no way in Hells she was spending any amount of time near either of those people.
+
+Shaoqing’s eyes narrowed. “You’re a fool, girl.”
+
+“Yeah, I am,” she replied as the announcer called the start to the fight.
+
+==========================================
+
+As soon as the fight started, Bi De knew that something was amiss. The restraint that had characterized Shaoqing for four days instantly disappeared.
+
+And Yushang appeared worried. Not worried about facing a stronger opponent, but her eyes flicked to Zang Sheng.
+
+Bi De felt a scowl form on his face as the man’s hungry eyes devoured Yushang’s form.
+
+Her heavy sword lashed out against Shaoqing’s own jian, the big man using a surprisingly small blade.
+
+Some would say that he could not afford to hold back—that Yushang had proven herself, Bi De would have agreed. Even Shaoqing actually grimaced whenever he could not fully parry her blows, Yushang’s titanic hits sending his arms trembling. Even Bi De rarely directly blocked her blows.
+
+But in the end… it was their difference in cultivation that ended things.
+
+Lightning erupted from Shaoqing’s fingers and Yushang froze, her body convulsing.
+
+It was enough of an opening.
+
+Shaoqing’s jian pierced just under Yushang’s ribs and erupted out of her back.
+
+She made an odd choking sound as blood from internal injuries spilled out of her mouth.
+
+And then his fist whipped around and smashed into her cheek. There was a sickening crack as she was ripped off Shaoqing’s blade and fell out of the arena.
+
+Bi De had to remind himself that Ri Zu could heal those injuries. They were not lethal, but they were certainly severe… However, he could barely think over the odd ringing in his ears.
+
+A ringing that increased as the announcer announced Shaoqing’s victory… while the man stepped down from the arena to wave away the stretcher bearers.
+
+“The Young Master has seen her skill, and is impressed by her showing. He has graciously decided to take care of her heal—”
+
+The man froze as Bi De’s intent slammed into him, his head whipping around to look back at him.
+
+“Is the Medical Pavilion not in charge of the disciple’s health?” Bi De asked calmly.
+
+Shaoqing seemed to not be able to answer. The stretcher bearers’ heads tilted to the side, like they were listening to someone, before they nodded.
+
+“Head Disciple of the Medical Pavilion demands this disciple for healing,” one said and carried out his orders. Shaoqing’s eyes narrowed… but he plastered a smile on his face and turned, walking back to his master.
+
+Zang Sheng was frowning.
+
+“Are you getting in my way?” the Young Master asked, mouthing the words at Bi De from his box.
+
+Bi De smiled at him.
+
+“Of course I am.”
+
+Sheng’s eyes burned… yet a smile crawled across his face.

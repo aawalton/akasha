@@ -1,0 +1,261 @@
+---
+id: c112efd4-b9a6-56cd-9621-d31728c71c5e
+page-type-slug: story-chapter-royal-road
+title: "v7c85: The True Ruler"
+slug: 0338-v7c85-the-true-ruler
+partOf: beware-of-chicken
+position: 338
+ownLength: 3226
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3733692/v7c85-the-true-ruler"
+royalRoadId: "3733692"
+---
+
+The Acting Lord Magistrate, along with everyone else, retired to the Magisterial Suites—and more specifically the gardens, so they could have some privacy. He thought he would need the peace the gardens brought for the conversation to come.
+
+On their journey, they were joined by a few more people. One of them was refreshingly ordinary, another woman who looked like part of the Nezin tribe, wearing a rather fetching white and black outfit—Lao’s eyes had gone wide and shiny at the sight of it. The woman had a change of clothes for the babe, who was once more trying to take off his current attire.
+
+Ah, children. Little ones were always amusing.
+
+However, that was the only bit of normalcy. The others were far stranger. There was a fish in an absolutely stunning masterwork of a jar, the kind of art piece that would cost more than most mansions. He was lazing on his back, his fins draped out of the vessel like he was human. There was a full-on ox—and a flight of bees who flew in an oddly tight and professional-looking formation, fanning out over the room like soldiers.
+
+His life had been very strange for the past year or so, but this was pushing it. Especially because An Ran was talking to the fish.
+
+“It's good to finally meet you properly, Lord Wa Shi! Would you like some tea?” she said, her voice polite and respectful.
+
+“That would be wonderful, thank you, Smaller Blade of Grass,” the fish said. Spoke. And he knew An Ran’s nickname.
+
+Xinlai seemed to be taking this in stride, but the twins seemed appropriately baffled, glancing back at him, but remaining quiet.
+
+But one thing stuck out the most.
+
+“Lord Wa Shi?” he asked, his voice only just not wavering.
+
+“It is the correct term of address for a dragon,” his father replied, settling himself into his own seat and looking around the gardens with a nonchalant air. “Oh, these are well maintained. My compliments to the gardener.”
+
+Dragon?!
+
+“They are, aren’t they?” the big man who had settled on his father’s right said, looking around. “Xiulan mentioned that our peach and apple trees came from the gardens here…”
+
+He couldn’t think more on the casual talk, because the fish was looking at him. The fish, along with the ox.
+
+‘Is it not obvious you stand in the presence of a dragon?’ the ox asked, his voice surprisingly quiet and refined… and also full of amusement.
+
+He stared at the Spirit Beast. At his fins, at his dull brown scales and yellow whiskers. He looked back to the ox.
+
+“Forgive this one, for he cannot see Mount Tai,” he replied.
+
+Both Spirit Beasts seemed to find his answer hilarious.
+
+“Ha! An honest sort, and respectable to admit when one lacks knowledge! You are forgiven!” the fish said, then sat up. He pulled himself out of his jar with his fins, and then there was a pop. The Acting Lord Magistrate, the twins, Xinlai, and Lao all looked up… and… and… and… yes, that was indeed a dragon. “So you see the mountain now? This form of mine is unfortunately too awe inspiring to travel within the city, the entire place would grind to a halt—ah, thank you Smaller Blade of Grass.” The dragon daintily took the teacup from An Ran, blew twice, and took a sip. “Oh, a local vintage, excellent!”
+
+The Acting Lord Magistrate looked back to his parents.
+
+Neither of them looked like this was anything out of the ordinary.
+
+He took a deep breath. Was he dead? That was perhaps it. Like anything last night would have actually happened. He probably just got drunk and died after they left in disgust. That was much more believable.
+
+He pinched his leg.
+
+It hurt, and the death theory evaporated. Xinlai surreptitiously grabbed his hand and jolted him out of his introspection. She offered him a small smile, and he took another calming breath, the world returning… most of the way through the introductions.
+
+Those seemed to be going well, at least. Everyone was being polite, and there was little tension.
+
+He clearly hadn’t understood from what An Ran had previously shared with him or just how much of a big deal the giant of a man seated beside his father was, because everyone, except for Lao, was treating him with the utmost deference… and he didn’t know why. Unlike the two Nezin women, he didn’t look like a cultivator. The Acting Lord Magistrate liked to think he was pretty good at seeing the tells now, and neither the man nor the woman beside him had any of them. He was tanned from the outdoors. He had dew on his fingers from where he had touched one of the freshly watered trees. He was just a man.
+
+And yet he clearly wasn’t, this Rou Jin, and that was a bit disconcerting. Or it would have been, if the man did not also radiate friendly enthusiasm as he chatted with Lao about the best places to eat in the city.
+
+“And you want Tang’s, not Tong’s, because Tong sometimes puts rat in the stew, the bastard,” Lao was saying, and the big man was nodding along.
+
+“Definitly Tang’s then. I like street food, but not street food,” Rou Jin said with a small smile. There were several chuckles at his joke.
+
+“How did you come to know the Acting Lord Magistrate’s father, Master Jin?” An Ran asked, veering the talk away from rat stew.
+
+The man considered her question for a moment, before smiling slightly, as if he was thinking of some inside joke. “He… assisted me greatly in several essential matters. He's become an invaluable companion to me,” he stated. There was definitely something missing from that explanation… but it seemed to satisfy everyone else.
+
+“You assisted Master Jin?!” An Ran asked, taken aback.
+
+“A tiger father begets a tiger son,” Xinlai said, sounding as surprised and impressed as An Ran.
+
+He sat up a bit straighter. His father was indeed a tiger! Even cultivators thought so!
+
+“Being manly runs in the family,” Sarantuya whispered to her sister.
+
+“It is indeed a pleasure to meet you all,” his father began. “But as promised, questions and answers. As always, you have the first, my son.”
+
+He refocused on his parents. His mother glanced down at where Xinlai was holding his hand and raised an amused eyebrow, before her expression returned to a neutral mask.
+
+His face burned, and he coughed.
+
+“Mother, though it's some of the best news I have heard in years, how did your miraculous recovery happen?” he asked, and his mother smiled that that was his first question.
+
+“That would be this dear lady,” his mother replied, placing her hand on the young mother’s shoulder. Hong Meiling, Hong Xian’s daughter. “She and her father were the ones who developed the treatment.”
+
+He smiled at the explanation. He knew Hong Xian tangentially. First Archivist Bao’s friend and Father’s man, chief of Hong Yaowu. Always paid his taxes on time, and his father had him as one of the first men to be contacted if there was an emergency, just after Bao. He looked into her eyes. He was about to praise her family and her brother for their work in town… when he paused.
+
+The familiar eyes were too familiar. There was a familial resemblance, and then a direct one to one. He thought back to the skinny boy and—his memory of that incident wasn’t the sharpest, but… that was no boy, that was a woman under those clothes and the cloth mask, wasn’t it? The way she had walked and crouched…
+
+That wasn’t her brother, was it? That was her, if mother credited her for saving her from her ailment. And now that he was thinking about her, he had seen her a few times. In the Archives, when he had lessons with Bao. He had thought her one of the orphans the man cared for.
+
+“I know of the reputation of the Hong family, and it appears all members of that clan are blessed. I remember you aiding with the plague—and sometimes in the Archive?”
+
+The young lady looked genuinely surprised by his words.
+
+“I was so bundled up back then everyone thought I was a boy,” she sounded amused and pleased with herself. “It is good to see you again, Young Master. I hope I was a good companion in the Archive.”
+
+“Someone quiet who actually puts the scrolls away is always a good companion,” he replied with a smile, and Hong Meiling chuckled. He wracked his mind. He was… five years her senior? No wonder they had never really interacted, and then he was off to Pale Moon Lake City for the rest of his education. “My Lady, you have my utmost gratitude for what you have done for my mother.”
+
+“It was the least I could do,” she replied, her voice warm.
+
+Relieved he had not stuck his foot in his mouth, he turned back to his parents.
+
+“Then it is our turn,” his father said, his voice calm and matter of fact.
+
+“What happened, my son? Tell us everything,” his mother commanded on behalf of them both.
+
+Her voice brooked no argument… and she had no concern for the audience.
+
+So he obeyed. Beginning from when he thought he had made a friend, only for that friend to have never been a friend in the first place, and moving swiftly on to his sudden appointment to the post of Special Inspector.
+
+He spoke of the early cases. The murderers, the thief of Shui Xinling’s guzheng, the Whirling Demon Blade Gang reborn—and the rumours of something happening in Grass Sea City. And how the job he thought would be the easiest turned into a nightmare.
+
+He left nothing out. He spoke of how many times he had nearly died, of how he and Lao saved each other's lives, and then Xinling saved them both after that. The unexpected appearance of Cai Xiulan and the Azure Heroes, at his lowest point.  He told them of the arrests, and of the temporary appointment.
+
+He told them of running the city. The assassination attempts… and how his life had been shielded more times than he could count by the women around him.
+
+Sometimes the others would chime in with their side of the events, or offer additional information about one matter or another. Occasionally, they would offer their wordless support. A hand on his shoulder. A nudge with their knees. A boast of his courage.
+
+It was… really nice of them. He would have to do something nice for all of them in return, when this was over.
+
+Through it all, his parents’ eyes never left him. His father’s face would have given nothing away to most, but he saw the little movements that revealed the stoic Lord Magistrate’s shock and horror. His mother had the bottom of her face hidden by her fan, her knuckles white, and a slight tremor occasionally coursed through them.
+
+He felt awful, seeing their reactions to what he had experienced. The truth was finally out there. Everything he had done.
+
+Well, almost everything. There were some things you didn't tell your parents, like what exactly he had done last night.
+
+When he finally stopped speaking, he was silent. It was out there now, and all that was left was his parent’s judgement.
+
+He looked them in the eyes, and did not avert his gaze. What was done was done.
+
+His father closed his eyes and sighed. “What is that look for, my son? Are you waiting for chastisement?” The Lord Magistrate’s son flushed at the blunt and true assessment. His father opened his eyes and saw the expression. He chuckled. “We are much the same, my boy. I do believe any words I can levy against you would be nothing compared to what you have levied against yourself. No. Instead, I will apologise. I will apologise that you thought you could not come to me for assistance. No father should be so weak that his son believes him a liability.”
+
+That was more a dagger to his heart than anything else. He had shamed and dishonored his father, the man he looked up to the most, by believing him incapable. That, more than anything, made him ashamed of his actions. Not any chastisement, but his father apologising to him.
+
+“You have accepted your actions. What is done is done. I am just glad that you are here to tell me of everything that happened… so I can feel pride.” His father’s eyes softened. “I said it before, when we were first reunited. You’ve done well beyond anything I could have ever imagined. I am proud of you, of the man that I raised and of the wonders he has accomplished.”
+
+The Lord Magistrate’s son swallowed down the tears that came to his eyes.
+
+He turned and looked to his mother. She was silent, her eyes devoid of any emotion.
+
+“My husband has spoken his will on this matter.” He winced. She was still obviously upset… “But there is another matter to discuss.” She snapped her fan shut and rose, along with her husband. “Lao. Xinlai. An Ran. Narantuya, Sarantuya,” she said, her voice full of gravitas. Everyone tensed.
+
+And then his mother and his father bowed at the waist. “Thank you, for taking care of our son.”
+
+All five of them flushed.
+
+“It is our honour and our pleasure,” Xinlai replied, bowing back.
+
+“Xinlai speaks true,” An Ran said. “To stand beside the Acting Lord Magistrate is a wonderful thing.”
+
+“It is a good thing to help such a fine man,” Narantuya declared.
+
+“Does this mean we have your blessing?” Lao asked, a bright smile on her face.
+
+Everyone else’s head whipped to her.
+
+“Lao!” Xinlai hissed.
+
+“I beg your pardon?” his mother asked.
+
+“What? Boss Tanhui said the folks up top talk to their parents about stuff like this instead of just shacking up—wait, are we supposed to ask before we bang, or—?”
+
+An Ran’s hand slammed over Lao’s mouth, her face crimson.
+
+“Wha—all of them?!” His mother’s aghast voice caused every head to turn to his mother, whose jaw had dropped. She turned to look at the fox woman, whose grin was entirely too wide. “Xue Ji, I thought you were joking!”
+
+“I would never-snerk-lie to you, my lady,” replied Xue Ji, almost containing her amusement
+
+His mother collapsed back into her seat, opening and closing her mouth. Hong Meiling was looking at him with shock as well, but a grin was slowly taking over her face. Her eyes locked on to An Ran. “I think Xiulan will want some details—”
+
+“My Lady!” An Ran wailed.
+
+Rou Jin just said “Damn,” with what sounded suspiciously like reverence…or awe.
+
+‘What's strange about having five females? It isn’t that many. Shouldn’t a bull have ten to fifty?’ Bei Be the ox asked, sincerely.
+
+“Humans are just strange in general,” the dragon replied, sipping his tea, and looking on with amusement. “Now hush. This is where it gets funny.”
+
+His father’s eyes were wide. He caught his son’s gaze.
+
+“All of them?” he asked in a small, quiet voice.
+
+The Acting Lord Magistrate nodded.
+
+“Oh my,”
+
+“Wedding! Wedding, when is the wedding?! No son of mine is going to treat a woman like that and then not marry her—” his mother exploded.
+
+Lao grinned smugly, as if to say, See! We do have her blessing!
+
+“Yoi, yoi, don't worry, khadam, we already have the rope, we can make him an honest man in a few days,” Narantuya said.
+
+“Twins live as twins, always, we’ll take good care of him—” Sarantuya chimed in.
+
+“You were planning on stealing him away to the Ravine, you sneaky rats—!” Xinlai erupted, leaping to her feet.
+
+And then through this escalating chaos, there was a knock on the door.
+
+“Acting Lord Magistrate, the courier from Pale Moon Lake City has arrived,” came the urgent voice.
+
+At that, all sounds ceased.
+
+“Is it here?” Xinlai asked.
+
+“Yes. It's here. Finally,” he replied, rising to his feet and walking to the door.
+
+“What is here?” his father asked.
+
+“The letter telling me about my replacement,” he replied.
+
+There, as promised, was the official courier from Pale Moon Lake City. He signed, showed his identification seal, and then the man opened the package.
+
+“Sir, I am to read this to you, and then read this again to the court in the next session,” the man told him.
+
+The Acting Lord Magistrate nodded, hoping his successor would be able to build on the gains he had made. For all that it was stressful… he had done good work, and he wanted the best for the people of the city.
+
+“By the power invested in our court by his Imperial Majesty, we, the government of the Azure Hills, do declare—the post of Acting Lord Magistrate shall be henceforth closed.”
+
+He closed his eyes and nodded. Though there was an odd pang of sadness in his chest.
+
+“And we do declare the position of Lord Magistrate of Grass Sea City will be filled—by the current Acting Lord Magistrate of Grass Sea City.”
+
+The Acting Lord Magistrate paused, the feeling shriveling up and dying.
+
+What?
+
+“He will also, due to his exemplary conduct and great service to the Emperor and his subjects, be further styled as the Lord Protector of Grass Sea City, to further serve and defend this most important of His Majesty's holdings in the Azure Hills. The Most Honourable Lord Protector shall formally be invested on the morrow with the commencement of court.”
+
+The courier rolled up the scroll and turned to the man standing stunned before him. He clasped his hands in front of him and bowed deeply.
+
+“Allow this humble servant of the Emperor,” he said into the echoing silence, “to be the first to pay his respects, Lord Protector.”
+
+“We pay our respects to the Lord Protector!” the other servants shouted, bowing deeply.
+
+The room… was spinning quite badly.
+
+But still, he managed to clasp his own hands, and give a short nod. “Thank you for your words. You honour me,” he got out.
+
+He repeated this a few more times as people said their congratulations, then retired back to his room. In front of everyone still in the Magisterial Suite—his parents, Xinlai, An Ran, Lao, the twins, Rou Jin, Hong Meiling, and several Spirit Beasts—he walked right up to the nice bed, grabbed a pillow, and screamed into it.
+
+Several minutes later, he put the pillow down, panting, and staring at the ceiling. Xinlai was holding his hand. An Ran had gotten him some water, and Narantuya was holding a pressure point that was taking the nausea away. Lao was hovering worriedly over him, along with Sarantuya.
+
+What the hells?! But what about the carriage with the Lord Magistrate? he thought, still dazed and confused—before he looked up and saw his father.
+
+A Lord Magistrate. Who was travelling in a large carriage with a cultivator.
+
+… bastard of three fathers.
+
+His father looked upon him. “The reward for good work is always more work, Lord Protector,” he said, not unsympathetically.
+
+The Lord Protector of Grass Sea City let out a groan like a death rattle.

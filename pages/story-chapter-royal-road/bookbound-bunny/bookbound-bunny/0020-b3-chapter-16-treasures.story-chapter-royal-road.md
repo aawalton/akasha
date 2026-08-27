@@ -1,0 +1,223 @@
+---
+id: 41b376e2-0d54-57e4-8f12-cbc9df97d5fa
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 16 - Treasures"
+slug: 0020-b3-chapter-16-treasures
+partOf: bookbound-bunny
+position: 20
+ownLength: 2236
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3142677/b3-chapter-16-treasures"
+royalRoadId: "3142677"
+---
+
+Thomas wandered around the camp aimlessly; he couldn't shake the feeling that something was amiss. Yet, despite where he looked, he couldn't find anything out of the ordinary.
+
+The last thing he could recall clearly was running away from the dryad after stealing its treasure. After that, things seemed to get a little hazy. Did he have a nightmare that the dryad attacked their camp? But logically, he knew they weren't capable of leaving their tree unless it was destroyed.
+
+"Was it all a dream?" he suddenly asked himself.
+
+Looking around, it would appear that was indeed the case. Otherwise, wouldn't there be signs of damage to their camp? Not to mention, Thomas was confident that he was bleeding, yet there wasn't even a scratch on him.
+
+He summoned Yona, but other than begging for food, the cat couldn't answer his questions. Their Familiars had been dismissed before they stole the treasure, because they feared they wouldn't be able to keep up or would get in the way.
+
+With his thoughts muddled, he opted to focus on his practice after feeding his gluttonous Familiar. He would have liked to have practiced his lightning spells, but he was incapable of preventing the noise they caused. Instead, he continued trying to form the magical lens that Lily had shown them.
+
+Thomas eventually lost track of time as he continued trying to shape the Mana correctly when he heard a noise. In a panic, he swiveled around, only to spot a rather sheepish-looking Lotte.
+
+"You're up early," he commented, hiding his surprise.
+
+"I woke up fit as a fiddle," Lotte answered. "Honestly, it was like the best night's sleep I've ever had."
+
+Thomas paused. He, too, had woken up feeling miraculously refreshed. Considering he had a nightmare, that seemed… odd.
+
+Lotte must have noticed his frown as she asked: "Rough night?"
+
+Thomas shook his head. "No, not unless you count Yona insisting on more food."
+
+"I see…" Lotte murmured.
+
+An awkward silence permeated the camp, only interrupted by the occasional crackle of the fire.
+
+"I want you to keep her secret," Lotte suddenly said.
+
+"Her secret?" Thomas repeated the question.
+
+"Lily's. You know what I'm talking about, don't act dumb," Lotte said.
+
+Thomas rapidly blinked, feeling genuinely confused. What secret had Lily revealed? Her glyphs? Talking to the poltergeist inside her book? The magic scroll she had given him?
+
+"Do you really not know?" Lotte asked.
+
+"Sorry, I haven't the foggiest idea. I've been feeling a little befuddled tonight," Thomas admitted.
+
+"Enough to forget that Lily used divine magic?" Lotte asked. "You even hissed at her."
+
+Thomas' eyes widened with realization. He had been so focused on the strange dream he had that he'd forgotten their frantic run back to the camp. Lily had produced one of her many talismans, and it had somehow cured all three of them of fatigue.
+
+"So you do remember," Lotte insisted.
+
+"It really did slip my mind…" Thomas revealed. "But I won't tell anyone. Why, though?"
+
+"Wait… I thought you, of all people, would know the reason why."
+
+Thomas scratched his head, trying to think of the reason. But he was genuinely coming up short and could only offer an awkward smile and admit he didn't know.
+
+Just because I read more than average doesn't mean I know everything.
+
+Lotte sighed. "I guess I forgot you're human."
+
+"Hey—"
+
+"Demis born with divine magic are extremely rare," Lotte interrupted his protest.
+
+Thomas held back his complaint as he digested her words.
+
+That can't be true, right?
+
+While he wasn't precisely a devout person, even he had received the occasional healing from one of the temples. Yet when he pondered on it, he suddenly realized that all of the healers he'd ever seen were humans.
+
+Did I really not notice that?
+
+He struggled as he tried to recall any, even maybe just passing by, but he was evidently coming up short.
+
+"There has to be some…" Thomas eventually murmured.
+
+"There are, but they achieve it after joining a temple," Lotte answered. "I've lived around healers basically all my life, so maybe this isn't exactly as well-known as I thought. But, if a demi is shown to have divine magic from a young age, they are usually taken away."
+
+Thomas couldn't help but frown. He certainly had no idea this was happening. However, when he thought about it, he had a good idea why that might be the case.
+
+Is it a divine bloodline?
+
+He actually shuddered at the thought, and suddenly was extremely grateful that he was born human. Who knew that there was so much mess behind the bloodlines of demis? His thoughts were interrupted when he caught Lotte staring directly at him, as if she could somehow read his mind.
+
+"I promise I won't tell anyone," Thomas swore.
+
+Lotte didn't say anything; she just continued to stare at Thomas as if silently judging him. Right when he was about to speak up, she sighed and answered him. "Okay."
+
+Thomas sighed with relief. Evidently, the two girls were a lot closer than he expected, or perhaps it was a bond only demis could share. He couldn't help but feel a tinge of jealousy, as he didn't really share such a close bond with Arthur, who was probably his closest friend at Regarth.
+
+After that, the two didn't chat, and when Thomas saw Lotte practicing her magic, he continued to do the same. After a few rounds of trial and error, he suddenly remembered something else that had slipped his mind.
+
+"What happened to the treasure?" Thomas asked.
+
+Lotte tilted her head, and the surprise on her face indicated she also had forgotten. Thomas nearly laughed; they had gone through all that trouble and effort and almost overlooked the reward!
+
+Lotte opened her storage bag and began pulling out their spoils. Contrary to what he expected, not everything was an item, and there seemed to be bits and pieces of what he assumed were raw materials. He couldn't help biting his lower lip in anticipation as it was far more than he estimated.
+
+"I guess it really was a rare chest," Thomas said with a nervous chuckle.
+
+"It explains why the dryad was so mad at us," Lotte said with a nod.
+
+The two stared at the pile of loot and began picking up the items and trying to examine them. Then the two glanced at each other as if sharing a sudden realization.
+
+Lotte was the first to break the ice. "How do we know what they do?"
+
+"We can try blindly activating them," Thomas answered. "However, the safer option is to get an enchanter to appraise them."
+
+"Like Lily?" Lotte asked.
+
+Thomas shook his head. "I don't think they learn appraising until the second or third year. Not every enchanter is an appraiser, after all."
+
+"So that old guy at the trading shop?"
+
+"Yes, otherwise he wouldn't have known the value of Rose's treasures," Thomas answered.
+
+Lotte accepted the answer, but it caused her to frown. "That means we would need to wait till the weekend to find out what this stuff even does. Longer if we stay here past the weekend."
+
+Thomas sighed. "It's risky to do it ourselves, though…"
+
+"Ugh… I know you're right, but now that I'm seeing it, I'm getting antsy," Lotte grumbled.
+
+Thomas had to admit he was feeling similarly. What if there was something particularly special in this pile? It was a rare chest after all, maybe it even had an artifact?
+
+"Artifact!" Thomas exclaimed excitedly.
+
+"Where?" Lotte asked, eyes wide in anticipation.
+
+"Lily's book!" Thomas answered.
+
+Lotte tilted her head, not understanding the connection.
+
+"Her Familiar. I think he can identify items. Otherwise, why would he have picked a book of all things to be his vessel?" Thomas explained, even mentioning his first encounter with Lily when they passed the test together.
+
+"Huh… Then I guess we have to wait for Lily to wake up." Lotte replied.
+
+"At least it's only a few hours and not days," Thomas said with a somewhat bitter smile.
+
+***
+
+When Lily woke up, she quickly discovered that everything hurt. She felt like she'd run a marathon while carrying weights, her arms feeling like lead. Her head was also throbbing like someone was using her skull to play the drums.
+
+[Drink a potion and a tonic.]
+
+Lily winced as Arakil's voice sounded like thunder in her current condition. She quickly did as instructed, hoping to alleviate the discomfort as soon as possible. Evidently, she was paying a high price for having Arakil solve her problems.
+
+After downing a few magical elixirs and then washing them down with some cold water, Lily was feeling much better. She examined her Mana Core and found it had recovered to just over half.
+
+{So little? I thought it would be full by now.}
+
+[The environment isn't great for Mana as it's all tainted by the dungeon. Not to mention you didn't exactly eat a good meal yesterday before passing out.]
+
+Now that Arakil mentioned it, she felt famished. Thomas was in charge of food for this trip, so she kept only emergency rations.
+
+When Lily exited her tent, she found that both Lotte and Thomas were waiting for her expectantly. She gulped nervously, wondering if Arakil's dream magic hadn't been successful.
+
+"You're up!" Lotte said excitedly.
+
+"Did anything happen while I was asleep?" Lily asked.
+
+"Nope. Quiet night as usual," Thomas answered. "I almost wonder if we should remove the charms for a night to get the full dungeon camping experience."
+
+"Can't say I agree with that idea," Lotte chuckled.
+
+Lily's worries were fading as she saw her two companions behaving normally. Then, right as she was thinking that, Thomas dashed her hope, causing her to nearly choke.
+
+"Lily, we've been waiting for you."
+
+"Umm…" Lily murmured.
+
+"Come here, it's important," Lotte said, gesturing with a wave.
+
+Lily swallowed, her mouth now feeling dry. She cautiously walked over to her friends while her mind raced over how best to explain things.
+
+"Look!" Lotte said, pointing to the ground.
+
+Breaking out of her inner turmoil, Lily glanced down and saw what looked like a pile of treasure.
+
+"It's the loot from the treasure chest," Thomas explained.
+
+"Although we have no idea what any of it does," Lotte admitted, sighing.
+
+Relief flooded through Lily. It appeared she had grossly misjudged their intentions.
+
+"That's quite a lot!" Lily replied, trying to sound excited.
+
+"Yeah. It's why we were waiting for you. Do you think your Familiar can help us?" Thomas asked.
+
+Lily giggled to herself. Now she understood why they were so eager for her to wake up. They must have been staring at this pile of treasures, dying of curiosity.
+
+"Arakil can certainly try!" Lily answered, feeling much happier now.
+
+Under Arakil's guidance, Lily began to sort out the magical items from the pile. Unfortunately, a lot of it was just ordinary treasure or raw materials, which somewhat dampened their spirits. However, there were still enough genuine magical items to excite them.
+
+There was: a lantern, a canteen, a small bracelet, a piece of bark, and a shiny stone. The last two were especially confusing, as none of them would have suspected they were items if not for Arakil's insistence.
+
+Now that the items were sorted, Arakil began to identify them. As he did so, he tried his best to explain the thought process behind it to Lily. Unfortunately, it required a much greater level of Magesight to accurately do it, so Lily could only try her best to listen.
+
+The lantern, when provided with enough Mana, created a set amount of fireflies every evening, which would exist for up to a day. You could either keep them in the lantern for a bright light or use the item to vaguely order them around.
+
+Lily immediately likened it to her own Starlight spell and thus didn't see much use in it. Perhaps the other two would be interested in it, otherwise it could be sold.
+
+The canteen would fill itself with dew each morning. Arakil noted that the dew should be highly refreshing and that the item didn't require any user input. Lotte was quite interested in this, as she couldn't exactly create drinkable water.
+
+The bracelet had two effects: it passively suppressed any odors from the wearer and could also be activated to provide a cleaning effect for the body and clothes. Lily was immediately fascinated by it and wanted to claim it for herself if nobody objected.
+
+The piece of bark was roughly the size of a hand. Nobody had suspected it was a magic item; however, when fed Mana, it would grow a leaf of "paper" on it. The intended use appeared to be as a reusable notepad, and if not for Arakil's grimoire, Lily would probably have wanted it.
+
+Finally, there was the shiny stone, which was slightly warm to the touch. It could be held or placed in a pocket and would provide a small soothing effect, especially in the cold.
+
+When Lily was done relaying Arakil's descriptions, she turned to her companions. She wasn't sure how they felt about the items, as she personally thought they hadn't been worth the trouble. Certainly not worth the dungeon possessing the dryad to hunt them down.
+
+I guess they don't know about that part… And it had to do with Arakil, not the treasures.

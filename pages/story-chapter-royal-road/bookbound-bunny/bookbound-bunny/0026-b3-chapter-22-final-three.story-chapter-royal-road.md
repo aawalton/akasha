@@ -1,0 +1,159 @@
+---
+id: fd324860-ffd0-5cc6-aab4-96a4b96729ef
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 22 - Final Three"
+slug: 0026-b3-chapter-22-final-three
+partOf: bookbound-bunny
+position: 26
+ownLength: 2133
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3194849/b3-chapter-22-final-three"
+royalRoadId: "3194849"
+---
+
+Alice had just finished escorting the forfeiting team out of the dungeon, and to her relief, nothing untoward had happened during her brief absence. She still felt that something had gone wrong that night, a gut feeling that she refused to dismiss even when the principal confirmed with the dungeon itself that nothing had happened.
+
+Sighing to herself, she shook her head. Maybe I am wrong for change…
+
+Now she just needed to wrap up this test by getting the remaining three teams to drop out. The three factions had definitely put all their eggs in one basket with this arrangement, considering all of them had one team remaining.
+
+Still, nobody dropped out before the first deadline, so that's good at least.
+
+With results like this, it showed that their batch of students had far exceeded initial expectations. Perhaps something was on the rise with this generation?
+
+Alice began sprinting through the forest, wanting to observe the preparations the teams had made after she warned them. The Terravix team's camp had changed drastically, evolving from a woodland camp into a primordial jungle. Thorny plant vines had created a defensive perimeter, along with other, more noxious forms of plant life that had suddenly sprouted.
+
+Alice couldn't help but be impressed by the display, and it really showed that the dungeon's first floor alone had its limitations in assessing students' potential. Of course, one might argue that you should be prepared to do your best regardless of the environment, but then you'd lose out on witnessing this!
+
+I just hope she can find a good team to help carry her past the molten metal zone. It should be easy for her to exchange quid pro quo on earlier and future floors.
+
+After finishing her brief assessment of the defenses, she moved on to the Zephyrix camp. Not only was it closer, but since she had informed Maranix last, they might not have finished their preparations yet. Arriving swiftly at her destination, Alice discovered that it was a vastly different situation.
+
+Rather than creating a defensive perimeter, this team had decided to bunker down. When she had first found them, they had an almost underground bunker, turning their camp into a hill. Now the situation had entirely reversed, and instead they had raised their camp onto a peak.
+
+I can't even imagine how much Mana Wallace had to burn through to do this. The question is, how do they get up?
+
+For Alice, she could just jump, literally, but she knew none of the other students had that luxury. Even a powerful hybrid bloodline like the Dragia was slightly disadvantaged when it came to the demis who received pure physical enhancements.
+
+While she was pondering, she was unexpectedly lucky and witnessed how this group got home. Working in tandem, both Arthur and Hana could summon enough wind to send them soaring. Alice couldn't help but nod, feeling impressed with the display.
+
+As soon as one of them gains proficiency in some flight spells, they're going to be able to race through this dungeon.
+
+What also impressed her was that this forced her to use flying monsters to attack their camp. Unless she literally threw them up, nothing would realistically reach them. However, with two wind mages, those flying monsters wouldn't stand a chance.
+
+If not for losing out on treasures, I would have bet money on this team winning in the end. Where the heck did those three find four enchanted items? That little dagger I can at least understand, but the others…
+
+If she hadn't confirmed it prior, or having known their character, she would've sworn they had somehow cheated. With Rose as Lily's big sister, it would be easy enough for her to do it. Alice shook her head, dismissing that possibility and beginning her trek to the final camp.
+
+As she drew closer, she began to feel excited; what could they have come up with? When she had first arrived in their camp, she had been amazed by how almost luxurious it was. Alice was very familiar with how good a top-tier adventurer's camp could be, often decked out with magical items, yet they had done so with just some magical drawings.
+
+Glyphs, huh… I swear with those, do you even need a magical bloodline?
+
+It certainly hadn't been the first time she'd thought that, and she'd even interrogated Professor Ollie about the topic. Unfortunately, the result wasn't very feasible, unless you wanted to actively burn money.
+
+Of course, that somewhat changed when Lily revealed the real usage behind her wand, something that had shocked practically every single staff member of Regarth. Naturally, Alice asked Ollie about it, as he was in charge of magical items, and he had already reinvestigated it with Lily. Unfortunately, it seemed to require a specific type of Mana, and Lily fit the bill perfectly.
+
+I guess we should just be happy with one magical Lagia.
+
+Alice abruptly paused. She had reached her destination, but what she had found had startled her. While she had left a rather luxurious camp, complete with running magical water, this blew her mind. In her short absence, they had somehow constructed a fortress!
+
+How!? Was her immediate question.
+
+Alice proceeded to do a quick perimeter search of the fortress, which seemingly appeared from nowhere. It was exceptionally well fortified, with only one small entrance that could easily be blocked.
+
+All three of them theoretically have earth magic, but none of them have ever displayed it to this degree before.
+
+Thomas, as a human, could in theory cast anything, and while he seemed to have a few general-purpose spells, he had chosen to specialize in lightning—an excellent choice, in Alice's opinion.
+
+Lotte had a strange affinity for earth and water, but the results had always been poor, with her best earth spells coming out as effectively mud. That was until her recent bloodline epiphany that gave her defensive scales, but even that didn't explain this.
+
+Then there was Lily. Lily had her Astral magic, yet could cast any other spell, though incredibly poorly. There was no way, even with working together with Lotte and Thomas, that she'd be capable of casting this with an incantation. Which meant there was only one possible answer…
+
+Was this created entirely through glyphs?
+
+Alice was genuinely shocked. She'd already felt like she'd underestimated this glyph magic before, especially with Lily showing off her prepared talismans during the gauntlet, but this was too much!
+
+I'm going to need to have a little chat with Ollie again…
+
+***
+
+It was late at night, and the trio was getting ready for the night watch. However, they knew this time would be different thanks to Alice's not-so-subtle declaration.
+
+"Okay, so, what's the plan?" Lotte asked.
+
+"We defend the fort?" Lily suggested.
+
+Lotte slumped. "No, I know that… I meant with the sleeping arrangements. We're supposed to wake each other up, right?"
+
+"I suppose…" Thomas replied. "But the question is: are we going to be attacked multiple times in one night?"
+
+"No clue," Lotte admitted.
+
+"I wouldn't put it past Alice," Lily sighed. "But I'm not sure. I'd certainly hope it's only one attack, or then none of us will ever get any sleep."
+
+"Then, I have a suggestion," Thomas said. "What if we try our best to defend solo, and if we can't handle it, then we wake up the others?"
+
+"That makes sense," Lotte quickly agreed.
+
+"It does, but isn't that technically against the instructions?" Lily asked.
+
+"The textbook says to wake up allies in times of danger," Thomas explained, almost as if he were directly quoting from it. "But, what counts as danger? If I can handle a few wolves on my own, is that really dangerous?"
+
+"That's a bit of reading between the lines… But I get the idea," Lily replied.
+
+"Although as soon as you cast a spell, I think both of us will be woken up," Lotte pointed out.
+
+Thomas paused, tapping his finger against his lips as he thought. "Then take that as the sign that I need help. I'll try to use the quieter spells until then."
+
+"I guess we can go with that," Lily agreed.
+
+"I suppose I'll just have to shout for help then, since mine are pretty quiet, unlike you two," Lotte said teasingly. "In fact, you two are also the ones who blinded us."
+
+"It was an accident," Lily and Thomas both denied it.
+
+Lotte snickered, but didn't press further. Now that it was getting dark, they needed to do the finishing touches to protect their fortress. Lotte took the lantern and began walking around outside, using it to distribute several fireflies to illuminate the surroundings and provide a better lookout.
+
+Lily, meanwhile, began supplementing those with some quick light runes that she could quickly copy around the camp. If a monster stood on them, they would light up like a beacon, revealing them. At first, Lily had thought of using more advanced light glyphs to create spotlights in the surroundings, but opted against it when they realized it would probably give their fortress too much attention. Thus, they went with the subtler approach.
+
+"Will the monsters even be able to break our walls?" Thomas asked. He was currently in the process of using some earth magic to shape some stairs up to the top of the wall, so they could walk along it at night.
+
+"From what we've currently seen, I don't think so. Maybe if a few of those giant bears work together," Lily replied. "I'm a bit worried about flying monsters, though. If one of those bats shows up and flies in our camp, we might be in for some trouble…"
+
+"We could add a roof?" Thomas suggested.
+
+Lily smiled. "That might be a bit too far, don't you think?"
+
+"It'd probably cause Alice to complain," Thomas chuckled. "I just hope she doesn't decide to throw monsters over the wall."
+
+"We should try setting up some traps inside. That way, we can be prepared for the worst-case scenario."
+
+"I hope you aren't thinking of putting explosive runes in our camp…" Thomas replied, sounding genuinely concerned.
+
+"No! Never, that's way too dangerous!" Lily quickly refuted. "I was thinking of some blinding lights."
+
+"Considering these monsters are probably nocturnal, that sounds like an excellent idea. Even better if they are sensitive to light!" Thomas replied excitedly.
+
+[You should add some sound to them too, then, that way it will wake up anyone if the camp is overrun.]
+
+{Great idea!}
+
+For this, Lily didn't need anything complicated; it was just two runes that she would overlap, and their functions were light and noise. When Lily finished her first pair, she pointed them out to her companions and informed them to make sure not to stumble upon them during the night.
+
+For demonstrative purposes, she activated them, and a blinding flash burst out, accompanied by an ear-piercing shriek that echoed through the walls. Everyone clutched their ears tightly, with Lily having to fold them flat against the top of her head.
+
+"Well, that's certainly going to wake us up," Lotte said when everyone recovered their senses.
+
+"I almost feel sorry for any monster that stumbles inside," Thomas chuckled, still rubbing his eyes.
+
+While Lily began placing the rune traps, Thomas worked on moving the boulder to block the entrance to their camp. Lily had used another glyph to form it, and the idea was that they'd move it with telekinesis to safely lock down the entrance. It was definitely not easy, but on the plus side, it gave them ample practice for moving heavier objects for their next Hearthcraft and Household Charms class.
+
+Eventually, it was too late, and Lily's two friends had gone to bed, leaving Lily to take first watch. Lily, however, still wanted to place a few extra runes around for safety, and so Arakil volunteered to watch while she worked.
+
+The magical grimoire floated up high, easily surpassing the height of the tall walls, and from there, he began to slowly rotate in place, sweeping his gaze through the arcane eye on the cover across the horizon. This was another benefit they had gained through Arakil upgrading the Familiar bond; the maximum range of the "leash" between them had increased considerably.
+
+Lily was, of course, delighted that Arakil had regained a bit more autonomy, although he still insisted that he didn't really mind. She quietly worked, and throughout her time, nothing had crossed Arakil's gaze.
+
+With that done, Lily dusted off her hands and began ascending the rudimentary staircase to the top of the wall. Gazing out into the darkness around them, illuminated by hundreds of fireflies flickering in the dark, it seemed almost enchanting, if not for Alice's threat.
+
+Well, let's see how this night goes…

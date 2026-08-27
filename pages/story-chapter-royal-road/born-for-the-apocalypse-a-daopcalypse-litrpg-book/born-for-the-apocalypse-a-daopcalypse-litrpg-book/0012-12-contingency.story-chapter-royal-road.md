@@ -1,0 +1,79 @@
+---
+id: cd1f5c37-b8d4-5761-8872-33d667e428de
+page-type-slug: story-chapter-royal-road
+title: "12: Contingency"
+slug: 0012-12-contingency
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 12
+ownLength: 980
+unit: words
+publishedAt: 2023-02-20
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1118492/12-contingency"
+royalRoadId: "1118492"
+---
+
+“Hold!” Jack thundered, as his stance neatly transitioned into the hassō-no-kamae kendo sword form. Sword pointed towards the skies, its hilt resting against the right shoulder, elbows held close to the body, knees slightly bent, shoulders relaxed and blade leaning a little to the rear— Jack chose the stance that would allow him to strike in almost any direction, easily transitioning into a variety of strikes and slashes, even thrusts, if the need were to arise.
+
+Sarah let a little gasp escape, her eyes desperately tracking the approaching Silvercrest Wolf.
+
+On the other hand, Andrew seemed to be paralyzed with indecision, his expression conflicted.
+
+Run or fight?
+
+“It wants you to break formation!” Jack roared, his gaze flashing with recognition. The Silvercrest Wolf had originally been a gray wolf and he was well versed with their hunting methods. Wolves were pack hunters.
+
+They encircled their prey, tested its defenses and whittled down its endurance; they had stamina, speed and strength but pack hunting was what let a wolf take down beasts far mightier, deadlier, than itself.
+
+Andrew gritted his teeth, placing his sword in a defensive stance before his vitals. He had chosen to stay, realizing the wisdom in Jack’s words.
+
+The female Silvercrest Wolf that had seemed to be on a crash course with Sarah gracefully pivoted upon the balls of its feet, deflecting towards the side.
+
+Its male counterpart, which had seemingly been content maintaining position up until now, finally approached; long strides helping it rapidly cover the distance separating them.
+
+The male Silvercrest wolf stood at a distance of about a dozen meters from their formation, whilst Andrew had pivoted to meet the female Silvercrest Wolf that had positioned itself behind them.
+
+Jack’s newly improved perception stat let him vaguely sense the female Silvercrest Wolf’s position; enough to lock into its spatial coordinates, though its exact shape and form remained blurry in his mind’s eye.
+
+His suspicions were proven correct when the female Silvercrest Wolf refused to charge, seemingly content to direct a vicious glare towards Andrew for now. Low, menacing growls erupted as the Silvercrest Wolf duo stepped into motion, their spongy paws noiselessly impacting against the soft grass beneath them.
+
+They began their encirclement.
+
+The battle they were fighting was no longer limited to the physical world. Their current situation was akin to a small herd of deer that had splintered off from the main group, now encircled by two hungry wolves— compared to their crystalline claws, razor-sharp teeth, the damn cheat crest and it’s lightning fast reflexes, their group of three seemed woefully inadequate to confront them. No, this was a crucible of mental endurance and the first to fall short would also be the first to die.
+
+“Tell me you have a plan,” Andrew’s lowered voice sounded out in his ears, all notions of ego and pride discarded as he asked an imploring inflection to his tone.
+
+A minute, merely a minute had passed, yet Andrew found himself on the brink of insanity as the female Silvercrest Wolf exited the periphery of his vision only to be replaced by the male one, the cycle having repeated itself three times already.
+
+The canines were toying with him. Feinting a charge, channeling their qi which ensconced them in the silvery-white energy before harmlessly dissipating it, batting its claws from afar, not to mention the constant growling and snarling that kept breaking his focus.
+
+Sarah somehow managed to maintain a stoic front, but that did not mean that every passing second did not weigh down upon her already frayed nerves.
+
+“There,” Jack began, withdrawing the Qi Gathering Pill he’d gotten for killing his first Twilight Boar and swallowing it, “is a contingency.”
+
+Sarah’s eyes lit up at those words, her stance relaxing a little upon hearing those words. She didn’t know why, but hearing Jack say those words filled her with hope, not necessarily of victory, but of a fighting chance.
+
+For the present Sarah, that was enough. Redoubling her focus, she resumed tracing the Silvercrest Wolf’s path with her spear— if the Wolf dared to charge directly at her, all it would bite into was cold, qi-imbued metal.
+
+Never again would she allow herself to succumb to her fear, never would she allow herself to accept the cold embrace of death without defying it to her last breath.
+
+he last second.
+
+“Are you sure you’re up for this?” Andrew asked, his tone steeped in begrudging admiration.
+
+“If I refused to take the bulk of the risk, would you do it instead?” Jack asked pointedly.
+
+Andrew’s expression soured a little, but in the end he could not offer a single word in protest.
+
+“Be careful,” Sarah murmured, biting down on her lips to stymie the rising bravado coursing within her chest. She wasn’t ready to take the lead, not yet. But, it wouldn’t always be this way.
+
+“Remember, I might fail, but as long as you guys manage it, odds are we’ll make it out of this mess alive,” Jack reminded, his sharp gaze landing upon the male Silvercrest Wolf’s visage. He could feel the Qi Gathering Pill working its magic, its circular form visible in his mind’s eye, nestled in the center of the whirlpool of energy that regulated his Qi Flow; which Jack now knew was known as the Dantian.
+
+It released Qi in a continual stream rather than discordant bursts, which his Dantian assimilated into his own Qi Supply. Although the regeneration would not be fast enough to assist him in battle, Jack’s intention was to ensure that his reserves would not be completely depleted after the battle.
+
+Deep breaths. Focus your sword. Hone your intent.
+
+Catalyze your fear.
+
+Use it to fuel your desire.
+
+Jack’s expression was one of absolute focus as he brazenly stepped outside the formation, taking five long steps in rapid succession to iron out any possibility of retreat.

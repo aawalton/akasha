@@ -1,0 +1,159 @@
+---
+id: dcfbe5b4-c800-53f6-807d-e3db8a430b66
+page-type-slug: story-chapter-royal-road
+title: "24. A Friendly Reckoning"
+slug: 0024-24-a-friendly-reckoning
+partOf: breaker-of-horizons
+position: 24
+ownLength: 2301
+unit: words
+publishedAt: 2020-07-23
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/528427/24-a-friendly-reckoning"
+royalRoadId: "528427"
+---
+
+Even at the best of times, meeting the Demiurge would be a nerve-wracking experience. This was the man who had risen to his present position at the age of 25 thanks to his prodigious intellect and arcanic mastery, only narrowly missing out on the spot for being the youngest Demiurge in the history of the Empire by one year. And he had firmly held on to the position for ten years against a host of detractors and naysayers. Now my father and I were face-to-face with him when we were still dealing with the shock of discovering what we thought was a way to unmake prophecies.
+
+My father's shuffling footsteps were followed by the slow, measured steps of the Demiurge as they came into the sitting room. I had enough presence of mind to get to my feet and attempt some sort of deferential half-bow in greeting.
+
+I had seen his portrait hung up in various places in the Academy, but it was really not the same as standing before him in the flesh. Demiurge Maugrim Caldwell was one of those men who somehow filled a room with his presence without resorting to arcanic manipulation. Even though he was of average height, you could walk away swearing that he loomed above you.
+
+The effect was especially disconcerting since his genes had blessed him with a youthful appearance. He had apparently decided to lean into that look by keeping clean-shaven, styling his platinum blonde hair in an undercut, and dressing more casually. At the moment, he was wearing a white T-shirt with a black jacket thrown over and a pair of faded grey jeans. On top of that, I could have sworn that he was wearing the same pair of sneakers as Devon. An outsider could be forgiven for thinking he was one of the arcanists in their final year of study.
+
+His grey eyes held a glint that hinted at the razor-sharp mind behind them, and those eyes swept across the room before landing on me.
+
+"Good morn— afternoon, Demiurge," I croaked, reddening rapidly.
+
+"Hello." He smiled, extending a hand and graciously opting not to comment on my slip-up. I tried to give as firm a handshake as I could. His grip was surprisingly gentle. "You must be Caden Dundale. Well done on taking the Top Scorer spot. But I suppose that is no surprise. Even if Professor Dundale were only a quarter as good a father as he is an artificer, you would have been raised and taught very well."
+
+"Yes sir," was all I could manage.
+
+"Please, have a seat," my father said, gesturing to the chair he had just vacated. "Can I get you a drink?"
+
+Caldwell lowered himself into the offered seat. "Oh, no, don't trouble yourself on my account. Please, pull up another chair and the three of us can have a nice chat."
+
+I exchanged a look of confusion with my father. As he retrieved one of the chairs from the study, I sat back down, teetering anxiously at the edge of my seat.
+
+Once my father had settled down, Caldwell clapped his hands together. "Right! I'll get straight to the point. I'm here because the Academy wards detected a very unusual surge of arcana. Once I ascertained that it wasn't doing any harm, I ignored it and continued with a task I was occupied with at the time. After I was done, I picked up the threads and followed them here." He gestured around vaguely.
+
+"You think it was one of my artefacts?" My father asked, sounding slightly wounded. It seemed that he wasn't intending on saying anything about what had happened.
+
+"No, of course not!" Caldwell said airily, waving a hand dismissively. "You're far too careful to accidentally release such unstructured arcana. And your residence isn't the source, it's the destination. I found five first-year students at the source, and two of them had been ensorceled."
+
+Ensorceled. The word fit perfectly, and my previous attempts to label the technique as 'arcanic infusion' fell away like dead scabs. In my mind, the disparate bits of experimentation and theorizing coalesced into a fully-formed concept. Encorcellment was what allowed you to influence someone and even exert control over their minds.
+
+My father glanced at me and I saw an eyebrow twitch ever-so-slightly in surprise.
+
+"It was a very well-wrought encorcellment," Caldwell continued, "but by the time I arrived, the other three had managed to make some headway into dispelling it. I was quite impressed by their efforts. I was less impressed when none of them was willing to tell me what had happened, even after I had undone the ensorcellment."
+
+I realised I was forgetting to breathe, and I sucked in some air as inconspicuously as I could.
+
+"I tracked the arcanic disturbance and was mystified by its strange path." With a finger, he mimed something rising into the air. "I was actually a little worried that it had left the grounds, but the trail led me here, which is why we are all having this talk now."
+
+"You think the arcanic disturbance came here, Demiurge?"
+
+"I think that's rather clear at this point." Caldwell's tone was casual, but the tension in the air was building. The feeling intensified as he looked at me again. "So, Caden, how have your studies been?"
+
+The non-sequitur caught me off-guard. "M-my studies? Good. Good so far." I sucked in another breath. "Professor Kant's classes are painful, but I learn a lot."
+
+Caldwell let out a delighted laugh. "Ah, yes. Marcus Kant will hammer you on the anvil until you either break or become something greater."
+
+He said nothing after that and simply continued looking expectantly at me. The silence stretched uncomfortably.
+
+"The, uh... I... I'm still memorising the Advanced Sets, but that's coming along nicely. I should be fluent in a month," I continued feebly.
+
+Caldwell nodded, smiling genially. Silence again. I fought against the impulse to look to my father for help and forced myself to talk as naturally as I could.
+
+"Principles of Arcanophany has been... especially interesting. Can I ask if Professor Reeves' threat of expulsion is real if we fail to resist his ensorcellment?" The term slipped out of my lips before I could stop myself.
+
+Caldwell's smile widened. "Yes, but I think you and your friends won't have to worry about that."
+
+A bead of sweat was running down my face again. I resolved to see if there was something I could do about my treacherous glands.
+
+"Demiurge," my father interrupted. "The arcanic disturbance?"
+
+"Oh, I think it's not something we need to bother with any longer." He got to his feet and straightened his jacket. "It has long since dissipated, and unless I'm very much mistaken, the source won't be a danger."
+
+My father and I rose as well. Caldwell nodded to the two of us. "Have a good day. I'll see myself out. Thank you for your time."
+
+His footsteps receded and we heard the door click shut. I collapsed back into the chair, breathing heavily.
+
+"Fates, I need a proper drink," my father muttered, disappearing into the study. I heard the clink of glass as he poured something out of a decanter.
+
+He returned with two glasses with a little amber liquid and handed me one. "Your mother would kill me if she knew, but you're already of age."
+
+"Cheers," I said, grinning weakly as I clinked my glass against his and drained it. The whiskey burned my throat as it went down, causing me to choke. My father shook his head in a parody of disappointment as he took a refined sip. "I need to teach you how to drink properly."
+
+"What now?" I asked, feeling a little more at ease as the drink spread a soothing warmth through me.
+
+"Now," my father said heavily, "we avoid any further work here with this friend-in-the-arcana construct until I figure out a way to stop it from triggering the Academy's wards."
+
+"But the Demiurge obviously knows it was me. And he seemed to be okay with it," I argued.
+
+He shook his head. "The Demiurge didn't press the issue because it dissipated, and he's satisfied that you are no further danger. What worries me is that he came to personally investigate. Normally, we leave that kind of work to the arcanists on security duty."
+
+It was a very worrying thought. What was so special about the construct I had conjured by frame-shifting, so much so that the Demiurge himself felt that he had to attend to it?
+
+"And none of the security arcanists turned up," I pointed out. "He came alone."
+
+"Yes, there's that, too." My father took another sip of his whiskey. "Obviously, he doesn't need any back-up when dealing with arcanic disturbances. He could have just been nice, trying to spare the security detail any extra work since he was already attending to it. Or he might have wanted this to be more private. Either way, it's clear that he's keeping tabs on this particular phenomenon for reasons that are unknown to us."
+
+"So there's nothing we can do now about our theory?" I demanded. It seemed like a crime to not follow up on something so huge.
+
+"We need to be patient. On weekends I can go back home and do more experiments there, away from the Academy's wards. Once I find a way to refine this construct and hide its presence, we can resume work here."
+
+I knew there was no arguing with him. It would mean that I would be missing out on this breakthrough for my sister, but I couldn't see any way around it either.
+
+"In the meantime," he continued, picking up on my crestfallen mood, "you can still conduct some research and see if you can find any materials that shed light on this particular form of frame-shifting. Given the Demiurge's response, I'd say we haven't actually stumbled on something unique. If there are studies or writings about this friend-in-the-arcana construct, that would speed up our work."
+
+I nodded, glad that there was something I could still do to contribute. Realistically, I wouldn't have been able to help my father with the practical side of things anyway, beyond attempting to manifest the friend-in-the-arcana again. And it wasn't like it was something that would be beyond his ability to replicate now that I had explained to him exactly how I had accomplished it.
+
+It seemed strange to leave the residence without having done anything about our discovery. My father made me promise not to tell my mother about the drink, then suggested that I look for my friends. The thought of facing the five of them filled me with trepidation. It was highly unlikely that they had stayed in the duelling compound, so I slowly made my way back to the dorms.
+
+A glance at my watch told me it was just past four in the afternoon. The manicured lawns between the Academy's major sections were dotted with people. Most had opted to settle down on picnic mats to read, but there were a number of ball games going on as well. Even as I watched, a ball sailed through the air straight towards a relaxed reader. Before it flew out of bounds, it was stopped in mid-air by a thin lattice of shaped arcana that sent it plummeting to the ground.
+
+"Cool artefact," I murmured to myself, spotting the device on the grass.
+
+"Not as cool as what you did."
+
+My attention was drawn back to the path I was walking on. Kevan was right in front of me, with a wide grin on his face. I couldn't help but notice a bruise on his cheek.
+
+"Uh, hi. Is... is everyone okay?" I asked sheepishly.
+
+He snorted. "Well, Jerric punched me in the face, but it wasn't his fault. The rest are over there." He pointed off to the side of one of the lawns, where there were a couple of stone benches set along a row of trees. I saw Devon waving enthusiastically. The rest were a lot more subdued. Even at this distance, Jerric had a wounded air about him.
+
+"Sorry about that," I said feebly, gesturing at Kevan's face as we started walking towards them.
+
+"It's alright. I figure there'll be plenty of chances to get even if we keep practising together," Kevan answered breezily. I couldn't tell if he was only joking.
+
+"So, uh, I heard the Demiurge stopped by and helped free Jerric and Ambrose?"
+
+He nodded. "Yep."
+
+"And... you guys didn't tell him anything."
+
+Another nod.
+
+"Thanks, Kevan. I mean, he probably knows anyway, but... I appreciate the gest—"
+
+"Hold up," he interrupted. "I don't speak for the rest, but I didn't keep quiet for your sake. The way I see it, if we help cover for you, then you owe us."
+
+"Okay," I said cautiously. "Given what I did, I guess I do owe you guys."
+
+"That's right. And to even the playing field, you should teach us how you did it."
+
+My father's words were still on my mind. "I... I can't, Kevan. It's not something we should be doing."
+
+"Well, then we might have a problem," Kevan said, his tone taking a slightly darker edge.
+
+I stopped walking. He went on ahead for a few steps, then turned to look at me.
+
+"Are you... threatening me?" I asked incredulously.
+
+He frowned. "Am I? Well, if I am, I don't think it's just me.'
+
+"What do you mean?" I felt my heartbeat quicken.
+
+"We should hurry over. We've got lots of things to settle," Kevan said, jerking his head to where the rest were. With mounting apprehension, I started walking and Kevan fell into step beside me.
+
+Four pairs of eyes watched us as we approached.

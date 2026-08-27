@@ -1,0 +1,99 @@
+---
+id: 5dc6c47c-f4c3-5967-ae45-01d6d69061e8
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 10- BORN FOR THE APOCALYPSE"
+slug: 0073-book-2-chapter-10-born-for-the-apocalypse
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 73
+ownLength: 1570
+unit: words
+publishedAt: 2025-05-19
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2291431/book-2-chapter-10--born-for-the-apocalypse"
+royalRoadId: "2291431"
+---
+
+72:
+
+“What do you want!” Jack called back out, having realized the middle-aged man’s aim the moment he had halted his blade from piercing Jin’s throat and instead taken her hostage.
+
+“First, lower your blade. Slowly,” The middle-aged man replied with a measured calm that implied that he was still in control despite the fact that the moment the tip of his blade would have pierced Jin’s throat, Jack would have no reason to hold back his Qi Projection. Even if his attack was unlikely to kill the middle-aged man due to the shield that he now held at his side, with Jin’s form acting as a much more persuasive form of cover as he kept his makeshift blade pointed up against her throat, Jack was still confident in his ability to have taken out the offending arm.
+
+Jack’s eyes narrowed in fury, but he complied with the request. For now, he lowered his blade just enough that it would still guard his chest, but it’s length was angled downwards, towards the sand dune beneath his feet.
+
+“Now let go of the Qi Sword,” The middle-aged man commanded.
+
+“I refuse,” Jack adamantly replied.
+
+“Are you willing to let her die?” The middle-aged man mockingly replied, his lips quirking upwards into a mocking smile. “More cold-hearted than I thought.”
+
+Jack’s gaze met Jin’s and within her eyes he saw an abyss of fear that the light in her eyes was fighting against, teetering at the very edge as her lips quivered and her eyes began to water lightly.
+
+“Do so and I promise you, you will not live to see the next hour,” Jack declared, his tone icy. “I swear it.”
+
+“Now, now, son, there’s no need for such violent threats,” The middle-aged man chided him, seemingly still hell-bent on selling his illusion of control. “Keep your Qi Sword if you’re going to be so touchy about it. Point it in my direction though and your girl dies. Try that fog fuckery on me and you better be darned sure that you can reach me before I plunge my blade into her neck— which will take me a what, millisecond?” He mused out loud, as if he were considering a mundane issue.
+
+“I’ll ask again,” Jack growled. “What the fuck do you want?”
+
+“Take your group and leave,” The middle-aged man calmly replied, as the mockery from his expression faded. “Keep going until you summit the tallest dune we were keeping watch from and stay there in open view for thirty minutes. Do that and I leave your girl unconscious but whole, free of any holes in her throat.”
+
+“What guarantee do we have that you’ll stay true to your word?” Jack asked, a furious wildfire raging in his gaze as he stared at the middle-aged man’s visage, taking in every feature, every contour of his skin and every micro-expression he revealed.
+
+The middle-aged man chuckled at that, an honest, good-natured chuckle that was very difficult to feign. “Look around you, son. As elaborate as our plan was, it looks like we poked the wrong kind of bear this time around. Don’t be mistaken though, I’m not just going to roll over and die because you got the better of me,” He shook his head, before continuing, “You killed two of my best and for that, I ain’t even gonna lie, I’m pissed as hell. But killing her isn’t going to give me vengeance— because you don’t know her any better than I knew those two, do you?”
+
+Jack instinctively flinched at that, a reaction that he wanted to immediately chastise himself for, but otherwise remained silent.
+
+“I know ‘cause I’ve run to enough groups. Not a single one seemed like they had met another on the group before and it showed in their leadership and combat approach. I’ve got not reason to believe your zircon cleaving self is any different in that department, so I’ll give it to you simple— it was just business. Your group beat mine and I’m man enough to accept that. Killing this girl isn’t worth having a monster like you on my trail and I can see in your eyes that you’d want nothing more than to tear me apart if I give you the opportunity,” The middle-aged man explained, before shaking his head. “I’m afraid you’re barking up at the wrong tree there. I’m just a man trying to survive— if you want to punish someone for all this, then you’re looking for the god that set up rewards for offing others, not me. Now, we can all walk away from this if you let us,” He continued in a soft and understanding tone, as if anything about his twisted, warped logic made sense.
+
+Jack once again found himself searching for Jin’s eyes and within him he saw that fear had given way to helplessness and despair. Two emotions that Jack shared, for the day, the situation, the scenario that was unfolding before him was very much like one he had suffered through almost two decades ago.
+
+Jack knew what it felt like to be in checkmate.
+
+He had replayed his parents assassination a thousand times in his mind, and he would do so the thousand and oneth time if he came across new information that would restructure the odds in his favour on that fateful day. But for all the strategy Jack read, for all he researched and studied the different types of tactics, there was simply nothing an eight-year-old could have done on that day differently that would have lead to his parents surviving.
+
+Up against an enemy that was brazen enough to order an assassination in broad daylight, had the resources to bury eyewitness accounts and silence any spectators that saw what they weren’t supposed to and not one, but two professional hitmen that were likely disguised to fit in with the crowd, there was no warning quick enough, no police station that could react fast enough and no decision an eight-year-old could make that would change the odds towards even one of his parents surviving the ordeal.
+
+Up against the middle-aged man, there were things that Jack could have done differently, but they inevitably involved a choice. Had he killed the assassin, then Marcus would have likely died but Sarah and Jin would have lived, regrouped with him and countered against the enemy group, likely winning without any more casualties. Maybe there were iterations where no one would be sacrificed, but all Jack had was the present.
+
+And in the present, the middle-aged man had conveniently forgotten to mention that Jin would still give him experience if she died and he would likely kill her the moment Jack reached the top of the dune for the same reason he had hunted down other groups— for experience, of course.
+
+Or maybe he wouldn’t, because Jack had displayed abilities that he had surpassed the limit of what the middle-aged man was willing to risk.
+
+But Jack had no way of knowing for certain and there was a very good chance that the middle-aged man would kill Jin, set off Sand-Stalkers in the area to cover his retreat with bricks of his white stone and escape.
+
+Jack had sworn on his parents’ grave that he would never, ever under any circumstances allow himself to be outmaneuvred by the enemy in the manner he had been on the day everything had been taken from him.
+
+And now… Jack had broken the one oath that he had made to the only people he had ever loved.
+
+For a moment, as Jack held onto Jin’s gaze, instead of seeing the asian-american woman whose allegiances he was still uncertain of, Jack saw the face of his mother, of her natural blonde hair and loving brown eyes.
+
+Something inside Jack snapped with a crack so visceral he could swore he heard it.
+
+Then the world turned violet.
+
+The next thing Jack knew, he was no longer within the bounds of his body.
+
+The world had turned violet, and he was observing it from above, from within the bounds of a sphere that had tinted the world purple.
+
+He saw Sarah’s tall form standing victorious over the scout, with her bloody sphere having brutally punched through the back of his head.
+
+He saw Marcus, laid out in the sand with his gaze to the sky as he clenched his one limp arm in the other hand, his teeth gritted and his expression one of controlled pain.
+
+He saw the middle-aged man in the purple tinted world and then he saw what wasn’t touched by the violet.
+
+The white that stained the perfect violet, his crude sword and shield.
+
+The white that encroached upon the colour of the world.
+
+The white that dared to point its edge at his ally, which made her an ally of the violet world.
+
+His world.
+
+His domain.
+
+“Suveth mak'daora kren’shi vortala tu'kari!” Jack pointed at the middle aged man and bellowed in a tongue that was alien to his tongue, yet whose meaning he understood perfectly.
+
+“Your inferior dao is a stain upon the void!”
+
+Jack watched as space itself folded upon the two blots of white energy that had dared to encroach upon his territory.
+
+In the blink of an eye, the middle-aged man’s zircon shield and sword were erased from the world, as if they had never existed in the first place.

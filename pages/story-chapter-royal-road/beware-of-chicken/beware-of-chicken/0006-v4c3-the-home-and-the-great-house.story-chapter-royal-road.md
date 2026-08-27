@@ -1,0 +1,183 @@
+---
+id: 1c45e01a-933c-5ef7-ad21-f2317aaf29f4
+page-type-slug: story-chapter-royal-road
+title: "v4c3: The Home, and The Great House"
+slug: 0006-v4c3-the-home-and-the-great-house
+partOf: beware-of-chicken
+position: 6
+ownLength: 2304
+unit: words
+ownProgress: 2304
+publishedAt: 2023-04-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1188748/v4c3-the-home-and-the-great-house"
+royalRoadId: "1188748"
+markedReadAt: "2026-06-29T18:51:30.349Z"
+---
+
+There were quite a few times where I really wished I was better at this whole “uplift” thing. Man, in the stories I read it all seemed so simple, churning out guns and modern conveniences within months as the main character explained how exactly everything worked.
+
+That… Well, that wasn’t me. I’d like to think I wasn’t dumb, but I honestly had no idea how a lot of crap from the Before actually worked. It's one thing to have the bare bones base explanation. It's quite another to explain it to somebody, in detail, and have them actually make the damn thing.
+
+But luckily for me, I had the wonderful power of having smart, helpful friends who could actually parse my shitty drawings.
+
+That, and toilets were the one thing that I actually did know, in detail, how they worked. That wastewater engineering certificate was coming in more useful than I thought it was. First was teaching Washy about fluid dynamics, and now this.
+
+“We have the prototype done, we think,” the boy who had created a steam engine at sixteen told me as we walked into his workshop. Bowu, Xianghua’s little brother, definitely smiled a lot more now. The Young Master of the Misty Lake Sect had his face covered in grease, and the scarred snake coiled around his arm had his scales dull with clay.
+
+‘Indeed. It is a mosssst engaging project.’ The Noodle agreed, the snake’s eyes intense. ‘One I am quite excited to see the end point of.’
+
+I looked down at the pure white, porcelain bowl. Something I had done without for years. Just seeing it made me nostalgic—which was a bit weird, but you have no idea how nice it is to have a modern crapper until you don’t have a modern crapper.At first I thought Noodle would have been offended that we were going to use this to… well, relive ourselves in, but instead he had just found the entire thing fascinating and a new test of his abilities. Bowu had just been happy to help, using his skills to make the pipes… pipes that we would need a hell of a lot of.
+
+My contribution was making the place where everything would drain to and the crap water could be treated without polluting anything. A primitive digester pond was my solution. It would work out pretty well, at least for the amount of waste we produced. But I had also made it a bit bigger than it needed to be, because I apparently had a lot more people coming to visit than I thought.
+
+In essence, a toilet was just a simple siphon. An S-bend pipe normally prevented water from constantly draining, but when you added water, the equilibrium within the pipes broke, draining the toilet. Then a tank on the top would fill the bog back up.
+
+We were cheating a little. A water crystal solved the tank problem; and the lever attached to it would “activate” it to start creating water. It was good to be friends with Crystal Carvers, and Biyu especially.
+
+“Alright. Test one!” Bowu declared and pulled down the lever on the side.
+
+Water erupted into the bowl, as it was supposed to, and it soon began to drain out the back pipes and into the river.
+
+I smiled, pleased at everything working right… when all of a sudden the toilet coughed and spluttered, ceasing to function.
+
+“Did the pipe get clogged somehow?” Bowu asked, looking confused. He glared it, tapping at the pipe, but nothing happened.
+
+‘I’ll go see if I can find whatsss wrong.” Noodle said as Bowu brought him over to the loo. I had to bite my lip to keep from laughing as the snake descended into the toilet.
+
+A literal snake was going to go to snake a toilet.
+
+I shook my head, hoping whatever problem was easily solved, when I saw a draconic snout grinning wickedly from where it was poking through the door.
+
+The toilet rumbled.
+
+And then Bowu, looking directly into the bowl and waiting for Noodle to return, got a face full of water as the toilet backed up into his face, a long green snake coming with it.
+
+Washy burst out laughing as both boy and snake spluttered, and I laughed with him.
+
+At least until I got into range.
+
+Then I kept laughing and Washy stopped. Because while this was frickken hilarious… Some actions have consequences.
+
+And Washy liked playing with fire a little too much.
+
+===========================
+
+The next test went perfectly. A fat brown carp plopped into the river, ejected the right way from the pipe. He glared and pouted, sulking.
+
+Hey, if he wanted to be a little shit, he could be a little shit. Or our test shit, in this case, to make sure everything went down properly. Peppa had her face buried in Chunky’s side as she chuckled.
+
+“It's a little weird to go inside the house.” Meimei said after a moment. “But I guess it's fine. These ‘sinks’ though? Oh yes.”
+
+“We’ll hook one up in the medicine hut as well. And a hose on the side of the house.” I said.
+
+Gou Ren was already scratching his chin, the implications of indoor plumbing clearly resonating.
+
+I patted the toilet. It wasn’t much, but it was honest work.
+
+With one goal scratched off my list, I looked back at my house. It honestly didn’t look too different. It would still be made out of the same wood and stone.
+
+Not opulent, not too grand. I didn’t care about things like that.
+
+I just wanted a home worth coming back to.
+
+========================================
+
+Shou Zihui of the Shrouded Mountain Sect stared down from where he stood at the top of the grand gate that led into the Shrouded Mountain Sect proper. Before him the Pavilion of Thunderous Awakening was filled with hundreds of people. Today was Initiation Day; when the mighty Shrouded Mountain Sect would open its doors to those chosen few who could complete its trials. Hidden as he was in the mist surrounding the mountain, his lessers below could not see him.
+
+His eyes searched the teeming crowd below him, sharp for any troubling signs. There were none for now, though he could already see rivalries and friendships forming. All below were awed and their passions suppressed by the might and majesty of even this lesser pavilion. The red columns were inlaid with gold; towering taller than the tallest buildings these people had likely ever seen. Weak herbs, unsuitable for the Disciples of the Shrouded Mountain Sect, yet still containing Qi, grew in tasteful displays… but not a single mortal plant was permitted. Even the grass was spirit grass, imported and kept alive at great expense.
+
+And this was a more important Initiation Day than normal. They had to show the might of the Shrouded Mountain Sect to all. There were… rumours going around about their glorious Sect, rumors that they had been humiliated somehow. Whispers that something terrible had happened.
+
+Unacceptable! It was utterly unacceptable! They were the mighty Shrouded Mountain Sect! They did not get humiliated!
+
+But something had happened, that much was undeniable. Zihui himself had heard that some manner of demon influence had been found attempting to worm its way into the sect. It made sense enough to Zihui. The demons and demonic cultivators would surely seek to infiltrate and destroy their mighty sect from within; for there was no other way they could be defeated. The presence of the Inquisitors, once so light, was now heavy, and Zihui was grateful for it. They would root out any demons, and then the true Shrouded Mountain Sect would obliterate their armies in a tide of searing light as they had banished the demon foxes centuries ago.
+
+Zihui was confident it would be so.
+
+He checked the position of the sun; it was nearly time. Already his helpers were making moves to close the entryway; the trickle of people having tapered off some ten minutes ago.
+
+The Great Formation the Inquisitors had erected around the pavilion was silent. No demonic taint had been detected.
+
+Today was the day that they showed the world that nothing truly had changed. They would gather the worthy into the Shrouded Mountain Sect and expel the dregs to try their hand with other, lesser places.
+
+His eyes once more examined the crowd. He was looking for talent, those who stood out— and his eyes landed on some promising candidates. Where the rest of the Sectless rabble were muttering amongst themselves, sizing each other up, these three were calm within this storm. The dregs that looked upon them quickly averted their eyes. Three young cultivators stood, their eyes focused and pure.
+
+The man at the head of the three was the most eye-catching. He was tall. Taller than most, and with a weight about him. His hair was a blazing, fiery red and his green eyes were resolute, his bearing immaculately controlled. His face was angular and handsome, with a sharp nose. He wore a simple blue tunic, yet he made it seem like the raiment of a king.
+
+He had the bearing of a true cultivator, this one.
+
+His two other companions were less striking, but they still drew the eye.
+
+The woman behind and to his right was tiny, where her companion was tall. She barely reached the fiery man’s chest. She was almost mousey looking, with dark eyes, and had an unfortunate band of freckles across her nose. She had black hair, with a single strand of green in her bangs collected into a ponytail that trailed down her back, and was wearing a dark green robe. But there was something about her—her eyes, even from this far away, spoke of fierce intelligence and something darker, barely hidden.
+
+The last of their group was a man with a long scarf, and Zihui snorted in derision at the tribal designs upon it, and the odd, rectangular crystal resting in a pouch by his side. There was an almost monkey-ish cast to his face with the way his hair transitioned into bushy sideburns, and his amber eyes spoke of mischievousness.
+
+Those three would go far—he paused. The red-haired man suddenly turned to look up at the top of the gate. No, directly at Zihui himself.
+
+Interesting.
+
+“It appears that it is time.” A voice from behind Zihui said, and he stiffened.
+
+“Elder Chongyun!” He exclaimed and bowed to his superior. The Elder of the Shrouded Mountain Sect stroked his chin as he stared down at the aspirants below.
+
+“Examiner Shou Zihui, make special note of any stand out talents this year. A storm looms on the horizon, I fear.”
+
+The examiner bowed deeply.
+
+“Your wish is my command, Elder.”
+
+His superior nodded.
+
+“Now… go and see how this crop of Initiates fares.”
+
+“Yes, Elder!” he shouted along with his fellows, the petty proctors who would be assisting him.
+
+The Elder nodded and Zihui turned to his task. His eyes burned with the power of the Shrouded Mountains Sect.
+
+[Thunderous Steps]
+
+Twelve lightning bolts slammed into the pavilion.
+
+“You, who dare to appear before our Esteemed Shrouded Mountain Sect—be silent.” Zihui commanded, striding forwards. His words had the desired effect, bringing an instant end to every conversation. Some had fallen over from the shock of his arrival and the outpouring of his intent.
+
+Those who did not rise immediately had already failed. They would be tossed out on their rears.
+
+“You have come to us, the great power of these Howling Fang Mountains, to join our number and obtain a fraction of this strength for yourselves. Only the worthy may step past this gate and gaze upon our Shrouded Mountain! Those of you here have already displayed some strength of will, walking through the Misty Forest, but now the true test begins. The basis for cultivation is strength! Line up by the number you have received,when you first set foot in this place, and prepare to combat our proctors!”
+
+There was instant murmuring from the aspirants. Some looked nervous. Others, determined. The red-haired man simply strode to his assigned place and waited patiently.
+
+Thus, the weeding of the weak began. It was mostly a boring affair. Some impressed the proctors enough to be told they passed. Most, however, were simply defeated. The crack of breaking bones and the splattering of blood echoed through the air.
+
+Zihui kept scanning, but nobody really stood out. Nobody, until the red-haired man stepped up to be tested.
+
+He bowed in respect to his foe, and the proctor snorted.
+
+The man cocked his head to the side… then when the proctor shot forwards to test the man’s might…
+
+He moved.
+
+A devastating knee crashed into the proctor’s gut. The man was in the Second Stage of the Profound Realm, but he folded over like a mortal’s laundry, gagging from the ferocious blow.
+
+To the proctor’s credit, he managed to get his arm in the way of the next kick, but it was for nought. The red-haired cultivator simply smashed through the guard, his foot landing into a perfect blow to the proctor’s jaw.
+
+The man slammed into the ground, out cold.
+
+Zihui was there instantly, in case the boy tried to hit his downed foe, as some did when their blood was up, but the man remained cold as ice.
+
+“Without techniques!”
+
+“Such skill.”
+
+“That bastard… he's a strong one!”
+
+The lesser existences babbled amongst themselves as the red-haired man looked back up at Zihui.
+
+“Honoured Examiner, I believe I have passed,” he noted, his voice deep and smooth.
+
+Zihui had his first candidate.
+
+“You, what is your name?” He demanded.
+
+“Fa Bi De, examiner,” the red-haired man replied. “It would be my honour to join the ranks of the Shrouded Mountain Sect.”
+
+=====================================

@@ -1,0 +1,203 @@
+---
+id: c7d9df38-e448-5892-9ad9-00548abf1942
+page-type-slug: story-chapter-royal-road
+title: "v5c35: No Holding Back"
+slug: 0141-v5c35-no-holding-back
+partOf: beware-of-chicken
+position: 141
+ownLength: 2557
+unit: words
+ownProgress: 2557
+publishedAt: 2024-08-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1766332/v5c35-no-holding-back"
+royalRoadId: "1766332"
+markedReadAt: "2026-06-29T18:56:07.679Z"
+---
+
+Purple eyes. Freckles. Green hair. The shape of the nose… Ri Zu’s mind was still in turmoil as she ran through the corridors. That man. Their enemy. He was so familiar. There was no coincidence here.
+
+He was related to Ri Zu’s Master somehow. She saw his nose scenting the air—which was how he had known about them and sounded the alarm. And from the way he had looked at Ri Zu… he too knew of their connection. The recognition in his eyes had been too much.
+
+A relative of her Master was their enemy.
+
+It kept her mind going around in a loop, examining every fact during that brief moment that they had met—Ri Zu shoved the thought away again. She had to focus. Her friends needed her.
+
+Ri Zu grimaced and reached out to the little threads connecting her to the shadowy helpers who were similarly sprinting through the complex. The little rats toiled, swiftly constructing in Ri Zu’s mind a map of every corridor they had slunk down. Little red eyes observed the base—they saw the thunder of feet and the clank of chitin as Artificial Demons rushed towards them.
+
+“Left at this junction!” Ri Zu shouted as they got closer to the complex’s prison section.
+
+It was the only place it could be the smell of blood, stress, pain, and excrement had been too strong for it to be any other place. But what had truly cemented things was the faint familiarity. It had nearly been hidden, but there were the barest traces of the scent of the Shrouded Mountain Sect.
+
+Ri Zu prayed that the cultivators within were fit to fight, because if they weren't… things were going to get messier than they currently were.
+
+“They’ve cut us off! No way to skirt around!” Ri Zu shouted.
+
+Her words slowed the mad sprint forward as they made to receive the enemy.
+
+The rumbling of feet reached a fever pitch. From the darkness burst the first of their foes. Ri Zu grimaced at the sight of the Artificial Demons. They were twisted mockeries of men. Ri Zu felt sick just looking at the trauma that had been done to their once human bodies. Their breaths wheezed and rattled. Black carapace and spines stuck out randomly from their forms. Many had their cheeks ripped and split to expose more teeth.
+
+And yet… they moved with disturbing fluidity and predatory grace, their eyes locked directly on them. Ri Zu’s hands went to her needles. Silver light formed around Bi De. Yun Ren clutched Summer’s Sky tighter. Yushang's sword cut a furrow along the ground as she let it drop to the side, preparing for a rising slash. Han, Shao Heng, and Fenxian all sparked with electricity. Yingwen let out a snarling breath. Spooks lowered his head, stepping in front with his antlers lowered like lances.
+
+[Cursed Fire of Da Ji]
+
+And then the Artificial Demons all burst into flame.
+
+It came from within them, ghostly blue fire that erupted from their eye sockets and out of their mouths, their wheezy, chuckling laughter turning instantly to choked screams as they clawed at their throats and eyes; their bodies turning into living pyres of ghost-flame.
+
+Their group smashed into the writhing Artificial Demons and simply ran them over, continuing on their way.
+
+“Thank you, Nezan,” Bi De said, and the fox chuckled.
+
+“This is a test no longer. Now, we do all we can to survive,” Nezan said in his true form. He was a great white beast that filled the hallway, and his words were a low rumble. Ri Zu had been so stuck in her own head that  she hadn’t noticed, and she chastised herself for it. Ri Zu honestly hadn’t expected the fox to suddenly attack… but the test was over. They were fighting for their lives now, instead of showing their skills for Shen Yu. “Speed is of the essence. We do not know if our foe’s leaders will be retreating, or trying to end us as their master fights Shen Yu—and the strongest of them was in the Earth Realm.”
+
+The words were another splash of cold water to the face. Ri Zu thought she knew desperation. The Dueling Peaks, she thought, was the worst it could get.
+
+This had swiftly surpassed that experience in the way it made her heart thunder in her chest. If she was in her rat form right now she might have been cowering under Bi De’s coat.
+
+But she forced herself forward, to keep on running. Ri Zu had said she was brave, that she could handle everything Bi De could, and she would not be quitting now.
+
+“If they come for us, is there any way you can hold him off?” Bi De asked Nezan as they moved as fast as they could.
+
+“It will be difficult. If his nose is like Little Mei’s then it will be a losing battle. Illusions are rather useless against those who can see through them. It would be utterly impossible if I had only half my power, but… well. I went back and got the rest of me while you were all in the Sect. It seemed wrong to be half, instead of whole, while my nephew was infiltrating the Shrouded Mountain Sect. It's still not the best odds, but I shall do what I can, get you close to the prison, then make a stand.”Nezan’s voice was utterly calm as he discussed his own possible death. Yun Ren grimaced.
+
+“Then we all must do everything we can,” Bi De said. “Nezan—”
+
+Whatever Bi De was about to say Ri Zu couldn’t hear, as there was a sudden ripping sensation in her chest. What felt like part of her suddenly died, as one of her shadowy helpers perished.
+
+“He's coming,” Ri Zu gasped.
+
+=====================================
+
+Yulong struggled to keep his breathing under control. Today just was not his day. Their base getting invaded was extremely unfortunate, but something they had contingencies for.
+
+Their base getting invaded by an Imperial Realm Cultivator… not so much. If his Master hadn’t arrived earlier today, they all would have been killed and their great work all for naught. Maybe Yulong would have been able to escape, but sacrificing everything in the base would have been a truly devastating blow.
+
+Luck. Luck had preserved them. No wonder his Master always said it was the most important thing. Even now, two titans of cultivation clashed with enough force to nearly cause Yulong to have a nosebleed.
+
+That was not a fight he could interfere in—but he had every confidence in his Master. Instead, his attention was consumed by the other shock.
+
+The other fact that unbalanced him was the woman. The woman with dark purple eyes and freckles, who could have been a sister to the woman at the place Huian and Chixia were attacking. She didn’t smell like the stars; a bit celestial perhaps, as an undertone, but her main scents were medicine, poison, and shadow.
+
+She lacked the full bloodline… but she was related. She had to be.
+
+But what should he do about this?
+
+“Heavenly Demon! Heavenly Demon! What are your orders?!” a voice cut through Yulong’s introspection. He turned to the scared-looking member of the support staff. He and the others who were here looked close to panic.
+
+Yulong composed himself and put on a charming smile.
+
+“That support staff are to continue to the evacuation points. You have ten minutes to gather up, and then the Flying Sword Transports will leave. A member will stay on standby here, to receive orders to blow the tunnels if the worst comes to pass,” Yulong commanded, and instant relief formed on the faces of his subordinates. “The rest of us… we shall hunt down these interlopers, those who would interrupt our great work!”
+
+A cheer rose and the support staff instantly swung into action, while the combatants formed up around Yulong. Zhigong and Beidou took their places to his left and right.
+
+“Formation lead. Report,” Yulong commanded.
+
+“Heavenly Demon! The primary defenses are down, along with most of our monitoring capabilities! I cannot get them back in working order!” the man stated instantly, bowing his head. “I have no excuses, Heavenly Demon!”
+
+“Your excuse is an Imperial Realm cultivator,” Yulong replied, and the man bowed again. “It couldn’t be helped. What do we have access to?”
+
+“Limited Transmission, and we still have the locks on the Artificial Demons, Heavenly Demon! They’re going through the few squads they do meet like a scythe, and it's like they know they’re coming! One of our combat groups reported setting up an ambush, but it did nothing to slow their advance!”
+
+That was to be expected, if the woman could literally smell the people that were trying to ambush her. Huian was right. His family’s nose was vexing… but valuable.
+
+And two could play that game. He sniffed the air, filtering out the smells of the battle above, and found her again. The scent of poison and medicine was racing through the halls toward—
+
+“They’re headed to the prison complex,” because of course they were. They could smell the Shrouded Mountain Sect members, and likely sought to release them. If they released the prisoners and they able to fight… things would be a mess.
+
+“Formation Lead. Release everything,” Yulong grimaced internally at the order. He had basically gutted their defensive force of Artificial Demons to send them south, and now that decision was biting them. “And tell East Wind… to rampage to his heart’s content. The rest of you, with me.”
+
+“Yes, Heavenly Demon!” his subordinates shouted.
+
+Then they were in the tunnels as well, his nose leading him onward. He smelled a little bit of his cousin’s power in the wall.
+
+He snuffed it out.
+
+Yulong strode unflinchingly forward. Luck would be on his side; just as his Master always said.
+
+============================
+
+Bi De kicked a hole in an Artificial Demon as the others around him burst into flame. Fenxian cut the head off another, and Yun Ren electrocuted a third, grimacing as a blade that had erupted from the beast’s back scored a hit on his arm, drawing blood.
+
+“We’re nearly there!” Ri Zu shouted, pulling one of her needles from the head of an Artificial Demon before grimacing and clutching at her chest. “And the Earth Realm cultivator is approaching quickly!”
+
+“Then this is where I leave you,” Nezan stated simply. The fox looked over them all, then took a step forward and licked Yun Ren’s forehead.
+
+“Nezan…” Yun Ren breathed. His expression was complicated.
+
+“Take care of our family for me, nephew,” the fox said before his eyes turned back to Bi De. “May the Heavens favour you all.”
+
+Then he disappeared, heading back the way they had come.
+
+They couldn’t stop to look after him. They had a job to do.
+
+Their path was impeded once more as another five Artificial Demons leapt at them.
+
+[Wheel of the Crescent Moon]
+
+Five Artificial Demons screamed as they were split in two by silver light, their corpses disintegrating.
+
+Then, finally, there was a door before them. It was a thick thing, forged of metal. For an instant, Bi De simply thought of smashing it open, but decided against it. If they could open it, they could use it as a bulwark while they got to the disciples of the Shrouded Mountain Sect.
+
+So he was utterly unprepared when the door flew off its hinges. Bi De barely kicked it into the ceiling.
+
+An Artificial Demon, at the Fourth Stage of the Spiritual Realm, tore out of the doorway. Bi De prepared to kill the mindless thing, focusing his will, and lashing out with a crescent of energy.
+
+[Hellflame Slash]
+
+Instead, the crescent of energy was intercepted by a technique. Both detonated. Yet instead of instantly charging through the center of the smoke, instead the Artificial Demon dashed along the ceiling.
+
+Needles from Ri Zu and bolts of lightning rose to meet it.
+
+“For Heavenly Demon!” the thing shouted, in a warm, gleeful voice, a massive smile on his face as it leapt around the strikes, dodging with exquisite skill. Then, it blurred.
+
+Bi De stomped the ground at the same time, forcing himself to move.
+
+Which was the only reason why Han did not lose his head. Instead, he barely managed to throw himself out of the way as Bi De slowed the strike. Slowed, but did not stop. His leg buckled as the creature hit Bi De as hard as Zang Sheng had. Bi De’s bones groaned in protest, and the silver armour on his leg cracked.
+
+His eyes met the eyes of the Artificial Demon. They were full of glee—and awareness. They sparked with intelligence and life.
+
+“Go!” Bi De commanded. “Stick to the plan!”
+
+He did not need to say it twice. The others bolted for the door. The Artificial Demon’s eyes locked onto the movement.
+
+[The Rising of the Crescent Moon]
+
+This time, it was the Artificial Demon’s turn to be thrown back. Its head snapped to the side as Bi De rose into the air and launched it down another hallway.
+
+“Strong!” the Artificial Demon said as it stopped itself, its voice guttural and halting. “East Wind Kill, make Heavenly Demon happy!”
+
+More and more chitin expanded out of its body. Its Qi roared, blazing like a bonfire, and it launched itself forward again.
+
+Bi De coated himself in moonlight. Unlike every other Artificial Demon they had met so far, this one was skilled. Even if it was a bit sloppy, it was undeniably a warrior, rather than a beast. Bi De wove around its strikes as the creature fought with all its might, trying to cut him down.
+
+Bi De’s own strikes hammered home into black chitin, cracking its armor plate, and sending dark, hissing blood flying through the air. Silver burns formed at the epicenter of each strike—but the pure light was swiftly snuffed out by the darkness that poured out of the wounds, healing the broken plates.
+
+Its eyes were focused and clear… and it was learning. Each moment they fought, the Artificial Demon was refining itself. Each moment they battled, it got better.
+
+Bi De let out a breath. Conserving energy here would be foolish. It was two Stages ahead of him. It was skilled, and it was strong and fast. He needed this creature dead now.
+
+With a mighty kick, he brought some breathing room.
+
+His body turned silver and then shifted. Another part of himself formed, his body so black he seemed to drink in the light.
+
+Then, both parts of himself overlaid one body.
+
+He had glimpsed the first part of this technique against Zang Sheng, and he had refined it under Master Forest Sweeper and Shen Yu.
+
+Even now, it was not perfect. Yet it was good enough.
+
+Darkness and light. Heaven and Earth. The Moon and the Sun.
+
+The demon launched itself forward. Its arm, now a blade of black chitin coated in sword intent, swung down.
+
+Bi De clapped his hands together. He changed.
+
+A sword driven by demonic muscle and Spiritual Realm Qi met a budding swirl of black and white.
+
+[Wheel of Eternity, First Form]
+
+The Demon blinked in confusion.
+
+“Birdie—?”
+
+The tide of light silenced it.

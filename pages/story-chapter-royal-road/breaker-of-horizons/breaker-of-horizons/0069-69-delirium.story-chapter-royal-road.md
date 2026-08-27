@@ -1,0 +1,105 @@
+---
+id: 704508c7-2216-52ec-8664-87913319a86d
+page-type-slug: story-chapter-royal-road
+title: "69. Delirium"
+slug: 0069-69-delirium
+partOf: breaker-of-horizons
+position: 69
+ownLength: 1990
+unit: words
+publishedAt: 2020-12-28
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/606250/69-delirium"
+royalRoadId: "606250"
+---
+
+Like the other two augera that I had come into contact with so far, the Creyvlor Spire's augera seemed to adapt to dealing with me with astonishing speed. Even as I hurtled forwards, propelled by a stream of condensed arcana, I felt it wrap my fragile mind in some sort of scaffold that cushioned me from the raw speed and overwhelming, alien otherness of its cognition. It was like watching an erupting volcano while ensconced in an impenetrable glass bubble right above the crater rim — I was well-protected, but it was still terrifying beyond belief, and I couldn't fully tell what was happening beyond that little sphere of safety.
+
+Arcana was coursing through my veins and flowing through my auric-ambient-flare so strongly that it felt like I was a part of the great woven-shackled-stream. It was the difference between swimming in a swift current and being one of the waves. Power answered my thoughts — or rather, it answered the thoughts that the augera was feeding through my mind.
+
+Very dimly, I caught bits and pieces of what it was doing with the arcana. There were no glyphs that sprang to mind even as my fingers shaped the arcana into loops and arcs that went snaking across the field of battle. Nothing seemed to happen, but the sheer complexity of what was going on made me certain that these were somehow setting the stage for something that was powerful and beyond my comprehension.
+
+Meanwhile, the assailants were raining heavy arcanic bolts interspersed with advanced combat-grade sequences that I could barely even parse with my limited knowledge. The augera understood it all, but it was too hard for me to glean any understanding from its thoughts about the precise operations of their sequences. All I could catch was amusement and fascination from the augera like it was a grown human being threatened by a toddler with a toy spoon. And with just as much condescension, it reached into the arcana and took away the spoon. Their sequences — which had been deadly enough to lay waste to two cars, tear up the highway, and eliminate six agents — fell harmlessly on my shield, which was now so sophisticated that it seemed to be semi-intelligently reaching out and unravelling the attacks before they could even properly land a blow.
+
+The augera did not strike. Instead, it continued to lay down more and more spools in the arcana, twisting them into fantastic and mind-bending shapes, working towards some inscrutable purpose. And all the while it continued to play with the two assailants who were getting increasingly desperate and frantic. When it became clear that they wouldn't be able to harm me, they started shoring up their defences. To my mind, their protections were beginning to approach the Academy arena's level of power, but the augera continued to regard them with condescending amusement.
+
+'Their reinforcements are coming. Time to start!' it said suddenly.
+
+Tendrils of sharp intent raced through the arcana, and one of the assailants lost an arm — it simply separated from his torso along a perfectly straight line, as if a razor-thin blade had just flashed through in an instant. Somehow, the augera had also managed to stem the flow of blood from the wound. The detachment was so perfect that he didn't even seem to register what had happened until the arm twitched in mid-air and came to hang in front of his face, suspended by invisible lines. A whiff of malicious glee floated across my consciousness, and a moment later the arm started dissolving into nothingness from the fingertips first. The air was suddenly filled with the man's horrified screams — the augera was making sure that he could feel it even as the arm was disintegrating.
+
+The other assailant turned and tried to run. Before I knew it, I was staring into his panicked face as I lifted him up by the neck with one arm. I had just enough time to feel shocked at how he looked to be just a little older than I was before the augera began dismantling his auric-ambient-flare, peeling whole strands off it and letting it fly off into the arcanic wind that was now washing over the whole highway. He screamed for a bit, but then slumped when most of his mind was gone, and when there was nothing left of his auric-ambient-flare, the augera allowed his lifeless body to fall to the ground like a broken puppet.
+
+The first assailant's arm was completely gone now. In a flash, I was suddenly standing over him even as he lay on the ground, tears streaking his face. He was quite young, too. Certainly no older than the other had been.
+
+"Monster," he gasped out. "Monstrous. Like the Empire."
+
+I wanted to say something, but my lips weren't my own. Instead, the augera smiled through me. "Yes. Empire is monstrous. But it will soon learn to fear monsters, too."
+
+The disintegration began from the shoulder missing an arm, but his screams only lasted until his lungs frittered away, leaving his face twisted in a rictus of mute agony, until it, too, blew away like dust on the wind.
+
+It was over in less than half a minute, and even then it was longer than it needed to be. I knew the augera had been playing with him to the very end.
+
+'Better than running, no?' The augera was practically humming with glee as it carefully and gently extricated itself from my auric-ambient-flare.
+
+The sensations of the world rushed back to my awareness as soon as the last strand of its essence was out of my system. I fell to my knees, vomiting and crying.
+
+'What is this?' Concern and confusion washed forth from the augera.
+
+I couldn't speak, whether with my voice or into the arcana. I was still reeling from the horror of what had just happened.
+
+'Horror?' Like a light being turned off, the concern was replaced with contempt. 'You do not know the word. Ancient-distant-spiders are the true horror. And one day, they will know the word, and wish for not-knowing.'
+
+The air around me was suddenly filled with activity and for one terrible moment, I thought the augera had swooped down upon me and was going to take me apart piece by piece and I flinched away, screaming. But then a globe light bathed the area in a reassuring glow and Mr Silver was hauling me to my feet and wrapping me in a warm blanket. I looked up, startled, and saw that I wasn't alone by the highway any more — what looked like a dozen other agents were here, sweeping the scene and assessing the damage.
+
+"Where... how?" I croaked.
+
+"Everything's alright now," Mr Silver said, sounding a lot warmer than he did over the telepresence orb, as he steered me to a waiting car that was identical to the one I had ridden in. We passed an agent who was speaking to another, and I caught a brief snatch of their conversation.
+
+"... more bodies about ten minutes away, totally hollowed out, not a trace of arcana."
+
+"Okay, will send a team to retrieve them for analysis back at..."
+
+Mr Silver stopped in front of the car and turned to face me. "I just need you to do one thing for me. Show me the glyph, please."
+
+The glyph? It took me a moment before his words made sense. I raised a shaky hand and projected it over my open palm. He nodded, then opened the door to the backseat.
+
+"You all... out of nowhere...?" I stared around at the busy scene.
+
+He gave me an odd look, then put a hand on my shoulder and gently, but firmly, pushed me into the backseat before climbing in with me. He gave the driver a curt nod, and we started moving.
+
+"Mr Dundale... Caden," Mr Silver spoke slowly and carefully as if addressing someone who wasn't quite mentally sound. "I know this may be hard, but we need to talk about what just happened, and you need to tell me as much as you can remember. Okay?"
+
+I nodded.
+
+"Your car was attacked. Can you tell me what happened?"
+
+"... we... I was sleeping. And then we just flipped over. Ms Rain and Ms Fen, they—! Are they...?"
+
+"Alive for now, though they're in pretty bad shape. But they'll get the best care, so please don't worry about them for now. It's very important you tell me everything you can. Please, go on."
+
+I swallowed, somehow finding something reassuring about the raw pain in my throat. It meant that my body was still here, still intact. For some reason, that was a very, very important fact, and it brought on a huge wave of relief to think about it. "They got me out of the car, then went off to fight. I couldn't see anything... but I could sense the arcana... sense a bit of the fight. I tried to help, tried to unravel... some sort of shield-piercing sequence. It... didn't work. Then Ms Fen came out of nowhere, got me away from the fight, and went back..."
+
+I paused to gather my thoughts, trying to string the images in my head into something coherent. I hadn't seen the assailants by the car, but I did manage to get a look at their faces later on, didn't I? I wanted to describe it now for Mr Silver, to help him identify the organisation that might have been responsible for this attack, but now, somehow, that didn't seem possible. I didn't realise that I had drifted off, staring at nothing, until Mr Silver prompted me. "And you hid, and put up the beacon?"
+
+"Yes. Made it small, very small, and put it in a crevice. Put up barriers... but... but they found me."
+
+"And how did they get... how did... what happened next?" Mr Silver asked, suddenly very still. I got the impression that even the two agents in the front were listening hard.
+
+Yes, it must be quite the mystery for them. They had to be wondering how I had survived the fight when all the other agents had been dealt with. After all, it must have looked like I had defeated the assailants myself. I resolved to tell Mr Silver everything, even if it meant I had to reveal some secrets.
+
+"I..."
+
+I knew how I got away. Something had happened. Something terrible. The unknown had done it to me and made the assailants a non-danger. I could see it happening in my head over and over again...
+
+... and yet it was impossible to explain or put into words. I wanted to describe how the... the...
+
+"I... it... I..." Panic was rising with me now, and tears started again. Why couldn't I find the words, the thoughts, the ideas, to describe the...
+
+"It's alright," Mr Silver said gently, taking out a briefcase from under the front passenger seat and snapping it open to retrieve a vial of amber liquid. "Here, drink this, and try to rest."
+
+"It's not alright," I managed to gasp out. "It's... it was... it happened... it happened!"
+
+"I know," he said, but the forced calm in his tone only convinced me that it was extremely important that I find the words NOW to tell him what had HAPPENED. I tried to marshal the words, tried to find the labels to put on the pictures in my head.
+
+"It happened! IT HAPPENED!" I shrieked at him. Then, in a moment of glorious, exquisite clarity, I found more words. "MONSTROUS! HORROR! IT HAPPENED!"
+
+I did not realise that I had been clawing at my left shoulder until Mr Silver's arm darted in and held me firmly. My head was forcibly pulled back and I choked a little as something warm and sweet went down my throat, and I slipped into blissful oblivion.

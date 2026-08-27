@@ -1,0 +1,173 @@
+---
+id: 67e50c45-af87-5419-ab28-ca68aa95ecba
+page-type-slug: story-chapter-royal-road
+title: "v5c48: The Quiet Sets in Part 2"
+slug: 0154-v5c48-the-quiet-sets-in-part-2
+partOf: beware-of-chicken
+position: 154
+ownLength: 2238
+unit: words
+ownProgress: 2238
+publishedAt: 2024-10-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1830684/v5c48-the-quiet-sets-in-part-2"
+royalRoadId: "1830684"
+markedReadAt: "2026-06-29T18:56:34.445Z"
+---
+
+Yulong’s heart was in his throat as the explosions rang out. Thousands of tons of rocks smashed into the ground, while the base ripped itself apart. He moved as fast as he could, destroying everything he could behind him.
+
+The scent was coming closer. It was faint and wavering, compared to the overpowering aura it had been, but the Blade was still sharp enough to make his nose start bleeding.
+
+The Imperial Realm Cultivator had defeated his Master. The Imperial Realm Cultivator was now coming for him.
+
+“Heavenly—” Yulong did not pause to acknowledge Qin Peng, nor the two brave souls still standing at their posts, ready to activate the formation.
+
+He just grabbed them, slammed a spike of Qi into the activation pedestal, and leapt onto the flying sword.
+
+Using his own Qi, he supercharged the construct and sent it screeching down the rails to the northeast. The ceiling collapsed in their wake. Once, twice, thrice it nearly slammed down into the back end of the blade, trapping them there forever, but it stayed just ahead of it. His passengers were screaming, and one was even tightly hugging Yulong, getting his tears on Yulong’s robes.
+
+Yulong ignored it. All of his senses were on the Blade. He could smell it. He could smell its fury.
+
+But it did not launch after them. It did not cut through the rock and kill them. It simply stopped and faded out of his senses.
+
+It was only then that Yulong let out the breath he was holding and let go of the two operators. He kept his face steady while the rest of his men panted, fear still in their eyes. One of the men was apologising for getting his tears on Yulong, but he waved them off.
+
+This was a disaster. This was… there were no damn words. So many years wasted. Their enemies knew about them now. Everything was fucked—
+
+He felt a small thread of darkness brush against his mind, and the echo of a laugh. The feeling made him pause, and he forced the panic away.
+
+A setback. It was a setback, and that was all.
+
+“Peng, report on the evacuation,” Yulong commanded, and his words had the desired effect. The man instantly straightened.
+
+“We successfully evacuated all the essential research material and eighty seven percent of the specialist personnel. However… we lost ninety-eight percent of our artificial demons and fifty percent of combatant personnel.” The report was delivered matter-of-factly. “Your evacuation procedures were executed the best we could, and we apologize for any losses incurred by our lacking abilities.”
+
+That was… honestly better than Yulong had expected.
+
+“No. No, you’ve done a fine job Peng. All of you. With your efforts, all is not lost.”
+
+He got several tentative smiles in return.
+
+Their battle against the Empire could still continue. Even with the events around tonight…
+
+He paused. He didn’t know if the fox was dead. He had told it that they were attacking its home… Chixia and Huian would have to be warned.
+
+Yulong grimaced and made a mental note for the future to not tell enemies anything until he was absolutely certain they were no longer a threat.
+
+Premature boasting was a mistake, and heavenly demons did not rise by not learning from their mistakes.
+
+=============================
+
+Shen Yu frowned at the rocks that filled the room he was standing in. The Earth Realm brat was canny. As soon as he felt Shen Yu’s Qi start moving toward him, he had disengaged and fled, collapsing every passageway he could.
+
+Weakened as Shen Yu was from his own battle, the brat’s delays had worked. Shen Yu, with Bi De following in his wake, had been delayed vital moments, and now the boy’s Qi was retreating away at speed, with more eruptions of Qi filling in the tunnel behind him and the rumble of falling rocks getting fainter and fainter.
+
+Perhaps Shen Yu could leap on his own flying sword and follow. Perhaps. Shen Yu’s body was creaking and groaning with every movement, and his Qi was flickering with uncertainty.
+
+No, it was too risky by far in his current condition. Even if he could even track down the boy properly in this land, so deep below the earth that the odds of success were clouded in hefty doubt, he had other things to attend to—like traveling back to his grandson.
+
+He was certain Jingsheng was not lying about the raid on Jin’s home, and that bit of information made anxiety bloom in his chest, even as he sought to rationalize things. His grandson could achieve the power of at least an Earth Realm Cultivator, and Lu Ri was there as well. He was confident in their victory… yet not confident enough to spend more time chasing this bastard.
+
+He needed to see his grandson with his own eyes.
+
+“Our foe has avoided us this day,” Shen Yu informed his disciple. His voice came out raspier than he intended, his throat still damaged by the spike of black chitin in it. The brat had managed to avoid execution, at least for the moment.
+
+His heart rebelled at the thought of any enemy escaping, of not completing his task completely—but it was assuaged. This was still a victory, if not a perfect one. Shen Yu’s cultivation was an uncompromising thing, and he would have to meditate deeply upon the events here to stabilize it, but no further cracks had appeared from the boy’s escape.
+
+“While unfortunate, I believe it is the best course of action. Too many require medical attention to make pursuit viable. Still, we have prevailed in our main objectives,” Shen Yu’s disciple said, his thoughts in tune with Shen Yu’s own. He was smiling at a shady rat that was scampering all around him excitedly. “We have rescued the captured Shrouded Mountain Sect members and inflicted a devastating blow against these demonic cultivators. I do not imagine your slaying of their Imperial Realm cultivator is a small thing, Master, nor the destruction of this base.”
+
+Shen Yu smiled at the boy’s optimism while they walked back into the mountain, towards the prison Bi De had mentioned.
+
+“You are indeed correct, my disciple. I shall save my praise for when we have a full accounting, but all of you performed as well as one could hope… especially with the complications.” Shen Yu was honestly pleased with the Younger Generation’s handling of themselves. They had far exceeded his expectations of them. “However, you are not entirely correct.”
+
+The boy, in his human guise, paused, a look of horrible realization coming over his face. “He is still alive, isn’t he?”
+
+Shen Yu smiled at his instant deduction, even if it was a bit grim.
+
+“In a manner of speaking. His body is destroyed, yet I could not deliver a fatal blow to his spirit.” Shen Yu’s teeth gritted at the memory. The paranoid bastard had already split off part of his soul and kept it barely tethered to himself as an escape route. Shen Yu’s strike had severed the transfer, but his foe had escaped total destruction. “He is maimed, crippled, and barely clinging to life—I estimate whatever scraps of him that remain will be at most at the level of the Profound Realm, and he will likely be lesser than he once was. He will have to sleep, to hibernate for a long time. It would be the work of centuries, if not millennia, for him to regain even a fraction of his former strength, if he can at all.”
+
+Most wraiths couldn’t. Instead, they simply sat in rings or other baubles, hoping to tempt someone into becoming their legacy… and then the cruel ones would attempt to steal their erstwhile apprentice's bodies. Even if Jingsheng performed the maneuver on the green-haired brat, going from the Earth Realm to the Imperial would still take hundreds of years.
+
+Such an existence was a disgusting, shameful thing.
+
+“Then what are our next moves to end this threat?” Bi De asked. “Shall we reconvene with Master Forest Sweeper and plan our next search?”
+
+Shen Yu smiled at Bi De’s gumption. His conviction to see this through was set, an admirable thing.
+
+“No. We will head south with haste. These creatures sent a contingent to raid your home.”
+
+Bi De froze, his eyes wide. His fists clenched and righteous fury filled his eyes. His Qi flared, and once more, Bi De was ready to fight.
+
+Shen Yu approved.
+
+===================
+
+Soon enough, they were at the prison. The pit of misery stank, but it was now under a layer of burning air—the scent of lightning.
+
+A desperate battle had occurred here. His eyes immediately locked onto Nezan’s unmoving body, and onto Yun Ren clutching the Spirit Beast’s core with desperate hope in his eyes. The core did not look to be in the best shape, and Shen Yu was unsure if the young man’s hope would be rewarded.
+
+Shen Yu felt a dull ache that was not his wounds. Nezan had been a fine drinking companion, and the fox had followed them into battle without hesitation.
+
+His eyes flicked over to a blonde woman who was standing near Nezan’s body. She looked conflicted. Her face was shifting through a myriad of emotions as she stared at the fox.
+
+Zang Shenhe, then. Her eyes flicked towards him as he approached, and the woman instantly dropped to one knee.
+
+“Lord Shen Yu!”
+
+“Rise,” Shen Yu commanded, but otherwise he did not further acknowledge her. Instead, he walked to Nezan’s side and placed his hand on his white fur. The body was already growing cold.
+
+He turned his vision to Yun Ren, and ignored the squeak of horror from Ri Zu; the little rat instantly started to catalog his injuries.
+
+“How are you still alive-breathing?!” she demanded.
+
+Shen Yu gave her no answer, instead turning to Yun Ren. The boy had tear streaks down his face and was covered in wounds; honourable wounds, gained in combat with the Great Enemy. He had never once faltered, despite the fact that he had never truly wished to walk this path.
+
+“Yun Ren, this Shen Yu requests your permission to transport your uncle’s bones. This is no place for him to rest.” It was the least kindness he could do. The boy would need some pointers on that sword of his later as well.
+
+The young man startled at the question, his eyes going wide, before he bowed his head.
+
+“Thank you,” he whispered.
+
+Shen Yu patted the boy on the shoulder. Shen Yu pulled out a storage ring, one with a black band. Many dear friends and comrades had been laid within it over the years, and this was its sole duty.
+
+The body of the fox disappeared and Shen Yu rose again. He forced his Qi to steady itself and gazed around at the survivors, then clasped his fist in a martial salute.
+
+There was a sharp intake of breath.
+
+“My Disciples. Elder Zang Shenhe. Disciples of the Shrouded Mountain Sect. This Shen Yu salutes you. All of you have performed admirably against the Great Enemy—truly, I name you all heroes. You have done well. And now… your battle is over.”
+
+He gave everyone his full attention as he looked around at them. The gaunt faces. The spines of black chitin sticking out of them. The injuries from battle. Tears trailed from several disciples’ eyes. Shao Heng had an exhausted smile upon his face. Fat Han had tears streaming from his eyes as he supported Yun Ren. Yushang collapsed to her knees. Spooks just kept laying there, the young Thunderhoof completely spent.
+
+“Zang Shenhe, assemble your disciples for transport,” he commanded. “We are leaving this wretched place.”
+
+The woman bowed. Bi De looked questioningly at Shen Yu.
+
+He still had enough energy to make a flying sword big enough to transport everyone here. And while most of these disciples were useless, Shenhe was still relatively fresh. If there were things amiss at his Grandson’s home… another Earth Realm Cultivator would not be remiss.
+
+A blade rose into the frigid air and oriented itself southwest.
+
+====================
+
+The flying sword took several hours to get to the next base; by that time Yulong was anxious enough to largely ignore the milling people who cheered at his return, and instead sprinted to the transmission stone network.
+
+The transmission stone fuzzed and hissed. It pulsed, and for a moment he thought that his words wouldn’t get through.
+
+“Receiving,” a calm, mild-mannered voice replied. It faded in and out, and he could feel the spotty connection.
+
+“This is Heavenly Demon Yulong! Priority message! Get this to Huian and Chixia! Retreat immediately! We are compromised, Code White! Blow the rails on the completion of this message!”
+
+There was a pause, and more static buzzed down the transmission
+
+“Your will be done, Heavenly Demon.” The operator on the other end displayed no panic and simply went to complete his orders. Truly, competent subordinates were a blessing. He would have to ask for his name later.
+
+The connection squealed and cut out.
+
+Yulong let out a breath.
+
+===================
+
+Thousands of Li away, a mild-mannered, unassuming man took his hand off the transmission stone.
+
+His robes were pristine, despite the blood on the ground.
+
+Lu Ri examined the completely intact base he had captured, complete with formations and transport array, with a raised brow.

@@ -1,0 +1,307 @@
+---
+id: 26475a4b-6451-555c-be76-759464d23ae2
+page-type-slug: story-chapter-royal-road
+title: "v7c30: The Fall of the Wu part 1"
+slug: 0283-v7c30-the-fall-of-the-wu-part-1
+partOf: beware-of-chicken
+position: 283
+ownLength: 3568
+unit: words
+ownProgress: 3568
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3076953/v7c30-the-fall-of-the-wu-part-1"
+royalRoadId: "3076953"
+markedReadAt: "2026-06-29T19:01:08.663Z"
+---
+
+After commanding their cultivators to deal with things, naturally, the next step was to go to bed; Chanchou was utterly exhausted by the entire boring day, and so she slept soundly. She awoke quite early, however, quite excited to show her sister the error of her ways… but things were strange in the morning.
+
+“What do you mean nobody arrived last night?” Father demanded of one of their servants, who had been instructed to receive their “guests”.
+
+“Nobody arrived, My Lord,” the servant repeated. “We have had no contact from the people whom you said would arrive.”
+
+“Lazy, no good bastards,” Father muttered under his breath. He swiftly went up to his room, and ripped in half another talisman. He waited. And waited. And waited some more.
+
+When after twenty minutes, no cultivators materialized, he sent servants to the palace they kept to go and find the man.
+
+However, when their minor transmission stone buzzed… it was not with good news.
+
+“It's empty, My Lord,” the servant stated.
+
+“....what do you mean, empty?” her father ground out.
+
+“I mean what I say, My Lord. The palace servants said they were dismissed late last night by Master Ye Shun, and so they went to the servants’ quarters. Now there is no furniture, no luxuries, no food—they even extracted the gold and jade from the inlay in the meditation rooms.”
+
+Chanchou’s jaw dropped. Her husband’s eyes bulged. Even Father looked utterly baffled, before rage overtook him.
+
+“Perfidious, feckless—this is why one should never trust a cultivator. Their oaths are worthless. The Azure Jade Trading Company must have somehow offered them something. Our informants said they had a lot of cultivation resources. And of course, the peasant chose that over his honour,” Father snarled, before glaring off to the side.
+
+But… if the cultivator is gone, and the Auditor still has all of our records... Chanchou paled.
+
+“Wha—what do we do then?” Chanchou asked. “They still have to be bluffing, don’t they?”
+
+Father just stared at her.
+
+“Idiot girl,” was all he said, and Chanchou flinched. “They’ve had some minor victories, so now they’ll think they are invincible. We have to—”
+
+He paused at the sudden, frantic knocking on the door to his study.
+
+“Enter,” he commanded.
+
+A servant poked their head in. “My Lord. A special session of court has been called by the Lord Governor and the Lord Magistrate of Pale Moon Lake City, on behalf of the Auditor General and the Lord Director of Civil Service Examinations. They have not informed any of our men through the usual channels, and there are guards… They altered their patrol routes. They have us surrounded.”
+
+Chanchou’s breathing hitched.
+
+Father frowned. “I see,” he said, then lowered his voice. “How many men do they have with them?”
+
+The servant, still nervous, swallowed. “At least a hundred. My Lord, what—”
+
+“That is enough,” Father commanded. “Worry not, there is merely a political matter that must be attended to.”
+
+The servant nodded hesitantly, before backing away and closing the door.
+
+“They do not want us running, it seems,” her husband mused. Chanchou on the other hand, felt her heart beating out of her chest.
+
+“Wha—what do we do—” she started her voice rising, but then something hit her. Heat and pain exploded in her cheek. The room spun. Chanchou blinked the stars out of her eyes, to see her father retracting his hand.
+
+“Control yourself!” Father ordered her. As if she was one of the servants!
+
+Her head whipped to her husband, who said nothing about the strike. In fact, he wasn’t looking at her at all. His eyes were narrowed into the distance past the window. They were cold and calculating. Chanchou swallowed, and clasped her hands together in her lap.
+
+“Have the servants make preparations to leave. We shall wait, to see if they truly have the guts—but activate all contincencies,” Father declared.
+
+Father took a scroll, and began to write. Chanchou just sat, her hands folded in her lap, and tried to ignore the stinging in her cheek.
+
+Father called in another servant when he was done. “Send this transmission to our men in Grass Sea City and Yellow Rock Plateau. Open a bounty, for our dear Acting Lord Magistrate,” Father said, then rose, and turned to look at Chanchou’s husband.
+
+“We will endure this,” he stated simply, “as we have endured since the Age of Heroes. Now, let us see what they do.”
+
+Chancou’s husband turned to her father, and smiled. It was the smile he smiled when he had to, when he didn’t like somebody.
+
+“Of course. I have no doubt of our eventual victory,” her husband replied.
+
+The men nodded at each other. Both of them had cold eyes.
+
+The stirrings of fear, quelled by pain, started up again.
+
+….this was all her sister’s fault. If she hadn’t… Chanchou bit the thought off.
+
+===========================
+
+The Lord Governor of the Azure Hills was not in a good mood. He rarely was when he was asked to call an early morning special session of court, but the Lord Director of Civil Service Examinations, as well as the Auditor General had been insistent.
+
+The request had come in last night, when he had been in the middle of enjoying a particularly skilled courtesan’s company. She had been supremely talented at go, her dance had been elegant and refined, and her voice divine. Her last ballad in particular had him misty-eyed… at least until his aide walked in, and informed him of the men wanting to see him.
+
+Which had been an annoying conversation, and some of the documents had been concerning. Concerning enough to ruin his sleep, and upset his stomach.
+
+He hadn’t even managed his morning meal yet.
+
+He strode down the halls of his palace with a frown on his face, and met with Ban coming up the other way. The Lord Magistrate of Pale Moon Lake City fell in beside him with his own retinue, the two merging.
+
+“Lord Governor. You look well this morning.” Ban said with a sardonic grin. The bastard.
+
+The Lord Governor simply scowled at the Magistrate… before noticing the makeup hiding the eyebags on his counterpart’s face.
+
+“That bad, Ban?” He asked.
+
+“Certainly not good, Jufeng. It appears we drastically underestimated our good Auditor General.”  Ban replied. “The weasel is indeed a weasel. Though in the case of attacking rabbits ten times his size, rather than being a coward. I'm rather baffled how he got this information.”
+
+“There were rumours of the Wu Clan’s manse being raided yesterday.” Jufeng replied. “I thought it idle gossip, as nobody would be that foolish, but apparently somebody was.”
+
+Neither of them liked being wrong. And neither of them liked the instability that was sure to arise from this.
+
+“Ah, always exciting times, My Lord Governor.” His Magistrate replied. “Lets hope it's not as exciting as thirty years ago, hmm?”
+
+The governor grimaced. Indeed. Thirty years ago. What a disaster. If it weren't for that one green-haired man, the bald one and the freckly maid…
+
+Well. No sense in dredging up painful memories.
+
+Both of them paused outside the door to the meeting hall. Where another aide was waiting. The aide looked rather pale.
+
+“Meng. Have they all arrived?” he asked the man.
+
+“Yes, My Lord, everyone on the list is in attendance but…” The man swallowed. “We may have a… situation.”
+
+The Governor took a deep breath, then let it out.
+
+“What sort of situation?”
+
+“My Lord, are you familiar with the main Heavenly Ascension Stone?” The man ventured.
+
+“Yes, the broken one that doesn’t detect anything in the Initiate’s realm.” He replied.
+
+Whoever had built the Palace had good ideas; a cultivation detector, built right into the floor. The problem was that it couldn’t detect the cultivation of ninety nine percent of the cultivators who existed in the province.
+
+“It turned on. And… we checked the characters. Triple checked them, to be sure, but… it hit Spiritual.”
+
+Everyone froze at that.
+
+“You’re certain?” the governor
+
+“We don’t know if it actually detected something or it was another Qi anomaly.” the man said again. It's not on anymore; and we can’t see anybody who looks like a cultivator…” The man trailed off.
+
+There was definitely something afoot. It had started three years ago, when a wandering cultivator had accidentally shattered a bunch of detection stones with his cultivation… and apologised. Then gave them money to replace them. That had been one of the oddest reports Jufeng had ever read. A cultivator, apologising for breaking something?
+
+It turned out to break those pendants, the person had to be Spiritual Realm or Higher. Massively stronger than any cultivator in the Azure Hills.
+
+Then, somebody matching that cultivator’s description started wandering around the province. He only appeared in bits and pieces, but soon after the Plum Blossom’s Shadow had sprung up out of the ground.
+
+After that, there was the business at the dueling peaks. Then the Qi anomalies in the winter, which Mengde’s Crystal Emporium had said were natural.
+
+And now this.
+
+He sighed heavily.
+
+“Well. No sense in putting this off.” He finally said with a grimace.
+
+The servants opened the door for him, and he stepped into the hall. He immediately took in the people gathered. There were not many; it was mostly the directors, their aides, several noble families. Sheng Yanjing was sitting with the Lord Director of Civil Service Examinations, both men quietly speaking to each other, with documents open on the table.
+
+There were also numerous members of the Wu’s faction in attendance, but the Wus themselves—and the Master of the Treasury—were conspicuously missing.
+
+The guard captain was under orders to form a cordon around the Wu Clan compound.
+
+Everyone rose.
+
+The Governor and his Magistrate walked to the head of the proceedings, where his throne awaited. It was the second grandest seat in the room. The much better chair was raised high above his own, and obscured by flames: the symbolic seat of the Emperor, never to be filled.
+
+The bastard thing always made the heat in the summer bloody unbearable.
+
+The Herald of the Azure Hills began the rituals; declaring the year, the date, and all other boring minutiae before the rest of them were allowed to sit as well.
+
+“And now, we do declare that this court is in session!” the man finished. “Glory to the Crimson Phoenix Empire! May its flame shine eternal!”
+
+“Glory to the Crimson Phoenix Empire! May its flame shine eternal!” the rest of court echoed back.
+
+Jufeng sat heavily. At least the Emperor allowed them comfortable seats.
+
+“This special session of court has been called by the Auditor General of the Azure Hills, and the Lord Director of Civil Examinations for the Azure Hills,” He stated, his voice carrying out over the hall. “It is of great concern to His Imperial Majesty’s government, and backed by the word of two trusted men. Auditor General. Proceed.”
+
+“Yes, Lord Governor,” the man said, rising to his feet. “This Sheng Yanjing, Auditor General of the Azure Hills, accuses the Wu Clan of bribery, corruption, conspiracy, arson, and assassination!” the peasant declared. “As shown in the Wu Clan’s own records.”
+
+“And how did you receive those records?” Ban asked, his eyes focused on the pages.
+
+“By raiding the Wu Clan’s compound, as outlined in the rights granted to me By His Imperial Majesty..” came the bold reply.
+
+The court immediately erupted into shouts of shock and anger. Eyes narrowed at Yanjing, and not just from the Wu’s side. Every noble looked disturbed by that revelation.l It was one of his powers, but it was only used sparingly.
+
+It was abhorrent to the nobles, to be imposed upon like they were commoners.
+
+Hells, it was abhorrent to him, because this was about to destabilize things. He was getting old; the excitement was the last thing he needed.
+
+And yet… he was actually rather impressed. The Wus had been the ones to push for Yanjing to become Auditor General, yet here he was, bearing his fangs at them.
+
+Jufeng’s initial impressions of the man had been that of a spineless coward. His face did him no favours, the man looking a bit like a weasel, and his grin was that of a schemer. Oh, the man was good at his job, undeniably intelligent, a hard worker, and as a commoner driven to prove himself… but he was also a soft, pliable sort.
+
+It was one of the reasons he had allowed the Wus to sponsor the man so easily, and not given much pushback to his appointment. A driven coward? That was useful.
+
+His predecessor has been undeniably effective… but also slow. When he found something, he wouldn’t rest until he dug it up completely, finding every piece of evidence.
+
+When he caught someone, there was no escape. The problem was that he got slower as he got older; until the work was piling up. Near the end of his term, his opponents had started running circles around him—a proven fact with the debacle in the Grass Sea.
+
+Yanjing had been fast. Indeed, during his first month he had completed more audits than his predecessor had finished in years. The amount was less, to be sure, but if he had kept up the pace? It would have been just what they needed.
+
+A man who would put in the work, while keeping his head down unless the Wus got some damn fool idea.
+
+Yanjing had also been the one to bring up some strange errors in the reports from Grass Sea City… before the Wu’s asked him to investigate Huizhong. Which was annoying, but it was the price of having such a spry boy, indebted to a noble family. That and Huizhong did need a boot up his ass every once in a while. Jufeng couldn’t do anything to the smarmy shit, the cultivators liked him. But a few months of squirming? The bastard would deserve it.
+
+It should have quelled the noble’s squawking… and somebody other than him could tell the gossips what happened.
+
+He sure as hells wasn’t going to tell the fools that the Shrouded Mountain Sect had been embarrassingly defeated in a drunken brawl.
+
+Yet after that, he had basically disappeared, never coming back to the city. Instead he had gone north for half a year, and come back with steel in his spine.
+
+Which would have been interesting if the brat wasn’t painting a nice big target on his back by doing something this reckless.
+
+The murmuring and anger started to peak, and when it looked like somebody was about to interrupt, a single gnarled hand raised.
+
+“I recognise the Lord Director of Civil Service Examinations.” he said, and all words ceased.
+
+The Lord Director of Civil Service Examinations rose to his feet.
+
+“The raid upon the manse of a noble was not done in haste, nor without considering other avenues,” the old man said, his voice quiet and mild, yet all heard his words. “It was this humble servant of His Imperial Majesty who advised the course of action, when Junior Yanjing sought the council of his elder. He presented overwhelming evidence that such a raid was necessary.”
+
+That cut most of the rage off at the knees. The Lord Director was a man that was the very definition of temperance. The old man was one of the more tolerable sorts. Even Jufeng’s predecessor told him to heed the man’s council well, and that worked—mostly because the man rarely felt the need to give it. He was content in his little kingdom and never involved himself when Jufeng wanted to do things, unless it would interfere with the running of the realm. And even then, the old man would work with him to get the things that he wanted done instead of just saying no and digging in his heels.
+
+“Overwhelming evidence?” Ban asked.
+
+“In addition to the documents that show gross embezzlement, and testimony from the surrounding towns of foul play, including delayed food shipments and arson… we also obtained testimony from one of the daughters of the Wu Clan.” The old man continued.
+
+Jufeng raised an eyebrow. “And why would the daughter of the Wu Clan speak against her family?”
+
+“The Wu clan plotted to have her son assassinated, and then attempted to use my office as a bludgeon against her, when her son proved too difficult to strike.” Yanjing was the one who spoke this time. He sounded legitimately upset.
+
+Who knew the weasel had such a sense of justice? It was rare that he misjudged a person so badly.
+
+“And who is her son? Is he known to this court?” he asked.
+
+“The acting Lord Magistrate of Grass Sea City.”
+
+Once more there were gasps, and Jufeng’s eyes narrowed.
+
+The Special Inspector, now the Acting Lord Magistrate. One of his best pieces; the man who had cut down Grass Sea City, and taken out half the pains in Jufeng’s ass.
+
+It was the Wus who had sponsored the man. He thought it was their masterstroke; their creature, to take over a position. His successes had been unnatural. Miraculous, even. He had thought the Wus fully behind him.
+
+Instead, it seemed that they were indeed trying to get him killed, and only the luck of the heavens had saved him.
+
+He frowned.
+
+“And what did your raid discover?” He asked.
+
+“The attempted assassination of a Lord Magistrate, the successful assassination of another. Purposefully sabotaging food aid during famine. Directing their agents to prevent fire brigades from doing their job, so their rival's buildings were burned.” Yanjing started.
+
+The room was silent, as the accusations kept coming, with different books being lifted up each time.
+
+Jufeng kept his face carefully neutral as the man spoke. He would have to double check his own records later, and perhaps burn some of them. There was probably near enough damning evidence in his own little black scrolls; one needed somewhere to record who owed them what favours, details on payments, or collections of correspondence for later blackmail.
+
+And indeed, there was much dirty laundry currently being thrown onto the floor. Yanjing was being diplomatic by not mentioning names here and now. But Jufeng could see multiple people in the Wu’s faction squirming as a certain fact or another was revealed.
+
+Jufeng wanted nothing more than to pinch the bridge of his nose. He wanted to curb the Wu Clan’s power. Many did. But they also had certain uses. Their contributions to him were many, and the Lord of the Treasury really knew how to throw parties.
+
+Yet with everything thrown into the open like this? He couldn’t not act. Especially because one of the men they had killed had been his wife’s cousin—and that had been one of his summer homes that had been damaged by that fire.
+
+He could feel a vein bulging in his forehead.
+
+There was going to be blood. A war of shadows. But right now… there was only one thing he could do.
+
+“I have heard enough. Lord Magistrate, your verdict?” He asked.
+
+Ban’s face was hard and cold.
+
+“The evidence is indeed overwhelming. I recognise Lord Wu’s own handwriting, as well as their seal. It is the opinion of this Magistrate that they are, indeed, guilty.”
+
+“Then I, the Lord Governor of the Azure Hills, Command the immediate arrest of the Wu Clan and the seizure of their properties.” He declared, “Let none harbour them. Let them be brought to account for their crimes.”
+
+And, he thought to himself, let none escape.
+
+Because if they did things were going to get very, very messy.
+
+==============================
+
+The Lord Magistrate of Verdant Hill watched it all from the viewing gallery in the back, his wife sitting beside him and holding his hand. Xue Ji stood behind them, a small, amused smile on her lips.
+
+The command echoed through the room, and immediately, men started to move out.
+
+While The Lord Magistrate was loathe to give up praise for being part of the group to take the Wu Clan down, and be on the floor making arguments and unveiling his enemies’ deeds… it was not the wisest course of action. What was some praise, weighed against being able to go home without fear?
+
+He would be relegated to a single line in this sorry affair. If he appeared at all.
+
+It was the best outcome.
+
+The legal holdings of the Wu Clan would be seized. The head of the Wu Clan and all his descendants would be seized and placed under arrest immediately, while the investigation continued.
+
+…there was a high likelihood his wife’s father would be exiled or executed, as well as a great many more of her family.
+
+He turned to his wife… yet he found her watching with her face a blank mask, when the Lord Governor finished reading his verdict.
+
+“To think this all happened because Chanchou wanted to torment me one last time,” she said in a dispassionate voice.
+
+“Spite is indeed a powerful motivator.” Xue Ji mused.
+
+“They’re going to try and run, I think.” his wife whispered. “They probably have different routes now. But I remember, the one my sister and I were told to use…”
+
+She trailed off.
+
+“Shall I take you there, my Lady?” Xue Ji asked.
+
+For a while, Lady Wu didn’t answer.

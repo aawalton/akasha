@@ -1,0 +1,173 @@
+---
+id: 940e65aa-a638-55c9-9fe5-f3a786c292c7
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 39 - Surprise"
+slug: 0043-b3-chapter-39-surprise
+partOf: bookbound-bunny
+position: 43
+ownLength: 2263
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3373682/b3-chapter-39-surprise"
+royalRoadId: "3373682"
+---
+
+One weekend, while Lily was eating dinner with her friends and planning their next trip into the dungeon, Arakil made an odd request.
+
+[Can you ask to be excused tomorrow? I have something I want to show you.]
+
+Lily wanted to immediately agree, as Arakil almost never requested anything, but still gave pause. Her friends were counting on her, and they were hoping to finally reach the elusive second floor.
+
+{Are you sure? We were heading to the dungeon tomorrow.}
+
+[I'm sure. Sorry, I know it's short notice, but it will all make sense tomorrow. This will be a very important lesson, I promise you.]
+
+With Arakil's confirmation, she had no choice but to excuse herself. Her friends were initially confused, as they had been enthusiastically planning throughout their meal and had been talking for days about their next trip.
+
+Still, when Lily said it was important to her studies, they let her off without question. The dungeon was important, but self-improvement was unquestioningly more so. Hana herself had taken a break a few weeks ago and returned having learned a new type of light magic that greatly improved their progress through the first floor.
+
+If Lily learnt a new Astral spell, or came back with some new glyphs or other strange technique, then it would only make subsequent runs even better.
+
+When they were back in her room, Lily asked Arakil what he had planned, but no matter how much she tried to bait out a response, he was silent on the matter. He merely claimed it was a surprise and she should wait for the appropriate time and place.
+
+Her nighttime lessons went by as usual, but when it came to sleep, Lily was tossing and turning with anticipation. In fear of staying up all night, she drew herself the basic sleeping glyph that Arakil had taught her, as promised. Likewise, Lily was conservative in her use, allowing herself to use it only once every two weeks. Arakil had warned it was addictive, and having experienced the dream-induced sleep, she understood perfectly what he meant.
+
+[At one point, dream magic was even labeled as forbidden. One of the most prominent masters lost all of her apprentices as they succumbed to the siren call of endless slumber. Why live a life of hardship in reality, when you can experience countless lives of endless joy? Or that was the sad conclusion they had settled on…]
+
+Lily had found the story particularly chilling, and thus was even stricter than Arakil originally intended. After all, he'd only given her the most basic components, so Lily was incapable of even being tempted by such a haunting outcome.
+
+When Lily woke up, her morning progressed as usual. Arakil still made no sign of what he wanted to show or teach her, so she went about as per normal. After a morning in the alchemy lab, she had lunch with Lotte and her friends before bidding farewell and wishing them the best in the dungeon.
+
+In the afternoon, Arakil finally stirred.
+
+[Do you still remember how to draw my divine mark?]
+
+Lily rubbed her cheek as she thought, trying to recall it. She'd only officially drawn it once, but compared to the one they were borrowing from Purity, it was simple. She loosely drew it from memory, to which Arakil chuckled and revealed the answer.
+
+"Damn, I put the square inside the circle on the last step," Lily grumbled.
+
+[Not to worry, I'm glad you remembered it this much.]
+
+"Does this involve your big surprise?"
+
+[It does. Remember, I mentioned finding a suitable perk for my apostle?]
+
+"Other than being able to share your knowledge, you mean?"
+
+[Correct. While I'm sure you find helping your friends is beneficial, in my opinion, it's still not a fitting enough reward. In fact, you could deem it closer to a job requirement than a perk…]
+
+Lily wanted to object, as she felt everything else Arakil had done for her was still more than enough, but he wasn't having any of that. At this point, all she could do was accept his generosity and profusely thank him, while hoping to repay him one day.
+
+"Okay," she said, while holding back her grumbles.
+
+[It took me quite some time to think of something suitable, and unfortunately, I was delayed a little due to my expenditures during our dryad encounter.]
+
+Lily frowned.
+
+[But! Without that event, we wouldn't have solidified our bonds as master and apprentice-apostle, or Familiar and owner.]
+
+I still can't see myself as your owner… No matter what the technicalities of the Familiar bond say, Lily silently protested.
+
+[So I'd first apologize for the wait, but I believe it will truly be worth it.]
+
+"So… What is it?" Lily asked, unable to hide her curiosity now.
+
+[Well, first, I need you to replicate an inscription.]
+
+Lily sucked air through her teeth. "An inscription…"
+
+[It will be purely copying, so no need to worry too much. Unfortunately, there's not too much benefit to be gained from long-term memorization of this one.]
+
+"Really?" Lily asked.
+
+[I'll explain later, as doing so now would ruin the surprise.]
+
+With that, the book unfurled, revealing a complicated inscription. Considering it involved Arakil's divine mark, she thought it would be something similar to the one that allowed him to manifest and defend her against the dungeon-possessed dryad. Still, other than his mark, it was entirely different.
+
+Most of the major components were utterly unidentifiable to Lily, except for one. Deep in the inscription lay a glyph whose crest belonged to the domain of dreams. Lily almost opened her mouth to ask about it, but stopped herself when she realized it would do her no good.
+
+Receive the surprise first, ask questions later…
+
+Other than the dream crest and Arakil's mark, there was nothing else she could identify among the main components. Naturally, there were recognizable sigils, indicating the duration and targeting of this inscription, which meant Lily understood it would target her and that it appeared to have a time limit of six hours.
+
+Six hours… No wonder he told me to excuse myself from the dungeon.
+
+That also excluded the drawing time, but since Lily was effectively just tracing it, something Arakil would normally forbid, it actually didn't take too long. Evidently, learning these components was not part of the reward; otherwise, he would have told her to take her time.
+
+When Lily finished the drawing and made a few minor corrections, Arakil was happy. Yet he didn't tell her to activate it; instead, he told her to lie down on her bed for safety.
+
+Is he going to show me a dream?
+
+Lily held her tongue, despite having a multitude of questions desperately seeking answers. She lay down on her bed as instructed and positioned the inscription directly above herself, with the eye of it positioned above her face.
+
+[Right, activate it and place your wand safely back in your pouch. You'll have a minute before the show begins.]
+
+"With all this buildup, you're really leaving me in suspense," Lily sighed with a soft smile.
+
+[I just hope it lives up to your expectations.]
+
+Lily rolled her eyes and activated it. The magical diagram began to hum in preparation for its full activation, and Lily quickly stored her wand safely away. When the countdown finished, a brilliant luster erupted in her mind's eye, and she began to drift off as her consciousness faded. The last thing she saw was Arakil's grimoire closing and softly falling next to her head on her pillow.
+
+Lily was vaguely acquainted with dream magic, and this definitely felt similar. Yet what would normally transition to a blur of unbridled imagination instead came to a clear white void. Stranger yet, Lily felt like both her mind and body were perfectly clear, uncharacteristic of any of the dream magic she had cast upon herself.
+
+I'm fully conscious while in a dream? This was Lily's first thought, which in and of itself was also against what she'd been taught.
+
+Suddenly, Lily was reminded of the harsh warning Arakil had given her, and she could vaguely understand why those apprentices might have chosen to live out their lives in a dream. If one could be fully conscious and in control, it could very well be better than any reality.
+
+While Lily pondered this strange occurrence, she noticed an abnormality in the white void. It was the figure of a person, and they appeared to be walking towards her.
+
+Seeing a stranger approaching in an unknown area would normally be reason for some concern, but Lily felt herself drawn to the figure. As they got closer, she realized she felt strangely connected to the stranger, no, to him.
+
+"Arakil?" Lily whispered the question.
+
+As if that was enough, the veil was lifted. That was no stranger; that was the one who gifted her with magic and taught her everything she knew. The white void suddenly felt alive and warm, no longer cold and alien. Then, in the blink of an eye, he was standing before her.
+
+Arakil was not how Lily had originally imagined him. She had sort of thought of him as a warm, older man, perhaps with a big bushy beard, kind of like a loving grandparent who doted on their granddaughter.
+
+He was a tall, middle-aged man of average build, with prominent cheekbones and dark eye bags. His hair was grayish-black and quite messy, looking like he vigorously scratched his head often or was a serious victim of bedhead. Yet, despite his somewhat unkempt appearance, he was clean-shaven, with not even a hint of stubble.
+
+His outfit was a modest robe, light beige in color, with no adornments, decorative trimmings, or denoted markings. Despite all of that, for some reason, Lily thought it looked unreasonably comfortable, and she couldn't figure out why it had given her that impression.
+
+He surprisingly had a moderate complexion, although if you looked closely, there were a few faded freckles across the nose, and slight sun creases at the corners of his auburn eyes. Perhaps the only clear hint that remained of his origins was that his hands still looked far too rough for a scholar.
+
+In fact, if Lily were to give her true, honest opinion, she would have said he was unsuited to casting spells, as from the outside they appeared practically boorish. Just like stereotypical pianists should have long fingers with a hand span that can reach a tenth, the same could be said for mages if you hoped to make the required somatic gestures.
+
+How much effort did he have to go through to reach the pinnacle? Lily couldn't even begin to imagine, which was likely why he had had such a visceral reaction to the current state of the world.
+
+Lily's own hands had also been ill-suited for casting, at least until her minor growth spurt. It seemed as if magically most of her issues had faded with time, as if someone had been paving a road over the cracks for her.
+
+"Not what you expected?" Arakil asked, the familiar voice she'd been hearing since her arrival in Regarth finally having a proper face.
+
+"You're taller than I expected…" Lily replied, almost the opposite of what he had said when he first regained his arcane eye.
+
+The corners of Arakil's mouth curled up into a small smirk. He opened his mouth to say something, but before any words came out, Lily had thrown herself at him.
+
+She clutched tightly at him, in the strongest hug she could muster with her poor arms. He was warm, yet it was different from the way she hugged Rose, Margit, or Camilla. Holding onto Arakil, she felt intrinsically safe and secure. And, just like she had somehow predicted, the touch of his robe was impossibly comfortable.
+
+Arakil had been as stiff as a board as she one-sidedly embraced him, her head buried just below his chest and her cheeks rubbing against his robe. As if he suddenly recalled how to interact with people, he lifted his arms awkwardly and returned the hug, while softly patting her back.
+
+That broke the delicate balance, and Lily began to softly cry as emotions broke like a dam.
+
+"Um… Are you alright?" Arakil asked, his tone tinted with genuine concern.
+
+"Of course I'm alright," Lily said, with a stuffy-nosed sniff. "I'm just… Happy!"
+
+"Ah… I see… Tears of joy," Arakil mused, relief in his voice.
+
+"And now you ruined it!" Lily said, shoving herself away and giving him a pouty stare-down.
+
+"Sorry…" Arakil said awkwardly. "It's been a long time since I've had contact with another individual."
+
+Lily sniffed, then, to his surprise, giggled. "I bet."
+
+Arakil nodded, looking a lot more relieved now.
+
+"So this was your big surprise?" Lily asked, drying her eyes and nose on the hem of her sleeve.
+
+"This?" Arakil asked and gestured around with an arm. "Heavens, no… This is merely the outside porch."
+
+Lily looked around, tilting her head curiously.
+
+Arakil then gave a cheeky smile and waved his arm; a set of double doors appeared out of thin air. They were made from what looked like marble, and Lily gasped in surprise. Arakil snapped his fingers, and the doorway slowly began to open.
+
+Lily gulped in anticipation, not knowing what surprise Arakil held in store behind those fancy, ornate doors. In truth, she was more than happy to have finally met Arakil for the first time, yet her imagination was going wild with what true surprise he had in store for her.

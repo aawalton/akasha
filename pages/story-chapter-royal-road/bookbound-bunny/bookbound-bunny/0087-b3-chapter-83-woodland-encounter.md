@@ -1,0 +1,154 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 83 - Woodland Encounter"
+slug: 0087-b3-chapter-83-woodland-encounter
+partOf: bookbound-bunny
+position: 87
+ownLength: 2221
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3870634/b3-chapter-83-woodland-encounter"
+royalRoadId: "3870634"
+---
+
+Walking along the tunnel, Lily was seldom attacked by a few remnants of the dire moles. In their small and infrequent numbers, they were absolutely no threat at all as she continued her exploration. This time, she was using her Magesight on the lookout for potentially more treasure, but it seemed like the silvery gem she had found earlier might have been the only one.
+
+However, this also confirmed she wasn't being watched by one of the headmaster's eyes, although she still didn't plan to do anything out of the ordinary, even if she was currently incognito. Guided by Starlights, the dark tunnel began to brighten, and she found herself exiting through what must have been the intended entrance, somewhat hidden on the border between the forest and the rocky region.
+
+Well, it looks like I made it to the forest like I sort of planned anyway. I might as well have a look around.
+
+One thing she was quite pleased about was that here she didn't have to worry about any bird monsters attacking her, and the variety of monsters here seemed to be ones she was more familiar with, such as wolves and forest spiders. Walking around, she also spotted the occasional snake, wrapped around a tree as if pretending to be a vine, but her Magesight gave it away.
+
+Lily continued strolling deeper into the forest, and that was when she noticed a lot of magical plants. To the naked eye, the place looked overgrown, as if centuries of undisturbed growth had been allowed, but her Magesight revealed that they had all been magically grown. Brambles, bushes, vines, and all sorts were forming natural barricades and hindrances, similar in execution to what Lily had done but far more subtle about it.
+
+When she first saw this, her immediate thought had been to burn it all down, maybe a bit of influence from Rose, but she quickly squashed that idea when she realized the potential risk. Yes, she could control the distance on her glyphs, but she couldn't control the wildfire as it spread. She also considered using wind to cut a path, but ultimately used her cloak to push aside any obstructions.
+
+While the manipulated cloak didn't have much strength behind it, it was more than enough to push aside brambles and growth; pretty much anything less than a tree was fine. If Clarissa had been manipulating the plants, that might have been another story, but currently, they appeared to have been grown rapidly as a hindrance.
+
+Lily continued going deeper, but aside from a few monsters, she wasn't finding much, and if there were treasures, they might have been hidden by all the plants. She didn't suspect that Clarissa knew about her Magesight, so it was probably just an unfortunate coincidence that they were making it harder for her to search.
+
+It was really beginning to feel like she was wasting her time being here until she heard a voice in the distance shouting for help. She started toward it and soon discovered a boy, hogtied and restrained to a tree by a multitude of vines and roots.
+
+"Oh, thank goodness, finally someone found me," he said, looking genuinely grateful. "I've been stuck here for what feels like hours, and I can't get free. I know we aren't in the same faction, but please help me?"
+
+"Um, sure," Lily quickly agreed. "Can you tell me what happened?"
+
+"I ran into Clarissa, and she tied me up," he sighed. "I can't believe this doesn't violate the rules. Doesn't this count as a direct attack?"
+
+"It feels a bit like a technicality to me, but I'm not sure… The vines aren't too strong, I'm surprised you haven't broken free by now."
+
+"I could've burnt them, but I was worried about setting myself on fire," he admitted. "I think that was her plan to get me to trigger my own Ward."
+
+"Fire would normally be her biggest weakness, but she's turned this whole forest into a giant fire hazard waiting to happen… If that was her plan, then I have to give her credit for it."
+
+The boy nodded in agreement while Lily began slowly trying to free him. At first, she tried some telekinesis, but it wasn't strong enough, and using something like a wind spell to cut them would have gone against the image she had built up.
+
+"Sorry. Give me a moment to draw something."
+
+"Hey, don't worry about me, I'm not going anywhere," he chuckled.
+
+Using her cloaked wand, she quickly threw together a wind glyph to do the cutting for her and, since the target wasn't moving, could even mark the locations she wanted to affect. In no time at all, she activated it, and several cuts occurred simultaneously, freeing the boy, who fell to his feet and basically kissed the ground with joy.
+
+"Thank you, thank you, thank you!" he said repeatedly.
+
+"You're welcome. I hope you still have time to do some exploring."
+
+"Hopefully. I'll probably try running toward the foothills. But man, your normal spells are terrible, but your glyphs are amazing."
+
+"Thanks…?"
+
+"I didn't mean that in a bad way," he quickly corrected. "Your star magic is great, too. I was talking about your basic elements."
+
+"I get it," Lily replied, sighing a little.
+
+"Ahh, sorry! Look, I'm no one to judge; I can't do anything but fire magic. We can't pick our bloodlines, right? Anyway, thank you again. I'm going to run off before I put more of my foot in my mouth."
+
+Lily tried to say it was okay, but the boy ran off before she could say otherwise. It was a very awkward interaction from both ends, especially since Lily wasn't exactly the best at talking to people outside of her friend group. She shook her head and quickly got over it, returning to exploring the forest.
+
+I wonder how many more people were tied up?
+
+While she didn't find people crying out for help, she did see signs indicating that others had been tied up, as why else were there so many vines and roots surrounding various tree trunks? However, she did bump into a few other students while exploring, and the common theme among them seemed to be getting lost in the absolute jungle of plants.
+
+{Does she really have the Mana to grow all of this?}
+
+[Floramancy is known to be quite efficient, a fair trade considering you can't do anything with it without the proper medium. There's also her staff, which she has been nurturing; you could almost call it a naturally formed enchanted item at this point. I also wouldn't be surprised if her Familiar is something akin to a dryad and could even naturally grow plants.]
+
+{I thought the staff was to be used when there are no plants? Why would she use it in a forest?}
+
+[Just because that's its primary purpose doesn't mean it doesn't have other uses. When nurturing an item, you usually use it as a focus for your magic, and it can make casting spells through it easier while also potentially instilling some kind of ability of its own into it. The obvious drawback is that without the item, you lose a substantial portion of your power. If it's destroyed entirely, you could fall back on years of progress.]
+
+{Seems like you aren't a fan.}
+
+What she left unsaid was that she thought Arakil's bad luck might have led to him losing the item more often than not. Lily would be lying if she said she wasn't at least a little bit interested, though, given that Arakil had previously mentioned the process could take years to accomplish anything, it wasn't exactly a good time investment.
+
+[I tried it a few times and found the process a bit lacking. You could argue this grimoire was going to be one, although it ended up being my prison instead.]
+
+{Sorry…}
+
+[Don't be, it's a result of my own folly. Besides, it hasn't been all that bad. I got to meet you for one thing, and before that, I got to collect some interesting knowledge I might have been unable to easily procure.]
+
+Lily nodded and didn't press further. Anytime she brought it up, she only felt bad while Arakil casually brushed it aside. He'd routinely said that when you get to his age, time starts to lose a lot of its meaning, and in the grand scheme of things, this might be only a small blip in his existence. Obviously, such an explanation was far too lofty and grand for her comprehension, which is why she still felt she should be trying harder despite him telling her there was no need to rush.
+
+"Oh! Look who's stumbled into my parlor," a girl's voice said mockingly.
+
+"Clarissa?" Lily questioned, turning around to face the source.
+
+Clarissa was standing there, gripping her staff tightly as she stood there, her chin tilted upward as if looking down on Lily. Lily herself almost burst out with laughter, as the girl opposite her had the absurdly fitting image of an evil step-sister from a storybook.
+
+"You ran away from me in the duels, but you can't run away here," she taunted.
+
+"I wasn't running… I just wanted to take part in the dungeon duos competition."
+
+"That's just an excuse," Clarissa snapped back.
+
+"Besides, Hana won the tournament," Lily pointed out.
+
+Clarissa's confident visage cracked for a moment, as her cheeks tinged red. "Th-that was just a minor blunder on my part! If I had known she had learned her family's flying magic already, I would have prepared a suitable countermeasure!"
+
+"I won't root for you over Hana next year, but I'll wish you good luck."
+
+"You want to run away next year, too?"
+
+"Again, I'm not running away… I just find the dungeon stuff more important. I'm happy to stand aside and let you and Hana fight in the duels. Honestly, you should be more worried about Arthur, Thomas, or Garet growing stronger for next year."
+
+"That's a good point… I didn't expect Arthur to get a draw out of Hana, and fighting Garet's fire would be a big problem…"
+
+Lily bobbed her head in agreement.
+
+"Wait, why am I agreeing with you?" Clarissa suddenly snapped. "Don't pretend like you're my friend and have my best interest at heart."
+
+Lily sighed. "Is it really that important to listen to your parents and try to win over Rose?"
+
+"Of course. Family is everything. I'm proud to be a Viremont," Clarissa stated matter-of-factly.
+
+"I don't get it…" Lily admitted in a slight whisper.
+
+"Well, perhaps when you come to my family's dinner invitation, you will understand," Clarissa suddenly said.
+
+It was such a sudden change of subject that Lily felt like she had whiplash. She was practically gawking at Clarissa with how shocked and surprised she was.
+
+"You've got to be joking?"
+
+"I am not. My parents heard you were invited by the Lucaryns and graciously extended a similar invitation. It seems you performed surprisingly adequately in the dungeon competition."
+
+"I mean, we won…" Lily mumbled.
+
+"Yes… Anyway, now that I've invited you and fulfilled my obligation, I can get around to my actual business," Clarissa said, changing the subject again.
+
+"Are you planning on breaking the rules?" Lily asked, slightly on guard.
+
+"Nope, I've had plenty of practice to avoid that. I'll just be embarrassingly restraining you for the rest of the event. Be grateful that my hands are somewhat tied, so my actions are limited."
+
+Before Lily could say anything to the contrary, vines and roots shot out from various bushes towards her. However, while a spell wasn't prepared, Lily was thankfully still wearing her Nebula Veil. Before coming to Regarth, she was already quite proficient in using it to defend herself, but after the various drills Professor Elius had put them through, she'd made considerable progress.
+
+As if alive, her cloak billowed out protectively, the nebula of stars swirling violently as it intercepted the assault. Normally, physical attacks were a big weakness of her cloak, which this certainly counted as. Yet, these plants were nothing like the large rocks Theo had lobbed at her, and all of them failed to breach her cloak.
+
+Clarissa frowned, and with a wave of her staff, more plants seemed to spring to life. To Lily, it felt like the forest itself was coming to life as pretty much everything with even a hint of green was charging at her, but her protective cloak of stars remained firm, and none of them managed to cause a breach.
+
+Lily was about to reach for a defensive talisman, worried that Clarissa was going to step up the attacks again to a whole new level, but that was when the attacks suddenly stopped.
+
+"Good! As expected of my rival, if you couldn't handle these simple attacks, then you weren't worthy of the dinner invitation!" Clarissa declared.
+
+Again, Lily was left speechless by the absurd claim, but while Clarissa's words sounded reasonable, her flustered expression, which she failed to hide, revealed her true feelings. In what could only be described as a temper tantrum, Clarissa spun around and stormed off in a huff, leaving Lily standing there at the ready as the plants around her slowly withered away.
+
+Did that really just happen?

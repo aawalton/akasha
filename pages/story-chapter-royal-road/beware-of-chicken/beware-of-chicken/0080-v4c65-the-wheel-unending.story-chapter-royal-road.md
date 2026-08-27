@@ -1,0 +1,213 @@
+---
+id: 5722843e-dd40-518a-b39d-c9f322349e81
+page-type-slug: story-chapter-royal-road
+title: "v4c65: The Wheel Unending"
+slug: 0080-v4c65-the-wheel-unending
+partOf: beware-of-chicken
+position: 80
+ownLength: 2213
+unit: words
+ownProgress: 2213
+publishedAt: 2023-12-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1431457/v4c65-the-wheel-unending"
+royalRoadId: "1431457"
+markedReadAt: "2026-06-29T18:54:10.430Z"
+---
+
+Bi De moved his wings and neck, stretching himself out properly. It had been months since he had engaged in battle in this true form, and his opponent was not one that he could fight without being in peak condition.
+
+He marveled at the way his body moved, feeling so much smoother and more precise compared to his human form. Breaking through increased… everything. His plumage was more refined. His eyes were sharper, and his senses had expanded in ways he had not known were possible. He was acutely aware of every part of his body. The little scars that Chow Ji’s impurities had left in his muscles had disappeared. The microfractures in his wings from Basi Bu Shi’s teeth, the scar on his leg from Sun Ken—all of these were no more.
+
+It was like he had been born again from his egg; yet he could tell he still had much work to do. His body wished to change further. To expel more impurities and refine itself into a true weapon.
+
+Bi De took a breath, the nourishing air of the Shrouded Mountain filling his lungs and replenishing his Qi. The damage Sheng had inflicted upon him was cataloged; it was only superficial.
+
+This felt much better.
+
+The roar of the crowd was in Bi De’s ears. Their tumultuous Qi filled the air as shock overcame them at Bi De’s true form. The tournament announcer looked for a brief instant like he was about to interfere… when he suddenly paused, his face going pale.
+
+Zang Sheng’s mouth was open in shock and confusion.
+
+“This one apologises for holding back. We may begin again,” Bi De said as he readied himself.
+
+Zang Sheng went from shocked to angry.
+
+“That was you holding back? This is your more powerful form? I don’t know what’s more insulting. The fact you are a chicken, or that you were holding back against me.”
+
+Lightning began to spark and crackle around his body as he started walking to the side, already looking for a more advantageous position to strike from. Bi De copied him. He had some aches and pains still from the battle so far, while Sheng was near fresh; Bi De had landed no telling blows in his human form.
+
+“It was quite difficult,” Bi De replied. “You are a powerful foe, and it was only my familiarity with your arts that prevented my defeat.”
+
+Sheng scowled even harder before he took in a breath, his eyes becoming sharp and dangerous.
+
+To Bi De’s surprise, Sheng did not fly into a rage—instead, his intent focused. It seemed that out of all his opponents, Sheng would be the first to not underestimate Bi De in this true form. “Very well then,” the Young Master said evenly. “I suppose I was holding back slightly as well. It matters not the form you take. I shall crush you and have you serve me. Strength Above All.”
+
+WIth those words said, no more needed to be spoken.
+
+Bi De’s spurs ignited with holy lunar wrath. Sheng’s lightning Qi spiked. Bi De’s talons dug into the stone as he launched himself forwards.
+
+[Thunderous Steps]
+
+And then they were upon each other once more.
+
+A fist wreathed in lightning met a silver blade.
+
+A massive shockwave slammed into the barrier formation around the arena, making it flare.
+
+Silver met gold, and both stopped dead.
+
+Before, every other time when Sheng had struck, Bi De had given ground. He had retreated, utterly overpowered. Each moment was spent simply staying alive, attempting to minimise the damage taken.
+
+Bi De stared into Sheng’s sparking blue eyes. Both of them flexed, throwing themselves backwards. Sheng raised his hand and Bi De narrowed his eyes, light gathering around them both.
+
+[Fulmination Arts: Gold Wire]
+
+[Light of the Full Moon]
+
+Lightning smashed into a beam of cleansing sliver light. Each struggled against the other, until these too canceled each other out in a massive explosion that had the barriers flare up again.
+
+=============================
+
+Fat Han felt rather numb.
+
+His good friend, who had helped him out so much, was a Spirit Beast. And not just any Spirit Beast, but a chicken.
+
+A chicken now fighting… no, now matching Zang Sheng.
+
+Biren had obviously known something. Known enough to make jokes about it even. And while Han did want answers… for now, all he could do was stare at what was going on below him.
+
+It should have been comical. A chicken battling Zang Sheng. It sounded like a bad joke. It should have been over in an instant.
+
+And yet the battle raged on.
+
+Sparks and explosions of Qi lit up the growing dust cloud where they dueled as Zang Sheng clashed again and again with the proud cock who had challenged him. Rolling thunder heralded Shang’s blows, while Bi De’s power rang like a pure chime, beautiful and celestial.
+
+There was enough power being thrown around that Han would have died in an instant had he been in the middle of it all. And they were clearly not slowing down. In fact, they seemed to be speeding up.
+
+Sheng burst from the smoke, chased by Bi De.
+
+Han could barely comprehend what happened next as both man and the rooster's limbs blurred. It looked more to him like one of Biren’s “slideshows” set in fast forward—he could only glimpse the clashes and brief pauses as the combatants struck a hundred, then a thousand times, as they both fell back down to earth.
+
+Blood sprayed out from a cut on Sheng’s arm. Bi De grunted as electricity sparked along his body.
+
+[Descending Lunar Fangs]
+
+Bi De flipped, his spurs transitioning into savage sickles as they drove down towards Sheng. The man lifted his arm, accepting the blow and grunting as they bit down into his flesh—but he simply brought his other arm back in return.
+
+[Heaven-Sundering Horn]
+
+Sheng’s arm decompiled into lightning, turning into a blazing lance of coruscating energy, and in the space between heartbeats, Sheng drove it into the rooster’s chest.
+
+The silver armor on Bi De’s chest blazed with light—but the attack overwhelmed it. The lightning lance penetrated, disintegrating the entirety of Bi De’s chest.
+
+Han’s jaw dropped, stunned that Bi De had died so suddenly, only for Bi De’s body to become completely silver before fading like the mist at dawn—and for a completely black rooster to leap up from the shadows, his blazing silver spurs at the ready.
+
+[Split faces of the Half Moon]
+
+Sheng managed to pull his arm out of the silver doppelganger and ripped it down to meet the light with a roar.
+
+Silver met gold, and the arena erupted again with Qi.
+
+Han could only stare, his mouth dry, at just how far the gap was. He barely felt Yushang shaking him and screaming, or Shao Heng’s own wide-eyed awe.
+
+And then, Han felt his resolve firm. He did not despair. Instead… he could only wonder when he would be able to stand there like them.
+
+===============================
+
+Once more the world had narrowed completely to nothing but the fight for Bi De.
+
+If he spared any thought to the world outside he would instantly lose this battle. Even speaking and banter was put aside, for Zang Sheng was not saying anything and Bi De knew that no words he spoke would have any effect.
+
+Zang Sheng was as utterly focused as he.
+
+Bi De twisted through an attack combination that would have dismantled a human, closing in on his adversary. Sheng was clearly inexperienced at fighting something as small as Bi De. The movements were off, but Sheng was adapting already as Bi De had to abort his own attack. He used his wings to throw himself backwards, lest he be pulverized by lightning. Sheng capitalized on the sudden shift in position and erupted forwards, his entire body shimmering with light.
+
+Sheng had originally fought… safely, was the best way Bi De could describe. There were no openings. Every movement was perfect in order to bring Bi De to defeat without allowing even an inch of retaliation. It had showcased the power difference between them, yet Sheng had taken him seriously the entire time.
+
+Now, Sheng’s attacks were bigger. The Young Master was leaving himself open to retaliation in a way he had not done before, but the sheer power he was unleashing made it hard to capitalize on any of those opportunities.
+
+Whereas before it was only a matter of time until Bi De was defeated by him, now everything was on a knife’s edge.
+
+They traded blows, like an ocean that ebbed and flowed in cycle. Bi De was bleeding; his feathers were scorched as another devastating blow clipped him. Sheng himself was littered with cuts, but the purifying moonlight did absolutely nothing more to him as it had done with Zang Li.
+
+Zang Sheng… He was a monstrous man. He was strong. Ridiculously strong. Even Zang Li at his full power would have been utterly crushed before the torrent of lightning and the skills he displayed.
+
+But as the fight went on, something did start to change. As they traded blows and pushed themselves to the limit… Sheng’s output started to fall slightly. His Qi started to diminish.
+
+Sheng was starting to tire.
+
+While Bi De himself needed to simply breathe in, the air of the province provided him with all he needed. He would still eventually exhaust himself… but it would be a long time yet.
+
+The land gave freely to those who would give to it.
+
+Sheng noticed this. It was impossible not to. His face twisted—and then, his eyes narrowed.
+
+“So it's like this, then,” he stated simply.
+
+[Forbidden Arts:—]
+
+Bi De’s eyes widened as Sheng’s Qi suddenly spiked—the other man burning years off his very life, rather than be defeated.
+
+The man completely decompiled into lightning, his eyes and body burning blue. He raised his hands and the world screamed.
+
+[Ephemeral, Eternal Moment]
+
+Light poured forth from him. It consumed the entire arena. It consumed the sky. It was an overwhelming attack. Bi De felt his feathers stand on end. The Aegis of the Full Moon would not be enough for this.
+
+The world slowed down as the attack raced for Bi De, an attack that would be able to knock the top off a mountain.
+
+It was a lethal blow, one Bi De could not block or dodge.
+
+He closed his eyes as he summoned [The Split Faces of the Half Moon] to his side.
+
+Bi De loved the moon. He loved its sublime beauty; the way it kept him company in those early days, his only companion in the night.
+
+It was his sword and his shield… and it had never failed or disappointed him.
+
+He once more placed his trust in that silver light.
+
+Bi De opened his eyes. The lightning was nearly upon himself and his clone.
+
+Bi De stepped forwards to meet it.
+
+His feathers turned black and silver, the colours of his beloved moon. Beside him his other half did the same, cladding themselves in holy moonlight. A crescent burned on his brow.
+
+Both of his halfs moved into the start of a flip. The start of his first move, the [Rising of the Crescent Moon]. His old, faithful friend.
+
+And yet, even as he began the move, there was something fundamentally different about it.
+
+Bi De was a creature of Yang, a bloodline tied to the call of the Sun, as a virile defender; yet he cultivated the Moon. The cold light and darkness.
+
+But it was only one part of the whole. It was only one part of the cycle… just like himself.
+
+The Moon and the Sun. Yin and Yang.
+
+Yet… they were one in truth. One part of a never-ending dance.
+
+He had never had the strength to do this before. But right now… Right now, he wished for victory. For Yushang… and for himself.
+
+Something ignited. His shadowy clone merged into his body…and for a brief instant, Bi De burned gold.
+
+The moon rose. Then the sun. Then the moon again, spiraling in their perfect harmony for all eternity.
+
+Yin and Yang, darkness and light, a duet of one spun inexorably forwards towards the mass of lightning that was coming for him.
+
+It had no name. Not yet. It was still incomplete.
+
+The Lightning of Heaven met the Wheel of Eternity. A moment captured in the lightning’s glow ran into the march unending.
+
+But it was enough.
+
+The world disappeared into light. Bi De felt his feathers burn. He felt his body scream in protest. It felt like he was trying to resist the change of seasons, or turn the days back.
+
+The gold fire faded, until all that was left was silver.
+
+But he trusted in himself. He believed. The Moon always rose again.
+
+And the lightning started to fade as the Taijitu burst through the back of the technique, blazing with silver.
+
+Zang Sheng did not beg. He did not turn his back or try to flee.
+
+He raised his arms in one last defiant block, holding no hatred in his eyes; all that remained in them was simple, begrudging respect.
+
+Bi De’s leg slammed home into his chest.

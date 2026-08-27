@@ -1,0 +1,117 @@
+---
+id: 3ee748be-d93f-571f-8e03-5afae0c44d30
+page-type-slug: story-chapter-royal-road
+title: "106. Support and Subjugation"
+slug: 0106-106-support-and-subjugation
+partOf: breaker-of-horizons
+position: 106
+ownLength: 1961
+unit: words
+publishedAt: 2021-05-06
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/677616/106-support-and-subjugation"
+royalRoadId: "677616"
+---
+
+Nothing. There was nothing.
+
+For a moment, utter panic seized Caden, but then he remembered what Ambrose had called this non-place — oblivion. It was quite unlike the other clusters of ideas that usually came with arcanic concepts that had been communicated by the augera. Instead of pressing in on his mind with the weight of knowledge, this single concept was simply a yawning hole of mystery.
+
+So it wasn't 'nothing'. There were definitely things here, in this non-space. They were just beyond the scope of his mortal senses. He was oblivious to whatever existed here, like how a theoretical two-dimensional being would be oblivious to virtually anything happening in the third dimension.
+
+As soon as he corrected this perception in his mind, he also realised that he wasn't totally oblivious. Just as the two-dimensional being would still be able to see at least a slice of a three-dimensional object if it passed through their frame of reference, so too could he grasp one sliver of the reality around him.
+
+Time continued to make linear sense here, it seemed. And, strangely enough, so too did pure emotion, and other concepts that did not involve a spatial understanding. That presented challenges. Every time he thought of this non-space as a 'place', or even used words like 'here' or 'where' as he tried to make sense of what was happening, he felt naked terror suffusing him as his mind worked desperately to cope with the alienness of this experience. Even the sense of peace and self-assurance that had allowed him to perform the feat of following Ambrose failed him now because he had derived it from a physical anchor.
+
+'Fates, you're h–... you've done it!'
+
+Ambrose. It wasn't a voice. It was just him, and he was everywhere and nowhere. Caden instinctively tried to turn to the source of the communication and was met with only the horror of disembodiment.
+
+The horror intensified when he tried to reply. This wasn't like being in the arcanic sea, where he had a voice. He, too, was everywhere and nowhere, and he was doing all he could to simply remember that he existed at all by holding on to his emotions. Without a vaguely physical body to anchor him, he could only build his sense of self around his fleeting thoughts and feelings.
+
+'The thoughts and words don't need to be sent anywhere. They just are.' Ambrose seemed to have picked up on Caden's plight. And now that Ambrose mentioned it, Caden did recall him saying something about how difficult it had been for him to figure out how to communicate with the augera in this space. He tried to remember what had been said, but it was painful for him to even turn his mind to memories that involved actual space.
+
+'Just think, Caden. Just be.'
+
+When it finally clicked, the relief was so exquisite that Caden was caught entirely off-guard, and his consciousness fizzled in confusion at the unexpected sensation. It took him a while before he managed to think coherently again, and by then the horror was back, gnawing at his very being.
+
+'Need to go back,' he managed to convey. 'How? Back, how?'
+
+His sense of self was suddenly overwhelmed by the presence of another, and then he found himself back in the arcanic sea, writhing in pain and confusion.
+
+"What's going on?!" Devon cried out in alarm. All around Caden, the gentle resonance of everyone else's arcana had fallen apart into discordant noise as they lost their focus on the channelling and breathing exercise. He felt multiple auric-ambient-flares frantically vibrating in place, but two of them were tuned in to his distress — Ambrose and Emilia.
+
+"What did you do?" Emilia demanded. Caden was confused to see her looming over him, with a hand on his forehead. He felt her auric-ambient-flare sweeping over him like a wave, and even in his pain, he marvelled at the precision with which she was able to direct it.
+
+"That's my fault," Ambrose said, joining her and helping Caden to sit up. It was only at that point that Caden realised he was on the floor. He hadn't even noticed when he had collapsed in a heap. How long had he been there? What had his physical body been doing while he dipped into oblivion?
+
+"What did you do?" Emilia asked, rounding on Ambrose.
+
+"Uh, I'll explain later. I'll take care of Caden for now. The rest of you can keep going."
+
+"If there's some danger we're not aware of in this exercise–" Jerric began, but Ambrose headed him off.
+
+"No, it's not that. The exercise is safe. It's a good foundation. I just sort of pushed Caden ahead. But don't worry, he'll be fine, I'll guide him through this."
+
+Jerric was frowning so hard that the lines seemed permanently etched on his face, but he didn't challenge Ambrose any further. Emilia, too, simply looked on impassively, her face inscrutable, as Ambrose draped one of Caden's arms around his shoulder to support him. Together, the two of them left the room.
+
+"The veil thing," Lynus said into the silence, his voice tense. "You think Caden just crossed it?"
+
+"I think so," Emilia mused. "It matches Ambrose's own account of his experience. And I did sense them communicating a little through the arcana before he collapsed, even though I couldn't really catch what they were saying."
+
+Lynus' jaw tightened. Jerric looked over at him coolly. "Does it bother you that Caden is so far ahead?"
+
+"Yes," Lynus answered, pursing his lips. "So what?"
+
+"I count it as a win if Caden gets stronger. He's on our side, after all." Jerric paused, then added, "Assuming we're all on the same side."
+
+"Let it go, Ly," Kevan said wearily.
+
+Lynus glowered at Kevan. "Don't you realise what this means? If Caden's wrong about all this, and we really should be stopping him, then letting him outpace everyone else is going to make it harder for us all to deal with him!"
+
+Devon and Jerric both opened their mouths to object. However, Kevan's angry retort drowned out their replies. "Get with the programme. All the anchors need to be on board to stop Caden. If you really want to make sure we're all in a position to do that, then you need to stop pushing so damn hard against the idea that he may be right. Because right now, you know what's happening with all this attitude you're showing? All you're doing is pushing the others away, and giving them less of a reason to be open to the possibility that Caden is wrong!"
+
+Lynus looked like he was about to burst with anger, but with what seemed like a supreme effort of will, he contained himself. A look of uncertainty passed over his face, and he wordlessly left the room. Kevan made to follow him, but Emilia placed a hand on his shoulder.
+
+"He may need time alone to process what you have said," she murmured.
+
+"You know, Kev... I never expected to say this, but you're actually shaping up to be the more likeable twin at the moment," Devon said with a wry smile. "And coming from me, that's something."
+
+Kevan gave a sort of half-grimace half-smile at that. "Ly and I take turns at being the asshole. It's kind of our thing. You guys just met us at a time when it was my turn to be the shitty one."
+
+"So Lynus is going to become an even bigger asshole in the coming months, to match the level you were at?" Devon asked, with a look of dismay that was only half in jest.
+
+"Hah," Kevan snorted. "Don't push it. That's my brother you're talking about."
+
+"Kevan," Jerric interrupted, deadly serious. "You don't exactly invite confidence with what you just said to Lynus. You've basically admitted to trying to get on our good side so that you can turn us against Caden."
+
+"No," Kevan corrected, frowning. "I admitted to trying to get on your good side so that I'm in a position to convince you we need to take action against Caden if it turns out to really be true. But I'm going in with my eyes open, knowing that I'm a little biased against him, and I'm trying my best to be objective. Because honestly, from where Lynus and I are standing, the rest of you have been too quick to dismiss Caden as a threat. Somebody has to be the dissenting voice so we can have proper discussions and arrive at a well-considered consensus."
+
+Jerric pursed his lips and folded his arms, looking hard at Kevan. After a moment, he nodded reluctantly. "I get where you're coming from. And I can take your anti-Caden view in that spirit if you're genuine about it."
+
+"I am," Kevan answered, lifting his chin a little.
+
+"Regardless," Emilia chimed in, "the sentiments you have towards each other do not detract from the usefulness of having contrarian views in this group. Even if you all hate each others' guts, I believe the robust debate will help us make good decisions."
+
+"Uh... there's got to be some mutual trust and respect for that to happen, Emilia," Devon said, shaking his head at her. "Contrarian views are no good if they end up irreparably splitting the group. We've got to be able to agree on something after all the debate is done. Otherwise, we'd each just be fighting to be the one in the right."
+
+"I think fighting to be the one in the right might itself be one way to resolve the conflicts we have," Emilia said.
+
+"What?" The other three asked in unison.
+
+"You're all assuming our decision-making has to be unanimous," Emilia answered, looking a little taken aback at their unified looks of disbelief. "Did you not consider that in some cases, it may be possible or even necessary for the majority of the anchors to coerce the minority? Support does not have to be freely given."
+
+"... Support is freely given!" Jerric insisted. "That's what support means!"
+
+Emilia shook her head emphatically. "I'm approaching this from an arcanophanic perspective. Consider a gestalt. Your active participation in one certainly allows you to accomplish more as a member of the gestalt, but the larger gestalt can benefit from your presence even if you are merely a passive node that has been co-opted into it. The arcana flows and is amplified by your mere presence in one. Is it that much of a leap to consider that the Prophecy is a sort of gestalt formed by the anchors, with the Chosen One at the apex, and our active support is not always required, or even necessary?"
+
+Jerric stared at her, stunned. Devon's mouth was slightly agape. Kevan looked very troubled.
+
+"So no matter what, Ly and I won't be able to stop everyone else, even if it turns out you all are in the wrong," he said worriedly after a moment of consideration.
+
+"That is my theory, yes," Emilia nodded. "But consider the other side of this coin – if my theory is right, then it is equally possible for you and Lynus to subjugate the rest of the gestalt."
+
+Kevan let out a bark of mirthless laughter. "That sounds crazy, even to me."
+
+She shrugged. "It is a possibility. A real one, I believe, not just some fringe theory. Make of it what you will."
+
+Emilia strode to the middle of the room and gestured imperiously at the rest. "On that note, I believe everyone is best served if we continue the exercise. Return to your mirrors. Once you all can hold your arms aloft with perfect control for five minutes, we will move on to the next step."

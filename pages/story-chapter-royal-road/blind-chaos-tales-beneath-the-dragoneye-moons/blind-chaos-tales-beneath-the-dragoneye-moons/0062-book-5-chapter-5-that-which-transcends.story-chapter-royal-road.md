@@ -1,0 +1,193 @@
+---
+id: df530a62-6e93-5f30-b9a2-ff231d080dbe
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 5 - That Which Transcends…"
+slug: 0062-book-5-chapter-5-that-which-transcends
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 62
+ownLength: 3525
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3193642/book-5-chapter-5-that-which-transcends"
+royalRoadId: "3193642"
+---
+
+Ranthia activated [Divine Seeker] one last time, just to convince herself that she wasn’t about to leave behind even the tiniest fleck of her adamantium. The barrage of its fragments had truly been more effective than she’d expected. Sure, it lacked some of the power she could throw a knife with—and was incompatible with both [Void Edge] and [Echoes of Devastation]—but some of the shards had ended up deep inside the festering carcass. And because of that, it was almost hard to trust her Skills, even when they agreed that she’d retrieved everything.
+
+Also, fretting about that was Ranthia’s way of distracting herself from her other labyrinthian knot of worries. She had spent a mortal lifetime never wanting to be responsible for the life and safety of a dependent—she’d rejected Avyna’s offer to have children for Xaoc’s sake!—yet there she was, Bonded to a rabbit! She’d made her choice through an emotional impulse, and it was hard not to regret that as the emotional intensity of that moment waned.
+
+An injured rabbit, no less. Tangled in Ranthia’s fear—bordering on terror—over her newfound responsibility, her dearth of knowledge, and an increased impulse for fight-or-flight through her Bond, were her worries about Clover’s leg. Her Bond was in pain and had likely become injured while saving her, and the only solution she had was to rush to the City of Arts and hope that someone there had a [Healer] class that worked on animals!
+
+Had Ranthia been on her own, she would have probably jumped off the side of the mountain and trusted [Rhythmic Grace] and her dexterity to let her dance her way down the perilously sheer slope. But even with her burning desire to hurry, she just couldn’t risk any further injury to Clover—the bunny had a fraction of her level! She gingerly hugged the rabbit to the steel segments of her armor with one arm, while she used her remaining limbs to descend the mountain as swiftly as she dared without taking too many risks.
+
+Dawn arrived at some point during her descent, not that Ranthia noticed until after she entered the woodlands that surrounded her destination. Her initial plan had been to cut straight through the woods and take the shortest route to the city, but after she slowly backed away from the largest snake she’d ever seen, she hurriedly sought one of the roads she’d seen from atop the mountain.
+
+“Yes, it was only level 306, but it was big enough that it had to weigh more than every single serpent I’ve seen in Remus combined! And what was up with those lustrous silver scales? Were they seriously metal, or was that just its natural coloration? It only had a Poison element, for Xaoc’s sake!” Ranthia continued her efforts to justify her actions to a rabbit as she travelled the road.
+
+The road itself was… well, honestly it was gorgeous! The road was made from crystal shards tightly packed together—making it the smoothest road Ranthia had ever travelled—to form an elaborate, meandering mural. When she found the road, it was decorated with geometric patterns, but as she travelled it, other scenes revealed themselves. Depictions of musical instruments or [Artisan]’s tools, a stunningly detailed portrait of a beautiful elf that used the tiniest slivers of colorful crystal, and even a full-fledged story of two elven children that grew up to—if she was interpreting the images correctly—found the City of Arts alongside their friends and peers.
+
+But Ranthia’s focus drifted from the (still ongoing; seriously why didn’t it stop once the city was founded?) story as she neared her destination. She hadn’t consciously noted their absence when she saw the city from the mountains, but now that she was closer it was hard to miss the fact that the City of Arts had no protective walls. Well, okay, it had a short wall—that came up to her waist, at most—of seamless crystal, but that was hardly an obstacle to the myriad dangers of the wilds! The absence of a meaningful wall made the two elves that stood guard at the entrance she approached patently absurd—she could effortlessly slip over the wall if she chose to, especially since the elves never bothered to prune back the trees that grew near their city.
+
+“So, what do you think that is?” One of the guards asked the other, not even bothering to try to keep his voice quiet.
+
+“Changeling, no doubt. Looks like it tried to blend an orc and an elf without ever seeing either. Probably just here to gawk under some auspice of trade or another.” The other answered, with unmistakable conviction born of confidence.
+
+“Human, actually, hailing from Remus.” Ranthia called her correction out at a conversational volume.
+
+“It heard us?” The first elf—the taller of the two, with floofy hair that almost obscured his horns—seemed surprised.
+
+“She’s level 766, of course she did.” The second clucked his tongue in annoyance, tucking a stray lock of blond hair behind one of his thin horns.
+
+“Not here to trade either. I’m a seized immortal, and I was advised to come here by Avyna of the Silverleaf Traders—whom I’m hoping to meet here. I was convinced that this was the best place for me to find welcome.” Ranthia continued her explanation as she approached.
+
+At some point it’d stopped feeling weird to hold a casual conversation with people she was a stone’s throw removed from. It wasn’t like they needed to speak up, especially not when the area was so serene.
+
+“I suppose you’re not wrong there, just—” The second elf had started to speak.
+
+But when Ranthia passed beneath some sort of arch made with ornately carved wood she hadn’t paid much attention to, it started to glow (almost blindingly) white.
+
+““Active Void use!”” Both guards shouted—at each other, as if each expected the other to be unaware—as they drew their weapons.
+
+Godsdamnit! Even half a world away from Remus she couldn’t have an easy interaction with guards?!
+
+“[Warrior] tagged!” Ranthia hurriedly called out the quickest explanation she could manage—not that either man paid heed to her words.
+
+“Stay where you are and set the bunny down! Slowly!” The first guard ordered, with no small amount of vitriol. He was wielding a short spear—one of the stupidest weapons ever invented—with the butt held over his shoulder and the shaft right behind its barbed tip resting against the forearm of his ‘free’ arm. Because why wouldn’t someone use a short spear without trying to innovate an even stupider way to wield it.
+
+Also, it was really hard to take any threat seriously when it included the word ‘bunny’.
+
+“Her leg’s injured!” Ranthia protested, fixing the men with a glare.
+
+“Do as he said.” The other guard ordered in a cold tone. His weapons were strange—a pair of curved bladed weapons with no handles, each too large to be a proper dagger. He held them between his thumb and forefinger lightly as he blatantly shifted his stance—a warning that he’d throw them if she continued to fail to comply.
+
+Orders be damned. Ranthia boldly stepped off the path and gently lowered Clover down.
+
+“Just try to keep your weight off the leg, I promise I’ll pick you up again as soon as I can. And hey, I know you ate a while ago, but at least there’s some nice grass here.” Ranthia kept her tone soothing as she set her Bond down as carefully as she could.
+
+Clover ground her teeth a bit as her weight settled onto her injured leg, but she dutifully began to pluck and chew on blades of grass.
+
+“That grass is maintained by the horticultural [Artisans]!” The first guard protested incredulously.
+
+“Oh, come off it, none of them would mind. Keep your focus on the Void user!” The second guard hissed.
+
+It seemed that, no matter the culture, guards categorically attracted the worst sorts of men—those that were eager to find an excuse to wield their authority as a cudgel. It was absurd. Even half a godsdamned world away from Remus, she was still facing two men that would rather wield their authority against her than hear her out!
+
+Ranthia measured the men as she stepped back onto the road. She’d learned just how capable an elf could be from Avyna—her beloved hadn’t even possessed a combat class, yet in many ways she had outclassed what Ranthia was capable of. But even with that in mind, it was hard to be impressed with the pair that were warily watching her.
+
+The man with the ridiculous short spear had [Artisan – Gemstones] level 768, [Laborer – Earth] level 768, and [Warrior – Mantle] level 502 for his classes. His stance was full of bluster, and his footwork was the kind of nonsense that someone came up with themselves when they’d never tried to endure or turn aside a blow.
+
+The shorter elf with the blond hair had [Warrior – Gale] level 768, [Ranger – Mantle] level 372, and [Artisan – Wood] level 768. And Ranthia immediately flagged him as the greater threat—his stance was solid and he was poised to throw each of his unusual weapons along different arcs. He was also adjusting his form as she moved.
+
+“I’m not looking for trouble. I came here in good faith and to seek a [Healer]’s attention for my newly formed Bond.” Ranthia gestured at the rabbit.
+
+“<Bond? At that level difference.>” The first guard dropped his voice and switched to High Elvish—unaware that she was fluent.
+
+“<She said it was new.>” The second replied with a roll of his eyes.
+
+“<We’ll find out. If she moves again, I’m skewering the rabbit.>” The first guard replied with open malice.
+
+Okay, no. Ranthia had spent her entire life being jerked around by men that thought they knew what was best for everyone and there was no way she was going to just let someone on a petty power trip threaten Clover. Starting trouble was a bad idea—on multiple fronts—but Ranthia didn’t have to kill the idiots. She just needed to make a show and draw attention. And Avyna had given her the means to do that.
+
+I am somewhat reluctant to share this with you, my love, but this wisdom is too valuable. I cannot, in good conscience, leave you so unarmed. Listen carefully and do not repeat these words: strike their pride. It is most effective against the younger elves, but if you are in a dire situation, this may serve to force them to reassess their actions.
+
+Avyna had whispered those words in her ear while they were entangled in the shower—her sweet voice twisted by a sour note of fear. …And there Ranthia was, forced to rely on them at the damned gates to the city!
+
+“So, this is the vaunted hospitality of the elves? For centuries the City of Arts has claimed to welcome all that come—elf or otherwise—and yet, just because I have a Void [Warrior] class, you menace me with weaponry, refuse to hear my words, and <threaten my Bond>?!” Ranthia raised her voice for the first time since she laid eyes on either elf—and dipped into High Elvish for the clincher—but that wasn’t all that she did.
+
+If the elves were going to act like drunken tavern brutes, she intended to match their bravado with actual menace. She settled into a combat ready pose—specifically, one borrowed from the few she’d seen Night utilize (briefly)—as layers of adamantium from her bracers broke down and began to trail down her hands to form her knives.
+
+The second elf reacted as she’d hoped. He had the sense to look abashed and lowered his weapons by a fraction, though his eyes were drinking in her (misleading) combat form with open apprehension. He had enough experience and talent to recognize her own prowess and confidence—that was good.
+
+The first elf, on the other hand, reacted as she’d feared.
+
+But be careful with this my love, the wound your words can inflict may be more grievous—and harder to forgive—than you can imagine.
+
+Avyna’s warning manifested in the fury and outrage that overrode the tall man’s better sense. Blinded by indignation, he chose to treat Ranthia’s warning as a challenge. His muscles tensed and bulged as he readied himself for a charge.
+
+I’ll remove the head from his spear first. Ranthia made up her mind, and tried to resolve herself to avoid killing him, even if he went for Clover. At least Night’s pose was suitable for her needs—it was designed to let Night launch himself forward, and from that first step, she could find her rhythm. Neither elf had any cause to know she fought through dance, which she hoped to be enough to keep both men flatfooted until they realized that she wasn’t trying to kill anyone.
+
+The foolhardy elf kicked off the ground.
+
+“And what, exactly, is with all this noise and drama? It’s been a long time since I’ve had my attention drawn through the wards.”
+
+Ranthia narrowly aborted her own reaction as an unfamiliar voice reached her ears. The woman that it belonged to was within the city, and she walked with patient ease—though she took four steps before the elf that was charging at Ranthia finished one.
+
+While she’d been within the city, Ranthia had assumed the woman was elderly—with faded, grey hair and deep wrinkles. In retrospect, that was rather idiotic; elves were immortal, they didn’t get old. The moment she stepped past the crystalline arch that was joined to the city’s walls, her once vague features snapped into clarity.
+
+She wasn’t wrinkled. The woman’s face—and every bit of her exposed skin—was marred with layers of fine lines of scar tissue, as if she’d been repeatedly sliced with methodically applied blades. And her hair wasn’t the faded grey of the elderly; it was a white so pure that Ranthia had no words to describe it. Even the newly fallen snow she had trudged through hadn’t been so perfectly and vividly white.
+
+The woman’s expression was difficult to read beneath her scars, but her body language suggested someone out for a pleasant stroll—utterly relaxed. And though her pace was undeniably unhurried, she reached the charging elf before he concluded his second step.
+
+And then she stopped him cold, with nothing more than a single hand placed on his shoulder.
+
+[Mage – Arcanite] level 3041, [Artisan – Lightning] level 2870, [Artisan – Light] level 2959.
+
+The second elf hurriedly put his blades away as he fell onto his knees, with a poorly masked expression that he no doubt hoped would hide his regret.
+
+The first elf seemed to mostly still be confused about why he wasn’t moving forward any longer. His legs continued to scramble—in utter futility.
+
+Ranthia was desperately trying to make her Skills hurry to dismantle her knives and return them to bracer form—the newest arrival wasn’t hostile, and Ranthia really wanted to keep it that way!
+
+“I seem to be uncertain what has transpired here, would you be willing to fill me in?” The newest arrival seemed to toss the question into the air, but the way her grey eyes focused on Ranthia, it sure felt directed at her.
+
+Oh well, it was probably best to seize the initiative anyway.
+
+“I just arrived—on invitation from Avyna of the Silverleaf trading group—and these two saw fit to greet me with naked hostility because I have a Void-aspected [Warrior] class. I abandoned diplomacy about the time that one threatened to kill the rabbit.” Ranthia explained as she rose from her stance, jerking her head toward Clover.
+
+A better woman might have offered to sweep the incident under the proverbial rug. But Ranthia wasn’t feeling so fucking nice.
+
+“And is that a fair summary?” The horrifically scarred woman (seriously, was there no [Healer] in the city or something?!) asked the guards.
+
+The arrogant idiot had wilted once he finally parsed who had stopped him—honestly, it looked like he was just dangling from her gentle hand on his shoulder—so the kneeling guard hesitantly spoke up.
+
+“Yes, Maestro. She triggered the active Void effects ward, so we reacted accordingly. Abelind took offense to her words and chose an… unfortunate degree of escalation.” The blond elf explained, with naked reverence coloring every word he spoke.
+
+“I see… Can you explain why you were actively using a Void Skill?” The woman turned her attention back to Ranthia.
+
+“Vision Skill.” Ranthia explained as she jerked her thumb toward her blindfold. “I rather not get into the details beyond that, if you don’t mind?”
+
+The woman nodded her agreement, her white hair shifting around her single, spiral-shaped horn. And the next thing that Ranthia knew, the elf that the woman had been restraining stumbled.
+
+And right about the time Ranthia consciously processed that, the woman was standing—much closer—to Ranthia, with Clover held in her arms.
+
+It had been many years—many levels—since Ranthia had last encountered someone that could move so much faster than she could even perceive. That simple act hammered home the danger the seemingly benevolent woman posed far more than [Divine Eyes in the Void]’s assessment ever could.
+
+Had the woman not been cradling Ranthia’s Bond in her arms, Ranthia would have probably stepped away from her. Instead, she gritted her teeth through the impulse and stood her ground.
+
+“Do not worry. This little one was attempting to hop away, and given what we have discussed thus far, I presumed that it was important to you. Well, that and the minor fact that it was obviously hurting itself in its effort to flee.” The elf explained, with what should have been a benevolent smile plastered across her face.
+
+The scars added an unfortunate amount of menace to the otherwise sincere expression.
+
+“It hasn’t been half a day yet since she kicked a monster in the face to help me in a fight.” Ranthia had no idea why she felt obligated to defend her Bond’s honor—or why she felt so hurt that Clover had actually tried to run away.
+
+“It can be confusing for them when a companion bond is first formed. They face a disconnect between their instincts and their own will. Do not lose heart, my friend. Now, I have to make certain: you truly have no Void [Mage] class?” The woman’s benevolent tone never changed as she shifted topics, but something felt far heavier about her question than anything else she had said before that point.
+
+And here I thought we were friends. Ranthia narrowly kept the quip off her tongue—the question was, unfortunately, fair.
+
+“Void [Warrior], Mirror [Mage], and Magic Metal [Priestess].” Ranthia answered—she’d already resigned herself to sharing that much, even before she arrived.
+
+The woman nodded and started to say something—only to pause and try to soothe Clover when the shell-shocked bunny finally began to wiggle and whimper. Sparks danced between her fingers and Clover’s fur as she stroked the bunny’s back. But whatever the sparks were for, they obviously weren’t harming her—after a few moments Clover’s whines ceased.
+
+Instead, the turncoat began to emit a sound that reminded Ranthia of a purring cat! The clicks weren’t quite the same as the rumbling sounds cats made, but the cadence was uncannily similar.
+
+“Well, I do regret this unpleasantness, but now that things are resolved, allow me to be the first to welcome you—both of you—to Ar-Suelle!” The mono-horned elf announced with a grandiose flourish as she stepped beside Ranthia and urged her forward.
+
+Only to stop a few paces later—just short of the arch that served as an entrance to the city. Seriously, there weren’t even any gates!
+
+“Oh, one last bit of business first. Do you have any Aura Skills?” The woman’s grey eyes flicked in Ranthia’s direction.
+
+“No.” Ranthia answered automatically. …Only to wince a heartbeat later. “Actually, yes. Sorry, it’s a somewhat new Skill.”
+
+She drew looks from both the woman and the second guard over the correction. And admittedly her explanation wasn’t entirely honest, but [Priestess of Xaoc] still felt new—and wonderfully so—to her. And it wasn’t like the Skill’s final effect had ever been relevant!
+
+“And what are the effects?” There was an unmistakable note of frost in the woman’s words.
+
+“Nothing important, and it isn’t very high level. It’s just a curse-breaking Aura from my [Priestess] class.” Ranthia answered. Honestly, it was the least important aspect to her most precious Skill, but it was still an Aura—the System even described it as one.
+
+The silence that followed Ranthia’s words was unexpectedly deafening. Then, about the time that the two guards—already returned to their original posts—turned their gaze to the woman, she stepped in front of Ranthia.
+
+Until that moment, Ranthia hadn’t appreciated just how tall the white-haired elf was. And sure, she’d met women that were taller than herself, but she’d never been forced to look up to meet another woman’s gaze before. In that moment, she struggled to do so.
+
+It was hard to do anything beneath the intensity—the sheer weight—of the high-level [Mage]’s gaze. The affable, benevolent woman was gone.
+
+And the powerful elf that loomed over her was anything but well-meaning.

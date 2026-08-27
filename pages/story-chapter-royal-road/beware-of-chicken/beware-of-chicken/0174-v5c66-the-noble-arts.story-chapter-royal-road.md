@@ -1,0 +1,181 @@
+---
+id: 3020d926-7312-5b58-af22-7edbf648b274
+page-type-slug: story-chapter-royal-road
+title: "v5c66: The Noble Arts"
+slug: 0174-v5c66-the-noble-arts
+partOf: beware-of-chicken
+position: 174
+ownLength: 2333
+unit: words
+ownProgress: 2333
+publishedAt: 2024-11-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1913638/v5c66-the-noble-arts"
+royalRoadId: "1913638"
+markedReadAt: "2026-06-29T18:57:16.877Z"
+---
+
+Xiao Su Ge, granddaughter of Elder Xiao Ge, stood upon her flying sword with her hands behind her back. While her exterior was refined as a Disciple of the Cloudy Sword Sect should be, inside was a different story. It was taking all her effort to keep the smile off her face.
+
+It was finally time. She was finally upon an adventure, a real adventure, like all the stories her beloved grandfather had told her about his own youth.
+
+She was finally, truly, going to be able to let loose—properly of course. A disciple of the Cloudy Sword Sect was a master of themselves, was the mantra that stopped her from accelerating and getting out of formation. Self-mastery and self-control were one’s highest calling.
+
+In her youth, Su Ge had been an undisciplined barbarian, a violent, brash thing driven by base instincts. It had taken many hours of personal instruction from her grandfather to set Su Ge on the correct path. Her grandfather’s instruction had forged her into a blade, rather than a raging inferno that destroyed everything in its path.
+
+It had been something she had appreciated long before she learned of the rot within the Sect—his firm hand had stopped her from being a cretin like Chen Li, a worthless, honourless worm.
+
+She was Xiao Su Ge—a righteous blade of the Cloudy Sword Sect.
+
+However… there always seemed to be something that came up that made her stay in the Sect, like her grandfather asking her to catalog the vaults or a new cultivation resource he sent back that would require closed door cultivation to properly study and process. The few times she had left… nothing much exciting had happened. There were the occasional Spirit Beast culls and the tournaments that she had won, but it was all so regimented, so lacking in passion it was boring.
+
+The last time when the Demonic Legions had attacked Su Ge had been in closed door cultivation and had only found out about the war from returning disciples. She had missed her chance!
+
+She had been quite upset, and only her grandfather introducing her to her intended had… managed to break the pall of disappointment.
+
+So handsome. So refined. So passionate! Especially when he started talking about that mail service! A true intellectual her intended was, a man who had mastered himself, yet retained his fire.
+
+And now she was on her way to see him! Her grandfather had asked her to lead a Cloud of their best and brightest, and Su Ge had been swift to make her decisions. Most were Core Disciples—but Su Ge had also added some of the more experienced Inner Disciples as well, the ones who had been with her grandfather inside the Demon Gate. Chief among them was Yeo Na, who, despite not being fully recovered, was ready for combat—the new demonic siphoning formation having shaved years off the demonic filth within her system.
+
+She was more useful for her mind rather than her combat abilities anyway, but neither was she helpless.
+
+The others? The others were all able to use the Raging Cloudy Sword Formation within minutes. Working together, they could deploy it within seconds. If…. when there was battle, the Cloudy Sword Sect would be utterly victorious.
+
+Su Ge refocused herself, concentrating once more. The Cloudy Sword Sect’s blades were in escort formation around the Windward Blade. Not that the ship needed them, for Tianzhe Minyan was seated upon the deck, along with the Imperial Herald, but it did show that they were currently allied.
+
+They sped through the early dawn in the direction Shen Yu had given them—and soon enough they felt a familiar flare of Qi. Her grandfather raised his hand and their swords descended from the sky, while with a single flex of Tianzhe Minyan’s power the ship slowed and stopped.
+
+The woman stepped from her ship without a care, easily walking on the air as if it were solid ground, while Lanlong Bailu and Wakokukin Seiyu, the Soaring Heaven’s Isle Sect’s Storm Wings, flanked her. The Imperial Herald moved to watch, but did not disembark.
+
+They descended to the base earth, where a wonderfully handsome man waited for them. Lu Ri was already on one knee, his hands clasped in the gesture of respect. He was pristine, not a hair out of place and not a drop of blood upon him—yet Su Ge could see the burn marks from funeral pyres nearby, and judging from the size, Lu Ri had crushed a great deal of their enemies.
+
+However, Lu Ri was not there alone. There was another on one knee. A woman, with wild blonde hair pulled into a rough ponytail that was bushy like some wild beast’s fur. Her eyes were locked into a narrow squint, and her features were sharp and angular, a wild beauty, compounded by the fox ears that sat twitching on her head. Su Ge’s eyes locked onto the woman before she shoved away the sudden hostility she felt.
+
+It was no way for a proper woman to act.
+
+“Senior Disciple Lu Ri greets Elder Ge, Elder Shou, Elder Yukong, and Lady Minyan,” her intended intoned. Su Ge saw the approving smile on her grandfather’s face.
+
+“Your meritorious deeds precede you, Senior Disciple Lu Ri. Rise to your feet—and introduce us to the one who is next to you,” her grandfather said, his eyes fixed on the wild-looking woman.
+
+“The one next to this disciple is Su Yuanlin. Without her skill at hunting and tracking, we would have not found the bases of our enemy. She should share equal praise and merit,” Lu Ri replied, and Yuanlin dipped her head in a further bow.
+
+“Su Yuanlin, you have aided the Cloudy Sword Sect. We are indebted to you,” her grandfather said, but the woman shook her head.
+
+“Lu Ri wielded his blade in the defence of this one’s kin—no debt exists between us,” Her voice was husky and rough… and her words were honest.
+
+“It seems that virtue attracts virtue,” her grandfather mused. “Yet you still have assisted us. I shall prepare something suitable. Now, I believe there is a formation here?”
+
+The woman bowed, looking shocked, while Lu Ri held out a hand.
+
+“This way please. The base is yours, Honoured Elders.”
+
+Su Ge sharpened her attention once more as Lu Ri led them into the base and towards the formation, and indeed, as stated in Lord Shen Yu’s report, it was utterly pristine. No damage to the walls, nothing out of place. It was a textbook display of skill, and a complete unveiling of the Enemy. Even Lady Minyan looked approving.
+
+“You answered the transmission? Bold, very bold,” Elder Shou praised, an amused quirk to his lips. In his hand he held reams of paper, switching them out constantly as Elder Yukong worked and wrote, her attention fully fixed on the formation before her.
+
+“Take note of his actions, Disciples. Lu Ri walks on the Path of the Founders,” her grandfather declared. “Bold, decisive action can accomplish much if applied correctly.”
+
+“Indeed,” Shou said, giving a firm nod. Lu Ri bowed humbly at the praise, his cheeks tinted red.
+
+The look was rather fetching.
+
+“You did well to not attempt to analyse this either, Disciple,” Elder Yukong finally spoke, her eyes flickering all over the formation. “Its protections are subtle, but masterfully crafted. If you had done something wrong it would have been worthless to us. Additionally, if they had managed to lock it down, it would be similarly inoperable. Now, however…” With a twitch of her fingers the formation suddenly expanded, hundreds of characters and diagrams appearing in the air. “I will need three days to complete a full analysis and begin the tracking artifact.”
+
+“The Experts of the Cloudy Sword Sect certainly live up to their reputation,” Lady Minyan mused.
+
+Elder Shou smirked. “Indeed, my wife’s skills are superlative.”
+
+“I shall leave it to you then, Yukong of the Subtle Scripture, Shou of the Hidden Forest. Bailu, Seiyu, begin patrols,” Lady Minyan commanded.
+
+“Disciples, you are dismissed. Remain on standby for orders,” Su Ge’s grandfather declared. “And Su Ge… attend to our weary warrior.”
+
+He clapped Lu Ri on the shoulder.
+
+Su Ge perked up. The rest of the disciples dispersed, and Su Ge marched forwards.
+
+“Lady Su Ge,” Lu Ri said, inclining his head. He was still wearing a small, reserved smile.
+
+“Disciple Lu Ri. It is good to see you well,” she began. “Please, allow me to brew you some tea.”
+
+To her delight, he accepted—and Su Ge got out all the accoutrements out of her storage ring. It wasn’t much, just two cushions and a tea set. She left the last thing in for now—the set of clothes that she was sure he would enjoy.
+
+However, just when she finished getting everything out… there was an interruption. Or rather. two interruptions.
+
+“Junior Brother, you’ve done very well,” Yeo Na said, standing beside the blonde woman, Yuanlin.
+
+“Ah, Senior Sister, Miss Yuanlin, please join us,” Lu Ri politely offered.
+
+Su Ge’s placid expression became strained.
+
+====================================
+
+Fa Bi De watched as the last of the demonic bodies were consumed by a combination of his own lunar Qi and Yin’s solar Qi, burning away into nothingness under the midday sun.
+
+The taint was not yet gone, still in the ground and in the air of the forests… but the most disgusting and most visible reminder of the attack, the corpses, were gone from Fa Ram.
+
+“That's enough work for today, everyone,” his Master declared. The man’s voice was still weary, but he sounded… lighter now. He had returned early in the morning with good news, and now it sounded less like the world was pressing on him. “Thank you all for your hard work.”
+
+Though he supposed it would be. The battle was out of their hands now, and into the hands of those who were well-equipped to handle it.
+
+A great sigh of relief was emitted by every member of Fa Ram. The papers with the graphs and times were carefully stored away.
+
+“And that reminds me,” his Great Master continued. “You guys haven't gotten the full tour yet!”
+
+Bi De perked up, along with Ri Zu and Yun Ren. They had indeed seen many of the changes… but other than the explanation about how the new porcelain “toilet bowls” worked, they hadn’t heard about everything yet.
+
+So it was with great joy that Bi De and his companions, including Shao Heng, Han, and Yushang, ventured out into the snow. Things were even relaxed enough that Bi De’s Junior Brother Zhuye was allowed into the fresh air—and Bi De was given the honour of holding him.
+
+Zhuye, a good, poetic name—and a most amusing one, for it caused Tigu to mutter under her breath about ‘Kai’.
+
+When Bi De had first arrived… all he had been able to see was the devastation and the hurt of his home. It had seemed lesser for it.
+
+But now? Now, he could see it. The love and care that had been put into Fa Ram, to make it better than it had been.
+
+He finally got to truly see the enlarged greenhouse and felt tranquility seep into his soul, the heat of summer mixing with the artificial stream into something truly beautiful.
+
+He toured the expanded house, as well as the guest houses ready to welcome people into their warm embrace.
+
+He saw the full warehouses and packed cold pantry. He saw Bowu’s expanded and remodeled drop-hammer, as well as Miantiao’s glassworks.
+
+Even the toilets had their tale—as Wa Shi was put into the bowl of an unfinished one in the forge and unceremoniously flushed into the river.
+
+“It's actually kind of fun,” the dragon confessed, and Bi De couldn’t help but laugh.
+
+Bi De felt the little ball of tension within his own chest start to fade. Even after all they had been through… his home was still beautiful.
+
+“You worked hard, Master,” Bi De said. The man smiled.
+
+“We all worked hard,” he replied. “Welcome Home, Bi De.”
+
+For a moment he just sat with his Master and his little brother. Zhuye was asleep on his back. The silence was beautifully comfortable.
+
+“What do you say? You feeling like a little Ha Qi?” his Master asked after a moment. “Now that you’re big enough for skates and a proper stick?”
+
+Bi De’s eyes widened. Out of everything he had used his new form thus far for, being able to truly challenge his Master at Ha Qi was most surely its greatest function.
+
+“Of course!” he declared.
+
+The nets were brought out, as well as the sticks and the skates. Teams were formed—and they now had enough people for multiple games along the river.
+
+Yushang and Shao Heng took to it instantly—while Bi De challenged his Master’s might.
+
+It proved to be foolish, for his Lord was beyond all other men in the art of Ha Qi, but as his Great Master pulled Bi De out of the snowbank, a bright smile on his face… it truly was a good day.
+
+“Oh? Now this looks interesting,” Shen Yu said as he watched. “Grandson, let me try!”
+
+The Old Monster was not the only one.
+
+They had an audience watching from the fortress, the Shrouded Mountain Sect disciples looking on—Shenhe especially appeared considering. Her eyes were focused on Yushang as she clashed with Xiulan.
+
+His Great Master had a thoughtful expression on his face, before he took a deep breath and whistled. Elder Shenhe’s head snapped to him… and his Great Master beckoned her over.
+
+“If they’re not our enemies… might as well try and make them our friends,” his Master muttered under his breath. “Do you want to learn?” his Master asked the Elder.
+
+“What is this?” Zang Shenhe asked after coming over.
+
+“The ancient and noble art of Ha Qi,” his Great Master replied with a smile.
+
+=========================
+
+========================
+
+Editors: Massgamer, BargleNawdleZouss

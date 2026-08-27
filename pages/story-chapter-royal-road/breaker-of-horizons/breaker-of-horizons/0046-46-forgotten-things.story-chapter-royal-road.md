@@ -1,0 +1,105 @@
+---
+id: c22b050f-39a1-57e7-a5fe-47ff178326ae
+page-type-slug: story-chapter-royal-road
+title: "46. Forgotten Things"
+slug: 0046-46-forgotten-things
+partOf: breaker-of-horizons
+position: 46
+ownLength: 2409
+unit: words
+publishedAt: 2020-10-08
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/566234/46-forgotten-things"
+royalRoadId: "566234"
+---
+
+The Aiestan Empire has endured where lesser civilisations have fallen to the ravages of time, and it was the influence of the Fateweavers and the power of prophecy that had allowed it to become the prime power in the world. What do you do after you've firmly set yourself against the very system that has given rise to an empire that has lasted for over four millennia?
+
+Apparently, not very much in the immediate moments following the dramatic pronouncement. The four of us stayed up a little longer, soaking in the sense of newness, of revolution, in the air. There was an undercurrent of excitement and fear, but also a warming note of comfort in knowing that we were, all of us, in this together. And once the tiredness of our bodies caught up with us we went to sleep as ordinary youths, though now burdened with grand dreams.
+
+But in the weeks that followed, there was a lot of research. Knowledge is power, but it is also the key to more power. Armed with our knowledge of the Prophecy and specific terms of reference — like the glyph of prophetic links and the name 'augera' — we began sifting through the body of information available to us in the Academy, discretely making inquiries with seniors and lecturers, and trawling the library.
+
+The library was in the same building as some of the tutorial rooms, but it dominated a whole section of the structure, extending the full five storeys above ground, and also dipping into a four-storey basement that served as the repository for more sensitive texts. We had free access to everything in what was called the Upper Library, so we began our search there, combing through neat shelves that ran from floor to ceiling, crammed full of books. The bright and airy design of the space made it quite a pleasure to walk between the shelves, soaking in the aura of quiet contemplation and studious industry.
+
+Jerric and I worked together to divide the work and identify what areas we should spend our time on before the four of us methodically went through the titles and contents' pages of the books there, setting them aside for a closer look only if a chapter looked promising.
+
+Then, together, we'd claim one of the tables in the study area, our books and tomes spilling across the available space, forming tiny piles on the surfaces around us, even the floor. Ignoring the funny looks we got from the seniors, we skimmed those selected books, ensuring that at least two people had reviewed a text to confirm there was nothing relevant before we returned it. It was slow work, but the benefit was that we were learning a lot about arcanophany's general principles just by doing this, even if it wasn't our primary aim.
+
+As the Demiurge had once casually mentioned to me way back when I had spoken to him about the friend-in-the-arcana, the augera seemed to be missing from arcanophanic texts. In the spirit of being thorough, we worked our way through the modern books discussing advanced principles of arcanophany first, then went back to older texts, as far back as we could find. When the phrasing and vocabulary became too archaic, we muddled along with grammars and dictionaries, trying to parse the ancient tongue. The further back we went, the more tantalising hints came up, but there were no proper definitions or descriptions. It seemed we would need to dig even deeper into the past.
+
+This was borne out by what the augera in the Spire had shared with me — that the term 'augera' itself was an ancient name that mortals had coined. And since it wasn't even a word we recognised in the modern tongue, it stood to reason that any texts dealing with it would have to be from the distant past.
+
+But to access those texts, we needed to get into the Lower Library, which was typically only used by third-year arcanists and up. They were given access rights automatically, while those in their first two years had to be given special dispensation.
+
+Paval, a stout sage (arcanists whose vocation was the study of arcana itself, and whose duties included the upkeep of such libraries and collections of texts) who looked to be just past his fifties, with greying black hair, was one of our most reliable enablers. Jerric had been the first person to make contact when he inquired about ancient texts on arcanophany, and the sage had been delighted to find students who were interested in studying those references when the majority of arcanists were more partial to modern translations that were much easier to read. After a short test on arcanophanic principles, we were deemed competent enough to responsibly use the Lower Library and were permitted to enter as long as a sage was on hand to supervise our studies.
+
+The atmosphere in the Lower Library was thick with a kind of reverence, the silence somehow even more pronounced. While the decor remained the same, there was definitely a sense of greater danger here; something hinted at in the way some shelves had been warded and required a sage's permission to access.
+
+For the most part, the sages were content to grant us access to the books as long as we remained within their line of sight. They'd withdraw the materials for us and then quietly go about their own business as we once again claimed a space for ourselves in one of the study areas available. Paval was the most involved, occasionally making helpful suggestions about lines of inquiry we might pursue once we trusted him enough to explain that we were looking for anything that discussed a "presence" in arcana.
+
+But eventually, we hit a wall, even in the Lower Library. While there were indeed truly ancient writings for us to peruse, the texts went so far back that their original copies were nigh unreadable bits of flaking parchment, carefully preserved between glass, and we were left with old transcriptions that had been painstakingly made, but which were themselves succumbing to the ravages of time even with the employment of arcanophanic techniques meant to preserve them. It was a challenge to discern the words on these ancient texts, but we were also increasingly stymied by the fact that some of these texts weren't even written in our language. And the sages had no resources to offer for us to even attempt to decode those texts.
+
+"Long-lost knowledge," Paval lamented as he shook his head sadly, closing up one of those indecipherable books after we had returned it to him. "All we can do now is faithfully but uncomprehendingly copy them to preserve what is written, hoping for the day when we may unearth some ancient tome that will let us begin the work of translation."
+
+"Is that an active area of study?" Jerric asked.
+
+"Not in a long while. Perhaps if you find your calling in the sage vocation, you might make it your focus," Paval answered, smiling. "Most modern sages delve into the study of new applications of arcanophany. Few are interested in unearthing the secrets of the past."
+
+"I'd have thought that the Academy would have preserved ancient knowledge more carefully, instead of allowing it to be lost," Ambrose chipped in.
+
+"Well, the Aiestan Academy is old, but it doesn't go back to the founding of the Empire. It's been faithfully preserving what it could since its inception. Alas, then, as now, attempting to preserve everything is rather a losing proposition. There's always something out there worth preserving that you may not be able to get your hands on, or that you don't even know about."
+
+"Are there archaeological sites that are of particular interest, then, when it comes to looking for lost, ancient knowledge?" Jerric extracted his notebook from under a pile of texts, ready to take down anything that may be of use.
+
+"Well, funnily enough, Geldor's a prime location," Paval said. "The capital is even older than the Empire. But nobody's had any luck trying to get the permission to dig there. Short of the Empress herself expressing an interest, I don't think anything's going to stop landowners from tying up requests in red tape. Sometimes when foundations are laid or replaced for new buildings, we might get lucky. A few things have come up that way."
+
+The sage excused himself for a moment, then came back with a thick atlas. "Of course, there are numerous other places that are of archaeological interest when it comes to unearthing ancient arcanophany. The top of the list would be any place there's been a Spire because prior to the founding of the Academy, each Spire was a mini-academy of sorts and maintained their own libraries and workshops for the training of arcanists in apprenticeships." He flipped through the atlas and stopped at a map of the early Empire, dated to about two thousand years ago, pointing out several features. "See, our borders have expanded since then, and generally the Empire has had a preference for placing a Spires at borders. So some of these old Spires were abandoned. Some have been excavated, but there are still lost ones because it's not really something that has been covered comprehensively."
+
+"Wouldn't abandoned Spires have nothing of value in them? I mean, I can't imagine the Empire just leaving a tower full of arcanophanic artefacts or books lying around for any wanderer to claim," Ambrose pointed out.
+
+"Ah, that's because you don't know what happens when a Spire's abandoned. They amplify arcanophanic power and allow sequences to be formed over huge distances, and there are fiendishly complex sequences involved in their maintenance. So you can imagine what happens if they fall into disrepair. The Spires are sealed up and over time, without maintenance, they become centres of wild arcana. Sometimes entire villages or even small towns in the area have had to be evacuated. It takes years for the arcana to settle, and people tend to avoid those places even after the arcana has stabilised. That's why Spires are generally built away from settlements, as far as possible. But people in the past were less fastidious about these things, and settlements sprang up near existing Spires. We've got a better handle on that in modern times, of course."
+
+He flipped through a few more pages, showing various maps with Spires marked out on them, and how many of these Spires eventually vanished in later maps.
+
+"It's quite dangerous," he continued, "but sometimes opportunistic scavengers have managed to circumvent both wards and wild arcana and picked some abandoned Spires clean. Other Spires may have been properly emptied prior to their abandonment, but it's not always the case. No matter what, though, they're all worthwhile sites for archaeological study."
+
+Jerric was frowning. "Why would the Empire ever abandon a Spire? It seems like a complete waste."
+
+"There are underlying arcanophanic principles that make it necessary. You've learnt how some artefacts function particularly well if their glyph sequences conform to certain geometries, yes?"
+
+We all nodded. My father had recently covered that in his Basics of Artificing lecture, though I had learned it even earlier when he had spoken to me about his orbs.
+
+"Well, Spires connect in a network across the Empire in a similar way. When the borders expand, sometimes it necessitates a shift of a Spire's location. And, as with many things in civilisation, we are all subject to the demands of available manpower. Apparently, in ancient times, a fully-staffed Spire would require something like fifty to a hundred arcanists. We've become a lot more efficient since then, thankfully!"
+
+While this was all very interesting, it wasn't much use to us at the moment. We could hardly leave the Academy and go on expeditions to poke around the ancient bones of abandoned Spires. And after what I had learned about the augera, and how each Spire acted as a prison to one, I wasn't sure if I wanted to do that even if the opportunity did present itself. I wasn't sure if Paval's explanation of wild arcana was what he sincerely believed or knew, but it was easy to imagine the augera within a Spire going wild and destroying everything around it if its prison was ever compromised. I did not want to venture anywhere near that kind of unchained power.
+
+"What now?" Devon asked, once we had thanked Paval for all his help and left the library. "Almost a month and a half, and nothing to show for it."
+
+"Not nothing. We've applied lots of the theory we picked up to our Double Thau," Ambrose pointed out.
+
+"I know, but nothing on the augera, or even prophetic links," Devon sighed. "How are we going to figure out our next steps?"
+
+The tip of the Spire glinted slightly in the noonday sun.
+
+"I don't want to, but I think we've got to ask it directly," I said, my heart sinking a little as I looked up at it.
+
+"Are you sure?" Jerric asked, looking worried. I had explained to them the great gulf of incomprehension between us and the augera, and how my contact with the augera in the Spire had brought me dangerously close to being overwhelmed by the sheer weight of its thoughts.
+
+"No, not really. But what choice do we have?"
+
+"Hah," Ambrose grinned. "You're the free one, Caden. You have plenty of choices."
+
+I rolled my eyes. "Yeah? Well, I'm going to choose to eat lunch now. I'm starving. What's on the menu, Dev?"
+
+"Wait," Devon gasped, stopping in his tracks, his eyes wide. "Wait! Isn't today..."
+
+Jerric's eyebrows rose in comprehension and he turned to Ambrose, who stared back blankly. "What?"
+
+"Emilia," I blurted, finally realising. "We were supposed to have lunch together today. But after you duelled her. An hour ago."
+
+"You stood her up," Devon whispered.
+
+"You guys didn't remind me!" Ambrose returned, looking at each of us accusingly. "We all got so carried away with Paval!"
+
+"Do you think she's still there?" I asked, turning to look at the duelling compound and feeling rather bad about forgetting her, especially since we had invited her to have lunch together with us.
+
+Ambrose didn't wait for a reply. He set off immediately, looking very flustered, and the three of us followed after, hardly daring to imagine what an angry Emilia might look like.

@@ -1,0 +1,131 @@
+---
+id: 34c4e9d9-e82b-5341-aaf5-5d5ec1d288ee
+page-type-slug: story-chapter-royal-road
+title: "v4c44: A Pickled Prank"
+slug: 0057-v4c44-a-pickled-prank
+partOf: beware-of-chicken
+position: 57
+ownLength: 2283
+unit: words
+ownProgress: 2283
+publishedAt: 2023-09-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1354736/v4c44-a-pickled-prank"
+royalRoadId: "1354736"
+markedReadAt: "2026-06-29T18:53:20.270Z"
+---
+
+Sometimes the days passed so slowly that they felt glacial. Other times they seem to go so fast they start to bleed into each other. The summer had mostly passed simultaneously too slowly and too quickly for my liking. Too quickly, because there was too much to do. But too slowly, because most of my friends weren’t here.
+
+I took a deep breath, looking down from the top of one of the back hills on my property. I was carrying a bunch of freshly harvested potatoes on my back, and had decided to take a short break, as I often did, to look out over my home. My eyes were fixed on the tops of the trees and at the slight discolouration that was starting to set in on a couple of leaves.
+
+It wasn’t just the colouration that I could see. I could feel it. I could feel the way the trees were speaking with the land, the way they were adjusting their branches and water intake, even as the evergreens marched on resolutely, unheeding of what was to come.
+
+It was humbling to know the land so intimately. To truly feel it. To know it.
+
+‘Thanks, Tianlan,’ I mentally sent to the Earth Spirit.
+
+‘You don’t need to thank me for everything,’ she replied, but I also got a mental image of her blushing. I chuckled in response.
+
+I took another breath. There was still at least a month left of summer, but the cycle of the seasons spiraled on.
+
+It had been nearly half a year since my friends had left home. Big D, Rizzo, Yun Ren, and Gramps off to the Howling Fang Mountains. Xiulan, Tigu’er, Xianghua, Yin, Huo Ten, the Torrent Rider headed to the Grass Sea.
+
+Things had definitely changed. We visited Hong Yaowu; we hosted some of Hu Li’s family, the Nezin tribe, and had them stay the night after they came too far south hunting an elk.
+
+We occasionally had Lu Ri over, but the man spent most of his time in Verdant Hill working with the Lord Magistrate on the whole mail thing. It was a crapload of work and planning, and I occasionally chipped in when I could, so I could  actually get letters in a timely manner from Tigu. I had to learn about what happened in Grass Sea City from the Lord Magistrate.
+
+I had been so proud of Tigu when I found out that she had helped bust a slavery ring of all things.
+
+My little girl was so cool!
+
+Until then, we continued our work. Farming, making medicine, and training. Gou and I even did some light sparring, though it was more like wrestling with a friend, but with cultivation…. Meaning that somebody occasionally got chucked entirely too far.
+
+In some ways, it had been a long time. In others, it was barely an eyeblink. I thought about them nearly every day. I missed them, but it would have been a bigger disservice to them all, and others now, to have told them to stay.
+
+So instead of wishing they were here… I just imagined their faces and how they would feel when they got home. I couldn’t wait for them to see all of what we had accomplished. What we continued to accomplish.
+
+I turned my eyes from the trees to the fields that now stretched out all across the land. They stretched in strips from the river, full of differing shades of green. The short stone divider walls I had erected between some of the fields were already laden with climbing berry vines, their heavy bounty a riot of colours.
+
+Again this year we had expanded the size and variety of the farm’s operations. I was glad for Peppa’s tireless work, because it was quickly becoming a significant effort to keep track of and store everything. There was no real super market… okay, we could get some things from Verdant Hill, but right now we had the most variety out of any farm in all the north—or probably the Azure Hills as a whole. Maybe even within this half of the Empire.
+
+We had cabbage, garlic, potatoes, carrots, onions, radishes, turnips, corn, peppers, tomatoes, ginger, peas, peppercorns, wheat, rice, mustard, pumpkins, squash, bitter melons… the list went on, to say nothing of the various flavouring herbs, the sunflowers, and the myriad of medical plants Meimei had growing. We even had aquaculture going on, as Washy tended to lotus roots and his different types of reeds and pond weed.
+
+Quite frankly I could never have done it alone… and I hadn’t.
+
+I took one last breath and started down the hill to the storehouse. Or the bigger storehouse. Huo Ten had said we could use the warren he had dug into the side of the hill for whatever we wanted… So it became underground storage number two. The one closer to the house was basically our fridge, while this one was meant for long term storage of roots and seeds. The walls had been encased in Qi-reinforced concrete and stone, which meant no little gribblies could get in.
+
+I opened the door and entered, then picked up the ledger that was hanging on the wall. Peppa’s neat, elegant writing greeted me, and I checked which area on the map to put this load. I was lucky to have her. Organization had never really been my strong suit as Meimei always told me, but the ever patient Peppa was always there, a ledger dangling off her neck and a brush in her mouth, turning my barely organised chaos into something significantly better.
+
+I would have to do some recalculating next year, I mused to myself as I walked past the massive amounts of storage. We actually had to give away or sell over two thirds of the fresh produce—I had even started going to the Verdant Hill market every two weeks and setting up a stall. I was shooting way below market value, but if it was going to spoil, I’d rather have somebody eat it. Even so, some of it still went onto the compost heaps… and it wasn’t even the harvest yet.
+
+I couldn’t exactly call it ‘the harvest’ anymore since we’ve been harvesting a bit throughout the year. Already we had a full harvest of potatoes, white radishes, carrots, onions, and cabbage, and more almost grown in the ground. We could probably subsist off everything we had right now for the better part of a decade.
+
+It was humbling to see how far we’d come in such a short amount of time.
+
+I put my potatoes in their proper place, in the racks I had made.They were ready to either be eaten or planted next year. Satisfied my job was done, I rose, stretched, then grinned. I also had two projects down here that I was pretty certain were done. I couldn’t wait to show them to my wife.
+
+Even though she might be just slightly upset at me for what I was making.
+
+I went and collected them before starting back to the house, just basking in the atmosphere.
+
+My farm was not a quiet place. Legions of bees buzzed across the sky. Thousands of songbirds shouted their little hearts out. Frogs sung from the forests and the rivers, while river fish leapt from the water to catch any tasty morsel that flew too low. And yet there were man made sounds as well. The pound of the drop-hammer punctuated bird song, more like it was a part of the noise than something unnatural. The cows mooed, and the sheep bleated happily as they followed behind Babe, who was taking a break from cutting today. Smoke came out of the forge, but the smoke stack I had added made sure none of the smell reached us.
+
+Some of my home was tamed and manicured. The rest of it was wonderfully wild. I couldn’t wait for Zhuye to be old enough to start running around. Hells, I ran around myself when I was bored. Or rather, we all did. Trooping through the forest with Meimei, Gou Ren, Chunky, Peppa, Washy, and Noodle, my son on my back, was a fantastic way to spend a day.
+
+I paused as I neared the greenhouse, and the pots of Lowly Spiritual Herbs and other Spirit Herbs surrounding it. They, and others in different places around my home, were other new additions. Out of everything, they were what I was most unsure about. Lu Ri’s other ‘gift’.
+
+Spirit Herbs from the Cloudy Sword Sect. Lots of Spirit Herbs from the Cloudy Sword Sect. Over fifty types—seeds and cuttings ready for me to grow. Lu Ri had assured me that all of these were gifts…. But he also said that if I was willing to sell any of the herbs to the sect they would be most grateful.
+
+I spent a couple days thinking it over… before I expanded some of my seasoning operations. I had made my peace with the sect. If they wanted some of my seasonings, it was a small price to pay.
+
+I couldn’t grow some of them—they actually needed the altitude of a mountain to develop properly. But the rest of them? It was a fairly fun project, getting all the soil and conditions right. Most of them were fairly simple with one or two quirks and could be left in their pots. Others had much stranger growing conditions.
+
+Snow-Phoenix Vine got put in our ‘fridge’ on a bare rock, and once every day or so I went down to fan it, mimicking the freezing winds it was normally blasted with. The vine was the key component in an elixir that could completely reverse the effects of Qi-fire on burnt flesh, something that even our Spirit Herbs couldn’t do.
+
+Volcano Ginseng was growing in the ashes of our fireplace, and was occasionally lit on fire as well. The Spirit Herb was used in forging, of all things, as a catalyst for certain rare metals.
+
+Six of the plants, including the the rarest thing I had gotten, the Silver Yin Lotus… were in my bathhouse. Nobody had actually succeeded in growing a Silver Yin Lotus, and I could tell why. The bastard was a finicky thing as a seed. It needed pure Yin Qi and to be just ever so slightly submerged in warm water.
+
+It made a single drop of dew that would balance a cultivator’s internal energy, thus increasing their cultivation speed.
+
+All of these and more. True treasures, a bounty of cultivation resources.
+
+I was just looking forward to seeing what they tasted like.
+
+I reached home, carrying my experimental jar, and walked right in the open door. Meimei was sunning herself while mending one of Gou Ren’s shirts, using Chunky as a backrest. Gou Ren was laying beside her, holding Zhuye over his head and making funny faces at him. He received some giggling at the silly expressions.
+
+I was surprised Gou was brave enough to risk it. He had seen Little D throw up directly onto my face when I had last done that. That was definitely an… experience.
+
+“I got an experiment done, if anybody wants to try!” I called out, and they perked up as I put the sealed jar onto the table. Washy practically threw himself down the new slide that connected the dining room to the river room, landing with a splash in his pot, a gleam in his eye.
+
+“What is it this time?” Meimei asked as she and Gou Ren sat at the table with us. Gou was still carrying Zhuye.
+
+“Two kinds of pickles” I replied, and my wife’s eyes lit up happily along with Washy and Chunky.
+
+Now, Meimei normally loved pickles, especially the ones brined in the Hong Family’s secret recipe. It was also something she had brought from home—the brine itself was apparently over a hundred years old, the stock refreshed every generation of Hongs. It had a special place in the kitchen, the coolest and darkest cupboard, and everybody snacked on them. They were delicious with a mild flavour and odor.
+
+I smiled and opened the jars of kimchi and sauerkraut.
+
+I had made my own shrimp paste from the crawdads, and the dried peppers from the caravan had allowed me to create the kimchi. The sauerkraut, on the other hand, was a lot simpler, just salt, water, and cabbage.
+
+They also stank to high fucking heaven.
+
+Meimei looked absolutely disgusted… as did Zhuye. My little man didn’t like the smell either, and he was making the exact same face as his mother, their scrunched up noses making their freckles wrinkle cutely as they both pulled their necks back, giving them double chins.
+
+My recording crystal chimed, immortalizing the twin looks of absolute disgust. Gou Ren started laughing.
+
+“Jin,” my wife said, her voice absolutely calm.
+
+“Yes love?” I asked.
+
+“I’m going to take revenge on you at some point in the future, you know this, right?” she questioned as a vindictive smile spread across her face and a vein bulged in her forehead.
+
+“My dear, I shall suffer whatever you inflict upon me gladly,” I replied while inwardly I was sweating a little.
+
+I was actually able to feel the last batch of itching powder she had made.
+
+She did end up trying them, though. To our surprise, she actually liked them both. Hopefully that would stave off the vengeance for a bit.
+
+It was nice to have things go so slowly and so smoothly… but things would probably be hectic soon.
+
+Especially as the day after tomorrow we would be doing an exhibition in Verdant Hill for Bowu’s machines.

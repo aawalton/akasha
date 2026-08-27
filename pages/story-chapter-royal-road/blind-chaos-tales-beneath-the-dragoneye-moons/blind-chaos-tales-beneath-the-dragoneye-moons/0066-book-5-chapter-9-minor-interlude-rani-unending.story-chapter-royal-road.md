@@ -1,0 +1,137 @@
+---
+id: d1068b59-badb-59f7-84e2-211974829172
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 9 - Minor Interlude – Rani – Unending Pursuit"
+slug: 0066-book-5-chapter-9-minor-interlude-rani-unending
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 66
+ownLength: 2991
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3249372/book-5-chapter-9-minor-interlude-rani-unending"
+royalRoadId: "3249372"
+---
+
+Hyrria Rani Pyrae hadn’t been born into the lofty name that she carried. In truth, most of her early memories were things that she’d rather forget. She’d just been another slave, a tender child that was ignorant of the dubious legality of the auction block she found herself upon. And then her mom (Pandia) happened to pass by and saved her on a whim. She grew up loved and wanting for nothing, the youngest child of Hyrria Tertia Sinna. And she had spent her entire life trying to pay that good fortune forward; it was the whole reason that she became a Ranger and, later, joined the support team of War Sentinel Solace.
+
+She wasn’t quite sure where her noble ambitions had gone awry, but it was hard to delude herself into believing that anything was okay anymore.
+
+It had been a year since she last set foot in Spearpoint base—she and the rest of Solace’s team had been doggedly pursuing the dregs of the shimagu. There was little to no chance that the scattered survivors could ever regroup, even if given centuries of time, but that seemed to matter very little to anyone. Solace in particular pursued them with vengeance in her heart and on her lips. There was never a point in time that she could have considered Solace a friend, but what little personality the woman retained after she was remade into a piece of living propaganda had been utterly subsumed by her zealotry.
+
+Which seemed to be a growing problem amongst the Legions as well.
+
+“While the good men and women of humanity fought and bled, what did our so-called allies do? They stood back and watched! Who among us can claim they lost no friends, no comrades, no loved ones, and no kin during the final stages of our war against an unrepentant foe?! The elves fled for safety because of a single casualty! The dwarves sat back and watched us die! The so-called Coalition was born of necessity, but those days are past! Now we must ask ourselves: why were our so-called allies so eager to watch our numbers diminish?!”
+
+The words came from a red-faced legionary, a man wearing the undecorated armor of the common soldier—while bearing the unmarred flesh of someone of a much loftier station. He was hardly the only crier that was scattered throughout the base either. The mood in Spearpoint was ugly—almost as ugly as it was amongst her own team.
+
+Solace’s relentless drive had come at a cost. Curea took a bad fall as they hunted the shimagu survivors and Solace’s half-assed healing reaped a foul harvest once again. Curea’s limp worsened, until they discovered that her very bones had become rotten within her body—the day that her leg collapsed out from under her. Sure, the [Healers] in Spearpoint had salvaged the limb (and Solace’s Void healing had saved her from death), but there was no way that Curea was going to redeploy.
+
+Hestia was threatening to quit too, but Tarla promised to talk to her. Which left Rani with little to do while she waited for supplies to be gathered. Solace had appropriated a dwarven handcart that had previously been used for the loading of their powerful siege weaponry—yet another object that their once-allies had left behind as they rushed to leave the increasingly hostile Spearpoint base behind.
+
+Rumors had it that the dwarves were gathering in one of the old Launchpoint bases—Remera—as they formed travelling forces that could safely make their way to Khazad, even without the carrying capacity of a convoy or caravan behind them. And the fact that she had heard those rumors within a day of arriving probably meant that something was going to get ugly—and it would do so sooner rather than later.
+
+“Should we do something about that?” Rani knew the answer, but she still felt obligated to pose the question when she heard the unmistakable sound of Solace’s approach. No one else wore armor quite like hers; the sound of gold on steel was incredibly distinctive.
+
+“Why?” Solace asked after a few moments, using the crass tone she sometimes allowed to slip out when it was just the two of them. “Better they focus on filthy dwarves than dream of throwin’ their weight ‘round in Remus.”
+
+Rani chose to hold her tongue. She was just the assistant to a Sentinel; it wasn’t like she bore any power or authority herself. And she’d learned a long time ago that trying to persuade or dissuade the woman she served was futile from the moment Solace made up her mind about anything.
+
+“Any word from your family?” Solace asked a moment later, proving once again that somewhere beneath her conditioning there was still a human heart. It was those rare glimpses that kept Rani loyal, even as Solace’s ambitions diverged from anything Rani truly thought was helpful.
+
+“Not a word, not since the message from three years ago.” Her pain still colored those words. Hearing that her mom—Pandia, specifically—had died without her there was one of the hardest moments of her life. Per her brother, their widowed mother was taking it hard, to the extent that even he was worried about her.
+
+The fact that there hadn’t been any messages since was maddening.
+
+“I am sorry. I still need you here, our job remains unfinished. But I will promise you this: the moment that it is done, I’ll do everything in my power to get you back to your family as swiftly as possible.” And just like that, she was back to pure Solace. The momentary gasp of humanity vanished beneath the armor of her duty. It was hard to take any apology seriously when it was levied in such a meaningless tone of voice.
+
+“Thanks.” Rani tried to keep the dryness out of her response. She knew Solace wasn’t lying—the woman truly would do everything in her power to get Rani back to Ariminum. …It was just that Solaris and the other gods were the only ones that knew how many seasons—how many years—that day would take to come.
+
+The war was over. The Coalition was unravelling further with every hour that passed. And as far as Rani knew, every other Sentinel was back in Remus dealing with who knew what. Yet there they were, preparing to venture out again, to hunt a defeated enemy.
+
+As Rani expected, Curea was no longer a member of their team. There were no goodbyes—she was too angry at all of them, as if it was their fault that Solace was immune to both sense and reason. Hestia had been talked down, not that Rani was surprised. The secrecy of her romance with Tarla was rooted in the rest of them having enough decency to never comment on the audible moans that emerged any time the two found a modicum of privacy.
+
+Instead, they were taking on a total stranger, a woman that was allegedly a Skilled tracker. As Solace led Rani, Tarla, Pentera, Umbra, Hestia, Axia, and Prima through the gates to where their supplies awaited them, they laid their eyes on their newest member for the first time.
+
+Her hair was in that uncanny range between brown and black where the hue varied every time she passed through a shadow. She had a face that strongly suggested a broken nose that had been handled by an overly rushed (or low level) [Healer], and her smile was missing teeth. But Rani’s gaze was fixed a bit lower than that. The woman’s Legion-issued armor was unmistakably cheap iron, not modern steel. And there was only one class of legionaries that still wore iron in the year 4903.
+
+“A slave?!” Rani hissed her outrage into Solace’s ear. The woman knew Rani had once been a slave! She knew how Rani felt about the entire godsdamned institution!
+
+“Decia still had ten years left on her term with the 48th Legion. Tell me that a chance to become one of my team and earn her freedom isn’t a marked improvement over the future that she would have had with them. I don’t have time to detour back to Remus just to find a Ranger with the Skillset we need; she will suffice.” Solace made it clear that her decision was made.
+
+Rani just nodded and swallowed her frustration. She had a job to do.
+
+“Tarla, Hestia, Axia, and Prima, I want all four of you guarding our supplies. Umbra, you’re in charge of inventory; make sure we have everything we requisitioned. Decia, you’re with me—we need to get your teeth fixed up at the [Healers]’ depot before we go. Pentera, we still haven’t received the scouting records we requested; I’ll entrust you with leaning on the Garrison Commander.” Rani rattled out her orders to a chorus of affirmations. Fixing up Decia’s teeth and nose was ridiculous, but she knew that Solace wanted them all to stay presentable—just another part of the story that she sold.
+
+“Pentera, you’re with me. I should have a discussion with the man myself.” Solace interjected, transparently impatient to get the final necessities done so they could get underway.
+
+Soon enough, they would be back to their pointless hunt.
+
+For a woman that hadn’t yet reached level 512, Decia was a surprisingly competent tracker. Less than a month after they deployed into the world further west than Remus’ fingers yet reached, she found the tracks of a human. They were worn and the trail had been marred by the weather, but Decia kept them on the right path (with the occasional bit of adjustment or backtracking) as they slowly progressed.
+
+Solace was unhappy with the pace, but it was easy enough to remind her that they were on the right trail. Slow progress was preferable to their usual tactic of roving around half aimlessly.
+
+It hadn’t taken long for Rani to notice that Decia was a bit taken with her, but she had no real interest. Sure, she hadn’t really dated since she joined the Ranger Academy, but their stations were a bit too different. Besides, her place was to remain by Solace’s side, even in their downtime.
+
+It was easy for people to forget that Solace was still a human woman. She was larger than life and seemingly unbothered by the pedestrian needs and wants most people dealt with. But that was all part of her guise as a piece of living, breathing propaganda.
+
+There were probably reasons that every other symbol Remus bandied was dead.
+
+Solace’s armor was the heaviest set that any of them wore, and it wasn’t like her vitality was as high as her level suggested—her class qualities were somewhat poor due to how swiftly Ranger Command had her leveled. Which meant that the bulk of her stat product went into her magic stats by necessity, especially her Mana and Magic Power. Some nights, Rani was convinced that Solace only endured her daily burdens thanks to Rani’s nightly [Rejuvenating Massage].
+
+She was well aware of the whispers. Even some of their own group remained convinced that there were things less chaste than a massage happening in the tent that they shared. But in truth, Solace hated physical contact—she could barely endure the massage, even after years of trust had been established. They were less than friends, and they could never be lovers. The most intimacy they had was that Solace never felt any need to put on a front while they were within her heavily inscribed tent. She let her true words and thoughts fly, until they settled in to rest on opposite edges of the four-person tent. And that time, until the moment she fell asleep, was the only time that truly belonged to Rani.
+
+“For Sentinel Grace!” The words had become Solace’s battle cry ever since Sentinel Grace—the namesake of both Rani and Solace (at least for her discarded true name)—was purportedly killed by a shimagu-infested hydra.
+
+Rani still had her doubts about the news. It was all too easy to believe that Ranthia was still alive, and the entire thing was just meant as a smokescreen. The alleged death had lit a fire under Solace’s ass, sure, but it also kept Ranthia away from the woman. For all that Rani (usually) respected the Sentinel that she served, there was something visibly unhinged about how Solace spoke of or looked at Ranthia. There was a reason that Rani never mentioned that her mom had served in Ranger Team 6 alongside Ranthia, so long ago. Nor that her names were intentionally chosen by her mother to continue the legacy of Ranthia, Pyra, and Juvenae. She just wished that she’d been able to say something to Sentinel Grace before, but maybe she was back in Remus—she was sure to look up Rani’s mom if she was.
+
+Rani could only indulge in her thoughts for a few precious moments as they crested the hill. She held her spear, ready for anything, with two duplicates of the weapon on her back in case she had to throw it. At her side, Tarla’s shield offered them some cover.
+
+Not that they needed it.
+
+“Please! Just want live!” The shimagu in the human shouted in broken Creation, his host’s arms held high.
+
+Moments later, Solace’s Mist flowed around the hill and engulfed the five shimagu that they’d spent the past nine days tracking.
+
+“One human, one goblin, three beasts; two furry, one scaled!” Rani shouted, even as one of the wolves erupted from the Mist.
+
+Tarla slammed her shield into the infested beast and had her sword buried in its neck a moment later—right about the same time Rani threw her first spear into the goblin.
+
+[*ding!* A shimagu has been slaughtered. Its host (wolf) perished as well.]
+
+[*ding!* A shimagu has been slaughtered. Its host (goblin) perished as well.]
+
+Hestia’s magic and Decia’s arrows were bringing down the last two beasts, which left Rani, Pentera, Umbra, and Prima to check the human—with the latter two bleeding his mana—while Solace approached.
+
+[*ding!* A shimagu has been slaughtered. Its host (wolf) perished as well.]
+
+[*ding!* A shimagu has been slaughtered. Its host (river monitor) perished as well.]
+
+Hardly the powerful ogres and stolen legionaries that the shimagu had used during the war. Solaris knew what had happened to their original hosts, but a young goblin and a few local animals weren’t much of a threat. Even the human that they held in check was practically skin and bones; his rough, panicked breathing was wet and wheezy enough that it left no doubt that he was sick.
+
+Solace paused to unleash a barrage of Void-imbued bolts of Brilliance into the nearby pond—a shallow body of water so brackish that Rani struggled to think of it as anything more than a mudhole—just in case any shimagu were spawning within it. When no notifications came, she shrugged and set her hand on the man, burning out his sickness and parasite.
+
+[*ding!* A shimagu has been slaughtered. Be aware, its host remains.]
+
+They all released the breath they were holding; disappointment keenly displayed on a few faces. Night’s standing orders were to assume that Hwinthel’s wish became true for everyone—that the day the final shimagu was slaughtered, the System (or a similar announcement) would let everyone know.
+
+But that day had yet to come. Rani didn’t even need to give the order; Decia was already investigating the camp for any signs of a sixth shimagu.
+
+Hestia was trying to talk to the man they’d saved, but he clearly didn’t understand a word that came out of her mouth. Like many former hosts, he seemed unable to grasp that his body was his once again—he just sat there, unmoving, with unmitigated horror in his eyes.
+
+It was Rani’s least favorite part of the job. She already knew what was coming…
+
+“Nothing ma’am, it jus’ the five of them.” Decia gave her final determination.
+
+“The highest level shimagu was only level 372—non-combat classes only, given the names.” Rani gave her own report. It wasn’t really relevant anymore, but she’d spent years summarizing the scale of the feats they’d achieved. She wasn’t going to stop just because there was no glory left to be had.
+
+“Then we backtrack to the handcart and move further south. Decia, find me another trail!” Solace gave the order, and they saluted in unison before they set out.
+
+With minimal fanfare, they left the man behind. If he was lucky, he would discover enough independent will to drink from the brackish water they left him next to before he perished—and likely sicken himself anew in the process. But there was nothing else to be done; Solace would never return to base for a broken host. Even the sensate one they found two seasons ago had just been given directions and a waterskin.
+
+…Rani hadn’t even bothered to check while they were at Spearpoint to learn if the girl had made it. By necessity, she had hardened her heart to the plight of those that fell under the shimagu’s control. She never could have survived a single year under Solace without doing so. Because in truth, they weren’t the great saviors that the propaganda claimed they were.
+
+They were nothing more than butchers, just the same as every other War Sentinel that had ever been seated.
+
+But Solace was far more determined than her peers ever were. Their hunts would continue until the final kill notification came. And even Rani was morbidly curious about what form the extinction announcement would take. Time would march on without them, and it was becoming clear which direction Remus’ Legions would next march—but they would march without Sentinel Solace.
+
+May Solaris forgive them. And, as Rani never believed in asking too much of her favorite goddess, may she also light their way to their enemy. Because the sooner the shimagu were eradicated, the sooner she could find what was left of her life.

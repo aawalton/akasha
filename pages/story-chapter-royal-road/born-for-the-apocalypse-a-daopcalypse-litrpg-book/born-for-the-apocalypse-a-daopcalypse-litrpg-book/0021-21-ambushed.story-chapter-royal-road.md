@@ -1,0 +1,83 @@
+---
+id: 7ad88b5d-7790-5848-a7d7-ab3fbc7f5e2a
+page-type-slug: story-chapter-royal-road
+title: "21: Ambushed"
+slug: 0021-21-ambushed
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 21
+ownLength: 1090
+unit: words
+publishedAt: 2024-10-31
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1877533/21-ambushed"
+royalRoadId: "1877533"
+---
+
+21:
+
+Jack eased his grip around Sarah as he poised himself to brace for the fall, confident that Sarah was capable of doing the same for herself.
+
+Sure enough, the free points she had invested into strength and constitution paid off as she arched her hands and knees before herself to muffle the fall’s impact.
+
+On the other hand, Jack extended his hands outwards, relying on the overall movement speed buff the Silvercrest Cape gave coupled with his ten points in dexterity to roll forward twice and break the momentum of the fall.
+
+He was back on his feet before Sarah and he didn’t hesitate to move closer towards the trunk of the tree for cover. A moment later, a panting Sarah joined him, her expression one of complete shock as she pressed her back against the tree for cover.
+
+Her spear was protectively held before her, but it would do her little good against a skilled archer.
+
+The same was true for Jack, his unsheathed blade clenched in his right hand insufficient to deal with their ambusher unless he found a way to close the distance between them. His expression was tense, but then his widened in clarity.
+
+Hurriedly, he opened the tutorial shop and asked the system to sell him three Qi Gathering Pills and one body refinement stone.
+
+[Qi Gathering Pill x3, Body Refinement Stone x1 has been deposited into your inventory. 1450 TP has been subtracted. Available TP: 2116]
+
+Without hesitating, Jack reached for his spatial inventory and yanked more than pulled out two Qi Gathering Pills. He popped one in his mouth before offering the other to Sarah, who understood his intentions and did the same.
+
+The fight with the Rift Goblins had left their Qi Pool’s drained, which was why they had sought shelter on the tree’s branch in the first place. The blasted system had not taken long to show them why that was a bad idea and Jack had even considered avoiding it, but they had desperately needed that break.
+
+Their bodies might be capable of marching onwards without sleep or rest for far longer, but their minds remained human.
+
+“Volzk!” An unfamiliar word was called out with a recognizable edge of command to it, spoken in a tone that was as guttural as it was discordant.
+
+Multiple grunts sounded out in response, as if they were acknowledging what the first voice had said, causing Jack’s expression to turn grim.
+
+He was down to five points in his Qi Pool and they were facing multiple enemies, likely of the non-human variety.
+
+“I think we both need to pulse,” Jack whispered under his breath, even as the sounds of muffled footsteps approaching them sounded out.
+
+Sarah gritted her teeth, before offering him a firm nod. If they were being ambushed, one person knowing the location of all the enemies wouldn’t be enough. If they wanted to survive, they would need to act in consort while understanding the nature of the threat.
+
+Jack’s vision was enshrouded by darkness.
+
+He wasn’t deterred as he willing strands of Qi to shoot forward in the general direction the arrow had been fired from along with the footfall of approaching creatures that he had detected.
+
+He made sure to curve the strands around where knew Sarah to be standing, seeing no reason to add another variable to account for and split his focus while maintaining Qi Pulse.
+
+He had to be fast and he had to be efficient to keep the drain on his SP minimal.
+
+It didn’t take him long for his first hit.
+
+One of the Qi strands had made contact with a venous network that could not be more than four feet in height. He wasn’t surprised to find that the network of veins congregated near the centre of the chest, a diamond shaped beast core nestled behind the protection of the ribcage like a human heart.
+
+The observation was consistent with the two Rift Goblin Assassins he had pulsed earlier, so Jack wasn’t surprised.
+
+However, his expression turned increasingly grim as he pinged three more Rift Goblins, who were planning on flanking Jack and Sarah from opposing directions in groups of two.
+
+He had found what he had been searching for, yet Jack’s instinct wasn’t satisfied. The Rift Goblin that had ambushed them had shown a novel level of craftiness and it didn’t make sense for an opponent capable of planning an ambush like this to try and flank him, when it could simply pick them off from a distance.
+
+Yet, Qi Pulse could not pick up on any more Rift Goblins.
+
+Am I overestimating these creatures, Jack wondered, before an errant thought struck him.
+
+The whole point of an archer was mobility. To be able to attack in almost any direction from a place of one’s choosing at range was one aspect of that mobility. Another was the possibility of relocating after firing a single shot.
+
+Jack had neither the time nor the Qi Pool reserves to scour the trees in his vicinity. So he called the threads of Qi back to him, but instead of cutting back in a straight line, Jack willed them into an arc that took them sailing through the Anarix Trees.
+
+He didn’t know if it was luck or if his strategy had great merit to it, but Jack got a hit. The venous network that appeared in the world of darkness was taller and wider than the Rift Goblin Assassins, but considering how cunning the creature had been so far, it could not be a Rift Goblin Berserker. It’s diamond shaped core was larger than the Goblin Assassins and unfortunately, Jack hadn’t gotten to pulse the berserkers so he couldn’t say how their beast cores looked like, but it was getting clear that he was dealing with something new.
+
+To make matters worse, he discovered a runic symbol that seemed to be implanted in the right side of the creature’s skull, most likely in his eye. The venous network was denser near that region as well, marking it as a weakness alongside the beast core.
+
+But without a ranged weapon to reach it, Jack had no idea how he was supposed to take advantage of the fact.
+
+A pang of sorrow arose in his mind at the thought of Trent, their former archer, who would’ve made this encounter a lot easier. Jack crushed the emotion before snapping off his Qi Pulse skill.
+
+Only to find Sarah waiting for him, their gazes meeting as Jack opened his eyes.

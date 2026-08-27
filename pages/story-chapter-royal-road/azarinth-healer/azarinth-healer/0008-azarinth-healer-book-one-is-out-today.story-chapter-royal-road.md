@@ -1,0 +1,25 @@
+---
+id: 558f5650-9d23-54f7-b364-2157e1c4aa9e
+page-type-slug: story-chapter-royal-road
+title: "Azarinth Healer Book One is out today :)"
+slug: 0008-azarinth-healer-book-one-is-out-today
+partOf: azarinth-healer
+position: 8
+ownLength: 146
+unit: words
+publishedAt: 2022-12-01
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1053282/azarinth-healer-book-one-is-out-today"
+royalRoadId: "1053282"
+---
+
+Gotta post 500 characters in this section of the post huh. So how's everyone been?
+
+That's far fewer than 500 characters. I could copy the text from above again but eh, doesn't feel right.
+
+So ye, kinda just. Here, are we? Bit awkward. Work been stressful? Oh you’re in school. Fair. Fair. Bio-engineering? Oh nice, so like nurgle or something? Zombie apocalypse haha. Oh no, it’s just a joke, a joke. It’s a reference to common story tropes, oh you don’t read, that’s aight. I think this is my floor. Nice meeting you.
+
+Getting out of the elevator, I realize I’m on the wrong floor.
+
+I sigh, checking my phone to see no connection. A roar makes me freeze up, scanning the office before me when a noise resounds inside of my head, letters appearing before me.
+
+‘ding’ ‘Book One is out. Please leave a rating’

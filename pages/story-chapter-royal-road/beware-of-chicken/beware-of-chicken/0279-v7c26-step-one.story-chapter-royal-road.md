@@ -1,0 +1,231 @@
+---
+id: f09b799b-3004-5ab4-9a80-cb27a87b902b
+page-type-slug: story-chapter-royal-road
+title: "v7c26: Step One"
+slug: 0279-v7c26-step-one
+partOf: beware-of-chicken
+position: 279
+ownLength: 2957
+unit: words
+ownProgress: 2957
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3017262/v7c26-step-one"
+royalRoadId: "3017262"
+markedReadAt: "2026-06-29T19:01:00.049Z"
+---
+
+Of course, they did not immediately sally forth to storm the Wu’s palace. That would be utterly foolish. No, the first thing, of course, was a plan of action; to gather all of their allies, distribute knowledge, deliberate upon the weak points of their foes, and then strike true to end the threat.
+
+The Lord Magistrate sighed internally. He really didn’t ever think that it would actually get this far—neither he nor his wife had.
+
+Oh, they had both been concerned that her sister might meddle with their son, if ever she found out about his presence in the city. It had been something they had discussed, and they had come to the conclusion that she would, at most, merely make life a bit difficult.
+
+They had warned their son of possible dangers; teachers disliking him, perhaps upperclassmen taking exception to him. Those were the games that woman liked to play. They were, in the end, petty things. Games that could be defused or deflected—even purposefully losing whatever test the woman set would generally be pleasing enough that she might be satisfied with that. She would cackle and gloat about her victory, and be pleased with it.
+
+But it appeared that thirty years had indeed changed things. The childish brat had decided that little games were not enough… either that, or she had changed what she thought were games.
+
+And seeing how long a man could last as a Special Inspector was not a game any man would enjoy playing. It was a new level of pettiness, and both he and his wife could see the twisted logic. “Oh, I did him a favour, I got him a high position.” The woman would simper.
+
+The past nine of fifteen Special Inspectors had been assassinated. The death of the last Special Inspector, years ago, had been so gruesome that the post had been left open the entire time. The Lord Magistrate still remembered the reports of that particular incident. Those who had found the corpse had been horrified to discover that the human body could even contain that much blood. Veteran guards of the worst wards, where murder was common and blood soaked every flagstone, had walked out of the scene pale and shaking. One had apparently resigned on the spot.
+
+That was what the woman had signed their son up for. And when his boy had exceeded all expectations? When he had refused to lay down and die, but instead he thrived, ascending to be the Acting Lord Magistrate for Grass Sea City?
+
+That woman had sent the Auditor-General Yanjing after them. To find something, anything to ruin them. To even make something up, if he had to.
+
+He had been sent to destroy the Lord Magistrate’s home. To ruin all the work he had put in over these thirty years. To take him away from his adoring scribes and polite subjects.
+
+Simply because she felt like it. She had probably not even thought past that.
+
+Both were utterly unforgivable acts; and thus, he was here to deliver retribution. Retribution that was going to be quite karmic indeed, if this was their welcoming party. The only question which remained was how far exactly they would go.
+
+It was something to ponder, while they headed towards the city.
+
+The great carriage trundled forward with a certain amount of gracelessness. Oh, it was certainly far superior to the thousand other carriages the Lord Magistrate had been in, but compared to the lovely smooth ride of Bei Be, it was certainly lacking.
+
+The Lord Magistrate snorted at the thought. How spoiled was he to have such thoughts? Oh, the greatest carriage in the province does not roll smoothly enough.
+
+Still, laughing was better than feeling nervous. He actually found his stomach pleasantly calm, and his thoughts clear and sharp. His lady wife was seated beside him, absently fanning herself while her eyes were locked on the quickly approaching city. Sheng Yanjing, the Auditor General, was attempting to look at ease, but the slight amount of sweat on his brow and his bouncing leg gave away some of his nerves. Finally, Xue Ji looked perfectly at peace, the fox woman sitting on her own seat, alongside two other servants who were from the trading company.
+
+Xue Ji had given them a lazy once-over, before the two servants had been dismissed as threats.
+
+The final person in the carriage was Guan Bo himself, who was just finalizing the last preparations.
+
+“Is there anything else you need before we enter the city?” Guan Bo asked, turning toward them.
+
+“I do have my own allies to whom I wish to deliver messages,” the Lord Magistrate said, pulling out several scrolls. They were likely significantly less prestigious than their current hosts… but it would at least be good to see some of his old friends again.
+
+Bo nodded, stuck his head out the window, and whistled. He was immediately attended to by one of the guards, and the scrolls were handed to him.
+
+“Ride ahead and deliver these—take ten men with you.. No interruptions, no delays,” Bo commanded.
+
+“Yes, Young Master!” came the immediate response, and the guard hopped to, ten men peeling out of the formation smoothly on their horses and then accelerating into a canter.
+
+That taken care of, the Lord Magistrate sought to pass the time. They were still an hour outside the city at this rate.
+
+“How was your trip south, Guan Bo?” the Lord Magistrate asked their younger companion.
+
+The young man perked up at being addressed. “It was all smooth, Lord Magistrate—clear skies the entire way, thank the heavens, we made great time…”
+
+They made small talk for a while, and it was pleasant.
+
+The Lord Magistrate felt some of his tension return as they reached the gates of the city… but soon that faded too, as the guards just waved them through. Having such a guard force was an obvious thing… but it did afford them certain privileges.
+
+Finally, they found themselves deep within the city, within a walled pavilion—a place the Lord Magistrate of Verdant Hill knew quite well.
+
+The Azure Jade Pavillion; the seat of the Azure Jade Trading Company’s power. One of the greatest and most opulent palaces within Pale Moon Lake City.
+
+The doors were opened, and Xue Ji stepped out first, under the guise of attending to them… but in actuality to check for any threats, before she gave a subtle all clear signal.
+
+And just like that, they were in the city, with the Wu family currently none the wiser, much swifter and safer than his original plans
+
+They were promptly brought inside the palatial building into a lavish meeting room, where they were awaited by Guan Chyou… as well as the Masters of the Trading Company: Guan Ping and Shan Daiyu—two people the Lord Magistrate had actually met before, at some function or another.
+
+There was a brief moment where they sized each other up. His wife and Shan Daiyu eyed each other for a moment, then both opened fans with an identical pattern; serene clouds on a light blue background: cooperation and togetherness.
+
+The Lord Magistrate offered a nod to Guan Ping, collapsing his hands together in the gesture of respect, as befitting a guest.
+
+“Thank you for inviting us into your home, Master Guan Ping,” he said, attending to the niceties of court.
+
+Guan Ping stood, and offered him the same courtesy.
+
+“It is an honour to host yourself and your wife… and it is good to meet the ones who gave the slipper to our little ones. Why, they were both in such a panic after you negotiated that contract with them!” the jovial Guan Ping declared, referring to the minor incident where Chyou and Bo thought they would be taking over Verdant Hill… something they were swiftly shown was the result of faulty information.
+
+“Grandfather…” Bo moaned, while Chyou’s face flushed.
+
+“It is the privilege of the elders to teach their juniors,” the Lord Magistrate replied, with a little smile. It had been quite a fun afternoon playing with the siblings.
+
+“Best they learn from gentle rebukes,” Shan Daiyu said, with a little shake of her head.
+
+“Indeed. Chyou is such a darling, and they rallied quite swiftly, when they realised what was going on,” Lady Wu continued, with her own little smile. “You taught them well, and our… mutual friend greatly enjoys their service.”
+
+Guan Ping and Daiyu both nodded.
+
+“It does this old man good to hear of our grandchildren’s exploits… and Auditor General, I heard of your involvement from our grandchildren, but it's… interesting to see you here.”
+
+“All men should travel with the wind, lest it blow them over,” Yanjing said. “And I merely got out of the path of a hurricane.”
+
+“Quite,” Lady Daiyu said, and Guan Ping gestured that they could all sit down. “Our grandchildren informed us of what the Wus have done, and we think it is indeed overstepping themselves. With the information Lady Wu here provided… there are a great many others who also believe the Wus are overstepping themselves.”
+
+“How many?” the Lord Magistrate asked.
+
+“One hundred and thirteen organizations of note; this includes half of the other trading companies, the Plum Blossom’s Shadow, the Guild of Transmission Stone Operators, half the teachers at the academies, the Head Examiner…” Shan Daiyu listed off. “Tonight’s dinner shall certainly be interesting.”
+
+Indeed it would be. The Wus had truly made a great many enemies, who would like to take a bite from them.
+
+“Then I suppose the only thing to discuss is how to strike the first blow.” Lady Wu said, her fan snapping closed. “How distracted would you like the main family?”
+
+The smile on his wife’s face was truly something vicious.
+
+=====================
+
+Wu Chanchou yawned loudly, her displeased sound carrying to the performers. One of them faltered, stumbling, but the fire thrower managed to recover without setting himself alight.
+
+…how boring.
+
+She yawned again and sighed. Really, the entire city had been so boring recently. There was nothing but praise for her dear nephew coming out of Grass Sea City, and there had been no news at all from her pet auditor in the north.
+
+No interesting, entertaining gossip either, from anywhere. The peasants were being tight-lipped with the news of cultivators. She wanted to hear all about the next feud! The stories, the drama, now that was good entertainment! Last she heard there was going to be a sect war, which would have kept her entertained for ages.
+
+But alas, silence. Even after she told her husband to do something about it, but he was quite busy these days, so she could forgive him for now. She would be quite cross with him if he took too long, however.
+
+Speaking of her husband, she turned her attention to the man. He was deep in conversation with her father. He had his nose all out of place about…something.
+
+“These movements do not make sense, Father-n-aw. Half the suppliers are dragging their heels, and after the Azure Jade Trading Company hosted that dinner yesterday—one that appears to have hosted a great many who oppose us—things feel tense. They’re moving fast.”
+
+“The hounds snap at the tiger’s heels, but they cannot truly harm it,” her father said in his cold voice, which always sent shivvers down her spine. “Let them plot and scheme, we will wait and counter. What can merchants do against the great and noble Wu Clan?”
+
+Indeed? What could they do? The Wus were not mere merchants. Their wealth was not obtained in such a way.
+
+No. The Wus were Pale Moon Lake City. Their Clan owned most of the land it was on, and more, they owned most of the land outside of it. Some of the oldest writings, according to Father’s grandfather, had said that they were once near kings in their own right, the hereditary rulers of the entire city.
+
+They had thousands of guards. A fortress for a house. They even had several cultivators sworn to their line.
+
+They did not need to scrounge and scrape, or count every coin like merchants. Their wealth was the wealth of the city itself; and they, the strongest Clan in the province.
+
+Something that was nearly uncontested now, after the debacle in the Grass Sea. Of course, the lowborn filth had to rely on such underhanded methods to even compete. Faking indentured servitude contracts—how stupid. It wasn’t like there was a shortage of peasants who would willingly sell themselves into debt. They were practically numberless, and like fruit, they always grew back. Sending out people to capture them? That was just sloppy.
+
+And that foolishness had limited her chances to play with her dear nephew. Which was annoying. She wanted to see him squirm a bit. The look of shock on his face when he had been elevated to Special Inspector had been very, very cute. Her sister may have debased their bloodline by marrying a peasant, but at least he had been a handsome peasant.
+
+Father had forbidden it, however. They couldn’t interfere with him right now; he had technically done them a service… and he was too far away. The Pale Moon faction wanted to break the Grass Sea’s power, and what better way to do it than to have some green boy run the city?
+
+They had expected to find it burning down around the boy’s ears with how often he asked for a replacement.
+
+That lasted until last week, when the productivity reports hit their desks.
+
+Her nephew was only half a Wu, but he was, in the end, a Wu. Excellence was in their blood, Father always said. The boy had somehow managed to completely stabilize the city. Not just stabilize it, but if he wasn’t completely misrepresenting his numbers the city was more productive now.
+
+Somehow.
+
+Father had even been talking about extending patronage. Bring the boy into the fold, like a proper Wu.
+
+Her sister’s spawn being in her house would be annoying. Yet she also knew it would irritate her sister.
+
+Perhaps after the auditor finished messing with them, they would have to come here and beg for money? Seeing her shaky, pathetic sister groveling would sure be something.
+
+Chanchou approved.
+
+The boring fire throwing show finished, and dinner started winding down when a servant approached.
+
+“My Lady, one of those new messengers has delivered a letter for you,” the servant said, his head bowed deferentially. “The sender paid priority, and it's stamped with an official seal.”
+
+Oh, one of the postmen, the ones with the fetching uniforms. She had had one of them made for her eunuch. He was quite fetching, tromping up and down delivering her commands to the staff, but he was getting a bit arrogant. She would have to have him whipped if he kept it up.
+
+“Accept it,” she commanded.
+
+The servant bowed, and went to accept the letter. Soon, he was back, a look of mild confusion on his face. “The sender said it should be read aloud, to all your guests.”
+
+Chanchou chuckled, and waved her hand in assent.
+
+“Well?” she demanded.
+
+The man unfurled the scroll, and then paused when he read the first line. Sweat beaded on his forehead. He swallowed.
+
+Chanchou frowned, her own patience growing thin.
+
+“What does it say, boy?” she demanded. The servant’s eyes snapped up.
+
+“My-my Lady… I do not believe I should…” he trailed off.
+
+Chanchou raised a single eyebrow at the boor.
+
+“Oh? Why?”
+
+“....it is insulting to you, my lady,” the man said in a strangled whisper, his eyes starting to dart around the room.
+
+That caught the attention of her father and husband.
+
+“Someone dares levy an insult to Lady Wu, and the Master of the Treasury?” her husband demanded. “Spit it out, boy, let us hear the words of this wretch!”
+
+The man swallowed again.
+
+“T-to the f-fat, ugly, and boorish C-chanchu—” the man cut off at that, swallowing and snapping his eyes up to her, apology written all over his features. Chanchou felt a vein bulge in her temple at the childish corruption of her name. Chanchu. Toad. Some worthless creature was calling her toad?!
+
+“Continue,” her father said coldly.
+
+“The worthless bastard who embezzles his Emperor’s coins, and whose balls are held in his wife’s purse—” her husband sucked in a breath, and his face turned purple with rage.
+
+“And the lesser son of greater sires.”
+
+It was the simplest insult, but it was also the one Chanchou knew would have the most effect on her father. He was… sensitive, about his contributions to the Wu name sometimes.
+
+Her father’s own forehead bulged with a vein. “Continue,” he ground out again.
+
+“I, your daughter, hope this message finds you in poor spirits and ill health. I have come into the city in direct defiance of your edicts and banishment. I spit upon your name and upon your authority, for it is the only place to spit in this city. I shall waste no more pleasantries upon you, but to tell you this. You have done me wrong, and magnanimous soul I am, I will now give you the opportunity to apologise to me. I will be waiting on the morrow in the Azure Jade Pavilion. There you may kowtow to me.
+
+Wu Zei Qi sends her regards.”
+
+The feasting hall, still full of servants and the fire throwing troupe, was silent.
+
+…it appeared that her cripple of a sister had gone completely mad.
+
+“...We will be bringing my wayward daughter to heel,” Father commanded, his voice tight.
+
+===============================
+
+And thus step one was completed; with the Wu family thoroughly distracted.
+
+========================
+
+========================
+
+Edited by:  BargleNawdleZouss, Massggamer,

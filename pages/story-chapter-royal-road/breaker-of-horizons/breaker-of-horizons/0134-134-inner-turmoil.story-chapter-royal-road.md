@@ -1,0 +1,115 @@
+---
+id: 796699ee-6bd1-5abf-af9e-a0b7b7427dd3
+page-type-slug: story-chapter-royal-road
+title: "134. Inner Turmoil"
+slug: 0134-134-inner-turmoil
+partOf: breaker-of-horizons
+position: 134
+ownLength: 1923
+unit: words
+publishedAt: 2021-08-12
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/732641/134-inner-turmoil"
+royalRoadId: "732641"
+---
+
+It took Jerric around half an hour more before he was able to get used to operating in the arcanic sea without having his auric-ambient-flare as a convenient anchor for his consciousness. Many of his attempts ended in exasperated sighs as he kept finding himself turned around in the arcanic sea and rapidly left behind by the moving trailer, and if he wasn't quick enough to resurface, the resulting disorientation left him feeling nauseated. Once, he became violently sick, and only barely managed to stick his head out the window in time to send a projectile of vomit streaming out behind the trailer.
+
+Devon observed all this with increasing anxiety, partly because Jerric was becoming visibly worn down by the failed attempts, and partly out of worry about how he was supposed to manage doing the same thing if Jerric was having so much trouble.
+
+By the time Jerric was able to keep up with the trailer and join Ambrose properly in the arcanic sea, Ambrose had already set up an intricate construct of arcana around the trailer. Jerric stared at it, awed.
+
+'What is this?' he asked.
+
+'Just something I came up with,' Ambrose answered, regarding his work critically.
+
+'You're not even using any glyphs,' Jerric observed, examining one segment of it a little more closely. 'Are you actively focusing on this?'
+
+'No, it's self-supporting. Arcana as a substance has... a sort of definition to it. Patterns, ways of being. If you set it up the right way, a construct like this can remain stable even without glyphs.'
+
+Ambrose was about to continue explaining, but he sensed Jerric's consciousness slip out of the arcanic sea again, so he surfaced fully into the physical world as well and saw him massaging his forehead.
+
+"Sorry, got distracted," Jerric said, shaking his head slightly. "How are you managing this so easily?"
+
+"It's hard to explain. I don't see my auric-ambient-flare in the arcanic sea anymore, but I still feel it in oblivion. Sort of like a phantom limb. I guess you have to be more familiar with oblivion before this becomes more manageable," Ambrose answered.
+
+"Then Dev and I aren't going to be much use in a fight in this state," Jerric said, looking worried.
+
+"If it comes to a fight, I don't know how much use I'll be in any state," Devon chipped in, only half-joking as glanced at Jerric before turning his eyes back to the road.
+
+Jerric shot him a wry look. "Have a little more confidence in yourself, m'lord."
+
+Devon snorted, but then said more seriously, "Yeah, alright. But let's be realistic. If you took that long to acclimate to working without your auric-ambient-flare, and you still don't have the hang of it, then none of us should be counting on me to master it at the drop of a hat. Least of all if we're caught in a fight."
+
+Ambrose pursed his lips. "If it comes to it, I think I can undo this thing with your auric-ambient-flares quickly. My construct should buy us enough time."
+
+"What does it to, exactly?" Jerrc asked.
+
+Ambrose thought for a moment, going over the steps he had taken in his head. Out here in the physical world, without hearing the song of the construct, it took him some time to put it into words. "Well, the short version is that it's supposed to unravel an incoming sequence and store the arcana. If it can't successfully do that, then it's supposed to reflect as much of the energy as possible."
+
+Jerric's eyebrows rose. "To unravel a sequence, don't you have the know the glyphs of a target sequence, and then pick it apart manually? You mean you've made a barrier that somehow does this automatically to any sequence that makes contact with it? And you've done it without any glyphs?"
+
+"It's..." Ambrose hesitated, then decided to try and offer an explanation even though he knew it was broaching dangerous knowledge.  "Well, if you're thinking in terms of glyphs, then yes, you do have to know the specific glyphs of your target sequence, and then sort of do surgery to pick it apart. But this doesn't rely on glyphs, so it doesn't work that way."
+
+Jerric stared at him. Ambrose could almost hear his mental gears grinding furiously as he digested this piece of information.
+
+To Ambrose's surprise, it was Devon who spoke up first. He glanced at Ambrose with a deep frown on his face. "You're not focusing on the construct, but you said you've managed to make it self-sustaining somehow. Does that mean you've somehow set it up by shifting away from the whole framework of glyphs? Then what are you using in its place?"
+
+Jerric turned to Devon, his mouth now agape, before looking back to Ambrose. "Is he right? You're... you're... somehow using a whole different system of arcana? I mean, it has to be a system of some sort, right? Or else it wouldn't be possible for it to be self-sustaining. Simple frameshifting alone requires constant focus for it to work."
+
+Ambrose shook his head, marvelling at how quickly his friends had caught on. "That's not entirely true. It's not exactly a different system of arcana. Honestly, I don't really know the theory behind it. I mean, if you really think about it, why do glyphs even work?"
+
+"You're asking me for real?' Jerric blinked.
+
+"Yeah. I mean, I wanna figure this out too, so we need to talk theory," Ambrose said.
+
+"Like, right now, while we're apparently driving away from some danger that Fate has set on our tail?" Jerric continued quizzically.
+
+"Jerric, my construct is up. We've got the trailer's defences beneath that. Our auric-ambient-flares are hidden. We've done what we can," Ambrose said simply. "Let's talk theory."
+
+"You're awfully calm about all this now. Half an hour ago, you were chivvying us to get on the road and start driving," Devon remarked.
+
+Ambrose shrugged. "Would it help if I told the two of you that I think it's important that we discuss the theory?"
+
+Devon shot him a sideways look. "... Like, important important? Is this a Chosen One Prophecy-sense thing?"
+
+Now that Devon had put the question to him like that, it did give Ambrose pause. He wasn't exactly feeling an impulse to turn the discussion to the topic of arcanic theory, and he didn't feel that sense of certainty that it was something he had to do. If he had to put a name to it, he would have called it simply professional curiosity.
+
+But being around Caden had made him question his own sense of agency a lot more, and in recent months he had begun to wonder if even his natural inclinations were nothing more than tools of Prophecy, since he was the Chosen One. Every thought and motive had to be questioned. In the past, this wouldn't have troubled him at all, but now that they were actually trying to corral the Prophecy and eventually subvert it, it worried him. Could he trust himself? Wasn't that what Lynus had been worried about — being forced by the Prophecy to do something he didn't want to, even if it was against his natural inclinations? Recent events had made brought these issues to the fore. He already knew, in theory, that the Prophecy worked with probabilities, nudging things together with as little resistance as possible. That obviously meant that it was manipulating them using their own inclinations and preferences where possible. That fact just hadn't felt so sinister until now.
+
+The hesitation seemed to confirm it for Devon, who turned to Jerric and earnestly said, "You better start discussing the theory!"
+
+"No," Ambrose said, shaking his head. "I don't know. It's not something I'm sure of. It's just..."
+
+"Just what?" Jerric prompted gently, sensing the turmoil within him.
+
+Ambrose looked up, the anguish showing briefly on his face before he forced a smile. "I love arcanophany. I love studying it. I love thinking about it. I love practicing it. I love everything about it. And now I'm wondering if that's really me, or if it's just something the Prophecy put into me so that it can control me and move me along its path. Like, right now, do I want to discuss this because it's just so fascinating to me and I really enjoy it... or is it something the Prophecy wants me to do, because I'm supposed to figure something out with the two of you?"
+
+Neither Devon nor Jerric had an answer to that. Ambrose looked down at his lap and started twisting his hands. Their trailer continued down the road, the sound of its wheels on the tarmac filling the emptiness in the air. The silence stretched, and each of them slipped into their own thoughts. Another half an hour passed.
+
+The ground rumbled.
+
+At first, only Devon noticed, but it was such an imperceptible thing that his only reaction to it was a slight crease in his brow as he wondered to himself whether he had just imagined it. Had that just been the trailer's wheels going over a tiny bump in the road?
+
+The trailer bounced again, ever-so-slightly. This time, Jerric looked up, mirroring Devon's uncertain frown. "Did you—?"
+
+When it happened a third time, it was unmistakable. The trailer shuddered briefly and even the air was momentarily disturbed, like a wave of force had overtaken them. Dimly, Ambrose felt a perturbation in the arcana that was gone as soon as it had registered on his senses, leaving him nothing else but the briefest impression that something had happened somewhere behind them. He stuck his head out the passenger-side window to look back.
+
+"What is it?" Devon asked, sounding fearful.
+
+"I don't see anything," he answered as he drew his head back in. "I thought I sensed something, though."
+
+"Do you think something's following us?" Jerric asked, tense.
+
+"Something's definitely following us," Ambrose said grimly. "I just don't know what it is. I'll check it out."
+
+He dipped into the arcanic sea and allowed the trailer to speed away, so that his consciousness lingered on the road behind them. But instead of staying there, he sent his mind hurtling upwards so he could catch more of the land in the sweep of his senses, sacrificing detail for distance. The ambient arcana was definitely showing signs of disturbance, but it was already settling down into a state of equilibrium. Out here in the middle of nowhere, there was nothing else except the gentle touch of the Spires, their coverage blanketing the arcanic sea with silk-like delicacy.
+
+Something flickered at the edge of Ambrose's perception, like a fin breaking the surface of the water only to slip away without leaving so much as a ripple.
+
+He was momentarily seized with indecision and fear. There was no strong impulse to fight or flee — Prophecy was leaving him without overt direction. A part of him wanted to stay and challenge their unknown pursuer, but there was something viscerally terrifying about the glimpse of it that set his teeth on edge.
+
+What would Caden do? he asked himself.
+
+He dithered for a few more seconds, but there were no further perturbations. He could feel the trailer growing further and further away as the mental tag he had placed on it slipped into the distance.
+
+Caden would protect his friends, Ambrose decided, and he sent his mind floating back to the trailer so he could keep a watch over it from the arcanic sea.

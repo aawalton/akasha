@@ -1,0 +1,179 @@
+---
+id: b17502ae-67d3-557b-8cac-daa0b55f689b
+page-type-slug: story-chapter-royal-road
+title: "v7v67: Seeds in the Ashes"
+slug: 0320-v7v67-seeds-in-the-ashes
+partOf: beware-of-chicken
+position: 320
+ownLength: 2113
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3550544/v7v67-seeds-in-the-ashes"
+royalRoadId: "3550544"
+---
+
+After their first encounter with the hornets, Bi De and his companions encountered them no more on their trip towards where the Blaze Bears were gathering. They travelled as swiftly as they were able, and it was good that they did, for they soon saw smoke on the horizon.
+
+“No!’ Paobu shouted, his eyes wild, and the bear accelerated into the blaze; naturally, they were right behind him. The pleasant forest soon turned into a vision of Hell. The corpses of thousands of hornets littered the forest floor in between the burning trees. Some, still alive, dragged themselves across the ground, their wings ashy nubs, while others flew in drunken patterns disoriented from the smoke. The scent of death was thick in the air.
+
+It was certainly a visceral battlefield to enter; the heat, the smell, and the screams coming from ahead added to the grim mood.
+
+Yet he and his companions had faced demons before, and knew their horrors well. They charged through the scorching heat without hesitation, reaching a clearing just in time to see the rest of the swarm gather.
+
+No words needed to be said. They combined their might and utterly destroyed their foe.
+
+But when Bi De turned to look at the Blaze Bears, he was surprised.
+
+Because there were not only Blaze Bears.
+
+There were humans too. Their skin was red from the heat, they had ash and soot all over their bodies, and some were staggering under the effects of venom… but there were humans clearly working with the Spirit Beasts.
+
+Which was surprising… and heartening. Above all else, it meant the Blaze Bears could be reasoned with, at the very least.
+
+“It appears we are just in time, Paobu,” Bi De declared. “Brave warriors of the Blaze Bears! Brother Paobu has told me of your righteous quest! We have come to join forces with you mighty warriors, and put this land to right!”
+
+With his words of victory, the weary combatants finally seemed to feel some relief. Many Blaze Bears slumped forward, while the humans collapsed to their knees, breathing deeply. The cold winds surrounding Spooks blew through the clearing, soothing their fevered skin.
+
+Ri Zu immediately began her work, tending to the wounded, while several bears approached, hesitantly at first.
+
+‘Brother Paobu, you treated with the Blaze Douser?!’ a bear asked, awe in his voice. He was a bear Bi De recognised from his time, years ago now, in Ash Forest. It was the one Yin had buried up to his waist, head first, into the ground.
+
+Paobu paused, at a loss for a moment, before he pulled himself together and stood tall.
+
+‘Yes, Brother Huofan. I found the Blaze Douser’s den, and boldly approached. I told him of the great calamity that has infested our forest, and of our defense of our home. He was most impressed by our bravery, and most concerned by the presence of the demon bees! So he now lends us his might so that we can slay them all!’
+
+His story was not quite what happened, but Bi De was fine with it. The bears looked amongst each other, then stood on their hind legs, roaring their approval.
+
+‘Haha! Brave Paobu once more proves his mettle! Facing the Blaze Douser in his own den! Brother Huishou, do you see this?’
+
+The bear called over to the injured. One of the bears, looking ragged and slumped against a tree beside Ri Zu and a human who was laying on his back, nodded. Ri Zu had a grim look on her face, but had not yet called for help.
+
+‘Is he still as mighty as when he fought us?’ Huishou asked.
+
+Bi De raised a brow and released some of his Qi.
+
+“Mightier,” Paobu replied. The bears stood in stunned silence for a moment, then roared their approval. Bi De stroked his wattles with his wing, amused.
+
+‘Then we are all together, against these demons! They won't know what—’  whatever the bear was about to say was cut off when several of Vajra’s soldiers winged down in formation.
+
+The bears, as one, recoiled. Huishou instantly reacted, fire erupting from his maw towards the soldiers… which Bi De dispelled with a flap of his wing.
+
+“Report please, ladies,” Bi De asked.
+
+The bees waggled and shook in formation.
+
+‘Enemy stragglers dispatched. Borders secure,’ the bees signed.
+
+“Thank you,” he replied. “Keep up the good work.”
+
+Huofan glared at the bees that continued to hover around Bi De.
+
+‘You say you are here to help us, yet you consort with demon bees,’ the bear snarled, glaring at the buzzing forms of Vajra’s soldiers.
+
+The bees bristled angrily, and the Blaze Bear flinched at the sound, but stood his ground, rising back up to his hind legs and ready for a fight.
+
+“Peace,” Bi De said firmly, stepping between them. “Vajra and her daughters are no demon bees. Her kind only drink nectar, eat pollen, and make honey. They were all slaughtered by the hornets you fought, and she has devoted herself to our cause.”
+
+The bear glared, still clearly skeptical, when Paobu spoke up.
+
+‘You remember, a few seasons past, when all the good honey disappeared?’ he asked. ‘The really good honey?’
+
+The other Blaze Bear paused, confused at the statement. ‘Yes?’
+
+‘It was because the demon bees destroyed all the good bee hives. She is the last one left. The lone survivor.’
+
+That seemed more comprehensible to the bears, who looked at Vajra’s swarm with new eyes. ‘And now you return for vengeance?’ Huofan asked.
+
+Vajra pulled herself from underneath Bi De’s vest. She rose into the air and into the heart of her soldiers. The bees’ buzzing changed pitch—and with her control over her hive, she made the swarm speak.
+
+‘We are the wrath of heaven upon the wicked,’ Vajra snarled, her ‘voice’ deep and resonant. ‘Compare us not to those things.’
+
+The bears began to chuckle.
+
+Huishou looked at the bees with an appraising eye.
+
+‘Huofan… coordinate with them. It looks like we have a swarm of our own.’
+
+===========================
+
+And thus they were accepted into the fold. The Blaze Bears laid out crude maps of the hornets’ territory boundaries, which Bi De did his best to translate to his own map, a much more detailed one. Tigu had given them all copies of the maps they had of this area when she had last been home.
+
+The sheer extent of the territory was concerning.The near entirety of Ash Forest was now under the hornets’ control. That was over two hundred thousand square Li to search… and that was just surface area. The Ash Forest had many steep inclines, ravines, and places to hide.
+
+If they didn't find the hornet queen, she would just build up again in some hidden corner and launch more raids. Culling the drones’ numbers would help, but it was not a solution.
+
+However, their strategy meeting was soon cut short. All of the bears were exhausted and hungry, and all of the humans were too, so Yun Ren began preparing a meal. After his friend got out all the ingredients, Bi De assisted him, and when Ri Zu was finished with her patients, she came over as well.
+
+At first, the humans had been very hesitant, and clearly bewildered about the chicken in their midst, so Bi De turned into his own human form to help them be more comfortable. That, and the smell of food quickly soothed them. Soon, all the men, women, and children were seated around a roaring fire, eating the bounty of Fa Ram.
+
+As always, it was a pleasure to witness those eating their food for the first time. The bears gorged themselves, and the humans made noises of the utmost pleasure—which only increased when Bi De brought out the honey.
+
+‘The Ancestors said bees are bees! They buzz, and their nests hold tasty treats! But there are heavenly bees, and hell bees! This much is clear!’ Huishou roared. There was sticky residue all over his lips.
+
+The other bears nodded eagerly. Vajra wiggled in a way that indicated disdain for the bears… but there was a certain amount of smugness in the gesture.
+
+“Humans call the little ones who produce honey bees; those that hunt and eat flesh are hornets or wasps,” the human spearman, Baolin, explained.
+
+‘Hmmm! Sometimes humans say smart things, like this little brother here!’ Huishou said, patting the man on the shoulder. Baolin fell over from the force of the blow. ‘Ah.’
+
+Baolin pushed himself up, waving that he was fine.
+
+Bi De chuckled. “How exactly did this arrangement happen?” he asked.
+
+‘Yuhuo tells it best. Tell them, Yuhuo!’ Huishou commanded.
+
+And so they listened to how a village of humans came to be within the middle of a pack of bears.
+
+While the circumstances around the event were rather horrifying, the way it was told was quite amusing.
+
+‘And then we stole them too,’ Yuhuo said, his voice matter-of-fact. The humans were gaping at the tale—which Baolin translated for the rest of them. It was their first time hearing the bears’ side of the story.
+
+“You know, I can’t even say that wasn’t what happened,” one of the villagers muttered. Several of them laughed incredulously. “We got stolen by bears!”
+
+“Don’t the northern tribals steal their brides? Are we all bears’ wives now?” another man asked, shaking his head.
+
+The rest of the humans laughed, and when the joke was translated for the bears… they too began to roar with laughter.
+
+‘You’re too small! I think you’d break!’ Huofan shot back.
+
+The villager’s eyes widened. “Hey, I understood that one!” he said, and the bear also recoiled in surprise. This provoked more japes and taunts. The children and bear cubs, full and happy from the honey, started to wrestle each other. Yun Ren took some recordings, while Spooks looked on with amusement.
+
+“Um… Master Cultivator?” Baolin asked. He looked rather nervous to be addressing Bi De. He gave his attention to the man, who shuffled his feet. “Is this… is this really okay?”
+
+Bi De understood what the man meant. Humans and Spirit Beasts were natural enemies. Everyone ‘knew’ that. And yet here they were, talking and joking with the ‘savage beasts’ like they were equals.
+
+“That…is for you to decide,” Bi De said after a moment. The man blinked, surprised at the permissiveness. He supposed the man expected Bi De to command him, to tell him and his people what they should or should not do. “Understanding is a long road that may lead either to pain… or to some of the greatest and long-lasting friendships one can have. It will be what you make of it. If you want to try to stay with them, that is your choice. If you wish to leave, and forget all this ever happened, we will escort you to safety, so that you may live amongst other humans.”
+
+Baolin chewed his lip. He turned back to the fire, where the bears and several villagers were dancing around it—with a dance that looked like a growing tree.
+
+‘You humans know that dance?!’ one of the bears demanded.
+
+“Yeah, we dance it every solstice. We were taught it by a great empress, according to the old folks. It's tradition. Like our chief is the 74th Xiong Shu. I know that a few other villages and towns do it, too,” was the reply.
+
+The bears nodded amongst themselves. Their cubs and the human children were chasing each other about.
+
+They had all fought together, all bled together. And that had a certain way of breaking down barriers.
+
+“I think that Shady Glade is our home. We’ll do everything we can to help take it—and all of Ash Forest—back,” Baolin said after a moment. His eyes were filled with resolve.
+
+And a tiny fire in his stomach sparked and ignited.
+
+Bi De paused, feeling the golden stove in the man’s stomach begin to burn. A small smile came to his face.
+
+What an interesting development.
+
+It was merely one village, and a few bears. And yet… he felt it would have far-reaching consequences.
+
+“Rest well, everyone. Tomorrow… we can begin our offensive,” Bi De called out.
+
+The bears roared. The villagers cheered. Varja’s soldiers buzzed with anticipation.
+
+Then he turned to Huishou. “Brother Bear! May I ask how your cubs learn to control their cultivation?” The bear blinked.
+
+‘Why, we just—’ he paused and looked to Baolin. ‘Oh?’
+
+“Should a Big Brother not teach their junior?” Bi De asked.
+
+Baolin paused, looking confused. The bear grinned.
+
+‘Let’s see if we can get a human to breathe fire,’ Huishou said.

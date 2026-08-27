@@ -1,0 +1,153 @@
+---
+id: b461599e-9006-5eaf-8339-8e0a0a07cea6
+page-type-slug: story-chapter-royal-road
+title: "v6c33: Blessings on the New Year"
+slug: 0221-v6c33-blessings-on-the-new-year
+partOf: beware-of-chicken
+position: 221
+ownLength: 1815
+unit: words
+ownProgress: 1815
+publishedAt: 2025-06-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2338914/v6c33-blessings-on-the-new-year"
+royalRoadId: "2338914"
+markedReadAt: "2026-06-29T18:58:56.895Z"
+---
+
+The world felt odd. Like it was spinning. Xiulan felt something strange in her chest. Meiling, who had been in the middle of washing Tigu’s hair, turned at the words. Her shock was clear. Ri Zu and Pi Pa, who had been talking about the celebrations, similarly froze.
+
+Xiulan’s words broke through the haze of drunkenness;  Bailu’s eyes widened, and then a small grin formed on her face.
+
+“Ah! Xiu lan,” Bailu enunciated the parts of Xiulan’s name, Beautiful Orchid. “So you’re her little orchid!”
+
+The words again resonated with Xiulan. It was her mother’s nickname for her. Little orchid.
+
+The names matched. Her mother had joined Soaring Heaven’s Isle Sect after she left. Xiulan sat down on one of the benches, her eyes wide.
+
+Her mother was alive. It had long been a quiet hope of Xiulan’s. It had been over a decade since her mother had left Xiulan’s life with a soft smile, continuing her cultivation journey.
+
+Her memories of that time were bittersweet. Her mother had loved her and her father, but they could not join her journey to immortality. They would have only been a millstone around her neck. They were of the Azure Hills. To journey from their own province would have been a death sentence. Slow, weak, never getting past the Profound Realm. Yangtze Liusei had enemies—Xiulan’s father had found her near death after being struck from Yellow Rock Plateau, her body covered in blade wounds.
+
+It had been best, in her mother’s mind, for them to remain. For them to be safe in a quiet pond.
+
+Back then, Xiulan hadn't wanted to be safe. She wanted a return to those nights, laying on her mother’s lap and eating moon cakes. And if she was too weak to have her mother, then she just had to be strong.
+
+Xiulan had thrown herself into her training. She had latched on to the stories of old heroes. She thought she would be the one to surpass all others. The one to break the cycle.
+
+She hadn’t been. For ten years, that had been the case. When she wasn’t a transcendent talent, she didn’t stop. She couldn’t stop. If she couldn’t be strong, then at least she would be righteous. A hero who always fought against impossible odds, who never compromised with the wicked and triumphed anyway.
+
+And if she could not be a hero, then at least she could be a martyr.
+
+It wasn’t something truly conscious, but it had been there. Xianghua had recognised it, even though Xiulan herself hadn’t truly known… or rather, tried not to think about it. She clung to duty and righteousness like a bandage over a wound.
+
+It was why the death of Sun Ken had affected her so. Why the false praise had eaten at her. It had been a betrayal of a core part of her life, to be strong enough to never be a burden. To be a real hero.
+
+Yet her obsessive path had yielded no strength. It was only here, because of Jin, Meiling, Tianlan, Bi De, Tigu… only when she had finally let go, finally lived, that true strength had come—that true clarity had come. When she finally stopped imitating the idea of heroism, and started to see the lives around her, connected to her, as all things were.
+
+There was a certain sort of irony, that when she finally stopped chasing the ghost of that bittersweet smile, that she could finally stand beside it.
+
+And now, here her mother was again. Who remembered her. Not just remembered her, but actively spoke of her to others, if these two knew about Xiulan’s nickname.
+
+What kind of things did she say? Did she speak with disdain? Did she speak with regret?
+
+Xiulan didn’t know what to do. What questions should she ask? Both Bailu and Seiyu were looking slightly worried at Xiulan’s silence.
+
+Another body pressed in beside her. Meiling claimed her seat, her shoulder bracing against Xiulan’s. The presence calmed Xiulan’s racing heart, just ever so slightly.
+
+Then Bailu broke it, her voice no longer slurring. “Have you gotten any letters?” she suddenly asked.
+
+The abrupt question was a shock to her system. A letter from her mother?
+
+“No, I have not,” Xiulan barely managed to force out.
+
+Bailu let out a little sigh, and plonked on to the seat on Xiulan’s other side.
+
+“That's quite good, then. Liusei will be pleased,” Seiyu said with surprising gentleness. At Xiulan’s questioning look, Seiyu smiled. “A year ago, we caught her drinking and sighing wistfully while staring to the northwest. She didn’t even have the heart to scold us when we started drinking her wine and eating her snacks.”
+
+“Liuliu was real sad, y’see! But we got her talking,” Bailu continued. “She was sad, because she hadn’t heard any response from the letters she had sent. She was wondering if her letters never made it… or if her little orchid just no longer wanted to speak with her.”
+
+…her mother hadn’t forgotten her. Her mother had been trying to contact her. To contact them. But one thing didn’t add up.
+
+“Why letters?” Xiulan asked, her voice a whisper. The faeries of Soaring Heaven’s Isle could ride the winds as they pleased. If she had wanted to visit after all these years, she could have.
+
+“Don’t know. She never said why,” Seiyu said with a shrug. “But she has been trying to contact you.”
+
+Xiulan knew not to what end. But there was still a connection. It saddened her mother that Xiulan might not want to respond.
+
+“Is she… doing well?” Xiulan asked.
+
+Small smiles returned to the Storm Wings’ faces. “Ah, Liuliu is fine! She was in the Spiritual Realm last we met…”
+
+Xiulan listened raptly to the story. She was lucky that Bailu and Seiyu were so unlike what she imagined a cultivator of the Isle to be… but then again, Xiulan herself was hardly the picture of orthodoxy herself.
+
+It was surreal hearing tales of her mother from others’ mouths. But Xiulan recognised her. The way Bailu and Seiyu scrunched up their faces, trying to imitate the strange expression her mother had when she found something annoying. The turns of phrase. The way they said she occasionally sang a song they didn’t recognise, but Xiulan did. A song her father sang, on moonlit nights. Softly, almost like a whisper.
+
+Xiulan found herself smiling. Meiling’s hand squeezed her own.
+
+Her mother was alive. And that was enough.
+
+The Storm Wings promised they would carry a letter of Xiulan’s choice to her.
+
+The bath passed by almost too quickly, and then they went back into the house, where the boys were playing a game Jin called twister, the men a tangle of limbs and cursing each other.
+
+Xiulan’s smile widened. Tigu, a mischievous look on her face, jumped on top of the men, using them like training poles, hopping from limb to limb and trying to unbalance them, until they went down in a pile.
+
+Gou Ren caught her by the leg when she tried to flee, and the game turned into a scrum of laughter and shouting.
+
+Xiulan shook her head at their antics… but didn’t feel like joining in at the moment. Instead, she went to the roof.
+
+She loved the roof. It was here where she had first been enlightened. Here, where she had first learned about her connection to the world.
+
+For a while, she just sat, staring out over the snow-covered landscape, listening to the joy and celebrations before her. Music started up again. Firecrackers spat and barked. Gou Ren started singing as badly as he could, his voice booming out purposefully discordant along with Xianghua. Spooks added his own bellows, and Huo Ten his shrieks and hoots, making a hilarious cacophony.
+
+Xiulan’s smile widened. She took a deep breath of the winter air, letting it fill her lungs. Below her, Bi De shut them up with annoyed shouts, and then he started singing.
+
+“Friendship lasts forever, as the earth and sky.
+
+How can I forget old time's friends?”
+
+His voice was utterly beautiful, rising into the air. The notes resonated across the snow, perfect in pitch, and full of passion. It was Jin’s song. The song he sang at the town square in Verdant Hill but a few hours ago. He was joined by one, then another.
+
+“We once all day wandered in the blue mountains of our hometown; we too, have been through hard times…”
+
+Tigu’s smoky voice came next, tuneful and heartfelt. Ri Zu’s higher pitch complemented her perfectly. Chun Ke’s voice was a bass rumble, powerful as the earth; Pi Pa’s was just as strong, and they had to keep themselves in check, or they would overpower the rest.
+
+How can I forget old time's friends?
+
+Wa Shi’s voice was surprisingly beautiful, belting out and trying his best to fill the range between Pi Pa and Chun Ke. Yin’s voice was pure and sweet, rising to nearly Ri Zu’s level. Gou Ren, when he wasn’t trying to be annoying, had a very nice voice... as did Xianghua. Yun Ren swapped between deeper and higher, his range massive. Biyu tried her best, her enthusiasm making her sound good. Delun, Rags, and Loud Boy somehow managed a perfect harmony, all three of their deeper voices blending wonderfully. The Torrent Rider was nearly as good as his master, and Shaggy Two howled his little heart out. And in the background Shen Yu and Bei Be hummed along with them all.
+
+"Let's raise a cup and heartily drink; friendship endures while the world lasts!"
+
+And then there was a voice behind Xiulan. Deep and strong. She opened her eyes and smiled.
+
+Jin and Meiling settled on either side of her. Jin winked at her, and handed her a cup of mead.
+
+How can I forget old time's friends?
+
+Meiling always said her voice was nothing special, but Xiulan had always found her voice wonderful. She could hear Tigu in Meiling’s voice, deeper than most women and with a hint of smoke. Meiling bumped Xiulan’s shoulder with her own.
+
+“Friendship lasts forever, as the earth and sky.
+
+How can I forget old time's friends?”
+
+Xiulan finally joined her voice in the chorus. It slid in to the voices already assembled like it belonged.
+
+“Friendship lasts forever, as the earth and sky.
+
+How can I forget old time's friends?”
+
+Jin raised his cup. Meiling did the same, and Xiulan’s rose last.
+
+Last year had been a tempest, and this year seemed to be just as busy… but Xiulan was looking forward to the challenge.
+
+The Azure Alliance. The Demons. Her mother. Come what may… it would turn out alright.
+
+Xiulan would make sure of it.
+
+The sun broke the horizon.
+
+The song ended.
+
+“Blessings on the New Year!” came the roar.
+
+And what a New Year it was.

@@ -1,0 +1,235 @@
+---
+id: e90e7d4f-0d71-5dd4-b94b-2082b2022d6e
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 9 - Treasure"
+slug: 0013-b3-chapter-9-treasure
+partOf: bookbound-bunny
+position: 13
+ownLength: 2148
+unit: words
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3076913/b3-chapter-9-treasure"
+royalRoadId: "3076913"
+---
+
+"Hey, I think I found something!" Lotte yelled out.
+
+The group was looking through the smoldering remains of the spider eggs to see if anything was left behind. According to their lessons, there was a good chance of there being a treasure of some sort if it was a major nest.
+
+Lily arrived first and quickly cast a small water cleaning spell where Lotte pointed, washing away the ash and revealing something sparkling in the sunlight.
+
+"Wow, it's actually a treasure?" Lily gasped in surprise.
+
+"I told you so," Lotte boasted.
+
+Lily carefully lifted the object with telekinesis, revealing that it was a small dagger. The two girls frowned at the item while Thomas arrived to witness its unveiling.
+
+"A weapon? Now that's a surprise," Thomas said.
+
+"I wonder if it's magical?" Lotte asked.
+
+Lily glanced at it with her Magesight, revealing a faint aura off the blade. "I think it has a small enchantment."
+
+"I hope there weren't other treasures that got burnt up in the fire…" Lotte sighed.
+
+"Yeah, that would be a bummer," Thomas agreed.
+
+Lily frowned. "You two said it was a brilliant idea!"
+
+"We're only teasing," Lotte replied, playfully sticking out her tongue.
+
+Lily pouted before returning her attention to the dagger. "So who wants it?"
+
+"Well, you burnt the webs," Thomas pointed out.
+
+Lily shook her head. "I don't want a dagger."
+
+"Can't see much point in it either," Lotte agreed.
+
+Thomas shrugged. "I'll take it then. If it's useless, we can sell it and split the profits."
+
+Lily and Lotte both agreed, and after the blade cooled down enough, Thomas took it. Lily glanced at Arakil, wondering if he could correctly identify the item.
+
+[The blade cleans and sharpens itself over time. A very minor enchantment.]
+
+Lily silently thanked him for the explanation, although it still didn't interest her. Meanwhile, Thomas was gripping the handle tightly and even made a few mock swings before he safely pocketed it.
+
+They vacated the area since it was still uncomfortably hot, and took the opportunity to take a short break. Lotte was feeding Jade, Thomas was examining his dagger, and Lily paged through her book on runes, seeing if there was anything less explosive that could be used.
+
+After that, they continued exploring while ensuring they knew the direction back to their camp. The group encountered a roaming boar monster and decided to take it out with a group ambush.
+
+They carefully snuck up on the dire boar and, when their spells were ready, unleashed them as a group. Stars exploded, lightning crackled, and poison hissed as it struck the monster. However, it wasn't a roaming monster for nothing, and it survived the onslaught.
+
+The boar charged, threatening the group with its vicious tusks, and they spread out to distract its attention. From there, they took turns luring the monster to each of them, which was working wonderfully until Thomas was grazed along the arm.
+
+Seeing her friend in trouble, Lily pulled out a few talismans and held nothing back. A barrage of prepared spells went off instantly and claimed what remained of its life.
+
+"What happened?" Lotte asked.
+
+"I tried to stab it with the dagger," Thomas admitted, looking a little foolish.
+
+"Why did your Ward not trigger?" Lily asked, looking very concerned.
+
+"The blow wasn't hard enough to trigger it," Thomas explained. "A good thing too, otherwise I might have lost points for having it go off."
+
+"A good thing, you're bleeding!" Lily cried out.
+
+"Yeah, but don't we have plenty of salves and potions?" Thomas asked, turning to Lotte.
+
+"Yeah, we do," Lotte said, opening her bag and looking inside it. After a few moments, she pulled out a tin and handed it over to him.
+
+Lily still looked unhappy. "That's…"
+
+"Why else did we prepare for this?" Thomas replied, taking it very well.
+
+"Sorry, Lily, I agree with Thomas here," Lotte pointed out.
+
+Lily could only sigh. If she had her way, nobody would be hurt at all. She even recalled the dumb look on Rose's face when she came back with scratches and bites from the wolf pack she wrestled with.
+
+"Hey, this stuff really works!" Thomas said excitedly, his arm lathered in the ointment.
+
+"Of course! I'm not an assistant for nothing," Lotte said smugly.
+
+"I thought you said you only got in thanks to Lily," Thomas teased.
+
+"Well, it's definitely thanks to her tutoring," Lotte quickly admitted.
+
+"I might have got you in the door, but you've been putting in the effort," Lily replied.
+
+"Aww… Thanks," Lotte smiled. "As long as you're still willing to handle the complicated stuff."
+
+"Sure, for now anyway," Lily replied.
+
+"Yeah, we've gathered quite a few supplies, so you can start practicing," Thomas chimed in.
+
+"Alchemy out here?" Lotte asked.
+
+Lily nodded. "Why not? Did you not bring your tools?"
+
+"I did…" Lotte admitted. "It feels like a waste not to, with all the free space in my bag."
+
+"Great. When we decide to have a quiet day, you can do some brewing then," Lily said.
+
+"Really? We're in the dungeon, shouldn't we spend all of our time exploring?" Lotte questioned.
+
+"Now it's my turn to say sorry," Thomas chuckled. "I agree with Lily, we should have a stay at camp, a day or two. Especially if we are planning to stay as long as possible."
+
+"Why?" Lotte moaned.
+
+"Because as fun as exploring is, I don't want to give up my spellcasting practice," Thomas answered. "Now that we are in the dungeon, I can practice some of the more dangerous parts without needing to worry about damaging my room."
+
+"Same," Lily agreed. "I can't exactly use explosive runes in my room."
+
+"I'm feeling very betrayed right now," Lotte sighed. "But I get the point. We can do more than just fight monsters and look for treasure down here."
+
+"I'm sure there will still be plenty of time for that," Thomas chuckled.
+
+After confirming that Thomas' minor wound was patched up, the group continued exploring. After the excitement from the spiders and the dire boar, they opted to keep a lower profile and avoid any further encounters. As the sun set, they began the trek back to their campsite.
+
+"Looks like everything is safe and sound," Thomas said when they arrived.
+
+"Great, my feet are sore…" Lotte groaned, falling on her backside and promptly kicking off her boots.
+
+"And to think just moments ago you said you didn't want to do anything but exploring," Lily pointed out.
+
+"Yes, yes, I know… I'm a hypocrite," Lotte replied, blowing a raspberry with her tongue.
+
+Each of them began settling down, each minding their own business until it was time for supper. Lotte was simply recuperating, while Thomas was investigating his dagger a bit more. Lily took some time to check that all the glyphs were still in place before she also began to relax.
+
+"So we just need to survive tonight, and we pass the test, right?" Thomas asked at dinner.
+
+"I think so," Lily answered.
+
+"Honestly, it feels simpler than I expected," Lotte added.
+
+"Well, this is just the bare minimum pass, remember?" Thomas recounted.
+
+"True…"
+
+"I wonder how Hana and Arthur are doing," Lily said.
+
+"Can't be better than us," Lotte said confidently.
+
+"Camp-wise, no, but both of them can cover a lot of ground," Thomas explained.
+
+"Damn, I forgot about that," Lotte groaned. "If they find more treasures than us, I'm gonna be upset."
+
+"Then we just need to outlast them," Lily declared.
+
+The three of them nodded in agreement.
+
+When they finished eating, Thomas and Lotte asked Lily to draw the lens again. She happily did so, and the two began trying to recreate it again with their Mana.
+
+Seeing their fast progress, Lily couldn't help but feel a tiny bit jealous. Unfortunately, she didn't have such a clear representation for her practice, so she had to go through it somewhat blindly. Arakil couldn't even talk back then, so their communication effectiveness was also strained.
+
+While they worked on their Magesight, Lily added a few extra additions to the campsite. The first was hot water, and, at Lotte's request, she added one inside their tent so she could wash up.
+
+Lily ended up retaking the first watch, which she spent focusing on her Lunar Radiance spell rather than glyphs. Seeing Thomas' progress with lightning had reminded her that she couldn't afford to slack on her spellcasting, even if she was enthralled by drawing.
+
+Once again, they had a peaceful evening, and the next morning the group decided to take a day off from exploring. Lotte pulled out her alchemical tools, and Lily drew her a few glyphs, with instructions on how to properly utilize them.
+
+Thomas stood on the outskirts of the camp practicing his lightning magic, and when Lily overheard them, she was shocked at how long and complex they had become.
+
+Definitely not something you can just freely cast in the heat of the moment.
+
+The result was also quite destructive, and it seemed Thomas had trouble directing it at his intended target. The chaotic lightning tore up more of the ground than the tree he was focusing on, and Lily couldn't help but imagine it destroying his room.
+
+"I can see why he wanted to practice in the dungeon," Lotte said with a chuckle.
+
+"Aren't you the same?" Lily asked.
+
+Lotte paused for a moment and then nodded. "It's definitely not a good idea to practice my offensive magic inside a room. I suppose when I finish brewing, I should also find myself a tree to abuse."
+
+Since they had the perfect opportunity in the dungeon, Lily was also a little more reckless than usual. She was testing the upper limits of her Starburst, something she'd avoided for obvious reasons.
+
+After spending a good hour or two testing, Lily thought she had a good idea of her current limits. If Lily cast it normally, she could summon eight stars instantly. She was pretty confident in this number, unless she had been astonishingly unlucky throughout this testing.
+
+However, if she took her time to chant, which boosted the effect, she could nearly reach a dozen! A fifty percent increase at the cost of time was well worth it, if the opportunity permitted.
+
+The randomness is still quite excessive, though. I can understand why Arakil warned me about this. Hopefully, once I get Lunar Radiance in my pocket, I can stabilize the results.
+
+After spending almost the entire day in independent training, they decided to come together as a group for a bit of light exploration at the river. It was close to their territory, and at the same time, they could confirm that none of the frog monsters escaped.
+
+They weren't planning on staying out too late, but in the interest of caution, Lily handed the two of them each a vial of night drops. Even if they didn't use them now, it was better that each had them readily available.
+
+The group followed along the river, with Jade acting like their bloodhound in search of frog spawn. Yona was looking particularly grumpy about the affair, as between the frogs and spiders, she hadn't had much opportunity to snack on monsters. The boar in particular was destroyed entirely, so even that opportunity was taken from her.
+
+Plus, I bet she hates the water. Lily giggled to herself.
+
+Their exploration of the river was, regrettably, uneventful, earning them only some cardio after a relatively sedentary day around the campsite.
+
+"When are we going to do our night trip?" Lotte questioned.
+
+"Hmm… What about the day after tomorrow?" Thomas suggested.
+
+"Why not tomorrow?" Lotte asked.
+
+"I don't want to spend another day sitting around," Thomas admitted.
+
+"You're the last one I expected to hear that from," Lily teased.
+
+Thomas chuckled, scratching the back of his head. "I want to try out some spells on monsters as soon as possible. I found the trees oddly evasive today."
+
+"Hah. Good joke," Lotte replied, rolling her eyes.
+
+"No, I'm being somewhat serious," Thomas rushed to explain. "When targeting monsters, I find that my lightning is almost drawn to them."
+
+"That's weird…" Lotte murmured.
+
+"Maybe it's drawn to the monster's Mana?" Lily reasoned.
+
+[That's partially correct. There's also your intent behind the spell influencing its trajectory. It's easier to visualize striking a foe than a harmless tree.]
+
+"I guess that makes sense," Lotte replied, obviously not hearing Arakil's extrapolation.
+
+"Anyway, what do you think?" Thomas asked.
+
+"I don't mind," Lily replied.
+
+"Sure. Maybe we can follow the river more tomorrow and see where it leads."
+
+"Sounds good to me," Lily agreed.
+
+Thomas bobbed his head in acceptance, and the group headed back to their camp. Now that they'd assured they'd passed the minimum of this test, they could be a little more risky in their exploration.
+
+Hopefully, we find something better than a dagger.

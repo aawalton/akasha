@@ -1,0 +1,215 @@
+---
+id: 2144a8d9-ea2d-5585-a3d9-82759f7711b3
+page-type-slug: story-chapter-royal-road
+title: "v5c51: The Cleanup Begins"
+slug: 0157-v5c51-the-cleanup-begins
+partOf: beware-of-chicken
+position: 157
+ownLength: 2445
+unit: words
+ownProgress: 2445
+publishedAt: 2024-10-16
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1852521/v5c51-the-cleanup-begins"
+royalRoadId: "1852521"
+markedReadAt: "2026-06-29T18:56:41.124Z"
+---
+
+Peppa’s eyes were still wet when she pulled away from the hug. She was hurting, and I had a feeling it had to do with what happened to Chunky. He had a nasty puncture wound, but his eyes were shining with life. He did look a bit worried about Peppa though.
+
+I wanted nothing more than to clear the air, to talk to her, to fix what was hurting her, but I felt like that's not what Peppa needed right now.
+
+Some people needed time to just sit and process things. Peppa, however... I think she needed something else. She was like me in that way. When we were stressed and hurting, we needed a distraction at first. And for Peppa? I think she needed to feel like nothing had changed, that she was in control of at least something—and there were things that needed to get done
+
+“Peppa? I need your help.” She practically snapped to attention, her eyes wide. “We have a bunch of injured cultivators up north. I need you to get together aid kits and prep things for at least thirty people. Can you do that for me?”
+
+“Ah…” she whispered. Some of the haziness lifted from her pale blue eyes, but she hesitated.
+
+Chunky oinked from beside us and Peppa flinched, immediately looking to make sure he was okay. He smiled up at her.
+
+‘Chunky okay. Wife do what wife do best. Very good at helping others.’ His voice was strong. Peppa’s fingers traced along the scars on his face. ‘Chunky is fine. Not like last time.’
+
+At those words Peppa sucked in a shuddering breath. She clenched her skirt in her fists for a moment… and then rose.
+
+“Yes. Yes, I know what to do. We need satchels, and bed rolls, and pillows…” she trailed off for a moment, clearly deep in thought.
+
+It was a stopgap for now, until we could talk properly. We’d keep an eye on her, just in case.
+
+“There we go. That should be good. Rest for a little more, and you tell me if anything changes, okay?” Meimei said, and patted Chunky on the side. The boar oinked in affirmation, and Meimei leaned back onto her haunches. She grimaced and clutched her stomach for a moment.
+
+“You okay?” I asked her. She let out a breath, and straightened up.
+
+“I’ll be fine. It's just sore,” She replied, before her eyes fixed pointedly onto my arms. “Besides, I have more work to do.”
+
+I looked down at my arms. Honestly I couldn’t really feel them anymore… and was trying to avoid looking at them. They had massive, deep rents in them, to go along with the fact that both of them were missing most of their skin. The only upside was I wasn’t bleeding anywhere… but the fact that my body looked more like cracked and pitted stone than flesh was strange.
+
+If I hadn’t been a cultivator, both of my limbs probably would have been write-offs. As it was…. They still moved pretty fine?
+
+The rest of my body wasn’t that bad. Hell, one of my cracked ribs was already sealed back together!
+
+Meimei quickly pushed several pots filled with medicinal herbs and sludgy looking water off to the side—the poison she had drained from Chunky, I guessed, and settled down beside me.
+
+Her soothing Qi filled me, and sparkling medicine was applied to my wounds. The good news was that it felt really good. The bad news was that the pain came back.
+
+The worst news was that instead of sealing everything up… the skin didn’t heal, and neither did the cracks.
+
+Meimei frowned heavily. “This… is going to take a while.” She murmured. “Its not a normal wound. It's… Spiritual? I think?”
+
+“Tianlan said using those techniques without her help, and without the proper knowledge was a risk.” I replied.
+
+Meimei’s amethyst eyes met my own, full of worry. I could barely feel where her fingers pressed into my skin.
+
+I knew she wanted to ask me to rest. To pause… but we still had too much to do. My arms still worked. As long as I kept Qi use to a minimum, I should be fine.
+
+“I’ll bandage these up.” She told me, and got to work. Strips of silk, impregnated with medicine and some of Vajra’s wax, were wrapped around my arms, from the tips of my fingers to the elbows.
+
+At the end, Meimei lifted my bandaged arm, and kissed the back of my hand.
+
+“We won.” She murmured.
+
+“We won.” I agreed. The moment lingered. The relief… and the hollow feeling in my stomach settled. And then, I asked what I needed to ask. “Are you okay with some more patients? I don’t think we should just leave them out in the snow…”
+
+My wife nodded. “I’ll come with you. You said one of them had a worm in their head?”
+
+I pulled out the vial. I was somewhat surprised it hadn’t shattered. Meimei’s eyes narrowed when she saw the little creature within.
+
+The vial was safely stowed away and we got ready. I brought out the cart out of storage so we could, hopefully, transport everybody. Peppa had already gathered everything by the time we were ready to go—blankets, pillows, and bedrolls prepared to receive injured guests. Chunky limped along beside her, keeping close to her legs.
+
+…we would all get through this, together.
+
+=============================
+
+And so… the work began again. After fighting for most of the night, we had more hard labour ahead of us.
+
+We transported the Shrouded Mountain Sect Members back home—all of them still out cold. Meimei’s paralytics were no joke. Thankfully, most of them were relatively uninjured, at least for cultivators. Still, we would be going through a bunch of medicine to care for them.
+
+After that was done… we took stock.
+
+Thankfully, due to our decision to build the fortress quite far back, there was barely any damage to the main house. One of the upper windows was broken from a flung rock, but otherwise the it was fine… as were the animals. They were spooked to hell, but the cows and the sheep settled down under my words and touch.
+
+The worst damage was to the surrounding forests. There was a massive swathe of trees that were just dead—including part of our maple grove.
+
+Most of the other things were an easy fix, but this… this was a loss. The place was poisoned, and though Meimei had blunted the worst of it… we needed to somehow clean it up.
+
+So we catalogued everything… and worked on the last part.
+
+The gruesome part.
+
+I made sure to keep Peppa, Chunky, and Noodle away from this. I would have told Tigu to go too, but she had already started helping.
+
+I hated that this was even something that needed doing.
+
+We had to stack all the bodies together. There were hundreds of them. Hundreds of monsters with black chitin sticking out from their ruined flesh. They stank to high heaven and made my stomach roil… which also highlighted just how many of the fuckers had come to attack us.
+
+I sighed when I saw the number of corpses. One of my memories of Crimson Crucible City flashed through my mind. I remember the despair I felt back then, seeing all those bodies; the people ravaged by plague and consigned to mass pyres.
+
+…No, I would not give into despair. This would be fixed, all of it. Some spots would never be the same… but they would be repaired.
+
+This attack would change our home. It would scar it. But instead of remaining something ugly…I would make it all the more beautiful, for having survived.
+
+I just hoped the others were doing okay, and that nobody else had been hurt too badly.
+
+==============================
+
+The sun had risen, yet Hong Xian the Younger still danced. The drum still thundered.
+
+He was exhausted, his legs felt like lead, but still he danced.
+
+Normally, everyone would have stopped already. They would have paused, would have taken a break, but still they danced.
+
+It was quiet now. The land no longer rumbled, but the tension was still unbearable, so they kept dancing. They kept hoping.
+
+A draconic roar cut through the thundering drums. Xian’s heart leapt into his throat. Bowu’s arms finally paused, a stricken look on his face. The old crone and her husband rose to their feet, their eyes full of worry.
+
+Wa Shi coming meant things had gone wrong. Murmuring began again. The terror, quieted by the flame, began to stir.
+
+Wa Shi appeared on the horizon—yet his flight was unhurried. He twisted and leapt through the air. He had scabs all over his body, his mane was singed, and his flight was slow, but he seemed unworried.
+
+Wa Shi roared again. It was not a roar of desperation or warning. Instead, the dragon bellowed his triumph as he descended from the heavens, hovering over Xian.
+
+“Everybody is alright!” Wa Shi declared. “We kicked their asses!”
+
+There was silence for a moment at his shout.
+
+“Yeah!” Quiet Liu shouted, her voice echoing off the buildings. “Woooo!”
+
+The dam broke. The village erupted into pandemonium.
+
+Xian’s legs turned to jelly as he collapsed onto his butt. His father did much the same, his hand over his heart. The rest of the kids ran at the dragon when he touched down and threw themselves onto his body.
+
+Ty An and Bowu hugged each other, jumping up and down. They pulled back and stared deeply into each other's eyes…and then they headbutted each other for some reason. Both of them staggered backwards holding their lips.
+
+Then they started shouting at each other, and then Bowu pushed Ty An’s back against the edge of the Azure Express and mashed his lips against hers.
+
+Oh.
+
+They both fell off the train and just kept going.
+
+…gross.
+
+Xian flopped backwards onto the seat of the Azure Express.
+
+“And then, naturally, this Wa Shi outsmarted the demon’s strongest ally! I figured out his barrier with a single glance, and defeated it with ease! You should have seen his face, and how he begged for mercy and groveled at my feet for daring to raise his hands against me!” Wa Shi boasted.
+
+“But if you beat him that fast, what are these from?” one of Xian’s friends on Wa Shi’s back asked, obviously referring to the scarred scales.
+
+The dragon choked slightly. “He got only a single blow in! Surprise! It was the only way he could even touch me, but I stood my ground! I retreated not a single step!”
+
+Xian smiled as he listened. Wa Shi boasted about how badly the demons were defeated—and how the dragon had personally slain thousands with his guile and overwhelming power. He also mentioned how Big Bro Jin had caught a lightning bolt. He talked about how everyone had done amazing things… most of which were vague on details, but the dragon was certain their deeds were epic.
+
+“Brother Chun Ke had to have trampled ten thousand, no, a hundred thousand demons! Smashed them into paste like these glutinous rice balls! Which are very good, Miss Zhong! Very tasty. What did you do differently this year?”
+
+…which then transitioned into the dragon praising everybody’s cooking as he began to devour the mostly-untouched feast. He continued boasting even though his mouth was full of dumplings.
+
+Xian’s eyes started to close when he felt somebody hop up next to him. Small hands lifted his head… and all of a sudden he had a pillow.
+
+Xian cracked open an eye. Liu flopped down beside him and snuggled into his side.
+
+She was warm, compared to the cold air.
+
+Hong Xian fell asleep with a smile.
+
+============================
+
+The sun had been up for hours. The Lord Magistrate sat at his desk, his face stern.
+
+He was tired and sore, and felt a bit annoyed that the people of Verdant Hill were so relaxed. Him taking charge of the festival had proved more popular than expected… and now everybody wanted him to lead the dance next year too.
+
+He was too old for that, damn it! But… he had smiled and agreed, like the fool he was.
+
+His Lady sat beside him, her arms crossed.
+
+Both of them were waiting for a very late messenger. According to the bee with them, Wa Shi had apparently been dispatched hours ago with good news.
+
+The Lord Magistrate tapped his foot.
+
+The doors to the balcony opened, and a sheepish looking dragon poked his head in.
+
+“Sorry, I got waylaid for a moment,” the dragon said, his breath smelling of spices and meat. “Everything is well!”
+
+The Lord Magistrate and his wife stared at the dragon, their eyes narrow.
+
+“Waylaid?” Lady Wu asked, a dangerous smile on her face. “I’m certain it must have been a fierce foe that waylaid you.”
+
+The dragon paled.
+
+“Yes! Yes, it was truly a monstrous creature—here, these skewers from Hong Yaowu are truly excellent!” Wa Shi said, his eyes flicking around the room while he held out several skewers of meat.
+
+All of them had bits eaten out of them already.
+
+Lady Wu plucked all three from his grasp. She looked right into his beady, fishy eyes, and sank her teeth into them.
+
+“…please don’t tell Boss I got distracted by the food for two hours. I’m really tired after fighting for so long. I’m sorry,” the dragon begged shamelessly, slinking on his belly and pressing his forehead to the floor.
+
+The Lord Magistrate stared at the dragon kowtowing before him. For some reason, this didn’t feel too strange.
+
+“Young man,” the Lord Magistrate said, his voice calm. Wa Shi cowered. “We were very worried—but I suppose it is forgivable.” The dragon slumped with relief. “As long as you tell us what happened.”
+
+Wa Shi nodded rapidly. He shifted into his fish form and sat in a jar to tell his tale, for the Lord Magistrate's office was too small for his full draconic length.
+
+He got perhaps a minute in before he passed out, snoring on the edge of the jar.
+
+The Lord Magistrate and Lady Wu considered this development, before they both sighed.
+
+“I suppose we’ll get the details later,” Lady Wu finally said. “Though, what can one do to make a fish more comfortable? Should we put him in the pond outside?”
+
+The Lord Magistrate had no idea. He just wanted to sleep. Things were fine, for now, anyway. If anything urgent occurred he would be roused. He could be the Lord Magistrate again when his guts were not screaming at him.

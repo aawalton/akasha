@@ -1,0 +1,157 @@
+---
+id: 569b696f-2856-5dba-8e61-95236da9cab7
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 3 - Forest Floor"
+slug: 0007-b3-chapter-3-forest-floor
+partOf: bookbound-bunny
+position: 7
+ownLength: 2121
+unit: words
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3021235/b3-chapter-3-forest-floor"
+royalRoadId: "3021235"
+---
+
+While Alice led the group, everyone else's heads were darting back and forth, trying to take in every sight and sound. This was far beyond their expectations; it really didn't feel like they were in the dungeon anymore, and instead, it felt like they were transported to another world entirely.
+
+"Is this really the dungeon?" Lotte questioned, shaking her head in disbelief. "The sights, the sounds, heck, even the smells! It feels too real."
+
+"I know what you mean. I can even feel the heat from the sun," Lily replied.
+
+Thankfully, after her Mana core strengthened and rejuvenated her body, this was no longer too much of an issue for Lily. Much to her regret, however, it hadn't had much effect on her height as she had hoped, and it was apparent that her momentary growth spurt had run out of juice.
+
+[For all intents and purposes, you should treat this as a real forest. The plants are growing, the wind is real, and the animals are even alive. A thriving dungeon can easily maintain a handful of fully living ecosystems within itself, and considering this is a grand dungeon, well, who truly knows how much it has grown?]
+
+Lily secretly nodded at Arakil's explanation while silently thanking him. His previous explanation of dungeons had already influenced her opinion of them, and now this had only elevated it further.
+
+They continued to follow Alice, who eventually began giving some explanations to the class.
+
+"Right, now that you've seen the second floor, I'm sure you're all dying to run off and explore. For now, keep your pants on; you'll have plenty of time to do that later.
+
+"For today, we will be heading to a location to set up a main camp. Not only will this be the place you head to when you want to give up or are in trouble, but it will also let me give you all a practical demonstration of how to set up your own camps.
+
+"Tonight we will all be staying together, but tomorrow, you will all be on your own. Naturally, I'll be observing, but honestly, none of you should be in too much danger that actually requires my intervention, assuming your heads are screwed on right."
+
+Alice stopped her advance and turned around to face them. She stomped her foot, causing a tremor to ripple out and sending all sorts of critters fleeing. The students all went dead silent, understanding that they needed to listen to what she said next, or else.
+
+"There is only one rule all of you must follow: do not attack a dryad," Alice warned threateningly.
+
+"What are dryads?" someone asked first. The question was on the tip of almost everyone's tongue, as not everyone looked into monsters outside of Alice's lessons.
+
+"If you see a lone tree surrounded by a circle of flowers, do not approach. If, for some reason, you are forced into the circle, do not attack the creature that comes out of the tree, no matter what. That is a dryad," Alice explained.
+
+The explanation continued with Alice briefly describing them. Effectively, they looked like trees, roots, or other plants twisted into a womanly form. According to Alice, they would never leave the perimeter around their tree unless they were attacked.
+
+Entering the flower circle would awaken them, but they would only observe unless you attacked or got too close. Alice then further emphasized that one should never touch or harm the tree.
+
+"If you all follow this simple rule, your time here on the second floor should be even easier than the first," Alice revealed. "This is a golden opportunity to refine yourselves in multiple ways, and I hope everyone takes full advantage of this!
+
+"Not only will you get more real experience by sharpening yourselves against monsters, but you also have a unique opportunity to gather resources. I'm sure most of you have been reached out to by the various staff or students to get some of the plants, fruits, or otherwise that grow here."
+
+Alice then gave a wink, followed by a mischievous smile. "Plus… Who knows, maybe you'll get lucky and find some treasure?"
+
+Those cheeky last words caused quite a stir among the students, even though they knew the chances were low—who wouldn't want to find hidden treasure?
+
+"Do you think we can?" Thomas asked in a whisper.
+
+"Who knows?" Lotte shrugged. "As long as we win, I'm happy with any result."
+
+"We can only try," Lily said with a nod.
+
+Lily was tempted to ask Arakil if he could somehow sense treasures, although she felt like the chance was slim. When she used her own Magesight, she quickly realized that the ambient dungeon Mana made it very hard to sense anything unless it was a beacon of Mana.
+
+It's thicker than the first floor… Will it keep getting stronger the further we go down?
+
+This thought excited Lily, as if the Mana density increased with each floor, she might be able to refine her core like never before. If the Mana levels truly became strong enough, then she might even be able to use her glyph wand to cast spells for free!
+
+This was something that Arakil had only briefly touched on, as drawing glyphs that fueled themselves was not feasible at the moment. Arakil mentioned that dungeon Mana was slightly more restrictive than the outside world. Lily had already experienced this herself when she tried to draw Mana into her core the first time she entered the dungeon; it was not only unclean but also resisted the pull.
+
+Because of these two factors, when it came to glyphs, you had two options: include a cleansing auxiliary glyph or a gathering array. Using both was an even better option, but it wasn't in the cards until Lily furthered her education.
+
+However, if the ambient Mana truly became thick enough, then these problems would lessen: the greater the amount of Mana, the easier it would be to shave a bit off the top. This was why Lily was cautiously optimistic that she would perform better the lower they went in the dungeon.
+
+Of course, "just wait" was another somewhat obvious option, but that was only feasible outside of combat. Naturally, Lily wanted to experiment a bit during this camping trip, as there would no doubt be downtime when they rested in the evenings.
+
+It's too bad I didn't have a chance to cast anything on the first floor with my wand… It would have been interesting to see how much faster the glyph completes between floors.
+
+Lily made a mental note to record her observations on this floor and get the first-floor results at a later stage. Also, if the rumor about the reward for passing this camping trip was true, she might get to do it sooner than she anticipated!
+
+Alice continued leading them to a large glade, bringing a wave of nostalgia for Lily's time with Rose and the ritual they conducted in secret.
+
+"This will be home base," Alice declared. "You can all start unpacking and whatnot, while I secure the perimeter."
+
+Before anyone could react, she disappeared into a blur. The immediate thought was that she had abandoned them, but then the sound of crashes could be heard echoing in the surroundings.
+
+"Damn, she's too cool," Lotte cursed.
+
+"Well, she is a former four-star adventurer," Thomas correctly pointed out.
+
+Lily sighed, her feelings conflicted. Putting aside the weirdness around her parents, Alice should have been like a hero to her, but instead, she was a source of frustration.
+
+Alice had stopped picking on her, at least in Lily's opinion, due to her stellar performance. She honestly expected to get some praise from the woman for her results, but, strangely, there had been none.
+
+What does she want from me? Do I need to beat a dragon by myself or something? Lily couldn't help but wonder.
+
+At first, she had thought that maybe Alice just didn't praise anyone. But Lily had seen others receive it, while she did not. Was this some new form of bullying? Lily shook her head.
+
+To think she was so excited about me when we first met. I know I was a bit rude at the start, but that didn't seem to change her opinion. I don't know what changed after that.
+
+Lily had considered confronting her a few times but opted once again for the passive route out of fear of escalation. She hoped Alice would either get bored or get over it.
+
+At least my other professors are happy with my progress.
+
+With that last thought, Lily happily joined her team to set up their camp. Thanks to both Lotte and Thomas' bags, they were better prepared than most, as they effortlessly stored not only sleeping bags but also two small tents. Lily could bunk with Lotte, while Thomas was on his own.
+
+Of course, others also brought tents, since they weren't expected to lug them around when they went spelunking through the woods, but for Lily's team, that was certainly an option.
+
+Although both Thomas and I can set up charms to protect our camp, we don't really need to worry about monsters destroying our stuff while we are gone.
+
+Lily was casually observing the others while she worked when she happened to notice that someone's sack actually had a few wooden charms. Not recognizing them from Melina's class, she couldn't help but stare.
+
+"Me and a few others sold some," Thomas suddenly said, evidently noticing Lily's puzzlement.
+
+"Huh… That was a good idea," Lily replied.
+
+Thomas chuckled. "I was lucky to catch someone else selling them, and decided to take a slice of the pie for myself. I don't really have anything else I could offer, sadly."
+
+"Even I sold a few potions and salves," Lotte admitted. "I had a few…questionable batches that I was going to get rid of, but then people wanted them."
+
+"Surely you didn't!?" Lily gasped.
+
+Lotte gave an awkward smile. "I did… But! I did tell them they weren't up to standard. They still wanted them despite my warning."
+
+"Any healing is better than no healing after all," Thomas commented.
+
+While Lily was still shocked and a little disappointed, she unfortunately had to agree with the two of them. She couldn't force her friends to her own standards, and if Lotte warned them and they still insisted, then it was in their hands.
+
+Plus, Miss Camilla basically did the same thing… Those "expiring soon" products were definitely failed batches.
+
+"You should have sold some glyphs," Lotte suddenly suggested.
+
+"I'm not sure about that…" Lily groaned.
+
+"Why not?" Thomas asked.
+
+"It just feels…" Lily mumbled, not finishing her answer.
+
+"Gross? Cheap? Too much work?" Lotte asked in rapid succession.
+
+Lily sighed. "Something like that… I'm okay with doing it for a few friends, but I can't go around doing it for everyone."
+
+"You'd certainly lose your free time if you needed to refuel all of them," Thomas agreed.
+
+Lily nodded. Personally, she also felt like she didn't want to expose her secrets to so many others, but didn't want to say it out loud.
+
+Selling talismans was an option; however, the thought of someone relying on the piece of paper and it being accidentally damaged before activation had soured her on the idea. If someone got hurt because of her, she'd be devastated, which was why she couldn't believe what Lotte had done.
+
+Maybe next time I'll have the time to brew some extra potions to sell. Eventually, I should also be able to craft items in the enchanting class, which will give my glyphwork a real chance to shine.
+
+Their group, as well as the others, had finished setting up their camp spots, and at some point, Alice had sneakily returned. She pulled out her own tent, which seemed to magically assemble itself, and then began ordering a few students to dig a fire pit in the center.
+
+"This camp's looking pretty good!" Alice praised. "I'm glad to see you all taking this so seriously. I've got high expectations when you are on your own tomorrow night."
+
+Excitement flickered in everyone's eyes.
+
+"For the rest of the day, we will go over some basic hunting, foraging, and I'll try to show you a few signs to look out for. You can consider this some bonus wilderness training," Alice said with a grin. "In the evening is when the real fun begins. I'll be teaching you how to do night watch, and if you fall asleep on the job, you'll be sent home packing!"
+
+Concerned whispers permeated through the camp, but it wasn't enough to discourage them. This camping trip was just getting started.

@@ -1,0 +1,223 @@
+---
+id: 0e13cfae-78a4-5e77-acd4-6dba235f0ebe
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 21 - Regretful Truth"
+slug: 0078-book-5-chapter-21-regretful-truth
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 78
+ownLength: 4674
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3489257/book-5-chapter-21-regretful-truth"
+royalRoadId: "3489257"
+---
+
+No.
+
+That was the politest of Ranthia’s immediate thoughts. The rest were in a similar vein, spiced with varying amounts of profanity and pettiness. There was no way she was going to become another nation’s pawn—not again. Never again.
+
+“Do not answer. Even if you were about to accept, I would give you the same advice. You lack the societal context to even understand what I have offered you. The City of Arts is an atypical environment, and I would recommend you spend some time in Ithil before you return. It will grant you a broader understanding of the culture that you are trying to integrate into.
+
+“As for my offer, consider it open for… oh, let’s set it at five hundred years. If I have not heard back from you by then, I shall assume you chose to reject me. And I shall grant you a token that may be used to gain access to me, or you may use it to catch the attention of any member of the Tympestshard Council. That said, I should warn you that the attention of many of my peers is likely something you would prefer to avoid.” The Councilwoman smiled one last time before she took a measured sip of her wine.
+
+“…Seriously, that’s it? You’re just going to dump a bunch of secrets on me, intimate that you know exactly who I once was, and just let me walk away?” Ranthia didn’t believe it for a second—secrets were never handed out for free.
+
+“Indeed. I think you’ll find that the secrets that I’ve shared are less valuable to you than they might seem. I offered them for two reasons. First, they are reparations to balance things between us. After all, I have learned quite a bit about you through our meeting. Second, I wished to show you that I am completely honest with those in my household.” The elf skewered some unidentifiable, fragrant morsel with a crystalline fork and held it aloft. “And I believe that you will find honesty to be a somewhat precious commodity here. I wish it were not so, but… Well, tell me this: the one that you are mourning, were you able to trust her completely?”
+
+A low blow, delivered at a vulnerable time. There was no salvaging the expression that she made, so Ranthia held her tongue.
+
+“I see, that is unfortunate. I will avoid making too brazen of an offer, given that you are in mourning, but I would like to once again extend the hospitality of this meal before you depart. There must be something here that appeals to your tastes.” A hint of guilt and discomfort briefly crossed the woman’s face.
+
+But even that was just another attempt to ingratiate herself. Ranthia wasn’t so deep in her misery that she couldn’t recognize that much. There was no chance the woman held political power within the most powerful nation on Pallos without absolute control over what she showed the world.
+
+“I’m not hungry. If there is nothing else?” A hint of unintended frost entered her words.
+
+“Well, I tried at least. Allow me to offer you one last bit of advice, namely something I have learned through my own millennia of experience. The greatest path to success as an immortal is to go out of your way to seize the most unlikely outcomes—those that offer the greatest rewards. Do not sacrifice anything more than your time and things easily recouped, but the longest odds will bring you the greatest gains so long as you consistently pursue them. For example, you might reschedule meetings set years ago, just for the off chance that you might get to meet with someone who may be of great benefit to you in the future.
+
+“Forget short-term gains. Those who make small steps forward end up forgotten and seldom reach their intended goals. Instead, make the greatest strides that you are able, with each and every opportunity that you are able to seize.”
+
+“Are you certain that you are well?” Anthelleon asked for the second time while they walked the crystalline road, side-by-side.
+
+“Fine.” Ranthia replied, unable to muster enough energy for grammar. She was carrying a twee little crystal figurine in her pouch that could be used to get her a meeting with any member of the Unchanging Council. Avyna had lied to her and yet she was still helping the woman she’d foolishly given her heart to. And as such, she was trying to pretend to mourn, but it wasn’t even a complete fabrication because her heart was in godsdamned pieces! She couldn’t even tell her closest current friend the truth either, because Anthelleon vocally supported both the rule of law and her own sense of justice—she’d either tell someone the truth, or she’d break herself over the stress of keeping a secret that went against her ideals.
+
+So no, she was not fine. But the City of Arts had a single [Mind Healer] and Ranthia had been waiting for nine months for the woman to actually take on new clients and writing to Aellea was too dangerous unless the woman left Coalition City. She had no idea how she was going to hold herself together in the long term, but she was used to hardships.
+
+She’d just hoped that she was done with suffering under politics and deceit after leaving Remus. No matter how many years she lived, she was still a naïve child chasing a comfort that could never exist. It didn’t even matter how close she got or how little need there was for deception, everyone still lied to her. No matter who it was or what their relationship became, it felt as though every single person she met just wanted to use her!
+
+“I… see. Things have been quite loathsome of late, I admit, but take heart my friend—you have my unyielding support! And together we can accomplish anything! I mean, you actually defeated the loathsome Rogue Wind by yourself, and that is a feat worthy of the finest beverages!” Anthelleon thumped her own chest as she made her vain effort to cheer Ranthia up.
+
+And Ranthia appreciated it, she truly did. She had to.
+
+“It’s not all that impressive. She was like a lot of the dancers I’ve competed with so far. She was inflexible and less skillful than her level would suggest—she just came up with something that usually worked and over-relied on it. Every single strike she made was aimed at the left side of my head or neck, without exception. Once I figured out her simplistic attack pattern, it was easy enough to get a knife through her.” That was the problem with people that got arrogant and punched down, especially if they viewed her as inferior to them. Plus, no predictable order could stand up to a woman that’d embraced chaos.
+
+“Ah, as I would expect from someone so loathsome. Fortunately, I am cut from a superior cloth and would never make such a foolish mistake!” The elf preened.
+
+“You choose your element and weapon shape on a snap judgment of the target’s presumed vitality and evasive capability, and you’re formulaic enough about it that I’ve started to piece together your logic. Also, when you use your weapon defensively, you always project a pane of rectangular Brilliance, just large enough to meet the visible and most imminent threat.” Ranthia made her response on autopilot, without sparing a single thought for the likely result.
+
+Those thoughts came after Anthelleon wordlessly sped up, without even looking in Ranthia’s direction.
+
+…Chaos take my thrice-cursed tongue.
+
+Had Ranthia been in a better mood, she would have been left speechless by Ithil. Unfortunately, there was already nothing to say. Anthelleon was refusing to speak to her, and Ranthia was struggling not to give up entirely. She had attempted to apologize, of course. She had even tried regaling her friend with the best jokes she’d ever heard that involved male anatomy (perhaps the strangest use she’d found for her [Immortal Armaments]). Yet no matter what she attempted, Anthelleon’s rigid adherence to silence remained. It was her own fault, and the added stress and guilt made it all but impossible to appreciate anything she saw.
+
+Still, Ithil was unlike any city she had ever seen. Towering structures of crystal—taller than any (non-tree) building she had ever seen—dominated the city. Various tiers of the structures were supported by pillars, in lieu of walls, with sprawling greenery within. The city was dense and far larger than any she had ever experienced, yet no matter where one went, there was always a park just a short stroll away.
+
+The crystal streets were lined with carts giving out food and almost every building had a shop of some form at its street level. Living parks aside, there was no sign of wood or stone being used for building materials—everything was sculpted out of exquisitely detailed crystal, colored with every hue the System had to offer and more.
+
+The city was crowded, but the demographics of its population were far more diverse than the City of Arts’ overwhelmingly young population. Level differences aside, the mix of older elves made the crowd far quieter and calmer than Ranthia’s experiences with elves would have led her to expect—even Coalition City’s elven districts had been noisier.
+
+That or there was some Aura in effect that somehow kept the noise manageable.
+
+Except, no matter where Ranthia looked, she was the sole non-elf that she could find. Sure, there were companion beasts of all shapes, sizes, and forms around—and some of the parks had more than their share of wildlife—but every single person was an elf. There were no elementals, no outsiders come to trade, and no sign of any seized immortals living amongst the elves. And nothing drove that point home quite like the looks that Ranthia was getting. Whether they were gawking or glaring, it was hardly the generally welcoming (if unduly horny) reception she’d gotten from most in the City of Arts.
+
+The [Healers]’ offices were on the 8th floor of one of the towers. Instead of being tied to any specific guild or business, well-furnished rooms were available to any [Healer] of sufficient Skill to manage on their own. A receptionist listened to Anthelleon’s explanation without a trace of doubt about the veracity of her claims, then suggested she visit room three in the blue wing.
+
+With that, Anthelleon spoke to Ranthia for the first time (“Give me one of the bottles.”) before wandering off while Ranthia waited. Some fifteen minutes later, she returned and nodded to communicate that they were done.
+
+The councilwoman might have recommended that Ranthia spend some time in Ithil, but she just wasn’t in the mood. Even if there were conversations that she was dreading, she still just wanted to go home.
+
+A multi-day journey with a woman that was doing her level best to never speak was a rare form of torture. Ranthia had tried everything that she could think of to make it up to her friend—short of giving in to her own maelstrom of misery and breaking down in front of her—but she’d clearly hurt Anthelleon far more than she had ever expected.
+
+The moment they stepped through the City of Arts’ enchanted defenses, Anthelleon wordlessly turned to go her own way. And as much as Ranthia just wanted to go home and crawl into bed and finally break down for a while… She owed it to Sunny to deliver the truth, even if someone else had undoubtedly told her.
+
+Not that Ranthia had any idea how to even begin to tell her friend that she’d murdered her father.
+
+After checking Sunny’s stall, the Bean, and a few other common haunts, Ranthia finally tried Sunny’s workshop space. The woman was incredibly private and skittish about her workshop, so Ranthia stood well away from the door after she knocked.
+
+Which turned out to be a good thing, given the dense miasma of alcohol fumes and smoke that emerged when the door cracked open.
+
+“Oh, heeeeeeeeeey friendpretty.” Sunny stumbled a bit as she pushed the door the rest of the way open, nearly spilling out of her sloppily tied robe in the process. It was the first time Ranthia had ever seen her without cosmetics and layers of black clothing.
+
+It was also the first time she’d seen Sunny intoxicated. The woman had never been even remotely interested in joining Ranthia for alcoholic drinks, let alone whatever was responsible for the cloying—almost dizzying—smoke.
+
+“…This is a bad time. Sorry.” Ranthia made her judgment call. She needed to tell Sunny what happened. She owed it to her friend. But she wasn’t going to do it while the woman was so intoxicated that she was unsteady on her feet.
+
+“Nonshen… nonsays…? Bah! No-sense or whatevs, c’mon, come iiiiin. Pretty pretty.” Sunny seized Ranthia’s arm mid-wave and pulled with enough force that Ranthia found herself stumbling.
+
+Intoxicated and civilian she might be, but Sunny was still an elf. Her System amplified something significantly greater than what Ranthia or any other human possessed. Ranthia leaned into her dexterity to catch her footing before she faceplanted into Sunny’s soft cleavage—which would have undoubtedly sent them both to the floor—and planted her feet to stabilize them both.
+
+“I thought no one was allowed in your workspace.” She tried one last time, as if she wasn’t already most of the way through the door.
+
+“Piss-pots! It’s my space and I say my pretty is allowed in ‘cause she’s so friend! And if I don’t like it, I’ll kick my ass… with both feet!” Sunny continued to casually display the depths of her inebriation as she tucked Ranthia’s forearm between her breasts and smiled like a cat that’d cornered a tasty morsel.
+
+“…Fine, but just to chat for a bit. I still need to pick Clover up soon.” Ranthia resigned herself. They might have had sex before, but she still refused to cross lines with someone who was that intoxicated—even before she was carrying so much guilt directed Sunny’s way.
+
+And she had less than zero interest in joining Sunny in the depths of intoxication. Misery and dangerously potent brews were a bad combination, especially when there was no chance of an enjoyable brawl.
+
+Gods and goddesses, she missed trading punches with drunken assholes. A fight with zero stakes and without Black Crow watching every exchange sounded lovely.
+
+“Ta-duh, welcome to where the magic happens! And by magic, I mean mess. Er, making. Yes, that!” Sunny kept Ranthia’s arm trapped in its warm prison while she tried to stumble in a semi-circle to show off her space.
+
+‘Mess’ was a pretty apt descriptor. Even though the workshop spaces were supposed to be used for crafting only—with lodging specifically and explicitly banned—Sunny plainly lived in the space. A mattress, wrapped in black velvet sheets sat in one corner, surrounded by a veritable moat of nut shells, empty bags, open jars, and other objects that once held snacks. Empty bottles that once contained varying forms of alcohol were littered across most of the workshop floor, with a hookah that was leaking streams of purple smoke into the overly warm room.
+
+By contrast, the actual work area was rather neat. The wall of tools and work benches was clear of bottles and the husks of consumed snacks, and the wood shavings were kept swept into a neat pile in the corner. Even the jars and bottles of various liquids that Sunny used to craft her unnervingly realistic, wriggling art were well organized on the various shelves. Several blocks of wood—just a bit longer and wider than Ranthia’s legs—were stacked near the entrance, awaiting Sunny’s creative touch.
+
+“I’m honored to be here.” Ranthia chose tact, for once in her blighted life.
+
+“You should be. I don’t let jus’ anyone in here. It’s priiiiivateee.” Sunny started giggling, only to suddenly stop a few moments later. “But you’re the only pretty I’ve done naughty things with since I got kicked out of the Academy, so we’re basically faaaaaamily.”
+
+Ranthia winced at the word.
+
+“Oooh, we should do it in here! I’m not horny right now, but I bet if I play with your pretty flesh with my work tools I’ll get there! Then we—” A messy smile split Sunny’s face as she gazed up at Ranthia, only for it to fall into an expression of sober horror. “…Oh fuck, you’re wearing a hood and that stupid, oversized pendant isn’t made of gold. Oh shit. Fucking shit-fuck.”
+
+Sunny released Ranthia’s arm and slowly walked her way to the far wall. She picked up a large jar and unstopped it—water, thank Xaoc—before she took a deep draught. A moment of hesitation later, she dumped the rest over her head, cursing the entire time.
+
+“It’s… okay.” Ranthia mumbled, feeling even more self-conscious.
+
+“No, it’s isn’t! I—fuck.” Sunny paused to open another jar of water and drank from it. “It was Avyna, wasn’t it? The hair’s just like you described. And I call you my pre—my friend—but there I was, trying to seduce you while you’re in mourning, just because I was bored and because I don’t know how to do intimacy without blood and bliss. You need a friend, not a disaster.”
+
+“You’re having a rough time too. I’m not mad.” Ranthia had regrets. Had she just gone home…
+
+“I was wearing a hood. That was why I put this stupid, ugly, overly comfy thing on. It had a hood. Ripped it off two days ago—wait, what day is it? Doesn’t matter—after I started thinking more about my experience with the asshole. Age-mush, or whatever his name was, claimed he died like a true and noble elf, but I don’t believe it. There’s just no way. But enough about him, I can get the truth from you later. Tell me what happened to your Avyna.” Sunny had accelerated her perception and was doing her best to speedrun sobriety. She zipped around her bedding area, finding morsels of bread and loose crackers that she inhaled without even bothering to check if they were still fresh.
+
+“…Actually… We should talk about your father.” Ranthia made her decision. There was no way she could let Sunny comfort her over a lie, not when she was still ignorant of Ranthia’s sin.
+
+“Oh, damn his soul, don’t tell me he killed your Avyna?! Wait, I have tea somewhere. Where in the void did I put that box? …Not that I can make hot water in here. Can you still make tea with room temperature water? I think it’ll work.” Sunny continued to zip around, running her fingers through her hair as she fretted.
+
+“Sunny, please. Come here and listen.” Ranthia knelt and held her hands out.
+
+She had expected Sunny to kneel in front of her—it wasn’t like there was a single chair or bench in the workshop—but the woman instead remained standing when she approached, she just placed her hand in Ranthia’s.
+
+…Ranthia chose not to dwell on what their positioning suggested and sighed.
+
+“Okay. When… After we defeated the orcs that had stolen the cargo, one of the Elf Hunters used some Skill and found the Spatial space,” there had to be a better word for that, “Avyna had hidden herself within. You were right, she was the one that had been transporting it. Your father tried to take her head, but I was able to deflect his attack. I tried to get him—all of them—to stand down. I knew her. I tried to rationalize things. But your father was convinced he’d get a few extra gems if he killed her. When he tried again, I…”
+
+Sunny already knew the rest. She recognized the moment her friend hardened her gaze—the moment she figured it out. But Ranthia still had to—needed to—say it.
+
+“…I probably could have blocked or deflected his attack. I didn’t. I was angry—I was scared. I don’t think he ever saw my knife coming. It was me—I took his life.” She struggled to keep her gaze fixed on her friend’s as she made her confession. There had to have been a better way to say it…
+
+Silence lingered for an interminable length of time. Sunny’s hardened gaze—her dazzlingly multicolored eyes—remained fixed onto Rathia’s eyes, as though her blindfold wasn’t even there.
+
+“And you still couldn’t protect her, even then.” Sunny finally spoke.
+
+The urge to flinch—to look away—was intense, but Ranthia kept her gaze right where it was.
+
+“I’m sorry.” Ranthia couldn’t respond to the accusation. In that moment, she couldn’t propagate the lie.
+
+“No, you aren’t. You did what you felt like you had to do. You just regret it. Some.” Sunny pulled her hand out of Ranthia’s. After taking a step back, she spoke again, using an unreadable, emotionless tone. “My gratitude for the truth. You may show yourself out.”
+
+“I never—” Ranthia tried.
+
+“I know. Just go.” The elf interrupted her.
+
+There was probably something more that she should have said. There had to be something that she could have said. Yet no words came to her in the moment. Instead, she stood and walked to the door, just as Sunny wanted. She opened the door, stepped through, and gently shut it behind her.
+
+She wasn’t quite fast enough to seal away the sobs that came from within.
+
+Vlip.
+
+After everything that had happened since she left the City of Arts, she wasn’t even surprised when Clover teleported over to kick her in the face. The bunny was more or less fully grown, but she still lacked the weight to truly inflict harm. Though her ever-increasing stats made a noble attempt to bridge the gap.
+
+Instead of putting on a performance, Ranthia just plucked her Bond out of the air and clutched her to her chest.
+
+“It’s a relief to see you. I know the nice Hunter said you were safe, but we were all in a bit of a tizzy when your darling there suddenly leveled so much.” Litil’s relieved smile matched her words.
+
+Gods and goddesses, Ranthia hadn’t even considered that. She had never even checked what the System rewarded her with after the battle. Yet Clover was no longer a level 480 Bunny. She had reached level 547—and received her third class, though the Wood-aspected starter class was still capped at level 8.
+
+“I’m sorry that I worried you, sweetling.” Ranthia gently raised the bunny and tried to lean her forehead against Clover’s.
+
+Instead, her dearest and most beloved Bond bit her nose.
+
+That she felt.
+
+“Thank you for looking after her.” Ranthia tried her best to make coherent words, even as tears swam in her eyes. Clover hadn’t let go yet.
+
+“Think nothing of it, she’s always so gentle and well-behaved.” The [Healer] answered without a hint of irony. “Give me a moment to get her things together.”
+
+Carrying Clover in one arm—teeth still embedded in her nose—and a stack of nearly twenty books (and other sundries) with the other proved to be something of a spectacle. More than a few elves gawked and a few even found some compulsion to follow for a time while they whispered amongst themselves. But once she reached the exhaustingly close to endless stairs of the tree, the crowds gave up.
+
+And Clover finally released her nose once they were home. The bunny hopped out of Ranthia’s arms and darted off, while Ranthia nursed her aching nose and set the books down.
+
+There were things she should do. She needed to cook and eat a proper meal. She probably needed to shower—or at least shift into a fresh body. She definitely needed to maintain and rack her armor.
+
+Instead, Ranthia found herself in her bedroom before she quite knew she was walking. With reckless disregard for the soot that lingered on her armor, she allowed herself to tip over into the soft, cold bedding.
+
+And there, she finally curled up and allowed herself to release the pain and misery that she’d kept bottled.
+
+Time lost all meaning while Ranthia tried to process her emotions. Avyna had lied to her. And for all that she hated lies, all that she felt betrayed by every lie she had ever been told—she had chosen to lie to the world. She was doing everything that she could to convince everyone, friend and stranger alike, that Avyna had died. She had told her fellow Hunters that Avyna had selflessly sacrificed herself to keep Blood Chain from disarming and murdering Ranthia—only for him to reveal the charged gemstone almost the very moment that she died in Ranthia’s arms.
+
+Lying to those that should have been able to trust your words was an egregious and terrible sin, yet Ranthia was just as guilty as any other offender. She was sick of lies. She was tired of secrets, of politics, and of the myriad games that those with power had to play. There should have been a better way…
+
+Avyna had lied to her. She had done everything she could to make Ranthia believe they would reunite—aside from a single, hidden warning that hinted they might not. But what had even driven that final hint? Guilt? As she curled in on herself, it was hard to believe in anything. Even the love and tenderness that they had shared… had any of it been real? Or was there just something wrong with her—was her soul so rotten that not even Avyna could extend her trust?!
+
+Guilt, heartache, misery, and outrage warred. There were other emotions too, but they were mere facets of the primary four. Or three. Or however it worked—the lines were blurry.
+
+Why?
+
+Clover received the truth. They were connected by choice and by the System. If there was anything on Pallos that Ranthia had to trust, it was her Bond. Xaoc too, but He was beyond such mortal concerns. He heard her out and offered her comfort in His own way. Yet He had no true interest in the deceits of those that walked Pallos, nor could He give her any answers. His only advice was to keep moving forward. It was great advice, but she needed time.
+
+Instead, Ranthia languished in bed, still in her armor. At times, she clutched the pendant, woven using Avyna’s cherished hair. Sometimes she clawed at her own arms when she became disgusted with herself. She clung to Clover on the rare occasions her Bond allowed it, but she otherwise left the bunny to her own designs.
+
+She didn’t even rise when she heard the tell-tale sounds of something crashing from other rooms. She knew Clover was just trying to get her up and moving. Hay-scattering and backpack-fouling aside, her Bond had stopped making much of a mess over a season ago.
+
+She desperately wished she could seek a good [Mind Healer]’s services, but all she could do was lean on the stale lessons from the past. Feeling her emotions was an important step in the process, even if it felt like she wasn’t making any headway at all at navigating them. Rationalization was always harder than it seemed in abstract. And her emotions proved to be unfathomably vast and deep.
+
+Ordinarily, she would have been able to track the passage of time using her increasingly sour body odor, but whatever cleanliness Auras covered the City of Arts were good enough that Ranthia failed to develop a stench. They probably weren’t a substitute for personal hygiene, but Ranthia was too miserable for self-care.
+
+But she couldn’t languish indefinitely. Immortal or not, there was only so long she could subsist on trail rations and constipation. Not that she was allowed to reach that point.
+
+A booming crash seemed to shake the tree they lived within—sending Clover diving under the bed for safety.
+
+“Oi, you damned idiot—get your ass out here! He’s here!” The tavernkeeper’s shout followed.
+
+And no matter how deeply embroiled Ranthia was in her self-pity, the woman’s words had her springing to action as if they were uttered by Xaoc Himself.

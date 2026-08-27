@@ -1,0 +1,99 @@
+---
+id: affcb43b-eb3f-503d-b3c5-de5c8ed4fb7f
+page-type-slug: story-chapter-royal-road
+title: "58. New Aspects"
+slug: 0058-58-new-aspects
+partOf: breaker-of-horizons
+position: 58
+ownLength: 1835
+unit: words
+publishedAt: 2020-11-19
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/587225/58-new-aspects"
+royalRoadId: "587225"
+---
+
+By midday, we found ourselves standing in the Spire augera's chamber and looking up at the massive crystalline dodecahedron. The Demiurge himself had been waiting on the steps of the Spire for us, clearly expecting our visit. There was no refusing his invitation to go up to the chamber. It brought me some small measure of comfort to see that he had dispensed with his full arcanist regalia, and was once again dressed in the casual clothes that allowed him to pass off as a senior. Gone, too, was the staff. The incongruence between his humble appearance was at odds with the mystical grandeur of the setting, but it made me feel a little more comfortable, somehow, to see he was able to step away from that awful display of power we had seen by the lake. It humanised him.
+
+"Well, I think I can guess why you're all here," he said, gesturing over at the dodecahedron. "I thought we'd talk in its physical presence. It'll be helpful." He nodded to indicate eight flimsy foldable chairs arranged around a small table that looked like it had been dragged in from the cafeteria, just off to the side. It looked painfully ordinary and out-of-place with the massive crystal floating nearby.
+
+The rest, with the exception of Ambrose, looked highly bemused by all this. I was getting used to the Demiurge's 'irreverence', so I moved to take a seat that allowed me to keep the dodecahedron in my line of sight. Once the rest had settled down, I found myself sitting across the Demiurge. He smiled genially around at all of us but did not speak.
+
+After an awkward silence, Jerric cleared his throat. "Uh... Demiurge Caldwell, sir... we wanted to thank you for helping us by the lake."
+
+"Helping you? Not the word I'd have chosen." A slight frown creased his brow and he glanced briefly at Ambrose, Emilia, and me. "Didn't you three...?"
+
+"We did," Emilia replied in her usual matter-of-fact deadpan. "He was just trying to be polite. We know you were trying to mark the lake augera, and that it ran away. So we lost the opportunity to properly talk to it. Because of you."
+
+Devon was seated to the Demiurge's left, looking ill-at-ease, and he winced at Emilia's tone. I found myself suppressing a smile despite the seriousness of the moment.
+
+The Demiurge, for his part, did not seem to take offence. He nodded seriously. "Yes, I was trying to snatch a sample of its essence so that it would be easier to trace it in the future. But it was faster than I anticipated. My fault, actually. I wasted a precious second saying something to Caden just before I made my move."
+
+I remembered that. Just one sentence before the whole world tipped out of balance: 'It is time for you to stop stepping so far beyond the pale.'
+
+"What did you mean by that, sir?" I asked.
+
+"Oh, it's the kind of thing I'm supposed to say when you turn up where you're not expected," he said off-handedly. "But that's not the most important thing we need to talk about for now. You want to ask me something." He directed that last bit at Jerric, suddenly business-like.
+
+"Y-yes." Jerric faltered for a moment. "We want to ask you why you're attempting to trace the wild augera. And we also want to know more about the wild augera in general."
+
+"So you can find them, yes," the Demiurge said, nodding. He ignored the looks of consternation from the rest of us and leaned forward, clearly thinking about how to organise and present information to us. "In brief, I was attempting to trace it because I will need to capture it at a later date. That will be harder for me now, but not impossible. It will simply demand more of my time and attention. As for the wild augera in general... it will help if you summarise for me what you all have already learned so that I can fill in the gaps where necessary."
+
+Nervous glances were exchanged. In the end, Jerric was the one who took up the narrative. "We understand that the wild augera are some kind of primal force in the arcana. They seem to be quite malleable to frameshifting. But if we manage to get them into their base state, or... what we think is their base state... then they can communicate. But there is more than one... uhm, 'aspect'... to an augera. We need to make contact with a milder aspect so that we're not overwhelmed by it when trying to communicate."
+
+The Demiurge nodded approvingly. "A largely accurate representation. You speak of 'aspects' to an augera. Do you know how to call forth what you call its milder aspect?"
+
+"There's a bundle of concepts," Emilia supplied. "We frame it in our minds and address it through the arcana."
+
+"Are you all able to do so?" He peered around at all of us. Everyone nodded, but Lynus and Devon looked very uncertain. The Demiurge looked at the two of them in turn. "It is an essential skill. I believe you know the theory, but I would be more comfortable if you have actually done it. Fortunately, we have a tame augera for you to practice on."
+
+We all looked at the dodecahedron in trepidation. I felt a pulse of indignation emanate from it, likely from being characterised as 'tame', and I noticed Emilia's hands tighten around the edge of her seat. It seemed like she had felt that, too.
+
+"What do you want us to do?" Lynus asked.
+
+"Talk to it," he said simply, gesturing behind him. "You first, then Devon."
+
+Lynus made to stand up, but the Demiurge waved him back down. "No, learn to dissociate from the physical when working with arcana. It is not human or even corporeal. There is no need to face it, or look at it." He tapped a finger against his forehead. "You see, hear, smell, and touch arcana not through your senses, but through what you call your mind."
+
+Being put on the spot like that, especially with the Demiurge looking on, would have made me feel quite nervous, but Lynus seemed to be quite calm and collected. He nodded, taking in the instruction, then closed his eyes and relaxed in his seat.
+
+'Hello,' he sent through the arcana. I felt the augera stir in response.
+
+'Bitter-proud-pain fell short against raw-boundless-tempest,' the augera sneered, radiating venom. Lynus recoiled, and the Demiurge leaned forward a little and put a calming hand on his arm.
+
+"Relax, Lynus," he said with a surprisingly warm smile. "It's not wrong, but it's also not all right. It seems we've caught it in a bad mood."
+
+"I'm just going to be a liability..." Lynus buried his head in his hands, suddenly a lot less calm and collected. It was almost like he was back at the lake.
+
+The Demiurge shifted in his seat, and I felt him dip into the arcana. 'Raw-boundless-tempest is one aspect, and drifting-pool-channel is another. We are like augera. Bitter-proud-pain is one aspect, but you are more than one aspect, Lynus. Rest easy.'
+
+I did not know if the Demiurge was privy to Lynus' past and the intimate details of his life. Even after I learned about Lynus' 'arcanic name', or this 'aspect' of him, I hadn't ever mustered up the courage to speak of it to him and to ask what had happened. And as far as I knew, this was the first time it was being bandied about to everyone. Would he take kindly to something so private being aired?
+
+But it seemed to be just what he needed to hear. His breathing calmed, and he looked up with gratitude at the Demiurge. Kevan, too, looked rather affected by what the Demiurge had just said. It reminded me of the thought I had, about whether or not arcanic names could be changed. The Demiurge hadn't exactly given us the answer, but this was something that was just as important. There was more to our arcanic name. We had more than one aspect.
+
+And it made sense. After all, tangled-anger-power did not encapsulate everything I had come to see of Kevan. His relationship with Emilia had brought a different side of him into focus, and now I had a way to understand why his arcanic name was not reflective of his more sensitive behaviour towards her.
+
+And it was making me wonder what other aspects I had to myself, and to the rest of us...
+
+The Demiurge clapped his hands together, snapping me out of my thoughts. "Alright, Devon. Your turn."
+
+"Can't I just direct it at you, sir?" he asked, sounding small.
+
+"It'd be best if you spoke to the augera, Devon. It's not the same as speaking to a person."
+
+To his credit, even though Devon looked extremely apprehensive, it didn't take him long to step up to the plate. I almost snickered when he gave himself a series of gentle slaps on his cheeks. Jerric gave him an encouraging thumbs up, to which he returned a wry smile before closing his eyes and frowning in deep concentration.
+
+It was clear that we all felt it the moment he slid into the arcana. Everyone shifted slightly in their seats, and even the Demiurge had a faint look of pleasant surprise on his face. I felt a pleasant wind wash over me, like stepping into the welcome warmth of a cosy room after standing outside in the wintery cold. When he 'spoke' into the arcana, Devon's 'voice' was rich and resonant in a way that I had never heard or felt before.
+
+'Hello.'
+
+The augera seemed to turn with curiosity towards him. 'Warm-skillful-bridge,' it acknowledged with a sense of grudging respect.
+
+'What you said to Lynus... wasn't very nice. It happened to me, too.'
+
+'It is truth. Warm-skillful-bridge should not have fallen so easily. Should have been shelter for fated five. Must not fail like this in future.'
+
+'I'll keep that in mind.' Even though I could sense the intention to give a tart reply, Devon's voice mellowed it out considerably. He was truly living up to this part of his aspect.
+
+"Overall, a success, I think," the Demiurge said, drawing our attention back to the physical realm. He sounded extremely pleased. "Well, you all are sufficiently capable of basic communication with an augera. If a wild one presents itself in an unfavourable aspect, you should be able to call forth its milder form to parlay. But now we must address the other possibility — that even when you attempt to do so, you may fail, and it may remain unmoved, or even escalate hostilities. You need to know how to survive the storm of confusion you all were almost destroyed by."
+
+He stood, and walked right up to the dodecahedron. The staff materialised in his hand, and, without warning, he smashed its tip against the crystal.

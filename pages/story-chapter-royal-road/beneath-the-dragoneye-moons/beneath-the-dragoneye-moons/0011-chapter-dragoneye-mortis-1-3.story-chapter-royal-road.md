@@ -1,0 +1,179 @@
+---
+id: f488c33d-3c3d-59aa-a2dd-d5e655098ed5
+page-type-slug: story-chapter-royal-road
+title: "Chapter ??? - Dragoneye Mortis 1.3"
+slug: 0011-chapter-dragoneye-mortis-1-3
+partOf: beneath-the-dragoneye-moons
+position: 11
+ownLength: 1880
+unit: words
+publishedAt: 2021-08-16
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/734766/chapter-dragoneye-mortis-13"
+royalRoadId: "734766"
+---
+
+As they traveled, making small talk, comparing notes about the two, three worlds they knew about, Vita’s undead horde grew. Zombie raptors jumped and tore apart other, lesser creatures, bringing the kills to Vita like a particularly proud gaggle of cats. Vita didn’t even seem to glance at the bodies, but each one brought to her was soon reanimated into her service. Monkeys and snakes, raptors and the occasional crocodile, beasts from the paleozoic to cambrian era all joined Vita’s ever-growing swarm.
+
+I could totally get used to not having to do all the heavy lifting for once. Elaine thought with wide eyes, seeing the numbers grow. At the same time - should I be stopping this? If Vita turns on me, I can’t handle that many monsters at once. Especially since I’m pinned to the ground.
+
+I should totally ask her to cook another raptor for me, Vita thought.
+
+“Hey, can you cook another raptor for me?" she then asked, hardly one to let anything get between thoughts of food and the potential acquisition of food.
+
+“Suuuuure… but can it start off dead-dead? Like, not moving dead? And not ripping its own arm off?” Elaine shuddered.
+
+“Sure, I guess,” Vita answered, shrugging slightly. “Stop moving.”
+
+At Vita’s order, the entire raptor horde promptly froze like someone had taken a photograph and made it reality. Elaine nearly flew off her mount at the sudden halt, but held on. Glassy-eyed frozen raptors surrounded her in every direction.
+
+“Take your pick!” Vita told her happily.
+
+Elaine facepalmed, but figured this was the best she was going to get, not without another long, awkward conversation.
+
+“Raptor or something else?” Elaine asked, noting the wide variety of animals in the horde. Raptors were the dominant species, but there was enough variety if Vita was feeling spicy.
+
+“I’m the furthest thing from picky,” Vita answered. “I’ll eat anything you cook.”
+
+Elaine was getting ideas. Terrible, terrible ideas.
+
+“How hungry are you…?”
+
+“Yes,” Vita answered, without a hint of humor.
+
+“Mind if we eat more than one of your- um - one of the, um, ah… creatures?”
+
+Elaine was still struggling with “zombie”
+
+“I will eat.  Anything. You cook for me.”
+
+Elaine had a brilliant grin split her face.
+
+“Right! One jungle smorgasbord coming right up!” she said, deftly navigating through the horde, playing discount Noah.
+
+Instead of two of each animal for an ark, it was one of each animal for the firepit. Vita watched with enraptured attention, a grin widening on her face with each animal Elaine selected.
+
+“How hungry are you, exactly?” Vita asked. “You like eating monsters too?  My team always thought it was gross.”
+
+Elaine shrugged.
+
+“Using mana - well, technically, regenerating mana - is hungry, hungry work. I’ve been away from towns, in the wilderness often enough to just not be picky. When it’s do or die, eat or starve? Everything looks like food.”
+
+“Huh.  Most of my experience starving has been in the towns.”
+
+Elaine patted Vita in what she imagined was a comforting way, though Vita mostly just stiffened up at the touch.
+
+“Well, don’t worry about it. I’ll make sure you’re well-fed here.” She said, expertly burning through dino-joints and roasting each piece one-handedly, then handing it off to Vita. The other hand already had a hot, greasy raptor-wing, as Elaine tore into it between words.
+
+“We’re friends now,” Vita declared, and immediately started tearing into the food with startling speed.
+
+The impromptu barbeque continued until the pain orb - err, sun - fell, both young women displaying appetites far outside their weight class. Vita watched with awe at the growing sunset, her childlike face morphing into the greatest display of emotion Elaine had seen on her since they met.
+
+“What is that? Oh, wow.  It’s like… like giant blotches of flower colors in the sky!” she announces, raising a grasping hand as if trying to touch one.
+
+Elaine glanced over, and with a lazy wave, summoned a [Mantle of the Stars] next to Vita.
+
+“For closer looking.” Elaine said, eyes up at the endlessly spiraling stars above winking into view as the sun finishes passing over the horizon.
+
+“Woah.  You’re right, the sky is just… going dark,” Vita whispered, idly pawing at the mantle. “Where’s that thing you talked about?  Your kinda-sky-island?  The moon?”
+
+“It’ll come. Just give it time.”
+
+“This is so cool.  I still can’t believe all the light in your world comes from such a tiny ball! And now all these white dots…”
+
+Vita stared open-mouthed at the sky, for once her hidden, inner eye being the one of her three incapable of seeing an otherworldly beauty.  Utterly entranced, a look of childlike joy and wonder on her face as she tried to trace the stars above, count them, understand them via any sort of equivalent from her world yet coming up empty.
+
+And then she saw the moon.
+
+Moons.
+
+Two full moons rose above the horizon, washing the land in their baleful red light. Two moons, with crimson irises and slitted pupils, looking anything like a pair of eyes, overlords of the world looking down upon all the puny mortals below them. A snake, freezing a mouse in its gaze. A dragon, watching the world she owned from above.
+
+The Dragoneye Moons.
+
+For a fraction of an instant, Vita froze, her breath gone.  Then an overwhelming terror consumed her features, and she bolted, trying to hide from the sky behind a tree.
+
+“Oh fuck, it’s here!” Vita hisses. “I don’t think it saw me!  Elaine, we can’t let it see me, we can’t.  The raptors aren’t fast enough to… oh shit, oh fuck oh fuck oh fuck…”
+
+“Calm down! Calm down! Breathe!” Elaine said, sliding next to Vita. “Okay, talk to me. What’s wrong? What’s here? They’re just the moons. They’re not going to hurt you.”
+
+Elaine mentally had a dozen asterisks on that particular statement, but the general idea was correct. Like, if some crazy high level Gravity mage decided to pull them into the planet, yeah, they could hurt, and it could be possible to do…
+
+But that was for another day.
+
+Elaine was struck with inspiration as Vita continued to freak out. She layered [Mantle of the Stars] over her gourmet companion, then lit up with [Shine].
+
+“See? It can’t see you now. Just stars and light here.” Elaine tried to soothe Vita.
+
+“That’s the eye the Mistwatcher used to look at me!” Vita squeaked, her tone suggesting not only terror but the revelation of some grand secret. “If it glances my way again I might cause another perception event!”
+
+“What’s a perception event, and the Mistwatcher is the big thing from your world, right?” Elaine asked.
+
+She didn’t wait for an answer.
+
+“Look, I have it on good authority that those moons have been there for over four thousand years. They’re just rocks, created by mad gods and goddesses.”
+
+“Yes!  The Mistwatcher is a god! It’s the god! And it has at least one eye which looks like that!”
+
+Elaine debated telling Vita about her experiences with gods and being in the realm of the gods, and how gods tended to stay there, and not really go to Pallos. Not unless a divine miracle was requested.
+
+She skipped all that, and thought about how Vita described the place she lived.
+
+“You normally avoid its eye? Eyes? By being on the island, right?” Elaine asked to confirm.
+
+“Yes, but now it’s in the fucking sky!” Vita screeched.
+
+“Sure, but I have an easy solution. Let’s bury you in dirt and mud. Then it can’t see you.” Elaine said matter-of-factly.
+
+There was no reasoning someone out of a position they hadn’t reasoned themself into, and Elaine wasn’t about to try and play therapist to Vita, and convince her that the moons were harmless. For all Elaine knew, they weren’t actually harmless, given their unnatural state and complete and total not-how-moons-should-be-ness, but that was neither here nor there. She just needed Vita to get through the night, and one night at a time she’d come round - or they’d be done with whatever bullshit the fae wanted them to do this time.
+
+“I… have no idea if that will work,” Vita said hesitantly, “and if it doesn’t work, you, me, and everything remotely nearby is gonna get annihilated by a ten thousand mile long tentacle.”
+
+“Okay, do you have any other ideas how to not get annihilated?”
+
+“I… no.  I don’t know.  It’s in the sky!  It’s not supposed to be in the sky! Maybe a cave?  I don’t know if a layer of dirt will do much, but I’d feel safer with solid rock between us.”
+
+Elaine frowned, then brightened up.
+
+“I’ve got an idea!” She said. “Can you let me command the zombies?”
+
+Vita nodded.
+
+“[Queen’s Commander],” she murmured, uncurling slightly and poking Elaine in the thigh.
+
+[Necromancer] Elaine in the house! Not where I expected to be a day ago, but hey, that’s life.
+
+“Right. You, you, and you - I need those three trees cut down and moved to the side. You, you, and you. Bring back wood. You and you - find stone. You four - cover Vita, don’t let the eyes see her. You-...”
+
+Elaine started to efficiently bark out orders, like she’d been trained to do it for years.
+
+She was used to intelligent Rangers though, not the near-mindless Dregs. Some of her commands were interpreted in interesting ways.
+
+“No, not like that!” Elaine cried out, grabbing her hair in frustration as a raptor brought her a stick the size of her finger. “Big wood! Like the trees!”
+
+Still, with much frustration, grumbling, ordering and reordering, Elaine’s vision started to come to un-life.
+
+Charitably, it could be called ‘A giant pile of logs and sticks.’
+
+“Here. Crawl inside.” Elaine said, as it started to come together. “It’ll shield you from the eyes in the sky, and we’ll keep making it bigger and thicker while you’re inside. Keep you safe.”
+
+Elaine lasered the leg off of one particularly bad-at-following-commands raptor, fried it, and passed it to Vita.
+
+“Here, have a bite while you wait,” Elaine offered.
+
+I am getting way too used to lasering meat off of moving creatures.
+
+Vita, for her part, just grabbed the food between her teeth, nodding a quick thank-you before scurrying into shelter. From her perspective, hiding behind a tree hadn’t gotten her killed yet, so hiding behind a structure of trees should hopefully work the same.
+
+Elaine kept working for hours, building the fort larger and larger, hoping that it wouldn’t all collapse on itself. She occasionally threw in more pieces of the unhelpful raptor into the center, where a scrawny arm would dart out to grab it and drag it into its maw.
+
+Finally, Elaine felt like she’d done enough. She roasted the last few pieces of the raptor, told the rest to “Guard”, and crawled in herself.
+
+“Hey. It’s going to be okay,” Elaine said, lying down next to Vita. “It’s all going to be okay.” Elaine closed her eyes.
+
+Vita nodded numbly.
+
+“Well, if it isn’t, at least we’ll probably die instantly before getting our souls eaten,” she muttered.
+
+Elaine didn’t hear her. She was fast asleep.
+
+“Wow.  She… passed out fast,” Vita mumbled to herself.

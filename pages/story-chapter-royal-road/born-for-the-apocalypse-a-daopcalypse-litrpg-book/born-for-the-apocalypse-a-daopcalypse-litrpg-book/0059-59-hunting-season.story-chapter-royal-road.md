@@ -1,0 +1,79 @@
+---
+id: 5b6a15d4-181c-559d-9ebf-511d773328df
+page-type-slug: story-chapter-royal-road
+title: "59: Hunting Season"
+slug: 0059-59-hunting-season
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 59
+ownLength: 2661
+unit: words
+publishedAt: 2025-02-24
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2087086/59-hunting-season"
+royalRoadId: "2087086"
+---
+
+59:
+
+Half a day had passed since Jack and his group had stepped into the desert and Jack had come to the realization that he had still underestimated the toll the environment was going to take on his group.
+
+Their strategy of zig-zagging across the desert environment, prioritizing crossing the lowest elevation dunes in their line of sight above covering distance was seemingly paying off, as they had yet to encounter more than one Sand Stalker at once. The concentration of Sand Stalkers they had borne witness to minutes out of stepping out of the Howling Mist-Vault and stepping into the periphery of the desert environment had clearly been unnatural, which only served to provide more evidence to Jack’s theory— they had stepped into a different starting area and the Sand Stalkers had been placed there to guard the entrance to the Howling Mist-Vault. It wasn’t as if cultivators that weren’t powerful enough to beat the Sand Stalkers wouldn’t be able to last in the Mist-Vault, so Jack supposed that it also served as a warning.
+
+Still, there seemed to be no end to the number of Sand Stalkers in the desert and it wasn’t as if Jack’s group had any means of hunting the creatures beneath the sand, so even investing in long range Qi Pulses wouldn’t do them much good given that the creatures could move freely beneath the sand and a Qi Pulse only lasted for a minute at most. The need for constant vigilance had begun to weigh on the group and the terrain disadvantage meant that they hadn’t taken a break yet, none of them too willing to make camp on a sand dune when a Sand Stalker, with it’s serrated pincers and venomous stinger, could erupt out of it at any moment.
+
+However, it was the same adversity that had pushed the new additions to their group to work together with a cohesion that had been missing in the Juvenile Werewolf battle. Marcus seemed to have taken the near-fatal lesson the Werewolf had given him to heart, as he adhered to his place in the formation and even called out his attacks when he could, a decision that had let Sarah coordinate with him and pincer the offending Sand Stalker from the other side at least twice. Marcus clearly wasn’t skilled with a blade and he still swung with his arm instead of his body, which limited the momentum he could generate with his strikes, but Jack could hardly blame him for it. He had considered telling Marcus, but real combat was a terrible place to practice new techniques and a bit more selfishly, Jack still didn’t know where Marcus’s loyalties lay.
+
+One could call it a pragmatic way of thinking, or a selfish and cruel one, but he simply saw it as a human one. Andrew and Trent had taught him that alliances ran thin in face of the apocalypse and Jack’s doomsday prepper side wouldn’t allow him to not prepare contingencies for a mistake he’d already made once. He would much rather prefer Marcus as an ally instead of an enemy, but if the man disagreed, then Jack would not be the one scrambling to survive— Dao Mark or not.
+
+Especially because the rate of improvement Marcus was showing was impressive. His guard wasn’t perfect, far from it and Marcus had already caught slashing pincers on his Jade Guard Armor Set a few times, which would’ve come with bruises or cuts had he not been wearing the impressive set of armor, yet despite Marcus having evolved his sword style to a more cautious, observant one, it hadn’t given in to fear.
+
+Despite all that had happened, Marcus’s sword style hadn’t turned into an overly defensive one; he wasn’t trying to guard himself against every blow from every angle, which was a pursuit in futility and if he kept going, what he lacked in skill could be bridged by investments in statistics and perhaps the acquisition of cultivation techniques in the future.
+
+Jin’s fighting style had gained definition as well, a lot of it for that matter. Jack didn’t know if it was because she still lacked full body armor and that made her feel exposed or if she always had it in her, but the only word he had to describe her style was vicious. The Bloodsong Spear felt like a perfect match for her as she lashed out within moments of a Sand Stalker revealing itself on her side of the triangle formation, thrusting her spear based on estimating where it’s body was hidden beneath sand like she had during her first encounter with the Sand Stalkers or more commonly, just going for whatever body part that was protruding above the sand.
+
+Seeing Jin skewer open a left pincer to absorb the Sand Stalker’s blood before tugging it free and using the improved penetrating power to rip the pincer free from it’s body on her second strike was quite a sight, but even that display paled in comparison to the viciousness with which she had driven her spear between it’s pincers and through its head, catching it in the center of its body and ripping apart it’s thorax from the inside in a display of pure instinct, without even relying upon her Bloodsong Spear’s enhancement.
+
+Jin’s battle philosophy seemed to have become ending the enemy before it got a chance to strike back and that was how they had discovered that the Sand Stalker’s weak point was their prosoma, the fused head and thorax that made up the front of the hideous creature.
+
+Sarah’s battle style seemed to have changed a little as well, as she focused on precise movements as she landed spear blows to disrupt and disable the Sand Stalkers instead of going for the kill from the get-go like Jin was. Where Jin was seeking to end the battle as quickly as possible with instinctive attacks that were as swift as they were brutal, Sarah’s focus seemed to be on making her attacks increasingly more willful than reactive.
+
+She hadn’t used the tenfold strike cultivation technique in combat yet and Jack had to laud her restraint. Jack wasn’t sure if he’d be able to wait this long himself, but on the other hand it would be pretty foolish to give up the reach advantage and try to punch an enemy that had a venomous stinger attached.
+
+Jack had been keeping count and until now, they had felled a total of twenty-six Sand Stalkers as a group, with him having slain six personally. Unfortunately, the reward distribution was not nearly as equal, with Jin and Marcus levelling up once by their own admission and reaching level 5 and Sarah reaching level 6, while Jack himself found the experience gain to be a steady yet slow trickle that would require him to kill dozens upon dozens of the Sand Stalkers to reach level 8.
+
+After earning jaw-dropping sums of TP in remarkably short amounts of time, Jack had to admit that he was quite disappointed by the dismal sums of TP he earned for every Sand Stalker kill. A thousand TP after twelve hours of travelling the desert environment was a pretty pitiful showing and by the time Jack managed to amass a decent reserve of TP again, the valuable artifacts would just be sold out by then.
+
+He needed to find a way to increase his TP inflow, but even if he monopolized every kill from now on, it would still take him days of relentless hunting to match what he had earned in a single day, a rate that was simply too slow for him to keep pace with the frontrunners. Yet, splitting off from the group just to monopolize the kills of weak evolved earth predators could not justify the reward, especially when they could tackle the Howling Mist-Vault together and reap its rewards.
+
+Ultimately, he was at the mercy of the environment and what challenges it deigned to throw in his direction. Jack was certain that there had to be predators stronger than the Sand Stalkers waiting to reveal themselves, but in all honesty, he was more concerned about other cultivators.
+
+Twelve hours and they had yet to come across a single other cultivator group, which was an observation that bothered him and weakened his theory by no small margin. If this was a new starting location, then where were the people? It had made sense that they hadn’t encountered more than one other group in the forest region, given that the threat of roaming bands of rift goblins and evolved earth predators incentivized moving as silently as possible through the forest and there was enough cover to be found that two groups could miss each other despite being a dozen or so meters of each other.
+
+But the same could not be said for the desert, where even crossing a low dune could offer peripheral vision that stretched on for miles on end, a view that admittedly could be blocked by the occasional large dune, but still nowhere large enough to explain why they hadn’t spotted another group yet.
+
+Climbing across only the smaller dunes had managed to limit the danger to a manageable degree, though even then Jack could see the weariness etched on his group members faces. While the Sand Stalkers weren’t particularly difficult to fight as long as a set of precautions were kept in mind, their terrain advantage meant that any member of the group could be called upon to fight at a moment’s notice. Even if Jack could go an hour without needing to fight, it was hard to consider that a reprieve when he had to keep his body primed to burst into motion at a moment’s notice. Even after using his Essence Renewal Art to recoup three more Qi Points, there was only so many times Jack could use Qi Pulse to try and detect any approaching Sand Stalker before it surfaced. Had his True Sight allowed him to see through the minute amounts of Qi diffused in each grain of sand and see what lay between the dunes, it would have been a different story, but unfortunately the technique remained limited to his line of sight.
+
+His contribution to the group, besides the additional Qi Pulses he was sending out without being asked to and calling out the threat, was killing three Sand Stalkers that had escaped the group’s detection net himself. He supposed that the vicious battle style Jin was developing made even more sense, given that Jack, Marcus and Sarah were still likely to survive if they didn’t react in time to the ambush, an assessment that none of them wished to test; while Jin was likely to be grievously injured or worse if her focus wavered.
+
+Am I making a mistake? Jack wondered. Limiting the group to climbing smaller dunes meant that they were giving up on vantage points that they could use to scan the rolling expanse of sand for signs of other cultivators. Is cresting a larger dune worth the risk? He considered, his gaze centered on one in the distance that was roughly double the height of the ones they usually traversed, yet still nowhere near the tallest one in his line of sight. There could be two Sand Stalkers hiding within that dune with room to spare and Jack would be no wiser about it until he noticed a shift in the sand, one that his True Sight would probably catch before his instincts did admittedly.
+
+It wasn’t the possibility of fending off two Sand Stalkers that troubled him, for those his group was strong enough to fight off. But if they ended up trying to crest a dune that had been hollowed out, then the consequences could be disastrous for all of them. There was a difference between fighting on unstable terrain and flailing about in sand trying to escape being buried alive.
+
+“Jack,” Marcus’s voice seemed uncharacteristically subdued as he called out his name, snapping him out of his reverie.
+
+“Marcus,” Jack acknowledged without looking back, his focus kept on scanning for threats as they descended the dune they were traversing.
+
+“I’ve been thinking,” Marcus continued, his tone soft and contemplative. “About what happened with Takeshi… that was my fault. My… wife has always been my better half. Being forced into this place, well, it’s something I could’ve dealt with if I had Nicole with me,” Marcus winced, his visage crinkling as he tried to blink away the sheer hurt coursing through his veins. “Nicole’s always been a fighter man, always— but in spirit. She’s five-two and a hundred and ten pounds. Fifteen minutes into this thing… I knew it man. I fucking knew it. Knowing that no matter how hard I swing this damned blade I couldn’t save the one person I’d give anything for… it broke something in me man…” Marcus trailed off, his voice quivering and his expression haunted as he revealed more in minutes than he had given to Jin in days.
+
+Jack remained quiet as he contemplated Marcus’s words, having a feeling that the big man had more to say.
+
+“I’ve been throwing myself into battle expecting to die… maybe even wanting to,” Marcus revealed, his tone recovering some of its usual strength as he continued speaking. “What I’ve been doing… the way I’ve been treating you folk after what you did for me… after you saved me from that hell pit, Nicole would’ve been ashamed, man. Shit, I’m not gonna delude myself into believing that she’s alive but… I need to live, man. I need to keep swinging my sword until I find out what happened to her or I cut down the person that did her in. ‘Cause that’s who Nicole married and I’ll be damned if I let this system break our vows.”
+
+While Marcus’s experience wasn’t surprising and objectively, Jack knew that it couldn’t be a particularly uncommon one, given that millions of families across the globe were ripped apart and placed into the trial without giving them a say in it, Jack had to admit that he was a little moved by it. He wouldn’t let Marcus’s personal experiences influence his judgement, but he could and did sympathise with him.
+
+“So I guess what I’m saying is…,” Marcus took a deep breath to compose himself, before continuing, “It was my rash actions that got Takeshi killed. I wasn’t the one that stabbed him with the knife and I wasn’t the one that planned the ambush, but if I hadn’t blindly charged into the fray, it’s possible that there’d be four of us left instead of two. Jin, for what it's worth, I’m sorry. Jack, I know that words can’t make up for actions and you’ve been upfront about the kind of man you are. So I’ll give it to you straight— if you need me gone, I understand. You both have done enough for me and with this armor set, I’ll survive most things,” Marcus declared, the nervousness in his tone palpable as he wore his deepest vulnerabilities on his sleeve.
+
+After noting that Jack hadn’t said anything, positive or negative, Marcus pushing on, “But if you want me here, I’ll fight. I’ll play this game to win and I’ll swing my sword until there’s nothing on the other side left to swing back at me. I’m done— moping around, feeling sorry for myself. That’s not who I was and that isn’t going to be who I become. I’ll follow your lead, Jack, if that’s what it takes to get there.”
+
+A silence fell over the group as they contemplated Marcus’s words and Jack could almost feel the expectant gazes on his back, waiting for him to respond.
+
+Of course, that had to be when the the twang of multiple bowstrings being released sounded out in the distance, his enhanced hearing just barely sharp enough to catch onto it.

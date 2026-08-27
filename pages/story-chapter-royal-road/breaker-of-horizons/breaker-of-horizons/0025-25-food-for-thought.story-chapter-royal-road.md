@@ -1,0 +1,155 @@
+---
+id: 7010c504-b3c2-5165-82e1-d8b683ae25f5
+page-type-slug: story-chapter-royal-road
+title: "25. Food for Thought"
+slug: 0025-25-food-for-thought
+partOf: breaker-of-horizons
+position: 25
+ownLength: 2369
+unit: words
+publishedAt: 2020-07-27
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/530334/25-food-for-thought"
+royalRoadId: "530334"
+---
+
+The walk towards the others seemed to take an inordinate amount of time. The closer I got, the more apparent it was that I had crossed a line with them. Devon was the only one who seemed unaffected by the dark cloud of judgement that hung in the air.
+
+The stone bench could seat three if they squeezed, but Jerric and Devon had taken it all for themselves. Lynus stood with his arms folded, wearing a stony expression that looked out of place on his face. It was the kind of almost-hostile look that I had grown accustomed to seeing on Kevan instead. Ambrose had his hands shoved into his pockets and was looking aggrieved.
+
+"Hey Jerric, Ambrose," I said as I drew near, doing my best to sound contrite. What I had done was worse than the first incident back in the dorm. "I'm sorry about earlier."
+
+There was no immediate response. Jerric simply sighed. Kevan went to join his brother, looking a little smug. I supposed he was just glad that he wasn't on the receiving end of the group's displeasure.
+
+"I know I messed up, I shouldn't have done that to the two of you," I continued, feeling hot under the collar as the silence stretched.
+
+"It took the Demiurge himself to undo what you did," Jerric finally said quietly, looking down at his clasped hands.
+
+"But he said you all were half-way through dispelling it before he turned up, so it can't have been that bad," I blurted.
+
+"Half-way?" Jerric's voice was sharp. His head jerked up and he fixed me with a hard stare. "Half-way? Yeah, sounds about right. I dragged Kevan and Lynus half-way down the corridor before he showed up."
+
+"He's surprisingly strong," Kevan interjected, grinning a little. The others were not amused.
+
+Jerric ignored him and continued speaking, his voice growing tight. "I've never felt so scared and helpless in my life. Everything was just pure fear, pure terror. I couldn't even think straight, couldn't even form one clear thought in my head."
+
+Devon put a comforting arm over Jerric's shoulders. I didn't know what to say.
+
+"I tried venting arcana and sealing it out as usual." Ambrose took up the narrative, sounding distant. "But that didn't work at all. Somehow the arcanic net wasn't just injecting ambient arcana – I think it was actually altering my auric arcana itself."
+
+Lynus nodded. "That's what I figured. I think I found a way to cut arcanic nets, but it didn't work on whatever it was Caden did so I'm pretty sure his net isn't the same as the one Reeves used on us. I don't even think Caden's thing is an arcanic net in the first place."
+
+"So what is it?" Devon turned to me. The question was delivered in a light tone, but it was clear he was just trying to be nice.
+
+"I... I can't say," I mumbled at my shoes, unable to meet their eyes.
+
+Jerric scoffed. The change that had come over him was alarming. He was no longer the mild-mannered, even-tempered person we had known over the past two weeks. I felt a sharp pang of regret knowing that I was responsible for this.
+
+"Jerric, I'm sorry, but please understand. If I could say, I would, but..." How would I even begin to explain this? I'd have to tell them about my sister, and about my purpose for studying arcanophany. And if their reaction to my stated rejection of prophecies back in the first week was anything to go by, this would provoke an even greater negative response. I'd maybe even be ostracised for being some crazy fringe radical.
+
+"You'll give us hints, at least," Kevan cut in. It wasn't phrased as a question. "Because it's one of those things we have to figure out ourselves."
+
+That last part was probably true. But now that I thought about it, I had no idea how arcanists judged what students could be told outright, and what realisations had to be gently hinted at so they could come to personal epiphanies. In any case, this felt very much like the latter. Did that mean I shouldn't have just broken everything down for my father?
+
+"I can't," I said flatly. Kevan's tone irritated me enough to put some bite into my reply. "After he helped you guys, the Demiurge came and found me and basically told me it was dangerous."
+
+That got a bit of a reaction. Devon looked a little awed, Jerric seemed fractionally mollified, and even Kevan hesitated a little.
+
+I seized the moment. "I don't want to get you guys into the same kind of trouble I got into, so I'm not going to even drop hints. And anyway, I don't even really understand what I did. In any case, the Demiurge is apparently watching for stuff like that, so it's clearly off-limits." For now, I thought privately.
+
+Nobody challenged me, although Kevan looked like he was biting his tongue. Ambrose broke the silence with a loud sigh and a shrug. 'Well, I'd like to give the Demiurge a wide berth. He's a pretty scary man.'
+
+"You've met him before?" Devon asked, his interest piqued.
+
+"Yeah, I, he, I mean, by his reputation," Ambrose faltered. Nobody else remarked on that, but I realised that as the Chosen One he would likely have met with Reeves and the Demiurge before to facilitate the memory wipe. Reeves was in charge of that, but it was something probably done under the auspices of the Demiurge.
+
+"He deserves that reputation," I muttered, thinking back to the very tense atmosphere in the sitting room. I shook my head and faced Jerric and Ambrose.
+
+"I... there aren't any excuses for what I did. I just want to say that I panicked too, and I would never do something like that intentionally." I held out a hand in reconciliation.
+
+Jerric's shoulders sagged, but he slowly got to his feet and shook my hand weakly. Ambrose did likewise, albeit with a little more force. He raised an eyebrow as he did so, giving me the impression that he did still expect some sort of explanation later, for his ears only.
+
+I grit my teeth and didn't return any veiled gesture.
+
+"Why'd you panic?" Devon asked, confused. "We were just... sitting around. Trying to figure out how to cut arcanic nets."
+
+"It's..." It was getting really hard to hold an honest conversation. I had panicked because it occurred to me that the Prophecy involved unravelling the nature of arcana itself, but that wasn't something I could just tell them. "I thought I realised something. Maybe panic isn't the right word. When something hits me, I need to go away and just be by myself so that I can think it through alone. I'm a little crazy like that."
+
+Kevan shook his head and muttered "crazy Top Scorer" under his breath, but didn't pursue the matter. That might have irked me before, but at this point, I considered it a lucky break.
+
+"So... are we good?" I asked.
+
+"We're good," Devon said almost immediately, followed by Ambrose. Jerric only nodded wearily. Lynus' response was a delayed bob of his head, while Kevan had only given a non-committal shrug. It wasn't a ringing endorsement, but I decided to take what I could get.
+
+"I think we're going to have to put our practice on hold for today," Ambrose said with a sigh. "I'm wrung out."
+
+Jerric snorted. "Tell me about it."
+
+"Actually..." I tentatively raised a hand. "If... if you two don't mind, I do want to hear about it. Especially when the Demiurge came in. Maybe we can learn something from what he did."
+
+Jerric looked like he was holding back a biting retort as he thought it over, and his love for learning won out over any lingering negative feelings he harboured towards me. He drew in a deep breath and seemed to regain some of his steadiness. "Fine. But let's go back to the dorm. It's getting cold out here."
+
+Returning to the dorm turned out to be an excellent idea. Devon decided that a late-afternoon snack would raise everyone's spirits, so he brought out a waffle iron and started preparing some batter from scratch. The prospect of freshly-made waffles put us in a considerably better mood, and by unspoken consensus, we decided not to talk about the Demiurge until later.
+
+Under threat of not getting any waffles unless we learned how to make them, Devon talked us all through the process of making the batter, his hands moving with brisk efficiency. He seemed to get progressively more excited as he worked, and his good mood was infectious.
+
+As he poured the batter into the hot waffle iron, the rich aroma filled the dorm. "Man's true heart is the belly," Devon declared as the scent wafted over us. "Fill it, and you fill his soul."
+
+That elicited some chuckles. "Of course you'd have a waffle iron packed for the Academy," Lynus said, shaking his head in amusement. "I mean, it's essential."
+
+"Exactly," Devon grinned, taking the jibe with good grace. "I actually didn't pack it, I got it sent over earlier this week. I was waiting for a good time to surprise everyone with waffles, but this is as good a time as any."
+
+"Just plain waffles though?" Kevan complained.
+
+In response, Devon triumphantly marched over to one of the overhead kitchen cabinets and flung it open. There were bottles of honey and chocolate syrup and cans of whipped cream. "I've also got a punnet of strawberries in the fridge, and a tub of vanilla ice-cream in the freezer," he gestured magnanimously. "Because I knew you'd whine about plain waffles."
+
+"Fates," Kevan breathed, and his stomach growled audibly, drawing more chuckles.
+
+"That's a lot of stuff, Devon. We should think about splitting the cost?" I ventured.
+
+"It's fine," he said, waving a hand dismissively. "Think of it as my contribution to the group."
+
+"At least he's the generous type of rich kid," Kevan snarked. That earned him a cuff on his head from his brother.
+
+"Watch out later, Kev. There might be extra ingredients in your waffles." Devon flashed a cheeky grin.
+
+The two of them fell into highly entertaining back-and-forth banter. This was the most comfortable I had ever seen Devon, especially when facing off against Kevan. It seemed that food really did fill his soul, giving him a sense of purpose and endowing him with a breezy confidence that he had never shown before. I wondered if he had missed his true calling by choosing to be an arcanist.
+
+"Devon," I asked, after the banter had died down, "did you ever think of getting into cooking professionally?"
+
+"Why?" Kevan managed to cut in. "You think that's all he's good for?"
+
+"I'll make you eat those words," Devon shot back at Kevan, brandishing the wooden spoon he had used to stir the batter. "Anyway, yes, I did. It's still kind of my dream, actually. But you know, me being here means a lot to my parents. And I figure that being an arcanist doesn't mean I can't still cook." He shrugged. "Maybe I'll find a way to put those two things together."
+
+"Can you imagine food infused with arcana?" Lynus seemed fascinated by the possibilities. "Is that even possible? Is that safe?"
+
+"It's possible. I've actually already read up on it. There aren't many arcanists who bother with it because few people treat that application seriously. It's a field of research ripe with opportunity." Devon's eyes gleamed with excitement.
+
+It seemed that regardless of whether or not he made direct use of arcana on food, Devon was well on his way to making the cooking process more efficient with arcanophany. As he continued churning waffles out of the iron, I noticed he was keeping the finished ones warm by briefly concentrating on them, presumably using a mental glyph sequence. He also wasn't spreading butter onto the iron with a brush — he would simply flick in a small chunk of it onto the iron, and it would daub itself evenly across the surface, even somehow defying gravity by staying on the ridges.
+
+"You've got a real talent there, Devon," I said seriously, pointing at the waffle iron. "Don't let anyone tell you otherwise."
+
+"Yeah," Kevan began, "if working class skills are considered ta—"
+
+All of a sudden, Kevan leapt to his feet with a startled cry. Devon cracked a smile. "Seat a little hot?" he asked innocently.
+
+"Is this a homebrew glyph sequence?" Jerric was scrutinizing the waffle iron up close. "This is really complex."
+
+"Is that a homebrew glyph sequence?" I echoed, pointing at the seat Kevan had just vacated. There was a faint shimmer of heat playing across it.
+
+"Yes to both," Devon answered smugly. A moment later, the shimmer over the seat dissipated as he relinquished his hold on the sequence. I waved my hand over it, marvelling at the residual warmth. It was like I was holding my hand over a...
+
+"Wait, hold it, you've transferred heat from the waffle iron to his seat?" I asked sharply. I noticed the faint pattern of the waffle iron lightly burnt into the wood.
+
+"Yup!"
+
+"But there's no medium. How did you do it?"
+
+"Trade secret," Devon said, wearing a proud grin worthy of Kevan, who snorted in contempt as he massaged his slightly-burnt backside.
+
+"Will you at least give a hint? Are you using Basic Set glyphs or one of the new ones we learnt?" I pressed.
+
+"Eat first, talk later," he commanded, dropping the plateful of waffles onto the dining table. "Otherwise you'll all keep asking questions until the waffles are cold."
+
+As we slathered our waffles with the toppings of our choice, I found myself looking at Devon in a whole different light. I had, rather unfairly, relegated him to the back of my mind as a hardworking but ultimately mediocre arcanist. And unless I was very far off the mark, so had the others.
+
+It's nice to be proven wrong sometimes, I thought to myself, trying not to grin too widely at Kevan, who was shifting uncomfortably in his seat.

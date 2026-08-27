@@ -1,0 +1,159 @@
+---
+id: a3eec840-d2e1-5804-a990-0ff1f3ee082f
+page-type-slug: story-chapter-royal-road
+title: "v6c1: Arrival of the Strongest"
+slug: 0189-v6c1-arrival-of-the-strongest
+partOf: beware-of-chicken
+position: 189
+ownLength: 2524
+unit: words
+ownProgress: 2524
+publishedAt: 2025-03-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2102652/v6c1-arrival-of-the-strongest"
+royalRoadId: "2102652"
+markedReadAt: "2026-06-29T18:57:48.112Z"
+---
+
+The melodious cry of a rooster split the air, echoing over the hills. It greeted the sun and roused all who heard it to wakefulness.
+
+As the resonating note finished, Bi De nodded to himself. He was in fine form today indeed. A sentiment echoed by his little brother, as Zhuye’s shout came not soon after, the babe’s joy a palpable thing as he cheered the coming of the dawn.
+
+Bi De treasured every time he heard that little cry—just as he treasured another voice.
+
+“You tell ‘em, Bi De!” his Great Master called, and Bi De smiled.
+
+He took a moment to simply bask in the sun’s rays and breathe in the air of Fa Ram. He had been away from his home for nearly nine months, training with Shen Yu, infiltrating the Shrouded Mountain Sect, and finally attacking the demonic cultivator base in the north. His absence had only made his heart grow fonder of his home—even as changed as it was.
+
+His Great Master and the family that had stayed home had been busy, renovating the house to somehow be even grander than it had been. Bi De was currently enjoying the fruit of that labour. Extra perches had been added to the roof, and this one in particular, at the highest point, was a most prime place to perform his duty of welcoming the sun. Sister Tigu had also added her own touch to it, the carvings of rice and wheat upon it providing just the right amount of grip for his talons. Tigu had remembered the way Bi De enjoyed sitting, and had carved it specifically for him.
+
+His gaze roved over the hills, over his home, Fa Ram. Over the Great Pillars, some recently repaired. Over the General that Commands the Winter, standing tall and proud, a towering presence, his charcoal smile wide and his hat, filled with birds, jaunty. Bi De looked over the river, frozen and cleared, adorned with nets so that they may play Ha Qi. If there was one thing his human form was good for, it was for the game. It was unfair that in his natural form he was immune to hip checks, being too small to properly receive blows. As a human, he could finally appreciate the true skill and nuance of Ha Qi, gliding across the ice, and challenge his Great Master as an equal.
+
+Well, not an equal. His Great Master was his Great Master, and Bi De was often left humbled and digging himself out of the snow. But it was still most enjoyable.
+
+Truly, Fa Ram was beautiful, even marred as it was by the assault upon it. If the demons had not won his enmity before, then now… now they certainly had.
+
+Bi De hated few things, but demons were certainly one of them. There would soon come a day when he would once more leave his home and sally forth to root out the foul beasts. It was one of the reasons why he had asked to train under Shen Yu.
+
+To protect his home, he would venture forth and do battle… but it would not be this day. With the grace of the heavens, it would not be for a while yet, for Bi De was in no state for another conflict of the magnitude he had participated in in the north. He was injured, and tired.
+
+Rest was what the Healing Sage and Ri Zu had both commanded for him, and he would gladly oblige.
+
+Bi De turned from his perch and hopped back through the window, closing it behind him. He ventured into the living room, where the preparations for the breakfast feast were well under way. He leapt from the rafters, and with a pop, Bi De was human. Landing beside Ri Zu, he slung an arm around her shoulder before giving her a kiss on the cheek.
+
+She smiled up at him… and then they had a lovely breakfast.
+
+============================
+
+After a wonderful breakfast and their customary morning exercises, they set about with their preparations—they were, after all, to have esteemed guests.
+
+For a moment, Bi De was worried about their food supply, considering that they were soon to host more cultivators—Fa Ram had already recently hosted nearly a hundred cultivators for over a week, when they had to take care of the wounded members of the Shrouded Mountain Sect. Yet, of course, there was nothing to worry about. Just as Bi De had worked hard in the north, his family had worked just as hard doing a job just as important.
+
+As Wa Shi would say, an existence without food was no existence at all. A hundred cultivators had merely made a dent in their supplies. Their Great Master actually had problems in that they produced far more than he could sell!
+
+Sister Pi Pa, the pig who had recently turned human, sent them all forth, armed with her ledger… though there was one thing that made Bi De smile.
+
+“It's a little strange getting used to your human form, is it not?” Bi De asked. The pink haired woman blinked, looking slightly confused.
+
+“Wha ‘oo ‘ou mean?” she asked around the brush in her mouth… before she realised just exactly what he was referring to. She took the brush out of her mouth, her cheeks pink. “...I write better like this. And it's more efficient! I can hold two different things and write!”
+
+“Getting used to hands was certainly a journey,” Bi De said, trying not to laugh. Pi Pa huffed, but there was a small smile on her face as well. Brother Chun Ke chortled at them both.
+
+Pi Pa cleared her throat. “Well, getting back to the matter at…. well, hand! These are actual guests, so we can’t get away with just rice and pickles!”
+
+Bi De’s lips quirked in amusement. Pi Pa had intended the food she had given the Shrouded Mountain Sect as a snub, ‘merely’ feeding them rice and pickles.
+
+Bi De had spoken to the cultivators they had rescued. The Shrouded Mountain Sect had been utterly humbled by the “overwhelming hospitality” they had received.
+
+It was something Bi De had learned over his travels: one's circumstances informed their outlook on the world.
+
+So they did one last check of the guest house, and the Healing Sage and Pi Pa finalized the menu.
+
+Then, the call came out.
+
+“They’re nearly here!”
+
+They all lined up, as was proper, to greet their guests—when Shen Yu looked at Bi De with a smile Bi De had become familiar with.
+
+A smile full of mischievousness. How the old man could look so enthusiastically smug was beyond him.
+
+=====================================
+
+Xiao Ge, Elder of the Cloudy Sword Sect, stood upon his flying sword as it drifted lazily towards Rou Jin’s home. Beside him were Elders Shou and Yukong, on their own blades, and slightly further away Tianzhe Minyan almost lounged on the air, unsupported by anything. The Qi void of the Azure Hills was a mild yet ever present annoyance that required him to actually concentrate a little on his blade, but it was not too onerous.
+
+He was quite pleased—the disciples of the Cloudy Sword Sect had done their duties admirably in purging the demonic hordes of the north. Their operational tempo had been high, injuries low, and the consolidation of their gains swift and unrelenting. They had struck a devastating blow to the Demonic Cultivators, that much Xiao Ge was confident in saying as fact.
+
+And yet, even this hammerblow to the Demonic Cultivators was only the surface. They allegedly had bases all over the Empire! The scale of this operation was immense… but luckily, they did not need to search alone. The artifacts Yukong had created in order to track the enemy’s movement formation were already being delivered to the Cloudy Sword Sect and Soaring Heaven’s Isle, while the Emperor’s Herald had left to report to the Emperor post-haste.
+
+The Emperor’s Street Sweepers and other selected sects would soon find themselves in possession of those artifacts. Ge didn’t know how fast the enemy could go to ground, and with luck, they would be able to catch more cells unaware… and then the truly tedious portion of this task would begin.
+
+So for now, they could wind down the tempo of their duties. They still had much research to do upon their new enemy, their formations, and their bases—but that was a thousand Li race, not a sprint. There was no reason not to take Shen Yu and Rou Jin up on his offer to visit and resupply at his home.
+
+At first, it would just be the Elders… though that was mostly because Shou would probably poison anyone who interrupted him picking young Jin’s brain about the Spiritual Herbs he had grown. The man had practically been counting the days, much to Ge and his wife, Yukong’s, amusement.
+
+With Lu Ri in charge of the disciples, they anticipated no issues with this little diversion.
+
+First, however, they travelled to Hong Yaowu, the home of their newest Honoured Allies, so Yukong could inspect the barrier around the little village. Lu Ri had done his duty well, and the warding formation was well on its way to settling.
+
+From there, they travelled north, along the well-made road—only for the air to suddenly change. They went from Qi void to what Ge considered ‘average’ for most of the provinces of the Empire.
+
+“We all dismissed the Azure Hills—but this level of Qi variation is quite interesting,” Yukong’s voice came to Ge and Shou. “Does it all concentrate in one place, and earlier scholars merely failed to find these concentrations? Is that how Rou Jin’s cultivation advanced so quickly, with him having access to some manner of highly concentrated dragon vein?”
+
+“An interesting hypothesis, Sister Yukong,” Ge replied, stroking his beard. “Records and my own observations show precedent that that is a possibility.”
+
+Shou hummed. “I do not believe that is the case. The growth pattern in the trees is concurrent with a low Qi environment. No, this level of Qi is recent. If a powerful dragon vein existed, the effects would likely be more pronounced.”
+
+“Even if it was underground, and recently brought to the surface?” Yukong replied, and all three of them considered her words.
+
+“Implausible. Such radical alterations of a dragon vein have lasting destabilizations, and the progression of Qi holds none of that,” Shou rebutted, and Ge found a smile coming to his face as they began to engage in the highest form of discourse—scholarly debate on the nature of this wellspring of Qi.
+
+They could be at this for days, a most enjoyable activity, but unfortunately they only had a few minutes. The Qi levels continued to rise… and they beheld a gap in the forest. Shen Yu’s Qi was present, as were many other signatures.
+
+Shen Yu’s marred, cracked Qi flared in a pattern of welcome, and so they descended from the skies. They passed by a small fence, and over a hill. Ge raised a brow as the Qi in the air increased substantially.
+
+It was a modest, humble home they beheld; more in line with something a mortal would build… save for some interesting outliers.
+
+“… what is that for?” Yukong asked, sounding genuinely confused at the enormous edifice of snow. It had a large, blacked hat made of reeds, a nose that was a truly enormous carrot, and its eyes were made of charcoal dust. Its grin was wide and friendly, and one arm, made of a tree branch, almost looked like it was raised to wave.
+
+“I do not know, but I know that is something used to grow Spiritual Herbs,” Shou replied, his eyes fixed intently on the other point of interest: an entire building made of glass that was filled with green, growing plants. “Glass… how mortal, but an interesting way to create a climate control formation.”
+
+Shou was as interested and excited as Ge had ever seen him.
+
+“So. Shall we?” Ge asked, his voice this time carrying to Tianzhe Minyan. The woman nodded regally, and as one, they floated down from the skies to where young Jin’s household was gathered to pay their respects, standing in front of his small manor. Ge’s eyes ghosted over them all. The Spirit Beasts were interesting. Lu Ri had mentioned them, but Ge could not divine their purpose. Were they artificial? Was he raising them for some reason? There was even a baby dragon!
+
+His sharp eyes also looked for Shen Yu’s mysterious other disciple, the one who had struck an Imperial Realm cultivator enough to distract him, but he saw no one.
+
+The head of the household was the one that gave greetings, but Shen Yu allowed his grandson to take the lead. The young man stepped forwards.
+
+“This Rou Jin greets the Elders of the Cloudy Sword Sect and Elder Minyan of Soaring Heaven’s Isle Sect. Please, be welcome in our home.”
+
+The rest of the humans and the Spirit Beasts gave a similar greeting, all of them bowing as well.
+
+Ge clasped his own hands. “The Cloudy Sword Sect thanks you for your generosity. We are honoured to be welcome.”
+
+Minyan simply inclined her head… which for her was quite the gracious greeting.
+
+“Bah! So formal!” Shen Yu declared, his smile wide. “Let’s get the introductions out of the way so we can drink wine and be merry! Firstly, behold, my granddaughter!” Ge raised an eyebrow at the enthusiastic introduction of a short woman with green hair and freckles. She would be Hong Meiling, as described in Lu Ri’s report—one of the crafters of the Anti-Demonic Siphoning Formation. She bowed politely again. “You’re not allowed to steal her, Minyan!”
+
+That, however, just seemed to pique Minyan’s interest.
+
+“And next… is my other disciple. The man who struck a blow against an Imperial Realm cultivator! Come forth, Bi De!”
+
+Xiao Ge looked around, for the one who could be Shen Yu’s disciple—
+
+A rooster, sitting on Jin’s shoulder, cleared his throat and hopped down.
+
+“Greetings. This one is Fa Bi De,” he said, his voice deep and regal.
+
+All of them stared at the chicken. A magnificent chicken to be sure, doing a proper martial greeting. He was wearing a fox-fur vest that looked like it had seen better days, and a slightly melted silver pendant.
+
+Xiao Ge felt mirth begin to bubble up in his stomach as he stared at the sheer absurdity of what he was seeing.
+
+The rooster swept into a perfect bow, filled with impossible grace. His were the sharp eyes of a scholar and a philosopher, of a man with profound wisdom.
+
+"I told you my Disciple is a proud, erect fellow," Shen Yu said as he held out his hand, displaying the Spirit Beast to them all like a proud father, a massive, shit-eating grin on his face. "Truly, he is the most magnificent of cocks!"
+
+Tianzhe Minyan raised an eyebrow.
+
+"A chicken?" she asked, sounding utterly flabbergasted.
+
+Shen Yu started laughing. And after a moment, Ge started laughing with him.

@@ -1,0 +1,249 @@
+---
+id: f57bffc9-d160-50df-9a34-7e3a511fdc7f
+page-type-slug: story-chapter-royal-road
+title: "v4c4.2: The Old Monster's Plan p2"
+slug: 0008-v4c4-2-the-old-monster-s-plan-p2
+partOf: beware-of-chicken
+position: 8
+ownLength: 3627
+unit: words
+ownProgress: 3627
+publishedAt: 2023-04-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1195278/v4c42-the-old-monsters-plan-p2"
+royalRoadId: "1195278"
+markedReadAt: "2026-06-29T18:51:34.689Z"
+---
+
+Yun Ren felt the sudden shift in atmosphere. A hush fell over the place, and the hairs on the back of his neck stood up even while he felt… almost comforted? Safe?
+
+“You’re… you’re really back, Uncle,” the Nezuhua woman whispered. She looked just slightly younger than Yun Ren’s own mother, though this woman was significantly bigger. In every area. She had a body that was more like Xiulan’s. Her carefully tied her robe of silk and her light, sandy blonde hair were complimented by sharp grey eyes.
+
+“Indeed I am, my dear. It's been a while, no?” Nezan replied, smiling. “You’ve done well with this place.” He looked around at the well worn timber of the inn and sighed with pride.
+
+“I’m unworthy of your praise,” she muttered, looking away. “We’ve grown so weak. The bloodline—”
+
+“Still lives, and that is enough. Why, look how many of my cute nephews and nieces there are here!” The woman blushed, and there was some nervous laughter from the spectators. “Now, come here, Niece.”
+
+Nezan’s body melted, in the blink of an eye, from a woman into a familiar male clad in armor. His eyes lost their mischievous twinkle. Nezan looked old and sad and almost regal. His Qi filled the room accompanied by the reverent whispers of “Lord Uncle” echoing throughout the building.
+
+Nezuhua broke down into tears as she walked forwards and took Nezan’s hand in hers. She pressed the back of it to her forehead, taking deep breaths to calm herself.
+
+Yun Ren could safely say he was just a little bit uncomfortable. It was, after all, one thing to walk into an establishment where you’re known and be greeted with enthusiasm. It was another to watch your annoying fox uncle—great uncle? Nezan had been a bit unsure as well, having tried to map out exactly how they were related, the resulting genealogy had been longer than Wa Shi’s dragon form—being revered as an honored ancestor, one whom everyone dropped to their knees in near worship for.
+
+“You look better, Lord Uncle. Your wounds have all healed? Last I saw you, was— No, nevermind that.” She let go of his hand and stood with her back straight. Smiling now, she asked him with a slight bow, “How may we serve you?”
+
+Nezan smiled back at the woman. “Oh, my, so dutiful, exactly like I remember! But I don't need much, dear. Some hospitality for my friends. And I have to introduce you to your cousin!” He gestured grandly at Yun Ren.
+
+The woman’s eyes locked on to him, then shifted to his sword. “Cousin? More of us survived?” A note of hope entered her voice.
+
+“Honoured Aunt’s blood, in the far north of the Azure Hills. But… the entryway is no place for that conversation, no?”
+
+Nezuhua stiffened suddenly. She turned back into the building before clapping her hands. “Show Lord Uncle and his Guests proper hospitality! Their wellbeing is your only concern!”
+
+“Yes, Aunt!” The waiting crowd of attendants from within choroused, and suddenly they were surrounded by servants offering to take their shoes and asking if they needed a change of clothes or if they wanted a bath. Yun Ren nearly took a step back when Nezuhua appeared before him, and, to his surprise, hugged him.
+
+“I look forward to getting to know you later, cousin,” she said, before turning to look at Shen Yu… and paling.
+
+“Forgive my inattention to you, Master. We have only the best for Lord Uncle’s associates.” She bowed deeply to him, nearly scraping the ground with her head.
+
+“I’ll hold you to that,” the old man said.
+
+Nezhua rose from her bow and gestured widely. “This way please, Honoured Guests.”
+
+The main doors were opened by two more servants, these ones without fox ears or tails, and in a whirlwind of motion they were escorted deeper into the compound.
+
+It was a bit much, honestly. It reminded him of how Xiulan had been, with the bowing and the scraping. Yun Ren turned a questioning look on Nezan.
+
+“They are fragments of my people that dear Wen and I managed to save, all those years ago,” Nezan said with a sad smile. “The people she gave her life to save… or at least their descendants.”
+
+Technically speaking, then, these people were family of a sort too… though they looked nothing alike. The people here all had wide open eyes instead of his perpetual squint. Their faces were rounder and less angular. The strangest thing though was, well, the pretty men and women didn’t actually have an extra set of fluffy ears and tails.
+
+Yun Ren was a hunter; he knew the movements of animals intimately, and the features were lifeless things, held up with what he could see were subtle bits of wire. Actually, hadn’t he seen exactly this in one of Jin’s drawings? Like the bunny costumes Meimei had made?
+
+Yun Ren looked to Ri Zu and Bi De, confirming with a glance that both had noticed the same thing he had. Intrigued, Yun Ren turned to the Da Jin lady.
+
+“Uh, sorry if this sounds a bit rude, but… why are people wearing fake ears?”
+
+The woman paused at the question, and then turned to Nezan, who nodded.
+
+“All of my companions are trustworthy,” Nezan stated simply. “And we will be relying on them in the future.”
+
+The woman bowed and turned back to Yun Ren. “Their blood is too weak, and they aren’t cultivators,” Da Jin began. “But they are kin, so… it is nice to pretend that we are what we once were. The only one of us who can truly transform is Aunt Nezhua. Even for me, this is an illusion.” The woman raised her hands to her head, and the fox ears dissipated like mist under the morning sun, along with her tail. “Even my face is false, really. Adhesives and makeup.” Her finger lit up with a small spark of Qi and she dragged it along the bottom of her eyes. Big dark eyes narrowed into a familiar squint.
+
+All of a sudden she looked like family.
+
+“The Shrouded Mountain Sect’s inquisitors can detect our illusion techniques, so we’ve had to be… mortal with our methods. It won’t save you if you really do get taken, but it does stand up to all but the most thorough examinations. We’re barely foxes, most of us. Lord Uncle is one of the few trueborn left.”
+
+A silence had settled over them as she spoke, the atmosphere becoming heavy as Da Jin took a breath, pausing to choose her next words with care.
+
+“The other reason is that the ears and tails are the most popular thing we have amongst our customers,” Da Jin said blandly. “You have no idea how many people want to dress up like a fox and run through the garden. We make so much money off of this.”
+
+Yun Ren couldn’t help it. He started laughing along with Nezan and Shen Yu. Even Bi De let out a little chuckle—before Shen Yu paused as if he had just realised something.
+
+“Wait, this is the first time you three have been to an establishment like this, is it not?” The old cultivator asked.
+
+Yun Ren, Bi De, and Ri Zu all nodded. Shen Yu smiled.
+
+“Well then! I, your Grandfather, shall tell you how to properly conduct yourselves!” Yun Ren braced himself for the lewd joke. “Firstly! Remember to always be a gentleman!”
+
+Yun Ren blinked. He honestly hadn’t been expecting the old man to say something so… upright in regard to the lewd setting.
+
+======================
+
+The brothel really wasn’t what Ri Zu had been expecting.
+
+She had, a while ago, found a secret stash of scrolls in her Master’s bedroom in Hong Yaowu. Curious, Ri Zu had read them, and well… her ears had turned very, very red. She hadn’t been able to look away.
+
+She had read all of them in the afternoon and then been unable to look Bi De in the eye for a week. In those stories, brothels were dens of depravity. Low light and incense inflamed passions. Moans echoing through the walls! Scantily dressed men and women plying their sultry trade!
+
+This place, where they had been led after Nezan had introduced them all, was more like a well appointed house. They had all been led into a beautifully decorated hall. The windows were open to let in the light; tapestries hung on the walls to add colour, and there were soft couches to seat them all.
+
+It was just like a really nice home… if they had thirty people as good at their housekeeping as Pi Pa there, to move gracefully around serving people.
+
+Their sandals and boots had been taken to be cleaned and if necessary repaired. Light food had instantly been provided, with a promise of more on the way. Sixty kinds of alcohol had been lined up on a central table.
+
+Nezan looked like a regal lord holding court as he spoke to Nezuhua and a gathered crowd who had come to attend him. Yun Ren, ever personable, was talking animatedly with Da Jin. The woman’s voice was musical, as she described places for him to visit, from green meadows to towering vistas.
+
+Shen Yu, though, was absolutely shameless. He looked quite pleased at the service he was receiving.
+
+“This one uses the mountain Springwater from the Ice Peak River, together with the elderberries that grow upon its bank and resin from everfrost trees, to impart an ice cold sensation…” A beautiful fox-woman poured whichever jug he gestured at, telling him where it came from with a light, lilting voice. He had requested a sandalwood lute to be played, and no sooner had the words left his mouth that another lady was sitting down and letting the relaxing notes drift through the air.
+
+A third woman had taken out a comb and was brushing Shen Yu’s hair, while yet another was running her hands up and down the old man’s calves in what looked like a massage.
+
+And of course… the old man was recording with his crystal what Ri Zu was studiously trying to avoid looking at.
+
+She glanced over to where Bi De man was standing, shirtless and being measured by attendants so they could make him clothes. His body was… perfect. Too perfect to Ri Zu’s eyes— sculpted or forged rather than something natural. His skin had no imperfections or blemishes; he was hairless below his neck. She could see where he had incorporated bits of Master Jin in his frame, but the rest of him was quite similar to his rooster form, oddly enough. His lithe legs and arms. His sharp nose, his regal bearing, and of course, his wonderful hair. It was utterly fascinating, and she wanted to study it more. She knew cultivation could do this but Bi De was… well, he was on another level, compared to every other man she had seen, though that was mostly just because he was Bi De. Ri Zu knew she was biased.He was so fascinating she found herself staring. She still wanted to run her paws up and down his body—purely for academic reasons, of course!
+
+Oh, who was she kidding? She was as bad as her Master! His form made her heart beat so fast it felt like it wanted to explode. Which is why she didn’t want to look at him.
+
+Nor look at the red faces of the women attending to him, for that made an ugly feeling clench in her gut when she saw their obvious attraction.
+
+“Thank you for your assistance, miss,” Bi De said, smiling warmly at the woman taking his measurements.
+
+The woman froze like she had just been hit over the head with a shovel. “Ah, um, ah uh… You’re welcome, Honoured Customer…?” the woman tried. She seemed about to faint.
+
+“He’s polite, and he looks like that?” Ri Zu heard one of the servants along the wall mutter.
+
+“Oh, this Young Master is far too dangerous,” another responded, nearly too low to hear. “He’ll steal every woman’s heart that he meets!”
+
+“He’s so handsome! And his hair, oh, Great Ancestor Nezin, please bless me with a chance!”
+
+Ri Zu grimaced and looked at her own service.
+
+She had a slightly bemused male attendant standing at the ready, seated as she was on several cushions. They had gotten a bowl her size, and one of the helpers had even carved Ri Zu a pair of chopsticks she could use. Though, beyond that, they didn’t really seem to know how to serve her, or really interact with her, even though they were descended from Spirit Beasts themselves.
+
+… sometimes she really got why Tigu had been the way she was—but that was rather unfair, because Ri Zu hadn't exactly made the attempt to engage. A bad habit of hers. It had not helped that she had been unsettled since… she glanced again at Bi De.
+
+Ri Zu sighed.
+
+Transformation. Living in the heart of the Shrouded Mountain Sect, searching for demons—She had expected twists and turns, but this was getting a bit much. Well, she just had to adapt like always.
+
+“Are you alright, Ri Zu?” Bi De asked, startling her out of her thoughts. His voice was the same in both his forms. Deep, powerful… and yet warm and protective.
+
+“Yes, Ri Zu is fine,” she said, looking up at the stunning vision before her. “Finally done with the measurements?”
+
+“Indeed. They asked me if I would like to see their private massage room, but I declined. This body is still in peak physical condition.” Ri Zu raised an eyebrow at the Tigu-like obliviousness Bi De had displayed… but he didn’t seem like he had misunderstood their intentions. “And I would rather spend time with you.”
+
+Ri Zu’s ears went red. Why did he have to be so damn dangerous!
+
+“How long will it take to get the clothes done?” she asked after taking a sip of tea.
+
+“The seamstresses shall be done soon, I am assured. I asked them to add some extra pockets to make your journey more comfortable, around the neck and in the sleeves.”
+
+“Thank you,” Ri Zu replied, touched at his thoughtfulness.
+
+They sat together for a moment, staring out into the courtyard of the traditional compound. It really was well-maintained… but she supposed this was these people’s home. No wonder they took such good care of it.
+
+“We should talk about your role in what we must do, Sister,” Bi De said. “I think, for the initiation, you should remain here. There will be heavy combat, or so I’m told, and your safety is dear to me. I do not wish to fight with you in my clothes, in case something happens.”
+
+Ri Zu froze at his words. Leave her behind.
+
+“I shall go in alone, and see if we need your expertise. That is the safest option for you, Sister. Meanwhile, you can continue scouting with Yun Ren, or perhaps see if Shen Yu could be convinced to part with some of his knowledge.”
+
+The safest option.
+
+“I’ll give this proper consideration,” she said with a brittle smile, and Bi De looked relieved.
+
+“Excellent. I’ll surely have to rely on your abilities later, Ri Zu,” he said.
+
+Bi De smiled at her—”Young Master, Master Shen wishes for this Servant to pour your a drink.” Another pretty woman said, her neckline just a bit too plunging. Bi De raised an eyebrow, but nodded.
+
+Ri Zu couldn’t even muster up the ability to glare at the meddling old bastard, who looked like butter wouldn’t melt in his mouth.
+
+She decided to go for a walk, to clear her head.
+
+===============================
+
+After politely taking her leave Ri Zu had melted into the shadows. Her path took her into a secluded corner of the expansive courtyards. The moon was high, and the stars were shining, brighter and colder than they looked back home. The sounds of the house were faded here.
+
+Ri Zu sat under a slight gap in the building’s foundations in the quiet of the night, frowning.
+
+“I think, for the initiation, you should remain here.”
+
+Tigu, even while injured, sets her aside to go and fight their foes.
+
+Leave her behind, while others took the danger head on.
+
+She clenched her paws…
+
+They always left her behind when things got really dangerous. They got her out of the way, to do something else.
+
+The worst part was… that she could see the merit in it. It was the best path for their current abilities. It was the path with the best chance of success, Bi De going alone until he needed her– if he needed her at all.
+
+She was touched at his concern. He didn't want her to get hurt in what he saw as his mission.It wasn’t that he thought she couldn’t fight, or contribute, he simply thought that their healer was too valuable to risk in combat—without her they would have no one to patch them up. It was all she was good for. Hiding and healing. It was a bitter thought.
+
+And yet… she didn’t want to be left behind. She didn’t want to have others fighting to protect her. Not since the Dueling Peaks. She knew her role was healing, but seeing everybody so beaten and broken… it hadn’t sat right with her. She could have done more to help them. She had promised herself she would not stand by anymore.
+
+She wanted to walk beside them in the light, rather than be relegated to the shadows. She knew she wasn’t helpless, but… more. She needed to do more. And maybe, just maybe, there was a way to do that.
+
+She looked at her paws, and superimposed longer, more slender digits over them. Human transformation.
+
+She wasn’t strong enough to turn into a human normally, they were too far outside Tianlan’s grasp to ask her for help, but she had one last method available. If she was willing to use a lesson learned from her buried past.
+
+Ri Zu took a deep breath and reached within herself. She felt for the corner of her soul that she had cordoned off, crushed and forgotten. She felt sick as she reached into the part of herself that haunted her nightmares. There she touched a bit of knowledge. A technique.
+
+The technique. The one the hated Chow Ji had used in his attempt to become human. It was as much a part of her as her dead connection to Chow Ji. She had hidden it away, refusing to so much as look at it. It came from a monster and she would never be like that again.
+
+But now? After two years of studying medical formations with her Master? As she examined it through fresh eyes she realised it was incomplete. Now, she gazed upon the crude, disgusting thing Chow Ji had tried to use… and she knew how to fix it.
+
+Chow Ji hadn’t understood the human body. He had simply been brute forcing it.
+
+Wasteful. Stupid, and shortsighted.
+
+For thousands of hours, she had learned from medical scrolls and anatomy diagrams. She had developed a technique with her Master to observe what was within a body in real time. She could perform surgery on somebody with her eyes closed.
+
+She knew the human body, knew it better than all but the most studious of humans. She could do what the monstrous Chow Ji had not.
+
+Ri Zu crawled out from under the building, the light of the moon shining upon her, familiar and comforting.
+
+Perhaps it was foolish of her to discard the safe path.
+
+A little woman and a red haired man, smiling at each other. A little woman with freckles, rocking her Master’s child back and forth.
+
+A little woman standing beside her family. Not a rat easily missed. Never an afterthought.
+
+Hong Ri Zu would not be left behind this time.
+
+[Transmutation: Perfect Recreation of the Human Form]
+
+===============================
+
+Bi De jolted upwards at the sudden pulse of Ri Zu’s Qi, moving without thought to find her— he paused, allowing the sense of her Qi to fill him.  Her energy was not filled with any sort of fear. Instead, he felt the steady pressure… and triumph.
+
+“Ah, that felt like a breakthrough!” Nezan declared. “And… quite a leap in power as well. Come, let's get some wine for our little friend for her accomplishment!”
+
+Bi De had been halfway out the door, he returned to his seat to settle back down into his couch, his eyes low to see Ri Zu hop back into the building as her presence grew closer—
+
+A foot stepped into view instead.
+
+Bi De’s eyes widened as his eyes traveled up the leg. It had muscle in it, reminiscent of Tigu’s training. Her modesty was hidden by a blanket, wrapped around her chest.
+
+His jaw dropped as he beheld her. His heart beat faster.
+
+Ri Zu’s new form was reminiscent of the Healing Sage’s. She was small, with a band of freckles crossing her nose. Her eyes were dark and beautiful. Long hair rolled down her shoulders, a band of green streaking through it and she was walking right towards him. He held his breath.
+
+Ri Zu leaned over to stare directly into his eyes.
+
+“I have given your words thought, Bi De, and I have rejected them. Instead, I have a better plan. We’re going together.” She turned to the smirking Shen Yu. “Hong Ri Zu is ready to begin her mission, Master Shen Yu,” she said confidently.
+
+The old man raised an eyebrow. “Bold,” he said. “Not bad, girl.”

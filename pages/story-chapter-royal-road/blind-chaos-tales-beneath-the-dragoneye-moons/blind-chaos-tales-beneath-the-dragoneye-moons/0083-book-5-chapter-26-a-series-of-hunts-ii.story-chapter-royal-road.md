@@ -1,0 +1,253 @@
+---
+id: 7231a479-d01c-5adc-b089-8d246b82dda1
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 26 - A Series of Hunts II"
+slug: 0083-book-5-chapter-26-a-series-of-hunts-ii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 83
+ownLength: 4998
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3618908/book-5-chapter-26-a-series-of-hunts-ii"
+royalRoadId: "3618908"
+---
+
+There were lingering questions after their last hunt—chief among them being why the bear had started to stray from its territory. For as long as the City of Arts had stood, the mountain lord had remained within the confines of the territory it’d claimed. Which was more than enough reason for Ranthia to drag her party out into the wilderness again and again. But no matter how many times she walked the deceased mountain lord’s territory with Anthelleon or how thoroughly Neyvern and Solareon searched the region from above, there were no answers to be had.
+
+At one point, Ranthia swore she heard a different animal’s roar—one that she’d never quite heard a match for. But no one else heard it, and the sound never repeated itself. Anthelleon and Neyvern had formed a unified front through their shared belief that the reason didn’t matter (“it was simply the loathsome beast’s own ill decisions”). And so, they moved on.
+
+At least none of the other mountain lords were causing such significant issues.
+
+Ranthia had her own problems too—namely, her armor. It had taken significant damage when the bear caught her. She was forced to pay a few gems to an [Artisan] that was willing to work with such “boring” materials to salvage and repair what could be saved, but even with that… well, she was completely out of most of her spare materials. And Ovyrnon—the [Artisan]—wasn’t able to replicate most of the armor’s components without the design documentation that Ranthia had left behind in Remera. At least, not without destroying the existing suit.
+
+And if she was going to go that extreme, getting a new set of elven-designed armor just made more sense.
+
+Elves were… roughly as flexible as she was. Her requirements had been absurd by even the standards of the Sentinels, but they were already standard to any quality suit made by elven armor-makers. Their materials were also just downright superior to anything Remus had—all of it was touched with magic through the Skills of the immortal craftsmen that made every single material as well as those that refined them into armor.
+
+Like Hunting had told her long ago, she couldn’t allow herself to get too attached to any one piece of equipment. Even her adamantium wasn’t as invulnerable as the legends claimed—the bear had managed to pierce it. Sure, it took some Skill and the entire—significant—weight of the brute to accomplish it, and it only barely managed… But the bear was less than twice her level.
+
+And Pallos had countless entities that were greater than that.
+
+Still, if she wanted to get a better suit of armor, she needed a way to protect it. No elf designed armor that was modular like hers—no one wore armor without a Skill that extended their vitality into the high quality materials, making them greater than their flesh could ever be. Without an armor Skill, well, something like the summer steel alloy might be stronger than her skin, but the armor would break and suffer as she fought against stronger foes.
+
+And the damn chaotic potential she had seeded into her second class had never sprouted. Realistically, at least some of her upgrade choices should include an armor Skill because of it, but it was hard to be sure. Even the greatest elven minds had yet to unravel all of the System’s secrets and there were exceptions to almost every single rule.
+
+She just needed to have faith!
+
+“Oh, wow! You actually found some!” Minnia beamed with delight as she accepted the crystalline case containing seven flowers from Ranthia.
+
+The journey had taken over a week, but Ranthia had finally found some purple frost blooms. Not exactly the kind of hunt that rewarded great levels, but she was after a different boon.
+
+“I’d hoped to find at least eight, but I decided to prioritize getting the ones I found to you while they were still fresh.” Ranthia explained.
+
+The job hadn’t specified the number of flowers she was supposed to bring, but [Alchemists] always paid extra for a surplus of herbs. Surely the same was true for [Bakers]—not that she was after mere gems.
+
+She was hoping to solicit a much more valuable service.
+
+“No worries! I would have been happy with even one; I can’t believe I’ll get to enjoy so many!” The green-hair elf had pressed her face against the crystalline stasis container. It was getting dirty with the lingering flour that clung to her hair and skin, but she’d been the one to provide the container in the first place.
+
+“Okay, great! So, you’re okay with…” Ranthia trailed off as she watched the woman undo the seal on the case right then and there.
+
+The warm air reached the flowers and they began to wilt immediately. Unbothered, Minnia plucked all seven from the soil Ranthia had painstakingly dug up and transplanted into the case and brought them to her nose as she inhaled sharply.
+
+“Ahhh! Yes, yes, yesss! I think I know how to use these! Stay right there!” The elf tossed the case and the fading flowers both aside carelessly, before she rushed into the kitchen of her workspace.
+
+“…What?” Ranthia hesitated, but… well, it wasn’t like she had anything else pressing to attend to.
+
+Ranthia’s initial forays into providing religious services in the City of Arts met with limited success. The actual prayer services and solitary ceremony she had been allowed to lead had gone just fine—the problem was that, after eight services, she still only had nine elves that showed up with any regularity.
+
+Fortunately, she knew how to adapt. Most of the elves had expressed (through varying means) that they were surprised by her connection to Xaoc—which, annoyingly, wasn’t surprising. It wasn’t even that she was a human, it was her level. At her level, most [Priestesses] were either generalists that worked under those more experienced and more attuned to their gods or they served minor deities that were largely ignored. Ranthia’s claim that she was chosen to serve one of the creators was, by elven standards, ludicrous. She was quite possibly the highest level [Priestess] that had ever set foot in Remus, but she was no longer in Remus.
+
+The gods got to be choosier with their elven adherents. The Unchanging Council enjoyed the private services of [Priests] and [Priestesses] that were over level 3072—cloistered men and women that had served the five great gods for thousands of years. The major cities with significant temples were headed by elves far older and much higher in level than Ranthia was. And even in the minor cities that possessed only a minimalist temple with general altars there was almost always someone past their level 1024 class up.
+
+Her importance and connection to Xaoc made sense by mortal standards, but as an immortal, she was an aberration among aberrations.
+
+Still, people were writing her off without giving her a chance and that was easy to fix. She just needed to employ a little… coercion. She needed to give people a reason to feel the connection to Xaoc that she could offer them.
+
+And her solution was… cupcakes.
+
+Well, to be more specific, her solution was to do something for Minnia in exchange for some baked goods—it just happened to take the form of cupcakes. Two hundred and fifty-six cupcakes, all from a brand-new recipe that no one had tried before. The one inspired by the singular sniff she took from a breed of flowers she had never gotten to smell before.
+
+The promise of free baked goods from the Rank 4 in baking would have attracted more than a few elves. But the opportunity to be the first to taste a new sweet from the woman? That had pulled a dense crowd that left Ranthia’s usual devotees scattered at the fringes of the park.
+
+In hindsight, the stunt probably skirted the line of the rule against trying to convert elves. Meh, that was only a problem once someone made it one.
+
+“Alright everyone! My name is Ranthia, but you’re not here for me. We’re here to pay respects to Xaoc, god of chaos—one of the five great gods that shaped Pallos and gave form to the first elves!” Ranthia danced her way onto the elevated platform (nowhere near elevated enough for the crowd, but that was fine).
+
+She also carefully ignored the elves that considered themselves hilarious enough to shout that they were there for the cupcakes. It wasn’t important why someone made a journey, all that mattered was what they walked away with!
+
+Before the crowd could get too carried away by the antics of the few, Ranthia began to pray. And, few by few, most of the elves followed along.
+
+“I thought you said this was a city.” Ranthia tossed a brief glare Anthelleon’s way before her gaze wandered back to her surroundings.
+
+It reminded her of the faun “village” that she had passed through with the caravan. The so-called city was nothing more than a few meandering trails (paved in crystal, because they were still in the Tympestshard Council) through farmland. Dozens of farms formed in close proximity to one another, with elves managing their crops. Ilan fruit was the most common crop, though there were exceptions.
+
+An elf with scarlet hair wiped her brow as she arched her back to work the kinks out after tending to her wheat. Elsewhere, an elf moved through his vineyard—with the heaviest, largest grapes Ranthia had ever seen—frowning as though he was somehow unhappy with his impeccable bounty. Further ahead, an elf with extremely tall horns—shaped similar to elk antlers—sunned herself next to a dense bed of herbs and flowers, unbothered by her neighbor that whistled while the ground tilled itself.
+
+Of course, Ranthia’s eyes weren’t exactly focusing on the bevy of fruit, vegetables, and other crops. While some of the elves wore resilient, stained garments, most of them forewent the hassle. And while Ranthia was somewhat used to seeing elven flesh on display around the City of Arts, there was just something… different about the sun-kissed, firmer flesh of the farmers that worked the land day in and day out.
+
+It was the closest she had felt to a crack in her frozen libido since the ordeal with Avyna. Not that she felt any desire to approach any of the gorgeous women. A momentary, respectful look was all she cared to seek.
+
+“And what else would nearly four thousand elves gathered together be other than a city? Though I admit, I am teasing you a little. The trading hub is still an hour or two away at our current pace. And there should be a Hunter’s outpost of some form here.” Anthelleon answered, amused.
+
+It was the first mission that the two of them had undertaken together since Neyvern joined their team. And surprisingly, their quarry was an elf—in spite of every negative thing Anthelleon had ever said about the Elf Hunters. Granted, it was hard to blame her. The elf they pursued had murdered his partner and all three of the children he had fathered, including his level 214 daughter that had escaped and sought help. She, he tore in half—in front of a dozen different witnesses.
+
+And not a single one of them had even tried to prevent him from getting away. It was hard to imagine the people of Remus being so uniformly cowed by such an act of brutality, especially since their quarry was supposedly still just barely past the level 768 class up.
+
+Neyvern had declined to join them. The man had a whole list of reasons, including capture jobs that were more lucrative, but his largest reason had been whispered in private—he was worried about what would happen if Solareon got a taste for elven blood. Which seemed a bit absurd, the trust that a Bond created should have been deeper than that! …But it was also hard to imagine Clover biting a chunk out of an elf, so it wasn’t like she could directly compare their experiences.
+
+Still, Ranthia somewhat envied the man for declining. They were entering their ninth week of pursuing the man across the Tympestshard Council’s sprawling territory and, for all Anthelleon seemed normal when it was the two of them, Ranthia hadn’t enjoyed learning new things about her friend.
+
+She would never forget the terror writ across the [Merchant]’s face as Anthelleon held him off the floor, her fingers around his neck, and the fury on her expression as she squeezed. All because she decided the man had held back—that he hadn’t told them everything he knew.
+
+In his fear, he told them what Anthelleon wanted to hear, and they wasted three weeks on a wild raptor chase.
+
+Ranthia hated being the sensible person in the party. That was just wrong.
+
+Since then, Ranthia tried to find excuses to keep Anthelleon away from witnesses—and out of the city, preferably—while she searched for leads herself. Frustratingly, many elves were wary of outsiders, but Anthelleon had no knack for gathering information. Ranthia, in contrast, had some experience and [Immortal Armaments] allowed her to draw on what she had seen from Tatius, Pupius, Green, and the other Rangers.
+
+The biggest issue with their ongoing hunt was that they (presumably) weren’t the only ones looking for the guy. Which meant there was a real risk that someone would beat them to the reward—that their long journey would result in nothing. Which was why they needed to check with every Hunter or bounty board they found, just to make sure the paltry bounty still stood.
+
+“Just remember, it’s unlikely he even came through here.” It wasn’t the first time Ranthia had reminded her friend, but she’d do almost anything to avoid another scene.
+
+“I am aware.” A brief hint of heat entered Anthelleon’s voice. Something that Ranthia had never heard before their journey began. Yet the longer their hunt dragged on, the more it appeared in the blonde elf’s tone.
+
+“Uh-huh. Will you just tell me what in Xaoc’s glory is bothering you already?” Unsurprisingly, she had asked more than a few times, though never quite so bluntly.
+
+“Nothing. I am fine, my friend. I am merely focused on catching such a loathsome man.” …It almost sounded like Anthelleon was trying to convince herself.
+
+Ranthia just sighed and picked up the pace. The sooner they found the guy or found an excuse to go home, the better.
+
+Several days later, they had a new lead. In Delvedra, while Ranthia bought more food and cooking supplies from a [Merchant], Anthelleon (not at all subtly) inquired if he had seen anyone that matched the description of the man that they were seeking. Neither of them had expected him to claim to have seen the guy, just two days prior.
+
+He couldn’t give them a direction, but the man they were tracking was no [Ranger]—a day spent searching revealed the place where he left the road and ventured into the woodlands. Well, the place where a solitary elf of approximately the correct build ventured into them, at least. Still, it was promising enough that they put their collective tracking expertise to work and set out in pursuit.
+
+The trail was easy enough to follow. Clear footprints, broken twigs, and bent flowers made the path exceptionally clear. Had any of the information about the man suggested he was well-acquainted with the wilderness, Ranthia would have been wary that they were being ushered into a trap. But no, it seemed to be genuine heedlessness.
+
+“Hurry—he might get away!” Anthelleon hissed as she sped up—passing a bush laden with fragrant berries without so much as a glance.
+
+That brought Ranthia up short. She had known Anthelleon for well over a year, and she had never—not once—seen the woman ignore a wild berry. She had seen her friend sicken herself on poisonous berries a few times, but typically her vitality was just as capable as the elf boasted it was.
+
+“Just slow down and breathe. We’ll get him, I promise, but you—” Ranthia reached for her friend.
+
+“No! Do not act so loathsome! We are close. Too close.” Anthelleon sped up even more, effortlessly dodging Ranthia’s hand.
+
+She was moving fast enough that Ranthia found herself struggling to keep up.
+
+“Wait!” Ranthia called after her friend.
+
+“I decline!” Thank Xaoc, the words didn’t herald another burst of speed.
+
+Ranthia snarled under her breath. But there was no point in arguing further, instead she embraced the rhythm of the moment and danced to catch up with the irate elf. Thankfully, the wide stream that she was crossing slowed her down just enough to let Ranthia close the gap, even with the difference in their—
+
+[Divine Eyes in the Void] went nuts the moment Ranthia touched the water.
+
+Immediately, she threw herself backwards, even as the water rose out of the stream like malformed hands, grasping at both her and Anthelleon. The elf let out a battle cry and tried to force her way through them, but the volume of water was too much—within moments, she was pulled upward, encased within a growing cocoon of liquid. Ranthia fared better, at least at first. But waves of water came from the sides and caught her before her knives even finished forming.
+
+Not that she let being surrounded by water stop her. Instead, she became something of a whirling dervish—taking a page from Pupius. The water churned around her as her blades erased swaths of it. Bubbles of air filled the water as she—just barely—broke the surface again and again.
+
+While they struggled, an elf emerged from the water, grinning triumphantly. The man they had been hunting was filthy and haggard, but he made up for it in raw swagger as he strolled closer to them.
+
+[Mage – Ocean] level 801, [Laborer – Earth] level 721, [Artisan – Ash] level 602. Not too bad. And with how brazenly close he was getting, they wouldn’t even need to do anything fancy. In just a few more steps, Anthelleon would be able to—
+
+A stream of bubbles filled Anthelleon’s prison of water as she held her weapon aloft. A long, thin pane of Gale formed, then she cleaved it downward in the most telegraphed attack Ranthia had ever seen from the woman. Even the [Mage] managed to scramble clear in time.
+
+Which put him out of range for both her largest attacks and any lethal throw Ranthia could make with her knives. With that much distance, he’d have to be an idiot to miss the blade.
+
+That was annoying, but Ranthia wasn’t actually worried. In spite of the situation they were in, they were winning. Sure, they were trapped, but even with the [Mage] relying on the natural water of the stream, he was manipulating a lot of it at once. And holding them aloft like that had to have spiked his mana costs even higher, especially to restrain them both. Even if they held still, he would have burned through his mana at a brisk pace.
+
+Neither of them was so idle. Ranthia continued to erase as much water as she could, inhaling one of the bubbles of air she harvested every time she desired a little fresh air. Anthelleon’s own oversized blade continued to shear off vast quantities of water that the [Mage] had to replace.
+
+The failed attack had erased the man’s insufferably triumphant expression, but Ranthia still enjoyed watching his concerns mount until his complexion began to grow pale.
+
+Sure, she could have just shifted outside of the water, but where was the fun in that?
+
+The [Mage] clenched a fist and the wobbling sphere surrounding Anthelleon closed in suddenly as he ramped up the pressure. She remained unbothered, of course. He lacked the power to crush a dedicated classer at his own tier outright and Anthelleon didn’t miss the opportunity to briefly breach the smaller prison—stealing a breath of fresh air before he could cover her anew.
+
+Water [Mages] really were a stupid build. If their victims refused to drown, all they could do was rapidly burn through their stores of mana, until…
+
+Anthelleon’s prison failed first. She launched herself out of the water and slammed into the [Mage] with enough force to send them both onto the grass next to the stream. Even before Ranthia finished emerging from her own crumbling cocoon, Anthelleon had seized the man by one of his goat-like horns.
+
+She drove her fist into his stomach with enough force to distort his body—for a moment, Ranthia assumed that she had punched through him, but no. Her cruelty was greater than that. While he vomited on her boots, Anthelleon drove his head downward even as she raised her knee. The impact crushed his face, shattering his nose and flattening his features.
+
+Well, that was—
+
+Contrary to expectations, she wasn’t done. The [Mage] was completely out of the fight, but Anthelleon lifted him by his horn and slammed another punch into his abused gut. Followed by three more. Then, she smashed her knee into his face again.
+
+[*ding!* Your party has slain an elf [Master of the Flow] (Ocean, level 804), [Endless Stamina, Endless Accomplishments] (Earth, level 721), [Engraving Excellence] (Ash, level 602)!]
+
+Ranthia watched in horror as Anthelleon continued to savage and brutalize the corpse, as if she somehow never received the kill notification—as if he was somehow still putting up a fight. His skull crumpled after the fourth knee strike. His skin had ruptured in a dozen places, spilling blood and viscera all over the vicinity, yet Anthelleon continued to beat his carcass.
+
+“An, stop!” Ranthia tried to grab the elf’s fist, despite knowing how much stronger Anthelleon was.
+
+Even with [Facets of Passion] bolstering her fingers, the blood-soaked fist had enough force and momentum to slip out of Ranthia’s grasp. Instead, Anthelleon roared in fury and lashed out with her elbow—catching Ranthia in the side of her face.
+
+Had she still been dancing, Ranthia probably could have avoided it. Instead, pain blossomed as she felt some of her teeth shatter from the blow. Anthelleon hadn’t even tried to hold back—she had done her best to knock Ranthia aside, if not out.
+
+Ranthia’s own fury ignited. Instead of falling back, she spun to bleed the momentum Anthelleon had imparted as she broke her knives down—forming a rough clump of adamantium over her fist. The adamantium-encased punch slammed into her friend’s head, just below her ear.
+
+Anthelleon turned on her with an expression of bloodlust and fury. There wasn’t even a hint of reason in her eyes as she lunged at Ranthia, snarling. Ranthia didn’t even try to dodge. She spat the blood and fragments of teeth out of her mouth while she delivered another punch to the elf’s face. The blows were sure to leave bruises, though she wasn’t even breaking through the skin.
+
+Both of them crashed to the ground—Anthelleon on top—as the elf began to pummel her. Ranthia tried to give as good as she got, of course, but they were horrendously mismatched in strength. Within seconds, she was forced to defend her face. But the crazed elf just grabbed Ranthia’s armor with one hand and her adamantium with the other and began to squeeze.
+
+She never even noticed that Ranthia had shifted. Sure, Ranthia had left both her armor and her adamantium with the image to keep it from breaking the instant she shifted, but she really didn’t need it—her [Companion Bond] gave her a more novel way to get through to the elf.
+
+She delivered a powerful kick to the underside of Anthelleon’s chin, snapping the elf’s head back.
+
+“You aren’t this fucking stupid!” Ranthia shouted into the aftermath, even as Anthelleon toppled backwards.
+
+Several moments later, Anthelleon began to laugh. It wasn’t a happy kind of laugh—and just in case Ranthia somehow missed the bitterness of its sound, it was accompanied by large, messy tears. Still, she remained on her back and didn’t try to get up, so it felt like progress.
+
+Ranthia still sat down on Anthelleon’s chest, just to make it that much harder.
+
+For a time, they stayed like that, silent aside from Anthelleon’s ongoing sobs laughter.
+
+“Are you going to tell me what the fuck any of this has been about, or do I need to kick you again?” Ranthia finally asked, once the time felt right.
+
+There was no venom whatsoever in her tone, honest.
+
+“I am a loathsome creature. Truly, I am.” Anthelleon non-answered, but at least they were words.
+
+“Spare me the godsdamned self-pity and give me some answers!” Ranthia politely requested.
+
+“He… reminded me of my own father.” The elf finally answered, having taken so long to say anything that Ranthia had been moments away from losing her patience.
+
+“Your father drowns people in water cocoons?” She was dubious—according to Anthelleon’s previous tellings, most of her family was engaged in some sort of trade that involved managing and storing other people’s money and valuables.
+
+“Ha! No, in truth he is about as threatening as a low-level monkey. …But he was still abusive. He often told me that the only value a child can have is if we make our parents shine brighter. He never hit me; my abuse was limited to cruel words and a dismissive attitude. Things that I should have been able to better endure. Yet… I know that he struck my younger brother. Often.” That response came faster, despite the shame that burned on Anthelleon’s features.
+
+That… explained a lot.
+
+“I was less than entirely honest when I told you that I came to the City of Arts and became a Hunter to escape an unwanted relationship. In truth, Beltris and I got along well, even before my parents recommended our pairing. But when I imagined living in another wing of the family estate and continuing to see my father, each and every day, acting as though everything was fine…
+
+“So, I left. I told myself that I would grow strong and return. I told myself that I would put him in his place. Mother had never believed me, she merely assumed that I sought to undermine the family because I was young and foolhardy. So, I convinced myself that the best thing I could do was to leave and seek strength.
+
+“And yet, I have been strong enough to challenge him for almost a century. And still, I have never returned. My brother is a grown man—a fine man. And he owes me nothing, because I never aided him. He avoids me, the same as everyone else. When I heard of this loathsome… Well, I assumed I had the opportunity to finally do things properly. To finally accomplish something like what I had once believed was my purpose.” Anthelleon fell silent after that.
+
+“And you were blinded by your fury.” Ranthia finally managed a properly gentle tone.
+
+“Truly, I am the most loathsome of all. I am sorry, my friend.” The elf raised a hand and brushed her palm against Ranthia’s face, right where her first blow had landed.
+
+The situation was uncomfortably familiar. Ranthia had lost herself to revenge—even misplaced revenge—so many times in her past. She liked to think that she had improved, and yet when Anthelleon turned on her, she chose to answer violence with violence. It was a mercy that she had enough sense to put her knives away first.
+
+“Let’s go home.” Ranthia stood with those words, unable to think of anything else to say in the moment.
+
+They had a long journey ahead of them, with plenty of opportunities to talk things out further.
+
+Winter had settled over the land and, more recently, a savage storm raged over the region. Thunder and lightning roared through the powerful winds that carried either sleet or hail. Things within the City of Arts were far more peaceful—the city’s barriers kept the storm out—but there was no point in even trying to hunt for anything. Every last beast stayed bedded down as they waited out the storm.
+
+Ranthia and Anthelleon had renewed their friendship. Ranthia also readily pledged to keep what happened—and her friend’s past—a secret. The only time she had brought it up since then was in private, when she offered to accompany her friend if the elf ever decided to revisit her home.
+
+The situation had been utter shit, though Ranthia refused to let herself hold a grudge.
+
+But Ranthia’s thoughts had turned to another elf she had damn good cause to be angry with. It was Avyna’s birthday, and she had no idea what was even happening with the woman she had loved. Had she made it to the devils’ nation safely? Would she truly return, like she had promised? Ranthia wished that she had some way to make sure that everything was going alright—that Avyna was safe. She still fully intended to yell at her, after all.
+
+She stroked Clover’s fur, careful not to wake her sleeping Bond while she explored her thoughts. She still had no way to speak to anyone about Avyna. Clover and Ranger were the only ones that even knew about the deception. And contrary to her fears, Caelillia had never sought her out. She had no idea if the young elf even knew about her mother’s staged fate, let alone the truth.
+
+Avyna had never mentioned her when they briefly reunited, which couldn’t have been an oversight. She cherished her daughter and kept her in her thoughts—which meant she never gave Ranthia any instructions for passing a message to Caeli on purpose.
+
+It was still another source of guilt and discomfort. The girl had always been cold toward Ranthia, but she couldn’t imagine how the news must have affected her. …Assuming she even knew.
+
+“<I miss you, Gemheart. …Or, perhaps, I just miss the woman I thought you were.>” Ranthia whispered her thoughts—her fears—quietly enough that not even Clover would hear them.
+
+Yet she still paradoxically wished that they would somehow reach Avyna.

@@ -1,0 +1,190 @@
+---
+id: e8398fb2-28a7-5b5b-8470-28de95248db0
+page-type-slug: story-chapter-royal-road
+title: "v7c34: Metal to Water"
+slug: 0287-v7c34-metal-to-water
+partOf: beware-of-chicken
+position: 287
+ownLength: 2456
+unit: words
+ownProgress: 619
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3114187/v7c34-metal-to-water"
+royalRoadId: "3114187"
+---
+
+We spent the night on the island, camping under the stars on a collection of blankets and towels. It was lovely, being able to just kick back, Meimei resting her head on my chest and Zhuye in the crook of my arm. No biting insects dared to bother us; not a single whine of mosquito wings distracted us from the beautiful song of frogs and other insects, singing their hearts out.
+
+Babe was conked out next to us in the sand, Sunny, his plow, on the blankets rather than him, and Washy was coiled in a ring all around our campsite.  Both Yanjing and Suyan were using the dragon as a backrest; originally the Auditor was going to sleep in the boat… but he swiftly aborted that plan when he saw the Lord Magistrate, Lady Wu, and Xue Ji retire to those quarters. Finally, Washy’s horns were adorned with all the bees, the girls ever vigilant for any mosquitos.
+
+We woke up early to the songbirds taking over for the frogs; The lights of the fireflies slowly disappeared, and the sun crested the horizon, bringing with it a new set of actors.
+
+Azure Spear Fishers dove from their perches into the water, the small birds doing as their names suggested and impaling fish that stayed near the shores. They looked like little bolts of blue lightning, striking with speed and precision, flashing their brilliantly colored feathers and chirping with glee.
+
+Just as they assaulted the schools of minnows from the heavens, so too were they harried from below. Giant bass prowled beneath the waves—some of them had to be at least twenty pounds, and they smashed the surface like hammers, devouring anything caught in their path.
+
+Turtles lounged on branches, soaking up the first rays of the sun, including a titanic snapping turtle; it was as big as my torso, its back full of ridges and crags, and its hide a gnarled hulk.
+
+Squirrels chattered from the trees. Butterflies flitted around. Snakes cruised through the underbrush, and dragonflies zipped across the surface of the water.
+
+Finally, an eagle looked out imperiously from its nest in one of the trees beside us. A Pale Moon Eagle—its plumage was mostly black, but it was woven through with silver. A round spot featured prominently on its chest, and little specks of colour made it look like the night sky. It spared us a glance, raised its crest, and then, with seeming disdain, it turned its back on the dragon that was napping under its house and took off, soaring into the sky.
+
+“It smells so different here,” Meimei said, taking it all in.
+
+She was right. The air of our farm was sweet and light; the wild air of Pale Moon Lake was heavier, for lack of a better word, filled with the smell of lakeweed and mossy trees. It wasn’t bad at all.
+
+I turned to look at her. Her smile, staring out at the mist-covered lake. It made the morning just perfect.
+
+=============================
+
+“Thank you, Suyan,” I said, passing a plate of grilled fish off to our maid. She had gone out again this morning to catch us some more fish, and I was doing the grilling. ‘Dad privilege’, I had declared, and that had gotten a chuckle. Washy was watching from the sidelines, eagerly waiting for the food to be done, Yanjing still dozing against his flank. Mei and Zhuye were splashing in the water again.
+
+“It is my pleasure, Master,” she said with a small smile.
+
+“How’s the selection compared to the Howling Fangs?” I asked.
+
+“Oh, the fish are much bigger here! Much more variety. Though I do miss the mountain trout. Their flesh was the sweetest in fall—it was nearly candy,” she replied. “Though braving the streams and mountain lakes was much more dangerous. Frost Serpents occasionally like to rest at the bottom, and they attack whatever disturbs them. Much less agreeable than the serpents in this lake.”
+
+“Oh?”
+
+“Yes, the ones I have seen only get as long as you, Master, and they kept their distance. Though they are not true serpents. They have flippers. Fish eaters, I think. Their mouths are too small to take a man.”
+
+Right, I remember Biyu saying something about the Nessie knock-offs.
+
+We chatted about seafood for a little; Suyan was comfortable enough with me to shoot the breeze. No rods, just spears and her hands. A spear to the head killed a fish instantly and made it taste better, according to her experience; occasionally she would use illusions as well, so her prey wouldn't even know she was there.
+
+We chatted and cooked, and soon enough our last three companions joined us. Lady Wu and the Lord Magistrate walked slowly from the cabin, followed by Xue Ji. The Lord and Lady of Verdant Hill had relaxed, dreamy smiles on their faces, and Xue Ji looked supremely satisfied.
+
+“Good night?” I asked with a smirk.
+
+“Divine,” Lady Wu declared, sitting down close by. The Lord Magistrate let out a contented sigh, clapped me on the shoulder, and sat down on the log beside me with a thump. Xue Ji slid in primly between the two of them and said not a word… but her smile and wagging fox tail said enough.
+
+Well, all three of them had clearly enjoyed themselves.
+
+I was just putting some finishing touches on our own meal, when everyone’s attention was grabbed.
+
+“Nuuuuuh!” Zhuye whined.
+
+“No, you can’t eat that,” Meimei said, gently taking the beach sand that he had been trying to put in his mouth away from him. He tried to eat it again, and once more momma’s fingers denied him his prize.
+
+Zhuye pouted mightily. He stomped his little feet and scowled. “Da!” he rebuked his own mother. He turned to me, and pointed.
+
+I raised an eyebrow at him, and shook my head.
+
+My son recoiled at being denied a second time. He looked around for another, to tell him it was all right, but the bees made sure to stay out of his vision… so they wouldn’t have to tell him no. Eventually he looked to the person who normally denied him nothing, but Suyan was resolute.
+
+“Come now, Young Master. None of that. The earth is not tasty. Here, try this, it's very tasty,” she said, her voice gentle. She held out some steaming, flaky fish.
+
+Three times denied, his face wobbled, caught between tantrum and interest in the fish. He turned to the final arbiter, Washy.
+
+The great dragon scooped up a handful of sand, and stuck some in his mouth. He chewed consideringly… and then spat it out, sticking out his tongue and making an exaggerated face of disgust.
+
+“Blech. The decomposing plant matter and the water of the lake is interesting, but unsuitable for little brother’s palate,” he declared imperiously.
+
+That was the final and most important verdict apparently. Zhuye stared at his sand-covered hands… and dropped the small amount he had managed to grab. He made the same disgusted face as the dragon.
+
+Then he started wiping his hands on his own pants.
+
+“Thank you, Wa Shi,” Meiling said.
+
+The dragon preened. “Natrually, Little Brother knows well my power! Here, let me get the rest of the sand off, then you may feast upon this bounty!” Water rose around him in streams, and gently washed Zhuye’s hands.
+
+“You’re a good big brother,” I told the dragon, after we tucked in.
+
+“The best, naturally,” Washy replied, but under his arrogance was a certain amount of bashful pleasure.
+
+============================
+
+After our meal, we took the boat back to the city, first; Yanjing only had the one day, and now it was back to work. Teacher, Lady Wu, and Xue Ji joined him.
+
+And then, we went back out onto the lake. We ended up on another island, one that felt… right. Some tiny shards of Dragon Vein were still there on it, and I got to work. There were no big expressions of power this time, as we connected the mainland to this little island… and a couple of hours later, Tianlan had more of a foothold.
+
+Then I slipped into the water. Just like before, in the Ironfields. No techniques, not yet. Just… exploring, wherever I could go.
+
+Pale Moon Lake welcomed me like an old friend. While I had puttered around in the little lakes back home, I had never really gone all out; the bodies of water were simply too small.
+
+Here, however, I had no such restrictions. I cut through the water like a knife, the liquid perfectly moving and conforming around my body, leaving not a wake behind me.
+
+It was so smooth it was effortless.
+
+And so I explored.
+
+Around the shores I went, and there, I saw only vibrant life. The difference between Pale Moon Lake and the Ironfields was stark. There were no arid rust dunes, no animals poisoned by heavy metals. The water here was fresh and clean, fed by the rainshadow of the Howling Fangs, as well as ten thousand mountain streams. The Ironfelds had felt oddly twisted, but this? This felt completely natural. There had to be thousands of species that called this place home; there were even freshwater seals lounging on the sand. A hundred kinds of trees grew on the banks, and the islands at the edges of the lake further increased this diversity, crafting new habitats as they broke up the expanse of water and made places for animals to hide.
+
+Villages were frequent; and I could feel the resonance they had with the land. They were farmers and fishermen, and each day they gave their thanks to the Pale Moon that supported them, this font of life that got them through crop failures and tough times; whose mud fertilized soil and whose fish filled their bellies.
+
+The closest thing to it I could imagine was from the Before: the coast of British Columbia. Towering trees, heavy fog, and the scent of water and life. There was a kind of stillness, a kind of quiet that pervaded the shores of the Pale Moon.
+
+And then I turned my attention underneath the waves.
+
+I took in one breath, and for the next six hours, I did not take another. My lungs felt full, my chest light, and not once did I feel the panic of running out of air.
+
+Clams, crawfish, and a hundred thousand tiny creatures plied the bottom of the lake; and not far off shore there were entire forests of giant lakeweed, looking more like kelp. There, plesiosaur-looking creatures lurked, snatching fish beside the seals; I swam through their shoals, and they flowed around me like they, too, were water, never sparing me a glance. Colourful crawdads fought each other outside their burrows; tiny eels burrowed in the sand in vast gardens, snatching insect larvae out of the water column.
+
+The lake was so big it was more like an ocean than anything freshwater—but like the Ironfields, the creatures that lived here had adapted fast to their changing circumstances.
+
+Tianlan recognised a lot of these creatures—most used to call the riverlands home, and they had ended up here when the overflow of water from the lake carved a river to the sea.
+
+And then, we went further still. Towards the center of the lake.
+
+My bond with Tianlan began to strain. The water went from beautiful pale blue to a more ominous shade. Unlike the ocean, there were no giant drops at the continental shelf. Instead, the bottom of the lake curved like a bowl into the darkness.
+
+And still I pressed on. The animals and plants slowly disappeared. The occasional animal flashed past. A catfish as long as a bus. A school of trout, breaking across the open water. A pod of plesiosaurs, sunning themselves on the surface.
+
+But as we got further from that, even those sightings stopped.
+
+“This… doesn't feel good,” Tianlan groaned, as we neared the center of the lake. The tiny shards of fragmented Dragon Vein were deep, deep below us.
+
+The middle of the lake was a Qi desert. A real one, like the one that bordered the mountains.
+
+And a life desert. I cast out my senses, and in the center of the lake, there was nothing larger than some algae, and even those felt… diminished.
+
+Barely clinging to life.
+
+For the first time in six hours, I surfaced. I took a deep breath… and then I dove.
+
+Down, down, down. Into the darkness. Where the pressure increased enough that I started to feel it a bit.
+
+From Tianlan and Xiaoshi’s memories… this had been a massive pit mine. The deepest part of the Pale Moon Ore mines.
+
+I found the bottom of the lake. I took out a light crystal, and I saw.
+
+While the shores were sand and mud, the bottom of the lake here was stone. Blasted, ruined stone. Some parts of the lakebed looked like a titanic worm had burrowed through the rock, leaving gaping tunnels that led further down in its wake. Tunnels that seemed like they would go down to the mantle, with how deep they felt—and I had no desire to test that theory. The gaping chasms made my hackles rise.
+
+Even as a cultivator… I don't think I would ever want to go cave diving.
+
+I pressed my hand to the earth. To a tiny shard of dead dragon vein.
+
+It trembled, and I felt it. The last feelings of the miner’s ghosts.
+
+The last feeling Tianlan herself had.
+
+Confusion. Shock. Horror.
+
+Oblivion.
+
+Tianlan let out a little sob of pain in the back of my head. She was trembling. She was feeling the destruction, the ruination of herself again.
+
+There were no elements to align. No battle between metal and water. Here, the water had won. All of the metal was gone, and once the fuel had run out, the reaction had died.
+
+All that was left here was silence.
+
+I surfaced again, and only then I realised how cold and drained I felt.
+
+…this one was gonna be rough.
+
+Welp. Time to get through it. It was part of Tianlan. It was a wound on her body, and I would do my best to fix it.
+
+I pressed a metaphorical hand to Tianlan’s head.
+
+How do you fix something so utterly ruined?
+
+One step at a time.
+
+===================================
+
+High, high above, a man stood on a sword. He gazed down at the Qi void in the center of the lake.
+
+Then to his grandson, swimming back to shore. His each and every movement was filled with determination.
+
+Shen Yu settled in to watch, his eyes drinking in the scene before him.

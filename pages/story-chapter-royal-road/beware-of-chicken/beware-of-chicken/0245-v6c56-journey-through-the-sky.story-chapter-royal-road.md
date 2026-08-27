@@ -1,0 +1,149 @@
+---
+id: 3a7c2b89-86cc-5653-971f-88a6f5aebcf7
+page-type-slug: story-chapter-royal-road
+title: "v6c56: Journey Through the Sky"
+slug: 0245-v6c56-journey-through-the-sky
+partOf: beware-of-chicken
+position: 245
+ownLength: 1895
+unit: words
+ownProgress: 1895
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2516163/v6c56-journey-through-the-sky"
+royalRoadId: "2516163"
+markedReadAt: "2026-06-29T18:59:47.962Z"
+---
+
+The journey back to the Howling Fang Mountains was proving… eventful, Bi De reflected, while the wind whipped around his face. They were currently travelling through the massive mountains at the outskirts of the province.
+
+Bi De’s face was locked in a grimace, his body crouched low and stable. His eyes were narrow with concentration, and his body burned with effort. Sweat poured down his human form’s back, and each moment felt like an eternity. Behind him, Yun Ren and Ri Zu were in similar states. Yun Ren was sweating, his knuckles white, while Ri Zu looked a second away from returning to her natural form to hide.
+
+Bi De needed all of his concentration for this. They all did. The wind howled around them, and Bi De carefully made minute adjustments, trying to save Qi, trying to reduce the wind on them—his eyes widened. The Qi fluctuations around them suddenly surged.
+
+“It's destabilizing!” he shouted back to his companions—just in time for the world to buck and shudder. Motes of silver light began to disperse around them.
+
+“Shit!” Yun Ren barely got out, while Ri Zu just squeaked. The jolt was so intense that Ri Zu left her feet, rising up into the air and started to fall backwards. Bi De grabbed her on reflex, but by that point it was too late. The silver disk they were standing on disintegrated beneath them as Bi De’s flight technique finally failed, throwing them into the open sky.
+
+“Why did I agree to test your weight limit?!” Yun Ren screamed, while Ri Zu was just making a high-pitched sound.
+
+The ground was very far away, Bi De noted idly.
+
+There was a pop, and Bi De transformed back into a chicken. Ri Zu, realising what he was about to do, swiftly transitioned into her natural form, latching onto Bi De’s feathers as he flapped his wings and banked, flying over to Yun Ren.
+
+“Grab my leg!" he shouted. Yun Ren’s hand lashed out, catching right above Bi De’s spur. The weight jolted him, and his wings pumped as hard as they could.
+
+Bi De panted, his voice coming out in little distressed clucks, his wings burning, with Yun Ren’s unwieldy nature nearly causing them to spill out over the yawning chasm between two mountains.
+
+Bi De banked towards the closest one, but it approached far, far too quickly. Yun Ren hit the peak, and that did it. All three of them slammed into the snow and started rolling, only barely stopping themselves.
+
+They laid there for a moment, all of them panting.
+
+And then a voice came from the sky beside them. Laughing.
+
+“Are you well down there?” Shen Yu asked, a massive grin on his face and his shoulders heaving with laughter. He was standing on his flying sword, a recording crystal chiming away.  Beside him, Spooks was letting out his own more restrained noises of amusement. “Oh, Jin is going to love this one! This is why you always record a young cultivator’s first flight technique, Spooks!”
+
+Yun Ren made a rude gesture at both of them, just laying there in the snow.
+
+“He did better than last time!” Ri Zu loyally defended.
+
+“Barely!” Yun Ren griped, and Ri Zu rounded on him, pouting up a storm.
+
+Bi De nobly ignored both of them and set about cleaning off his repaired vest. Maybe his Master had a point and he should stop wearing it? Maybe hang it on his wall back home? But then what would he wear in his natural form…? He still didn’t know, but that was a thought for another time.
+
+They picked themselves up, dusted themselves off, and then they were ready to go again. Bi De took a breath, centered himself, and let his Qi flow from his meridians out into the world.
+
+With all the travelling required of them, they needed a better way to do it. While running was all well and good, something like Shen Yu’s Flying Sword would have made the journeys faster and easier for all of them.
+
+Shen Yu, who had originally been planning to fly them all to the border, had been delighted with the idea and so had taught Bi De the basics of flight techniques.
+
+Thus, Bi De had begun work on a wondrous new technique, one informed by the great heavenly cycle. He already had the parts of the move, with his [Aegis of the Full Moon]; all he had to do was refine it!
+
+Thus, did Bi De craft [The Celestial Journey]. As the moon flew through the heavens, so too would he on a copy of the moon’s heavenly glory. He and his fellows could stand upon it, and it would convey them to their destination.
+
+…it was still a work in progress. He had, as his master said, eaten shit thirty two times this week.
+
+And when he finally got the silver disk stable enough that he could ride around on it, Shen Yu had cheerfully told him that he had to do weight tests.
+
+Ri Zu and Yun Ren had both volunteered… though the only reason why Yun Ren agreed was because Shen Yu said he would catch them if something truly went wrong.[The Celestial Journey]
+
+Silver light, Bi De’s Qi, surged around them and coalesced into a disk beneath their feet. The unstable Qi currents of the mountain buffeted them, and Bi De grit his teeth at the strain. He sought to catch them, to fly like a bird, but that seemed to be making things worse for some reason.
+
+“Examine your technique, Bi De,” Shen Yu suddenly said, his voice serious. “What is it that you are riding upon?”
+
+Bi De paused at the sudden advice. What was he riding on? The moon, of course…?
+
+All of a sudden he felt very foolish. He thought he was being smart, by riding the currents, by following the laws of the world, and trying to turn them to his advantage.
+
+The moon cared not for earthly weather. It was above it.
+
+Bi De stopped trying to ride the currents and turbulent air. He stopped trying to make minute corrections to his course.
+
+He stopped letting the world dictate to him what he was allowed to do.
+
+All of a sudden the wind stopped howling. The silver disk firmed, solid and unyielding like never before. All of the minute jitters and twitches were dispelled.
+
+“Good!” Shen Yu praised. “When cultivating the heavens, one must be as the heavens!”
+
+Bi De smiled. He stood, his arms crossed, undaunted and indomitable as the moon, sailing ever onwards on his journey.
+
+It was then when he saw another mountain peak directly ahead of them.
+
+Bi De frowned. Straight and indomitable… but then how did he turn? The moon didn’t move out of the way of things, did it?
+
+Bi De pondered this predicament.
+
+“Uh, buddy? That mountain is getting kind of close,” Yun Ren said.
+
+Bi De pondered it some more… and pondered it right up until they hit the mountain.
+
+A mountain that was home to a very angry frog-like Spirit Beast that spat globs of freezing mucus at them, shrieking at them all the while to get off its mountain.
+
+They beat a hasty retreat.
+
+Shen Yu’s recording crystal chimed the whole time.
+
+================================
+
+“You folks look like shit,” the innkeeper informed them bluntly when Bi De, Yun Ren, and Ri Zu stepped through the doors that night. They made their final approach on foot, but Shen Yu would be staying with Spooks in the mountains. “Go sit by the fire, I’ll get you tea.”
+
+Bi De nodded his thanks to the innkeeper. He was rough in speech, but the hospitality of the north was famed in the Howling Fang Mountains for a reason—he would make sure they were warm before talking about any room price, and even if they didn’t have any money, the man wouldn’t throw them back into the cold at night.
+
+Yushang and Shao Heng had explained the guest rites of the northern mountains to them in detail while they had travelled together, and the depths of the hospitality expected.
+
+But they did have money. Bi De quickly negotiated a meal, and the gruff man handed them a stew of preserved meat and beets.
+
+The inn had about ten other people in it, all sitting in twos or threes. They gave Bi De and his companions once-overs, before starting to speak amongst themselves again.
+
+Bi De, Yun Ren, and Ri Zu’s mission was to ascertain the state of the Shrouded Mountain Sect, first using any rumours shared among the local populace, and then investigating for themselves… while Spooks just wanted to see if Han, Yushang, Shao Heng, Fenxian, and Yingwen were alright.
+
+“So… where’s you all from?” the innkeeper asked when he brought out the stew, his voice idly curious.
+
+“Up north aways,” Yun Ren answered for them, his voice a perfect match for the northern mountain accent. “Normally we’d wait out the winter, but we’ve got family business in the southern ranges that can’t wait.”
+
+“Picked a shit time to travel, you did,” the innkeeper said, grimacing.
+
+“Oh?” Yun Ren asked. “News don't come round much where we live; what's going on?”
+
+The man heaved a sigh, and the rest of the inn stopped their murmuring again to listen in.
+
+“There was a big old rumour with the Shrouded Mountain Sect. That they got attacked. Whatever happened, they pulled back all the Outriders for a couple months. Things were… bad. Bandits started gettin’ bold, to say nothing about the Spirit Beasts…”
+
+“Lowpass is fuckin’ gone,” one of the other patrons piped up. The flush of alcohol was on his cheeks, and his voice was bitter. “Saw those bastard Howling Frost Apes rootin’ through the aftermath of their rampage. Six thousand souls all to the hells.”
+
+Bi De and Yun Ren both grimaced, while Ri Zu’s fists tightened. Guilt roiled in Bi De’s stomach. It had been their actions that set that in motion.
+
+“Not like we would have been any better without that other cultivator showing up,” a woman murmured. “What was his name again? Youchen?’
+
+“Youchen it was,” the innkeeper said. “Mad bastard… he jumped into the Spear Drake’s mouth and ripped his way out its stomach. Didn’t even want any thanks, just some food. He stayed a week, and then went on again. ‘Bout a week after that, the Shrouded Mountain Sect sorted themselves out, and we started seeing them again. Apparently they did some big job for the Emperor! But, well, things couldn’t go back to normal.”
+
+“What happened?” Ri Zu asked.
+
+“The other sects happened. Frozen Cloud fuckers said there was no way the Shrouded Mountain Sect did that job for the Emperor, and started ambushing patrols. They had to pull back again, and last we heard they might be gearing up for a damn war… but that was weeks ago now.” They were all silent for a moment, absorbing the man’s words.
+
+“You’re welcome to stay and ride it out,” the innkeeper offered as the silence continued.   “Roads ain’t safe.”
+
+Bi De looked at him and smiled.
+
+“Thank you for the offer. But we can’t stay. We’re needed in the south.”
+
+They stayed the night and set off the next morning, travelling toward the Shrouded Mountain Sect.

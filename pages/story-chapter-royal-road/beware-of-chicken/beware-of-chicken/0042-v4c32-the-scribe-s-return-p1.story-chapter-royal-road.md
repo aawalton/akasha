@@ -1,0 +1,155 @@
+---
+id: bc039e9c-8e0a-51b1-95db-41b632bda292
+page-type-slug: story-chapter-royal-road
+title: "v4c32: The Scribe's Return p1"
+slug: 0042-v4c32-the-scribe-s-return-p1
+partOf: beware-of-chicken
+position: 42
+ownLength: 2381
+unit: words
+ownProgress: 2381
+publishedAt: 2023-08-09
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1304502/v4c32-the-scribes-return-p1"
+royalRoadId: "1304502"
+markedReadAt: "2026-06-29T18:52:47.262Z"
+---
+
+Each time I come to the Azure Hills, the journey seems a little lighter, Senior Disciple Lu Ri mused as he stared down at the province from the top of the Stone Gate, the main entrance into it.
+
+He took a deep breath of the air, and the Qi Desert felt less ravenous. The sky, brighter. The land before him was filled with opportunity rather than a fruitless, dead-end search. He was actively looking forward to being within the province again—an amusing revelation, a far cry from his initial… wariness of the region. Years within the Cloudy Sword Sect, and a trip to the Azure Hills was what caused him to grow. Truly, it was as the Honoured Founders declared: 'Studying the Dao and experiencing the world went hand in hand. Without one or the other, a man was incomplete. Even studying the life of an insect could potentially aid in one’s journey.'
+
+Lu Ri leapt off his perch and accelerated towards Pale Moon Lake City, intent on making it there within a day.
+
+His journey had been almost relaxing. None dared to impede his path, and he had been able to cross from the Cloudy Sword Sect all the way to the Azure Hills in mere days… though he had stopped off in Rainbow River Valley to thank the ladies of the pleasure house for their contribution to his mail bags. The evening there had been most enjoyable. Fine food and fine conversation—what more could a man desire?
+
+Though it had been a little irritating that the other men glared at him for receiving all of the ladies' attention that night.
+
+Lu Ri was still on guard, however. Today, he did not just have his personal effects. This time, he carried with him something exponentially more valuable, something that called for extraordinary diligence.
+
+His storage ring contained a masterpiece of Elder Yukong, personally crafted for the conditions within the Azure Hills. The Eight Gates North Turtle Formation was a true masterpiece, something lesser cultivators would remove their own arms for even a glimpse at its inner workings.
+
+Elder Yukong had taught Lu Ri how to use it personally. That had been a week of utter enlightenment for Lu Ri, and he had left with a renewed appreciation for her sublime arts.
+
+The subtle Eight Gates North Turtle Formation was perfectly suited to the desires of both Jin and the Lord Magistrate. It was a series of interlocking and steadily increasing defenses; it began by passively guiding those who wished to do harm away and escalated from there first to an early warning system, then to a true defensive barrier that would be able to resist an attack from one in the Sky Realm.
+
+Additionally, once the formation stabilized and settled, the artificial spirit within it fully awakened, it could enact its final protocols—In two year’s time, it would be able to either Teleport Lu Ri or anyone else keyed to it directly to the village… or it could teleport every person within the village to a different, safe location.
+
+Though it did still have a maximum limit of a hundred souls. Even Elder Yukong could not make it more than that.
+
+It was still utterly wondrous… as well as ludicrously expensive. It contained materials Lu Ri hadn’t even heard of, but when Elder Yukong went all out, she truly went all out. Those materials would be fully consumed when Lu Ri placed the formation around the village and activated it, but right now he was carrying a Sectmaster’s ransom.
+
+“It was an engaging project. I must do this more often,” Elder Yukong had said at the end of its creation, a small smile on her normally impassive face. “You’re a quick learner, too, young man. You are a credit to the Cloudy Sword Sect.”
+
+Lu Ri’s face still had a little smile on it, even days later.
+
+==========================
+
+“You managed to convince the Lord Magistrate of Pale Moon Lake City?” asked Lu Ri as he finished reading the report that had been given to him by his executives. They were all standing at attention under his gaze. He was in their headquarters, and had been received immediately.
+
+“Yes, Master Scribe! The Lord Magistrate was successfully convinced of the merit of this initiative!”
+
+Absolutely fantastic, was all Lu Ri could think. Truly, his organization had truly gone above and beyond what he had been expecting of them.
+
+A smile broke out over his face.
+
+“Excellent work.” he commended, and his subordinates straightened up with pride.
+
+“What are your orders now, Master Scribe?” one of their number asked.
+
+“Continue as you are. I am still in the process of refining the system.” Lu Ri said. “What we do in these Hills may echo over the Empire entirely.”
+
+He could see the spark of excitement in their eyes. They knew just how much worth this would have.
+
+“Now, show me what else you have so far.”
+
+The executives glanced at each other, before one of them, Zhen bowed.
+
+“This way please, Master Scribe.” she said, and led him into another room.
+
+Lu Ri’s eyes widened as he beheld it. Dedicated entirely to function over form, it was utterly bare save for the sections of an incredibly detailed map that was still incomplete. By the time it was done, incorporating every town and village in the south, it might well be too large for the room they were in. It still amazed him at how much information they collected and processed in mere months. The Founders' wisdom had borne fruit in them far beyond what he could have hoped.
+
+He had just finished addressing all of the executives of the Plum Blossom’s Shadow, and
+
+“We are proceeding apace, Master Scribe. With funding from the Pale Moon Lake City's palace and the Azure Jade Trading Company, our efforts to catalog every road and name every street is going well. We anticipate no setbacks.” Zhen, one of his subordinates, who also worked in the palace of Pale Moon Lake City, spoke to Lu Ri with firm confidence. “We have also highlighted the men who have accomplished their duties the fastest.”
+
+“Impressive work. Commend everyone involved,” Lu Ri said as he stared at the truly monumental task the Plum Blossom’s Shadow was undertaking. Though, of course, it was not the size of the undertaking, but rather how they were handling it. The logistics involved for mortals were genuinely impressive—as were the notes on what exactly they were doing, and reports from agents in the field who offered suggestions on how to improve their methodology.
+
+Lu Ri had started by molding the group into a powerful information gathering apparatus, and it had then further evolved into an organization of scholars and scribes. He spotted the name of a man who hadn’t been able to read when Li Rui had first reorganized his group, now in command of several surveyors and cataloging their efforts, while flipping through multiple stacks of forms and notes with near-contemptuous ease.
+
+Lu Ri allowed himself to feel pride and vindication at what he had created.
+
+“Those who complete their assignments completely and accurately early are awarded what remains from the original purse that was allocated to their efforts, as well as a bonus,” Zhen told him.
+
+“A fine idea. I shall add my own incentive to the pot. Forward those who have done an especially good job to me,” Lu Ri replied, and Zhen bowed slightly at his words.
+
+“As you say, Master Scribe. As for the next matter… it is pertaining to information security around your Junior Brother,” Zhen continued after she finished recording Lu Ri’s words. But at the last stroke of the words she hesitated slightly. Then, a grim look came over her face and she bowed fully at the waist. “We apologise, Master Scribe. But we believe we have failed in this matter.”
+
+Lu Ri paused and raised an eyebrow. “Continue.”
+
+“We have had over three hundred people who are asking around for him or his likeness. There were too many witnesses to suppress, as was your directive, the knowledge that a Hidden Master did something at the Dueling Peaks. Instead of attempting to suppress the knowledge and draw undue attention to our operations, the head of the Dueling Peaks Division made the decision to give out what information we deemed would not be sensitive. We apologise most deeply for this failure, Master Scribe. The head of the Dueling Peaks Division awaits your judgement.”
+
+Lu Ri internally let out a little breath he was holding. He had been worried that something had happened, perhaps even the location of the village becoming common knowledge, but this was not something to be angry about. “There is nothing to judge. As you say, there were simply too many witnesses. It is natural that such a thing would happen, and deciding on discretion over attempting to hide the knowledge was the correct choice.”
+
+Zhen let out a little breath. “I am glad to hear we have not failed you, Master Scribe.”
+
+“Do we have any idea about who is asking?”
+
+“Yes. The head of operations switched to trying to find out why they were asking for the information. Most are curious merchants… but there are some people of note. The first is the Imperial Auditor. He is currently at the Dueling Peaks, trying to make sense of everything that went on last year. According to our agents, he is going through all of the Lord Director of Spiritual Affairs’ books. We believe that he is looking to pin something on Bai Huizhong, and getting frustrated at his lack of progress. The Sects are apparently all vouching for the man as well, and not so subtly implying he should stop poking around. We gave him the bare minimum as well, but he's quite determined to find out about the supposed Hidden Master.”
+
+Lu Ri considered this. “He can be safely ignored. He is only an Imperial Auditor. The others?”
+
+Zhen’s jaw dropped briefly at Lu Ri’s words before she straightened again.
+
+“We think there may be another intelligence group, but we do not know at this time.” That caught Lu Ri’s attention. “They’re good, whoever they are, and our agents can only catch glimpses of their true nature. We have no concrete evidence of course, but three of our men have confirmed something is strange with some of the people asking about your Junior Brother.”
+
+Lu Ri frowned. Well, Jin had punched Zang Li all the way to Yellow Rock Plateau. It was only natural that somebody would come poking about. They were likely confused about who or what was going on. Lu Ri considered his course of action for a moment.
+
+“Be polite and cooperative. Feign weakness so that they may divulge their plans. But for now, simply observe. If there is an emergency, contact me,” Lu Ri decreed. He couldn’t go check by himself right now. He had to deliver the formation. But something about this felt… odd to him.
+
+Zhen bowed. “As you say, Master Scribe.”
+
+The report continued, and Lu Ri put the idea of foreign investigators out of his mind for the moment. It likely wasn’t anything too pressing.
+
+=================================
+
+“Thank you for the hospitality,” Lu Ri said to the innkeeper, and the man bowed in return.
+
+“Stop by anytime, Sir!” the innkeep replied and Lu Ri set off.
+
+He could have made it to Verdant Hill yesterday, but he had smelled a rather unique tea in one of the village inns. The delay had proven quite fruitful as the tea he found was an intriguing one, made with spices that were uncommon to this area.
+
+The source was, on reflection, no mystery. His men had reported a trade caravan heading this way.
+
+The owner of the inn had been experimenting, and the result was indeed delicious. Lu Ri purchased the recipe from the man and then stayed the night.
+
+Invigorated, it was a mere hour until he was at the gates of the Verdant Hill palace. The guard on duty recognised Lu Ri and immediately began to escort him deeper into the building.
+
+“Just past here, sir, but he's currently a bit indisposed. His student came today,” the guard said.
+
+“I won’t make a disturbance,” Lu Ri replied as he entered the inner courtyard. He was careful to be quiet… for interrupting this moment would be spitting in the face of the Founders.
+
+“… again, this all comes back to how you have decided to present yourself. What do you think you would do in this situation?” the Lord Magistrate asked Jin. Both were seated at a table and there was a large board to their side covered in images of several Sects’ sigils.
+
+Jin scratched his chin, clearly considering the mortal’s words. Learning from them. It was truly a sight worthy of the Honoured Founders.
+
+“I think it's best to draw a line early in this case…” Jin began after a moment more of thinking. Lu Ri settled down to watch. He glanced out of the corner of his eye at the other occupants of the courtyard, and Hong Meiling waved at him from where she was sitting, her babe in her lap, beside Lady Wu.
+
+Lu Ri inclined his head back and settled in to wait.
+
+The lesson didn't last for much longer. Jin stood, clasped his hands together in the gesture of respect, and bowed.
+
+“Thank you for your guidance, Teacher,” he intoned, and the Lord Magistrate saluted back.
+
+“Your answers are coming faster,” The Lord Magistrate complimented before they both turned to Lu Ri.
+
+“Good morning, Senior Brother!” Jin greeted, while the Lord Magistrate inclined his head. “How were your travels? Not too strenuous, I hope?”
+
+Lu Ri chuckled. “My travels were not strenuous at all, and my news is good. Hong Meiling. Rou Jin. The Elders of the Cloudy Sword Sect have spoken. Hong Yaowu is under the protection of the Cloudy Sword Sect—and I shall be its guardian.”
+
+The words made everybody freeze.
+
+“Secondly... I require your assistance in setting up the defensive formation.”
+
+Lu Ri sipped his tea as he watched Jin’s face run through the gamut of emotions.
+
+It was rather cathartic to see him dumbfounded, Lu Ri had to admit.

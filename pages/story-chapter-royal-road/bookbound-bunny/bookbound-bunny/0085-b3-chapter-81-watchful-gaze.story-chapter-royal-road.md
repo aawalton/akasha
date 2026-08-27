@@ -1,0 +1,117 @@
+---
+id: e5e763fd-0c0d-5d96-af23-9cfe1130d73a
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 81 - Watchful Gaze"
+slug: 0085-b3-chapter-81-watchful-gaze
+partOf: bookbound-bunny
+position: 85
+ownLength: 2217
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3846830/b3-chapter-81-watchful-gaze"
+royalRoadId: "3846830"
+---
+
+Unbeknownst to Lily, she had made a very good call not to draw any inscriptions. Not only were her recent actions being watched, but it had also become the talk of the auditorium at this early stage, where nothing too dramatic had been pulled off yet. Only one faction per year had been released, and while some monsters had been fought with it, it had been quite routine up until now.
+
+Headmaster Fabrelis had set up quite an intricate way of being able to observe the events going on in the dungeon, aided by magical tools and perhaps some other means as well. Rather than using multiple miniature eyes to observe students running around and display the events, he had created what he dubbed five "master eyes" that would float high above an area and observe almost everything below. Of course, gazing down from high up wouldn't allow you to see anything in detail, and his crowning achievement was having the eye zoom in and focus on an area.
+
+While almost all illusionists focused on deception and intrigue, Fabrelis had taken a vastly different approach, focusing on observation and redisplay. Others in the past had certainly tried to imitate his style, though none had come close to what he'd pulled off, and the man himself often joked that he should've gone into entertainment or information gathering rather than teaching.
+
+Going back to Lily, the drawing of her first glyph hadn't been noticed until it went off and began its relatively large-scale digging project. The audience was quick to react and point it out, which made Headmaster Fabrelis focus on the area and reveal Lily, who was happily drawing her second glyph while the first one was active. The audience practically exploded.
+
+"Is that a glyph?"
+
+"Not just one, two!"
+
+"How is she drawing it in the air?"
+
+"Forget the glyph, look at that beautiful cloak. It looks like the night's sky! Honey, I want one."
+
+"I saw her win the first year dungeon competition; she summoned a full glyph with the wave of her cloak!"
+
+"A magic item that stores glyphs? That must at minimum be an artifact-grade treasure. Surely the school wouldn't allow something like that in a competition?"
+
+"No, I don't think it's storing… Why else is she drawing right now?"
+
+"That still doesn't explain what's going on…"
+
+When the second glyph went off and started assembling the wall, the audience nearly lost their minds. What Lily did was something any decent earth mage could've done, but it was an active process, while the small bunny had drawn it and run off, leaving it to build itself. Of course, glyphs were the answer; the parents weren't that ignorant, but even those well-versed in glyphs had no idea how she had pulled it off.
+
+It became such a commotion that the staff was forced to intervene and provide an explanation to quell any false rumors or troublesome gossip. Normally, Headmaster Fabrelis would be the one, but he was currently maintaining his spells and didn't have the mental capacity to do both. Thus, Professor Ollie took the stage, but not before he shouted at Professor Sylwel to sit back down and not make things worse.
+
+"Greetings all, I'm Professor Ollie, and I'm the head of Applied Enchanting & Glyphwork. Some of you may know me from my research papers, were prior students of mine, or maybe even customers at one point, but I digress…" he cleared his throat.
+
+"The girl you just watched perform is Lily, and she's one of my students. Normally, we wouldn't say anything on the matter, but we feel the need to squash any false rumors lest things get out of hand. Firstly, no, that cloak is not a magical item; it is, in fact, her very own spell. Lily has an unknown Lagia bloodline that has been dubbed Astral until further information is discovered. It seems to be related to the stars, and if you ever watch her perform, you'll see plenty more and even visages of the moon."
+
+That had caused quite a ruckus, but thankfully, they were now being suppressed by the silencing tools the auditorium was equipped with. Professor Ollie disliked being interrupted and made full use of what he had, continuing on and ignoring their obvious questions.
+
+"Whether by fate or chance, Lily started studying glyphs even before awakening her bloodline. She seems to have a natural gift for it, and even I suspect it might be some kind of affinity from her bloodline, although we haven't been able to provide direct evidence on the matter. The glyph she drew, while unorthodox, is within the confines of the rules, so no need to worry there."
+
+Even though the audience was silenced, he knew what the majority of them were probably demanding an answer to. Unfortunately, it was something he, too, wished he had the answer to. Of course, he couldn't say that, and while he suspected the wand might be involved, he hadn't seen her use it, and that still didn't explain why the wand only worked for her, and not him.
+
+"Maybe the wand isn't special, it's the user," was what Headmaster Fabrelis had said to him privately back when this first started.
+
+Drawing glyphs without any tools, only your skill and imagination… Gods, I wish I had a bloodline like that.
+
+Professor Ollie shook his head, quickly returning his focus to the situation. He had an audience to placate while trying to keep his student safe.
+
+"As for how she drew the glyph in the air… I'm afraid that is a secret relating to her bloodline. I'm sure you all understand the ramifications of that. Feel free to put in a request with Headmaster Fabrelis to be updated on the situation if she chooses to reveal anything, as you know, he's a supporter of the open magic movement."
+
+That was the last thing Ollie said on the matter before leaving the stage and releasing the silence. Everyone knew the importance of bloodlines and respecting their secrets. If families like the Viremonts, Lucaryns, or Vandriels were allowed to openly keep their secrets, so should everyone.
+
+Of course, Ollie knew that, with Lily being an orphan, things had the potential to be messy, but the fact that the headmaster had promised to protect her, despite his own belief that she should spill every secret to the world. This was one of the reasons he himself had chosen Regarth as his home, despite having the opportunity to teach at institutes like Stremweth. The dungeon and its seemingly unlimited resources were obviously a factor, but Headmaster Fabrelis being a genuinely good person had sealed the deal.
+
+I wonder what Lily will do with that book Duncan gave her... If she can somehow enchant just as easily as she can draw glyphs, then Fabrelis might have his work cut out for him.
+
+***
+
+Lily's obstacle-creating plan was going very smoothly as she hopped from location to location. She didn't just build walls and pits; she also messed with the ground, churning it up or turning it into mud pits.
+
+It's too bad Arakil says transmutation is too dangerous right now. That would have probably saved a ton of time and effort to just change the rock into mud or sand.
+
+While Arakil hadn't shown her any transmutation components, he had at least satiated her curiosity by explaining some of its basic principles. Transmuting earth to earth was cheap, quick, and efficient, while earth to water was far more demanding. The more absurd and opposed to the transformation, the higher the price that needed to be paid.
+
+Because of this, he had outright stated that when he deemed her ready, it would only be transmutation inscriptions, with the strictest criteria; nothing like what Professor Sylwel was pulling off. Lily had no complaints about that, as she could only imagine the horrors of transmutation going wrong.
+
+Not that I realistically have time for that anyway… I have enough on my plate already, and I went ahead and added more with the whole enchanting my cloak idea. I've never seen Arakil so excited before, and that's despite it involving Astral magic.
+
+Arakil had always been the voice of reason, repeatedly chanting the mantra of slow and steady. Now Lily had realized that if you put the right kind of magical puzzle in front of him, then all bets were off. She just hoped this wouldn't come back to bite her and that her normal lessons would continue. If Arakil suddenly told her to stop trying to draw with her mind and replace that time with trying to enchant her cloak, she'd be devastated.
+
+While Lily was in the middle of constructing another wall, she was shocked to see a speeding figure on the horizon. At first, she thought it was a bird monster coming straight for her, and she almost reached for a Starburst to shoot it out of the sky, until she realized at the last moment it was actually Hana.
+
+The girl landed right next to her, sending dust and wind blowing everywhere with a triumphant look on her face.
+
+"Great job with the traps, you've stopped almost everyone from progressing."
+
+"Everyone? You just flew past them!" Lily shouted.
+
+"Not flying, I just launched myself and landed safely. Anyway, I just wanted to say good job, thanks for keeping Terravix at bay."
+
+Before Lily could respond, the girl galloped off at tremendous speed. Considering she had caught up to Lily, she probably assumed it would be smooth sailing past this point.
+
+I'm surprised she didn't go to the forest… Or maybe she didn't want to give Clarissa the chance to get back at her. Does that mean Arthur went there? I hope he's okay…
+
+While Lily was glad to have stopped most of the students, she was a little disheartened that she had nothing to stop anyone who could just fly. She also assumed that some students would just blow holes through her walls rather than go around them, since they were most definitely not reinforced.
+
+She continued her current drawing as it was already partially done, so she didn't want to abandon the progress. However, while she was working, she was thinking of alternative ways to create hazards. The first thing that came to mind was an ice glyph to create a frosty patch, although she didn't know how long it would last out here in the sun.
+
+Well, it would make the ground mushy even if it failed. Let's make one of those next, but what else…?
+
+With all the lights she had been making, and the sudden appearance of Hana, a blinding flash was something she considered. However, such a trap would only stop someone for maybe a minute or two at most; she'd lose more time drawing it. If it were sustained light, in theory, they could just close their eyes and advance.
+
+Close their eyes… Should I make shadow glyphs?
+
+During the day, it wouldn't be nearly as efficient, but she didn't exactly need it to last long. It's not like it was their fort where they were trying to prevent monsters for hours. It also helped that the shadow was insubstantial, meaning it could cover a much larger area compared to something physical like earth. This was why Lily was digging pits before building walls: if she tried to conjure raw rock from nothing, she would have been unable to build even a fraction of what she had done.
+
+Shadow glyphs were something Lily was still quite familiar with, as back in the orphanage, those talismans had been her and Rose's ticket to sneaking out more than they'd ever admit to. Even when she replaced that with the Nebula Veil, she still would fall back on the shadow cloak when the time called for intense sneaking about.
+
+Because of this, Lily decided to try what Arakil suggested: drawing while on the move. Keeping the two wand functions active at once was actually pretty straightforward, just like he had suggested, but at the same time, he was a hundred percent right about keeping a steady hand being the difficult part.
+
+Lily's first shadow glyph drawn this way was not something to be proud of at all, but it was at least serviceable. Sighing to herself, she placed it on the ground and finalized it. To the naked eye, the glyph was now almost invisible against the ground, and if anyone stepped on it, it would activate, blanketing the area in darkness.
+
+Although it's going to be a very short cloud of darkness… It's a good thing Arakil is in my pocket, so he didn't see this mess of a glyph. Hopefully, the next one is better.
+
+Lily continued running ahead, drawing as she went. Her familiarity with the glyphs meant that, gradually, she was getting used to drawing on the move and learning to keep her wand steady. In fact, Lily was kind of cheating by having her Nebula Veil support her arm, kind of like a brace.
+
+With each completed glyph, she immediately placed it down and kept moving, starting on the next one. Slowly but surely, the ground was being littered with a minefield of shadow traps, just waiting for unsuspecting students to trigger them.

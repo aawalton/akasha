@@ -1,0 +1,211 @@
+---
+id: 2e268ca0-03b3-5d38-8e6a-57a7d4e05caf
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 6 - Ar-Suelle, The City of Arts"
+slug: 0063-book-5-chapter-6-ar-suelle-the-city-of-arts
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 63
+ownLength: 4604
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3201362/book-5-chapter-6-ar-suelle-the-city-of-arts"
+royalRoadId: "3201362"
+---
+
+“Explain.”
+
+The solitary word sounded soft and was offered gently—as though it came from a source other than the high-level and unnervingly tall elf that was doing her absolute best to both tower over Ranthia and to crush her beneath the weight of her steely gaze.
+
+There was no trace of a weapon on the woman—not that a [Mage] needed such crude implements. There was no Skill in effect. There was no clear indication of anger on her scarred features. And there wasn’t any evidence of any of her elements in effect—even the sparks that had danced over Clover’s fur were absent, and the woman’s hands were still over Ranthia’s too-fragile Bond. The only true menace came from her eyes—and, of course, the implied threat of a being that was almost four times Ranthia’s level.
+
+Even with no true threat in play, Ranthia was undeniably intimidated.
+
+But she clawed at her fear with the combined fury of her anger (both at the elves and with herself) and her indignation. She hadn’t travelled halfway across the map just to get intimidated by some arrogant elf with a skin condition! At last, Ranthia fixed those hard, grey eyes with her own fiery glare as she took a half step forward—directly into the elf’s personal space.
+
+“I don’t know! All the System tells me is that I have an aura that causes curses to degrade at a faster pace; I’ve never even used it! It’s a minor function of my core [Priestess] Skill and the only detail I have is that it only works on curses that originate within the System—which means I get to keep dealing with White Dove’s bullshit for however long I live!” Ranthia spat her words acerbically—and tried to keep the wince off her face when she immediately realized that she’d shared more details than she’d meant to.
+
+It wasn’t like she could take the words back. She wasn’t a [Curse Breaker], she was a [Priestess]; the effect was a minor boon that the System had ignored almost as much as she had. Seriously, even her personal curse resistance tied to the Skill hadn’t ever been relevant. It wasn’t like she’d ever been affected by any curse or canceller effect from the shimagu at any—
+
+…Oh. Okay, yeah, [Priestess of Xaoc] preventing such Skills from ever taking effect on her would definitely explain a lot. It was hard to imagine that the shimagu hadn’t tried to weaken her. It’d also explain why some twins gave up on killing her after a few engagements and left the area…
+
+Not important! Ranthia hurriedly brought herself back to the moment, just in time to watch the elf step back and lower her head regretfully.
+
+“You will forgive me for losing my composure.” The woman began, pausing to consider her words.
+
+That isn’t a fucking apology. Ranthia was nursing something of a grudge, it seemed.
+
+“Typically, we prefer to log all active Auras and their maximum range of effect, but yours will be difficult. It is not the first that we have struggled with, of course, and I somewhat doubt it will be the last.” The woman smiled freely, as if they were the kind of friends that joked around together, before she turned back to resume walking toward the city—taking Clover with her.
+
+Ranthia took a moment to shove aside the multitude of petty urges that threatened to undermine her better judgment before she followed after. Thankfully, the elf didn’t seem to be in any hurry to strike up a conversation—a few moments of silence helped. And the area truly was tranquil. Ranthia wasn’t entirely certain if she could adapt to life in a quiet, peaceful town (again; it wasn’t like she’d forgotten about Sardonia), but—
+
+Passing through the arch that served as the City of Arts’ utterly indefensible entrance, Ranthia felt as if she suddenly stepped into a wall of Sound. Serenity seamlessly transitioned into the melodious noise of an elf—in mid song—as he went about tending to a tree near the entrance. And beneath his ditty were a thousand and twenty-four other sounds of a city. Conversations flowed between groups of elves scattered around the vicinity and the sweet notes from distant instruments carried on the wind.
+
+Somewhat stunned by the transformation, Ranthia followed the white-haired elf as they moved along the streets. At some point, the crystal mural road had given way to colorful, whimsical cobblestones, but Ranthia wasn’t paying much attention to what lurked beneath her feet—the rest of the city was a wonder that proved her imagination was sorely lacking. Sure, she’d read about elven cities, but she hadn’t been prepared for the sheer splendor and wonder of the real thing.
+
+Ahead of them, an elf was walking along a path that intersected with the road they were on. She was easily one of the most beautiful women Ranthia had ever seen—almost equal to Avyna—with long hair colored in varying shades of blue. The woman had a thoughtful expression on her face as she walked, followed by… herself. It had to be a Skill; the woman’s doppelganger was made out of some sort of translucent crystalline material and was wholly nude—with perfect recreations of the woman’s features. All of them. But the woman had no classes with an element that would explain how…!
+
+The answer was delivered by an act of neglect. Another elf brushed past the woman—the whole of his attention focused on the book in his hands—and immediately walked into her duplicate. …Or, rather, he walked through it.
+
+He began to sputter in outrage, while the woman rolled her eyes at him. The water that had soaked him beaded off and drifted back to her Skill, restoring it bit by bit.
+
+“It is good to enjoy Auramandus’ newest work, Lavi, but do not lose yourself in it while you walk.” Ranthia’s de facto guide called out in a warm tone.
+
+The man’s cheeks burned as he closed the surprisingly undamaged book and hurried away.
+
+In Remus, Ranthia only ever saw Skills in effect around the stalls of [Merchants] or as part of the performances of entertainers by night. But elven society seemed to welcome and celebrate what its people were capable of. Skills were on full display almost everywhere she looked. Nearby, an [Artisan] used Radiance to burn a landscape unlike the one he beheld into a sheet of crystal. Elsewhere, two elves were arguing (playfully?) while they crafted elaborate sculptures without laying a hand on their materials. In a grassy area, a dark-haired woman had sparkling shields conjured over her ears while she focused on writing, seated almost within reach of a group of three elves that were being openly amorous.
+
+But Skills weren’t the only talents on display. There were instruments being expertly played both to audiences and just for the love of music. Other elves sang or painted or just sunbathed contentedly. The area should have been cacophonous, yet somehow all of the noise blended together into a sweet harmony and failed to overwhelm her.
+
+The area was so wondrous that it took Ranthia a while to notice what was absent—there were no children in sight. It was almost difficult to appreciate the omission with how free and aloof the elves were, though. There was even a group using Skills to splash around a fountain and—
+
+[Elemental – Water] level 1237.
+
+Ranthia stopped moving and openly stared in disbelief. The elves weren’t splashing each other with Skills… they were playing with something Ranthia had never expected to see! Elementals were just a rumor, entities heard only in stories and renditions of ancient legends! They were rare in the extreme! Yet there one was, in a fountain of all things, playing with five friends.
+
+One of the women in the fountain broke into song as her horrified friends tried to stop her, but it was too late—the elemental started to sing along with her.
+
+…There weren’t enough qualifiers to, in good conscience, call what it actually vocalized ‘singing’. The sound was horrific, as though countless voices were drowning in not-quite harmony and were doing so as loudly as possible. Three of the elves fled, shrieking, while they desperately covered their ears. The fourth seemed to be trying her best to drown the still-singing elf, while the elemental sidled up to them and continued her own abomination of a song.
+
+“I do wish they would stop teasing Arq.” The white-haired elf that Ranthia was supposed to be following lamented.
+
+Ranthia rushed to catch up with her—she didn’t want to get too far away from Clover.
+
+“Where are we going?” Ranthia asked once she was once again in close proximity. Her sense of wonder had thoroughly crowded out her lingering resentment, which made it easy to talk to the elf once again.
+
+“Our city has only a single [Healer] that specializes in animals. And while I have no intention of letting this sweet little creature suffer any longer, I am trying to give you time to acclimate—I can tell that our community has a large share of your attention.” She replied without turning back to Ranthia.
+
+Ranthia winced. She hadn’t forgotten about Clover’s injury, per se, but she had never even really paid attention to the fact that she’d defaulted to mundane speeds. She had walked and reveled in her wonder, while her Bond suffered! She hadn’t even meant to be selfish!
+
+It was the kind of failing that she fully expected of herself—there were reasons why she hadn’t wanted to bear responsibility for a dependent. But she had chosen to accept the Skill and to accept Clover, which meant that she needed to do better.
+
+Ranthia picked up the pace, which her elven escort effortlessly matched, until they finally moved at speeds suitable to Ranthia’s level. She had enough vitality that she could have still marveled at the wonders of the elven city had she wished to, but she chose to keep her gaze locked on the elf’s back instead. The last thing she wanted was to witness something else she’d assumed to be impossible and stop again! She could explore the city later, once Clover was hale.
+
+“Ah, Maestro! I haven’t seen you here in quite some time. Is there something I can do for you?”
+
+The elf had been seated at a table laden with books and paperwork when they entered the stone building—one of the smaller structures Ranthia had seen thus far in the city—but she rushed to her feet when she heard them enter. Her warm brown hair was short and wavy, probably twice as long as Ranthia’s own hair at most, and her horns sat atop her head, curving toward each other.
+
+“[Healer] Litil, it is good to see you. This little dear is the bonded companion to this woman. Her leg is bothering her, but might we trouble you for a full evaluation and treatment?” The white-haired elf was all smiles as she made her request.
+
+“I hope you’re referring to the bunny; the woman might not be an elf, but she’s still a person.” The [Healer] quipped as she approached.
+
+Tentatively, Ranthia liked her.
+
+“Giant field rabbit? You’re a long way from the Wooded Wildlands, little doe.” The [Healer] gently accepted Clover from the other elf and her eyes immediately unfocused. “Strained ligament—no, there’s a hairline fracture too. Lingering gas build-up, harmless and is being naturally resolved. Undernourished though, which isn’t good. Still, we can fix that up with a bit of time! No sign of disease or organ failure, which means that for the moment you just need… [Perfect Parasite Purge], [Restorative Rejuvenating Relief], and Conjure Treat!”
+
+With the final incantation, she theatrically produced some sort of green pellet from one of the pockets on her coat and offered it to Clover. The rabbit sniffed it warily, before greedily biting into it.
+
+“You, the elvenoid that belongs to this handsome lady, how many months ago did you get your hands on her? She’s a grazer, you can’t just feed her when you eat. She’s undernourished enough that I can’t be certain of her age.” The [Healer] looked meaningfully at Ranthia while she gently set Clover and the rapidly disappearing treat down on a soft blanket atop a metal table.
+
+“We just met a handful of days ago. We were on the other side of the mountains out that way.” Ranthia paused to orientate herself before she pointed. “She found me during a snowstorm, and I snagged her when she tried to steal some of my food. After that, she started following me, then we ended up forming our companion bond just last night. Food was scarce, the only thing I found once I ran out of greens was a field of clover. It seemed to upset her stomach when she ate a bunch of them, but they were the only food I could find. I just had to hope smaller portions of them would bother her stomach less. Then she injured herself while I was fighting this nasty high-level gorilla on top of the mountain—because she tried to save me. She even took a Dark class in the middle of the fight just to—”
+
+Ranthia knew it was more information than the woman had asked for, but once she started talking, her words just kept coming. She was venting her worries about Clover on the [Healer]—she even recognized somewhere halfway through that she was doing it, but she didn’t know how to stop. She had spent days desperate for solutions and answers.
+
+The [Healer] had them. She had to.
+
+“Okay, okay! She’s okay now and you did good.” The [Healer] interrupted her. “…I am certain she must have quite a story, given how far removed she is from her natural habitat. But we might never hear it, alas! Anyhow, I take it that you need to know the basics for how to care for her?”
+
+Ranthia nodded mutely—thrice, just to be safe.
+
+“Before that, if I may? Are you certain about the mountain you were pointing at? Was the gorilla you fought able to use the Ice element?” The other elf—the one with the white hair and scars—interjected.
+
+“Um, mostly certain? I have a pretty good sense of direction, but there’s no windows on that wall. And yeah, Ice and Decay—I lost some gear before I managed to kill it.” The memory of her beloved blue-and-silver blindfold flitted through her mind.
+
+The white-haired elf blinked in that exaggerated way people tended to when they were surprised, before she turned around and walked to the door. Instead of leaving, as Ranthia expected, she just opened the door and called out:
+
+“Would someone grant me an act of kindness and fetch Bastalis from the Winter Arch?”
+
+…Well, while she waited to find out what that was about…
+
+“Can I ask you some questions?” Ranthia asked the [Healer].
+
+“Of course, we need to make sure you know everything this handsome hopper needs!” The woman replied enthusiastically.
+
+Guard #2—the more competent one—had been sent off to confirm the gorilla carcass for whatever reason, but Ranthia was mostly focused on trying to (somehow) learn everything that she needed to know to do right by Clover in a single conversation. The basics like food and bedding were just the beginning; Ranthia had more than a few questions about what the companion bond itself meant as well.
+
+“The Academy still claims it’s inconclusive, but trust me, it’s important. And by giving her freedom, I don’t mean letting her do something dangerous. Just give her the space to find and pursue her own interests. Don’t just drag her into your own interests or leave her locked up alone. It might take time for her to show clear interest in anything—every bond works a bit differently—but be patient with her. She isn’t and she’ll never be an extension of yourself, so don’t let that Skill mislead you. Fostering her independence as she develops is crucial, even if she isn’t an elvenoid. Sure, most likely she’ll never approach your level of intelligence, but she might achieve enough depth to surprise you from time to time.”
+
+Ranthia took a moment to absorb the [Healer]’s latest lesson. It wasn’t quite what she’d meant when she asked if there was anything she needed to do for Clover as she grew larger, but it was still solid advice. …Even if it reminded her uncomfortably of a healthy mindset for raising a child. She supposed she shouldn’t be surprised that there was significant overlap though—she was responsible for a smaller, more vulnerable life.
+
+Would Avyna be amused or annoyed when they finally reunited?
+
+“If I might interrupt? Bastalis has confirmed your kill and left the salvageable components with the Hunters. And given that you hope to level your bonded companion swiftly, I expect that you will want to meet with them. As you have multiple things to accomplish today, I would like to pry you away from [Healer] Litil. We still need to get your lodging sorted for however long you choose to remain here.” The white-haired elf was (shockingly) still present, though it seemed that Ranthia had worn out the woman’s patience.
+
+“But I…” Ranthia hesitated.
+
+“Relax, I’m not going anywhere. I’m usually here, and there’ll be a note on the door telling people where to find me if there’s an emergency. Miss Clover fell asleep some time ago anyway, and I’m sure she’d like to have a safe, quiet room to rest in.
+
+“I’ll have one of my kids run the supplies you’ll need to your room a bit before dinner time. Like I said, we’ll provide the basics and any essential healing she might need. If you want anything fancy, get some gems and let me know or check the main store in town. But do remember what I told you about her dietary needs. She’ll tell you she wants to eat her weight in fruit and nothing but fruit. Don’t believe her.” The [Healer] waved her off with a few final words.
+
+Right, everyone probably had better things to do than to humor her indefinitely.
+
+“Thank you, sincerely.” Ranthia offered the woman a bow, before she walked over and attempted to gently pick Clover up without waking her. She wasn’t successful, but the bunny nuzzled into her arms drowsily.
+
+She was still floored that the woman was willing to provide Clover’s food and supplies for free, but it was time to learn what the cost of living in the City of Arts would truly require. She had the gemstones that Avyna had left her, but she still didn’t have a good sense of how far they would take her.
+
+Most of the buildings in the City of Arts were made of crystal, but the stone structure that sat between the two great trees was easily the most impressive building in town. It was almost half as tall as the (truly, absurdly) massive trees and towered over everything else in town. But it was almost hard to appreciate its splendor when it was sandwiched between two trees that Ranthia struggled to believe were real. The closer she got to them, the more the sheer scale of them left her in awe.
+
+Her self-appointed guide left her to gawk at the scenery while she entered the central building. The first floor of it housed the city’s administrative personnel, but Ranthia wasn’t allowed to enter because the rest of the building was dedicated to the city’s children. Once pregnant, families moved into homes within and access to those that weren’t parents to an elf young enough to be “vulnerable” required a private assessment every eight years and was generally restricted to those that helped to teach or provide for the young. For outsiders that needed administrative assistance, like Ranthia, generally an appointment was requested from a different office. Or so the white-haired elf had explained while they walked over, at least.
+
+And lucky her, the very same woman was allowed to enter the building. Not that Ranthia was even slightly surprised; it was kind of hard to miss just how deferential everyone seemed to be around her guide.
+
+Mere moments later, the woman returned, accompanied by a skinny, scowling elf that was carrying a comically large book. He walked to a nearby podium and roughly slammed the book down onto it, before he plucked out a quill that had been hidden somewhere inside his unruly chestnut brown hair.
+
+“Wood or crystal?” In lieu of a greeting, the man levied an impatient demand at her.
+
+“I have no idea what that means.” Ranthia deadpanned her response, still gently rocking Clover in her arms.
+
+He let out a long-suffering sigh, before he turned around and looked meaningfully at each tree.
+
+“Our last non-elf wasn’t as slow witted.” The man clinched his otherwise nonverbal explanation with an insult given in the tone of voice most people would use to note a minor, easily corrected failing—like crumbs left on someone’s tunic.
+
+“Wait, people live in those?!” Sure, she’d noticed the spiraling walkways and lights from each, but she hadn’t imagined anyone could live inside a still-living tree—let alone thousands of people. The tree’s crystalline counterpart was less surprising. “But that still doesn’t give me enough information. Aside from the obvious difference in materials, what’s different between each? And does the cost differ?”
+
+“The rooms are identical in volume and similar in layout. Basic housing doesn’t cost anything and I’m not going to waste both of our time explaining how the fancier options work. You can read the City Codes yourself. Now, answer the question.” He almost had to grind the words out.
+
+“If you select wood, I will authorize your inhabitation of a larger set. Instead of two rooms plus sanitation and shower, you could have four rooms, each larger than the basic option.” The white-haired elf spoke up.
+
+“No. I don’t give a damn if you’re one of the Maestro. No one mandates where anyone lives. Section 12(a)(iii).” The man’s face turned red with undisguised fury as he turned his scowl on her.
+
+“The homes come furnished, of course, but I could be convinced to help you acquire anything you might need. So long as you are reasonable with your requests. And I believe your little one would be happier in a wooden home.” In utter defiance of the man’s fury, the woman didn’t even hesitate to continue to pile on her bribes.
+
+Before the man could erupt in fury, Ranthia stepped between them and raised a hand.
+
+“I assume this is about my Aura?” It wasn’t exactly Pallos’ greatest mystery; it was hard to imagine that she was doing so much out of guilt.
+
+“Yes.” It was still nice to get confirmation.
+
+“Let me guess, your scars?” Ranthia knew there was probably a more polite way to ask, but she didn’t feel like wasting time dancing around the issue. Besides, the woman deserved a bit of rudeness after what happened outside the gate, especially since she was still acting out of selfishness.
+
+“Curse breakers are atypical amongst elves. So long as we survive, we can outlast any curse. But the [Mage] that blasted me with cursed Sand was a mere step away from his ascension. I survived, yes, but it has been over eight hundred years and the curse remains. No [Healer] can treat any cut I sustain, and the itch remains in the back of my mind at all times.
+
+“You represent a thin hope, I admit. But every curse breaker I have sought out has failed, and I lack the rapport to request any high-tier curse breakers that the Wardens or the Unchanging Council might employ. Given that your Aura is tied to your [Priestess] class—and as I suspect you wield a divine-granted class given your apparent stats—I am willing to invest and see if you may be of assistance over time. Naturally, I will not insist that you remain here should you choose to move on, just know that I will do what I can to make staying worthwhile.” The woman offered her explanation and rationale without a hint of shame.
+
+…Which Ranthia could respect. Godsdamnit.
+
+“Wood.” Ranthia made her choice.
+
+Besides, the elf wasn’t wrong—Clover probably would prefer to live in a home of wood.
+
+Once Ranthia made her decision, the angry man surprisingly didn’t have many other questions for her. He recorded her name and Clover’s, then she had to help him with the characters for ‘human’, and after that the man activated some enchantment and had her and Clover both touch a very specific point on a briefly exposed root from the tree.
+
+Minutes later, Ranthia stepped into her new home. Each room was a bit smaller than either room from the tent she’d shared with Avyna had been, but the total space was a fair bit larger. Clover hopped alongside Ranthia for the first bit of exploration, before she wandered off on her own. A few minutes later, Ranthia found her sound asleep.
+
+In the middle of Ranthia’s new bed.
+
+The place was fully furnished, as promised. Sure, none of it was especially fancy—the furniture Avyna had chosen was much nicer—but it was well-made. There was even a window in each room—somehow, the rooms were nowhere near large enough to reach the sides of the tree anywhere past the first room. There was even a shower large enough for three or four people, alongside the other expected elven facilities.
+
+“Just let me know if you need anything else. While I would love to continue to assist you with acclimating to our city, I should get back to my usual duties. You will find a copy of the city’s codes, rules, and structure on your largest table. As you are new to elven society, I will have the Library of History send you a copy of the current codes of the Tympestshard Council and the local rulings from the past one hundred and twenty-eight years or so. You may return the books to the Library of History as you finish them.
+
+“I am not personally aware of the elf you seek, but you should check in with Mystos at his store that’s overtaken our Pink Pavillion to the north. If there are any other [Merchants] of note here, he may know of them. I have also written down where you can find the Hunters’ Lodge, and I shall leave that here. Do visit them when you can.” The white-haired elf called from the door.
+
+She didn’t even wait for Ranthia to reply before she left. By the time Ranthia reached her door, there was no trace of the elf.
+
+“She never even gave me her name.” Ranthia grumbled as she retrieved the sheet of paper and closed the door.
+
+…She was mostly sure the woman never gave her name, at least.
+
+There was a real temptation to just take the rest of the day to rest. She hadn’t slept at all the previous night, and she couldn’t claim she had ever rested well ever since the snowstorm hit. It was the first opportunity she’d had to truly just settle down peacefully since… gods, since Night summoned her to the culmination of the war.
+
+But it was also already getting to be late afternoon and Ranthia was more than a little impatient to see if she could find word about Avyna’s whereabouts. And so, Ranthia shucked her backpack, set her abused bag of woven grass on a table, and checked on Clover (still sound asleep) one last time before she quietly made her exit.
+
+Her own rest could wait for nightfall.

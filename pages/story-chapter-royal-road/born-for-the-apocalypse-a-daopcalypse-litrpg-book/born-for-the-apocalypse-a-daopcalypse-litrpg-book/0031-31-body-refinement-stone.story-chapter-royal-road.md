@@ -1,0 +1,101 @@
+---
+id: b1ba77c0-716a-5246-9c9d-292428c06b8e
+page-type-slug: story-chapter-royal-road
+title: "31: Body Refinement Stone"
+slug: 0031-31-body-refinement-stone
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 31
+ownLength: 1279
+unit: words
+publishedAt: 2024-12-10
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1949298/31-body-refinement-stone"
+royalRoadId: "1949298"
+---
+
+31:
+
+The moment Jack pulled the Body Refinement Stone out of the inventory and into his palm, with his digits wrapped around the ovular, amber gemstone, he had to resist the instinctive response to throw it.
+
+It was as if the inert stone held in his hand was trying to establish a connection with him, like an invisible vein that was seeking to burrow into his radial artery. Denying it was a simple, instinctive matter, but the thousand TP he’d spent on the stone told him that he wasn’t supposed to do that.
+
+Still, it wasn’t as if Jack would grant another alien object access to his veins without knowing what it would do, not if he had an option.
+
+Inspect, Jack thought.
+
+[Inspect has reached Level 5! Additional details are now available. Would you like to be notified of them?]
+
+Yes, Jack mentally replied.
+
+[You have failed to inspect the Body Refinement Stone.]
+
+What the hell, Jack thought, wondering what had just happened. Merely using inspect on the Body Refinement Stone had caused the invaluable skill to go up by a level, only to fail.
+
+Jack didn’t think that repeating the Inspect skill would change the outcome, but there was no harm in being through when it would only cost him a second.
+
+Sure enough, the skill unceremoniously failed again.
+
+Inspect could reveal the properties of Rare artifacts in the Qi Gathering Stage even while it was level four, but when it came to the Body Refinement Stone it refused to divulge any details. Not a hint to its purpose or use besides what the name itself suggested, a complete refusal.
+
+That, in itself, was a source of knowledge.
+
+Either the body refinement stone was protected by the system from prying, an error of sorts in the inspect skill maybe, but the odds of that just seemed wrong when the system was capable of subjugating his entire planet in a blink of an eye and was the entity that had given him his set of skills in the first place, or there was something much more fascinating going on.
+
+It was possible that the Body Refinement Stone was something that was beyond the value or threshold of his Rare Artifacts, the material it was fashioned out of simply beyond his current or even near-future ability to Inspect.
+
+There was also the possibility that he was misreading the situation entirely and coming to the wrong judgement because he simply did not have enough information, but if that wasn’t the case, then it was possible that the Body Refinement Stones that were being offered to them were subsidized for some reason.
+
+A thought struck Jack and he hurriedly opened the Tutorial Shop.
+
+“Holy shit,” Jack mumbled a few moments later, chills running down his spine. He had spent five thousand TP on his Moonsword, yet the system hadn’t greyed out the option to buy another. He had also bought three Qi Gathering Pills and nothing seemed to suggest that he couldn’t buy more. As for Body Refinement Stones though, there were still thousands in stock, yet the option for Jack to buy a second one was… refused in clear writing and greyed out.
+
+There’s something special about this stone, Jack thought. But I won’t know what it is unless I take the gamble. And being real, no amount of doomsday prepping is going to outmaneuver an entity that can read my literal mind if even its rewards are traps.
+
+Jack’s gut told him that the system wouldn’t do such a thing, because none of this would make even the little amount of sense that it did. But he wasn’t sure if he was willing to bet his life on that presumption.
+
+Still though, what choice did he have?
+
+A thousand TP had already been invested into the Body Refinement Stone and Jack was down to a meagre twenty two. It wasn’t just the currency cost that he’d invested into it, but also the opportunity cost and if he passed up ways to get stronger, he would regret it when he found himself pitted against someone who had embraced all that the system had to offer.
+
+The doomsday prepper within him, the once act that had ended up becoming a part of him, could not possibly accept such an outcome.
+
+Jack allowed the vein access to his body.
+
+It took Jack a second to even register what had happened. An intense heat flooded into his arm in what felt like a fraction of a second, as if molten lava from the heart of a volcano had been contained within the Body Refinement Stone and was now flooding his body by using his arm as a conduit.
+
+Pain, of an unimaginable magnitude engulfed his entire body, a mass of white-hot intensity that should have liquified every inch of bone and sinew, every inch of himself from the inside. Tears ran down Jack’s eyes as he rapidly approached his breaking point, only for the pain to shift.
+
+It was as if the liquid lava flowing within him had rapidly cooled down, reduced to a warmth that was suffusing his entire body, embracing his bones, musculature and skin, as if it intended to undo the harm it had inflicted upon his body.
+
+Jack’s mouth was open in a silent scream, his tears having run dry as his thoughts finally began to flow with enough coherence for him to drop the accursed stone.
+
+“I…,” Jack trailed off, his mouth feeling dry and his voice heavy with emotion as he felt his legs give, jerkily landing on his rear.
+
+“Are you alright?” Sarah whispered, as she crouched down before Jack, her gaze betraying her worry.
+
+“What…happened?” Jack drawled the question.
+
+“You held on to that stone for… a minute, I think and then you began crying with your mouth open before collapsing to the ground. Are you— what did that stone do to you?” Sarah asked, her concern matched only by the fear her flickering gaze was directing to the stone that had fallen a small distance away from Jack.
+
+“I don’t…,” Jack had begun to respond, only to pause as he realized that a system notification was hovering before him.
+
+[Congratulations on refining your Race Human (Unrefined) -> Human [Mortal Tier 1 (1.2%)]
+
+[Congratulations of being awarded Feat: Body Cultivator for being among the first hundred thousand cultivators on a recently awakened planet to refine your physical body to the next available tier.
+
++1 STR + 1 CON]
+
+“Oh,” Jack muttered as he read through the notifications. “Well…damn.”
+
+“What happened?” Sarah asked.
+
+Instead of replying, Jack slowly clenched and unclenched both his wrists, trying to feel for the differences. It was subtle, but his skin felt more rugged, his grip strength a notch above what it had been and perhaps most pronounced of all, his body felt lighter even though he hadn’t invested any points into Dexterity.
+
+Had refining his body improved it across the board. Or was it just the effect of one point extra in strength and constitution.
+
+Jack didn’t know yet, but it was clear that the Body Refinement Stone was a boon… if one had the willpower to suffer through it.
+
+His gaze turned to the amber gemstone, noticing that it was still intact and retained it’s original hue. It felt slightly duller to Jack, but he didn’t know if he was imagining or misremembering that distinction.
+
+Regardless, the stone had been worth getting. The Feat alone had justified the thousand TP cost, anything that came after was a boon.
+
+“I think… the body refinement stone might be a way to get stronger,” Jack revealed. “A very painful way, at that.”

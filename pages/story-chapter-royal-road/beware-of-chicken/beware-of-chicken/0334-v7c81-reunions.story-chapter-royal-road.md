@@ -1,0 +1,183 @@
+---
+id: 736a3d1b-7cd7-57d1-932e-c5cfedc4e542
+page-type-slug: story-chapter-royal-road
+title: "v7c81: Reunions"
+slug: 0334-v7c81-reunions
+partOf: beware-of-chicken
+position: 334
+ownLength: 2389
+unit: words
+publishedAt: 2026-07-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3695978/v7c81-reunions"
+royalRoadId: "3695978"
+---
+
+The funeral for the Martyrs of the Azure Hills ended quietly, as two funerary tablets were placed in the hallowed halls beneath the mountains. Patriarch Baatar bowed in acknowledgement to the two heroes, the first two names of what would hopefully be an institution that would last into eternity. The children of the Blue Sky had done their duty, and now could sleep peacefully.
+
+One tablet was carved out of stone from the mountain itself, carved by Rou Tigu; the other, made from the lacquered wood of the Lonely Tree. Two separate paths that found a place together. They were the kind of monuments that paid their full respects to where those had come from, and when their time came to an end. A shard of stone from the Grand Ravine would be placed here too.
+
+Though they would have to have a grand conclave of all their elders to chart this new course. The Grand Ravine did not bury their dead. The Grand Canyon Condors took their bones into the blue sky, so they could fly eternally… but to be bound forever with your comrades, ready to defend this sacred place, would be acceptable to some.
+
+As had clearly been acceptable to their ancestors; Baatar had seen the symbols in the old mausoleum. Brothers and sisters of the Ravine had chosen to rest in this place, and to move their remains now would be the height of disrespect.
+
+Baatar watched over the children as they paid their respects; every member of the Grand Ravine in Dueling Town was here, by his command, their bandannas absent as they said goodbye to the honoured dead in the Imperial way before departing. Some of the Imperials seemed rather shocked at the reverence, but they should not have been.
+
+They had given their lives under the banner of Tianlan. They were heroes, and that was the end of it.
+
+Baatar himself genuflected before the tablets. Yu Jian, uncle of Yu Yan, met Baatar’s eyes, the Imperial’s filled with gratitude, respect… and shame.
+
+Baatar knew of the man through the reports of his kin. Yu Jian had openly called them barbarians; he had fought many times against their cultivators in the past in small skirmishes. He had used his sect’s power to suppress trade routes to try and weaken the Grand Ravine.
+
+He had been their enemy.
+
+The Imperial finally realised what it meant to forgive all enmity against one’s former foes.
+
+Today he stood grateful and ashamed as the barbarians honoured his niece as one of their own heroes.
+
+Baatar could see the turmoil within Yu Jian. Regret.
+
+Yet would he change from it? Baatar did not know.
+
+No one could truly know what tomorrow would bring. And yet the old man felt quite optimistic these days, even with the solemnity of this event.
+
+===
+
+With the funeral over, then it came time for the meeting. The real meeting, the quieter meeting, where the Grand Marshal delivered her account of the events with Young Master Bi De, both of them completely and utterly candid.
+
+Baatar listened to the blow by blow with rapt attention; they all did. Sect Masters swelled with pride when they heard of the merits their members had gained, and swelled further when they saw the sheer horror of what their disciples had to face. None here could claim they had been in such a destructive battle. Not even Baatar himself.
+
+Yet the Younger Generation had risen admirably. Their host was the equal, or even the better, to the host the Grand Ravine itself could muster—and every cultivator was superior to the quality Baatar remembered of his time.
+
+Having this many cultivators in the First Stage of the Initiate’s Realm would have been a mighty force.
+
+Every single cultivator in the battle was at least at the Second Stage, with even more in the Third; some were even at the Fourth! A feat like that should have had their names ringing from the rooftops as a new power to keep an eye on.
+
+Instead, they were just another member of the Alliance. The speed of their growth was remarkable, and they clearly owed it to one thing.
+
+The blue flag of Tianlan was raised high, and all under that banner fought with the ferocity of heroes. Not a single one of his kinsmen flinched in the face of the foe, and each one proved themselves worthy of the tattoos they bore; and what was more, they had earned the right to add their own legend onto them so that their descendants would be able to point to the marks with pride.
+
+And yet even while they spoke the Grand Marshal looked troubled… until she made a decision.
+
+“It was not entirely our victory,” the Grand Marshal stated bluntly, near the end. “Master Jin and Lady Meiling provided support to our forces. Lady Meiling especially provided medical support, and without her our casualties would have been vastly higher.”
+
+Baatar could tell the admission ate at the Grand Marshal—he could tell why she felt that way. And yes, some could say it diminished the victory.
+
+But more than anything… it was relieving. The Grand Marshal looked slightly confused by the expressions on the gathered Elders’ faces.
+
+This was indeed a threat that could have destroyed the entire province. To know that Master Rou was there, ready to end it if it got too out of hand?
+
+“He was there watching over our forces… and yet he did not take the battle in hand himself?” Baatar asked carefully.
+
+“No, he did not; neither of them did,” the Grand Marshal replied.
+
+The Elders let out sighs of relief. Even Yu Jian closed his eyes and nodded in acceptance
+
+Master Rou had not handled the incident himself. He had restrained himself to light touches, and his lady-wife had kept their children alive as best they could so that the lessons would stick.
+
+“Like all true Masters, he allowed the Younger Generation to blood themselves, to gain merit, and to prove their worth,” Elder Xi Kong mused. His words were met with more nods.
+
+That, more than anything, proved Master Jin found value in them. He saw they had potential to grow, and he was nurturing that potential.
+
+The Azure Alliance had participated in a trial created by a Master of the Cloudy Sword Sect, and had not been found wanting.
+
+The Grand Marshal swiftly realised exactly what the Elders meant, and for a moment she looked relieved before the mask settled again.
+
+Ah, Master Rou had obviously told her to say what she wished in regards to his involvement. She could have lied. She could have said this was their victory alone… and yet the Marshal chose honesty. She would rather tarnish her own name and abilities, than see them unduly inflated.
+
+As always, Cai Xiulan showed exactly why she was suited to be Grand Marshal.
+
+“Did he have any words for our forces?” Baatar asked.
+
+“He thought they fought well, but he had other duties to attend to. The Tribulation Lightning did much damage to the surrounding area and he had to stabilize the local Dragon Veins, lest the area become uninhabitable.”
+
+Baatar’s ears sharpened at that. Stabilizing the Earth? Watching over the flag of Tianlan, and allowing them to see his wisdom? Allowing their Younger Generation to gain merit?
+
+As if he needed more proof that the man was the Herald of the Earth, but again and again, all signs pointed true. Baatar could not wait until Master Rou finally visited the Grand Ravine.
+
+But for now… he was content to wait.
+
+“And, as to the next item—there is a newly formed sect in our Azure Hills, the Blazing Forest Sect. Members… one hundred and twenty one.” The Grand Marshal revealed. “Led by Yi Baolin of Shady Glade.”
+
+There was a gasp at the size of the force… and then confusion, as the human stepped forward. He was a bare initiate.
+
+Then consideration, as the makeup of said sect was revealed. A sect of Blaze Bears? Who had chosen a human as their representative—?
+
+Baatar realised the reason at once, and the masterstroke of politics it was. The Blaze Bears had far more cunning than he realised, to swiftly and legally claim the Ash Forest as their territory.
+
+He would have to admit, he had vastly misjudged the Spirit Beasts. He thought them duller than that, but clearly, they had surprisingly sharp political minds. What sort of leader of their species possessed such fierce cunning and understanding of humanity? He would like to match wits with such a brilliant strategist.
+
+===
+
+Far, far away, Vajra sneezed. She rubbed at her nose. Such a strange reaction, sneezing was. She shook off the odd feeling!
+
+===
+
+Further away still, closer to Grass Sea City, a great battle was underway.
+
+“Would you like to see the grass again, Young Master?” Su Suyan asked.
+
+“Nuh,” the Young Master replied.
+
+“Would you like to have some dumplings?” she tried again.
+
+“Nuh!” came the more forceful rebuttal. He crossed his arms and turned away.
+
+“Would you like to play with Susu’s tail?” she tried for a final time, tickling him with the tip of it. She saw his resolve waver… but her Young Master turned away completely, rejecting her tail.
+
+Suyan tried not to feel the stab to her heart. He wasn’t rejecting her, he was just upset! It was the longest time he had gone without his parents! She did not have tears in the corners of her eyes!
+
+“There there, Susu,” Xue Ji said, patting her ears, and stifling a grin.
+
+“Really, it is a miracle that he's been so agreeable until the last couple days,” Lady Wu said, smiling down at the grumping toddler.
+
+For a moment she thought maybe she could illusion up the Master and Mistress to cheer him up… but she had tried that already with the bees. The Young Master had taken one look at them, sniffed, and declared them ‘Susuees’. He had seen through her illusions immediately. And though he had waved at them a bit, he clearly hadn’t enjoyed them as much as the actual bees.
+
+“They have been away for a while…” the Lord Magistrate said.
+
+“Then, how about this?” Suyan asked, conjuring some illusions.
+
+“Eh, Boss is fine,” Wa Shi said from where he was lazing in his jar. “He probably just got sidetracked fixing something else, you know how they are. But if he’s away for a few more days I can go and find him.”
+
+His words did provide some comfort… but Zhuye kept grumping, sullenly glaring at the wall with his arms crossed.
+
+And so more time passed, as it had. Slowly and peacefully.
+
+Both Suyan and Xue Ji were rather impressed by just how massive this grassland was. Compared to the mountains, this was an easy place to live; the soil was deep and loamy, instead of poor and filled with rocks. Rampaging Spirit Beasts were weak things, and the animals were all perfectly manageable.
+
+But it was a bit too hot. Not that it bothered cultivators, but Suyan preferred cooler nights, and the cold breeze from the north was perfect.
+
+They ate in the pleasant villages; and spoke of nothing really of consequence. They sketched the horizon, or the birds, or the beasts, and got out frequently so the Young Master could explore and stretch his legs. He greatly enjoyed running around these days, tottering on unsteady legs, or chasing her tail… And then she would turn and begin chasing him, the little one giggling and shrieking as she prowled behind him—at least until he would hide behind Lady Wu’s skirt and then the woman would pick him up and shower kisses on his cheeks.
+
+He would sit upon the Lord Magistrate’s lap and listen to the man as he explained a random topic in a calm voice. The Young Master clearly didn’t completely understand what the man was saying, but was content listening to his voice, and occasionally pointing and making noises of confusion that were slowly turning into ‘what?’ and ‘why?’, which was a good sign for a babe’s development.
+
+Or he would watch as Wa Shi made a fire and cooked their dinner, offering his little brother tastes of whatever he was making and gauge his reactions.
+
+Some days, he would follow Bei Be around with a stick in his hand and eagerly try to copy whatever the ox drew on the ground, much to his amusement.
+
+And at night he would sleep curled up and hugging Suyan’s tail, though he would be sad when neither of his parents were there to tuck him in.
+
+But then, one day, near Grass Sea City, the Young Master froze. He lifted his nose to the sky and sniffed. His head turned towards the carriage door.
+
+“Papa! Mama! Bzzz Bzzz!” he exclaimed. Wa Shi and Bei Be perked up. He shot to his feet and staggered, then pointed. “Susu! Susu! Out, Susu!”
+
+Suyan smiled and obliged her Young Master.
+
+He darted out of the carriage as fast as his little legs would carry him, shouting all the while with Suyan hot on his heels. He stumbled. He staggered. One time, he even fell.
+
+But he got right back up with a smile on his face.
+
+He did not have to run for long.
+
+“Zhuye!” came two shouts, and the Young Master was scooped up, giggling all the while. His mother spun him around, then passed him to his father, where he was thrown in the air, much to his delight. Then he was mobbed by a swarm of bees that nuzzled his cheeks and he nuzzled them back, and then he was held between the Master and the Mistress and hugged tight.
+
+Then they moved to greet everyone else. Many hugs were doled out; upon Wa Shi, Bei Be, the Lord Magistrate, Lady Wu, and even Suyan herself.
+
+“Thank you so much,” her Mistress whispered in Suyan’s ear and gave her a warm, heartfelt smile.
+
+It was a wonderful reward.
+
+“Sorry to keep you waiting,” Master Jin said. “We got a bit caught up in things.”
+
+Which Suyan had learned from stories from Wa Shi… was rather an understatement.
+
+And from the story they began to tell, his intuition was completely correct.

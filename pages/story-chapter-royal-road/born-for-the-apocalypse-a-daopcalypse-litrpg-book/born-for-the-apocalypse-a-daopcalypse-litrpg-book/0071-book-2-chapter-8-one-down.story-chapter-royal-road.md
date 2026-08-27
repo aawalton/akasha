@@ -1,0 +1,45 @@
+---
+id: 9ba1f77d-2391-5c16-af50-842f0ec8cf36
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 8- One down"
+slug: 0071-book-2-chapter-8-one-down
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 71
+ownLength: 1056
+unit: words
+publishedAt: 2025-05-18
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2288293/book-2-chapter-8--one-down"
+royalRoadId: "2288293"
+---
+
+70:
+
+Jack’s victory, if it could even be termed as one, was an incredibly short lived one as Marcus’s flames that had been both applying pressure upon the middle-aged man by forcing him to keep his white stone shield up and keeping his line of sight occupied by the steady stream of flames to allow Jin a safe opportunity to flank him, abruptly cut off.
+
+“Ahhhhh! Fuuuack!” Marcus groaned as the distinguishable sound of something heavy pinging against metal rang out, followed by a heavy thump and the sound of shifting sand. “Motherfucker got me in the hand—Qi Projection. I’ll live!” He called out a moment later, causing Jack’s breath to ease a little in relief.
+
+So far, assuming Sarah was doing fine with the injured assassin, Jack was still, just about, managing to keep all his group members alive. The fact that the two new additions to the group were proving to be much more resilient than anyone could expect from them given the tragic state Jack and Sarah had originally found them in— as captivies in a rift goblin camp, a species that had been forcibly transported to their planet for the sole purpose of killing humans.
+
+Where the middle-aged man had been willing to treat people as fodder to achieve his objectives, Jack had prioritized the lives of his group members at every junction he was presented with. Despite the system rewarding wanton exploitation and murder of people without considering if they were the aggressor or the victim, despite the system seeming rigged against Jack from the start, despite his humanity being tested every minute of the trial—- Jack truly believed in the path that he had chosen and where the sum of his choices would lead him. And all he needed to do now to prove to the middle-aged man that his way was the superior one was to beat him.
+
+Since he was still in combat, no system notification disturbed him by detailing the specifics of his kill, but the tingle in the back of his mind told him that he had indeed, finished the job. The brown-haired woman had pushed him almost to the degree the Juvenile Werewolf had and in some parameters she had even surpassed it— to fight with a beast, however intelligent or clever it might have been, was different from going toe to toe with a human that matched Jack in perception and dexterity and had human cunning to make up for her weaknesses.
+
+It was a true dance with death that had left Jack exhausted, both physically and mentally as he had to call upon Moon-flow to keep up with the blistering pace of combat while also accounting for the possibility that the brown-haired woman also had a Dao Mark to draw upon. If she had one, the potential of the Dao Mark had died with her, but it had not escaped Jack how two members of the enemy group had already displayed their Dao Marks in battle and they also happened to be a part of the command, a position that they had earned through hunting down other groups.
+
+It was the only logical explanation Jack saw, besides just assuming it to be a matter of coincidence or luck and his gut told him it was neither. If the system rewarded killing other humans, then the act was beneficial to it’s goal of awakening their Dao Marks in one form or the other and that meant that a good chunk of humanity was expendable, as long as the ones that were left had unlocked their Dao Marks.
+
+It was a sobering thought, but Jack had no time to spare as he took a deep breath to center himself, lowering his center of gravity even as his gaze locked on the sprinting form of Jin.
+
+Jack had one final Qi Projection in him before he ran out of juice and he wouldn’t have hesitated to use it had Jin not already closed the distance between her and the middle-aged man. Jin had aimed to flank the middle-aged man from his right, but it appeared that after the cover Marcus’ flames were offering her had ended, she had made a direct beeline towards the enemy, still striking from his right-hand side but not at a sharp enough angle to call it a flank.
+
+Had it been a true flank, Jack would have struck his final Qi Projection as the middle-aged man would have been forced to pivot with his shield to defend the Qi Spear Jin was striking with, which would have exposed his left flank to ranged attacks, giving him an opportunity to strike anywhere from his torso to his legs and end the fight. His head was still exposed from behind the much more modest white stone shield, but Qi Sword Projections flew in a wide arc and Jack couldn’t fire it without risking Jin getting caught up in it’s reach.
+
+A part of him wanted to rush in and help immediately, but the strategically sound decision was for him to keep the advantage in elevation while he still had access to ranged attacks and wait for Jin to create an opening for him to strike in.
+
+So Jack watched as Jin thrust out her Qi Spear with an ascending strike that aimed at the middle-aged man’s throat with intention to bypass his shield, only for him to respond appropriately to the threat by raising his shield to catch the burgeoning spear thrust a little under it’s lip.
+
+Jin’s spear sunk into the white stone shield but failed to penetrate it in one go, the brute force behind her attack not enough to achieve such a thing. That left her vulnerable and the middle-aged man was not one to leave a weakness unexploited, so he replied with a Qi Spear of his own, aiming a heavy blow at Jin’s chest. Her uncommon goblin chest armor wasn’t of particularly bad make, but there was no way that it was going to hold up at a Qi Spear empowered thrust at close range.
+
+Jin had no choice but to deactivate her own Qi Spear skill, which made pulling free her Moonspear a little easier as she barely managed to side-step the bloodsong spear in time.
+
+Unfortunately, she had no way of preparing for what came next.

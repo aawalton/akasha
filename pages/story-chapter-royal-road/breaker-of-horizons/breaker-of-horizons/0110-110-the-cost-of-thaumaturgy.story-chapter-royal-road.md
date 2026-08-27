@@ -1,0 +1,95 @@
+---
+id: 0924d89f-f6a6-5800-8862-f341f5f6cdc6
+page-type-slug: story-chapter-royal-road
+title: "110. The Cost of Thaumaturgy"
+slug: 0110-110-the-cost-of-thaumaturgy
+partOf: breaker-of-horizons
+position: 110
+ownLength: 2170
+unit: words
+publishedAt: 2021-05-20
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/685594/110-the-cost-of-thaumaturgy"
+royalRoadId: "685594"
+---
+
+Caden didn't know how long they spent hurtling through the streets of the city. In the arcanic sea, all he knew was that hostile auric-ambient-flares were closing in on them, and they were engaged in an intensifying war of wills.
+
+Emilia was seeding the battlefield with false arcanic signatures that mimicked the auric-ambient-flares of the seven of them, and she tried sending them on credible tangents after enveloping them in basic shields. But for that to work, she had to stay only half-dipped into the arcanic sea since she hadn't yet developed to the point where she could be fully aware of the physical world while immersed in the arcana. That meant her signatures weren't as strong or robust as they could have been, and her shields folded after one good arcanic bolt.
+
+Caden tried to mitigate that by bolstering her shields if he could get to them before the enemy, and also by laying down as much firepower as he could from the positions of the false signatures. Sometimes, it bought them a few precious seconds as the enemy pounced upon one of these clusters of signatures and tore them apart. But their enemies were increasingly able to see through Emilia's distractions, and they would simply harden their shields and barrel right through them or past them, opting to soak the damage from Caden's combat sequences instead of pausing to dismantle them.
+
+It didn't help that Caden himself was still suffering from a degree of overdraw, and he had to balance his own output so that he wouldn't collapse in the middle of this protracted engagement. Venting was second nature to him now but it was still a drain on his concentration, and it was doubly hard to do while trying to contribute meaningfully to the battle.
+
+'How are they still following us?' Caden demanded, directing this at Ambrose. 'Where's the concealment?'
+
+'They've figured out how to sidestep it. Frameshifted somehow, if I had to guess. I'm working on another way,' Ambrose replied, his mind juggling multiple possible solutions.
+
+A sudden blooming in the arcana caught Caden by surprise, but to his immense relief it was directed at one of the clusters of decoy signatures. They were all enveloped in fire as the attack smashed through the feeble shields Emelia had covered them with. Now that he wasn't preoccupied with healing Devon, he managed to catch the sequence in action. It was another fiendishly complex military-grade thing, radiating deadliness. Caden had just enough time to wonder how much damage it had caused in the physical world before the arcana shifted a little, signalling the approach of another one of those terrible sequences. This time, it wasn't directed at any of the decoys — it was coming directly for them.
+
+Emilia seemed to have sensed it too, and she abandoned the decoy effort to desperately bolster their defences, but Caden knew it wouldn't be enough. He abandoned the sequences he had been spinning, too, and threw the full weight of his will at the incoming sequence, burrowing into its core.
+
+If he had done this only one day ago, he would probably have suffered terrible harm. It was a little like jumping straight into an explosion because he was placing his mind right in the path of the incoming hostile arcana. He wouldn't have died instantly — he already knew that just because his attention was in one part of the arcanic sea didn't mean he was actually there. His auric-ambient-flare was still enmeshed with his physical body, and not drifting out there in the arcanic sea like some disembodied entity. But in the past, he had somehow thought that his auric-ambient-flare was stretching out a little bit in order to exert influence on the arcana, much like extending a hand, only the hand in this case was not a physical thing, but a tendril of intent sent racing through the ambient arcana. And in that instant, when he conveyed his intent from auric to ambient arcana, he had believed that there was a momentary connection or channel, and that his mind could be snared or harmed at the moment of transmission, just like how someone could grab your hand if you extended it.
+
+But having dipped into oblivion, he knew in his bones that there was something fundamentally wrong with that particular frameshift of navigating the arcanic sea and exerting influence over it at a distance. He didn't know exactly how intent was conveyed from his auric to the ambient arcana, but he knew it wasn't actually like an outstretched hand. That was a useful physical metaphor, but it wasn't the truth.
+
+So, with that newfound insight, even as he threw his mind into the core of the hostile sequence, he wasn't engulfed in the roiling energies. Instead of being savaged by it, he found himself being buffeted about, his mind struggling to stay grounded and focused on what was happening. It was like being thrown into a howling storm, with rain and wind lashing violently around — chaotic, uncomfortable, and terrifying, but not deadly.
+
+He didn't know the specifics of how this particular sequence worked, but now that Ambrose had given him the framework for the shield-piercing sequence, it wasn't all alien gibberish to him. He was able to vaguely recognise certain structures. He had no idea how to gently unravel the whole thing, but that wasn't his plan. He identified what looked like a key portion of the sequence, then simply hurled his will at it with such single-minded intensity that the whole thing shattered violently.
+
+The ensuing explosion threw Caden right out of the arcanic sea and back into his own body, and it was a second later before he realised that he had actually also heard that same explosion with his physical ears, which were now ringing painfully. As he shook his head and finally managed to take in his surroundings, he realised that Emilia was also momentarily disoriented like him.
+
+"Did you do that?" she asked, holding a hand to her head while steadying herself with the other on the edge of her seat.
+
+Caden nodded, then stopped because it made him feel like throwing up. "I think so."
+
+Through watery eyes, he noticed that Ambrose was still sitting with his eyes closed and his brow furrowed. Devon and Jerric, however, had also been returned to their physical senses and were suffering from the sudden transition. Devon was writhing and shivering, his body still not completely restored by the active recovery sequence Caden had placed over him, and Jerric looked like he was suffering from a migraine much worse than Emilia, probably because he had been flooding the recovery sequence with more arcana in order to hasten its fruition.
+
+"We... need to gestalt again," Caden managed to gasp out, looking to Emilia. "Need to keep up the decoys."
+
+"No, we're safe for the moment," Ambrose said suddenly, opening his eyes. He was better off than the rest of them, but he still looked drawn and haggered. "I found a way to hide us for now. And I don't think they're in a position to give chase after what you did."
+
+"What did I do?" Caden wondered aloud, staggering over to a nearby window.
+
+They appeared to be on the outskirts of the city, now, well outside the marble walls. The handsome roads of the High District had given way to well-worn asphalt, and the buildings they passed were now more ordinary, business-like affairs, with none of the regal charm of Devon's home. Caden's attention was drawn to a pillar of billowing smoke that rose into the sky, tainting the morning air, its source hidden behind the marble walls.
+
+"You didn't hesitate," Ambrose said grimly, but with a note of approval in his tone.
+
+"What did I do?" Caden asked again, turning to stare at him.
+
+"Wouldn't you know?" Emilia looked at him in confusion.
+
+"I thought I stopped their sequence!" Caden blurted. "De-stabilised it, made it inert—"
+
+When Ambrose realised belatedly that Caden hadn't deliberately caused the explosion, he let out a slow sigh and shook his head. "I'm sorry, Caden, but you did what was necessary, and we managed to get away because of what you did. It was worth it."
+
+"What did I do?" Caden demanded once more, panic bubbling within him.
+
+Ambrose raised a placating hand. "I wasn't looking so I'm not completely sure, but I'm guessing you destroyed a part of the sequence before it activated?"
+
+Caden nodded, so Ambrose went on with another heavy sigh. "Military-grade sequences draw in a lot more arcana. In the Advanced Set, we have the glyph of proximate ambient arcana, and that's already something that can do a whole lot of damage if used unadvisedly. Well, in military-grade sequences, there's a glyph from what's known as the Special Set. It's the glyph of arcanic field amplification. That allows military-grade sequences to magnify the arcana that's drawn in, until it reaches a critical mass that isn't sustainable for more than a few seconds."
+
+Hearing Ambrose mention the glyph of proximate arcana now brought Caden back to their first Basics of Artificing lecture, where his own father had talked about it. That felt like a lifetime ago now.
+
+"Most military-grade sequences," Ambrose continued, "aren't designed to sustainably channel energy. They're just there to provide a framework to control the explosion of arcana. The piercing ray sequence I gave you basically focuses all that power into a slender point so that it breaks through most barriers. I haven't seen the type they were using on us before, but I'm guessing it was meant to concentrate that energy to only affect a certain radius. They dropped one right in the middle of our shield back at the manor, so I think it's designed to basically incinerate anything inside a standard barrier."
+
+"So when I de-stabilised the sequence..." Caden trailed off.
+
+Ambrose nodded grimly. "If it were a normal commercial sequence, or even a heavy arcanic bolt, the energy would have dissipated. But if you do that to a military-grade sequence, you're just removing the shell that would've shaped the explosion. You need to unravel it carefully if you want to have any chance of stopping the explosion itself."
+
+"But why was the explosion so big?" Emilia asked, shaking her head. "They used it on us at the manor, and again on a decoy that I seeded. There was an explosion and some structural damage, certainly, but nothing of that scale."
+
+"If I had to guess, I'd say that when Caden de-stabilised it, the glyph of arcanic field amplification itself was altered, and it did more than it was supposed to do." Ambrose turned to Caden. "How exactly did you break the sequence down? You didn't remove a glyph, did you? You did something else."
+
+"I... I rammed it. I broke it by force," Caden said, his voice hollow. "What does the glyph look like?"
+
+There was a pause as Ambrose hesitated, seemingly unsure if he should start teaching Special Set glyphs to others, then he briefly drew it in the air with arcana. Caden nodded in recognition. "Yes. I gathered my own arcana, infused it with the intention to destroy, and I broke that glyph in the sequence."
+
+"That probably explains what happened," Ambrose said softly. "You did break it, but the way you did it likely infused it with even more potency before it broke since you were working with pure will and focus."
+
+Caden stared at his hands, even though they hadn't done anything at all. He felt suddenly sick to the stomach as he realised that an explosion of that magnitude must have done a terrible amount of damage. Their pursuers were probably dead, but who else had been nearby? They had been hurtling through the streets, with any number of passers-by walking on the pavement, driving next to them, or even just moving about in the adjacent buildings, oblivious to Death as it crept invisibly towards them in the arcana before unfolding in a violent conflagration.
+
+It was a fact that thaumaturgists were dangerous people, and that thaumaturgy was a deadly branch of arcanophany. Caden had read plenty about it. But until that point, it had only been an intellectual sort of understanding. It was only just beginning to sink in now that he had steeped his own metaphorical hands in the bloodied art, not as the result of being possessed by a mad augera, or by being a conduit of arcana in a gestalt for Ambrose.
+
+He looked at the black smoke darkening the sky. It felt like its shadow was settling over him as a manifestation of the full weight of what he had just done. Fresh tears sprang to his eyes and he covered his face in his hands.
+
+At the wheel, Kevan spared a glance back into the expedition trailer where Caden was quietly sobbing, then exchanged a dark look with Lynus before turning his attention back to the road.

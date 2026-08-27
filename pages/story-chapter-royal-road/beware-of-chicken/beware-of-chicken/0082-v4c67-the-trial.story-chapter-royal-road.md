@@ -1,0 +1,227 @@
+---
+id: 3a9106c4-2177-5479-91ec-e9544b45462c
+page-type-slug: story-chapter-royal-road
+title: "v4c67: The Trial"
+slug: 0082-v4c67-the-trial
+partOf: beware-of-chicken
+position: 82
+ownLength: 2323
+unit: words
+ownProgress: 2323
+publishedAt: 2023-12-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1436168/v4c67-the-trial"
+royalRoadId: "1436168"
+markedReadAt: "2026-06-29T18:54:14.451Z"
+---
+
+Che Han could only gape as the powerful expert descended from the Elder’s box, dragging the Patriarch, Elder Chongyun, and Elder Lulai with him.
+
+Fat Han had no idea who this expert was, but he was the most monstrous existence he had ever laid eyes upon. The entire stadium was silent. Only the hushed sound of breathing and stillness was left. There was nothing other than the expert's intent. The power that surrounded them all.The expert had commanded silence and it was so, all were held to his will.
+
+His might did not rage and flare like the Patriarch’s. Instead, it was like the sun in the sky, looking down upon them from higher than they could possibly conceive of, yet still all encompassing.
+
+Trial? The Sect is on trial for potential demonic infiltration?
+
+Han could not comprehend it. And yet, the blazing seal on that parchment was impossible to fake.
+
+“Bi De. Ri Zu. Yun Ren. Attend me, and give witness. The trial of the Shrouded Mountain Sect begins now,” the man declared, and Han startled.
+
+The eyes of the Emperor were upon them, and two of his friends had been the Emperor’s spies. Bi De, who… was some sort of servant Spirit Beast, and Ri Zu. He didn’t know who Yun Ren was, but…
+
+Han paused and turned to Biren. Biren stood up beside him.
+
+Han felt Yushang stiffen beside him, and Shao Heng frowned slightly.
+
+“… you too?” Han asked.
+
+Biren… Biren looked slightly remorseful.
+
+“Yeah. Sorry about the whole…” Bire—no, Yun Ren trailed off and sighed.
+
+All three of his closest friends… they had been spies the entire time. Han felt a hammer-blow to his gut. Part of him wanted to rage, to label them both as traitors. He wanted to demand the truth. Was their friendship a mere convenience?
+
+Han instead took a deep breath.
+
+The Emperor rarely ordered such investigations, but if they had legitimately been infiltrated by demons then… wasn’t this a good thing? Would not the agents of the Emperor crush the foul beasts?
+
+Han swallowed again.
+
+“Are we really being…?” he asked.
+
+“Being investigated for demonic activity? Yeah. That said… you want front row seats? And maybe we can swing a little bit of protection, with you guys being our known friends,” Yun Ren asked, offering his hand.
+
+Han glanced towards Yushang and Heng. Yushang pondered for a moment, then smiled and nodded.
+
+“I think we can trust them,” Yushang declared.
+
+Shao Heng glanced back at the arena, where Ri Zu was walking out of the medical access point, trailed by Master Lishu and the rest of the Medical Pavilion disciples.
+
+“I owe Ri Zu my life. If she needs me to stand beside her, then I shall stand beside her,” Shao Heng said, resolute.
+
+Han licked his lips. Then he turned back to Yun Ren and nodded.
+
+The three of them stood. Han felt all the eyes on them, including his own family, staring at him in askance. He locked eyes with the Patriarch of his family, old grandpa Hanbin. The man looked extremely worried.
+
+Han swallowed and looked forward as they entered the arena. The Old Monster was simply standing there with his arms crossed, a small smile on his face. He seemed inordinately pleased about the entire affair.
+
+As one they knelt. Master Lishu and the medics also bowed their heads.
+
+There was a pop and Ri Zu turned into a rat.
+
+Everybody’s heads swiveled towards her. Han stared at the tiny creature, on one knee with her head lowered. Yushang made a quiet ‘eep’ sound, her eyes going starry as she looked at the admittedly cute rat.
+
+Then, as one, everybody turned to look at Yun Ren.
+
+“What animal are you?” Yushang whispered eagerly.
+
+Yun Ren huffed. “I’m just a normal guy!” he shot back, his voice low.
+
+Yushang pouted.
+
+The old man chuckled, and at once all attention was redirected back to him.
+
+“Hmmm. I asked for you three, yet you brought more before me,” the old man said, eyeing all of them with amusement.
+
+“Yes.” Bi De took the lead, his voice the exact same in his chicken form. It was slightly disconcerting to hear that deep, smooth voice coming out of the animal. “They knew nothing of our mission, yet their assistance has been invaluable.”
+
+The old man nodded and stroked his beard.
+
+“Very well! Now then, tell me what you have learned.”
+
+===================================
+
+To hear things from Bi De’s point of view was enlightening as he described their infiltration into the Sect.
+
+Han had honestly expected more collusion or something, but in the end all three of them had simply, as Bi De put it, walked through the front door.
+
+The audacity of the plan shocked Han but it had worked. They had been accepted, and Bi De even got put into the Inner Sect on account of his might. And then… Bi De admitted that he had been at a bit of a loss on how exactly to investigate them.
+
+It was a good question. How did one investigate demonic corruption in the middle of potentially hostile territory? Bi De had started by going to parties, and when those proved to not have all the information he needed he eventually came upon an answer.
+
+Bi De selling all the herbs he grew seemed so obvious now in hindsight… but according to him, it would have been harmless to anyone without demonic taint. Han had himself eaten a lot of them and they had been nothing but beneficial to his cultivation.
+
+They were mentioned as the unwitting help that had been key to his saturation of the entire Sect and all the attending mortals—Han was just in awe of how much Qi the rooster had expended to make things possible.
+
+“And so you were just allowed to saturate the entire sect with the herbs?” the old man, Shen Yu, asked, sounding vaguely disappointed.
+
+There was a cough from behind him, and the man turned to where Elder Chongyun was standing and sweating slightly.
+
+Shen Yu raised an eyebrow. “You may speak.”
+
+“Yes, Expert. The passage of these herbs was encouraged by myself after I noticed their properties, and had even had bundles sent north to aid our fellows in their battle against the isolated demonic enclaves,” the Elder said, bowing his head. “I personally ensured that all of our core disciples took some.”
+
+Shen Yu actually paused for a moment, before nodding.
+
+“Very well. You are not completely incompetent,” Shen Yu said before he waved with clear dismissal and the Elder shut up. The man rubbed his chin. “Tell me, Bi De, what are your thoughts on the Shrouded Mountain Sect?”
+
+“This one disagrees with just about every part of their philosophy… but he can say that they have not been heavily infiltrated by demons,” the Rooster said, his voice calm and matter of fact.
+
+All of a sudden, the Elders, who had been looking extremely worried, relaxed slightly.
+
+The old monster nodded.
+
+“Ri Zu,” he commanded.
+
+The little black rat squeaked and stepped up.
+
+============================
+
+For Lishu of the Medical Pavilion, it was rather surreal to hear a talking rat speak on her time spent infiltrating his domain.
+
+He supposed he should have been mad; but the simple fact was Ri Zu was too helpful to have wished any of the patients harm… unless they had been demonic. In which case they would have had no protection anyway.
+
+It was actually rather funny, in a way. She may not have been human… but she was one of the best doctors Lishu had ever known. A mere rat was more concerned with saving lives than many humans Lishu knew. A rat had wanted to place it all on the line for others.
+
+How ironic.
+
+“Ri Zu believes Master Lishu and his Medical Pavilion beyond reproach. It was Master Lishu who taught Ri Zu the finer points of treating demonic wounds, and he was obviously concerned about the state of the disciples in the north. He was also the one to perform the autopsy on the corpse of Zang Li,” Ri Zu said, her voice steady.
+
+Lishu was actually rather surprised at just how much regard Ri Zu held him in when she kept the company of this legend. But then again, her education in the beginning had been much more like a mortal doctor’s. It was an interesting puzzle… and one he would likely never know the answer to.
+
+Lishu kept his head bowed as he felt the gaze of the monster in front of him land on his back. He could normally feel people; the blood in their veins, the spit in their mouth, the sweat on their skin… even the Patriarch was available to Lishu’s senses.
+
+Shen Yu was not. It was like he was looking at a naked sword rather than a man. Lishu could feel no blood or moisture. Shen Yu was more a being carved out of solidified Qi than a human.
+
+“Oh? High praise for the Medical Pavilion, Ri Zu. Indeed, I have witnessed the changes you were allowed to make to his domain. Tell me, boy, why did you implement this one’s ideas?” Shen Yu asked.
+
+“Good ideas are not limited by age. Their benefits were self-evident, and were therefore implemented after a trial period,” Lishu stated, his voice as calm as he could make it.
+
+“Look at me,” the man commanded after a moment, and Lishu raised his head to stare at Shen Yu.
+
+He could feel himself being judged as the mass of Qi touched his own.
+
+“Hmm,” Shen Yu said. “Why are you in this sect, Lishu of the Medical Pavilion?”
+
+Lishu blinked at the question.
+
+“Because despite their faults… they save the most lives,” Lishu answered honestly. It was the naked truth. It was why he had joined. It was why, in the beginning, he had tried so hard to change things.
+
+Until the decades had sapped that drive from him.
+
+Shen Yu looked at him for a moment longer, before nodding. The man tossed a scroll at Lishu, and he nearly fumbled the catch.
+
+“Should you desire to leave this sect, read it,” Shen Yu stated simply.
+
+Lishu’s jaw dropped.
+
+Shen Yu ignored him after that. “So, Ri Zu, your verdict?”
+
+The rat bowed her head.
+
+“Outside the Medical Pavilion, this sect is abhorrent… but they are not demons,” Ri Zu said.
+
+Then, Shen Yu turned to the last one in line.
+
+==================================
+
+Chongyun felt his heartbeat slowing as the last one, Yun Ren, gave his testimony.
+
+This was simultaneously disastrous and better than he could have hoped.
+
+At first he had been horrified that Zang Li getting eaten by demons had somehow doomed them all. Shen Yu called Master Rou his grandson, and the man’s pet chicken was here too.
+
+It probably would have been easy, perhaps even desirable for them to have declared that the Sect had been infiltrated by demons. Chongyun probably would have done that to his own enemies, but instead the ones before them spoke the honest truth.
+
+Though it didn’t change the fact that this one had somehow gotten access to their secret archives so easily.
+
+He would be having words with the Inquisition. How had they not caught any of this?! What was the point of the Patriarch even having them?! They had been moderately useful as an intelligence force, but here they had actively abetted an infiltrator!
+
+And what only added to his ire was the fact that none of them were here. Just where were they?
+
+“So, yeah. No demons to report, save for the guy who already bit the dust,” Yun Ren finished.
+
+There was silence as the Sect held its breath.
+
+“So, all three of you agree that there is no demonic taint? Even after the… incident?”
+
+Shen Yu’s face was neutral.
+
+The two animals and one man looked at each other.
+
+“Though them being demonic in nature would satisfy certain urges… this one prefers the truth to a convenient lie. They are guilty of many things, but being demons is not one of them,” Bi De stated.
+
+All of them bowed their heads… and then the air shuddered. Chongyun frowned as the mist started gathering in the arena.
+
+It wasn’t supposed to be here.
+
+“Oh? Guilty of many things?” Shen Yu asked.
+
+“While they are innocent of being demons, we have found numerous instances of… dishonourable conduct. Particularly the conduct of the Inquisition and the Patriarch,” Bi De declared.
+
+The mist started to take shape. To Chongyun’s surprise, it was crackling with lightning, in addition to odd dark tint—
+
+And then colour started to bleed into the mist as it took shape further. It billowed and changed, until it formed into a stunningly beautiful woman with nine waving tails.
+
+Chongyun’s eyes narrowed at the fox. They were the ancestral enemies of the Shrouded Mountain Sect, to be sure, but that was just it; they were his enemy. He had little of the… visceral reaction many of the other members had.
+
+Members like the Patriarch, whose eyes had just about bugged out of his skull on seeing the woman. He instantly started to thrash, a snarl erupting out of his throat.
+
+Chongyun blinked. Just what exactly was causing this reaction?
+
+“Indeed, indeed, indeed,” Shen Yu said as he turned to look directly at them. A smile had formed on his face as he watched the Patriarch thrash and snarl. “The truth is ever so important.”
+
+Chongyun watched curiously as the woman rushed to where a meteor had fallen—and that meteor resolved itself into a man who looked like their own Patriarch. Not exactly like him, but the familial resemblance was clear.
+
+He expected her to attack him. Instead, the beautiful fox woman picked him up and started tending to his wounds.
+
+Chongyun felt a pit of worry start to form in his gut.

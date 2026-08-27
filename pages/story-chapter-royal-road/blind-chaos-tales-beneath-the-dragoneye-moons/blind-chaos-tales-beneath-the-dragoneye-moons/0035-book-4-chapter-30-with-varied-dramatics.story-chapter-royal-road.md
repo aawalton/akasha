@@ -1,0 +1,233 @@
+---
+id: e8dadabd-ea0a-5497-a46c-838f4ea1950f
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 30 - With Varied Dramatics"
+slug: 0035-book-4-chapter-30-with-varied-dramatics
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 35
+ownLength: 4415
+unit: words
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2781698/book-4-chapter-30-with-varied-dramatics"
+royalRoadId: "2781698"
+---
+
+“The caravan’s survivors are underway without incident.” Glorine announced.
+
+The news was welcome. Avyna smiled as though she had always known that everything would be just fine, but Ranthia could see the little signs of relief writ across her beloved’s musculature. With the elves underway, the presumed-blind archer was planning to (literally) pick Caeli up and race her to Coalition City, for delivery to a trusted Sentinel.
+
+Avyna was willing to trust the high-level elves implicitly, so Ranthia had to trust in that. After all, Avyna was a better judge of people than Ranthia could ever hope to be.
+
+Which meant that it was time for Ranthia to hand Glorine the ‘cover’ message that was bound for the quartermaster. Scroll in hand, Glorine saluted and made her exit.
+
+Her departure left Ranthia and Avyna truly alone for the first time since… since Ranthia struck the light of her life. An incident that simultaneously felt fresh enough to haunt her and distant, as though it happened a mortal lifespan ago. Which left Ranthia unsure of what to do. She had already offered Xaoc her muted prayers, including a somewhat selfish prayer on Caelillia’s behalf—asking Him to watch over Ranthia’s not-quite family.
+
+If Ranthia was left to her own devices, she would have probably found somewhere to sit and mope while she dwelled on her darker thoughts that she had yet to truly confront, but Avyna refused to leave her side. Instead, the wise elf kept Ranthia talking. They talked about what happened. They talked about Coalition City—and Avyna continued to call their pending visit ‘a vacation.’ It wasn’t a term that Ranthia was familiar with. She had seen it in her Creation to High Elvish dictionary and some stories—she knew the definition—but the concept felt alien. Prolonged periods of downtime, removed from her comfortable surroundings, just sounded profoundly dull.
+
+Okay, yes, she was technically on downtime while they waited to see how—and, as Ranthia silently worried, if—the other Sentinels would respond to the situation, but it wasn’t like she had a chance to get bored. Avyna still needed to prep her shop for a prolonged closure. Naturally, she dragged Ranthia along, though their shared understanding of High Elvish afforded them at least some degree of privacy no matter where they were.
+
+As part of the plan, Ranthia feigned weakness while they were outside of their home, whether or not she thought anyone else could see her. She kept her walking speed slow and leaned against things to rest her weight any time they stopped while they moved back and forth through Remera. And they were stopped often. Legionaries and dwarves were often eager to exchange a few words with Avyna—or, in a few cases, to gawk at the inexplicably living Ranthia.
+
+Avyna had always been a bit of a darling around Remera. Humans and dwarves—including dwarves that inexplicably went out of their way to paint their fondness of Avyna as an exception to their normal behavior—sought her out to wish her well. Avyna always shrugged it off as a side-effect of having grateful customers and a captive audience, but Ranthia knew that a lot of it was her lover’s sheer likeability. …And, no doubt, Avyna’s incredible beauty played more than a small role too, but those thoughts easily led to dark emotions that Ranthia had struggled to work on ever since they got together. She didn’t want to be jealous and possessive.
+
+She trusted Avyna. She just didn’t trust anyone else.
+
+In contrast, Ranthia had unwittingly developed a reputation as someone that was largely unapproachable. She always tried to be friendly, but her clear preference for her friends or certain groups of dwarves had left her a bit more socially isolated than she had ever known. Yes, she had overheard blunt rumors that suggested that she considered ‘regular’ people to be beneath her, but she had always written that off as an artifact of the era when many of the lower-level legionaries judged her for standing around while they fought—as if she had ever resented that any less than they did.
+
+After nearly everyone within Remera saw her struggle against the shimagu twin—saw her die—many were visibly unsure what to think about her presence. Worried and awed whispers both accompanied them as they travelled through Remera. After everything, she still walked among them—and there was some absurd rumor that she’d been infected by the shimagu, which was a frequent topic for the worried whisperers. Some people accepted that she was a Sentinel and surviving the impossible was expected. Others assumed something darker was at work.
+
+Damned few chose to speak directly to her, no matter how popular her partner was. They preferred to pretend she wasn’t there—as if Ranthia was somehow unaware of their frequent glances in her direction—while they traded words with Avyna.
+
+But the ridiculousness of people wasn’t relevant. Ranthia tried to focus on their task at hand. To close up the shop they needed to make things as secure as they could be. Avyna chose to leave the books in place—thank Xaoc—but the bulk of her merchandise needed to be packed up and hauled back to their home. The security enchantments—and the materials—were, per Avyna, significantly better in their home. Avyna wasn’t willing to leave her goods in a location of “inferior security” for multiple years, and Ranthia had yet to convince her lover that there was no way they would remain gone for so long.
+
+News that the shop was closing temporarily spread fast, which only increased the number of interruptions they had to deal with. Even if Avyna politely declined assistance from everyone that asked, others still felt inexplicably obligated to make the exact same offer—as though something had changed in the span of minutes.
+
+Irritating interruptions aside, the conversations she shared with Avyna while they worked felt like they were helping. Her eternally wise elf had a knack for wresting inner thoughts—even those that Ranthia wasn’t sure she had the words for—out of Ranthia. It helped that Avyna was thoughtful and gentle, even with Ranthia’s vulnerabilities and fears.
+
+Frequent cuddle breaks and kisses helped even more.
+
+Gradually, throughout the day, shelves were emptied into crates. They had even borrowed a big cart that they pushed ‘together’ to take the crates home, lest anyone wonder how Ranthia was managing physical labor in her faux condition. And as they progressed, their home was increasingly blocked off by walls of crates.
+
+Which posed its own problems.
+
+“<Er, Gemheart, did we need anything from that dresser?>” Ranthia foolishly asked a rather foolish question when she realized their latest unloading had blocked the drawers.
+
+It wasn’t the first time—nor the last—that they had to shuffle things around to maintain access to everything they needed.
+
+Not even remotely surprisingly, the day came to an end before their tasks were completed. Even once the work with the shop was done, they had to pack a few bags with everything they needed—just in case Night or Aurora showed up during the night.
+
+At least when that was done, they finally had time to rest and enjoy some quiet affection. On their chaise, Avyna lounged with her head across Ranthia’s legs. Ranthia was treating her beloved to a horn massage while Avyna held up the book that Ranthia was reading, turning the pages as required. Avyna had been adamant that the rented books had to stay in Remera (“I offer no exceptions to my rules, not even for you, my love.”) and Ranthia really wanted to finish the book before they left.
+
+She just had to know if the wanderer would make it back to her hometown with the treasure she won, before the woman she loved was forced to choose another! The love interest’s parents had bought into a rumor that the wanderer had died when the darkstone tunnel collapsed—largely because they had secretly hated her from the beginning. Okay, yes, it wasn’t like the guy the parents favored was a jerk—he seemed to be a legitimately decent sort—but Ranthia doubted that the love interest could ever be happy with a man. The fictional woman’s thoughts on men, from much earlier in the tale, felt far too similar to her own.
+
+Naturally, peaceful reading wasn’t on the table—Ranthia heard the subtle sound of the entrance to their home flapping open. A few moments later, Glorine slipped through the privacy curtain, a smile on her face.
+
+“Scouts saw the glowing flying Sentinel ship… thing!” Glorine announced.
+
+“How far out?” Ranthia asked without looking up while she continued to stubbornly read. With her time running out, she picked up the pace, gently tapping Avyna to request an early page turn.
+
+“Um… I mean usually it only takes a short while once we can see it?” Glorine hesitantly offered.
+
+“…I can make it, damnit.” Ranthia decided, before she concluded the horn massage.
+
+Once Avyna sat up, Ranthia sent out a new image and shifted to it—cleansing her hands—and gently traded a quick kiss with her beloved in exchange for the book. Immediately, Ranthia accelerated her perception to its limits and relied on her dexterity to keep the book safe while she focused on reading.
+
+She wasn’t wearing her armor, just her mistweave tunic, but that was fine. She had packed her armor, along with her usual belt pouches, into one of her bags anyway.
+
+Avyna was laughing into the side of her wrist at Ranthia’s antics, but the elf dutifully took charge of packing the items they couldn’t leave in their bags. They had already packed some clothing, minimal cosmetics, and a few… accessories, but the remaining Ilan bread and a few other items still needed to be gathered. Most of what they needed could easily be acquired in Coalition City—often for cheaper than it was for them to get it in Remera—but there was no sense in leaving perishable items to rot in their absence. Even stasis enchantments had their limits.
+
+Once they were ready, Ranthia and Avyna hugged Glorine and Gailla—wait, when had Gailla arrived?—farewell. Ranthia continued to read throughout it all and bristled ever so slightly every time she was forced to break eye contact with the page. She was so close!
+
+The wanderer was only a single town away—and she chose to stop for the night! Ranthia could have screamed at the fictional woman. Seriously girl, you just took down the Beast of Nightmare Mountain; you can handle whatever local nasties came out at night! Gooo, get your girl!
+
+They exited their home and Avyna dithered while she activated the underutilized full scope of the security enchantments. Glorine and Gailla would still have access to their home if they needed a safer shelter—and to water the plants—but their home wouldn’t be a home for a time. Ranthia largely ignored the entire process as she desperately read onward, aided by [Vision of the Void]’s night vision.
+
+The wanderer had decided she needed a big breakfast before she continued her journey home! For the love of Xaoc, why?! She had literally just commented that she could be there before lunch! Just grab something and go! Why are you not rushing to the woman you love?!
+
+Together, Ranthia and Avyna made their way to the drop-off zone while Glorine and Gailla followed. Ranthia was forced to peer through the book occasionally, using [Vision of the Void]’s ability to see through solid objects, to prevent herself from running into anything, but she mostly just read.
+
+Really? Three shadow wolves (which were just ordinary wolves with the crappiest natural [Dark] caster monster class she had ever heard of, at least assuming the fanciful story had been set in Pallos) were somehow stalling the wanderer at the last minute? Her faithful sword, Flashing Glory, slew the much more powerful underboars in a single stroke while she fought to reach Nightmare Mountain! In fact, her Amulet of Sobel should have kept such weak monsters from ever getting near her!
+
+The [Starship] had descended as far as Sentinel Aurora dared and a cursing Ranthia finally closed her newly finished—and hated—book. The wanderer was too late! The woman she loved had agreed to be bound to the boring nice guy scant hours before she arrived. Then the wanderer had just kissed her one last time and said that it was for the best!? Just because she intended to continue to venture out and see the world, she couldn’t be the partner that the woman deserved?!
+
+Ranthia not-entirely-silently fumed and wrote her own—much better—ending in her head while she watched Sentinel Aurora show off the [Starship]’s latest flashy trick. Sections of the [Starship] broke apart and formed their own miniature replicas of the main vessel, lowering individual crates and barrels to ground-level where legionaries could swap them out for the handful of outbound supplies and missives.
+
+While everyone was distracted by the pretty lights and bursts of movement, Ranthia’s accelerated perception—she needed time to get over her outrage, and she was rushing through her efforts to do so—allowed her to spot something less expected. From the main Skill-created ship of Celestial beauty, a dark blur—Sentinel Night—launched himself through the air and promptly vanished into the narrow gap between two storage tents.
+
+…He didn’t want anyone to know he was there.
+
+Ranthia’s outraged thoughts about a piece of unimportant fiction withered and died as the implications settled over her. Back when Ocean had ordered her to deal with the rebels that had seized a city, Ranthia learned the truth of Night’s role among them. The man wasn’t intended to be a frontline combatant—she would have never had a seat to claim had he shared the same specialization. The man was at his best in subtle applications.
+
+It was absolute proof that her true message—that Caelillia—had reached the Sentinels. Night had to be there to investigate what truly happened to her. …Which was the nice way to think about it. More honestly, Ranthia knew without a doubt that he was there to cull whatever problem(s) lurked within Remera’s walls.
+
+…And no matter how shocked and concerned she was at first, she was fine with that—in fact, the more she thought about it, the less it bothered her. Someone had tried their utmost to kill her. Whether there was a shimagu acting within Remera or if the corruption came from the top, they had tried to take her life. They failed, so it seemed fair that their own life—or even lives—should be forfeited.
+
+“Sentinel Grace, and er… guest, come on up!” Sentinel Aurora called over the side of her diminished [Starship].
+
+Ranthia nodded and handed the (still hated) book to Glorine with a broad smile. With that, she joined hands with Avyna and the two of them—bags slung across their backs—stepped onto one of the miniature vessels. There was no room to sit or even to set down their bags, but the ascent was smooth, at least.
+
+And just when it seemed as if they would be able to get underway without incident, the base commander arrived. The man was clutching Ranthia’s ‘public’ scroll in his fist, which she had expected to have been dispatched via a runner or a bird well before sundown. He was flanked by a dozen legionaries from eclectic duty stations—likely whomever he passed that happened to be geared up.
+
+Ranthia had no idea what to expect, especially with the man brazenly showing off his dereliction of duty by carrying her message.
+
+“What is the meaning of this?!” He demanded.
+
+“We received word of the attack; I’m under orders to bring Sentinel Grace back with me so she can recuperate and receive necessary treatment from specialists.” Sentinel Aurora responded with obvious disinterest while she focused on directing her fragment Skill’s components back into place. As each sub vessel rejoined the whole, the [Starship] expanded, and the cargo drifted through it until it settled in place.
+
+“You would leave us defenseless?!” The base commander demanded, twitching.
+
+“I wouldn’t do anything. I was told that the safety of the base was ensured, but I didn’t ask specifics—I don’t care. I’m sure you can request a report through the proper channels. Though the lack of contact in the wake of a major assault and the death of a known shimagu twin was… noted.” Aurora called down, before she walked over to reorganize a stack of crates that fell short of her standards for stability.
+
+“It…it has been less than a full day, there hasn’t been time!” The base commander was visibly shaken by that.
+
+“My man, I know the distances involved better than anyone. A good [Scout] or [Messenger] could have made it to command and back by now, let alone your birds. Anyway, I don’t really care. I have my orders, and I’m sure you have your own. Unless you have anything else for me to load, I need to get underway. My schedules are damned tight, you realize.”
+
+The base commander cursed her (or perhaps Ranthia?), not quite under his breath, before he turned back and left.
+
+“Thought not. Spineless idiot.” Sentinel Aurora whispered for the benefit of her newly arrived passengers as the final fragments rejoined the [Starship]. The woman checked the chunks of arcanite concealed in bottomless barrels and crates—several of which were already visibly dimmed despite the early hour of the night—before she nodded to herself.
+
+The [Starship] rose into the sky.
+
+Avyna was openly marveling at the ship as she flitted about. She had been aboard it once before—back when Aurora was forced to serve as an archery platform—but it was the first time that she had been able to properly study the vessel.
+
+Thank Xaoc, the protective barriers seemed to encompass the whole vessel. The [Starship] was more robust and vivid than it had been last time Ranthia was aboard. Just as she had grown more powerful, so too had her fellow Sentinel.
+
+“Sentinel Grace, I’m told your, er, paramour can be trusted to keep a secret?” Sentinel Aurora suddenly spoke up once they passed beyond the clouds.
+
+“Yes, of course. She keeps several for us as-is.” Ranthia replied immediately. …Well, almost immediately. Her relief might have let her refocus on being angry about how the foolish author of that book had ruined her own wonderful story. Honestly, it was bad enough that she was feeling guilty for handing the book to Glorine—hopefully her friend wouldn’t subject herself to such a terrible, irredeemable story!
+
+“Okay, good. Our palest veteran was willing to vouch for her too, which is good enough for me. We’ve got a detour to make before we go to Coalition City. I’m going to push the speed a bit more than usual to hide this, but don’t worry, it’s safe. We’re heading to a secret spot in Remus, so neither of you breathe a word about that or what we’re picking up. It’ll be dropped off once we get back on course for Coalition City.” Sentinel Aurora announced.
+
+Ranthia and Avyna both promised their secrecy, the latter while she continued to wander the deck, openly touching the star stuff that had been painted into the shape of a ship.
+
+“…Heard what happened to you, by the way. Don’t worry, it’ll be taken care of.” Sentinel Aurora added quietly.
+
+“…Yeah, I saw Night disembark.” Ranthia admitted.
+
+“Ha! You should tell him that, I can just picture the look on his face if you told him you saw through his whole stealth schtick!” Aurora had been in a good mood—she was obviously preening over how impressed Avyna was—but Ranthia’s words had the woman guffawing openly.
+
+“Hey, I am a Sentinel for a reason, after all.” Ranthia smugly added in.
+
+“That’s the damned truth. I feel like ever since we started operating outside of Remus’ borders some of you Sentinels became a scary sort that logic just can’t be applied to.” Aurora managed to sneak words out, a few at a time, between peals of laughter.
+
+“Says the woman flying a ship made of magic through the sky at high speeds.” Ranthia deadpanned.
+
+“Hey, I’m a bloody Sentinel too!” Aurora retorted with mock sincerity.
+
+Not that she could hold her laughter in for long—Ranthia joined her when she succumbed to her mirth again and they shared a good laugh. It wasn’t like they had spent much time together, but their old grudge was plainly a thing of the past.
+
+At Ranthia’s urging, Avyna knelt onto her knees while Ranthia settled onto her own, kneeling in front of her elf. They were near the border of Remus—near the Dead Zone. Ranthia had tried to warn her lover about what that truly meant, but for someone that had never experienced it…
+
+Moments after they got into position, the sensation crawled over Ranthia’s skin.
+
+“Prisms… This… This is wrong…” Avyna shuddered.
+
+It was easy to take the world for granted outside of the Dead Zone. But passing through the boundary seemed to steal something precious. Some indescribable piece of the world was taken—allegedly by a plant—within the boundaries of Remus. And however indescribable it was, that piece of existence also seemed to be incredibly important once its absence was felt.
+
+“I know, <Gemheart>. It’s okay. I’m here.” Ranthia squeezed Avyna gently and rested her forehead against the elf’s.
+
+Avyna still remained cowed by the sensation of the Dead Zone when they slowed to a stop. The [Starship] carefully descended, while Sentinel Aurora nudged their position repeatedly in jerky movements that somehow didn’t affect them on the deck. Ranthia and Avyna were still kneeling, with their foreheads together and their hands joined. Avyna’s eyes were closed, and Ranthia’s remained hidden beneath her blindfold.
+
+“…Just wanted to offer, but after this I think I can swing by Ariminum if I try and still keep more-or-less on schedule. It’s not part of the plan, but I’m sure no one would blame you if you wanted to hide in Remus for a while. Just… get away and be safe.” Sentinel Aurora quietly offered.
+
+Ranthia took one look at her shell-shocked lover, then smiled and shook her head.
+
+“Coalition City will be safe enough, and I think we’ll be happier there.” Ranthia answered.
+
+It would have been nice to see Tertia, but… Well, that’s about where the perks ended, if she was being honest. She really didn’t want to return to Remus, and she wasn’t sure if Avyna would ever be able to get used to the Dead Zone. There they would be outsiders, uncomfortable and in many ways alone. Neither of them belonged in that place.
+
+Sentinel Aurora simply nodded. The sound was subtle, a vague twinkling noise that was difficult to describe, but Ranthia was aware that a piece of the [Starship] had been dismissed and was reforming around whatever cargo they had just received from… wherever they were—the surrounding terrain hadn’t been familiar and Ranthia hadn’t seen anything from her limited point of view.
+
+But it was a different, and far more noticeable sound that caused Avyna to—somehow—stiffen even further.
+
+“What… was that?” She asked quietly.
+
+Their new cargo was alive. And it seemed unhappy in its confines.
+
+“Tamed beasts, don’t worry about it. But… keep it quiet.” Sentinel Aurora cagily replied—the woman had enough levels to give her sharp ears.
+
+“…From the emperor’s secret facility?” Ranthia speculated, her tone dark.
+
+“Oh, didn’t know you were read in on it. Yeah. In that case, mind helping the [Tamer] get on board? The [Starskiffs] eat a ton of mana.” Sentinel Aurora seemed to relax a bit with the ‘secret’ facility being wider known.
+
+Ranthia nodded and gently pulled away from Avyna after a quick, reassuring kiss. She paused to adjust her belt—not wearing any pouches on it still felt weird—before she walked over and hopped off the edge of the ship.
+
+She landed easily on what seemed to be a completely ordinary hill in the middle of nowhere.
+
+“Who are you?” A scrawny middle-aged man demanded from nearby.
+
+“Sentinel Grace, I was told you would need assistance getting aboard.” Ranthia answered, thumbing the badge she’d pinned to her mistweave tunic, while she tried her best to not look through the very hollow hill. The inadvertent peek that she took revealed tunnels that were lined with cages—and laced with traps.
+
+“Fine, fine. Do what you must.” The man assented.
+
+…While he stood there, unmoving. Seriously, what was he expecting? It wasn’t like she was a Spatial [Mage] from the dawn of Pallos.
+
+Ranthia narrowly managed to resist the urge to roll her eyes and grabbed the man by his overcoat—made of scarred, worn leather—before she leapt into the air. With one hand she got a ‘grip’ on the seamless starlight that comprised the [Starship] and used the leverage to kick off the side of the vessel to get the last bit of height she needed to reach the deck.
+
+The man—half the level of the monster he claimed to have tamed—screamed the entire time.
+
+“You… Of all the madness!” He accused her, once he was safely standing on the deck of Aurora’s Skill-generated vessel.
+
+“Sentinel Grace, not Sentinel Mad.” Ranthia replied primly.
+
+“Wouldn’t that be Sentinel Madness?” Sentinel Aurora chimed in.
+
+“I feel like Ranger Command would refuse that moniker on principle.” Ranthia answered, not bothering to keep the petulant grin off her face.
+
+“I don’t know, I could see it. Some nice and messy area-of-effect classes…” Aurora speculated.
+
+The two women continued to quip while they got underway, which nicely prevented the angry [Tamer] from forcing them to endure his litany of complaints.
+
+It was his own fault for leaving the process entirely up to her.
+
+What did he expect?
+
+The tamer and his pets were dropped off atop a hollowed-out mesa. With how vibrant the [Starship] was, the whole ordeal felt a touch obvious and unworthy of the cloak and dagger antics, but it wasn’t Ranthia’s call to make.
+
+Avyna had perked right back up and returned to her previous excitement almost the very instant they had cleared the Dead Zone—and oh the [Tamer] had looked as if he wanted to spit fire when he realized they had an elf aboard—and she was eagerly watching their final approach to Coalition City.
+
+Which left Ranthia to gather their bags, but that was fine—it wasn’t like they were travelling heavy. She, too, looked forward to their arrival in Coalition City where…
+
+…
+
+…Wait, had she seriously let Avyna talk her into going to Coalition City without ever even sharing the plans for what they would do after they arrived?!

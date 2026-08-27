@@ -1,0 +1,135 @@
+---
+id: 33682a6d-d1bf-5c69-a4a3-c80f65d6145b
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 58 - Replication"
+slug: 0062-b3-chapter-58-replication
+partOf: bookbound-bunny
+position: 62
+ownLength: 2472
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3587799/b3-chapter-58-replication"
+royalRoadId: "3587799"
+---
+
+What followed such an exciting weekend was rather dull in comparison. Classes went on as usual, and the festival date was finally set in stone for next week. Lily was certainly relieved, as if it were this week, it might have stolen her opportunity to enter the grimoire.
+
+With the date decided, the senior students finally decided to cash in on their saved herbs. Lily and her group were informed by one of the girls at breakfast, and they were given the time they planned to do their dropoff.
+
+Unfortunately, Lily had scheduled her glyph class for that time, so Hana and Lotte were the ones who went to the arrangement. Thankfully, it went off without a hitch, and seeing all the money they had earned, she definitely felt it was worth the trouble.
+
+Hopefully, Sylwel doesn't mind that we didn't help with his task. Maybe we can donate a few of our rarer finds as a way to say sorry?
+
+As for what Lily planned to do with her share, she wasn't sure. She had accumulated quite a bit of wealth thanks to the camping trip and some of their lucky finds while grinding through the first floor. Mana potions did come to mind, but it almost felt wasteful considering she could refine her Mana Core for free with the dungeon, and offering them to Arakil always came with the same old response.
+
+[Rather focus on yourself for now.]
+
+Buying a magic item was a possibility, but so was a rare resource, which was ultimately why Lily was hoarding her money. If Arakil said they were going to perform a ritual that required something she couldn't find on her own, she wanted to have the funds available to buy it.
+
+Of course, she still spent some of it on replenishing her supplies, but after the large ink donation from Sylwel, things had been quiet on that front. That wasn't even taking into account that she'd been using her wand for her general drawing practice, meaning her ink usage had plummeted dramatically.
+
+Speaking of her drawings, her public performances seemed to have a surprising reach. Her friends often mentioned the rumors circulating about her, and it gave her hope that she might be able to pull this off by the time the interschool tournament came around. Lily still tried every night to manifest that ethereal hand to draw even just a single dot, but it sadly seemed unlikely to happen anytime soon.
+
+As for Lily learning more about control glyphs, Arakil asked to postpone it until he could show her inside the grimoire, as he claimed it would be easier to explain with his hands. She didn't mind a bit of a delay, as her schedule was already beyond full; heck, if one considered the extra time she was gaining inside the grimoire, she was actually overloaded.
+
+Arakil did express his concern, pointing out that Lily would eventually lose her headstart advantage when it came to alchemy, not to mention when she started enchanting next year, which would further eat into her time. However, attempts to dissuade her fell on deaf ears as she was extremely reluctant, devoutly claiming she wanted to learn it all.
+
+The week eventually ended without any fanfare, and Lily was excitedly anticipating her lesson with Arakil. She excused herself of any potential obligations and locked herself away. After tracing the inscription once again, she fell into slumber and made her way to the library.
+
+As per the routine, Arakil first took Lily through her basics, wanting to see everything face-to-face and point out any potential corrections. One thing that came as a surprise was that Arakil pointed out her hands and fingers were making notable improvements. At first, she thought he was joking, but when he showed her an illusory recording of her past visit, she realized he was dead serious.
+
+"You should start increasing the speed at which you do those hand exercises; your next goal should be a full set in half the time," Arakil said.
+
+"Half!?" Lily gasped.
+
+"It's a long-term goal, I'm not expecting you to reach it by our next lesson."
+
+Lily sighed with relief, although she still felt like it was way beyond her. But when she saw the image of her past self basically fumbling through it, she quickly realized that it might not be too crazy. She also asked about the recording, and Arakil explained that the grimoire was effectively always in a state of archiving, especially within this library, and that, as its primary controller, he could choose what to store or discard.
+
+Once that was complete, Lily took a short break while Arakil gave his promised demonstrations. Two items were on the agenda: self-replicating glyphs and control glyphs, and he started with the former, since it was purely a demonstration, while the latter required a much longer explanation.
+
+Lily excitedly shifted in her seat as Arakil began drawing in the air, and right from the start, she was left basically speechless. Not only was Arakil producing components she hadn't ever seen before, but the crest was also something indescribable. He drew it like any ordinary crest, but after every stroke, it shifted, yet despite that, he continued without pause, adding more and more to the complex creation.
+
+When he was finally finished with the crest, it still refused to sit still, twisting and changing as if it were alive. If that were strange enough, Lily noted that this was actually a three-dimensional crest, despite the rest of everything Arakil was drawing being two-dimensional.
+
+No wonder Arakil said I couldn't draw it, regardless of whether he was sealed or not.
+
+"This is the main design of self-replication," Arakil explained as he pointed to it. "From here, I would feed it the glyph I want it to replicate, and it would go from there."
+
+Lily flinched. "You… Feed it?"
+
+Arakil nodded. "Observe."
+
+Away from the self-replicating glyph, he drew a simple light spell with a duration of only three seconds. Lily felt underwhelmed by such a simple creation, but held her tongue as she knew it must have been for a good reason.
+
+What happened next made Lily realize why he called it feeding, as he moved the light glyph into the self-replication glyph. She thought he was going to connect them together, but what actually happened was the ever-shifting crest opened up, almost like a maw, and closed around the light glyph.
+
+"It got eaten…" Lily murmured.
+
+"In simple terms, yes. The actual reason is far too esoteric at the moment," Arakil explained. "Anyway, you could think of it as feeding it a blueprint, and now it knows what I want to be replicated. The sigils involved are all exclusive, so don't bother trying to remember them, but for the most part, they involve the quantity and speed of the replication."
+
+Lily glanced at the unfamiliar sigils and nodded. She might have seen traces of what used to be a duration sigil in one of the designs, but it had been modified far beyond reasonable understanding.
+
+Arakil waved his arm, and the glyph activated. Unlike normal glyphs, this one didn't just shine; the entire thing wriggled, sending a chill down her spine. Then, from seemingly nowhere, a fully formed light glyph popped out and activated, then another, then another… This rapidly continued until there were six, but when the seventh appeared, the first one vanished.
+
+"So that's why you only let them last three seconds…"
+
+"If I didn't, this entire room would be flooded with lights," Arakil said with a chuckle. "I could have also had it create inactive glyphs, or only activate them once they've reached a certain quantity, and so forth."
+
+"It sounds almost like a control glyph…" Lily mused.
+
+Arakil smiled. "It's what initially inspired me. I thought if you could control glyphs inside of an inscription, why not take it several steps further? In fact, you could say it's a culmination of every type of auxiliary crest, allowing it to evolve into a primary crest."
+
+Lily could feel the pride in his voice, and while she had no idea of the true depth of this conversation, she still understood it must have been a massive undertaking. Yet at the same time, she couldn't help but feel sad on his behalf, as his greatest creation was effectively banished from the current world. Not just because of his sealing, but because of how things had fundamentally changed.
+
+Arakil said Mana was effectively unlimited back in his day, which meant this had infinite potential, but now… How long would something like this function before it ran out of juice?
+
+Still, even in a limited capacity, she knew it would have its uses, and she wanted nothing more than to use it herself. However, knowing that it was a shadow of its former glory left a bitter taste in her mouth.
+
+After that somewhat brief demonstration, Arakil moved on to his lecture about control glyphs. Lily put her full focus into it and, with a bit of help from Arakil, who manipulated the mental landscape, was even writing down her own notes in a book he provided. Whatever she wrote would be fully replicated in the grimoire for her reference back in the real world.
+
+As Arakil spoke, illustrations would appear, providing context and, in some cases, even highlighting specific portions he wanted Lily to focus on. For example, if he were talking about a specific sigil, it would glow red or even blink for emphasis. Lily found this arguably better than just showing the component on its own, as it gave her extra context to understand what he was talking about.
+
+This was especially important as he went into further detail on how to use the sigil control glyph. Initially, Lily thought it would just be a good way to switch between configurations, but soon she realized it went far beyond that. In fact, you could have one control glyph providing the sigils needed for multiple crests, provided they were compatible.
+
+While these yielded the same results as inscriptions with fully drawn glyphs, if you were smart about it, you could significantly simplify the process. What finally made it click for Lily was when Arakil demonstrated a flame inscription with six fire crests, all linked to a single control glyph that provided all of the necessary sigils.
+
+"As you can see, this is a fundamentally different way of how you go about designing your inscriptions," Arakil said, as he instantly drew an example of the way Lily would have normally gone about it.
+
+The new method had six naked fire crests, but it still worked exactly the same as the original, with its half-dozen full sets of sigils. Not only did it require fewer sigils to be drawn, but if she needed to change something, it only needed to be done once. Likewise, if she wanted to add another fire crest or two, it would be painless.
+
+"One thing to keep in mind, though, is that this isn't necessarily always better. A mistake many rookie inscriptionists make is trying to force everything into this design principle. Why bother adding an entire control glyph just to set the maximum duration of a few glyphs, when it's the only compatible sigil between them?"
+
+From there, they moved on to discussing its use in swapping between sigils, which was what Lily was really after. It once again started with Arakil drawing the sigil control glyph, but rather than adding the sigils around it, he sealed it off in a circle, leaving just a naked crest.
+
+Next, Arakil started drawing smaller circles around it, which were the ancillaries he had previously mentioned, though to Lily they reminded her of little bubbles surrounding a big one. Inside each of those, he drew various sets of sigils, although always of the exact same type, just different configurations.
+
+Arakil stressed that this was of the utmost importance, as if you were modifying size, shape, and color, then every ancillary needed all three. Not only that, but the ordering of them also needed to be taken into account, as they would rotate in a clockwise manner by default, unless you modified the control glyph.
+
+He demonstrated the final design with a fire inscription and set the trigger to a snap of his fingers. With each snap, the flame would change its color, size, and shape as he cycled through them. It was an impressive display, although Lily couldn't help but wonder if it wasn't somewhat inconvenient.
+
+"If I'm using this for my alchemy fire, do I really need to go through the entire cycle?"
+
+Arakil shook his head. "When you first activate the inscription, if you target the ancillary you want, it will start there. Otherwise, it will default to the topmost position."
+
+The flame disappeared, and in its place appeared the exact same inscription as before. Arakil raised his arm, and with a gentle poke at the bottom ancillary caused it to activate once again. When the flame produced was precisely the one he poked, Lily clapped her hands with delight.
+
+"Of course, you could also set different triggers for each ancillary, but that would require a lot more configuration," Arakil pointed out.
+
+"But why do that, when this is such a simple alternative?" Lily asked.
+
+"Exactly, don't overcomplicate things just because you can. More often than not, keeping things simple is the best solution. Match the tool to the task, as they say."
+
+Lily bobbed her head in agreement.
+
+"Now, having said all of that, I'm not telling you to not overindulge on occasion… It would be hypocritical of me to deny you such creative freedoms, as I have found great enjoyment in creating inscriptions beyond normal reason. Sometimes you can find inspiration or insight where you least suspect it… Just be mindful of the time and place."
+
+Lily quickly agreed while holding back a small giggle. From there, they had a bit of back-and-forth, showing additional examples and explanations. When Lily ran out of questions, they moved on to the final portion of this trip—mental drawings.
+
+Arakil handed Lily a replica of her wand as she was still incapable of manifesting objects here herself, especially not one as complicated as this.
+
+I'd probably just get an ordinary stick…
+
+As soon as it was in her grasp, she quickly moved on to creating that ethereal hand and started drawing to her heart's content, while Arakil observed her progress. The difference was like night and day compared to outside, and it was the only reassurance she had that she wasn't blindly stumbling in the wrong direction.
+
+Up until the final moments, Lily never stopped drawing, as if desperately trying to etch the experience in her mind so she could recall it on the outside.

@@ -1,0 +1,119 @@
+---
+id: 732f2e46-4ab5-5728-a901-08e9e09b89e5
+page-type-slug: story-chapter-royal-road
+title: "62. Domestic Affairs"
+slug: 0062-62-domestic-affairs
+partOf: breaker-of-horizons
+position: 62
+ownLength: 2330
+unit: words
+publishedAt: 2020-12-03
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/594516/62-domestic-affairs"
+royalRoadId: "594516"
+---
+
+Everyone else had their own arrangements to return home, and shortly after we were done discussing, they were off. The twins were hitching a ride with some seniors in someone's car; Jerric's father had turned up; a discreet escort of two men dressed in plain clothes came for Ambrose, who went with them once certain passphrases were exchanged; an aunt came for Emilia; and Devon, of course, had a chauffeured car that seemed to be accompanied by a second vehicle, whose occupants we never got to lay eyes on. They would all eventually get on different trains once they made it to the nearby cities, but this leg of the journey had to be undertaken via the road since the Academy was rather geographically isolated.
+
+My homeward journey was very different from my arrival at the Academy. The latter had been a family affair — an event marked by great happiness and hopefulness. The return was a solitary undertaking. My father was part of the faculty, and they were staying in the Academy for at least a few more days while they attended to whatever it was that needed doing away from the eyes of the students. That meant I couldn't catch a ride on his Academy-provided car to the nearest station. I didn't want to trouble Triss and my mother, so I sent word that I would make my own way back. But the reason behind my father's delay in the homeward journey was disquieting. Even after our potentially seditious talk and our efforts at subverting prophecies, he still refused to discuss any of its details with me. After everything I had learned about arcana in just one term, and the exposure I had to the deeper workings of how it was used in the maintenance of the Empire, I wondered if his reticence was entirely voluntary.
+
+I found myself in one of the small buses that had been chartered to bring Academy students to the nearby towns. The people in mine were a mixed group of both seniors and juniors, and the mood was sombre as we all took our seats. The Demiurge had made his proclamation to all the levels, and the decision of whether or not to return was weighing on everyone's minds. A few of the seniors on the bus had failed Reeves' test, which meant that this was the last time they would see the Academy as a student unless the future became much kinder and the Empire turned away from the spectre of war. Nobody was in the mood for conversation.
+
+The train I caught from the town brought us to the capital after half a day spent chugging along the intervening wilderness. I got another brief glimpse of Geldor as I spent half an hour in transit in the station — just long enough to grab a hasty dinner — and then it was back onto the carriage for a handful of hours before it pulled into the familiar stop at Creyvlor.
+
+Besides how greatly my world and my prospects had changed, there was something else that conspired to unsettle me on the long ride home. Now that I was a lot more sensitive to the flow of arcana, I found myself being able to trace exactly how the train was making use of it. There were glyphs whose signatures I recognised just by 'tasting' them in the air, even if I couldn't see where they had been inscribed. But there was something else — something very distinct that seemed out of place. It lurked at the back of my mind through the entire ride, an itch that I couldn't seem to scratch no matter how much I tried.
+
+It wasn't until I got ready to disembark that it finally occurred to me where I had sensed this thing before. It was the Spire augera.
+
+Or, more accurately, it was a Spire augera — not the one from the Academy. But the feel of its presence was unmistakable now that I had identified its nature. Somehow, it was tied to the train.
+
+'... hello?' I ventured.
+
+I caught a whiff of something like surprise. '...unchosen-sighted-{~?~}. You listen. You speak.'
+
+As I suspected, it was not quite like my recent interactions with the Academy Spire augera. This exchange reminded me of the first contact with it, when it had been less familiar with the shape of my mind. I was once again struggling to properly understand it, but to my great surprise I found the adjustment a lot easier now. And I could tell that it was rapidly piecing together how to bridge the gulf of understanding between us.
+
+'Yes.' The augera's alien regard brushed against me, sending a shiver down my spine. 'Not familiar now. Must learn. But your eyes-mind-shape... now changed. Now broader. Now fuller. Now richer.'
+
+It seemed to be exercising a great deal of interest in me. There was a strong sense of fascination coming across.
+
+'Yes,' it sent in answer to the direction of my musings. 'Yes. Was always unchosen-sighted-{~?~}, was always interesting. But now... now also speaking. Now also listening. Now... active.'
+
+A cold dread filled my heart. If I was so transparent before it, and the Fateweavers used all augera as conduits, then—
+
+'Yes. No. Woven-shackled-streams are lenses. Lenses to see far. Lenses to see near. Lenses to see both great and small.' It seemed to grin, and that bestial delight reminded me strongly of the Academy Spire augera. 'But ancient-distant-spiders do not have eyes on all lenses at all times. And perhaps sometimes, when eyes look through a lens... it is smudged... or gently tilted. So fear. But fear less. Fear enough to move. Woven-shackled-streams are happy to help, as long as you move for us.'
+
+It was getting a lot more intelligible, but the augera withdrew, leaving me suddenly aware that I had been standing with a hand on the door of the compartment for some time. The train was almost empty now, and the last call for other passengers was going up. I hastily grabbed my belongings and stumbled onto the platform.
+
+"CADEN!"
+
+There was a blur of movement, and a moment later I found myself almost knocked to the ground as my sister barrelled straight into me, catching me in a surprisingly strong hug that pushed what little breath I had out of me. "Where were you? Why didn't you come out earlier? We thought something had happened! We thought you missed the train!"
+
+"Agh!" I returned the hug as best I could, and with great difficulty extricated myself from her grasp. "Let me breathe, Triss!"
+
+"Where were you?" she asked reproachfully, her eyes half-filled with tears. I had a snappy retort, but it died in my throat when the extent of her worry became clear. And it made sense — after all, the news of the Academy's reform and the reason behind it had already been announced by the media.
+
+"Sorry, I got stuck getting my stuff out of the compartment," I muttered distractedly, ruffling her hair and looking around the platform. I spotted my mother a little way off, hurrying through the thinning crowd. One look at her, and I suddenly felt my eyes growing hot.
+
+"We're so glad you're back," she said as she drew near and pulled me into a hug that was brief but full of unsaid worry. "It's late. Let's get in the car."
+
+"Is something wrong?" I asked, picking up on her brusque manner. My joy at seeing her in person was displaced by a sudden worry.
+
+"No, not exactly, but we shouldn't linger." She held out a hand to Triss, who immediately took it. I blinked in mild surprise at the easy compliance but followed after her without further questions. There would be time enough to talk at home.
+
+Now that I was paying attention, I realised that everyone else was a little hastier as well. Reunions on the platform were hurried affairs, and since I had disembarked so late, many were already well on their way out. Those who were seeing people off seemed to be full of nervous energy, shooting uneasy glances around as they waved off their friends and loved ones.
+
+Triss slipped her free hand into mine and squeezed. I was shocked to see that she was actually frightened.
+
+"Did something happen?" I asked, directing the question at both of them.
+
+My sister shook her head to show her confusion about the whole situation and looked up at my mother, who shot us both a worried glance before turning her eyes back to our surroundings as she led us to the car. "Not here, no. We heard news about... some kind of attack in a border city. That was a few hours ago. An explosion. Some deaths."
+
+"How come I didn't hear?" Triss stared at my mother in surprise.
+
+She got a wry smile in response. "Because you were out like a light, Miss I-Don't-Need-A-Nap."
+
+"You needed a nap in the afternoon? At this age?" I grinned at Triss, trying to distract her from the situation.
+
+She scowled. "Because you're on the late train. I didn't want to be sleepy when you got here. Anyway, don't make fun of me now, I want to listen!" She jiggled my arm and turned towards Mum. "What explosion?"
+
+My mother sighed. "A train station."
+
+"What city?" I pressed, seized by sudden fear.
+
+"Hanafast."
+
+That was where the twins lived. It couldn't be coincidence. But if they had taken a train, they probably wouldn't be there yet until some time tomorrow morning, even if they had left the Academy a few hours earlier than I had. They were probably safe, but I would only be able to check once we got home and I could use the telepresence room.
+
+"Who attacked us?" Now that the reason for my mother's skittishness had been put out in the open, Triss' fear had given way to simple curiosity. To her, the threat was a distant thing. She had no reason to think otherwise, after all.
+
+"I'm sure it's under investigation now. There might be something on the news when we get back," my mother supplied.
+
+When we reached the car, I was a little surprised when my mother directed me to sit in the back with Triss. It wasn't something I minded, but I wondered if there was more she had chosen not to share in Triss' presence. It seemed that, for some reason, my mother wanted me in the back to take care of Triss in case something happened. And that was a very, very grim thought.
+
+"How much better are you now, Cade?" Triss asked, pulling a ball of arcana from the air and shooting an impish look at me.
+
+In the past, I might have laughed and accepted her challenge and engaged in some harmless back-and-forth. But that innocent question, and this small, familiar gesture, suddenly brought home just how much had really happened in the span of a few short months. I gaped at her, wondering just how I was supposed to fit back into domestic life for a few days before I went off galavanting around the Empire in search for wild augera.
+
+"Yeah, I can do it really fast now," she said smugly, misreading the expression on my face. In quick succession, she conjured and dismissed several more orbs. Even in the middle of my preoccupation, it was easy to see that she had improved in her control and precision.
+
+"Cade?" She allowed the orb in her hands to dissipate, her look of mischief turning into one of concern.
+
+I shook myself mentally and raised an eyebrow at her. "Still on orbs? Well, why not try this?"
+
+Extending a gently cupped hand, I allowed some arcana to coalesce in it like liquid. And even though I was perfectly capable of directing it all by sheer focus now, I made use of my free hand to make a show of pulling out strands of arcana from that little pool in order to daub the substance on the rim of my palm and along my wrist. There, the arcana spread and spun upwards to form tiny, delicate shapes. In half a minute, I had an ethereal forest pool in my hand, and a miniature unicorn stepped off my wrist to drink from the arcana.
+
+Triss did not conceal her surprise and delight. She gaped at me for a moment and then leaned excitedly over the middle seat to scrutinise the details. With a trembling finger, she tried to stroke the unicorn. It took a bit of effort, but I made it turn towards her and sniff gingerly at her finger before being consented to be touched. Her finger disrupted the flow, but I managed to reform it as soon as she withdrew. The little unicorn shook its head at her in indignation, and she giggled.
+
+"Teach me!" she said, turning her shining eyes to me.
+
+My mind went over all the things I had picked up in order to bring me to this level of control and mastery; all the hours of pouring over glyphs, of reframing the way I thought of arcana and even the way I saw the world; the non-curriculum exposure to the augera and how that had further reshaped my conception of arcana itself, and how everything in our world worked.
+
+My mother was looking at me in the rear-view mirror. She gave me a knowing smile, but I knew she was only thinking about the learning that the Academy had provided, and that she did not know about the Chosen One and the augera and the rest of us, because my father and I had not yet told her. And might never tell her.
+
+"Teach me!" Triss repeated, tugging at my wrist. The forest pool frittered away into nothingness.
+
+"Maybe tomorrow," I said, forcing a smile.
+
+"You promise?" There was a determined glint in her eyes.
+
+"I promise."

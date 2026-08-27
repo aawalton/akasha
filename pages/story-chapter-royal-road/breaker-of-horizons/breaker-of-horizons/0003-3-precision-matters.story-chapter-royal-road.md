@@ -1,0 +1,199 @@
+---
+id: 0f241bfe-25fd-5279-a253-61fd75781d06
+page-type-slug: story-chapter-royal-road
+title: "3. Precision Matters"
+slug: 0003-3-precision-matters
+partOf: breaker-of-horizons
+position: 3
+ownLength: 3167
+unit: words
+publishedAt: 2020-05-11
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/494944/3-precision-matters"
+royalRoadId: "494944"
+---
+
+The vibration of my watch woke me at 7AM sharp. Ambrose still seemed to be fast asleep, so I gathered my clothes as quietly as possible and headed for the shower closest to our room. I was surprised to hear someone else already in the other shower in our dormitory since I assumed that no one else would get up this early on their first day.
+
+In 15 minutes, I was out of the shower. Everyone in the dorm had briefly exchanged names last night before turning in so I recognised Devon, who was already in the common area towelling his hair dry.
+
+He nodded at me as I joined him at the table. "Hey, early riser too?"
+
+"Helps to start the day right," I said.
+
+"Hope no one else gets up this early, otherwise we'd need a roster for the showers."
+
+We went through the usual pleasantries and I found out that Devon had come from a pretty well-to-do family. He had developed the ability to channel ambient arcana when he was only 7, so his parents threw him into a school that catered specifically to preparing children to enter the arcanist preparatory schools. He was a product of ruthless, rigid training.
+
+I wondered if he even wanted to be an arcanist but I didn't think it was polite to question his dedication. Instead, I asked, "Did you enjoy it?"
+
+"Not at first, no," he sighed. "Hated my parents for awhile. But no one else in my family has managed to enter the Academy. I think the last one was like four generations ago or something. So it's kind of a big deal for them, and I can understand that. Anyway, I'm pretty good at it now, so it worked out, and it's hard not to enjoy something you're good at, you know?"
+
+"Yeah, I know exactly what you mean."
+
+"So, what about you? You're an independent study. Must've been hard?"
+
+I was acutely aware of how different our situations were so I tried to be as tactful as I could. "Maybe not in the same way as you think. Both my parents are arcanists so I always had plenty of help, but you can't escape your teachers if they live with you."
+
+"Shit, both arcanists? How far back does your family go?"
+
+"Uhm, both my parents are first-generation, so I'm not from some pedigree or anything."
+
+"Okay, but does this mean you're really far ahead? I mean, how do you map over onto the average preparatory school standard?" I could see Devon was getting worked up - equal parts curiosity and competitive interest. I shifted uncomfortably.
+
+"I, uh, had to take the same test to get into the Academy, so I've got a score, same as anybody else."
+
+"What score?" Devon leaned towards me across the table, his eyes boring a hole into me.
+
+"It's not a competition, right?" I was desperately hoping this wouldn't become some sort of cliche rivalry. Not for the first time in my life, I wished I didn't have two arcanists for parents.
+
+"What score?" Devon repeated, leaning halfway across the table now. He looked ready to seize me by the collar.
+
+I leaned out of his reach and took a deep breath. "I'm... I'm the top scorer in our batch."
+
+Devon threw his hands up in the air with an inarticulate cry. I couldn't tell if he was horribly angry or extremely excited. Before he could do anything else the door to my room opened and Ambrose popped his head out, looking around blearily.
+
+"YOU'RE ROOMING WITH THE TOP SCORER," Devon roared, pointing at a nonplussed Ambrose. The other doors were opening now as everyone in the dorm was trying to see what the commotion was about.
+
+I buried my head in my hands. "This can't be happening."
+
+After Devon had apologised for waking everyone else, the six of us in the dorm shared a simple breakfast of sandwiches. The kitchen was small but well-stocked with the basics which would last us for about a week but after that, we'd need to stock up on our own. The talk around the table turned into something of an interrogation. I was asked about everything from my parents' arcanist vocations to my own abilities. Not wanting to appear haughty, I answered all their questions. In fact, their questions gave me a little insight into their own interests, so it was a win-win situation.
+
+Jerric, Devon's roommate, was quite interested in the theoretical aspects of arcanophany and questioned me about how my parents covered those topics. Devon himself was more interested in the application, and his questions focused on my father's work as an artificer. Lynus and Kevan, fraternal twins, wanted to know more about daily life in my house. Ambrose mostly listened, and the only question he asked was about how my parents trained my ability to channel ambient arcana.
+
+I was very relieved to find that my dorm mates seemed to be generally nice people. There was some jesting about being 'in the presence of greatness', but thankfully it didn't seem to be done in a mean spirit (as far as I could tell). Devon extracted a promise for me to help any of them if they needed, which I quite readily agreed to since I had found that I quite enjoyed coaching my own sister, and I expected that the experience wouldn't be that much different.
+
+Becoming a licensed generalist arcanist meant going through a three-year course in the Academy. Most people went on to specialise in order to pick up a vocation, which would take an additional two years. Since all of us were new, we'd be attending the same lectures, though the Academy elected to split cohorts into tutorial groups of 10 for the modules that required more focused instruction. When we compared timetables, we realised we had all been placed in different tutorial groups since our rooms were all different.
+
+I ran a finger down my schedule for today:
+
+9AM, Principles of Advanced Arcanophany, M. Reeves, Nivordin Lecture Hall11AM, Advanced Glyphs, A. Celwyn, Ka'atus Room3PM, Basics of Artificing, E. Dundale, Nivordin Lecture Hall
+
+"Seems like a light day," I remarked.
+
+Devon leaned over my shoulder to look. "You know those lectures are two hours long, right?"
+
+"Yeah, I know. So?"
+
+"Sorry, Great One, I forgot, two-hour lectures must be a breeze for one of your prodigious intellect." Devon laughed as I swatted him away. The others chuckled.
+
+"Let's go a bit earlier, grab some good seats," Ambrose suggested.
+
+Everyone else at the table nodded except Kevan, who made a face. He shot an annoyed glance at a grinning Lynus. "It's just Day One, Kev. And we're already up thanks to Devon. Might as well, right?"
+
+Kevan groaned. "Alright, fine. How early?"
+
+I thought back to the orientation briefing. "How early did the rest of you turn up yesterday, anyway? I was ten minutes early but I still ended up being one of the last ones in."
+
+"It was already like that about half an hour before it was supposed to start," Devon replied. "Didn't expect everyone else to be so on-the-ball in the Academy. Think we should go now?"
+
+Kevan rolled his eyes. "Not everyone's there because they're eager to study. Everyone was just hoping to get a good look at the Chosen One. But now that Reeves has done his thing, that's impossible. Don't think we need to worry about going that early."
+
+"Oh man, Reeves." Lynus shook his head. "That's someone I wouldn't want to cross. I think his aura's got something to do with how he just quiets the whole hall."
+
+Devon looked surprised. "Is that actually possible?"
+
+"Maybe, in theory," Jerric chimed in. "Not sure exactly how. Besides, his robes were all glyphed up - maybe it's that instead."
+
+"But what about his claim?" I asked, eager to pick up this topic. "Do you think he really modified everyone's memories?"
+
+"Yeah, why not?" Devon asked. "I mean, he said so, didn't he?"
+
+"But how?" I stood up, pacing agitatedly. "Where did all the arcana come from? How did he make it so seamless? How did he do it without line-of-sight or proximity? How did he cut through protections over property and individuals?"
+
+Jerric frowned. "I was wondering all that, too. This is arcanophany on a scale I've never even read or heard of."
+
+Kevan shrugged. "Well, he's not the Academy's Prime Sage for nothing. He's the one taking us for Principles of Advanced Arcanophany, so maybe just ask? Maybe he'll be happy to answer the Top Scorer."
+
+The others grinned and I rolled my eyes. "Right, so how early, then? Ten minutes?"
+
+There was a general murmur of agreement from everyone. We talked a bit more, then went about getting ready for our first lecture.
+
+It turned out that Kevan was right. When we arrived ten minutes early only about a quarter of the seats were filled. We went straight to the front and took up most of the row - only two others had decided to plant themselves so close to Reeves.
+
+Nivordin Lecture Hall was a grander affair than the hall we had been in for the orientation, which was to be expected since it was named after one of the more famous lineages of Emperors and many in the Nivordin line were well-remembered by history. The hall had tiered seats arranged in a semi-circle that afforded everyone a clear view, and the seats were of a much more comfortable material. The foldable desk attached to the seats was made of a highly-polished, pleasant-smelling wood. A large space at bottom tier was reserved for the lecturer. and a massive blackboard (a little old-fashioned, I thought) dominated the wall, reaching almost to the ceiling, with silver glyphs running along the edges. A long, heavy oaken desk, elaborately carved, was placed at the exact middle of the stage. A closer look revealed that there were glyphs cleverly worked into the design.
+
+Reeves was already seated there, crossed-legged, one elbow on the armest of the black leather chair while his other hand gently tapped out some sort of pattern on his knee. The desk was empty. He had no notes, no sheaves of paper, no writing implements. Instead of his ceremonial robes from last night, he was dressed in a plain long-sleeved navy-blue shirt (although he had opted to roll up the sleeves) and black trousers. As students entered, his eyes slid over their faces and he gave them a polite nod before seeming to retreat into his own thoughts.
+
+There was little noise in the hall, even as it filled up. I leaned forward a little and saw Jerric frowning at Reeves' clothes. He caught my eye and shrugged, as if to say, "Not the robes, then."
+
+"We're all here. Thank you for being punctual," Reeves said suddenly as he got to his feet. I felt a strong need to stand myself, and to even stand at attention. Judging by the sudden shifting in the hall, I wasn't the only one. Devon, who was on my right, actually did stand up before he could stop himself.
+
+"Huh?" He looked down at himself, then at the rest of us in confusion.
+
+I turned around and saw that about a third of the people in the hall had also risen to their feet, all looking confused. Others who had stayed in their seats were now half-rising, looking around uncertainly.
+
+Reeves smiled. "There is no need to stand and greet me. We're a little less formal here in the Academy, despite the titles."
+
+"But I..." Devon sat back down, his brows furrowed. His confusion was mirrored in the faces of everyone else who had, it seems, involuntarily risen.
+
+"And with that, welcome to our first lecture on the Principles of Advanced Arcanophany. Can anyone tell me what just happened?" Reeves continued, ignoring the widespread consternation, his smile widening.
+
+"Mind-control," someone from the back rows called out. An invisible hand quickly wrote her response on the blackboard behind Reeves, large enough for everyone to see. A few people gasped.
+
+Reeves didn't say anything and simply gestured for more responses.
+
+The hall filled with murmuring as people turned to those around them to discuss what was going on. After a few moments, some people started calling out responses.
+
+"You used some sort of glyph sequence under specific seats to suggest that people stand."
+
+"Some sort of hypnotic suggestion using glyphs?"
+
+"Glyph under the seats to shock people into standing."
+
+"You planted people to stand at a specific signal and act confused."
+
+Reeves chuckled a little at the last one. "While I can respect a cynical nature and I admire the evidence of lateral thinking, I am looking for a response related to arcanophany."
+
+I stared at the responses that had written themselves out on the blackboard, word-for-word. They were all a different handwriting. Could it be...?
+
+I cleared my throat. "You used your aura to manipulate ours."
+
+And sure enough, my response wrote itself out on the board... in my own handwriting. How was that happening? Was it the blackboard or Reeves?
+
+"Yes, I did," Reeves said, nodding at me and turning to gesture at the blackboard. All the other responses were crossed out.
+
+The girl who had responded first called out, "Isn't that what mind control means?"
+
+"No," Reeves' reply was firm, but not curt. "And Emilia's question brings us to the importance of terminology. In arcanophany, precision is important. Therefore, the language we use is important."
+
+I wondered if he had already learned all our names and faces, but there was no time to think about that.
+
+Behind him, the words 'mind control' were uncrossed and a circle appeared around 'mind'. Several strokes branched out from it, linking it to the words 'thoughts', 'emotions', 'memories', 'subconscious', 'conscious'... and the branches continued, linking more and more words related to the mind, faster than anything anyone could hope to copy. The words got smaller and smaller as the number of branches increased until they became too small to read even if someone were to stand with their nose pressed up to the blackboard.
+
+"How can one person hope to control all this?" Reeves asked simply, gesturing at the word which was now nestled in a web, each strand made up of tiny words.
+
+I tried to simplify what was happening on the board into simple point-form notes.
+
+'Aura control not mind control.''Arcanophany - precision impt. language impt. 'Mind is v. complex.'
+
+On my left, Ambrose was similarly engaged in furious scribbling. On my right, Devon's hand was flying over his page and he seemed to be writing a detailed description of things. Beyond him, I saw Kevan simply staring with his mouth slightly open.
+
+"If we use the misnomer 'mind control' and then attempt to do what I have just done to all of you, we will be attempting to wrestle with the chaos that is our minds. Progress may still be possible but as arcanists we do not have the luxury of infinite arcana and as human beings we do not have the luxury of infinite time. An arcanist must be efficient in their use of both."
+
+Reeves gestured again and this time my response grew larger while the rest shrank and moved off to the side of the blackboard.
+
+"So here we have it - I used my aura to manipulate yours. That is the broad description, but it is still not precise. Would anyone like to add some clarity to this?"
+
+Jerric raised a hand and Reeves nodded. "You... somehow linked your aura with some people, then... formed an impulse to stand?" Jerric's answer scrawled itself across the blackboard, and this time somehow just looking at it conveyed his own hesitance and uncertainty even though it was just words.
+
+"And how did I link my aura with some people?" Reeves pressed.
+
+"Glyphs working sympathetically, planted under our seats?" This was added beneath his first reply.
+
+"Well, check under your seats and you'll know, won't you?"
+
+I didn't bother checking. Reeves seemed to be pushing at something else. Those who did check came up with nothing, which led to more whispered speculations.
+
+"Caden," Reeves said, looking directly at me. "You're thinking hard. Care to refine your original response?"
+
+I started thinking aloud, and the blackboard recorded my words. "You didn't plant any glyphs... it can be done, but that'd take time. More time than you want to spend. It's not efficient for you to do that just to make this point. You didn't use your own auric arcana to connect directly with ours, because affecting a hundred of us takes too much of it. So you... connected your auric arcana to the ambient arcana, and used it as a channel to influence our own auric arcana?"
+
+"Very good. Thank you for using the precise terms for auric and ambient arcana. Precision is important." Reeves turned to look at my response on the board and he cleaned it up, completely erasing most parts, re-ordering some things, and adding others. In just two seconds, all that remained was a few simple lines.
+
+'Planting glyphs is not always an efficient use of time.''Auric arcana alone is insufficient for most significant tasks.''Ambient arcana is both medium and power source.'
+
+He turned to address the entire hall. "Glyphs are important and have their place but we are studying the fundamentals in this class, and so we must go to the source - arcana itself. What we call 'aura' is our common shorthand for 'auric arcana', and we should remember that term because it reminds us that there is a commonality in the arcana inside us and the arcana outside us, even though we often think of them as separate, and that commonality can be utilised in specific ways. That brings us to the final point - ambient arcana can be used as a channel for your auric arcana as long as you exercise enough mental discipline and precision."
+
+Reeves walked around his massive desk to stand in front of it. "In my lectures, you'll learn about the principles of arcanophany from the ground up. We'll delve into the leading theories about what arcana itself is, where it comes from, how it works. In our practicals, my colleagues and I will run you through a battery of exercises to help you with your fine control over both auric and ambient arcana. There are many things that can go wrong, so I expect everyone to maintain the highest standards of discipline and safety - you should all be familiar enough with the procedures since you've all made it through our enrollment tests."
+
+"And finally," he leaned forward and the air seemed to grow heavier. His level of control over the ambient arcana was unbelievable. "By the end of the semester, if any of you are still forced to stand against your will in my lectures, you will be expelled from the Academy."

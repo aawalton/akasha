@@ -1,0 +1,169 @@
+---
+id: 0f922096-e34c-552c-b724-210784594d25
+page-type-slug: story-chapter-royal-road
+title: "v5c62: The Heavens Converge"
+slug: 0169-v5c62-the-heavens-converge
+partOf: beware-of-chicken
+position: 169
+ownLength: 2138
+unit: words
+ownProgress: 2138
+publishedAt: 2024-11-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1895119/v5c62-the-heavens-converge"
+royalRoadId: "1895119"
+markedReadAt: "2026-06-29T18:57:06.376Z"
+---
+
+The Lord Magistrate took a moment, in the sanctity of his own mind, to vent all of his frustrations. The Cloudy Sword Sect arriving in an official capacity, along with Soaring Heaven’s Isle Sect, and one of His Imperial Majesty’s direct retainers?
+
+Ah, his life was flashing before his eyes. He could feel his very soul start to leave his body.
+
+The feeling lasted for far shorter a time than he had hoped. It was rather nice to have his mind just go blank so he could stop thinking about the coming guests. But alas, his senses returned and he had to actually think about this again.
+
+He could understand why they were coming, for Jin had fully explained everything that had happened. An Imperial Realm demonic cultivator, a large demonic cultvator sect, along with a massive base? How utterly horrifying! He had no idea Jin’s grandfather was that strong either!
+
+The Lord Magistrate could not even begin to imagine the kind of power such monsters had— as a mortal he literally couldn’t comprehend it. Those in the Initiate’s Realm had looked like unstoppable monsters when they had hurt his lady!
+
+Jin had been hundreds of Li away and everyone in town had heard him fighting over the hills and trees, seen the glow from techniques. The earth had rumbled and the heavens had shaken, and if the battle had happened in Verdant Hill there likely would have been nothing left.
+
+It was a wonder that the dance had distracted everyone else from that. The Lord Magistrate’s mind had been near numb, gibbering with terror. He could barely remember the dance, the night passing by in moments.
+
+It… it was a good thing these people were coming. They would clear out the nest of monsters he had no idea had even existed, keeping him and his wife safe as well as everyone else.
+
+He pondered briefly about retiring from his post and leaving for somewhere else at this point… but realistically, where would he be safer? Here, at least, would be under the aegis of two of the most powerful sects in the Empire.
+
+Still, that didn’t mean he wanted to deal with the stress of actually meeting these people. He was a mortal for the Heavens’ sake! He would have to watch his words and pray that they didn’t ask him any questions.
+
+Actually… that was rather a good point. Why exactly should he be here? They were cultivators, and they did cultivator things. Surely, these powerful experts did not want an ant like him around?
+
+Yes! He could go about his business and Jin could tell him later if anything important happened! A brilliant idea!
+
+The Lord Magistrate uncupped his hands from where he had been holding them in front of his face.
+
+“Is my presence necessary?” he delicately inquired. “I will, of course, arrange everything you require, but I do not believe I can contribute anything meaningful to the coming discussion. Additionally, I am a mortal. The coming experts should be able to discuss their plans freely without a weak link such as myself intruding.”
+
+Jin’s grandfather raised an eyebrow. “Most mortals would be quite enthusiastic to be included in such a meeting.”
+
+“I know my capabilities, and this is beyond them,” the Lord Magistrate answered. “What would I even do? Curry favour? Arrange drinks? I am unqualified to take part in such a discussion.”
+
+The old man considered the Lord Magistrate’s words, his sharp eyes upon him.
+
+“And yet I believe you are qualified. My grandson and Lu Ri both speak highly of you. What do you know of the teachings of the Cloudy Sword Sect?”
+
+The Lord Magistrate blinked at the words. Where exactly was he going with this…?
+
+“Enough. Lu Ri gave me…” he trailed off as he remembered a particular passage… and then felt a coldness settle upon him. “Kowtow to the mortal that enlightens you; disdain the barbarian that knows only the strength of his arm?”
+
+The old man smiled and nodded. “Indeed, it is for that reason why you will be here. My grandson calls you Teacher. Lu Ri calls you his friend and equal. I myself have taken your measure, and I do not find you lacking. Know this, Lord Magistrate, that you are one of the few mortals in all of existence that could dare say they possess the qualifications to be present for this meeting.”
+
+Within the Lord Magistrate, an internal conflict raged. One part was the fear of cultivators. The other part was a man saying that the Lord Magistrate was impressive to the Cloudy Sword Sect, that he was the one man who could sit in on the meeting because his skills had drawn the praise and admiration of those on the path of immortality.
+
+Never before had his capabilities been praised so highly.
+
+He stroked his mustache to hide the trembling of his lips, a smile threatening to break out before he calmed it. He coughed into his closed fist.
+
+“Very well. With that said… I would have appreciated more warning. This is cutting it very close, Jin.”
+
+The young man bowed apologetically. “I didn’t think they would be here this fast either…” he muttered.
+
+“Well, we can do something quick and hope our guests are not insulted. Is a stir fry with the Seven Fragrance Jewel Herbs an acceptable dish?” the Lord Magistrate asked.
+
+Jin’s grandfather grinned.
+
+“Indeed, it will more than suffice.”
+
+=====================
+
+Thousands of Li away, a fleet of flying swords crossed the sky. They moved impossibly quickly, cutting through the air swifter than the fastest arrow.
+
+Cultivators stood upon them, their hands clasped behind their backs as they travelled upon the weapons of the Cloudy Sword Sect, unsealed for war. Their bearing was one of complete focus, their eyes gleamed like stars.
+
+One Imperial Realm Cultivator, two in the Fifth Stage of the Sky Realm, and twelve within the Earth Realm.
+
+Enough strength to bring all but the most powerful sects in the Empire to ruin. Enough power to obliterate entire provinces.
+
+And this was but the vanguard.
+
+Back at the Sect, Elder Ran oversaw the disciples. They toiled; cultivating, forging, training, and meditating, awaiting the moment they would be called to battle. Great scrolls were unfurled, records of every tactic and stratagem used against the Great Enemy recorded in exacting detail.
+
+The spirits created by the Founders drifted through the Sect, reciting the names of the Martyrs against the demonic. In the amphitheaters they extolled the actions of the great heroes of ages past and their meritorious deeds.
+
+The rot that had infected the Sect had been purged, the ways of the Honoured Founders ascended to their rightful place.
+
+The unflinching warrior-philosophers of the Cloudy Sword stood ready.
+
+In Crimson Crucible City, sergeants bellowed and men lined up for inspection. Weapons were cleaned and Jade Armours put through their maintenance rites. It had been many, many years since they had done anything but guard duty—yet this was no sedentary, fat, weak army.
+
+This was the Army Forged in the Crucible.
+
+It was they who, along with the Cloudy Sword Sect, were the first line of defense against the demons that spilled out from Demon’s Grave Ravine, a third of the army dedicated to regular purge expeditions at a time.
+
+Each man was a veteran of the claustrophobic, twisting corridors of that hellish place, where the air was poison and the terrain defied all logic.
+
+All leave was canceled. All passes recalled. The men murmured, wondering what could call them away—especially when cold-weather gear started being handed out.
+
+Something big had come.
+
+===========================
+
+“Seiyu, drop altitude to four Li and adjust heading to port two notches. Bailu, make ready the ship for a Qi Void,” Tianzhe Minyan commanded from her place seated upon the Windward Blade’s deck. Her personal ship was relatively small, armed with only two ballistae and carrying fifteen crew. A small force, if one discounted Minyan herself. She had almost come alone… but if Shen Yu was actually asking for help, taking a combat-capable vessel was more appropriate. It was the biggest ship she could bring without informing her fellow Elders of what was really going on.
+
+It would not do to seem like a pining girl who jumped at somebody else's command, and it was faster this way. They had set out within the hour.
+
+The wind had been favourable thus far, the sky-current taking them up across Phoenix Rest Plains and through the Howling Fang Mountains—but now they would be leaving that sky-current and dropping back down to altitude to get their bearings.
+
+“Aye, aye Elder Minyan! Dropping altitude to four Li and adjusting heading—port two notches!” Wakokukin Seiyu repeated her orders and set about them, turning the wheel the desired two notches as they dropped out of the sky-current.
+
+“Qi Void approaching! Qi Void approaching! Batten down the hatches! Seal the ports! Stow the ammunition!” Lanlong Bailu bellowed out, and the midship disciples—the Outer Sect of Soaring Heaven’s Isle Sect—hastened to obey, performing their final checks.
+
+Then, they felt it. The ship shuddered, its floatstone groaning. The midship crew groaned with it, some of the girls looking decidedly ill. Both Bailu and Seiyu grunted and shook their heads.
+
+The skyships of Soaring Heaven’s Isle normally avoided these places. They put too much strain on the floatstone that kept the ship aloft and drained power from the formations that powered the weapons and defences… as well as slowing the ship down.
+
+Minyan paused as they crossed through a subtle trail of Qi, the Cloudy Sword Sect. They were perhaps an hour behind them.
+
+“Elder Minyan, Pale Moon Lake below. Shall I continue on this course?” Seiyu asked. The tribal woman from Wa, always precise, was one of the best navigators they had.
+
+“Yes, stay the course,” Minyan said. “I will be taking over powering the sails. Bailu, Seiyu, escort formation.”
+
+Her disciples nodded, obeying. Minyan took over the wheel, while the girls jumped off the side of the ship and took up positions flying beside it.
+
+Minyan made no gesture. She called no technique.
+
+But the ship leapt forwards as a gale blew in behind it, roaring its fury across the sky.
+
+=====================================
+
+In Pale Moon Lake City, Biyu of Mengde’s Crystal Emporium frowned as she walked beside her master, following the journeyman in charge into the main manufacturing building.
+
+“We isolated everything, Master Feng! I swear it! All of them, every one of them. They all just shattered at the same time! And not just the talismans. One of the bigger chunks went straight past Profound to a reading I've never even seen before!”
+
+Her master stroked his chin. He picked up one of the disks they used to detect cultivators—they vibrated when they detected Qi. The refined Heavenly Ascension Stone disk was half powder.
+
+“This is indeed troubling,” Master Feng stated, a frown on his face. “And this comes after most of the talismans were damaged on the solstice. Two events that pass the usual Qi threshold? And so close together? It bodes ill.”
+
+“I can see if any of my friends could take a look?” Biyu offered. Yun Ren was in the Howling Fang Mountains, but his little brother had said she could ask for help anytime. Or maybe Miss Cai would be able to help?
+
+Master Feng nodded. “I’ll arrange a guard, Biyu. Please, even if it is nothing, it would be better to have peace of mind.”
+
+To Biyu’s luck, there were guards available. In fact, two familiar guards who were headed up that way anyway.
+
+It was good to see Mister Rags and Mister Loud Boy again.
+
+=======================================
+
+The sun dipped below the horizon. The Lord Magistrate, who had just finally felt at peace, a pot of tea before him, tensed up when Jin’s grandfather suddenly looked up at the sky.
+
+“They’re here,” Jin’s grandfather said and led the way out to the balcony.
+
+The Lord Magistrate followed along behind Jin and the new woman, Shenhe. He tried to keep his knees from knocking together as he turned his gaze to look up at the night sky.
+
+Twelve swords hovered like executioners around a ship that was floating in the sky—
+
+No, thirteen swords. Another one suddenly just seemed to appear, zipping into view. The man atop it was shrouded in shadow. He took out a large scroll and unfurled it, revealing an emblem.
+
+“Oh? An Imperial Herald? That boy isn’t messing around,” Jin’s grandfather mused, sounding utterly blasé.
+
+A low, piteous whine escaped the Lord Magistrate’s throat. An Imperial Herald?! That wasn’t one of the Emperor’s men, that was The Emperor’s Man!
+
+The Lord Magistrate felt like he was going to faint. The only thing that kept him upright was the fact that his muscles had seized.

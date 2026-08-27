@@ -1,0 +1,229 @@
+---
+id: b03ba98b-7137-593e-9b46-0c592df84e0c
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 7 - Perimeter"
+slug: 0011-b3-chapter-7-perimeter
+partOf: bookbound-bunny
+position: 11
+ownLength: 2274
+unit: words
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3062037/b3-chapter-7-perimeter"
+royalRoadId: "3062037"
+---
+
+By the time they reached their area and set up, there wasn't much time left in the day. So, rather than going out for an exploration, they settled on securing the perimeter like Alice had shown previously.
+
+The area was vibrant and practically untouched, with all sorts of natural treasures waiting to be found and harvested. Nothing too exciting happened at first, but when they extended their search radius, they found signs of a territory.
+
+"Damn, this is pretty close to your camp," Lotte said, clicking her tongue in annoyance.
+
+Thomas sighed. "In hindsight, we should have checked before setting up camp…"
+
+"We will just have to destroy the territory then," Lily said optimistically.
+
+Thomas nodded in agreement before adding, "Hopefully the teachers aren't spying on us, otherwise we might have lost some score for this blunder."
+
+Lotte shrugged in response. "Can't always be perfect."
+
+Oh, are they spying on us? I didn't even check…
+
+Lily quickly used her Magesight and glanced around, but she saw no sign of those floating eyeballs like with their gauntlet.
+
+[There were a few eyes, but not enough for all of the groups. I presume they were assigned to the weakest team for safety reasons. Alternatively, they might swap to different teams periodically.]
+
+Lily was actually quite happy to hear they weren't being followed. Having the eye stalking them throughout the test would've been rather creepy, in her opinion.
+
+"I don't think they are observing us," Lily informed her team.
+
+"It would be pretty hard to observe everyone; there's only one Alice, and so many groups," Lotte replied.
+
+"And we have our Wards for real emergencies," Thomas pointed out. "Since they can save us each twice, there might be a signal. Then Alice could dash over to the rescue."
+
+"She's that fast?" Lily asked in surprise.
+
+Thomas rapidly blinked in astonishment. "I figured you'd be the most informed of us on her capabilities. Lagia adventurers are some of the best of the best. I don't think anyone can beat their agility."
+
+"Not me, sadly, short legs," Lily said with a self-deprecating dry chuckle.
+
+"Hey, in the magic department, you got them totally beat," Lotte replied, giving a playful punch on the shoulder.
+
+Thomas coughed, looking a little awkward. "Anyway… I think if she goes all out, she could reach any of us in a flash."
+
+"Well then, let's make sure our Wards don't get triggered," Lily replied.
+
+"That's the spirit! Who needs a guardian? We're good enough on our own!" Lotte cheered.
+
+The three laughed together, adding a new group goal for this trip. The three then began scouting the territory and soon identified who owned this turf.
+
+"Are these frogs?" Lotte whispered.
+
+"Tree frogs by the looks of it," Thomas answered. "I wonder if there's a river nearby?"
+
+"They look toxic with those bright colors…" Lily mumbled.
+
+"They might be," Lotte agreed.
+
+But before they could formulate a plan, a certain green lizard had already rushed forward while the three were planning. Jade was drooling as she waddled, with a speed that none of them had seen before.
+
+"Jade!?" Lotte hissed, but it was too late, and the Familiar was barreling towards the pack.
+
+The frogs were shockingly large, about the size of a large dog. They had vivid patterns and colors, with no two looking alike. One of them spotted Jade in no time and let out an echoing croak in the area. Soon, more croaks followed, spreading the message throughout the region.
+
+"Damn it," Lotte cursed and began heading forward.
+
+Lily followed, already draping herself in the Nebula Veil and drawing her wand.
+
+"I'm shocked it was Jade and not you…" Thomas commented, looking at Yona.
+
+Yona sneezed and shook her head, making no motion to move. Thomas chuckled and joined the group, whispering a chant as his fingers began to crackle.
+
+"Is it because we mentioned they might be toxic?" Lily suggested.
+
+"Is she that hungry for poisons!?" Lotte cursed.
+
+To the group's surprise, the frogs began spitting at Jade. Some spat fast projectiles while others belched out large blobs, not unlike Jade herself. Jade, however, seemed unperturbed and, in fact, welcomed the globby saliva with joy.
+
+"Ew…" Lily was the first to comment.
+
+"I'm going to have to bathe her after this," Lotte groaned.
+
+"On the bright side, we can sneak around and take out the frogs while Jade is drawing their attention," Thomas suggested.
+
+Lotte sighed before agreeing. The three snuck around, each going for the frogs the furthest away. Lotte took out any single outliers while Thomas focused on the groups, who were instantly taken out with the forked lightning.
+
+While Lily wanted to use her wand, she didn't have the time to draw a glyph. Explosive runes were an option, but they would draw too much attention not only from the frogs but also from anything else that might be nearby. So instead, she relied on her Starburst and found that the frogs were too weak to even survive a single star.
+
+Jade, on the other hand, was not just a target dummy; she continued barreling after the frogs. When she got in contact with one, she proceeded to scarf them down with almost as much proficiency as Yona. When the frogs saw their companions being eaten, they started to avoid the lizard as best they could, but Jade continued exhibiting far greater speed than ever before.
+
+How does something so round move that fast!? Lily couldn't believe her eyes, and judging by the expression on Lotte's face, she was also just as astonished.
+
+In a relatively short time, the group had cleared out the frogs. However, in the distance, they could hear more croaking, which they cautiously followed. This led them to a creek, just as Thomas had predicted, and on it were a large batch of smaller frog spawnlings.
+
+"We found the nest so easily," Thomas said happily.
+
+"Which should mean our camp perimeter will be safe and sound," Lily said.
+
+Lotte turned to the slime-covered Jade, who looked blissful, and pointed at the frogs. "Go!"
+
+Yipping almost like a puppy, the lizard rushed over and began another feast. It looked like Jade would not leave even a single egg or spawn to survive, and was gluttonously feasting on them.
+
+Yona let out a troubled sound, and Thomas pulled out a piece of dried meat for the jealous cat.
+
+"Lily… could you make a bath glyph?" Lotte asked, desperation in her eyes.
+
+"Sure thing," Lily agreed and began drawing.
+
+Once Jade had finished her feast and came rushing back looking more like a slug than a lizard, she was forced into the sphere of warm water. Lotte was determined to get rid of every last bit of gunk before she brought her home.
+
+While that was going on, Lily and Thomas picked a few plants that were growing along the river. When everyone was finally done, they finished exploring the perimeter before returning to their camp just in time for the evening.
+
+The three of them were brimming with confidence. The day was nearly over, and it had been a resounding success so far. Jade had flopped on her back, with a bloated belly raised to the sky, while Yona took a nap in the tent.
+
+At first, they excitedly discussed everything that had happened while speculating about what they might find tomorrow. When that chat was done, Lily finally asked them if they'd like to learn a neat trick.
+
+"A trick?" Lotte asked curiously.
+
+Lily nodded. "Do you both know how to focus your Mana?"
+
+"Of course," Thomas quickly replied.
+
+"Have you ever focused it on your eyes?" Lily asked.
+
+Lotte and Thomas glanced at each other before both shaking their heads. Lily could quickly tell by their expression that nobody had mentioned this to them before.
+
+"If you focus it on your eyes, you can see Mana," Lily explained.
+
+"You're joking?" Lotte gasped.
+
+Lily shook her head. "No, I'm serious. Although you can only see the basic Mana."
+
+Thomas went silent for a bit before shaking his head. "Are you sure that's not a bloodline ability?"
+
+"It's not working for me either," Lotte admitted.
+
+Lily giggled. "If it were that simple, anyone could do it. You have to make a lens."
+
+"A lens…?" Lotte asked.
+
+"Like Hana's glasses?" Thomas questioned.
+
+"That's a good way to describe it," Lily answered.
+
+In the past, Arakil had to make a drawing for Lily because his written instructions weren't enough for her to wrap her head around. A few diagrams later, and she finally managed to understand what she needed to imagine and focus her Mana into.
+
+Now if only I could wrap my head around the next step…
+
+The next step was to add another lens over the first, but it required various patterns to be overlaid on it. Effectively, it was like adding a crest to the lens, which should have been something Lily was good at, owing to all her glyph studies.
+
+Unfortunately, Lily struggled to imagine it correctly without seeing it drawn out in front of her. It certainly didn't help that the lens was three-dimensional, so it wasn't merely a flat glyph. Arakil had asked offhandedly whether Lily had "aphantasia," but she'd never even heard of the word, so she couldn't answer.
+
+"Can you draw it for me?" Lotte asked.
+
+"I didn't bring my pen or ink…" Lily answered.
+
+Her pouch had limited space and was still being nurtured according to Arakil. With the potions, salves, talismans, and her wand, there hadn't been enough room to bring her writing supplies.
+
+[You can use the wand; its default function leaves trails of light after all. Also, you won't be limited to a page, so you should be able to replicate it in its entirety for the two of them.
+
+My wand!
+
+Lily had utterly forgotten about its mistaken function. She quickly pulled it out and smiled at Lotte.
+
+"I forgot my wand can also just draw in the air," she said sheepishly.
+
+"Great!" Lotte chirped, happy to have any visual aid.
+
+Thomas also stopped his own attempts and watched carefully.
+
+[Treat it as some early practice for three-dimensional glyphs.]
+
+The corner of Lily's lips curled. She couldn't help but laugh at how Arakil somehow turned every activity into a learning experience. But what he said was true, so she took it seriously as she began drawing the Mana lens for the first tier of Magesight.
+
+Lily's first drawing was a bit of a mess, so she corrected it, and after a few attempts, she managed an accurate 3D model of the lens. Lotte and Thomas both scrutinized the floating drawing, evidently trying to burn it into their minds' eye.
+
+Watching the two of them investigating the drawing, Lily couldn't help but formulate an idea of her own.
+
+Hmm… If I do this for myself, I might finally be able to get my second-tier Magesight. If I draw the patterns, I can better visualize how they are spread out over the curve. Not to mention the layers.
+
+If it were just a glyph over a curve, Lily would've bet money she'd have it figured out by now. The real issue was that the symbols overlapped at specific distances, creating a "Mana magnification," according to Arakil.
+
+While the two were working hard to study the floating lens, Lily began slowly drawing a lens of her own. Arakil floated by, with the pages turning before opening to a section of the book right in front of her and revealing the old drawings he'd inked for her.
+
+[An excellent idea. Hopefully this will finally get you through your bottleneck.]
+
+"Thanks, Arakil…" Lily whispered softly as she slowly copied the steps one by one.
+
+Along the way, he would slowly correct her, pointing out where she was getting the distances wrong between the different layers. After the first few corrections, Lily understood perfectly well why this had been such an impossible task, as the distances needed to be absurdly accurate for this to work.
+
+I think Arakil had way too much faith in me… How did he expect me to visualize this just based on a few flat drawings?
+
+Lily subtly shook her head, wanting to shout at her past self for spending so many nights berating herself for being unable to advance her Magesight.
+
+"Oh? I think I see something," Thomas said, breaking the silence.
+
+"Damn it, already?" Lotte complained.
+
+Thomas shook his head. "It's very blurry… I don't think I'm doing it right."
+
+"That might just be because we are in the dungeon, there's a lot of ambient Mana around us," Lily explained. "But it sounds like you're very close. It should look more like a haze than a blur when you've got it right."
+
+"I see… Okay, I'll keep working on it," Thomas said.
+
+"Slow down a little, otherwise I won't catch up!" Lotte demanded.
+
+"No way, you're already ahead of me in magic, at least give me this," Thomas rejected with a slight smirk.
+
+"That's not my fault… Don't use my bloodline against me," Lotte whined.
+
+Lily giggled to herself. I'll secretly give her some hints.
+
+The two were very determined, especially after Thomas' surprisingly early results, and continued struggling until late into the night, when their eyes were nearly bloodshot.
+
+Eventually, Lily stepped in and dismissed the image, promising to give them plenty more time to study it in the coming nights.
+
+"Now head to bed!" Lily said.
+
+Thomas and Lotte both agreed, although they looked quite grumpy about it. Lily couldn't help but chuckle to herself.
+
+Is this how Margit felt about Rose and me?

@@ -1,0 +1,139 @@
+---
+id: e739f78c-ba09-5b4c-92e5-c3b4012265fe
+page-type-slug: story-chapter-royal-road
+title: "v5c3: A Tiger's Homecoming"
+slug: 0108-v5c3-a-tiger-s-homecoming
+partOf: beware-of-chicken
+position: 108
+ownLength: 1781
+unit: words
+ownProgress: 1781
+publishedAt: 2024-05-18
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1641709/v5c3-a-tigers-homecoming"
+royalRoadId: "1641709"
+markedReadAt: "2026-06-29T18:55:11.809Z"
+---
+
+The world was covered in a thick white blanket. The trees were bare; their leaves having long since fallen—but the forests were prevented from looking empty and skeletal by enormous conifers, their evergreen boughs laden with snow.
+
+Through this frozen world, a group of women and a monkey traveled along a path cleared of snow. All of them were wearing bright red knitted hats, a splash of color on the monochrome canvas that was the snowy forest.
+
+A woman whose dark skin was in the middle of losing its tan led the group. Her orange hair peeked out from her hat in twin tails that trailed down her back. She wore a thick dark blue coat and knee high boots. She marched resolutely forwards, her yellow eyes fixed ahead, gazing just past the tunnel of trees to where she knew her destination lay.
+
+Rou Tigu was nearly home. She had, during her journey, talked a lot with her friends about how she thought their home might have changed. It was their favourite topic on the road. But now, at the final stretch, she had fallen silent.
+
+She had been away for nearly eight months, journeying forth with her companions on a mission to unite the Sects of the Azure Hills; to put an end to the bitter rivalries and divisions that made their home a ripe breeding ground for bandits and other wicked men.
+
+The mission had sent her journeying far and wide across the entirety of the Azure Hills and it had certainly been eventful. They had found and destroyed a slavery ring in Grass Sea City; they had convinced the Sects at the Dueling Peaks to heed their words, forging the first link of peace with the secrets of their Ancestors. Then they had to make sure the peace stuck, laying the groundwork for future cooperation. It was still a tenuous thing, their dream, but it was no longer an ephemeral hope. They had with blood, sweat, and effort made it real. Real, and growing in strength and solidity as they worked together with the Younger Generation of the Azure Hills.
+
+And now, after all that work… they could finally take a well-deserved rest, at least for the solstice. The longest night of the year was still a month away.
+
+Their journey back had been swift; it was almost like the roads they travelled along were speeding them to their destination and each step they took seemed more like two or three in distance as they moved with purpose.
+
+They said goodbye to a few friends along the way, and promised to meet them again soon. Loud Boy and Rags, two of Tigu’s best friends, had left to spend some time with the Farrow Gang and Boss Tanhui in Grass Sea City—to ensure that the promise that they wouldn’t be targeted for their aid in bringing the corrupt, slaving nobles down was still being kept. She had hugged her sworn brothers tight and told them to call her if they ever needed anything.
+
+Handsome Man, or rather Tie Delun, had parted with them after Pale Moon Lake City to head east to his own home in the Iron Fields, while the rest of them continued north. The handsome, freckled man, normally so reserved, had embraced all of them one by one.
+
+And finally, The Torrent Rider, Zhang Fei, as well as Tigu’s apprentice, Shaggy Two, had split off at Verdant Hill to head to his own home and regale his family with all he had done. The boy in the rooster mask had made them promise to visit soon so they could go Torrent Riding together. Shaggy Two had just yipped happily, the young Spirit Beast still not quite able to fully grasp Qi Speech.
+
+And now there were five.
+
+Cai Xiulan was humming to herself as they walked, her braids swaying in the wind. The beautiful, blue-eyed woman had undergone a transformation as they got closer and closer to home; it was like a great pressure was easing from her shoulders as her steps got lighter and she started smiling more.
+
+Liu Xianghua was almost keeping pace with Tigu at their head. The blue-haired woman looked just as eager as Tigu to return, her storm-grey eyes locked resolutely forwards. The Steam Furnace on her back would occasionally release puffs of heat signaling her excitement to see her little brother, Bowu, and her lover, Gou Ren, again.
+
+Bringing up the rear was the silver-haired Yin. The rabbit-turned-woman was chatting away with Huo Ten the monkey, talking about mining and digging as they had been doing since they had started their path back.
+
+They were so close to home they could practically taste it. The air had turned sweet, and despite the cold it was like Tigu had been wrapped in a hug.
+
+They stopped only briefly to say hello in Hong Yaowu, having been greeted by the snow golem they had erected, The Warden that Sends Forth the Ice and Flying Snow. Xianghua hugged Ten Ren and Hu Li. Xiulan had ruffled Xian the Younger’s hair. Yin and Huo Ten went to talk to Yao Che the blacksmith, the giant of a man and Spirit Beast monkey snorting and huffing as they flexed at each other.
+
+Tigu paid her respects to Grandfather Xian and her friend Ty An. The freckled girl had clapped Tigu on the shoulder with a good amount of strength; her muscles were developing wonderfully from the forge work.
+
+But everybody had known their priorities; so as the sun climbed to noon they were back on the road. The road Tigu had helped build.
+
+She started counting the paving stones, counting the marker carvings she had made, even though she knew the path by heart and could have gotten home with her eyes closed.
+
+Ten Li.
+
+She saw the tell-tale scrapes of snow removed by Bei Be’s plow.
+
+Eight Li.
+
+Somebody had cut down the dead tree on the left side of the path.
+
+Five Li.
+
+The branches overhanging the path had been trimmed.
+
+Two Li.
+
+She saw Big Man, the largest tree nearby, still jutting proudly to the heavens.
+
+One Li.
+
+More furrows in the snow, where Chun Ke had gone adventuring.
+
+And then finally they rounded the bend, and all of them paused.
+
+At the end of the road right before them was a fence. The Great Pillars of Fa Ram, as Bi De called them.
+
+The maple leaf stood proudly beside the gate, along with a sign that declared that one must ‘Beware of Chicken.’
+
+There was some more lichen on the wood, and the gatepost without the plaques had climbing ivy vines wrapped around it, their leaves gone for the winter.
+
+Tigu noted all of these, and disregarded them—because there were people at the gate.
+
+Tigu’s eyes immediately locked onto the tallest of them. He was tall and well-muscled. He had bright green eyes and a giant smile on his face. Freckles dotted his cheeks.
+
+“Well, well, well. Lookie here. Some vagabonds have come callin’,” her Master said as he pushed off the fence. His eyes roved over all of them in an instant, making sure they were alright. The brief flash of concern for them faded, replaced by only a look of pride. “Should we let ‘em in or run them off?”
+
+“I don’t know. Some of them look like they make strange noises when they eat,” Tigu’s Mistress returned as she stuck her tongue out at Xiulan—the woman did make rather strange sounds when she ate food she liked.
+
+“I say we let ‘em in. There's one beautiful belle with ‘em,” Gou Ren said as Bowu chuckled. He said something else, but Tigu wasn’t listening anymore.
+
+She used [Pounce of the Tiger].
+
+Her Master and Mistress caught her with ease, taking Tigu into their arms as she buried her nose into her Master’s chest and the top of her Mistress’ head. She heard the laughter of Gou Ren and Bowu as Xianghua hit them at nearly the same time as Tigu hit her Master and Mistress.
+
+Miantiao and Chun Ke raced up to Yin, the snake launching himself off the boar’s back to coil around his child.
+
+It was warm. It was safe. It was—
+
+“Welcome home, Tigu’er,” her Master… her father, whispered into her ear.
+
+“We’re so proud of you,” her mother said, her voice soft and loving… before turning hard and scolding. “And you! What are you doing standing there, woman?”
+
+Tigu heard Xiulan chuckle, her voice thick with emotion. And then a fourth person added themselves to the hug. Tigu didn’t mind, as her father and mother shifted their grips. Their arms were big enough for a Blade of Grass too.
+
+Tigu felt her heart fill her chest and push up into her throat as tears filled her eyes. Not cold tears of grief… but warm, happy things. Tigu’s entire body relaxed into the hug. She absently noted that she was nearly a hand taller than her mother now; she had grown quite a bit over this past year, hadn’t she?
+
+“You did good. Both of you. All of you,” her father said.
+
+Tigu closed her eyes and just let the warmth fill her.
+
+She was home.
+
+Heavens, how she had missed this.
+
+But her mother and father were not the only ones who needed greeting.
+
+She hugged Chun Ke and Pi Pa. She tussled with Wa Shi when the dragon coiled around her and flung her into a snowbank. She hugged Bei Be and patted his plow. She tackled Gou Ren to hug him, stealing him away from Xianghua—who seemed rather shocked when Tigu’s father hugged her too after he got to Yin and told her he was very glad she was home with them.
+
+“Thank—thank you Master—” she got out.
+
+“Just Jin, yeah?”Xianghua froze, before her grin widened, a genuine smile on her face. Tigu took her moment of distraction to signal to Bowu that they were gonna sneak out, grab Ty An, and have a drink together later in the week.
+
+Her partner in crime grinned and bumped her fist… before Tigu hugged him too and they took turns picking each other up.
+
+Of course, there were people missing. The overgrown bird, Yun Ren, and Ri Zu were still gone… but she knew they would be back. They would be back, and they would trade stories later.
+
+And there was one more person missing… Tigu gasped.
+
+“What did you name him? You named my little brother Kai, right?” Tigu demanded. Finally she could win the bet—
+
+Her father chuckled.
+
+“Zhuye.”
+
+Defeated, Tigu collapsed to her knees as Yin burst out laughing, pointing at her.

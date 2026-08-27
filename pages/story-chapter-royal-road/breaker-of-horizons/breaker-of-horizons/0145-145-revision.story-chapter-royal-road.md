@@ -1,0 +1,113 @@
+---
+id: 1cf0a596-1fcf-5852-a4a4-5a08705fa7ea
+page-type-slug: story-chapter-royal-road
+title: "145. Revision"
+slug: 0145-145-revision
+partOf: breaker-of-horizons
+position: 145
+ownLength: 2164
+unit: words
+publishedAt: 2021-09-20
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/753817/145-revision"
+royalRoadId: "753817"
+---
+
+The new buildings made it difficult for Caden to really keep track of where they were because his newfound ability to truly perceive them made the campus completely different. The landmarks and recognisable sights were hidden behind new structures, or set at intervals that clashed with his memories. It wasn't until Caldwell led him to the library that he finally noticed that they hadn't been heading towards the Academy Spire.
+
+"I thought we were getting coffee?" Caden asked, confused.
+
+"We are," Caldwell replied, walking right up to the door without breaking stride. They swung open quietly to admit them.
+
+"You mean from the cafe?" Caden's bewilderment grew as he followed Caldwell inside. "It opens even when there's no one around?"
+
+"I'm someone," Caldwell said with a backward glance, sounding aggrieved. "And I'm not alone. Some members of the staff stay on in the residences through the term breaks, and the sages continue to do their work all year round. The cafeteria is closed, of course, and the two restaurants, but this little cafe is always open. Well, in a manner of speaking."
+
+Caden frowned. Caldwell was leading them to a public place, and they were going to talk about Fateweavers and the Prophecy in front of everyone? But before he could voice his surprise at this, they were already past the empty foyer and the unmanned front desk. The scattering of chairs and tables in front of the cafe's counter was similarly deserted, and it didn't look like anyone was working there.
+
+But that was what his eyes were telling him. As the Demiurge approached the cafe counter, apparently ready to engage with someone there, Caden picked up the telltale signs of something even more sophisticated than the weaving that hid many of the buildings on campus from sight. There was  something moving in oblivion — something that was entirely in oblivion, dipping only the barest portions of its essence into the physical world.
+
+He stopped and stared, carefully folding his mind so he could perceive it more clearly. Was that a person?
+
+Even as he wondered that, he was hit by the nagging suspicion that it couldn't be a real person, but it was hard to really believe because Caldwell was now interacting with the thing behind the counter, and he was communicating with it both through speech and in the arcana, and it was talking back.
+
+"The usual for both of us," he said.
+
+"I will bring your order to you. Your table has been prepared with all the necessary sequences," it replied, and even though there was nothing at all in that physical space, with his mind folded so he could peer into oblivion, Caden was given the impression of someone giving an obsequious bow.
+
+Caldwell nodded his thanks and settled himself down at one of the tables in the corner, beckoning for Caden to join him there.
+
+"Who is that?" Caden asked, turning around to stare at the empty counter as he sat down. "What is that?"
+
+"You don't recognise it?" Caldwell looked genuinely surprised. "The very first time I met you, it was because I sensed that you had made one."
+
+Caden's confusion intensified. "A friend-in-the-arcana? But I thought that was just my name for the augera?"
+
+Two cups floated over to the table. Caden sensed the gentle swirl of arcana being manipulated, and traced its source back to the presence behind the counter. It acknowledged his scrutiny with a mental bob, then receeded until he could no longer sense it. Caden stared down at the cups and was surprised to see that it was an iced latte — his usual order. Caldwell's drink was hot. Evidently, it was familiar with both his and the Demiurge's preferences.
+
+"I think I see the issue," Caldwell said. He paused to take a sip from his cup and gave a satisfied sigh. "You didn't get to experiment enough. You had only just discovered this friend-in-the-arcana phenomenon, and you told your father about it, which is how he finally managed to finish those orbs of his. But then not long after that, the augera got involved, didn't it? It nudged you into ensorceling the Chosen One."
+
+Hearing Caldwell so casually talk about the events, and with such accuracy, did not put Caden at ease. "How do you know all this?" he demanded.
+
+"Loyal opposition," Caldwell replied simply, though he frowned a little at Caden's tone. "They keep me in the loop for some things. Or, to be more precise, they do not trouble to hide their handiwork, which means I can read most of what they're doing if I happen to be looking, which is what I'm doing now."
+
+He reached out with a hand and gestured over the table. Caden felt his auric-ambient-flare being engaged in higher dimensions, and his attention turned there, where he perceived that there was a knot in space and time that the Demiurge had picked out. It was an excerpt of the threads of Fate. Then the Demiurge leaned back and the knot faded from Caden's perception. He tried to get a fix on it again, but no matter how hard he folded his mind, he couldn't seem to find it.
+
+"I think you'll get there eventually, with time and practice. There's no guarantee they'll let you keep the ability if you do manage to get it, though," Caldwell said.
+
+"So you struck some kind of deal with them, which is why they haven't taken it from you?"
+
+"No." Caldwell's response was curt. "It's more complicated than that. But we might get to that later. Since you don't even know about the wysana, we should start there. It's a good point of entry for us to get to the rest of the things that have happened to you."
+
+"The friends-in-the-arcana are called 'wysana'? Are they common? But if they are, why didn't my father know about them? And, I mean, apparently they've been right here in the library cafe all this time! Why haven't I read about them somewhere before?"
+
+Caldwell nodded pointedly at Caden's untouched drink. Irritably, he took a sip and waited expectantly for the Demiurge to answer.
+
+"The wysana are creations of pure arcana, brought into being by arcanists when a specific kind of frameshift is applied. You stumbled upon it when you ensorcelled your friends for the first time." Caldwell leaned over the table and peered at it, reading the threads that Caden couldn't see. "You imagined that arcana itself could be a friend, could have intelligence."
+
+"That doesn't seem like something really groundbreaking," Caden said, his brow furrowed. "I'm sure people have tried it before."
+
+"Well, yes and no. The foundation of that frameshift may be the concept of an intelligent construct, but your particular flavour of it has the emotional and mental associations that come with the concept of a friend. That's a lot harder to experimentally manufacture." Caldwell took another sip and fixed Caden with a measuring look, as if trying to decide if it was worth explaining further. "Do you see why it's not as common as you think it might be?"
+
+"You mean it's difficult, or impossible, for someone to force themselves to create a friend out of pure arcana, because they'll never really believe it's possible?" Caden asked tentatively.
+
+Caldwell pursed his lips. "Something like that. Intelligence without an emotional core creates unstable constructs that only last as long as one's will is fixed upon it. It's actually how arcanists manipulate arcana with pure will and focus alone and manage to duplicate the effects of sequences. The arcana itself forms a temporary construct according to the intent of the arcanist."
+
+"Wait, what? You're telling me that everyone makes use of this wysana thing when they simply manipulate arcana through will and focus?"
+
+"No," Caldwell said, and although he gave a slight smile, Caden thought he picked up a little disappointment. "Let's backtrack a little. Have you ever wondered why we can manipulate arcana with will and focus alone at all?"
+
+Caden stared at Caldwell. It was like being asked why it was possible to touch things with your hand.
+
+"A little philosophical, but bear with me. What do you think?"
+
+"It's... it's just the way it is. Our bodies let us interact with the physical world. So... I guess our auric-ambient-flares allow us to manipulate arcana, and that's just how it works," Caden answered uncertainly.
+
+Caldwell smiled again, though now it carried a sense of self-reproach. "Maybe it's a bit much to plough through now. Well, ancient sages have proposed a theory that arcana itself is intelligent, and it responds to our intelligence. It interprets our desires and will, and then gives them form. Of course it's hard to definitively prove, but the concept of frameshifting is built upon that foundation. We don't cover this in great depth in Principles of Arcanophany, but those who take up the sage vocation eventually delve deeper into the theory of it all."
+
+"So only sages know about the wysana?"
+
+"They know about the theory, but it's not something common, because as I said earlier, it's not easy to properly create one. And even the ones you ended up creating weren't stable, although they had an emotional core." Caldwell's eyes went to the space above the table again as he picked out more information from the higher dimensions. "The very first one you made performed an ensorcelment without your conscious direction, then helped you fly, and actually started to try and fight against the prophetic links that bound you. But then it dissipated. The other one you made by the lake helped you fly around again and it lasted a lot longer, but at the cost of your arcana, and you were severely overdrawn. And finally, the one you used on your father dissipated right after its task was done."
+
+"I taught my father to do it without much trouble," Caden pointed out.
+
+"Yes, and that's to his credit. But his wysana was similarly unstable. It also dissipated after he used it to help him finish the orbs. And, more importantly, if you recall, he never really thought of it as completely intelligent. His working theory was that it drew on what you knew."
+
+"But if my father managed it just once, wouldn't sages have been able to figure it out, and make it more common?"
+
+Now, when Caldwell smiled again, it was with a hint of bitterness. "Ah, there's the trouble, isn't it? Caden, if someone in the Empire discovered a way to create intelligent arcanic beings that could be used in all sorts of ways, and which would allow them to perform advanced arcanophany without having to learn the relevant sequences... do you think it should be common?"
+
+"Shouldn't it?" Caden asked, bewildered. "It'd make everyone's life easier, wouldn't it?"
+
+"It would also mean that a lot of people would have access to a lot of power," Caldwell pointed out. "The answer to your question about why the wysana aren't more widely known and more commonly used, Caden, is that the Fateweavers don't want it to be that way. The creation of a stable wysana is difficult, but as you've pointed out, the process can be refined and taught. It's no more difficult than some of the other aspects of advanced arcanophany. But it is not in the Fateweavers plans for this particular piece of knowledge to be proliferated."
+
+Caden's nostrils flared. There it was again — Fateweaver meddling.
+
+"Well, that brings us to you. You have a piece of knowledge that ancient sages once had, but which has since been suppressed by the Fateweavers so that only a select few in the Empire know about the wysana and can make active use of them. I've been allowed to create and make a few in order to help with the maintenance and security of the Academy. There are, I think, some Nightwatchers who are also similarly equipped, and maybe a scattering of other individuals. Now, you are a part of that rarefied group." Caldwell raised his cup in an ironic toast. "With knowledge comes power, young arcanist."
+
+"You said that you're 'loyal opposition'," Caden pointed out. "So you don't like the Fateweavers, do you?"
+
+Caldwell grimaced. "That's rather simplistic. I actually like some of them as people, but I don't agree with their methodology as a group. In any case, we don't have all the time in the world, even if we're not completely bound by prophetic links. My purpose in talking with you is to give you as much information as I think you'll need in order for you to take advantage of your freedom. Whether or not you align yourself with their interests or decide to oppose them isn't really something I care about."
+
+He reached out and the staff leapt to his hands. With a casual tap, a standard Academy notebook and a pen materialised, and fell into Caden's lap.
+
+"Let's start, shall we?" he asked.

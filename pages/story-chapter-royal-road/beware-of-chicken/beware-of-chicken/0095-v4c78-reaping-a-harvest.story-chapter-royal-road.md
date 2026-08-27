@@ -1,0 +1,165 @@
+---
+id: 3ccac3dc-6f82-5383-8fe0-89e8d5ee796f
+page-type-slug: story-chapter-royal-road
+title: "v4c78: Reaping a Harvest"
+slug: 0095-v4c78-reaping-a-harvest
+partOf: beware-of-chicken
+position: 95
+ownLength: 2339
+unit: words
+ownProgress: 2339
+publishedAt: 2024-02-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1509309/v4c78-reaping-a-harvest"
+royalRoadId: "1509309"
+markedReadAt: "2026-06-29T18:54:42.673Z"
+---
+
+All of us had a bit of a pep in our step as we made breakfast that morning. The letters had brightened all of our moods.
+
+Both my and Meimei’s hips swung from side to side as we hummed a traditional farmer’s song that she had taught me; We chopped and kneaded and made sure the skillets were at the correct temperature. Meimei rammed her butt into mine, trying to shove me aside, and I responded in kind, bumping back.
+
+She stuck her tongue out at me, so I grabbed her in a headlock and noogied her until Gou came in with the meat he had freshly butchered. He shook his head in exasperation. I glanced at my wife and she grinned—but by the time we looked up Gou Ren was already out of the room, having noticed that we were both going to set upon him.
+
+He had good instincts. Breakfast was finished without further incident.
+
+The weather was good enough that we were going to have breakfast outside. You could tell fall was well on its way, with the way the light looked and the feeling in the air. It was probably one of the last breakfasts we would have outside that year.
+
+Everyone still on the farm was waiting for us. Even Peppa, who had taken this morning off to spend it with Chunky—they were making a commemorative pot to hold the letters Tigu had written to them in. Both of them were still designing things, but there were a great many cats on the side of it. Chunky liked using his nose to make the basis for the faces before drawing on the ears.
+
+And while his skill wasn’t on par with Noodle’s, I did enjoy his whimsical designs. It was really nice watching as my first, utilitarian purchases were slowly getting replaced by things we had made. I particularly liked the one that held the Lowly Spiritual Herbs I kept in the kitchen. It was a happy looking boar, and the sprigs of Spiritual Herbs grew out of the pot’s ‘back’ like a green mane.
+
+Everybody perked up as we approached the table and the spread was honestly kind of absurd—but this time of year was the time of plenty when most of the harvestable plants came in.
+
+We had eggs fried in a spicy tomato sauce—a recipe I didn't quite remember the name of, and I didn’t have all the ingredients, but it still turned out tasting great. We had breakfast burritos with venison sausage, scrambled eggs, and some smoked cheese that Meiling had grudgingly declared didn’t stink. We had carrots fresh from the earth, peas from the vine, and baked squash. There were hash browns cooked in duck fat gathered from Gou Ren’s hunts. We had marbled tea eggs, congee, and a light mushroom soup. We had peach tea as well; from the trees Xiulan had brought us. The pits, now saplings, Washy had brought home were still too young to bear fruit.
+
+Each and every item had either been produced on the farm or gathered from the still wild areas nearby.
+
+Washy’s still sour mood from yesterday mellowed out as he ate; I could still surprise him with new flavours and textures. Chunky smiled happily as he munched on the fruits and vegetables harvested just this morning, baked potatoes, and the burritos I had made without meat. Peppa had claimed basically all of the hot sauces from my experiments with our peppers—The Spirit Herb one especially had a terrific kick that left your mouth tingling. She was putting quite a lot on her food, but was also making happy little noises as she ate, which was a first. Normally she kept pretty quiet.
+
+She blushed when she noticed my stare, and harrumphed.
+
+Vajra dined on a spoonful of maple syrup while the rest of her hive flew in formation, scouring the countryside for the last blooms of the year. Noodle contented himself with some whole eggs and raw duck; the more spiced food gave him a stomach ache. The spartan ox Babe sat beside him with the pile of fresh cut grass piled high. Today he even ate more than just the grasses he contented himself with, with his vast pile topped with fresh clover, Spiritual Herbs, and vegetables.
+
+Mei, Gou Ren, and Bowu ate a bit of everything—and me and Mei took turns chopping food into bits small enough for Zhuye to eat.
+
+I ate heartily and gave thanks to the world for this bounty—I got a cheeky ‘you’re welcome’ in response, amusement coming clearly from my connection with Tianlan.
+
+And though it was a lot of food, it was food we needed. For after our breakfast, and our morning exercises were finished, we turned our attention to our fields—which were still full to bursting.
+
+So we unlimbered our sickles and scythes. Bowu’s Steam Reaper hissed and spun up; while Babe hitched himself to Sunny. Mei attached the massive baskets to Chunky and Peppa’s sides. Noodle went into his workshop and kept working on all the jars we would need. Washy roared with delight as his water tendrils started the task of uprooting the onions and other root vegetables.
+
+We worked. We worked with the sun beating down on our backs as the morning became noon. Our lunch was jerky or whatever we were harvesting as we worked through the noon hour. We had more in common with industrial reapers than people. Our horde of chickens dashed around our feet, snapping up the thousands of bugs we disturbed with our harvest. Our sheep looked quite pleased to be rid of all their wool, and our cows would come over to receive scratches. We worked all day—but even still, as the light began to fade, we had much more work to do.
+
+Our larders were full. The storage house for the food we were selling to the Azure Jade Trading Company exceeded two and a half thousand bags of rice.
+
+It was a truly beautiful sight.
+
+But the day had one last beautiful thing in store for us. The hives opened up and teams of two inch long bees, working in concert, dragged out heavy frames the colour of gold.
+
+I was honestly stunned at just how much Vajra and her hives had produced. The honey was arranged by plant species; and some of the frames were just solid wax. There were no caps to take care of, no cleaning to be done, it was just instantly ready to use.
+
+Which let me tell you was an absolute game changer.
+
+“Thank you, Vajra.” I breathed. “Are you sure this isn’t too much?”
+
+The bees buzzed happily and then formed an arrow. I ventured back to the hives… and saw that Vajra was quite correct. It wasn’t too much. The hive boxes were still practically bursting at the seams, except now, without the frames, it looked like they had constructed a miniature castle, complete with tapestries made of reeds, fluff from threads, and basically anything they could get their… legs? Arms? Well, their whatever on.
+
+“Oh, is that one me?” I asked, pointing at one tapestry. The bees bobbed up and down in a nod. I looked at the tapestry for a moment longer, before nodding and closing the top of the hive. “Well, it's very nice.”
+
+The bees quivered and then landed to start dancing enthusiastically.
+
+Meanwhile, I carefully put aside the thoughts that the bees had a tapestry of me sitting in the bathtub and drinking wine. It had been… remarkably detailed. Maybe she had learned it from Tigu?
+
+I shook my head and got back to work. I poured myself into the work—everything I had. My heart, my Qi, my soul.
+
+It felt good. And it felt right.
+
+Finally, as the sun set, we paused in our efforts. The wind grew cold and the temperature dropped. We retired for the night. In contrast to the morning spread, the food tonight was but two dishes. One a thick broth made from fish and the crayfish that lived in the river, and the other mushroom stew.
+
+We paired it with mead and mulled wine, which warmed us up.
+
+The day finished with a bath. I scrubbed Meiling’s back, and then she scrubbed mine. We washed Zhuye, who also seemed to like his baths. We soaked together, the heat seeping into our bones.
+
+And then, we rested. We climbed into bed and closed our eyes.
+
+I opened mine again immediately. A little girl stood in front of me. She had an axe in one hand, and she smiled as I appeared. She was covered in golden cracks—but her clothes were pristine. She was wearing the same gi that I wore, and her back had a maple leaf and sheaf of wheat on it.
+
+I raised an eyebrow at the little pile of wood beside her.
+
+“Working hard or hardly working?” I asked the little spirit who was preparing for winter.
+
+“Working hard of course!” she huffed. “It's just… we have time. And instead of a big rush, I want to make my house slowly.”
+
+I nodded to the little girl seriously. “Of course, of course. And it's not because you’re waiting for me to cut these for you.”
+
+Tianlan stuck her tongue out at me. “Well, if you’re offering, big guy. Me and your missus can sit here and watch you work. Make sure you take your shirt off, else you’ll spoil the view.”
+
+“Aren’t you going to protect my virtue?” I asked the other person with me, who just looked amused.
+
+“No. She's right. Shirt off, Jin,” Meiling said as she sipped from a cup of tea. “Let momma see you flex.”
+
+I rolled my eyes as Tianlan and Meiling cackled. I was joined later by a boar, a pig, a snake, a man who looked like a monkey, and an ox with a wild child riding on his back. In the distance, I could almost see a cat, a woman, and a rabbit, and further still, an outline of a rooster, a rat, and a fox.
+
+Even in my dreams, I did farmwork. But I have to say… I loved it.
+
+I worked through the night, and in the morning I got up completely refreshed.
+
+I could only hope the others looked forward to each day as much as I did.
+
+=================================================
+
+It was always a good day when Xiulan could wake up and there wasn't anything urgent requiring her attention. At first, it had been a rare thing indeed. But now, as things started to settle, Xiulan could awake more and more often to peace.
+
+In the months since the Dueling Peaks Summit, Xiulan and her companions had been all over the Azure Hills, visiting each and every sect. They took oaths, established lines of communications, trained with the younger generation, and compromised with the elders.
+
+It was exhausting work. But the fact that it hadn’t all fallen apart yet gave Xiulan the strength to keep going. It was working. Against all odds, they were making progress. Nobody had stabbed anybody in the back yet. Nobody had brought up the old grudges they had sworn to forget.
+
+And now, they were back at the Peaks. Xiulan took her time, brewing her tea, and then walking out onto the balcony that only her closest companions had access to.
+
+There, she found Tigu. Normally the woman would already be about, training with her White Tigers. But today, she was leaning on the balcony’s ledge and absently scratching Shaggy Two’s head. She looked upset.
+
+“Tigu?” Xiulan asked. “What is the matter?”
+
+“They’re going to be harvesting by now,” Tigu said, pouting. “They’re going to be harvesting, and we’re going to miss it.”
+
+Ah, so that's what she was so upset about.
+
+“Hmm. Well, if you’re so eager for another defeat, I think we can ask a farmer down here to host our traditional contest,” Xiulan said.
+
+Tigu immediately perked up. “Another defeat?! Last harvest we tied, grass for brains!”
+
+“I distinctly remember winning,” Xiulan replied smugly.
+
+Tigu glared, before she started to deflate again and she sighed. She kicked at the balcony’s edge, her face looking suddenly younger.
+
+Xiulan sighed and hugged her friend. “We will be home soon. This, I promise you. It's not much longer, now, okay?”
+
+Tigu nodded. “I know,” Tigu said. She closed her eyes,took a deep breath, and seemed to once more be the powerful leader of the White Tigers. “I’m good… and I’ll take you up on your challenge later!”
+
+Xiulan smiled as Tigu shook herself off. “Of course. It's been too long since we’ve had a proper bout.”
+
+Tigu huffed, then turned to the dog by her feet. “Shaggy Two! Sound the gong! Gather the Tigers! We’re going to redouble our training!” Tigu shouted.
+
+The dog immediately perked up and barked three times before shooting off.
+
+“He's enthusiastic as always,” Xiulan noted.
+
+“I know. Aren’t dogs great?” Tigu asked.
+
+Xiulan chuckled as the gong sounded, a clear note echoing across the mountain.
+
+“I’m going, Grand Marshal,” Tigu declared.
+
+“Fight well, Captain,” Xiulan said as she clasped her fist with respect.
+
+Tigu exploded into motion. Xiulan looked on as she sped off, took a deep breath, and prepared herself for another day.
+
+“Grand Marshal,” Ulagann Sarnai, Guo Daxian’s Younger Sister and the rose of the Grand Ravine Sect, greeted her as she entered her office. She was a beautiful woman, and Xiulan understood why, exactly, the Grand Ravine Sect had kept her within the Ravine. “Here is everything we have that needs your attention today.” Xiulan stared at the stacks of paper. They were getting slightly smaller, as time went on, and she relished it.
+
+“Thank you, Sarnai,” Xiulan said, and the woman bowed.
+
+“Do you have any requests for me today?” Sarnai asked. Xiulan nearly dismissed her, but paused.
+
+“Yes, I do. Can you see if any farmers around here are willing to let me harvest their fields for them?”
+
+Sarnai blinked, looking slightly confused.

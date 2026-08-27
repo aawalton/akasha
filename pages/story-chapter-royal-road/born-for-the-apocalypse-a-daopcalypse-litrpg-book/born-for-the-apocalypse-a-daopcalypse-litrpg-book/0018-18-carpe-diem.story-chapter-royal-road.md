@@ -1,0 +1,201 @@
+---
+id: f1c3910a-6a6b-5735-aa2b-03d052e9caba
+page-type-slug: story-chapter-royal-road
+title: "18: Carpe Diem"
+slug: 0018-18-carpe-diem
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 18
+ownLength: 1947
+unit: words
+publishedAt: 2023-03-19
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1142342/18-carpe-diem"
+royalRoadId: "1142342"
+---
+
+[You have slain a Level 3 Male Silvercrest Wolf. You have received 1194 Soul Experience!]
+
+[You have slain Level 3 Cultivator with an awakened Dao Mark. You have received 1577 Soul Experience.]
+
+[You have looted the following items:
+
+1198 Tutorial Points.
+
+Greater Recovery Pill (Adept Grade Alchemical Pill) x 1
+
+Lupine Core x1
+
+Silvercrest Cape (Uncommon, Qi Gathering Stage) x1]
+
+[For slaying a Cultivator that had successfully awakened his Dao Mark, you are awarded Feat: Dao Slayer]
+
+[Feat: Dao Slayer
+
+Description: A Dao Mark allows many recently integrated cultivators to attain heights that they normally would not have, but it’s potency and true potential can only be unearthed by the worthy. Let this be both a reminder and a mark of your courage— and most of all, a reminder— be it your allies or enemies, no foe in the three realms is infallible.
+
++1 to Qi Pool]
+
+[Class: Swordsman (Basic) has reached level 4! +5 Free Points, +1 Qi Pool has been awarded. ]
+
+[Name: Jack Anderson
+
+Cultivation Stage: Qi Gathering
+
+Race: Human [Unrefined]
+
+Class: Swordsman [Basic]
+
+Class Level: 4 (1450 /5000)
+
+Feat: Dao Slayer
+
+Dao Mark: Inert
+
+Minor Dao Fragment: -
+
+Skills: Inspect (Lv.3), Qi Blade (Lv.4), Qi Pulse (Lv. 3)
+
+Statistics:
+
+Strength: 9
+
+Constitution:9
+
+Intelligence: 9
+
+Wisdom: 7
+
+Dexterity: 8
+
+Perception: 12
+
+Free Points: 5
+
+Qi Pool: 2/14
+
+Tutorial Points: 1468]
+
+Even guilt had not stopped Jack from being surprised at the deluge of notifications that were waiting for him. His expression had cycled through a variety of emotions, from confused, to conflicted, letting the tension build up to the point of anger before letting it all go with a weary sigh.
+
+There was much that infuriated him. There was equally as much that confused him.
+
+Jack had believed that the purpose of this trial was to create an army of ruthless soldiers; a supposition that he was quite inclined to believe in. Yet, he had just slain someone who had awakened their Dao Mark and instead of being punished for his impudence, he was rewarded.
+
+The feat he had been granted revolted him to his very core but ultimately he was helpless to do anything about it. Even if he could remove the feat from his status screen and consequently his body, the survivalist within him would never allow it. Not unless he had given up and accepted his fate.
+
+The Tutorial Points had to be the combined total of Andrew and Trent's points after they had slain the Silvercrest Wolf, along with the Tutorial Points from his own wolf kill. They had combined into quite an impressive sum.
+
+That, however, could not raise a candle to the Silvercrest Cape he had looted.
+
+[Silvercrest Cape, Qi Gathering Stage Artifact (Uncommon).
+
+Description: This cape was crafted from the hide of a Silvercrest Wolf, Evolved Earth Predator. The Cape exhibits strong resistance to slashing attacks and increases the movement speed of the wielder by a notable degree.
+
+Artifact Ability: Cast a Silver Aura ensconcing the wielder that significantly increases movement speed. Requires 5 Qi Points for a maximum of one minute’s use. Ability resets every day.
+
+Requirements not met].
+
+‘Two in dexterity, one in strength, one in constitution, one in intelligence’
+
+[Statistics:
+
+Strength: 10
+
+Constitution: 10
+
+Intelligence: 10
+
+Wisdom: 7
+
+Dexterity: 10
+
+Perception: 12
+
+Qi Pool: 2/14
+
+Tutorial Points: 1468]
+
+[Silvercrest Cape requirements met]
+
+Jack felt a strong gust of wind buffeting against his visage, his silver-furred cape fluttering as he moved forth with swift, unencumbered steps. Though Jack very well knew the importance of traversing hostile territory silently, his improved dexterity stats coupled with the sublime airiness to his movements the Silvercrest Cape provided meant that he could limit any noise pollution to a minimum.
+
+Sarah trailed behind him, a distance of roughly ten meters separating the two individuals. There was no particular strategy behind this peculiar formation and neither was Jack heading towards any specific destination. Such aimlessness was in conflict with his meticulous personality but there were two reasons why he had chosen, or rather, requested it.
+
+Besides the fact that Jack, with his class at level four and the Silvercrest Cape was simply more agile and had the capability to run faster for longer periods of time, the first reason boiled down to a matter of convenience. With him leading, he could swing his sword freely, without the thought of accidentally hurting Sarah weighing him down. The second, well, the second was something he had to test. The final threshold a warrior needed to cross before they entered the realm of true combat readiness was an elusive one; a rubicon that could cause even the most talented and skilled of fighters to miserably falter.
+
+An hour had passed since he and Sarah had departed from the site of their former teammates’ resting place, so Jack wasn’t entirely surprised when he caught the glint of a blade concealed in an unassuming thicket in the midst of changing stance. Lashing itself forward, a deep violet-skinned humanoid creature revealed itself, roughly four feet in height, characterized by three small, red-tipped horns jutting from it’s skull, spindly arms and legs connected by a thin layering of muscle and most notably, a serrated metal dagger it rushed towards Jack with.
+
+[You have successfully inspected a Level 3 Lesser Rift Goblin Assassin, Trial Classification: Rift Beast.]
+
+The notification flickered away from his mind’s eye almost as soon as it materialized, since Jack made the conscious decision to ignore it. The first moment was spent taking in the enemy’s movements and general appearance, just enough to distinguish it’s shape and a few characteristics.
+
+Jack’s Qi Blade arced in a wide sweep, his movements carrying a natural effortlessness that they had lacked before, one that could only be attained by crossing the rubicon.
+
+It was a fact that Jack had killed a man, whether his actions were justified or not, whether he deserved punishment for his sins or he had legally acted in self defense, all that did not matter in the heat of the moment. What mattered was that Jack’s blade had lost the hesitation no amount of training or theoretical study could disavow.
+
+It now echoed forth with the conviction to cut down any enemy that threw themselves at him, even if his purported foe were to be a human.
+
+Azure and silver sparks flashed in the air as the Lesser Rift Goblin caught Jack’s blow between two of the dagger’s teeth, surprise flashing in his gaze upon realizing that he could not push the spindly armed creature back anymore than it could for him backwards. The silver sparks caused him to narrow his eyes, helping him reach a conclusion.
+
+The Rift Goblin had its own way to empower its blade, though there was a marked difference; while his enhancement was an offensive, cutting one, the Rift Goblin seemed to be internally reinforcing his blade somehow, perhaps it was an ability of the dagger itself.
+
+More than that though, Jack was surprised by the strength contained in those frail-looking arms, its muscles containing a wiry, tightly corded tensile strength that was simply inhumane for its small, unassuming stature.
+
+So we’re roughly equals in strength, he noted, his expression unfazed.
+
+Pulling back his blade, Jack disengaged only to strike from a different angle seconds later. This time, he imposed his right foot forward, managing to impress more of his body weight into the arcing slash.
+
+He almost winced as his blade sent a strong vibration quaking down his arm, gritting his teeth as he pushed back against the serrated blade.
+
+Fast reflexes too, a step faster than me.
+
+Disengage.
+
+Step-forward-strike.
+
+Parried.
+
+Repeat.
+
+Jack pushed the Rift Goblin back by five whole steps, stitching together the glimpses of its visage he had gotten during the battle in his mind’s eye to form a cohesive idea of how his movements were being tracked. Twice now, he had caught the Rift Goblin’s gaze tracking his sword intently, almost certain that sight was the only real source of it’s agile reaction time.
+
+With a grunt, Jack disengaged.
+
+It was only the goblin’s smaller stature and limited reach with its dagger that let him do so without risking an opening, but Jack had come no closer to killing the alien creature than his first attempt. Instead, he had set an expectation, a tempo that his opponent was now dancing to.
+
+Again, Jack swung his sword with intent, though his attention was focused more on the Rift Goblin’s visage over his blade’s arc.
+
+Now.
+
+Jack’s leg lashed forward, but instead of leaning his body weight into the attack he sent a powerful kick that crashed against the side of the Rift Goblin’s knee joint. He audibly winced at the sensory feedback, the experience akin to kicking a metal totem pole. A moment later he inwardly smiled as he felt the Rift Goblin’s right knee buckle from the impact.
+
+The Rift Goblin let out a sound that sounded like a choked gurgle as it tried to regain its footing.
+
+Jack planted the same foot he had used to deliver the kick forward, thrusting his sword in a vicious lunge that stretched his body to the fullest.
+
+The tip of his blade penetrated the Rift Goblin’s ribcage before protruding out from its back, the blow dealing instant death.
+
+Panting, Jack withdrew his sword from the Rift Goblin’s carcass, angling his gaze towards Sarah, who arrived seconds after he’d finished the creature off.
+
+“What is that?” She asked, her tone evenly split between morbid curiosity and surprise.
+
+Taking a few more seconds to catch his breath, Jack replied, “A Rift Beast, the second classification of enemies we can encounter in this Quest.”
+
+Jack and Sarah discussed the characteristics of the Rift Beast as he looted the creature, both their vigilant gazes looking out for any sign of the creature’s allies. Fifteen minutes later, they resumed their journey, but this time Sarah moved alongside Jack.
+
+“So, did you test what you needed to?” The brunette asked, a hint of confusion carried forward in her question.
+
+“I did,” Jack answered.
+
+“I was expecting a new skill or something along those lines. Though the way you fought, it felt different for some reason,” She muttered aloud. “Precise. Almost clinical.”
+
+Thoughtful, Jack paused to collect his thoughts before he gave her a response, “Skills are only as powerful as the resolve of the one wielding them. If the level difference is too large, it likely won't make a difference but if both the opponents wield a similar level of power, then the one with greater combat awareness and presence of mind will come out on top. I can't force the system to grant me newer, more powerful skills, but I can sharpen my mind in preparation for that moment."
+
+Letting Sarah ruminate over his words, Jack tuned his mind back to a state of combat readiness.
+
+The next twelve or so hours were a blur in Jack’s mind, fuelled by adrenaline and the intoxication of strengthening his levels and skills. He had let Sarah have the second Rift Goblin kill, that one a berserker variant, which meant that it had come charging at them with a burly greataxe that neither Jack nor Sarah could parry.
+
+By the end of the day, they had slain nine Rift Goblins in total, convincing Jack that they had stepped into their territory. They had debated turning back, but so far the Goblins had only approached them on their lonesome; as if they, too, had been scattered at random like the humans of Earth had.
+
+Regardless of the specifics of their encounters, there was one fact that shone through above all.
+
+They had survived the first day.

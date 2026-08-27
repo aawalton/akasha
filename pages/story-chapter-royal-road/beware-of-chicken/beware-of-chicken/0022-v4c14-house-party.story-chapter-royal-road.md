@@ -1,0 +1,161 @@
+---
+id: 9a0641db-cc77-5089-b2ff-c0b07777dde1
+page-type-slug: story-chapter-royal-road
+title: "v4c14: House Party"
+slug: 0022-v4c14-house-party
+partOf: beware-of-chicken
+position: 22
+ownLength: 2303
+unit: words
+ownProgress: 2303
+publishedAt: 2023-06-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1240702/v4c14-house-party"
+royalRoadId: "1240702"
+markedReadAt: "2026-06-29T18:52:05.152Z"
+---
+
+Shrieks and screams echoed across the land as people fled from an enormous beast. It hunted them relentlessly, its bounding gait seeming unhurried. It leapt forward to pluck up one of the stragglers, a young girl, who let out an ear-splitting scream as she was dragged into the air by its maw. The girl fought her fate but alas… she was inexorably deposited safely onto the monster’s back. It smiled at her, then resumed its unhurried hunt.
+
+The girl was left to pout, seated comfortably upon the beast's back as she was now ‘out’.
+
+Gou Ren picked at his ear. “Man, for being so quiet all the time Liu sure has a set of pipes on her,” he grunted as he watched the gaggle of children hit the water, Wa Shi close behind them.
+
+“She's loud as hell, isn’t she?” Jin replied, looking up from where he was preparing a truly massive grill. He grinned and looked out at all the kids before turning back to the grill. Gou Ren just kept looking around; from the kids playing in the river, to Meimei and the ladies prepping meals, to the men talking with the Lord Magistrate. The farm was certainly a crowded place today.
+
+Jin had said, “the only way to celebrate a new house is a house party,” and Gou Ren agreed—and the celebration was twofold, after all. The completion of Jin’s upgraded house… and the completion of Hong Yaowu’s new fields, both of which had been massive undertakings in their own ways.
+
+Which was why they had the entire village of Hong Yaowu at their home, as well as the Zhuge clan, Uncle Bao, the Lord Magistrate, and Lady Wu. In times past, it would have been way too far to travel for what was supposed to only be a day or two party… but they had a cart that could comfortably seat sixty and the ‘Chun Ke Express’ on their side.
+
+The grannies and grandpas of Hong Yaowu had had entirely too much fun riding, cheering and whooping along with the kids as Chun Ke had thundered down the road. Right now all the old-timers were seated around the big pig playing go on his special board. He wasn’t dexterous enough to use a normal one, so Jin had made one his size for him using larger river stones.
+
+Gou Ren shook his head and turned back to the reason for the party, and the thing he had helped build.
+
+The new house was quite the impressive sight, if he did say so himself. Impressive, but not imposing. That had been one of Gou Ren’s main goals ever since Jin had clapped him on the shoulder and entrusted Gou Ren with redesigning things. It still looked as warm and welcoming as the last one, just… well, bigger—though mostly because Gou Ren’s second goal had been keeping most of the character of the original house even as it grew. Jin’s style when he built it had been kind of weird, but Gou Ren had grown to love it. Its expanded roofs and enclosing veranda had given it a unique charm. The only thing he had really had to work on was making sure it adhered to Feng Shui—Jin… ah, he really hadn’t thought through the interior the first time, and it had shown.
+
+The new house had a very inviting and welcoming look, and if Gou Ren had to guess, the source was probably from the glass windows. They lent a certain open-ness to things. They revealed the lived-in house, instead of tiny things meant to conserve heat or to protect from attack.
+
+The other part of the welcoming atmosphere was the lack of outer walls. Traditionally, a manor like this would be completely enclosed. And while there were a few enclosed things on the sides, in the process of creating the guest house and expanding the bath house along with the medicine hut—though it wasn’t really a hut anymore—the front of the house remained completely open with a pathway that was beautifully flanked by fruit trees.
+
+The second floor had gained a balcony off the new—and heavily sound-proofed—master bedroom. The kitchen was three times larger than it had been, and now opened directly into the dining area—a dining area that had a little slide connected to the river room so Wa Shi wouldn’t have to flop across the floor whenever he wanted to wander back and forth. All of the staircases and entryways have been expanded so that Chun Ke and Bei Be could fit through properly instead of having to squeeze by or have parts of the house outright inaccessible to them.
+
+Then there were the bathrooms. He had to admit, after he got over the weirdness of doing his business inside, it really was convenient. Especially the sinks. Water on demand was especially nice.
+
+It was the kind of house that should have taken years to build. Generations, maybe, as a family slowly expanded things year by year.
+
+It had taken them about a month and half—and Jin’s house wasn’t the only thing renovated. Gou Ren’s house got plumbing too, and he had added an addition so Bowu could have a bigger room.
+
+For now though, the house had been finished… and Gou Ren couldn’t be prouder.
+
+He had designed this and helped to build it. It was something wonderful… and everybody else clearly thought so as well, judging by the way they looked at it.
+
+In a year, he had rebuilt an entire village and built a veritable mansion.
+
+They weren’t entirely done with expanding things either. There was a plot marked out for Jin’s three story tower—or as he called it, an ‘observatory’—but that project was on the back-burner.
+
+“You have certainly managed to outdo yourselves, my student, Gou Ren.” The Lord Magistrate said, cutting through Gou Ren’s admiration of his work. “Are you two gentlemen attempting to rival my palace? Do I have to arrest you two for treason?” The man joked.
+
+Jin grinned. “Well, that just means you have to get a better palace, eh? I know a man who does good work.”
+
+The Lord Magistrate chuckled. Gou Ren didn’t normally get to see the man so relaxed, and it looked good on him. “I shall give it due consideration. While it might not be for the palace, I may have some projects in mind, if you are amenable.”
+
+Gou Ren flushed at the praise.
+
+“Indeed. I even heard that the Patriarch of the Zhuge Clan is likely going to approach you tonight. He's quite impressed with your work.”
+
+“Ah, er, thank you! You honour me with your words, Lord Magistrate!” Gou Ren yelped out and bowed. Jin laughed, and the Lord Magistrate chuckled as well.
+
+Gou Ren beat a hasty retreat as Jin and the Lord Magistrate started talking.
+
+“You’re in a good mood today, teacher,” Jin said.
+
+“I got another letter from my son before we departed. He's complaining how boring things are, with nothing exciting happening…” the Lord Magistrate replied.
+
+Gou Ren’s fleeing led him over to where the meals were being prepared in the house, where he was immediately accosted by Meiling.
+
+“Take these over to Jin, they’re ready to go!” she told him. Gou Ren grimaced at being sent back so soon, but took the platters anyway… and as soon as he was out of the house he turned to the first person he saw that wasn’t working.
+
+“Hey, could you take these to Jin? I’m gonna call the kids for dinner,” he blurted out before really looking at who it was. He grimaced as he turned fully and saw that it was Daheng. Ever crotchety Daheng. The asshole who loved talking down to Gou Ren. Their grudge was ancient, ever since he had accidentally stepped on the man’s flowers and killed them.
+
+“No problem, boss,” Daheng said with a smile and clapped him on the shoulder before taking his burden.
+
+Gou Ren paused as the man left. Boss? Even Daheng was calling him that now?
+
+Weird.
+
+It started as a joke, with somebody calling him that while they were renovating the village, and it seemed to have stuck. Now everybody called him that.
+
+Well, there were worse nicknames for the son of a hunter.
+
+He never bothered to think if they had really been serious.
+
+As he sat down on Jin’s right at the head table, one cheeky bastard even called him Elder Gou Ren.
+
+========================================
+
+“Now this is a fine drink.” The Lord Magistrate sipped his chosen poison—berry vodka.
+
+“Ayyyup,” I replied as I took a sip of ice cold ‘shine as we relaxed in the water, my eyes closed.
+
+Dinner had been absolutely fantastic. The burgers had been a hit—but the more surprising favourite had been the mushroom burgers. Washy had spent a week tweaking the flavour with me until he had been satisfied enough to serve them to Chunky. It wasn’t actually that hard to do vegetarian options for my big boy—especially because Washy had taken it upon himself to create a menu for him… and for Vajra.
+
+Honestly, things hadn't changed much, except now she came to have breakfast with the rest of the family. She was still non-verbal and danced to talk, relying on Chunky to translate, but she seemed happy with our current arrangements. She had even said I could take more honey than I had been from her hives.
+
+All was well that ended well on that front, I suppose. We even got some aerial acrobatics from her and her subjects during the meal.
+
+After dinner things had broken apart. Most of the men migrated to the river, where a dragon bartender plied his trade, mixing up proto-cocktails while coiled around a block of ice. Most of the women were playing games by the bonfire, Meimei among them. The remaining people just lounged. The kids were being watched over by Peppa and Noodle, letting Ty An—who was normally stuck with babysitting duty—into the ‘adult’ activities, namely lounging in the river and drinking booze with us. She wasn’t supposed to be, but I saw Washy slip her and Bowu some—watered down, at least. The two of them were bitching at each other a bit further upstream like an old married couple again, though Bowu was getting the worst of it this time. His eyes kept dipping below Ty An’s face.
+
+Good luck, Steam Boy.
+
+Conversation was pretty light for the rest of us—save for people telling stories about what Gou Ren had done to Hong Yaowu. My buddy was rolling his eyes and playing things off… and I don’t think he noticed that people were being genuine.
+
+“Forgive me for mixing business and pleasure,” the Lord Magistrate said, after a particular tale of Gou Ren repairing a broken seed drill in less than a minute by bending the metal back into shape with his bare hands. “But those new machines are extremely efficient. I was wondering what the cost would be to produce them?”
+
+“I honestly don’t know,” I replied. “Brother Che, how much do those seed drills cost to make?”
+
+The old blacksmith perked up at my question and then grinned. “I could tell you, but it's best to hear from the boy. He knows more about them. Oi! Bowu! Stop ogling Ty An and get yer butt over here!” Yao Che demanded. Both of the kids spluttered and Bowu waded over through the water, glaring at the old man who was howling with laughter. “The Lord Magistrate wants to hear more about your contraptions!”
+
+==========================
+
+“… and that's about how much each one should cost in materials alone. In labour… half again as much? I don’t really know.” Bowu finished his explanation of his seed drill.
+
+“Twice as much.” Yao Che grunted. “Especially if they don’t have your fancy hammer.”
+
+I could see the Lord Magistrate crunching the numbers in his head before sighing.
+
+“They’re too expensive for the farmers around here,” he finally said. “Each one is nearly a year’s wages for most farmers—but if they’re as effective as you say then perhaps each village can buy one, instead of individuals? Or maybe they could rent them?”
+
+“I could do a subsidy,” I said after a moment. In one life, I had been the son of a farmer. I knew the pain of buying equipment.
+
+That got everybody to turn and look at me.
+
+“A subsidy?” the Lord Magistrate asked, raising an eyebrow inquiringly.
+
+“Sure. I’ll put down part of the money for each new machine. I’m sure we can work it out later, but, well… I’ve got enough money to give back to the community and I know what it's like being too poor to afford things.”
+
+It wasn’t wholly altruistic. A stable, prosperous community meant that I didn’t get bothered. But well, when you have basically more money than you know what to do with… why not help a few people out?
+
+“That… that would be an act of great virtue, Jin,” the Lord Magistrate said, looking pleased.
+
+“I only got one condition on that though, on the name.”
+
+“On the name?”
+
+“Bowu Machines,” I said.
+
+Bowu’s jaw dropped as he turned to look at me.
+
+“Big Bro, you came up with the idea!”
+
+“And you actually made it,” I returned.
+
+The kid looked absolutely gobsmacked.
+
+The Lord Magistrate looked incredibly amused at his expression.
+
+“It would be our honour to spread the name of these fine Bowu Machines,” he declared.
+
+I wasn’t one for going on a crusade to uplift the world or force things on people, but if things like this spread, they spread.
+
+The night ended with a spot of drunken singing.
+
+You can never have a party without that… Nor a toast to our friends so that they should make it home safely.

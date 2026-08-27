@@ -1,0 +1,211 @@
+---
+id: 8464a0e4-b500-5ee4-af2c-8dc7c3b69a7d
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 25 - The Foul Winds of Change"
+slug: 0028-book-4-chapter-25-the-foul-winds-of-change
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 28
+ownLength: 4949
+unit: words
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2721063/book-4-chapter-25-the-foul-winds-of-change"
+royalRoadId: "2721063"
+---
+
+The winged ogre had discovered a new game, one that was obnoxious enough to make Ranthia almost regret Dimlit’s failure. The ogre flew over Remera—high enough that their archers and [Mages] couldn’t readily retaliate—and dropped things on them. It began in autumn with him dropping rocks and—after exactly one stray arrow that fell back into Remera—the base commander promptly ordered the cessation of any and all attempts to counterattack.
+
+Ranthia’s frustration aside, the rocks admittedly weren’t exactly a major problem. The base defense [Mages] could intercept them more-or-less reliably, and even when smaller rocks slipped past Remera’s defenses, they seldom inflicted much harm. A large rock was easy to intercept and redirect harmlessly past the walls, while the smaller rocks seldom managed to damage even the basic, standard-issue Legion tents. The worst harm that the winged ogre wrought was an infrequent bruise, aside from one cracked piece of arcanite—which Avyna mended as a ‘favor’ to the base commander.
+
+Then, after a blissfully twin-free winter spent prying Remera out of escalating layers of ice, the twin returned along with the warmth of spring, bearing a horrible twist on his original strategy: instead of dropping rocks, he dropped pieces of men and women.
+
+His preferred arsenal were legionaries that had served in Remera before they were reassigned to another base or Legion. By then, the defense [Mages] were an impeccable aegis against his bombardments, but morale undeniably suffered each and every time the winged ogre appeared. Few people were so jaded that the sight of a friend’s desecrated remains failed to affect them, and the interminable wait between his appearances was almost as debilitating as his so-called attacks were.
+
+The anticipation had its own form of dread—were their friends and comrades safe, or was the winged ogre visiting death and dismemberment upon them?
+
+Yet the winged ogre refused to prey upon Remera or its scouts, and the base commander refused to accept the ‘risk’ involved for any further attempts to try to bring the thrice-cursed monster of a twin down. And so, morale continued to diminish, until the winged ogre stopped appearing shortly after summer’s ferocity arrived in earnest.
+
+It took some time for Remera to accept that the fragments-of-friends bombardment had come to an end. But, by winter, it was clear that the winged ogre had ceased to be a menace, at least for the time being.
+
+Then one night, in the dead of winter, Ranthia found herself shaken awake by Glorine. She had to swallow a surge of frustration, but she carefully extricated herself from spooning with Avyna, settled her adorably protesting elf, grabbed her mistweave tunic, and steeled herself for whatever was happening.
+
+“Message arrived for you, ma’am. Sentinel Aurora dropped it off.” Her friend explained once they were safely through the curtain, while she held out what looked to be a solid, seamless metal tube with the starburst insignia of the Sentinels.
+
+Opening the message proved to be a bit of an ordeal—the scroll was finally released with a touch of her Sentinel badge. Which, honestly, really should have been one of the first things she tried since her badge had been a key (and/or the primer for traps) in the Sentinel-exclusive hidden areas throughout Ariminum. But she was still drowsy, and critical thinking was the domain of those that were awake.
+
+The message bore good news, but it was news that absolutely could have waited until morning. An unfamiliar, clean hand—self-identified as an assistant to Sentinel Bulwark—reported that Sentinel Jolt had successfully eliminated one of the shimagu twins. From the description, it was probably the same spear-wielding ogre that Ranthia had seen years ago.
+
+Still, Ranthia had to smile. Each victory over a veteran shimagu twin was worth celebrating; it would take years for the shimagu to make another that was their equal. Sure, she was somewhat haunted by the unfamiliarity of the Sentinel that had performed the deed—yet another mark of the passage of time—but it was welcome news.
+
+How many more twins could the shimagu afford to lose before the tides of war changed irrevocably?
+
+The war became strangely quiet, at least as far as Remera was concerned. There were battles fought elsewhere, but Remera had engendered an uneasy, lingering peace. Which made even less sense than usual—they were, technically, deep behind enemy lines.
+
+Remera had always been aggressively positioned, but the lines of battle had become… scattered in the eight years since their base was founded. After the Disaster of Flame—the setback that might have cost Remus the war, if not for their allies that had joined the Coalition—the once mostly-sensical map of the varied fronts of the conflict reflected the attention of Xaoc Himself.
+
+The survivors of multiple Legions had claimed a shimagu fortification to the northwest and, against all odds, held it. Spearpoint was a testament to the logistical power supplied by Sentinel Aurora: a stronghold deep in the heart of hostile territory. The problem was everywhere else. When Launchpoint 5 fell, the shimagu had pushed into territory formerly controlled by the Coalition, stymied only by Remera and three other forward bases.
+
+As time passed, it became clear that Remera was within hostile territory—though generally left uncontested—with a slim finger of ‘secure’ territory that was used for Remera’s supply line. No one truly believed that the situation could last, and Ranthia had more-or-less stoically preemptively shouldered the burden—when the shimagu came for Remera or tried to close its supply line, she was the crux of the Coalition’s response.
+
+Yet, when the shimagu returned to Remus, it wasn’t with a force of twins or a base killer, it was yet another army, roughly sixteen thousand strong, comprised of regular shimagu [Warriors] and [Mages]. It wasn’t the existential threat that anyone had expected, which was welcome.
+
+But Ranthia had been looking forward to her fortieth birthday, so there was a certain peevishness accompanying her when she joined Remera’s response force in striking against the enemy.
+
+The shimagu army—visibly depleted—was retreating, but Ranthia had regrets. By Xaoc, she swore the vile taste still coated her tongue, even after she shifted to a fresh image. Ranthia waited through the [Healer]’s screening while she scraped her abused tongue against her teeth, then set out for Avyna’s shop once she was cleared.
+
+“I’m being ridiculous, potions don’t just go off like that. Surely it can take longer than eight years for them to sell.” Ranthia tried to convince herself.
+
+Her irate tongue insisted that she was mistaken.
+
+Ranthia plucked another potion from her pouch and flicked the hard, flaking wax off the top, before carefully pouring some of the contents of the vessel into her other, cupped hand. Instead of the expected amber hue, the liquid that splattered across her palm was dark and oily, with congealed, glistening chunks floating in it.
+
+“…Lesson learned.” Ranthia announced far too loudly, as her stomach threatened to rebel—she had choked down one of those! Ignoring the stares she had summoned, Ranthia threw out another image and shifted yet again to get the sticky substance off her hand, while she tossed the rest of the bottle into a nearby barrel of refuse.
+
+Honestly, she should have known that anything sourced by the Legions would be a cheap, inferior product! It was no wonder they had gone off so quickly, truly. Sure, she knew that she could ask the quartermaster and wait for an eternity to get more of the most bottom of the barrel junk Remus could muster. But she intended to abuse the fact that she was intimately acquainted with a certain beautiful elf that could work mercantile magic. She might have largely out leveled the necessity of potions, but she had survived entirely too many conflicts to discount even a minor boon.
+
+“<Gemheart, love of my life, dearest beloved?>” Ranthia called out in a singsong voice the instant she entered Avyna’s shop.
+
+In High Elvish, of course. Ranthia wasn’t about to give the legionaries an opportunity to giggle at her. And she was stubbornly ignoring the fact that her singsong tone was apparent even to those that hadn’t understood a word she said.
+
+“<Oh my. It seems that my love is trying her best to butter me up. What do you want, my sweet?>” Avyna answered with obvious amusement. There were other people in the shop, but no one was at the counter.
+
+“<Even though it’s been only eight years my stock of potions is… erm, I’m not sure if they’re even safe, let alone giving me their full benefit anymore? I was kind of getting low anyway, so I was hoping Pallos’ greatest [Merchant] could help me out.>” Ranthia explained, fluttering her eyelashes flirtatiously as she neared her heart’s desire.
+
+Avyna wordlessly held her hand out. Ranthia blinked, then finally withdrew one of the little clay vessels from her potion pouch, more-or-less at random, and handed it to her elf. Avyna accepted the fragile container and carefully pinched the failing wax off so she could sniff it—though she recoiled away from the bottle the instant the wax was cleared.
+
+“<Oh, dusted diamonds! Please tell me you that you have not been drinking those!>” Avyna cried out, trying to seal the bottle as best she could with the dried-out wax. Moments later, she gave up and called out to one of the legionaries, offering him a free item from the baked goods case if he would dispose of the “vile item” somewhere far away from her shop.
+
+“<Er… Well, they had begun to taste a bit off for a while now, I guess? But today seemed worse than ever, or maybe I got a particularly bad one by chance…?>” Ranthia offered once the bemused man was away.
+
+She was absolutely refusing to admit—not even to Avyna—that it’d been a couple of years since her experience with them tasting slightly off. It wasn’t (…not) her fault that she seldom thought to use potions, unless the situation was dire!
+
+“<Ew, my love. Just… ew.>” Avyna muttered quietly. After that, she signaled her request for a moment to think, and her face fell into her trademark—and eternally beautiful—far-away contemplative countenance.
+
+Ranthia hadn’t exactly expected Avyna to need to think quite so deeply about the issue—honestly, she was just hoping Avyna could get some decent dwarven or elven potions added to the next [Merchant] caravan—but she knew that look. The bulk of Avyna’s attention was focused inward, which meant she had little to spare for her shop. Ranthia was flattered, but it also meant that she needed to help out around the shop while her lover was preoccupied.
+
+After she had made a few tiny mistakes running the shop while Avyna was distracted by that probably not actually cursed book, Avyna had taken measures to properly train Ranthia on running the shop. And she, unexpectedly, found herself putting that training to use—even as moments passed, Avyna remained transfixed by her own thoughts.
+
+Which left Ranthia fretting about if she had inadvertently asked too much of the woman she loved. It seemed unlikely that Avyna somehow had zero contacts with any [Alchemists]; at the very least Ranthia would have expected her trading house to have associations with a few. …Which raised more dreadful concerns. Oh Xaoc, what if Ranthia had unwittingly asked Avyna to interact with another terrible ex?!
+
+With silent dread weighing on her mind, Ranthia concluded two transactions, then spent some time explaining to a newly transferred legionary how the book rentals worked. She even recommended a few of the spicier books she had enjoyed to the woman when she seemed hesitantly interested at the mention of them. By necessity—it wasn’t like Ranthia was bored enough to force herself to read anything that involved men—they were all women-only romances (or tales of passion, sans romance), but it was at least a place for the young woman to start.
+
+Ranthia left the kid to browse and returned to the counter. Just in time for Avyna to finally nod and visibly resolve herself to some path she had chosen.
+
+“<I have made up my mind, my love. You need to have a set of proper alchemical concoctions created by a true immortal [Alchemist]. Not terrible tinctures like whatever had rotted in those. I will call in a favor. …Please throw those out in the meanwhile, they will only do you harm.>” Avyna announced. Though Ranthia was mildly distracted by the adorable way that the elf’s nose wrinkled when she added that last bit.
+
+“<I’m not worth that!>” Ranthia protested a moment too late, once the realization set in.
+
+She was still new to the whole immortality thing—twelve years was not enough time to acclimate and learn all that she needed to—but one thing that Avyna had emphasized was that ‘favors’ were a huge deal for immortals (and she was doing her best to smash its casual use out of Ranthia’s lexicon). Avyna had even called them more valuable than any gem. Which meant that Avyna was offering to give up something incredibly precious. For her.
+
+“<You shall graciously accept it. It is mine to give, my love. The potions will undoubtedly arrive long after spring is done, though you may consider this to be your birthday present, if that helps.>” Avyna answered, her tone serious.
+
+Ranthia, unable to think of anything better to do, chose to kiss the woman she loved while she struggled to get her emotions back under control.
+
+The shimagu continued the cycle of violence through the summer. Each clash lasted a matter of hours to a few days, then the shimagu withdrew and regrouped somewhere out of sight. If necessary, they awaited reinforcements, then returned. The once-green newly minted legionaries were blooded, and the survivors began to grow strong.
+
+By autumn, casualties on Remera’s side were at a new low. The base commander still refused to allow them to pursue their enemies when the shimagu withdrew, claiming that it could be a trap (in spite of the scouts confirming it was a legitimate withdrawal and regrouping, each and every time), but Remera had largely adapted to the new standard of the war.
+
+Which left them vulnerable to a sudden change. After a day and a night of nonstop combat, a new self-professed twin ascended the shimagu’s still-present wooden tower. Which meant that Ranthia was obligated to quit the battle, in spite of the shimagu reinforcements that arrived alongside the new ogre.
+
+[Ranger – Dark] level 527, [Ranger – Mountain] level 500, [Warrior – Dark] level 91. Across the board, he was markedly weaker than she was; she had dinged level 649 in her primary class just that night. Not that it changed her orders, she still had to scale her tower and perch there—an especially taxing demand after fighting throughout the night.
+
+The ogre just stood there, smiling at her. He was better equipped than most shimagu, with two ogre-sized short swords at his hips, a long bow made from what looked to be some form of horn or bone, and a thick steel chest plate. Unfortunately, that had been a trend for years—just as Remus was shamelessly advancing its metallurgy using the dwarves, the shimagu were advancing their own materials as they captured samples from the Coalition. Thank Xaoc, the elves’ more mystical materials seemed to be out of reach.
+
+The urge to do something burned through Ranthia, but the voice from the once mousey girl—now firmly a woman that had come into her own—reminded her periodically to stay where she was. It was familiar, but she had gotten spoiled by the dearth of need for the tactically dubious tower. She was no longer accustomed to standing there while the lifeblood of her comrades stained the wasteland.
+
+It was around noon when Ranthia ascended her tower, and there she stayed while the fighting continued. Darkness covered the battlefield and the fighting refused to abate, even long after the sun had set. And the ogre that claimed the role of a twin continued to stand there, with a smile writ across his face—as if he knew something that Ranthia didn’t.
+
+And then, he pointed a single finger, as his smile twisted into something dark and filled with malicious glee. It was almost certainly the wrong thing to do, but Ranthia’s gaze followed the direction the ogre indicated before she thought to question it.
+
+And before her eyes, an entire combat unit of legionaries collapsed and died. Sixty-four men and women were extinguished before they even reached the next cluster of shimagu pawns.
+
+“What in Xaoc’s glory was that?!” Ranthia shouted incredulously.
+
+Her first instinct was that it had to have been something the ogre did, but no—the distance was far too great, and no shimagu between him and the battle group had been harmed. If he were truly so powerful, he would have struck her down instead of the battle group.
+
+“Hold, I’m trying to get—” The Sound [Mage]’s voice—more than a touch panicked—sounded through the stone that was tucked against her ear.
+
+“Miasma user!” A dwarf roared, his voice cutting through the din of battle courtesy of some Skill or another.
+
+Miasma wasn’t a common element. Ranthia had encountered it before in the shimagu spy that had sought to infiltrate Remus—her first brush with their kind—but even she only knew of it as an element that was similar to Poison. The sight of clusters of men and women succumbing in mere seconds was beyond her expectations, no matter what her Xaoc-cursed random knowledge suggested.
+
+“Hold yer breath or cover yer faces!” The dwarven [Battlemaster] roared, as she ripped cloth out of some underlayer of her armor and tied it tight across her mouth and nose. The Sound [Warrior] had her own, excessively thunderous, method of being heard throughout a battlefield.
+
+Ranthia pulled her cheap tunic out of the belt pouch, a knife already in-hand to butcher it.
+
+“Stay put, Grace! A Miasma classer is a big problem, but things will get worse if the twin enters play!” Her handler screeched. The woman’s voice had a nasty habit of turning shrill when situations got bad.
+
+Ranthia instinctively leaned away, as if that had any bearing when the stone was pressed against her ear, but she found herself torn between conflicting duties and obligations. The twin was nearly a hundred and twenty-eight levels below her and his status as a twin was unconfirmed. The Miasma classer was somewhere amongst the shimagu—or possibly beneath the battlefield—and even [Divine-Touched Identify] gave her no clear candidates; unfortunately, she couldn’t see the parasites within the presumed hapless hosts.
+
+Gods and goddesses, that was another flaw to the whole strategy the base commander employed—they had to trust that the shimagu would play by the rules. It was all too easy to imagine that the true twin was down there, killing with impunity, while some overgeared stand-in prevented her from acting.
+
+The weight of her indecision flared and, beneath the pressure, Ranthia’s mind conjured a sense of Xaoc’s exasperation with her. She was—purportedly—a being of chaos, and there she was caught between action and inaction. Gods and goddesses, how far had she fallen? The proper answer should never have been in question!
+
+Ranthia dropped the Skill-attuned stone that had rested upon her ear, even as she sent an image near the dwarven [Battlemaster]. She didn’t bother to try to disguise what she was doing—she dismissed the image from the tower as soon as she shifted. How the base commander’s niece reacted was irrelevant, instead Ranthia focused on the battlefield around her as she danced to catch up with the dwarf, though she kept an eye on the self-proclaimed twin.
+
+“I’ll help you hunt the Miasma classer. But if that thing is a twin, I’ll have to break off to end him!” Ranthia announced while she struggled to tie the strip of cloth she had severed across her face.
+
+The dwarf nodded, though the bulk of her attention remained on… whatever she was doing. The bells in her beard and the metal scale-like plates of her armor continued to make a cacophonous racket—as though she was in battle—but Ranthia couldn’t discern just what the woman’s Skills were actually doing with the Sound. Some elements were less visible than others, much like the Miasma classer.
+
+Ranthia pursued the shimagu that had been closest to the fallen legionaries. The group had tried to melt back into the roiling tides that served as the shimagu’s battle lines, but they hadn’t had the sense to scatter. In mere moments, Ranthia closed in on the scarred ogre that stood out so readily. And once she was close enough, her dance carried her through the group. Her Void-kissed knives took the throats of an infested human and dwarf before the shimagu even reacted.
+
+[*ding!* You have slain a human [Scout of the Legions] (Wind, level 503), [Light of Foot] (Light, level 439)//a shimagu [Unit Leader] (Ooze, level 519), [Swift Blade] (Gale, level 481), [Apprentice Equipment Restorer] (Metal, level 18)!]
+
+[*ding!* You have slain a dwarf [Bold Battler] (Mantle, level 387), [Bludgeoning Enthusiast] (Mantle, level 382)//a shimagu [Splattermaster] (Ooze, level 398), [Stone Slinger] (Earth, level 404)!]
+
+The other four shimagu that had been in the same unit turned to her, shouting meaningless threats, but Ranthia was already dancing away from them. The twin had decided to join the fight. An arrow, embroiled in Dark energy, sank into the ground where she had been moments before.
+
+The ogre leapt off his tower—firing another, equally ineffectual, arrow as he descended—then raced across the battlefield as he switched to his twin swords. Ranthia danced to meet him, confident in her level advantage. She knew that she needed to make her latest twin kill quick; he wasn’t the deadliest threat the shimagu had fielded.
+
+Other shimagu tried to interfere, of course. [Mages] hidden within their hosts unleashed a barrage of elements at her, especially as she moved away from the press of flesh. It forced Ranthia to favor evasion as she danced. Rocks and shards of metal were the majority of what came her way, which could be erased by a sweep of her knives or deflected with her adamantium bracers, but there were nastier things mixed in that needed to be avoided.
+
+Fortunately, few amongst the shimagu could compete with the combination of her speed—which had surpassed seventy-three thousand—and her dexterity. Fifteen years ago, Ranthia had joined the ongoing conflict as a War Ranger, confident and cocky, with a dance that was firmly grounded in human rationality. Somewhere along the line, that had ceased to be the case.
+
+Ranthia twisted and contorted as she moved, letting spikes of Lava and blobs of Acid sizzle harmlessly past. Her knives moved fast enough that many on the battlefield only saw them as expanses of dark grey metal that deflected dozens of projectiles at once. At her full speed, most of the conflict seemed to be moving with casual slowness.
+
+An alpha strike, meant to definitively cripple—if not outright kill—her failed to even draw more than a single bead of blood. The abrasion to her arm was so mild that Ranthia failed to even notice it as she redirected the twin’s first strike.
+
+His Dark elemental power washed over his swords like they were coated in viscous ink, but the Dark blot parted where it met her Void. Her magic stats were out of balance, giving her Magic Power to spare—which meant her opponent’s steel fared poorly in their first exchange. A large ding marred its edge, though the coating of Dark hid the damage a heartbeat later.
+
+The twin stumbled away from her onslaught, a thick groove erased from his chest plate by her follow-up strike.
+
+“<The troll my killed more power.>” Ranthia taunted expertly in the shimagu tongue.
+
+“<What?>” Her opponent blustered, undoubtedly shaken by the revelation.
+
+“<I will be correct. It shall be me that will do did.>” Ranthia smiled viciously.
+
+Her opponent muttered something about understanding, before he tried a new Skill. Rocks formed around his feet, juking him to the side, before suddenly driving the twin forward—pulled by the stones at his feet, while he remained in a ready stance.
+
+Under better circumstances, Ranthia would have loved to practice her mastery of the shimagu tongue more. She was confident that every word she spoke was, at the very least, coherent. And learning High Elvish had finally allowed her to figure out some of the more arcane rules that governed the lackluster language of her enemies. She just needed to learn the meaning of more words.
+
+Unfortunately, even if her opponent was willing to engage in nostalgic shit-talking, she had to hurry. The dwarven [Battlemaster] was on the hunt, but Ranthia needed to help find the Miasma classer before they lost more people. The element undeniably had outsized power on a crowded battlefield—unless the parasite possessed a frightfully high level—to be able to drop an entire battle group in one shot.
+
+Ranthia met the twin’s Dark-touched blades with her own Void-kissed knives. He had better reach, but she outclassed him in almost every other way. His movements were trained, but the shimagu’s combat arts were largely still nascent—it was all too easy to deflect his rigid strikes. His (presumably) Mountain-aspected movement Skill was more impressive than his own footwork, but she was still faster to move and to react. It was the rare classer that could punch up hard enough to make the difference between their levels and, for once, the fight was undeniably hers to lose. He was never going to best her with what he had shown, but she remained leery about what surprises his parasite hid.
+
+Yet after the fourth clash, the only thing that changed was that the scowl on the ogre’s face deepened with each failure. Her opponent’s Skill let him pivot and turn fast enough that she was struggling to land a properly fatal blow, but the parasite’s own elements had remained conspicuously absent. Not even the Ooze element that each of the slimes shared had made itself known.
+
+It seemed impossible, but Ranthia found herself wondering if the ogre was inexplicably free yet still chose to fight alongside the shimagu. It was nonsensical! If the ogre was so loyal, giving him a shimagu partner would elevate his combat prowess. Yet Ranthia struggled to imagine why the parasite would continue to hide its capabilities, even as she outmatched its host.
+
+A long sliver of steel hurtled harmlessly off to the side as she shortened one of her opponent’s swords by a few fingers, but he managed to slide away from her counterattack. She was wasting too much time on the increasingly mysterious ‘twin,’ but he was dangerous enough that she couldn’t just ignore his presence. She was able to no-sell his Dark-imbued strikes, at least so long as she met them with her Void, but he was undoubtedly powerful enough to threaten most of her allies that fought a stone’s throw away.
+
+[*ding!* Your allies have slain an ogre [Seeker of Fish] (Water, level 399), [Diver of the Depths] (Ocean, level 365)//a shimagu [Patient Pestilence] (Ooze, level 402), [A Breath of Death] (Miasma, level 513), [Adult of Pallos] (Wind, level 7)!]
+
+The notification broke through her desire for the System’s silence, carried by the single word she had established as an exception: Miasma.
+
+Ranthia leapt backwards, rolled, then thrust off the ground to throw herself even further away from her opponent while she stole a moment to survey the battlefield. Astride what felt like a sea of bodies, the dwarven [Battlemaster] was still driving both of her hollow swords through the upper torso of an ogre, even as the Sound waves tore both him and his malicious parasite asunder. But the brave woman’s expression was both triumphant and vacant. She and the bloodied remains of her victim crashed to the ground, and neither rose.
+
+Fuck! Rage and regret threatened to overwhelm her rationality, but Ranthia strove to wield them productively. Her opponent closed in again, but instead of venting her frustration on him, she watched his approach. The rocks that had locked around his feet carried him forward, as though he slid across the world unperturbed by the rough terrain.
+
+Ranthia needed to disengage, which meant she needed to disable the twin. She feigned distraction until the instant the Dark [Ranger] arrived, then abruptly lashed out with her knives to meet both his outstretched swords. Sparks and shards of steel flew as her blades scraped along the edges of his. For the first time, she pitted her strength—assisted by [Higher Power]—directly against his.
+
+She pried her opponent’s guard open, then lashed out with a snap kick, aimed at her opponent’s leading foot. Her sandal tore—she still hadn’t gotten the armor Skill she wasted chaotic potential on when she built [She who Dances with Chaos]—but the stone shattered and scattered an instant before she crushed the ogre’s toes.
+
+Her opponent howled in pain, even as his other leg shot past the limb she halted. The alleged twin’s arms flailed as his balance failed. He had enough combat sense to keep hold of his weapons.
+
+Not that they did him any good that far out of position.
+
+With a final pirouette, Ranthia side-stepped her flailing opponent and swept her Void-kissed knife up through his armpit. Her blade cleaved the comparatively frail ligaments of his shoulder. And [Echoes of Devastation] concluded her bloody work.
+
+The ogre’s arm tore free of the thin layer of remaining tissue shortly before her opponent crashed into a cluster of his own people.
+
+But Ranthia couldn’t stay to try to finish him off—she had to reach the dwarven [Battlemaster] before the shimagu managed to finish off the heroic woman!

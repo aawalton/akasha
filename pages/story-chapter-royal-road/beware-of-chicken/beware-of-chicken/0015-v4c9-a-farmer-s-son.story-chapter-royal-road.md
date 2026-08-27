@@ -1,0 +1,207 @@
+---
+id: a395c10e-8a45-5366-8d99-d281eddc2d86
+page-type-slug: story-chapter-royal-road
+title: "v4c9: A Farmer's Son"
+slug: 0015-v4c9-a-farmer-s-son
+partOf: beware-of-chicken
+position: 15
+ownLength: 2304
+unit: words
+ownProgress: 2304
+publishedAt: 2023-05-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1219827/v4c9-a-farmers-son"
+royalRoadId: "1219827"
+markedReadAt: "2026-06-29T18:51:49.973Z"
+---
+
+Xiulan looked on as Xianghua addressed her Elders, her face stern. She had recovered well from the turmoil she had been in, and once more she was ready to face the world.
+
+They had spent a week at the Misty Lake Sect, sparring with the disciples and allowing Xianghua to consolidate her hold over things. But now, they were ready to move on. Move on towards Xiulan’s own Sect.
+
+“We shall be gathering in force soon. I shall be continuing onwards with our allies, for my presence is needed,” Xianghua instructed the assembled disciples of the Misty Lake Sect.
+
+“Yes, Sectmaster!”
+
+“Good. Elder Bingwen speaks with my voice until we are together again.”
+
+The older man looked like he hadn’t gotten much sleep. Xianghua had allowed him to see the contents of the crystal—another bold move that seemed to have worked out, because after a long night spent communing with it he appeared completely in support of Xianghua’s plans.
+
+“Your humble servant hears and obeys, Sectmaster!”
+
+“Now! Let us be off!” Xianghua commanded.
+
+They then set off on rafts into the mist.
+
+============================
+
+Two days of travel later they were in a tavern again, far away from the mosquitoes and the reeds.
+
+It had been an unremarkable journey for a change, and Xiulan was looking forward to a drink and some warm food. She continued to hope for that as her group entered, though she felt some concern as she noticed some cultivators of the Jade Leaf Sect already seated and Jin’s eerily accurate warning of cultivator battles in eating establishments came to her mind. They eyed Xiulan’s group warily as they entered, but made no attempt to start an altercation.
+
+Everything looked like it would be quiet—
+
+“Everyone! Listen up!” Tigu shouted from the front of the tavern. Her voice was loud and commanded respect as she stood there with her hands on her hips.
+
+There was instant silence. The man at the counter looked a bit worried.
+
+“Tigu—?” Xiulan started, before she realised what day it was and sighed. She started massaging the bridge of her nose.
+
+Tigu’s piercing yellow eyes walked up and down the patrons, mortals and cultivators alike. “Ahem! Now that I have your attention, I have an announcement to make,” she declared. “Today, my little brother is one hundred days old! Allow me to buy you all drinks in celebration of this great milestone. I ask only for your prayers that his name shall be Kai!”
+
+The mood of the bar instantly swung from cautious to optimistic. Then one patron, already slightly drunk, cheered. “A thousand blessings on Kai!” she slurred.
+
+Tigu ginned, opening her mouth to praise the woman, when Yin spoke up. “And I’ll buy you a drink if you pray his name’ll be Shandan,” the woman said. She smiled brilliantly, and Xiulan knew that at least half the men were instantly smitten.
+
+“Three cheers for little brother Shandan!” they bellowed.
+
+Xiulan saw Yin mouth ‘I’m winning the bet’ at the shorter girl. Tigu’s eyes widened, and she looked like she was about to spit blood at her companion’s foul betrayal.
+
+“What?! Little Sister, you dare? You’re courting death!” Tigu snarled. “Handsome Man! You agree that Kai is the better name, yes?”
+
+She turned pleading eyes onto Tie Delun. He caved instantly and Xiulan sighed.
+
+“I blame you for this,” Xiulan told Rags.
+
+“I didn’t think she would actually do it,” the man defended himself. “It was a joke!”
+
+Xiulan stared at him.
+
+“Okay, I totally thought she would do it,” he admitted, looking shifty.
+
+Xiulan sighed as the bar descended into chaos. Xianghua, to her surprise, elected to stay out of it today. Instead her friend just looked on, amused, and shaking her head.
+
+She looked like she was feeling better at least.
+
+“… so, what’s your money on? Xiulan asked her friend.
+
+“It’s a secret!” Xianghua declared. And clearly, as far as she was concerned, that was the end of it.
+
+===============================
+
+In the Before, at least where I was from, naming your child was as simple as putting a name on a piece of paper. Done soon after birth, and then kept on a certificate.
+
+Here, things were a bit more involved.
+
+“Really? You just sign a piece of paper and that's it?” Meimei asked me as I reached into boiling water to pull out another set of hard boiled eggs.
+
+The kitchen was currently still a bit “under construction”. We had to expand it a lot in order to fit the amount of cooking we did—I had built for a family of four, not fourteen. The prep and storage areas had to triple in size.
+
+“Yeah. That's it.” I replied, transferring them to the red madder root dye. The others I took out and put in the sink. The pipes and a water crystal made the river room a little bit superfluous, now that we could do everything indoors, but I had grown to really like the place—and locking Washy out of the house would just be rude at this point.
+
+“It doesn't sound important enough,” she replied, her brow furrowing. “Is naming your child not a cause for celebration?”
+
+“It's in conjunction with the birth, mostly.” I didn’t really like talking too much about the Before still, but Meimei had asked about the custom so I did my best to answer. “Honestly, this way is better. More fun, at the very least.”
+
+Meimei chuckled. “Yes, Jinhai’s ceremony was quite fun, wasn’t it?”
+
+We had already been to the naming ceremony of Meihua’s child—the one that she and Tingfeng had named after me. Honestly, for all that it was supposedly about the child, a 100 day old kid still didn’t do much aside from sit around and drool, so the entire thing was more about getting drunk with your friends and family.
+
+I snorted as I remembered Tingfeng getting absolutely sloshed. I picked up a bundle of ginger and set it aside, before frowning at it. “You know… this has been bothering me a bit. I know the eggs probably symbolize birth and renewal, but what’s the ginger for?”
+
+“The ginger is supposed to complete the mother’s rejuvenation with fiery Qi,” Meimei answered.
+
+“I’d say you’ve been pretty fiery for a while, love,” I observed, bumping her with my hip. Very fiery. Not that I was complaining. Getting ambushed by my amorous wife after she suggested a walk in the forest was very nice. “I don’t think I could handle you if you get any spicier.”
+
+Meiling leered at me and put on a deep, suitably bandit-like voice. “Oh, but there was such a pretty flower walkin’ around. I just had to pluck it.”
+
+“Kyaaaa,” I deadpanned in a high pitched voice. “My virtue is in danger. Help. Help.”
+
+Her nose wrinkled cutely as she giggled and bumped her hip back into mine.
+
+We worked in silence for another few moments, before Meiling spoke again.
+
+“Are you fine with the name?” she whispered. “If you want something more like the other place uses…”
+
+“The name is perfect,” I said. “Besides, if we did something from the Before it would sound weird.”
+
+“Yuehan sounds pretty good, and not really that strange.”
+
+I snorted at the mangling her accent inflicted on John. It wasn’t like I could talk, though. Without Rou’s memories I would have been even worse. “Naming our kid after your favourite musician?”
+
+It was kind of funny that one of the first words she had learned in English were the Lyrics to a John Denver song. We didn’t really use it all that much, though. I was the only person who knew the language after all, which made it pretty useless.
+
+“He makes good songs,” she said defensively.
+
+“I mean, yeah, he does, but naming our son after him…?”
+
+“It was just an idea. I’m not about to change things at the last minute!”
+
+We continued our lighthearted bickering about names until we were finished.
+
+===============================
+
+We bundled up Little D and took a nice run to Hong Yaowu. Chunky pulled the wagon with Bowu, Noodle, and Washy sitting in it, while the rest of us ran.
+
+It was strange how mundane it felt. Little D seemed to really enjoy it though, giggling for most of the trip as he bounced on my back.
+
+Hong Yaowu was already pumping when we got there. Gou had gone ahead to help get everything ready and I could see the Lord Magistrate and Lady Wu sitting at the head table already, talking with Pops and Uncle Che.
+
+An entire celebration, and an official at the naming of your son. No pressure at all, right?
+
+The first thing we did was pay our respects to Meiling’s ancestors. Normally, we would have done it at my family shrine… but the Rou family still didn’t have anything like that. So instead we returned to my wife’s house, so that our son could be watched over by the spirits of his ancestors as he received his name.
+
+And then he was put on a seat at the head table. Our boy looked a bit confused, but mostly he seemed happy to be there as he looked around, dressed in his traditional red clothes. We paid our respects to Pops followed by the Lord Magistrate, who then cleared his throat.
+
+“Are you ready to begin?” he asked.
+
+All I could really do was nod.
+
+The Lord Magistrate cleared his throat and began to officiate. Normally it would be a minor functionary… but as my teacher, the Lord Magistrate had asked if he could perform this part of the ceremony.
+
+“All in attendance! I would beg your silence, for we shall begin!” His voice cut all the remaining conversation to a halt.
+
+“On the seventeenth day of the Month of the Horse, we come to witness the naming of the firstborn son of House Rou! Scribe Xian shall record this matter for the courts!”
+
+“Rou Jin! Patriarch of House Rou! Tell this servant of the Emperor, what is the name that shall be bestowed upon this boy?” he asked, his voice clear and carrying with enviable ease.
+
+I took a little breath. In the end… we had decided to go with Chunky’s suggestion. It was a little on the nose—but It was a good name.
+
+“The name of my son shall be Rou Zhuye; written with the characters of red and leaf.”
+
+“A name that speaks of the beauty of nature is most auspicious; likening the time of abundance in the harvest,” the Lord Magistrate pronounced. “Then it shall be known! On the seventeenth day of the Month of the Horse, the son of House Rou has been bestowed the name of Zhuye by his father. May his life be long and prosperous. May the heavens bless his path, and may he be watched over by all of his ancestors!”
+
+“May he be watched over by all of his ancestors!” the people of Hong Yaowu intoned.
+
+Then Hu Li stepped forwards with a knife. Normally, his grandmother would do this… but Gou Ren’s mother was the closest thing he had. With delicate fingers, she shaved his head—to cut off the hair grown in the womb and give him a fresh start.
+
+And with that… it was mostly over. His name would be recorded in both Hong Yaowu and Verdant Hill.
+
+Everything else? Well, that was one big party. I stood with Meiling by my side as the Lord Magistrate turned to us.
+
+“Student, may I have the honour of being the first to greet your son?”
+
+“Please,” I returned, bowing.
+
+The Lord Magistrate smiled at my son, my Zhuye, as he approached. He placed a red envelope before him and then clasped his hands together in a traditional greeting.
+
+“It is nice to meet you, Rou Zhuye. May you give me less trouble than your father.” He winked, and my son giggled.
+
+I snorted with amusement, while Meimei chuckled.
+
+Then, the dam broke. One by one, people walked up to say hello to the newly named boy and leave a little present, wrapped in an envelope.
+
+I went to get us some drinks and just watched things. There was only so much new stimulus a kid could take, and both me and Mei were watching for him to start to fuss…
+
+Meimei suddenly frowned.
+
+“Something’s coming.” She said, sniffing the air. “It smells like… oh. So she was awake.”
+
+“‘Was awake’—?” I asked, but was cut off as the low drone of insects that was ever present in the countryside started getting louder, and a black cloud appeared on the horizon.
+
+“Vajra,” Meimei replied as thousands of bees approached us. At first, it just looked like a normal swarm of bees, if a large one. I clenched my fist, ready for anything—until I saw that they were carrying tapestries woven from grass and chunks of honey.
+
+People gaped as the mass descended—and the tapestries and honey were placed beside the envelopes. A crown of flowers was gently lowered onto my son’s head. And a pile of something was laid at his feet… wait, were those mosquito heads?!
+
+The bees formed up into army ranks. Rank upon rank, like infantry lines. And at the head, surrounded by two inch long iridescent bees, was a queen. A queen, who landed and began to wiggle her butt like her life depended on it.
+
+The sound of droning wings surged, in the same cadence as “I pay my respects to Rou Zhuye”.
+
+I just stared. “But… but she got caught in the bath last night. Again.”
+
+“Yup.” Meimei said.
+
+The Lord Magistrate was also just staring at this new development. He sighed and looked at my son.
+
+“That was not a challenge, young man.”
+
+To which Zhuye just laughed and waved his arms about.

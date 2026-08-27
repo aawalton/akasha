@@ -1,0 +1,127 @@
+---
+id: 9c6fb4f6-eda1-5d7b-99ee-0008d7c21401
+page-type-slug: story-chapter-royal-road
+title: "23. Piercing the Veil"
+slug: 0023-23-piercing-the-veil
+partOf: breaker-of-horizons
+position: 23
+ownLength: 2585
+unit: words
+publishedAt: 2020-07-20
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/527163/23-piercing-the-veil"
+royalRoadId: "527163"
+---
+
+Under normal circumstances, I might have been able to give an orderly recount of the events of the past two weeks. Despite — or maybe because of — my manias, I can be highly rational and objective after I've laid things out neatly in my head. But it was hard to tell my father everything when I hadn't even had the time or opportunity to sort through everything by myself, and it was especially difficult to focus since I kept thinking about what he had revealed to me about the orbs.
+
+It took the better part of an hour, with my father patiently redirecting me with probing questions to get the full story out. And although I normally preferred to be alone to process my thoughts, I was actually very grateful for my father's presence on this occasion. Trying to talk about the Prophecy and about Ambrose brought out a dark tangle of anger and indignation, but his methodical and incisive questions helped me unravel the knot and settle into a state of mental and emotional equilibrium.
+
+Of course, that was the kind of thing I could only fully appreciate after it was over. The hour itself was fraught with emotional outbursts on my part, and a lot of mental stress as I was forced to confront the fact that I had been intentionally not thinking about some things, like whether or not my father had helped Reeves perform the mass memory wipe of the Chosen One and the Prophecy. As it turned out, he did have a part to play, which was what helped him develop his orbs. I extracted a promise that he would tell me everything he could.
+
+After he had gotten everything, my father made me another cup of hot chocolate and retreated into his own version of mania as he paced around the study. It was clear where I had gotten that from, but in his case, it was characterised less by an almost-violent need to be alone, and more by a sense of intense preoccupation. My mother had long since learned not to try to talk to him if he was in this state. He could hold a full conversation with you and still not have any recollection of it, so if you told him to do something for you later while he was like this, you were setting yourself up for disappointment. I had actually learned to take advantage of this to extract promises from him to get things I wanted, but Triss was the one who mastered the technique and ended up with more toys than any child had the right to have.
+
+I smiled a little at that thought as I took a bracing sip of the hot chocolate. Everett Dundale was on the case, so I didn't have to worry. There was a surge of gratefulness and affection in my heart as I reflected on how fortunate I was to have a brilliant artificer and a good man for a father.
+
+If he held to his usual pattern, my father would be pacing for about half an hour more. Now that I was a lot calmer, I was reasonably confident that the others were alright. Jerric and Ambrose were the most proficient in the principles of arcanophany, but the other three combined would surely have figured out how to undo the arcanic net. I felt a little bad for leaving them like that, but it was something I could make up for later.
+
+That meant I had time to just sit here and relax for what felt like the first time in two weeks. I hadn't realised until this moment how much tension I had been carrying around in my mind.
+
+A glint of silver beneath the remaining pile of books on the sitting room table caught my attention. I set my cup aside and carefully extracted what was obviously a prototype orb from beneath the mess. A quarter of the outer shell had been removed, revealing the mind-boggling complexity of the construct's interior.
+
+It wasn't a solid sphere. The outer shell was simply the outermost layer. The layers beneath that had been similarly peeled back to allow a peek at the innermost parts of the orb. It looked like my father had somehow managed to fit five layers into one orb. There wasn't any mechanism that bound the layers together, and it seemed as though they were just meant to enclose ever-smaller orbs. Even more amazing was the fact that on every single layer, a fine lattice of glyphs spiderwebbed across the surface. The glyphs on the core were so small that they were barely visible to the naked eye and appeared as little more than flecks on the smooth silver.
+
+I returned my attention to the outermost layer, where the glyphs weren't so painfully small. It took me a few minutes to pick out the glyphs my father had shown me earlier since I didn't recognise any of them at all, even though I had a passing familiarity with the Advanced Sets. With a little burst of arcana, I copied them into the air where I could examine them in greater detail.
+
+There they were. The glyphs referring to prophetic links.
+
+A sense of disquiet filled me. I had been too emotional earlier to notice it, but these glyphs did not... feel normal. I had already noticed during the conversation that just hearing and thinking about the term put a strange weight on my mind. Now that I was paying more attention, I realised that merely looking at the glyph also had a subtle effect. It was like a pale shadow of the rightness I felt when I had been urged by the Prophecy's influence to come and seek out my father, only this time it was without direction or purpose. It was a gentle and insistent nudging at the soul, albeit a senseless one, like the wind softly tugging at your hair from all sides at the same time.
+
+Why didn't the Basic and Advanced Sets of glyphs have this sense of power? I looked at the other glyphs that I couldn't even read and was struck with a growing sense of how little I still knew about arcanophany. How deep did the sea of knowledge go?
+
+My resolve hardened around one tiny core — I would plumb those depths no matter what it took, because my sister deserved a life of her own, free from the shackles of her prophecy.
+
+That thought was galvanized by the realisation that my father was on the same path, too. He wasn't leaving my sister's fate to mundane methods of intervention. No, he was bringing all his arcanophanic knowledge and skill to bear. I hoped I could be half as accomplished an arcanist as he was, even if I might never reach his level of expertise in artificing. If we worked together, surely we would be able to accomplish something.
+
+Time passed quickly as I fell into deep thought and took stock of what I had learned, and considered what my next steps should be. There were so many things to keep track of in my life in the Academy. For the immediate future, I decided that I had to press Ambrose about when he would reveal the fact that he was the Chosen One to the others. There was a lot of (to me) needless complexity introduced by the keeping of that secret.
+
+My father emerged from the study and sank into another chair across me, interrupting my train of thought. He gestured at the prototype orb on the table. "Had a good look?"
+
+"Enough to see how insanely complex it is, and that I still have a lot to learn about arcanophany," I confessed.
+
+"It's only partially about space constraints," he said, falling a little into a professorial tone. "I needed a form that was compact enough to carry since it's meant to be protective. But there's also the arcanic efficiency to consider. When you arrange glyphs in certain patterns, you maximise the effective flow of arcana and create self-supporting structures."
+
+I felt a need to start taking notes, but so far everything was reasonably understandable. The new information was filling gaps in my knowledge I had already identified. It was easy to draw links between the concepts and remember them.
+
+"So a spherical structure is ideal when arranging glyphs?" I probed.
+
+"Not for all purposes, but after a few iterations, I found it to be best for this artefact. It's something you eventually get a feel for when you've designed artefacts for long enough."
+
+"Why the layers, though? Instead of a bigger sphere?"
+
+"Well, again there are space constraints. It's impractical to have a larger orb. But the glyph pattern isn't just working across the surface of one sphere. I've arranged the glyphs to also link with each other between layers. It's a multi-faceted pattern. When it's active, the layers inside are held in perfect synchronous suspension so that sequences are formed along several angles."
+
+I was speechless. That was like writing an acrostic poem and then layering more acrostic poems on top so that all the first letters also formed a coherent poem independently.
+
+"How...?" I trailed off.
+
+"Ten years, like I said," he grinned. "This is as far as I've gotten. They work, in theory. Which is why this meeting is quite fortuitous, because I'm ready for field tests, and I didn't really want to try them out with Triss just yet."
+
+"Fortuitous?" I echoed, my thoughts darkening. No, it wasn't as innocent as that. "Dad, I—"
+
+"I know, Caden. It's the Chosen One's Prophecy at work. For whatever reason, it wants you to be here. And by extension, that means I'm also linked to its fulfilment somehow. We can use this to our advantage."
+
+"But how?" We were running into an intractable problem that had haunted me ever since I started thinking about fighting against Ambrose's Prophecy. Frustration was creeping into my voice. "How can we take independent actions that aren't already subject to the influence of Prophecy? Won't we just end up fulfilling it?"
+
+"That's one theory about prophecies," he said, holding up a hand placatingly. "If that theory holds true, then it does indeed mean that you can never take independent action against a prophecy, especially a major one, and that they are immutable. Do you think that's true?"
+
+"No," I said, calming a little. I already knew this. There was plenty of evidence that disproved that theory. Minor prophecies could and did fail to come to fruition, though it wasn't a common occurrence. And there was historical evidence about at least one major Prophecy being averted. It was just hard to remember all this when the reality felt so very different.
+
+"Yes, so that's an outdated theory that still survives because of how deeply ingrained it is in our general understanding. You already know the widely-accepted theory about how prophecies work — they skew probabilities significantly in favour of an outcome. But the mechanics of it is where it gets interesting." He nodded at the glyphs I had projected.
+
+"What are prophetic links?" I asked, since that was clearly where this was headed.
+
+"The fundamental question to ask is 'what is a prophecy', actually," he corrected.
+
+That gave me pause. I turned the question over in my head, thinking back to the only actual prophecy I had ever seen in person. A piece of paper, rich and creamy, heavily adorned with glyphs. And in the centre, the six words in the common tongue that had pronounced my sister's fate — This daughter shall be your ruin.
+
+"A statement that is somehow given power by glyphs?" I ventured.
+
+"A fair summary. And what are glyphs?"
+
+"The language of arcana," my tongue automatically supplied. But my father shook his head and gestured for me to continue.
+
+I knew what he was driving at. This was a realisation I had struck upon in the first week. Glyphs were not the language of arcana, at least not in the sense that they were some kind of all-powerful universal key to arcana. Celwyn had already told us that glyphs didn't hold some mystical power on their own; they were like words in a mundane language, arbitrary constructs that were given meaning by consensus. And my most recent realisation was that they were tools for limited frame-shifting.
+
+"Glyphs are a common structure for frame-shifting?"
+
+"Yes. Let's connect those thoughts. If glyphs work on the principles of frame-shifting, and prophecies are powered by glyphs, then...?"
+
+"Then... prophecies are... just sequences... that are written to influence probabilities?" I slowly tried to piece them together.
+
+"Which is a good working theory, but it doesn't help us figure out how to undo them. Because we don't know how those sequences work. At least, I don't, even after studying the glyphs."
+
+"Then wh—"
+
+"That's where you come in," he interrupted, getting excited. "You've never flown before. There are constructs of arcana that enable that, but I highly doubt you've stumbled upon them in the library. They're far too dangerous for first-year arcanists to dabble with. And so I asked you how you managed it. Your response, in essence, was that you didn't. It was this friend-in-the-arcana. Do you see?"
+
+The abrupt switch from talking about prophecies to my feat of flying caught me off-guard. I couldn't see the link. "No?"
+
+"You created a construct out of arcana with some sort of pseudo-intelligence," he went on, hardly waiting for my acknowledgement. "The construct then independently shaped arcana, without tapping on any of your knowledge, enabling you to fly, and protecting you from windburn as you hurtled through the air."
+
+I thought I had a dim idea of what the link might be. But my father didn't stop — he was caught up in the flow.
+
+"With frame-shifting alone, unguided, you managed this. What if a Prophecy works by directed frame-shifting to create a construct in the arcana that then goes on to influence people and the environment in order to nudge events towards its own fulfilment?"
+
+I arrived at that conclusion the moment he said it. If I hadn't been sitting down, my legs would probably have given way.
+
+That brought us to the glyphs referring to prophetic links. "So that," I gestured, "... actually refers to the... appendages? Of that construct? Or whatever it is that it uses to manipulate people and the environment."
+
+"It seems so. I didn't know how prophecies actually worked, and so my research focused on fighting its influence. It is like treating the symptoms of an illness instead of the underlying causes. But you might have just provided the other half of the picture. If we can attack a prophecy at both its source and its point of effect, maybe we can erase a prophecy entirely."
+
+There was a heavy silence in the air after he said that. Despite the fact that he had probably already thought this through earlier, I think he only just heard what he had said and realized what it meant. I stared at him, and he stared back at me.
+
+A knock at the door startled us both. Dazed, my father got up and went to answer it. I stayed in the chair, still reeling.
+
+"Professor Dundale," a smooth voice said. "So sorry for popping by unannounced, but I was wondering if we could have a word inside?"
+
+"Y-yes," came my father's shaky reply. "This way, Demiurge."

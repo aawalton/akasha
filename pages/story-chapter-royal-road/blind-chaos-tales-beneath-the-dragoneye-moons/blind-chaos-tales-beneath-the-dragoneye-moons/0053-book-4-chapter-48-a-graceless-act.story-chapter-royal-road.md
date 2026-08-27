@@ -1,0 +1,369 @@
+---
+id: 0ec57516-5ec5-5e74-9d64-bcb55119c18f
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 48 - A Graceless Act"
+slug: 0053-book-4-chapter-48-a-graceless-act
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 53
+ownLength: 5839
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2996336/book-4-chapter-48-a-graceless-act"
+royalRoadId: "2996336"
+---
+
+Ranthia was racing against the sun’s descent, but she also had a desperate need to stop thinking. As such, she tried to focus on practicing with [Divine Eyes in the Void] while she rushed across the wasteland on her way back to Spearpoint. There was a lot that she hadn’t learned about her Skill, which made it almost as great an attention sink as she needed it to be.
+
+There were some odd quirks to the Skill. The [Divine Eye] (still singular) was allegedly fixed to the core of her being, but some unstated effect prevented it from jiggling up and down as she moved. Even her actual eyes did that—which wasn’t something she’d ever consciously taken note of until she realized the Skill behaved differently. Unfortunately, once she became aware that her vision from her actual eyes jiggled around while she moved, she couldn’t stop noticing it—which renewed the nausea that her doubled vision caused.
+
+But she was acclimating to having doubled vision. The process was slow—oh so slow—but she tried to force herself to keep her eyes open while she danced through the barren, cold terrain. …She really should have brought her traveller’s cloak when she set out for her “scouting mission.” Meh, she could endure a bit of a chill, she had the vitality for it!
+
+Roughly halfway through her journey to Spearpoint, Ranthia decided that she was ready. Getting used to having her vision doubled wasn’t tactically useful, but the great thing about [Divine Eyes in the Void] was she could move the Skill’s focus without moving her body! With dreams of never fearing an attack from behind ever again, Ranthia swung the [Divine Eye] behind her.
+
+And immediately—without a whit of grace—faceplanted into the ground. Vertigo had overwhelmed her and left her retching and dry heaving, which meant she wasted a couple of precious minutes, unable to do much more than curl in on herself with her eyes—all three of them—firmly shut.
+
+Okay, that had—quite clearly—been a bit too ambitious.
+
+Ranthia forced herself back to her feet and started moving again, with only her [Divine Eye] providing sight. The Skill was strangely resistant to being ‘shut,’ to the extent that it took constant, conscious effort to do so. Her actual eyes, on the other hand, were easy to keep closed until the nausea finally left her.
+
+Ranthia adjusted her blindfold and dusted herself off as best she was able while she returned to the speeds she’d been moving at prior to her collapse. At least she’d managed to bleed her momentum before she went down, otherwise her armor would have—
+
+Wait, her blindfold! She could still see through it! [Divine Eyes in the Void]’s description made her assume every function of [Vision of the Void] had transferred to the free-floating Skill, but that wasn’t the case! With effort, she forced the [Divine Eye] to shut again and grabbed her backpack.
+
+[Vision of the Void] had been able to see through its material before, yet when she tried to stare through it with her own eyes, all she saw was… backpack. That was strange. Clearly, her eyes still retained some capacity to see through objects, but it wasn’t anywhere near as potent as it had been. While [Divine Eyes in the Void] had already proven itself able to see through far more than she could before her Skills merged and evolved—it could see through almost everything except the metal safe box and the steel plating of her armor.
+
+The sun wasn’t quite low enough in the sky for her to say if her night vision remained, but Ranthia could test that once she got back to Spearpoint.
+
+Besides, with her nausea settled, her stomach started to remind her that she hadn’t eaten in over a day—which made it a lot harder to focus on her experiments with her second newest Skill.
+
+The sound of battle no longer reigned over Spearpoint’s vicinity, but the area wasn’t any quieter. The base was gripped in the throes of the wildest celebration Ranthia had ever seen (or heard). The entrance to the base was all but undefended and the few legionaries that were stationed there lustily—as opposed to lustfully, though there was probably more than a bit of that too—greeted her and waved her through. There wasn’t even a [Healer] stationed with them!
+
+The setting sun painted a dazzling flair of colors throughout the sky, but Spearpoint provided its own spectacle. A mostly nude young woman was the first to recognize Ranthia’s Sentinel badge and eagerly flounced over to shove a metal mug of beer in her general direction—cheering the entire time. From there, legionaries, vendors, and even a pair of dwarves continued to hand Ranthia food and drink as she tried to make her way through the densely packed crowds. By the time Ranthia finally reached an open gate to the inner fortress, she was struggling to carry everything that she’d accrued. The massive chunk of smoked dinosaur meat was delicious, but beyond that, she had a rack of dino ribs that were leaving a trail of sauce in her wake, four mugs of different beverages (three of which were alcoholic), a baked sweet, a cloth pouch filled with fried vegetable sticks, two mangos, a pouch of candy, an entire roasted chicken, and a pouch that was filled with…
+
+Purple Flower. Seriously?! What kind of idiot hands a Sentinel a pouch of illegal drugs?!
+
+For a second or two, Ranthia weighed her temptation to use [Chest of Experience] to try to figure out exactly who had given her that… Before she shrugged and tossed the pouch into the nearest pile of refuse. She was content to let the people have their celebrations; they truly deserved their moment of happiness and bliss. The Legions had been treated as if they were utterly expendable for Xaoc knew how long, but the war was all but done—and everyone deserved a chance to reaffirm that they were still alive. There would likely still be some death in the coming days, but the shimagu were undoubtedly about to surrender—assuming they hadn’t in her absence.
+
+From there, they would find a path forward for coexistence with the shimagu—and a way to free their hosts. She just had to hope that it wouldn’t immediately be followed by a betrayal of their closest allies. Khazad had sent many of its best to them in their hour of need; she didn’t want to believe Remus or Night would betray that bond.
+
+…Her mood somewhat soured, Ranthia chose to perch atop a (probably) empty crate while she attacked the food she had amassed. Darkness hadn’t quite fallen, so she had a precious moment. And if she was about to walk into another fight, she needed to be fortified—she’d neglected her body for too long already.
+
+Ranthia’s hunger and thirst were fully sated—if anything, she was a touch overstuffed—by the time she entered the building that housed the Sentinels. …And whatever else the building was used for; she hadn’t exactly explored it.
+
+She had never really formed a plan, but she needed answers. Her fears were still unfounded; all she had was a damning theory.
+
+The best-case scenario was that Night had some in with the dwarves that had surrounded the King Under the Mountain and got the information… long before the man’s own kin did. The best-case scenario was basically wishful thinking, but assuming it was true, Night would correct her misunderstanding when she confronted him. He would likely be displeased, but she expected him to patiently explain before he sent her on her way to rest.
+
+The worst-case scenario, of course, was that she was right and Night had personally murdered numerous people from both their own empire and their allies in pursuit of some twisted agenda. If she confronted Night and he attacked, the battle would be… interesting. Ranthia had a massive level advantage, but Night was still faster and stronger than she was. Yet no matter who won, the ‘victor’ wouldn’t emerge unscathed. …In all honesty, the most likely result would be a Pyrrhic victory for her—with Black Crow coming for her shortly after he harvested Night.
+
+No, that wasn’t likely. Night would probably come to the same conclusion. If he deemed her to be a problem that he needed to remove, he’d… probably feign disappointment and patiently offer a reassuring explanation before he sent her on her way. And, at some point when she wasn’t expecting it, he’d strike while she was asleep or classing up.
+
+……The best- and worst-case scenarios were identical, at least from her point of view. She had no way to know which was which! Worse, most scenarios would likely have a similar outcome. Unless Night inexplicably chose to read her in on his sins—or those of the empire, whichever was the truest culprit—she would walk away without a clue if there was a knife at her back.
+
+Was [Divine Eyes in the Void] strong enough to overcome an immortal assassin’s concealment Skills? She’d briefly been able to completely see through the copper-haired elf’s Mirages, yet once the woman gained several levels in her first class, they reappeared. But the copper-haired elf had mostly out-leveled Ranthia, whereas Ranthia mostly out-leveled Night. Though Xaoc alone knew what the man’s class qualities were like…
+
+But Ranthia was leaving one possible advantage on the proverbial table. Her third class had been ready to class up for a long time—and Ranthia finally had her answer for why it had suddenly started to level once she finally started acting like the [Priestess] she truly was. So long as Xaoc saw fit to offer her another divine upgrade—and somewhat depending on how many levels were awaiting her class up—she just might have enough stats and Skills waiting to change the dark arithmetic that awaited her if she made a wrong move.
+
+Ranthia changed course and briskly followed the labyrinthian halls to the room she shared with Sentinel Grey—and by lucky fluke, she caught the drab woman just as she left the room, carrying a bundle of oversized scrolls.
+
+“Grey! Great, I was hoping to catch you—I need a favor.” Ranthia wasn’t entirely used to forcing a sunny smile onto her Sentinel Grace persona—she just hoped the results were palatable.
+
+Grey was definitely a potential co-conspirator—assuming Night actually was killing their own allies—but she was sunk if she started distrusting her own peers. Besides, no one had any reason to suspect anything amiss with her.
+
+“Grace? I am in a bit of a hurry, so…” The grey woman’s displeasure at Ranthia’s timing was obvious enough.
+
+“You can tweak this structure, right? I was hoping you could seal the room after I enter. My third class got the last level it needed a bit ago, and I’d love to go ahead and finally class up. Buuut, there’s no bar on the door and…” How was she supposed to keep an explanation quick and act unbothered at the same time?!
+
+“Fine. Just go inside and I shall make the door impossible to open for a time.” Grey ordered.
+
+Ranthia offered a grateful bob of her head as she stepped into the room and closed the door without visibly hurrying. Almost the same instant that it closed, the door turned grey (of course the woman’s Skills turned things grey) and Ranthia found herself unable to even lift the metal ring to try to tug the door open.
+
+For the moment, she was safe and secure—she had to be.
+
+She took her backpack off and wrapped her arms around it while she settled onto the bed she was using. And after a deep breath (or eight), she activated her class up before she could talk herself out of doing it.
+
+“Not this class again.” Her guide was already grumbling from the first instant Ranthia manifested in her world within.
+
+Not that she really blamed the other woman—herself, whatever—for having such a reaction. Her third class had consistently been… weird. The class updates for it undeniably had behavioral quirks. And her classes were represented by swords—‘behavior’ was not a trait that anyone wished swords to possess.
+
+Unrelatedly, it was strange just how much she was already missing having access to [Divine Eyes in the Void]. But she never had access to her Skills while she was in the world within.
+
+“Well, I guess we’ll see what happens? Begin the hunt, o’ master of this domain!” Ranthia wasn’t entirely sure why she was putting up a front of good cheer with her own guide—or with herself.
+
+Which was probably why the woman—a practical twin to herself, clad in unfamiliar white-and-silver lightly armored garments—leveled a flat stare at her before she turned to explore the racks.
+
+Ranthia took a deep breath… and found herself smirking when she reopened her eyes.
+
+“That was fast.” Ranthia projected her words to make sure her guide heard, not bothering to mask her amusement.
+
+Her guide whirled back to face her—and immediately spotted the two short swords that had materialized. Each blade impaled the counter, angled so they crossed one another.
+
+“That better not leave holes in my counter!” The woman snarled at the nearest carving of Xaoc.
+
+“Xaoc, she doesn’t mean it!” Ranthia hurriedly offered a quick prayer to her god to apologize for her guide’s—her own?!—blasphemy, glaring at her counterpart the entire while.
+
+“I absolutely mean it. God or not, I will seek revenge.” Her guide promised.
+
+…
+
+Ranthia refocused on the swords—it just felt safer. Both blades had hilts wrapped in beautifully blue fabric—proof that they were sent by Xaoc—and had pommel stones of finely carved labradorite (Avyna had found her previous familiarity with gemstones wholly unacceptable) with beautifully iridescent sheens. But that was where the similarities between the two swords ended. The blade on the left was far more artistically wrought—with intricate detailing that evoked leaves, as though it captured a scene from a forest. The blade on the right was a standard-issue short sword like those the Legions of Remus used, specifically one made of dependable steel.
+
+Interestingly enough, both blades were wholly out of place in the armory of Ranthia’s world within. Every other blade she had ever seen had been a short sword, yes, but their design was far more archaic than those Remus used—let alone the elaborate, curved sword that rested alongside the Reman one.
+
+“[Imperial Priestess of Chaos].” Ranthia vocalized the sword of Remus’ class name as she absorbed its story. The class embraced the duality of her existence as a [Priestess] and as a Sentinel. Whether she was proselytizing in a temple or at the head of a Legion, the class had her covered. [Sentinel’s War Supremacy] would even become a Class Skill and receive upgrades that would help her to protect those that followed her lead.
+
+It was powerful. It was everything she would have wanted.
+
+“[Adventuring Priestess of Chaos].” Ranthia’s interest in the second class deepened the moment she touched the exquisite sword. There was no other way to put it—the class freed her from the shackles of obligation to Remus and urged her to explore Pallos. [Sentinel’s War Supremacy] would once again become a Class Skill, but it would be cannibalized—and, by necessity, downgraded—to become a new Skill, one that was properly tied to Xaoc and wholly unconnected to the Sentinels as an organization.
+
+“Well, doesn’t this just perfectly encapsulate everything that I’ve been freaking out over?” Ranthia didn’t even try to hold in her (only mildly hysterical) laugh.
+
+Gods and goddesses, how telling was it that there was no class that let her wander Pallos as a Sentinel? At some point she’d stopped pretending she would ever truly have that option. It didn’t necessarily mean that it wasn’t possible, just that the System—and possibly Xaoc Himself—accepted that she had given up on it.
+
+“Do you wish to talk it out?” Her guide offered.
+
+“Why not! I suppose this comes down to two questions: One, has Night—and-slash-or Remus—truly betrayed our allies to weaken them right before the war finishes? Two, what in Xaoc’s name do I intend to do about it?” Ranthia bitterly spat the questions out.
+
+She was in the one place that no one could hope to overhear her.
+
+“I disagree. There is a greater question that you need to figure out: what are you?” Her guide leaned forward, her palms flat on her counter, and looked Ranthia in the eyes.
+
+Their faces were separated only by a finger’s width. It was strangely intimate, considering her taciturn counterpart’s usual behavior.
+
+Which forced Ranthia to truly consider the words. She was arguing with herself, yes, but that was exactly what introspection was—it was just usually a touch less literal.
+
+“I… By Xaoc, you’re right. It’s right there in the name of each class—I’m a [Priestess] either way. Which, yes, I’m stoked and it’s still exciting. But am I a pawn of the empire, or…” Ranthia trailed off, searching for the words she wanted.
+
+“Are you an Adventurer?” Her guide whispered.
+
+…They weren’t the words that Ranthia had sought, but they were exactly the words she needed.
+
+“No matter what Night says to me, I can’t trust him again. Not like I used… not like I had hoped to. If anything, it probably says a lot that all it took was a single theory—one that’s both crazy and unlikely—to annihilate the trust I had cultivated over… almost ninety-six years. The man’s even saved my life—more than once!—and yet…” Was she rambling? It felt like she was starting to ramble.
+
+“Calm down and think. Why did you become a Sentinel?” Her guide’s tone was atypically gentle.
+
+Ranthia… hadn’t chosen it, not truly. It had been thrust upon her over games she scarcely understood—like so much else. Sure, she had willingly entered the Ranger Academy, but… Even then, could she truly say she’d dreamed of becoming a Ranger? She’d received the offer as part of an opportunity to bolster the reputation of Adventurers, but that wasn’t why she’d joined. Hexara had… encouraged her path, but more than anything she just enjoyed helping people. And at the time, she’d convinced herself that she could do more to help people as a Ranger.
+
+But that wasn’t the truth of the world. She was just as capable of helping people—truly helping people of every culture and species—as an Adventurer. …If anything, she was more capable of lending a hand to those that needed it as an Adventurer than she was as a Sentinel!
+
+Her guide was wrong on one matter; it wasn’t a question of if she was an Adventurer or if she was a Sentinel—she needed to look further than that. After all, she hadn’t necessarily chosen the path of an Adventurer either. It had been her best option, but Tatius and Pupius were the ones that chose to become Adventurers—back when she had been wholly dependent on the kindness of those wonderful men.
+
+But even as a child—even when she had struggled to make anyone take her seriously—she had fallen in love with the lifestyle. Wandering Pallos on her own terms (or, at least, as close to that as she could come without starving to death without a coin to her name) truly spoke to her at the deepest possible level. She had never felt a similar sense of belonging, with the exception of the night that she discovered how beautiful dancing could truly be.
+
+Then, once she became a Ranger, she accumulated bitterness and dark memories that she would be happy to forget. For a long time, she’d blamed that on Leoios’ poor judgment and Hexara’s so-called betrayal, but those had merely contributed to the bitterness. Thanks to her [Mind Healer]’s efforts, she was finally ready to admit to herself that she had suffered from a lack of control over her own life ever since she started to attend the Ranger Academy. She had gained so much—mentors that she cherished almost as much as her fathers, friends that she would never allow herself to forget, and fond memories of the good that she had brought to those in need.
+
+And she had also become a tool under the power of others. Through their petty games, she was forced into a war she had never signed up for. Green had tried to warn her, but she’d been too wrapped up in her own self-importance. She invented ideals of duty and obligation to convince herself that she would somehow matter on a scale beyond what she could ever hope to reach with her knives. …Gods and goddesses, she truly never had appreciated Green near as much as the wise woman deserved.
+
+Naturally, those in charge of the Legions abandoned them almost immediately. It wasn’t out of malice, it was ‘just’ the product of indifference—she and the others assigned to what became the Unbreakable Image had never been anything more than numbers on a scroll to those damned men. Then, after Ranthia and her people struggled to survive, those same men tried to make her a scapegoat for her friend’s death—which forced Night to intervene and make her a Sentinel. Had he not, she would have likely attacked the generals out of misplaced fury over the plight of her people and the loss of Statia. The best of intentions would have reaped the worst of consequences—she and every last one of her people would have likely died that night.
+
+And in the process, they could have cost the Coalition the war.
+
+As she reflected on her life as a Sentinel, she struggled to separate her career from her life with Avyna. The elf had been the light of her life, and Ranthia had turned her into a reason to endure the misery and frustration of her unrequested career. She’d come so close to twisting the most precious thing she’d ever known into something self-destructive. It was easy to say she might have been happier had she refused to become Sentinel Grace and just left, but there was a real risk that she might have never met Avyna without accepting that offer.
+
+Though if she had… They might have left Remus and the war long ago. Perhaps in that reality, Ranthia would have been allowed to accompany Avyna through whatever her opportunity demanded of her.
+
+Heh, wishful thinking.
+
+But she had her answer, and it wasn’t as complex as she had expected it to be. In the end, her guide had been right—the true answer lay in who and what she wanted to be. What truly reflected her soul. She was a [Priestess] in service to Xaoc, yes—and that was important. But she was more than that one role. She was a woman in love. She was a survivor that loved to explore and learn new things about the world around her.
+
+She was an Adventurer.
+
+Ranthia leaned forward and pressed her lips against the guide’s—the woman would hate it, but she deserved a grateful smooch—while she grasped the finely crafted blade that was unlike any she had ever seen. By the time her sputtering, indignant guide pulled away, the blade that represented Ranthia’s [Harbinger] laid across the unblemished counter, and the alternative to the path that Ranthia chose was gone.
+
+[Adventuring Priestess of Chaos – Magic Metal]. You have lived a life of diverse paths. You have explored duties and obligations. You have accrued and discarded wealth. And now the time has come to seize the path that you would define yourself with—a true culmination of all that you have experienced. Travel Pallos and explore the cultures and civilizations that you have never known. Venture forth and carry the word of Xaoc with you. May you spread His name far and wide! +27 Strength, +258 Dexterity, +176 Vitality, +169 Speed, +205 Mana, +193 Mana Regeneration, +98 Magic Power, +121 Magic Control.
+
+[*ding!* Congratulations! You have upgraded your third class – [Adventuring Priestess of Chaos – Magic Metal]!]
+
+The class name brought a smile to her face. Truly, returning to her Adventuring roots spoke to her in a way she had long denied.
+
+[*ding!* Congratulations! [Adventuring Priestess of Chaos] has leveled up from 256 to level 269! Per level: +27 Strength, +258 Dexterity, +176 Vitality, +169 Speed, +205 Mana, +193 Mana Regeneration, +98 Magic Power, +121 Magic Control, +1 free stat for being human, +1 Strength and +1 Magic Power from your element.]
+
+[*ding!* [Magic Metal Authority] has leveled from 256 to level 269!]
+
+Eh, not bad, but not as many levels as she’d hoped to gain.
+
+[*ding!* Your Skills [Adamant Commander] and [Adamantium Symbiosis] have evolved into [Adamantium Chaos]!]
+
+[Adamantium Chaos]: Through you, chaos has come to that which denies change. Firstly, you may bond with adamantium that has fallen under your control to improve the ability to affect the magic metal with your Skills. Secondly, you may manipulate, reshape, and break down adamantium within range. Thirdly, you may attract adamantium to your person or choose to repel it from your vicinity. Increased range, finesse, force, and potency per level. Increased volume of adamantium that may be bonded per level. Increased speed and complexity for restructuring bonded adamantium at certain levels. Note: You may not unattune adamantium that is affected by this Skill.
+
+[*ding!* [Adamantium Chaos] has leveled from 256 to level 269!]
+
+Huh, nice to have a slot freed up. Though the bit about being able to attract or repel adamantium having its own section suggested it was a new function—she’d have to test that.
+
+[*ding!* [Priestess of Xaoc] has leveled from 256 to level 269!]
+
+[*ding!* Your skill [Mine!] has evolved into [Divine Seeker]!]
+
+[Divine Seeker]: You shall innately sense the presence of adamantium and what direction it is in, with vague impressions about its distance, volume, and purity. Increased range for initial detection per level. Adamantium that is bonded to you has a significantly increased range of detection. In addition, Xaoc and those He authorizes may utilize this Skill to direct you to missions of divine importance. -1701 Mana Regen Rate.
+
+That was almost distractingly exciting, though it didn’t seem like Xaoc had any tasks for her just yet. Also, [Divine Seeker] was a much better Skill name than [Mine!]!
+
+[*ding!* Your Skill [Unbreakable] has merged into [Higher Power]!]
+
+[*ding!* [Higher Power] has leveled from 256 to level 269!]
+
+Oooh, two Skill slots!
+
+[*ding!* Your General Skill [Sentinel’s War Supremacy] has become eligible to be changed into the Class Skill [I am the Priestess; I am the Champion]! Notice – The level for this Skill will be decreased. Would you like to proceed?]
+
+Gods yes, that was the whole point of the class she chose! Farewell Skill Slot #1.
+
+[*ding!* [Sentinel’s War Supremacy] has been changed into [I am the Priestess; I am the Champion]!]
+
+[I am the Priestess; I am the Champion]: There may be those that say you betrayed humanity, but you never truly served humankind in the first place. You are a Priestess in service to Xaoc, but you are also a Champion that He may depend on. You possess both the power and the will required to resolve problems with your own might and cunning, and by His will this Skill shall aid your efforts. Provides a 0.01% boost to the effective level of almost all Class Skills per level. In addition, you will receive increased combat prowess and physical fortitude per level. -1984 Mana Regen Rate.
+
+[*ding!* Notice – [I am the Priestess; I am the Champion] has lost levels from 758 to level 269!]
+
+Honestly, she wasn’t even mad about the lost levels. Accepting the Skill felt as though it lifted a burden from her shoulders—and it affirmed that Xaoc could depend on her!
+
+[*ding!* You have unlocked the Class Skill [Adamantium Will]!]
+
+[Adamantium Will]: You have chosen where your loyalty lies and where your services shall be focused. Never be shaken from your convictions again. Increased willpower and mental fortitude per level. -73 Mana Regen Rate.
+
+[*ding!* You have unlocked the Class Skill [Absolute Focus]! Would you like to replace a Skill?]
+
+[Absolute Focus]: While praying, you have greatly increased physical fortitude, endurance, and resilience per level. Your focus is so absolute that almost nothing can distract you from your piety. -3291 Mana Regen Rate while praying.
+
+[*ding!* You have unlocked the Class Skill [Dedication to Xaoc]! Would you like to replace a Skill?]
+
+[Dedication to Xaoc]: As a Priestess, you have a duty to provide mana to Xaoc through prayer. Do so with gusto. While you pray, your maximum Mana and Mana Regeneration are temporarily increased. Your Mana and Mana Regeneration stats are temporarily increased by 0.15% per level. In addition, these effects will linger for an additional 3.6 seconds per level once you conclude your prayers to Him. Any excess mana is lost when these effects expire. Note: This Skill requires eight minutes of prayer before it activates.
+
+Okay, those required some thought.
+
+But first, she needed to take a deep breath—she had a lot of changes to assess. [Adamantium Chaos] wasn’t just a merged skill; it was an evolution which brought new functionality. The obvious use for being able to attract and repel adamantium was to defend herself if someone else attacked her with the metal, but it might help her get more force behind the knives she threw too—which she needed to test as soon as she found an opportunity to do so.
+
+As for the other two Skill evolutions (well, change in the latter case), it was hard to figure out which excited her the most!
+
+[Divine Seeker] was the kind of Skill she had dreamed of her entire life—proof that Xaoc considered her worthy of tasks that needed to be carried out! Also, she would never have to suffer the mild indignation of having a Skill named [Mine!] anymore! Seriously, the childish nature of it had always been a bit embarrassing.
+
+On the other hand, [I am the Priestess; I am the Champion] was amazing and every bit as affirming! …But it was also hard to ignore the fact that she’d just been considerably weakened. [Sentinel’s War Supremacy] had boosted all of her class skills by 10% and decreased mana costs by the same percentage. With its evolution, it became a Class Skill, which dropped its level all the way down to 269—meaning it only boosted Class Skills by… 2.69%. Also, the almost was a bit worrying, but it seemed as if it just had no effect on [True Grace]—presumably because that Skill had a similar function. Either way, that represented a significant downgrade, even before the loss of 489 levels of improved combat prowess. Sure, her [Warrior] class was far more important than [Ranger’s Lore] or [Sentinel’s War Supremacy] had ever been, but she already knew that she’d feel the loss if she had to throw a punch or use some other weapon. The Skill would eventually grow more powerful—at least for the Class Skill boost; the mana efficiency effect had been lost entirely.
+
+But that didn’t help her with her current predicament.
+
+With her current Skills assessed, she had three new Skills on offer and only one Class Skill slot left available. So, it was time to figure out what Skills fit her needs and desires.
+
+[Absolute Focus] was easy to dismiss—it sounded like an amazing way to not only end up dead, but to die quickly. She wasn’t some cloistered [Priestess] hidden away somewhere safe!
+
+[Adamantium Will] was far more interesting. ‘Willpower’ and ‘mental fortitude’ were a bit abstract, but she had faced multiple points in time where she would have died had her focus slipped. Sure, she was reasonably leery of Skills that promised to affect her mind, but it was difficult to imagine a downside to the Skill as the System described it. Tentatively, she planned to keep it in the slot it’d technically already claimed.
+
+Except [Dedication to Xaoc] was—arguably—even better! The Skill would allow her to give more mana to Xaoc than ever while she prayed, all without opening her up to any greater danger! And the benefit would last for… er, several heartbeats—new Skills had it rough, starting at level 1. But she was pleased at the notion of having even more incentive to pray—why didn’t the gods offer similar Skills to everyone on Pallos?!
+
+…Yet she only had one slot available.
+
+Though there was another Skill in her [Priestess] kit that she’d always had mixed feelings about. It had saved her life once, true, but ever since then, [One With Chaos] had been a constant thorn in her side. It fouled her dances, it made her attacks difficult to control, and the Skill had never offered her any advantage even close to what she used to bring the troll twin down. The Skill’s description invoked Xaoc’s name, but once she understood the nature of her third class, that no longer held the weight and import it once had.
+
+[One With Chaos] had been a crutch, but she had outgrown it.
+
+Ranthia purged the Skill before she could second guess herself. The nausea hit her with the force of a level 222 Skill’s loss, but Ranthia leaned into [Adamantium Will] to endure it. The nausea passed without eliciting so much as a single retch from her, and she had a few new Skill levels to show for it!
+
+With that, she willed [Dedication to Xaoc] into her newly freed Skill slot.
+
+…And after everything, she was no longer Sentinel Grace. For the first time in almost eighty-four years, she was just Ranthia. She was an Adventurer! She was just another woman that loved Pallos and wanted to explore her world and meet new people. She wasn’t an instrument of war for some faceless empire; she was a civilian that was in love with a certain amazing elf.
+
+And, of course, she was a [Priestess] who owed her eternal devotion and gratitude to Xaoc, the God of Chaos. But that was a true honor, and it was one that she gleefully embraced.
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 114]
+
+[Mana: 747319/748830]
+
+[Mana Regen Rate: 488059]
+
+[Stats:]
+
+[Free Stats: 13]
+
+[Strength: 44466]
+
+[Dexterity: 100323]
+
+[Vitality: 99911]
+
+[Speed: 97334]
+
+[Mana: 74883]
+
+[Mana Regeneration: 91046]
+
+[Magic Power: 75976]
+
+[Magic Control: 60751]
+
+[Class 1: [Diffuse Reflectance – Mirror (754)]]
+
+[Mirror Spirit: 754]
+
+[Scattered Reflections: 754]
+
+[Echoes Reflected: 499]
+
+[Pure Reflections: 754]
+
+[Persistent Imagery: 754]
+
+[Ideal Reflectance: 754]
+
+[Distorted Likeness: 690]
+
+[Reflections of Reality: 540]
+
+[Class 2: [She who Dances with Chaos – Void (758)]]
+
+[Void Affinity: 758]
+
+[Rhythmic Grace: 758]
+
+[Void Edge: 758]
+
+[Flowing Momentum: 758]
+
+[Divine Eyes in the Void: 758]
+
+[Sustained Chaos: 752]
+
+[Echoes of Devastation: 758]
+
+[True Grace: 521]
+
+[Class 3: [Adventuring Priestess of Chaos – Magic Metal (269)]]
+
+[Magic Metal Authority: 269]
+
+[Adamantium Chaos: 269]
+
+[Priestess of Xaoc: 269]
+
+[I am the Priestess; I am the Champion: 269]
+
+[Divine Seeker: 107]
+
+[Adamantium Will: 9]
+
+[Dedication to Xaoc: 1]
+
+[Higher Power: 269]
+
+[General Skills:]
+
+[Chest of Experience: 37]
+
+[Ranthia’s Covenant with Xaoc: 314]
+
+-
+
+[Submind: 758]
+
+-
+
+[Fast Learner: 701]
+
+[Image Recall: 685]
+
+[Sexy: 599]
+
+[Other:]
+
+{Xaoc's Covenant with Ranthia}

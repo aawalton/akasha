@@ -1,0 +1,225 @@
+---
+id: a07f9872-cb73-5cd3-8449-e55b9aeb7620
+page-type-slug: story-chapter-royal-road
+title: "v4c71: Dark Heart"
+slug: 0087-v4c71-dark-heart
+partOf: beware-of-chicken
+position: 87
+ownLength: 2900
+unit: words
+ownProgress: 2900
+publishedAt: 2024-01-16
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1479048/v4c71-dark-heart"
+royalRoadId: "1479048"
+markedReadAt: "2026-06-29T18:54:26.013Z"
+---
+
+To say Su Nezan was ecstatic was an understatement. Every moment since Yun Ren and his companions had come back with their tale had been spent in a state of bliss that he had been certain he would never be able to feel again. He thought his happiness had died with his dear and beloved Wen. But now his Qi was churning and jumping about like a child, giddy and bounding so much he felt almost unbalanced.
+
+Yun Ren had ignited that spark again. They had exposed every crime of the Shrouded Mountain Sect and even now the mountain was being torn apart by their own disciples.
+
+It was justice so poetic it seemed borne by divine intervention, the comeuppance penned by the greatest of playwrights. At long last, the sins of the past had caught up with the Shrouded Mountain Sect. Surely, they were fated to be victorious!
+
+Nezan ate and drank and made merry like he hadn’t in thousands of years, then woke up bright and early to make sure it hadn’t just been a dream.
+
+It hadn’t been. Yun Ren was asleep in his bed, tail clutched in his arms like a pillow, Shen Yu was meditating on the very top of the mountain, Bi De and Ri Zu were in the same bed, and the former Shrouded Mountain Sect disciples were within their own quarters. They had no guard, despite where they had originated from.
+
+They were too weak to be a true threat, and they were here. Why, the large one, Han, had even seemed genuinely interested in the way they did things.
+
+While Nezan did have a grudge against the Shrouded Mountain Sect, he wasn’t stupid enough to consider fresh initiates who had left the sect after less than a year his enemies.
+
+With the fact that this wasn’t some wondrous dream satisfied, Nezan had gone to the roof of the manor to watch the sunrise.
+
+What would the world look like if a dream you held for thousands of years finally came true?
+
+It looked brighter, Nezan decided. The sky was bluer, the mountain stone less drab, and the clouds a pure white. He listened to Bi De’s song—It was quite beautiful, and far better than having to listen to him scream that it was morning and thus time to get up.
+
+He smiled at the wonderful song, just enjoying the world for another few minutes, before he descended the stairs back into the manor.
+
+It was an old gathering place. One of the few that had been left after thousands of years of war and preserved only by its secrecy. A fortress of the foxes.
+
+He stepped into the main hall and smiled warmly at where Yun Ren was arguing with his friends. Nezan felt warm pride fill his stomach at the sight of the boy. He truly was the greatest gift Nezan had received since Wen. And now with his bloodline active, Nezan had an heir he could trust with the future should the worst happen.
+
+It had been ages since his kind had had a leader, a true leader, and Yun Ren would do nicely.
+
+“So? What do you think?” he asked as he sat down beside a woman who had been staring at Yun Ren. She was a wild looking woman, her hair bushy and her canine teeth far too long to be a human.
+
+“Lord Uncle,” Nezuhua’s voice knocked him out of his musing and he turned to the woman. She had been a wonderful aide so far.
+
+“Yes, dear?”
+
+“I have confirmation from Yuanlin and Xue Ji. They received your request to return and are making haste back,” Nezuhua said with a bow. There was something in her voice that noted dissatisfaction, but it was probably just something to do with the logistics of this place.
+
+Nezan’s grin got wider.
+
+“Excellent! Excellent!” he decreed. “It will be good for him to meet them. Speaking of, what do you think of our boy, Nezuhao?” he asked, turning to the owner of the manor. In stark contrast to most of their kind, the woman sitting at the head table was an ancient, withered looking woman; she was also the chief of the village in the valley.
+
+Nezuhao was one of the leaders of the foxes, and the old woman was at the Fifth Stage of the Spiritual Realm. Though her fighting prowess had long since atrophied with her body, her illusions were still incredibly potent.
+
+Nezuhao simply shrugged. “He's a good lad. Offered to carry me down the stairs this morning. He's a damn sight better and more polite than you, Uncle.”
+
+Nezan laughed. “That he is, that he is…”
+
+Nezan turned back to the hall as more and more of his kin entered for breakfast. Most of the foxes here were the support—the makers. Their blood was weak; and few of them were cultivators.
+
+But the rest? The rest were returning now.
+
+While Yun Ren and Shen Yu had been at the Shrouded Mountain Sect… Nezan too had been busy. Busy gathering all his kin. Old debts had been called in. Secret and hidden realms entered. To the four corners of the Howling Fang Mountains had Nezan ventured, finding the scattered enclaves of his kin and asking for them to join him here.
+
+They had come, heeding their Honoured Uncle.
+
+Nezan’s smile grew slightly wider as he looked at the hundreds of foxes… and felt several Qi signatures returning to the manor.
+
+The Shrouded Mountain Sect had been hurt… but it was still alive. Still on their mountain. The joy turned to bloodlust.
+
+The first blow had been struck.
+
+And the darkness in Nezan’s heart churned gleefully.
+
+=================================
+
+After breakfast, and after Ri Zu and Yushang stopped molesting his tail, Nezan called Yun Ren over. Quite a few people had come into the manor, and Yun Ren recognised none of them.
+
+They were an eclectic mix; some of them looked like mountaineers, others looked like court clerks, and others were more in line with what he thought of when he thought of cultivators.
+
+“Nephew!” Nezan said before shoving him in front of them all. “Come and meet your aunts! Yuanlin! You first!”
+
+“So! You’re the kid I’ve heard so much about, eh?” the woman before him demanded, her narrow eyes roving all over Yun Ren’s body. She was a wild-looking woman, her hair as big and bushy as her tails. She practically had fangs, rather than normal teeth, and basically anybody who saw her would immediately think “fox.” She sounded gruff and slightly surly, and she felt dangerous. Like Nezan before Yun Ren had befriended him.
+
+“I guess so!” he replied, putting on a smile. “Xong Yun Ren. Nice to meetcha!”
+
+She immediately invaded his personal space, but Yun Ren managed to hold his ground. Her yellow eyes bored into his—before she turned and looked at his fingers. “Bow and the sword?”
+
+“Ah, yeah, my dad’s a hunter,” Yun Ren replied.
+
+Yuanlin nodded. “We shall have to go hunting sometime.”
+
+Yun Ren blinked as the woman clapped him on the shoulder, and then he realised that this was just like meeting his mother’s side of the family.
+
+“Of course! Don’t blame me if I get the bigger beast!”
+
+Yuanlin started laughing. “Not bad, kid!” she declared.
+
+Then the next woman stepped up.
+
+“Young Master. This one is Xue Ji. It is a pleasure to meet you,” the woman demurred, bowing slightly. She looked like an average court functionary, her hair in a severe bun. Well, like an average court functionary if they wielded swords.
+
+“Ah, you don’t have to call me Young Master…“ he began, politeness coming to him.
+
+And so things went. Nezan stayed behind him the entire time, gesturing each person forwards. Every person he met had measuring gazes, and some were more polite than others. By the end of it, Yun Ren had to meet nearly fifty people—all of whom were cultivators.
+
+For a moment, Yun Ren wondered why Nezan had so many people here… but that question was satisfied as Nezan spoke again.
+
+“You told me last night, nephew, that you had taken the recordings we asked for. May we see them?” Nezan asked politely.
+
+“Of course,” he agreed. “Let's see if we can darken the room a little…”
+
+They closed the curtains and Yun Ren brought out his recording crystal. He took a breath and projected the first image, a landscape shot of the mountain as seen from the valley.
+
+There was a great intake of breath. Yun Ren was particularly pleased with this shot. The mountain was shrouded completely in mist, but the angle of the sun let one see the rays of light that dispersed through it and hinted at the mountain beneath.
+
+=============================
+
+Nezan, for the first time in thousands of years, saw his home again.
+
+He felt tears spring to his eyes as he saw the majesty of the Misty Fang. He could practically smell the forests. He could hear the laughter of his fellow children as they roamed the mountains, made secret bases, and played silly games, even though most of them were half-remembered.
+
+For the first time in thousands of years… he was home.
+
+====================================
+
+The Misty Fang was truly a stunning place, Su Nezuhua mused, as Yun Ren shifted to another image.
+
+She had never seen her home. Nobody in this room except for Nezan had. For the months since Yun Ren had left and promised to return with images, she idly wondered if she would feel some ancestral connection to the mountain. That she would see it and suddenly know it was home.
+
+Yet all it remained was a pretty place. The trees were not rare species found nowhere else; she could go home to her own valley and find them. The mist, though constant, was not unfamiliar.
+
+It was a pretty, misty mountain.
+
+“And as you can see, somebody was a bit of a shit!” Yun Ren narrated as he pulled up another image. It was of a childishly drawn fox with poop all over it, proclaiming the drawing “Nezshit”. There was laughter from all the foxes, and Nezuhua herself let out a soft chuckle.
+
+It was the work of a child, true, a little scribbled stick figure with poop surrounding it.
+
+Honoured Uncle Nezan’s eyes were locked on the image, and tears had sprung to his eyes. He whispered something too low for her to hear; a name, spoken in fondness.
+
+At the sight of him, Nezuhua felt her good mood sour slightly.
+
+She had to admit, after the happy glow of last night had faded… she was starting to get nervous. Nezan had been cagey about his plans after he had brought them all to this manor. It had been months of silence and fixing the place up… and now all of a sudden the future was uncertain.
+
+Nezan had called Yuanlin and Xue Ji.
+
+That could only mean he was thinking of war. One didn't call the two strongest remaining members of their people in without at least thinking of it.
+
+Even after she had begged him not to.
+
+Nezuhua glanced at her fellows, the leaders of the different enclaves of foxes. Yuanlin was obviously enjoying the show. Xue Ji was looking interested and taking notes.
+
+Nezuhao was simply sipping her tea.
+
+None of them had the same look of emotion than Nezan had; and yet… And yet… it was their ancestral home.
+
+Was it not right to fight and take it back from the invaders?
+
+Nezuhua licked her lips and closed her eyes.
+
+====================================
+
+It was always fun showing off his recordings, and the audience had been very appreciative of things. Yun Ren was satisfied as he showed them the last image.
+
+He had, after all, taken enough to practically fill the crystal.
+
+“And if you ever want to look through these again, I can make copies for you,” Yun Ren said he leaned back slightly while admiring the last landscape from the top of the mountain.
+
+“I don’t know if we’ll need copies, nephew,” Nezan said, his voice oddly guttural. Yun Ren paused at the snarl in the man’s voice. “After all… we might not need mere recordings soon. You said yourself... The mountain is weak.”
+
+Yun Ren froze at the bloodlust and eagerness in the voice, and turned away from his illusions. His uncle was lounging in his fox form, his eyes burning predatory yellow. A twisted sadistic grin had spread across his face. There was something sick and twisted in his eyes, like what Yun Ren had seen in Xiulan when she had come back to the Farm the first time.
+
+The low light and dim candles, originally used to make his illusions look better, now made the room seem slightly sinister.
+
+His uncle was not alone. Beside him, Nezuhua, Nezuhao, Yuanlin, and Xue Ji were standing, their narrow eyes also burning in the darkness.
+
+And behind them… behind them were the hundreds of people who had drops of fox blood, their faces hard. Qi and intent filled the air. A grudge, thousands of years stewing, was finally being brought to a boil.
+
+The foxes had sensed their prey was weak.
+
+“Yun Ren. Your Uncle has a question for you,” the fox said, his voice conversational. “Do you think we can take the mountain?”
+
+…he really should have realised that this would be Nezan’s reaction to finding out what had happened. His uncle was still fixated on the mountain… but Yun Ren had doubts about the rest of the foxes.
+
+Nezuhua, he knew. He knew she had no desire to go to it, but he could see the slight look of resignation in her features.
+
+The old lady he met this morning’s face was pinched. Wild-looking Yuanlin’s savage grin was more of a grimace. Court official Xue Ji’s face was a neutral mask, but she was stock still.
+
+Yun Ren… Yun Ren started to feel angry. Yes, he hadn’t liked that the foxes had been betrayed and hunted, but at least there was some justice for that. The people who had perpetuated that were exposed, and hopefully going to be dead and gone.
+
+If the foxes went and took the mountain… well, it would be a disaster. Yun Ren had learned a lot from his time in the Inquisition, as much as he hated to admit it. Logistics. Spirit Beast Raid locations, sect raids. The foxes, if they attacked now, would barely be able to take the mountain, let alone keep it.
+
+“Why the hells would you even be that stupid?” Yun Ren replied instead.
+
+Everybody in the room blinked at his incredulous tone and the way he was addressing Nezan.
+
+“You’re free. For the first time in thousands of years you don’t have to worry about being hunted, and your first thought is to throw away more of your kin’s lives on a plan that might get you the mountain back for a year or two before another sect takes it because you lack the numbers and power to hold it?”
+
+Nezan recoiled slightly, his eyes wide, before they narrowed. “It's the Misty Fang. It is our home.”
+
+“It's a damn mountain. What's really important is right here,” Yun Ren shot back, gesturing to the foxes. His uncle turned back towards the others, frowning heavily.
+
+“Uncle?” Nezuhua spoke up, her voice quiet. Nezan turned to look at her. Then he noticed the uncomfortable faces of the foxes behind him. “We can’t, Uncle. We aren’t the foxes of your time. The mountain… is not our home. Most of us don’t really have one.”
+
+Nezan’s frown softened at the plea. He glanced at the other foxes, not even able to shapeshift, who were staring at the ground.
+
+“I don’t mind fighting, Uncle. But…I don’t like the odds of this one,” Yuanlin said. Nezan’s head whipped to the wild-looking woman, who was sitting with her eyes closed. He looked surprised that she was saying it. “We are the shields of our people. Not blades of conquest.”
+
+“Logic dictates that this is a foolhardy course of action, Uncle,” Xue Ji whispered.
+
+The old woman took a sip of her tea, her tone scolding. “You’re how old, and you still have such a hot head?”
+
+The bloodlust in Nezan’s eyes started to dim. And then, Yun Ren hit upon a stroke of genius, something that would be the final blow.
+
+“And if you want the mountain so much… you got time, don’t ya? The entire sect is reeling, and they’re feeling guilty. You’re a fox, aren’t you? Why would you pay in blood for a mountain you might be able to get for free by going about this with half a damn brain!”
+
+Nezan’s jaw dropped. The twisted darkness in his eyes dimmed. Yun Ren could once again see the candles’ light behind his eyes.
+
+“I see…” he said, his voice sounding slightly off as he glanced around while Nezuhua slumped into her seat, sighing with relief. “Well, this was supposed to be a war council. Does anybody have any other ideas on what our next course of action might be?”
+
+“My mom and grandpa probably want to meet you, so consider it an invitation to visit,” Yun Ren replied. All of the foxes turned to him. “I mean, I hope you like yak milk? It's kind of a big thing…”

@@ -1,0 +1,285 @@
+---
+id: 6a63e255-dab4-52b9-9fe9-c1d3fc87c1a2
+page-type-slug: story-chapter-royal-road
+title: "v5c45: Cracked, but Unbroken"
+slug: 0151-v5c45-cracked-but-unbroken
+partOf: beware-of-chicken
+position: 151
+ownLength: 3208
+unit: words
+ownProgress: 3208
+publishedAt: 2024-09-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1818850/v5c45-cracked-but-unbroken"
+royalRoadId: "1818850"
+markedReadAt: "2026-06-29T18:56:28.392Z"
+---
+
+Crushing, heavy, dark.
+
+Bi De lay on his back, breathing out in ragged gasping pants. A shield of moonlight flicked so close to Bi De’s face his beak touched it, holding back massive boulders. His Qi strained, pressing up against the rocks unsettled earth.
+
+Trapped, trapped, trapped.
+
+In the dark, never to see the sky again.
+
+His greatest fear realized.
+
+He could hear his beating heart thundering. He pushed and strained against the earth. The rocks began to crumble under his strength, but instead of relief, the weight suddenly intensified, the boulders around him groaning. The light of the shield began to dim, he was losing control. The crushing earth closed  in. He could not breathe.
+
+No.
+
+No, he would not die here.
+
+He would not die alone, and he would not give into the fear.
+
+Bi De sucked in a breath and held it. The thundering of his heart started to slow, the lunar shield matched with the beating of his heart and held.
+
+No, this would not be the end of Fa Bi De. Not when he had so much to do. Not when his comrades still needed his help.
+
+He let out the breath he was holding. Slow and steady. He closed his eyes and sucked in another purposeful breath. It hitched when the rocks above groaned and shifted. His heart started to beat faster again, to his frustration.
+
+His Qi would return with his breath, but he could not focus. He needed that cool calm. Fear was his enemy as much as crushing rock.
+
+He needed to calm himself. He needed control. He cast around for something, anything that would help him. The shield dimmed even more. His meridians burned.
+
+He had just enough Qi. Just enough Qi for one last plan.
+
+Bi De gathered a fraction of his fading Qi and sent it into the earth.
+
+The shield dimmed so low it was almost invisible, and Bi De closed his eyes. He cast his mind back to his days on Fa Ram. He remembered looking at his home, knowing peace, and knowing the pulse of the land beneath his home.
+
+He cast his mind to the absolute peace he felt as his Qi touched the earth.
+
+The pressure of the rocks faded as Bi De sent his spirit into the ground. The Dragon Veins were close here; he touched the deep wellspring of energy and felt the pulse of the world. The energy here was not like the power of Tianlan, comforting and kind. It was an ancient and vast thing that felt cold and flowed sluggishly, encompassing an area that boggled the mind. Some may have been unnerved by its enormity, yet it was comforting to Bi De. Even though it may be callous and cruel at times, the earth supported every living thing. The world was alive, with its own heartbeat.
+
+The pulse of the world's heartbeat soothed Bi De’s fears. He gave it the little thanks he could, the gentle flow of its winter Qi a balm to his soul.
+
+He would get out of this. He would get home soon. It was a shame that they had missed the Solstice Festival this year, and the giving of the gifts. Tigu probably wouldn’t let him hear the end of it—as she rightly should. Home before the solstice? How foolish of him to think that, to promise that.
+
+He would fulfill the intent though. Even if their return would not be in time, they would. They all would return home.
+
+The beat of the world's heart focused his thoughts and his memory of home kept the fear at bay. It kept his Qi moving.
+
+He breathed, slow and steady.
+
+They would be playing the drums in Hong Yaowu right now. The drums that had first sent him on his journey. He could almost hear them, the Dan, Dan, da-Dan. He imagined the dance, the way Xian’s soul surged, the way the Qi gathered in the air. His own Qi bounced and hopped with the memory. The sound rang in his ears.
+
+… dan, da-dan.
+
+Bi De paused.
+
+Dan, Dan, da-Dan.
+
+He…he was hearing the drums…?
+
+Bi De opened his eyes. He could hear them. The drums of Hong Yaowu thundering, thundering, thundering, louder and louder—
+
+Something moved. Something titanic. Something that dwarfed even Tianlan utterly. The ocean of Qi that flowed through the Dragon Veins moved, rolling in like the tide. It formed into an enormous wave inching closer and closer until it crested above Bi De. A formless mass with two glowing eyes took shape, peering down at Bi De.
+
+He looked up in awe as the sound of the drums pulsed in his ears and the massive Qi pulsed in time to the dance of Hong Yaowu that Bi De’s own Qi replicated unconsciously .
+
+Was… was this an Earth Spirit?!
+
+Bi De looked upon it as it loomed over him, before remembering his manners and bowing.
+
+…curiosity. Like thump thump, thump thump good.
+
+The response was simple yet infinitely complex. It was not a word, but a feeling. The Earth Spirit looked down at Bi De, its gaze seeing, but unseeing.
+
+More instinct than thought. A tendril of its frozen Qi reached out and touched Bi De.
+
+The power was overwhelming. The brief contact nearly snuffed Bi De out. Only his experience with Tianlan spared him.
+
+===================
+
+The thump thump woke it up.
+
+Thump thump sounded neat. The sound pulsed and beat kind of like an earthquake but different. Interesting. It liked thump thump.
+
+Thump thump made it shake. Its waves reached deep into its body. It felt funny.
+
+It wanted to know more, but thump thump was far away. Through the cut veins—to a place that should have been dead.
+
+It considered this. It could not reach the thump thump.
+
+Disappointing.
+
+It turned to lay down, tired again, but another sound made it paused.
+
+Dan, Dan, da-Dan.
+
+There was a smaller thump thump.
+
+There was a thump thump it could reach.
+
+Curious, it approached.
+
+Thump, thump thump went the little thing. It was pleasing. And strange.
+
+It touched the tiny thump thump thump, hoping to feel the reverberation… but the thump thump started to quiet and fade. It poked the little thump again, and this time, two motes of light came out of the little thump.
+
+One was all gold, and it felt Pain, but…. Happy? The other was grey and cold, but it liked little thump.
+
+Sisters kin family—small one friend.
+
+Friend? It did not know what a ‘friend’ was. But the feelings were interesting. It tapped at the other places where the faint gold feeling was coming from… but the others were  still too far away.
+
+It wanted to touch and feel the other gold pieces!
+
+Frustration.
+
+It stared at the motes. They were trying to escape, and get back to the little thump.
+
+It let them go. It felt the tiredness creeping up again. It couldn’t stay long. The thoughts and feelings within needed more examination…at some point.
+
+It settled back in, ready to sleep. But the little thump was doing something stranger still.
+
+Little thump moved and lowered its head. Then a tiny piece of itself detached and moved up to the spirit.
+
+Little thump offered it a piece of Qi? But why? And why did it feel familiar?
+
+It paused, and after a moment, it took the offering. The feeling was pleasant.
+
+Like. Joy, want more but…
+
+Little thump was not right. Little thump did not meet the requirements for the contract.
+
+Disappointment.
+
+It wondered what to do. It liked little thump’s Qi. Should it give little thump some back?
+
+After a moment, it did. A really really small amount. The ball was twice the size of little thump, but little thump was very tiny.
+
+Tired. Sleep.
+
+It receded once more and closed its eyes.
+
+=============================
+
+Bi De gasped, feeling like he was going to explode. His Qi surged within his body, as he was released from the tide of emotion. The tornado of the Spirit’s power was utterly overwhelming. It had been all he could do to keep hold of his senses. The great being had poked and prodded at him before releasing him, seemingly satisfied by what it had found.
+
+Bi De had given the Spirit an offering, as was only proper. And as always, his Master’s words rang true.
+
+A blast of silver erupted, vaporizing the rock and boring a hole taller than his Master through the collapsed tunnel, freeing Bi De from his prison.
+
+The rooster rose, his breathing steady. His Qi burned within him like a miniature star.
+
+When one gives to the land, the land gives back.
+
+Bi De exploded into motion, once more ready to fight.
+
+===============================
+
+Healing Zang Shenhe was the hardest thing Ri Zu had ever done in her life. It strained her knowledge and skill to the breaking point. If Ri Zu had not had such experience already in removing demonic Qi and impurities, this battle would have been over before it had even begun.
+
+The… monster, for Ri Zu would never name whoever did this a doctor, had a twisted genius to them. It had created something new out of the melding of human flesh and demonic bone.
+
+As it was, Ri Zu felt more like a butcher than a doctor. She had to cut deep into the woman to extract finger-sized spikes of demonic impurities from her organs and bones. The disgusting things had started growing into Zang Shenhe, sending out little tendrils that bored deeper into the woman’s body.
+
+Ri Zu could not afford to be particularly gentle or safe. The spikes had to be taken out—along with the affected tissue—or they would be used to cause the woman debilitating pain. The stress points on the bones told the story, as did the tiny formation carved in each spike.
+
+Yingwen at least had proved to be an able assistant, dispensing medicine precisely and following all of Ri Zu’s orders without hesitation or deviation. He was also in charge of the siphoning formation, and they were taking out both the demonic Qi and the poison as best they could.
+
+The pair did their bloody duty.
+
+They pulled out spikes, they cut open organs, and they broke bone to expose the marrow. However, despite the horror Ri Zu had to inflict, Zang Shenhe was a cultivator in the Earth Realm. Even with her Qi still suppressed by poisons and seals, she had refined her body and thus could suffer injuries that would kill a mortal a thousand times over.
+
+It didn’t make it any easier.
+
+It was nerve-wracking work, made all the worse by the fact that Ri Zu knew exactly how the battle was progressing thanks to her shadowy helpers. It was all she could do to keep her hands steady as she listened to the shouts and screams of pain.
+
+Ri Zu had to stay here. She had to get Zang Shenhe up and fighting. It took all her will to keep her focus on her task. She could not fail.
+
+They had swiftly run out of everything in Ri Zu’s packs, forcing Ri Zu to dip into the reserve supplies given to her by Nezan, Master Forest Sweeper, and Shen Yu. Multiple times she had to adjust to how the new reagents and potions were used. Balancing every effect with raw Qi, each mistake costing her precious time and causing more pain to Zang Shenhe. She spent her Qi until her limbs shook.
+
+The din of battle got louder and closer. She no longer needed her shadows to extend her senses. The shouts of her friends and allies became more strained and desperate.
+
+The only positive was that Elder Shenhe was beginning to stir. They were in the last stretch now. Ri Zu just needed a little bit more—
+
+That was when Ri Zu gasped. The air in the room went from stifling and full of blood to sharp and cold. The floor partially froze over. Her flagging Qi stumbled and sparked as something titanic brushed against her, some part deep in her core thundering to the beat of an unheard drum.
+
+The Qi surged and Ri Zu bent it to her will. She focused it into her hands and pressed it to Elder Shenhe’s dantian. The shock of Ri Zu’s Qi made the woman jerk, and then her eyes snapped open.
+
+===============================
+
+Zang Shenhe had been aware, but not aware. Numb.
+
+She could feel her body. She could feel blades cutting her open again. She could feel the poison fading.
+
+A sudden freezing cold rammed into her guts.
+
+Shenhe’s Qi roared in response, coursing through her body and punching through the last of the suppressors. She was on her feet in an instant, her eyes locking onto the unfamiliar form her sudden movement had thrown backwards. Wide, dark eyes looked upon her with a hint of wariness as Shenhe’s intent pinned her, before a grim smile broke out on her face. The woman sat beside spikes of black chitin—broken black chitin. Removed from her restraints, Shenhe felt… good, better than good. There were sounds of combat coming from outside the room.
+
+“Elder Shenhe!”
+
+The familiar voice of Zhou Yingwen’s voice yelled out. The disciple was on one knee. His body bore many bandaged wounds.
+
+Her mind raced piecing together the possibilities. An ally? A rescue? Very likely. Her eyes refocused on Disciple Yingwen. By the books. No nonsense. He was the kind of man to explain quickly and overlook blunt commands.
+
+“Disciple Zhou Yingwen, report,” Shenhe commanded, her voice rough.
+
+“We have mounted a rescue attempt with powerful allies, Elder Shenhe! However, the situation is dire!” the man responded.
+
+Her deduction confirmed, Shenhe immediately started moving towards the sound of combat. She would have more questions later but those could wait. They had obviously spent many resources on getting her back into the fight, delay was unacceptable.
+
+Shenhe swept into the hall away from her prison. A chubby disciple that looked like a member of the Che Clan was at the far end. He was caught between two demons. One had pierced his shoulder, and the other was bearing down upon him. The man was not retreating, however, because he was using his body as a shield for the disciples who were still unconscious.
+
+He was not one of hers, which meant he was part of the rescue party. A commendable disciple; he must have been the pride of his family. It was a shame Shenhe had such little contact with one of the Sect’s longest-serving families—but as the Patriarch said, they did not wish to see her for her tainted blood.
+
+As always, her Aunt, the scum, caused her trouble.
+
+Shenhe took a step forward and killed both demons before continuing on. She slew four more demons that were attacking her forces from the purge mission and entered the main hallway. Demonic corpses filled the floor, but even more of the beasts pressed forward, roaring and screeching, overrunning the disciples.
+
+A Spirit Beast of all things, a Thunderhoof, was slumped against the wall. Fenxian was pinned to the ground with an arm through his chest, still struggling with blood pouring from his mouth. Outrider Shao Heng, a disciple she recognised—and another member of the rescue party—was before the Spirit Beast and in the process of getting pulled down as well, a spear of chitin through his leg. A woman using a heavy sword roared, her eyes manic and desperate. One arm was limp at her side, she had twelve spines piercing her back, yet her swordsmanship was inspired.
+
+Shenhe instantly liked the girl.
+
+The final member was a man who had a streak of blonde hair and disturbingly vulpine eyes. His sword was bright white, and looked familiar.
+
+Shenhe took all of this in within moments. She raised her hand.
+
+[Fulmination Arts: Gold Wire.]
+
+The room burned. The demons died, and all that was left were the stupefied disciples staring back at her. Hope blossomed in their eyes.
+
+Yingwen and the Spiritual Doctor dashed into the room behind her, their eyes wide.
+
+“Disciples, you have this Zang Shenhe’s praise for persevering. Truly, you are a credit to the Shouded Mountain Sect, for your strength is above all,” Shenhe said, silently expressing her seriousness with her Qi. “However, there shall be time for gratitude later. I require knowledge of our foes. Report.”
+
+==============================
+
+“Sleep now,” Jingsheng whispered, his eyes closed, obviously savouring his victory. “Sleep. Dream of pleasant things,” his Qi pressed into Shen Yu’s own. He tried to force slumber onto Shen Yu.
+
+A vision started to swim into existence, a pleasant dream conjured by this bastard’s insidious Qi. He saw his wife and his son, both alive, and beckoning him. Inviting him to rest, and let go of the pain.
+
+Shen Yu felt his rage spike. Such a ploy wouldn’t have worked even if Shen Yu’s cultivation had been broken. That chapter of his life was inscribed onto his blade. It was not something even the strongest cultivator of the next realm could hope to circumvent, or use against him. He began to strain against his bonds.
+
+Agony was an old friend to Shen Yu. He knew it well. He had received a hundred thousand blows that had broken lesser men—yet out of all the damage he had suffered in his life, the only thing that hurt more than the spines of darkness piercing him was the day he had to kill his own son.
+
+His opponent’s skill with [Internal Impurity Tremor] was without question. Its use was so sublime it had tricked Shen Yu’s own defences.
+
+The attack was so perfect and so sudden that it would have defeated Shen Yu. It should have defeated Shen Yu. If he had any more Demonic Qi in his system than he had had at that moment…
+
+Shen Yu would have been unable to move. Unable to think. This battle would be over.
+
+But the Qi that had been removed was enough.
+
+Aided by his grandson’s food, which helped to grind away at the demonic Qi, and through Meiling and Ri Zu’s ministrations… it tipped the scales.
+
+Good food and a formation crafted by a mortal tipped the scales in a battle between those in the Imperial Realm.
+
+Shen Yu had no words.
+
+He had no words for the gratitude and pride that was filling his heart.
+
+Jingsheng’s smile froze as he felt the strike. He opened his eyes, and met Shen Yu’s own.
+
+A defensive talisman screamed and broke. Jingsheng was impaled by Shen Yu’s blade. The massive black spines in Shen Yu’s body ripped and tore, but he fought through the pain.
+
+A foot smashed into Shen Yu’s own chest, and he went skidding backwards.
+
+“How—?” the man demanded, his face twisting as Shen Yu rose to his feet. A shadow that Ri Zu had given him, hidden under his clothes, placed tiny paws to his skin. Green light soothed the pain… but he did not need it. His foe had had his chance.
+
+“I think you just got a bit unlucky,” Shen Yu retorted as he rose to his feet.
+
+Cracked, but not broken.

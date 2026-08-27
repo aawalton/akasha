@@ -1,0 +1,131 @@
+---
+id: 136adde9-0de3-5595-aeb7-563d62394b61
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 37 - Newish Routine"
+slug: 0041-b3-chapter-37-newish-routine
+partOf: bookbound-bunny
+position: 41
+ownLength: 2153
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3356786/b3-chapter-37-newish-routine"
+royalRoadId: "3356786"
+---
+
+After so much excitement with twists and turns along the way, the next few weeks actually began to feel like a drag. Apparently, after accelerating their schedule a little, Regarth didn't have a follow-up planned without sacrificing the students' foundation.
+
+Consequently, they had to take a step back and teach them properly. Of course, they tried to accelerate where possible, but some things simply couldn't be rushed without the students suffering as a result.
+
+While most students were upset by the change of pace, Lily was surprisingly delighted as it finally gave her the time she needed to digest everything. Between glyphs, inscriptions, alchemy, and astral magic, she was packed to the brim. At the same time, there was the first floor of the dungeon just begging to be explored.
+
+After a week of non-events during class, Lily agreed to explore the first floor of the dungeon with Hana and Lotte. Hana, in particular, was extremely excited and desperately wanted to make up for lost time to catch up with Arthur, Thomas, Wallace, and Garet. Yes, Garet had apparently joined their group, and in theory, they would conquer the first floor in no time.
+
+"We could invite Clarissa," Lotte suggested as a joke, only to be shot down in flames by both Lily and Hana's vehement protests.
+
+Lily had considered inviting Rose to their group, as there was nothing that prohibited them from asking older students to participate in open exploration. Yet while Lily wanted to explore the dungeon with her big sister, she didn't want it to be at the detriment of her and her friends' growth.
+
+Rose's dragon nature is too much; she will take all the essence. Plus, she doesn't know the meaning of holding back, so she will probably solo all the monsters, leaving nothing for us.
+
+Thankfully, any concern the smaller group had of falling behind vanished when they finally stepped into the dungeon. The reason? Two of their members were extremely suited to this environment and its foes. Armored constructs like the brassbound were easily taken care of by Lotte and her acidic spells, while any undead were effortlessly cleared by Hana's light magic.
+
+[Undead are usually attributed to darkness and death; so light or holy magic would be an extreme counter to them.]
+
+{Is anything weak to astral?}
+
+[Not specifically, but as you know, astral has its own variation of other magical forms. You could learn an astral-light spell to deal with undead. Alternatively, you could just draw light glyphs and skip the intermediaries.]
+
+While that sounded reasonable, on the first floor it wasn't exactly necessary. Lily's starburst was already enough to swiftly deal with pretty much anything they came across, and thanks to casting Lunar Radiance on herself, she was routinely producing the exact amount of stars she required.
+
+{I didn't have much time to practice it in the forest, but this spell is really quite something. I know we likened it to rolling two dice and taking the better result, but this seems far better than that. Or… Maybe I'm just lucky?}
+
+[Lucky, huh…]
+
+Unfortunately, Arakil didn't appear to take the small jest too well and uncharacteristically went silent. Lily apologized a few times, realizing her mistake in touching on the sore spot, which had become very fresh after he failed even when casting through her body.
+
+As for the dungeon's first floor itself, it didn't appear to be anything too special from what Lily and her friends were observing. Alice had hinted that it would be vastly different, but their group was beginning to believe she may have been over exaggerating.
+
+Compared to their lessons, the first floor had far more monsters per room and significantly fewer unoccupied rooms. This meant that each room had to be treated as a threat, but at the same time, it was weirdly a bit of a relief, as they knew to expect enemies within.
+
+During lessons, they would sometimes enter a room and think it was unoccupied, only to be ambushed by a slime crawling on the ceiling, or a ghost possessing a statue they had thought was purely decorative.
+
+There were also resources to gather, though compared to the second floor, they were few and far between, mostly relegated to moss and fungus. However, on rare occasions, a chest would appear, and inside would be common items like glass vials, scrap metal, or even weapons. All of it was entirely mundane, though, with not even a hint of magic.
+
+"No wonder the older students call the first floor the junkyard," Hana sighed.
+
+Lily found herself nodding in agreement. It was an extremely apt nickname, and it was no wonder that students tried to complete it and never looked back. The only downside was that the first floor was pretty much a maze, and merely encountering the exit was a challenge in its own right.
+
+Still, the result of their first weekend exploration was good, and the girls promised to keep taking a stab at it routinely as a group. Of course, nothing was stopping them from heading in for a solo expedition, and in Lily and Lotte's cases, both of them wanted to do exactly that. Lily wanted to refine her Mana Core, while Lotte wanted to enhance her constitution, and a group would, unfortunately, hinder those goals.
+
+Well, unless I steal all of the rewards…
+
+The thought had crossed Lily's mind; however, she quickly snubbed it. These were her friends, and she wouldn't hinder them for her own gain.
+
+Classes mostly continued on as per usual, with two exceptions: alchemy and PMC. Professor Sylwel's normal class was progressing as usual; however, for the designated assistants, he started pressuring them to attempt more complicated brews or to improve their success rate, speed, or both.
+
+Someone finally had enough of his constantly applied pressure and asked what was going on, to which Sylwel simply replied: "I'm getting you ready for the alchemy competitions, assuming you want to partake in it."
+
+Suddenly, his actions made sense, and while a few decided they weren't interested, the majority stayed. Rather than selecting a representative, everyone could participate, so Lily wouldn't be hogging a spot thanks to her prior education.
+
+Asking around, Lily found out that a few of the other elective classes were getting involved in similar affairs, although this seemed to involve mostly second-year students. Lily had expected her enchanting class to get involved, but when she asked Professor Ollie about it, he mentioned it was only for third years.
+
+I guess I'll get to see what happens next year then.
+
+Lily hoped she would be allowed to participate, as while she enjoyed alchemy and the benefits it could offer, her heart still belonged to glyphs and, by extension, enchanting.
+
+As for PMC, the lessons started incorporating small duels into its routine. Professor Elius would teach both maneuvers and etiquette on the theoretical side, while the practical side involved either one-on-one duels between students or a group duel against the professor himself.
+
+The one-on-one duels were a mixed bag, with the victories swaying wildly as the victor was decided by whose Ward was triggered first. As for the group duels against the professor, they were more like one-sided slaughters, even when they tried to incorporate teamwork; they were no match for Elius.
+
+Unlike when he was testing the students and was happy to sit still and take their spells head-on, in the dueling ring, this no longer applied. He moved like a blur and would dart around the arena while peppering them with a barrage of firebolts.
+
+Some of the students who were closer to noble upbringings cried foul of this combat method, claiming it sullied the name of duels, but Professor Elius merely snorted in response.
+
+"There's no greater honor than victory; who cares how you accomplished it?" Elius' sudden declaration left no room for complaint and left the whiners gaping in shock.
+
+The downside to this new teaching format, however, was that Lotte was left out more often than not. Thankfully, it seemed the Professor was willing to put his body on the line as he actually volunteered to duel her a few times. Although calling it a duel was not exactly a fair comparison, as it was even more one-sided than ever before.
+
+[If they weren't so reliant on these Wards as their only source of guaranteed protection, Lotte would be able to properly participate.]
+
+{What do you mean?}
+
+[Similar to the magical array that produces illusions for you students to train, there are ones that were used for duels and tournaments. They would heal wounds and prevent death, although nothing could be done about the pain, but that builds character.]
+
+{Do you think they are lost?}
+
+[Either that or too expensive to maintain. Actually… I'd wager it's a bit of both. Healing without the aid of some divinity is dreadfully taxing, but there's a good chance that none of the current deities have passed down sufficient knowledge of inscriptions.]
+
+{That seems short-sighted… There were those simplified glyphs that you showed me that work through faith rather than logic; couldn't they use those?}
+
+[True, but perhaps they don't want to have their image tarnished? If a few hastily drawn sigils are enough to call upon divine healing, wouldn't that make the higher-ups seem incompetent?]
+
+Lily could only frown at that explanation. Sure, she knew people could be short-sighted, but this seemed excessive. On the other hand, Lily was familiar with the practices of Piety's followers, and they could even give Miss Camilla a run for her money.
+
+Does it really just boil down to greed at the end of the day?
+
+{They should have the duels in the dungeon, that way the extra buffer on the Ward would let Lotte participate.}
+
+[That's a good idea, alternatively modifying the existing Wards to keep their enhanced function outside of the dungeon. Although perhaps that is asking for too much… If we could replicate the dungeon environment outside, that also could solve it.]
+
+{Is either of those possible?}
+
+[Each has its own issues. I suspect the first solution's issue is related to the Mana drought; the items simply can't hold onto enough Mana as it is forcibly drawn out into the starved environment. As for replicating the dungeon's atmosphere, that's arguably harder as that would mean counteracting the Mana drought itself.]
+
+{What about with a large Mana gathering array? Like one the size of an entire arena?}
+
+[With how poor the environment is, the students would graduate before it even finishes fueling itself. No… You'd be better off creating Mana batteries and having staff or even students donate before use. Although that does have the potential to run into the same issue as the Wards, being forcibly drawn by the drought.]
+
+Lily could only sigh. It sounded like Arakil had some ideas, but at the moment, she didn't have the resources or proficiency to make a difference. Also, it was a bit unreasonable to change the entire system for only a handful of students, as, aside from Lotte, how common were such dangerous bloodlines?
+
+Privately, Lily offered to practice with Lotte since she had the ability to defend herself and even counteract the dangerous poisons with either elixirs or, at worst, a healing glyph. While Lotte seemed excited at first, she eventually started turning down Lily's offer.
+
+Lotte wasn't alone in this sentiment; many students didn't enjoy having Lily as their opponent. Lily's Nebula Veil was simply too oppressive against mere students, and this meant that she was like an impregnable wall. She didn't even need to dodge, causing endless grumbling from those who were unfortunate enough to be matched against her.
+
+If Lily were just a turtle, then she might lose on technicalities, as there were rules regarding stalemate situations, but her Starburst could instantly end a duel. You had an opponent who could literally stand still, but if you were even the slightest bit unprepared, you'd be swept off your feet.
+
+"Looks like you two really are sisters…" Professor Elius sighed. "Never have I had two students cause me so much of a headache."
+
+Even the professor had issues when she was part of the group, as unless he really went all out, he couldn't break her Ward. Of course, a professor using his full force was out of the question, which left him in a very precarious situation.
+
+Of course, Lily knew her defense wasn't as perfect as people assumed, but she wasn't going to just outright admit that she had issues against heavy physical objects. In fact, whenever it was her against Wallace, the best earth mage of their class, she made an effort to end it as quickly as possible to hide this fact.
+
+If Rose was the unstoppable force, then Lily was the immovable object. These nicknames had proliferated through gossip, and while Lily was dismayed by it, Rose was positively delighted.

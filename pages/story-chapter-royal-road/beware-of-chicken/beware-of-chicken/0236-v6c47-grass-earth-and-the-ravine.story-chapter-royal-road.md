@@ -1,0 +1,201 @@
+---
+id: 70a422e3-028a-5499-9235-b062d57971c1
+page-type-slug: story-chapter-royal-road
+title: "v6c47: Grass, Earth, and the Ravine."
+slug: 0236-v6c47-grass-earth-and-the-ravine
+partOf: beware-of-chicken
+position: 236
+ownLength: 2540
+unit: words
+ownProgress: 2540
+publishedAt: 2025-07-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2461409/v6c47-grass-earth-and-the-ravine"
+royalRoadId: "2461409"
+markedReadAt: "2026-06-29T18:59:28.967Z"
+---
+
+“They’re not taking it too badly,” Xiulan heard Loud Boy mutter, watching the arena through a crystal screen. Some people practically sprinted from the room. Some looked dumbfounded, others worried, as they all made their confusion known.
+
+Some rushed to be with their Elders. Others formed groups with their friends, but soon enough everyone was heading for the doors.
+
+“It's the shock,” Lu Ri said, his voice calm as always. “Less Qi deviation than I expected, however.”
+
+“Are they alright? I thought that was metaphorical, not that people actually…” the Torrent Rider muttered. There were several chuckles, Xiulan included. She ruffled the young man’s hair and turned to Lu Ri.
+
+“Thank you for being here, Lu Ri,” Xiulan said. “Your presence has helped tremendously.”
+
+The man nodded stoically. “Thank you for your kind words.”
+
+Xiulan was about to continue, then paused as the door to the room they were in suddenly opened. Nobody else should… then she paused as Bi De, Ri Zu, and the Xong brothers entered the room.
+
+“Sheesh! That's one thing we forgot to plan for, but we just got out before they could start asking us questions,” Gou Ren grumbled.
+
+“I had full confidence in you,” Xiulan replied, playing as she hadn’t thought it an issue, rather than just forgetting that if they were up in the stands, they would need to leave. She was used to not having to worry about Bi De.
+
+“Chen Yang looked like he wanted to shake us down,” Yun Ren agreed with a smirk. “That said, you’re doing well! When we dropped a firework like this, we started a civil war!”
+
+Ri Zu choked at Yun Ren’s dark joke, trying to hide her shocked amusement. Then she joined in. “What do you think was more shocking, this one or your Shrouded Mountain revelation?”
+
+“The Shrouded Mountain one was more visceral, and had a bigger impact. This one was good because it wasn’t supposed to cause chaos, but muted shock is no good. Junior Sister needs to train on how to drop such revelations, but I think she’ll have plenty of opportunities to practise in the coming days,” Bi De finished for them, his own lips twitching.
+
+Tigu snorted and Yin started chuckling, while Xianghua shook her head, leaning on Gou Ren’s shoulder.
+
+Xiulan huffed at the teasing. She supposed making light of it was better than worrying too much. They just had to be ready for any outcome.
+
+Xiulan paused and looked at Yun Ren again. While they were here just to watch… Yun Ren was the best at showing off recording crystal images…
+
+================================
+
+Xi Kong walked in a daze to one of the lesser-used side rooms of the Dueling Peaks. He barely noticed others doing the same, their eyes unseeing, so deep were they into their own thoughts. He found a chair, sat down… and let the revelations that had been given truly register.
+
+An Imperial Realm Demonic Cultivator. An assault so mighty it wouldn’t have even noticed if all the sects of the Azure Hills had stood as one against them; they would have been cut down with as much effort as a farmer reaped his rice.
+
+And his daughter had stood against that threat, fought against the most grim odds Xi Kong had ever heard of.
+
+His Qi spasmed. He clamped down on it, refraining from spitting blood by a hair’s breadth.
+
+Again, Xiulan had faced a brutal life or death battle. He knew she was strong. He knew she was capable. And yet it still felt like a personal failure in some ways.
+
+When Xiulan set off after Sun Ken, he had truthfully expected nothing to come of it. He had expected Sun Ken to see the size of the force marching after him and slip away like the wily bastard always did.
+
+Instead, the Verdant Blade’s force had been decimated and Xiulan had barely survived.
+
+Then later that year, she had been forced into battle with the Shrouded Mountain Sect and her cultivation was burned by the fire cultivator who had nearly reduced her to ashes.
+
+Now, it was this. Again he had felt her Qi, and again he knew some part of her had burned. He could practically taste the ashes on his tongue.
+
+Part of him wanted to curse Master Jin as a harbinger of misfortune that dragged Xiulan into this ever-escalating cascade.
+
+Yet he knew he could not. He knew that it was sheer stupidity to even have the thought cross his mind.
+
+It was a painful dichotomy, to know his daughter faced threats so beyond him, so beyond their Sect. That she was inches away from dying… and yet at the same time, was that not exactly what he wanted for her?
+
+Xiulan had grown so strong so quickly. She stood at the pinnacle of the Azure Hills, unflinching in the face of such danger. She had the respect of the Cloudy Sword Sect, and had transcended realms to strike down one in the Earth Realm.
+
+How bittersweet, to feel both sorrow and pride.
+
+Xi Kong let out a breath. He quelled his Qi and his racing heart. He could not despair in this moment of her triumph. In the moment of her achievement. He would stand tall and proud, knowing only the strength of his beloved daughter.
+
+For her sake, for the Azure Alliance she wished to build.
+
+He brushed away his trepidation and returned himself to the present.
+
+The only other person in the room was Yi; his old friend pacing like a caged wolf. His face was locked in an expression that was half glare and half hopeless bewilderment. Xi Kong knew Yi was spiralling, going through all the worst possible outcomes and getting stuck on them. His second had always had exemplary composure, level-headed even when Xi Kong felt like the world was closing in, but even he had his limit. When the shock finally did get to Yi, he floundered.
+
+It had been twenty three years since Xi Kong had seen him like this… and it was the day Xi Kong had come home with his wife.
+
+Looking back, Yi’s face and panic had been very funny.
+
+“Yi,” Xi Kong interrupted the man’s pacing. His head whipped up and locked onto Xi Kong… only to see Xi Kong’s slight smile. The look of intense panic faded. “Is it not a wonderful thing?” he asked.
+
+“Wonderful…?” Yi asked.
+
+“The Verdant Blade Sect’s star is on the rise, no?” Xi Kong said, saying the words he knew would bring Yi out of his shock. It did the trick, refocusing Yi’s mind onto a better course. He paused for a full three seconds, his face shifting through a myriad of emotions, before it settled again.
+
+Yi took a deep breath to steady himself. “You are correct. Forgive my lapse in composure, Sect Master,” he said, bowing.
+
+“There's nothing to forgive. It was quite a shock,” Xi Kong agreed, rising to his feet. He clapped Yi on the shoulder. “And now, it seems that once again the future becomes brighter. We must think about what questions to ask, and how this truly changes things.”
+
+The Azure Hills had already changed greatly. It was time to see just how far the change would go.
+
+====================
+
+On Gang of the Rumbling Earth Sect didn’t know if he could keep doing this, some days. The members of his Sect were shouting and talking amongst themselves, worried over yet another revelation, yet he was merely numb.
+
+It was too much. It was too much. He found it near impossible to care about the current event. Maybe if he hadn't known the truth about their Sect, he would have had a bigger reaction?
+
+If he had not known about Lord Yao and his sacrifice.
+
+All this was another hammer-blow to his already unstable foundation. There was no control to be had here. No respite. He was a leaf on the wind, getting tossed about by the storm.
+
+Some days he hated Cai Xiulan for her gift, for it was poison. On those days he hated himself more for thinking that, because that would be to spit upon the hero who had saved them.
+
+They had not killed a Wreckerball since the day they had received their memory crystal. Every time they had a report of a Wreckerball nearby from fearful villages who hated the beasts in line with their Sect’s teachings, he would go.
+
+He would see.
+
+Some of them were threats, rolling over crops and livestock. Others simply fled when they noticed him.
+
+The aggressive ones would screech with rage when he appeared, throwing themselves at him with hateful eyes.
+
+They loathed him. They wanted to kill him over easier targets.
+
+The first one he had simply let hit him. Claws as thick around as his torso slammed into him. He had watched the movements. The body was so different, but he could see the same base. The strikes of the Earth Wrecker Stance, primitive, but there.
+
+It had smashed against him for over an hour, but it had been too weak to kill him. In the end, it had collapsed in exhaustion, panting, glaring hatefully at him. It had been waiting for him to kill it.
+
+He hadn’t been able to. So he had just picked it up and moved it away, back towards the Wrecker Thicket.
+
+He left it there and paid the mortals for the damage that had been caused.
+
+He didn’t know if it was the right thing to do. Not at all. Not anymore. Three more had been moved the same way, and each time the Spirit Beasts seemed baffled.
+
+…he had even tried talking to one, when it had actual words to say. In spirit beast Qi speech, it had screamed at him that he was a murderous wretched bastard that deserved death because his ancestors had tricked and killed “the Big Father.”
+
+…they didn’t know the past either. Was that why they had attacked his Sect so many times? Out of revenge for what they thought was the truth?
+
+He didn’t know. All he knew is that he had killed so many of them. Killed so many of Lord Yao’s kin for sport.
+
+He didn’t know if he could fix it. He didn’t know if it was something that could be fixed.
+
+The Qi pulse on the Solstice had opened up a hidden room in a derelict part of the sect that was outside the massive shell they lived in. It was his nephew who had found it.
+
+Inside was a nursery. Its walls were carved and painted with bright, sunny scenes of human children and Wreckerball pups playing with each other.
+
+On Gang had stood there staring at it for a full hour before he finally convinced his legs to move again. He had not been back since.
+
+“Uncle, the hour is nearly up,” came Dulou Gan’s voice. He looked worried. His nephew and heir had been making that face a lot lately.
+
+“Very well,” was all he managed. He realised he hadn’t actually thought of any questions he could ask.
+
+Ah, well, somebody else would have thought of relevant things.
+
+===================
+
+Ulagan Baatar, Patriarch of the Grand Ravine Sect, was seated with his kin, a small smile upon his face. The Elders of the Sect, his son, and grandson. All were in attendance.
+
+“Signal the all clear,” he commanded. “Send word to the Ravine to plan feasts and offerings. We must give thanks to the Earth.”
+
+“Yes, Patriarch!” The relief was a palpable thing. Some might say it was strange to learn of such an attack and feel relieved, but all sons and daughters of the Ravine would know better.
+
+Unbeknownst to the other Sects, the Grand Ravine had mobilized more cultivators than they had let on.
+
+The night of the Solstice had been beautiful. Their people’s festival had been a triumph of joy as it always was, the young and old alike dancing through the night, just as their ancestors intended. Baatar had been most pleased watching over the young ones. He could feel it in the air, the joy… and the feeling of hope and safety as they danced.
+
+The Azure Hills felt better. It felt… lighter, since the oath they had made to join the Azure Alliance.
+
+And then he had felt it. He had long been in communion with the Earth. He had known its heart beat, after centuries of straining to hear the barest whispers. And on the night of the Solstice he had felt it. The pulse. The feeling of awakening. And then a sensation of wrath so immense it had nearly swallowed him.
+
+He had been fearful ever since that night. He had felt that omen, and was worried that it was something they had done, that the Azure Alliance was the cause. For this meeting, with the cause of the pulse deduced, they had arrived in force. Quietly. Carefully. In case something was amiss.
+
+Instead, he found himself nearly overcome with joy.
+
+The rage he had felt coincided with an invasion of Demonic Cultivators. It was not the people of the Azure Hills who sinned. Instead, their kindly mother had found threats to her children, and like all good mothers, her wrath was brought to bear.
+
+Cai Xiulan’s heartbeat had resonated with the province, and done something to empower herself. But that was within expectations. Last year, she had shown him a connection. An undeniable link she had to the Earth.
+
+And now she had proved that she had some measure of ability to call upon that connection.
+
+“Truly, we are blessed by the Heavens,” Baatar proclaimed. “Our Grand Marshal has been chosen by the Earth, and calls us friends. This year shall be a golden one.”
+
+His proclamation was met by smiles, relief upon his kin’s features… save for one of his Elders.
+
+“But does this mean we were mistaken? It is not Rou Jin who truly speaks for the Earth, but Cai Xiulan?”
+
+That caused murmuring. Baatar’s son Ganzorig did not look convinced, the only one of them who had truly met the man… and neither did Tarkhan.
+
+“Patriarch… may I offer an observation?” his grandson asked.
+
+“Speak, Heir Tarkhan,” he commanded, interested in the boy’s insight.
+
+“Master Rou’s other disciples were in the viewing chamber with us. Cousins Xong Gou Ren and Xong Yun Ren look well; their cultivation is in the Profound Realm, when it was only at the Third Stage of the Initiate’s Realm two years ago. But more than that… you know the panels one has to press to enter a room? They didn’t have to touch any of them. The doors simply unlock and open at their approach. The Dueling Peaks are open to them, and treat them as the most honoured guests.”
+
+That caused a pause, and more murmuring.
+
+“They all have one thing in common, no?” Tarkhan asked.
+
+One thing in common: Master Rou.
+
+“Then we shall have to pose one of our questions to them,” Baatar decided. “But it is nearly time. Let others worry and fear for the future. We know the truth of the matter.”
+
+He rose, and strode forwards, back towards the arena.

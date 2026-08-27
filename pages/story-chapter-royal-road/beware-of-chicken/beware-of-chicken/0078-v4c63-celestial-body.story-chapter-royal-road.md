@@ -1,0 +1,315 @@
+---
+id: cc9d498a-9384-5ba1-b095-da8dece98dd9
+page-type-slug: story-chapter-royal-road
+title: "v4c63: Celestial Body"
+slug: 0078-v4c63-celestial-body
+partOf: beware-of-chicken
+position: 78
+ownLength: 2959
+unit: words
+ownProgress: 2959
+publishedAt: 2023-11-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1425934/v4c63-celestial-body"
+royalRoadId: "1425934"
+markedReadAt: "2026-06-29T18:54:06.123Z"
+---
+
+Yushang woke slowly.
+
+The first thing she noticed was that she was comfortable. There was a slight pain somewhere in her guts to be sure, but the bed was soft and the room was warm.
+
+She had been hurt quite badly at the academy before. Her sternum had been cracked in two, and most of her ribs were broken. All she remembered from those days after the injury was the haze of pain, and the cold, dark room. She had spent most of the time huddled against the wall, her sword resting on her shoulder just in case anybody got any ideas.
+
+She had been alone, with nobody but herself to rely on.
+
+Two warm fingers brushed against her neck. Yushang froze. Young Master Zang Sheng had wanted her—!
+
+Her eyes snapped open, only to meet a pair of eyes that were dark and familiar. They were in a Medical Pavilion room.
+
+“You are all right, Yushang. You are in no danger here,” Ri Zu whispered.
+
+Yushang instantly calmed down at Ri Zu’s voice and touch, the surge of adrenaline from thinking she might have to fight fading. She looked around the room curiously.
+
+“Man, you got way too much energy if yer up already,” Biren snarked from where he was watching over her.
+
+Yushang chuckled. “You know me! It's my charm!” she declared with a crooked smile.
+
+Fat Han snorted from his place beside Biren. Shao Heng, standing with his arms crossed, chuckled.
+
+“It's good to see you awake, brat,” the older man said.
+
+Yushang smiled, her chest all warm and fuzzy… before the reality of the situation once more reasserted itself.
+
+“It's good to see you all, but what’s happening with—”
+
+Ri Zu’s fingers touched Yushang’s lips. “Worry not. Bi De is taking care of it,” Ri Zu’s voice was full of not conviction, but pure, doubtless faith. “We can watch tomorrow—you’ll be well enough to move then. For now… rest. Your friends will take care of you.”
+
+Yushang blinked away the wetness that gathered in the corner of her eyes. She bit her lip.
+
+She knew it was absurd, that her friends couldn’t stand against the Young Master, but despite that… she couldn’t help but feel things were going to be alright.
+
+====================================
+
+Bi De sat with his arms crossed as the cheers rumbled from the crowd like thunder from a storm. He was the last competitor on the Inner Disciple Box.
+
+The first bout of the semi-finals was well underway. Zang Sheng was displaying consummate skill—as was his servant. Chengang was a dervish with her glaive, deflecting lightning bolts and tearing after her Young Master.
+
+The crowd was loving every moment of it, howling as they displayed themselves… but Bi De could see that neither of them particularly liked it. Bi De could glean nothing useful from them trading pointers, so much were they holding back.
+
+Sheng’s eyes bled frustration—as did Chengang’s.
+
+And then, after more lightning rang out, the woman was defeated. “I shall trade pointers with you properly later,” Sheng grunted to the woman. She nodded, and then he turned his eyes again to Bi De.
+
+They were oddly hungry.
+
+And then, the only other bout for the day was called, his own. Later on in the day there would be a pill refining competition and an artifact battle; things that might have piqued Bi De’s interest before, but now… he paid them no attention.
+
+The announcer was background noise as he boomed out Bi De’s name. He glanced up at the crowd, to where his friends were sitting. Yushang waved at him and mouthed something that looked like “twist his dick” as she made a rather vulgar arm movement.
+
+Bi De felt a small smile form on his face before it faded and he gazed upon his opponent.
+
+Bi De faced off against a man in the Fourth sSage of the Profound Realm. The man who had driven a sword through Yushang’s chest.
+
+While he could see she was fine… that did nothing to reduce the fact that the man had done it on purpose, under the orders of Zang Sheng.
+
+It was something that would be answered.
+
+The man standing across from Bi De smirked at him.
+
+“Hmm. With resolve and intent like that, no wonder you have drawn my Master’s eyes. Are you going to take revenge for your woman?” Shaoqing asked. He seemed oddly eager.
+
+“I would err more on the word justice—though I doubt a man such as yourself gives much thought to its meaning,” Bi De replied pleasantly.
+
+Shaoqing huffed. “You may be higher in cultivation, but your soft heart shall be your undoing. A man must be steel and value only strength. Something you shall learn. For even if your cultivation is higher, a strong foundation and will can bridge that gap.”
+
+Bi De put his arms behind his back. “We shall see.”
+
+The gong resounded.
+
+Both Bi De and his opponent exploded into motion. A moonlight-shrouded leg met Shaoqing’s blade… and Shaoqing’s eyes widened as the blade stopped cold, cracks radiating out from its edge as Bi De’s superior cultivation and control made the blade tremble.
+
+“Though you are correct on one account. A good foundation and a strong will can bridge a gap.”
+
+Shaoqing made to retreat.
+
+[Wheel of the Crescent Moon]
+
+Bi De’s other leg lifted, silver following in its wake to smash into the other side of Shaoqing’s blade.
+
+The sword shattered. Fragments of metal shot into the air and then descended like falling leaves.
+
+Bi De expected nervousness. He expected his opponent to be cowed; most seemed to be, when an opponent beyond them was revealed.
+
+Yet Shaoqing just grinned and raised his fists.
+
+Bi De’s eyes narrowed. And then he advanced.
+
+Shaoqing was strong. Shaoqing was skilled, and was clearly used to fighting opponents that were more powerful than even Bi De. But Bi De would not be denied. He had sparred with his Great Master and trained under Master Shen Yu. Even if this form was not his preferred one, he was still Shaoqing’s superior.
+
+A leg slammed into Shaoqing’s arm and the man barely winced, even as Bi De felt the bones break. The man’s retaliation hit nothing but air, and then he wheezed out a breath as Bi De’s knee cracked into his sternum.
+
+Shaoqing’s body sparked and erupted with lightning—only for that lightning to be absorbed harmlessly into silvery armor.
+
+Bi De did not waste time with boasts or with humiliating his opponent. After all, while Shaoqing was the blade it was his master who had commanded him to strike Yushang.
+
+It was grim. It was methodical. Bi De dismantled his opponent while conserving his energy. Bones broke. Blood splattered, and Shaoqing was ground down.
+
+In the end, a rising kick crashed into Shaoqing’s jaw. The crowd roared its approval. Yushang had to be pulled back down into her seat as she moved more than she was supposed to. Bi De’s fellow Inner Disciples cheered. Fengfeng was fanning her face.
+
+Bi De turned to Sheng. He expected to see some emotion on the man’s face.
+
+The man’s smile was wide and hungry, his power scratching at the corner of Bi De’s soul.
+
+=========================
+
+That night, Bi De simply meditated and prepared.
+
+In all honesty he had not expected to be really invested in the tournament. It was a distraction. A role he would perform to experience the true world of cultivation.
+
+If Sheng hadn’t… wanted Yushang, he likely would have just bowed out.
+
+But instead, there would be a battle.
+
+One that Bi De wasn’t entirely certain he would win… but for both himself and Yushang, he would have to try anyway.
+
+===============================
+
+The seventh day dawned.
+
+The stadium was packed full. Crystals projected the arena into other areas of the sect, for those who could not make it to the tournament itself.
+
+Mortals took time off work to turn towards the mountain.
+
+And a man named Old Ling was rather sad his drinking buddy hadn’t shown up today.
+
+====================================
+
+“And now—the moment of truth! The final battle! The invincible and indomitable Young Master of our Sect! Zang Sheng! Versus our newcomer! A rising star! Fa Bi De!”
+
+Bi De stood across from his opponent, a man who was practically vibrating. As soon as the introductions were over, he turned to the Elder’s box.
+
+“Patriarch, may I finally stop holding back?” Sheng demanded, glaring at the box that held the Sectmaster of the Shrouded Mountain Sect.
+
+The man studied Sheng for a moment.
+
+“Yes. Show everyone the might of the Shrouded Mountain Sect,” he declared, and then waved his hand negligently.
+
+The gong sounded for the final time.
+
+And as soon as it rang, power exploded from Zang Sheng. The full might of a man in the Spiritual Realm was brought to bear against a single opponent.
+
+[Thunderous Steps]
+
+Bi De’s instinct screamed at him as instead of blocking he threw himself out of the way of the strike. It was like a bolt of lightning, so fast Bi De could barely react to it at his current level—but manage to react he did, ever so barely.
+
+[Fulmination Arts: Gold Wire]
+
+Only for lightning to erupt off Sheng’s fist and crackle against hastily conjured silver armor.
+
+Bi De would have to thank Yin for the technique later.
+
+Yet even as the bolts dissipated, Sheng was already moving again, advancing into Bi De’s guard with the intent of forcing it open. It was relentless. It was aggressive… and worst of all, as Bi De was forced to give ground, it was working.
+
+The fighting style of Zang Sheng unleashed was shock and awe. It was never letting up. Bi De could not dodge the rain of blows—he was forced to block and deflect, and each time Sheng’s fists connected with his limbs he felt the impact reverberating through his entire body.
+
+Within the first exchange, Bi De knew he was outclassed.
+
+Zang Sheng was faster. Zang Sheng was stronger.
+
+Bi De would even say that Zang Sheng was more skilled… and especially more skilled in this manner of fighting.
+
+Bi De drew upon all his skills and all his experiences against driving off the onslaught of Tigu’s claws and Xiulan’s blades. He parried with his still not completely familiar hands, and wove through attack combinations with the barest hair of space.
+
+Bi De needed space. He needed to disrupt Sheng’s onslaught.
+
+[The Rising of the Crescent Moon]
+
+Bi De fell back onto his most useful technique. The technique that had defeated Basi Bu Shi, Chow Ji, Sun Ken, and gave Zang Li pause.
+
+As surely as the moon, Bi De’s leg rose into a devastating strike that had even cut Shen Yu’s face.
+
+Zang Sheng caught Bi De’s leg. His arm started to buckle. His skin burned slightly.
+
+But the Young Master held.
+
+For the first time since he had learned the technique, the rise of the moon was stopped.
+
+Bi De had only time to suck in a breath as Sheng rammed his fist into Bi De’s jaw. For a brief instant the world exploded into stars. He felt his back hit the ground, and Bi De forced the disorientation away not a second too soon.
+
+Sheng gave him not a moment to recover as a devastating kick crashed into Bi De’s crossed arms.
+
+===========================
+
+Ri Zu’s watched the battle that was unfolding on a crystal screen. She winced at each blow that got through, and her eyes locked onto every bruise and splatter of blood.
+
+She knew Bi De could be hurt. She knew he would take damage, she had patched him up enough times.
+
+But even still, Bi De always came through. Even when he was half dead from poisoning she knew she could place her trust in him.
+
+She had been so sure that even with a realm’s difference between the two, he would prevail.
+
+Yet right now Bi De was losing. He was losing badly.
+
+Even though he managed to strike back for one or two blows. Even though he hadn’t really been injured yet.
+
+He was losing.
+
+And yet… Ri Zu’s heart was oddly calm.
+
+==========================
+
+“Impossible! Impossible! In all my years, I have not seen a bout such as this! Our Young Master’s strength is overwhelming! But Bi De hangs on by the skin of his teeth! Truly, the disciples of the Shrouded Mountain Sect are beyond compare!” The announcer roared.
+
+The crowd was on their feet. The world was a wall of sound.
+
+Zang Fengfeng watched it all, her hand on her chest. Bi De’s hair was a red banner as he shot around the arena, weaving through Sheng’s strikes. Fengfeng herself had barely lasted seconds the only time she had ever sparred with her cousin—and here Bi De was, merely in the Profound Realm, and surviving.
+
+Heavens, he was a man. Even if he lost to her cousin, he was performing a feat worthy of a legend. Maybe she could even convince Sheng to let her… borrow what was surely to be his new servant.
+
+But eventually, even the most heroic of feats could not last forever.
+
+Bi De made a mistake. He took a hit and threw himself backwards slightly too far… and Fengfeng knew what was coming.
+
+[Heavenly Deluge]
+
+Bi De’s eyes widened as a wall of lightning descended from the heavens.
+
+[Aegis of the Full Moon]
+
+The moon appeared in the arena in all its glory. Lightning met the face of the moon. One bolt. Ten bolts. A hundred bolts. The ground around the moon slagged and shattered. The air screamed in protest. Smoke and debris filled the air. She could hear Bi De roaring from under his shield, holding it up and straining like he was holding up the very sky itself.
+
+Yet even under this onslaught, the moon held. Its face was pockmarked and scarred—but it was there. The silver light dissipated, and Bi De collapsed to his knees.
+
+He was utterly spent. He was defeated. Sheng approached, and for the first time since she had seen him, her cousin actually looked happy as he raised his fist to end the fight.
+
+===============================
+
+Yun Ren’s mind worked a mile a minute. Should he activate it now? Would the shock stop Bi De from getting hurt too badly? Sheng was smiling like a right bastard
+
+Yun Ren was just about to pull the trigger when a voice cut through the roars of the crowd.
+
+“Really? Is that it, boy?” the voice asked, sounding both amused and disappointed.
+
+Everything and everyone froze. Sheng’s eyes widened comically as he paused his advance, instantly searching for whoever had spoken.
+
+Yun Ren’s head whipped around, looking for who had spoken—when he glimpsed something that stuck out hilariously, but he just hadn’t been able to notice.
+
+There was an old man lounging on the roof of the Elder’s box. He was laying on his side, his head propped up by his arm on a blanket. There was a bowl full of stew sitting off to the side, and in his hand he held a gourd of alcohol.
+
+Slowly, a smile began to spread across Yun Ren’s face.
+
+=============================
+
+“Really? Is that it, boy?”
+
+Shen Yu’s question pierced Bi De’s exhaustion. It pierced the pain that was lancing through his arms.
+
+Bi De was on his knees. He was defeated.
+
+Yet he still had one more card to play. He was loath to use it without great need… but if Shen Yu was here now it meant his time at the Mountain was at an end.
+
+“No, I am not done yet,” he replied.
+
+He had needed to hide. He had needed to infiltrate. He had limited himself, stuck in an unnatural body. Slinking around and hiding his true self.
+
+The moon did not hide. The sun did not hide.
+
+All who gazed up at the heavens knew their glory.
+
+Bi De took a breath, reached deep, and broke the seal.
+
+Light enveloped his body.
+
+=================================
+
+Zang Sheng took a step back as his opponent activated a technique.
+
+This was why Sheng hated holding back; if he did not destroy an adversary completely… then they would have a chance. A chance like this.
+
+He threw his senses forward anticipating an attack… but this was no attack.
+
+It was a breakthrough.
+
+A mid-battle breakthrough. Zang swallowed as he felt Bi De’s Qi rise up into the Spiritual Realm.
+
+And then, to the Second Stage.
+
+He felt his heart thunder in his chest, preparing for whatever would come out of that light.
+
+He glared as the technique faded, staring at the aftermath. And then he paused. His mouth opened. A bit of snot dripped from his nose. He felt blood start to crawl up his throat as he saw the impossible.
+
+===========================
+
+He was not alone.
+
+The entire crowd stared at what had appeared in the arena. Zang Fengfeng had spilled wine down the front of her dress. Zang Zhong had puked blood all over the man in front of him. Liao Yushang’s eyes had gone completely blank. Che Han had dropped the dumpling he was stress-eating, while Shao Heng had just looked completely befuddled.
+
+For where the handsome man Bi De had once stood, now there was something else entirely.
+
+What was in the arena was not a man, but a proud, erect cock. He wore a fox-fur vest, and a silver chain around his neck. His plumage was the colour of fire. His tail was the most beautiful of jade.
+
+An existence that matched Zang Sheng; the man who would be the next Patriarch of the Shrouded Mountain Sect.
+
+It was…
+
+“A Chicken?!” the Shrouded Mountain Sect roared as one.

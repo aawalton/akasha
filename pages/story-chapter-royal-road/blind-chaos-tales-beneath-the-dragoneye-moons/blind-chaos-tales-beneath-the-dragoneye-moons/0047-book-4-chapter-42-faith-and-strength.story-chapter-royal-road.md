@@ -1,0 +1,341 @@
+---
+id: c87f0d5b-620b-5e8e-9b84-92b7ca7ecc53
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 42 - Faith and Strength"
+slug: 0047-book-4-chapter-42-faith-and-strength
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 47
+ownLength: 5628
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2927974/book-4-chapter-42-faith-and-strength"
+royalRoadId: "2927974"
+---
+
+The first few days were… bad. Ranthia had thrown herself into a routine until she realized she was on a tightly regimented—orderly—schedule. She probably overcorrected a bit, but at least the dwarves of Remera seemed to enjoy helping her to blow through the majority of the alcohol that Avyna had left behind in a single (wildly unproductive) day.
+
+Hey, it was fun.
+
+And fortunately, she was spared from discovering if a day of increasingly poor decisions would continue to spiral. The next morning, her new [Messenger] (new—as if the woman hadn’t served her for nearly eight years) found her and dropped a surprisingly hefty packet on her. An unexpected ‘letter’ (seriously, so many pages) from her [Mind Healer].
+
+It was as good an excuse as any to free herself from her hangover, even if the translation process unsurprisingly required the bulk of the day. Avyna had tipped the woman off before she left (Ranthia never doubted that the woman she loved was far wiser than she was), and the [Mind Healer] had more than a few thoughts and suggestions for how Ranthia could move forward.
+
+There was a lot of solid advice—something Ranthia had to remind herself of time and time again as she read—but one section in particular seemed to worm its way into her mind and linger:
+
+Strength isn't found in those that are seemingly untouched by grief or those that fail to be staggered by tragedy. Instead, it is found in those, like you, who mourn and suffer, yet choose to stand again—because you know that life continues. Strength is found in remembering and carrying the memory of those you care for, even when their path diverges from your own or, as some must, comes to an end. Never doubt your own strength, just because you suffer. Suffering doesn't make you strong but remember that each day you choose to rise and do what you must, you are exhibiting strength—not weakness. Do not force yourself to dry your eyes or bottle your pain. To feel is to live and to live a connected life is to be strong.
+
+Ranthia chose to treat the words like a refrain and recited—or reread—them often, whenever she needed to remind herself of her strength. Because each day she woke up in a bed that felt unnaturally cold. And with every morning that passed, the familiar—vaguely sweet—scent that was uniquely Avyna was a bit harder to find. The evidence of Avyna’s existence slowly faded from what had once been their home.
+
+Exercise and duty were easy. In motion or faced with a clear objective, Ranthia was able to retreat into her Sentinel persona. But the quiet moments were harder to face. Once Ranthia relaxed and allowed her mind to wander, it was all too easy to lean for a source of warmth that was no longer there. When she was drowsy, she sometimes found herself whispering “I love you” as she sleepily reached for an absent cheek.
+
+She was alone again, but after eighty years of companionship and happiness, it felt as though she had forgotten how to be alone.
+
+Per the [Mind Healer]’s advice, Ranthia allowed herself to cry when the tears came. But she had to keep moving. She made her decision—even if there had never truly been any alternative—and she had to live with it. Because no matter what that damned hateful little voice in the back of her mind whispered, she would meet Avyna again—with a smile on her face.
+
+Besides, she still had mage-rock for support. Ranthia had offered mage-rock’s stalwart services to Avyna when she was packing, but the elf seemed to treat the offer as though it were a joke and mirthfully declined. Perhaps she just knew that Ranthia would need mage-rock’s unerring strength in her absence.
+
+Avyna had left a single project unfinished when she departed, and Ranthia had done her best to fill her beloved’s boots to see it to completion. But no matter how she harassed men and women to keep up their obligations to ensure that it wasn’t abandoned in Avyna’s absence, she lacked the effortless gift the elf possessed. It was hard to convince anyone to endure a short-term inconvenience just for long-term advantages—especially when they weren’t personally invested in those advantages.
+
+Five different times the System offered Ranthia an increasingly broad social Skill that might—might—have helped, but Ranthia still had no free General Skill slots. And even if she did, an immortal memory Skill was her next priority. Besides, Ranthia had absorbed a few lessons from Avyna after eighty years: the essence of negotiation was to listen, adapt based on what she learned, and strike mercilessly when she found an opening. …Which admittedly was basically the same thing she did in combat, just embodied in a wildly different form.
+
+If her negotiations killed anyone, something had to have gone somewhat wrong.
+
+But even as the timetable that Avyna estimated (one season, two at the most) passed by, Ranthia continued to struggle. Sometimes it felt as though she had more setbacks than she made progress, but the project was Avyna’s legacy (…ignoring her shop, inherited by Numeria). And Ranthia was prepared to do whatever it took to see it done.
+
+“And next on the agenda is what to do with storage allotment 19.” The base commander stated, as though it was something unimportant!
+
+In Avyna’s absence, it took Ranthia well over a year to finally complete the work. And with it done—with the time finally come to put the rehearsal and instructions Avyna had armed her with—Ranthia was struggling to keep herself still in her seat! The urge to shout her suggestion had to be suppressed; Avyna had warned her to let others speak up first.
+
+The first suggestion came from Ranthia’s least favorite advisor. Which wasn’t surprising, ever since the man had the panicked meltdown about the theoretical shimagu assassin, he had become increasingly vocal. His suggestion was a tavern, specifically one that sold nonalcoholic beverages, as “a way to return the pay of idle soldiers to Legion use.” Ranthia never even got a chance to speak up; almost everyone else axed it with a vengeance out of concern for how it would look to those higher in the chain of command.
+
+The next suggestion was a training area that could be used when the weather was unfavorable. Surprisingly, many in the tent seemed to approve of it (seriously, they were legionaries, who cared if it was hot, cold, or raining?!), which forced Ranthia to speak up.
+
+“Fabric absorbs smells. Just imagine what that tent would smell like after just a few seasons of most of the base personnel sweating in there as they train in the luxury of shade. Sure, it could be taken down to clean it, but we’d spend more time and effort on that. Just… train outside—it’s worked well enough since Remera was founded.”
+
+Thank Xaoc, support wavered and fell apart after that.
+
+Silence lingered as the men that the base commander chose to surround himself with tried to make convincing pantomimes of deep thought. It was time for her to speak up, but Ranthia still found herself hesitating. Avyna had written a recommendation for what to do with the space—and she had coached Ranthia on what she needed to say to ensure it wouldn’t pass. It was part of the plan, but… It still kind of felt like a betrayal, even though it was literally what Avyna wanted..
+
+“Avyna left this in my care; she intended the space to be used for a hobby center. The details are on the scroll, but basically a space with ovens and various crafting stations that off-duty legionaries and dwarves can use.” Ranthia retreated deeper into her Sentinel Grace mask as she set the scroll on the table.
+
+“Oh, the elf had a plan? Shocking.” One of their few remaining [Analysts] muttered under his breath.
+
+“That said, I have some concerns. I reviewed her suggestion ahead of this meeting, and I can’t help but worry about the risk of fire with some of these stations and unskilled, distracted personnel. Keeping everything stocked would be an ongoing expense as well, which Avyna noted, though I think she tried to downplay it.” Word-for-word, exactly what Avyna had told her to say. Okay, the heat that crept into the first couple of words were pure Ranthia, but…!
+
+…Those were the words Avyna wanted her to say, right? Gods and goddesses, she wasn’t as certain as she had been.
+
+“I can see a potential risk for closed groups to utilize specific stations amongst themselves, without sharing. This could undermine the camaraderie I expect from my soldiers.” The base commander himself spoke up.
+
+And with that, the scroll was closed and set aside. Avyna’s precious words, treated like another piece of garbage. It was intended, but it still hurt.
+
+Next up, the base commander’s second—an utterly forgettable man who rarely bothered to remind people of his existence—suggested using the tent for a sparring arena to make more of a sport out of it. On its face it bore the same problems as every other suggestion—combined—yet several of the advisors were nodding along with it, as if it was somehow a valid idea!
+
+“I think not.” The base commander killed it before Ranthia had to.
+
+Silence fell again, and many in the tent were already looking disinterested. Ranthia was supposed to wait for another suggestion to fail before she struck, but with most of the tent seeming to be done with the problem… It felt like a safe enough risk, at least. If the issue was shelved, Xaoc alone knew when she’d get her chance!
+
+“My recommendation would be to use the space to build a proper temple for Remera. A place where anyone can worship the gods and pray.” Ranthia projected her best Sentinel Grace voice to pull the wandering focus back.
+
+“That would be expensive to set up.” The most loathsome advisor adopted a dismissive tone.
+
+Just as Avyna had anticipated. Gods and goddesses, she was amazing.
+
+“So put up a collection box that people can contribute coins or credits to. Sure, the initial cost might be somewhat high—though, honestly, I don’t think it’s higher than some of the other suggestions we’ve heard—but over time it should recoup itself and pay for any ongoing maintenance. And there’s no concerns about how it looks to the Legion’s leadership; I doubt anyone would be blasphemous enough to openly deride piety.
+
+“But you know what, I’ll admit this is important to me. I’m a devout follower of Xaoc, so I’ll fund His altar myself. I’m sure we can attract a nondenominational [Priest] or two, but I can lead prayers to Xaoc myself from time to time, and perhaps…”
+
+Ranthia trailed off. A Miracle was unlikely, but with enough prayer focused for a particular reason, it was possible for the gods to intercede. The formorians were famously defeated due to divine intercession when Remus needed it most, and with the war against the shimagu remaining in deadlock, the possibility would be enticing—assuming any of the men and women in the tent picked up on what Ranthia was implying.
+
+Ranthia had always lamented that Remera lacked a proper temple. Her little home altar was fine—and was sufficient for her own prayers—but it felt wrong to not have a place for communal worship. Even the smallest towns in Remus almost always had a temple, even if it was a tiny one with only a single generalized altar. And Avyna had used some of her waning time in Remera to leave Ranthia a final gift: the temple she dreamed of.
+
+It embodied a way for Ranthia to do more for Xaoc. There was only so much chaos she could raise in Remera. Ranthia’s preferred form of chaos brought joy to those in need, righted wrongs, or brought the truth to those that deserved to know it—messy events that represented and affirmed life. But it wasn’t like there were other crates of annoying instruments collecting dust that Ranthia could steal to scatter their contents for children to find. And there were precious few scandals or abuses of power in Remera that were better handled through chaos than through her own authority. With the opportunities to cause chaos minimized, especially with the absence of the shimagu in the area, Ranthia needed to do something more. …In retrospect, she had genuinely enjoyed the rare opportunities she found to lead prayers to Him in Ariminum.
+
+And, thanks to Avyna, she would have the opportunity again. After the discussion circled for a while, the base commander signed off on her proposal!
+
+“I really should have seen this coming.” The base commander grumbled.
+
+“Probably.” Ranthia agreed, not bothering to even try to keep the smirk off her face.
+
+The temple (still a tent) was in its final stages of preparation. The three generalist [Priests] had arrived, along with the altars that had been commissioned, and Ranthia had joined two of them to get everything set up. The base commander had decided to check in on the project—and discovered what she had done—but that was fine.
+
+It wasn’t like he could change the reality of the situation.
+
+The bulk of the temple-tent was laid out like the symbol of the five gods. Roughly half of the space within was occupied by a raised platform housing the altars dedicated to each of the five great gods. In the back of the tent was the altar to Seira, decorated with polished brass, perfect cubes, and other such orderly things. To the left was the altar to Aion, an altar adorned with hardy plants that could easily be maintained, even inside the tent. To the right was the altar to Thanatos, a place of tranquility with peaceful forms and, somewhat surprisingly, actual human bones. In the center was the altar to Papilion, covered in clever shapes and forms that seemed to shift and move just because of the angle from which they were viewed. And, in the front—the first of the five primary altars anyone would see once they entered the temple-tent—was a grand statue of Xaoc. Specifically, a sculptor’s reproduction of Ranthia’s description and careful sketches of the statues she saw in the world within. The statue held the grand altar, which Ranthia directed the sculptor to craft “as your whims desire.” And the result was beautifully lopsided and unpredictable.
+
+So Xaoc’s altar was slightly bigger and grander than the others. Statue aside, the altar itself was barely twice the size of the others, which was practically minimalist! And what did it really matter if His likeness almost completely hid Seira’s altar from view until someone bothered to walk back there? Frankly, He deserved an altar twice as large and grand! But still, even the modest result was worth every contribution credit that it cost; Ranthia was quite pleased with how it came out.
+
+In addition to the space for people to gather for formal services in the rest of the tent, there were three other altars not placed on the platform. There was the unaligned altar for anyone that needed or wanted to pray to a god or goddess that wasn’t otherwise present. Herculix, the (human) god of (human) conquest, had a dedicated altar adorned with reliefs of battle—he had become somewhat popular ever since his active role during the formorian’s final assault. And along the opposite wall, a shrine bearing antique weaponry, armor, and tools that Ranthia had sourced from her friends amongst the dwarves had been built: a place for the dwarves to commune with and pay respect to their ancestors.
+
+Because there was no way that Ranthia would tolerate the temple being intended strictly for human use.
+
+“Blatant and brazen unevenness aside, this place is looking great. When will it be ready?” The base commander finally asked, once he completed his uninvited walkthrough.
+
+“I plan to lead a service for Xaoc tomorrow evening. Priest… …One of the [Priests] will be leading a service to the five great gods in general starting the next morning. The other plans to lead two separate services, one after nightfall for the deities not aligned to any specific altar, such as the sun goddess, and the other at noon for the god of conquest. I haven’t heard yet what the third [Priest] plans to do.” Ranthia smoothly answered, skillfully hiding that she had no idea what the names of either man were, nor where the third [Priest] had disappeared to while the rest of them worked.
+
+“Uh-huh. Very well then, carry on the good work.” The base commander shook his head slightly and made his exit, muttering quietly to himself about how he needed to attend the morning services to apologize to Seira, Aion, Thanatos, and Papilion.
+
+Ranthia could respect that. She had actually already offered her own (barely apologetic) prayers to Aion, Thanatos, and Papilion at their altars. She genuinely respected the three and their roles. Papilion was the balance that allowed chaos to influence a world without being stifled by order. Thanatos… well, Ranthia had swiftly learned proper respect for him ever since she met White Dove. And Aion was life itself, without her there could be no chaos.
+
+Seira, of course, could get bent. Had she been able to get away with it, Ranthia would have been content to exclude the goddess entirely—they had a general use altar!
+
+But even if Papilion, Thanatos, or Aion were annoyed with her, Ranthia was willing to accept that burden. Her devotion—and whatever mana He needed—was eternally for Xaoc alone. She owed Him everything, and thus He deserved the best altar that Ranthia could provide.
+
+Out of a sense of obligation, Ranthia set out to locate the missing [Priest] after the initial consecration and set up was complete. Her efforts resulted in a frustratingly convoluted chain of witness reports that led her throughout Remera until she, at last, returned to the temple-tent and was told that the missing man was inside! Which meant the problem had solved itself, but Ranthia was nursing a grudge by that point. Seriously, what in Xaoc’s glory the man had been doing instead of helping the rest of them?! He might have been the oldest of the [Priests] by a wide margin, but he could have at least assisted with consecration!
+
+Yet when she stepped into the temple-tent, it was quiet and seemingly empty. The other two [Priests] were watching the sun set while they relaxed just outside the tent they had labored in all day, which meant they would have seen it if their erstwhile colleague had wandered off again. Feeling inexplicably wary, Ranthia ventured deeper within the newly anointed place of worship.
+
+She found the man squatting behind Xaoc’s statue, trying to peer up the god’s garments. For a man of Remus, he was unusual. Few Remans (except cultural rebels like Hunting) wore beards, yet the man had more wispy hairs on his chin than he did atop his head. To say nothing of his trousers, boots, and the lack of anything akin to a tunic—which left his wrinkly, sunspotted back displayed to the world.
+
+“What are—” Ranthia tried to ask, only to get cut off.
+
+“Did you know that few statues of any deity depict the buttocks? Sculptors seem to go out of their way to omit, obscure, or otherwise hide the divine cheeks. It’s especially baffling because it’s not exactly uncommon to depict other anatomical features. Throughout the divine likenesses that I have seen, there have been many nipples affixed to the likenesses of gods and goddesses alike. Statues of Herculix, in particular, are often carved with impressively erect penises and it isn’t entirely uncommon to see Aion’s spread vulva as a somewhat obvious manifestation of her domain of life. Yet rare is the statue that includes even a hint of a deity’s butt.
+
+“There’s an obvious explanation, of course. Clearly, the ass is where true divinity lies.” The man concluded his monologue with a cheeky (ugh) wink.
+
+“Uh-huh, and—” Ranthia was more than ready to tear into the man for disappearing (and for general weirdness), but he interrupted her once again.
+
+“Which probably explains why you’ve always had quite an ass, god-fondled girl.” He offered the creepiest grin she had ever seen on a [Priest] as he finally looked her way.
+
+Ranthia opened her mouth to protest that the man absolutely hadn’t seen her ass—her tunic wasn’t that short!
+
+But she closed it before more than a brief strained noise could escape her lips.
+
+She knew that insulting, innuendo-laden way to refer to the god-touched!
+
+No, oh no, it can’t be…!
+
+“It’s kind of creepy that you’re still basically a kid after so many years. Is that what Xaoc’s into these days?” The asshole priest she’d met in Ariminum—almost a century ago, before she ever even became a Ranger—continued to insult her god to her face.
+
+…Wait, no, their god! What the actual fuck was even going on?! All three of the [Priests] were supposed to be generalists, but for all that man’s stunning irreverence, he was still a [Priest] in service to Xaoc!
+
+“I don’t even know where to begin with this…” Ranthia admitted—lamented, more honestly—while she buried her face in her hands.
+
+“At the bottom, of course.” The man from her past willfully continued his efforts to convince her to murder him.
+
+…She did know a good place to stash a body.
+
+The turnout for Ranthia’s first time leading the prayers was, only mildly surprisingly, standing room only. Fixture of Remera or not, Ranthia was still Sentinel Grace, and her piety was a side of her that no one left in the military base (that was starting to feel more like a proper town, albeit a canvas one) had experienced. And nothing motivated bored people to show up like a spectacle.
+
+But the fear of performing in front of a crowd hadn’t really bothered her since she’d been forced to dance through it at Fausteo’s Musical Theater a very, very long time ago. Ranthia greeted the assembled with a performative flourish, before she pirouetted, seamlessly transitioning to her knees in the process.
+
+“To Xaoc, the god of chaos, I offer greetings on behalf of those that have gathered here today. In chaos, there is life. In chaos, we progress and find new sources of happiness and new experiences. For that, we owe you our eternal gratitude. But for the moment, we offer you our mana, so that you may continue your works for the sake of all of Pallos.”
+
+[*ding!* Congratulations! [Harbinger] has reached level 217! +10 Free Stats, +23 Strength, +199 Dexterity, +200 Vitality, +198 Speed, +27 Mana, +95 Mana Regeneration, +86 Magic Power, +24 Magic Control from your class, +1 Free Stat for being human, +1 Strength and +1 Magic Power from your element.]
+
+[*ding!* [Magic Metal Authority], [Adamant Commander], [Unbreakable], and [Adamantium Symbiosis] have reached level 217!]
+
+What!? In the space of an instant, Ranthia struggled to parse the new data point for her inexplicably impossible-to-level class. And by the next instant, she gave up. She set the half-baked theories and what-ifs aside. She had a prayer to lead, and she refused to let anything interrupt it, especially not her own thoughts!
+
+With System notifications silenced, Ranthia continued her prayers. Ranthia freed her mind and let her whims carry her words wherever they landed. Sure, the prolonged aside about the different textures of cat fur probably strained her credulity with those following her lead, but they felt like words she needed to say. That or she just really lamented the lack of cats in Remera. Either way, Xaoc didn’t seem to mind, and that was all that truly mattered.
+
+“Thank you all for coming, I’ll be here most evenings. Unless I’m not. But I’m certain I can convince one of the other [Priests] to run it if I’m unavailable!” Ranthia cast a sideways glare at the aged [Priest] that had slept through her service to their god.
+
+He remained entirely unfazed and continued to lean against a broom, as if he would ever sweep anything—his latest Sand and Wind [Priest] classes only enabled him to add more of a mess. As if buckets worth of conjured sand was somehow preferable to dust.
+
+Ranthia just sighed and checked her condensed System notifications while she watched men and women make their way out—often after a visit to the donation box.
+
+[*ding!* Congratulations! [Harbinger] has leveled from 217 to level 226! Per level: +10 Free Stats, +23 Strength, +199 Dexterity, +200 Vitality, +198 Speed, +27 Mana, +95 Mana Regeneration, +86 Magic Power, +24 Magic Control from your class, +1 Free Stat for being human, +1 Strength and +1 Magic Power from your element.]
+
+[*ding!* [Magic Metal Authority], [Adamant Commander], [Unbreakable], and [Adamantium Symbiosis] have leveled from 217 to level 226!]
+
+[*ding!* [Ranthia’s Covenant with Xaoc] has leveled from 281 to level 285!]
+
+[*ding!* [Sexy] has reached level 597!]
+
+…She had so many questions.
+
+Every report from Spearpoint continued to call the ongoing conflict “a stalemate,” as though such a passive term could possibly encompass the lives of men and women being lost each and every day as the majority of the Coalition’s forces clashed against the combined might of the shimagu’s last stand. The twins and the Coalition’s heaviest hitters continued to stay out of the fighting though, which left the armies unable to gain any meaningful advantage against one another.
+
+No matter how many years of casualties accumulated.
+
+Beyond the site of the conflict’s deadlock, the vast territory that Ranthia was responsible for remained quiet. That wasn’t to say that she never had any calls to action. Missing scout teams, overdue caravans or convoys, unreliable sightings of potential shimagu forces, and reports of ogres and other potentially infected beings being cut down reached her. Sometimes a season would pass without anything calling her beyond Remera’s reach, other times she was forced to deploy to locate wounded scouts, dislodge predators from the paths that messenger birds took, or assist with getting a Legion convoy or [Merchant] caravan moving again after loss of beast or severe damage to a wagon.
+
+The rarest of events were the two times she came into conflict with small teams of shimagu—groups that were half-starved and barely a threat. Yet they still chose to end their lives on her blades, despite her efforts to open a dialogue.
+
+“<We are already dead.>” A shimagu-infested human boy, scarcely in his latter teenage years, offered her an explanation as he lunged for her with a sword he could barely lift.
+
+The worst thing was that so long as the parasite lived, there was no true way to take them alive. Even if she managed to force the host to lose consciousness, the parasite was usually able to keep fighting. And no [Healer] was willing to accompany her into the middle of the wasteland, just to ‘save’ a host that would inevitably fail to return to usefulness—or worse, someone that had already retreated into their world within and would just wither and die without the parasite maintaining their abandoned body.
+
+But such calls to action were comparatively rare. Outside of them, the temple-tent continued to prove itself a great source of comfort. It gave Ranthia something more to do than train, run pointless scouting missions, or otherwise remain idle. Even when she wasn’t leading prayers—begun “in the evening” whenever she felt the time was right, no matter how unready the assembled were—Ranthia was often there cleaning, privately conversing with Xaoc, or assisting anyone that needed it.
+
+The asshole [Priest] from her past was useful too, as much as she hated to admit it. Not only was he qualified to run the prayer service when she was absent (arguably, he was more qualified than she truly was), but the man was able to guide people to the deity they truly wanted to pray to for whatever troubled them. Sure, he somewhat openly favored recommending Xaoc, but he was careful to match hopes to proper domains where there was a better candidate. Ranthia even witnessed the man directing a woman to Seira’s altar once—which left her a bit incredulous. He was too old to truly do much to maintain the temple, but he remained a font of advice for anyone that had the patience for his bullshit.
+
+The temple-tent helped with her lingering loneliness.
+
+Numeria had changed Avyna’s shop to suit her tastes and growing [Merchant] interests. Some effects were subtle—the new décor wasn’t—but Ranthia couldn’t help but to obsess over each and every change. It wasn’t Avyna’s shop anymore, and it hurt to be in there. Ranthia knew that was the point, Avyna had wanted it to become Numeria’s shop—the girl had even given it a name, “The Merchant’s Horns”—but it was yet another place where Avyna’s presence had been erased.
+
+Her scent was gone from their painfully silent home too.
+
+But, gods and goddesses, Avyna was brilliant. With fortuitous timing, Ranthia had discovered the first note that her Gemheart had left for her. The first day that Ranthia mustered the will to make a meatbath, she found the paper carefully folded in the dish she always used for it.
+
+Avyna was (rightly) confident that it would be the first that Ranthia found, and it warned her not to obsessively hunt down the rest. Her neat High Elvish handwriting explicitly declined to tell Ranthia exactly how many notes she had hidden and encouraged her to discover them as life went on.
+
+Some of the messages that Ranthia found were simple little notes. Affirmations of love or a reminder to water the (very dead) plants. Others were stories from her travels throughout Pallos, describing cities and cultures that Ranthia could scarcely imagine. A couple were graphic descriptions of physical acts that she wanted to do with—or to—Ranthia.
+
+The urge to hunt down the messages existed, but she tried to be patient. Avyna had been right about there being value in discovering them as she lived her life. They were no longer in the same place, but they had an eternity to remedy that—so long as Ranthia remembered the value of her life and protected it to the best of her ability.
+
+And so Ranthia cooked, even if it was just for herself. She laughed, even if it was just with a small circle of friends that she hesitated to get too attached to. She even found outlets for her lust every once in a while—though she never actually brought another woman into their home to use their bed, not when Avyna couldn’t be there.
+
+And Ranthia began a new tradition. Each night, before she fell asleep, she quietly whispered about her day in High Elvish while she gazed at the pillow that Avyna’s head should have rested upon. Some days she had little to say; others, she accelerated her perception to keep from losing sleep to the process. It was a little orderly, but she tolerated it because it felt right. Even if she concluded each night with the same words:
+
+“<I love you, my Gemheart. Now and forever.>”
+
+It had been just over two years since Avyna had departed. Ranthia was in bed, reading a delightfully spicy book that Numeria had hand-delivered—it was about six women that became friends (and more) as they adventured across a world not too dissimilar from Pallos. But just as she was really getting into the book, she found herself interrupted.
+
+Ranthia indulged a moment to curse the chiming noise and whomever was at her ‘door’ before she got up and pulled on her tunic and blindfold as she walked over to answer it.
+
+“Sentinel, ma’am! Message for you!” Her [Messenger] saluted crisply, with a formal severity she hadn’t displayed since Ranthia first bedded her.
+
+The reason for the gravitas was obvious. The scroll that the woman handed her bore the sunburst sigil of the Sentinels.
+
+Ranthia cracked the scroll open.
+
+The shimagu have been reduced to five twins and the elves have confirmed their intention to assist in seeing the war finished. Sentinel Grace, your presence is requested at Spearpoint. Gather what you need, I expect to see you there in time for our morning meeting.
+
+Ranthia exhaled through her teeth and smiled.
+
+“Tell the base commander that I’ve been summoned to see the war done! I’ll depart as soon as I’m geared up and ready.” Ranthia ordered her [Messenger] while she offered the woman a sloppy, excited salute.
+
+The time had finally come! Xaoc willing, she might be able to see Avyna sooner than she had feared.
+
+Alone in her tent, War Sentinel Grace prepared everything that she needed to face off against the shimagu’s remaining twins and any other parasite that chose to remain an obstacle to lasting peace.
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 114]
+
+[Mana: 713280/713280]
+
+[Mana Regen Rate: 469256]
+
+[Stats:]
+
+[Free Stats: 0]
+
+[Strength: 44092]
+
+[Dexterity: 96509]
+
+[Vitality: 97102]
+
+[Speed: 94637]
+
+[Mana: 71328]
+
+[Mana Regeneration: 87650]
+
+[Magic Power: 74122]
+
+[Magic Control: 58583]
+
+[Class 1: [Diffuse Reflectance – Mirror (747)]]
+
+[Mirror Spirit: 747]
+
+[Scattered Reflections: 747]
+
+[Echoes Reflected: 499]
+
+[Pure Reflections: 747]
+
+[Persistent Imagery: 747]
+
+[Ideal Reflectance: 747]
+
+[Distorted Likeness: 690]
+
+[Reflections of Reality: 538]
+
+[Class 2: [She who Dances with Chaos – Void (753)]]
+
+[Void Affinity: 753]
+
+[Rhythmic Grace: 753]
+
+[Void Edge: 753]
+
+[Flowing Momentum: 753]
+
+[Vision of the Void: 753]
+
+[Sustained Chaos: 750]
+
+[Echoes of Devastation: 753]
+
+[True Grace: 512]
+
+[Class 3: [Harbinger – Magic Metal (256)] +]
+
+[Magic Metal Authority: 256]
+
+[Adamant Commander: 256]
+
+[Unbreakable: 256]
+
+[Mine!: 107]
+
+[Adamantium Symbiosis: 256]
+
+[One With Chaos: 216]
+
+[Higher Power: 243]
+
+[General Skills:]
+
+[Divine-Touched Identify: 753]
+
+[Ranthia’s Covenant with Xaoc: 314]
+
+[Sentinel’s War Supremacy: 753]
+
+[Submind: 753]
+
+[Combat Awareness: 753]
+
+[Fast Learner: 692]
+
+[Image Recall: 685]
+
+[Sexy: 599]

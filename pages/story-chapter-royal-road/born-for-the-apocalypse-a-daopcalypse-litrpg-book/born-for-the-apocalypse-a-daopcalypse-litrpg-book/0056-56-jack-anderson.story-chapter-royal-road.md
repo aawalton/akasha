@@ -1,0 +1,137 @@
+---
+id: 7cb4342c-875d-57b4-b539-574b611f9ff5
+page-type-slug: story-chapter-royal-road
+title: "56: Jack Anderson"
+slug: 0056-56-jack-anderson
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 56
+ownLength: 2596
+unit: words
+publishedAt: 2025-02-13
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2065278/56-jack-anderson"
+royalRoadId: "2065278"
+---
+
+56:
+
+The Essence Renewal Art was a great deal more simpler than Jack was expecting, but in some ways it turned out to be even more useful than the Essence Syphon Art.
+
+Jack took a deep breath to recenter himself, as the deluge of knowledge flooding his mind drastically ebbed in intensity before winking out entirely, leaving behind an instinctive yearning that he had to work to suppress.
+
+So that’s how it works, Jack’s eyes widened in understanding. He understood why he had felt resistance from the Juvenile Werewolf’s Qi when he had siphoned it with his primordial claw and why he had instinctively felt that trying to force the siphoned Qi into his dantain would not work.
+
+As it turned out, there were three types of Qi at a basic level of categorization, namely, Ambient Qi, Unattuned Qi and Attuned Qi. When the system had claimed sovereignty over earth and transformed the planet with its blue flames, it had not only flooded Earth with an immense amount of Qi, it had also transformed the existing fauna into evolved predators that possessed a Beast Core.
+
+Ambient Qi was the Qi that suffused the environment around him, from the air that he breathed in to the minute amount of Qi trapped in every grain of sand in the expanse of the desert-like landscape they had found themselves in— only in such minute quantities that True Sight could not detect it, just like the human eye had not been able to detect pollutants in the air back in the old world.
+
+There was only a single difference between Ambient Qi and Unattuned Qi, which manifested as the same azure-hued energy and that was ownership. Ambient Qi belonged to no one but the planet, or the system, depending upon how one looked at it, while Unattuned Qi belonged to a being that was capable of regenerating Qi on their own, whether that be through a Beast Core or a Dantian. There was a will attached to Unattuned Qi that made it less pliable, which was why the Essence Syphon Art’s Primordial Claw was designed to disrupt and counter instead of replenishing one’s own Qi Pool, a discovery that also told him that using his Primordial Claw to directly target a dantian or beast core might have disastrous results for himself instead of the intended opponent.
+
+The final type of Qi, Attuned Qi, was a form of Qi that quite literally happened to be affixed to a Universal Truth, or namely, a Dao. Had Jack not seen Trent’s poisonous energy or Marcus’s flames first hand, he would not be as wary of the energy as he now was. Unfortunately, the Essence Renewal Art only concerned itself with the first two types of Qi, so Jack didn’t get to know much more about Dao-Attuned Qi besides the information he already had.
+
+Self-Aura was the most interesting technique Jack had encountered so far and ironically enough, there was no Qi manipulation that he could tell of being involved. There had been something to old-world meditation after all, for the Self-Aura technique was essentially a more profound branch of the same.
+
+When Jack recalled the knowledge he had been bestowed upon by the system and put it into action, he was imposing his sense of being onto the world.
+
+“Give me a moment,” Jack said, gesturing with his open palm for added emphasis before he retreated inwards, into the confines of his own mind. To use Self-Aura, Jack needed to juxtapose who he was with who he was becoming and in doing so, be honest with who he always will be.
+
+I am Jack Anderson, He thought. I am a cultivator-
+
+The technique crumbed.
+
+I am Jack Anderson, Jack tried again. I will have revenge for my parents.
+
+Jack waited, but the person-shaped image he was building in his mind held, so he continued, I was a doomsday prepper as an act, but aspects of that personality have clung to me. I want to survive and to do that, I will do what it takes-
+
+The technique crumbled again.
+
+A dozen more times, Jack tried only for the technique to crumble at progressively latter stages in his self-affirmations.
+
+With each failed attempt, Jack got closer to the truth— his truth.
+
+My name is Jack Anderson. I will have revenge for my parents. The lessons that I have learned from my life as a doomsday prepper, as a practitioner of the martial arts, as a victim and beneficiary of power and wealth—- I will use it all towards a singular purpose. I will not run, neither will I hide. Instead, I will do everything in my power to stay human, I will fight with every fiber of my being to prove to this twisted, damned world that it cannot break me. Cultivators will fall to my blade, as will beasts and all manners of foul creations. Their sacrifices will become my strength, a strength that I will use to break the shackles that bind me— I am Jack Anderson, a human.
+
+This time, Self-Aura activated.
+
+Jack’s eyes were wide open, but it was not through them that he perceived the world. In imposing his sense of self upon the world, Jack felt like he no longer remained in the confines of his body— instead, it was as if his very soul had been suffused into the immediate environment, as if he had become one with the ambient Qi permeating the environment.
+
+He felt it now, the delicate tendrils of Qi wafting and shifting across the landscape, the slightest of disturbances enough to change their ethereal patterns, which were too diffused for True Sight to pick up.
+
+This was an Aura. Jack understood now, why the System could bestow upon him the Juvenile Werewolf’s aura, even if it came with a cooldown. Any cultivator or evolved beast could impose their aura onto the world, however insignificant it may be in comparison to the vastness of the reforged planet’s. Jack was certain that Sarah, Marcus and Jin had auras of their own, even if they lacked the capability to access it.
+
+However, expanding his Aura beyond the silhouette of his physical body was no easy feat and every moment required Jack to actively expend his concentration at an alarming rate. If Self-Aura, as a technique, was limited to merely making him aware of his Aura, then it would not have been a very useful one. Thankfully, the drain on his concentration drastically fell as soon as Jack had managed to expand his aura in a sphere of perception that was wide enough to cover Marcus and Jin then going on to extend outwards for a dozen more meters.
+
+Curious, Jack thought, as he realized that unlike True Sight or Qi Pulse that revealed the meridians and dantians in the physical world, Self-Aura only saw the external appearances of Sarah, Marcus and Jin despite being able to sense Qi at a much more minute level. Ambient Qi, He realized a moment later.
+
+Qi that belonged to no one but the world.
+
+With a thought, Jack was returned to his physical body, the only difference being his capability to temporarily sense ambient Qi. Of course, Jack still needed to expend a portion of his focus on keeping his aura diffused in the environment, a continuous distraction that could prove to be a major hindrance in battle unless he got used to it, but what the Essence Renewal Art, a collection of two cultivation techniques, offered was still worth more to him.
+
+However, before testing the new art, Jack tried to see if he could activate True Sight while Self-Aura was still active, the prospect of tracking Qi at both a macro and a nigh microscoping scale at once was too tantalizing not to attempt. Unfortunately, Jack felt his focus on Self-Aura rapidly fray as he tried to use the ocular True Sight technique in tandem and immediately pulled back on his attempt— he was already quite drained from expanding his Aura once, a second time in short succession would result in a headache or worse.
+
+It was with some regret that Jack moved onto the Second Cultivation Technique, Qi Membrane, which turned out to be the simplest technique he had encountered so far.
+
+The Azure Glow of Qi now ensconced his external form in a silhouette that covered him from head to toe. Jack studied his hands, noting that the layer of Qi that had been overlaid upon his form had barely dented his Qi Pool. The technique was not a defensive one, for any enhancement that such a thin layer of Qi could provide was minimal and Jack certainly didn’t feel any stronger or faster than before.
+
+No, the membrane of Qi that had embraced his form only served a singular purpose.
+
+“Are you alright?” Sarah asked, her tone sounding genuinely worried.
+
+Only then did Jack realize that Sarah had retreated a few steps away from his side, her expression one of startled concern.
+
+Right, if I push Qi outside my body, other people can see it too. I suppose a glowing human isn’t the most reassuring sight, Jack sardonically thought, before replying to Sarah, “Yeah, sorry— I’m completely fine. Just give me a few moments, I’m almost done testing this technique.”
+
+Sarah’s eyes flashed with recognition, before she nodded. Jack noticed that she didn’t step closer to him again and he supposed that was fair enough, in case he somehow blew himself up testing the Essence Renewal Art.
+
+Jack took a deep breath, honed his focus and then he issued a command to his sphere of perception. Targeting two floating tendrils of Qi that were loosely tethered to each other, Jack’s command manifested in the form of a gentle wave, as his aura tried to give direction to the two tendrils of Qi.
+
+One tendril dissipated on contact, but the other, denser one managed to hold as it was pushed in Jack’s direction. When it made contact with his chest, or more accurately, the Qi Membrane coating it, it passed through as easily as water would through a sieve, not the slightest hint of resistance to be found.
+
+Once the Ambient Qi entered his meridians, guiding it to the dantian was achieved instinctively, as natural as one breathed air in and out
+
+Jack opened up his statistics and sure enough, his Qi Pool hadn’t even gone up by one.
+
+But it had gone up.
+
+Minutes passed as Jack painstakingly corralled tendrils of Qi towards him, diffusing many in the process as he prioritized speed over efficiency, his concern more towards the pull on his focus than it was on his Qi Pool.
+
+It took him a total of roughly twenty minutes to clear out every tendril in his sphere of perception, increasing his Qi Pool by a total of three points not counting the single point that had naturally been rejuvenated.
+
+Jack took a few steps along the dune’s crest and sure enough, more tendrils revealed themselves to him at the periphery of his sphere of perception. There was no worry of ambient Qi running out, though the drain on his focus was a very real concern.
+
+He didn’t hesitate to retract his Aura, making sure he didn’t flinch as a wave of weariness swept across his body before ebbing, but even that wasn’t enough to stop him from cracking a smile.
+
+Jack turned to face Sarah.
+
+“Are you finished?” Sarah asked, her tone practically dripping with curiosity.
+
+“Yeah,” Jack nodded. “Didn’t expect for it to take so long. Got the answer you need, though.”
+
+“Oh?”
+
+“Put simply, the Essence Renewal Art does what it says. It lets me take Qi from the atmosphere and add it to my reserves, well, slowly at that,” Jack explained. “It’s slow, but you can keep it going while you’re walking, especially out of combat. Good way to keep the reserves up,” Jack whispered the second part, having made sure that his back was to Jin and Marcus had no clear front view of him. If either of the two could pick up on his whispering, there was nothing to be done, but this was an advantage Jack was content to keep to himself until Jin or Marcus could afford a cultivation technique.
+
+Sarah’s eyes widened a little in realization of what he was trying to do, before she nodded. “So it’s not designed for combat, then?” Sarah asked in a normal tone, not asking him anything about the technique’s usefulness.
+
+“Not as far as I can tell,” Jack admitted, seeing why the technique was priced at ten thousand TP. Being able to fire off Qi Projections more frequently was pretty damn valuable, but it wasn’t nearly as disruptive as stealing Qi from an opponent’s attack and practically negating it.
+
+“I finally unlocked Qi Projection, but… let me show you,” Sarah replied, before turning to face the sea of sand dunes. Her grip over her spear tightened as she angled it towards the arid desert, the spearhead igniting with a burst of Qi as she called upon her Qi Spear skill.
+
+Then Sarah thrust forward and her version of Qi Projection shot forward in the shape of a conical mass of Qi, whizzing away into the distance.
+
+“That’s dangerous,” Jack remarked, for it was exactly that— dangerous to both evolved predators and anyone unlucky enough to step into Sarah’s line of fire. In exchange for a shorter impact surface area, the conical mass of Qi seemed faster and denser than his own Qi Projection.
+
+“But is it enough? Would firing off one or two more of these let me kill the Juvenile Werewolf?” Sarah asked.
+
+It took Jack only a moment to realize the point she was trying to make, before he replied, “It would probably dodge half of your Qi Projections. The other half wouldn’t be enough to kill it, no.”
+
+“Then I can’t settle for it. The next time a Werewolf tries to maul me, I want something strong enough to swipe back at it.”
+
+“I can’t disagree with your logic there. It’s as sound as sound gets.” Jack replied with a shrug.
+
+A small smile made its way to Sarah’s face, before her expression hardened and her gaze turned away to face the system’s screen.
+
+It took Sarah a few seconds to absorb the scroll’s contents, but as it turned out, there was little she could do to experiment with the Tenfold Strike Technique. From what she had told him, the technique required more Qi than she currently had and it involved flooding her dominant arm with Qi, compressing it to its limits and then channeling more Qi into the arm, repeating the process with each cycle up to a maximum of tenfold.
+
+The technique had a build up time and from the looks of it, suffered from a very visual display, which would make it easy to avoid, but at the same time, Sarah had got what she had wanted. A close quarters technique that she could count on when her spear failed her and she was down to her fists or a surprise attack that she could set up with feint with her spear— either way, she had gotten a trump card that could keep her alive and her enemies very dead.
+
+With Sarah’s upgrades done, there was nothing stopping Jack from equipping his new Jade Guard Armor Set and in doing so, palming his Epic pendant with the intent to use inspect upon it before hoping to hide it beneath his chest plate’s gorget.

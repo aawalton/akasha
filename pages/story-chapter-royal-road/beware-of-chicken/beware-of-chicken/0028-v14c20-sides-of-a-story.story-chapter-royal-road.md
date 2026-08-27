@@ -1,0 +1,159 @@
+---
+id: 4e591a5e-9cbe-56a6-a591-c08daada46e8
+page-type-slug: story-chapter-royal-road
+title: "v14c20: Sides of a Story"
+slug: 0028-v14c20-sides-of-a-story
+partOf: beware-of-chicken
+position: 28
+ownLength: 2506
+unit: words
+ownProgress: 2506
+publishedAt: 2023-06-30
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1262221/v14c20-sides-of-a-story"
+royalRoadId: "1262221"
+markedReadAt: "2026-06-29T18:52:17.622Z"
+---
+
+Yun Ren yawned from where he was seated in an amphitheater. It was already full of people, people he recognised. They were all the disciples who had passed initiation.
+
+All of them had been called in this morning for 'A Lesson on the History of the Shrouded Mountain Sect.'
+
+Even Bi De had been called in, much to Ri Zu and Yushang’s delight—though Ri Zu was currently fussing over the man because he looked a little tired.
+
+“Worry not, Sister. I’m merely working hard. Senior Brother has some exacting standards for his garden… though I do believe that I am meeting them.”
+
+That last part was said with a little smirk. Bi De must really have been pleased with something to look like that.
+
+Yun Ren leaned back in his seat and mused on everything that had happened in the past week.
+
+It had been surprisingly… well, peaceful, as they all settled into things. Rooming with other people was nothing new to Yun Ren. The schedule was pretty chill too. They could take a job that could last anywhere from a couple hours to most of a day… and then the rest of it was free time to use however they wished. Yun Ren got to know a few of the other people in the North Wind Pavillion, and most seemed like they were alright people, but most of Yun Ren’s time was spent with Ri Zu, Fat Han, and Yushang when they weren’t working.
+
+As it turned out… Jin was wrong when it came to what kind of things Yun Ren would have to do if he joined a sect.
+
+There wasn’t actually any laundry involved. They had people for that. Even though they were technically the 'lowest' members of the Sect, they still had access to normal people as servants and they did a lot of the low level stuff. Yun Ren got a fresh set of robes every day delivered to his room if he needed it.
+
+No, what they did the most was, ironically… farming. Contributing to the Sect, it was called, as they toiled away in fields using a… well, a kind of crappy technique to grow the Ten Remedy Herbs.
+
+Or at least it seemed crappy to Yun Ren. The one Jin had was way better, and the way he explained it made sense. The Misty Morning Dew Technique just infused the water—it didn’t help the bacteria in the soil or impart Qi directly into the plants. It would just mist out of their watering cans, collect like dew on the plants, and then it would run down the stalks onto the ground.
+
+Yun Ren was getting very, very fast at performing the technique, because the faster they got work done… the more time he got to explore. There were also a bunch of jobs to do up higher on the mountain—inspecting the mountainside for loose rock, or other menial tasks that would have a normal person utterly lost in the mists that surrounded the Shrouded Mountain.
+
+Yun Ren had already done a bit of poking around. For being in a province renowned for its cold winds, the mountain and the valley it resided in had incredibly mild weather. On most days it was comfortably warm, and the parts of the mountain that weren’t excessively manicured were lush and green, with babbling mountain brooks and thick, sturdy trees. With its soft covering of mist lending it an ethereal quality, the forests were oddly calming to walk through.
+
+He didn’t know if that was because he was related to Nezan or not.
+
+His musings were interrupted by a bolt of lightning. This time, he didn’t jump—but really, was it too much to walk in like a normal person?
+
+The instructor was a younger looking man, severe in his bearing. His eyes roamed over them for a moment, counting their numbers, before he nodded.
+
+“Good, all are in attendance. As noted before, this lesson is mandatory.” The man said, his nasally voice only slightly louder than a whisper. “We shall now begin our lesson on the history of the mightiest sect in the Howling Fang Mountains.”
+
+The man cleared his throat. Yun Ren settled in for a dry, boring lecture.
+
+“Behold! Our Enemy!” The man suddenly roared, his voice powerful and booming. Lightning crackled around him, and a recording crystal projected a beam of light.
+
+Yun Ren nearly fell out of his seat as a projection of Nezan, in his fox-form, appeared on the wall behind the lecturer. The Spirit Beast’s mouth was twisted into a cruel grin and humans shambled along beside him, their eyes blank and unseeing, taken in by whatever illusions he had cast on them. His white muzzle was coated with blood, and he was backlit with the fires of burning villages.
+
+“Many of you have heard the tales of the foul foxes! Their story is intertwined with that of the Shrouded Mountain Sect! Today, you shall learn of our history, and rejoice that you rub shoulders with the fox-hunting heroes!”
+
+Yun Ren’s eyes darted from side to side. Beside him, Fat Han was nodding, glaring at the projection of Nezan while Yushang was grimacing and making a warding gesture.
+
+“Our Honoured Founders were some of the Greatest Heroes of the Age of Darkness! The mighty Zang Clan! Masters of the Fulmination Arts, they were the tip of the spear that plunged into the demonic hordes wherever they existed. While others were content to rest upon their rears, the Zang Clan forged ever onwards, never resting!”
+
+The man’s voice was powerful and utterly captivating as the crystal started showing them moving paintings as powerful, faceless men composed of lightning visited devastation upon the demons. Yun Ren had to admit it was framed wonderfully, and it even had musical accompaniment—it was less a lesson and more of a play.
+
+“Strength above All!” one of the men thundered, and a bolt of lightning obliterated a mountain.
+
+“During one of these battles, the younger Zang Brother was injured and fell away from the fighting. He happened upon one of the blessed settlements that had managed to survive through the demonic onslaught. He approached this place, eager to find new allies. Instead, he found the foxes. For the cursed blood of Da Ji ruled the Shrouded Mountain!”
+
+A wounded man stumbled forward with a smile, only for his face to morph into one of horror.
+
+“They preyed on the people, forcing them into blood sacrifices to fuel their protections against the demons. They beguiled men and women alike, stealing faithful husbands and wives. They caused madness when they walked amongst the mortals, violating their minds with their twisted illusions!”
+
+‘It was said we mixed our blood with theirs to power the protections. Occasionally, the chosen did die from the strain, and they were our honoured martyrs. The walls were carved with their names, and we kowtowed before their resting places for their sacrifice. We took lovers from amongst the humans, and bore sons and daughters. Sometimes the children liked to scare people, but what kind of child doesn’t?’ Yun Ren frowned as Nezan’s words came back to him.
+
+“The younger brother saw this and was appalled. He made great haste back to his Elder Brother and informed him of the threat—but when they sensed the approach of the mighty Elder Zang, the foxes hid their depravity! When the Elder Zang came to demand that they cease their predations, they kowtowed before him and agreed to his every demand. The Elder brother was convinced… But the Younger was not deceived.”
+
+‘They slunk in like rats and stole from us. The Younger Zang brother was our Master’s lover, once upon a time, and then when she denied him a prize, he sought to take it by force.’
+
+A beautiful looking painting of a woman appeared, but behind her, was a savage grin. The foxes whispered simpering words of submission, explaining away the rumours about what they were doing.
+
+“When the time came for the Elder brother to accept the Fox’s fealty and absolute surrender, the Younger brother rallied his kinsmen and warriors. He showed them the fox’s true nature, and at once they sped towards the mountain—but it was already too late. With illusions and treachery, the Foxes struck against the Patriarch!”
+
+The beautiful fox woman rammed her sword through the man’s back, her smile vile and twisted.
+
+‘I don’t know what happened in that battle, when the first Zang battered down the barriers and engaged our lady in combat. But I do know that by the end of it, both of them were slain, and only the younger lived.’ Nezan whispered.
+
+“But their moment of triumph was short-lived! The Younger avenged his older brother’s death! We assaulted their fortified positions and reaped a bloody toll upon them, exterminating any who stayed to fight. But many of the cowardly beasts fled, using their illusions to hide their tracks!”
+
+The images changed again as the music swelled, the brave lightning men slaughtered demonic looking foxes.
+
+"This is our Charge—this is one of the reasons for our Shrouded Mountain Sect! Even today, some remnants of the beasts remain, clinging to their power! Preying on the mortals and slaughtering as they please.”
+
+Lightning bolts filled the projection, and the symbol of the Shrouded Mountain Sect formed.
+
+"It is your duty to hunt down the foul beasts wherever we may find them. We are the heroes who guard the entire Howling Fang Mountains! The Shrouded Mountain Sect! Unrivaled in the Howling Fangs, and you are now part of this legacy!”
+
+There was murmuring from the crowd as the recording cut off.
+
+“What say you, Disciples of the Shrouded Mountain? Will you live up to this brave legacy!?”
+
+Yun Ren cheered with the rest of them… but inside, he was frowning.
+
+“Now go! And remember what the founders said! 'Strength above all!'”
+
+==================================
+
+Yun Ren sighed as he looked through his recording crystal at the vista before him. It was one of the few spots on the mountain where the mist was thinner. He was sitting on top of a rock that was bobbing up and down in the middle of the forest he had explored today. He could hear an occasional muttered count from below.
+
+The mountain truly was beautiful. If only he could get in the proper mood to record images…
+
+Two days later, and he was still in a bit of a foul mood. There were two sides to every story… but Zang Wen, Nezan’s best friend and lover, had apparently found the foxes' side so compelling she had defected. Honestly, if Yun Ren hadn't met Nezan first, he wouldn’t have really even questioned the story.
+
+Because, aside from the foxes, that was the story that was true. Everybody heard the tales of the Demon Foxes. Fat Han already had been thinking about ways to counter illusions, and Yushang had been full of children’s tales they told about the 'foul beasts.' Even if it was false, everybody knew it, it was the one passed around, so it was… it was true to most.
+
+Yun Ren chewed his lip and sighed again, pulling the recording crystal down and hopping off the rock to land beside Ri Zu and Fat Han who were both sitting and studying away. Fat Han with his Artifact manual, and Ri Zu with a copied medical text.
+
+Fat Han looked up from his scroll, glanced out at the forest, and smiled.
+
+“A truly spectacular view, Biren,” Fat Han said. “Thank you for sharing it with us, and for sharing your techniques with us. I dare say I would still be toiling away without your advice.”
+
+“Biren is lazy; so he finds the fastest way to do things,” Ri Zu said, and glanced up at him to see if he would take the jab well or not. Ri Zu had noticed and knew what his mood was about, while the others had just assumed it was disgust from learning what the foxes had done.
+
+He looked at Ri Zu’s knowing eyes. …She really was way too much like Meimei. Yun Ren snorted.
+
+“Damn straight,” Yun Ren agreed, and ruffled her hair. Ri Zu bore it, and unlike Meimei she didn’t try to bite at his fingers. He would have to rub the fact that Ri Zu was a nicer little sister into Meimei’s face when he got back. “It’s what friends do, Han. Besides, Think of it as payment for telling us about the North Wind Pavillion. I would have hated to have been in the east one today.”
+
+A pill furnace had malfunctioned and belched smoke all over the eastern quarter. The entire place smelt like rotten eggs.
+
+“—Ten-Thousand!” Yushang grunted from under the boulder that was bigger than Jin’s house. Then, she flipped it into the air and caught it, staggering around for a moment before managing to put it down. “Indeed, thanks must be given to all our party! We all fulfill vital roles! Brother Biren has granted us all Ahni-Me training! Sister Ri Zu looks after our health, and Brother Fat Han lets us know the best places to eat! Truly, we are a perfectly balanced team!” The sweaty girl boasted.
+
+“What does Yushang do, then?” Ri Zu asked.
+
+Yushang, half-naked and with her dudou sticking to her chest, pushed an arm up under her bust and cocked out a hip. "I give you visions of loveliness, so that you can stay motivated!”
+
+All three of them stared at her for a moment.
+
+Ri Zu threw a rock at her head. Yushang split it in half with a knife hand. “See! Look! You’re improving your aim already—ah!”
+
+Another one joined the barrage, this time from Fat Han, and then Ri Zu and Han were pelting the girl with stones while she would chop them with her hands.
+
+Yun Ren watched for a moment, amusement cutting through some of the irritation. He looked up at the beauty of the mountain.
+
+The foxes really had lost everything. Well… He was going to give them back at least a portion of what they had lost… and with luck, he could find a secret vault or something filled with the foxes' treasures. Thats how it always happened in the stories.
+
+Yun Ren took a deep breath and slapped his hands to his cheeks.
+
+“Oi, Yushang.”
+
+“Yes, Brother, You’re going to help me, right?!” Yushang shouted as she was hemmed in on both sides.
+
+“It's time for blind fighting training.”
+
+“Blind fighting—ghak!”
+
+There was a flash of light and Yushang started wobbling around… but kept doing surprisingly well against the thrown rocks until she finally begged for mercy.
+
+Yun Ren was in a better mood as Yushang whined. He smiled up at the mountain as he thought on the next route he would take.
+
+He didn’t notice another set of eyes on him. They were calculating as they watched through the mist. It remained dispersed, around where Yun Ren had summoned the flash of light.

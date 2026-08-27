@@ -1,0 +1,93 @@
+---
+id: 53fcc372-5b3a-5991-b5ae-fcb82a294711
+page-type-slug: story-chapter-royal-road
+title: "26: Rift Goblin Commander"
+slug: 0026-26-rift-goblin-commander
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 26
+ownLength: 1197
+unit: words
+publishedAt: 2024-11-13
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1901095/26-rift-goblin-commander"
+royalRoadId: "1901095"
+---
+
+26:
+
+Jack activated Qi Blade from behind cover, his expression determined as he watched his blade light up with the characteristic blue glow of the skill. Before it could so much as siphon a single Qi Point, Jack activated his newly acquired Qi projection skill and the rippling azure Qi that was ensconcing his blade froze in place.
+
+Jack’s eyes flickered back to the system screen and he waited a few seconds. His Qi Pool remained frozen at five points.
+
+His counter was ready.
+
+He turned his gaze towards Sarah, noticing her quivering lower lip as she met his gaze and shakily nodded. It was far from an ideal plan and in all honesty, Jack didn’t like it.
+
+But if they kept stalling for time, then the archer would flank them and they would have nowhere left to dodge.
+
+Jack nodded back, his gaze lingering on her own as he once again found himself considering the ask he had made of her. It was the only way for him to counter, but the burden of the risk fell on Sarah.
+
+If things went awry, it could be the last time they talked.
+
+“Go,” Jack mouthed, his grip on his blade tightening as he issued the direction.
+
+Sarah, who had positioned herself a little before the Anarix Tree’s curvature had deposited her spear in her inventory, leaving her lithe form crouching behind cover. She was positioned opposite the spot she had originally dove for cover, with the intention of giving her a starting point that was as far away from the archer as it could be.
+
+Given that the archer was trying to flank them from their north-west, directing Sarah eastward would force it to strike both diagonally and from a further distance.
+
+Sarah kicked off the ground with a jerky start, before stabilizing her footing and breaking into a wild sprint that had every ounce of momentum her body could generate behind it. Dried branches and leaves crunched beneath her steps as she zipped forward in what appeared to be a straight line before pivoting right hard in an effort to escape the archer’s line of sight as she rushed towards an Anarix tree.
+
+Meanwhile Jack, who still held on to his blade that was ensconced in Qi Blade’s characteristic blue glow, peeked from the other end of the Anarix tree.
+
+Sarah had volunteered to act as bait for the opening Jack needed and he would be damned if he didn’t use it to its fullest extent.
+
+His eyes shifted from one location to the next as he desperately tried to figure out where the archer was hiding. A pinprick of light blue in a sea of green finally arrived as his salvation, as Jack noticed the archer’s arrowtip flare with the azure energy that Qi manifested as for him from a low hanging branch. The archer’s form was partially obfuscated by a curtain of leaves that it was crouched beneath, but Jack didn’t miss the deep-violet skin tone that was contained behind a layer of leather armor.
+
+Please survive, Jack issued a silent prayer for Sarah as the Rift Goblin released its arrow, the damn thing blurring away so quickly that Jack had no hope of closing the distance to stop it.
+
+Then, he charged forward. A few seconds time was all he could hope for and there was almost no chance that the Rift Goblin would not notice his approach.
+
+The survivalist within him was galled by his audacity, his belligerence in charging towards an opponent with ranged capabilities head-on, not even trying to weave or run cover to cover.
+
+Jack’s heart rate had begun to pick up as he found himself confronted by the prospect of death. From such a close distance, there would be no dodging the arrow and certainly no parrying it.
+
+But if Jack allowed himself to give in to his fear, they would be hunted across the forest by an enemy that had a rune augmenting their eyesight on top of being able to use Qi arrow.
+
+Instead of slowly bleeding out supplies, Jack had to take the initiative and end the damn thing, to claim it’s experience for himself so he could defeat the next archer he came across with far greater ease.
+
+The thirty meters separating him from the Rift Goblin were reduced to twenty in what felt like the blink of an eye, but his approach was too flashy for the blasted creature to have not noticed.
+
+Jack gripped his sword even tighter as he fought the urge to either attack or dive for cover. Once the Qi arrow was fired, there was no dodging it. And from this distance, it would be fatal.
+
+No, Jack thought, a single word suppressing both terror and instinct as he continued charging.
+
+“Zaggash!” The Rift Goblin swore in surprise, clearly not having expected Jack to be closing in his direction. The creature hurriedly angled the bow in Jack’s direction, but it had no arrow strung. Its free hand reached for its back, plucking an arrow from a quiver and hurriedly nocking it.
+
+Before it drew the arrow, it activated the Qi Arrow skill, causing the metal arrow tip to erupt in a blue glow.
+
+Not yet, Jack thought behind gritted teeth as he closed into the fifteen meter mark, his entire body profusely sweating while his heart was beating at the pace of a runaway horse.
+
+Finally, the Rift Goblin pulled back the arrow to build tension on the string.
+
+Now, Jack thought, a mere twelve meters away from the Rift Goblin. He brought his sword, that had been held outwards at his side, upwards at an angle.
+
+He had exactly one shot at this and Jack could not miss.
+
+Unlike a regular slash, Jack’s upward slash had no real force behind it. He was only lining it up with the Rift Goblin and his blade stopped when it was aligned with the Rift Goblin’s body.
+
+Jack activated the second half of the Qi Projection skill and the Qi Sword that had been ensconcing the blade was released as an arc of dense blue energy that scythed towards the Rift Goblin.
+
+His Qi Pool fell to zero.
+
+Almost instantly, Jack realized that he’d miscalculated. He hadn’t taken into account the arcing nature of Qi Projection and instead of bisecting the Rift Goblin in half, the arc of solidified Qi scythed through the rift goblin’s right arm along with the branch it was standing upon.
+
+A loud crash followed as the bow slipped out of the rift goblin’s hand, a bone-chilling wail escaping its mouth as it roughly landed on the ground on it’s back.
+
+A frustrated snarl escaped Jack as he switched to a reverse grip, closing the distance between himself and rift goblin in a matter of seconds before slamming down with the point of his blade.
+
+One through its ribcage, which caused the beast’s mouth to gurgle with blood.
+
+Another to slash open its throat.
+
+The notification followed, confirmed the Rift Goblin Commander’s death.
+
+Jack didn’t even bother to read through the system notifications or loot the body, before he began jogging towards where he’d last seen Sarah.

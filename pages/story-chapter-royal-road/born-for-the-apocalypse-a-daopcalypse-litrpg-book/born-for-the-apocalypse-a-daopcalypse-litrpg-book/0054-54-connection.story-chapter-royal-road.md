@@ -1,0 +1,89 @@
+---
+id: 7089880c-b30e-5394-adf2-a148d0c7f7bc
+page-type-slug: story-chapter-royal-road
+title: "54: Connection"
+slug: 0054-54-connection
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 54
+ownLength: 1922
+unit: words
+publishedAt: 2025-02-04
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2048052/54-connection"
+royalRoadId: "2048052"
+---
+
+54:
+
+Jack watched as a gray aura not unlike the Mist Qi they had been trapped in merely a few hours ago ensconced his form, overlapping over his silhouette without any margin for error. Unlike the Mist Qi, the aura was not formed out of Qi and neither did it impede any of his five senses in the slightest, even it’s hue being a lighter touch of gray, with a weightless, ethereal quality to it that seemed completely unlike any manipulation of Qi he had come across so far.
+
+Before them stood a sea of sand dunes, but the extreme heat or cold you’d expect from a desert was noticeably absent. Given the absence of the celestial cycle of the sun and the moon, with the hydration pills they had been offered, coupled with the overall resilience just by having Qi flow through one’s meridians offered, not to mention investments in the constitution stat, Jack didn’t think it would be any real challenge for them to weather the elements unless they were trapped within a desert landscape for years.
+
+The ambient temperature might not be a problem, but that didn’t mean the terrain itself was safe to traverse. The upward sloping dune before him blocked him from taking in a full, sweeping view of the desert for any signs of movement, but even from up close Jack could see enough to confirm that the desert stretched out for miles into the horizon, with no signs of its progress slowing down.
+
+Jack caught Marcus giving him an expectant look, his gaze searching his silhouette for any signs of activity. Given that Marcus’s relationship with Jack had been a rocky one so far, he had expected him to react with wariness or caution at the revelation of another new purported skill in his toolkit.
+
+Jack’s gaze flickered over to Sarah, noting that her gaze was sweeping across the stretches of desert laid bare for her. She hadn’t paid any attention to the ethereal light gray aura ensconcing him either.
+
+They can’t see it, The revelation dawned on Jack as he focused his gaze back towards the desert, waiting for any proof that the Slaughter Aura was working. If it worked on Spiritual Beasts at or below his cultivation stage and layer, then it was logical to assume that evolved earth predators that didn’t even reach the standards of a Spiritual Beast would flee upon sensing it.
+
+But can they even sense it? Are their senses so weak that the aura can’t reach them? Jack wondered, as he considered the possibility that he’d been too optimistic in his inferences.
+
+Until over a dozen sand dunes erupted in a spray of sand almost at the same moment, each only a little distance into the desert, revealing sleek, polished black forms that were a deadly amalgamation of natural evolution meeting the system’s foreign energy source that Jack had come to know as Qi.
+
+Jack waited for a few seconds, making sure that the dune before him wasn’t about to explode outwards into a spray of sand to reveal another alligator-sized scorpion, it’s small pincers evolved into two large, serrated ones that menacingly gleamed under the gentle light beating down upon them, each the size of a blacksmith’s anvil.
+
+When nothing happened, Jack broke rank and advanced, scaling the dune in a matter of seconds before cresting it.
+
+As Jack’s gaze landed on the fleeing giant scorpions, he noticed that their chitinous exoskeleton was formed of layered obsidian plates that carried the tell-tale sheen of metal while their stingers, plural because whilst a majority of the giant scorpions had one tail, there were three or four with two, were dripping with a sickly emerald venom that possibly couldn’t be good news.
+
+Still, that didn’t stop Jack from using Inspect on as many as he could before they either disappeared behind a few particularly large dunes or buried themselves deep within the sand and chose to traverse distance underneath the dunes.
+
+[You have successfully inspected a Level 4 Sand Stalker, Trial Classification: Evolved predators from Earth’s fauna.]
+
+[You have successfully inspected a Level 5 Sand Stalker, Trial Classification: Evolved predators from Earth’s fauna.]
+
+[You have successfully inspected a Level 3 Sand Stalker, Trial Classification: Evolved predators from Earth’s fauna.]
+
+…
+
+Jack blinked, in an attempt to make sure that he wasn’t misreading the data from Inspect. Compared to the Level ten Juvenile Werewolf they had fought, Level fours and fives hardly seemed anywhere near as terrifying in comparison, which seemed to be most of the Sand Stalkers levels, but Jack had also found a Sand Stalker as weak as level three within the pack.
+
+The difficulty falling was something he was counting on, but for it to fall this drastically didn’t make sense if the system’s goal was to challenge them. Jack called upon the Sand Stalker’s description again to make sure he wasn’t missing anything.
+
+[Level 5 Sand-Stalker, Early-Layer Qi Gathering Stage
+
+Trial Classification: Evolved Earth Predator
+
+Description: Evolved from a variety of desert-dwelling scorpions due to exposure to the divine flames, a new subspecies named Sand Stalkers has been born. The Sand Stalker enjoys greater physical defenses in the form of qi-reinforced chitinous plates and pincers, enhanced strength that allows the Sand Stalker to traverse across the desert environment both above and beneath the sand to adjust for it’s greater size and contains a unique toxin in it’s stinger that confuses the senses of a cultivator, causing the Qi contained within their dantian to be released into the ambient environment and making them incapable of gathering more Qi for up to six hours.
+
+Sand Stalkers possess an innate feel for the desert environment and are capable of using said terrain to coordinate attacks or loosen the sand holding up targeted dunes. However, their intellect remains limited.]
+
+The Sand Stalkers were terrifying in appearance and had displayed their ability to move quickly enough, not to mention their ability to effortlessly hide in sand dunes in such large numbers and relatively close proximity. Their toxin was perhaps even more trickier than anything the Juvenile Werewolf had in its arsenal and Jack honestly found himself wondering if there was a way to harvest it for himself, given its usefulness.
+
+That said, their low levels meant that Jack had enough ways of dealing with the creatures and even if any of his members got stung, the toxin wouldn’t kill them. Reaching a high level on Inspect was truly paying off with the detailed descriptions he was now getting, especially the mention of coordinated attacks, which he had witnessed first hand as a tactic at least one or two clumps of Sand Stalkers were willing to use and weakening the structure of sand dunes, a possibility that Jack hadn’t considered.
+
+Falling into a hollowed out pit with only an oversized scorpion as company was a terrifying thought, stats or no stats.
+
+If Jack had to draw a comparison to the gathering of Sand Stalkers, then the closest ones that came to mind were the goblins stationed at the rift goblin camp. There were fewer Sand Stalkers and they might have been weaker overall, but now that Jack thought about it, hiding beneath the sand gave them a massive advantage over an above ground camp that practically advertised their location to anyone in the vicinity. Had he not unlocked his Slaughter Aura from the Core Sunderer feat, it was entirely possible that his group would have come into siege from a dozen Sand Scorpions with little warning.
+
+Jack’s mind began to tingle as he saw a connection between the two encounters that was too tangible to ignore. Both the entrance and exit to the Howling Mist-Vault was guarded by a sizable force and even getting to the rift goblin camp back in the Anarix Tree forest hadn’t been an easy task to begin with. Had he not killed the rift goblin commander and acquired the map, Jack wouldn’t have ventured into the heart of their territory to begin with. It wasn’t an exaggeration to claim that there were other exits to the Anarix Tree Forest that didn’t involve charging headlong into the misty stretch of land that was an obvious trap.
+
+Had Jack and Sarah taken those exits instead, would they have faced a different set of enemies upon leaving the forest? The forest had been too large for just two groups to explore, so it wouldn’t be an unreasonable assumption if he considered the possibility of more groups that had been teleported into the forested land, more survivors that he and Sarah could have run into.
+
+Instead, Jack and his group had traversed the Howling Mist-Vault and ran into another set of guardians that blocked the way to the Hidden Piece. It was too much of a coincidence for it to happen twice, given that dozens of enemies were involved in total count and the value of the Howling Mist-Vault, for those willing to plunge themselves into danger, was immense.
+
+Have we ended up crossing into a different starting location instead of going where we were supposed to? Jack considered the matter, his wisdom telling him that was very likely the case. Then, any cultivators still lurking in the area shouldn’t be too strong, while the Sand Stalkers will be perfect fodder for Jin and Marcus to get their levels up. I’ll need to be wary of Marcus though, there’s no telling how his Dao Mark grows with increased levels and if he’s smart, he’s not going to advertise any major increases in potency. Damn, I’m caught up in a balancing act.
+
+Jack hadn’t given Marcus any reason to move against him, but the apocalypse had changed them all in ways that they had yet to fully understand themselves. The man had displayed his valor in battle and it was his sacrifice that had saved Jin’s life while also giving Jack the opening he needed to turn the tides of battle. He could be a competent ally, but if he surpassed Jack in battle prowess, it was him that would be at Marcus’s mercy.
+
+The Doomsday Prepper in him couldn’t stand such a thing and he had no hope of holding onto his own humanity if he would be tethered to another’s commands. Yet, Jack had no reason for banishing Marcus and it might even be foolish to do such a thing, given that the man owed him his life.
+
+Relying on his own Dao Mark manifesting was a possibility, but given that Jack had no idea how to begin to do so, blind luck didn’t make for good strategy. Neither could he start banishing people who unlocked their Dao Marks, given how useful they could be in dealing with enemies.
+
+No, what Jack had to do was use the pressure of Marcus possessing a Dao Mark to hone his own willpower, a stat that couldn’t be bought from the system. His goal wasn’t to beat Marcus tomorrow or to hold onto the leadership of his group for years on end, no, his ambitions far exceeded anything as mundane as that.
+
+If he wanted to become powerful enough to not be shackled to the system’s whims and fancies, then Jack couldn’t let his fears and anxieties cloud his judgement.
+
+If Marcus grew strong due to his Dao Mark, all Jack had to do was grow even stronger.
+
+And now that the sand dunes were temporarily freed of the Sand Stalker threat, Jack could begin doing so by calling upon the tutorial shop.

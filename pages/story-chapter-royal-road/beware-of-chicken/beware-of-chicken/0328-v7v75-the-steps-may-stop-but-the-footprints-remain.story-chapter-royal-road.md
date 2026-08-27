@@ -1,0 +1,147 @@
+---
+id: fc5bcee9-369a-5d7c-90cc-f22ee2bf3918
+page-type-slug: story-chapter-royal-road
+title: "v7v75: The Steps May Stop, but the Footprints Remain"
+slug: 0328-v7v75-the-steps-may-stop-but-the-footprints-remain
+partOf: beware-of-chicken
+position: 328
+ownLength: 1892
+unit: words
+publishedAt: 2026-07-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3633574/v7v75-the-steps-may-stop-but-the-footprints-remain"
+royalRoadId: "3633574"
+---
+
+The dragon veins trembled and quaked. Bursts of lightning that were not lightning, but instead something more, something divine, would occasionally crackle through the ground. Sometimes, little bolts would reach me, but they were spent. Compared to what Zang Zeng had hit me with, it was merely numbing, so I ignored it.
+
+I continued. I put one foot in front of the other. My Qi unfurled and dug deep, the roots of a great tree sinking into the walls and stabilizing them. I swung my shovel, my hammer, my pick, or even used my bare hands, a living excavator, shattering every blockage before me and then using the rubble to reinforce the walls.
+
+Meimei travelled with me. Sometimes behind, sometimes parallel, sewing everything into shape and smoothing out the flows of energy. The only thing we could do was keep working, so we did. We did our best, listening to the thump and beat of the earth, of Tianlan’s soul, and trusted it to guide us in the right direction.
+
+We worked and we worked and we worked—until suddenly we came out of the depths of the earth and into a clearing.
+
+And there she was, our Tianlan, standing in the middle of a forest glade, staring up at the titanic trees with a soft smile on her face.
+
+She turned to us so we could see her full face, and she smiled.
+
+Naturally, our little gremlin got the fussing and hugs she deserved, her laughter echoing through the forest.
+
+===
+
+I let out a breath and stretched my limbs, finally rising from where I had been kneeling while we were in the Spirit Realm. It had been a long night of emergency repairs, and I was bushed. Meimei and I met up, my wife yawning tiredly and scratching at her eyes. I pulled her into a hug against my side, and she rested her head against my chest. We stood for a moment in companionable silence.
+
+For the first couple of minutes, it was silent;unnaturally so. The hornets had depopulated the woods. Anything that could be considered food had been taken, though they had focused as much as they could on meat, from the smallest worms to the birds to boars and elk.
+
+And then we heard wings. A single songbird flitted through the trees and landed nearby, looking mildly confused. It sang, its little voice warbling, and paused.
+
+A couple of seconds later, the little one was answered, another of its kind responding.
+
+It had been an exhausting night, but as always, it was worth it.
+
+Tianlan looked a lot better. It was actually a little strange to see her without half her face a flat,blank gold panel. I had gotten used to it. Now, though, she had both her beautiful blue peepers back. They were the colour of the sky on a beautiful day, and seeing the big, relieved grin on her face when we had finally finished up had been amazing.
+
+She was getting better. Slowly, but she was getting better. I wondered what she would look like one day when she was fully healed… but in the end, it didn’t matter much. Tianlan was Tianlan, whatever she looked like.
+
+I could feel the vibrant thrum of Qi beneath Ash Forest, my own spiritual roots resonating with the wood-aligned energy.
+
+The trees looked vibrant, and I could tell that each and every one of them, once capped to the size of a normal tree, was soon going to resume growing. Some of them would be as tall as skyscrapers eventually. And though it might take a couple of hundred years for them to get that tall… it sure would be something to see.
+
+There was something to be said for bringing the magic back to a place once devoid of it. The Azure Hills would change dramatically in the next couple of centuries. Some changes would be good. Some might be bad. Most would be neutral, on the whole.
+
+The only thing we could do was try and keep the needle pointed towards good. It was the least we could do. After all, I had moved here because of the lack of this magic. But after seeing everything… I think this was a good thing.
+
+And speaking of people dedicated to keeping it good…
+
+We started trekking to the clearing where everyone else had gathered last night. We had missed the celebration, but sometimes that just happened. We did have important work to do.
+
+As we got closer, however, Meimei started to sniff the air, a small frown tugging at her lips.
+
+“Tigu and Yin are quite upset,” she said, and that was a bit of an understatement. If they were upset enough for Meimei to smell it…
+
+“I remember Vajra saying something about casualties,” I whispered back.
+
+Meimei’s eyes widened before she sighed, deflating.
+
+“I see,” she whispered. It was Tigu’s first time really losing somebody.
+
+We found them quickly, hidden from the rest of the clearing. Xiulan was between them both. Her arm was slung over Tigu’s shoulder, and she was talking to her in low tones.
+
+Tigu was nodding at what she was saying—and then they reached up and embraced each other. Yin joined in on the hug, and we watched.
+
+Sometimes, kids needed their parents. Sometimes, they needed their friends.
+
+Tigu and Yin were blessed to have the kind of people who really got them and would stick with them through the bad times—hells, we all were lucky we had people like that.
+
+Tigu stood up, her eyes resolved, whatever she had talked about with Xiulan clearly having helped her. Then she saw us, and that resolve wobbled just a little.
+
+We didn’t need any words. Meimei and I just opened our arms, and our daughter hugged us. At first, it was tight, almost desperate. But slowly, it relaxed. She pulled back and looked into our eyes.
+
+“We’re always here, if you want to talk,” I told her.
+
+“And if you don’t talk to your mother and your father, I’m going to find you and bring you home,” Meiling told her seriously.
+
+Tigu giggled at the threat.
+
+She hugged us again, tight.
+
+“Thank you,” she replied.
+
+Then she pulled back, rubbed her eyes once, and slapped her cheeks. Her back was straight again.
+
+“We’ll talk later tonight. Right now, Commander Tigu has work to do!”
+
+We nodded and let her go for the moment. Yin was next, and she accepted our hugs as well, holding us tight.
+
+“I’ll make sure Big Sis is alright,” she promised.
+
+And then she too was off.
+
+Finally, we turned to Xiulan, who had remained seated.  We joined her, me on Xiulan’s right and Meimei on her left.
+
+“How are they holding up?” I asked.
+
+“A lot better than I did,” Xiulan replied, half-joking. “And... well, I just did for them what you did for me. They know it is not their fault. It is no one's fault, save for the hornets, and they lie vanquished.”
+
+“But it still hurts. It always hurts,” Meiling said.
+
+All of us were speaking from experience. The visceral memories of two lives were my piece; Meiling had her work as a healer, and Xiulan had the battles against Sun Ken.
+
+“Yin has accepted that there was nothing that she could do, and the only thing she can do now is honour their memory. Tigu thinks that there could be some way to further reduce the chances of this happening… and perhaps she is right. She wants to find the solution, if there is one. But it is not an obsession, like it was for me,” Xiulan continued, still looking out into the forest.
+
+“And you?” I asked. “Are you fine?”
+
+A small, grateful smile formed on her face. She leaned her head against my shoulder. On the other side, her fingers entwined with Meimei’s.
+
+“Yes,” she said after a moment. “In the end… this is proof that what we are doing is right. Two heroes gave their lives against a threat that by all rights should have slain thousands. Perhaps hundreds of thousands, or if things escalated further, millions. I will remember their sacrifice. I mourn that they had to make it. But I am proud that they chose to walk this path beside me. The sound of their steps may fade, but their footprints on the road will remain, widening it and helping us blaze a trail that others may find easier to follow.”
+
+I let out a breath at her words. They were evocative… and I could see the ghost of an animation or a comic. I think I had a little project for Big D, Babe, and me to do together. A set of woodblock prints, I think. Something to honour those who had fallen.
+
+The wind blew through the mostly quiet forest. We sat together for a moment longer. And then it was time for us to return to our duties.
+
+Xiulan rose and went back to the clearing, while we went to see Ri Zu and Big D, who were together, along with Vajra, away from most others.
+
+We found them in a medical tent and paused, because there was a third person  with them.
+
+She was a woman who looked to be in her thirties, with a waterfall of silky black hair. Her face was mature, with honey-coloured eyes, red lush lips, and sharp, aristocratic features. She looked like the ur-example of a “villainess,” or maybe an antagonistic empress, given how striking she was. Her maturity was only accentuated by the fact that she was wearing ill-fitting clothing. The top was one of Ri Zu’s spares, and I didn’t know whose pants she had, but both were putting up a valiant—if losing—fight. The top was barely holding onto her bust, and her skirt flared awkwardly at the hips. On her forehead was a mark that looked like three connected hexagons.
+
+The woman appeared quite overwhelmed, and Ri Zu was poking and prodding at her with a fascinated expression.
+
+I looked back at her forehead. Hexagons? I glanced to where quite a few bees were buzzing around her—
+
+“Vajra?” I asked.
+
+The woman snapped to attention, her eyes locking onto both of us. She staggered to her feet, midway between Big D and Ri Zu in height. She approached, her hips swaying… but slightly too much. The effect actually looked kind of funny, like somebody trying to act sexy but failing because she didn’t understand how to walk right yet.
+
+Which was proven correct when she kneed a chest with medical supplies. It made a tremendous bang and was violently shoved to the side by cultivation-enhanced strength. Vajra froze for a moment, her cheeks turning red, before she forged ahead, pretending that she hadn't just done that.
+
+She did manage to get before us, however, and then she sank first to her knees and then into a full kowtow.
+
+“This humble and unworthy servant pays her respects to the Emperor,” she intoned, her voice managing to hit the sultry notes her body hadn’t. “Your slave stands ready to serve—in any capacity.”
+
+All of my congratulations and questions about how she had achieved human form died in my throat.
+
+“Emperor?” I asked.
+
+And Tianlan, in the back of my head, just stared.
+
+“New Empress? Her? Mishu, what the hells?”

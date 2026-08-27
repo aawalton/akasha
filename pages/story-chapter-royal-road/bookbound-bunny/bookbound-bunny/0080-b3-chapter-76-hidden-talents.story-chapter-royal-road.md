@@ -1,0 +1,141 @@
+---
+id: 0c527443-c469-5736-a0ff-7143afddc640
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 76 - Hidden Talents"
+slug: 0080-b3-chapter-76-hidden-talents
+partOf: bookbound-bunny
+position: 80
+ownLength: 2815
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3798602/b3-chapter-76-hidden-talents"
+royalRoadId: "3798602"
+---
+
+The tournament continued in spectacular fashion, and as the number of students dwindled, so did the action. However, it wasn't until the quarterfinals that the trio from Maranix finally noticed someone familiar.
+
+"Isn't that Bradley?" Lotte asked.
+
+"It looks like him," Thomas confirmed, with Lily bobbing her head in agreement.
+
+"I told you he's not ordinary," Rose chuckled. "How could any ordinary guy be in the finals?"
+
+With Rose's reminder, the group now paid extra attention to him, curious to see why he was the proclaimed secret weapon of Maranix. He looked like just an ordinary guy, with extra emphasis on ordinary since he was one of the few humans in a crowd of demis.
+
+When his match started, he seemed to be some kind of water mage, as he conjured a large column of water that he manipulated like a viper with extreme precision. Against his opponent, a fire mage, it seemed like an unfortunate matchup, and his flames were not only snuffed out but his Ward broken by a surge of water.
+
+Bradley moved on to the semifinals, and the group thought this might be his downfall. His opponent was an Ursinia girl with a rare ice-bloodline, so his mastery over water would be perfectly countered. However, against their earlier judgment, he suddenly unleashed fire magic and perfectly controlled not one but two flames that flew through the air like graceful birds.
+
+"Is he some kind of elemental prodigy?" Thomas asked, turning to Rose. "I know there are several humans who take the broad approach, but I've never heard of anyone having this level of mastery over multiple."
+
+"You're both right and wrong," Rose replied, grinning. "Does anyone care to take a guess at what's going on?"
+
+After some awkward silence, the group ended up shaking their heads. Even Lily had no idea, and if Arakil knew the answer, he wasn't giving it for free.
+
+"I'll even drop a hint, look very closely at his flames," Rose said.
+
+Again, the group stared long and hard at the duel that looked like it was on the verge of wrapping up. Any ice the girl was forming was quickly attacked by the two flames, which, oddly, seemed to have not diminished at all despite him not recasting them. Even stranger, sometimes those flames shot out their own flames, which was a level of control none of them had ever heard of before.
+
+"Still nothing?" Rose asked, sounding a bit disappointed.
+
+"The only thing I can say is those flames look weird," Arthur replied. "It almost looks like they are flapping."
+
+"Now that you mention it… I think you're right," Hana agreed.
+
+More of the group began to agree now, but nobody had the answer. Either Rose gave up or grew impatient, as after she sighed, she gave the answer.
+
+"Those are fire bats, and Bradley is a summoner, not an elemental mage."
+
+"Wait, are you serious!?" Thomas cried out. "I thought you said I was right and wrong?"
+
+"You were right about him being a prodigy," Rose giggled mischievously. "I don't know the full story, but apparently, he had to compete with his entire family over the right to inherit the magic. You could almost say it's a human bloodline."
+
+"That's crazy. What's he doing in Regarth? Shouldn't he be in Stremweth?" Hana asked.
+
+"We could say the same to you, you know?" Lotte pointed out.
+
+"I mean, sure, but you get what I'm saying, right? I'd argue summoners are rarer than someone with a dual bloodline."
+
+"You'd have to ask him," Rose replied, looking at Lily, Lotte, and Thomas. "I'm not in Maranix, so you three have the best chance at finding out. The rumor is that only the Regarth dungeon could help him grow fast enough for his summons, but who knows."
+
+"Maybe he wanted a Familiar in addition to his summons?" Thomas suggested.
+
+"Actually, that's the funny thing. Another rumor says he is the only student accepted without a Familiar," Rose revealed.
+
+[I can't comment on the specifics of his scenario exactly, but a lot of the time, you aren't allowed to make additional pacts if you wish to become a summoner. It would depend on what type of contracts he has made, but it sounds like adding a Familiar to the mix would have been a breach.]
+
+{So he signed a contract kind of like our Familiar one. After that, he can summon them into battle whenever he likes?}
+
+[As long as he has the Mana to sustain them, yes. If I had to hazard a guess based on what he's summoned so far, I believe he might have made pacts with a few elemental beings in leadership positions. If you sign a summoning contract with a greater entity, you can often conjure forth the beings beneath them. It wouldn't surprise me even if it were an elemental titan, especially if the Mana scarcity extends to other dimensional planes.]
+
+Most of what Arakil said flew over Lily's head, but it certainly sounded impressive. In layman's terms, Bradley had signed an agreement with a ruler and could borrow the subjects, provided he paid the appropriate retainer fee.
+
+{But… Assuming you're right about the Mana scarcity, why are summoners so rare? Wouldn't they be lining up to sign contracts with almost anyone?}
+
+[It could be intentional to get more favorable agreements for those in the know. Headmaster Fabrelis already mentioned that some people hoard knowledge, and you even witnessed it today with Hana's family magic. Of course, if you want to look at it from a more optimistic viewpoint, perhaps the elementals only want to sign an agreement with someone with the right kind of Mana, and Bradley here fits the criteria?]
+
+Lily thanked Arakil for the information and chose not to press further. It was a bit much, and she would rather focus on enjoying the finals. Bradley ended up claiming victory in the end, and he certainly went out with a bang. He summoned both the water and the fire bats and had them work together to overwhelm his opponent. Also, thanks to Rose's earlier hint, Lotte noticed that the water was actually a kind of sea serpent.
+
+Another thing that Thomas picked up on was that Bradley didn't cast any other spells during the match. Once he cast his summons, he did nothing else but run around the arena or issue what looked like commands. This made perfect sense as he was likely trying to conserve as much Mana for the payments required, although there was the suspicion that maybe he couldn't cast any other spells.
+
+[It's certainly possible, not through an inability but rather as part of his agreement in his pact. Again, in the past, summoners would offer all sorts of concessions to secure a pact, and, depending on the entity, those concessions could be extreme. Of course, back then Mana was plentiful, so they could well afford to be so arrogant.]
+
+{Well, I'm glad my Astral affinity prevents me from having to deal with this. It sounds like a headache waiting to happen. I wouldn't want to deal with a snooty summon. Look at how much Thomas struggles with Yona.}
+
+Arakil chuckled and agreed; apparently, he wasn't a big fan of summoning, which made sense given his disdain for contracts. After Bradley claimed the crown for the third year students, it was onto the fourth years, and the level of magic on display once again jumped severalfold.
+
+This year seemed to have quite a few interesting bloodlines on display, which apparently leaned towards granting demis magic where they normally wouldn't. As such, there was an abnormal number of Leonia, Lupinia, and Felinia among the students. It seemed strange, and someone in the audience even asked about it. Lily was lucky enough to overhear and relay the information to an extremely grateful Arakil.
+
+From what the man suggested, it wasn't too out of the ordinary for a particular generation to be influenced as a whole, and supposedly, there was a large amount of research being done to find the cause, or at the very least to predict it. He even mentioned Lily's year, saying there were a lot of strange, even unheard-of, bloodlines supposedly popping up.
+
+His friend seemed to laugh it off, saying it sounded like a conspiracy, but Lily knew he was actually right. Lotte and Hana were two prime examples, and who knew what else might be lurking in their class or in the other schools?
+
+Needless to say, the fourth year was not only magic but also quite a display of physical ability. It seemed most of the demis got to keep their natural physical prowess despite being granted magic, so there was a lot more than just fireballs being flung around. Honestly, it was going so well that some people even thought the fifth years might struggle to beat the sheer excitement generated from such a flashy show.
+
+The finals were between a Murinia boy and a Vulpinia girl, the latter of whom had a stunning set of five luxurious tails swaying behind her, indicating a rich kitsune bloodline. The small mousey boy looked out of place in his year, as he was even shorter than Lily. However, what he lacked in height, he more than made up for with magic, where he used a magic Lily was quite familiar with when it came to glyphs: shadows.
+
+Yes, the finals were to be shadows versus illusions, which was odd considering the earlier rounds had been practically brawls. These two rather inconspicuous students had won their matches by relying on brains over brawn and were now competing against one another for the crown.
+
+Illusions had a fatal flaw that if you could prove them wrong, you could effectively counter them, but it was certainly easier said than done, as none of her previous opponents had been able to resist. As for the shadow mage, he had won despite being at somewhat of a disadvantage due to the arena being rather well-lit. If it had been a dark dungeon or forest, he would have been at peak condition, yet he still made it here.
+
+The match itself was quite hard to follow, as illusions sprouted out from nowhere and shadows cloaked his figure. From what magic they did see, he would attack by enlarging his shadow almost into some kind of tentacle monster and trying to lash out with it. Unfortunately, most of the time he attacked false images of his kitsune opponent; however, perhaps because their shadows were fake, he was able to quickly discern between falsehood and reality.
+
+From there, he took the upper hand, seeming to ignore almost everything she threw at him until he made one final blunder. She threw forth a blueish flame that looked positively unreal, and he charged forth to stay at her Ward with a shadowy dagger he had conjured, only for the willowy flame to explode and prove itself real.
+
+Nobody had expected this; even Professor Elius seemed dumbfounded by the result, but the Wards didn't lie, and his had certainly gone off. The headmaster was even called in since illusions were involved, but he confirmed the results. Supposedly, there had been issues in the past with some tricksters projecting the illusion of their opponents' Ward triggering and claiming victory that way.
+
+[She actually has eight tails; the girl is hiding three of them with an illusion. As for what she did, it's known as foxfire, and it can be extremely dangerous. All I can say is that the boy is lucky he had a Ward to stop it.]
+
+Arakil went on to explain that the way the girl had won her earlier rounds was by overwhelming her opponents with an illusion, then triggering their Ward with a simple fire spell; she had never done anything like this before. Evidently, he'd been paying attention to her matches ever since he noticed her hiding three of her tails.
+
+Very fitting to what she had done, the kitsune girl was also in Maranix, and it seemed their name for trickery was well-earned. Yet, strangely enough, neither Lily, Lotte, nor Thomas had ever seen this girl, and judging by the awkwardness of most people in the Maranix stands, it seemed most had no clue who she was.
+
+With that exciting round complete, all that remained were the fifth-year students, and Lily's earlier prediction came true. These rounds took an extremely long time because most wouldn't go down without a good fight. They were on the cusp of graduating, where they would become fully fledged mages and adventurers, so their education and growth were on full display.
+
+However, as a result of the previous round's outcome, there seemed to be an unspoken agreement between Terravix and Zephyrix not to allow Maranix to claim victory again by any means necessary. They didn't throw their matches per se, but the ferocity that their students showed was basically unmatched.
+
+Whether their effort was rewarded or due to behind-the-scenes manipulation by the organizers, the finals ended up being Terravix and Zephyrix. This seemed to satisfy everyone watching, and Maranix itself didn't kick up much of a fuss; however, what surprised Lily was recognizing one of the participants. Representing Terravix was Duncan, one of the enchanting students who had helped in drawing the glyphs for the alchemy test.
+
+Lily wondered whether he would use glyphs or enchanting, but when the round began, and he threw out what looked like scrap metal from his bag, she and her friends were left speechless. Rose, on the other hand, began clapping with excitement, and it seemed that anyone who knew what was going on was equally delighted.
+
+In what could only be described as shocking to the first-time witnesses, Duncan was, in fact, a metal mage. If he had thrown out perfected steel bars or weapons, people might have been startled, but what he actually did could only be described as magical.
+
+He had thrown out what looked like genuine junk, and, right in the middle of a match, seemed to be forging and purifying it into something better. Rusty junk was stripped clean, and what appeared to be alloys were manufactured before everyone's very eyes as if the arena itself was his workshop.
+
+As for Duncan's opponent, it was equally exciting for the pair from Zephyrix, as while he was a more orthodox wind mage, he was capable of genuine flight. As soon as Duncan pulled out his metal scraps, he flew into the sky, and from there, he began launching a barrage of wind blades at the ground, all while he gracefully soared through the air.
+
+Duncan, however, seemed unfazed by such actions and defended himself with metal he twisted and malformed into defensive sheets. If it were just ordinary sheets of metal, the magical wind would have no doubt torn through it, but these were unexpectedly reinforced. This time, it was Arakil's time to get excited, causing Lily to nearly lose her cool.
+
+[He's engraved minor defensive enchantments into the metal while shaping it!]
+
+Yes, Duncan was not only using metal magic, something most people probably had never heard of, but he was also combining it with enchanting. It was crude and simple enchantments from what Arakil was describing, literally just defensive reinforcements, but it was still a testament to something they both loved.
+
+If it had been anyone but Duncan, they might have lost to the flying onslaught. Still, he quite literally turned himself into a fortress, and his opponent, despite throwing out some very terrifying spells, couldn't breach the defenses.
+
+Some people thought it was going to be declared a draw until Duncan, satisfied with his defenses, finally turned to attack. Perhaps a testament to his ingenuity, he didn't use any of his refined metals; no, those were all for his protection. Instead, he used all the offcuts and impure metals he had removed from his forging and turned them into what could only be described as a shrapnel bomb.
+
+The metal exploded in the air, blanketing the area in enough debris to form a junkyard. His opponent couldn't dodge; however, he turned to a familiar defensive shield to protect himself from the hail of metal shards. Things were looking good, and his barrier was not failing, until Duncan once again defied expectations and threw a metallic spear at him.
+
+Unbeknownst to everyone, he had somehow snuck in enough time to forge a metal spear, or perhaps it was one of his defensive barriers repurposed. Whatever the case, this weapon was enough to shatter the protective barrier of wind, and without it, the hail of shrapnel finally triggered his Ward.
+
+The crowd erupted in cheers of "Duncan! Duncan! Duncan!" as it echoed from the stands. It was a magnificent spectacle and a great way to finally draw a curtain on this day's events.

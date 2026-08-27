@@ -1,0 +1,289 @@
+---
+id: 672d6d11-94c0-5186-8ac9-ab8f716faa2c
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 3 - A Tagalong"
+slug: 0060-book-5-chapter-3-a-tagalong
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 60
+ownLength: 5739
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3141551/book-5-chapter-3-a-tagalong"
+royalRoadId: "3141551"
+---
+
+“I know I said it before but let me repeat it one last time. If you go straight north from here—toward those mountains—you’ll find the City of Arts on the other side of ‘em.” Elencor announced while the caravan slowed to a stop.
+
+Their original timeline had them arriving in Tympestshard by autumn, but the myriad little delays that life threw at them (…and the not so little delays; Ranthia still couldn’t believe they’d rebuilt a collapsed bridge) meant it was already winter. The road was mostly flanked by spiky trees that remained obstinately green, even in the bitter cold. But a layer of frost covered the region everywhere Ranthia looked—an enduring memento of the rain that had assailed them two days previously.
+
+After almost a year spent travelling with the caravan, it was time for Ranthia to part ways with them.
+
+“So, I just have to climb the mountains?” Ranthia asked as she eyed the peaks. They weren’t quite as tall or imposing as some of the mountains she’d seen throughout her journey, at least.
+
+The asshole that she considered a friend promptly burst into laughter, and she sorely wished that she could be surprised. He was happy to tell her things that she didn’t know (and things that he unilaterally assumed she didn’t know), yet any time she said or did something he considered to be naïve or ill-informed, she had to endure his gleeful guffaws.
+
+He was also prone to laughing for minutes at a time, leaving her to simmer in her impatience.
+
+“By the Field of Miracles, oh, that was a good one! Climb the mountains, she says. Ha! Listen, only a total fool of a child or a true powerhouse—preferably more than one, really—would climb a mountain. Civilizations tend to not touch mountains for ages; there’s just no point in it. Unless you’re a harpy, of course. But this means that the nastiest beasts you’ve ever seen tend to live atop mountains. Yeah, you’d see the City of Arts from atop any of those peaks, assuming you ever got there in the first place.
+
+“Seriously, just go straight north. You should come across another road that runs parallel to this one, and along it there’s a foot path—actually, it might be a full road by now, it’s been a while since I was in the area. Anyway, it leads to a tunnel that punches straight through the mountains. You’re just four or five days away from your destination, I reckon.” Elencor explained, once he finally overcame his amusement.
+
+She was going to miss the guy, even if he was a jerk.
+
+Once she absorbed his navigational guidance, Ranthia nodded and offered the elf her arm.
+
+“If you’re ever around the City of Arts in the near future, look up any human living there. I don’t know how long I’ll be staying, but I wouldn’t be too put out if I had to see your pointy mug again.” The words couldn’t have come from Prima, but she’d largely weaned off from her initial (exhausting) guise as they travelled. She still hadn’t (and wouldn’t) give them her true name though; if the caravan ever made it into Remus, she really didn’t want to risk her name getting back to the Sentinels.
+
+Elencor nodded gravely before he placed his hand atop her bandage-wrapped bracer. …Ah, oops. She’d somewhat forgotten that he wasn’t a fellow Adventurer from Remus after so much time spent together. And elves didn’t have a custom of clasping arms like people in Remus did.
+
+It was the kind of mistake that she really needed to stop making if she was going to live amongst the elves. Avyna had largely adapted to Ranthia’s own comforts and habits, but she couldn’t expect anyone else to go that far out of their way just to soften her culture shock.
+
+Making a conscious effort to control her blush, Ranthia freed her arm and turned to his daughter. Her smile was more forced than she’d wanted it to be when she said farewell, but she wasn’t going to let a bit of embarrassment stop her. With deft fingers, she unclipped the sheaths for her short swords from her belt before she presented the weapons to the elven woman.
+
+“I know you said you’d think about it, but I wanted to make one last plea—your father and I aren’t kidding, you need a melee weapon you can rely on if you run out of mana and something gets close. Please, accept these—at least for now. You don’t have to use them forever if you find something that you prefer, but these blades are dwarven steel and have proven themselves to be reliable and easy to maintain.” Ranthia let a slight plaintive note enter her voice as she waited for the surprised elf to take the proffered swords.
+
+“Just take ‘em; they’re not her actual weapons. She’s just hiding from something and didn’t want to use her flashy weapons.” Elencor quietly explained when his daughter tried to refuse.
+
+…Ranthia’d never quite told him that much, but she wasn’t exactly surprised that he’d pieced it together. The man had lived several times her own lifespan and—bad habits aside—he wasn’t an idiot.
+
+Elenera sighed through her teeth, but she finally nodded and accepted the weapons without a word. Instead, she offered Ranthia a somewhat sad smile as she hugged the sheaths to her stomach.
+
+“Alright, well, I can practically feel my former employers glaring at me, so I better stop holding you up. Brush, give the elk my best!” Ranthia called over as she stepped back.
+
+The quiet elf was still inside of the wagons, but she had every confidence that he heard her.
+
+“Alright, here’s the goods you wanted, Prima. That’ll cover what we still owe you. And if you’re ever looking to work as a caravan guard in the future, you can drop my name.” The short [Merchant] announced, as he tossed a bag of woven grasses in her direction. He wasn’t wearing one of the flamboyant hats he favored, for whatever reason—and Ranthia had no idea why that felt significant.
+
+Ranthia chose to accept his words as high praise and offered him a smile while she caught the bag.
+
+“Thank you! Best of luck with your future endeavors everyone and may you all stay safe!” Ranthia dipped into the bubbly persona one last time as she scrambled to turn the salute she nearly made into an awkward wave.
+
+And with that, the caravan resumed moving. Ranthia didn’t linger to watch them go (the road’s sight lines were long; it would’ve taken forever). Instead, she turned to the north and started to ‘walk’ at a pace suitable to her level.
+
+She’d basically made back what she spent on those swords through her time in the caravan, but she only had a small piece of obsidian and whatever fresh produce and goods her former employer had put in the bag to show after almost a full year spent guarding the caravan. The pay was insulting—and well below what she would have charged as an Adventurer—but she was finally more-or-less where she needed to be.
+
+Xaoc willing, Avyna was already waiting for her just past those mountains!
+
+Elencor had warned her that she still had four or five days left of walking, but she was optimistic that she could beat that. Once she was confident that the road was out of sight, she sent out a fresh image and tossed her backpack and the bag of produce to it while she activated [Reflections of Reality].
+
+It was nice to be freed from weeks of accumulated scratches, bruises, and cramps—she’d rarely been able to find opportunities to shift while she was in the caravan’s employ. But there was something she’d missed even more than shifting into a fresh image several times a day…
+
+After almost a year, Ranthia finally indulged in her urge to dance. The rhythm returned to her with ease, and she embraced her oldest friend with relish. Her footfalls turned erratic and light as she traipsed across the frost. The day was beautiful, and she could be mere days away from reuniting with the woman she loved—no matter what Avyna’s ominously phrased final note suggested.
+
+Sure, Elencor had warned her that the area was prone to snowstorms due to the mountains, but it wasn’t like she was planning to camp there throughout the season. She wasn’t worried—not one bit!
+
+Yeah, even she had regretted the thought from the very moment that it crossed her mind.
+
+With her luck thoroughly jinxed, the cruelty of Pallos wasted no time; the temperature started to drop steadily almost from that very moment. By midday, the sky had turned grey—and that was when the snow started. First came sporadic, gentle flakes, which soon evolved into a consistent dusting that began to accumulate on the ground. And then—hours too early—the world rapidly grew darker as the wind began to pick up in earnest.
+
+The region became a frigid mass of flickering white over a sea of black. Wind howled as though it were a monster from some great legend. It was a storm unlike anything Ranthia had ever experienced, but she couldn’t just nest down—she needed shelter.
+
+Otherwise, even she might freeze. Her vitality was plainly outmatched by the sheer cold that the snowstorm had invoked. Her fingers and toes—damn Reman sandals—were worryingly numb, but Ranthia couldn’t let herself fret about that.
+
+Navigation was the larger issue.
+
+[Divine Eyes in the Void] let her see a little further than her own eyes could. She’d put her blindfold back on to keep the wind-driven snow out of her eyes, but even with all three sources of her vision she could only see a very short distance. It was enough to spare her from a tumble every time she discovered a streambed, but…
+
+…She was terrified that she was stumbling across the same streambed over and over again. Her sense of direction had proved to be reliable time and time again, but she was pushing through vengeful wind in a world of darkness marred by absolute white. The fourth time she found a streambed, she decided to stop trusting herself.
+
+Necessity was the mother of invention—a solution came to mind almost immediately. She was desperate to find shelter, after all. Ranthia dropped an image behind herself and sent another forward, using her prior image and current body to verify that she was moving forward. She had no idea if she was moving toward the mountains or not, but any progress was worthwhile. Shelter first, then she could reorient once the storm was done.
+
+Her trick with her images slowed her down even further though. They’d grown robust enough that the driving snow wouldn’t break them, but fragments from trees weren’t uncommon. She’d never even thought to test it, but it was a relief that she could willingly negate [Divine Eyes in the Void]’s default behavior of zipping around to face incoming hazards. She was in a wildly dangerous situation, and she was counting on the Skill to keep tabs on her images that she was using to keep herself moving in a single direction. Once she got too close to the image she was nearing or started losing sight of the image she was moving away from, she replaced both.
+
+Cold, numb, and scared, Ranthia continued her journey.
+
+Thank you.
+
+Ranthia sent her fifth—actually her sixth—prayer to Xaoc once the fire finally spread to the log. The needly leaves on these green-in-winter trees had a horrendous scent when they burned, but she didn’t have anything else she could readily use for kindling.
+
+Finding the clump of closely gathered boulders, large enough to offer her shelter (while she crouched or sat, at least) had been miraculous enough, but they proved to be close enough that she could form shelter against the wind using her traveller’s cloak and some piled rocks. From there, Ranthia left one of her adamantium knives stuck in the ground—so she could be damned certain she could relocate the site with [Divine Seeker]—and set out to harvest the wood and kindling she needed to start a fire. Shoving the bulk of the snow out had taken even more time, but it’d all been worth it.
+
+Her discolored fingers and toes were placed as near the growing flame as she dared, as Ranthia finally allowed herself to relax a little. She was exhausted after everything, but she was… well, at least she was briefly safe. Xaoc alone knew how long the storm would last or if her shelter could withstand the fury—and sheer weight—of the driven snow, but until a problem arose, she intended to recuperate.
+
+Ranthia shook herself out of the light doze she’d succumbed to and hurriedly verified that nothing had gone catastrophically wrong while she was out. But no, her fire was still going, her traveller’s cloak was still in place, and the boulders hadn’t gone anywhere. If anything, the storm had lost a bit of its fury in the (at most, probably) minutes she’d slumbered.
+
+Her fingers felt far better, so Ranthia finally opened the woven bag that the caravan had provided. A small traveller’s cooking pot was the first item she removed—honestly, how had she left the war zone without even thinking of such an important staple from her Adventurer days—and Ranthia wasted no time in setting it up and gathering some of the cleaner, fresher snow to pile into it. Chunks of dried meat and tougher vegetables went in next, once the snow had melted.
+
+“I’m pretty sure Danther gave me more than I was owed, maybe he did feel guilty.” Ranthia gave voice to the thought, just to hear something. The world was creepily silent as the wind died down. She was used to how snow seemed to absorb the noise of the world, but she had never truly experienced just how eerily quiet it could be, not while she lived within a bustling military installation.
+
+Silence had become uncanny at some point.
+
+Ranthia seasoned her soup as her whims directed, enjoying its aroma. She’d set several items from her bag into the snow outside of her shelter—close enough that she could lean over and grab them—to help keep the produce fresh. She added a few leaves of spinach to the soup once it was ready (no point in letting the greens turn to mush), then tied the bundle closed again and leaned over to set it in the snow.
+
+She was so hungry. There was zero chance she was going to wait for her food to cool before she began to—
+
+Vlip.
+
+Ranthia had never heard anything quite like the sound. Sure, snowscapes were infamous for generating some unusual noises, but the wind had died down to almost nothing. Ranthia peered about, only to finally spot movement that was far closer than she would have ever expected.
+
+[Rabbit – Spatial] level 81.
+
+The tag was as incongruous as the presence of the animal was. Ranthia never truly relaxed her guard, yet a rabbit had managed to get within arm’s reach?! It was oversized, oddly proportioned—as though it was still immature, despite being larger than any rabbit she’d ever seen—and its fur was a brown tone that was wholly unsuited to the snow.
+
+Animal and Adventurer froze as they assessed one another. Then the rabbit snatched the bundle of spinach as it braced its legs—and vanished.
+
+Vlip.
+
+A level 81 Spatial user that could actually teleport was almost as weird as a caster monster rabbit. Of course, the limitations were stark. The rabbit had only travelled about as far as it could have moved in a single hop.
+
+Bemused, Ranthia sent an image in front of the rabbit. It immediately crouched as though it planned to jump, and—
+
+Vlip.
+
+It vanished again, but Ranthia had such an advantage in stats that she had a new image placed in front of it before the rabbit seemed to be able to parse its surroundings. To its credit, the rabbit tried to crouch again, though no strange sound came.
+
+Instead, the bunny faceplanted into the snow—clearly surprised that it’d run out of mana.
+
+Ranthia reached it before the rabbit could recover. She snatched the creature by the scruff of its neck and held it up to her eye level—at a safe distance, she wasn’t stupid—and eyed it warily. The rabbit gave a few performative kicks that failed to connect with anything, but it finally seemed to accept its fate and just dangled in her grip.
+
+Ranthia started to form a knife… but she finally just sighed and returned the adamantium sand to its bracer form.
+
+The rabbit had gained five levels just from that brief, desperate attempt to abscond with a little food.
+
+“You’re just trying to survive, aren’t you? Besides, I already made dinner, so consider yourself lucky.” Ranthia tried to keep her tone soothing as she sat back down.
+
+She leaned around the fire and set the rabbit down on the far side, scattering several leaves from the bundle of spinach around the animal before it could react.
+
+“I won’t hurt you, but you should probably stay near the fire. Your fur coat’s way too thin for this kind of weather.” Ranthia offered, while the rabbit tried to figure out how to react to the new situation it was in.
+
+She focused on eating her own soup. The spinach had turned into mush in the brief time she’d dealt with the thief, but the food was hot and flavorful—which made it wonderful.
+
+The rabbit started to hop away, then returned to eat the spinach she’d left it. It even let her give it several more leaves, though it wouldn’t take any from her hand—she had to set them down first. She had no doubt that it’d leave at some point though, especially once she finished her soup and settled in to get a little sleep while she could.
+
+Ranthia was surprised to see the rabbit was still there when she woke up to tend to the fire. It immediately hopped out of the shelter when she started to move and grab more wood, but it stayed just outside. And a similar set of events happened every time she woke up throughout the night.
+
+The next morning, Ranthia woke up alone. And that was for the best, she really didn’t want to wrestle with her own sense of ethics about if the rabbit could still be food after she fed and sheltered it. Instead, she broke down her camp and cleaned the cook pot as best she could with snow. And with her—slightly frozen—traveller’s cloak back around her body, Ranthia grabbed a travel biscuit and some sausage from her bag.
+
+…And finally noticed the rabbit in the snow, just behind a fallen tree branch.
+
+Ranthia swallowed the laugh that nearly passed her lips and just wryly set out the last of her spinach for the rabbit. She could have sworn that it was eyeing her sausage covetously, but the rabbit emerged and began to eat the leafy greens while Ranthia walked away.
+
+The morning was hazy, but she could see enough of the sun through the thick clouds to guide her way to the north (also, she could see the mountains again, but it never hurt to verify things more than one way). It was still cold, but the going was infinitely easier than it’d been with the snowstorm.
+
+Still, Ranthia wasn’t moving as fast as she could—she was all too aware of the rabbit hopping along in her wake, even if it tried to dive for cover any time she turned toward it.
+
+She’d acquired a tagalong, of sorts.
+
+Elencor’s estimation of four to five days was probably overly optimistic.
+
+Ranthia had no idea how far off course she’d veered, but she never found the parallel road that he’d spoken of. The mountain peaks even looked different, not that Ranthia wasted the inordinate time [Chest of Experience] would have required just to compare. She just kept moving to the north.
+
+Travelling through the snow was harder and slower than she would have preferred. The cold slush wasn’t too treacherous, not with [Rhythmic Grace]’s assistance. But each movement required quite a bit of effort, and her body heat was leeched with every step. Her winter lining kept her own sweat from freezing her skin to her armor, but the sandals designed for Remus’ climate were little better than going barefoot through the snow.
+
+Sure, she could have danced across the top of the snow if she moved at speed, but for whatever idiotic reason, she felt obligated to keep her pace to one the wild animal could follow. She even tried to point out places that [Divine Eyes in the Void] warned her were dangerously deep—as if the rabbit understood anything she said to it.
+
+Unfortunately, Ranthia knew that she’d feel guilty if the rabbit died because of her. It plainly wasn’t built for the terrain—the creature was probably fifty percent leg by volume, and it was struggling to get through the snow, even following in her wake. She took to sliding her legs through the snow, rather than trying to step over it, to ease the rabbit’s passage.
+
+Which was absurd. When she’d fallen asleep that first night, she was half-planning to make the rabbit into her breakfast, yet there she was, trying to keep something she’d eaten hundreds of safe. By night, the rabbit was visibly nervous, yet it stayed near the only sources of warmth and food that it had. The creature wanted nothing more than to survive and…
+
+…Godsdamnit, the rabbit reminded her of herself. Or at least the girl she’d woken up as, after Xaoc gave her a second chance. Like her younger self had chosen Tatius and Pupius, the rabbit had latched onto the best—only—hope it had.
+
+Each day, it followed her a bit more closely. Each night, it moved a bit closer to her for warmth.
+
+But as Ranthia neared the mountains, two unexpected worries were blooming in her troubled mind. The lack of a road or path was the first problem—if she couldn’t find one, she’d have to climb a mountain. And she somehow doubted that Elencor had been joking when he explained just how foolhardy it would be to do that.
+
+The second problem was food. She had plenty, but she hadn’t exactly expected to need victuals for a rabbit when she gave the caravan a list of things she wanted in lieu of her final payment. She’d never really looked into what rabbits ate, but grass seemed logical, given their usual environments. Unfortunately, she hadn’t seen any form of grass that was even remotely salvageable ever since the snowstorm. What little she found beneath the snow was soggy and brown, and the rabbit hopped right past it without even giving it a moment’s consideration.
+
+Presumably giving a wild rabbit dried meat or soup was a poor idea, but she was running out of leafy greens that the bunny seemed to be interested in! She still had a couple of apples, but she had no idea if they were safe. Could she truly just rely on the rabbit to know what it could eat? …Given the thing’s transparent fascination with sausage, she suspected the answer to be no.
+
+Haunted by her fretful thoughts, Ranthia continued her journey. The City of Arts was closer than any other source of civilization, and she had no idea where the caravan was even going—trying to catch up to it was probably futile.
+
+The second problem came to fruition before the first. By the end of the fifth day, Ranthia still hadn’t reached the base of the mountain she was approaching, and she’d doled out the last of her bunny-approved produce. Even her own provisions were looking dicey. Each day of travel through the snow was hard work that left her hungry, but she probably needed to reduce her intake. If she ended up trapped by another intense snowstorm…
+
+Ranthia eyed the travel biscuit, topped with cheese she’d melted over the fire, with some regret.
+
+But with dinner sorted, she was out of food she was confident that she could feed to her tagalong. She wasn’t about to indulge its interest in sausage and even giving it travel biscuits felt like a terrible idea. But the rabbit wasn’t even level 100—there was no way it could survive without food for very long.
+
+“I really shouldn’t have let you follow me to the north, little one.” Ranthia whispered apologetically.
+
+The rabbit had taken to remaining within arm’s reach—it’d even snuggled up to her leg last night when it thought she was asleep, though it moved away at the slightest hint of movement. She was even mostly convinced that the rabbit had grown a little bigger during their time together.
+
+It was a child that would grow into a downright massive bunny—or at least it would have, had it not had the misfortune of ending up in such a hostile environment. Had it not had the misfortune of meeting her.
+
+Once she was confident that the night’s fire was in good condition for a while, Ranthia curled up and cocooned herself in her traveller’s cloak. She had nearly drifted off to sleep when she sensed movement.
+
+The rabbit cautiously crept over and ultimately cuddled up near her belly.
+
+Ranthia’s guilt surged, but a smile still overwhelmed her face. Glacially and gently, she carefully lifted the edge of her cloak and partially covered the bunny to help keep it just a bit warmer.
+
+The snow had picked up again overnight. The wind still wasn’t too bad, but by the time Ranthia was done packing her camp, the snow was over her knees—it was twice as deep as it’d been the day before. She’d set up camp atop a boulder just because the fire made the rock nicely warm, and it had helped to keep them safe as the snow piled—
+
+The rabbit, blissfully unaware of the risk, hopped next to her and collapsed gracelessly into the loosely packed snow. There, it began to panic and kick, which only made it sink deeper into the fluffy hazard.
+
+Ranthia carefully extricated the rabbit from its snowhole, then carried it back to their former campsite. With the bunny safely set down, Ranthia began to rearrange her backpack.
+
+“You know by now that I won’t hurt you, right? This is too deep for you to follow me, and this way we can move faster. I can’t keep at your pace; we might both die out here.” Ranthia begged an animal, as if that was a rational thing to do.
+
+One of the rabbit’s erect ears twitched, as it watched her with its cute, beady eyes.
+
+Gods and goddesses, how was she ever going to make it understand?
+
+“Here goes nothing.” She grumbled to herself, before she put her backpack back on and reached for the rabbit.
+
+It, unsurprisingly, hopped away from her hand.
+
+“Come on, just trust me…” Ranthia pleaded, but the rabbit continually avoided her hand.
+
+Ranthia’s impatience bested her before the animal decided to go against its nature—she used the tyranny of stats to seize the bunny and gently set it into her backpack before it had time to make sense of what was happening.
+
+“There, see, you’re safe. You’re secure. And it’s got to be warmer in there than it would be at the bottom of the snow. I won’t even close the bag, so there’s no reason to get scared.” Ranthia promised.
+
+The rabbit seemed to be staying put for the moment, so Ranthia started to move. She built speed gradually, until she stopped sinking into the abominable snow. She didn’t dare to dance while she had a passenger on her back, but she had enough speed to—
+
+Splat.
+
+She felt the shift in weight, and the impact and resulting thrashing were unmissable.
+
+The panicking bunny managed to bite one of her fingers—though it failed to breach her vitality-reinforced skin—before she managed to pull it out of its self-induced snowhole. Ranthia fought down the urge to curse and carefully returned the thrashing bunny to her backpack.
+
+“I’m trying to help you!” She wasn’t sure if she was complaining or pleading.
+
+Vlip.
+
+Splat.
+
+Ranthia buried her face in her hands while the bunny created a new snowhole, a hand’s breadth away from its first. She was sinking into the snow too, as she stayed put.
+
+The less said about the process of convincing the rabbit to stay in the backpack, the better. There might have been a few tears, and Ranthia’s abused hand was still throbbing from the onslaught of bites and kicks that she’d endured.
+
+But the rabbit was in the backpack, and she was progressing across the mountain. Either it had come to accept that the backpack was safe, or it had exhausted itself—and frankly, Ranthia was struggling to care which explanation was the truth. It was already well after noon (probably, the cloud-cover was too thick for even [Divine Eyes in the Void] to catch a glimpse of the sun), and Ranthia kept her gaze fixed on the closest mountain.
+
+Ranthia had lost track of more than time, it seemed. When the sun set—unnoticed thanks to the cloud cover—it took Ranthia’s sight with it. She hadn’t even found a viable campsite, let alone fodder for a rabbit, and she hadn’t consciously realized it was the moonless night because she’d assumed she’d be past the mountains before she had to worry about it!
+
+Ranthia shared a litany of choice strings of profanity with her little slice of snow-muffled Pallos. They weren’t directed at White Dove though, no, of course not. It would have been stupid to do that. It wasn’t like it was the bloody divine-created bird’s fault that she felt compelled to curse Ranthia with a stupid, dangerous curse that was definitely going to get her killed sooner or later—quite possibly that very night! These sorts of things just happened.
+
+Okay, yes, she was mostly just mad at herself for losing track of the moons’ incredibly consistent cycle. She knew better!
+
+With willful effort, Ranthia pried [Divine Eyes in the Void] back “open” for a moment while she looked around. There was no sign of a viable place to shelter, and after hesitating for a moment, Ranthia chose to press on. She’d spent the bulk of her life not being able to see on the moonless nights, and she’d yet to see any sign of predators emerging from whatever den or hidey hole they’d retreated to when the snow began. So long as she was careful and took peeks to confirm that she hadn’t drifted astray from her destination, she was fine.
+
+Probably.
+
+The lack of shelter was just the final straw though—she was more worried about finding something the poor rabbit could eat. She’d ignored the intermittent sounds of the rabbit chewing on something inside her backpack—there was nothing edible in there, but she could worry about whatever had been damaged later. For the moment, she was willing to let the rabbit do whatever it felt it needed to do to endure its hunger. She could always replace things in the City of Arts.
+
+The return of Ranthia’s sight heralded the arrival of dawn, not that the terrain was affected. The clouds were just as thick as ever.
+
+Ranthia was a touch battered and bruised from her overnight journey (rocks and tree branches were not her friends), but at least she had almost reached the mountain itself. Which meant she’d somehow passed or missed the promised road. Unfortunately, the snow made it hard to say which was the case.
+
+The rabbit was still asleep in her backpack, and the morning marked a full day without food for the poor animal. She had no idea how often rabbits had to eat, but as a high-energy prey creature, Ranthia suspected that going without sustenance was a major problem. Vitality could only do so much, and it wasn’t like she could ask the rabbit what Skills it possessed.
+
+With her sight restored, Ranthia put [Divine Eyes in the Void] to work trying to find anything that might be safe for the rabbit to eat. Through the [Divine Eye] the world swirled wildly, but Ranthia had to rely on [Submind] and [Adamantium Will] to keep herself from growing nauseous.
+
+She had no intention of eating until she found food for her rabbit.
+
+Thank you! Ranthia sent a frantic prayer to her amused and uninvolved patron deity, as she scrambled across the snow.
+
+It was probably close to sundown, but [Divine Eyes in the Void] had finally found some greenery! Safely sheltered between a few trees and some sort of thorny bush that Ranthia plowed heedlessly through was a small field of clover that had endured the cold.
+
+Ranthia gingerly removed her backpack and lowered it to the ground. The rabbit seemed lethargic and Ranthia’s heart ached when it didn’t immediately respond to the sight of food. Was it already too late?!
+
+And then the rabbit yawned lazily—before it immediately launched out of the backpack and tore hungrily into the clover.
+
+Ranthia found herself laughing with relief as she leaned against the tree. Her tagalong was okay!
+
+“Looks like you really like those.” Ranthia wryly commented a couple of minutes later, while she busied herself with shaking the rabbit droppings out of her spare armor lining. Once that was done, she opened her woven bag and pulled out some slightly squashed food for herself. A small bit of sausage, a little cheese, and half a travel biscuit were all she permitted herself to take. The bag had gotten a bit abused during her time spent blind—and her deference to her backpack—but that was fine.
+
+The bunny continued to gorge itself, even after she finished her own carefully rationed meal.
+
+“I think I’ll call you Clover.” Ranthia whispered, careful not to bother her rabbit.
+
+There was no space for a fire, though she didn’t plan to stay there for too long anyway. Still, even with the cold, she felt warm enough to rest until Clover was finally done eating. She had no idea what the future would bring, but for the moment everything was okay. …At least so long as she ignored the problem that loomed above her—a peak she had been warned against climbing.

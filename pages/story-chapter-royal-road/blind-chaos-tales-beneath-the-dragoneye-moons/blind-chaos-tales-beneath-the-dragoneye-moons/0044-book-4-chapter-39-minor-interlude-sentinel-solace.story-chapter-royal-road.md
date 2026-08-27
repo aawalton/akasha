@@ -1,0 +1,203 @@
+---
+id: 8711de7d-c8f6-50da-bb43-1425fbb3a94f
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 39 - Minor Interlude – Sentinel Solace – The Result of Their Legacies"
+slug: 0044-book-4-chapter-39-minor-interlude-sentinel-solace
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 44
+ownLength: 4909
+unit: words
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2896786/book-4-chapter-39-minor-interlude-sentinel-solace"
+royalRoadId: "2896786"
+---
+
+In the year 4819, during the Triumph of Sentinel Grace, the woman being honored by the empire gifted a young girl—an ordinary lass of limited means, like any other—a decorative helmet and unknowingly established a legacy. The girl remained obsessed with the beautiful Sentinel, even when soldiers beat her parents while they searched in vain for her treasure, even as she failed to prove her ability to follow in her idol’s footsteps, even as she married a lackluster handyman and gradually found love, and even as she grew old and chose to accept an unwanted newborn daughter from another woman after years of failing to have a child of her own. Her daughter was raised on the tales of Sentinel Grace. The accolades and the achievements of the Sentinel largely grew stale and faded from memory, but in that house they remained alive.
+
+Like her mother, the daughter dreamed of becoming a Ranger and following in Sentinel Grace’s footsteps. Like her mother, she failed—not because of any frailness of body, but because of a lack of drive to truly pursue her ambition. She remained lazy, barely willing to put in the minimal effort required to survive within Ariminum’s costly walls. For a time, she reveled in the attentions of three different men, but when one of them inevitably impregnated her, they disappeared from her life.
+
+Her daughter was made of sterner stuff than her forebears. She wasn’t touched by her grandmother’s unrelenting frailty, and she was more energetic than her mother from the very day she was born. Gracea was a rambunctious and healthy child that grew up on her sickly grandmother’s stories of the larger-than-life woman—a true Sentinel, greater and more accomplished than those that typically stalked Ariminum—and always claimed the identity of her namesake when she played Soldiers Versus Shimagu with her friends. But her grandfather struggled to feed his wife, daughter, and granddaughter—often, she was asked to pretend to be another urchin off the streets.
+
+She loved it each and every time that it happened. She was hardly the only child from a poor family that would spend a season or three at Our Lady of Chaos—it was a lifeline to many throughout Ariminum. There, Gracea practically feasted like a wealthy girl on a decadent three meals a day. They even had bread that was much, much tastier than the oft-stale loaf she had to stand in line for half the morning to get from the imperial bakery. But the food wasn’t the best part, that was the people that visited to teach them things! She learned from so many craftsmen, artists, teachers, and even philosophers. She was able to get the [Apprentice to Knowledge] class when she unlocked, which would let her become anything that she wanted to be. The System said so itself!
+
+It was always worth the fresh rounds of mockery over her ‘odd’ name, as if being named after a number was somehow better than being named after one of humanity’s greatest heroes!
+
+She tried to practice dancing and exercised hard when she could, whether she was at home or with the urchins sucking at the teat of the Chaos Temple’s generosity. That was what Sentinel Grace—the best Sentinel—did, after all. But rhythm continued to be weirdly hard, even as she neared the lofty heights of the level 32 class up, which left her frustrated. She had nightmares about her approaching class up denying her any means to follow her heroine—denying her goal to someday destroy the shimagu at her side.
+
+And then she was faced with the happiest coincidence of her life. Her grandmother died (not that part) to a minor coughing plague going around the city, and Gracea found herself back at Our Lady of Chaos just in time for a new teacher to arrive. His name was Markus, and he was almost as cool as Sentinel Grace. After all, he had actually killed shimagu.
+
+The man seemed to be ancient—he was close to the combined age of her grandparents—but he was powerful. He was the first person that she ever met that had all three of his classes. But above all else, he was a Pyronox [Healer] and he led his lessons with words that she would never forget: “Healing is the easiest way to kill any shimagu.”
+
+The man was friends with another lady Sentinel—Dawn—and provided them with copies of the Sentinel’s set of scrolls collectively known as the Medical Manuscripts. They were almost entirely indecipherable, but Gracea devoted herself to learning what precious few sections made sense. Even when she hit level 32, she put off her class up and focused on her lessons. She greedily pestered Markus with questions, even when she had to shout over her peers. She did everything in her power as a young child to learn things people who were much older than her failed to grasp.
+
+Because, for the first time, she felt as though she had a real path to someday fight alongside the heroine that she had inherited from her grandmother and her mother.
+
+At the age of 13, the Dark [Healer]/Water [Healer] that Gracea had grown into signed up with the Legions. Technically, she was still a year too young, but it was something of an open secret that the recruiters didn’t actually care, so long as they met their quotas. Gracea was hardly the youngest that signed up; the Legions offered food, training, pay, and a chance at glory. Legion veterans that had fought the shimagu were celebrated—Remus’ culture demanded it and there was more than a little pressure to treat every last veteran soldier as if they were a hero.
+
+Besides, it was better to sign up. There were three possible routes to service in the Legions and signing up was by far the best choice. Slaves—at least those that weren’t small children or of great interest to the proclivities of the wealthy—were forced to serve thrice as long at a fraction of the pay, and most of those that were arrested for any reason had the same fate afflicted upon them. Those who signed up served only eight years and were treated… not as well as the wealthy that inevitably became officers, but better than the rest, at least. Then, when recruitment fell below quotas, the powers that be held a “lottery” and “randomly” selected households that were obligated to provide at least one member of their household to the Legions, to serve a sixteen-year commitment. Given that the destitute were almost always those chosen by the “lottery,” and it was held at least twice a year in Ariminum alone, Gracea wanted to sign up while it remained her choice.
+
+Besides, it brought her one step closer to Sentinel Grace.
+
+The twenty-four days of Legion training were the most brutal experience Gracea had ever faced, at least at that point in her life. She was no stranger to beatings, abuse, threats, or starvation—but it was the first time she had endured all of it at the same time, while she was forced to push her body past its limits. Her [Healer] classes helped, but she found herself regretting not taking a Light [Healer] that could restore her more thoroughly. But no, she needed classes that could kill the shimagu.
+
+Every time she hit the dirt and questioned her ability to pick herself up, she remembered stories about Sentinel Grace while she forced her body to move. No great woman would be bested by human cruelty—not while the shimagu threatened their future.
+
+“What the fuck do you mean?! How can you not want a [Healer] on the frontmost line?!” Gracea demanded of the privileged Centurion.
+
+Ordinarily she would never have dared to invite the beating, but she had finally made it—the 9th Legion was restructuring its lines with fresh blood to replace those lost or transferred. Yet, even though she had a passing mark (albeit just barely, but it wasn’t like this idiot knew that) with a shield, he wanted to assign her to a support role! It was a waste; she was the perfect weapon to use against the shimagu! She could even [Imbue] the greater parasite-killing power of her Dark class into the reach her Water class gave her, but she couldn’t do that if she was kept away from the fighting.
+
+“If you were a Light [Healer] there’d be some merit, but it’s still a terrible place to put you. You’ll be safer behind the fighting, helping to keep our people patched up.” The man replied with a surprising amount of patience.
+
+“I’m not that type of [Healer], I’m specialized at purging parasites and diseases—namely the shimagu.” Gracea insisted. She hadn’t come so far to get turned into a non-combatant at the last second!
+
+“…Kid, that hasn’t worked since before your grandparents were born. Where the heck did you even hear that?” The Centurion finally looked up from his pile of scrolls and fixed her with a genuinely perplexed stare.
+
+What?!
+
+“A veteran [Healer] that had been stationed in Coalition City since early in the war told me. It was Sentinel Dawn herself that confirmed that [Healers] could easily remove shimagu from existence, took less mana than even an efficient artillery [Mage]! The Imperial Heal Force was established to capitalize on it—men and women with builds just like mine that—”
+
+Gracea’s impassioned words were cut off by a deep, noisy sigh from her commanding officer.
+
+“A reader, great. Just great. That information had to have come from even before my father’s tenure with the 4th Legion; I’ve certainly never heard of an ‘Imperial Heal Force’ that operated within the Legions. Bluntly, you haven’t got the levels to remove even the lowliest slimeball from the shimagu’s worst combatant. But,” he raised a hand to stave off her objections, “there just might be something I can do for you. If you’re both able and willing.”
+
+Gracea forced herself to swallow the venomous response that nearly escaped her lips. There it was—she had known the day would come. The problem with being a girl was that there were always men that seemed to expect her to eagerly spread her legs for their gratification. Even before her first bleed, she had encountered it time and time again. Wealthy boys that enjoyed turning poor, desperate girls into their personal harlots until they got bored; older children at Our Lady of Chaos that assumed they were irresistibly charming and immune to the rules; and shameless adults that preyed upon those too poor and weak to stop them.
+
+It was the reality of her world, and she hated it. Sure, as a Dark [Healer] she could make herself immune to the consequences of a man’s unwanted attentions—in a way that few could, with the rarity and egregious prices of silphium—but it didn’t change that she didn’t want to. For the love of Herculix, she wasn’t her mother! She had no interest in being the plaything for any man—or any woman, for that matter. But what did her desire to walk a road different from her mother’s truly matter against her desperate need for an opportunity to prove herself?
+
+“Ah! No, wait, I think you misunderstood!” The Centurion’s arms were almost flailing as he rushed to defend himself. “Look, you’re serious about wanting to fight the shimagu, right? I can respect that. So, prove it to me. Follow every duty I assign you and prove yourself an exemplary member of my century. Prove yourself, time and time again. Have courage when things grow dire and push yourself. If your records glow bright enough in every report, I’ll have all the ammunition I need to convince the Legate to choose you when we’re forced to send someone to the Ranger Academy.
+
+“The Legions aren’t where you want to be; we lack the resources to try to make a combat [Healer] work again, not against an enemy with proven defenses. But if you can become a Ranger, you might be able to get what you need. It’s a big if, and it’s predicated on a bunch of other maybes, but it’s the best opportunity I can give you. So do we have a deal, soldier?”
+
+Gracea couldn’t adequately describe the emotional journey she went through in the time that her commanding officer spoke, but by the time he finished, she was barking her assent while she performed the most ardent salute of her entire life.
+
+Gracea had spent her entire life hearing about the shimagu and the threat they posed to her empire. She had never had any cause to doubt those words, but when she was forced to confront them as a member of the 9th Legion, she learned unwanted—but necessary—lessons.
+
+The shimagu were just as bad as she had heard. No, that wasn’t right—they were worse.
+
+The creatures truly were a disease inflicted upon Pallos. She had no idea if they were a mistake that the gods had inadvertently created or if they were an act of hateful malice inflicted upon them by cruel and spiteful divinity—but the details largely didn’t matter. So long as humanity triumphed and erased the scourge from Pallos, just as Herculix would have, all was well.
+
+The parasites delighted in casual acts of cruelty. Time and time again lines suffered unnecessary injuries because a former comrade had been seized, infected, and sent against his or her own friends. When conflict paused, dead men and women were consumed by their enemy like cattle or thrown their way in pieces. Even the lauded soldiers of the Legions struggled to maintain their humanity and their sanity in the face of such depravity.
+
+But Gracea refused to relent. Each sin she witnessed only increased her determination to see the disease torn out and erased.
+
+“And why in the stars would a [Healer] want to be a Ranger?”
+
+Gracea had made it through a year with the Legions and won the opportunity that she had been promised. On a decadent island meant to entice entitled twits, she was a single woman amongst a vast sea of trainees that would compete for an unknowable number of slots to become Rangers. They were in lines being asked a pile of obvious and pointless questions by the instructors, yet she had been singled out by the woman with a question wholly unlike any she had asked the other trainee candidates.
+
+“Because I fully intend to see every last shimagu purged from those they infected, until the disease has been scoured from existence. The Legions’ officers told me they couldn’t give me the opportunity to make that dream a reality, so here I am, hoping the Rangers, at least, live up to their reputation.”
+
+Gracea would have used more tact, had she possessed any in the first place, but she meant every last word. Some of her peers called her a zealot in the aftermath of the public interview—as if that was the worst thing she had ever been called—but they were soft children that hardly knew the world.
+
+“Right, you’re not what I hoped for, and your profile makes it damned clear that you’re going to need a lot of work. But you’re the best choice I’ve got, so by the gods, I will make you shine.”
+
+Gracea had scarcely survived the hell months, but she had made it to the other side. She had been promised the opportunity to sleep—in a warm bed, no less—yet one of the instructors had dragged her into a quiet, poorly lit room and left without explaining a single thing! Just before she gave up and succumbed to the siren song of slumber on the floor, a voice unexpectedly spoke up. Ramrod straight—a mixture of adrenaline and instinct—Gracea studied the thin, reedy man with strange crystals in a metal frame affixed to his unremarkable face.
+
+“The fuck are you…?” Gracea tried for words, uncertain if she found the right ones.
+
+“A lot of work.” The man repeated, before he smiled. “All you truly need to know right now is that I am a Ranger Commander, which means I am a man that can make your ambitions come to pass.”
+
+Direct and to the point. Gracea’s exhaustion melted away as her hopes soared. The man had already answered every single question she had in her current state, except one:
+
+“What do you need me to do?” She asked.
+
+Most people in the Ranger Academy learned the basics of combat, following orders, and cooperation. Others honed the expertise they already possessed as they were groomed for future leadership. Gracea drilled with the others, then met privately with her patron and his hand-selected tutors. She wasn’t just being honed into a Ranger—she was becoming an icon.
+
+Some men and women taught her how to carry herself and how to speak. Others helped to sculpt her appearance and honed her new vanity Skill to help her become who she needed to be. Ancient records from Sentinel Dawn were unsealed for her perusal, and Gracea reveled in the intoxicating idea of erasing an entire city of the plague known as the shimagu.
+
+Her Commander even sourced poor, infected souls for her to hone her talents against. As her levels climbed, the resistance of the average shimagu troubled her less and less—and she gained Skills that aided her efforts. [Parasite Purger] allowed her to imbue her Void-aspected healing to the Skills of her other classes. Experts trained by the recently retired Headmaster of the School of Sorcery and Spellcraft helped workshop her build until she decided to make her second class into Mist when she finally triggered her class up. With it, she could fill a chamber with a warm, mana-efficient mist that soothed the surface of the wounds the increasingly frantic parasites inflicted on their hosts, while it weakened the disease contained within and drained its mana until it could be purged with ease by her touch.
+
+She was reborn into a soothing balm that restored the hearts and will of humanity, while her true power erased the shimagu from existence.
+
+Her Commander came through time and time again. She graduated the Ranger Academy and was invited to speak on behalf of her fellow newly minted Rangers—a new tradition that the powers that be hoped to establish. Before Rangers, Sentinels (…well, Security Sentinels), Senators, and the doddering wealthy of Ariminum, she spoke gentle words about the power of humanity to overcome adversity—subtly hinting at the potential within the Rangers and what it could do to anything that dared to threaten the empire of mankind.
+
+She had been trained by the masters that taught politicians all that they knew and those that wrote the speeches for senators and generals alike. Thanks to them, she had no need for a pre-written speech. Instead, she seemingly spoke from the heart—with copious eye-contact to draw her audience into her words.
+
+It wasn’t enough, of course. But recreating the War Ranger program at the eleventh hour had never been a plausible goal. Instead, Gracea was assigned to Ranger Team 32—a team that patrolled the outer reaches of the empire, especially the territories that had been claimed as Remus expanded.
+
+Ranger Gracea served with distinction during her time in Ranger Team 32. Her teammates spoke of her with reverence, and their leader credited her with the round concluding without a single casualty, not even in the monster-infested forests—still bearing craters and other scars of whatever catastrophe had claimed the nation that once lurked there—that Remus was struggling to colonize.
+
+Her next round was far more successful. During Ranger Team 29’s return trip from Coalition City, they encountered the desperate remnants of a Legion escort. A senator’s aide had travelled through the front lines—likely, knowing the senator’s political record, as part of an effort to try to coerce her peers into diverting funds away from the necessity of war—but they had been ambushed by shimagu on the way back to the safety of the empire.
+
+The senator’s aide had been captured, along with multiple members of his escort. It was easy to convince her team leader to render aid; the man plainly wanted to do so. Her team moved swiftly, while the remaining survivors of the escort sought further assistance from Coalition City, and soon found where the shimagu had hidden themselves.
+
+The vermin had already infected the aide and the other legionaries that they had captured, abandoning the wounded beings they had once relied upon to die. Even with their sins casually displayed, the shimagu sent a representative to try to negotiate.
+
+Gracea strode boldly forward, as though she intended to meet their representative. But even as the disease within the man spoke false promises in exchange for its continued existence, Gracea had her own words to offer. Her [Oath to Heal Humanity] felt appropriate.
+
+“First, do not tolerate harm.
+
+Healing is my art.
+
+I will use all of my knowledge and the tools at my disposal to purge the diseases and infections that would threaten humanity.
+
+I will erase every disease and parasite that I see to the best of my ability.
+
+I will apply all measures that are required to see my fellow humans cured.
+
+I will never see a parasite that preys upon humanity as anything other than a disease to cleanse.
+
+I will not discriminate against any human that I heal from infection, no matter their class, sex, what gods they pray to, nor by any other means.
+
+I will defend humanity from further infection by any means necessary.
+
+I will fight to destroy any parasite that has the potential to infect a human.
+
+I will admit when I lack the ability to heal a patient from his or her infection, and I shall do my utmost to see them freed by more direct means.
+
+I will cherish and remember my true patients, and I will never lose sight of their worthiness for freedom from contagion.
+
+I will spread salvation and erase all parasites and disease from our world to the best of my abilities, asking for no recompense.
+
+And I shall never forgive the vile atrocities of that which I purge.”
+
+For all that Gracea admired Sentinel Grace, it was Sentinel Dawn’s naïve [Oath] that she adapted for a greater purpose. She had inherited the legacy that Sentinel Dawn left unfinished—and she would use it to see every last shimagu purged.
+
+The legionary that the parasites had used for their representative was freed with a single touch and Gracea kept moving, even as she left the grateful man in her wake. The slimes within the rest panicked as they were enveloped in her Mists. Trapped in her domain, each instance of the sickness had its own reaction. Some came for her and hastened their own end. Others begged for mercy in their monstrous language, as though they were people. The one in the senator’s aide believed its body to have special value and started to wound it, as though that would stop her.
+
+She was pledged to defend humanity from further infection by any means necessary. She would fight to destroy any parasite that had the potential to infect a human.
+
+And if she lacked the means to save the man from his disease through her healing, she was willing to accept his freedom through death—after all, the truly important thing was to see the parasite destroyed.
+
+War Sentinel Solace stared in disbelief at the report in her hand. She had known that Sentinel Grace was still alive, but she could scarcely believe that a woman of such advanced age had managed to purge yet another twin from the face of Pallos. Sure, the report claimed that she had done so with the assistance of an elf, but Solace had met elves—they never shared credit if they believed that they could rightfully claim the slightest contribution. For the report to claim it was done alongside an elf, the truth was more likely that Grace had saved the elf and destroyed the twin in one magnificent swoop!
+
+Her hero wasn’t some invalid that merely lent her name to bolster the morale of those that remembered her legacy!
+
+“Rani, I have a request to make of you. I believe that I have been remiss in my duties. The time has come for me to test my power against the truest expression of the disease—I want you to create an opportunity for me to face a twin on the field of battle.” Solace was so excited that it was a struggle to keep the girl she had once been from surfacing.
+
+Her dream truly could still come to pass!
+
+Hyrria Rani Pyrae truly was the greatest asset that Sentinel Solace had ever found. The woman should have been another run-of-the-mill entitled brat that rose into power thanks to the funding of her modestly successful family. She was a graduate of the School that joined the Rangers on the recommendation of a retired Ranger—her own adoptive mother, no less. Yet the woman was shockingly both competent and capable, which in and of itself was a true rarity.
+
+She only required a handful of years for her to give Solace an opportunity. It was a miracle as grand as anything any of the so-called gods could muster. Rani hadn’t just found her a twin; the woman had practically giftwrapped it for her!
+
+A small army of shimagu was bracketed between three different Legions. They were trapped, and Sentinel Solace fought to keep her smile serene as she advanced at the head of her personal forces. She had a reputation to uphold, after all. She was hardly the feral poor girl she had once been.
+
+Clad in armor of segmented steel painted white and trimmed with gold, Sentinel Solace boldly strode forward as her [Soothing Mists] covered the battlefield. The fine particles of her Skill were all but invisible, but they soothed surface-level injuries—fooling legionaries into fighting harder—and sapped the mana and vitality from the shimagu. Bolts of Brilliance cleared her way—potent jolts of weighty light that knitted flesh and carried her Void’s potent ability to unmake the disease within the puppets.
+
+Rani, Tarla, Pentera, Traeli, Umbra, Hestia, Axia, and Curea led the way. Each woman had been chosen from the Rangers and wore her colors, and each was deadly within her own means. Magic and weaponry opened the path until they reached the exhausted twin—a woman that had chosen to betray the Legions and embraced the scourge of humanity.
+
+With Solace mending her personal unit, even the twin was ultimately outmatched. It was a waste of mana to keep the treasonous host alive while she was impaled by eight different weapons, but it wasn’t like Solace lacked for arcanite.
+
+“You who were deceived by the enemy of each and every last human, have you nothing to say in your own defense? Bid farewell to the hateful voice that poisoned your thoughts, for soon you shall be free.” Solace activated a gemstone to make sure everyone heard her words.
+
+Then she began to channel power into [Glorious Purge]. Brilliance formed a grand bow of vibrant, golden light with War Sentinel Solace’s arm placed where an arrow should be. The bow never drew back—it was merely decorative—but her power grew as equal parts Void and Brilliance harmonized and gathered. A convergence of four different Skills—each of which merged from at least two other Skills—that granted her a heal so potent that nothing could deny it.
+
+She had a reputation to uphold, after all. By Herculix, it would have been embarrassing if she failed to purge the disease from the woman after so many theatrics!
+
+“Please, don’t take them from me! They’re as much a person as you or I!” The madwoman refused to repent, unsurprisingly.
+
+That was fine, it wasn’t like Solace was sharing her words.
+
+“Then be at ease, and welcome back, poor child.” The woman was sobbing, so War Sentinel Solace spun a tale to make everyone believe that the misled child of humanity was begging for forgiveness, rather than to perpetuate the foulest of diseases. A little propaganda never went amiss with so many eyes on her. With grave solemnity, she leveled her arm at the traitor’s throat.
+
+The beam of energy was bright enough to make even Solace’s eyes water, but it did its job.
+
+[*ding!* One (1) disease has been removed from Pallos. Continue your work to eradicate what remains.]
+
+Solace shook her head, as she exited the holding cell where the traitor had been imprisoned. Even with her affliction removed, the woman refused to see reason. She continued to insist that the shimagu had some impossible value, and that the Empire of Remus—the sole bastion of humanity—was somehow irredeemable. She raved about injustice, as though she had any right after she chose to side with the enemy of humanity.
+
+She was insane. Which meant that War Sentinel Solace was left with no other option.
+
+“Kill her. I’ll report that she attempted to attack me while I offered her comfort and you were forced to put her down.” She gave the order, and her team saw to it that the deed was carried out.
+
+Being the hope of humanity challenged her at times, but at last, she had become a true peer to Sentinel Grace. And she had no doubt that it was only a matter of time until she found her opportunity to meet the woman that she had dreamed of throughout her entire life.

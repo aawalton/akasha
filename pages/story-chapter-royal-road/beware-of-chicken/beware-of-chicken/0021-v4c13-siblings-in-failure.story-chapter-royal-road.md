@@ -1,0 +1,215 @@
+---
+id: d798d206-3f47-51a3-9e53-9c5f5b240626
+page-type-slug: story-chapter-royal-road
+title: "v4c13: Siblings in Failure"
+slug: 0021-v4c13-siblings-in-failure
+partOf: beware-of-chicken
+position: 21
+ownLength: 2875
+unit: words
+ownProgress: 2875
+publishedAt: 2023-06-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1237592/v4c13-siblings-in-failure"
+royalRoadId: "1237592"
+markedReadAt: "2026-06-29T18:52:03.057Z"
+---
+
+The office was cold and sterile. Ri Zu sat before the Master of the Medical Pavilion, Lishu, with her hands in her lap. He was staring at her, his face devoid of emotion, before he spoke.
+
+“You already know your shortcomings. I can see it in your eyes. We both know what exactly you lack—that being knowledge of the more esoteric resources that you must use.” he said, as he absently flipped through the seventy page exam on his desk.There were quite a few markings indicating mistakes—though he had awarded part marks for when Ri Zu had just written ‘This disciple does not know’ which was odd. He was right, Ri Zu was simply too inexperienced with the absolutely enormous array of spiritual Plants he had tested her on. At least the practical had gone better.
+
+“Your practical abilities, however, render this shortcoming mostly moot. I will praise your ability to adapt and improvise, as well as your command of poison—though naturally there are some rare poisons your control will not work on. But there is one thing that pushes you into failure. Your outlook.” Master Lishu flipped through her written test. To the part of the exam that had been on ethics.
+
+Ri Zu had honestly been surprised that the Shrouded Mountain Sect had a portion on ethics, but apparently even these strength obsessed fools had something that wasn’t about inflicting or healing damage.
+
+“Ri Zu’s outlook?” she asked.
+
+“You are too soft, too kind, and too mortal. You are too concerned with preserving life, at the expense of the patient’s cultivation. “ His words were calm and matter of fact. “For a mortal, a broken meridian doesn’t matter. But for a cultivator, it is everything. An operation that has a 90% chance of saving a life, and a 10% chance of saving one’s cultivation, would and should be discarded for one that has a 50% chance of saving the life and a 50% chance of saving their cultivation.”
+
+Ri Zu frowned heavily at the statement. He was telling her it was better to kill someone, than work to save them. Ri Zu knew that she should have probably kept her mouth shut, instead of talking back to the man… but the words fought their way out anyway. “Losing one’s cultivation would indeed decrease the quality of their life but as long as one lives, you can learn to stand again. As long as you are alive, you will have a second chance.”She glanced up at the man with the stone visage. He was cold and hard, with exacting standards. He lived in the most decadent place Ri Zu had ever been in, and yet his own pavilion was spartan—Master Lishu took his job extremely seriously. For all his coldness, his eyes watched like a hawk for anything that could harm those under his care, or for anything that would worsen their conditions. Anything that dared to harm his charges would have been destroyed utterly. Ri Zu could not understand why he would let a person die for a meridian.
+
+Master Lishu looked directly at her. “I thought so too, once upon a time.” he stated simply. There was no disgust in his eyes, no contempt for her answer—instead, Ri Zu saw what looked slightly like pity. “The world is not so kind. Weakness is preyed upon. I have seen it far, far too many times. I have seen the strongest of experts beg for death, when they learn how far they have fallen. I have seen the joy in their enemy’s faces, when they discover their rival is powerless.”
+
+It would have been easy, if he had dismissed her. If he had scoffed at her words. Instead, the man looked at her with tired eyes, his mask dropping for a brief moment, before he became cold once more.
+
+“You are young, and full of passion. You imagine that you will be different, that you shall challenge the way of things. It is your right to do so. We are cultivators, we challenge the heavens itself.“What was natural to one person… was challenging the heavens to this man. It wasn’t something Ri Zu had ever thought about.“You have failed this examination, Hong Ri Zu. But I would be a fool to waste your talent and send you to be a menial laborer. Tell me. What do you think is the best option to rectify these things? You cannot yet be a full member of this pavilion, yet neither will I send you away.”
+
+Ri Zu thought for a moment. “Ri Zu requests to be assigned as a maid to the Medical Pavilion during her time in the Mountain Pavilion, to ease the burden on the true doctors while she rectifies her deficiencies.”
+
+Master Lishu seemed amused by her idea. “I will allow you to show me your conviction. You may access the library, and the patient files we have. In one month’s time you will take this test again. And you will either change your answer…. Or score perfectly in every other question.”
+
+Ri Zu bowed. “Ri Zu will show Master Lishu a perfect score, then.” she replied, and the man actually chuckled.
+
+“Go then.” He commanded. “I expect you to be prepared tomorrow.”
+
+Dismissed, Ri Zu bowed once more to him and took her leave, considering his words. Too soft. Too mortal.
+
+Was it such a bad thing? She did not know. A worry for another day though. She had at least accomplished part of her task. While she hadn’t truly joined the Medical Pavilion, she could still search for demonic corruption amongst them while serving as a maid.
+
+And Like Yun Ren said. If she came and went enough... it was unlikely anyone would question her.
+
+====================================
+
+Che Han, also known as Fat Han, slowly dragged himself to the meeting point Yushang, Ri Zu, and Biren had agreed upon. His body was still smoking slightly from his rather… explosive finale to the examination.
+
+He felt hollow. Drained. Fifteen years of studying and progress… Into the gutter. Maybe he should have listened to the others, when they laughed and joked. A Che, being anything but an Outer Sect Menial? How hilarious was that?
+
+For three thousand years they had suffered the laughter of the other families around the Shrouded Mountain Sect. The loyal Che family, dying in droves. It was a wonder that they hadn’t gone extinct yet. Fit to die for the sect, nothing more.
+
+He had wanted to be something different. He had challenged the heavens in his own way… and he had lost.
+
+…how pathetic.
+
+He called himself Fat Han willingly, taking ownership of the name his detractors had saddled him with. He had trained and trained and trained. He had passed the first hurdle, then the second… only to fail at the last moment. The Spirit Sword formula he had refined, which had never failed before, the one he had worked on painstakingly for years. It failed, exploded right in his face. Everything he had worked for burnt in an instant.
+
+And that had been the end of the road for Fat Han.
+
+He arrived at the meeting point: a set of benches, overlooking the valley around the Shrouded Mountain. For a brief moment he considered just going to his room to rest… before stopping himself. He had chosen his—well, he wasn’t sure if they would be friends anymore—acquaintances. They had treated him kindly, not insulting him or his family at all.
+
+But he supposed it would be best to get used to his new role. He only hoped that the companions he had chosen would be kinder to him than his eldest cousin’s had been. They would probably need somebody to do their laundry.
+
+He leaned against the side of the bench and sighed. Well, this was the rest of his life, eh?
+
+Twenty minutes later, Yushang hobbled in, and he felt a shameful flush of relief at the dead look in her eyes as she used her sword as a crutch. The singed, electrocuted girl staggered so she was in front of him… then keeled forwards, face fist onto the ground.
+
+“You too, eh?” he asked.
+
+“...yeah.” she wheezed.
+
+“I have some peaches, if you want any.”
+
+Yushang turned her head so she could look directly at him, tears in her eyes. “Thanks, brother.”
+
+Those words somehow made the world just a little bit less dark.
+
+“Aren’t you going to sit?” he asked after a moment.
+
+“I will if you pick me up,” the girl responded.
+
+…How shameless.
+
+Yushang stayed on the ground, Han ignoring her begging eyes.
+
+The strange girl stayed on the ground though, refusing to sit up on the bench unless he picked her up and carried her, the shameless woman.
+
+So she stayed that way.
+
+They both looked up hopefully when they saw Biren amble in. He looked like he had taken a beating too, his clothes ragged.
+
+==================================
+
+“And then I carried the other guy back across the line.” Yun Ren narrated to Fat Han and Yushang, recounting his own failure.
+
+Yun Ren honestly could have done most of what they asked in his sleep. Field craft on the mountains wasn’t that different to what he was used to. But instead he flubbed just enough to be believable.
+
+That all lasted of course, until a Spirit Beast burst out of the snow. It was a massive, white ape monster that howled with bloodlust. Yun Ren liked to think himself pretty good at understanding Spirit Beast Qi Speech, and the white ape? All it had been screaming about was eating their bones.
+
+Yun Ren had used his Qi to blind it, then pulled the guy who it had been about to smash out of the way and told him to run. He had ended up having to use Summer’s Sky to poke the monster a few times before he finally managed to drive it off—and by then he had gone from intentionally failing to actually failing. He was the last across the finish line—
+
+And what was the worst was that the one guy he had helped out hadn’t said a word. Little bastard.
+
+—not that Yun Ren wanted him to, in the end. He would have magnanimously waved off the other guy’s concerns.
+
+Yun Ren shook his head at the sympathetic looks. Fat Han from beside him, and Yushang from her place on the ground.
+
+“Ah well. It is what it is,” he declared. “Just gotta get stronger and do things right next time, eh?”
+
+The other two evidently agreed, as they settled into a companionable silence.
+
+Ri Zu was the last to arrive, her satchel full of scrolls, and a pensive look on her face—which turned to surprise as she beheld all of them, then concern. She walked over to Yushang, and prodded at her.
+
+“Sister, they ganged up on me.” Yusheng whined, reaching up and latching onto Ri Zu’s shoulders. Ri Zu snorted as the girl hugged her… and didn’t let go as Ri Zu stood up, her legs dragging on the ground.
+
+She looked to Yun Ren, and he shrugged, before she turned her eyes to Fat Han, who just sighed.
+
+“It exploded,” he said simply, voice sounding hollower than dried bamboo. “It never exploded before, but it exploded. Exploded everywhere.”
+
+“Ri Zu’s condolences.” the girl who had been a rat said. “Shall we be off to have a drink and drown our sorrows?”
+
+“Sister, take pity on these poor failures and buy us the first round!” Yushang whined, and Ri Zu absently patted the taller woman on the back.
+
+“Well, at least we can celebrate one of our number passing.” Fat Han declared, his voice weak as he forced a smile.
+
+Ri Zu snorted. “You can buy your own drink. Ri Zu failed too.”
+
+Yun Ren recoiled, his eyes wide. “What?” he demanded. The hells? He would have thought Ri Zu had that in the bag!
+
+“So… we all failed?” Yushang sniffed.
+
+“We all failed.” Ri Zu replied.
+
+“So, I guess this begins our days of toil, eh?” Fat Han sighed. “And here I was, thinking I’d escaped the family curse.”
+
+Ri Zu shrugged. “It's not like we have to stop training.” Ri Zu declared. “And besides, we can help each other.”
+
+“We’re regular old siblings in failure.” Yun Ren snarked. “We gotta stick together, eh?”
+
+In all the stories, a sect was a glorious place, full of combat and learning profound techniques.
+
+Jin had told Yun Ren a long time ago that all he did in the Sect was wash clothes and grow herbs.
+
+Well, he knew which one was telling the truth, now.
+
+===================================
+
+The floor was nice and cool, and Liao Yushang had a pleasant buzz going as she stared at the ceiling.
+
+“That should be everything.” Ri Zu said as her hands stopped glowing green. Yushang sighed with contentment as she felt the last aches and pains of being electrocuted fade away. Really, those bastards! Three on one!
+
+Yushang had grown up in a mountain village, where they raised goats, mined copper, and served as guides for the people who wanted to use the passes. It was a hard, but honest living… until Yushang suddenly awakened her cultivation. The entire village had rejoiced and chipped in for better food for her—and they had all worked together to save up enough money to send her to an academy, so that she could learn how to be a proper cultivator.
+
+It had sucked, honestly, but she couldn’t spit on her village's generosity! She had trained until she had spat blood! She had drunk those foul concoctions, meditated, and dodged people trying to arrange ‘accidents’ to befall the peasant. And here she was, at the Fourth Stage of the Initiate’s Realm!
+
+A cultivation that could be accepted by the biggest, richest sect in the Shrouded Mountains!
+
+They were rich! That meant she could be rich! She could repay everybody back home, get strong, and maybe, just maybe, become a legend!
+
+The name Liao Yushang would surely sound across the entire province!
+
+Maybe.
+
+Hopefully?
+
+Ah, whatever, something would happen!
+
+Yushang knew she wasn’t some sort of real prodigy or anything. The best thing to do would be to get some friends, strong friends, who could help her out a little too. Half the assholes at the Howling Sword Arts Academy had been weak, but they all had friends… which meant that any attempt to kick their asses meant you got jumped by five of them.
+
+They had support. They had people who would defend them.
+
+Yushang wanted that. Lone wolves always died in the mountains.
+
+So when she saw Bi De, Ri Zu, and Biren… Yushang knew she had her in.
+
+Yushang was a great judge of character! It was her special ability, one could even say—she had always known if a person was trustworthy. It wasn’t too hard to find a person who was trustworthy in villages, or even in the cities. But that academy her parents had sent her too? Everybody was a callous asshole there, and Yushang would have gotten chewed up and spat out if she hadn’t been able to tell who wanted to screw her over (or just plain screw her) when they were talking to her.
+
+Ever since she had joined the academy trustworthy people had been in short supply. Even here, nobody else had really stood out as approachable—except for those three. Her instincts told her that Bi De, Ri Zu, and Biren would never do anything to harm her unless she started it—Fat Han was nice too!
+
+Yushang, as a filial daughter, did as Grampy demanded. ‘Never let an opportunity slip by!’ the old man would howl… and then he would ‘fall’ so he could look up somebody’s skirt. He could move surprisingly fast when he wanted to, despite missing a leg—but that was besides the point! It was good advice!
+
+So she found people who she knew wouldn’t hurt her, and latched on with both hands.
+
+Of course, Yushang wasn’t about to just use her new friends and leave them high and dry! No, she would repay kindness and enmity a thousand fold, like in the stories! She was going to be a true hero!
+
+Maybe after she recovered. She sat up and started putting her shirt back on, looking to Ri Zu as the girl stared off into nothingness, frowning.
+
+“Now, how does this poor little girl pay you for this? All she can give is her body!” Yushang asked. Ri Zu choked, before turning an annoyed glare onto her.
+
+Success!
+
+“No.” Ri Zu grunted out.
+
+“No?! Can I help you study instead?” Yushang asked her friend.
+
+Ri Zu blinked, and then smiled. “You can unroll the scroll for Ri Zu while she takes notes? Ri Zu has to memorize all of these in a month.”
+
+“Sure thing, Sister!”
+
+She hugged her new friend, who sighed, but allowed it. It was time to settle in for the long haul! Though she did wonder what exactly drove Bi De, Ri Zu, and Biren… oh well, a mystery for another time!
+
+…It was really nice being able to hug somebody again.
+
+==================================
+
+=======================================
+
+Editors: Massgamer, Ayje, Brandon “Philosophysics” Zhang-Leong, Oshi

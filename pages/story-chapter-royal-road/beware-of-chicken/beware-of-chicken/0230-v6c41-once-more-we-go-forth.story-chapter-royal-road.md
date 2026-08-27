@@ -1,0 +1,139 @@
+---
+id: 4caeee03-0fab-5c56-b13d-096dc4a80115
+page-type-slug: story-chapter-royal-road
+title: "v6c41: Once More, We Go Forth"
+slug: 0230-v6c41-once-more-we-go-forth
+partOf: beware-of-chicken
+position: 230
+ownLength: 1818
+unit: words
+ownProgress: 1818
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2407040/v6c41-once-more-we-go-forth"
+royalRoadId: "2407040"
+markedReadAt: "2026-06-29T18:59:16.762Z"
+---
+
+And at last, the time of rest was over. It was time to get back to work.
+
+Xiulan and the rest of her companions would be returning to the Dueling Peaks, to speak on the upheaval that had shaken the province, and the stymied attack on Fa Ram.
+
+They would be making the two week journey to the south, through the winter snows. It almost felt wrong to be preparing like this and leaving before the snow melted. They needed to plant the spring crop!
+
+It would at least be easier for them than when Rags and Loud Boy had made the journey, with no need to carry a mortal and a cart behind them, but their travels would still need some preparation… and they were blessed to have help in their endeavours.
+
+Tigu, Pi Pa, Biyu, and Rags worked together to go through any clothes that needed repairs, while the Xong Brothers worked on anything with leather.
+
+Yin, Miantiao, Bowu, Huo Ten, Delun, and the Torrent Rider worked the forge, sharpening blades and making sure every tool was in good shape. Meiling, Wa Shi, and Ri Zu saw to the medicine, the dragon was co-opted from making food to lend his lightning.
+
+Xianghua, Loud Boy, Bei Be, and Spooks did the laundry, the heavy Spirit Beasts powering the drum rollers while the humans took care of the more delicate garments. Flights of bees took the wet clothes and carried them one at a time to lines in the greenhouse, where they soaked up the warmth of the winter sun.
+
+Everyone else was in the kitchen.
+
+“Behind,” Jin informed Xiulan, even though she could feel his presence. He always mentioned he was behind somebody when he was in the kitchen. He said it was training he had gotten from the inn his family had owned in Crimson Crucible City, and informing people you were behind them with hot food probably stopped a lot of accidents. He was carrying with him a large pot, one that looked mostly empty, but that was just because the soup within had been boiled until it was almost solid—it would be dried out the rest of the way, then they would just have to add water.
+
+Xiulan’s knives danced through the air, cutting blocks of sticky rice, meat, fat and berries into a size that was easily transported. The rations were both tasty and filling, using a modified recipe Bi De had from the Howling Fang Mountains. The rooster was in human form, stirring a wok and speaking with Chun Ke while they helped out with the preparations… as well as making his own flavours. The nut versions for Chun Ke looked good, but Xiulan had no desire for those containing worms, while the ration bars for Pi Pa were both incredibly spicy and aggressively seasoned.
+
+They were a bit much for Xiulan’s tastes.
+
+The morning was consumed by their preparations, but time seemed to slip away. In what seemed like the blink of an eye, the food was prepared and ready to be packed, and Xiulan was sitting at the table while Meiling handed out the fruits of her, Ri Zu, and Wa Shi’s labours.
+
+“I’m sorry about the quality this time,” were the first words out of her mouth. Meiling was holding back a grimace. Ri Zu patted her shoulder. Indeed, the sparkling medicine was more translucent, and its luster was lacking. “We didn’t have much to work with.”
+
+They were nearly out of the Spiritual Herbs Jin had grown for medicine, and Meiling ended up having to use some that were grown in Hong Yaowu. They were half the size, and perhaps a quarter of the potency, but considering they had been grown by mortals, it was still good medicine.
+
+“They’re as good or better than anyone else in the province would have access to,” Xiulan consoled her friend. “If we need more we can get more on the road.”
+
+Xiulan carefully didn’t say they probably wouldn’t need them. No need to tempt fate!
+
+Meiling huffed. “Substandard, not good enough…” she grumbled under her breath, her nose scrunched up.
+
+Xiulan chuckled and ruffled her hair. “Thank you for your concern, Senior Sister,” she said, half exasperated and half fond. “But we’ll manage.”
+
+Meiling glared and pinched Xiulan’s leg as she got up, while Ri Zu patted her Master’s shoulder again.
+
+Xiulan just chuckled, picking up the medicine and winking back at Meiling.
+
+She went to her room and packed the last of her gear away. The medicine was wrapped up in her clothes so the bottle wouldn’t break. The bags the Xong Brothers and Meiling had made for them last year had held up well on the road, and the leather remained supple and smooth. It had been freshly treated with wax. The pack smelled of leather, beeswax, and of a slight hint of cedar and medicine.
+
+It smelled like Fa Ram. It smelled like home.
+
+Soon, Xiulan would once more be the Grand Marshal. She would once more have that weight fully upon her shoulders.
+
+The break had felt too short. The time she spent at Fa Ram always passed so pleasantly. The peace was a balm to her soul. The life she had here was truly amazing. It was enough to tempt anyone to set down their duty. To simply live here, and have a lifetime of simplicity and peace.
+
+But there was no hesitation in Xiulan’s movements. The love she had for her life here did not whisper as a seductress in her ear, telling her to stop. To lay down the burden and leave it to someone else.
+
+Rather, it spurred her forward. She knew peace. She knew the kindness the world could have. How could she ever just hoard the feeling for herself?
+
+She had promised the fallen soldiers. She had promised Tianlan. She had promised herself.
+
+A better world was worth fighting for.
+
+=================================
+
+The rest of the day was spent simply. There was no going away party this time. They were all partied out.
+
+Instead, it was the little things.
+
+There was a snowball fight around the General That Commands The Winter. Their Ha Qi game turned into an all out sparring match that cracked the ice when Loud Boy fouled Gou Ren. They laid on hammocks in the greenhouse, drying off and warming up.
+
+It was a wonderful day. After dinner, Xiulan spent time with Zhuye. She had gotten to cuddle him for a while, but eventually he had wanted down and was now crawling around on the carpet. He had gotten pretty fast lately, pushing with his back legs and stomping his hands forward.
+
+It was very cute! Xiulan watched him with a fond smile while he trundled around. She was ready to intervene if he needed her to stop him from doing something dangerous, like heading for the stairs, but after the tenth time of being carefully redirected he didn’t seem to view trying to climb up them as a game anymore.
+
+Instead he had gone and gotten a Tigu doll, and was waving it around happily. Xiulan watched on with a soft smile, and let out a chuckle when Zhuye accidentally flung the doll from his grasp, landing on top of the table. He looked up at it. He blinked, and reached out his hand for the doll.
+
+Then he seemed to realise he was too short. Xiulan’s eyes widened as he turned to look at his feet.
+
+“Everyone! He's standing!” she called out urgently.
+
+Jin and Meiling practically dove into the room, Jin armed with his recording crystal. Tigu and Bi De were right behind them, followed by Yun Ren and his crystal. The room was swiftly filled, and even a swarm of bees barreled through the door, hovering around Zhuye.
+
+Zhuye didn’t seem to notice the commotion as the living room was suddenly full.
+
+His face screwed up in concentration. He got his knees under him. Then one foot. He wobbled, and grunted. Then he looked to one of the foot stools and sat back down, crawling toward it. He grabbed it and pushed.
+
+First one foot, then the other. Zhuye stood on wobbly knees, his legs shaking, but his amethyst eyes locked on his prize.
+
+“You can do it! You can do it!” Tigu urged, her eyes locked onto her little brother.
+
+“Find your center! Arms out farther, balance is key!” Bi De said, similarly locked onto the boy.
+
+Zhuye let go of the stool, and made one step. He got one, before he tilted, but it was enough. He launched, and managed to catch the leg of the doll.
+
+Xiulan swiftly deduced, along with everyone else, that he wouldn’t hit his head. He fell on his stomach, missing the table, and the leg of the doll in his hand.
+
+He looked at the doll. “Dah!” he declared triumphantly, raising Tigu high.
+
+The room erupted. Jin and Meiling scooped him up into their arms, praising his accomplishment. Bi De turned back into a rooster so he could hop onto Jin’s shoulder and beam down at the slightly confused, but still happy baby.
+
+Xiulan smiled at Tigu. “You helped him stand,” she said, pointing at the doll.
+
+Tigu just beamed.
+
+The moment was replayed from Jin’s recording crystal. A warm feeling filled Xiulan’s chest while she watched Zhuye again. Xiulan hoped that one day she would have children of her own.
+
+=====================================
+
+As was tradition, the night before she left Xiulan perched on Fa Ram’s roof with Jin and Meiling drinking tea, though this time they were joined by Bi De and Tigu.
+
+It was quiet and companionable, until Jin finally broke the silence.
+
+“We do have one last gift for you,” he said. “You were complaining about how much paperwork you had to do, and well, I don’t know if this is better than a brush, but we made you this.”
+
+Jin held out a bright green feather to her. It was nearly iridescent, and it shone under the moonlight. One of Bi De’s tail feathers, its tip carved carefully into a point—a feather quill. “It should hold the ink for longer before drying out.”
+
+“If nothing else, it looks pretty,” Bi De said with a small smile.
+
+“Thank you,” Xiulan said, accepting the thoughtful gift. She hugged them both. “When you come south… everything will be taken care of. You’ll get to see the best of the Hills. I promise.”
+
+Jin hugged her back, his arms wrapping around her. It felt nice, like it always did.
+
+They stayed together on the roof for a while, simply drinking in the moonlight.
+
+It was nothing more and nothing less than a beautiful view.
+
+Xiulan went to sleep, with peace in her heart, surrounded by her friends.
+
+And in the morning, the Grand Marshal and her Azure Heroes went forth, marching through the hills—with a couple of additions.

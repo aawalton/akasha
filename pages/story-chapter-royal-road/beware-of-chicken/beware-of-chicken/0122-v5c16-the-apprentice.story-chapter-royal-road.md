@@ -1,0 +1,103 @@
+---
+id: f2e3e115-04ef-564f-bcfa-4d0b12714056
+page-type-slug: story-chapter-royal-road
+title: "v5c16: The Apprentice"
+slug: 0122-v5c16-the-apprentice
+partOf: beware-of-chicken
+position: 122
+ownLength: 1642
+unit: words
+ownProgress: 1642
+publishedAt: 2024-06-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1695928/v5c16-the-apprentice"
+royalRoadId: "1695928"
+markedReadAt: "2026-06-29T18:55:41.838Z"
+---
+
+A young Thunderhoof stood in the warm clearing, his companions having finished their morning meal, and started on their morning exercises. There was some tension in the air as their last day of training began. The massive trees around them occasionally shook from the tempest that was soon to be unleashing its fury to the north. Still, most of them seemed in good spirits, and he himself was in a fine mood as well.
+
+It would have been pitch black, with the clouds that covered the sky high above, but the forest was bright as day. For though the moon was hidden, the forest itself glowed with ethereal, pale blue light. It came from mushrooms on the sides of trees, it came from the smaller plants’ leaves, and it came from the pale white and blue grass itself in a constant luminous and beautiful glow.
+
+The young Thunderhoof thought it was astoundingly beautiful… and he obviously wasn’t the only one. Jumpy had his recording memory out and it was chiming away recording it all. His eyes were narrowed in concentration, and he would dip to a knee or turn the crystal pane to a different orientation before it would chime again.
+
+After a couple more of those, he turned to the Thunderhoof.
+
+“Hey, Spooks! Say cheese!” Jumpy, or rather Yun Ren, said.‘Why cheese?’ he asked, confused.
+
+“The Hells if I know, but Jin started it,” came the reply. The crystal then chimed, much to his bemusement.
+
+The Thunderhoof didn’t really have a name, but his new friends called him Spooks. Or were they new friends? Jumpy, at least, was kind of an old friend. He was actually the first human face Spooks remembered… mostly because the face he made when he was shocked and scared was hilarious. Definitely the most memorable! Spooks vaguely remembered a big, friendly-looking guy with freckles, the kid who slept on that really tasty grass, and some people who looked like Jumpy. They had all bowed to him as he walked past, heeding the call that had been drawing him north, towards Master Forest Sweeper’s domain.
+
+Master Forest Sweeper had been a bit surprised Spooks had been so accepting about his rules on humans and taking care of them, but Spooks liked humans. They were funny things, all gangly and unbalanced on two legs.
+
+He supposed that had been the final tipping point in Master’s idea to make Spooks his apprentice. Spooks could be counted on to preserve Master Forest Sweeper’s legacy…in addition to the fact that Spooks wasn’t supposed to be as aware as he was for another two years at least, nor have any Qi at all apparently.
+
+He had broken records! A prodigy, his Master had said, but Spooks didn’t really have anybody else to compare himself to, so that didn’t really mean anything. Especially with how strong his Master was, so there was no point in getting cocky.
+
+So he did his duties and trained; the days kind of blended into each other until the news came about the strange stuff going on up north. His Master had been annoyed by it, but had just told their kin to keep an eye out.
+
+At least until one of the birds turned out to be a demon-construct thing, and Bi De had informed them that the demons had made a tunnel under their forest to use them as a shield.
+
+Then it got personal. His Master had been very upset.
+
+Spooks couldn’t help but be similarly angry. These bastards were using this forest as both bait and a shield; they were trying to damage their sacred forest, and if the foe proved strong enough, have Master Forest Sweeper killed.
+
+But they had messed up. Instead of people who would fight Master Forest Sweeper… the demonic cultivators accidentally got them to meet probably the only people who would join forces with him.
+
+Spooks was very glad for that. It was really nice having people around other than his Master. While Spooks didn’t mind the solitude—none of their kind ever did—all these new experiences were refreshing.
+
+Delightful, even. And Master Forest Sweeper had even said, after all this was over, Spooks could go and venture back to Hong Yaowu.
+
+He couldn’t wait to eat more of that tasty, tasty grass. And apparently they had nearly a hundred of those maple syrup jugs! Oh, those were the greatest. The taste was perfection itself, but more than that it was the Qi within that enhanced it.
+
+He was a bit too strong for it to really be a help, but it had fire and wood Qi in it that wouldn’t hurt his cultivation. Inducing heat into something so centered in cold and ice was usually just asking for trouble. But maple syrup? It didn't do that. It made him feel all nice and warm inside, and while he liked the cold, the single summer that he remembered, the smell of the grass and the feel of the sun, were heavily etched into his memory.
+
+It had to be the same for his Master. Heavens knew he needed a bit of warmth that wouldn’t disrupt his cultivation and duty.
+
+He was in a very good mood, as his Master’s constructs once more ferried them to their training spot. Yushang in particular brightened up as she dashed towards ‘Prancer’. She had a funny face too, all wide and smiley. Spooks liked smiley humans. It looked good on them.
+
+They set off, all ready for the day.
+
+He even started singing.
+
+‘We are the storm that approaches~’
+
+The slight flush on the rooster’s face was really funny.
+
+==============================
+
+Training with others was also drastically different than training by himself. It was the good kind of interesting. Normally he had to fight his Master’s constructs. Humans? Humans were way different, especially with their swords and weapons. They were fast and tricky and hard to hit… but Spooks was also way stronger than most of them physically.
+
+Though that counted for little when he couldn’t hit them. Spooks had improved a lot over the past week, if he did say so himself, even if his cultivation hadn’t increased that much, but that was fine. Thunderhooves were generally slow to grow, or so his Master said, but they made up for it with endurance and long lives.
+
+He was at the Second Stage of the Profound Realm… but that was only his own power. As the personal apprentice of Master Forest Sweeper, Guardian of the Ice Heart Forest, the Frozen Font, and the Sleeping Hollow, he had a bit of an advantage. His Master had given him a talisman, filled with his own power. Just wearing it around the base of his antlers made him hit a lot harder than he should be able to, and if anything really bad happened, he was to break it… and channel some of his Master’s might.
+
+The others had also improved, and the final day seemed to be the catalyst. Yushang cheered as a pulse of Qi erupted off her and she hit the Third Stage of the Profound Realm, while the older-looking Shao Heng ascended into the Profound Realm himself. Han nodded to himself as he swung a sword at one of eight sets of clothes, only to have the blade skate off the reinforced fabric. They were reinforced by his formation, and lined with feathers that a Sky Lancer had given him after the Spirit Beast had been frozen by Master Forest Sweeper’s defenses. The man-sized bird had lived through the experience and had been surprisingly understanding about the whole thing.
+
+Or more likely he had just been scared shitless, because Master Forest Sweeper had been standing with them. Sky Lancer feathers were extremely tough and lightweight; as well as being an extra layer of warmth for the coming storm.
+
+Yun Ren was completely invisible, dashing around the clearing in his bubble of bent light. Fenxian and Yingwen were sparring, blurs in the air as Yingwen put more and more stress on his transplanted leg.
+
+Ri Zu was hunched over a bunch of bags and packs, making sure everybody had enough medicine, and stirring a rather nasty-smelling concoction that was simmering in a cauldron.
+
+Finally, Bi De was simply meditating, the chicken looking extremely profound like that. He was surrounded by pillars of ice that had perfect circles bored through them.
+
+But soon, the day was over.
+
+‘Children. It is time,’ the rumbling voice of his Master ground through the trees as his spirit walked into the clearing, accompanied by Master Shen Yu and the fox, Nezan. All of them immediately came to attention as the Masters arrived. ‘The conjured storm shall hit within the hour, and last for at least eight days. After that, I cannot guarantee the length. My Qi will not sustain it, to make the storm seem natural to our foes.’
+
+“You have done acceptably with your week of training,” Shen Yu stated, his eyes roving over them. “All of you have refined your techniques to a level that will make your mission possible. The enemy’s defenses are things that, with the aid of the storm, you can surmount.”
+
+The others stood up straighter.
+
+“I have scouted some of the routes ahead, and, with Master Forest Sweeper’s aid, have a rough idea of the lay of the land,” Nezan said, and with a wave of his hand conjured up a rough illusionary map into the air. “Tonight, you must decide on the route.”
+
+They all nodded.
+
+Finally, Master Forest Sweeper spoke.
+
+‘You have been noble guests and pure of heart. Before you depart tomorrow… you shall join me and receive a gift. I grant you permission to enter the Sleeping Hollow of the Icewood Forest.’
+
+Master Forest Sweeper then gazed intently at all of them.
+
+‘Tomorrow, we shall meet face to face.’

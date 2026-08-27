@@ -1,0 +1,87 @@
+---
+id: 9c3175b1-c06a-5b24-bd53-8fde9d290c7a
+page-type-slug: story-chapter-royal-road
+title: "14: Kesagiri"
+slug: 0014-14-kesagiri
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 14
+ownLength: 1065
+unit: words
+publishedAt: 2023-02-26
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1123431/14-kesagiri"
+royalRoadId: "1123431"
+---
+
+A momentary flash of surprise.
+
+An ephemeral doubt metastasized into an involuntary spasm of hesitation as the male Silvercrest Wolf jerked its gaze towards its partner. Wolves were sentient creatures capable of expressing their emotions and forming social bonds with their pack mates, so Jack wasn’t entirely surprised by its reaction. If anything, their intelligence stat should be far higher in their evolved form.
+
+How dare you, Jack thought.
+
+A frantic grin erupted on his visage as he battled back the terror gnawing at his nerves.
+
+How dare you avert your gaze in the midst of combat!
+
+Jack could feel the Silvercrest Wolf’s warm, musty breath impact against his skin. He had miscalculated. Despite using Qi Pulse to gauge its tempo, he had failed— he had assumed that the Silvercrest Wolf’s speed had hit its crescendo; it would remain a constant after hitting peak acceleration. It was only after canceling his skill that he was confronted with the deceptive truth— the cunning lupine was progressively increasing the amount of Qi it diverted to the runic symbol; its speed marginally rising with every step it took towards Jack.
+
+If it wasn’t for Trent’s beautifully timed shot and the female Silvercrest Wolf’s anguished cry, he, without a doubt, would have met his end.
+
+The runic symbol, it seemed, was imperfect. The moment the male Silvercrest Wolf allowed itself to be distracted, the intensity of the Silvery-White Qi enveloping it shrunk by half.
+
+There will be a price…
+
+Jack’s eyes shone with a frenzied zeal, his dilated pupils locked onto the Silvercrest Wolf’s silhouette, casting a shadow over his irises.
+
+“Kesagiri,” Jack enunciated the word, his voice barely above a whisper. His lead foot placed forward, he pivoted with his rear, generating the necessary momentum to bring his sword down across his body—the hassō-no-kamae or high-guard stance he had been maintaining had all been in preparation for this moment, his blade arcing in a ferocious, diagonal cut.
+
+...for your arrogance!
+
+He felt his blade make contact against rough sinew and hard bone, but only for an instant. Warm lifeblood sprayed outwards, the vague silhouette of a cylindrical shaft arcing through the air.
+
+Something's off.
+
+Jack’s kesagiri strike was aimed at the beast’s forehead, which he knew to be the Silvercrest Wolf’s weak point. He was prepared to cleave through its skull and the technique he employed was one of the most powerful Kenjutsu sword strikes he knew. There was no way the beast could have survived a direct hit to the skull, and yet…
+
+The response he had received from his sword was off. It was too fast. Too smooth. Too easy to cut.
+
+Faint footfall sounded out behind him.
+
+Fuck.
+
+Jack pivoted on the balls of his feet just in time to see the male Silvercrest Wolf charging at him. Its right foreleg had been completely severed and with every step it took it lost copious amounts of blood. Nevertheless, the flames of rage burned brightly in its gaze, it’s charge mimicking a bolt of lightning descending from the heavens—the Crest on its forehead shone brightly as the beast zig-zagged forward, this time using it’s speed enhancing ability to the fullest from the get go.
+
+Its missing leg made its movements awkward, but the Silvercrest Wolf leaned into its instability; the tempo of its movements too haphazard and erratic to grasp. Jack’s pupils rapidly flashed as he tried to lock on to the Silvercrest Wolf’s contour, but even reduced to three legs, its natural instinct and reflexes were terrifying.
+
+Within seconds, it had adjusted its gait to compensate for its missing limb.
+
+A spine-chilling scream rang out as Jack collapsed onto one knee. Tears ran down his cheeks, his body’s instinctive reaction to the sheer breadth of pain coursing through his body. The Silvercrest Wolf had raked three deep gashes across his left shin, causing blood to pool at the soles of his feet.
+
+He had managed to counter with a last second slash, but only the tip of his blade had made contact. His usually sharp senses were blanketed in a haze and it took all he had to slip his left hand into his pocket and reach for the recovery pill concealed within.
+
+The warm burst of healing immediately dulled the sharp, scathing pain gnawing at his leg, snapping Jack out of his reverie.
+
+[Qi Pool: 1/12]
+
+Damn it.
+
+Jack grit his teeth at the realization that he couldn’t use Qi Pulse again.
+
+Get up, damn you.
+
+There was no system notification. The Silvercrest Wolf wasn’t dead yet.
+
+The pain he had wanted so desperately to end surged back to life as Jack placed his injured foot onto the ground, before applying force to it.
+
+He began to scream as he pivoted on his uninjured foot, confronted with the sight of a heavily panting Silvercrest Wolf. A long laceration was rent across its side, its fur matted with its own blood. Jack couldn’t help but marvel at the reflexes that allowed it to dodge his slash with one of its forelegs missing, the trail of lifeblood spilled in its charge indicating that the wolf was not for long in this world. The crest resting upon its forehead had lost its brilliance, but Jack did not outwardly react to the burst of relief he felt.
+
+“Come at me, you bastard!” He bellowed, almost certain that the Wolf would react.
+
+A furious howl was the response it uttered, before it threw itself into a headlong charge. As Jack had expected, it did not bother trying to use the erratic movement style it had earlier without the speed-enhancement from the rune— it had lost too much blood to tarry and changing direction without one forelimb was already very difficult.
+
+Jack switched his stance, holding his sword to the side; positioning himself for a sweeping slash.
+
+Covering the distance rapidly, the Silvercrest Wolf, using the last bit of strength it was concealing to leap forward at Jack, it’s outstretched claws reaching for his throat.
+
+The focused expression on Jack’s face changed to a wide, almost demonic grin, his eyes brimming with anticipation.
+
+“You fool,” Jack whispered as he flicked his wrist, positioning his sword before his chest; his feint blooming into the true strike as Qi Blade flickered to life and Jack gently thrust his sword forward. impaling the Silvercrest Wolf mid-air after using its own momentum against it.

@@ -1,0 +1,115 @@
+---
+id: b9ddf438-d0c1-5593-b78b-6050041958b7
+page-type-slug: story-chapter-royal-road
+title: "103. Charting a Course"
+slug: 0103-103-charting-a-course
+partOf: breaker-of-horizons
+position: 103
+ownLength: 1882
+unit: words
+publishedAt: 2021-04-26
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/671320/103-charting-a-course"
+royalRoadId: "671320"
+---
+
+By the time Ambrose emerged from the Spire, it was almost daybreak. He was so weak with hunger that he had barely managed to push open the doors. Thankfully, when he made it out, the agents briskly swept him off and safely delivered him to the Ka'atyrn manor. After a quick de-briefing by Ms Pearl, he was escorted to a dining room where a long table had already been laid with breakfast. Not long after his arrival, his friends burst into the room and crowded around him.
+
+But after that initial enthusiastic reunion, he couldn't help but notice that they had all withdrawn into strangely splintered groups. Lynus took a spot at the table away from the rest. Kevan and Emilia sat together but were also one chair away from the final three; Devon, Jerric, and Caden.
+
+Before he could comment on that, Caden had asked him about his journey, and that had led to him giving a full account of what had happened, though it was a challenge because he was also ravenous. He scarfed down a spoonful of food, barely even registering what was on it before he dipped it back into the dish to take another portion. In the brief pauses, as the spoon went from dish to mouth, he spoke while eating, struggling to recount as much as he could before he forgot it.
+
+"And it told me that – I can sort of work around the Prophecy – and maybe if I make enough of my own choices – I can side-step it – or even unmake it."
+
+"Sort of?" Caden pressed, looking intently at him. "Precision is important. Can you remember exactly what it said?"
+
+"That's the problem," Ambrose answered, frustrated. He held up a hand, calling for a pause in the narrative, and hurriedly shovelled more food into his mouth. When it was clear that they would be getting no more out of him until he was sated, the rest set to half-heartedly eating their own breakfast, waiting for Ambrose to be done.
+
+After five minutes of non-stop eating (which drew looks of increasing incredulity from everyone at the table), Ambrose finally slowed down enough so that he could hold a civil conversation between more modest bites.
+
+"It was a problem to even communicate precisely," Ambrose said, picking up from where he left off. "I mean, there were words, but... it wasn't really words. The words weren't important. They were just vague echoes."
+
+"Then try to recall those," Caden insisted. "It won't help if you muddle the thoughts even more."
+
+Ambrose's mouth worked furiously as he mulled it over. After a moment, he spoke again, but this time his voice was faint, carrying a hint of pain as if it hurt him to try and recall what had transpired with more accuracy.
+
+"It said... I can form new knots that don't... fit the greater pattern. And if that happens, the next knot, and following knots... may be circumvented. Or even unmade."
+
+"And how do you do that?" Caden asked.
+
+"That was even harder to figure out. It said I just make them when I choose to. But it did later tell me that working in that... that other space is what will allow me to make the knots more consciously, more deliberately."
+
+That seemed to give Caden enough to think about because he stopped asking any more questions and instead returned to thoughtful chewing. Without him leading the inquiry, a slightly awkward silence descended over the table, punctuated by the gentle clinks of cutlery as everyone else seemed to be trying their best to make as little noise as possible.
+
+"... So, what did I miss?" Ambrose asked, glancing around at everyone. It triggered a series of glances between almost everyone else at the table, with various eyes meeting and then quickly looking away again.
+
+Emilia, who was either blissfully unaware of the tension or resolutely choosing to ignore it, spoke up matter-of-factly. "Caden was attacked by Sedhahn forces en-route to Geldor. He was saved when the Creyvlor augera possessed him and dispatched the enemy, but it caused serious damage to his auric-ambient-flare. He was brought to the Geldor Spire so its augera could fix him. There, the twins tried to kill Caden, believing it would guarantee the fruition of the Prophecy. Jerric stopped Kevan by modifying his auric-ambient-flare and stopped Lynus by seriously injuring him. Devon helped."
+
+The clinking of cutlery stopped as everyone stared at her, then around at each other.
+
+"I helped," Devon finally muttered, breaking the silence.
+
+"Immensely," Jerric said, giving him a wry grin. "I mean, we're all here being fed and watered in your house."
+
+"I didn't mean to understate your help, Devon," Emilia said earnestly, leaning forward to look at him before turning to Ambrose. "Devon was the one who was contacted by the Geldor augera, so he made his way to it, got empowered by it, then came back and put the agents in the manor in stasis, so the boys could steal Caden from under their noses, seize their cars, then bring him to the Geldor Spire without being observed by anyone, agent or civilian. That effectively means that only the seven of us know about what happened with Caden at the Spire."
+
+"That... doesn't really sound like me," Devon said.
+
+"Well, you do tend to sell yourself short," Caden chimed in, smiling.
+
+Ambrose stared at each of them in turn. "I'm guessing that the whole 'killing Caden' thing, and Jerric beating up the twins, has been, uh, peacefully resolved now?"
+
+The smile on Caden's face faded as he looked at the others. "That's a work-in-progress. But I think we're all on the same page now, at least. We've got a lot of information to share."
+
+Ambrose snapped his fingers as he recalled something. "Right at the end, the Geldor augera called the group of us the Six-Chained-Foundations. Back in the Academy, the wild augera by the lake used that term too."
+
+Caden nodded. "Yes. The six of you are foundations of the Prophecy, with you at the helm. You may be the one that steers things, Ambrose, but all six are essential, too. The short version is that Kevan and Lynus have been empowered by the Prophecy to eliminate me since I'm a threat to it being fulfilled in its original form. But they can only really make use of that power if you, and the other foundations, decide to do so."
+
+"Why would I want you dead? Why would any of us want that, for that matter?" Ambrose asked, bewildered.
+
+"Because according to Kant, if Caden unravels the Prophecy and frees the augera, the whole Empire falls," Lynus answered heavily.
+
+Ambrose finally laid down his cutlery, his eyes wide.
+
+"The theory is that freeing the augera does two things," Lynus continued grimly. "One, arcanophany itself fails because it relies on the augera somehow. So if they go, then there goes... well, literally everything. All the artefacts that make day-to-day life possible. We'll be back to hunting with sticks and sitting around campfires in caves or something."
+
+"It won't be that bad," Kevan interrupted. "Other nations have some form of arcanophany, too, right? And they don't have augera, as far as we know."
+
+Lynus shrugged. "Maybe. That still leaves the second problem — angry augera, who've been imprisoned in those crystals for millennia, now freed. What do you think they'll do to the Empire that subjugated them?"
+
+Jerric cleared his throat. "Well, that's where Caden comes in."
+
+Lynus nodded sardonically. "He thinks he can make peace with the augera. Free them, and still convince them not to destroy the Empire."
+
+Caden let out a long sigh and turned to Ambrose. "Well... that's where we're at now. All the cards on the table. In short... do you trust me to manage that?"
+
+"Do you think you can?" Ambrose asked, frowning worriedly.
+
+Caden pushed his chair back and stood up, looking at each of the others in turn before finally facing Ambrose again. "I don't know how, yet. But it's the only way I can make sure my family is safe, both from the Prophecy, and also from vengeful augera, so you better believe I'm going to do everything I can to make it happen."
+
+"You're asking the seven of us to allow you to gamble the future of the whole Empire for the sake of your family," Lynus pointed out, though without any ire. He did so with a sort of weary resignation.
+
+"No," Caden said, shaking his head. "It's more than that. I've been in close contact with several augera now, and I want you all to consider this — they shouldn't be shackled. I think... I think the right thing to do is to free them."
+
+"You're saying that because you've got your family hanging in the balance. The Prophecy threatens them somehow," Lynus said.
+
+"And you're taking the other end of that argument because your father relies on arcanophany to lead a normal life," Caden retorted hotly. But a moment later, he bit his lip in regret and looked apologetically at both Lynus and Kevan. He continued, "So I can understand your side of it, too. We both want what's best for our loved ones. But if we remove those considerations from the equation, then we're left with one major question — the augera are shackled. Is this right?"
+
+"You think it's not?" Ambrose asked seriously.
+
+"I'm not sure yet," Caden admitted. "But I'm leaning towards a 'no'. You've spent plenty of time with the Geldor augera, and the Academy augera. What do you think?"
+
+Ambrose did not answer immediately. He sensed, quite palpably, a stirring in his auric-ambient-flare that reminded him of his time in oblivion. It was like a part of him had dipped back into that non-space.
+
+This was a moment of significance, but he felt quite certain that it was not a pre-formed knot. This was an unravelled thread, a smooth segment, left in his hands to weave as he chose thanks to Caden's presence. He didn't yet know how to create those knots with precision, but that didn't mean he was powerless. The augera, after all, had told him simply, 'You make them when you choose to.'
+
+Should he take Caden's side, and fully commit to freeing all augera on principle?
+
+"I'm not sure," Ambrose finally said, wracked with indecision. "When it comes down to it... the augera scare me. There's so little we know about them. It seems unwise to just believe that freeing them is going to be a good idea without putting some more thought into it."
+
+Caden looked disappointed, but he nodded in understanding. "Yeah, I figured you'd say something like that. But at the very least, we all agree that we need to get more information. So we're working together to that end, and once we've learned enough, maybe we can come to a clearer conclusion."
+
+Jerric clapped his hands together. "The trip is still on, then?"
+
+"It better be, after all the trouble I went through getting the logistics together," Devon remarked as he drained his glass, relief written all over his face now that Caden and Ambrose had eased the tension.
+
+Ambrose smiled, and felt a new knot tighten in oblivion.

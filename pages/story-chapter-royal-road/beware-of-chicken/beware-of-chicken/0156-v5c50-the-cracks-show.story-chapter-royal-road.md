@@ -1,0 +1,213 @@
+---
+id: b6d45e44-aca2-5b14-bed5-c804d27ba807
+page-type-slug: story-chapter-royal-road
+title: "v5c50: The Cracks Show"
+slug: 0156-v5c50-the-cracks-show
+partOf: beware-of-chicken
+position: 156
+ownLength: 2098
+unit: words
+ownProgress: 2098
+publishedAt: 2024-10-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1838284/v5c50-the-cracks-show"
+royalRoadId: "1838284"
+markedReadAt: "2026-06-29T18:56:39.213Z"
+---
+
+The dawn broke through the horizon.
+
+The battles ended.
+
+The raging emotions that had saturated Tianlan’s link to her Connected Ones faded, leaving a kind of numbness.
+
+And at once, the exhaustion hit her like a hammer, as the dances fueling the formation slowed and began to stop, their duty complete.
+
+Tianlan staggered, and a strong arm caught her. She looked up into Jin’s eyes, her Connected One full of concern.
+
+Xiulan was right behind him, her face drawn with worry, and her eyes darting all over Tianlan’s body.
+
+Tianlan quickly took stock of everyone. Injuries, pain…but no deaths of those who she considered her Connected Ones. She pushed the information to Jin and Meiling, and she felt both of them sag with relief. Tianlan took the opportunity to stand again, and took a good look at Jin.
+
+Tianlan smiled at him, and rubbed her eye as it drooped, trying to stay awake.
+
+“You look like hell,” she told her Jin.
+
+He did. He looked like… well, her. Both of his arms looked like somebody had shattered a statue and inexpertly tried to stick the pieces back together. Massive rents and cracks ran through them, with pieces misaligned. The knuckles of his right hand were completely devoid of flesh, and the bottom of his left hand, from pinky to elbow was similarly destroyed. Channeling the power of the Path with her not there to help hadn’t been easy on her Connected One. His meridians were swollen and throbbing, and it was taking all he had to stay standing.
+
+She could feel how much pain he was in, now that the adrenaline was wearing off. He didn’t try to hide any of it from her, like they had promised. She could feel each and every ache of his….
+
+Just as he could feel hers.
+
+“.. you look like hell yourself,” he replied, his voice quiet and concerned.
+
+Tianlan acknowledged his worries. There was golden ichor leaking out of her good eye, the corner of her mouth, and along every seam where gold met flesh.
+
+The sudden connection and channeling of all that Qi hadn’t been without consequences, the energy surge making how broken she still was abundantly clear.
+
+Her Dragon Veins were wailing. Scabs had burst open. Patches had ripped. She had a blowout somewhere in the Grass Sea, bleeding her Qi into the air.
+
+It hurt. It was agony.
+
+Yet compared to how she had felt before? Compared to losing those she had cared about? It was nothing.
+
+“Warn a girl before you shove something like that into her pipes, eh?” Tianlan asked, wagging her brows.
+
+Her joke, unfortunately, fell a bit flat. Poor Xiulan looked like she was going to be sick. Guilt formed in her connection with Jin and her connection with Xiulan. Regret that they had hurt her.
+
+Xiulan opened her mouth.
+
+“Apologise and I’m headbutting you,” Tianlan’s blunt command was punctuated with her own feelings. She shoved them down her link with them, letting them see, and letting them know.
+
+She would accept being broken again, before she accepted their apology. They had done what they had needed to, and she could only be grateful it had worked.
+
+Xiulan hugged her. “Thank you, Tianlan. Thank you for everything,” the woman whispered.
+
+Tianlan patted her on the back…and yawned. Her eye drooped again. The last dregs of fire were burning out, and the call of the cold was too much.
+
+When it was Xiaoshi’s formation, she just felt awake. Now? She was even more tired than before. Tianlan could feel her Qi slowing again.
+
+“I can’t stay up any longer. I, sorr—”
+
+“Apologise and I’m headbutting you,” Xiulan cut her off, her voice warm, but firm, and she lifted Tianlan up. Xiulan’s hand stroked the back of Tianlan’s head, while her feet took her back to Tianlan’s cottage.
+
+“We’ll have everything cleaned up by spring. I promise,” her Jin said.
+
+Darkness encroached on Tianlan’s vision. The last thing she saw was a snowman, standing at attention.
+
+He was young and weak. But he had done so much. Intercepting enemy communications, guiding her Connected One, and helping him unleash his techniques while Tianlan had been asleep. Without him…things would have been much, much worse.
+
+Tianlan let her gratitude flow down the link to the subordinate Spirit. She elevated him as much as she could.
+
+“The rest of the winter is yours,” Tianlan whispered.
+
+The General That Commands The Winter saluted, ready to resume his vigil.
+
+Tianlan was tucked into bed, and the darkness fell over her once more.
+
+==============================
+
+“May Heaven be kind to you, Lu Ri,” I said. The transmission stone stopped buzzing.
+
+One thing taken care of. I heaved out a sigh.
+
+I felt like shit.
+
+I wanted nothing more than to just climb into bed like Tianlan.
+
+But I had work to do.
+
+The first order of business was to take stock of everybody. Tianlan had let me feel that they were all… well, I would hesitate to say fine. They were alive.
+
+What we had to do first was regroup. Xiulan was already here. The red markings had faded from her face. Her blades disintegrated into motes of green Qi and disappeared. She looked similarly exhausted, and was leaning against my shoulder to stay standing.
+
+Washy descended from the sky, Yin sitting on his back. Washy himself was pretty beaten up, with strips of scales missing and half-healed scars that were still oozing blood. Yin’s neck was one solid mass of purple bruise and circular puncture wounds—like a bunch of lampreys had latched on and started drinking her blood… which probably wasn’t far from the truth.
+
+Yin slid off him when he landed.
+
+“Sorry for not following the plan, Boss,” the dragon said, looking embarrassed.
+
+I reached out, grabbed his head, and hugged him.
+
+“It's fine,” I replied. “I’m proud of you.”
+
+The dragon slumped more, and with a pop, I was holding a fish instead… who promptly started snoring. I chuckled, and transferred him to under my arm. He’d earned at least a moment of rest.
+
+“How are you holding up, Yin?”
+
+“Bastard could eat Qi,” she said, sounding irritated. “After everything... I didn’t have enough juice left until Big Sis gave me a boost.”
+
+“You did well, Yin,” Xiulan consoled her. “You had to fight multiple opponents a full Realm higher than yourself. That you can still stand at all is a testament to your strength.”
+
+Yin smiled at the praise… and squeezed back hard when our arms wrapped around her.
+
+Tigu was the last to appear, coming out from between the trees.
+
+“One of them got away. Teleportation,” she said, her face pulled into a frown. She accepted my hug and then all of us headed back to the fortress.
+
+======================
+
+By the time we exited the forest again, Washy was awake and in the form of a dragon. I sent him on ahead to check out Hong Yaowu and Verdant Hill, to make sure everything was fine.
+
+Then I laid eyes on the fortress.
+
+The place looked a bit worse for wear. The stones were cracked and scarred, and there was a field of corpses just outside it.
+
+The destruction was nowhere near what it had been like at the Dueling Peaks. We had gotten off lightly in comparison, but it hit home all the harder.
+
+My heart broke just a little at the sight, and broke again as I saw people already in the process of… cleaning up. Gou Ren and Delun tossed one of the bodies into a growing pile. Both of them looked ripped up and moved with weariness.
+
+“Jin—” was all Gou got out before I was on him, holding him and pounding my fist into his back. Gou Ren chuckled, but the sound was thick with emotion when I pulled back and took a good look at him.
+
+His hair wasn’t black anymore. Instead, it was more golden, the same colour as Huo Ten. His sideburns had regrown in a shape that framed his face like the Great Sage Wukong, and had the texture of fur rather than a man’s beard. His canines were slightly too sharp, and a tail hung from his rear.
+
+Several new scars adorned his body.
+
+“Are you good?” I asked him, holding onto his shoulder.
+
+“...yeah. Yeah, I'm good,” he replied after a moment. I looked into his eyes… and I knew he wasn’t just putting on a brave face.
+
+“Thank the Heavens you were here, brother,” I said, and a small smile formed on his face as he nodded. I let go of his shoulder and took a step back.
+
+I moved to the person who was standing close to her man. Xianghua smiled at me and seemed to be expecting the hug this time.
+
+“Hong Yaowu is safe, nothing ever got near. Washy is checking and making sure everybody else is fine,” I informed her.
+
+“Of course! Not a doubt entered this Young Mistress’ mind!” she exclaimed, and planted her hands on her hips.
+
+I couldn’t help but smile at her boisterous enthusiasm. I gave my hopefully soon-to-be sister-in-law another hug. “You’re the best, Xianghua.”
+
+I looked over to Delun. He was currently listening to both Tigu and Xiulan as they took stock of him, Xiulan with a hand on his shoulder… and Tigu just hugging him. I caught his eye for a brief moment, and gave him a nod.
+
+I would have to talk to him later, but for now… he got it.
+
+I turned to the last member of this group. Babe had a rag in his mouth, and was cleaning Sunny the best he could. He glanced up at me, and nodded.
+
+‘We are victorious,’ he stated, with an undercurrent of satisfaction to his voice.
+
+“We are,” I agreed.
+
+‘This Bei Be is gladdened,’ the ox bowed his head. ‘He….likes this place. He would not see it destroyed.’
+
+It was the first time I had ever heard him really express any real opinion, other than on cutting.
+
+“Thank you,” I said, and reached out. I gave his horns a good scratch, and he leaned into the touch.‘Though this one must redouble his efforts. To his shame, his cuts towards the end became sloppy.’
+
+I chuckled at his one-track mind.
+
+=====================
+
+The fortress was the last place. I knew, intellectually, that Meimei and Zhuye were fine, but seeing the bloodstains inside the fortress made my blood boil and my arms creak—note to self, clenching my fists at the moment was a stupid idea.
+
+Huo Ten, the Torrent Rider, Shaggy Two, and Noodle were standing guard just outside the heart of the fortress. All of them were looking a little worse for wear, but nothing serious. I greeted them and thanked them for their help, while Noodle started fussing over Yin.
+
+Next… there was a bee.
+
+“Thank you, for everything, Vajra. Without you, I don’t know where we’d have been.”
+
+She buzzed proudly. I don’t know how many bees had died… but there was definitely going to have to be a funeral.
+
+I took a deep breath as I walked into the inner hold. Meimei was there. She caught my eye and smiled.
+
+She was uninjured. Zhuye was asleep beside her.
+
+My fist unclenched. I let out the breath I had been holding. I marched up and kissed Meimei on the cheek, and then checked on my son. I considered lifting him up, but he had tear marks on his face and he had probably just gotten to sleep. Waking him up right now wouldn’t be kind. Instead I turned my attention to the others.
+
+Meiling was crouched over Chunky, her hands glowing green, as she spread medicine over his injuries. My poor boy looked like he had been through the wringer. He had a massive puncture wound in his side, but he perked up when he saw me.
+
+The last person in the room was a woman with pink hair. She was sitting beside Chunky, her eyes full of pain—
+
+I paused.
+
+“Peppa?” I asked.
+
+The woman flinched. She turned blue eyes onto me, full of pain. She was wearing what looked like too-small clothes, some of Meimei’s.
+
+“Master,” she whispered, her voice fragile.
+
+I knelt down beside her and took her hands in mine. I didn’t ask her if she was alright, because she clearly wasn’t. Her eyes kept flicking back to the wound in Chunky’s side.
+
+Her lips wobbled. The tears started once more to flow.
+
+I held her as she cried bitter tears.
+
+Everything else could wait just one more moment.

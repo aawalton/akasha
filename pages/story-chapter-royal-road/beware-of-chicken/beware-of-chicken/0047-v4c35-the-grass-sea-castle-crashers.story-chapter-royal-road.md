@@ -1,0 +1,307 @@
+---
+id: cc923ec3-4e62-5e48-bf1f-a34130a6d99c
+page-type-slug: story-chapter-royal-road
+title: "v4c35: The Grass Sea Castle Crashers"
+slug: 0047-v4c35-the-grass-sea-castle-crashers
+partOf: beware-of-chicken
+position: 47
+ownLength: 3748
+unit: words
+ownProgress: 3748
+publishedAt: 2023-08-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1324390/v4c35-the-grass-sea-castle-crashers"
+royalRoadId: "1324390"
+markedReadAt: "2026-06-29T18:52:58.476Z"
+---
+
+“Rou Tigu pays her respects to the Tie family!” Tie Delan heard the girl continue, bowing politely. He spared the short woman a brief glance, noting the bracers on her arms, carved by his son. He had not met the target of his son’s affections before, even as he heard his boy wax poetic about her and her powerful master: He and his wife had been consumed with subduing a Frost Wolf during the Dueling Peaks Tournament, the Profound Level Spirit Beast having fallen from the Howling Fang Mountains. Even injured and driven mad, it had been a true battle—but now was not the time to reminisce. His son was here, and Delan had eyes only for him.
+
+“Father. Mother,” Delun greeted them, just ever so slightly awkwardly. It was to be expected! He had marched in here for some reason, only to have his parents bar his path! Delan would have been similarly confused. “I apologize for meeting you in such circumstances.”
+
+It had been only three months since he had seen his boy, but Heavens, he had grown. His back was straighter. His eyes were pure and focused. He looked like a rock, upon which the world could break itself before it was broken.
+
+Profound Realm. His son had been gone only a few months and had ascended to the Profound Realm. His cultivation had changed, realigning itself to earth rather than purely metal, but at his core, his cultivation was still the teachings of their Sect. Though… both Tigu and his son were wearing matching uniforms—a blue Gi with the character for Azure on the back.
+
+His armor had mixed in stone as well, and upon that stone were some of the oldest protective and strengthening formations they had—most of which were bare imprints on ancient tablets back at their Sect, barely decipherable, but these looked completely whole, compared to the fragments they normally worked with.
+
+He wanted nothing more than to rush forwards and embrace his boy. To praise him, berate him for his recklessness, then demand that he explain himself. He could feel his wife restaining herself from doing the same—but there were other issues.
+
+“Master Tie! Please, see these ruffians out immediately!” the noble squealed from behind several of his servants. “You bastards, daring to invade my home! Begone!” The man was smart enough to arm the burly servants with metal shields, but he was still dumb enough to have come out here in the first place.
+
+Delan straightened himself up. Rou Tigu’s eyes turned into yellow slits as her attention swapped to the nobleman, while his son frowned slightly. Something was certainly afoot here, and Delan would have it out in the open.
+
+“What is going on here? Why did you barge into this man’s manor, boy?” he asked, his voice cold and hard.
+
+Rou Tigu, a scroll still in her hand and stamped with an official-looking seal, raised it up. “Shen Yongzheng has been implicated in the falsifying of official documents and the enslavement of imperial subjects. He is to be taken into custody, along with all of his servants, and his property seized.”
+
+Her words were that of an executioner’s blade. Delan paused. That scroll looked official. His son, standing beside the young woman, nodded. His face was grim. Delan wondered how he had gotten involved in this mess, but held his tongue.
+
+Delan turned to the noble, who had gone pale. Sweat beaded on his forehead. “B-b-baseless! Utterly baseless accusations!” he managed to spit out. “Master Delan, please! We can surely come to an agreement!”
+
+The man was most certainly guilty, if he was insinuating what Delan thought he was.
+
+“We are servants of the Emperor. How could we disobey a lawful order from one of his agents?” Delan asked.
+
+The noble, if possible, paled further.
+
+“Hold them off!” the little worm demanded in a shrill voice before he turned to run.
+
+Between one instant and the next Tigu was gone, and then she had the noble in her grasp. An ethereal tiger formed around her, snarling like a beast from the hells. Delan struggled to follow her movement and swallowed. It hadn’t even been a year since she was at the Fifth Stage of the Initiate’s Realm, according to what people had said of the tournament. And now she was superior to Delan, even though he was in the Second Stage of the Profound Realm.
+
+What an utterly monstrous, heavens defying talent.
+
+“You’re going to show us where everything is. Every letter, every document, every hidden room,” she whispered. The man relieved himself—but such was the control over Tigu’s intent that every time he tried to pass out from terror he felt her Qi prod just so, keeping the man conscious.
+
+The guards of the manor dropped their weapons immediately.
+
+The noble nodded rapidly. Satisfied, Tigu turned back to the gates. “Bring ‘em in, boys!” she called out.
+
+“Yes, Big Sis!” a bunch of rough voices replied as men and women dressed in ragged slum clothes came in, pushing carts with cages on top. All of them had an armband of blue cloth. “We’ve got the exits covered, Big Sis, just like you said! None of these bastards are gettin’ away!”
+
+Those at the front of the manor were quickly corralled under Tigu’s watchful eyes.
+
+“It's true, is it?” Delan asked his son.
+
+“Yes. I saw it with my own eyes… and we decided to do something about it.” Delun looked at them both. “We were originally going to look for you first and explain everything… But we ended up having to move a bit faster than we were expecting. It's a vast conspiracy.”
+
+“I see,” Liqui said, her face blank, before she gained a little smirk. “And then you can introduce us properly to Tigu!”
+
+Delun, instead of flushing like he had for the first couple of months, smiled. “You’ll like her,” he stated simply.
+
+My, his son truly had grown! He shared a glance with his wife, whose appraising eye was now on Rou Tigu.
+
+“We’re searching the manor from top to bottom! Put everybody into custody! But if I hear a word about bad behavior…” Tigu shouted down at the mortals who would be supporting them.
+
+The rough slum dwellers nodded. “Don’t worry, Big Sis! Brother Dong Chou already ‘splained everythin to us!”
+
+Tigu nodded, then turned to Delan again and bowed.
+
+“Would you join us please?” Tigu asked politely. For such a rough looking girl, she was certainly personable.
+
+“Yes. I would see what manner of villainy this man has engaged in,” Delan declared.
+
+The noble, still awake, shivered in his sodden robes.
+
+Bastard. Make Delan wait? Force him into an uncomfortable chair? Oh, this would be rather fun.
+
+They marched into the manor unimpeded. Every servant and guard immediately went to their knees before the combined intent of four cultivators in the Profound Realm. Delan and his wife were content to let their son and Tigu take the lead—the younger generation needed to spread their wings, and really, a few mortals being caught up in something was technically beneath their notice.
+
+First, they went into the man’s office, ransacking every hidden drawer and sealed compartment. The noble was looking more and more like he wanted to bite off his tongue and just commit suicide, but his own cowardice stayed his hand.
+
+One of the drawers burst into flame as Tigu opened it, but it was insufficient to stop Tigu’s sheer speed from rescuing whatever they were supposed to destroy.
+
+She smiled as it unveiled more names and locations. Blackmail, apparently, for whatever cabal was operating here.
+
+“Now… where are they being kept?” Tigu asked the noble, her eyes like daggers.
+
+“B—basement,” the man squeaked.
+
+And thus, the basement was their next destination. It was a surprisingly far walk—and Tigu began to tense up the further they got down the stone stairs. A deep, snarling growl began to issue forth from her throat as they approached the stone door.
+
+Tigu looked like she was going to rend it from its hinges, but Delun beat her to it. With a single tap of his hand the stone simply ceased to be, ripping open a hole in the wall without any disturbance risking a collapse.
+
+Then the smell hit their noses.
+
+Delan, who had been amused at the rather thorough dismantling of the noble, felt that amusement fade.
+
+His wife tensed, and her bloodlust began to leak out. Her pretty dress with its long sleeves began to rip at the seams as her muscles bulged.
+
+He stared at the cages, where several young women—no, several girls and young boys were being held. Their eyes were wide and terrified.
+
+Delan had seen things he would have rather not seen again in his lifetime. Blood and death that haunted his dreams, and were only kept at bay by the sparkling lights of the forge, or his wife’s fingers through his hair.
+
+This was not the worst of the world… But it was certainly enough to make his blood start to move like molten metal through his veins.
+
+“Don’t worry,” Tigu said, her voice kind, gentle, and almost motherly as she addressed those imprisoned. “You’re safe now. Big Sis Tigu and Big Bro Delun will have you out.”
+
+The tiger gave way to a kitten. Bright, playful, and comforting. The mortals, terrified out of their wits, calmed.
+
+The mortal children began to sob.
+
+“Son. You said this was a vast conspiracy,” Delan said, his voice as calm as he could make it as he strode forwards to aid in releasing the children along with Liqui.
+
+“Yes. We have to hit thirteen more manors—and then ten times that many mines, farms, foundries, mills,” his son reported. “In addition to many places outside the city’s immediate area.”
+
+“Then… you shall have our support. Do you need us to smooth things out with the palace? You are assaulting Suzeng’s supporters,” he said, referring to the Lord Magistrate of the city.
+
+“Xiulan is handling that,” his son replied, before turning and standing up to look Delan in his eyes. “Father… thank you.”
+
+He filed away the fact that his son was on first-name basis with Cai Xiulan away and nodded firmly. “There is nothing to thank, my son. The wicked deserve their rewards, no?”
+
+Delun smiled and bowed his head. “I can't wait to tell you everything.”
+
+The Sectmaster of the Hermetic Iron Sect nodded, pride filling his heart… and then he went to aid the others in setting the young ones free.
+
+================================
+
+They exited back out into the sunlight with the children—though it was less calm than when they had entered.
+
+There were shouts, screams, and the shudder of Qi coming from other parts of the city.
+
+“Looks like it's not going as cleanly as we hoped,” Delun said, his voice tight.
+
+“They’ll win,” Tigu replied, her voice utterly confident.
+
+“We have to hit the next place before they figure things out.”
+
+Tigu raised an eyebrow at Delan’s son. “It will surely be a busy day, Handsome Man. Are you up for it?”
+
+The Young Master of the Hermetic Iron Sect snorted. “Of course.”
+
+Tigu’s smile was as bright as the sun.
+
+Delan realized instantly why his son had fallen for her.
+
+They forged ahead, their eyes burning with conviction.
+
+Delan and his wife followed in their wake.
+
+===================================
+
+“Come on!” Yin roared as she surged towards her opponent, an old-looking man clad in black robes.
+
+He had introduced himself as ‘the servant of this family’ and had come out to fight, along with three others, after they had refused Yin entry. She had even asked politely at first, like Master Jin and Shifu had said to… so she ripped the door off its hinges and read the scroll out for everybody to hear it clearly.
+
+Now she was locked in combat with a very skilled old bastard. She spared a glance for Zhang Fei, her Junior Brother the Torrent Rider, fighting off the less skilled of the remaining combatants. Yin had already put two of them down, one laying against a smashed pillar and the other buried head first into the ground.
+
+Yin’s gauntlets made of sunlight met the old man’s sword, and she nearly blasted it out of his hands with her strength alone. But he managed to hold on to it, and more importantly, counterattack. Yin barely moved her head out of the way in time, dodging the blow.
+
+Yin pressed forwards, keeping her footwork light and her fists fast as the man’s sword blurred.
+
+He was trying to kill her. Each strike was a lethal attempt.
+
+Yin felt her heart thunder in her chest.
+
+For the first time in a long time, she got to be the weapon again. She got to be what her Shifu had moulded her into.
+
+Yin, for the first time in a long time, didn’t feel lost. This is what she was meant to be. This is where she belonged.
+
+Tigu liked to fight. Tigu liked the challenge. She enjoyed it.
+
+Yin needed it.
+
+She needed the rush of her blood. She needed the razor's edge between life and death, fighting her enemies. She needed the surety of her purpose—to defeat the wicked and cast down evil.
+
+And yet… something was off. Something that Yin couldn’t quite put her finger on.
+
+Yin shook it out of her mind. She could think later. Now it was time for fighting!
+
+Her enemy was flagging as she pressed him, the old man’s face contorted in concentration. In a few more exchanges, Yin would win… and they both knew it.
+
+“You’re skilled, girl,” he grunted out as he barely dodged a blow that would have shattered his ribs. “But still too inexperienced.”
+
+Yin’s eyes widened as the old man looked past her and his Qi surged.
+
+[Shadow of the Leaf!]
+
+Knives erupted from the shadows on the roof… and speared towards the Torrent Rider’s back. Her Junior Brother, preoccupied with his enemy, didn’t see the attack coming.
+
+Yin’s body moved before she could think. Light and heat burst out of her gauntlets in a great gout as she slammed backwards.
+
+Knives clinked against her armor. One slashed across her face and managed to draw blood.
+
+The Torrent Rider startled at her sudden appearance, and his opponent took advantage of his distraction, aiming to cut the young man down. Yin grabbed him, shifting him out of the way of the strike and taking a sword across the back for her trouble. Her armor blunted the strike but it still hurt. Her Junior Brother’s enemy barely managed to block her retaliation, his sword shattering as he went flipping up to the roof.
+
+The battle paused as Yin breathed harshly, her eyes narrowing as the old man stood on the roof above her.
+
+“You are strong and skilled—but this is as far as you go. I shall be magnanimous and give you one chance to withdraw, girl. But if you stay, you and your little friend will perish.”
+
+Yin felt poison burning in her cheek. She sucked in a breath and let it out. She felt her heart slow for a moment… And then she realised what was wrong with how she had been feeling before.
+
+“Do you know what your master is doing?” she asked. The old man blinked, and then he schooled his features.
+
+“We do. We aid him in all things—and we shall protect him until the end,” the old man replied.
+
+Yin took another breath in, then out, as she heard her Junior Brother make worried noises.
+
+She felt certainty settle over her, the strange feeling disappearing completely.
+
+She hadn’t been certain that they had been truly worthy of her wrath, rather than just unaware guards.
+
+Heat and light blossomed in Yin’s chest. Fire spewed out of the cut on her cheek, burning out the poison.
+
+Yin looked up at her enemies, the light of the dawn burning in her eyes and over her forehead. Her opponents recoiled, their eyes widening as Yin fully let loose.
+
+[Sun Arts: Nova Drive]
+
+Her armor burned, in time with the heat in her gut. The ground around her started to slag—and yet the Torrent Rider was untouched.
+
+“In the Name of the Sun, I’m going to Kick your Ass,” she said simply.
+
+[Rising Dawn]
+
+Heat and light roared as a miniature sun formed in the sky.
+
+A blade against evil.
+
+It was perfect. It was right.
+
+==================================
+
+All across the city, minor skirmishes broke out.
+
+A tiger and a man made of stone marched in force. All who opposed them were driven to their knees; those who had been taken received only warmth and kindness.
+
+Light and fire burst across the skies as a silver-haired woman and a young man with his dog yipping and snarling, brought low all who stood against them.
+
+Liu Xianghua walked into the largest manor in the city, home of the Ji family, with Sergeant Han and the Young Mistress of the Grey Water Sect behind her. The Ji family had an army, it was said. They were the strongest family in the entire city, disputed only by the Guans of the Azure Jade Trading Company.
+
+It mattered little when a heron strolled past a thousand guards and fished the patriarch out from his fortress like a mother catching an unruly son.
+
+Rags and Loud Boy shot over rooftops, hunting down fleeing carriages, soaring through the air like a dragon and a falcon, and none could escape them.
+
+Before the might of the Sectmaster of the Hermetic Iron Sect and his wife, the great foundries of the city were smashed open—and the people, chained to the bellows they were forced to pump, were freed.
+
+The story resounded throughout the city. As the hours passed, not a single person was ignorant of what was happening.
+
+Hired cultivator guards threw down their weapons. Those that attempted to fight were defeated utterly.
+
+For what could those in the Initiate's Realm do against those in the Profound?
+
+================================
+
+In the Lord Magistrate’s Palace, a man sat behind his desk. The corpulent fellow was named Shi Suzeng—the Lord Magistrate of the most powerful and prosperous city in the entire Azure Hills.
+
+Well… nearly the most powerful. It had chafed for decades that he was subordinate to Pale Moon Lake City—the city of mortals, instead of his own, clearly superior city. Pale Moon Lake City didn’t even have any tournaments, for heaven’s sake!
+
+He was trying to look like he was smiling. Instead, he felt like the whole world had dropped out of his guts as he looked at the two who were smiling politely at him from across his desk.
+
+He knew one of them. Cai Xiulan, who he had met before when she had cleared the Face Snatcher Gang out of his city two years ago. In any other circumstance, he would have been happy to have an excuse to stare at the beauty again.
+
+This time, however, she was here with that bastard Special Inspector from Pale Moon Lake City. The fool was nothing more than the most recent catspaw of that puffed-up, up-jumped weasel who dared call himself a peer of Shi Suzeng. Another proxy in the latest effort to push him down and assert Pale Moon Lake City’s waning authority anew. He had no idea what had possessed them to put another doomed soul up to the task after the last one had been… taken care of.
+
+But he was here. Here with a cultivator guard he couldn't take care of while bedlam erupted in his city. What was worse was that Cai Xiulan arrested most of his subordinates and had politely asked all his guard captains to stand down and let everything happen.
+
+The men had obeyed, of course. What could they do against the Demon-Slaying Orchid? Now she was sipping tea as the Special Inspector presented his findings.
+
+“As you can see, the chain of evidence is quite clear, Lord Magistrate,” the Special Inspector said. “It's an extensive operation that you missed.”
+
+The jab made him tighten his fists. That he had ‘missed’ this would be a pretext for more of Pale Moon Lake City’s agents to flood his city… and that was if he wasn’t dismissed for ‘incompetence.’
+
+His only saving grace was that he hadn’t actually known what they were doing. He hadn’t looked at all, and that had been the deal. He would be blind, and in return… he would have his prize.
+
+Everything had been going so well, too. The city’s economy had been booming. All of the top clans and families had assured him that they would be able to put in a bid, a real bid, with the Imperial Bureaucracy that Pale Moon Lake City’s time had passed and it was Grass Sea City that was the true capital of Azure Hills. He would have finally been out from under Pale Moon Lake City’s thumb.
+
+Nobody should have been able to interfere with the strength they had. The cultivators shouldn’t have cared, if they took notice at all.
+
+But somehow the new Special Inspector had managed to catch the ear of Cai Xiulan, and he had multiple Young Masters and Young Mistresses savaging his city.
+
+And now… now everything was going to shit, and there was nothing he could do about it.
+
+“We’ll need all your men for the second stage, Lord Magistrate,” Cai Xiulan spoke up. “It's quite a vast area we must cover.”
+
+He tried to smile. He really did.
+
+“Of course, of course, take what you need,” he replied.
+
+“And you’ll send a transmission to your colleagues to have this incident recorded,” the Special Inspector said, his voice conversational. The Lord Magistrate of Grass Sea City froze as both the Special Inspector and Cai Xiulan’s eyes suddenly sharpened. He swallowed thickly as the handsome man suddenly seemed taller, his presence filling the room, while Cai Xiulan turned from pretty eye candy into an executioner. “And make sure that every person in this little conspiracy has justice done.”
+
+They didn’t have anything on him… but they knew.
+
+“Of course, Special Inspector. All must know that justice is inevitable, for any who dare do such a thing.”
+
+==================================
+
+And that was how the Grass Sea Slavers, as they were later named, would meet their end.
+
+By a group of cultivators bearing the banner for Azure on their back… and a supremely skilled Special Inspector.

@@ -1,0 +1,121 @@
+---
+id: b5f26aae-b042-5ebf-ae03-e130b942fc08
+page-type-slug: story-chapter-royal-road
+title: "117. Foresight"
+slug: 0117-117-foresight
+partOf: breaker-of-horizons
+position: 117
+ownLength: 2151
+unit: words
+publishedAt: 2021-06-14
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/699277/117-foresight"
+royalRoadId: "699277"
+---
+
+Ambrose simply stared at Caden. The moment stretched but Caden didn't back off — he simply waited patiently, a look of determination on his face. Privately, he was a little surprised at himself for making such an audacious proclamation, but he had come to realise that it was high time he started making use of the agency he had been invested with. There was still a terrible fear of how things could go badly wrong now that he knew more about the scale of the Prophecy, but it was becoming increasingly clear that his non-action was not going to cut it either. The Prophecy would have his family and his friends serving its needs regardless of whether or not it was in their best interests. It supposedly would work out for the good of the Empire, but the unflinching disregard it had for the holistic well-being of individuals, even the ones involved in its fulfilment like the anchors and the Chosen One, was too... inhumane.
+
+Finally, Ambrose found his voice. "Tear it down," he muttered, shaking his head slightly. "I know you want to broker some sort of peace with the augera and free them all, but it really just occurred to me that it amounts to tearing down the whole framework the Fateweavers have made. I'd no longer be the Chosen One. All prophecies will be dismantled without the augera."
+
+Caden nodded. "At first, I thought all I had to do was introduce enough instability into the Prophecy so you'd be free to be the one who did that. But now, I think that all along the augera have meant for me to be the one to do it because they don't count on you being capable as the Chosen One. Well, I'm tired of both the Fateweavers and the augera trying to play people off against each other. The way I see it, either one of us will end up bringing this whole thing down. We might as well work together."
+
+"The Prophecy means for me to uphold the reign of the Fateweavers and to be one of them," Ambrose said, smiling thinly. "I have a stake in what we're planning to bring down."
+
+"You have a stake in making your own choices," Caden shot back. "You just said you don't want us to end up on opposite sides. This is it, Ambrose. This is the choice. I'm not backing down. You know why I can't leave things alone — my family is tied up in this!"
+
+"So I have to follow along with you because you can't give your family up?" Ambrose asked helplessly. "I mean, if we take a step back here and just... just weigh things objectively... you're asking me to dismantle the Empire and give up my future. Why? For your family?"
+
+Caden got to his feet, drew in a sharp breath, and almost spat out a bitter retort about how he couldn't expect Ambrose to understand since he was an orphan, but he bit down hard on his tongue. He exhaled slowly through his nose and forced himself to calm down.
+
+After a moment, he sat again, facing Ambrose. "If that's all we need to consider, then why do you care whether or not we end up on opposite sides?" he asked simply. "You should just follow the Prophecy all the way. Why'd you even offer to help me back when I told you about my sister, and about my whole purpose for coming to the Academy to learn how to unmake prophecies?"
+
+Now it was Ambrose who had gotten to his feet, and he paced up and down the trailer in agitation. "I... I think that was your fault. It wasn't long after our first meeting, and I think your proximity as the unchosen-sighted-{~?~} loosened the Prophecy's hold on me. For the first time, there were empty moments where I wasn't sure what to do. And that conversation was one of them. So I... I went with my gut."
+
+"My fault?" Caden began, but then decided to abandon that line of questioning. "So this means that you were thinking for yourself without the Prophecy hanging over you. And at that point, you thought helping me was the right thing to do."
+
+"Yes."
+
+"Don't you see?" Caden asked as gently as he could, even though his heart was thumping in a mix of fury and fear. He could sense this was a pivotal moment. "You don't believe that what the Fateweavers have done is right. Why would you force yourself to join them now that you actually have a choice?"
+
+Ambrose sat down heavily. "But... doesn't it scare you? The thought of taking it all down. What if it's better to leave it be? I mean, who are we to make that decision?"
+
+Caden looked up at Ambrose. "We're human. Same as the Fateweavers. They don't have any more right than we do to play with the lives and minds of people."
+
+"They've given the Empire thousands of years of security, and we're going to undo all of that."
+
+"No," Caden replied, shaking his head. "We're going to free the hearts and minds of people, and extend that same freedom to the augera, and then we're going to find a better way for everyone to live. A way that feels right."
+
+"Do you really believe you can do all that?" Ambrose asked, gesturing vaguely to indicate the enormity of the proposition.
+
+"Not alone. Which is why I'd much rather have us all working together so if this all blows up in our faces, at least I can share the blame," Caden said, cracking a smile.
+
+Ambrose gave a small snort of laughter but quickly sobered.
+
+"But seriously," Caden continued with a little sigh, "it does scare me. If I'm honest with myself I also really resent the augera, or just random cosmic chance, for putting me in this situation. But here we are. There are people I care about who are in the line of fire, and even if they weren't..."
+
+He got up and went over to the window to look out at where the others were seated. "You and Lynus have tasted it first-hand — that fear of being forced by the Prophecy to do something against your will. Is that something you want hanging over every other living soul?"
+
+He turned back to Ambrose, and now his voice dropped to a murmur. "And will you be okay being one of the people responsible for that?"
+
+Ambrose shook his head slowly and let out a deep sigh. "No. You're right. I don't know what I really want yet... but I know it's not that."
+
+"So you'll teach me, then?"
+
+In answer, Ambrose got up and formed a knot of arcana in the palm of his hand, which he extended to Caden. As before, it seemed to carry a faint resemblemce to the 'flavour' of ensorcelment, but now that Caden was paying closer attention and it wasn't in the middle of pitched battle, he could pick up hints of other things.
+
+'What is it, exactly?' he directed to the augera.
+
+'Knowing,' they replied simply. 'The shape of it in the mind. The shadow of thought.'
+
+He understood the words, but he suspected that language was failing to convey the full idea. In any case the augera didn't seem to think this was unsafe, and if he accepted it he would know for himself exactly what it was. He reached out and took the knot of arcana from Ambrose, allowing it to melt into his auric-ambient-flare.
+
+When it flowered in his mind, it was with a bit of anti-climax. The augera had been quite concise — it was the essence of 'knowing' something. More precisely, what Ambrose had shared with him made him suddenly completely aware of exactly how knowledge itself sat in his auric-ambient-flare. In physical terms it was like suddenly being able to feel your own blood coursing through each and every vein. You knew it was there all along, but it was now possible to trace its path.
+
+More importantly, now that he knew how knowledge itself was stored in an auric-ambient-flare, he realised it was possible to do more than just pass along his own knowledge. He could find this same pattern in someone else's auric-ambient-flare and modify it.
+
+"This is one part of how Reeves wiped everyone's memory of you," Caden breathed.
+
+Ambrose nodded. "It must be. And he probably tapped into the Spire network to do this to everyone in the Empire."
+
+"But you said this is one of the building blocks of becoming a Fateweaver. Does that mean he...?"
+
+"No, I'm pretty sure he's not a Fateweaver. They must have allowed him to learn this, while keeping him from attaining other important bits of knowledge. Plus, he worked with the Demiurge, so that's probably how he had access to the Spire network. It's not something he did alone."
+
+Caden suddenly realised that Ambrose had been right to fear giving him a headstart by revealing exactly how knowledge could be passed along through arcana. Even as Ambrose spoke about other bits of knowledge, Caden made a connection between this essence of knowledge and the presence-shielding technique the augera had just taught him. He couldn't stop himself from gasping aloud.
+
+"What?" Ambrose asked sharply.
+
+Caden thought quickly, then made up his mind. He rooted through his auric-ambient-flare and extracted echoes from the threads that formed that piece of knowledge, weaving them into a knot of arcana which he held out to Ambrose. "It's better if I show you."
+
+Ambrose hesitated, then accepted it. He looked a little surprised. "That's what it takes to hide someone's auric-ambient-flare? We pull them into oblivion? No, wait, that's not..."
+
+"I'm still figuring out the mechanics myself. I don't think I sent the idea across properly. Did you get the framework at least?"
+
+Ambrose frowned. "I know how to do it, but I don't know how it works."
+
+"Right. See, there's the part where the arcanist doing this has to dip into oblivion. But there's that weird twisting thing that pulls another person's auric-ambient-flare into it too, while leaving their conscious mind in the arcanic sea we're more familiar with, or in the physical world. I didn't know how that worked, but it just occurred to me that this knowing thing must be how. You pull them into oblivion, but you modify their perception so that they're not overwhelmed. Then they're hidden in oblivion, but they move freely in the arcana. The only drawback I see here is that they won't be able to see their own auric-ambient-flares."
+
+Ambrose shook his head wonderingly. "That kind of separation of consciousness..."
+
+"That's not important," Caden said agitatedly, waving a hand. "Do you realise what this means? If you can separate a person's mind from their auric-ambient-flare and they can still freely manipulate the ambient arcana, and you can effectively still function as a full arcanist even while your auric-ambient-flare is hidden in oblivion, you'd be practically invulnerable to anything except a direct line-of-sight attack."
+
+"That's... it's not that simple," Ambrose said, frowning. "A smart thaumaturgist can still locate your physical body with arcana even if your auric-ambient-flare is hidden. And area-of-effect sequences can bombard an area as long as you have a target location in mind."
+
+"But, okay, wait, forget combat, there are too many ideas," Caden said, struggling to settle on one thing. "Just... just this whole idea of separation. If your auric-ambient-flare can be totally disconnected from your consciousness, and proximity doesn't matter any more... do you see?"
+
+Ambrose blinked. "The Demiurge. You think this is how he seems to teleport? The body he makes is just an illusion, but with physical substance because he uses arcana to emulate touch?"
+
+"Yes!" Caden said excitedly. "And if he can do it, then why can't we?"
+
+Ambrose's eyes widened. "We can find a safe place to bunker down, and just send out our consciousness. And then withdraw in the blink of an eye. We'd be totally safe since our auric-ambient-flares are hidden, and our physical bodies aren't even there."
+
+"YES!" Caden repeated.
+
+"That's an idea," Ambrose said, his eyes gleaming. "We'll have to test it out to see if that's really how this works. But..."
+
+"But what?" Caden asked, deflating a little, wondering if he had overlooked something important about the principles.
+
+"If it works, and if we want the others to come along on this, we have to share how to do these things with them," Ambrose pointed out. "... Do we?"
+
+Caden's heart sank even further as he considered the idea. If it were just Jerric and Devon, or even Emilia, he would have answered 'yes' in a heartbeat. But the idea of giving this kind of virtually unrivalled power to the twins gave him pause.
+
+The question was... did he trust them enough?

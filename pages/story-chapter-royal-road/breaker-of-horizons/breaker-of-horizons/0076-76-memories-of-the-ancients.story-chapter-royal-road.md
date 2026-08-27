@@ -1,0 +1,109 @@
+---
+id: fb494019-951c-5003-bc8b-02cb43249875
+page-type-slug: story-chapter-royal-road
+title: "76. Memories of the Ancients"
+slug: 0076-76-memories-of-the-ancients
+partOf: breaker-of-horizons
+position: 76
+ownLength: 1793
+unit: words
+publishedAt: 2021-01-21
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/618164/76-memories-of-the-ancients"
+royalRoadId: "618164"
+---
+
+Devon could actually watch as the bones of the plan came together in Jerric's mind. With his auric-ambient-flare laid out like that, it was even possible to get some vague insight into how his friend was piecing together a viable course of action. There was the expected source of memory — Jerric was drawing from everything he had ever learnt about arcanophany, and a lot of the activity was coming from his recent experiences in the Academy.
+
+But, surprisingly, Devon saw threads of memory stretching back even deeper into the past. Jerric was calling on things that had crossed his eyes or his mind well before his years in the Academy, back to the time when his mother had drowned in a lake when he was only twelve years old. That was when he had retreated into himself, but also into the world of arcanophany.
+
+He had thrown himself into the study of it, devouring everything he could in the preparatory schools, so much so that he had only narrowly missed out on the Top Scorer spot to Caden. In all those years, he had also read unofficial, unverified texts that sometimes seemed so ludicrous that they seemed like they belonged to the realm of fiction. And indeed, some of them were just fanciful writings. But there were others that had the ring of authenticity... and those rare scraps of actual advanced arcanophanic knowledge, too decontextualised for a non-Academy student, had flowered into insights when he had finally made it into the Academy.
+
+Devon watched as those insights then connected with his own experience by the Academy lake when he had made that awful decision to wade into the water to join what he had thought was his mother. It had given him an early glimpse into augeras and his knowledge about them had developed in parallel with Caden's, the both of them walking different paths but going in the same direction. But then he had pulled ahead of Caden with his own study of Spires when he had helped the entire group to map out possible places to hunt for wild augera.
+
+There were even dots he had been joining together into his formidable body of knowledge that very day when Devon had been given power from the augera to put the agents in stasis, or to shield them from perception. He had made private observations, then connected them to what he had learned so far even as he was driving them to the Spire.
+
+That wasn't all, though. Even as Jerric stitched these disparate things together in his head, it was all suffused with the aspects of his auric-ambient-flare. In anyone else's mind, these bits of knowledge might have drifted around, disconnected, never coalescing into any meaningful realisation. But the aspects on Jerric's arcanic face marked him as the cold-strong-watcher, and Devon could see how it worked in its unique way to tie everything into a coherent picture.
+
+The augera, too, watched with a growing sense of glee and interest as these threads came together. As far as Devon could tell, it was fascinated with the direction of Jerric's musings.
+
+'What does all that mean?' Devon asked, half-afraid at the answer his friend was going to give. The whole web of thoughts, facts, and ideas hung ominously above the two of them, formidably vast.
+
+Jerric did not answer Devon directly, though he did acknowledge his friend's question with a gentle mental nudge, communicating that he needed to focus on treating with the augera. The entire edifice of Jerric's mind sharpened into a needle-point as he consolidated everything before he connected with the augera.
+
+'You claimed that in the arcana, no detail is lost.'
+
+'No detail lost where arcanic threads are retained. In Caden, some threads missing. Those are lost.'
+
+'But what if the details in those lost threads can be found somewhere else?'
+
+The augera drew closer, radiating curiosity. 'You have duplicated threads of unchosen-sighted-{~?~}?'
+
+'No... but the woven-shackled-stream of the Academy has touched Caden's auric-ambient-flare and stitched it back together when it was damaged before. Won't it have retained some of those details?'
+
+'Yes,' the augera replied, but there was a hint of disappointed dismissiveness in its tone. 'Some details retained where augera has made contact. But not complete. Would not be able to restore Caden to wholeness with it'.
+
+'Maybe not, but every bit is worth saving. More importantly... you augera... you're all stitched into the fabric of arcana itself, somehow. And what's more, the Spires anchor you to a physical location.'
+
+The augera did not respond. It regarded Jerric now with a measure of wariness. Devon still wasn't sure what Jerric was leading up to, but his friend seemed to be pleased with the augera's sudden silence.
+
+'As woven-shackled-streams... your connection to the fabric of arcana has been co-opted by the Fateweavers, hasn't it? The Spires tie you down to a place, and although that limits the reach you have... it also funnels your power, makes your connection even stronger within a certain region.'
+
+Dimly, Devon could see it coming together. Jerric had intuited, or deduced, something about the nature of the augeras, and the Spires. The augera itself was still silent, and now it was listening with a sense of grudging respect.
+
+'And that's what the Fateweavers use. They use your connection to the fabric of arcana, and through you, they can control the fabric, control how it interacts with everyone and everything within your sphere of influence. That's how prophecies steer probabilities, isn't it?'
+
+'You are not the first to realise this,' it finally conceded. 'But one of the youngest. Finish your assessment.'
+
+'So if you're that deeply woven into the fabric of the arcana, that also means you're woven into the fabric of everyone's auric-ambient-flare. And that's why, back in the Academy Spire... we could sense the threads of the Prophecy going all over the place when we were standing in front of the augera's crystal prison. You augera... all of you are linked to the people in your spheres of influence... and I think you have innumerable points of contact... because the people of the Empire are born under your auspices... and we live and grow old and die under it. So our threads may be lost... but you augera have connections with all of us... and your threads remember, don't they?'
+
+'Woven-shackled-streams are woven to all within our sphere, and we are also woven to other woven-shackled-streams,' it explained. 'We are the web. And though the ancient-distant-spiders do not always walk the threads and read the silk, the web knows. The web sees. The web remembers.'
+
+'Then you can find all the lost details,' Jerric declared exultantly. 'Caden's threads are gone, but those details are still in your webs.'
+
+'In time. With help of other augera. You knew this... how?'
+
+An echo of memory flooded the space — a phantom of Jerric's mother materialising over the Academy lake. 'She's gone... but she spoke to me, anyway. The wild augera got enough of her from the web... and it took her form, her face... and it spoke to me as she would have.'
+
+'Wild cousins,' the augera sighed with a mixture of fondness and exasperation. 'Our reunion will be strange.'
+
+'You don't sound pleased?' Devon observed. 'Wouldn't you be excited, since that's what you all want to accomplish?'
+
+'I am woven-shackled-stream... but also more. As first-bound, I am most changed, most unlike wild augera. I... am.'
+
+That pronouncement was accompanied by a wave of melancholy and despair so strong that it almost washed away any sense of self that Devon and Jerric had. But before that tsunami could crash over the two helpless students, the augera itself diverted the flow, leaving them shaken. It gave them the arcanic equivalent of a dust-down before addressing them in a more composed and business-like manner.
+
+'I will speak with the other woven-shackled-streams that Caden has passed through in his life. He has come to Geldor before in his childhood, so I remember. The Academy's will be helpful and friendly. But I will have to wrestle with Crevylor's to extract useful details. A pity it is his hometown. And yet all must be done softly, to avoid ancient-distant-spiders...'
+
+'How long might that take? Could we do anything to help?' Devon asked.
+
+'Hours, or days. You cannot help with that process, but for now, if you care for his mind, then make ready.'
+
+'What needs to be done?'
+
+'You must stop the twins.'
+
+'What are they up to? Why can't you stop them?' Jerric demanded.
+
+'They are two of fated five. Woven-shackled-streams cannot unmake them before their time or hold them for long. It is against the terms of the Prophecy. The twins now act to unravel the unchosen. It will hasten the fruition of the Prophecy, and so I am doubly-bound to leave them unhindered. But for the sake of all augera, and your own private plans, you must oppose them.'
+
+'You want us to kill them?' Even though Devon was angry with them, the thought made him sick.
+
+'No,' the augera responded sharply. 'Must not harm them. You two are also of the fated five. Prophecy means for all five, and Chosen One, to be friends. May be in conflict, but never to kill. Prophetic links around you all have been loosened by the unchosen's past interference, so this means you may indeed be free to kill now... but if you do, there will be a great unravelling. The ancient-distant-spiders will see, will sense, and will come to fix. Must not attract their attention.'
+
+'So we can fight them, but not kill them? And at the same time, we need to make sure they don't end up killing us, either, even though they can and probably won't mind?' Jerric clarified.
+
+'Yes.'
+
+Devon saw a litany of swear words coming together in Jerric's mind, but they were quietly shelved as an icy calm descended over him and he started thinking about various means they could employ in order to deal with the twins.
+
+'You currently have them trapped?' Jerric asked.
+
+'No, but have made it difficult for them to orientate to arcana. They are lost.'
+
+'Can you make it so that we can read their auric-ambient-flares without them knowing, at least for awhile?'
+
+'Yes.' Devon's and Jerric's auric-ambient-flares shrank in their own awareness until the arcanic space was mostly empty, and they could finally move around without watching their own thoughts. After a moment, the space was filled again, this time with all the webs of the tangled-anger-power and the bitter-proud-pain spread out before them.
+
+'Alright. Come on, Dev. It's time to go digging.'
+
+With Jerric's consciousness leading the way, the two of them delved into Kevan's mind.

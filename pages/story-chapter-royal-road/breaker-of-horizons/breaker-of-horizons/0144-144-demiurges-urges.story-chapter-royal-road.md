@@ -1,0 +1,95 @@
+---
+id: f9c1b505-9d6b-5444-a97b-4f14b0c229ea
+page-type-slug: story-chapter-royal-road
+title: "144. Demiurge's Urges"
+slug: 0144-144-demiurges-urges
+partOf: breaker-of-horizons
+position: 144
+ownLength: 2125
+unit: words
+publishedAt: 2021-09-16
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/751714/144-demiurges-urges"
+royalRoadId: "751714"
+---
+
+A bitter mix of rage, grief, and confusion made him feel almost physically sick. What was he supposed to do now? What had it all been for? All the careful planning, all the pain they had endured, all the hopes they had built together, and now without even a snap of her fingers, some nameless Fateweaver had stepped in and stolen all that from him?
+
+"YOU — CAN'T — DO — THIS!" Caden screamed, each word punctuated by an explosion of water as he hurled heavy arcanic bolts into the lake. But it wasn't enough to quell the maelstrom of emotion in him. He staggered forwards until he was waist-deep in the lake, and he dug into the arcana with the raw fingers of his expanded auric-ambient-flare, pouring the mess of his heart into a weaving of unfettered agony. All sense of self-control disappeared as he lurched into the shallows and slammed his fists into the water. His gathered power mirrored his movements on a larger scale, displacing water with such speed and violence that for a moment he left clear impact craters in the lake like giant fists. He was almost completely drenched by that first strike, but he ignored the icy sting and continued pounding, sending sizable waves rushing across the surface of the water.
+
+Far from exhausting himself, the expression of his frustration seemed to only make it grow. He kept thinking about everything he had done to get into the Academy, about how his sister and father had been snared by prophecies, about how he had been manipulated into being one of the Six-Chained-Foundations. And even though his friendship with the others had been largely a product of Fateweaver meddling, they were bonds of his choice, especially after he had become unfettered from the major Prophecy with the help of the augera.
+
+But the augera had manipulated him too, and even though he had half-expected something like this, he still felt betrayed, and that was fuelling the savagery of his rage now. Everything, everyone, all of it was was wrong. His whole life was a thread, either held in the hands of the Fateweavers or the augera, or tangled between the two warring factions, and now he had been cut loose and left to billow in the wind like some discarded rag.
+
+His rage grew, and so did his weaving. He wasn't striking the water within his immediate vicinity any more — the blows were landing further and further away from him, and with each swing of his arm he displaced more and more water, until the waves became so big that they were travelling out to the middle of the lake. The force of his strikes had grown so powerful that he was instinctively anchoring himself with arcana so he wouldn't throw himself off balance.
+
+When his next blow went deep enough for him to hit the lake bed even though it fell almost ten meters from the shore, he stopped. That brief glimpse of the exposed bottom startled him, and with that break in his concentration the entire weaving came apart. The water heaved and swirled back to fill the depression and the backwash pushed him back hard enough to make him stumble. He floundered for a moment before scrambling back to the shore.
+
+The Demiurge was there in his casual attire, a white T-shirt and faded grey jeans, leaning on his black staff. When Caden finally noticed him, he gave a wry smile. "Feel a little better now?"
+
+"No," Caden answered wearily, stopping in ankle-deep water. All the wild rage that had filled him a moment earlier had gone, but in its place was a terrible hollowness that had nothing to do with arcanic overdraw. Once, he might have felt a little embarrassed or cowed to be standing before the Demiurge in such a state, but after being possessed by the will of all the augera and being made to fight an actual Fateweaver, it seemed a little silly to feel self-conscious in front of anyone. Now, he just felt so, so tired.
+
+If the Demiurge was mystified by the sudden appearance of his student who should be halfway across the Empire during a term break, or by the awesome display of arcanic power far beyond someone who had only just finished his first semester, he gave no sign of it. He simply nodded at Caden's response. "Well, at least that's out of your system. Come, join me for a cup of coffee. I can't guarantee it'll help, but it'll give us the chance to talk."
+
+Talk? The very idea seemed absurd to Caden. Where would he start? And what good would that do? The Demiurge was just another cog in the Fateweavers' machinations. Everyone was. Caden fixed him with a blank stare.
+
+"It probably seems absurd to you," the Demiurge said calmly, though the sides of his lips twitched upward ever-so-slightly, "but I think sitting somewhere nice and warm while sipping a hot drink is a better way to work through things instead of staying here and punishing the helpless and innocent lake."
+
+"Fine. Whatever." Caden stepped onto the store and walked past the Demiurge, who turned and fell into stride next to him. There was a gentle stirring in the arcana as the Demiurge deftly deployed several sequences in quick succession. Caden's clothes rapidly dried themselves out and a pleasant pocket of warm air enveloped him. "Thanks," Caden muttered.
+
+"Not at all," the Demiurge said cheerfully. Together, the two of them made their way up the path to the door in the Academy wall.
+
+Caden met his first surprise when they neared it. He realised that the door was still hidden, but he knew it was there. In fact, he knew how to get it to show itself without even employing any sequences. Even though his eyes couldn't fix on it, he felt very clearly through his auric-ambient-flare that the door was simply folded onto a slightly higher dimension, and all he needed to do was reach out and open it like any other door.
+
+The Demiurge had stopped and was watching Caden expectantly.
+
+"Are you testing me?" Caden asked, frowning.
+
+"Hm? In what way?"
+
+"Are you trying to figure out how much I know now? How much I can do?"
+
+"It's a door, Caden," the Demiurge replied with a raised eyebrow. "I was just hoping you'd be kind enough to politely open it ahead of me since you're clearly capable of doing so now. But if it's really too much trouble..."
+
+With an annoyed twitch of his auric-ambient-flare, Caden brought the door into alignment with their physical plane and opened it.
+
+"Thank you," the Demiurge said as he stepped through. Caden grit his teeth and followed, slamming the door shut behind him with another small exertion of will. He felt it melt back into the wall, hidden once more between higher layers.
+
+But he stopped after taking a few steps. The Demiurge walked on for a little, then turned and gave him a questioning look.
+
+Just as the door had been veiled to his physical eyes but was still perfectly clear to his auric-ambient-flare, Caden could now pick out all the buildings in the Academy that had been quietly folded into higher dimensions so that they were beyond the perception of ordinary people. He could also see now that the sequences that were in play around them were not responsible for keeping them there — instead, the glyphs were meant to tamper with perceptions of time and space so that people ignored the apparently empty space. Now, though, Caden was quite literally above all of that. His physical senses were befuddled and there were parts of his auric-ambient-flare that were also bounded by the weavings, but the way his auric-ambient-flare was now folded into oblivion meant that there were parts of it that could not be touched by these sequences working at a lower level. So even as he knew what he was supposed to see, he also knew what was really there.
+
+"Has the campus always been this big?" he asked, amazed even though he already knew about the hidden buildings. It was different being able to actually perceive them.
+
+The Demiurge smiled sadly. "Yes. Can you imagine how it must have been when it was all filled, years and years ago?"
+
+"You mean back when you were a student?"
+
+"Oh, no. It's been like that for at least a hundred years. The Fateweavers have been tapering the enrolment rates for a long time, slowly but surely."
+
+"Why?"
+
+For once, the Demiurge seemed less like the Demiurge and more like just another person. The aura of deadly competence and the careless confidence of mastery faded away, and Caden could now see a middle-aged man who looked a little tired and forlorn. "They have their reasons, I imagine. I may even know some of those reasons for certain. And I may not agree with them, but there's only so much I can do," Caldwell said, looking wistfully at the campus.
+
+"What do you want?" Caden asked, with a little more exasperation than he intended. He couldn't help himself because of how difficult it was to pin down Caldwell's motivations. Even now, Caden wasn't sure exactly what role the Demiurge had in all this.
+
+"You asked me something like that before, right here," Caldwell replied a little seriously. "I told you back then that what I want is irrelevant when it comes to the Prophecy or the Chosen One, because most are their unwitting slaves."
+
+"I remember," Caden nodded. "But you know for a fact that the Fateweavers are real, and unless I'm very mistaken, you're operating at a level high enough to even see them sometimes, or at least see their weavings. Are you an unwitting slave?"
+
+"No," Caldwell answered with a smile, though this time there was a somewhat grim cast to it. "You might say I'm loyal opposition of a sort."
+
+"Loyal opposition? How is that supposed to work if the Fateweavers have absolute power? Do you know what they've just done to me?" Caden demanded.
+
+"I don't know, but it must be pretty drastic if you've somehow turned up here when nobody should be on campus. No one has driven in, there are no inbound trains, and I'm certain you didn't fly here, whether with or without artefacts," Caldwell said, frowning a little for the first time. "Now, before you get angry all over again, let's at least get to coffee first, shall we?"
+
+"Just teleport us there, or teleport the coffee here," Caden snapped. "I mean, that's what you love to do, don't you? Just pop up all over the place at random times and places, doing the impossible. You were doing that all the time when I was here, and you even showed up in Devon's home that one time with the agents. Does it make you feel powerful? Does it make you feel like you've got some measure of control against the Fateweavers?"
+
+Caldwell's gaze became so intense that Caden took a step back, suddenly afraid that he had gone too far. Even though the Demiurge was no Fateweaver, there was something viscerally chilling about the look that Caldwell shot at him. "Do you believe you are the only person alive who knows they have been hurt by the Fateweavers? Does that belief make you feel so special that you think you have the right to lash out at everyone else, and that it justifies your impertinence?"
+
+Caden swallowed the lump in his throat. "No," he muttered, feeling a little abashed. "I've... it's just been a lot to go through."
+
+Caldwell's eyes softened. "Believe me, I know. I'm sure I don't know it in quite the same way you do because I'm not {~?~}, but believe me, I know. By virtue of my office, I have to work with the Fateweavers. However, quite unlike many of the Demiurges before me, there are aspects of my auric-ambient-flare that make me... a unique colleague, as much a hindrance as a help. I have suffered much for it, though I like to think I give as good as I get."
+
+Caden wanted to ask for clarification, but Caldwell forestalled him with a raised hand. "I refuse to talk until I get my coffee. I'm not going to stand out here in the middle of an empty campus and talk about Prophecies and Fateweavers, so if you'll excuse me, I'm going to exercise every ounce of the free will I have to get to my office and have that bloody drink before I continue this conversation with you."
+
+And with that, he turned sharply and stalked off, with Caden hurrying in his wake.

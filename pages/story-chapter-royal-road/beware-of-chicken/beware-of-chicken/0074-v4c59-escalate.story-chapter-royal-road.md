@@ -1,0 +1,157 @@
+---
+id: 3421a40a-46ce-5d2c-b6a1-5058b87cefc4
+page-type-slug: story-chapter-royal-road
+title: "v4c59: Escalate"
+slug: 0074-v4c59-escalate
+partOf: beware-of-chicken
+position: 74
+ownLength: 2358
+unit: words
+ownProgress: 2358
+publishedAt: 2023-11-13
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1407049/v4c59-escalate"
+royalRoadId: "1407049"
+markedReadAt: "2026-06-29T18:53:57.537Z"
+---
+
+The day of the tournament arrived with more fanfare than Bi De expected.
+
+It was his first time really being at a tournament as he had only caught the aftermath of the Dueling Peaks. Xiulan, Tigu, Ri Zu, and the Xong Brothers had described the opening ceremony of the Tournament to Bi De, but he had been entirely unprepared for the sheer extravagance of the Shrouded Mountain Sect. Lightning blasted into the sky, thunder rolled like an invisible drum, and more fireworks than Bi De had ever seen in his life were set off in a constant barrage.
+
+The normal, sound dampening wards around the Inner Sect had been silenced for today so that everybody could hear the festivities outside. Bi De watched it from his balcony. He did not feel nervous about the upcoming bouts, but there was something strange in the air. Some intangible force that he could feel in his very soul. It felt neither like an ill omen nor an auspicious moment—it was just there.
+
+He took a breath and put it out of his mind. Instead, he finished his breakfast and stood, ready to depart.
+
+“Good luck, Young Master! This Old Ling will be praying for your success,” the old servant said, bowing low.
+
+“Thank you, Old Ling. I appreciate your consideration,” Bi De replied, and he did. The old man had been good to him. He only wished that he could possibly direct the man somewhere else. Somewhere where he wouldn’t work himself to the bone to maintain a crumbling house in a Sect which did not deserve Old Ling’s devotion.
+
+But alas, the man was determined to live the rest of his days here and serving faithfully whoever resided in this manse.
+
+Bi De stepped out into the Inner Sect where his fellow Inner Disciples gathered with their lackeys and servants. Zhong was out of seclusion and the head of the Inner Disciples, seemed slightly irritated…and he scowled slightly when he laid eyes on Bi De.
+
+Bi De ignored the man and kept walking. Bi De felt a brief moment of pity for the man as he felt his power. Zhong had still not conquered his bottleneck and was at the same level of strength as when he had started, despite all his boasts and plans.
+
+The streets heaved with disciples and mortal servants as Bi De made his way to the northern side of the mountain, where the Howling Fang Pinnacle Arena was located. ‘The place where the strongest of the Howling Fang Mountains gathered’ Bi De had heard people say. Bi De hadn’t seen the rest of the Sects and had no way to know whether the title was justified… but he suspected arrogance.
+
+The arena itself was a truly massive thing—as big as the arena at the Dueling Peaks. However, the two were a study in contrasts.
+
+The Dueling Peaks had felt old—Bi De, in the few hours he had spent exploring, could feel the weight of eons permeating the Peaks. Bi De had found that the Dueling Peaks were damaged and crumbling, most of its ancient mechanisms apparently offline. The Earthly Arena itself had been simple stone and sand, the seats mere rock. If you only looked upon the surface it would have been almost mortal, with its pulleys and chains.
+
+Despite it all Bi De would dare to say the Dueling Peaks were hallowed. The massive mountain, split in two. The arena, rising to the next level after each bout. It was ancient and beautiful. A monument to an age long past. One that wore its age with a grace that provoked awe.
+
+The Howling Fang Pinnacle Arena in contrast gleamed. Its walls were clad in polished, shining marble and inlaid with quartz and jade. The roof was a deep blue colour, with golden ornaments sticking out from the top. Crystals floated everywhere, providing light and water—and some even powered cooking stoves.
+
+Bi De could see cushions on the seats and servants marching in their hundreds, finishing preparations. It was grand and opulent in the extreme. It was perfectly maintained. There was not a scrap of decorative stone cladding missing, not a single crack in the floor beneath them. And in its magnificence, it screamed to Bi De of its self importance.What the Dueling Peaks achieved by simply being, the Howling Fang Pinnacle Arena begged at the door desperate to be seen and acknowledged like a young cock.
+
+When he arrived at the arena itself, Bi De found that there were already hundreds of competitors waiting for the signal to begin. The disciples were supposed to be separated by their position in the Sect, but Bi De’s eyes scanned the Outer Disciples, searching for a familiar face… before he realised the person he was looking for was sneaking up beside him.
+
+“Oh? What’s a handsome brother like you doing in a place like this?” Yushang asked, her voice teasing.
+
+Bi De turned and smiled at her. She looked prepared for battle; her massive sword slung on her back. “So you did decide to compete after all.”
+
+“Mmmm! Your pretty sister might not win, but it's a good way to get experience,” Yushang reasoned. She was the only other one of them to have signed up for the tournament. Ri Zu was in the Medical Pavilion and would be tending to the casualties while Fat Han, Yun Ren, and Shao Heng would be in the stands. “So give me a reward if I do well, okay?”
+
+Bi De chuckled at Yushang’s cheeriness, but he knew the woman was more than ready for what was to come. She had grown quite a bit since they had first met, and was now sitting at the Second Stage of the Profound Realm.
+
+“Of course. I’ll cook you dinner,” Bi De said, and Yushang excitedly pumped her fist.
+
+They went to their respective sections to wait for the starting gong.
+
+They did not have to wait long. It boomed like rolling thunder, so loud that it vibrated Bi De’s bones. The sound faded slowly, and for a moment there was silence—before it was broken by a voice nearly as loud.
+
+“Sons, Daughters, and Disciples of the Shrouded Mountain Sect! Today is an auspicious day!” a booming, enthusiastic voice thundered, as a projection of a man appeared in the sky. “Today begins the Rising Fist Tournament!”
+
+A roar that shook the arena met the words, and Bi De felt his heart begin to pound. He was actually rather excited and quite interested to find out how his experiences would differ from Tigu and Xiulan’s.
+
+“They may be the least of our Sect, but even the least is head and shoulders above all others! Those of our Mountain Pavilion may just surprise you!” the announcer cried.
+
+Yushang huffed and rolled her eyes, then gave Bi De a salute.
+
+This was probably going to be the most obvious difference. The cultivators of the Sect would not enter the arena by methods so mundane as walking.
+
+A formation activated under her and the rest of the Mountain Pavilion’s feet as they were wrapped in lightning. They launched up high into the air, and then came crashing back down inside the arena in landings too perfect to have relied upon their own skill.
+
+In like manner every competitor was called in, section by section, Pavilion by Pavilion, all accompanied to great fanfare.
+
+And then it was the Inner Disciple’s turn.
+
+It was an interesting feeling, to be wrapped in foreign Qi like this and then hurled into the sky. The world slashed by in both an instant and an eternity before Bi De was suddenly in the arena amidst an explosion of Qi.
+
+It was a heady feeling to have so many eyes upon him. Thousands of eyes peering down upon them all, watching and judging. Bi De coud feel the nervous energy of some around him, intimidated by the attention, but in the end most of these people did not matter. Bi De sought out his comrades in the seats and found them together, save for Ri Zu, who was nowhere to be seen. Bi De looked around at the upper levels of the arena. The Pavilion Masters were all in attendance in an opulent box seat. Their eyes were piercing as they looked down upon the gathered competitors, but those gazes paled in comparison to those at the very top of the arena.
+
+There, Elder Chongyun sat with another Elder Bi De did not recognise… and an older man.
+
+An older man who radiated power. His golden hair was untouched by age, and his blue eyes dissected all before him.
+
+The Patriarch of the Shrouded Mountain Sect was in attendance. Bi De could feel the man’s distracting power from here. He did not bother to hide it, or control it like his Great Master or Master Shen Yu did. He radiated power and authority.
+
+For a moment, his eyes met Bi De’s and Bi De quickly averted his gaze, returning his attention to the arena and the ceremony taking place.
+
+“And now comes the judging!” the announcer said as a massive black stone rose up from the floor of the arena.
+
+The Heavenly Ascension Stone.
+
+One by one the competitors were called up to place their hand upon the stone. The face of it would twist and shudder as it sampled the cultivation of the competitors. The most prominent thing that appeared was lightning—and the average level was either the Fifth Stage of the Initiate’s Realm, or the First Stage of the Profound. Those in the Fifth Stage of the Initiate’s Realm bore the brunt of the jeers, the crowd mocking and heckling them for their weakness. Some tossed back the vitriol, while others just shrugged it off.
+
+Even the announcer was getting in on it.
+
+One poor soul was in the Fourth Stage of the Initiate’s Realm, something that those watching did not let pass easily.
+
+“I wonder what Zei You’s plan is, with a cultivation like that?” the announcer asked, and the young man in question slumped as he was laughed at.
+
+Those in the Profound Realm were more well-received, playing to the crowd’s cheering or thrusting their fists into the air.
+
+Yushang touched the stone and mountain peaks rose high up into the sky, shrouded in snow and frost. Second Stage of the Profound Realm.
+
+“Oh? What's this? A gem in our Mountain Pavilion?” The announcer questioned.
+
+She received some polite clapping—and several members of the Fulmination Squadrons suddenly looked uneasy.
+
+And so it continued. The crowd never seemed to tire of this entertainment, but for those waiting to be judged it was rather boring, just as Tigu had said based on her own experience. Bi De felt his attention wander to Yun Ren, who gave him a smile when he noticed Bi De’s gaze.
+
+Nearly an hour later it was Bi De’s turn to be judged. He was the first of the Inner Disciples to do so.
+
+He placed his hand on the stone.
+
+A moon rose, a beautiful crescent in a dark sky; and to Bi De’s surprise, opposite that formed the sun. Day and night spun in a cycle, turning faster and faster, until the sun and moon met in the middle, forming a Taijitu, with all the faces of the moon around it.
+
+But when it came time to display his level of cultivation, the stone shuddered slightly. The symbols on it flashed—before it finally seemed to decide.
+
+Fifth Stage of the Profound Realm.
+
+The crowd erupted at his level, the highest displayed so far.
+
+“Fifth Stage! The Fifth Stage of the Profound Realm!” the announcer shouted. “Truly, the Inner Disciples show the true potential of the Shrouded Mountain Sect!”
+
+===================================
+
+It took a little while longer for everyone to have their cultivation level recorded—but in the end Bi De had, to his surprise, the highest, even among the Inner Disciples.
+
+The announcer stepped forwards, ready to continue the ceremony, when another voice cut in.
+
+“Is this it? Is this all our Sect has to offer?” a booming voice demanded.
+
+Lightning shattered the sky, impacting the center of the arena—and from it strode three figures. One was a burly man who was slightly taller than Bi De’s Great Master. The other was a woman with a glaive, her lower face covered by a veil.
+
+And the last was a young man. He had blonde hair and blue eyes that were narrowed into a sour frown. Immediately, fearful whispering began to circulate. Zhong, in the crowd, looked like he was about to spit blood.
+
+All around the arena, people whispered the same name.
+
+“The Young Master. Young Master Sheng.”
+
+Even the Pavilion Masters looked shocked, though those in the Elders’ box didn’t. Elder Chongyun looked slightly annoyed, while the two others that Bi De didn’t recognise looked amused.
+
+“I heard that brat Li won a tournament last year, and I thought it could not be. But if this is the quality of our disciples, then that stupid rumour must have been true,” he continued, his voice thundering. “And then that brat had the audacity to die. Can you all believe that?”
+
+“He was indeed a failure, Young Master,” the giant man rumbled like an avalanche, while the woman only scoffed.
+
+“A failure, winning one of our tournaments? It's depressing.” The man shook his head before his eyes landed back on the crowd of cultivators. The young man’s power flared, blanketing the arena as he looked down at all of them, his face twisted with contempt. “But rejoice, my juniors! For This Young Master, Zang Sheng, has exited his closed door cultivation just for you—so that we may all be reminded what true strength is.”
+
+Sheng slammed his hand against the Heavenly Ascension Stone. The entire thing shuddered as lightning lashed across its surface, a raging storm that was so bright it was almost blinding.
+
+And when it ended, the stone flared and proclaimed:
+
+Second Stage of the Spiritual Realm.
+
+“Be not afraid; I, your father, shall educate you all upon the meaning of our words: Strength Above All.”

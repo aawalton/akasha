@@ -1,0 +1,179 @@
+---
+id: 179941c1-0a92-5604-a75e-2759b4d4cd32
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 13 - The Cavalry"
+slug: 0015-book-4-chapter-13-the-cavalry
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 15
+ownLength: 4326
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2608433/book-4-chapter-13-the-cavalry"
+royalRoadId: "2608433"
+---
+
+Ranthia had been bleary and grouchy in her half-awake state, up until the moment she answered her door—flap, technically—and came face-to-face with Night. Something about a higher order predator in her personal space sent a jolt of energy and tension through her body that chased away all traces of drowsiness and brought her into the moment. Even before he ordered her to attend a meeting, with a tone of cold formality.
+
+Ranthia silently bade him to wait for a moment and tried not to freak out while she hurriedly snuck back into the bedroom. She mouthed the word ‘meeting’ to her bleary beloved, which got a half-nod before Avyna fell back asleep, and set to work grabbing what she needed. A shift later, she was wearing her armor (it was the same armor as her damaged set, crafted identically, so why did it still feel like it didn’t sit right on the left side of her body, no matter how she adjusted the straps and connectors?) and geared up.
+
+Night was, unsurprisingly, exactly where she left him. He waited patiently while she resecured her home, then wordlessly began to lead her through Remera. The bulk of the base was on rest shift, but the walls were still a hive of nonstop activity. The siege never slept.
+
+Remera was in a defensive posture, which meant that the [Mages] assigned to the walls were rarely artillery [Mages]. Instead, their role was to protect Remera itself. Arrows and other implements of death seldom passed the walls into the base proper; they were met by barriers and [Manipulation] specialists that could seize the material or missile and send it back into the shimagu. Even as Ranthia spared a glance for the wall, she watched one [Mage] deflect a large, incoming rock into the air, where it spun in an arc before it launched off into the night.
+
+“I’m not going to apologize; I did what I had to.” Ranthia spontaneously caved under the pressure of the vampire’s ongoing silence.
+
+“At this moment, I remain ignorant of what you speak of, and I suspect that I am happier for it.” He favored her with a smile—sans fangs—before he resumed walking. “To assuage your concerns, I shall inform you that Sentinel Aurora and I arrived to assist in breaking the siege. With that said, I would rather save additional discussion for the meeting itself. Sentinel Mirage would like to know these details and I would rather not spend the entire night repeating myself thrice. And yes, thrice—we will have a meeting with the base commander, once we have discussed things internally.”
+
+That was… reassuring. But Night timed his speech to cut off right as he boldly barged straight into an unfamiliar tent, so there wasn’t time to dwell on it. Ranthia followed him in and found Sentinel Mirage, the woman he’d been with, and Sentinel Aurora already seated in simple wooden chairs, gathered around a fire. A shining aurora was wrapped around it, like a pillar connecting to the hole in the top of the tent, which kept the smoke contained within the fire—which precluded hot beverages.
+
+She really could have used a hot beverage. But she still found her chair, roughly an eighth of a moment before Night called for her and Mirage to report.
+
+Mirage voluntarily went first (he really was rapidly rising in her esteem). He had been assigned to the 15th while they struck an undermanned shimagu stronghold that scouts had spotted. It turned out to be a trap: shortly after they seized the base—and discovered it was bereft of useful assets—the army of shimagu swept in and attempted to pin them inside. The legate managed to get their retreat moving in time to foil the shimagu’s sloppy pincer, but he still sacrificed a full cohort and their Primus Pilus to buy the time required.
+
+Given how Mirage worded things, he clearly didn’t think the losses were necessary.
+
+But it also led to how Mirage got wounded—the elite ‘champion’ of the 15th Legion (the Primus Pilus) got taken alive. Mirage risked his own ass to put a metal slug through the man’s brain, then he got caught by an advance force of the enemy while trying to get clear after. Mirage specialized in long range and the three people he had with him weren’t enough—only the two of them were still alive by the time the fight was done.
+
+“So yeah, I was about to call to White Dove, then a spear goes through the brute’s neck. Wouldn’t be here without Octavia. By the way, I’m poaching her for my support team. But yeah, from there I’ll let Grace take over.” Mirage concluded.
+
+Ranthia took a moment to catch the woman’s eye. From what she’d seen, the legionary wasn’t prone to speaking much—she wanted to make sure Mirage wasn’t running with an assumption. But the woman just nodded to Ranthia, so plainly it was okay. Maybe they knew each other better than Ranthia had expected; she knew better than most that facing the imminent arrival of Black Crow together could create an intense bond between people.
+
+She couldn’t put things off anymore, so Ranthia began her own report. She kept to the facts and tried to walk the narrow line between brief and detailed. From the first blast of Lightning to her failed initial strike against the Lightning twin, from the dullahan’s Lava to the arrival of the winged twin, she recounted the battle blow-by-blow until its conclusion. The fear and her brief abandonment of hope were her own, and she had no intention of sharing it with her peers. She even left off Mirage’s Skill hitting her after killing the Lightning twin—which drew an arched eyebrow from him—and undersold her own contributions to stripping the twin of her defenses.
+
+“Before we start to pick the fight apart though, I… have a bit of conjecture. Like I said, my opponents chose to focus on my images, rather than seriously trying to kill me. But, honestly, I’m not confident I could have outpaced their attacks for so long had they actually focused on me. I’ve had some time to think on it, and there are only two real possible explanations—and they’re not mutually exclusive. They were afraid of me and avoided taking risks, or they hoped to take me alive after stripping me of options.” Ranthia grimly concluded.
+
+“Don’t worry, I would have put a slug through you if they had.” Mirage chimed in with a smile.
+
+Aurora fixed him with an exasperated glare, but Ranthia nodded her sincere thanks. She wanted to live—yes—but the shimagu had managed to create a fate that was so much worse than anything she could imagine. Her Skills might have given her a chance to get free or fight back or… something, but honestly? Yeah, she was willing to accept the certainty of death over the risk of becoming trapped within her own body, forced to witness horrors committed by her own hands for the rest of her life.
+
+After that, they tried to pick her and Mirage’s actions apart, which resulted in a few pieces of flimsy speculation on things that might have helped. They were ideas to keep in mind for the future, if nothing else. Then Aurora pointed out that they forgot to strip the dead twin of her gemstones, which was a painfully valid point (and Mirage, the ingrate, sold her out by chiming in that he’d had no idea the woman had any—which firmly pinned that mistake on Ranthia).
+
+Before Ranthia could respond, though, the meeting moved on. Night and Aurora were there in advance of proper reinforcements—the 4th Legion was mobilizing, supplemented with forces from the gnolls and centaurs that had joined the Coalition. They were due to arrive early the next night, but the siege had to be broken quickly; Coalition City needed them back ASAP.
+
+The majority of the Legions were already marching into shimagu territory to try to take the largest of the parasites’ remaining cities. That was where Deflection and Quake were. The Legions’ leadership was antsy about how few ‘loyal’ personnel they had left, so there was something of an unofficial timer going for the return of the 15th and the 4th. Which meant that the Sentinels and Remera were, somehow, expected to provide a major contribution to breaking the shimagu army.
+
+As if a handful of classers at their modest level could rout an entire army.
+
+Still, they volunteered various ideas. Aurora wasn’t thrilled about playing the role of a mobile artillery platform, but she seemed to be more amenable to the idea when Ranthia proposed putting some of Remera’s defensive [Mages] aboard. Mirage was a bit of an odd duck, tactically. Most [Mages] went for bigger and splashier strikes as their power escalated, but he took the opposite approach: a tiny metal slug accelerated to absurd speeds across a vast distance. He was accurate and deadly, but his ability to assassinate targets from afar mattered less when they had no idea what targets to focus on. The shimagu hid their [Leaders] well. Night and Ranthia’s roles were more obvious, since they could unleash butchery on everything within reach and lead a push for the legionaries that had languished within the walls.
+
+But soon enough, they ran out of time and had to conclude their meeting… so they could walk across Remera to attend another meeting. (What in Xaoc’s glory had she done to deserve so much punishment?!)
+
+Surprisingly, they didn’t head to one of the command tents. Instead, they all crammed inside one of the [Analyst] tents. Granted, they had confirmed the presence of shimagu spies inside Remera, so maybe a change from business as usual made some degree of sense. Too bad it came in the form of standing room only with entirely too many self-important people crammed into far too small a tent.
+
+The base commander was kind of obnoxiously energized and vocal, and Ranthia could only disparagingly assume the idiot was excited to be nominally in charge of such a prestigious operation with so many VIPs present. Night briefed him on the situation with the 4th Legion inbound and all, which somehow led to them being given a single night to break the siege.
+
+Still, it sounded a lot better than trying to outlast the shimagu, which had been the operating plan until that moment. The main beats of the plan were easy enough. The moment the 4th made contact with the shimagu, Remera’s counter-offensive would begin. The dwarves would use their impressive siege weapon to brutalize the shimagu’s camp (which was being called a base—as if something with no fortifications could possibly qualify as a base), with Sentinel Mirage dealing with anyone that tried to escape it. Ranthia and “other elites” were to form a safe zone in front of Remera’s gates so they could be opened without undue risk and unleash the might of Remera’s assault teams and the 15th Legion.
+
+Sentinel Aurora’s [Starship] as a mobile artillery platform was also well received and the base commander promised her sixteen of his finest archers and access to some of the protection [Mages]—but the rest were needed for the walls. The base commander frowned there and trailed off, then things got derailed by logistics for a time.
+
+The supplies that Aurora delivered helped with a lot of the problems. They had been running low on arrows and other essential supplies. Food was still an issue, but they hoped it wouldn’t be one for very long. Assignments were made, logistics were solidified, and the plans were set.
+
+Then, as if it were an afterthought, the base commander looked straight at Ranthia.
+
+“We will put out the call to all non-combatants that are proficient with a bow. We need additional archers for the Sentinel’s skyship.” The man ordered.
+
+And Ranthia struggled against the urge to slit her second Legion throat in so many hours.
+
+“Sure, I can do that.” Avyna replied breezily as she sliced a thick chunk off some sort of nutty, fragrantly spiced bread that Ranthia hadn’t seen before.
+
+It was not the response Ranthia wanted to hear.
+
+Avyna was in the kitchen, still dressed in the deep green gown she had worn to bed. Glorine and Gailla were sipping at cups of strong tea at their table while Avyna prepared food.
+
+She hadn’t seemed surprised or alarmed when Ranthia brought word about the call for more archers, she just agreed. As if it was some minor task.
+
+Ranthia had truly counted on Avyna refusing. She had worked out a great argument to keep Avyna safe: a combination of Avyna’s status as a civilian and as a citizen (or however that worked) of the Tympestshard Council which put her outside the base commander’s authority. And then she would have urged the man to just think of the political issues that might be involved, even before her own authority as Sentinel Grace! It was as solid as dwarven steel.
+
+And Avyna wasn’t even going to give her a chance to use it.
+
+“I won’t be up there with you…” Ranthia tried.
+
+“I will be, I can keep an eye on her for you.” Glorine promised.
+
+Ranthia’s opinion of her friend diminished, but she managed to set aside the urge to glare at her.
+
+“My love, with less experienced archers raining arrows above our heads? I would rather be up there, outside of the likely path of accidental misfires. It is far more difficult to accidentally fire an arrow sideways than it is to under-draw and have your arrow drop straight down.” Avyna explained with a wry smirk.
+
+“…What if more flying dinosaurs or a twin attack? The [Starship] is a really obvious target.” Ranthia refused to be persuaded by logic and pressed her arguments.
+
+“They’re not dinosaurs, they’re pterosaurs.” Gailla chimed in—as if that was remotely relevant to anything!
+
+“There will be a Sentinel up there, no?” Avyna prompted.
+
+Ranthia opened her mouth, then closed it. She… actually had no idea what Sentinel Aurora could do other than move a giant glowing ship that looked like some artist painted it out of a particularly vibrant night sky. The woman had mentioned that the [Starship] was based off her barrier Skill, but Ranthia had no idea if Aurora could still use barriers with the ship active. Worse, she had no idea if Aurora even had offensive abilities.
+
+“Also, my love, I…” Avyna trailed off for a moment, before she continued, “I was an archer for a time. My body still remembers how to move, even if I do not possess the same classes any longer. My bow is an old friend that I have often neglected since those days. But yes, I am confident that I can still roll away from attacks.”
+
+Ranthia hadn’t known that. In fact, she could have sworn that Avyna had said something about not taking a combat class before—not that she could recall the exact words. But… it was also a reminder of something she truly hadn’t spent enough time thinking about—just how much of Avyna’s past she had yet to learn. Her beloved quite plainly disliked speaking of her more distant past, but even then, half a year together was wholly insufficient to cover the breadth of the years Avyna had lived.
+
+A hint of shame came over her, which chased the arguments she planned to make from her tongue. Instead, she moved to embrace the woman she loved.
+
+She would make sure she learned everything Avyna was willing to share, which meant that they both needed to make it through the battle.
+
+Once the sun finally rose, the preparations were handled as quietly as anyone could manage. Those assigned atop the wall acted as they had since the siege began. The base commander was determined that no one would tip off the shimagu—any more than Sentinel Aurora’s exceedingly visible arrival already had—so their enemies would be unprepared for what was to come.
+
+It helped that the shimagu had largely given up on climbing the walls. While Ranthia was struggling with the twins, the shimagu had made a serious attempt to take the base. [Mages] destroyed hundreds of ladders and ropes during that conflict and proved that they could shut down numerous Skill-assisted efforts to ascend the walls. Since then, few shimagu made the attempt, which meant the shimagu were unlikely to see Remera’s efforts to prepare for a counter-attack—so long as no more shimagu eyes appeared in the frigid skies.
+
+The day ended and the sun’s feeble warmth gave way to darkness. Ranthia, half a dozen other soldiers, and several dozen dwarves were soon joined by Sentinel Night and Mirage’s new teammate. They waited in silence, next to a wide—temporary—staircase of conjured stones that had been stacked. Their means to ascend the wall as swiftly as possible, once the 4th Legion arrived. Unfortunately, they would have to jump off the wall at that point (Ranthia’s former instructors at the Ranger Academy would no doubt faint if they heard that bit of the plan), but they all had the vitality to endure it. And to be fair to rationality, the defensive [Mages] were to intercept and negate any attacks during their descent.
+
+Avyna was over at the improvised landing platform—beyond her sight—with Glorine and Aurora and who knew how many others. Despite every reassurance Avyna had offered, Ranthia’s heart still ached. The love of her life faced danger—more directly than ever before. …It was irrational and unfair to blame herself for Avyna being in danger, but it was impossible to silence that traitorous, hateful part of herself that continued to whisper threats of Avyna dying due to falling for her—she could be the direct cause of a dazzling, immortal life coming to a swift and bitter end.
+
+As if Avyna had never faced danger before. It was selfish and ridiculous, but—
+
+“Focus, Grace. I hear the approach.” Night’s reprimanding tone pulled her out of her own spiraling thoughts.
+
+It took several moments and as much willpower as Ranthia could muster to grab her fears and stuff them into that dark place in the back of her mind where they wouldn’t bother her—until the nightmares came, of course. But hey, she was probably overdue to get some fresh material, especially since her most recent brush with death had remained a no-show.
+
+A short time after she had sufficiently silenced her fears, she started to hear what Night had spoken of. It was almost like a low thunder that never quite trailed off. She had never heard anything quite like the sound; even an army at a run wasn’t quite as loud or as frantic a tempo as that. The question of what was causing the sound had nearly bubbled up to her tongue when the sounds of the shimagu’s alarm and their shrill horns echoed across the region.
+
+This was promptly followed by the sharp crack of the dwarven siege weapon firing its deadly payload.
+
+“Go.” Night’s order was quiet, yet everyone gathered heard it with ease.
+
+The charge began in uncanny silence. The ringing of steel, of gear and armor clattering as they made their ascent, was the only sign of the armed men and women’s rush. It was only when they crested the wall and leapt off that war cries were loosed—after the shimagu could already see them. Attacks came at them, as barriers and other Skills intercepted or redirected the onslaught.
+
+There was no time to send another prayer to Xaoc. Not that she really needed to send yet another—she was probably on the cusp of annoying Him after how many she had sent throughout the day. But when the flare of light from above washed over her, Ranthia was sorely tempted.
+
+The [Starship] rose to war, and it carried Avyna with it.
+
+Ranthia couldn’t pray. She couldn’t do anything more to protect the woman she loved more than life itself.
+
+But she could dance.
+
+Ranthia scythed through the shimagu with a fury that only Night outmatched. They spearheaded the assault then, after a moment of silent communication that they shouldn’t have been close enough to pull off, they each took their own direction as they ripped into the shimagu. The dwarven [Battlemaster] took a third, several beats behind the two Sentinels.
+
+The shimagu army was caught entirely flatfooted. The shimagu hadn’t bothered to keep their melee specialists at the wall for some time—the only ones that could even answer them up close and personal were the few with flexible Skills and the smattering of shimagu that wielded big clubs or hammers in a futile attempt to smash through the walls. Yet those shimagu faced specialists that excelled at close-range butchery.
+
+It wasn’t even a contest. Several shimagu fled, but most stood their ground until they were delivered to Black Crow. With Skills and crude implements, the shimagu tried to meet the threat, but they were hopelessly outmatched. And Remera’s assault group wasn’t going to give them the time to muster a proper response.
+
+As soon as the area immediately in front of the gates was secure, the stone gates lifted as swiftly as the [Mages] dared to move them. The assault group split into two, just in time to make way for the charging legionaries that expanded and settled into their neat formations. The 15th Legion returned to the field at last, followed by Remera’s comparatively anemic ground forces.
+
+Which left the assault group with little to do for the moment. They had to hold position just in case something powerful or big tried to hit the gates while they were open, but for a brief moment, they were freed from the obligations of slaughter. Which meant Ranthia could finally seek a glimpse of what was responsible for the omnipresent tremble of the earth and that noise.
+
+There were enough ogres in the vicinity that it took her a moment, but she soon saw them through the gaps—centaurs. Sixteen centaurs formed a V-shaped piercing formation, and they charged through the shimagu lines with a momentum that refused to yield. Each of the powerful men and women wielded a polearm of some sort—though no two grasped quite the same weapon—with the exception of the absolutely massive man that led the group. He carried a shield that was larger than most doors in one hand and a massive war hammer that seemed as if it belonged in the grasp of some great statue in the other.
+
+They weren’t the only centaurs. Others, carrying bows larger than anything a human could competently use, swarmed around the shimagu at a distance, moving seemingly without a hint of order, as they launched brutally effective arrows into the shimagu army.
+
+Most of the centaurs were armored, though how heavy their armor was varied. Some favored leather armor or wood. Some had minimal armor over their more vulnerable spots only. Some wore complete metal armor like a dwarf. A few were all but naked, trusting that their speed and dexterity kept them safe.
+
+The 4th Legion was in sight, but they technically hadn’t joined the fray just yet, though they were already spreading out to pincer the shimagu between the still-deploying 15th Legion. Remera would be trapped in the middle, but the base was in no danger of falling—it just forced the enemy to stay spread out, to remain vulnerable.
+
+Unless something went horribly wrong, the fate of the shimagu army was sealed.
+
+The shimagu’s [Leaders] weren’t completely incompetent. They recognized the danger and tried to muster their forces away from Remera’s walls, but the centaurs smashed through those that attempted to do so. By the time Ranthia and the rest of her assault group were free to enter the fray—once Remera’s gates were securely shut once again—the shimagu were already losing cohesion.
+
+Many of their enemies sought to escape, as things turned sour and the net of Legion steel closed in on them. Some made it, but the dwarven siege weapon made even escape a costly affair.
+
+Other shimagu tried to dig in and entrench their position, but the Coalition had numerous elite forces in play. Night and Ranthia tore through some. The centaurs crashed through others. The dwarves obliterated far more. And a group of gnolls that fought like feral beasts tore through the rest.
+
+The larger dinosaurs were the priority targets for Remera’s artillery [Mages]. Sentinel Aurora’s [Starship] stayed near the thickest concentrations of shimagu ogres as arrows and a few Skills rained down on their enemies from above. Counter-attacks were largely negated by the defensive [Mages], though Ranthia’s heart threatened to stop when she saw someone get struck by a stray arrow and fall from the beautiful vessel.
+
+As terrible as it was, she was grateful that it was some unfamiliar man that she wasn’t certain she had ever seen before.
+
+The distraction should have cost her, but the shimagu were in such dire disarray that none of them noticed her lapse. The only Skill that fired off near her just hit a different ogre—which pulled her focus back to the melee.
+
+Night vanished and reappeared numerous times as they culled lesser opponents. Six different times, they moved together to respond to a call of a probable twin, and each time, Night removed the head of a regular shimagu soldier with a marginally skilled parasite. There was no sign of the dullahan twin or the winged twin, even as the shimagu army was slowly crushed.
+
+The base commander’s timeline proved to be a bit too optimistic. Night disappeared entirely and Sentinel Aurora was forced to put her [Starship] down inside the base before dawn’s rays could cause problems for either of them. But, by that point, there were no concerns about the outcome. The only question was how long the surviving shimagu could fight before they succumbed to the inevitable.
+
+The battle to free Remera from the shimagu’s siege concluded before lunch.

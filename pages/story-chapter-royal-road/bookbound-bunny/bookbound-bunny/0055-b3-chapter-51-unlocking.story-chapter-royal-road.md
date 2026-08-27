@@ -1,0 +1,145 @@
+---
+id: 922a3581-8349-5e71-8f4b-c4fd2a6e3d7e
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 51 - Unlocking"
+slug: 0055-b3-chapter-51-unlocking
+partOf: bookbound-bunny
+position: 55
+ownLength: 2142
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3512980/b3-chapter-51-unlocking"
+royalRoadId: "3512980"
+---
+
+Before descending the stairs, the group looked around. They had just defeated a floor guardian, and so there should have been a reward for doing so. Yet, to their disappointment, there was nothing in the room other than the still motionless Brassbound that lined the walls.
+
+Feeling a little disappointed, they began their descent while secretly hoping there would be a reward at the bottom. Lily was the first to notice that as they progressed, the staircase began to lose its stone-brick appearance and take on a more natural one. In addition, moss and vines were growing, indicating that this was heading towards the forest floor.
+
+The group had already guessed that, as why else would a staircase go downwards, but it was still a joy for them to finally have some confirmation. Still, time was running short, and soon they would be late for curfew, so they picked up the pace.
+
+At the bottom was a set of rustic doors, weathered and overgrown with invasive plantlife. If this didn't scream entrance to the second floor, nothing would, yet that wasn't all that was available. Outside the door was a pedestal with a slot specifically designed to hold their dungeon passes, and finally, a chest with silver filigree and lining.
+
+"A silver chest!" Hana cried out with joy.
+
+Lily and Lotte also joined in, although for both of them, they had seen and opened a gold chest before. But, for Hana, this was the best chest she had ever found, so it was understandable why she was so elated.
+
+The chest contained two items among the raw materials, and their appearance left the group with mixed feelings. The items were easily recognizable to anyone who participated in the Spellcasting Fundamentals class and could produce water and fire, respectively.
+
+"It probably gives items that would help on the next floor," Lily suggested.
+
+Her two friends nodded. It was disappointing, as who wouldn't want something more substantial, but it was hard to argue against the practicality of these rewards. Of course, for Lily, these were useless. She had glyphs to solve all these, so she passed them on.
+
+Lotte already had an item that produced water, solving her own issue, so she claimed the fire starter while Hana took the water source. Hana had no issue with the distribution as she could use a spell of focused light to cause a fire in a pinch, while Lotte had no option in that regard.
+
+As for Lily, she took a few more of the raw resources as compensation. She wasn't sure what these strange gem-like stones would do, but Arakil had already noted that they seemed to either house or be receptive to Mana.
+
+After distributing the loot, the group returned its attention to the pedestal. Lotte had already tried to open the door, but it wouldn't budge, which meant the strange device was their only remaining option other than turning around.
+
+Lily pulled out her dungeon pass and inserted it into the slot. The pedestal clicked, and the item shone before being released. She quickly reclaimed it, but even with her Magesight, she couldn't notice a difference. Naturally, she approached the door, and it began to open in response.
+
+"Looks like this is how we unlock access to new floors," Lotte said before placing her own dungeon pass in the unoccupied slot.
+
+Hana nodded, but turned curiously to the now open door. "But what's stopping me from—"
+
+Her question was interrupted as she bounced backward, almost falling onto her butt while she frantically clutched her red nose. Thankfully, her glasses hadn't broken, but it was as if she had walked face-first into a brick wall. From what they quickly discovered, the door was mostly for show, and there was actually a barrier preventing unauthorized entry.
+
+"I bet if we didn't already have permission to go to the second floor from Regarth, we wouldn't be able to go through," Lotte said.
+
+"That makes sense," Lily agreed. "So if you make it here, you can mark your progress and proceed once the school also gives you permission. It would suck to get here, be blocked, and then have to do everything again once you got Alice's or the headmaster's approval."
+
+Arakil also confirmed their suspicions, saying there were two overlapping barriers at different magical frequencies. It was a rather simple but effective system, meaning that students not only had to prove themselves but also had permission to do so. Someone like Rose would probably blitz through the dungeon's challenge, but unless the school also thought she was ready, she wouldn't be able to proceed.
+
+Just because you're strong enough to beat the first floor, doesn't mean you have what it takes to explore and survive in the wilderness of the second floor.
+
+After Hana upgraded her pass, she followed Lotte and Lily through the unseen barrier. It was almost like stepping into another world, as once you passed through, it immediately revealed the second floor and the recognizable dark forest they had stayed in.
+
+"Damn, looks like it's gotten quite late, we'd better head straight for the exit," Lotte said, pointing at the false sky.
+
+The other two quickly agreed and consulted their passes for the exit. Thankfully, it was actually pretty close by, probably an intended outcome for those who just reached here. While they would have loved to explore the forest again, they simply couldn't, and rushed towards the big tree that housed the grand staircase.
+
+As they climbed back up to the entrance, the trio excitedly talked about their accomplishment. This meant they could take the shortcut straight to the second floor, and as far as they knew, they were the first in their year to gain access.
+
+As they exited the dungeon landing, Alice was standing there tapping her foot. The trio gulped nervously, but then she smiled.
+
+"Congrats, I'm glad someone finally did it," Alice replied.
+
+"Oh, thank goodness, I thought we were past curfew," Hana sighed.
+
+"Actually, you are," Alice replied, and after a dramatic pause, continued. "But, I'll make an exception since you had to travel up and down before you could properly exit."
+
+"Thanks, Alice!" Lotte swiftly replied, before she could take it back.
+
+Alice shrugged. "Sure, just do me a favor and don't spread around the solution. I want a few more to figure it out before it becomes common knowledge."
+
+"What if Arthur and Wallace ask me to do a run with them?" Hana asked.
+
+"I'm not forbidding you from doing that, just… Don't tell the whole world. Understand?" Alice replied.
+
+It wasn't a hard request to comply with. Even if they didn't outright give the solution, they could certainly point their groups in the right direction by emphasizing speed. With Hana's personality, that was already a given, and Lily had no doubt that soon Arthur and Wallace would also be qualified.
+
+Although they might want to take more shots at it with their all-boys group before accepting Hana's help.
+
+Honestly, Lily hoped they figured it out on their own, as that would mean her group could focus on harvesting from the second floor. While she wasn't against offering a helping hand, admittedly, she was a bit sick of the first floor with its undead, Brassbound, and its cold stonework.
+
+Alice asked a few questions about their experience, and they answered everything and also showed off their prizes. It seemed these prizes were predetermined, as Alice showed not even a hint of surprise at what they had received.
+
+I wonder what items the second floor gives?
+
+Lily hadn't the faintest idea how to clear the second floor, although if she had to hazard a guess, it was probably exploration-based. Why else would the floor be so large and open? It probably had a secret area deep in the forest, rather than a puzzle or room-clearing challenge.
+
+Or maybe it's inside the den of a big monster? I hope not…
+
+The trio ate a very late dinner before departing on their separate ways. When Lily returned to her room, she collapsed face forward onto her bed and let out a tired groan.
+
+"What a day…"
+
+[It's evident why the school puts an emphasis on improving everyone's cardio. If not for that, how would anyone finish the first floor?]
+
+"By staying the night, I assume. If it wasn't for the curfew, it would be very easy to get through the first floor…"
+
+The two chatted briefly about the dungeon. Arakil praised Lily's creativity with the crystal seeds and offered a few of his own suggestions if he were handling the situation. He clearly wanted Lily to think outside of the box, although some of his solutions were a little scary.
+
+The prime example that gave Lily some chills was feeding crystal seeds into the armor and letting them grow rampantly from within. At a minimum, they would probably destroy the skeleton inside the armor, and there was even a chance it could cause the Brassbound to burst outwards. Yes, it was just a suit of animated armor, but the thought of that still creeped her out.
+
+After their brief review session, Arakil brought up what Lily had suggested inside the dungeon. Evidently, he had some ideas of his own, but he wanted to hear Lily's thoughts on the matter.
+
+"Okay, so this is my rough plan to gather belief," Lily said. "What if I use glyphs for everything, more than I already am? Hana's words gave me the idea, and if others think I can do anything and everything with glyphs, maybe it will help me?"
+
+[Go on…]
+
+"Well, I was thinking I could also do a bit of trickery. You said they need to witness it, but what if they don't understand what they are actually seeing? Kind of like an illusion, but maybe just some sleight of hand and misdirection?"
+
+[It sounds plausible at the very least.]
+
+Lily excitedly nodded as she continued. "If everyone in the school thinks I can do it, maybe it will give me the boost I need to break through the restrictions? I can use glyphs in the alchemy competition to start garnering a following, and then my big moment would probably be the interschool tournament."
+
+[That's… Six schools, including staff and participating students. There are probably enough witnesses. Although, are you alright with being such a focus of attention?]
+
+"Not really… But, I'm going to be regardless of what I do, aren't I? My gut tells me that Regarth will ask me to participate, which means I'll be the first Lagia mage on display. What's adding a few glyphs to the show? At least this way I'd get a benefit from all the unwanted attention."
+
+[I admire your spirit, and it would be twisting an unpleasant scenario to your advantage.]
+
+"That's my hope… Although I'm hoping you'll give me permission to do another bit of a trick, just in case."
+
+[A trick?] Arakil paused and seemed to be lost in thought. To Lily's surprise, he couldn't actually guess what she was suggesting.
+
+"Okay. I know you've warned me against the easy roads, and I want to try my best to do it myself before anything," Lily began explaining. "But, I was thinking, just in case I can't do it, what if I used one of the wand's functions as a last resort? That way I wouldn't miss out on the opportunity if I can't do it myself and still gather the belief."
+
+[The wand… I don't necessarily disagree, especially if it's a one-time occurrence, but I don't see how it would work. Even with sleight of hand, anyone would be able to tell you are using a magical tool to create the glyph.]
+
+Lily giggled and gave a mischievous smile. "Arakil, I think you're forgetting something."
+
+[I am?] Arakil seemed genuinely surprised. [Please continue…]
+
+"This age doesn't know about the wands, let alone their functions. Why would they assume the wand did it, and not me?"
+
+[No, that's… Preposterous—] Arakil went silent again; he seemed to be mulling it over quite a bit.
+
+Lily left him to that while she continued getting ready for bed. She wasn't sure if her little trick would actually work, but in this age, it sounded like the perfect plan. It wasn't that they were ignorant of magic, but compared to Arakil's time, they had fallen behind, especially in terms of glyphs and inscriptions.
+
+Arakil was pretty much the only god pushing inscriptions from the stories he told me. Doing this might be the spark that brings them back into the limelight.
+
+Lily could help but laugh. The wand and its more advanced functions were something that displeased Arakil, as he loathed shortcuts. Now, this thing he sort of hated might actually help him regain some of his influence.
+
+It's certainly a twist of fate.

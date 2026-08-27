@@ -1,0 +1,149 @@
+---
+id: 6cd574ea-d382-5d03-b219-d3b968965778
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 57 - Ancillary Flight"
+slug: 0061-b3-chapter-57-ancillary-flight
+partOf: bookbound-bunny
+position: 61
+ownLength: 2148
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3578285/b3-chapter-57-ancillary-flight"
+royalRoadId: "3578285"
+---
+
+Arakil instructed Lily to use the wand to recreate the inscription, which she did, with some reluctance. Even though she was entirely unharmed from the experience, Lily was hesitant to activate the freshly replicated inscription.
+
+At least watching the wand instantly recreate my drawing was kind of fun.
+
+It might have been a bit childish, but it actually allowed her to momentarily imagine that she had made the next step in Arakil's teachings. At the same time, she now understood why he had been so displeased about all the functions within the wand, as it only gave the illusion of progress.
+
+It almost felt like a gateway to an addiction; once you saw how easy things were with the wand, you would begin to wonder why you were trying so hard. You'd make an excuse to use it as a shortcut, and then soon find yourself repeatedly making similar excuses over and over.
+
+As much as she loved her wand, Lily didn't want that outcome. Ultimately, she wanted to draw like Arakil, to summon entire glyphs with a gesture, or to draw rapidly with her mind. At times, she had even wondered when she would start learning how to change her Mana without it, only for Arakil to say that she was already making progress.
+
+[Just keep using the wand for now. Trust me, you're setting up the foundation for being able to transform your Mana.]
+
+Returning to the present, Lily sighed as she stared at the inscription. She had delayed long enough, and she was wasting precious time as her curfew continued to inch closer. Taking a deep breath, she activated the inscription once again and was launched forward.
+
+At the start, she involuntarily closed her eyes, but quickly realized how stupid that was and forced them open. She needed to stare straight ahead so that if she spotted a potential collision, she could trigger the control glyph to bring her to safety. However, to her surprise, she eventually reached the limit of the inscription and was gently let down as the cushion of wind popped underneath her.
+
+[See? Not bad, right?]
+
+"Okay… I'll admit the second time was much better."
+
+[Again. Let's have you do this as many times as possible. You have plenty of Mana, and you can even use this to rush to the exit when time draws near.]
+
+Lily nodded and pulled out the wand, performing the gesture once more to summon forth the inscription. Arakil was right; she still had plenty of Mana thanks to her continued cycling, causing it to replenish far faster than the average mage. Not to mention that the inscription was drawn with efficiency in mind, leaving little room for excessive wastage.
+
+The third and fourth time Lily "flew," she was forced to pinch her three fingers and end it early. Because of the sheer amount of trees, it felt up to luck whether or not her chosen trajectory would be safe or not.
+
+[You could raise the height, which would greatly diminish any risk of crashing into a tree.]
+
+Lily quickly shook her head, rejecting that notion. Yes, it would mean fewer worries about trees, but she still wanted to stay as close to the ground as physically possible.
+
+[Maybe next time…]
+
+The next time Lily used it, she flew straight through a monster's territory. The dire bear had somehow spotted her approach, but she soared straight past it. It tried to give chase, but when she zoomed out of its territory, it eventually gave up and returned home. Lily couldn't help but giggle at the sight of the monster so desperately trying to pursue her.
+
+I wonder if this is how Hana and Arthur feel. No wonder they like to go fast.
+
+They used this opportunity to explore farther into the forest than usual, where it took on a much wilder feel. However, despite all the zooming around, neither of them had any notion of where the exit to the third floor might be. Both still agreed that it was likely exploration-based, rather than puzzle-solving, although Arakil pointed out that it might still have been monster-based.
+
+[It would be fitting for a forest to have a rare monster you need to find and hunt down, finally clearing the challenge.]
+
+"I hope not, it would be much better if it were just a hidden location. Trying to track down a specific monster feels way too hard for such an early floor, unless it's really big and noticeable."
+
+While she was out in the untamed wilds portion of the forest, Lily managed to claim a few rare finds in terms of herbs and mushrooms. Seeing this, her attitude towards flying around slowly began to shift positively, as without it, this wouldn't have been possible.
+
+"Arakil, I've got a question…"
+
+[Go ahead.]
+
+"The control glyph, we've used it for activating the third glyph, but can it be used elsewhere?"
+
+[That's a very broad question. Yes, it has practically endless other usages, can you be a bit more specific?]
+
+"What about changing the configurations of a sigil?"
+
+[Not quite, but you are on the right track.]
+
+Lily thought about it some more and then rephrased her question.
+
+"Could I have it switch between the same sigils, but with different configurations? Like… Could I have a set of sigils for low flying, and then an alternative set for slightly higher flying?"
+
+[Would you like the short answer or the long answer?]
+
+"I'd prefer the long answer, and since it's almost time to leave, you can explain it to me while I head back."
+
+[Alright then. Yes, you can switch between multiple preconfigurations. There are several ways to go about this, each with its own nuances and a different type of control glyph.
+
+The simplest method is to have a close copy of the glyph with a different sigil configuration, and have the control glyph switch between the two. In terms of drawing, this is arguably the worst method, as you have to create an entire extra glyph, but it does allow you to entirely change the configuration.
+
+The second method is similar to our emergency override. You create a new glyph that is activated with a trigger that is intended to enhance an already active glyph, much like one of the crystal auxiliaries. This is much easier in terms of drawing, as it's not too complex to boost a glyph. However, this convenience comes with the drawback of increased Mana usage, as you will have two glyphs active.
+
+The third and final method I'll mention at the moment is the most complicated to draw, but arguably the best in terms of efficiency and flexibility.]
+
+Since Lily was traveling through the air, she was keeping her mouth shut. However, she wanted to quickly interject, so she responded telepathically.
+
+{It sounds like the third is the best by far, then? Or is there an issue?}
+
+[Well, it involves some inscription principles you've yet to learn, not to mention that while it is a control glyph, it's a brand new one. Long term, the third option is your best bet, but if you were creating something quick and potentially disposable, I'd recommend the first or even the second.]
+
+{So, regardless, it comes down to what's best for the situation…}
+
+[Yes, and while I'll guide you as best as I can on what factors you should look out for in your decision-making, ultimately it will be up to you. Anyway, returning to my explanation, the third one involves a new control glyph and new inscription principles, which might be hard for you to accept.]
+
+{Hard for me to accept? Are they that crazy?}
+
+[Well, let's see. What if I told you that you don't need to draw all of the sigils inside your glyph?]
+
+{What!? That makes no sense at all. How is the crest supposed to know what to do? A fire crest without its shape, heat, or size is just a wild flame.}
+
+Arakil chuckled, [I did warn you that they might be hard to accept.]
+
+{You did… But I'm assuming the sigils have to go somewhere, right?}
+
+[Correct. Instead of being drawn within the target glyph, they are drawn together with the control glyph. The control glyph then applies those parameters to the target glyph.]
+
+{Okay, that I can kind of accept, but doesn't that mean I need multiple control glyphs, each with a different configuration? This sounds about the same as the first option… No, wait, isn't it actually worse? Wouldn't I also need a trigger control glyph to swap between the different sigil control glyphs…?}
+
+Lily's head was starting to spin. The first option involved only three glyphs, but it sounded like the third type required four at the bare minimum, unless she was misunderstanding it.
+
+[You're half right. You do need multiple configurations for the sigils, but it's still only one control glyph, provided that the sigils are all the same. Instead, you store the sigils inside special auxiliary glyphs for the control glyph. And no, you don't need a trigger control glyph connected to the sigil control glyph, as you called them.]
+
+Now Lily's head really was spinning. She thought she understood the gist of what Arakil had said, but between all the multiple mentions of control glyphs, it had started to blend together.
+
+{These really need better names… You told me control glyphs are auxiliary glyphs, but now the auxiliary glyph has its own auxiliary glyphs… What do you even call an auxiliary's auxiliary?}
+
+[Ancillary perhaps?]
+
+{Please no…}
+
+[Well, you can call it whatever you wish, and I will amend my further explanations to your liking.]
+
+Lily begrudgingly agreed. While she wasn't too thrilled about the responsibility of naming it being thrust upon her, she was desperate for the multiple repeated mentions of "control glyph" in the same sentence to stop. She really wanted to ask Arakil how his brain worked, as even with context, she would now pause at the mention of them and wonder if he meant for triggers or sigils.
+
+At the very least, we can't be using auxiliary auxiliary, or auxiliary ancillary for that matter. Also, who knows how many other types of control glyphs there are? I'm actually too afraid to ask.
+
+While Lily was left to ponder a bit on some more appropriate names, Arakil further explained the usefulness of this new control glyph. To Lily's relief, she found out it had its own crest, so at least in drawings it would be easy to differentiate.
+
+Arakil also explained that, unlike the other methods, this one costs almost no additional Mana. He even went a step further and said many inscriptionists would sometimes use this method to design all their drawings, as they preferred assigning the sigils outside the glyph.
+
+The only limit was that the configured sigils had to match in context, and if you weren't sure, it was better to include all the sigils as an option, even if they were the same exact value in each instance. Lily felt like that was excessive and was relieved to hear that anything she didn't want controlled could be drawn inside the target glyph as per normal.
+
+Right where they are supposed to be.
+
+Still, no matter what her personal opinion on the matter was, she had to admit it sounded marvelous and was once again a glimpse at how much better inscriptions were than glyphs. With this, she could create templates for most of an inscription and leave the final configuration to the control glyph.
+
+Thinking back to all her various alchemy flame glyph designs, all at different temperatures and durations for various ingredients, she couldn't help but think that was inefficient. Instead, they could all be combined into one big inscription, with the different flame options stored in this control glyph.
+
+And if I add Mana storage and replenishment… They could be permanent.
+
+This actually caused a slight shift in Lily's mindset. Even though she was trying to upgrade her room with various magical solutions, she had still seen them as somewhat temporary, as she figured she would learn better ways to draw glyphs the more Arakil taught her.
+
+Now, though, thanks to inscriptions, Lily was realizing that putting in the time and effort to create a more permanent solution seemed the far better prospect. Glyphs might be disposable, but inscriptions were anything but that.
+
+And rather than redesigning a whole new inscription, I could just add new options to the control glyph.
+
+By the time Lily reached her room, her mind was buzzing with all the potential ideas. Of course, none of this would be possible until she actually learned this new glyph and how to properly utilize it, and from what Arakil had hinted at, it wasn't that simple. Still, Lily was always eager for a challenge, as long as her feet remained firmly on the ground.

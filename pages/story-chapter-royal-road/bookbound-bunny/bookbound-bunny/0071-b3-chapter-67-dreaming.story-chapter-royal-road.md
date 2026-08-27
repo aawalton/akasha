@@ -1,0 +1,133 @@
+---
+id: 8a6e18db-2fd3-571f-a12c-ad14e92daf31
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 67 - Dreaming"
+slug: 0071-b3-chapter-67-dreaming
+partOf: bookbound-bunny
+position: 71
+ownLength: 2159
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3692549/b3-chapter-67-dreaming"
+royalRoadId: "3692549"
+---
+
+"If she only failed due to a technicality, isn't that still a bit unfair?" Arthur suggested.
+
+"I mean, I'm only bringing her along because I need a second person to enter," Rose fully admitted. "I plan on soloing this challenge. I want a better result than last year."
+
+"What happened last year?" Lotte immediately asked.
+
+"I took the first person who asked to team up with me, thinking it didn't matter," Rose answered. "The guy basically dragged me down and got in my way, trying to show off. Or maybe someone paid him to sabotage me. Anyway, that's why I prefer doing it solo, but rules are rules."
+
+"And why I've been downgraded to a mascot…" Rebecca sighed. "Although I'll admit I never was good at the dungeon, I was happy with my bare-minimum average. I'm more of a support role."
+
+"I think you're the only supporter who's half-banned from duels," Rose chuckled.
+
+"Half-banned?" Hana asked.
+
+"So she's half as bad as me?" Lotte joked.
+
+Rebecca sighed again and began to explain her situation now that Rose had blurted out half of the story. It turned out that she was forbidden from using her bloodline magic in duels, but everything else was fine. Ultimately, she didn't care too much about that, preferring magical research, so she just gave up on duels entirely once the easy wins were taken away. As for the reason her bloodline magic was denied, it was quite shocking, especially for Lily and Arakil.
+
+"I can put both my opponent and me to sleep, and then attack them in their dreams," Rebecca explained.
+
+"Even I can't beat her in the dreams. It's super overpowered," Rose added.
+
+What had the headmaster worried, and ultimately led to the ban, was that depending on the beating you received in the dream, you'd be put into a coma for a corresponding period of time. Normally, this wouldn't be a problem if the victim simply gave up quickly and lost in the dream, but some students failed to control themselves in there, and the resulting comas were shockingly long.
+
+Lily already caught a whiff of the smoke and turned to Rose, who admitted she was out for nearly two days—the longest period in Rebecca's history! Of course, the headmaster investigated the cause, and thanks to Rose's cooperation, a reasonable explanation was found.
+
+"I felt invincible in the dream, so I kept fighting," Rose chuckled as if it were obvious.
+
+Other students who had also continued fighting and fell victim to a long coma when asked about that assessment also agreed. In the dream world, they felt they could keep going, or they felt stronger than ever and didn't want to stop. There was no rhyme or reason to the victims who felt this way when it was investigated, which ultimately led to the ban for safety concerns.
+
+Of course, for Arakil and Lily, to a lesser extent, both recognized the real reason: belief. Rose was the prime example. The more you believed in yourself, the stronger you'd be in a mental landscape, and Lily originally thought nobody could match up to Rose. Delusional or not, Rose genuinely believed she could do anything and was a great natural source of her magical prowess.
+
+However, Arakil pointed out that while Rose would likely be unmatched in a mental landscape, that only held true if they were fighting on an even playing field. Rebecca, as a natural dream mage, had an unparalleled advantage there and could likely freely manipulate herself and even the world, depending on the extent of her ability.
+
+"I can see why you're banned," Arthur finally admitted, after hearing about the comas.
+
+"Unfortunately, it doesn't work on most of the dungeon monsters…" Rebecca sighed. "And even if it did work, I'd have to worry about my body. What good is it putting one enemy to sleep and then my defenseless body gets attacked?"
+
+Everyone now had a much clearer picture of why Rebecca was in this unfortunate situation and why Regarth was giving her a bit of special treatment. Her bloodline was powerful, extraordinarily rare, and, supposedly, they had no idea what it actually was. Thus, even though the dungeon was the primary focus here, she had proven herself in other ways that were more than enough to give her some preferential treatment to stick around.
+
+[I must say that even I didn't expect dream magic to manifest in a bloodline. I wonder what mythical creature caused it, a Nightmare perhaps? A dream-eating tapir? Absolutely fascinating…]
+
+{It sounds crazy. Do you think she's using her own dreams to study?}
+
+[It would explain why she excels at research and theory. If she can control the flow of time in her own dream, she could be using it to learn at an accelerated rate. That also provides an explanation as to why she always appears so tired despite sleeping so often.]
+
+Lily fully agreed. She'd learned that lesson the hard way after her very first trip into the grimoire. Working in a dream in an accelerated state caused considerable mental fatigue when you eventually exited.
+
+Arakil also brought up the point that they were using it in a highly controlled manner, thanks to the inscription, but Rebecca could be using it entirely through base intuition and having very little say in the matter. Her bloodline might even let her control her dreams whenever she slept, whether she wanted it or not. If she just let the dream do whatever it wanted, that would be fine for rest, but if she accidentally took control and used it for studying, that would mean she was constantly burning the midnight oil.
+
+Lily felt bad for her, although Arakil did offer some reassurance that, if it was a natural ability, it probably had safeguards to protect her. Your body wouldn't normally allow you to harm yourself, and even in Lotte's case, her prior weakness was due to her body constantly fighting against the poison.
+
+[I bet when she's truly too tired, she sleeps in her dream.]
+
+That remark had nearly caused Lily to burst out laughing. It sounded extremely silly, but thanks to her rudimentary understanding of the mental landscape, she knew Arakil was being completely serious.
+
+The conversation, thankfully, provided enough of a distraction for more competitors to arrive on the scene, as well as Headmaster Fabrelis, who appeared to be in charge of this event as well. He glanced around at all the students, seeming pleased, though with a slightly troubled expression.
+
+"Where's Alice?" he whispered to himself, Lily barely catching his words.
+
+It appeared that their dungeon teacher was playing hooky, or perhaps it was simply too early for her to wake up. Regardless, it seemed Fabrelis would proceed as planned. Lily had expected to be led into the dungeon like the mock gauntlet, but to her and almost every first-year student's surprise, he tapped the ground with his foot and revealed several stairways.
+
+[It looks like the dungeon is a lot larger than I imagined. Its territory actually exceeds Regarth's castle.]
+
+"Right, these are the mini-dungeons prepared for today. The time limit is ten minutes for each, and they are labeled appropriately for your years," Fabrelis explained, with numbers one through five now appearing floating above each staircase.
+
+"You'll be kicked out at the ten-minute mark, so don't dawdle, and the scoreboard will be updated automatically," he continued explaining. "Not only that, but I will be providing several iconic moments captured for the top performers as visual displays, so try to show your best side for the audience."
+
+To illustrate his point, a large image appeared above his head, revealing illusory forms of students fighting a monster. It flashed through various students and monsters at a rapid pace, making it hard to determine who it was or what exactly they were fighting.
+
+{How's he doing all of this?}
+
+[I imagine he has an artifact or other magical item boosting his illusion magic. Considering he has an agreement with the dungeon, it could have provided him with benefits we could only dream of. Also, remember those floating eyes he uses? I'd bet he records their observations and stores them for later usage.]
+
+{Could he not use that to display everyone's progress through the dungeon in real time? Why go through all this trouble?}
+
+[Yes, he could, although I don't think he wishes to show the students in such full detail to everyone here. Remember, not only are there parents here, maybe outsiders as well, but other students are considered rivals. If he showed everything without any alteration, there's a chance of somebody's secret getting out, and maybe they wouldn't try their best to win by holding back to avoid that outcome.]
+
+{That does make sense! He didn't tell me not to use crystals, for example.}
+
+[Indeed. You should make sure that you use your Astral magic so that he has some scenes he can actually show the public. If you and Lotte do secure first place, and there's nothing he can show, it might put him in a very awkward spot.]
+
+{Okay, I'll keep the crystals to a bare minimum… Although, isn't this a great opportunity to show off some glyphs? If there's an image of me summoning a glyph from within my Nebula Veil, wouldn't that help me gather some belief?}
+
+[Hmm… It would, although considering the time limit, it isn't exactly feasible, unless you want to sacrifice your chance at winning?]
+
+Lily subtly glanced at Lotte, catching the excitement in her eyes as she gazed at the flashing scenes Headmaster Fabrelis was displaying.
+
+{No… I don't want to do that to Lotte.}
+
+[Very well. Then I permit you to use the wand's replication function.]
+
+{Really!? I mean, are you sure?}
+
+[I trust you not to abuse it. Although you'll need to ask Lotte to not go first, so that you can draw it before entering. Unless you plan on using the stored flight inscription for this demonstration? It would be quite flashy.]
+
+{No! I'm getting rid of it!}
+
+Lily whispered to Lotte that she needed to use the bathroom, a convenient excuse so that she could draw the glyph without any prying eyes.
+
+"Sure. Better go beforehand," Lotte agreed. "I'll wait here and let you know if the Headmaster explains anything important while you're gone."
+
+Lily thanked her friend and quickly snuck away. Rose naturally caught sight of her but was fended off when Lily silently mouthed the words "bathroom" to her. She didn't want to be caught in a lie, so she actually went there, though she used the stall to secretly draw her glyph after erasing the flight inscription.
+
+Lily could have drawn an inscription for saving, but she didn't want to reveal that level of magical prowess, as it might lead to far too many questions. While a magically appearing glyph was extraordinary, it would probably be considered low enough to be acceptable. If she casually manifested a full-blown inscription with the wave of her starry cloak, then that would require some explaining.
+
+Well, I bet Fabrelis would hide it, and then I'd need to explain it to him… Glyphs are fine. I should also tell him I'm fine with him showing that to the public.
+
+Even if the glyph was a simple one, there was a chance the headmaster would still try to protect her. Considering she actually needed the attention now, it was better to let him know she wanted it noticed, even if it made him a little suspicious of her.
+
+I'll just say I'm using it as advertising for my glyphs. Headmaster Fabrelis said he wanted to give me a bit of the Tresnia treatment, so here's his chance!
+
+As for her choice of glyph, she had plenty of options; however, given the unknown nature of what they might face, she settled on arcane force. The magical bolts were not only good as a catch-all, as Arakil previously mentioned, but they were also quite easy to customize.
+
+Normally, it would be wasteful to add varying colors to the magical energy bolts; in fact, one of the greatest advantages arcane force held was its ability to be made entirely transparent at a comparatively cheap cost compared to other crests. For example, the shield spell Arakil favored was almost entirely invisible to trick attackers into hurting themselves on the rebounding force.
+
+However, in this case, Lily wanted it to be as flashy as possible, so she decorated the glyph to her heart's content. Arakil even threw out a few suggestions, providing some sigils he'd never shown before that were entirely cosmetic and thus entirely wasteful. Lily had no idea these existed and understood why he'd not shown them before; they were entirely unnecessary for normal glyphs, especially when Mana had always been at a premium for them.
+
+[If you're going to do this, you might as well go all out. Let's show them the power of presentation.]

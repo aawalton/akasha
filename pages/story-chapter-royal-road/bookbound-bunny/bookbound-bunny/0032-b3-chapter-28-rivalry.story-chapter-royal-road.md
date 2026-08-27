@@ -1,0 +1,187 @@
+---
+id: 57ac81bc-381c-50d7-84ad-0021dc915947
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 28 - Rivalry"
+slug: 0032-b3-chapter-28-rivalry
+partOf: bookbound-bunny
+position: 32
+ownLength: 2131
+unit: words
+publishedAt: 2026-04-11
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3259436/b3-chapter-28-rivalry"
+royalRoadId: "3259436"
+---
+
+The tension in the air between the two girls was palpable, though Hana's two companions seemed unaware of it, looking far more relaxed.
+
+"Man, I'm never letting you lead the way ever again, Arthur," Wallace said, looking both fearful and fatigued.
+
+Lily looked at Wallace and found him oddly reminiscent of Theo. Not because they shared the same type of demi, but because of his massive size. The boy was larger than most adults!
+
+The reason Lily knew he wasn't an Ursinia was very evident by two massive horns that curved outward from the sides of his head in a broad, sweeping arc, thick at the base and gradually tapering to a shaved tip. He had shaggy brown and black hair, tied into a loose braid, probably to keep it out of his way, and dark brown eyes.
+
+Bovinia, I'd assume. It's hard to miss horns like those!
+
+"Don't say that, we went out with a bang at least!" Arthur said cheerfully.
+
+"What even happened?" Alice finally asked, as even she looked surprised by their appearance.
+
+"We flew!" Arthur said proudly.
+
+"I would not call that flying," Wallace quickly denied.
+
+"Gliding?" Arthur tried.
+
+Wallace shook his head. "Still no."
+
+Arthur shrugged. "Well, we used some wind magic to soar through the forest and get some last-day exploration done."
+
+"And took half the forest with us as we crashed through the branches and leaves…" Wallace sighed.
+
+Now, suddenly, everyone realized why their appearance was so terrible. Attempting to fly with magic was hard enough already without trying to do so in a dense forest. Rose had still not succeeded the last time Lily asked about it, and neither Hana nor Arthur either, despite being naturals.
+
+Hana sighed and then gave a confident grin. "Well, at least we managed to find a treasure chest."
+
+"No way!" Garet shouted, his jaw dropping to the floor. "I spent days looking for one, I figured this floor didn't have them."
+
+"Nope! We found one and looted it!" Arthur said with a smug grin on his face.
+
+"It was only a bronze chest…" Wallace sighed, removing some foliage from his person.
+
+"Hey, bronze is better than nothing," Garet replied.
+
+"You dumb oaf, whose side are you on?" Frederick asked with a glare.
+
+"Doesn't matter whose side I'm on. Facts are facts," Garet said with a firm nod.
+
+It was so brutally honest that nobody really knew how to react to him, except Alice, who was trying her best not to burst out laughing from Lily's best guess.
+
+"So yes… I'm not looking the best right now, but nothing a good bath won't fix when we get back," Hana said, resuming the hostility.
+
+Clarissa clicked her tongue in annoyance, turning her head away and swishing her hair with a backward flick as she did so.
+
+Lily awkwardly stood up and walked up to Hana. "Here, you can use this," she said, removing the bracelet from her arm.
+
+Hana tilted her head curiously as she gingerly took the item from Lily. Evidently, she was experienced with using items, as after placing it on her wrist, she quickly activated it. The bracelet shone, and as its magical light pulsed over Hana, it seemed to reject the leaves, grime, and even twigs that were dirtying her.
+
+The boys in the group didn't seem too impressed, but the girls gasped in shock. Hana especially seemed completely awestruck by what had just happened as she absentmindedly took off the bracelet and handed it back to Lily.
+
+"How much for that bracelet?" Clarissa abruptly asked, her eyes betraying her desire.
+
+"Hey, if she's selling it, then I'm buying!" Hana retorted pridefully.
+
+"Can you even afford it?" Clarissa asked.
+
+Hana scoffed. "We might be as high up the food chain as you Viremonts, but we earn a lot more through the adventurers' guild!"
+
+"Sorry, kids, but I think I've got both of you beat," Alice said as she opened a pouch revealing gold coins.
+
+At first, it looked like the girls were going to dismiss her, but then they noticed the markings on the coins, and both looked visibly shaken.
+
+"Royal gold?" Clarissa hissed.
+
+"Yeah? Did you all forget I'm a four-star adventurer?" Alice asked. The students looked around awkwardly, and Alice sighed. "I swear, I should go get my five-star promotion just to get the recognition. Nobody cares about the four-stars anymore…"
+
+"It's not for sale!" Lily finally managed to blurt out.
+
+Alice sighed, although Lily swore she was feigning disappointment. She probably knew that Lily had no interest in selling it. Hana did look upset, but didn't press further. Clarissa, on the other hand…
+
+"Are you certain? If gold isn't enough, I could put in a good word for my family. We have numerous influential connections that money cannot buy."
+
+As Clarissa spoke, Frederick was nodding along to her every word. "You'd do well to be in the good graces of the Viremonts."
+
+Lily didn't know how to respond, but she clutched the bracelet tighter and held it to her chest.
+
+"She said it wasn't for sale," Lotte repeated, her eyes narrowing as they glinted.
+
+"Look, don't cause a scene…" Alice finally spoke up, trying to de-escalate. "Besides, it probably isn't the best idea to sell your very first piece of dungeon loot. Heck, I've kept mine all these years."
+
+Alice reached into her clothes and pulled out what looked like a decorative square badge, which she squeezed between her fingers. There was a click, and suddenly Alice was holding a tiny dagger; her first piece of loot was a concealed weapon!
+
+"Wait, dungeon loot?" Garet asked, a wild look in his eyes. "Don't tell me your group also found a chest?"
+
+"We did, and we all took something from it," Lotte answered.
+
+Now it was Arthur's turn to be shocked. "All of you!?"
+
+As if prompted, Lotte took out her canteen, and Thomas took out his piece of bark. There was also the lantern and the shiny stone, not to mention the dagger and rusty shield, but the group didn't reveal those.
+
+Actually, I think we completely forgot about the shiny stone… But to be honest, it was even more underwhelming than that lantern.
+
+Of course, Lily kept that to herself. Considering Garet's earlier reactions, if she told them that they had another treasure they had accidentally forgotten about, he might dig a hole with his jaw, hitting the floor!
+
+"Which means we took a crash trip through the branches for nothing…" Wallace sighed as he removed another batch of leaves from his hair.
+
+"Hey, it's not all doom and gloom, you'll probably get a guaranteed second!" Lotte said, trying to cheer them up.
+
+"Well, that's assuming their one treasure outweighs what the other team collected in resources," Alice pointed out.
+
+The Terravix team, which had looked a little dismayed after the back-to-back surprises, suddenly perked up, a look of fighting spirit back in their eyes.
+
+"Well, that's a relief, I sniffed out a ton of good stuff, I reckon!" Garet said cheerfully.
+
+Lily actually shook her head as she rapidly blinked, feeling a bit of whiplash at how quickly he went from shock, to disappointment, to joy. Also, wasn't he human? How did he sniff out "good" stuff? Maybe he was actually a demi, but one of his parents was human?
+
+Clarissa cleared her throat and looked straight at Lily again. "Well, if you change your mind, please contact Frederick or me."
+
+"No, please contact me instead," Hana insisted.
+
+The friction between the two was already sparking again.
+
+"Seriously, since when were you two such enemies?" Arthur suddenly asked as he glanced at Hana. "I thought Lily was your rival."
+
+"Technically, it's our parents that hate each other," Clarissa said.
+
+"Well, it's looking like the apple didn't fall far from the tree," Garet said bluntly.
+
+"Again. Whose side are you on?" Frederick groaned.
+
+"What, is there not enough room for two noble Equinia families?" Wallace asked.
+
+"According to our parents? No," Hana answered, and Clarissa nodded in agreement.
+
+"Okay, okay, enough family drama," Alice shouted, clapping her hands to grab everyone's attention.
+
+Clarissa and Hana shot daggers at each other with their eyes, but neither said anything else, probably daring not to risk inciting Alice's anger.
+
+"Regardless of who collected more treasures, all nine of you have 'won', so don't be discouraged," Alice told the students. "We rarely have so many groups lasting this long; there's usually only one or two standouts that are often carried by a handful of individuals. I'm not kidding when I say all of you have great potential. I don't know what they fed your generation, but it shows!"
+
+Alice chuckled at her own joke and continued. "But, while you should be proud, don't rest on your laurels, as the rest of the class will be aiming to kick you off the throne. Just like some of you flourished in this test, who's to say others won't in the next one, or the one after that?"
+
+The students all nodded at her words, and Lily paid close attention to Wallace and Clarissa, whom Alice had previously mentioned would get a chance to show their true colors. Wallace had already been revealed as an earth mage by the other team, no doubt a fitting bloodline from the hardy Bovinia, but Clarissa was still a mystery. Luckily, Lily had a great teacher she could turn to for help, and it just so happened that now they could secretly converse!
+
+{Do you have any idea what her bloodline or magic is? The only hint I've got is that strange staff…but that could be something she found in the dungeon.}
+
+[That staff is definitely a good indicator, and no, I don't think she found it in the dungeon. Judging by the undertones of her Mana, I'd say she specializes in floramancy.]
+
+{Floramancy?}
+
+[Plant magic.]
+
+Lily was surprised, but then suddenly things seemed to click into place. The mention of underground plants from Garet suddenly made more sense, and the strange yet unadorned staff now had a meaningful purpose. Before she asked her next question, she quickly checked her surroundings; Alice and the students were talking about their experiences in the dungeon, with Arthur in particular drawing much of the attention.
+
+Feeling like she wasn't missing anything important, she continued secretly conversing with Arakil.
+
+{I'm guessing she uses the staff if there are no plants nearby?}
+
+[Correct. You could say you and she share a similar mindset. While you can prepare glyphs, she can bring along anything plant-related, be they branches, weeds, fruits, or even seeds. Not only that, but that staff is being actively nurtured by her, and as long as it isn't destroyed entirely, it will grow stronger and more receptive to her Mana over time.]
+
+Lily was surprised as she let Arakil's explanation sink in. It seemed like this floramancy had a lot of potential as well as hidden tricks. That was also disregarding the fact that her environment could play a massive role in her ability, as, no doubt, in this forest, she was practically unparalleled.
+
+No wonder Alice said she got her chance to shine. If she can only use plant magic, then she must have struggled on the first floor of the dungeon. Arakil mentioned her staff is being nurtured, so it probably isn't enough on its own to compensate for a bad environment.
+
+Lily briefly thought of some of the lower floors of the dungeon she had witnessed due to Arakil's teleportations. That scorching floor of metal and molten rock would no doubt be something Clarissa wouldn't be able to handle on her own. Whereas someone like Rose would probably thrive on that floor.
+
+[As for her bloodline… Assuming it's probably something rare or legendary due to her noble status, there are probably a few candidates. But consider she's an Equinia…perhaps a Kirin?]
+
+{Kirin?} Lily asked, the name sounding extremely unfamiliar.
+
+[They were mythical creatures that acted as guardians of the land, and by extension, nature. Some legends even said they could control the seasons.]
+
+Lily struggled to hide her surprise. It was always fascinating to hear about the origins of these bloodlines, and it explained why the schools and nobles put so much focus on them. At the same time, she couldn't help but feel it was a little unfair, especially for humans like Thomas who didn't have such powerful ancestry hidden in their blood.
+
+I don't have a bloodline. I didn't even have Magic. Yet… I'm competing with myths and legends! Shouldn't anyone have this opportunity if they put in the effort?
+
+Lily glanced at Arakil's grimoire.
+
+Sealing the god of magic was a big mistake. Look what it's done to the world! I hope releasing Arakil can fix some of this…

@@ -1,0 +1,127 @@
+---
+id: 24ab0177-74aa-5fdb-9ac0-646a54e5250d
+page-type-slug: story-chapter-royal-road
+title: "32. Captained"
+slug: 0032-32-captained
+partOf: breaker-of-horizons
+position: 32
+ownLength: 2485
+unit: words
+publishedAt: 2020-08-20
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/541821/32-captained"
+royalRoadId: "541821"
+---
+
+The friend-in-the-arcana manifested, and its presence was stronger than the last two occasions. I could almost trace the wash of ambient arcana as it rippled away from me and wrapped itself around my father.
+
+But there was something else — a new quality that I had never felt before. The air was thick not just with the arcana I had set loose, but with another cloying weight that seemed to emanate from the five orbs floating around my father. Both these energies strived against each other, much like how the friend-in-the-arcana had fought against the prophetic links the very first time I had summoned it, and the conflicting energies sent offshoots spiralling through the air, arcing intermittently between me, my father, and each of the five orbs.
+
+Everett Dundale's eyes closed as he turned his mind towards the energies swirling around him. The maelstrom rapidly cohered into semi-solid streams, growing ever more substantial, tracing glimmering ropes of pure arcana through the air in mesmerising patterns. My friend-in-the-arcana was no longer a vague shimmer in the air around me — it was a nimbus of power, of relief-joy-love, and a lattice of light spanned the space between me and my father.
+
+I realised, with a thrill of both wonder and fear, that I was actually seeing arcana in physical form. As I watched, his orbs flared with power, and suddenly my father was no longer firmly enmeshed in the lattice of the ensorcellment. The threads of the ensorcellment were drawn tight, pulled away from my father by a mirroring mesh of threads that emanated from each of the five orbs.
+
+Somehow, I wasn't just seeing it happen with my eyes. Whatever my father had done, it also sharpened a new dimension of sensation for me, one that I had only briefly touched before in the aftermath of my overdrawing while I was in the infirmary. I realised now that it was my bond with the friend-in-the-arcana that gave me access to this strange plane of thought and sense, though now it was somehow amplified, or clarified, by my father's weaving.
+
+So now, even as I watched his orbs unravel my ensorcellment, I knew in my bones that there was something fundamentally wrong about them. They radiated a coldness that I recognised was unnatural-changed-defiant.
+
+A second nimbus burst into existence, this one centred around my father, and far denser than my own, dark with mystery and incomprehensible intent. While mine was built around a core of relief-joy-love, my father's harboured a heart of such profound concepts and emotions that I couldn't parse them at all, and I only recognised the construct for what it was because it echoed the same structural patterns as my own friend-in-the-arcana. And despite my heightened comprehension, although I felt-heard-knew what he breathed into it, I still couldn't catch everything.
+
+Unmake-learn-{~?~} the {~?~}-{~?~}-Chain. His command shook the environs.
+
+The lattice of my ensorcellment, already pulled tautly by his orbs, was now rent asunder, fraying into innumerable tatters. The tendrils of his friend-in-the-arcana stabbed through every piece, extracting slivers that it then drew together and reconstituted into a dense knot of pure arcana that was too bright to look at. But even from that brief glimpse of it, I felt a horrible tugging, like the sensation of looking on the glyph for prophetic links, only much stronger. This was the {~?~}-{~?~}-Chain, taken from my own psyche, my own view of the prophetic links, yet it was still outside my ability to understand. I had no words, no thoughts, that captured its essence. But it seemed that my father did. His focus was absolute and at the moment it had become an almost palpable thing, sharp enough to cut the air as he sliced that shining knot free of its moorings and slowly drew it into himself, allowing it to suffuse his auric-ambient-flare.
+
+Then all at once, the air was empty. All the arcanic constructs were gone and in their absence, there was a sudden silence, made all the more apparent by the abrupt loss of my sense of the arcanic dimension (for lack of a better term). I fell to my knees, gasping for breath, utterly overcome by the experience. All around me, the pieces of the orb slowly drifted to the floor. The pain in my auric-ambient-flare returned, reminding me of the prophetic links still trying to bind me, and I hastily fixed the Prophecy-shield sequence in my head again.
+
+"I... I see," my father murmured. He slumped back against his desk, reeling a little.
+
+My mind was racing. Where do I even begin? I asked myself, thinking of all the revelations that had just presented themselves to me just by watching my father work. And he only just learnt about the friend-in-the-arcana from me over the weekend? I couldn't even understand what he said to it!
+
+"Breathe, Caden," he said, a little more vigour in his tone as he shuffled over to me. But he sounded extremely out-of-place. How could that familiar, calm, comforting voice be here, now, after such a transcendent moment? It was like unexpectedly stumbling across your own bed just as you summit a mountain. I felt a steadying hand on my shoulder.
+
+"You... your friend-in-the-arcana... not intelligent?" I managed to stammer, looking up at him.
+
+"It..." he paused, swallowed, started again. "It's complicated. I can understand why you think it's intelligent. But no, I don't believe it is."
+
+I took in a few deep, steadying breaths and got to my feet. "But it understands. I... I heard you talk to it, too. The same way I do."
+
+"It certainly seems to understand..." He paused again, and I wondered how taxing that weaving had been. He took a few deep breaths before continuing. "But I do not believe it has a mind of its own. My theory is that it draws on your own intuitive understanding of arcana, acting as a secondary means of focus that bypasses your conscious mind. So this means that on some level, you already knew enough theory to formulate a sequence for flying and for ensorcellment, which is how you managed it the first time. The friend-in-the-arcana simply stitched these things together for you, because you already had the mental tools. After all, if you can focus sufficiently, you don't really need glyphs."
+
+"But it's not just that. It seems to give me this... sensation, this new way of... feeling, of hearing arcana..."
+
+My father ran a hand through his hair — a rare sign of frustration. "You have to explore it for yourself. I think you finally understand now that I literally cannot just tell you these things. I don't have the words. You have to... to know them yourself, with this new sense."
+
+There was too much to think about, and I couldn't do it with my attention divided. I gestured desperately at the fallen pieces of the orb. "Will it work, now?"
+
+An odd look passed over his face, but it was gone so quickly I doubted whether I had really seen it. "Let's find out," he said, flexing his fingers again. The air stirred with ambient arcana once more, but after the intensity of the last weaving, this felt as mild as a summer breeze.
+
+The pieces of the orb started whirling around me again, trailing their glyphic sequences. Now, though, I felt a subtle difference in the glyphs for prophetic links. They looked the same as before, but the quality of their tugging had changed to something more intimately familiar to me — it was precisely the same flavour as the ones that were currently wrapping around me.
+
+"Yes!" His voice cracked in relief. "We can make this work."
+
+The pieces whipped through the air faster and faster, their glyphic sequences trailing behind them in etheric streams that stretched and expanded, coalescing into a sphere that enveloped me. From all directions, tiny capillaries of arcana stretched out towards me, and I couldn't help but shudder as they made contact with my skin — it was like having millions of tiny needles closing in, each lightly teasing every pore.
+
+They paused, poised all around me.
+
+"You need to drop the sequence, Caden."
+
+I sucked in a fortifying breath and obeyed. The pain of the encroaching prophetic links hit me, but then a moment later the orb's needles sank in. It wasn't painful, but the effect was so disconcerting that I let out a cry of alarm and shuddered violently.
+
+And then the pain of the prophetic links was gone. In its place, I now felt a profound hollowness. The grooves on my auric-ambient-flare were empty.
+
+"I... I think it worked," I marvelled, straightening up. As I did so, I became aware of an odd sensation, like a new muscle had been grafted onto my body, but was somehow outside it. When I flexed it, the newly-formed orb, now completely and seamlessly whole, wiggled around my head. When I relaxed, it settled by my left shoulder.
+
+"It worked," my father said heavily.
+
+"Isn't that a good thing?" I asked, a little alarmed at his tone.
+
+"Maybe. But I've just learnt from this endeavour that my orbs do not grant me any protection against the Chosen One's Prophecy at all. Insofar as they work at all, they are only effective against the minor prophecy I had in mind when I was building them — your sister's." He sighed. "This means that I am well and thoroughly enmeshed already in the major Prophecy."
+
+"What?" My voice rose an octave. "Can't you just modify your orbs?"
+
+He smiled ruefully at me. "I think you must have felt before how impossible it is to even speak against a Prophecy, let alone act against one."
+
+A cold hand grasped my heart. "You're speaking freely about it now. Discussing what it is, discussing how it works. And you just helped me build an artefact that protects me from it."
+
+"Yes. There was no resistance at all. That's why I am not so sure that we have just done a good thing. Because I was free to do it. And that means that somehow... somehow, this works in favour of the Prophecy."
+
+"Me being free of the Prophecy works in favour of it?" I demanded. "How?"
+
+"That's beyond me, Cadey." He sighed and shuffled over to his study desk. After a little rummaging, he extracted another half-made orb from the mess upon it. "The one piece of consolation we can draw from this is that these orbs do work for your sister's prophecy. I should be able to fashion a new one for her and have it fitted this weekend."
+
+"Then what are we supposed to do about this Chosen One business?"
+
+"You're free of it, Caden. And you don't have to do a thing."
+
+"But Dad, you're not. And... and major Prophecies don't just affect people near them. They cover the span of the world, don't they?"
+
+He didn't say anything, but his eyes held all the answer I needed.
+
+"So Triss may be free from her minor prophecy, but she's not free from this big one. And neither are you. Or Mum," I continued.
+
+"Well, that may not be a bad thing. They've always turned out for the Empire's good."
+
+For a moment, that thought brought some measure of comfort. But then other factors presented themselves to me: the manner of the revelation and subsequent suppression of the Prophecy and the Chosen One's identity; the Academy's sudden drive towards teaching combat-worthy thaumaturgy; Reeves' unusual training to resist ensorcellment; the Prophetic influence over the members of my own cohort that seemed to be accelerating our learning...
+
+... it all seemed to be the kind of things that portended a major upheaval. Maybe even a war.
+
+"Dad, what's good for the Empire as a whole... isn't always good for individuals."
+
+He nodded gravely. "If it's a question of fighting for the Empire, Caden, I will do my duty and make any sacrifice necessary, as long as it keeps you and Triss safe."
+
+"Okay... so this orb protects me. Now all you need to do is make another orb for Triss that negates her minor prophecy, and also the major Prophecy. Can you still do that?"
+
+"I..." He stopped. Swallowed. "I..."
+
+I knew that look. It was the Prophecy, now barring him from even speaking of creating something that would shield his own daughter from its effects. Impotent rage swept over me, and I rushed over to catch him in a tight hug. With a heart-wrenching twist, I realised my father was crying into my shoulder.
+
+"I'm so sorry, Cadey," he rasped. "You... you're the only one that's free to act, now. This is as far as I can go for any of us."
+
+A weight settled on me now, quite different from any arcanic sensation. If my father was right, then thanks to him, I was the one person in the entire world free from the influence of the Chosen One's major Prophecy. I could choose to live my life and walk away from it, not constrained to play any part at all in the events to come. But there was no such guarantee for my family. And my father was here in the Academy, close to the subject of the Prophecy. Its tendrils would snare him and draw him in, and reach out to the rest of my family through him. They would all be nothing more than a part of the tide that swept across the world to usher in the reality of the Prophecy, and what would it matter if a few drops of water were lost to oblivion, as long as the greater body of water rushed on?
+
+No. There had to be something I could do. And in that moment of desperation, a thought occurred to me. Alone, I couldn't hope to stem the tide, but maybe I didn't have to stem it. Maybe I just had to bend its course ever-so-slightly...
+
+Touch-speak-bend the Chosen-Blinded-Jailer. That was what the woven-shackled-stream had wanted me to do. And perhaps there was my answer. If I could not save my family from the Chosen One and his Prophecy... then maybe I could make him and it work to protect my family even as they were caught up in its flow.
+
+I gently released my father and held him at arm's length. "I may not be a proper arcanist yet... and maybe I don't fully understand everything that's going on... but I'm not going to take this lying down. I came here to save Triss from her prophecy. We've done that. And now I'm free, literally free, to do more. I will find a way to save Triss from this major Prophecy, too. And you. And Mum. All of us."
+
+My father managed a smile. He grasped my shoulders. "Caden Dundale... you couldn't have a prouder father."

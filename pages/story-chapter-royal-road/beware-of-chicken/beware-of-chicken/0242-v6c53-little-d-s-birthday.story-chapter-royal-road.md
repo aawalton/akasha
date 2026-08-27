@@ -1,0 +1,141 @@
+---
+id: c5bb46f6-34fd-5d6a-a885-746b516f5b08
+page-type-slug: story-chapter-royal-road
+title: "v6c53: Little D's Birthday"
+slug: 0242-v6c53-little-d-s-birthday
+partOf: beware-of-chicken
+position: 242
+ownLength: 1723
+unit: words
+ownProgress: 1723
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2498552/v6c53-little-ds-birthday"
+royalRoadId: "2498552"
+markedReadAt: "2026-06-29T18:59:41.943Z"
+---
+
+With her mission given to her, Tigu immediately set about carrying her duties out… only to immediately realise that the Blade of Grass hadn't actually been as kind to her as she had thought.
+
+Mostly because actually organising the expedition was going to be a lot of work. While Tigu got a bit of a break in the middle while she would be with her Master, she would still be very busy… most of it paperwork. She was beginning to despise the scent of ink.
+
+Tigu, however, would not be found wanting. She was, technically, from a family of scholars! Her father was a Spiritual Herb Master and always had such wondrous ideas, while her mother was a brilliant doctor! And that was saying nothing of her siblings. She would not rank below any of them!
+
+Tigu once again thanked the fact that her mother and father had actually given her lessons on logistics and organization. That, combined with paying attention to what Pi Pa did to organize the household, made things, if not easy, at least manageable.
+
+“Being a good leader is mostly about finding the right people to do the job, getting them to do that job, and then supporting them while they do it,” her Master had said, teaching her the great Dao of Delegation.
+
+Tigu had read one scroll before realising that she would need at least a couple of weeks to get a handle on the subject. So she spent a day memorizing the basics and terminology, then took her first step.
+
+“Thank you for answering my summons,” Tigu said to the cartographers she assembled. Every sect seemed to have at least one cartographer, to Tigu’s initial surprise, and many more seemed to have at least rudimentary lessons on map reading and how to put elevation down on military maps… which did make sense, when she thought about it more. “Our mission is to conduct a survey of the north of the province, and construct more accurate maps. All of you have been recommended by your sects as the best cartographers they have. I require your counsel on this matter.”
+
+The men and women puffed up at the light flattery, and all settled down to listen to Tigu’s rough plan. It was extremely rough, but Tigu thought it fairly serviceable.
+
+“The mortal Archives?” one of the cartographers asked, rubbing his chin.
+
+“All Lord Magistrates are required to keep a copy of survey maps within the Imperial Archives,” Tigu explained. “They’ll very likely be more recent than any we have down here in the Grass Sea.”
+
+Several of the other cultivators made noises of interest. “That… would indeed cut down the amount of work significantly… if they are accurate.”
+
+“This idea has merit,” another woman mused.
+
+“How good can mortal maps be?” a third asked derisively.
+
+“The Imperial Army’s School of Cartography makes most of the maps in the Heartland,” came the rebuke of the first man, which caused the third to grimace.
+
+“It gives us some preliminary work to do while the snows melt,” Tigu stated. “I understand winter is not the best season for your profession, and in the northern reaches the snow will still be thick on the ground.”
+
+Here at the Dueling Peaks the snow had mostly melted already and given way to cold dreary rain.
+
+The cartographers largely had no issue with the idea, despite some grumbling from one of the men; and neither did they have any objections to the plan to split up into separate groups so they could get things done faster. There was some debate back and forth, for which Tigu was glad to witness. It gave her some measure of the personalities at play, and while it was quick and dirty, Tigu began mentally sorting them into groups that would work well together… or at least not want to kill each other.
+
+“Then Shi Na and Chun Wen, you’re with group ten,” Tigu instructed. “From the edge of the Howling Fang Mountains west to group nine. I will leave the particulars up to you.”
+
+“Yes, Captain!”
+
+“We are not expecting any demonic cultivators to be left, but we are still going in force just in case,” Tigu said. “You will be accompanied by members of the White Tigers and Blazing Swords as a precaution, and they will do their best to assist you. I will be travelling back and forth between the groups with Yin after the first week—first we must check in with our Master.”
+
+That too was agreeable.
+
+After that, it was about gathering supplies and more members of the expedition. They prioritized those who were noted at working well with others. This was, after all, their first true mission and the first true test of inter-sect cooperation.
+
+With no expected combat and the threat of demonic cultivators from the north dealt with, Tigu was optimistic, as were the others. They asked the Torrent Rider and Shaggy Two if they wished to join the expedition, but he shook his head. He would be helping Rags with a rumour about a cultivating thief.
+
+=================================
+
+A week and a half later, Tigu and Yin found themselves at the gates of their home. They had, of course, completed their own missions first. Copies of the maps were secured safely within their travel packs.
+
+The journey had been easy, and there had been a wonderful lack of conflict. Groups had quickly split off towards their mission areas, and those who would be entering the Archives to copy the maps would be doing so disguised as mortals, so as to not cause any panic.
+
+After her short break, Tigu would be going around to each of the teams to check in with them on a circuit, along with Yin—both of them would be bringing food from home as resupply. Tigu was quite sure it would be good for morale!
+
+“Oh? What are you doing home so early? Have you come home in disgrace?” Bi De teased as he stepped around one of the Great Pillars. Chun Ke, in his human form, rounded the other, a big smile on his face.
+
+Naturally, her brother disciple was supremely huggable in both his forms. His arms were very big and very nice! He picked her up and Tigu settled into the crook of the giant’s arm, his beard tickling the top of her head. Yin, meanwhile, hugged Bi De, the man embracing her warmly.
+
+“You know why I’m home!” Tigu shot back. Xiulan had sent a transmission ahead of them! It was only thanks to Chun Ke’s aura of peace and very nice hug that Bi De wasn’t suffering for his remark. Really, he dared?!
+
+Bi De laughed. “Forgive me, but I do get some fun out of saying absurd, impossible things.” Tigu huffed at his smooth save… but didn’t hug him. He had to live with that! “I do have some things for you though, you’re just in time.”
+
+He reached towards the Great Pillars and pulled off the flannel that he had hung on them.
+
+Tigu quickly pulled it over her robes, as did Yin.
+
+The fires were already lit; the sweet scent of syrup filled the air.
+
+Tigu felt the tension in her shoulders fade.
+
+“We’re hoooooommmme!” she shouted out to her family, who were tending the fires and carrying buckets of sap.
+
+“Welcome back!” came the returned cheer.
+
+===========================
+
+For a week they toiled with bucket and flame. Though many of the trees had died or were injured from the battle with the demons, the sap still flowed like a river. They were mighty, ancient trees, and Tigu’s Master gave his all to the land.
+
+They repaid the favour of Fa Ram’s toil, compost, and Qi with a tithe of their essence. Tigu downed mugs of cold sap, fresh from the spout. It was woody and slightly sweet, tasting even better than last year’s, if she dared say so. The sap that they boiled down turned the deepest amber, and the taste turned savoury.
+
+They made candies and poured the fresh sap directly onto the snow, turning it solid and chewy, before pulling it up with sticks. When Tigu looked over, Wa Shi had six of them in his mouth and flights of bees were eagerly carrying the bounty back to the greenhouse, buzzing all the while.
+
+“Say ah~!” Tigu cajoled, and her little brother eagerly accepted a tiny bite. His eyes widened, and he started bouncing up and down happily.
+
+================================
+
+And then, it was the day of her little brother’s birth.
+
+There was no big party, because he wouldn’t have understood the significance of it, but Uncle Xian came over, along with Uncle Bao, Meihua, Tingfeng, Auntie Hu Li, the Lord Magistrate, and many others. They had tea and cakes and wished Zhuye a happy birthday.
+
+A year old already! He was growing much too fast for Tigu’s taste! He was so big, and his eyes were so bright now!
+
+“Do not grow up too fast! Stay small for a while, okay?” Tigu asked him with a hug.
+
+Zhuye had no response, other than to lean into her touch.
+
+It was a wonderful day, and one of her last before she had to leave again, so she would make the most of it! She gave him rides around Fa Ram, she let him try and walk, and of course, they took him to see his favourite animals. The chicken coops were very big now, and they were full of feathered friends.
+
+Zhuye giggled and cheered while Bi De and Xiao Ku took turns crowing for him. Tigu’s father held her little brother up so he could stomp his little feet, babbling happily.
+
+And then, he paused.
+
+“Juh!” he declared. “Juh!”
+
+His brow furrowed. He pulled one arm out of their father’s grasp, and pointed directly at the creatures before him.
+
+“Ji!”
+
+None of them could hold in their laughter. Her little brother’s first word?
+
+Chicken.
+
+Yet the pointing finger swung again, this time pointed at Tigu.
+
+“Jiejie!”
+
+Sister.
+
+She didn’t know if he meant it, or was just repeating the sounds, but Tigu felt a lump form in her throat.
+
+She walked over and hugged her little brother.
+
+“Yeah, jiejie is here,” she whispered to him.
+
+Tigu would have to thank Xiulan again later. Being home was the best.

@@ -1,0 +1,143 @@
+---
+id: d58a1bee-d769-56db-8b68-76286b427c4f
+page-type-slug: story-chapter-royal-road
+title: "v6c21: South of the Pine Belt"
+slug: 0209-v6c21-south-of-the-pine-belt
+partOf: beware-of-chicken
+position: 209
+ownLength: 2129
+unit: words
+ownProgress: 2129
+publishedAt: 2025-05-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2255753/v6c21-south-of-the-pine-belt"
+royalRoadId: "2255753"
+markedReadAt: "2026-06-29T18:58:32.061Z"
+---
+
+Dong Chou, known as Rags to most, let his feet guide him steadily forward as he broke a path for Wei, who was carrying the wagon. The entire trip north had been a bit of a shitshow so far, and Rags was glad he was a cultivator. Oh, he knew the north got way more snow, and was a lot colder than his usual haunts, but knowing and knowing were two different things. It had been up to his chest in some places, and if Xiulan hadn’t taught them that ‘light foot’ thing all the Sect-taught cultivators knew, it would have been a bitch and a half to get through it.
+
+Shit, it had still been a bitch and a half. The various towns did their best, but things clearly got lax the more north you went. There was just too much snow to clear it properly.
+
+And to think, two weeks ago they had been celebrating a wonderful Solstice with the Farrow Gang, warm and happy. Brother Delun had given Rags a scroll and some pointers on the old formations the Azure Mountains had used, and with Loud Boy’s help, they had actually managed to find and repair some of the systems in the old fortress they lived in.
+
+If Delun wasn’t a dude and wasn’t so enamoured with Sister Tigu, Rags would have kissed him the next time he saw the big lug. He’d get a manly hug and a slap on the ass instead. Heat, not from burning fires, but just from the floors. An entire stream of running water. That, combined with the money Rags had made this year travelling the Hills, and stopping the slavery ring in Grass Sea City?
+
+They had eaten like Magistrates, with sausages and bao and all the things you could get from the big city. Some were gifts from Brother Tanhui and Little Liao in Underbridge when they had visited. The place was looking a lot cleaner than he remembered these days. Hells, the Special Inspector… or rather, Acting Lord Magistrate, had even given them a bunch of stuff from around the city as a gift.
+
+It had been… great. Honestly and truly, one of Rags’ best memories. The grannies and grandpas had all pinched his cheeks and called him brilliant and amazing. The kids had cheered Boss Rags. Sis Minmin, Little Shou, Bro Kuang, and the Iron Head Brothers had toasted him and Loud Boy so many times all of them had ended up hurling.
+
+The memories were warm and beautiful. It had been perfect, dancing to the drums with his people, dancing the dance that just felt right. The pictograms on the wall of the fortress, the pictures that had first taught him how to cultivate, had danced and swum with him, and in his mind’s eye, he could see a great golden ginkgo tree, its branches spreading out and encompassing everything he wanted to protect.
+
+And then things had gotten a bit wonky. The feelings in his chest had surged, his Qi spiked… and then it drained slightly.
+
+The lights in the fortress flickered for a moment.
+
+Then it happened again. And again, and again, each pulse like the beating of a giant heart. Loud Boy had noticed it too, but the old timers and the kids hadn’t. It didn’t feel bad or dangerous, however. In fact, it felt a bit comforting, and something brushed against him—it felt kind of like a fond pat on the head.
+
+And then… it faded.
+
+The lights flickered one last time, and then it was fine again.
+
+It hadn’t seemed too urgent and the lights had stayed on, so the party had continued. But the next day, Rags and Loud Boy had gotten curious, so they went to Grass Sea City to see if anything had happened there.
+
+The Acting Magistrate had noticed the anomaly as well. Lights all over the city had wavered, and the citywide transmission formation had activated by itself, playing music for a while before shutting itself off.
+
+Two anomalies meant something. So they continued their investigation. They went to the nearest sect, the Crossed Branches Sect, to see if they had also been affected.
+
+At first he and Loud Boy were nearly chased off, before he reminded them about the Azure Alliance and mentioned that they were investigating the anomaly which had spread all over the Hills.
+
+Their request had to be delivered to the Sectmaster… but the man eventually decided to let them in. It was only a promise that Rags was doing this to prepare a report for all Elders in the Alliance that got them through the door.
+
+Rags still counted it as a win. This was technically the first real test of the Azure Alliance. Especially because once they were let in, they found out what had happened there was a bit more… vigorous.
+
+Their glowstone lights had exploded and part of their sect compound had lifted off from the ground, exposing a section of it they had no idea had existed.
+
+Well, overall they were all happy with what had happened despite the strangeness of it all, as it had exposed “a secret cache of legendary artifacts.”
+
+Rags had to admit the mops and brooms the sect cultivators were staring at with wonder looked really good quality, but legendary?
+
+He kept his mouth shut, instead thanking the Sectmaster for his hospitality and promising to get to the bottom of the strange Qi surge.
+
+From there, they zig-zagged to the Dueling Peaks, hitting a couple more sects. Each sect visited added a name to the list, and made getting to the next one easier—that others had trusted them made them easier to be trusted. Every compound had some minor damage—and old systems had tried to re-engage.
+
+When they finally got to the Dueling Peaks the Earthly Arena was once more stuck at its zenith, but this time it was refusing to come down. A harried Bao Wen and Director Huizhong had greeted them. Thankfully Delun’s repairs had held up well from the power surge, so there wasn’t any damage.
+
+Once they understood the scope of things, they used the Transmission Stone room to try and contact more members of the Azure Alliance. They got a couple of people, informing them of what had happened and of their findings, but they couldn’t get through to Verdant Hill.
+
+Rags and Wei kept travelling, continuing their mission, probing the extent of what had happened. They tried the transmission stones again in Pale Moon Lake City, but again there was no response from Xiulan.
+
+So they decided to head north, as they had been planning on visiting Tigu and Xiulan for New Year’s anyway. It was pure luck that Miss Biyu had caught them before they left, and well, since they knew her, they were happy to take her along… probably to her regret. She was a right trooper, that girl, and hadn’t complained once, but she was starting to look a bit peaky.
+
+So Rags kept pushing through the snow… until he saw a gap and grinned.
+
+“Oh, thank the Heavens,” Wei grunted as his feet hit paving stones rather than snow for the first time in hours. The wagon, which had been a struggle to keep still and level so they wouldn’t make their charge sick from the motion, suddenly looked light in Loud Boy’s hands. Rags clapped him on the shoulder and grinned.
+
+“Hey, how come you always get the easy parts?” Rags needled his sworn brother, and Loud Boy just rolled his eyes.
+
+“Because I’m just so handsome the Immortals in the Heavens send good things my way,” Wei shot back. Rags barked out a laugh and felt his steps lighten.
+
+“We’re on the home stretch now, Miss Biyu!” he called back to the covered wagon, and after a moment a hand pushed its way past the thick cloth tarp to give him one of Tigu’s thumbs up gestures. Good gesture, that one, and was quickly catching on. It was really clear what it meant. Though it was probably less Tigu’s gesture, and more something from the North Azure Hills? Or maybe just Fa Ram and Master Jin, considering that was the one gesture Tigu, Gou Ren, Yun Ren, and Yin all used.
+
+“Who do you think plowed this? Brother Chun Ke?” Loud Boy asked.
+
+“Nah, Bei Be. You can see over there, how there's little rolls of snow? He was shaving the ice down instead of just pushing it aside. A blade, rather than bulk,” Rags replied.
+
+Wei blinked at the tiny little rolled pieces of snow he hadn’t looked too closely at. “Good eyes, brother.”
+
+“Of course! It's my job to know what's what!” Rags boasted.
+
+Loud Boy rolled his eyes. “Don't go getting a big head now.”
+
+He chuckled. They both continued their pace along the road.
+
+===============================
+
+“Misters Rags and Loud Boy?” the guard at the gate to Verdant Hill asked as they gave their names.
+
+“That's us, along with Miss Biyu of Mengde’s Crystal Emporium in Pale Moon Lake City,” he replied with a friendly smile. The guards at Verdant Hill were good ones. Vigilant, but not asssholes about it. There was a country boy innocence to them that Rags appreciated; he couldn’t imagine these guys raiding neighbourhoods and rounding up the homeless to expel them like those back home.
+
+The guard clasped his hand over his fist and bowed. “You’re all on the welcome guests’ list, sirs, ma’am. The Lord Magistrate welcomes you to his town and begs you to partake of his Palace’s hospitality.”
+
+He looked pointedly at Biyu, who looked miserable, bags under her big eyes. Normally Rags might have said no, still a bit uncomfortable around politicians… but Xiulan and Tigu had sung the praises of this guy, and he was apparently the father of the Special Inspector, so he couldn’t be a bad guy.
+
+So they followed the guard to the Magistrate’s Palace. The trip through the town was brief, and he could tell they were preparing for the New Year. The people here were as cheerful as always.
+
+Soon enough they went up the stairs and into the Palace. All of them sighed with relief when they got out of the cold, and a servant immediately arrived with warmed blankets and hot broth.  Then they were directed into a well-appointed room with a roaring hearth. Biyu immediately sank into a chair with a groan.
+
+Rags chuckled and took a sip of the broth. It was good.
+
+“Master Dong Chou, Master Zang Wei, and Lady Biyu, welcome to Verdant Hill,” a warm, rich voice said. “Hopefully our hospitality can ward away the cold, especially for friends Miss Xiulan and Tigu speak so highly of.”
+
+All of them turned to the two who had entered, a man and a woman. Both of their hair was streaked with white, and there were some lines on their faces, but overall they were aging gracefully. The man, who could only be the Lord Magistrate, looked like some kind of general, but… not too harsh. And the Lady? Rags had to force himself to only look respectfully. She was stunning.
+
+But with both of them together, and really looking at them? They both looked familiar.
+
+“Tigu was right. You’re definitely the Special Inspector’s parents,” Loud Boy blurted out.
+
+Both of them twitched. The woman’s eyes narrowed, and then she smiled. It wasn’t warm though. It was… unsettling.
+
+“You know our son?” she asked, carefully.
+
+“Yes. The Acting Lord Magistrate is a great man. Grass Sea City is lucky to have him,” Rags said, watching her reaction.
+
+Both of them tensed a bit again… and then the lady slumped.
+
+“That is reassuring to hear,” The Lord Magistrate said with a smile, but it looked a bit strained. “And it is good that my student and his family have such good friends, to brave the snow and try to reach them after what happened on the Solstice…”
+
+There was something in his voice that made Rags’ instincts twitch.
+
+“I’m sorry, but what do you mean, after what happened on the Solstice?” he asked carefully.
+
+The Lord Magistrate paused. His eyes widened slightly.
+
+“I assumed you knew, and that was why you were coming through here...” he muttered, and then his back straightened and he looked Rags in the eye. “Please do not panic, but my student's home was attacked by Demonic cultivators. Three Earth Realms and a Sky Realm, who were attacking from a base whose master was an Imperial Realm Demonic Cultivator. They defeated this attack.”
+
+The room tilted. Biyu let out a little ‘hu?’ sound, her big eyes going wide. Loud Boy dropped his broth.
+
+“What the Fu—” Rags began.
+
+======================
+
+==================
+
+Edited by:  BargleNawdleZouss, Massgamer,

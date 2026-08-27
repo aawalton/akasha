@@ -1,0 +1,117 @@
+---
+id: 3344bb63-d231-5a65-bdbf-ec29d48fbfd2
+page-type-slug: story-chapter-royal-road
+title: "40. Snipping Strings"
+slug: 0040-40-snipping-strings
+partOf: breaker-of-horizons
+position: 40
+ownLength: 2554
+unit: words
+publishedAt: 2020-09-17
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/556023/40-snipping-strings"
+royalRoadId: "556023"
+---
+
+There was nowhere Kevan could have gone, but however impressive Emilia's beam was, it couldn't have literally vaporised him. There wasn't enough power behind it. So where was he? And more alarmingly, I could feel an intense buildup of arcana somewhere in the arena. Wherever he was, Kevan was amassing a lot of it.
+
+The reaction in the arena was mixed. Some, like me, were looking around in utter confusion. But others merely looked slightly puzzled as they continued staring at where Kevan had stood.
+
+My eyes snapped to Lynus. Even at this distance, I could tell he was smirking. Both he and Kevan had that look when they were trying to play up their superiority. Worry flared up, momentarily displacing the confusion. Whatever Kevan had up his sleeve, it was something that he could, to use the Demiurge's words, 'go overboard' with.
+
+Some people were pointing, drawing the attention of the others in the crowd. Emilia's eyes darted around, taking in the direction they had indicated, which was right where Kevan had been standing earlier. Tentatively, she sent out several arcanic bolts. They collapsed against shields that materialised out of thin air, and a surprised Emilia continued the blind barrage. Uncertain of the source, she was unwilling to close in on what still looked like completely empty space, which meant that Kevan was able to keep her at bay with his array of shields.
+
+"What?" Devon got to his feet, staring hard.
+
+I scanned the crowd to try and see what some members of the audience were pointing at. A pattern clicked — the people at the sides of the arena seemed to be able to see something, but those who were seated near Devon and I had no idea what those people were focusing on.
+
+"C'mon!" I said, dragging Devon as I followed the curve of the chamber, going clockwise. The visual trickery became apparent once we had gone a few steps. Kevan had transmuted flat planes out of the arcana and somehow turned them into mirrored surfaces that he had arranged to create a spot where he could stand and appear to vanish if one looked at them from a certain angle. The illusion fell apart as soon as we weren't looking at the mirrors head-on. More impressively, it seemed that the mirrors were one-way, giving him an unobstructed view of the battlefield even as it hid him from sight. To facilitate that, I realised that Lynus had manipulated the lighted dome of the arena so that Emilia was now standing in a bright patch, while Kevan's space was comparatively darker. It was masterful manipulation of light that required plenty of prior preparation, and also quite a bit of unfair trickery on the twins' part.
+
+It seemed Emilia had figured it out as well. She took off again, circling around Kevan to finally get a bead on him before she started closing in again. But he had prepared for that. Emilia's eyes widened as she crashed through a waiting barrier and stumbled. It wasn't a very strong one given the great distance that Kevan had to project it, but it was enough to trip her up. She belatedly raised the arcanic spike around her again to help her bulldoze any further protections.
+
+But the intense buildup of arcana was coming to a head now, manifesting itself as a weird tension in the air that even the rest of the spectators could feel. Emilia stopped in her tracks. Devon shifted uneasily beside me, looking apprehensive. It wasn't a dense weight, but like... like an absence. Somehow, he was drawing in enough arcana to... to deplete the surroundings? Was that even possible?
+
+"Better shield up," Kevan called out smugly to Emilia, turning the mirrors into ordinary barriers and allowing them to collapse against her bolts as she answered with another salvo. Then she hunkered down, layering her spike with a hardened coating and sinking arcanic appendages into the ground to fortify her position.
+
+But if Kevan was stealing all the arcana, how could she still do that? I experimentally conjured a globe light and was puzzled to find it was still perfectly fine — the flow of arcana was uninterrupted. But then what was happening to the ambient arcana? What was Kevan doing?
+
+'Unfurl-break-flood!'
+
+I reeled in shock, both at 'hearing' Kevan speak to the arcana, and also at the sudden shifting in it. I felt a strange perturbation around Emilia, and then the reservoir of energy that Kevan had amassed was unleashed.
+
+A blinding crackle of light skittered across the intervening space in the blink of an eye and smashed into Emilia, blasting her spike-shield into tiny shards that rained onto the arena barriers. The shouts of alarm and awe from the crowd were completely drowned out by the clap of thunder that followed. All around the tiers, people were flinching away and covering their eyes as the flowing streams of arcana continued to spark through the air, filling it with a violent sizzle and throwing erratic shadows off everyone. Kevan was literally hurling lightning at Emilia.
+
+And she was still standing! I gaped at her in awe, noting how a lot of the energy was travelling down the arcanic appendages she had stabbed into the arena floor. The rest of it was held at bay by a dome she had erected around herself. The lightning was sparking and snaking all around it like some great wyrm trying to consume her, but she ignored the blinding spectacle and focused on feeding a glowing orb in her hands, her face tense. Little tendrils of power were being siphoned off the lightning and into the orb as it snapped against her shield.
+
+I had no idea how Kevan was channelling this much arcana, or where it was all coming from, but my sense of worry spiked when I felt him tugging at the arcana even more in order to sustain his sequence. The sense of emptiness in the air was growing more pronounced. The violent snapping of his lightning grew more savage, and stray arcs stuttered across the air, sometimes cracking against the arena barriers, eliciting a mixture of delighted cries and screams of fear from the spectators.
+
+Emilia dropped to a knee and the dome around her shrank suddenly, barely able to cover her. The orb in her hands was now fizzling too, its sound floating at a higher frequency over the crackling of Kevan's lightning. Then, she wrenched herself away from it, leaving it floating in the centre of her dome. Her hands motioned wildly as she attempted some sort of complicated sequence that was too much for her to accomplish without telegraphing her moves, then she encased herself in a smaller sphere and threw herself out of her dome.
+
+It collapsed immediately and Kevan's lightning made contact with the orb. A deafening explosion rocked the arena and there were more screams as everyone turned away from the blinding flash. The sinister crackle of lightning was gone.
+
+All around the arena, people were blinking furiously and rubbing their eyes to clear their vision. There were a few, like me, who had the presence of mind to bring up some personal protections. I saw darkened shields dropping here and there. Devon let out a sigh of relief and threw me a grateful glance before turning his attention back to the fight.
+
+Kevan had been thrown back against the arena barrier and the arena-generated shield around him registered significant injury, but not enough to put him out of the fight yet. Emilia looked a little better off since she had flattened herself onto the ground and shielded herself more effectively. Even so, her arena-generated shield also indicated that she had been hurt. As they staggered to their feet, those shields faded into invisibility again.
+
+"Kevan, whatever you're doing, I don't think it's safe!" I called out to him.
+
+"Shut up, Caden, you don't even know what's going on," he snapped. I felt the arcana hollow itself out again as he got to work.
+
+Emilia looked worn out, but she had a steely glint in her eye. The barrage of arcanic bolts started again, but this time she was also working on something else while she kept that up. The air around her grew distorted. Kevan, on the other hand, opted to shield and continue his sequence.
+
+He was doing the same thing again, forming a dense knot of arcana. But this time the feeling of emptiness in the air came on much more quickly. Devon paled and turned to me. "I think this is it. He's doing something to the arcana, I can feel it."
+
+Devon was right. But with my more refined arcanic senses, I could tell there was something different in the way the arcana was being manipulated. Earlier, it was more like tugging on a sheet of fabric and bunching it up a bit. Now, it was more like... like pulling out a plug to drain a bath. I instinctively knew that it was far more dangerous than what Kevan had done earlier. How had he even learned to do these things?
+
+"Kevan, no, stop!" I shouted, panicked.
+
+He looked back at me and, for a moment, I thought I saw some fear in his eyes. But then he set his jaw and turned to face Emilia. My eyes darted across the crowd. Most people looked enthralled by the fight, and I couldn't find anyone looking at Kevan with any sense of alarm. Did nobody else sense this?
+
+Emilia's sequence, whatever it was, was faster. The distortion in the air around her rolled forwards, clinging to the arena floor. Pressed against the arena barrier as he was, Kevan had no room to move. He brought up low, thick shields to halt their approach, but was forced to extend them upwards as the roiling distortion threatened to surge over them. The outer layers of his shields began to fray and disintegrate like they were being eaten by acid. In moments, the cloud would overwhelm his defences.
+
+"Kevan, NO!" I yelled again, sensing his grasp on the arcana as he pulled.
+
+'Unfurl-break-flood!'
+
+Black lightning — an impossibility. It snaked out of him, darkening the arena as it snarled through the air towards a wide-eyed Emilia. As it passed through Kevan's shields, it left a gaping hole in them. The roiling cloud of Emilia's sequence scattered before it like dust.
+
+With incredible speed, Emilia had managed to reassemble her defences. The dome reinforced with arcanic appendages came up again, but this time the black lightning turned them to powder with a touch and swarmed over the dome, which fell apart like ash. One thin arc, an off-shoot of the primary stream, snapped against Emilia. The arena shields registered a fatal amount of damage in an instant, and she was sent flying several metres before she crashed into the floor, limp, but still encased in a dense weave of protective arcana.
+
+The stream of lightning went on, crashing into the arena barriers on the far side, where Lynus was standing next to the double doors. The whole arena shuddered, and the black lightning sparked and skittered out from that point of impact. The barrier cracked, and the cracks quickly spread across the entire surface. The light that suffused the dome of the arena sputtered and died, plunging us all into darkness.
+
+Thankfully, my globe light was still active. All across the stands, more globe lights were popping up as people illuminated their surroundings so they could frantically retreat from the lowest tier. I saw Lynus running along the barrier, trying to get to us, while people rushed past him in a mad dash for the exit.
+
+"Kevan!" I dialled up the intensity of my light. There, about five metres from the edge where we were standing, Kevan was rooted to the spot. Black lightning was still pouring from the fingertips of his outstretched hands as he sank to his knees.
+
+"Can't... stop!" he cried out.
+
+'Help!' I sent desperately into the arcana. 'Stop the flow of lightning!'
+
+I tasted the flavour-vein-echo of the woven-shackled-stream. It suffused me, and I sank to my knees too, overwhelmed as my senses came alive with a thousand other points of contact. What did it matter that my eyes could not see clearly in the relative dark? There was Kevan, the tangled-anger-power, his auric-ambient-flare dangerously untethered. Devon, the warm-skilful-bridge was close at hand. Lynus, the bitter-proud-pain, was almost upon us.
+
+'Touch-speak-bend the tangled-anger-power to make it unmake-learn-assimilate my flavour-vein-echo', the arcanic being commanded.
+
+If it was here, did it mean that it wasn't with Ambrose any more? Had it finished working within him? Or was it capable of being in more than one place at once? But why was it here, when I had intended to call for the friend-in-the-arcana?
+
+'Too many questions. I am friend-in-the-arcana now. Touch-speak-bend, before tangled-anger-power loses too much auric-ambient-flare.'
+
+My mind was becoming clouded with all these alien concepts intruding. I staggered over to the barrier, which was cracked but still unyielding.
+
+'Touch-speak-bend!' the arcanic being repeated, communicating urgent insistence without a voice.
+
+'I can't reach him!'
+
+'With auric-ambient-flare! Not with hand!'
+
+... Of course, what was I thinking? I reached out with my auric arcana, twisting it through the barrier and bridging the gap between me and Kevan. Ensorcellment was almost second nature now, and the concept was small enough — to communicate to Kevan the flavour-vein-echo of the woven-shackled-stream.
+
+The instant it was done, I could feel it. The arcanic being snaked out of me and through the connection I had formed with Kevan, using his newly-gained knowledge as its foothold, and there in his auric-ambient-flare it began its work. The wild surges of lighting pouring from his hands stopped, and soon the storm of energy within the barrier dissipated, allowing it to quickly patch itself up. The dome of the arena flickered, and its warm glow of light returned. As quickly as it had come, the arcanic being was gone.
+
+Kevan braced himself against the floor and vomited, but by then Lynus was at his side and would be able to take care of him, so I looked around frantically, trying to spot Emilia's fallen form.
+
+"Everything's fine," a familiar voice called out, bright and cheery. Marcus Kant was approaching across the arena floor, supporting a slightly weakened but otherwise-unharmed Emilia. Somehow, he had entered the floor despite the barrier. As he walked, the Minor Control Sphere materialised next to him, and a moment later the giant, protective barrier over the floor phased away, its absence conspicuous. He settled Emilia down on the lowest tier, then turned to address the rest of the spectators. His voice rang out clearly, amplified but not jarringly loud.
+
+"Hope that was a nice show. Now it's time to clear out slowly, please. No need to rush. Let's do this calmly and in an orderly fashion."
+
+Under Kant's direction, the general body filtered out. A number of people wanted to stay, but he firmly sent them away. In a few minutes, we were the only ones in the arena.
+
+"Now," Kant began, gesturing for everyone to take a seat as he stood in front of us, "that was both horrible and excellent, so let's break it down."

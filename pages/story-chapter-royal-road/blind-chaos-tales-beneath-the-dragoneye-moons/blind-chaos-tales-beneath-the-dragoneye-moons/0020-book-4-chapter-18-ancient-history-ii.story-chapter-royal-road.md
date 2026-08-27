@@ -1,0 +1,155 @@
+---
+id: 845a912b-1d17-59c2-8671-1d97e4584c5f
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 18 - Ancient History II"
+slug: 0020-book-4-chapter-18-ancient-history-ii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 20
+ownLength: 3900
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2649643/book-4-chapter-18-ancient-history-ii"
+royalRoadId: "2649643"
+---
+
+Ranthia wasn’t quite sure what she was expecting when they exited the tent. She was all too aware of the voices beyond it—their borrowed tent wasn’t exactly soundproofed—but a piece of her was still braced for the worst. Instead, they emerged to a cheering crowd of more-or-less familiar faces. People that were eager to congratulate them or, frequently, to beg Avyna to ply her songs at various gatherings.
+
+Avyna was polite and spoke briefly to everyone, well-wisher and fan alike, which made their journey incredibly tedious as they stole glacial progress through the people that crowded them. Ranthia was tired and just wanted to get home, but she still smiled and traded a few words with various people, at least those she actually knew (Glorine, for example, deserved a heartfelt “thank you”). At one point Ranthia swore she saw their nemesis making an effort to approach, but when she looked the same way a short time later, there was no sign of the obnoxious elf.
+
+The crowds thinned and, at last, they made real progress. It felt somewhat miraculous—Ranthia sent Xaoc her thanks, just to be safe—but they reached their home without incident. Once they were secure inside their heavily enchanted home, Ranthia finally allowed herself to relax. She was exhausted, but she still volunteered to join Avyna for a quick shower—with a minimal, yet non-zero, amount of fooling around—before they snuggled together in bed. They were in complete agreement that while they were hungry, their stomachs could wait for breakfast.
+
+Avyna woke up before Ranthia, and a half-awake Ranthia protested pitifully when her warm cuddle partner left her embrace. A few light kisses settled Ranthia back down and she dozed for just a short while longer.
+
+By the time Ranthia finally woke up—far, far later than she usually did—breakfast was almost ready. Avyna’s deft talents had prepared flawless omelets with cheese and diced sausage and just a hint of the spicy sauce that Ranthia had recently fallen in love with (an impulse purchase from the previous merchant caravan, her sole regret was only buying one pot). Ranthia raced to help Avyna plate the food, stoically ignoring her stomach’s audible insistence.
+
+“Those came out great, love! Which juice do you want me to grab? I think we still have some of that tasty sourish bread left too.” Ranthia asked, smiling happily despite her stomach’s increasingly loud demands.
+
+“Actually, my love… If you will kindly promise me that you will never, ever mention to anyone that I ever shared or even showed you what I am about to retrieve?” Avyna seemed to take a moment to firm up her resolve before she spoke.
+
+Ranthia gave her affirmation in High Elvish. Avyna beamed at her—her pronunciation was improving!—before she fiddled with a small crate that had been stowed atop the cabinets. A short while later, Avyna produced three triangles of some sort of hard baked bread. They resembled travel biscuits—which left Ranthia confused. She had certainly expected more than dry, stale biscuits after that sort of hype! Not that she had to wait long for more details.
+
+“This is Ilan bread. It is next to impossible to get outside the realm of the Tympestshard Council. The Ilan fruit is famously difficult to transport intact; it is delicate and sensitive to magic. Due to this, Ilan bread and juice are popular staples. I managed to broker a deal with a member of the latest caravan to provide me with a personal allotment of Ilan bread each time she comes to Remera. And I am serious that it is for personal use only, I shall not be selling it. There are firm rules against selling Ilan fruit and its products outside of the Tympestshard Council. But I would be a poor partner if I refused to share with you, my love.” Avyna explained, concluding with a sunny smile that made Ranthia’s heart flutter for a long moment.
+
+“Why is it forbidden? If this is a staple for your people, it can’t be too rare.” Ranthia asked, once she mastered the dopey grin that overwhelmed her.
+
+“There have been actual wars over this fruit, my love. Farmers that can grow it are prized; it was one of the bigger reasons for my selection of the father of my daughter. The fruit itself rivals potions made by master [Alchemists], and even its juice and this bread have restorative and bolstering properties.” Avyna talked it up before she paused, then, more grudgingly added a concern. “…Admittedly, there are rumors that the fruit could be dangerous to non-elves, though I would not fret about it for Ilan bread. And you are a mighty Sentinel, are you not?”
+
+Ranthia laughed and offered Avyna a quick kiss. The fruit sounded too good to be true, which likely meant that it was. It was sure to be tasty though, so she appreciated her beloved’s offer to share the bread. She just hoped it wouldn’t be too sweet. Just to be safe, she opted for water instead of fruit juice to accompany their meal.
+
+“So… do you want to talk about what’s-her-face? Ass-whatever?” Ranthia prompted after they sat down to eat.
+
+“Ashiwynn,” Avyna corrected automatically while she poked at her omelet, “and you probably deserve to be told…”
+
+Avyna’s reticence was obvious.
+
+“It’s okay if you don’t want to tell me.” Ranthia hurried to clarify. “I know you don’t like talking about your past, and I didn’t mean to pry. I just wanted to see if you wanted to talk about it, given everything that happened. We still have a bit better than seventy-nine years if you want to take more time—but I do hope that you’ll eventually be willing to share all of your history with me. I love you, and I want to know everything there is to know about my perfect partner.”
+
+The silence lingered for several moments. Ranthia immediately regretted pushing, but she hesitated to take the words back. She truly meant what she said. She could be patient—Avyna definitely deserved that much—but it felt unfair that she had bared every secret she had to Avyna, while the elf continued to keep a significant portion of her own life to herself.
+
+The moment broke when Avyna abruptly picked up her Ilan bread and took a large bite out of it. She chewed it swiftly, then spoke less than a heartbeat after she swallowed.
+
+“I used to have a sister. A twin.”
+
+Ranthia… had no idea what to do with that. This was clearly something of great importance to Avyna, but it also felt completely off-topic. She settled in to eat and waited to see what, if any, other details emerged. The past tense promised it wasn’t going to be happy, but people seldom concealed happy memories.
+
+“My parents, and I know not how, managed to be surprised when my mother gave birth to identical twins. I have no explanation for how in the spires they managed to be surprised by this. Yet they only had a single name prepared for their daughters, and I received it. Avynaria.
+
+“The midwife actually was the one to recommend Eviaria for my sister, after my parents proved unable to come up with anything. My sister was always jealous that I received the intended name. Not that she should have ever been jealous of me, I was never her equal at anything else. We might have shared identical bodies, but no one that actually knew us ever mistook us for one another.
+
+“Evi had limitless energy and a… I believe the term is vibrancy—one that I could never match. She dazzled. And she had enough ambition that it could have swallowed all of Pallos, while she still desired more. I struggled to keep up with her in everything. She completed three chores in the time I handled one. She learned faster than I ever could. She excelled at games. Prisms, my love, I wish I had the words in Creation to properly explain how impressive she was. Yet she never let go of my hand; she pulled me along with her. She believed in me, even when our tutors and peers did not.
+
+“Our parents pursued their own shallow political ambitions. Their dream was to catch the eye of someone on the Unchanging Council, to become… well, little more than servants to such an esteemed person.” Avyna paused at those surprisingly sardonic words to take a few more bites from her omelet while she tried to overcome the tears that had started to run down her cheek.
+
+Ranthia was already stunned by what her beloved had revealed by that point. To her, Avyna seemed so vibrant and perfect—her imagination wasn’t up to the task of envisioning Avyna’s twin. She could never begin to imagine someone that shined brighter than the woman she had fallen in love with.
+
+“Evi fell in love with books, the same as I. But her fondness was for tales of adventure and exploration. Our parents never approved, but once we were old enough, Evi seized me after yet another argument with them. We left, with little more than the clothes on our back and a sack of swiped food and blankets. We were armed, of course—no elf is raised without combat training.
+
+“We met Ashiwynn shortly after we left home. She was a bit more than two hundred and fifty-six years our senior, and she was struggling to increase her renown as a travelling minstrel. She took us beyond the old-fashioned region we grew up in and invested in us. The arrangement was simple: she would help equip us and guide us, then she would get to write songs about what we achieved. We were still young, and she was… attractive.
+
+“It took me many years to realize she had delighted in making us compete for her affections, but her interest in us was as a set—mostly as her clearest path to fame. Songs about ‘Evi and Naria’ proved popular with many elves. Two beautiful sisters rising in power and prowess.” Avyna punctuated the thought by stabbing her omelet with such force Ranthia expected the crystalline fork to break.
+
+Ranthia paused her own distracted meal to reach over and place her hand over Avyna’s, squeezing it reassuringly. She could set aside her building fury for a few moments. She could always cut that horrific [Bard]’s throat another day—Avyna needed her support.
+
+Avyna smiled at her, before she ate another bite of her somewhat scrambled omelet and resumed her story.
+
+“Evi was amazing with her sword and dagger. Mantle [Warrior], Gale [Warrior], and eventually she added Brilliance [Warrior] to her build. She was no dancer, not like you; she just pointed herself in one direction and everything in her path fell. In a way, Sir Night reminds me of her—rapid strikes delivered without waste. Almost nothing could withstand the rapid violence she caused.
+
+“At the time, I was an archer. The bow that I have now is the same one I used back then. Gemstones to sharpen my arrows and Gale to deliver them. …My third class was a Sound [Bard], I sang songs to bolster Evi and… …yes, I occasionally sang with Ashiwynn when she was willing to share the stage.
+
+“I had promised myself I would never sing again after I dropped the class. When Caelillia was born, I set that aside for a time. I had not expected to find myself setting my promise aside a second time for you.” Avyna had the expected playful grin on her face, but it failed to reach her voice.
+
+“I guess that explains why I never heard you sing before. You shouldn’t let one awful woman ruin it. You have a beautiful voice, and I’m glad I got to hear you sing.” Ranthia replied with a sentimental smile.
+
+Avyna returned the favor with a more heartfelt smile before she pulled her hand away from Ranthia’s. She reached for her fork, but her hand slowed, even as the smile slipped off her face. Ranthia had been about to finally try the (whatever it was) bread, but Avyna’s rapidly souring mood stopped her cold.
+
+“We had been at it for more than one hundred and twenty-eight years. Things were going great. Then…” Avyna paused to shudder and sought Ranthia’s hand—squeezing it hard enough that it almost hurt. “We readily handled everything that we faced. We eschewed caution as we got drunk on our own success, magnified by Ashiwynn’s flair for the dramatic. Our success became a measure of our power, rather than our preparation.
+
+“So, when we were ambushed, neither of us was properly afraid. After all, they were only goblins.”
+
+Avyna barked a laugh that Ranthia could scarcely believe came from the woman she thought she knew. It shared no commonality with the elf’s usual melodic laughter; it was no eternal delight. The laugh was angry, bitter, and drenched with intense loathing. The unhinged sound seemed to still the air for precious moments, before Avyna resumed speaking in a lower voice.
+
+“I had always heard the stories, of course, but I had assumed them to be the work of fantasy. The idea of a mortal—a goblin, no less—seizing immortality had to be a joke. Yet the vile creature matched Evi in speed and stopped her blades, after she killed numerous of its kind. It was past level seven hundred and sixty-eight, and we were still on our first cycle—neither of us had reached so far. For all our fame, we tended to take long breaks between each adventure. Thanks to Ashiwynn we pursued accolades more than we craved adventure.
+
+“I tried to cover her. I swear I did, my love. The creature deflected every arrow I launched, even while it fought Evi to a standstill. I was also pursued by the other goblins; they were hardly a threat, but it still forced me to waste time while I relocated and killed them. I… I never even realized how desperate of a situation Evi was in, even as I struggled. I never imagined her being truly imperiled. …I stopped singing.”
+
+Avyna stopped, seeming to choke on her guilt. Ranthia abandoned her food and wrapped an arm around the woman she loved. Given the timeline Avyna spoke about, the events had to have happened well over a thousand and twenty-four years ago, but grief was a strange beast. No matter how it seemed to fade into the background, it seemed to revitalize with horrific ease.
+
+Ranthia knew that better than most, even if she was finding herself confronted with the uncomfortable truth that there was no amount of time sufficient to vanquish grief once and for all.
+
+The story explained a lot though. The [Bard] was worse than Ranthia had ever imagined, yes, but it also explained why Avyna had seemed to enjoy Ranthia’s story about slaughtering the war goblins in the wake of Sardonia being sacked by the monsters. If she was right about where the story was going…
+
+“I had just… assumed that Evi would win. Now I suspect she tried not to let me see how desperate she was. Not until the moment the beast tore her stomach open. There was so much blood… Yet when Evi screamed, it was to urge me to flee. Even then, she was focused on what was best for me—even when she was dying before my eyes.
+
+“We had precious few items that we carried for emergencies. Evi carried two gemstones imbued with useful Skills. I only had a single enchanted arrow. A prize from a competition, it promised to unerringly seek its target and to strike with far greater force and speed than I could muster.
+
+“Instead of obeying my sister’s wishes, I immediately fired it at the goblin. The beast just… caught it. And then, in a display of hateful cunning, it stabbed Evi through the chest with the weapon I provided.”
+
+By Xaoc… Ranthia squeezed Avyna a bit tighter. She had seen and suffered through a lot, but such… casual malice was beyond even her experience.
+
+“The goblin came after me.” Avyna lifted her hand to her left shoulder and traced her fingertips over a large patch of flawless skin. “He delivered a single blow, before Evi somehow caught up. She was badly wounded in sixty-four different ways, yet she still told me to run. She… she claimed she would be right behind me. I knew, deep down, I knew that she was lying.
+
+“But I still ran.”
+
+Those few words escaped Avyna’s lips like a confession. Pain and grief that still carried a desire for judgment—for condemnation. Ranthia tried to embrace Avyna properly, but the elf refused to let herself be turned away from the table. Instead, she ignored Ranthia’s efforts to seek her attention and continued to speak.
+
+“I ran without stopping until I reached our home. I was mostly… delirious,” Avyna parsed her way through the unfamiliar word sound-by-sound, “but I finally told them what had happened. And the first thing my parents said in response was that it was my fault. I was the first born, and, as the first born, I had an obligation to protect her. Instead of letting her lead me, they had expected me to put my foot down and insist that we should have devoted ourselves to their frail ambitions!
+
+“They still filed the report, as they should. Mere days later a group of elves arrived from a Hunter’s Lodge, bearing word that they had successfully culled the goblins. They also brought with them what… little was left of Evi—just a few broken bones and her horns—along with her ruined blades.
+
+“Our parents hung the blades up as if they were some sort of twisted trophy. They boasted that their report had saved other elves from danger. They openly used the death of my sister for their own benefit, while they debated what to do with me.”
+
+Avyna was refusing to even look her way.
+
+“I left. I could never be a part of such… Well, I could never. I felt as if I was the only one that mourned the loss of my sister. To be honest, my love, I have no idea whether my parents still live. I have not seen them since I left, and I have no intention of changing that fact. Most only knew us as a pair, and I was always just Naria in those foul songs, but I still abandoned my unwanted name. To make it a bit harder for them or anyone like them to find me.
+
+“Using the first part of my name, just as Evi did, felt right.” Avyna concluded, before she finally turned to Ranthia and accepted her impatient embrace.
+
+Ranthia wasn’t sure what to think of the story. She definitely understood why Avyna had tried to avoid sharing it. Gods and goddesses, the guilt hit her hard when she realized that—she had urged Avyna to relive so much pain…!
+
+“I made the mistake of seeking Ashiwynn out after that. I ran into her arms and pledged myself to her—I had no one else to turn to. …But she failed to contain her excitement when she asked me to tell her what had happened. Partway through my story, I recognized the look on her face. She was happily writing a ballad in her head about Evi dying.
+
+“I just got up and left, ignoring her efforts to call me back. It was a poor way to end… whatever it was we had, I shall admit, but she deserved nothing more.” Avyna’s tone was cold enough to make Ranthia shiver.
+
+“Say the word, and she won’t walk away from here. I don’t give a damn about the consequences. I’ll cut her down—if that’s what you want.” Ranthia promised.
+
+“Pushing my classes far enough so that I could reset all three was agonizing. But I knew that I could never follow that path, not without Evi leading the way. Fortunately, I won an opportunity to be tutored by a [Merchant] I found. He had challenged me to write an essay explaining why I was worth his time when I begged him for lessons, following rumors that he sought an apprentice. At the time, I merely sought something far removed from the life I had lived, but with his tutelage I came to realize that I truly had a passion for all that he promised and provided.” Avyna ignored the offer and continued her story instead, before she finally fell silent for a while.
+
+Ranthia just held the slender elf in her arms in silence, reassuring her with her presence and her love. Their food had gotten cold, but neither of them had much of an appetite any longer. After some time passed in silence, Avyna finally started to cry. She no longer made any effort to restrain her tears; she just made a valiant effort to soak Ranthia’s mistweave while she let her emotions out.
+
+“You are the fifth person that I have ever told the full story to, my love. My mentor knew it, but he perished a short time after my apprenticeship concluded. Beyond that, I told my daughter, once she was old enough, and I shared it with two of my prior partners. But I am sorry that I made you wait.” Avyna managed to keep her words clear despite her tears. She even timed her sobs into natural pauses.
+
+“Thank you for telling me. I think Evi would be proud of the [Merchant] you’ve become.” Ranthia offered.
+
+A familiar melodic laugh drifted from where Avyna’s face was pressed into Ranthia’s shoulder.
+
+“Oh, my love, no. By the names of the eight spires, she would hate that I selected a profession that has me standing in one place all day. I love my sister dearly, but she was even more restless than you can be! I wish you had been able to meet her. In a kinder world, the two of you would have been a perfect match. I can all too easily imagine the two of you fighting side-by-side. Your attraction to me is misplaced—it should have been her.” Avyna mumbled in a dreamy, aloof tone after she finished laughing.
+
+So much for Ranthia’s brief hope that Avyna was recovering. Ranthia squeezed the elf a bit tighter.
+
+“Don’t you dare say that. I was attracted to your beauty, yes, but I fell in love with Avyna, not with Evi. I never knew her, and I’m sorry that I didn’t get a chance to, but that wouldn’t have changed anything. I love you, my beautiful [Merchant]. Please, never forget that.” Ranthia tried to keep her tone somewhere between serious and flirty, but somewhere in the middle she slipped until she was pleading and, somehow, failed to notice until after she was done speaking.
+
+Avyna laughed bitterly, but Ranthia’s words seemed to help remove a little of the tension she had felt in Avyna’s back and shoulders.
+
+The Ilan bread went forgotten. Avyna never opened her shop that day. Ranthia eschewed her duties and her routine to spend the day with the woman she loved. The scars that Avyna carried were ancient, but revisiting those dark days of her past still took their toll.
+
+Tragically, by the time they found their appetite again that evening, Avyna decided against letting Ranthia take revenge on Assy-fin, or whatever the damned [Bard]’s name was.

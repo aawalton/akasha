@@ -1,0 +1,225 @@
+---
+id: 7b68f7b2-c6d7-5029-b374-cd14ed1b2da0
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 12 - Dungeon Defiler"
+slug: 0016-b3-chapter-12-dungeon-defiler
+partOf: bookbound-bunny
+position: 16
+ownLength: 2340
+unit: words
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3110821/b3-chapter-12-dungeon-defiler"
+royalRoadId: "3110821"
+---
+
+After what felt like an eternity, suddenly being in a body again felt momentarily strange for Arakil. He had hoped to never do such a thing with Lily, but the situation called for a level of proficiency that she was sadly lacking—he could never have predicted the dungeon would be so vindictive!
+
+Arakil's solution was to temporarily puppeteer Lily's body, so he could keep any potential harm to an absolute minimum. He'd seen countless gods descend upon their followers before, yet this was the first time he'd experienced it himself—even going as far as to reveal his personal mark.
+
+The time with the saintess couldn't count, she had truly traded her body and life to him at the time, but since he went a little too far and got caught, he gave it back in the end. Naturally, he wouldn't make such a Faustian bargain with his own pupil, so he rapidly devised his own workaround.
+
+The biggest issue was the restrictions placed upon him, but Arakil had garnered a vague understanding of his limits. Yes, he hadn't been idle with only repairing his library or meditating while Lily was preoccupied; he'd been scouring through his memories of the dreaded event and trying to recall the contract in its full detail, so he could find any potential loopholes.
+
+Obviously, they wanted to prevent him from obtaining another body so easily, so he'd been limited in what he could accomplish. Still, thanks to the Familiar bond between him and Lily, he had already managed to start sneaking through its confines. Using the existing bond and anointing Lily as one of his apostles meant that, in theory, he could descend upon her.
+
+Our relationship was already messy, with her being my master under the Familiar contract, yet she is under me as my pupil. Now she's also my first, and only, apostle… I suppose I now have two positions of authority above her, although the situation is indeed strange.
+
+Arakil quickly snapped out of his ruminations, as he was on a time limit. This moment not only burned through his own Mana, but if he stayed too long, he could put Lily's body through unnecessary strain. No, he needed to settle this as quickly as possible, and the only outstanding question was whether the dungeon would be allowed to live or not at the end.
+
+Lily and Arakil needed the dungeon's resources, and killing it would be a last resort. Not only would it damage this school, which admittedly he'd grown fond of, but it would be short-sighted compared to milking it over time. But Lily's safety came first, and he wouldn't hesitate to destroy it if there could be no burying the hatchet.
+
+"What the heck kind of glyph is that? I didn't even see you draw it!" Lotte cried out.
+
+"The dryad can't even break through!" Thomas exclaimed.
+
+Sure enough, the dryad was pounding its fists against the invisible dome created by the inscription he'd formed, not even managing to leave a dent in the magical formation.
+
+Arakil tried casting a spell, only for it to fail. Immediately, he realized that he could only cast spells as Lily and used her Mana to do so. This meant that he was limited to Astral and glyph magic.
+
+I could cast simpler non-Astral spells, but the cost would be too much, and I'd risk draining Lily's Mana Core dry.
+
+Arakil mentally sealed any other forms of magic, not wanting to risk it. Besides, being predominantly limited to glyphs was hardly a restriction for the former god of magic.
+
+Holding the grimoire in one hand, Arakil flourished the free hand in an anti-clockwise motion that drew a circular glyph as it traced through the air. When the circle was complete, he sliced through it with two fingers, splitting the glyph into halves, which then grew into two identical glyphs. Using the same two extended fingers, he pointed at Thomas and Lotte, causing the pair of glyphs to shoot out and stick to their foreheads.
+
+"What…?" Lotte managed to mumble before she and Thomas both passed out.
+
+{What did you do?} Lily's voice echoed in his head.
+
+Arakil glanced over his shoulder, seeing a miniature spectral version of Lily floating behind him.
+
+"I put them to sleep, it's for their own safety until we resolve this," Arakil said through Lily.
+
+{Oh! As long as they are okay…}
+
+"I promise no harm will come of them," Arakil replied.
+
+{Thanks… But wow, hearing my own voice… This is so weird.}
+
+"Rather than let this chance slip by, perhaps we should expedite some growth?"
+
+{What do you mean?}
+
+"Observe."
+
+Lily's fingers got to work as multiple glyphs began forming in mid-air. Lily herself gasped in surprise, watching Arakil dextrously commanding the lines as if he were conducting an orchestra. Soon, a complex inscription was before them, and he pinched his fingers, causing it to shrink down in size. Once it was between his fingers, he threw it onto the cover of the grimoire, which was instantly engulfed in a blinding vortex of light.
+
+"Thief!" the dryad hissed through a twisted mouth as it raged against the barrier.
+
+"You did this to yourself by breaking the rules," Arakil replied.
+
+{What did you do?}
+
+"Use your Magesight."
+
+There was silence and then a gasp from Lily's spectral self. What she was witnessing was the refining and plundering of vast amounts of the dungeon's Mana, and the purpose was to facilitate some repairs on the grimoire.
+
+It's a pity I can't use this Mana for myself, but if more of the book is repaired, it will help us in the long run.
+
+When the inscription faded, the grimoire unfurled as the pages flew by, revealing partial drawings and designs. Lily gasped in surprise, never having seen these drawings before.
+
+"Excellent. The library recall is partially restored," Arakil explained. "Now let's upgrade this Familiar bond."
+
+Referencing the sketches in the book, Arakil began drawing again. It was slower than the previous ones, which were practically instant, but it was still unlike anything Lily had seen before. Soon, a new complex inscription was before them, and he split off a portion to place on the book, while the other was on the back of her palm.
+
+"Sorry about this, I know you loathe blood," Arakil said.
+
+Again, before Lily could respond, Arakil closed the book in the left hand and bit Lily's thumb on the free right hand, just enough for blood to form. He then smeared the blood on the back of her palm, causing another resonance between the book and Lily.
+
+Arakil watched as bonds were formed between Lily's spectral self and him, meaning that he'd successfully upgraded the Familiar bond. In theory, this would allow them to cooperate more effectively in the future, but at a minimum, they could now communicate properly with one another.
+
+[Hopefully you can hear my voice now.]
+
+{I can! It's straight in my head.}
+
+[Wonderful. I'd love to chat, but we need to resolve this situation.]
+
+Arakil raised Lily's hand and cast Starburst at the dryad, and a stream of stardust sprouted out. Arakil frowned and cast it again, only for the same result to happen.
+
+{You weren't joking about your bad luck…}
+
+Arakil felt his eye twitch. He immediately cast Lunar Radiance, making sure to enunciate it perfectly for Lily's benefit. A silvery waxing crescent moon radiated above her head and shone down above them, as if blessing them with good fortune.
+
+{So that's how it's done…}
+
+[I hope you can benefit from this demonstration.]
+
+{Yes!}
+
+Arakil motioned to cast Starburst again, but after three attempts, the result was still the same. Even the rage-filled dryad was looking confused at why it was covered in nothing but glitter.
+
+{...}
+
+[...]
+
+{Um…}
+
+Arakil began casting another spell, and this time, a dark waning crescent moon manifested above the dryad, blanketing it in darkness as if bestowing a curse. Lily gasped in surprise, but didn't say anything. Arakil hoped she was mentally taking note of this spell projection.
+
+The dryad was now visibly on edge, and even flinched when Arakil raised his hand once again. Arakil even enunciated the Starburst this time; in theory, the completion rate of the spell, combined with Lily's affinity, meant there might even be a hundred stars this time.
+
+All three present felt like something big was about to happen; you could almost hear a pin drop. The spell completed, and a blinding flurry of stardust burst out again, followed by an awkward silence that permeated the air.
+
+"Accursed astral magic…" Arakil muttered in disdain.
+
+{Don't curse it with my mouth!}
+
+Arakil shook his head. It appeared that if he wanted to use Astral magic, he would need to avoid any that relied on luck. Of course, the better solution would be to just fall back on glyphs, although he had hoped that by demonstrating astral spells, he could give Lily some references for her to envision in the future.
+
+Arakil pointed at the dryad. "Why are you attacking us? Aren't you violating the rules? Not to mention your agreement with the headmaster."
+
+The dryad's head tilted back and forth as if digesting the words it had just heard. Eventually, a twisted mouth parted, and it spoke.
+
+"Dungeon defiler! Rules no longer apply to you!" it spat.
+
+"So that's the reason…" Arakil murmured.
+
+{What reason?}
+
+[In the past, I destroyed quite a few dungeons. In making this grimoire, I sacrificed countless dungeon cores. There's a chance that it can sense the remnants within this item.]
+
+{You destroyed dungeons?}
+
+[Not just me. Back then, dungeons were as common as dirt, and most of the ones I used were nothing worth mentioning.]
+
+{Oh…}
+
+"That was eons ago; it shouldn't matter in this age," Arakil replied to the dryad.
+
+The dryad snarled, "Defilers must be destroyed!"
+
+"If you can't be reasoned with, then I'm afraid you're forcing me to remove you. I cannot allow such an existence to endanger my apprentice!"
+
+To their surprise, the dryad began cackling with maniacal laughter. "You're in no position to threaten me! My dungeon core is countless floors away, and you have no hope of reaching it."
+
+Arakil smirked with unparalleled confidence. "It seems your retirement under this academy has made you complacent. It seems a demonstration is in order!"
+
+The dryad continued to snicker with a twisted cruelty on its face until Arakil waved his hand, forming a string of completed glyphs in its wake. Lily's apparition and the dryad both flinched in shock as suddenly the glyphs activated and released a barrage of magical bolts that tore the dryad up.
+
+{How did you do that!?}
+
+[I drew them.]
+
+{You waved your hand!}
+
+[I still drew them in my mind. When you reach my level, you can draw countless glyphs like this with ease.]
+
+With the dryad's body destroyed, the dungeon would need to possess another monster to communicate with them. Arakil, however, planned to relocate their negotiations to his advantage.
+
+He picked up Lily's treasured wand and placed it safely in her pouch. Then he removed both her Ward and dungeon pass, and after drawing a minor glyph on the ground, put both of them inside it.
+
+{Why are you removing them?}
+
+[I worry your teacher or the headmaster can track them. If you suddenly appeared on the lower floors without permission, you might get into trouble. This small design will pretend to be you.]
+
+Lily glanced at her two unconscious friends.
+
+{Are they okay?}
+
+[They will be fine, I promise.]
+
+{Are you going to remove their memories?}
+
+[To be quite clear, I don't particularly enjoy dabbling in mind magic. Not only are repercussions potentially dangerous, but it's a form of destroying knowledge, which I abhor. We can use some dream magic to obfuscate some of the events, rather than removing them from their memories.]
+
+Arakil then drew another inscription on the floor. When it was completed, he reached down and plucked a small segment out of it with his fingers and slapped it on the back of Lily's palm. Once that was done, he began drawing another complex glyph on the ground before stepping inside it.
+
+{What are these?}
+
+[The first is an anchor to return us here once we are done. The second is a translocation glyph, with the destination set as below.]
+
+{You mean teleporting!?}
+
+[How else are we going to threaten the dungeon without going down?]
+
+Arakil stomped on the glyph they were in, and it shone brightly. The world around them rippled, and soon both of them vanished. When they reappeared, they were in an entirely new location; gone was the forest, and in its place was a tundra.
+
+{Snow!}
+
+Arakil shivered and cast the Nebula Veil, wrapping it around Lily protectively. He quickly noted that, compared to Lily's, his was a substantial downgrade in quality, as his was a perfect replication of the base version.
+
+It goes to show how hard she worked on trying to make the spell her own.
+
+{Are we going to explore?}
+
+[We're waiting for the dungeon to show up.]
+
+Although Arakil said that, he began drawing a repeat of the glyph they just used while they waited. Moments after he completed it, a large yeti-type monster had arrived, its large body barreling through the snow and baleful green light in its eyes.
+
+"Defiler!" it roared.
+
+"Ready to negotiate your surrender?" Arakil asked.
+
+"Die!"
+
+"I guess we need to go deeper," Arakil sighed.
+
+They could have just teleported down, but Arakil wanted to send a message. The yeti's arms were coming crashing down when Arakil opened his palm and revealed an inscription spread out.
+
+{The shield inscription!}
+
+[Good memory!]
+
+A familiar sphere made of hexagons formed in an instant; the yeti's powerful blow struck the invisible shield, causing its own limbs to implode into black flecks. The monster was literally de-armed as it reeled back. With a mocking grin, Arakil activated the teleportation glyph and vanished from the spot.
+
+"See you soon…" Arakil whispered threateningly.

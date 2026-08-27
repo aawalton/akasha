@@ -1,0 +1,185 @@
+---
+id: 0bc7dd0d-c0b7-5f3d-8ed6-8ab9a2d0a5c4
+page-type-slug: story-chapter-royal-road
+title: "v4c7: The Children of the Mist"
+slug: 0013-v4c7-the-children-of-the-mist
+partOf: beware-of-chicken
+position: 13
+ownLength: 2406
+unit: words
+ownProgress: 2406
+publishedAt: 2023-05-16
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1214538/v4c7-the-children-of-the-mist"
+royalRoadId: "1214538"
+markedReadAt: "2026-06-29T18:51:45.990Z"
+---
+
+“Welcome, Honoured Guests, to the Misty Lake Sect,” the members of the Misty Lake Sect intoned.
+
+Zhang Fei, known as the Torrent Rider, kept his back as straight as he could as he marched into the center of a sect’s compound. The main walkway was flanked on either side by disciples and students, their hands clasped in salute. Xianghua was at the head of their group, discussing something with a cool-looking old guy. He looked so dignified! Like a human Master! He was even stroking his beard like how Master stroked his wattles. Surely, if Master had a human form, he would look just as old and wise!
+
+He was certainly powerful, too!
+
+It was still a bit strange to be welcomed like this, but Zhang Fei did his best not to show that he was nervous and let everybody else down. Instead, he mentally recited his Master's teachings on how to walk properly and matched the unhurried pace that Xianghua and the distinguished old man were setting. He was the smallest and least impressive out of everybody, and he hoped that he wouldn't detract from them.
+
+Xiulan looked regal as she strode forward, and most eyes were on her. Big Sis Tigu, just to her right, oozed danger and grace. Delun, the next up, looked like he would make the earth tremble with each step, standing head and shoulders taller than the others and clad in thick plates of armor. Yin, her mouth currently shut, looked like an ethereal fairy gliding through the mist, while Loud Boy and Rags ambled along, their smiles a matching pair of roguish grins.
+
+Zhang Fei brought up the rear with Shaggy Two. He took a deep breath, concentrating on his Master’s teachings of temperance and a calm mind. He drew strength from his rooster mask as well, its form imparting him with some measure of his Master’s noble and erect bearing. With it on he was sure he did not look out of place; instead, he looked like a mysterious warrior, a protector of the weak!
+
+He pushed his doubts from his mind and focused instead on his surroundings!
+
+Because the compound that was steadily emerging from the mist was huge.
+
+Fei guessed that the island they were on was already at least twice the size of the one that Master Jin lived on—and unlike his island between two rivers, this palace was nearly filled with buildings.
+
+In contrast to the Lakemen’s mobile homes, the buildings here looked far more like traditional Imperial architecture. They had wide tiled roofs, instead of thatch, but there were still some design elements that looked similar; just rendered in wood instead of reeds.
+
+And… the entire place just felt old. It was a palpable feeling in the air. The weight of centuries—and aside from the greeting earlier, the entire place was almost eerily silent.
+
+The walkway also had, at even intervals, massive stone pillars. They were inlaid with veins of topaz, jet, and white jade that had been worked to look like koi. The faint sunlight shining through the mist caught the faceting on the reliefs, the flashing light making it almost look like they were moving.
+
+Coming from a family of miners and silversmiths, he could appreciate the craftsmanship. Judging from the noise Big Sis Tigu made, so could she.
+
+Eventually, they peeled off. Xianghua went with her Elders, and the rest of them were directed to a pavilion that looked out onto the lake that already had tables set and servants waiting to get them food and drink.
+
+The Torrent Rider kept himself composed, even when he realized he would have to reveal his face to the world to eat properly.
+
+“You holdin’ up okay?” Yin asked him. The woman was looking at him with a bit of concern.
+
+“I think I’m good,” he whispered back. He had learned decorum lessons from his Great Master and Lady Pi Pa! He was ready for anything!
+
+Hopefully.
+
+Yin smiled at him and then went back to eating, scooping a massive pile of rice into her mouth and then chewing loudly. Truly, Zhang Fei was lucky to have such kindly Sisters looking out for him.
+
+The entire journey had been very nice so far, actually. Zhang Fei had gotten to learn and see so much! He got to defeat some more bandits on the road! He got to see the city! He got to study his Master’s teachings without all the interruptions of looking after the sheep or helping with the chemicals they used to get the silver out of the rock.
+
+Yin, Rags, and Loud Boy taught him all kinds of swears. Mr. Delun taught him how to better take care of his spear, and they swapped notes on metal refining. Miss Xiulan meditated with him in the mornings; Big Sis Tigu had been given permission by his Master to teach him, and she was super kind and patient—when she wasn’t fawning over Shaggy Two. And Big Sis Xianghua was just a funny lady.
+
+The only thing he could say he didn’t like was that Yin, Rags, and Xianghua seemed to like using his head as an armrest.
+
+They finished their food, and then, like the village parties Fei had been to, it seemed time to mingle and get to know people.
+
+To Fei’s surprise, he was approached almost immediately by a boy who looked about his age, while Xiulan and Tigu were greeted by a few people that they seemed to know.
+
+“So… you’re one of our Young Mistress' companions?” the boy asked. He looked a bit like Big Bro Bowu and Xianghua, something about his eyebrows. But he had a bit of a nasty look in his eyes.
+
+“Yes! This one is Zhang Fei, known as the Torrent Rider!” Zhang Fei introduced himself politely despite his misgivings. “Might I have the honour of knowing your name?”
+
+“You may address this Young Master as Liu Xianglan,” he said. “I am the Young Mistress’ cousin—and my noble father is Elder Liu Xiangshi.”
+
+“It’s nice to meet you. Your sect is amazing; the murals of the koi are especially spectacular.”
+
+The other guy seemed a bit taken aback, but his chest puffed out in pride as he took in the compliment. “Indeed, our Sect is quite grand—you’ve probably never seen anything like it.”
+
+“I haven't! Are there any places that you could show us? Miss Xianghua told us she would show us around, but she’s busy right now.”
+
+“I suppose I could—no, that can wait until later!” Xianglan said, shaking his head. “I would take your measure. I will allow you the honour of trading pointers with this Young Master! What say you… ‘Torrent Rider?’”
+
+The boy was smirking again. It seemed almost like what Xiulan had warned him about—like Xianglan was just looking for an excuse to hurt him. But they were in Xianghua’s sect, so they were friends, right? It would just be a normal sparring match, wouldn’t it?
+
+Fei turned to look at Yin, who was indisposed—a man was leaning across the table and trying to flirt with her. She was completely ignoring him, but that just seemed to be making him try harder.
+
+Instead, he managed to catch Xiulan’s eye. She looked at him for a moment, then nodded.
+
+He had permission then! “Ah, yes! Let’s have a good match?” he said.
+
+And then the entire courtyard went silent.
+
+Tables were quickly cleared away, and there was an impromptu arena ready for him and Xianglan.
+
+“Good luck, Torrent Rider!” Tigu shouted from the sidelines. Shaggy Two yipped from her arms.
+
+“Ha! He’s going up against Elder Xiangshi’s boy. It’s already over,” the man who was flirting with Yin said. “And really, he's your companion, Fairy Sister? What kind of fool wears an ugly chicken mask?”
+
+Zhang Fei’s face flushed, pulling the mask down over his face. It wasn’t ugly! It was cool! It looked like his Master!
+
+Seeing her companion’s reaction to the insult, Yin finally turned to speak with the guy who had been trying to talk to her.
+
+“Haaa? Ugly? It’s better lookin’ than you, asshat,” she said evenly. The man looked like she had just stabbed him in the heart, but she continued with merciless disdain. “And what kind of man wears it? The kind of crazy little fucker that went toe to toe with a Spirit Beast when he was a mortal.”
+
+Her declaration echoed throughout the pavilion as Zhang Fei unlimbered his beloved spear, Moon Spur—and his sparring partner suddenly lost his smirk.
+
+“Indeed! Our little brother is skilled!” Rags crossed his arms, eyes glinting with anticipation. “And his Master is a true monster!”
+
+Zhang Fei got into his stance, his spear pointed true and one leg raised, and almost before he was settled, his opponent moved to attack.
+
+Their first clash was as his Master said it should be: testing each other out and getting a feel for one’s opponent. Xianglan was certainly fast and skilled; but compared to blows Tigu or Yin could throw, it wasn’t heavy at all.
+
+They had three rapid exchanges before Xianglan brought a technique into things.
+
+[Mist Arts: Phantom Strike]
+
+Xianglan was suddenly shrouded in mist, and then his next strike contained three blades.
+
+Compared to thirty two, it was lacking. He could feel the whistle of the wind, and his body instantly knew what was water vapor and what was steel.
+
+His opponent had escalated, and so he answered in turn.
+
+With the absence of his Master there to physically guide him when he was training, Zhang Fei had turned his attention to the base creatures that shared his form.
+
+Zhang Fei had studied chickens well. Most people thought of them as foolish creatures, fit only for a pot. But Zhang knew the truth. He saw them hunt. He knew the might and accuracy of their darting beaks; he knew the swiftness of their attacks. They moved like the finest of predators; like wolves on two legs.
+
+[Rooster Spear Arts: Beak Thrust]
+
+Moon Spur turned into a meteorite, a torrent of silver light soaring through the air. His opponent's eyes widened as he tried to deflect and escape the onslaught, but it was for naught. Moon Spur was a mighty weapon forged by Mister Delun, engraved by Big Sis Tigu, and filled with his Master’s holy Qi; and its wielder had been determined to be worthy of his weapon.
+
+The Torrent Rider slammed the sword out of his opponent's hand and turned his last strike, catching his opponent in the side with a sweep and sending him sprawling.
+
+He felt his muscles tense, to go after his opponent, when a voice cut through things.
+
+“That's enough,” Miss Xiulan said, and he froze instantly. “I think we all know the outcome, yes?”
+
+There were several approving murmurs, and Zhang Fei felt the flush of victory in his gut. His legs tensed and a cheer bubbled up in his throat… before he cut it off.
+
+His Master had said to be magnanimous in victory and defeat! So instead of jumping up and down like he did whenever he could land a hit on one of his Seniors, he stopped himself and walked over to his opponent.
+
+“Thank you for trading pointers with me!” he said as sincerely as he could and bowed.
+
+Xianglan looked torn between rage and disappointment, before his face smoothed out.
+
+“Of course, our Young Mistress surrounds herself with only the best!” He stood up and sheathed his quickly recovered sword. “Come! As promised, I’ll show you around our Sect!”
+
+Zhang Fei smiled, having hopefully made a friend and not an enemy.
+
+He got to see a bunch of arenas and some lovingly maintained gardens before there was a long, clear note from a horn echoed through the compound followed by an announcement.
+
+“The Elders have come to a decision! Heir Liu Xianghua, inheritor of the most auspicious and powerful bloodline of the Misty Lake Sect, wielder of the Steam Furnace, shall begin the trials of the Sectmaster! Tomorrow, all disciples are to attend to the Proving Grounds so that the Trial of Might can begin!”
+
+Then, there was pandemonium, as people shouted in utter shock.
+
+==========================
+
+The next day, they were all taken to a giant arena filled with water and lilly pads. Lotus buds were poking up above the miniature lake, and ivy and vines crawled up the old stone walls.
+
+On one side of the arena, Xianghua stood smirking with one hand on her hip.
+
+On the other side… on the other side was the cool old guy, who looked like the perfect old Master. Zhang Fei couldn’t wait to see them fight!
+
+He was sitting eagerly in his seat, his legs jumping up and down, and ignoring the fact that Yin was using him as an armrest. Could Xianghua really beat this old man? He had to have a lot of experience, and everybody called him Elder. Big Sis was awesome, but would the fight really be in her favour?
+
+Then all of a sudden, Elder Bingwen jumped into the air. The Elder had landed on one of the lily pads in the Proving Grounds, a single toe on the palm-sized plant. There was a single ripple as he landed and the plant stayed on the surface, not dipping at all under his weight.
+
+He then bowed to Xianghua.
+
+“If you would please show us your strength, Heir Xianghua,” Elder Bingwen asked.
+
+Xianghua nodded… and then just strolled out onto the middle of the lake. There were no ripples from where her feet touched the water.
+
+The Torrent Rider wondered why everybody suddenly went quiet and started whispering. Walking on water was really easy… and kind of no fun. Especially after Wa Shi taught him about ‘surface tension’.
+
+It really helped him ride the waves, though.
+
+“I shall show you the power of your new Sectmaster,” she declared and unsheathed her sword.
+
+Zhang Fei leaned forwards, ready for the old guy to do awesome old Master things.
+
+Instead… he watched an absolute dismantling.
+
+Xianghua was too fast. She was too strong. A heron’s savage beak moved too fast for Fei to see.
+
+And in the end the old Master ended up on one knee with a sword pointed at his throat.
+
+She didn’t even have to use her furnace.
+
+And then Xianghua called down the next Elder, her eyes burning with conviction.

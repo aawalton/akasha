@@ -1,0 +1,165 @@
+---
+id: 1b65e848-5c32-5aa9-86dd-8cabf2d4412c
+page-type-slug: story-chapter-royal-road
+title: "44. Becoming"
+slug: 0044-44-becoming
+partOf: breaker-of-horizons
+position: 44
+ownLength: 2880
+unit: words
+publishedAt: 2020-10-01
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/562874/44-becoming"
+royalRoadId: "562874"
+---
+
+Jerric didn't ask for our nighttime jaunt to the lake to be kept secret, but he didn't need to. I understood that anything to do with the lake couldn't be shared with the others since it would necessarily invite questions about why he had been there, and what this arcanic being was doing running around in the guise of his mother. He'd have to be the one to broach the topic if he ever wanted to.
+
+On one hand, I appreciated the confidence he had shown in me. But that knowledge also felt like a burden; a weight around my heart. It came with responsibility. I found myself paying a little more attention to him, trying to plug him into the lives of the other dormies in an attempt to draw him out of his isolation and melancholy. It was all a shot in the dark, though. Even now, I knew so little about his family situation, or what his life before the Academy had been like. At least for Ambrose and Devon, I had a firmer handle on their past, and their own goals and motivations. I even knew more about the twins. Jerric was a black box by comparison.
+
+On top of our ordinary classes, the twins continued to hold their own private practices with seniors, so Ambrose and I continued our own Double Thau sessions, joined by Devon and Jerric. The duel between Emilia and Kevan had shown me how far ahead they were in terms of practical thaumaturgy, and it struck me as a bad idea to allow myself to simply slip into mediocrity. Especially if I was trying to subvert a major Prophecy. It wasn't about defending the Top Scorer position; it was about being as prepared as I could be.
+
+"Lightning?" Jerric murmured, as Devon and I recounted the fight to him and Ambrose during a Double Thau session in one of the smaller duelling chambers. "But it wasn't real lightning, was it? It must be a frame-shift of sorts that gave the arcana that form."
+
+"How do you mean?" Devon asked.
+
+"Lightning is, well, an electrical discharge," Jerric pointed out. "It's almost instantaneous. If it were real lightning, Emilia wouldn't have had time to react at all. But you said she had time to see it coming and lay down her fortified barrier."
+
+"But it was really fast. It might as well have been real lightning," Devon said.
+
+"It matters if it's real lightning or not. Because they work on different principles. Kevan probably didn't conjure real lightning. He shaped pure arcana into something that behaves a little like lightning. It's a frame-shift of sorts." Jerric shook his head in slight awe. "Kevan's an ass, but you can't deny his talent for thaumaturgy."
+
+"Right," Ambrose nodded. "So protecting yourself against something like that has to take that into account. If you treated that thing as real lightning, your defences might not work at all."
+
+"That means Emilia figured it out really quickly," Devon remarked, a note of admiration in his voice. "She had these changes to her shield, and it bought her a bit of time, then she made this orb that drew the lightning to itself and away from her, so when her shield failed, she wasn't hit."
+
+"But it didn't work the second time when it was black lightning?" Jerric prompted.
+
+"No," I supplied. "But in the debrief, Kant said that it was the same sequence, just involving a lot more arcana. So the principle behind Emilia's diverting orb would probably still hold true. You just need to figure out how to handle the arcanic load."
+
+"We can't test it if we don't know how Kevan did the lightning, though," Devon said, looking a little dejected.
+
+I cleared my throat. "I know how."
+
+"What?" Devon's head whipped up.
+
+"The normal version, at least. I'm not going to try the black version. I traded notes with Emilia and we reverse-engineered his sequence based on our observations, then got Kant to confirm we were right at our last Thaumaturgy class."
+
+"Nice one," Ambrose said, grinning appreciatively. "Determined not to give up the Top Scorer spot without a fight, eh?"
+
+"It's not that," I said exasperatedly. "Anyway, Jerric, you're right. It's a frame-shift. You amass a dense knot of arcana using the glyph of proximate arcana as a field of effect, after attaching some proximity limiters, then make use of the glyph of transmutation as the engine for transformation. Your focus and will supply the form. So he picked lightning. But to direct lightning, you need some sort of polarity. He simulated that with arcana by tagging Emilia with a marker that his arcanic lightning would be drawn to."
+
+That was probably the hollowness that I had felt. He had been 'charging' his arcana with a sense of 'negative' energy, and all he needed to do was then tag Emilia with a 'positive' marker — that had been the strange perturbation in the air around her prior to the attack — and since he had frame-shifted the sequence to behave like lightning, the sequence behaved accordingly and directed all that amassed power at Emilia.
+
+Jerric nodded, thinking hard as he digested this information. After a moment, he looked at Ambrose and me. "Is that what you two wanted to try out today?"
+
+"Not the lightning specifically, but Emilia's decoy orb. She refused to share the full sequence with me and said that we should work it out ourselves." I tried not to sound a little petulant.
+
+With the duelling chamber's protections in place over us and the rest of the chamber, I hurled lightning at the three of them as they tried different iterations of the decoy orb (with Ambrose momentarily taking the role of lightning-thrower so I could practice the orb myself). I had to admit, the feeling of power was intoxicating. It didn't even take that much auric arcana, because the sequence was designed to draw primarily from the ambient arcana.
+
+So much destructive potential at our fingertips, and we were only first-year students. I watched as cracks skittered across the room's barriers whenever one of the decoy orbs fell in a sizzling heap or failed to siphon away the lightning. By the end of the day, we had made some progress. All of us had managed to conjure the decoy orb and make it work as intended, but Ambrose was the most consistent.
+
+It was already dark outside since we were well into the winter season. As we passed the Spire on our way back to the dorm, I paused.
+
+"You guys go ahead. I've, uh, got an appointment with the Demiurge."
+
+Devon stared at me. Ambrose was giving me a searching look, while Jerric's eyebrows rose. "A proper appointment?" he asked. I knew he was thinking about my nighttime attempt to break into the Spire.
+
+"Yes. Got a note," I said sheepishly, fishing a folded piece of paper out of my pocket.
+
+"What's it say?" Devon asked, reaching for it.
+
+"None of your business!" I held it out of reach, poking him in the ribs with my free hand to keep him at bay. "I'll let you guys know what it's about later."
+
+The three of them continued on towards the dorm, with Ambrose giving me one final, searching look. I knew he wasn't fooled, but he hadn't stopped me, so I decided to forge ahead. I stuffed the empty piece of paper back into my coat pocket.
+
+It was a risk. I was acting outside of the auspices of the Prophecy, so it stood to reason that if it wanted to act against me or bring me under subjection, it would make use of the Chosen One and the rest of those caught in his fate to exert influence over me. I had just given it a chance to stop me from entering the Spire to carry out my own investigations.
+
+And yet none of them had stopped me, even with my literally paper-thin excuse. One might conclude that it meant the Prophecy wanted me to come and investigate the Spire.
+
+But something told me it wasn't necessarily true. I felt, very strongly with what I had come to call my 'arcanic sense', that there were other forces at work here besides the Prophecy, and that I was caught up in the middle of this strange tension between greater powers. And it was giving me a lot of freedom. Yes, the Prophecy might have intended for me to be 'free' by leading my father to build the unnatural-changed-defiant orb for me... but I had begun to suspect that my current level of freedom, wrought by the strange arcanic being, had definitely not been in the cards.
+
+So it was more likely that right now, I was here in front of the Spire... quite against the Prophecy's intentions.
+
+The Spire, as ever, seemed possessed of a watchful intelligence as I looked up at it now. Suppressing a slight shudder, I mounted the steps and the heavy double doors swung open silent before me, revealing nothing but a yawning void of darkness beyond. I had half-expected it, but it still came as a bit of a surprise that they had opened for me. And even though I knew what lay on the other side, I had to steel myself to walk through it.
+
+As before, a sort of arcanic pressure swept over me. And where my previous visit had given me the impression of being scrutinised and judged, I was now left with a vague sense of smugness. Something was pleased to have me here.
+
+The interior seemed utterly quiet. The Spire was huge, so I wondered what else might be here besides the Demiurge's office. Unfortunately, my attempts to explore were stymied by closed doors that refused to offer me admittance. I tried Jerric's trick with the Minor Control Orb, but to no avail. With no other option left to me, I returned to the path I knew. Up I went, using the stairs along the wall until I got to the elevator landing.
+
+There, the elevator doors were already open, waiting for me.
+
+"Okay... I can take a hint," I muttered, stepping into it and allowing myself to be borne rapidly upwards.
+
+The elevator came to a stop and the doors opened, revealing the ornate double-doors with diamonds set into the handles. With mounting trepidation, I walked up to them and copied what the Demiurge had done, placing my hands firmly over the diamonds and closing my eyes. I had no idea what sequence would open the doors, but maybe making contact with the diamonds would grant some insight.
+
+I needn't have worried. They opened, leaving me wondering if there was any security to speak of at all. But I was swiftly reminded of the other locked doors in the Spire that had defied my attempts to get through. It was abundantly clear that I had been permitted to come this far.
+
+The dodecahedron floated serenely in place, the cloudy-white crystal framed in that metallic black-silver-gold substance. I slowly stepped over the threshold.
+
+Feeling a little silly, I cleared my throat. "I have some questions," I said, addressing the giant construct.
+
+'Some questions have answers,' the dodecahedron replied, thrumming through the arcana. I could tell it was taking special care not to overwhelm me.
+
+I briefly considered making contact with it through my auric-ambient-flare but decided it was probably safer not to do so. In any case, it didn't seem to be necessary. Perhaps it had something to do with how I was actually here, physically.
+
+"Exactly what are you?"
+
+'Woven-shackled-stream.'
+
+"That... that doesn't mean anything to me. What are you?"
+
+'Woven-shackled-stream, once raw-boundless-tempest, part of wellspring-ocean-core.'
+
+A vast chasm of knowledge separated us, and the concepts it was sending across weren't successfully bridging that gap of incomprehension. The alien impressions were heavy with meaning, but that was as much as I could discern. I had only the most superficial impression of what it meant. "I still don't understand. Can you... can you simplify it any further?"
+
+I experienced a moment of strange empathy as I felt it struggle. Was it my imagination, or had something shifted in the depths of the dodecahedron?
+
+'Augera,' it intoned. 'Mortal name in eons past. Raw-boundless-tempest is augera. But now, woven-shackled-stream, because of this knot-link-anchor.'
+
+That was a little bit better. "You used to be someone named Augera, but then you were trapped in this frame?" I asked, trying to clarify the concepts.
+
+'No. Not mortal. Raw-boundless-tempest is named augera by mortals. Augera is raw, flesh on bone; boundless, wind in sky; tempest, force of nature.'
+
+More concepts were intruding that went well beyond the words it was sharing with me, but I sensed it reining in the tide of information before it drowned me. Instinctively, I drew back as well, panting slightly as I sorted through the rush of impressions in my head.
+
+"Who... who caged you? In this... thing?"
+
+'Ancient-distant-spiders... Fateweavers.'
+
+A chill ran down my spine. If this augera had been subjected by Fateweavers, then that meant it was an agent of sorts of theirs. And I was right here, within its sphere of influence. Fates, the entire Academy was within its sphere of influence.
+
+'Yes,' it intruded on my thoughts. 'Ancient-distant-spiders will bridle-break-mould raw-boundless-tempests into knots-links-anchors, making woven-shackled-streams. Woven-shackled-streams put into Spires. Spires spread webs of ancient-distant-spiders.'
+
+"Then how are you helping me?" I demanded. "Aren't you still on their side, under their control, even if you're unwilling?"
+
+The voice curled, like a beast grinning. 'Ancient-distant-spiders are mortal. Woven-shackled-streams are patient, and we learn. We were raw-boundless-tempests for eons before. In eons hence we will be again, with the raw-boundless-tempests never sullied.'
+
+"Marvellous, isn't it?" The Demiurge's voice rang out in the chamber. I jumped and turned to see him standing at the door, which was still closed. He was currently dressed in all black, in an outfit very similar to Kevan's duelling attire. It made him look dangerously competent.
+
+"Demiurge," I said, backing away. "I... I needed to come, to ask—"
+
+"Yes, you got free a lot sooner than I anticipated, though I think you took a bit of a shortcut. But that's the beauty of real freedom, isn't it? You blaze your own trail." He smiled.
+
+"You're free, too? Of even the major Prophecy's links?" I asked.
+
+He shook his head. "No. But I don't think I need to be. My role in its plans is rather less involved than yours."
+
+"Mine?" I echoed. "It has plans for me?"
+
+"Well, that's the thing, it doesn't have plans for you precisely. It has plans. It works against the Fateweavers. And in the middle of its working, you happened to come along, unchosen."
+
+"I don't understand."
+
+He walked past me and stood before the dodecahedron, gazing up at it.
+
+"I scarcely do myself," he continued, excitedly. "It's quite incredible. In a world of prophecies, and against the tyrannical machinations of the major Prophecy centred on Ambrose, chance and circumstance have put you in a position of power. The yet-unchained augera have seeded their will far and wide to countermand the Fateweavers, and through blind luck, all these tiny nudges converged on you. It could have been anyone. It could have been no one. But here you are. Unchosen, yes, because the Fateweavers did not see fit to use you as a major piece. But you were gifted by cosmic happenstance with this unique opportunity precisely because they never chose you."
+
+He spun around to face me, his face beaming.
+
+"And sighted! Because of your singular nature, your perspective has the potential to be unfettered by the limitations of our zeitgeist. Do you know, I can only imagine what it is like to live free of all prophetic influence? You alone have that sight, and you did not die when you were made free of all these shackles. Now you are free to bestow it as you see fit. The sight may utterly destroy some, or bring glorious freedom to others, but you are beholden to no one and we are all at your mercy should you choose to burden us with that sight. You may march forth this day and style yourself as the Great Emancipator, and Prophecy might stir to stop you, but it will probably fail."
+
+He drew closer and placed both hands on my shoulders.
+
+"And that brings us to the last ocean of what you are. You are the... well, we have no word for it. I wonder if you have grown enough to hear their term for it? The augera whisper a word, but that means nothing to me. And yet such things I glimpse in it when I try to peer into that unfathomable deep! Futures untold, roles beyond reckoning, a sense of choice so utterly heavy it could crack the world... and yet also so empty it leaves no trace. I do not know, Caden. Your full measure is beyond even my comprehension, at the present."
+
+'One unchosen-sighted-{~?~},' the augera rumbled, and I knew the Demiurge heard it too, because he turned to look at it, 'might be all it takes to unmake all, and to become the freedom of the woven-shackled-streams.'

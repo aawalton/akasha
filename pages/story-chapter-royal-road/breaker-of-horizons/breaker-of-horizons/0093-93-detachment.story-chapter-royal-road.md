@@ -1,0 +1,107 @@
+---
+id: af803fd7-0dcd-514f-b618-df348e027cdc
+page-type-slug: story-chapter-royal-road
+title: "93. Detachment"
+slug: 0093-93-detachment
+partOf: breaker-of-horizons
+position: 93
+ownLength: 1784
+unit: words
+publishedAt: 2021-03-22
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/650888/93-detachment"
+royalRoadId: "650888"
+---
+
+Caden reflexively took a step back and frowned, slightly irritated at his own sheepish reaction. He tried to rally by grinding out a very brusque, "Hello, Emilia."
+
+"Yes, hello," she replied, brushing off the greeting with the manner of one swatting away an annoying fly. "Now, explain."
+
+The irritation that Caden had directed at himself morphed into something more omnidirectional. He did not appreciate being chivvied like this when his mind had only been pieced together a little over an hour ago before being subjected to a confusing encounter with the Demiurge. "Inside," he said tersely to Emilia, pushing past her so he could find a seat.
+
+He was momentarily distracted by the sheer amount of stuff. The furniture in the room had mostly been pushed to the fringes of the space, and the general collection told Caden that it was once a lounge of sorts. Now, however, most of the space was dominated by boxes, briefcases, and bags. Some of the boxes were open, offering glimpses of commercial artefacts and high-grade rations.
+
+Jerric and Kevan had been placed on opposite ends of a couch that had been pushed against the far wall. Lynus had sunk into a nearby chair, brooding, and Devon was anxiously pacing around what little floor space remained.
+
+"Explain," Emilia repeated sternly, forcing Caden's attention back on her.
+
+"Didn't Devon or Lynus give you–"
+
+"No." She folded her arms in an uncharacteristic display of petulance and shot a glare at the aforementioned duo. "Lynus was going to speak, but Devon stopped him and said it should be you doing the explaining. He refused to say another word on the topic."
+
+Caden shot a quizzical look at Devon, who stopped pacing and ran a hand through his hair. "I'm sorry, but it felt dangerous. Like back in the Spire. I mean, not that Emilia's dangerous. I mean, she is, but...."
+
+"I get it," Caden said, nodding in understanding. Now that he was here, he sensed it quite keenly. This was another moment of tension, another sense of {~?~} hanging over the scene, another inflection point in Fate's threads.
+
+He cast his eyes over the scene. Despite her agitation, Emilia had fixed him with her customary thousand-yard stare. Devon, on the other hand, wore his anxiety openly. Lynus was watching him from across the room with a weighing look that told Caden he was, even now, considering what to do in order to play his perceived role in cementing the terms of the Prophecy.
+
+Wordlessly, he gestured for Emilia to join him in a corner, away from the others. Emilia came forward without hesitation and parked herself on an unopened box. When Devon made to follow after her, Caden shook his head firmly, and Devon retreated.
+
+Caden leaned against the nearest wall so he could keep an eye on everyone else in the room while he spoke. It pained him to be so suspicious, but after the events of the past few days, it seemed foolish not to be on guard. "When did you arrive?" he asked Emilia, keeping his voice low.
+
+"I am not interested in wading through trivial small-talk," Emilia snapped, though she matched his volume. "Tell me what happened to Kevan."
+
+There was no way to sugarcoat this, and Caden didn't think Emilia would appreciate it if he danced around it, so he decided to be as succinct as he could. "The twins tried to kill me while I was incapacitated by an augera. Devon and Jerric stopped them. I don't have all the details myself, but I believe Jerric damaged Kevan's auric-ambient-flare."
+
+"Damaged?" she repeated. A fierce look crossed her face for a moment before she schooled her expression into one of intense concentration. "In what way?"
+
+Caden hesitated, wondering how best to convey what he had seen in the arcanic space back in the Spire. "Have you been able to... to 'read', or 'listen' to an auric-ambient-flare?"
+
+Emilia shook her head. "In fragments. A vague impression. I see you are unchosen, Ambrose is chosen, Kevan is tangled... but it is hard to make much sense of the rest."
+
+"Then it's hard for me to explain fully. In summary, there are many aspects to our auric-ambient-flares. We usually see what can be called 'face aspects' — the parts of our existence that are generally visible in the arcanic space, and which seem to define us most strongly. We have other aspects, too, but they are not as prominent."
+
+Emilia nodded to indicate her understanding, her expression still one of deep focus.
+
+"Well... from what I can tell, one of Kevan's face aspects has changed. I don't think it's a natural occurrence because I can sort of sense things in the arcana now, to a greater degree than I could before."
+
+"What was the change?" Emilia asked in a whisper, her eyes widening ever-so-slightly.
+
+"He used to be the tangled-anger-power," Caden replied, casting a worried look at her. "But my read on him now is the tangled-broken-power."
+
+Emilia did not immediately react to that. She still had Caden fixed with a stare, her eyes looking far beyond him. He noticed her hands trembling a little, but as soon as he glanced down at them, she clasped them together and became absolutely still again.
+
+"Emilia?"
+
+"It will be fine," she said.
+
+Surprised by this unexpected optimism, Caden nodded. "Yes, it's not so bad–"
+
+"You misunderstand," she interrupted, her hands working furiously as she clasped and unclasped them, seemingly trying to squeeze her emotions down into her reddening fists. "What was done to him was bad. No, it was terrible, and there will be a reckoning for Jerric. But good can yet come of this, and I believe it will be fine in the end."
+
+"And what about what the twins wanted to do to me?" Caden demanded, though he felt a little guilty about pushing back, for some reason.
+
+"Are you not satisfied with what has already happened?" she shot back. "Do you want more to be done to Kevan?"
+
+"No, that wasn't what I meant!" Caden crossed his arms, retreating into himself a little. "I meant... Jerric was justified in his actions. He was defending me. The twins were the ones who were out to get me."
+
+"Yes," Emelia replied more calmly this time, but there was still iron in her voice, "Jerric had good reason to do what he did. But I do not believe for one moment that the twins were not also justified. You are unchosen. You must know what this means."
+
+"Well, for the sake of argument, why don't you tell me, since you seem to have it all figured out?" Caden did not quite manage to bite his tongue in time to keep that from spilling out.
+
+"It means even as we all rely on you to steer Prophecy to our ultimate design, we are all tools of Prophecy that will be used against you," she said, now with a hint of pity in her eyes. "Jerric is justified. The twins are justified. We dance to the tune of Prophecy's strings, our eyes fettered, and we believe ourselves right because it is all we see. It is all they saw. But however noble their intentions, actions have consequences. There will be a reckoning, Caden, whether you like it or not. For all of us."
+
+He took in a deep breath and let out a sigh of relief as he finally saw her point. She was not pronouncing vengeance on Jerric on behalf of Kevan. She was merely stating facts in her dispassionate way, noting that Jerric's actions were going to have consequences that he would have to bear. In the same vein, the twins had already experienced that.
+
+"But you think this can turn out for good?" Caden asked.
+
+She nodded, her gaze softening as she looked away from him and deep into her own thoughts. "Kevan's anger made him abrasive. Perhaps now, he will be less contrarian. And that may be a good thing for everyone around him. But I will miss his fire."
+
+Caden felt a twinge of sadness for her, and for Kevan as well. It occurred to him that all this was happening as a result of Prophecy's manipulation as it tried to use the current anchors to take him, the ex-anchor, out of the equation in order to clean things up. If not for his presence, everything the twins had done would have been unnecessary. That wasn't to say that he believed they were entirely absolved of their responsibility because on some level this entire course of events must have been within the realm of possibility, even if it wasn't probable, because Prophecy only acted to manipulate what was already there. But still... he could not deny that his presence as the unchosen-sighted-{~?~} had pushed them further along the path.
+
+All the more reason to unravel all the Prophetic chains. If people were to suffer, then it should at least be for their own choices, their own mistakes.
+
+"What happens now?" Emilia asked, snapping him out of his thoughts.
+
+Caden grimaced. "That depends on what condition Kevan is in when he regains consciousness. I dealt with Lynus' and Jerric's physical injuries, but I don't think there's anything I can do for Kevan."
+
+"I will take care of him," Emilia said matter-of-factly. "Let's assume he will be mobile and functional. What then?"
+
+Not wanting to question her just yet, Caden decided to go along with her version of events. "I think we should share all the information we have. There were things that happened to me that you and Ambrose will need to know about. And we all need to hear the twins' side of the story, preferably from the horse's mouth. Then, if it still makes sense, we go look for wild augera as per our original plan."
+
+"I think it is a sound plan." Emilia nodded, looking suddenly happy. Then, without any further comment, she hopped off the box and made a beeline for where Kevan lay unconscious on the couch. A moment later, Caden felt a slight ripple in the arcana as she seamlessly slid into the arcanic sea, where she could better inspect Kevan's auric-ambient-flare.
+
+"That... seemed like it went well?" Devon remarked, approaching him and raising an eyebrow.
+
+"I never really know what to expect from her, but yes, I think it went well," Caden muttered. He looked around the room, taking in the contents more carefully now that Emilia wasn't breathing down his neck. "So... Dev, you arranged all this?"
+
+Devon grinned and picked up a checklist that had been left lying on a nearby surface. "Let me take you through what we've got."

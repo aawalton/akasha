@@ -1,0 +1,125 @@
+---
+id: 97c7dff6-5e64-5868-b13d-9f9f08ae0e1d
+page-type-slug: story-chapter-royal-road
+title: "102. The Tempest"
+slug: 0102-102-the-tempest
+partOf: breaker-of-horizons
+position: 102
+ownLength: 1948
+unit: words
+publishedAt: 2021-04-22
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/669150/102-the-tempest"
+royalRoadId: "669150"
+---
+
+'Jailer.'
+
+It was the augera's voice, but so much more. That single utterance, made in casual acknowledgement of his presence here in oblivion, nearly broke Ambrose afresh. Because he didn't hear it with his ears — there was no sound here, after all. And it was unlike the subvocal communication in the arcanic sea too, because over there, a sense of space and sound was still part of the frameshift.
+
+Here, the augera's communication suffused his auric-ambient-flare, touching him directly, meeting with him mind-to-mind, its thoughts bleeding straight into his.
+
+'Good. Focus on this.'
+
+Where was this? What was this? He was nowhere, he was nothing! And there was nothing at all around him. He was nothing floating in endless nothing, he was—
+
+'This. THIS.'
+
+The panic intensified, but it was a core around which he could consolidate his identity. He was the one feeling that panic. There was nothing else to fixate on except raw emotion and unbridled thought. The panic swelled, not in his chest, which didn't exist, but through his very being. And marvellously, inexplicably, the panic brought him some measure of peace, because he finally became certain that he was not nothing. He knew that the one feeling the panic was the Chosen-Blinded-Jailer.
+
+'Chosen-Blinded-Jailer,' the augera repeated in acknowledgement. But again, it was more. A thousand alien impressions were filling Ambrose's mind, linking his thoughts to ineffable ideas and concepts, chipping away at his sanity as he struggled to hold his core together.
+
+He tried to speak, but there was no mechanism for him to make use of. It was only at this point that he realised his arcanic communication had been entirely dependent on a physical frameshift. But here, in oblivion, there was no mouth. Worse, he couldn't even visualise or locate himself, let alone where he should be directing his thoughts in order to communicate.
+
+'No space,' the augera supplied, seamlessly inserting this thought into his consciousness. 'No direction. Just knowing. Just being.'
+
+On some visceral level, it was like being told to breathe underwater. He understood what the augera meant, but the very thought of abandoning all sensation of speech and simply going straight to pure concept-based communication filled him with dread, and it was hard to take the plunge.
+
+'Not total abandonment,' the augera interrupted. 'You are not yet ready. Words still function. But abandon direction. You know the words. That is enough. There is no sending. There is no receiving. The words are all.'
+
+It was still difficult. In theory, he supposed this was not much different from just thinking thoughts to yourself and engaging in an internal conversation. However, on a very fundamental level, he conceived of his of the seat of his thoughts as being in his head. Now that he was in oblivion, with no head to even speak of, he found that the loss of that anchor felt as profound as losing his voice in the real world. And yet he was being told to do the equivalent of speaking.
+
+'You are already speaking.' There was a twinge of reproach to the augera's thoughts now. 'Messy, uncoordinated, noisy. Focus, Jailer.
+
+The augera's words, when they included concepts of space and physical form, helped him orientate a little better.
+
+'A weakness. A crutch. But evidently necessary at this point,' the augera continued.
+
+Almost. Almost. The vaguest sense of how to make it all click was floating tantalisingly close, inches from his metaphysical fingertips.
+
+'This will hurt.'
+
+When he finally arrived at some dim comprehension, the pain came. It was mental and emotional anguish the likes of which he had never known before — a tangle of existential horror as it became clear how alien all of this was, and how far beyond the realm of flesh he had gone. But just as quickly, he slipped right out of his own mind and settled into a disembodied calm.
+
+'You are here,' the augera said, matter-of-factly.
+
+'Yes,' Ambrose finally replied, his mind unclouded. The existential horror nipped at the edges of his psyche, but for now, it was tolerable. 'Why does it hurt?'
+
+'You make it so. You cling to the physical, and in so doing you harm yourself. You will learn in time.'
+
+'Can we go back to the arcanic sea and speak there?'
+
+An extremely convoluted train of thought passed through Ambrose's mind, but the augera modulated it by providing some words. 'No. Our path leads here, so that you may acclimate. To return would be to snap the strings, which neither of us can do. We may stretch them, but only the {~?~} may unmake them.'
+
+'... so this means what happened in the chamber... it was always going to happen?'
+
+There was some anger that came with the reply, now. 'No, Jailer. Put simply, a knot in the string constrains our actions. Coming here is a knot, and so here we are. But before this knot, the string is smooth. What happens in that space will still lead to the knot... but what happens in that space is up to us.'
+
+'Then why does any of it matter?' Ambrose demanded. 'Nothing changes.'
+
+'Chosen One, your path was not merely knotted here and there. It was a braid, knotted end to end, moment to moment, until the {~?~} crossed your path and loosened it. Yet you asked me to tell you what knots were unravelled, even though it would bind you anew. I lost patience with you for squandering that precious line of freedom. Admittedly, it was a poor use of my own.'
+
+Ambrose took a moment to digest this, though he felt his hold on himself slipping ever-so-slightly. He was reminded of what the augera had told him — that their time to speak was going to be limited by his own capabilities. A sense of urgency rose within him now.
+
+'Okay, so a lot of knots were unravelled, and it gave me more freedom. But the knots that remain... if none of the choices in the smooth parts of the thread will unmake those knots, then why do they still matter? Doesn't this still mean I'm waiting for an outside force to unravel them?'
+
+'They matter, Jailer, because it is possible for one knot to unmake another.'
+
+'But you just said—'
+
+'Our actions within a certain range will still lead inexorably to the next knot. But with the freedom you have... if a new knot is formed that does not conform to the greater pattern, then the coming knot, and subsequent ones, may be circumvented or entirely unmade.'
+
+'How do I make new knots?'
+
+'That is a life's learning, and more. The simple answer, for now, Jailer, is that you make them when you choose to.'
+
+'So it means I just... live the way I want. I make my own choices, and by doing that, I make my own new knots?'
+
+'Yes, and no. The knots that exist will draw you to themselves, and so your choices are weighted to bring them to fruition. You must work against that inclination, and it will cost you. The knots are tied to you, and with each unravelled knot, you lose a portion of what is, trading it for what may be as you weave new knots.'
+
+'Where does arcanophany come into this? Why am I here?'
+
+'Because this is where the knots are truly made, Jailer. In the world of flesh, you see the shadows. You cast your shadow against those cast by others, and in so doing you dance around each other, sometimes touching in truth without ever realising. Here, you may weave the threads in truth, and so change the shadows that are cast, without them ever knowing.'
+
+The words were Ambrose's lifeline because each fresh declaration by the augera came with a constellation of interconnected thoughts, emotions, and otherworldly concepts. Ambrose was faced with the fact everything he knew and felt was but a tiny, insignificant mote in a star-spangled galaxy of eldritch knowledge. His hold on himself was rapidly slipping away in light of all these revelations, but he desperately tried to consolidate his sense of self so he could speak with the augera a little longer.
+
+'The Fateweavers. Where are they? What are they doing? How do I hide all this from them?'
+
+'Hide it?' The augera seemed mildly amused. 'It is beyond you for now. Your defence is in their ignorance and inattention. In time, you will see for yourself that they are mortal, and are consequently limited by their own mortal minds.'
+
+'If you augera are all so transcendent... how did they ever manage to shackle you, and then all the other augera?'
+
+He nearly lost himself entirely in the scope of the augera's response. There were no words that came with this to help him navigate through the maelstrom of meaning. At the very last moment, just before he lost his mind to oblivion, the augera shoved him back into the arcanic sea, where he reeled in confusion and pain.
+
+'It was a good question,' the augera rumbled in approval, its presence like a whale floating in the deep, keeping a respectful distance so as not to overwhelm Ambrose, 'but you were not ready for the full knowing. Still, it was a new knot, and one well-formed.
+
+Ambrose was still reeling from the transition back to the arcanic sea and the confusion that came with the augera's response. He drifted, insensate, and ran through the mental exercises he had learnt that would help him calm down and centre his thoughts again.
+
+'You... you still haven't taught me... how to wield my auric-ambient-flare,' Ambrose finally managed to say.
+
+'I have shown you,' the augera replied, surprisingly gentle now. 'When you pierce the veil, you expand your knowledge of your auric-ambient-flare. Sense it.'
+
+The arcanic sea, Ambrose realised, was different to him now. It took him a moment to realise that he was sensing how the arcana moved through him even as he floated in its midst. And when he paid more attention, he realised he could modulate the arcana while it passed through him, sinking his own thoughts and intentions into its fabric so that it took form according to his will. It was like a more precise, refined version of what arcanists did when they shaped arcana by pure focus instead of using sequences.
+
+Without warning, the augera sent a pulse of arcana at him. It wasn't a physical bolt, but Ambrose could tell that if it made contact with him that it would cause terrible damage. Instinctively, he formed a shield around himself and it deflected the attack, much to his surprise.
+
+'Sense it,' the augera repeated, sounding pleased.
+
+The shield was still intact, without even a hairline crack. Fascinated, Ambrose studied it a little more closely and was surprised to find that it wasn't even a shield based on the sequence he was familiar with. It was actually composed of his own auric-ambient-flare.
+
+'What's going on?' he asked, confused.
+
+'Arcana is the wind. Most arcanists form elaborate fans and funnels to direct it. With time, practice, and skill, much can be done. But you, Jailer, are on the path to learning how to be the tempest. What can hope to turn it aside?'
+
+Before Ambrose could ask anything else, he felt himself sliding out of the arcanic sea and into his own body. He fell painfully to his knees, hit by a sudden wave of fatigue and hunger.
+
+'Our time is up,' the augera declared. 'You must leave with your minders, and return to the Six-Chained-Foundations. Mark well what you have learned here, Chosen One. And perhaps you will be more than just another Jailer.'

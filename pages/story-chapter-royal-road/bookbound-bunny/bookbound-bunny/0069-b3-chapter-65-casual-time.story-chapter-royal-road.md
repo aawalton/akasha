@@ -1,0 +1,233 @@
+---
+id: 617d0d10-4c0c-5d57-9305-d3d312adf56e
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 65 - Casual Time"
+slug: 0069-b3-chapter-65-casual-time
+partOf: bookbound-bunny
+position: 69
+ownLength: 2342
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3674477/b3-chapter-65-casual-time"
+royalRoadId: "3674477"
+---
+
+"How hard can it be to find one girl and her parents? Especially considering how tall they are…" Lotte groaned.
+
+The group's attempt at locating Hana had fallen dreadfully short, and it was like the girl had fallen off the face of the planet. Lily had even asked Arakil for help, but he couldn't pick her out from the crowd, even using his far superior Magesight.
+
+"Maybe we will have better luck tomorrow. They have to be watching the dueling tournament, right?" Lily suggested.
+
+"That's probably your best bet," Rose agreed.
+
+"I guess you're right," Lotte finally relented. "I just wonder where they went? Did they go back inside?"
+
+"Maybe they went to talk with the teachers, or the headmaster? Get a progress report on their daughter, that sort of thing?" Rose proposed. "Or do you know if she's in any other competitions or events?"
+
+"Her elective was Sorcerous Warfare," Lily answered.
+
+"Well, that rules out an event," Rose replied. "Unless they want to show off marching, which I really doubt. That class only really gets its chance to shine during the interschool tournaments."
+
+"What do they do?" Lotte asked.
+
+"Sometimes there's wargames, where the schools pit themselves against each other in a big mock battle," Rose explained. "It's great fun, from what I've heard. They usually get the whole school involved, and the students in Sorcerous Warfare get to be the generals, lieutenants, squad leaders, and that sort of thing. Everyone else is just troops."
+
+"That sounds crazy…" Lily said.
+
+"Crazy fun, you mean?" Rose chuckled. "It doesn't happen every year, so I haven't gotten to experience it, but I heard it's one of the biggest events that even the royals come to watch."
+
+"Is it happening this year?" Lotte asked.
+
+"I don't think so," Rose sighed. "I would have heard about it if it were. Maybe next year, if we are lucky."
+
+"Speak for yourself… I probably won't get to participate," Lotte sighed.
+
+"If it's wargames, maybe you can be a quartermaster?" Lily suggested, trying to cheer her friend up.
+
+"She doesn't need to. I heard that the royals use a big magical artifact to control the event, and there's no risk of injuries," Rose explained. "I've been told it's the biggest event where everyone just lets loose, no holds barred. It's where the true strongest of our generation gets decided."
+
+"I think I speak for both of us where we are happy to hand you that title," Lotte said, shaking her head. "Still. If what you're saying is true, maybe I will get a chance to participate."
+
+"I can't even imagine poison magic on a battlefield…" Rose commented. "I might need a bigger fireball."
+
+"What, are you going to drop a sun on them?" Lotte joked.
+
+"No, but maybe my sister will," Rose joked back. "She is our star mage after all."
+
+"Astral!" Lily whined.
+
+Lotte and Rose giggled at Lily's pouting, and the three continued to chat aimlessly as they walked around. That was until Lotte suddenly froze up and stared off in the distance.
+
+"Dad!?"
+
+Lily turned to face and saw who Lotte was talking about. He was pretty average-looking, with a sturdy build, an angular face with some stubble, and messy raven-black hair and brownish-gold eyes, far duller than Lotte's striking gleam. If not for the short, thin, black-scaled tail, Lily would have thought he was a human, as he seemed to have very thin Serpia blood. What was odd, though, was that he looked exceptionally healthy compared to Lotte.
+
+"Lotte!" the man said, quickly approaching them and grabbing his daughter into a tight hug. "You look so much better. I knew Regarth would solve your problems. Look at you!"
+
+"Look at me? Look at you! What are you doing here?" Lotte asked, a smile erupting on her face.
+
+"I had to come see you, since I wasn't sure if you were going to come home at the end of the year or not. I used the excuse that it was a business trip, so as long as I take back enough stock, it should all work out."
+
+"I see… Well, I'm glad," Lotte admitted.
+
+The man nodded happily, and after they released each other from their hugs, he finally noticed the other two present. "Hello, are you two of Lotte's friends?"
+
+"Oh, right, let me introduce you," Lotte quickly said, snapping back to reality. "This is Lily, she's my classmate and kind of my best friend here in Regarth. This is Rose, her older sister."
+
+"Name's Reiner, nice to meet the two of you," he said with a nod. "I hope Lotte hasn't caused too much trouble. Thank you for looking out for her."
+
+"Nice to meet you, sir," Lily replied politely. "And no, there haven't been any issues. Lotte has helped me just as much as I've helped her."
+
+"I don't know if I'd go that far…" Lotte said awkwardly.
+
+"Nice to meet you," Rose quickly chimed in with a wave.
+
+"You can drop the sir, just Reiner is fine, I'm only a merchant," he chuckled.
+
+"Yeah, if not for my bloodline, I wouldn't be in a school as prestigious as Regarth," Lotte explained.
+
+"It's been both a blessing and a curse…" Reiner sighed, a trace of conflict on his face.
+
+"I mean, we are both from an orphanage, so without our bloodlines, we wouldn't be here either," Rose chuckled.
+
+"Oh, I'm sorry," Reiner quickly said, looking a bit awkward. "I just assumed, well, with you being a Dragia…"
+
+Rose shook her head. "Don't worry about it. I'm just saying it's not only rich people here."
+
+"I see… Well, I'm glad my little girl has finally found some good friends," he said with genuine relief on his face.
+
+"Hey, I'm not that socially inept," Lotte protested.
+
+"Your mother always said if you dropped the creepy act, you'd be quite the social butterfly," Reiner pointed out.
+
+"Don't bring mom into this… Jeez…"
+
+Lily and Rose shared a giggle at Lotte's expense. It was nice seeing her so happy, and it looked like her father really cared about her, which was good to see.
+
+"If you had come a bit earlier, you might have seen me take part in the alchemy competition," Lotte said, giving her dad a punch on the shoulder.
+
+"Ah! I had no idea. I wish you had told me."
+
+"Do you not send letters home?" Lily asked.
+
+"Uh…" Lotte groaned, scratching her cheek awkwardly.
+
+"No, she doesn't," Reiner answered.
+
+Lily frowned at her friend.
+
+"Look… It's hard to write a letter, I don't know what to say. Plus with lessons, alchemy, the dungeon… Things are busy," Lotte replied.
+
+"See, it's not just me who struggled with letters," Rose said, jumping on the opportunity.
+
+Lily's frown found a new target as she playfully glared at Rose. The fact that she had only sent one very confusing letter because of the censorship was still something Lily held a minor grudge about.
+
+Reiner sighed. "I don't expect a novel, just some words knowing you are doing alright. How's your health been? Any flare-ups?"
+
+"No, nothing recently. Ever since I gained access to the second floor of the dungeon, things have been perfectly under control. Even before then, Lily had some herbal remedies for the flu or anything that might have put me at risk."
+
+Lily caught the flash of relief in Reiner's eyes. "I see… That's good. Very good," he turned to Lily and gave a smile filled with genuine gratitude. "Thank you for looking after my girl."
+
+"Umm… No problem. That's what friends do," Lily said, feeling a little awkward about suddenly being put on the spot.
+
+Rose linked arms with Lily and then made a proposition. "Why don't you show your dad around a bit. I'm sure you can lead him to some good items to sell for his business."
+
+"Hey, no need to ruin your plans for me," he quickly tried to refute.
+
+"It's okay, I get to spend some bonding time with my sister," Rose insisted. "You two should catch up."
+
+"Make up for the letter you didn't write," Lily said.
+
+Lotte chuckled awkwardly and turned to her dad. "Sorry, I should have said something. I kind of forgot, with all the fun I've been having."
+
+"It's okay, I'm glad to hear you are doing well. I would really like to hear about everything that's happened," Reiner admitted.
+
+"Great, sounds like it's settled then," Rose said, pulling on Lily.
+
+Lotte sighed and finally agreed. "Okay, Dad, let's walk and talk."
+
+Reiner immediately brightened up; evidently, he really wanted to spend some time with her. He turned to Lily and Rose, "It was nice meeting you two, maybe we will see each other tomorrow."
+
+"Definitely, these two are in the dungeon competition together," Rose pointed out.
+
+"I'm glad someone told me about it," he chuckled.
+
+"I was planning on doing it," Lotte grumbled. "Plus, it's not like you can watch the dungeon competition. It's just a scoreboard…"
+
+With a bit of a goodbye tour, the four eventually departed into two separate pairs. Lily was glad to see Lotte so happy with her father, who had come all the way out here. She hoped they would spend enough time catching up and easing his worry about her condition.
+
+"Did you tell Margit and Camilla about the festival?" Rose suddenly asked.
+
+"I did, but…"
+
+"Yeah… I don't know if they can afford it. Both time and money."
+
+"Did you tell Lady Desthu?"
+
+"Her!? Never!" Rose swiftly rejected it.
+
+Lily couldn't help but giggle at the adamant refusal. It seemed even with the trip they took together, Rose wanted nothing to do with the woman.
+
+The two of them spent some quality sister time together, doing their own bit of catching up and eventually finding a quiet spot to rest for a slightly more private conversation. Arakil was brought in, and together the trio discussed recent progress and the next steps for Lily.
+
+Neither Lily nor Arakil informed Rose about the belief plan, but they did mention that her focus was currently on glyphs and inscriptions rather than anything else. Rose wanted to help, but sadly, this was an area she couldn't offer anything beyond moral support.
+
+Naturally, Lily took the opportunity to try to pry some secrets out of Rose, but the girl stubbornly refused. Lily was hoping to find out about conquering the second floor, or what the third floor entailed, but Rose remained adamant.
+
+"I nearly got in big trouble for the secret-room thing, I don't want Alice revoking my access or worse," Rose said.
+
+"Damn, your tutor must be working overtime, it's usually easy to get you to spill the beans," Lily joked.
+
+Rose coughed awkwardly. "Please don't push… I just know I'll screw up eventually and get the blame."
+
+"Sorry, sorry… I'm just very curious after the whole alchemy competition."
+
+"All I can say is that those two potions are very useful," Rose stated, trying her best to remain firm.
+
+"Hopefully, I will find the way out of the second floor soon," Lily sighed. "Although that's assuming we do have access to the third. But I might want to progress more on glyphs before I even think about that…"
+
+"Mmm… The third floor is a bit trickier than the second," Rose admitted, still holding her tongue. "As for the second floor, don't worry about it, I'm sure you'll figure it out."
+
+[Especially if you learn to control your flight inscription better.]
+
+"I'd rather not…"
+
+"Wait… Did I read wrong, or did he write flight?" Rose asked.
+
+"Oh… Um…" Lily mumbled awkwardly.
+
+"You can fly?" Rose whispered.
+
+"Not exactly…"
+
+[It's closer to lunging at the moment, unless Lily decides to finally go a bit higher.]
+
+"Arakil!" Lily hissed.
+
+Rose looked at her with a strange glint in her eyes. "I'm supposed to be the one with wings…"
+
+"It's really not flying," Lily further denied it.
+
+"I want to see it," Rose insisted.
+
+[That's a good idea. Perhaps you could offer Lily some pointers, or at the very least give her a boost of courage.]
+
+"I'd love that."
+
+"Don't gang up on me…" Lily whined. "There's nothing wrong with wanting to keep my feet firmly on the ground."
+
+"So it is flying."
+
+"It's not!"
+
+The back-and-forth continued for some time until Lily eventually agreed to spend a free day with Rose on the second floor and let her witness this "not flying" firsthand. To Lily's dismay, Arakil appeared to stoke the flames further by saying that with the aid of some inscriptions, perhaps they could help Rose with her own flight.
+
+Rather than a casual stoking of the flames, it instantly turned it into a raging inferno, and Rose was now infatuated with the idea. She firmly believed that if she experienced it once or twice, she would have enough of an idea to handle it herself, but she'd been unable to find someone proficient enough who would be willing.
+
+Personal flying with magic was a risky endeavor, and casting it on someone else only further compounded that risk, especially if they ended up going out of range. Yet, with inscriptions, that risk could be significantly reduced as they always performed to their exact specifications.
+
+Lily couldn't help but feel that letting the two of them talk was a mistake, and wondered how much worse it might get if Arakil could talk to others without needing to write it down. She knew it was probably for her own good, like a bird being kicked out of the nest, but she still wasn't happy about it.
+
+At least he had the sense to not tell her about the "flying" we already did with Hana. If Rose heard about that, I think she'd burn with jealousy.
+
+And that was how the first day of the festival eventually came to a close. Other than the alchemy competition, it was a relatively quiet day, which Lily ended up actually enjoying. It was nice to take a break, even though her heart really wanted to keep working.

@@ -1,0 +1,115 @@
+---
+id: 9255b5bf-de19-530e-a4b3-3cdbda724627
+page-type-slug: story-chapter-royal-road
+title: "139. Unchosen Paths"
+slug: 0139-139-unchosen-paths
+partOf: breaker-of-horizons
+position: 139
+ownLength: 2105
+unit: words
+publishedAt: 2021-08-30
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/742394/139-unchosen-paths"
+royalRoadId: "742394"
+---
+
+The three of them stood there and continued staring at the utterly alien phenomenon in the sky, disturbed and sickened by the sight of the bodyparts orbiting it, but somehow still unable to really stop themselves from looking helplessly on. There was a strange sort of magnetism at work that constantly drew their gaze to it, as if these twin holes in the arcanic sea were crying out and demanding to be acknowledged.
+
+It was becoming increasingly clear that there was some powerful compulsion at work. Devon started tearing up as he tried and failed to turn away from the horrifying sight. He managed to throw himself to the ground and press his face to the earth, but a moment later he was involuntarily craning his neck upwards so he could continue looking. Jerric threw an opaque shield between them and those holes in the sky, which hid the terrible sight from view, although they still found themselves being drawn to stare in that direction.
+
+"What did you do?" Jerric demanded, glancing sideways at Ambrose.
+
+"I didn't know what else to do!" Ambrose shot back, not quite answering the question. "I couldn't get a fix on their auric-ambient-flares, and I had no way of knowing if ordinary attacks would—"
+
+"How do we make it stop? You need to tell us what you did so we can figure it out!" Jerric pressed, as he tried and failed once again to stop staring in that direction.
+
+"I... the arcanic sea... I think I punched two holes through it. But... but it was just a frameshifted shield-piercing sequence! I had no idea—"
+
+Devon managed to shoot a terrified look at Ambrose before his eyes were forced again to that spot. "You ripped the arcanic sea itself?" He let out a strange noise that was halfway between a mad bark of laughter and a sob.
+
+Jerric spoke with forced calmness. "Okay, I'm going to assume we can't fix it. But maybe we can mitigate its effect on us so we're not stuck here staring at it. Ambrose, what if you try veiling our auric-ambient-flares?"
+
+Devon flinched at that suggestion. "Y-you want him to make contact with us?"
+
+"Just to veil us again like he did before. And that's all he'll be doing," Jerric answered to reassure Devon, though there was a note of warning in his voice directed at Ambrose.
+
+Ambrose nodded, even though he wasn't sure if either of them were looking at him. He was momentarily distracted by the theory behind Jerric's proposal, and he wasted a second wondering if Jerric's mind had indeed worked that quickly, or if this was just an uninformed request. Regardless, it was a sound suggestion. The holes were in the arcanic sea, so it stood to reason that veiling their auric-ambient-flares and pushing them into oblivion would help them sidestep this strange effect.
+
+He reached out and made contact with Devon and Jerric. Jerric submitted to the touch with a sense of resignation, but Devon was grappling with so much fear and disgust that he was bleeding all that emotion into the space, making it difficult for Ambrose to get a proper hold of him.
+
+'Dev!' They could all sense Jerric was forcing down his own mix of emotions which were just as potent as Devon's. However, he was managing to keep his mind sufficiently focused. He projected that sense of determined calm, trying to pull Devon into its soothing atmosphere. 'Dev, breathe. Breathe, and get a grip.'
+
+With agonising slowness, the whirling mass of confused emotion settled down, leaving Devon's auric-ambient-flare clearer and more discernible. Ambrose took hold as gently as he could.
+
+'Ready?' he asked.
+
+The other two communicated their assent wordlessly. Ambrose performed the now-familiar twisting in on himself and—
+
+—they all spasmed in confusion and discomfort, suddenly adrift in the arcanic sea, their minds drawn towards the twin holes that gaped at them with an awful emptiness.
+
+"I can't," Ambrose said through gritted teeth, easing himself out of the arcanic sea as well. The headache that had come on after casting his modified sequence was now so bad that he could barely follow his own thoughts.
+
+And then, all at once, they were free. Jerric turned around with a gasp of surprise as he found himself finally able to avert his eyes and his shield dissipated. Devon let out a sob of relief as he propped himself up while making sure to keep his face turned away from that horrid sight in the sky. Ambrose, however, kept looking, partly because his head hurt too much for him to really be bothered by what he was seeing, and also partly because he wasn't that disturbed by it in the first place.
+
+"Caden!" Devon cried out, his voice breaking.
+
+Ambrose spun around and blinked away the tears that had formed because of the headache. Sure enough, Caden had just landed a few feet away, with the twins, and—
+
+"Emilia!" Jerric yelled in relief.
+
+"That was you, wasn't it?" Caden asked quietly as he came up to Ambrose and nodded up at the sky.
+
+"Yes," Ambrose answered, glancing up at what he had done before turning back to Caden. It was hard to be sure through the headache, but it no longer felt like he was being forced to look at those two holes in the sky. He blinked at Devon and Jerric, who were even now exchanging relieved greetings with the others before hurrying back to the trailer. None of them were under the compulsion that had held them in thrall only moments earlier.
+
+"Yeah, that's my doing," Caden said, apparently in answer to the unasked question on Ambrose's mind. "Long story best left for later. We shouldn't stay here."
+
+Caden thumped him on the back in a friendly gesture as he went after the rest, but the light impact sent tendrils of pain racing through Ambrose's skull. Something warm trickled from his nose and past his mouth. He wiped it off, but his hand came away red.
+
+"Oh," he said lamely, staring at the blood. He coughed, and now he tasted it in his throat.
+
+"What?" Caden glanced behind just in time to see Ambrose falling backwards. Without thinking, Caden arrested his fall with a cushion of arcana and propped him up, but he wasn't quite prepared to take all of his weight. Ambrose sank slowly to the ground just as Caden reached him.
+
+"Shit," he cursed, half his attention on higher planes where he was helping to keep the others free from the compulsion to stare into the wounds in the arcanic sea. "Guys!" he called. "Help me get Ambrose back into the trailer!"
+
+Devon had already put himself back in the driver's seat and made no move to help, while Jerric hesitated for just a moment. By the time he started moving, the twins had already answered Caden's call and hoisted Ambrose up between the two of them. Emilia held the side door open as they hurried inside, with Caden bringing up the rear. As soon as everyone was in, Devon started driving.
+
+"What happened to him?" Kevan asked as they laid Ambrose down on his bunk, staring aghast at the blood that had poured out of Ambrose's nostrils and soaked the lower half of his face.
+
+"Looks like really bad overdraw," Jerric answered, rummaging through some cabinets and coming over with medical supplies. Quickly and efficiently, he cleaned away enough of the blood to work, and once he determined which nostril was still bleeding, he proceeded to perform a quick nasal packing.
+
+By Caden's reckoning, Jerric's assessment was only half-right. Ambrose's auric-ambient-flare did seem to be exhibiting some overdraw stress — certainly enough to put any one of the others in a severe state — but it seemed to Caden to be well within Ambrose's ability to manage. After all, Ambrose probably had the ability to channel more arcana than all of them combined, minus Caden. No, something else had happened, which had made it too difficult for Ambrose to deal with the overdraw. But he couldn't even begin to help Ambrose while shielding everyone from the effects of those twin holes in the sky.
+
+"Emilia." Caden's voice was a little strained as he turned to her. "Can you hold everyone steady while I see if I can help Ambrose?"
+
+Her eyebrows lifted ever-so-slightly. "You want me to try? Can we risk it?"
+
+He looked down at Ambrose, whose face had become very pale. His breathing was laboured, and his throat gurgled slightly with each breath. "I think we have to. And I think you'll manage."
+
+"Hold everyone steady?" Jerric asked, mystified. "What do—"
+
+Caden, Devon, Jerric, and the twins all shuddered in unison as something very palpably grabbed ahold of their auric-ambient-flares. It was particularly disconcerting for everyone except Caden, because they had never been handled like that before. Emilia was interacting with them on higher dimensions. But after that initial moment of extreme discomfort, their sense of it faded, leaving them feeling slightly uneasy without really knowing why.
+
+"Could be gentler, but not bad," Caden said, wincing. He sat on the floor next to Ambrose's bunk and laid a hand on his chest. Physical contact wasn't necessary, but Caden wanted an easy point of reference. There was no point making things harder than they needed to be.
+
+"Can someone explain?" Jerric asked, looking from Caden to Emilia to the twins.
+
+"You'll have to ask them," Lynus answered wryly, nodding at Caden and Emilia. "After Caden got Emilia out from oblivion, the two of them have been doing some seriously weird stuff. They were going to explain it to us, but then suddenly Caden dragged us along with him, and next thing we know, we see two holes in the sky. Couldn't look away at first, then Caden did something so we weren't stuck looking at it, but he kept pushing us to get here as quickly as we could. I'm glad we bumped into you guys and not into some other weirder, more horrifying shit."
+
+"Emilia was in oblivion?" Jerric gaped at her.
+
+"Right," Lynus nodded. "That's, uh, another long story."
+
+While he launched into an explanation, with Kevan added in some details, Caden blocked out all the noise and focused only on the flow of arcana within himself, and within Ambrose. The erratic pulsing of Ambrose's auric-ambient-flare was getting worse as the overdraw became more severe, so Caden tended to that first.
+
+He couldn't help but reflect on how far he had come since his first few weeks in the Academy, when overdrawing had seemed like a terrible danger. It was certainly still something to be careful about, but it felt rather strange to realise now that as an arcanist, he never needed to fear dying from overdraw ever again. And he could save others from it, too. All because he had set out to save Emilia, and been transformed in her place.
+
+Under Caden's guiding influence, Ambrose's auric-ambient-flare settled enough for him to finally sense the real problem. But it wasn't quite possible for him to see it here, so he carefully folded his mind like the augera had taught him to, and he peered into oblivion while remaining within the arcanic sea.
+
+Right on the boundary where Ambrose's auric-ambient-flare rested between oblivion and the arcanic sea, there was a terrible gash. Whatever sequence Ambrose had used had not worked properly. Or perhaps it had been designed that way. Whatever it was, the same thing that he had done to the arcanic sea itself out there in the sky had been done in miniature to his own auric-ambient-flare, and the damage had occurred in dimensions that few arcanists, if any, even knew of, let alone really understood.
+
+Was it really just cosmic chance and happenstance that Caden was here, at this very moment in time, perfectly placed to stitch together a part of the Chosen One, and so recently armed with the knowledge of how to do so?
+
+Caden's brow furrowed. The augera were playing games with him and with the Fateweavers. But as he started the work of repairing the damage Ambrose had done to himself, Caden thought that even if that were the case, he would much rather deal with the augera, because at least they respected his automony enough to attempt to win him over.
+
+At the back of his mind, a rebellious idea took root, and he hesitated ever-so-slightly.
+
+With the Chosen One laid so defencelessly before him like this... wouldn't it be foolish not to take the opportunity to steer things his way, just a little?

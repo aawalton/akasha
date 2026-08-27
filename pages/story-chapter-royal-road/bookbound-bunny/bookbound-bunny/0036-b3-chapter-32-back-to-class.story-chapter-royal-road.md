@@ -1,0 +1,111 @@
+---
+id: f0927f25-3a51-51d6-ac98-c85d235a2249
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 32 - Back to Class"
+slug: 0036-b3-chapter-32-back-to-class
+partOf: bookbound-bunny
+position: 36
+ownLength: 2044
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3299525/b3-chapter-32-back-to-class"
+royalRoadId: "3299525"
+---
+
+Having the first class of the week start with Dungeon Studies made it sort of feel like the camping trip hadn't concluded yet. Which was technically true, as the results had yet to be announced. The students shifted in their seats with anticipation, and whispers buzzed throughout the room.
+
+Lily and her team, however, were the exception, as they felt that the treasures they'd found meant their victory was in the bag. At first, they were casually chatting, but when Thomas reminded them of Alice's warning, they turned their attention to the rest of the class.
+
+Now that they'd officially met, Lily quickly located Clarissa, Frederick, Garet, and Wallace. The latter two were seated at the back and appeared to be good friends, judging by the happy expressions on their faces. That just left the noble and her butler, who appeared to be disregarding the rest of the class; in fact, the seats around them were empty as if creating an invisible barrier.
+
+Unfortunately for Lily, while she could glance around at other students, she had no idea what they were capable of. Sure, she could make some educated guesses based on whether they were human or not, or on the type of demi they were, but with how wild some of the bloodlines were, that could be entirely wrong.
+
+Since Lily wasn't confident in her own evaluations, she turned to the one person who might have the answers.
+
+{Arakil, I don't suppose you have any way of judging any students with potential?}
+
+[I can tell you which ones have more Mana than usual, although I will admit that everyone in this classroom seems to be above the norm.]
+
+{Above the norm compared to…?}
+
+[The other children at the orphanage. Remember, we restored my sight before you left for Regarth, and I had the chance to do some minor evaluations of the world's situation and a very small sample size of its inhabitants. Having said that, everyone here easily doubles the Mana capacity of the average child at the orphanage.]
+
+{Including me?}
+
+[The you from back then? Yes. Now? Not a chance; you've been steadily growing your Mana Core each and every day, even if it's only by mere fractions. Speaking of which, when we completed the Familiar bond, I could also more accurately evaluate your Mana Core, and the camping trip has been highly beneficial for your growth.]
+
+Lily beamed with pride, as she'd been making it a habit to continue working on it. Yes, a lot of it was done passively now, thanks to Arakil's teachings of keeping her Mana Core spinning unconsciously. Still, she would routinely make the effort to do it manually when she had moments to herself, which had a stronger effect and, on the camping trip, was almost a requirement.
+
+The Mana in the dungeon was abnormally abundant yet filthy, and Lily had to purify it with great effort before she would allow it to refine her Mana Core. She refused to let her silvery moon be contaminated, as it was growing brighter and brighter as she progressed. Thus, while her passive gathering was diminished during the time, her active gathering had been boosted enough to more than make up for it.
+
+{What about Rose and Theo?}
+
+[Theo actually had rather poor Mana capacity, but his efficiency was extreme, so it was deceptive from casual observation. This is why I don't put much stock in judging solely on capacity. Your friend Thomas is another example of this. Compared to the demis in your class, he is below average, but his effort makes up for it. Although compared to the orphanage, Thomas would still be considered well above average.
+
+As for Rose… Well, you could say she has exceeded all expectations. Before she left the orphanage, her capacity alone was already nearly double that of the best in your class, and now, after a full year in Regarth, that has only continued to grow.]
+
+Lily sighed. {At this rate, I'll never catch up…}
+
+[In terms of personal capacity, perhaps that is true… But with your drawings, you have the potential to even leave naturals like Rose overwhelmed. For example, should you gain a proper understanding of the required auxiliary glyphs and create inscriptions that can gather and purify the Mana in the dungeon, you would effectively have boundless resources.]
+
+Lily was delighted, and having seen what Arakil could do with glyphs, even in her body, she fully believed him. While she loved her wand, she knew it was basically a handicap and dreamed of being able to draw without it.
+
+[There's also another hidden factor to take into account— Familiars. If you recall, the main reason Regarth has its students cultivate Familiars is to be another form of Mana growth. Most of the students are keeping their Familiars dismissed for convenience. Still, if I assume they are not slacking on nurturing them, then they could have up to double their original capacity hidden away.]
+
+{Up to double? Is that the limit?}
+
+[Per the Familiar contract, they can't have more Mana than their master. It's a good thing that while sealed in my grimoire, I don't have my original capacity, or we would never have been able to establish the bond without significantly modifying the original ritual.]
+
+It was a sore point, but Lily agreed. If Arakil had his original Mana, a lot of their previous issues would have been easily resolved, but then there was also the chance that he wouldn't have even needed her help. They were also in the unique predicament that, in terms of Familiars, Lily wouldn't dream of using any of the Mana she gave to Arakil—that was a precious resource!
+
+If the ratio were better, maybe they'd consider it, but at present, she would donate a bucket, and Arakil would only receive a drop, as the seal would siphon off the majority. Lily was still extremely dismayed that the savings they had gathered through blood, sweat, and tears had been almost entirely spent because of the dungeon breaking the rules.
+
+Lily wanted to talk more to Arakil, but Alice arrived, so she needed to pay attention. She wasn't the best at talking in secret with him, and Rose had pointed out that Lily "gets a strange look on her face" when they were conversing. With Alice's keen senses, she'd spot it in a heartbeat and, more than likely, reprimand her or even throw a piece of chalk at her.
+
+"Well, well, well. With everyone here so bright and early, I'm going to assume that you're all fully recovered and ready to learn and be pushed. Your other teachers are chomping at the bit, so they'll be glad to hear they don't need to hold back," Alice said with a glint in her eye.
+
+A few students were brave enough to groan, but when she glanced their way, they quickly sealed any complaints in their hearts. Alice strutted to the front of the class and then slapped her desk, a big grin on her face.
+
+"First of all, congrats to all of you. Not a single team failed to meet the minimum requirements!"
+
+Smiles erupted on the students' faces.
+
+"That means all of you are now qualified to explore the first floor of the dungeon, although with certain restrictions in place that I'll go over shortly."
+
+Now, the students were struggling to hold back their celebrations as their previously silent joy turned into a slightly noisy excitement. Yet, this time, Alice didn't scold them for making a noise.
+
+"But before all of that, we need to announce the winners. I had the other professors review your submissions and tally the results. No matter the rankings, all of you should be proud, and I think Regarth will be opening a lot of eyes this year."
+
+Alice then went through announcing the results, and apparently, to build anticipation, she started from the bottom rather than the top. It was almost like a bit of reverse dread, as you didn't want to be called out sooner, and evidently, she was enjoying this bit of mischievous mental torture.
+
+Thankfully, Alice was quite thorough in her explanations, as some of the students couldn't understand why they had placed lower despite staying longer than some of their peers, and it almost always came down to the resources they gathered. Lily could've sworn there might have been some secret points awarded for other accomplishments, such as their camp setups, monsters defeated, or whatever else was discovered from their secret spying.
+
+The groups would groan when they were called out, while others would celebrate that they hadn't been called out yet. Still, regardless of all that, Alice made sure to emphasize that they had done well. She also told the teams that they could reclaim their resources from the office outside the dungeon or, alternatively, sell them to the school at a bulk price.
+
+Not everyone wanted to play merchant, crafter, or otherwise, so the school would handle that by selling or donating the resources for other classes. Alchemy was a given, but even Beast Handling wanted some of them for creatures that had extremely particular dietary requirements.
+
+Not to mention, since the second floor was famous for its plantlife, Thaumaturgical Agriculture was always hungry for more, in an effort to regrow them outside the dungeon. Rose had mentioned that plants found in the dungeon can only be regrown for a brief time before they wither and die, so they were always in demand. She even asked Lily to let her have a gander at what her group scrounged up, offering to buy it at a good price.
+
+Eventually, Alice reached the top three, and the anticipation was palpable. Lily was still confident her group had gotten first, but it looked like Hana and Arthur were both nervous about their result. They had found a magic item of their own, but was it enough to outdo the abundant resources the other team had gathered?
+
+Alice was milking the situation, and Lily had no doubt she was loving every moment of it. So when she opened her mouth and didn't announce a student's name from one of the teams, it felt like cold water being thrown into the room.
+
+"Before I announce the top three, I just want to let the rest of you know what you're dealing with, since I think some of you aren't aware of the full picture. I say this not to dismay you, but to hopefully light a fire under your butts and get you to strive further," Alice said and waited for the other students to let it sink in.
+
+"All three had to be asked to collectively forfeit, as none of them were willing to give up. All of them were prepared to go the full distance; they probably could have lived down there for weeks, if not months. With the rest of you, many of you could and should have prepared more. Others were wasteful, or didn't gather enough to replenish your diminishing stocks, so despite wanting to stay longer, you couldn't."
+
+Alice then smirked. "Also, none of you were brave enough to taste monster meat. I would have given bonus points to any team desperate enough to survive another day by forcing that into their stomachs."
+
+The students paled at that suggestion.
+
+"So remember these nine faces, these are the students you should aim to beat, and maybe in the next test you or your group will be number one."
+
+Even Lily had to admit that Alice had a strange way of motivating the students. It was a bizarre mixture of encouragement after knocking them down, while also giving them a clear target to strive for.
+
+"Without further ado, in third place we have… Hana, Wallace, Arthur!"
+
+"Damnit, really!?" Arthur shouted, almost punching his desk.
+
+Hana took it better but also looked dismayed. Wallace, on the other hand, laughed it off and gave Grant a friendly punch on the shoulder.
+
+Lily herself was astonished, as she really believed the Zephyrix team would claim second place. However, what worried her was the smirk she noticed on Clarissa's face, and suddenly she realized that her role as Rose's gatekeeper might be more pressure than she had thought.

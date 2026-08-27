@@ -1,0 +1,199 @@
+---
+id: dd72c390-280d-5a4d-b0a9-4dcb49c0b85b
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 34 - Sight"
+slug: 0038-b3-chapter-34-sight
+partOf: bookbound-bunny
+position: 38
+ownLength: 2155
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3327850/b3-chapter-34-sight"
+royalRoadId: "3327850"
+---
+
+"Is something wrong, Professor?" Thomas asked.
+
+Professor Elius shook his head. "Nothing wrong, in fact, you three are doing astonishingly well. But the headmaster wishes to speak to you."
+
+Headmaster Fabrelis gave a soft smile as if he was amused by the whole situation. Lily felt like she was on the edge of her toes while her two partners in crime had no idea what was going on.
+
+"No need to be so tense," Fabrelis said. "It's nothing serious, more of a personal request."
+
+The three nodded in unison, and the headmaster gestured for them to follow him. Elius gave them one last glance but returned to continuing the lesson with the other students.
+
+Once they were out of earshot of Elius, the headmaster finally broke the ice.
+
+"I take it you three can see through these minor illusions?"
+
+As if admitting their guilt, the group either shifted uncomfortably or gulped dryly. Yet the headmaster didn't look mad; he seemed pleased, despite none of them answering his question.
+
+"I noticed Lily's odd reaction during the gauntlet. At first, I thought nothing of it, but then, during the camping trip, Lotte attacked one of my eyes. If that wasn't proof enough, now all three of you are unaffected by the magical training array," Fabrelis revealed.
+
+"Are we in trouble?" Lotte asked.
+
+"Not at all. I'd just ask that during your lessons you refrain from using this method, assuming you can actually turn it off?" he asked, raising a curious eyebrow.
+
+The three nodded.
+
+"That's a relief," the headmaster sighed. "I surmised it was a technique rather than a bloodline ability, considering that Thomas could also learn it. If the two of you had a permanent bloodline ability, we would need to rethink your education."
+
+"That's happened before?" Lily asked.
+
+"Not too often, but enough that we've devised a few ways to get around it. They're just… Costly," Fabrelis replied.
+
+"Costly in what way?" Thomas asked, his eyes sparkling with curiosity.
+
+"Mana, in simple terms," Fabrelis answered. "Assuming the ability isn't too powerful, you just need to employ stronger illusions to deceive it. This magical array is actually on the cheap side, considering it needs to produce enough illusions for an entire class, yet that leaves it easy to unravel."
+
+"That makes sense…" Thomas murmured.
+
+Fabrelis then turned to Lily. "I'm assuming you're the origin of this technique."
+
+Lily hesitantly nodded.
+
+"Is it a glyph? Or an alchemical solution?" the headmaster asked curiously.
+
+[No need to hide it from him. I've actually got a page prepared that you can show him.]
+
+Upon hearing Arakil's consent, Lily felt relieved and answered, "It's neither of those."
+
+Surprise flashed across Fabrelis' face. "Really? It seems like I've lost another bet… Can you share what it is?"
+
+[It's a Mana shaping technique.]
+
+"It's a Mana shaping technique," Lily repeated.
+
+Fabrelis' pupils dilated for a brief moment. "Mana shaping… At this young age?"
+
+"We've already learnt to focus our Mana, this seemed like a natural progression to me," Thomas commented. Rather than helping Lily avoid suspicion, he seemed genuinely intrigued.
+
+"I suppose that's one way to look at it…" Fabrelis chuckled while he took the opportunity to ponder. "You're in Professor Melina's class, so I suppose you've already been working hard on your control."
+
+"I'm not in that class, and also didn't find it that hard," Lotte chimed in.
+
+Lily silently winced, hiding the small needle that stabbed at her heart. It had taken her far too long to learn Magesight, and now both of her friends had called it easy. Yes, deep down, she knew it was thanks to her effort and guidance, especially with the help of a modeled diagram, but it still stung.
+
+Fabrelis adjusted his spectacles as he hummed. "But if I'm not mistaken, your bloodline gives you tremendous control over your Mana, correct?"
+
+"I suppose," Lotte answered.
+
+The headmaster seemed to already accept that as the reason and turned his attention back to Lily. "I guess the question is, where did you learn such a technique? Did some old monster teach you?"
+
+Arakil let out an awkward cough. Thankfully, only Lily could hear it.
+
+"I found it in my book," Lily answered.
+
+Fabrelis' eyes sparkled as he looked at the floating grimoire. "I see… That was an artifact found in a dungeon, correct?"
+
+Lily nodded. That was no secret, and far too many people knew where it had originally come from. Plus, nobody but her could open it, and with her 'Familiar' possessing it, they were effectively inseparable.
+
+"May I see it?" Fabrelis politely asked.
+
+"Alright," Lily agreed. "Arakil, come here."
+
+She gestured toward the grimoire, and it floated toward her. She pried open the cover, as if unsealing it, and the pages began to flutter through, eventually stopping on a specific illustration. Lily noticed it was very similar to the ones Arakil had drawn for her originally, except without all the extra notes and hints that he'd given along the way. This gave it the appearance of a more official teaching, rather than personalized for her.
+
+Seeing nothing wrong with what Arakil had written, she turned the book around so the cover was facing her and held it out towards the headmaster. Fabrelis' surprise was easily noticed, and he seemed to be engrossed in scrutinizing what was written and illustrated.
+
+At the same time, Lily's two friends couldn't help but look as well, and the confusion on their faces was evident.
+
+"You… Actually learnt it from this?" Thomas asked.
+
+Lily nodded.
+
+"Wow, I'm glad I had you to teach me instead," Lotte freely admitted.
+
+Lily could only smile awkwardly, although she was glad to have some vindication over her previous efforts. Nothing was technically wrong with Arakil's written descriptions or his illustrations, but unless you could somehow translate 2D to 3D in your mind, it would be a struggle. Not to mention understanding what a lens was.
+
+"If I'm understanding this correctly, it just allows you to see Mana?" the headmaster asked.
+
+"Yes, you can just see auras of Mana on people or objects," Lily answered.
+
+Fabrelis sighed, looking a little conflicted. "To think such a simple trick is enough to counter my illusions. I know they are relatively simple ones, but I've never had a group of first years so effortlessly defeat them."
+
+"Am I in trouble?" Lily asked.
+
+The headmaster quickly shook his head. "No, but I would ask that you not share this with too many students, or it might make things annoyingly complicated on my end. I'd also ask that you refrain from using this technique during lessons, as while you will seize a quick victory, you won't learn anything."
+
+"We can do that," Thomas quickly replied.
+
+"Not like I have any chance of teaching anyone," Lotte added. "Trying to describe a lens without the picture to help would be a nightmare."
+
+"I'm surprised you managed to learn this… 'Magesight' from a book without a formal teacher, your comprehension is impressive," Fabrelis said.
+
+[While he's technically wrong since I'm your teacher, the observation is correct. Not everyone could have comprehended it from the recreated text, and without a guiding hand and voice.]
+
+"Thank you," Lily replied to both of them.
+
+"Tell me, does this artifact hold similar texts?" Fabrelis asked. "I assume this is where your background in glyphs came from."
+
+Lily very nearly jumped out of her skin from that, even though Fabrelis was just connecting the dots and she should have expected it. Thankfully, Arakil came to the rescue before she stammered out a terrible response.
+
+[It does, but it looks like most of them are sealed or damaged. My Familiar has been trying to uncover them.]
+
+Lily repeated the answer word for word. To her relief, Fabrelis seemed to accept the answer, although there was definitely some regret in his eyes. She recalled Rose's information about the headmaster trying to collect magical legacies.
+
+"I'd love a copy of this Magesight, if you don't mind," Fabrelis asked. "We actually teach third years a spell version of something similar, but this actually seems far more effective, and if possible, I'd like to eventually add it to our lessons."
+
+"I don't mind at all," Lily replied, especially since this was a small way to have Arakil's teachings slowly released to the world.
+
+She grabbed the page, and before the panicked headmaster could cry out, she tore it out. Startled gasps came from him as she casually handed over the page. However, after accepting it and finally noticing it was still in perfect condition, he began to recover.
+
+"I can't believe you tore an artifact…" Fabrelis stammered, still looking at the page in horror. "I was going to draw a copy…"
+
+Lily smiled. "I've already learnt it, I don't need it anymore."
+
+Fabrelis looked pale at her innocent answer. "You still shouldn't ruin artifacts…"
+
+Lily's smile turned a little mischievous, and she turned the book back to Fabrelis. Not only was there no hint of the page being torn out, but the same exact page was somehow still recorded in the grimoire. As if in disbelief, he looked again at the page in his hands, as if not believing it was there.
+
+"Remarkable…" he said, awe in his voice. "I suppose I shouldn't underestimate a true artifact. I can only imagine who crafted it, no doubt an Archmage of the highest caliber."
+
+Lily nodded, while silently upgrading the title in her heart. In her opinion, the title of Archmage couldn't even scratch the surface of Arakil's true splendor.
+
+Running his fingers along the page he was holding, he smiled. "And I nearly thought you'd somehow cast an illusion on me. Now that would be embarrassing."
+
+"Arakil has told me that the book regrows its pages, so I never have to worry about running out. It's perfect for practicing glyphs," Lily said proudly.
+
+"If… You find more, please consider sharing them with Regarth," the headmaster requested.
+
+[Say you'll try, but that I'm focused on trying to find knowledge about your bloodline as a priority.]
+
+"I don't mind, but I can't promise anything, as Arakil is looking for any information about my bloodline," Lily replied.
+
+The headmaster looked regretful for a moment, but then gave a firm nod. "That makes perfect sense. We have no information about your bloodline and, regretfully, cannot offer you the aid we would normally provide someone in your position. Other than hoping for your bloodline to guide you, you're very much progressing blindly."
+
+Fabrelis looked again at the page in his hand and smiled. "I'm usually the one who spits when people mention fate, but to think your mother would leave an artifact for only you, and the Familiar you'd summon would possess and control it. It certainly feels like a fateful encounter."
+
+While Fabrelis chuckled at his comment, Arakil scoffed. If Fabrelis was a casual fate-hater, then Arakil was the master.
+
+"Lily should get a reward or something for helping the school," Lotte suddenly interjected.
+
+"No, it's fine…" Lily hesitantly replied.
+
+"No, it's not," Lotte insisted. "If you're making contributions to the entire school, then the school should reciprocate."
+
+"Lotte's right," Thomas agreed.
+
+The headmaster adjusted his spectacles. "I'll need to think about it. I also agree that it shouldn't be freely given, but I'm unsure about the specifics of the reward. I'll try discussing it with some of my trusted staff and see if we can come up with a solution."
+
+Lily sighed while swallowing the words "it's fine" under her breath. She really didn't need a reward for something so simple, and in fact thought this would just bring more unwanted attention to her. Yet her friends were insisting, and even the headmaster seemed to agree, so she reluctantly accepted.
+
+Maybe I'll just ask for some Mana potions? Then I can feed them to Arakil.
+
+That was the ideal outcome in her mind, though she could already imagine Arakil insisting that she drink it and use it to further refine her core.
+
+The headmaster finally seemed satisfied and, after thanking the three for their time and Lily again for her contribution, he dismissed them. When they returned to the rest of the class, Professor Elius seemed curious but didn't ask, instead sending them back to fight their illusory bears.
+
+"Damn, no Magesight for us," Lotte muttered.
+
+"It's for our own good," Thomas sighed.
+
+"I know… But I was enjoying showing off," Lotte giggled.
+
+However, despite the three no longer actively using the Magesight, they still performed better than most, with the magical array unable to fully deceive them. Unfortunately, they had already broken it previously, and a mage's mind was a powerful tool, so the effects were reduced compared to those still under the illusion.
+
+[This is why I'm somewhat glad you didn't pick illusions as your focus. Once broken, they are difficult to repair.]
+
+Lily silently apologized to the headmaster for unintentionally breaking his hard work.

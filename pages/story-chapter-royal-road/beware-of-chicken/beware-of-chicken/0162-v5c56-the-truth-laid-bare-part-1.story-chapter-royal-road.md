@@ -1,0 +1,149 @@
+---
+id: 933c06de-e539-51d6-86d5-6c82226a2a4e
+page-type-slug: story-chapter-royal-road
+title: "v5c56: The Truth Laid Bare Part 1"
+slug: 0162-v5c56-the-truth-laid-bare-part-1
+partOf: beware-of-chicken
+position: 162
+ownLength: 2822
+unit: words
+ownProgress: 2822
+publishedAt: 2024-10-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1871582/v5c56-the-truth-laid-bare-part-1"
+royalRoadId: "1871582"
+markedReadAt: "2026-06-29T18:56:51.874Z"
+---
+
+To Zang Zeng’s great surprise, he was not dead. It had not been something he was expecting.
+
+The last thing he remembered was giving it his all to defy that… thing in his head using him like a lance at the man on the ground. He had asked the man to grant him an honourable death… yet it appeared that had been denied to him. For a moment, his gut clenched. Had he killed the expert and then been recaptured?!
+
+He strained his senses, dull as they were. His meridians shook as he channeled the paltry amount of Qi he had, his reserves gone and his dantian barely functioned. His sense of touch and hearing were likewise dulled. Straining himself, he caughtindistinct noises, struggling to hear until they suddenly sharpened into something he could understand.
+
+“He should be waking up. Remain beside him please, something familiar may prevent him from lashing out,” a female voice instructed.
+
+“Yes, Lady Meiling,” Shenhe’s voice stated. Zang paused at the voice and the feeling of Qi nearby. Shenhe? Here? What the Hells was she doing here?
+
+Zeng paused. Had she not been hunting demons in the north? When he had left, he thought it had been a worthless endeavour, something that would not bear fruit. Yet she was here…and her Qi was not at her maximum.
+
+Had his messenger arrived? Had the Sect been warned? That could be the only true option—at least a part of his plan had succeeded.
+
+Nearby there were several additional standout signatures. The closest were some manner of Spiritual Doctors—one was more powerful, and the other was likely their apprentice. Next was the one who had defeated him. Zeng had been skeptical initially that the one who had slain his son was a member of the Cloudy Sword Sect, but in that battle he had learned the truth—there was no other thing he could be, to defeat him without killing him. The man’s Qi was already full, it felt to him, some legendary technique allowing him to recover from the battle with apparent ease.
+
+Yet somehow, he was not the most powerful expert in the room. Another, whose Qi was low yet had an unrelenting weight to their presence, was nearby. It straddled the line between Sky and Imperial—a sheathed blade.
+
+As he concentrated, he could feel other signatures—his entire task force was revealed to him, as well as more signatures of the Shrouded Mountain Sect.
+
+It was a great loss of face, for them to see him like this—how utterly shameful. Yet it also meant vengeance. The Cloudy Sword Sect was now here, and vengeance would wipe away this stain. The Demonic Cultivators would surely all be put to the sword, and that brought him some satisfaction.
+
+“He is awake. I can feel his Qi patterns, he is probing,” an aged voice stated, and he felt the powerful expert’s intent settle on him. “But if he can move his body, that is another matter.”Zang Zeng made to answer in the affirmative… but nothing happened. His body did not move, could not move. He grimaced internally at the damage the parasite had done to him. Again, he was shamed.
+
+“What say you, granddaughter? Is there any aid to be rendered?” the older man asked.
+
+“I don’t know…this is beyond me,” a female voice, the Spiritual Doctor, answered, before pausing. “Wait… if he can use his Qi and its lightning nature… Jin, didn’t you say our bodies’ muscles are all controlled by electricity?”
+
+“Yes, electrical impulses through our nerves. If the damage is to where the connection from his brain to the rest of his body is, but he can still move his Qi, perhaps that is the answer? Use his own energy to puppet himself. Or at least bypass the damage,” the one who had defeated Zeng mused.
+
+…that was not entirely news to a member of the Zang Clan. In fact, it was a secret of theirs that the body was controlled by lightning, something the First Patriarch had discovered. But… he had never thought of it like that. He flared his Qi twice, in what was a sign of acknowledgement amongst the outriders.
+
+“He understands,” Shenhe answered for him, which was galling. He focused within himself, mapping out his own body with his Qi, and began.
+
+=====================================
+
+With his Qi as depleted as it was, it took Zeng an hour of meditation to fully figure out what to do—and he was only successful due to the powerful reagents the Spiritual Doctor was expending on him.
+
+He ended up not needing to puppet his body around with his Qi—he simply needed to create a small “bridge” to the rest of his body. It would be woefully inadequate for combat, but it would suffice for now.
+
+With a flex of his Qi, he opened his eyes. He was in a stone room. Shenhe was to his right, seated on her knees on the ground like a servant, which said all he needed to know about how he should approach the coming situation.
+
+With as much dignity as he could, he rose so that he could look at the members of the Cloudy Sword Sect and show them what strength he had, little as it was.
+
+“Zang Zeng greets the Experts of the Cloudy Sword Sect,” he stated, his voice raspy. The one who had defeated him was leaning against the wall, his arms covered in bandages, but otherwise looking no worse for wear.
+
+“Good. You are up, and you didn’t take too long,” the eldest and most powerful of the cultivators in the room said. He was a man who drew the eye instantly—a pillar of absolute strength that could not be denied, even while he too had bandages beneath his robes. His eyes were steel-grey pits, weighing and judging him. Zeng swallowed thickly at the intent. Even obviously injured and diminished, he was still as strong as the Patriarch. “For your conduct in the battle against my grandson, and fighting against the Puppet Worm’s control, this Shen Yu shall praise you, Zang Zeng.”
+
+Zeng felt cold dread creeping up his guts. Shen Yu, the one who had seduced his great aunt and had suppressed the previous Patriarch with a single blow? The Unconquered Blade?!
+
+“Zang Zeng thanks the great expert for his praise,” he replied, his mind reeling. The whore had wanted them in conflict with this beast? She must have truly needed to destroy their Sect then, for whatever schemes they had.
+
+“Now that everyone is assembled and awake, the truth shall be laid bare,” the titan of a cultivator stated. “We shall begin with you, Zang Zeng. Yours is the only tale we have left to hear. How exactly did you come to be captured by the Demonic Cultivators? The whole story… including why you were in the Azure Hills in the first place. Your men were quite forthcoming.”
+
+Zang Zeng paled. Shen Yu’s frown was mighty. A word of praise in one breath, and the silent fact of his execution in the other should his tale prove not to be satisfactory. The story was not a flattering one. Having to admit to being… duped, especially in front of Shenhe, made him want to writhe in embarrassment and shame.
+
+He briefly considered lying, to make himself look better… but the old monster before him was clearly too canny for that.
+
+He had cheated death once already, best not to tempt the Heavens twice. Zang Zeng swallowed his shame down.
+
+“After the death of my son, and the letter we received from Lord Rou, I was… unconvinced of his ties to the Cloudy Sword Sect. It just seemed too convenient for such a thing to happen. My son, just when he started to get strong, was killed, and in a way to which I could not retaliate. It was an enormous loss of face for our Sect,” he began, only for Shenhe to glare at him. He knew her… issues, the soft-hearted fool. “But with the Patriarch in Closed Door Cultivation, matters were decided amongst the Elders… and the other Elders were convinced. The Inquisitors were deployed, and Shenhe took command of the disciples to head north. I remained in the Sect for a time, as I was under some suspicion, since it was my son who was taken. I was cleared by the Inquisitors within the month, but I was deeply dissatisfied with the decision, so I sought to relieve some of that stress by visiting a woman—there I met the whore.”
+
+His entire body cracked with lightning at the mere memory of the bitch.
+
+“Continue,” the old monster said, his intent shrouded.
+
+“Her ways were subtle. In the moment, she would be pleasing and I would feel relief, but upon my return to the Sect, my rage would return tenfold, so I would return to her for her skills. She had no Qi to my senses, and I could taste nothing in my food or drink, and even her lips had nothing untoward. This continued for the rest of the winter, while the whore dripped poison into me, a poison subtle enough that neither the Inquisitors nor my own body could identify it. Finally, after one too many inconveniences by the Inquisitors, my rage was stoked enough that I decided that I could no longer remain in the Sect. I called up my men and went on a resource gathering expedition, hoping that would still some of the wrath, but again I had no relief. After another two months of gathering resources and meditating upon what had happened, eventually the decision was made to find out the truth about who would dare attack the Sect. Yet something else gnawed at me, warning me something was amiss. So instead of simply attacking, we entered the Azure Hills with the intention of gathering information about what truly happened at the Dueling Peaks.”
+
+Both Lord Rou and the Elder of the Cloudy Sword Sect looked at him, but there was no outburst that he had admitted to defying the edict to stay out of the hills.
+
+“Continue,” he was simply commanded again.
+
+“The environment was poor, and information was not forthcoming. I exited the Azure Hills and went instead to Yellow Rock Plateau while my Outriders continued their work, but to no avail. Lord Rou’s agents skillfully hid any trace of him from my men. We could find nothing for months, and when we finally did get a lead, it was of one Rou Tigu,” Lord Rou tensed. “There, the whore counseled that we attack and capture her. However, during our stay in the Plateau, I realised that my own anger and wrath seemed… unnatural. I truly felt that something was amiss, and again ordered my men to caution.” Zeng licked his lips, remembering the sudden feeling of clear headedness when he ate the silver grade rice, before continuing. “Instead, we would wait and tail her. I began to suspect the whore then, even with her poison within my body. I began to suspect that for some reason, a third party wished for me to enter the hills and begin an attack that would draw conflict. So I began to purposefully stall, and noted her budding rage. With her involvement, and the Demonic attack upon my son, I concluded that she was not a lone actor. She was part of an organization. From then on my intention was to play along with her plan, lure out her supporters, and strike them all down when they least expected it, instead of attacking as she desired. We once more entered the hills, tailing Rou Tigu north, and the whore became more and more agitated when I still would not attack upon her suggestion. I drew out her support and launched my attack. I managed a blow I thought was lethal, before she unveiled her defensive talismans. From there, her power spiked into the Earth Realm. To my great shame I was defeated, infected with the parasite, and now, I am before you.”
+
+==========================
+
+I frowned as Zang Zeng finished his tale. The way he spoke and referred to people really, really rubbed me the wrong way. The man was an asshole, through and through. Seriously, being angrier that your kid’s death made your organization lose face than you were that the kid died?
+
+I kind of wanted to punch him when he said that.
+
+And yet he had managed to resist a demonic poisoner who had full access to him for an entire year, and it seemed like the only reason he was here in the first place was because he was deliberately targeted.
+
+He had had a chance at attacking Tigu… and then he managed to hold back.
+
+I looked at Gramps. The old man looked mildly impressed by the guy, but again, passed it over to my court.
+
+He had held back, and probably saved my ass; so there was only one thing I could do.
+
+==========================
+
+Both the experts of the Cloudy Sword Sect and Lord Shen Yu considered his words and weighed his actions.
+
+Then, Lord Rou picked up a kettle, poured a cup of tea, and placed it in front of Zeng. The intent upon his shoulders lessened. The man nodded at him. Zeng could tell the man did not much like him—but that was irrelevant. His strength was too great to ignore. Zeng had thought his death was imminent… and now, instead, he would likely be honoured.
+
+The Heavens were smiling on him, for following the path of the Patriarch, Strength Above All. He took the tea and sipped it, savouring the taste. It was a medicinal tea, and it sparked with draconic Qi—truly a treasure. But something about it was familiar—the way it settled into his body, and the feeling of clear headedness that came with it…
+
+“Your story is acceptable,” Shen Yu said. “Indeed, the woman was part of an organization—an organization headed by an Imperial Realm Demonic Cultivator.”
+
+Zang Zeng nearly spat out his tea.
+
+“Shenhe, tell us everything from your point of view.”
+
+His cousin complied. Zeng grimaced. Her tale put his own to shame—she was able to show her might, burning out demonic cultivators. It was a strike against the face of the Sect that she too had been laid low and captured… but in the end she had been freed and saved the life of Shen Yu’s disciples.
+
+On one hand, it was good for the Sect. On the other hand, it was annoying that it was Shenhe. The Patriarch had given orders about the woman, to keep her in her place… but he didn’t know if those orders could stand after this.
+
+“And so Lord Shen Yu led the retreat,” Shenhe finished.
+
+“Then… is this not fortuitous?” Zeng asked. This was an opportunity to curry favour with the Cloudy Sword Sect and this beast, wasn’t it? A chance to gain glory. “There are still enemies in the north. My messenger should soon reach the Sect—and then we may deploy the full might of the Shrouded Mountain Sect to root out and destroy the rest of these worms.”
+
+Bold action was required—even if he was probably in no shape to do anything.
+
+“That, I am afraid, is likely impossible,” Shen Yu stated. Zeng froze, and Shenhe grimaced. “Zang Shenhe, I promised you answers and you have been patient. So now I shall tell you why we were in the north, looking for you.”
+
+Both members of the Shrouded Mountain Sect paid very close attention as Shen Yu continued.
+
+“It began with us investigating your sect for demonic corruption. We determined that your sect was clean.  However, during the investigation, some information about your Inquisitors and the Patriarchs came to light—and came to light before the entire sect.”
+
+The words were a hammer to Zeng’s soul. Dread clutched his heart as he realised what exactly must have happened. Shenhe, on the other hand, just looked confused.
+
+“Your sect has likely just finished its civil war—your Patriarch is dead, and your strength is much diminished.”
+
+“Wha—what could have…?” Shenhe asked, looking faint.
+
+Zeng, on the other hand, was very much not looking forward to this. Especially because of how the men would react.
+
+“Gather your men. And all will see,” the man commanded. Shen Yu pulled out a gem that sparkled with lightning and swirled with mist.
+
+Zeng wanted to stop it. He knew how Shenhe would react… as well as some of the softer rank and file.
+
+But he couldn't because he was too weak. So the men were gathered.  They were told of the sect’s fate… and a vision began to play. It was backed by mist and sparking lightning—and all who saw it knew it was truth.
+
+A woman whose hair was of gold, and who had nine waving tails behind her approached an injured man in a crater…

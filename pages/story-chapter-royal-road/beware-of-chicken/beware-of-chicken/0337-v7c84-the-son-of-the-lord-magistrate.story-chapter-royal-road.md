@@ -1,0 +1,169 @@
+---
+id: 6e61200f-0176-5790-b92d-2c63fbf7f80f
+page-type-slug: story-chapter-royal-road
+title: "v7c84: The Son of the Lord Magistrate"
+slug: 0337-v7c84-the-son-of-the-lord-magistrate
+partOf: beware-of-chicken
+position: 337
+ownLength: 2355
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3720184/v7c84-the-son-of-the-lord-magistrate"
+royalRoadId: "3720184"
+---
+
+Xinlai woke up to the feeling of a warm body in her arms moving… and instantly realised that last night had not been a dream.
+
+She had finally broken through the fortress of her man’s heart! And sure, they might have all gone way further than she had been intending… but she now realised what her mother was getting at when she said a lady should seize the day, and not worry about flapping lips later. This had been great! Why would she ever be bound by the waggling fingers of mortals?
+
+Though perhaps the threat of those waggling fingers would scare that prude An Ran off and cut down her rivals… either that or An Ran would start crying about how she wasn’t fit for marriage to anyone else anymore. Like one night would render her that; for all the Smaller Blade of Grass was an annoyance, she was good looking. Nowhere near Xinlai’s level, of course, but she was comely all the same. She could easily go and find another.
+
+The twins were… well, they were probably just looking for some fun, and now that they’d had it, they would probably move on… though Xinlai would have to make sure there were no kidnapping attempts.
+
+Which left Lao. Lao wasn’t exactly a threat, so Xinlai, in her great benevolence, would allow her to be his concubine when Xinlai had to go out into the world.
+
+It had absolutely nothing to do with the fact that Xinlai was absolutely exhausted and might need some assistance, because heavens above she knew he had stamina to spare, but last night was ridiculous.
+
+Satisfied with the way the wind would surely blow, she snuggled into her man’s side while the servant continued yapping, only for her man to suddenly bolt upright.
+
+“Nooo, more hugs,” Xinlai complained at the jostling. The others made similar noises of discomfort. She made to pull the stiff, frozen body back down. “We can go and take care of whatever this is later, sleep more now.”
+
+He slumped back to the bed, but she could feel the cold sweat forming on his skin. She finally opened one eye, curious, and paused at what he saw. His face was pale, and he looked like death had just come for him.
+
+“Hm? What's the matter, hairaa?” Narantuya asked, putting a hand on his chest. An Ran had a slightly worried look on her face.
+
+“My parents are here,” he said, his voice calm, level, and full of strain.
+
+Oh, his parents were here, was that all…
+
+Xinlai bolted upright as well.
+
+Oh, his parents were here! She had to make a good impression!
+
+The others instantly realised their predicament, all of their eyes widening. Even Lao finally woke up, though she still looked rather disoriented.
+
+“Up! Up, up, everybody up! Into the baths, I’ll handle the water, let's go, let's go!” Xinlai commanded, gathering up her man along with Narantuya.
+
+“I’ll grab herbs for the bruises!” An Ran shouted, already moving. Xinlai nodded at the quick thinking, already halfway into the baths.
+
+“I have something for the hangover!” Sarantuya exclaimed, throwing Lao over her shoulder.
+
+Xinlai’s Qi pulsed, supercharging the crystals within the bath and making water pour out. Now, she could have sabotaged the others, but quite frankly they didn’t have time for any cattiness.
+
+Soon enough, everyone was scrubbing away and getting as presentable as possible. Lao yelped as she was unceremoniously thrown into the water, dunked several times, then pulled out and manhandled by the twins. Xinlai even deigned to brush An Ran’s hair while the other woman applied medicinal herbs to the bruises—honestly, for this level of mere cosmetic injury it was kind of a waste, but it also removed some of the exhaustion. Her man’s back swiftly straightened, his gaze firmed, and he became the Acting Lord Magistrate once more. The steel in his eyes was devilishly attractive, as always.
+
+Soon, they were all presentable, hair combed, light makeup applied, clothes immaculate while the clothes from last night had been swiftly hidden in one of the closets and the servants instructed to clean the bed posthaste. Even Lao looked less scruffy than normal, though her hair looked a lot closer to a Ravine style than her normal braids, courtesy of the twins.
+
+The Acting Lord Magistrate paused and studied them all. “Well, I suppose if I am about to die, I shall have one more vision of heavenly beauty.”
+
+Xinlai’s cheeks heated at that warm smile. He was entirely too good at this.
+
+In no time at all, they were walking to the meeting room and Xinlai calmed her nerves. They were just meeting mortals. Mortals she wanted to make a good impression on, yes, but mortals none the less. Her man was probably overreacting about them killing him anyway.
+
+===
+
+The Acting Lord Magistrate kept his head held high as he walked to his doom, enclosed as he was in the semi-protective bubble of cultivator bodies.
+
+His mother had been most displeased with him about his deception, that much was clear, but to come in person?
+
+His father had said his mother had been doing better, but to have her travel all the way here? It made his own stomach ache that he had caused his mother so much distress that her leaving Verdant Hill would be better for her than staying and fearing for his safety.
+
+What a shameful creature he was, to inflict that upon her. To inflict that upon them both.
+
+They entered the meeting room the servants directed them to—Xinlai led the way, just in case it was a trap or another assassination attempt… but sadly no threats materialised to offer an escape. His eyes ghosted past a crouched man and a short woman who were wearing simple clothes, and, for the first time in far too long, he laid eyes on his parents.
+
+They were truly here.
+
+He was moving before any conscious thought, ready to throw himself into a kowtow and abandon all decorum.
+
+Xinlai’s hand caught his arm before he could get far. She moved so her body was between him and them. He was about to protest, to scold—when he saw how tense she was. He noticed her dilated pupils, her shallow breaths, and sweat beading on her cheek.
+
+The others had all frozen too, their eyes locked on one single person.
+
+There was another woman with his lord father and lady mother. A woman wearing the simple robes of a court functionary, standing in the correct spot a servant should stand. She looked rather a lot like the members of the Nezin tribe he knew, with her narrow eyes.
+
+And yet something was off. The Nezin were always compared to foxes, but this woman took it to another level. There was something predatory about her—and then it clicked. The Acting Lord Magistrate was getting quite adept at telling who was a cultivator and who was not, and the fox woman behind his parents was.
+
+And she was strong enough that every other cultivator here had frozen.
+
+“Great Expert,” Xinlai inquired carefully. “Might we inquire as to your presence here?”
+
+She was making signs behind her back. None of the others made any indications they’d seen them, but he could feel the sudden, fatalistic tension in the air.
+
+They thought they were going to die.
+
+A single narrow eye opened, revealing an amber iris and the slitted pupil of a predator. The woman opened her mouth—
+
+When another person spoke.
+
+“Oh, sorry aboot giving you all a fright there, eh, I thought you all recognised me!” one of the servants said, standing up from where he had been adjusting a toddler’s clothes and giving them all a bright smile. He had a bit of a strange accent, and the friendly, cheerful tone shattered the sudden tension.
+
+An Ran did a double take, before pure and complete relief filled her face.
+
+“Master Jin!” she exclaimed. Everyone else, caught off balance, also jerked abruptly, looking at the man.
+
+“Master Jin?!”
+
+The member of the Nezin tribe next to his parents lifted a hand to her face and laughed, covering her mouth.
+
+“I believe the Young Master’s guards were referring to me,” the fox woman said with a titter.  “But My Lord and Lady, the Grand Marshal spoke true. Thy son is in good and attentive hands, to notice me so swiftly!” She paused and sniffed the air, an eyebrow raising. “Very attentive hands.”
+
+The vulpine smile was entirely too amused, and the raise of his mother’s eyebrow terrifying.
+
+Master Jin? The Master Jin he had heard An Ran talk of once or twice, the powerful lord of cultivation? The Grand Marshal, Cai Xiulan, An Ran’s teacher?
+
+What the hells was going on, and how did his parents fit into all of this?!
+
+And yet, Xinlai’s grip slackened. The threat, it seemed, was no longer present.
+
+He approached his parents, while the others bowed to the giant of a man who was standing next to the short woman he vaguely recognised. Was it her eyes? Yes, he had seen those eyes before, on Hong Xian’s son when he and his father were dealing with that plague. He remembered the short boney boy; a competent sort. But was she really related to them?
+
+He had little time to contemplate this however. All too soon, he was standing before his parents.
+
+His Lord Father looked much the same as he always did—honestly, it was like he hadn’t aged a day since he had seen him last. He still had a few wrinkles, he still had some grey in his hair, but he stood as the titan he always was. The aura of his authority was a palpable thing, even now.
+
+And his mother. All the Ancestors, his mother. He had never seen her cheeks so flushed with life! Her skin was still pale, but no longer was it the colour of death. She was standing apart from his father, not with their arms linked so he could catch her if—when her illness bared its fangs at her and sent her convulsing to the ground. She looked steady and utterly at ease.
+
+Her hands extended past her sleeves, instead of being hidden within them to hide the tiny cuts or abrasions they accumulated because the feeling in them was so dull she could not tell when she was injured. Her fingers danced for a moment, each finger touching one of the fans in her sleeves with dexterity he had only heard stories of, when father boasted of her skill at playing the guzheng. They did not shake or tremble.
+
+“Father. Mother,” was all he managed to say, his voice thick with emotion. Shame, self-loathing, everything bubbled up in his soul. He met their eyes, expecting to see the accusation, the look of disgust as they stared upon their shameful son.
+
+There was neither. Instead, his father’s eyes softened; a smile spreading across his features. His mother, whose face had been locked in a neutral mask of indifference, broke when she saw him. The look of love she had always given him.
+
+His parents made the decision for him. He was pulled into an embrace from both sides.
+
+“My son,” his father said, one hand clasping his shoulder.
+
+“My dearest,” his mother said, her hand finding his fingers. Her grip was strong. Her hands were warm, instead of like ice.
+
+A miracle had blessed her. He brought her steady hand to his lips, feeling her strong pulse. He did not shed tears, but it was close.
+
+“I’m…” the son of the Lord Magistrate began, but the apology did not come out. To say he was sorry for trying to protect them would be a lie. And he would not lie to his parents right now. “I just… I couldn’t drag you into this.”
+
+There were so many things left unsaid. His father met his gaze.
+
+“I know,” he replied, his voice quiet and firm. “My son, you’ve done well. Beyond anything I could have ever imagined.”
+
+The praise slammed into his heart, and he swallowed, looking aside.
+
+“I am upset that you lied,” his mother said, her tone blunt and biting, tearing apart the pride that had been swelling in his soul, before her tone softened. “But I understand why you did. A child with such consideration for their parents is supposed to be a blessing… but never do such a thing again. I shall not tolerate it.”
+
+Her words at the end were iron, and her gaze severe, in contrast with the fingers that lovingly squeezed his own.
+
+“I’m sorry for frightening you. But… it was luck alone that has seen the Wus removed as a threat. If there is another, they may…” he trailed off. If he had to do something to protect his parents again…
+
+Both his mother and father snorted, interrupting his worries.
+
+“‘Luck’? My son, the Wus are destroyed because we destroyed them,” his father stated, his voice mild.
+
+The Acting Lord Magistrate blinked. “Huh?” he managed.
+
+“Much has changed since you left for your studies, my son. And it seems we both have stories to tell,” he gestured, and the Acting Lord Magistrate turned with him, back towards the crowd behind them.
+
+The giant man, the short woman, and the Nezin tribe cultivator, who had left them to have their privacy, were all talking to his own friends. An Ran and Lao were smiling brightly at the big man, while Narantuya and Sarantuya were both completely engrossed with the Nezin woman, who had pulled out a scarf with designs similar to those of the clans of the Ravine. The twins were calling her cousin, and were practically hugging the woman.
+
+Only Xinlai remained reserved, still watching over him, but she caught his expression and the tension bled out of her shoulders. She gave him a little smile.
+
+“Yes, and you can introduce us to all of your nice lady friends,” his mother said, her voice getting an edge to it.
+
+All of a sudden, the fear came roaring back with a vengeance.

@@ -1,0 +1,223 @@
+---
+id: 8ddf45ae-3016-5a10-a96f-c2e6a6caf08c
+page-type-slug: story-chapter-royal-road
+title: "v5c25: Prelude to the Night"
+slug: 0131-v5c25-prelude-to-the-night
+partOf: beware-of-chicken
+position: 131
+ownLength: 2607
+unit: words
+ownProgress: 2607
+publishedAt: 2024-07-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1732517/v5c25-prelude-to-the-night"
+royalRoadId: "1732517"
+markedReadAt: "2026-06-29T19:01:18.881Z"
+---
+
+It was the night before the solstice. They had made good time, and Su Yuanlin was proud to call the Nezin tribe kin. Many of their ways were alien to her and she knew that the foxes of the Howling Fang Mountains would not enjoy a nomadic lifestyle, but they had endeared themselves to her all the same. They had their priorities firmly in the right place. No one was left behind, and even so they made good time—the elders and the young clearly used to being on the move as they drove towards what they called First Den. The yaks of the north barely kept up with the incessant drive, but with two cultivators on hand fixing any problems that cropped up they must have made record time.
+
+Han and Elder Hu had told her stories as they traveled, the same stories Young Master Yun Ren had told them—of a fox who protected them from a great cataclysm.
+
+It was one thing to simply hear the tale.
+
+It was entirely another to truly see First Den. To enter the underground fortress, so ancient that the tools left within were largely made of stone. To see the murals of the cataclysm, and of her Honoured Aunt, sheltering others from a storm.
+
+There was a faint smell in here. One that lingered. One that reminded Yuanlin of an artifact, one of the last to survive, that bore Su Nezin’s scent.
+
+She pressed her hand to the wall and closed her eyes, reaching out into the stone.
+
+All of a sudden, there was presence. It was faint, but it was there. The pressure. Su Yuanlin froze.
+
+Even after thousands of years of being corroded by a Qi wasteland… there was something still watching her. Her utter superior in every way. An eye watching another predator.
+
+And then… just as abruptly as the feeling came… the pressure seemed to recognise her.
+
+“Honoured Aunt Nezin, strongest of Da Ji’s children. Please, grant your descendants succor against the Long Night,” Yuanlin whispered.
+
+There was a rumble, as an old, old defensive formation sparked into existence. Weak and nearly faded.
+
+But still mighty enough.
+
+With luck, they wouldn’t need it at all. Yuanlin kowtowed to the mural on the wall, thanking her ancestor for her benevolence, and rose.
+
+“Yuanlin, there is a problem,” Lu Ri said, as he entered First Den.
+
+In his hand he held the carcass of a bird, which was dripping black blood.
+
+===============================
+
+It was the night before the solstice. A group of cultivators suddenly shimmered into existence in a cavern. One, a young man with fox ears, was panting. He reached out a hand and braced himself against a Thunderhoof.
+
+“I would not have wished to do that without Master Forest Sweeper’s protection,” Fa Bi De said in his human form.
+
+The sentiment was met with a chorus of agreements from his fellows. The journey had been… intense as they had skirted the edge of the storm before finally plunging into it. It had taken a week to reach this place—and the past three days had been continuous movement, with them not stopping to rest as the storm finally started to lose its fury.
+
+But they had done it. They had infiltrated the tunnels of their enemies. Ri Zu had scouted out an entrance into the compound.
+
+Here, in a passageway hidden by illusion, they would rest after their ordeal.
+
+Tomorrow, they would begin their assault.
+
+==============================
+
+It was the night before the solstice. The wind howled, and the darkness was deep. Here, where they were, the sun rarely rose. And tomorrow, it would not rise at all.
+
+Meditating at the edge of the Sea of Snow had been the correct decision, Zang Zeng mused. The harsh environment had done wonders for tempering his spirit, and that of his men. In this cold, hard place, they had prospered. As all true sons of the Shrouded Mountain Sect would, when faced with adversity. He would have to take Sheng out here when he returned to the mountain. The boy would surely benefit—more than his brothers ever would, at any rate.
+
+It had been a long time since he had thought of any of his sons save for Li. And thinking of Li only made the rage in his gut boil.
+
+He took a sip of roasted rice tea; made from rice and tea purchased from some two-bit mortal trading company as part of their provisions. Its quality was very good and he would have to purchase more, especially because it made his stomach calm.
+
+He had meditated long upon this course of action—but he knew his current course to be right. The one that had insulted the Shrouded Mountain Sect and slain his son was close at hand. The one who was even now plotting against the Shrouded Mountain Sect.
+
+Every day, the anger seemed to fester. Every day the rage threatened to explode out of his body. Three times he had nearly ordered an all-out assault, but he had restrained himself. Attacking a peer in cultivation when they were in their own home was not something undertaken lightly. Defensive formations could easily tip the balance in an equal battle. Zang Zeng was no fool, and even though the men and the courtesan were becoming a bit impatient, he would not attack until the time was right.
+
+“Master Zang. The specialists have arrived,” the woman whispered from behind him, her breath delightfully warm against his neck. Her fingers dragged along his chest, and slowly slid upwards to stroke his hair. The action sent a tingle down his spine, as it always had, and settled around his shoulders. “It is time.”
+
+She was right. If the specialist reinforcements were here, then it was indeed time. He glanced from his position in the snow. There were perhaps fifteen newcomers to their camp, all wearing dark cloaks. Only one had their hood off, a young man with bright purple hair and red eyes. He was staring dispassionately at the Outriders, the thirty-odd cultivators who had followed Zeng. All of them were skilled in hunting and tracking, and the most loyal of his Outriders.
+
+It had been near enough to nine months since this journey had started. That they had all stuck with him was a point of pride. They, like he, had known something was going on. Something was moving beneath the surface, and trying to attack the Sect from an angle he could not see. The feeling of wrongness had plagued him for months.
+
+But as he felt the pressure on his back and the rage in his heart grew… the wrongness was finally gone.
+
+“I am prepared to face our enemy,” Zeng stated, his words solemn. The courtesan smiled, and removed her hands from his head, where they had been gently massaging his temples.
+
+The time was now. To strike and kill. To rampage and destroy.
+
+Zang Zeng rose to his feet, his Qi coalescing around his body.
+
+“Outriders!” Zang Zeng called, and the loyal disciples of the Shrouded Mountain Sect answered. They stood in perfect rows, their backs ramrod straight. “Shrouded Mountain Sect! What are our words?”
+
+“Strength Above All!” the Outriders roared back as one.
+
+“Indeed. Strength above all is what allows a man to live. Strength above all grants man freedom. Strength above all is what allows us to see the truth of the world.“ His men listened to his words with burning eyes. “We go now, to do battle with those who would strike against the Shrouded Mountain Sect. Raise your blades—for soon, our endeavor shall be at its end.”
+
+“We hear and obey, Elder Zeng!” Lightning charged around them all. He glanced at the woman beside him. She was smiling underneath her veil, and he felt great pleasure at his mistress’ smile.
+
+“Good. We begin the attack now. Our enemies are close at hand.”
+
+With that, he raised two fingers, to strike them forward and signal the vanguard to begin moving.
+
+Then he pointed them to the side, directly at the smiling courtesan.
+
+[Fulmination Arts: Heaven’s Judgement]
+
+The lance of lightning punched through the woman’s body at the shoulder, surely destroying her heart, her lungs, and most of her organs. It would have been better to capture her, but she had been doing… something to them. Something with her Qi. Best to kill her, disrupt the control, and interrogate the others. He had taken his best antidote today as well, and it would be able to handle any drug a cowardly Poison cultivator could bring to bear.
+
+“Shrouded Mountain Sect! Attack! Our enemies, those who would dare to deceive us, have revealed their hand!”
+
+His Outriders as one drew their swords. The “specialists” the woman had brought had looks of utter shock on their features. Lightning crackled and filled the air, as they descended upon their “reinforcements”. Zang Zeng fully released his Qi, lightning dancing around his form, snapping and cracking. His Outriders closed with their enemies. Blood splattered into the snow at their vicious, valiant charge.
+
+He rose, to smite his enemies.
+
+When something seized in his chest.
+
+There was a pulse of sickly, ugly Qi. Zang Zeng coughed up blood as his Qi guttered out. Skeletal fingers clenched around each and every one of his organs as he was pulled back to the ground.
+
+His men's assault petered out, as their eyes went blank. Some staggered like drunks. Others simply froze.
+
+But none carried on with the attack.
+
+“You…You….!” a snarling, sneering voice ground out. The courtesan staggered to her feet. Her beautiful face was twisted with rage, and electrical burns had crawled their way up the left side of her face. Her fine silk clothes had been half burned off, exposing the blackened hole in her body that was even now sealing up even as he watched it. The woman’s Qi fluctuated and warped, growing with every moment until it hit the Earth Realm.
+
+Zeng struggled. He struggled as hard as he could, but to no avail. It was terrible, the feeling of profound helplessness. The way his body was completely limp, and the antidotes and protective talismans upon his person did nothing to purge whatever was in his body.
+
+“Mistress, you’re alright!” one of Zeng’s new enemies shouted, the purple one. He took off his cloak and draped it around her shoulders—but then took an abrupt step back as the woman rose to her full height.
+
+“How dare you, you worm?!”
+
+The last part was a shriek. Veins bulged out all over the woman’s face. Rage, hatred, and humiliation all mixed upon her features.
+
+“Ugly.” The words nearly caught in Zeng’s throat; a bare whispering rasp.
+
+The woman had a full body spasm as she twitched violently, then stormed forwards and slammed her foot down onto his back.
+
+“Fool. Weak,” he taunted.
+
+The woman twitched again.
+
+“You worthless, worthless, worthless—how did you even, it meshed perfectly with your Qi!” Her guttural snarl was punctuated by the creaking of Zeng’s bones, but that was fine. She was distracted. Lightning started to swell in his body.
+
+He was incapacitated, and his men were captured by the enemy. Unacceptable. He would instead deny his enemy victory in a final bolt of lightning.
+
+Strength Above All. The fortitude to even end one’s own life without flinching, especially since he had managed to slip one of his men away, under the guise of a scouting mission, with secret orders to return back to the Sect. They would carry news of this betrayal, and then the Heavens would open. The Sect would be warned.
+
+A knife stabbed down into his shoulder and the swelling Qi dissipated. Zeng snarled.
+
+“No, no, you don’t get to do that,” the woman said, her eyes suddenly cold, and sharp. “I thought you were a complete fool, but I suppose one doesn’t get to your level without—”
+
+“This does not look like its under control, Heavenly Demon Chixia,” a slightly amused, androgynous voice interrupted the woman.
+
+Once more the woman, Chixia, twitched. A hooded figure had appeared in their midst, along with forty other new figures.
+
+“The plan can still be salvaged, Heavenly Demon Huian,” Chixia answered, her voice tense.
+
+“Can it be?” ‘Huian’ asked. There was a moment of silence, before the hooded one chuckled. “Oh, don’t worry, it can be.”
+
+The figure threw something, and his enemy caught it. The woman stilled, and then he felt the glee coming off her.
+
+“Oh? I thought we didn’t use these anymore,” the woman’s voice was full of vicious glee.
+
+“Long-lasting assets are preferable. But in this instance… well, it's acceptable.” At those words, the poison in Zeng’s body intensified. His lungs stopped, and it was only through his bare bits of Qi left under his own control that he could still circulate his blood as his heart seized. “After all, we’re all in this together, aren’t we?”
+
+“...thank you for your assistance,” Chixia said.
+
+“Good. Now, get some medical attention if you need it. The main thrust has been delivered and is heading directly towards the rendezvous point. The reserve is going to be taking another route, and checking out a place of interest for me...”
+
+Zeng gasped as his hearing started to fade.
+
+The woman kicked him over as his vision darkened.
+
+On her face, she wore a smile. In her hand, she clenched a box with the character for ‘Puppet’ upon it.
+
+The world went black as something slithered into his ear.
+
+===================
+
+It was the night before the solstice.
+
+I was sitting beside the bed of a young woman, her face marred by golden cracks, as I told her all we had done that day. We were all prepared for the solstice. With cookies and sweets and gifts for the children of Hong Yaowu. We were all prepared for a night of joy—for I would not allow the mere fear of a demonic attack to have us live the rest of our lives holed up like we were in a fortress.
+
+She slumbered peacefully in her little cottage. She had a small smile on her face. She no longer looked like she was in pain.
+
+I smiled at her and brushed a lock of hair from her forehead. My feet took me out of her cottage and into the world beyond. I looked up at a black sky dotted with stars.
+
+I took a deep breath and looked back to the earth.
+
+Before me was a snowman. It was a small thing, crafted by Chunky to put beside Tianlan’s house.
+
+But it was not near her house.
+
+The General That Commands the Winter stood at attention. His black coal eyes gleamed.
+
+Behind him stood serried ranks, their hats tall and proud.
+
+We were all prepared for a night of joy.
+
+So too were we prepared for a night containing anything else.
+
+===================
+
+It was the Day of the Solstice.
+
+The Shortest Day
+
+The Longest Night.
+
+Where two factions would learn that when men plan… and the Heavens laugh.
+
+=====================
+
+Yulong jerked up and glanced around. He frowned heavily.
+
+“Oho? What is the matter, my apprentice?” an aged voice asked. The overtones were of a jovial grandfather, but Yulong knew better than to believe it.
+
+An old man smiled at him. His eyes were blank pits. He had no teeth in his gums.
+
+Yet none of that mattered, because Yulong’s senses were filled with one thing.
+
+The overpowering scent of an Imperial Realm Cultivator. He smelled like the core of a dead star, something ancient, dark, and unknowable.
+
+Yet under that scent…
+
+“I think something is amiss, Master,” Yulong said.

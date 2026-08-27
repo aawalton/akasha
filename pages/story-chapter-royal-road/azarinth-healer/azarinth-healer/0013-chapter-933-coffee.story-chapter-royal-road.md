@@ -1,0 +1,159 @@
+---
+id: 2a5bdea0-50b5-5577-97c7-39a9b04d13c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 933 Coffee"
+slug: 0013-chapter-933-coffee
+partOf: azarinth-healer
+position: 13
+ownLength: 2750
+unit: words
+publishedAt: 2023-11-20
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1416117/chapter-933-coffee"
+royalRoadId: "1416117"
+---
+
+Chapter 933 Coffee
+
+Ilea sat back in her reinforced and enchanted deck chair, one of four set onto the balcony of her home on the cliff side far south of Ravenhall. She looked straight at the rising sun and smiled, glad she had finally gotten a few capable dwarven enchanters to weight-proof her entire home, and the outcrop on the cliff it was built in and onto.
+
+The view of the ocean had changed of course, arcane storms constantly raging in the distance. She missed the quiet and serene nature of the sea but she had somewhat gotten used to it by now. The landscape of the North had started feeling more comforting than oppressive to her as well once she had been able to safely navigate the storms. And that had happened long before the second Extraction.
+
+Plus, she felt that the numerous fishing boats and armed ships now navigating these waters added quite a bit of life to the scene, lessening the impression of the storms. Some of them looked like colonial age vessels straight from earth, others were gleaming with the green steel of the Taleen, enchanted and with entire sections glowing with green or red hues.
+
+She formed a bit of ice into a metal pan and carefully started heating it up. She supposed it was part of her training. That being, using her skills without wreaking wide-spread destruction. Maybe I did get too powerful, she thought whilst biting her lip, trying not to melt the pan or instantly evaporate the water. She grinned when the liquid only started boiling. I’m getting there.
+
+Deactivating her skill, she let go of the now floating pan and summoned a mug, then a filter paper. Her access to Earth, mainly Earth foods and drinks really made some things quite a bit more enjoyable. Considering the circumstances, the Accords’ own coffee brand was still a way’s off, put on a lower priority with everything else they had to deal with.
+
+She summoned some coffee beans and powdered them with her mind, then waited until the water stopped boiling. Ilea closed her eyes when she poured the water into the cup, the smell of freshly made coffee likely not something she would get tired off, even in a thousand years.
+
+Evan is onto something, she thought with a smile and grabbed her mug, seeing through her Domain that Felicia stirred in her bed. Their date in Iz had started a week-long vacation for Ilea, mostly comprised of various restaurants, reading, and a few early attempts at painting, though she made very sure Cless was nowhere around. She could imagine the teen’s gleeful look of superiority if she knew Ilea had taken an interest.
+
+She wasn’t sure how much of her time she would invest into art however, though she did find it fun to paint with proper oil colors and large canvases. Plus, she could just set up wherever in the world, or another world. A part of her wanted to go back to work on her archery skills but she had promised to herself to abstain from any combat and combat adjacent activities for at least a week.
+
+She heard the sliding door to the balcony open, Felicia looking at her with tired eyes and wearing her pajamas.
+
+“That is a nice smell,” Felicia said and stretched. “Coupled with, the salt.”
+
+“It is,” Ilea said and formed more ice into the pan. “How did you sleep?”
+
+“Took me a while to fall asleep. Few projects on my mind. Only woke up once after that,” Felicia said, sitting down onto the deck chair next to Ilea. “Yourself?”
+
+“Only mortals sleep,” Ilea said and sipped from her coffee.
+
+“I heard you snore.”
+
+“It’s a special sound based magic I’m trying to unlock as a general skill.”
+
+“I thought no combat related activities for a week?” Felicia said, raising her brows in an innocent manner.
+
+She’s got me, Ilea thought and smiled, pouring a cup of coffee for her girlfriend. “It was nice, though I woke up a few times. Still a bit scared of squishing you in my sleep.”
+
+Felicia flicked over a tiny blade of wind. “I specifically invested into Vitality. And these pajamas are enchanted.”
+
+“You should finally get your evolutions instead,” Ilea said. “Soon there won’t be any void creatures left to fight.”
+
+“There are hundreds of thousands of them left, and those are low estimates. I told you I’d get back to training once things calm down a little. Plus, I have a space mage lover who can bring me to training grounds most people couldn’t even imagine,” she said and grinned.
+
+Ilea rolled her eyes. “Places you’re not ready for.”
+
+Felicia looked at her while she drank from her mug.
+
+“Back to Lyseia soon?” Ilea asked.
+
+“After the ceremony, yes,” Felicia said. “Construction is going well but there are some difficulties between our own engineers and the Taleen builders we hired to help, at least concerning the underground and implementation of sewers.”
+
+“One of the things that kept you up? Sewers?” Ilea asked.
+
+“It’s an important matter.”
+
+“I know, I’m just joking,” Ilea said and yawned, then finished her coffee. She looked back out towards the sun and low hanging storms in the distance, the stabilizing effects of the Source embedded into Eregar’s Haven reaching quite far into the ocean.
+
+She wondered about what to wear but only one thing really made sense to her. Her dragon scale armor. And maybe her ash scale one on top but she wasn’t entirely sure yet on that part.
+
+“We could grab breakfast in Morhill before we split up?” she suggested.
+
+“That sounds nice. Would have to leave soon though if you still want that,” Felicia said.
+
+“I’m ready whenever,” Ilea said.
+
+Felicia glared at her. “You’re going to wear your armor, aren’t you?”
+
+“Of course.”
+
+“Must be nice, being known as Lilith, the Dragonslayer, Lilith, the Flame, Lilith, the Warrior. Try being both a Major in the Lys military and the head of an imperial noble House. What do I wear?”
+
+“Armor sounds fitting too, to be honest,” Ilea said.
+
+“Let’s table this discussion for when I have more mental space to teach you,” Felicia said and finished her coffee, then stood up and went inside. “Fifteen minutes?”
+
+“I’m here,” Ilea said with a smile, summoning more ice into her pan. Too much caffeine would hardly manage to hurt her with her cosmic healing.
+
+She finished another two mugs before Felicia returned, the woman dressed in a mix of gray and red half-plate and somewhat ceremonial armor, modest rings and earrings coupled with her hair up in a half-bun giving her both the presence of a commander but just as much the elegance of important nobility.
+
+“You’re staring,” Felicia said.
+
+“I know. Am I not supposed to?” Ilea asked. “You look both like a Major of the Lys military and like some head of an imperial noble House. Strange coincidence that.”
+
+Felicia grinned. “Told you. It’s not an easy look to pull off. Can’t wait until we get the first balls in Lyseia. I’m tired of armors and uniforms.”
+
+“You wore dresses to all three of our dates this week,” Ilea said as she stood up, blinking out over the ocean before she quickly stored her clothes, heated her body to clean herself, and then summoned her Calamity Scale Armor. She assumed the Accords would soon find a way to make less rough armor from the dragon scales as their smiths and enchanters worked with the material and improved but she didn’t plan to replace it, the set the very one she had used against Ravana. And she really liked how rough it looked.
+
+Felicia flew over and sighed. “Yeah but hardly anybody else did. I want an entire hall filled with music and elaborate gowns and fashion.”
+
+“Sure,” Ilea said.
+
+“And you’ll be invited too of course,” Felicia said with a grin and started flying upwards without giving Ilea a chance to retort.
+
+Guess I will be, Ilea thought, her wings carrying her up and past her home, one of the only buildings in the southern mountains outside of the new defensive perimeter set up by the Accords and all human nations of the Plains.
+
+It was the first major thing that they built together. Dwarves of Io and the Pit, humans from the Plains, Dark Ones, and even Elves helping in the construction.
+
+Ilea looked up to see the looming monstrosity, an enchanted stone wall near as high as the former walls of Virilya, set onto the cliff side of the mountainous territory, topped by battlements and cannons larger than her house. It spread in each direction and encircled the entirety of the territory still balanced by the Haven. And it was broad too, filled with hallways, rooms, barracks, and workshops.
+
+There had been some name suggestions but most people just called it the Wall. The structure that separated the wastelands wrecked by arcane storms, void monsters, and miststalkers from their own lands.
+
+Ilea and Felicia crested the wall and landed atop the battlements, greeting the guards and a few of Aki’s machines before they walked atop the massive structure and towards the other side. Flight above the wall was mostly forbidden.
+
+Ilea felt the cold winds flowing past, reaching the other side. She leaned against the stone, trusting the structural integrity and enchantments as she gazed towards the once untouched mountains and vales south of Ravenhall. She had chosen the remote cliff side for her home mainly due to the quiet wilderness above, remembering her many flights back to Ravenhall and past the forests and snow covered peaks.
+
+What she saw now was the foundation of a new city. Dozens of flat stone roads lined with saplings, foundations of buildings distributed throughout the large space, roads leading west to Ravenhall, north towards the foundations of the Imperial Lyseia, and south towards the Kroll owned Halfort. The connections were nowhere near done but with teleportation gates, they were not strictly needed in the first place, servicing secondary but just as much diplomatic needs.
+
+The layout of the city was near circular but there were large open sections that would become parks or even forested areas. With vegetation mages and Taleen technology, underground farming was not just possible but far more efficient than what humans had used in the Plains. There was no need to optimize the road layout for transportation via carts as Aki’s Guardians and teleportation eliminated most of that need. There were still central roads that would allow for efficient traditional travel to prevent an over reliance on technology but Ilea was intrigued to see what the various architects of the different regions would come up with now that they had a bit more leeway and new foundations to start.
+
+“Alistair still doesn’t have a name for it, right?” she asked, her eyes till on the foundations of the city built for the people formerly of Riverwatch, this territory in their jurisdiction with the inclusion of Aki’s machines.
+
+The same treaties had been offered to all governments within and beyond the Accords, to rebuild settlements in the light of the sun, to prevent animosity and to encourage cooperation. The entire southern mountains had been considered Accords territory before the Extraction but now that land untouched by arcane storms and mist had become so rare, things had to change, and while a few in the Accords would’ve wanted to keep this entire region for themselves, a vast majority voted to split these territories among all nations and independent cities, with the Wall itself protected and governed by a joint organization including all of them.
+
+Peace by trade and reliance on each other. At least that was the goal. They still had their military might but Ilea knew most of the survivors were looking to kill void monsters and reclaim their former lands rather than looking at the scarce land that was left. Morhill still served as a sort of hub, much of its teleportation infrastructure still remaining, many of the end points now simply much closer than before.
+
+“I have yet to hear a name, no,” Felicia said.
+
+Ilea spread her wings and jumped off the high reaching battlements, flapping her wings as she aimed westwards and towards both Ravenhall and Morhill. The two cities would be far closer to one another than most of the other settlements, though she didn’t know how many more cities would be built in the coming decades. Nor did she know how many people would choose to stay underground, a lot of advancements with crystal magic and new enchanted lights had already popped up to make the lifestyle comfortable for humans. A necessity that had simply not existed before, nor the open cooperation between the ancient species and scholars of Elos.
+
+These are still going to be sprawling cities in no time, Ilea thought, already seeing the people far below, builders, wagons, machines, and animals alike. If only because our pride won’t allow us to simply hide underground when we have this land available to us.
+
+She didn’t mind it either. More diverse places for her to explore, more new buildings to admire, more new restaurants to dine in. She hoped plenty of architects would take some inspiration from Marrindayne and some of the more interesting dwarven cities throughout the lands.
+
+Smaller towns and villages had already popped up in the valleys leading up to Ravenhall. She wondered how much Claire, Dagon, and Sulivhaan planned to expand the city itself in the coming years but she assumed that with all the extensions and improvements added in the last few years, there were plenty of plans already in place.
+
+Flying past the mountain tops, Ilea gave Ravenhall a single glance before looking up at the imposing dragon corpse. The corpse she had placed there. The dragon she had fought and killed. It felt like so long ago by now, with everything that had happened, the monument just feeling like a part of the city by now, ancient, its origins unknown.
+
+A few more mountains before she slowed, looking at the the now sprawling city of Morhill, new foundations spreading throughout the valley and up the mountain slopes, the settlement of the Accords expanding fast, a hub now for adventurers, armorers, weaponsmiths, mage guilds, and hundreds of other establishments. While Ravenhall still housed the Shadow’s Hand, the Haven, the Academy, and the Headquarters of the Medic Sentinels, Ilea wondered which city would turn out to be the larger, given a few more decades.
+
+With its hub like function and diplomatic districts added for each nation and government both of the Accords and others, its function would surely eclipse Ravenhall, and soon.
+
+Ilea landed on a mountain peak overlooking the city.
+
+Felicia landed next to her. “Feeling nostalgic?”
+
+Ilea smiled. “I told you how myself, my team, and a few other Shadows once cleared the demons out of Morhill. To think it would rise to this kind of importance one day.”
+
+“There is always history to the importance of cities. History and geographic location, though with all the technology we now have available to us, the latter will likely become less and less relevant,” Felicia said. “A place to host events for all nations and species will be most welcome.”
+
+Ilea gave her a nod. She spread her wings and started her descent towards the central walls. They would soon be torn down and replaced by something far more modern and extensive. Somehow she felt like it would be fitting to plant the Meadow at the very center of this town but she knew the tree had grown more than a little attached to Hallowfort and its entire domain. Its wisdom and magical knowledge had paved the way for all of this and she knew as well that most humans at least were not necessarily comfortable with an eldritch high level four mark tree in their backyard.
+
+Finding breakfast wouldn’t be particularly difficult. A festive mood was downright brimming with life throughout the city. An event to both commemorate all they had lost but just as much to look into the future, towards what was possible. The day of Niraela, the name given to the first star of Elos by the Elves of the Sunlight Wastes, and the sun taken in the second Extraction.
+
+Ilea landed with a soft impact on the flat stone road and cracked her neck.
+
+Time to find food.

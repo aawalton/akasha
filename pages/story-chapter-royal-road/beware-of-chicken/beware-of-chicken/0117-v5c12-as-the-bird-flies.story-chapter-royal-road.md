@@ -1,0 +1,181 @@
+---
+id: 80c0c8bd-2a4d-5822-b8ee-a88352b28518
+page-type-slug: story-chapter-royal-road
+title: "v5c12: As the Bird Flies"
+slug: 0117-v5c12-as-the-bird-flies
+partOf: beware-of-chicken
+position: 117
+ownLength: 2232
+unit: words
+ownProgress: 2232
+publishedAt: 2024-06-11
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1672171/v5c12-as-the-bird-flies"
+royalRoadId: "1672171"
+markedReadAt: "2026-06-29T18:55:31.009Z"
+---
+
+“And my boy was useful to you, miss?” Zhang Fei, the Leader of the Eighth Correct Place and father of Zhang Fei the Torrent Rider, asked Xiulan as they sat outside his house. His crutches were beside him, and his face was serious.
+
+After speaking with the Lord Magistrate, Xiulan and Tigu had picked up Yin and left to visit the Torrent Rider, while the others had other business to attend to: Xianghua was hunting with Bowu, Gou Ren and Ten Ren, while Jin and Meiling were spending the day with the Zhuge family.
+
+They had come to see how their youngest member was holding up, having been back at home for nearly a week. Some of Xiulan’s sect, those from mortal families, mentioned they had difficulty fitting in when they returned home.
+
+They needn’t have worried for the young man. He had slotted back into his village like he had never left, already a hero from his time fending off the wolves. To Xiulan’s surprise, Shaggy Two had been accepted just as easily. Silver Shepherds, the dogs that the people of the Gutter raised, were already very intelligent animals—Shaggy Two was just an even smarter version.
+
+She wasn’t certain they saw him as a person yet, but Shaggy Two wasn’t exactly helping his case with his adoration of playing fetch and begging for belly rubs—as he was currently doing with Tigu while the Torrent Rider and Yin sparred.
+
+“Yes, Zhang Fei was indispensable in taking down the slavery ring. He hunted them day and night and caught many who would have otherwise escaped,” Xiulan assured the man, taking a sip of tea. “He acquitted himself well, and I am glad he was by my side.”
+
+Zhang Fei’s father looked at his son. Zhang Fei must have been a blur to him, fending off Yin—until she managed to grapple the smaller boy and put him in a headlock. Her knuckle dug into his head as he squirmed, and Yin laughed.
+
+“I didn’t know what to think when he said he was going with you. Honestly… I thought you cultivators might take him into your sects, and I might never see him again,” the man admitted. “I’d made my peace with it. Who am I to keep my boy from bigger and better things?”
+
+Xiulan smiled at the man. “Do you want to know what his biggest desire was, for when we came back north?” The village chief paused and turned to her. “He wanted to ride the torrent, together with the rest of us. He seems quite convinced he's still going to be the village chief when he's older.”
+
+Zhang Fei the Elder barked out a laugh and shook his head. “Of course, why would I think differently?! We have the best Torrent Riding spot here.”
+
+Xiulan chuckled. “I must admit, I’m looking forward to it as well. It was an immensely enjoyable activity—and several other cultivators seem to think the same.”
+
+“Really?” the silversmith asked. “Cultivators Torrent Riding. And I thought the strangest thing was the talking chicken!”
+
+They both sat back to watch the younger ones play—Tigu had her face buried in Shaggy Two’s fur, and was humming with delight. The dog looked just as pleased, his tongue lolling out.
+
+They stayed for a few hours, and Xiulan had a light spar with the young man, his chicken mask firmly affixed, before calling it a day and heading back to Verdant Hill. The Torrent Rider promised to come and play Ha Qi at Jin’s place.
+
+=========================
+
+Upon returning to Verdant Hill, Tigu made a beeline to an old shack against the town wall, while Yin headed back home to spend time with her Master. Xiulan recognized it as the place where Bi De said the crone who gave him the map of the Azure Hills lived.
+
+She knocked politely on the door—and an old, bald man opened it.
+
+“Who are ya to darken my doorstep?” the old man demanded.
+
+Tigu blinked. “Grandfather? Is Grandmother in?”
+
+“Who the hells is at the door, you old goat?” an angry voice sounded from further in the house, accompanied by stomping feet, until an old woman appeared. She was blind in one eye, and the other rolled. “Brat. It's you. What are you doing standing in the doorway and letting my hot air out! Let ‘em in, Shu!”
+
+The old man squinted at them, huffed, and walked away from the doorway to the cramped house—made doubly cramped by the actual goat standing in the corner, placidly chewing its cud.
+
+Tigu entered without fear, and Xiulan followed, as the old woman picked up a bunch of animal carvings from a bench and deposited them in a corner. There were many carvings of animals—though some were of humans—and a few had strange characters carved into them.
+
+“So, back are ya?” the Crone demanded. “Did you get a bloody nose from getting all your heroic nonsense chucked back in your face?”
+
+To Xiulan’s amusement, they were served hot water instead of tea—Tigu clearly expected this, as she pulled out a small bundle of tea leaves. The crone snorted with laughter.
+
+“No! We succeeded!” Tigu said cheerfully, but her eyes darted around the room, looking for something—until she startled, as an old, three-legged tomcat hopped from the rafters and landed on Tigu’s shoulder. He rubbed against her face, before hopping down further to land in her lap.
+
+The crone raised an eyebrow.
+
+“Well. You’ve obviously been dying to tell me about it—and I need something to fall asleep to, I guess,” the old woman harrumphed.
+
+Her abrasiveness was quite amusing, Xiulan mused. Tigu launched into her tale—and contrary to the crone’s words, she didn’t fall asleep, instead listening to every word, as Tigu stroked the cat on her lap.
+
+Xiulan just let the story wash over her. Tigu told most of the tale this time, as Xiulan dozed in the warm shack.
+
+=====================
+
+“C’mon, you can do it!” I said, as Jinhai stood on unsteady feet. Meihua and Tingfeng’s son had his little face screwed up with determination as he wobbled, reaching his hands out towards me.
+
+I was just out of reach, however, and Jinhai found this state of affairs unsatisfactory. The little man grunted, and with obvious, if ponderous, deliberation, lifted a pudgy leg and took a step forward.
+
+“That’s it!” Meimei encouraged from where she was sitting behind me. Zhuye was in her arms, staring curiously at the toddling boy. Meihua and Tingfeng were behind their son, ready to catch him if he fell backward.
+
+Jinhai let out another little grunt, and then lifted his other leg. He managed another step before he started to tip forward, and a fourth before his balance gave up completely and he pitched forward into my waiting hands.
+
+All four of us cheered at the accomplishment, and I lifted the little man above my head, to his giggling delight.
+
+“Great job, Jinhai!” Meihua said enthusiastically. “You gotta show Zhuye how it's done, like a good Big Brother. Show him the ropes, and help him along, like I had to help Meimei!”
+
+Meiling rolled her eyes at her friend’s boasts. “Yes, of course, Big Sis Meihua taught me everything,” she jabbed sarcastically.
+
+“I’m glad you finally agree.” Meihua returned with her tongue stuck out. Meimei’s eyes narrowed.
+
+“Oho? Then who was the one who gave you that scroll on how to give your husband—” Meihua’s hands clamped over Meiling’s mouth.
+
+“Don’t you dare!”
+
+“Oh, I’ll definitely dare!” Meimei shot back.
+
+I caught Tingfeng’s eye as the women started to bicker, and he shook his head with amusement. Neither woman meant anything by it, and it was pretty funny watching them squabble. I took his son over to him and he took the lad with a smile, as we both sat down and watched the fireworks.
+
+It was a welcome reprieve from the heavy topics we had discussed with the Lord Magistrate yesterday. I had seen both pride and worry on his face.
+
+On one hand, he had a lot to be proud of. His son took out a slavery ring. I was damn proud of Tigu for helping with that. I’d have to do something nice for the guy when I saw him.
+
+On the other hand, the only reason he was in that position, according to what Lady Wu had told Meiling, is because somebody in her family was trying to fuck around doing skeevy politics shit.
+
+Let me tell you that pissed me right the hell off. And while I wasn't going to go all ‘line extermination’, there was definitely going to be some finding out.
+
+And not in the cultivator fashion either.
+
+In a rather more mortal sense.
+
+Namely by telling the Azure Jade Trading Company that the Wu family of Pale Moon Lake City had offended me. Now, I wasn’t the kind of guy to just tell merchants to stop doing business with big spenders like the Wu family—that was just being a normal cultivator. So I was going to sweeten the pot a bit, with something that would definitely offset any losses.
+
+Lowly Spiritual Herbs. Or their actual name, Seven Fragrance Jewel Herbs. My seasonings were apparently cultivation material good enough that the Cloudy Sword Sect wanted to buy them.
+
+So. I wonder how much the Trading Company would get for auctioning a few bundles off that I “had no use for”. That should also help them break into the other markets that they wanted to.
+
+Now, I mostly liked to keep them for myself, my friends, and my family… but the Lord Magistrate counted.
+
+He’d done right by me, and I repaid my favors. Some might say this was too little—but Xiulan had told me her students were keeping the Special Inspector safe for now. It was enough time for the Wu family being blacklisted to percolate through the politics of the city, and let those political ramifications settle.
+
+With luck, of course. I was still new to Machiavellian scheming to defeat my rivals indirectly.
+
+That said, if there was an outright assassination attempt, the gloves were coming off.
+
+So, after the solstice, I would be paying a visit to Pale Moon Lake City, and I would be getting all that sorted.
+
+For now, though, there wasn’t much to do.
+
+After a moment, I turned to Tingfeng, as the girls had gone from arguing to Meihua combing Meiling’s hair—while still sniping at each other.
+
+“Hey, did you know the Lord Magistrate’s son well?” I asked him.
+
+Tingfeng looked a little embarrassed. “Not particularly well. The man was around the palace, and I saw him at a few functions. But before Meimei lit a fire under my ass I… uh, was not the most driven man. And the Lord Magistrate’s son was always doing something to better himself, either studying or drilling in the yard with his sword. He was polite, and well-mannered, but outside the constant working, he didn’t really stand out.”
+
+I sat back and listened to Tingfeng as he told me everything he knew about the man—which honestly wasn’t much.
+
+========================
+
+We eventually got home just as night was falling. We picked up the rest of the crew and legged it home.
+
+We had just gotten Zhuye settled when Meiling suddenly stiffened.
+
+“The smell is back,” she stated, her eyes narrow.
+
+And so, the ritual of attempting to chase the damn thing down began.
+
+Both of us launched ourselves back outside, Meiling leading the way—and to my brief surprise, Xiulan and Tigu were right beside us. We charged out into the back hills, moving as fast as we could.
+
+Meiling started scenting the air, and then she frowned and pointed. “It's leaving! That way! I think it is up in the air!”
+
+I frowned. Whatever it was was going to be far away in the sky, or maybe behind a hill.
+
+I skidded to a stop, squatted down, and linked my hands. “Tigu!”
+
+Tigu got the message. The sole of her foot hammered into my cupped hands as she crouched—and I heaved.
+
+There was a crack of air, as I put in as much force as I felt Tigu could handle, and my girl rocketed into the air—soaring up until she was a speck in the sky in the blink of an eye. I immediately started after her ballistic trajectory.
+
+Tigu traveled in an arc, flipping through the air, and absolutely in control. She had to be over a hundred stories in the air, but she was unconcerned as she gracefully bled off some of the momentum by kicking the air. She didn’t change direction, but she visibly slowed, until she landed on her feet.
+
+Meiling and Xiulan arrived behind us, Xiulan with her swords out.
+
+“Did you see anything?” I asked Tigu.
+
+She turned and looked at us.
+
+“The only thing I saw was a bird,” she replied.
+
+“Was there anything unusual about it?”
+
+“Not that I could tell,” Tigu said with a shrug. “It was flying north.”
+
+I frowned at another bust, and Meiling sighed.
+
+“Sorry for worrying you all,” my wife said, and slumped slightly.
+
+I patted her shoulder consolingly, and Xiulan went from focused and ready for war back to her sleepy look, and yawned mightily.
+
+We headed back home and curled up near the fire. By the time we went to bed, the tension had dissipated entirely.

@@ -1,0 +1,457 @@
+---
+id: df5edb18-1eac-5984-820a-a2e890b0b192
+page-type-slug: story-chapter-royal-road
+title: "v4c56: The Tale of Lightning and Mist"
+slug: 0071-v4c56-the-tale-of-lightning-and-mist
+partOf: beware-of-chicken
+position: 71
+ownLength: 4885
+unit: words
+ownProgress: 4885
+publishedAt: 2023-11-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1396303/v4c56-the-tale-of-lightning-and-mist"
+royalRoadId: "1396303"
+markedReadAt: "2026-06-29T18:53:51.168Z"
+---
+
+There was once a woman. Her name was Su Nezuha. She was a beautiful woman. She was also a beautiful fox. Her fur was white and gold, and her eyes red as blood. Any who looked at her face were immediately entranced by her otherworldly beauty.
+
+She ruled the Misty Fang, powering the protections that kept the demons out with her blood, her Qi, and the tribute from both foxes and men.
+
+She ruled as justly as she was able, cleaving well to the words her sister had told her before Nezin had left for the outside world, saying her place was out there.
+
+“We are better than our blood, Sister. Our mother was a monster. Though her spite and cruelty runs in our veins, we must never succumb to it. Be better than it. Master it. I know you’ll be able to.”
+
+Those were the words she lived by… or at least tried to. She wasn’t perfect. She often lost her temper at her subordinates… or lost herself in the hunt of a new pretty man to warm her bed.
+
+If they didn’t want her to chase them, they shouldn’t have been so cute.
+
+She kept the demons at bay. She curbed the worst of her kind’s excesses, and lived the life of a guardian, obliterating any demon that somehow managed to bumble its way through the mists.
+
+She was the Lady of the Misty Fang, and both men and foxes were under her protection.
+
+One day, however, there was a great upheaval. Something outside their walls cracked and broke. With its fracturing, so too did most of the formations around their home. She tried the best she could to maintain them, but the walls of mist slowly faded. She sallied out every day, fighting off demons to exhaustion… but to her surprise, as the protections faded, less and less demons came through.
+
+As if something was fighting them, destroying them, or there weren’t many out there anymore.
+
+She pondered this predicament as the protections weakened and faded… until one day they let somebody from the outside in.
+
+He was absolutely beautiful, with hair of spun gold and blue eyes that were mirrors of the sky. His Qi was depleted, and he was littered with demonic injuries.
+
+Nezuha ordered at once that the man be healed, her eyes roving all over his body.
+
+=============================
+
+The man’s name was Zang Zengsheng.
+
+He was from the outside world, where men did battle with demons. He called it the Great War, where the Crimson Phoenix Empire sought to exterminate the beasts and to make sure none had to ever again suffer their depredations.
+
+They had pushed the monsters almost off the continent.
+
+Zengsheng himself was from the Lightning Brigade—one of the foremost vanguards against the demons. They used their Great Lightning Formation to hurl themselves into combat with the foe, striking them from the heavens like divine retribution.
+
+The man had been injured in one such great battle, fighting bravely with his men but ultimately succumbing to an ambush that slew the rest of his men. Indeed, his back was littered with wounds, showing the treachery of the monsters.
+
+Nezuha was instantly entranced by the young man and his tales of heroism, as well as his sharp eyes and commanding demeanour.
+
+She asked him to lie with her, and he was most agreeable to it.
+
+And thus did her days with him begin. He was skilled and attentive, and his words were sweet in her ears as he expressed admiration for her wonderful realm and her ability to rule… so in return she lavished affection upon him. She aided him in his healing, helped him refine the interesting and powerful 100,000 Year Ginseng he had with him, and showed him all the best spots to meditate… much to the grumbling of her advisors.
+
+But what did they know? This was a hero who fought the demons… and his nightly vigour proved it! She indulged his commanding voice, amusement dancing within her at how much he swaggered around.
+
+They even cultivated together, the man endlessly fascinated with her illusions.
+
+But he did heal eventually, and the hero had to return to war. He was reluctant, saying how much he loved the mountain, but he had to go back to his brother.
+
+She gave him a drop of her blood so he could get through the wards and visit her again. They would stay hidden for now—for they would surely be overwhelmed, their mountain still deep within demon territory.
+
+==============================
+
+Visit her he did over the years. He often came back injured and begged that she take care of him.
+
+Who was she to say no to her brave warrior?
+
+She gave him resources and tended to him so he could keep getting stronger and keep coming back to her. Under her, he grew strong indeed.
+
+She showed her lover all around her mountain, including the vault that she probably wasn’t supposed to. The vault had all their greatest treasures, and, well, she had wanted to show off a little. He could even ask her for one, and she would grant it… with some exceptions.
+
+“My lady, that there would be most beneficial to my cultivation,” he said, staring hungrily at the vial. It was behind a hundred formations and sealed tightly.
+
+A vial that contained some of Da Ji, the first nine tailed fox’s, blood. It was a potent treasure and held some of her boundless malice. It could not leave the mountain. Not now, and not ever.
+
+“Not that one,” she replied, her face falling a bit. “That one is to remain behind under all circumstances. None shall have that blood on pain of death. Come now, look at these others here.”
+
+He tried to convince her. He whispered sweet nothings in her ears. He tried for a full year.
+
+But Nezuha did not budge. That treasure was not for him. He grew increasingly grumpy with her, her Zeng’er… but she never imagined he would break into the vault.
+
+She never imagined he would smash the wards and try to steal it.
+
+She never imagined he would attack her when she tried to stop him. He took a hostage and threatened to kill the child.
+
+For the first time she felt her passion cool… and she did her duty. She released her full power to stop him and nearly brang all of the protections around down with it.
+
+Nezuha defeated her lover. She struck him, she smashed him, she burned him with foxfire… but she could not bring herself to kill him.
+
+She let him go, the fondness of the time they shared together stayed her hand
+
+==============================
+
+His name was Zang Yong. He was a big man. He had hair of spun gold and eyes blue as the sky. His smile was a stunning thing, like the sun rising above the horizon.
+
+Everybody who fought with him knew his name. They knew his passion. They knew his battle cry, and took it as their own.
+
+“Strength above all, to protect what we love.”
+
+He was loud. He was boisterous. He was generous beyond comparison. He was ever in the vanguard, never flinching, and was often scolded by his lieutenants for using his body as a shield to protect his less powerful comrades. His front was littered with scars—yet his back was marred by not a single one.
+
+The accolades he received from the Emperor were many, for none forged ahead so valiantly as Zang Yong, liberator of mortals and slayer of demons. Some even whispered that he would be honoured with a permanent post in the capital once the war was done.
+
+He was the Lightning Brigade’s pride and joy. Their lord and master. They would follow him to the depths of hell with a song in their heart and a smile on their lips.
+
+It was a beautiful day. Yong was playing with the children and allowing them to climb over him like a living tree. His voice was booming with laughter.
+
+Then, grave news reached him. His eyes hardened and he gently pulled the children off before he left with all haste, going to the side of his little brother.
+
+The men called him gloomy, and when they thought he couldn’t hear, they complained about his little brother’s demeanor, so different from Young’s, but he wouldn’t have it. Of course they were different people!
+
+He was growing into his own, having taken long ranging missions these past years, to atone for the one disastrous command he had been given. He had been so adamant that 10,000 Year Ginseng was there, he had mustered the men… but it had ended in tragedy, with no ginseng, and the entire unit slain. His little brother had barely escaped with his life after hiding in a cave!
+
+As Yong entered the medical tent he was immediately enraged by what he saw. His little brother, broken and beaten to within an inch of his life!
+
+“Who did this to you?!” Yong demanded. His little brother, who he had raised like his son! His only surviving sibling after the devastation the demons had visited upon his home!
+
+“The foxes, Brother!” his little brother gasped, his face a rictus of pain.
+
+Yong’s eyes narrowed. It had been his little brother that discovered the mist wall during his scouting missions. They had kept an eye on the place. Yong’s other scouts had found some humans who had stumbled outside mists woven by the foxes—there were quite a few unsavoury tales. Of the illusions inflicted upon men by beasts, and the foxes’ lustful ways
+
+But they were no demons, so Yong hadn’t done anything. Better His Imperial Majesty’s diplomats to make contact, than a man like himself!
+
+His little brother told him through his pain about how he had tried to make Yong and the Empire proud. How he had managed to find a way into the foxes’ den and had tried to convince them to join forces so they could lay the demons low together.
+
+Their queen had responded by doing this to him. Laughing and tormenting Young’s little brother.
+
+It could not stand. It would not stand.
+
+A true man got strong defending what he loved. So he assembled his forces. He told them to wait for his signal, and then he went to treat with the woman who had harmed and humiliated his little brother so.
+
+===============================
+
+A bolt of lightning punched straight through every ward that they had. It made the mountain quake and shake.
+
+“Fox!” the golden man roared as he landed before Nezuha. “My name is Zang Yong, Elder Brother of Zengsheng! Are you the one who dared to do harm to my little brother?!”
+
+Nezuha rose her head high and she waved her servants back.
+
+“I am,” she stated simply.
+
+“Then I shall visit upon you what you visited upon him a thousand fold,” the man stated simply, his intent focused solely upon her.
+
+And thus, the battle was joined.
+
+The rest of the foxes could only watch as the battle between two masters in the Imperial Realm raged.
+
+===============================
+
+They were evenly matched. The heavens shook and trembled as they did battle, high above the clouds. The man was a raging ball of lightning and his fury shook the very heavens. He looked like a barbarian, with his uncouth demeanour and horrific scars.
+
+They clashed, again and again and again. The world shook and the heavens trembled. The clouds shattered into pieces.
+
+Yet neither of them had an advantage.
+
+The man sucked in a breath and rose up past where a mortal could survive. A massive ball of lightning formed above him, enough to shatter an entire mountain range.
+
+“He comes here under a flag of truce, and you poison his drink and you beat him?! You court death with all your heart!” The man shouted, his voice literal thunder.
+
+Nezuha ripped open her domain, her personal world, and mist poured out to catch the gigantic ball of lightning. She strained mightily against it as the mist ripped and tore the lightning ball to pieces. Her hand trembled from the strain.
+
+“He snuck into our vaults, tried to steal our treasures, and threatened to kill children!” She roared back, incensed at the brazen lie. A mass of foxfire, malevolent and alive, raced towards the man. It took him in its grasp and smothered him, burning his flesh and freezing his soul.
+
+Lightning erupted from his body with a flash and an explosion so loud it hurt her ears. Zang Yong huffed, his body singed.
+
+“You dare say my brother lied to me?!”
+
+“You dare believe the words of a coward and a weakling?!”
+
+Their bodies slammed into each other for the thousandth time.
+
+===========================
+
+Nezuha knew not for how long their battle raged. But over time they got lower and lower to the ground until they were upon it.
+
+Their blows were weaker. Their spirits were exhausted. But the scowl of Zang Yong had slowly turned from rage to respect over the course of their battle.
+
+Nezuha wanted to wipe the stupid look off his face.
+
+Yet still they kept fighting.
+
+They landed in a place that looked relatively abandoned, which Nezuha was thankful for.
+
+Both of them were nearly spent.
+
+Zang cupped his hands, and lightning gathered within. Nezuha did the same with her foxfire. Their attacks launched at each other, collided, and then deflected off—
+
+A child screamed. Too near, too close,
+
+Nezuha instantly turned and exploded into motion, moving to cover the child with her body.
+
+But another was there too.
+
+Their uncontrolled blow hammered into both herself and Zang Yong.
+
+Both of them groaned with pain and collapsed to a knee, and the man reflexively caught her to steady her.
+
+Nezuha blinked.
+
+Then she pushed herself away from him, her face red. “Why, you bastard, why would you—”
+
+Zang Young kowtowed before her, stopping her words cold.
+
+“Zang Yong must beg the beautiful lady’s forgiveness for what he has done!” He shouted, his voice completely earnest. “You are not the kind of woman to poison and beat my brother! This Zang Young felt it in your intent and blows!”
+
+Nezuha’s jaw dropped. They had just been trying to kill each other… and now he was willing to stop fighting?
+
+…but she supposed he had attempted to save the child as well. The kid was sitting there, looking absolutely bewildered.
+
+“Run along,” she commanded, and the boy didn’t need to be told twice, sprinting for the mountain. Nezuha sighed. “Raise your head,” she said after a moment, and the man did so. He was disheveled and burnt, but he somehow looked noble even so, his eyes as pure as the sky above.
+
+“Will you tell me what happened?” the man asked her, politely.
+
+So she told him.
+
+Zang Yong was frowning heavily by the end of it.
+
+“I believe you. I just cannot believe my own brother would do such a thing. Where did I go wrong in raising him?” His voice was an honest lament, before his eyes turned hard. “He has much to answer for. I shall discipline him properly for this, Lady Nezuha, you have this Zang Yong’s word.”
+
+She too… couldn’t help but believe him. He was so earnest. And kind of cute now that she got a better look at him—no! No, no thinking the man is cute, that's how she got into this mess in the first place!
+
+But he really was very cute now that he was smiling. And her instincts tol her he would be really good with kids—no!
+
+“I am willing to believe this to be a misunderstanding, Zang Yong.” She allowed, after thinking it over. “But I shall have reparations for this,”
+
+She couldn’t be too forgiving.
+
+The man nodded. “Of course, Lady Nezuha. And I will make sure to relay this incident to His Majesty.”
+
+“I will meet with your Emperor. And mayhaps yourself, later,” Nezuha said. She winked.
+
+The nlonde-Haired man grinned at the fox and held out his hand to her.
+
+The woman laughed and reached for his proffered limb.
+
+A bolt of lightning impaled them both.
+
+And Zengsheng, hidden away behind an illusion technique she had taught him, stepped forwards.
+
+“Not how I wished for things to go, but I suppose this outcome is fine too,” the still injured man said. “At least I’m finally out of your shadow, brother.”
+
+“Brother, why—” Young started, his voice broken. He was shattered in that moment—that the person he loved and held so dear would kill him.
+
+Zengsheng, on the other hand, did not hesitate. He bared his hands like a fox’s claw and struck down. Fire erupted around him after the blow as he made sure to slay his elder brother completely.
+
+And then he turned to Nezuha.
+
+“A shame,” Was all he said. And then his lightning came for her.
+
+Nezuha and Yong died… save for a tiny piece of them that flowed into the mists around the mountain.
+
+=======================================
+
+The men and women of the Lightning Brigade waited patiently for their lord’s return.They did not doubt he would return victorious, and with the fox humbled for what she had done.
+
+They all looked up when the protections around the mountain faded with a smile.
+
+That smile faded when Zengsheng, who even as injured as he was and had begged to go in and scout, staggered back holding a corpse.
+
+“The perfidious whore faked a surrender! When my brother’s guard was down… she got one of her servants to strike him in the back!”
+
+There was silence at his proclamation. Tears began streaming from countless eyes. Several of the brigade dropped to their knees.
+
+“Master!” the wail began. “Master!”
+
+“I managed to strike her down, spent as she was! But these treacherous beasts can’t be allowed to live! For Zang Yong! Slay these cowards to the last!”
+
+The horror and the sorrow turned into rage.
+
+“Strength above all!” Zang Zengsheng’s booming voice rose above them. “Slay them to the last!”
+
+The Lightning Brigade charged, fury fueling every step as they went to slaughter the demon beasts that had slain their lord.
+
+It was horrifically bloody. But in the end, the Lightning Brigade took the mountain.
+
+Ragged and spent, the Lightning Brigade settled in to recoup their losses. Unknowing of the treasury their new Master looted. Unknowing of the treachery that they had been part of.
+
+And that was how the once Glorious, Honourable, and Virtuous Lightning Brigade became the Shrouded Mountain Sect.
+
+They subjugated the mountain. They bent its protections to their own ends.
+
+But the ever present mist never forgot what they had done.
+
+==============================================
+
+There was once a woman. Her name was Zang Wen. She was a beautiful young woman with hair of spun gold and blue eyes.
+
+Zang Wen was born into the branch house of the Shrouded Mountain Sect. There were whispers in her youth that it had once been the main house, presided over by the original Patriarch, the man beloved by all. But he had fallen in battle, long ago. They were only spared by the might and skill of his more powerful Younger Brother.
+
+The life of a Shrouded Mountain Sect disciple was one of war. They ate it, they slept it, and they breathed it. For the war against the foxes was eternal, fought in the shadows against an enemy with no pity or remorse.
+
+Zang Wen knew death at a young age. She knew of her comrades committing suicide from tormenting visions, she knew men and women alike with their throats ripped out by cruel fangs.
+
+Zang Wen hated the foxes. She wondered why they wouldn’t give up and stop killing her friends. But they were stupid beasts, cruel and duplicitous, so she supposed the thought never occurred to them.
+
+She was a rising star; a fierce hunter. Her friends praised her, and her martial brothers and sisters stuck by her closely.
+
+She loudly proclaimed how she would be the one to end the threat, once and for all.
+
+===================================
+
+She put every fox she found to the sword. She did battle in mountains and tunnels and outside villages that the foxes had beguiled. She never failed to win… until she finally met her match.
+
+A male fox. Furious and blood thirsty. Its name was Nezan. It was a creature with a hefty bounty, for it had killed hundreds of disciples over the years.
+
+For three days and three nights she did battle with the snarling beast, until both were spent.
+
+“Why? Why don’t you give up, you monster? We could all live in peace, if you weren’t such savages,” Wen demanded of it.
+
+The fox looked at her incredulously. “Give up? You bastard human, how could we give up? You stabbed us in the back, slaughtered our kin, and stole our mountain! We will never give up!”
+
+Wen glared at the fox. It was obviously trying to beguile her. “Save your breath. When we next meet, I’ll kill you,” she snarled at it.
+
+“I’ll rip out your throat and feast on your bones,” Nezan replied, his eyes promising death.
+
+They both retreated that day, but for some reason the words stuck with Wen. Not the ones they parted upon, the threats were common, but the accusation of thievery, that the mountain was not the Sect’s but the foxes.
+
+At first she didn’t think much about it. But as she fought, and as more and more foxes spat at her, their eyes full of desperation and hate, she began to wonder.
+
+…was that why they fought so hard? Was that why they were willing to use everything they had against the Shouded Mountain?
+
+It tormented her. The fox had said it with such conviction… No! No, it must have been trying to induce a heart demon!
+
+Wen applied for leave. She had to meditate to recover her edge, and kill Nezan.
+
+She traveled all over the Shrouded Mountain to calm her heart, but she was unable to. His words… No!
+
+One day, after she finished her meditation, she opened her eyes to something odd.
+
+A piece of gem that looked like a small piece of Spirit Beast Core.
+
+Curious, Wen touched it.
+
+=================================
+
+There was once a woman. Her name was Su Nezuha. She was a beautiful woman. She was also a beautiful fox. Her fur was white and gold, and her eyes were red as blood. Any who looked at her face were immediately entranced by her otherworldly beauty.
+
+================================
+
+She nearly suffered internal deviation from what she had seen. It could not be true. The Younger Brother was a dutiful man. A filial brother who had avenged the elder, striking down the wicked foxes.
+
+The Blonde-Haired man grinned at the fox and held out his hand to her.
+
+The woman laughed and reached for his proffered limb.
+
+A bolt of lightning impaled them both.
+
+She refused to believe it… but neither could she disbelieve it. So Wen, the rising star of the Shrouded Mountain Sect, made the decision to go to the Inquisitors. They could surely make sense of this, she thought. They could surely help her with this… false history.
+
+But before she approached them, she hid the crystal. Just in case. She pulled a stone from the wall and hid it in plain sight. It was a whim to try and use the technique the Sectmaster had used in the memory and failed at mastering. Yet to her surprise, it worked. The lightning acted like an illusion.
+
+And thus did Zang Wen march forwards. A copy in her hands. Things would be simple, she thought to herself. The righteous of the mountain would surely dispel this rumour.
+
+At first the Head Inquisitor had been almost grandfatherly, meeting with her alone. They spoke on the incident and what she had seen. His grandfatherly gaze had died a swift death. And in that moment Wen knew the truth.
+
+The contents of the crystal were real. The Head Inquisitor had no answers for her.
+
+But he had added something to her tea, she realised, as the world went hazy.
+
+She woke up, bound to a wooden frame. Her blade was gone and she was naked.
+
+Then the real questioning started, along with Wen’s screams.
+
+“You knew?” she demanded, spitting through bloody lips when the Head Inquisitor once more came before her for questioning.
+
+The man looked at her and sighed. “Of course I knew,” the Head inquisitor replied. “As does the Patriarch, but the truth is an ugly thing. We are the Shrouded Mountain Sect. The righteous defenders of the mountain, and that won’t change. It cannot change.” He paused and looked at Wen, his eyes genuinely regretful. “For what it's worth, I take no joy in this, Disciple. It is simply our duty to make sure that incident never comes to light. So spoke the Patriarch when he founded his Inquisitors.”
+
+A lie propagated for thousands of years. Untold thousands slaughtered. All to save some face.
+
+Stakes of Qi drove into her mind as the Inquisitors started to get… creative.
+
+And now Wen too was going to die for it.
+
+She could feel them rooting around. Practicing. Each moment was agony. She had no idea what they were doing, until it started.
+
+Until pieces of her started to flake away.
+
+She could feel them slipping from her mind. They were going after her memories.
+
+Death was too kind. They were going to try and erase who she was… and build her up again. They would make her forget, and have their hunter back.
+
+Their work was slow and torturous and Wen was awake for every moment.
+
+No. Wen refused to die. She refused to obey the will of the bastard who had slain the true Patriarch and plunged them into this war for his own selfish greed.
+
+More and more memories faded. She could barely hold on to anything. The Patriarch had been betrayed. The foxes were right. The truth was there. She had to escape.
+
+She struggled against them. She got a feel for the wards that bound her.
+
+The Patriarch had been betrayed. The foxes were right. The truth was there. She had to escape.
+
+A tiny spark of lightning and a wisp of mist cut through her bindings, and let Wen’s power fly free once more.
+
+Lightning slagged rock. Inquisitors died in droves. Even the Head was laid low, twitching and spasming on the ground.
+
+The first thing she did was get her sword back. Summer’s Sky whistled and chirped, welcoming Wen’s touch.
+
+Maybe somebody else would find the truth. That was what Wen had to believe, as her abused mind reeled.
+
+She barely managed to escape.
+
+The foxes were right. The truth was there.
+
+=========================
+
+She was beaten, broken, and nearly dead when she staggered into the hidden village. The foxes surrounded her, their weapons pointed. And then… Nezan? Was that his name? Was there, his eyes cold and hard.
+
+The foxes were right. The truth was there.
+
+He stalked up to her, his jaws opening to consume her just like he had promised.
+
+Wen collapsed to her knees and placed her head into the beast’s mouth, accepting her fate. It was only fair, seeing as she had killed so many of them.
+
+“You were right,” Wen stated simply before she closed her eyes and waited.
+
+A little wisp of mist floated off her body, and Nezan stayed his hand.
+
+=========================================
+
+The foxes once more nursed a member of the Zang Clan back to health.
+
+And this time, the lightning did not betray them.
+
+Zang Wen fought the Shrouded Mountain Sect when the hunting parties ranged towards their hidden villages.
+
+Her former friends cursed her. Spat at her. Called her traitor.
+
+She tried to tell them they were wrong; she hadn’t betrayed the Mountain. The Mountain had betrayed her. It had betrayed them all, forcing them into a war without end that didn’t need to be a war at all.
+
+None would listen. She was Zang Wen. Beguiled by a fox. Dead to one and all.
+
+But the mist heard her talk and remembered it, adding it to the little collection.
+
+Hoping that maybe somebody else could find it.
+
+====================================.
+
+Bi De, first disciple of Fa Ram, frowned as he pulled his hand away from the object Yun Ren had given him. He considered it, the revelation he received, and he had only one question.
+
+“Why must it always be ancient memories and ancient crystals?” Bi De asked. Despite currently being human, one could almost see the ruffled feathers.
+
+Yun Ren was scowling, but he had to bark out a laugh. “No idea. You got any?”
+
+“I suppose it's because people want to be remembered. Everything that happened back then influences now,” Bi De stated before shaking his head. “What do you plan to do with this?”
+
+Yun Ren frowned. “I have a few ideas,” he said, his eyes burning with rage.
+
+Bi De could not blame his friend. He could only hope he did not plan to do anything… too foolish.
+
+The rooster-turned-man sighed. The consequences of the past were severe indeed—and it was up to those in the present to navigate them.

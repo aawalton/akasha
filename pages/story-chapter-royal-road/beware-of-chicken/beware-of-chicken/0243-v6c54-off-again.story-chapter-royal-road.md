@@ -1,0 +1,179 @@
+---
+id: 41bc2d0a-b6a6-5de3-83dd-c1f2f0154bcc
+page-type-slug: story-chapter-royal-road
+title: "v6c54: Off Again"
+slug: 0243-v6c54-off-again
+partOf: beware-of-chicken
+position: 243
+ownLength: 2040
+unit: words
+ownProgress: 2040
+publishedAt: 2025-08-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2505931/v6c54-off-again"
+royalRoadId: "2505931"
+markedReadAt: "2026-06-29T18:59:43.885Z"
+---
+
+Once more, we lined up to say goodbye. I could tell neither Tigu nor Yin wanted to leave in the morning. Both of them were dragging their feet, and Yin looked to be seriously considering staying at least one more day.
+
+Noodle had shown her the plans he was still keeping secret from us, and Yin wanted to drop everything to help him.
+
+‘You have a duty, my disssciple. Go, and carry it out… I do not mind waiting, if you truly wisssh to help,” Noodle chastised her, thwapping her lightly with his tail. Yin grumbled and then sighed, reaching down to hug the snake.
+
+“No, do what you want to! I know how long you’ve been waiting for your back to be fixed, go full ahead!” Yin commanded.
+
+She rose to her feet and rubbed at her eyes for a moment. Tigu, meanwhile, was going down the line, giving everyone goodbye hugs. First Gramps, then Chunky and Peppa, and then Yun Ren, and Spooks—
+
+“Ugh! Spooks, your fur is all sticky!” Tigu complained. The Thunderhoof looked sheepish. And I could see what was around his lips and on his “beard” that hung down from his chin, it was quite sticky looking indeed.
+
+‘I can’t stop myself. It's so good! Master is going to be so happy!’ the Thunderhoof said. Spooks hadn’t been able to stop smiling ever since the syrup boiling had started.
+
+“Ah, I need to go wash—” Tigu started, and then took a snowball to the face, courtesy of Washy, the dragon cheerfully pressing the snow directly onto her head and scrubbing.
+
+“Got you covered,” the dragon declared, a bright smile on his face.
+
+Tigu, for a brief moment, looked absolutely furious… and then she started laughing. She reached up and dragged the dragon into a headlock, ruffling his mane.
+
+“You bastard, why do you always gotta be like this, huh?!” she demanded. “But I guess it’s part of your charm!”
+
+Washy grinned. Tigu let him go and hopped over to Big D and Rizzo, grabbing them both… and sneakily wiping her wet face on their clothes.
+
+Then, she came to us. Her eyes went all soft as she looked at Zhuye in Mei’s arms. “Big Sis will be home soon, okay?” she asked.
+
+“Ji!” Zhuye agreed, and Tigu showered kisses on his face, much to his giggling delight. Behind her, I saw Yin also starting to go down the line, giving out hugs as well… though dodging Spooks and sticking her tongue out at him, which the Thunderhoof could only nod at.
+
+After Zhuye, Tigu hugged Mei and then she came to me. I opened my arms. She wasted no time.
+
+“Make sure everyone is well-fed,” I said to her.
+
+“I will! My teams shall feast upon our bounty!” she replied, her face buried in my chest.
+
+“Make sure you take proper breaks yourself, or I'll march down to Xiulan and tell her to stop working my daughter so hard.”
+
+Tigu giggled.
+
+“Oh, and make sure to wash your undies.”
+
+Tigu recoiled and glared up at me. “They’re always clean!” she said, glaring at me.
+
+I planted a kiss on her forehead.
+
+“I’ll see you again soon, Tigu’er.”
+
+“Mmmn. We will see each other soon!” She hugged me tight, one last time, let go, and stepped back.
+
+Yin paused in front of me. She knew me by now, so she didn’t resist when she got hugged too.
+
+She was really nice to hug. So warm and comforting, like a blanket fresh from beside the hearth.
+
+She got a forehead kiss too.
+
+“If there's any bad guys, kick their asses,” I said seriously. Yin beamed at me.
+
+“Hell yeah!” She pumped her fist.
+
+“‘Ell yah!” Zhuye cheered from Mei's arms.
+
+Yin instantly paled. Meiling raised one dangerous brow.
+
+“I love you all we gottagobye!” Yin yelped and raced out of the gates, not for a moment looking back.
+
+Tigu raced after her. “See you all later!” she shouted.
+
+My wife just sighed and shook her head with amusement.
+
+========================
+
+The rest of the day was nice. Though Tigu and Yin had left, there were still a few days left of the syrup harvest; more and more people arrived from Hong Yaowu when they heard that the harvest was still going strong… and that there were plenty of maple candies.
+
+They were served by Washy and Spooks… or rather Washy was serving everyone. The Thunderhoof had a big, dopey smile on his face.
+
+Technically they were also here to pay their respects to Zhuye for his birthday, but that took about five minutes.
+
+I went and got another load of sap, and when I returned I was rather surprised that we had two new guests.
+
+“Senior Brother, Senior Sister!” I greeted, waving. Both of them waved back. They were standing with Pops, who was looking at a jar of syrup with a considering look on his face. “You finished what you needed to and are back?” I asked Lu Ri.
+
+“I have completed everything I needed to in the south, and have relieved Young Mistress Su Ge of her duties in the village,” Lu Ri replied. “Things are progressing well.”
+
+“And how was your week, Senior Sister?” I asked. I knew from Pops that there were no problems, at least.
+
+“It was no trouble,” the woman answered. “Chief Hong was the perfect host; his son has a fascinating way of growing Spiritual Herbs, and has a most comprehensive collection of preserved insects.”
+
+“She was the perfect guest,” Xian agreed. “We had tea in the evenings and discussed the Honoured Founders of the Cloudy Sword Sect, as well as my own role in the village. She also tried her hand at making syrup, though... it's different this year.”
+
+“Oh?” I asked, interested.
+
+“We thought the trees around Hong Yaowu were different; the first year we tried to make syrup, the yield was very small, the sugar content was lacking, and the taste was off. It was far too much effort for too little return, but Young Mistress Su Ge made it just fine,” Pops said, showing me the jar.
+
+I looked at it. It did look a little different than ours, slightly more brown than golden. I took out the ladle and put a drop onto my tongue.
+
+There were again minor differences, but compared to the first year? It was leagues better.
+
+“You tried some of this yet, Lu Ri?” I asked him.
+
+“Indeed, I have. The Young Mistress has produced a wonderful syrup. Her skills are impressive.”
+
+Su Ge smiled brightly.
+
+“I wonder what went wrong the first year?” I asked, scratching my head, before shrugging. Sometimes it did just happen. I remembered one year in the Before being a complete writeoff. All the work down the drain because the syrup tasted like ass. “Whatever it was, this is good stuff, especially for a first try.”
+
+“High praise, Spiritual Herb Master Jin,” she said, and I chuckled internally at the title.
+
+“We’ll have to teach you how to make the candies next,” I leaned in, “including Lu Ri’s favourites.” I whispered, under the guise of handing her back the jar.
+
+Su Ge nodded rapidly.
+
+“Of course, Junior Brother. Your Senior Sister needs your wisdom.” She straightened up. “And thank you for your guidance in making the syrup, Chief Hong. Maple syrup is a wonderful substance. Now, I should pay my respects to the Young Master.”
+
+“An excellent idea, Young Mistress,” Lu Ri said, nodding. He looked longingly at Su Ge’s syrup. “And this is really quite delicious, the flavour is bold and intense!”
+
+Su Ge got even more pleased looking, if that was possible.
+
+While the parting from Tigu and Yin was bittersweet, the rest of the week was all sugar.
+
+=============================
+
+Shen Yu sat still, his eyes closed, his Qi circulating within his body. Each revolution of his Qi through his meridians was a battle, a war against the Demonic Qi within his body. It fought him tooth and nail, it ripped and savaged. It played dead and inert, hiding the best it could, only to leap up and strike where he was weakest.
+
+It would be the task of decades to defeat it completely; to root it out and destroy it all.
+
+And it would be the task of at least a century if he was alone; for the Qi within his body was beset upon by all sides.
+
+While one ultimately faced the heavens alone… the friends and allies one made on their journeys were just as important as their accomplishments and vanquished enemies.
+
+A sealing scripture, penned by Minyan’s hand, was wrapped around his chest. It froze the Qi of his enemy to a crawl, and forced most of it into dormancy without his constant attention.
+
+It was paired with one around his arm, courtesy of Ge and Yukong, more suppressors and cleansing talismans that would let him function at nearly his full strength… Rather than at half or a quarter.
+
+Within his body his own Qi was joined by the relentless march of medicine, gifted to him by Shou. His old friend always loved to act like he only tolerated Shen Yu, and yet delved into his personal stocks to tailor make a concoction of sublime potency that perfectly complimented and took into account the changes Shen Yu had made to his body.
+
+It was a potent brew, repairing the damage done to Shen Yu’s body and striking down demonic assaults wherever the medicinal Qi travelled.
+
+The final assistance was one that only joined in perhaps once a week; it was an expensive ally, consuming his resources, but it was well worth the price. The feeling of entrenched Demonic Qi suddenly weakening, dragged out by a formation, was akin to the relief of finally standing after a decade of seated meditation.
+
+He opened his eyes to a stone room, quite deep underground. Huo Ten, the monkey, had crafted this room with young Gou Ren. The room had alcoves along the ground, carved directly into a solid wall of granite, and reinforced with Gou Ren’s solid Qi.
+
+It was a storage room for demonic corruption.
+
+“That’s all for today, Grandfather,” his granddaughter informed him. She was sweating, her Qi fluctuating from the strain. The Truesilver wire he had retrieved from his treasures had turned to dust, nowhere to be seen, and the reinforced glass tub was full of black sludge where once was a concoction of Shen Yu’s personal stock of medicine.
+
+“Oh? That's quite a bit! Thank you again, Granddaughter,” Shen Yu said. Little Mei acknowledged his gratitude, but her face maintained the tiny frown she always bore after treating him. She knew intimately the ocean of filth inside Shen Yu, and knew exactly how much there was left to go.
+
+Like Shou, it was quite endearing how much she cared for him and pretended she didn’t.
+
+“This one is going to take a while to purify…” she said, carefully covering the filth with a glass lid, and then binding it tightly shut. She took no risks at all with what she was carrying, glaring at it like a snake that might try to leap up and bite her. She set it carefully in an alcove on the floor, and then sealed it in with a wooden plug.
+
+“But purified it will be; Bi De and Yun Ren especially are getting quite fast,” Shen Yu noted. Jin’s system of writing down everything they did and sharing with each other, combining their Qi… it was an interesting method that bore fruit. Not every idea was a success, but the fine tuning of their Qi to destroy the different properties of Demonic Qi was progressing rapidly. Shen Yu was impressed.
+
+He let out another breath and began to stretch. He moved his body, feeling the pulls and pains, considering their severity.
+
+He was satisfied.
+
+“I think we shall go on our own journey soon,” Shen Yu mused.
+
+“As long as it does not end up like your last adventure,” Meiling demanded.
+
+Shen Yu chuckled. “I shall not tempt fate this time. But… on my honour, Yun Ren shall be home in time for his wedding, at the very least.”
+
+The Shrouded Mountain Sect awaited.

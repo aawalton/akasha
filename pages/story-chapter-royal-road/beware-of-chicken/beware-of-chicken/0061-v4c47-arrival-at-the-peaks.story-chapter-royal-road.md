@@ -1,0 +1,173 @@
+---
+id: 0959040b-f03c-5039-ba8b-92cb52a6131a
+page-type-slug: story-chapter-royal-road
+title: "v4c47: Arrival at the Peaks"
+slug: 0061-v4c47-arrival-at-the-peaks
+partOf: beware-of-chicken
+position: 61
+ownLength: 2003
+unit: words
+ownProgress: 2003
+publishedAt: 2023-10-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1364979/v4c47-arrival-at-the-peaks"
+royalRoadId: "1364979"
+markedReadAt: "2026-06-29T18:53:28.492Z"
+---
+
+It was still light out when Xiulan and her companions set up their camp. In the hour or two left of sunlight they could have pushed on and made it to the Dueling Peaks, but instead she had called a stop to their journey for the night.
+
+When the fire was ready, and the leaping deer had been dressed by the Torrent Rider and Loud Boy, Xiulan bid them all to sit, for she had a few words for them all.
+
+They all settled on the ground in a circle.
+
+“Tomorrow, we will arrive at the Dueling Peaks,” Xiulan began after a moment. “We’ve already had an adventure coming this far, haven’t we?”
+
+“A bit of an understatement,” Xianghua said while leaning against a rock. She had a little smirk on her face.
+
+Xiulan agreed. It was a bit of an understatement.
+
+“Installing a Sectmaster, convincing the Verdant Blade Sect to join us, busting a slavery ring… all of us ascending at least a stage upon our cultivation.” She continued with a soft smile. ”We’ve come a long way, and I’m proud of every step I’ve traveled with such fine companions.”
+
+Xiulan saw Rags blush and scratch the back of his head while Loud Boy preened. Yin ruffled the Torrent Rider’s hair and Shaggy Two yipped happily, sitting tall and proud. Tigu turned to Handsome Man and smiled, while Delun smiled back. He didn’t look awkward when he did that anymore. Xianghua just nodded, like it was obvious.
+
+Xiulan took a breath. “Tomorrow, our true journey begins. We will be before every sect in the Hills. We will be battling thousands of years of precedent. This path of ours is not easy—and that is why it is all the more worthy of trying to walk. Tomorrow, we will stride into the Dueling Peaks and confront everybody who lives there.”
+
+Xiulan looked at them all. Really looked at them, searching for the nervousness she felt. Instead, she found only smiles and confidence. Confidence in their mission.  Confidence in her. Confidence that they were ready for anything that the Dueling Peaks might throw at them.
+
+…They truly were one of a kind, her companions.
+
+“This may be the last night of peace we have until we return home. The last night where people aren’t scrutinizing our every move,” Xiulan warned, somewhat sadly. “So… I have something for us.” She opened her pack and took out a gift from home and from Jin; a small bottle of spirits. Not the mead from Vajra, but still a powerful vintage that could even get cultivators as strong as them to feel it.
+
+“One last time, let's let loose!”
+
+A cheer rose up from her companions.
+
+Tigu handed out cups to everybody. Xiulan poured them all a saucer of the wine, and then raised it up in toast.
+
+“To us dandelion seeds, floating in the breeze!” Xiulan shouted.
+
+“To a province that no longer has to fear the dark!” Tigu replied, raising up her saucer.
+
+“To marching forwards into that new dawn!” Xianghua said, copying Tigu.
+
+“To those who came before us!” Delun called.
+
+“And the ones who’ll come after!” Rags completed.
+
+“To a world that isn’t defined by suffering!” Loud Boy called.
+
+“To all of us finding our places!” Yin continued.
+
+“To more adventures!” the Torrent Rider finished.
+
+“Yip!” Shaggy Two joined in.
+
+“Ganbei!” all of them shouted.
+
+Their saucers clinked together and they downed the potent brew.
+
+“YEEEEAAAAH!” Rags roared after he finished his drink. Tigu grinned and pulled out the pippa she had bought in Grass Sea City. Loud Boy produced a reed pipe.
+
+Xiulan laughed as one of Master Jin’s songs started echoing out across the plains, seeming to touch the moon high above. She did wish that Jin, Meiling, Bi De, Chun Ke, and all the rest of Fa Ram were here as well. She would have liked to do this with them too.
+
+Xiulan stood and held out a hand to Xianghua. Her friend grabbed it, and Xiulan pulled her up so they could go and dance around the fire like Rags, Yin, and the Torrent Rider were already doing. Delun looked like he was going to remain sitting, so Xiulan grabbed him too.
+
+He barked out a laugh, but made no move to stop her.
+
+It was a wonderful night. They danced, they sang, and they drank. Loud Boy and Rags put chopsticks in their nose and under their bottom lips and started an impromptu comedy routine.
+
+The pippa was traded around—some people playing with more skill than others. Yin made the instrument positively howl when she finally got a turn, so much so that Shaggy Two leapt up and started gnawing on her face.
+
+They played simple, silly games. They collected crickets and raced them as the firebugs danced through the air. They sang the raunchiest songs they knew, songs that had the Torrent Rider’s face go pink when he finally got some of the innuendo.
+
+It was wonderful. Eventually, it all had to come to an end, however.
+
+As the embers burned low, they gathered around once again and stared up at the night sky, brimming with thousands of stars.
+
+================================
+
+When they awoke the next morning, it was still dark.
+
+They packed up camp swiftly, and for the last hour they simply sat together, facing the shadow in the distance.
+
+Slowly, the sky lightend. First to grey, and then to purple, and finally to pink.
+
+Then, with a burst of gold, the sun crested the horizon, perfectly silhouetted between the Dueling Peaks. There was a whisper on the wind; one that seemed to be wishing them luck.
+
+Xiulan and her companions rose and stepped forwards into the dawn.
+
+=================================
+
+The town around the Dueling Peaks, also called ‘Dueling Town’ was an oddity among the settlements of the Azure Hills, mostly because its population fluctuated so dramatically. Every eight years, during the Dueling Peaks Tournament, the normally sleepy town of around ten thousand ballooned in size as a hundred thousand people flocked to the Earthly Arena to watch cultivators do battle. What came with the cultivators and the spectators were again that many number of merchants, performers, and con-artists, all looking to take advantage of the sudden swelling of tourists. The entire town became more of a city, heaving with people.
+
+And then, when the tournament ended, they all left. The inner rings of the city, filled with mansions for cultivators and sects, would largely close down. The shops would either close or go down to skeleton crews, and the entire town, almost overnight, would seem oddly quiet.
+
+While there was always some cultivation business going on, things would return to normal for the mortals. They would go back to their wooden houses on the outer ring and do their regular business—most of the time the next year of the tournament was spent dealing with its aftermath for example.
+
+Garbage had to be dealt with, things had to be repaired from the inevitable fights that broke out, and the once active centers of commerce had to be properly cleaned and shut down.
+
+But there had been a change to that millenia old schedule.
+
+Last year, the town had been damaged quite badly—but unlike other times when the people would have to rebuild by themselves, something else had happened.
+
+The cultivators had helped.
+
+The once old, slowly decaying outer-ring roads had been entirely replaced. Old houses were now composed of the finest timber—and even the poorest man could boast of having a proper door. Beautiful calligraphy advertised businesses, and everybody knew of the wondrous carvings in Chao Baozi.
+
+The town had actually looked better when the cultivators had left, than what had once been a never ending battle to keep things looking nice.
+
+There was a certain amount of pride and optimism to the town as they got ready for the next eight slow years until the next big tournament.
+
+That was, of course, until the advance guard of cultivator servants returned to the town and started opening everything back up.
+
+Not just one or two manors; but all of them.
+
+To hear that the cultivators were coming back already should have been a source of dread. And yet… And yet for all the tension, the dread was absent from the common man. Oh, Bai Huizhong and the Auditor were in a tizzy about the sudden gathering, but for the people of the city?
+
+It didn’t seem that bad.
+
+The first sect to arrive was the Framed Sun Sect. They were a common sight around this area, being the sect that lived the closest to the Dueling Peaks. Their sunburst on gold was held high and proud—and many shopkeepers cheered at their appearance.
+
+“Young Master! Your sign is the envy of every other merchant on this street!” One man shouted, waving at Chen Yang of the Framed Sun Sect, a grin on his face.
+
+The Young Man had grinned and elbowed one of his companions. “I told you it would be good for business,” he said.
+
+The sight continued as more and more cultivators poured into the city, bearing the banners of their sects. Their faces were grim, and they were focused, and yet mortals called out to them instead of averting their eyes.
+
+“Young Mistress, we have your plates and porcelain mugs prepared! The design has come out spectacularly.” An old man and his apprentices bowed to a woman with a beautiful butterfly hairpin.
+
+“Young Master! I’ll put on some of those dumplings you enjoyed last time!”
+
+“Thank you for fixing this road, Young Master!”
+
+Most seemed to find the mortals calling out to them amusing. The Young Masters and Mistresses couldn’t help but smile as the mortals they had aided thanked them for their efforts.
+
+And then a storm appeared on the horizon. Drums thundered and four hundred cultivators marched bearing the banners of the Grand Ravine Sect, the power of a man in the Spiritual Realm at its head. The Patriarch of the Grand Ravine Sect’s Qi was a weight that pressed down on all who beheld him, his eyes blazing.
+
+This time, the confidence disappeared. This time, some of the mortals did quake and recoil from the might that was bearing down on them.
+
+Yet one man was undaunted. He was a foreman who operated the great pulley-cranes that they had used to repair buildings. He limped up to the head of the procession, to where Guo Daxian the Younger stood beside his Patriarch.
+
+Hundreds of cultivator eyes bored into him.
+
+“Yer rope’s held well, Young Master. Cranes have never ran so smoothly,” the old foreman said.
+
+Several people held their breath as the cultivators of the Grand Ravine Sect seemed unsure of what to do.
+
+“Of course it's the best rope you have ever used. It was crafted in the Grand Ravine,” Guo Daxian declared.
+
+“Never buying any other rope,” he said, nodding, and then looked directly at the Patriarch of the Grand Ravine Sect. “Beggin’ your pardon, my Lord, but should we evacuate?”
+
+The old man addressed the old monster calmly. He didn’t flinch as the tribal cultivator turned his full attention onto him. For a brief moment, the cultivator’s eyes narrowed. Then he spoke.
+
+“No. I, Ulagan Baatar, Patriarch of the Grand Ravine Sect, guarantee the safety of the mortals that live in this town.”
+
+His decree was absolute. His voice echoed over the town, and then they began to advance again, heading towards the mountains.
+
+At the same time, from the opposite side, a group of eight marched into the town.
+
+Each and every one of their group had an immaculate bearing. Each and every one the mortals could name them each on sight alone. Their Qi was bared; and yet, instead of the thunderous intent of the Grand Ravine Sect, it was almost soothing. Protective.
+
+While the Master of the Grand Ravine Sect had to speak, they didn’t.
+
+Everybody just knew, as long as these cultivators stood, they would be all right.

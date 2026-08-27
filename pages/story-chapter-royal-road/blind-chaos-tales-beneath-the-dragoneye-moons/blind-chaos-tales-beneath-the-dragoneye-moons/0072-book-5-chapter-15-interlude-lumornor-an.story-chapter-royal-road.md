@@ -1,0 +1,141 @@
+---
+id: c3c678d5-a881-526e-9e98-1456f9a64686
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 15 - Interlude – Lumornor – An Unexpectedly Wild Lecture"
+slug: 0072-book-5-chapter-15-interlude-lumornor-an
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 72
+ownLength: 3858
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3363931/book-5-chapter-15-interlude-lumornor-an-unexpectedly"
+royalRoadId: "3363931"
+---
+
+Travel, even within the confines of the Tympestshard Council’s territory, remained a blight on the lives of scholars that had better things to do. For all that the Unchanging Council boasted about the safety of its roads, in truth only a fool or someone versed in combat—as if there were more than a few instances where the second group would be distinct from the first—would travel without a robust escort. But waiting for lackadaisical elves to get around to accomplishing anything was taxing beyond belief.
+
+Immortality had its own afflictions, even before the societal rot caused by White Dove’s ill-placed wrath. There were more than a few elves that held a worldview that could be summarized as “why should I do something today if it might be done some other day?” There were reasons that the routine caravans were crewed by proven task-driven and close-knit groups, and the same reasons prevented them from willingly taking on passengers.
+
+Unfortunately, that left sensible beings like Lumornor and his apprentices at the mercy of the less sensible masses. And a journey that could have concluded in just over a month instead wasted much of a year.
+
+It was unfortunate, but certain allowances had to be made for personal safety. As much as Lumornor regretted time spent idle—just as he finally had the promise of true progress at his fingertips—it was better to lose time than it was to lose his life. His was far too precious an existence to risk. It would be unacceptable if some mere creature prevented him from imparting his future successes to Pallos.
+
+Naturally, the cure for elven idleness was simple—all that was required was the promise of hedonism. The final leg of Lumornor’s journey progressed at a comparatively blistering pace as caravans joined together in a rush to attend some celebration or other. Traffic was so robust that the Ar-Suelle required a prolonged queue just to enter.
+
+The moment they passed into the city proper, Lumornor left his apprentices to handle their luggage and accommodations. The rationale he offered them was that the robust crowd was an ideal environment from which to try to solicit interest in Biomancy. Which was quite true, but he was equally eager to be away from the woman in the caravan that had insisted on regaling him—or anyone else she cornered within the wagon—about her plans to meet up with some former lover in the city.
+
+Based on his prior research on the city of children, the so-called Heart of Arts and Learning was the ideal place to acquire space for lectures. Was Biomancy an art? Not in the conventional sense, but he was certain that the adrift children that flocked to the city would try things that he would never think to attempt—and the data they created would be invaluable as he progressed his own plans.
+
+The availability of space at the facility had been somewhat exaggerated, it seemed. The second floor had been utterly consumed by some special display that Lumornor hadn’t the time or inclination to investigate, which left only the rooms on the first floor available. Annoyingly, one of those had been converted into a kitchen to allow a group of mere cooks to waste time teaching people their ‘art’ and another was booked solid throughout the multi-day party. This left only three rooms available, and a sizable number of applicants seeking to use them.
+
+Lumornor had to repeat the word “daily” enough times that it felt as though the word was somehow no longer real or quite correct, but after wasting far too much time he finally had his precious timeslots reserved. The ignorant youth that had tried to convince him to accept two or three timeslots at most was mouthing unkind things at his back, though he cared not for her minor distress. He needed to prepare for his first lesson.
+
+The prior group that had used his room for the day had left quite a mess behind. How and why a poetry reading had managed to leave the room full of upturned chairs, shredded paper, and other refuse was a mystery that Lumornor would leave to an elven societal researcher. He just set his apprentices on the task of straightening things up while he activated the enchantment on the slate board to clean it of the crude text left upon it.
+
+In its place, he wrote the word ‘Biomancy’ in clean and clear Creation. That was somewhat redundant with the signs his apprentices had prepared for outside the room, but if all else failed he wanted to engrave the word in the memory of as many elves as possible. When it came to immortals, things that caught their interest came from their recollections just as often as they came from what was in front of their eyes—and Ar-Suelle was only the first stop for his plans to teach generations of [Biomancers].
+
+As the appointed time drew near, elves trickled into the room alone or in small groups. Many stayed in the back, beyond the range of his [Subject Assessment] Skill’s current level, but those that sat closer were often exactly what he was looking for—first-cycle youths or those nearing the end of their current cycle. In more direct terms, they were elves that could easily pivot their build and take a Biomancy class within an acceptable timeframe.
+
+The crowd was smaller than he had hoped to gather—just under forty-eight elves—though it was just the first day. Besides, he had only had his signs up for a few scant hours.
+
+Lumornor nodded to his apprentices so they could close the doors. It was time to get started and he had no interest in enduring the interruptions of those that would come and go if they were allowed to do so.
+
+Yet, just before Evanera could close the door, a… rather unexpected thing intruded. The rabbit was an unusually large specimen, but Lumornor’s curiosity was soured by visions of chaos. He could all too easily imagine someone’s pet—or ingredient—running amok and disrupting his precious window of time. Instead of Biomancy, his first potential students would leave with an amusing anecdote!
+
+When the rabbit took a seat, as though it were an elf, Lumornor’s incredulity was smothered beneath his utter relief. So long as the thing behaved itself, he supposed he could ignore its presence.
+
+“I am Lumornor. A few of you may have heard of me, others among you have not. But this lecture isn’t about me—it’s about what I created.” He struck the board with enough force to make the sound draw all eyes to him. “Biomancy. Through it, many of the limitations of [Healers] may be resolved. Through it, the potential of our beasts may be unlocked. Through it, immortality is naught but a trifle. And through it, that which was the domain of the creator gods can be seized by elven hands—no ascension required.”
+
+He paused to let his audience absorb the words while he studied their reactions. Skepticism was writ across more than a few faces, but that was fine. The skeptics tended to be those most impressed once he proved his words were rooted in undeniable fact. More annoying were the four elves that had plainly lost focus and returned to their prior conversation. What was the point in attending his lecture if they intended to ignore him to talk amongst themselves?
+
+His gaze drifted past the animal in the room. He really didn’t care what it was doing, so long as it stayed in that chair.
+
+…Could it be an elf that transformed themself into a rabbit for incomprehensible reasons? The thing was too far away for [Subject Assessment], but perhaps he could pass a note to one of his apprentices to have them check. Not that it mattered.
+
+Lumornor set the impulse aside as Relvarith approached, carrying the tray laden with small cages. As he had previously requested, his apprentice set the tray down on the table in front of him and backed away.
+
+“You. I have here three different animals. An amphibian, specifically a lesser wetland toad. An avian, namely a blue-crested barking jay. And a small rodent, which is a broad-tailed pine mouse, often called a tree jumper. Which of the three would you prefer me to use for a demonstration?” He directed his query to one of the skeptics.
+
+“I… uh… the frog?” The child lacked the decency to remember basic taxonomy!
+
+“And you, name some change you believe this toad could use. Would you like to see it in a different color? Perhaps in a greater size or a different stage of its life cycle?” Lumornor directed those words to a different skeptic. The journey and its delays had afforded him ample time to read multiple guides and treatises on education. At its heart, it was all about convincing people to pay attention and that the lecturer knew what they were talking about. And by involving those that pay attention but seem unconvinced of the lecturer’s credentials, it was possible to draw them and their peers into the lesson. Allegedly, this made it more memorable.
+
+“Why don’t you make it fly?! Give the ugly thing wings!” The girl sneered, so confident in her paltry cleverness.
+
+“I wouldn’t expect a toad to have the instincts required to make use of them, but wings are easy enough. You—insectile or avian?” Lumornor turned to a third skeptic, not bothering to relish a youth’s loss of confidence.
+
+“Bird.” The answer came swiftly.
+
+Lumornor nodded and retrieved the toad from its cage. Giving it wings was simple enough but making them something more than a feather-covered tumor was far more complicated than the crowd knew. Skeletal adjustments were required to incorporate the wings—further hindered by the minimalistic skeletons found within toads. Even if the toad was unlikely to successfully make use of its new appendages, it was still worth adjusting its musculature to make the feat possible. And the new muscles—and expanded capillaries to cover the wings—necessitated changes to the amphibian’s heart and nervous system.
+
+It was complex and rife with danger to the animal.
+
+Lumornor envisioned everything that was required in a fraction of the time that he required to adjust the toad. Had he adjusted everything at once, the trauma would have almost certainly killed the fragile creature—he was forced to make a series of minor adjustments, each focused on a different aspect of its shifting anatomy. A roadmap of steps, each trivial and easy to endure.
+
+Resulting in a toad with the wings of a dagger-beaked falcon.
+
+The moment the task was done, he passed the modified toad to Relvarith and held his silence while his apprentice carried it to each member of the audience, one at a time, so they could examine it for themselves. That process required far more time than the toad’s transformation had consumed, but it was a necessary delay. Few in the audience were unfazed by the reality that their senses confirmed. Awed whispers followed in the toad’s wake.
+
+“Does anyone have a theory regarding how Biomancy could be used to accomplish such a feat?” Lumornor asked the room once the final elf was done with the toad, allowing his eyes to meet the gaze of each and every person.
+
+A moment later, he silently berated himself for including the rabbit in the process. His attempts to invent a plausible reason for the rabbit’s presence were irrelevant—it didn’t matter if the rabbit was a high-level Mirage to hide the presence of some self-important elf! No matter what the reality, it was best to pretend the thing wasn’t even present, at least so long as it remained quiet and in its seat.
+
+“Hey boss, why is there a bunny so low level it has no third class sitting in the audience?” Relvarith whispered—through thoroughly typical elven teeth—once he returned the toad to its cage.
+
+…Moving on. Lumornor accepted that his audience wasn’t going to say anything.
+
+“Biomancy is nothing less than the power to restructure living beings to suit the needs and desires of the [Biomancer]. [Healers] simply return anatomy to the form that the System believes it should be, but Biomancy is under no such constraints.” The time had come for a second demonstration. He raised his left arm as he constructed his image. By the time it was fully upright, the process was underway. Lumornor was no fragile creature—the toad’s transformation had been glacial, but he worked his Skills on himself in an instant.
+
+His arm twisted and expanded into the deadly arm—technically, frontmost leg—of an apex grassland mantis. Scaled appropriately to his own stature, of course.
+
+“Why carry a weapon or endure a suit of armor when your own body possesses boundless potential for aggression or defense? Why should any child suffer a malformed body just because of the neglect of the creator gods? Why must we consign ourselves to raising only the creatures that are naturally most efficient for our sustenance? These are questions that I long sought to address, and thanks in part to the research conducted by a most unlikely group of people, I have distilled millennia of expertise and knowledge into a Skillset unlike anything the System has ever seen.
+
+“Yes, classes that modify an individual’s own body have always existed. But they are rare and are often limited, even with the scope of change they can bring to the individual that wields them. None of these limitations affect a [Biomancer]. The divine power of creation is now at hand!” Lumornor once again targeted his still-raised arm with his Skills. The exoskeleton faded, leaving vibrant green scales. Rigidity gave way to total flexibility. And the insectile feet were replaced with the hooded head of a living, hissing serpent with prominent fangs.
+
+“All that Biomancy requires is rigorous study, a bit of basic wisdom, a creative mind, and a desire to remake the world around us as only the ingenuity of the elves can. I seek to establish the first generation of [Biomancers] here in Ar-Suelle. And together, we will achieve great things both in the Academy and in shaping our world.” With those words he fell silent, crossing his arms in the process. The serpent was a mindless extension of his own will, so it obeyed without question, draping its head across the inner elbow of his elven arm.
+
+There wasn’t an eye in the room that wasn’t on him. It seemed as though his reading had been worth the time he invested, even if it was only tangentially connected to his ultimate goals. But even if he impressed the young and foolish, only a subset of them would return for future lectures. And of those, he would be lucky if a single individual was worthy of joining the ranks of the first generation [Biomancers] that he intended to personally tutor and shape. It was only the first group, of course. There would be more candidates throughout the coming days.
+
+Naturally, Evanera created a second stir of excitement when she finally removed the hood of her cloak and revealed the iridescent feathers amongst the sea of her aquamarine hair. After the presentation that he made, few in the audience would be foolish enough to mistake them for mere accessories. And, alas, personal vanity remained a prominent driver amongst the young.
+
+“My apprentice here will be handing out copies of a book known as the Medical Manuscripts to every elf in the room. Well, this particular version has been broken down into three volumes for easier binding and storage. Even if you never return, the books are yours to keep or to give to a colleague that may appreciate them more. The Medical Manuscripts are not an exciting read to most, but the wisdom found within them is the foundation for Biomancy. Do not worry about fully understanding everything within them immediately—I shall aspire to teach what my students lack.” Lumornor spoke up before the murmurings from within the audience became too engrossed.
+
+He still had more demonstrations and a brief lecture on the fundamentals to get through, but for a first attempt things seemed to have gone quite well. Of course, he had a list of things he hoped to improve or attempt alternatives for with the subsequent groups, but there were few things in life that could not be improved with iteration.
+
+Once the allotted time came to an end, Lumornor (his arm and the toad both restored to their prior states) had the doors reopened while his first audience gathered their things. One elf was transparently planning to leave her copies of the Medical Manuscripts behind—a remarkable display of poor judgment—but the rest seemed to be securing the bundled books amongst their possessions.
+
+Though his attention was pulled from his prospective students when a new woman intruded into the space with a frantic, breathless energy. There was no doubt that she was a part of whatever waste of elven potential that had the room after him, eager to chase him out early to claim as much…
+
+There were no horns! The woman bore the grace of an elf in her movements, yet there was no trace of horns atop her head. In addition, her ears were pitiful, rounded things—likely nearing the point that they would become vestigial. The woman was rushing for the rabbit, which should have held his attention, but he found himself somewhat fixated on a different matter entirely.
+
+A human! There was a human in Ar-Suelle and no one had told him?! Was she a peerless intellectual, like Elaine? Could her specialization be similar?! The potential for the collaborator of his dreams was intoxicating, eradicating mere concerns about her mortality and the thin odds of any given human being a thoroughly educated scholar of all things anatomical.
+
+The odds thinned further with every moment she argued—in animated fury—with a rabbit. By the time she concluded her shouting match, even Lumornor was forced to concede that the woman was likely an idiot.
+
+Which left him feeling more than a bit reluctant to engage by the time the woman approached, followed closely by the thing that had intruded upon his lesson. [Subject Assessment] returned that she was a [Warrior], level 766 by hue. He lacked a baseline for humans, but her fitness level was most likely uncommonly high. His Skill pegged her as a sexually mature, and thus adult, mortal. Her heart rate was (presumably) elevated, though her vitality was high enough to render most other biometrics useless.
+
+“Um, hi. My name’s Ranthia and this is Clover, and I would like to ask if you’d be willing to allow Clover to keep listening to your lessons?” Her discomfort was obvious enough—he hardly needed a baseline to recognize that much.
+
+“Lumornor.” He gave his own name (he had no way to know better) while he mulled over the question. He was somewhat surprised to find that he genuinely didn’t mind—the rabbit had been well-behaved, and he supposed it could be useful as a curiosity that might attract young minds. “I suppose that it is welcome to stay. It was better behaved than some of the elves. Besides, I am here to hone my abilities as a teacher, and what better test than to see if I can instruct a rabbit?”
+
+He seldom made jokes, but he was quite pleased with that one. Unfortunately, the recipient just nodded to herself without so much as a smile.
+
+“Alright, thank you. She’s my Companion Bond and she’s being really stubborn about this. Just let me know when to have her here. If you ever have any sort of emergency or have issues, the animal [Healer], Litil, can get her too if I’m not available. …Oh! And I should warn you, her Spatial element is real; she’s a caster monster. She can actually teleport—I think it’s a reserve Skill that maxes out at three charges, but it’s not like I can make her confirm. She mostly uses it to steal food.” The woman’s blatant discomfort was fading at an impressive clip, though her scattered explanations made him even less confident in her intelligence. There was no chance that a true scholar like Elaine could have been so bumbling and absentminded.
+
+Still, the fact that the rabbit was a caster monster was genuinely interesting. Acting as an attractant for young elves was one thing, but the rabbit would make for a very interesting specimen once he was further along with his preparations. Perhaps he could even convince the human to aid in his endeavors in some capacity if he offered to undo the ravages of age in the twilight of the rabbit’s life—or as her own beauty faded beneath wrinkles.
+
+“I will have lectures throughout the current festivities daily, though they will be substantively similar to the one she has already attended. But if she wishes to repeat the lesson, I see no reason to turn her away. Once the festivities come to a close, I will work out a consistent schedule and location for educating future [Biomancers]. At this moment, I aim to run three courses a week, and I shall post the schedule on this center’s noticeboard once it has been worked out.
+
+“She is welcome to attend as she likes, though I will warn you: I plan to eventually narrow the number of students I teach as we move beyond the fundamentals. There will come a time that any idle student will become unwelcome.” By necessity, he began to walk the woman and her pet out while he explained. Others were intruding in the room as it ceased to be his, and he had no interest in dealing with passive aggressive territorial disputes.
+
+Evanera and Relvarith followed, carrying the supplies that they had brought into the room.
+
+“Ah, one more thing for you.” Lumornor paused to retrieve the bundle of books that the foolish girl had left behind. “These are the necessary reading for my course. The copies are yours to keep. If you lose or damage them, I intend to leave copies with the local libraries and [Scriveners] as well.”
+
+He had no expectations for the rabbit to read, but that wasn’t the point. He watched the woman’s reaction as she took the books.
+
+And there it was. Her eyes widened slightly as she scanned the title and she subvocalized an interesting set of words: “Huh, small world…”
+
+She knew! As he had hoped, even a boorish [Warrior] was familiar with the masterpiece of her people. He would ‘teach’ her pet, certainly. And he would do what he could to engender favor with her. Then, in time, he would ask her to put him in contact with the other great scholars of humanity.
+
+He was quite capable of blazing his own path to his goals, but he wasn’t so shortsighted as to abandon those that could expedite said path. Any potential peer or assistant that had cleverness, wisdom, and/or valuable experience was an asset worth pursuing, no matter where or what they hailed from. It was a lesson that more elves could bear to learn: even a mortal mind was a terrible thing to waste.

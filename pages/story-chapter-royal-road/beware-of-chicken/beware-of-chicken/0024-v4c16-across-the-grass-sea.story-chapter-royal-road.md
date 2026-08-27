@@ -1,0 +1,145 @@
+---
+id: 8faeb7fc-633c-5333-b191-c3cd7753793e
+page-type-slug: story-chapter-royal-road
+title: "v4c16: Across the Grass Sea"
+slug: 0024-v4c16-across-the-grass-sea
+partOf: beware-of-chicken
+position: 24
+ownLength: 1667
+unit: words
+ownProgress: 1667
+publishedAt: 2023-06-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1251898/v4c16-across-the-grass-sea"
+royalRoadId: "1251898"
+markedReadAt: "2026-06-29T18:52:09.403Z"
+---
+
+From the Misty Lake Sect, Tigu and her company headed due east; away from the land of bogs and rivers, following Xiulan into the heart of the Grass Sea.
+
+Tigu had seen the edge of this place, when they had gone to the Dueling Peaks… and the change was even more dramatic.
+
+The land turned into an alternating series of farms and villages, interspersed by beautiful rolling meadows and grazing farm animals.
+
+“They say the land here is so fertile that your fence posts take root and start to grow,” Loud Boy said as they passed yet another village. “I’ve never seen any growing fence posts… but the land here is good.”
+
+Tigu ripped up a section of dirt to check his claim. The soil was black as pitch as well as soft and loamy. It smelled wonderful, and had a little taste of wood-aligned Qi.
+
+“Hmph. You can eat the dirt back home,” Tigu said, planting the grass patch back down. Her Master would have approved of this soil, Tigu was sure… but it still was not up to the standards of the dirt back home.
+
+“…have you tried eating the dirt?” The Torrent Rider asked, curious, and Tigu froze. She would have to back up her claim, because obviously Fa Ram had the best—
+
+“We all have,” Yin replied. Everybody turned to look at the silver-haired woman. “Have none of you read Wa Shi’s notebook? The fat-ass was trying to incorporate it into dough, and we all ate those crackers.”
+
+“…they did have quite the earthy taste,” Rags muttered after a moment. “But they weren’t bad.”
+
+“See! You can totally eat the dirt of Fa Ram!” Tigu boasted.
+
+“And the pond scum. And the muck at the bottom of the river…” Yin continued.
+
+“…I think I may start declining some of what Wa Shi tries to feed us,” Xiulan muttered.
+
+Tigu felt obligated to come to her fellow disciple’s defense. “He wouldn’t feed it to us unless it was safe and at least tasted somewhat good. He has too much pride for that.”
+
+“I suppose that's fair,” Handsome Man said after a moment.
+
+Xiulan smiled and shook her head, then turned her eyes to the sky.
+
+“What do you think, Rags?” she asked.
+
+The other man considered the sky, then licked his finger and stuck it in the air. “Yeah, there's a storm a brewin’,” the rough man said after a moment. “We’d best leg it into town unless we wanna get caught up in it.”
+
+“You said that the weather here was mild,” Tigu replied, sniffing, and sure enough she smelled the rain.
+
+“It is… most of the time. It doesn’t get too cold, but thunderstorms blow in off Pale Moon Lake… and they can get quite bad.”
+
+True enough to the Blade of Grass’ words, as soon as they made it to the next village one of the largest thunderstorms Tigu had ever witnessed rolled across the land. The wind howled like a banshee and the thunder crashed all around them. Drops of water the size of plump berries were unleashed onto the meadows.
+
+They watched it unfold from an inn as they had lunch.
+
+Yet for all its fierceness, it was over in an hour. The sun came back out  and the land was dyed in rainbow hues.
+
+Tigu climbed up onto Handsome Man’s shoulders to get a better view and committed the scene to memory.
+
+The grass squelched pleasantly under their feet as they started out again.
+
+===================================
+
+They moved at a steady pace, yet it seemed like they were barely making any headway at all. With its wide open sky and vast sightlines from the top of hills, the Grass Sea seemed endless. An ocean of green grass and blue skies. Even the sun seemed bigger when it set, filling the horizon with its golden glow. And that was to say nothing of moon and stars when night came.
+
+Though, there were some new sights. Even this densely populated land was not wholly tamed by men. It was home to fleet-footed, leaping deer that blitzed across the land in bounding herds, and entire armies of enormous woolley bison that trudged endlessly across the meadows and hills, leaving shorn stalks in their wake. Ripperbeaks and tigers prowled the longer grass, ever present dangers for the unwary. One even had to be wary of ground squirrel holes off the roads, the thousands-strong colonies of little beasts covering areas the size of cities.
+
+It was beautiful. Already she had received so much inspiration, and whenever they stopped to rest for the night Tigu practised in collaboration with Handsome Man, carving what they had seen that day together into stone.
+
+Each day they travelled, and each night they trained. Xiulan normally took charge of Rags, Loud Boy, and the Torrent Rider, with Tigu and Xianghua aiding her demonstrations. The boys grew in leaps and bounds, as did they. Tigu had never felt more solid in her life as she bounded through the grass like a real tiger, chasing down whoever was her 'prey' for the day.
+
+This… this was truly the meaning of life, to Tigu. Traveling with one’s companions. Seeing wondrous new things, and training.
+
+They even had a small celebration. The Torrent Rider ascended to the Second Stage of the Initiate’s Realm through diligent work.
+
+“To the Torrent Rider!” Yin declared as she hefted an entire roasted bison leg into the air. They had hunted the great beast together, and Yin had provided the flames.
+
+“The Torrent Rider!” they all cheered back.
+
+Zhang Fei himself was blushing up a storm as they took turns clapping him on the back. Shaggy Two was worrying a bone as big as he was at Fei’s feet. It was a good atmosphere, and all of them were smiling. All of them, except Xiulan, who was looking slightly melancholic. Their normally calm and steady leader was unsettled.
+
+Tigu plopped herself down beside her friend and shoved some meat into her hands. So well had Tigu trained the Blade of Grass that Tigu didn’t even have to painstakingly pull the problem out of her—Xiulan just sighed as Xianghua sat down on her other side, a little smirk on her face.
+
+“It will be tomorrow,” Xiulan stated. “We’ll be there tomorrow. It's been two years since I've been back at my Sect, now… and I was not in the best of states when I left.” Xianghua clapped Xiulan on the back. Tigu bumped Xiulan with her shoulder. The other woman sighed, and chuckled, before she looked up at the sky. “I would like to make one detour before we arrive.”
+
+“Where to?” Tigu asked.
+
+“To somewhere special to me,” Xiulan replied quietly.
+
+======================
+
+Xiulan looked at the town they approached, her mind’s eye overlaying it with how she had last seen it. Green Grass Valley had been devastated by Sun Ken. Now, it was thriving. The burnt out houses had been repaired. The stench of blood and death had been replaced by flowers. There were people with smiles on their faces, instead of tears and grief.
+
+“It's the Young Mistress! The Young Mistress is here!” one of the guards shouted.
+
+The town quickly boiled out to meet them, the people cheering and whooping at their arrival. The atmosphere instantly turned to one of celebration. They were welcomed into the town like conquering heroes.
+
+Though… Xiulan could have done without some of the decorations that had been put up.
+
+Tigu jabbed her elbow into Xiulan’s side and grinned at all the Demon Slaying Orchid paraphernalia.
+
+Xiulan chucked at the absurdity, but she was here for a reason. She wanted to make sure that the funds for the widows and orphans were still being paid. To her relief, they were.
+
+She spent most of the day checking in with those who lived in the town, and buying the things she would need.
+
+And then that night, she walked into a lesser visited part of the town—where there stood a monument to the soldiers who had fallen in battle against Sun Ken.
+
+For the first time, Xiulan felt like she could truly face them. The men who no longer haunted her dreams.
+
+Xiulan carefully arranged the offerings, the incense and the alcohol, and then sat down before the stone.
+
+“I’m sorry for taking so long until I was able to talk to you like this,” Cai Xiulan whispered before the monument. She took a deep breath… and then started to speak. “Lie Quan. I finally went gambling last year. I can see why you liked it so much—but you should have held yourself back a bit more.”
+
+She could almost see the man grinning sheepishly and scratching the back of his head.
+
+“Ming Po. Your duck made it home, you know? Your daughter takes good care of him.”
+
+The fat, jolly man laughed, his eyes bright. He had so loved that duck.
+
+“Jian Yuan. Your son got married last year—he's doing quite well for himself, from what I can see.”
+
+The stoic officer smiled slightly.
+
+The names kept coming. Lu Hin, Xi Xing, Mao Hun…
+
+Each name conjured an image. Each image of a man taken before his time.
+
+“Hi Shin. I’m sorry you never got to become a great general. But a braver man I’ve rarely known. I saw you at the end, fighting against three others to defend your comrades.”
+
+The last name rolled off her lips.
+
+The Young Mistress of the Verdant Blade Sect got on her knees and pressed her forehead to the ground in front of the memorial.
+
+“Thank you. All of you. I swear—on all my ancestors—that what I am to do is in honour of you.”
+
+There would never be another Sun Ken.
+
+Xiulan got to her feet and pressed her fingers against the stone… then turned to the man who had been watching her.
+
+“Bolin. Inform my father I shall see him and all the Elders tomorrow.” She stated.
+
+“As you Command, Young Mistress.”

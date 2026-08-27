@@ -1,0 +1,307 @@
+---
+id: 5d686d2c-1005-5ad6-a021-ffe99be90701
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 50 - Obstreperous"
+slug: 0055-book-4-chapter-50-obstreperous
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 55
+ownLength: 6143
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3020258/book-4-chapter-50-obstreperous"
+royalRoadId: "3020258"
+---
+
+Ranthia could only watch in horror as the men and women that she had (however briefly) previously considered to be her peers—her allies—expressed their casual acceptance of a horror she could have never imagined. The shimagu were thinking, living beings—created by the gods, same as humans—and not a single eye was batted at a demand for their utter annihilation.
+
+For the first time, Ranthia found herself wondering if the Sentinel Skill had some sort of mental effect that she’d never even noticed—it sure would explain why both of her class options had promised to alter the Skill! There was no way for an external Skill to directly affect the mind, but their own Skills certainly could—[Adamantium Will] was a great example of that. It was an outlandish theory, but Ranthia had to believe that something compelled every single other person in the room to callously accept the complete destruction of another sapient species! For Xaoc’s sake, Solace was supposed to be a [Healer] and she was smiling!
+
+But for whatever reason, Ranthia was the only person in the room that wasn’t so accepting. Sure, the shimagu had gone terribly astray, but she had never wanted to see them excised from the face of Pallos… had she? Yes, she had been angry at them, but part of that was her misplaced anger at herself for Hylla’s—and later, Statia’s—death. But wanting the shimagu punished and stopped was (…hopefully) the limit, even back then. She’d long hoped that a military defeat would force them to step back from what they had become—that it would let them find a better way to coexist. The shimagu had their own language and, presumably, their own culture. Their existence had merit, so long as they ceased treating everyone else as cattle!
+
+She refused to believe that the gods would have made any people wholly unable to coexist. Not even Seira was so coldly malicious.
+
+…Her fury had dimmed once she made progress on herself with the [Mind Healer], and ever since she realized that she’d become a [Priestess], well, it just felt wrong to go against something the five great gods willed! Though Xaoc had been silent on the matter—He never admonished her. And it wasn’t like her hands were clean, there was a real chance that she’d killed more shimagu than anyone else in the room! She—
+
+Ranthia was shaken from her own thoughts when Night’s eyes directly met her own blindfold-covered eyes. His gaze only lingered for a single—somewhat accelerated—heartbeat before he moved on, but it was a clear enough signal that he had noticed her lack of affirmation. He had given her an order, and she had just sat there staring into the distance, like some sort of blatant idiot!
+
+“The operation will begin today, specifically one hour before sunset.” Night continued to speak, providing details.
+
+Should she speak out against the orders? She was a hypocrite, fine, but the orders were wrong! Yet she was one woman, and it wasn’t like the operation came from Night—she was wise enough to know that he was merely acting on the decision that the Legion generals, senate, emperor, and/or Ranger Command had handed down. But if humanity erased the shimagu and invaded their territory…
+
+Her outlandish theories felt far more real and certain than they had already been.
+
+She should speak up. It might not accomplish anything, but if she could plant seeds of doubt among the Sentinels… Wasn’t that worth the risk?
+
+Before she could convince herself to open her mouth, Night pivoted to a new topic, and Ranthia found her attention pulled in his direction once again.
+
+“Sentinel Beast, I omitted you from the plans because I wish to assign you a task more suited to your expertise. The Legions that have been assigned to securing the region have encountered an unexpected problem. A hydra, believed to be around level eight hundred, has appeared and laid claim to territory that is directly adjacent to a site that has been earmarked as suitable for a future settlement. It is extremely aggressive and there have been casualties. The hydra must be dealt with, though I shall trust your discretion about whether it is best to kill it or drive it off.”
+
+Beast’s hesitation was plainly writ across his face. The hydra might have better than two hundred levels on him and his pack—it was hard to imagine that he’d end the battle without losing multiple creatures. The man toyed with his long, scarlet hair as he struggled with his quandary.
+
+And Ranthia wrestled with her own. If she spoke up, there would be ramifications. It was hard to anticipate what they could be—anything between a stern rebuke and a knife between the ribs laid down that path. At best, she would damage her standing as a Sentinel. At worst, she could be branded a traitor, and down that path some punishments were worse than others.
+
+Bards love a heroic sacrifice, crowds adore it. But the concept is idiotic, dearie. I say any hero that knowingly or recklessly sacrifices their own life should be stripped of the title of hero.
+
+Once you are dead, the number of lives you can enrich and the number of tragedies you can prevent are zero. You realize this, yes? A true hero chooses the battles they face, because they can bring no further good, no more joy, nor any additional chaos into this world once they are gone. In all of the history of Remus the list of situations where one must throw away one’s life for the greater good is vanishingly small. It is a scenario that is the product of fantasy and romanticization. Often, it is simply the product of those trying to justify the poor decisions a so-called hero made.
+
+She hadn’t even thought of the woman, but Green’s words echoed through her mind. They were so vivid that she was half convinced that she’d—somehow—subconsciously found the memory with [Chest of Experience], but no, the Skill never leveled. It seemed as though some corner of her mind still carried her mentor’s words.
+
+She truly never appreciated Green enough. Had Remus been a better place, the veteran Ranger would have made an incredible [Mind Healer].
+
+But Green was right, if Ranthia spoke up she’d be risking her life—both knowingly and recklessly—for something unlikely to change anything. If she was so convinced that Remus was plotting against the dwarves, she had to be some sort of idiot to think that they’d ever let the shimagu live just because a single woman asked them to.
+
+She was strong, but she wasn’t all-powerful. She wasn’t going to singlehandedly stop Remus at her level—she needed to focus on her own survival.
+
+Beast seemed to have reached his own conclusion. He’d gritted his teeth and was visibly steeling himself to deliver his response.
+
+“I’ll do it.”
+
+But he wasn’t the one that spoke.
+
+“I’m the best option; you should let me face the hydra.” Ranthia clarified. She was ready to finally follow Green’s advice—she was done pretending she had some duty that required her to risk her life, in the service of the greed of self-important men that hungered for more than they already had.
+
+“Explain.” Night chose a rare minimalist response, which made his tone even more unreadable than it usually was.
+
+It’s my best chance to escape.
+
+Not that she was stupid enough to actually say that.
+
+“No offense intended to Beast, but he doesn’t have the levels. If he loses the heavier hitters from his pack too early into the fight, he might not even be able to bring it down. I’m closer to the creature’s level and I probably have more experience fighting a regenerator than everyone else in this room combined after I spent years fighting against the troll twin. With a bit of prep and some tools, I’m certain I can bring it down—assuming it doesn’t flee before it succumbs.” Sure, she struggled with names, but even after over eighty years, she still had most of her lessons from the Ranger Academy ingrained in her mind. Even those regarding creatures she’d never actually encountered, apparently!
+
+Her mind was so damned weird.
+
+Night seemed to be considering it, assuming she was reading the tiniest hint of pursed lips correctly.
+
+“Also, honestly? I’ve fought against people for, effectively, more than eighty years—closer to ninety, given what I went through during my time in Remus. For the love of Xaoc, I could use a good brawl against a beast!” Ranthia’s tone was jocular, but there was a genuine plight there.
+
+She just had to hope Night would see it and be moved. It wasn’t even feigned; she was sick of culling people. She had no doubts that she would take lives again in the future—she was still immortal—but the weight of the war had been especially heavy in recent days.
+
+Sentinel Beast started to laugh uproariously while he mimed raising a drink to her.
+
+“She’s got my vote!” He shouted, before he resumed laughing.
+
+…Had he forgotten that he’d been an utter ass to her? Why was he acting like they were suddenly friends?
+
+“Very well. Beast, you’re with Sage and Gravity. Grace, I shall entrust the hydra to you. Does anyone have any other pressing matters that require discussion? If not, I would prefer to end the meeting here, as we each have preparations to make ahead of our respective missions.” Night made his decision.
+
+Since only Sentinel Beast’s ongoing—and excessive—guffaws filled the silence, the meeting concluded. Ranthia received the scrolls with the scouting reports on the hydra on her way out and fought to keep the smile off her face as she shouldered her pack and set out for the Spearpoint markets.
+
+Sentinel Grace was already dead, and it was time to make that fact a reality for everyone else. A large monster was the perfect cover; it was practically a gift from Xaoc Himself! Adventurers died every day facing off against oversized monsters, and a level 800-ish hydra could definitely kill her if she got careless.
+
+So long as she was careful, no one would ever doubt the truth that she crafted.
+
+She sorely underestimated how hard it would be to find anything in a base that was on its fifth day of continuous celebrations. Ranthia was forced to track down and outright harass some merchants to get access to their wares. The partying was dying down—and she was forced to carefully dance her way past crowds of unconscious drunks more than once—but Ranthia really didn’t want to go through a fourth all-nighter, just to hope the next day would work out better.
+
+She was on a time limit, and if that meant she had to badger the dwarf [Alchemist] to make her some firebombs, she would! She could always buy the surly man with the curly beard a round once they were done.
+
+“So, all I have to do is poke a knife through it? No fire?” Ranthia couldn’t help but feel dubious. Reman firebombs had woefully fallen short of her expectations, which was what led her to the dwarf in the first place—but she wasn’t expecting to find herself looking at a pile of hardened wax blobs by the time the man was done.
+
+“If’n ye want to die ablaze, yes! There be a layer o’ wax sealin’ off the diff’rent compounds. Ye cut a big ‘ol rent ‘n mix ‘em up fast, ye’ll be caught in the blast! Ye want a small needle-poke or, better yet, rupture ‘em from afar, y’fool! Get a fooking bow!” The surly dwarf’s tone and expression suggested he was trying to pick a fight, but the dwarf that’d recommended him had warned her about it—that was just how this guy was.
+
+“And you’re sure these’ll be enough? A full-grown hydra can get pretty big… Like I said, I’m planning to bait the beast into an ambush and I’m hoping these will do significant damage to it.” Ranthia pressed.
+
+She was doing her best to make sure numerous witnesses could attest to what her plan was.
+
+It would help to sell her staged conclusion, if she succeeded in making it look like things went awry.
+
+“Th’ only reason ah’m lettin’ you have that many is ‘cause I dun wanna drag all this shite back with me! Sign da fookin’ ledger n’ piss off already!” The man thrust the page at her.
+
+Ranthia signed, even as she decided against buying the man another round. Still, if the firebombs worked better than their Reman counterparts, she had everything that she needed. The sack of hydra bait—waterlogged entrails, which she’d been assured would attract any hydra in the region—was waiting outside of the [Alchemist]’s tent (by mutual agreement). She had some trail rations—snacks, in case she was forced to wait for a day or two for the hydra. She had a fairly decent chunk of arcanite tucked under her arm. And from a particularly rude [Merchant] that’d been pawing at an unconscious woman when Ranthia found him, she’d stolen a backpack that superficially resembled her own.
+
+It was already late in the afternoon, but she was finally as ready as she was going to get.
+
+By the time Ranthia reached the location she planned to use—a rocky low valley that often flooded during the spring—she had solidified her plan. She’d half considered just stuffing the bait in her damaged armor and leaving, but even if she was departing, she had no intention of leaving a dangerous monster loose in the area.
+
+Besides, Sentinel Grace would never die to some beast without ensuring that Black Crow brought it along with her!
+
+Instead, she planned to stage the area—she wanted it to look like the hydra had ambushed her before she was ready. The biggest problem was that, by the time she arrived, it was far later in the day than she’d hoped. The Sentinels were undoubtedly beginning their own operation, which meant she needed to hurry.
+
+Ranthia dropped the sack of bait, the arcanite, the box of firebombs, her backpack, and the fake, then blurred into action as she set to work. Breaking rocks was easy and quick, but she also needed to leave scars on the land—damage that the Sentinels would assume was inflicted by the hydra’s teeth.
+
+…Which would have been easier if she’d ever actually seen a hydra. But she needed to stage the scene first, then she could open up the bait and lure the beast into a trap.
+
+Dancing helped. Ranthia allowed her inner rhythm to carry her across the valley as she delivered slashes—without using [Void Edge]—to damage the terrain. She crushed rocks and knocked over other formations. And between the building euphoria of having her escape route from Remus—and whatever horrific nonsense her former nation was getting up to—and the simple pleasure of getting to make a mess?
+
+She was having fun. No matter how important it was to set the stage, the act was undeniably silly. But after all of the stress she’d been under, it was a joy to just let herself go and trust her instincts. She didn’t have the time or expertise to be perfect, she just needed—
+
+[Divine Eyes in the Void] suddenly swung behind her, but the disorientation was crushed beneath her combat instincts. A serpentine head was closing in at speed, and Ranthia was forced to dance to the side while the beast crunched down on the rock formation she’d been cutting into.
+
+She’d been staging the valley to make it look like the hydra had caught her before she had set up her trap to deal with it. …And that was exactly what happened.
+
+[Healer – Verdant] level 583, [Mage – Mountain] level 571, [Mage – Acid] level 300.
+
+“Level eight hundred, huh? Leave it to the Legions to exaggerate when they find themselves outmatched!” Ranthia snarked, while she continued to dance away from the solitary head. The beast was a hydra, and she wasn’t blind.
+
+There was quite a bit of neck that she could follow back to where the body was hiding.
+
+At least she’d learned that hydra teeth were smaller than she’d expected. The knowledge was no longer even remotely useful, but it was certain to stick in her mind anyway.
+
+Another head arced from above, drawing her [Divine Eye]. Ranthia danced clear, though she left a newly formed image standing where she’d been. With every beat of her heart, another image joined her—and she had four others up before the hydra smashed its face into the rough, rocky ground in an effort to crush the image she’d left for it.
+
+…That had to hurt.
+
+Ranthia’s smile was still on her face—a touch toothier than it had been, perhaps, but it was no less sincere. She was out on her own, facing off against a powerful beast just because someone had asked her to and because it was a threat to the weaker people in the area. Sure, there were technically differences, but… For the first time in entirely too long, she felt like an Adventurer once again.
+
+“Y’know what, fine. Let’s do this!” Ranthia shouted. And with that, she began to rush the hydra’s main body.
+
+Regenerators were annoying. She still believed that it was possible to instantly kill one with an undeniably lethal attack, but with a hydra’s bulk and the limited reach of her knives, she wasn’t capable of that. What she could do was inflict constant harm. The System didn’t do anything for free—every scrap of flesh that the hydra’s natural regeneration restored required mana. So long as she outpaced the hydra’s mana regeneration, the fight was hers to lose.
+
+Hydras were supposedly extremely intelligent for beasts, but her opponent hadn’t impressed her. Unless it was trying to make her complacent, the creature seemed to only be attacking with one head at a time. Even as she closed in on the main body, a solitary head peeked out from behind the large rock and struck forward.
+
+Ranthia adjusted her dance to carry her to a nearby rock formation and used its height to vault over the head. She didn’t even bother to slash its neck as she moved past—she’d be able to deal far greater damage to the beast’s body than its more maneuverable necks.
+
+Tentatively, she seemed to have greater speed and agility than the hydra possessed. It was undeniably far more physically powerful, but her still-growing number of images seemed to be confusing it. If she was right about the beast’s speed, she might be able to outrun it and seize the firebombs, except she still wasn’t convinced that they’d do enough damage to properly threaten the creature.
+
+When the Tali pieces came down, she’d rather trust her knives—and her Void—than an unknown weapon. The firebombs would have been great for a surprise first strike, but she wasn’t about to try to incorporate an unfamiliar, volatile weapon into her battle without greater confidence in the results.
+
+Once the distance between her and her opponent narrowed, Ranthia got her first good look at the beast. Strangely, the hydra seemed to be covered in old scars. Pinkish-grey gaps in its leathery hide were almost everywhere, especially on its torso. It also only had four heads—with two massive scars suggesting that it had once possessed more.
+
+Scars on something that regenerated were strange—its innate healing should have left seamless flesh.
+
+Just before Ranthia could deliver her first strike, a barrier of stone raised between her and her target. That was easy enough to resolve, she just tossed a knife into the air, seized the conjured barricade, and vaulted over it. [Adamantium Chaos] brought her blade back into her hand in mid-air.
+
+And she delivered the first two strikes across the creature’s hide.
+
+Even as her Void-kissed knives tore their path through the hydra, its flesh filled the wound and formed fresh hide—unblemished even by the scars that had once been present. But that was to be expected, she just needed to keep up the pressure.
+
+The hydra, quite strangely, seemed to have no intention of allowing her to do so. Two of the beast’s heads rose up, before their necks suddenly bent backwards, driving both skulls directly at her with as much force and velocity as it could muster. It was downright trivial to hop away before they hit, and they hit the beast’s own hide with thunderous force.
+
+The hydra’s body ruptured beneath the blows—it’d inflicted more damage upon itself than she had managed!
+
+Ranthia danced back in, forming images all the while. A swarm of her attacked the hydra, delivering as much damage as they could. Sure, her images didn’t inflict much damage, but against a regenerator, every bit counted. A breadth of damage meant more than trying to pinpoint any vital organ—they regenerated identically, after all. Not that she had any real sense of what was even inside of a hydra.
+
+Seriously, how did it work having multiple heads? Was the creature’s brain somewhere in the body, or did each head exert its own will?
+
+She still had no idea if the hydra was stupider than stories suggested, or if it was playing mind games. The fact that one of its heads was watching her—without attacking—while the other three tried to snap at her images sure seemed to suggest there was some higher plan. But the fact that the hydra bit a bloody chunk out of its own tail about the time she had that thought brought a fresh surge of doubt.
+
+It wasn’t even trying to attack with its tail!
+
+It was difficult to compare the hydra’s regeneration rate with the troll’s. Her own perception had improved markedly since she killed the troll twin, and she wasn’t about to try to consult [Chest of Experience] in the midst of battle. Either way, it was fast. Broken bones fused back together, flesh was restored, and the hide smoothly patched itself over.
+
+But as strange as the hydra’s behavior was, there were some telltale signs that hinted at the beast’s past. Its intact necks were each ringed by a deep scar. Other scars on its torso were mirrored on either side.
+
+Someone had—at the very least—attempted to capture the hydra at some point.
+
+Her [Divine Eye] flicked to a specific head—one with a neck that was swelling rapidly—and Ranthia didn’t even hesitate. She activated [Reflections of Reality] as she danced away from the beast’s body—though she left the five images behind. Her perception warped almost the same instant the attack finally came.
+
+The hydra’s head vomited up a massive volume of vibrantly hued yellow fluid. Stone sizzled and sagged as the Acid burned through it. And a section of the creature’s tail dissolved along with it—without any sign of regeneration.
+
+“…Do you seriously use an element you’re vulnerable to with no resistance Skill?!” Her disbelief was so profound that the question had to be vocalized, even if she wasn’t expecting an answer.
+
+Sure, the Acid volley was intimidating, but the hydra had to have burnt a considerable portion of its own mana on an oversized attack that left it damaged! The beast was desperately trying to escape the expanding pool of Acid that it had wrought!
+
+It was weird. Okay, it was stupid, but that didn’t mean she could stop. Ranthia replaced the image she’d left half-hidden behind a rock formation and started creating more as she closed in anew. Even if the hydra was vulnerable to its own Acid, she still needed to keep up her own damage output. She had no way to know what the hydra’s mana pool or mana regeneration was like, she just knew that she was racing the latter.
+
+Two of the hydra’s heads roared as though it was enraged, and the beast moved her way. The head that’d disgorged the Acid was drooping ever so slightly and wasn’t moving, but the head that’d previously been watching the battle snapped downwards—directly at one of the empty images that was dancing in loose formation with her.
+
+Ranthia lost an image—representing a paltry sum of mana—and pierced through one of the hydra’s eyes in retribution.
+
+The fact that the hydra seemed more insistent on obliterating a smaller threat than it was in trying to eat her probably spoke volumes about whatever the creature had been through, but even if its aggression was the result of trauma… Well, she’d inflicted a significant amount of pain, and it wasn’t showing a single sign that it might consider escape. The beast had to be put down.
+
+Ranthia and her images—with the destroyed image replaced—fanned out as they closed in on the hydra. The pool of reeking Acid was a hazard, but her opponent had moved far enough from it that it wasn’t too hard to ensure none of her images fell in.
+
+Another head reared up and started to look between the manifestations of her, clearly trying to choose its target.
+
+She didn’t get to use it too often, but she had a Skill for just such an occasion.
+
+“Hey ugly! Your mother was a pond snake!”
+
+[Echoes Reflected] let one of her images shout up at her opponent. …And she wished she could blame the insult on the Skill, because that was not one of her better attempts.
+
+Just as she hoped, the hydra’s head snapped down and smashed, face-first, into her image. As had been the case with every similar attack the creature made, the head seemed to be momentarily stunned in the wake of the blow.
+
+While her other images attacked the main body, Ranthia sliced through the hydra’s eyelid and drove her [Void Edge]-empowered knife as deep into the creature’s skull as she could. She had no idea if there was a brain in there, but she hoped she could disrupt the head—at least temporarily.
+
+It was worth trying, at least.
+
+Of all the possible reactions, she wasn’t expecting to see two of the beast’s other necks swell as it prepared two volleys of its Acid attack. Once again, she activated [Reflections of Reality] as she desperately tried to get clear. That time, the Acid came before she could shift.
+
+She was clear of the main body of the fluid, but it was a semi-viscous fluid forcefully expelled—it splashed. The globules of Acid arced wildly through the air at mundane speeds, but there were a lot of them in the vicinity. She side-stepped a larger splash, even as she intercepted flecks of Acid with the flats of her knives and her bracers. She hadn’t tested her adamantium against the Acid—she hadn’t wanted to. Alas, the reality of combat seldom adhered to her wishes.
+
+She finally exhaled when her perception jumped to one of her stashed images. Once again, the hydra had succeeded in erasing the images she’d managed to get close to its body—but it had destroyed one of its own heads in the process.
+
+Even the bones were dissolving, as the section of neck that hadn’t been touched by the Acid weakly spasmed.
+
+But why? Even if it was the stupidest of mindless beasts, the hydra should have possessed a greater self-preservation instinct than that. Minor self-inflicted wounds were one thing, but that had to be extreme, even by hydra standards. There were rumors they could grow more heads if they were severed, though using fire or acid to seal the wound had been listed as a means to prevent additional heads from growing!
+
+…It panicked when I accessed the depths of its head, or possibly when it lost control over that head. The explanation was obvious enough, especially considering who had once controlled the region.
+
+She was virtually certain that the shimagu had made an attempt to infect the hydra, only to (presumably) be stymied by its unique biology. If so, the scars that marked where other heads had once existed were a testament to the hydra’s determination to remain free of their influence. Gods and goddesses, she could sympathize with that.
+
+But it didn’t change the fact that the hydra had to die.
+
+With one of its heads gone and another two stuck in the brief torpor that seemed to affect the hydra after it vomited up the Acid, she only had a single head to evade as she closed in once again. Her opponent was far warier though, seemingly unwilling to commit itself to a strike while any of her images might be able to retaliate. It only finally struck when she had her newly formed images separate—and did so with a deft attack, followed by an immediate retreat, even as blood rained from the hydra’s nostrils.
+
+Unfortunately for it, the hydra’s obvious fear gave her an idea. The cuts that she was delivering were already healing far more slowly than they had when the battle began, but she tried to minimize the damage she inflicted while she scrambled up the beast’s side. She needed to make sure the hydra had enough mana for at least one more blast of excessive quantities of Acid.
+
+While she made her ascent, her other images shouted various nonsense to keep her opponent from focusing on her current body. However foolhardy the beast might be, she doubted it’d stay stricken with uncertainty for long. She didn’t need much time—the terrain was shifting and awkward, but she was a very deft dancer.
+
+Soon enough, she was at the base of the hydra’s remaining necks. With three knives in hand.
+
+Ranthia’s other images ran as a unit, drawing the gaze of all three of the hydra’s heads as they moved in front of the beast. But before the beast could strike, Ranthia rapidly threw her knives, one-by-one. Each blade aimed for her best approximation of where the hydra’s serpentine necks met its skulls.
+
+[Adamantium Chaos]’s new ability proved its worth. All three knives tore through her opponent’s craggy hide.
+
+Ranthia erased her images that had gathered at the same time, then began to replace them with images she formed alongside herself.
+
+Just as she hoped, one of the hydra’s necks surged. She still had to wait until the beast was absolutely committed, but once the Acid made its appearance, she vaulted clear of its body—throwing herself toward its ruined tail.
+
+The deluge of Acid splashed into the bases of all three of the hydra’s viable necks and flowed down its chest. Hide sizzled away and flesh liquefied, briefly revealing bones, before they too succumbed to the potency of her opponent’s conjured (…or, given the smell, regurgitated and empowered) Acid.
+
+Just after the final drop fell from the hydra’s slack jaw, its body teetered.
+
+And fell sideways.
+
+[*ding!* You have slain a hydra [Dweller of the Woods] (Verdant, level 583), [Shelter for Hydra] (Mountain, level 571), [Be Free, Melt Everything] (Acid, level 329)!]
+
+[*ding!* [Echoes Reflected] has leveled from 499 to level 503!]
+
+[*ding!* [Adamantium Will] has leveled from 10 to level 21!]
+
+[*ding!* [Skilled Fingers] has reached level 73!]
+
+Somehow, the lack of actual class levels felt fair—she’d never taken any damage.
+
+“Xaoc, I’ve never actually prayed on behalf of a beast before, but this creature suffered during its time on Pallos. If I might ask, could you see that the next stage of its life, once Samsara has finished with it, is a kinder experience?” Part of her felt silly, but she was convinced that the hydra had lived through one of her darkest nightmares.
+
+That warranted some degree of sympathy.
+
+But she couldn’t linger. Night had fallen during her battle, and she had no idea how much time she had until one of the nearby legionaries or a Sentinel came to investigate her progress. Part of her plans had been unraveled by the hydra’s appearance, but she still needed to arrange what she could.
+
+It had to be enough.
+
+The pooled Acid was fading away with the hydra’s death—and was filling the area with fumes as it went. Ranthia rushed back to where her backpack waited and hurried to retrieve her damaged suit of armor from it. She worked to reconnect the plates while she ran it back, desperate to get there before the Acid was entirely gone! It was a shame to lose a repairable suit, but her Sentinel armor would help to sell her fate. She even—somewhat grudgingly, it would have been a nice memento of the woman she had been—pinned her Sentinel badge to the armor before she dropped it into the fading Acid.
+
+Moments before the hydra’s failing body offered a better option. Its stomach burst open with a horrific squelching noise, and its contents spilled out. Including multiple human bodies, in various states of dissolution.
+
+“Oh gods, I take back my sympathy.” Ranthia fought back the momentary urge to hurl—the smell was even worse than the sight. Fetid, yet… spicy, for lack of a better way to put it. And she really wished she had a better way to put it, because she didn’t want to put herself off of spicy foods for the foreseeable future!
+
+Through a process that was both gross and excruciating, Ranthia located a woman’s body that had a similar hair color. The dead woman was a bit bulkier than she was, though that was fine. With gritted teeth, Ranthia stripped the woman’s failing Legion-issued armor off, before she fished her severely damaged armor out of the dregs of the Acid.
+
+She killed the hydra without a scratch, yet she was forced to shift to undo the damage she inflicted upon herself multiple times throughout the process. But after everything was done, the dead woman was clad in her armor. With the body prepared, she shifted again and rushed to retrieve the false backpack and her crate of firebombs.
+
+Xaoc willing, the alchemical weapons had enough potency. The hydra had ambushed her—she just needed to convince anyone that came that they’d both perished. A final act of vengeance, one that brought both Sentinel Grace and the beast to Samsara.
+
+Ideally, no one would ever come forward with the beast’s true level. The exaggerated report still bothered her, but she had to believe there was only a single hydra—there just wasn’t enough food in the wasteland to sustain two massive predators in the same area.
+
+Ranthia nervously tried to convince herself that she’d done all that she reasonably could. She had prayed for the legionaries that had fallen victim to the hydra. She’d carefully erased her back-and-forth tracks between her gear and the site of the battle, leaving only the sack of hydra bait. Her backpack was in position, and she’d subtly sabotaged a seam of the sack of bait so it would leak—obscuring any other scents in the area.
+
+The crate of firebombs and her fake backpack had been shoved into the hydra’s stomach. Her body double was ready, and the excess length of the woman’s hair and Legion armor were carefully wrapped and stuffed into her backpack for later disposal. The acid had been reduced to mildly caustic mud and even that was drying fast. Her knives, unblemished by the Acid, had been retrieved and reformed back into her bracers.
+
+All she needed to do was rupture the firebombs.
+
+Ranthia left an image atop a sturdy rock some distance away, with her backpack in its grip, then vaulted over to the hydra’s corpse. A needle extended from her adamantium, and she made the smallest possible puncture through one of the firebombs at the same moment she activated [Reflections of Reality].
+
+She was relieved when she finished shifting before the firebombs went off, but her nerves were starting to best her. If Night decided to check on her before he joined the culling of shimagu civilians, she was dead. If any legionary decided to take a peek at a Sentinel’s battle, all of her efforts were for nothing. With every moment that passed, she was in greater peril, and the stupid firebombs weren’t even going o—
+
+Her night vision—which had survived the transition to [Divine Eyes in the Void]—made the world look as though it was midday, even in the dark of night. But even then, she was nearly blinded by the blast.
+
+She only narrowly saved herself from getting blown off of the rock.
+
+In the aftermath, flames raged as chunks of charred hydra rained across the vicinity. In a rush, Ranthia sent an image to the furthest solid patch of rock she dared and threw her backpack to it, even as she activated [Reflections of Reality]. The dazzling bonfire of alchemical fury had to draw attention, which meant she needed to escape the area!
+
+But even as she fled the area, shifting to minimize the trail that she left in her wake, she found herself smiling. No one could possibly believe she was still alive, not after that.
+
+Sentinel Grace was dead.
+
+And Ranthia, Adventurer and [Priestess], was free!

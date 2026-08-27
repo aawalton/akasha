@@ -1,0 +1,133 @@
+---
+id: 9a7a9954-ce47-5f86-ae54-92054b69fb90
+page-type-slug: story-chapter-royal-road
+title: "80. Invasion of Privacy"
+slug: 0080-80-invasion-of-privacy
+partOf: breaker-of-horizons
+position: 80
+ownLength: 2020
+unit: words
+publishedAt: 2021-02-04
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/625491/80-invasion-of-privacy"
+royalRoadId: "625491"
+---
+
+Kevan caught a fleeting impression of some kind of movement or vibration from Jerric, and Devon's spillage suddenly froze over, turning completely opaque. The aura of calm around Jerric rapidly faded away too, until the two of them simply hung in front of him in their bubbles, completely unreadable.
+
+Immediately, Kevan's guard was raised. This sudden and inexplicable closing off reminded him strongly of how thaumaturgists would consolidate arcana before an attack. But there wasn't anything he could really do here in this arcanic space, so he simply drew his mote sharply away from them.
+
+'What're you guys playing at?' he demanded.
+
+'Sorry, sorry!' Devon sent, sounding genuinely apologetic, though it was now impossible to read any emotions for sure since he had somehow managed to completely stop the spillage.
+
+'Just trying to help Dev stabilise,' Jerric explained, though his intentions were equally inscrutable. Next to the two of them, Kevan was bleeding suspicion and hostility. As he contemplated how effectively the two of them had sealed their minds, a little jealousy crept into his own spillage as well. That, in turn, added bits of shame as he desperately tried to cover his own mind from their gaze.
+
+'If you're here to pull me out of my own head, this is a crappy way of doing it,' he snapped at them.
+
+Devon's mote drifted closer, and a short burst of intentionally-channelled emotion conveyed a placatory air. 'We figured it'd be best if we helped each other to find memories of Caden, instead of leaving everyone to do it by themselves.'
+
+'Yeah,' Jerric chimed in. 'It helps if someone else is around to stop you from falling too deep into your own memories.'
+
+Kevan felt extremely exposed by contrast since he was still bleeding the tenor of his thoughts into the arcanic space, while the two of them had become self-contained spheres that strictly regulated whatever they wanted to put out. 'Okay,' he sent cautiously, 'then help me get a handle on this bleed first.'
+
+There was a brief moment of silence. Kevan's suspicion grew when he managed to catch a quick transfer of ideas from Devon to Jerric. Kevan wasn't able to glean any of the details, but it was evident that Devon had been trying to be as surreptitious as possible.
+
+'Alright,' Jerric projected, his mote bobbing past Devon's to draw closer to Kevan. 'You just need to stay still for this, and not fight it.'
+
+'No, stop,' Kevan commanded sharply, drawing back a little. 'What was that?'
+
+'He was just telling me to be careful,' Jerric explained, sounding weary. 'You know he doesn't trust you or Ly, after what you two said back at the manor.'
+
+That was certainly plausible. Kevan had given them reason to doubt his and Ly's intentions. He was being a little paranoid, but that was partly their fault since they had acted so strangely by suddenly sealing their emotions in without any provocation. The suspicion in his spillage cleared a little.
+
+'You good?' Jerric asked, conveying patience. 'Can I help seal the spillage?'
+
+Kevan hesitated, considering his options. He didn't want to root around in his own auric-ambient-flare for memories of Caden, because he wasn't even convinced that it was the right thing to do. Then there was the fact that he just didn't want to confront the nature of his own tangled aspect.
+
+'Look,' he began, then paused as he tried to sort out his own line of reasoning. All around him, the threads of his auric-ambient-flare pulsed as he thought. 'It's not that I wanna be against you guys... but have you really thought this through?'
+
+'You want to discuss this now?' Devon demanded. The spillage-seal was so tight that he almost didn't come across as angry at all.
+
+'I do,' Kevan answered forcefully, a sense of righteous indignation and conviction rising within him and colouring the arcanic space. 'I really don't think helping Caden is the right thing to do.'
+
+'You're just saying that because you're jealous of him, and you don't like him.' Devon shot back. This time, a little more anger came through the seal.
+
+'Dev,' Jerric began, but his statement, stripped of emotional weight, was drowned out by Kevan's retort.
+
+'Yes, you got both of those things right!' Kevan couldn't shout, but his thoughts did reverberate around in the space with greater intensity, temporarily displacing a few threads. His auric-ambient-flare thrummed all around them as memories and impressions leaked out from the closest thread, sending echoes skittering through the arcanic space. All three of them hardened the little shells around themselves and rode the wave.
+
+When the turbulence had finally passed, Kevan dug in his metaphorical heels, ready for an argument. 'But there's more,' he sent, his mote flashing briefly and drawing attention to the cloud of emotions that had begun to envelop him, betraying his surface thoughts and feelings to the other two. Mixed in with the jealousy and the dislike that had emerged at the mention of Caden, there was also the sense of righteousness he felt about his reservations, and grudging respect of Caden, coupled with the acknowledgement that he found his own choice unpleasant because he didn't actually want to harm Caden, but he felt it was truly necessary for the greater good.
+
+That was enough to give Devon pause. But it was impossible for Kevan to divine what was going on in Devon's head.
+
+'Okay.' Devon's mote unwound itself a little, and even though there was no spillage now, the movement conveyed a certain release of tension, like someone letting out a huff. 'Let's hear your side of it, then. Properly.'
+
+That... was not really what he wanted to do. It would involve self-examination, and that was a dangerous thing for him to attempt here in this arcanic space. 'I don't have to explain myself to you guys,' he sent, still desperately trying to totally stop the colours of his emotions from bleeding out into the space where Devon and Jerric could read them.
+
+'Kev, look, I understand. Really, I do.' Jerric's mote edged a little closer, but not so much that Kevan felt the need to retreat. 'And not just because your emotions are literally on display here. There's stuff in my life that I don't really want to confront either. And I know it's asking quite a bit, but you're basically asking us to let a friend die... or... be broken... or whatever it is that's going to happen to Caden. We need an explanation.'
+
+Kevan wondered if they could see him wavering, and knew that it was probably possible. This was such a terrible imbalance of power. He had nothing on them, but they could read his emotional state as clear as day, and they literally had live feedback so they could tailor their words. How was this fair?
+
+'How about you let me help you seal that spillage, and maybe you'll be more comfortable explaining things to us then?' Jerric suggested.
+
+He refused to give verbal consent, but there was no real need to because the moment he relented, it was as clear as day. The weight of his own ruminations had coloured the arcanic space around them since they were still inside his auric-ambient-flare, and once he made the decision to allow Jerric to help him, the atmosphere became less fraught with tension and suspicion.
+
+Jerric's mote moved closer still, and Kevan sensed a mind reaching out towards him. He gave himself a mental shake and prepared to remain inert to allow Jerric to do whatever it was that would help him manage the spillage. But just before Jerric's mote made contact, Kevan was suddenly filled with a great sense of dread and fear.
+
+"I'm sorry," Jerric said.
+
+Kevan gasped, flinching away at the touch of Jerric's hand. He stumbled backwards and fell, hard, onto the floor.
+
+Wait. Jerric's hand? The floor?
+
+"What do you mean?" he demanded, scrambling to his feet, his cheeks flushed. He stared at Jerric, who was dressed in a white T-shirt and grey jeans, and strangely barefooted. He looked down at himself and saw that he was wearing his usual all-black outfit for thaumaturgical practice. "What have you done?"
+
+"I really want to talk to you. But there's a lot at stake, and I wanted to be sure." Jerric turned and walked a few steps away. Kevan took in more of the space around them. The floor was a strange, featureless plane of grey, and a light mist hung in the air. The mist itself was suffused with soft luminescence so that it was still possible to make out what was nearby, but it effectively shrouded anything beyond five metres.
+
+"Don't mess with me," Kevan snarled, pulling arcana from the air into his palms. It felt good to finally be able to work with his body again, to weave with familiar glyphs and channel power through his limbs. "Where are we?"
+
+"We're still in your auric-ambient-flare." Jerric stretched out a hand and waved it vaguely through the mist. Some of it coalesced into a ball, and inside it, a little echo of a memory had begun to play out.
+
+"Don't you dare start whining and snivelling..."
+
+With a cry of anger and shame at having such a private memory plucked out from him like that, Kevan hurled a heavy arcanic bolt at Jerric.
+
+It made contact and sent him flying through the air and into the white mist. The ball of memory dissipated, somehow leaving a stain of emotion in the air like a colour that was felt rather than seen.
+
+"See, that's exactly what I wanted to be sure of. My safety."
+
+Kevan flinched away again, hating himself for appearing so twitchy. Jerric had spoken from right behind him, and he was whole and completely unscathed. Kevan quickly wrapped himself in a honeycomb barrier and, in the same instant, loosed a barrage at Jerric. This time, the bolts went right through him.
+
+"What the f—"
+
+With a flick of his wrist to the left, Jerric cracked the honeycomb barrier and it fell apart in two neat halves that were rapidly swept away by a gust of wind. Another flick of the wrist to the right sent Kevan tumbling sideways onto the ground as though he had been shoved.
+
+"Let me lay this out for you," Jerric said, ambling over to where Kevan lay sprawled on the floor. "You can't hurt me, but I can hurt you. It's not fair, but I figured that you wouldn't listen or talk civilly if things were set up any other way."
+
+"How are you doing this?" Kevan demanded, panting and staring up at Jerric.
+
+"I'll explain later. Really, I will. But only if I get what I want."
+
+Kevan could tell that open refusal wasn't going to get him anywhere, but he wasn't quite ready to concede defeat yet. Slowly, he got to his feet and dusted himself off. He refused to just lie there and have terms dictated to him.
+
+"Yeah? And what do you want?" he asked, glaring.
+
+"I want you to change your mind about Caden."
+
+"How about we make a deal?" Kevan sneered. "Since you went through all this trouble to talk with me, I'll talk. Hell, I'll do more than talk. I'll show you why I think we shouldn't be helping Caden."
+
+Jerric folded his arms and frowned. "Sure... but what's the deal here?"
+
+"You don't just listen and watch. You come and sit in the memories with me."
+
+"Why would that make any difference?" Jerric's frown deepened.
+
+Kevan shrugged and grinned. "That's just what I want. I'll show you everything, on the condition that you experience the memory with me, instead of just observing it from a distance."
+
+"You realise you don't have any bargaining power here?"
+
+Kevan walked up to Jerric and went right up to his face. "Don't underestimate me."
+
+They stared at each other for an agonizingly long moment. Jerric was the first to blink.
+
+"Alright. I'll sit in the memories with you. So... lead the way. Show me why you think we should leave Caden."

@@ -1,0 +1,115 @@
+---
+id: 0d59b027-828b-56a6-9ab2-cc4181b4247d
+page-type-slug: story-chapter-royal-road
+title: "28: Hidden Piece"
+slug: 0028-28-hidden-piece
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 28
+ownLength: 1136
+unit: words
+publishedAt: 2024-11-20
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1915044/28-hidden-piece"
+royalRoadId: "1915044"
+---
+
+28:
+
+[You have received 3587 experience for successfully slaying a Level 5 Rift Goblin Commander!]
+
+[You have looted the following items:
+
+1755 Tutorial Points
+
+Agaresh’s Map
+
+Shield of Greater Deflection (Rare, Qi Gathering Stage)
+
+Greater Recovery Pill (Adept Rank Alchemic Pill) x 2]
+
+“Oh shit,” Jack muttered under his breath, after having returned with Sarah to claim his loot.
+
+“Everything okay?” Sarah asked.
+
+“Yeah,” Jack hurriedly replied. “Yeah, it’s fine. I was just impressed.”
+
+Sarah raised an eyebrow at that statement.
+
+Jack could’ve chosen to explain, but instead he decided to go for a demonstration.
+
+Seeing no reason to deny himself any longer, Jack pulled out the shield he’d gotten for felling the Rift Goblin Commander. It was an odd feeling, to first have a very visceral fear of long ranged weapons carved into him, only to then be offered freedom from that terror by the very foe that had been the source of it.
+
+What his left hand ended up strapping into turned out to be a heater shield, its shape roughly triangular, with a flat top, pointed bottom and rounded sides. Forged out a dull bronze metal, Jack noticed that two sheets of metal that shared the same dimensions had been hammered together, a series of metal bolts running across the shield’s perimeter aiding him in reaching that conclusion.
+
+In a nutshell, the Shield of Greater Deflection was a more compact version of a kiteshield that had been forged with some method that was unfamiliar to him. It was also, plausibly, capable of exhibiting more arcane abilities as well.
+
+Jack didn’t hesitate to use Inspect.
+
+[Shield of Greater Deflection, Qi Gathering Stage Artifact (Rare)
+
+Description: Crafted from {unknown} metal, the Shield of Greater Deflection is designed to offer the wielder protection from both melee and ranged attacks without sacrificing their mobility. Offers very strong resistance to slashing, stabbing, melee and ranged based attacks and moderate resistance to Basic Qi Empowered attacks.
+
+Artifact Ability:
+
+Empower: Allows the wielder of the Shield of Greater Deflection to invest up to twenty points from their Qi Pool at maximum capacity. The invested unattuned Qi will automatically be converted into Wind Qi and stored within the artifact.
+
+Upon making contact with an enemy’s attack, the Shield of Greater Deflection shall automatically call upon this reserve of Wind Qi to deflect or repel any manner of attack, whether it a be melee, ranged or Qi Empowered attack until the reserves within the shield last unless the wielder cancels the auto-retaliation. ]
+
+“Well, I guess we won’t need to worry about archers too much,” Jack muttered as he strapped his left arm into the shield while Sarah watched him with a glimmer of relief in her gaze. She wouldn’t have to repeat the stunt that had been asked of her given the shield that had just been added to Jack’s repertoire.
+
+“No, we won’t,” Jack stated with an air of finality, his tone carrying more confidence than he felt. In truth, the fight had been close and the rewards Jack had gotten for slaying the creature showed that.
+
+If they still had been in a group of four, Jack was certain that they would’ve walked away with at least one casualty.
+
+But those were words the injured Sarah needed to hear right now and Jack had no qualms in saying them.
+
+Jack sheathed his blade to free up his right hand, before he pulled out another Greater Recovery Pill from his inventory.
+
+“Here,” He offered the pill to Sarah.
+
+“Is this a reward from this creature?” Sarah asked, her gaze locking on to his expression as she watched him closely.
+
+“Yeah,” Jack replied.
+
+“Then I can accept it,” Sarah replied, gingerly plucking the pill from his palms. “Otherwise I was going to buy one.”
+
+Jack nodded, understanding her line of reasoning. If she did not want items from his share of tutorial points, Jack could respect that. She had certainly earned a share in the Rift Goblin Commander’s Loot though, by putting her life on the line for it.
+
+“We also got a map,” Jack said.
+
+“A map?” Sarah asked, sounding perplexed. “To where?”
+
+“Let’s find out, I guess?” Jack offered, pulling out the map from his inventory.
+
+It was a furled scroll, held together by a thin rope knot. Jack tugged the knot open before unfurling the scroll and holding it before him, a movement that was made awkward by the shield weighing down his left arm.
+
+Whatever Jack had been expecting, a children’s drawing or atleast one at that level in terms of artistic accuracy, drawn with a rough chalk of some variety was not what he had been expecting.
+
+It was a map, an incredibly rough one at that.
+
+One half of the map was covered in a symbol consisting of one horizontal and three vertical lines intersecting it from top to three fourths of the way to the bottom. Jack assumed those were trees, with an uneven line demarcating their boundary, or he supposed what was the end of the forest.
+
+A sacrilegious thought, given that Jack had begun to believe that there was no end to the damnable forest.
+
+A pair of diagonal lines were filled in roughly with the chalk, their angle suggesting that a downward slope awaited him at the edge of the forest.
+
+The trees were far sparser beyond the forest’s supposed reach, but that wasn’t the thing that had caught Jack’s interest.
+
+There was an oval drawn just a little beyond the forest’s edge, it’s perimeter demarcated by jagged scribbles that were hastily drawn. Triangles dotted the oval, with a few more symbols like a cauldron, a hammer, a square box and a pile of sticks marked inside.
+
+Jack’s curiosity won out and he used inspect on the map.
+
+[You have discovered a clue to Hidden Piece: Rift Goblin Camp. An optional quest has been allocated to you. You may choose to complete or ignore this quest. If you choose to complete it, you will only be rewarded if you do so within the duration allocated.]
+
+[Quest: Rescue
+
+Duration: 48 hours from the receipt of this message
+
+Description: Your conquest of a Rift Goblin Commander tasked with surveying the new lands they have found themselves in has lead you to discover the Rift Goblin Camp.
+
+Many cultivators from earth have already fallen to the hands of these Rift Beasts that hail from within the corrupted Void Realm. Currently, three surviving humans are trapped within the Rift Goblin Camp, captured and headed towards a gruesome fate.
+
+Free your fellow humans from Rift Goblin Captivity within the next forty eight hours in the spirit of unity or their fate is sealed.
+
+This is a sharable quest. You may share this quest with upto a total of three people.
+
+Rewards: 20,000 TP per party member.]

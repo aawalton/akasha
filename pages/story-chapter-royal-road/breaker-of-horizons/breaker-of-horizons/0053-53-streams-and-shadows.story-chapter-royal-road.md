@@ -1,0 +1,113 @@
+---
+id: 01fea205-9c61-5f4e-8345-3c1376c40b0b
+page-type-slug: story-chapter-royal-road
+title: "53. Streams and Shadows"
+slug: 0053-53-streams-and-shadows
+partOf: breaker-of-horizons
+position: 53
+ownLength: 2522
+unit: words
+publishedAt: 2020-11-02
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/578166/53-streams-and-shadows"
+royalRoadId: "578166"
+---
+
+Utter silence greeted his proclamation. If anyone was visited by the urge to turn to their neighbour and engage in speculation, or just to exclaim in confusion, it was quelled under the weight of the Demiurge's presence. Caldwell managed to root us all to the spot and I felt like I was back at the lake with Jerric when the wild augera had pinned me in place with nothing more than its gaze. It was arcanic manipulation on a whole different level from ensorcelment.
+
+"In the past, upon graduating from the Academy, new arcanists were sworn into the service of the Aiestan Empire. The passage of time has turned it into a ceremonial procedure; a mere formality." The Demiurge moved as he spoke until he stood in front of the long table, each step punctuated with a resonant thud of the staff on the floor.
+
+"But the time has come when all of us," he paused and gestured with his free hand, encompassing everyone in a single sweep, "must dispense with empty ceremony, and stand ready to serve the Empire with life and limb. It saddens me to say this, but you belong to the first generation of arcanists in more than a hundred years who will all be trained for war."
+
+"For the past few months, since the re-veiling of the Prophecy and the identity of the Chosen One, some of our neighbours have begun moving against us. We are, thankfully, not yet in a state of open conflict... but despite our best efforts at diplomacy, they seem intent on quashing what they believe to be an existential threat to their sovereignty. As such, we will likely be forced to defend ourselves in the future."
+
+He let out a small sigh, then drew himself up and continued. "By imperial decree, all arcanists are required to render service. Qualified arcanists across the Empire are being redeployed from their various professions to meet the present needs, and for now, those needs are adequately met. But until the Prophecy reaches its fruition, or until our neighbours cease their aggression and make clear overtures for peace, I regret to inform you all that the rest of your time here at the Academy will not be in the civil pursuits, as the decree dictates that we ensure our next generation of arcanists is fully combat-ready in order to safeguard the future of the Empire."
+
+"As the gifted few in the Empire, you are required to serve. As of this moment, you are all on the path to becoming thaumaturgists. When you return from your winter break, your training will resume in earnest in a shortened curriculum that will have you ready for deployment in combat in one year. Fates permitting, if you are not called upon for active duty, those who wish may resume their studies in other fields, though you will be held in reserve for such a time when the Empire has need of you as thaumaturgists."
+
+"If this future is not one that sits well with you, there is a single window of opportunity for you to withdraw from the Academy. At the end of the winter break, if you are still enrolled in the Academy, you will be expected to fulfil your duty. However, know that if you choose to withdraw, you will no longer be permitted to pursue any education in arcanophany in the future."
+
+"Doubtless there are many questions you would like answered, but at present, this is all that I am at liberty to share. As Professor Reeves has said, you may bear this news back to your families, though they are likely to already have heard something through other official channels. Take the time to consider your next steps, and make the necessary preparations for your return or withdrawal."
+
+Just as suddenly as he had come, the Demiurge was gone. The air instantly felt lighter, and there was a collective sigh of relief as everyone in the hall relaxed. But it wasn't long before the hall was filled with noise as people began discussing the news we had just heard.
+
+The seven of us, though, only exchanged solemn looks. There wasn't any question about whether or not we were going to stay enrolled in the Academy. No — we were just beginning to truly appreciate the scope of what we were embroiled in.
+
+After that last exam, we had three days before the winter break began. Students were generally encouraged to borrow books from the libraries to last the whole break and arrange consultations with the lecturers to discuss the future or get some advice on how to brush up on their studies. This time, there was even more of a rush for thaumaturgical materials, and many of the faculty members had back-to-back meetings with students. It was partly to do with the big announcement, but there was also the fact that, most unusually, the Academy was going to be closed during the break. The official word was that the dormitories were due for repair works, but almost nobody believed that. It was more likely that there were extensive upgrades to be made to the security of the Academy, and that these had to be done away from the eyes of students. Or perhaps the Academy itself was going to be turned over to another purpose during the weeks of the winter break.
+
+I managed to secure a brief meeting with Kant on the first day. His residence was a lot more spartan than my father's, which surprised me a little given his usually unkempt appearance. The sitting room had been transformed into a waiting room of sorts, with foldable chairs set in orderly rows. When he beckoned for me to join him in the study, I was struck by how perfectly-organised everything was. The books on his shelves were grouped into clear topics and further arranged by height. His table was bare, except for a sheet of paper that he had placed right in front of him as I entered. As I took a seat in front of his desk, he gestured briefly over the sheet. I recognised the whiff of arcana — it was the sequence I had learned in the Advanced Glyphs exam that allowed the paper to transcribe spoken words.
+
+"Caden Dundale, first-year," he said crisply, and the words wrote themselves out at the top in his neat, cramped handwriting. But when he turned to me to speak, the transcription stopped. "So, Caden, anything in particular you need?"
+
+"Thanks for making time to see me, Marcus," I began, finding it a little odd to address him so informally in a setting like this, but not wanting to ignore his general injunction to us to dispense with the titles and honorifics. "I, uh, wanted to get your opinion on what I need to focus on in Thaumaturgy."
+
+"You're already trying out advanced tactics and techniques with a group of your friends, yes?" he asked. I noticed the sheet filling with words. It seemed he was, quite literally, mentally taking notes as we spoke. Evidently, his sequence was a lot more complex than the one I had picked up.
+
+"Yes, and the twins, you've met them at the duel in the arena, they've been passing along some stuff they've learned from the seniors, too."
+
+"Well, have you managed to identify any of your own gaps with all this help?"
+
+This seemed like a test of my own ability to accurately assess a person's capabilities, even if it was my own. "I take too much time to prepare my sequences in combat, and I lack decisiveness when faced with novel situations."
+
+"Yes. Sequencing speed comes with practice, so you need more of that. That simply comes down to more hours spent in the arena or some other suitable training space. Do you have such a place outside the Academy?"
+
+I frowned. "My father has a workshop at home with arena-grade shielding, but I think it may be too small."
+
+"It'll do in a pinch. I think your spatial awareness is decent, and you have a good sense of the state of the field. So just work on quicker sequencing. As for your habit of dithering in the face of the unfamiliar, that's something the next semester of training will help with. We'll be exposing all of you to a variety of scenarios, and then it comes down to running drills."
+
+"So there's nothing I can do during the break to prepare myself ahead of time?"
+
+Kant leaned back in his chair and regarded me seriously. "There is. Your level of arcanic control is very highly developed for someone of your age. But I don't think you've developed it the usual way."
+
+It wasn't phrased as a question, so I nodded uncertainly, unsure about how I was supposed to respond.
+
+"Have you been into the Spire, Caden?"
+
+I blinked, surprised. "Yes. I've, uh, met the Demiurge there. Twice."
+
+"... I see. And he's brought you to the top, hasn't he?"
+
+There was no point denying it. I nodded.
+
+"Well, that explains a little bit of it. Your ability to sense and control arcana has been amplified by exposure to the crystal in the Spire. But I suspect that you've allowed it to lock you into a certain frame when dealing with arcana, and while that makes you more sensitive and permits better control in certain contexts, it also does slow you down a little and limit your options in other contexts. So during the break, I'd like you to re-examine your conception of arcana, and try not to rely only on the insights you have gained through your contact with the crystal."
+
+"You... you seem to know a lot about the crystal," I began but hesitated. He had referred to it as merely a crystal, not as an augera. How much did he know? Could I trust him? But then again, if our roles were reversed, I wasn't likely to just casually say 'augera' to a student, either.
+
+"Yes?" he prompted.
+
+"Can you tell me what that crystal is?"
+
+His eyes went to the closed door of his study before they refocused on me. "That's the Demiurge's domain. All I know is that it is a finicky artefact that gives us a great degree of control and reach when working with arcanophany."
+
+It was impossible to tell if he was giving me a sincere, honest answer. Regardless, he had given me something to think about. I realised, after he had pointed it out, that I had indeed relied very much on the sensation of the carapace around me whenever I wanted to influence the ambient arcana.
+
+"Is there anything else you need to ask?"
+
+"No, I think that's all," I said, getting to my feet and extending a hand. He rose and shook it. "Thank you for your time, Marcus."
+
+"Rest well, work hard, and come back ready for more, Caden," Kant said, smiling warmly. "You're one of the most promising students I've had in a while, and with a little polish you can easily be one of the top thaumaturgists in the Empire."
+
+That was the most effusive bit of praise I had ever heard Kant give anyone, and it made me wonder what he might say of Emilia. I grinned, thanked him again, and returned to the dorm.
+
+Jerric was sitting in the common area with notes and books strewn all over the table. He gestured for me to join him. "Caden, I think I'm ready. Just sorting through all this stuff, and I can brief the rest when they're back."
+
+"The lake augera?" I asked, glancing at some of the papers. I plucked out what looked like a simple but accurate top-down sketch of the lake and its environs, and scrutinised the annotations Jerric had made about the topography. "What's this for?"
+
+"Well, I was thinking about why my call only seems to work by the lake. It only makes sense if there's something about the flow of arcana in the space that can account for that, otherwise, I should be able to call to that augera from anywhere in the area, or even here in the Academy. So I did some digging into the... streams, I guess, of arcana. Like how the Spires divert or manipulate its flow, what kinds of patterns work in the arrangement of Spires, how they decide where to place them, how even the geography affects it, and why. And I'm thinking that right here, in the... sort of like, the 'shadow' cast by the Spire in the stream of arcana, there's an accidental spot that funnels these calls and naturally amplifies them."
+
+I wasn't that familiar with the underlying principles, but I remembered skimming something like that in our initial trawl of the library when researching augera. Jerric's work was thorough, and it looked accurate. "I'm going to have to take your word for it for now, unless we've got time for me to review these."
+
+He grinned. "Take my word for it. But what I wanted to show you first is this bit." He rummaged through the papers and extracted another sketch, this time capturing the Academy itself in its sweep as well. He pointed at the annotations and shapes he had drawn around the Spire.
+
+"So, we know arcanophany leaves traces, marks, echoes. Well, ever since Kevan ensorceled us and gave us a deeper connection to the augera, I've been able to sort of trace some of these things with more clarity. And I realised the Spire is outputting something all the time, but it doesn't all go into the wards on the walls. Some of it goes to the arena, which makes sense. But I was just mapping things out, and I realised... it's hiding things. In the Academy itself."
+
+"Uh..."
+
+"I think there are whole buildings hidden right beneath our noses, Caden. I know it sounds ridiculous, but the echoes seem to suggest that the Spire is shielding buildings from sight, somehow."
+
+"Yeah, I can confirm that," I said, smiling wryly. "I've tried telling you guys before, but it's like you just can't even focus long enough to talk about it. I can see the buildings. And it's doing more than just making them invisible. It's messing with our perception of distance and time so you don't even notice the empty space, and you can't even focus long enough to really talk about it. I guess the connection to the augera has sort of lifted that veil a little."
+
+"What?" He looked stunned, but after a moment he recovered and did a small fist-pump. "I knew it. I thought I was crazy at first, but there was no other explanation for these weird echoes."
+
+"So... how does this figure into our plans? With all the other stuff going on, honestly, the empty buildings were the least of my worries," I told him.
+
+He pursed his lips. "You're right. Lake augera first, then empty buildings later. When the rest get back, I'll share my plan, and we'll see what we can learn about the lake augera."

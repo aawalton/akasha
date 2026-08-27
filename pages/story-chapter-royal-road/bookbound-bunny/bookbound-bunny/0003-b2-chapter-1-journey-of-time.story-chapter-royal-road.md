@@ -1,0 +1,145 @@
+---
+id: b89662eb-8fe6-54be-b2aa-a081b3d3f6fd
+page-type-slug: story-chapter-royal-road
+title: "B2 - Chapter 1 - Journey of Time"
+slug: 0003-b2-chapter-1-journey-of-time
+partOf: bookbound-bunny
+position: 3
+ownLength: 2492
+unit: words
+publishedAt: 2025-07-19
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2448050/b2-chapter-1-journey-of-time"
+royalRoadId: "2448050"
+---
+
+Lily let out a blissful sigh as she stared out the window of her carriage, the sound of the horses' hooves clopping along the road while the wooden wheels and axles creaked. She was finally on her way to Regarth!
+
+The past half-year had been almost dull compared to all the frantic excitement leading up to her test, and she still occasionally pinched herself as if expecting to wake up from some bizarre dream.
+
+But no, I've actually made it!
+
+Lily remained dutiful after accepting her letter and continued to keep up with her practice with Arakil, her lessons with Richardus, and her job with Camilla. At the same time, she still wanted to keep her promise to help Arakil regain some more freedom from his book!
+
+Thinking back on that moment made Lily almost sigh as she looked at the large book resting on her lap. The eye on the cover was currently closed, but its faded appearance was gone, and it had regained almost its full functionality! All it would take was a mere thought from Arakil, and the eye would open, and he could see the world!
+
+Lily had put in extra effort and sacrificed as much Mana as she could to lead up to the event, and when all was said and done, she almost found the result disappointing in its simplicity. She had expected a significant ritual, full of fascinating and an over-the-top magical presentation.
+
+Instead, when Arakil had the required amount of Mana, he had her trace a complex set of glyphs to form an inscription on the inside of the book's cover, and that rejuvenated the eye. There was no fancy ritual, no flashy display, just hours of tracing out an inscription, and the task was done.
+
+Of course, at the time, Lily was still impressed by the sheer scale of the inscription's complexity and baffled by how Arakil could have created such a miraculous drawing. Still, it was all ruined for Lily when he finally opened his eye and saw the world and his apprentice for the very first time.
+
+[You're much shorter than I expected…]
+
+Lily couldn't believe he'd written that! She was still sensitive about her height, which seemed to have reached the end of her growth spurt and remained noticeably lacking for a Lagia. Part of her even wanted to channel some of Rose's rage and throw his book against the wall.
+
+However, while their first face-to-face meeting was a bust in Lily's opinion, it had advanced their lessons, and Arakil could finally critique her finger wiggles! That wasn't the only source of her improvements during this downtime, as he used the power of his Magesight to evaluate her intake of Mana while meditating and her performance when casting spells. In particular, he was fascinated to witness the leaps and bounds of progress she had made with her Nebula Veil.
+
+Likewise, Lily took every opportunity to show him the world! Unfortunately, this had an unforeseen consequence, as Arakil was devastated by the degradation. He had often mentioned he could sense the low ambient Mana, but now he could witness it and even measure it with the Magesight, which left him in a somewhat depressive mood.
+
+Lily was devastated, feeling like she had personally caused his negativity. She put in a lot of extra effort to cheer him up, and even donated extra bits of Mana, which obviously didn't go unnoticed by the legendary mage. He soon regained his vigor and even tried to look on the bright side when he witnessed the magical potential housed within individuals and also within monsters.
+
+[It's strangely poetic. I'm trapped within my grimoire, and the magic of the world is contained within people.]
+
+Lily, in particular, was quite hopeful that it would mean magic returning to the world if Arakil was free.
+
+Now, under his watchful gaze, Lily took the opportunity to refine all of her lessons to perfection, even going as far as to go back to the basics of drawing simple glyphs! Arakil was, of course, more than happy to do this as he was a firm believer in practice makes perfect and was even somewhat surprised that Lily didn't jump at the chance to try to learn new things instead.
+
+There was one exception to this: Arakil felt it prudent to begin teaching Lily how to focus Mana towards her eyes to start developing her own Magesight. Previously, he had held off on this as he didn't want her to develop it incorrectly or form bad habits from misunderstandings, but now that he could witness the truth of the world himself, he could guide her correctly.
+
+Of course, Lily also spent some much-needed time relaxing and just being a kid, something everyone around her—even Arakil—encouraged and sometimes demanded.
+
+She spent some lazy days with Margit, where they either went shopping or even did some baking together. Similarly, Lily spent quite a bit of time with Theo, who had become quite a close friend of hers due to Rose's absence.
+
+Of course, Lily spent some time "hunting" with the kids. At this point, she felt like she was chaperoning them due to her now-known accomplishments, but thankfully, Theo would often volunteer as well to keep her company. It was a weirdly fun time of hunting slimes and other small, relatively harmless monsters, and to both of their joy, Tim never interrupted them.
+
+Lily eventually discovered that Tim was sent to a sort of "military school" at Richardus' recommendation. The hope was to put his pent-up animosity to good use and hopefully reform him. While Lily hoped he wasn't a lost cause, she still had no desire to see him again.
+
+And just like this, the days seemed to fly by. Lily was preparing for her eventual departure, as she could guesstimate it around the new year starting. However, to her surprise, she was called in early and told she needed to depart almost a month earlier than expected.
+
+Regarth had requested that all its new students arrive early, something nobody was aware of at the time, as Rose's departure and arrival were handled entirely by Lady Desthu. Margit took the initiative to ask Lady Desthu about it and discovered that the same thing happened with Rose last year.
+
+And so the peaceful days ended, and a frantic rush to pack and get ready began. Lily tried to spend as much time with her loved ones as possible, and many tears were shed on her day of departure. Camilla had taken Lily's earlier departure particularly hard and, to everyone's surprise, had packed Lily an entire case full of ready-made potions.
+
+Margit wished her well and pleaded for Lily to write as much as possible. They shared a long, intimate hug that nearly made Lily second-guess her departure.
+
+Camilla demanded that Lily exploit Regarth for all its worth. Lily squeezed the old woman with all her strength, nearly causing the old witch to panic.
+
+Richardus told her to study hard and be respectful to her teachers. Lily tried to hug him, but he refused and they instead shared a somewhat awkward salute and handshake.
+
+Theo wished her the best and said they might meet at some of the inter-school competitions—Lily really hoped that would be the case. Due to their size disparity, they shared a clumsy but friendly hug.
+
+Finally, Oz appeared, but rather than wishing her goodbye, he told her he would be helping escort her! Lily was flabbergasted, but she soon found out that Margit had requested it, and Oz instantly agreed—after all, he wanted to see a bit more of the world and would be paid rather well for his time.
+
+And so they rented a small carriage, paid for by Lily's full-ride tuition, and Oz took the reins. They were joining a small merchant to the nearest town, and would join the next one as soon as possible until they reached their final destination.
+
+While the goodbyes were tearful, Lily's heart still soared at the opportunity for adventure, or at least that was how she chose to view her upcoming trip. For the first time in her life, she was leaving Ceedale's territory and going out into the world!
+
+Maybe the merchants will get attacked by bandits? Then I can use my magic to save the day! Or what if monsters try to eat the horses?
+
+Lily daydreamed of grandeur and heroics, and Oz fed into the delusions as he was also eager to prove himself, as the life of a cityguard wasn't exactly glamorous. But, unbeknownst to both of them, these roads were safe due to frequent patrols and the fact that the merchant caravans often had guards ensuring a secure perimeter.
+
+As the small carriage traveled from destination to destination, with a night spent in a small town or roadside inn, Lily felt herself growing uncomfortably bored.
+
+She resorted to meditation to pass the time, cycling her Mana core. Otherwise, she would speak in hushed whispers to Arakil, ensuring that her bottle of ink was held secure to avoid spilling any ink.
+
+At times, she would also discuss with Oz, asking him what monsters he'd encountered or any exciting stories he had. Compared to everything Lily got up to, he seemed almost a little boring. However, when he started mentioning the pranks and mischief he got up to when he was at the orphanage, Lily found herself giggling along with his stories.
+
+He sounds like an absolute nightmare—I bet he's one of the reasons Margit started getting grey hairs!
+
+Her final countermeasure against lethargy was attempting to draw glyphs despite the bumpy road. Lily took it as a challenge to make them passable even under unideal circumstances—using a pencil, of course, for fear of spillage.
+
+But eventually, in the late afternoon, after weeks of travel, the sight of Kaeling came into view. It was a somewhat remote, large town, smaller than Ceedale, yet possessing its own extravagance.
+
+Its primary function was to provide supplies and sundries to anyone staying in Regarth, as the school didn't allow outsiders into the school proper.
+
+However, staff spouses and offspring would also take up residence in Kaeling, and some of the teachers even chose to live there rather than in their rooms and board in Regarth.
+
+Speaking of Regarth, it had also come into view—a massive castle off in the distance situated at the top of a minor cliff. It looked impressive and imposing, its total size easily dwarfed the town of Kaeling.
+
+Its absurd size was because it needed to entirely encompass the dungeon entrance to seal it. Lily focused her eyes and temporarily activated her rather rudimentary Magesight, causing her eyes to flash and glow a bright scarlet.
+
+Immediately, Lily could see the castle had a powerful aura of Mana, and very likely every brick was enchanted! Lily smiled to herself before blinking a few times as she deactivated the magical vision. She was still very much in the early stages of it and could only use it to identify someone channeling or something storing Mana.
+
+As they approached the town, they noticed quite a few various carriages or wagons, evidently also other arrivals of prospective students, and the streets were positively packed with teens and their respective parents or guardians.
+
+Seeing all the accompanied students, Oz sheepishly asked Lily, "Um… was I supposed to stick around? I thought I was dropping you off and heading back in the morning."
+
+"Thank you, Oz, I think I can handle myself at this point," Lily replied.
+
+"Let's ask someone in charge first, just in case, otherwise Margit will have my head," he replied with a nervous chuckle.
+
+After securing the horse and carriage at a stable, they began exploring the town. Oz carried Lily's luggage while she only kept a small potion pouch and Arakil's book with her, which was currently shrunk to the size of a notepad.
+
+Lily and Oz endeavored to ask someone for help, but were only met with "Sorry, can't talk." and other odd but prompt excuses. The strange behavior of the townsfolk absolutely baffled both of them, and Lily was starting to fret. Some of the other students even looked angry at their attempted communication, as if somehow they were in the wrong! How were they supposed to know where to go, or who to speak to, if everyone hastily rejected them and ran off?
+
+It was becoming apparent that their only hope was to find someone who was a staff member of Regarth, or to ask one of the merchants or even the stable owner. Lily and Oz regretted not asking him when they first arrived, but they could never have expected an entire town to give them the cold shoulder.
+
+However, to their relief, someone waved them down and began to approach them. It was a middle-aged man who looked eager to retire for the evening but, unlike everyone else, was actually willing to talk.
+
+"Um… can I help you two?" he asked curiously.
+
+"I'm trying to drop off Lily here," Oz said as he gave her a friendly pat on the head, causing her floppy ears to twitch. "But we aren't sure where to go or who to speak to, and everyone is avoiding us like we've got the plague."
+
+The man looked at Lily curiously, the puzzlement evident, and Lily already could predict his cause of confusion.
+
+"I've been accepted to join Regarth," Lily said politely, pulling out her acceptance letter. She'd kept it safe and secure between Arakil's pages, like a makeshift bookmark.
+
+The man's eyes widened at the sight of it, instantly recognizing the seal and official letterhead and determining it was valid. Then his shock and surprise began to gradually lessen as he seemed to be recollecting something.
+
+"Recruitment did mention being on the lookout for a Lagia student joining the entrance test, I honestly thought they were joking," he replied with a friendly chuckle.
+
+"Entrance test?" Lily asked curiously. "But I've already been accepted. I got a full scholarship!"
+
+The man let out an impressed whistle, "Amazing. Not many students get the full scholarship. But you're wrong; everyone needs to take an entrance test before entering Regarth properly."
+
+He gestured his arm towards the large castle in the distance. Then he continued speaking.
+
+"That's why we have our prospective students come early. So that if they fail, they can still join another school without too much hassle."
+
+"So that's why so many parents and guardians are around…" Oz muttered.
+
+The man nodded.
+
+Lily, on the other hand, felt like her world was spinning. Another test? Nobody had mentioned that at all! And if she failed, she would be rejected from Regarth! She felt her tiny heart sinking, but then the book in her pocket shook as it minutely shifted up and down in size.
+
+That's right, I've got Arakil with me. We can handle any test they throw at us!

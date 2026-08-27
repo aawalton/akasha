@@ -1,0 +1,159 @@
+---
+id: 5a4a4efb-ec68-530c-b7ff-098a7a5e2c5f
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 15 - Explanation"
+slug: 0019-b3-chapter-15-explanation
+partOf: bookbound-bunny
+position: 19
+ownLength: 2210
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3135742/b3-chapter-15-explanation"
+royalRoadId: "3135742"
+---
+
+Lily was struggling to stay awake since she was forbidden from practicing magic now that the emergency duties were complete. Arakil was extremely strict in this regard, especially after she revealed how her body and her hands felt after what happened.
+
+In what was presumably an effort to prevent her from accidentally passing out, Arakil and she began to converse and, at the same time, help her get used to talking telepathically. Lily still routinely tried to speak with her mouth, after all, it was what she'd been doing her whole life, and she found the mental switch a little difficult to fully grasp.
+
+[I think it's time I tell you a bit more about me.]
+
+{Oh? Is this because of the dungeon?}
+
+[More precisely, about what transpired. I'm sure you have questions.]
+
+Lily couldn't lie to herself; she had many unanswered questions. Why could Arakil borrow her body? Why didn't he do it sooner? What was that strange symbol, and who did it belong to? How could he draw and manipulate glyphs so effortlessly, much more?
+
+Perhaps he could sense her endless questions, as he suddenly opened up and told her about his origins. Lily was honestly surprised that Arakil had such humble beginnings, as she had previously thought he was born into greatness.
+
+Sadly, while she was curious about his upbringing, Arakil brushed it aside and moved on to the more critical matters. Lily had assumed he was a great archmage; however, as Arakil went on, she realized how much she had severely underestimated him.
+
+{You used to be a god?}
+
+[A lesser god.]
+
+{Does that even matter?}
+
+[I suppose it doesn't. Although there are countless gods for all sorts of concepts and phenomena.]
+
+Lily wasn't sure whether he was trying to be humble. How could one downplay being a former god, even if it was the so-called lesser variety? Plus, he said his domain was magic! That had to be extremely important, right?
+
+Arakil gave a brief overview of the gods, which Lily found particularly enlightening. She had no idea that there were so many gods for even things as mundane as cooking, flowers, or the ocean. Admittedly, she hadn't paid too much attention to those types of history lessons, so she only really knew of a few gods, such as Purity, because of their fame.
+
+{So that was your divine key?}
+
+[I wouldn't necessarily call it divine, but yes. Unfortunately, I can't really bestow powers or anything like that with it, since I was only a lesser god at the time.]
+
+According to Arakil, this was the key difference between the tiers of gods. Since he didn't bother to build a following, he didn't gain much might in his governance and couldn't bestow power. The more he spoke about it, the more Lily realized that he didn't seem that interested in doing his "divine duties" and instead merely wanted to continue exploring all facets of magic.
+
+In fact, Arakil even said his divinity was accidental. He'd defeated a few gods who got in his way, and so was qualified by default. Then, because of his devotion towards all things magic, the role was chosen somewhat automatically.
+
+He brushed over a lot. Lily wasn't sure whether he was trying to hide some things or simply didn't deem them essential. She was personally leaning towards the latter, as it really looked like he didn't care about anything that wasn't about magic.
+
+Of course, this eventually led him to explain in more detail how he ended up trapped in his book, though Lily felt he was keeping a few cards hidden. At the same time, he also hypothesized that his sealing is the reason for the current state of the world.
+
+[When a god falls, their aspect is negatively influenced. If the goddess of fertility vanishes one day, birthrates will plummet across the board until a new goddess rises to the mantle. Since magic was my domain, I suspect that the ambient Mana sharply declined as a result.]
+
+{Why did a new god or goddess of magic not take your position?}
+
+[Well… Since I'm only sealed and haven't perished, I assume that I still hold the role to some extent. The fact that I could make you my first apostle is also further evidence towards this theory.]
+
+{Wait… I'm what?}
+
+[My first apostle. I needed to promote you so that I could borrow your body as my avatar, so to speak.]
+
+Lily was flabbergasted. She'd been made the apostle of the god of magic? Just like that? She swallowed nervously.
+
+{What does that mean…?}
+
+[At the moment, unfortunately, very little. As I mentioned, I never bothered to do much of my official duties since I never wanted the position in the first place. But, hopefully I'll be able to grant you some benefits soon.]
+
+{I don't need anything. You've already done far too much for me.}
+
+[Nonsense. I won't shortchange my first and only apostle. I'm just a little… restrained at the moment, but I'm sure I'll think of something.]
+
+They continued to chat about it a bit more, but Arakil didn't really have any answers he could give her at the moment. Lily personally still insisted that he didn't need to do anything for her. Eventually, he moved past that subject, and they returned to the topic of ambient Mana.
+
+{I'm surprised they didn't release you. Or ask you to forfeit the role or something to give to someone else. Don't even the gods need Mana?}
+
+[I suspect they thought they could eventually replace me. But if one doesn't willingly hand over, or perish, then the usurpation is the only other possibility. However, to do that, one needs to accomplish more than the current holder of the role.]
+
+{So you're saying nobody, in all this time, managed to accomplish more in magic than you?}
+
+[Apparently so! I don't know whether they slacked off until they realized how the ambient Mana ratio was constantly declining, or if just nobody could live up to my pursuits of magic.]
+
+Lily felt like it might have been a bit of both. The way Arakil so passionately talked about magic, she struggled to envision anyone else who could even come close.
+
+[As for the gods needing Mana. That is correct, everyone and anything needs Mana, which is why they likely pivoted to this bloodline system as a placeholder. Then, when the situation continued to decline, they invested more into it and officially made it the replacement.]
+
+Arakil speculated that there was likely a god or goddess of heritage or bloodlines, which was why everyone's personal Mana became so inflated. He even mentioned that when he worked with the Saintess in the past, he had likely mistaken her for a peerless talent because of her Mana, when in fact she was the product of this new bloodline system.
+
+[I'm not joking when I say that even I didn't have so much Mana in the past. Of course, I used multiple techniques, such as Mana Cores to improve my aptitudes over time, but that was more for emergency situations where there was no ambient Mana to draw on.]
+
+{So when we free you. Will the Mana return to normal?}
+
+[Maybe, eventually, but it won't be like the flip of a switch. It took eons for it to degrade to this level, so I'm not sure how long it would take to recover.]
+
+{I see… Do you have any ideas on how we can free you?}
+
+[To be perfectly honest, I'm a little stumped right now. I've been piecing together a replica of the seal and contract placed upon me to see if there are any conditions or loopholes we can exploit. Hence, my current objective was to simply stockpile Mana for a hypothetical grand ritual to break the chains. Another possibility is to seek outside help, like from another god or goddess.]
+
+{What about Purity? Doesn't she owe you a favor?}
+
+[The thought definitely crossed my mind. Regrettably, I'm not sure how we can contact her. While she has left us access to her old key, it's still unconfirmed if it was an oversight or if this was her repaying the favor.]
+
+{Can the key not be used to communicate?}
+
+[If I were one of her apostles, maybe.]
+
+{Could we look for a priest and ask them to contact her?}
+
+[They'd need to be extremely high up to do so. I'm also unsure if they'd be willing, after all, would you believe a cute but random bunny carrying a book claiming to be a former god?]
+
+Lily frowned and shook her head. It was definitely a problem. Arakil even mentioned that if she drew the divine key for them, they might just think she was a devout follower of Purity. One idea Arakil did float was to perform a big enough ritual using her key, which might catch her attention. But that would need a lot of Mana, something they were both now sorely lacking.
+
+{Could you not have taken Mana from the dungeon?}
+
+[The thought crossed my mind, but even when refined, this tainted Mana would more than likely be incompatible with the divine key. Not to mention it would be an unacceptable burden on your body.]
+
+It really all seemed to boil down to time. They needed more time. Arakil was willing to wait, but Lily remained unsatisfied with the circumstances. She desperately wanted to help the one who significantly changed her life for the better.
+
+They continued talking into the night, when Arakil eventually told her to wake Thomas for his shift. Lily quickly realized she was awake on dregs, and if not for the constant chatter, she would have passed out on the spot.
+
+She nervously approached Thomas' tent, unsure how to proceed.
+
+[Just wake him up and tell him it's his turn. Don't bother explaining or elaborating; treat this like any normal evening. When he sees everything is the same, his mind will automatically try to fill in the blanks.]
+
+Arakil said that when experiencing severe cognitive dissonance, the person's mind would attempt to rationalize the situation. This was what he was betting on when he befuddled the situation, and why they put in the time and effort to repair the camp.
+
+[Unless they directly confront you about it, or your conscience can't take it anymore, I suggest not mentioning it for now. I understand you probably want to tell Lotte the truth at the very least, but perhaps save it until we are outside of the dungeon.]
+
+Lily nodded in agreement. While she wanted to tell some of the truth, she also didn't want to expose Arakil like that. Who could predict how her friends would react? If it were Rose, she'd tell her in a heartbeat, as she was there when Arakil gave her her Mana Core.
+
+But Lily only knew Lotte and especially Thomas for barely a fraction of her life. It hadn't even been a year yet! So while she hated to admit it, she wasn't sure she could trust either of them to that extent yet.
+
+So she erred on the side of caution and decided to follow through with Arakil's plan. She carefully woke Thomas up as per usual. It certainly helped that she was genuinely beat, so she wanted to head straight to bed rather than talk. Eventually, Thomas woke up. Lily couldn't help but feel envious of how well rested he appeared to be.
+
+I wonder if I can learn some dream glyphs to help me get to bed…
+
+"What…?" Thomas murmured, seeming a little confused about the current situation.
+
+"It's your turn for the night watch," Lily said, genuinely yawning.
+
+Thomas blinked rapidly, his mind seemingly processing. "Oh… Okay… Anything to report?"
+
+"It's dark, nothing approached the camp, and I'm super tired…" Lily replied.
+
+"That's…" Thomas seemed confused, and then touched his arm. He appeared to be looking for an issue, but unable to find it, he calmed down.
+
+Lily figured he might have had an injury there from the battle, but she'd healed and cleaned them both up with some magic. It was actually a rather terrifying thought, as the Wards and their presumably other safety nets were supposed to prevent any terrible outcomes. Yet, somehow, the dungeon had prevented all of that.
+
+Considering the two did have injuries, it meant their Wards had spent both charges, if not more. And yet, Alice hadn't come to their rescue. Arakil had predicted that the dungeon might be able to block such signals if it truly wished, which made their situation even more frightening.
+
+Whatever agreement the dungeon had with the headmaster, it had either violated it to try to deal with Arakil, or it had its own loopholes. It gave Lily a clear perspective on why there was so much focus on their safety and being prepared, even in a semi-controlled situation; anything seemed possible.
+
+"Goodnight…" Lily eventually mumbled through another yawn. She didn't even need to act; she was on the verge of passing out then and there.
+
+"Okay. Goodnight then…" Thomas said as she departed.
+
+As soon as Lily reached her tent, she crawled into her sleeping bag and, before she could even say goodnight to Arakil, passed out.

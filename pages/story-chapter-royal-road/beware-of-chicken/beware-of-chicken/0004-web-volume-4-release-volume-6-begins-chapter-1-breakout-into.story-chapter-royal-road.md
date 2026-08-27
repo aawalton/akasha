@@ -1,0 +1,239 @@
+---
+id: 9ab16153-5d6b-59c2-8c3c-22faf3fef998
+page-type-slug: story-chapter-royal-road
+title: "WEB Volume 4/Release Volume 6 Begins: Chapter 1: Breakout, into the World"
+slug: 0004-web-volume-4-release-volume-6-begins-chapter-1-breakout-into
+partOf: beware-of-chicken
+position: 4
+ownLength: 3155
+unit: words
+ownProgress: 3155
+publishedAt: 2023-04-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1183665/web-volume-4release-volume-6-begins-chapter-1"
+royalRoadId: "1183665"
+markedReadAt: "2026-06-29T18:51:26.455Z"
+---
+
+A rooster, a rat, and a man stood at the bottom of a pass. They were an odd sight together. Eye catching, and looking almost out of place.
+
+The reds of the rooster’s plumage were captured fire, his blue and green tail shone with a luster that put gemstones to shame. His unsheathed spurs glittered like steel, firm and unyielding. A magnificent fox-fur vest wrapped around his chest accentuating his beautiful plumage, the entire ensemble capped by the flash of a silver necklace, the base metal dull in comparison to the rooster’s glory.
+
+The beast’s eyes were fixed on the climb that sat before him, filled with determination for the journey to come.
+
+Upon his back sat a little black rat. Fur the colour of midnight, keen eyes sparked with intelligence. She was clad in a tunic of blue and white, with a pack nearly as big as she was on her back. Her nose twitched as she processed the smells of this new place, but she did not fidget; instead, her gaze was calm and measured. Unbothered by the world's tumult.
+
+Finally, there was the man whose shoulder the rooster had decided to use as a perch. The cast of his face was almost vulpine, with his narrow eyes and the slight smile on his face. His dark, silky hair was done up in a ponytail. He had a magnificent scarf of tribal make around his neck, and at his hip was a beautiful sword.
+
+They stood at the edge of the Azure Hills, where it bordered the Howling Fang Mountains and Yellow Rock Plateau.
+
+From the gentle, rolling green hills, the earth would suddenly rise up like the very world itself was building a wall to prevent people from leaving the province.
+
+On one side was the slate grey of towering mountains resembling the teeth of a giant wolf. They speared into the sky, brutal and stark, taking a bite out of the heavens. On the other, a massive slab of yellow-tinted stone rose half a Li before turning at a ninety degree angle, the edges of the plateau forming an unscalable barrier.
+
+Between those walls lay a pass. An enormous set of rapids dominated the pass, the churning river disgorging a thundering cascade that would flow down into the distant Pale Moon Lake. The ground started filled with the lush green grasses of the Azure Hills, before transitioning to a more desolate landscape of pines and craggy boulders bigger than the largest buildings squatting along the pass like silent guardians.
+
+It was called the Stone Gate. An impressive, foreboding sight, with the roaring crash of the thundering rapids occasionally defeated by the wind screaming through the Howling Fang Mountains, an interplay that produced a haunting melody.
+
+The man eventually let out a whistle as they stared at the Stone Gate. “You know, for a second there, I thought we’d never make it here.” The young man rubbed at his arm, grimacing.
+
+“Indeed. The training of our teachers was certainly… intense,” Fa Bi De replied, feeling his own body twinge in sympathy to Yun Ren’s shudders.
+
+Hong Ri Zu’s eyes simply glazed over, the little rat looking halfway between terror and wanting to murder something.
+
+They had been gone from their home, Fa Ram, for a month already. First, they had traveled north to let Su Nezan’s main body know of the developments with the Shrouded Mountain, and receive the fox’s knowledge. As a native of the Howling Fang Mountains, he had maps and hideouts that they could use.
+
+While there, the old Monster that was Shen Yu had decided that the fox’s lair was the perfect place to train Bi De for the journey ahead… and Nezan had taken it upon himself to aid Yun Ren and Ri Zu.
+
+Thus, they had climbed the side of the mountains, been hounded ferociously by corporeal illusions, and Bi De was pushed to the limit by an Old Monster.
+
+He had certainly grown… and Shen Yu found it endlessly amusing, his Great Master’s grandfather chuckling about “the might of his cock.”
+
+Bi De felt Ri Zu shake her head, dispelling whatever she had been thinking of. “Well, we’re here now,” Ri Zu said, in a rather high pitched voice—actual speech, rather than Qi Speech. “Just beyond that rise… and we’ll be out of the Azure Hills for the first time. I wonder what kind of medical herbs they have up there?”
+
+“I just hope this whole demon thing isn’t actually a big problem,” Yun Ren replied. “Wouldn’t it be nice if we get up there, and everything is just under control? We take a few recordings, we wander around… like one of those vacation things Jin was talkin’ about.”
+
+Ri Zu snorted, and Yun Ren let out a bark of his own laughter at the statement.
+
+“There shall be challenges, of that I have no doubt—but I believe we shall each prove the equal to whatever task may await us,” Bi De replied confidently to his companions. “Just beyond that rise… a whole new world awaits us.”
+
+Ri Zu nodded, smiling at Bi De, while Yun Ren stood up just a bit straighter, examining the pass like a seasoned warrior.
+
+A sudden chiming sound interrupted their conversation.
+
+All three of them startled slightly, before turning to their two other companions. One was an old man holding up a small slate of recording crystal. He looked incredibly rough, his beard wild and bushy, and his clothes worn. Beside him was a woman. Her features were sharp and vulpine, a near perfect match for Yun Ren’s. She too wore traveling clothes, and had a wide-brimmed hat that was currently resting on her back.
+
+“Ah, younglings taking their first step out of their home province,” the old man declared. “I remember the first time I stepped foot outside Raging Waterfall Gorge with Ge. We must have spent an hour simply gazing at the sights!”
+
+“Ah, that picture will be a good one! So cute and determined!” The woman smiled fondly, looking over Shen Yu’s shoulder to get a better view of the recording he’d taken.
+
+Yun Ren sighed as his Uncle Nezan acted like a doting grandmother. Though the powerful Spirit Beast had elected to remain in his home, he had bolstered the fragment of himself to contain over half of his Qi, effectively splitting himself fully in two. Where before he was limited to the form of a tiny fox, now he could create a fully corporeal body.
+
+What compounded his annoyance was Shen Yu’s new hobby—recording crystals.The old man had overheard Jin talking to Yun Ren about recording their journey for them… and promptly decided to clear Mengde’s Crystal Emporium out of every remaining Recording Pane.
+
+And then he had recorded every embarrassing moment from their training with a bright smile on his face. At least this recording wasn’t of Bi De trussed up like a roast after he had failed to notice Nezan slipping alcohol into his food.
+
+Or Yun Ren naked and hanging upside down from his leg on a tree.
+
+To combat this, the fox-faced man had started critiquing Shen Yu’s recordings. And the implication that Shen Yu wasn’t as good as a boy at recording images had sparked Shen Yu’s spirit.
+
+“Did you capture a good image for everybody back home, Master?” Bi De inquired.
+
+“Indeed I have! Even you won’t be able to find flaw with this, fox boy!” The old man paused dramatically, then projected the image for all of them to see.
+
+Yun Ren squinted at the picture. “It's not bad.”
+
+“Not bad?” Shen Yu demanded.
+
+“Yeah, look at the lighting.” Yun Ren walked over, taking out his own crystal. He looked up at the sky for a second, then walked three paces to the left. “You need like… right here. See, then it will catch the water and the mist, giving it a good backlight.”
+
+The crystal chimed and Yun Ren projected his own image.
+
+The old man stared at it for a long moment, then sighed. “Go stand back over there and look determined up at the hill,” Shen Yu commanded them.
+
+Bi De stifled a laugh as they all trudged back to the spot that they had been standing at. A traveler who was ascending the hill looked at them strangely, before shaking his head and keeping his course.
+
+It had been a curious month.
+
+The crystal chimed.
+
+“Ri Zu! You blinked!” the old man scolded. Ri Zu grumbled, but the image was recorded without issue, and then they began their climb up from the bottom of the hill.
+
+A curious month indeed.
+
+The wind howled again, dragging down currents of air… and cold Qi, as thick and dense as the Qi around their home. The air quickly wicked the energy away, like water poured into dry soil, but it was enough to make all of them shiver slightly.
+
+Bi De looked up at the sky, his eyes focused on the top of the hill.
+
+They would explore the Howling Fangs Mountains. Find out the truth of these demons… and then they would return home, their task complete.
+
+Because while an adventure was all well and good, it was sharing that adventure with one’s family that truly made the difference.
+
+And he was very much looking forward to seeing the Works of His Great Master and Disciple Xiulan.
+
+================
+
+The Way begins when one finally leaves the nest which nurtured them.
+
+For it is only in travel that one can properly harvest resources, battle new enemies, and encounter new techniques. To strive, ever onwards, and ever upwards. To drink deep of rich Qi and ever more powerful reagents.
+
+In this, they leave the place of their birth behind. Never to return, for there is nothing to offer from them.
+
+Weakness is something to be shed. And a lower realm will never have something to offer a higher one.
+
+This is the truth of cultivation.
+
+…Or at least that was what the cultivation manuals I remember said. Honestly, if the language wasn’t so blatantly power hungry, I would have agreed with them. A bit of travel did people good. New sights and new experiences were something to be treasured.
+
+But to never return home? That… just sounded kind of sad.
+
+I dunno. I got philosophical sometimes while I worked—which I happened to be doing by cutting and sawing planks of wood to be perfectly level.
+
+Travel had been on my mind quite a bit recently, ever since Big D, Rizzo, Tigu, Yin, Xiulan, Yun Ren, and Xianghua had gone on their journeys—but now, it was less worry and more… well, I guess pride in what they wanted to do? It was a strange feeling to be sure, but it wasn’t a bad one.
+
+I took a breath and refocused on my task. Qi poured out of my body as I worked, as it always did. It saturated the wood, and the saw, and the earth, and it made me feel like I was connected to everything at once.
+
+It was kind of true, in a sense.
+
+Qi swirled around me. Quite a lot as I had come to learn, but that wasn’t the point of it. Every ounce of Qi was dedicated to my current action as I put my whole being into the simple action of chopping wood.
+
+And when I was done… well, they were damn fine planks of wood, if I do say so myself.
+
+The sound of construction came to me as I started paying attention again, our house denuded of its exterior.
+
+I had future proofed my house when I had built it, or so I thought. It had five bedrooms. It was nice and big.
+
+I had never been expecting to have nearly twenty people living on my farm when I had built it. Between guests and my family? My big house had proved woefully inadequate. So we were doing some renovations. Things needed to be expanded, the stairs changed to better accommodate an ox and a dragon, hells, even the library we had needed to be bigger.
+
+That, and we started finding my kludge solutions, as we started pulling off siding. I had just kind of… trusted in Qi keeping probably a bit too many things together. They would have held with constant maintenance!
+
+…Probably? But it was an excuse to iron out all those little details, and make it better than it was. And more in tune with feng shui, which was a real thing here.
+
+Meimei, at least, had been happy about that. I glanced up from my sawing to look at my wife, who was standing in front of the house at the ready, her arms raised. She had a big grin on her face, her purple eyes flashing as she prepared herself.
+
+“Incoming!” a male voice called, and a stack of wood bigger than she was sailed out from an open top floor window.
+
+My wife caught the burden with ease.
+
+“Where do these ones go?” She asked, and a man who looked just a bit like a monkey poked his head out from the window.
+
+“Those ones can go to the dock!” Gou Ren shouted back down, and Meimei nodded as she started carting the wood away. Of course, we weren't going to just throw away the wood or the stone. All of it would be reused. The current project was a dock that would jut out into the pond downstream, along with a gazebo on top of one of our back hills.
+
+Things were definitely changing.
+
+A giggle broke me out of my examination of my work and I turned to regard the little man who was sitting beside a boar, the creature’s massive bulk shielding him from the sun.
+
+My son was giggling as he looked at a songbird who had hopped down to examine this small creature pressed against its favourite perch, the boar’s tusks. Chunky’s kind eyes followed the bird as it chirped inquisitively, cocking its head to and fro, while chubby hands reached out to try and touch its feathers.
+
+Chunky was a regular storybook princess. Birds wove nests from his black mane, fish swam in the shadow of his belly, and the bees followed him around like some kind of royal guard in the mornings as he strode through the far, a content smile on his face..
+
+I smiled at the babysitter and watched for a moment, the sounds of further construction echoing in the background.
+
+The bird flew away, and my little one’s eyes drooped.
+
+I turned back to my work. We continued until the sun was high in the sky, and then we stopped for a picnic lunch of duck soup.
+
+Hopefully everybody on the road was eating alright—ah, man. I’ve been a dad for only a few months, damn it! I should be encouraging them to eat junk food or something!
+
+==========================================
+
+“We’ll stop in the next town for food.” Cai Xiulan called back to her fellows as they moved down the road faster than any mortal.
+
+There was a chorus of assent behind her, voices full of good humour.
+
+“I can't wait!” A young man declared, his voice booming. “What's everybody having?”
+
+“Meat!” came the immediate shout from beside him, a beautiful woman with silver hair speaking up instantly.
+
+“Meat again? I thought you were a rabbit?” Tie Delun asked, the large freckled man staring curiously at the silver-haired Yin.
+
+“Hell yeah! Do you know how great it is to be able to eat meat and not get the shits?” She demanded.
+
+Xiulan nearly burst out laughing at the crude answer. Nearly. Tigu, who was beside her, had no such complications. The tanned girl nearly doubled over, her voice adding to Loud Boy, Rags, and Xianghua’s own laughter. The Young Mistress of the Misty Lake Sect had a bright nonstop grin on her face as they traveled.
+
+Their pace had been slow at first, as they had needed to escort Biyu, the Crystal carver, back to her home, and help the Torrent Rider in his training. He was exemplary for being self-taught—his cultivation manual had been interesting as well.
+
+Xiulan had always known the rooster to be contemplative, but she never imagined that he would have written an entire and quite easy to understand method for cultivating as an Initiate.
+
+She was almost upset he hadn’t shared the treatise with her.
+
+But all in all the slow pace had proved fruitful. Their travels and time together had strengthened the bonds in their nascent fellowship. Working tougher, cooking, and swapping stories around their campfire had fast become one of the most anticipated parts of the day.
+
+But now, their timetable would accelerate. They had brought Biyu back home… and now was the time for their plan to go into effect.
+
+To once more unite the movers and shakers of the Azure Hills. To create a force that would suffer none of the horrors that currently existed.
+
+That was Xiulan’s dream. That was their dream.
+
+And Xiulan was optimistic for the future, she really was. It would be hard, but she believed that they could overcome any obstacle. They reached the town at noon exactly, the sun directly overhead. They were into the Grass Sea now, where most of the sects of the Azure Hills operated.
+
+“Oh! That place smells good.” The Torrent Rider said and pointed to a noodle shop. The boy had pulled up his chicken mask and was sniffing excitedly.
+
+“Noodles? Noodles do sound good.” Tigu said, nodding.
+
+Their destination set, they started to walk towards the building.
+
+Only for a man wearing what looked like a serving uniform to suddenly throw open the window shutter, looking panicked. Then the man then immediately ducked and a body came sailing out the now open window.
+
+Everybody froze as the cultivator hit the ground, and then he quickly sprang to his feet.
+
+“You’re courting death, you bastard!” The man who had been launched out the window roared.
+
+“Ah, you dare?! Kowtow a hundred times and piss on your father’s grave! Maybe then I’ll forgive you!” Another voice growled from inside the shop.
+
+Xiulan’s hand met her face.
+
+“Oh, Master was right about that.” Tigu mused.
+
+“Right about what?” The Torrent Rider asked, frowning at the fight about to happen.
+
+“When cultivators gather at a noodle shop, a fight is guaranteed to happen.” Tigu replied.
+
+Tie Delun looked bemused by the observation for a moment, and then, as he really thought about it, he started looking increasingly concerned.
+
+Xianghua’s face went blank as she contemplated the words. “I think noodle shops are cursed.” She said after a moment of more consideration.
+
+A plan to unite the hills.
+
+Xiulan watched as the two cultivators moved to the town square to get more room for their fight.
+
+Their group had a lot of work ahead of them, didn’t they?

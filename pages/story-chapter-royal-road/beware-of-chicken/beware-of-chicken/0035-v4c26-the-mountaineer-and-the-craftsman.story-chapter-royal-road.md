@@ -1,0 +1,225 @@
+---
+id: b90fa88b-6c18-58fc-b7bc-f72500791085
+page-type-slug: story-chapter-royal-road
+title: "v4c26: The Mountaineer and the Craftsman"
+slug: 0035-v4c26-the-mountaineer-and-the-craftsman
+partOf: beware-of-chicken
+position: 35
+ownLength: 2850
+unit: words
+ownProgress: 2850
+publishedAt: 2023-07-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1287232/v4c26-the-mountaineer-and-the-craftsman"
+royalRoadId: "1287232"
+markedReadAt: "2026-06-29T18:52:32.777Z"
+---
+
+For the first time in a very long time, Liao Yushang could honestly say she was happy.
+
+The clash of metal on metal rang out in the training ground. Her sword, Ascending Mountaineer, clashed with Biren’s simple-looking blade, which was obviously some kind of treasure. Yushang had to buff the little nicks out of her own sword whenever their blades clashed.
+
+Yushang stepped forward, using her own blade’s superior weight and reach to bully him backwards. He knew better than to try and block the overhead strikes, at least. Yushang had a smile on her face, while Biren was grimacing slightly.
+
+“You swing that thing around way too easily,” Biren grunted as he backpedaled. He watched her blade warily. Ascending Mountaineer was, after all, made of Lode Iron, and with a bit of Qi it could increase its mass a hundredfold. Even without her Qi, it weighed nearly as much as she did!
+
+That had been a pretty funny conversation. Both Ri Zu and Biren had looked absolutely baffled by her sword. Say what you would about the Howling Sword Arts Academy, they hadn’t entirely skipped out on the peasant who had ended up graduating from their halls.
+
+The Heavy Swords of the Howling Sword Arts Academy were for cultivators only! Most mortals could barely lift them, let alone swing them around. But she wasn’t perfect with it yet. She was a little bit slower than she should be, and that really sucked when she had to fight multiple people at once. One on one, her strikes applied too much pressure to be properly exploited.
+
+Something that Shit-Peng guy had screwed up with. One on one was where Yushang shined! Having people watching her back and helping her? She had ripped his goons to pieces.
+
+She had hugged all of them for it! It was absolutely great! Hells, she had half a mind to ask them if they wanted to blow this Sect and set off together, just like the stories!
+
+But she couldn’t.
+
+Ri Zu had her medical stuff, Fat Han had his family legacy thing, and Bi De was in the Inner Sect. They wouldn’t leave for Yushang… so she just had to stick around!
+
+“Oho? You think my sword handling skills are good?” Yushang replied cheerfully. “You’re not bad yourself, Brother! How often do you handle blades?” She waggled her eyebrows, and Biren snorted. He tried to take the initiative but Yushang easily parried, nearly batting his sword out of his hand. The man grimaced. He had wanted just swordplay today, no tricks, and who was Yushang to deny him? Especially after he had gotten his new job posting. He always seemed so stressed, lately. He was one of those tricky fighter types… and it kinda showed, if she was honest. Biren was pretty good—sometimes he’d act like an ancient master with his spectacular parries, and other times Yushang felt like he had just started learning how to fight like a cultivator instead of a mortal. But at his level? Eh, he was probably focusing more on his Light Qi arts.
+
+And besides, he had Pretty Sister Yushang to cover for him! He could sit back and be tricky all he liked!
+
+Truly, Yushang had finally gotten lucky.
+
+“Don’t lose so badly this time, Biren. Ri Zu believes in you!” Ri Zu heckled from the sidelines where she was reading.
+
+“You don’t do any better when you don’t poison your needles!” Biren barked back. “Help me out here, Fat Han!”
+
+The larger man startled from where he was sitting. He had grown a bit quieter the past couple of days, just like Biren, but unlike Biren he was a lot more… morose. He was obsessing over his formation, the one that had exploded in his exam, and each time he looked at it he seemed to get more and more frustrated.
+
+Yushang put the man out of her mind for the moment and turned back to her battle. She took the initiative again, bearing down on Biren. He tried to dodge and twist and weave… but Yushang was having none of it. She made an opening and struck.
+
+[The Fangs Pierce the Sky!] Yushang roared. Her sword stuck upwards, rising to the Heavens like the mountains of the province. Biren tried to block… which turned out to be a mistake. His arms locked in, his body tensed… and then he went flying.
+
+Flying out of the pavilion, over a tree, and… that was a rather loud crash.
+
+Ah, nuts.
+
+=============================
+
+“I’m fine, Yushang,” Biren said to her kowtowing form after they managed to dislodge the disoriented man from a tree. Ri Zu had worriedly checked him over, but he was fine, as he said, if a little bruised up.
+
+“...you’re not mad?” Yushang asked.
+
+“It's all good. Nice move by the way. Ya got me.”
+
+Yushang grinned as he helped her up and ruffled her hair like the older boys in the village used to. Then he pulled her into a headlock and started poking her cheek. “Sending me flying like that—look at this ogre girl!”
+
+“Hey!” Yushang whined. “This Sister here is pretty and dainty!”
+
+“Very strong. Indeed, like an ogre,” Ri Zu agreed and turned slightly to Fat Han.
+
+He tried to smile. “Indeed, it was a fantastic blow, Yushang. Truly, you are a monstrous brute, to fling our friend so far.” His voice was halting… but at least he had made the attempt.
+
+Biren started dragging Yushang back to their little spot. She made motions to escape but didn’t really try, her smile bright as they walked back for lunch. This time Biren had set up a grill, and they were having some kind of spiced goat. Whatever it was, it was delicious… but the person who should be enjoying himself the most was just staring at his formation again.
+
+He looked… defeated. Like he had for days now after he completed his fourth review of his formation.
+
+Ri Zu stared at him for a moment before she approached him.
+
+======================
+
+“Han.”
+
+Ri Zu’s voice cut through his melancholy.
+
+He glanced up and met her kind, dark eyes. All of his friends were looking at him. He grimaced internally. He hadn’t exactly been subtle about his growing discontent.
+
+Four times. Four times he had looked over his formation, and four times he had found absolutely nothing that would have made it explode. There were no teachers he could ask, only reference books, but everything he had read said there was nothing in his construction of the formation that could have exploded.
+
+But it had exploded. Was he simply lacking? Had he missed something glaring? He couldn’t figure it out.
+
+It made him doubt himself. Second guess himself. The things he needed were expensive, and he hadn’t even the heart to try again.
+
+It had gotten worse when he met up with some of the people who had passed. Their laughs about his exploding formation had been… unpleasant.
+
+He was very, very close to just giving up. Washing his hands of everything and doing what his family was apparently meant to do: serve in the Outer Sect.
+
+“Ah, yes, Ri Zu?” he asked, quickly putting on a mask that fooled nobody.
+
+“Maybe you can trade pointers with Ri Zu? Ri Zu has a formation she has been studying, and would like to know Han’s methods,” she said as she sat down beside him while pulling out a scroll. “Ri Zu doesn’t have much training with this… so could she have your help?
+
+She unfurled the scroll, and upon it was a medical formation. A medical formation that Fat han hadn’t seen before.
+
+But Han had frozen at her words. He had been expecting her to spout pity. To ask him what was wrong, and how the actually skilled amongst their number could help.
+
+But it wasn’t even pity in her eyes. He looked around at the others. There was no condescension in any of their eyes. Just honest concern about his well being and his cultivation.
+
+A formation master’s formulas were their lives and their secrets. They couldn’t just give them away. That was one thing Han refused to do. He may have been fourth rate, but even he had some pride.
+
+Yet the way Ri Zu had asked… it was like he was doing her a favour. Without hesitation she had revealed one of her secrets first… just to help him.
+
+…what the hells had he done to make these people his friends? What kind of karma had his past lives accumulated to give him such blessings? These fellow cultivators who shared so freely? He’d had to work for his uncle for three years to get a few second-rate family secrets. This was her own work, and she had just… shown it to him.
+
+“I was looking to ask for some pointers too, yanno?” Biren seconded. “I was wondering if you could teach me the basics.”
+
+Yushang just smiled brilliantly. “Please, Brother! Aid this poor Yushang!”
+
+Fat Han swallowed thickly. “Uh… Yes, of course I can help,” he said after a moment, composing himself.
+
+They went over Ri Zu’s formation together. It was… weird, if he was honest. He understood the concept, but the way it was constructed was elegant in its simplicity.
+
+Three other cultivators listened to Han as he deconstructed it, explaining their functions the best he could.
+
+“It's very strange. This part is orthodox, from the Silver Strand, while this part I have no idea who came up with it. It seems to work though, in channeling Qi from a high concentration to a low concentration, but it's going to be very finicky to get the ratios right…”
+
+… it was rather gratifying that they held onto his every word and appeared genuinely interested. Soon enough he had his own formation out, explaining the differences between his formation and the medical formation.
+
+“Medical formations normally have less energy running through them, and use this trigram seal here—but inanimate objects require a different set of functions. In the case of the Spirit Sword Formation… Hmmm. I suppose the easiest explanation is that it creates artificial meridians in an object—enabling it to better withstand Qi reinforcement. In time I believe whatever used would eventually form a spirit itself, like the Spirit Blades of true Masters. But for now, it’s a modest increase. It’s mostly for those without resources, really. Like our fellow Outer Sect Members. Somebody with more resources would simply get a new blade, one that's superior, rather than waste their time building something up that may just break anyway.”
+
+“Anything?” Ri Zu asked. “Could it be used on medical needles?”
+
+“I… I don’t see why not, the first thing I used it on was a spoon.”
+
+Ri Zu looked incredibly interested in that, turning again to look at the formation. She paused for a moment. “Ri Zu is still a novice but… she sees no way for this to have exploded.” She had stared at his paper in confusion.
+
+Han slumped slightly. She was just as baffled as he was.
+
+It was then when Biren spoke up. “What's this part do, anyway? You just kind of glossed over it.” He was pointing to one of the least important parts, the emergency energy shunt.
+
+“It's an energy vent. They’re for Qi surges, in case reagents are more powerful than one was expecting. They dump energy if it threatens to overload the formation. See, Ri Zu’s is right here. It's a little strange to be configured that way, most formations go into the air rather than water.”
+
+Biren studied it more. “Why's it got all this stuff around the end of it?”
+
+“They’re protections. It's an opening in the formation and sometimes, if there is too much ambient Qi, it can mess with things, so it's mostly closed off until it's absolutely needed. The one I used is one of the safest, a standard design, and perfect for the controlled conditions of The Shrouded Mountain.”
+
+“So what happens if the protections fail, could that cause an explosion?”
+
+“No. One would need to circumvent the protections and then launch a targeted attack through the formation. It's why combat formations sometimes don’t have them. Something like the Masters of the Cloudy Sword Sect’s Raging Cloudy Sword Formation—but that requires precise control and expert abilities to function properly. But yes, in combat, a Master could disrupt a formation like this and cause it to… explode…”
+
+Han paused. He stared at his formation. He remembered an examiner’s smirk as Han received his failing grade.
+
+He had been so hung up on it being something he had done… he hadn’t even considered the possibility that… Why would an examiner sabotage his formation? He hadn’t even done anything. He was a loyal member of the Shrouded Mountain Sect!
+
+Han was staring blankly at his formation, when Biren’s hand clapped him on the shoulder.
+
+He startled.
+
+“Well, something went wrong, and I don’t know what. How about you do your formation again and see what happens? I’ll poke around a bit, yeah?” Biren said.
+
+Han nodded dumbly and did as he was told, his mind still whirling.
+
+=================================================
+
+Yun Ren sighed as he put on his dark clothes and veil and stepped into one of the Inquisitor’s warehouses.
+
+He had been expecting lessons on torture or something, but there hadn’t been any of that. Mostly he’d been taught about protocol, so far. Their mission (hunting foxes), their remit (whatever we want to do provided we have a good reason and that reason will be determined by us), and where their jurisdiction was (the Howling Fang Mountains, and anybody too weak to stop us). After that, they had him use his Qi on a bunch of things and seemed immensely happy with the results. There were also a few physical exercises—restraining formations that a novice could take part in and help support their superiors.
+
+They hadn’t thrown him in a cell yet and seemed to be honestly trying to teach him their ways, which Yun Ren still thought was weird—especially since they had just given him a jar of pills that Yun Ren knew were pretty valuable to ‘aid their newest member’.
+
+His teacher was a lady called Miss Mist, and she was surprisingly kind, polite, and patient. A good teacher too. She had immediately noticed that Yun Ren had problems following along with just explanations so she took it on herself to guide him through the moves.
+
+“There, like this, Disciple. Slightly higher. Feel the difference?” she asked.
+
+“Yeah. It's better like this,” he replied.
+
+It was a little distracting, though, as she often had to lean against him. She was certainly a woman, and she smelled rather nice—
+
+Yun Ren paused when he thought that. Why would a hunter wear an identifiable scent?
+
+And her touch, while pleasant, lingered slightly too long.
+
+Yun Ren was thankful for the veil, because he frowned.
+
+He was tense for the rest of the lesson, until the woman bid him stop, and sat down beside him like she was his friend.
+
+Yun Ren was starting to feel a bit more suspicious…
+
+“This will be all for today, disciple. You’re making quite good progress. Tomorrow, we will be going over proper reporting procedures on how to document suspicious activity.”
+
+Yun Ren paused at that.
+
+“Uh… could we actually do that now?” he asked.
+
+The woman froze. “You’ve seen something suspicious?”
+
+“Sabotage of a disciple’s formation by an examiner,” Yun Ren said.
+
+His teacher looked at him for a moment.
+
+“… I see. I shall look into it, Disciple—in fact, we can make this a small test of your abilities. We’ll look into things together.”
+
+Yun Ren swallowed. Something was definitely up… and he didn’t really like it.
+
+At least it was a bit better than having to do all that work at the hospital like Ri Zu.
+
+===================================
+
+Ri Zu sighed as she rested in the breakroom for the rest of the menials. It must have been rather a shock for Fat Han to learn that one of his instructors had purposely sabotaged him. Ri Zu couldn’t imagine why such a thing had been done. The idea was good. Better than good, it would be quite useful… at least in her own opinion. Who knew with cultivators?
+
+She could only pray that he wasn’t broken by the revelation.
+
+She sipped her tea again.
+
+Today was actually rather slow. They had received one patient for surgery, but for some reason Master Lishu had denied Yuanzi’s request for her to serve as an assistant, and told her instead to rest for a while.
+
+It was a rather strange demand, because the man was quite badly injured, but Master Lishu had been adamant.
+
+Ri Zu looked around the waiting room, and sipped her tea. It was one of Master Lishu’s personal blends, and it was quite good.She idly wondered who had beaten up this ‘Luo Fa’ and if it was justified or not.
+
+===============================
+
+Edited by: Aaron “Pastafarian” Sofaer, Oshi, Brandon “Philosophysics” Zhang-Leong, Ayje, Massgamer
+
+=======================
+
+====================

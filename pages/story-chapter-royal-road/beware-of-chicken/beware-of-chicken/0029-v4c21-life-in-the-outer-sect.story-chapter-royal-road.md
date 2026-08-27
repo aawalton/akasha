@@ -1,0 +1,219 @@
+---
+id: 7dd07f84-e7fa-5ab2-a0ab-a335c9d697a2
+page-type-slug: story-chapter-royal-road
+title: "v4c21: Life in the Outer Sect"
+slug: 0029-v4c21-life-in-the-outer-sect
+partOf: beware-of-chicken
+position: 29
+ownLength: 2955
+unit: words
+ownProgress: 2955
+publishedAt: 2023-07-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1264311/v4c21-life-in-the-outer-sect"
+royalRoadId: "1264311"
+markedReadAt: "2026-06-29T18:52:19.996Z"
+---
+
+Lishu of the Medical Pavilion strolled through his domain at a leisurely pace. His back was straight, and his hands were hidden within his robes. His disciples, standing beside their assigned rooms, bowing swiftly and properly, did not waste their words. Lishu had no time for over the top displays of servility and wasteful pomp.
+
+Forty years ago, a disciple had lost three of his patients through negligence. He had grown lax, fat on his position within the Sect. Lishu shattered the fool’s cultivation and had him thrown from the mountain after breaking every bone in his body.He would suffer none who brought disorder into his domain.
+
+The other pavilions normally had rowdy meatheads, vying for power ‘like the Founders intended’. Here, each and every Spiritual Doctor worked towards a common goal.
+
+Saving their sectmate’s lives. Nothing else mattered.
+
+He chose one of the rooms at random and turned to the disciple standing outside of it, Yuanzi. The man stiffened as he was chosen, but he did not waste Lishu’s time.
+
+“Master, the patient has damaged meridians from an… altercation. He would not say who the culprit was. We managed to prevent the destruction of his spiritual roots, but he has been reduced to the Second Stage of the Initiate’s Realm. With time he will return to his former cultivation, but the growth will be slightly stunted.” Yuanzi reported.
+
+Lishu’s eyes narrowed. An unfortunate number of the patients were harmed by fellow members of their pavilion. It wasn’t uncommon to have to reattach a severed limb or repair shattered ribs, but most of them knew better than to target a man’s cultivation directly. It wasn’t banned, but it was heavily frowned upon. Not that anyone really stepped in unless the damage was egregious.
+
+Strength above all… Lishu thought to himself before suppressing a snort of disdain. Cultivators could shrug off most injuries. It motivated and drove them into greater heights, as “steel sharpens steel.”
+
+But there were ways of doing that without driving disciples to death’s door and then dumping them in his lap. But such was the will of the Shrouded Mountain Sect’s Founders.
+
+Lishu examined the patient while quizzing Yuanzi on proper procedures and found everything in order.
+
+He selected his next room.
+
+“Male, seventy six. Body-age, twenty-two. Fifth Stage of the Profound Realm, beginning of body refinement. Poisoned by Icemaw Thresher Worms. Severe frostbite to extremities, left arm frozen completely solid. Acid damage to lungs, minor damage to the meridians. We administered treatment of Refined Inferno Petal secretions in a slow drip  so as not to damage the flesh and repaired the meridians,” Kuang Dan reported. “This one determines all procedures were followed, and full recovery is expected.”
+
+Yet for each one damaged by their fellows, a large majority came back sporting wounds that were not. The hunts of the Shrouded Mountain ranged far and wide, and while they rarely found the Foxes these days, the Disciples of the Shrouded Mountain Sect would fall upon anything posing a threat to the mortals with a vengeance. Bandits were exterminated so swiftly they might as well not exist in their lands. Spirit Beasts were hounded relentlessly. Long-ranging patrols diverted avalanches before they could fall on villages.
+
+The Shrouded Mountain Sect were bolts of avenging lightning.
+
+It was why they were so beloved amongst the mortals; all of them sang songs and praised the Shrouded Mountain Sect.
+
+For this reason Lishu tolerated it.
+
+Despite the brutality, the Shrouded Mountain Sect saved more than it harmed. It provided an objectively superior standard of living and enabled more cultivators to grow and continue the cycle. They beat back the savage world and all its horrors.
+
+There was a time when he thought he could make things better… but this was the path that worked best.
+
+He continued his rounds when one of the menial labourers caught his eye. Hong Ri Zu.
+
+She was studying well, but she was simply following the directives of the one assigned to teach her at the moment. She wasn’t showing the initiative he had expected. She was merely following along.
+
+He confessed that it was disappointing. Where was the fire to prove herself he had sensed?
+
+He shook his head and returned to his rounds.
+
+===========================
+
+Ri Zu had pondered long and hard about how she wanted to do things when she was assigned to be a maid for the Medical Pavilion.
+
+Ri Zu would prove herself worthy. No one had to die. She would show Lishu her Master’s way of thinking wasn’t wrong, in addition to her mission by Shen Yu of finding out if there was anything demonic in the Sect.
+
+But Ri Zu wasn’t going to just start shoving her way into operations and try to prove herself that way. No, that would upend the entire process and invite retaliation from the Spiritual Doctors already there.
+
+Ri Zu wanted a low profile. She wanted those doctors to like her… and perhaps, since she was taking care of so many things, they would allow her into some of the more restricted sections. So she settled on a path that would certainly have her Sister squealing for joy.
+
+Pi Pa had always said that service was an art.
+
+One had to insert themselves into a household seamlessly. A good servant was invisible and omnipresent. On a day well-done? They wouldn’t even notice your presence… but they would notice that their lives were far, far easier.
+
+The first step was observation; to know how to enter a household without upending it completely.
+
+So Hong Ri Zu observed. She observed the main places of traffic. How the herbs were organized. How each of the Spiritual Doctors operated. How they liked to stand, where they liked to stand, how quickly they moved, where they put their hand to receive tools, which formations they enjoyed using, and more.
+
+She watched Master Lishu, and how different his medical pavilion was to the rest of the Sect. The man was a stern taskmaster and supremely skilled. He barely needed a glance to diagnose something.
+
+Everything was cataloged and recorded, and every night on the way back to her dormitory she recorded and studied what she had learned. Until she finally had a good baseline, she was prepared.
+
+She was just going over the last of her plans as she walked home when she was interrupted.
+
+“Hong Ri Zu, you little bitch. You dared to humiliate me during the initiation, but now you’ll pay the price—” Jipeng the Examiner snarled as he cornered her in an alleyway.
+
+Ri Zu stuck her brush in her mouth, raised two fingers and kept walking, her eyes glued on her notebook. [Internal Impurity Tremor]
+
+The man fell over.
+
+It had been one full week of observations. Now, it was time to begin her operation.
+
+=======================================
+
+Lishu immediately noticed the changes. It was small, tiny things in the beginning. First came the request to rearrange the basic medicines. Curious, he allowed it.
+
+At first there was a one second time difference in the distribution of medicine, barely perceptible except in an emergency. As the day progressed and people got used to the new layout, the efficiency grew to two seconds. Then four, then nearly a half a minute. Enough that it was the difference between life and death for some.
+
+The next were the additional bandages in key locations. Then the carts, of all things, with prepared selections of tools that were stored in sterilizing liquid and instantly ready to be used. They were just… in better places. Slightly better places, true, but each moment of time saved added up. Each moment saved stole another life from death’s grip.
+
+He eyed all of the changes as he marched through his domain. He was intrigued.
+
+When he chose Hutao for the random inspection and pushed open the door, he was surprised by the smell.
+
+The woman was competent, but he often overheard muttered complaints. The disciple was a firm proponent of more refined medicines, and while the results spoke for themselves they tended to not smell the best, and were sometimes… too potent. Her patients' rooms usually had a distinctive odor.
+
+This room, however, smelled sweet and pleasant, and the disciple who had been injured was sleeping peacefully. Lishu’s eyes noted the fresh water, the pristine clothes, and with his own medical intent noted that some bacteria still remained in the air and on the linens. A less experienced healer would’ve killed the rest, but Lishu had observed that these bacteria were benign, beneficial to the act of healing. Moreover, the pleasant space seemed to be better for healing patients. It helped calm them which aided in the healing process.  Specifically prepared herbal teas, that had no healing properties at all, were available to the patients. They all seemed in marginally better moods, and according to his disciples… actually slightly more receptive to orders instead of trying to leave as soon as possible.
+
+Every room he visited was the same as the first.
+
+Not just the patients received tea. His disciples were similarly praising the brews they had found on their desks. Tired disciples would find themselves greeted by a neat workspace, a snack, and their tea.
+
+They held no Qi. They advanced no cultivation. They were simply…. well-made tea and snacks.
+
+It was unorthodox, and yet she was putting all her effort into it. This was more the fire he had been looking for, so he decided to see how Ri Zu conducted herself when not in the medical pavilion.
+
+Lishu followed Ri Zu that night to one of the lesser used gardens, to see what she was doing.
+
+Normally, such work and planning would cut into one’s studying time, but there she was, blindfolded, and having several of her fellow disciples from the Mountain Pavilion take turns putting poisons and remedies under her nose so that she could identify them by smell alone. She had seemingly made a game of it. He watched as she got one wrong, and smelling salts were shoved under her nose in punishment. The small woman recoiled, falling backwards and kicking her legs as the rest of them laughed at her.
+
+She was working hard… and still determined to prove him wrong.
+
+The healer felt the corner of his mouth twitch. The fire of youth was indeed amusing.
+
+Their amusement was broken when they noticed the approach of several other disciples as they swaggered towards the secluded area. He frowned heavily as he noticed Examiner Jipeng. For what purpose was he marching towards Ri Zu like that? Their disposition was not one of friendly cooperation. Indeed, Jipeng looked downright livid. His eyes were bloodshot.
+
+“Hong Ri Zu, you dared to dismiss me! Your time has come!”
+
+Ri Zu raised two fingers and the man gagged.
+
+“That… ha! Won't work on me for a second—ghak!” He flinched again, nearly keeling over. “Get her, you idiots!”
+
+Each of the man’s posse were from the Fulmination Squadrons. They would be utterly above the disciples from the Mountain Pavilion. Lishu would intervene if things got out of hand… but not before.
+
+Yet, to his surprise... he didn’t actually need to intervene. A flash of light and a clap like thunder erupted from the man who looked a bit like a monkey. The charge of the Fulmination Squadron faltered.
+
+“Ha! This time the numbers are even, you bastards!” The girl with a sword whooped and dove into their ranks like a starving wolf. Her swordplay was raw and unrefined, but excellent.
+
+The corpulent one pulled out his own sword, a finely crafted artifact, and followed the woman in, his own blade greatly superior to any one of the Fulmination Squadron’s blades; it cut them in two.
+
+Then Ri Zu and the monkey boy joined in as well.
+
+Lishu sat back to watch the–rather one-sided—beat down. He also noticed an Inquisitor watching all of them intently. Or more specifically, the boy conjuring light and working with one of the older Fulmination Art styles.
+
+Lishu pretended he didn’t notice the man and turned back to watch as—oh, that was an injectable laxative. Novel.
+
+She did not try to kill him after, either.
+
+Lishu didn’t know how to feel about that.
+
+==============================
+
+Another week passed and the small changes gave way to those of more significance.
+
+His disciples noticed. They gathered in his office, each one with the same request.
+
+“The operation today was simplicity itself. That new assistant… It was more like she was one of my limbs rather than the usual nuisance I expected! I barely had to think, or say, anything! she simply acted—Master, you have to give that assistant to me!” Yuanzi demanded.
+
+Prideful Yuanzi, who hated it when anybody surpassed him, was singing a skilled doctor’s praises.
+
+“No, Master! To me!" Hutao begged, the normally stoic woman had her hands in front of her face. “Did you see the idea she had for the charts at the end of the patients' beds? And her paperwork—heavens above, her paperwork, it's concise, it has everything you need!”
+
+“No, to me, Master!” several others shouted.
+
+He rejected every request, banished his disciples from his office, and leaned back in his chair.
+
+He let out a sigh.
+
+…Ri Zu certainly was skilled, that was undeniable. Skilled, attentive… and exceeding his expectations.
+
+In the privacy of his own room, the corner of his lips twitched into a smile or a brief moment before it dropped.
+
+He rose and his feet took him almost of their own accord to the medical records, where he knew Ri Zu was using the brief window of time her small improvements had made to voraciously consume the documents, learning from the hard-earned knowledge of those who had come before.
+
+He had tracked her progress and though she focused on the expected - the records - he noticed a particular pattern in her behavior.
+
+She was hunting for something.
+
+“Is there anything you are looking for, disciple?” he asked her, and Ri Zu froze at his sudden presence. She immediately bowed, but knew enough not to blather on. The short woman looked up at him, considered his question for a moment and then answered.
+
+“Ri Zu has heard of the great victory over the demons in the east… and she was wondering if she could read up more on demonic taint and how to counteract it.”
+
+Lishu considered her request, while inwardly he grimaced. He had performed the autopsy on the… corpse that was tainted with demonic Qi. Her request hit closer to home than she likely knew, but with Elder Shenhe missing in the north, and the inquisitors roaming around, they would likely need more disciples to know how to handle demonic taint.
+
+“Such knowledge is restricted. I cannot show you the pertinent records unless you are a full member of the Medical Pavilion,”  Even if she was allowed to see them he would have to get the inquisitors to redact some of the information.
+
+Ri Zu bowed again. ”Thank you for instructing Ri Zu. She will be ready to join the medical pavilion as promised by the end of the month.”
+
+Lishu raised an eyebrow at her boldness, and the conviction in her voice. At this rate she certainly would be. The girl then put away some of the records and stood. “Master Lishu, please excuse Ri Zu, it is once more time for her to return to work.”
+
+Lishu nodded.
+
+“Keep working hard, girl,” he said.
+
+“'Work hard?'” Ri Zu asked, curiously. “This is not hard. It is simply how Ri Zu’s Master taught her… and the lessons Ri Zu learned from Sister Pi Pa. Ri Zu is always serious about cleaning and service. Many hands make light work.”
+
+Lishu snorted. Her Master and ‘Pi Pa’ sounded amusing. He returned to his own duties. He completed his paperwork, did his rounds, and meditated. When he came out of meditation, there was a pot of fresh tea waiting for him. He checked the tea Ri Zu had given him for poison, as was his nature, and as always it came up untampered with. It had a pleasant aroma, and to his surprise contained a mundane mushroom that gave it a pleasing, earthy taste.
+
+…she certainly was considerate, Hong Ri Zu.
+
+When he returned to his office he was met with and rejected another transfer request. It wouldn’t do to promise her to another when he could claim her himself.
+
+His good mood failed, however, when there was a commotion outside his medical pavilion.
+
+“I called my Senior Brother, you bitch! You’ve humiliated me for the last time!” Examiner Jipeng shouted.
+
+Lishu snarled. Coming into his domain was completely beyond the pale. He went to his window to teach the little shit a lesson… but it appeared he didn’t need to.
+
+“What business do you gentlemen have with a member of our Medical Pavilion?” Yuanzi asked, his eyes narrow.
+
+“None of your business—”Jipeng began to demand, when Yuanzi’s intent, in the Third Stage of the Spiritual Realm, slammed into them.
+
+“Have you perhaps come to aid Ri Zu then? Will you serve us tea? Will you fill out our paperwork? Will you hang little pleasant smelling sachets in our offices that soothe our minds, and aid our meditation?” The examiner and his Senior Brother paused, sweating. “Or are you perhaps here to try and take our very helpful little sister away from us?”
+
+Each question was posed with a smile as Yuanzi and the rest of the medics stepped forwards, murder in their eyes.
+
+Jipeng had no satisfactory answer.
+
+Lishu pulled his chair to the window and grabbed his tea, enjoying the show his disciples had decided to grant him.

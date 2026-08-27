@@ -1,0 +1,183 @@
+---
+id: b46b169c-2224-5d1a-9e96-d29bbd15c9dd
+page-type-slug: story-chapter-royal-road
+title: "v4c4.3: The Old Monster's Plan p3"
+slug: 0009-v4c4-3-the-old-monster-s-plan-p3
+partOf: beware-of-chicken
+position: 9
+ownLength: 2739
+unit: words
+ownProgress: 2739
+publishedAt: 2023-04-30
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1197364/v4c43-the-old-monsters-plan-p3"
+royalRoadId: "1197364"
+markedReadAt: "2026-06-29T18:51:36.761Z"
+---
+
+“Thank you for the gift we shall receive.” Yun Ren said, his hand on the wooly goat’s side. He bowed his head, how his father had taught him all those years ago, and then pulled his arrow from its side.
+
+Without any effort he picked the mountain goat up and slung it across his shoulders, beside the other he already had. They were interesting, these goats; they could climb vertical mountain walls like they were flat ground. To most hunters, they would have been out of reach. Yun Ren took two of them in an eyeblink, then caught the falling corpses out of the air.
+
+They had been at Coldwind Valley, and the Den of Delights for two days already, preparing for the Shrouded Mountain Sect’s initiation day.
+
+His new-found relatives were… interesting.
+
+Yun Ren had been welcomed like they had known him forever; They had traded stories and jokes with Da Jin making illusions to add to the stories. She had a hilarious deadpan delivery to her jokes, a dry wit, and was a bit of a prankster. He had caught her using an illusion to make one of the girls think she had a stray strand of hair sticking out from her bangs. She had been trying to grab it for ten minutes before she realised what Da Jin was doing. Da Jin was in charge of duty rosters and was generally the first one people went to if there was a problem. While she looked hard working, Yun Ren had learned from others that she was a bit of a slacker.
+
+Su Nezuhua, on the other hand, certainly deserved the title of “First Aunt”, as the rest of them called her. She was in charge of everything, from inventory to the direction the Den of Delights would go. He was surprised to learn that she was something of a pillar of the community, meeting up with the town’s Lord Magistrate. She seemed nice enough, but Yun Ren hadn’t talked directly to her all that much. She was mostly with Nezan who was sending messages to other little enclaves of foxes, telling them that their Lord Uncle had returned.
+
+Still, after a couple days of being hosted, a familiar voice in his head that sounded like his mother reminded him it was time for Yun Ren to contribute something in return so he asked what kind of animals were good to eat for tonight’s meal. Yun Ren wanted to do something nice for his distant relatives, so… he went back to his father’s profession.
+
+With his job complete he glanced down the mountain a bit to where Ri Zu was rooting around by a patch of stone. He had been a little surprised when she asked him to tag along with his hunt, but she had wanted to hunt for herbs. Bi De had stayed behind, he was meditating, trying to get used to being human. He’d said there was a decrease in his reaction time that he had to fix. Ri Zu on the other hand had adapted fast, she just seemed to know her body perfectly. Yun called out and Ri Zu looked up waving at him, a smile on her face. He smiled back at her enthusiasm.
+
+“You find what you were looking for?” he asked as he traversed the descent in little hops.
+
+“Yes! Frost Sprig!” The woman said, holding up the grey-blue plants for him to look at.
+
+“Those the ones that can change your eye colour?” Yun Ren asked.
+
+“Yes! But Ri Zu is more interested in how they go to a specific location in the eye. Perhaps this property can be used in other ways? Ri Zu can’t wait to experiment!”
+
+Yun Ren smiled at her enthusiasm. He didn’t normally spend too much time with Ri Zu. The rat was normally studying or training, and when she wasn’t doing that she was quiet or hiding in somebody’s clothes.
+
+This side of her was recognisable, though. Just instead of a rat bouncing about, it was a girl. She was almost bubbly. It was cute… She really reminded him of Meimei when she was younger. She certainly looked like she could be Meimei’s sister, even more so than the way Tigu and Bi De looked like they were related to Jin.
+
+His crystal chimed and Ri Zu flushed. It was a fine addition to his collection to show Jin and Mei for when they returned home. It went into storage right beside the one of Ri Zu making moon eyes at Bi De last night.
+
+Ah, blackmail.
+
+“Mean,” she declared with a Meimei-like pout.
+
+Yun Ren laughed. They walked in silence for a little on their way back, Yun Ren taking in the beautiful valley below. It was a nice place, this valley. He glanced out of the corner of his eye at Ri Zu, a little smile on her face.
+
+“I don’t know if it's just because you’re a bit bigger… but you do seem calmer like this.” Yun Ren said. “Not as much of a change as Tigu, I don’t think, but you’re definitely a bit different.”
+
+Ri Zu considered his words for a moment, before nodding.
+
+“Yes, Ri Zu noticed that too. Ri Zu used to be utterly terrified of open terrain like this, darting from rock to rock even when she became a cultivator. The sky was Ri Zu’s enemy; and now…? It's merely pleasant.” She looked up at a hawk circling overhead. The bird didn’t pay them any mind. “Ri Zu supposes everything feels just a bit less scary. Sudden movements, loud noises, predators—Ri Zu didn’t really think it was strange until now. If Tigu felt like she wanted to eat Ri Zu as much as Ri Zu felt scared… then it is no wonder my Sister was so relieved to be human. It's quite a good feeling… being free like this.”
+
+“Anything ya miss?” he asked.
+
+“Ri Zu’s sense of smell and hearing are significantly reduced. It's quite annoying, if Ri Zu is honest. Ri Zu will have to find some way to fix this,” she said, determination glinting in her eyes.
+
+Yun Ren couldn’t help it. He reached over and ruffled Ri Zu’s hair. He couldn’t do this to most people, being one of the shortest of their little family—even if that had changed recently, to his surprise. He hadn’t been expecting to get taller after he turned twenty, but he had grown.
+
+Ri Zu glared and jerked away while Yun Ren laughed. He managed to get her a few more times as they dodged and weaved their way back to the brothel.
+
+Yun Ren stopped by in the kitchens to drop off the goats.
+
+“Thank you for your generosity, Young Master!” The chefs said, all bowing low, and Yun Ren scratched at his cheek.
+
+He kind of got why Meimei got all blushy when people called her Senior Sister, but it was weird to hear people give respect like that. It felt a bit unearned. He hadn’t exactly done anything special.
+
+Well, he supposed it was ok because he was Nezan’s apprentice… and also a cultivator. The only other two were Nezuhua and Da Jin, and Yun Ren’s cultivation was already better than Da Jin’s which had been a bit of a shock to him given the age difference.
+
+He shook his head, said his goodbyes to the chefs, and began to walk back through the compound to the courtyard.Shen Yu was with Nezan, watching Bi De and now Ri Zu train. The old man was lounging on the couch and occasionally throwing a rock at one of them, the projectile correcting their footing or forcing them to dodge.
+
+They were preparing. Fighting. Ready to undertake a dangerous mission. He watched them. Bi De’s stoic face, and Ri Zu, who looked so much like Meimei, determination writ all over her features.
+
+Yun Ren grimaced as that instinct that he was pretty sure all big brothers had flared to life as he watched Ri Zu and Bi De working hard to go right into danger, without him.
+
+Damn it.
+
+They were better at fighting than him, and they could take care of themselves. He couldn’t baby them! He thought, trying to convince himself not to go.
+
+But if something happened he should really be there. His abilities were good for escaping and running away, or at least delaying people.
+
+Besides, if things went really wrong they had Shen Yu, didn’t they? Knowing the old bastard he would think lost limbs and blood were teaching moments, but he would save them…right? If he wasn't busy…
+
+Yun ran his fingers through his ponytail.
+
+It wasn’t like he could sneak in with them. He had the blood of a fox, at least a little bit. Surely they would catch him, right? Well, maybe if he used that makeup with his own illusions…
+
+Ah, damn it.
+
+‘Eighth Wielder is conflicted.’ Summer’s Sky rattled at his hip. ‘Does Eighth Wielder require assistance?’
+
+“Just need to think some, Summer.” He replied.
+
+‘Assurance. Eighth Wielder's decision will be optimal. Confidence. Acceptance. Approval.’
+
+Yun Ren smiled at his sword’s certainty, and walked away down the hall. The entire building had the weight of history behind it. It was warm and inviting, which helped settle his nerves.
+
+Yun Ren wandered the halls of the… well, it was honestly a manor. The back building even had a bunch of kids in it, who were only too happy to sit down and let Yun Ren show them the images he had taken.
+
+He messed about with the brats, telling them the tale of the Dish Dragon, until he noticed Nezuhua standing in the doorway. The woman, who certainly didn’t look like she was centuries old, smiled at him. It was a maternal and soft smile. Reminded him of his mom, as she looked at him entertaining the kids.
+
+Then she spoke.
+
+“Children, have you all finished your chores?” Nezuhua asked, the kids all froze, panic overcoming their faces.
+
+They were out of the room without even a ‘thank you’ for the story, shooting past the fox-woman.
+
+“Lord Uncle spoke of your character, but seeing it does this old lady’s heart good.” She said as she walked into the room. “Young Master, would you like some tea?”
+
+“Please.” Yun Ren said, Summer Sky rattling happily. After a moment he continued. “You know, you don’t have to call me that. Nezan may be teachin’ me some stuff, but I’m not exactly some noble kid. Of course, if you want to play that game I can, First Aunt.”
+
+Nezuhua’s lips twitched slightly into a smile.
+
+“Of course, Yun Ren.” She said, moving with such grace that it took Yun Ren’s breath away. The shot was perfect; the light framing her, her hair falling just so…
+
+He restrained himself from recording her. There would be other times. Instead, he waited as his distant relative poured them both tea and got them some snacks. They made small talk about Hong Yaowu and his mother’s tribe in the north.
+
+“I would very much like to meet them, and pay my respects to the First Den. I’m glad that they still can go and visit the sites of their earliest tales.”
+
+Yun Ren grimaced at the reminder. His mother’s tribe was always just a bit concerned about one day not being able to continue their way of life. That they would one day die out, and be forgotten… but at least they still had their home. The foxes had lost theirs, the only thing left being illusions that got more and more distorted with age.
+
+Yun Ren looked at the woman beside him. Nezuhua had looked so proud of them on the first day. They had managed to survive everything the world had thrown at them. If you didn't know him you would miss the moments when the smile slipped and he had stared at them with profound sadness.
+
+Dying by inches.
+
+“I’m sorry.” he said, “But, well, you know if you need a place to stay, I can arrange something back in the Azure Hills.”
+
+Nezuhua looked touched.
+
+“Thank you, Yun Ren. but it's fine. We’ll endure, as we always have.”
+
+“Still, it isn’t right that you don’t really have anything…” He mused, when a presence announced itself, flouncing into the room.
+
+“Yes indeed, nephew, it's an absolute travesty!” Nezan said, walking through the doors. Yun Ren didn’t react, already used to him popping up. Nezuhua rose and gave him a proper bow before making a place for him to sit and have tea. “They don’t even know what the mountain looks like anymore, nephew! We’ve been away from it for too long, even the illusions have faded. They hear the stories and sing the songs, it is true. But none of them know it. It's such a shame, if only they had a better record.”
+
+Yun Ren stared blankly at the fox, and then shifted his eyes to Nezuhua, who looked slightly apologetic.
+
+Damn foxes, why couldn’t they just come out and ask him when they wanted something? Always with the tricks.
+
+Yun Ren sighed. “Fine, I’ll go to the Shrouded Mountain Sect, what things do you want recorded?”
+
+Nezan blinked, before smiling. “I rather expected you to at least put up a token objection, after how adamant you were not to get involved.”
+
+His mind flashed to Bi De and Ri Zu,. and then to the people here who had greeted him so warmly.
+
+“You questionin’ my generosity?” he demanded, letting his father’s tone slip in, and Nezan shook his head. “I agreed I’ll go, so no more games, okay? How am I supposed to get in, though? Can’t they detect foxes?”
+
+Nezan smiled, pulled out a stone tablet, pointed it at Yun Ren and nothing happened. Then he pointed it at Nezuhua, and it lit up. “Well, nephew, we found something delightful. Your Qi won’t show up on their detectors. They’re attuned to the shadow nature of most fox-based illusions while your illusions are light natured. That, along with some makeup…”
+
+Well, he supposed that had to be good enough.
+
+He sighed. He was way too easy to manipulate. He’d have said yes if only because he would never hear the end of it from Meimei if he just let Bi De and Ri Zu go off on their own. For all their bravado, they were horribly naive at times.Still, a chance to give these people back a bit of their history, that was worth a lot.  …
+
+==============================
+
+And that was how Yun Ren ended up waiting to be called to fight an Examiner of the Shrouded Mountain Sect. He was dressed in rough clothes, had his eyes stuck wide open, and extra sideburns glued to his face. Summer’s sky was sheathed at his hip, covered in a thin film of light.
+
+Bi De, of course, had kicked his Examiner’s ass immediately, but now things had settled somewhat, with people approaching, fighting, and either being admitted or told to screw off.
+
+It was honestly less violent than Yun Ren had been expecting, and he was rather optimistic about his chances.
+
+There was one Examiner, however, that seemed to be taking things a bit too far.
+
+Yun Ren managed to keep from wincing as the prick broke the arm of some poor kid, and then punched him so hard the guy’s ribs went crunch.
+
+Ri Zu was out of her place in the line and at the guy’s side instantly as he coughed up blood, Medicinal Qi coming out of one hand and one of her newer concoctions, a healing drought made from some of the plants of this province, in the other.
+
+Yun Ren’s eyes widened and he started quickly gesturing to get Ri Zu’s attention as the Examiner frowned heavily at the sight, and then, within a single bound, loomed over Ri Zu.
+
+The woman who had been a rat looked up at the man who was staring down at her.
+
+“The first lesson all cultivators should learn is that one should not waste their time with trash. Harden your heart and discard worthless things, especially the weak” The Examiner declared. “Leave him and I shall be lenient.”
+
+He saw his friend twitch.
+
+And then Ri Zu looked up at him. She was smiling. Smiling exactly like Meiling.
+
+Ah, man, this is going to be a disaster…

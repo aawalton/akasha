@@ -1,0 +1,145 @@
+---
+id: e5455def-4729-58f5-bd66-8caf20ddb24d
+page-type-slug: story-chapter-royal-road
+title: "The story so far"
+slug: 0019-the-story-so-far
+partOf: beneath-the-dragoneye-moons
+position: 19
+ownLength: 2718
+unit: words
+publishedAt: 2023-04-14
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1169352/the-story-so-far"
+royalRoadId: "1169352"
+---
+
+Hello! Welcome to another installment of Beneath the Dragoneye Moons! Here’s a quick recap of the story so far.
+
+Book 1: Elaine is reincarnated on Pallos with some of her knowledge, Papilion having swiss-cheesed her memories before allowing her to reincarnate. Elaine grows up, realizes she still knows biology. Tries a little too hard to lie low, and accidentally kills her friend, Lyra. Takes her healing [Oath] and meets Artemis. When her family tries to marry her off at 14, she decides to run away from home and join the Rangers. She gets kidnapped by runaway slaves-turned-bandits. The Rangers smash the group, and Elaine asks to join. Julius denies her until she reveals the full extent of her reincarnated status. He changes his mind and lets her tag along. They arrive in Virinum, where a monster is terrorizing the locals. The Rangers come up with a plan to take down the monster, and Elaine is critical in keeping Kallisto alive. After the fight, Julius offers for Elaine to join them as a real Ranger, and she accepts. The book ends with Elaine classing up, merging her Light and Dark healing classes into a Celestial class. With the open class slot, she takes a Fire mage class.
+
+Book 2: Elaine starts practicing with her new skills, learning her new limits and capabilities. Kerberos, her fiance, hires some adventurers to retrieve Elaine. They kidnap her, but her Ranger teammates come to the rescue, killing most of them and arresting the rest. Shaken but undeterred, Elaine continues with the team, experiencing just how dangerous life is on the road for a Ranger team. From dinosaur swarms and bandits, to twitchy teammates and deadly monsters, there’s never a moment’s rest for the team. They arrive in Perinthus, a town dying to multiple plagues. Elaine shines, healing as many people as she can while slowly building a map of the victims. It soon becomes clear that one is mundane, and the other is caused by a Classer. The Rangers investigate, determining who the culprit is, and execute him without a trial. Leaving Perinthus, the team continues on, getting into various situations as they complete their round. During this time, Elaine writes the Medical Manuscripts. After two years, they arrive back in Ariminum, the capital, where Elaine is interrogated by Priest Demos and reunites with her parents and they come to an understanding. She is told that she’ll need to attend Ranger Academy to ‘properly’ become a Ranger, and Arthur is promoted to Sentinel Toxic during the Ranger Convocation.
+
+Book 3: Elaine attends the grueling Ranger Academy, where she meets Sentinel Night, her mentor. While she’s there, she’s brought to the front lines against the endless Formorians, in one part to directly fight them and level herself, and in another to keep an eye on Sentinel Toxic’s mass-poisoning efforts, checking that they’re not going to blow back on the soldiers. After returning from the front lines, she’s pitted in a colosseum match against her former fiancé Kerberos, where she blows his head off. She classes up, trading Fire magic for Radiance magic, achieving one of her lifelong dreams - flight. Upon graduation, she isn’t assigned to a team, instead being promoted to Sentinel Dawn. She goes on a failed date with Jaclyn, and learns that Night is a vampire. He teaches Elaine about the creation of the world. After starting to figure out some work and getting an apprentice, Autumn, Elaine goes off on her first Sentinel missions, shaking down her gear and experience. She encounters a weak plague and a pirate attack, and returns triumphant. A series of reports shows a few more years of Elaine’s Sentinel work.
+
+Book 4: The book begins with the Formorians breaching the wall, and all hands are on deck. All available Sentinels, along with Priest Demos, fly out to the front lines, where they entrench themselves deep within the horde for a last desperate strike against the Formorians. Destruction channels a massive earthquake, while Demos beseeches a god to intervene on their behalf. Both go off, each killing one of the Formorian Queens, and the Sentinels split, forming a strike team to kill the last Queen. Elaine and Bulwark return back to help the remaining soldiers against the horde, and they finally succeed in winning their thousand year war against the Formorians. Elaine classes up, obtaining [The Dawn Sentinel] and building a skill to obtain in the future - Immortality. Hunting and Elaine are sent to make sure there are no other Formorian Queen eggs or anything like that in the hostile wastes the Formorians came from. The two delve deep into the Formorian territory, finding someone else was on the other side - dwarves. The two of them split, with Hunting returning to report their findings while Elaine hangs out with the dwarves. They convince Elaine that they’re not the people to talk with, and she should be brought to the capital and talk with someone important. She agrees, but while they’re traveling, they’re interrupted by Lun’Kat fighting with the Guardians. In order to stay alive, Elaine and the surviving dwarves dive down an old mine shaft, finding themselves deep underground.
+
+Book 5: Elaine and the dwarves are trapped underground, trying to survive the monsters, traps, and orcs. Ned is replaced by a shapeshifter, but they finally find an underground dwarven city. Elaine shows off her healing prowess once again, slicing open dwarves to find out how their implanted augments work. She discovers that the dwarves have no intention of letting her go, and devises a plan to escape. She flees once again to the underground, where she is chased by the inevitable shluggoth. Running away, she finds Lun’Kat’s lair, where the dragon is injured. Elaine is sworn to heal anyone, and enters to heal Lun’Kat. She mostly resists taking any treasure, only snagging a single small, hot, red egg before fleeing back to the open air and freedom. Elaine gets [The Stars Never Fade], the immortality skill. She unfortunately has no idea where she is, and starts heading north when she bumps into a trio of elves. They’re heading in roughly the same direction, and Elaine joins up, for safety and guidance. They fight a hydra and emerge victorious.
+
+Book 6: After pissing off some trolls, they encounter a gnoll, whom Elaine makes young again with [The Stars Never Fade], practicing her immortality skill for the first time and meeting White Dove. They travel further to Ochi, a city infested with Shimagu who can hijack other people’s bodies. After struggling with her ethics and morals, Elaine heals the people infested with Shimagu, killing the intelligent bodyjackers in the process. The action devastates her though, and being close enough to Remus, she travels the rest of the distance alone. She finds herself in a city, with a Ranger team nearby - home at last! The book ends with the egg hatching in a blaze of fire, Auri emerging from the flames.
+
+Book 7: Elaine struggles with looking after a newborn Auri, eventually realizing that she’s one of the rarest and most legendary creatures to ever exist - a phoenix. The two make their way back home, where they find Artemis has been sold into slavery and Julius is missing. After freeing Artemis, Elaine reports back to the Sentinels, where she finally hits the level 512 milestone and unlocks her third class. Elaine has a tearful reunion with her friends and family. News of her ability to make people young again makes its way to the Emperor, who pressures Elaine into making him young again, no matter the price. Elaine negotiates - poorly - women getting equal treatment in the eyes of the law. Augustus agrees, and Elaine has a triumphant parade through the city, where Augustus announces both the change, and a war against the Shimagu. News reaches the Sentinels about where Julius went missing - a fairy ring - and Elaine, along with Artemis, Auri, and Autumn - enter the ring, intent on retrieving him. They succeed, but fae trickery and divine intervention mean they leave the fairy ring tens of thousands of years after when they entered.
+
+Book 8: Elaine and the rest are utterly lost in this new world. They don’t speak the language, and half of what they do is illegal. They’re fortunate to meet Iona, a Valkyrie, who has a blessing to speak any language. She helps orient them to the world, and Elaine decides it’d be best for her to attend the School of Sorcery and Spellcraft, to gain as much knowledge and information that she can. Julius and Artemis decide they want to try joining the Hunter’s Guild, and Autumn - now called Amber, after she sold her name to the fae for power - wants to kickstart her dream of becoming disgustingly rich. Elaine attends the School, where she learns as much as she can, and takes a ‘practice’ third class, Biomancy, in order to make modifications to herself that’ll last her entire lifetime - eternity. It also gives her a good view on the remaining classes she has. She also starts to learn the art of Wizardry, etching runes and glyphs to create any magical effect - at a steep knowledge, time, and efficiency cost. Iona and Elaine fall for each other and start dating, and the book ends with Elaine performing a massive biomancy operation on herself and Iona, permanently improving their bodies. The book ends with Elaine taking her third class ‘for real’ - [Bookwyrm].
+
+Book 9: Elaine and Iona are continuing their School adventures. Elaine is a member of the School’s combat team, and the Gladiator Gauntlet is the main event. Elaine attends along with Iona, who discovers that Rolland has effectively disbanded the remnants of the Valkyrie order. Iona enters the tournament, intent on extracting a pound of flesh from the nobility, while Elaine struggles to win the event for the School’s glory. They’ve given her five years of free tuition, the least she can do is return with a trophy for them. Both are victorious, and return to the School. Elaine’s body is on a shorter lifespan than usual with her dramatic biomancy modifications, and chooses to get cursed sooner rather than later by White Dove, because at the School she can research mitigation tactics. She’s cursed, and graduation is around the corner. She graduates in multiple tracks, and gets recognized as the founder of modern medicine due to her efforts with the Medical Manuscripts back in the day… regardless of how many other people contributed over the eons to the book. After graduating, Iona and Elaine fly off together to Exterreri, hoping to find Night.
+
+Book 10: Elaine and Iona leave the School, seeing if they can find Night, Elaine's old mentor. He's the only one likely to have survived long enough to make it to the present-day, and there are hints that he exists in the Exterreri Empire, home of vampires. Journeying from the School to Exterreri, Iona and Elaine encounter the Black Plague and the ruthless Pekari, mechanized golems that terrorize villagers. They finally arrive in Exterreri, where after stumbling around in the dark Elaine catches the attention of Arachne, current leader of the Sentinels. Arachne knows Night, and the two are finally reunited. Elaine and Iona fight off a wyrm to claim a mountain as their new home, Elaine is offered a position as a Sentinel once again, and Arachne teaches Elaine enough to let her qualify as a [Loremaster] in her third class. Iona acquires a new squire, Nina.
+
+Book 11: Iona starts training Nina, her new squire, as Elaine settles into her role as a War Sentinel. The dragon triad is handled once and for all, and Elaine goes off to investigate rumors of another person from Earth. The meeting is disappointing, and when she arrives back home, Dormin confronts them. Artemis is around, and has no tolerance for long villain monologues. Elaine, in her role as a War Sentinel, heads off to the Han Empire with the rest of the Sixth Legion. There, they engage in battle after battle, rapidly leveling and leaving their mark on the war. Elaine becomes comfortable with large-scale engagements, keeping everyone alive, and ends up killing the Great General Meng Ao. Finally, the armies push things too far, and a Guardian intervenes, smashing the armies to bits and bringing the civil war to a head. Elaine is politely asked to leave the Han Empire while Iona and Nina defend a young prince who’s requested sanctuary in a temple. Nina believes that the lives of thousands, perhaps millions when the scale of the war is fully considered isn’t worth the life of a single noble child, while Iona believes protecting a defenseless child whose requested help is a noble calling. Nina slays the young prince, fracturing their relationship and bringing a close to the war. Elaine classes up at home, taking [The Arbiter of Life and Death]. Iona proposes to Elaine when she wakes up, and Elaine says yes.
+
+The Magic System Refresher
+
+This is a simple refresher, covering the major points without getting bogged down in the minor details. Beneath the Dragoneye Moons is a litRPG magic system. There are 8 stats - Strength, Dexterity, Speed, Vitality, Mana, Mana Regeneration, Magic Power, and Magic Control. Most people have two classes, with people over level 512 unlocking a third class. Each class has an element. The eight basic elements are Light, Dark, Water, Fire, Wind, Earth, Nature and Metal. Each combination of two of the basic elements creates an advanced element - Light and Dark make Celestial, for example. Each element has things it can and can’t do, along with the class. People get experience for doing things their class wants to do. A [Lumberjack] gets experience for cutting wood, and not very much for killing a monster. A [Knight] gets a lot of experience for killing a monster, and very little for chopping wood. Leveling up a class gives stats, and raises the cap on skills for that class. Each class can have up to 8 skills, and there are 8 general skill slots.
+
+Skills at the start of Book 13
+
+[Name: Elaine]
+
+[Race: Chimera (Elvenoid)]
+
+[Age: 38]
+
+[Mana: 6,911,270/6,911,270]
+
+[Mana Regeneration: 13,695,885 +(41,548,244)]
+
+Stats
+
+[Free Stats: 0]
+
+[Strength: 40,823 (Effectively: 326,584)]
+
+[Dexterity: 65,269 (Effectively: 694,984)]
+
+[Vitality: 203,035 (Effectively: 3,172,422)]
+
+[Speed: 190,267 (Effectively: 3,745,025)]
+
+[Mana: 691,127]
+
+[Mana Regeneration: 1,555,022 (+ 4,154,824)]
+
+[Magic Power: 904,127 (+ 39,600,763)]
+
+[Magic Control: 903,335 (+ 39,566,073)]
+
+[Class 1: [The Arbiter of Life and Death - Celestial: Lv 876]]
+
+[Celestial Mastery: 876] - General Affinity skill
+
+[Aurora Curialis: 771] - Passive improved healing aura
+
+[The Stars Never Fade: 55] - Immortality skill
+
+[Luminary Mind: 602] - Mind skill
+
+[Universal Cure: 876] - Healing skill
+
+[Etheric Aegis: 222] - Armor skill
+
+[Event Horizon: 650] - ‘Black hole’ shield skill, destroys objects
+
+[Zenith Everlasting: 609] - energy skill
+
+[Class 2: [Seraph of the Dawn - Radiance: Lv 855]]
+
+[Radiance Mastery: 855] - Affinity skill
+
+[A Light Shining in the Darkness: 23] - Bright light anti-illusion
+
+[The Rays of the First Dawn: 855] - Radiance beams
+
+[Radiant Angel's Spear of Obliteration: 38] - Radiance weapons + Spears
+
+[Celestial Dew: 855] - Mana regeneration
+
+[Sunrise Halo: 855] - Radiance power boost + cosmic halo on demand
+
+[Seraph's Wings: 855] - Flight skill, six wings
+
+[Six Wings, Six Million Feathers: 855] - Devastating assault skill. Explosive feathers
+
+[Class 3: [Erudite Archmage - Spatial: Lv 712]]
+
+[Spatial Authority: 488] - Affinity skill
+
+[Cozy Reading: 712] - Reading skill
+
+[Teleportation: 195] - Teleportation! Both self and objects
+
+[Repository of the Magus: 557] - Personal library spatial storage
+
+[Tower of Knowledge: 92] - Great big storage skill. Requires personal teleporting in
+
+[Reality, Writ As You Will: 530] - Wizardry skill
+
+[Astral Archives: 326] - Perfect memory skill
+
+[Endless Pursuit of Knowledge: 644] - Exp boosting skill
+
+General Skills
+
+[Long-Range Identify: 532] - Identification skill
+
+[Handy: 1] - General dexterity skill
+
+[Companion Bond between Elaine and Auri: 876] - Companion bond with Auri
+
+[The World Around Me: 216] - Sphere of perception
+
+[Oath of Elaine to Lyra: 876] - Healing Oath skill
+
+[Sentinel's Superiority: 876] - Combat and skill boost skill
+
+[Persistent Casting: 650] - Mage meta skill
+
+[Tender Gardening: 108] - Growing plants skill

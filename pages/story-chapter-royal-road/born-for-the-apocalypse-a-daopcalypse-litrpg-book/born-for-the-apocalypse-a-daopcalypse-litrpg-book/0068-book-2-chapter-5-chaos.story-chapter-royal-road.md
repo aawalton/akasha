@@ -1,0 +1,53 @@
+---
+id: 1b7140f8-a96f-5dd7-95e2-99f7d9a64f84
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 5- Chaos"
+slug: 0068-book-2-chapter-5-chaos
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 68
+ownLength: 1087
+unit: words
+publishedAt: 2025-05-11
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2271973/book-2-chapter-5--chaos"
+royalRoadId: "2271973"
+---
+
+67:
+
+Chaos was the only way to describe the battlefield.
+
+Jack had expected the battlefield to move fast, but as it turned out, a system-enhanced battlefield was on a whole new level. Marcus had fired off a Qi Projection at the middle-aged man’s stone screen faster than Jack could have called out a warning, given that he could see the two people hiding behind it from his higher elevation.
+
+He had been tempted to fire off a Qi Projection to meet them as they crested the dune, but the middle-aged man had accounted for the Mist Qi Cloud he was concealed within in his defensive calculations. Even if he aimed a downward Qi Projection slash at the two cultivators hiding behind the stone screen, it would invariably strike the stone screen first, which had already displayed it’s durability in withstanding a Qi Sword Projection from Marcus.
+
+Unless Jack had a way to make his Qi Projection curve right behind the middle-aged man’s makeshift shield, the fact of the matter was that Qi Projections could only be fired off in straight lines from the angle of release and since the stone screen was taller than the middle-aged man himself, his attack could only target his Dao Mark powered defense.
+
+The time to make his move hadn’t arrived just yet, so Jack ignored the rising tension he was feeling and watched as the short-brown haired woman peeked from behind the stone screen and dipped behind it a moment later, not only giving him no time to strike but Jack also didn’t miss how the damage Marcus had inflicted upon the stone screen had healed in that short instance.
+
+The brown-haired woman’s call out to her team had not escaped Jack and his gaze flickered over to the prone form of the man she had addressed as Ethan, who she had claimed had been downed. Her words rung true, but only if one were to interpret them literally— Jack’s keen eyesight noticed that the man reach out for a tear in the void, likely to retrieve a Greater Recovery Pill from within his inventory.
+
+Clever vixen, Jack thought to himself as his grip on his sword tightened. Still, he’ll need a few minutes to get back up on his feet and he doesn’t have a ranged class, He considered, holding himself back from firing a Qi Projection off just yet, even though Jack was itching to let loose his blade. If he struck too early, the enemy would hunker down at the base of the dune behind his line of sight and he would lose the advantage in elevation that he currently held.
+
+So he waited and watched as four cultivators that had massed up near the edge of the dune on the side Jin was supposed to be guarding; three of whom were clad in common armor and the fourth in his starter gear, burst out of their cover in a wide scattershot— doing their best to follow orders while running out at wide angles with enough distance between them to avoid catching the Qi Projections that the brown-haired woman had warned them about.
+
+Jin screamed as she found herself confronted by four cultivators that all had a layer of Qi coating their melee weapons, but that didn’t stop her from aiming at the cultivator closest to her and letting go of the Qi Spear Projection she had been channelling.
+
+Jack watched as it rocketed forth and punched straight through the common armor the cultivator, a man that appeared to be in his late twenties, was clad in. The light of his Qi Sword flickered out as his eyes went wide in shock, a startled gasp escaping his lips before he crumpled onto the ground, falling to both his knees before slumping forward.
+
+Sarah too had not remained silent, as she had already pivoted, considering the scout named Ethan no longer a threat and had picked out a target of her own. The woman that was still clad in starter gear had charged out of cover in the widest arc, making sure she was as far away from any Qi Projections that could get her, before coming to an abrupt halt and shifting her spear to the closest target she could spot— Jin.
+
+She did not hesitate or disappoint, though Jack had to fight back a wince as her Qi Spear Projection punched straight through the woman's starter tunic and continued to whizz off into the distance before flickering out.
+
+“Jin, duck!” Marcus yelled out loud enough for his tone to boom even in Jack’s ears. The two remaining cultivators had their Qi Projections at the ready and had murder in their eyes when Jin dropped to a knee, her body having instinctively complied upon hearing the urgency of the command.
+
+Their Qi Projections still would’ve landed and skewered Jin and Marcus both if it weren’t for a spray of orange flames that erupted outwards from Marcus’s hands, both obfuscating their view and catching one of the two in the chest, setting his common armor aflame.
+
+One Qi Sword projection crashed into the sand and kicked up a cloud of dust while the other Qi Spear Projection was fired into the skies as the unharmed spear wielder had instinctively backtracked, before turning around and breaking out into a full pace sprint.
+
+It was then, when Marcus had seemingly sent the shock troops into a rout, that the brown-haired woman stepped out of the makeshift shield’s cover with her sword raised and her Qi Projection ready— aiming directly for Marcus’s chest.
+
+That was also when Jack swung, his body instinctively deciding upon the action before his mind could finish considering the thought and without considering the results of his actions, he sprinted down the taller dune with the Mist-Walk ability active, taking advantage of the greatly increased movement speed to blur forth with terrifying momentum.
+
+It was taking all Jack had not to lose his balance, but in what felt like a few blinks of his eyes he had reached the base of the dune and in a few more he’d need to cut off the Mist-Walk ability so he didn’t cut off his allies’ sight.
+
+If the enemy thought that he had fallen to the archer’s attack or had been weakened enough, or if they had believed that he wouldn’t be able to get to his group members’ side in time, then Jack was about to show the middle-aged man just how wrong he had been in his assumptions.

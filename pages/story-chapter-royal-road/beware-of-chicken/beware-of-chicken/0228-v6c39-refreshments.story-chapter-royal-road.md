@@ -1,0 +1,163 @@
+---
+id: d62f8c5a-7ac3-5102-9c0e-056cdfad81dd
+page-type-slug: story-chapter-royal-road
+title: "v6c39: Refreshments"
+slug: 0228-v6c39-refreshments
+partOf: beware-of-chicken
+position: 228
+ownLength: 1779
+unit: words
+ownProgress: 1779
+publishedAt: 2025-06-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2391516/v6c39-refreshments"
+royalRoadId: "2391516"
+markedReadAt: "2026-06-29T18:59:11.584Z"
+---
+
+On top of a mountain in the Sea of Snow sat six figures. Before them were trays of perfectly cooked food and fine alcohol; and before them were the Heavens, dancing with the rainbow light of the northern auroras. Xiao Ge of the Cloudy Sword Sect looked out over the world… and felt a sense of contentment.
+
+With him were his fellow elders, Tianzhe Minyan, the Imperial Herald, and Shen Yu.
+
+It was the last day of the New Year's festivities, and Shen Yu had arrived bearing a meal, along with news of the Thunderhooves. Both were welcome.
+
+Xiao Ge was very much looking forward to meeting the Spirit Beasts. According to Shen Yu, the Thunderhooves had comprehensive records from the Age of Heroes; and Master Forest Sweeper himself was a wise and learned scholar. Ge’s friend outright respected the Spirit Beast, which was a rare thing indeed.
+
+A dialogue with such an ancient Spirit Beast was sure to be a most enlightening experience, and one for the Archives.
+
+Ge took a bite of the meal and chewed slowly, savouring the meal. The atmosphere was companionable, and full of good nature. Shou was having entirely too much fun guessing the Spiritual Herbs that had been used to create this ‘infusion sampler’, a delightful set of several small bottles of alcohol that were infused with Spiritual Herbs.
+
+“This one next,” Shou decreed, having taken over pouring everyone drinks simply so he could be the first to see and smell them—the man had even made a game of it, covering the labels, and picking them at random. Sixcups poured, and he started handing them out. First, the Herald received a cup, as was proper, and the man nodded his thanks.
+
+“Another interesting vintage,” he intoned.
+
+Yukong took hers with a small smile, breathing in the scent, and considering it for a moment.
+
+“Bitter, herbaceous… tangy. Almost citrus-like,” she said. “Surprisingly high carbonation. I’m uncertain, but I think something polar. Snow-Phoenix Vine?”
+
+Shou smirked and raised a brow. “Is that all?” he asked in a teasing tone, and Yukong paused, trying to see if her husband was deceiving her in the little game of identification they were playing. She took another sniff while Shou kept handing out the drinks.
+
+Ge received his next and decided to join in, smelling the same thing as Yukong. “...juniper berries?” he asked. Yukong let out a noise of consideration.
+
+Minyan paused for a moment in her complaining to Shen Yu to take the drink and gave a nod, not stopping her grumbling.
+
+“And at first I thought he wasn’t like you at all, but he's just subtler about it! Your brat has seduced my entire crew!” Tianzhe Minyan huffed, pointing her chopsticks at Shen Yu. “I’ve heard mutterings of my girls wanting to build a supply outpost in the Azure Hills! The other half are saying that being a second wife isn’t so bad!”
+
+The Cloudy Sword Sect had received the same food, and Ge had to agree. His own disciples had been very pleased by their New Year’s celebration dinner, and afterwards Ge had noted a very distinct upswing in morale. Even cultivators could feel worn down by the perpetual cold and darkness of the Sea Of Snow.
+
+Shen Yu just laughed, taking his own cup with a bright smile.
+
+“Ah, you don’t have to worry about a thing, my Granddaughter will see them all off. They’ll run back to your ship with their tails between their legs!” he boasted. “Your Tsunami Wing nearly missed New Year’s before my Granddaughter realised she was harmless!”
+
+Minyan rolled her eyes and took in the smell of the drink. “Oh? This one is quite nice. I shall cast my vote in solidarity with Yukong, however. The smell is too faint for juniper.”
+
+Shen Yu just chuckled, exempt from the game because he had been there when they had been made. “I have high hopes for the taste of this one.”
+
+With all the cups handed out, they took their first sips. More floral and citrus, and something charred. The back end had a numbing cold to it, and it was accompanied by the popping of high carbonation, lending a slight, almost electric tingle.
+
+“Oh my,” Yukong said, her eyebrows raised.
+
+“Delightful,” the Herald agreed.
+
+“One of the better ones. Better than the Silver Yin Lotus. The alcohol just ruined that one,” Minyan said.
+
+“Both Yukong and Ge had it,” Shou said with a smile. “Snow-Phoenix Vine and juniper berries charred by draconic lightning—the process of charring the berries and vine within the brew produces higher carbonation within the distilled earth apple—or as Jin called the tuber, potato— alcohol. Wa Shi and Jin note it would probably go even better with mead, or a dedicated distillation process rather than an infusion.”
+
+“It's already quite good!” Ge said, nodding his head.
+
+“I think I shall try my hand at this,” Yukong decreed, her eyes focused. She pulled out a scroll with an  expression of intense focus. “It's been a while since we did a joint project, husband.”
+
+Shou lit up. “Of course! I’ll prepare everything once we get back—ah, and we lost her.”
+
+Indeed, Yukong was currently drawing out what looked like a combination of Jin’s still and a pill furnace.
+
+“No, no, you want some impurities, that's what gives it the flavour…” she  muttered to herself.
+
+Ge considered them and the pleasant atmosphere. He had truly missed this. “Hmm. How about a tasting, in a year or so’s time?” he asked.
+
+Shou blinked, considering the offer, before nodding.
+
+“A year should be plenty of time for some preliminary vintages,” he said.
+
+Ge nodded and turned to the Lady of Soaring Heaven's Isle. “Minyan, would your fellow Elders be agreeable? I’ll see if I can wake up or find a few of the others as well.”
+
+Minyan paused, surprised, and huffed. “Trying to bring back the old days, Ge?” she asked.
+
+“Reconnecting with one's comrades isn’t a bad thing,” Ge replied. “We’ve drifted far and wide these past three hundred years.”
+
+Minyan considered his words.
+
+“I’ll bring it up when I reunite with my Sisters,” she finally settled on.
+
+“I’ll tell my grandson to provide a meal,” Shen Yu said shamelessly. “About time he supported his old man!”
+
+They all chuckled at the joke.
+
+It was small and tentative… but Ge had hopes for the future.
+
+They would root out the Demons. They would rekindle the flames that had guttered from neglect and absence.
+
+The Cloudy Sword Sect would be upon the correct course—as the Honoured Founders willed it.
+
+===============================
+
+The Lord Magistrate looked down upon his town from his balcony. He pulled his dear wife more tightly to his side, a smile on his face.
+
+The town was bedecked with red and gold. Its streets were clean. Its walls were unmarred by conflict.
+
+But most of all, its people were happy.
+
+“Blessings on the New Year!” the great cheer went up.
+
+“Blessings on the Lord Magistrate! May he reign for another thousand years!” some drunk shouted.
+
+The crowd in the town center seemed to approve of his shout.
+
+“Blessings on the Lord Magistrate!”
+
+“Blessings on the Lord Magistrate!”
+
+“May his reign match the Emperor’s!”
+
+The Lord Magistrate pulled back slightly, so the people below couldn’t see the massive smile that had crawled across his face. The people’s praise resonated in his soul. What a thing, to have the year end with the people praising you, and for the new year to begin with that same praise!
+
+Even after all the business with the cultivators, it was still glorious. His wife patted his chest twice, a smile on her face as well.
+
+No words were needed. Another year of exemplary work was well rewarded, if he did say so himself.
+
+Next year? He would be just as good. He couldn’t wait to hear what the scribes had to say about the new year’s report.
+
+He hoped that they would keep up the conversation he had overheard last year about the possibility of them pooling their funds together to commission a statue of their wise and handsome Lord Magistrate to erect in the town square.
+
+=============================
+
+“Blessings on the Lord Magistrate!” the cheer came from outside the Archives.
+
+“I still can’t believe this isn’t a fucking cult,” Sheng Yanjing, the Auditor-General of the Azure Hills, grumbled into his wine cup.
+
+Lin Bao chuckled and ate another bite of his fifth bao.
+
+“He just does good work,” Bao replied.
+
+“That's  what’s so fucking frustrating about it!” Yanjing whined. “He’s basically exiled to the frozen north, and he just… succeeds! He's good! Really good! He should be managing a city, or an entire province!”
+
+“He could, but I think it might have been fate to bring him here,” Bao said, his voice contemplative.
+
+Yangjing conceded the point. He had largely given up on his audit, after the whole… Imperial Herald Incident. Oh, he went through the motions, of course, but there was no way anyone was convincing him to try and bury the man now.
+
+Having tea with the Lord Magistrate and his beautiful wife while they talked about his past victories and decisions was a lot more enjoyable when he wasn’t trying to hurt him.
+
+Oh, Yanjing still asked his own questions. He was a good auditor, he just didn’t have the money or backing to try and progress further in that cutthroat world until the Wus sponsored him. But having a friendly chat with a competent man was downright enjoyable, and the Lord Magistrate actually seemed impressed by the depth of Yanjing’s questioning, and pleased to be able to explain himself further.
+
+And fuck him, Yanjing was starting to like it. The man had seen him at his worst and comforted him, for fuck’s sake. He was Yanjing’s nominal enemy, yet The Lord Magistrate treated him better than the Wus did.
+
+It was enough to leave him with no regrets about what was going to happen to them. Lady Wu, the Lord Magistrate's wife, had a bone to pick with her family over the stunt they tried to pull… and had a very interesting proposition for Yanjing. A proposition Yanjing had jumped to agree to.
+
+Come spring, he would be heading back south… with the Azure Jade Trading Company. And possibly several cultivators.
+
+Yanjing could only let a vindictive smile cross his face. Fuck with him, huh? Treat him like a pawn and an attack dog instead of as the Auditor General?! The Wu Family had been courting death.
+
+“Blessings on the Lord Magistrate!” he toasted in time with the shouts outside.
+
+=================================
+
+And so ended the last day of celebrations.

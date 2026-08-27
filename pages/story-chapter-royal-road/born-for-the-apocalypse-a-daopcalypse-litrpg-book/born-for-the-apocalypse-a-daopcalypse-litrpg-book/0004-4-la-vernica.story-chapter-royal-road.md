@@ -1,0 +1,281 @@
+---
+id: 560164d7-90e0-52e5-9ada-8e09d2b2e3b8
+page-type-slug: story-chapter-royal-road
+title: "4: La Verónica"
+slug: 0004-4-la-vernica
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 4
+ownLength: 3680
+unit: words
+publishedAt: 2023-02-06
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1106982/4-la-veronica"
+royalRoadId: "1106982"
+---
+
+Fifteen minutes passed as they ventured past the small clearing and deeper into the forested land, choosing the path that allowed the most light to cascade through the intertwining network of branches that had formed an expansive canopy. The group had been in agreement on that decision, taking the least unwelcoming path being the most rational, uncontroversial decision they could reach.
+
+Names were exchanged, offering a modicum of familiarity to the group. Walking across a landscape that had been wiped of all traces of human civilization, upon a planet that had belonged to them and their kind merely up until a few hours ago— having the familiar turned into the unknown and the hostile… the psychological toll inevitably weighed down upon them.
+
+Names, really, were the only thing they were allowed to carry from the old one to this unchartered landscape.
+
+Andrew was the name the burly man had chosen to introduce himself with and Jack had no reason to believe otherwise. The brunette’s name was Sarah, the black-haired Ranger, Trent.
+
+Their formation had required some debate, with Jack acting as the subtle, mediating element. Though no one had said it aloud, they didn’t want to turn their unguarded backs to the man with a bow and arrow.
+
+So Trent walked in the center, with himself and Andrew on his either flank while Sarah was positioned in the rear, not far back enough to make her uncomfortable or isolated, but a fair distance outside her spear’s reach.
+
+“So guys,” Sarah softly murmured, the discomfiture in her voice audible despite her muted tone. “What next?” she asked, the simple question voicing out the doubt that was coursing through all their minds.
+
+Jack’s focus was on his surroundings, as he repeatedly utilized his [Inspect] skill.
+
+[You have successfully inspected a Level 0 Anarix Tree.
+
+Description: Originally an evergreen corniferous tree, now influenced by the residual blessing of the Divine Flames, a new subspecies named Anarix Tree has been born. The Anarix Tree enjoys a longer lifespan, increased density and disease resistance, but otherwise exhibits no arcane properties.]
+
+“Trent, did you find anything?” Jack asked, his voice barely above a whisper.
+
+“Erm,” Trent murmured, his gaze shifting to a clump of violet flowers that were clustered next to an Anarix Tree. He sighed before answering, “Nothing. It’s... well, the System has descriptions for them, but it’s all been mundane stuff so far. Everything besides, well, us, seems to be level zero,” he explained.
+
+Of course, Jack had inspected the others almost immediately after they set off, but besides their first name and their level, the rest of the information was off-limits to him. As for leveling his [Identify] skill, well, the System hadn’t conveyed how to do that, but he had a few ideas he could try.
+
+Jack gave him a light nod, his gaze once again shifting to the surroundings.
+
+“I’ve been surveying our surroundings,” he spoke, in answer to Sarah’s question. “So far, I’ve seen none of the usual signs of human activity. No visible trails, no discarded trash, no footsteps and even the unwelcoming buzz of insects, the birdsong of a canary… it’s all gone. I suspect that this world no longer possesses or needs a functioning ecosystem,” Jack’s voice was grim as he spoke those words aloud.
+
+“What does that mean for us?” Sarah asked, biting her upper lip out of anxiety.
+
+“It means that we have nowhere left to go,” Andrew intruded upon the conversation, a glimmer of pain reflected in his eyes.
+
+Sarah’s breath quickened a little.
+
+“It also means that from here onwards, our paths are our own to forge. Keep your eyes open for landmarks, cavernous structures, open clearings…. basically, anything we can use to our advantage, any structure we can use to map our surroundings and any place we can construct a shelter,” Jack was surprised how calm he’d managed to make his voice sound. Playing the role of a doomsday prepper for so long, it was surreal to find himself confronted with the real deal.
+
+“Plus, we don’t have to worry about food and water,” Trent added, in an effort to spread some cheer. Perhaps more for himself than the others.
+
+“Right,” Sarah smiled, or atleast tried to, in an effort to stymie her quivering hands.
+
+None of them had activated their Class Skills yet, a decision reached after mutual agreement. Not only would that lower their Qi Pool wastefully, there was also the possibility of attracting a monster that they so desperately hoped to avoid. Besides, Jack wasn’t worried about not being able to use Qi Blade in combat, not really— a Skill in his mind was just ingrained instinct, a piece of experience that the system had somehow transferred to his consciousness, saving him years of study.
+
+“Withdraw,” a whisper sounded out, causing Jack’s gaze to flicker towards Andrew.
+
+Space warped above the palm of his outstretched right hand, a small reddish-orange pill landing upon its center.
+
+“What?” he mouthed to Jack, noticing his glare. Without further hesitation, he swallowed the pill. “I was hungry,” he added, even when he knew that the group had promised not to check their inventories until they found a safe haven, or the beginnings of one— mostly because they couldn’t afford the distraction.
+
+Well, besides a recovery pill. Each person was to monitor their side, Trent watching the front and Sarah making sure nothing snuck up their rear, atleast not without a warning in advance.
+
+Jack sighed, shaking his head and returning to monitoring his surroundings. What he wouldn’t do to have a group of professionals at his side, preferably ex-army mercenaries, like the guys he employed for his security back at his manor. Though, he supposed that without the generous salary he had been paying them monthly, they had no real incentive to not abandon him at the drop of a hat besides loyalty.
+
+He supposed that his money, even if he could access it somehow, had no value in this new iteration of Earth.
+
+Here he wasn’t Jack Anderson, absconding heir of the Anderson Media Group, his fortune counted in the tens of millions.
+
+He was just Jack, a human as exposed and vulnerable as the people next to him.
+
+How refreshing, He thought.
+
+The muted crack of a branch interrupted his musings.
+
+It was followed by the vigorous rustling of a cluster of tightly packed bushes that were painted in a light green hue tinged with smatterings of violet.
+
+A silhouette burst out from the shrubbery seconds after, from Andrew’s side. Instead of following a direct path to them, it was following an arcing one, exiting ahead of their group.
+
+“Activate your skills!” Jack screamed as he pivoted on the balls of his feet, priming himself to face the oncoming threat.
+
+Adrenaline coarsed through his veins. An azure light flashed in his gaze as Jack activated his skill, his neural pathways tracing the instinct that had been engraved into his mind. He felt, or perhaps, sensed an entire new network of venous structures running across the length and breath of his body, including his brain.
+
+He instinctively understood that they were responsible for channeling Qi through his body, tracing the network’s origin to a spot little below his navel in his mind’s eye— finding a small whirlpool of sky blue energy, seemingly both the source and the cause responsible for distributing and directing Qi towards his sword wielding hand.
+
+It was like having a second heart, one with an entirely novel, arcane purpose.
+
+The entire process took three steps— directing the constantly flowing Qi through his chest, cycled towards his arm and then finally extended outside his body, enveloping his sword.
+
+The last step was the trickiest, as it required him to first visualize the sword’s general shape and structure in his mind’s eye and then continuously maintain that visualization. What should have required months, if not years of practice, came naturally to him, as if he had repeated the motion hundreds of times before— taking no more than an instant.
+
+He took a quick glance at his sword, taking a second to examine the azure sheen that had enveloped the blade, a thin layer of Qi shimmering across its surface, enhancing its already deadly sharpness by another degree. Immediately after, his gaze shifted to the fast approaching silhouette that was nearing their group.
+
+“Trent, shoot!” Jack hollered at the archer, who had seemingly gone into a daze upon being confronted by the fast approaching creature.
+
+It’s fur was a mass of dark, inky blackness, two elongated crimson horns stretching out from its forehead, eerie blood red eyes trained upon their group and incredibly dense leg musculature that resembling more an oxen’s than a boar’s; which was the closest parallel he could draw to the porcine, four legged creature, that looked far more wicked than even the most feral of wild boars.
+
+Trent, who had found himself trapped in a stupor after drawing his bow, an azure glow radiating from its tip, snapped back into reality upon hearing Jack’s words.Without his meaning to, the arrow slipped out of his grasp, propelled forward with an eye-catching azure glow, most likely the skill, Qi Arrow.
+
+Jack grimaced as he saw the arrow graze past the most likely, genetically modified animal, sending a burst of black blood spilling onto the grass.
+
+The creature continued its charge with a furious, bloodcurdling roar.
+
+“Scatter!” Jack bellowed with a commanding tone, his voice tinged with the urgency of the situation.
+
+Trent broke out into a sprint. Sarah let out a little yelp as she dived towards a tree, hoping to use it’s trunk as cover. Andrew hesitated for a long second, before turning his back and fleeing.
+
+As for Jack, well, he stepped forward instead.
+
+Towards him charged death, in its raw, primal form. It’s approach was unmitigated and anyone capable of assisting him in meeting it had already fled his side, by his very own command. His adrenaline fueled heartrate had reached its crescendo, causing him to exhale a cool mist as he studied the beast’s approach, the sound of its hoofbeats thumping against the ground.
+
+This was it.
+
+The sensation he had been chasing.
+
+In his sparring, he had always found something to be lacking. An invisible step that left tantalizing clues pertaining to its existence, yet never truly revealing its presence. His instructors were the crème de la crème, the absolute best even among the best, yet he had always found something lacking in their teaching style, a certain softness that he could not shake off.
+
+For one could trick the mind, but only to an extent.
+
+No matter how far he tried to mentally push himself, he still remained Jack Anderson, the training swords they were practicing with remained wooden and his security team maintaining an eye on him killed the final hope of immersing himself in the heat of battle.
+
+This one moment had pushed himself closer to that step far more than years of training had. Less than ten meters separated the beast from his person, drawing closer with every second.
+
+A euphoric smile spread across Jack’s face as he finally found himself tested with a question every soldier who had experienced combat got to ask himself-
+
+Kill or be killed?
+
+Seven meters.
+
+Jack noticed how the boar charged forth without any hesitation, either confident in its ability to kill or maim anything in its path or lacking in intelligence. Either way, it was moving too fast to pivot at this point.
+
+Five meters.
+
+Up until now, he had remained rooted to the spot, as if his self were consumed by fear, the smile on his face reflective of hysteria instead of cockyness— atleast, that was how it seemed to Sarah, who watched with a horrified expression as the man who’d indirectly saved her life by shouting out a warning call in time, was a few seconds away from being gored to death.
+
+The smile on Jack’s face only widened. In his mind’s eye, he had already choreographed his movements half a dozen times. When the time came, he moved with unprecedented swiftness, a refinement seeping into his movements that was honed at the precipice of life teetering into the realm of death.
+
+That invisible step….was invisible no longer.
+
+“La Verónica,” Jack lightly whispered under his breath, referencing a maneuver from spanish bullfighting— drawing the bull’s ire with a large, crimson colored cape, misguiding its approach and then following up with an incredible display of skill and fearlessness, draping the blood-red cloth over the bull’s eyes and letting it pass by, leaving the bullfighter unscathed.
+
+Jack did not have a convenient, eye-catching cape at hand to bait the beast with, but as he sidestepped its ferocious approach with far thinner a margin than he’d originally anticipated, a violent spray of black ichor exploded outwards, drenching him in the murky blood.
+
+For not only had he successfully evaded it’s onslaught, but his objective, from the very inception the thought bloomed in his mind, was to counter-attack.
+
+So he had, jutting the tip of his Qi Enhanced blade outwards and letting the beast’s rampaging momentum do the rest. Jack let the beast slice itself on the tip of his blade as it slid past by him, it’s acceleration too quick and too unbridled for its own good.
+
+A long, deep laceration was rent across the beast’s fur, stretching in a straight line that extended all the way from its porcine head to its hindquarters. It’s furious charge gradually lost momentum after sprinting for another ten meters, followed by a screeching, soul piercing grunt, leaving behind a trail of lifeblood in its wake. With a final whimper, it crashed onto the soft grass, returning to mother earth’s embrace.
+
+Alarmed by the screeching, Andrew snuck a covert glance over his shoulder only to be met by a sight that exceeded his wildest expectations.
+
+He watched on with a muted shock, both at the smiling, blood-caked man who stood tall and the dying throes of the ghastly beast.
+
+Curiosity got the better of Sarah as she peeked from behind cover, her spear jutting out defensively. Her lower lip began to tremble as she fought back the urge to exclaim in a melange of disbelief and joy, a question making it’s way to the forefront of her mind: just who was this man?
+
+Trent lowered his bow, letting out a deep exhale in relief. The sequence of events were lost on him, but for now, he was just relieved that he wouldn’t be compelled to fight that alien beast.
+
+Jack felt the euphoric sensation beginning to wane, the adrenaline spike receding, having accomplished its intended purpose. However, the heady battle rush, the thrill of staking his life upon the sharpness of his mind and blade, of reflex and skill, that sensation still accompanied him, making him feel like he was truly alive and living in the present for the first time in a decade.
+
+The ghosts of the past, his past, relinquished control over his psyche, if only by a little.
+
+For in that little, rested a new beginning.
+
+As he walked over to the beast’s carcass, system notifications began to pop up in the center of his vision.
+
+[You have successfully inspected a Level 2 Twilight Boar, Trial Classification: Evolved predators from Earth’s fauna, after its demise.
+
+[Description: Originally a Eurasian Wild Boar, this native planet creature has been blessed by the Divine Flames, significantly strengthening its natural defenses and granting it the ability to cultivate via a beast core.]
+
+[Congratulations upon successfully inspecting an enemy one level above you. Inspect has reached level 2!].
+
+[Congratulations on successfully killing an enemy one level above you with skill, Qi Blade. Qi Blade has reached level 2!]
+
+Jack flinched a little as the Twilight Boar’s carcass burst into ethereal blue flames, forced to fight down his instinct to flee as he realized that it was pure soulflames, or more simply, Qi, flowing towards him.
+
+He offered no resistance as the soulflames wreathed him in their embrace, feeling no pain or discomfort as they seeped into his body.
+
+A set of images flashed in his mind’s eye, allowing Jack to observe as the blue whirlpool of energy first rotated inwards, sucking in the excess Qi flowing into his body, almost doubling in size before its growth slowed down.
+
+In a quick followup, the whirlpool of energy reversed its flow, beginning to disperse energy through the venous network, a mimickry of the heart pumping out oxygenated blood to every part of the body except, with every cycle, the whirlpool grew smaller in size.
+
+At the end of the process, the whirlpool was only slightly larger than before as it stabilized.
+
+[You have received 884 (soul) experience for successfully slaying the Level 2 Twilight Boar!]
+
+[Swordsman (Basic) has reached level 2! +5 Free Points, +1 Qi Pool has been awarded. ]
+
+[You have unlocked a new skill: Qi Pulse!]
+
+Once again, ingrained instinct flowed into his mind, forming a specific neural pathway that chained together a set of instructions into being recognized as a cohesive whole by his mind— resulting in the creation of a skill.
+
+The entire process took less than a second, making Jack once again marvel at the ability to essentially 'download’ information into his mind, the ethical and philosophical questions being set aside for the moment. There naturally had to be constraints or laws that this otherworldly ability subscribed to, for otherwise the concept of levels was just a meaningless charade.
+
+The Arbiter had made it clear that this alien incursion held a deeper purpose behind it and the arcane being had little incentive to lie to, well, an inferior lifeform.
+
+[Looting Twilight Boar….
+
+You have received 56 Tutorial Points + 26 Tutorial Points (First Kill Bonus).
+
+You have recieved Qi Gathering Pill x1. It has been deposited into your inventory].
+
+The grin on Jack’s face grew wider.
+
+So the more I fight, the stronger I'll get, He thought, noting how both Inspect and Qi Blade had reached level two after he’d used it on the Twilight Boar.
+
+And the more I kill, the greater my odds of survival, He thought, referencing the 82 Tutorial Points and the Qi Gathering Pill he’d received for killing the Twilight Boar, along with the soul experience boost that had garnered him another level. While he didn’t yet know what Tutorial Points would allow him access to, the Qi Gathering Pill was already immensely useful on its own.
+
+[Qi Gathering Pill, Basic-Rank Alchemic Pill
+
+Description: Doubles the Qi pool’s rate of regeneration for upto a maximum of five regenerated points across a maximum of twenty four hours.]
+
+Even that brief stint with Qi Blade that had lasted a minute from the point of activation had shaved off an entire point from his Qi Pool, highlighting both how lacking the size of his Qi Pool was and the inefficiency of his skill.
+
+Thankfully, leveling up his skills addressed both those points.
+
+Statistics, he thought, and another blue screen popped up before his eyes.
+
+[Name: Jack Anderson
+
+Cultivation Stage: Qi Gathering
+
+Race: Human [Unrefined]
+
+Class: Swordsman [Basic]
+
+Class Level: 2 (384/1000)
+
+Dao Mark: Inert
+
+Minor Dao Fragment: -
+
+Skills: Inspect (Lv.2), Qi Blade (Lv.2), Qi Pulse (Lv. 1)
+
+Statistics:
+
+Strength: 6
+
+Constitution: 6
+
+Intelligence: 9
+
+Wisdom: 7
+
+Dexterity: 8
+
+Perception: 8
+
+Free Points: 5
+
+Qi Pool: 10/11
+
+Tutorial Points: 84]
+
+Invest three in constitution, two in perception, Jack immediately thought to himself, without the slightest inkling of hesitation.
+
+For, standing in an open clearing, as unguarded as he was, there was little time to mull over the decision. Constitution would help shore up his natural defenses and perception was a stat he prioritized over pure physical or mental attributes— the ability to sense an oncoming attack or an ambush even a few tenths of a second earlier could very well mean the difference between life and death.
+
+A golden spark ignited in the blue whirlpool of energy that regulated and directed his Qi Pool, spreading like a wildfire as it dyed the vortex in a radiant golden, only for a single cycle before it was dispersed to the rest of his body through the venous network.
+
+His muscles began to wildly spasm and writhe unnaturally, subtle enough that one would not notice if they were not studying him carefully, but Jack knew that he wasn’t imagining it.
+
+It was uncomfortable, like an itch that he could not, despite the best of efforts, manage to scratch, but never did it approach even close to the threshold of pain, it’s intensity limited to a mild, throbbing discomfort.
+
+Immediately after, his gaze felt like it sharpened, his pupils alternating in a cycle of rapid dilation and contraction, causing a strong wave of vertigo to wash over him. The process only lasted for a few seconds or perhaps, even less; it was hard to gauge as his head began to spin, but he managed to power through.
+
+Damn, was that a trip and a half, Jack thought, as he waited for the wooziness to clear away.
+
+Stretching his left hand outwards, he clenched and unclenched his fist, tracing the palmistry lines in an effort to seek out a modicum of familiarity in his own musculature. His body felt more robust, his senses keener; all in the matter of seconds.
+
+Jack wiped the smile off his face, though perhaps the damage was already done. He took a few seconds to observe the Twilight Boar’s dilapidated carcass, it’s muscles losing its stringiness as the Qi empowering and holding it together was sucked away by him.
+
+At this point, the others probably thought him insane. Bipolar, perhaps. A veritable madman, most likely.
+
+But in his eyes, the world had gone insane first.
+
+He was merely adapting to it.
+
+“Incoming!” A shrill, panicked voice exclaimed, snapping Jack out of his reverie. His gaze immediately shifted to the source of the utterance, finding Trent, his glowing arrow tip pointed towards a thicket that rested at the very periphery of Jack’s line of sight.

@@ -1,0 +1,241 @@
+---
+id: 1ed3960a-d28c-526d-ac23-77a06b13500f
+page-type-slug: story-chapter-royal-road
+title: "v7c8: Party Formation"
+slug: 0261-v7c8-party-formation
+partOf: beware-of-chicken
+position: 261
+ownLength: 2749
+unit: words
+ownProgress: 2749
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2817265/v7c8-party-formation"
+royalRoadId: "2817265"
+markedReadAt: "2026-06-29T19:00:22.048Z"
+---
+
+It was only once we started really planning things out for our little adventure south that it really hit me that this was going to be the longest amount of time I would be spending from my home since arriving here.
+
+This wasn’t going to be the roughly two weeks I had spent at the Dueling Peaks. This was going to be closer to five or six months. Five or six months of constant travel, constant meetings, and constant cultivator… stuff.
+
+Five or six months where I wouldn’t be tending to my home, where I wouldn’t really be farming.
+
+It felt kind of wrong; an uncertainty, deep in my soul.
+
+And yet, it was necessary. Tianlan had been hurt during the solstice, in some places, quite badly. Her Qi leaked out into the world like blood, and as long as those rips and tears were there, she wouldn’t get better.
+
+The problem was that to fix them, I had to actually go there. I had to be the one to help Tianlan physically put those locations to right. I was the locus of her power, and of her thought. While she could send little tendrils of herself to go and watch over others; she needed her full and undivided attention to actually fix the damage, along with my help.
+
+Tianlan was hurting. The dull ache deep in my bones scratched at the back of my mind constantly. This was getting fixed, so she could have some relief. And if we were going south anyway, might as well combine the trips. All of the sects of the Azure Hills wanted to meet with me, so why not? I would meet them. Reassure them that the whole demon invasion thing had been taken care of.
+
+And finally? Meimei wanted to see more of the province. Though there was a bit of trepidation and worry in the way she was doing things, I could tell she was excited to travel with me, to see things she had only read about, and learn whatever she could.
+
+I had promised to take her around the province. What kind of man would I be if I didn’t deliver?
+
+Outside of what we would pack, and where exactly we were going, there was another important thing we needed to decide.
+
+Who would be coming along, and who would be tending to the farm in our absence.
+
+“So who wants to come along, and who wants to stay?” I asked at dinner, opening the floor.
+
+The first person to speak was actually Big D.
+
+“My Qi is still unstable from my injuries,” the rooster said, in his natural form at the moment. “I still need time to rest and recover. Perhaps, when I am fully well, I shall join you. But for now, I’m just happy that I get to take up my original duty once more. Rest easy, Master. Your First Disciple shall guard your coop.”
+
+That, at least, was quite a relief. If there was anyone I could trust with my home, it was Big D.
+
+“Naturally, I shall also be staying,” Peppa stated primly. “The house needs to be tended to and be readied for your return, Master.”
+
+“It is good that you are staying, for I shall need your guidance, Sister, lest things fall into disarray!” Big D said with a crooked smile. “Last time I was alone tending to the house, I made a mess of things!”
+
+He was referring to the whole situation that had happened with the rats in our first year, who had eaten nearly all the Jewel Herbs, and who had nearly killed both him and Chunky.
+
+His tone was joking, but there was a certain amount of seriousness there.
+
+“Impossible,” Chunky rumbled. “Brother never makes same mistake twice.”
+
+“My husband is correct. The First Disciple never makes the same mistake twice, and we are happy to follow him as Steward while the Master is away,” Peppa finished. Big D looked quite touched by their words.
+
+“Chunky will stay with wife,” the boar said with a small, serene smile. “Land here still hurt. Will help fix.”
+
+From there they turned to Ri Zu. The little rat glanced from them to Meiling then back again, obviously conflicted, before letting out a breath. “Ri Zu has been away for a while, and has gone on many adventures recently. A bit of a break seems like it would do her some good.”
+
+The four of them nodded.
+
+“What about you, Wa Shi…?” Big D trailed off when he turned to look at the fish, an eyebrow raised. Washy looked up from where he was arranging cooking utensils, preserves, and bags of nuts on top of a cloth that was lying beside a pole.
+
+His fishy eyes stared back at them.
+
+“I’m going to where the food is,” he stated. “Tigu bragged so much about trying new things! How ever could I not go?”
+
+His eyes blazed with passion, and a single muscled arm was raised into a fist.
+
+“Fair enough,” I said, amused. Washy nodded happily, then turned back to planning his pack.
+
+Noodle, Bowu, and Vajra were staying, though Vajra was going to send a couple of her bees to accompany us.
+
+“After we finish this up, we'll join you.” Yun Ren said, tapping the checklist Gou Ren had given him. “Ain’t much to do when everything is planted anyway.”
+
+‘Master said I should stay here for a while, if that's alright with you?’ Spooks asked. ‘He says your home is very good for me.’
+
+“Of course! You can stay as long as you like,” I said, and the Thunderhoof preened. I then turned to the last of our number. “What about you, Babe?”
+
+The ox considered my words carefully, mulling them over.
+
+‘If you shall have me, I would travel with you. Though the thought of going south makes my spirit waver, it is something I must conquer. And chronicling this adventure seems like it would make for a good story,’ he said. His voice was calm and quiet as always.
+
+“Of course, we’ll be happy to have you.” I said. “Gramps?”
+
+“Oh, I shall be here and there, I suppose,” he said enigmatically. “My disciple here still needs training, and I must recuperate. I may join you for a day or two, and then be gone the next.”
+
+I nodded.
+
+So me, Mei, Zhuye, Babe and Washy. With gramps, Yun Ren and Biyu popping in and out every so often. Not a small group, but not a large one either.
+
+And the next day Peppa did bring up a good point while meeting with the foxes. We might have to go and do cultivator stuff for hours. An extra pair of hands to keep everything running smoothly - and our son occupied - would probably be helpful.
+
+===============================
+
+Su Suyan’s breathing was calm and even. Her ears betrayed not a moment of her discomfort, standing as she was in the home of Master Jin. Her black hair was pulled into a no-nonsense bun, and her tail was immaculately groomed, the white tip drawing the eye like a banner.
+
+It felt good to have them out in the open and unrestrained, without the undercurrent of worry that it normally had.
+
+“This is the most important assignment of your life, Suyan,” Lady Nezuhua had said, her eyes focused and serious.
+
+Her mission? Serve Master Jin and attend to his son and heir.
+
+A heavy task indeed for one not yet into the Spiritual Realm.
+
+At first, the idea had been floated that Lady Yuanlin should take the role… but that idea was quickly discarded.
+
+Lady Yuanlin was the strongest of them outside of Honoured Uncle and would make for the best bodyguard. Yuanlin was strong and fierce. She was a hunter and tracker without compare, and could spirit away entire groups of their kin without a trace… but Yuanlin wasn’t exactly domestic. She was made for the rough and tumble frontier, wild and untamed. She could probably do everything a maid could do, but first she would have to learn all the duties of one.
+
+So instead, they turned to the weaker, but better-prepared option. Suyan, at the Fourth Stage of the Profound Realm.
+
+She was not the strongest of them. She was not the most talented of them. She was, in the end, nothing really special; her only ability was that she was good at working hard. She had the blood, when so many didn’t. She was trueborn, her ears, tail, and illusions proof that she was related to their forebears. She had to be strong, for the rest of them.
+
+When her family called, Suyan answered.
+
+The rich and the powerful paid very well for cultivator bodyguards and couriers, and that money went to her far-flung kin. Suyan could not remember a time when she wasn’t working. Fighting off assassins, braving the secret paths of the mountains through Spirit Beast-infested territory. Cultivating as hard as she could on the scraps she kept, eking out just a bit more strength that could be used to protect her kin.
+
+Suyan never said no. Whenever they asked for help, she was there. Nothing was beneath her. She could cook, she could clean, she watched children, and had even delivered them, in the truly far-off villages.
+
+The decades had taken their toll. She was tired. She was exhausted.
+
+But her family had called. Suyan would answer. Even here, where the others could rest, she had work to do to ensure their safety. So she shrugged off the exhaustion and bone-deep weariness as she always did, forming a mask of ice. An illusion, but one that had served her well all these years.
+
+Guard the Young Master with your life, she had been commanded. And so she would.
+
+“The Master and the Mistress will see you now,” the pink-haired servant, Pi Pa, said politely, inviting Suyan into the living room.
+
+There, Master Jin sat beside Lady Meiling. The man had a mask of friendliness, while the woman’s eyes speared her like a fish. Only long experience kept her from freezing at that gaze.
+
+“My Lord. My Lady. This one is Su Suyan,” she introduced herself, lowering herself into a kowtow to show the proper reference to their benefactors. Perfect. Precise. The best foot forward for her people.
+
+The exhaustion was merely a weakness of the spirit to be overcome.
+
+When she rose, Lady Meiling was looking at her with an odd expression.
+
+And then, they tested her. Hypothetical questions. Cooking. Cleaning. All the things a servant would have to know, and she answered perfectly, her knowledge from her time serving in noble houses exacting.
+
+After that was the more physical aspect. They wished to test her skills.
+
+Her opponent was Young Master Bi De. The red-haired man stood before her, his eyes focused upon her. She had been given a bundle to simulate what would be her future charge.
+
+“You will be charged with protecting my little brother,” the man said, his intent pressing down upon Suyan. “I shall see if you are up to the task.”
+
+“Begin,” Master Jin commanded.
+
+Suyan, in one motion swapped the bundle to her chest, hit Young Master Bi De with the most disorientating illusions she had, and sprinted as fast as her legs could carry her away.
+
+She got quite far before the man was upon her, striking down from the heavens.
+
+He passed straight through her illusory body—and then Suyan gasped as a barrage of needles struck from her blind spot.
+
+With a flick of her wrist, the dagger she carried in her sleeve fell down into her hand. She deflected all of them—and the shadows boiled, releasing Miss Ri Zu upon her.
+
+Daggers, throwing knives, and concealing mist battled against needles and blades of moonlight.
+
+================================
+
+Suyan was barely standing by the end of it, and was doing everything she could do to not show it—even while she was being tended to by Miss Ri Zu, purging the paralytic from her system.
+
+She had used her body to shield her false charge from the barrage, then tied off the limb to prevent it from spreading beyond her arm.
+
+The world was swimming, but she was upright.
+
+Bi De looked to his master and nodded once.
+
+“Then I suppose there's one last test,” Master Jin declared. Lady Meiling walked out of the room, and upon her return there was a child in her arms.
+
+Young Master Zhuye. The child blinked blearily, sniffling. He had clearly just woken up.
+
+He sniffed again, and then he paused.
+
+“Ah!” Young Master Zhuye gasped from his mother’s arms and looked directly at her. Really looked at her, with big purple eyes. He sniffed like he was smelling something, and his brow furrowed.
+
+And then, almost hesitantly, he reached out for her.
+
+“Ah!” he said, pointing at her. His mother looked to him, then back. “Ah!” the child demanded again, pointing at Suyan, and making grasping motions.
+
+The Lady observed for a moment longer, and then stepped toward Suyan and offered him for her to hold.
+
+Suyan blinked in shock, but then forced herself into action, reaching up to take the child into her arms. Her tail came around her waist of its own accord, wrapping around her new charge and forming a soft, warm blanket for him.
+
+The child, however, was focused on her. Those big purple eyes looked up at her with concern. He patted her tail… almost like he was trying to comfort her.
+
+Somehow, he could tell. And the first instinct of this little lord… was to try and make her feel better.
+
+Suyan’s heart melted. The crushing, grinding feeling lightened just a bit.
+
+She felt a small smile spread across her face. She reached down and took a hold of the little hand that was patting at her tail.
+
+“Thank you for your concern, Young Master,” she said, smiling down at the little one in her arms… and then she remembered that his parents were watching. She stiffened.
+
+Lord Jin and Lady Meiling looked at each other, and nodded.
+
+“Well, that's a glowing endorsement, no?” Lord Jin asked.
+
+“I suppose it is,” Lady Meiling agreed. “Shall we discuss compensation?”
+
+Suyan blinked.
+
+“Compensation? My Lady, we are already being compensated—” she began.
+
+“That will not do,” Lady Meiling declared. “Pi Pa?”
+
+Miss Pi Pa came forward with a sheet of paper. Suyan’s eyes widened.
+
+“You wish for me to choose one of these?” Suyan asked carefully, looking at the bounty of resources that they were offing.
+
+“Choose?” Pi Pa asked. "No, that is everything you are being paid.”
+
+“Oh,” Suyan said in a very small voice.
+
+====================================
+
+“Oho? Our little man likes foxy ladies,” I teased Zhuye while he looked out at Suyan. She was being led away by Peppa to the guest house so she could start her training tomorrow.
+
+Meimei chuckled and ran her fingers through Zhuye’s hair fondly.
+
+“I think he could just smell that she needed a nap,” she said. “She arrived with her Qi smelling like she had just finished a hard training session. Beneath the front she was putting up, she's absolutely exhausted. But considering their circumstances before this…”
+
+“She did all that on half a pot of oil?” I asked, using a local idiom.
+
+“Yes. Some sleep will do her some good. With luck, we won't need her combat skills at all… but it will be nice to have somebody who will absolutely be available to watch Xiao De if we need them to. I have a feeling Wa Shi and Bei Be are going to want to do their own thing.” I nodded. She had passed every test with flying colours.  “Also, she's going to look really, really good in that black and white outfit you drew.” Meimei continued, cupping her chin and nodding sagely.
+
+“Yeah, she will—” I paused and turned to my wife, who had a lecherous grin on her face.
+
+“Oh husband, lusting after the help…” she mock-scolded.
+
+“You actually sewed one of those outfits, didn’t you?” I asked. Meimei just smiled and gave me a thumbs up.
+
+….she won this round, damn it. I turned away, crossed my arms, and refused to speak to her like an extremely mature and reasonable man. “I’m not lusting. I’m appreciating,” I said with great dignity. Battle maids and combat butlers are cool.
+
+Meimei, of course, just laughed at me.
+
+=======================
+
+======================
+
+Editors: Massgamer, BargleNawdleZouss, Brandon “Philosophysics” Zhang-L

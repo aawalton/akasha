@@ -1,0 +1,111 @@
+---
+id: 67d8a3f3-b9fd-57bc-a8ee-0e94824d686d
+page-type-slug: story-chapter-royal-road
+title: "129. New Heights"
+slug: 0129-129-new-heights
+partOf: breaker-of-horizons
+position: 129
+ownLength: 2130
+unit: words
+publishedAt: 2021-07-26
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/723215/129-new-heights"
+royalRoadId: "723215"
+---
+
+Caden got to his feet, and a feeling of euphoria buoyed him as he took several tentative steps towards the ring of glyphs at the edge of the clearing.
+
+'What is it?' Emilia asked, rising as well.
+
+'I can read a part of it,' Caden replied in a daze, his mind still running through the possibilities, implications, and consequences if he made use of the key in his metaphorical hands.
+
+Emilia strode towards him, and Caden caught a complex wash of suppressed hope mingled with excitement. 'Where? How?'
+
+'Ambrose has a technique that allows him to transmit knowledge through arcana. It's how he passed me a combat-grade sequence when we were trying to lose the enemy agents in Geldor. Yesterday, I got him to teach me how to do the same thing. It turns out that it's really just a way to transmit these mental poses we've been talking about. But that's why it's so important. Because his technique gives a frame of reference for what these mental poses are. It... it names them.'
+
+Emilia frowned, trying to follow his explanation. 'So there's a glyph that represents this concept of mental poses?'
+
+Caden shook his head. 'No, it's not so simple. Honestly, it seems to me like it's a whole sequence, but even more than that. It's...' he struggled to find the words and concepts that went along with this. 'It's like how individual letters have their own sounds, but you string them together to form words. And then words can be put in any order to form sentences, but sometimes the same words have different meanings if you put them in different sentences. This is... this is a collection of glyphs, of words, that form a... a shape of meaning, of knowledge. A shadow of thought.'
+
+He realised he was just parroting the words that the augera had used, but there was no other way he knew how to phrase it.
+
+'How did Ambrose come across it?' Emilia asked.
+
+'I don't know the "how", but the "why" is obvious. He's the Chosen One. If I had to hazard a guess, I'd say he got it when the Geldor augera spoke with him. But nevermind that! I think this means I can sort of... unlock the meaning of the whole sequence that's changing you. Then we can figure it out, and find a way to break through it.'
+
+Caden reached out towards the familiar portions of the sequence in the ring. He didn't need to move, but he found his fingers stretching out regardless, his mind too tied to the physical for him to completely ignore the impulse.
+
+'Wait!' Emilia shrieked in sudden panic.
+
+There was a flurry of movement in the arcana as Emilia lashed out at him to stop him from making a connection with the sequence in the ring. Caden jerked away, startled, and the air around him bristled with conjured shields as he turned to face her. 'What are you doing?!'
+
+'Wait,' she repeated, panting slightly, her eyes wide and staring. She gestured to indicate that she needed a moment to catch her breath. Caden watched her, completely nonplussed.
+
+'You're like me,' she managed to say after a moment, sounding a little calmer now as she straightened up. 'Sighted. You were in my place in the Prophecy gestalt, before your father pulled you out with his orbs, and before the augera made that effect permanent.'
+
+'Yeah. So?' Caden asked warily, still maintaining the shields around him.
+
+'So this sequence could work on you just as it is working on me. It could change you, too. Transform you. It was originally meant for you, after all. I'm just the replacement. And knowledge binds. If you unveil the full meaning of the sequence using what Ambrose gave you and you understand it all at once...' she trailed off.
+
+This was oblivion, but Caden felt his blood run cold anyway. In fact, that thrill of terror sank through his entire auric-ambient-flare and paralysed him so thoroughly that it was almost a whole minute before he regained full possession of his faculties since he had to beat back the wave of debilitating emotion.
+
+Emilia started pacing around the clearing, her agitation bubbling beneath the surface. 'What if you tried to understand the sequence in segments? No, then you'd just be in my position. And it's a gamble that assumes the portions you understand will be the segments we need to break. And we're also assuming that the thing can be broken with only partial understanding.'
+
+'Well...' he swallowed and glanced at the sequence before looking back to Emilia. 'The way I see it... either we let you get changed by the sequence as the Prophecy intends... or I step in and get transformed in your place, and we thwart this branch of the Prophecy.'
+
+She stopped pacing and stared at him. 'T-thwart the Prophecy?'
+
+'This branch, and only momentarily,' Caden clarified. 'I think this moment is so fundamental to the Prophecy that even if we delay it now, it'll work its way around again. But if I get transformed in your place, at least that'll buy us some time.'
+
+'You don't even know what it'll do. It refers to this moment as turning one anchor into "bones". You could die.'
+
+That was possible, but something about it didn't seem quite right to Caden. 'I'm sure it's dangerous, but I don't think it's meant to kill. The augera call it a transformation. I think... I think it's meant to impart some sort of power. And the person who gets transformed is supposed to be linked to the Chosen One by the Prophecy, so I think that means the Chosen One will be using that person's power as a foundation for what's to come.'
+
+The look of worry and agitation on Emilia's face didn't exactly disappear, but curiosity and interest were clearly vying for prominence. 'So you mean to steal that power. And as someone not bound by any Prophetic links, you would be free to wield it as you see fit.'
+
+'I would obviously be using it to help my family and friends if that's what you're concerned about,' Caden replied testily. He didn't like Emilia's choice of the word 'steal'.
+
+She seemed to pick up on that. Her lips twitched ever-so-slightly and she cocked her head. 'You would be more powerful than everyone. Maybe even the Chosen One. And utterly unconstrained. A fascinating loose cannon. A dangerous experiment.'
+
+There was something strange about the way she was behaving now. Caden thought that this was odd, even for Emilia. It didn't help that the arcana in the air was stirring, slowly shifting to accommodate the change in the stance of her mind. Here in oblivion, the streams of information were so rich that he could tell she was softly reaching out for the arcana.
+
+'Emilia, what are you doing?' His shields started humming slightly as he fortified them even more.
+
+The look of distracted fascination on her face gave way to her usual blank stare, but beneath that facade, Caden could see the shape of her mind settling into place with a steely resolve. 'I've followed along with your plan to free the augera. I've been strung along by the Prophecy to this moment. But you're here, Caden, when you shouldn't be. Your very presence is giving me choices I never would have had. So thank you.'
+
+'If you're thanking me, then why does it look like you're about to attack me?' Caden demanded.
+
+She fixed him with a steady gaze. 'Because I believe in what you're doing. And I'm choosing to do what I can now to make sure you're ready for what comes ahead.'
+
+'Emilia, we don't have time for this! This is the sequence's doing, isn't it? The Prophecy is forcing you to stop me!'
+
+She drew herself up and the arcana around her coalesced into dancing forms, answering her thoughts. 'It's working. I understand more of it. Enough to glimpse what it will do when it is finished — what it has already done to me. And yes, I can feel the Prophecy's tug. So believe me when I say... if you cannot get past me now to take this power, then you've already lost your war against the Fateweavers.'
+
+The arcana swirling around her resolved into snarling creatures that lunged at Caden. They crashed against his barriers and started tearing at them with teeth and claws, but here in oblivion the attacks were more multi-faceted — even as they threatened the physical integrity of his auric-ambient-flare that was currently contained in the shape of his body on this plane, their gaping maws also pulled at his mind, trying to suck him into an abyss of incomprehension that would leave him gibbering and insane.
+
+It was nothing like Caden had ever seen before, but he forced down the fear in his throat and focused instead on the fact that he could at least see the arcanic constructs for what they were, and he could understand what he was looking at. Emilia was right — he was sighted, and whatever she could throw at him now, he could unravel. They were operating on the same plane of existence, and they had access to the same layers of reality.
+
+His barriers held, and with a flexing of his mind, Caden took in the nature of the creatures' maddening maws. He deftly wove a layer into his shields so that they would filter out the seeping insanity, and shored them up with more arcana to buy himself some more time while he tried to figure out how to subdue Emilia.
+
+But the brilliant-sighted-singer was not idly watching him fortify his defences. Her conjured creatures were meant only to buy her time. Her body was still, but Caden could sense the shifting of her mind as she folded it to stare into the new layers of reality, where she was already shaping arcana in terrifying patterns that held some familiar glint of the eldritch power that Caden had glimpsed so far in the alien glyphs.
+
+It would take him too long to dismantle her creatures. Even military-grade arcanic bolts would be useless here as distractions — in his now-expanded mind, their nature was laughably simplistic, and he was sure that Emilia could unravel them with a mere glance. No, he had to surprise her, just as she had surprised him.
+
+'You can't resist being a little dramatic, can you?' Caden said through gritted teeth. 'All those big fights in the arena. And now this. All the flashy stuff. Is it because you like the attention?'
+
+Emilia's attention shifted ever-so-slightly, but she kept the bulk of it on her weaving, which was rapidly coming to fruition. 'Do you really have time to rail against me?' she asked, frowning a little.
+
+'If you win here, what does that get you? No one's watching. And at the end of it, you'll all be stuck with the Prophecy, without the only person who can get everyone out.'
+
+A flicker of irritation crossed Emilia's face. 'I'm not attention-seeking. I'm not doing this for an audience. As I explained, if you can't beat me here, we're all doomed anyway.'
+
+'What makes you think you can be the judge of that? How do you know you're not playing directly into the Prophecy's hands right now by taking out the one threat to it? You should be helping me.'
+
+'I am helping you!' she yelled. 'I am helping you to stop hiding behind other people, and to come forward and start making choices because you can!'
+
+The arcana she had amassed suddenly gathered into a singular point. The entire clearing became painfully still and silent, as if time itself had frozen, although the momentum of existence continued to demand movement even as it was forcibly held in place. This metaphysical inertia built and built until it felt like every particle in the clearing was about to explode. Just before that moment of utter destruction, Emilia twisted the core of arcana. A terrible pulse of energy ran through the clearing. Its deadly touch vaporised the arcanic constructs she had conjured and blew Caden's barriers away like dust.
+
+Caden was gone. Emilia stared at the empty space. The only thing that marked the fact that he had been there at all was a fine line in the ground where his barriers had held up for a fraction of a second so that the annihilating wind of her sequence had that much more time to turn the grass outside to dust, just before it reached the grass inside so that the scattering pattern was different.
+
+'... Caden.' She fell to her knees. 'No.'
+
+'No? No shit,' Caden's voice echoed in the arcana.

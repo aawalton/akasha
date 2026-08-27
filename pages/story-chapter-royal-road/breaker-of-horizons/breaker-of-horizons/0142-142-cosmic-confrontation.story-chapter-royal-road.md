@@ -1,0 +1,147 @@
+---
+id: fed9f80a-3819-54f2-8854-6b8f99f4ed83
+page-type-slug: story-chapter-royal-road
+title: "142. Cosmic Confrontation"
+slug: 0142-142-cosmic-confrontation
+partOf: breaker-of-horizons
+position: 142
+ownLength: 2112
+unit: words
+publishedAt: 2021-09-09
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/747743/142-cosmic-confrontation"
+royalRoadId: "747743"
+---
+
+"You unwrote it!" Ambrose rasped, his eyes wide and crazed.
+
+He pulled down hard on Caden's arm, almost bringing him to his knees. Caden wrenched his arm away, instinctively channeling arcana into his limbs so he moved with more speed and force. But Ambrose did not relinquish his grasp, and he used Caden's movement to instead pull himself up from the bunk bed so that he stood before Caden.
+
+The twins and Emilia, who were nearest, sensed the shift in the arcana and enveloped themselves in hardened shields, staring from Ambrose to Caden in tense expectation. Jerric, too, backed away into the driver's compartment, where he raised a dense protective barrier around both himself and Devon.
+
+Caden couldn't project an ordinary shield with Ambrose this close, so he deftly fortified the outermost layer of his own auric-ambient-flare where it interfaced with the ambient arcana. In the event of a fight some of his skin might not be protected, but his internal organs would be safe. "Ambrose," he said as calmly as he could, "let me go."
+
+The crazed look in Ambrose's eyes didn't fade — he simply stared unflinchingly at Caden, fingers still tight on his wrist. Caden's heart sank as he wondered if he had somehow messed things up. Or had the augera done something, given him a faulty or tampered sequence? But even as his mind raced and went over the glyphs, he couldn't find anything wrong with them.
+
+"You unwrote it," Ambrose repeated, more deliberately this time, his voice hushed, but somehow still full of portentous power.
+
+"... The wound? The tear in the arcana?" Caden asked, striving to maintain his composure.
+
+Ambrose nodded.
+
+"Let me go, Ambrose, and I'll explain."
+
+Something shifted in Ambrose's eyes and Caden felt a a frisson of power run through the higher dimensions of Ambrose's auric-ambient-flare. It was too quick for him to act, so he simply braced himself against the impending surge of energy.
+
+Reality cracked.
+
+The sense of motion from the trailer vanished. Caden stumbled a little from the residual intertia, then righted himself. Everyone else had frozen in place, and even the arcanic sea itself had completely solidified into an immovable mass, so that Caden's auric-ambient-flare found no traction on it even as he desperately tried to pull in more power to protect himself.
+
+The grip on his wrist tightened. Ambrose's face was held in a terrified rictus, but then his eyes shifted and fixed on Caden once more.
+
+"You're rewriting things."
+
+It was Ambrose's voice, but his mouth hadn't moved at all. In fact, Caden realised that he could see individual motes of dust caught in the light coming in through the windows, and each one of them were held in perfect stasis, like everyone and everything else. He was the only one moving, but he was anchored to the spot by Ambrose's unbreakable grip, and he could not channel any arcana through his auric-ambient-flare.
+
+"How is this possible?"
+
+"How are you doing this?" Caden demanded, terror rising in his throat. He had never seen Ambrose like this before.
+
+"Wait..." Ambrose's brow creased ever-so-slightly, and his eyes quivered in their sockets. "I've seen this. You are the memory of the original Foundation. But not a memory here."
+
+Caden's terror was threatening to drown him now as he realised that this was not the Ambrose he knew. It was Ambrose's voice, but it was not him. Caden didn't know how this worked, but he was fairly certain that this was the Fateweaver that had passed over him in the forest clearing earlier. Had the augera not been quiet enough in their dissemination of the healing sequence after all?
+
+"Fateweaver?" Caden had to force the word out of his lips.
+
+"It even speaks," the Fateweaver said through Ambrose's unmoving mouth. The voice was slowly warping, shifting away from the familiar tone of his friend to a stranger's, its accent strange and unfamiliar, almost foreign.
+
+"What are you doing to Ambrose?" Caden managed to whisper.
+
+"It is speaking!" the voice continued, marvelling. "With me. Somehow, it is speaking with me."
+
+Caden's mouth had gone dry. The augeric shell was completely silent and inert. He was here, totally exposed to the full scrutiny of the Fateweaver.
+
+"Is it really speaking with me? Are you? I'm not just babbling to myself here, am I?"
+
+And yet... it was not quite what he expected. The Fateweaver seemed confused, uncollected, uncertain. An absurd thought came to mind — perhaps if he just stayed still and kept quiet, it would go away?
+
+"You really are speaking with me. Or interacting with me. No, I will not go away. What a strange thought. And why are you just dawdling down there? Come here and face me properly."
+
+Caden felt his attention being twitched ever-so-gently away from the physical, beyond the arcanic sea and into oblivion. There was nothing to do but comply, and face his doom head on. The solified arcanic sea made it a little difficult for him to perform the necessary folding of himself to enter oblivion, but he managed it after a few attempts.
+
+And there it was. The ancient-distant-spider hung over him, closer than he had ever seen it before. It did not exactly have eyes here in oblivion, but he could feel the intensity of its scrutiny like spotlights on segments of his auric-ambient-flare as it traced his outline with multiple points of focus, like a multitude of eyes working in concert. A few of its limbs held him in place, stretching his auric-ambient-flare out so that it could better peer into his very being.
+
+'You really, really are here,' the Fateweaver said, bewilderment clear in its tone. 'An active mind, here, and not Chosen.'
+
+Being disembodied somehow helped him to leave a bit of his fear behind. He decided to face his end with some steel in his spine.
+
+'You all really exist. Fateweavers.'
+
+'We do. Does this surprise you?' The Fateweaver seemed rather uncertain about what to do with him, but there was a sense of curiosity coming from it.
+
+'It amazes me,' Caden admitted. 'The... the scope of it. It's amazing. But it also angers me. You're human, aren't you?'
+
+'I was. But now I am a Fateweaver. Why does it anger you?'
+
+'Why? Well... you were born, you lived, and somehow, one day, you became a Fateweaver. Do you remember being normal?'
+
+'I do.'
+
+'Then... how... how can you do this to us all? How can you write your prophecies, both major and minor, and... just... how can you do this? Why are you doing this?' he demanded, thinking of Triss.
+
+The Fateweaver leaned in and plucked a strand of his auric-ambient-flare, reading his life. It seemed to nod to itself. 'I see. Yes, I remember this. The prompt for the original Foundation was the minor prophecy. The fruition is self-empowering, taking form according to the expectation. I wove it to serve as an impetus. I see it has been fulfilled, or rather will be, through a rather circuitous branch. The father meets his ruin at the hands of the Greater Prophecy, as he loses his son to it and drives himself to his end in his attempt to avert that doom.'
+
+Unfettered anger possessed Caden now, and in oblivion it was a thing of purity. 'Yes, that,' he spat. 'Why? H-how dare you? What gives you the right? What gives any of you the right?!'
+
+Somehow, his thoughts were taking on a potency that seemed to surprise even the Fateweaver. He struggled against its hold and managed to wrest a segment of his auric-ambient-flare free from the Fateweaver's grip. Here, power answered his thoughts, and the shield-piercing sequence that Ambrose had used came to mind, with his frameshifted alteration. Ambrose had conceptualised the arcanic sea as a field to be burned, and so now he stole that seed, picturing the layers of oblivion that they were now on as his target.
+
+But all at once, his arcana he had amassed was snuffed out like a feeble candle. The Fateweaver held him fast again, albeit with surprising gentleness.
+
+'That would sting,' it said with a note of admonishment. 'And even if it did more than sting, it might get you the answers you want, but not the answers you need.'
+
+'My sister. My father. Why them? Why me? Why us?'
+
+'Why not?'
+
+Bitter indignation rose in Caden, but it was arrested by the totally pure sincerity of the Fateweaver's question that came across with perfect clarity in oblivion. 'I... what?'
+
+'Why not, Caden? Why should you and your family be spared from this fate? If I were to write you all out of it, I would have to write others in. Why should they be the ones to take your places?'
+
+'... Why these fates? You're... we're all human. Why?'
+
+'A difficult question with no easy answer. The Fateweavers of all ages ask this of ourselves. With every replacement or addition, we retrace our reasoning and rebuild a consensus. It is what has brought us through the eons to this moment. Hundreds of years of consideration across generations.'
+
+As it spoke, Caden was given a glimpse of terrible vistas of time filled with frantic communication between Fateweavers, each ancient-distant-spider spooling threads of complex thought to every other, all connected in a web that was painfully intricate, weighed down by every shade of emotion across the whole spectrum of the human experience, gathered and coalesced from their common pool of collective memories. To him, it seemed like a thing of both great wonder and also great horror.
+
+'... It has been a long time since I have taken an individual perspective, Caden. In arcanophany, you learn of frameshifting. Well, to use that as an analogy, my frame has shifted so far from the common human experience that the things I use to judge my decisions are quite beyond you, as you are now.'
+
+Caden felt defeated by the scope of the vision he had been given, but he still managed to whisper tearfully, 'But... but after all that... for all of you to do this to my family... to... to everyone. Is it worth it?'
+
+'Strangely enough, Caden, it is precisely that question that made me decide to write your family's thread. You are the original Foundation, the anchor for the Six-Chained-Foundations, before... well, before these strange anomalies that have led us here. You and the others were meant to imprint the Chosen One with a unique perspective, so that when he finally joined our ranks, we could reconsider the consensus afresh.'
+
+An incredulous laugh escaped Caden. 'All that suffering just so you can answer a question? We're all just toys to you, aren't we?'
+
+'No. Not toys.' The Fateweaver sighed. 'Well, what am I to do with you now?'
+
+'You have Emilia in my place. You don't need me any more. That means there's no point to Triss' prophecy, if it was only ever meant to push me to the Academy. Just... just erase me, if I've done too much damage. And let Triss, and my dad, have a normal life.'
+
+'That is rather drastic, and time works too strangely to manipulate while still maintaining our preferred levels of precision. Tell me, Caden, how have you come to be here, on the first steps to attaining a Fateweaver's power, while still being completely outside our Prophetic web?'
+
+'Can't you just read it for yourself?' he asked bitterly.
+
+'If I could, Caden, I would have, to spare you. So, how have you done all this?'
+
+A flicker of hope rose in Caden's heart. The augera were still shielding him against the Prophecy, and it appeared that their protections kept the Fateweavers from really digging into his auric-ambient-flare. That was probably how they had hidden him the first time around.
+
+'If I refuse you tell you...'
+
+'I will be forced to destroy you, and fix the pattern,' it answered matter-of-factly.
+
+'What happens after I've told you everything you need to know?'
+
+'That depends on the nature of what you reveal, Caden. But I will say that I am not unsympathetic to your circumstances, and I wish to do good by you, insofar as it is within the interests of the greater good.'
+
+That was at least an honest answer, and the best that Caden thought he could expect given the circumstances.
+
+'I think we have to give them everything,' Caden said, directing this at the augeric shell as softly as he could, though he didn't really expect it to go unnoticed by the Fateweaver.
+
+'Yes,' the chorus answered, suddenly flooding Caden's auric-ambient-flare with phenomenal power. 'Yes, let us give them everything.'

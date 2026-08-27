@@ -1,0 +1,231 @@
+---
+id: a3bde45b-19b5-5330-8384-cb7203f5a8d7
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 32 - Embracing Her Choice"
+slug: 0037-book-4-chapter-32-embracing-her-choice
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 37
+ownLength: 5216
+unit: words
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2801824/book-4-chapter-32-embracing-her-choice"
+royalRoadId: "2801824"
+---
+
+Trust came slowly. More often than not, that held true for Ranthia, no matter what she did, but…
+
+Plainly, she had underestimated how difficult her sessions with the [Mind Healer] could be. Hitting the seemingly unflappable woman with shock and awe—arguably her greatest secrets—felt good. Sharing things that remained true sources of pain proved to be far more difficult. There were precious few people that Ranthia was comfortable being vulnerable with, yet for the [Mind Healer] to do her job, she needed to count the elf among them.
+
+But what was new to Ranthia was business as usual to the elves. The [Mind Healer]—for Xaoc’s sake, her name was on the door, why was it still so hard to absorb?!—guided Ranthia through her past, permitting her to speak on matters that she wished to and gloss over those that she wasn’t yet ready to share. And by the time Ranthia was ready to admit that the sessions were useful and was ready to relax her guard (some), she was coaxed into revisiting some of what she glossed over.
+
+Tatius and Pupius were the first people that Ranthia told the [Mind Healer] about, and their death—beyond her reach and without her knowledge—was the first vulnerability that Ranthia allowed herself to discuss with the woman. The pain was still there, but everything she had learned about her fathers—and what they had truly meant to her—had somewhat blunted the raw pain that she once carried. Supposedly, this was healthy and how grief was meant to be processed.
+
+As trust slowly built on that foundation, Ranthia found herself led by the woman on a journey through her own thoughts and experiences. It wasn’t chronological—each “therapeutic discussion” was limited by Ranthia’s current willingness to explore details. Discussing her brushes with death came easier than some of her true regrets, like the vengeance she almost visited on an innocent girl—just because of her issues with her dead mother. But each journey had its own purpose, its own lesson.
+
+In hindsight, with the experiences she had gone through with the [Mind Healer], Ranthia should have been warier. But the gradual build-up of trust was insidious—Ranthia never even realized that she had been relying so utterly on her unexpectedly robust trust, even as the charismatic elf led Ranthia on a journey through her interpersonal relationships.
+
+Ranthia hadn’t expected a response. But after answering a few questions about her current, all-important relationship, the woman began to speak on Ranthia’s sterling romance. The tone was full of care and concern, but the words were as vile as anything a Poison classer could hope to conjure.
+
+“Problematic.”
+
+There were other words and phrases too, but they just kind of washed past Ranthia as she sat there in mute shock. Trust dissolved while the woman explained why Ranthia was the worst person on Pallos or whatever—she had no interest in any words past the accusation that Ranthia was somehow problematic in the most important relationship she had ever known!
+
+Ranthia stood and—narrowly—chose the path of maturity. She wordlessly walked to the door, silently reminding herself that she was seeking to be a better person. No matter how hateful the woman’s words were, Ranthia shouldn’t put a knife or four through her.
+
+Fortunately, elven-made buildings were far sturdier than any of the poorly made, fragile structures found within Remus’ borders. Ranthia wasn’t quite in full control over her strength, but the door never even creaked as she forcefully opened it and stepped through.
+
+Only to be transfixed by Avyna’s unamused glare.
+
+Silence lingered for what felt like a generous slice of an immortal eternity—but the closing door that slapped Ranthia’s rump proved that it had only been a few moments. The tiny startled sound Ranthia made when it happened seemed to remind the world that time needed to move forward.
+
+“<My love. Our contract is a promise.>” Avyna’s words were measured and even, untouched by the displeasure that radiated from her gaze.
+
+“I—” Oops. “<I won’t sit there and let her insult us!>”
+
+The words felt petty—even as she stood there with her outrage fresh and coursing through the whole of her being—but Ranthia had nothing better. Her emotions were high, and words were hard, no matter what language she spoke. A guilty piece of her doubted that she could convince the love of her life that her choice was the prudent one—especially since she had recently confessed that she thought the sessions were helping.
+
+But, even if it was an impossible task, she had to try. By Xaoc, there was no way that she could possibly sit there and endure that.
+
+Avyna sighed and rose from the couch she was seated on. She wasn’t even supposed to be there—as far as Ranthia knew, Avyna planned to just return to their rooms or take care of business in Coalition City. Yet there she was, while the [Mind Healer]’s apprentice was absent. Avyna remained silent, until she reached Ranthia and took one of Ranthia’s hands between her own.
+
+“<Ranthia, my love, I was the one that expressed concern and asked her to assess your mental health regarding our relationship. You have grown to be highly dependent on me for your well-being, and I cannot be by your side for all of eternity—you know this.>”
+
+The words were gentle and full of love and affection. Which made them all the crueler—Ranthia had no possible defense against them.
+
+The bitter reminder that they were better than ten percent of the way through their contracted time together hung over Ranthia like a blade, ensuring that her mood never improved as she went through multiple difficult sessions with the [Mind Healer]—occasionally joined by Avyna. The words were still difficult to endure, let alone accept, yet Ranthia tried to force herself to seriously consider them.
+
+But how could her love ever be a bad thing? How could it be a flaw for her to use her love for Avyna to drive her will to survive and endure the horrors of war?
+
+But one thing Avyna said truly stuck with Ranthia: “<My love, you spoke once of us being partners. Of being equals that support one another unflinchingly. And yet, you are the one who has fallen short of that promise. Since the beginning, you have treated me as someone you must protect, but even that has twisted in an uncomfortable way. My love, I am not yet a goddess. I have no interest in being worshipped as such prematurely. Not by you.>”
+
+Coming from Avyna’s lips, the words were impossible to shrug off. Frustratingly, Ranthia found seeds of truth in them as she mulled them over. As blasphemous and terrible as it was, Avyna held a place in Ranthia’s heart and mind not entirely dissimilar to her devotion to Xaoc. Her worldly devotion had, at some point, begun to blur a line that should have been absolute.
+
+It was a glaring enough failure that it forced Ranthia to not just endure, but to truly face the rest of what was said. If she could make such an unforgivable mistake, perhaps there was true merit in the concerns that the [Mind Healer] raised…
+
+Avyna wasn’t the only one that knew people in Coalition City, Ranthia had a few friends to call upon as well. Sure, lunches with Paulla—her [Analyst] friend from the Unbreakable Image—often devolved to (allegedly, sorely needed) lessons in the shimagu language, but it was great to see the woman flourishing in her new role. She led an entire team of [Analysts] and was a scholar of the shimagu language and culture noteworthy enough that even the occasional elf sought to consult her.
+
+Deflection even managed to find time to share drinks with her one evening—not that either of them could get too deep in their cups. She had another session with the [Mind Healer] the next morning and he was due to deploy that night back to Spearpoint. Not that either of them wanted to discuss work or the war, instead they whiled through their short time together with Ranthia trying to teach him a few High Elvish phrases that he could use to flirt with elven men. It was surprisingly fun, especially as the phrases he requested became bawdier and increasingly ridiculous.
+
+It took many, many sessions with the [Mind Healer], but Ranthia finally came to accept the truth. She had placed Avyna on a pedestal. Avyna had, in many ways, become a prize that Ranthia earned by enduring suffering and misery. She truly had become dependent on the love of her life—which still didn’t, in and of itself, feel like a terrible thing to her. But there were major problems with how she had done so.
+
+The first—and easiest to accept—was that it made her unduly possessive. Avyna was her prize, and she endured so much just often enough that she had come to unintentionally resent those who got her beloved’s attention with such ease. As the ‘merit’ of her suffering became intertwined with her love, she was increasingly unwilling to share. She had experienced the unwanted sensations more than once—the frustration when Avyna’s attention was focused away from her. It had long threatened to damage her friendships, but through the therapeutic discussions, she came to realize that there was a far darker possible outcome: she was likely to begin to resent Avyna if she continued.
+
+Gods and goddesses, she truly was a mess.
+
+Ranthia needed to change something she would never have dared to consider but for the sessions with the [Mind Healer]. But with time, she was confident that she could purify her feelings for the woman she loved. No, not just confident, she was determined to do so.
+
+Each day felt as though no significant progress was made, yet the dearth of success added up in ways that Ranthia struggled to quantify. The vernal equinox drew near before Ranthia was finally ready to accept that she had made meaningful progress and released some of the darkness that had seeped into her heart.
+
+“A letter for you, Grace.” The woman that brought them their morning tray of fruits and pastries announced. In addition to the usual tray, she also carried a second, smaller tray that bore a single Remus-style scroll.
+
+Ranthia accepted it with a small laugh. It was a positively silly way to deliver a message.
+
+Her laughs had started to come more easily, and that thrilled her. She had never even really noticed that she had stopped readily finding humor in the world. How could she have ever become so blind to the little absurdities of daily chaos?
+
+Avyna was still lounging next to the artificial window (they had an interior suite of rooms, thus the windows were some sort of Mirage Skill or enchantment that showed scenery found throughout Pallos; not that Ranthia could properly appreciate the effect thanks to [Vision of the Void]). Her elf had been idly reading a book, though she looked up curiously while Ranthia opened the scroll.
+
+“…It’s from Sentinel Night. He wants to meet with me, tonight.” Ranthia sighed.
+
+It seemed her break from her duties and obligations was coming to an end. Which made sense. Logically, she knew that she was needed. And whatever Night had discovered regarding the plot was undoubtedly long since resolved. Part of her was still afraid of what the true face of the machinations that nearly killed her entailed, but… she supposed that she was capable of facing it.
+
+The time had come to test her progress. It was inevitable, but she still wished that she had been able to put it off just a while longer.
+
+“Ah, Sentinel Grace. Thank you for accepting my invitation. Would you be willing to join me on a walk beyond this city’s walls?”
+
+Night was all smiles when she arrived in the Sentinel meeting room, which set her on edge. Progress or not, she wasn’t the sort to be happy when a predator smiled at her. Still, Ranthia swallowed her revulsion and smiled back politely before she nodded her consent. Night almost certainly had more in mind than a casual jaunt; more likely he wanted to discuss things that he wasn’t comfortable sharing in a space occupied by classers with levels that vastly eclipsed their own. It was impossible to imagine what an elf with a level greater than the sum of their classes’ levels was capable of overhearing.
+
+Together and in companionable silence, they left the compound and made their way to the front gates. Despite the late hour, no one—Legion or otherwise—batted an eye at two fully kitted Sentinels exiting Coalition City, and they were soon underway. They journeyed east, along a path that kept them as far away from any mesas or rock formations as was possible, given the terrain. The walk continued for a time, until Night finally spoke.
+
+“How has your recovery progressed?” His voice was quiet, yet conversational—a perfectly uninteresting tone meant to dissuade eavesdroppers from paying attention. Not that Coalition City was much more than a bright speck in the distance. It was a casual walk, but it was one made by two triple-classed combat classers.
+
+Ranthia took a moment to consider his words, then decided that he was truly asking—which meant he had no interest in the falsification of her ‘recovery’ from the Poison that had ceased to affect her from the moment she shifted.
+
+“I… think it’s progressing. Mind healing is still a field I don’t really understand much, but I’m starting to feel… I really don’t know how to phrase it, sorry.” Ranthia sheepishly admitted.
+
+“I see. I admit, it is likely a failure of mine that I have never considered the art myself. Humans live such fast lives and those that were harmed in ways beyond those a [Healer]’s touch could remedy were rare and only briefly relevant. Had we possessed a greater understanding of this art, perhaps even some of my own kind that had to be eliminated might have been spared. This cooperation has provided Remus with more than a few unexpected benefits, and I will be sure to make mind healing a part of the lessons that we learn.” Night confessed in the same conversational tone, as though he spoke of nothing more dire than an overcooked meal.
+
+Silence lingered in the wake of his words. They were far weightier than his tone suggested, but Ranthia really had no possible response she could make to them. Gods and goddesses, she had been like most in Remus. Those that… broke as she so nearly—or, as she was increasingly worried, was truly the case—had were targets of ridicule. Adventurers that were unable to pick up the blade and risk their lives after a tragedy were all too common. But they were seldom young, which made their rehabilitation feel irrelevant.
+
+“I think I still need time.” Ranthia admitted at length, once the silence felt ponderous enough to weigh on her.
+
+That much she had decided before they met up. She had improved, but she had only come far enough to see the path that she needed to walk to truly recover.
+
+“I wish that I could say that you may take all of the time that you need. Unfortunately, I find that the realities of this war mean that Ranger Command is loath to leave one of our highest-level Sentinels on the sidelines indefinitely. The loss of the ability to field you has forced multiple difficult decisions already. …But perhaps, if you can provide a deadline for yourself, I can make that suffice. At least for now.” Night set aside the conversational tone long enough to add weight to his offer—to make it clear that he was offering her a boon and that she shouldn’t abuse the spirit of that boon.
+
+She really was getting entirely too used to the meanings of Night’s careful intonation and the varied flavors of silences that he offered. But that wasn’t what was important at the moment.
+
+Instead, Ranthia tried to consider the question while they walked through the desolate terrain. Both she and Night kept active vigilance for any other life, but Ranthia had yet to notice anything more than small birds, lizards, and insects that endured the chill. There was enough life that there was likely some source of water in the vicinity, but there was no sound of running water on the gentle breeze.
+
+“…Give me until the summer solstice—the day of the Ranger Convocation. I… will either be back in Remera on that day, or I won’t be returning.” Ranthia finally decided.
+
+It wasn’t exactly a promising offer and even then, there was a strong temptation to ask for more time, but she couldn’t be greedy. Over half a year spent in Coalition City was already significantly more time than she had expected to take when she left. But by the Ranger Convocation of 4828, she would make her decision.
+
+She would either return to war, or she had to accept that she never would. What that meant… she had no idea—and was more than a little scared to find out—but somehow the deadline eased the subtle guilt she had carried.
+
+“Very well. You are actively receiving treatment, from what I understand. I can make those in charge give you that much time.” Night acknowledged after a brief pause. They continued in silence for several paces before he, surprisingly, spoke again—in a warmer, more personal tone. “Please do your best to return to top form by then.”
+
+“Sure.” Ranthia replied awkwardly.
+
+The vampire chuckled and the two continued their brisk walk for a time in companionable silence. But there was another topic hanging over their heads, one that they both seemed to be somewhat hesitant to approach—though likely for different reasons.
+
+“Are you prepared to address the ‘plot’ that you survived?” When he finally spoke, Night’s question felt… unexpectedly gentle.
+
+Ranthia—somewhat stiffly—forced herself to offer a firm nod in response. The silent gesture was sufficient, and Night launched into his explanation.
+
+Amusingly, none of her theories proved to have been quite accurate—the truth was even stupider than theory number two had dared to imagine. According to Night—and Ranthia was surprisingly inclined to believe the oft-terrifying man—the base commander’s role in the plot was that he had made a somewhat vitriolic and exaggerated rant about her to his inner circle. Though each culprit had attempted to blame the others, this resulted in two of the base commander’s advisors and the mousy-looking Sound [Mage] concocting a plot to deal with the ‘problem,’ under the (allegedly) mistaken belief that the base commander had wanted Ranthia dead but was unable to directly order it.
+
+There was a legionary on the base that had—secretly (gods and goddesses, was everyone on Pallos a revenge-obsessed idiot?!)—taken a Poison-aspected third class that let him generate Poisons tailored to a specific individual once he touched them. With the assistance of the shimagu’s penchant for violence, he had used his abilities to quietly eliminate some of the members of his unit that annoyed him and, somehow, the Sound [Mage] learned about it. She arranged for him to be on wall duty near Ranthia, which allowed him to brush up against her. After that, he created a Poison intended to ensure that she would be killed when she next fought a shimagu twin.
+
+None of those involved—except maybe the Poison guy—were quite stupid enough to kill her and leave themselves vulnerable to a shimagu twin’s rampage. The original plan had been to wait for another Sentinel to be in the area, but they got an unexpected boon: the powerful elves that Ranthia brought to Remera.
+
+The trio of masterminds embezzled a large amount of funds from Remera—something Avyna would have certainly noticed had they stayed, which probably meant that she would have been the next target of the fuckers’ schemes!—to hire the two elves. Per the culprits, the blind elven archer was the one that fired the poisoned arrow that they provided to her. Under their agreement, had Ranthia failed to kill the twin, the two elves would have.
+
+But Ranthia had survived. …And may Xaoc and every last god and goddess damn the elven duo, Ranthia finally had an explanation for the male elf’s comment about how profitable their journey had been. They got paid to make an attempt on her life, then she paid them to help her seek assistance over the same freaking plot!
+
+“It is fortunate that they only found Sentinel Bulwark and not me. Next time, if it would not inconvenience you unduly, I would appreciate it if you avoided sending high-level outside threats directly to me.” Night requested, with a tone that sounded jovial, yet somehow his words seemed to carry more than a hint of malice.
+
+“Er, sorry. I was kind of not at my best at that point?” Ranthia immediately inwardly cursed herself for the odd questioning lilt she put on her response. She wasn’t a child hunting for an excuse!
+
+Night made a small sound of acknowledgement and fell silent again while she considered everything that she had learned. Gods and goddesses, she thought the mousy woman was something adjacent to a friend! The vision of the woman’s exuberant expression when she introduced the performative ‘duel’ Ranthia fought against ass-face, or whatever the elven [Bard]’s name was, was vividly engraved in Ranthia’s memory.
+
+…Yet the woman had sought Ranthia’s death, over a few measly careless words from her uncle.
+
+“What ended up happening?” Ranthia asked. She had mulled over Night’s explanation in silence, then was forced to muster her courage before she could ask such a simple thing—as if she needed more proof that she was still damaged.
+
+“The three masterminds and the Poison-maker are all dead. Six others were arrested in connection with the plot and, to the extent of my knowledge, still await their tribunal. The ‘base commander,’ as you refer to him, is aware of what transpired due to his careless words, as are his superiors. I expect that he will choose to step down.” Night answered, in an almost dismissive tone.
+
+Ranthia chewed at her tongue even before Night finished speaking. The words were polite enough, but Ranthia wasn’t an idiot—she knew what he meant was that Night personally executed four people. For her sake. Over a stupid grudge that they happened to take too literally. They had each been useful to the war in their own way. Each of them was their own person and they had their own lives, families, friends, and loved ones.
+
+And yet, she didn’t feel a single mote of guilt or regret for unleashing Night, of all people, upon them.
+
+…As expected, conversing with Night gave her new things to discuss with the [Mind Healer].
+
+“<My love, I have been thinking.>” Avyna announced in a gentle tone.
+
+Life had been busy ever since Ranthia’s meeting with Night. The day after, Avyna had visited her trading house to borrow a map—ostensibly to help Caelillia plan her trip back to Tympestshard Council territory, except Avyna never even sought her daughter out after acquiring the map. Instead, they returned to their rooms after Avyna stopped by a book-seller and acquired several tomes that she had poured over intermittently ever since. Ranthia hadn’t even seen Caelillia since shortly after they arrived in Coalition City! And it seemed that, sixteen days later, Avyna was finally ready to discuss what she had been up to.
+
+“<You always are Gemheart, that’s part of what I love about you.>” Ranthia quietly replied after she carefully extracted herself from the bed and walked over to the table that Avyna had turned into her desk.
+
+“<You are, as always, sweet. I have put a lot of thought and work into this, and I want you to keep an open mind. Please just consider this an option.>” Avyna requested.
+
+“<Sure.>” Ranthia agreed readily enough. She embraced Avyna from behind as best she could with the back of the chair in the way and watched over her beloved’s shoulder.
+
+“<Thank you, my love. So… instead of returning to the war, I propose that we could just leave. Please do not tell anyone that I showed you this map, but if we head along this path, we can dodge around the shimagu controlled territory. My trading house has used this route since the dawn of the war. We can cross through here, careful to avoid the northern territories where the three harpy clans continue to squabble. The giants and the treants that oversee the wetlands here are harmless and, more importantly, are friendly to travellers.
+
+“<After that, we reach Tympestshard Council territory. There are many cities and groups that might welcome you, despite your outsider status. For example…>”
+
+Avyna started listing a series of names, often complex ones, that Ranthia couldn’t possibly follow. Instead, Ranthia forced herself to just breathe and absorb the idea. She needed time to consider it, but in essence, Avyna had crystallized the vague “maybe I don’t have to return to war” sentiment that Ranthia had silently carried after her discussion with Night.
+
+She really shouldn’t have been surprised.
+
+Returning to Remus was so unappealing that it almost felt like an option that existed solely to convince her to return to fighting in the war. But Avyna was right, Remus wasn’t her only option. She could just… visit the elves. Ranger Command might not like it, but she suspected that Night would help smooth things over if that was the option she chose.
+
+Running away from the war wasn’t a real option—or at least, not one that she was likely to survive choosing—but there had to be some form of legitimate ‘duty’ she could carry out as a Sentinel amongst the elves.
+
+“<What about the City of Arts?>” Another voice called out sleepily from the bed.
+
+Fyrelle was someone that they had seen and interacted with throughout their stay in Coalition City. She was an employee of the resort, and they had encountered her almost daily. She was undeniably attractive, with an athletic build, horns that resembled a stag’s antlers, and vibrant orange-red hair that was even longer than Avyna’s. Avyna had gently fanned the flames of attraction and, after more than a few traded bits of flirting, Ranthia finally decided to consent and they invited the elf to join them in their room after their massage. Unfortunately, that gorgeous hair had absolutely gotten in the way! Plainly, she lacked whatever Skill or expertise Avyna used to avoid struggles with her own hair. After everything, the poor young elf was positively tangled in her own flowing locks as she rolled over in their bed.
+
+Ranthia was more than a bit proud that she had come far enough that she could share the woman she loved with another, with her only complaint resulting from their guest’s unruly hair.
+
+“<Yes, it is on the list of the possible locations, I already mentioned it before you awoke. That said, it is one of the strongest options on my list. Elf or otherwise, all who pursue the arts are welcome there, and with your dances…>” Avyna smiled, though she made no attempt to even try to turn to face their ‘guest’ while Ranthia held her.
+
+“<Oooh, you dance?!>” Fyrelle eagerly asked.
+
+Ranthia ignored her, lest they end up off-topic. She could always show off later.
+
+“<Every other city had some grand name, but this is just ‘The City of Arts’?>” Ranthia asked instead.
+
+…It was more on-topic than Fyrelle’s question, at least.
+
+“<The city is pretty new, I do not believe that it has been around for quite two hundred years—>” Avyna began.
+
+“<It’s almost five hundred! I spent most of a century there just a couple of decades ago.>” Fyrelle helpfully interrupted.
+
+“<Anyway, the point is that it is fairly new and its official designation, Ar-Suelle, is seldom used. It was a community of artists and grew into a proper town at some point. Fairly recently. It is a place where younger elves tend to gather to compete and hone their pursuit of the arts, but from everything I have heard, they seem to welcome anyone with artistic talent or aspiration.>” Avyna concluded.
+
+“<It’s not just younger elves!>” Fyrelle seemed to have completely missed the open annoyance that Avyna had sent her way.
+
+Ranthia and Avyna shared a look of mild regret. Fyrelle had been fun and was attractive, but that wasn’t the first time that the woman had come off as a somewhat abrasive know-it-all that needed to have the final word on seemingly any subject.
+
+“<What do you mean compete? I mean, art isn’t usually a contest…>” Ranthia felt baffled enough to ask.
+
+Avyna sighed and waved a hand to prompt Fyrelle to unleash the answer she was obviously working up.
+
+“<Oh, everything in the City of Art is a competition! There’re rankings for any sort of activity you can imagine. The top ranks only change from a big spectacle, say a major tournament or heavily publicized direct contest between two people of adjacent rank, but trusted individuals can change the lower rankings almost on whim. But don’t worry, even if you’re just a human I’m sure you can find some narrow niche where you can find a good rank! They allow for very narrow compound rankings, like ‘best cook for pan-seared dishes utilizing only red ingredients.’ So even you could find a measure of success there!>” Fyrelle eagerly unleashed her explanation, with a dreamy, nostalgic smile plastered across her face.
+
+Ranthia had to bite off the barb she wanted to hurl at their guest.
+
+“<Well, I’ll bear it in mind. Thank you, Gemheart. And thanks, Farell.>” Ranthia forced herself to smile through the insults.
+
+“<Fyrelle!>” The zealous correction came less than a heartbeat later.
+
+Avyna made her case, and she never brought the topic up again. Instead, she seemed to entrust the decision to Ranthia and focused on helping them both enjoy the time they had left in Coalition City. Ranthia mulled over her options as she relished her diminishing free time.
+
+As with most major decisions, Ranthia never quite noticed that she had already made up her mind until she realized what she was doing. On the morning of her birthday, Ranthia woke up and started sleepily scripting what she needed to say to whomever replaced the base commander—she had received confirmation that he had, indeed, stepped down—to ensure that there was greater cooperation and trust between them.
+
+It seemed that she had, at some point, decided to return to Remera. The realization was blindingly obvious in hindsight—she had already made more than a few preparations without quite realizing that she had made up her mind.
+
+Yet she was still surprised that returning to the war no longer filled her with dread or concern. Instead, she recalled that she had joined the war to protect others. The shimagu were still a dangerous form of order that even Xaoc seemed to find at least somewhat displeasing, considering the levels she had gained in her [Covenant]. And the parasites were still bent on treating every other species like a meaningless host.
+
+And they would, once again, fall to her knives until the day finally came that the shimagu agreed to seek a path of true coexistence as equals.

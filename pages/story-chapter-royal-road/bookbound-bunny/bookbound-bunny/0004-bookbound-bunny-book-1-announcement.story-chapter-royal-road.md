@@ -1,0 +1,43 @@
+---
+id: cb4f67f4-65ea-5d02-9aef-f174932c13af
+page-type-slug: story-chapter-royal-road
+title: "Bookbound Bunny Book 1 Announcement!"
+slug: 0004-bookbound-bunny-book-1-announcement
+partOf: bookbound-bunny
+position: 4
+ownLength: 441
+unit: words
+publishedAt: 2025-10-18
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2686236/bookbound-bunny-book-1-announcement"
+royalRoadId: "2686236"
+---
+
+Hey all, so it's finally time for Bookbound Bunny 1 to get its official release!
+
+Bookbound Bunny will be released on Amazon, Kindle Unlimited, and Audible on November 17th. Yes, there will also be a physical print on demand, but only after the launch (Amazon doesn't allow preorders for prints, for some reason).
+
+Links:
+
+[Amazon]
+
+[Audible]
+
+It's actually been ready for a while, but I wanted to delay the release as much as I could since I didn't want to immediately STUB after book 1 finished on Royal Road. That and to my surprise, BBB has still been consistently growing in followers, so doing it too soon felt like I'd just be shooting myself in the foot.
+
+I originally started BBB as a side project, a palette cleanser while I continued writing Syl. I wanted something slower paced, where I didn't need to worry about getting some system math wrong while frantically jumping about with crazy slime shenanigans.
+
+Before I realized it, I suddenly had an entire book 1 written in the background as a relative secret, and to my relief, the reception it received was beyond my expectations.
+
+Admittedly, I'm not a very confident person, and imposter syndrome will forever curse me, so my success with Syl always felt... unearned. This unease would grow more and more when I interacted with other authors who attributed Syl to being a RR unicorn.
+
+I even had other people asking me for writing advice! People who had been writing for far longer than I, and when my answers always ultimately ended up being "I'm just a voracious reader," I felt my imposter syndrome growing even stronger.
+
+So I always had this deep fear that I would be outted as a one-hit wonder, and that I had just gotten lucky with Syl. So when Bookbound Bunny succeeded, needless to say, it was a pretty emotional moment for me.
+
+In December this year, I'll have been writing for two years, with six completed books to my name (with four or five published!), which is crazy to think about. This time last year, I was still just a Data Engineer and debating whether to sign my upcoming renewal contract or not... needless to say, this has been a wild ride that still feels like some strange fever dream.
+
+Writing as a job has definitely had its ups and downs, especially for serial webnovels, as you almost never want to take time off for fear of losing readers or patreons. While it was a risky choice, I ultimately think I made the right decision, and I'm elated that so many people enjoy my stories.
+
+Thank you.
+
+~Lunadea

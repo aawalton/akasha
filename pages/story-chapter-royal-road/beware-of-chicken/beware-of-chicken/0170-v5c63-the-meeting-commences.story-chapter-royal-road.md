@@ -1,0 +1,161 @@
+---
+id: 41f19c28-1e86-54cd-a4a4-4542766c62e2
+page-type-slug: story-chapter-royal-road
+title: "v5c63: The Meeting Commences"
+slug: 0170-v5c63-the-meeting-commences
+partOf: beware-of-chicken
+position: 170
+ownLength: 2406
+unit: words
+ownProgress: 2406
+publishedAt: 2024-11-13
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1900610/v5c63-the-meeting-commences"
+royalRoadId: "1900610"
+markedReadAt: "2026-06-29T18:57:08.499Z"
+---
+
+Shen Yu’s message had truly been troubling for Xiao Ge. The message had been sparse in detail, but to have that man ask for aid was a message unto itself.
+
+His fears had increased when he sensed Tianzhe Minyan on their tail, burning her own Qi to send the Windward Blade forth like a heavenly gale.
+
+There had been another presence as well, lagging behind. One in the Sky Realm, whose Qi flared in a pattern that all people of importance knew—that of an Imperial Herald.
+
+They had all arrived quite close to one another. The Imperial Herald too had arrived, but before any special proceedings could commence… he laid eyes upon Shen Yu.
+
+The Imperial Herald unveiled his seal of office… but that was secondary to all of them as Ge finally saw his sworn brother and exactly why Shen Yu had called for help.
+
+Never before had Ge seen Shen Yu in such a state. Not after the most cataclysmic of their battles, not even after Bu.
+
+His heart lurched as he beheld the Unconquered Blade, a work of art cracked and rent. It was like finding a beautiful sword that had been carelessly tossed into a river and left to rust.
+
+None that beheld him, who had known the heights he had reached, could remain unmoved. Yukong’s Qi sharpened. Shou’s fist clenched. Minyan had the biggest reaction. Her Qi lurched. Her brow was furrowed mightily and her eyes, sharp and furious, flicked all over Shen Yu’s form. Her aura began to form about her, oppressive and furious. Snow began to fall.
+
+His body was a wreck—Ge’s sharp eyes cataloged every minute difference in his stance and pinpointed a litany of injuries. The gaping holes in his chest and limbs, the barely-fused bones, the peeling, blackened skin—and these were the most superficial of his injuries. The true damage was deeper.
+
+Shen Yu’s majestic aura, the unstoppable feeling of power, was gone.
+
+Shen Yu had been deep into the Imperial Realm. While there were stages to it like any other Realm, the divisions got indistinct as one approached ascension, formless and unable to be quantified properly. His Sworn Brother had hundreds of years of cultivation savaged and destroyed, placing him back into the Sky Realm. His meridians were perforated and leaking slightly, disrupting his control.
+
+If his foundation had been any less solid, if his enemy had been a slight bit stronger, if he had taken but one blow more…
+
+It was the closest to death that Ge had ever seen the Unconquered Blade.
+
+And yet, as Ge dragged his eyes away from the damage… he could feel and see Shen Yu’s pure joy. His grin was broad as he stepped forward and clasped his fist in the gesture of respect.“My friends, I appreciate your fast assembly. It humbles me that my message commands such speed,” Shen Yu intoned after the Imperial Herald had finished his introduction. ”Though I would ask that you restrain yourself, Divine Falcon. Your might is a bit too much for some people.”
+
+His own battered aura pressed against Minyan’s, and the feeling of icy dread that had been building retreated.
+
+A piece of Ge that had been clenched in fear relaxed at Shen Yu’s calming words. It was then that Ge noticed the others. One woman, who was wearing a rather battered robe. Ge searched his memories for the symbol upon it, before he recognised the Shrouded Mountain Sect. He knew little about her, but she obviously had a reason for being here.
+
+A big, tall, freckly lad stood with them that could only be Shen Yu’s grandson. He was just as Shen Yu and Lu Ri had described. Slabs of muscle filled out his form. He was covered by bandages and had obviously seen heavy combat. His Qi was, as Lu Ri described, diffuse and hard to quantify. He had weathered the weight of Minyan’s intent admirably. Ge had not missed that in the face of danger he had stepped in front of another man, a mortal, wearing the sash of a Lord Magistrate.
+
+Ge paused, impressed despite himself.
+
+The mortal was standing and conscious. He had barely reacted, other than a slight stiffening of his body. He was tense, but his breathing was deep and even. His muscles were defined and his eyes were sharp. A single vein pulsed in his head.
+
+Then the man took another deep breath and very clearly forced himself to move, stepping forward and dropping to his knees, the proper formal measure of respect for the Imperial Herald.
+
+“This Humble Servant of His Imperial Majesty greets the Voice of the Son of Heaven, the experts of the Cloudy Sword Sect, and the experts of the Soaring Heaven’s Isle Sect. Everything this one has is at your disposal.”
+
+The mortal’s words broke some of the tension.
+
+“Indeed, let us proceed. The letter sent by His Majesty's servant was concerning to the Son of Heaven,” the Imperial Herald intoned. He was covered as much as possible. Not a single patch of skin showed from robes of red and gold, styled like flames. Atop his head he wore a phoenix crown, and over his face was a smooth, white porcelain mask without any eye holes—it simply had the Imperial Seal emblazoned upon it. He looked more like a spirit than a man, which was appropriate—this was no man at the moment, but the voice of the Emperor cast across the world.
+
+With the formal introduction complete they moved to hear from Shen Yu what had really happened in detail.
+
+==========================
+
+The group dispersed to deal with necessities. The flying swords shrunk and were stowed away. The fairies of Soaring Heaven’s Isle took the Windward Blade to a nearby hill, where it was secured to the ground and the floatstone sheathed in a protective coating.
+
+“Where is Lu Ri?” Ge asked Shen Yu quietly while they waited.
+
+“Performing his duties. You truly have a good egg there, Brother,” Shen Yu replied.
+
+Ge was very pleased at his brother’s approval.
+
+When the various disciples returned, they entered the tiny provincial palace.
+
+The disciples were attended to by the Lord Magistrate’s wife. The man looked decidedly nervous when the mortal woman had bowed politely and offered the disciples refreshment, but he kept his back straight as he led them into a meeting room that had already been prepared.
+
+The room was neither grand nor spartan, but relatively comfortable, especially for a place so far out on the frontier. There were warm tones and colours upon the walls. The small tables had already been set.
+
+The Imperial Herald, as tradition and etiquette dictated, took position at the head seat. Shen Yu took position in the row to the right, along with his grandson and the woman from the Shrouded Mountain Sect. The Lord Magistrate took his own position, behind this line. Ge was rather surprised that the man was allowed to stay. Shen Yu normally disagreed with the Honoured Founders’ stance on involving mortal bureaucrats—it was one of the systems that he found produced too much paperwork and slowed things down unacceptably, so the man’s inclusion was a statement if nothing else.
+
+Ge took up his position on the left. There was a brief moment where he and Minyan eyed each other, before she gracefully ceded the first seat to him, taking the second. Next came Shou and then Yukong.
+
+“My friends, I say again, it humbles me that you have arrived so swiftly. As you can well see, the matter is vast and it concerns a conspiracy hundreds of years in the making, orchestrated by a peer foe.” Shen Yu was calm, and even though he was… leaking, his Qi held no strain and no sense of defeat within. Indeed, his speech was not particularly formal and he was downright jovial. “I will begin, if it pleases the Herald.”
+
+Ge let a bit of breath out of his nose as Shen Yu teased the Imperial Herald. He had already broken protocol by speaking before the man and was now needling him.
+
+The Imperial Herald inclined his head.
+
+“The Son of Heaven has dispatched His Voice to show the seriousness with which His Imperial Majesty is taking this matter. The plotting of a Demonic Cultivator in the Imperial Realm is concerning to Him. This one is here to listen and report, not to interfere with the actions or words of His Imperial Majesty's Sects. Thus, this one cedes the floor.” The man’s voice was neutral and nondescript, clearly unbothered by the minor needling of Shen Yu.
+
+Shen Yu chuckled. He always did like pushing his limits… and was one of the few people who could get away with it.
+
+“Then I shall. But before that, there are certain matters that must be attended to. First,  introductions. Allow me to present my grandson—he has been recorded in the Cloudy Sword Sect under the name Jin Rou… though these days goes by the name Rou Jin,” Shen Yu said, obvious pride in his voice.
+
+Ge looked again to the young man. He bowed at his introduction, dipping low.
+
+“Rou Jin greets his Seniors,” he intoned, his voice polite. Ge nodded, glad to finally meet the boy, but before he could offer his own greeting, again Minyan’s Qi shuddered.
+
+“Grandson?” she asked, her voice low and cold. Minyan was glaring at Shen Yu. Ge very carefully closed his mouth.
+
+“Indeed. He is not of my blood, as I have sworn off siring children of my own. Eleven years ago I found him as an orphan shoveling dung from the streets of Crimson Crucible City, saving his sums so that he could pay a man to teach him how to read. His skill in shoveling impressed me and reminded me of myself, so I took him in. ”
+
+His words made Minyan click her tongue, but some of the icy aura receded again, the woman crossing her arms. Ge sighed internally. He had known both of them for centuries, but they still acted like children towards each other at times.
+
+“So, you are the one who ventured with Shen Yu to confront this foe?” Ge asked, redirecting the conversation.
+
+“He was not. Instead he was at his home, which was attacked by our foe. There he defeated three cultivators of the Earth Realm, and one who reached that of the First Stage of the Sky Realm,” Shen Yu reported. Sheer smug pride radiated off him in waves.
+
+Ge’s jaw dropped. Shou raised an eyebrow. Yukong blinked. Minyan leaned back slightly, her eyes going from unamused to wide and shocked. Even the Herald was obviously affected.
+
+The young man scratched the back of his head with a bit of embarrassment.
+
+Shen Yu’s words were absurd! Jin Rou had been in the Initiate’s Realm three years ago when he had left the Sect, and here, in the Azure Hills, he had risen high enough to do that?!
+
+Were it anyone else, Ge would have scoffed and dismissed the words. But Shen Yu would never lie about such things. His words were nothing but truth.
+
+And they made Ge want to spit blood that such a talent had been driven from their Sect. Chen Li was already dead… but Ge still wished to find a way to rip the brat’s spirit back to the land of the living just so that he could kill him again.
+
+The only saving grace was that the young man seemed to hold little ill will towards the Sect itself, which was a miracle.
+
+Ge let out a breath. “And her? Is she another peerless prodigy?” The blonde woman stiffened at the attention, but Shen Yu waved his hand negligently.
+
+“This one is Zang Shenhe, Elder of the Shrouded Mountain Sect. She performed acceptably, so I allowed her to sit in on this meeting,” he said.
+
+The woman bowed deeply as well, clearly not trusting her words.
+
+Ge nodded. “Xiao Ge, Elder of the Cloudy Sword Sect, greets his juniors,” he said formally, an act followed by Shou, Yukong, and Minyan.
+
+“Secondly, we must partake of the Lord Magistrate’s - and my grandson’s - hospitality,” Shen Yu said, his smile still bright.
+
+The Lord Magistrate bowed and disappeared, before returning with a cart. A cart whose dishes were Gold-Grade rice and a stir-fry containing Seven Fragrance Jewel Herbs of high quality.
+
+“The bounty of this one’s commandery…or rather, one place in this one’s commandery,” the Lord Magistrate said as he served them. “Forgive this one, but the late hour he learned of your arrival only afforded time for one dish for the Honoured Cultivators and their disciples.”
+
+It was a bounty among bounties.
+
+“The Lowly Spiritual Herbs do indeed make wonderful seasoning,” Shen Yu said. Shou’s brows lowered at the statement. “I’m quite particular to the newest shoots. I also have something else from my grandson’s garden. It makes a fine drink.”
+
+Shou looked annoyed at the words, but as he started to say something, Shen Yu pulled out two Silver Yin Lotuses. They were quite small and obviously not at their full power—but within the center of their petals they had a swirling ball of slightly silvery dew. He poured the dew into cups… cups that the Lord Magistrate took and served to them.
+
+“You grew them,” Shou’s voice was tight and strained. His eyebrow was actually twitching as he beheld the Silver Yin Lotuses. “You managed to grow them? How did you—no, how many of the seeds I have sent you managed…?” he trailed off, his voice faint.
+
+“All of them except the ones that need high altitudes to grow… so, every one of them but six?” Shen Yu’s grandson answered, his gaze pure.
+
+Shou froze. Yukong grabbed his hand under the table.
+
+Spiritual Herbs that they had never been able to grow before, and he said he had cultivated nearly all of them?
+
+For a brief moment, Ge wondered if Shen Yu had asked them to come just to brag about his grandson.
+
+Shen Yu’s smug aura mocked them for a moment more, before the man let out a chuckle.
+
+“Well, now that we are fed and watered, let us begin. Grandson, begin with your portion, please.”
+
+The young man nodded. “Everything started three years ago, just after the harvest…” he began.
+
+==========================
+
+“What do you mean, the Lord Magistrate is busy?” the Lord Auditor asked the guard, irritated.

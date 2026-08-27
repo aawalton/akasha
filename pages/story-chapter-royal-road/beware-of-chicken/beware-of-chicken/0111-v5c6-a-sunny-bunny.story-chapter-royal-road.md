@@ -1,0 +1,131 @@
+---
+id: f157d93c-c332-5e2e-92da-702d9f2b29b5
+page-type-slug: story-chapter-royal-road
+title: "v5c6: A Sunny Bunny"
+slug: 0111-v5c6-a-sunny-bunny
+partOf: beware-of-chicken
+position: 111
+ownLength: 1741
+unit: words
+ownProgress: 1741
+publishedAt: 2024-05-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1651083/v5c6-a-sunny-bunny"
+royalRoadId: "1651083"
+markedReadAt: "2026-06-29T18:55:18.590Z"
+---
+
+“How’s it going up there, Yin? Miantiao?” an amused voice asked, and Yin’s eyes fluttered open. She was warm and content as she laid in her hammock. She turned her head slightly and looked down to where Master Jin was smiling up at her. “Should it be higher or lower?”
+
+“This is really fuckin’ great. Perfect height,” she said, giving him a thumbs up.
+
+“Well, here's the five minute warning. We’re all gathering up for Bi De’s letter—and we’re going to do it in here,” he called up to her, to which Yin nodded. She was looking forward to hearing what had happened!
+
+“You got it, Mast—” she cut herself off at his raised eyebrow. “Big Bro.”
+
+Big Bro Jin snorted with amusement and left Yin to it. She watched him go for a moment before turning back to look at the glass ceiling of the greenhouse. The hammock was slung in roughly the middle of the greenhouse, and the glass concentrated the sun’s rays just enough to feel perfect—even in late afternoon it was just right.
+
+It was really nice of Big Bro to show her this spot. The bed last night had been great, but this? This was perfect. Swaying on a hammock, within her Shifu’s greatest creation, with a glass of cold fruit juice and some tasty nuts…
+
+They never got this much relaxing time back at the Peaks, and this was… exactly what she had needed. So far today she had eaten the most delicious breakfast she had eaten in eight months, built a giant snow golem, gotten a massage from Big Sis Mei, which had felt fantastic, and then Big Bro had given her this awesome spot to nap, and had brought her up fruit juice while Wa Shi had given her some snacks.
+
+Like she had said before: it was really fuckin’ great. Yin yawned and stretched, smacking her lips happily.
+
+On her chest, her Shifu stirred, the old snake opening one bleary eye. His scars looked slightly less rough and painful these days, and a few of the biggest had actually shrunk down after his last shed. The first year, Shifu’s wounds hadn’t seemed to heal at all, only getting slightly less painful. But now Big Sis Meiling’s healing arts were working their magic, slowly and steadily.
+
+The only thing that was completely the same was Shifu’s broken back… but that too Big Sis Meiling was working on. Spines were delicate things, and she wanted to be absolutely certain nothing bad would happen—especially because the tests she had performed on fish only succeeded half the time.
+
+But she was working on it, and that was all Yin could ask for.
+
+‘Issss it time?’ her Shifu asked, and Yin nodded.
+
+“Want me to leave you up here for the last ray of the sun?’
+
+The snake pondered things for a moment before shaking his head.
+
+‘I do not wissshh to misss Tigu’s expression,’ the snake stated simply, looking amused. He nuzzled Yin’s cheek, then curled around her arm so she could move.
+
+Yin filed that away, but didn’t ask any more questions. Instead, she rolled out of the hammock and dropped three stories to the ground. Her feet landed on soft grass, and she looked up at the hammock strung between the ceiling’s support beams. The only way up to the hammock was to jump up to the beams.
+
+Yin stepped off the grass and onto stone. She set off towards the main seating area, once more marveling at how much even the greenhouse had changed.
+
+Like everything else, it was bigger… but just a bigger greenhouse wouldn’t have been that amazing.
+
+Last year it had bare stone floors and raised planters. It had been very nice to have a warm place with a bit of green during winter, but that hadn’t been good enough for Big Bro Jin, apparently.
+
+This year, the stone floors took up only a quarter of the space they once did, relegated mostly to small foot paths that wound between different sections of the greenhouse. A lot of the floor was now grass. There were still a bunch of raised planters that the vegetables grew in, but they were no longer the only thing. There were a couple of transplanted fruit trees, some berry bushes, and what had to be hundreds of flowers. There was even a small river and a few ponds—generated from water crystals. They were growing Wa Shi’s favorite river weeds that didn’t grow during the winter.
+
+The plants weren’t the only life, either. Yin raised a finger as she walked, a butterfly landing briefly on it before the pretty blue and black thing fluttered off again.
+
+Big Bro Jin had taken in some butterflies at the end of summer, whose children now fluttered about and helped Vajra and her servants pollinate things.
+
+Yin didn’t really understand the Spirit Beast bee at all, but that was fine. They’d be able to talk some day, and that was enough.
+
+“Good job girls,” Yin said instead as she passed by some of the bees that were gathering more nectar. The bees turned and bobbed up and down like a bow. Yin grinned as she kept along the path, taking a detour to check out the sunflowers—her favourites.
+
+It was… a magical place. And from what Big Bro had been talking about, if the expedition south all went well, it would get even prettier.
+
+It truly was a piece of transplanted summer made possible only by Qi-wrought glass. In addition to these were the “conservatories” attached directly to the houses as well as the glass drinking vessels, porcelain plates, and clay pickling jars…her Shifu and Master Jin had truly outdone themselves.
+
+…and maybe, just maybe, if her Shifu was feeling well enough, he could start taking apprentices? And then, the whole of the Azure Hills could see such wonders! Wouldn’t that be that ‘irony’ thing? Shifu’s village that Sun Ken had destroyed would instead have a monument in every village; a glass house to help them through the winter.
+
+She’d bring it up to her Shifu later.
+
+Yin and her Shifu arrived at the meeting place not long after, her steps light and a smile firmly on her face. She could feel the warmth of the sun, inside her body and out.
+
+They were the last to arrive. Huo Ten and Pi Pa were drinking tea with Big Sis Meiling, Bowu, and Chun Ke. Tigu and Big Bro Jin were sitting on the bank of the artificial river with their feet in the water, talking to Wa Shi. Xianghua and Gou Ren were leaning against each other on a stone bench. Bei Be, to Yin’s surprise, was watching over Zhuye, the child crawling along the grass.
+
+Xiulan was wrapped up in a blanket and dozing still.
+
+Big Bro Jin smiled as he saw them and then stood up.
+
+“Alright everybody, gather around—I’ll wake up the Xiu-Shi roll,” he said, looking amused. Yin was a bit confused, before realizing who he was talking about. She snorted. Xiulan did look kind of like some strange dessert, or food item, all rolled up like that.
+
+Jin stuck his finger, wet from the river, in the woman’s ear.
+
+Yin burst out laughing as Xiulan yelped, flailing for a moment in her blanket—before turning and glaring impotently at him.
+
+Big Bro just stuck his tongue out and dried off his hands. He then picked up a scroll that was sitting beside a pile of woodblocks and began to read it.
+
+Fa Bi De pays his respects to his Great Master, the Healing Sage, and his fellow disciples…
+
+And thus, they settled down to listen to the story of Bi De’s journey. One of Yin’s closest friends, the one who had brought them to this wonderful, wonderful place.
+
+They listened in relative silence as their journey progressed—until a certain line.
+
+Thus, to facilitate our infiltration of the Shrouded Mountain Sect and investigate the potential Demonic presence, we transformed into humans.
+
+“Ha! I knew they could do it!” Tigu shouted. “Come on, let's see what they look like! I’m sure Bi De looks insufferably smug, and Ri Zu is short!”
+
+Yin noticed practically everybody who had stayed at home turned to look at Tigu, as Big Bro Jin pulled out the woodprint and turned it around.
+
+Vibrant red hair immediately caught Yin’s eyes. A perfect, masculine face. Muscles for days. And those green eyes—Yin swallowed as her heart sped up.
+
+“Wow,” she breathed out.
+
+And then Tigu broke the spell.
+
+“That rat is going to be absolutely insufferable when she gets back, isn't she?” the woman asked, her eyes glaring at the second person in the image. Yin managed to tear her eyes away from Bi De and look at—
+
+Oh, so that's why everybody else was watching her. Yin turned to Tigu after that too, taking in her twitching eyebrow.
+
+“Why?! It isn’t fair, damn it! Why does she get freckles! And after saying my taste is weird, look! Look at her arms, she has some muscle there!” Tigu marched up to the wooden block and glared at Ri Zu. “Look! Look at that little smirk! She's mocking me! I know it!”
+
+“She’s cute though,” Big Sis Mei said, smirking.
+
+“Of course, they’re both good looking! How could Ri Zu be anything but devastatingly cute when she looks like Mistress?! How could Bi De not be handsome when he looks like a girly version of Master?!” Tigu demanded. Yin saw Wa Shi nearly spit out his drink as he started laughing. “I’ll admit that Bi De’s musculature is nearly perfect… but he would be better with a bit more ruggedness! And what the hells is this?!” A finger jabbed at Ri Zu’s chest. “Why are they so big?!”
+
+Yin pulled out the snacks Wa Shi had given her for the hammock and settled in, a smile on her face as Tigu ranted.
+
+Fuck, she loved being home.
+
+========================
+
+They did eventually get through the story.
+
+It was quite a tense one, full of twists and turns… but Yin contented herself with one fact; there had been no demons, and the old bastard Shen Yu was currently bearing down on them.
+
+She was still afraid of the man. She still didn’t like him, for threatening her home.
+
+But if that asshole was on the case? The demons were fucked.
+
+Yin went to sleep on the hammock, content.

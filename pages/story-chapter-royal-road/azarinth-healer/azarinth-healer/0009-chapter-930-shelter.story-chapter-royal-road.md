@@ -1,0 +1,255 @@
+---
+id: f69db4fc-52f9-5c92-8ad7-59fabfbc1b3c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 930 Shelter"
+slug: 0009-chapter-930-shelter
+partOf: azarinth-healer
+position: 9
+ownLength: 3232
+unit: words
+publishedAt: 2023-03-27
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1149664/chapter-930-shelter"
+royalRoadId: "1149664"
+---
+
+Chapter 930 Shelter
+
+Ilea checked her armor and found the Calamity Scale set fully repaired already. My healing probably helped. Too much going on in that battle to notice. She nodded to Owl, the Greater Lich glowing with death magic.
+
+She saw some of the others vanish before one of Aki’s Executioners walked over, its green eyes glowing bright in the dark wasteland of the North.
+
+Not just the North now, she thought.
+
+“Ilea, a gate back to Iz? Before they all collapse,” Aki said, pointing to the gathering Core Guardians. Nine had made it through the battle. Gold, Tungsten, and Iron the missing ones, as far as she could tell.
+
+She smiled and opened a gate. “Sure, thanks for the help, Aki.”
+
+“I’ll pass it on to Ormont, and the Taleen,” he said.
+
+Ilea saw the machines walk or fly through the large gate before she looked for Nelras. He stood with Nes and Scipio, looking at the leaf bladed spear in his hands.
+
+“Are you sure?” Nelras spoke.
+
+Nes closed her eyes and bowed her head. “I am sure Marva would approve. And I know she would be irked if anyone but a master would wield it.”
+
+He twirled the weapon and hissed. “A beautiful weapon. I will honor it.”
+
+“I am sure you will, Nelras Ithom,” Nes spoke and glanced towards Ilea. “I will not delay you any further. Good luck.”
+
+Ilea nodded her way.
+
+“She let you keep it, huh,” Ilea said towards the elf when a Watcher flew out of the gate.
+
+“It is the spear that had once defeated Ravana Vor Itar. I suppose it’s fitting, with the battle we’ve fought,” Nelras spoke as he joined her. “Where to?”
+
+The Watcher hovered before them. “I’m coordinating the forces of the Accords and all of our allies, and those willing to fight alongside us. We’re monitoring the situation. To make this more efficient, I ask you to take me with you. I will set a destination based on priority, and I’ll let you know the fastest way to get there. Ilea, please refrain from using your fires for the first seven battlegrounds. I will let you know when you can let loose fully. We must secure survivors and settlements first.”
+
+“Of course. Point the way, Aki,” Ilea spoke.
+
+“The enchanted walls of the Pit won’t hold much longer. It will be our first destination,” Aki spoke. “Let me lead you to a gate.”
+
+Ilea followed, checking through her messages on the way to the Teleportation platform in the domain of the Meadow.
+
+‘ding’ ‘You have killed [Soul Ripper – lvl 528]’‘ding’ ‘You have killed [Soul Ripper – lvl 689]’…‘ding’ ‘You have killed [З̠̞̞̪͜ͅр͔͙͕͞е͖̙̻͈͙̮н̵̘и̸е͠ - lvl 1837]’…‘ding’ ‘You have killed [The Architect of Creation – lvl 1039 / The Scholar of Life – lvl 1038 / The Star Walker – lvl 1035 / The Maker of Divinity – lvl 1037]’
+
+So much power, and knowledge. So much possibility. And this was what he did with it. What he worked on for millennia.
+
+She looked at the last kill notification in her list.
+
+‘ding’ ‘Your group has killed [The Spiral Huntress – lvl 3000 / The Last Blood Seeker – lvl 3000 / The Storm of Nyl – lvl 3000 / The Fortified Chosen – lvl 3000]’
+
+Ilea felt the gate activate and turned off her space magic resistance, following the Watcher’s guidance.
+
+All exactly at three thousand. All manufactured, by Ker Velor… and empowered by the Source. She wondered how Ravana had fought back then. When she had been a mere Ascended. Would she have put up more of a fight than the Architect himself? I suppose I’ll never know.
+
+‘ding’ ‘The Cosmic Immortal has reached level 1005 – Five stat points awarded’‘ding’ ‘The Cosmic Immortal has reached level 1006 – Five stat points awarded’…‘ding’ ‘The Cosmic Immortal has reached level 1011 – Five stat points awarded’
+
+‘ding’ ‘The Pyroclastic Storm has reached level 1002 – Five stat points awarded’‘ding’ ‘The Pyroclastic Storm has reached level 1003 – Five stat points awarded’…‘ding’ ‘The Pyroclastic Storm has reached level 1008 – Five stat points awarded’
+
+‘ding’ ‘The Sunforged Realmwalker has reached level 1003 – One stat point awarded’‘ding’ ‘The Sunforged Realmwalker has reached level 1004 – One stat point awarded’…‘ding’ ‘The Sunforged Realmwalker has reached level 1009 – One stat point awarded’
+
+Most of the levels from the battle against Ravana. I suppose the ones before were just cleanup.
+
+She put all of her new 77 stat points into Wisdom. Her mana had seemed endless, but for the next time she faced a Source enhanced Ascended, she didn’t plan to be overwhelmed again. You never know.
+
+She smiled, looking at the levels past one thousand. In a way, it felt like a new start. Level eleven. Just casually wielding the Primordial Flame, and realm teleportation.
+
+‘ding’ ‘Bulwark of Ash reaches 3rd lvl 28’‘ding’ ‘Bulwark of Ash reaches 3rd lvl 29’
+
+‘ding’ ‘Drill reaches 2nd lvl 6’‘ding’ ‘Drill reaches 2nd lvl 7’‘ding’ ‘Drill reaches 2nd lvl 8’
+
+‘ding’ ‘Spear of Ash reaches 3rd lvl 21’‘ding’ ‘Spear of Ash reaches 3rd lvl 22’‘ding’ ‘Spear of Ash reaches 3rd lvl 23’
+
+‘ding’ ‘Star Touched reaches lvl 9’…‘ding’ ‘Star Touched reaches lvl 16’
+
+‘ding’ ‘Telepathy reaches 2nd lvl 2’
+
+‘ding’ ‘Lightning Resistance reaches 3rd lvl 26’‘ding’ ‘Lightning Resistance reaches 3rd lvl 27’‘ding’ ‘Lightning Resistance reaches 3rd lvl 28’
+
+‘ding’ ‘Vibration Magic Resistance reaches lvl 2’…‘ding’ ‘Vibration Magic Resistance reaches 2nd lvl 1’
+
+Vibration Magic Resistance – 2nd lvl 1A rare and dangerous form of magic, combining a mastery of sound and heat to create a force meant only to destroy. You have faced this magic and survived. Try not to get hit again.2nd stage: You spells and magical constructs become more resilient against the effects of vibration magic.
+
+‘ding’ ‘Vibration Magic Resistance reaches 2nd lvl 2’…‘ding’ ‘Vibration Magic Resistance reaches 2nd lvl 12’
+
+‘ding’ ‘You have survived an Extraction – One Core skill point awarded’‘ding’ ‘You have found the stronghold of the Architect – One Core skill point awarded’‘ding’ ‘You have destroyed the stronghold of the Architect – One Core skill point awarded’‘ding’ ‘You have survived an extended battle against a Source powered being – One Core skill point awarded’‘ding’ ‘You have defeated a Source powered being – One Core skill point awarded’This story is posted elsewhere by the author. Help them out by reading the authentic version.‘ding’ ‘You have stood in the face of a Source – One Core skill point awarded’
+
+‘ding’ ‘New titles available’
+
+- Ascended Huntress [The self proclaimed God Makers fear nothing, except for you. You will find it easier to follow their tracks, and to withstand their magic]- Sun Seared [You have faced the power of a star, and yet you remain. You take considerably less damage from the heat of stars and your mana regeneration is increased by 10% when in the light of a star]
+
+Not quite the same as a Source. Suppose I’ll stick with my Dragonslayer title until I get something as good as a Source itself, Ilea thought and grinned as they arrived on a mobile teleportation platform within the Pit, colorful light shimmering from the many metal roofs of the ancient settlement. The streets were packed, refugees from all over.
+
+Maybe I should eat the one we have, might give me something better. She flew past the wide eyed dwarves and Dark Ones, Nelras and Owl at her side. The powerful enchantments embedded into the city gates were glowing bright, enchanters repairing as impacts shook the massive doors. Ilea glanced at the many war machines waiting and prepared for battle.
+
+“We’ll take it from here,” she said, and teleported both herself and her allies past the gates, and into the fray.
+
+________________________________
+
+“It’s not your fault,” Abby spoke.
+
+Dale felt the warmth of her hands around his own. He was exhausted. And he felt empty. Looking at his children, at Alaina and Rhett, he tried to compose himself, tried to be the father he wanted to be for them. He tried to be there. But he couldn’t bring himself to even meet their eyes.
+
+He just sat there, while occasional impacts rattled the shelter ceiling and walls. He would fight if he had to, but what was the point? Their city lay in ruins. A star had been taken from the sky. These were beings one could not fight. All they could do was hide. Deep below the ground. And hope that those gods would not see nor care for them.
+
+“She won’t lose, you know,” Abby said.
+
+Dale looked up and into her eyes. “We already lost,” he said, his voice dry. He tasted blood in his mouth.
+
+“Lost a sun, according to the machine. One’s still up there,” a new voice spoke.
+
+Dale looked over and saw a man he had met before. Walter was his name. A brewer and bard, and a friend of Ilea’s.
+
+The man pulled a nearby crate closer. He summoned a few mugs and a barrel, cracking it open. A moment later, he handed a mug to Abby, glancing at Rhett. “A young warrior.” He gave him a mug and smiled at the wide eyed Alaina, handing her a smaller cup he hadn’t filled with ale.
+
+Walter then turned to Dale, his expression unreadable. “And for you, an old warrior.”
+
+“I’m not in the mood for drink,” Dale spoke.
+
+“Suit yourself,” Walter said before he summoned a lute and started playing, walking out and past the fear stricken faces of those who had managed to get down into the shelters. “And when the lands are full of monsters...” he sang, playing the tune over the impacts that still shook the walls. “… wish not for gods or miracles, but hope you see a Shadow. Black armor and wisps, their justice is swift, wish for a Shadow at noon.”
+
+Dale saw one of the guards round the corner, eyes going wide when he saw him. “Captain Langston, all Officers are to report to Alistair in the main hall. There is news.”
+
+“News?” Rhett asked.
+
+The young guard smiled. “Yes! It is good news but I’m not allowed to say.”
+
+Good news, Dale frowned and stood up. He didn’t like it, but he still had duties to uphold. “I will be back.”
+
+Abby stood up and smiled. She kept holding his hand. “No, dear. We’ll come with you. Right?” she said and looked to the children.
+
+Rhett stood up, hand on the handle of his sheathed short sword. Alaina rushed up and grabbed his other hand.
+
+Dale took in a deep breath. He nearly let go in that moment, but he caught himself, closing his eyes and taking in a deep breath. When he opened them, he looked straight into the green eyes of Abby.
+
+“There you are,” she said and smiled.
+
+“Don’t,” he grumbled and started towards the main hall.
+
+The shelters were extensive, Riverwatch receiving a lot of development after the Sanvaruun had attacked their city.
+
+The shields alone probably saved tens of thousands of lives today. He shook his head at the thought. But did those lives have to be endangered in the first place?
+
+They reached the hall, magical lights shining down from above, bright and enchanted. He noted that the walls hadn’t shaken once on the way there.
+
+Alistair stood with many of the city officials. A few silver machines were nearby too.
+
+He saw Walter join a group of familiar faces nearby. From the Vultures Brotherhood who had nestled themselves into the Calys mines. The man gave him a slight nod.
+
+“The way down to the shelters is heavily obstructed, but the gates will hold for another few hours at least. There are only a few dozen void creatures who managed to get all the way down,” one of the silver machines spoke.
+
+“Shouldn’t we go out there and kill them?” Alistair spoke.
+
+“The gathered forces here are not equipped to deal with the three mark beings. Strike teams are currently clearing out high priority locations. The Riverwatch shelters are safe,” Aki said. “The following information is for officers only,” he said and glanced to a few mages standing to the side.
+
+They cast a dome like spell that blocked noise from going in or out of the area.
+
+“That’s you,” Abby said and squeezed his hand.
+
+Dale breathed in. “I’ll be right back.”
+
+He stepped into the area to join the others, one of the machines glancing at him with its bright green glowing eyes.
+
+“We just received confirmation of the death of the Architect, and of Ravana Vor Itar. To reiterate, the Accords has found an Extraction mesh ready to be used. Based on our threat assessment, we made the unanimous decision to destroy it in a broad strike against a high number of facilities. This strike was successful, however the Architect had built not one, but two of such meshes.
+
+“An Extraction took place and has been completed, removing one of the suns of Elos and altering the surface of this realm, comparable to the landscape in the North. The destruction, and our losses, are enormous. The main threat is dealt with, and our current objective is to secure any shelters and survivors, eliminating void creatures still present in this realm.”
+
+“How extensive are the changes?” one of the officials asked.
+
+“Extensive. Not many of our cities remain untouched. What remains of Riverwatch is now below ground, but void creatures remain. We should prepare everyone to stay in this shelter for a few days at least. A teleportation gate will be added as soon as I can provide one.”
+
+They won?
+
+Dale looked around, seeing relief in some of the faces. He didn’t feel the same.
+
+It was Alistair who spoke. “Everything we lost… how many void beings remain? Our lands are changed… our city destroyed… our people…”
+
+It was quiet for a long moment.
+
+“We will rebuild,” Dale heard himself say. He looked up and saw the officers looking at him, he saw Alistair looking at him. “We are still here,” he said, but his heart wasn’t in it.
+
+“The involved Ascended were the main threat. We’re already looking into avenues of fighting the changed nature of our lands. Void creatures will remain a threat for some time, but only due to their sheer numbers,” Aki spoke. “The people who made it to this shelter are safe here.”
+
+And there is nothing I can do. Machines and gods. Suns taken and cities destroyed.
+
+Aki looked at them and continued. “The battle is over. And there will come a time for grief, but there are thousands here, frightened and angry.”
+
+Alistair breathed in deeply, closing his eyes before he opened them once more. He looked more calm, then addressed the officers around, giving a long glance to Dale. “I feel, just as you do. Just as they do, but this is our duty. Be here, for those who remain.”
+
+Dale breathed out. He nodded. “How much of this can we share?” he asked, looking at the machine.
+
+“The perpetrators of what happened are defeated, and we are clearing out the void monsters. It will take time, but we will go on,” Aki said. “Up to a few weeks in the shelter. There are plenty of supplies. Centurions will start collecting requests and questions. Our goal is to prevent a panic and infighting.”
+
+Dale nodded. He had his own questions that remained, but at least it seemed the main threat was gone. He wondered how much the Accords had left after all this, but with Aki and their teleportation gates alone, they would have a chance. He couldn’t fight the monsters out there, nightmares brought unto their world by strange beings from another realm. But he knew crowds and their danger, especially those desperate and angry. And he could talk to the people here, the people he knew and had sworn to protect all those years ago. He could prevent more of them dying. And for that, he needed to let go of his own fears and anger.
+
+“There will be no panic,” Alistair spoke. “We will make sure of that,” he said and looked to the officers. “Tonight, be with your families, and be with your people. We will meet again in the morning.”
+
+Dale soon left the now silent gathering, glances and quiet gestures exchanged before he went back to his family. He hugged Abby, and sobbed.
+
+__________________________
+
+Cless sighed, crossing her arms as she locked eyes with her mom. “You’re so stubborn,” she said.
+
+“I am,” her mother said.
+
+They were in a temporary shelter in the Haven, walls set up to provide privacy, a few bedrolls in the corners of the room and a candle burning on a small table at the center. She had not hung up any of her paintings, knowing they would be out of here in a matter of days.
+
+“Why?” Cless hissed.
+
+“You are a teenager, that’s why. And I’m worried,” Jennifer said and walked closer. “Why do you even want to go now? I thought you weren’t interested in fighting monsters?”
+
+“They destroyed so much! And we’re retaking our lands, I want to take part in that!” Cless said.
+
+Jennifer sighed. “I just want you to be patient, at least wait until more information is available.”
+
+“Ilea defeated the baddies,” she said, raising her brows. “All that remains are mindless monsters. I can teleport away, and the levels are really really good! This is an incredible opportunity! All the Sentinels are talking about it.”
+
+She didn’t really care all that much about the levels and all that, but she just didn’t want to stay here when everyone went out to fight.
+
+Jennifer took in a deep breath. “Alright. Alright. As soon as the first Sentinels ten levels or more below yours leave to hunt those monsters… officially, and approved by their faculty, you can go.”
+
+Cless smiled.
+
+“With a team,” Jennifer said.
+
+Cless groaned.
+
+The door opened and Torben glanced inside. “There is a barbecue of hunted Haven monsters. Thought I’d ask you two to join? It smells delicious.”
+
+“Dad, shouldn’t I be allowed to leave and fight monsters immediately?” Cless exclaimed.
+
+“You should listen to your mother. I’m a wanted criminal,” Torben said.
+
+Cless looked at him, then smiled, more so when she saw her mother roll her eyes.
+
+“Can you stop with that? We’re experiencing a global cataclysm,” Jennifer said.
+
+“Yeah, but there’s a barbecue,” Torben said and walked inside.
+
+“You were freaking out about magic just a few weeks ago,” Jennifer murmured.
+
+Torben smiled at each of them in turn. “I was. But now, I’m just glad to be here, with the both of you.” He grabbed each of their hands before he pulled them outside into the sunlight of the Haven.
+
+Birds chirped nearby, music and singing resounding through the forested area. Cless saw the high reaching farms busy as always with hundreds of vegetation mages. She heard the sound of teleportation gates activating beyond the row of shelters. A baby screamed.
+
+She could’ve easily pulled free from the weak grip of her dad. A low level human. And yet she didn’t. She didn’t really know why, but she supposed a barbecue didn’t sound too bad after all, even with all the chaos out there, and the Sentinels and Shadows already leaving to fight.

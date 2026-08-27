@@ -1,0 +1,187 @@
+---
+id: 407aef19-6395-533b-a2f9-ab759747c1f0
+page-type-slug: story-chapter-royal-road
+title: "43. A Shadow of Life"
+slug: 0043-43-a-shadow-of-life
+partOf: breaker-of-horizons
+position: 43
+ownLength: 2508
+unit: words
+publishedAt: 2020-09-28
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/561299/43-a-shadow-of-life"
+royalRoadId: "561299"
+---
+
+"How've you been getting through the gate?" I asked as we made our way past the Spire.
+
+"I just walk through it."
+
+"What? Isn't it warded?"
+
+"It's technically hidden, not warded" Jerric corrected.
+
+"You figured it out all the way back then? I still don't know how to get through it. But I think it has something to do with the glyph of transmutation."
+
+"Hm." He frowned, thinking. "Because of how the door seems to melt out from the wall? Now that you mention it, that's probably the way to properly get through it."
+
+"Well, what have you been doing then?"
+
+"The Minor Query led me right to the spot where the door was. So that meant it wasn't hidden from arcanic constructs. I just made a generic Minor Control Sphere and probed around with it to see if it could connect to the door. Turns out it can. And the simple 'open' command gets the door to open, even if you can't see it."
+
+"That's... such a big loophole. And really bad security."
+
+He shrugged. "If the Academy's serious about securing the door, it'd be secure. Look at the duelling chambers. Anyway, let's try this glyph of transmutation idea and see if we can do it the proper way. We might learn something."
+
+Before long, we were standing before the marble wall. I half-expected to see the Demiurge there, and I breathed a sigh of relief when he failed to materialise from the shadows.
+
+"Any ideas?" I asked, placing my hand on the smooth wall.
+
+"We know how it opens. And it looks like the same door every time, so that means it's not something you have to transmute yourself," Jeric mused. Even though he sounded... weary... his intellect was as sharp as ever. "There's probably a sequence set into the wall that forms the door, so it just needs to be triggered."
+
+"Just the glyph of transmutation, and a general activation glyph, then," I said, forming them in my head and threading a little arcana through them and out onto the wall.
+
+Nothing happened. Jerric was looking expectantly at me, but after a moment he folded his arms and stared hard at the wall.
+
+"The general activation glyph is probably too broad. But it's a bit odd that it wouldn't work when the Minor Control Sphere does," he thought aloud.
+
+"You use the 'open' command through the sphere. That's more specific."
+
+"Yes, but there's no 'open' glyph," Jerric pointed out. "We're using the commands built into it by more advanced principles."
+
+"Well, maybe we can't figure it out until we learn more. The Demiurge mentioned that most people crack it in their second year. Let's just get through it your way for now."
+
+"Alright," he said, clearly a little dissatisfied. But he called up the Minor Control Sphere, and a moment later the wall rippled slightly, and the marble melted back in silence, leaving the ancient-looking wooden door exposed.
+
+"So... mind telling me what I should be expecting?" I asked as we stepped through and started down on the path, conjuring our own globe lights now that we were beyond the wall.
+
+"I really don't have the words for it, Caden," Jerric answered with a little laugh. It was an odd sound — incredulity and sadness mixed together. "I'll have to show you."
+
+"Well, whatever you plan to do, please don't throw yourself into the lake again. I'll probably freeze my nipples off if I have to jump in and drag you out."
+
+This time, the laugh was a little brighter, though brief. I smiled a little.
+
+"No, I won't have to jump in. I know how to trigger it, now."
+
+A nagging suspicion trickled through my thoughts as we drew closer to the lake. Jerric led us all the way to the water's edge, and I felt a vague unease as we came almost to the exact spot where I had planted my chair back when I had made my own first momentous visit here.
+
+The night was quiet and the only sound was the wind, rustling through the dying grass and sweeping across the water, sending it trickling up the rocky bank. The almost-full moon and the stars overhead were reflected in the relatively still surface of the lake. It might have been a peaceful scene, but seeing Jerric standing there at the water's edge, and knowing what had brought him here once, only made me tense.
+
+"Alright... don't freak out, okay?" Jerric asked, looking back at me.
+
+I nodded, bracing myself a little. If my theory was right, he was about to call forth some variation of the friend-in-the-arcana.
+
+There was a stirring in the arcana but Jerric was not 'speaking' into it. This was something more visceral, like an inarticulate cry that nevertheless communicated raw emotion. He made no sound, whether physically or through his arcanic 'voice', but I felt him connect with the arcana in some profound way, pouring his being into the channel. And something answered him.
+
+I didn't recognise this flavour-vein-echo, not completely. It reminded me of the friend-in-the-arcana in the same way a tiger might resemble a house cat. There was certainly a kind of familiarity, but I instinctively understood that this was on a different order entirely. And yet, it wasn't that alien to me either. I realised with a thrill of fear that I had encountered its like before — it was closer in sensation to the new arcanic being that had already made contact with me, and Ambrose, and now Kevan.
+
+But whereas that arcanic being burned with intent, this one radiated a kind of softness, almost a sadness. I found myself being drawn to it, and I came to stand next to Jerric, the two of us staring out across the water at the indistinct haze, a shadow in the moonlight that had materialised just out of reach.
+
+"What did you do?" I asked, a little surprised to find myself whispering.
+
+"I just... infused the arcana with my feelings. Like how we get ready for an ensorcelment," Jerric answered in a low murmur. "And it comes. But only here."
+
+A shift in the air — I felt a dense knot of arcana taking shape, and a moment later the hazy form resolved into the vague image of a woman. Her face was the clearest. Her long, black hair had been drawn into a high ponytail, and her grey eyes focused on Jerric. The rest of her body was indistinct, fading into blurry obscurity, but I caught the suggestion of a dark brown suit. There wasn't much of a resemblance, but the eyes were familiar.
+
+"Is that..." I began.
+
+"My mother," he whispered, his throat tight. "She... she died. In a lake. I was twelve."
+
+My heart was racing. There were plenty of stories about spirits and spectres, but that was all they were supposed to be — stories. And yet, even though I felt afraid, there was something very calming about the spectre's presence. She continued to look steadily at Jerric, who simply gazed back, his eyes brimming.
+
+Eventually, he broke the silence. "So... that's what's stopped me. But... I figured, after... after the last attempt... that it's not really her. And... and if it's not her, then there's no point... trying to join her. Or not her... 'it'. Because it's just... something in the arcana."
+
+I let out a long, slow breath. I had no words to offer.
+
+Jerric continued. "Since I figured that out, I've just been coming here to try and understand exactly what 'it' is. And why it only comes out here, and not anywhere else."
+
+"Do you mind if I..." I gestured vaguely at the figure.
+
+He turned away from me and wiped his eyes. "Yeah, sure, go ahead."
+
+'Hello,' I voiced to it, tentatively reaching out through the arcana.
+
+With an alarming suddenness, her head jerked to face me. I backed away hastily, and Jerric stumbled backwards too. The aura of sadness had given way to possessive anger.
+
+"What did you do?" he demanded. We both watched warily, but the figure did not move, although it continued to glare, its gaze fixed on me now.
+
+"I 'spoke' to it," I answered, panting a little as I clutched my chest. My heart was hammering against my ribs.
+
+"How do you do that?" Jerric pressed.
+
+"Did you... hear what I did? Could you feel it?"
+
+"Yeah, but I couldn't make it out. That was you? It felt like it was coming from her." He caught himself and amended, "From it. So how do you do it?"
+
+"Like ensorcelment, but with... a kind of frame-shift applied. The arcana is something you actually talk to."
+
+Jerric looked simultaneously excited and terrified by that idea. He closed his eyes, his brow furrowed as he concentrated. A moment later, I 'heard' him.
+
+'Mum?'
+
+The figure's gaze snapped back to him, and the tension in the air melted away. I heaved a sigh of relief, but it hitched in my throat when I saw Jerric's eyes still closed as he dropped to a knee.
+
+"Jerric? Jerric!" I rushed over to him.
+
+The figure gestured and a wave of force crashed into me, knocking me on my back and driving the air out of my lungs.
+
+'Mum, why?'
+
+Gasping for breath, I rolled onto my stomach and pushed myself up. Jerric was on all fours now, and the figure was drifting to him. As it reached the shore, it seemed to gain coherence, and the woman was now fully-formed, her smart brown suit ending in a pair of black stilettos.
+
+'Stop,' I rasped, latching on to it with my arcana. This felt horribly like deja-vu when another arcanic being had closed in on Ambrose. I didn't know what I could do now, on my own, but calling that other thing here did not seem wise.
+
+The woman turned to me, her face set in anger. The weight of her scrutiny pinned me down, and I couldn't push back against her as she pressed me into the cold earth, couldn't shield myself from that awful power.
+
+Why shield when you can dodge? The memory came with a flash of inspiration.
+
+I knew my own 'signature', the flavour-vein-echo of my auric-ambient-flare. Around that core of knowledge, I drew together a honeycombed shell of arcana and projected it behind her, over the water. The woman turned to face it and in that instant, the weight was lifted. I threw myself across the short distance towards Jerric, desperately shaping another sequence in my head as I landed painfully, hoping against hope that my improvisation would work.
+
+The little sphere I had conjured held up for a few seconds before being crushed. The semi-solid arcana fell into the water, fizzling gently. The woman turned — I felt that awful weight sweep across my conjuration — and a moment later I sensed her drifting out over the water.
+
+Jerric shifted beneath me and opened his mouth to speak. I clamped a hand over his mouth and shook my head, hardly daring to breathe.
+
+We lay there for a while more. The blood pounding in my ears made it hard to focus, but I held on to the sequence in my head with every ounce of will I could muster, until I could no longer sense the woman's presence. Only then did I release the sequence. A quick glance over the lake revealed nothing, but I didn't want to take any chances. I scrambled to my feet, pulling Jerric to his, and hauled him back up the path. We didn't stop until we were through the wall again. I leaned against it once the door was firmly shut and had sealed itself up.
+
+"Oh Fates," Jerric panted, steadying himself against the wall with a hand.
+
+"What was it doing to you?" I asked, just as winded.
+
+"She was talking to me," he answered, stifling a sob even as he struggled to bring his breathing under control.
+
+"... Talking? About what?"
+
+"About... about the night she died."
+
+"It. It's an 'it', remember?"
+
+"But she... it... it was so real. It sounded like her, in my head. Felt like her. Not like the other times."
+
+"I think... I think you frame-shifted the arcana into something that felt real, Jerric. You called it 'Mum'. Your memories, your emotions... they gave it depth. And... made it protective over you."
+
+I could see the wheels turning in his head, even as he lay in emotional wreckage. He nodded, sniffling. "I think you're right. And that's why it's been stopping me. Because I don't think she'd have wanted me to do it, either."
+
+"And probably why she attacked me," I said, wincing as I massaged my ribs.
+
+"Fates, I'm so sorry. What did you do, back there? Why didn't she come after you again? And why'd she vanish?"
+
+"Wit and dumb luck," I muttered, shaking my head at how close it had been. "It's... not the first time I've dealt with something like this. These... these 'intelligent' arcanic constructs. I figured it was tied to you since you called it 'Mum', so if I could cut it off from you then it'd just drift away by itself and dissipate, purposeless."
+
+"Cut it off? How?"
+
+"Dumb luck," I repeated. "Copied a trick from Kevan, if you can believe it. You should've seen his duel with Emilia. He used mirrors to vanish from sight. So I did the same, but also applied a frameshift to and around them so that the arcana around works a bit like actual light, and I could divert the arcana around us to hide us from its physical and, I dunno, 'arcanic' sight. So once it thought you weren't around any more, it didn't have a reason to stick around either. I had no idea if it would work, but I guess it did."
+
+We lapsed into silence, still recovering from the confrontation with the arcanic spectre. After a few more minutes, I felt steady enough to stop leaning against the wall. "We should head back."
+
+Jerric didn't respond. He was staring at the space in the wall where the door was.
+
+"Jerric... let's go."
+
+"Yeah. Yeah, alright." He turned to look at me, the shadow of his mother's fierceness crossing his face for a moment. "But you're going to teach me about these arcanic constructs. And then I'm going to unmake it."
+
+"I'm not sure if they persist," I began, but even as I said it I knew I was wrong. The arcanic being that had visited me in the dorm was definitely the same one that had come to me in the duelling chamber. And even before that, the friend-in-the-arcana that I had called on several times in the past did have a consistency to it.
+
+"They do," Jerric said firmly. "Or at least this one does."
+
+"But why do you want to... to unmake it?"
+
+"Because that's not my mother," Jerric said, his jaw set. "And I don't want it wearing her face."

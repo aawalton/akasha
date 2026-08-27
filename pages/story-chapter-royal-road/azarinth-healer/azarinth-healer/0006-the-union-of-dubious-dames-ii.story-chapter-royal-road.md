@@ -1,0 +1,231 @@
+---
+id: 828cfcaf-9bb9-514d-a6b5-12e9368988e4
+page-type-slug: story-chapter-royal-road
+title: "The Union of Dubious Dames II"
+slug: 0006-the-union-of-dubious-dames-ii
+partOf: azarinth-healer
+position: 6
+ownLength: 2289
+unit: words
+publishedAt: 2021-04-01
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/656181/the-union-of-dubious-dames-ii"
+royalRoadId: "656181"
+---
+
+The Union of Dubious Dames II
+
+“We’re heroines! Ah… but now I have to save two worlds already,” the bunny eared girl exclaimed, counting two fingers with a worried expression. She seemed to dismiss the thought entirely a moment later and walked to the portal, giggling before she promptly jumped in.
+
+“Why do these god-like beings keep bringing me to these unreasonable places. Did I die again?” one of the women said, looking at her palms where golden spheres of radiant burning light came to life.
+
+Ariane stumbled to the side, hissing loudly as she hid behind the familiar black haired ashen warrior. “Radiant orbs…,” she murmured, her eyes slightly unfocused.
+
+“I don’t think you died. Can you tone down the sunlight magic? She’s a vampire,” Ilea said, pointing behind herself. She gave Ariane a curious look through her spherical perception. “What?”
+
+“It’s a secret, you know?” the blond haired vampire whispered. “You’re so careless,” she added with a sigh. “If only your blood wasn’t so very… intoxicating.”
+
+“You’re drunk,” Ilea said, attempting to take care of the issue with her healing. Her eyes opened wide when she inspected the vampire. “Guess something doesn’t want you to be healed. Interesting.”
+
+“I’m Elaine,” the sunlight warrior said, any trace of her magic gone as she watched the interaction between the two women. “How do you know I didn’t die?”
+
+“Well you’re here, aren’t you?” Ilea asked and looked around. “Seems to be some kind of spatial construct we’ve been put in… doesn’t look particularly well made. Maybe they could ask the Meadow to help construct their next meadow. It’s deteriorating.”
+
+“De… teriorating?” Elaine said.
+
+“Yeah. Let me look at the portal,” Ilea said and walked over to the large construct.
+
+“You all seem… calm, about all this,” another woman said, glancing between Elaine and the vampire.
+
+Ariane grinned, her eyes wandering over the women before she settled on the dragon.
+
+The girl turned winged draconic creature crouched within the shallow waters, her massive form preventing any sort of stealth to be successful.
+
+“I see you,” Ariane whispered.
+
+“Don’t provoke the dragon,” Elaine said in a careful tone, giving the winged creature a side glance.
+
+“Of course not! I merely wish to get better acquainted with someone of such excellent taste,” Ariane said with a predatory expression.
+
+Ilea meanwhile poked her head through the gate and came back out, walked over to the vampire and grabbed her by the collar of her practical battle dress. “I think you’ve had enough to drink,” she said, ignoring the hisses of complaint.
+
+The vampire used her deadly claws to swipe at the woman kidnapping her, trying to sink her teeth into her arms in a drunken frenzy. “You dare! Unhand me, you uncivilized ash… you are going to toss me again...” her complaints were cut off when she was thrown through the portal.
+
+The two remaining women and dragon looked at Ilea with a mixture of confusion and apprehension.
+
+“There’s no sunlight. And there are snacks,” she said and looked out to the stars. “Ah, maybe she can’t eat those. I better go check on her, you’re right, you’re right. No need to judge that harshly,” she added and rushed through the portal herself.
+
+The two women looked at each other, Elaine glancing back at the dragon that tried to crouch even more.
+
+“I’m Eve,” the other woman said, turning around to address the dragon. “You were a girl before, right? No need to be afraid. This must have something to do with our quests. Maybe the Questing Stones brought us here.”
+
+“You guys have quests?” Elaine asked, side eyeing the dragon still.
+
+“I’m Candle,” the being said, looking at Eve.
+
+“Nice to meet you, Candle,” Evelia answered and smiled. “I don’t think you’ll fit through that thing like that.”
+
+The dragon nodded slowly, shimmering light illuminating her scales before she returned to her human form. She looked down, avoiding eye contact.
+
+“I like your eyes,” Eve said. “Come, let’s join the others. The sooner we leave this place, the sooner we’re done. I just hope we can return to where we came from,” she added, murmuring the last part.
+
+“I hope so too,” Elaine said, looking at Candle with a little less apprehension. She didn’t know if all dragons could transform, but the girl in front of her looked so terribly non-threatening, she felt bad for fearing her.
+
+“Did you know any of the others?” Eve asked.
+
+“Nope. But that blue-eyed woman and the vampire seemed to be acquainted,” Elaine said, stepping through the large interdimensional portal without worry.
+
+She blinked her eyes when she was through, finding herself in the same convenience store they had been shown by the weird godlike shapeshifter. It seemed those creatures just didn’t respect the time of mortals.
+
+Ariane sat between various opened packets of crisps, ripped open chocolate wrappings, and various cleaning products. She sniffed the air and rushed to another shelf with frightening speed, her claws ripping through the coffee section of the store. Clouds of brown powder and beans exploded outwards, a shiver going through the vampire’s back as she roared in joy.
+
+The window front of the store showed that it was night outside, an entirely oversized and empty car park with a few houses beyond suggesting some rural town in the states.
+
+Elaine wondered if this was her Earth, or if it just looked similar. Her magic still worked, the vampire so distracted by the coffee cloud that she didn’t even notice the quick bright light coming from her spell.
+
+Eve came out from the portal, followed by the timid blue eyed girl.
+
+Their eyes widened in wonder, looking at everything around them.
+
+“You’re not from Earth?” Elaine asked.
+
+“Earth? Is this it?” Eve asked, grabbing a hair brush from a nearby shelf before she flicked the plastic.
+
+“It’s… weird,” Candle whispered, looking at something moving past. Nobody else seemed to notice.
+
+“They probably don’t have mangoes here,” Elaine murmured, looking for the produce section but not finding one.
+
+Noises resounded from behind the counter, the bunny eared girl rejoicing with a triumphant gesture.
+
+Ilea sighed and moved aside. “Your turn, Larry.”
+
+The clerk and apparent champion of good blinked a few times as he looked around the store, rubbing his eyes as he murmured something about tripping.
+
+Elaine joined them, vaguely noticing Eve and Candle sticking to her, occasionally looking at some of the many products while the vampire rampaged further back.
+
+A small CRT television likely meant for the single camera hanging from the ceiling flickered with a game Elaine had heard about. Something from the nineties and entirely distorted by the video quality of the tv. And still it resonated with her.
+
+“You’re from around here?” Ilea asked her, the woman leaning against a nearby wall. She straightened when the thick wooden building strained under her weight. She coughed to try and offset the obvious.
+
+Elaine chose to ignore it. Pointing out weight was a delicate issue, even with close friends. And she really didn’t want to upset someone with that kind of mass.
+
+“Wow you’re heavy,” Eve said. “Maybe that’s what will happen to me if I manage to find and eat that bread.”
+
+“It’s useful in battle,” Ilea said, but it was pretty clear how she felt about the whole thing.
+
+“I’m from Earth, yes. But I don’t know if this is the same one,” Elaine said.
+
+Ilea smiled. “Me too, so is Brocoli,” she said and pointed at the bunny eared girl. “And I think Ari too, but from the past? And with… well vampires and magic, I suppose,” she added with a shrug.
+
+Elaine wondered how the woman could be so casual about all this.
+
+“Also there’s bread over there if you want some,” Ilea said, pointing at a nearby shelf.
+
+Eve turned when an electric current flashed up from a nearby microwave, the entire bread section bursting into flame.
+
+“I figured,” Evelia murmured as a nearby vampire hissed something about fire.
+
+A mist of ash formed out of thin air, covering the flames and extinguishing them in the process.
+
+“What’s that about, Eve?” Elaine asked.
+
+“I… I might have some effect on… nearby bread,” Eve said.
+
+“Eve,” Ilea murmured before shaking her head. “Some kind of bread related magic? That’s interesting. Is there a resistance?”
+
+“Resistance?” Eve asked.
+
+Brocoli jumped up, pumping her fist to the air. “I win!”
+
+“Damn, you’re good at this. Who are you guys anyway?” Larry asked as he looked at the group. “I’m not supposed to let anybody come behind the register.”
+
+The women looked at each other before glancing at the half destroyed store, coffee, crisps, and ash covering half of it.
+
+Ariane appeared between them, her torso, hair, and face covered in brown dust, a toothy grin the only white pushing through. Her eight fangs were obvious.
+
+Larry chuckled. “Nice cosplay, miss,” he said and gave her a thumbs up.
+
+“Cosplay?” Ariane asked, looking at her coffee covered hands. It seemed she was sobering up slowly.
+
+“It’s really good,” Brocoli said in a whisper. “All of you are, except you, Ilea,” she said with a giggle.
+
+Ash started to cover Ilea, horns jutting from her helmet as wings spread behind her. “How’s this?”
+
+“Hmm. Too gloomy. Not bad,” Broccoli said.
+
+“Everyone’s a critic,” Ilea sighed.
+
+“Are you a dragon?” Candle asked in a shy tone.
+
+“Not yet,” Ilea answered.
+
+“I advise against that kind of thinking,” Elaine said.
+
+“Having wings is the main deal anyway, and I have those,” Ilea said with a shrug. “Larry seems alright. What should we do about this whole business? I could bring you all to Elos, a realm of magic and monsters, but I’d guess you’d want to return to your own places?”
+
+“I would like that,” Eve said.
+
+“Me too! But we’re still friends,” Brocoli said with a serious expression.
+
+“So we’ll play along with that second rate eldritch shifter,” Ilea said.
+
+“Three days isn’t long,” Ariane said, her smile gone as she looked thoughtful. “A reconnaissance mission is in order, but how could we find our quarry? You are not restricted by sunlight. I will need a detailed list of your abilities and your knowledge of this world to devise a plan. If we can find the location and manage to travel there, we could perhaps manage an aerial attack with the help of our winged members. I’ll need a lot of gunpowder, and a workshop. Larry, you will assist me in this, you’re a merchant after all.”
+
+The man smiled. “Sure, there’s a gun store down the street.”
+
+“What about military bases? The technology in this world seems advanced. I’ll be interested in the kind of weaponry they possess here,” Ariane said. “But first, what do we know about Maximilian?”
+
+“Found him,” Elaine said, sitting at the nearby computer. “An island nation state called Manellia.”
+
+“What is this… tool…” Ariane murmured, stumbling over as she looked at the screen. “That is the man! What magic…”
+
+“It’s called the Internet,” Ilea said, finding a few confused stares looking back at her. “Physical tubes connected all over the globe, delivering information through electricity or light.”
+
+“Marvelous… what an invention… mages would be entirely obsolete… do you know about the state of weaponry too?” Ariane asked.
+
+“Yeah, we better not go there, vampire lass. I don’t want you to start dropping nukes,” Ilea said.
+
+“Nuke,” the woman whispered, licking her coffee-stained lips.
+
+“What have you done?” Larry whispered somewhere in the background.
+
+Broccoli pointed at the screen. “Oh that’s the man the nice space person talked about!”
+
+“What are nukes?” Elaine said, glancing around the group. “How far away is it?” Ilea asked.
+
+“Just checking. Hmm… they don’t use google here. The search engine is called Zenthuron. Doesn’t look like Earth either. Not quite,” she said, looking at a map of the globe. “Here’s the island.”
+
+“An island nation. It’s good we have flying warriors,” Ariane said. “Can you search for their political structure, societal norms, resource imports and exports, military strength, and allies?”
+
+“Calm down there Dracula,” Elaine said as she checked the search engine for Manellia. “Their main export is…,”
+
+“Mangoes!” Broccoli said, reading the text as she giggled. “I would like some, let’s go there and talk to this evil evil man. We will convince him to be friends with poor Larry.”
+
+“Why poor?” the man asked.
+
+Elaine joined the others again and sighed. “It’s a pretty long way there. What do you think we should do?”
+
+“I don’t want to attack them just like that,” Candle murmured.
+
+“Me neither. Just because someone told us they’re evil doesn’t mean that’s the case,” Eve said.
+
+Ariane whispered to herself. “Intercontinental nuclear warheads…,”
+
+Ilea sent an ashen spear through the pc sitting below the table, destroying a part of the floor in the process.
+
+“No! Machine, tell me more! Surrender your secrets!” Ariane exclaimed, shaking the blackened monitor.
+
+“No nukes,” Ilea said.
+
+Elaine nodded. “They would destroy all the mangoes.”
+
+Ariane stood up and looked at Ilea with a calculating gaze. “A compromise then. There was a section about a so-called agent Orange,” she said with a grin.
+
+“Oranges are nice too,” Broccoli said with a nod, her ears bobbing along.
+
+“Let’s check out the gun store first,” Elaine said.
+
+“Ah yes, lead me there, Larry,” Ariane said, slashing open a nearby bottle of water before she dowsed herself to get rid of the coffee.
+
+Ilea glanced at the Radiance mage and gave her a light nod. “She’ll be happy with a few anti material rifles and a bunch of machine guns, I’m sure.”
+
+“I hope you’re right,” Elaine said, the group following the enthusiastic vampire out into the night.

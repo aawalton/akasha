@@ -1,0 +1,97 @@
+---
+id: 81c7b14b-92ba-5e3e-a53c-9c5ac847d0cc
+page-type-slug: story-chapter-royal-road
+title: "136. Self-Determination"
+slug: 0136-136-self-determination
+partOf: breaker-of-horizons
+position: 136
+ownLength: 1873
+unit: words
+publishedAt: 2021-08-19
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/736464/136-self-determination"
+royalRoadId: "736464"
+---
+
+It was like being caught in the middle of a hurricane of flame. The red glare momentarily blinded Ambrose before the trailer's defences came up — all the windows were suddenly veiled with thick shields that filtered out the worst of the light, though there wasn't much to see besides the pattern of swirling fire that continued to press against the panes. Devon tried to floor the pedal to get them to of the maelstrom of shaped arcana, but the trailer had locked itself down and laid down formidable defences that anchored it in place. The initial wave of searing heat was immediately reduced to a dull warmth. After a few seconds, the roaring flames vanished, and all they could hear was the potent hum of the trailer's shields and the faint sizzle of the asphalt.
+
+Clearly, they had been found, so there was no point hiding now. Ambrose acted as quickly as he could even though he was still reeling from how the wellspring-ocean-core's had violently thrown him back into his own body. He grit his teeth and plunged back into oblivion, and with a tremendous effort, he dragged his auric-ambient-flare out of it, together with Devon's and Jerric's, so they could operate normally again.
+
+"I've unveiled us," he said, panting a little with the exertion. "We... need to gestalt. Defend ourselves."
+
+Devon looked sick, though it wasn't clear whether that was because of fear or the brief sensory overload that came with having access to his auric-ambient-flare again. "Are we making a stand here, or trying to make a run for it?" he asked as he did a quick check to see whether the defences would allow him to drive normally.
+
+"If they're like the ones from the manor attack, running is wiser," Jerric answered. He was holding the back of Devon's seat for support, and only looked marginally better.
+
+"Give me a second," Ambrose said, and dipped into the arcanic sea to take stock of what was going on.
+
+He was pleased to see that his own layer of defences was intact, and had worked as intended. Perhaps a quarter of the arcana that had been invested in the attack against them had been unravelled by his weaving, and the energy was now being held in reserve in a tight sphere that was drifting a few inches over the front of the trailer where he was. He quickly connected with it, ready to shape it into a shield-piercing sequence.
+
+But there were no targets. Except for the scorched asphalt around them, there was no other sign of hostiles.
+
+Ambrose's heart sank. Were the enemies capable of doing what he had done — veiling their auric-ambient-flares in oblivion? But how was that possible?
+
+The calm, empty arcanic sea suddenly surged and stretched as some unseen hand started shaping energy. Another storm of fire was building around them, though Ambrose couldn't tell where the architect was.
+
+"DRIVE!" he yelled, even as his mind pulled the sphere of collected arcana into various shapes and sequences.
+
+First, a sturdy plane of force to cover the melted asphalt. As Devon slammed the pedal down, the trailer lurched a little as its wheels climbed out of the little deformation it had sunk into before finding purchase on his conjuration. It cracked a little under the trailer's weight, but held up long enough for them to clear the melted segment.
+
+Next, a boost. This was a surgical burst of energy applied directly to the trailer's engines. It was dangerous and definitely not within the design of the artefact, but the Nightwatchers had taught him a handful of sequences that would allow him to overcharge commercial artefacts in specific ways. One of them was meant to coax any engine into getting a sudden burst of speed — good for quick escapes. It was his first time using it, but he recalled the glyphs with perfect clarity, and relied on his instinct to control the flow of how much arcana to feed it. The trailer shot forward, startling Devon, who had to fight to keep the vehicle on the road, but the extra speed saved them from being enveloped in another storm of fire. Behind them, the conjured planes of force shattered, and the asphalt deteoriated into a boiling black puddle.
+
+The rest of the spare energy went back into the shield batteries that kept the trailer safe. He knew the initial attack had been bad, but it still alarmed him to find that the shields had been almost completely depleted. With the top-up of restructured energy, they still wouldn't be able to take another direct hit like that.
+
+'What do we do?' Jerric asked, making contact with Ambrose in the arcanic sea. His panic filled the space for a moment before he got ahold of himself.
+
+Devon connected with them a moment later, and even though he had half his attention focused on driving, Ambrose was impressed with how composed the young lord was. 'That was a hell of a kick. Can you sustain that?'
+
+'No,' Ambrose answered. 'It's only meant to be use in bursts, and if you do it too much to a commercial artefact, it'll wreck the thing. But keep driving. Floor it. We can't stay in the same spot.'
+
+'I can't sense anything out there, can you?' Jerric sent.
+
+'No. I think they may be hiding in oblivion like we were. That means we need to find them the same way they found us — by looking, physically.'
+
+'How do we do that?' Devon asked.
+
+Their brief discussion was interrupted with another incoming storm of fire. This time, Ambrose sensed it building ahead of them, and he directed Devon in a flurry of pure thought, almost entirely bypassing words. The trailer swerved off the road, but the ground was thankfully accommodating enough, and they jostled their way back onto their original route, dodging the roaring flames.
+
+'They have to be working line-of-sight since they attacked us when we were veiled earlier,' Ambrose answered, frustration creeping into his tone as he stretched his senses as far as they would go so he could head off any further attacks. 'But we don't see anyone either. So they're also invisible, though I'm not sure how they're doing it. I doubt it's as simple as our mirror trick.'
+
+'Even if they're invisible, they're physically following us. They might be in a car?' Jerric pitched in. 'Easy enough to check.'
+
+Jerric took a few seconds to pull together a dense knot of arcana. Ambrose noticed he was working with a basic arcanic bolt sequence, but then the knot shifted as it went through some transformation that Jerric was relying on pure focus for. A moment later, a razor-thin wave of energy pulsed out from their trailer, covering the road behind them in an expanding arc. It was gone in the blink of an eye.
+
+'Nothing,' Jerric announced. 'All the way to the treeline, and almost all the way back to the place we parked. We're clear in front too. So they've got to be following us by air. Wings? But we've got to check the whole sky...'
+
+'Jerric, you genius,' Ambrose declared.
+
+'What?'
+
+Ambrose didn't stop to explain. Watching Jerric had given him an idea. Even if their enemies were veiled from both arcanic and physical sight, they couldn't make themselves incorporeal. And it didn't matter if they were shielded. If you wanted to find them, all you needed was a simple pulse, and their own shields would betray their presence.
+
+He worked more rapidly than Jerric, pooling together a mass of arcana that was five times the density. But before he could shape it to his purpose, another shift in the arcanic sea demanded his attention. He hastily anchored the energy to their trailer and pulled Jerric and Devon into a proper gestalt.
+
+'Channel to me!' he sent frantically.
+
+They were not up against another storm of fire this time — more precise attacks were being levelled against them. He sensed three points of focus where energy was rapidly coalescing, and he realised they were using some form of shield-piercing sequence, although the beams had been modified.
+
+The first one lanced towards them from directly behind, and Devon swerved again to avoid it. The brilliant line of light almost blinded him. It was almost as thin as a thread, but it was so piercingly bright that it actually cast sharp shadows across the scene, and it hung in the air, clear as day, for several seconds.
+
+The other two formed further ahead, their points of origin on either side of the trailer, sending two deadly lines stretching across the road. Ambrose knew they were going too fast for Devon to brake in time, so he threw all the arcana he had amassed for the pulse into their defences, while also pulling sharply on the channels of energy he had established with Devon and Jerric.
+
+His defensive sequence barely dampened the attack this time. It seemed that the enemy had learned how to modulate their sequence so that most of the arcana was bypassing it, but the trailer's glyph-scribed shields stayed solid.
+
+It wasn't enough. As the trailer passed through the thin threads of deadly energy, they raked across the shields, leaving fiery lines. Before the trailer was fully clear, the shields failed, even with all the extra arcana, and the beams cut straight through the rear quarter of the trailer, leaving perfectly clean lines. A few of the boxes were neatly bisected, and they spilled their contents onto the floor.
+
+'Oh shit, oh shit, oh shit!' Devon's panic was now bleeding into the arcana. 'If that happens again, it's going to just slice right through us!'
+
+'Give me arcana,' Ambrose commanded, his mind racing as he focused on the best defensive sequence in the arsenal given to him by the Nightwatchers.
+
+The other two complied, and he tried to pull in as much as he could while firming up the framework in his mind's eye. It made use of glyphs from sets he hadn't even heard of, and he only knew them by rote, so he had to work by instinct and memory, not full cognizance. It wasn't ideal, and he felt far from certain that it would work.
+
+For the first time in his life, he felt a pit of fear growing in his stomach. There was no Prophetic assurance that helped to calm his nerves. There was no sense of clarity or purpose that guided him. The future was completely featureless — an utter void, empty of any guarantee, even for him, the supposed Chosen One.
+
+The arcanic sea twisted again as unseen hands shaped it into murderous patterns. This time, there were six points of origin. He could see the intended path of the beams, and he knew there was no way they would be able to avoid all of them.
+
+In that moment, just before the hostile sequences went off, his mind inexplicably went back to the wellspring-ocean-core. He thought of how he had asked it for help, and it had refused him utterly.
+
+I don't need your help anyway, he thought with a surge of vindictiveness, as he unfolded the Nightwatcher's defensive sequence.

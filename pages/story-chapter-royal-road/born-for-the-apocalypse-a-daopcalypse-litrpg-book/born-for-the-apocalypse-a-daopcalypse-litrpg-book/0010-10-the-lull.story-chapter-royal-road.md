@@ -1,0 +1,107 @@
+---
+id: 48e74813-4d50-518e-8316-ac15b46324b5
+page-type-slug: story-chapter-royal-road
+title: "10: The Lull"
+slug: 0010-10-the-lull
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 10
+ownLength: 1258
+unit: words
+publishedAt: 2023-02-15
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1114332/10-the-lull"
+royalRoadId: "1114332"
+---
+
+Sarah could feel the tempo of her muffled footsteps sounding out as she walked upon the carpet of tall grass blanketing the forested land; seemingly stretching out for miles in every direction. She found her thoughts meandering, finding herself wondering how the forest managed to project an image of serenity and tranquility, whilst harboring horrors that were likely frothing at the thought of tearing her to shreds.
+
+Perhaps she found herself a little disappointed, too. Killing the Twilight Boar had given her something that she desperately needed to survive— a reason—  and for that, she was grateful. But at the same time, she also felt like she lost something equally valuable. No, not lost; It was taken away from her, snatched away by uncaring, unfeeling hands. She could try and cling to it as many, undoubtedly, would— for denial was as easy as it was powerful.
+
+It was not easy to let go of Earth, the way she remembered it. The way the world used to be— it only reminded her of just how much she had taken for granted.
+
+A cozy house.
+
+Food.
+
+Water.
+
+Security.
+
+Laws that maintained a certain standard of civility in society. Friendly neighbors. A military to shield against foreign nations attacking.
+
+These were the very basic building blocks of a society, yet in the blink of an eye, it was snatched away from her.
+
+Lost. Alone. Isolated.
+
+That was how she felt.
+
+No military rescue would bail them out. All forms of government, if the words of the Arbiter were to be believed, held no power or jurisdiction over Earth any longer. The alien beings did not care for Earth’s traditions, culture or laws— they had taken everything, offering little in return.
+
+It was so tempting to slip into denial, to meaninglessly cling on to the hope that the world, her world, could be reverted to what it used to be.
+
+But she could not.
+
+For denial would not offer her the path to survival, either.
+
+It was accepting the situation for what it was, Sarah believed, was what let her slip into the state of unfamiliar calmness she found herself in. It was, really, just a matter of paradigms— Sarah was a diligent worker, but more than that, she was ambitious. She liked and wanted her hard work to be noticed, the same way she liked ascending the corporate ladder at a pace that far surpassed peers.
+
+In a nutshell, Sarah liked to win.
+
+And that part of her personality wasn’t something that was going to change. Only the stage she was set to perform in, to excel in, had.
+
+Calmness, however, did not mean that she was oblivious to the tense atmosphere percolating within the group.
+
+The spat between Trent and Andrew aside, there was something else that bothered her. An hour had passed since their hard-fought victory over the Twilight Boars, yet she hadn’t perceived the slightest disturbance during that time—- not the distant rustling of leaves or the snapping of dried twigs, let alone more direct portents like a distant howl or a furious growl.
+
+The lull, as Sarah was discovering, was almost as taxing as finding herself in the heat of the battle.
+
+Though she had reigned in her hyperawareness before her mind could start playing tricks upon her, she could feel her focus oscillating as the adrenaline drained away. Perhaps as her stats got progressively higher it would no longer be a problem, but this time around she had chosen to increase her Strength and Constitution after consulting with Jack, who was seemingly the most knowledgeable amongst them.
+
+Perhaps higher Intelligence or Wisdom Stats would let her stymie that problem, but for now she had chosen to prioritize survivability and power over thought.
+
+As bizarre as it sounded, she was itching for a battle– if only to rid herself of the persistent solitude that weighed down upon this forsaken forest. That, and, well— fighting for her life meant that she didn’t need to reflect too hard on what she’d experienced in the last hour. She would rather not break down in public, that would come after the job was done.
+
+“Sarah,” A hushed whisper pierced the silence gloomily hanging over the verdant canopy, drawing her attention.
+
+Jack had raised his left hand with his palm facing outwards, a signal for the group to come to a halt.
+
+“Twenty minutes should have passed by now,” Jack began, his raspy voice betraying a tense edge that implied that he, too, was not immune to the effects of combat lull. “It’s your turn, Sarah,” he added.
+
+They had spent the last hour developing a few makeshift strategies and discussing basic formations; only having gotten that far due to Jack’s willingness to share information. He had taken the initiative to disclose information about Qi Pulse, the skill that their starter classes all, apparently, shared. Sarah had chosen to confirm to same, leaving Andrew with no choice but to come clean as well— that had served as the foundational basis for their strategy.
+
+Since they had three people capable of using Qi Pulse now, the burden would be split equally amongst them. With one pulse released in twenty minute intervals, cycled between the three of them. Jack had proposed that, in the spirit of equitability, the next easy kill should go to Trent. Not just out of the kindness of his heart, but to assuage any worries of being left behind if one’s level began to lag behind the baseline. Even Andrew had agreed, for now.
+
+“Okay,” Sarah replied, her gaze passing over her teammates. “Guard me,” she urged, only closing her eyes after receiving affirmative nods.
+
+Roughly a minute later, Sarah’s eyes shot open. The sudden quickening of breath, the melange of fear and anticipation reflected in her eyes and the reflexive tightening of her grip upon her weapon already unveiled a part of the story in Jack’s eyes.
+
+“There’s two,” she whispered, her voice strained as she struggled to keep the panic out of it.
+
+“Where?” Jack asked, his expression hardening.
+
+Sarah pointed to the north-east with her index finger.
+
+“Are they approaching?” Jack shot out another question.
+
+“Slowly but…,” Sarah took a pause to catch her breath, “... they’re definitely headed in our direction.”
+
+“Maybe they’re tracking us by scent,” Andrew offered, his pupils flickering rapidly as he scanned the periphery of his vision for movement.
+
+“Trent, find a vantage point where you can shoot from without the risk of injuring any one of us,” Jack commanded, his tone steely.
+
+“Yes, sir,” Trent whispered in a small voice, nervousness written all over his face as he broke off from the group.
+
+“Sarah.”
+
+“Yeah?” She asked, her voice a little more high-pitched than usual.
+
+“You take the center. Andrew takes the right flank. I take left. Just like we discussed, your job is to use your reach to keep the enemy at bay with your superior reach and frustrate them. Either they will make a mistake, or try their luck at one of the flanks. Andrew and I can handle ourselves,” Jack projected a tone of complete confidence, even when, deep down, he was as uncertain as the rest of them.
+
+The enemy was an unknown and the unknown was equally terrifying to both the grossly inept and the strategic genius of generals.
+
+A lupine howl sounded out exactly a minute later.
+
+Jack’s stomach began to churn as the possibilities flashed in his mind, none of them good.
+
+They had sniffed out his group’s location.
+
+And now…. the hunt began.

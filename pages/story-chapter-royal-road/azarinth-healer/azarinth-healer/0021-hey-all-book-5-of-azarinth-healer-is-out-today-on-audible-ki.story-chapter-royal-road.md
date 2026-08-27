@@ -1,0 +1,57 @@
+---
+id: 109dff81-aa30-521f-b5f6-3ddf1caec3d6
+page-type-slug: story-chapter-royal-road
+title: "Hey all! Book 5 of Azarinth Healer is out today on Audible, Kindle Unlimited, and ebook."
+slug: 0021-hey-all-book-5-of-azarinth-healer-is-out-today-on-audible-ki
+partOf: azarinth-healer
+position: 21
+ownLength: 925
+unit: words
+publishedAt: 2025-04-29
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2241843/hey-all-book-5-of-azarinth-healer-is-out-today"
+royalRoadId: "2241843"
+---
+
+Here’s the blurb, more thoughts below:
+
+After her near-fatal journey into the Descent, Ilea returns south to check on her allies and lay some groundwork for unlocking her elusive third Class.
+
+Trian is ready to start training the first generation of Medic Sentinels, the battle-healers of their newly founded organization, and Ilea is happy to join in as a teacher (of sorts). Hopefully, her work will pay off in the birth of at least a few mini-versions of herself.
+
+By day, Ilea teaches the Sentinels her way of fighting and training (resistances), and by night, she applies the principles to herself. She explores supposedly very dangerous dungeons in the south and exposes herself to all manner of magics and traps, as every increased skill and resistance will help prepare her for the coming of her third class.
+
+It is a good routine; as long as she has mana to heal, the numbers will go up.
+
+However, all good grinding sessions must come to an end, the invitation of a powerful order soon pulls her back into the conflicts of humanity and beyond. With new powers and allies, she flies into a kingdom on the losing side of a war and finds things are not quite as they seem...
+
+Perhaps punching a lot of things really hard will once again prove to be a viable solution.
+
+Thoughts on the editing choices, narrative, and all that. If you’re not into that, there’s nothing here for you.
+
+Spoilers here!
+
+I’m not sure how interesting this stuff is to you guys but I assume a lot of you here have read the original version, and maybe some of these thoughts are interesting. Let me know.
+
+This book was easier to edit than book 3, though not sure on 4. I think both of those were more work simply because the drafts were a lot longer/covered a lot more chapters.
+
+There were a lot of side quest things happening in the first half of the book, culminating with the fights with the Specters, and the new Class. I think originally all that was a bit disjointed and unorganized. It still is, to an extent, but I tried to add in a bit more drivers that she thinks about, like the Sentinels and her third Class, to have them as goals to work towards rather than things that just kind of happen.
+
+As I’ve discussed a few times before, these kinds of changes bring the writing style more in line with what a lot of people expect from a book release. It makes more sense to read as a book too, instead of the often meandering style of the original webnovel written with less experience.
+
+I don’t think either one of those styles is better or worse, though originally the style was something I was developing and oftentimes was something that came out of action rather than choice. I’m trying a more meandering/slice of life style with my current writing + a lot more focus/experience when it comes to hooks/narrative, and pacing.
+
+I’m trying to keep the vibe of azarinth as it was, but cutting away a lot of fat like ethical monologuing and entirely pointless or even what I consider potentially harmful scenes. I understand that this process may make the story lose a bit of edge. For better or worse, depending on perspective.
+
+The second half of the book covers the mission with the Lily, Erendar, and the eventual escape. That was a pretty good arc overall, I think, and I enjoyed a lot of it. The war stuff though, I had to pretty much rewrite. There was just so much that I didn’t like about it, Hector and her relationship with him being a big part of it. It’s less long now, makes a whole lot more sense, and I’m pretty happy with the more present conclusion once they travel to Erendar. Before, the whole Lily stuff just kind of fizzled out.
+
+Erendar itself wasn’t bad originally, but it was clear that I just kind of went with the flow and once I couldn’t think of anything, added things to make tension. As I used to do oftentimes.
+
+There’s more set-up and foreshadowing now, more planning, more agency for both Ilea, and everyone around her. Thanks to that, I think it feels more grounded, and the eventual payoffs feel more deserved. This paragraph goes for the entire book, I think, and a lot of the changes in the previous books too. What may be lost a little is a sense of the unknown, mysticism where you had no clue where things would go, because I likely didn’t really know either at the time of writing. Finding a balance there with reasonable foreshadowing and agency vs keeping things unknown or veiled isn’t easy. I think I’ve managed well in some scenes, and fallen short in others.
+
+Overall, I think this one is a pretty strong entry for the series so far. I’m working on book 6 right now and the draft there is a bit blegh. Lots of setup, but it feels like mostly grinding. I like a bit of stuff happening with the grinding, like pasta and parmigiano, not just parmigiano. But I know some of you lunatics enjoy that too.
+
+The book is out, both on audible and as an ebook on amazon.
+
+Big thanks as always to my main editor Brook, to Anthony, to Matt, Taran, the team at Portal, and Andrea for the wonderful performance of the audiobook.
+
+That’s it. Thanks and until next time.

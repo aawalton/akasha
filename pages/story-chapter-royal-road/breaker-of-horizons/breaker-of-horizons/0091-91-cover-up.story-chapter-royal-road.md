@@ -1,0 +1,125 @@
+---
+id: 70a47a7a-d0db-54e3-9846-79170945377d
+page-type-slug: story-chapter-royal-road
+title: "91. Cover-Up"
+slug: 0091-91-cover-up
+partOf: breaker-of-horizons
+position: 91
+ownLength: 2250
+unit: words
+publishedAt: 2021-03-15
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/647263/91-cover-up"
+royalRoadId: "647263"
+---
+
+The atmosphere in the car was far from peaceful but it was not marked by as much tension as Caden had expected. There was a sort of weariness in the set of Devon's shoulders, while Lynus was still looking worse for the wear despite the restorative sequence Caden had used on him. No one was talking, but they seemed to have arrived at some unspoken agreement to give each other some peace of mind for the moment. The moment of reckoning had been postponed.
+
+While the knife and its sequences were foremost on his mind, Caden couldn't help but notice that the little perturbations in the air he had noticed back in the Spire were here in the car as well. He spent a fruitless minute or two trying to pin them down in his field of vision before he reached out with his arcanic senses, hoping that his heightened awareness might offer him some insight. It did help him confirm that his eyes weren't playing tricks on him and there were indeed little eddies and almost-imperceptible movements in the arcana around them, but they were so faint that he could glean no meaningful information about their nature or source. It was like hearing an indistinct whisper that gave away nothing about the speaker's tonal quality or feeling the faintest breeze that gave no sense of the direction of the wind.
+
+Mildly irritated, he turned his mind back to the glyphs that had been etched onto the knife. It was still safely tucked away in his pocket and sheathed in a layer of protective arcana but through his arcanic senses, he could read them as easily as if they were on a sheet of paper in his hands.
+
+The sense of being on the verge of understanding came over him as he turned his mind once more to the glyph of {~?~}, but as the seconds stretched into minutes, he came no closer to any meaningful understanding. Before he knew it, the car was coming to a smooth stop in front of an elegant mansion.
+
+"Alright, we're going to head straight for the guest suite before anyone notices," Devon said, turning to address the only two conscious passengers. "The sequence that keeps us— oh, crap, I totally forgot!"
+
+Before Caden could ask what was wrong, Devon had already hastily trotted out a sequence. While there wasn't any visible manifestation of arcana, Caden could sense it twining around him, loosely coiled.
+
+"Where'd you pick this up?" he asked, amazed, sensing its complexity. "It... stops people from seeing you?"
+
+"The Geldor augera planted it in my head," Devon replied. "Don't ask me how it works. I don't fully understand it myself. But yes, it sort of hides us in plain sight, makes us hard to even notice or pay attention to. It won't hold up for long if someone is actually looking for you though."
+
+Lynus had already hauled Kevan onto his back in a fireman's carry and was mounting the steps on the porch. "I thought we were in a hurry?"
+
+Devon bit back a retort and moved to help Caden carry Jerric out of the front passenger seat, but Caden motioned for him to get the door. "You go ahead. I can manage this."
+
+"You sure?" he asked dubiously, taking in Caden's worn appearance and his slight frame.
+
+In response, Caden smiled and gestured, pulling enough arcana together that it coalesced into a translucent mass. He directed it at Jerric and floated him out of the car on a cushion of arcana.
+
+Devon stared, his mouth agape, and Lynus failed to suppress a sharp intake of breath that conveyed a little awe.
+
+"How?" Devon managed to croak.
+
+"I'll try to explain later. We need to move now," Caden said, stepping up to the front door. Jerric floated in his wake just several inches above the ground. He wasn't really sure how to put it into words just yet, but more importantly, he suddenly felt quite strongly that it was unwise to linger on the porch.
+
+Devon sketched his glyphic key in front of the door, but it did not budge. He swore. "Damnit, I forgot! my father revoked my keys!"
+
+"What now? Is there another way?" Lynus asked, his voice strained as he struggled to hold his brother's weight in his weakened state.
+
+"My keys wouldn't work on any entrance if he revoked them."
+
+"Let me try," Caden said, stepping up to the door. Devon stood aside to give him space.
+
+"Jerric couldn't even take a look at the locking sequence, though," Devon said worriedly.
+
+Ordinarily, that might have been a problem, but Caden was pleased to find that he could parse the runes through his arcanic sense. In fact, this was better than working with his eyes, because he found himself drawing a wealth of information that would have otherwise been impossible to glean through actually reading the glyphs by sight. He could feel that it had been laid here in a business-like fashion, and there was even a hint of emotion in it. Whoever had put up this sequence had taken professional pride in their work.
+
+"Panoply," Caden murmured, recognising the signature. He poked around the glyphs and was relieved to find that they were all from the Basic and Advanced Sets that he did understand. While he hadn't yet studied this particular arrangement before, he found he had an intuitive grasp of the mechanics of the lock. There was a circuit of sorts that could be closed if one inserted the correct glyph as a key. The entire sequence was shrouded so that it couldn't be directly observed, but since Caden was able to sense its workings, he could also sense exactly what shape the missing key was. It was then a simple matter of threading arcana into the empty space and forming the glyph that the hole implied.
+
+The lock clicked open and Caden turned the handle to open the door, leading the way into the vestibule. Devon followed, looking stunned. "You broke a Panoply ward."
+
+"Picked it," Caden corrected, closing the door behind Lynus as he staggered over the threshold. The lock clicked back into place.
+
+Despite knowing that they ought to get to the privacy of the guest suites quickly, Caden still couldn't help but look around in awe and admiration as he took in the entrance hall beyond the vestibule. It was a few moments before he noticed the agents standing around.
+
+"Mr Silver!" he blurted in surprise, recognising the lead agent. When none of them moved so much as an inch, he realised they were all frozen in place.
+
+"Yeah, we kinda had to take you from them to bring you to the Spire," Devon said sheepishly. "Come on, this way."
+
+"Wait, wait, you took me from them?" Caden's cursory inspection through his arcanic sense told him that they were in some kind of stasis — this was the augera's work, operating through Devon. "And they're not supposed to know?"
+
+Devon nodded, then deflated a little as he realised that they now had to deal with the repercussions of his earlier actions.
+
+Caden connected the dots. "So you basically kidnapped me, otherwise the agents would have taken too long to figure out what happened to me, and the natural course of events would have put me beyond recovery. And now that we're back here, we need to leave this sequence of events uninterrupted as much as possible."
+
+"Would that really have happened?" Devon asked, paling a little it finally occurred to him how much had been at stake.
+
+"Well, this is just speculation, but I don't think the attack on my convoy was entirely plausible, even though it was within the realm of possibility," Caden replied grimly. "I think it's the Prophecy at work, trying to eliminate any factors that may prevent it from coming to fruition."
+
+Lynus managed a faint chuckle even as he sagged under his brother's weight.
+
+"You've got something to say?" Devon snapped.
+
+"Wouldn't want to be in Caden's shoes," Lynus wheezed.
+
+Caden ignored him and looked around the room. Now that he was paying attention he realised that there were powerful shields in place around each agent, but they were entirely invisible. Their sequences were different from ordinary shields, too, because they were somehow muted even to Caden's arcanic senses.
+
+"They knew they were being attacked?" he asked.
+
+"I think they felt something just as I used the augera's power," Devon said, frowning in worry. "How are we going to cover this up?"
+
+"Did they see you?"
+
+"No."
+
+"Then just make yourselves scarce. We'll pretend nothing happened," Caden said. He gingerly prodded Mr Silver's shield and was gratified to see his finger slip right through. The wisp of arcana that Devon had woven around Caden to keep him hidden from perception had some sort of resonance with the stasis trap around Mr Silver, and they melded to allow him passage. The augera's work was elegant.
+
+With Devon's help, Caden managed to climb back into Mr Silver's arms and position himself as before. On a hunch, Caden detached the arcanic anchor for Jerric's cushion and was pleased to find that it was possible. He transferred it over to Devon so he wouldn't have to haul Jerric back by hand. It took Devon a few seconds to figure out how to control the cushion, but he managed it after a few tries. Lynus looked like he was about to collapse and Caden wasn't sure how far they had to go since he hadn't yet seen the scope of Devon's home, so he provided an arcanic cushion to ferry Kevan as well. Lynus accepted it with a grateful look, but he stopped short of actually thanking Caden verbally.
+
+"Okay, I'll see you guys when I see you," Caden said, waving them away. "Release the sequence on these agents as soon as you're safely back in your rooms."
+
+Devon and Lynus disappeared down the passageway, leaving Caden alone in the sudden silence of the entrance hall, uncomfortably laid out in Mr Silver's arms.
+
+Since he had nothing to do, Caden took his time to study the sequences that the augera had given to Devon. They were, as expected, formed of glyphs that were unknown to him, and there was even one that held the same weight as the unknown glyphs on the knife, and the glyph for prophetic links.
+
+Where did these glyphs come from? It was possible that in the course of their studies at the Academy they might learn even more sets of glyphs. However, Caden was beginning to suspect that there were glyphs that existed but that even the Academy's lecturers did not know. And yet, were the glyphs not created by Sages through ongoing research? But if the Academy's best and brightest did not know them, then how could they exist?
+
+That would have to mean that glyphs were not, in fact, created.
+
+'They're discovered,' Caden realised, going over his own most recent experiences in the Spire, from healing Jerric and Lynus, and from performing some form of telekinesis, and also connecting that thread with Lynus' scribing of the knife, and Devon's use of these advanced sequences on the agents and on concealment over everyone. 'Or, more accurately, they're revealed... gifted to people. Probably by the augera.'
+
+Once again, Caden felt like he was on the verge of some epochal realisation, but at that precise moment, he felt a pulse of energy in the arcanic sea as somewhere in the house, Devon released his hold on the sequences that bound the agents. Caden quickly closed his eyes and allowed himself to go limp in Mr Silver's arms. An instant later, the grip around him tightened as Mr Silver and the other agents regained their senses.
+
+They were momentarily disoriented, but their training showed. The arcana was suddenly awash with activity as various agents sank sequences into the air. Newly-attuned as he was, Caden could follow some of what was happening and get the gist of their highly sophisticated work. In a few seconds, they had the place awash in several layers of ensorcelments designed to flush out attackers, and also had complex layers of defense that would strip away the energy of incoming attacks while directing incapacitating blasts back to the source.
+
+Mr Silver himself became the centre of an array of shifting shields. It didn't come online as quickly as the other hardened shields that the agents already had in place, but once it sank into place, Caden understood that it was so firmly anchored in the arcana and so densely-formed that it provided a level of protection that was almost on the level of the arena shields. Additionally, they could shift intelligently to face incoming attacks, so they freed up the user from having to manage the shield.
+
+"Status?" Mr Silver's voice was tense.
+
+"No active ensorcelment fields besides ours," the woman next to him replied, frowning. "No pings of other arcanists besides us."
+
+"Then what was that?" Mr Silver asked.
+
+Another agent was kneeling at the spot where Devon had been when he unleashed the augera's sequence. "It's... some sort of fluctuation in the arcana. I think it was a natural eddy."
+
+Mr Silver's furrowed brow conveyed the depths of his scepticism, but there didn't appear to be any imminent threat, so he decided to attend to the most urgent matter at hand. "We're moving on. Someone get Caldwell and tell him we've arrived."

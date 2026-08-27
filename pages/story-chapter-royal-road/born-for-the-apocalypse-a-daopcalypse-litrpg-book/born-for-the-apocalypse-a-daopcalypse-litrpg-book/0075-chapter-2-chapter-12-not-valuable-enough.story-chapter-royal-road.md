@@ -1,0 +1,91 @@
+---
+id: 94d1ab29-9d11-52db-ad32-317457238407
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Chapter 12: Not valuable enough"
+slug: 0075-chapter-2-chapter-12-not-valuable-enough
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 75
+ownLength: 1720
+unit: words
+publishedAt: 2025-05-22
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2298346/chapter-2-chapter-12-not-valuable-enough"
+royalRoadId: "2298346"
+---
+
+74:
+
+Jack blocked the flood of notifications that were tingling in the back of his mind, being able to more than tell that he had levelled up the moment the life had finally ebbed out of the middle-aged man’s visage.
+
+He had won against a powerful opponent that had awakened a Dao Mark that was incredibly versatile and by extension, tricky to deal with. Yet, Jack could not bring himself to feel any pride or even relief at surviving the encounter.
+
+For in his mind, despite having slain the enemy leader and his second-in-command swordswoman, it was Jack who had lost in terms of strategy and accomplishing his objectives. Sure, the middle-aged man had seen his allies as expendable pawns that he was willing enough to sacrifice if it meant satisfying his goals, but it was also a realization that Jack had come to fairly early on into the battle.
+
+In the heat of combat, the middle-aged man had displayed both his cunning and eye for strategy as he had taken a risk in choosing to capture Jin when killing her would be far quicker and easier, a decision that should have proven key to his survival but also one that was a hell of an ask to execute in the heat of combat. It had taken a ruthless level of decisiveness to commit to that maneuvre, which only further cemented Jack’s suspicions of the middle-aged man having a military background.
+
+His risk should have paid off, for he had well and truly caught Jack in a state of checkmate, leaving him with no choice but to comply with his demands when mere moments ago he had been confident in his ability to defeat the middle-aged man for good by releasing his Qi Projection at the right moment.
+
+Now that the battle was over, Jack’s thoughts were flowing more clearly and the middle-aged man’s plan came to him in it’s entirety. By forcing Jack, Sarah and Marcus to retreat despite having, his group either killed in battle or disbanded, he had secured a path of retreat for himself where they should have been none. The middle-aged man had not lied when he had claimed that there was no way Jack could rescue Jin before he plunged his curved blade into her exposed throat and not even his top speed under the Mist-Walk ability of his Pendant of the Mist-Stalker was quick enough to let him parry the blade in time.
+
+Retreating was the only option if they wanted Jin to keep on living, the absence of an archer on their team hurting more in that moment than it ever had before. Yet, by retreating to a location chosen by the middle-aged man, they would be giving him time to recover Qi, a head-start that would be hard to catch up to and experience, when he would inevitably kill Jin for experience.
+
+That had been the vicious trap in the offer the middle-aged man was trying to pitch as fair— by leaving, they would be condemning Jin to death, of that Jack was certain. Whether the middle-aged man had seen Jack as the leader or not ultimately didn’t matter, for he had seen first hand the strategy his group had used to counter the enemy’s ambush.
+
+Once Jack and his group returned to the dune they’d left Jin at and found her dead, the bitter truth of the matter was, that they would have no reason to pursue the middle-aged man afterwards. Not only was there a possibility of him disturbing sand stalkers in his wake, but it was also much easier for a single person to hide in the desert when he knew he was being pursued over three that were actively chasing him— arranging for another ambush wouldn’t be difficult for him with his versatile Dao Mark and if he employed guerrilla tactics, they would have a hard time eliminating him without casualties.
+
+Not to mention that Marcus was injured and Sarah had seemed completely spent when he had spotted her in his state of complete awareness, which was an even less ideal situation to commit to a protracted pursuit given they would have to doggedly run to the largest dune and back if they were to catch up.
+
+No, the fact of the matter was that it would be a grave strategic misstep to try and pursue the middle-aged man deep into the desert when it was extremely unlikely that they would run into each other again given the size of the desert and the simple knowledge that the middle-aged man would try to stay as far away from them as possible.
+
+Jack had been out-maneovred and for that, he should have lost a competent group member.
+
+Instead, he had won.
+
+Jack Anderson had awakened.
+
+That realization was enough to snap him out of the fugue-like state he had fallen into and as Jack returned to the real world, he felt a sticky wetness on his cheeks that definitely didn’t belong there. He dabbed his right cheek with his fingers, only to make out a viscous fluid whose colour he couldn’t properly tell due to the world being tinted violet, yet the warm, sticky texture told him enough— it was blood.
+
+He was bleeding from his eyes.
+
+Jack knew that he had to exit the domain he had imposed upon the world, a domain that as far as he could tell, affected only him until he decided to target a dao. His instincts told him that it was as simple as closing his eyes and cutting Qi flow to the Dao Mark that he knew rested on the back of his neck and the former felt more like a precaution than a requirement.
+
+He intended to do just that, even though it was tempting to return to the state of complete awareness within the bounds of his domain that he could only access by remaining still and make sure that the archer that had fled earlier had stayed gone, but even the paranoia that came after surviving an ambush wasn’t enough for Jack to risk his sight.
+
+Except, just before Jack could manage to do so, his Qi froze in his meridians, locked in place by an unseen force. Instinctively, Jack tried to dive away from the middle-aged man, in case he was still alive and had access to an artifact that could solidify Qi. Except, he couldn’t budge, the exclamation of fury never leaving his mouth as Jack tried to resist the encroachment only to be reminded of the last time he had been exposed to a similar experience.
+
+Then an aura, much like the slaughter aura he had received from the core sunderer feat, crashed into him.
+
+Jack should have been afraid. He should have been terrified at what he was witnessing, a force of nature so incredibly vast that Jack suspected that even Arrenis Shen, the alien who referred to himself as the arbiter, would pale in front of it. Yet, the aura, if it could even be termed as such, was so far beyond his understanding that he could not even begin to comprehend the effect it was intended to have—- all Jack felt was it’s weight.
+
+A second of being exposed to the aura and Jack had felt the weight of the world, of the planet known as earth, pressing down upon him. He should have been paste on the floor instead of still standing upon his own two feet and a few more seconds of being subjected to it and Jack wasn’t certain if he’d be able to stop himself from drawing his own blade and plunging it into his heart.
+
+Yet for that one second, Jack somehow endured.
+
+Then the aura ebbed even quicker than it had arrived, letting Jack hold onto his sanity for a little longer as he still remained frozen in place.
+
+“You called upon the void, little human,” A thousand distinct voices speaking at once declared from every direction Jack could conceive yet he failed to trace any one to it’s source. “And the void answered. A Tier 4— valuable, yes. Profound, no. Surprising?” The thousand voice mused, a shared note of amusement audible in their collective inflections even though there was little common about their accents or speech patterns.
+
+How can I even tell it’s amused? A clear thought broke through the sea of chaos that was Jack’s mind in the moment.
+
+Only then did he realize that the voices weren’t speaking in english.
+
+“A little,” The distinct voices concluded in agreement. “It can be masked. Sight, Banishment, Memory— amusing? Amusing. Some value at home, not enough. Not nearly enough. So, tell us, Jack Anderson. Why should We let you live?”
+
+Jack was pretty sure his pulse was racing at a pace that should have already had him in cardiac arrest and even as he felt the sensation return to his face, he didn’t dare open his eyes.
+
+He was afraid. Genuinely, truly afraid.
+
+As afraid as a human was supposed to be when they ran across a lion while being unarmed, but Jack was far more terrified than that.
+
+So, even as his eyes remained shut, Jack asked, “Who are you?”
+
+For a moment, there was silence and Jack’s gut churned as he waited for potential obliteration.
+
+Then the laughter tore through the silence, a thousand different kinds of laughter, echoed in more ways than Jack had ever thought possible.
+
+Then the laughter stopped, as abruptly as it had started.
+
+“I am the Progenitor of the mark you bear on your soul. Know this— the system is not aware of my presence here but even if that foul desecration discovered it, it could not stop me from erasing your soul. You are not valuable enough a find for me to risk taking back with me and I cannot allow the enemy access to my Dao. So I will offer you what I have offered the hundreds of thousands I have killed and the handful thousands I have let live— a chance to join the keth'miran vortala tu'neshan.”
+
+Jack struggled with the last string of words the Progenitor spoke of, roughly translating it in his mind because he couldn’t figure out a direct translation in english, only to have his jaw drop open.
+
+“The-rebellion-the void will-birth”.

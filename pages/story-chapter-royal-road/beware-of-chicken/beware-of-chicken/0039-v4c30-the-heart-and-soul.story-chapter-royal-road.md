@@ -1,0 +1,141 @@
+---
+id: 242d8aca-9afd-5d48-af45-ace14b964dce
+page-type-slug: story-chapter-royal-road
+title: "v4c30: The Heart and Soul"
+slug: 0039-v4c30-the-heart-and-soul
+partOf: beware-of-chicken
+position: 39
+ownLength: 1885
+unit: words
+ownProgress: 1885
+publishedAt: 2023-08-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1296870/v4c30-the-heart-and-soul"
+royalRoadId: "1296870"
+markedReadAt: "2026-06-29T18:52:41.192Z"
+---
+
+Pi Pa walked alongside her Dear as they both wandered through the town towards the stalls. She flicked her ear, making sure the silk bow was still properly and tightly affixed. Miss Biyu certainly had an eye for things—the red, embroidered with pots of rice, looked absolutely wonderful! It had inspired Pi Pa to try it herself, but while she could grasp a brush with her mouth and write well, a needle was a bit too small to manipulate properly.
+
+Perhaps hands would be something to look into…
+
+Pi Pa pondered for a moment before shaking her thoughts away, and instead refocused herself on the moment. Her Dear had asked her to explore the town with him, like a proper gentleman, and she was only too happy to oblige him!
+
+She smiled at her Dear, his bulk almost bouncing with excitement as they walked together. His ‘cowhand’ hat was perched on his head at a rakish angle, and around his neck was a blue neckerchief, embroidered with bees.
+
+He was unbearably handsome! Indeed, they were the talk of the town! All eyes were on them as they passed, but no human tried to interrupt them. Instead, they either smiled or seemed slightly bewildered. Some of them laughed, but Pi Pa knew it was not mocking. They were simply too much of a strange and stunning sight!
+
+They strode together, shoulder to shoulder, and all made way for them. However, while most of the adults simply watched them go… Pi Pa saw a gaggle of children approaching. Their eyes were sparkling, and Pi Pa instantly deduced their desires. They wished for a ride. Her Dear perked up as well as the children marched fearlessly towards them. Pi Pa was prepared for their inevitable question, to ask for a ride. She did love that her Dear was so good with children, but she had also hoped to spend more time together today, just the two of them. Still, Pi Pa slowed her stride slightly so he could greet the children and oblige their request.
+
+However, her Chun Ke had other plans.
+
+‘Chun Ke play with friends later! Today, Chun Ke spend time with wife,’ her Dear stated kindly—and to her surprise, the children actually heard. Not just heard, but as their eyes turned to a slight bit of disappointment… they truly understood.
+
+“Huh? Oh, they’re all dressed up! Ma and Da do that sometimes, and then I gotta look after my sisters…” one of the children said, his hair messy as could be.
+
+“Awww. Okay,” another sighed as she scratched her fingers through her Dear’s mane.
+
+“Have a good time with your wife, Mister Pig!” the third child said, and they heard more amused sounds from the adults.
+
+Then, the children were off.
+
+‘Thank you, Dear,’ Pi Pa said, and her Chun Ke smiled at her.
+
+‘Today time for wife,’ he stated simply, his nose pressing against her.
+
+She bumped against him and they set off into the stalls, their heads held high. The caravaneers were just as surprised as the townsfolk to see them, but aside from the wide eyes and the fact that they checked to see if Pi Pa and her Dear were bumping into things… nobody tried to stop them.
+
+They walked up and down the rows, looking for things of interest. The stall they found was set apart slightly from the others and looked a fair bit fancier. It was a spice stall: a collection of nuts, seed pods, and other dried leaves and flowers lined its walls, and there was even a guard lazing on a chair outside. Pi Pa’s eyes lit up. She couldn’t recognise a bunch of what they had, but they all smelled delightful.
+
+The man at the stall eyed them warily, looking utterly baffled. Pi Pa glanced at the prices listed and nodded.
+
+‘Good sir. I would like to purchase some of your wares,’ Pi Pa said.
+
+The man’s jaw dropped. The guard fell out of his seat. Both of them gaped at her.
+
+Ah. This was the slightly annoying part. The people of Hong Yaowu and the Guan siblings she could deal with, but it was a bit difficult to get… well, normal people to accept her.
+
+Pi Pa reached back and took out her coin pouch. Sometimes appearances were everything, and showing that they could pay would surely help. The merchant’s attention instantly seized upon the visibly distended pouch and the enticing jangle within it. The prospect of a great deal of money cut through the man’s shock and apprehension… and surely their fetching outfits helped in the matter.
+
+“We-Welcome! Welcome, Honoured Customer! How may I help you today?” the man asked, only stuttering slightly.
+
+‘I desire the cloves, the nutmeg… and what is this? It smells quite good!’
+
+The man blinked, before tentatively smiling. “Ah, this? Customer, you have a good nose! These are from the south of Green Stone Forest! It's a spicy paste, made of fermented peppers. The tribes of Green Stone Forest swear by their Gochujang!”
+
+The man even had a small sample for them to try. It was indeed delicious! The Master would surely be pleased and, perhaps, would be inspired to create his own version. At the very least, Wa Shi could be tempted to try.
+
+They paid the man his due and set off once more. They passed by the Master, the Mistress, and Young Sir Gou Ren all crowded around a stall selling an eclectic mix of scrolls, listening to the owner as he talked about the Hanging Towns of Green Stone Forest—entire settlements made of bridges strung between the forested karsts.
+
+The Mistress turned and gave them both a thumbs up, and Pi Pa smiled back. They went over to say hello and listen more to the man as he talked about Green Stone Forest. It sounded like a wondrous place—it was so named because of the millions of karsts dotting the landscape, looking for all the world like tree trunks made of stone. Some were barely thicker than a sapling, while others were so wide they could have an entire castle built atop.
+
+After the story ended, they continued on their little adventure. Aside from the spices, most of the wares weren’t especially interesting. She had no use for the clothes, most of the time, and they could only really listen to a story if it was already underway—but at least nobody was scared of them.
+
+Eventually they exited the stalls and Pi Pa’s stomach growled. Her Chun Ke perked up, while Pi Pa flushed slightly.
+
+‘Lunch?’ he asked.
+
+‘Indeed, my Dear. But where to?’ she asked.
+
+‘Chun Ke have plan!’ he declared.
+
+Sometimes, his plans were utterly nonsensical, or he would forget halfway through—sometimes the injury to his head would make accomplishing his planned goals impossible. Pi Pa followed him into every single one anyways—supporting him, as he always supported everyone else.
+
+This time, however, her Dear’s plan was a grand one. Chun Ke recruited some of the children to order for them, with a bit of money for their trouble to go and retrieve items from the caravaneers.
+
+And then, they set off to find a place to eat, finding perfection in a nearly empty pavilion. It was near the top of the hill that the town was built on, and it looked out over the rolling hills beyond.
+
+Pi Pa had a heavily spiced stir-fry dish that she could actually taste through the slightly numb feeling the void gave her mouth while her Dear feasted on rice and vegetables.
+
+It was a delicious lunch—and then they simply sat together under a tree, looking at the landscape.
+
+Their relationship was quite often filled with silence, but Pi Pa never minded. He was there for her, she was there for him, and that was all that mattered. The quiet was never uncomfortable. Chun Ke just loved to be around her. And… each moment her Chun Ke was himself and not a sparkless beast was a moment that she would cherish for as long as she lived.
+
+It had been two years since his injury. Two years since his near-breaking, and still, inch by inch, he was improving. Improving himself, his mind ever so slowly healing.
+
+Her Chun Ke was getting better. He was getting even stronger if that was somehow possible. More coherent, and speaking in longer sentences.
+
+He truly was a joy to behold. In fact, all of their family was a joy to behold. From encouraging Young Sir Gou Ren’s passion to witnessing Young Sir Bowu’s young love. From watching Miantiao’s morose and pessimistic eyes gain a little spark of his own to seeing how Bi De kept improving himself, determined to never again allow his family to suffer. Tigu’s quest with Xiulan to unite the hills. Zhuye, the baby, growing bigger every day.
+
+Zhuye especially. Pi Pa loved her little brother with all her heart… but she was also ever so slightly jealous that humans didn’t have to worry if their children would be born as base beasts.
+
+But… then again, they could become human, couldn’t they? With cultivation… they wouldn’t have to worry. Zhuye had lit a fire in her gut. And besides, wasn't it better to have some childhood friends?
+
+And yet… she still wasn’t sure if Chun Ke was ready. She didn’t want to push him.
+
+They sat for a while longer, until the sun started to set. And then, Chun Ke spoke.
+
+‘Wife. It has taken long time for Chun Ke to heal,’ he said, his voice strong and not halting at all. ‘Thank you, for always standing by my side.’
+
+Pi Pa’s heart swelled, and tears came to her eyes.
+
+‘You never have to thank me for that, my Dear. Ever. I’ll be by your side, as long as we live.’
+
+Her Dear smiled, his eyes soft. And then he said something Pi Pa wasn’t expecting.
+
+‘What does wife think about children?’ he asked, his voice resolute.
+
+Pi Pa’s eyes widened fully. ‘I would love—’ she managed to get out before her throat constricted. ‘But I’m worried. Worried about…’
+
+‘The spark,’ her Dear confirmed. His voice seemed to get even steadier. ‘I’m worried about it too.’
+
+He looked at her, his eyes so full of love.
+
+‘… there is a way,’ Pi Pa said. ‘But I know… I know you don’t really want to be human.’
+
+‘I want to be with you forever. In sickness and in health. Whatever form that may be.’
+
+Pi Pa felt her eyes fill with tears. ‘Until death do us—no. Not even death.’
+
+Chun Ke smiled. It was radiant and beautiful, just like his soul. They pressed against each other, and her Dear sighed in contentment before he spoke again.
+
+‘Chun Ke got wife a gift,’ he said, his voice rougher and simpler again but still filled with love.
+
+‘A pretty gift for a pretty lady.’
+
+‘Oh? When did you get me a gift?’ she asked as he turned, shuffling around in his pouch.
+
+‘Asked friends,’ he said cheerily as he pulled out a box, and after a moment of fumbling, he opened it.
+
+Within the box rested a beautiful jade bracelet. One that would fit around her leg.
+
+‘Thank you, my Dear,’ Pi Pa whispered, nuzzling into her other half.

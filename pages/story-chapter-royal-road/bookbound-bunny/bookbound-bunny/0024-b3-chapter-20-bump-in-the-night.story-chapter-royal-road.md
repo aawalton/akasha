@@ -1,0 +1,125 @@
+---
+id: d3a09dc4-01ad-57c3-a3c9-53b573166b65
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 20 - Bump in the Night"
+slug: 0024-b3-chapter-20-bump-in-the-night
+partOf: bookbound-bunny
+position: 24
+ownLength: 2035
+unit: words
+publishedAt: 2026-03-21
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3176095/b3-chapter-20-bump-in-the-night"
+royalRoadId: "3176095"
+---
+
+Sneaking around was a great success, and soon they managed to fill their bags with all sorts of magical goodies, especially of the fungal variety. Both Lily and Lotte were excited to show these to Sylwel and hoped they would be worth either some extra credit in their classes or the chance to brew up some new concoctions.
+
+However, the group was slowly showing signs of fatigue, and the effect of the night drops was beginning to diminish. After making a group decision, they ended the gathering and went hunting before heading back to their camp.
+
+Lily quickly drew a floating water glyph, and they each used it to wash the remains of the drop out. After that, they hesitantly tested whether there were any hidden remnants of the alchemical product by using Lily's Starlight spells, which she progressively increased in brightness.
+
+"I think we are good to go, I can't see anymore yellow even when staring directly at the stars," Lotte said, sounding extremely relieved.
+
+Thomas and Lily also both agreed, and so the group started looking for some nocturnal monsters to hunt down. Lily spawned out a mass of Starlight spells that she positioned around the group, providing ample illumination to their surroundings.
+
+At the moment, Thomas needed both hands for his lightning spells, so Lotte was in charge of the firefly lantern. She tried to copy how Lily handled her stars by having them gather around in a loose formation. For the most part, it seemed to be working quite well, though with some apparent inefficiency.
+
+The most prominent types of monsters active at night were wolves or spiders, but neither posed much trouble for the group. Probably the strangest encounter was a small, shadowy entity that lurked in the woods; however, it was highly susceptible to even dim light, and when it came into contact with a single Starlight spell, it was instantly vanquished.
+
+They continued wondering about it, but when things were notably slowing down, they finally decided to bring their adventure to a close. Along the way, they bumped into a few more monster encounters, including a pair of roaming monsters that they managed to catch off guard.
+
+Yes, the group found a pair of monsters together, except they were from different species. The one looked like a dire owl, while the other appeared to be an enormous centipede, causing Lily and Lotte to shriek at its hideous appearance.
+
+However, the pair of monsters seemed more inclined to attack one another, with each trying their best to claim their next meal. Thomas speculated to the group that the owl might have tried to attack the centipede, but soon realized it had tried to bite off more than it could chew.
+
+Leaving the two monsters to their fate was certainly an option, but that would be leaving behind plenty of growth for the three of them. Lily's Mana Core refinement aside, Lotte needed all the help she could get to strengthen her body from her corrosive bloodline.
+
+The three unanimously agreed to defeat the pair of monsters. Lily blessed each of them with Lunar Radiance, and then the group got to work. Each of them began chanting their spells slowly and precisely to maximize their benefits, and each had a role to play in this.
+
+Lotte would focus her poison spells on the owl, as there was a good chance the centipede would resist it. Thomas was therefore in charge of hitting the centipede with the most potent lightning spell he could muster. That left Lily, who was in the rather unique position of being able to actually hit both monsters.
+
+Lily had previously been almost about to reach a dozen stars if she correctly chanted, and if luck was permitting, she would reach that number tonight after the small growths throughout this trip. However, that wasn't enough, and Lily would also need to divide her attention between the two monsters to ensure that the stars were split evenly.
+
+The three chanted and held their spells, with magical auras circulating wildly among them. Then, when the signal was given, they unleashed them together. The owl seemed to be the first to realize what was going on, but despite its shrieks, the centipede wouldn't release it. Like crabs in a bucket, these two monsters had probably ensured their mutual downfall.
+
+Thomas' spell hit first, striking the centipede with the thunderous crack of lightning and surging throughout its body and between its many limbs. The owl probably took some residual damage from being in contact with it, but that was besides the point, as soon it was "bit" in the neck by a magical snake apparition that coiled around it and injected it with magical poisons.
+
+Last, but certainly not least, countless stars erupted from Lily's palms. As each star was sent out, they would divide themselves between the two monsters; the first star hit the owl, the second hit the centipede, the third hit the owl, and so forth. With each produced star, Lily was mentally tallying the result, and it looked like luck was certainly on her side as the number reached the grand total of twelve!
+
+Not to be outdone, her companions cast quickened versions of spells into the frenzy with the intention that nothing would remain once the starry explosions ended. When all the magical effects finally ended, the three were on high alert as they observed carefully for any signs of movement. Time seemed to move at a crawl as they watched and waited, but when the dust settled, there were only two rapidly decaying monsters remaining.
+
+The three celebrated, and then turned their caution to their surroundings. They weren't out of the woods yet, and there was a chance that another monster might come to investigate the racket. Naturally, the reason they didn't just outright leave was to await the final decay of the monsters and claim the black flakes for themselves.
+
+Lily, in particular, was cycling her Mana Core to ensure she got her fair share, while still leaving enough for her two companions. While observing, she noted that, while her two friends were passively absorbing the monster essence, with Lotte's bloodline seeming to claim more than Thomas, some of it was being reclaimed by the dungeon. This was where Lily directed most of her attention as she drew it in and purified it for her core.
+
+When the pair of monsters had faded entirely, the group hastily retreated. It was a resounding success, but the adventure wouldn't be officially over until they were safe in their camp. This time, they avoided any direct confrontations, and after a bit of a frantic run with Lily leading the way, they eventually found themselves back at their camp.
+
+The three were breathing wildly, the excitement still pumping through their veins; however, when the adrenaline wore off, they would probably all collapse on the spot.
+
+"We probably should have headed back sooner," Thomas said.
+
+"But then we wouldn't have found those two monsters," Lotte pointed out.
+
+Lily bobbed her head in agreement.
+
+"Yeah… But now we still need to do night watch… Or, more accurately, morning watch," Thomas sighed.
+
+Lotte's face was filled with dread, and even Lily wasn't too thrilled about that. She usually would eagerly volunteer for the first shift, but now she felt her bed beckoning to her.
+
+"I'll take a sip of an energy tonic to stay awake…" Lily grumbled.
+
+The other two glanced at one another, a look of sympathy flashing across their faces. It looked like they each wanted to volunteer, but their bodies, while their hearts were in the right place, were vehemently refusing.
+
+"Okay, okay, I've heard enough. Don't go drinking potions just to stay awake," the voice of Alice suddenly said.
+
+Lily and the gang turned to the source only to find Alice had somehow entered their camp without their knowledge.
+
+"How long have you been here?" Lotte asked.
+
+Alice gave a smirk. "Whenever you three caused enough noise to wake up nearly half of the forest. What trouble were you getting yourselves into?"
+
+"We defeated a pair of roaming monsters that were fighting each other," Thomas answered.
+
+"Wow," Alice replied dully before giving a shrug. "I suppose that's reason enough… Although now you three are too tired to do a proper watch. If you were deeper in this dungeon, or outside, you would be in a terrible situation."
+
+The three frowned, unhappy with being scolded after their accomplishment, even though they knew Alice was probably right.
+
+"Will we lose marks on the test?" Thomas asked.
+
+"Yes, but not that it will matter," Alice replied, and, seeing the confusion among the three, went on to elaborate. "You're not the first batch to try a nighttime romp through the woods, and you certainly won't be the last. I'm actually surprised you've managed to hold back for this long."
+
+"With Hana, I bet they did it days ago…" Lily said with a sigh.
+
+"Bingo!" Alice answered with another smirk. "Did you really expect a light mage to not try to conquer the darkness?"
+
+The three groaned but nodded in acceptance. Alice waved them off, instructing them to go to bed before she rescinded her generous offer. After being threatened like that, they hastily retreated to their respective tents to collapse.
+
+"Well, at least you three didn't try to burn down the forest like last year," Alice said with a chuckle as the three departed.
+
+Lily couldn't hold back her sigh when she heard that. She could only imagine the mischief that Rose must have gotten into.
+
+[Even if Rose did burn down the entire forest, I don't think it holds a candle to you three. After all, you caused the dungeon to not only possess a monster, but also break several established rules they are supposed to follow.]
+
+Lily hid her shocked reaction from Lotte as she crawled into the sleeping bag. Once she was finished pretending to go to sleep, she finally answered.
+
+{They don't actually have to follow those rules, though, right? Like, nobody is going to punish this dungeon for breaking them.}
+
+[No, but it's in their best interest if they want to survive. Of course, I'm unfamiliar with the traditions in this day and age, but back then, if a dungeon had an inexplicable mortality rate, then it would be marked for destruction.]
+
+They continued to talk briefly about the topic, with Lily asking a few more questions, as she was curious about the criteria for it to be "inexplicable," since everyone knew dungeons were dangerous.
+
+Arakil had answered that dungeons tended to have grades assigned to them, which gave you a general idea of how dangerous they would be. If a bunch of newbies stumbled into a legendary dungeon, then nobody would question why they didn't return. However, if they perished in a "beginner dungeon," then something fishy was going on.
+
+As for this particular dungeon, not being punished was included in the agreement between it and Arakil. He didn't want to push things too far while they were rapidly burning through resources, and Lily's body was potentially at risk. Eventually, their brief back-and-forth ended with Lily drifting off to sleep, unable to stay awake any longer.
+
+In the morning, Lily woke up before Lotte and, after using her new bracelet to freshen up, left the tent. She was quickly greeted by the sight of Thomas being forced to cook breakfast for Alice, who was making quite a few culinary demands.
+
+"It's the least you three can do after I saved you the trouble," Alice said with a fiendish grin. "I made the others do the same, so no complaints."
+
+Thomas nodded, although Lily was sure he was reluctant. Lily briefly considered pretending to be asleep, but then decided against it to avoid leaving Thomas alone at Alice's mercy. Fighting her own reluctance, she walked over to join them around the campfire.
+
+"Looks like the sleepyhead is finally up," Alice teased.
+
+Lily opened her mouth but failed to come up with a retort. Instead, she just nodded. It was too early to start fighting a losing battle against Alice.
+
+Hopefully she doesn't stick around too long…

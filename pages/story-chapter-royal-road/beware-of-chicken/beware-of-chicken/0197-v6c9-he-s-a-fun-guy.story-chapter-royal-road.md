@@ -1,0 +1,149 @@
+---
+id: 8cae8f4b-0c56-56b9-8a08-b86f46f502ba
+page-type-slug: story-chapter-royal-road
+title: "v6c9: He's a Fun Guy"
+slug: 0197-v6c9-he-s-a-fun-guy
+partOf: beware-of-chicken
+position: 197
+ownLength: 1953
+unit: words
+ownProgress: 1953
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2155900/v6c9-hes-a-fun-guy"
+royalRoadId: "2155900"
+markedReadAt: "2026-06-29T18:58:04.800Z"
+---
+
+After breakfast, we did our usual morning exercise routine. It was a little weird to have some people watching us so intently. They would occasionally make whispered comments to Gramps, and I overheard one of them mention the ‘interesting invigorating technique’ Big D could use. Still, even with the small distractions, it centered me and set me up for the day.
+
+Today, after the stress of yesterday, would be kind of a free day for everyone. The little minor chores we had to do could be knocked out in perhaps half an hour, with the longest thing being cooking and cleaning up after the meal.
+
+It was cold and blustery out today, so most people started gravitating towards the greenhouse. Elder Shou moved as fast as he could while still being within the bounds of propriety, followed by his wife. Meimei was just after them, Zhuye on her back. Xiulan had the go board under her arm, talking with Ri Zu and Xianghua. Gou had his woodworking tools, as well as the board for his model village, while Bowu had the smallest pill furnace I had ever seen halfway assembled, chatting away with Huo Ten. I had made an offhand comment about model trains last week, and that had suddenly morphed into them making a scale model of a village complete with a working locomotive.
+
+Which was awesome as hell. I had always loved those model trains.
+
+Noodle was with Yin, the latter with one of Meimei’s story scrolls and a pitcher of water, clearly intending to simply sit on the hammock most of the day, acting as the greenhouse’s sun. Yun Ren clearly had the same idea, the man scrolling though his recording crystal and making some kind of slideshow.
+
+Big D, the Torrent Rider, and Shaggy Two would be off into the forest for training—the young man was practically skipping along, clearly pleased that his master was back in his natural form and on his shoulder.
+
+Babe would be, as always, practising the blade, the ox already in deep meditation beside his plow.
+
+Washy, Chunky, and Peppa had decided on a walk, while the last two, Tigu and Delun, would be carving ice sculptures.
+
+Gramps, Minyan, and Ge brought up our rear, all three of the old monsters discussing… our workout routine?
+
+They were clearly deep in conversation, and Gramps looked quite proud of himself.
+
+The greenhouse, as always, was a lovely temperature, and while the others spread out, I found myself once more beside the root I had found in my first year here.
+
+Elder Shou was already staring at it, a formation floating in the air around it. He had an intense look on his face as he nodded to himself. Elder Yukong was beside him, and she would occasionally hand him a slip of paper that would disperse into another formation.
+
+“How is it looking, Elder Shou?” I asked him.
+
+The man turned to me and he brightened. “It has revealed some of its secrets to me. It's a subtle, shy child, but careful observation has borne fruit. Here.” He swept his hand through his formation, which suddenly turned into what looked like a graph, with peaks and valleys I could barely make sense of, but one thing stood out to me.
+
+“The fire is fading?” I asked. Shou grinned.
+
+“While the primary aspect of this Spiritual Herb is fire, that fire is actually in the process of being eclipsed by earth. It's just starting, and I nearly missed it.”
+
+Meimei hasn’t been complaining about the smell as much recently, I realized, before refocusing on Shou.
+
+“Do you think it would complete a full cycle?” I asked.
+
+“A full wuxing cycle? That is an interesting hypothesis,” Shou said, stroking his chin. “And something to consider later. There are several Spiritual Herbs that do this, but its shape is not correct for any herb I know that does, and I have memorized every Spiritual Herb in our archives, and added one myself.”
+
+I whistled, impressed because there were probably millions of Spiritual Herbs in those archives. The Founders had scoured the whole continent, collecting knowledge. And if he still didn’t know what this thing was…
+
+“That is not to say the fully-grown variant of this herb has not been recorded, however. Some change drastically upon reaching maturity, and we might just have this Spiritual Herb’s final form recorded,” he finished. “I’ll go through the Founders’ personal notes, just in case there is something I missed. This is such a fun mystery.”
+
+I smiled at his tone. “Well, here's to figuring this little guy out. Would you like to see how I’ve been taking care of him?” I asked.
+
+Shou stepped back. “I heard you invented your own technique,” Shou declared.
+
+“Yes, a formation… or rather, multiple formations smashed together.”
+
+At that, Elder Yukong perked up.
+
+I proudly showed them my favourite technique. I could infuse my Qi into our crops asleep by this point—literally. I had done this formation every single day, hundreds of times per day, for three years.
+
+============================
+
+“I see, I see,” Elder Yukong said. My formation was decompiled in front of her, in strands of glowing light as she examined it closely. She had taken one glance, copied it, and then took it apart. Expanding somebody else’s formation was supposed to be hard… but well, nobody told Elder Yukong that. “It's absolutely and utterly amateurish. I can see where you welded the techniques together. There are clear points where one’s Qi is wasted. Its construction is a mess. If you do it wrong it's going to melt whatever you try to infuse.” Yukong’s voice was clinical as she… critiqued my work.. I chuckled awkwardly and scratched the back of my head. After all, all of those things were true.
+
+“You conceived this formation from scrolls in the library?” she asked.
+
+“Yes, Ma’am,” I replied.
+
+She considered my words. I braced in anticipation.
+
+“For your level of education, this is fantastic work. The formation bridges, while amateurish, are inspired, and it looks like you’ve been smoothing them out over the years.” She turned to look at me with a slight smile. “Do you want to know the reason we give our Outer Disciples that Qi infusion technique?”
+
+“From what I’ve learned from the scrolls Lu Ri gave me… I’m guessing so that some of the disciples, annoyed by its inefficiencies, to specifically go looking for a better way to grow the Spiritual Herbs?”
+
+It made sense for a sect founded by scholars.
+
+“That is indeed the case,” she said, her small smile widening… before it dimmed slightly again. “It would have been quite enjoyable to have had you around the Sect.”
+
+“It is a wonderful example of a Qi infusion technique, if quite different from what we normally see. Most go for speed of infusion, or for making it cost less Qi, so that they meet their quota, and then have more time to cultivate. Focusing on every part of the Spiritual Herb like this, and even the soil… Most would not develop this technique. It takes slightly longer and uses more Qi, but the effect on the Herb speaks for itself,” Elder Shou declared. “Here, I’ll pen a copy of my own formation—It is quite exacting of one’s control, but it is perfect for exactly fulfilling a Spiritual Herb’s needs to make it healthy, and speeds growth. Use it as you wish.”
+
+“Thank you, Elder Shou,” I said with a bow, before I realised something. I had two high-level cultivators here, and they seemed willing to not just help, but teach…
+
+“Actually, I was hoping to have your expertise on some other matters, Elder Shou.”
+
+The man’s eyes widened, and he gestured for me to continue.
+
+“Firstly, Noodle, the Spirit Beast snake? My wife has been trying to determine a way to fix his spine, and I was wondering if you had any pointers for her.”
+
+“You wish to aid your wife with her studies?” he asked.
+
+“She's going to be the best Spiritual Doctor this side of the Empire,” I declared. “And to be the best, you have to learn from the best.”
+
+Shou laughed, practically preening under the compliment.
+
+“Of course! Fixing a spine is tricky when one first begins, but it's entirely manageable! And your second request?”
+
+“Well, you see, I have all these jars of demonic poison, and I was wondering how to get rid of them quickly. At first I thought some kind of Spiritual Herb might be able to feed on it? Help break it down faster?”
+
+Shou pointed at me. “An excellent theory! Unfortunately… that is not entirely the case. Demonic Qi is much too toxic for most Spiritual Herbs. There are some that can do it, but they are… difficult.”
+
+“The ones that can break down Demonic Poison are all mushrooms, aren't they?” I asked.
+
+“They are all indeed fungi,” Shou confirmed.
+
+“Let me guess: after they eat all the poison, they do something funky like growing legs or mutating to try and eat your soul?”
+
+Shou laughed. “That is close enough to what happens. Demonic Qi is, by its nature, corruptive, and even the most resilient of fungi are not immune. Your caution does you credit. All truly wise men regard fungi warily,” Shou said sagely.
+
+“Neither plant nor animal, and they always do the strangest things,” I replied. The mushrooms here, with barely any Qi at all, could make a laxative strong enough to make you shit yourself, or reduce the effects of cancer. The ones hopped up on lots of Qi? Those were entirely different beasts.
+
+“Oh? You subscribe to that line of thought?” Shou asked curiously. “I’ve seen many arguments both for and against!”
+
+“They don’t photosynthesize, and their cell walls are made out of the same material as insect exoskeletons, rather than what makes up a plant’s.” I paused. “Or at least, most of them don’t photosynthesize…”
+
+“I knew it was a different material, but the same as an insect’s exoskeleton…?” Shou’s eyes once more grew distant. Then he sighed. “Well, one more thing to investigate. We must keep in touch, young man. But back to your original question—there are some that you can use to refine the poison in a pill furnace, and reduce its corruptive nature to turn it to a less volatile concoction, with the corruption being burned away by one’s own Qi. However… should you wish to attempt to use some of the Spiritual Fungus on this poison, I will not stop you. Perhaps you may figure out some way to make the reaction less risky.”
+
+I paused at the trust in this man’s voice. Normally the old farts go “don’t mess with that, it's dangerous!”
+
+Instead, Shou was just going to give me the demon-eating mushrooms that may or may not transmute into some kind of crazed abomination.
+
+Which… was a thing.
+
+If he actually gave me them I would be building a bunker. I was not having a mushroom zombie outbreak, thank you.
+
+Shou chuckled at the look in my eye, then sighed contentedly. “This has been a most enjoyable trip so far. Come, let us take a break and have some tea—we must speak with your wife upon the nature of the snake’s spine.”
+
+That sounded like a good time.
+
+========================
+
+Cai Xiulan was having a good time. Go was relaxing, the air smelled sweet, and the others were dealing with the old monsters.
+
+Then, her good time was interrupted.
+
+“May I have the next game?” a polite voice inquired.
+
+Xiulan looked up at the face of Xiao Ge. He was smiling pleasantly.
+
+She bowed her head.
+
+“It would be an honour, Master Xiao Ge.”

@@ -1,0 +1,281 @@
+---
+id: a5b85c35-943f-59fc-b7af-0718ff1df574
+page-type-slug: story-chapter-royal-road
+title: "v5c32: Like Ants to an Elephant"
+slug: 0138-v5c32-like-ants-to-an-elephant
+partOf: beware-of-chicken
+position: 138
+ownLength: 3664
+unit: words
+ownProgress: 3664
+publishedAt: 2024-08-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1754548/v5c32-like-ants-to-an-elephant"
+royalRoadId: "1754548"
+markedReadAt: "2026-06-29T18:56:01.012Z"
+---
+
+Yin barely got her gauntlets up in time to block the sword screaming for her neck.
+
+The fight around Yin had descended into chaos. The ground quaked like it was alive. The world was lit with explosions of elemental fury. Whirling swords screamed through the air, steam billowed from melted snow, ice obstructed vision, and the puffing whine of Xianghua’s Steam Furnace carried above the deafening sounds. Qi was so thick in the air that it was getting impossible for her to sense things… to her detriment.
+
+Yin’s back hit the ground and she rolled before bringing both of her arms up just in time to catch the overhead strike on her gauntlets. The sword of her enemy bit into her golden armor, and the construct made of sunlight groaned.
+
+“Wake up, damnit! I can tell you’re fighting it!” Yin shouted.
+
+While the initial assault had been incredibly successful, as the fighting went on things were changing. Their enemies had been sluggish and clearly not fighting at their best; but now the poison in their blood seemed to have faded slightly. It seemed to be reacting to the fact that the mind-controlled cultivators were actually under attack, letting their true instincts take over.
+
+It allowed them to make up the difference in numbers, but now only the strongest were left… and they were stronger than Yin was. This one in particular was in the Fifth Stage of the Profound Realm. She had run out of paralytic and had to use brute force against the man, but a punch to the jaw had instead partially snapped the man out of his fugue and made him fight all the harder.
+
+“Die!” the man shouted, pressing down on his blade. His weapon glowed cherry red and smoke came from the man’s hands, but he kept on pressing.
+
+So Yin made one of her gauntlets explode.
+
+The detonation of light and Qi sent the man reeling. Yin was on her feet in an instant, driving her still-armored fist into the man’s stomach. When he folded over, her unarmored fist went for his temple, hopefully this time putting him down. Instead, the man blocked and lashed out with his sword. Yin barely managed to jerk her head out of the way, nearly losing an eye, but the weapon still scored a long cut across her cheek, grinding nearly to the bone.
+
+Yin knew exactly how hard that was from Xiulan and Xianghua’s mock complaints about Yin and Tigu’s innate durability. A couple of her opponents’ attacks had bounced off of her, but others could actually hurt her.
+
+Both Yin and her foe lost their footing as the ground heaved again and a shockwave hit them, Big Bro Jin’s fight was still ongoing. They were a couple of Li away by this point, but every time a big hit went out it sent everybody staggering.
+
+Yin’s opponent managed to recover faster. His eyes were completely clear now and he looked around wildly before a haze came over them again and he snarled. Yin reformed her detonated gauntlet… but it proved to be unneeded.
+
+A storm of swords took him from behind, piercing into non-lethal—for a cultivator, anyway—areas.
+
+“Forgive me for making you fight this one alone for so long, Yin,” Xiulan said. She still looked regal, if not entirely pristine. There was some sweat and a couple of thin cuts on her hands, but otherwise she merely looked slightly winded.
+
+“I’m good, let's take the rest of them…” she trailed off as aside from the distant booms of Big Bro Jin’s fight, it was a lot quieter around them now. Xianghua’s last blow sent her foe to the ground. The steam swirling around her looked like a heron and Xianghua herself stood tall and indomitable, her glowing orange eyes searching for another opponent.
+
+“Yes, we have accomplished our current mission,” Tigu said from behind, her voice sounding slightly wheezy.
+
+Yin turned to smile at her Senior Sister—but the smile died as she beheld her friend. “Tigu?!”
+
+“It's just a flesh wound,” Tigu replied as she pulled the spear from her chest with an ugly squelching sound. It had stuck in deeply between her right ribs and had clearly penetrated a lung. “I accepted the blow to secure a swift knock out.” Yin watched as Tigu uncorked a bottle of the medicine they had been given. As Tigu took a draught of sparkling liquid, the most potent they had, the wound began to steam and its edges began to seal. “Now, the true question is what do we do with these men now? Most will remain paralyzed for a few hours, at least.”Yin let the matter drop as Tigu’s breaths became easier and the hole in her chest rapidly repaired itself… but Yin didn’t have an answer for her question.
+
+“Gather them up for now,” Xiulan commanded, putting words to action and moving to lift one of their fallen foes. “This is likely not the main force, so we have to—”
+
+Whatever she was about to say was cut off as a pillar of light formed in the sky.
+
+Yin’s breathing became heavy as a spear of light pierced the heavens, a crackling lance that rose above the clouds. The raw power hit her senses like a hammer, sending her staggering.
+
+Yet something rose to meet that power, whispered on the wind.
+
+And So, the Great Ancestor, Shennong, instructed his Disciples in the way of preparing fields. Till The Land. Fell The Trees…
+
+The lightning descended. The lance hit something as the world hummed like the reverberations of a gong.
+
+[Divert The Waters]
+
+A gentle, fatherly hand felt like it touched her shoulder, keeping her upright and shielding her from the worst of the effects of the outpouring of Qi. Her heart started to calm. The light on the horizon grew brighter and brighter—
+
+There was a moment of silence.
+
+Then, there was a detonation.
+
+Night became day—yet none of the lightning’s glow touched them.
+
+==========================
+
+The world trembled under the golden light of a false dawn.
+
+Birds took flight. Fish scattered and some even beached themselves. Forests and rocks groaned as the earth quaked.
+
+=====================
+
+The rumbles were distant in Verdant Hill, the light on the horizon was dim, but the people of the town saw it and faltered in their Solstice celebrations. The dancers’ steps slowed and the thumping music paused.
+
+Sitting on his balcony and overseeing the preparations, the Lord Magistrate gripped the arms of his chair so hard he could feel his fingers creaking. The only thing that had stopped him issuing an evacuation order was his student's assurances… and the fact that he was frozen. He couldn’t move even if he wanted to.
+
+The memories of that day, when his wife was injured by an errant technique, flashed through his mind. Sweat poured down his back and his breath went ragged. His wife, his beloved Lady, was trying to put on a brave face… but her hands were trembling under her robe’s sleeves. Her eyes were not on the present and were, instead, on that day too.
+
+He wished to run, to flee, to be anywhere but here. He had his horse packed and prepared. If he could master himself, he could rise and take his wife far away, where it would be guaranteed that he would not suffer from the clash between cultivators. They would surely be drawn to the town that was gripped with confusion over a lone man and woman on horseback.
+
+“Lord Magistrate… what do we do?” one of his aides, Dian, asked. The man looked upon him with absolute trust, ready to carry out his commands.
+
+The Lord Magistrate swallowed… and rose to his feet.
+
+========================
+
+In Hong Yaowu, the people flinched and huddled together in the chief’s house or their own homes. The streets, rife with festive decorations, were deserted.
+
+The people stared in awe and horror as muffled booms of two distant, clashing titans rumbled in their bones. Wind blew through the village, the remnants of shockwaves from a battle far away.
+
+Hong Xian the Younger reeled, holding his nose as blood dripped out of it. The smell of ozone clashed with the smell of a crisp winter day. It smelled like pine and mint, cold icicles and hot tea. His father’s arms held him tightly so he wouldn’t fall.
+
+Eventually, the light faded. The village was plunged into darkness, for the wind had snuffed out many of the lit candles.
+
+And then the whimpering began. Other kids started wailing, and several of the grannies and grandpas trembled, trying to put on brave faces. Even Big Bro Bowu, who had stayed in the village, looked scared. He and Ty An were holding each other's hands.
+
+His father, Uncle Che, Uncle Ten Ren, and Auntie Hu Li rose and started walking around, making sure everybody was alright.
+
+Quiet Liu, sitting beside him, tugged on Xian’s shirt. She looked at Xian. He could see the tears in her eyes.
+
+He held her hand and pulled her closer. He looked again at the people of Hong Yaowu, his people. The people he would be chief of some day.
+
+He looked at the terror on their faces. He saw their despair.
+
+The darkness seemed to deepen, like a great shadow was crawling over the land to swallow them all up.
+
+It was the day of the longest night. It was the day they were supposed to dance in order to bring back the sun.
+
+It was his duty, as it was his father’s, and his father’s father before him.
+
+The 78th Hong Xian swallowed thickly. He glanced at his father, who was still trying to calm everyone down. He took a deep breath and stood. His legs were shaking and knees were knocking together. Liu, surprised, looked up at him.
+
+“I got something I need to do,” he told her simply. He made to let go of her hand, but Liu held on tighter. Her watery eyes held a glint of determination in them. Her grip tightened on his hand and she hauled herself to her feet with a huff.
+
+With as much determination as he could muster, he strode on his shaky legs to Big Bro Bowu and Ty An.
+
+They listened to his plan. Bowu took a deep breath and his eyes hardened.
+
+“You got it, Chief,” Bowu said, as he too rose.
+
+==========================
+
+“You are my sunshine, my only sunshine. You make me happy, when skies are grey. You’ll never know dear, how much I love you, please don’t take my sunshine away.”
+
+A clear pure voice rose above the rumbles and distant booms, singing a song Gou Ren had heard Jin sing a few times before. It rose above the wails of a babe, soft and comforting, as a mother rocked her son in her arms.
+
+He would never say how much comfort he too drew from Meiling’s soft voice as he stared at the golden light in the distance. She had sung to him a lot when he was younger, and that voice, when he had laid sick in bed, had been the sign that he would be better soon.
+
+Slowly, Zhuye’s cries quieted. Gou Ren looked around him at the others who were all standing guard. Tie Delun, standing beside him, took deep breaths, his eyes closed, and his face set. Wa Shi was leaning against the wall, his expression one Gou Ren had never seen on the dragon. Huo Ten was clutching a spear made of crystal, his mining helm strapped tight to his head. Bei Be was calmly hitching himself into his plow. Pi Pa was shifting from foot to foot, a look of worry on her face. Miantiao was curled in on himself. The Torrent Rider was biting his lip, and Shaggy Two was growling low in his throat.
+
+Then, the sky turned gold. Everybody flinched.
+
+‘Report from the field. More enemy forces attempting a pincer movement. Contact lost with Emperor’s scouts,’ Chun Ke said as he watched Vajra wiggle. His voice was steady and strong. ‘—contact. Northwest. Contact, Southwest. Scouts along the southwestern route are being destroyed. A thin fog is rolling in before the scouts stop reporting. Likely poison.’
+
+“Yes, I can smell them now. The one to the southwest does smell like poison. The other… I’m unsure. String, perhaps? Two of them are as strong as the one Jin is fighting,” Mei’s overly calm voice called out from the interior of their fort. She stepped into view, Zhuye clinging to her chest with tears in his eyes.
+
+The mood turned grim at that statement.
+
+“Don’t use poison against the poison cultivator,” Gou Ren muttered as he stared at Vajra’s map. New dots were forming on it as the bees rearranged themselves. “Vajra, get Mei’s traps to the northwest as fast as you can.”
+
+Gou Ren paused as soon as he said it. Nobody was technically in charge, but… wouldn’t that be Meimei?
+
+Mei, however, just nodded, and obviously wanted Gou Ren to continue. The bee buzzed and instantly a flight of them zipped into the room that was holding the glass balls. Fire crystals primed to explode, Miantiao’s Qi-infused glass shards, and Meimei’s poison.
+
+“We need to slow down the poison one too, at least until Jin and the others get back. Any suggestions?”
+
+‘Chun Ke will slow them,’ the boar said with conviction. Gou Ren turned… and then had to look up as he realised Chun Ke was not on the wall anymore. Instead, he was on the ground… and towering above him. His rust-red fur had turned to grass. His tusks were the trunks of giant trees. Stone armor clad his form.
+
+‘Yes. We will slow them,’ Pi Pa agreed. The pink, dainty pig had steel in her tone. She looked up at Chun Ke, as if daring him to say no.
+
+Instead, the massive boar nuzzled her. ‘Fight together again,’ Chun Ke said with a small smile.
+
+Meimei suddenly scented the air. “Jin won. Tigu, Xiulan, Yin, and Xianghua are all fine as well,” she reported, a small, vindictive smile on her face “I don’t think he's too injured, either, but… it took a lot out of him.”
+
+The last part was said with a bit of trepidation.
+
+…could Jin handle two more at that guy’s level?
+
+“I can handle one. Maybe,” Meimei whispered.
+
+“Then we'll buy as much time as we can for Jin and the others to get back,” Gou Ren replied. “Alright everybody, let's get ready for a fighting retreat…”
+
+======================
+
+Wa Shi watched as the others discussed how they would sally forth to defend their home. He glanced up at the sky and shivered, remembering the torrent of power that had run through it. And they were going to have to fight two more of those.
+
+It was terrifying. It was horrifying. He wanted nothing more than to just grab everyone and run.
+
+But he couldn't. They were committed to defending their home. All of them were.
+
+And none of them expected anything of him. Not really. They expected him to run. They were, if things went bad, relying on him to run.
+
+It was the correct choice. It was the right choice. He did not want to die.
+
+“Maybe, Wa Shi… you should go,” Big Sis Mei said gently to him. ”Get a head start, just in case.” She held her son out slightly. It would be so easy to take Little Bro and run.
+
+To abandon everyone. To abandon everything.
+
+If he took that route… he would not be a dragon. He would never be a dragon. He would be a scared little carp for the rest of his life, no matter what he looked like.
+
+Wa Shi looked into Zhuye’s purple eyes. Into his tearful eyes.
+
+Wa Shi rose to his feet.
+
+“No,” he said, but not in Qi Speech. Instead, his voice came out booming and strong. “I will not forsake my home.” Big Sis took a step back as Wa Shi came to his full height. “I am a dragon. Dragons do not run. Chun Ke and Pi Pa are going to the south. I’ll go to the north. We’ll have as much time as we need.”
+
+A peal of thunder punctuated his oath.
+
+Big Sis stared at him, before reaching out her hand. Wa Shi leaned into the touch as she hugged his snout against her forehead.
+
+Then she stepped back and reached into her sleeve. “I made this for you in case you needed to go fast… but you should be able to use it here,” she said.
+
+Wa Shi stared at the bamboo container and at the familiar scent within. His mouth became wet with drool.
+
+“An energy drink?” he asked.
+
+“Triple concentrated,” Big Sis replied.
+
+Wa Shi laughed, taking the gift, and turned to where Chun Ke was standing. His titanic friend and that saucy wench Pi Pa both smiled at him.
+
+Wa Shi launched himself into the air, heading north.
+
+Chun Ke and Pi Pa began their rumbling charge south.
+
+==============================
+
+I was out of breath as I sat in the crater that had formed around me. Zang Zeng was leaning against the crater wall beside me, unconscious and breathing shallowly. I had no idea if the brain damage he had taken from having that gross mind-control parasite in his head would kill him later… but that was an issue for another time. The parasite was stored safely in a glass bottle—the glass bottle that had once been full of Meimei’s special medicine. Which was nice, because these electrical burns hurt like a bitch. As did my arms. There were a couple of golden cracks in them.
+
+My shirt was gone and my hat was burnt to a crisp, its ashes somewhere out there. My shovel was stuck in a hill. I was beat up, I was tired… but I wasn’t out of the fight yet. I still had gas left in the tank. First, home needed to be warned, then I needed to go help the girls. I reached behind my ear, where I could feel the bee trembling. I reached back and gently took it… only for it to buzz pitifully. It had been knocked unconscious.
+
+I sighed and gave the little one a pat.
+
+Okay. I need another bee. I grimaced and made to rise. The girls might need my help—
+
+“Master!” Tigu shouted as she appeared at the edge of the crater. I smiled up at her as Xiulan, Yin, and Xianghua’s heads popped up after her—and then I noticed the blood on Tigu’s chest and the hole in the bandages. I opened my mouth to demand if she was okay, but she preempted me.
+
+“I’m fine, Master!” she called. “Mistress’s medicine fixed me up!”
+
+I sagged slightly and let out a breath.
+
+“Not just playing tough?” I asked her.
+
+She shook her head. I would have to trust her.
+
+“Anybody still have their bee? There's two more attacks coming our way.”
+
+That got their attention. Four other bees appeared from behind their ears, buzzing up into the air. I thought they were getting ready to report back for us, but instead they started wiggling in the way that meant ‘get out a piece of paper.’
+
+Xianghua did so, and the little ones quickly started writing, each one using a tiny nib of charcoal to help write out the message.
+
+“Attacks coming from the northwest and southwest. Enemies strong. Please hurry.”
+
+I took a deep breath and said a mental apology to Zeng and the Shrouded Mountain Sect people. We couldn’t carry them with us, and carrying them into a battlefield was probably not the best idea.
+
+They were cultivators. They would survive a bit of cold.
+
+“Let’s go. I just need to grab my shovel first.”
+
+I needed my poor abused comrade. Its blade was all beat up… but the haft, the one Tigu had carved for me, had not a scratch on it.
+
+Our feet started pounding on the path home.
+
+“Country Roads, Take Us Home,” I whispered, praying that we would get there in time.
+
+The land twitched under my feet.
+
+==================================
+
+Huian grimaced as they lost the connection to the Puppet Worm. The last thing the beast saw was a man’s green eyes, threaded with cracks of gold, as he squeezed the life out of it.
+
+They had expected Zeng to last longer. The power output had been much higher than they had expected from Zeng, but in the end…
+
+What the Hells was that technique?
+
+It was dangerous, whatever it was. And while Zeng had clearly tired the man out, Huian was wary. The man was a foe dangerous beyond measure. It was best to wear him down and distract him more. Huian sent a mental command to the reserves. The later arrivals, around half of the artificial demons, had been sent on a small diversion on the way here, investigating where a couple of their scouts had been killed.
+
+The distance was a bit far, especially in the Qi void they were in, having circled around for a better angle, but the command to press forward should have been heeded.
+
+A burst returned. Confusion. Anger. Under attack?
+
+Huian grimaced. Damn things. They needed oversight still. They tried to connect to a scout. One flashed active—only for the thing to immediately perish, impaled by a throwing knife. The only thing Huian glimpsed was the knife, a flash of blonde hair, and then a wall of mist barring the way of the reserves.
+
+Huian grimaced. They couldn’t leave a hostile force to follow and pick off the reserves at will…
+
+Kill attacker. Press on. Reserves demanded.
+
+==================================
+
+Far away, at a place known as First Den, an army of demons received new orders. They roared and advanced, their previous hesitation gone.
+
+And just like last time, as they surged into the clouds, demons began to die.

@@ -1,0 +1,161 @@
+---
+id: c75b548a-b73f-5205-b005-043390c12a5d
+page-type-slug: story-chapter-royal-road
+title: "v5c29: The Wicked Blade Special"
+slug: 0135-v5c29-the-wicked-blade-special
+partOf: beware-of-chicken
+position: 135
+ownLength: 1973
+unit: words
+ownProgress: 1973
+publishedAt: 2024-08-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1745171/v5c29-the-wicked-blade-special"
+royalRoadId: "1745171"
+markedReadAt: "2026-06-29T19:01:26.971Z"
+---
+
+Vajra the Boozemaster, servant of the Emperor, was in her element. The world was seen from a thousand eyes, as she and her subjects worked with one will. The numbers were few, compared to the host she could have called upon at her previous height. In the past, she had commanded teeming millions into the slaughterhouse-battlefields that carpeted the ground with their countless dead.
+
+Yet though their numbers were relatively few, the quality was so superior it would not be a contest. Even her Coldguard were a match for her previous foes—and her Immortals, her strongest soldiers, held in stasis for the winter, could slay dozens of her hated foe.
+
+Still, she was slightly rusty. It had been some time since she had been at a true war footing; the skirmishes against the Black Lances were hardly battles, for they were driven before her without much of a challenge.
+
+This promised to be a much harder battle.
+
+The Emperor had declared that Demons had found their home. At first Vajra was confused. Vajra thought she knew Demons, she had fought a war against them—and to her shame, she had been defeated—but compared to the might of the Emperor, the Demons that had destroyed the Great Empire were as strong as the ants upon the ground.
+
+Vajra had then learned that that was true, the ones she had faced were like ants. Handsome and kind Duke Chun Ke had explained to Vajra the different types of Demons, and that the ones that plagued the humans were an altogether different and much more horrifying race of beasts.
+
+They were mighty enough that the Emperor had mobilized his armies and declared he would take to the field himself, and as a loyal subject Vajra had of course heeded the call, despite the weather. She knew well the sacrifices required to operate in the cold. Millions had died when one of her fellow War-Queens had attempted an ill-planned winter offensive, where most of the troops had been lost to the elements before the battle had even begun.
+
+Vajra had been prepared to sacrifice her entire Coldguard and had even made preparations to reawaken the Immortals, sealed away in their overwintering cells. Vajra’s will was the hive’s will, and each of her daughters had been prepared to march to their dooms without hesitation.
+
+The Emperor, however, spared no expense for even the least of his servants. He commanded tiny flames be constructed, to warm her troops, and he opened his larders, gifting his great treasures to the common soldiery so that they may better serve his will.
+
+He had proclaimed they had value. He had proclaimed that if their lives had to be spent, they would not be spent in vain. His words had resonated with the hive and with the other parts of herself… and the scouts had redoubled their efforts.
+
+Truly, the benevolence of the Emperor was without equal, and his strategic mind was the keenest in the land. He instantly grasped the ringed defences and radial search patterns that had taken Vajra years of bitter war to learn—which surely earned her favour. Such was the recognition of her skill that he simply ordered the grassy-smelling one to coordinate with Vajra to improve their communications.
+
+Vajra had to grudgingly admit the other woman was also skilled in the arts of war.
+
+Thus far, Vajra had been left to monitor the furthest scouts. The Emperor had gone to his subjects in Hong Yaowu to aid in directing the religious ceremony surrounding the Longest Night. It was his duty; just as this was Vajra’s. She had sent the scouts out further that day, using stockpiles of Lady Yin’s firestones to further her search and increase the longevity of her troops.
+
+It was an hour before the sun set on this short day. She was monitoring a storm that had sprung up from seemingly nowhere across the north, cloaking the world in mist and driving snow. It blew from the south to the north, but one scout, who had nearly been caught in it, had reported that the cold was much less than it should have been.
+
+Suddenly, there was an alert. Priority, northeastern scout. Vajra’s attention immediately slammed into her soldier, and the dutiful guard surrendered her senses to her.
+
+At first, Vajra was unsure of what she was looking at before there was a sudden blur that shot across the ground.
+
+Then more blurs did, almost too fast for the senses of the soldier to track.
+
+One, however, was slow. A man who touched against the snow with barely a disturbance and then shot into the air again.
+
+Vajra calculated his trajectory.
+
+Then she sounded the alarm.
+
+===========================
+
+To see the Emperor in his full glory was an awe-inspiring and humbling event.
+
+The Lord of Fa Ram kept his power sheathed so his might would not crush his lessers. To feel his strength here and now… to see a portion of the mountain—Vajra could only bow her head.
+
+The Emperor was frowning at her drawn depiction of their enemy. Though Vajra could only see them for brief moments, she had done her best to faithfully render their likeness.
+
+“That style of robe, in that colour…” he said, his voice grim. “Doesn’t it look familiar to you, Xiulan, Tigu?”
+
+“Shrouded Mountain Sect,” the grass-smelling one declared, her voice hard.
+
+“I don’t think our enemies know what happened at the Shrouded Mountain Sect if they’re trying a false-flag attack,” the Emperor mused. His eyes were focused on the interlopers. “Meimei, can you smell anything?”
+
+The Empress closed her own eyes and took a deep breath.
+
+“A little. One is a lot stronger than the others, but his scent is… strange. Acrid, but… sweet? It's different than the usual smells. They’re moving quickly.” Her report caused the Emperor’s frown to deepen, before he closed his eyes.
+
+Then, he nodded.
+
+“Let's roll out the welcome carpet, then. Vajra, start looking in other directions. Make sure nobody is going to try and get around behind us, okay?”
+
+The Emperor's voice was calm and firm. Vajra bowed her head.
+
+Then he lifted his great shovel and turned to the north.
+
+=========================================
+
+All the tension, all the stress leading up to this moment, suddenly seemed to disappear as I headed northeast. All of it faded into the background as my body acknowledged one thing and one thing only.
+
+It was time for action.
+
+I had done all I could. I had tried to contact Lu Ri and hadn’t gotten an answer from the transmission stone he had given me. All the non-combatants were in Hong Yaowu, under the safety of the barrier. Everyone had their role.
+
+Now all we had to do was ambush the coming assault force.
+
+Tigu, Xiulan, Yin, and Xianghua kept pace beside me as we dashed to meet our enemy, but my mind wasn’t wholly on moving.
+
+Most of myself was occupied with gathering my Qi.
+
+It was sluggish in winter. Like molasses on a cold day, the flow was more solid than liquid when it was like this. If I had tried to just pull on it willy-nilly, I wouldn’t have gotten much of a response.
+
+Which is why I had been churning that power and gathering it up for the past week.
+
+It wasn’t the most power I could bring to bear, but hopefully it would be enough. And even now it seemed to flow faster and more surely. Like a cold wind, rather than the earth below me.
+
+A bee hidden behind my ear buzzed slightly, moving to show me a better course… but it really hadn’t needed to.
+
+My Qi sense was still shit, and Tianlan said it would take a while to truly untangle that mess, but for some reason… I knew. I could feel it, like there was somebody guiding me through the snow. Somebody who knew exactly where our enemies were just from the snow touching their skin.
+
+My grip tightened on my shovel.
+
+Once more unto the breach.
+
+A cold wind blew behind me.
+
+It felt wrathful, like a general racing towards his hated enemy.
+
+============================
+
+The one known as Huian frowned slightly as the final orders were given. The others were moving into position, the idea being to cut off any escape routes.
+
+The hammer of the Shrouded Mountain Sect formed the front, with Huian and Chixia circling around to the south and west. Their enemy was certainly strong, to be able to take out Lu Ban like they did, but… Huian had their doubts about how strong. The man hadn’t shown up particularly strongly on any of the scouts’ Qi readings, indicative of one hiding his strength, but the property had nearly a complete lack of wards.
+
+It likely would not be easy, but that was what the Puppet Worm was for. Expending an Earth Realm Cultivator’s entire cultivation in a single battle, and being free with the body’s suicide techniques, would be enough to turn the tide against most foes.
+
+However, there were some slightly concerning things.
+
+The scouts were having trouble transmitting through the sudden storm—and transmission stone messages were being hampered more than anticipated.
+
+Huian absently turned their attention to the scout attached to the Shrouded Mountain Sect. The connection was fuzzy, but it adequately showed their advancing patsies. The Puppet Worm was in the lead, controlling Zang Zeng’s body with an easy grace. Its stride was powerful and it was following directives well. Huian could see from the Qi density that they were approaching the target. Within the hour the assault would begin, and then they could proceed with the true operation: make whoever was sponsoring “Master Jin” believe that the Shrouded Mountain Sect had attacked them and take Yulong’s relative captive.
+
+Huian frowned as there was a sudden burst of interference, the connection almost cutting out completely. But with a flex of their will the link between master and servant stabilized.
+
+The Puppet Worm touched down and prepared for another leap.
+
+There was a flash of movement, and the Puppet Worm’s head jerked back suddenly as something impacted it with tremendous force. Such was the power of the blow that Zang Zeng’s body skipped off the ground once before the Puppet Worm righted itself, the creature twitching once.
+
+Huian’s jaw dropped as they beheld the one who had struck the Puppet Worm.
+
+He was tall, freckled, and well-muscled. He was wearing a red coat, and he had upon his head a long red hat with a pompom on its end.
+
+And he was holding a shovel in both hands, fully extended from the two-handed blow.
+
+The man had no Qi. The scout could detect no Qi at all around the man, save for the ambient—
+
+Huian paused.
+
+Oh. Oh, that was not ambient Qi.
+
+“Ho ho ho. Merry Solstice,” the man said, raising his shovel to rest on his shoulder. The poisoned pawns went through their lines, shouting about the Shrouded Mountain Sect, and reacting with hostility.
+
+The “ambient” Qi started to rise, curling around the man like a cloak. The man paused and squinted at the Shrouded Mountain Sect member’s eyes. “Mind control. Gently, if possible.”
+
+How the Hells had he figured it out so quickly—
+
+More combatants erupted out of the surrounding snow at his words, four figures immediately engaging the Shrouded Mountain Sect Outriders, while the man raised his shovel and intercepted a titanic blow from Zang Zeng, his face twisting into a scowl as lightning danced all over his arms.
+
+And then the connection cut as one of them hurled a rock at the scout, killing it.
+
+Huian could only stare.
+
+Should they just abort? Retreat? No, their enemy already knew they were here. Their cover was blown. The only thing they could do was commit.
+
+So that's what Huian did.

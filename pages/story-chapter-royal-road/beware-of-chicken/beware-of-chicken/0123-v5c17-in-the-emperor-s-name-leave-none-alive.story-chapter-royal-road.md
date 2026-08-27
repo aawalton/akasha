@@ -1,0 +1,139 @@
+---
+id: 97afbd6b-a7ae-50c5-81b4-cc077d95d366
+page-type-slug: story-chapter-royal-road
+title: "v5c17: In the Emperor's Name, Leave None Alive"
+slug: 0123-v5c17-in-the-emperor-s-name-leave-none-alive
+partOf: beware-of-chicken
+position: 123
+ownLength: 2011
+unit: words
+ownProgress: 2011
+publishedAt: 2024-07-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1699933/v5c17-in-the-emperors-name-leave-none-alive"
+royalRoadId: "1699933"
+markedReadAt: "2026-06-29T18:55:43.795Z"
+---
+
+A solemn silence surrounded Bi De as they rode upon the backs of Master Forest Sweeper’s constructs towards the Sleeping Hollow. Bi De was in his natural form for this occasion. Master Forest Sweeper’s declaration last night, the great Thunderhoof’s mien, and the fact that they were departing today silenced any thoughts of idle chatter. All of them were ‘locked in’ as his Great Master would say. Focused and prepared for the arduous journey ahead, even as they traveled toward the secret heart of the forest.
+
+‘We will arrive shortly. Brace yourselves. The formation is unkind even to guests,’ Master Forest Sweeper commanded, and he received nods.
+
+Again, the intensifying cold first heralded that they were getting closer—then Master Forest Sweeper stepped over some invisible boundary line.
+
+And Bi De realised why Master Forest Sweeper told them to brace themselves. For a brief instant, something brushed against their Qi. It was something ancient, and so powerful Bi De had trouble comprehending its vastness.
+
+The cold here was alive. It gazed upon them, it touched them, and Bi De felt its intent. He could feel the cold’s desire to wick away all his warmth. To freeze him and turn him into a statue like the army at Forlorn Sculpture Pass, never to move again. His breath caught in his throat as he beheld an ocean—it was like interacting with Tianlan, or Shen Yu, with how mighty it was.
+
+It was trying to seal him. It was trying to seal everything that wasn’t a Thunderhoof, freezing them for all eternity.
+
+Bi De’s muscles all seized at that instant. Yun Ren doubled over. Ri Zu shuddered. Han and Yushang stopped breathing, their faces contorted. Yingwen grabbed his leg, the one that had been transplanted, and his mouth opened in silent anguish. Shao Heng and Fenxian simply didn’t move, only their scared eyes betraying the fact that they had reacted at all.
+
+Even Nezan and Shen Yu reacted. Nezan’s ears flattened against his skull, while Shen Yu frowned.
+
+Yet the ocean of might stopped and its attention waned; Master Forest Sweeper’s power gently turned the ravenous, inevitable thing away from them, and once more, it was merely cold.
+
+Suddenly, all of them could breathe again.
+
+“Quite bracing,” Shen Yu said as he rolled his shoulders. “But that is not yours.”
+
+‘It is not,’ Master Forest Sweeper agreed. ‘It is the legacy of the First Forest Sweeper. Now, we continue on foot.’
+
+Shen Yu was looking around with consideration as they dismounted and the constructs disappeared. Master Forest Sweeper once more took the lead as they headed deeper into the forest.
+
+The stone cairns, ubiquitous throughout the forest, became more and more numerous.
+
+Though instead of sticks made to merely look like antlers… each cairn was topped with an enormous bleached skull of a Thunderhoof. Some were large enough that entire mortal families could live in them, and the cairns themselves could house hundreds if they were hollowed out. Bi De stared into those empty eye sockets and bowed his head.
+
+It was clear what this place was meant to be, the Sleeping Hollow of the Iceheart Forest.
+
+“A tomb,” Bi De’s voice was soft as he looked to Spooks. “Do all of your people return here to rest?”
+
+‘Most do, yes,’ Spooks whispered back. ‘But… they are laid to rest elsewhere. This is for those who died during the Black Times. During the Demon War.’
+
+That caught Shen Yu’s attention, who had been considering the sky more than the graves. The man had seemed utterly relaxed, but as soon as he heard those words… he changed. His steps became more purposeful and his polite disinterest turned into what seemed to be genuine respect.
+
+Ten cairns became hundreds. The hundreds became thousands. The cairns got bigger and bigger, the skulls atop them reaching proportions that nearly matched the truly titanic form of Master Forest Sweeper, yet was still dwarfed by the surrounding trees.
+
+‘My young Apprentice speaks true,’ Master Forest Sweeper rumbled, as their stride slowed. ‘Many demons came from their northern gates; and against the Iceheart Forest they led their assaults. Though they charged out from the frozen north, the killing cold was too much for all but the most determined. We fought. We died. And the Thunderhooves nearly perished. But at the hour of our doom, a great cataclysm rocked the world. The demon gates broke—and the backlash slew millions of the beasts. What little did not die to that, we slew, trampled, and destroyed. Yet even in victory, we were cursed.’
+
+‘Our kind is solitary by nature, and after being freed from our fortress, we roamed once more. We were victorious, so what did we have to fear? But the corpses of our foes corrupted the land. They twisted the snow and ice and spawned forth abominations, like pus festers in a wound. Even small demon gates began to open again, pouring the enemy out into the world once more. There, the demons preyed upon our young. They poisoned our food and desecrated our corpses. It was them who first started driving mothers to the south to give birth, where they would be safer.’
+
+They rounded a bend, and Bi De heard everyone but Spooks suck in a breath. The young Thunderhoof simply bowed his head.
+
+Ten titanic pillars of ice, covered in scrawling characters, stood at what had to be two Li tall. Trees of ice twisted around them, their mighty boughs looking like they had been shaped to hold something truly gargantuan—yet they were empty.
+
+‘And so the First Forest Sweeper devised a plan. With his might, he gathered all the corpses, all the corruption, and used the power of the Frozen Font to weave a mighty formation—to turn the heart of our home into a frozen prison.’
+
+The largest cairn yet stood just outside the boughs.
+
+‘He sealed the corruption away and the First Forest Sweeper pledged on his soul to purify it, to grind it down with all his Qi so it would never again threaten our kin.’
+
+And then there was a second cairn, deeper within the trees.
+
+‘Each Forest Sweeper, protector of the Iceheart Forest, our sacred home, has made this oath.’
+
+Master Forest Sweeper led them deeper, past the first and second cairns, and then they laid eyes upon the true body of the Thunderhoof.
+
+His construct was barely an exaggeration of his true size. He was gargantuan, a towering behemoth that could single-handedly break any fortress in the world.
+
+He was also a frozen cadaver.
+
+Frozen trees had grown into his flesh, and wound around his body, curling up around his horns, which were impaled into a black, frozen gem twice the size of the Palace of Verdant Hill that floated in the air.
+
+A frozen gem that as the light shifted, Bi De could see faces set in snarls, black chitin, and the arm of a monster that was even bigger than the Thunderhoof imprisoning it. Frozen Qi swirled around it like a storm, containing and imprisoning it, yet even with the might pressing down on the darkness… Bi De still could feel the sheer malevolence radiating off the prison.
+
+The construct of Master Forest Sweeper stopped beside his true body.
+
+‘Each and every forest sweeper has sworn that they shall be the ones to destroy this taint, through mutual annihilation with our own Qi. This frozen block of filth is what remains of a creation that once filled this entire clearing. I shall either purge this land of corruption and ascend to the heavens or perish, and pass my core onto my Apprentice. Both are worthy fates.’
+
+Bi De at once realised that this was why Master Forest Sweeper could not leave, and why the demonic cultivators had chosen this place specifically as their shield. If cultivators did attack this place and weakened Master Forest Sweeper… they could access this massive store of demonic Qi. Even ground down to this… it would be disastrous.
+
+Bi De glanced at Spooks, to see his reaction to the statement that he too would be bound by roots and be a living prison.
+
+Spooks, however, simply looked up at the gem with determination.
+
+The great Thunderhoof turned to them, and Bi De couldn’t stop himself from bowing his head in respect.
+
+‘Now, millennia after my Ancestors tore away this taint, it rises again,’ Forest Sweeper’s voice was as cold as the Sleeping Hollow. ‘It is an old tradition, for the warriors amongst us, when they go into battle against the ancient foe, to see the depths of our sacrifices and receive the blessings of our Ancestors. It is for this reason why I have invited you here.’
+
+Bi De did not know what to say— so instead he bowed before Master Forest Sweeper, holding his wings like clasped hands.
+
+“Bi De pays his respects to the honoured dead of the north, and Master Forest Sweeper,” he whispered. The others followed, their voices barely above whispers. Only Shen Yu remained standing, his arms crossed.
+
+He then nodded at Master Forest Sweeper.
+
+The true body of Master Forest Sweeper sucked in a laboured breath and then exhaled, mist drifting out from his nostrils. It touched Bi De.
+
+The frozen Qi filled him, surrounded him, and then layered over his skin and organs like armor.
+
+‘The cold shall never again be your enemy; you shall see through the driving snow like it is not there and the cutting winds shall blunt themselves against you, as long as you remain within the Sea of Snow.’
+
+“Thank you, Master Forest Sweeper,” Bi De once again whispered. “We shall do our best to slay them all.”
+
+‘Then go, and slay every demon you find,’ Master Forest Sweeper commanded.
+
+They rose and turned to leave… but Shen Yu made no move to come with them. He looked at the Thunderhoof for a moment before he spoke.
+
+“It is a long forgotten question of the old scholars of the Empire: where did the demons attacking from the north and west come from?” Shen Yu began, his eyes locked onto Master Forest Sweeper. “All signs pointed to the Sea of Snow. Yet when they arrived, they found no portals or corpses. They concluded that the demons from the eastern gates must have gone up and around—or that there had been gates in the northern oceans, destroyed by dragons. Instead… they are sealed here.”
+
+The old man took two steps forward and then clasped his hands together, an open palm over a fist.
+
+“Shen Yu pays his respects to the Heroes and Martyrs of the North. He swears upon his blade: he shall purge every demonic cultivator that makes their home here.”
+
+His oath seemed to make the world pulse with his Qi.
+
+“He Who Sweeps the Forest Floor Of Snow and Opens the Way, I thank you for your hospitality. I shall return with some of my grandson’s finest when this is over, so that we may share a drink,” Shen Yu said as he rose from his deep bow.
+
+‘I look forward to it,’ the Thunderhoof said, looking at Shen Yu with new eyes. The man nodded to the Spirit Beast, and Shen Yu’s burning gaze fixed upon them all.
+
+“Now, we depart,” he stated solemnly. “To war, Cultivators of the Crimson Phoenix Empire.”
+
+Bi De stared at Shen Yu, and behind him, the tombs of thousands.
+
+For the first time, in a long while, he found that he truly hated something. He hated the demons. For what they did to Tianlan. For what they did to everybody and thing they touched.
+
+“To war,” Bi De echoed, the cold Qi of this place mixing with a tightly contained fire that was burning in his breast.
+
+They marched into a raging storm that refused to touch them, their eyes fixed upon the horizon.
+
+And behind them, just outside of Master Forest Sweeper’s home, was a small golem made of snow. Bi De and Ri Zu had created it, as one last protective charm for the forest.

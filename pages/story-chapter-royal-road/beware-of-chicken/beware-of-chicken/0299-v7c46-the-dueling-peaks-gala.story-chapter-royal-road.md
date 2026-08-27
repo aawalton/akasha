@@ -1,0 +1,151 @@
+---
+id: 73adc7b0-60f7-502c-bfee-ed4d0814d194
+page-type-slug: story-chapter-royal-road
+title: "v7c46: The Dueling Peaks Gala"
+slug: 0299-v7c46-the-dueling-peaks-gala
+partOf: beware-of-chicken
+position: 299
+ownLength: 2364
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3246323/v7c46-the-dueling-peaks-gala"
+royalRoadId: "3246323"
+---
+
+“This way please, Master Rou,” Xiulan said with a small bow—and that was what triggered the end of our little respite.
+
+Suyan would be staying back with Zhuye and a complement of bees, while the rest of us would be continuing onwards. I wanted nothing more than to continue to catch up with everyone, Gou Ren and Xianghua especially… but that, unfortunately, would be for later. We all had obligations. So we changed into our good clothes… which for both of us was just putting our outer coats on. Meimei wanted to be seen as a no-nonsense, austere lady. While she was way less self-conscious about her body now, she was still uncomfortable about wearing too flashy clothes... at least in front of strangers. Meimei had no problem busting out the really nice stuff for family and friends.
+
+I offered my arm to Meiling, who took it with a small smile. We set off into the ancient halls once more, our friends an honour guard around us. The passageways of the Dueling Peaks felt less gloomy than they had been the first time. When I was here previously, the atmosphere had been that of a mausoleum. Grand, impressive… and dead.
+
+This time, it felt alive. Energetic, almost.
+
+“It feels like it was supposed to,” Tianlan whispered in my head. She sounded both fond and impressed. “Our little Blade of Grass… she's done a good job. They all have.”
+
+That they did. It was amazing what they had accomplished, and I couldn’t be prouder. Especially Tigu. It was amazing to see how far she’d come.
+
+As we walked, Xiulan spoke to us, explaining everything. “Your party will be at the head table; as will I and the other leading members of the Azure Alliance. For the initial part of the feast there should not be a great need to speak with anyone, really; they should all be watching the entertainments in the arena, but after the main meal is eaten, most of the tables will retract and then people will begin to approach. The closest tables were fiercely fought over. The Hermetic Iron Sect, on account of Tigu’s betrothal, will be to your immediate right. But to your left will be the Grand Ravine Sect, who are also very favourable to you.”
+
+“Anybody we should look out for?” I asked. There was always somebody who wanted to start shit.
+
+“Nobody would dare be overt. I doubt there should be anything difficult at this event. It’s more a celebration than anything,” Xiulan said.
+
+It was pretty straightforward, all told.
+
+Soon, we arrived in an antechamber before the arena—and it took all I had to keep from gawping as everyone turned to see us and bowed. Beside me, Meimei sucked in a barely audible breath and her fingers tightened on my arm, things finally hitting her. The arena had been kind of abstract, but this was intimate, where people would be scrutinizing us all up close.
+
+We walked in on what I noticed was a literal red carpet, and I felt pretty self-conscious about it. This was, I imagined, like one of those big gala parties for the rich and the famous back in the Before. Now, I had never actually watched one of those; I had only seen snippets on TVs playing in department stores or bypassed them while flipping channels. But that was the closest analogy to our entrance. At least there were no strobes from cameras. Not even the chime of a recording crystal.
+
+The cultivators were in their finest silks—elegant robes mixed with rather gaudy affairs, while others simply wore their nicest martial uniforms. The ladies were wearing especially eye-catching outfits, each woman a riot of colour and flowing silks. Some of the Young Mistresses—and Sect Elders—had… well, form-fitting attire. Some of the dresses were nearly modern with how much skin they exposed.
+
+It was a bit of a culture shock to be reminded that I was one of those rich and famous people, instead of a street rat or the son of a farmer. Both Meimei and I had that in common, at least.
+
+But the show must go on. We walked into that room of glitz and glamour, some of the perfumes reaching our noses. To my surprise, the people of the Azure Hills had pretty good taste. Their perfumes were all refined and understated, rather than a punch in the schnoz.
+
+I thought we would be mingling for a few minutes, but my entrance was the cue for everything to begin. So I improvised.
+
+“Tie Delan, Master Gen. I’m looking forward to seeing the fruits of the labors of your son and your disciples, respectively!" I called out. Both puffed up with pride.
+
+“You shan’t be disappointed, Master Rou,” Master Gen said, nodding to me.
+
+We stepped out of the doors and into the arena; I was leading the way, as was my “right”,  waiting on nobody to begin. I raised an eyebrow immediately at the dramatically changed arena. It had gone from a colosseum to basically an amphitheater.
+
+Our seats were, naturally, the best in the house, directly centered, with the best view of the “stage”.  And more than that, the seats were designed for humans… and Spirit Beasts. Washy and Babe had long benches they could rest their chests on, so they didn’t just have to stand. Something that pleased the dragon immensely.
+
+In no time at all, the lights dimmed and a voice spoke out.
+
+“The Azure Alliance welcomes Master Rou Jin and his household to the Dueling Peaks,” a polished, TV announcer-quality voice declared. It was buttery smooth, and wouldn’t have sounded out of place coming from the speakers of a high end classical show. “We pay our respects, and hope that he finds our hospitality agreeable. We have arranged several attractions for your viewing pleasure. Please enjoy the first act.”
+
+That was when the water started filling the arena. Meimei gasped, her eyes sparkling as a lady rose from the depths, looking for all the world like an ethereal water-nymph.
+
+Xiulan and the sects had busted out an entire production crew too do a live show.
+
+Elder Xinling, whom I recalled as Music Lady from my previous visit and lessons with Xiulan, started to play, and I sat back to enjoy the show.
+
+And it was a good show; Elder Xinling was fantastic. Lady Wu, no slouch herself at the guzheng, had tears in her eyes from the beauty of her playing, the strings resonating through the arena and reverberating in my chest. Even Tianlan let out a little sniff… because of the choice of music.
+
+I recognised the piece from Xiaoshi’s memory crystal. It was something that Ruolan had made for one of her operas.
+
+Xinling did it justice.
+
+When it ended, I reflexively brought my hands together, my clapping ringing out over the arena… before realising that wasn’t really a thing done much here. We were supposed to be dignified, and a light, polite sound was the most people would normally do.
+
+I course-corrected, keeping it slow and approving rather than the excited claps and whoop I wanted to do, because damn, the lady had killed it. I was worried that this was gonna be a bit boring, but if this was the quality of the show?
+
+“Fantastic,” I stated, and everyone heard my voice. Others joined in the applause. Xinling’s face flushed, and she gave me a deep bow before rising with a supremely self-satisfied smirk. Then  she disappeared beneath the waves once more as the platform retreated.
+
+“For our second program, we have something special. An exhibition match of a wondrous and exotic art introduced to the Grand Marshal by Master Rou. It is a test of grace and skill, power and resilience—a simulated battle, where tactics and strategy are just as important as physical skill. This art shall be showcased by members of the Verdant Blade Sect and the Misty Lake Sect,” the smooth voice stated, and I paused, at first confused at what he was referring to— until the arena froze over.
+
+She hadn’t.
+
+I turned to look at Xiulan, who had a little smirk on her face. Xianghua had her hands on her hips, and her grin took up her entire face. Two teams skated out from opposite sides of the arena; the eyes of the disciples of the Verdant Blade and Misty Lake Sects were focused only on each other. The Verdant Blade Sect’s disciples all had their faces painted in a mirror of what Xiulan had on the Solstice—while the Misty Lake Sect team were all wearing the traditional reed hats of the Misty Lake.
+
+“Please observe the powerful art of Ha Qi. We are told it is customary to give names to these teams of cultivators. So without further ado, we have the Verdant Blade Sect Wusheng Heroes  versus the Misty Lake Sect Dragon-Fisher Herons. The Grand Marshal shall begin the match.”
+
+I leaned forwards in my seat, absolutely engaged now. Xiulan stood from her seat as the two teams sent forward their players for the faceoff. That was about the only recognisable thing about this, the faceoff. Each of the lineups were arranged like nothing I knew. To begin with, there were ten players on either side, instead of six, and the rink was comparatively massive.
+
+“Fight with honour and integrity!” Xiulan commanded, and then with a flick of her wrist sent the puck to the middle of the ice.
+
+And so began the war.
+
+The players exploded into motion. Four on each side were instantly on each other, wielding their sticks like glaives—their asses would have been tossed out so fast in the Before, but here? It was totally valid, and the immediate clash had the attention of all the cultivators who had been staring with confusion.
+
+Everybody liked violent sports.
+
+The Wusheng Heroes got possession first, and their blitz assault ripped forward. The puck bounced between the Wusheng Heroes like a rabbit on crack, each pass a dance in an opera that made it near impossible to track.
+
+But the Dragon-Fisher Herons proved their name apt. One of their line burst into the middle of their foes and pounced, briefly capturing the puck and disrupting the formation—before she was cross-checked clear off her feet.
+
+And that's when it really started going crazy. The players were skating at what had to be nearly a hundred miles an hour when they really got up to speed, and when they hit the puck—which was made of steel—it went off with a sound like a gunshot. They pulled off crazy acrobatics, leaping into the air to absolutely send it screaming towards the goalie, who wasn’t wearing any pads and just had the goalie stick. The goalies would then have to block those cannon shots as best they could, sending it back to their teams.
+
+It was pure chaos, and yet everything was under control as well. Fights broke out. Players pulled off what had to be every illegal move in the book from the Before. It was violent. It was even, in some cases, bloody.
+
+And it was the greatest thing ever, and everyone at the feast seemed to agree. By the time the first ten minutes were up some decorum was lost, with people openly cheering and shouting for certain teams and players, roaring when there was a goal, and laughing as two players started up another fist fight. One of the only things they weren’t allowed to do, it seemed, was kick with their bladed feet.
+
+The match ended 3-2 in a nailbiter, down to the wire for the Wusheng Heroes, their blistering passes managing to carry them to victory. They made the gesture of respect to their defeated opponents. Then the Dragon-Fisher Herons made the gesture back, and then both gave it to the crowd, showing that despite the shit they had just kicked out of each other... there were no hard feelings.
+
+They had both been beat to shit… but they all had grins on their faces, the satisfied smiles you could only get from a hard-fought match.
+
+…man, I wish I was down there, that would have been fucking epic.
+
+Meanwhile, I got to listen with a bit of amusement at the murmurs coming from the crowd.
+
+“The agility and split second decision-making this art forces the practitioner to learn—and it is an art from Master Rou! It's surely useful.”
+
+“The speed they achieved on those bladed shoes—procure some immediately.”
+
+“A war writ small—fascinating. Have some of the disciples test themselves. We will challenge and defeat the Wusheng Heroes, for the Azure Horizon Sect’s glory!”
+
+===============================
+
+Further away, Bai Huizhong stared. His eyes were wide and shining. His soul was singing.
+
+That… that was amazing. The speed. The power. The fights!
+
+The dance of the puck in the Wusheng Hero’s grasp. The fierce Herons diving into the dizzying display to snatch it back.
+
+His heart was thundering in his chest. He wanted to see more of it. He needed to see more of it.
+
+The crowd was roaring. He could hear it roaring louder. The stands filled to the brim. The frozen rink in the middle.
+
+Oh, he had ideas. He had so many ideas, and this was going to be tremendous. A lesser version, for mortals as well. A team for each town. A championship!
+
+A trophy. A war, for only the greatest.
+
+And for the first time in a long time, Bai Huizhong did not think, “How can I make more money off this?”
+
+He thought:
+
+“How can I show this to the world?”
+
+His mind was whirling so fast he nearly missed his next cue. His assistant had to wave directly in his face.
+
+He coughed and shook his head, before activating the Resounding Crystal Dias.
+
+“Next, we have a literary reading of a discovered text of poetry from the Age of Heroes by the Azure Horizon Sect…”
+
+He didn’t envy them having to follow that up, but what could he do?
+
+Bai Huizhong freely admitted that he let his mind wander, not paying any attention at all to the poetry.
+
+His mind whirled with sticks and pucks.

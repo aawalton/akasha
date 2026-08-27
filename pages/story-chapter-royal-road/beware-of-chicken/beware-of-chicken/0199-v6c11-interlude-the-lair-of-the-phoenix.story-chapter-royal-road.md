@@ -1,0 +1,187 @@
+---
+id: 20813679-1b19-59f3-b36f-5c16af93b6d9
+page-type-slug: story-chapter-royal-road
+title: "v6c11: Interlude: The Lair of the Phoenix"
+slug: 0199-v6c11-interlude-the-lair-of-the-phoenix
+partOf: beware-of-chicken
+position: 199
+ownLength: 2467
+unit: words
+ownProgress: 2467
+publishedAt: 2025-04-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2167636/v6c11-interlude-the-lair-of-the-phoenix"
+royalRoadId: "2167636"
+markedReadAt: "2026-06-29T18:58:09.082Z"
+---
+
+In the heart of the Crimson Phoenix Palace, a man sat at a desk.
+
+When one thought of the capital, and especially of the palace, their imagination ran wild with elegant finery and opulence or decadence. They thought of gold filigree and jade inlay. They dreamed of the staggering wealth of the Emperor.
+
+Of the Emperor’s numerous desks, there were a great many which lived up to that image. In the Grand Hall, the Emperor had a slab of solid Spirit Jade, a crystal so rare and valuable that sects warred for nuggets. In the Chamber of Seclusion there was a titanic piece of wood larger in area than most mortal houses, carved from a tree that had been sixty five thousand, four hundred, and twenty three years old—the man had counted the rings when he had been bored, once.
+
+So if one were to come in off the street, and see the desk the man was currently sitting at, they might think it out of place.
+
+Oh, it was a fine desk. Its timbers were solid. Its surface was polished, a dark, pleasing shade. It had a few decorative carvings on it… but that was it. It was a desk. Simple, functional, and well-suited for its task.
+
+It was the most important desk in the Empire, for the man who sat at it was the Emperor and it occupied his private office. Three Crimson Phoenix Emperors had used this desk. None knew its age, or even where it came from. The First Emperor had started using it out of convenience, after finding it and the chair that had come with it in a storage room.
+
+Yet neither part of the ensemble had ever needed repair. They had never needed cleaning. The simple desk had endured for thousands of years, doing its duty without fail. Each Emperor of the Crimson Phoenix Empire had found themselves at this desk, doing their work long into the night… for the chair was one of the most comfortable that they had ever sat upon.
+
+It was at this desk that some of the most important decisions in the history of the Empire had been made.
+
+Upon the desk were vast piles of paper, each one carefully curated and organized. There was probably a small forest upon this desk, and that was after most of the work had been delegated to scribes or other trusted men.
+
+The Emperor of the Crimson Phoenix Empire, known as Fengyan to a select few, propped his chin as he read the report in his hand. The page blandly reported the culling of seven thousand and forty nine subjects in Veiled Moon Moor due to a Blood Gorging Nightworm infestation turning an entire town into monstrous beasts. The virulent plague of creatures had been poised to spread, but it had thankfully been snuffed out.
+
+The Moonless Blade Sect had actually bothered to inform the Lord Governor of the province, and had been thorough enough to look into the sewers of the city to make sure nothing escaped. The Lord Governor had then acted swiftly—issuing warnings, evacuating his capital city, and rooting out several other dens of the creatures before they could cause any more harm.
+
+While the loss of seven thousand of his subjects was unfortunate, the truth of the matter was it had been handled before it could get worse.
+
+A bit of good news for today. His Sects had acted righteously, and everyone involved had followed protocol instead of hiding things or trying to cover it up.
+
+The Emperor placed the page down and personally penned a commendation. He would bring up the matter at court as well, and emphasize the Governor’s swift action. Hopefully that would inspire similar acts… though frankly, he doubted it. Nobody wanted to be the one to tell the Emperor they had to set fire to their own capital. No matter how consistently he demonstrated otherwise, they seemed to be under the misapprehension that he would punish such action as a “failure” rather than commend them for making the best of a bad situation.
+
+But alas, sometimes that was life.
+
+He moved on to the next page—tax data. All seemed within his projections, so he sorted it into another pile. Next was a budgetary review of the Archives—many in court were again questioning the initiative. In all honesty, the Emperor was questioning it as well. He had implemented it to increase the number of learned men the Empire needed, but the results weren’t quite what he expected. There had been an uptick in the kind of people he needed, but had it been enough to justify the costs?
+
+It was something he would have to meditate on.
+
+He was about to pick up another stack of papers when there was a whisper of air. One of his trusted servants approached and bent down to whisper in his ear.
+
+“Your Majesty, Your Voice returns,” she said, and the Emperor straightened.
+
+“Any indication of what news he brings?”
+
+“More good than bad, Your Majesty,” came the reply. “He said that it was for your ears only.”
+
+“Prepare refreshments. We will receive him in the gardens,” he commanded, rising from his seat.
+
+He wondered what news his Herald would bring.
+
+=====================
+
+The gardens always evoked peace within the Emperor. The thousands of years of work that had gone into this masterpiece, from the soothing Qi to the subtle fragrances, never failed in relaxing him, and he had a feeling he would need it. News involving Imperial Realm Demonic Cultivators was always stressful. He was seated at the same table at which he had met his friend Shen Yu not too long ago.
+
+And today he would soon be seeing another friend.
+
+A man wearing a mask carved with the Imperial Seal entered the Emperor’s presence. His steps were calm as he approached the pavilion. Then the man dropped to one knee.
+
+“This Humble Servant of His Imperial Majesty reports success upon his mission,” came the calm voice of his Herald.
+
+“Rise and approach,” the Emperor commanded.
+
+His servant did as he bid, approaching slowly before once more dropping to a knee.
+
+The Emperor touched his shoulder. “We relieve you of the burden of Our Authority.”
+
+The seals upon the Herald dissipated. The blank mask cracked, and then turned to dust. Where once was the Herald, now knelt Shi Lang, the Emperor’s most trusted aide.
+
+“Shi Lang pays his respects to His Imperial Majesty,” the man intoned.
+
+“Be seated, my Servant. We require your insight on what transpired. Shen Yu’s letter was… concerning.”
+
+Shi Lang did as he was commanded, settling into the pavilion’s seat. The Emperor allowed him a moment to settle and take a drink of wine, and then Shi Lang got right into things under the pressure of the Imperial attention.
+
+“Good tidings and bad tidings, My Lord. Firstly, Shen Yu spoke true. There was an Imperial Realm Demonic Cultivator in the Sea of Snow. Worse, his conspiracy has tendrils in all corners of the Empire. Secondly, Shen Yu’s power has been reduced. He is now in the Sky Realm.”
+
+The report was delivered dryly, as Shi Lang always did, getting the bad news out of the way first. The Emperor grimaced. Shen Yu was truly so reduced? There was a conspiracy rotting the bones of his Empire?
+
+“This is more good than bad?” he asked. His mind whirled, crafting a response about just what he was going to do about this situation.
+
+“It is indeed, my Lord. Their bases in the Sea of Snow have been shattered—the Cloudy Sword Sect and Tianzhe Minyan, along with her ship, have laid waste to them all. Secondly, Yukong of the Subtle Scripture has devised a way to track more of these bases, and she has crafted enough of these artifacts that we may begin the purge. I have already taken the liberty of informing your Street Sweepers and tasking them with the hunt. I leave the rest to your discretion.”
+
+The Emperor’s thoughts paused. The plans of attack that had been forming faded. His assassins had already been informed? The Cloudy Sword Sect and Soaring Heaven’s Isle Sect had already done most of his work for him? There was already a way to track this filth?
+
+“… that is indeed good news.”
+
+“We think they may have gone to ground, but we still know the method to track them even when the artifacts no longer work. They were using a tunnel network. It will be long and tedious work to root them out, but they have been dealt a devastating blow.”
+
+Competent subordinates were always a relief.
+
+The Emperor raised an eyebrow and dispensed with the formalities. “I must say, I think you enjoyed that first part. How disloyal, to worry your Emperor so.”
+
+Shi Lang’s lips twitched. “I do not know what you mean, My Lord,” the man said. “And I was not finished with my report.”
+
+“Oh? There is more?”
+
+“Yes. When conducting the scouring of the north, we made contact with a friendly Spirit Beast Tribe—a Spirit Beast Tribe Shen Yu and Xiao Ge have both declared as Honoured Martyrs, Heroes who have fought against the Great Enemy since before the days of the Empire. They sheltered Shen Yu, assisted him in the north, and battled the demonic forces alongside our sects. Their leader is in the Imperial Realm.”
+
+Friendly, or at least neutral, Spirit Beasts were not entirely uncommon—but it was difficult to treat with such creatures who wanted nothing you had, or who had strange ways of looking at the world. And that was before a greedy cultivator only saw a mobile pile of resources. That normally poisoned a relationship before it could ever form.
+
+The Empire did have at least some… if not alliances, agreements with select Spirit Beast Tribes. Kept secret for mutual protection. But they were few and far between, and it was beyond rare for one to be formed with a tribe whose leader was in the Imperial Realm.
+
+Still, it was a chance to secure his northern flank, and open a dialogue with creatures who had been waging war in the north against Demonic Forces all this time.
+
+And for them to have fought nobly—and successfully—enough to justify being declared by the Cloudy Sword Sect as Honoured Martyrs? That was incredibly rare. Most friendly Spirit Beast lineages had been too noble, according to his ancestors. They had mostly perished in the countless wars against the Great Enemy.
+
+“Do you think they can be reasoned with?” the Emperor asked.
+
+“I have met one of them. He was in the Spiritual Realm, and his name was Antlers like Frozen Mountains. He was calm. Controlled. A warrior, and not a beast. It will be delicate work, but I believe such a thing is possible.”
+
+“I would have you treat with them, then, as Our Voice. If they have truly done our Empire this favour, then we shall return their kindness a hundredfold.”
+
+“Your will be done, Your Majesty. I serve at your pleasure.”
+
+“Anything else?”
+
+Shi Lang paused. “… I met Shen Yu’s grandson,” he finally said.
+
+The Emperor leaned forward.
+
+“And?”
+
+Shi Lang took another moment, and another sip of wine. His brow furrowed as he considered his words.
+
+Finally, he spoke.
+
+“If Shen Yu had not been so boastful of him, I wouldn’t have made the connection. He was calm, measured, and despite his unease at being in the same room as us… he was at peace with himself. His fire was no blazing torch, striding forwards to carve a path through the darkness, but instead a hearth. Gentle. A protector… but with no true burning ambition.”
+
+The Emperor frowned at the description. “That does not sound like somebody Shen Yu would have taken in.”
+
+“Yet in spite of that, he is a prodigy. His power is strange and subtle. He grows Spiritual Herbs which Shou of the Hidden Forest has not been able to. He defeated three Earth Realm Cultivators and a Sky Realm Cultivator when they attacked his home. His talent is beyond that of normal men… and yet he sells cabbage, rice, and eggs in the nearby mortal town, and humbles himself before the mortal magistrate, calling him teacher.”
+
+The Emperor wanted to cry that such a thing was impossible. Yet Shi Lang never lied about these matters. Shen Yu had spoken of a boy in the Initiate Realm. It had been three years since then, and he had defeated Earth and Sky Realm cultivators, all while maintaining a low profile? What kind of monster was he?
+
+And so the Emperor asked the question which his station demanded of him, no matter how little he wanted to.
+
+“Do you believe he will be a threat?”
+
+“No,” Shi Lang’s answer was immediate. “Not unless we give him reason to. I am fully certain of this. He has no desire for titles or recognition. Shen Yu informed me that the man simply wants to be left alone, that he may cultivate in peace… though there was the undercurrent that he was joking with me about some part of that sentence.”
+
+The Emperor considered Shi Lang’s words… and made the easiest decision of the day.
+
+“If he has no desire for recognition, then why poke two sleeping dragons?”
+
+If Shi Lang didn’t believe they were a threat, and the man was content to rest in the Azure Hills… then why change that? A problem that could be solved by doing nothing wasn’t a problem at all.
+
+The Emperor took a sip of his own wine. “Is there anything else? Or is that the last of the surprises?”
+
+Shi Lang smiled. “There is one last message from Shen Yu, My Lord,” Shi Lang said… and handed over a scroll.
+
+The Emperor opened the scroll and read the message.
+
+Then he read it again.
+
+And then… a smile slowly came to his face.
+
+Shen Yu had declared the Archives to be a success. With proof. A formation that had traded hands multiple times, drifting between people who never would have met, until it produced something amazing.
+
+It felt like a great weight had suddenly been lifted from his shoulders. His tree had finally and truly produced fruit.
+
+“Shi Lang, I would have you rest—and then return to the north as Our Voice.”
+
+Shi Lang, who had been looking at the Emperor with his own small smile, bowed.
+
+“Of course, Your Majesty,” he said and began to rise.
+
+“Though I do have one last question for My Herald,” the Emperor said before he could fully rise.
+
+“Yes, Your Majesty?”
+
+“Did Shen Yu find out it was you?”
+
+Shi Lang’s neutral mask cracked, and the powerful seven hundred year old man pouted.
+
+The Emperor left his gardens laughing.

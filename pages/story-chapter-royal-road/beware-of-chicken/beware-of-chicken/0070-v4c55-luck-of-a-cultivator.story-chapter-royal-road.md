@@ -1,0 +1,137 @@
+---
+id: 33d1d8f5-ff7e-5937-ae6c-b429147b9bf9
+page-type-slug: story-chapter-royal-road
+title: "v4c55: Luck of a Cultivator"
+slug: 0070-v4c55-luck-of-a-cultivator
+partOf: beware-of-chicken
+position: 70
+ownLength: 1755
+unit: words
+ownProgress: 1755
+publishedAt: 2023-11-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1393532/v4c55-luck-of-a-cultivator"
+royalRoadId: "1393532"
+markedReadAt: "2026-06-29T18:53:49.132Z"
+---
+
+“The Mo family, hmm?” the Head Inquisitor asked as he read over Yun Ren’s report. “You do not set your eyes upon the meek, Disciple Biren.”
+
+“Yes. It is a difficult thing, but this disciple would think during these trying times an honest captain would be better than one trying to save his own hide,” Yun Ren replied, trying to put it in language that would appeal to the old bastard.
+
+“Indeed, indeed.” The Head Inquisitor leaned back in his chair, considering Yun Ren’s words, and as he did half of his veiled face fell into shadow.
+
+Yun Ren was starting to get used to the dark corners the Inquisitors operated in. He wasn’t as nervous now, seeing as they still hadn’t tried to kill him, but he was doing his best to stay alert—complacency lost a hunter his meal, if not his life.
+
+Judging by how his mind kept wandering back to the prior night, he was in serious danger of going hungry.
+
+It had just been so… viscerally uncomfortable. Shao Heng practically breaking down into tears was indelibly seared into Yun’s memory. And over what? Nothing more than the fact that they weren’t going to throw him to the wolves.
+
+“This Shao Heng owes you all a debt that can never be repaid,” the man had said, his voice wavering, head bowed, hands clasped in front of him. “Yet he shall pay it anyway, no matter how many lifetimes it takes him. Shao Heng swears upon all his ancestors!”
+
+There had been a certainty to his voice that had reminded Yun Ren of Xiulan when she had sworn her life to Jin and Meimei.
+
+Xiulan had been willing to die for them. Abandon her sect for them. Start a war for them. And Yun Ren got the feeling that Shao Heng was cut from the same cloth.
+
+That said, Ri Zu had been pissed that the man’s wound had ripped open when he had bowed, snarling about how the herbs here were just not on the same level as the ones back home.
+
+So while Ri Zu had patched the man back up—while whispering vicious and dire threats into his ear the whole time should he rip the wound open again—they had brainstormed what they could do. From a rotating guard when Ri Zu couldn’t be there, to how they could actually stop any attacks or retaliation…
+
+And to Yun Ren’s disappointment, their best bet was the Inquisitors, not that he could tell Han and Yushang that.
+
+Working as a member of the Inquisition and studying their history had been a boring and frustrating task. Plus, Yun Ren had been ready to write the entire organization off after he had learned what had happened to Han’s family.
+
+But of course, things had to be more complicated than that. In addition to the shit they pulled, they did have a great many records of successfully prosecuted cases against some real pieces of work. Men consorting with demons, hidden bandit societies, and other truly despicable human beings, like one of the Inner Disciples who had been importing children as ‘disciples’ and ‘servants’ only to have been… well. Even the scumrags of the Shrouded Mountain Sect hadn’t liked that, and the punishment had been something Meiling would have approved of.
+
+Given their history and how blatant the attack had been, well, maybe the Mo family wasn’t an insurmountable obstacle.
+
+So Yun Ren gathered the evidence they had, which included a journal that Shao Heng had kept every time disciplinary action was blocked for Mo Chaoge. The man had seemed embarrassed by it, calling it petty venting, but Yun Ren called it the jackpot.
+
+As soon as he had mentioned the Mo family, he had been passed up the chain to the Head Inquisitor, who at least seemed to be considering his words.
+
+The old man hummed and hawed, and then he nodded.
+
+“This is well-reasoned. Mo Chaoge is low ranked in the family and I suppose reminding them that the Patriarch’s favour is not unconditional would be beneficial.”
+
+Yun Ren hoped he hadn’t just fucked Shao Heng by doing this. But… he knew the guy would have gone for it either way. Probably saying something about duty all the while.
+
+========================
+
+Later that day, Yun Ren found himself doing his usual thing—wandering around the offices, archives, and lairs of the Inquisitors, looking for hidden secrets while trying to make it look like he wasn’t wandering around the offices, archives, and lairs of those same Inquisitors looking for hidden secrets.
+
+It seemed to be working at least, because he didn’t really have minders anymore. In fact, Yun Ren had been praised for not letting Han know anything about his family’s past. It still grated at Yun Ren having to keep it a secret from a friend.
+
+While Yun Ren had lost his full-time shadows, Lady Mist still occasionally joined him. The woman was clearly not taking Yun Ren’s continual rejection well—and Yun Ren had noticed the betting ring around him and her. He didn't know the prizes, but it was kind of funny all the same.
+
+He chuckled slightly as he remembered Lady Mist’s face the last time he “hadn’t gotten” her innuendo… and then that amused feeling faded. The fact that he was planning to stab them in the back even as he needed their help didn’t really sit too easy with him, if he was honest. But even if they weren’t complete dickbags, they were still assholes.
+
+Man, why did this have to be so complicated?
+
+Yun Ren huffed as he walked through another new side passage—the entire mountain was riddled with the things, in this area especially, and they weren’t in the best shape. They were shoddily repaired after something had rampaged through them. Some of them had fallen rocks still sitting in them and water dripping down the walls. There was even fox-mist from the surface of the mountain floating around his knees.
+
+He eyed one of the passages in particular. Gou would have had a fit about it, its gaping opening and cracked appearance making it look like an open mouth. He smirked and brought out his recording crystal—but looking through the crystal made it look even more like the gaping maw of some giant beast.
+
+He frowned, the darkness suddenly seeming so much more oppressive. A soft breeze blew through the passage, cold and dank. It tingled up Yun Ren’s spine.
+
+The mist moved into the passage, like the beast was taking in a breath—
+
+Something rattled at his waist.
+
+Yun Ren jumped so high he hit his head on the ceiling.
+
+“Eighth Wielder’s reactions still need work,” Summer’s Sky projected down their link as Yun Ren rolled on the floor clutching his head, the solid stone ceiling above him cracked.
+
+“Bastard of three fathers! What the hells was that for, Summer?!” he hissed back as he staggered to his feet.
+
+The sword rattled again. “This passageway is… familiar to Summer’s Sky. This is near to where Seventh Wielder retrieved Summer’s Sky from storage during her escape,” the sword replied.
+
+Yun Ren raised an eyebrow. “Really? Is that why it looks so messed up?”
+
+“Likely. In fact, the Seventh Welder specifically destroyed this passageway.”
+
+All of a sudden, with a starburst behind Yun Ren’s eyes, he was somewhere else—the trailing fractals of what Summer’s Sky “saw” filled his vision.
+
+Lightning melted and blasted solid stone. Summer’s Sky cut through an Inquisitor. “I hope it set,” Seventh Wielder muttered, her voice rasping. The wounds of her torture still littered her body—
+
+The image of the fallen rocks settled and faded back to reality.
+
+Yun Ren shook his head, trying to ward away the sudden headache.
+
+“A bit of warning next time?”
+
+“Apologies. Summer’s Sky recommends following this passageway.”
+
+Yun Ren eyed the passage. It looked like shit… but he supposed he would have to trust the repairs. So he started down it.
+
+======================
+
+Ten minutes later, Yun Ren was still walking. The stone walls of the hallway were melted, and the mist thickened until he could barely see past his knees. The hallway went upwards, and eventually exited out into the sect proper. He poked his head out of the alley, only to find himself in a small courtyard. An enormous, ancient tree stood in the middle of it, its branches waving in the breeze.
+
+For this part of the mountain, there was barely any fox-mist. A little bit swirled here and there, but otherwise the sun shone brightly.
+
+“…got any ideas, Summer?” he whispered to the sword.
+
+“Summer’s Sky has no current ideas.”
+
+Yun Ren sighed.  “Well, this was a bit of a waste—” he began before something caught his eye.
+
+It flickered at the edge of his perception. It could have just been the sun for a brief moment between the leaves of a tree as the wind blew… but he recognized it.
+
+He wouldn't have known what to look for unless he was familiar with his own mistakes. It was the slight flicker of an improperly crafted light illusion.
+
+Yun Ren’s eyes widened. He looked around carefully, but there was nobody here. He brought out his recording crystal, and with a chime he recorded.
+
+There was a small blurry patch on one of the decorative walls.
+
+Yun Ren approached it and placed his hand against the illusion. It was strange. It was incredibly inexpert and it should have faded so long ago—but the mist of the mountain had connected with it and kept it going all this time.
+
+And it was doubly strange, because it was made with lightning, instead of light.
+
+“Illusion contains some of Seventh Wielder's Qi. Standby,” Summer’s Sky said, and then a charged feeling rattled up Yun Ren’s arm. ‘Summer’s Sky also retains some of Seventh Wielder's Qi.”
+
+His hand pressed against the false stone. His Qi of light mixed with the Qi of lightning and something prickled in his spine—something as vast as the entire mountain looking at him—but the feeling faded as fast as it came. In its wake the illusion cracked, then disappeared.
+
+Sitting in a spot where a brick was supposed to lay was a dusty storage ring.
+
+Yun Ren swallowed,and looked up to see if the coast was still clear when he froze. There was a woman standing there, watching him. Slitted eyes bored into him. Evaluating him.
+
+And then the woman smiled. The wind blew and she dispersed into mist, from her long golden hair to her nine tails.

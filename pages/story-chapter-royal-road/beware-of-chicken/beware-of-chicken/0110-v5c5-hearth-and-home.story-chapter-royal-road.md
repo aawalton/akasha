@@ -1,0 +1,155 @@
+---
+id: 3f5a6daf-4381-5314-905f-80975d8a58c4
+page-type-slug: story-chapter-royal-road
+title: "v5c5: Hearth and Home"
+slug: 0110-v5c5-hearth-and-home
+partOf: beware-of-chicken
+position: 110
+ownLength: 2127
+unit: words
+ownProgress: 2127
+publishedAt: 2024-05-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1648536/v5c5-hearth-and-home"
+royalRoadId: "1648536"
+markedReadAt: "2026-06-29T18:55:16.469Z"
+---
+
+Meiling smiled at the scene before her as she laid propped up on her arm. The house was quiet and dark, with everybody else still asleep.
+
+Meiling reached down and absently tucked a strand of hair behind Tigu’s ear. The girl stirred at Meiling’s touch, leaning into it slightly before settling again on her pillow—in this case Jin’s arm. Though Tigu was not the only one using that pillow. Xiulan’s forehead was almost touching Tigu’s as they faced each other. Tigu was closer to Jin, while Xiulan’s back was touching Meiling. Between Tigu and Xiulan was Zhuye, her son’s fingers wrapped around Tigu’s. Jin had thankfully made the bed a bit larger, so Xiulan and Tigu had fit in just fine—and this time Tigu stayed human instead of having to shift into a cat.
+
+Meiling took a deep breath, focusing on the clean purity of first Xiulan’s Qi, then Tigu’s.
+
+Her small smile widened.
+
+She had been in a good mood ever since she caught her family’s scent on the breeze as they returned home. There had been a minor undercurrent of bubbling stress, especially to Xiulan, but otherwise the smell of their Qi was perfect: no acrid tang, no rotten sweetness. They were hale and hearty—they just all needed a bit of pampering.
+
+Meiling had simply dragged Xiulan past her own room and into her and her husband’s when they had retired from the roof. It said a lot that Xiulan hadn’t even put up a token resistance as Meiling pulled her along. Then again, Meiling hadn't made any jokes either, but now was not the time. Xiulan had needed some comfort and support, not teasing, for the wonderful job she had done. Especially considering how Xiulan had fallen asleep as soon as her head hit the pillow.
+
+Meiling had carefully completed her examinations of Tigu and Xiulan as they slept. Her Qi had ghosted through both of their bodies as she fixed minor tangles in their meridians, removed minor blocks, and smoothed out the remaining knots. It felt a little like she had wrapped them both in a full body hug, and the results had been quite pleasing, as both Xiulan and Tigu fell into even deeper slumber.
+
+Now their Qi had calmed completely. Meiling resolved to take care of both Yin and Xianghua the next chance she got. Both of them deserved it—as well as Loud Boy, Rags, the Torrent Rider, and Delun. All of them had performed excellent work.
+
+She didn’t get to look much longer at Tigu’s cute, sleeping face, however. A reedy crow echoed out as Xiao Ku, Little Yell, greeted the morning. They had finally given their “backup rooster”, as Jin jokingly called him, a name. Xiao Ku shouted as long and loud as he could… until Meiling heard the thump of him hitting the wall of the coop, having nearly passed out from his own crowing.
+
+Zhuye then opened his eyes and proved why his nickname was Little De. A sound quite like a rooster issued forth from her son’s throat as he woke up. He huffed, obviously satisfied with himself, before turning to look up at where Meiling’s face normally was.
+
+He seemed slightly confused to see Xiulan instead, and then he turned his head again in shock and confusion as he saw Tigu instead of Jin. He stared into Tigu’s yellow eyes as she woke up. His face screwed up for a moment, like he was going to cry in shock at this new situation… until he started sniffing. Meiling’s little one pondered the smell in his nose… before his face brightened and he reached out to Tigu with a ‘Gah!’
+
+Tigu let out an amused sound from her throat as she stood and scooped her little brother up, rubbing her cheek against him as she giggled.
+
+“Good morning, little brother!” she called out as she spun him around.
+
+Jin laughed as Tigu zoomed Zhuye around the room, much to his delight. Jin’s Qi flexed and the room’s Light Stones lit themselves, illuminating the bedroom. They watched her for a while, then her husband turned to her.
+
+“Good morning, love,” he said and he leaned over to give her a good morning kiss. She could see some of the tension that had been plaguing him was well and truly gone too. He wouldn’t be back to 100% until Bi De returned… but this was good.
+
+Xiulan, her head still on Jin’s forearm, grumbled slightly. Her eyes fluttered open and she saw Meiling looking at her… before Xiulan picked up her head, grabbed Jin’s arm, and put the limb over her eyes to block out the light.
+
+“Come on now, it's time to get up,” Meiling said in an encouraging tone.
+
+Jin just snorted with laughter at Xiulan’s grumbling as she shook her head in denial.
+
+“Let's let her rest. She's earned it,” Jin said, an amused look on his face..
+
+“Oh very well,” Meiling said fondly… and chuckled at the small victorious smile on Xiulan’s face. Well. She did deserve her rest.
+
+=======================
+
+It was fantastic to once more have an undercurrent of noise at the breakfast table. Meiling was just waiting for the rice to finish cooking and then everything would be done.
+
+She glanced out into the living room and smiled at the sight that caught her eye.
+
+Tigu was bouncing Zhuye up and down on her knee, Zhuye making excited noises while Tigu talked with the others.
+
+“You sleep well?” she asked the two newcomers that had come downstairs.
+
+“Ah, yeah, I slept great—let me tell you, getting into bed as a human feels way different than as a rabbit—covers pulled up to your face, under a warm blanket. Roughing it can be fun, but there’s something to be said for this, yanno? Bein’ home,” Yin said happily as she leaned against Chun Ke. Miantiao was curled around Yin’s arm and had his head resting on top of hers. Yin was gently tracing her fingers over the snake’s scales. She looked a little sleepy still, but her smile was infectious. It was bright and happy, before it turned slightly bashful and Yin glanced up at Meiling. “And, uh... thanks again for the room, Mistress. You guys didn’t have to make me all that stuff!”
+
+That ‘stuff’ being the bed, the extra clothes, and human-sized copies of the gifts she had received as a rabbit.
+
+“Of course we had to; you’re part of the family. That room is yours, as is everything within,” Meiling stated simply.
+
+Yin blushed, her features stunningly beautiful. A fairy from the heavens come to earth.
+
+“What did you think of the toilets?” Bowu asked.
+
+“They’re great! Shittin’ inside sure is crazy!” Yin said enthusiastically. “I actually turned back into a rabbit and tried it out that way. My shits are round when I’m like that and they go whoooo all ‘round the toilet bowl when you flush—”
+
+The fairy disappeared as Yin got more into talking about her bowel movements’ interactions with the toilet, complete with hand gestures.
+
+… honestly, Meiling couldn’t entirely blame her. There was something fascinating about watching objects circle the whirlpool, only to drain away. Meiling had actually kept dropping leaves in one day until the toilet had clogged. She had ended up needing to bribe Wa Shi to get it unstuck.
+
+Jin still didn’t know she had done that.
+
+Meiling shook away that embarrassing thought.
+
+Soon enough, the rice was finished and they started to bring out all the food—from the grilled river fish and rice to the freshly baked bread; fried, scrambled, and poached eggs; deer sausages, and mushroom patties, as well as their massive stock of pickled vegetables. Meiling’s brine from home, as well as Jin’s new, spicy ones.
+
+Xiulan couldn’t stay asleep with the smells wafting upstairs and quickly staggered down, rubbing what remained of it out of her eyes.
+
+Meiling smiled at the much fuller table—and then the door opened and the last two members of their family present arrived.
+
+“Good morning, my dearest friends!” Xianghua thundered out as she walked into the room. She was practically glowing, a massive smile on her face as she marched over to hug her little brother. “Today is an absolutely wonderful day!”
+
+There were, however, blemishes on her skin—mostly faded bruises on her neck and collarbone, as well as on her wrists. Meiling very much knew where those bruises were from, as she had worn them plenty of times herself.
+
+Meiling had heard some of the great struggle of wills that had taken place in Gou Ren’s house while they were on the roof, but their own room was sound-proofed enough that it hadn’t interfered with their sleep.
+
+Behind Xianghua, moving much more gingerly, was Gou Ren. Her brother in all but blood was limping slightly and looked like he did after that one time he had tracked a herd of deer for two weeks straight before finally managing to make his kill, then he had to get it back through the worst rainstorm they had had in years.
+
+He was exhausted, bruised, and looked dead on his feet. It looked like every step was done only through supreme willpower and his cheeks were hollow.
+
+Yet he had a smirk on his face. He locked eyes with Jin as he hobbled up to Meiling’s husband.
+
+Both of them reared back their arms before their hands met in a mighty clasp.
+
+Jin simply nodded at Gou Ren, manly pride practically radiating off him.
+
+Gou Ren nodded back… and then hobbled to sit down beside Xianghua, who was still practically sparkling in the sun.
+
+Meiling could only start laughing. Oh, it was so good to have everybody back.
+
+======================
+
+Her good mood continued as the day progressed.
+
+They went out into the snow-filled yard and started on the General; with the extra hands, they packed more and more snow onto his already towering form—though this too was slow going as Yin and Tigu started a snowball fight in the middle of it all. Only Xiulan and Gou Ren abstained, cheering on the brawl instead of partaking. Meiling kept both of them topped up with tea as they dozed in the winter sun.
+
+Eventually, however, the snowball fight petered out and they returned to working on the General.
+
+Jin climbed up to the divot in the middle of the General’s chest and inserted the completely round crystal within it, sparkling with motes of white inner light. He packed the snow tight around the crystal’s new resting place.
+
+Wa Shi placed the biggest carrot of the harvest into the General’s face as his nose, and Chun Ke brought over massive branches for his arms.
+
+And finally, Meiling and Tigu heaved up the dark hat made of reeds and together… they placed it onto the General’s head.
+
+For some reason, Meiling almost felt like something was supposed to happen. It must have been the story Jin had told her about the magic snowman.
+
+They both hopped down and turned to look up at their handiwork. The General, in his wonderful tall hat and carrot nose, stood tall. His sooty eyes and smile beamed out over the treetops.
+
+Meiling very much liked this tradition. They sat for a while, admiring their handiwork—before retiring inside to roast chestnuts.
+
+The General stayed smiling, strong and proud, the Qi of everyone who helped make him swirling around his core.
+
+============================
+
+It grew and grew, as a nascent spirit formed. It reached out, almost blindly, and touched a web of gold. There were gaps in the web. Places where subordinate spirits were supposed to assist the Provincial Spirit. Minor land spirits that had been shattered and broken thousands of years ago. Dead, never to be recovered.
+
+The General ghosted along these connections, as it had last year. His power flowed as he touched his subordinate.
+
+He felt the Warden, who had fallen in battle last year; yet he was reborn from the will and belief of those who had retrieved his mighty hat.
+
+And then there were others. Many others, small subordinates close together. They were tiny things, most of them set just outside of houses or on front steps.
+
+Yet one was larger. One was much larger, and he had a name. The Captain who Braves the Devil Storms would be a fine subordinate; built as he was by guards, he knew his duty well.
+
+He could feel it. The belief. The faith. The wish that had made him and even now empowered him.
+
+He was the General that Commands the Winter.
+
+He had a duty. He touched the web again. He grasped it.
+
+There was a spark.
+
+An empty position was once more filled; as the General swore fealty to Tianlan’s throne.

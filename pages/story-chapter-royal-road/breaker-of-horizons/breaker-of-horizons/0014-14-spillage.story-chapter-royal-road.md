@@ -1,0 +1,155 @@
+---
+id: 593adff1-4df9-5a94-a7f3-f48f9fdc43a8
+page-type-slug: story-chapter-royal-road
+title: "14. Spillage"
+slug: 0014-14-spillage
+partOf: breaker-of-horizons
+position: 14
+ownLength: 2371
+unit: words
+publishedAt: 2020-06-18
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/512345/14-spillage"
+royalRoadId: "512345"
+---
+
+"I can't." Ambrose was still grinning as he said it, even as my hand tightened around his. He didn't seem to have grasped the gravity of the situation. It took only a few heartbeats for me to strike with my arcana.
+
+If I had to credit my 'Top Scorer' title to anything, it would be the flashes of insight I enjoy as a side-effect of my intense bouts of deep thinking. With enough discipline, anybody can study hard and memorise wreathes of information, and given enough time it's possible for most people to tease patterns and connections out of mounds of data. But for some reason, when I withdraw from people and take the time to just sift through what I've learned and experienced, these connections get made much more quickly even when I'm not actively thinking about things. I suppose you could call it intuition, and it happens pretty often for me.
+
+One such flash of intuition came to me at that moment when I wanted very much to wrest every ounce of information out of Ambrose. Reeves had influenced everyone to do something the first time he met us, and he had already taught us how he had done it.
+
+"...ambient arcana can be used as a channel for your auric arcana as long as you exercise enough mental discipline and precision."
+
+And apparently that was all it took — sheer force of will, coupled with extremely fine arcanic control. I had plenty of the former right now.
+
+As for the arcanic control, I had just been given a glimpse of what was required during the fight with Kant. If understanding a glyph in a different way changed how it behaved for you, then it followed that the glyphs themselves were not entirely important. Your very thoughts and intentions could provide enough direction for the arcana.
+
+And that was how Reeves had made some people stand involuntarily without using glyphs at all. His will could shape arcana. It was a simple realisation, and I wondered why I hadn't made that connection sooner. After all, arcanists shape simple forms of arcana all the time without using a single glyph. And even children are taught simple exercises so they can play with the flow of it. Why wouldn't people be able to exercise precise control without glyphs? It'd just be harder, and take a lot more practice.
+
+I knew that for this, all I needed was for my intention to be crystal clear. An impulse, like Reeves had used, without language, just visceral response that transcended conscious thought.
+
+I thought back to that inexplicable surge of wanting to confide that I had experienced when I had told Ambrose about my sister. Now that I recognised it for what it was — a skewing of my own will because I was interacting with the Chosen One — it somehow seemed more distinct to me; a strong emotion that had stirred inside me, but was clearly not my own.
+
+I found that since I could think about it clearly, I could copy it right out of my memory and bring it into the present moment. I allowed the feeling to fill me, not just as an emotion in my mind and heart, but also as something spilling into the pool of my internal arcana, my aura. From there I pushed it out into the ambient arcana, willing it to spread like blood poured into water until it filled the air around us. And since Ambrose's hand was still grasped in mine, I found myself also instinctively pouring that intent-laced arcana directly into his aura.
+
+I saw his eyes widen in surprise and confusion. He was probably experiencing the same disorientating feeling we had all felt when Reeves had first done it — a senseless and almost overwhelming desire to simply do something. Except this time for Ambrose it was probably much worse, since we were so close, and I had actually directly manipulated his aura.
+
+"You—!" he choked, rising out of his chair and trying to withdraw his hand. I held on and pulled him back down.
+
+"Tell me," I growled.
+
+I could see it was working. His hand went limp in mine as he sank back into the seat, and he looked like he was trying and failing to hold his breath. I bent my will towards him and there was a palpable shift in the air. My skin prickled with the sheer force I was exuding.
+
+This feeling was glorious.
+
+Suddenly, the door to our dorm flew open.
+
+"So maybe we coul—" Jerric stopped mid-sentence, staring at the two of us. The rest of them hadn't yet picked up on anything, so they jostled past him. None of them got more than ten steps before they stopped short as if they had hit a wall.
+
+"I'm actually really jealous of Ambrose," Kevan blurted while staring at him. His eyes were wide with horror, and he couldn't seem to stop himself. "I want to be as good a thaumaturgist as him, but I hate being second-best at something, so I lash out, and I know it's a jerk move, but that's how I am, and I wish I could change, and I'm sorry."
+
+There was a shocked silence, but then Lynus spoke up, wearing an expression of confusion. "And that's why I hate my brother sometimes because I can't beat him at anything or he'll be impossible to live with, but in the end, he's still my brother so I give in and lose on purpose even though I know I'm better at some things."
+
+"Wh... what's going on here?" Jerric asked slowly, still holding the door open.
+
+"I'm actually really intimidated by how much better than me everyone seems to be," Devon gasped out suddenly. It seemed like he had been trying very hard to keep his mouth shut. He looked slightly panicked as his eyes darted from me to Ambrose. "And I'm afraid that I'll flunk out and disappoint my parents because they were so proud when I became the first person in the family in a few generations to manage to get into the Academy."
+
+Worst. Timing. Ever.
+
+I let go of Ambrose's hand and my hold on the ambient arcana. The atmosphere lightened somehow, and it wasn't until that moment that I realised that there had been a low hum in the air. Ambrose fell back against his chair, panting heavily.
+
+"Guys...?" Jerric closed the door and walked over to where Devon and the twins were standing, slightly dazed. He gently shook them.
+
+Kevan snapped out of it first. He marched over to the table and slammed a fist into it. "What the hell was that?"
+
+"We were practising that thing Reeves did," Ambrose said with a weak smile.
+
+My brain kicked into overdrive again. If he's covering this up, does that mean he doesn't want them to know he's the Chosen One after all? No, that can't be, otherwise, he'd have been a lot more secretive about other things, like the duelling chambers and his advanced thaumaturgical skills. So maybe it's an issue of timing. Or is there something else at play?
+
+"What did you do to us?" Devon asked in a horrified whisper.
+
+"I... I'm sorry, guys." I got to my feet and went over to him to put a reassuring hand on his shoulder. "Like he said, it's basically the same technique Reeves pulled on us, but I—, we, were using a different impulse. Instead of getting the other person to stand, it was to get the other person to talk."
+
+"To talk?" Kevan spat. "We didn't talk. We spilled our guts."
+
+"Kev, th—" Lynus began.
+
+"Don't start with me," Kevan snarled, turning on his brother. "Was that true?"
+
+"What?"
+
+"That you let me win stuff all the time because I'm impossible to live with!"
+
+"N-no, I mean, yes, but not all the time, only for some things, I—"
+
+One of the chairs went flying as Kevan stormed past us to their room and slammed the door.
+
+My heart sank. Now that the thrill of doing something new with arcana had faded, I was left to confront the mess that I had made.
+
+One step at a time. I guided a wobbly Devon to the table and fetched him a glass of water. Lynus quietly sank into a seat of his own, his head in his hands. Jerric hovered uncertainly at the edge of the table.
+
+"I'm sorry, Devon, I... we didn't think about what might happen if someone else walked in on us." The lie came so smoothly that I was a little surprised at myself. "We were just really excited to try it out."
+
+He took a shaky gulp of water and spoke haltingly. "I mean, this just kind of confirms it. You're all miles ahead."
+
+"No, we're not," Lynus muttered. He jerked his head to indicate Ambrose and me. "These two are freaks."
+
+"You and Kevan are really great thaumaturgists, Jerric's smart and has ridiculous sequencing speed, Ambrose is an even better thaumaturgist, probably top in the cohort, and Caden's the Top Scorer," Devon reeled off. "I'm good for nothing."
+
+"No, Devon, if you're in the Academy, you're the cream of the crop," I said matter-of-factly. "Don't sell yourself short."
+
+"Yeah, and Caden already promised to help you if you need it," Ambrose chimed in. "And now that you know the rest of us in this dorm are good at something, think of it this way, you've got access to a bunch of people who are good at different things, and who can all help you. You're not going to flunk out. Unless you just eat your lazy ass into a corner and never get anything done."
+
+I raised an eyebrow at him. For someone who had been so shy over the past two days, Ambrose's was suddenly very at ease.
+
+His words did seem to cheer Devon up a little. He let out a great sigh. "Well, thanks, guys. But please don't pull any more of that Reeves-type mind control. It's... it's really traumatic for me."
+
+He got to his feet heavily and retreated into his room. Since his door was warded, unlike ours, there was a brief shimmer that played across it as soon as he closed it.
+
+Jerric slid into the vacated space. He looked from me to Ambrose with a slight frown. 'So, you wanna tell me what's going on here?'
+
+I didn't know what to say. I wasn't sure if Ambrose wanted the full story out. I didn't know what his plan was, and I also didn't know how much the rest of us were supposed to know. If I took the Prophecy into account, then what just happened might not be a coincidence after all. Maybe Fate intervened to stop me from dragging everything out of him by force.
+
+Which was just such utter bullshit.
+
+"Arcanic practice gone out of hand," Ambrose said, looking apologetic. "We should've known better. Once we figure out how to avoid spillage, we can teach the rest of you."
+
+Is he trying to tell me that we can tell them about the Chosen One thing at some future point?
+
+"I almost don't want to learn it," Jerric said, glancing at Lynus (whose head was still buried in his hands) and shaking his head slightly. "Do you realise how insane this is?"
+
+"But we need to know how it's done so we can stop it from being done to us," I countered. "Reeves himself said that anyone who can't resist this mind-control thing will be expelled."
+
+Jerric sighed. "You know, the ethical side of things is a bit murky here. We're being trained for combat, we're being incited to learn some form of mind-control... this isn't what I thought the Academy would be."
+
+None of us had a response to that. Now that Jerric had pointed it out, I did find it rather disconcerting. And there were obviously terrible consequences to using Reeves' technique to get people to do things involuntarily. I reached over and laid a hand on Lynus' shoulder.
+
+"Ly, I'm sorry. Is there something I can do?"
+
+He sat up and leaned back, running a hand through his hair. "No, but it's okay. I mean... it's not okay to do what you did, but honestly, this stuff has been brewing for years. So maybe once he cools down, we can talk properly and settle this. I've never had the courage to say it to his face, but now it's out there, and that's a start."
+
+I nodded, feeling a little better. Maybe some good would come of this after all.
+
+"Caden and I are gonna finish up in the duelling chamber," Ambrose said, getting to his feet.
+
+I blinked in surprise. "Haven't we done enough for one day?"
+
+"We're almost there, you have to lock these things in as soon as you can or it'll get harder."
+
+Jerric didn't seem happy with the idea, but he made no move to stop us. I reluctantly followed Ambrose out the door, feeling very much like I was being led somewhere against my will.
+
+Once we were out in the grounds and there was no one within earshot, he sighed.
+
+"Caden, I know this is frustrating, but trust me when I say there are some things that I can't tell you yet."
+
+"And how am I supposed to help if I don't have all the information?" I said through gritted teeth.
+
+"You'll never have all the information," he said simply. "But I think you'll do a lot anyway."
+
+We walked in silence for a while as I digested this. "But if I'm just going along with what you know, and blindly follow this Prophecy without even knowing what it is, how will I change anything? How will I alter the pattern?"
+
+"We'll get to a point where you'll know enough to do that, and I'll be able to tell you a lot more. But before that... we actually do need a lot more combat training."
+
+"Combat training?" I turned to him in surprise. "How does that work into this?"
+
+"You'll see," he said grimly, as we drew nearer to the duelling chambers.

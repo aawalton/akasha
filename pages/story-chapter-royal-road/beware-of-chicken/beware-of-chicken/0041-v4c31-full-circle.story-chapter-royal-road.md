@@ -1,0 +1,153 @@
+---
+id: a5658447-a674-5b25-9f43-cef8677218a3
+page-type-slug: story-chapter-royal-road
+title: "v4c31: Full Circle"
+slug: 0041-v4c31-full-circle
+partOf: beware-of-chicken
+position: 41
+ownLength: 1776
+unit: words
+ownProgress: 1776
+publishedAt: 2023-08-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1302391/v4c31-full-circle"
+royalRoadId: "1302391"
+markedReadAt: "2026-06-29T18:52:45.169Z"
+---
+
+“Ganbei!” I called, raising up my cup in the traditional ‘cheers’. We were at a restaurant and had just finished our dinner.
+
+“Ganbei!” the rest of our little group replied, clinking the porcelain together.
+
+It was me, Mei, Gou Ren, Meihua, and Tingfeng. Meihua and Tingfeng had joined us part of the way through, and Meihua had immediately joined in on our little ‘see who can get Yun Ren the best present’ challenge.
+
+The caravan itself was quite interesting. It was certainly different from anything the Azure Jade Trading Company had. The caravaneers, the Roaming Deer Caravan, was a generational thing. There were multiple families and clans, all working together on their nomadic wanderings.
+
+They spent their entire lives on the road, and there was something kind of romantic about constantly travelling through this dangerous world. Or at least, I thought it was romantic now. I hadn’t exactly enjoyed my own journey from Raging Waterfall Gorge. It was all mostly one big blur in my memory.
+
+Maybe one day we would go on a road trip ourselves, now that I could actually enjoy it. The world was vast and beautiful, if a bit dangerous… and it was my home now. It would be a shame if I didn’t see a bit more of it, if I could.
+
+It would also let me get more kinds of food. Seriously. Peppers! They had peppers! What we used for spice up here was more like szechuan peppercorns, but these were actual chilis. I was beginning to think the Crimson Phoenix Continent was Asia, Europe, and the Americas all mashed together. The western side of the continent definitely had a massive variety of ‘new world’ fruits, spices, and vegetables.
+
+That little revelation made me even more confident in Chyou’s expedition.
+
+The peppers would likely have to go in the greenhouse. They needed a lot of humidity, and while the Azure Hills got pretty hot it was often a dry heat. It only really got humid if it was about to rain, but that wouldn’t be enough for them.
+
+And, well, Washy had heard about the peppers and had immediately taken some of the seeds back home to start sprouting them. There were going to be plenty of new things to try. I had always liked South American food; birra tacos, cachapas, empanadas… there was testing to be done.
+
+I took another swig of my rice wine and leaned back in my seat, content for a moment, and then I spoke up.
+
+“Alright. Show ‘em. And may the best person win,” I demanded.
+
+At once, the gazes around the table sharpened as we all reached for our purchases.
+
+“You first!” Meimei demanded of me and I obliged, pulling out the easily transportable, cast iron cooking pot. I opened the lid, revealing the well-arranged and stacked boxes within.
+
+“Our man is gonna be out on the road, and sometimes you can’t get to an inn—so here’s spices and a pot. With these, he’ll never be without good food! And if he has to, he can use the spices to trade,” I said, crossing my arms.
+
+It was a well thought out, practical gift in my opinion. Judging by the nods, I was correct.
+
+“Well, mine is practical too!” Meimei said, as she got out… duck down and fabric? “I’ll be making him a coat!”
+
+We all stared at her purchases. Meimei’s coats were spectacular—I should know, I had one, and it was a damn fine coat. However—
+
+“Disqualified,” Gou Ren immediately declared.
+
+“What?!” Meimei shouted, looking outraged.
+
+“Disqualified,” Meihua agreed. “We said whoever bought the best gift. Making something is cheating.”
+
+“I know we said that, but I still bought it—”
+
+“Forgive me, Meiling,” Tingfeng interrupted. “But as one of the scribes… I must agree with their reasoning. The rules are clear. Disqualification.”
+
+“Wha—bu—Jin!” Meimei turned to me.
+
+I absolutely knew I would pay for this later.
+
+“Disqualified,” I declared solemnly.
+
+My wife threw up her hands. “You all know that I was going to win! Conspiracy! My own husband is against me! You shall all pay for this, all of you!” She started to grumble and curse under her breath, her eyes switching from one of her friends to the other as she sulked while the rest of us laughed.
+
+“Well… You two were thinking too small,” Meihua said haughtily, revealing what she had brought. It looked like… formal clothes? In a bunch of different colourful styles, and there was a dress in there as well.
+
+“What's with the dress?” I asked her.
+
+Meihua smirked. “Biyu likes dressing him up… and pretty, exotic dresses for herself,” she said, sheer smugness radiating off her. Sneaky, going after Biyu… but I couldn’t deny it was going to be effective, and neither could Meimei, who was pouting even harder. Yun Ren would definitely like this gift. “So, are you all ready to declare me the winner?”
+
+“It's a good one, Meihua, it's a good one…” Gou Ren mused, rubbing his chin. “But I gotcha beat.”
+
+Gou Ren leaned, lounging dramatically as he tossed a sheaf of papers onto the table. I leaned over and picked them up, and then frowned.
+
+Descriptions and artists renditions of some spectacular-seeming landscapes, as well as detailed instructions on how to get to them. There were ten pages of this stuff, arranged by distance and province, as well as what looked like a rough map.
+
+I glared up at Gou Ren over the paper as he leisurely sipped his wine.
+
+It was put to a vote. Gou Ren won.
+
+================================
+
+“And then—and then she goes, ‘You bastard, I’ve been trying for months!’” I narrated as we walked down the street. I slung my arm around Meimei’s shoulders and pulled her close while the rest of our little group howled with laughter. My wife rammed her elbow into my gut with enough force that I let out a little breath, but she also rolled her eyes fondly, a little smile on her face.
+
+It was a really nice night. The air was warm, there was a slight, tiny buzz of alcohol in our system, and both Zhuye and Jinhai had been put to bed by their grandfathers. We had the rest of the night to ourselves, and we were spending it just wandering around Verdant Hill.
+
+“Oh, so that's why she was so upset!” Meihua giggled. “I was wondering what had got her so riled!”
+
+“Brother Jin, you are a braver man than I to tell that story,” Tingfeng said, his breath still coming out in wheezes.
+
+“I got him in the end,” Meimei retorted, her cheeks slightly flushed.
+
+Gou Ren just rolled his eyes, and behind Meiling’s back he shook his head and made gestures to the effect that Meiling was lying.
+
+She kind of was. I didn’t really consider the whole energy drink thing as her ‘getting me’, but I was going to let her save some face.
+
+We just wandered and shot the shit, as it was. Meihua ended up giving Gou Ren a piggyback ride just to prove she could still do it. With that, the dam broke. The polite and refined lady turned back into Big Sister Meihua, the blacksmith’s daughter for a little, and she started giving everybody rides. Tingfeng thought it was embarrassing, but Meimei just playfully kicked at her legs and demanded Meihua run down the street.
+
+Both of them were giggling when Meihua loped back, deposited her friend, and then planted her hands on her hips and looked up at me.
+
+“Come on, little bro,” she declared, being the oldest out of all of us.
+
+Grinning, I slumped onto her back, intending to just put a bit of weight on her and then let her struggle for a bit.
+
+I was rather surprised when she managed to pick me up, and even more impressed when she charged down the street, my feet nearly dragging on the ground.
+
+She did trip at the end though, and I managed to angle things so that she didn’t completely eat shit with probably two hundred pounds of man on her back. We landed on some grass by a tree.
+
+“Big Sis still has it!” she gasped, a bright grin on her face and the flush of alcohol on her cheeks.
+
+I shook my head and looked around before pausing. This street was… familiar. I recognised this tree.
+
+This tree was on the street where I had fought Zang Li for the first time. In a real way… this was where a lot of things began, wasn’t it?
+
+It wasn’t anything special, really. The cobbles from the crater I had made had been replaced, and the street had been repaired. The only thing that looked odd was that there were a couple of buildings with branches sticking out of them.
+
+Man, how had I missed that the first time?
+
+Meihua had noticed too, as had Meimei and Tingfeng.
+
+But instead of reacting as though this were some scary place, filled with trauma, Meihua smiled.
+
+“This is my favourite tree in all of Verdant Hill.” she declared, pointing up at it and giggling again. She was clearly a bit drunk.
+
+“It is a very nice tree,” Meiling said simply. “And I do like this street. I saw the funniest thing happen on it. Some idiot broke his hand on my husband’s chest.”
+
+“I wish we had recording crystals back then. I woulda liked to see that asshole’s face,” Gou Ren grumbled as he sat down beside us.
+
+“Oh, it was absolutely priceless!” Meimei began, her eyes sparking with mirth.
+
+I rolled my eyes as Meiling recounted a rather exaggerated tale of what had happened that night, with Meihua and Tingfeng interjecting, while I tried to bring things back to how they actually happened.
+
+I had been scared shitless during that fight, damn it. I hadn’t ‘boldly strode forwards’ like some hero! It was embarrassing!
+
+Of course, that just made them all embellish things harder.
+
+By the end of their story I had imperiously demanded Zang Li prostrate himself before me, and then flexed at him so hard he had faceplanted into a kowtow.
+
+Meimei was jabbing her elbow into my gut, Tingfeng was clapping me on the back, and Meihua was ruffling my hair as I put my face into my hands. Gou Ren was just laughing his ass off at me.
+
+Bastards.
+
+I was glaring at my entirely too innocent looking wife when she suddenly perked up and scented the air.
+
+“Lu Ri should be here by tomorrow,” she stated authoritatively.
+
+Well… That was one way to end the night. I wondered how he was doing?

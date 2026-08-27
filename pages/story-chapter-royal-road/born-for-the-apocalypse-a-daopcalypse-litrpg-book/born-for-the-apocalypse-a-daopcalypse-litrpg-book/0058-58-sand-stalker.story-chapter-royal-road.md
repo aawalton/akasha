@@ -1,0 +1,73 @@
+---
+id: 10a3712a-f0cd-52e8-963b-0b3f58d85bf3
+page-type-slug: story-chapter-royal-road
+title: "58: Sand Stalker"
+slug: 0058-58-sand-stalker
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 58
+ownLength: 2207
+unit: words
+publishedAt: 2025-02-21
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2081550/58-sand-stalker"
+royalRoadId: "2081550"
+---
+
+58:
+
+It had been a while since Jack had felt armed and armored to the teeth and he had to admit, it felt good. With his Jade Guard Armor Set guarding most of his vitals besides his exposed head, his Shield of Greater Deflection on hand to deflect ranged attacks and his moonsword to strike at any approaching threat with a speed and strength that went beyond his physical limits, he felt powerful in a way that even wielding his prized katana from the Heian era could not match. After all, there was a difference between studying history and living it.
+
+Travelling across the sea of sand dunes had been the only option available to them, unless they were willing to brave the Howling Mist-Vault’s challenges again. There was no doubt in Jack’s mind that he would be back to face the Mist-Vault’s challenges for the rewards being offered were too lucrative to pass up on, but at the same time, Jack knew that he was still underleveled for the Mist-Vault’s challenges, especially when it came to raw strength. It had taken him too many Qi Projections through the Spiritual Beast’s physical defenses and the Jade Guard Armor Set or the Essence Cultivation Art would not be enough to bridge that gap.
+
+Not to mention, his group members were not ready yet. If he was going to step into the Mist-Vault again, he needed to be prepared to confront two or more Juvenile Werewolves at once, not to mention the possibility of a more powerful evolution of the Spiritual Beast lurking within the Mist-Vault. Marcus and Jin were still too underleveled to face even a single Juvenile Werewolf in combat, their encounter having proved that well enough and Sarah needed more time and experience to practise her Cultivation Technique, Tenfold Strike, if she wanted to pull it’s use off against enemies that surpassed her in speed and reaction time.
+
+All four of them had been given the Bracelet of the Mist-Vault for a reason and Jack had to admit that it would be a tall order for him to gain enough levels that he would be confident in taking on the Mist-Vault on his own even if he actively prioritized his own experience gain over the others, given that the desert environment they had stepped into seemed to be populated by lower level evolved earth predators.
+
+No, for now, the logical choice was to keep moving forward. The Howling Mist-Vault was conspicuous enough for them to find their way back to and Jack didn’t intend on leaving the desert environment until they made a second attempt at the Mist-Vault and it’s treasures, but before they could get there, they needed more levels, equipment and most of all, teamwork.
+
+That was why they were twenty minutes deep into their expedition into the desert environment, their path so far a messy zig-zag that prioritized crossing over the dune with the lowest height even if it required them to a longer, more winding path. Jack hadn’t forgotten that Sand Stalkers were capable of hollowing out sand dunes from within and he had figured that it would be easier for them to target the larger dunes, both because their greater mass meant better structural integrity and because the deeper the target fell the harder it would be for them to escape.
+
+Still, venturing into the desert hadn’t been a decision made lightly and they had agreed on using Qi Pulse in five minute intervals, giving each person a twenty minute break before they had to expend their Qi again. A minute or two had passed since Marcus had used his own Qi Pulse and given them the all clear, which meant that there was still time before Jack was duty-bound to use the skill.
+
+So far, they were yet to encounter a single Sand Stalker, the only sound to be heard being the susurration of shifting sand as their feet sunk into the sand dune only to rise a moment later and further disturb the face of the dune. While a small part of him still felt like it was a bit surreal to be walking across a desert, a good deal of his appreciation for the natural environment had been replaced by annoyance, as he was coming to terms with how each step requires conscious effort to navigate as the sand gave way to his feet, leaving him unable to find steady purchase against the ever-changing curve of the dune and generate the momentum he needed to run at his usual pace, let alone fight with the fluidity he had displayed in the battle against the Sand Stalkers.
+
+No, the environment was part of the challenge and the silence unsettled Jack too much not to be wary of his surroundings. That was why he had secretly been more liberal with his use of Qi Pulses, limiting their scope to their immediate surroundings; not going much further beyond the close-knit triangle formation Jack had proposed they adhere to. With him taking vanguard, Sarah behind him and Jin and Marcus on her left and right flank, with half a dozen footsteps separating each of them, Jack had chosen an aggressive formation that prioritized gaining ground over securing each flank. It was a riskier strategy than the usual ones he opted for, but when the terrain was against them and enemies could appear from beneath the ground, prioritizing mobility and lowering the risk of any member of the group being cut off from the rest made sense to Jack, especially because anyone given the role of the rearguard would be very reluctant to follow through with their duties.
+
+Of course, Jack’s reasons weren’t limited to the ones that he had explained and from the look Sarah had given him, he felt like her thoughts weren’t very different on the matter. If Jack was forced into a situation where he needed to use his Epic Artifact, Pendant of the Miststalker, then he would have to fight alone and the best way to do that was charging headlong towards the enemy.
+
+The absence of the vanguard could cause the formation to lose its effectiveness, that was why he had recommended Sarah to a position directly behind him, which would let her take vanguard in his stead and make sure that the formation would hold, just a three-man triangle formation in place of a four-man one.
+
+Another reason why he had chosen the triangle formation was because Jack hoped that they’d be able to detect the threat before it revealed it’s physical form, which was why he didn’t hesitate as he called upon a short-range Qi Pulse before the time it was due.
+
+A dozen tendrils of Qi were sent from his dantian, across his meridians before stretching outwards into the physical world from his feet and through his sabatons before penetrating the sand dune they were descending. At his command, the Qi threads that were still tethered to his dantian shot downwards at a dozen different angles that he chose at random.
+
+A moment later, Jack’s eyes snapped open, glimmering with surprise and he was already pivoting off the ball of his right foot as he shouted, “Jin, move back. Now!”
+
+Just as Jack concluded his pivot and was now facing Sarah, he noticed Jin scurrying backwards with her Bloodsong Spear’s shaft clenched tightly with both her hands and she had done so not a moment too soon, as a serrated, glimmering black pincer clawed its way to freedom in an outward spray of sand.
+
+Sarah instinctively retreated a step even as she adjusted her stance, primarily bringing her Moonspear before her in a defensive motion while Marcus turned in Jin’s direction, but didn’t immediately abandon his post as he brought his sword in a defensive stance before his chest. With the Jade Guard Armor Set donned, Marcus was no longer anywhere near as vulnerable as he had been, if anything, his armor was a few realms above anything one should expect in an apocalypse. Having witnessed the Juvenile Werewolf’s strength and how it had managed to leave a dent in a set of armor that surpassed anything the old world was capable of, Marcus had to have been wondering how it was that he was alive, but thankfully for Jack, that particular topic hadn’t been brought up yet.
+
+A second pincer revealed itself with the Sand Stalker’s body soon to follow, but it was Jin who took offense to that. Her spear, a striking construction of a crimson red spearhead and a polished black wood shaft, shot forward into the sand where she estimated the Sand Stalker to be and from the thrashing of it’s pincers, she appeared to have struck true.
+
+Jack found himself taken aback by Jin’s reaction time, an observation that he initially chalked down to her investing heavily in the perception stat only to realize that there might be more to it. Jin was the only one amongst them that still did not have access to an armor set that she would have been able to buy if she hadn’t bought Marcus a Flowing Vitality Pill for 2,500 TP and it appeared that she understood just how vulnerable she was.
+
+The continued thrashing of the Sand Stalkers pincers meant that it wasn’t dead yet, but Sarah, who had her spear pointed at the evolved earth predator with the glow of Qi Spear active, didn’t commit to a strike just yet. Jin was going to benefit way more from the kill than Sarah would, she had gotten the first strike off and Sarah knew the kind of enmity kill stealing could earn.
+
+Jin pulled back her Bloodsong Spear instead of trying to pin the Sand Stalker down and as she did, Jack noticed that there was no blood dripping from the Qi Spear empowered spearhead. Instead, the spearhead was now ensconced by a crimson aura that bled into the Qi Spear’s azure.
+
+The Sand Stalker didn’t hesitate to capitalize on the reprieve it had been offered, as it managed to thrash it’s way to the surface this time around, revealing it’s chitinous exoskeleton that was now marred by a fist-sized puncture wound in one of the obsidian plates that formed it’s carapace along with its venom dripping stinger.
+
+Jack’s sword arm twitched, yearning to move into action, but he fought back against the impulse. Even if Jin needed help, Sarah was best positioned to aid her, given her superior reach due to her Moonspear. The Sand Stalker’s stingers were worth being wary of and Jack would benefit the least from killing it anyway—- it was better to wait to out their group’s first encounter and observe the Sand Stalker’s movements while he could unless someone was going to get injured.
+
+Once again though, it was Jin who took the initiative before Sarah, her spear already thrust at a downward angle, seemingly aiming at the hole she had opened up in the Sand Stalker’s carapace earlier.
+
+Due to the Sand Stalker’s thrashing, Jin’s aim didn’t land true, but the tip of the spear still managed to land within an inch or two of the hole she had opened up in its carapace. Jack watched as the entire spearhead disappeared beneath the Sand Stalker’s carapace with a wet crack that was followed by a sickening squelching as the force continued forth to ravage its internals.
+
+The force contained behind the attack had clearly been a few notches above the previous one and Jack couldn’t help but be impressed now an opening as wide as his Shield of Greater Deflection had been punched open. The previous hole creating a structural weakness in the carapace might have contributed to the devastating impact, but most of it still had to be attributed to Jin’s thrust.
+
+Improved penetrating power, Jack thought and Jin had said as much when Sarah had asked her what her new spear did, but the effect seemed more pronounced than his Moonsword augmented the force and speed behind his strikes, slashes and thrusts. As a tradeoff, Jin needs to let her spear absorb the enemy’s blood once for the effect to work on it and naturally still needs to pay the Qi cost. It’s not as versatile as the Moonblade, but the people who wanted the bloodsong got it and the Spearhead still absorbs more blood on every subsequent contact with the blood it’s absorbed once and slowly convert it into Qi, so the Sand Stalker is going to grow more sluggish as the fight goes on.
+
+Jack watched as the Sand Stalker began to thrash around even more violently, but before it’s stinger could flail around, a Qi Spear Projection whizzed forth from the tip of Sarah’s Moonspear and slammed into the base of it’s metasoma. Sarah followed up with one more Qi Projection and the tail-like structure that connected the Sand Stalker’s body to the stinger snapped and went limp on the ground.
+
+A few moments later, the Sand Stalker that was still held into place by Jin’s Bloodsong Spear finally stopped moving.
+
+The edgy-sounding weapons are unsurprisingly, a good deal more brutal, Jack wryly thought to himself as the group’s first encounter with a Sand Stinger came to an end.

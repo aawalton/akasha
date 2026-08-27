@@ -1,0 +1,193 @@
+---
+id: c3f00037-db0c-5b82-a28d-36c3aec8178c
+page-type-slug: story-chapter-royal-road
+title: "28. Puzzlement"
+slug: 0028-28-puzzlement
+partOf: breaker-of-horizons
+position: 28
+ownLength: 2493
+unit: words
+publishedAt: 2020-08-06
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/535162/28-puzzlement"
+royalRoadId: "535162"
+---
+
+Ambrose and Jerric hadn't yet woken up. I thought it was rather unusual for them to sleep in more than Kevan, but since it was the weekend none of us thought it was necessary to bother them. Devon's glyph sequence would keep the pancakes nice and warm.
+
+Without the two of them, breakfast proved to be a quiet affair. Kevan was surly, restricting himself to monosyllabic responses and moodily stabbing at the misshapen pancakes that Devon had foisted on him. Bogged down by the mood and unable to riff off his brother, Lynus was a lot more subdued than he had been yesterday. Devon had valiantly tried making attempts at sustained conversation but by the end, we lapsed into an uncomfortable silence. Kevan was the first to go — wordlessly, he dumped his plate into the sink and vanished into his room.
+
+"I'd apologise on his behalf, but honestly, I'm getting tired of it too," Lynus sighed as he got up. "Thanks for making breakfast, guys. I'll do the plates."
+
+"Thanks Ly. So Caden, any plans today?" Devon asked with forced brightness.
+
+"You're not telling me you're still up for Double Thau after yesterday?" I asked, raising an eyebrow.
+
+He deflated at once. "No, not really. Honestly, I'd like a day off. You?"
+
+"I..." The idea of just blowing off steam for a day was enticing, but it felt like a waste to just while the time away. "I was thinking of looking for a nice study spot, maybe run through glyphs a bit more. I'm still fuzzy on the Advanced Set."
+
+"Oh. Cool. That's cool. Work is good, too. You want some help with that?"
+
+I squinted at him. "Do you really want to come, or do you just feel like you have to offer?"
+
+"Uh. I want... to want... to come?" He grinned sheepishly.
+
+"I'll be fine on my own," I chuckled. "But thanks for offering. What about you, Ly?"
+
+"What's that? I can't hear you while I'm doing the dishes!" Lynus noisily clanked the plates together in the sink as he washed them.
+
+"I'm not asking you to come," I said, exasperated. "I was asking if you had plans today."
+
+"Ah! Well, in that case, I can hear you just fine! Kev and I were thinking of cornering Emilia to get in some practice with her." He turned and waggled his eyebrows.
+
+"... you want to practise with Emilia?" I asked incredulously. "Have you even spoken with her before?"
+
+"No, but why's that a problem? I know her name and I know who she is. I can make my own introductions!"
+
+"That doesn't mean she'll practise with you. You can't just walk up to someone and ask them to practise when you haven't even met each other properly yet."
+
+Lynus shook his head pityingly as he dried his hands and leaned across the counter. "Oh, sweet Top Scorer. You can always walk up to a girl and ask her if she wants to practise."
+
+"Must you make it sound like that? I'm trying to be serious."
+
+He let out a sigh. "You're no fun. Fine. It's not really for practice, or for practice. Kevan wants to challenge her to a duel and I'm coming along so I get to gloat if he gets beaten by her."
+
+"Classic Kevan." Devon shook his head. "Do you think he has a chance?"
+
+Lynus put in some proper thought before responding this time. "Depends. We've been busy in the last week. Or rather, Kevan has been busy, and he's been using me as a target dummy. We've both started bending bolts without using custom sequences. But if Emilia is as good as Ambrose was when we had that first Double Thau, then no. Kevan's hoping that Emilia hasn't gotten that good that quickly."
+
+"I dunno," I frowned, dubious. "She seemed about as good as Ambrose to me."
+
+"In that case, you'll all get to listen to me describe exactly how Kevan gets his ass kicked," Lynus grinned.
+
+"Don't antagonise him even more," I said wearily. "I think I've gotten him wound up tight enough with yesterday's stuff."
+
+"Don't worry, he'll get over it. After all, he's got a new rival to worry about."
+
+"Right. Well... I'm gonna grab my stuff and head out."
+
+I quietly let myself into the room. Ambrose was still asleep, apparently utterly exhausted. I wondered whether this had something to do with how the ensorcellment had been dispelled. Then another worry presented itself: what if the experience of having their auric arcana wiped out and restored had done some lasting damage to him and Jerric? Could you die from some sort of auric trauma later? Worried, I went close enough to check if Ambrose was even still alive. It felt silly, but I was relieved to hear him still breathing. Making as little noise as possible, I stuffed my textbook and notes for Advanced Glyphs into my bag, grabbed my sweater, and left.
+
+By now, the morning sun had taken a little bit of the chill out of the air, but I donned my sweater anyway to keep the late-autumn wind at bay. A few students were out and about, most walking purposefully to some other destination, but the grounds were largely empty. I supposed most had opted to sleep in or stay indoors.
+
+The Spire was casting a cold shadow across the entrance of the dormitory, so I moved into the warmth of the sunlight. Since there wasn't a need for me to hurry, I took this rare moment to just enjoy the quiet atmosphere and think about where I wanted to hunker down to study for the next few hours.
+
+The duelling compound had study areas, but at the moment I didn't feel like being so near the place I had called forth the friend-in-the-arcana and ensorcelled my friends. The library was the obvious place to go, especially if I wanted to check for any books that might cover what I had done, and yet I felt a little reluctant to simply cloister myself up there like other students. I wanted a little more privacy.
+
+The perfect option came to mind: the lake. Though strictly speaking, the lake wasn't part of the Academy grounds since it lay outside the walls that enclosed the entire compound. But it was featured in the Academy brochure since events were sometimes held on its grassy banks, or even on the lake itself, on temporary platforms that were kept afloat by complex glyph sequences. There was even a small building with amenities like showers and toilets, and a pavilion.
+
+I wasn't sure where the closest gate to the lake was, so I brought up a Minor Query wisp to lead the way. It brought me past the duelling compound's domed buildings and into the shadow of the marbled walls surrounding the Academy. I hadn't really appreciated how huge they were, towering almost ten stories high. It was a blatant projection of power and exclusivity — a clear statement that great wielders of arcana made their abode here, and that outsiders were not welcome. It must have made quite a statement when it was built, long before the Academy was founded when the Spire was the only structure and the Aiestan Empire was still called the Aiestan Arcanocracy.
+
+The Minor Query wisp bobbed right up to the wall and then disappeared. The small path of paving stones led directly to it and terminated there. There was no gate.
+
+Confused, I conjured the Minor Query wisp again and tried giving it a more specific command. "Take me to the closest gate that leads to the lake."
+
+The wisp bobbed forward and snuffed itself out against the wall once again.
+
+Fighting down a sense of irritation, I went closer to see if there was some kind of door that required arcanic manipulation to open but there were no visible glyphs. I clicked my tongue in frustration. I had no idea how to make hidden glyphs reveal themselves if I didn't know the conditions that hid them, like Celwyn's trick with the globe light. It looked like I would have to find some other place to study.
+
+"Hello, Caden."
+
+I jumped and barely managed to stifle a scream as I spun around. Demiurge Maugrim Caldwell was standing right behind me, smiling genially, with his hands in his pockets. Today, he was wearing a white sweater and casual dark brown pants. And those were definitely the same sneakers as Devon's.
+
+"Demiurge, sir, I'm so sorry, I didn't know you were there." The pounding of my heart in my ears was so loud I wouldn't have been surprised if he could hear it too. I backed up a little since he was uncomfortably close.
+
+"Oh, no, I should be the one apologising. I'm sorry I gave you a scare. What are you doing here?"
+
+"I'm... I wanted to go to the lake. To study. For peace. For a peaceful place to study." I cursed my useless tongue.
+
+"Yes, it is a rather good spot. Usually, the second-years learn the trick to open the gate as part of their studies."
+
+I waited, wondering if he was going to tell me what the trick was. The silence stretched, reminding me painfully of the scene yesterday in my father's residence.
+
+"Can you... help me get to the lake, sir?"
+
+"I can," he nodded. His smile became a little more fixed. "If you answer a few questions for me."
+
+I couldn't just hear my heart now. I was sure it was beating hard enough to be visible. My throat went dry. "Of course, sir," I croaked.
+
+"Have you uncovered the identity of the Chosen One?"
+
+"I... what?"
+
+"The Chosen One." He folded his arms, still smiling. "Do you know who it is?"
+
+This moment was even more excruciating than all the previous tense moments combined. But I was struck by the realisation that these feelings were all mine. There was no Prophecy-panic weighing me down and preventing me from speaking. There was something wonderfully uplifting about that, even though I was currently terrified almost out of my wits.
+
+"Y-yes."
+
+"I see. And has he told you anything about the Prophecy?"
+
+"No."
+
+Caldwell was no longer smiling. He looked thoughtful. "You asked, and he did not offer any information."
+
+That wasn't a question. I nodded mutely, thinking back to the first time I had 'asked' — the first ensorcellment I had performed.
+
+"How far along are you with your mastery of ensorcellment?"
+
+It was taking me all of my willpower not to collapse in front of him. It felt like he was tracing the thoughts in my head as they formed. And for all I knew, that was exactly what was happening. After all, if someone like Reeves could wipe memories, what could the Demiurge do?
+
+"N-not far. The last time I performed it was yesterday. But... it was the construct that did it, so I'm not sure if that counts."
+
+"It counts," he said quietly. "It was an extremely well-wrought ensorcellment, as I said before. But your mastery is tenuous because you are not fully aware of the mechanics."
+
+He lapsed into silence, staring unblinkingly at me. I found myself looking down at my shoes, unable to meet his eyes, and feeling the top of my head burning under the weight of his scrutiny. I tried to focus on the present moment, not wanting to think about anything in particular at the moment.
+
+"Oh, pardon me. I can't actually read minds. I just go a little too deeply into my own thoughts sometimes and end up staring," Caldwell said airily.
+
+That was a rather transparent lie. I mustered up enough courage to call him out. "Then... how did you know that I thought you were reading my mind?"
+
+"It's a common myth floating around the student body, so I assumed that's what you were thinking, especially with the way you're behaving," he grinned. "But I suppose you'll have to take my word for it."
+
+"Sir... are you mad that I know who the Chosen One is?"
+
+He looked curiously at me. "Why do you think I should be mad?"
+
+"Because the Academy... Professor Reeves at the orientation... the memory wipe?"
+
+"Mm. That makes sense, doesn't it? But no, I'm not mad. I'm interested in your development as an arcanist-in-training, and this Chosen One business is affecting it quite a bit."
+
+I couldn't figure out where he was coming from. All my assumptions and expectations were being dismantled by his odd behaviour. "Don't you want the Chosen One and the Prophecy to remain a secret?"
+
+"What I want is rather irrelevant when it comes to that. Prophecies are their own masters, and most are their unwitting slaves."
+
+He seemed to be in a rather chatty mood, and even if I couldn't understand him completely, it did strike me as a time to get good information. I relaxed a little.
+
+"So... the warning to not try to uncover the Chosen One's identity...?"
+
+"About as useful as barring students from accessing the lake outside of official events. By the second year, almost everyone breaks through this gate at least once."
+
+"I didn't even know there was a rule."
+
+"Yes, some rules you discover as you go along."
+
+"And I thought you said it's part of their studies?"
+
+"And so it is!"
+
+I was beginning to wonder if Caldwell owed his meteoric ascent to some level of insanity. Maybe I could extract some concession now. "Can I have permission to summon the construct again?"
+
+"But why do you need my permission? It was never prohibited."
+
+I gaped at him, thinking back to the confrontation in my father's residence and realising that he was right.
+
+"Then why did you make such a big deal out of it?"
+
+"But it is a big deal! You're only in your first year. And your construct had a particular flavour to it that I haven't seen in a long time. It alarmed me at first, which is why I went to seek out its source. I am quite relieved it was you."
+
+"Then... then it's a common thing?" That seemed odd. If it was common, then why did my father treat it like such a revelation?
+
+"I wouldn't say common," Caldwell frowned. "But certainly not unique."
+
+"Are there books about it?"
+
+"Possibly. But not in our library. It's rather esoteric, even among arcanists."
+
+"Can you—"
+
+"I think I should send you off to the lake now, don't you?" Caldwell interrupted with a grand gesture. I turned to look, expecting some great spectacle, but there was no wash of arcana, no shimmering in the air. One moment the wall was solid and unbroken, and the next there was an ancient but sturdy-looking iron-bound wooden door set into it.
+
+"Thank you," I began, but when I turned back, the Demiurge was gone.
+
+I sighed. The day had barely begun, and I was already taxed.

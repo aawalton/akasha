@@ -1,0 +1,175 @@
+---
+id: d32d1335-e01d-5511-9a75-8403532fc3b1
+page-type-slug: story-chapter-royal-road
+title: "v5c10: Bureaucratic Nightmare"
+slug: 0115-v5c10-bureaucratic-nightmare
+partOf: beware-of-chicken
+position: 115
+ownLength: 2825
+unit: words
+ownProgress: 2825
+publishedAt: 2024-06-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1665673/v5c10-bureaucratic-nightmare"
+royalRoadId: "1665673"
+markedReadAt: "2026-06-29T18:55:26.736Z"
+---
+
+Sheng Yanjing, the Auditor General of the Azure Hills, had his head in his hands as he prepared himself for the sure-to-be-trying day ahead. It had been a week and he was nearly at the end of his rope.
+
+Trying… that was all his days had been ever since he first got told to investigate the Dueling Peaks. The Wu Clan had wanted to know what exactly the ‘incident’ a year ago had been, and they hadn’t believed the official story about a drunken cultivator brawl. Even asking the Plum Blossom’s Shadow and getting the same answer hadn’t assuaged the nobles, so they had sent him.
+
+Yanjing was to punish Bai Huizhong. First with as much bureaucratic interference as he could muster. Secondly, to find out as much of Huizhong’s operation as he could until the man capitulated and spilled whatever secret he was hiding. The nobles of Pale Moon Lake City also planned to find enough blackmail to financially ruin the Lord Director or have him stripped from his post if he did not comply with their demands.
+
+It had actually been rather fun to annoy the Lord Director of Spiritual Ascension Affairs. The man obviously liked to be on the move with his multiple businesses and constant rota of visitors. Forcing the man to sit with him and go over his books line by line had been hell for the Lord Director. Yanjing had taken great delight in seeing the annoyance double whenever he found a discrepancy and forced the Director to explain each and every one with excruciating detail.
+
+Surprisingly, Huizhong hadn’t started throwing his subordinates under the carriage wheels and instead was the one who came to answer. Oddly respectable in a way, but Yanjing hadn’t risen to where he had by allowing idle sentiment to govern his decisions.
+
+Really, it had almost been a game of Huizhong trying to hide things while Yanjing sniffed them out. Huizhong’s books were well-cooked, and though the Auditor had his job through connections with the Wu Clan, sussing out discrepancies had been the reason he had attracted their attention in the first place.
+
+They were the ones who had sponsored a commoner and advanced him up to such a powerful position. A deal with a demon to break free of the mire and become something. Become someone.
+
+So he had slowly ground Huizhong down, trying to find the pattern and get to the real meat—but right when he was on the edge of a breakthrough that would make Huizhong squeal, the Cultivators had told him to leave.
+
+It had been Yanjing’s first time ever really feeling Qi, and it had nearly made him piss himself. Cultivators had always just been stories to him. Now he knew why there were so many tales. They had made the world tremble in their passing.
+
+Yanjing wasn’t stupid enough to stay after being told point blank to leave. He had to content himself with the more minor items and forward them to his masters. They had not been very happy with him, screaming his ear off over a private transmission, which was annoying as Hells.
+
+He would have liked to see any of those noble lords or ladies shrug off the attention of the Patriarch of the Grand Ravine Sect… but insulting the Wu Clan would do unfortunate things to him. So instead, he chose the other route, a task given to him by Lady Wu. A town in the north had been reporting increased tax revenues, so it was on the docket to be examined. But his patrons had intervened and wished for Yanjing to be the one to examine their records.
+
+And by ‘examine their records’, his patrons meant to ruin the poor bumpkin. Find every little secret, for there always was at least some. Find the right people and bribe them to testify about the petty abuses that always occurred this far out. Rile up the peasants and dirt farmers against their lord’s mismanagement. If the local Archives were disorganized enough, there were even some… less scrupulous things he could do. And then, at the end of it all, report back to the Palace that the Magistrate was unfit and have him replaced. His own guards and appointment by Pale Moon Lake City would make any attempts at retaliation impossible.
+
+It was supposed to be something easy, to give his patrons time to cool off and give them a success. He had looked into some of the other Archives along the way and he had only gotten more assured. He hadn’t known why they wanted to ruin some random backwater Magistrate, only that that was his task as thanks for them sponsoring his position.
+
+Of course, his plan immediately was bucked from the horse.
+
+When he finally arrived, he was practically ambushed by the fact that the Magistrate’s wife was a crippled and exiled Wu—or formerly crippled Wu. The commandery also apparently had the backing of the Azure Jade Trading Company!
+
+That first day had set the tone quite low already. And it had only ever gone downhill from there.
+
+Yanjing sighed heavily as the appointed hour was upon him. He organized his notes one last time and prepared for the heavy knock on the door. Yanjing had taken over the man’s own office as he liked to do. It unsettled everybody else he had done it to.
+
+The Lord Magistrate of Verdant Hill, however, had somehow managed to make it seem like he was doing Yanjing a favour.
+
+A knock on the door echoed out. “Auditor General, are you ready for today?” a calm, pleasant voice rang out, like the headman telling a prisoner it was time for his execution.
+
+Yanjing calmed himself as best he could. “Yes, do come i—”
+
+The door was opened without him finishing his sentence and the Lord Magistrate swept in, his back straight and his expression pleasant. Behind him stalked a man with the jolly smile of a wolf that had cornered a rabbit. First Archivist Bao had once more prepared supplementary material. Historical data, and the codified laws themselves so they could reference things directly.
+
+Yanjing eyed the man warily, once more wondering why the Hells this man was here. Lin Bao’s Archives were the best organized he had seen outside Pale Moon Lake City. Instead of the absent caretaker who barely cared or a doddering old man who had a hobby, these Archives were efficient, well-run, and organized to the highest, most exacting standards. They were clean and in perfect condition, and seemed to have been memorized by the fat bastard walking towards the desk.He could quote twenty year old census data verbatim. Who the Hells could quote twenty year old census data verbatim?
+
+Yanjing was actually impressed enough to try and get the man to…well, make the right choice. Yanjing could certainly have a use for Bao’s skills, and would have loved to have the level of organization that this backwater commandary’s Archives had for his own. It would be a kindness even; the man could live somewhere tolerable to support his growing belly. Yanjing was gracious to those useful to him, after all.
+
+The First Archivist had feigned stupidity and pretended he didn’t know what the careful probing questions were about, and in the same conversation smoothly tried to get the Auditor General to admit that he was trying to bribe him.
+
+Yanjing hated the smart ones who were against him.
+
+And Yanjing was beginning to suspect the fatty was right to want to stay where he was. Because even after the ambush, Yanjing had thought his task was still salvageable. He could still possibly make it work; he was the Auditor General. Everybody hated having to drag up all their old tax paperwork and official recorded edicts.
+
+But these bastards almost seemed eager for an audit.
+
+The pages thumped onto the table and the Lord Magistrate took his seat.
+
+“Are you ready to begin? I do believe we’re on my second year managing Verdant Hill. Page five.” The Lord Magistrate settled in like a child settled in for their favourite story.
+
+“Yes, we will begin with line six, the sudden influx from… Pine Glade,” Yanjing said, trying to take control of the conversation. His efforts instantly failed as the Lord Magistrate’s eyes lit up.
+
+“Oh, yes, the previous administration had struck the village from the maps, for some foolish reason, but during my tour I rediscovered them. The road practically didn’t exist anymore! I entered the village and spoke with their headman. There we had a fruitful discussion…” He was smiling wistfully as he spoke.
+
+The Lord Magistrate must be mad because he seemed to be actually enjoying all of this. He was enjoying remembering all the paperwork he did, how many shit-stinking dirty villages he went to, and waxing poetic about the people he had met who all apparently now really liked him.
+
+It pissed Yanjing off.
+
+“Then what about here! A forty percent death rate in a village? Please do explain these numbers, Lord Magistrate. Forty percent is unacceptable!” Yanjing tried next.
+
+Lin Bao immediately jumped in to counter. “Ah, but Auditor General, that was during an outbreak of the Bleeding Pox. As you can see here, historically, the Bleeding Pox in the greater Azure Hills has a death rate of nearly seventy percent and spreads rapidly to others. It was due to the Lord Magistrate’s quick thinking that it was only forty percent—and that it did not spread beyond a single village, thanks to the help of our specialists.”
+
+Yanjing smiled blandly back at them both while internally cursing at them.
+
+A week of this shit. A week of it! And he  still had twenty more years to get through! If they went at this pace it would take decades to finish the audit!
+
+And so it went.
+
+Yanjing picked at the most minute thing, and they had a story and records to completely counter it. All it did was make the man he was supposed to be discrediting look even more competent!
+
+Hells, the man had inherited a complete shithole! It was absolutely unbelievable that he had turned it into this lovely prosperous town and region without illegal activity, but it was staring him in the face. It had to be the two of these bastards working together in tandem to seamlessly cover their tracks.
+
+At the rate this was going, he was just going to have to make things up to get the man deposed. Which the Azure Jade Trading Company would never stand for if he had read the room right on the first day. He had to have something big, something actually actionable.
+
+Yanjing got more and more annoyed as the hour progressed—and his eye began twitching when he found the most obvious and blatant piece of funds misuse, a crate of expensive wine.
+
+Now that… that was insulting. It was just hidden enough to say ‘I tried to hide this.’ It was a sop for a man to say, ‘Look, I found the obvious corruption that was worth the most minor fine.’
+
+It wasn’t something he could take action on and demand removal over, because that would set a precedent that would piss off every other Magistrate in the Province, if not the world, because they all did it. If he deposed a Magistrate for that, the others would have him assassinated within the week to set the counter-precedent for any future fool.
+
+He was furious by the end of the meeting—until he got an idea. These two were working in tandem to hide everything. If the books were useless to him, the common man was sure to have their grievances.
+
+“Well, there are some things I cannot just take your word for, Lord Magistrate. I’ll be taking some time to conduct some interviews… without your presence, of course, so the peasants don’t feel pressured to lie. This is no issue, yes?”
+
+The Lord Magistrate froze, his eyes widening, and Yanjing knew he had one over on the bastard.
+
+“I see. Of course, that is your prerogative,” the man replied, his features dropping their smile.
+
+Yanjing nodded. The next day he would begin his true counterattack.
+
+==================================================
+
+The next day, just after noon, Yanjing walked back into his room, opened up a wine bottle, and began drinking.
+
+Was this entire place a fucking cult?! If he had to listen to one more person kiss the Lord Magistrate’s ass he was going to hang himself!
+
+Still, it might just be the townsfolk. The villagers in the outer settlements would surely have something else to say.
+
+==================================================
+
+“The Lord Magistrate?” the man asked. He was certainly a big one, with blotchy freckles all over his cheeks and that stupid, guileless smile of a peasant. He had a short, equally freckled woman beside him, probably his wife, and the shrew had the audacity to frown at him! “Oh, the Lord Magistrate is great!”
+
+Yanjing felt any hope leave his soul.
+
+What the Hells was this? What the eight burning hells and eight freezing hells was this?!
+
+Nobody wanted to talk about anything bad the Lord Magistrate had done. Nobody wanted to even hear an unkind word. All of them waxed poetic about how great of a ruler the Patriarch of Verdant Hill was!
+
+Yanjing ignored the rest of the peasant’s fulsome exaltation of the Lord Magistrate. He could feel his soul starting to leave his body.
+
+Why? Was it Heaven’s punishment for accepting the Wu Clan’s money? Was it karma for overly desiring this position?
+
+All he knew is that he wanted a Gods-damned drink.
+
+“Uh, you alright, sir?” the peasant asked, and Yanjing jolted.
+
+“Yes. Yes, that is all. Go about your business,” Yanjing commanded the peasant.
+
+He walked off, slightly unsteady, and headed back to his room.
+
+=============================
+
+“So! I think I met the Auditor,” Jin said as he took tea with the Lord Magistrate. “I was going to see if you needed a hand, Shifu, but I don't think you need it.”
+
+The Lord Magistrate of Verdant Hill smiled into his mug. His table was full today, with Jin, Lu Ri, Meiling, as well as Cai Xiulan and Tigu in attendance today.
+
+“It is a teacher’s shame to have his student fight his battles,” he declared.
+
+Really, asking for a cultivator to intervene would be embarrassing when he had so much support already. Especially when he was having so much fun—it was great to be able to recount his past accomplishments in front of fresh eyes, and watch as the Auditor General bore a look of grudging respect on his face!
+
+He hadn’t known that even the praise of an enemy could do it for him, but knowing that a person who hated you couldn’t help but acknowledge your skill was proving quite delightful.
+
+And it would be no good to end the man’s suffering so soon if Jin or Lu Ri got involved. He was sent by those who wished his wife harm. There was a pound of flesh he required in payment for that.
+
+If the Wu Clan had done this a few years earlier, it likely would have posed a bit of a problem. He would not have had the support of the Azure Jade Trading Company, and there was a good chance that he might have been stripped of his rank… but the more likely outcome was a fine that would beggar him. They probably would have left it at that.
+
+He knew his wife’s family. Her sister, who he was sure had ordered this, had a cold, lazy kind of maliciousness.
+
+It incensed him. It enraged him that they would target his wife like that, after everything she had been through. But he banked his rage. Realistically, there was little the Auditor General could do to him… but there was also little he could do to the Wu Clan without involving his student.
+
+He let out a breath. He had nothing he could do to them at present, so all he could do was bide his time and think.
+
+That and listen to Rou Tigu and Cai Xiulan regale them with what exactly had gone down in Grass Sea City. His messenger, Ming Jie, had reached Pale Moon Lake City. The man had sent back about how the equipment he was using was holding up, to Lu Ri’s pleasure—and discovered his son was most certainly not in the city.
+
+Their son was not at school like his letters said. He was, in fact, getting into all sorts of dangerous things.
+
+It was a father’s pride to have a son grow up to be just like them, but the Magistrate wished that his son wasn’t… quite so like him.
+
+He sighed as Tigu began her enthusiastic retelling and held his wife’s hand as her eyebrow twitched.
+
+All he wanted was a nice, normal life. Had that been too much to ask?

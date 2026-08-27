@@ -1,0 +1,63 @@
+---
+id: 690601c8-249b-5724-a186-657474518407
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 7- Dance to the death"
+slug: 0070-book-2-chapter-7-dance-to-the-death
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 70
+ownLength: 1298
+unit: words
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2284381/book-2-chapter-7--dance-to-the-death"
+royalRoadId: "2284381"
+---
+
+69:
+
+Jack had been prepared for the middle-aged man to try and reassert his control over the white stone and try to defend himself with it, but he had also been confident in his Moonsword dealing a fatal wound before he could get his defenses back up. And for what it was worth, Jack had been correct in his assumptions— it was not the middle-aged man’s Bloodsong Spear that had parried his thrust, no, instead it was a Moonsword that perfectly mirrored his own in outward appearance.
+
+The brown-haired woman had reacted to his charge and managed to throw out a slash just in time to bat his blade away from skewering through the middle-aged man’s chest.
+
+“Fuck!” The swear word escaped the middle-aged man, the leader of the enemy faction who wisely used the time the brown-haired woman had bought him to let go of one of the halves of the original white stone screen, while the other half that he still hand his right hand upon began to fold on itself and reform, with excess parts of it sloughing off it with the texture of white putty.
+
+He raised the now much more compact sheet of white stone above his head to give the brown-haired woman a clear field of view and make sure it didn’t ram into her as he retreated. Jack could only spare it a flicker of his gaze, but that was enough to take note of the diamond shaped shield that had seemingly fused onto the middle-aged man’s arm as he retreated.
+
+A few moments more was all he needed to reach out into his inventory and pull out his Bloodsong Spear, leaving him fully prepared for battle with his spear in his left hand pointing outwards from behind the cover of his shield.
+
+Those few moments felt like an eternity to Jack, as he engaged with the target that had positioned herself before the middle-aged man.
+
+Moonsword on Moonsword combat was marked by a whirlwind of two silvery blurs as Jack used the advantage in elevation to press the brown-haired woman. What started off with wide slashes turned into more deft ones, as Jack found his onslaught of attacks being parried by the woman with a single-minded focus. It was no coincidence that she had ducked the surprise Qi Projection he’d targeted her with from afar, for the brown-haired woman had to have invested significantly in her perception and dexterity to be moving the wy she was.
+
+Even as he was pressing the advantage, it was hard to maintain a continuous chain of thought beyond a general direction and relying upon his base instincts when fighting an opponent that approached and even surpassed his capabilities in certain aspects. Still, Jack knew that for the woman to have been reacting as fluidly as she was to her attacks despite lacking a framework Jack would expect from someone even vaguely familiar with HEMA training, she had to have invested in perception and dexterity heavily— and no matter how high a level she had gotten by moving down other cultivators, stats weren’t a limitless resource.
+
+The system offered them a choice when it came to deciding which stat they wished to specialize in and that presented a conundrum in the sense that it couldn’t be all of them, not unless one wanted a master of none build.
+
+Her parries don’t have that much weight behind them, Jack realized as a swipe of her blade swept away what would have been a lethal thrust, the force and speed enhancements that Moon-flow offered her blade allowing her to redirect his blade but not immediately push for a counter when doing so would have put Jack on the defensive and shifted the flow of the battle in her favour.
+
+Instead she had drawn her blade back in preparation to defend her vitals against the next attack, letting Jack keep his initiative. There was no reason for her to do so considering that she had the middle-aged man at her back, likely waiting for her to push back Jack enough so he could fire a Qi Projection at his chest. In fact, that was the reason why Jack had to keep pressing the attack, making sure that their forms were intertwined in a battle dance that made targeting any one of them difficult without there being a possibility of injuring the other.
+
+Not that he had found a way to break through the brown-haired woman’s guard just yet, but the fact that she needed a second to recuperate from the force she displaced by deflecting a single one of his sword slashes or thrusts, he had an idea.
+
+He just needed a certain someone in his group to break the stalemate and give him an opportunity to eliminate the brown-haired woman without taking a Qi Spear Projection to the throat a moment later.
+
+Marcus answered his silent call by cresting the dune in a sudden charge Jack only barely managed to register in his peripheral vision. Jack could only hope that the middle-aged man would be surprised by Marcus’ appearance that he wouldn’t fire off the Qi Projection meant for him at the new arrival.
+
+His worry seemed misguided however, as the crackle of flames erupted outwards from his left in a steady stream, one strong enough to make Jack feel the heat. The sound of muffled footsteps followed, as he believed Jin descended the dune to flank the middle-aged man from the side as he tried to deal with the onslaught of flames.
+
+It was a strategy that Jack approved and one that gave him the leeway to commit to the plan that he had been formulating in his mind.
+
+Using the elevation advantage Jack had, he swung his blade in a downward, sweeping arc, with the bulk of his weight on his left foot while feigning a small slip with his right foot that made him over-commit to the attack and sent his slash towards the sand while having steered clear of both the brown-haired woman’s body and blade.
+
+It was a clear mistake, one that was plausible for a man who was zealously pressing the attack and one that left the entire right side of his abdomen exposed.
+
+It was bait, and a very blatant one at that, but only if the enemy knew the vector of attack Jack had in mind.
+
+The brown-haired woman activated Qi Blade and showed no hesitation as she lunged at his heart with killing intent, granting it increasing penetrating power on top of Moon-flow’s already impressive enhancements. Had Jack not been prepared for the thrust, there was no doubt in his mind that he would have died right then and there. And even as it stood, Jack had to stretch his focus to it’s limits as he pivoted on his left foot, using his right foot to guide him as he twisted his upper body in the same direction.
+
+Instead of punching through his heart, the point of the brown-haired woman’s Qi-Blade infused Moonsword collided against his Shield of Greater Deflection that he’d been wearing near his elbow so as to not interfere with his use of the Primordial Claw earlier.
+
+The sudden burst of Wind Qi that erupted out of his Shield of Greater Deflection was so quick, so violent and most of all, so unexpected that the shock of it not only sent the brown-haired woman’s offending hand whipping backwards, but also caused the moonsword to slip out of her grasp and tumble down the dune.
+
+When Jack brought his own over-extended moonsword back in a straight, sweeping line, he instinctively activated Qi Blade, even further increasing the cutting potential of his blade.
+
+Still, even Jack hadn’t expected his blade to slice clean through his intended target.

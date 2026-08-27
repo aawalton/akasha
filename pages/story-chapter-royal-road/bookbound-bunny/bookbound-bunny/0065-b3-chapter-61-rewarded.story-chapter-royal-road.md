@@ -1,0 +1,179 @@
+---
+id: a7168983-ceaf-5bb1-bb21-ed6b0eac7b46
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 61 -Rewarded"
+slug: 0065-b3-chapter-61-rewarded
+partOf: bookbound-bunny
+position: 65
+ownLength: 2447
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3630181/b3-chapter-61--rewarded"
+royalRoadId: "3630181"
+---
+
+Even though everyone had been quite thoroughly exploited by Professor Sylwel, he at least made it worth their while by providing everyone a rather large bottle of the Witchlight ink. They all looked extremely excited until Ollie reminded them that they wouldn't be able to use it for any official tests, which dampened their joy a tiny bit.
+
+"Just being able to trial some of my glyphs before etching them into metal is already a benefit," Duncan said happily.
+
+"While I can often reuse mine by carefully unraveling the sewing, it's still an absolute nightmare and tediously time-consuming," Gwen agreed.
+
+"Unfortunately, I'll need to secure more so that I can ration it out for test preparations. Hopefully, I can get Headmaster Fabrelis to agree to a budget increase if I show results," Professor Ollie mused.
+
+"I look forward to your patronage," Sylwel chuckled.
+
+When everyone was leaving, Professor Sylwel asked Lily to stay behind for a moment, and when everyone had left, he handed her an extra two bottles.
+
+"I can't have my student getting less, and since this wouldn't have happened without you, you deserve more."
+
+Lily was delighted and profusely thanked him while carefully cradling the bottles as she put them away. He'd already given her the failed batches, too, which Lily had planned on feeding to Arakil to replenish some of the Mana they had unwillingly spent during the dungeon fiasco.
+
+Overall, this impromptu task she'd been dragged into by the mad professor had been greatly beneficial, and she even got to officially meet three of her seniors in the enchanting class. She'd honestly been expecting them to ask some questions about her, but perhaps because of the task at hand, they had restrained their curiosity.
+
+[There are some impressive students here. I had expected one of them to at least make a mistake or two, especially since they were relying on blood glyphs before this. But, to my welcome surprise, everyone was able to flawlessly copy the glyphs.]
+
+Lily silently agreed. In fact, she was dreading the chance that one of them might have messed up and that she would've needed to point out the mistake. She wasn't sure about Ollie, but Sylwel seemed to trust her opinion more than the senior students, and so she had been given the task of double-checking the final products.
+
+When Lily finally returned, her friends had been anxiously waiting for her return. She hadn't exactly told them what she had been doing, and from their perspective, she had just suddenly vanished.
+
+Oops.
+
+Thankfully, once it was explained, they quickly forgave her, especially Lotte, who understood exactly how easy it was to be unexpectedly drawn into Sylwel's machinations. As for the standardization of the competition, Lotte actually seemed quite happy about that.
+
+"This way, nobody can complain if you had whipped out your wand to brew," Lotte said. "I'm sure Professor Sylwel would have exploded at anyone who tried to disqualify you, but it helps if everyone's on the same footing. I'm certainly glad I get to use a glyph rather than a normal tool."
+
+Lily completely agreed, though she certainly hoped the other students felt the same. Those who couldn't afford magical tools to regulate the flames often went out of their way to learn proper control, so glyphs effectively nullified their advantage. Lily had even brought up this concern to Sylwel, but he quickly dismissed it, saying that any student would be grateful to have the pressure taken off them and to be on par with the rich kids.
+
+"What I don't understand is why they are allowed to use purchased tools like this, but I'm told that unless I make the ink myself, I can't use it," Lily sighed.
+
+"I bet it all comes down to money at the end of the day," Lotte answered. "People want to make money, and the rich want to spend money, so it's in their best interest to allow some things to slip through."
+
+"What if I bought the ink from Sylwel then?" Lily proposed.
+
+Lotte shook her head. "Unless he's willing to go fight for it, I don't think it would work. Not to mention it seems like the mad professor has already ruffled too many feathers, so they might reject him just for being himself."
+
+Lily sighed again; what Lotte said made perfect sense. However, rather than give up entirely, she simply vowed to show them when she could draw her own glyphs without ink and without a wand.
+
+Let's use this little holiday to spread more rumors about my "bloodline"!
+
+There were barely a few days left before the festival went into full swing, but Lily was going to make the most of it. She even contacted Professor Melina about it and requested her help in decorating Regarth for the occasion, which was thankfully swiftly approved by Headmaster Fabrelis.
+
+As the day approached, Lily saw more and more students making their own moves. In the outer grounds, stalls were being set up one by one, and various wares, goods, or services were being offered. Most manufactured items were produced by the senior students, while the juniors tended to focus on services and occasionally on materials. If the seniors weren't turning their materials into goods, for both practice and profit, then they would have easily crushed the juniors with far better supplies from deeper in the dungeon.
+
+Of course, not everyone was willing to go this far, and the majority of the students chose to simply partake, especially the richer students. In the first years, almost nobody participated because they didn't know about it or didn't really have the resources to compete.
+
+An extremely small minority of them did try, like Arthur, who, against all odds, had somehow procured a sail-wagon and was offering to "fly" people to and from Kaeling. Hana would occasionally join him, but other than that, he was the only one from Lily's group of friends who was trying to earn money from the event.
+
+Lotte had briefly considered trying to sell some potions, but Professor Sylwel had actually advised against it. He claimed that nobody wanted to tempt fate by buying from a first-year, even if he gave his own stamp of approval. Both Lily and Lotte couldn't help but wonder whether, with a more normal teacher, that assurance would actually make a difference.
+
+Lily could have probably set up a stall, as a few students had tested the waters by asking if she was willing to draw something for them, and she'd be lying if she didn't admit to being tempted. Ultimately, she declined for now because of its notable lack of public presence: a glyph drawn in someone's room wouldn't garner any attention except from the owner, whereas lights or shelter outside could be admired by the masses.
+
+Professor Melina even joked that Lily was part of the school's decoration committee, which effectively became true when the Headmaster asked her to enchant the areas where the students were setting up shop. This ended up becoming a miniature project of its own, with Professor Ollie being dragged along to help select the optimal points for the magical array to be set up.
+
+To Lily's surprise, her efforts were rewarded when Headmaster Fabrelis thanked her by offering her a rather potent Mana potion to help her recover. Lily actually felt a bit guilty, and a small part of her wanted to refuse it, as thanks to her constantly cycling Mana Core, it had hardly cost her anything but time. That was until Arakil chimed in.
+
+[This elixir might be enough to add two whole layers to your Mana Core!]
+
+Thus, Lily ultimately accepted it, while repeatedly thanking the headmaster for his generosity. After finishing her work and being safely in her room, Arakil guided her in setting up the optimal environment to refine her core. It had been quite a while since she had a long session, and both of them wanted to ensure not even a drop of this precious potion went to waste.
+
+And just in time for the festival tomorrow.
+
+***
+
+The festival had finally arrived, and the entire school was buzzing with excitement. Lily, in particular, was feeling over the moon as she woke up feeling full and refreshed after an intense evening of refining and her Mana Core spotting two freshly minted coats.
+
+It was hard for her to quantify the improvement, but she'd never felt better thanks to such a significant jump all at once. Even the times she had done it with potions back at the orphanage paled in comparison to this, as not only were those attempts dreadfully inefficient, but those initial layers had been small in comparison. Just one layer now was comparable to roughly ten or more due to the ever-increasing circumference.
+
+"I'm going to eventually reach a point where it takes a month or more to add a full layer, aren't I?"
+
+[Quite possibly, although it might be due to density rather than size at that point. When you're entirely out of your growing phase, we will endeavor to compress your Mana Core down in size, which will give your Mana a qualitative leap like never before. I'm personally rooting for you to manage at least a sixty-percent compression.]
+
+"You're going to have me shrink it?" Lily asked, sounding a little disappointed. "I thought bigger was better?"
+
+[Yes, but would you rather have a table of silver, or a chair of gold?]
+
+"Neither. Sitting on gold sounds awfully uncomfortable, and using a table of silver would leave me stressed over leaving a mark on it."
+
+[I know you're joking, but I hope you understand my meaning.]
+
+Lily giggled and nodded. "I do, but I'm kind of upset that I won't get to fill the darkness with a giant silver moon."
+
+[That's simple, just achieve that goal before you finish growing.]
+
+Lily frowned as she stood on her tiptoes before dropping back down again. "I don't have much hope in that department…"
+
+[Don't worry, being vertically challenged has no relevance to magical performance. Back in my time, I knew several gnomes who were outstanding mages.]
+
+Shaking her head with a sigh, Lily gave up trying to explain herself to Arakil. While she perfectly understood it didn't matter, she still wanted to be a bit taller, especially since it looked like Rose was still shooting up like roots.
+
+While she didn't want to admit it, the possibility of being in her third, fourth, or, heavens forbid, her fifth year at Regarth and being shorter than the average first-year sent chills down her spine. She quickly shook off the intrusive thoughts and hurried to meet her friends.
+
+Lily's extra energy at breakfast didn't go unnoticed, although her friends seemed to chalk it up to her looking forward to the festival. Hana was just as excited, since her parents would be arriving later today.
+
+"I did some digging and managed to find out basically the full schedule," Hana began explaining to the table. "The festival will be going on for three days, with it growing in intensity each day. The first day is pretty quiet; most consider it the shopping day, and the biggest event for us is probably the alchemy competition with you two. Unless someone else wants to watch one of the senior events?"
+
+"I was tempted to go see what the enchanting class did, but after speaking with Professor Ollie, it sounded like one of our Spellcasting Fundamental classes," Lily said with mixed feelings.
+
+"You mean showing off a magic item and then explaining it?" Lotte asked.
+
+"And usually followed by a mini-auction," Lily sighed.
+
+"So the winner is the one who earns the most?" Hana asked.
+
+Lily nodded. "Pretty much. I guess I can't expect them to enchant an item on the spot for a competition, it sounds like it takes days to properly make something."
+
+Lotte giggled. "Imagine camping around for days while the enchanters slowly hammer out a set of magical armor."
+
+"Or knit a magical scarf," Hana added.
+
+Lily gave a defeated chuckle. It made perfect sense, but it still left her feeling a bit disappointed, so she chose to skip it.
+
+"There's Thaumaturgical Agriculture…?" Hana suggested, trying to cheer Lily up.
+
+"Rose isn't competing, so unless you want to scout out Clarissa, I'm voting for a skip," Lily answered.
+
+"I don't think she's competing…" Hana murmured before shaking her head. "And no, I don't want to see whatever she's grown. Imagine if I bumped into her parents…"
+
+With none of the other activities catching their eyes for now, the group voted to spend the day wandering around. Perhaps they'd accidentally stumble upon an exciting event they didn't know about.
+
+Hana continued her explanation, "Tomorrow has two big events: the dungeon duos and the dueling."
+
+"I thought dueling would be on the last day," Lotte admitted, and Lily bobbed her head in agreement.
+
+"Nope, the last day is saved for the big event!" Hana said excitedly.
+
+"Big event?" Lily urged curiously.
+
+"Yeah, don't leave us hanging," Lotte added.
+
+Hana gave a wry smile. "I'm surprised you two have forgotten, especially after winning."
+
+"We did?" Lotte asked, turning to Lily.
+
+"Didn't we all win?" Lily asked.
+
+Hana sighed, shaking her head. "You two… I guess you really don't listen to what Alice says."
+
+Even with that hint, neither Lily nor Lotte responded, so Hana gave up and revealed the answer.
+
+"The treasure hunt!" Hana said excitedly.
+
+"Oh? Oh!" Lotte finally reacted upon realizing what she was talking about.
+
+"I completely forgot about that…" Lily admitted.
+
+"I blame Bradley," Lotte joked. "If he wasn't trying to get you into the duels, he could have told us about it. Especially after we secured first place for him, some Maranix chairman he is."
+
+Lily gave an awkward laugh, although she somewhat agreed. While they hadn't set out to win, they did, and Alice had claimed it would be a good benefit.
+
+"Maybe they don't care about the entry order for the first years?" Hana suggested.
+
+"Might be," Lotte agreed.
+
+"Oh well, maybe I can ask Rose about it, I bet she got first for the Terravix second years," Lily offered.
+
+Her two friends nodded as they tried to speculate about what would happen on the final day. Hana had only managed to secure the event's name, so it was still a mystery.
+
+"Well, let's finish up and get exploring. Make the most of our time before the alchemy competition," Lotte said, standing up.
+
+Hana and Lily nodded in agreement, finishing their last bites of food before picking up their empty trays. For the three of them, the festival had officially begun.

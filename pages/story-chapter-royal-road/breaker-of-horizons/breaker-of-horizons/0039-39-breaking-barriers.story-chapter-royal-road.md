@@ -1,0 +1,119 @@
+---
+id: fd94af7c-e55e-5572-9ee9-3e7c3d64dd1f
+page-type-slug: story-chapter-royal-road
+title: "39. Breaking Barriers"
+slug: 0039-39-breaking-barriers
+partOf: breaker-of-horizons
+position: 39
+ownLength: 2404
+unit: words
+publishedAt: 2020-09-14
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/554585/39-breaking-barriers"
+royalRoadId: "554585"
+---
+
+As Devon and I set off at a brisk pace towards the duelling compound, my eyes went to the 'new' buildings along the way. I hadn't been seeing things during that evening walk to the Spire with the Demiurge. In the two weeks since that night, I discovered that the Academy grounds held many structures that were well-maintained but otherwise completely deserted.
+
+No students ever went in and out of them, and it was clear why — they didn't even know the structures were there. I had pointed one of them out to my fellow dorm mates and received only confused looks, and the confusion persisted when I attempted to explain what was happening, only to mysteriously clear up once I abandoned the topic. Even my father was subject to it. Clearly, there was some high-level arcanophany at work that was clouding their perception.
+
+But that wasn't the most pressing concern now. Devon and I were drawing close to the duelling compound, and we weren't alone. There were quite a number of other students slowly making their way in. While I spotted some familiar first-years, I realised that a number of the seniors were joining the throng too.
+
+"Is there some kind of event?" Devon wondered, frowning in confusion.
+
+"Kev and Emilia's duel is probably the event," I said, shaking my head. "Word must've gotten around about their clashes."
+
+"We should sell tickets or something," Devon grinned. "Make a proper show of it."
+
+It was hard to keep a straight face, but I tried to inject some seriousness into my tone. "Dev, c'mon. Remember why we're here. I doubt it's going to be a good kind of show."
+
+"Right." He sobered up a little. "What do you think the Demiurge wants us to do?"
+
+"I'm not sure," I said worriedly. "He said Kev might 'go overboard', and that doesn't sound good. Maybe we have to rein him in somehow?"
+
+"Uh, I'm not sure how much good I'd be in that kind of situation," Devon said, paling. "I'm the lousiest at Double Thau out of all of us, remember?"
+
+"Hopefully it won't come to that," I said, projecting a little confidence that I didn't really feel. "But if it does, two's better than one."
+
+His only reply was an audible gulp. I didn't blame him. In the two weeks following Ambrose's admission to the infirmary, our Double Thau sessions as a group had ground to a halt since the rest were wary around me, but that didn't mean Kevan had slacked off. Together with Lynus, they had approached seniors and started duelling with them, and sometimes even winning. It was a mark of Emilia's exceptional ability that she had still managed to beat him at their last match.
+
+We finally got to the largest duelling chamber. The tiered seats were almost half full, and more were slowly filtering in through the double doors. The excited chatter of dozens of people filled the dome.
+
+"There." Devon nodded at the far end where Kevan and Lynus were standing, apparently in a heated discussion. I saw Emilia a few paces away, seemingly lost in thought as her eyes passed over the crowd. Both Kevan and Emilia had dressed for the occasion — they wore close-fitting clothes and good shoes that would allow them to move freely. Kevan's athletic build lent him an air of greater competence here, accentuated by his all-black outfit, from his T-shirt down to his shoes. But even though Emilia seemed less well put together in her slightly mismatched long-sleeved navy blue top, forest green leggings and red shoes, and she was half a head shorter than Kevan, there was an intensity about her that hinted at hidden power.
+
+I didn't want to walk across the empty floor in front of so many people, so we skirted the edge of the chamber. "Hey guys," I said as we drew close enough to be heard over the general hubbub. "Everything alright?"
+
+Kevan snapped "No!" at exactly the same time Lynus said "Yes!"
+
+"Whatever," Kevan continued, irritation written all over his face. "We should start."
+
+"Another five minutes," Lynus insisted. He turned to Devon and me. "Were there still lots of people outside?"
+
+"Lots," I confirmed.
+
+"I don't mind a few watchers, but this is too much," Kevan said through gritted teeth. "You shouldn't have talked it up, Ly."
+
+"You'll thank me, seriously. Whether you win or lose, you'll be noticed," Lynus said, waving a dismissive hand.
+
+"We should start," Emilia said, appearing suddenly at his shoulder, her approach masked by the background chatter.
+
+"Oh, Emilia!" Lynus gave her a winning smile. "Hi. Caden just said there's lots more people still outside, so I was thinking maybe if we waited... until almost... all the seats... uh..."
+
+He withered under her impassive stare. "We should start," she repeated in exactly the same tone.
+
+"Right. I'll, uh, get the doors." As he set off across the empty floor, Kevan gave an amused snort. Emilia trailed after Lynus, heading for the starting position on the opposite end from Kevan. Devon and I hurriedly found seats at the bottom tier, just behind him.
+
+Lynus shooed a few more people in, then closed the double doors. I saw him bring up the Minor Control Sphere to access the chamber's functions. A hush descended over the crowd as people noted these developments, and the babble was replaced with expectant silence.
+
+"Ladies and gentlemen," Lynus began, his voice easily filling the massive chamber. It was equal parts arcanophanic amplification and good, old-fashioned voice-projection. He was a natural showman. Or maybe a practised one. "Thank you for joining us today. Our duellists need no introduction, but allow me to introduce them anyway! Over on this side, we have Emilia, sharp as a tack and deadly serious. On the far end is my brother, Kevan, arguably just as smart, and seriously not as pretty."
+
+Some laughter from the crowd. A few awkward coughs.
+
+"Ahem. Anyway! Two rising stars of Thaumaturgy in the first year, one epic battle. Who will emerge victorious? Let's find out!"
+
+The Minor Control Sphere in his hands pulsed and a wash of arcana ran through the floor. A dense honeycomb weave sprang up from the edges of the arena, enclosing the two combatants momentarily before it faded into invisibility, protecting the audience from any stray blasts of arcana. Emilia and Kevan were likewise briefly hidden behind a thick, shimmering layer. It seemed that the duelling chambers were able to provide combatants with a more advanced form of the duelling shields. These looked sturdy enough to hold up against the more potent arcanic bolts we'd learned.
+
+The protections were in place, but neither one of them had moved. I scanned the air between them and extended my arcanic senses, and sure enough, invisible bolts were already arcing through the air, warping it with the violence of their passage. Translucent discs and planes of arcana were being called into being by both of them as they shielded themselves against the barrage, but these conjurations were not dissipating gently like our duelling bolts and shields. Instead, these new arcanic bolts were hitting with so much force that I could feel a dull throb every time one of them smashed into a shield. And the shields were not wispy things — they shattered violently like glass and cascaded to the ground in fizzing pieces that slowly melted away into nothingness.
+
+There were appreciative murmurs from the crowd. The first-year faces I recognised looked awed, but some of the seniors were clearly not impressed yet. Evidently, this was standard fare here at the Academy.
+
+Suddenly, Emilia started sprinting straight towards Kevan. His bolts slammed into the floor or flew past the empty space she was in just a moment ago, crashing into the arena shields where they left thick cracks. I even felt a little vibration from the impact. There were cries of alarm from the people near these points of contact, but that quickly turned to sheepish laughter as the damage rapidly repaired itself.
+
+It seemed Kevan had finally mastered how to direct the bolts with his will. Before Emilia had crossed the mid-point, she was beset on two sides — a volley from directly ahead of her, and a few bolts that had managed to perform hairpin turns to come around for a second pass. But Emilia didn't break her stride. She ran straight into the oncoming volley.
+
+Emilia's hands came up, and she literally swatted a few of the bolts aside.
+
+The gasp that left my lips was echoed by dozens of people in the arena. The bolts pinged off her hands with sharp cracks and some of them even collided with the bolts approaching from behind, flowering into little explosions of light. She dealt with the rest with a smattering of throwaway shields, leaving a cascade of broken glass in her wake. By now, she was just ten paces away from Kevan.
+
+He dropped to a knee and pressed his palms to the floor. An instant later, I felt a shockwave of arcana that smashed against the barrier between us before rushing back into the arena space. It wasn't completely invisible — streaks of white and grey rippled through the air on the crest of the waves. Emilia still wasn't stopping. She simply enveloped herself in a jagged spike of arcana and kept running. Its tip snapped off with an ear-splitting crack as the first wave met her, and the backwash from the walls crashed into her with enough force to blow her back a few metres, sending her flying. I watched, wide-eyed, as she executed a flip in mid-air and nailed a three-point landing.
+
+"What the—" Devon swore on my behalf. I couldn't find my voice.
+
+There was a roar of approval from the crowd as they broke into applause. Emilia straightened and irritably flicked a stray strand of hair out of her face, panting slightly. Kevan slowly got to his feet, his fists clenched. I couldn't see his face from where I was seated, but he seemed tense. They regarded each other for a moment, then Emilia darted forward again.
+
+She was stymied again when a literal wall of fire sprang up between them, orange at first, then a deadly blue, eliciting gasps of surprise from the watching students. My eyes went to the floor, and I saw the semi-solid globules of arcana that Kevan had transmuted to serve as fuel for the fire. The curtain of blue encircled him from two metres away, hissing menacingly. I wondered whether that was a homebrew sequence, and which lecturer had supervised him if it was.
+
+Emilia's eyes went to the floor too, and a moment later some of those globules were hurling themselves at Kevan, who hastily batted them aside with conjured shields. The wall of fire broke down as he changed the sequence — the globules cohered into flaming spheres that he was now hurling at Emilia. Whether by lack of control or by design, these seemed incapable of being directed by will alone. Emilia took advantage of that and dodged some, or else deflected them with shields, all the while inching closer. The scattered spheres hissed and died as they splattered against the arena shields, and left little pools of spluttering flame on the arena floor.
+
+It occurred to me then that Emilia hadn't made any offensive plays beyond the initial salvo of invisible arcanic bolts. For some reason, she was focusing on getting closer to Kevan. But why?
+
+Just as that thought crossed my mind, the air between them began to writhe again. Emilia had renewed her assault, having managed to back Kevan into a corner. His shields were shattering more quickly now even as he tried to cloister himself in shifting layers, while Emilia continued to bob and weave, dodging as much as she was shielding. I marvelled at the amount of coordination and concentration she was displaying.
+
+It looked like it was only going to be a matter of time before Kevan's defences collapsed under her close-ranged barrage. He wasn't keeping up with her, and almost half of his own bolts were missing the mark, blowing past her and scattering uselessly against the arena shields.
+
+A gout of fire erupted from his hands. Emilia managed to deflect the stream a little with a hasty shield, leaving her just enough time to throw herself out of the way. But Kevan wasn't letting up. He was transmuting more arcanic fuel, sending out a steady stream of liquid fire that left burning puddles where they landed. Emilia backed away, scattering the arcanic fuel at her feet to buy some space. A small wave of fire rushed after her, forcing her back even further as it threatened to engulf her. For a moment, it looked as if she might be caught in it, but before I could get to my feet, she sent herself rocketing through the air with an arcanic pulse directed at the ground, then somehow managed to control her descent enough to effect a graceful landing.
+
+The two of them paused, staring at each other over the fires that covered half the arena.
+
+"Had enough?" Kevan called out. I fought the urge to roll my eyes. Was he actually taunting her, when he seemed to be the one on the back foot here?
+
+"No," Emilia replied, giving him a rare smile. "So don't fall over just yet."
+
+A sudden rush of wind sucked the life out of the flames as the air was drawn in towards Emilia. I felt a dense knot of arcana flower precisely where she was, and a moment later, a brilliant beam of energy lanced out from her outstretched palms towards Kevan, its diameter wide enough to encircle a full-grown man, bathing the arena in purple light and filling the air with the keening wail of raw power. It was Triss' beam sequence, but it sang to my arcanic senses, humming with more potency than I had ever felt before from a student.
+
+The beam enveloped Kevan entirely in its blinding ray, then smashed into the arena shield. Cracks spiderwebbed across its surface, sealed up, then cracked again.
+
+"KEVAN!" I shouted, shielding my eyes from the glare and trying to make out what had happened.
+
+The beam died out, leaving a ringing silence in its wake. I blinked furiously, my eyes watering.
+
+Kevan was gone.

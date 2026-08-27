@@ -1,0 +1,165 @@
+---
+id: c128e3fe-37f9-5d8e-97ba-fba2e1b51bfe
+page-type-slug: story-chapter-royal-road
+title: "v6c55: Growing Roots"
+slug: 0244-v6c55-growing-roots
+partOf: beware-of-chicken
+position: 244
+ownLength: 2169
+unit: words
+ownProgress: 2169
+publishedAt: 2025-08-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2511452/v6c55-growing-roots"
+royalRoadId: "2511452"
+markedReadAt: "2026-06-29T18:59:45.876Z"
+---
+
+Cai Xiulan’s job was demanding. The hours were long. The stress ate at her like Wa Shi carefully nibbling away at something just slowly enough that he thought people wouldn’t notice before he consumed it whole. What she did decided if people lived or died, and it was a constant battle to make sure that she stayed on top of this tiger that she was riding.
+
+And yet, in spite of everything, it was worth it.
+
+Because it was working. She could see it working. The proof was right before her.
+
+Xiulan stood within the Earthly Arena, the stadium raised to its highest point. There were quite a few in the audience around her.
+
+“Zhuan Yimu of the Silent Rain Sect. Word has reached me of your righteous bearing and your composure in carrying out your duty,” Xiulan said, her voice carrying. She stood before the Young Master. He was seventeen years old. His face had not yet grown a beard. Standing at attention, his eyes not upon her, but upon his mother, the Sect Master of the Silent Rain Sect, and upon another, the Sect Master of the Stone Fist Sect.
+
+“This one only carried out his duty, Grand Marshal,” Yimu replied. Xiulan offered him a smile. Proud, but trying to remain humble. He was doing admirably.
+
+“And yet you carried out your duty, while knowing that merely a year ago you would have been killed for carrying it out.”
+
+Zhuan Yimu was the leader of a team of cultivators. They had recently received a report about cultivating bandits from Rags’ information network, and they had been dispatched to investigate. While in the process of hunting down the bandits, their quarry had fled into the Stone Fist Sect’s territory.
+
+The two sects were bitter rivals. In the past, to trespass into each other’s territory meant death.
+
+Zhuan Yimu sent a transmission ahead, and then worked with the Stone Fist Sect to capture the bandits. Then the Silent Rain Disciple and his team had presented themselves to the Stone Fist Sect in proper accordance, and with the protocols the Azure Alliance had implemented.
+
+Instead of triggering a war between sects… the Sect Master of the Stone Fist Sect had actually been impressed at the honour and decorum of the Silent Rain Sect Disciple. In their mind, he had marched directly up to people who had in the past would have held every intention of killing them for what they had done. No excuse would have been accepted less than a year ago.
+
+And yet Yimu went forward anyway.
+
+“We swore to forgive all grievances. We swore to protect the Azure Hills. That was our oath. That was my oath,” Yimu said, repeating the words that had swayed the Sect Master of the Stone Fist Sect. Yimu’s eyes shone with fire, the fire of a person who truly believed what they were saying… and was willing to accept the consequences for being wrong. “If this is worthy of recognition, then Sect Master Qin of the Stone Fist Sect deserves equal recognition.”
+
+Zhuan Yimu walked out of their once-enemy’s territory unharmed, and with the Sect Master’s blessing and praise for his bravery and commitment.
+
+With his team, they had the corpses of two cultivating bandits, Initiates who instead of choosing the path of righteousness, immediately used their newfound power to prey on others. They had killed twelve people in the nearby town, robbed and beaten numerous travellers, and other things that made Xiulan’s guts churn with fury upon reading about their crimes.
+
+They had been smart and wily enough to nearly evade capture before. In the past, their hunters would have stopped at the sect’s border… and these criminals would have escaped. There would have been another day, another week, another month of killing the innocent.
+
+Yet this time… this time, they were stopped. Another Sun Ken, nipped before the wicked bloom fully opened.
+
+“You are correct. The Silent Rain Sect and the Stone Fist Sect have both truly embodied the spirit of our alliance. We only know the worth of our words when they are truly tested,” Xiulan declared. “Both sects have shown their honour and their commitment, and have set an example for the rest of the Azure Hills to follow.”
+
+Sect Masters Qin and Yimu both swelled at the murmuring that followed her words. Neither were among the largest sects. Their hatred of each other was the most notable thing about them both, in most people’s opinion.
+
+And yet, here they were. Maybe it was basic pragmatism that had stayed Qin’s hand at the chance of crippling his hated rival’s next generation. But it wasn’t pragmatism that had the Stone Fist Sect Master looking at Yimu with respect… or his granddaughter with a bit of pink in her cheeks.
+
+For now, it was a reward ceremony for one of their first successful missions; and to set an example of what people were supposed to do. Perhaps in the future, it would be so common that it didn’t need to be commented on.
+
+But right here, and right now, it was the right direction.
+
+That deserved praise… and luckily, Xiulan had just the rewards.
+
+The Spiritual Herbs she had helped grow at Jin’s farm, and several bags of rice were very well received.
+
+===========================
+
+In addition to the fact that their Alliance was visibly working, it also helped that Xiulan had a bit less work in general. Fewer and fewer matters needed her direct attention, as people slowly started understanding their roles. Xiulan needed to step in and play mediator less and less.
+
+The news of the Demonic Cultivators… and that Xiulan actually had a plan in place had helped with that. Nobody wanted any infighting when such a threat was still fresh in their memories. Elders met with each other to plan joint defense training, to discuss logistics, and how to support each other… rather than the normal politicking and veiled words.
+
+She was certain that would return, but for the moment it was getting quiet… which gave her room to breathe.
+
+Xiulan started finishing her work in the middle of the day, rather than late at night. For the moment it was nice, but Xiulan knew she couldn’t get too used to it. She would have to go from creating to maintaining the various institutions they were building, instead of letting them run without any oversight.
+
+She had heard the story from Jin about the Cloudy Sword Sect, and what had happened to him. That would not be happening here.
+
+Still, Xiulan did deserve a little break, and so she rose from her desk and went for a walk.
+
+As soon as she opened her door, she was hit with the sounds of construction. Her office was soundproofed—at least once Delun and Biyu reactivated that portion of the formation.
+
+She headed towards the sounds, and a few minutes later she came across the source of the noise—that being the main hall.
+
+It was an absolute hive of activity.
+
+“Jiayou, Jiayou!” Gou Ren called, in his element. His muscles bulged as he pulled on a thick rope.
+
+‘Jiayou, Jiayou!’ Twenty monkeys chorused with him in Qi Speech as they pulled on the ropes with him. They were accompanied by ten other cultivators, all of whom were sweating as they hoisted a truly titanic pillar into an alcove. It was wide enough that ten men could spread their arms and hug it without any of their hands touching, and taller than a Magistrate’s palace. It was freshly carved and repaired.
+
+In other places around the hall, people were hammering away or examining parts of the room, holding up schematics against what they were seeing.
+
+“Slow! Slow a bit, we need to rotate it! Biyu! Check to make sure everything is aligned!” Delun commanded.
+
+Biyu did as she was asked, advancing with her own team of simian helpers and clambering up onto the leaning pillar. They pushed and pulled at the pillar, rolling the massive edifice carefully.
+
+“Good! Good! Good!” Biyu called as the pillar inched up, making each minute adjustment as she went.
+
+With a final, satisfying thud, the pillar finally landed on its base, and then both Biyu and Delun went to work again on the sides of the pillar with their own chisels, connecting the final parts of a subtle formation on it into the wall.
+
+“Testing connections!” Delun called.
+
+The Dueling Peaks thrummed. The cold, draughty main hall suddenly started to warm.
+
+“It's good!” Biyuu cheered.
+
+The monkeys all started hooting and hollering, slapping their hands on the ground and clambering on the various cultivators around them, who all seemed amused at their antics. Gou Ren had three jump onto his shoulders and he didn’t seem to notice the weight, instead walking over to Biyu and Delun, clasping their arms and nodding.
+
+“We’re lucky you’re here, Gou,” Delun said, shaking his head. “Never would have thought to check the backs of these things, but of course one would put the formations where most people couldn’t see them…”
+
+Gou Ren smiled at the praise. Indeed, Xiulan’s Junior Brother was already proving his worth. His and Biyu’s fresh eyes had accelerated the restoration of the Dueling Peaks… and the acceptance of the Crystal Hill Monkeys. While they had been helping Delun before, they had been skittish and shy creatures. But that shyness quickly evaporated when the monkeys were around Big Bro Gou and Big Sis Biyu. The monkeys just felt comfortable around the two of them, and that comfort gave them confidence to interact with other humans.
+
+Xiulan smiled at the scene of the humans and Spirit Beasts celebrating turning the heating back on for the main hall.
+
+She left them to it and turned, her feet taking her out of the Earthly Arena. The once tomb-like place was now full of new life. The style of their ancestors was well-preserved under Gou Ren’s watch; all of the old architecture that could be left alone was, and so even while having newly-crafted sections, it retained its old majesty.
+
+One could feel the weight of eons here. But instead of feeling like decay… it felt warm.
+
+Xiulan’s observations were repeated throughout the Dueling Town. It was lively. It was growing. The fresh water alone had many decide to simply stay for the convenience, the town around the Peaks filling up with more permanent residents now that the cultivators were staying in force.
+
+Though it was winter, the streets were bustling with people, fathers and mothers with their children—
+
+Xiulan paused. She stared for a moment at a mother and father holding their child’s hand.
+
+Ah, I knew I’ve been forgetting something… she thought to herself.
+
+She found herself before her Sect’s compound. Xiulan had mostly been sleeping in the mountain, so it had been a while since she was here.
+
+She paused for a moment. She had been very busy lately…
+
+“Young Mistress!” the Gate Guards exclaimed when she approached.
+
+“Bolin. Hua. Is father in?” she asked politely. “And is he free to have tea?”
+
+Her father traveled back and forth between their Sect and the Peaks regularly these days.
+
+“Yes, Young Mistress! He will be delighted,” Bolin said, bowing.
+
+==========================
+
+Her father was indeed free… and happy to see her.
+
+“I’m sorry I didn’t come to see you earlier…” Xiulan said, but her father waved her off.
+
+“I know duty calls, Little Orchid. I’m simply happy that we can have this time together now.”
+
+Xiulan couldn’t help the smile that came across her face.
+
+They made small talk for a while—discussing the Sect, her Petals, the quality of the moon cakes they had, but Xiulan knew she was putting something off.
+
+After a lull in the conversation, she took a deep breath and gathered herself.
+
+“Father… there's something you need to know. When I met with the Storm Wings of Soaring Heaven’s Isle… they said I looked familiar,” Xiulan carefully didn’t say what part of her body they had recognised. “They said they knew somebody that looked like me, somebody who was looking for her Little Orchid, who was sending letters, and was unsure if they were arriving.”
+
+Her father, at first confused at what she was saying, slowly widened his eyes.
+
+“...Liusei?” he breathed. There was a kind of desperate hope in his eyes.
+
+“Yes. I had them take a letter to her. I don’t know why she was sending letters. I don’t know why she hasn’t come herself, but… we might have answers coming to us soon,” she finally settled on.
+
+Her father slumped back in his seat. His hand shook.
+
+“...she still lives. Heavens be praised. She still lives… and she's part of the Soaring Heaven’s Isle Sect. Truly, she's gone far…” her Father started to ramble, his eyes misty.
+
+After all these years… her father truly did still love her mother.
+
+Xiulan let out a little breath. With hope and a bit of luck… there might be another thing being rebuilt in the future.

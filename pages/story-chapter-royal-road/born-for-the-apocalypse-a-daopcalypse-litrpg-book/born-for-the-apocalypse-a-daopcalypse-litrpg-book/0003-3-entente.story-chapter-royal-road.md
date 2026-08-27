@@ -1,0 +1,125 @@
+---
+id: 003220f6-8213-5a63-8fee-643059b69d2b
+page-type-slug: story-chapter-royal-road
+title: "3: Entente"
+slug: 0003-3-entente
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 3
+ownLength: 1140
+unit: words
+publishedAt: 2023-02-05
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1106094/3-entente"
+royalRoadId: "1106094"
+---
+
+His eyes scanned his surroundings one final time, making sure he hadn’t missed anything.
+
+To kick things off, the sun is white now.
+
+Or atleast, the light cascading into the small, forested clearing they found themselves in was white.
+
+He had briefly gazed at the sky, but couldn’t spot any celestial body in the sky.
+
+A thought crossed his mind.
+
+Are we still even in the solar system?
+
+Irrelevant. The foliage around them was dense and thick and in far too many colours to be natural. The trees were wide and tall, eerily so.
+
+Redwood trees?
+
+No, they were still too broad for that. Too broad to belong to the earth of old, for he had never heard of trees that size. They were tightly packed enough that their canopy was capable of blotting out most of the sunlight or, perhaps simply light, now, casting a dull environment in the forested landscape, even in the what should’ve been a little after noon.
+
+He took a deep breath, and immediately marveled at the purity of the air.
+
+This… Jack felt ashamed to call the country air he breathed fresh. Compared to this phenomenon he was experiencing right now. Every breath he took, it felt as if his body was purified by a small margin, almost as if there was something infused in the air–
+
+Of course. Qi.
+
+The Divine Flames had scorched Earth’s surface, replacing the air with the purifying energy that Qi was.
+
+It was more boon than bane. Well, almost.
+
+If only the System hadn’t just incentivized their group of four to kill each other off.
+
+Ah, the minor inconveniences in life, Jack wryly thought to himself.
+
+The next second, Jack watched as the system timer hit zero.
+
+Almost instantly, he took two swift steps backwards, switching to a defensive sword stance. His eyes were trained on the Ranger, who immediately nocked an arrow, but kept it pointing downwards.
+
+“Can someone please tell me what the hell is going on?” The spear wielding brunette questioned, her voice tinged with panic. Jack noticed that she’d taken a few more steps backwards than he had, her knuckles turning white from the strength she was gripping the spear with.
+
+The burly man remained rooted to his spot, his sword held casually at his side as he gave Jack a searching glance.
+
+“I have no fuckin’ clue, lady,” he finally spoke in response to the brunette, his voice about as gruff as he’d expected it to be. His tone conveyed slightly indifference, but whether that was feigned indifference or not, only time would tell.
+
+“Did you all meet the…,” The ranger was soft spoken, his voice reflecting a similar anxiety as he searched for the appropriate words, “... erm, white-robed being? He called himself the Arbiter.”
+
+“I did,” Jack finally found an opportunity to interject. “What about you two?”
+
+“Yes! Yes, yes, yes,” the brunette overenthusiastically replied, as if eager to seek confirmation that her experiences were not delusions and deliriums of the mind.
+
+The burly man offered a nod.
+
+Jack scanned the surroundings for any threat of danger, slightly relaxing when he found none.
+
+“Okay,” Jack spoke. “Is it okay if I take a moment to recall my experiences till this point?”
+
+“What’s the point?” The burly man countered, his expression a deeply distrusting one as he too, kept one eyes on the surroundings.
+
+“Confirming our experiences and pointing out discrepancies can hopefully, shed more light on the situation,” Jack answered, staying calm in face of the slight provocation.
+
+“T-that makes sense,” the ranger offered, lightly stuttering on his words.
+
+Another brisk nod was offered as a response, along with a grumbled, “Fine.”
+
+“Please,” the brunette replied, her spear lightly quivering in her hands.
+
+“So, I was at home placing some orders,” Jack began, and then gestured to the other three individuals.
+
+Catching on, they began to answer.
+
+“I was working my counter,” the black-haired ranger offered.
+
+“I was in the office,” the brunette murmured.
+
+“At work,” the likely tradesman answered, revealing none of the information Jack wanted to hear.
+
+Jack nodded, continuing,”And then, without warning, I was locked in place.”
+
+“As if I was being held down by dozens of people,” the brunette offered with a shudder.
+
+“The next moment, this fire-”
+
+“The lights,” the ranger offered with a shudder.
+
+“Yes, the lights or fire…., they simply consumed everything in their path, including myself and I’m guessing you all as well.”
+
+The brunette winced.
+
+“Well, after a short chat with the Arbiter,” Jack’s gaze sharpened as he carefully observed the other’s expressions, looking for any twitches, any tics any micro-expressions he could perceive, anything that would give him a clue.
+
+The brunette shuddered a little.
+
+The ranger averted his gaze.
+
+The burly man met his own gaze, eye to eye and Jack, intentionally chose to break eye contact first.
+
+“We now find ourselves in, what I have reason to believe, is Earth. The flora seems different, but is not different enough. The air is a little too pure, but I suppose there are no factories left to pollute it. My working hypothesis is that the blue flames spared us, or rather, modified us along with the planet, while destroying anything and everything man-made,” Jack explained, basing his guess on what he was seeing around him, the very painful fact that his gun was forcibly taken away from him only to find himself in the middle of a forest which he couldn’t make heads or tails off despite having ventured in many before. On top of that was the observation that none present had a lick of modern equipment, or even a shred of modern clothing upon their person.
+
+“What the hell does that make us?” the burly man asked, audible anger seeping into his voice as his grip over his sword tightened.
+
+“I don’t know,” Jack replied in a pacifying tone. “I know as little or as much as you do. Now, moving on to the matter at hand…,” he paused, observing the group to make sure there was no anger brewing against him, before speaking, “We are now in a forest full of genetically modified natural predators, alien prisoners, some sort of alien beasts and hidden pieces, which I assume are...well, hidden.”
+
+Jack’s words caused the group to fall into silence, even the burly man unable to raise a voice in protest.
+
+“I vote we work together,” he added.
+
+A moment of awkward silence passed, but all it took was one look at the eerily creepy forest and any thought of breaking away from the group just remained that— an errant, ridiculous thought.
+
+“Agreed,” the burly man added aggressively, as if he wanted to enforce the proposition that Jack wasn’t the decision maker here.
+
+The brunette nodded, her expression relaxing a little.
+
+“Makes sense,” the ranger nodded vigorously in agreement.

@@ -1,0 +1,161 @@
+---
+id: fee0c099-22b0-5beb-afb7-30f80954f4e0
+page-type-slug: story-chapter-royal-road
+title: "v6c44: A Most Enjoyable Journey"
+slug: 0233-v6c44-a-most-enjoyable-journey
+partOf: beware-of-chicken
+position: 233
+ownLength: 1934
+unit: words
+ownProgress: 1934
+publishedAt: 2025-07-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2423314/v6c44-a-most-enjoyable-journey"
+royalRoadId: "2423314"
+markedReadAt: "2026-06-29T18:59:22.762Z"
+---
+
+Bi De focused on the route ahead, his mind focused and pure. The blades made of Qi on the bottom of his feet dug in just enough. It was an interesting control exercise to make them duller and avoid slicing through the frozen lake. The world was flashing by with great velocity. Not the fastest he could go, but it was still an exhilarating speed. He was in his human form; his long legs pushing against the ice, and his arms swinging to keep balance. He locked on to a piece of the ice that rose up into a ramp, formed from the shifting currents below. He hit the incline at speed and let his body flow, spinning through the air. He flipped upside down, catching a glimpse of the rest of his companions with each turn, smiles on their faces.
+
+He landed perfectly of course, sliding across the ice with his one leg extended, his body low while he flowed, and smoothly transitioning back to their pace. He skated backwards and took a bow.
+
+Ri Zu and the Torrent Rider let out little cheers at his performance.
+
+“Six out of ten!” Gou Ren heckled, and he was joined with much laughter, while Bi De stuck his tongue out at the man.
+
+They cut across the ice to get to Pale Moon Lake City faster, taking the most direct route after Biyu pointed out the right direction. At first they had simply run, using the open terrain to accelerate, before Bi De had realised that there was a faster and easier way.
+
+The techniques of Ha Qi, that noble art, were most efficacious in traversing the frozen sections of the lake. For the less powerful of their number, sliding used up less stamina, so they could travel faster. Though Biyu could not form blades of Qi yet, simply pushing off and sliding had let her accelerate to keep pace, and she seemed to be enjoying herself immensely.
+
+She and Yun Ren hadn’t stopped beaming since they had left Biyu’s parents. Both of them had big smiles that were permanently affixed. And though Biyu had been mostly untied, she still had a knot of red rope around her arm; according to tradition Yun Ren was supposed to keep her ‘captured’ until he returned to the home of his family… but that was not really feasible. So Biyu had come up with a solution that ‘looked cute’.
+
+It was indeed rather fetching.
+
+Bi De loved his home, but there was something pure about travelling the world with one’s companions. The rousing campfire tales, the changing scenery, and even the friendly heckling. Especially this time. There was no weight on his shoulders; it was his turn to see what his friends had done, and it was not his duty to really do anything.
+
+He could simply enjoy the journey, and witness what others had accomplished.
+
+“What's got you so happy?” Tigu asked, skating up beside him. She was looking at the bright smile on Bi De’s face.
+
+“Travelling with you,” he replied, giving her his most winning smile.
+
+“Don't say that kind of thing to me, it's weird! Save it for Ri Zu or Yin, or anyone else!” Tigu immediately demanded, looking mildly perturbed. Bi De started laughing at his sister’s instant retort. After a moment she snorted, punching his shoulder.
+
+“I speak only the truth though, sister!” Bi De said, still chuckling. “I’m glad I get to travel with you.”
+
+There was a moment of silence between them.
+
+“I’m glad you’re here too,” Tigu finally admitted, offering Bi De a small smile. “This time you get to see what I’ve done! I have a lot of work to do here, but next time… next time, when you go hunting Demons, I’ll be there too, okay?”
+
+Her fierce yellow eyes locked with his. Determination shone in their depths.
+
+“Of course,” Bi De replied, matching her fierce look with a smile of his own. “How could I dare keep my sister from such a battle? It would be an honour to watch your hunt, and see the wicked driven before you.”
+
+Tigu puffed out her chest with pride. “Together next time then! With both of us, they have not a prayer!”
+
+Bi De smiled at his sister. Truly she had grown. There were no boasts about surpassing him, or any kind of competition. Instead, there was eagerness and certainty.
+
+She was so mature now! He was sad he had missed her growth, but he could only marvel at the results.
+
+“Truly, my little sister has grown,” he said warmly. Tigu didn’t dispute him calling her his little sister either. “I always knew you were destined for great things.”
+
+Tigu’s cheeks went pink. “That's enough flattery from you,” she grumbled, but Bi De knew if she had her cat ears they would be standing straight up with pride.
+
+Before Bi De could start teasing, however, he was interrupted.
+
+“Master! Master, watch this one!” the Torrent Rider called. Another who had grown splendidly! Teaching his first disciple was such a joy, and this journey allowed Bi De to give the Torrent Rider the direction he couldn’t while he was away. Breaking down the basics, teaching while in a human form… it taught him as much as Zhang Fei!
+
+“Let’s see, my Disciple!” Bi De demanded. The young man beamed, turned, and accelerated.
+
+Indeed, his flip was magnificent.
+
+==========================
+
+They entered the city from the docks, after carefully suppressing their Qi so as to not damage the local detection stones… if there were any in this quarter of the city yet. Bi De had been fascinated by the things, after Biyu had explained their function. A truly ingenious solution!
+
+The guards were apparently used to people entering from the docks; many people seemed to walk along the frozen lake, and there were a lot of fishermen.
+
+“Do you truly need that?” Bi De asked, watching Xiulan put on a cloak that would hide her face.
+
+“Remember the time in the Verdant Hill market?” Xiulan reminded him.
+
+“I retract my question,” he replied, remembering the looks and comments.
+
+Xiulan gave him a wry grin that was interrupted as they sensed two approaching men, guards. These ones had no pendants and at first approached swiftly; their eyes fixed on their group.
+
+“Names and business—” the lead guard started, his voice bored… before his eyes suddenly widened, locking onto Xiulan’s eyes and he choked. “—Demon-Slaying Orchid?!”
+
+Xiulan turned to him and raised a finger to her lips. The man swallowed and immediately bowed.
+
+“W-welcome to the city, Lady Cai,” the lead guard stammered, his voice much quieter. The other was struck dumb, simply staring… before his partner punched him in the stomach. The man instantly folded in half into a bow.
+
+“Thank you for the warm welcome,” Xiulan replied. “I hope the cold is not too bad.”
+
+“No, Lady Cai! Never, Lady Cai! The fires and coats are good!” the doubled over man squeaked out.
+
+“Then may your shift be uneventful,” she said with a smile. Both men looked starstruck as they passed them by into the city.
+
+Biyu sent a message ahead to give the Masters of Mengde’s Crystal Emporium time to assemble
+
+They traveled the streets together, stopping at a food stall Biyu enjoyed; cities were distinctly human experiences, Bi De had found, if one wanted any true enjoyment out of them. The city was beautiful in winter, with a soft blanket of snow on the rooftops, lanterns and hearths burning.
+
+They wandered past the high end restaurants, and made bets on which had their Master’s rice and maple syrup within.
+
+It was a most enjoyable time, until they were approached by one of the Crystal Emporium’s men.
+
+“They’re ready to receive you now, my lady,” the man told them, bowing low to Xiulan.
+
+“Thank you. We shall meet with them shortly,” Xiulan said.
+
+==================================
+
+They met the Crystal Masters in a well-appointed meeting room; it was a little bit like the meeting rooms the Shrouded Mountain Sect had, rooms meant to display wealth and power—though the Crystal Emporium could never even come close to that wealth, so the room was less gaudy. Crystals adorned the walls, the tables were lacquered and smooth, and the seats were actually quite comfortable.
+
+The five Masters of the Emporium greeted them, three men and two women bowing low. Bi De only recognised the man in the center, Master Jing... as well as the monkey on his shoulder, who now looked significantly more alert.
+
+Bi De offered him a smile and nod, along with Huo Ten... but most of his attention was on his fellows. Bi De stayed near the back, watching the greetings and the way his friends arranged themselves. Xiulan’s presence was very interesting, the aura of regal authority settling on her shoulders with grace, the others adding their own presence to Xiulan, all of them greater than the sum of their parts.
+
+It was a magnificent view.
+
+The mood was light as Biyu had informed them that it wasn’t anything truly dangerous to report.
+
+That mood lasted until Xiulan told them what caused the Qi surge that had broken all their pendants.
+
+The stunned silence reigned.
+
+“Soaring Heaven’s Isle? Flying over us?” Master Jing asked, his voice faint. “But... but why would they ever…?” his voice trailed off.
+
+“Some of this information is only privy to cultivators,” Xiulan said lightly. The crystal carvers slumped, and Xiulan’s lips twitched up. “It would be best for this to be revealed at the Dueling Peaks… and naturally, Mengde’s Crystal Emporium is invited to the summit.”
+
+Master Jing paused at Xiulan’s words. “We thank you for the honour, but… we are mortals. Is it truly our business?”
+
+“Mortals?” Xiulan asked with a small smile, and gestured to Biyu. The Masters of the Crystal Emporium’s eyes widened as she stepped forward, flaring her Qi, and causing the stones around them to rattle.
+
+“Biyu?!” Jing asked, his voice halting. “You’re…?”
+
+Biyu clasped one fist in her palm. “Yes, Masters. This Biyu has ignited her dantian and become a cultivator.”
+
+“And… you’re staying?” another Master asked, her voice hesitant.
+
+Biyu bowed. “You have given this Biyu so much, and that requires repayment. But more than that... this is my dao. My future is in the art of crystal carving. It is the only path I want to walk.”
+
+Her declaration brought the Masters once more to silence. Then, Bi De saw hope. Their eyes shone.
+
+The Crystal Carvers bowed back to her.
+
+“Then Biyu of no surname—no, Cao Biyu, heir of our founder; we pay our respects to the future of the Crystal Emporium.”
+
+It was Biyu’s turn to look stunned.
+
+==========================================
+
+They left Pale Moon Lake City the next day, though Biyu was still a bit shocked at her sudden promotion… and her new clothes.
+
+Though she was pouting a bit at them.
+
+“I liked my coat!” she whined. Biyu was now wearing a very much more form fitting dress—one with a fur and cloth mantle, shoulder-length gloves, and fine boots. One of her arms was bound with Yun Ren’s red rope, and her tribal scarf streamed behind her. Her goggles had been replaced with odd wire lenses, the crystals within tinted purple, the formations upon them so small they were invisible.
+
+“What's stopping you from wearing it?” Yun Ren asked.
+
+“With this? It will clash!” she retorted, a whine in her voice. “The scarf looks good with it, but anything else…!”
+
+Bi De listened with amusement to Biyu’s attempts at accessorizing all the way into the Grass Sea.

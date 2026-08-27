@@ -1,0 +1,233 @@
+---
+id: c945a2bc-2da6-50ab-b68b-1f2e5d571516
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 37 - Life’s Subtle Changes"
+slug: 0042-book-4-chapter-37-lifes-subtle-changes
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 42
+ownLength: 5515
+unit: words
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2877547/book-4-chapter-37-lifes-subtle-changes"
+royalRoadId: "2877547"
+---
+
+One of the worst parts of spending the vast majority of her life locked in war was that “rare” occurrences tended to accumulate as time passed. It was “rare” for the shimagu to attack during moonless nights, since their hosts were seldom well-suited to seeing without light. Yet Ranthia had been forced to remain home through three overnight battles, been trapped atop her tower (under the former Base Commander, at least) while others fought four times, and fought—while blinded by her curse—back-to-back with the blessedly incurious dwarven [Battlemaster] a year or three ago.
+
+Casualties amongst the wall defenders were “rare” during battle, but Ranthia had lost track of how many familiar faces had fallen in the line of duty—while “safe” atop the walls.
+
+Outside of the twins, shimagu [Mages] that wielded enough raw power that they were capable of directly threatening Remera were “rare,” yet Ranthia had personally purged at least eight.
+
+Naturally, battles waged beneath furious storms were “rare,” and yet…
+
+Ranthia swore and shifted to another image, just to clear the water from her eyes. Not that it helped much; the new image was already drenched too. The ogre twin that she was engaged in battle with just roared and—after looking furiously about for several moments—charged her new form.
+
+He wielded a massive two-handed sword—oversized, even at an ogre’s scale—that Ranthia had learned the hard way could slice clean through her laminar vest—along with her bones and organs. And may each of the gods and goddesses bless whoever invented mistweave, otherwise Ranthia would have been forced to fight with one of her breasts on full display and she had no interest in dealing with the inevitable crass commentary from delighted legionaries.
+
+She was [Sexy] for those she chose; she had zero interest in being a piece of meat for the masses to lust over.
+
+Another clang echoed across the battlefield, splashing the water that flowed about them, as Ranthia once again parried another blow from the ogre. She had long been chagrined by the Skill’s over-the-top name, but [Higher Power] had consistently proven its utility (and perhaps even the worthiness of its name). Even capped at the paltry level of 216, she was able to endure blows that should have splintered bone or robbed her of limbs—so long as she caught the strike with her adamantium. It still hurt, but pain was an old companion that she could tolerate.
+
+Someday, she really needed to learn why her third class seemed to almost refuse to level. As it neared the 256 class up, it slowed more and more, no matter what feats she accomplished. But it wasn’t like she could spare any attention for her various theories while she fought the latest twin.
+
+He might have been one of the ‘newest’ shimagu twins, but he was shockingly powerful—especially considering that Ranthia out leveled him. Legion intelligence first documented the ogre barely a decade ago, but he had become something of an infamous nuisance ever since his status as a twin was confirmed. Even with Ranthia’s nearly sixty level advantage, his strength and the Skills that he and his parasitic partner possessed made him unpleasant to face off against, to say the least.
+
+The cloud cover was so absolute that the sun had no domain over the battlefield. The sprawling skirmish was primarily illuminated by flashes of lightning as men and women fought and died. Within that inconsistent gloom, Ranthia partially parried another horizontal slash from her opponent, which bought her the time required to dance out of the attack’s range. Her own Skills and dexterity kept her footing firm, even with the slippery, blood-soaked slurry that ran under (and through, ugh) her sandals. In the precious moments she could freely act while her opponent was facing the wrong direction, Ranthia put her greater speed and dexterity to work—with a deft pivot, she delivered another strike to his blade, one that was fully empowered with [Void Edge] and [Echoes of Devastation]. Whatever fortification Skill(s) kept his weapon intact were potent, but Ranthia was unmistakably inflicting damage to the oversized steel sword.
+
+[Vision of the Void] let her see it quite clearly, no matter how poor the visibility was.
+
+Her opponent’s sword was coated in Ooze that seemed to maintain it and sharpen the blade’s edge—her attempts to blunt the sword had proved fruitless, at least. Aside from his obnoxiously effective passives, the twin seemed to be conserving his mana while he fought—most attacks were driven only by his own (admittedly impressive) strength. But he had already revealed at least two different Skill-empowered attacks. The nastiest was a driving thrust that was powerful enough that it was effectively impossible for her to block—she was forced to dodge every time he used it. Beyond that, he had a Sound-based cleaving attack that unleashed a dense shockwave of Sound—one nearly as potent as what the dwarven [Battlemaster] was capable of. And Ranthia was beginning to suspect that there was some active defense-focused Skill that let the twin foul every potentially fatal attack she made.
+
+Six combat classes unified in a single body. The shimagu twins had always been a mixed bag, but the remaining twins were survivors—experts in combat that were tempered through endless conflict. With the faux-twins, unconfirmed reports, potential redundant reports, and the sheer number of twins that seemingly disappeared without a confirmed kill, it was impossible to know how many twins were truly out there. But somewhere along the line, they had ceased to act as pompous lords that played their own games. Instead, they became the aces for the shimagu, much as the Sentinels stood at the apex of Remus’ Legions.
+
+Not that it stopped them from being murderous pieces of shit. The ogre gleefully cut down anyone that got in their way—ally or enemy made no difference. The parasite-ridden man possessed a brutal arrogance that reminded Ranthia entirely too much of the troll twin from so long ago.
+
+Ranthia was all too aware of her opponent’s strategy: he was purposefully driving her toward Remera’s walls, and he wasn’t even slightly subtle about it. Ordinarily, it would have been an act of self-destruction, but with the storm’s fury, the defenders atop the wall were largely unable to contribute to the conflict. The siege weapons, including Remera’s trio of dwarven artillery installations, remained silent. Few in Remera possessed the Skills necessary to confirm friend versus foe in such extreme weather, especially with the usual lines of battle diffused into a chaotic grand melee.
+
+Granted, Ranthia wasn’t entirely certain if her opponent was hoping to corner her against the walls in an effort to neutralize her advantages or if he hoped to carve through Remera’s defenses and take the battle inside—much as the winged twin had. Largely, it was irrelevant. Her opponent’s absurd reach and breadth of Skills he wielded as a twin hampered her ability to kill him, so she needed to destroy his weapon. An easy enough strategy, except his blade was still in one piece.
+
+…And she was paces away from bumping against the wall.
+
+Her opponent struck again, which forced her to activate [Void Edge] and parry the strike—once she confirmed it wasn’t one of his Skill-infused attacks. Steel met adamantium, a wall of force deflected the downpour for a precious instant, and the leather strips that protected Ranthia’s butt hit stone. Ranthia gritted her teeth through the surge of pain that travelled up her arms as she tensed herself to launch forward, yet even before she could move, her opponent’s blade came again.
+
+It was as if he had some sort of Skill that reversed momentum—something he had never shown before. In the span of an instant, she weighed evasion against defense. But that wasn’t a fair way to frame the question; in truth, she weighed her ability to defend against Remera’s. And in that instant, she chose to trust her adamantium and her own capabilities above mundane stone and the unknown classers that empowered it.
+
+Besides, it wasn’t like there was a Skill behind the attac—
+
+Ranthia shook her head in an effort to clear it as she clawed her way back to her senses. Her entire body tingled, as though it was still wracked with vibrations. Vertigo warred with her desperate efforts to force herself to her feet.
+
+“You okay, Grace?!” An inexplicably familiar voice demanded.
+
+Ranthia shook her head again. Her vision seemed… squiggly and it was hard to make things out. Her mouth was filled with the metallic taste of her own blood from a wounded lip, or perhaps her numb tongue was to blame. Everything felt distant and unclear—a cacophony of shapes and sounds without context.
+
+Ranthia shoved it all aside, mentally, and focused on conjuring a new image before she activated [Reflections of Reality]. Interminable moments later, her perception warped, and she returned to her senses. Someone else had engaged the ogre twin in her stead, and Ranthia’s bloodied body that she had escaped rested against the spiderwebbed cracks of the damage that the twin’s Sound attack inflicted to Remera’s walls—even with her in its path.
+
+That was far more impressive than anything the twin had shown previously; he’d managed to fight her—despite her level advantage—and held back in multiple ways. She was begrudgingly impressed, even if she was furious with herself for enabling it. In the moments she had been left insensate, the conflict had become far louder, and the sounds of horns battled with the thunder for dominion over the battlefield. While a new face took over Ranthia’s role in the battle.
+
+A heavily armored—in Reman-styled gear—person wielded a massive shield that deflected every blow the twin made. The shield-bearer barely budged with each strike, yet the ogre was visibly struggling each time his blade blew backwards from the shield, as if his attack’s power had been reflected back upon his own blade.
+
+And Ranthia knew that shield. She hadn’t seen the shield—or the woman that wielded it—in many, many years. In all honesty, she had never expected to reunite with the woman ever again, not since she left Remus to rejoin the war. But life still had surprises for her, it seemed, even at her age. No matter how much time passed, there were some names that Ranthia would never forget.
+
+“Amphea?!” Ranthia shouted the woman’s name against the combined furies of nature and battle.
+
+“That’s Sentinel Steel, ma’am! You’re recovered, so let’s finish this sack of experience off!” Ranthia’s former comrade from the Unbreakable Image called back, even as her terrasium shield continued to render the overpowering ogre twin’s strikes impotent.
+
+Ranthia grinned and threw herself back into the fray. The ogre tried to refocus his efforts on her, but Amphea—or whatever her Sentinel title was—stymied his every attempt. Ranthia inflicted several wounds on the ogre, before she switched back to her prior strategy. Even with Sentinel Amphea’s (no) help, their opponent was a proficient enough [Warrior] that breaking his weapon remained prudent.
+
+All around them, Legion reinforcements—seriously, was everyone ignoring the dramatic storm?!—joined the fray and culled shimagu warriors from the field. The twin fought desperately, but just a few minutes after Ranthia and her former comrade joined forces, his blade ended up caught between unyielding terrasium and Void-kissed adamantium—and no matter how many Skills reinforced it, mundane steel stood no chance.
+
+Ranthia roared with triumph as her knives finally cleaved through the twin’s sword.
+
+To his credit, the twin reacted quickly to his new reality. Even as just over two thirds of his sword clattered into the murk at their feet, he brought his newly shortened blade down in a powerful overhead strike—and activated every Skill that he and his parasite could.
+
+The wall of Sound forced Ranthia back, even as a powerful blast of Light fought against her vitality in an effort to rob her of her sight. Ranthia was ready for a follow-up from her opponent—he had no way to know that she was something of an expert at fighting blind—but it never came. Moments later, Ranthia blinked her eyes clear and witnessed Amphea unmoved.
+
+Yet the twin was gone.
+
+Sentinel Steel hadn’t been able to stick around. She was playing escort to a Legion supply convoy due to an uptick of attacks they had faced. An unlikely hero had carried word of Remera’s plight through the storm, so she grabbed the half-century that made up the convoy’s escorts and rushed to the rescue. Ranthia hadn’t been able to hear the arrival of her old friend and comrade, but Amphea heard the blow that had knocked Ranthia senseless.
+
+Seriously, it was an important life lesson: never again would she allow an opponent to hit her with a powerful Sound attack. Not that she’d seen the Skill coming, but she had allowed herself to become entirely too complacent during the battle. She had assumed that her own prowess would have forced any opponent to use every trick that they had, but she had managed to underestimate just how much more skilled the modern twins could be, compared to the twins she had fought during the earlier stages of the war.
+
+Ranthia wasn’t just grateful for the assist—she was damned proud of her former soldier. Sure, there were more Sentinels than ever—they had been divided into the War Sentinels that fought the shimagu and the Security Sentinels that protected Remus for many, many years—but Amphea had grown so much. She had well over one hundred and twenty-eight thousand vitality, which allowed her to wear her age with pride without diminishing her prowess, even as she moved further and further from the prime of her life. But she was only human, and no amount of vitality granted immortality—all it could do was slow the ravages of time, little by little.
+
+Still, it was a real pity that Amphea and her convoy had to move on as soon as the wagons were done delivering cargo to Remera—Ranthia just knew she would have loved to watch the unlikely hero’s award ceremony.
+
+“She braved the fury of nature to bear word, which brought aid when we needed it most. We shall never forget this deed, even if she never understands what it meant to us.” The base commander gravely announced, before he hung the gleaming phalera on the bird’s cage.
+
+The [Tamers] responsible for the birds had formed a wall of silence—none of them were willing to claim responsibility for attempting to send a bird into that storm, just as no one among them was willing to single out who had—but the bird had, against all odds, continued forward through the storm. Even when her wings became too soaked with water to fly, the bird gamely pressed on across the ground, until she happened to luck upon the convoy that rescued her—and found the message that she bore. But even as they remained stoic and silent, everyone else in the command tent cheered for their unlikely savior.
+
+Sure, Remera would have (probably) weathered the unexpected attack, but that bird had undeniably saved lives—quite possibly including Ranthia’s. And she was already planning to see if Avyna could source some better food for the heroic creature.
+
+If she had her way, she would see that bird fat and happy for the rest of its days.
+
+“<Have I ever told you that you’re beautiful?>” Ranthia let the awed whisper pass through her lips as she admired the woman that she loved—along with everything that Avyna had on display in her current attire.
+
+“<I believe that it has come up at some point, though I do so enjoy hearing your praise.>” Avyna practically purred.
+
+“<You are the most amazing woman that I have ever met, and I live each and every day in disbelief that you were willing to give me the opportunity to fall in love with you. You possess a beauty that no [Bard] could ever hope to adequately describe, and your inner self is even more dazzling. I love you, Avyna. You mean the world to me, and no matter how many times I behold you… Well, to say the least, I’m left in awe each and every time.>” Ranthia’s words were shameless, but she meant each and every one.
+
+For her, perfection could be found on Pallos.
+
+And Ranthia eagerly proffered herself to its embodiment.
+
+The cunning of the shimagu couldn’t be overstated, but sometimes—and only sometimes—it was difficult to remember why. Atop Remera’s walls, Ranthia stood among the archers and [Mages] that unleashed devastation upon yet another shimagu assault.
+
+…Namely, a massive mob of dinosaurs. Almost exclusively herbivorous dinosaurs, at that. Based on the army kill notifications, less than half of the beasts even had a parasite in them—as best anyone could tell (and their [Analysts] were really trying to find method to the shimagu madness) the shimagu chose dinosaurs for their tendency to travel in herds, rather than any factor that might have been actually useful.
+
+Honestly, Ranthia had mixed feelings about culling the attack. They could have ignored the threat entirely and let a few infected beasts brain themselves to death on the walls without accomplishing anything, but the base commander was taking no chances. Which was fair; by all rights, the shimagu inside the beasts should have been using Skills.
+
+Yet they weren’t.
+
+Ranthia was forced to watch as Remera’s defenses purged the threat until the shimagu either gave up or died out, just in case it proved to be some sort of bizarre feint. But as the hours passed, it became increasingly clear that it was exactly what it appeared to be: inexplicable and ineffectual.
+
+Ranthia had more than a few questions, but it wasn’t like reality was ever kind enough to provide answers.
+
+“Grace. My sincere apologies for the disruption.”
+
+Ranthia was really sick of getting dragged out of bed late at night, half-awake, to discover Sentinel Night at her doorstep. Yes, it had only happened a handful of times, but that was a handful of times she could have happily lived her second—immortal—life without. As always, the unexpected surprise was enough to jolt the drowsiness out of her mind and leave her on edge.
+
+Not that Night gave her time to recover.
+
+“I shall aspire to remain brief.” The vampire began, without a hint of irony. “I have come to request your services for an unusual task, but I believe it is one that you are, perhaps uniquely, well-suited to. This is Sentinel Pierce, newly appointed to the ‘war’ branch of the Sentinels. As you have undoubtedly noticed, his current levels are suitable to Remus, but he is not yet ready to stand on his own beyond Remus’ current borders.
+
+“I ask you to assist with his training and oversee his initial forays into the war. He has the potential to become one of the greatest among us, and I believe that you are the best candidate from our current ranks to help him achieve his true potential.”
+
+Ranthia—somewhat stiffly—turned to face the smiling young man that stood at ease just a pace behind Night. His bright, brown eyes spoke of a young man—roughly the same age as Ranthia physically appeared—who was full of unshakable self-confidence. He boldly stepped into Night’s personal space to lean around the still-terrifying predator so he could offer her his hand while he introduced himself with a charming, dazzling smile.
+
+Not that Ranthia felt anything other than dread at the sight of him.
+
+Ranthia had initially assumed that the newest Sentinel was around twenty-four, but—much like how she wasn’t matched to the age she appeared—his chiseled visage was highly misleading. But while Ranthia was not-so-secretly eighty-six, Pierce was several years younger than he appeared. At least he proved to be far more polite and courteous than Ranthia’s initial impressions of the twenty-year-old suggested.
+
+The downside was that he was far, far more arrogant than anyone would ever expect if they only experienced his impeccable manners while he was at rest.
+
+“Don’t worry about me; I’ll match your level in no time, ma’am!” The dark-haired pretty boy waved off Ranthia’s final lecture about the dangers of the shimagu with an unbothered laugh.
+
+“You’re not even in your four-hundreds yet, kid. Just stick near me when we sortie out so I can cover you.” Ranthia groused.
+
+Eighty-six years old, level 738 as of last season—likely one of the highest-level humans in the world—and she was stuck babysitting some upstart eager to get himself killed. Never before had she felt her age so keenly; she was very much too old to deal with such stupid shit.
+
+“I’ll need a little space, but we can see if the old gen can keep up with the modern standards of the Sentinels.” The kid boasted, even as he gave her a smug grin—as though he was seriously challenging her!
+
+“The kid is going to get himself killed, and Night’s going to blame me for it.” Ranthia subvocalized her complaints.
+
+They were preparing to intercept a shimagu scouting group that was sneakily making its way toward Remera. Scouts had pegged them, but Ranthia claimed the opportunity to test the mettle of her unwanted student. The group was nearly ideal: four shimagu that were around the kid’s level, and another two that barely had their third classes. Undoubtedly the four lower-level shimagu were meant to be sacrifices to buy time while the more important duo escaped with word of whatever they discovered—it was a common enough tactic for shimagu scouting parties—but Ranthia had no intention of giving them the chance.
+
+The plan was simple, Ranthia intended to take out the two ‘elites’ while the kid clashed with the lesser shimagu. If things went poorly for him, she was optimistic that she could eliminate the two triple classers and back him up before he managed to bluster his way into Black Crow’s talons. Worst case, she could let the shimagu run and trust the Remeran scouts to eliminate them. But the kid needed to learn that war wasn’t like the round he had spent as a Ranger—the shimagu weren’t (…usually) mindless beasts that would impale themselves on his spear with a bit of goading.
+
+But the kid had no interest in her last-minute wisdom, so Ranthia held her silence until it was time to act. With a few Ranger hand signs, they coordinated their movements and timing until, at last, the time to strike came. Ranthia could have used an image and shifted, though she chose not to bother. The shimagu scouts were probably chosen for their speed, but Ranthia had nearly two hundred levels on them—there was no contest.
+
+The ogre and human had barely reacted before she drove them both away from the other shimagu. The kid had requested some space to act, so she gave him what he wanted. But even as she drove her knife through the human’s neck, Ranthia kept her eye on the kid.
+
+The spear-wielding Sentinel seemed to build up more and more momentum with every step that he took. By the time he reached the confused mass of shimagu pawns—about the time Ranthia finished disarming the ogre—he hit them with enough power to scatter them. The shimagu tried to respond, but Pierce wasn’t just faster, he was better. The first true thrust of his spear reduced everything above an ogre’s prominent chest to a spray of viscera, and the second erased a stone spike that a hostile [Mage] had conjured.
+
+By the time the brief battle was done, Ranthia was ready to admit that the kid’s confidence wasn’t unearned. She still fully intended to beat it out of him—Hunting style—but it was a relief to know that there was actual talent beneath the swagger.
+
+Pierce not only survived under her—he thrived. Despite his outward personality, the young man undeniably absorbed every lesson and guidance that Ranthia—or life itself—had to offer. Even when things went poorly, he faced the result with an effortless smile and a conscious effort to do better. And Ranthia had to admit that once he unlocked his third class, the young man was truly devastating on the field of battle.
+
+He was a triple classed [Warrior] with Mantle, Gale, and Mirror for his elements. And with his spear in hand, the man tore through the shimagu and their hosts with uncanny ease. Every thrust had an outsized effect, tearing an ever-escalating swath through all that stood in his path. The higher his level climbed, the more his kill speed outpaced Ranthia’s best. He truly had the potential to become a man that could single-handedly crush an army.
+
+But every time a twin or a particularly powerful shimagu joined the fight, he fell back and allowed Ranthia to take them on. The kid was confident, but (thank Xaoc) he wasn’t an idiot. Ranthia’s build allowed her to punch up against a wide variety of classers—and she fared decently against most others. Pierce, on the other hand, chose a somewhat counterintuitive build: he excelled at punching down. Against lesser opponents, he was a nigh-unstoppable force of devastation, but the shimagu elite often proved to be more than he could match.
+
+Which was why, when the shimagu were absent, Ranthia beat the shit out of sparred with him. The kid’s Skills were focused on area of effect and generally lacked concentrated strikes, but his passives were solid. And slowly, over the course of their time together, he came to master a secondary combat style that helped him to bridge the gap when he needed to face stronger opponents.
+
+“Sorry I’m late!” Ranthia called out as she entered her home.
+
+Avyna shot her an exasperated look while she finished serving the final dish. Glorine and Gailla were already settled in, utensils in hand as they eyed the food hungrily. Ranthia might have been too busy to help with the cooking, but at least she had managed to get the meatbath together the night before.
+
+Ranthia grabbed the tunic that was waiting for her and shifted into an image wearing it, then hurriedly racked her armor. With that done, she twirled over to share a quick kiss with Avyna, before she allowed the love of her life to (playfully, honest) shove her onto her place on the bench.
+
+The mug of hot, spiced cider was almost as revitalizing as the kiss was. The day was cold, but Ranthia had spent the entire day sparring, starting mere minutes after dawn restored her sight.
+
+“And how did it go?” Avyna asked in Creation while she settled in next to Ranthia.
+
+“I’m eager for the kid to get transferred off on his own.” Ranthia answered, favoring her beloved and their friends with a wry grin.
+
+In many ways, it still felt as though Pierce had just recently been inflicted upon her, but it had been five years. And no matter how concerned she was that he was still young—as if many of the legionaries stationed at Remera weren’t far younger—he truly was ready to face his own assignments. Especially since, with the fighting around Remera growing rarer and less intense in recent years, it was difficult to justify keeping two Sentinels assigned there.
+
+Honestly, Ranthia was growing concerned that she would receive orders to leave her home and move to a more active hot spot.
+
+Cozy, Ranthia indulged in unrepentant couple behavior with Avyna. They kept an arm around one another and ate one handed—occasionally teaming up when they needed to cut something off their shared plate. Ranthia even enjoyed feeding Avyna the tastiest morsels from time to time. Every single day with Avyna was undeniably precious, and it wasn’t like Glorine and Gailla were any less of an insufferably cute couple. It was part of why they got along so well.
+
+But there was plainly something weighing on their friends’ minds while they shared a delicious meal. Wordlessly, Ranthia and Avyna agreed to give them time. If the other couple wanted to share—or needed advice—they would speak up once they were ready. …And, admittedly, Ranthia was pretty ravenous. She hadn’t eaten since the light breakfast she choked down while she was blinded—before dawn came—then kept herself busy until well after nightfall.
+
+Her stomach and her heart both were in dire need of sustenance.
+
+Food had been devoured, and everyone except Ranthia had finished their dessert. Ranthia tried, she seriously did, but the berry pie that Avyna had baked was just too sweet for her to stomach. Instead, she met Avyna’s (probably playful) glare with a loving smile while the four of them rested in amicable silence, each couple snuggled against their own partner.
+
+Ranthia had nearly drifted off when their guests broke the reverie.
+
+“So… There’s something we decided on. We wanted the two of you to hear about it before anyone else.” Glorine began, her voice oddly stiff.
+
+Ranthia and Avyna made identical noises of polite curiosity, unintentionally fixing their friend with eerily similar expressions of interest.
+
+“I’ve told you both to cut that out, it’s creepy.” Gailla grumbled, though she was unable to stop her smile.
+
+Ranthia narrowly managed to keep her expression intact, at least until Avyna succumbed and let a few hidden giggles out into the side of her deft wrist.
+
+“Anyways, seriously. This is kind of big, I guess? Because when Spring arrives, we plan to formally retire.” Glorine continued, since her wife seemed to be wholly distracted with glaring. The tone and the expression Ranthia’s messenger wielded were somewhere between hesitant and apologetic.
+
+“…What?” Ranthia asked before she could stop herself. Her previous good humor and cheer left her in an instant.
+
+“We’re both well over eighty years old these days, hon. While we’ve got some life left in us, we want to head back to Remus.” Gailla explained. She seemed to be far more resolute than her wife.
+
+Ranthia blinked and slowly peeled her blindfold off while she forced herself to truly look at her closest friends. Gailla’s hair had changed so gradually that Ranthia scarcely paid attention to the fact that she had gone completely grey. Glorine’s hair had thinned a bit, though she still had traces of her brown. Both women were covered in wrinkles that Ranthia had never really paid much attention to—once-subtle lines that developed and deepened over the course of years.
+
+The duo might have lived on the front lines, but they remained safe inside Remera’s walls—their experience quality had suffered for it. Also, Glorine was a [Messenger] and Gailla was an [Analyst]. On average, the two faced nothing more threatening than a papercut or overly ambitious deadlines inflicted by those that outranked them.
+
+Old, familiar math suggested that both women had the levels—or rather, the vitality—to beat the 150-year average lifespan, but probably not by too much. Most likely, both women had lived more than half of their lives already. …In truth, their advancing ages had undoubtedly put Ranthia’s closest friends into a state of perpetual decline.
+
+The cruelty of White Dove’s precious mortality had been on plain display—for years—and Ranthia had somehow allowed herself to be blind to it.
+
+“What will the two of you do?” Avyna asked, with a warm smile. Her wealth of experience left her unbothered—gods, she probably knew the day was coming.
+
+But Ranthia wasn’t so composed. Sure, she had seen almost uncountable people die, but it was always to violence. Between them, Avyna was the only one who had seen the gradual decline of the body until the inevitable conclusion that White Dove demanded. For all that Ranthia continued to claim unfamiliarity with her own immortality, it had colored her expectations. The war seemed unwilling to truly change, which made it all too easy to pretend that Pallos itself had become static.
+
+But her precious friends were all too mortal.
+
+Realistically, Ranthia knew that people she had known—and even some that she had cared about—had either succumbed to old age or otherwise left the world while they were out of Ranthia’s sight. Fausteo for certain had moved on, there was frankly no way that the dance master still walked Pallos. The loathsome man that her mother had married would be in his final days, assuming he still lived. Numerous minor acquaintances were undoubtedly gone. …By Xaoc, it was possible that even Green had passed on; she hadn’t exactly been young when Ranthia last saw her, over seventy-eight years ago.
+
+While her lover and friends prattled on, Ranthia found herself shaken. She hadn’t felt so disconnected from humanity since her horrific final year in Remus, yet she had completely lost sight of what it meant to be mortal—something that she would have assumed to be impossible. She’d lived as a mortal! She had even died once! What the passage of time truly meant shouldn’t have been something that she could have ever become blind to!
+
+Thank Xaoc for Avyna. Moments into her spiral, her perfect elf noticed and squeezed her a bit tighter. The simple gesture reminded Ranthia that she wasn’t alone—the person that meant the most to her knew exactly what she was going through and was there to support her.
+
+…At least for another twenty years.

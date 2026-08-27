@@ -1,0 +1,215 @@
+---
+id: 8a0a1d8b-e2f7-55d1-99f8-a9f36d8c13da
+page-type-slug: story-chapter-royal-road
+title: "v6c3: The Forest and the Trees Part 2"
+slug: 0191-v6c3-the-forest-and-the-trees-part-2
+partOf: beware-of-chicken
+position: 191
+ownLength: 2869
+unit: words
+ownProgress: 2869
+publishedAt: 2025-03-13
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2123172/v6c3-the-forest-and-the-trees-part-2"
+royalRoadId: "2123172"
+markedReadAt: "2026-06-29T18:57:52.250Z"
+---
+
+From there they continued their tour of the grounds, much to Shou’s delight.
+
+The bathhouse teemed with Spiritual Herbs, like walking into a hidden grotto of surprising quality—similar to the one he had ventured into in Pristine Lotus Vale, where he had first acquired these seeds, near four hundred years ago. Steam filled the air, and mortal plants.
+
+“Of course, we’ll have a bath prepared for you tonight. The herbs do make for a nice experience.”
+
+It had been a long time since Shou had had an actual bath, rather than simply using his Qi to cleanse his body—yet he was looking forward to it.
+
+The fireplace of the main house was resplendent with Volcano Ginseng, the Spiritual Herbs poking up from around the charcoal and filling the room with a pleasant smell. Heat and flame made them grow.
+
+“We actually started these in the glass furnace—they need toxic fumes from volcanic vents for their initial growth period, and we were able to replicate those with the glass we were making, thanks to Miantiao,” Jin continued, nodding to, of all things, a snake. The Spirit Beast bowed politely at the acknowledgement, and then returned to his work with a silver-haired woman, stoking the flames.
+
+The cold storage contained a tangled curtain of Snow-Phoenix Vine, the soft, pale leaves swaying in the underground breeze as Young Jin fanned them rather vigorously.
+
+“Now these ones are annoying. I have to fan them at least once a day—and hard enough that they look like they’re going to rip off the walls! Polar storms are no joke!”
+
+Shou gazed upon each solution, so mortal in its implementation, yet holding treasures of cultivation. Each and every one was ingenious—especially the method he used to infuse Qi into them. This was truly the height of artistry. Shou, at the apex of the Sky Realm and halfway into the Imperial Realm, could only bow his head before the work of a fellow master.
+
+It truly was too bad Shen Yu had found him rather than Shou. The urge to add this talent to his family was nearly overwhelming, and adoption would have been the most expedient course.
+
+There was also marriage. His union with Yukong had of course produced fruit, as the Founders had decreed all true unions should. And though the Great Enemy had claimed their children, their line still continued in two great-great grandchildren still at the Sect. Core Disciples who had known nothing of the rot, thankfully.
+
+Though that held less appeal. Firstly, because that meant he would be kin with Shen Yu. The second reason?
+
+Shou saw the way Jin and his wife looked at each other. It was the same way he looked upon his wife, and Shou desired no woman but Yukong. Adding another woman to that would be difficult at best.
+
+His mind thus consumed, Shou had to admit that he let some of the tour pass by him. He did not think he missed anything too important, but he would speak with Yukong tonight.
+
+They reconvened in the greenhouse—an accurate name indeed—and as the formalities of the introduction to his house were completed and refreshments started being set out by a pink-haired servant. Meanwhile, Jin pressed a scroll into Shou’s hands.
+
+“These are all of my notes on how every Spiritual Herb is grown, including the ones I can’t. They are the ones that need altitude and atmospheric conditions I can’t provide,” Jin said.
+
+Shou took the scroll with the respect it deserved. Shou hadn’t really expected anything from Rou Jin; the seeds had been a gift at the end of the day, and an apology from the Sect. The seeds themselves were relatively useful for cultivators, so if the young man had decided to refine them that was perfectly acceptable, too.
+
+That he had grown them was one thing. That he was willing to share the secrets of their growth, rather than just keeping them to himself, was quite another.
+
+Shou made the gesture of respect.
+
+“It may mean little to you, but Rou Jin, you walk in the path of the Founders. Truly, your craft is the equal to my own,” Shou said over his clasped fists. The young man blushed. “The fact that you have figured out one of these is a feat worthy of accolades. But so many of them? And so well? Your methodology in figuring out these secrets is most worthy of respect.”
+
+“Methodology…? That's giving me too much praise. I cheat,” the young man said bluntly. “I just ask them how they’re grown and they tell me, if they’re in the mood.”
+
+Shou’s eyes widened. I just ask them and they tell me.
+
+Cheat? A technique that told one everything a Spiritual Herb needed? That was even more impressive than having a method for figuring it out! It was a technique on par with the abilities of the Divine Sovereign Shennong, the Yan Emperor!
+
+That kind of technique… it was a Heavenly treasure that every man who grew Spiritual Herbs sought.
+
+To fools, being able to ask a plant how it’s grown would seem a limited, useless technique. And to most it would be, because even if one knew how a plant was grown, growing it was another matter entirely.
+
+The cultured soil, the exacting detail, the temperature control formations, and the Qi to nurture the Spiritual Herbs—Shou knew many cultivators who would look at a garden and say, “I’ll either find them or buy them.” Or the more thuggish ones would try to take them, with no scruples in their race for the Heavens.
+
+That, for most, was more efficient.
+
+And even those who would see its value might hesitate to dedicate time to learning it because it would not directly improve them. It was a technique of pure knowledge.
+
+How utterly sublime.
+
+“What a Heavens shaking scripture,” he whispered.
+
+“Something like that,” Jin said with a wry smile.
+
+Shou left it at that. There was a limit to intruding on another’s techniques, especially when he had no proper recompense to begin to make such a request at the moment.
+
+His mind was still reeling as he sat down at the round table… when he paused.
+
+He blinked, his eyes focusing on an unassuming twig poking out of the soil. It had a slightly reddish tint to it, and had a feeling of fiery Qi. If it was just that, Shou would have confidently said it was some variation of the Pearlescent Flamebud—most had no idea what the First Shoot of the Spiritual Herb looked like.
+
+But there was something deeper beneath the fire. Something of wood, something of water…
+
+“...Rou Jin,” Shou asked. “What Spiritual Herb is that?”
+
+Shen Yu, who had been blessedly rather quiet other than the occasional boasting statements Shou had largely tuned out, raised a brow.
+
+“You don’t know either?” the man asked. Ge, Yukong, and Minyan all turned to look at the Herb.
+
+“Hmm,” Ge said, stroking his beard. “It looks similar to some I have seen, but… it is rather strange.”
+
+Minyan, probably the most well-travelled of them besides Shen Yu, spoke next. “It is nothing like I have seen, either.”
+
+All of them turned to Jin.
+
+“All I know is that it's not dangerous, so I’ve just been letting it grow,” he said with a shrug.
+
+It was a Spiritual Herb Shou was unfamiliar with. Excitement blossomed in Shou’s soul.
+
+“You said you have no methodology. May this old man show you his methodology to deduce the nature of a Spiritual Herb without destroying it?”
+
+“As long as it doesn’t hurt it… Please,” the young man said, clearly interested.
+
+Shou rose from his seat, a smile on his face.
+
+=============================
+
+Jin Yukong could only smile with amusement as her husband and Rou Jin got into it. Both of them were immensely passionate about herbology, and the grin on Shou’s face and the light in his eyes was as fetching as it always was.
+
+“Aaand we’ve lost them,” Shen Yu said with a smirk on his face.
+
+“Ah, that's Shou for you,” Ge replied. Both of the men were utterly relaxed, to the point of nearly uncouth uncaring.
+
+Shen Yu only truly acted like this around those he trusted utterly, and Ge was happy to play along. Shou had obviously thrown any sort of propriety to the wind as well. Only Tianzhe Minyan stayed apart—she was obviously still studying Shen Yu and his grandson, but her thoughts were her own, hidden behind her veil.
+
+That her Qi was calm and that she wasn’t glaring holes in Rou Jin said enough, however.
+
+The tour of Rou Jin’s house had been mildly interesting. The most impressive part had been the mortal with his steam-controlling formation—Liu Bowu was his name. His command of the arts without any Qi of his own was commendable, and his observations and implementation of the power of steam, though used for mortal ends, was indeed interesting enough; she would have to experiment, but the formation itself was quite rudimentary.
+
+There was a severe lack of truly fascinating formations to gently poke at—There was hers, the barrier, but she knew that one well, and there was one she had found underground. The Dragon Veins here were a lot closer to the surface, spreading through the earth in a latticework—one that felt a bit damaged and drained, but considering the attack that had taken place, that was to be expected somewhat.
+
+Its use was opaque to her, however, and the formation was hidden enough that Yukong didn’t risk taking a good look at it, because delving that deep would just be plain rude when the young man had brought her husband such joy.
+
+The young man had thus far been a pleasant enough host, polite, and clearly proud of his home and family.
+
+Most of the servants and Spirit Beasts had retired, leaving only Bi De, the girl who had introduced herself as Rou Tigu, a pink-haired servant, and a boar. The Spirit Beast was clearly completely and utterly docile, his eyes betraying an inner peace that was admirable. He stayed beside the pink-haired servant and attended to her.
+
+“I must apologise on behalf of my husband,” Hong Meiling said—though she clearly didn’t mean the traditional phrase. Indeed, Yukong got the sense Meiling did not particularly like the Cloudy Sword Sect. For what reason… Yukong had a bit of an idea. Instead she was looking at her husband with her own small smile. Yukong definitely knew that feeling. Ge, Ran, and Shen Yu had always found her husband’s all-consuming passion trying at times, but she liked it—mostly because she got exactly the same way about formations. “May I instead offer the honoured guests some refreshments?”
+
+They accepted, finally sitting at the table. How one showed hospitality often revealed interesting things about them. The table they were offered was large and round, perfect for seating many in a circle. That indicated a certain amount of equality—as did the bowls and cushions sized for Spirit Beasts.
+
+Informal and family-oriented. And judging by the way they interacted, the Spirit Beasts were likely not meant to be harvested if they were afforded such things. Instead, they were valued members of the family—a rather rare thing.
+
+“Don’t be so formal, granddaughter,” Shen Yu mock scolded. “They’re your grandfather’s old friends, so Aunt and Uncle should suffice.”
+
+Yukong and Ge both snorted at the sheer level of informality Shen Yu was initiating for them… as well as the skeptical, raised eyebrow of Hong Meiling. She turned to Minyan.
+
+“My Lady, how should this one address you?” she asked politely.
+
+“Hm. You’re clearly the smartest one here. Lady Minyan is acceptable,” the Falcon said, her voice haughty and cold.
+
+Meiling inclined her head. “I’m afraid most of our refreshments are mortal fare—but our honey and ginger tea I’m confident in. Our Vajra produces only the best.”
+
+At that, the bees flitting around the greenhouse paused. The insects had Qi in them, but in very small amounts, so it was a surprise when the small swarm suddenly pulled together, forming a stylized lady who performed a perfect courtly curtsey in mid-air before returning to their duties.
+
+“A hive of Spirit Beasts?” Ge asked. “Shen Yu, your grandson’s home contains surprise after surprise!”
+
+“It's quite the place, no? I’m impressed at what he built so quickly! Him and his pretty wife. She's actually a year younger than he is!” Shen Yu boasted while Meiling poured them all the honey ginger tea that the pink-haired servant had set on the table, giving them face by pouring it herself.
+
+Minyan raised a brow. “Truly?” she asked, her eyes again on Meiling. She took a sip of her tea behind her veil as she studied the woman, clearly more out of politeness than any desire… and then paused, honest surprise filling her eyes. She took another sip and set the cup down. “Hong Meiling, you were correct. This is acceptable tea.”
+
+“It's all Pi Pa’s skill,” the young woman said, and the pink-haired lady bowed.
+
+With that high praise, Yukong picked up her own cup. The smell was warm and inviting—and the drink itself doubly so. It had bite—bite even Yukong could feel, the peppery ginger warming her mouth, only to be soothed immediately by the heady, rich, slightly musky taste of the honey. Yukong’s husband often made her honey ginger tea. His Spirit-Rejuvenating Ginger, grown specifically for her, did have a flavour more pleasing to her palate, but the honey here was something on a level she had not tasted—even from the hives of Spirit Beast bees Shou bought at auction.
+
+…indeed, this was delicious tea.
+
+“The maple candies are Lu Ri’s favourite,” Shen Yu said, and Ge immediately locked on to those, eager to try what “his boy” enjoyed.
+
+The maple candies, too, were delicious.
+
+The food and drink further relaxed the atmosphere, and even cold Minyan was pleased, for she drained her first cup and received a second swiftly.
+
+“Minyan, have you used one of those Demonic Qi siphoning formations?” Shen Yu inquired, leadingly.
+
+“Indeed. Xiao Ge delivered to me many such formations. They were most efficacious at drawing out demonic Qi. You have my thanks, Subtle Scripture—we shall have to talk business later,” Minyan said.
+
+Yukong chuckled internally at Shen Yu’s set up so that he could boast more. Today was proving most amusing. “Your thanks is appreciated… but that formation is not of my design.” Yukong nodded at Meiling. “The young lady, her father, and another named Lin Bao are the true designers of it—after they refined what they found in the Imperial Archives, of all places.”
+
+“Saved my life,” Shen Yu stated seriously. “Without her and Ri Zu… the final technique of my foe would have found its mark.”
+
+“Now I understand your statement about not stealing her away,” Minyan mused. “But the Archives? That foolish initiative actually did something?”
+
+The conversation from there turned to the creation of the technique, Meiling getting a pail of water so she could show Tianzhe Minyan the formation… and get more demonic Qi out of her system.
+
+Yukong listened with half an ear—she knew this tale already. Instead, her attention turned to Bi De, Tigu, Pi Pa, and the boar, who were all sitting politely and quietly, a bit like children patiently enduring their parents’ blathering. The boar noticed her gaze and chuffed, the Spirit Beast offering her a smile.
+
+‘Chun Ke greets friend Yukong!’ the boar said in a deep, but pleasant voice.
+
+Yukong chuckled at the sheer earnestness in the Spirit Beast’s voice. He was quite cute, and like Bi De, civilized.
+
+“How does one such as yourself end up here? Were you this young lady’s pet?” she asked, curious. That seemed to produce the most stable Awakened Spirit Beasts, beloved pets who somehow ignited their Qi.
+
+Both Chun Ke and Pi Pa paused. “Ah, no,” the serving girl said, sounding slightly offended. “He is my husband.”
+
+Yukong’s mind screeched to a halt. Her husband?!
+
+“I beg your pardon?” she managed to ask.
+
+There was a pop of displaced air.
+
+The quite pretty young lady abruptly turned into a pink pig for a moment, before with another pop she was back.
+
+And then, there was a third pop.
+
+The rust red boar suddenly became a towering man, a mountain of muscle and rust red hair, and three deep scars that raked across his face.
+
+The giant man smiled at her with a happy, guileless smile.
+
+“Chun Ke is blessed with pretty wife,” the giant man rumbled.
+
+…there was the second shock of the day.
+
+“You have achieved human form?” Yukong asked. Yukong had seen two human transformations before. They had both been twisted, corrupted looking things, halfway between man and beast.
+
+This? This was flawless.
+
+“Most of us have!” Rou Tigu declared. “I’m a cat!”
+
+“Indeed,” Bi De stated. There was another pop, and the rooster was replaced by a young man with blazing red hair and green eyes. He could have been Jin’s brother—or his son, their facial features extremely similar. And there was more than a passing resemblance to Chun Ke, as well.
+
+…They were all Spirit Beasts?

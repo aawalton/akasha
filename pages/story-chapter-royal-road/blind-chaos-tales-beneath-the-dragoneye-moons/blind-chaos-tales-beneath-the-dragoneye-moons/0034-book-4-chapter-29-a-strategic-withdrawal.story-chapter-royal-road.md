@@ -1,0 +1,289 @@
+---
+id: 9d7d6aa7-64cb-51b1-8607-a46b2b246d2c
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 29 - A Strategic Withdrawal"
+slug: 0034-book-4-chapter-29-a-strategic-withdrawal
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 34
+ownLength: 5720
+unit: words
+publishedAt: 2025-11-19
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2775933/book-4-chapter-29-a-strategic-withdrawal"
+royalRoadId: "2775933"
+---
+
+Avyna tried, she really did, but unfortunately for her, Ranthia fell asleep with her head resting on one of Avyna’s slender arms. Even with her elven grace, she didn’t stand a chance of successfully slipping her arm out without waking Ranthia up. Once stirred from her slumber, Ranthia blearily blinked her eyes open, then, before the love of her life could apologize or urge her back to sleep, she desperately and needfully kissed her elf. She was vaguely aware that someone else was in the room with them, but she really didn’t care.
+
+She should have kissed Avyna the instant she saw her after what happened, and the fact that she hadn’t was probably the ultimate proof of just how bad her condition had been before she slept. The kiss was essential; it reaffirmed that she was still alive—that she was able to come back to the most important person on Pallos.
+
+After sleeping, she bore no hazy uncertainty any longer. And she knew from the very instant that she woke up from her slumber—a deep sleep, devoid of dreams of any sort, thank Xaoc—that she had almost died. …The word ‘almost’ felt ludicrous, actually; she had been a prisoner in Black Crow’s talon, and she had no idea why the demi-divine bird chose to release her at the last possible moment. But at that moment, the unanswered—and possibly unanswerable—question didn’t matter. She made it home and she was kissing the woman that she loved so dearly.
+
+That was enough.
+
+It had to be.
+
+Over eighty thousand vitality enabled a lot, but not even Ranthia could spend an eternity with her lips permanently locked with her beloved’s. Eventually—and regretfully—they finally separated, then Ranthia followed Avyna’s lead and got out of bed and got dressed. All while Glorine awkwardly stood there, her eyes fixed on the fabric ceiling of the couple’s home until, at last, the duo were both presentable.
+
+“They’re here.” Glorine solemnly announced. Which was all that she needed to say.
+
+It was time for Ranthia to learn if their panicked speculation was true—if someone from Remera had truly sought to help the shimagu murder Ranthia.
+
+Ranthia accelerated her perception for a moment as she and Avyna passed through the curtains. There were two dwarves seated at their table—the shrubbery [Healer] and a man that Ranthia had seen around Remera but had never spoken to—along with Gailla and Caelillia. Near the entrance to their tent stood three of the soldiers that often hung around Avyna’s shop, each man in full gear, shield and spear in hand.
+
+Ranthia… appreciated the sentiment, but if there truly was a plot afoot, three mid-tier legionaries weren’t going to make a whit of difference.
+
+The trio saluted her—or perhaps Avyna—as they emerged. Ranthia slowed her perception back to social norms and traded nods with the dwarves. Though the shrubbery-looking [Healer] split into a massive grin as he looked her up and down.
+
+“Was hopin’ that gettin’ close to you woulda worked. Glad I was right, lass.” The man boisterously announced.
+
+Ranthia paused in her tracks, blinking at the dwarf as she processed his accent. Was he saying what she thought he was?! …Also, the man was loud when he wasn’t dozing off.
+
+“Wait, you’re saying you were healing me when I fell?” Ranthia asked.
+
+“Naw, was after you hit. Dem Legions of yers weren’t letting [Healers] get to ya and tried to bar the way. Didn’t have my trusty nail with me at tha time, so figured best to be clever. Fools never thought to block off the other tents, so ah got myself inside the next tent and let my ranged Skill do what it did best. Thanks for the levels, lass.” He answered, his bizarre beard-and-hair combination jiggling with mirth.
+
+“I… Thank you.” Ranthia’s gratitude was sincere, but she had somewhat mixed feelings about the fact that she only survived because of a [Healer]’s touch, however indirect.
+
+Black Crow didn’t release her because of her own struggles, for the second time in her life she lived only because a [Healer] managed to wrench her from the avatar of death’s talons. No matter how she grew, too often her survival came down to luck, which was a fool’s gamble to rely upon.
+
+The pall that came over her mood gave her a desperate, burning desire to run to her altar and pray for a while, but that—may Xaoc forgive her—had to wait.
+
+“I shall get a pot of tea brewing, would anyone like anything else?” Avyna chimed in.
+
+Ranthia took a seat at her table—next to the shrubbery of a dwarf, since her other options were to boldly sit next to Caelillia or to steal Glorine’s spot next to her wife. Glorine was already moving to claim it anyway.
+
+“Fine, whatever, very good. Now show me tha arrow yer message mentioned already!” The other dwarf snapped.
+
+“Sorry, right. Um, go ahead?” Ranthia looked to Glorine and Gailla. It wasn’t like she knew where the arrow was, she had been asleep!
+
+Gailla nodded and stood—her weariness more pronounced once she found her feet—and walked into the cooking area. The arrow turned out to have been hidden in the stasis storage area they used for bread, inside a small wooden case. Arrow in hand, Gailla returned, before she carefully offered it to the irritable dwarf.
+
+The dwarf shook out his jet-black hair and accepted the arrow with one hand. While he eyed it, he stroked his beard, causing no small amount of noise as his calloused hands rattled the finely wrought steel chains that wrapped around and wove their way through his robust facial hair. The man nodded to himself, then, did something so ridiculous that it left Ranthia momentarily flatfooted: he bit the arrowhead!
+
+“There’s poison!” Ranthia shouted several moments too late.
+
+“Keep yer knickers straight. I’ve got tha best anti-poison Skill I know of, and I’m sittin’ next to a farkin’ [Healer]!” The dwarf roared, before he went back to poking at the arrow.
+
+Ranthia’s nerves overcame her and she found herself standing again before she had quite decided if it would be rude to do so. Avyna was still preparing the tea, in addition to mulled wine and hot cider. With the dwarf roughly pawing at the arrow and the [Healer] seemingly already sound asleep, Ranthia turned her eyes to her friends and (sort of) family.
+
+Gailla flopped back into her seat, leaning against Glorine. Both women looked haggard; odds were they hadn’t gotten to sleep, even for however long Ranthia had spent napping. She wasn’t even sure if Avyna had slept, or if her beloved had spent the entire time trying to soothe her, to keep her nightmares at bay. Gods and goddesses, with the crowd, it was likely that even Caeli hadn’t rested. Everyone had worked themselves desperately, just for her.
+
+Ranthia suddenly felt guilty for her own rest, even if she had desperately needed it. The hourglass told her that it was still late at night, but she had rested long enough that she felt surprisingly more like herself.
+
+“It’s human-made aight, one of yer Legion-issued arrows. Someone, not an expert either, removed the fletchin’ and changed it out. Used a local bird, probably thought it woulda made it seem like a shimagu arrow. ‘Cept the shimagu dun use this kinda bird. Ta color’s the same, but the bird they use has superior feathers; bigger and more durable.
+
+“Poison didn’t do squat ta me, an not cause-a my resistance Skill. Just doesn’t work on dwarves. It’s got a nice flavah, kinda spicy-tingly.” The dwarven weapons master held the arrow over to the shrub-healer, who licked it and nodded appreciatively.
+
+Ranthia suddenly felt somewhat mortified that the arrow had spent time lodged in her butt, but she absolutely wasn’t going to volunteer that information to the men after that.
+
+Avyna emerged from the kitchen and set the tray of beverages down before she grabbed the arrow from the dwarves and—in a fit of recklessness—jammed it forcefully into her own palm. Ranthia and Caelillia both called out in alarm.
+
+Avyna was silent for a long moment, before she looked at the [Healer] shrubbery/dwarf. He shook his head in response to her unvocalized question. Avyna frowned, then nodded and pulled the arrow free. The dwarf promptly poked her, and her hand sprang back to its usual hale appearance in an instant.
+
+“He is right, I experienced no effect from the poison either. Its potency was due to the fact that it was narrowly designed. Most likely, it is a Skill-generated poison intended to affect only your kind, or perhaps you specifically, my love.” Avyna decided.
+
+Ranthia eyed Avyna—the woman that was practically her wife—in shock. It wasn’t just the weight of the words that Avyna spoke, Ranthia was also floored by the complexity of the words her elf selected. In large part because Ranthia had noticed exactly what Avyna did—she had accelerated her perception to craft her theory even before she jammed the arrow into her hand.
+
+Somewhat stiffly, Ranthia strode over and took the arrow from the woman that she loved, trading a quick kiss of gratitude and affection for the instrument of her near-demise, and cut her thumb on the arrowhead again. Even after the dwarven mouths and elven blood that had stained the barb, the strange numb-adjacent sensation returned immediately. With a nod to the [Healer], he leaned over and poked her with his free hand—the man clearly had no intention of putting down his mug of cider.
+
+…Surprisingly, it wasn’t an instant process. It took a few precious moments for him to purge the toxin from her, even if the cut on her thumb healed immediately.
+
+“That is potent!” The hairy [Healer] announced with a somewhat messy whistle, spraying flecks of cider in Ranthia and Avyna’s general direction.
+
+“Well, as fun as this was, I have business ta attend to. Would you care ta accompany me, [Healer]? I can offer salt and bread at mah workshop.” The severe dwarf offered, though his final statement came off as scathing for some reason.
+
+The shrubbery beamed.
+
+“Delightful, never get sick of that!” He announced and somehow, impossibly, it didn’t sound even remotely sarcastic.
+
+“Wait, one last question… Why did you go out of your way to help me?” Ranthia hesitantly asked the [Healer].
+
+“Heard ya the day we met, lass. Yer one of ta few that recognized the look I’ma goin’ for! Ye noticed I was supposed to look like a shrub!” The man seemed to radiate earnest excitement.
+
+…Oh Xaoc, she hadn’t even meant to utter that aloud! Yet he had heard her. And with a single, rude thought that had inadvertently reached her tongue… Ranthia had planted the seeds that saved her life, eight years later. The weirdness of the coincidence left her more numb than any poison ever could, which left her barely able to nod to the grinning dwarf.
+
+With that, the dwarves made their exit, talking amicably about the [Artisan]’s current smithing projects. The legionary guards were shooed off, at Avyna’s behest, as well. The instant it was polite to do so with their guests gone, Gaila, Glorine, and Avyna started to… well, basically freak out over what they took to be definitive proof that someone in Remera had tried to kill Ranthia.
+
+While the victim of the conspiracy just stood there, feeling once again broken and listless.
+
+“My love?” Avyna didn’t take long to notice. The instant she did, she blurred into motion and was there for Ranthia, holding both of her hands.
+
+Ranthia blinked and refocused on the present.
+
+“Yes, <Gemheart>?” Ranthia asked, hoping that she hadn’t missed something important.
+
+“We should leave Remera, at least for now. Not only this, but… about what happened before. You dearly need a break, my love. You are wounded in ways that no one here can heal. Your mental health has to come first.” Avyna’s words were gentle.
+
+Ranthia was still stricken. Gods and goddess, with everything that had happened, she had—quite unforgivably—managed to completely forget the horrible fact that she had struck Avyna. The bruise was gone now, thanks to the [Healer]’s touch. But Ranthia struggled to remember what it had looked like when they woke up. The memory wasn’t there—had she seriously forgotten to even check or pay adequate attention to the woman she loved!?
+
+Unforgivable. The word tore through her, burning its path through her mind.
+
+“You… might be right, <Gemheart>. But… Sorry, please give me a bit to think.” Ranthia finally shook her head and pulled her hands free of Avyna’s after failing to find the words.
+
+She claimed a cup of warm spiced cider, then ducked back into the personal area of their home. There, she settled onto the chaise with an involuntary sigh. After taking a moment to compose herself, she took small sips of the beverage while she tried to sort out her thoughts.
+
+One thing she knew for certain was that her own guilt and whatever mental health was both could and had to wait. She couldn’t hope to resolve the conspiracy while she sat there, but she needed to decide what her move would be.
+
+It was difficult to trust her own judgment unconditionally given her state, but it sure felt as though the new evidence the dwarves had provided confirmed the panicked theory that they came up with—someone, almost undeniably someone Reman, had tried to ensure that the twin killed her. …Unless the shimagu were playing strange mind games by creating an arrow that was meant to convince them that someone had tried to frame the shimagu—no, it was absurd and the what-if scenario that invoked spiraled endlessly.
+
+Someone in Remera wanted her dead, but Ranthia was stuck on the why. She was charming, she was [Sexy], she had saved the lives of many within Remera, and (perhaps) more importantly, she was the lynchpin of the base’s ability to repel shimagu twins. The [Battlemaster] had kept pace with Ranthia’s leveling speed, but she was still less reliably able to fight a twin than Ranthia was. They had no one else and Ranthia somehow doubted the Sentinels would bother to assign another of her peers to Remera if she fell in battle—even had the plot gone unnoticed.
+
+Theory number one was the happy one. It wasn’t entirely impossible to imagine that a shimagu agent had retrieved one of the large number of arrows that had been fired into their forces and used it to try to help the winged ogre kill her. That theory worked whether the shimagu assassin was playing mind games to frame the Legion or if the arrow was just salvaged due to a dearth of shimagu-made arrows on hand. It made sense for a shimagu to learn to conjure a human-specific poison, whether it came from the ‘agent’ or the twin’s unexplained Poison-aspected class. It was a pity that killing someone didn’t give her a full Skill breakdown—she’d have loved to know how his kit worked.
+
+She was getting off track. The biggest question theory number one left—were it the truth—was whether or not this theoretically shimagu agent attacked from outside of Remera or if they somehow found their way into the base.
+
+Theory number two was the scary one. Ranthia basically let her imagination conjure the worst-case scenario and tried to make it logical. The crux of the theory was that she crossed some sort of line with the base commander when she left with the scouts and he ordered her death. The man was arrogant and foolhardy, but Ranthia struggled to truly believe that he would risk leaving a powerful shimagu twin loose inside of Remera. Sure, had the dwarves come together they might—might—have been able to deal with him fighting as a unit, but the idea felt ludicrous. The risk was too great for the base commander; in all her years interacting with the man, he was typically exceedingly averse to the slightest, most implausible risk. And hoping that she would finish off the twin while poisoned was far from a guaranteed bet. …Gods and goddesses, as horrible as it was to think about, there was a good chance that the twin might have inadvertently sealed his own fate by ripping her in half, since it removed the poisoned arrow from what was left of her.
+
+Ranthia tried to distract herself from that dark thought by trying to find an unrelated third theory. The elves from the caravan were all screened by [Healers]—most of them needed a [Healer]’s touch for their wounds. The duo of high-level elves hadn’t interceded at all, but for all that she cursed them for it while she fought, she wasn’t actually certain they had stuck around. If they weren’t there for the caravan, it was plausible that the elves had kept journeying wherever they were bound—which made their escort of the wounded an act of charity. Unfortunately, Ranthia hadn’t really stuck around while the elves were being dealt with, so she wasn’t sure if they stayed or if any elves somehow slipped past the [Healers]. But if there were parasite-infested elves among them, she had just reinvented theory number one.
+
+Not that she had ever seen a shimagu-infested elf before.
+
+After mulling it over for a time, theory number three truly boiled down to just… someone else wanted her dead. Which meant that it wasn’t really a theory—she was effectively penning “something else” after a list of possibilities. Not that she was writing anything down, but—okay, she was definitely getting distracted.
+
+Ranthia took a deep breath and tried to still her increasingly tempestuous mind. Okay, she had two (and a half) theories, great. What steps could she take to narrow things down?
+
+There are no bad ideas. Ranthia pepped herself up before she turned her mind loose on the problem.
+
+She could try to track down the supposed assassin! …But she had no idea where to start looking.
+
+She could… confront… the base commander? Okay, no, that definitely wasn’t an option. There was no theory where that worked out in her favor. She would burn the last dregs of good will between them if she accused him for no reason, and she somehow doubted the man was stupid enough to just calmly go “Yup, you caught me. I surrender immediately and without risking turning Remera against itself with reckless, desperate orders.”
+
+Gods and goddesses, so much for ‘there are no bad ideas.’ She wasn’t sure of anything else to even try! Unfortunately, she had to admit the truth: investigations weren’t her strong suit.
+
+Back when she was an Adventurer, one of the biggest breaks in her career had come through an investigation, but that was something of an outlier. Besides, she had—quite foolishly—just allowed herself to become a victim to break the case open, then happened to find a loudmouth that actually knew where to find damning proof of the illegal slave trade scheme.
+
+As a Ranger, she had relied on others and there were—more often than not—locals that were eager to whisper actionable intel to their potential saviors. Unfortunately, the nature of her current plight meant that it was beyond unlikely that someone would come up to her and just hand her the truth. Even if theory number two was true, the base commander wouldn’t have broadly issued the orders.
+
+Dumb luck wasn’t going to resolve the situation, and it wasn’t like she had a team of experts that could…
+
+…She was being stupid.
+
+She was a Sentinel! Unlike the Rangers, Sentinels were precision tools—their entire premise was to match the right Sentinel to the situation. And she wasn’t the ideal Sentinel for her current situation. Swarm would be, but as far as she knew he was still in Remus.
+
+But her peers had to have someone that could quietly investigate the situation. Which meant that she needed to contact the other Sentinels, before anything else went wrong.
+
+Xaoc willing, theory number one was the truth and there was a shimagu somewhere outside the wall—someone that no doubt fled the area long ago. But something had taken out her images—one on Remera’s walls and the other beyond them—and left her vulnerable, which was the largest hole in theory number one.
+
+She would never be able to go back to how things had been, not without unshakable proof of what had truly transpired.
+
+By the time Ranthia emerged to talk to her support team—plus Caelillia, whose visit was proving to be terribly timed—she found a crate waiting for her. Ever since Gailla and Avyna had dragged Ranthia back to their tent, people throughout Remera had returned her missing equipment piece by piece. The crate contained three out of her four missing knives, her mistweave blindfold (…which she hadn’t realized was absent until she saw it in the crate), the lower half of her Sentinel Armor, one sandal, her impressively intact belt, several small pieces of arcanite, and her mistweave undergarment bottoms. Ranthia needed to track down her missing knife, but the rest of the missing arcanite and the sandal weren’t exactly the highest of priorities for her, given everything else.
+
+Over tea and snacks, Ranthia ran her inner circle through her two “main” theories (as if she actually had any others), only for Avyna to inflict a potentially mortal wound on theory number one.
+
+“<I saw the arrow in flight, my love. Your assertion that it could have come from outside of Remera is mistaken. Based on the trajectory, it was shot from within the base proper. Unless the [Archer] used a Skill to curve their arrow’s flight unnaturally, it could not have been shot from the walls of Remera, let alone beyond them.>” Avyna was forced to use High Elvish to explain.
+
+After that, Avyna, Glorine, and Gailla formed a united front to finish off the wounded theory. They understood the appeal of it, but they were highly dismissive of the idea that a shimagu agent would have gone through so many layers of deception. The likelihood of each deception being uncovered to point the finger away from the shimagu and back at the Legion was too low.
+
+It wasn’t like the loss of one theory changed much once they started considering next steps. Ranthia had tried to urge Glorine and Gailla to stay out of the plans, just in case, but they refused to be denied.
+
+“You and me, we’re friends. If I wasn’t willing to stick my neck out for you, I wouldn’t have joined the Legions. Sure, an [Analyst] is safer than a shield-bearer, but I could have had a safe life in a city if I wanted it. I’m not going to shy away from risk when it comes to a friend’s life. Besides, everyone knows we’re friends; it’s not like we’d be any safer at home trying to keep a distance from you, girlie.” Gailla had the final word on the matter, and so they moved on.
+
+Which left Ranthia feeling guilty because the best plan they had was the one Avyna insisted upon—which called for Ranthia and Avyna to leave Remera for a time. Her friends were willing to stick their necks out for her, yet she was planning to abandon them, and somehow no one else in the room considered that to be the case.
+
+Ranthia and Avyna would return to Coalition City for… a time. There had been an argument about how long it would be, but they agreed that discussing that could wait. (But seriously, Gemheart, they weren’t going to stay there for five years.)
+
+The rest of the plan relied upon two messages that Ranthia wrote. The first was handed to Glorine, for later delivery to the quartermaster, marked for urgent dispatch to Ranger Command via the Sentinels in Coalition City. The message explained that she had nearly been killed in battle and required time to recover from a Poison-aspected Skill the twin’s parasite used. The message was a request for transfer, along with a request for a replacement to support Remera in her absence.
+
+The second message needed to be smuggled and needed to arrive first. Caelillia was volunteered by her mother (over her daughter’s objections) to carry it, along with the arrow, and see them delivered directly to Sentinel Night and/or Deflection (or Swarm, if he was somehow there). The true message explained the plot and the evidence that they had collected—with an apology that the arrow had been contaminated by Ranthia’s blood three times over, elven blood once, and the saliva of two different dwarves (and in hindsight, yuck).
+
+Ranthia went all out with her efforts to prove she was the originator of the true message. She made a charcoal rub of both her Sentinel badge and her Adventurer’s Guild token, noted that Sentinel Ocean had a copy of her handwriting samples, and—after consulting with Avyna for ideas—listed the exact bedding supplies that Avyna had loaned Night when he stayed at their place that one time (okay, yes, her Gemheart’s [Chest of Experience] was more amazing than Ranthia had expected it to be).
+
+The only question was how they were going to get Caelillia safely to Coalition City ahead of the first message. To that, Avyna announced that she had a plan, before she left their home—ignoring Ranthia’s energetic protestations.
+
+“We cooould, yes. But why would we?”
+
+So much for her theory that the extremely powerful elven duo had moved on. Avyna returned with the level 1024 and level 1902 elves in tow, served tea, and then bluntly asked the duo if they could ensure delivery of her daughter—safe and sound—to Coalition City.
+
+Ranthia had so many conflicting feelings about the situation that she chose to set them aside in their entirety.
+
+“We do not ask you to do this for free. I offer this payment upfront.” Avyna answered the man. Her voice was oddly tight and strained and she kept her [Merchant]-at-work mask firmly in place. Once she finished speaking, she carefully—keeping her hands visible the entire time—removed two mid-sized gemstones from a pouch that she had placed on the table. A pair of brilliant red rubies, identically and dazzlingly faceted.
+
+The man had looked interested at the first one, then the second converted his expression to one of eager greed.
+
+“Well, we weren’t planning on heading east, we actually had planned to continue our journey west…” The man hedged, clearly haggling.
+
+Ranthia waited, ready for Avyna to pounce.
+
+…Yet, against all expectations, Avyna refused to debate the man. Instead, Avyna nudged her, as if Ranthia had missed her cue! More than a bit grudgingly, Ranthia nodded and grabbed the quill and slip of paper that Avyna had set next to her.
+
+“Avyna will draw up the contract. Once Caelillia has been safely delivered to Sentinel Night, Sentinel Deflection, or Sentinel Swarm, the signature of any of the three men will authorize the document and transfer these contribution credits to you.” Ranthia cupped her hand over the small sheet and wrote a number.
+
+Avyna bumped her foot, prompting Ranthia to add a digit. …Or more than one, given the next bump. Yet that zero only invited another bump!
+
+Ranthia felt like breaking into a cold sweat by the time Avyna finally assented to a number. It comprised well over two thirds of the contribution points she possessed—at least before whatever she received for killing the winged ogre twin!
+
+Shakily, Ranthia folded the paper in half, as she had been instructed—desperately wishing that Avyna had explained more before she fetched their guests—and slid it across to the duo. The male elf took it and glanced at the number.
+
+“Yeah, so for those of us that aren’t wasting time on this little farce, what does this actually mean in real currency?” He asked, clearly unimpressed.
+
+Ranthia felt her brow twitch, despite her best efforts to keep the outrage off her face. Little farce?! It was a war!
+
+“Before broker fees, roughly one small arcanite per point.” Avyna answered in a deferential tone.
+
+This time the man whistled. He snapped his fingers in complicated patterns for a time, before the blindfolded elf nodded. It was a strange form of nonverbal communication, both slower and noisier than Ranger hand signs. As improbable as it sounded, it seemed that the woman truly was blind.
+
+The System enabled a lot, but Ranthia struggled to imagine how a blind archer could work!
+
+“Alright, we’ll do it. Huh, our little trip to this stupid playground really has proven to net a nice bit of pocket change for us, hasn’t it?” The male elf grinned.
+
+“Do not be crass. We shall do as you asked. You said it will be after the sun is up?” The blind(?) woman inquired.
+
+Avyna nodded, then a heartbeat later, she looked positively stricken over her gaffe. She hurriedly vocally responded. After that, she fielded questions from the duo and shored up details, before the elven strangers—neither ever offered their name at any point—departed without fanfare.
+
+The instant the flap was closed, Avyna swooned, forcing Ranthia to catch her collapsing lover.
+
+“<Gemheart, what’s wrong?!>” Ranthia hissed in alarm.
+
+“<…Mom, were those two…?>” A pale Caelillia emerged from the privacy curtain. She was supposed to be getting some sleep, same as Glorine and Gailla.
+
+“<I… I think so, sweetling.>” Avyna answered, as Ranthia helped her back to the table and sat her down on the nearest bench.
+
+“…Um?” Ranthia asked, looking confusedly between the two women.
+
+“<My love, for your own sake, please do not ask. Never ask or look curious again. If we are right, those two are extremely dangerous, even more so than their levels would suggest.>” Avyna hissed out in the lowest voice she could manage.
+
+“<…And you’re sending me with them?!>” Caelillia demanded, openly horrified.
+
+“<They have both given their word, you will likely be safer in their care than anywhere else.>” Avyna answered firmly.
+
+Ranthia was left to wonder what on Pallos she had stepped into.
+
+“Oh, it’s you. It’s in that basket over there.” An exhausted-looking [Healer] glanced up from his latest patient and immediately dismissed Ranthia’s presence.
+
+In full gear—namely, a fresh suit of armor—she had set out to locate her missing knife. [Mine!] had pinged almost immediately, but contrary to her expectation that someone had tried to steal the knife, the Skill led her to one of the still-active [Healer]’s tents.
+
+Ranthia winced, carefully feigning a deliberate slowness and hesitance in her every movement, as she walked over to the basket. Her knife was there, resting among various other metal debris—all covered in blood.
+
+“…How bad was it?” She had to know.
+
+“It wasn’t why he died, at least.” The [Healer] responded tersely. His tone strongly reflected his desire for her to leave and let him continue to work on the patients overcrowded into the tent.
+
+With an unseen nod, Ranthia complied, breaking her newly retrieved knife down as she went.
+
+Breakfast was hearty, at least. Ranthia and Avyna had prepared it together and, at least according to Glorine, the result was tasty. But Ranthia, Avyna, and even Caelillia were eating because they needed to; their moods were troubled enough that none of them truly had an appetite.
+
+Caeli was acting as though her mother was sending her off to be killed. Avyna was bothered by her daughter’s reaction and worried for Ranthia’s safety. Ranthia, for her part, just felt as though she was suffocating in guilt over everything, despite the rational part of her mind knowing she was a victim and not the cause.
+
+The pall left them sharing their meal almost entirely in silence. Mother and daughter had been unable to enjoy their reunion after so many years, not that Caelillia seemed to consider nearly ten years to be a particularly long time spent without seeing her mother. Ranthia had never been able to even try to establish a friendly connection with the daughter of the woman she was happily bound to. A piece of Ranthia even lamented that Avyna never got a chance to tease her over her former—and, even with her thoughts muddied, Ranthia still desperately tried to convince herself it was only former—attraction to Caelillia.
+
+But they could, in theory, reconnect in Coalition City. No matter how Ranthia struggled to believe that things would work out.
+
+“Are you going to risk leaving those potions here, or did I drag them all the way over here for nothing?” Caeli asked once it was clear that no one was going to keep eating.
+
+“<What are you referring… Oh! I forgot completely about those, with everything that happened. They are for my love to use, so I imagine she will take some with her and leave the rest here.>” Avyna speculated.
+
+“What?!” Ranthia and Caeli reacted at the exact same time.
+
+“Mom, those are…! Shattering sapphires, I don’t even know what they’re worth! What are they worth anyway!?” Caeli sputtered.
+
+The potion had been almost miraculously effective, leagues beyond any potion Ranthia had ever even heard of! It was more like something out of a legendary tale than something Ranthia should be using!
+
+“<The set only cost me an old favor, one that had gathered dust for most of my life. I was lucky that she remembered, if I am honest.>” Avyna shrugged it off.
+
+“But…!” Caeli seemed uncertain how to argue.
+
+“<They will keep her safe. It is a solid use of the old favor. If it puts your mind at ease, sweetling, consider that her safety ensures my own.>” Avyna answered her daughter.
+
+…Ranthia chose to ignore the argument and took another bite of food. She felt unworthy, but she also had no sense of the potions’ value. Avyna clearly wasn’t going to explain the value; she unambiguously avoided answering her daughter’s question about that. Ranthia just needed to convince herself that the potions were relatively ordinary by elven standards, no matter how convinced she was that they weren’t.
+
+But she didn’t want to dwell on that. Caelillia was to depart from Remera, which meant that Ranthia’s message to the few peers that she could truly (and must) trust would be underway. Her guilt for leaving—and her concerns about the safety of her friends—made it difficult, but Ranthia needed to find a way to enjoy what little time she had left in Remera.

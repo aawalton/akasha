@@ -1,0 +1,161 @@
+---
+id: f5ba6086-839a-5e93-98d3-fb86b41d1584
+page-type-slug: story-chapter-royal-road
+title: "v4c53: Healing is a Journey"
+slug: 0068-v4c53-healing-is-a-journey
+partOf: beware-of-chicken
+position: 68
+ownLength: 1865
+unit: words
+ownProgress: 1865
+publishedAt: 2023-10-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1388990/v4c53-healing-is-a-journey"
+royalRoadId: "1388990"
+markedReadAt: "2026-06-29T18:53:43.879Z"
+---
+
+Shao Heng’s life in the Shrouded Mountain Sect had changed drastically since that fateful day when Sister Ri Zu had confronted him. When she had told him that he could once more become a cultivator if he was determined enough to fight.
+
+He had agreed to do whatever she told him to, if it would let him regain his former strength.
+
+Most of it were things that were self-explanatory. Physical exertion. Meditation. Routine checkups and Spiritual Herbs to assist in filling his empty Dantian.
+
+Most were quite low in Qi, but that was to be expected. He could only process so much, and giving him anything that was of a higher quality would have been astronomically expensive and wasteful.
+
+Other things? Other things were more… experimental.
+
+Shao Heng thought he was no stranger to pain and hardship; for that was the life of a cultivator. Pain, hardship, and suffering was their lot in life. So when Sister Ri Zu had told him that his road to recovery would be most difficult and painful, he had believed her wholeheartedly. What else could it be, when he was brought so low?
+
+And yet even though he had steeled himself… he had not been entirely prepared.
+
+“Five more seconds,” Sister Ri Zu told him kindly, and Shao Heng latched onto the words. Just five more seconds. It felt like all of his organs were swelling at once and were about to burst as foreign Qi entered his system and pushed.
+
+Hot tears gathered at the corners of his eyes and sweat flowed freely down his brow. A strangled whine escaped his grit teeth, and drool dripped from the corner of his mouth. Had he his original cultivation, he would have rendered Ri Zu’s hand to pulp with how hard he was squeezing it. His eyes were bloodshot, and it took all his willpower not to writhe like a fish on a hook.
+
+Yet he endured. He endured for the five seconds that felt like an eternity. And then finally, blessedly, Ri Zu’s Qi retracted.
+
+“Meridian dilation is done for today,” Ri Zu reported.
+
+It took a further five minutes for him to be coherent enough to let go of Ri Zu’s hand.
+
+Meridian dilation. A simple name for that… excruciating procedure. Sister Ri Zu had explained the process to him thoroughly.
+
+It was to stop his meridians from collapsing and deteriorating back to what they would have been as a mortal. By using her own medicinal Qi, Sister Ri Zu was keeping those pathways open, to make his ability to gather and condense Qi easier—like he was still in the Profound Realm, rather than his current mortality.
+
+And indeed, her hypothesis was correct. Compared to his memory of when he was an Initiate, it was easier to take in and process Qi. Shao Heng could feel his Dantian filling, and soon…. Soon, he would have enough Qi to once more ignite it and return to the Initiate’s Realm.
+
+She had not thought that it would be this painful, initially, and nothing at all worked to dull the excruciating feeling of keeping his meridians open.
+
+“Are you resolved to keep doing this procedure?” Ri Zu asked him as he finally sat up, his breathing slowly coming under his control.
+
+“Yes. As long as you are willing to perform it,” he replied.
+
+Shao Heng didn’t quit.
+
+Sister Ri Zu nodded. “Then this Ri Zu requires five laps around the pavilion,” she informed him.
+
+“Yes, Doctor,” Shao Heng agreed, and on shaking limbs rose to do his mandated training.
+
+===================================
+
+And thus his treatment continued.
+
+Some days things went well. He could feel his Dantian fill and inch closer to ignition.
+
+Other days things went poorly, and in his meditations he lost Qi—the power slipping through his fingers and out of his Dantian.
+
+Being a mortal again was disorientating. He had been a cultivator for so long he had forgotten what it was like to be truly weak. On his runs around the pavilion he would misjudge, trip, and fall. Tiny scrapes and bruises hurt, and had to be carefully tended to lest they get infected.
+
+Once he had even vomited onto Ri Zu’s skirt after he pushed himself too hard during his physical conditioning.
+
+At first, he had been utterly ashamed of himself. Another was seeing his weakness. Ri Zu watched over every trip, every moment of weakness. She had even seen his tears. Every other cultivator would have looked at him like the worthless being he was. A shameful creature who was not in control of himself.
+
+Yet Ri Zu did not.
+
+She tolerated his fifth and indignity. She saw his wretched form every day. She saw his bitter struggles; she oversaw the days when he progressed not at all! And throughout every trial and tribulation she never once looked upon him with disgust or disdain. When he fell into the dirt, she watched over him until he rose again—and her pure, clear eyes looked upon him with encouragement.
+
+“Why… why are you not disgusted?” he asked her.
+
+“Who could be disgusted over a man trying his best?” she asked him in return. “Ri Zu has fallen flat on her face more times than she can count. It is not the fall that measures our character. It is that one gets back up.”
+
+… she was impossible, this doctor. Her methods were strange and her attitude even stranger. She was utterly alien to what he knew.
+
+And yet she was present and helping him. Helping a poor mortal… like Shao Heng had wanted to do so long ago.
+
+If she wished for his best, he would give it. He would continue his efforts.
+
+No. He would redouble his efforts.
+
+One month after his treatment began… Shao Heng’s Dantian ignited.
+
+“Ri Zu knew you could do it,” the diminutive woman told him, her eyes full of pride.
+
+“It is all thanks to your treatment, doctor,” he replied, bowing low.
+
+========================
+
+But that was merely the beginning of things.
+
+It was an exercise in patience not to rush, to slow down and construct his foundation properly. He could have rushed forwards and ascended as fast as he could… but that way would cripple him.
+
+And when he could not force himself to slow down, Ri Zu forced him to slow.
+
+Helpfully, and cruelly, by getting him clearance to get ‘fresh air’ outside the Medical Pavilion and introducing him to her companions.
+
+“Come on, Uncle! Five more!” Liao Yushang encouraged Shao Heng as he swung the weighted training sword, his arms shaking.
+
+Yushang was doing the same beside him, but with one arm.
+
+He snorted at her informal address. Indeed, compared to their youthful features, Shao Heng looked like he had been around the mountain a few times. Even when he was in the Profound Realm he had wrinkles; and secret to all but himself, he actually quite liked the way his weatherbeaten skin looked. It was not what a true cultivator looked like…but it did give him an air of experience. Each moment of his time in the mountains was displayed, a hero who would arrive even in the worst of weather.
+
+It also seemed to strike a chord with the excitable Yushang, and she instantly began pestering her “new uncle” about tips and tricks for navigating the mountains… even though she had, by her own admission, been a mountain guide herself.
+
+“Always listen to old timers.” she had sagely replied…but Shao Heng couldn’t help the amusement that bubbled up within him. He did have good advice for navigating the mountains, and it was gratifying to have these youngsters listen to his every word.
+
+Yushang was but the most energetic of them. The others had all welcomed him kindly as well; Fat Han, Biren, and an Inner Disciple, Bi De.
+
+It was a bit disheartening that Ri Zu had a lover already. Some part of him wished that once he had regained himself he could repay her by taking care of her with as much care as she had taken care of him… but Shao Heng was no honourless dog. He stood aside without anyone noticing, as was right and proper.
+
+He would repay her in some other way—for a true cultivator repaid any kindness they received a hundredfold.
+
+And it looked like he would have plenty of repaying to do, for these foolish cultivators half his age welcomed him with open arms.
+
+Fat Han crafted formations and made wonderful dishes.
+
+Biren spoke with him about hunting and the stunning vistas of the mountains he would like to record.
+
+Even the Inner Disciple was a kindly soul—one who gave him pointers on growing Spiritual Herbs and accepted nothing in return.
+
+…it was like his first days on the mountain, and slowly he began to smile again.
+
+===================================
+
+Shao Heng finished meditating for the day and stretched out in his bed. The ceiling of the Medical Pavilion was fast becoming a familiar place.
+
+He sighed with contentment. But a month and a half it had been, and already he was touching the Second Stage of the Initiate’s Realm. He was delaying breaking through so he could make sure of his foundation, but already he could feel the power returning to him.
+
+He couldn’t believe it!
+
+It was difficult. He still struggled. His was not a meteoric ascent; but as he cultivated diligently, he did improve.
+
+Sister Ri Zu was right. It would not take forty years to regain all his might. In fact, it would take a fraction of that time—and when he was done, his foundation would be firm and he would be positioned to go even higher!
+
+He smiled to himself, already anticipating the next day—and soon he would have even more things to look forward to. So consumed with himself he had been that he had forgotten about the tournament that was nearly upon them. The Clashing Fists Tournament was the event for the Sect—where all could show their might to their fellow disciples and reap the glorious rewards! Last Year Zang Li had won after a terrific series of bouts—Shao Heng was curious about what had happened to that rising star…
+
+He would, naturally, be cheering for Bi De—the Inner Disciple had ever been benevolent enough to gift Shao Heng with some Spiritual Herbs of spectacular quality.
+
+He smiled to himself and rose from his bed—heading out on his nightly walk along the outskirts of the Medical Pavilion. It was deserted at this time of night. Tranquil—and he appreciated it.
+
+He closed his eyes and drank in the silence. Even his senses were coming back to him. He could see better, hear better.
+
+Why, he could even hear the slight padding of somebody approaching.
+
+He paused.
+
+There was somebody approaching his location. At this time of night, stepping like they did not wish to be heard…
+
+Who could be slinking about? He wondered, his body tense.
+
+There was a burst of movement. A man clad all in black leapt over a wall, a sword in his hands, and his eyes focused squarely on Shao Heng.
+
+The man spared not a moment as he launched himself towards Shao Heng.

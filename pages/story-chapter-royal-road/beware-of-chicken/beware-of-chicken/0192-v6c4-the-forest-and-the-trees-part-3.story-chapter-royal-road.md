@@ -1,0 +1,131 @@
+---
+id: 4f05a977-a98b-5a94-b14e-7e292fe15735
+page-type-slug: story-chapter-royal-road
+title: "v6c4: The Forest and the Trees Part 3"
+slug: 0192-v6c4-the-forest-and-the-trees-part-3
+partOf: beware-of-chicken
+position: 192
+ownLength: 2086
+unit: words
+ownProgress: 2086
+publishedAt: 2025-03-15
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2127614/v6c4-the-forest-and-the-trees-part-3"
+royalRoadId: "2127614"
+markedReadAt: "2026-06-29T18:57:54.290Z"
+---
+
+Hong Meiling hummed a tune popular in Hong Yaowu as she handled the wok, the vegetables cooking perfectly. The sizzling of meat, the smell of spices, and the sounds of a kitchen working full bore filled the air. She grabbed a skillet of toasted pine seeds and added them to the mass of fresh vegetables, rice, and wheat berries. Spooks needed a lot of food, and despite his statements that he could go out and forage to give them less work, that would not do.
+
+She finished the bowl—Gou Ren was hosting dinner tonight at his house for most of them, which was better for everyone. The older cultivators didn’t have to watch themselves, and everybody else got to not have to watch themselves either.
+
+It was a moment of relaxation on a day that had been very odd.
+
+Hosting their new guests provided a disconnect for Meiling. Ever since her husband told her of how he left the sect, the image had simply built itself in her mind. The Cloudy Sword Sect was outright wicked in her worst thoughts, conmen who merely tricked others into believing them righteous.
+
+In her thoughts and sometimes in her dreams, the Cloudy Sword Sect was some shadowy, nebulous cabal of cultivators—the only good one among them being Lu Ri.
+
+The Elders especially were strange, formless things, made of darkness. Unthinking, uncaring, and cruel. Secretly condoning evil acts!
+
+The name alone made her angry—a simmering burn in her chest that whispered how best to inflict cruelties on those who had harmed and killed her husband.
+
+Let it never be said that Hong Meiling ever easily forgot a grudge. It was one of the things she disliked about herself. She couldn’t let go, smile, and help people up as easily as Jin could. Even after the barrier around Hong Yaowu lessened some of the burn, she could still feel it whenever she heard the name, a poisonous thought in the back of her head.
+
+She had smelled them long before she saw them. The titanic wellsprings of power that, if she had been any less used to Shen Yu, might have sent her to her knees, retching. Elder Ge smelled like Lu Ri, but more in every way. Lu Ri smelled strange, both there and not, like a cloud, like parchment, and like blade oil. While Lu Ri was a polite set of clouds, looking down upon the world with curiosity, Elder Ge was a swirling mass that would envelop the entire sky—an inevitable fact of life, so utterly present one could almost miss it.
+
+Two of the others had similar smells, scents that tickled the edge of her nose just as they bore full force down on her. One was a titanic tree that was so tall it split the Heavens, and so wide it became impossible to see properly. Its blossoms were miracle medicine and horrific poison, drifting through a misty cloud.
+
+The other was a library. Its smell went on forever, the soft scent of parchment, before transitioning into harsh, stark, and unforgiving granite, like the face of a mountain, a permanent carving on the world so vast one’s senses couldn’t perceive it.
+
+The final scent was made more intense by how comparatively up front it was. Cold. Cold so deep that the hottest fires would be vanquished, withering and dying until the only thing left was the ice and the quiet—a deceptively peaceful smell… made all the more terrifying by the fact that she could smell underneath the tranquility the storm that could scour the world clean.
+
+The scents had set her on edge, and when they came down from the Heavens, acting like old friends, it had… annoyed her. She was rather thankful that Lady Wu had thoroughly trained her out of acting impulsively, or she might have said or implied something to the… overly familiar Elder Ge. Her teacher was a blessing—because it had taken a very, very long time indeed.
+
+Of course, by the end of the introductions… those formless elders worthy only of her scorn for what their sect had done to Jin, were considerably more human.
+
+Elder Ge crushed her image of him as some shadowy schemer instantly. His apology to Jin just felt so… genuine. There was something about him, like Xiulan when she got all into her “leader mode,” as Jin called it, but a thousand times more. The man looked and felt... noble, for the lack of a better term. Like what a leader should be. The kind of person who could shoulder it all, who you wanted to be the one with the weight of that responsibility, because he would do it justice.
+
+Elder Shou acted a lot like she did around medicinal plants, the man so utterly enthusiastic about Jin’s garden that it was almost endearing. He was an older gentleman, who looked about of age with the Lord Magistrate, with a bald head and a lanky form—but moved with so much vitality he seemed to be but a young man.
+
+Elder Yukong had been content to watch her husband, a slight smile on her face. The intimidating woman looked only slightly older than Meiling, her hair held in a traditional braid. She was quiet and soft spoken, with her eyes full of genuine curiosity, and yet without any sort of judgement. In that, she was just like Elder Shou.
+
+The final one, Tianzhe Minyan of the Soaring Heaven’s Isle Sect, had been cold at first, but after the topic of the Anti-Demonic Qi Formation came to light, the woman had been much more present, instead of just observing. She wore a veil over her lower face, but honestly, the woman’s eyes were enough, piercing things so pale blue they were almost white, and along with her white hair and skin she looked like a walking ice sculpture more than a human.
+
+They had talked for a couple of hours, light conversation while Shen Yu cracked jokes with Ge, and occasionally needled Lady Minyan—yet instead of getting more annoyed like the old man, she seemed to get less so as the time passed. Meiling had found the simmering anger when she looked at them started to fade away… at least a little bit.
+
+Honestly, she was a bit more annoyed at herself, for constructing them into such malevolent beings in her mind
+
+And then it was time to prepare dinner. The cultivators had seemed surprised when both she and Jin went to the kitchen, along with most of the house, leaving Shen Yu alone for a moment with the other cultivators… and Spooks. Elder Ge apparently was going to be escorting the Thunderhoof north with Shen Yu so he could meet Master Forest Sweeper.
+
+Meiling frowned a bit at her dilemma. Some part of her still told her to be wary of them… while another part murmured that it was her clinging too tightly to a grudge… again. She glanced up as Jin went outside to deliver one of the completed dishes to Gou Ren. She already knew Jin’s thoughts, so she turned to the two others who might have a more negative opinion.
+
+“Bi De. Tigu. What do you think of them?” Meiling asked, and they perked up at the question. Both were in human form, and both had been helping Wa Shi… the only one of their number who insisted on being present to make sure their guests were “eating properly”.
+
+Meiling couldn’t help the smile at the thought.
+
+Bi De and Tigu both pondered for a moment, before Bi De spoke.
+
+“When our Master first told us about the sect, he also told us this: ‘We all make our own choices, but in the end, our choices also make us,’” the man said. “They have chosen the path of reconciliation. They have chosen the path of accountability. Whatever their sins in the past, they are making the effort to move past them. I do not know yet how close we shall be to them… but I believe that they shall at least be friends.”
+
+“I think the same,” Tigu said. “And, well, Master says everybody gets one. They had one, and now they’ve stopped.”
+
+Meiling considered their words and let out a breath.
+
+“Thank you. I think I needed to hear that,” she said. “I’m very lucky to have such a wise son and daughter.”
+
+Tigu and Bi De both flushed at the praise, and Meiling embraced them.
+
+Then, it was time for dinner. Jin went out first to make sure the cultivators were ready. Meiling peeked out, and at his nod, she returned and got the food.
+
+They walked in just as Jin was shaking his head, responding to Elder Yukong.  “Ah? Oh, no. I know he looks a bit like a monkey, but no, Gou Ren is human.”
+
+“Oh, not all of them then. Still, fascinating, fascinating, and—oh, my.”
+
+The rest of the cultivators turned.
+
+It was rather funny to see the looks on all of these old cultivators’ faces when Wa Shi came out with them, his chef hat proudly perched upon his head.
+
+“Behold, the true worth of Fa Ram,” the dragon proudly declared.
+
+======================================
+
+Xiao Ge had been to a great many dinners.
+
+None of them had featured a dragon who served them. It was a young beast, practically a child, and it was by far the weakest dragon Ge had ever encountered—but there was an innocence and earnest passion to his movements.
+
+His hat was… certainly something. Tall and white with many pleats on it, but he wore it like a crown.
+
+And his arrogance was really quite amusing. His pride in the food was so all-encompassing that Ge could see it was a conscious effort to keep his nose from tilting up in the air, and a smug smile forming on his lips.
+
+Many of the dishes were foreign to Ge’s eyes. He was quite well-travelled, but food culture did change quickly. It was all quite delicious looking.
+
+But in addition to the strange dishes, there were others. More… familiar things.
+
+“...rice noodle rolls?” Minyan asked, raising a brow.
+
+“Yeah, I asked the old man what dishes everyone liked beforehand—he actually gave me some spices for those ones,” Rou Jin said. “Hopefully the taste is right.” Ge saw Yukong looking directly at the dandanmian, while Shou seemed surprised Shen Yu even knew he liked roasted crispy duck-skin. Ge himself noted the char siu pork—a guilty pleasure, when he had been a youth, and when Shen Yu had taken him to that one restaurant in Crimson Crucible City.
+
+“Please, help yourselves.”
+
+And with that, Shen Yu simply started diving in—the meal was among friends, so he stood not on propriety.
+
+Tianzhe Minyan stared at Rou Jin for a moment longer, her expression inscrutable… before she took her first bite. Her eyes widened, nearly imperceptibly.
+
+She took a second bite.
+
+Ge followed her lead and smiled. The char siu pork tasted exactly like he remembered it—though he supposed that was to be expected. Rou Jin was from Crimson Crucible City as well.
+
+The food was good. Great, even, and it was a quite good way to end the day. While it was unfortunate that Jin was not going to be in their halls… the Heavens had smiled on their Sect, and they had smiled on Ge’s friend. While most of the others had been more focused on young Jin’s home… Ge had been considering his friend.
+
+Yet he needn’t have worried. Shen Yu looked content and relaxed in a way Ge hadn’t seen for over three hundred years.
+
+It had been a long time since Ge had seen him this way, and he was satisfied.
+
+Xiao Ge ate without restraint… and then the dragon came back. This time with a barrel, and escorted by more of the Spirit Beast bees. He opened it up, and at once a heady scent poured out.
+
+“Of course, to go with dinner, Boss—er, Master, has decreed we break out our finest vintage,” he declared. “From Booze Master Vajra herself. Mead!”
+
+A golden liquid descended into their perfectly clear glass cups—and if it was anything like the honey ginger tea… they were in for quite a treat.
+
+He was correct. The golden liquid was a heady, spicy brew, warming all of their bellies… and giving that little bit of lubrication to their tongues.
+
+“So, Young Jin, I have heard Shen Yu’s side of the tale, but how did you meet Shen Yu?” Ge asked.

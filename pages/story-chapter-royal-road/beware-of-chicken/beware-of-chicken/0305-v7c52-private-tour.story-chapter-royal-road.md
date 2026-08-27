@@ -1,0 +1,151 @@
+---
+id: 49316f1a-f0e2-56e0-8474-e5a15033ff42
+page-type-slug: story-chapter-royal-road
+title: "v7c52: Private Tour"
+slug: 0305-v7c52-private-tour
+partOf: beware-of-chicken
+position: 305
+ownLength: 2201
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3331308/v7c52-private-tour"
+royalRoadId: "3331308"
+---
+
+We got maybe an hour or two of sleep that night, but getting up in the morning wasn’t that bad. Cultivation worked great…for most of us. The Lord Magistrate and Lady Wu both looked quite tired, but they also both wanted to see more of the mountain.
+
+“It’s nothing compared to having to work through flooding or any other kind of disaster,” Teacher said, waving his hand negligently. “A leisurely walk through this fascinating place will not bother us any, and should we need it, we shall simply retire for a nap.”
+
+Which was absolutely fair.
+
+Our room was basically a penthouse apartment suite, and so in addition to the multiple beds, there was also a massive dining table made out of marble.
+
+In contrast to the rich surroundings, and the many-course meal last night, what was on that table today was effectively fast food. Tigu had gone out with Yin and the Torrent Rider to get us all Chao Baozi, which, honestly, was really hitting the spot. It was a very informal breakfast, with people scattered all around the room chowing down on dumplings. Meimei was hanging out with Xianghua, running the other woman through what she should expect with her pregnancy while they munched.
+
+Even Zhuye had a little dumpling in his hand—because of course the dumpling house had a kid’s menu. Now it just needed to include a little toy and they could have the Joyful Meal set.
+
+“Ah!” he said, holding out his little dumpling to Xiulan, who had him in her lap. Tigu had allowed Xiulan to have her little brother this morning. “Au’ Lala! Ahm!”
+
+Xiulan leaned down and took a bite, making exaggerated noises, and Zhuye giggled.
+
+“Thank you, Xiaode,” Xiulan said with a small smile. She was the third person to get a bite of his dumplings; Washy had been first, followed by Tigu. The dragon, naturally, had immediately instigated by being smug about it, and now the two of them were rolling around on the floor… though they were clearly both just hamming it up. The grapples were more hugs than anything.
+
+“Mmm!” he said with a bright smile. He reached into the box that was open in front of him and pulled out another dumpling. I was really glad the little man didn’t seem to like throwing around his food too much, and while he did make a bit of a mess, we could trust that most of the food would get into his mouth. He took one bite, nodded at the taste, and looked around the table for somebody else to share his breakfast with. “Susu! Susu, ah!”
+
+“My thanks, Young Master,” Suyan said, carefully taking the dumpling from his hand. Her normally blank expression was replaced with a small smile, playing along.
+
+Another dumpling was fished out, and Zhuye ate most of that one, clearly enjoying the taste, and when there was only a little left, he held it out again.
+
+“Bu! Buuuuuuu!” he said, drawing out the word like a buzz. The bees with us immediately sprung into action, hovering around him. “Ah!”
+
+The bees seemed flummoxed for a moment. They couldn’t actually eat what they had been offered. But they took it anyway, three of them grabbing hold and taking their prize into the sky, parading it around the room like it was a trophy while the rest flew in formation.
+
+Zhuye eventually seemed to get full, and started grabbing dumplings just to hand out—even to people he didn’t quite know the name of.
+
+“Ah?” he asked, pointing.
+
+“That's Uncle Rags,” Xiulan informed Zhuye. The scruffy man seemed rather shocked that Xiulan introduced him like that, before he blushed and scratched the back of his neck.
+
+“Unc’ Aggy,” Zhuye decided, holding out a dumpling.
+
+The scruffy man laughed. “Ha! He has his father’s generosity!”
+
+Uncle Wei—Loud Boy—was next.
+
+I smiled and watched, just letting the moment of peace linger.
+
+=============================
+
+And then it was time to be a cultivator again as we stepped out into the Dueling Peaks. I became Master Rou, and Xiulan became the Grand Marshal.
+
+I walked arm-in-arm with Meiling down the halls, accompanied by Xiulan, Gou Ren, and Delun, plus of course Teacher, Lady Wu, Suyan, and Xue Ji. Everyone else had to go back to their own duties. They could have stayed for the trip, but that would just mean they would have a lot more work to finish later.
+
+It was a bit disappointing to not spend more time with them, but we would be seeing them later today. The first thing I asked to see was the location Gou Ren and Delun were currently working on.
+
+“This is the main levitation shaft,” Delun said, holding his arms out. The entire room echoed, and was filled with people already hard at work. Some people from Delun’s sect carved into the walls, monkeys transported things to and fro, and people without any clear affiliation were hunched over blueprints. Everyone paused and bowed when we came in.
+
+Normally I would have just said that they should ignore me and keep going, but, well, they couldn’t really do that, and I knew from my own work experience that being “as you were” when some important visitor was present was basically impossible.
+
+So instead I greeted them and they joined up with our group for the moment. Zhuye sniffed once or twice, but this number of cultivators seemed to be manageable for him.
+
+I had seen plenty of megaproject videos in the Before, but seeing into the guts of the mountain was something else entirely.
+
+Meimei just stared up, trying to disguise her obvious wonder at the sheer scale that surrounded us.
+
+“I remember when we were first building this. I dropped a bladder full of water from the top and nearly hit Ruolan with it. She was mad at me for months,” Tianlan chuckled in the back of my head.
+
+The main levitation shaft was a straight passage that went from the bottom of the mountain to the top, a tube like a massive elevator… and one that had clearly seen better days. There were massive chains coiled off to the side of the room, and holes that were bored into the side of the mountain to fit them. Titanic lockstones poked out of the walls at regular intervals, where they were used to hold the arena into place once it had reached a certain height. They had to be hundreds of thousands of tons each. The stone floor was stained with thousands of years of sweat and blood, from where cultivators had to haul the entire arena up manually.
+
+More than that, there was obvious Qi afoot. There were crystals in the walls, and glowing characters were carved directly into the stone. Most of the cladding on the walls had been removed, exposing even more strange-looking internals.
+
+Delun and Gou started talking about what they were doing—it was a lot of chiseling and formation repair, and the levitation shafts were going to take years of work before they had all their functionality restored.
+
+For example, right now it didn’t have a “slow drop” function. It would just plummet until it reached a certain height, then abruptly slow, like there was a cushion of air beneath it.
+
+The cultivators didn’t mind it, but it would probably kill any mortals in the stands.
+
+“We’re thinking that even after it's repaired, we’re going to keep the chains for the Dueling Peaks Tournament,” Xiulan said. “The Elders, raising the next generation higher, and the contestants working together, is to a lot of people an integral part of the tournament—and then even the winner has to help lower it back down.”
+
+It was a show of solidarity, if nothing else—and the Elders, working together to lift the next generation higher… it was a good image.
+
+“There's one on the other side of the mountain as well. How long is this all going to take to repair?” Meiling asked.
+
+“At least a decade to restore the majority of functionality. We’re probably still going to be working for at least the next fifty years to get everything done,” Delun said.
+
+It was simultaneously a very short and a very long time for cultivators, working on a place this big.
+
+===================
+
+We kept moving through the mountain, looking at more systems, extra rooms, what looked like a crystal jumbotron used to record and replay matches, and what was even a museum of sorts; it contained several important documents and even some drawings on the wall, said to be done by the First Emperor. In this case, the First Emperor being Xiaoshi.
+
+Then we went to the heart of the mountain, into the main halls, where most of the administrative work got done.
+
+That's when we started running into more people. All of them were wearing a blue top, with their sect symbol over their heart, and the character for Azure on their back.
+
+“Grand Marshal! Master Rou!” people would call out, stepping at the side of paths and bowing. Most of them were from the Younger Generation… and all of them greeted Xiulan first.
+
+Their words were full of genuine respect. There was no faking the regard they held her in.
+
+Xiulan returned their greetings—most of them by name. The interactions were brief, but occasionally she would ask a question; how a family member was doing, if they had succeeded in mastering one of their techniques they didn’t have quite right, when their next patrol was, and more.
+
+It was like watching the Lord Magistrate walking through the streets of Verdant Hill. The Lord Magistrate himself was stroking his beard, a small smile on his face.
+
+She eventually brought us to the end of a hall and presented a door to us.
+
+“And finally, this is where I work,” Xiulan said, opening the door to a well-appointed office. It was a nice place—but it was clearly a work space, and one heavily used.
+
+“Grand Marshal! Welcome back!” Sarnai said, bowing politely at the entrance. “And good morning to you as well, Master Rou, Lady Meiling.”
+
+Xiulan gave a little nod. “Good morning to you as well.”
+
+“Good morning, Sarnai,” I said, quite pleased I had remembered her name.
+
+Her eyes widened and her cheeks flushed. She bowed deeply. “Ah-ah- Lovely weather we’re having today!” she immediately winced. Ah, being in the room with a “big shot” was probably intimidating. I was a bit sorry I had spooked her.
+
+“It is indeed. Thank you for spending it indoors. Xiulan has mentioned your help is invaluable,” I said.
+
+“Thank you, Master Rou! Thank you Grand Marshal!” she replied, and then managed to compose herself, letting out a breath and focusing on Xiulan. “Also, as you asked, Grand Marshal, I have everything arranged for you!”
+
+“Thank you, Sarnai. Could I have a moment alone with Master Rou, please?” Xiulan asked.
+
+The woman nodded and retreated.
+
+We walked further into her office, and then I saw her desk. Neat, organised, and... with a really quite large stack of paperwork.
+
+“Hmm, less than I was expecting,” Teacher said, stroking his beard.
+
+Xiulan laughed.
+
+“In the early days, I had to look through everything… before I managed to set up a system. These days only the more important documents touch my desk. But if it touches my desk, it normally means it takes a while. These and the meetings take up most of my time. Because of what I did with the crystals, I’m trusted to be an impartial judge… and I do my best to live up to the trust people are placing in me.”
+
+It sounded exhausting. And yet there was no trace of fatigue at this moment. Right now, she was the Grand Marshal. Her blue eyes practically sparkled with energy.“What's the big project right now?” Meimei asked, and Xiulan showed us, pulling out papers, as well as a scroll with facts and figures, blueprints for repairing more nearby buildings, and a comprehensive list of things they would need.
+
+“Right now the thing that's taking up the most time and money is, as Rags said, integrating independent cultivators who joined up, as well as the newly-ignited. It's still very new, but we want to offer the best incentives we can, and give them a stake so they don’t feel the need to just go bandit—because Rags has heard some discontent about how the sects control everything. I’ve got an idea. Or the start of one. We have a small bank of techniques that belonged to our ancestors that have no clear line of succession and use those as the foundations for our independents, if they elect to not join one of the sects.” She looked right into my eyes. “It’s not just the sects’ domain. This is their province too.”
+
+Her voice was full of passion. Full of not just care, but genuine concern.
+
+Xiulan had the power to help, so she was helping. She had a goal, a dream of a better future… and was trying her hardest to reach it.
+
+We all sat back to listen to Xiulan talk—just being there and letting her bounce ideas off us.
+
+…she really was amazing.

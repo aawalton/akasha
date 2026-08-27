@@ -1,0 +1,183 @@
+---
+id: 36348e3b-3182-5d9b-98ae-5e582bc1303e
+page-type-slug: story-chapter-royal-road
+title: "v4c41: The Rumbling on the Horizon"
+slug: 0054-v4c41-the-rumbling-on-the-horizon
+partOf: beware-of-chicken
+position: 54
+ownLength: 2428
+unit: words
+ownProgress: 2428
+publishedAt: 2023-09-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1347406/v4c41-the-rumbling-on-the-horizon"
+royalRoadId: "1347406"
+markedReadAt: "2026-06-29T18:53:14.168Z"
+---
+
+“...In this case, demonic corruption cannot be countered conventionally. The only recourse is for the patient to excise it themselves, barring the use of Rebirth Lotus Petals. Such a treasure cannot normally be sourced, however…”
+
+Hong Ri Zu put down the scroll, leaned back in her chair, and stretched. Her arms rose above her head and her spine made a small popping sound, belying the amount of time she had already spent hunched over this desk.
+
+Master Lishu had been as good as his word. He had allowed her access to a whole host of scrolls on demonic corruption, and additionally had let her examine all the patient records of the Shrouded Mountain Sect.
+
+It was an absolute wealth of knowledge spanning thousands of years of collected records, going all the way back to something called 'The Blood Arts Purge.'
+
+Ri Zu had skimmed those ancient scrolls, and after the first paragraph… well if what had been written was even remotely true, then Ri Zu was glad there had been a purge. She did have some reason to doubt, though. Yun Ren had been particularly angry that night after he requested Ri Zu come to him in her rat form.
+
+Ri Zu had been similarly appalled. The Inquisitors… they disturbed her.
+
+Ri Zu sighed as she looked down at the most important scroll on the desk.
+
+Master Lishu had handwritten this one. It detailed a few injuries from an expedition led by an Elder Shenhe, with all of the dates removed. One thing, however, was clear. Members of the Shrouded Mountain Sect were fighting demons. Recently.
+
+And now, as a full member of the Medical Pavillion, Ri Zu had been allowed to see one of the injured men, in a locked and private ward. He had been poisoned… but that was the only information that had been given. He had spoken not a word about what he had been doing.
+
+Combined with the rumours Bi De had discovered about an altercation in the north, and Yun Ren’s own story about why the Inquisitors wanted his powers, all of them had finalized their conclusion that they were to present to Shen Yu.
+
+As far as any of them could tell, the Shrouded Mountain Sect was free of demonic taint. Of course, Ri Zu and her friends could be too weak or too blind to see it, but Ri Zu had her doubts.
+
+The sect had been infiltrated, Master Jin had destroyed the infiltrator, and now the Shrouded Mountain Sect had gone on a rampage trying to find the demonic taint, apparently under orders from what they thought had been the Cloudy Sword Sect.
+
+They had concrete information that there were some kind of demon activity, and the Shrouded Mountain Sect, contrary to being in league with them, were actively fighting against the incursion.
+
+It all seemed fairly straightforward, in her opinion. However, things felt… well, unsatisfying for some reason.
+
+Ri Zu carefully gathered up the scrolls she had been examining and put them away before exiting and locking the doors behind her. She headed to the break room, in dire need of some tea.
+
+Senior Sister Hutao was already there, her eyes closed, and the older woman looked up when she noticed Ri Zu’s entrance.
+
+“My pot is still half full, Junior Sister,” the woman stated simply.
+
+Ri Zu smiled and took a seat beside her fellow doctor. She reached into her robes and produced a few hard candies that Master Jin had taught her to make and placed the sweets on the now empty plate of her Senior Sister.
+
+Hutao smiled at her, picked up a candy with one hand, and pulled out a scroll with her other. “Fortuitous timing, Junior Sister. I would like your opinion on this method of treating a shattered knee. How many assistants would you think is the correct number?”
+
+Ri Zu leaned forwards, ready to give her opinion. “Well, Ri Zu thinks one should suffice, if only to hold the skin out of the way—”
+
+They spoke for an hour. More of their colleagues came and went, asking questions, or chuckling about having to give some poor fool a toxin purge after he knocked his pill furnace off a shelf and onto his head.
+
+It was fun. Ri Zu felt slightly sorry for her friends.
+
+Bi De had to sit alone in his mansion. Yushang and Fat Han had their own menial duties. Yun Ren had the most dangerous job out of all of them, and she constantly worried for his safety.
+
+Ri Zu got to pursue her passion—and when there were no patients, she got to sit in the break room and drink tea with her fellow doctors who were proving remarkably forthcoming with their knowledge.
+
+She had learned so much already; she couldn’t wait to show her Master. To give back to the person who had taught her so much. If Master Jin was their father… then Ri Zu’s Master was most assuredly their mother. Or Ri Zu supposed, technically her Master was her older sister. Uncle Xian had adopted her as an additional daughter, after all.
+
+Ri Zu smiled to herself as she imagined the look on her Master’s face when Ri Zu showed her her human form. They certainly looked like sisters now. Ri Zu had been especially careful to have freckles for that reason.
+
+Well, that and to annoy Tigu.
+
+She shook her head and returned to the conversation, talking and laughing and joking for a little longer, and then returned to her task of studying.
+
+She really was enjoying her time with them.
+
+As she walked into the Archives once more Ri Zu stopped and blinked, realising why things felt so unsatisfying.
+
+They had come here expecting to render judgement upon the whole sect, to find their dirty secrets and crush this obvious enemy. But that seemed not to be the case. Bi De didn’t particularly like the Inner Sect disciples, and thought they were wasteful, but he could not say that most were outright evil.
+
+Yun Ren had the worst of their assignments, and he clearly didn’t like the Inquisitors. What he had found was shameful but hardly uncommon in the world of cultivation from what she had learned. Was indolence, pride and arrogance enough to consign the whole sect to death? It would mean they would be crushing people like Yushang, Fat Han, or thousands of their mortal servants.
+
+Ri Zu herself couldn’t condemn the Medical Pavilion. Master Lishu, though rather jaded and bitter, was a fine doctor—as were all her colleagues. They took their duties seriously, and were even treating the new assistants Ri Zu had trained well. Could she judge them all? It was a hard question to ask.
+
+Ri Zu didn’t want the whole mountain destroyed, but she also didn’t want them to continue as they were.
+
+There was no clear, obvious path forwards at the moment. That was why it felt unsatisfying. Their war against the foxes was abhorrent. Their inquisitors' treatment of the Che family was appalling.
+
+And yet they were fighting the demons in the north.
+
+Ri Zu was still thinking about it hours later, after dinner. It had been a simple fare of rice and mountain goat, but Yushang somehow made it taste great. Ri Zu had smacked her over the head with a spoon when Yushang had said the secret ingredient was love.
+
+It was rather humbling that despite her Master’s skills, Ri Zu was actually the worst cook out of the four of them. Yun Ren and Yushang made hearty meals, while Fat Han could impart delicate flavours that even Ri Zu’s Master would appreciate.
+
+But now, in the night, Ri Zu could do nothing but think. Yushang was a quiet sleeper, thankfully, if an uncouth one. She laid sprawled over her blankets with one hand on her bare stomach, and her chest practically spilling from her clothes.
+
+Ri Zu chuckled at Yushang’s sleeping habits before turning back and staring at the ceiling.
+
+What to do, what to do….
+
+============================
+
+The next day, however, there was no time to think as the emergency gong rang through the Medical Pavillion and the doctors rushed to their stations.
+
+Master Lishu stormed into the main room, his face grim.
+
+“An Outrider Squadron was engaged by a King Tundra Wolf and its pack. Though they defeated the threat, the damage the beast did was immense. Casualties number four in critical condition, two deceased. Standby at the emergency room for Thunderous Transmission from Firefang Outpost.”
+
+“Yes, Master!” all of them shouted, sprinting down the mountain. The 'emergency room' was actually off the main Shrouded Mountain and closer to the city, just in case some manner of enemy managed to copy the techniques that the Shrouded Mountain Sect was known for.
+
+They arrived just in time. The air was charged with electricity, and then, from the clear blue sky, a bolt of lightning smashed into the earth. Ri Zu winced as the Qi hit her.
+
+While the Shrouded Mountain Sect's numbers were great… this was the true reason why they were considered the strongest sect in the Howling Fang Mountains.
+
+Because carried within the bolt of lightning were cultivators. All members of the sect learned that they too could ride the wrath of heaven into battle—deploying an entire army of cultivators in seconds.
+
+Normally, the technique was used to hurl Fulmination Squadrons into battle from the main formation at the top of the mountain. The range from the main formation was massive, delivering troops to nearly anywhere in the province.
+
+The smaller, weaker versions in the outposts had much less range and power.
+
+The power quickly dissipated, and instead of battle-ready cultivators unsheathing their blades there were four bodies laying on the ground with seals attached to them to protect them from the violence of the transport.
+
+Master Lishu was beside the men immediately, his sharp eyes roving over them and diagnosing them in seconds.
+
+“Hutao,” he commanded, and the woman sprinted to the man he pointed at. “Yuanzi, this one. And Ri Zu, this man.”
+
+Ri Zu responded immediately, skidding to a stop beside a man who looked to be at death’s door. He had the worst injuries Ri Zu had ever actually seen—the man had been disemboweled and had his cut off leg tied to his side.
+
+Ri Zu immediately began to diagnose his injuries when she froze.
+
+She very nearly cursed when she realised why Master Lishu had given her this man to heal.
+
+Because there was only one choice. She could not save his life and his cultivation.
+
+It was a demand. A demand to prove herself, and Her Master’s teachings.
+
+Ri Zu refused to waste time by looking up at Master Lishu. Instead, her battle began immediately.
+
+She would not be found wanting.
+
+She would save his life and have him regain his cultivation.
+
+===================================
+
+Far below the Medical Pavillion, an old streetsweeper stepped to the side as cultivators rushed back up the mountain with the wounded on stretchers. He watched them go, then shrugged and continued walking to the security checkpoint leading out of the mountain. He was a shaggy thing, this old man. His beard wild and long, and his clothes in disarray after a hard day’s work. He yawned boredly as an inquisitor gave him a once-over then waved him through the gate.
+
+He hitched a ride on a cart that was headed down, and dozed on the back of it with a hat over his eyes. He would occasionally take a swig from his wine gourd and he even offered the cart driver some of his bounty.
+
+The cart driver gratefully accepted—then started coughing and spluttering as the rotgut hit his throat, much to the old man’s amusement.
+
+It took an hour, but they eventually found themselves in the bustling city that surrounded the Shrouded Mountain, and the old man hopped off the cart.
+
+“Where you headed, old timer?” the young man asked.
+
+“To the brothels, of course!” the old man declared with a grin.
+
+The young man laughed at the old man’s response.”Try the Red Silk!” the cart driver recommended. “No cultivators there!”
+
+“Are you kidding, lad? I’m going to the Painted Lips! Half the fun is the challenge!”
+
+The young man stared in awe at the old man’s swagger as he headed towards the most popular brothel  in the city.
+
+An hour later, and the entire establishment was staring in amusement. The old bum just seemed to draw in the courtesans. The beautiful ladies crowded around the old dog as he entertained them with a story of a young man who dropped a pill furnace on his head, while the cultivators in the establishment seemed utterly amused.
+
+“A drink for the old fool!” one of the cultivators called.
+
+“A toast to the benevolent Young Master!” he replied gleefully, before leaning back so his head could rest on the chest of a woman in red silk. Her bountiful tracts of land on either side of his head. “And remember you, whippersnappers! This is the best place to rest! It keeps your ears warm!”
+
+The woman rolled her eyes as fresh laughter surrounded them.
+
+An hour later, the old man himself retired—marching off into the streets thoroughly plied with booze from cultivators. He staggered drunkenly to a small house and collapsed into his chair.
+
+Then he pulled a small crystal out of the folds of his robe and touched it.
+
+“Already? I was expecting this to take longer,” a genderless voice crackled out of the transmission stone.
+
+“Take longer? I had everything I needed within a week. Everything else has been for pleasure,” the old man said as he pulled the cork out of the bottle of cheap alcohol. “Security is surprisingly good. You were right, you couldn’t have gotten within a hundred Li.”
+
+“Forgive me for doubting you, My Lord,” the voice stated contritely. “How are our children?”
+
+“Learning! I do think this is good for them. A bit too passive at the beginning, but that was to be expected. Some things were also a bit convenient, but… luck is indeed something that should be taken into consideration. I do wonder what their verdict will be.”
+
+“As do I… but what is your verdict?” The voice was a bit too eager.
+
+“Now, now. Patience is a virtue, Nezan,” Shen Yu said with a smirk. “I’ll tell you after their little tournament. I’ve got a bet with Old Li, you see. We’ve both bet on our cock to win the whole thing!”

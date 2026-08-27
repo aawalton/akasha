@@ -1,0 +1,393 @@
+---
+id: 98465605-2eba-5d01-b7f9-26931b7d6818
+page-type-slug: story-chapter-royal-road
+title: "1: Doomsday prepper meet Raison d'être"
+slug: 0001-1-doomsday-prepper-meet-raison-dtre
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 1
+ownLength: 5654
+unit: words
+publishedAt: 2023-02-03
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1104381/1-doomsday-prepper-meet-raison-detre"
+royalRoadId: "1104381"
+---
+
+Jack Anderson was sipping a beer on his sofa, watching the highlights of a football match on his fancy home theater set-up when his phone started buzzing loudly. With a small sigh in irritation, He gave his smartphone a glance and then decided to accept the call.
+
+“You got some news for me?” Jack asked, his tone sounding out a little annoyed.
+
+“The commission you ordered? It’s done,” An aged voice sounded out from his smartphone, it’s cadence characterized by a thick southern accent.
+
+“Which one? Jog my memory a little,” Jack asked, going from disinterested to having his interest somewhat piqued.
+
+“The pump-action? Four months ago? Golden-red paint job?”
+
+“Oh that one,” Jack replied, as his interest began to fade. That piece had been more of an impulse buy, really. He hadn’t put all that much thought into the customization, settling for only five mods and a uninspired paintjob when he’d usually go for twice that.
+
+“Yessir. Oh, and that antique blade you had me looking out for. Current bid is twenty six percent over the limit you set. Still want it?”
+
+“Right, the Khopesh. How much is it going for?” he asked, light excitement seeping into his voice. His collection still lacked the elusive blade and this was the real deal, not some shoddy replica or some poor forgery. No, this came straight from the Nile Valley, in all its barely intact glory. Or.. well, it came from a defunct museum selling artifacts that it could no longer afford to maintain but… same thing. And it would make for a good tax writeoff.
+
+“7,700$.”
+
+“Jesus christ, man. Really busting my balls here,” Jack mock protested in good humor
+
+“That a yes?” The aged voice replied, amused.
+
+“Yeah man, send it over. My insurance premium is about to skyrocket again, isn’t it?” he asked in jest.
+
+“Thank you for your patronage. Now, do you want me to send the boys, or are you planning on driving to the town?”
+
+“Hmm,” Jack seemed to deliberate the matter, before giving his reply, “I’ll come by around five thirty, yeah?”
+
+“Sounds good.”
+
+Jack cut the call from his end, sinking into his plush sofa. Plucking the beer mug from the table, he downed the remaining beverage in a single swig, feeling the cool, refreshing and mildly bitter liquid stream down his throat. Walking over to a sliding glass door, he gently pushed it aside. A pleasant breeze wafted past him as Jack stepped onto the veranda, taking in the pure, unblemished countryside in.
+
+“Might be a good day for a trek,” he murmured to himself, taking a few minutes to appreciate the vista before him, his mansion ensconced by a verdant forest, the sound of chittering insects and distant bird songs forming nature’s beautiful, touching melody.
+
+Letting out a gentle sigh, Jack headed back inside.
+
+He walked through his repurposed home theater room, past the dining hall and then took an abrupt right that spilled into a long hallway. A few minutes later he stood before an unassuming door that looked like a service exit, an installation that was not too uncommon when you lived in a veritable mansion. Stepping through the door and walking down a narrow flight of stairs, Jack, oddly enough, found himself before another door.
+
+But the difference was palpable.
+
+He found himself staring down a reinforced steel door that was easily six, maybe seven times thicker than his main door. There was no handle or doorknob, nothing but a metal numberpad sticking out next to the door.
+
+A tapping sound echoed out as Jack punched in the combination. The sound of pressurized air leaking sounded out followed by a loud whirring of mechanical parts sounded out as the heavy door began to fold inwards. Another, even longer flight of steel reinforced concrete steps awaited him. His only companion was the sound of his own footsteps as he walked down the stairs, far deeper than a normal basement had any right to be.
+
+His footsteps landed onto a warm berber carpet that spilled across the length of the wide chamber. Or, more accurately, his fully functional state of the art nuclear fallout bunker equipped with cold storage canned food, frozen food and just about every type of food that could last for years on end without expiring. Of course, he also had regular old chicken nuggets for regular old non-nuclear apocalyptic days. One could never really go wrong with chicken nuggets.
+
+His gaze shifted to his armory, for what safer place was there for his precious weapons than a nuclear bunker? He’d opted for a wall display for his modern weaponry— semi-autos, handguns, shoutguns, you name it, and there were atleast three of each. Hell, he even had a decommissioned RPG proudly racked onto the wall the terrified “is that real?”’s he got each time he showed it to someone alone worth the five grand he’d offloaded to an antiques dealer.
+
+His historical artifact collection, predominantly focused on medieval era weapons were stored behind bulletproof glass displays with infrared scanners— a courtesy of his insurers, that insisted upon this measure. An alarm would go off if anyone tried to unseal the collection without his keycard, which included an ancient Katana from the Heian era in Japan, an Espada Ropera from late fifteenth century Spain, apparently one of the first few ever made; which was a great honor indeed, to be able to own a blade that inspired the rapier into existence and an indonesian Kris from the late fourteenth century.
+
+In his eyes, an ancient artifact was like the ebb and flows of history crystallizing into his admittedly unworthy hands, a truly magnificent experience. That error would be rectified after he died, for his historical artifact collection was going to be donated to a National Museum.
+
+Neither was he actually disrespectful enough to put the already delicate weapons to the test, his only wish to experience them in the flesh. Most could not understand it, but then again, most people weren’t doomsday preppers now, were they?
+
+His gaze fell upon the empty glass case that would store the Khopesh if he won, knowing that he was in for an interesting time. Jack made it a point to have a replica forged for every artifact he owned, before he set out to train extensively with that weapon, even to the point of having instructors flown out for stretches that varied from weeks to months. It was his way of paying homage to the artifact, of the winding river of history the blade’s curvature echoed.
+
+He unsheathed one such replica that had been casually resting in a wicker basket before walking over to the center of the room. Taking a deep breath, Jack began cycling through basic forms, or Kihon Happo. Simple cuts, slashes and thrusts combined together to form a beautiful symphony, a blade song— for Jack did not rush things, his movements far too slow to be useful in actual combat.
+
+He simply wished to refine his movements, correct his balance and focus his intent into the blade, finding it quite a relaxing exercise.
+
+Twenty minutes later, he walked out of the bunker with a handgun strapped to his waist, sealing it behind him before he walked back to the upper floors.
+
+Stepping into his drawing room, he was greeted by the sight of his butler setting the table for breakfast. His neatly combed hair was a thicket of black peppered in with strands of gray, his uniform pressed and his shoes spotless.
+
+“Morning, sir,” The middle-aged man asked, a thick british accent audible in his voice.
+
+“Robert,” Jack acknowledged. “Are those pancakes I smell?” he asked, before slumping down onto his seat.
+
+“indeed, sir,” He replied. “Served with fruit compote and a dash of whipped cream,” Robert added, as he took the seat opposite Jack. A glass of freshly squeezed orange juice was his only accompaniment, but the butler didn’t seem to mind it.
+
+A minute passed as Jack sampled the pancakes, truly appreciating the rich, syrupy goodness as he tucked in another bite before focusing his gaze on the estate manager.
+
+“My compliments to the chef,” he offered.
+
+“Thank you, sir,” Robert gracefully accepted the praise.
+
+“So, what do you think?” He asked.
+
+“Pardon, sir,” Robert replied. “I’m not sure what you mean.”
+
+Jack let out a muffled chuckle. “This might be a little presumptuous of me, but I’m going to venture a guess anyway. I’m pretty sure your last client didn’t have enough weapons to outfit a small militia sealed in a nuclear bunker,” he chortled unabashedly. After all, his last butler and his estate manager had left for the same reasons, even if they hadn’t openly explained themselves.
+
+Robert seemed to be a little vexed for a long second, before a small smile made its way onto his face, “Permission to be candid, sir.”
+
+“Sure,” He replied, intrigued.
+
+“Compared to the other ‘pursuits’ that I have witnessed in this line of work, yours are rather tame, sir. You seem to treat the house help well, are friendly with the townfolk and pay generously. Those are all green checkmarks in my line of work,” Robert replied, honestly reflected in his blue-gray eyes.
+
+“That is a generous assessment,” Jack replied, as he tucked into the last of his remaining pancake. “You know, this would be a lot less awkward if you just had breakfast alongside me.”
+
+“I am touched by your consideration, sir, but that would be unprofessional."
+
+“I suppose I can only respect your wishes. Well, the weather seems pretty friendly today. I’m thinking of going on a small hiking exertion, stretch the legs a little.”
+
+“I shall make the arrangements, then. Will you be requiring a driver?”
+
+“No, I’ll drive. Make sure to pack rations for three days.”
+
+“Very good, sir,” Robert calmly replied, giving Jack a nod before heading towards the storage room.
+
+He breathed in deeply as he took in fresh countryside air, his gaze shifting to the expanse of trees stretching out beneath him for miles. Only from this vantage point could he appreciate the raw, untamed beauty of the scenic vista. Malanike Nature Preserve was off limits to most people, his permit being the only thing giving him access to the sacred sanctuary. He wasn’t allowed to hunt in the area, the gun holstered upon his waist for self defense and self defense only.
+
+This was part of the reason he’d relocated so far off the beaten path, away from the bright lights, incessant crowds and the never-sleeping cities.
+
+He enjoyed the gentle hymn of nature as he proceeded deeper into the Nature Preserve; the occasional chirp of a bird, the persistent low hum of crickets, the crunch of dead leaves beneath his hiking shoes, all blending together to form an experience that all his wealth could never purchase, a oneness with nature that many in the modern world had lost.
+
+Glancing at his watch, he realized that he was three hours deep into the trail; knowing from first hand experience that it would soon diverge into two routes— one would circle back to his camping spot while the other led right to the base of a small waterfall, a serene view that he wouldn’t trade for anything in the world. He didn’t want to call it a day just yet, so he kept going.
+
+Ten minutes passed, a ten minutes that should have been like no other he’d spent in his life. But Jack came to an abrupt halt in place, without any rhyme or reason. His left foot was still raised air, his right firmly rooted onto the ground. It was as if his arms were crystallized in place, rooted in their forward moving, swinging gesture.
+
+A muscle pull? No. Poison? Possible but… why weren’t his limbs moving? An illness? Impossible.
+
+He couldn't budge a single body part, not a single muscle in his body, not even so much so as a twitch. But his body remained balanced in place when he should have collapsed onto the floor.
+
+There was no pain. No strain on his knee from standing on one leg. He tried screaming for help, but no words were uttered.
+
+What came next… words failed to describe it.
+
+Ethereal blue lights blinked forward in the periphery of his vision, intersecting with each other and interspersing with the flora it passed by. Everything it touched, it engulfed completely, leaving behind an ocean of blue that was headed in his direction, with such velocity that his perception could barely keep up with it. He remained there rooted to the spot as the colour drained out of his face— horror stricken and helpless, he watched as the blue lights consumed miles of forested land in a matter of seconds.
+
+Until the end, he was unable to muster a single flicker of defiance besides the fury contained in his eyes.
+
+Seconds later, the etherial blue lights that bore a greater resemblance to a wildfire, now that he was so close to its onslaught, engulfed him as it had engulfed every blade of grass, every trace of human civilization in its path. He was no miraculous exception to the seemingly divine fury.
+
+Why do these flames carry no heat? Jack thought to himself, the last thought he was allowed before darkness ensured.
+
+He gasped out loud. His eyes shot open. Adrenaline pumped through his veins as he found himself falling forward. It was only years of training that allowed him to place both of his hands in front of himself to cushion his fall instead of faceplanting.
+
+Disoriented was an understatement. Discombobulated, perhaps, was more accurate. Physically, he was in no pain. In fact, he felt better than he had in years; as if he had gone through a… de-ageing procedure? His musculature felt limber, his skin more silken and his body, rejuvenated.
+
+The afterlife? he thought, as he groggily got back onto his feet.
+
+To be confronted by the thought of reality, as he’d known and perceived it, ending; without him able to raise a single finger, twitch a solitary muscle— never had Jack been subject to such humiliation before. It was a mockery of his years spent training, it was a revelation of power that made an open spectacle, sending a very vivid message- his life, his existence, his perceived strength, all that could be taken away from him in an instant.
+
+Those half-thoughts and emotions had been clouding his mind, only to find himself awake, unharmed and better than ever.
+
+As he got back onto his feet, the only question he has was if he’d landed on the other side or not.
+
+The whiteness of it all was nauseating, a fact that only seemed to strike him now.
+
+He was in a… perfectly white, cubiodal room with no visible exits. Instinctively finding himself clocking the room for threats, he found three pieces of furniture that were almost imperciptible, completely camouflaged in the same hue as the rest of the room. Two accent chairs were placed opposing each other, a small centerpiece table placed in between.
+
+The next second his right hand blurred, as he reached for his handgun holstered at his waist, drawing it in one fluid motion and firing three rapid bullets in quick succession. Three clicks rang out instead, Jack’s expression slowly morphing into one of shock. His reaction had purely been an instinctual one— drugged, kidnapped, part of an elaborate prank, hallucination, all that hadn’t mattered in the moment.
+
+What had, was that one of the chairs’ wasn’t empty as he’d originally thought— no, there was a distortion in the air, one he had to focus on to reveal a humanoid entity. Roughly four and a half foot tall, draped in a shimmering white cloth from head to toe that seemed to float around the being instead of actually being worn and an eerie white mask, which, when he examined carefully, had fractals covering the entirety of it’s surface. Rather, the entire mask itself seemed to be pieced together out of small fractals.
+
+An otherworldly aura seemed to cloak the arcane being, sending a chill down his spine
+
+“Your first instinct was to resort to violence,” The voice had a raspy, metallic tang to it that made Jack wince, his words grating against Jack’s ears. “How wonderfully human of you,” he added, a spark of amusement audible in his voice.
+
+Jack’s breathing turned shallow.
+
+His thoughts slowed.
+
+His brain struggled to comprehend what he was witnessing.
+
+The arcane entity unclasped his right hand, revealing a magazine’s worth of bullets held casually in his palm.
+
+“The first law of thermodynamics states that…,” The arcane entity began and Jack watched with a melange of shock and terror as the bullets hovered above the being’s palm, pointed in his direction. Then, he snapped his index finger and thumb together, and the bullets exploded— Jack was on the verge of making a break for it, but he paused when he noticed that reality did not match his expectations.
+
+The bullets lay suspended in the air, or rather, the shrapnel exploding outward and the small bouts of flame emanating from the site of its imposition were… stationary, as if they had been frozen in time.
+
+“Energy cannot be created or destroyed, only transferred from one form to the other,” they said, a hint of mockery in their voice as their gloved hand reached for the suspended mix of fire and shrapnel, gathering them all in the palm of his hand before clasping it shut.
+
+“The law in itself is not inaccurate,” The arcane entity explicated, slowly opening the palm of his hand to…. reveal nothing. No heat, light or sound, as if the bullets had never been in his hand to begin with. Not even a trace of the matter that had been clasped in his hands. “It only fails to consider the existence of higher forms of energy, laws beyond your own.”
+
+Who are you? What do you want? Where is this place? How did you accomplish that? Is this reality? Am I dead?
+
+Those were the questions circling through his mind, all valid questions but…
+
+Jack was staring at the arcane entity with a glimmer of desire flashing in his eyes.
+
+“How do I get access to that power?” he asked, all his doubts, his questions, his hesitations faded, as he asked that one question, almost mesmerized.
+
+The masked entity broke out into a grating laugh.
+
+“You are an interesting man, Mr. Jack Anderson. That is certainly one of the rarer initialization first questions I have been asked,” the arcane being replied, seemingly in good humor.
+
+Jack grunted, unamused.
+
+“You have me in checkmate. With your little display there you’ve made resistance futile. Not that I’d particularly know where to go even if I somehow managed to kill you. That leaves three possibilities— either I’m insane, you’re an otherworldly being or I’m in the afterlife. In any of those scenarios, I have little left to lose,” he replied with a shrug, trying to put a strong front in an effort to mask the conflicting emotions rippling through his mind.
+
+“How blasé," the arcane entity replied. “Then, shall we move on to the difficult questions? Like why the last descendant of the Anderson family, former mass media tycoons, heir to a veritable fortune, is hiding out in the middle of nowhere? Why has he spent the last decade projecting the image of a socially inept, paranoid wastrel? Your desire for strength is well rooted in reason, but your obsession with the doomsday? Admittedly, a plausible facade.”
+
+Without even realizing, his fists were clenched. His muscles tensed, his breathing grown faster.
+
+“You know,” Jack growled more than snarled, his gaze almost completely consumed by a visceral desire for violence.
+
+“Are you referring to the tragic, untimely demise of your biological guardians? Well yes, I do know. You play the part of an inept wastrel very well, for a man of your determination. Or perhaps, it is because of your determination that your true persona has gone unnoticed for so long?” the arcane being questioned, his tone ponderous. “May I point out the chink in your armor, the veritable flaw in your facade?” he asked.
+
+“Go…ahead..,” Jack barely managed to croak out, holding his fury back because he desperately wished to fish for more information.
+
+“You are too kind. A true wastrel would be more wasteful, more volatile, whilst you just project an image of volatility. If your observers had watched more closely, they would have caught on,” the arcane muttered, and Jack could almost see through his mask and feel the cruel smile behind it.
+
+“So...,” Jack’s eyes widened, as he sucked in a cold breath of air.
+
+“Indeed. As you have long suspected, the demise of your biological guardians was not a, quote-on-quote, natural one,” he spoke the words aloud, knowing full well what it would do to his psyche.
+
+Jack began to walk towards the arcane being, no longer concerned by the consequences.
+
+“Give… me… a name,” his voice bellowed out, his tone sharp and dangerous as he rapidly approached the arcane entity.
+
+“Hmm…,” the arcane being let out a thoughtful hum, before replying, “No, I don’t particularly feel like it.”
+
+Jack knew he was being goaded. He knew that the goal of this arcane entity was to push him till he retaliated and though he didn’t understand his intentions, he was smart enough to sidestep the provocation.
+
+That said, there were certain things that were not allowed to be spoken in his presence. Certain truths that once divulged, had to be divulged in their entirety. Certain provocations, from which a man could simply not back down from.
+
+Jack charged.
+
+The entity rose from his comfortable looking chair. rising to meet Jack’s challenge.
+
+He feinted with his right, before throwing a right hook with a wide arc aimed right at the arcane entity’s right temple. He might have been furious, but that hadn’t affected his spatial awareness or battle IQ. As he suspected, his punch was evaded. But not in the way he’d expected, for instead of dodging, his punch was gently pushed aside in a masterful display of the martial art, Wing Chun.
+
+He followed with a brutal low-kick aimed at the knee-cap, only to wince when it was met with the arcane entity’s shin.
+
+He felt the air being knocked out of his lungs as a powerful palm landed against his abdomen, when it could have been a far more merciless strike.
+
+“Krav Maga? You really want to hurt me, don’t you?” The arcane entity chided, as Jack felt his fury abate a little.
+
+A battle, as one of his instructors had taught him, was a conversation. Stance, body language and methodology conveyed a lot more than the fighter’s next move. One had to listen carefully and they would be able to perceive the enemy’s intent— though a fighter’s tics were hard to grasp, it was not difficult to judge if an enemy wished to seriously injure you or if he was simply toying around with you.
+
+In this case, the Arcane entity was doing neither— rather, he was offering guidance. Subtle as it might be, Jack had reallized that he was pointing out weaknesses in his fighting style.
+
+Or rather, he’d only realized that when he noticed that the Arcane entity hadn’t moved from his original spot.
+
+This time, Tom adopted a boxing guard as he approached the arcane entity, his expression focused. Even before he reached striking distance, he shifted his stance and delivered a brutal kick that unfolded with a pivot, aimed for the neck.
+
+“Shit,” Tom thought to himself, as he felt a kick land against his own shin, on his solitary leg that was planted onto the floor.
+
+“Yop chagi, Taekwondo. Inventive,” the arcane entity complimented, only serving to further agitate Jack.
+
+Time after time Jack rose, and each time he was tossed aside, slammed, tripped, kicked and redirected towards the floor. The most frustrating part was that the arcane entity insisted on using martial arts Jack considered impractical, like Aikido,using it with preternatural skill, with almost precognitive accuracy.
+
+“What…,” Jack croaked out, as he grasped for gulps of air. “...the… fuck.. do you want, man?”
+
+“Oh,” the arcane entity replied, his tone almost crestfallen. “Now that you’ve asked that question, I suppose I am obligated to answer.”
+
+“Spit it out,” Jack replied with a scowl on his face. The whole bizzareness of the situation made him unsure, till this point, if he was in a dream or not.
+
+“I, Arrenis Shen, The Arbiter, greet you on behalf of the three realms,” The Arcane Entity, or rather, Arrenis Shen, introduced, with a gentle bow.
+
+Three realms….? Jack blurted out, feeling a sense of discomfiture as the words rolled off his lips.
+
+“Indeed. I, Arbiter Arrenis Shen, hereby lay an absolute, unconditional, unmitigated and complete claim over the dominion, jurisdiction and territory of the Planet Earth in the System Leidos, Cluster Zerras. This right is free from any limitations, conditions and encumbrances. Whatever rights you enjoyed under the previous legislation are henceforth abolished,” Arrenis Shen’s voice remained as grating as ever, his posture as relaxed as ever as he informed Jack of what was most definitely an incursion.
+
+Jack remained silent as he slowly walked towards Arrenis Shen, but instead of attacking, he seated himself on the chair opposite the arcane entity.
+
+“I suppose it was only a matter of time before aliens did to us what we’ve been doing to each other for centuries,” Jack muttered aloud followed by a sigh, his thoughts flashing as his mind forced him to remember all the townsfolk he interacted with frequently, the few things he held precious, like the wonderful, scenic beauty of Malanike National Preserve.
+
+He didn’t know what this entity was after, but he was sure that it entailed nothing favorable to the human race.
+
+“What is this place?” he finally asked, as Arrenis Shen sat down.
+
+“I am both real and illusory. I can be trappings of the psyche, I can be a portent of the future. I allow mortals to traverse lands they have never been to, witness phenomena that they have never experienced. Am I real. Or am I illusory?” Arrenis Shen answered.
+
+Jack’s eyes widened in shock.
+
+“This….Is this a dream?” He muttered, gazing down at his own hands, tracing the palmistry lines and finding them as recognizable as ever.
+
+“Indeed, though it is far more potent than the dreams of a mere mortal. The same way that I am not really here, and the real Arrenis Shen is not someone you can meet. Welcome to the Dreamscape, Jack,” Arrenis Shen introduced with a flourish of his hand and a light bow.
+
+“Why am I here,” Jack asked, still reeling from the shock of that revelation.
+
+“Because I am obligated to present you with a choice.”
+
+“Why did you goad me? Were you being truthful about my parents’....,” Jack paused, his words failing him, his lips trembling as he found himself unable to say the final word aloud.
+
+“Now that, my friend, is an astute question. The answer to which is different for all eligible humans across all my Dream Avatars. All four billion of them,” Arrenis Shen replied.
+
+‘Four… billion…,’ Jack was silent as he let the words sink in.
+
+“You are headed for a trial, Jack. One for you, perhaps, are better equipped than most to handle. A trial in which your humanity will be tested to the limits. My job is to make sure you are mentally prepared, or as prepared as you can be, before I offer you the choice. “
+
+“Tell me more about the trial,” Jack asked, a little forcefully.
+
+“I am afraid I cannot do that. Now, back to what I was saying— to a young father of one, I would highlight the fact that their children, as long as they are below the age of eighteen human life cycles, are ineligible for the trial, and thus, are in no danger. All he has to do is survive what is to come. To someone who craves power, I will offer them the promise of real, tangible power. To someone craving revenge, I will tell them that there will be arcane ways to seek down and track who they wish to hunt, as long as they are powerful enough to do so. You happen to fall in the latter two categories, making my job surprisingly easy,” Arrenis Shen offered, with a hint of amusement in his voice.
+
+“You…..monster…..,” Jack growled out.
+
+“And yet, I see that you haven’t refuted my offer. Such is human nature, Jack. Your heart’s desires overwhelm your mind’s rationality,” Arrenis Shen brusquely cut him off. “No, I do not know what happened to your parents. As powerful as I may seem, I am neither omniscient, nor omnipotent; otherwise I would not be here to begin with. I only say what I say because I know it will goad you into action, increase your odds of surviving what is to come. But,”
+
+“But?” Jack asked, his voice sharp.
+
+“You can investigate. On the other side, once you awaken, you will have access to abilities beyond your imagination. The power to disregard the laws of physics. The power to track down whoever you wish to. The power to ascertain the truth from the falsities. If you want to find it out, you can— and on that, I swear, upon my honor as an Arbiter of the Three Realms”.
+
+“And if I refuse?”
+
+Arrenis Shen shrugged. “You never had much of a choice to begin with. All I say, all I do, is to assist you. If you disregard my words, you will simply die once you reach the other side. “
+
+“Why? Why assist me?”
+
+“Because this iteration of myself was assigned to you, and thus I wish for you to survive. “
+
+“Survive?” Jack asked.
+
+“Whatever it takes, survive. Yes.”
+
+“Those blue lights? Flame? What were they? Am I even alive?” he asked.
+
+“You are very much alive and well, Jack. In fact, I would say that your physical and mental capabilities will be better than before when you wake up. The Divine Flame nourishes the mind, reforges the body and cleanses impurities— when you wake up, you will still be on Earth, but the planet will be unrecognizable to you; cleansed of the milleniums of harm your kind has wreaked upon it.
+
+Jack took a deep breath, struggling to maintain his composure.
+
+“You really think that I will act according to your wishes like a hapless puppet because you offer me a possibility at the truth?” he asked, his voice quivering.
+
+“I do,” Arrenis Shen replied, unfazed. “It is my job to weaken the limiters of the human psyche— to the greatest extent I can. Your existence has been shrouded by that day’s events and if nothing changed, I suspect you would have died alone, bitter and sorrowful, suppressing your desire for vengeance until the bitter end.”
+
+“Fuck you,” Jack replied, in a moment of complete, unadulterated and raw honesty.
+
+“Now that the pleasantries have been exchanged, you must make a choice,” Arrenis Shen clapped his hands together, and something popped up in the forefront of his vision, blocking his view of the alien being.
+
+[Choose one of the following options:
+
+Way of the Sword: Receive class [Swordsman], one basic sword artifact and sword skill [Qi Blade].
+
+Skill description: Involves elementary Qi manipulation, channeling Qi to form a sharp sword halo that increases sharpness and decreases wind resistance.
+
+Way of the Spear: Receive class [Spearman], one basic spear artifact and skill [Qi Spear].
+
+Skill description: Involves elementary Qi manipulation, channeling Qi to form a sharp spear-point halo that increases sharpness and decreases wind resistance.
+
+Way of the Marksman: Receive class [Ranger], one basic bow artifact, an infinity quiver and skill [Qi Arrow].
+
+Infinity quiver description: Used arrows will be replenished every twenty four hours.
+
+Skill description: Involves elementary Qi manipulation, channeling Qi to form a sharp, pointed arrow-tip halo that increases sharpness and decreases wind resistance.
+
+Way of the Assassin: Receive class [Assassin], one basic dagger artifact and movement skill [Qi Steps].
+
+Skill Description: Involves elementary Qi manipulation, channeling Qi into the feet to significantly increase movement speed while muffling sound of footsteps.]
+
+“Where’s the way of the gun?” Jack asked, scowling at the options presented to him.
+
+“I’m afraid that those toys will do you little good for what is to ensue,” Arrenis Shen off-handedly remarked.
+
+Jack’s gaze shifted to his waist, or rather, his holster, which had been feeling a little lighter the last few minutes.
+
+His scowl grew deeper.
+
+“You took my gun,” his gaze turned to Arrenis Shen, the distaste in his eyes palpable.
+
+“I did.”
+
+“In the real world?” he asked.
+
+“Astute.”
+
+“Why? Is this some sick, twisted, inter-galatic game for you? Is this what you pompous pricks do instead of watching sunday-night football?”
+
+“I am afraid not, Mr. Anderson. As you well know, reality seldom seems to be as simple as we want it to be.”
+
+Jack grimaced.
+
+“What is Qi? An artifact?”
+
+“All the information I can offer you is listed on that screen. Now, you must choose,” Arrenis Shen replied, an air of finality reflected in his tone.
+
+“Fine,” he snapped. “Give me a few minutes, atleast.”
+
+Arrenis Shen replied with a slight nod.
+
+Ten minutes later, Jack’s eyes snapped open. breathing out deeply. His visage hardened.
+
+Hesitating further was pointless.
+
+“The way of the sword,” he replied.
+
+Another screen popped up in front of him.
+
+[Selection Confirmed….]
+
+[Dao Mark status- Inert]
+
+“What the hell is a Dao Mark?” Jack asked, having heard no mention of this… phenomenon or perhaps, mechanic, in the screen that had popped up before him.
+
+“You shall see,” he replied cryptically, before clapping his hands together again.
+
+Jack awoke.

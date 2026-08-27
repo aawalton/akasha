@@ -1,0 +1,145 @@
+---
+id: 62ff0800-667f-57b9-a938-099ad23b61c9
+page-type-slug: story-chapter-royal-road
+title: "v6c45: At the Foot of the Mountain, Looking up at the Clouds"
+slug: 0234-v6c45-at-the-foot-of-the-mountain-looking-up-at-the-clouds
+partOf: beware-of-chicken
+position: 234
+ownLength: 2154
+unit: words
+ownProgress: 2154
+publishedAt: 2025-07-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2430588/v6c45-at-the-foot-of-the-mountain-looking-up-at"
+royalRoadId: "2430588"
+markedReadAt: "2026-06-29T18:59:24.728Z"
+---
+
+Cai Xi Kong, Sect Master of the Verdant Blade Sect, took a sip of his tea. They were top quality leaves, as expected of the most well-appointed teahouse in the Dueling Town. The tea was good, and the staff was discreet, employing deaf servers when the sects used the establishment for any important meetings—something that ensured their prosperity and protection. He allowed his eyes to roam around the table. Seated with him in their winter finery were Ulagan Ganzorig—also known as Guo Daxian, the Elder of the Grand Ravine, Elder Bingwen of the Misty Lake Sect, Tie Delan of the Hermetic Iron Sect, Chen of the Framed Sun Sect, and Shui Xinling, Mistress of the White Water Sect.
+
+“So, we actually do meet again,” Chen mused as he too observed his fellow Elders. “I must admit, I expected there would be fewer of us when we next reconvened.”
+
+“I must admit the same,” Ganzorig admitted. “Yet here we all are.”
+
+The winter break would dampen the initial enthusiasm of some for their burgeoning alliance. During the summer, when all the sects were interacting, cooperation was easier, but with time away came time to think, to worry, and to doubt; doubt if this alliance was truly worth it.
+
+Thanks to Rags… they had their answer. Instead of squandering scarce resources and limited time on posturing and conflict while searching for the source of the Qi anomaly, a party had quickly been assembled, with a promise to compile a report for them all. The search had been completed swiftly and decisively and now they were returning with his daughter.
+
+Some sects would still send out their own search parties, if only to confirm for themselves what was happening, but this joint investigation into the Qi anomaly was another victory for the burgeoning alliance between them.
+
+It was useful. It had tangible benefits.
+
+And now Dueling Town was slowly filling back up with cultivators after the winter break. The Younger Generation had greeted their friends from other sects with enthusiasm. Some had even spent the New Year with each other, another relative novelty. Xi Kong had heard of several parties that had all combined into one… without any structural damage of note, either. Truly, times were changing.
+
+Xi Kong felt a fierce pride in his breast at all his daughter and her companions had already accomplished. The steps were slow and small when one first learned to dance… but they carried you forward all the same.
+
+“Not so impossible after all, hmm?” Bingwen said with an amused lilt to his voice. He was idly playing with the top of his steam furnace, the shiny artifact looking immaculately cared for. “And I can feel it. I’m sure you all can. Cultivation… it's gotten easier. Is it a coincidence that it happened after we all swore that oath? I’m not so sure.”
+
+Another revelation. He had experienced it himself. For the first time in decades, Xi Kong was actually advancing again. He could feel his cultivation growing again, slowly, but it was there.
+
+“The Earth spoke; we listened. And upon travelling on the path revealed, we have found treasure. This is natural,” Ganzorig declared matter-of-factly.
+
+His words were firm with conviction, and Xi Kong couldn’t find any rebuttal. He was quite certain the oath they had made had been important, and judging by the response from his fellow Elders at Ganzorig’s declaration, they too did not think it was coincidence.
+
+“Ah, enough heavy thoughts,” Chen said after a moment. “Did you hear about little Bao Wen? His courtship is going smoothly! Why, I caught up with the lad over the winter. He took her to the spot I mentioned, the one that gives the best view of the peaks…”
+
+All of the Elders leaned forwards with interest.
+
+==============================
+
+“And I’ve heard of events in Grass Sea City—some fools dared to plot against that new Magistrate, but he sniffed them out swiftly, and my daughter cut them all down, along with one of yours, Xi Kong,” Elder Xinling boastfully shared. Xi Kong smiled at the mention of An Ran.
+
+“An Ran did mention such a thing,” Xi Kong replied. “Alongside how comely she finds the Acting Lord Magistrate.”
+
+Xinling chuckled. “My daughter is the same. I don’t find it too bad, he's a good young man. He retrieved my stolen guzheng… but alas, so stiff and formal…” her voice became wistful.
+
+Xi Kong chuckled. That poor young man would lead an interesting life if even Elder Xinling was swooning over him.
+
+“There was a report via transmission stone about some manner of altercation in the city, but it was vague. They spoke like they were in danger, but their next transmission gave the all-clear,” Ganzorig said, scratching his chin.
+
+“Oh, yes. The idiots were wearing your people’s colours. Or rather, poor imitations of them. It seems they wished to blame their attempt on his life on the Ravine. They had been spreading rumours about it,” Xinling added dismissively as Ganzorig’s eyes turned cold. “Of course, it was all the desperate grasping of drowning rats, and a foolish ploy at that. The Acting Lord Magistrate never believed the lie, and he and my daughter dismantled the ruse instantly. ‘What sort of self-respecting Ravine folk would wear such ugly patterns?’ she wrote to me.”
+
+The fury building on Ganzorig’s face was cut down, replaced by a look of amusement, while the other Elders chuckled along.
+
+“She said that, did she?” Ganzorig asked, good naturedly.
+
+“Indeed, but the mortals were riled up by agitators and took to the streets. The Acting Lord Magistrate then personally confronted the mob, standing between them and a family of your people. He managed to talk them down, and I’m told the mortals were quite ashamed of their actions.”
+
+“He confronted a lynch mob? And talked them down?” Ganzorig asked. Xi Kong and the rest of his fellows raised their brows at such heroism.
+
+“Xiulan spoke well of his character too,” Xi Kong said. “He seems to be a different breed, this Acting Magistrate. I do wonder what father raised such an upstanding man…”
+
+Their conversation meandered on from there. Xi Kong spent a most agreeable day drinking tea and chatting. Other Elders would occasionally join and go as well; the Master of the Crossed Branches Sect had a big smile on his face and was in a fine mood. It was still rather strange to see him carting around a broom rather than a spear. The Azure Horizon Sect Master was giddy about recovering several swords from a storage vault they had no idea existed.
+
+On Gang of Rumbling Earth Sect checked in for a moment, but it was short-lived. He looked… ill. The once powerfully-built man looked a lot thinner. He wore no trophies of his hunts. He looked morose, and even introspective. Not even Xinling jabbing at her once-enemy could drag him into another of their arguments.
+
+“I’ve heard rumours that they haven't killed a single Wrecker Ball in six months. I wonder, just what did they see in that crystal of theirs?” Chen asked.
+
+Xi Kong didn’t know, but it must have truly been earth-shaking.
+
+=====================================
+
+The next day, they assembled within the Earthly Arena. Young Bao Wen used his control rod to craft for them their meeting spot. Once more, all the Sects stood together. Even Master Gen Ten was here, the monkey smoking his pipe. He arrived last night with Xi Kong’s daughter.
+
+Xi Kong was a little disappointed Xiulan had not visited him first before the meeting, but he was sure she had her reasons.
+
+The mood was light; after all, they had been told the incident had been resolved. This would be, he hoped, a formality. Most of the Elders were staring at their seats and discussing what the lines of light upon them actually meant; previously, Elders mostly had one light, with the rare few having two or three; but now near universally their chairs lit up with two lights, pulsing far stronger than they had previously.
+
+“Presenting the Grand Marshal!” Bai Huizhong’s voice rose, booming from the crystal dias.
+
+As his daughter entered the Earthly Arena, gasps rose from them all. Xi Kong’s eyes went wide at her presence.
+
+Spiritual Realm.
+
+Xiulan was in the Spiritual Realm. The revelation rippled through the gathering. His daughter,  who was barely a quarter of his age, had achieved a feat only accomplished by Ulagan Baatar, Patriarch of the Grand Ravine Sect.
+
+Xi Kong knew now why she hadn’t presented herself to him and he couldn’t help but respect it.
+
+His daughter wanted to make an entrance.
+
+“Presenting! Rou Tigu! Liu Xianghua! Tie Delun….”
+
+And what an entrance it was. Behind her were arrayed the Azure Heroes, their own cultivations burning bright. Each of them took a position behind the Grand Marshal, her strong limbs dedicated one and all to the Azure Hills.
+
+A power bloc that rivaled all the Sects in its might… and the group that had captured the hearts of the Younger Generation. Cai Xiulan seated herself in the chair facing the amphitheater.
+
+The chair lit with four lights.
+
+“Thank you all for coming,” Xiulan said, her voice flowing over them all. “We have much to discuss—but first, there is a matter to address. Mengde’s Crystal Emporium has ignited a cultivator—a cultivator whose Dao is the crafting of crystals… and whose ancestor was addressed in the record of the past. They would join us, so they might better craft crystals for our alliance. I would have your thoughts upon this matter.”
+
+The matter had already been known to the Elders; the Crystal Emporium had sent out transmissions with their intentions last week. To Xi Kong, the path forward was clear. They had lineage to the Ancestors and other things they brought to the table. Who would be foolish enough to say no to the premier crystal carvers in the province? Crystal carvers that now had a cultivator among their ranks would soon begin producing better quality crystals at that?
+
+The matter had been decided before this question had been asked, and her appointment to their ranks swiftly confirmed. A cultivator for cultivator business. It increased Mengde’s prestige… and made it so that the sects were dealing with a peer, rather than mortals. All gained face from the arrangement.
+
+“Presenting! Cao Biyu, Cultivator of Mengde’s Crystal Emporium!”
+
+A young woman marched in. She was only in the Initiate’s Realm, but her Qi felt exceedingly steady and controlled. She was quite the beauty, too, and Xi Kong caught a few interested looks. He could sense some nervousness to her steps, but she bowed politely to them all.
+
+“Mengde’s Crystal Emporium hopes little changes between us. It is the will of the Masters that we continue our work,” she informed them all.
+
+With that matter out of the way, his daughter cleared her throat.
+
+“Though the Qi anomaly incident has been resolved… the events were quite complex. They involved certain persons and actions which compelled me to request an additional specialist to assist with my report,” the Grand Marshal said. “With your agreement I would present my expert to you now.”
+
+That, however, had not been conveyed to them. There was a bit of murmuring, but her motion was swiftly agreed upon. She nodded to Bai Huizhong. A small sword formed and flew over to him, before opening into a fan.
+
+The man read the words on it, and his jaw dropped. He turned and looked up at Xiulan, mouth wide open before looking back at the fan again.
+
+He swallowed and cleared his throat nervously.
+
+“P-Presenting…” he began, and paused again. The tension in the room began to rise. Who was it? Was it Master Jin?
+
+“Presenting Lu Ri, Senior Disciple of the Cloudy Sword Sect.”
+
+The room was struck silent. No one dared to breathe.
+
+A man strode into the Earthly Arena. He wore robes that were a light blue, with a dark blue coat over it. Tall and fluid yet exact in his movements. His face hidden by the brim of a well-worn straw hat.
+
+Xi Kong felt the presence of a cultivator of the Earth Realm.
+
+The man removed his hat and inclined his head to Xiulan. “Grand Marshal,” then he politely turned to address the rest of them.
+
+“This one is Lu Ri, Senior Disciple of the Cloudy Sword Sect. Due to the meritorious deeds of Cai Xiulan, this one has been given leave to fulfill the request of the Grand Marshal to inform the Sects of the Azure Hills of what transpired by his Master, The Black Clouds of the Silent Sky.”
+
+Several Elders looked about ready to pass out. The cheerful, relaxed mood that had held for the last few days was certainly gone, Cai Xi Kong mused.
+
+“Shall we begin?” Lu Ri asked, his voice calm and his diction as sharp as any sword.

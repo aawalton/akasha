@@ -1,0 +1,147 @@
+---
+id: 354939ac-bda9-5c4a-a189-326f9b752819
+page-type-slug: story-chapter-royal-road
+title: "67. Intercepted"
+slug: 0067-67-intercepted
+partOf: breaker-of-horizons
+position: 67
+ownLength: 2271
+unit: words
+publishedAt: 2020-12-21
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/603067/67-intercepted"
+royalRoadId: "603067"
+---
+
+It quickly became apparent that I wouldn't get any information at all out of the two agents who were in the car with me. They were dressed in the same white-and-black shirt-and-pants ensemble as the agents I had seen so far, but I caught a glimpse of a crescent-shaped tie pin on the passenger-side agent when she turned to get a look at me as I entered the car. The driver ignored me completely, and although her partner wasn't reticent or rude, all my inquiries about what was going on were gently rebuffed. I wasn't even able to get their real names. Like Mr Silver, they went by aliases instead. The mute driver was Ms Fen, and the more personable one who had fielded all my questions was Ms Rain.
+
+"Do you get to pick your own codenames?" I asked, hoping to get something more if I asked about something else besides my immediate situation.
+
+Ms Rain gave a small laugh. She didn't turn around to address me and instead kept a watchful eye on the passing sights. "No, they're assigned."
+
+"Are you all part of the Imperial Police?"
+
+"We work with them."
+
+"But you're not part of the force."
+
+"No." The answer was brief but delivered without a bite of impatience. "You're an awfully curious fellow, aren't you?"
+
+"Isn't it normal to wonder what's going on when you're targeted by some unknown people attacking your cohort mates across the whole Empire, and you're spirited away from your family?"
+
+"Fair point," Ms Rain said. After a pause, she added, "We know it can be quite scary, but you're in safe hands."
+
+"Are you both thaumaturgists?"
+
+"Not exactly."
+
+"But if you're able to protect people, doesn't that mean you'd need to be quite accomplished at thaumaturgy?"
+
+"Yes, but we're not thaumaturgists. That's a very, very narrow focus."
+
+I frowned. "Then why would the Empire want to conscript all the new arcanists and pigeonhole them into thaumaturgy?"
+
+Ms Rain shrugged. "Above my paygrade. So, have you enjoyed your time in the Academy?"
+
+The question caught me off-guard. "Why do you ask?"
+
+This time, before she answered, she did turn in her seat to glance at me for a moment. "You're nervous, which is why you're asking so many questions. We're not really allowed to give away too many things about ourselves, so if this keeps up, our conversation is going to be frustrating and probably not make you feel very reassured at all. So what do you say we steer away from the need-to-know classified stuff, and talk about your life?"
+
+"What makes you think the things in my life aren't classified?"
+
+For the first time, Ms Fen reacted by letting out a little snort. Ms Rain chuckled. "Okay, we can play it that way if you want, Mr Dundale."
+
+After a minute or two of silence, I caved. "The Academy was... all I thought it would be, and more. Sometimes not in a good way."
+
+"Yes, the first term's usually the hardest," Ms Rain replied, picking up the conversation as if it had never stalled. "Laypeople have the barest basics, and when you first go to the Academy there's a lot of groundbreaking stuff you have to pick up really quickly."
+
+"Was it like that for you too?" I asked.
+
+"It's like that for everyone. What do you like most in your studies?"
+
+That wasn't actually something I had thought about. It felt a little like I had been stumbling through vast and nebulous bodies of knowledge for the whole term. The idea of liking a part of it seemed almost alien.
+
+"A little of everything, I guess. I like the theory of Principles of Arcanophany. Thaumaturgy... we've had a really crazy professor who's been putting us through our paces, and it's painful... but I like how it feels when I can actually protect myself."
+
+"You like a sense of control," Ms Rain said, a smile in her voice. "So, you may not have a choice about a vocation now, what with recent developments... but do you think you'd enjoy being a thaumaturgist?"
+
+"Maybe. But to be honest, my interest in arcanophany isn't in combat applications."
+
+"Oh? Then what is it? Artificing?"
+
+"I, uh... I just like the theory."
+
+"Well, it's rare to meet a young person interested in the Sage vocation. People usually find their way there later in life."
+
+Ms Fen cleared her throat, and Ms Rain suddenly fell silent, clearly focusing on something.
+
+"What is it?"
+
+"Nothing to worry about," Ms Fen answered, shocking me by actually talking. "Just be quiet for a bit."
+
+We were nearing the edge of the city now, but before I could scan the surroundings the windows of our car turned completely black. I gasped, but the two agents seemed completely unconcerned, and it occurred to me that it was possibly some sort of defensive mechanism triggered by one of them. Ms Rain's head was turning here and there, giving me the impression that she was still able to see things beyond the now-opaque windows. And Ms Fen was clearly still unimpeded as she continued to drive.
+
+I closed my eyes and quietly tuned into my arcanic sense. The car itself was a complex and dense weave of sequences, and I was surprised to find that I couldn't even see the glyphs properly. There was some sort of obfuscation at work here that prevented me from being able to access the sequences, and it was something I had never realised was even possible.
+
+There didn't seem to be anything out of the ordinary. I had expected to be able to sense some sort of build-up of arcana from an external threat, but there were no perturbations. What were the two agents reacting to?
+
+I tried to steady my breathing and sink even deeper into the arcana. But even though I could recall what it felt like to do so back in the Spire with the Demiurge and the help of a nearby perturbed augera, it wasn't something I could do so easily in the back of a car as it trundled along the road.
+
+Minutes passed, and the sense of trepidation at the agents' behaviour soon gave way to mounting frustration as I failed to sink far enough into the arcana to try and suss out what was going on.
+
+"Everything alright back there?" Ms Rain asked suddenly, bringing my attention firmly back to the physical world.
+
+"Yeah," I replied, shaking my head a little.
+
+"You looked like you were thinking hard." She returned her attention to the scene around us, and I realised that the windows were clear again. We were out of the city now, and on either side of us was nothing but vague shadows of the natural world. Globe lights hung at regular intervals above the road, but all else was swallowed up in night.
+
+"What happened just now?"
+
+"Nothing serious. We had to make sure we were as unobserved as possible when we left the city. So, why are you so interested in the theory of arcanophany?"
+
+It took me a moment to realise that she was picking up where we had left off. "Huh? Oh, uh... well, I just want to learn more about arcanophany itself. Learn about its limits. Find out why those limits exist. Maybe push the limits a little."
+
+"That's actually quite ambitious," she remarked, sounding a little impressed. "Did something happen to set you on such a lofty path?"
+
+"That's classified," I mumbled.
+
+Ms Rain turned to glance at me once again, but she didn't push the matter, and she didn't seem to be either annoyed or intrigued by my response. She behaved as if it had been a perfectly acceptable and polite reply.
+
+"Well, we'll be driving through the entire night, so you might want to try and get some sleep."
+
+I felt a little sorry for behaving so rudely, but I wasn't prepared to talk about my life goals with some kind of secret agent. Despite how generally nice she had been, there was something about her that made me think it was better to err on the side of caution when it came to discussing anything that might relate to the augera or the Prophecy. With nothing else to do, I decided to heed her advice, and I settled into the most comfortable position I could.
+
+I woke to the sound of twisting metal.
+
+There was no time for me to register anything else except a sudden sense of weightlessness before the world erupted into a cacophony of loud crashes and bangs. I felt myself being violently jolted about, but I was held securely in place by the seatbelt. My panicked brain finally made some sense of what was happening — the car had overturned.
+
+By the time I realised what had happened, Ms Rain and Ms Fen had already unfastened their seatbelts and rolled out of their seats into the unknown. The windows were black again, so I couldn't see where they went.
+
+The door closest to me opened, and in one smooth motion, Ms Rain traced a glyph that unfastened my seatbelt, then yanked me out of the car and pushed me onto the road. "Stay low, stay shielded," she commanded, her voice like steel.
+
+I compiled, drawing together the densest weave of arcana that I could muster. Ms Rain nodded in approval as she likewise sheathed herself in a protective shell, then she vaulted over the car and vanished from sight.
+
+The globe lights along this stretch of the highway were extinguished, and the only steady illumination was coming from the interior of the car. A gasp escaped my lips when I saw that the front had been horribly damaged, as though a hand had seized it and twisted the metal like it was nothing more than paper.
+
+An explosion rocked the area, sending a plume of fire into the air and a rush of heat washing over me even as I lay behind the overturned car. As debris rained across the scene, I realised that the first car had been blown up.
+
+Arcana was flying over the whole place, being channelled in terrifying quantities. Even though it wasn't anywhere near as overwhelming as what I had witnessed the Demiurge doing against the wild augera, it was still several orders of magnitude over what we had been exposed to so far in Thaumaturgy classes.
+
+A dull throb of power ran beneath everything, like some massive heartbeat. Above that, wild screeches grated on my ear and against my mind, piercingly loud and eye-watering. I had no idea what kind of sequences were being employed here, but even without laying eyes on the battlefield, I knew that deadly energies were being directed.
+
+The orange glow of the explosion was accompanied by several flashes of light. I heard a sizzle that reminded me of Kevan's arcanic lightning, except somehow this one sounded malicious if lightning could sound like it had emotion or intent.
+
+I risked a peek around the car and was almost instantly struck by a piece of flying debris — some asphalt from the road that had been sent flying from the impact of arcana. I was knocked away from the car, but thankfully my shield absorbed the damage and left me unscathed.
+
+Two figures — Ms Rain and Ms Fen, though I couldn't be sure which was which just by their silhouettes — were holding a shield against a blinding flare of light. A moment later the attack faltered, and one of them flashed off with amazing alacrity, likely boosted by arcanic manipulation, towards our unseen assailants in the darkness. The other remained behind, covering the car behind which I was hiding. Even as I watched, layers and layers of arcana were being woven with amazing speed and skill to assemble a massive, sturdy barrier.
+
+It cracked and crumbled in several places as heavy arcanic bolts arced out of the darkness. Then, to my horror, a single thin thread of arcana lanced through a weakened spot in the barrier and pierced the woman's abdomen. I heard her cry out in pain, but she stayed on her feet and shored up the barrier, repairing some of the damage that had been done to it. More heavy bolts weakened it again, and I sensed the same flavour of that shield-piercing sequence in the air closing in.
+
+"LOOK OUT!" I yelled.
+
+Whether she had been waiting for it, or whether my warning had galvanised her into action, I sensed the agent somehow flex the shield she had woven. The lance reflected off the barrier with a painful ear-piercing ping, and I heard a scream in the darkness as it struck down whoever had sent it out.
+
+But this reprieve was short-lived. I sensed a blossoming of strange and unknown sequences, and the barrier shattered into a thousand tiny pieces. Heavy arcanic bolts rained down on us, leaving deep craters in the road and battering the overturned car, although it somehow held up under that barrage. The woman deflected a few with hastily-conjured throwaway barriers, but then another lance of arcana hit her in the left knee, and to my horror I saw her collapse as the knee shattered in a shower of gore and separated entirely.
+
+"DUNDALE, RUN!"
+
+It was Ms Rain. Even as she lay panting on the road, she raised another barrier that barely held off another barrage of heavy bolts. Out in the darkness, I sensed the shield-piercing sequence charging up again. Without really realising what I was doing, I flung myself headfirst into the sea of arcana.

@@ -1,0 +1,233 @@
+---
+id: 2119ff5c-251a-51ef-b792-8d6108ed75c2
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 2 - A World Beyond Remus"
+slug: 0059-book-5-chapter-2-a-world-beyond-remus
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 59
+ownLength: 5290
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3124476/book-5-chapter-2-a-world-beyond-remus"
+royalRoadId: "3124476"
+---
+
+The scale of Pallos felt impossible for Ranthia to get her head around. Sure, she’d seen maps—she’d seen how small Remus was when etched in ink. She even knew that the Tympestshard Council was more-or-less on the opposite side of the planet.
+
+But she was still floored that as days turned into weeks, they were still in the middle of nowhere. The quality of the roads varied dramatically as they journeyed. Some were paved with stones. Others were little more than tracks of dirt worn deep into the terrain like an aberrant scar. Some of the roads were smooth, while others were battered and littered with holes.
+
+But often there was no one else in sight, beyond those that accompanied their three wagons. The three [Merchants] had turned far colder, once she was in their employ. Clearly, they preferred to avoid socializing with their hired help. Beyond them, their caravan included an elf that seldom spoke—Brush, the [Tamer] in charge of the six elk that pulled the wagons—and a single passenger: a faun that seemingly shared no language in common with anyone else present.
+
+Thank Xaoc, Ranthia’s fellow caravan guards were more talkative.
+
+“Pretty much every nation and trading house does what they can to maintain the roads and keep monsters and beasts from dwelling near ‘em. I mean, there are the jerks out there that’ll use a road with overladen wagons that ruin it, but it usually won’t take too long until someone with the classes required to restore it comes through.
+
+“Dirt roads like the one we’re currently on are those that no one’s claimed ownership of yet. In these situations, it’s on us to respond if there’s any signs of predator activity. We do our part to keep the road clear and we’ll mark any terrible potholes too—and hope someone comes along that can fix ‘em up.” Elencor—an elven [Warrior] on his second cycle—seemed to enjoy every opportunity he found to share his wisdom.
+
+“Bandits aren’t an issue?” Ranthia tilted her head as she asked the question, just as Pyra often did. She was all too aware that she was showing her own personality more often than not, but she still made an effort to keep up appearances.
+
+“Out in the middle of nowhere? Not really. A few nations have problems with them off and on; you mostly see it when they form an army for some purpose and then cut the soldiers loose. I mean, it can happen anywhere and we stay vigilant against more than beasts, of course, but I’ll be shocked if we kill anything elvenoid on this trip.” Elencor replied.
+
+“Which is a shame, bandits are great for levels.” Elenera, Elencor’s daughter, cut in. She was still on her first cycle—level 624—and served as a [Ranger]/[Mage].
+
+Shockingly, she was only one hundred and seventy-five, just a few decades older than Ranthia’s true age. For an elf, she had leveled at a blistering pace. Most elves she’d spoken to preferred to avoid taking on excessive personal risk, but clearly her life hadn’t been easy.
+
+Ranthia had yet to hear even eight words out of Brush’s mouth, but he seemed to genuinely appreciate it when she helped him with his elk. He would smile and point at things that she could do to help or pass her a brush to use on the animals.
+
+The beasts were massive compared to the deer that she was familiar with, and each was past level 512—which strongly suggested the quiet elf had some sort of Skill to share experience with his creatures. With their raw power and stamina, the caravan travelled at an incredible pace as it made its way across Pallos, stopping just twice a day. While the [Merchants] ate lunch, Ranthia helped feed and water the elk—using stored hay and nuts when the terrain didn’t offer enough roughage. She ate her own lunch once they got back on the move, often partaking of whatever Elencor had foraged.
+
+By night, they secured the elk and settled in to sleep. When the weather was foul, they sheltered beneath a canopy strung between the three wagons, but when the night was clear, Ranthia favored grabbing her shift of rest under the stars.
+
+Trouble remained rare as they journeyed. The elk were just too fast for many predators to outrun their caravan. When monsters had to be put down, Ranthia and Elencor deployed to meet them while Elenera stood atop the middle wagon’s roof, an arrow nocked in her bow and conjured death ready to go if anything got past them.
+
+Each time, Brush readied himself to cut the elk free if it proved necessary. Ranthia wasn’t entirely sure if he was doing it so the elk could escape from danger, to sic them on the threat, or to prevent the wagons from being damaged if the powerful beasts panicked—she just hoped she wouldn’t have to find out.
+
+Not that monster encounters ever lasted long. Most beasts had enough sense to realize when they were utterly outclassed—it was the only way they survived near the roads. The desperate and foolhardy predators weren’t long for the world and seldom gained the levels required to become threats.
+
+Contrary to Elencor’s words, the first true danger they faced came in the form of a group of eight dullahan raiders. Ranthia was somewhat hobbled between her short swords and the somewhat anemic level [I am the Priestess; I am the Champion] had compared to her former [War Sentinel’s Supremacy], but she still managed to bring down two of the dullahan herself. It was messy though—she took one through the eye and managed to punch through a weak seam in the natural armor for the other; and suffered a nasty gash across her thigh in the process.
+
+In that time, Elencor took down five by himself—without a single scratch. The last had been utterly erased by an excessive bombardment of arrows and spells from Elenera.
+
+Ranthia had somewhat overestimated how much of Pallos’ diverse cultures she would get to experience with the convoy. Each time they stopped in a city or settlement, she and her friends were stuck watching over the wagons or the [Merchants]’ tables.
+
+From that limited vantage, she witnessed a gnoll city—a vast, migratory expanse of canvas, animal hides, and other fabrics that moved with the seasons and their community’s needs. Next, she stood vigil within a “temporary” minotaur city, where most occupants felt some inexplicable need to explain to total strangers why they intended to stay where they were, even if the shimagu threat to their nation was done.
+
+Time and time again, she got glimpses of civilization without the benefit of being able to explore. Even when the caravan stayed in a city overnight, she was expected to sleep wherever the wagons were stowed, along with Elencor and Elenera. At least she wasn’t alone, but she was still a touch grumpy about how little she was getting to experience—she had looked forward to learning more about Pallos’ people!
+
+The worst was when they arrived in a settlement of ogres—actual, free ogres! The city had been protected by one of the grandest walls Ranthia had ever seen, almost rivaling Ariminum’s. The architecture of the city itself was surprisingly robust and utilitarian beneath its vibrant paint, but Ranthia was mostly focused on the fact that the city was in the midst of some sort of festival! Yet their caravan stayed away from the revelry and did some brisk trade with a single [Merchant] before they left, in the middle of the day. What the festival was meant to represent, why the city’s so-called Silver Guard was eager to see them leave, why everyone called the ogres ‘werewolves’, and why their caravan kept moving through the night remained a mystery to her. Even Elencor just shook his head when she tried to seek answers.
+
+At least their overnight journey was blessed by the gorgeous sight of the full moons.
+
+Their faun passenger departed while they passed through what Elencor referred to as a faun “village.” Sure, the population density was low but given the fact that it took them three days to get through what was ostensibly the same village, Ranthia felt somewhat disinclined to think of it as a village.
+
+It was a fascinating glimpse into their culture though, even from the wagon. The streets were beautifully maintained and often flanked by vibrant blooms of cultivated flowers. Each faun homestead was a sprawling affair with fields and/or orchards with nary a fence or boundary to be seen, except when they kept animals. Many faun that saw them stamped a hoof and wiggled in place—their version of waving hello, per Elencor—but the caravan only stopped in designated guest areas, aside from their brief halt to allow their passenger to disembark.
+
+They gave the domain of the harpies as wide a berth as they could, but everyone remained tense. Six times over, harpy scouts were spotted in the skies—and the sounds of distant battle reached their sensitive ears thrice as often. Each time, Elencor and his daughter gravely prepared themselves for conflict, yet it never came.
+
+Unfortunately, they couldn’t move too far to the south either. The thick forests there were alive with strange Mirages, sounds, and ominous lights that danced through the trees. Each time a particularly striking or alarming sight or sound flared up, Elencor would mutter “It’s probably just kitsune” to himself until they were past the area.
+
+By that point, Ranthia had learned how to manage [Divine Eyes in the Void] using [Submind]. Going by her stealthy experiments at night, it cost her roughly four images worth of the Skill’s automation, but that was generally worthwhile. With [Submind] guiding her [Divine Eye], she was able to get the full benefit of the Skill without getting distracted. It even seemed to help with her nausea, not that she could explain why.
+
+When things were quiet, she trained with Elencor and Elenera. They had to keep their contact light—their employers would be displeased if the security detail started injuring itself—but it helped to sharpen them. The father and daughter were surprisingly eager to absorb any lesson she had to teach them like sponges—they were older than she was, but they seemed to genuinely respect the experience she had gained throughout the war.
+
+The only flaw was that Elencor quickly realized that she didn’t usually dual-wield short swords. Still, the elf seemed to consider it to be her business, and he affably promised to keep “this chestnut” to himself. All he asked in return was for her to stop holding back if the caravan or his daughter were in true peril.
+
+Ranthia was more than willing to make that promise. The trio of elven [Merchants] were somewhat jerkish, but she genuinely liked Elencor, Elenera, and Brush—they were some of the kindest elves she had ever met, aside from Avyna. Elencor was a seemingly endless font of stories and knowledge. Brush’s happy smiles were infectious and his love for his elk was unmistakable. And Elenera had a wicked sense of humor once Ranthia got her to open up.
+
+Ranthia had once offered to spend the night with the woman, but Elenera declined after giving it a little thought. It was too bad, but Ranthia never repeated her offer. She was a better person than to heckle a friend, just to get something she wanted.
+
+Though it made her even more annoyed with the lack of freedom to venture out when the caravans visited actual cities and towns—she was tired of quietly tending to her own needs!
+
+Seasons changed as the caravan continued its journey. Goods were acquired, sold, and exchanged as the caravan moved across the map, and Ranthia tried to make the most of the superficial look she got at the world. Pallos truly was beautiful, and the breadth of the gods’ creations was incredible. It wasn’t just the people, but the terrain too. Ranthia witnessed great forests that put any woodland she had ever seen in Remus to shame. She saw rolling grasslands that reminded her of nothing less than a sea of emeralds. She beheld majestic mountains that felt as though their world was reaching its claws into the heavens themselves. There were species Ranthia had never heard about and plant life unlike anything Ranthia had imagined. Xaoc and His fellow great gods truly created something wondrous, even with Seira weighing them down!
+
+Ranthia often prayed to Xaoc as they travelled. He, of course, was well aware of the splendor of the world that He had helped to create, but He still seemed to enjoy her attempts to describe what she saw—and why she was moved. Pallos was so much grander than she ever would have known had she stayed confined to Remus and its petty ambitions. There was so much more to the world than the ugliness of humanity.
+
+[*whoop whoop* Allow me to introduce myself! My name is Genie! Couple of you folks have found me over the years, but here’s a wish that’s going to get all of you interested! This historian-ecologist, Hwinthel, wants to know whenever a species is wiped out!]
+
+What the—?!
+
+Ranthia had experienced more than a few System notifications in her time, but that wasn’t a System notification! Whatever—whoever—it was had used the System as though it was his own tool, yet she had also heard the voice of this ‘Genie’ even as the System carried his words. It was more than just impossible—it was an affront to the gods themselves!
+
+Ranthia looked around desperately, spinning her [Divine Eye] wildly in the process, half-convinced that it was some local threat—some Mirage Skill of absurd power.
+
+“Ha! Been a while since I’ve heard one of those!” Elencor’s voice pulled her out of her own head.
+
+“Hwinthel, huh? Good for him.” The [Merchant] with a single horn protruding from the top of his head commented.
+
+“Peh, what a worthless wish. Who cares if another group of mortals or some beasts goes extinct? That hardly benefits us.” The [Merchant] that hired her groused, undisguised jealousy writ across his face.
+
+Wait… what?
+
+“This is… normal?” Ranthia hesitantly released her question, not entirely certain if she wanted to hear the answer.
+
+“Oh, yeah! Guess you wouldn’t know. The Genie’s a powerful, eternal being out there. There’re all kinds of rumors about him and what he looks like before someone finds him, but the important bit is that anyone that finds him gets three wishes. The guy’s seriously powerful and can do almost anything, but most stories agree that he has some rules he’ll give people before they can make wishes.
+
+“I was still little, last time I heard an announcement from him.” Elencor sounded wistful—as though he spoke with longing.
+
+Meanwhile, Ranthia’s mind broke. An incredibly powerful being was out there, seemingly able to manipulate the System itself, and he was just… handing out wishes to any random being that happened to find him?! And his only limitations were self-imposed?!
+
+All she could feel in light of the revelation was unmitigated horror. She had met entirely too many people that she wouldn’t trust with such a powerful boon.
+
+Aside from the Tympestshard Council itself, there was one area in particular that Ranthia had looked forward to seeing. Avyna had promised that the vast wetland that barred easy entry into the Tympestshard Council was a wonder. Her beloved had refused to elaborate, but Ranthia had remained eager to see what such a worldly elf considered to be worth such praise.
+
+And at last, the stone-paved road brought them to the wetlands themselves. A vast area of lush grass and vegetation surrounded the road, which turned into a short wooden pier that stuck out into the marshes themselves. Yet there was seemingly no road through the marsh itself, instead their wagons moved off the road and drew together to form an enclosure for the elk to graze within.
+
+“Did we make a wrong turn or something?” Ranthia asked Elencor while she accepted one of Brush’s namesakes and started to gently smooth the nearest elk’s thick fur.
+
+“Oh, right, I keep forgetting this is your first time out here. Nah, we just need to wait for one of the giants that help maintain this area to attend to us. Running off into the marshlands without the consent of one of their pathmasters is going to cost you your wagons, at a minimum. They’ll probably wait until a few other caravans show up so they can handle us all at once.” The elf’s answer came from the opposite side of one of the wagons.
+
+Even once Ranthia was done contributing what she could to the care of the elk, there just wasn’t much to see. The area was, well, marshy. Scattered throughout the marshland there were disjointed wooden platforms and paths that sat above the murk, but there was no clear way to reach them. The area had a rich, damp scent that spoke of a density of life within the placid water, and there were various reptiles sunning themselves near the water’s edge—wholly ignoring their presence. Beyond the platforms, there were a few trees that stood above the marsh, but Ranthia saw nothing else.
+
+There was no trace of the promised giants, just various small fauna and blooms of aquatic flora.
+
+Ranthia was still weirded out that they didn’t keep a watch overnight (“There’s no need, not here!”), but the next day another caravan—one far larger than their own, with over a dozen wagons—arrived and set up next to them. Even better, Ranthia had no idea what the species was that managed their wagons! They were scaly, with crests of plumage on their heads. And they were even shorter than dwarves, with proportions that were sleeker than humans possessed. The only thing Elencor would tell her, with ill-concealed mischief, was that they were kobolds.
+
+Once their caravan was settled in and their unfamiliar, feathery dinosaur beasts of burden were grazing, Ranthia made her approach.
+
+“Good day, I just—” She called out in her best sunny voice.
+
+She was met with a shrill, chirping language unlike any she had heard before. …That and several dozen blades. The diminutive kobolds formed a tight semicircle and aggressively warded her off.
+
+“I just wanted to offer my greetings!” Ranthia hurried to explain, even as they formed up, but the kobolds ignored her words and continued to close in, thrusting their blades.
+
+She couldn’t understand their language, but the message they were sending was extremely clear.
+
+Keeping her hands raised, to show her benevolent intentions, Ranthia slowly backed away. At some undefined point midway between their respective campsites, the kobolds ceased to pursue her and allowed her to withdraw unmolested. Once she was clear, the group chirped amongst themselves as they dispersed back into their own area.
+
+And Elencor didn’t even try to hide his ongoing laughter.
+
+Caravans arrived one by one as time passed, and by the time they’d spent a week camped by the pungent waters of the marsh, the area was getting more than a bit crowded. Contrary to Ranthia’s expectations, each caravan largely kept to themselves—no trade happened and few entities were allowed to cross the lines to other camps.
+
+Ranthia was the first to notice the vibrations, but Elenera was the first to spot the incoming giant several moments later. The woman moved at a glacial pace—clearly in no hurry—and was clad in a tunic that resembled the moss that hung from the boughs of many of the trees scattered throughout the marsh. By the time she finally neared, it was obvious that she was carrying a massive slate—and the look of undirected annoyance on her face was just as unmissable.
+
+“Well, go on. You can represent us as easily as anyone else.” Elencor had walked up behind her while she studied the, well, gigantic woman that approached.
+
+Ranthia spun on him, her incredulity writ across her face—she hadn’t exactly forgotten that he’d let her make a fool of herself mere days ago!
+
+“Relax, it’s easy enough. Just tell the pathmaster that we’re bound for the southwest, for the mountain roads. You already know everything else that you need.” There was no mischief on his face, but Ranthia still struggled to believe his words.
+
+“Uh-huh, why me?” Ranthia demanded.
+
+“This is your first time here. You’ve never had the experience of interacting with one of those that tend to the local treants, so go experience it!” Elencor answered. Given his tone and his expression, it seemed that he felt he was saying something that was both obvious and profound.
+
+…Honestly, it wasn’t the worst of reasons. Ranthia shrugged and strode forward, joining the slowly gathering representatives from the other caravans. Everyone else stayed on the grass, not even setting a single toe (or similar appendage) on the wood that stretched into the swamp. One of the violent little kobolds was the last to arrive, timed almost perfectly to the giant’s arrival.
+
+The giantess’ slate board turned out to be multiple stacked slates. She flipped through them idly until she found the one that she sought, then lowered it down so that Ranthia and the other representatives could readily read the white text writ across the slate. Every other line was written in a different language, but given the High Elvish and Creation text that Ranthia could read, each language repeated the same message.
+
+Please announce your preferred language out loud. If you possess more than one, use the one that comes earliest on this board. If you do not know the name of your language, please step back and wait.
+
+“<High Elvish.>” Ranthia called out—Creation was buried down around the midpoint of the board.
+
+Two other caravans called out the same. And surprisingly, only one called for Creation—the rest called out unfamiliar words from languages Ranthia didn’t know.
+
+“<Mhm, High Elvish first then.>” The giantess spoke for the first time. The sound boomed from her oversized lungs with force that sent Ranthia’s traveller’s cloak billowing and made her eardrums signal their protest to her brain. Each syllable hammered into her, yet they came slowly. Each sound was seemingly articulated as glacially as the giant could manage, with profound pauses between each word that left Ranthia mentally scrambling to make sense of what words were intended to be grouped into specific phrases or sentences.
+
+“<Would you speak at a sensible rate, woman?!>” An elf from another caravan lasted about a sentence and a half before his patience failed him. His demand was given in an imperious tone, as he pointed his little finger at a woman that could crush him like an insect.
+
+“<My apologies, I seldom interact with any except the treant. This is a fast pace to me.>” The giantess’ words were faster, but the difference was negligible.
+
+In the balance, the rude elf had cost them even more time.
+
+The explanation ponderously continued. Any time it seemed as though the elf was considering speaking out again, every other caravan representative fixed him with glares until they were collectively convinced that he would hold his tongue.
+
+One by one they were prompted to announce their destination, number of wagons, and weight class. The giantess had shuffled her slate boards again and was eyeing one that had a heinously complex mass of colorful lines etched across it.
+
+“<Southwest to the mountain roads. Three wagons. Average weight, roughly similar for each wagon.>” Ranthia reported when it was her turn.
+
+As she had done with the previous elf, the massive woman fell silent for a slice of eternity while she stared at her slate. The waits were long enough to leave Ranthia time to grow bored, and she passed it by wondering what it would be like to try and be physical with the woman. Size aside, she wasn’t exactly unattractive—but even with the System, the logistics of potential intimacy were daunting.
+
+“Take this token, you will travel the D-9 line. Do not deviate. We guarantee your safety only while you remain on the assigned line and at either station. We will take payment at your destination station.” The giantess’ powerful voice shook Ranthia out of her daydreams and left her with ample time to brace herself and prepare to catch the wooden token.
+
+It had looked tiny in the giant’s hands, but it was almost as large as her torso! Still, Ranthia managed to bleed the imparted momentum and avoided being bowled over by the hefty chunk of hardwood, with only a few mild bruises to tarnish her feat. She’d fared better than the first elf, at least—he’d been forced to scramble away from the token and retrieve it after it hit the ground.
+
+Elencor beckoned her over after she bowed to the giant, so she carried her token over while the imperious elf—unprompted—began to blather on through an overly elaborate explanation of his own caravan.
+
+“You could have warned me about the cargo weight question. You’re lucky I spent more than a little time with a [Merchant] and knew what was normal.” Ranthia groused.
+
+“Yeah, that’s new. They don’t do new, so I didn’t expect it. Sorry. And you never told me you spoke High Elvish!” Her friend seamlessly transitioned from abashed to playfully inquisitive.
+
+Eh, it probably didn’t matter by that point if she was poking holes in her Prima guise. Ranthia just smirked at the man and carried the oversized ‘token’ back to the wagons.
+
+The token was affixed to a robust metal pole that they carefully attached to the front right corner of the lead wagon. After that, they settled in to camp once again—at the rate the giant was going, she’d be doling out those tokens well into the night.
+
+The next morning, the wagons were reconfigured—all three wagons were joined together like links in a chain, and all six elk were hitched to the lead wagon. They dithered over breakfast while shifts for driving the wagons were assigned, because they would allegedly travel for several days straight without stopping.
+
+Ranthia volunteered that she had experience driving horse-drawn wagons and ended up seated on the driver’s bench next to Brush, so he could train her in the differences. The [Merchants] were visibly thrilled to have another person who could take a shift—Elencor and his daughter blithely claimed they had a poor relationship with beasts. That left the three merchants, Brush, and Ranthia to take turns for days (and nights!) of travel.
+
+When a sign labeled D-9 emerged from the marsh, Brush took the reins and gently guided their conjoined caravan onto the docks. A wooden platform just barely large enough for their wagons drifted through the swamp and Brush carefully guided the elk onto it once it arrived. When they were safely on the platform, it began to glide across the water, toward one of the raised, wooden roads that Ranthia had seen.
+
+Once they transferred to it, they were underway.
+
+It took Ranthia a bit of time, but she finally caught on to the trick behind how the marshland was navigated. The wooden token that they’d attached to their wagon was made out of two different types of wood. Similarly, each path through the marsh was made out of a different type of wood—and they were alternating between the two types that made up their token. Each time they completed a leg across a permanent pathway, they awaited another mobile platform that took them to the next.
+
+She still had no idea how the moving platforms worked—even [Divine Eyes in the Void] couldn’t see very far into the dense marsh. But however they worked, the caravan was delivered exactly where it needed to be, and they never had to wait long for a new platform to arrive when they needed one.
+
+There were points where paths converged—or came near enough that they could have jumped to another if they really wanted to—but they took care to remain on their assigned line. The elk were well-trained and seemingly used to the whole ordeal, but it was still important to remain vigilant. The shifts had no assigned length, they each just remained as long as they felt they were able before they shook the bell-covered rope that had been strung along the wagons. That was the signal for the next driver to work his or her way up to the front to take over, before the relieved driver got to climb back to whichever wagon they were assigned to for rest.
+
+When night fell, luminescent moss that clung to the sides of the pathways provided light—for those that needed it—while the caravan continued its rattling journey across the road of disjointed planks. It was an incredible and clever way to allow people to cross the marshlands with minimal disruption of the delicate environment, but it was also a dangerous mixture of monotonous and nerve-wracking. It was all too easy to imagine that a mere moment of inattention could—if the elk were just a bit less well-trained than they seemed—send the entire caravan into the unknowable depths of the sludge that surrounded them.
+
+Several times a day, Brush ventured out amongst the elk—walking carefully across the wooden struts that the elks’ harnesses were tethered to—and saw to their needs. Their digestive waste was left in the caravan’s wake, but the beasts still needed to be fed and watered, even if the caravan seldom stopped. The beasts had impeccable vitality, yet days of travel remained too much to endure without sustenance. Ranthia offered to help him with the mildly dangerous process, though Brush refused every time.
+
+“This is my duty. They push themselves, so I will do the same.” Brush offered her the most words he’d ever spoken in her presence after she made the offer for the third time.
+
+She never made a fourth.
+
+It felt vaguely miraculous, but nothing ever went awry. Eight days later, the caravan reached the far side of the marshland—the so-called station that served as their destination. An expanse of grasses and small plants, marred by a single, robust tree. There, the elk were given a well-deserved break amidst the lush vegetation while the wagons were once again separated.
+
+There was also a sign, written in High Elvish, outlining the fees that they owed—to be paid in gems or cargo of equivalent value. Yet it seemed as though the giants and treants operated on the honor system; there was no one present to make sure that they left the payment beneath the sign as they were directed. Then again, it would be foolhardy not to pay—it was hard to imagine that the giants would ever allow someone that’d refused to pay to use their paths ever again.
+
+And there was no real means to avoid the area, short of travelling across the world in the opposite direction.
+
+Ranthia helped with the wagons while one of the [Merchants] carefully selected and removed three crates’ worth of goods, which he dutifully stacked beneath the sign.
+
+Sooner than she had expected, they got underway once again.
+
+“I get why [Merchants] would pay the tolls, but what keeps anyone that’s making a one-off trip from just… driving away?” Ranthia finally caved in to her curiosity and posed the question to Elencor.
+
+To her annoyance, the man immediately started laughing—just as riotously as he had when she unwittingly invoked the kobolds’ ire!
+
+The answer took a while.
+
+“There was a treant standing right there next to us! Trust me, the toll’s enforced.” Elencor finally explained, once he caught his breath.
+
+…Oh Xaoc, she needed to start checking trees and other vegetation with [Divine Eyes in the Void] too?! Their world was undeniably larger—and stranger—than Remus had ever made her expect.

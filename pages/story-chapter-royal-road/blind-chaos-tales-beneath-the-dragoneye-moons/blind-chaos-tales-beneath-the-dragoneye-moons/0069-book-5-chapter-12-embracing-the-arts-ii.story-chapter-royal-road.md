@@ -1,0 +1,233 @@
+---
+id: 3a614010-b1b0-54fd-84df-15f1ec481c69
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 12 - Embracing the Arts II"
+slug: 0069-book-5-chapter-12-embracing-the-arts-ii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 69
+ownLength: 5430
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3314842/book-5-chapter-12-embracing-the-arts-ii"
+royalRoadId: "3314842"
+---
+
+“Again, I really can’t thank you enough.” Ranthia subvocalized her gratitude while she gingerly accepted the zonked-out bunny from the [Healer].
+
+“Oh, it was my pleasure. You should have seen the joyous jumps she made when she got those levels.” The elf kept her own response at the same volume, lest they disturbed the exhausted bunny. “Do you know when your next excursion will be?”
+
+“I’d like to maybe do them every other day, if that’s alright with you.” Ranthia hadn’t even thought about it, but she still answered with the first whim that came to mind. It wasn’t like she was promising anything concrete.
+
+“That would be fine, I’m pretty flexible. And even if something comes up, I can always get one of my kids to watch her. She’s adapting so quickly; I don’t think it’ll take long for her to be fine on her own.” The [Healer] answered.
+
+Ranthia really wanted to ask her for her name again, but it felt rude—and she wasn’t completely confident that she’d absorb it from a single repetition. She’d somewhat hoped it would come up naturally, yet the name wasn’t even printed anywhere that Ranthia could see within the woman’s shop.
+
+“Well, thank you again. I should probably get her to bed and grab dinner before the service ends.” Ranthia self-consciously bid her farewell. Honestly, it was later than she’d hoped; she hadn’t meant to spend nearly so much time in the Lodge. And she’d definitely drunk more than she had planned on—it was hard to keep her mind focused on the tasks she needed to complete before she could let herself succumb to her own fatigue.
+
+But before anything, she needed to get Clover home.
+
+It was one of those mornings where Ranthia woke up feeling good and optimistic, then within three minutes her reward for drinking so much set in. She was used to pain, yes, and she was able to shift into a fresh body shortly thereafter, but the headache still managed to suck much of the bliss she felt out of her heart and mind.
+
+Ranthia’s mood was a touch fouler while she tended to her morning tasks. Clover’s sandbox was still pristine aside from the “see, this is the place for these” bunny waste she relocated to it. Her increasingly destroyed backpack had once again been befouled overnight. Realistically, she knew she probably needed to discard the soiled and ruined thing, but she was somewhat concerned about where Clover would go with it gone. The sandbox would be ideal, but such mundane faith and hope was in somewhat short supply that morning. Thus, Ranthia washed the backpack out and hung it back in place.
+
+Clover turned out to be passed out in the broad bucket Ranthia kept in the bathroom, snoozing atop a pile of hay the bunny had managed to drop into said bucket. It was cute, admittedly.
+
+The rabbit woke up partway through Ranthia’s morning exercises and did her very best to become an obstacle to Ranthia’s ongoing dance. Alas, she lacked the speed to truly get in the way—Ranthia was able to avoid stepping on a fragile bunny without stopping her dance. Morning exercise concluded, Ranthia spent some time praying to Xaoc, while Clover did her very best to make sure Ranthia knew that she was being very boring.
+
+[*ding!* [Dedication to Xaoc] has reached level 108!]
+
+That helped Ranthia’s mood—it’d been almost two weeks since the Skill last gave her a level. Also, her stomach was starting to finally demand sustenance. Ranthia looked around to see where Clover had wandered off to so—
+
+“Agh! Clover! No!” Ranthia blurred into motion to halt the bunny that was ill-temperedly chewing on a chair.
+
+“I know you want down, but wait until we find some rabbit toys, then I’ll let you pick something else out. Honestly, you already have so many things you can chew, but if it’ll save the furniture or my new backpack…” Ranthia carefully clutched her Bond to her chest as she wove her way through the chaotic disaster zone that was the Pink Pavillion.
+
+Clover wasn’t in the mood to be carried and Ranthia was under no delusions about that, but she had spent more than half of the gems that Avyna had left for her already—she really didn’t want to discover what would happen if her Bond managed to inflict more damage on the shop than she could pay for. In Remus, she’d be bound in irons and sold as a slave to pay off the debt. And she was more than a bit alarmed that she’d yet to find any mention of what happened to those in hopeless debt in elven society.
+
+When laws weren’t clearly delineated in the books, it was usually because polite society preferred to pretend that they had no idea what truly happened.
+
+Ranthia tried to refocus her mind away from darker thoughts as she quested through the midden heap that had delusions of being a coherent shop. She swore it felt like things got moved around each time she came in, even if it was beyond unlikely that the chronically drowsy owner was putting in that much effort to fuck with people.
+
+At last, Ranthia found at least some of what she sought. She grabbed one of each item off the shelf that she thought had potential and carefully balanced the stack on her not-entirely-free hand, before she backed into a slightly more open area and set Clover down. With her hands finally freed, she set the various chewable toys of wood and plant material down around the bunny.
+
+Thank Xaoc for high dexterity.
+
+“Okay Clover, which of these do you like?” Ranthia asked with semi-forced enthusiasm.
+
+The bunny carefully sniffed each cube, ball, and other whimsical shapes. Then she promptly hopped away, her gaze locked onto an elaborate wooden statue that was half again Ranthia’s height.
+
+“Noooo!” Ranthia hurriedly intercepted her dearest dynamo of devastation. She could see the price tag from where she was, and that absurd carving was almost eight times the funds Ranthia had left!
+
+“I’m really sorry about having to bother you with this. You’re a lifesaver.” Ranthia left more of her increasingly precious gems on the snoring elf’s counter while she directed her gratitude to the deeply amused animal [Healer] standing to her side.
+
+“She’s a lady that knows what she’s worth, but I think she’ll learn to settle for what you can provide.” The grinning elf answered.
+
+“Even if I could afford that damn statue, I think Avyna would strangle me if she knew I spent so much on a chew toy.” Ranthia deadpanned her response.
+
+“Maybe, but she isn’t here yet. And just think of how happy your dearest Clover would be.” The [Healer] was enjoying herself entirely too much.
+
+The bunny chose that exact moment to fix Ranthia with a deep, yearning stare—with cuteness levels set to max. Ranthia could only groan beneath the might of the needful bun.
+
+“Such a clever lady!” The [Healer] enthused.
+
+“Stop encouraging her, or I’ll ask Xaoc to make sure you have an interesting day! I rescind my earlier gratitude!” Ranthia shouldered her brand-new backpack full of rabbit toys (and three blankets), before she turned to make her exit.
+
+The [Healer] waved and made her own exit, sniggering at Ranthia’s expense the entire time.
+
+Ranthia stowed her purchases (including stuffing her new backpack into a trunk to keep Clover from laying claim to it), then set out again with her Bond. Instead of trying to do anything big, Ranthia decided to just settle down in an open area to give Clover room to run around and play (and munch on fresh grass and dandelions). The area Ranthia chose was slightly wilder than some of the parks the elves typically lounged within, which gave them a bit more privacy and quite a few more options for Clover’s foraging efforts.
+
+It was a nice way to spend the day. They were seldom bothered by more than an exchanged greeting with some elf or another on their way to go somewhere else. There were a few non-elves in the City of Arts: Ranthia had seen one elemental and heard tell of another, she’d noticed a gnoll painting in a park while she passed by, and there were bound to be other examples that she’d yet to lay eyes on. But at least 99% of the city’s occupants were—to the surprise of no one—elves.
+
+Ranthia passed the time reading or daydreaming under the sun’s embrace, while her Bond enjoyed herself. Ranthia was a fairly kinetic woman by nature, but she’d learned to appreciate opportunities to relax and do absolutely nothing.
+
+After an impromptu nap (Clover got drowsy and snuggly, things escalated), the sun was low in the sky. Ranthia and Clover abandoned their field and set out for a walk to pass time while they waited for dinner service to start. Not that she made it very far.
+
+“Ranthia, hey!” Ranthia’s ears traced the call back to a booth on an adjacent road, where an elven woman wearing pink trousers and body paint was waving.
+
+And Ranthia was more than a bit mortified to recognize the woman by her breasts instead of her face—she was the one with the brother that’d made the overly blunt attempt to hit on her the other day. Still, Ranthia adjusted her path to head toward the woman’s stall; they hadn’t really spoken much before (and she couldn’t remember ever giving her name to the woman), but she had helped answer Ranthia’s questions.
+
+“Great timing! I just got word that the elf I was supposed to be painting cancelled on me—apparently his partner got them an appointment with a Rank 4 Masseuse. Which pre-empts little ol’ Rank 12 me, I guess. I’ll do you for free, if you want! And to be candid, it’s because I’m hoping to get some levels out of the novelty of painting a human for the first time.” The elf beamed a smile up at Ranthia from the low chair she was seated on, her Brilliance-touched eyes almost sparkling.
+
+Ranthia wasn’t an idiot; the service on offer was obvious enough. The section of the street contained elves wearing varying amounts of body paint, many of which were hard at work working their brushes across the flesh of other elves in various states of undress.
+
+Ranthia struggled with her indecision, but for whatever reason it felt like Clover’s stare was urging her to play canvas to the pretty elf’s art. With an unnecessarily forceful shrug, Ranthia unbuckled her belt and shucked her mistweave tunic and perched naked on the stool in front of the elf.
+
+She would have worn her undergarments had she expected to bare herself, but elves were even freer with nudity—and sex—than Remus’ larger cities. Instead of being confined to necessity or the offerings of the night, it was a constant thing in the City of Arts. Which meant that Ranthia taking off her sole garment (aside from her sandals) in the middle of a crowd was no big deal. No matter what her traitorous blush suggested.
+
+“Oh, nice, can I do a full body piece? I can do green for the base layer to match your pretty eye-hiding ribbon. Oooh, yes, a little gold paint for small accents—it’s less breathable than what I use for the base layers, so I’ll have to paint it very carefully. And then some subtle design work and a few touches with reflective pigments…!
+
+“And don’t worry, I know what I’m doing. Your skin will breathe even easier than it does in your—wait, this is mistweave? Huh. Okay, your skin will breathe as easily as it does in your clothes. And sweat and all that other gross stuff, especially once I set it with my Skills. I’ve never had anyone’s skin react badly to the paint, but if I start seeing any puffiness or discoloration, I’ll remove it immediately with a Skill—it isn’t like I’ve worked on a human before.” The woman spoke at a frantic pace as she eyed Ranthia up and down with an uncomfortable intensity.
+
+“Um, sure? I’ll defer to your judgment; you’re the expert here.” Ranthia gave her blanket consent. If nothing else, it promised to be a novel experience. And she could always shift to a fresh body if she needed to—not that she was going to be crass enough to say that to the [Artisan].
+
+The elf nodded, set Ranthia’s clothing aside, and thoughtfully set out a cushion for Clover, before she went to work. A large pile of brushes appeared, some so finely tipped that only a few bristles could reach her skin, others far broader. Several jars were laid out, and even a few sponges—an excessively rare and expensive item in Remus.
+
+The woman held a green-soaked sponge in one hand and wielded a brush with a subtly different shade with another as she got to work on Ranthia’s neck. But it wasn’t just her hands—Ranthia could feel the subtle sensation of the body paint being adjusted by the woman’s Skills (presumably her Ooze-aspected class). She worked her way down from there, keeping her touch delicate—especially when she worked on sensitive areas. Ranthia raised her arms when requested to provide access to the skin under them and was forced to adjust how she was seated multiple times.
+
+Sooner than she expected, she had to stand, while the elf painted her butt (and other anatomy) with unerring professionalism. As the sun set, glowing crystals set in glass boxes were brought out by everyone in the area to provide illumination beyond what the magical flames in the streetlights offered, and progress continued at an impressive pace.
+
+Roughly an hour later, the elf proudly announced that she was done. Which immediately drew a crowd of her idle peers as they studied Ranthia’s painted flesh with enough intensity that she was left squirming (as if she hadn’t already been flustered from the [Artisan]’s delicate touch).
+
+“Exquisite detailing work. I’ll confess, I don’t think I can match that level of finesse. …I’d like to cede Rank 11 to Myntheria. It was only a matter of time, I suppose.” One of the men finally admitted, with a bitter expression on his face—and with determination burning throughout his words.
+
+“Mm, I agree. No hard feelings, Darlantise. I hereby witness Myntheria as Rank 11 in Body Painting.” A different woman spoke up, her tone formal.
+
+“Ee! Levels and a new Rank? You’re the best!” The [Artisan] excitedly leaned in and planted a wet kiss on Ranthia’s paint-covered cheek.
+
+“Congratulations!” Ranthia was really hoping that the body paint would cover her blush.
+
+“Oh, by the way, I never did ask—what rank did you end up getting for dancing? I need to know for my own bragging about my achievement!” The excited elf asked, one arm still around Ranthia’s shoulder.
+
+How did she even know that?! …Okay, yes, Sunny had instantly pegged her as a dancer too, but she was the only person that Ranthia had actually told! It felt especially strange, given Ranthia still had no explanation for how the woman knew her name. The City of Arts wasn’t anywhere close to being a small enough city that gossip should travel so readily.
+
+“I… haven’t bothered yet.” Ranthia’s response came out stiffer than she intended—and she certainly hadn’t meant to say ‘bothered’ out loud. Her damned mouth and its especially damned habit of running amok whenever she was distracted!
+
+“Oooh. Okay, no, that’s not a good thing. Most people do it within a day—often hours—of getting into town; and Dancing is definitely not an art you want to leave open. Because right now any number of the top people could challenge you and make a spectacle out of crushing you; you’re only protected from ill-suited challengers if you have your own Rank.” The [Artisan] hurriedly explained with a (okay, yes, it was cute) thoughtful expression on her face.
+
+“I appreciate the concern—Sunny told me the same thing—but I’ve had a lot on my plate with integrating into elven society, Clover here, and becoming a Hunter. And I don’t really care to be ‘competitive’ in my art, it’s just a part of who I am. It’s important to me, and I don’t need some number assigned to it to validate what it means to me.” Ranthia tried to explain. Her bunny was, amazingly, still on the cushion, albeit half occluded behind a large hill of plucked grass that she’d greedily harvested for idle snacking.
+
+“It might not matter to you, but it does to the rest of us. Hm, how should I explain… Okay, so you want to integrate into our society, right? Well, if you refuse to seek an appropriate ranking to your level of artistic Skill, you’ll develop a reputation as someone that is disruptive to what we’re trying to do. Those of us that come to know you might realize this isn’t true, but others will see you as trying to challenge entire fields of art—as though you were saying their experts are beneath your notice.
+
+“I know you have your reasons, but I also think you’re expecting getting a rank to be some grand ordeal. It really isn’t. Look, we can even do it tonight—I happen to know a guy, Rank 41. He’s planning to cycle soon, so he wouldn’t mind doing a challenge with you. You do a dance, either take his slot or get permission from the crowd to claim a lower slot he recommends, and you’re done. From there, the only one who can challenge you is the person right below your Rank. And challenges aren’t pressing, even if you are challenged you can take a few days to finish with whatever you’re working on. So come on, one little dance? Let’s knock it out!” The [Artisan] finally released her arm from around Ranthia’s shoulder and started to bat at her own blue-tipped blonde hair to pass the moments while she waited for Ranthia’s decision.
+
+Ranthia’s immediate impulse was to refuse. Sure, there was the (minor) fact that she really didn’t want to bother, and that highly competitive arts felt vaguely repugnant—but it wasn’t like everyone seemed determined to climb the ranks. There were other excuses too, like the fact that Ranthia didn’t have any outfits worth wearing for a dance beyond her armor or a tunic, but those were just excuses. And the more she dwelled on the impassioned elf’s words, the wiser they seemed. If she could get the damned thing done with a single dance with someone who didn’t have the albatross of success on his shoulders…
+
+“Fine, I guess you can see when he’d be available.” Ranthia consigned herself with a slight smile on her face. She wasn’t exactly looking forward to it, no, but she supposed it would be nice to get a firm date for when she could expect to be done with being bothered about it.
+
+“Oh, he’s usually free this time of day. We’re getting this done tonight, trust me!” The elf answered with a pump of her fist over her own painted chest.
+
+“Wait, really? I guess my tunic will still show some of your hard work, at least. I was kind of planning to wear my armor for this ‘match’ though.” Ranthia hurriedly spoke up, before the elf could turn to address anyone else.
+
+“What are you talking about? You look amazing—if I’m allowed to say so, which I am. Just perform as you are! It’ll be great advertising for me, and you couldn’t look any better!” She replied with a wink, before turning back to the other elves.
+
+“I…!” Ranthia swallowed her distressed reaction forcibly. Honestly, at some point she’d lost even the remaining self-consciousness about her state of undress in a mixed crowd. And it wasn’t like she didn’t constantly see elves walking or lounging around bared to the world. And it would be a damn shame to cover most of the [Artisan]’s hard work…
+
+Ranthia took a deep breath and inverted her [Divine Eye] to take a look at herself. It was still pleasantly novel to have no need for a mirror—or to waste the mana to shift to a different body—just to do such a simple thing.
+
+As promised, the artwork seemed to blend in with her (sole remaining) mistweave blindfold. The woman had been remarkably thorough in her paint job and Ranthia couldn’t find a single glimpse of her usual skin tone, except between the strands of her hair. Yet there wasn’t a smidgeon of paint out of place either—her hair remained free of it, as did her eyelashes and eyebrows.
+
+Naturally, the paint itself was impeccably applied. There were tiny holes worked into the paint—matched to those in her skin—to make it breathable, just as promised. And the golden design was subtly applied, yet it somehow created an illusion that Ranthia had clearly defined edges to her own body. It was as though the trim had been properly applied where it was needed, rather than as a decorative flourish. Then there were the hidden patterns and shapes, ordinarily indistinguishable from the green of the base layer, that shimmered only when the light caught them just right.
+
+Honestly, it was breath-taking. She had expected to be a canvas for the elf’s art, but instead the effect felt… almost natural, as though Ranthia herself was such a work of beauty. She was, of course, but never a green work of beauty—yet the deep emerald hue plainly suited her better than she had ever imagined it did!
+
+Flattered and awed, Ranthia immediately started to create a new image based on the [Artisan]’s incredible creation. There was a time that she would have convinced herself that she couldn’t hope to have replicated such artistry, but thanks to Avyna’s pushes and the games and exercises she’d demanded, Ranthia felt confident. Sure, the designs were complex, but they were also somewhat predictable and sensible, plus the base was her own natural body. With the shortcuts she’d learned at her beloved’s behest, she knew she was able to recreate and immortalize the masterpiece painted on her flesh.
+
+Not that she’d be able to shift into it—she had no good way to recreate the paint—but it was still a great memory to preserve in [Image Recall]. And that was even better than her (failed) attempt at an immortal memory Skill ever could be, because she could share the image with Avyna in the future!
+
+Even with everything she’d learned, the process still took more than a little time. She often had to subtly adjust how she was standing—and crouched down at one point to pet Clover—just to get better views of certain angles and areas of her own body to make sure her image was perfect. She didn’t want to spell out what she was doing to anyone else though, so she tried to make each movement feel natural and did her best to keep her concentration from causing her facial muscles to tense up.
+
+[*ding!* [Image Recall] has leveled from 686 to level 688!]
+
+Two levels were wildly unexpected—she usually only got one after making multiple new images, and that was without using her true body. But Ranthia couldn’t dwell on her surprise, because the [Artisan] that she owed her gratitude and praise to was approaching again.
+
+“Guess what! I managed to snag the Rank 4 in Music to provide something for you both to dance to!” The elf was visibly giddy as she reached for Ranthia’s arm.
+
+Mutely, Ranthia allowed herself to be seized and pulled—she was too busy staring at the crowd that had gathered.
+
+“What happened to this not being a grand ordeal?!” Ranthia hissed.
+
+The elf paused for a moment, looked at the crowd, then looked back to Ranthia and shrugged.
+
+“A few people were bored, I guess!” She offered in a chipper tone that wasn’t even remotely apologetic, then started to drag Ranthia forward again.
+
+Ranthia tried to swallow her nerves while she was introduced to her plainly dressed competitor—name went in one ear and vanished somewhere within, never to be seen or heard again—and the lanky musician. Okay, so she just had to dance. Naked. In front of a crowd of several dozen strangers that were amongst the most attractive beings she had ever seen. In a competition. That would determine how and if she belonged in the city.
+
+…Something had gone horribly wrong and she wasn’t entirely sure how letting a cute woman put paint on her skin had led to disaster!
+
+“I’ll play three songs. Each of you will choose one, then I’ll play something I select myself at the end. Let me know your selections and we can get started.” The music [Artisan] instructed in a haughty tone.
+
+“A Moment of Eternity.” Ranthia’s competitor answered immediately.
+
+That… Okay, Ranthia actually knew that song, or at least she knew of that song. It had shown up in one of the books she’d read, during the slow, intimate dance number between the lead and her lover. Slow dances weren’t exactly Ranthia’s normal preference, but she could work with that. Still, she wanted something more… energetic for her own choice. But she was hampered by the minor fact that she barely knew any elven songs. Still, if one book’s music was real, maybe, just maybe…
+
+“<Seven Nights?>” Ranthia requested a song that was mentioned in another book.
+
+The musician nodded! Thank Xaoc.
+
+Stiffly, Ranthia let herself be directed to the adjacent park where they would dance. The grass was soft beneath her toes—she’d been forced to take her sandals off to get her feet painted—and Ranthia tried her best to manage the embers of her panic. There was a crowd, yes, but so what, right? RIGHT?!
+
+She had danced before larger groups. The competition she had with Ass-face or whatever the horrid woman’s name was had been performed before the bulk of the people that lived in Remera, along with numerous figures from the caravan. She had worked the crowds of what had to have been half of Ariminum’s population while stuffed into sexualized ridiculousness that she’d hated—and she actually did legitimately love the body paint she was wearing. She was still in control, even if the situation wasn’t what she’d expected.
+
+Surprisingly, the thought helped. With a few deep breaths, Ranthia’s head felt clearer and the rhythm she longed to embrace once again felt within reach. The moons had risen at some point while she was working on her new image, and there were floating balls of pale silvery light scattered throughout the park—which meant there was plenty of light to catch the hidden forms within Ranthia’s body paint. It really was exquisite work.
+
+“Best of luck to you. My advice is just to enjoy yourself.” Her opponent called over from his area.
+
+“I appreciate it and I intend to. Same to you!” Ranthia called back with a nod.
+
+She was ready. Which was good because the music started up almost the very moment the thought—or rather, her determination—crossed her mind. Ranthia absorbed the music and started to move a heartbeat later.
+
+The trick to dancing to music wasn’t to let the music guide her—it was to use the music as a foundation and metaphorically build the dance she wanted atop that foundation. Sure, she could ignore the confines of the foundation and build beyond its intent, but why be reckless when she had almost limitless creativity within the space intended? The tone and the beats were her foundation, which meant her dance needed to reflect the warmth and intimacy that the harp provided.
+
+Ranthia danced for a time and led in with a solitary, sweeping dance before she tapped [Scattered Reflections] and conjured an image of herself wearing her (abandoned) mistweave dress. [Submind] had no place in her dance—instead, she manually seized control of the image and swept it into her dance as her impromptu partner.
+
+The crowd and her opponent were meaningless. Ranthia kept her eyes closed while [Divine Eyes in the Void] remained fixed directly above her, allowing her to watch her footing from an angle that she had largely acclimated to. Sure, there was some curiosity about how an elf danced, but she could always catch a performance from one of the top eight at some point or another. For the moment, she was dancing and she wanted to focus on that.
+
+At the end of the song, Ranthia and her mirror image partner took a bow—with Ranthia dismissing the image instead of having it rise. Without fanfare, the next song began a heartbeat later.
+
+She’d never actually heard <Seven Nights> before, but the book she’d seen it mentioned in hadn’t been wrong about the song—the pace was delightfully energetic. It contrasted well with the previous slow song; even if she was a bit surprised that the musician had clearly changed instruments to perform it.
+
+Ranthia danced through the song alone. The first song had been serene, but the new one had her thrashing about her designated area with energized movements. Which was a lot more fun! Even if Ranthia was left sweaty and just a touch breathless by the time the song came to an end.
+
+“And now for one of my own originals!” The musician shouted at the top of his (admittedly impressive) lungs, before he switched to some sort of percussive instrument.
+
+The new song was absolutely meant to screw with them. The song bounced between different speeds and intensities before a predictable rhythm could be established. Which was obviously meant as a test or act of sabotage.
+
+Ranthia, of course, loved it. One moment she moved gracefully and with care, as though she was back on the stage at Fausteo’s Musical Theater a lifetime ago. The next, she twirled at ill-advised speeds, before she launched herself into the air for a sweeping kick. She even formed her knives—wait, how in Xaoc’s glory had the [Artisan] managed to direct her paint under Ranthia’s bracers too?!—at one point when it felt natural to incorporate them into her dance.
+
+The song came to a somewhat abrupt end, but Ranthia narrowly managed to transition her step into a firm movement that conveyed finality—without losing her balance in the process. There was no moment of silence when it was done; the crowd started to make noise before Ranthia had even sucked in her first desperate breath.
+
+The elf that was responsible for the ordeal was bouncing in place, grinning Ranthia’s way. The musician was dismissing the hard light instrument he’d conjured for the performance and nodded their way. Ranthia’s ‘opponent’ seemed to be fully in control of his breathing, but his hair had gone somewhat wild during their contest. Clover was still perched on her cushion and had seemingly dozed off during the contest. Rude!
+
+Ranthia scanned the crowd for familiar faces. She found the scarred elf that had ‘welcomed’ her to the city almost immediately; the woman stood near the front of the crowd with what Ranthia assumed to be a subtle smile on her face. Surprisingly, Sunny was there too, albeit at the very back of the crowd. The rest were strangers to her or elves that she hadn’t interacted with much—there wasn’t a single Hunter that she could spot amongst those present.
+
+The dancer that Ranthia had competed with approached the crowd, and their roar of approval dropped to a respectful murmur.
+
+“This has been my final performance in Dancing; I thank you all for witnessing it. And I do hope you’ll give my Sculpting a respectful look once I’ve trained enough to not make a mockery of the art. But! For the moment, I ask you all to witness this—I hereby cede my rank to Ranthia! For she deserves it!”
+
+“Yes, yes. As Rank 4 in Music, I witness.” The musician called out, though he was already walking away.
+
+“As a sitting Maestro, I witness as well. Well done, I hadn’t expected a human to land in the top fifty, but the Rank has been undeniably earned!” The scarred elf’s voice seemed to part the crowd from around her.
+
+“You go, girl!” The body painter that got Ranthia into the entire mess screeched excitedly.
+
+And with that, the crowd pressed their way in to offer Ranthia assorted flavors of congratulations and gratitude for the show. Ranthia could have definitely lived without that, but she tried her best to put on a brave front as she smiled at the first elf that wanted to lay his hand upon hers.

@@ -1,0 +1,137 @@
+---
+id: f791f9dc-6111-5802-b8eb-ec770240484a
+page-type-slug: story-chapter-royal-road
+title: "16. Freedom of Choice"
+slug: 0016-16-freedom-of-choice
+partOf: breaker-of-horizons
+position: 16
+ownLength: 2345
+unit: words
+publishedAt: 2020-06-25
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/515487/16-freedom-of-choice"
+royalRoadId: "515487"
+---
+
+I barely had time to wonder for the second time that day where the shy version of Ambrose had gone before I found myself being assaulted by a compulsion to flee from danger.
+
+It was easy to trace what was happening now that I knew the mechanism behind it. Unfortunately, that didn't make it any easier to resist. Before I could stop myself, I was already on my feet, my heart racing furiously in response to a perceived threat. My body turned of its own volition and I found myself facing the exit.
+
+I clamped down on the impulse with all the willpower I could muster to stop myself from dashing through the doors. Instead of going into a flat-out sprint, I ended up trundling forward awkwardly for a few steps before I sank to my knees. I let out a grunt of pain as I hit the floor with an audible thump. The compulsion vanished and I heard Ambrose's footsteps hurrying up to me.
+
+"Caden! Sorry, sorry, I didn't mean—"
+
+He stopped abruptly as I retaliated with a burst of compulsion of my own, mirroring the impulse to flee that he had thrown at me. He stopped short with a gasp of surprise. I was still on the floor as I turned around and saw him rooted to the spot, struggling to master himself. Then, to my utter surprise, he straightened up and grinned wolfishly.
+
+I leaned into the compulsion, pouring more of my aura to warp the ambient arcana. The low humming noise filled my ears and I felt the familiar tingle across my skin. Ambrose's grin faded slightly and his eyes lost their focus as he turned his attention inward, but he managed to stay put. After a few seconds, I released my hold on the arcana. A sudden hollowness descended on me, and I knew that my auric arcana was almost completely depleted.
+
+"Wait," I rasped, holding up a hand to forestall any reprisal. "I'm... I'm tapped out."
+
+Ambrose's grin vanished. He hurried over and knelt next to me. "Vent all the ambient arcana, or you'll suffer serious overdraw."
+
+I nodded, my mind already turned to that purpose. The air rippled around me as I shed the arcana that had leeched into my system in that short period. I realised that there was a lot more of it, for some reason.
+
+"There's so much more," I murmured, maintaining a careful focus on the venting process as I watched the waves rising around me.
+
+"The emptier you are, the faster the ambient arcana suffuses you," Ambrose explained.
+
+"How did you stop the compulsion?" I asked, dividing my attention with some effort.
+
+"I had more time to think about the first time you pulled it on me. Back in the dorm I managed to stop myself from blurting anything out because I instinctively tried to block ambient arcana from entering my system. But blocking it isn't enough — you have to remove the contaminated arcana inside you at the same time. So that's what I did this time.'
+
+"Damnit, are you always this quick on the uptake? You picked up Jerric's glyph sequences for the arcing bolts really quickly too," I grumbled.
+
+"I'd say natural talent or intelligence, or good training, but honestly, I don't know." He shrugged, looking pensive. "Maybe it's the Prophecy. You know, one thing that's hard about being the Chosen One is that I sometimes feel like I don't get to decide anything about my life, or even who I am. Did I choose to be interested in Thaumaturgy? Or was I forced into it without even knowing? If people are defined by the choices they make... then how much of me is really me, and how much of me is just the result of a Prophecy?"
+
+I didn't know what to say to that. It occurred to me then that I had been very unfairly harsh towards him when I swore at him earlier. If being near the Chosen One was already changing my life and making me feel like I was losing control, then it had to be worse for the person himself.
+
+"If you had a real choice... would you still want to be the Chosen One?" I asked.
+
+He smiled sadly. "Is there a point to answering that if I don't actually have a real choice?"
+
+"You know what I'm here to do for my sister. If I manage to do that much, then who's to say the same principles wouldn't apply to a major Prophecy? Who's to say we can't free you from it?"
+
+He looked away and sat in silence for a while. "I don't know," he said finally, still staring off into the distance. "I mean, what would I do with my life?"
+
+"Anything you want."
+
+He sighed. "Do you know what kind of life I had before the Prophecy was made?"
+
+"Well, it hasn't come up in all the years we've known each other," I deadpanned.
+
+Ambrose laughed as he turned to face me. "Sorry, rhetorical question. Anyway... before the Prophecy, I was living in an orphanage."
+
+I couldn't help but interrupt him. "That is so cliche."
+
+"That's my life you're talking about," Ambrose said indignantly. Then he deflated. "But yeah, I've read the same kind of books and I think it's pretty cliche too. I did dream about stuff like that when I was younger — about being special somehow, and having a destiny marked out for me. You know, kid's dreams. And then it actually happened."
+
+He seemed to retreat into himself a little as he slouched over and hung his head slightly. When he spoke again, he sounded like his mind was miles away.
+
+"I was sixteen. Two years before I aged out. The kids like me had mostly given up on ever being adopted. It's still legally possible... but nobody over sixteen ever got out that way. So that's when we start thinking about the future — about life on our own, with no family. Because once we hit eighteen, the orphanage can't house us anymore."
+
+It was hard for me to imagine what that must have been like — to have nothing to look forward to except a life led alone, with no support from anyone, and with nothing to your name. The slight grin I had on my face earlier when I poked fun at his status as an orphan was long gone.
+
+"The orphanage was actually decently funded. Nothing lavish or luxurious... but they had enough to make sure that the over-sixteens could get their feet under them before they aged out. They'd send us for some classes outside for vocational training. And there were some pro-bono apprenticeships or mentorship programmes from various organisations. But when I hit sixteen, I decided I wanted to learn arcanophany."
+
+He waved a hand vaguely in the air and some arcana coalesced into a small sphere of light — a miniature version of the standard orb. He chuckled. "The first time I did this, I nearly set the small library on fire because I got one of the glyphs wrong. The orphanage didn't have any connections with the Academy, and the preparatory schools were too expensive. All they could afford were introductory textbooks, so I had to be an independent study."
+
+I was stunned. I would have never guessed that he had only started learning arcanophany two years ago. What kind of arcanist would he turn out to be once he was fully trained?
+
+"And that's when my life changed. The very next day, someone turned up and went to the matron's office. Everyone was interested because it's usually couples that come in. But this man was alone, and he looked old. Maybe in his sixties. Didn't seem like someone looking to adopt. So we all were curious about why he was here. Some thought he was going to be a big donor or a patron. He looked the part."
+
+Ambrose's voice was growing softer. "The matron stepped out of her office after a while and came straight to me. And said the man wanted to speak to me. In private.'
+
+He lapsed into silence for so long that I wondered if he had fallen asleep since his face was slightly hidden by his fringe when he sat hunched over. I contemplated whether or not to prompt him, but then he took in a deep breath and took up the narrative again.
+
+"We went into the matron's office, and he did something to the room, probably to ward it against spying. And he told me about the Prophecy, and told me that I had been identified as the Chosen One. And that no one else could know until it was time."
+
+"Who was he?" I found myself whispering.
+
+He shook his head. I didn't know if he was unwilling or unable to tell me.
+
+"Anyway," Ambrose cleared his throat and sat a little straighter. "That's when I got more books and some one-on-one tutoring. The story given to the orphanage at that time was that the man was a talent scout. The matron was sceptical at first, but when the promised books came and she passed them on to me, she was so happy. And I was, too. There was a path for me to follow."
+
+"And you made all that progress from a globe light to Double Thau-level awesomeness in just two years?"
+
+He nodded, but before I could comment on how gifted he was, he cut in. "And that's exactly it. This Prophecy is the reason why I am who I am today. What happens to me if I turn my back on it?"
+
+I frowned as I thought it through. "You may be here today, with all your knowledge and skills, thanks to the Prophecy. But you won't lose what's in your head. Maybe being severed from it would deprive you of future benefits, but that still leaves you with everything you've gained so far."
+
+"What makes you so sure I won't lose something? You don't even know the scope of the Prophecy."
+
+I opened my mouth, ready to reply, but then I realised that he had a point. I didn't know exactly what a Prophecy could do, or how it actually worked.
+
+"So you're saying that if you get a real choice, you'd still choose to be the Chosen One? Because it gives you a purpose, a goal?" I didn't know why, but somehow that felt like giving up to me.
+
+"Sounds a little hollow when you say it like that," Ambrose smiled. "But you don't mean to tell me that you've never wished for that kind of clarity in life? To know what your destiny is? To be sure of what you're supposed to do with your life? To know that it matters?"
+
+"Depends on the destiny," I countered. "If it's a stupid one like my sister's, I'd rather not have anything to do with it."
+
+He seemed to be on the verge of saying something very important, but he stopped himself.
+
+"What?" I demanded.
+
+"Let's leave that for another time. For now, you have so little auric arcana that you're inviting a dangerous level of overdraw. We need to make sure you don't allow ambient arcana to seep in so that what you vent stays out."
+
+I wanted to pursue the subject but it was clear that my own situation was really rather dangerous. I berated myself for being so rash, but that thought was interrupted by another — this seemed like one of those coincidences that benefited the Chosen One and the Prophecy. After all, I was normally a lot more careful in the use of my auric arcana. Perhaps the thing Ambrose had been about to divulge wasn't meant for my ears, and the Prophecy had taken away that brief opportunity for Ambrose to share his thoughts.
+
+This time, the process of learning it was a lot easier. The glyphs for surface ambient arcana turned out to be something I could use to visualise the separation between auric and ambient arcana, and with some concentration, I could make sure that the ambient arcana trying to enter my body only remained on the surface of my skin.
+
+"Is there a way to make it permanent?" I wondered aloud, once I had managed to vent the excess again and prevent it from seeping back in.
+
+Ambrose shook his head and shrugged. "I don't think so, but even if it were, I'm not sure if that's a good thing. I think I read somewhere that we actually need this kind of mix inside us. Anyway, don't worry, more advanced arcanists can vent and bar ambient arcana easily. It probably comes with practice." He got to his feet and looked wistfully around the chamber. "I thought we'd be able to try something else, but I think it's best if you take a rest."
+
+"Yes," I said as I struggled to stand. My mind was clear since I had vented the ambient in my system, but my body was still suffering from the lingering effects of overdraw. "So what can we tell the others?"
+
+As we walked out, he mulled over it. "Nothing about the Prophecy, or the Chosen One thing. For now, we just help them along with their arcanophany. The immediate goal is to get them to master this compulsion thing, and to learn to block it."
+
+"That shouldn't take more than a day, right? What do we do after that?"
+
+He shot me a sly look. "So now you want the clarity of a destiny?"
+
+"No! I'd never want to be some puppet to Fate!"
+
+"Then stop asking a puppet of Fate what to do." He turned serious. "Just... lead your life, Caden. Do what you think is best. I'm counting on you for that."
+
+I had no idea what I was supposed to say to something like that. All I could do was nod solemnly.
+
+We walked the rest of the way in companionable silence, both lost in our own thoughts.

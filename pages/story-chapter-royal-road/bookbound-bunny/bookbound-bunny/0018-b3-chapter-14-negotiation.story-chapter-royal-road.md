@@ -1,0 +1,189 @@
+---
+id: 3f4a3a01-1ac1-5689-b127-c82dee20829d
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 14 - Negotiation"
+slug: 0018-b3-chapter-14-negotiation
+partOf: bookbound-bunny
+position: 18
+ownLength: 2330
+unit: words
+publishedAt: 2026-03-07
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3125531/b3-chapter-14-negotiation"
+royalRoadId: "3125531"
+---
+
+Lily was genuinely surprised that the dungeon was already willing to negotiate. In her mind, she couldn't reasonably see how they'd manage to get to the bottom of the dungeon and then find the dungeon's core before either of them ran out of Mana.
+
+I suppose the dungeon just doesn't want to take the risk. Maybe it finally realized we didn't mean any real harm?
+
+"Right, my demands are simple," Arakil said, standing proud despite Lily's diminutive stature. "Firstly, you are to cease the hostilities against my apprentice and her friends immediately. Secondly, you are not to reveal what happened to anyone."
+
+That's it? Lily was astonished; she thought Arakil would make thorough demands from the dungeon.
+
+"Is… that… all…?" the dungeon asked, sounding suspicious.
+
+Arakil motioned to scratch his head, then seemed to get a fright when he touched Lily's bunny ears as he flinched wildly. He coughed and made a throat-clearing noise, attempting to nonchalantly brush past it as he continued his list of demands.
+
+"Thirdly, you are not to take revenge on Lily or me if we siphon some of your Mana. You have a lot of it, and what we take would only be a drop in the bucket. Lastly, your monsters should stop attacking me on sight. In fact, is there any way to remove this 'defiler' status attributed to my grimoire?"
+
+"I… cannot…"
+
+Arakil made a sudden motion, releasing some of the pressure off the metallic lizard-like monster. Evidently, he was getting annoyed by the slow, strained speech.
+
+Looking somewhat relieved, the monster continued answering, "I cannot remove the condition, as it has permeated through the confines of the item. However, if you stay in a dungeon long enough, it should be mistaken for a dungeon artifact, rather than built on the sacrifice of my brethren."
+
+{But my mom found you in a dungeon. Why didn't that get rid of it?}
+
+[Perhaps it was sealed until my awakening. After all, the book itself is innocent in this regard. To be perfectly frank, this is the first I've even heard of dungeons holding a grudge for other dungeons. Back in my day, they'd more likely celebrate the demise of a rival as it would mean more resources for the survivors.]
+
+After quickly telepathically answering Lily, Arakil returned his attention to the dungeon-possessed monster.
+
+"Very well. Considering Regarth's curriculum, I should be spending quite a lot of time down here. Can you at least keep your own monsters on the leash?"
+
+"I can arrange that," the dungeon admitted.
+
+Arakil nodded. "Excellent. None of this would have happened if the monsters weren't seeking me out, regardless of circumstances. What about my other conditions?"
+
+The dungeon paused, a look of suspicion flashing across its monster's eyes. "Those are fine… But I can't help but suspect you are merely delaying to destroy me further down the line."
+
+"We can sign a contract if you wish," Arakil retorted.
+
+Before the dungeon could respond, the grimoire was already in motion. It turned to a fresh page, and upon it words were being rapidly written. Unfortunately, Lily couldn't understand a single one, yet, strangely, she felt there was some mysterious force behind them.
+
+Arakil then signed the bottom, using Lily's finger as if it were a pen, and tore the page out and threw it towards the monster. It landed perfectly in front of it, arranged for its viewing.
+
+Lily was surprised not by what happened or the magical gesture, but by the scorching environment they were in. Why is the page not burning despite being removed from the book?
+
+The dungeon seemed to understand what was written, as it read whatever was contained. It failed to hide the look of shock as it proceeded.
+
+"Is this good enough that I truly mean you no harm? Of course, that comes with the caveat that you swear to never harm my student directly," Arakil said.
+
+The dungeon looked like it wanted to accept it; however, before it did, it frowned with a look of frustration. "Do you expect her to go on an unrestricted looting spree?"
+
+"I said not to directly harm her," Arakil elaborated. "It's likely the same agreement you have with the headmaster. I want her challenged, but having you, the dungeon itself, conspiring against her is several steps too far."
+
+The dungeon still looked suspicious, but the lizard-like monster gave a nod. "Very well, I accept and swear on my core to meet your four conditions, provided you do not threaten my existence."
+
+"Naturally," Arakil replied.
+
+The giant monster then grabbed the page with a claw and began walking away. When it was far enough away, Arakil entirely released the pressure applied to it, as the spheroid spell vanished, and let out a sigh.
+
+[We need to head back. This took longer than I expected…]
+
+Before Lily could say anything, Arakil activated the mark on the back of her palm, and their vision was engulfed in magical shifting images. When the world finally came into focus, they were back in the forest with Lotte and Thomas still passed out on the ground.
+
+Lily immediately smiled when she saw they were safe and sound.
+
+{Thank the gods they are alright…}
+
+Arakil sighed again and then quickly drew what looked like a small ethereal door. He attempted to reach into it, but the magical door remained shut, causing him to click his tongue in annoyance.
+
+"Of course it can't be that easy," he muttered.
+
+Arakil then took out one of the healing glyphs that Lily had drawn from the pouch and activated it. He then pulled out another one and activated it again. Right when Lily was going to question him, she felt herself being dragged back to her body.
+
+[Times up.]
+
+Lily's world went momentarily dark, as if she'd squeezed her eyes shut. Then, as if opening them, the light came back, and she was back in her own body.
+
+"I'm back?" Lily asked.
+
+[Yes. I'm sorry for putting strain on your body and core.]
+
+Lily quickly closed her eyes and, in a momentary trance, got the gist of her current condition. Her Mana Core was almost dry, having less than a tenth of its Mana remaining. She'd need more than just a good night's rest to refill it entirely.
+
+"It doesn't seem too bad," Lily answered.
+
+[Your Mana Core can be overtaxed, where you shave away its development to gain some extra reserves. It's never worth paying that price unless it's a life or death situation, and we were dangerously close to treading on that borderline.]
+
+Lily gulped. She thought Arakil had everything perfectly under control from start to finish and even finished with some Mana to spare.
+
+"Should we not have asked more from the dungeon then?"
+
+[No. I meant what I said, where I want you to actually have trials and tribulations through the dungeon. Without proper tempering, your magical development will be stifled.]
+
+"I guess I should be happy we didn't leave empty-handed, or worse," Lily chuckled nervously.
+
+[The repairs on my grimoire should help tremendously. I can now allow you to properly browse through some of my archives, although admittedly it might take a few days for me to recover to a state where you can do so.]
+
+"No more ink?" Lily asked.
+
+[Your talismans still require it. Also, if you want to add your own contributions to my archive.]
+
+Lily promptly nodded.
+
+[We also elevated the Familiar bond. Now we can communicate without any potential eavesdroppers.]
+
+Lily winced. She had somehow completely forgotten about that now that she'd returned to her flesh and bones. She closed her eyes and put her hands on her mouth, attempting to converse telepathically.
+
+{Hello?}
+
+[Excellent. I can hear you perfectly. I'm glad there were no unforeseen miscalculations in my approach.]
+
+{This will take some getting used to.}
+
+[There's no rush. I also hope you digested some of the magical demonstrations I provided.]
+
+"I did!" Lily exclaimed excitedly, forgetting the telepathy talk. "I think I can probably cast Lunar Radiance now after seeing and feeling you cast it. Lunar Eclipse probably won't give me as much trouble either, now that I've experienced that too."
+
+[That's good to hear, I'm glad we obtained some benefits.]
+
+"There was definitely plenty of silver lining for us," Lily said with a smile.
+
+[Perhaps in the future, once we've both recovered, I can look into a method to provide better demonstrations for you. Visualization is a vital aspect in magic, and it's why your progress has sometimes been hindered. Usually, an apprentice would receive better guidance.]
+
+Lily vehemently shook her head. "I don't care, you're the best teacher ever in my opinion, I wouldn't want anyone else."
+
+[Thank you, Lily.]
+
+"Are you going back to sleep?" Lily suddenly asked, sounding nervous.
+
+[No, the situation isn't that tragic. I just burned through a lot of the reserves we saved up. However, considering we were saving those to restore the grimoire in the first place, we could consider it a net positive.]
+
+"I'll make sure to give you as much Mana as possible to make up for it," Lily replied, determined.
+
+[I appreciate it, but first focus on your own recovery. What you went through won't be without backlash.]
+
+Lily spun around as she tried to find this supposed backlash, but couldn't spot anything wrong with herself. Other than a bit of fatigue from the adrenaline wearing off, she felt like she was as fit as a fiddle.
+
+"What about my friends?" Lily eventually asked, now that things were finally settling down.
+
+[As I mentioned before, they should think a lot of this was a dream. I didn't remove their memories, but it's certainly been made hazy. Depending on your acting skills, they might brush it off entirely.]
+
+"I don't really want to lie to them," Lily admitted with a frown.
+
+[Then don't. It really depends on how they interpret it once they wake up. If you put them to bed and repair the camp before they wake up, then the dissonance between what they saw and what they see will blur the lines.]
+
+"Okay, I guess we will play it by ear then," Lily agreed.
+
+Then, almost immediately, they ran into the first problem—how to get them to their tents. Lily was not strong enough to lift Thomas, let alone Lotte, and once again she could only sigh in disappointment at her lackluster stature.
+
+While Arakil had said he didn't want to strain her Mana until it was fully recovered, since it had never been this drained before, they didn't really have another option except to resort to magic. Lily had thankfully been passively recovering and even spent half an hour actively focusing on recovery. Then she tried to tackle the first issue.
+
+Telekinesis didn't work on people, so she was a bit stuck in this regard. However, eventually they came up with a makeshift solution by bringing their sleeping bags over and dragging them inside. Once inside, Lily cast telekinesis on the bag itself and, with considerable struggle, managed to haul them back to their tents.
+
+Professor Melina would probably be happy with this amount of training… The weight is constantly shifting because of their bodies, so you have to be ready at a moment's notice.
+
+Once that arduous task was complete, Lily drew a healing glyph for both of them after another bit of Mana recovery. Arakil had used two of Lily's five emergency healing talismans before leaving her body. If she used another two, she'd only have one left, which would be a rather sticky situation. Thus, Lily preferred to draw it and save her emergency resources for an actual emergency.
+
+Next, Lily needed to dismantle Arakil's shield. Yes, the magical shield had still been running this entire time, which was astounding. Arakil explained that he'd set up multiple arrays to gather and refine Mana to offset the upkeep.
+
+"And you drew this with a stomp of my foot…" Lily gasped in amazement.
+
+[It's actually one from my early days, believe it or not. I've drawn this inscription so many times I could replicate it perfectly upside down, underwater, with my eyes closed and one hand tied behind my back.]
+
+Despite the overblown exaggeration, Lily felt like Arakil was telling the truth. She couldn't even imagine how much he must have practiced to be capable of replicating it so effortlessly now.
+
+He really is the embodiment of 'practice makes perfect'…
+
+Lily still had so many questions about everything that had transpired, but she restrained herself until the coast was clear. After following Arakil's instructions to turn off the shield, which involved carefully removing precise components of the inscription, she began tidying up.
+
+Lily replaced the broken charms, then took a small break to eat some food, as it was now dark, and she was famished. After that, she began the painful process of recreating the shadow glyph, though it went much better this time, as she used the marking points to accurately size the area.
+
+When that was finally done, she began to truly relax. The escaping tension made her realize that her hands and especially her fingers were almost numb, perhaps due to the strain of keeping up with Arakil's gestures.
+
+Lily took a moment of privacy to have a hot bath and soak her ailing body. It was a strange feeling that was permeating through her, almost as if her own skin couldn't contain her. When she was cleaned up, she mentioned it to Arakil, and he told her to drink a healing potion and also rub ointment on her hand and fingers.
+
+Lily felt like she could effortlessly collapse into her bed and fall asleep; however, she needed to stay awake long enough to "complete her watch," and then she would wake up Thomas. This was part of Arakil's plan to confound them and, hopefully, hide the truth until Lily felt she was ready to admit it.
+
+What a day…

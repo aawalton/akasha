@@ -1,0 +1,139 @@
+---
+id: 2a84d6e6-55ca-54e6-adec-ba902dd5ba9a
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 40 - Library"
+slug: 0044-b3-chapter-40-library
+partOf: bookbound-bunny
+position: 44
+ownLength: 2403
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3385345/b3-chapter-40-library"
+royalRoadId: "3385345"
+---
+
+As Arakil began to walk towards the doors, Lily grabbed his sleeve and, cautiously yet inquisitively, followed behind him. She was using his body as cover while she peeked around with nervous anticipation. When they neared the doorway, Lily could finally see what was inside, and suddenly she realized exactly where he was taking her.
+
+His library!
+
+Questions instantly raced through her mind. Was she inside the grimoire? Did Arakil somehow put the book and its contents into her dream? Was this some elaborate illusion?
+
+But all those questions had to wait as Arakil showed no signs of stopping as he walked through the doorway. Lily naturally followed, and as they crossed the threshold, her eyes widened in shock.
+
+Books, scrolls, diagrams, and parchment as far as the eye could see, upon endless rows and rows of bookshelves. She'd previously called the Regarth library impressive, but it couldn't even hold a candle to this impressive display.
+
+"Welcome to my small library, I hope you don't mind the mess," Arakil said, waving his free hand.
+
+"Small? In what world?" Lily quickly refuted, never having heard something so absurd.
+
+Arakil chuckled and ran his hand through his messy hair. "Well, if you consider the size of my grimoire, it's certainly small."
+
+Lily rolled her eyes. Sure, that was technically true, but even if it were the size of an ant and held another world inside it, with what reason could you ever call it small?
+
+"Is this my apostle perk?" Lily asked, looking around.
+
+"Part of it, as you already had access to my library through the book itself, so just bringing you here in person wouldn't nearly be enough," Arakil replied.
+
+"Are you going to teach me magic in person?" Lily guessed, excitement flickering in her eyes.
+
+"Correct," Arakil confirmed. "However, that is still not the end."
+
+Lily racked her brain, trying to think of what else there could be, but she was drawing a blank. At best, she could assume that being in Arakil's presence was the reward in itself, and she was certainly delighted to have finally met the one who changed her life. Yet, she also knew Arakil wouldn't see it that way, and he saw all of that as par for the course, so when he said there was something else, he meant it very literally.
+
+"I give up…" Lily sighed in defeat.
+
+Arakil chuckled and gave her an affectionate pat on the head, being sure to mind her ears. Evidently, he'd paid close attention to how she didn't necessarily hate the gesture, as long as her ears weren't ruffled.
+
+"Well, this place is special due to a variety of factors. One is that I'm the master of this internal domain, and thus I have certain levels of control over it while inside. Due to our bonds, I can share some of that authority with you."
+
+Lily opened her mouth to ask a question, but Arakil continued explaining.
+
+"There are also other conditions to consider. This is a miniature world and time flows differently inside here, by a factor of four from my rough calculations, meaning you can cram in a lot more study time than you normally would be able to in the outside world."
+
+Lily's eyes widened, unable to believe what she was hearing.
+
+"Lastly, since this is effectively a mental landscape, it's an ideal environment for training your mind and intent. That, coupled with my personal instruction and demonstrations, means that you should finally be able to progress without needing to rely on that handicap of a wand."
+
+"Really!?" Lily blurted out, her excitement passing the breaking point.
+
+"Of course. Although there is a catch," Arakil warned and then sighed. "This comes at a cost, and at the moment, I can only facilitate this environment once every two weeks. Should we progress deeper into the dungeon and gain better resources, I should be able to lessen the wait time, not to mention add additional functions."
+
+"Why would you want to add more functions? This already sounds like more than enough," Lily admitted. She was dismayed to hear that Arakil could only open the doors to his library once every two weeks, but was relieved when she said it could be improved further down the line.
+
+"Well, for alchemy and enchanting, for example. One of the most sought-after functions of a mental landscape is the ability to fabricate ingredients and materials. While they are illusory in nature and cannot be brought into the real world, it still provides ample practice without wasting the real resources."
+
+Lily was left speechless; never had she heard of such an amazing ability, and her frugal nature, born from spending too much time around Camilla, was already celebrating. Nothing was worse than wasting a rare ingredient in a failed brew because you made a small mistake.
+
+Only through repetition could you iron out the details, and sadly, that was something you often couldn't do with something rare and most likely expensive. This was the exact reason why both Camilla and Sylwel taught to be careful with even the most common ingredient, hoping to build a foundation of good habits right from the get-go.
+
+Arakil had finished his initial explanation, opening the floor for Lily to ask any random questions that came to mind. She took full advantage of the opportunity, and Arakil even had two chairs magically appear for them to sit on while conversing.
+
+Lily now had a brief understanding of this domain and what it allowed. The six-hour duration in the outside world was a full day inside here, and even though it was piggybacking off of some dream magic principles, it didn't count as sleep. This meant that if Lily wanted to use it properly, she would need to make sure she prepared her time correctly beforehand, and she couldn't sleep her way to victory.
+
+As for how this was possible now and not before, it was a combination of factors. The grimoire was too damaged, and the bond between her and Arakil wasn't enough for him to invite her inside. If he tried to force the matter sooner, there was even a chance she would be trapped inside with him!
+
+"It's one of the reasons we are using dream magic to facilitate this, as if the worst was to happen, I could force you back to your own mind," Arakil explained.
+
+Lily was eternally grateful for Arakil's habit of having a contingency for everything. Even though a small part of her admittedly liked the idea of eternally studying magic in this library, her rational side reminded her of all the friends and family she would be leaving behind.
+
+And, as always, Lily asked about the costs involved in this. She knew Arakil's Mana was a big issue, and even though their bond had grown stronger, it hadn't increased the efficacy of her transfer to him. However, to her relief, he admitted that she was actually contributing the lion's share of the costs involved since she was the one projecting herself here.
+
+"Then why does it take two weeks to build up?" Lily asked, as her own Mana regeneration was relatively good in her opinion.
+
+"Any more and the grimoire might start degrading, and we risk losing this ability entirely until it's restored again. Considering its current condition is thanks to a rather peculiar chain of events that I'd rather not repeat unless strictly necessary, you can understand my caution."
+
+Lily nodded, even though a small part of her wanted to witness him casting spells through her again. The experience had been eye-opening, and she was sure her current successes with Lunar Radiance and Eclipse were thanks to Arakil.
+
+As if Arakil could read her mind, he swiftly shot that idea down while alluding to severe repercussions for her mind and body if it happened too frequently.
+
+"So, my dear apprentice, what would you like to learn about first?"
+
+"Glyphs!" Lily instantly answered.
+
+Arakil gave a knowing chuckle in response and nodded. He flourished his hand, and suddenly, he was holding her wand, which he gently handed to her. Lily gingerly took it and looked at it in astonishment; it was exactly the same as in the real world, down to the very last detail.
+
+"This is something you'll eventually be able to learn when you become more proficient in this domain," he explained.
+
+Lily nodded, but couldn't help but frown slightly as she stared at the wand. "I was hoping to learn how to draw without the wand…"
+
+Arakil gave a soft smile and shook his head. "You need to learn to walk before you run. You haven't spent enough time with the wand to fully grasp how to correctly change the intent behind and nature of your Mana. So, for now, you still need to use it to provide the 'ink', but nothing is stopping you from learning how to draw with your mind's eye."
+
+Lily sighed again, dreaming of the day she would be able to summon a glyph with the snap of her fingers or the stomp of her foot. But she knew Arakil was right, and even if she had to use the wand as the source for now, she was delighted that she could start somewhere. If Arakil had brought her here and told her she had to wait, she would have thrown a fit.
+
+Before they started, Arakil gave Lily an explanation of magic, almost going right back to the founding principles. From his elaboration, he once again stressed that magic was all about imposing your will and intent upon the world, and that this was done through various means.
+
+Magical words, symbols, and gestures were the simplest to understand, and because they were backed by strong beliefs, they worked effectively. Of course, just because you willed it wasn't enough to create magic; thus, Mana was the fuel to bring your intent into reality.
+
+"This is the benefit of being inside a mental landscape, the laws of reality are looser here, and thus you can manifest your magic with considerably less willpower," Arakil explained. "I imagine you are wondering, why would that benefit you outside of here? Well, the reason is thanks to experience and feeling. Once you've experienced the magic once, it naturally comes easier the next time. A mental landscape is perfect for opening the door and letting you take your very first step, which is often what everyone struggles with the most."
+
+The first step is always the hardest… Lily thought to herself.
+
+She couldn't agree with Arakil more, as having quite literally experienced it herself, thanks to him casting spells through her, it was undeniable. It was almost as if her body remembered the experience, and when she made the attempts herself, she pulled on those echoes to help her.
+
+It also helps with visualization, which Arakil always says is of the utmost importance. Because I couldn't visualize my spells correctly, I often failed right from the start. I hadn't seen or felt the magic, so I didn't believe enough that it could happen.
+
+"Now, going back to drawing with your mind, there are various degrees to this technique, so we will be starting at the bottom and working our way up. The first is simply imagining that you drew it, perfectly playing it out in your head. Repetition helps a lot in this regard, and you have plenty of that to pull on," Arakil revealed.
+
+Lily nodded along, drinking in his every word. When he explained the first step, she was almost in disbelief at how simple he made it sound, although she knew it was easier said than done.
+
+"At first, it won't be any faster than if you drew it yourself, as you are going through the motions in your head. However, once you've learnt how to initially draw that way, you can speed it up," Arakil said.
+
+A wand appeared in Arakil's hand, identical to her own. Her shock and surprise had to wait though, as he thrust it forward, and a circle slowly formed in the air. Even though Arakil's hand hadn't moved after the initial pointing motion, Lily could almost picture him drawing the circle with how it played out.
+
+Before he allowed Lily to ask a question, he continued his demonstration. He thrust the wand again, and this time another circle was drawn, except at double speed. He repeated this process, each time drawing the circle faster and faster, with his final one effectively appearing all at once to the untrained eye.
+
+Lily sucked in air through her teeth. It looked simple, it sounded simple, but this was quite an effective demonstration. She asked a few questions about it, and Arakil confirmed that this was still the initial technique and that the final one was drawn out in his mind.
+
+"The techniques beyond this require a very different mindset," Arakil explained. "Rather than drawing it out, you impose your will upon reality that you've already drawn it. You must be able to perfectly replicate the glyph in your mind's eye with a mere thought, and have enough willpower to exert your influence on reality. This is something that even master inscribers usually fail at, either from a lack of willpower or understanding the principles behind magic."
+
+Lily was struggling to even wrap her head around it. Who would ever be so arrogant as to tell the world such a bald-faced lie that: "I've already drawn this, it exists, make it so."
+
+Perhaps seeing her concern, Arakil rightfully told her that she needn't worry about that technique as it was at the pinnacle of magic. He even explained other techniques, simpler yet just as impressive, where you combined muscle memory with gestures to certain constructs.
+
+"Is that why you stomped my foot?" Lily asked.
+
+Arakil nodded. "I had long since assigned a defensive arcane force inscription to that simple gesture. The only issue with this technique is that once you've assigned it, it's almost impossible to remove it. Therefore, you need to be practical with what you choose, as you could very well be stuck with them for the rest of your life."
+
+Lily could only rapidly bob her head in agreement, as, unfortunately, while this all sounded grand, she wasn't even at the first step. Arakil gave a soft chuckle and pointed his replica wand, drawing a slow circle again.
+
+"Let's begin."

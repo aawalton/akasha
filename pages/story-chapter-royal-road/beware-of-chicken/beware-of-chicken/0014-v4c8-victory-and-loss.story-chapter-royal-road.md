@@ -1,0 +1,249 @@
+---
+id: ae5b05d7-8325-5193-b4e1-b5027340b1c5
+page-type-slug: story-chapter-royal-road
+title: "v4c8: Victory and Loss"
+slug: 0014-v4c8-victory-and-loss
+partOf: beware-of-chicken
+position: 14
+ownLength: 2839
+unit: words
+ownProgress: 2839
+publishedAt: 2023-05-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1217680/v4c8-victory-and-loss"
+royalRoadId: "1217680"
+markedReadAt: "2026-06-29T18:51:48.051Z"
+---
+
+Elder Xiangshi’s sword was knocked from his hands and Xianghua’s own blade whistled in, resting just on the skin of his throat.
+
+The Elder paused for a moment. He looked frustrated and defeated, but he bowed his head and clasped his hands in front of him in a martial salute.
+
+Pulling back her sword, Xianghua looked around at her silent Sect.
+
+Every one of them was staring at her in shock.
+
+“Not in a thousand years has an aspirant to the title of Sectmaster completed such a grueling Trial of Might— yet Heir Xianghua stands victorious.” Elder Bingwen said, his voice carrying. “Do any object to her victory? Do any object to her power?”
+
+Once more, there was silence. The Trial of Might, a test where one had to fight a minimum of three Elders.
+
+Xianghua had fought all of them. Without using her Steam Furnace, just in case any fool would say that she could only fight thanks to an artifact.
+
+“Then we, the Elders of the Misty Lake Sect, hold that this trial is complete. Having proven her ability, Heir Xianghua will have the Trial of Awakening tonight.”
+
+Xianghua kept her head high and her steps even as she strolled off the surface of the water, and then into the tunnel that led to this arena, disappearing from the audience’s view. She kept walking until she came to a bench… and then collapsed onto it.
+
+Her limbs began to shake; sweat pooled on her forehead. Her breathing came out in great, heaving gasps. She felt like her body was going to rattle itself apart.
+
+In the arena it had looked effortless.
+
+It was anything but.
+
+The Elders were skilled. The Elders were experienced. They were even holding back. They hadn’t used any techniques that they would have used in a true life or death battle.
+
+Yet even like this, she couldn’t help the massive smile that spread across her face.
+
+Ah, it was so cathartic to smash all of her Elders. If only her father had been here too. She would have forced him to his knees and then made him kowtow before her as his new superior. That surely would have brightened her mood.
+
+Or… at least, she thought it would. The smile on her face faded.
+
+The only dark spot of her victory march was her mother. She had expected something of the woman. She didn’t know what, but her mother had simply remained silent as Xianghua tore into her… perhaps a bit harder than was absolutely necessary. Her mother was about middling strength wise, as far as the Elders went. She was in charge of the Sect’s resources pavilion. The pills and treasures that they managed to hunt down and accumulate ended up within her purview.
+
+And then, after Xianghua’s victory, the woman simply reacted as an Elder, bowed, and left so the next could be called up.
+
+Well, if she had nothing to say, she would have nothing to say. The woman was barely a mother anyway. Xianghua would ignore her as much as she had ignored Bowu when he was limping and crying.
+
+Xianghua grit her teeth.
+
+A cool cloth touched her forehead.
+
+“You’re rather good at overdoing it, Xianghua.” Xiulan said as she wiped away some of Xianghua’s sweat. Behind her Tigu stood guard, ready to stop anybody from seeing Xianghua in her current state.
+
+“Hmph. Are you just realising this about me, Cai?” Xainghua said, touched at her friend’s actions. “Liu Xianghua gives her soul to every action she takes!”
+
+“I know. I suppose that's your charm.” Xiulan smiled and pressed the cloth against Xianghua’s forehead again, wiping away more sweat.
+
+“Indeed! Our Misty Lady is very charming!” Tigu declared.
+
+Xianghua chuckled and leaned back as Xiulan put away the cloth. She grabbed onto Xianghua’s shaking arm. The Blade of Grass’ dexterous fingers pressed down on muscle groups and pressure points, bringing sweet, blessed relief to Xianghua’s cramping muscles.
+
+How nice was it to have a friend like this? One who could know her weaknesses, and not use them against her? Ah, all those years of enduring her cold shoulder was worth it.
+
+“Did Lady Meiling teach you this?” Xianghua asked.
+
+“You know you can just call her Meiling—and yes, she did. She used to do it for me every night.”
+
+“The next task, is it difficult?” Tigu asked. “This Trial of Awakening?”
+
+“I don’t know how difficult it shall be, no. But I shall overcome it nonetheless.” Xianghua replied.
+
+“We know. You’ll succeed in every trial they put in front of you.” Xiulan said, her voice filled with absolute confidence. “Think only of success… and all the paperwork you’ll likely have to do later.”
+
+Xianghua sighed. It was one of the few things she actually remembered her father complaining about.
+
+“It won’t be that bad.” She hoped.
+
+“You’re tempting fate~” Xiulan teased as she continued her work, soothing Xianghua’s muscles. “But just ask this Senior Sister here, and she’ll take pity on poor Xianghua~”
+
+Xianghua smiled at her. “You’re quite good at this. You’ll make Master Jin a fine concubine.” There was a beat as Xiulan realised what she had just said. Xianghua’s teasing smile cut off as Xiulan squeezed. “Gack! Too hard! Too hard, you sow!”
+
+“Oh? What was that, Damp Pond? It's supposed to feel like this. It's medicinal.”
+
+=====================
+
+That night, Xianghua found herself standing in front of the oldest building in the Sect’s compound. It was truly vast, a stone temple that oozed power and majesty. It had six floors; and even now the ancient protections upon it still worked, preventing the usual rot and mold caused by the mist of the lake and swamp. The Hall of Meditation the Sect called it. The most sacred place in the Misty Lake…The genuine version of this novel can be found on another site. Support the author by reading it there.Xianghua hid her amusement as images of a fat, happy koi lounging about and getting fed by a priestess in a scandalously short skirt filled her head, a memory from the ancient past. Their most potent and holy sight… was the Lord of the Lake’s bedroom. It was honestly quite amusing, knowing that small truth from the past.
+
+Xianghua wore a replica of that uniform, warped and twisted by time into something that only vaguely resembled the original. A reproduction of a servant’s uniform, now held in the highest esteem by cultivators who thought themselves above serving.
+
+There had to be some sort of irony in that, Xainghua mused, as she walked up to the building and pushed open the doors. She went past the entryway and into the grand hall. Instead of being brightly lit and filled with people, it was cold, dead, and dark.
+
+In the center of the hall was a pool of water, black as pitch; the place where the Lord of the Lake once sat and entertained guests.
+
+The test to truly become Sectmaster was to enter this hall, step into the dark water in the center of the room, and then activate the formation in the floor. The water would turn from black to a light blue, and when the mist began to escape the building it showed that one had the requirements to become Sectmaster. That they had been accepted by the Ancestors.
+
+Xianghua stepped into the pool and sat upon the center of the underwater dias. The water was up to her neck.
+
+Her father had taken a week to successfully produce the mist. Xianghua aimed to shatter that record.
+
+She took a breath and channeled her Qi into the formation, only to smile because she had seen this formation before.
+
+It was the basis for the steam channeling formation Bowu used in his furnace—but with some parts missing and damaged. She would have to recreate them and use her own Qi pathways to plug the gaps…
+
+She almost couldn’t take it seriously, however. The Sect Elders thought that the mist was the remnants of an ancient defensive formation, meant to empower the cultivators of the Misty Lake Sect.
+
+It was… well, the truth was simpler.
+
+In reality, the formation was used to manipulate the mist to create pleasing images. Like how Yun Ren and Nezan used their illusions.
+
+Xiulan’s ancestor had used it to great effect in one of her plays.
+
+The water below turned from black to luminescent blue nearly instantly under her guidance, unleashing a vast amount of mist that flooded out of the Hall of Meditation. Once the trial was complete, Xianghua stood, shaking her head of excess water.
+
+The Elders kept staring at her, baffled, as she walked out of the pagoda.
+
+==================
+
+The final trial was more a formality than anything else.
+
+The Trial of Reflection required her to go into the middle of the lake and meditate on the profound majesty of the Misty Lake for a full day. Most sat on a large lily pad, but Xianghua sat directly on the lake itself.
+
+It was quite boring, if she was honest. Apparently for some, they saw their past regrets come to haunt them, or heart demons attacked them.
+
+Xianghua’s heart was steady; she had not a single thing she regretted that disturbed her.
+
+So instead, Xianghua found herself comparing the past to the present. All the little changes in the size of the lake. She let herself go. Looking for connections like Xiulan and Bi De had taught her. Observing her home from every angle.
+
+She could feel the battle of Water against Wood. She could feel the pulse of life. She, for the first time, could truly feel her home. So, she attempted something new.
+
+Slowly, and haltingly, she did what she had seen Xiulan and Gou Ren do. She had never intentionally tried to pay tribute to the Earth Spirit before… but it couldn’t hurt, could it?
+
+She pressed her Qi into the land, completely at peace. To the land she gave and asked for nothing in return letting the ebb and flow of her home soothe her.
+
+=======================================
+
+Deep, deep under the lake, under thousands of years of sediment and plant matter— there was a crack in the stone at the bottom. A crack, from which water sprang forth.
+
+An underground spring, pumping water directly into the lake.
+
+In the middle of that spring sat a blue sapphire in a nest of dragon bones.
+
+Its energies were locked in battle against the power of Wood. The green light was all consuming, stretching eager fingers outwards, yet the last remnants of a dragon’s will fought against it anyway, even as it slowly lost.
+
+Veins of gold, led by mist and steam, connected to a blue sapphire. The cracking degradation stopped.
+
+“I really didn’t take you as the self-sacrificing type, you fat, lecherous bastard.” Tianlan said after a moment. She half expected to hear booming laughter, or a crass remark from the Lord of the Lake.
+
+But there was nothing.
+
+Her old friend had given everything to protect the Misty Lake, trying to stop the Breaking. There was nothing left but the sapphire and the feeling of determination.
+
+“You can rest a bit now, my friend. I’ll take it from here.”
+
+The power of water, dying by inches, stabilized. Ir did not revert it to the way it was before the calamity, it merely settled into a new equilibrium. The ravenous green receded slightly.
+
+“Honour the Past, and protect the future… but live in the present, I think.” Tianlan whispered.
+
+=========================================
+
+There was a great party after she ascended to Sectmaster, of course.
+
+The Elders had shot her disapproving frowns as she mingled with her Sect instead of remaining aloof, but she ignored them.
+
+She was now the Sectmaster, and this was her will. The only thing they could do now was obey.
+
+Bingwen at least didn’t seem to mind, but that was mostly because she had told him that he could remain nominally in charge while she traveled with her companions.
+
+Xianghua sighed as she stared up at the moon. Everybody else was in bed already, sleeping off the alcohol from the celebrations. Things… things had actually gone better than she thought they would. The shock of her return was still there, but her takeover seemed to be going relatively smoothly. Her position was still a bit shaky, but that would improve with time.
+
+She wished Gou Ren was there, if only so she could show him around and tell him about all the little places she had found during her youth, but alas. Her husband to be was not here to soothe her as only he could.
+
+With his big strong hands and… hehehehehe.
+
+Her pleasant daydream was interrupted by footsteps, and she turned to see who it was.
+
+Her good mood vanished when she saw who it was.
+
+“Mother.” Xianghua said. The woman’s face was inscrutable.
+
+“Daughter.” Sei Fen greeted. Her voice sounded so certain. “Congratulations on your achievement.”
+
+“Oh, it's ‘daughter’ now? ” Xainghua jabbed as the woman came to stand beside her. Xainghua remembered well bearing the handprint on her face and the black eye like a badge of honour.
+
+“You were always my daughter.” The woman said. “No matter what disagreements we’ve had.”
+
+Xianghua’s fist tightened. Disagreements?
+
+“I see, I see. So, you wish to rekindle our relationship, do you?” Xianghua asked.
+
+“Filial piety is a virtue.”
+
+“So you abandoning us was a mere disagreement? You speak of filial piety, yet have none for your children.”
+
+Her mother twitched. “...what was done was done out of necessity. You do not understand the pressures yet. For the good of the Sect… some things had to happen. I attempted to get leniency for your brother, but he would not listen. And neither would your father—”
+
+Xianghua sucked in a deep breath, barely preventing herself from grabbing her mother by the throat and slamming her into the ground.
+
+“Done out of necessity?!” she sharply interrupted instead.
+
+“...do you think it was easy for me? My children were born cripples. Bowu in his body. And you in your mind. You were more a beast than a girl at times. They called the fruits of my womb tainted. The man I loved turned away from me. Neither of you would listen to reason, and then neither would Xiang. I did what I had to do.”
+
+Xainghua’s Qi poured out of her body, steam poured out of Xianghua’s mouth even without a furnace. A furious heron’s beak stopped an inch away from her mother’s neck.
+
+“So that's it. We’ve accomplished things, so we can have your love again, mother? We’re no longer inconvenient to you?”
+
+“If you had a child like yourself, you would understand,” the woman had the audacity to say.
+
+This time, Xianghua did grab her. She slammed the woman up against the wall of a nearby building, like Sei Fen had done to both her and her brother not that long ago. The woman’s resistance would be futile.
+
+For a brief moment, Xianghua wanted to kill her.
+
+And yet… as quickly as the rage came, it faded.
+
+Her words had provoked her and maybe at one point it would have hurt. Xianghua knew she wasn’t… normal, in a lot of ways.
+
+But now?
+
+She had a home and a family. A real one. Xianghua did not need anything from this mockery of motherhood. Yet she recalled the good times. Memories of a woman who had once deserved to be called Xianghua’s mother.
+
+Xianghua stared at the woman in her grip… and chuckled. Sei Fen looked confused.
+
+“I’ve known Mother Hu Li and Father Ten Ren for mere months… and they were more parents to me than you two ever were,” Xianghua said. “All I can hear from you is excuses. I will never understand you… and I do not want to. All I know is that thing that you call ‘love’ is not how a mother acts. We are not family. Now begone from my sight, Elder.”
+
+Xianghua opened her hand and let the woman go.
+
+Sei Fen bowed, her face twisted. “Of course, Sectmaster,” she agreed easily before turning to walk away.
+
+Xianghua watched the woman go and sighed. She didn’t know what she felt at the moment. Happy to see the back of the woman? Sad? Angry?
+
+She didn’t know. She would have to tell Bingwen to keep an eye on her, to make sure the woman didn’t do anything foolish.
+
+She forced the thoughts and feelings about the woman who birthed her away.
+
+They still had a job to do. Sei Fen would not shake her resolve.
+
+===============================
+
+Xianghua was rather surprised that when she got to her room Xiulan was still up and waiting with a pot of tea.
+
+No words were said between them. Xiulan pulled her into a hug… and started humming one of the songs Mother Hu Li had taught them.
+
+Xianghua leaned into the hug, her teeth clenched, and her breathing deep. It hurt. But the pain would pass.

@@ -1,0 +1,261 @@
+---
+id: bf34e900-530e-5eee-a06b-7cd35e8bfdda
+page-type-slug: story-chapter-royal-road
+title: "v7c48: Water, Earth, Fire"
+slug: 0301-v7c48-water-earth-fire
+partOf: beware-of-chicken
+position: 301
+ownLength: 3499
+unit: words
+publishedAt: 2026-04-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3262642/v7c48-water-earth-fire"
+royalRoadId: "3262642"
+---
+
+Shui Xinling, Mistress of the White Water Sect, reclined upon one of the benches with a small smile on her face. Thus far, the evening had been absolutely wonderful. She had attained much influence for her Sect, and was now simply indulging in the moment along with her Sect’s disciples and Elders, as well as three of her four daughters. Xinlai was still in Grass Sea City with the Acting Lord Magistrate ‘doing her duty’, as she said.
+
+In other words, making sure the flies buzzing around her man didn’t steal a march on her while she was away. It was delightfully cute of her; and all were in agreement. And while her beau was a mortal, he was certainly a man of surpassing quality. Xinling knew that well.
+
+Still, her daughter was missing a most amusing time. Xinling shifted, making it look like she was about to stand for a brief moment. Every eye in the crowd waiting their turn to greet Master Rou snapped to her. Huifang, Sect Master of the Fragrant Resin Sect, and the one who had managed to claim the next spot, froze anxiously.
+
+Master Rou had been pleased by Xinling’s music, after all, which meant she had the qualifications and, more importantly, precedent to cut in whenever she wanted to. After all, who would dare impede her from asking if the great Expert needed some more entertainment?
+
+But it was so much more fun to watch them squirm, then magnanimously allow them forward. Xinling smiled at Huifang, relaxing her body back into her seat, and the other woman scowled at her. How rude! Xinling thought with a smirk. And here she was being so nice to the woman, who was showing much more cleavage than she normally did. To think that the infamous prude—and spinster—who made snide comments about Xinling would wear a dress with that much décolletage?
+
+Utterly hilarious.
+
+At least Xinling was honest about things. She knew the game she was playing, and wasn’t going to be all high and mighty about it. A man could have a lovely bouquet of flowers… and a Lady could have a stable of fine horses! It was only fair.
+
+Huifang stepped forwards when she was absolutely certain Xinling wouldn’t interfere, and Xinling let her. There was another reason why they were sitting here, after all.
+
+Information gathering. The ones closest to Master Jin knew enough about him that they didn’t need to do this step. Those who forced themselves forwards to assert their prestige over the other sects were operating blindly.
+
+Xinling had already made a good impression; now it was time to capitalize, see how he reacted, and glean anything she could from this powerful Expert. Her daughters were similarly attentive, trying to discern what they could.
+
+The list, however, was vanishingly small. It was humbling to watch such a Master and see how in control of themselves they were. His image was one of complete and utter sincerity. This heavenly being looked like he was actually enjoying hearing about their exploits and their lands, like a parent proud of a babe building a mound of dirt. There was no condescension. There was no revulsion at the pitiful worms before him. His Qi was warm, open, and honest.
+
+When Xinling had first interacted with the man, there had been flashes of stress. Flashes of worry, moments where he would frown deeply and go quiet. It had clashed with her frankly limited knowledge of the Cloudy Sword Sect, but his power was real, as was his symbol he bore—and with the revelation over the Solstice, everything had clicked into place.
+
+Xinling would have been a lot more than mildly worried if the sect she had been counting on for backup against the demons she had been hunting in the north suddenly decided to kidnap his daughter. Three Earth Realms and a Sky Realm—and then an Imperial Realm beyond the Sea of Snow!
+
+No wonder he had been so restrained with his retribution and had given the Shrouded Mountain Sect an out. And in the end, everything was by his design. His foes lay vanquished, and instead of what was obviously focused cultivation and insane amounts of preparation, he was now allowed to relax.
+
+It explained all his current actions; He was in such a good mood that he was giving them face, as the sects occasionally did when they paid for grand mortal festivals.
+
+There were some observations they could use, however. The man never even glanced at any of the exposed skin. He treated any woman offered like they were children talking to their grandfather. He, along with his wife, engaged them in conversation, praised their skills, and then sent them away with a verbal pat on the head.
+
+His wife, too, had her growing respect. Lady Hong didn’t care at all about the obvious attempts. She was utterly confident none would succeed, and that was indeed the kind of woman who could capture a man like that. Stately, poised, and unbelievably powerful.
+
+Huifeng walked away, a small smile on her face. Master Rou’s eyes didn’t land on her again, instead looking for the next one.
+
+Ah, the Crossed Branches Sect. Xingling smiled and allowed them their moment.
+
+“So, what have we learned?” she asked her daughters.
+
+“He enjoys talking about natural beauty. He is unimpressed by talk of wealth—which of course he isn’t, he's a member of the Cloudy Sword Sect. It's like offering a king a ball of dirt.” Xinlei huffed, before continuing. “He asks questions about mortals and their lives, and he has made not a single commitment this entire time.”
+
+“He’s so friendly. He just talks and smiles and all who go to meet him walk away with smiles of their own,” Xinyue looked baffled by the man. “He acts completely different compared to Lord Lu Ri.”
+
+“He often sneaks glances back to his mortal servants, and whenever there's a lull he says a few words to them,” Xintong said after a moment, cocking her head to the side. “And… well, I think I heard that one’s name before. Isn’t his surname the same as Xinlai’s quarry?”
+
+“Oh?” Xinling asked. She looked at the quite handsome mortal man. He had aged gracefully and, oh my, he was certainly an osmanthus rice cake, wasn’t he? But Xintong was correct. There was something familiar about him…
+
+“Interesting. Well, I supposed it's been long enough,” Xinling said, standing, making sure her appearance was immaculate, and her robes were just so. “Let’s go, dears. We have made our first impression, now let us drive it home.”
+
+The line begrudgingly parted for her and her daughters, making room, and then they were up next.
+
+“Master Rou, it was a pleasure to play for you again,” Xinling greeted, bowing low. His presence was always a towering thing, but this close? It practically settled on her shoulders… but there was no weight to it. It didn’t try to drive her to her knees, as weak men did when they were defied. Instead, it felt more like it was supporting her.
+
+This? This was power. This was true strength. How utterly sublime. Even just being here, near this monolith of Yang, made the coursing Yin rapids within her speed up slightly. Imagine, if only, she could cultivate within this aura of power? She’d only be surpassed by Master Rou himself. And perhaps his wife. Or better yet… a few nights of passion. He would be attended to most thoroughly, and she would probably hit the Spiritual Realm. A true win-win.
+
+Still, it was no good to sound desperate. She was still a Lady, and she had at least some pride.
+
+“Lady Xinling, a pleasure to see you again. Your performance was a wonderful opening act,” he replied. Everyone heard the praise again.
+
+“I would be delighted to serve yourself and your Lady wife at any time; here, or perhaps in a more private setting,” Xinling replied, making eye contact with the powerful woman and bowing her Qi as well. The lady raised a brow at her words and the gesture of submission..
+
+“...Perhaps,” Lady Meiling said after a moment. “It is also good to meet the mother of Miss Xinlai. I have heard much of her virtue. You’ve raised a fine daughter.”
+
+Xinling was shocked at the praise, then her chest puffed out with pride. She made a mental note to thank the Grand Marshal and Tigu somehow. Those two spread merit liberally, instead of trying to keep it for themselves, and Xinling had to admit the girls were good at what they did.
+
+“Xinlai has done well; and the Acting Lord Magistrate is just a darling. He even returned my guzheng for me when it was stolen. I suppose we have him to thank for tonight.”
+
+“We’ll have to. We are off to see him, after all. His mother and father are quite interested to hear of his exploits.”
+
+He turned to the mortal servants, and Xinling kept her breathing calm. So they were related! But…
+
+“Ah, his father is your servant?” she ventured  “Does that mean he was acting on your orders…?”
+
+Was the entire thing upon his orders? Was Grass Sea City delivered into his palm?
+
+“Unfortunately, our son has… an adventurous streak, shall we say? He did not tell us that he was made Special Inspector,” the handsome older gentleman said with a small, disarming smile. She could read mortals better than she could read Master Rou, and the man was clearly telling the truth.
+
+Ah, instead of a purposeful takeover, just a man taught by Master Rou and the Cloudy Sword Sect, performing virtuous deeds and aiding the province. That made sense.
+
+And also made Xinlai’s pursuit all the better!
+
+“It is good that my son aided you, Lady Xinling. Your playing was sublime,” the female mortal servant said with a soft smile.
+
+“Oh! Oh my, yes, your son is the perfect gentleman!” Xinling said. Baby steps! An in! Her daughter, married to one of Master Rou’s servants? Perfect. “And a handsome little devil. I can see where he got it from.”
+
+Both of them chuckled.
+
+“Will you tell us about how he helped you, My Lady? We have heard only sparse details…” the lady continued, her eyes pleading.
+
+“Of course! Master Rou, if it pleases you?” she asked.
+
+The man nodded. “It does, though I too would like to hear about this guzheng heist. It sounds like a fine story.”
+
+Xinling mentally pumped her fists. What a master stroke! What wonderful luck!
+
+=========================
+
+Dulou Gan tried to wait patiently and keep himself from spiralling. It would be his first meeting as Sect Master. It was going to be on his shoulders everything fell.
+
+With his Uncle having crippled himself, he had stepped down as Sect Master. He said he would spend the rest of his days in atonement for the sins he had committed.
+
+Uncle Gang now spent his days doing simple menial work—the kind that was in their memory crystal. He scraped dirt off Wreckerball shells, he made them the big salads that they liked to eat, and he helped clean out the nesting creches. The creatures he once swore he would render extinct were now cared for with all the tenderness he could muster.
+
+He did it all with his cultivation broken and his eyes blinded. He stumbled. He fell. He bumped into things. His muscles strained to the breaking point.
+
+Yet he marched onwards on his chosen path with no regrets.
+
+His sincerity and dedication was admirable to Gan—His uncle, his brash, crass, crude, hard-bitten bastard of an uncle had turned himself into a man of patience and serenity so profound it took Gan’s breath away.
+
+And so too did it have the same effect on the Wreckerballs. It was one of the main pillars of the fragile thing they were building together. Gan worked alongside his uncle, doing what he could. Talking with the creatures who had once been close as their own kin, trying to understand them—and he had even made a few friends, he liked to think.
+
+The scars still ran deep. What they had was tenuous at best… but within the shell of Lord Yao, who had given his life to protect them both, there was the start of peace.
+
+The fact that he would be chosen as Sect Master never even crossed his mind initially. One of the Elders would have been chosen, surely?
+
+But instead? They chose him.
+
+Not just the Sect leadership, but the Wreckerballs had been asked by his uncle and they had chosen him too.
+
+Because he was the closest to the Ancestors, they said.
+
+So now he was here.
+
+Going to meet a member of the Cloudy Sword Sect.
+
+No pressure.
+
+‘Is that the Mountain Man?’ Beizi asked from beneath Gan’s shirt. The small Wreckerball lay against his chest and stomach like a breastplate. He was just barely not a child in the eyes of the Wreckerballs—just into adolescence, and very small for one of his kind.
+
+“Yes, that's the Mountain Ma—Master Rou,” Gan replied to his little sneaky shit of a friend. The rest of the Wreckerballs had been immensely wary when they heard of the powerful cultivator touring the hills. Even though Gan was pretty certain that Master Rou had no desire to hurt them, they had elected to remain in Lord Yao’s shell.
+
+Well, most of them had. Beizi had snuck out, found his way to the Peaks on his own, and then begged Gan to meet the ‘Mountain Man’, as he called him. Gan had described Master Rou’s power as ‘like a mountain’.
+
+‘He feels nice,’ Beizi declared after a moment. ‘He feels like a friend.’
+
+…well, that was promising, he supposed. Now he just had to not make a fool of himself before the powerful cultivator.
+
+He breathed and centered himself. Xianghua came by, to pay her respects to her ‘fellow Sect Master.’ Lady Xinling walked past, looking for his uncle to probably gloat and lord over him… but scoffed and huffed when she realized he wasn’t here. Xintong gave him a smile and a wink, and Xinyue blew him a kiss.
+
+He tried his best not to blush.
+
+And then it was his time. Xiulan—the Grand Marshal, give him a smile and a nod, the signal for him to come closer.
+
+He swallowed again and marched forwards.
+
+He really didn't have anything for this, just his own greeting. The Sect was in too much disarray to really offer much. Hopefully, it wouldn’t be seen as an insult.
+
+He delivered his greetings as properly as he could, and the Master accepted them with grace. He expected that to be it, mostly, but then Beizi did something really dumb, even after promising to be still.
+
+His shirt squirmed and Beizi poked his head out, his nose scenting the air.
+
+‘Beizi pays his respects too!’ the little one said. Master Rou looked taken aback. Gan panicked.
+
+“I’m so sorry for this Master Rou—” he started, but the man simply broke out into a wide smile—along with his wife.
+
+“Well met, Beizi,” Master Rou said, easily understanding the Wreckerball and even making the gesture of respect. It had taken Gan months to be able to hear their voices with any amount of consistency, and a lot of cultivators couldn't hear them at all! “It’s nice to meet one of Lord Yao’s kin.”
+
+Beizi bounced and squirmed more, leaping out and onto the table. He chattered happily. “You know Lord Yao! You are a friend!’ he declared, holding out his knuckles in a Wreckerball greeting.
+
+Master Rou knocked both of his fists against the much smaller Spirit Beast’s.
+
+“You’re a spirited one, aren’t you?” he asked fondly.
+
+‘That's what everyone says!’ Beizi replied, nodding. ‘Everyone else was all bein’ scaredysmells. Hidin’ in their shells! ‘Cos everyone said you were big and scary and strong like a mountain, but mountain’s ain’t scary, they’re good to roll down!”
+
+“I bet they are!” Lady Meiling said, smiling brightly at the chest-sized Spirit Beast. “Do you roll down mountains often?”
+
+‘Yeah I do! The best one is near…’ Beizi immediately began chattering to the indulgent lady, while Master Rou turned to Gan.
+
+“I have heard tales of the Wreckerballs and your sect; I had been looking forward to meeting one.”
+
+“I’m sorry! We meant no offense, but they were scared—” Master Jin waved away Gan’s panic.
+
+“It's understandable,” the man said with no disappointment. “If my presence makes them uncomfortable, I will not force it upon them.”
+
+…Master Rou was truly benevolent.
+
+“Thank you, Master Rou,” he said and turned to collect Beizi—who was on his back while Lady Meiling’s fingers were buried in his belly fur. He looked ridiculous, the little brat. ‘Old enough to travel’ his ass! He was clearly still a kid!
+
+The Wreckerball, who was drooling from Lady Meiling’s ministrations, suddenly jerked.
+
+‘Do-don’t worry, Mountain Man! I’ll tell ‘em that you’re not scary! Oh, you and the nice lady should come visit!’ Beizi said.
+
+“Perhaps I shall, if your Elders wish to meet,” Master Rou agreed.
+
+‘I’ll convince them! No doubt!’ Beizi declared grandly.
+
+“No doubt,” Master Rou agreed. “I'll see you later, Beizi.”
+
+‘Bye-bye, Mountain Man!’ the Wreckerball cheered. ‘See you soon, nice lady!’
+
+Gan bowed and quickly stuffed Beizi back down his shirt.
+
+He was nearly back in his seat when he realised that Master Rou said he wanted to visit their Sect.
+
+…had he just gotten that without even trying?
+
+=========================
+
+The night continued, and eventually ended. There were no incidents. There were no feuds. Everything ended peacefully under the Grand Marshal’s watch.
+
+But not all were satisfied.
+
+============================
+
+“It was completely embarrassing, kissing his ass and begging for some of his favor.” The words were heavy with disgust. There were murmurs of agreement from around the table.
+
+Ye Shun listened and poured another drink to his fellow independent, Qin Lie. Ye Shun had heard of the visit of this Master Rou, of course. It was the talk of the Dueling Town—but he had not received an invitation to the party, and had also missed the man’s arrival because he was busy arranging things for the manor he had here… which had been something of an experience.
+
+The thing had been smashed to pieces by the Shrouded Mountain Sect… And then it had been rebuilt by the town’s administration.
+
+He would have complained, but they had used really good timber.
+
+“Such is the nature of power,” Ye Shun agreed. “It attracts flies and maggots in equal measure.”
+
+“Damn sects. Taking everything for themselves, and then expecting us independents to thank them for it,” another spoke, her voice bitter.
+
+Things had changed dramatically since he had been in closed door cultivation. It was utterly dizzying the scope of the changes to his homeland. In some cases for the better, like the improvement of the Dueling Peaks… but most had been for the worse.
+
+All because Cai Xiulan had found a memory crystal, and then instead of doing the sensible thing and taking all that power for herself, she had handed the damn things out like a fool.
+
+The sects had loved it. Their power surged.
+
+But the independents? The men and women who had clawed their way from the bottom with their own power? They had gotten nothing.
+
+Nothing other than “join the Azure Alliance, and then serve under one of the various commanders who were practically children.”
+
+It was a slap in the face to all of them. Ye Shun had been close to spitting blood when he had found out.
+
+And that was the real gripe. The ossification of power. With the sects feuding, they had to occasionally court a powerful independent. They had to deal with them, pay them, offer good terms, just so they would not aid their enemies.
+
+Ye Shun had been looking to come back to that world as a Profound Realm Independent. A man who the sects had to respect and deal with fairly. A veritable kingmaker.
+
+Instead, he had been chased off by that monster and into this. The once porous borders a man could slip through were turning into iron gates. Resources at the edge of territories were no longer easy pickings.
+
+And no more battles between the sects? No more skirmishes?
+
+Now that was just bad for all of them.
+
+“But what can we do? It's not like we can do anything to him,” one person asked.
+
+“Of course we’re not doing anything to him. He's beyond us,” Qin Lie said. “We thought this would just break apart on its own… but now it seems that might not be the case. This abomination of an organization has cracks in it. Deep ones. The fat bastards are getting complacent. We just have to hit the right place, and it will all break apart.”
+
+His words resonated with the angry independents.
+
+And so they started to scheme.

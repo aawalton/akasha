@@ -1,0 +1,87 @@
+---
+id: b1a3cb50-9468-50b5-83ab-61f9ca614b5d
+page-type-slug: story-chapter-royal-road
+title: "27: Social Pariah, Doomsday Prepper"
+slug: 0027-27-social-pariah-doomsday-prepper
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 27
+ownLength: 1242
+unit: words
+publishedAt: 2024-11-15
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1905871/27-social-pariah-doomsday-prepper"
+royalRoadId: "1905871"
+---
+
+27:
+
+“Sarah!” Jack called out, not giving a damn about his voice attracting any enemies to them. The damage was already done when he’d brought down a tree branch that was denser than ordinary steel and worrying about further consequences now would be hypocritical of him. “Are you alright?” He called out.
+
+“I’m… hurt,” Sarah croaked out, her voice barely above a whisper yet Jack’s enhanced sense of hearing managed to pick up on it.
+
+Without hesitating, he angled his charge to zero in on her location. The distance that separated them was covered in a matter of moments, as Jack’s features tightened with concern.
+
+He came to a grinding stop, digging his feet against the earth to come to a stop besides an Anarix Tree.
+
+Sarah’s form was resting against the trunk of the tree, her expression warped in pain as she applied pressure to the left side of her abdomen. Thankfully, her complexion still had a natural, even tone to it, indicating that perhaps Sarah had already used a healing pill.
+
+“It was… close,” Sarah whispered, as she slowly pulled away her hand from where she was applying pressure on the wound.
+
+The Rift Goblin Commander’s arrow had torn through both layers of the Goblin-Made Armored tunic, sundering both chainmail and the leather underneath to tear a deep gash in Sarah’s abdomen that could have caused her to bleed out to death if it wasn’t stitched with medically sanitized tools. Instead, it had almost completely scabbed over, a thin rivulet of blood the only visible sign that the wound was new instead of one that had been healing for days.
+
+“Thankfully, I didn’t hesitate to go for the Greater Recovery Pill. At the rate it’s healing, I might be rid of the wound in an hour’s time,” Sarah explained, before she began to greedily gulp mouthfuls of air, clearly not fully healed just yet.
+
+Jack somberly nodded, before revealing, “The damn goblin is dead.”
+
+A sigh of relief escaped Sarah’s lips, as her entire demeanor eased and her body sagged against the tree trunk. “You really managed to take out the archer with a sword. What has the world come to,” She continued, before breaking out into a mirthful laugh that masked the terror the archer had instilled in her.
+
+“A magical sword,” Jack corrected, as a wry smile of his own tugged at his lips. “Makes all the difference, you know?”
+
+Sarah just shook her head before she reached out into the void and pulled out her spear.
+
+“Can’t believe I’m saying this but,” Sarah paused, as she looked at her spear with a newfound respect. “This weapon of war from medieval times makes me feel safe. As safe as I can feel in this blasted forest.”
+
+“I understand,” Jack nodded in agreement, knowing just how much of the pivotal fight had boiled down to a single chance, one that had almost slipped by him.
+
+Luck had been on his side this time. It wouldn’t always. He needed to find a way to master Qi Projection, his only way of countering enemies at range or it would end up heavily costing him sooner rather than later.
+
+“You saved my life,” Sarah said, her lips quivering as she found herself recalling the helplessness she had felt after being grazed by the Qi Arrow. “I was… in my mind, I had prepared myself for the possibility of getting hurt. But when that scorching hot pain erupted in the side of my abdomen, arriving from seemingly nowhere and with no warning, all that planning was ripped to shreds. I was splayed on the ground and it took all I had not to break down crying from the pain. If I had my wits about me, I would’ve rolled to cover behind the tree but…,” She trailed off, taking a few deep breaths to calm herself.
+
+“...I just lay there for I don’t even know how long, before deciding to crawl to cover, my vision blurry with tears. Then, my thoughts finally started forming right and I gathered all the strength I had left and leapt for cover, biting down on the greater recovery pill just a moment before. There was no thinking around it, no reasoning around the pain. I’m sorry, I— I need to be stronger than this.”
+
+“Don’t apologize,” Jack replied gently but firmly. “You did admirably, Sarah. Without your bravery, there was not a shot in hell I was killing that bastard. Almost didn’t, if I’m being honest.”
+
+Slowly, Sarah raised her head and turned to look Jack in the eyes. For a moment, neither of them said anything as Jack in her tear-streaked visage while Sarah tried to scrutinize his gaze for any signs of dishonesty.
+
+Then she nodded once, before saying, “Thank you,” She sniffled and blinked away the tears that were beginning to build up. “I needed that.”
+
+A genuine smile tugged at the corner of his lips, a spot of warmth in the otherwise frigidly cold game they had gotten caught up in.
+
+“Do you think you can walk?” Jack asked.
+
+Sarah began to respond, before she bit into her lower lip to hold back the instinctive response. “I will walk,” She replied a moment later, the steel in her tone disavowing any notions Jack had of saying otherwise.
+
+She got back up on her feet using the butt of her spear as a walking stick she could leverage weight on, taking a moment to dust herself off before she took a testing step forward. Then another. A third.
+
+She winced, but shook her head and went for a fourth.
+
+“Where to,” Sarah asked, her breathing a little winded but Jack wisely chose not to comment.
+
+“I need to loot the Rift Goblin. Apparently, it was a commander amongst its race. That’s why it could send those damn goblins after us. Its intelligence was definitely higher than the others amongst its race we’ve seen, for it to do that. We killed four of its platoon members, yet it did not lose composure and try to attack from a closer range that would put it at risk. Most people in our positions would not have survived an ambush this vicious,” Jack explained, holding no information back from Sarah.
+
+“After that?” Sarah asked, not surprised by Jack’s revelations. He supposed that she’d seen the Goblin’s vicious, cunning nature for herself.
+
+“After that, we make our way away from this place and keep walking until we recover our Qi Pools and in your case, your health. If we’re going to get sniped out of trees, then I’d rather take my chances on the ground.”
+
+Sarah nodded, as she slowly but surely walked alongside him, before asking, “How are you so calm?” She asked.
+
+It was a question that had come across as unexpected to Jack, but he supposed that it should’ve been an obvious thing to ask.
+
+“I’m not, I just pretend like I am,” Jack candidly replied, a small chuckle escaping him even in the dreary, oppressive environment that was weighing down upon them. “Do you know what I used to do back on Earth, Sarah?”
+
+“What?” She asked, clearly intrigued.
+
+“You’re going to laugh if I tell you.”
+
+“I could use the laugh,” Sarah wryly replied. “And your ability to be so darn placid. So just tell me. Did you serve or something?”
+
+Jack chuckled again, before replying, “Nope. Just your average social pariah doomsday prepper.”

@@ -1,0 +1,141 @@
+---
+id: 1e0d02a4-1c82-5907-a9ba-c3054bfd8a77
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Inheritance of Ragged Leaves"
+slug: 0098-interlude-inheritance-of-ragged-leaves
+partOf: beware-of-chicken
+position: 98
+ownLength: 1565
+unit: words
+ownProgress: 1565
+publishedAt: 2024-02-23
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1528881/interlude-inheritance-of-ragged-leaves"
+royalRoadId: "1528881"
+markedReadAt: "2026-06-29T18:54:50.488Z"
+---
+
+“Commander, the last set of reports,” a dry voice intoned.
+
+Dong Chou, known as Rags to his friends—and well, to most people nowadays—glanced up at his subordinate, dismayed to see the number of scrolls in his arms.
+
+“You’re a bastard, Huyi,” Rags groaned.
+
+Hi Huyi, one of Xiulan’s students, simply shrugged apologetically, his dead-fish eyes filled with both commiseration and amusement. The other two people in the office, Khaliyun from the Grand Ravine Sect and sectless Ze Xi, both let out little snickers at the tone of Rags’s voice.
+
+“And you two! Get back to work instead of laughing!” Rags ordered in annoyance at them.
+
+“Yes, Commander,” the tribal woman and handsome-looking man both replied, both faking at sounding innocent. Huyi’s smile widened.
+
+Rags glanced down at the intelligence reports and sighed before opening up the first.
+
+There were a lot of them, but most of them were just going to be tests of their new system. Bland reports about the weather, for nothing of note would be happening. Most of these were to see how the back and forth worked.
+
+“Good luck, Commander of the Grass Sea,” Huyi said, making a grand bow… before going off to assist Rags’ two other subordinates.
+
+The title still felt weird. Dong Chou, Commander of the Grass Sea, Information Master of the Grand Marshal and her White Tigers. He had even volunteered for the position when they had all been talking about it.
+
+Rags… well, not to brag, but he was good at this kind of thing. He knew how to keep his finger on the pulse of what was going on, and it had saved his ass more times than he cared to count. It was how he had known to get his people out of harm’s way before the Face-Snatchers went on their “merry” night. Chou had saved nearly a hundred lives that night. And while that was a small number… he had only been mortal then.
+
+But this job needed more than Rags being another guy on the street. Xiulan was the boss of bosses… but he was also a boss. Boss Tanhui didn’t go around getting the goods on his lonesome, he had people for that.
+
+And Rags had a way wider area to cover than Grass Sea City. So he needed to set things up for the flow of info, of goods, of manpower and crap. Fancy folk called it… logistics.
+
+Naturally, Rags had found out who the best people were at information gathering and then shamelessly stole what he could from them.
+
+The Plum Blossom’s Shadow obviously knew what they were doing. So whenever Rags bought information from them, he tended to stay and chat. He talked about their difficulties and how things were for them… and surprisingly they were rather open about their philosophy for one of “Master Scribe’s Favoured Clients.”
+
+Xiulan was still a bit wary of their mysterious benefactor. Rags, however, had some suspicions on who the benefactor might be. Just suspicions, but… well, it was something he had overheard one Plum Blossom lady telling another.
+
+“While birth may account for some things, merit is the only measure that truly matters. A day labourer striving to learn is objectively superior to a noble who only contents himself with pleasures of the flesh.”
+
+It had been said in a light tone, but strangely, it was something Rags had recognised— because it was something he had heard before.
+
+That Lu Ri fellow had said it. And he had been reading out of a Cloudy Sword Sect manual to Wa Shi.
+
+The Plum Blossom’s Shadow. Lu Ri’s surname meant plum. It may have been a coincidence, but he also bet if he described Lu Ri to one of the Plum Blossoms he would sound suspiciously like Master Scribe.
+
+But Rags wasn’t dumb enough to poke at something like that, so he ‘didn’t’ know.
+
+He shook his head and read through the reports. He marked more things down that they needed looking over, and filed others away for tomorrow.
+
+Finally, he put down his inkbrush as he finished the last report and let out a sigh as he finished his work for the day. He shook out his hand and then grabbed the cold cup of tea that was sitting on his desk. Taking a sip, he took a deep breath and let it out slowly.
+
+He glanced up and took in the rest of his office, its interior cast in gold from the setting sun. His three subordinates were still working.
+
+“Khali, Huyi, Xi, that's enough for today,” Rags said, and when they all glanced up he smiled. “Now go out and have a drink on me.”
+
+His subordinates grinned as Rags tossed them all a coin— a silver coin that was more money than he had ever had in the first twenty years of his life. To think that now he could toss such an amount to somebody on a whim and tell them to have fun.
+
+“We’ll take our leave then, Commander,” Xi and Huyi intoned respectfully.
+
+“Boss,” Khali said, and somehow the simple word sounded just as respectful.
+
+They left the room.
+
+And then Rags was alone. He looked again at his office. The nice chair. The nicer desk. It was solid oak, and had been crafted by a master carpenter. He liked running his hand across the smooth surface.
+
+It was nice. It still felt a bit strange that it was his… but it was proof of how far he’d come.
+
+And a reminder not to let the opulence go to his head.
+
+He was Dong Chou,  a street rat from Underbridge who through luck and wit had escaped the Face-Snatcher Gang and led the young and the old who had joined him to a better place.  A cultivator who came from nothing. Hells, he hadn’t even been able to read until a year ago.
+
+And now he was here. Now, he had the power to change the world.
+
+Not for the bastards who sat in ivory towers.  But for the people like him, those who couldn’t— He couldn’t forget his people. The Underbridgers, who had a shitty enough hand in life that they didn’t need cultivators dumping on them either.
+
+Rags took a breath as he remembered the thing that had started it all. The pictograms on the side of the long abandoned fortress. The pictograms that had ignited his dantian and had sent him to the Dueling Peaks, where he had met those he could call friends and comrades.
+
+He still didn't know its name. He didn’t know if he was practising it right. But it was evolving all the same, changing as he grew in power… and dedicated himself to a cause he knew was just.
+
+“I swear to you, Dong Chou. There will be no more Sun Kens. No more slavers,” Xiulan said, her eyes burning blue.
+
+Rags chuckled at the memory. It was a good one. He clenched his hand into a fist and brought it to eye level. Rags opened his hand, and a single golden Ginkgo leaf, ethereal and not quite all there, swam into existence. It was a thing of life, and of protection.
+
+It was a good power.
+
+[Preserving Ginkgo Leaves]
+
+Rags blinked as the name swam around in his head. Yeah, that sounded right.
+
+His musings were interrupted when there was a slamming on the door. Rags sighed.
+
+“Whaddya want?!” he demanded and the door opened, revealing Loud Boy and Yin.
+
+“Oi! We’re gonna have a party tonight! Tigu said to spread the word!” Loud Boy declared, his voice booming off the walls.
+
+Rags brightened up. “No shit?”
+
+“Yeah! C’mon, let's go, Commander of the Grass Sea!” Loud Boy declared.
+
+“Oh, well, if Leiting Long, Commander of the Tiger Leopard Outriders, commands it, I guess I can come along,” Rags jabbed back, using Zang Wei’s new nickname. Leiting Long, the Thundering Dragon.
+
+It was pretty appropriate, and pretty cool… but there was no way Rags was telling him that.
+
+Yin laughed at Loud Boy’s face going a bit red.
+
+“Shut up, Commander of the Blazing Swords,” he retorted.
+
+Yin just laughed harder.
+
+As they pushed and shoved each other, it felt no different from being kids again, playing and pretending to be great cultivator heroes.
+
+But it wasn’t pretend anymore. They would be the new stories people told to each other. The Legend of the Azure Heroes.
+
+============================
+
+“Hey! Ho! Hey!” Rags shouted in time to the beat of the song. His arms were slung around Loud Boy and Tigu’s necks. They were all rocking from side to side and kicking their legs out. The line was everybody long. Even Delun had joined in, on Loud Boy’s left, while Xianghua was on Tigu’s right.
+
+For the first time in a long time… they could all just have fun.
+
+Even the Grand Marshal.
+
+“Ohhhhhh~” Xiulan’s sweet voice rose in the air. “There once was an ol’ whore, spry as could be, and her companion, by chance, was a young donkey!”
+
+Oh, the Ol’ Spry Whore. Rags loved this song.
+
+They partied into the night, and the next morning Rags got to see something amazing.
+
+He got to watch as pure, fresh, clean water poured out of the Dueling Peaks. Water that wouldn’t make you sick if you drank it. Enough clean water for everybody.
+
+Rags couldn’t help but smile.

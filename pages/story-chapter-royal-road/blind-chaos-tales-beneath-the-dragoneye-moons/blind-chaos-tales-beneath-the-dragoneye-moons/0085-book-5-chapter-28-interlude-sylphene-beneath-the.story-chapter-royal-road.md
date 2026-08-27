@@ -1,0 +1,497 @@
+---
+id: aea5bbb7-fff1-5063-a7a9-ec4a43c86d53
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 28 - Interlude – Sylphene – Beneath the Dragon’s Eye II"
+slug: 0085-book-5-chapter-28-interlude-sylphene-beneath-the
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 85
+ownLength: 7598
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3650362/book-5-chapter-28-interlude-sylphene-beneath-the"
+royalRoadId: "3650362"
+---
+
+Drx’tharan, the Sun-kissed Slaughterer—crucially, the only hope Sylphene and her party had to pass through the region safely—was dead. And his killer was ripping through his ribcage to get at his heart.
+
+[Vex-tanax, the Platinum Pride] had reached level 2949.
+
+It was difficult to get a feel for the personality of the new lord of the domain—there was no guarantee that a ruthless and cunning combatant would possess any degree of cunning when it came to managing resources or negotiations. And yes, they were literally eating the heart of their rival, but Sylphene had met elves that did the same—the act told her nothing. It was a gruesome and pointless practice, yet there were those that insisted that they somehow gained the power of the defeated by doing so.
+
+Despite overwhelming evidence and proof that they did not.
+
+But that was beside the point, what truly mattered was what the dragon did next. If they were reasonable… well, she was still a [Merchant]. She could negotiate. She sorely wished that she had never reset the class—[A Merchant with Luster] had only recovered to level 196—though there was no undoing what was done. It helped that they brought a bribe intended for the previous lord of the domain. And, as an extra incentive, if she was successful, she might manage to push her [Merchant] class quality further.
+
+But if Vex-tanax proved to be drunk on their triumph, they would likely attack any target that might provide a moment of elation in an effort to prolong the sweetness of their success. And a full party of immortals would certainly qualify, even if they were barely a threat. Which meant that they needed to run if the dragon struck out at any other target, and…
+
+Sylphene’s thoughts tapered off as she turned her gaze to the tunnel they had passed through. There was no light at the end of the tunnel—instead, the tunnel was entirely blocked off by large fragments of stone. It was hard to say if there had been a rockslide on the far side of the mountain or if the tunnel itself had collapsed. Either way, their ability to retreat had become far more fraught than she would have preferred.
+
+Only moments had passed since Drx’tharan’s death. It was just enough time for Sylphene to realize the weight of the situation. It was sufficient for Vex-tanax to swallow the dead dragon’s heart whole. Malista had yet to recover from her shock in those few moments, and the other devils were still holding their silence.
+
+But other powers had begun to act.
+
+The sun itself was growing in the sky. There was no ambiguity about that fact—even if Sylphene was somehow so unobservant as to miss the increase in size, the world grew hotter with every beat of her efficient elven heart. One by one, the devils looked up—aside from Malista, who was still working through her shock. The only one that seemed to be unaware was Vex-tanax, whose gaze remained fixed downward. With their macabre snack complete, they released Drx’tharan’s corpse from their talons and let it drop.
+
+In the same moment, they unleashed a barrage of Inferno into the jungle below.
+
+There was no preamble, no roar of challenge, nor any warning—just a seemingly endless onslaught of spells. It was as though the dragon suddenly felt a desperate need to reduce the lush jungle to ash.
+
+Yet the jungle fought back.
+
+While the sun continued its improbable growth, branches, brambles, vines, and leaves surged upward to meet the blaze that the dragon conjured. They of course burned, but as they failed, other growths from the jungle wove together to form a more resilient barrier—one that held strong, even against the dragon’s spells. There was no indication of what was protecting the jungle. Sylphene had no idea if it was another dragon, a minion of Drx’tharan, or some third party that sought the territory. But—
+
+“For my son.”
+
+There was no preamble. Nor were the words intended as a warning. The goddess Spoke with enough force that the words themselves became an omnidirectional assault. Beneath their sheer weight, the world itself stilled—for a single instant.
+
+And in that moment, the sun itself lashed out. A bolt of yellow blazing energy pierced through the air, scattering the sparse clouds that lurked in the sky. To their credit, Vex-tanax tried to evade—they even tried to activate their Mirror-coated scales again.
+
+But the smiting blow that Solaris, goddess of the sun, called down was more than mere Radiance—it was a flare drawn from the sun itself and directed through the domain of one of the most powerful goddesses. In many ways, Solaris was second only to the creators themselves—the sun was so crucial to life that countless people prayed to her each and every day.
+
+Before her radiant fury, a multitude of Vex-tanax’s silvery scales ruptured, engulfing the dragon with a scintillating haze for a precious moment. And by the time the awe-inspiring blow concluded, one of their wings had blackened as well.
+
+Yet the dragon still lived, even as they bellowed in agonized fury. Thorny vines had been reaching for the dragon, though they had failed to endure the sun’s fury, even indirectly.
+
+Sylphene considered herself a well-spoken elf. Admittedly, her fluency in Creation was somewhat less than she would prefer, but at least in High Elvish she quite rarely found herself lacking in words to convey her thoughts.
+
+She had no words at all for how bad the situation was.
+
+Solaris had almost certainly delayed long enough to save her son from Black Crow’s grasp—to make him an angel at her side. But she was pissed. The sun’s size and fury were no mere illusionary effect, nor was it likely specific to their region—the goddess had altered the laws of reality to better vent her fury upon the dragon that killed her son. It was difficult to imagine the scope of harm that was likely accruing across Pallos due to the change.
+
+And there was no such thing as a story where being a direct witness to the fury of a deity was a good thing. Not at their levels.
+
+Also—and it was a somewhat petty and inconsequential complaint, admittedly—Sylphene was disappointed to learn that Solaris was an ascended dragon. It was not surprising, but Evi had always insisted that the goddess was an elf. It was nothing short of cruel that she happened to be present for events that provided a direct contradiction to her twin’s beliefs!
+
+Still, there was little time to indulge in awe or petty outrage. Solaris’ opening smite had failed, and while she had no idea what the goddess’ next move would be, she knew for a fact that her lifespan would be improved by doing everything that she could to preempt it. After all, she needed to survive—she needed to hold her daughter again. And she needed to reunite with the woman she loved.
+
+“Great Xaoc, please, I ask you to let my prayer be heard! Great Solaris, I humbly ask you to hear my words! I beg of you, stay your wrath—instead, please allow us to see the slayer of your son laid low. We came as guests to bring gifts to your son. We will avenge him, and we shall do our best to assist whoever—or whatever—opposes that foul dragon!” Sylphene stepped forward to the edge of the canyon as she retrieved her bow from her [Spatial Safe Box].
+
+The dragon was out of range, but theatrics would help her to sell her end of the bargain to the goddess.
+
+Or at least it would, so long as the shocked devils kept their mouths shut for a few more seconds. She wished that she could glare at them, but she needed to hold her position.
+
+While Sylphene awaited the goddess’ response—while desperately hoping there would be one—the world continued to turn. Vex-tanax either decided that Solaris had done all that was within her power or decided that there was no point in fretting about what they had no influence over. Either way, the dragon resumed its battle with the jungle, testing their potent breath attack against the still-growing defensive barrier that covered much of the jungle.
+
+Vines and sap-rich leaves withered and burned, yet even the full might of the level 2962 dragon’s Inferno (frustratingly, surviving divine wrath had leveled them even more) failed to breach the barrier entirely. The jungle’s protector even tried to counter-attack, though the dragon simply swept their breath across the wooden projectiles.
+
+Solaris never offered a formal response. Instead, the sun rapidly receded to its usual size and intensity—a clear message, conveyed through action. Sylphene sent both Xaoc and the woman her gratitude, before she turned back to her… displeased contracted assistance.
+
+“Arrogant elf, how dare you?! You’ve killed us all!” Nangyna spoke first, followed swiftly by the others.
+
+“Death has come, and thanks to you, we shall not escape Black Crow.” Endera was as frosty as her primary element.
+
+“Hey, I’m down!” Having Drastica on her side was probably a bad thing.
+
+“Meh.” Bialldra’s contribution carried enough disgruntlement for a full sentence.
+
+The four began to bicker and shout at one another, utterly ignoring Sylphene’s attempts to get their attention. Prisms, she wished that she could be surprised, but after journeying with them for so long… Yet there was no time for such childish behavior! They desperately needed to—
+
+“For the love of Samsara, shut up!” Malista’s Gravity-enhanced words crushed the argument in an instant. “Knifey’s right. Drx’tharan wasn’t just Solaris’ son—he had been a friend to our people for over three thousand years! Our agreements demand we do our best to avenge him, and we aren’t alone. Now—what are we?!”
+
+““Sisters!”” The other four answered in unison.
+
+“And what do we sisters bring?!” Malista raised her hand, tattooed with the sigil of their group.
+
+As if they had not already brought sufficient strife?!
+
+““Death to all monsters!”” They collectively roared their declaration.
+
+Sylphene was reasonably certain that she knew what strife meant, but she was somewhat less convinced that they were aware of the word’s meaning.
+
+“Knifey, when we get close, convince whoever the plant-wielder is to bring the overgrown lizard down. Sisters, harass at range, but save your mana for once the beast is grounded! I’ll hold it down as best I can—Endera, I’ll need as much Ice as you can give me for that—but we have to hit it as hard as we can to crack its defenses a bit! With luck, the plant-wielder has the levels and power to finish it.” Malista ordered, before she started to sprint forward, restricting her speed to one that her sisters could match.
+
+That was the biggest problem—none of them had the power to meaningfully threaten a dragon at that level. They were forced to hope that the unknown entity that was protecting the jungle could do what they could not. The entity had held off the dragon’s attacks, but that meant little. It was all too possible that they had three defense-oriented classes that specialized in negating fire-adjacent attacks, which would allow them to defend against a much stronger opponent.
+
+If the dragon was low enough on mana and could be grounded, even they could hurt it—at least if they worked together. But the odds of them being able to kill a dragon by themselves were… well, Sylphene was trying not to think about that.
+
+She was racing towards a dragon. She was picking a fight that she could never hope to win. And if she allowed herself to think about her terror or the odds of her survival, she knew that she would stop. Even if there was no escape, she had never been the sort of elf to be so reckless. Yet, if she hoped to become worthy of Ranthia, she needed to be like her brave beloved. She had to push past her fears.
+
+Just like Evi. Neither Ranthia nor Evi would have let their fear of a powerful dragon stop them!
+
+“Knifey, I’m counting on you to coordinate with the plant-wielder and make sure it doesn’t attack us.” Malista kept her voice down. They had followed the road down the mountain, but the road—clearly delineated by a boundary of carefully placed stones and a total lack of plants within it—veered off into the wrong direction. There were signs warning travellers to stick to the road.
+
+Malista hesitated for only the briefest moments before she forsook the road and plunged into the jungle’s undergrowth.
+
+“You are aware that I have a name.” Sylphene tried to respond as Ranthia would… well, with her own words. There were limits to how directly she wished to channel the crass woman that she loved.
+
+“Yeah, and if we all survive this, I might actually be willing to use it. Right now, I’m pissed. We’re either about to become something dangerous, or I’m about to mourn at least one of my sisters. And we’re only here because of you. If we succeed, my fury will be satiated, but if I lose a single sister, I will never forget it. And if that happens… mark my words, elf—I will honor our contract, but I will not move a claw to do more for you than the terms require.” Undisguised malice dripped from every word Malista spoke.
+
+That was unfortunately fair. Sylphene knew that she was not the only one fighting against terror with every step, but it was still disheartening to know that it affected even a combat veteran that had reached such a high level. Then again, Malista had eighty-five levels on the next highest member of her team. There were likely tragedies in the woman’s past.
+
+Which made her just the same as every other immortal that chose to embrace danger.
+
+Sylphene just needed to defy the odds. She needed to do more than just become strong enough to be by Ranthia’s side—she needed the strength to help keep the woman she loved alive. The two of them would face whatever trials life provided together!
+
+Which meant she had to survive a dragon.
+
+Sylphene teleported her first arrow to her hand. There was an argument to be made that she should fire it properly—to do everything that she could to make sure every shot count—but realistically, even a perfect shot from her was unlikely to do damage at significant range. It was best to conserve her enchanted arrows for moments when the dragon was vulnerable. Which meant that she could use her initial shots to guide the System toward the Spatial combat class she desired.
+
+Even if she still felt like a fool every time she reversed her bow in her grasp. At least she had long since mastered drawing it backwards and loosing the arrow at her own body. [Catch] and [Return] did the rest—the Skill intercepted the arrow as it left the bow, then launched it back at the dragon. It was unfortunate that the Skills did nothing to accelerate or empower the arrow, yet she had limited options with which to utilize Spatial magic in combat.
+
+Unfortunately, her arrow was knocked aside by the sheer power of the dragon’s wings, unnoticed. They had yet to even glance at the group of elvenoids.
+
+The devils could fly, the same as the dragon, but no one was foolish enough to contest the dragon in the open skies—the dragon was undoubtedly their superior in aerial acrobatics. Besides, the jungle’s protector continuously unleashed barrages of thorns and wooden spikes.
+
+The jungle itself had fared worse than it had seemed from the mountain. Most of the trees still stood, though there were entire sections where they ran through smoke and ash. Even once they passed beneath the thick protective canopy, there were still places where Vex-tanax’s Inferno had forced its way through.
+
+The protector’s efforts to convince the dragon that its defenses were absolute were nothing more than a bluff.
+
+“We have come from the nation of devils, and we intend to help! We believe that we can pin the dragon down for a moment, but only if you can get it on the ground!” Sylphene shouted before any of the devils lost faith in the plan. She followed the words with the same thing in High Elvish, just in case—she still had no idea who or what they were dealing with.
+
+“Very well. This way.” The response came almost immediately. The voice was feminine, though the words themselves came in an oddly clipped dialect of Creation—almost as if she was unused to speaking the language. Simultaneously, a flowering vine sprouted from a nearby tree and dangled in front of them before it rapidly grew, disappearing into the distance.
+
+Malista altered course to follow it, readying her weapon.
+
+They were cut off from whatever was going on above, but they could hear Vex-tanax roaring in fury. It was difficult to be certain with the strange acoustics of the shielded jungle, yet it seemed as though the roars were getting louder.
+
+“Careful!” The vine spoke—the flowers moved as though they were lips—as it abruptly barred their path forward.
+
+A heartbeat later, a crash sounded as the protective canopy gave way. Vex-tanax plummeted through it, bleeding from a thousand and twenty-four minor wounds, as they snapped and tore at the vines that had twisted around them. The dragon was making good time at freeing themself, even with one of their wings bound against their body.
+
+“Abyss it all, it’s even bigger than I thought…!” Hardly a reaffirming battle cry, yet Malista still rushed forward, as promised. Endera was hot on her heels, skating across the Ice to keep up with the higher level [Warrior].
+
+Sylphene resumed running too, though she circled around the dragon as she returned her bow to a proper grip. There was no time to worry about her classes—she needed both precision and every bit of power she could muster.
+
+Her first arrow was enchanted to hit its target with greater force. As she had eights of thousands of times, she nocked it, imbued the necessary mana while she drew, and loosed. In the gloom, the arrow shone a vibrant green before it bounced harmlessly off the dragon’s snout.
+
+Her second arrow was enchanted for accuracy. Vex-tanax was thrashing, but she still took aim at one of the dragon’s eyes and loosed her shot. But be it instinct or happenstance, the dragon blinked just in time—her arrow deflected off their resilient eyelid.
+
+That was unfortunate.
+
+Malista was hardly faring much better. She had managed to impale her sword through an existing tear in the dragon’s free wing, but her Brilliance barriers she layered over the dragon broke as fast as she could form them and her Gravity hardly seemed to affect the powerful creature. Endera’s Ice was proving somewhat more durable, yet there was no sign that any of the debuffs that she was applying were having any effect!
+
+“Hit it!” Malista shouted, unable to disguise her strain or her desperation.
+
+Drastica showed no hesitation as she began to throw her javelins. Cracks rang through the air as her weapons slammed into dragonhide, failing to find purchase again and again. A few scales came loose, but her weapons were being blunted with every repetition—not that she let up.
+
+Nangyna typically barraged his opponents with everything he had in a single volley, though with the dragon bound in vines, he had to adapt. Instead, he knelt and pressed his hands against the ground as he conjured stone spikes that struck areas where there were no vines, or where the vines had already failed. Each impact caused a small eruption of Pyronox, though the dark flames failed to find purchase through Vex-tanax’s innate fire resistance.
+
+Bialldra’s spell needed time. The heavyset devil continued to layer her spells as she built up the mana. Sylphene could hardly believe that the woman was wasting time on her flawed Spatial distortion attack in such a situation, but arguing with her would have required time and energy that no one could spare.
+
+Sylphene’s third arrow fared no better than her previous attempts. The same was true of her fourth, fifth, sixth, and seventh arrows.
+
+“Why? Why come here? Why kill him?” The same feminine voice asked, seemingly from every direction at once.
+
+Dragons were absolutely capable of speaking Creation, the same as any other truly sapient species. Yet Vex-tanax offered only a snarl, loaded with derision, in response while they tore through more vines—nearly dislodging both Malista and Endera in the process. Clearly, the dragon believed themself above conversing with all of them.
+
+“So be it. Become fertilizer for my children.” The voice came from a singular direction as a dryad stepped out from around a tree. She was armored in thick plates of bark and her green hair trailed along the ground, seemingly endlessly long.
+
+There was no anger in her words, they were a simple pronouncement—one that was seemingly obeyed by the jungle itself.
+
+Tree branches grew and twisted into wooden spikes that drove at the dragon, puncturing through their hide where Sylphene and her party had failed. More vines came out of the ground and from the underbrush, each covered in thick thorns and long needles.
+
+Yet none of it was enough. The dragon let out a roar of amusement as they tore branches from their trees and shredded vines. Endera lost her footing and was sent flying into the treeline, and even Malista struggled as she screamed in fury.
+
+And then Bialldra unleashed her spell. The world itself seemed to distort as a tear opened in reality.
+
+In the same instant, Vex-tanax’s damaged scales turned reflective. They had hoped that the damage Solaris had inflicted coupled with the dragon’s prior mana use would prevent them from using the Skill. No one had said as much, but if the dragon could still counter any attack, they were sunk.
+
+Bialldra went down, screaming, in a broad spray of blood as her own attack nearly split her in half. No one could afford to watch her fall, though everyone took enough of a look to know that she would not recover.
+
+Almost every vital organ was exposed to the air, and many of her bones were gone.
+
+“Breaker!” Malista howled the insult at the dragon—heedless of the fact that it made no contextual sense. It was not as if they had any agreement in place with the dragon that they had hoped to kill!
+
+The moment the Mirror-coating left the Vex-tanax’s scales, Avyna loosed her eighth enchanted arrow. It was the second most expensive arrow she possessed—carved from pure arcanite, enchanted for accuracy, power, and piercing.
+
+It was still a relief when the arrow pierced through the dragon’s eye.
+
+Vex-tanax’s smug expression vanished as they hissed in pain. Sylphene had failed to even rupture the eye—and it seemingly still functioned, though the shaft plainly got in the way. It still did enough that the dragon’s attention turned to her.
+
+For the first time, Sylphene learned what it meant to have a dragon’s ire directed her way. Her body felt weak—desperately, impossibly weak and feeble. Her vision blurred, as she stumbled back instinctively.
+
+The dragon inhaled deeply, tearing through more vines as they turned to face Sylphene directly.
+
+Their mouth opened, and all Sylphene could comprehend was the orange glow that was about to herald her annihilation.
+
+A javelin struck the same eye that Avyna had injured. It was too blunted to pierce through.
+
+Malista tried to knock the dragon’s head aside with a gravity-enhanced kick. Her steel boot crumpled inward from the blow, without making the dragon so much as twitch.
+
+Nangyna launched a massive rock spike at Vex-tanax’s chin. It shattered ineffectually on impact, failing to close the dragon’s mouth.
+
+It was good that they tried, even if it was demanded by their contract.
+
+“No.” With a single word, the dryad drove a hand—or perhaps an oversized thorn—through the dragon’s undamaged eye.
+
+[Mage], level 3242.
+
+The orange glow within Vex-tanax’s open maw faded… No, that was incorrect—it was occluded. Spiny brambles sprouted from the pink flesh of the dragon’s mouth. Others ruptured from their wounds and gaps where scales were missing. As smoke billowed from their still-open maw, the dragon wrenched to the side abruptly, ripping itself free of the dryad’s hand.
+
+And blood absolutely gushed from the countless wounds and tears Vex-tanax inflicted on their own flesh and organs. They still managed to crack their tail, sending Malista tumbling as her sword deformed around the appendage. A muffled roar escaped their smoldering mouth, filled with brambles.
+
+The wounded dragon lunged at the dryad, meaning to crush her. Instead, she deftly leapt into its open mouth and embraced the charred and blood-soaked brambles within.
+
+And they surged in both size and volume in an instant.
+
+[*ting-a-ling* An ally assisting your party has finished off [Vex-tanax, the Platinum Pride].]
+
+Sylphene fell to her knees, shuddering. There was no elation in her heart or her mind. She had been an instant away from death, and none of her party could have stopped it. After everything she had ever heard or read, she had still underestimated dragons! Dragons had no need for a mere advantage; they had more than enough might to erase her, no matter what they had suffered. Vex-tanax had been toying with them until their final moments!
+
+She was far more helpless than she had ever known.
+
+“Name? Let think… Leafsie!” The dryad grinned in a way that made it obvious that she just thought it would be funny if they called her that.
+
+“Thank you, Lady Leafsie. For saving all of us.” Sylphene bowed.
+
+The dryad had been there before Drx’tharan ever arrived in the region. If Sylphene understood the woman’s broken Creation correctly, ‘Leafsie’ was the daughter of one of the first god-made dryads. She had remained in that valley since almost the very dawn of Pallos.
+
+The curse of dryadkind was well-known—they were bound to their trees and were unable to venture far from them. The valley was all that the woman had ever known. And when Drx’tharan arrived, she welcomed him, knowing that he was her favorite goddess’ son. He brought her seeds and samples of plants found throughout the continent when he journeyed, and she protected the valley in his absence.
+
+After all, the valley was full of her children. Numerous other dryads peeked at them while Sylphene negotiated with Leafsie. Truly, the woman had already done so much for them. Not only had she saved Sylphene’s life—she saved Bialldra as well.
+
+The devil in question was still poking at the pink scar that began just below her neck and carved downward just past her belly. Her gear was ruined, though she seemed unbothered about her nudity. Possibly because most of the dryads were completely bared to the world as well.
+
+But their lives were only a single part of what they truly needed. They still required safe passage through the region.
+
+Sylphene had already unilaterally given the dryad Vex-tanax’s body. As much as it pained her—and the devils, given the glares—to part with the absurd wealth that the dragon’s corpse offered, the dryad said that she required it. Several of her children had perished due to the dragon’s attacks. There was nothing that could be done to bring them back from Samsara, but the carcass would make for grand fertilizer to restore the wounded jungle.
+
+Drx’tharan’s body had been returned to Solaris. Leafsie had provided a living altar and done her utmost to stitch the ruined body back together. Malista too joined them in prayer, despite her broken arm.
+
+Her Aura could fix that; it just needed more time.
+
+Solaris never spoke to them, though a tender warmth brushed across each of them in turn as her son’s body vanished into the sunbeam that shone upon it.
+
+With all of that done, Sylphene stood before Leafsie’s tree—an ancient oak that seemed to produce more acorns than leaves—while she regarded the beautiful dryad. Even after sacrificing the dragon’s corpse to the woman, she still felt she owed the dryad something more if she wished to ask another boon of the playful immortal.
+
+She had just the thing too. She had hoped to save it as a gift for Ranthia, though rationally she had no way to preserve the stolen fruit once she reset her third class. Before her resolve crumbled, she retrieved the plump pear from her [Spatial Safe Box].
+
+“This pear was grown by the Ilan family—the most famous growers that exist amongst my people. The Ilan fruit might be their legendary crop, but every fruit grown by the family has reached a quality that no one else can match. I had hoped to give this to another; now I offer it to you, Lady Leafsie. May its seeds and nutrients help you as you heal your lands.
+
+“In exchange, I ask that you continue to honor the agreement that Drx’tharan had with the devils.”
+
+Sylphene held the rich pear out to the woman. It had been difficult to steal it during the ceremony where they announced that she had been chosen to carry the Ilan fruit cultivars to the new farm. She only succeeded because another elf was stealing samples of the fruit—which made it possible to pin her own theft on him.
+
+The Ilan family’s personnel were counting every seed that was left in the cores, to ensure that nothing escaped from the feast. An absurd measure, yet the family was famous because they protected their secrets at all costs—much as the Wardens protected the greatest secret of the elves at all costs.
+
+The elven tendency to zealously guard their secrets was why she already used her new name, even while she remained with the devils. If anyone knew that she was there, she was dead either way. She was a clear threat to the sanctity of the details of the elven curse—not that she had any intention of sharing it with the devils. At least under an alias, her daughter might escape unscathed if she was discovered.
+
+“Okay.” The dryad offered a single word and a dazzling smile while she plucked the pear out of Sylphene’s hand. Moments later, the fruit had been split into uneven slices, as vines bore most of the seed-bearing fragments away in scattered directions.
+
+“You come; others rest.” Leafsie ordered, before she walked away, unbothered by the sweet juice that leaked down her arm.
+
+Sylphene followed after getting a shrug from Malista. Wordlessly, the dryad led her to a nearby place where the jungle had been wounded—a black scar, cut across the lush greenery.
+
+In the midst of the rich ash, Leafsie knelt and gave the exposed seed a kiss, before she pushed the fragment of pear into the ground. The woman kept her hands on the ground and sighed—a sound not unlike a breeze rustling the canopy—as she began to pulse green energy into the ground.
+
+Rapidly growing crops was easy. Every last [Farmer] on Pallos was capable of it from a low level, but Sylphene had learned from Caeli’s father that there was a loss in quality. Crops could be grown swiftly, they could be grown properly, and they could be grown robustly—but only two of the three could remain true at the same time. A robust crop grew to greater sizes. A proper crop had superior flavor and nutrition. And so, most elves chose to grow them properly and robustly.
+
+Leafsie had no such limitation. A seedling emerged and surged in size. From a single pale leaf, a pear tree rapidly grew. The ground trembled slightly as roots spread deep and strong. Ash and dirt were displaced as the trunk swelled in size with each moment.
+
+Sylphene had seen more than a few pear trees throughout her years, yet none came close to the colossal monstrosity that filled the hole in the jungle canopy. By the time she was done, Leafsie looked positively elated with the result.
+
+“Good seed, strong tree! Worthy.” It was still strange to hear such simplistic words from such a powerful immortal.
+
+Stranger still to watch the dryad embrace the tree as though it was a lover. She entwined her body around its bark as best she could, pressed so firmly against it that she almost seemed to meld into the tree for a moment.
+
+Above, leaves rustled. Sylphene’s gaze wandered upward, even as one of the tree’s mightiest branches struggled to bear the weight of its newest addition.
+
+A pear. A pear that was larger than Sylphene’s head and was still growing at a brisk pace. The tree valiantly tried to support the abnormal fruit, then the branch sprang back upward as the pear finally became too much for its stem.
+
+The fruit was the height of an unlocked child, though Leafsie caught it readily enough. Not that it mattered—the incredible fruit withered and rotted within moments.
+
+Leaving behind a single seed, not much larger than the seeds that had been in the original pear.
+
+“Take with. Plant somewhere important, safe. Plant when ready. Protect and be protected.” The dryad proffered the seed.
+
+Instinctively, Sylphene passed her hand over the seed and activated [Spatial Safe Box] while she struggled to figure out what it could symbolize—or why she had to wait through such a show, just to receive another pear tree seed. Her thoughts derailed as a sense of wrongness passed over her.
+
+Spatial was a strange element in many ways. Most Skills possessed some measure of guardrails—safety measures that restricted Skills from attempting the impossible. Spatial largely lacked such guardrails. Most of its Skills would do what they were asked to, even when they did something beyond the intent.
+
+Such as attempting to teleport something through its vitality defense.
+
+Unexpected (albeit slight) mana loss aside, Sylphene’s [Spatial Safe Box] was never meant to hold anything with a System! The weight of the seed seemed to press against her mind until she managed to retrieve the seed. Frustratingly, that too had to fight against the seed’s vitality defense.
+
+Thankfully, the seed was both small and level 1.
+
+[Seed], level 3.
+
+…Well, it was level 1.
+
+“I… this is…?! I cannot!” Sylphene found herself flustered as she tried to return the seed to the dryad.
+
+Despite some dryads living within the Tympestshard Council, there were still quite a few unresolved mysteries about their kind. And reproduction was high on the list. After all, almost every known dryad appeared to be female. And despite their elvenoid-typical breasts, no one had ever witnessed a pregnant or nursing dryad.
+
+Sylphene never imagined she would hold the answer in her hand. Seeds. Of course they would reproduce through trees.
+
+“Can. Will. My children, all here. I could have lost them all to this threat. Bring her elsewhere. New roots, new soil.” Contrary to her words, the dryad took the seed. She plucked a leaf out of her trailing hair and wrapped the seed up tightly within it, before slipping it back into Sylphene’s hand. “Will keep her safe and give time.”
+
+There was grief in the woman’s words. …A familiar grief. One that had lurked in Sylphene’s nightmares ever since she confirmed her pregnancy.
+
+As an immortal, it was common for a mother to outlive her children. Parents had the advantage of levels or cycled class quality, while children were more prone to rash action due to being unfamiliar with their curse. Caeli had defied the odds. But Leafsie had lost multiple children in a single bout of senseless violence.
+
+She wanted her newest child to grow up somewhere else. Somewhere that might be safer. Even if that meant she could never meet her child.
+
+“I promise you that I shall find the perfect place for her. No matter how long it takes.” Because Sylphene knew that she would have made the same choice. She would do anything for her children, no matter how much it hurt.
+
+[*ting-a-ling* As expected of you, [A Merchant with Luster] has reached level 256 and is ready for the next stage. This represents an increase of 60 levels.]
+
+[*ting-a-ling* Your Class Skills [Gemstones Authority], [A Trader’s Sight], [Superior Negotiations], [Unblemished Stamina], and [Mercantile Might] have matched the level of their class. In addition, [Calculation by Sight or Weight] has reached level 219 (+23) and [Trader’s Raiment] has reached level 119 (+10).]
+
+[*ting-a-ling* As expected of you, [Exquisite Elven Enchantress] has reached level 850. This represents an increase of 11 levels.]
+
+[*ting-a-ling* Your Class Skills [Arcanite Mastery], [Enchantress of Eternity], and [Mana Redirection] have matched the level of their class. In addition, [Enduring Enchantments] has reached level 180 (+21).]
+
+[*ting-a-ling* Your Class Skills from other classes have leveled. [Catch] has reached level 768 (+8) and [Return] has reached level 768 (+22).]
+
+[*ting-a-ling* Your General Skills have leveled. [Chest of Experience], [Elven Enchanter], [Elven Experience], [System Perception], and [Worldly Navigator] have matched the level of your lead class. In addition, [Elven Archer] has reached level 384 (+281).]
+
+Fighting a dragon, even if her efforts had been incredibly ineffectual, was worth quite a bit. Bargaining with a goddess and a powerful dryad likely helped her [Merchant] class more than a little as well.
+
+They had continued their journey and, at last, had reached the Hub. It was a city that the devils had created on the northern continent, though they were hardly the only people that made use of the trading hub. At one stall, an orc—so large that Sylphene had first mistaken him for an ogre—argued bitterly with the selkie that manned the stall. Further away, a phoenix in the shape of a highland hawk perched, watching a golden crow count gems. And in a little park just up ahead, three liches—skeletal constructs that supposedly never ventured beyond their tower—were all trying to read the same book at the same time.
+
+Granted, most of the beings that she saw were devils, but she had hardly expected to witness such diversity in the city!
+
+“Alright. I need to find whoever’s managing the Hub right now and tell them about… well, you know. And remember what I told you—for the love of Samsara, don’t brag. Remember, we didn’t really accomplish much anyway. I might get stuck leading them back there, but if I don’t, I’ll meet you at Alaxxa’s inn. Sisters, you know what to do. We’ll let Sylphene book our rooms—three’ll be fine. Good luck, silver tongue.” Malista offered a few words and a final reminder before she peeled off.
+
+“Gear repairs, on it.” Drastica rushed away, burdened with every damaged weapon and piece of armor they had.
+
+“Intel!” Nangyna walked away, whistling a solemn tune.
+
+“Meh.” Bialldra sulked off in search of a [Healer], just to check that everything had healed up just fine between Leafsie’s efforts and the party’s Auras.
+
+“I’ll show you where Alaxxa’s is. Be careful, she’s a shrewd negotiator.” Endera waved for Sylphene to follow.
+
+Alaxxa was hardly a shrewd negotiator, the woman was just cranky and unfazed by most efforts to butter her up. But Sylphene had carefully examined the inn while she waited for the previous customer to give up—she knew where to strike. No inn was that clean unless the owner prided themselves on cleanliness.
+
+Unsurprisingly, she was correct. In the end, she paid less for three rooms for two nights than the previous devil had paid for a single room and night. And she still got a smile out of Alaxxa too.
+
+Once she was in her room, she was as safe as she was going to get, which meant it was time to class up her [Merchant] class so that she knew what she would possess before she reset her Spatial class. Sylphene transferred her spatial storage box into her lap as she settled herself into a chair. Then, once she was comfortable, she willed her piece of the System to bring her inside.
+
+After her years of exile, it was strangely comforting to be inside of a proper elven shop, even if it was a fiction that she had created for herself. Her doppelganger waited behind the counter, though she had a class to find before she could approach.
+
+Avyna looked like a child, but she was herself inside her System in a way that she could never allow herself to be in the outside world. Not anymore. And that deception would continue for a very, very long time. Even more than the shop itself, being Avyna again was comforting, which was dangerous.
+
+She could never let her guard down while she classed up.
+
+After all, Avyna faced the greatest adversary she could imagine each and every time she classed up. As far as she knew, the custom was unique to elves, though it had circled back to being disfavored in recent centuries. She was fond of it though—the tricks and the final negotiation not only forced her to keep sharp, but they also ensured that she continually improved.
+
+First, she browsed the shelves. There was no one shelf that bore every [Merchant] class at level 256, though each good was stored in a reasonable place. Crates represented a [Merchant] that hauled cargo, while carefully calibrated scales were for classes that favored staying in place and negotiated heavily. Signs for shop owners—a dream that felt more distant than ever.
+
+Avyna needed a class that would help her to protect herself. A [Merchant] needed to survive, even if she intended her third class to be the means that she brought harm to those that would harm her or those that she loved. Jeweled boots were a close match for what she needed, though those classes seemed focused on avoiding or escaping danger. That was insufficient.
+
+Ironically, the classes that matched what she desired came in the form of traveller’s cloaks, much like those that Ranthia favored. Of course, she would never wear one that was studded with gemstones, but that was a side-effect of Avyna’s preferred element.
+
+Non-Gemstones cloaks were safe to ignore; she had no interest in changing her element. The lining of each cloak designated its class quality, and that was the first trick. Every color was present, from the palest red to the deepest black—yet many of the cloaks were forgeries. And if she approached the counter with a fake class, the shop’s owner would be unimpressed with her.
+
+And that would hamper negotiations.
+
+Some of the fakes were easy to spot. Inferior stitching that was unacceptable by elven standards or colored glass in place of gems. Other forgeries seemed enticingly real. Yet each and every cloak had its own price.
+
+There were multiple layers to the challenge. She had to find a true class, and she had to know her own value. She had a pouch of gems, yet they were insufficient to buy any cloak beyond the palest of green—she would have to sell her existing class back to the shop and get every possible gem out of the transaction that she could.
+
+Then, after all of that, she had to haggle anew. Because, unless she had unwittingly settled for a class that was below her potential, she would still lack the necessary wealth for the class that she deserved. Every time she annoyed her doppelganger with unreasonable demands or false goods, every other stage became that much more difficult.
+
+And her doppelganger negotiated with all of the prowess that she had possessed when she last cycled her [Merchant] class. Ordinarily, it was not much of an obstacle, but precious little time had passed since she parted ways with Ranthia.
+
+She had to be better. She had to do all that she could.
+
+It was bold, but she chose to believe in herself—she seized a deep blue cloak and made her decision.
+
+“<You are already aware that you lack the funds for such a fine item.>” The shop owner frowned with Avyna’s face as she trundled up to the counter.
+
+“<I know what I deserve, and I know what I seek to become. Do not play mind games with me—instead, let us negotiate for this treasure.>” Avyna had never even known it was possible, yet what she withdrew from her bag was not the jeweled wagon wheel that had represented [A Merchant with Luster] when she bought it—it was an exquisite statuette of herself, made with flawless gemstones.
+
+Her determination to become worthy of the greatest love she had ever known had an even greater meaning than she expected, yet a single advantage only narrowed the difficult bridge that she needed to cross.
+
+[Name: Avyna]
+
+[Species: Elf]
+
+[Age: 1534]
+
+[Mana: 1766010/1766010]
+
+[Mana Regen Rate: 2116451]
+
+[Stats:]
+
+[Free Stats: 0]
+
+[Strength: 57720]
+
+[Dexterity: 89738]
+
+[Vitality: 56889]
+
+[Speed: 24876]
+
+[Mana: 176601]
+
+[Mana Regeneration: 239969]
+
+[Magic Power: 237845]
+
+[Magic Control: 161207]
+
+[Class 1: [A Cut Above – Gemstones (299)]]
+
+[Gemstones Authority: 299]
+
+[Amethyst Eyes of the Trader: 299]
+
+[Multifaceted Evaluation: 219]
+
+[The Jewel of Negotiations: 299]
+
+[Sapphire Stamina: 274]
+
+[Gleaming Gems: 180]
+
+[Mercantile Might: 281]
+
+[Flawless Raiment: 119]
+
+[Class 2: [Exquisite Elven Enchantress – Arcanite (850)]]
+
+[Arcanite Mastery: 850]
+
+[Enchantress of Eternity: 850]
+
+[Elite Engraver: 830]
+
+[Intertwined Enchantments: 791]
+
+[Shaper of Arcanite: 819]
+
+[Enduring Enchantments: 180]
+
+[Mana Redirection: 850]
+
+[Foundational Multitudes: 233]
+
+[Class 3: [Protecting my Assets – Spatial (768)+]]
+
+[Spatial Authority: 768]
+
+[Spatial Safe Box: 768]
+
+[Spatial Movement: 768]
+
+[Catch: 768]
+
+[Return: 768]
+
+[Hidden Hideaway: 768]
+
+[Spatial Counter: 768]
+
+[Spatial Peek: 768]
+
+[General Skills:]
+
+[Chest of Experience: 850]
+
+[Elven Enchanter: 850]
+
+[Elven Experience: 850]
+
+[Elven Archer: 384]
+
+[System Perception: 850]
+
+[Worldly Navigator: 850]
+
+[Elven Evasion: 89]
+
+-

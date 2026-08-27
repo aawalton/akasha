@@ -1,0 +1,259 @@
+---
+id: a33d81bd-0af8-58a9-af6f-5bf9e872f876
+page-type-slug: story-chapter-royal-road
+title: "v7c28: Adventure and a Show"
+slug: 0281-v7c28-adventure-and-a-show
+partOf: beware-of-chicken
+position: 281
+ownLength: 3262
+unit: words
+ownProgress: 3262
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3061887/v7c28-adventure-and-a-show"
+royalRoadId: "3061887"
+markedReadAt: "2026-06-29T19:01:04.234Z"
+---
+
+Soon after the Lord Magistrate's group left for Pale Moon Lake City, Meiling and her family continued onwards as well. They actually left their carriage to the company to take into town, and instead had a smaller one arranged for them so they would stand out less.
+
+Their main carriage was rather massive, after all, and Jin didn’t want to be gawked at. Bo and Chyou would have it delivered to their accommodations.
+
+After the Trading Company left, they joined the steady flow of people on the road; both of them were sitting in the carriage’s driver’s seat, and Jin loosely held reins that weren't connected to anything. Wa Shi was between them in his jar, Zhuye was in Meiling’s lap, and Suyan was seated inside, looking out the window towards their destination.
+
+It was quite exciting approaching the massive gates as just one of the crowd. Wa Shi slapped his fins happily on the edge of his jar, and his whiskers waved about as he tasted the air, his eyes gleaming with curiosity. Bees perched on the top railing, buzzing their wings uncertainly, while Bei Be plodded forwards with the other carts, his own eyes taking in the sights.
+
+Meiling vaguely remembered the sprawl of buildings that had come out past the walls, the not-quite shanty town that surrounded the city proper. She just took it all in as they travelled forward, the shouting of the merchants and the sounds of life echoing all around them.
+
+It was honestly a bit overwhelming to suddenly see so many people, and she wasn’t the only one who felt that way. Zhuye was jerking his little head around in clear confusion, his eyes wide at the sight of so many people.
+
+“If you smell anything interesting, tell us, we’ll stop,” Jin said to Wa Shi, patting the fish’s head. He instantly perked up, and tapped his lip… but in the end declined.
+
+‘Later! I don't want to fill up on this and miss any of the restaurants Biyu or Yanjing recommended!’ he declared in Qi Speech, so as to not alarm people by a talking fish. Meiling and Jin laughed, and Bei Be chuckled along with them.
+
+They soon reached the gate. Meiling remembered it looking imposing, on an overcast day—but here and now, under the bright sun, it was actually quite inviting. A breeze was coming off the lake, and the constant wind made the air quite fresh.
+
+They went to where the guards were checking carts in, and Jin turned to her. “Want to bypass this, or do it the ‘normal’ way?” he asked, showing her the Azure Jade Trading Company’s jade medallion.
+
+“Let's do it the normal way,” she eventually decided—mostly because her eyes caught on two people she recognised. Yun Ren had recorded an image of those two guards, and said they were friendly sorts. The image of them was kind of funny, the men looking a bit nervous but smiling anyway, while Yun Ren’s face was partially in the recording. Jin noticed them too, and Bei Be started walking over.
+
+“How's it going today, boys?” Jin said, waving to the two guards. The men blinked in shock, then smiled.
+
+“Master Jin! Welcome back!” one said, giving them a bow. “Ah, and this must be your wife? Welcome to Pale Moon Lake City, My Lady!” the guard declared. Meiling smiled at the warmth, and the amusing thought that this was probably the first time somebody had immediately recognised her as Jin’s wife instead of someone else.
+
+But if they knew Jin and Yun Ren, then they also knew that they were cultivators. And indeed, out of the corner of her eye, she caught another guard off to the side, quickly tapping his fellows on the shoulders. There was a buzzing pendant in his hand. Traffic was swiftly directed away from them, and Meiling found herself quite impressed at their efficiency.
+
+“Yup, got the family down!” Jin said.
+
+“I haven't been here for over ten years,” Meiling said.
+
+The guard nodded amicably. “Well, the city's always changing. Master Jin, if it pleases you, we are normally supposed to check for contraband, but…”
+
+The man trailed off.
+
+“Do what you gotta do,” Jin said with a shrug. “Lovely weather we’re having, eh?”
+
+The guard brightened again.
+
+“Indeed it is, Master Jin. The waters are just starting to warm up, and this is when the clams are the best. The chowder from Shell Avenue? To die for…” That caught Wa Shi’s attention. The guard mentioned a few places to visit… mostly food, and in particular a garden that had a lovely view of the lake.
+
+As the one guard made small talk, the other performed an extremely cursory examination—just enough to say they had.
+
+The young man noticed Zhuye’s eyes on him, and then started making silly faces at her son—Zhuye giggled when the guard stuck out his tongue… until the man noticed Suyan staring at him.
+
+His face flushed crimson at the beautiful fox-woman’s attention… and then flushed even more when she offered him a smile.
+
+“Ah… all good here!” the guard coughed out. “Master Jin, thank you for your cooperation!”
+
+“Don't work too hard now, boys!” Jin said, waving a hand. Both the guards chuckled, and they set off into the city.
+
+Again, the last time she was here, Meiling had felt so small, compared to this vast place. Even before the incident with the cultivator she had witnessed, the city had kind of scared her.
+
+But now, after all the stories she had heard about it… it seemed more like an adventure. The crowd parted around them.
+
+“Where to first?” Jin asked with a smile.
+
+‘The noodle stand! The one Biyu mentioned!’ Wa Shi immediately demanded.
+
+Naturally, they obliged him. They wandered down the streets—and Meiling pointed at one of the buildings she remembered Gou Ren drawing. “That one the owner said was built two thousand years ago…” she said, remembering what Gou Ren had relayed to her.
+
+They even made a game of it, seeing who could remember more of Gou Ren’s architecture drawings.
+
+They stopped off at Biyu’s favourite noodle stall, where Wa Shi got to try the lake reed noodles fresh. The owner seemed very confused about the fish that was slurping his food… but their money was good, so he studiously ignored the strangeness.
+
+The same strangeness that also had an ox slurping noodles.
+
+They spent a while at the lake. It was a beautiful sight, the vast expanse of water… but it felt off to Meiling.
+
+“The Dragon Veins here are completely destroyed,” Jin said with a sigh, confirming what she thought. “We’re probably going to have to go for a bit of a swim later.  Love, you up for it?”
+
+“Of course!” she agreed, staring out into the blue that took up the entire horizon. “We’ll make a day of it. Maybe find a private island, so you can show me your abs… hu, hu, hu…”
+
+She grinned at her husband, making grasping motions.
+
+“Only if you show me one of those swimsuits I know you packed,” Jin riposted, leering back at her.
+
+Meiling, naturally, agreed.
+
+They meandered a bit more, before heading to the Azure Jade Palace through a back entrance. Master Guan Ping met them personally, and escorted them to their room, which was another massive thing, with the only bed Meiling had seen that was bigger than the one they had back home. They also had an entire contingent of servants ready to attend to their needs.
+
+They had a wonderful dinner, and watched some of the party the Trading Company and Lord Magistrate had arranged from the balcony—it was quite something to watch the Lord Magistrate and Lady Wu really turn on the charisma.
+
+It really showed Meiling and Jin how far they had to go themselves… and the fact that, well, after watching their teachers in action, Meiling was quite certain they really didn’t need her or Jin’s help.
+
+=======================================
+
+The next day they went straight to the archives… which unfortunately Bei Be nor Wa Shi were allowed into.  Instead the fish and the ox spent their time back at the Azure Jade Trading Company headquarters with Guan Chyou, who had a curated list of restaurants for them to enjoy.
+
+The day spent reading was rather nostalgic. The first thing she did was find where the incomplete siphoning formation was held; the thing that had helped them so much.
+
+To her surprise, the junior archivist knew exactly where it was. “Quite a few people have been asking about that one, miss,” the young man commented.
+
+She guessed it had been Lu Ri and Elder Ge.
+
+It was just as she remembered it. She smiled at the scroll.
+
+“We really should give back to this place, you know?” Jin mused after a moment. “I was talking with Pops before, about maybe putting the beehives in his name?”
+
+“It should just be fine. It’ll probably be years before more people notice the hive design,” Meiling replied. “I don't think anybody who does use them will be checking up at the top of the Azure Hills for their creator, either.”
+
+Jin shrugged. “Fair enough. Let's see about putting some stuff in here…”
+
+They spent a most enjoyable morning and lunch in the archives. A new beehive design. Designs for producing medicinal alcohol from Jin’s still. Her own observations on cleaning and sterilizing medical equipment, using mortal methods.
+
+She hoped something might come of this in the future, and would help people… just as  this had helped them.
+
+She was in a very good mood as they exited the archives, practically skipping along. Jin was laughing at her enthusiasm.
+
+That evening, it was revealed that Guan Chyou had rented out an entire woodblock print gallery for them, so Bei Be and Wa Shi could join as well.
+
+Their second day in Pale Moon Lake City was quite lovely.
+
+=============================
+
+On the third day, however, their plans were… interrupted.
+
+They had been walking towards a theater when they saw the procession.
+
+“Make way! Make way!” the guards demanded, practically shoving people aside while they marched.
+
+The banners of the Wu Clan were held high.
+
+“That's quite a lot of people,” Meiling mused.
+
+“I do believe that is today’s entertainment,” Jin replied. “Let's head back. We can sit on the roof, and I’ll make us some popcorn. Teacher promised us a show.”
+
+Meiling chuckled. It was not a nice chuckle.
+
+=====================================
+
+Wu Chanchou sat within her palanquin with a frown on her face.
+
+Her fool of a sister had really done it. The stupid woman had utterly enraged father to the point where he had called the guards. Zei Qi obviously had some sort of agreement with the Azure Jade Trading Company, but it was foolish to be so confident.
+
+Her shaking sickness must have completely scrambled her brains.
+
+Chanchou snorted at the thought. Her sister was always so proud of her reading and high-mindedness. Always so condescending. Always acting like she was better than Chanchou. She would always smile down, and then tell Chanchou how to do things better. Chanchou hated the smug condescending advice.
+
+And the few times she had tried to make peace with her sister? The bitch had slapped her hand away. Chanchou still remembered the cold look in her sister’s eyes at the fighting ring.
+
+“You actually enjoy watching this?” Zei Qi had asked, her lip curling in disgust while the peasants fought.
+
+It was to first blood, and it got them out of debt! Some of the peasants died, of course, but that just made it exciting.
+
+And Zei Qi had dismissed it all. Her cold fish of a sister didn’t like to do anything exciting. Not the peasants, not the dogs; she didn’t even seem to like the acrobats. The danger of it all was the point! And they survived the falls sometimes.
+
+She only liked art and poems. And then she would sneer down at Chanchou.
+
+The worst part was that Mother and Father had favoured Zei Qi. More graceful. More elegant. Charming. Better at all the womanly duties, and even engaged to the handsome man who would be Master of the Treasury. Every time they spoke and compared them, lambasting Chanchou and assigning her to more lessons or boring tasks, it made her soul squirm.
+
+Chanchou would have gone to some… second son, or something. Nobody important. She might have even had to move out of the city, how appalling.
+
+Then the heavens intervened, and struck down her arrogant sister. It had been Chanchou’s dream come true. Her perfect elegant sister reduced to a shaking, drooling wreck that pissed herself… who then had to marry a peasant and was sent to live out the rest of her days in the frozen north.
+
+Hilarious! Utterly hilarious!
+
+For the first time… Chanchou had won against her. She had gotten everything. Everything that Zei Qi would have had, the Heavens reimbursing her for the lifetime of suffering underneath her dear sister.
+
+These thoughts had always made her happy, for years. Whenever she was sad, she would think of her stupid sister, and the heavenly retribution meted out upon her.
+
+And then one day she found out her sister actually had a son! A handsome little thing, that somehow hadn’t killed the woman when he was born.
+
+He had tried to hide, the poor dear. At least he had known his place, and tried to stay beneath her notice, like the dirt-grubbing peasant he was. It was cute enough that she decided to be kind. She had helped him get promoted; promoted to the most dramatic position in the Imperial Court, the Special Inspector.
+
+From there, she could hear all the fantastic stories, filled with danger and excitement, and he would get to live them.
+
+A true win-win! Such a kind Aunt she was!
+
+His story was dramatic… but it also swiftly became boring. And when she couldn’t play with him anymore, she sent out her pet Auditor she had sponsored. He had failed in the Dueling Peaks to uncover any juicy information, so she sent him to investigate another failure—her sister.
+
+They would get some fine that she and the peasant surely couldn’t pay… and then they could come back home and beg Chanchou for mercy. She would grant it, of course, if they kowtowed enough.
+
+It was the perfect plan! She would get to see Zei Qi’s old, wrinkled, saggy face, perhaps watch her shake and dance on the ground, and then dismiss them back to their frozen wasteland.
+
+Until Zei Qi decided to do something stupid, like writing that letter and challenging father.
+
+Ah, she kind of pitied her crippled sister.
+
+They arrived at the Azure Jade Palace, their servants taking care of the arrangements.
+
+“Lord Wu,” Ping greeted them, but Father cared little for the simpering merchant. Chanchou tuned him out, while father took care of him. The peasants did have rather a lot of guards, but of course, Father got his way, and they entered without any more fuss.
+
+Then she had to walk. Chanchou reluctantly moved from her seat, and settled in slightly behind her husband, as was proper.
+
+Finally, they entered the gardens. Gentle music drifted from a guzheng, an effortlessly elegant tune that spoke of long mastery. It was a touching piece… and one Chanchou remembered.
+
+Her sister loved that song, and played it often.
+
+Chanchou frowned, as they found the pavilion overtop a small river, with three people in it… but one she instantly recognised. The woman playing the guzheng turned to regard them.
+
+Her sister.
+
+Who looked exactly the same as she had when she had left.
+
+Her skin was smoother than Chanchou’s own daughter’s. Her hair looked like a waterfall of silk. Her dress was bright, vibrant, and full of stunningly perfect patterns, better than the finest of craftsmen in Pale Moon Lake City, and new.
+
+The white streaks in her hair somehow only added to her elegance.
+
+She was thin and beautiful. Not a wreck from toiling in peasants' fields of the north.
+
+Chanchou glanced down, finding her own image in the water. The wrinkles. The pudge in the cheeks.
+
+She felt boiling anger start to swim up from her soul. That… that was impossible—
+
+“Ah, hello, Father,” Zei Qi’s gentle, elegant voice greeted them. “I see you got my message. My, my, such a fast response. Are you so eager to see your daughter again? Please come and sit down.”
+
+She was mocking Father to his face, as she rose, placing the guzheng down without a single tremor in her hands. She moved to her own seat without a hitch, sitting beside the peasant… what was his name? Her husband. The peasant magistrate.
+
+Father stared at Zei Qi with cold eyes. “You have guts, daughter, to dare threaten me, and then try and take refuge here. You have made a grave error.”
+
+“Ah, have I?” Zei Qi asked innocently, tapping a plump red lip with her fan, before opening it to shield the bottom of her face. A lone cloud, high in the sky, stared back at them.
+
+You are beneath me, her fan arrogantly proclaimed.
+
+Father barked out a laugh at that.
+
+“Your arrogance is amusing, daughter.”
+
+Chanchou’s husband similarly snorted. “You dare call me a eunuch, and yet you let your wife do such outrageous things. You should show her the back of your hand,” he directed contemptuously at the peasant.
+
+“Lord Wu lets his younger daughter do much worse things. Appointing my son to Special Inspector. Commanding the Auditor General into my domain. A gross breach of decorum,” the peasant Magistrate stated. His deep, rich voice was quiet, and yet the authority in it made Chanchou flinch. Her father and husband both twitched at the tone. “I would have been satisfied to never darken the doorsteps of your home again; I would have been content, a nobody in the north. But instead I have had to speak with the Lord Director of Civil Service Examinations for the Azure Hills. I came south prepared to do battle against the mighty Wu Clan for the grievous insults levied upon my family. It is only fitting that some of that insult is returned, no?”
+
+His words were calm and soft, yet somehow they did not make Father angry. Instead, they broke through his wrath, and made him for the first time wary.
+
+The Lord Director of Civil Examinations was not a name one threw around lightly.
+
+Father’s teeth ground. “Those are the words of a man prepared to burn all his power.”
+
+“Yes, they are. What person can call themselves a man if they are not prepared to make war against the world for the sake of their family? Shall we sit then, and discuss this like gentlemen?” came the riposte.
+
+Father looked at the seat in front of the man.
+
+Finally, he snorted.
+
+“Very well. I shall listen to your barking, dog,” Father said with a sneer. “But to make threats against the Wu means you are courting death.”
+
+“I am aware. And I am also aware the Wu clan is courting death. Really, now. The shipping guilds would be most upset if they were to learn about this,” the peasant magistrate said, pulling out a sheet of paper.
+
+Father and her husband both froze. Both men looked at each other… and begrudgingly sat. Chanchou, her legs shaking, sat too. Her eyes kept flicking to her sister.
+
+Zei Qi did not even spare her a glance.

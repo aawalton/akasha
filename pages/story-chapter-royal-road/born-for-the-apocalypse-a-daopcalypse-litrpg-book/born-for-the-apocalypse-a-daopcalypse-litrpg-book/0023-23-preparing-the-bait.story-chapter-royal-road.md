@@ -1,0 +1,173 @@
+---
+id: cf96459a-b220-5aa0-9a82-70045275a8d4
+page-type-slug: story-chapter-royal-road
+title: "23: Preparing the bait"
+slug: 0023-23-preparing-the-bait
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 23
+ownLength: 1729
+unit: words
+publishedAt: 2024-11-05
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1886261/23-preparing-the-bait"
+royalRoadId: "1886261"
+---
+
+23:
+
+[You have slain a Level 3 Rift Goblin Assassin. You have received 422 Soul Experience!]
+
+[You have slain a Level 3 Rift Goblin Assassin. You have received 431 Soul Experience!]
+
+[Congratulations, Class: Swordsman (Basic) has reached level 5! +5 Free Points, +1 Qi Pool has been awarded. ]
+
+[Congratulations, you have been awarded a new skill: Qi Projection (Lv.1)]
+
+The ingrained instinct he had come to associate with a new skill flowed into his mind at a pace that was faster than ever before and Jack had barely registered the process before it was over.
+
+The set of instructions that had been registered in a neural pathway were now something he could call upon like he’d spent years practising the ability to project Qi outwards of his immediate sphere of control without it deforming easily.
+
+The Qi Projection skill had been downloaded into his mind and had it been at any other moment, Jack would’ve spent time marveling at the plethora of tactical options the skill had unlocked for him.
+
+Instead, Jack ran towards Sarah, only to be greeted by an unexpected sight.
+
+Sarah was unarmed as she ran away from a rift goblin who was giving her chase, her spear nowhere to be seen upon her person. Tom’s gaze shifted to the second rift goblin, which lay inert on the ground, a spear having penetrated through its skull and come out the other end, painting the ground in violet blood and viscera.
+
+Unfortunately for Sarah, that had also meant that the spear had been embedded in the poor Rift Goblin’s skull and it seemed like its comrade in arms had taken advantage of that fact.
+
+“Sarah!” Jack called out as the second Rift Goblin got closer to her, it’s dagger held in a reverse grip with the blade pointed in her direction.
+
+Sarah’s gaze snapped towards Jack, the panic within her gaze held at bay by a steely determination to survive as she gazed at him with clarity.
+
+She only hesitated for a moment before she angled her upper body forward, bending her knees before kicking off with all the strength she could muster. Which was a decent amount, considering that she had specced points into strength.
+
+As Sarah tumbled into a bed of grass next to him, Jack took the initiative to throw himself into combat with a sweeping arc of his blade.
+
+The Rift Goblin Assassin only just about managed to control the momentum behind it’s charge and block the strike with the dagger.
+
+It was sent stumbling back a few steps, the force behind Jack’s strike causing the dagger to nearly vibrate out of it’s grip.
+
+“I’m strong enough, am I?” Jack asked the Rift Goblin with a snarl. “Not yet,” Jack said, as he grit his teeth and issued the system a command.
+
+Put all five free points into strength.
+
+A golden spark was ignited in Jack’s Dantian, dyeing it golden for a few moments as his muscles began to writhe and spasm. The Qi that was touched by the golden glow was dispersed to every inch of his body through the venous network that he now knew as the Meridians, thanks to his newly acquired Qi Projection skill giving him that tidbit of information.
+
+The itch had returned stronger than before, but Jack bore it without flinching. It was uncomfortable, but there was no pain and now he knew that the process was entirely beneficial to him.
+
+Sure enough, it ceased just as the Rift Goblin Assassin committed to a second, angry charge that was accompanied by a “Grrak!”
+
+This time would be different.
+
+Jack tightened his grip around his blade, flexing his right arm’s muscles. He could feel the strength contained within, now that he had hit a total of fifteen points in the strength stat.
+
+He swung his blade to meet the Rift Goblin’s charge, finding himself unsurprised by the creature’s swagger in challenging him again, now that it had reinstated a normal grip over its sharp dagger.
+
+It had taken a gauge of Jack’s strength and had no reason to believe that parameter had changed.
+
+Their blades clashed.
+
+“Urk!” A pained grunt escaped the Rift Goblin as it’s dagger wielding hand was blown backwards, a muted crunch sounding out as the creature finally relented in it’s instinctive desire to hold on to its blade.
+
+That didn’t make its wrist any less broken, but now the creature was wounded and disarmed.
+
+Jack had iron in his gaze as he shifted to the hasso-no-kamae or high guard stance, his sword pointed high towards the skies. If you encounter this narrative on Amazon, note that it's taken without the author's consent. Report it.
+
+“Kesagiri,” Jack whispered as he brought his sword down in a brutal diagonal cut that was empowered by his newfound strength.
+
+The threat of the descending blade was enough to rouse the Rift Goblin from it’s reverie, the creature seemingly not being used to getting disarmed.
+
+It tried to retreat, to scamper backwards in an effort to preserve it’s life, but Jack’s blade was already there.
+
+The Rift Goblin’s two bisected halves slicked away in opposing directions, drenching Jack in a spray of violet blood.
+
+He didn’t— no, he refused to flinch.
+
+Whatever the creature’s motivations were, anything that ambushed him had to die.
+
+Panting, Jack realised that he’d spent more stamina than he’d thought. Wearily, he turned his gaze to Sarah.
+
+“Get your spear,” Jack said. “Then we’ll get to looting these Rift Goblins and see if we can scavenge something useful.”
+
+A largely spent Sarah looked like she was on the verge of tears, only for her gaze to harden as she nodded at Jack and once again found the strength to stand.
+
+They’d won the battle, but the war was still ongoing. Jack didn’t try to peek from behind the cover of the tree, instead choosing to inspect his sides and the opposite direction to see if the archer was trying to flank them.
+
+His heart was still hammering in his chest, the adrenaline from his previous battle not having faded yet.
+
+Would the archer simply cut its losses and retreat or was it vengeful enough to come after them for vengeance? It was cunning enough for both.
+
+But first, Jack needed to claim his loot.
+
+[You have looted the following items from Rift Goblin Assassin x3:
+
+Goblin-Make Armored Tunic (Uncommon, Qi Gathering Stage)
+
+Goblin-Make Poisoned Dagger (Uncommon, Qi Gathering Stage)
+
+Goblin-Make Metal Helm (Common, Qi Gathering Stage)
+
+Greater Recovery Pill (Adept rank alchemical pill)
+
+1151 Tutorial Points]
+
+Jack didn’t think that he’d ever get used to pulling things out of a tear in the void, but for now he couldn’t care less about its mechanics as he pulled out a Greater Recovery Pill.
+
+He already had one of his own, so this one would go to Sarah.
+
+“Here,” Jack offered. “It’s an upgraded version of the Recovery Pill. Don’t hesitate to use it if you suffer a serious wound.”
+
+“You sure?” Sarah asked, her tone tinged with surprise.
+
+“Yeah, I’ve already got one on me,” Jack replied, as he scanned their surroundings without peeking behind cover to prepare for a possible flank.
+
+“Thank you,” Sarah replied, her tone quivering with emotion. “Truly, thank you.”
+
+“Thank me if we survive this,” Jack replied, as he reached for a tear in the void again, pulling out the Armored Tunic he had received for killing one of the Rift Goblins.
+
+Jack held it before him, giving the piece of equipment an odd look as he activated his level 4 inspect.
+
+[Goblin-Made Armored Tunic, Qi Gathering Stage Artifact (Uncommon)
+
+Requirements: 6 STR 5 DEX
+
+Description: This chest piece was crafted with the aid of a Rift Goblin Shaman for a Rift Goblin Berserker. The base material used is a variety of leather that appears to be both durable and flexible, on top of which a metal chainmail has been overlaid. The armor exhibits strong resistance to slashing attacks, medium resistance to stabbing attacks and mild resistance to Qi Empowered Attacks.
+
+Artifact Ability: Generate a halo of Qi that empowers the chainmail, granting it medium resistance to Qi Empowered attacks.. Channel 1 Qi Point into the Goblin-Made Armored Tunic for every second the shield is active. Shield can negate Basic Qi Empowered attacks for its duration.
+
+Requirements met.]
+
+It was not the description itself that threw Jack off, but rather, the armor’s size. The system’s translations had been spot on so far, but while it called the Goblin-Made Chest Piece a tunic, it didn’t even reach his waist.
+
+Moreover, it was far too narrow for him to have any hope of wearing it.
+
+“Sarah, do you think you can use this?” Jack asked.
+
+“It’s armor,” Sarah replied. “If you’re willing to part with it, I’ll make it fit. I can buy something of the store for you in exchange, if you want,” She offered, her voice tinged by desperation.
+
+Jack had underestimated how vulnerable she had been feeling without armor of her own to protect her and he couldn’t blame her. A single lapse in concentration and she could die. While there was no guarantee that chest armor would change that reality, psychologically, it could make a world of difference.
+
+“Take it,” Jack said, as he tossed the surprisingly light armored tunic in her direction.
+
+He then pulled out the helm.
+
+[Goblin-Made Metal Helm, Qi Gathering Stage Artifact (Common)
+
+Requirements: 3 CON, 2 DEX
+
+Description: An ordinary metal helmet crafted for the average Rift Goblin.
+
+Requirements met.]
+
+The helmet was way too small for either him or Sarah, but the gears in Jack’s mind began to turn as a potential use struck him.
+
+His gaze turned upwards, towards the lowest hanging branch on the Anarix Tree he could find.
+
+From there, he leapt to a higher one, just in case they needed to climb the tree later on, hanging from it by a single hand.
+
+Using his sword, Jack began to hack away at the branch he was hanging out of, his own weight helping him cut through the ridiculously robust branch.
+
+It gave in merely a minute later and Jack fell down, finding it no challenge to land upright on his feet.
+
+Scooping the helmet up from where he’d left it on the ground, he slotted it into the freshly cut end of the branch.
+
+His bait was ready.

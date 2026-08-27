@@ -1,0 +1,181 @@
+---
+id: 7527c251-f7d3-52c2-b78a-b3819ae31a91
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 - Bunny"
+slug: 0002-chapter-4-bunny
+partOf: bookbound-bunny
+position: 2
+ownLength: 2540
+unit: words
+publishedAt: 2025-01-26
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2030611/chapter-4-bunny"
+royalRoadId: "2030611"
+---
+
+Lily sighed somberly as she watched the other children play. She was carefully seated in the shade of a tree to protect her extremely fair skin. Nowadays, they didn't even try to persuade her to join them anymore; they had long given up after numerous attempts that either had her collapse when she tried to keep up, or they had to slow their pace far too much for their liking. Her long bunny ears drooped in disappointment.
+
+As if her frail constitution and antagonism from the sun weren't bad enough, she was severely underdeveloped for a girl her age. Her limbs were too short, and she had stubby fingers; she felt more like a Gnome out of some fairytale than a Lagia. She enviously watched the other Lagia run circles around the other children. Supposedly, her mom was a great adventurer, as was traditional for her kind, and in her darkest moments, Lily couldn't help but wonder if she regretted having her.
+
+Like the other kids here, Lily was an orphan, but they were given a much more optimistic position against the norm of poor and underfunded facilities. This orphanage catered to the children abandoned by high-profile individuals and, most notably, to adventurers who either refused to settle down or, unfortunately, died in the line of duty. Lily's mom was wounded while pregnant with her, and a premature birth was forced. She traded her life to save Lily's, and her father, outraged and grief-struck, left; never to be seen again.
+
+If Lily had even half her mother's potential, she would have received a wonderful education as a future adventurer, hunter, or scout for the army. Lagia were renowned for their speed and agility. If she were born of a different race, she'd have other opportunities, like Rose, who would be sent to magic school in two years.
+
+Rose was her "older sister" here at the orphanage. She was a mighty Dragia with beautiful red scales decorating her limbs, and a fiery personality to match. Dragia, unlike Lagia, were mighty in physical strength and magic, as their dragon heritage gave them much in life. Lily couldn't help but be jealous in her weaker moments, as her heritage only gave her some "cute" rabbit ears. If Lagia at least had magical blood, she would have had an option to fall back on, but fate was not so kind.
+
+Non-humans had become a majority of the population, and it seemed like a new half-race was discovered almost every decade or two. The broad races were eventually called Demihumans, later shortened to Demis, for everyone's convenience. Despite Lagia and Dragia both falling under the Demi umbrella, the difference between them couldn't be further apart!
+
+Lily was suddenly startled as she heard one of the orphanage staff approaching from behind. Her head swung around in a bit of a panic to be met by Margit's kind and motherly face. Lily instantly relaxed.
+
+"Sorry for giving you a fright, Lily." Margit apologized.
+
+"It's okay, Margit," Lily replied.
+
+"Have you thought about what type of education you want?" Margit asked before looking a little somber. "I hate to keep asking, but rather one you at least partially like than something forced upon you."
+
+Lily had been avoiding answering them for as long as possible. She kept hoping something would happen, that she'd get an unexpected growth spurt and be able to follow in her mother's footsteps.
+
+"I don't know... Do you have any suggestions for me?" Lily asked.
+
+"Well... What about getting into crafting, baking, or something creative? Those can be fun." Margit asked.
+
+Lily's ears drooped as she thrust her hands forward and wiggled her stubby fingers in front of Margit. "With these hands?"
+
+"You used to draw all the time when you were younger... Your charcoal sketches," Margit remarked.
+
+Lily frowned. "Not since they took away my mom's book."
+
+She had inherited an old book from her mother and scribbled inside it until it was taken away from her. It was supposedly something she had found in her last adventure.
+
+Margit sighed, remembering the situation. There had been some kerfuffle around the book, which had been taken away to prevent the child from "ruining precious paper"—or so they had said at the time. Honestly, it should never have happened, as the only time they ever took away a parent's belongings was if it was deemed too dangerous and kept until they were older. You could hardly give a child a deadly weapon, after all.
+
+"Well, at a minimum, I'll sign you up for reading, writing, and mathematics," Margit said, trying to give her best reassuring smile. “That would open considerable doors for you in the future."
+
+"I suppose..." Lily said reluctantly.
+
+***
+
+True to her word, over the next few days, Lily found herself in classes for the subjects Margit had suggested. She hated math, found the reading okay, and surprisingly really enjoyed writing. The classes were given small blackboards and white chalk to write with. Lily jumped a little ahead of her peers with letters and numbers, and used the extra time to doodle in the corners of the board.
+
+After a handful of months of lessons, it dawned on Lily that she was potentially at the top of her class for her age group—except for math. When she spent time with Rose, she also lamented how horrible math class was, and both agreed that it seemed useless—unless they became merchants.
+
+One day, Margit approached Lily in her room and handed her a familiar-looking book. "Mom's book!" she exclaimed in surprise.
+
+"Since your writing is going so well, I encouraged others to look into finding it," Margit said softly.
+
+Lily immediately grabbed the book with both hands. Its large size was quite cumbersome to hold and carry around, but it was surprisingly light despite its proportions.
+
+She clumsily tried to open it, and it did so easily. Lily immediately spotted some of her familiar charcoal scribbles. Strangely, nobody else had written in the book, and no matter how many pages she flipped through, the rest were all blank.
+
+"Why did they even take my book...?" Lily asked expectantly.
+
+"They thought it might have been a grimoire, due to the cover," Margit answered.
+
+"Grimoire?" Lily asked, unfamiliar with the word.
+
+"A magic book," Margit answered. "They claimed it couldn't be opened. Then, they took it to an appraiser who said there wasn't even a hint of magic in the book."
+
+Lily frowned. It sounded crazy. Why did they put so much time and effort into her book? It was completely blank, and she had no problems opening it herself. As if not believing Margit, she began to open and close the book repeatedly. Margit chuckled and held out her hands for Lily to hand her the book, which she did. Margit then tried and failed to open it.
+
+"See. It won't open for me." Margit said, even putting some strain and emphasis on proving she wasn't just pretending.
+
+"So it is a magic book?" Lily asked.
+
+Margit shook her head as she handed it back. "I'm not sure. The pages are blank, but only you can open the book. Apparently, they even tried to burn it, but nothing happened."
+
+Lily gasped and clutched the book tightly. She couldn't believe they tried to burn her mom's book.
+
+Seeing her worry, Margit gave her a soft pat on the head, being careful not to be too rough with her bunny ears. "Don't worry, little one. It's back with you. I've confirmed it's empty, and I'll tell them such, but I assume they might send someone to confirm. Just show them it's empty."
+
+"Thank you..." Lily murmured, still clutching the book.
+
+Margit smiled and pulled out five freshly sharpened pencils from her belt pouch. "For you to practice writing and drawing with, now that you've got plenty of paper. If you keep improving at this rate, you'll get to write with ink in no time."
+
+Lily's eyes widened; she couldn't believe that. From what she knew, ink was super expensive. But if she continued working hard, they would give her some.
+
+Margit chuckled and asked to see some of her old drawings. Lily happily showed her, and after seeing them, Margit paused and asked if she could have one. Lily immediately agreed and tried to tear out a page, but it wouldn't budge. Margit also tried to remove the page, but the paper seemed indestructible to the two of them.
+
+"Sorry, Margit," Lily said.
+
+"Don't worry about it. I'll just have to bring my own paper next time." Margit reassured her. "Now, why don't you show me all the letters and numbers you can remember."
+
+Lily beamed as she lifted the book onto her bed and opened it to the next blank page. There, she began to write carefully with her new pencil as if it were the most fragile thing in the world.
+
+***
+
+"So, is this the famous magic book?" Rose asked curiously, running her scaled finger down the book's spine.
+
+"It's not magic..." Lily refuted.
+
+Rose tried to open the book and failed. She shrugged and handed it to Lily. "Seems magic to me? Nobody but you can open it."
+
+Lily frowned and opened it. "If it was magic, it would be more than blank pages."
+
+Rose smiled before ruffling Lily's hair. "Just because it's not some flashy spell doesn't mean it's not magic. You've got your own secret diary!"
+
+"I'd rather be able to make fire like you..." Lily grumbled.
+
+"Well... You could just ask me." Rose winked, snapping her fingers and making a tiny flame flicker above her index finger.
+
+Lily stared enviously at the tiny flame before it poofed out.
+
+"Maybe you can be my secretary or assistant?" Rose said, pointing towards Lily's gradually neatening handwriting on the pages. "You should see how horrible my chicken scratch is."
+
+"You're exaggerating..." Lily tried to brush aside the praise.
+
+"No, really. I was told if I don't improve, then they won't let me into magic school."
+
+"They can do that?" Lily asked, shocked.
+
+"Apparently..." Rose said with a shrug. "Drawing and writing neatly is important for magic stuff? Or so I'm told..."
+
+"But..."
+
+"I guess I could just give it up and punch stuff, instead," Rose said, flexing one arm.
+
+"Don't do that. Imagine all the cool things you could do with magic."
+
+"Yeah... You're right... But math..." Rose grumbled.
+
+"Yeah... Math..." Lily agreed.
+
+***
+
+Like Margit had said, another adult came one day to examine the book. Judging by his hat and outfit, Lily had to assume he was some sort of wizard. He only lacked a big poofy beard, or he would've looked straight out of a storybook. Thankfully, he came at a time when Rose was visiting, and he was also supervised by Margit. After finally getting her mom's book back, she was extremely reluctant to let it go again. He politely asked to see it, but as usual, he couldn't open it. Lily had no idea why she was the only one who could open the book.
+
+"Would you mind opening it for me, please?" He requested.
+
+Lily did so and revealed the book's plentiful pages. Despite how much she wrote or drew in it, she almost felt like it would never run out.
+
+"Remarkable... I would've said it's some bloodline seal or something, but I cannot sense any magic from it." The man muttered to himself.
+
+He began a soft chant, and the palm of his hand shone with magic. He touched the book gingerly, and his eyes lit up. This was real magic! Lily held her breath and noticed that Rose had also. It made her little finger flames look humble in comparison.
+
+"Even a direct spell on it says it's mundane. And I can see the pages are blank and contain no arcane secrets..." He continued to murmur.
+
+Against Lily's expectations, he politely bowed to her and thanked her for letting him see her book.
+
+"I've confirmed it's neither magical nor dangerous. While its locking is a mystery, I can't see any reason why it shouldn't be with the heir." He informed Margit, who smiled happily and started to escort him out. She gave Lily a friendly wink before she left.
+
+"Seems like everyone wanted your book," Rose said.
+
+"It's weird, right?" Lily asked. "I don't see anyone trying to steal Tim's enchanted sword. They even let him keep it early after they locked its sheath."
+
+"Yeah. Even if paper is expensive, there's no way it's worth more than an enchanted sword." Rose agreed.
+
+Lily hugged the book tightly. It was all she had left from her mother.
+
+"Don't worry. If anyone messes with you or your book, you come to me, and I'll beat them up for you." Rose said protectively.
+
+"Thanks, Rose..." Lily said meekly.
+
+***
+
+Arakil felt very cold, tired, and weak. Something was wrong. He had completely lost track of his sense of time and couldn't even open his senses anymore. Whatever they'd done to his seal this time, had been far more effective than he realized. It felt like he'd lost an eternity of time, and worst of all, it was like someone had taken a sledgehammer to his mind; even his memories were in pieces.
+
+How long had it been since he was in this form of stasis, and why had he only awoken now? It was a question on which he lacked the mental faculties to begin formulating a hypothesis. All forms of enchantment he had done on his book seemed dead, dry of even the tiniest drop of Mana. What had happened to the world- no, the universe? Even if he was abandoned in some Mana-barren hellhole of a world, Mana was a constant.
+
+He felt what might have been the tiniest trickle of Mana into his pages; he believed he was currently open. So he wasn't in a barren world? But what could have possibly happened for Mana levels to drop to an amount this pathetically low? It boggled his mind, and he tried his best to ignore it and conserve his strength. He needed to take any opportunity available while open to gather what little Mana he could until he was minorly operational. Then, perhaps he could work together with whoever was his current owner once they formed a method of communication.
+
+His telepathy spell was broken beyond repair, utterly starved to death. He felt the faint sense of something touching his pages; was it writing? The rhythmic motions felt vaguely in that category. He certainly hoped so because if this was some species that didn't have a language, he felt utterly doomed. He'd need to bide his time, regain some sense of self whenever he was opened, and then, assuming it was writing or something similar, try to decipher if it was a language.
+
+It gave him some fleeting hope in the dire situation. He had plenty of experience learning languages; he was practically a polyglot after all the ones he had to learn for some obscure spell or ritual. Fighting against his emotions to stay awake, he instead put himself into a meditative trance to preserve and focus on gathering what little Mana he could.

@@ -1,0 +1,125 @@
+---
+id: 064e07b0-f074-5240-9b8f-f43a72ddd64b
+page-type-slug: story-chapter-royal-road
+title: "114. Double Desperation"
+slug: 0114-114-double-desperation
+partOf: breaker-of-horizons
+position: 114
+ownLength: 2248
+unit: words
+publishedAt: 2021-06-03
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/693138/114-double-desperation"
+royalRoadId: "693138"
+---
+
+The party's late lunch was a rather subdued affair, although it had nothing to do with the quality of the food. There were foldable chairs cleverly stashed in various niches in the trailer, so they set them up in a loose circle near the make-shift kitchen and enjoyed the simple but delicious meal in relative silence, except for the occasional remark about the weather, or their surroundings. Their attention was mostly focused inwards as they took the time to process the events of the morning. When they were done they were content to sit there, empty plates in hand, each lost in their private contemplations.
+
+Jerric was the first to break the silence. "Alright," he said finally, setting his plate on the floor. "We should take stock of our current situation and figure out our next steps. We've made it out of Geldor and we've successfully lost both our security agents and the enemy agents, but will we be able to keep them off our scent? Ambrose, you wanna fill us in on that?"
+
+"Lynus' concealment trick won't work against the enemy agents anymore," Ambrose supplied, still rather subdued, and lacking the fire and determination he showed when they were escaping the manor. He looked up at Lynus. "It works by taking the sample of the ambient arcana in an empty space, and then filling a whole pre-defined area with an impression of it, right?"
+
+Lynus' expression was a mixture of annoyance and respect. "Yeah. It's still scary how you parsed it so completely in the middle of battle. What was that thing you were doing when you copied it and took over when we were driving?"
+
+Ambrose gave a brief smile. "Your version was too clean at the border between the ambient arcana and the interior of your envelope. It's like a hairline crack in the arcana that you can spot if you're looking for it. Good for a makeshift shield against an—"
+
+He stopped himself, shook his head, then continued. "I used Devon's fuzzy barrier idea to make the border less obvious."
+
+"Hold on," Kevan said sharply. "What were you about to say?"
+
+Ambrose glanced at him, then looked at Lynus steadily and shrugged. "It's your envelope, Ly. You know how it works and what it was meant for. You wanna explain, or shall I?"
+
+Devon looked from Ambrose to Lynus, then at the others. "I'm missing something here, aren't I?"
+
+Lynus shot an angry look at his brother, who returned a confused but defiant stare. "What's he talking about, Ly?" Kevan demanded.
+
+"I used it back when we were in the Spire to stabilise myself against the augera's presence," Lynus said through gritted teeth, avoiding everyone's gaze. "Jerric and Devon saw it. What's the big deal?"
+
+"I don't know, you tell me!" Kevan challenged. "If it's not a big deal, why're you acting so cagey?"
+
+When Lynus refused to answer, Ambrose let out a sigh. "Do you want me to say it?"
+
+"No," Lynus snapped, twisting his hands in agitation. "I'll do it. Just give me a sec."
+
+He got up and started pacing for a few seconds before settling himself back down in the foldable chair. When he spoke, he directed his words at the floor. "When Kev and I ran into the professors duelling and saw what happened, it occurred to me that since we're bound by Prophecy, then we'd probably eventually end up in a situation like theirs. They both knew exactly what was going on, but they were literally forced to act out their parts regardless of their personal desires. The Prophecy was strong-arming them into doing things."
+
+The agitation and anger in him had bled out completely, and now he simply looked exhausted. The more he spoke, the softer his voice got. "We've mostly seen the Prophecy work with probabilities that match our inclinations. Kev and I have got a personal stake that it's using to set us in opposition to some of you. The rest of you are similarly bound. But if we keep pulling at it like this, I think we're eventually going to corner it until there are no more gentle nudges it can use. It'll have to force us into some choices. And if that ever happens, I wanted to make sure I'd be able to... to make at least one choice by myself. One last choice."
+
+Ambrose was nodding grimly, but the rest looked confused. Caden was the only other person who seemed to have put something together. "What made you think it would work?" he asked softly.
+
+"Remember the prophetic links we saw in the Academy Spire augera's chamber, when the Demiurge was teaching us how to navigate in the arcana?" Lynus answered. "Later, I realised that it sort of means that even the ambient arcana is laced with prophetic links within a Spire's range. That's how their influence is so pervasive. So I thought if I could get a pure sample of ambient arcana somewhere, I'd be able to form a bubble that's free of their influence. It probably wouldn't last long against the pressure of the prophetic links, but I expect it'd give me maybe a second. And a second is all I'd need."
+
+"Sorry, hold up, I'm lost," Devon declared. "Can someone break it down?"
+
+Jerric's eyes widened. "I think I understand!" he said.
+
+A moment later, Emilia let out a soft gasp of comprehension.
+
+Kevan, however, still looked confused. Something about Lynus' manner was scaring him, and he found himself getting angry in response to not knowing what was going on. "What did you figure out, Ly? Just tell me!"
+
+Lynus shook his head, then folded his hands and resolutely avoided Kevan's eyes. He gave a curt nod at Ambrose.
+
+"Ly figured that the Prophecy doesn't only work via the links we know about," Ambrose said heavily, taking up the narrative. "The Spires seed it into the ambient arcana, so everything in the Empire is under the umbrella of prophetic influence. To be totally free, you'd need the links to be cut, but you'd also need a way to filter the ambient arcana around you, or it'll act as a channel of influence. His concealment envelope wasn't originally conceived as a way to hide auric-ambient-flares. It was meant to cut him off from the prophetic influence in the ambient arcana. But for that to work, he still needs a sample of pure ambient arcana from outside the Empire."
+
+"But it wouldn't work," Caden interrupted. "Not really. Even if you flood an envelope with this theoretical pure ambient arcana, you'd still be bound by prophetic links. How were you hoping to get around that?"
+
+"I don't know!" Lynus snapped. "I'm still figuring it out. Maybe you want to help me with that?"
+
+"What's this all for?" Kevan demanded, growing suddenly cold, though he didn't yet know why. "And why haven't you told me anything about this?"
+
+"Kev," Caden said gently, turning to him. "He... he's figuring out how to stop himself from doing something against the Prophecy if it ever forces him to take an action he truly doesn't want to."
+
+"Isn't that something we all need to know? But what good is it if it only lasts a second?" Kevan asked, looking from Caden to Lynus.
+
+Caden shook his head. "Kev... Ly's solution isn't something that allows you to ignore the Prophecy whenever you want. It's something you can do only once. To yourself. You end the Prophecy's influence on you by removing yourself from the equation."
+
+It finally clicked for both Kevan and Devon. The young lord took in a sharp breath while Kevan turned in mute horror to his twin.
+
+"That's why you only need a second," he whispered. "In that one second of freedom, you..."
+
+"But it won't work," Caden said firmly. "You'd need to cut both the prophetic links and create the envelope at the same time. I'm pretty sure each will act to restore the other, so it has to be in the same instant. I don't think it's something you can even do by yourself — it has to be done to you, or for you. My father learned that the hard way with his orbs."
+
+Kevan leaped to his feet. "That's it? It won't work, so that's alright?!"
+
+He stormed over to Lynus and shoved him, sending his twin tumbling backwards over the chair, which went flying. Lynus sprang to his feet with a snarl and shoved back, but Kevan grabbed hold of him and pulled. The two of them fell to the floor in a tangle of limbs, each trying their best to beat the other into submission.
+
+The rest stared in shock for a moment before Ambrose and Caden jumped in to intervene. In a purely physical contest, neither of them would have been a match for the twins who were both more athletic, but their mastery over arcanic-assisted movement allowed them to prise the brothers apart and subdue them. To the credit of the twins, even in their anger, neither of them had resorted to using arcana. Once they had been separated, they allowed themselves to be hauled away. Caden pulled Kevan to the edge of the empty lot near the treeline, while Ambrose firmly parked Lynus at the front of the trailer.
+
+Kevan stepped off the tarmac and flung himself down on the grass with his back against the nearest tree, burying his face in his folded arms. Caden approached cautiously and was mortified when he realised that Kevan was crying, though he was trying resolutely to keep most of it in. He didn't know what to do, so he simply hovered awkwardly nearby to make sure that Kevan didn't bolt or do something rash.
+
+From where he stood, Caden could see Ambrose, Jerric, and Devon talking to Lynus. More accurately, Devon was doing all of the talking — he was a little red-faced and was jabbing his finger at Lynus every so often to punctuate a point, and he looked fiercer than Caden had ever seen him before. Ambrose and Jerric looked a little surprised at the sheer intensity Devon was exhibiting, but they were nodding along in agreement with whatever he was saying.
+
+Emilia was walking very slowly towards the two of them, but her steps were deliberate and she wore an expression of determination. Her pace was so slow that it took her almost two minutes to reach the spot where Caden and Kevan were, and in that time Kevan's strangled sobs had evened themselves out a little.
+
+"Thank you, Caden," she said as she covered the last few steps, coming to stand in front of Kevan, who still had his face hidden in his arms.
+
+"Don't mention it," he replied sheepishly. "I'll leave you two to—"
+
+"No, stay," came Kevan's muffled voice.
+
+Caden's eyebrows rose and he shot a questioning glance at Emilia, who shrugged nonchalantly and nodded.
+
+"How can I help?" Caden asked, trying not to sound awkward and uncomfortable.
+
+Kevan drew in a deep breath and finally looked up. His eyes were red, but he seemed to have calmed down considerably. "We haven't been on the best terms," he said, sniffling a little, "but I... I want to ask a favour."
+
+"A favour?" Caden repeated apprehensively.
+
+He nodded, wiping his nose on his sleeve. "We're all getting involved in shit that's way over our heads, but you and Ambrose seem to have a handle on all this. More than the rest of us, anyway. And you're the one with the ridiculous ambition of breaking that prophecy over your sister, and the big one that your father is involved in."
+
+"That's a weird way to start asking for a favour," Caden observed dryly.
+
+Kevan gave a weak smile. "It is ridiculous. Bloody crazy. But that's why I'm asking you. If things ever get to a point where Ly... where he'll want to..."
+
+He broke off and looked away, his lower lip trembling. After he drew in a deep, shuddering breath, he turned back to Caden and plouged on. "If you figure all this shit out, please don't let that kind of thing happen to him. I'm still not on board with you messing with Prophecy in a big way, like freeing people from it, and I'm sure as hell not sure about freeing the augera. But if that kind of stuff is on the table, it probably means you'll also figure out how to modify prophecies, and I'm asking that you tweak it just enough to make sure Lynus never has to make that kind of choice."
+
+There was so much internal contradiction here and, in Caden's view, hypocrisy, that he didn't know exactly how to respond. He blinked and glanced at Emilia, who was looking steadily back at him, then looked back at Kevan, who was looking quite pathetic after all that crying.
+
+"Kev, if you believe so much in the integrity of prophecies, why are you asking me to do that?" Caden asked.
+
+"I don't know," he admitted, his shoulders slumping. "I don't know what I think anymore. I just want things to work out for us, and for our dad, and for it to not cost a whole Empire. Is that so wrong?"
+
+"No," Caden said, coming close enough to clap a hand on his shoulder. "I can understand that."
+
+"So you'll do it?" Kevan asked hopefully, looking up at him.
+
+"It's ridiculous," Caden replied with a half-smile. "But I'll try."

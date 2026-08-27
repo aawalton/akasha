@@ -1,0 +1,149 @@
+---
+id: 7d5156b1-b81d-5a69-9066-e54c5c6b52bb
+page-type-slug: story-chapter-royal-road
+title: "51. Reviving Volition"
+slug: 0051-51-reviving-volition
+partOf: breaker-of-horizons
+position: 51
+ownLength: 2981
+unit: words
+publishedAt: 2020-10-26
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/574758/51-reviving-volition"
+royalRoadId: "574758"
+---
+
+A heavy silence fell over all of us following the augera's pronouncement. Kevan even looked afraid, though it was far too late for that now.
+
+It was taking all my self-control to keep my anger in check. "Why'd you do that?" I demanded, rounding on him.
+
+"It told us to," Lynus replied in his brother's place, coming to stand next to him.
+
+"And you blindly follow whatever some unknown arcanic being tells you to do?" I snapped, directing this at both the twins. "Do you even know what you've done?"
+
+"No more than what you did to me!" Kevan snapped back. "Or to Ambrose! Yeah, don't think I haven't figured it out. You did it to him, and that's what landed him in the infirmary for two weeks!"
+
+That brought me up short, but I rallied. "Oh yeah? If you've figured out so much, then tell me, what exactly did you do?"
+
+"We just made the others aware of the augera, that's all." Lynus was striking a more conciliatory tone than his brother, but it was clear that he didn't appreciate the way I was talking.
+
+"That's all? Well if that's all, then we have nothing to worry about, is there?" I said, throwing my hands up. "We can ignore what we just heard because it's just the harmless side-effect of the others being made aware of the augera!"
+
+"If you know so much, then maybe you should've told us instead of keeping so many secrets," Kevan spat, pointing an accusatory finger at me. "Still want to keep them? Or are you finally ready to speak up? Because obviously there's something here that involves the rest of us too, not just you and the Chosen One."
+
+"Don't you think I'd have told you if I could?" I clutched at my hair in frustration, thinking back to what had happened with my father. "There are consequences to just knowing things!"
+
+Kevan gasped, smacking his forehead in a parody of realisation. "Ah, so he was protecting us! Who would've thought? It was so obvious, wasn't it, Ly?"
+
+"He was, actually," Ambrose said quietly. "Or at least, he was trying to. But I'm not sure if there was ever much chance of him being able to stop this from happening."
+
+"What do you mean?" Devon was shaking slightly, but his voice was steady. "He's free from prophetic links, isn't he? That means he can act outside of the Prophecy's influence."
+
+"He's what?" Kevan said, turning to look at me, this time without any contempt.
+
+"You two, or three, rather," Jerric amended with a nod at Emilia, "might as well know now. We're all basically bound by prophetic links that nudge and guide our actions to bring about the fulfilment of prophecies, whether minor or major. The augera is the thing that makes all of this possible. We were already subject to its influence before, but now that we have been ensorceled and given this particular bit of knowledge, this personal, intimate understanding of what it is, we are even more tightly bound by it. Caden, however, is free of all prophetic links. He is completely outside the direct influence of prophecies."
+
+"How did that happen?" Lynus asked.
+
+"I don't know if it's safe for you to know yet," I answered flatly. "Maybe now you can appreciate that a little more."
+
+"Can we also be made free?" Emilia asked.
+
+"Yes," I said heavily, "in theory. I can free others. But it might kill them."
+
+Ambrose nodded. "Exactly. So... short of exercising your free will to cut the links and potentially kill us, I don't think there was any way for you to prevent this." He turned to Kevan and Lynus. "What exactly has the augera told the two of you?"
+
+Lynus glanced at Kevan, who gave a reluctant nod, before answering. "It identified you as the Chosen One of a Major Prophecy that is going to shape the future of the Empire. And it said you would need help to do that, which is why we had to ensorcel the others."
+
+"Not technically wrong, but also not the whole truth. I can understand why you thought it was a good idea to listen to it," Jerric said, giving me a meaningful look. Of all people, Jerric was the one signalling to me to cut Kevan some slack.
+
+Emilia frowned and crossed her arms. "Knowledge is both key and shackle. Yet a few of you who had more information, and who withheld it out of fear of binding others, have still inadvertently caused others to be bound. Seeing as how it led to the same outcome, perhaps it is best to share everything and work from a common base of facts. That way, our own ignorance cannot be used against us."
+
+"Do you know exactly what the Prophecy is? Did it tell you?" I asked the twins. They shook their heads.
+
+"Do the rest of you know?" Emilia looked to me, Devon, and Jerric. We nodded. "Well, perhaps that is a good place to start, then."
+
+We all turned to Ambrose, who pursed his lips. He sighed. "It... it doesn't sound good, guys."
+
+"At one point, it was public knowledge, along with your identity as the Chosen One," Emilia pointed out, "before Reeves wiped it from everyone else's memory."
+
+"... Yeah, but that doesn't mean it's something I should reveal again, unless absolutely—" Ambrose began.
+
+Emilia cut him off. "If the public has heard it once, and we did not all die or fall to pieces from emotional distress, I think we can stand to hear it again, don't you? Especially now, given the circumstances, with a voice in the arcana saying that we are pieces that have been set in place. We are already all bound. At the very least, we can avoid a repeat of what happened, when lack of knowledge led to the binding of others."
+
+It was hard to argue against her logic. Even Jerric was nodding along. And although I had misgivings, it was sensible. Ambrose hesitated a little more and then nodded.
+
+"Do we need to go back to the dorm to fetch the Prophecy?" Devon asked.
+
+Ambrose shook his head. "We really only need it as proof, but they already believe I'm the Chosen One." He took a deep breath and carefully recited the entire Prophecy, word-for-word.
+
+As before, I sensed prophetic links twirling around everyone, particularly making new attachments to the twins and Emilia. And once again, as with Devon and Jerric, even though the prophetic links were binding them, I realised there were gaps. They were not being completely wrapped up.
+
+Kevan had paled considerably. He looked Emilia to me. "You said... you said you're free from prophetic links. But you were only recently freed, weren't you?"
+
+"Why?" I asked warily.
+
+"Because the Prophecy had five people. Right there in the dorm. But then... then Emilia came in. 'Brought close'. It's because you somehow got free, isn't it?"
+
+Well, well, well. Not absolutely stupid after all. I had to bite my tongue to stop myself from saying that out loud, so I nodded gravely instead. "Yes... I only got free a couple of weeks ago. And I think you're on the right track — Emilia was probably drawn in to fill the gap."
+
+It seemed that Jerric and Devon hadn't really thought that much about it before either because they were now staring at her with a mixture of horror and pity.
+
+"What does that mean?" Kevan demanded. He gestured between himself at Emilia. "That this... this isn't real?"
+
+As much as I hated to admit it, a part of me was taking vindictive pleasure from this moment. After all the pain he had inflicted on others as a result of his callousness and abrasiveness, it was like some Fate-appointed payback was being delivered. But that also felt fundamentally wrong, being happy that someone he cared for had to be hurt. I found myself feeling sorry for him because I understood what it felt like to be manipulated into hurting someone you cared for, and then also doubting your own sense of agency.
+
+"No," I sighed, shaking my head. "It doesn't mean that. I think it just means she was already in a position to be brought closer. The potential was always there. It just didn't need to be used, since the Prophecy had other options. So that means... you and Emilia... well, it's not a bad thing. Not a fake thing. It's just a thing the Prophecy has decided to use, now."
+
+He didn't reply, but tears started spilling from his eyes. He clenched his fists and looked away. I couldn't quite bring myself to look at him either. Even Lynus was rooted to the spot. Emilia was the one who went to him, and she seized his hand.
+
+"This is real," she stated defiantly, looking up into his eyes. With a jolt, I realised just how short she was compared to him, and the rest of us, for that matter. Somehow she just felt tall. "It's real," she repeated.
+
+He sniffed once and nodded mutely, wiping his eyes on his sleeve. Emilia turned to me, a fierce expression on her face. "Caden, you're going to lay all the information you have on the table. My involvement with Kevan is genuine, but my involvement in the Prophecy is a direct consequence of your actions. If not for the fact that you were freed, and that you withheld information, I might have gotten into a relationship with Kevan and still not be entangled as the last person in this Prophecy. So you owe me that much."
+
+It was hard to marshal any sort of argument with her staring me down like that. But I agreed with her on principle anyway. And Emilia could prove to be a valuable ally in the effort to free the augera and change the terms of the Prophecy itself. Ambrose was right — it would have been impossible to stop the five members of the Prophecy from convening. My own removal and Emilia's insertion was proof of that. I might have been able to spare individuals from that fate by freeing them from prophetic links (and thereby possibly killing them), but the wording seemed iron-clad on that front — there would definitely be five people. I couldn't change that, even with my freedom.
+
+But changing the referent? Altering what happened to those five people? That was more conceivable. In fact, earlier when Ambrose mentioned how he had dispelled my sequences in the fight, new tantalising possibilities were spawned that could help on that front.
+
+"Alright. It starts with my sister. She was the subject of a minor prophecy that said, 'This daughter shall be your ruin.' It was delivered to my father. I made it my mission to come to the Academy to study arcanophany so I could find a way to unravel it. My father also began research into diverting or subverting prophecies so that my sister wouldn't end up doing something bad to him. That's what those orbs are — they shield him from the influence of the minor prophecy. But when he shielded himself, it didn't occur to him that the prophecy could adapt. The minor prophecy focused on me, and arranged things so that I really did get into the Academy, and I became Ambrose's roommate, where I was then bound by the major Prophecy around him."
+
+Laying it all out like this once again for the benefit of others was proving to be useful for me, even though this wasn't the first time because it helped me clarify some concepts in my own head, tying them together in cause-effect patterns as I presented them afresh to a new audience.
+
+"When I learned about the major Prophecy around Ambrose, I also understood, on a fundamental level, what it means to be bound by it. There were times when I was forced, against my will, to act in certain ways. And I was aware of it happening. Then, I got in touch with my father, and in an attempt to help me, he convinced me to ensorcel him to pass him that knowledge. But this was before either of us understood how damaging that could be. In the end, my own actions bound him to the major Prophecy's influence. It was the result of my sister's prophecy, making use of me to bind my own father to the major Prophecy because it seems that it will be ruinous to him in some way. So my sister's prophecy is still on track to be fulfilled, even though he had shielded himself from its influence."
+
+"Shit," Lynus huffed. "This is..." He trailed off, apparently at a loss for words.
+
+"The stuff that props up or tears down nations," Jerric said heavily. "Arcanophany on a level of amazing complexity."
+
+"But still mere arcanophany," Emilia added, looking determined. "What arcanophany has made, arcanophany can unmake. Continue, Caden."
+
+"My father's orb worked to shield me from the major Prophecy. I was free from its influence, and I now had more agency. I tried to look for a way to save my father, now, and that's what brought me into contact with the Demiurge. I think if I wasn't free, the Prophecy might have stopped me from having that meeting with him. He introduced me to the augera, face-to-face. It's... it's a primal force of arcana, being kept, or imprisoned, in a construct in the Spire. The Fateweavers are the ones who do that — they capture augera from the wild and install them in Spires across the Empire, and it's what allows them to create and enforce prophecies."
+
+"There are more of those things?" Kevan asked, surprised. "In the wild, even?"
+
+"Apparently. In fact, I think there's one down by the lake," Jerric volunteered, much to my surprise.
+
+"How do you know that?" Devon asked.
+
+There was the barest pause before Jerric replied with a small smile. "I'll tell you guys later. Let Caden finish."
+
+"Well... when I met the augera and it communicated with me directly, it formed a sort of bond with me. And it asked me to ensorcel Ambrose so that it could form that bond with him, too. I wasn't sure if it was the right thing to do, but it told me that my father's orb wouldn't protect me from prophetic links forever. So, in the end, I made a deal with it. I asked it to free me completely from prophetic links, and in return, I would ensorcel Ambrose. And it came through on that deal. That's why I've been immune to ensorcelment, too. It's a side-effect from whatever it did when it freed me from prophetic links."
+
+"Freeing you from prophetic links rendered you immune to ensorcelment?" Emilia asked swiftly. "Do you realise the implications?"
+
+"That on some fundamental level, they operate using the same principles, yes," I answered. "My father's orb also rendered me immune to Reeves' ensorcelment, but I can tell now that even the orbs are a pale shadow of what the augera has done for me."
+
+"But it proves my point," Emilia said, looking satisfied. "The augera is likely working with the same principles, albeit in a more complex and nuanced way. It is a problem that arcanophany can solve because arcanophany created it. But we can discuss that later. Is there anything else?"
+
+I nodded. "My first meeting with the augera formed the bond, but I had another face-to-face meeting with it. At that second meeting, it told me that it wants to be free. And the Demiurge was there, too. He explained that the untamed augera and the augera shackled in Spires have been conspiring and working together over a long period of time, slowly nudging things here and there to create the conditions that could bring about the collapse of the Fateweaver's system of subjugating augera. And I am sort of the product of that interference. But I am not bound by any prophecy. The way the Demiurge put it... I have the potential to help free the augera, but I am also perfectly free to not exercise that power."
+
+"But you want to, surely," Emilia asked, although it came out more as a statement rather than a question.
+
+"I do. Freeing them is the only way I know how to protect my family from the prophecies that they have been wrapped in. And doing that also means helping my friends."
+
+"I shall hold you to that, Caden," Emilia said seriously, extending a hand, but this time she softened her declaration with a small smile. "And I will do what I can to help. Because honestly, I doubt I have any other choice if I don't want to be resigned to my fate."
+
+I looked around at the six of them and suddenly understood the augera's final comment to me in a new light. Something else had occurred to me. The looseness of the prophetic links around all of them was likely a byproduct of the ensorcelment. After all, when I had ensorceled Ambrose, it was not the same as when I had ensorceled my father. The knowledge I had passed to Ambrose, which I had also spread to Kevan, who had spread it to the rest, was tinged with a desire for freedom, of repressed agency, of possible rebellion.
+
+The augera had done what it had been forced to do in bringing five people together in service to the Prophecy. But through me, of its own will entirely independent of the Fateweavers... it had planted the seeds that could later bear fruit, and help to turn the whole thing upside down. And it had given me the tools to be a part of this scheme.
+
+I took her hand and shook it. "We will not be puppets," I promised.

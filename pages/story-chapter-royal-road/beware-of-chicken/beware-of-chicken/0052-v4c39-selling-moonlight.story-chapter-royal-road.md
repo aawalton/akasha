@@ -1,0 +1,227 @@
+---
+id: 51b43b59-1579-5a54-a190-3fd221c589dc
+page-type-slug: story-chapter-royal-road
+title: "v4c39: Selling Moonlight"
+slug: 0052-v4c39-selling-moonlight
+partOf: beware-of-chicken
+position: 52
+ownLength: 3424
+unit: words
+ownProgress: 3424
+publishedAt: 2023-09-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1336135/v4c39-selling-moonlight"
+royalRoadId: "1336135"
+markedReadAt: "2026-06-29T18:53:09.873Z"
+---
+
+After Ri Zu truly entered the Medical Pavillion, Bi De’s days had once more calmed. No more fools came to bother him or Old Li, and the days passed paradoxically swiftly and slowly at the same time.
+
+He had a lot more free time than his companions, unburdened as they were by chores. So he spent most days performing 'proper cultivation' like an Inner Disciple was supposed to, secluded in his mansion and meditating. That, however, always seemed to be a waste of time, and instead he would end up tending to his garden. He was getting better at controlling his Qi and nourishing the soil, which was fantastic. No longer did he feel tired in performing the most sacred task of giving to the land; instead, there was only peace.
+
+When the hour was right, however, he would descend the mountain to spend what time he could with his friends. He stole small moments with Ri Zu, relishing in her blushing face.
+
+He sparred with Yushang, pressing into her weak points and trading pointers with her whilst fending off her joking advances. He was getting more used to them… Especially considering she flirted with every single one of their number. Bi De didn’t mind her hugs, and Ri Zu had stopped pushing her off.
+
+With Fat Han, he also traded pointers and listened to him speak on his formations. He also, to Bi De’s surprise, knew how to cook snails properly. A sublime delicacy they were, shucked out of their shells. Yun Ren and Yushang refused to eat them, to their loss.
+
+And while she made faces the entire time they were eating them, Yushang started making jokes about Bi De and Fat Han’s ‘dexterous tongues’, waggling her eyebrows.
+
+By far the most put upon was Yun Ren, however. The Inquisitors had stepped up his training and most nights he was out in disguise, plying disciples with alcohol.
+
+His inquisitorial minders did not seem to notice the chicken watching over him when he went out into the city.
+
+In addition to this, Bi De had recently been able to expand his own investigation of the Shrouded Mountain Sect. The Inner Sect seemed clear of demonic taint—but that was just the Inner Sect. Now, his herbs were ready. Most he had simply purchased and then charged with Qi rather than growing them from scratch. It took a week, still, but under his care they were much superior to what he had originally obtained. They were filled with Lunar Qi, and any demon that sampled the subtle traces would surely be burned by it.
+
+He did apologize to the earth for his haste, however. He was likely harming the soil with his haste.
+
+Under the guise of raising money to afford pills for cultivation, Bi de began his plan. He started at first with Outer Disciples, enlisting his friends’ assistance to saturate the Outer Sect with his wares. Ri Zu and Yun Ren knew his true reason… but it was due to Yushang that they progressed so swiftly, especially once he said he would give them a share of the herbs and profits.
+
+==============================
+
+Bi De raised an eyebrow at the positively heaving stall.
+
+Perfect Spirit, a bright, colourful sign attached to the front of a building declared, complete with a stylized depiction of Yushang and Ri Zu, both smiling.
+
+The stall was also packed with disciples, stretched out in a long line. It was so crowded that from the back one could not see the front of the line. Oddly, there seemed to be two lines. One made up solely of men, and the other made up of mostly women.
+
+He had asked for Yushang’s help, but he hadn’t expected this. Curious, he walked up to the stall… and froze. On the male side of the line were Yushang and Ri Zu.
+
+Yushang had a bubbly smile on her face, while Ri Zu was also smiling… and it looked like she was actually enjoying herself.
+
+“Thank you for coming! Remember, only one batch per customer, we have to keep things fair, don’t we gentlemen?” Yushang said, smiling at the men at the counter and leaning forwards.
+
+“Yes, Miss Yushang!” the men choroused. Their eyes were fixed squarely below her face… And Bi De made note of the outfit. The Healing Sage would surely appreciate the knowledge of this garment coming back to her.
+
+It was a fetching thing of pale green and white, like a fresh shoot of Spiritual Herb. It did not have any complex designs on it, but it did have a cut-out in the front. A cut-out that Bi De had a bit of trouble looking away from as it exposed a pale valley.
+
+Beside her Ri Zu also worked, though tending to less people than Yushang. She was clad in much the same dress, but with a smaller cut-out on the front. Instead, she had a little hat that only enhanced her cuteness.
+
+“Thank you for your patronage,” Ri Zu said as she finished packing some herbs in a small bag. “Remember, take this with soup. You have too much Cold Qi in your system, and this shall counteract the imbalance.”
+
+“Thank you, doctor!” the man Ri Zu was serving shouted. He looked into Ri Zu’s compassionate eyes and blushed before scurrying off.
+
+Bi De smiled at them, observing from a distance as the pair diligently provided for their customers. They had so many that Ri Zu didn’t even notice him. Finally, when the crowd began to wane, the girls took a break. Bi De went around to the back of the building and knocked on the back entrance.
+
+Yushang opened the door, at first suspicious, then she grinned, brightening up as she realised who it was.
+
+“Handsome Brother!” She cheered, pulling him in by the arm. “Look at how much we've sold today!”
+
+She led him to the inventory list and presented it proudly. Bi De blinked at the number. At this rate he would have to be more diligent in resupplying them with herbs.
+
+“In a single day?” Bi De asked as he turned to stare at Yushang, trying to keep his eyes level with her face. He cursed his human body mentally.
+
+“Of course! You dare underestimate a Mountain Guide’s ability to sell things to suck—customers?! This Pretty Sister could sell a coat to a mountain goat!” Yushang crowed with a grin and pose. She put her arm under her bust and pushed them upwards. She was slightly… thicker than most of the female Inner Disciples, Bi De noted. Probably from her pectoral muscles. Her sword was rather heavy. "Granted, what I had to work with was already good, but this? It put us over the top! A service window always increases sales!”
+
+It took Bi De a moment longer than he should have to turn his attention to Yushang’s face, and his junior noticed, judging by her grin. “Say, Handsome Brother…” she began slyly, only for her entire body to freeze up as a burst of Ri Zu’s intent crawled over them both.
+
+“Ri Zu can’t believe she let you talk her into wearing this,” Ri Zu said. Her voice was loud, and she was trying to sound angry, though her open smile said otherwise. She glanced up at Bi De and flushed, then hooked an arm around Yushang’s neck, tightening her hold.
+
+“But it looks great on you! Look, Senior Brother! She's absolutely stunning, don’t you agree—ehk!” Yushang gagged as Ri Zu cut off her compliments.
+
+Though the window was smaller, and less distracting on Ri Zu’s dress… It was still distracting. Especially because the two women started wrestling and shoving against each other, though both were clearly jesting.
+
+It was an utterly beautiful view.
+
+“Indeed. You both shine like the stars above—though you need not these dresses. Even rags would look like silk upon you.” The words were out of his mouth in his distraction before he realised what he was saying.
+
+Ri Zu and Yushang both flushed. Ri Zu coughed, pushing Yushang away.
+
+She looked up at the ceiling, then off to the side. “...you like it?”
+
+“Of course. I like whatever you wear,” He said, with only a slight flush on his own face.
+
+“We can wear this whenever you want~” Yushang sang, slinging her arm around Ri Zu’s waist and pulling them together. Their chests too—Bi De looked away. Ri Zu just rolled her eyes, by now entirely too used to Yushang’s antics. “Though… I may have something for you to wear, so you can help us.”
+
+Bi De raised an eyebrow, curious. “Really? What would I wear—”
+
+“Sold out on this side, " Yun Ren called out as he walked into the back of the building.
+
+Bi De stared. Yun Ren’s robe was completely open in the front, exposing an expanse of skin and trim muscle. His pants were tight and ran low on his hips, hinting and teasing the eyes as he moved. He walked without a single ounce of shame. Fat Han beside him just looked amused, wearing a robe that covered more but it still made him look refined and imperial.
+
+“Nice robes,” Bi De said, looking Yun Ren up and down. Yun Ren’s body was quite appealing, he supposed. His pectorals, abs, and the way his waist tapered were certainly different compared to Bi De’s thickset master, or even Disciple Gou Ren were.
+
+Yun Ren shrugged and pointed at Yushang. “Her idea.”
+
+“He cleans up real well! Let me take care of those sideburns, and squint a bit! This Yushang swears you’ll be beating girls off with a stick! But don’t, because you’ll make us a lot of money!” Yushang demanded, her hands making grasping motions. “Han needs more refined robes, but he has a good face, so it works!”
+
+Fat Han blushed and looked away, looking slightly haunted. “Her hands went everywhere…”
+
+“Maybe we can get you in one of these tomorrow, Bi De. What do you think, Ri Zu~?” Yushang whispered salaciously into Ri Zu’s ear.
+
+Ri Zu’s face went red… and so Bi De helped out the next day.
+
+He was quite certain that every woman in the Outer Sect got a dose from him at least. And the Inner Disciples got a second round, just in case.
+
+As did a rather old looking woman that some people whispered was an Elder.
+
+=====================
+
+Next, Bi De targeted the support staff—the mortals of the Shrouded Mountain Sect, with Old Li’s help. That was as simple as charging food with his Qi and then giving it to the old servant. He said it was a reward for Old Li’s fine service.
+
+It did feel slightly… bad to be tampering with food, especially when he was giving it to people whom trusted him. But if they weren’t horrible demons, Bi De’s purifying Qi would do nothing to harm them. It may even be beneficial. Sister Ri Zu had likened it more to medicine than poison.
+
+That had been a rather boring few days, watching people eat clandestinely, but as with the Outer Disciples… nobody seemed affected and he couldn’t find any trace of Demonic Qi as he toured the crowds undercover. He checked off the people who had arrived against the ledgers of the mortal staff Yun Ren had managed to procure—the information was freely given to the inquisitorial trainee when he had requested it during one of his training sessions.
+
+Those that couldn’t show up were given leftovers, and those that had refused to come Bi De made a note to look in on.
+
+That part took entirely too long—there were thousands of beets, rice bags, and assorted vegetables he’d had to pour his Qi into, and hundreds more of people to 'gift' to.
+
+However, it was the next step that proved most difficult. He needed to see the Core Disciples. To his surprise, Zang Fengfeng readily agreed to assist him in following the proper protocols to contact the Core Disciples.
+
+Her requested payment was to walk with her for a couple of hours, so Bi De gave her his full attention.
+
+It had been a rather pleasant evening, though she seemed utterly flustered by the end of it.
+
+=================================
+
+And all of that… had led to here.
+
+“Your order, Young Master,” Fa Bi De declared as he stood before a wagon loaded down with Spiritual Herbs. These were the ones that he had taken time to properly grow, rather than the quickly charged herbs and food given to the Outer Sect disciples and mortal servants. “Please, partake, so that you know the full measure of its quality. If you are dissatisfied in any way, this Bi De shall cast himself off the mountain.”
+
+The core disciple in front of him, one of the last ones that had yet to try his herbs, raised an eyebrow.
+
+“It's good you know your place. Very well, I shall judge you, and my fellows. They have been singing your praises, and I intend to see whether they be fools.”
+
+The man, Naji Kai, was as arrogant and domineering as the rest of the Core Disciples Bi De had met. They were, one and all, even more puffed up than the Inner Disciples.
+
+Yet to his surprise, despite their demeanor, none of them had claimed his wares as tribute, as one of the Inner Disciples had. These members of the Shrouded Mountain Sect were all within the Spiritual Realm at the least, and he likely couldn’t have fought them if he had tried… but none had seen it fit to do so.
+
+The man picked up a sprig of herb that Bi De had grown. He examined it closely before he drained all the Qi out of it.
+
+Then, he nodded.
+
+“It appears that my fellows spoke true. Your herbs are of good quality. They will be a help, if minor, to this one’s cultivation.” He turned to look at Bi De. “Be praised, Fa Bi De. Even raising herbs to this quality is more than most can say.”
+
+“Thank you, Senior Brother. This Bi De has pride in his work. Even if he must beat off the occasional vulture who circles his wagon.”
+
+The Core Disciple snorted.
+
+“Only the weak need to steal from their lessers.” His voice was absolutely derisive. “It's like stealing from a Mortal. Disgusting! What sort of worthless cultivator cannot gift their lessers with a pittance of their value, yet have it be more wealth than they can ever imagine?”
+
+“It is as you say, Senior Brother,” Bi De agreed. Though the language was derogatory, at least the man seemed to find the idea at least mildly distasteful.
+
+Which made sense. For all their faults… he had yet to hear any of the mortals within the aegis of the Shrouded Mountain Sect truly speak poorly of them. There were tales of course, of daughters being seduced, and villages being collateral damage, but overall the sentiment seemed to be positive.
+
+“Be honoured you were of use to me,” The Core Disciple declared. “Come, you may rest in my pavilion while my servant compensates you.”
+
+Bi De bowed to the man. “Thank you for your patronage, Senior Brother. You truly have graced this Disciple.”
+
+Satisfied by Bi De’s deference the man left, and Bi De carried his bounty to the man’s mansion. His senses were peeled for any hint of the demonic, his breath taking in the very essence of the world… and yet, like all the other times so far, there was nothing.
+
+Be De frowned slightly.
+
+The next day, he received a summons.
+
+===================
+
+“I see you are settling into our Sect well, Fa Bi De,” Elder Chongyun stated as Bi De sat before the elder cultivator in his office. The man had 'requested his presence.'
+
+Which meant Bi De was before him as soon as he got the message. Bi De was a little nervous about this meeting. The man had left him alone for months at this point before this sudden summons.
+
+“The world of cultivation is different than this disciple imagined, Elder,” Bi De replied. “This one is grateful to the Shrouded Mountain Sect for teaching him.”
+
+And Bi De was. Quite frankly, he found the sect utterly repulsive. The waste of it all was disgusting. The lack of oversight and blind eyes turned to battle amongst its members abhorrent. Not everyone was bad, of course. Yushang and Han, and even some of the other disciples for example. What galled him though is that they claimed to be above 'mortal things' and yet… they were just people. Petty, arrogant, kind, prideful and everything else he would expect a person to be. Fa Bi De needed no lessons in this. Whatever grace or wisdom they laid claim to, he had yet to see it. Had he not been given a mission here he would have been long gone.
+
+He now understood exactly why his Master had left this life if the Cloudy Sword Sect was anything like this place.
+
+Elder Chongyun smiled. “Excellent. I also heard you are taking well to the lessons of our Shrouded Mountain. You suppressed another of our Inner Disciples, but also did it properly. His drive to improve will surely take his cultivation to new heights.”
+
+“As you say, Elder.”
+
+“I am also told you are selling a lot of your spiritual herbs,” Elder Chongyun continued as he reached out to the side and picked up one of Bi De’s herbs. He examined it with a critical eye, his power swirling around it. “It is of excellent quality—and its properties are quite interesting. The subtle purification you’ve woven into it is quite interesting… especially since it seems that near enough the entire Sect has partaken of them.”
+
+It took all of Bi De’s composure not to freeze at the statement as Chongyun’s eyes turned from the herb to Bi De, intent  boring into Bi De’s own.
+
+There was a subtle static charge in the air.
+
+Bi De smiled guilessly.
+
+“I heard rumors of some sort of demon attacking a disciple—thus I thought to give my fellows an edge. A little boost to help resist demonic influence. It is harmless unless one is tainted or a demon.”
+
+Elder Chongyun’s stare bore down on him.
+
+Then the elder ripped the Qi out of the plant and before Bi De’s eyes refined it, taking the Lunar Qi into himself.
+
+He smiled. There was no pulse from his body fighting the Qi off. No burning of his cultivation as the holy Qi harmed anything demonic.
+
+“That is an excellent idea, Disciple. Here, this is a writ of provision. I shall need extra for our agents in the field. The reward for fulfilling this is five Spiritual Bone Refining Pills, and I shall allow you to take a look into my library,” the elder stated simply as he picked up a scroll and handed it to Bi De. “Serve your Sect well, Disciple. I will ensure that everyone has a measure of your fine work.”
+
+“Yes, Elder,” Bi De replied, bowing deeply.
+
+======================
+
+He left the Elder’s mansion feeling a little bit confused.
+
+Elder Chongyun wanted more of the herbs. He had noticed Bi De’s Lunar Qi… and intended to help him spread it.
+
+Bi De cast his senses out, searching. And again, nothing. No Demonic Qi or taint.
+
+Not inside the wards of the mansion, not on any of the servants. Everywhere he had been so far, from the lower rings of the mountain, to the heights of it near the Elders' Pavilion, had been free from demonic taint.
+
+There was one conclusion that Bi De was coming to, that there were no demonic infiltrators anymore. Zang Li had been the last, or the only one who had come into the Shrouded Mountain Sect.
+
+But Bi De supposed that to investigate and find nothing was better than to have an entire sect infested by demons, was it not?
+
+Even with this slowly dawning revelation he still felt… uneasy. Everything had gone too smoothly. Then too there were still over a thousand disciples out on missions around the province, though they would soon be receiving provisions of Lunar Qi, he could not go out and confirm that they were untainted. He would have to wait until Ri Zu and Yun Ren came back with more answers. For now, he felt he had done as much as he could. The only thing left was to keep acting like a cultivator.
+
+Bi De groaned.

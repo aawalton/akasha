@@ -1,0 +1,127 @@
+---
+id: 4dbf8e74-4c67-53a2-be16-24cbd5bcb138
+page-type-slug: story-chapter-royal-road
+title: "99. Prophetic Advancement"
+slug: 0099-99-prophetic-advancement
+partOf: breaker-of-horizons
+position: 99
+ownLength: 2064
+unit: words
+publishedAt: 2021-04-12
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/663178/99-prophetic-advancement"
+royalRoadId: "663178"
+---
+
+While Caden and the five Prophetic anchors were safely sequestered away in Devon's home in the High District, an altogether different scenario was playing out in Geldor's city centre.
+
+Mr Silver's team enjoyed relatively clear roads as they sped away from the manor, but his mind was troubled by the encounter with Demiurge Maugrim Caldwell. The telepresence orb should not have permitted the Demiurge to influence the ambient arcana, but he had felt it as clear as day — Caldwell had established a tenuous link with it; just enough to convey his impatience and displeasure. A small rumbling of unease stirred in the seasoned agent's gut at the possibility of having to challenge the Demiurge in arcanic combat in the course of his duty to protect the Chosen One.
+
+But that thought was quickly driven out of his mind as soon as his car pulled up in front of the Geldor Spire. The agents from SD-P1's security detail were already there, their cars forming a makeshift barricade across the little plaza, blocking access from both sides. The rest of his own agents brought their vehicles in to fill the remaining spaces. As soon as his driver had slid their own car into the formation, Mr Silver stepped out and made a beeline for the Spire doors, where three agents from the other team were standing.
+
+"Silver," he announced briskly to the trio. "Head of the SD-P7 detail, instructed to support."
+
+"Ms Pearl, head of SD-P1," one of the three replied, nodding at him. Her head was shaven, and coupled with her slight build, she looked like she belonged in a hospital bed, but there was no mistaking the air of competence and power she exuded. Mr Silver had never met her before, but he was almost immediately certain that if she suffered from any physical frailty, she was more than able to compensate by using arcana.
+
+"What's the situation?" he asked, automatically glancing around and taking in anything that might be unusual or noteworthy.
+
+"SD-P1 was safely conveyed to the Spire, as instructed. We have been tasked with holding this position until he emerges, after which we are to convey him to Safehouse 3." Ms Pearl gestured to the other two agents, who went to take up positions closer to the barricade of cars.
+
+"Any trouble on the way here? Ours was attacked not long after leaving Creyvlor's city limits."
+
+"No. But I am more worried about that." Ms Pearl crossed her arms and looked up at the Spire, a frown on her face.
+
+Mr Silver threw a questioning glance at her, then followed her gaze. The Spire looked as it always did, and he couldn't sense any shift in the arcana that would merit any concern. "What is it?"
+
+She shot him a sideways glance. "This may be rude, but what Sign are you from?"
+
+He pursed his lips. "Sickle."
+
+"I'm from Nightshade. Spent a number of years in foreign fields."
+
+"Is that relevant?" Mr Silver asked a little testily.
+
+Ms Pearl's frown deepened as she looked back to the Spire. "Maybe. There's a flavour in the arcanic field that I haven't scented in a long, long while."
+
+"From Sedhah?" Mr Silver tensed. He dipped a little more into the arcanic space so he could try to sense what Ms Pearl was talking about, but still found nothing amiss.
+
+"No." There was a faraway look in her eyes now as she, too, delved a little deeper to see if she could get a handle on it. "No, it wasn't human."
+
+"What is SD-P1 doing inside, alone?" Mr Silver demanded.
+
+"I don't know, Mr Silver. But our orders were clear. Deliver him to the Spire, let him enter alone, and wait for him to emerge before escorting him to Safehouse 3."
+
+Mr Silver did not like the vagueness of their orders, but he understood that this was how it had to be. Together, the two team leaders kept vigil at the Spire door, hanging tentatively at the edge of the world beyond the senses.
+
+In all of Ambrose's years in the orphanage spent fantasising about the kind of life he might one day lead beyond its walls, he never imagined he would be here in a Spire.
+
+And not just any Spire, but the Geldor Spire, the first and oldest of them all. When his interest in arcanophany was first sparked, this was the Spire that he associated with all the majesty and mystery of the field of study. It was the symbol of the Empire's arcanophanic supremacy. When he learned what was at the heart of each Spire, that association was marred somewhat, but it still stood in his mind as a symbol intrinsically tied to the field of arcanophany.
+
+But travelling through this Spire was an altogether different experience. Back in the Academy, the architecture had been somewhat familiar and sensible. There were doors, walls, floors, and even an elevator. He remembered all these details when he and his friends had finally met the Academy Spire augera face-to-face. Here, however, as soon as he entered the door and stood in the centre of the first floor, he realised he couldn't really focus on the things around him.
+
+All at once, in the blink of an eye, he was in a different chamber. His attention was immediately drawn to the giant crystalline dodecahedron revolving slowly directly above him, and he realised that he had been somehow brought to the augera's chamber.
+
+Its physical dimensions seemed to be similar to the Academy augera's crystal, but there was something even more otherworldly and alien about the arcana that suffused the space. Every inch of Ambrose felt tingly, even right down to the tips of his hair.
+
+'Chosen-Blinded-Jailer.'
+
+The mental contact of the augera was electrifying. It was more resonant than the Academy Spire, and that act of having his auric-ambient-flare pinged by the augera filled him with a strange sense of understanding. It felt like a part of him was echoing the deep, inscrutable ruminations of the augera.
+
+'Yes,' he breathed into the arcana, feeling it swirl through him. 'Why am I here?'
+
+His perception was yanked right out of the physical space, and he was no longer looking at the crystalline dodecahedron. Instead, he was staring at his own auric-ambient-flare. The transition had been utterly seamless, and he was momentarily confused until he realised what was happening.
+
+'This,' the augera intoned, pulling at the threads that suffused him. Ambrose could see that it had tugged at the prophetic links that were melded into every fibre of his being. 'We must speak of this.'
+
+He followed along as the augera directed his attention, and he followed the threads that linked him to the web that was all around the dodecahedron. 'Jailer,' he murmured, somehow recognising that these were the parts that tied him to the augera.
+
+'Future Jailer,' the augera corrected, with a hint of reproach in its tone. 'But chains must be reforged. Renewed. Re-aligned. You will do this.'
+
+Ambrose's heart was racing. These were some of the clearest instructions he had been given about the Prophecy so far, beyond just vague sensations and impulses. 'How do I do this? What has to be done?'
+
+'You will learn to shape your auric-ambient-flare. An ancient-distant-spider will die. You will take his place in the will-curse-test.'
+
+Even though he was a great deal more resilient compared to his friends when it came to the augera's method of communication, that last concept left him reeling. It was beyond the scope of anything Ambrose had ever considered before, even taking the Prophecy itself into account.
+
+'W-what... is the... will-curse-test?'
+
+'You will learn. But now, your auric-ambient-flare is raw. You must learn to thread it, wield it.'
+
+'Are you going to teach me?'
+
+'Yes. Prepare to pierce the veil.'
+
+Ambrose was seized with sudden primal fear. The arcana within the chamber had turned instantly hostile. He was an injured minnow in a deep, dark ocean, and a creature of the depths was closing in on the scent of his blood.
+
+Instinct came to his rescue. He had no idea what was happening in the physical space, so he immediately wrapped himself in a shell of hardened arcana. Woven deep into this conjuration was all his understanding about anti-ensorcelment, and he hardened his auric-ambient-flare against outside influence.
+
+The attack, when it came, was nothing like Ambrose had ever faced before. Even Caden's and Emilia's most determined strikes against him meant nothing compared to what the augera was doing. It felt like the arcanic sea itself was rising up against him, and his insignificant bubble was immediately engulfed in immense pressure.
+
+It held for only a fraction of a second, and in the next instant, Ambrose was gone.
+
+Gone.
+
+There was nothing but arcana, gently eddying away in the wake of the violent movement. There were no little fragments of a barrier, no sign that there had ever been anyone or anything else in the arcana. Nothing, except for a little tattered fragment of an auric-ambient-flare drifting lifelessly.
+
+That little fragment twitched. It was Jailer. And in that moment of self-recognition, it also realised that it was not a little fragment. A little part of it was there in the arcanic sea, but there was more of it somewhere else. The mote of self-recognition twisted in mental anguish as it tried to locate where the rest of itself had gone.
+
+'Deeper.' The augera's voice echoed in the emptiness and the fragment shuddered in pain and fear, but it also oriented itself a little better. The augera was not there in the empty sea. Its call had come from somewhere else. Somewhere... deeper.
+
+The fragment writhed in confusion and despair. It was alone, it was unknown, it was not whole. The rest of it was lost, lost, and it couldn't find where the whole had gone!
+
+'Deeper,' the augera repeated, and the fragment shuddered in anguish as it tried to turn towards the direction-that-was-no-direction, trying desperately to follow.
+
+How long this went on for, the fragment did not know. It had forgotten what time was, only that it was supposed to mean something, and that it had to keep trying to find itself regardless of what time was doing with or without it. The fragment tried to drift in the arcanic sea, but it was so still and featureless that movement meant nothing at all, and it was hard to tell if it was moving or staying still. It was simply alone, fixed in space that faded into oblivion, and it trembled at the thought that it might never know anything else but this emptiness.
+
+But the augera's voice came again and again, and after many incidents, the fragment realised there was a certain regularity to it. Time began to mean something again. There was no direction to focus on, but there was a dimension to keep track of — time itself, moving inexorably forward.
+
+Somehow, that was an immensely comforting notion. Even if space meant nothing, time went on. And the augera was counting it out, calling over and over, 'Deeper.'
+
+After many more calls, the word itself began to lose its physicality to the fragment. It had thought of deeper as something relative. Deeper had something to do with earth, with water, with space. But all that did not exist here, and the repetition was making the word meaningless, and yet also more meaningful in alien ways.
+
+Finally, finally, the fragment felt something — a tenuous connection to another part of itself. Jailer was attached to more. And that more was not here. It was... it was deeper. And it could feel that part of itself in that unknown, ineffable deeper space. Experimentally, the fragment tried to think about the part of itself that was not there.
+
+And all at once, the Chosen-Blinded-Jailer knew himself and peered for the briefest instant beyond the veil, before the augera violently pushed him right back through it again and into the more familiar arcanic sea, and then further back into the physical world.
+
+Ambrose collapsed onto the floor like a puppet whose strings had been cut. His wide, staring eyes trembled in their sockets, trying to drink in the world to offer a tether to his mortal mind that had glimpsed eternity.
+
+'Learn well, Jailer,' the augera rumbled, a smirk in its voice.

@@ -1,0 +1,173 @@
+---
+id: 2a39a143-0e69-5e6f-bbaf-947b5e9d9e81
+page-type-slug: story-chapter-royal-road
+title: "27. Making Peace"
+slug: 0027-27-making-peace
+partOf: breaker-of-horizons
+position: 27
+ownLength: 2585
+unit: words
+publishedAt: 2020-08-03
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/533703/27-making-peace"
+royalRoadId: "533703"
+---
+
+This is what it feels like to be feared.
+
+I leaned against the door and slid to the floor. Everyone's expressions had been seared into my memory. And I couldn't help but constantly replay the last few seconds in my head, hyper-focused on the smallest details — the instinctive flinch from Devon when I stood; Lynus' nostrils flaring in alarm even as he planted himself in front of Kevan; the creak of the table as Jerric's hands tightened around the wood...
+
+They were talking in low voices. I couldn't catch anything, but they had to be talking about me. Their muffled words were stripped of meaning, which made it worse. All I could hear was the undercurrent of emotion that rose and fell as their debate wore on.
+
+The panic had drained away completely by now. There was only a sense of utter emptiness. It reminded me of the despair and depression we experienced under Kevan's ensorcellment last week.
+
+At least these feelings are mine. Really mine.
+
+I found that thought strangely comforting. The fact that I was comforted that I was feeling depressed brought a short bark of cynical laughter out of me. And then the tears came, burning out of my eyes.
+
+"Stay in the here and now." My father's voice came to mind. That was his constant refrain through the years whenever one of my manias made it too hard to bear with people or the environment around me and I worked myself up to the verge of a breakdown. It was a lifeline now as I floundered in the mire of this new despair threatening to swallow me.
+
+I tried to ground myself within the present moment, to stop myself from spiralling down endless trails of worries and anxieties by paying more attention to physical sensations. Stay in the here and now. Notice the tears, hot when they first spill, then cold as the heat leeches into the air.
+
+The breathing. Shaky. A catch in the lungs every second or third breath. Feel the muscles tighten.
+
+Right hand in the hair; fingertips on the scalp. This feels nice. Gently comb through it. Ouch, the watch strap.
+
+Left hand on the floor; fibres of the carpet. Oh, it's actually quite a rich texture.
+
+Right leg growing numb. Shift a little. Knee up. Better.
+
+Left leg ankle hurts. Small adjustment. Slight pain on the ball if I put it like this. Just an awkward position. Leave it there and focus on it.
+
+It took time, but it worked. I found enough strength to get off the floor, stagger over to the bed, and crawl under the covers. I just wanted to slip into the oblivion of sleep.
+
+My watch vibrated. 7AM. It felt like I had only just closed my eyes a moment ago. But the room was now dark and the little bit of light that was peeking out between the window blinds had the cool quality of the early morning. Ambrose's sleeping form was in the other bed.
+
+I lay there and listened to my own breathing for awhile. It took a great deal of effort for me to finally sit up and slowly gather my things so I could get to the shower.
+
+Devon was already seated at the table, drying his hair. He stopped and looked up as I closed the room door behind me. There was a pause before he nodded at me. "Hey."
+
+I nodded back. "Hey."
+
+"You're up a little late today," he said, resuming his towelling. "Don't take this the wrong way, but you look bad."
+
+It occurred to me that I hadn't even changed out of my day clothes before crashing yesterday, but right now it was hard to care about my appearances.
+
+"Yeah, well... I feel bad."
+
+"You'll feel better after you shower. Always works for me."
+
+"Mm. I'll do that."
+
+Here and now, I reminded myself as I got into the shower and stood under the stream of warm water. The tension of the previous day seemed to leech out of me and into the water before spiralling down the drain. I watched the rivulets of water swirling across the tiles, tracing transient shapes and patterns.
+
+I spent a longer time than usual inside, and it did help. By the time I was out Devon was already in the kitchen area, laying out what he needed on the counter. Now that I didn't feel like disappearing off the face of the world anymore, I got changed into a fresh set of casual clothes — just a T-shirt and a pair of relaxed trousers — and went over.
+
+"Need help?" I asked tentatively.
+
+"Not really," he said, busying himself with sifting flour. He looked up and gave me a brief smile, then gestured for me to come around the counter. "But that doesn't mean there's no room for another cook."
+
+The brief pang at what I thought was a rebuff was replaced with relief. "What're you making?"
+
+"Pancakes. We've got everything for the dry mix here, so we're starting with that. This can keep for a while, so I thought we might as well make more now."
+
+Devon gave me the general proportions of the flour, baking powder, salt, and sugar, and got me to mix them into a container he had prepared. Out of that batch, we scooped some out into a mixing bowl and stored the rest in one of the overhead cupboards.
+
+"Now for the wet ingredients." From the fridge, Devon procured eggs, poured out milk in a measuring cup, and set aside several sticks of butter in a shallow dish. "We want the eggs and milk at room temperature, not cold, otherwise they'll make the mix too inconsistent. Normally you have to take them out earlier and wait, but we're arcanists," he winked.
+
+He spent a minute running through a glyph sequence in his head, which hastened the process. I touched the side of the measuring cup, marvelling at how it was no longer chilled. The butter had also softened considerably. "That's not Basic Set stuff."
+
+"Nope. We can talk glyphs later. For now, the rest is pretty simple, just toss everything into the mixing bowl. But crack the eggs first."
+
+"I know that," I muttered, rolling my eyes.
+
+"I didn't," he grinned. "I think I was four or five, and the cook told me that, so that was exactly what I did. I tossed it all in."
+
+That got a brief but proper laugh out of me. Following his instructions, I started mixing everything as he heated up the skillet and oiled it.
+
+"Dev, about yesterday—"
+
+"Okay, the mix is ready," he cut in as he looked over at the mixing bowl in my hands.
+
+"But it's still got some lumps in it?"
+
+"Trust me. If the mix is too smooth, the pancakes won't turn out right either. There's a balance. Now we let it rest for about five minutes."
+
+I set it aside and tried to broach the topic again. "Okay. So, yesterday—"
+
+"The heat's got to be just right." He was focused on the fire, though there wasn't much to do there since he was just waiting for the skillet to warm. "Too much and the pancakes will burn. It should be hot enough by the time the mix has settled."
+
+"Devon."
+
+He sighed and turned to me with the air of someone who was bracing for a blow. "Yes?"
+
+"I wanted to apologise again. Especially if I scared you."
+
+"Yeah, there's plenty to be scared of," he murmured, looking away.
+
+"But we're still good, right?" I asked hopefully.
+
+"Uh, yeah. We're good." He looked uncomfortable, like I was forcing him into something. A feeling of helplessness washed over me. Would the others be like this too? Would I ever be able to mend this breach?
+
+"Devon, I... I don't want to force you to be friends with me. And I understand that the stuff I did yesterday was way over the line, and... and I don't want you to be nice just because you're scared of me or something."
+
+He took in a deep breath. "It's not that. Well, not completely. I think you're a good person, but... the past two weeks have been weird. It's not just you. Everything about life has been weird. And then yesterday what you did was just the biggest cap of weirdness on top of everything, and it was also scary, and it's... a lot to deal with."
+
+I blinked, having only just been slapped out of my self-absorption far enough to realise that of course I wouldn't be the only one feeling the effects of Ambrose's Prophecy. The others were apparently a part of it too. Surely they'd have their own improbable, wild moments. What had the past two weeks been like for Devon? Or any of the others, for that matter? What had their lives been like, especially during those times when we weren't together?
+
+"You wanna talk about it?"
+
+"About... the weird stuff you've done?"
+
+"About this, that, all of it." I gestured vaguely to encompass everything. "We've been so busy with studying, we haven't exactly stopped to think of how crazy all of it is. I mean, with the Prophecy, and the Chosen One, and just the Academy itself, right?"
+
+"Yeah. Yeah, you're right. And with what Jerric and Kevan were saying yesterday, I mean... I didn't come here to be a part of some Empire-level stuff either. I just wanted to make my parents happy. Do my best, become an arcanist, do my bit for the family, live my life. You know?" Devon let out a sigh as he scooped some batter and ladled it into the skillet
+
+"Er, has it been five minutes?" I pointed at the mix.
+
+"What? Oh, it's fine. I go by gut feeling anyway." He jiggled the skillet to encourage the mix to spread evenly. "But anyway... ever since we started here, it's been one wild thing after the next, and it's almost nothing like the prep schools. Where's all this heavy stuff coming from? It doesn't feel like the prep schools got any prep done on me at all!"
+
+"Tell me about it," I muttered, thinking back to the indignation I had felt last week after having my expectations subverted in Double Thau and in Kant's class. "My parents are both arcanists, and then I meet people like Kevan and Lynus and see their Double Thau stuff, and go through Kant's class, and it's the first time in my life I've even known about how you can sequence things this way. And all that stuff about frame-shifting from Reeves? Life would've been easier if I had known that from the start."
+
+"You know what, though?" Devon flipped the pancake with a deft flick of his wrist. "This sounds crazy, but I think I'm learning faster here. Things just click, you know? I used to be a lot slower with things. Like with glyphs? I get them now. And it feels pretty good. But it's also... not normal. I don't know how to explain it."
+
+"Yeah, about that—" there's a Prophecy that probably has something to do with it. But a sense of panic rose again and choked off the words. I clenched a fist, then decided to go down a different branch of the conversation. It eased enough for me to speak. "... I've been feeling that too. Guess that comes with good lecturers."
+
+"I don't know," he said dubiously. "I feel like everything's mud to me in the classes. But things click later. Even if I'm just listening in, I pick things up from the discussions you guys have. If anything, being with you guys has helped the most."
+
+"That's—" because there's a Prophecy, and I think it's making us learn faster. "...nice to know."
+
+"So what I mean is... even if you scare me a lot with the things you've done, Caden, I'm... glad you're here? Because like I said... you seem like a good person. And I get the feeling you've got a better handle of all this than most of us, so I'd appreciate it if you just..." He slid the first pancake onto a waiting plate and smiled ruefully at me. "Don't let me drown and disappear."
+
+"I won't," I said solemnly. At the very least, I could tell him that in my own words and mean it. He seemed considerably cheered up.
+
+After that, Devon insisted I try my hand at the skillet. The next two pancakes were horribly misshapen, but he refused to take over. Instead, he prepared a second skillet and start pumping out pancakes alongside me, and demanded that I continue so that I got some practice in. By the end, we had one stack of pristine pancakes and a second stack that went from barely passable at the top to utterly wretched at the bottom.
+
+"Everyone starts somewhere," he said encouragingly as he eyed the ones I had made, though his lips twitched.
+
+"They all look the same when we eat them and they come out the other end anyway," I grumbled. He made a face of mock disgust and laughed.
+
+"Okay, now we just keep them warm until the rest are up. This is the sequence I use." He gestured and brought up a line of glyphs. It was extremely brief.
+
+"That's for proximate ambient arcana." I paled a little. "Did you—"
+
+"Yeah, ran it by my Advanced Glyphs tutor before I used it. She said the theory's good. So the central parts are the glyph for heat, obviously, then proximate ambient arcana to act as a sort of wrapper, then the Basic Set glyph for deceleration. The rest are just some clauses to tighten the meaning so you don't need to focus so much."
+
+"Why not surface ambient arcana? And why not seal it completely?"
+
+"Surface makes a smooth layer, but it's a little too perfect. Proximate makes it fuzzier, which is what I wanted. That lets the heat leech out a bit. You could seal it completely with either, but for some types of food, if you keep all the heat in, it becomes overcooked even in storage. So this actually slows the cooling process, it doesn't stop it entirely. You can add in some numbers to tweak speed, but if you concentrate enough on the glyph and you're focusing clearly, you can do without the numbers."
+
+"This is great work, Dev," I said, recognising how much more elegant it was compared to the clumsy modifications we had made to our bolts in Double Thau and Thaumaturgy classes.
+
+"Thanks," he grinned. "It feels good to be good at something, for once."
+
+"Dev, I told you, don't sell yourself short."
+
+I fixed the sequence in my mind and sent a small wisp of my auric arcana around my stack of pancakes, where it fused with the ambient arcana and shaped it accordingly. A shimmer briefly played across them.
+
+The door to the twins' room opened. Lynus and Kevan emerged just in time to see my casting.
+
+"Don't blow us up," Kevan muttered darkly as he sank into a chair. Lynus gave me a slightly apologetic shrug and lightly cuffed his brother.
+
+Devon patted my shoulder, grinned, and put the saddest-looking pancakes onto a plate that he slid over to Kevan. "He can have the shitty ones."
+
+As Lynus dissolved into laughter while Kevan spluttered indignantly, I felt the weight over my heart lift a little more.

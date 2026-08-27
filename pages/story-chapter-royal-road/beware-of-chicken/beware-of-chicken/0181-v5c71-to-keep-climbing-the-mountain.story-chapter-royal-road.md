@@ -1,0 +1,235 @@
+---
+id: 0e705cdf-51a4-5021-b006-ddcb23e5059a
+page-type-slug: story-chapter-royal-road
+title: "v5c71: To Keep Climbing the Mountain"
+slug: 0181-v5c71-to-keep-climbing-the-mountain
+partOf: beware-of-chicken
+position: 181
+ownLength: 2775
+unit: words
+ownProgress: 2775
+publishedAt: 2024-11-30
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1933019/v5c71-to-keep-climbing-the-mountain"
+royalRoadId: "1933019"
+markedReadAt: "2026-06-29T18:57:31.667Z"
+---
+
+Liao Yushang had spent the past couple of days wondering when the dream would end. She was the most relaxed she had been since she had left home—and she had found a place that she was unsure could exist outside her village.
+
+She didn’t need to watch her back. She didn’t need to watch her words. Everywhere she looked, she could only see people who meant her no harm and would help her without question.
+
+It was a truly beautiful place, and Yushang reciprocated their hospitality the best she could—but instead of feeling stressed that she somehow had to repay the gifts that she was receiving… it just felt natural.
+
+She could wax poetic about Fa Ram, about all the people there who had welcomed her with open arms, but Bi De, Ri Zu, and Yun Ren already had during their adventures. It had been strange to feel like she knew somebody before she had ever met them, but she had… and unlike so many tales, the real thing wasn’t disappointing at all!
+
+“Come on! I know you have more than this!” Rou Tigu demanded of Yushang as they clashed, straining against each other. The slightly shorter woman’s muscles were bulging as she took the weight of Yushang’s blade on her bracers, a fierce smile on her lips.
+
+Yushang was at the limits of her speed and strength—but Tigu was right, she did have more to give. Ascending Mountaineer became a blur through the air, hammering into Tigu’s Qi claws again and again. It was a brutal, fast-paced sparring, a match of physicality from both of them. Yushang’s heavy sword, strikes, and shoulder checks were matched by Tigu’s own predatory muscles.
+
+Her breath came in gasps, her muscles burned, and yet she could only match the smile on the other woman’s face.
+
+Yushang liked Tigu. The two of them had just… clicked the moment they had met.
+
+With a burst of strength and a flick of her Qi, Ascending Mountaineer slammed through the Qi claws of her foe and launched Tigu backwards. The slightly tanned woman recovered quickly and, like Bi De and Ri Zu, she simply grinned and bowed, her muscles relaxing and signaling an end to their spar.
+
+There were no hard feelings. There was no sense of tension. Tigu simply looked pleased that Yushang had done well.
+
+“A fine blow, Pretty Sister!” Tigu decreed, and Yushang scratched the back of her head with a bit of embarrassment. She called herself that mostly as a joke. She was no great beauty—but Tigu seemed completely and utterly earnest when she uttered Yushang’s new nickname.
+
+“You have great power and finely sculpted muscles!” Tigu had said enthusiastically when they first met. “Ri Zu was right, Yushang is very beautiful!”
+
+“Thank you, thank you! You know, I can see a lot of the way Ri Zu dodges in your movements, so I know a bit about how you move!” Yushang returned.
+
+Tigu sighed dramatically and shook her head while shooting a smirk at where Ri Zu was sitting on the sidelines. “I taught that girl to fight, you know!” Her smirk broadened, her tone making clear she was bringing Yushang in on an old joke. “She was such a limp, noodly bookworm, and it took her Senior Sister here so much effort to get her to train!”
+
+Ri Zu made a rude gesture and stuck out her tongue, which just set Tigu to laughing outright. The tanned woman slung an arm around Yushang’s shoulders, and the two of them set off to the sidelines with Bi De, Ri Zu, Yin, the Torrent Rider, Shao Heng, Gou Ren, and Xianghua.
+
+She was met with smiles, a mug of water, and well-intentioned critique of the spar. It was exactly like how her friends had done it in the Sect… and now Yushang knew where they had gotten it from.
+
+“Us next!” Yin shouted and dragged Bi De over. Her friend had a small smile on his face.
+
+“It's been a while since we’ve sparred, hasn’t it?” Bi De said with a warm smile.
+
+“Hell yeah it has! I can’t wait!” Yin shouted. Bright golden armor formed around her—while armor made of silver formed around Bi De. Yin paused, and then her eyes narrowed.
+
+“You stole my move!” she accused, but she did have a smile on her face.
+
+Bi De smiled back. “Your techniques, and your insight into the nature of the sun, have saved my life more times than I can count.”
+
+Yin’s smile brightened. “That's great! Now come on, I’m going to go all out!”
+
+Yushang watched as silver and gold clashed, cheering along with the Torrent Rider and Tigu.
+
+========================================
+
+She was given a checkup by Big Sis Mei, as Lady Meiling insisted she be called. Ri Zu’s master fed Yushang sweets while she cheerfully told stories about Ri Zu’s training, much to her friend’s embarrassment.
+
+She had lunch made by Xiulan—who was a very good cook. She ate it with Wa Shi, the dragon very happy to show her all the flavour combinations he knew… and also grill her on everything Yushang remembered about the food her village had made.
+
+She explored the forest with Chun Ke and Pi Pa— who were very happy to show her the logs used for growing mushrooms and the iced-over streams.
+
+She spoke of the blade with Bei Be, the ox full of profound insight.
+
+She played Ha Qi with Master Jin. She ended up accidentally ‘fouling’ the man, and he had picked her up in a headlock and ruffled her hair until she begged for mercy… then resumed chasing her around when she did it again.
+
+She sat with everybody as Yun Ren showed the people of Fa Ram images of their time in the Shrouded Mountain Sect and of their travels.
+
+They invited her to the village of Hong Yaowu so she could take part in that little celebration, and she got to meet even more people who were good and kind.
+
+==============================
+
+She even ended up moving her bed into Ri Zu’s room. She didn’t mind staying with Han, Uncle, Fenxian, and Yingwen, but Big Sis Mei had muttered something about propriety—and Ri Zu was the first to offer her room, as they had been roommates before.
+
+“Oh, these are so cute!” Yushang exclaimed, staring at the little items that were arranged on Ri Zu’s desk. There were brushes, chopsticks, bowls, and clothes, all carefully arranged and all perfectly sized for Ri Zu’s other form. There was even an absolutely tiny medical scroll!
+
+“Yes, Ri Zu’s family were very kind and attentive to her needs,” Ri Zu said warmly. “But… it almost feels like a waste now.”
+
+“Hey, when you have kids, they can play dolls with them,” Yushang replied. Ri Zu’s face tinted pink, but her eyes were considering.
+
+“That is a very good idea,” Ri Zu mused.
+
+“The rest is kind of empty, though,” Yushang noted, looking around. Other than the little bowls and such, the room was pretty bare.
+
+“The room is very new,” Ri Zu said almost absently. “Ri Zu still had no human form when she left and she considered it unneeded. Ri Zu had a shelf for her belongings, and she slept on the couch or, more often, on Bi De’s back.”
+
+The words were said absently. Yushang grinned. “Oh my, how scandalous! Before even having your father’s permission?! Ri Zu, how dare you?! I’m living with a woman of loose morals! Oh no, whatever shall happen to me—”
+
+The pillow hit Yushang directly in the face, and afterwards they soon began grappling—however, without her needles, Yushang proved herself more skilled, eventually pinning Ri Zu to the bed underneath her.
+
+Ri Zu was very cute when she was staring up at Yushang, her chest heaving and her cute face scrunched up in a pout.
+
+A pout that slowly changed into a small smile as they both stared laughing. Yushang let go of Ri Zu’s wrists and they embraced each other.
+
+“Thank you, Yushang, for everything,” Ri Zu whispered into Yushang’s ear. Yushang leaned back so she could see her friend’s smile, her heart thumping in her chest.
+
+Of course, that was when Bi De walked in on them.
+
+He stared at the scene with a raised eyebrow.
+
+“Well, don’t just stand there, come on in~” Yushang said.
+
+“Oh? But two flowers entwined is such a nice view,” Bi De replied.
+
+Yushang started laughing, while Ri Zu rolled her eyes.
+
+She didn’t let go though.
+
+=============================
+
+Life was good. It was really truly good. Han was animated. Uncle was in fine spirits…
+
+But something, oddly, felt like it was missing.
+
+And on the fifth day, things changed.
+
+Zang Shenhe, Elder of the Shrouded Mountain Sect, asked to meet with them.
+
+All of them had been cautious. They had, after all, effectively deserted the Sect after helping those who had sent it into civil war.
+
+But instead of an awkward conversation about that… instead, Zang Shenhe, a woman that Yushang had admired, asked for their help. The woman was frank, candid. Her eyes burned with purpose, and the only thing that any of them could see from her was honesty.
+
+“Che Han, much wrong has been done to your family. Centuries of oppression must be made right—and I would have your help in making this so. I have seen your work. I have seen your skill with formations. You would be the first, Che Han, elevated to Inner Disciple, and it is my hope that one day you will be an Elder.”
+
+Han looked stunned. He licked his lips before replying, “I will be going back to the Sect anyway, to see how my family fares. I will speak to them about your intentions… but…”
+
+“If you and your family still wish to leave afterwards, I will not dare to ask you to stay. I would only ask that you give me a chance to attempt to bring things to their proper place.”
+
+Han nodded hesitantly.
+
+Her eyes turned to Uncle Heng.
+
+“Outrider Shao Heng, you have served as an Outrider for decades. Your skill and experience are without question. Your character is known and respected. I would have you be the model for whatever emerges from our return—the defenders of the Howling Fang Mountains.”
+
+Uncle Heng looked serene. “That was my eventual goal in the first place. I shall be performing my duties with - or without - the Sect.”
+
+Elder Shenhe nodded firmly. Finally, her eyes turned to Yushang.
+
+“Liao Yushang, you have little connection to our Sect. You have little reason to trust us, or return. But I see in you a future, a future of how the Sect is supposed to be. Your talent, your skill, but more importantly, your heart. Liao Yushang, I ask you to become my personal disciple. Your heart will be our guide to rebuild Zang Yong’s dream.”
+
+Yushang said nothing, her mouth open.
+
+Shenhe bowed her head to them all.
+
+“Please, consider my words.”
+
+==================================
+
+All three of them were quiet as they walked back to the house, their brows furrowed. Han went to tinker with his formations, obviously wanting to be alone—but she saw Yun Ren glance at and follow after him nonchalantly. Uncle Heng went to get some tea, his eyes darting to Ri Zu.
+
+Yusahng knew what both of them were going to choose. Han had already wanted to go and check on his family, and Uncle had his dream.
+
+For Yushang, however, her path was less obvious. She found herself on the roof of the main house—which was a really good spot to sit, Bi De and Xiulan were right—mulling over the offer she had received.
+
+It weighed heavily on her.
+
+She was so happy here on this farm. She felt like she could stay here forever. Her life would be great. She would be content for the rest of her days.
+
+But a small, worming thought was stuck in Yushang’s head.
+
+It was idyllic. It was practically perfect. And her home… the Howling Fang Mountains… wasn’t.
+
+The Shrouded Mountain Sect had been the protectors of her home. The protectors of thousands of villages. And now, those same villages might have been left utterly alone and at the mercy of Spirit Beasts and the often-vicious climate of the Howling Fang Mountains.
+
+Maybe that was the part that made it seem like something was missing. This place was safe… but it wasn’t her home in the way it was for Bi De, Ri Zu, and Yun Ren’s.
+
+Her home wasn’t safe. Not anymore, especially after their actions.
+
+The conflicting thoughts battled. Her happiness and safety, versus the thousands of tiny villages, left in the cold.
+
+“Yushang,” Bi De’s voice broke her out of her thoughts. She jerked up, looking to where he and Ri Zu were approaching her. Both of them had serious looks on their faces.
+
+“Shao Heng told us what happened,” Ri Zu said, sitting down beside Yushang. “Or rather, he asked Ri Zu what her opinion was and asked what she desired him to do.”
+
+“That does sound like Uncle,” Yushang said with a little chuckle. “What did you say?”
+
+“Ri Zu said if he wished to repay his debt to her… then he should go and save others for forty years, because that is the amount of time Ri Zu saved for him.” Yushang knew it was the closest thing Ri Zu could get to absolving Uncle of the debt he felt he owed her. “But he must come back and check in when he can, so Ri Zu can see his progress.”
+
+Yushang chuckled. “Yup, sounds like Uncle. He’s always had that conviction about him. But me…”
+
+“You’ve never lacked for conviction, Yushang,” Bi De said. “Never doubt that. The choice placed before you now is a difficult one, and one that requires due consideration.”
+
+“…what do you think I should do?”
+
+“I do not think that that is a question we should answer,” Bi De replied. “Instead, I shall tell you what I do believe. I believe that whatever choice you make, it will be the right one—and that you will always be welcome here. Either as another disciple… or as our good friend.”
+
+“Follow your heart, Yushang. It has not led you wrong yet,” Ri Zu added.
+
+Yushang smiled at the words.
+
+A life of peace and happiness, or a life full of difficulty with the chance to make a difference?
+
+Well… Liao Yushang wasn’t the kind of woman to just coast by life, living on another person’s handouts.
+
+She looked up, her eyes set on the horizon.
+
+“Thank you,” she told them, the two beautiful people who had always had her back.
+
+Calm, kind, and patient.
+
+Yushang loved them both.
+
+=====================
+
+“Here you are, dear,” Shou said, prompt as always as he handed Yukong another piece of Shadow Oak. She smiled slightly. She did always love his attentiveness. With deft movements she carved her formation into the piece of wood, adding the tiny crystals that would focus its power.
+
+She had been working for three days. The formation truly was sublime. She could study it for hours—and this wasn’t even a main node! She would never be able to replicate the formation with just this… but she would be able to track it—which was all they needed.
+
+Elder Yukong of the Cloudy Sword Sect paused in her work as she felt something shudder. The formation twitched.
+
+She frowned when the minute pulse hit, so small it was nearly undetectable.
+
+Its effects, however, were far more obvious.
+
+Somehow, some way, the enemy had discovered that the base had been compromised, and now they were activating contingencies to take out the formation.
+
+It slipped through her attempts to stop it and analyze it, burning with stellar power, and following lines from the true formation’s center—a backdoor into the heart of the formation. She watched dispassionately as purple light consumed the scrawling characters, eating through the formation and instead turning it into an explosive. She saw the power swell and melt down the remaining parts.
+
+The detonation destroyed the base.
+
+And failed to accomplish anything of note.
+
+The Disciples of the Cloudy Sword had never been in that base to begin with.
+
+“Too late,” Elder Yukong observed from a safe distance, whisps of cloud fading from her form. The carved pieces of crystal and wood in her hands flickered to life and shuddered, like hounds catching the scent. The others stood around her, their faces grim.
+
+“Disciple Lu Ri. Report to our Brother Shen Yu,” Ge said. “We are ready to begin the hunt.”

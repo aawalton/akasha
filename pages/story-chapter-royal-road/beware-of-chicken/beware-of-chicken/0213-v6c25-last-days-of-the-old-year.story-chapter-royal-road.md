@@ -1,0 +1,195 @@
+---
+id: afe8e75a-0f5b-55f6-8da4-b41ab9e7660f
+page-type-slug: story-chapter-royal-road
+title: "v6c25: Last Days of the Old Year"
+slug: 0213-v6c25-last-days-of-the-old-year
+partOf: beware-of-chicken
+position: 213
+ownLength: 2173
+unit: words
+ownProgress: 2173
+publishedAt: 2025-05-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2292004/v6c25-last-days-of-the-old-year"
+royalRoadId: "2292004"
+markedReadAt: "2026-06-29T18:58:40.248Z"
+---
+
+And so time marched on. Slowly, ever so slowly, the events of the Solstice were left behind. Wounds scabbed over. Nightmares faded to simply bad memories.
+
+The New Year approached, under the relentless march of time.
+
+=======================
+
+There was something to be said for downtime.
+
+Though Biyu loved her job, and could and would work until Master Jing had to tell her to go and rest, having other projects was fun too!
+
+She could sit around and do nothing, but it always made her anxious. It was why she made dolls. She needed to be doing something with her hands, even on her days off. So when she asked to help with the New Year’s projects, it had just been something to occupy her. Something so she could sit around and talk with people. Maybe sew a prize or two.
+
+But this? This was amazing! She had seen the prototypes of Bowu’s machines last year, but the completed versions were something else. And the fact that they were using them to power games and make music? Brilliant!
+
+“You do this alright, Big Sis Biyu?” Bowu asked, and Biyu beamed at the term of endearment. “I feel kind of bad giving you the finickiest part.”
+
+“Just leave it to me!” she replied, puffing out her chest, gladly accepting the mission.
+
+Bowu showed her how he was planning to do it, and then she was off— filing and putting together the actual track for the arrow shooting game. The pieces needed to slide properly with each other as they went around the corner, and Bowu was correct, it was kind of finicky to get the tolerances right… but it was nothing Biyu hadn’t done before.
+
+Well, she hadn’t done metal really, but there were quite a few crystals harder than iron.
+
+It satisfied the itch her hands craved, and didn’t actually need much of her attention. So she could actually relax and make small talk with Xianghua, who was working on getting the whistles to sound right.
+
+The other woman regaled Biyu with the tale of what had happened in the Grass Sea. Biyu had read about the slaving ring, but hearing about it firsthand was quite the story!
+
+She just relaxed and let herself flow, a smile on her face. She was doing good work… and in good company.
+
+Biyu was content.
+
+Then, all of a sudden, things felt… weird. Like she was suddenly going to press too hard. She instantly froze as she had been trained. A miscut or too much pressure on a crystal could cause it to explode, and Biyu was very careful to make sure that would never happen.
+
+She had been caught in a back blast once. She hadn’t been able to get the ringing out of her ears for a week.
+
+The feeling faded after a few seconds, and Biyu shrugged it off.
+
+That was strange.
+
+She restarted on her task… and then it happened again nearly an hour later, but this time Biyu caught herself better, not stopping her work.
+
+Was it the tools? They weren’t hers. Maybe it was the tools, and she was just getting used to them.
+
+She didn’t notice Xianghua’s curious glance.
+
+========================
+
+Gentle hands ghosted along Miantiao’s back. Meiling’s Qi swirled within him, the gentle green light mapping out each portion of his spine in exacting detail. Many a time had he lain still under her ministrations. At first, she had been a bit clumsy, unsure and hesitant. But over the two years he had been at Fa Ram, her clumsiness had faded. Now he could barely feel the featherlight touches, which moved with purpose and surety; on another sheet of paper, she used the technique Ri Zu had invented to project an image of his spine.
+
+Her apprentice dutifully and swiftly copied down the image onto paper. It was amusing how alike Meiling and Ri Zu looked when both of them were concentrating. They had the same quirks, their brows knit in identical patterns, and they even chewed their bottom lips in the same way.
+
+Ri Zu was assisted by a small legion of shadowy helpers. The little rats squeaked and scrabbled, their mass a seemingly chaotic scrum… but there was a method to their movements, and not a line was out of place; they left only perfection.
+
+It was hard to believe that these were the last steps.
+
+Some part of Miantiao still didn’t believe he was worthy of being healed, his sins were so great. What he had done to Yin, turning her into a weapon for his own satisfaction, was unforgivable.
+
+Yet none would hear otherwise. Yin loved him and doted on him like he was her father. Never once had she regretted what had happened. Instead, all she spoke of was how great it would be when he was finally healed.
+
+The others did too. All of them thought he was worthy. All of them said he had done his part. Even Tianlan, who could not abide the wicked, pressed a gentle kiss to his brow and told him to forgive himself.
+
+…it was a work in progress.
+
+How many years had it been since Sun Ken had marked him? His scars, his back… all of it was from that cursed night, when that monster… no. Not a monster. Sun Ken was no monster. He was weak. Pathetic. As soon as he met his peer in cultivation, Xiulan, he fled with his tail tucked between his legs.
+
+It hurt that that worthless worm of a man was responsible for his Master’s death. But in the end… Miantiao’s Master had won. He had defied Sun Ken, and his teachings would live on.
+
+Miantiao would make sure of it.
+
+Meiling removed her hands from him and opened her eyes. She wrote down a few more characters and studied them intently. She turned to Ri Zu. The shadow rats swiftly completed their own work and lined up along the edge of the table, like little soldiers awaiting inspection.
+
+Meiling considered the image of Miantiao’s spine with a critical eye. She handed her notes to Ri Zu.
+
+“Do you see anything I’ve missed?” she asked.
+
+Ri Zu and the shadowy rats glanced between the notes and the image repeatedly. “No, Master,” Ri Zu said after a moment. “Everything seems in line with what Master Shou advised.”
+
+The rest of the little rats shook their heads in agreement
+
+“Okay. We’ll use this then, going forward,” Meiling replied, then turned her attention to the shadows that surrounded her. “Excellent work.”
+
+Her praise made the little ones preen, squeaking with joy and satisfaction. They faded slowly, waving goodbye, before disappearing completely… but the shadows of the room seemed warmer somehow.
+
+‘What isss the verdict, Lady Doctor?’ Miantiao asked.
+
+Meiling turned to him and chewed her lip for a moment.
+
+“One more practise run,” she finally stated, a little bit of regret on her face.
+
+Miantiao bowed his head. It was the necessity of this line of work. The best way to practise… was on another living being. Another of his kind, another jade snake, would be extracted from their hibernation holes, their spines crippled in the same way as Miantiao’s, healed to mimic the scar tissue… and then Meiling and Ri Zu would operate.
+
+They would feel no pain and they would sleep through the entire procedure, but they were still subjected to purposeful and deliberate maiming.
+
+Somehow it felt worse than if they were to simply eat the snake. It seemed… cruel, and neither Meiling nor Ri Zu took any pleasure in it.
+
+Miantiao too disliked the fact that they were subject to the surgeries because of him. It felt wrong… but Meiling had outright refused to use Miantiao as the only subject, so he could only bow his head in thanks to his kin.
+
+It helped that so far there had only been successes. And really… the two other snakes that had been experimented on would now lead charmed lives. Awoken early from their hibernation, they couldn’t go back into the cold. So now they lived in the greenhouse in quite large glass tanks. Jin had designed them, and included good soil for digging, bits of log for them to hide under, and a multitude of plants. They were fed the bounty of Fa Ram and no longer had to worry about predation because of their service, at least for the rest of this winter.
+
+Considering they willingly tried to climb onto Meiling’s hands, he was quite sure there was no lasting after effects from their trials.
+
+‘I sssee. It’ssss hard to believe that thisss is real,’ Miantiao said.
+
+Meiling grimaced. “I’m sorry it took us so long.” Genuine regret tinged her voice.
+
+‘I thought it impossssible in the first place,’ the snake countered, warmly. ‘That thisss isss happening at all isss a miracle.’
+
+Meiling reached out and stroked the top of Maintiao’s head. “If you want, we could do it before the New Year’s celebration,” she offered, and Miantiao paused.
+
+He considered Meiling’s offer… and in the end shook his head. He had been like this for a long time.
+
+He could wait a little longer.
+
+‘I ssshall wait until the New Year,’ Miantiao decided. ‘It would be aussspicious, no? To be fully healed during the time of rebirth.’
+
+Meiling bowed her head. “Of course,” she replied.
+
+‘Thank you. Now… if I could trouble either of you to get me to the forge, I promised Bowu my asssistance. We have so many thingsss to make!’
+
+Ri Zu smiled and held out her hand. Miantiao slithered up her hand and under her sleeve, where it was warmer.
+
+A little shadowy rat waved at him when he settled.
+
+They were small, cute, and helpful, Ri Zu’s shadows… and they might look good as pottery. Perhaps a series of white jugs or bowls, being carried by them? Or perhaps just done in glaze along the bottom?
+
+As they travelled back to the forge, Miantiao imagined scenes of pottery and glass.
+
+===========================
+
+“What are you working on?”
+
+Bi De blinked as he was shaken out of his thoughts by Tigu pressing a mug of tea into the side of his face. It was in the mug he had been gifted by Chun Ke, the one shaped like a rooster. His favourite vessel.
+
+“Oh, thank you, Sister,” he replied, taking the mug and setting it down beside him. He was currently in human form. “As for what we’re working on…” he lifted up the wood block he was in the middle of carving.
+
+“A stamp?” she asked. “A big stamp?”
+
+“Ah, Master gave me the idea,” he replied, “And I sought out Brother Bei Be’s help in making the cuts.”
+
+The ox didn’t even look up at his name, instead continuing to make his exacting cuts.
+
+Bi De truthfully hadn't spent much time with his fellow disciple—which was an utter shame. So he sought the ox’s help in order to deepen their bonds.
+
+Bei Be had agreed, but at first his heart had not been in it and he had only agreed out of courtesy… until the first of the woodblocks took shape and Bi De had shown him exactly what they were making.
+
+First came curiosity… and then came amusement.
+
+Now his brother disciple had expanded their little operation, making the prints more complex. Bi De imagined simple things, but these were quite large… and honestly, better for it.
+
+“So what's it for?” Tigu asked.
+
+Bi De picked up one of the completed manhua. A strange term, but it meant a kind of picture book, divided into panels. Realistically, they could have just drawn the little story they had made multiple times… but printing them was easier.
+
+It was ten pages long, and was a simple story of a boar foraging for nuts and berries that he could share with his other friends.
+
+Tigu’s eyes sparkled.
+
+“You understand the hearts of children better than I. Do you think they’ll enjoy them?” Bi De asked.
+
+Tigu just nodded. “I think that these are going to be very popular.”
+
+=============================
+
+The forge rang with hammers and chisels. It shrieked with out of tune whistles getting closer and closer to something that sounded good.
+
+In the house, needles flashed and scissors cut, stuffed animals taking shape. Wood was carved into dolls, and stones into the bones of ‘dinosaurs’, as Jin called the giant lizards which looked like strange, fat dragons to Biyu.
+
+They all worked together. They all ate together. They all laughed and drank and played board games until it was time to sleep.
+
+Then they did it all over again the next day.
+
+==========
+
+And on the day before New Year’s, at breakfast, Jin’s grandpa cocked his head to the side. His gaze bore into Biyu, who felt a bit uncomfortable at the scrutiny.
+
+“That has to be one of the most controlled ignitions I’ve ever witnessed,” the old man said.  “Congratulations on igniting your dantian, young Biyu.”
+
+Biyu’s eyes widened in disbelief.
+
+The table erupted.

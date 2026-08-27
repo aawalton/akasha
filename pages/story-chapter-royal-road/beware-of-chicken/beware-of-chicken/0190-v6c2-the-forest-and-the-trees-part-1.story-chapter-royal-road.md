@@ -1,0 +1,161 @@
+---
+id: e4df6040-9eba-5c3d-b0de-1f46992d25c0
+page-type-slug: story-chapter-royal-road
+title: "v6c2: The Forest and the Trees Part 1"
+slug: 0190-v6c2-the-forest-and-the-trees-part-1
+partOf: beware-of-chicken
+position: 190
+ownLength: 2115
+unit: words
+ownProgress: 2115
+publishedAt: 2025-03-11
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2118990/v6c2-the-forest-and-the-trees-part-1"
+royalRoadId: "2118990"
+markedReadAt: "2026-06-29T18:57:50.180Z"
+---
+
+Ah, how wonderfully unpredictable the world was, Ge mused as he finally managed to get his laughter under control. Shen Yu was clearly not lying—he would not lie about something like this.
+
+A chicken, Shen Yu’s disciple. Utterly absurd, yet here it was. The Heavens were clearly having their amusement this day. Yukong looked intrigued, and Shou was clearly restraining himself from an annoyed outburst at what he thought was another of Shen Yu’s pranks, while Minyan had recovered herself from the shock, her eyes sharp as she examined the creature before her.
+
+He shook his head and refocused on the Spirit Beast.
+
+He saw in the rooster’s form—in his stance and his bearing—the mark of Shen Yu’s instruction. But Ge had received the initial report from Lu Ri about the rooster’s strength. Back then it had been in the Profound Realm; now, it was in the Spiritual Realm. That made it one of the strongest Awakened Spirit Beasts Ge had ever encountered.
+
+It seemed that the disciple in question also did not find his introduction entirely amusing. The Spirit Beast actually seemed a bit uncomfortable and embarrassed to be stared at by such powerful cultivators, shuffling awkwardly.
+
+“You are right, he truly is a proud, erect fellow,” Ge agreed.
+
+“You are truly Shen Yu’s disciple?” Minyan asked, her voice cold, but curious. The rooster turned to her.
+
+“This one has the honour of serving as Master Shen Yu’s Disciple,” the rooster replied, his voice formal and polite as he bowed to her again.
+
+His voice was strong, and his tone polite without being overly deferential. His eyes were wise and noble.
+
+“He sounds too polite to be one of yours,” Shou grumped, annoyed at being thrown off balance.
+
+“Indeed, I am not the cause of his manners. My grandson taught him well!” Shen Yu agreed.
+
+“You must be quite old to be so powerful,” Yukong said, her eyes focused completely on the oddity before them. She turned to young Jin curiously. “How did such an arrangement come about? Most Spirit Beasts are hardly willing to be taught.”
+
+As soon as the words left her mouth, Shen Yu’s grin got even bigger.
+
+The rooster blinked.
+
+“I had the good fortune of my Great Master’s instruction, yes, but I am not particularly old for a chicken. This shall be my third year cultivating.”
+
+Xiao Ge paused. Shou’s calm face twisted into one of shock. Yukong’s mouth opened. Even Minyan showed some emotion.
+
+Three years? It had taken Ge… it had taken everyone here much longer than that. One of the most legendary, transcendent talents of this generation… was a chicken?!
+
+And Rou Jin had raised that chicken to this level?
+
+“He's only slightly ahead of me! I’ll catch up soon!” the tanned, orange-haired girl in the group exclaimed, her hands on her hips. Her power, at the Fifth Stage of the Profound Realm, was clear.
+
+“How long have you been cultivating, young one?” Ge asked, curious.
+
+“Three years!” she replied proudly.
+
+The boar, the pink-haired woman, another young woman with freckles and a green strand of hair, and the dragon all nodded. Their gazes held a competitive spirit… but no edge of resentment.
+
+…it was as Ge remembered from his own youth. Competitive, yet still aligned as one. And those bonds had been forged here, far, far away from the Sect. Somehow, Rou Jin had raised them up high, both with swiftness… and with a sublime foundation.
+
+That was the most unique part. There were methods to advance one’s cultivation quickly, but most were poison pills, riddled with instability and impurity. The Qi before him was all solid, comfortable, and unwavering.
+
+“You’ve accomplished many great things since leaving our Sect, Rou Jin,” Ge said after a moment. “It brings me great pride to see the grandson of my friend accomplish such things… and great shame to know our Sect could not nurture such a talent. We have spoken over letters and through intermediaries, but some things must be spoken in person.” Ge raised his hands in a martial salute and bowed his head. Beside him, Yukong and Shou copied his movements. “What happened at the Cloudy Sword Sect was anathema to all of the ideals of our Honoured Founders. We must ask your forgiveness, for letting such rot fester.”
+
+Rou Jin smiled slightly—a smile that was slightly sad, but slightly relieved.
+
+“Time and complacency can make fools of us all,” the young man offered. “The only true failing is not acting when enlightened.”
+
+Ge’s eyes widened. “The wisdom of Honoured Founder Zixin.”
+
+Young Jin scratched the back of his head. “Lu Ri left some scrolls. They have some good ideas in them.” He cleared his throat and stood straighter. “Now, would you prefer to have the tour first, or refreshments?”
+
+Ge felt Shou’s eyes immediately bore into the back of his head.
+
+“I do believe we are quite excited to be allowed to view your home,” Ge decided.
+
+The young man nodded. “Well then, this way please! First, is the General that Commands the Winter!” Young Jin had an amused grin as he pointed at the giant snow-person. It had quite a bit of Qi in it, and had the feeling of an ice crystal, but… deeper. Something to examine more thoroughly at a different time.
+
+Young Jin continued to give them the tour of his home. It was an interesting place, a blend of mortal and immortal—of rugged rustic farming and the power of cultivation. It was an honest, humble place…
+
+At first glance.
+
+===============================
+
+Qin Shou, Elder of the Cloudy Sword Sect and Master of its Medical Pavilion, was still mildly annoyed at Shen Yu.
+
+It had been a while since Shou had had to deal with Shen Yu’s particular brand of… Shen Yu-ness. They were comrades, and Shen Yu had helped out the Sect a lot, but dealing with the man was exhausting at the best of times. In all ways. It had been a bitter pill to swallow, long ago, that the reckless, boisterous fool was just… better than him. Better at cultivation, better at finding hidden gems… comrades came to Shen Yu like moths to a flame, drawn in by whatever spark lurked in his eyes, that was still there even now.
+
+He would have been so easy to hate, too, if he didn’t have that damnable noble streak, if he hadn’t been a man who was good to his comrades.
+
+When Yukong had first accepted Shou’s courtship, Shou thought he would have to fight Shen Yu—the man had made no secret of his interest in her. Instead, Shen Yu instantly dropped the matter and congratulated them, and then went on a quest to find the sapling of a Seal-Scroll Pillar Tree as their wedding gift—a stunningly rare Spiritual Herb whose bark produced the finest reagents for healing formations. It had been a thoughtful gift that took into account both of their specialities. The tree still resided in their shared pavilion, growing between their two workshops.
+
+So Shou… could never really hate the man, but he could be annoyed by his antics.
+
+But right now, right at this moment, he would gladly suffer Shen Yu’s presence for the next ten years. He would listen to his japes and vulgar jokes every day.
+
+Because Shou was speaking with a man who understood.
+
+The humble appearance outside of the glass house had revealed a great bounty within. The terraforming of the landscape and the temperature control were both a bit primitive compared to the temperature control formations Shou had access to, but the thought and diligence put into each and every plant in the ecosystem, Spiritual or otherwise, was enough to make a man weep.
+
+His compost was a masterwork. His soil drainage was perfection. His light rotation and Qi infusion made Shou want to kill the little rat bastard who had harmed him a thousand more times!
+
+“You’ve induced cultivars in the Seven Fragrance Jewel Herbs,” Shou breathed, his eyes on the different variations of the herbs. Domesticated Seven Fragrance Jewel Herbs were one of the crowning achievements of the Sect. They were the perfect Spiritual Herb for early cultivation—both aiding cultivation speed and able to heal most physical injuries. They were forgiving to one’s dantian and had little to no impurities when refined into pills.
+
+They were, in Shou’s expert opinion, one of the greatest Spiritual Herbs in existence, despite the fact that he had mostly outgrown them. His personal cultivar of the herbs could, of course, still aid him, but they needed a lot of resources to reach that level—no longer were they Seven Fragrance, but Fourteen Fragrance.
+
+But the best part? The best part… was that Rou Jin simply started sharing. He was eager to talk about his accomplishments.
+
+It had been so, so long since Shou had spoken with one who shared his passion so much. Not since his own Master’s passing had he engaged in such spirited discussions. Nobody else could speak so authoritatively on Spiritual Herbs. Those who could were rivals who would not reveal their secrets.
+
+“Yes, the ones with the fatter leaves take a bit longer, and need more drainage in the soil, but they also produce more liquid when crushed—helps us make these,” Rou Jin said. He pulled out a vial of sparking medicine, filled with Draconic Qi.
+
+“You made this?” Shou asked, impressed, as he examined the offered vial.
+
+“No, the idea was my wife’s,” Rou Jin said proudly, pointing to the short, freckled woman.She had been walking with them, her face a mask of impassive politeness. Shou got the feeling that the young woman didn’t much like them. She was quite powerful, that much he could sense, but her power was as diffuse as her husband’s. He knew she was a Spiritual Doctor of some form, but she had been content to stay quiet. “I’m not much of a medicine maker myself, but she's brilliant!”
+
+The young man spoke in a familiar tone. A tone that Shou often used when speaking of his own wife’s sublime formations.
+
+Shou decided right then and there that he liked Rou Jin, in spite of who had adopted him. He truly was a good lad.
+
+“We shall have to discuss these, if you are amenable,” Shou stated to the young Spiritual Doctor. Her eyes widened, and some of her mask cracked into interest.
+
+“Of course, Elder Shou,” she said politely.
+
+Shou smiled and turned back to the Seven Fragrance Jewel Herbs, his eyes roving over them.
+
+“Those ones there, what about them?” he asked. They were thin and looked to be fast growing.
+
+“Oh, those are the ones we use for seasoning,” Rou Jin said.
+
+Shou paused. “Seasoning?” They did have the jewel herbs in their meal some weeks ago, but Shou had figured that that was just the mortal using his most expensive resources to welcome them—an acceptable outcome.
+
+“Yes, they’re spicier than the normal kind.”
+
+But to have a specific cultivar specifically for seasoning?
+
+For a brief moment, Shou wanted to decry that the Seven Fragrance Jewel Herbs had been reduced to that—but he paused, considering. If one constantly ate them, would that not be beneficial? The overall effect would be less potent, but a sprig a day healing minor injuries and aiding cultivation growth…
+
+Thinking further on it, the idea was actually rather brilliant. Could cooking also change their effects? He would have to ask for volunteers among the disciples later.
+
+He made a mental note to follow up on the idea as Jin began to walk deeper into the greenhouse. It was a place of peace and tranquility, much like Shou’s own gardens. The smell of growth, life, and earth was most pleasing, and the gentle sound of flowing water capped it all off.
+
+“In which of these water features are the Silver Yin Lotuses?” Shou asked.
+
+The young man paused. “Those are in the bath house.”
+
+“… the bath house?”
+
+“Yeah, they actually need a steady supply of Yin Qi and hot water. Easiest way to do that is for the girls to take a bath with them.”
+
+Rou Jin smiled guilelessly at him.
+
+“That's it?” Shou had been trying to grow the lotuses for over two hundred years! He had already tried growing them with Yin Qi!
+
+“Well, no, you actually have to have three different nursery tubs filled with different temperatures of hot water, and then they actually need to be dried out in between each stage—very, very tricky to grow. I’ll give you a write-up of what I did after we see them.”
+
+Shou smiled at the kindred spirit across from him.
+
+Today… was a good day.

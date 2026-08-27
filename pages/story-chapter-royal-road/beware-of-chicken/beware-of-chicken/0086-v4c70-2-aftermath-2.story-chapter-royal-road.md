@@ -1,0 +1,161 @@
+---
+id: 10ff90d7-79ee-5026-9f77-952fac0fbbbd
+page-type-slug: story-chapter-royal-road
+title: "v4c70.2: Aftermath 2"
+slug: 0086-v4c70-2-aftermath-2
+partOf: beware-of-chicken
+position: 86
+ownLength: 2105
+unit: words
+ownProgress: 2105
+publishedAt: 2023-12-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1447690/v4c702-aftermath-2"
+royalRoadId: "1447690"
+markedReadAt: "2026-06-29T18:54:23.833Z"
+---
+
+Shao Heng awoke to an unfamiliar ceiling; yet such a thing was something he was long used to. He had slept anywhere from under the stars to in mortal barns, and the place where he awoke had long since ceased to be a consideration. As long as his instincts told him it was safe, he could rest his head anywhere.
+
+And indeed, his well-honed abilities told him one thing only: that he was as safe as he could be considering the circumstances.
+
+To think he would be safe in the middle of a fox’s den.
+
+Yesterday the very idea would have been preposterous; but the world had changed between one hour and the next, and all that was left was to adapt to his new circumstances.
+
+Shao Heng pulled back the soft covers of his bed and slowly rose to be seated. His head hurt from the drink he had partaken of last night; his less advanced cultivation made it so much more obvious that he had overindulged. Yet headache or no headache it was time to get up and continue the exercises Ri Zu had given to him for his returning cultivation.
+
+He was certainly going to be feeling better than the room’s other occupant, at least. Young Han had drank until he passed out; and Heng had then taken the lad to his own room, just in case. The fox-woman he had slumped over onto obviously held him no ill will, but Heng had decided that at least some caution was warranted; so like a good senior he had seen to Han, and then after he was certain the boy would be fine he had went and collected Yushang… Who had been teasing Doctor Ri Zu and Bi De, who were both covered in mud for some reason.
+
+Shao Heng rubbed at his pounding head and took a deep breath. Then he rose to his feet and exited into the silent hall.
+
+Few were awake at this hour, especially after last night… but there were some servants going about their business, fake fox ears on their heads.
+
+That their blood was so weak that the fox ears were faked and that few of them had any capability to use illusions had been… well, it had been a revelation.
+
+Nobody impeded his progress. In fact, a couple bowed politely and got out of his way as he exited out into the courtyard. The sun was still hidden behind the mountains, and the air was bitterly cold.
+
+He began warming up and paused as a fox-person set down a jug of water as well as some towels on the railing for his use after he was finished.
+
+“My thanks,” he said, and the woman bowed to him before departing to leave him to it.
+
+He watched her go.
+
+If he was honest, he was slightly surprised at the welcome he had received. He had expected more animosity, with them being members of the Shrouded Mountain Sect, but the fox in charge, Nezan, had simply welcomed them all after he found out their roles in helping Bi De and his company, immediately labeling them all good friends.
+
+Shao Heng had heard for nearly his entire life that the foxes were all vicious, vile creatures. It was honestly something that had just faded into the background of his mind. The leaders of the Outriders had always repeated that they were the first line of defence against the foxes, and they always made sure to have a small stock of Revelation Spheres, the portable illusion detectors, in their packs.
+
+Yet in spite of all that those warnings had gradually become background noise.  In his forty years, ranging from every far-flung outpost and foiling thousands of attacks from Spirit Beasts and men… the Revelation Spheres he carried had never so much as twitched. Shao Heng had never even seen a fox, let alone witnessed a fox attack a settlement.
+
+He had heard stories about them and other Outriders had claimed to have hunted the beasts… but their stories had never seemed quite right.
+
+And now he knew why. He had learned last night by listening to the fox-woman, Da Jin, that had joined in their little group speaking about the foxes. Instead of predators filled with endless malice and beasts of great power who were constantly waiting to lay them low, most of the foxes were barely even cultivators at all.
+
+They were a scattered and broken people eking out a living wherever they could. While Nezan had been howling with laughter at the harm brought to the Sect… all Heng had seen was relief in most of the other foxes' eyes that they would no longer be hunted.
+
+He had seen those eyes a thousand times before. They were the same eyes that the people of far-flung villages had when Shao Heng arrived and told them that they need not worry anymore, for the heroes of the Shrouded Mountain Sect were there to protect them.
+
+They were the eyes of a people who suddenly had salvation.
+
+He took a deep breath as he finally turned away from the fox-woman servant and began his morning exercises.
+
+Shao Heng didn’t know if he was still of the Shrouded Mountain Sect. But… he would still be a hero. That was his goal in life. That was his reason for being. That was what Ri Zu had reminded him of when she had saved his life.
+
+And once he regained his strength the mountains would once more be patrolled—even if he had to start up his own sect to do it.
+
+For with the sudden power vacuum that was sure to form, many villages would be left without guardians.
+
+Shao Heng did not fault his companions. The sins of the Shrouded Mountain Sect had been heavy and many.
+
+So, like he said before, there was only one thing to do.
+
+Adapt. Adapt and figure out a path to victory. Once he was back to his former strength then he could begin to truly act.
+
+So Shao Heng did his “physical therapy”. He exercised his meridians in the way Ri Zu had shown him. He felt himself grow, his old strength returning to him in a fraction of the time he had spent originally cultivating it.
+
+And he was better than before. His foundation was a rock. His strength was as sturdy as the mountains. His past self would have been dumbfounded if they saw him now.
+
+Shao Heng let out a final breath as he completed his exercises and opened his eyes.
+
+The sun crested the horizon and its warmth hit Shao Heng’s body. A man’s gentle voice began to echo out over the mountains.
+
+He turned to where a short woman was standing, watching over him.
+
+Ri Zu smiled at Shao Heng. She seemed to be positively glowing today as she stepped down to check on his progress.
+
+“You’re doing well,” she told him. The care and affection in her voice was obvious. She cared about him, not merely that he could do his job. “You’re progressing faster than Ri Zu’s estimates.”
+
+“It is due to your care and diligence in crafting my exercises,” Shao Heng demurred, but Ri Zu shook her head.
+
+“No. It's Shao Heng’s discipline and determination. Without it, no matter what Ri Zu did, it would yield no results,” Ri Zu declared, and then she looked into his eyes, her tone changing. “Are you well?”
+
+He considered her question before nodding. “Thank you for your concern, but this uncle here is made of mountain rock. It will take a bit more to chip me.”
+
+“You are taking it better than Ri Zu likely would have,” she said, amused. “But come, let us have some breakfast. You need your energy.”
+
+Together, they went to get their breakfast. Most of the foxes were up by now and they were cooking up a feast. The smell was delectable as they walked past the kitchens and into the meeting hall.
+
+There were already three people up and waiting for them. Han looked mostly recovered from any hangover he might have had and was actually smiling at the other two members of the group. Yun Ren looked incredibly annoyed as Yushang played with his tail. The woman noticed them with a sideways glance through a face obscured by fur and perked up.
+
+“Uncle! Ri Zu! Here, touch it! It’s so fluffy!” she exclaimed happily.
+
+“Brat,” he replied in greeting, shaking his head. “Excitable as ever I see.”
+
+Yushang giggled and shoved the fox-man's tail at him, obviously intending for them to touch the incredibly soft and fluffy looking thing.
+
+“Nezan said that I can curse people who touch it,” Yun Ren said. “It's not working.”
+
+“What, you would curse your pretty sister?! How cruel!” Yushang sobbed in mock misery.
+
+With a blank stare and without any hesitation, Yun Ren replied with a deadpan, “Yes.”
+
+Shao Heng found himself smiling slightly at the byplay. Both Ri Zu and Yun Ren acted exactly the same as they had back at the Sect. The slight awkwardness and tension bled out of the interaction near-immediately, leaving him only with the memory of the good times they had shared together as Yushang and Yun Ren bickered like siblings.
+
+The fox-man turned to Shao Heng and Ri Zu. “Come on, then, get it over with,” he grumbled and proffered his tail.
+
+Shao Heng touched it once. It was very soft.
+
+Then he stepped aside as Ri Zu took over, her hands moving with oddly disturbing grasping motions.
+
+“Let Ri Zu see!” she demanded, and Yun Ren gained a look of abject horror.
+
+As Ri Zu was molestin—examining Yun Ren and explaining that two sets of ears made no sense, Shao Heng sat down beside Han. The young man didn’t look quite as close to a breakdown as he had last night.
+
+“Thank you for looking after me last night, Heng,” Han whispered as he sat down.
+
+“Are you doing better, lad?” he asked.
+
+“...a little.” Han replied, and Heng clapped him on the shoulder. “Still, your advice did help. I’m glad you’re here.”
+
+...it had been years since a fellow member of the Sect had honestly said that to Heng.
+
+“Mmm! Uncle is good to have around!” Yushang agreed.
+
+“Indeed. His temperance is a gift to us all,” a warm familiar voice declared. Shao Heng glanced up as Bi De entered the hall. He was in his human form and he seemed to be glowing with pleasure at seeing them all. “Good morning, my friends. I’m glad to see you well after the events of yesterday. I understand that it was trying—but rest assured that you have our full support. We will be discussing our future plans later today—and hopefully we can lay any lingering concerns to rest.”
+
+Shao Heng found himself nodding at the man’s words. Ri Zu and Yun Ren were the same—so why would the man before him not be? His smile was bright as he clasped Shao Heng and Han on the shoulders before sitting down. Ri Zu let go of her examinations to sit down beside him, snuggling into the red haired man.
+
+Yushang watched the action with a predatory grin.
+
+“Sooooooo,” Yushang said leadingly. “How was last night?”
+
+Ri Zu and Bi De flushed slightly.
+
+Shao Heng blinked. So that's why she looked so happy. He would have to offer his own congratulations later.
+
+“It was wonderful,” Bi De replied. “Thank you for crafting the mud pit for us.”
+
+That, however, made Heng pause. What did they need a mud pit for? Yun Ren, on the other hand, looked scandalized.
+
+“Wait, what?! You didn’t tell me? Meimei is going to have my ass that I didn’t get any recordings!” Yun Ren howled.
+
+Ri Zu and Bi De suddenly flinched, and just as they opened their mouths to reply Yushang cut in. “So when's my turn?” she asked, smirking.
+
+Bi De choked and Ri Zu spluttered as she flushed even more… but she didn’t actually look upset at the question.
+
+”You’re doing it again, damn it! Han, can you help me get a mud puddle set up? Maybe we can go to the valley and get a better shot with some greenery—”
+
+Shao Heng struggled to contain his laughter at their antics. It had been decades since he had been so amused.
+
+He may have left a lot behind in choosing to follow Ri Zu… but he was certain that he had gained a lot more in return.
+
+Shao Heng closed his eyes, as some hope for the future brimmed in his chest.

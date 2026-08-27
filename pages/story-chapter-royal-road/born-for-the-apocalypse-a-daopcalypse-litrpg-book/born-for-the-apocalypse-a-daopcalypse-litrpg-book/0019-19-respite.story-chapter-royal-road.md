@@ -1,0 +1,75 @@
+---
+id: 161bf9a9-2e30-5983-be1b-efb62f49a84f
+page-type-slug: story-chapter-royal-road
+title: "19: Respite"
+slug: 0019-19-respite
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 19
+ownLength: 1155
+unit: words
+publishedAt: 2024-10-26
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1869562/19-respite"
+royalRoadId: "1869562"
+---
+
+19:
+
+Jack offered Sarah a hand, which she hurriedly accepted in an effort to maintain her balance. Climbing the staggeringly tall Anarix Trees was an idea that the survivalist within Jack was staunchly against, but so far, none of the attacks they had faced came from aerial vectors and both of them were tired.
+
+The cruel forest seemed to stretch on for miles on end, offering no guarantee of finding decent cover and camping on the forest floor itself wasn’t even in consideration. Not when they were in what Jack suspected to be Rift Goblin territory.
+
+Thankfully, the Rift Beasts they had encountered so far had been limited to Level 3. Two of the people that they had arrived into this new iteration of earth with were dead and while Jack individually was far stronger than he had ever been, he did not believe that his own strength made up for the difference that numbers provided.
+
+Not yet.
+
+“Thanks,” Sarah whispered as she gingerly stepped onto the branch Jack was sitting on. It didn’t so much as creak under her weight, though that didn’t stop him from knocking on its surface to reassure her. A metallic clink sounded out as Jack knocked on the Anarix Tree’s branch, only to get a sensory response that suggested that the tree was more rock than wood.
+
+Convinced, Sarah held on to his hand as she seated herself before letting go.
+
+“So,” Sarah began, her tone weary with exhaustion even though the nourishment pill they had consumed an hour ago had satiated them, the hydration pill kept the thirst away and the need for sleep had not been a problem for Jack at least, since his body was reforged by the Divine Flames. “What now?” She asked, her earlier boldness having given way to a pervasive weariness.
+
+“I’ve been thinking,” Jack replied, his tone solemn as he turned to face Sarah.
+
+Their gazes met and for a brief moment, they studied each other.
+
+Their faces were covered in a layer of perspiration, dust and grime. Sarah’s originally pristine tunic was marred by splotches of dried blood, while Jack’s Twilight Chest Piece had done a good job at keeping blood from sticking, the same couldn’t be said about his leggings. Dirt and dried blood painted a grisly picture of his previous day and the awakening quest had barely begun.
+
+“About what?” Sarah asked.
+
+Jack sobered, before shaking his head and pressing forward with a reply, “When I dealt with Trent, I was given a feat for my actions.”
+
+Sarah’s expression sobered up at mention of Trent, the weariness fleeing from her eyes, “A feat, huh? I have a slot on my statistics screen that mentions it, but it’s blank. What does it do?” She cautiously asked, her tone as soothing as she could make it.
+
+“It’s called Dao Slayer,” Jack replied after a moment. “Its effect in itself is nothing stellar. It adds one point to my Qi Pool. What I’m worried about is what it means for us and for this quest.”
+
+“Tell me more,” Sarah replied, her tone taking on that same intensity it had when she’d counselled him.
+
+“The way the quest was worded, its emphasis on the so-called awakening, I thought that this Arrenis Shen or the three realms he represents, wanted a large number of people to unlock their Dao Marks. Maybe take the awakened ones somewhere else, recruit them into an intergalactic army or train them to participate in their civilization. But I killed one of their precious Dao Marked individuals and it rewarded me for it,” Jack explained, his tone solemn.
+
+“What are you trying to say?” Sarah asked, her intrigue only balanced by confusion as she tried to decipher Jack’s implication.
+
+“What comes after this, Sarah?” Jack asked. “When I met Arrenis Shen in the dreamscape, he laid claim to this planet. And after the effort they’ve gone to in remodelling it, I don’t think they’re going to just go away. If we take this as a sixty day sojourn, we’re going to be crushed when we finally face whatever it is they’re granting us this training opportunity for.”
+
+“A training opportunity?” Sarah asked, her tone sounding wronged. Two of their group members had already died on the first day and regardless of how it had happened, calling something this cruel an opportunity was going too far.
+
+“I didn’t make the rules, Sarah,” Jack replied with a sad smile. “You offered me strength when I needed it the most, so I won’t mince words or try to sugarcoat it. I respect you, Sarah, that’s why I’m going to tell you what you need to hear.”
+
+Sarah’s lips were pressed together, before she bit back a response and waited for Jack to finish.
+
+“This is our reality now,” Jack said, as his gaze swept across the landscape in search for threats. “You told me that I wasn’t your leader. I wasn’t Trent or Andrew’s leader. And that was true. In this new world, we all make our own decisions. And those decisions come with consequences. Don’t try to go back to the way things used to be and accept them as they are now and move forward. If you do not fall on your path, others will. Instead of letting their deaths go in vain, use them as fuel to survive. Fight for more than just seeing the next day, become strong enough that no one can force you to choose between their life and your own. Become strong enough to stay human.”
+
+Sarah met Jack’s gaze and they held eye contact for moments on end, before Sarah’s eyes began to water.
+
+Jack offered her and arm and she leaned into it, silently sobbing as she let the built up emotions that the system and it’s damned quest had forced onto her.
+
+“Do you think…,” Sarah whispered, only to break out into a sob before recovered, “are my parents truly exempt from the trial? Or did that masked alien lie to me?” She asked with a quivering voice, her tone barely above a whisper.
+
+“Arrenis Shen mentioned something about children below the age of eighteen being exempt from the quest,” Jack replied softly, his tone gentle. “I’m assuming that the same holds true for those past a certain age. For what my opinion’s worth, I don’t think beings this powerful have any reason to lie to us.”
+
+Sarah nodded, sniffling as she fought back any more tears that were on their way, before pulling away from Jack.
+
+“I understand,” Sarah said with another small nod. “If fighting is what I need to do to see them again, then…,” Her grip over her spear, that was held with left hand and balanced on the Anarix’s tree’s band. “I’ll give them hell.”
+
+Jack wanted to continue the conversation, but both of them were interrupted by a uninvited system prompt.
+
+[The Tutorial Shop is now active.]

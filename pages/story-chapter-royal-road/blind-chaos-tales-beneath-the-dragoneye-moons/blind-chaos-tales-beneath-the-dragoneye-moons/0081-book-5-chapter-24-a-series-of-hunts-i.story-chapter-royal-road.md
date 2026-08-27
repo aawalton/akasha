@@ -1,0 +1,211 @@
+---
+id: 2fa7fabd-5565-5a3c-a04f-8806ab3dd947
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 24 - A Series of Hunts I"
+slug: 0081-book-5-chapter-24-a-series-of-hunts-i
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 81
+ownLength: 4128
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3586291/book-5-chapter-24-a-series-of-hunts-i"
+royalRoadId: "3586291"
+---
+
+“You’re still pausing.” Ranthia chided, shaking her head after Anthelleon’s latest demonstration.
+
+“I am aware of the loathsome pause!” The platinum-haired elf snapped in response. An apology followed a moment later, of course, along with the (wildly unnecessary) explanation that she wasn’t enjoying the novelty of struggling for improvement.
+
+They’d hoped that putting Anthelleon’s newly chaotic combat style to the test in a real hunt would have helped with the issue. It didn’t. Instead, Ranthia had been forced to handle the bulk of the combat while Anthelleon struggled to provide timely assistance.
+
+Honestly, it was her own fault for agreeing to camp until her friend managed to tighten up her timing. They had been there for four days already, and Ranthia was sorely missing both her bunny and the City of Arts’ food.
+
+“We need to try something else. I still think praying to Xaoc might help enlighten you.” Or we could just go home.
+
+“The mother of my mother’s mother is a goddess. My family would never forgive me for praying to another deity.” The elf repeated her usual refusal.
+
+“The same family that you ran away from to become a Hunter, because you didn’t want to be bound for three hundred years to a rival family’s son?” Ranthia’s ill temper bested her and the sass escaped confinement.
+
+“I… Hm. You are excessively rude tonight, but… You make a valid point.” Anthelleon dismissed her weapon and sighed before she walked over to one of the logs they had dragged into their campsite. “Very well. Please introduce me to the Creator that you worship, lady [Priestess].”
+
+Xaoc didn’t immediately solve Anthelleon’s struggles with being chaotic without thinking about it, but He allegedly did speak to her. For the next two days, the elf remained distracted by her thoughts. At least she had agreed to return home while she mulled over His words.
+
+Ranthia used the silence to wander through [Immortal Armaments], in part to revisit her decades with Avyna and in part to explore the confines of the Skill since it had finally broken level 400. Ranger’s final advice was solid, but it was still… hard. Every moment of tenderness. Every act of loving care. It was hard not to question them, no matter what her heart told her was real. And yet, there was a genuine difference between Avyna’s initial flirtatious demeanor and the affection they came to share. Avyna’s misunderstanding about the word ‘love’ also strongly suggested that there were parts of their relationship that she could trust—and she wasn’t so jaded that she was convinced that her perfectionistic elf would have staged such an embarrassing moment.
+
+And when her emotions threatened to overwhelm her, she explored the added clarity in her older memories. It was always good to see and hear her fathers once again, but that wasn’t the only reason she did it. She had started to find places where her recollection was flawed. Sure, there were simple things, like thinking Pyra had been the one to say something Lysia said, but there were bigger mistakes too. She had, apparently, dreamed up a couple of Adventuring jobs Tatius and Pupius had taken her along on that never actually happened. She swore she could remember them, but [Immortal Armaments] provided an undeniable truth—they were fictions. One, she finally traced to a dream she had as a teenager, and the other had been a story another Adventurer told Pupius while she was within earshot.
+
+Weird.
+
+Unfortunately, the one restriction of her Skill still seemed to be in place. No matter how she tried to push the Skill, she couldn’t experience any memories past the moment she woke up, after Ranger Elaine healed her. The first eight years of Ranthia’s life, the Paladin’s existence, and even her judgment from Xaoc remained beyond the Skill. She could recall remembering facing Xaoc and the Paladin’s death, but the Skill just couldn’t access anything beyond her own worldly experiences—there were no memories to be found.
+
+[*ding!* [Immortal Armaments] has reached level 404!]
+
+“Oi, listen up you idiots!”
+
+The tavernkeeper’s words silenced all conversations, though the crowd seemed to grow far more energized as the powerful woman effortlessly lifted one of the largest barrels Ranthia had ever seen—a green one, wreathed in enchantments.
+
+“I usually don’t break this out until one of you has stuck around for sixty-four years, but it’s the anniversary of the day one of you damned fools first walked into this place.” The forcibly nameless woman surprisingly seemed to be gearing up for some sort of speech.
+
+…Wait. Ranthia stiffened. It’d been a year since she arrived in the City of Arts. But it couldn’t be…
+
+“In a single year this particular individual managed to accomplish more than most of you manage in sixty-four years. Because she’s truly the stupidest individual in this crowd of fools! Before she even became a Hunter she killed the Decay lord, just because she couldn’t be arsed to find the tunnel a stone’s throw away from her ascent. Then, instead of working her way into my trust, she desperately ‘needed’ to prove herself. Also, there was the entire debacle last season that I won’t get into.
+
+“And the only reason she hasn’t gone after another lord is because she managed to break the only one of you stupid enough to work with her. Except, Anthelleon’s likely going to walk away from that twice the warrior she once was! So, get your scrawny, once-mortal ass over here already, Ranthia!” The woman punctuated her ‘request’ by slamming her palm on the bar with enough force that every bench in the Lodge jumped a little—regardless of its occupants.
+
+Even elven grace had its limits. There were more than a few curses as people tried to clean up spilled brews.
+
+Ranthia was on her feet before she quite knew what she was doing—direct orders from the barkeep were more compelling than any military commander she had ever met. With a somewhat forced smile on her face, she approached the (amazingly undamaged) bar.
+
+“This is my greatest mistake.” The woman patted the barrel. “Somehow even edging out letting you and the other damned idiots take up residence in my Lodge. Back when the Lodge was new, I went out foraging for some wild herbs to brew into a cheap, basic ale. It was only after the ale was underway that I learned what it was. I somehow found a bloom of Elgyn’s herb.”
+
+Against every expectation Ranthia had of the woman—she started to laugh.
+
+“They’re one of the rarest and most valuable herbs around—even the Ilan family famously failed to domesticate them. Oh, and they only sprout for about 32 hours to spread seeds through the droppings of anything that eats them—then the new plants lie dormant for about eight hundred years or so. I somehow found an entire cluster of it, largely untouched. And I brewed it into a shitty, basic ale without a single Skill or class to help it shine.
+
+“I’ve had [Alchemists], living legends, and even agents claiming to represent members of the Council offer me wealth beyond your paltry imaginings for this single barrel. Fuck ‘em. It’s much funnier to dole the damned thing out to morons like you that’ll never appreciate it.”
+
+With that, the incredibly tall woman finally set the barrel down. Then she fetched a small crystalline mug—far nicer than her usual drinkware—and touched it to one of the enchantments, which allowed a trickle of fizzy, pale green liquid to flow into the mug. She set the little mug down in front of Ranthia before she hid the barrel away… somewhere—the movements were too fast for Ranthia to follow.
+
+“Any advice?” Ranthia asked, eyeing the hissing, bubbling liquid nervously.
+
+“Go slow.” The barkeep seemed pleased by her caution. “It’s in one of those tiny mugs for a reason and it’s still managed to knock more than a few elves onto their asses over the years.”
+
+Ranthia nodded and carefully lifted the little mug—less than a quarter of the volume of the Lodge’s usual drinkware—and took a sniff. The fizzling, dubious-looking beverage had an unusual scent, and Ranthia was struggling to define it as anything other than ‘clean’. Perhaps with a hint of mint?
+
+With a mental shrug, she took a small, experimental sip.
+
+And nearly dropped the mug.
+
+When the liquid passed over her tongue, it felt cool and refreshing—almost like a chilled cucumber, with a more minty flavor. But in its wake the beverage left her tongue and throat feeling as if they’d been burned. The sensation only lasted for a moment, but gods and goddesses, it felt as though her mouth had been violated by a Lava elemental!
+
+Heh, gross. Ranthia giggled a moment later, relishing how warm and cozy it—
+
+“…Okay, this might be the most terrifying drink I’ve ever tried.” She had enough sense to fear the contents of the tiny mug in her hand, which chased the mild—and digestively improbable—buzz out of her head.
+
+Unsurprisingly, her crowd of peers proved unimpressed with her caution.
+
+“Finish it! Finish it! Finish it! Finish it!” The chant spread like wildfire throughout the gathered elves. And for once the barkeep chose to be unbothered by the noise.
+
+It was funny, sometimes, how plans could be delayed. The bear ‘mountain lord,’ the so-called Lord of Sound, had been an urgent target since before autumn even arrived, yet spring was well underway before they set out. The whole… debacle surrounding Avyna’s ‘death’ had delayed things quite a bit, but it’d also just taken more time than Ranthia would have ever expected for Anthelleon to get used to ignoring her old habits.
+
+At least it’d given them the opportunity to find a new party member. Neyvern wasn’t perfect—bluntly, his combat kit was the kind of nonsense that only a cycling elf could dream up. But he solved multiple shortcomings of their party since he provided both range and scouting. He and Anthelleon also got along quite well. Which was great, because it gave Ranthia more time to pet his bonded griffin.
+
+Solareon was the best. She was well-mannered, patient, smelled like sunlight, was smart enough to take a watch shift, and she was immortal. Living proof that Ranthia’s fervent hopes for Clover could be realized!
+
+…Okay, yes, it seemed like she’d somehow gotten immortality through her Bond with Neyvern—which Clover plainly hadn’t—but that was beside the point.
+
+Their plan was to ambush the bear on top of its mountain. Anthelleon would lure it away from its den, Ranthia and her images would surround it and distract it, then Neyvern would strike from above to weaken it. The man was an unusual Erosion [Mage] with a build that let him imbue metal spikes with an effect that eroded his target’s stamina and/or mana. Back when he worked ‘alone’ (alas, Solareon wasn’t permitted to join the Hunters), he had mostly focused on bringing in living beasts for various researchers or breeders. But as a member of their team, well…
+
+The bear was dangerously high level, but if they could drain its mana and tire it out, they could kill it in melee.
+
+It was a simple plan, but that meant it was flexible. They would be able to adapt to whatever unexpected twists came their way.
+
+Ranthia unleashed a stream of profanity into the air as she rushed across the forest with every shred of speed she could manage. Her heart felt as though it were beating a thousand and twenty-four times every second and an irrational piece of her raged against her Bond—but for Clover, she might have had enough speed.
+
+She might have been able to escape.
+
+The bear crashed heedlessly through another tree before it let out another bellowing snarl. As before, the Sound formed a physical thing that ripped into Ranthia’s flesh, tearing through more armor plates in the process. Once again, she was forced to leave blood and shards of twisted steel in her wake. Not that she could let it stop her desperate flight!
+
+While the trees and fallen limbs were obstacles to her, requiring deft footwork and careful vaulting, the bear wasn’t even slowed down by anything that came into its path.
+
+[Bear – Sound] level 1494, [Bear – Storm] level 1466, [Bear – Gale] level 1295. Against her expectations, the bear was no pale beast of frost—its fur was a dark brown, with electric blue tips that crackled with energy. It was also larger than many dinosaurs, yet fast enough that it was gaining on her with every moment.
+
+Worse, the damn thing wasn’t fooled by her images. It paid them no heed! Even when she tried to shift, the bear had simply paused for a moment, then pursued her new form! She had no idea if it was somehow smart enough to keep using an [Identify]-like Skill on her over and over, or if there was some other sense at play. All she knew was that nothing she tried seemed to be able to shake the bear. Even when she broke its line of sight, it still followed her unerringly!
+
+The fact that she was in a forest was the greatest failing of their plan. Neyvern was somewhere overhead, using breaks in the canopy to call out very helpful things like “look out!” or “it’s behind you!” And even though Anthelleon was faster than she was, she hadn’t seen any trace of the woman since the bear knocked her aside when it made itself known—hours away from the mountain that was supposed to be its sole domain. Ranthia had no idea what had happened to her friend, but she hadn’t even spared a single thought for Anthelleon’s safety.
+
+After all, she was somewhat obsessed with her own peril.
+
+Ranthia concluded yet another Skill activation and shifted again. The bear seamlessly altered course once again, because of course it did. But every time she shifted, she regained a bit of the distance that the bear continually narrowed. Had they not been in a dense forest, she might have actually been able to outpace the damn monster. Alas, even [Divine Eyes in the Void] could only do so much to improve her sight lines.
+
+She was going to die. Just because they encountered the stupid bear in the wrong place! That was all it took for a firm, workable plan to become certain doom.
+
+She shifted again. Her mana was fine. She could shift a hundred times without depleting it, and though the bear had cost her some of her arcanite, most of it was where it needed to be. But every activation of [Reflections of Reality] took time. And every beat of her heart reduced the time she had left. Tiny gains were made and lost in the span of a mortal’s thought. She was powerful, but the bear was so much more.
+
+There was no escape.
+
+Fine. The thought didn’t herald her decision to embrace Black Crow—she was far more vindictive than that. The instant the bear had locked onto her—the ‘weakest’ prey it saw—she had chosen flight. In all likelihood, even without her [Companion Bond], she would have chosen the same. But with her options expended, her terror became distant. If she was going to die, she would die hurting the beast that dared to kill her.
+
+In a life-or-death struggle, she tended to stop worrying about what was possible. She had discovered new depths to her abilities in those moments. And she had witnessed elves dancing upon leaves in the wind.
+
+Desperation made her attempt something that she had convinced herself was uniquely elven.
+
+There were plenty of leaves in the air. Every stride the bear made shook the ground like a localized earthquake. Plus, trees were being felled in rapid succession, striking other branches and altering the canopy as they went. Even at the extreme speeds they were moving, leaves were still in the air—the far-reaching effects of the bear’s rampage adding to what the wind and Solareon’s wings tore free.
+
+Had she been in less peril, she might have marveled at her ability to dance from leaf to leaf through the air.
+
+Instead, she roared in fury as she spun to face her adversary. Her dance carried her farther away while she launched her knives with as much force as her stats and Skills could muster.
+
+The bear raised itself up onto its hind legs to match her altitude. Which only made it an easier target. Void-empowered adamantium found resilient fur and hide. The bear’s vitality was difficult to predict, but for once her Void proved its value. Blood, fur, and scraps of meat were carved free of the powerful animal.
+
+Not that the minor injuries even slowed it down.
+
+Ranthia danced clear of another crushing burst of Sound, relying purely on [Divine Eyes in the Void]’s estimation of where the attack was aimed. The leaves gave her an entire dimension to evade in, and she used the trees as springboards to launch herself to more distant leaves.
+
+[Adamant Commander] brought her knives back to her hands after every throw. She lacked the power to bury a blade deep in the bear—all she could do was inflict shallow wounds that were only making her adversary just a bit angrier. At least until she sliced a chunk off of its nose—that really pissed it off.
+
+“There’s a clearing to the west!” Neyvern’s Skill-amplified voice finally provided something tactically relevant.
+
+Not that she had the time—or enough visibility through the canopy—to try to orient herself.
+
+“This way!” Fortunately, the elf seemed to anticipate as much.
+
+Through a mixture of (once improbable) aerial acrobatics and several tactical shifts, Ranthia managed to follow his voice. Unfortunately, the bear was acclimating to her newest tactics rapidly. It soon returned to running on all four legs and took to trying to topple trees into her path—or on top of her, it wasn’t exactly picky. Its antics gave her more things to kick and dance off of, but it also made her journey far more fraught.
+
+Before, a misstep would cost her armor and pain. With the entire battlefield reduced to a chaotic maelstrom of weighty wood, high-velocity splinters, and dense clusters of leaves, a single mistake could leave her pinned. And there was no reality where she could recover from that in time to escape certain death.
+
+She struggled to find openings to launch (largely ineffectual, yet reassuring) attacks on the bear as she twirled and blurred through the arboreal carnage. Birds and small to mid-sized animals were still in many of the falling trees—creatures that were too low level to possibly escape before devastation found them. Unfortunately, the bear paid no heed to the buffet of appetizers that it unearthed. The damned thing was locked in on her.
+
+And then Ranthia found herself in mid-air, beneath the sun’s warm radiance.
+
+Without so much as a single petal to carry her next step.
+
+Ranthia prided herself on her creativity when it came to curses. She had learned from some of the greatest foul-mouthed minds in Remus and honed the art to the best of her ability. She had a curse for every occasion.
+
+“Freauckit!” was not on her list. There was no language on Pallos in which that was a valid curse.
+
+She couldn’t even claim she gracelessly tumbled from the air. Her descent was perfectly graceful, no matter how she panicked. She even landed easily on her feet.
+
+…Directly beneath the bear’s shadow. The monstrous animal was lunging through the air at her, triumphant.
+
+Neyvern shouted something and Solareon let out one of her adorably squawky roars. Not that it mattered. Ranthia paid them no heed. Instead, she desperately launched her knives at the underside of the bear’s neck, then crossed her bracers over her face and threw herself backwards while she sent an image out. It was all she could do in the time allotted—the bear was just too large for her to dance or lunge clear in time.
+
+The bear impacted her before she could even begin [Reflection of Reality]’s activation process. Its sheer weight drove her into the soft ground with enough force that she still felt bones break as her armor crumpled. Her bracers slammed into her teeth, smashing her jaw in the process, but [Higher Power] gave her just enough time to direct the bear’s claws a bit lower. Enough to make the blow merely a mortal wound—a significant improvement over killing her outright.
+
+Ranthia still managed to activate [Reflections of Reality], even through her haze of shock and agony. After almost a century of relying on the Skill to save her ass every time she took horrific damage, it was almost an autonomous instinct. But even she was alarmed at one detail—a single point of pain that stood out amongst the litany of dire wounds:
+
+The bear had punctured her adamantium. She could feel the claw in her flesh!
+
+Somehow, she managed to shift before the bear could mush what was left of her or eat the top of her head (or any number of other terrible scenarios that would likely visit her nightmares in the coming months). She could feel her punctured adamantium tearing into her flesh, but she just willed the jagged bits to crumble back into sand and restore the bracer while she absorbed the scenario.
+
+Neyvern looked ridiculous standing atop Solareon’s back while he strummed his instrument with everything he had, screaming lyrics at a volume where they almost lost all meaning. Solareon had joined her Sound to her Bond’s and the combined noise had a decidedly golden hue—likely the griffin’s Radiance—as it barraged the bear. But the true attack—Neyvern’s spikes of conjured metal—were having less of an effect than they had hoped. The vast majority of them were lying on the ground around the bear, with only two that found shallow purchase through the animal’s tough hide.
+
+Still, their combined attacks stunned the bear for a few precious moments. Long enough for Ranthia to escape her predicament in one piece (well, after the shift, at least). Unfortunately, she couldn’t tell how much—if any—damage her knives had done due to the bear’s posture. Somehow, she wasn’t willing to hope that the bear was bleeding out and unable to breathe.
+
+The bear abruptly raised its head and snarled, sending Solareon reeling in a flurry of feathers. Ranthia called her knives back to her hand at the same moment, as she embraced her rhythm to renew her struggle against the brutish monstrosity.
+
+“Foul, loathsome beast!”
+
+Anthelleon always had a way with words. The woman burst through the treeline, her weapon held over her head. Jagged wounds on her side left a crimson trail in her wake as she leapt through the air.
+
+Wielding a cleaver-shaped pane of Brilliance, larger than she had ever used in any attack Ranthia witnessed from her.
+
+The weapon came down with explosive force—empowered by Anthelleon’s [The Weight of a Mountain] Skill and backed by a significant portion of the woman’s mana pool. Every blow that Ranthia or Neyvern inflicted had been shallow, but Anthelleon’s greater strength and power proved its merit. Blood, meat, and even fragments of bone flew into the air as her strike slammed the bear back into the ground. She had cleaved through its shoulders in a single attack.
+
+Yet the bear lived. With a sudden thunderclap, the lightning that had shimmered across the bear’s fur arced through the air and tore into the wounded woman.
+
+“Hit it!” She screamed, her flesh charring.
+
+Neyvern—in freefall—reacted first. He was still strumming his musical instrument as he shouted his song into the winds.
+
+“Into the abyss! The four fought on. Into the abyss! Battle not yet won.”
+
+As ridiculous as it was, there was a reason that he was carrying on. His Sound was essential to guide and accelerate the spikes that he had conjured. Each of the eight found purchase in the new, gaping wound Anthelleon had inflicted—piercing through the tempestuous winds and arcing lightning, completely unbothered by the bear’s defenses.
+
+The localized Storm weakened. After another eight spikes joined the first set, it extinguished entirely.
+
+Anthelleon wasted no time lunging forward and stabbing her weapon into the bear’s spine, forcing it to the ground. She could have never pulled off the feat if it hadn’t been weakened, but even with its enervation she was still visibly struggling to keep it down.
+
+It was all the opening Ranthia needed. She caught her knives midway as she closed in, then activated [Void Edge] and [Echoes of Devastation] as she slammed them into the most vulnerable tissue she could find—the bear’s eyes.
+
+[*ding!* Your party has slain a bear [Bear] (Sound, level 1494), [Bear] (Storm, level 1469), [Bear] (Gale, level 1296)!]

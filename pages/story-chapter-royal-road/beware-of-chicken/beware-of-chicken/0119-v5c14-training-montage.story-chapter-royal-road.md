@@ -1,0 +1,195 @@
+---
+id: e6802909-58b9-5361-8fdf-ac5f450143ba
+page-type-slug: story-chapter-royal-road
+title: "v5c14: Training Montage"
+slug: 0119-v5c14-training-montage
+partOf: beware-of-chicken
+position: 119
+ownLength: 2804
+unit: words
+ownProgress: 2804
+publishedAt: 2024-06-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1687874/v5c14-training-montage"
+royalRoadId: "1687874"
+markedReadAt: "2026-06-29T18:55:35.510Z"
+---
+
+Instead of getting right to work in the clearing, Yun Ren was surprised when they were led deeper into the forest, at first riding on the constructs of Master Forest Sweeper, and then, after about an hour, proceeding on foot.
+
+The chill here was intense, and, as they approached—so was the Qi. it felt like a physical weight on Yun Ren’s shoulders—like the first time he had exited the Azure Hills and gone to the Howling Fang Mountains but amplified. Where the Qi there had been largely indifferent, the Qi here felt actively hostile.
+
+It felt like it was trying to freeze him, trying to disrupt his concentration. Whenever he breathed, cold energy invaded his body, and he had to wrangle the damn stuff.
+
+“It's like eating a pill simply by breathing,” Han said, his voice sounding awed. Yun Ren balked at the statement. If eating a pill felt like this, why the hells would anybody eat one? It was downright uncomfortable.
+
+“In the hour of our need, a truly great place to train forms before us. Looks like the Heavens are smiling down on us in our war against the demons!” Fenxian belted out, a big grin on his face as he clapped Shao Heng on the shoulder and smiled at the rest of them.
+
+Yun Ren carefully stopped himself from frowning at the guy, grimacing internally at the way his breathing came out slightly more harshly. Cold sweat threatened to break out on his brow.
+
+Honestly, he was still a bit scared of this guy. A year ago, Yun Ren had sprinted away as fast as his legs could carry him from the man, and then, when finally cornered and forced to fight, Fenxian had been rendered blind, deaf, and dumb by the fragment of Nezan.
+
+Even with all that  weakening the guy, it still hadn’t been much of a fight. Yun Ren had gotten one good hit in before Fenxian had snapped out of it. It was only because Jin bailed his ass out that Yun Ren hadn't gotten crippled or killed.
+
+Yun Ren hadn’t really had any nightmares about the whole thing, and seeing the guy so cowed in the aftermath had lessened the impact.
+
+Still, he hadn’t forgotten about it, and he just kind of wanted to get out of Fenxian’s line of sight every time he looked at the guy. It was kinda like the couple of times he had encountered bears.
+
+He hated the feeling, even though they were technically on the same side now. The other guy didn’t seem to hold Yun Ren any ill will at least, and had actually tried to strike up conversation with him several times, like he was Yun Ren’s buddy rather than the guy who had once gone at him with a sword.
+
+But Yun Ren supposed cultivators were just kind of weird like that. He shoved the thought away as the cold intensified again… and they walked into another clearing.
+
+They stood before what had to be the smallest tree in this forest. It was only about the size of the tree Tigu called ‘Old Man’. It was a towering oak that had to be at least five hundred years old.
+
+This tree, however, was not an oak. It looked a bit more like a truly titanic cherry tree. It was a thing made completely out of ice, resting beside a stream of running water that really should have been frozen—but the glowing blue liquid ran seemingly without a care for the surrounding temperature.
+
+‘This is the place where my apprentice trains his own arts, under the boughs of the Eternal Winterbloom and on the banks of the Frozen Font,’ Master Forest Sweeper intoned, his voice solemn.
+
+“Thank you, Master Forest Sweeper, for allowing us to train in this place,” Bi De replied, bowing politely. The rest of them followed suit and, to Yun Ren’s surprise, Yingwen spoke next.
+
+“Your benevolence is without equal, Master Forest Sweeper,” the man said. “We shall prove equal to the blessing you have bestowed upon us.”
+
+The great Thunderhoof nodded.
+
+‘Take care not to fall into the Frozen Font. It is not water that flows through it, but liquid Ice Qi. It shall kill you with a touch.’
+
+With those words, he left them. And then the training began.
+
+================================
+
+Two days into training, and Yun Ren was starting to feel the pressure. Yun Ren hated deadlines. They were, in his opinion, the bane of humanity. Having to get something done by a certain date always rubbed him the wrong way, and made him feel just slightly ill. He hated the extra stress and hours he had to work to meet them. Be it preparing pelts for a sudden market day, or having to rush to get the harvest in before the autumn rains.
+
+Naturally, figuring out a stealth technique before they went to raid a Heavens-damned demonic cultivator base gave him a stomach ache. He, unfortunately, also had an extremely important role, which doubled the stress.
+
+Because his technique was the only one that could hide all of them. It started, two years ago, when talking to Jin about light for his image recording. Captured light had been one of the things they had talked about… and Jin had also mentioned, offhandedly, that light bent around something would make it invisible. Yun Ren’s initial idea for the technique was to use it to record animals. He was a good hunter, and sneaky as hell when he wanted to be, but being able to hide himself as well, with the animal not knowing he was there? That would have been great.
+
+The path of the technique changed, to one that he was planning to use to hide from the Inquisitors; it hadn’t been entirely ready, at the time, but the theory had been sound.
+
+Now, he just had to complete a technique that was only half finished in a week, and make the bubble of bent light big enough to hide their entire group.
+
+It was totally doable and easy.
+
+But, in the end, there was nothing for it. It needed to be done, so damn it, Yun Ren would knuckle down and do it.
+
+“You ready, Summer's Sky?” he asked the sword at his hip, and the Spirit Blade rattled in its sheath.
+
+‘Summer’s Sky is prepared. Will support the Eighth Wielder with technique variables,’ the blade replied.
+
+“Then let's do this then.”
+
+He took a deep breath in and out as the flashing lights of his illusion technique danced around him. It sparked and fluctuated as light mixed with shadow. The world around him bent like he was staring through one of Miantiao’s glass cups. Reality wobbled and wavered, and then it bent again before settling.
+
+‘Turns out Jin really was right about bending light to make yourself invisible,’ he thought, as the technique solidified.
+
+“You did it!” Yushang called out, her eyes on where they were, but not truly seeing them.
+
+‘Hey, we can see out of it this time’ Spooks said from beside Yun Ren as he looked around with interest. Which, admittedly, had been a problem the first time. Just bending the light wasn’t enough, because then Yun Ren couldn’t see out either. You had to get all twisty with it. ‘You ready for the conditions outside?’
+
+“Yeah, go for it,” Yun Ren grunted in response to the Thunderhoof’s calm voice. Spooks, when he wasn’t being an asshole and scaring people for fun, was actually a pretty good training partner. He took one look at Yun Ren’s technique and realized in how many ways the illusion could be foiled by the ice, snow, and Qi outside the forest.
+
+‘Tell us if anything goes wrong, Yushang!’ Spooks asked, and then his eyes glowed.
+
+The forest clearing was normally still and silent as the grave. So, Spooks started to summon a small storm.
+
+First came the snow, falling gently from the heavens. It hit the bubble, passed through it, and a reflection of its passing, using light, would appear on the outside of the dome.
+
+“Looking good!” Yushang called.
+
+That's when the wind picked up. It started blowing the flakes around, and Yun Ren started to feel a bit of pressure in his skull from his Qi constantly undulating to match the changing conditions. At first, he had tried to do this himself and gave himself a nosebleed.
+
+He thought he would have to stop there, defeated, but he found out he had a workaround. Namely, Summer’s Sky, the Spirit Blade gladly taking half of the load for the technique in accurately reflecting the snowflakes.
+
+‘Technique nominal. Qi flow nominal. Approval,’ the blade reported.
+
+“I’m gonna start moving,” Yun Ren said. “Get ready to clear the path behind me.” Which was another thing they would have to look out for—not making tracks behind him.
+
+‘Junior Forest Sweeper is on the case,’ Spooks said cheerily. Yun Ren nodded and picked up his foot. His Qi grasped the bubble that he had formed, and, as he took a step forwards, he pulled it along with him.
+
+“No wobbling!” Yushang replied.
+
+Yun Ren took another step. There was a bit of strain, but nothing he and Summer’s Sky couldn’t handle.
+
+They kept walking. The slow march was holding up well, so Yun Ren changed from one step every second to going faster. And then when that was fine, faster still, to a normal walking pace.
+
+And then finally, to a light jog, as Yushang reported that the technique looked fine from the outside, and Spooks kept their prints from showing up in the snow.
+
+Yun Ren almost allowed himself to relax—when Summer’s Sky suddenly blared a warning and Yun Ren started to feel a bit queasy.
+
+‘Warning, Eighth Wielder. Qi destabilization imminent,’ Summer’s Sky reported from his hip.
+
+Yun Ren swallowed as the world started twisting and warping. Yushang’s head suddenly seemed to squish, while her chest and belly expanded to three times their usual size.Yun Ren hastily pulled his Qi away so he wouldn’t get any backlash from the technique failing.
+
+Then, like a soap bubble, the dome popped. Yun Ren collapsed to his knees and started to pant, shaking his head to clear out the cobwebs.
+
+Better than puking by a longshot, like he had done at first.
+
+“You alright?” Yushang asked, her hand on his shoulder. Yun Ren nodded and grunted as he fell backwards onto his ass. Spooks looked similarly concerned.
+
+“Just gimme a sec,” he replied, waving her off. “Need a bit of a sit down.”
+
+They helped him over to a tree, where Yun Ren leaned against it and focused on getting his breathing back. They waited for a moment before Yun Ren waved them both off. Yushang went to pick up her sword, while Spooks mentioned lunch.
+
+Yun Ren watched them go before looking around the clearing.
+
+The air was alive with the sound of swishing swords and glowing Qi as everybody trained or cultivated. Bi De, Yingwen, Han, and Shao Heng were meditating directly under the Eternal Winterbloom. Ri Zu was flitting from shadow to shadow nearby. Yushang was swinging around her sword, and Fenxian was—
+
+“Here. You look right bushed, brother,” the man said, smiling with that big dumb grin of his while he held out a cup that he was holding above a fire crystal.
+
+Yun Ren grimaced slightly, the feeling of ‘run’ coming back to him for a moment…before he took the offered tea. It was delightfully warm. Yun Ren was fairly certain Fenxian wasn’t going to try and poison him, at least, so he gulped it down.
+
+He was expecting the other guy to wander off, but instead Fenxian flopped down beside him.
+
+“Man, this is a great place to train. It's amazing. Almost worth the whole situation,” Fenxian said with a slightly twisted smile. “Just gotta get ambushed by demons, nearly get killed, and you get to cultivate on a dragon vein! After, of course, bowing to a Thunderhoof at a chicken’s request. It's nuts, eh?”
+
+Yun Ren shrugged, but didn’t say anything, and Fenxian’s smile got a bit awkward before he sighed.
+
+“Hey, I know you don’t like me,” the man said bluntly. “Understandable. I did kinda beat your friend’s asses and nearly impale you. And, I probably hunted a bunch of your fox family members. I’d say we were just following orders, but your Master didn’t like us saying that.”
+
+Both Yingwen and Fenxian had been shown the memory crystal that contained the truth about the Shrouded Mountain Sect’s betrayal of the foxes. The emotions within had been too raw, and the lightning too pure, for them to dismiss what they had seen as a trick—and having Shao Heng here with them had sealed it. Shao Heng had once been their commander, after all, before they had been rotated out of the Outriders.
+
+“You probably never even saw a fox,” Yun Ren replied, wondering where exactly Fenxian was going with this. “Or if you did, you probably slept with them, rather than hurt them.”
+
+Fenxian blinked in surprise and actually looked a bit relieved at that. “No shit? Well, that's good. It would be a shame to kill such beautiful women! If I survive this, I swear I'll dedicate myself to repopulating the species with them!”
+
+His waggling eyebrows were a bit too much, and Yun Ren had to let out a snort, rolling his eyes.
+
+Fenxain’s grin got a bit wider, before it fell and he took a sip of tea. “Listen, I’m fine with you not liking me. But half the time, you look like I’m about to shove a knife in your back. And when we’re going into combat… that is something that we can’t have. We’re fighting demons, for the sake of the last hope of our Sect. We cannot have second thoughts about each other.”
+
+“This Gen Fenxian has sworn his life to this mission; upon his soul. I am your ally to the end, in spite of our previous interactions. There must be no doubt in your mind that if I approach you with sword drawn, it is to strike an enemy. If I tell you to dodge, it is because you shall be harmed unless you move,” Fenxian’s voice was solemn as he looked at Yun Ren. He made no attempt to hide his Qi, completely open and honest. “If we are able, I would like us to clear this foul air between us—so that we may venture forth against the coming darkness without doubts about each other holding us back.”
+
+Yun Ren could only stare at the man before him. His words were earnest. Some part of Yun Ren spat that the man was lying, and it was better to keep his distance. But the man had lost everything. All he had left was the hope that he wasn’t too late to save his friends, who were even now being tortured and experimented on by demons; their suffering prolonged simply so Shen Yu could teach them.
+
+Yet neither Fenxian nor Yingwen had ever once complained. Instead, they fought their hardest and suffered through immense pain. They were grateful for the opportunity to aid their comrades.
+
+“...what did you have in mind?” Yun Ren asked after a moment.
+
+“Xong Yun Ren. This Gen Fenxian humbly asks to trade pointers with you, as true men do. For it is in battle that the truth about a person is laid bare.”
+
+Again the request was humble. But going into combat with this guy? Yun Ren hesitated for a moment.
+
+But seeing as there was a very real chance he was going to have to fight actual, literal demons, Yun Ren thought that a man should face his smaller fears first and work his way up to the bigger ones.
+
+He steeled himself.
+
+Fenxian may have been a dick and an idiot… but he was a rather honest fool.
+
+And Yun Ren needed to get better with his sword anyway.
+
+“Alright, let's do this,” Yun Ren said, standing up and extending his hand.
+
+Fenxian took it and rose, nodding at Yun Ren.
+
+Both drew their swords.
+
+Yun Ren was rather surprised at how much better he had gotten since they had last fought.
+
+Lightning sparked along the other man’s blade, but when they clashed it was a light jolt rather than the body-seizing experience that had nearly made Yun Ren piss himself. Fenxian’s once-blinding speed was manageable. And when they clashed, Yun Ren didn’t instantly lose.
+
+Fenxian’s mouth was open, as they reset—trading pointers, and not actually trying to win either way.
+
+“When did you start learning how to use that?” Fenxian asked, stunned.
+
+“A year ago?” Yun Ren replied.
+
+Fenxian stared at him blankly.
+
+“That's kind of bullshit,” he said, his voice blunt.

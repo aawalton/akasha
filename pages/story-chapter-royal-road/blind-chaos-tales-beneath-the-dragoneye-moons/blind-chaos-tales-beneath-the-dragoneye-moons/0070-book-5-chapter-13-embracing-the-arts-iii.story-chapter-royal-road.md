@@ -1,0 +1,183 @@
+---
+id: 520489fa-8f09-5365-98e0-2fb2e8eee940
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 13 - Embracing the Arts III"
+slug: 0070-book-5-chapter-13-embracing-the-arts-iii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 70
+ownLength: 3934
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3334627/book-5-chapter-13-embracing-the-arts-iii"
+royalRoadId: "3334627"
+---
+
+“I am genuinely impressed, you know. I had hoped you might prove competitive with some of the elves yet to complete their first cycle, but the rank you seized means that you have surpassed many of our second cycle elves. This might just be unprecedented. Yes, Scaldos has risen to Rank 5 in Cooking, but he’s existed for over three thousand years. You, on the other hand, I understand to be unusually young for your level.” The white-haired Maestro had invited herself to follow along when Ranthia finally escaped the crowd, collected her bunny, and wandered toward the nearest dinner service.
+
+She was starving and the last thing she wanted to do was endure more backhanded ‘compliments’ from an elf that she was still somewhat annoyed with.
+
+“Scaldos is the fire elemental, right? I haven’t seen him, but I’ve heard people mention him. I’m still kind of surprised that elementals actually exist.” Ranthia made an impulsive attempt to change the topic.
+
+“Yes, they are quite rare. It is something of a blessing that two of their kind have found this city to be worthy of serving as their home. But there is time enough for us to discuss history another day. For now, I would ask: what are your plans from here?” The elf parried Ranthia’s attempt with effortless ease.
+
+Honestly, why couldn’t it have been Sunny that stuck around to bother her?
+
+“My plans are to grab a bowl of,” she paused to sniff the air, “stew, carry it and my Bond home, and eat after I put her to bed. Tomorrow, I plan to go on another hunt.”
+
+“My apologies; I suppose I wasn’t sufficiently clear. I was asking what you intend to do with your new Rank. To put it more bluntly: when might we expect you to challenge the woman that holds Rank 40?” The elf queued up right behind Ranthia as they waited out the short line for sustenance.
+
+“Why do you care? I’m assuming you aren’t the Maestro of Dance.” Ranthia groused.
+
+“No, I am not. Honestly, my own seat is more about seeing the talent of others utilized to the best extent that it can be. Had I not happened to be amongst those that founded this city, it is likely that my own ‘art’ would rank beneath the Primary Arts—unable to grant the title of Maestro. But that is precisely why I ask. The talent that you displayed is sufficient to climb higher, though I shall not elaborate with any specificity beyond that fact.” The elf somehow managed to provide a full explanation while she greeted several other people at the same time.
+
+“Honestly, if not for—er, a friend’s push, I wouldn’t have even done this much yet. I still have a lot to learn about living here, I still need to find more literature on raising a Bond, and I need to focus on leveling her as much as I can. I appreciate the arts, I truly do, but I can’t prioritize competition. Not right now.” Ranthia was tired, but she carefully chose her words after she nearly tipped her hand and revealed that she had no idea what the body painter’s name was.
+
+Admittedly, the competition had borne decent fruit.
+
+[*ding!* [Distorted Likeness] has reached level 691!]
+
+[*ding!* [True Grace] has leveled from 525 to level 528!]
+
+[*ding!* [Adamantium Will] has leveled from 60 to level 65!]
+
+[*ding!* [Companion Bond between Ranthia and Clover] has reached level 141!]
+
+[*ding!* [Skilled Fingers] has leveled from 103 to level 105!]
+
+[*ding!* [Sexy] has leveled from 602 to level 615!]
+
+But the System’s rewards were focused on her, with only minimal gains for Clover. Sure, the Skill levels were nice, but that wouldn’t—couldn’t—be her priority. She could worry about herself once her Bond had more time on Pallos.
+
+Which similarly meant she had no headspace to angst over [Sexy]’s damned exhibitionistic streak.
+
+“I see. Is there anything that I might be able to help you with?” The elf offered, her tone unerringly genuine.
+
+The benevolence of it left Ranthia with a bit of regret for her belligerence, even if she was mostly confident that she’d kept it away from her face and off of her tongue.
+
+“I… Okay, do you know who I need to speak to about getting permission to lead prayers and offer similar services as a [Priestess]? The rules are fairly strict and I’m not comfortable just reading the restrictions and hoping my own actions don’t run afoul of anything.” Ranthia chose an item that she regretted not being able to place higher on her to-do list.
+
+“Certainly. I will raise it at our next meeting, then the Maestro can meet with you.” And just like that, one of Ranthia’s thornier tasks progressed without her involvement.
+
+Yet more evidence that she’d sorely misjudged the woman after their first encounter. That gave Ranthia something to chew on during her walk home with her stellasaurus stew.
+
+Ranthia’s second hunt proved fruitless. The tracks that she spent the day following just… ended, with no sign of her quarry. Failed hunts were part and parcel of the job, but it was still frustrating. The only thing she found was a nest of invasive insects that ate bark—which would kill most of the trees in the forest. And the reward for removing it left her with just two small arcanite after she paid the fine for entering the city with a known hazard without sealing it in an approved container.
+
+The Lodge’s owner proved to have zero remorse for reporting Ranthia’s breach of conduct, even if Ranthia hadn’t even known about the requirement! And the fact that the bugs were dead was somehow irrelevant?!
+
+Worse, there were no guards wandering the city (for whatever reason). Instead, Ranthia was tasked with the ridiculous demand to carry the majestic woman’s words to the building they use as an armory to lodge a report against herself!
+
+Ranthia continued to slowly acclimate to her new home with every day that passed. Some days it felt like there was never enough time in the day as she tried to balance her time between studying, hunting, Sunny, Myntheria (the body painter had a name!), Clover, and her too-infrequent visits to the Lodge to socialize with Anthelleon and her other fellow Hunters. Unfortunately, sleep remained important—and relying on her vitality to offset insufficient slumber was a terrible idea. She wasn’t in crisis mode; she was just adapting to a more robust and joyous life than she’d known for entirely too many years.
+
+There was a difference.
+
+At first, Ranthia tried to take the day off any time there was a festival happening—so she could attend with Clover—but it soon became apparent that the City of Arts had festivals almost every week. Some of them lasted more than one day too, which was a bit of a pain given that most businesses and city administration took off for every single holiday. Not that it made much difference if the Pink Pavillion’s owner was in or not.
+
+Ranthia’s schedule remained rather unpredictable, driven by the weather and Clover’s moods more than any true planning. Thank Xaoc, Litil—the animal [Healer]—was a gem and a half and was willing to roll with Ranthia’s chaotic existence.
+
+But as the days became weeks and even those accumulated, one thing held true… Avyna remained absent from Ranthia’s life.
+
+Ranthia heralded the arrival of spring by waking up with tears flooding her face and a (blurry) concerned bunny in close proximity. She wasn’t as prone to nightmares as she’d once been, but no matter how much the lessons from the [Mind Healer] helped, they still visited her on occasion.
+
+“It’s okay, sweetling. Just a bad dream.” Ranthia found herself in the absurd position of trying to soothe the bunny over her own distress.
+
+“I haven’t told you much about her, but somewhere out there is someone that’s very important to me. Her name is Avyna, and I love her deeply. Agh, yes, I love you too—okay?—but the love I have for her is something entirely different!” Ranthia wrapped her arms around the kicking bunny and waited for Clover to settle—enjoying the soft fluff of Clover’s fur. Sure, the rabbit was molting, but cleaning up the loose fur was a problem for later-Ranthia.
+
+Lazing in bed, Ranthia allowed herself to fret and worry about the woman who owned her heart while she regaled a squirming rabbit with stories about Avyna. But even as she reminisced, her mind desperately sought some means to find out what was going on. There were no Silverleaf-affiliated traders in the City of Arts, and she got the impression it would be a substantial journey to reach a city where one of their trading houses might be found. But even if she did, Ranthia had a funny feeling that whatever opportunity Avyna was seeking was individual—it was possible that involving the trading house would cause problems for her Gemheart!
+
+And beneath it all, there was a dark fear that Avyna had left some message in their shared home that would have provided Ranthia with the means to find her. Something that Ranthia never found and would never again have an opportunity to locate. Just another hidden note, like the others.
+
+But lonely or not, she refused to let herself believe that Avyna was bleeding out on the side of the road—no matter what visions her nightmares chose to taunt her with. She had to believe that Avyna was safe.
+
+“So, the nearest city to us is… some sort of vacation destination?” Ranthia sought to clarify Anthelleon’s complaint, while she watched the woman hack a path through the thorny vines that barred the way.
+
+Her fellow Hunter’s build was interesting. The metal staff that she wielded was just the base for the weapons she formed using her Gale, Brilliance, and Mountain-aspected [Warrior] classes. Using solid elemental energy, she formed bladed or blunt instruments as she needed, and in a fight she swapped weapon forms constantly.
+
+Which was less useful for cutting their way through the dense, sap-filled vines—but at least the woman had more reach for her slicing than Ranthia did. The thorns were longer than Ranthia’s fingers and the sap seemed to be more eager to bind than most resins and tars were. Alas, the sap wasn’t useful to collect either; it smelled of rot once it set and it was downright impossible to keep it from setting.
+
+“Yeah, they have a huge assortment of natural hot springs. The city’s actually just a short way past that mountain over there. Buuuuut, the likes of you and me? We’ll never set foot in that loathsome city. You’d need more gems than the entire bloody Lodge probably sees in a year and they have a waiting list almost as long as I’ve lived. Pretty place though; I’ve seen it from a distance before.” The elf ducked under a squirt of sap to keep it out of her platinum blonde hair, before she pressed forward into the gap she’d carved.
+
+In theory, they were jointly hunting a nest of silver-tongued serpents—the same creatures that Ranthia had seen when she first entered the forest. They were an invasive species, native to the deeper parts of the marshland that Ranthia had travelled through with the caravan. They’d been introduced to the area by an elf that figured out a way to craft a dangerous and addictive mind-altering drink using their deadly venom. The elf had “faced justice” for his crime, but the silver-tongued serpents had a purge bounty that optimistically hoped to offset their aggressive breeding cycle.
+
+Ranthia was struggling to believe that her friend and colleague had actually seen the nest, after they’d barely made any progress through the bramble after over an hour.
+
+“There has to be a better way.” Ranthia let the gripe slip out.
+
+“Oh, they’ll invite bigwigs and host them for free. I’ve heard a few of the city’s Maestro have gotten invitations before. You might get there, but I’m way too much of a hobbyist when it comes to the arts.” Anthelleon was fun, but it wasn’t the first time she’d proven to have a bit of a one-track mind.
+
+“No!” Ranthia punctuated her protest with a laugh. “I meant this—there has to be a better way to get through these vines. How did you get past them yesterday?”
+
+“Oh, um… The same way, I think? Trust me, these loathsome plants can grow back overnight!” The woman grumbled, as she hacked wildly at a particularly stubborn plant.
+
+That was a bit hard to believe, but pretty much everything in the elven forests felt impossible for one reason or another—it was a world wholly unlike any Ranthia knew or understood. And she somehow doubted that she’d ever become familiar enough with her new home to find herself jaded to its wonders.
+
+Then again, she’d gotten an accidental eyeful of Anthelleon’s apex-tier butt without becoming a blushing, lust-stricken mess—so clearly, she could become numb to pretty much anything. Seriously, Ranthia hadn’t seen a fit woman possessing such dangerous curves since Secundia, a full lifetime ago!
+
+It probably helped that her newest friend was painfully focused on men—Ranthia’d been sworn to secrecy by a drunken Anthelleon while she raved about the various (and numerous) men she was attracted to. They were divided into two distinct categories: men she wanted to sleep with—phrased far more crassly than that—and men that she wanted to watch while they had sex with other men. With the caveat that “all of them, at once” was also an acceptable outcome.
+
+“Oh, I’ve been meaning to ask, but I can be a bit selfish—which is loathsome of me, I know—when I get a bit too deep into my cups. Have you found any handsome men to ignite your secret passions yet?” Anthelleon aired the question with feigned playful innocence.
+
+“Ah, no. For starters, I’m only interested in women—” Ranthia’s wry response ended up cut off.
+
+“Oh, hey, is that why you’ve been seen around Myntheria so much? Ambitious catch, you’ll be the envy of half of the City of Arts if you succeed! Wait, but there’s also word about you and that loathsome outcast sculptor—don’t tell me?!” The curvy woman abandoned her duties to bounce in front of Ranthia, impatient for details.
+
+“No! Right now, they’re just friends! Just like you!” She wasn’t even surprised anymore at the potency of the city’s rumor mill. The City of Arts skewed ‘young’ amongst elves (as in many of the elves of note were merely twice to thrice Ranthia’s age), yet they gossiped just as viciously as elderly wives struggling to fill their free time after their children move out of the household.
+
+“Oh. Well, you have time to show at least one of them your charms, I suppose. I would ask you to leave me out of it. I know I’m pretty much perfect, buuuut…” Bereft of gossip, the woman chose to sulk.
+
+“Yes, yes, you would perish without a steady diet of manflesh. I mean, sooner or later I’m sure I’ll seek out whatever casual fun I can get, but I’m not looking for anything serious. I’m actually here waiting for someone—we were formally pledged, backed by contract, to one another back outside of Remus. And we hoped to renew that once she concludes… a business venture.” Ranthia hesitantly explained.
+
+“Oh. Oh, honey…” Anthelleon radiated sympathy.
+
+“It’s fine, I can be patient.” Ranthia poured as much emphasis on the word as she could, just to make it as obvious as possible that she truly was fine. After all, everything honestly was fine—she had no reason to worry about anything! “I don’t know how long I’ll have to wait, but Avyna’s worth it. And it’s not like our contract precludes us from having sex with others while we’re apart. I just haven’t been in the mood as of yet.”
+
+Not that the contract was in effect at the moment, but Ranthia fully intended to live her life as if it was. Because it would once again govern her life someday.
+
+Even if her 116th birthday had already come to pass without word from the woman she loved.
+
+Silence lingered after Ranthia’s earnest proclamation about the reality of her state of affairs. Even once they (finally) crossed through the bramble, they remained silent—six times over, Anthelleon seemed to fail to work herself up to saying something—until they drew close enough to the alleged nest that their continued silence was a necessity.
+
+It was only when they were in close proximity to the nest that they encountered an obvious problem: they lacked any means of communicating nonverbally. Ranthia’s (mostly remembered) Ranger hand signs were meant to be a secret language that wasn’t obvious to the casual observer and Anthelleon’s own gesticulations just looked like efforts to make pantomimes of lewdness. After several moments of silent frustration, Anthelleon chose the most expedient solution:
+
+“Attack!” The woman shouted as she burst through the bushes. Panes of solidified wind formed over her weapon as she blurred into action.
+
+Ranthia was hot on her heels, a first step into a chaotic dance meant to carry her to the surreal quirk of the landscape.
+
+There were precious few rocks in the forest that surrounded the City of Arts, and even amongst those, Ranthia could count on a single hand the number of stones that she’d seen that were larger than her combined fists. Yet in that clearing, there weren’t many glimpses of the forest floor—it was almost entirely covered in a variety of shapes and sizes of rocks. It was as if every last large rock from the entire forest had converged at a single location. Or, more likely, it was the result of a powerful classer removing a notable section from one of the adjacent mountains and launching it into the distance for some reason or another.
+
+Whatever the cause, the reality was that there were at least thirty-two silver-tongued serpents of sizes ranging from ‘ordinary snake’ to ‘thicker and longer than some of the trees surrounding the clearing’ (and young trees were rare sights in the ancient forest!) sunning themselves on the rocks. The larger, higher-level serpents were the first to react and lifted their heads to warily watch the incoming women while they hissed their challenges.
+
+Anthelleon had offered to split the bounty with Ranthia for two reasons. First, the venom of silver-tongued serpents was dangerous—even to elves—even before the System’s influence. Anthelleon self-professed that being bitten more than once might leave her too afflicted to defend herself in battle, which meant that she wanted to split the focus of such a large group. The second reason manifested itself right as they reached the first serpents: a number of the smaller serpents began to flee.
+
+As they’d previously agreed, Anthelleon focused on those. Ranthia wasn’t entirely certain of how much her friend knew about her own capabilities, but she wasn’t about to hold back. She tapped [Scattered Reflections] at speed to generate an image in front of each of the eight largest serpents—with [Submind] tasked with evasion and harassment—while she threw her knives at the nearest pair of mid-sized reptiles.
+
+Sure, she could (probably) use [Reflections of Reality] to escape to a fresh body if she was bitten, but even if the Skill rewarded her for risking her life, she had no intention of doing so. Her third class and [Sustained Chaos] gave her the means to eradicate the creatures from afar and it was better to fight sensibly where she could.
+
+[*ding!* You have slain a [Silver-Tongued Serpent] (Poison, level 297)!]
+
+[*ding!* You have slain a [Silver-Tongued Serpent] (Poison, level 185)!]
+
+Ranthia called her knives back to hand with a touch of [Adamantium Chaos] and continued to dance amongst the serpents as she dealt death from afar. Aided by [Divine Eyes in the Void]’s warnings, she trusted her own judgment for which snakes to eradicate as she flung her pair of formed knives over and over. Her reserves were kept as bracers for self-defense—she fully intended to give any of the big serpents a mouthful of her forearm if they turned on her. But [Submind] was exceeding her expectations against the simple cunning of the silver-tongued serpents; the beasts remained unerringly focused on their evasive, aggravating opponents.
+
+By the time Anthelleon finished purging the little runners and came back, Ranthia was ready to coordinate with her to see the largest serpents slain. Anticlimatically, it was a total non-event—few serpents ever even acknowledged the threat the women posed before the moment of their death. It wasn’t entirely surprising, admittedly. Ranthia’s images had bled and harassed them, and the snakes lacked the intelligence to use the System to discern the true threats to their survival.
+
+[*ding!* Your party has slain a [Silver-Tongued Serpent] (Poison, level 964)!]
+
+“Huh, I really was expecting those last few to be a handful.” Ranthia finally loosed the comment that’d been on her tongue while Anthelleon dismissed the conjured Brilliance that was lodged inside whatever was left of the creature’s brain.
+
+“Damn if that wasn’t easy. You, my friend, are basically the ultimate weapon to use against these loathsome pests!” The woman barked an ear-grating laugh to vent her lingering nerves.
+
+“Nonsense, I would have struggled to bring the biggest ones down cleanly. Their hides were tough enough that I’m not confident I could have killed them with a single throw—even if I used both knives. Your reach and power were the only reason we ended this so easily.” Elves were basically the same as men and women of the Legion—an earnest compliment went a long way toward keeping them happy.
+
+“True… Well, I say we make for a more than decent team! And that is a fact you can take to the Vault of Truths!” Anthelleon’s tone suggested the name-drop should have had weighty meaning. “Now we must collect the silver tongues from our kills to serve as proof of our deeds before we burn the rest. But be wary, the venom is still potent, even in death, and some of the loathsome creatures may yet bite, even without the spark of life. However, even with the risk we require as much tongue as we can gather, lest anyone accuse us of trying to turn in multiple tongues cut from a single mouth.”
+
+Ranthia rolled her eyes at the elf and knelt down while her knives crumbled into adamantium sand. With hands clad in a protective layer of unyielding magic metal, Ranthia wrenched the largest serpent’s mouth open and grabbed its tongue. Once she held it taut, her image leaned in and deftly sliced through the feeble meat. Ranthia held up her bloody prize, even as her other images mirrored the action with tongues harvested from the smaller serpents that were in clear view from her [Divine Eye]’s current vantage point.
+
+“Wanna just collect ‘em from me as I go?” Ranthia offered.
+
+“…Yeah, I’m definitely going to look for you first any time I’m forced to ally with another Hunter to handle the quarry. Look forward to it—you and I, we’re going to find an opportunity to hunt something so legendary that your wayward woman will hear about it, no matter where she lurks!” The platinum blonde declared, raising a finger dramatically toward the sky.
+
+Ranthia appreciated the sentiment, she truly did—but she would have preferred it if her comrade had actually started collecting silver tongues as Ranthia’d asked her to!
+
+[*ding!* [Sustained Chaos] has reached level 754!]
+
+[*ding!* [Companion Bond between Ranthia and Clover] has leveled from 193 to level 197!]

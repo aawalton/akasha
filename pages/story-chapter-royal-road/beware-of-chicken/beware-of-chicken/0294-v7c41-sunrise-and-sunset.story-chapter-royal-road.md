@@ -1,0 +1,143 @@
+---
+id: ee563a94-6177-525a-8f51-0528af810847
+page-type-slug: story-chapter-royal-road
+title: "v7c41: Sunrise and Sunset"
+slug: 0294-v7c41-sunrise-and-sunset
+partOf: beware-of-chicken
+position: 294
+ownLength: 2266
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3198391/v7c41-sunrise-and-sunset"
+royalRoadId: "3198391"
+---
+
+Earlier:
+
+Chen Yang, Young Master of the Framed Sun Sect sat in the most important part of the Sect’s compound, staring out at the immense form of the Dueling Peaks. It was shrouded in mist, made indistinct by the rain, yet still retained its unbelievable majesty. One mountain, cleaved in two, and between the peaks, the Earthly Arena. At its peak was the Thunder of the Earth—a titanic gong that, when it was light out, looked like a miniature sun itself.
+
+Yang listened to the light drizzle of rain that ran off the roof of the pavilion and breathed deeply, staring at the mountain like his ancestors had. This pavilion had been built so as to provide the perfect view of the mountain. Nothing obstructed the view, and when the sun set, if one sat upon this bench, they would be able to see the sun slide perfectly down the gap in the mountains, before being eclipsed by the Thunder of the Earth.
+
+The Dueling Peaks was a place of combat, a place where one could test their skills. But more than that, as all had learned, it was a place of unity. It was built to celebrate their ancestors coming together as one people.
+
+That had been what had inspired Yang’s ancestor, more than anything. A new dawn, framed by a wonder they had all created together, a monument to their enduring unity and peace.
+
+But his original manor had been on the other side of the mountain, to watch the sunrise. During the Great Ruination, the manor had been moved, from the sunrise to the sunset. And the sparkling light of the dawn turned to the deep reds of embers. The meaning had been lost; instead of what the view represented, their cultivation had been turned into the view itself.
+
+And so the light of the new dawn turned into a dim halo of fire. A caged blaze, rather than unbound potential. Which was fitting, Yang supposed, when his Honoured Ancestor had seen them fall so far.
+
+Their history was not as shocking as others’ had been. Their progenitor had been pretty much the exact man their Sect had expected. Chen Xan had been a poet without equal—at first a government official, and later promoted to Chief Poet for Lord Xiaoshi. They still had quite a lot of his writings that had been preserved, including the secret ones. Their progenitor was not only a glorious wordsmith, but also an aficionado of, well, quite frankly childish poems about bodily functions.
+
+Poems that he used to read to Lord Xiaoshi, who found them hilarious, as they saw numerous times in their Sect’s memory crystal.
+
+For the Framed Sun Sect, there was little shift needed; only the revelation that their power was less fire and more light-aspected. Their ancestor had used a brush in his arts, painting light directly onto the world like a canvas. What he wrote came to life in a spill of Auric Ink, his will made manifest.
+
+So far only Yang had managed to draw even a single line of shimmering gold, and it had sent him to his knees, drained. Yet out of all his Sect, he was the furthest along.
+
+During the Qi anomaly over the winter, a wall in the basement of a forgotten storage room had suddenly broken open, and within they had found one of Honoured Ancestor Xan’s brushes.   The handle was as long as Yang, and as thick around as his torso. None of them had yet touched the artifact. Even now, it had some of his Qi left.
+
+Yang often wondered if their ancestor would be proud of what they were doing now, with the Azure Alliance.
+
+He sighed at his wandering mind. He was distracted. And he was distracted for one simple reason.
+
+Master Rou approached.
+
+That was the word that resounded all throughout the sects of the Azure Hills, and that was the word that had all the sects on edge, preparing, just in case they were given the honour of hosting Master Rou. As soon as he hit the Grass Sea, every sect made their last minute checks.
+
+Cai Xiulan only knew that he was sure to visit the Hermetic Iron Sect and the Grand Ravine Sect. All others were uncertain, dictated only by his whims.
+
+Yang questioned that the man would even visit them, despite or perhaps because of their closeness to the Dueling Peaks. He would probably bypass them entirely, thinking there was no point in making a separate stop.
+
+Yet as soon as Yang thought that… there was a pulse. A flare of Qi in the Profound Realm, high in the sky. At once, the entire Sect came alive. Everyone who had been waiting and meditating practically rushed out into the rain to stare up at the heavens.
+
+The clouds churned, and the sky broke open.
+
+There, a dragon descended.
+
+================================
+
+"We humbly thank your Master for the great respect he has shown us, and bid him welcome to our home; let no door be barred to him, and let none obstruct his path," the Sect Master of the Framed Sun Sect completed the traditional words, bowing before the dragon.
+
+Yang could only stare at the regal beast… before his eyes drifted upwards again to stare at the perfect circle carved into the clouds. The sun shone through, illuminating the Sect in a halo of light.
+
+His only thought was that this was not how he envisioned the dragon.
+
+Chen Yang had the distinct privilege to be friends with Image Master Yun Ren and his younger brother, Gou Ren. It was they who had sparked his newfound passion. They had fought together during the incident at the Dueling Peaks against the Shrouded Mountain Sect, and now he quite regularly had drinks with Gou Ren. Despite not having the skill of the Image Master, Gou Ren was a dab hand and they both did enjoy speaking of recording images. Hells, Yang had even been promoted off those drinks, which had led to a conversation with the Grand Marshal. Chen Yang was now the official “Historian of the Dueling Peaks Restoration”, which meant that his work in recording images would now be immortalized for future generations.
+
+But that was besides the point. All that meant was that Chen Yang had seen many a recording shared by Yun Ren of the dragon smiling, or washing the dishes, or lazing about and gorging himself. Those recordings, accompanied by Tigu, Yin, and even Gou Ren’s own tales of the “lazy, gluttonous fish”, led him to assume something… lesser than this.
+
+He was not expecting the sheer majesty of seeing a dragon in person. Lord Wa Shi was mighty, and well beyond Chen Yang. Hells, Wa Shi was stronger than Chen Yang’s father, Chen Tai, the Sect Master.
+
+Yang mentally kicked himself. Of course Wa Shi was mighty. He was a dragon, and who had ever heard of a weak dragon? On top of that, he was Master Rou’s. Everything the man had a hand in was gold. Two years ago, Chen Yang would have said he was equal in cultivation to the Image Master and Gou Ren.
+
+Now both of them were his superior. It was a bit vexing… but it was also pointless to get angry, because Master Rou and his disciples were the reason Yang was also growing stronger and had been able to see the glory of his ancestors.
+
+Wa Shi considered their Sect Master’s words, then nodded. He tilted his head to the side, as if listening to something.
+
+“My Master approaches, then, to partake of your hospitality,” Wa Shi declared. “He shall arrive shortly.”
+
+“And we are of course prepared to receive him,” his father said. “Do you desire any refreshments while we wait, Lord Dragon?”
+
+At that Wa Shi perked up, and his regal bearing cracked just a little, eagerness sparking in his eyes… then the dragon realised what he was doing and his composure returned.
+
+“Please. You have my thanks,” the dragon replied, turning his attention to where there were some light snacks. The hole in the clouds slowly got bigger and bigger as the storm dissipated—though naturally, or due to Wa Shi’s power, Yang was not sure.
+
+The Sect returned to waiting in their ranks as the dragon started asking a servant what was what.
+
+=================================
+
+They did not have to wait long.
+
+Yang, who had felt Master Rou’s power before, noticed it first as they were encompassed like they had been surrounded by the storm earlier. A mountain approached; without blaring and declaring its presence, but like it was supposed to be here. It had no need to intimidate or loom. It simply was—quiet and understated.
+
+Then he saw the carriage through the open gate, approaching steadily, framed by two renditions of the Dueling Peaks. The true ones in the distance, and their gate.
+
+It was built to mimic the Peaks, the main battlements of the walls coming up to points, with a gap down the middle, revealing a round gate. It was a motif repeated throughout the compound. Each and every door and window was as round as the sun. The whitewashed walls had inlaid golden rays that extended from the gates and windows, and the stonework beneath their feet was a mosaic of a summer’s sky.
+
+Ancient paper mulberry trees provided shade, the thousands of years old giants waving in the breeze and still occasionally donating their bark to make paper. The plantations further south produced the best paper in the Azure Hills—much of it was taken by them. Calligraphy had always been an important art to the Sect.
+
+In between these, the thirty six members of their Sect, and their near-three hundred servants waited.
+
+They wanted silently. The mountain got closer, as did other presences. In the Profound Realm. In the Spiritual.
+
+Yang swallowed. This really was the realm of titans that they were going to be entering. Such was Master Rou’s might that their compound itself reacted. The inlay in the walls began to shimmer, like they wanted to perform some task, the light within dancing with the colours of the elements briefly—almost like the thrones back in the Dueling Peaks. The effect subsided swiftly—and yet their very buildings seemed like they were trying to welcome their guests.
+
+The carriage passed through the gate and entered the sect, pulling out of the main thoroughfare. The Spirit Beast attached to the carriage looked them all over with interest, yet few had eyes for him, because the door to the carriage promptly opened.
+
+Master Rou stepped out, followed by his wife, Lady Meiling, Tigu’s little brother Zhuye in her arms. Behind them was a woman in servant’s garb. A fetching black and white number—and she looked related to the Image Master. The final three were clearly more servants.
+
+“We pay our respects to Master Rou!” they chorused, as they all wondered how this meeting would go.
+
+"Thank you for the warm welcome, Sect Master Chen Tai," the man said. His voice was warm and deep. “You have a beautiful home—and an even more beautiful view.”
+
+Relief rippled through them all—and pride swelled in their breasts. They had been given great face by Master Rou! He was pleased with their Sect, weak as it was compared to him.
+
+They took that as their cue to rise from their bow. Yang looked up and froze.
+
+Master Rou was standing there, smiling. Behind him the Dueling Peaks rose on either side of him, and the sun was directly behind his head, forming a corona of light.
+
+It was an amazing shot, and Yang’s hands moved on their own, grasping his recording crystal and bringing it up before he realised what he was about to do—recording Master Rou without his permission?!
+
+Yet the man seemed unfazed. He noticed the movement, looked directly at Yang, and then nodded, giving his permission.
+
+…what a benevolent man.
+
+The crystal chimed, capturing the perfect shot.
+
+What a once in a lifetime meeting!
+
+=============================
+
+I smiled for the camera, quite pleased with how this was going so far. My boilerplate greeting was turning out way better than I had been expecting. It was kind of amusing how easy it was to get everybody smiling proudly, but hey, if it worked it worked. If I could use this for every meeting it would be great! All I had to do was say thanks for having me and their house looked cool!
+
+Best get used to it, because I was going to be doing this a lot.
+
+And well, it helped that they did have a really nice house. It was a lot more traditional and mundane-looking compared to the Ironfields, but the fact that this place had absolutely no hard angles, and everything was smooth and circular, did look really cool.
+
+Washy also really loved his job. While at first he had been a little unenthusiastic about being my “herald”, he had really gotten into it now that he knew that all he had to do was wing down, tell people I was coming over, then he got to gorge himself on new and interesting things until I arrived.
+
+Still, we couldn’t get too complacent. At some point somebody wouldn't be happy to see us… but that wasn’t today.
+
+It certainly helped my nerves, and I found myself relaxing as we finished up the introductions; this was mostly a stop to practise… but there was no reason to completely phone it in.
+
+Let’s see what an “average” sect was like in the Azure Hills.

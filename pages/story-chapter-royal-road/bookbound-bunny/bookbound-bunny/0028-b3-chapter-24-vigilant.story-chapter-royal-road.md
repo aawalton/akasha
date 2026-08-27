@@ -1,0 +1,143 @@
+---
+id: 833c7d37-40a2-5047-be78-d7a4179d0d73
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 24 - Vigilant"
+slug: 0028-b3-chapter-24-vigilant
+partOf: bookbound-bunny
+position: 28
+ownLength: 2109
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3221256/b3-chapter-24-vigilant"
+royalRoadId: "3221256"
+---
+
+The next day, Lily's friends reported their evening, and it sounded like there had only been one attack. Lotte mentioned that a few flying monsters came nearby, but she had attacked them with her poisonous, acidic serpent spells from a distance before they could potentially land. The number had been small, so the group didn't think Alice had intentionally sent it their way.
+
+"This is probably the downside of having a giant fort in the forest," Thomas suggested. "The monsters probably noticed it from a distance and came to investigate."
+
+"Well, either way, I took care of them," Lotte said, giving a playful thumbs-up.
+
+The group once again took a relatively easy day, now knowing that the attacks were coming against them. Rather than looking for abundant treasures, they instead just looked for some potential food and some small packs of monsters to attack along the way if possible.
+
+After killing so many monsters, Lily's two friends had finally started noticing some improvements to their magical growth. For Lotte, it was rather evident that, as a semi-hybrid demi, her body was growing a little stronger over time, with the unfortunate caveat that most of it was going to fight against her own bloodline.
+
+Thomas, on the other hand, took a bit longer to notice his gains, and it wasn't until he was deep into practice that he suddenly noticed that he could continue to push himself longer. He'd initially chalked up his improvements to gaining comprehension of his spells. While that was likely true, he finally realized he'd been growing when his maximum number of spells exceeded reasonable levels of efficiency improvements.
+
+Lily, on the other hand, knew full well of her growth as she routinely checked on her Mana Core. While most of it at this point had relegated to passively refining itself, she still took the opportunity, usually before bed, to stare at it. She loved the look of it, and the little moon inside her had been growing with each additional layer she added. This little field trip had basically outdone months of her work back in Ceedale, which might have been upsetting at first, but now she looked at it optimistically about what was to come.
+
+Naturally, Arakil grounded her expectations, as he correctly pointed out that each additional layer was larger than the previous and thus required more resources to complete. Still, that also showed that this dungeon trip was even more beneficial than she had previously realized.
+
+Since they returned to their camp fort early, the group continued honing themselves. Lotte and Thomas continued working on their Magesight, and Lily felt both could complete it today. Thomas had more practiced precision with his Mana, and that was before Professor Melina's classes, so he'd been jumping ahead. But Lotte was a natural spellcaster, and after it "clicked," she had rapidly caught up with him.
+
+Lily, on the other hand, kept jumping back and forth between her two activities. Her improved Magesight took a little bit of a backseat, and she was focused more on the chant and focal image for Lunar Eclipse, as well as her new defensive glyph. Arakil had said preparation was one of her greatest assets, and she wanted to take full advantage of that. Of course, it also happened to be a shiny new toy for her to play with, but that was just the strawberry on top!
+
+"I think I did it!" Thomas suddenly cheered.
+
+"Damnit, I was so close to beating you," Lotte fumed.
+
+Lily giggled at her two companions' antics and then stared curiously at Thomas' eyes. Using her own Magesight, she could examine the lens he had managed to shape, and, from her own estimation, it looked great.
+
+[I can confirm that he's managed to create it. As for Lotte, just tell her to reduce the Mana amount by a little bit, and she should be good to go.]
+
+Lily delightfully "shared" the information, her two friends both looking pleased with themselves. Lotte followed the instructions and, on her next attempt at forming the lens, finally succeeded.
+
+"Who knew that too much Mana could be a bad thing?" Lotte sighed.
+
+Thomas and Lily gave an awkward smile but didn't say anything. Although Lily was sure she would surpass Lotte's capacity soon if she continued to refine her Mana Core, she still started from very humble origins. As for Thomas, while humans had flexibility beyond imagination, they often paled in comparison to some of the powerful bloodlines.
+
+How long until I catch up to Rose?
+
+***
+
+Late at night, Thomas was staring out over the wall. It had been peaceful, yet that had made him grow even more vigilant as time went on. Holding the firefly lamp, he could direct some of the magical bugs to help illuminate the area and hopefully catch any approaching monsters.
+
+Lily's shift had been unexpectedly quiet, and even though he suspected the girl was keeping several secrets, he didn't think she would lie about this. This meant that if Alice was true to her word, the attack would come either during his or Lotte's turn.
+
+"Not that I can blame her. If I were the first Lagia mage, I'd also want to keep things to myself," Thomas admitted.
+
+Speaking of which, he slowly focused Mana towards his eyes, forming the magical lens. Lily had called this "Magesight," and he considered it aptly named. Through this lens, he could see the vast array of hidden glyphs scattered around and inside the fort that she'd no doubt spent countless hours drawing. Thomas had always called himself a hard worker, but compared to this determined little bunny, he was starting to wonder if he was being somewhat lazy.
+
+"No sign of monsters…" he whispered to himself.
+
+Lily had told them that with Magesight, they could see the Mana inside most monsters, which was a massive advantage in the dark of night. At the time, Thomas had immediately summoned Yona and saw that the cat was full of Mana, which he could somehow instinctively tell was his own. He attributed that to the fact that he could see faint wisps of Mana joining him to the troublesome cat.
+
+Naturally, both he and Lotte had spent far too much time just looking at everything. They'd even reassessed the treasures they had gathered and could now effortlessly distinguish between the magical and the mundane.
+
+Of course, he had also focused on Lily's book, and he nearly lost his cool at what he'd seen. Compared to himself and Lotte, who had faint wisps joining them to their Familiars, Lily had what could effectively be described as chains. If he had been a superstitious person, he would've claimed the spirit was evil and had ensorcelled her, but, oddly enough, the book had considerably more "chains" wrapped around it than her.
+
+Thomas had brushed it off as their bond being more advanced than his, since none of the teachers had reacted poorly to her Familiar. Well, except for Alice getting the rules changed because of its ability to draw in dungeon monsters, of course.
+
+Sensing that things were going to remain relatively peaceful, Thomas reached into his pouch and carefully pulled out an ancient-looking scroll. Despite looking like it was on the verge of falling apart, the page had somehow survived the test of time. Even Yona had playfully attacked it when he returned to his rooms mere moments after receiving it, yet thankfully, it had survived her antics.
+
+"I can only assume this 'Magesight' came from the book as well…" Thomas murmured as he carefully read through the scroll.
+
+It wouldn't be an exaggeration to say this one scroll had changed his life. While Thomas had felt confident that he'd eventually make progress in his selected focus, it would come at the cost of time since he didn't have the benefit of a bloodline. However, this scroll had changed all of that and given him a fundamental way to progress, something not even the professors of Regarth could do.
+
+To say he was grateful would be an understatement, and he'd silently sworn to help Lily with whatever she needed, hoping to pay back even a fraction of what she'd done for him. If she wanted him to protect her secrets, he'd gladly do so.
+
+Thomas must have lost track of time while studying the scroll, for he eventually heard someone climbing the stairs. His attention grabbed, he glanced over to spot Lotte.
+
+"You're up already?" Thomas asked.
+
+"What do you mean already? I'm pretty sure it's past your shift," Lotte immediately refuted.
+
+Thomas frowned, not realizing that he'd forgotten to swap over.
+
+"Sorry… But it's been another quiet night," he replied.
+
+"I guess I'm the one who's going to be attacked then," Lotte said with a grin
+
+"You don't seem worried."
+
+Lotte shook her head. "No, I'm looking forward to it. Although I swear I'm going to be waking up for 'my shift' for weeks after this."
+
+Thomas couldn't help but chuckle, as he'd been worried about the same thing. The fact that Lotte had woken up by herself was already evidence of this.
+
+Thomas carefully put away the scroll and stood up with a slight stretch. "Well, if you do get attacked soon, you might as well call me then. I've been itching for a fight."
+
+Lotte smirked. "And let you steal my fun?"
+
+"Come on, we're supposed to be a team," Thomas tried to reason.
+
+"Sure, I'll consider it," Lotte sighed.
+
+"By the way, Lily was right, the Magesight works great at night," Thomas suddenly revealed before he left.
+
+"Oh?"
+
+Thomas smiled. "Try it yourself. You'll see anything with Mana light up."
+
+Lotte nodded and must have done just that, as she suddenly started glancing across the horizon. That was when her eyes went wide, and she pointed.
+
+"What the heck is that!?"
+
+Thomas' head swiveled in that direction, and he quickly activated his own magical sight. In the direction Lotte was gesturing was a floating purple eyeball, its gaze fixated on their fort.
+
+Thomas swallowed. "I'm not sure… Is it a monster?"
+
+"One way to find out!" Lotte declared and, with a few simple hand motions, sent out a magical serpent to attack the eye.
+
+When the snake lunged forward to "bite" the eye, it harmlessly passed through it. This caused both Lotte and Thomas to feel uncomfortable, as the eye also turned its gaze to follow Lotte's spell before turning its attention to the two of them.
+
+"I think you made it mad," Thomas nervously chuckled.
+
+Lotte opened her mouth to respond, but was interrupted by a shriek that echoed through the forest. Thomas was the first to pinpoint the source, and in the distance, they could see the figures of several winged creatures approaching their fort, their figures illuminated by the backdrop of the moon.
+
+"They're attacking!" Thomas shouted and pointed.
+
+Lotte quickly followed his gesture and spotted them. She bit her lower lip nervously. "That's a lot more than what I encountered last night."
+
+"Should we wake Lily?" Thomas asked.
+
+Lotte seemed to be quickly calculating something in her head, which she eventually shook. "No, I think we can handle them. Plus, she will probably wake up anyway with the noise your spells make."
+
+Thomas wanted to refute that, but Lotte had a point. He'd been trying to focus on the other spell segments described in the scroll that were less thunderous, but it was still a work in progress. If he wanted to definitively kill monsters, he was forced to go loud.
+
+They are flyers, though… If I stun them, they should fall, and that might be enough to finish them off.
+
+Thomas began to chant, and as he did, a cyan-blue energy began to arc between his fingers. Rather than the usual crackle of his lightning spells, this one instead made a strange buzzing hum. From his rudimentary understanding of the scroll, this was a type of lightning that traded damage for paralysis—or at least that was the only way he could describe it after accidentally shocking himself one time.
+
+Lotte raised a curious eyebrow at him before she held out her arms and began to chant, two magical serpents forming and coiling around her limbs as she did so. Unlike Thomas' reveal, he'd seen Lotte do this before during her own practice during this trip. This was her attempt to counter larger swarms of monsters by having these larger serpent apparitions pass through monsters, poisoning them along the way.
+
+Bloodline magic is so unfair… he couldn't help but think to himself, but was not willing to say it out loud.

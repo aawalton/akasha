@@ -1,0 +1,141 @@
+---
+id: ddaffd93-dbf3-5453-b5ff-6d8630d849d9
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 80 - New Environment"
+slug: 0084-b3-chapter-80-new-environment
+partOf: bookbound-bunny
+position: 84
+ownLength: 2212
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3837683/b3-chapter-80-new-environment"
+royalRoadId: "3837683"
+---
+
+The students were led out of the auditorium only to be replaced by some more spectators. It appeared there hadn't been enough room for everyone to sit inside, so priority was given to the students so they could receive their instruction.
+
+The usually wide-open castle hallways were jam-packed as they were led toward the dungeon entrance, where they were surprised to find that the grand entrance had some rather odd remodeling done to it. The area where the large ornate door was usually situated was instead replaced by five much smaller doors. The first-year students all gaped at the sight, while everyone else had much more subdued reactions, likely having seen such occurrences before.
+
+From there, they were escorted inside, but not before touching their Ward against a magical orb stationed at the doorway. Arakil was quick to confirm that this must be how they received "permission" to be warped outside of the dungeon. Arakil's grimoire was currently shrunken down and sitting inside her pocket, as nobody else appeared to be bringing their Familiars with them.
+
+{How would this work with Familiars? Would they get left behind?}
+
+[The permission would usually be conferred through the Familiar's binding contract. But don't worry about me, I'm happy to stay stationary while I continue my research into Astral constellations.]
+
+{I never thought I'd see the day when you were happy about Astral magic.}
+
+[The blame fully lies on your shoulders, as you've presented me with an idea that particularly tickles my fancy.]
+
+Lily hid her smile as she returned her focus to her group. Most of them had entered by now, and they were all heading down a staircase. Quite surprisingly, the older students were nowhere to be seen, despite the other doors being literally next to them, as if their staircase were the only one.
+
+Alice was the one in charge of them; she was easily the best for the job, and the first-year students might need an extra helping hand in such a unique situation. When they finally reached the bottom and exited through a large archway, they found themselves in what appeared to be a rocky woodland at the base of a mountain.
+
+Gasps erupted as everyone pointed at the sight; nobody had expected this, thinking they would be entering something similar to the first floor of the dungeon. Some astute observers even reported seeing structures in the woods, while others noted small caves in the foothills.
+
+[It looks like we've already been teleported. We are about sixty floors down by my estimate.]
+
+{Sixty!? I thought this was supposed to be an easy event. Did the dungeon screw up, or is this a scheme?}
+
+[I don't believe so. The Mana is roughly on par with the first, maybe the second floor. This might be a floor the dungeon wasn't using, and so it was repurposed for this event. Either that or it picked something deep where not many students would notice the changes it was making.]
+
+{Well, that's a relief… Still, I'm shocked; it certainly didn't feel like we went down sixty floors.}
+
+[The benefits of being a dungeon entity, I suppose. As I said, they can twist and distort the space within their confines. Granted, they need enough time to do so, but it's not like they could suddenly change things at the drop of a hat. This was why my actions had caused it such panic, especially since I wasn't going down a set number of floors, so it couldn't even try to predict where we would turn up.]
+
+"Right, Maranix students start getting ready!" Alice shouted. "Soon you'll be given the go-ahead to head out, then Terravix and lastly Zephyrix. Remember, just because you're going later doesn't mean you can't win, so make sure to put in your best effort. I also have one final instruction from the headmaster: there is more than one treasure to find, and the winners will be determined by quantity and quality. The better treasures are either harder to find or harder to acquire, so good luck.
+
+"Don't worry about needing to head back or anything. When the event ends, the headmaster will initiate the recall, so go wild! Finally, be sure to put on an exciting show; I put in a good word for all of you, so don't embarrass me! And please, no hotheads, if I catch any of you directly attacking a fellow student, I'll literally kick you before the headmaster gets a chance to kick you out of the dungeon."
+
+Gulps and vehement nods followed suit; everyone was taking Alice's threat seriously. Lily was even having second thoughts about how to go about her traps, as she really didn't want to get caught on a technicality.
+
+Lotte and Thomas were standing beside her, now just waiting for the go-ahead.
+
+"So we stick to splitting up?" Thomas asked.
+
+"I think it's our best shot," Lotte replied. "Especially if there are multiple treasures. More ground covered, more loot to grab."
+
+"You're faster runners than me, so I'd just slow you down," Lily added.
+
+"Until you whip out a talisman and woosh past," Lotte giggled, waving her hand dramatically.
+
+Lily blinked in surprise. "Wait, am I even allowed to use my talismans?"
+
+"Did they take them off you?" Thomas asked.
+
+Lily shook her head.
+
+"Maybe it's fine then?" he shrugged back.
+
+"Um… Maybe I'll not do it, just in case. I'd rather draw some runes and glyphs anyway. See if I can slow down the others."
+
+Lotte smirked. "I said it before, and I'll say it again. I love that idea."
+
+"Although this area is so large, it might be hard enough to cover everything," Thomas pointed out.
+
+"I'll still try my best," Lily replied excitedly. "Besides, this is just for fun anyway."
+
+"Yes, but it's more fun to win, no?" Lotte replied.
+
+Lily couldn't argue with that; winning was definitely more fun. However, their conversation was cut short as Alice suddenly began counting down.
+
+"Five. Four. Three. Two. One. Maranix, head out!"
+
+The students scattered, though some of the less confident students stayed in pairs. Despite there being no prior conversation or strategy discussion, most seemed to get the idea of not treading on the same ground and would adjust to spread out more. Roughly half went into the wooded portion, while the other half went towards the rocky foothills.
+
+Thomas ran into the woods first, so Lotte took the rocks, leaving Lily unsure where to go. The woods were undoubtedly going to let Clarissa shine, and she thought of laying traps there to prevent her, but then wondered if it would even be worthwhile.
+
+What if she just uses plants to get around them? I might be better off focusing on the rocky foothills.
+
+Without as many trees and roots, it would be easier to manipulate the terrain with simple glyphs, and she could use that to her advantage for some hazards. If things continued on for longer, she could double back to the woods and see about either dismantling some of Clarissa's plants or spreading out some more traps.
+
+If I used my Magesight to locate treasures, Headmaster Fabrelis might complain, but it should be fair game to use it to locate traps and monsters.
+
+Lily caught sight of Lotte racing ahead of the pack; you'd swear she wasn't the same sickly girl she had met at the start of the year. With her demi body slowly growing stronger with each monster she killed, it was only natural that she'd start seeing improvements, even if most of it went into fighting back against her own toxic blood.
+
+Lily couldn't help but feel a bit of envy at the demi students, as even though her own physical situation had drastically changed, it had only brought her to a semblance of normalcy. Of course, the same could not be said of her Mana Core, which was where all of her growth was focused. Humans also only received a boost to their Mana from absorbing monster essence, but if Lily compared herself to Thomas, the difference was like night and day.
+
+I shouldn't be envying others… I'm sure others do the same to me.
+
+With the momentary pity party being cut short, Lily focused on the task at hand. Ahead of her, she saw some students had already slain monsters, and the partially dissolved ground was a clear indicator that Lotte had been involved. From the brief glimpses she caught, it seemed that the initial monsters were dire coyotes, which weren't that different from the wolves they had fought in the forest. Glancing upward at the higher elevated areas, Lily caught sight of what she could only assume were dire vultures, or maybe hawks, patrolling the rocky terrain, causing her to flinch a little.
+
+It's a good thing they don't seem to be roaming the lower area… Or I'm sure they would target me, she thought, while unconsciously clutching an emergency talisman in her pocket.
+
+When they were a bit deeper in, Lily gradually slowed down so she could be left behind to lay traps. Obviously, she wasn't alone in this thinking, as some students had even cast spells while on the move, such as disrupting the rocks or even dropping water behind them to muddy the ground.
+
+"If only I could draw while moving…" Lily murmured.
+
+[Hm? You want to draw while on the move?]
+
+{Sorry, I was just whining.}
+
+[No need to apologize, it's only natural. I'm actually surprised it hasn't come up before this. If you use the repositioning function at the same time as the imbuing function, you should be able to draw while on the move. Of course, it's not that simple as you will need practice to keep your hand steady while in motion.]
+
+{The wand can use multiple functions at once?}
+
+[Of course. I don't recall ever mentioning that you were limited to one at a time.]
+
+{But you didn't explicitly say it could use more than one…}
+
+[I thought it was implied… My apologies.]
+
+{It's fine. I probably should have asked about this sooner, especially when I was thinking it was inconvenient to stop and draw all the time in the forest. I figured it might be something that needed me to be able to draw with my thoughts.}
+
+[Arguably, it's even easier to draw with your thoughts than with a wand. Your thoughts don't shake like your arm and hand while on the move.]
+
+Lily sighed and didn't say anything. Yes, what Arakil said made perfect sense, but that was neglecting the fact that even managing to draw with your mind felt like an insurmountable hurdle. It was like telling a bird that once it learned to fly, it shouldn't have any trouble gliding.
+
+The Nebula Veil was summoned, and Lily pulled out her wand from the pouch, cloaking both it and her arm in the starry shroud. At this point, she had come to a standstill and began to lay her first trap, leaving the drawing and moving for later.
+
+She drew a relatively simple earth glyph for digging and, using the positioning sigils, marked out a long line from start to finish. Her actions were precise yet quick, with zero hesitation or pause for thought, as she had already visualized the finished product. In a remarkably short time, the glyph was finished and activated, causing the spell to start digging into the ground while leaving behind plenty of loose rock and soil.
+
+From there, she moved on to her next drawing, wasting no time while the first glyph continued to dig a pit. This was another relatively simple earth glyph, intended to build a wall from all the material she had just unearthed. Part of her wanted to combine these two glyphs into an inscription; she knew she could've done it, but she held back, worried about who might be observing.
+
+I'd better not look, I don't think I can stop myself from reacting if I suddenly see one of those floating eyeballs right in front of me.
+
+Headmaster Fabrelis hadn't told them not to use their Magesight here, even with the observers, but she wasn't exactly sure how common it was among first-year students. She was already abnormal enough in her opinion, and pretending to the masses that her bloodline also allowed her to see Mana was a bit too far.
+
+Moments after the first glyph finished digging, Lily had finished her second glyph. The final step was targeting the materials, and soon a wall began to take shape; however, Lily didn't have time to gawk as it was being built, so she turned and began heading deeper into the rocky foothills.
+
+This is why glyphs are the best. I've given it the instructions, the material, and the Mana, so I can just leave it to do its job without me needing to hold its hand.
+
+Lily smiled and then took a breath, briefly checking her Mana Core. That stunt had cost her a considerable chunk of Mana, but thanks to her perpetually rotating Mana Core, it had been refilling even while she drew. She might not be the fastest or the strongest, but when it came to Mana, in quantity and recovery combined, she didn't think many could match her.

@@ -1,0 +1,91 @@
+---
+id: adc95587-20b8-5a42-8604-ef1c9c0fec15
+page-type-slug: story-chapter-royal-road
+title: "63. Thwarted Plans"
+slug: 0063-63-thwarted-plans
+partOf: breaker-of-horizons
+position: 63
+ownLength: 1972
+unit: words
+publishedAt: 2020-12-07
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/596462/63-thwarted-plans"
+royalRoadId: "596462"
+---
+
+Our journey home was mercifully uneventful, although I did notice that there was more than the usual amount of traffic on the road for that hour. As we drove past small stores that were still open even at this late hour, we noticed queues forming as anxious people rushed to buy provisions. More than one Imperial Police car sped past us to destinations unknown, and at a couple of junctions, we saw small teams on foot.
+
+Their manner wasn't exactly tense, but it was clear that they were keeping a watchful eye on things. The only thing out of place was the fact that they each had a polished silver stave in hand, about two feet long. They gripped it firmly in the middle and, every so often, one of them would casually sweep it across the scene. I felt a tingle of arcana wash over me as we drove past one of them just as they did this, and the officer looked directly at me, but we passed without incident.
+
+We almost never saw those staves in use — they were heavy-duty enforcement artefacts, designed for use by non-arcanists. It gave them access to a variety of sequences that could be deployed with the right activation glyphs. It was public knowledge that they could lay down robust shields and fire arcanic bolts that could be dialled up to bone-shattering intensity, but there were rumours about even more formidable capabilities that were rarely witnessed. It seemed that they had some sort of scanning capabilities as well, though I didn't know how that worked, or what it scanned for.
+
+It occurred to me now that whoever had designed that artefact must have been quite brilliant to be able to squeeze so many sequences into such a slender form. I wondered how the artificer who invented it had also solved the problem of fuelling those sequences if the users had barely any arcanic control to speak of.
+
+Triss' attention was drawn away from me as she pressed her nose to the window, watching these strange sights. It allowed me to withdraw a little into myself as I worried over how exactly I was going to deal with my sister in the few days we would have before I had to leave.
+
+By the time we pulled into the driveway of our home, Triss was already nodding off. Under orders from Mum, she uncomplainingly went and got ready for bed, which gave me some time alone with my mother.
+
+I had intended to take her aside, but she was the one who pulled me into the kitchen and sat me down at the counter. She started putting together some ham sandwiches as she spoke. "Cade, I don't want your sister to worry, but you need to know. The attacks were targeted at Academy freshmen and their families. And Hanafast isn't the only place. Places across the Empire were hit too."
+
+A cold hand gripped my heart at the news. "Where else?"
+
+"So far, it looks like almost every place with Academy freshmen was a target."
+
+The sheer scale of the attack seemed absurd. "Then Creyvlor? And the capital? And what about the families? You mean they took hostages?"
+
+She shook her head. "Thankfully, they didn't get that far. The attempts were all thwarted."
+
+"All of them?" I asked, surprised.
+
+"The news is saying that there were attempted abductions, but they were all found and stopped before they could go through with whatever their plan was. The police across the Empire coordinated their efforts and moved in at the same time. But some groups weren't so easily put down. They fought hard. Hanafast is the hardest hit because the fight grew out of hand. But even in the other smaller incidents, there were deaths."
+
+"So our city was hit? But I didn't see anything at the train station."
+
+"It wasn't all at train stations. The targets were all over the place. It seems the different groups were getting ready at different spots."
+
+"... Then... where was it, in our city?"
+
+There was a long pause. "The group was taken on the road, so they never made it to their destination. But... after it was on the news, I got a call from the police. It seems like we were the targets."
+
+"What?!" I leapt to my feet, tense. "And they let you go to the station alone after that? Are you and Triss safe here, then? Shouldn't we be moving somewhere? Why isn't there some sort of protection force?"
+
+She raised a placating hand. "We should be fine now with the police out in force. They've told me the immediate threat is over. We're safe enough to stay here, at least until your father gets back. Then we'll see if we need to do anything." She set aside a sandwich for herself and slid the plate to me. I wasn't hungry, but I took it anyway to occupy myself.
+
+"This is insane. If they got this close, who's to say—"
+
+"Caden, please, listen," my mother said, cutting across me. "I've been given strict instructions to pick you up from the station as intended, then to come straight home and stay put. They told me we'd be watched over, and I'm sure we're safe now. So until we know more... until they get in touch again, please, don't alarm your sister."
+
+I sat down, uneaten sandwich in hand, and tried to calm my racing heart. The thought of my family being targeted by these faceless enemies of the Empire filled me with a depth of fear I had never experienced before. The danger seemed so terrifyingly near — not like the abstract doom that was hanging over my father.
+
+"Did you call Dad? Does he know? Is he safe?" I asked, my thoughts turning to him, far away in the Academy.
+
+"He knows, and he told me he's well looked after. He won't be leaving the Academy until the day after tomorrow. Honestly, the Academy is probably one of the safest places in the Empire now."
+
+"Who are these attackers? What do they want?"
+
+Mum shook her head again. "Nothing on the news about that, and the police didn't tell me. We might know more tomorrow. It's most likely something to do with the Prophecy and the Chosen One. Maybe they're trying to get rid of him or her. Everyone knows the Chosen One enrolled in the Academy this year, and that fits with their targets."
+
+I thought back to the two men who had escorted Ambrose out of the Academy and wondered who was taking care of his protection. The police as well? And if he was being given special protection, then what about the rest of the people identified in the Prophecy? Didn't they need to be protected as well? Why wasn't anyone taking care of that? Or was everyone else expendable because the Prophecy would just replace those other people, as long as the Chosen One was safe? That was a grim idea, but it made sense. After all, my removal from the Prophecy's influence didn't stop it one bit — it had simply gone on to use Emilia in my place.
+
+At the very least, it seemed that we were cared for as a cohort. The Empire had moved to preemptively stop any attacks or abductions targeted at the freshmen and their families. But this was an unwelcome development because it meant that it would be harder for us to go on our hunt for wild augera now. Were all of us going to be confined to our homes, and thereafter escorted to the Academy for the next term?
+
+I wondered uneasily if somehow the Prophecy had conspired to bring this about — could it have made use of these attacks in order to keep us in our homes, where we couldn't enact any plans that would threaten its integrity?
+
+"Eat up, then try to get some sleep. You've had a long and tiring journey. We can talk more tomorrow." I nodded mutely and started half-heartedly on my sandwich. We ate in silence, and once we were done, my mother put the plates away and saw me off to my room.
+
+Standing in my own doorway gave me a sense of displacement. A great deal had changed since the last time I had been in my room. Somehow, everything seemed like it belonged to a different person, who lived a completely different life.
+
+I crossed the room to my study desk and ran a finger across its fine wooden grain. All the cramming and revision that had happened here to prepare me for the Academy seemed laughably simple now in the face of what I had learned about arcanophany. I had, to use the Demiurge's phrase, stepped "beyond the pale". And while I was drowning in oceans of arcanic mysteries, my sister was still tottering about in tide pools.
+
+How was I supposed to teach her? What was safe to teach?
+
+The very present danger made my promise take on a greater significance. I wanted her to be prepared if she was ever caught alone. She might not be able to stand toe-to-toe against an assailant, but the classes with Kant had drummed one essential fact into my head — in combat, if you were quick and clever, it was possible to win against a stronger opponent.
+
+I sank into the chair in front of my study table and pulled out a sheet of paper. I knew the sequence that would allow me to simply dictate while the paper recorded my words, but it wasn't versatile enough for me to make charts and diagrams, so I wrote with a pen and started a mindmap on the things that I could safely teach my sister, and the things I had to bear in mind so that I didn't lock her into a frame that would make it harder for her to learn things in the future.
+
+Shielding was the first order of business. Since she was capable of instantly conjuring orbs of arcana, her level of control was sufficiently advanced to move on to barriers of different shapes. Whether she would be able to channel enough arcana to form a useful barrier was another matter entirely, so that was the first test I would need to pose. Realistically, she wouldn't be able to produce a stronger shield that could absorb a lot of punishment, so I needed to teach her how to deflect instead, which was a great deal more efficient but also more difficult.
+
+That thought led me to the realisation that the arcanic mirrors that Kevan had first used would be extremely useful. They didn't require much raw arcanic power, and if my sister learned how to use them intelligently, she would be able to quickly hide herself from danger.
+
+Having an option for offense wasn't high on my list, but it seemed silly not to make sure that she would be able to do some damage if she needed to. Teaching her how to lay down combat-grade arcanic bolts seemed very unwise, even if she were able to manage it, so I needed to think of something else there.
+
+I felt a little better now that I had some direction. The whole business with the Prophecy would have to wait until morning when I could get in touch with the rest of the group through the telepresence room. In any case, I also needed to see what the security arrangements were, and whether we were all going to be confined indoors for our own protection. But at least there was something else for me to focus on — teaching my sister. It was with a lighter heart that I went to bed for the night, already half-dreaming of lessons and activities.

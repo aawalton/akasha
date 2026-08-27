@@ -1,0 +1,145 @@
+---
+id: cba5b9de-0481-5ae2-9d14-2a390a938c30
+page-type-slug: story-chapter-royal-road
+title: "v5c61: Shenhe's Oath"
+slug: 0168-v5c61-shenhe-s-oath
+partOf: beware-of-chicken
+position: 168
+ownLength: 2074
+unit: words
+ownProgress: 2074
+publishedAt: 2024-11-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1891428/v5c61-shenhes-oath"
+royalRoadId: "1891428"
+markedReadAt: "2026-06-29T18:57:04.289Z"
+---
+
+Zang Shenhe rarely spoke to other people about her plans. Only two would ever listen to her anyway; her fellow Elder, Chongyun, and the Patriarch. With Chongyun, he was one of the few who didn’t seem to despise her presence, and they were even cordial.
+
+The other she spoke to was the Patriarch, to gain his favour and hopefully his trust…even though she now knew that that endeavor was doomed from the start.
+
+The Patriarch had always been aloof and dismissive, bored by her appearance and words. But…she had needed to tell somebody. So she drew on the only memories she had of somebody who might tell her, the only person whose opinion on her path forward actually mattered.
+
+Wen had said Nezan always told her the truth, no matter if she didn’t want to hear it or if it was painful. Shenhe could only hope he would offer her the same courtesy.
+
+Now, Nezan sat before her. In contrast to the Patriarch, he gave her his full and undivided attention as she explained her intentions to him. The fox gave no outward reaction, simply staring at her until she said her piece. She met those eyes, for she would weather his criticism without flinching.
+
+At the end of it, Nezan closed his eyes. He mulled over her plan.
+
+“You’re entirely too much like your aunt, you know? Wen did not do things by halves either,” the fox said. Before, Shenhe would have beaten to near death any who dared to compare her to the ‘arch-traitor.’ Killed them for certain if they were an enemy. Yet this time, she could feel the fondness and the honest praise in the fox’s voice. She waited patiently for his verdict.“I cannot say I am displeased by what you are planning, Zang Shenhe. My only question is: why? Why did you choose this path?”
+
+Part of it was out of guilt. Part of it was out of a desire to atone. Part of it was to claim a birthright and history denied to her.
+
+But all of those were selfish reasons.
+
+‘Strength above all, to protect what we love’, Zang Yong’s words echoed in her mind.
+
+All her life she had been told to crush her love. To harden her heart, for that was how a true Zang became strong. She always felt weak when she could not fully give in to the Patriarch’s words.
+
+Zang Shenhe did love the Shrouded Mountain, its beauty and its splendor.
+
+She loved the Howling Fang Mountains, their home. Some of her fondest memories were when she was an Outrider, going to villages who did not know who she was and defending them from the things that meant them harm. It was where the black hate for the foxes had come from—the fury that they would involve the mortals of the province, prey on them, and kill them.
+
+She loved her disciples. She loved the men and women under her command, who had chosen to follow her into the north against demons.
+
+She could even say she loved some of their family. Fengfeng, who Shenhe had shielded from the worst of things. Li—who had never looked at her with disgusted eyes. Her heart had ached when she found out he had died, and her path of vengeance had been for him. She loved her mother and her father, the stress of the Patriarch’s ire withering them away so long ago.
+
+“Because it is the only one I can walk,” she answered, staring directly at the fox.
+
+It was the only path that wouldn’t make her a coward or an oathbreaker—the path that Zang Yong and Zang Wen would have walked. A path of penance, a path of redemption.
+
+“Then…you will have what support I can give you, Zang Shenhe,” Nezan stated.
+
+Shenhe bowed her head in thanks.
+
+======================
+
+Shenhe walked forward through the snow towards the fortress where the rest of her sect was staying. Her eyes were forward, and her back was straight. There were numerous eyes upon her, the people in Master Rou’s home giving her a head start as the other members of her sect walked forward to watch.
+
+Lord Shen Yu, Master Rou, and Yun Ren had been informed about her intentions—which had similarly been well-received. Lord Shen Yu had nodded and proclaimed her path “not bad”, though Master Rou had been surprised at her timetable. She had assumed the man wished for her and her sect to be gone as soon as possible.
+
+Instead, the benevolent Elder of the Cloudy Sword Sect had granted her a full week from when they had arrived, the man stating that he wished for them to be well enough to travel…and that Shenhe herself might benefit from speaking to one Cai Xiulan, Grand Marshal of the Azure Hills, who had some experience in bringing peace and reconciliation between multiple groups.
+
+Truly, the Disciples of the Cloudy Sword Sect were above all others in their benevolence.
+
+She reached the fortress. She did not pause, she did not hesitate. The time for such things had passed. The disciples within were broken and defeated looking. Their eyes were dull and lifeless, and despair hung about them like a pall. They sat in listless groups, and likely the only reason there was no fighting between them was because all of them were still too injured to actually do something about the simmering cauldron of emotions that hung around them all.
+
+“Disciples of the Shrouded Mountain Sect, I would request your presence in the courtyard,” Shenhe said.
+
+Her voice was soft in contrast to the belted out commands many disciples were used to, and that got their attention. Slowly, the listless disciples turned to look at her, and those who did found their backs straightening.
+
+Shenhe, who had been broken and wandering, dazed, now stood before them calm and resolute. Her eyes burned blue—and a fox sat upon her shoulder. Slowly, hesitantly, the disciples gathered. Some looked hopeful. Others, wary. Still others only rose out of an ingrained sense of duty, as they gathered in the courtyard and upon the walls of the fortress.
+
+Shenhe looked upon them. She saw their fear and uncertainty.
+
+“Some would say we have been quite unlucky. Captured by demons, defeated in battle, and finally, when we thought that the Heavens have ceased punishing us, we are given a revelation that has thrown everything we knew and have stood for into doubt. The sins of the Patriarch. The sins of the Inquisition. That our war that we thought so just was a lie. Even now we hear that our Sect slays its own in a civil war.”
+
+The disciples shifted, turning their eyes downward. They winced and shrank away from her words, folding in on themselves.
+
+“I know what you all are feeling. More acutely, in many ways. Everything I have ever done was to free myself and my family from the stigma of the ‘Arch Traitor’. I gave everything I had to the Patriarch. I fought and bled without complaint…and now I know that everything I have ever done has been in service to that lie. I would have never been absolved of my aunt’s actions. No matter what I had done, it would never be enough. I served a man who would have discarded me without a thought. The trust you had in the sect has been broken. The trust we have for each other has been broken.”
+
+Each word caused a minute wince as the disciples nearly collapsed.
+
+“And yet, I do not say we are unlucky. No, I say the Heavens have graced us.”
+
+Her words made their gazes snap back up.
+
+“In our defeat, the plot of an Imperial Realm demonic cultivator lies in shambles. We have delivered millions more from the suffering inflicted upon us. But more than that, the mists have parted and we can now see Mount Tai. We see the truth. No longer will this rot that kept us blind be allowed to fester. We have been cursed since the Age of Heroes—and we are the generation who has the opportunity to put it right. To bring us back onto the path that the first Patriarch, the true Patriarch, had envisioned. Are we not the Righteous Shrouded Mountain Sect? All of us have witnessed this injustice. Yet are we to just give up? Are we to just let it defeat us, without even trying to face the darkness within? No! I will not—and I ask all of you here to be with me when we do.”
+
+She could see them wavering. She could see the sparks of hope starting to enter their eyes.
+
+“We will end the war the kinslayer started, and we will bring about Zang Yong’s true vision. We will defeat what has been spawned by the darkness. We will be the Righteous Shrouded Mountain Sect! This, I swear to you!”
+
+“It will be hard. This will be the hardest path we take. And yet take it we must—precisely because it is hard.”
+
+“Many of you will ask, ‘why should we? Why should we work so hard for a sect that used and abused our trust?’ You are right to think this. But in the end… this is not truly for the sect. It is for the mortals who depend upon our aegis. For our families, who live upon the mountain. For ourselves, to prove that we can get up even after the worst of blows—Strength above all, to protect what we love.”
+
+“I shall put to right all wrongs set. I shall never allow what happened before to happen again. I shall not swear upon my honor or some other nebulous thing. I shall swear only upon my deeds, and if you find those lacking, leave with my blessing.”
+
+“I swear this upon all that is Zang Shenhe.”
+
+The disciples' eyes were wide. She could feel their Qi, charged instead of forlorn. Hopeful. Eager. No longer were they lost and defeated…for they had a mission. They had a goal. They had a purpose.
+
+Just like she did.
+
+And then, one stepped forward. He was an Outrider, one of Zeng’s men. He looked nervous, but resolute.
+
+“What about Elder Zeng, Elder Shenhe?” the disciple, Huan Chen, asked. She saw the same nervousness repeated on many others—Zeng was clearly well-liked by his men.
+
+The words made all in the courtyard pause.
+
+The man swallowed thickly when Shenhe turned his gaze to him…then up to one of the arrow-slit windows, where a shadow looked on at the proceedings.
+
+A part of her wished to repay him for every insult he had done to her. To rebuke him. To judge him. Instead, she let out a breath…and extended her hand.
+
+“Zang Zeng fought nobly and was prepared to offer his life for the good of his subordinates. The same offer is open to him. Elder Zeng may journey with us and take what is his from the mountain. After that…it is up to him. He may stand trial or he may leave, never to see the Shrouded Mountain again. It is the same chance I shall give to every member of the Zang Clan. The guilty, and only the guilty, shall feel our wrath.”
+
+The man bowed at the waist.
+
+“Shenhe!” somebody shouted.
+
+“Shenhe!” another took up the call.
+
+A chant began, shouting her name over and over again, the disciples' eyes locked upon her. The feeling of their trust was…bittersweet.
+
+“Master Rou has given us a week to rest and heal. Rest and recover. And on the seventh day, we return to the Howling Fang Mountains!”
+
+Her order was met with enthusiasm—and doubly so when Pi Pa arrived with the boar, bearing more loads of rice and pickled vegetables—a feast as grand as any held at the Mountain, moreso in some cases.
+
+Finally, Shenhe allowed herself a smile.
+
+A smile that persisted until Shen Yu stood before her again and asked for her presence in the nearby town.
+
+==========================
+
+The Lord Magistrate stared straight ahead, the light of the setting sun filling his office.
+
+“I beg your pardon, who is coming?” he asked as his stomach churned.
+
+“The Cloudy Sword Sect, the Soaring Heaven’s Isle Sect, and one of the Emperor’s men,” the old man before him said. “They will be here soon.”
+
+Behind him Jin bowed, clearly contrite.
+
+The Lord Magistrate sat down heavily in his chair.
+
+Internally, he started screaming.

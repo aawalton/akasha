@@ -1,0 +1,131 @@
+---
+id: 748e8253-843a-5838-b0e2-9f06b04b51fa
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 77 - Awards"
+slug: 0081-b3-chapter-77-awards
+partOf: bookbound-bunny
+position: 81
+ownLength: 2286
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3807477/b3-chapter-77-awards"
+royalRoadId: "3807477"
+---
+
+With the tournaments out of the way, all that was left was the awards ceremony. Not only did the top three receive gold, silver, or bronze medals, but they also received a prize based on their year. The medals themselves weren't anything too fancy, engraved with Regarth's symbol, a sword and staff crossed over a treasure chest, and a mark indicating the year and the event.
+
+When Rose had received her medal, she fished out an almost identical one from the first year, proudly wearing both of them over her neck. Rose wasn't alone in this, as a few others had matching medals. Duncan had the most, with four gold dueling medals and only appearing to be missing one for the first year.
+
+The reason was rather self-evident: in the first year, Duncan likely wouldn't have had access to enchanting or forging, and his mastery over his rare metal magic was probably almost nil. The fact that he had won in the second year was indicative that he had taken to water like a fish after finally settling down in Regarth.
+
+It was also plain for everyone to see that Rose was aiming to achieve the full set of five from her expression alone, and frankly, at the moment, it seemed to be inevitable. Headmaster Fabrelis even commented that only a very small handful of students had earned the full gold set in a single activity over the years.
+
+I guess that means Lotte and I need to sign up for the dungeon again next year.
+
+Lily actually felt a bit bad about taking first in the alchemy event now, as now Lotte wouldn't be able to complete the set. There was also the complication of her and the enchanting event next year, would they think she was stealing it from someone outside of her year?
+
+I'll ask Professor Ollie about it. While it would be nice to have, at the end of the day, they are just small trophies.
+
+Lily wasn't exactly being humble, and if it were a more practical reward, she would have been gunning for it. In that regard, there was a prize, but it was all just common stuff from the dungeon and scaled to their year. For example, as first years, they could take their pick of prizes revolving around basic survival: flasks of water, everburning lanterns, cloaks of warmth, and so on.
+
+It wasn't even based on your rank; if you were in the top three, you got to pick something. The glory and higher-quality medal were the only differentiating factors. Lily ended up taking one of the flasks and a towel that appeared to stay dry no matter how much fluid it absorbed. Sure, both of those effects could have been replicated with a glyph or even a simple spell, but it was still convenient to have around.
+
+The warm cloaks were very popular among the first years, but Lily had her Nebula Veil, which she could summon with a snap of her fingers, and the same principle applied to the lantern. Water was a quick, small chant, but in an emergency or awkward situation, she could now just take a swig from the flask. As for the towel, Lily just thought it was rather interesting, since this appeared to be tailored by the enchanting students.
+
+In fact, Arakil revealed that many of these items were likely made by the school's enchanters, which helped explain the large number of nearly identical items. Lily actually had a small urge to take apart her newly acquired towel, but when she realized she had absolutely no experience with needles or thread, she decided against it. It certainly helped that Arakil correctly pointed out that if she advanced her Magesight, she could peek at it without destroying it in the process.
+
+Even though there was still another day to be had, the fact that the award ceremony had happened meant that the evening had almost turned into a banquet. Regardless of who won, everyone celebrated, feasting merrily and regaling one another with their experiences over these two days. Of course, a majority of the conversation revolved around the duels, and the winners were practically hounded by questions and well-wishers.
+
+Duncan and Bradley got most of the attention due to the sheer spectacle and because nobody could find the kitsune girl after the award ceremony. Evidently, she didn't want to be the center of attention and decided to hide herself among the crowd with her illusions. As for Rose, she had scared off most of the people who wanted to approach her by now, and Hana got to enjoy the benefit of the draconic protection aura by sticking close.
+
+Lily was certainly grateful for Rose's intimidating presence, as many more people had seen her own performance than she realized. Those who had seen it and had even a tiny semblance of understanding about glyphs all had the same question: where did that glyph come from?
+
+The best part was that without even her suggestion or influence, she had already heard gossip about it being tied to her bloodline. From her perspective, things couldn't have been better, although if she had to make a complaint, it was that there had yet to be any tangible benefit from accumulating belief. Lily had tried several times throughout the day to draw a dot with her mind, with no success.
+
+Of course, she wasn't going to let that get her down, as Arakil had repeatedly reminded her that it couldn't be rushed. He also likened gathering belief to planting seeds, so you couldn't reap the rewards instantly. However, he admitted that, from his perspective, things seemed to be progressing in the right direction.
+
+However, the day wasn't done with surprises, and while the group was casually chatting, they were approached by Duncan. At first, people thought he wanted to congratulate the two gold winners, especially Rose, since they were both in Terravix. However, after he gave them a rather lukewarm congratulations, he instead focused his sights on Lily.
+
+"I happened to catch the recording of your dungeon performance. I have to admit, I'm impressed," Duncan said.
+
+Rose was almost instantly defensive, but Lily calmed her down with just a reassuring touch to the shoulder.
+
+"Thank you, that means a lot to me," Lily replied. "After seeing your performance in the duels, I'm almost sad I didn't go to the enchanting exhibit."
+
+"Oh, don't worry about that, I don't blame you at all," Duncan chuckled. "I didn't even go myself. I dropped off my work and spent the day roaming around with friends. Unfortunately, our profession doesn't usually lean toward exciting performances."
+
+"How can you say that after what you did in the arena?" Lily gasped. "I've never seen something like that before."
+
+Duncan smiled and casually pointed back at her. "I could say the exact same to you. I've never seen something like that before."
+
+Duncan reached into his pocket and pulled out a page; on it appeared a rough, but surprisingly accurate, sketch of the glyph Lily had conjured. "At first, I thought you might have used the glyph ink to make it, but not only would that be cheating, but it wouldn't reproduce the effect like that. No, you somehow drew that glyph in the air and in an instant."
+
+"Um…" Lily mumbled awkwardly.
+
+"I hope you aren't accusing my little sister of cheating, or I'll deck you in the face; fifth year or not," Rose growled.
+
+Duncan looked genuinely surprised at that remark. "Cheating? Gods no, I know she isn't that stupid. Besides, the ink that Professor Sylwel can't produce effects like that."
+
+Lily nodded, confirming that last part.
+
+"Anyway… Sorry for the misunderstanding," Duncan replied and began fumbling in his pouch for a bit until he pulled out a small, worn-out leatherbound book. "Anyway, I wanted you to have this. These are my notes from when I first started out, and I thought they might give you some inspiration, or maybe a bit of guidance, or anything really."
+
+Lily's eyes widened in surprise as she accepted the held-out book. She quickly opened it, just giving it a casual glance to get a hint of its contents. In it were plenty of sketches and designs of glyphs, though slightly different from the ones she knew. Some were blatantly wrong, as the notes in the corner or margin even pointed out, while others varied between absurd and genius.
+
+"I don't use these designs anymore, so don't worry about licensing or anything like that. I probably shouldn't be giving this to someone outside of Terravix, but… You are also my cute little junior in Applied Enchanting & Glyphwork, so I've got to look out for you," Duncan said with a wink.
+
+"Thank you…" Lily murmured, still feeling shocked by the kind gesture and contents of the book.
+
+Duncan chuckled again and shook his head. "It might sound strange, but I almost feel like I should be thanking you. I thought I was the only weirdo who wanted to use glyphs in combat, and no, that doesn't include bringing an enchanted sword to the fight. I'm glad there's someone I can pass the torch onto, and yes, I already mentioned this to Professor Ollie as well."
+
+Lily nodded, glad he had received Professor Ollie's approval. She didn't want Duncan or herself getting in trouble for doing something behind his back.
+
+"Anyway, I'm off. I hope you can put those to good use, or if they are junk, feel free to throw them away," Duncan said with a laugh before leaving.
+
+Lily thanked him again before waving goodbye and returning her attention to the book. As for its usefulness, she wasn't sure; in theory, nobody could beat Arakil for knowledge when it came to glyphs or inscriptions. Yet, at the very least, it could provide some references to the current state of enchanting, something Arakil still desperately sought out.
+
+The evening went on without any more surprises, and when Lily finally returned to her room, she could go through the book with Arakil. As expected, he was quite excited by it, and although he scoffed at some of the more insane scribblings, he still seemed quite interested in this journal.
+
+About half the little book was garbage, especially early on, but near the end, some diagrams and notes got Arakil particularly excited.
+
+"Is it something new?" Lily asked.
+
+[No, not new, these are some extremely basic enchantments. However, what I'm excited about is that Duncan here has effectively stumbled upon the enchanting equivalent of shorthand.]
+
+Lily blinked in surprise. "What? Isn't that impossible?"
+
+[Not exactly. Do you remember the explanation I gave you about runes?]
+
+Lily nodded.
+
+[Well, you could say that Duncan has found a middle ground between a rune and a glyph. The effects are obviously greatly reduced, but for that sacrifice, he has simplified it, and no doubt shortened the time to form it.]
+
+"So that he could use it while fighting…"
+
+[Exactly! He used all the tools at his disposal, and judging by what we witnessed in the final round, he seems to have succeeded. The book has also confirmed that enchanting practices haven't changed greatly since my time, in fact, I'd almost say they are a few steps backward.]
+
+"Or maybe it's just because he was too young?"
+
+[That's also possible. Anyway, if you feed me this book, I'll fully peruse through it and transcribe it for your own reading without any conflicting or incorrect information.]
+
+Lily was a bit hesitant to destroy the book she had just been gifted, but it was on the verge of falling apart. It wasn't the best quality, and it looked like Duncan hadn't exactly written it with preservation in mind. The fact that he had told Lily to throw it away was what ultimately led her to hand it over to Arakil.
+
+As for the grimoire's function to absorb other books, according to Arakil, it had actually been restored for quite some time, but they hadn't had the opportunity to really use it, so he never mentioned it. While he would have loved to have devoured Lily's school books, he wasn't sure if Regarth was expecting her to return them at the end of the year or not.
+
+With the grimoire closed, face down, and showing the spiral, she placed the worn-out notebook on top of it. There was a momentary flash of magic, and the notebook disintegrated into motes of light, which were drawn into the grimoire.
+
+[Excellent, a perfect success. I really outdid myself when designing this masterpiece.]
+
+To prove his point, Arakil instantly replicated some of the pages they had just looked over, a perfect one-for-one copy of his notes, including the scribbles. Arakil seemed surprisingly eager to have some work to do, leaving Lily feeling a bit awkward.
+
+I really wish I could do more for him… Are there any other books I could give?
+
+She glanced around her room and in her desk drawer. There, she found a few books she had seemingly forgotten about, all relating to astrology. These were gifted to her for help regarding her "bloodline," although she had never even used them. Arakil had mentioned potential ideas, but with everything else going on, they had never returned to it.
+
+"Do you want these books too?" Lily asked, picking them up.
+
+[Ah, good idea. I had almost forgotten about those.]
+
+Lily chuckled and one by one fed them to the grimoire. She doubted Arakil would have as much fun with these as he would with the notebook, but at least it was something.
+
+Maybe I need to start asking for books as prizes, instead of flasks and towels…

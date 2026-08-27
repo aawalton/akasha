@@ -1,0 +1,161 @@
+---
+id: 05f25041-bbdb-57d2-ab34-7ec2f8a12b3d
+page-type-slug: story-chapter-royal-road
+title: "v6c15: Not Every Departure is Heaven's Shaking"
+slug: 0203-v6c15-not-every-departure-is-heaven-s-shaking
+partOf: beware-of-chicken
+position: 203
+ownLength: 1981
+unit: words
+ownProgress: 1981
+publishedAt: 2025-04-13
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2197377/v6c15-not-every-departure-is-heavens-shaking"
+royalRoadId: "2197377"
+markedReadAt: "2026-06-29T18:58:18.103Z"
+---
+
+The second day of having the Elders here came and went. There had been a bit of apprehension about how the Elders were going to react but it proved to be unnecessary… though I guess that did make sense. People said back in the Before that top CEOs and other powerful people were surprisingly easy to talk to, and that proved true here too. They weren’t just powerful people, they were also the leaders of massive organizations that could topple nations if they put their minds to it.
+
+Even Lady Minyan, fully exposed to our home, was only a bit cold and standoffish. She didn’t arrogantly look down her nose at her lessers and glare whenever people spoke to her. She was surprisingly gentle, and had even humoured Shaggy Two—though really, who could be mad at that little man? He was always so cute and eager to help.
+
+After dinner, she went with Gramps to his house. Which again, wasn’t really my business, while the Cloudy Sword Sect once more returned to the guest house.
+
+And so day three dawned.
+
+Again, things were without issue. The Elders commented on the fascinating properties of Big D’s morning song, but otherwise they were just quiet while we finished our morning work. While two days of nerding out with Shou had been fun, today he was with Meimei and Ri Zu, teaching them how to fix Noodle’s spine. So I got to spend some time with Zhuye, and together we had a nice, quiet morning sitting and relaxing—or rather, Zhuye taking socks out of a drawer and dropping them beside us while I put them back in.
+
+Elder Yukong was talking with Tigu, Yin, and Chunky, who were describing to her what it felt like to turn into a human. There was a remarkable lack of cussing from the rabbit today. She seemed pretty intrigued by the floating symbols around Yukong and was clearly getting some kind of lecture as Yukong worked.
+
+Big D was with the Torrent Rider, Babe, Shaggy Two, and Elder Ge. The Elder of the Cloudy Sword Sect was giving pointers to the kid, who looked starstruck that “such a cool old master” who had told him stories last night was giving him some tips about cultivation.
+
+Gou and Yun were somewhere along with Xianghua, Bowu, and Spooks—they said they were going foraging.
+
+It was nice to just sit back and watch for a little… at least until I noticed somebody approaching my seat.
+
+“Rou Jin,” Lady Minyan said, her voice cold and regal as always. Gramps came with her and held his arms out for Zhuye. I was curious about what she wanted, and it seemed that there was something a bit serious going on, so I handed my son over and turned to face the Divine Falcon.
+
+Still, Gramps didn’t seem worried and winked at me as he left, so it couldn’t be anything too bad.
+
+“Yes, Lady Minyan?” I asked, sitting up straighter as Gramps retreated.
+
+“We have some things to discuss,” she stated, sitting down on the couch opposite me.
+
+“Such as…?” I asked, a little confused.
+
+“We must discuss the terms of recompense and provision for a ship under the command of an Admiral of the Soaring Heaven’s Isle Sect.”
+
+I paused. Was this like the Cloudy Sword Sect, with their own rules for things that needed to be done, like delivering mail?
+
+“The Soaring Heaven’s Isle Sect is doing battle with Demonic Forces. Would that not be enough recompense for any provisions we provide?” I ventured.
+
+I saw one delicate eyebrow raise.
+
+“It is not solely for the provisions. You’ve quite some interesting techniques, Rou Jin,” she said leadingly, and thanks to my lessons with the Lord Magistrate I realised what exactly she was getting at.
+
+I had been kind of free with speaking in front of her. None of the Cloudy Sword Sect seemed to really think it was a big deal, and I didn’t care for holding back. She could have the knowledge if she really wanted—she was here helping us with her flying ship after all. But apparently she wanted to repay me for the knowledge. Which again… was nicer than I was expecting.
+
+“Oh! Yeah, they’re pretty neat. Did you want a write up too?” I asked, purposefully playing at being obtuse.
+
+Maybe it was a little dumb to try and joke with her, but it kind of slipped out.
+
+I saw her other eyebrow skyrocket to join its sibling before she saw my little smirk, and her eyes narrowed.
+
+I felt the pressure of her Qi press upon my shoulders, heavy and cold. It was like the whole sky was pressing down on me—but no matter how hard it pushed, the land beneath me would always be there.
+
+She noticed my lack of reaction, and just as soon as the cold came, it went, the mild rebuke sliding off my shoulders.
+
+“Hmph. You truly are his grandson, to dare try and toy with me,” she sniffed, though there was a kind of grudging respect in her tone. She wasn’t really mad.
+
+“Sorry, sorry. I thought it was kind of funny,” I said. “To me, that knowledge and those techniques were a small price to pay for your presence. But if you feel the scales are imbalanced, then we should of course discuss how we can help each other.”
+
+Minyan seemed amused at my words. From there, we started haggling. Though haggling was less the word, and more… coming to a mutually beneficial agreement. Neither of us cared about money. Instead, a contract of what was essentially bartered goods was drawn up that looked suspiciously like a military procurement form.
+
+I guessed it was a quirk of her sect.
+
+“Full grown Silver Yin Lotuses. Spiritual Herb Growing Techniques. Provisions for the Windward Blade. Provisions and lodging for Disciples on patrol. In return: Spiritual Herb seeds and clippings. Mortal fruits, trees, and vegetables. A selection of alcohols, glassworks, pottery, weavings, wood-block prints, board games, ores, farming equipment, mining equipment, sculpting tools, smithing tools, pill furnaces, herb handbooks, and medical texts from Soaring Heaven’s Archipelago and surrounding area. Permission for the contractor and peoples of his choice to board the Windward Blade for a tour.”
+
+Minyan seemed amused at the contract. “Few are afforded the honour of boarding our ships. You certainly extracted a high price, Rou Jin.”
+
+I chuckled at her tone. As the Lord Magistrate said, refusing to meet somebody halfway meant you didn’t value what was being offered to you. Minyan had wanted to pay me back… so I asked for things that I considered worth it. Judging by Minyan’s reaction, the deal was more than acceptable. Though I think she was thinking in greater amounts than I was. I wouldn’t be surprised if that selection of seemingly random stuff turned out to be rather large—but the hobbies my family had were pretty wide and varied.
+
+“Your ships are amazing. I’ve always wanted to ride in a flying boat,” I replied.
+
+Minyan inclined her head.
+
+“A pleasure doing business, young man,” she declared, and then rose to her feet. I rose with her and bowed. She didn’t execute a full bow, but instead inclined her head. A copy of the contract was placed before me.
+
+“May you continue to fly true, Rou Jin.”
+
+=========================================
+
+Thankfully, that was the most stressful part of the day. The rest of it was a normal lazy winter afternoon. We played some hockey, made sure there wasn’t any demonic poison we had missed, and generally just hung out while the Elders either watched or asked questions.
+
+Yun Ren especially got more attention again when he revealed to the Elders he actually had pictures from inside the raided demonic cultivator base—which apparently revealed some things that the Elders had missed from the main, ruined thing, especially some faint seals in the… ‘experimentation ward’ that had collapsed.
+
+“… how small can these be made?” Elder Yukong eventually asked, her eyes fixed on the recording crystal.
+
+“Dunno. You would have to ask Biyu from Mengde’s Crystal Emporium in Pale Moon Lake City,” Yun Ren instantly replied.
+
+“Mengde’s Crystal Emporium, hm?” Elder Yukong mused.
+
+And then it was once more time for dinner.
+
+“What do you think, Shou?” Elder Ge asked, as the meal wound down. “How goes your instruction?”
+
+“She's smart. Both of them are smart. She needs one more half-day, and then references will suffice,” Shou declared. Meimei and Rizzo both sat taller at the praise.
+
+“Excellent. Then, after you are confident, we shall return to our Disciples on the fifth day,” Elder Ge pronounced, “and send our disciples to resupply.”
+
+I blinked at the announcement. They hadn’t been here that long. Ge saw my confusion, and gave me a smile. “Duty calls us; this has been most engaging, but there is still much for us to do.”
+
+Shou looked like he was about to pout, but instead he just nodded firmly. “Yes, our presence is required elsewhere.”
+
+“Thank you for your hospitality. It has been wonderful,” Elder Yukong said.
+
+“I shall depart at that time as well,” Lady Minyan said. “I have… things to report to my Sect.”
+
+“I’ll prepare some care packages then,” I replied. “Some food and drinks for the road.”
+
+That got several thanks.
+
+“We shall need a few more of those packages, Grandson, and one rather large one,” Gramps said. “We will not leave immediately, but Spooks has been kept from his Master for too long—I need to pay my respects and see what he decides about meeting with Brother Ge, along with perhaps an envoy. Bi De, Ri Zu, and Yun Ren may join me.”
+
+That caught their attention, and all three of them sat up straighter.
+
+“It will be good to see Master Forest Sweeper again,” Bi De said.
+
+It was a little surprising how fast things were going. For some reason I had expected them to be here for a while. Instead, they would be here for less than a week.
+
+==========================
+
+And indeed, they kept to their words. Shou finished teaching Meimei and Rizzo what to do as he said he would. I played a couple of games of Go with Ge and got my ass handed to me—he seemed to find it simultaneously hilarious and baffling that I was this bad at the game.
+
+Yukong kept asking those who could to show her their transformation, and seemed to grow increasingly confused about it.
+
+Gramps and Minyan… well, they were normally together, but as the time came for her to leave, there was definitely some invisible tension.
+
+And then the fifth day dawned.
+
+“Thank you for your instruction, Master Shou,” Meimei said, clasping her fist and bowing. Rizzo and Noodle—as the prospective patient—bowed with her. The man just smiled.
+
+“It is your own capability. It's always nice to have such dedicated and intelligent students,” he said.
+
+“And to have such fine conditions to study in,” Yukong agreed.
+
+“The Cloudy Sword Sect thanks you for your hospitality,” Elder Ge finished, and all three of them raised their hands and clasped their fists.
+
+“The Soaring Heaven’s Isle Sect thanks you for your hospitality,” Minyan stated as well.
+
+“Please be welcome at any time,” I replied. Behind me, everyone else clasped their hands over their fists and executed a bow… save for Gramps, who just nodded, waving them goodbye.
+
+With that, the Elders rose into the air on their flying swords, except for Minyan, who simply floated away, and began their journey north.
+
+We watched them go.
+
+Honestly, it was rather anticlimactic. I was expecting some grand revelations or something, not a bunch of interesting, fairly chill old people.
+
+But I guess that's just how things rolled some times.
+
+I turned back to everyone.
+
+“Who wants to go tobogganing?” I asked. A cheer went up, led by a beaming Peppa.

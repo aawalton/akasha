@@ -1,0 +1,63 @@
+---
+id: 2c39f75f-2020-5e18-8022-41a0fa206985
+page-type-slug: story-chapter-royal-road
+title: "61: Run for your life"
+slug: 0061-61-run-for-your-life
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 61
+ownLength: 1603
+unit: words
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2092858/61-run-for-your-life"
+royalRoadId: "2092858"
+---
+
+60:
+
+Jack had to admit that he had underestimated the effect of the Pendant of the Miststalker despite knowing that it was an Epic ranked artifact. Not only had the Mist Qi engulfed his group entirely, but it had continued to unevenly expand outwards, its current shape that of a misshapen cloud that was as large as the sand dune their group had descended before they were attacked.
+
+[You have slain Level 4 Unawakened Cultivator. You have received 445 Soul Experience.]
+
+Jack dismissed the notification almost as soon as it arrived, but it was hard to keep the surprise out of his face. He had intended the Qi Projection he had fired off to be a distraction at best, given that all the archers had to do was duck behind cover they had already chosen in advance.
+
+Two of the three archers appeared to have managed it, but it seemed like one archer was either not paying attention or had his guard down, not having expected Jack to retaliate as he had when it was clear that the group of four was outnumbered and outmaneuvered the moment they had started their descent of the dune they had been crossing.
+
+It didn’t take Jack much inference to conclude that since the group had experience in hunting cultivators, either to force them to comply with their demands or kill them for experience, they had most likely just been scouting from the top of the highest dune in the vicinity, where the main group was still positioned. They must’ve been spotted as long ago as half an hour ago and had the middle-aged man’s intention been to outright kill them all in one fell sweep, Jack suspected that injuries would have been the best case scenario and casualties would not have been an unexpected one.
+
+It was frustrating because Jack still felt like he had made the correct decision with the information he had on hand and unless the middle-aged man’s group had a means of detecting Sand Stalkers and hollowed out patches in sand dunes, which he doubted, then they were subjecting themselves to unnecessary risk. Jack doubted that the middle-aged man, as impressive as a figure he might cut, had such means and given that he knew what all three cultivation techniques in the store did, he was as certain of his deduction as a man could be in the face of the apocalypse.
+
+Then again, the middle-aged man didn’t actually care for the wellbeing of most of the cultivators in his group. Jack had been looking at a complex solution to a simple problem, so instead he employed a principle that could be as dangerous as it was useful when faced with too many sets of information— Occam’s razor suggested that the middle-aged man could simply place members of groups that he had forcibly absorbed on the front line, solving both the problem of Sand Stalker ambushes and hollowed out dunes in one fell swoop. It made even more sense when Jack considered that anyone with military training wouldn’t want their back exposed to people they had subjugated through duress.
+
+If considered solely from an objective standpoint without accounting for human emotions or morality, Jack had to admit that if anything, the middle-aged man’s strategy was superior to his own when it came to traversing the desert.
+
+Cruelty was beating his strategy and Jack was once again reminded of what he considered the very basics of true doomsday preparation. No plan survives contact with the enemy and no amount of preparation can account for every variable on a dynamic battlefield. Choosing the safety of himself and group while traversing the desert hadn’t been a mistake, but a more ruthless and vicious enemy had outmaneuvered him on the battlefield.
+
+Jack felt like he was being tested, both as a leader and as a human. True leaders showed their mettle when plans and contingencies failed and if Jack lost and allowed himself to be captured or killed by the enemy, he would have lost to a man who had abandoned his humanity. Even if he managed to survive, his resolve and with it, the oath he had made standing over Trent’s grave, would never be the same.
+
+The first test came in the form of an onslaught of ranged attackers. With Jack being the only one capable of seeing through the fog and see through it he did, his gaze flickered from the four Qi Projections being fired from the largest dunes in the vicinity, notably a Qi Spear Projection from the middle-aged man, a Qi Sword Projection from the brown-haired woman’s Moonsword and two more Qi Spear Projections from the poorly armored cultivators that were standing to her side. Jack assessed the situation long enough to notice that the black-haired man wielding the icy dagger hadn’t contributed with a projection of his own, which was surprising considering that he should atleast have reached level five considering that he owned a full set of Jade Guard Armor and the dagger version of Hoarfrost’s edge, to the two archers that had found their morale as they pulled their bowstrings taut despite their faces and tunic being splattered with blood.
+
+Merely standing within the Mist Qi released by his Pendant of the Mistwalker made Jack feel like he was gliding across the sand instead of jogging across it, any impediment the sand’s malleable nature made on his speed negated by the sheer weightlessness he felt, as if he weighed twenty pounds instead of two hundred. In fact, Jack had to actively suppress his speed to make sure that he didn’t leave his companions behind in the dust. He had told them to run in a straight line and running they were, even if it meant not being able to see what lay before them and with marcus already avoiding having a stumble become a fall, but that version of the plan hadn’t accounted for six projectiles and they were all still clustered relatively close to each other.
+
+Despite how fast Jack had gotten, constructs formed out of Qi were still way faster. Jack’s perception stat hadn’t increased in any meaningful way due to the Mist Qi so there was no way he could calculate the trajectory of all the attacks and he wasn’t even close to becoming fast enough to block every one of them.
+
+So instead, Jack issued orders based on a melange of intuition and guesswork based on the trajectories he’d seen, “Marcus, dive hard to the right and then keep going straight as you were! Sarah, stop running now! Jin, veer off to the left and keep going until I say stop!”
+
+Jack peeked behind him and watched as his group members tried to adhere to his commands without the slightest of hesitation. Marcus dived to the right and apparently he had not been neglecting his dexterity stat, as he rolled back onto his feet and remained crouching for a few seconds, no doubt having felt the whistle of the arrow that had slammed in close proximity to the patch of sand he had been standing on moments ago.
+
+Jin had banked hard to the left and she was fast approaching the periphery of the cloud of MIst Qi, while Sarah had completely stilled her momentum and dropped to a crouch with her hands guarding her head and her armor doing the rest. Since Jack had never stopped moving, it meant that Sarah too was approaching the periphery of the misshapen cloud of Mist Qi that ensconced the group.
+
+Fortunately for them both, Jack had made the right call as a barrage of Qi Projection attacks slammed into the centre of the Mist Qi cloud with the force of sniper fire, the sound of each impact sounding out as muffled thumps.
+
+“Jin, stop! Go back to running in straight, but try to curve inwards a little. Sarah, start sprinting straight and break into a jog when I tell you to slow! Marcus, continue on as you were,” Jack called out as he traced the second arrow’s path into the distance, as it overshot the entire group completely.
+
+The next few minutes passed in such a manner, though Jack honestly couldn’t tell if it was five minutes that had passed or fifteen. He kept relentlessly calling out commands and the group’s formation, or what little semblance of it remained, adjusted themselves accordingly. Thankfully, the Qi Projection attacks stopped after the second volley, which Jack considered a wise decision on the middle-aged man’s part, assuming he was the leader and his imposing entrance hadn’t been some elaborate feint. The cost involved in firing off Qi Projections was quite high even for Jack and he could recover Qi with his Essence Cultivation Art and a few more would bottom out their Qi Pool. Thus, for a longer stretch of their journey, they were harried continuously by the two remaining archers with their infinity quivers. To make their Qi Pool stretch across a longer timeframe, they added Qi Arrow to about one in four arrows and made speed of firing shots their priority, likely intimidated by the mass of mist that was approaching in their directions.
+
+That was the reason why Marcus got off without even a bruise as a regular arrow plinked off his armor, not able to penetrate the Jadeite Ore that his armor was in part, forged out of.
+
+“All of you, stop!” Jack called out.
+
+“Why?” Marcus asked, panting from either the exertion or the stress of it.
+
+“We’re behind the dune,” Jack revealed.
+
+“Thank god,” Jin exclaimed, the relief in her tone palpable.

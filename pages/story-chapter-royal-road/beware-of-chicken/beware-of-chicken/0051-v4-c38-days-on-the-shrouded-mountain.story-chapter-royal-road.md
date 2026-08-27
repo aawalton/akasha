@@ -1,0 +1,257 @@
+---
+id: f74f30d3-f3e6-5b30-a0c7-16f281172ec1
+page-type-slug: story-chapter-royal-road
+title: "v4 c38: Days on the Shrouded Mountain"
+slug: 0051-v4-c38-days-on-the-shrouded-mountain
+partOf: beware-of-chicken
+position: 51
+ownLength: 3013
+unit: words
+ownProgress: 3013
+publishedAt: 2023-09-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1334283/v4-c38-days-on-the-shrouded-mountain"
+royalRoadId: "1334283"
+markedReadAt: "2026-06-29T18:53:07.727Z"
+---
+
+On the Shrouded Mountain, most days passed like any other.
+
+The stone had seen more sunrises than could be counted. The mists had shrouded the peak since before recorded history.
+
+The mountain was eternal.
+
+The cultivators who lived upon it sought the same eternity.
+
+The sun rose. The disciples awoke as they had done for thousands of years. The trod footpaths a million feet had trod on before. They passed the work of generations that still looked brand new.
+
+The Outer Sect Members attended to their tasks, and those who could, diligently cultivated.  The faces changed as they rose and fell to time’s endless grind. All the while they aped the actions of people whose bones had long since turned to dust.
+
+They even rested the same; going out into the city that surrounded the mountain, as the generations before had done, and the generations after would do as well.
+
+================================
+
+The pub at the foot of the mountain was loud, well lit, and well patroned. Comely serving girls danced between the tables, almost gliding in a display of skill that was quite good… for mortals. It would be the bare minimum of service the not so mortal clientele of this establishment tolerated.
+
+It was a place of fine food, fine wine, and cultivators. A popular haunt of members of the Shrouded Mountain Sect, it played host to its thousands of Disciples.
+
+“—and then the fucker just handed me his clothes! Me!” Tan Men of the Artifact Pavilion howled as he downed another cup of rice wine.
+
+“That's rough, buddy,” Tan Men’s drinking companion, Niren, commiserated as he poured Tan Men another cup. The Artifact Pavilion member smiled at the man’s generosity. They had met when the Outer Disciple had discovered him struggling with all the cauldrons he had been tasked with cleaning, and Niren had given him a hand with the task. They’d hit it off, and Niren had invited Tan Men to drink.
+
+Tan Men never missed an opportunity to drink, especially when his good Junior was kind enough to be buying.
+
+“Could be worse though. You could be a member of the Che family. Stuck in the Outer Sect or amongst the dregs of the Fulmination Squadron.”
+
+Tan Men laughed, his cheeks red. “Yeah, I could be like that one fool who tried to get into the Artifact Pavilion! Fool had his own formation explode in his face!”
+
+Niren laughed along with him at the fool’s misfortune. “I even heard the damn fool whining about how he was sabotaged, instead of just accepting the fact that he was trash. Poor fool is desperate if he thinks he can just blame a Pavillion Master!”
+
+Tan Men laughed harder. “Well…” Then he leaned in. “I wouldn't put it past our Ice Lady.”
+
+His drinking buddy blinked, raised an eyebrow, and poured Tan Men another drink. “The hell did he do?”
+
+Tan Men snorted then glanced around, and after seeing nobody of importance he leaned in and lowered his voice. “You didn’t hear this from me, but some people say that Master Yuha’s lover used to be of that clan, and then he went and slept with a fox—so she has it out for the entire bloodline… and then she changed to be on the other side, you know what I’m sayin?” he asked, making two circles with his fingers and bumping them together.
+
+“Really?” his companion demanded.
+
+“That's what they say! But keep your lips shut if you want to keep them!”
+
+Niren nodded. “Don’t worry about it. I won't tell a soul—hey miss! Get us  another round!”
+
+Niren caught the attention of a beautiful serving girl, who smiled and bowed as he waved coins in front of her. She enthusiastically went to fulfill their order. Which is why this place was the best. The girls were enthusiastic! He wondered why in some of the other places they looked worried. They were the Heroes of the Shrouded Mountain Sect! What would the people have to fear from them?
+
+“Thanks, brother!” Tan Men said, clapping his friend on the back. “Now, where was I… right, that bastard!”
+
+Niren sat back to listen, pouring more wine. The guy could certainly hold his drink! But it was good. That meant he was listening with all ears to Tan men’s story of woe, and giving it proper consideration like a good junior. What a swell guy, Niren
+
+Tan Men would later wake up in his room with only memories of a fun night. It was blurred, but the best nights were the ones one couldn’t remember..
+
+===============================================
+
+In the Inner Sect, the timeless feeling that the Shrouded Mountain cultivated was amplified.
+
+The wards did not allow snow to touch the ground. The wind was as silent as an owl’s wings. The worldly failed to penetrate… save for the opulence of the mansions. But even these gold inlays and jeweled decorations, used so negligently, were a part of the timelessness. Enclosed within the vast mansions, the Disciples treated all things as transient. All that mattered was the next day of cultivation, of challenging the Heavens.
+
+This was the nature of the Sects, closed off and detached from the concerns of the mortal world. Above it, and beyond it.
+
+They seemed as far away as the Heavens the cultivators tried to reach.
+
+================================================
+
+The air in the Medical Pavilion of the Shrouded Mountain Sect was filled with intent. Every disciple had grim looks upon their faces as they stood outside the door to Master Lishu’s office.
+
+For today was the day that they were sure to lose something precious.
+
+The atmosphere was that of a funeral, mournful, as they waited. Some patiently, and some gnawing at their fingernails with worry—an uncouth action for those of their cultivation level.
+
+Finally, however, after an hour the door opened and Hong Ri Zu strode out, a small smile on her face. She paused, clearly surprised, as she took in the gathered crowd outside the door. She opened her mouth to ask what was going on when she was interrupted.
+
+“Did you pass?” Hutao demanded, eyes wide.
+
+Ri Zu smiled and pulled out the papers, displaying the perfect score upon the sheets.
+
+The doctors took one look at it and started wailing.
+
+“Our wonderful assistant!” Yuanzi cried.
+
+“Now, I guess things are going to go back to normal,” Kuang Dan sobbed.
+
+“Why?! Why have the heavens forsaken me?!” a third demanded. “Who's going to brew my tea?!”
+
+Ri Zu tilted her head, confused at their panic. “Ri Zu already started training her successors—she got permission from Master Lishu to get more assistants from the Mountain Pavilion, and more mortals. This last week she has been training them. They still need a bit more work but—eep!”
+
+Ri Zu was practically tackled by her now-fellow doctors.
+
+The members of the Shrouded Mountain Sect’s Medical Pavilion lifted their saviour upon their shoulders and cheered her name, marching a full circuit around the  Pavilion..
+
+Master Lishu looked upon them all with a single raised eyebrow, and then shook his head.
+
+====================================
+
+And yet, despite their attempts at eternity, time did pass.
+
+The long summer of the valleys was slowly waning. The quality and appearance of the sunlight shifted. The days were still warm and hot, but the cold bite of the northern winds started to make itself known. Even through the wards to the Shrouded Mountain it leaked through, and all could feel the power of the world’s cycles—its force greater than what any cultivator could bring to bear.
+
+======================================
+
+Qi swirled in controlled motions in the air as Fat Han focused his intent. The formation was at a critical stage. The last time, at the Artifact Pavilion, his formation had exploded at this point.
+
+He felt one last twinge of anxiety surge in his guts as the seconds seemed to stretch on.
+
+This time, however, there was nothing.
+
+The formation was completed. His Qi surged into the fine silver needles, empowering them, stretching them, and granting them a tiny, artificial soul.
+
+It was nothing like what a true Master could create… but this wasn’t meant for true Masters. It was meant to improve the quality of basic things, like swords for the Outer Sect members. It was an edge, nothing more; an accelerated version of a natural process of a piece of equipment slowly gaining its own soul over hundreds of years of use.
+
+The needles, which had been floating in the air, slowly came back down and laid themselves to rest on the silk cloth that had been arranged beneath them.
+
+Fat Han looked closely at them. Everything had succeeded. The formation was perfect. It was bittersweet to know he would have succeeded back then if only someone had not purposefully failed him.
+
+The silence was broken by Yushang clapping enthusiastically, stars in her eyes.
+
+“Great Job, Brother Han!” she cheered, no guile, spite, or veiled insult in her cheery words as she rushed forwards to examine the needles. Fan sighed, half irritated and half thankful for her praise.
+
+“Yes, yes. I am supremely skilled,” he said with a sigh. Biren, one of his other four spectators, clapped Han on the back. Han smiled at his roommate’s silent show of support.
+
+“Thank you for allowing us to witness your formation, Fat Han. It has proven to be enlightening,” Bi De intoned.  His Senior Brother, who had encouraged him, and given him many pointers, inclined his head to Fat Han. Beside him sat Ri Zu, both sitting just slightly too close together to be ‘proper’.
+
+“Thank you for watching over me—and Sister Ri Zu, thank you for your assistance in clearing the doubts I had in my formation. Please accept a token of my gratitude for your consideration, and in celebration for your accomplishment.”
+
+“Ri Zu humbly receives this gift,” she said as she picked up the needles while channeling some of her Qi into them. Her eyes lit up, clearly pleased. “Thank you, Han. Ri Zu will use these well.”
+
+“Ah, look at our benevolent Brother! He can create treasures without parallel, so his heart must clearly be altruistic—” Yushang started, a sly look in her eye.
+
+“If you get me the materials I’ll make you something, but no discounts,” Fat Han interrupted.
+
+“—a stingy bastard,” Yusahng finished.
+
+“Okay, then I won’t make you anything.”
+
+“Forgive Yushang, kind Brother! She’ll pay you in full!”
+
+The rest of their companions laughed as Han purposefully turned his back on the beggar, trying to hide a smile.
+
+Then of course, Yushang decided to spit on his kindness. The irritating woman ducked down… and then the brute scooped him up onto her shoulders! Han yelped as her hands locked onto his legs.
+
+“Now, our Brother has accomplished a grand task, so let’s party!” the woman shouted as she capered about.
+
+“Biren! Get me down from this uncouth woman!” Han shouted, his body jerking about as the annoying strong wench below him started dancing. His other friend, Biren, who had been frowning slightly, startled. Biren had been troubled recently. And he’d been quite busy with whatever his new job was.
+
+But instead of helping him… Biren pulled out his recording crystal in a betrayal most foul.
+
+… at least he was smiling.
+
+========================================
+
+The change was inexorable. It was unrelenting. It was the true way of the world—for everyone lived on the earth, instead of in the heavens.
+
+Even the so-called eternal mountain changed. Trees grew on its face. Snow tumbled from its peak. The cold and shifting of continents made its base groan and creak, even as wind and rain slowly ground the bare rock away.Time marched forward, grinding down even the eternal mountains.
+
+================================
+
+“And now Master wants me to make six more of them!” Chen Lin of the Artifact Pavilion whined as she downed another cup of rice wine.
+
+“That’s rough, Sister,” her companion for the night commiserated. The beautiful woman with narrow, almost vulpine eyes smiled at her. Meiren was her name, and she was certainly a beauty. Pale skin, kissable lips—Chen Lin  froze and shoved away the thought. She had Master Yuha! She wasn’t unfaithful! “Could be worse though. You could be a member of the Che family.”
+
+Chen Lin laughed, her cheeks red. “Yeah, I could be like one of those sorry souls! Especially that one fool who tried to get into the Artifact Pavilion! His formation exploded in his face!!”
+
+Meiren laughed along with her at the fool’s misfortune. “Idiot. I even heard him saying that he was sabotaged. Some men just can’t take failure, you know?”
+
+Chen Lin chuckled at the other woman’s words and smirked. “Oh, he might be more right than he thought…” she replied leadingly. Master Yuha had actually seemed a little upset about spiting the man, but Chen Lin had helped her swiftly forget her troubles.
+
+Her companion gasped. “No, really? What did that fool do to offend Master Yuha?”
+
+Chen Lin glanced around, then lowered her voice. Yuha had said that this wasn’t supposed to really get out, but who cared? It was just the Che clan. They were all worthless anyway.
+
+“You didn’t hear this from me, but it's orders from the Elders. The Che Clan is only allowed in the Outer Sect and the lowest ranks of the Fulmination Squadrons.”
+
+Her drinking companion’s wonderful amber eyes widened.
+
+“No!” she gasped.
+
+“Yes. I don’t know what they did, but it must have been an unpardonable sin—and the poor fools don’t even know what they’ve done!”
+
+Meiren shook her head. “Don’t worry about it. I won't tell a soul—hey miss! Get us some of that chicken, and another round!”
+
+Chen Lin smiled. This was fun. She was glad she had run into the cute Outer Sect member…
+
+============================
+
+The World Changed. It always changed. It may have been slow. It may have been subtle.
+
+But it changed. And sometimes… it changed quite quickly. It changed without a care in the world, for the whims of the people who lived there.
+
+And those unprepared for change…It often changed violently.
+
+============================
+
+Meiren waved goodbye to Chen Lin as they re-entered the Sect. Chen Lin went her own way to a secret path that would take her to Master Yuha of the Artifact Pavillion’s mansion, while Meiren turned a corner into an alley.
+
+Satisfied nobody was watching her, Yun Ren wiped his hands over his face.
+
+It was slightly disconcerting about how easy he was finding this Inquisitor stuff. It was the fifth night he had been out, trying to get to the bottom of the reason why Fat Han had been sabotaged.
+
+It had proven… enlightening, to say the least.
+
+Chen Lin. Master Yuha’s ‘secret’ lover.
+
+So far, in his quest to see why Fat Han had been sabotaged, he had received a number of answers—From cursed, to a tale of a scorned lover… and now this. That Fat Han’s family had done something to offend the Elders.
+
+It was the most plausible one he had heard so far.
+
+He sighed. He had a report to write for his ‘teacher.’
+
+=============================
+
+The world spun. No matter how the cultivators would wish it didn’t.
+
+==========================
+
+Deep in the heart of the Shrouded Mountain, an old man sat wearing dark robes and a veil. He was surrounded by his fellow inquisitors as he read out the collected reports.
+
+“Fa Bi De selling off his herbs has been cleared of all suspicion. All samples have come back completely clean—if of high quality. Give the report to Elder Chongyun, and buy some more for our organization. Now, as for the reports from outside the Sect—Elder Shenhe is still on the move and all is proceeding according to her plan, while Elder Zang is still being reluctant… but he is in Yellow Rock Plateau as he said he would be, so all we can do on that front is wait. Now, for the final point for today. Lady Mist, report,” he commanded lightly. “How fares our newest member?”
+
+“He is excellent, Master Inquisitor. He takes to the lessons and practical applications with ease. I am quite impressed with how quickly he moves. He has already largely ascertained the truth of the matter with the Che Clan… but he lacks the pieces fully.”
+
+“Oh? Interesting. I suppose that's one part of his blood showing its true colours,” the Head Inquisitor replied as he took out a piece of crystal with a formation on it.
+
+The sensors had detected fox blood flowing within the boy’s veins. A miniscule amount, and not worth purging. Why, if they killed everybody with a bit of fox blood in them they’d have to cull half of the province, and that was just completely infeasible, as their ancestors had learned.
+
+That, and to their surprise, the boy also had trace amounts of the Zang Clan’s lightning Qi within his veins as well.
+
+“Yes, Master Inquisitor. But he is slightly wary of us…”
+
+The Head Inquisitor chuckled. “Upset he isn’t falling for your wiles?”
+
+Lady Mist shifted, clearly slightly irritated, and there was a soft snort of amusement from the others. “Ah, it's fine. It just shows his good sense. With this… we may be able to tell him exactly why we want him. The results of the last test came in.”
+
+He placed several vials on the desk. Vials that had once been filled with the illusions of the foxes, and demonic Qi of their new enemy.
+
+Both had been purified by the flashes of the boy’s light QI.
+
+“A certain poetic irony, no? The bloodlines of the fox and their hunters mix to make the perfect weapon against them—against both our enemies.” They both looked at the vials, satisfaction in their eyes. “We’ll give him the truth of the Che family matters, and then we’ll try to induct him further. If not… well. You may have to up your game. The bloodline is valuable.”
+
+Lady Mist bowed. “As you wish, Master Inquisitor.”
+
+“Excellent! Things proceed as planned. Continue the screenings. We don’t want to miss any demons or infiltrators…”

@@ -1,0 +1,297 @@
+---
+id: 792aa6ce-4d18-5677-9cbd-efd2578ec31e
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 8 - Parties, Profits, and Plots"
+slug: 0009-book-4-chapter-8-parties-profits-and-plots
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 9
+ownLength: 6102
+unit: words
+publishedAt: 2025-08-18
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2529032/book-4-chapter-8-parties-profits-and-plots"
+royalRoadId: "2529032"
+---
+
+Better than half the night had already passed before Ranthia finally reentered Remera. With the immediate crisis at an end, there were myriads of other tasks that needed to be done. Scouting and securing the region around the base had been important and made a lot of sense. How she ended up getting stuck running messages for a while was a true mystery—certainly it couldn’t have been self-inflicted (okay, fine, volunteering to do something once never meant you only did it once; whatever). But, at length, Remera was deemed to be safe. The shimagu forces that escaped were still running and there was no sign that they were trying to meet up with reinforcements in the vicinity or distract them while another force closed in.
+
+The hour was late, but their not-so-little base was alive with the sounds of celebration. Legionaries and dwarven combatants swapped tales of valor. Food was being simmered, seared, and roasted practically everywhere her eyes wandered. Instruments and vocals were plied with dramatically unreliable degrees of proficiency. Amorous sounds of passion were almost as common as the attempts at music—more than a few were disturbingly similar in volume and tonal range.
+
+Ranthia wasn’t even trying to hide her own smile; the Adventurer in her reveled at the sight of men and women showing their zeal for life after facing death. It was familiar in the best of ways. Then her mood lifted even further at the wildly unsurprising sight of Avyna manning her stall outside of their home—the elf was finally peddling the alcohol that had languished in storage. Eager customers practically clambered over each other to trade escalating piles of contribution credits for a chance to get drunk and share with their comrades that they bled side-by-side with.
+
+Ranthia didn’t want to interrupt—Avyna was making an incredible profit every few heartbeats—so she blew her elf a kiss—and received one in return—before she entered their home. She would have loved to have a bit of companionship, but she was a mature adult that strived to be a better person. For her lover’s benefit, she could wait patiently.
+
+Mostly patiently.
+
+“My love, can you help me for a few minutes?” Avyna poked her head in to call out before she withdrew.
+
+Ranthia had, quite literally, just sat down with her plate of pan-roasted seasoned potatoes and sausage. She groused playfully, but she was quick to return to her feet and stick the food into the stasis enchantment so it would stay good. A quick adjustment of her mistweave tunic and one reequipped blindfold later, she made her way out.
+
+Several nervous-looking legionaries—base defense personnel, not that Ranthia knew their names—stood at attention in their armor. One of them was ordering a crowd of displeased legionaries and dwarves to disperse. Ranthia tensed up as seven hundred and sixty-eight different worries tore through her mind, but no, the situation was stable. The crowd was dispersing peacefully and there was no sign that a riot had broken out or that Avyna—or her wares—had been harmed.
+
+“Can you put away the rest of my wares for me? The commander has requested that I cease the selling of alcohol, but he agreed to meet with me to discuss it.” Avyna explained quickly.
+
+How dare he try—
+
+Ranthia’s brief indignant fury and plans to speak to the man personally died well before they reached her lips. Avyna wasn’t upset, nor was she just taking it in stride—excitement and anticipation danced freely in her eyes. None of it crossed her face, of course. Avyna looked the same as she always did while she peddled her wares, but Ranthia had spent an inordinate amount of time lost in those eyes—she knew how to read Avyna’s true emotions. The merchant’s professional mask was no match for Ranthia’s obsession affection.
+
+Ranthia opened her mouth to assent to Avyna’s plans when a chorus of angry shouts pulled her attention away. Some instigator had the crowd turning ugly and the legionaries that were dispersing them were already raising their weapons defensively.
+
+Of all the godsdamned immature… Ranthia sighed as she stepped forward and began to send images out between the guards and the agitated crowd.
+
+“Stand down, you idiots! Remera is in celebration, and if you intend to waste the revelry by staying in the medical tents while you try to mend without a [Healer]’s touch, say so right now! Or you can see just what happens if you threaten my home and my lover over alcohol!” Ranthia didn’t shout, but she dipped deep into her best Sentinel Grace voice, even as she cracked her knuckles like a tavern brawler itching for an excuse.
+
+The crowd hadn’t quite worked itself into a mob, but it deflated fast. Not everyone present had seen just what she could do, but between her level and her status as a Sentinel, precious few people on the base were willing to tangle with her (Xaoc knew she had enough trouble finding sparring partners). Humans saluted and escaped while dwarves nodded their apologies before they left.
+
+The legionaries on guard duty were obviously relieved—one of them even went so limp his spear slipped through his fingers and clattered onto the dusty baseplate. With the crisis resolved, Ranthia waved the bulk of them off too, but she kept three on-site to watch the remaining alcohol while she made trips back and forth to stow it.
+
+Avyna had, somewhat surprisingly, slipped away at some point during the distraction. The only explanation that Ranthia could come up with was that the elf really didn’t want to risk Ranthia interfering with whatever she had planned for her discussion with the base commander. But even if that was the case, Ranthia was fine with it—she trusted her amazing elf implicitly. She had no doubt that whatever Avyna was up to, it would turn out to be for the best for everyone.
+
+Getting the remaining alcohol stored took a fair bit of time, especially since Ranthia tried to stack it similar to how Avyna had stored it beforehand. After that was done, Ranthia ate her food, before she knelt before her altar to pray to Xaoc until the last of her mana was consumed. Dishes were cleaned and put away, a single trip topped off their tent’s water reservoir, and Ranthia even finished writing a letter to Hunting to tell him about the ridiculousness that was her first true battle at her new post (she could almost preemptively hear the resulting laugh, whenever he finally read the damned scroll).
+
+She was on the cusp of becoming dangerously bored and restless when Avyna finally reentered their home.
+
+“The commander is truly not very capable, is he?” Avyna asked. Her voice was flat, but her eyes made it clear that she was trying to hide quite a large smile.
+
+“This is kind of a dead-end assignment. Running a base doesn’t paint you in glory. Most likely he’s of middling ability and-slash-or he’s just a pawn for one of the generals, capable of following the script his superior provided while being incapable of handling things that deviate from it.” Ranthia replied seriously. She was happy to play along for however long Avyna could keep the game up.
+
+Not that she had to wait long; almost the moment the elf finished processing her words, Avyna’s composure collapsed quickly enough that the laugh escaped her before she could conceal it behind her wrist. Shortly thereafter, the elf practically skipped over to Ranthia and embraced her.
+
+“So, it seems that I shall not be selling alcohol anymore.” Avyna led with the ‘bad’ news, presumably.
+
+“Mmm, want me to speak to him about that?” Ranthia offered. Avyna clearly got something she wanted out of the man, but there was still quite a bit of alcohol left.
+
+“No. He made some valid points on that, on the problems with drunken soldiers. …Besides, the bulk of what I have left are beverages that we can enjoy over time.” Avyna sounded as if she was trying to convince herself with that second part.
+
+“Mm-hm, I still can’t see you taking a loss so readily.” Ranthia teased.
+
+“You see right through me, my love. But I am truly fine with this for two reasons. First, I have already made a profit on the alcohol, even with what is left unsold. Second… allow me to just say I have plans for the stock that we will not be enjoying ourselves.” Avyna answered after she rewarded Ranthia with a kiss.
+
+“So what’s got you in such a good mood?” Ranthia whispered into Avyna’s ear while she nuzzled the elf’s horn affectionately.
+
+“Third, I was candid about just how much unsold alcohol I would be taking a loss over. The man was quite willing to compromise and had finally taken the bait I had set out some time ago. He had a proposal of his own, you see…”
+
+Avyna trailed off, her eyes alight with triumphant mischief. She tried to twirl Ranthia in an enthusiastic little circle, which Ranthia was more than just happy to play along with. Honestly, it was so cute to see Avyna in such a bubbly mood—totally worth the wait even.
+
+“Tell me?” Ranthia put on her best begging face.
+
+Avyna giggled and kissed the tip of Ranthia’s nose.
+
+“For you, my [Sexy] love, I shall. That man negotiated quite poorly; I want you to keep in mind that I was ready to sacrifice some of what I asked for the important things…” In spite of her promise, Avyna went back to building up hype, with a grin that made it obvious that she knew exactly what she was doing.
+
+Ranthia eyed the elf with exaggerated weariness—and promptly goosed her, which solicited a playful yelp from her lover. Following that, Avyna fell prey to a fit of giggles—worse, she couldn’t possibly hide them thanks to just how closely embraced they were—even as Ranthia continued to eye her.
+
+“Oh, very well my love. I am truly done with the build-up.
+
+“First, the fun one. I shall finally have my own shop! One of the tents near ours is currently wasted on unnecessary storage. I will soon have that entire space allotted for my own use. It will take time to adjust that tent into something useful—actually, I may be better off paying someone to bring me an elven tent to replace it with… But I am getting distracted; I will be able to build myself a full-fledged store!” Avyna preened once her giggles were done.
+
+“Congratulations! I know you’ve mentioned before that you prefer to have a full shop when you settle somewhere, instead of the limitations of a market stall.” Ranthia offered cheerful encouragement after a quick celebratory kiss.
+
+“It will be so nice! Variety is the spice of a [Merchant]’s life, so shelves and space are welcome. Also, no more hauling cargo back and forth every day! This will give me more time outside of my business hours to enjoy myself… and you, of course.” Avyna winked.
+
+“But that’s not all?” Ranthia prompted.
+
+“Not even close, my love! Second, well, I must do my best to avoid going mad with power and becoming a mercantile tyrant… because the commander asked me to represent Remera for all dealings with [Merchants] and traders! I will, of course, be paid a salary in points for my role, in addition to the many opportunities that this will open up for me. To summarize my new role: when Remera requires something that needs to be sourced from [Merchants] or wants something from a caravan that visits, the commander will notify me and grant me ‘reasonable’ access to the base’s coffers for negotiations.” Avyna visibly struggled to restrain her laughter while she explained.
+
+“…He really is awful at negotiation, isn’t he?” Ranthia was floored. The man had to realize that Avyna was going to make plenty of money on the back end of the deals—even she knew [Merchants] well enough to realize that—which made the salary silly.
+
+“And yet that is still not everything I walked away with! Third, he actually agreed with me when I commented that the base required more leisure activities and distractions that were… as he put it: less self-destructive for our forces. I have, more-or-less, free rein to resolve this! I had hoped to get permission to use some space in my shop, but with this, I have so many ideas! Even better, I was promised a fund for this.
+
+“I do have multiple things to ask of you to go with this. For starters, you must introduce me to that ‘under’ bakery you found! I can hire Legion… people that are off duty for activities and I fully intend to make that bakery… ah, legitimate, so that I can sell their goods. They worked wonders with poor ingredients and worse facilities; I would see what they can do with proper support.
+
+“…I do have a larger request though, my love.”
+
+Avyna had been so energetic that she was stumbling on her words far more transparently than she usually allowed herself to show, but she suddenly trailed off into awkward hesitance.
+
+Ranthia kissed her reassuringly and smiled at the lithe woman in her arms.
+
+“Anything, love.” She pledged.
+
+“I… do not currently have sufficient currency available for one of my larger plans. Would you be willing to loan me what I require?” Avyna was absurdly shy and visibly uncomfortable with having to ask the favor.
+
+Ranthia laughed—Avyna had been skittish enough that she’d been a bit worried about just what challenging task Avyna was going to assign her, so it was a genuine relief to know there wouldn’t be a body to dispose of. Still, she was aware enough to realize that her beloved was feeling vulnerable—she was pretty sure that Avyna would have never even asked normally. At the risk of flattering herself, Ranthia chose to accept it as proof that the woman was truly starting to trust and rely on her.
+
+“Babe, if I could give you equal access to my accounts, I would. I looked into it before, but even if we were married under Remus law, there’s still no good way to do it. So yes, I’ll sign over whatever you need. And don’t worry about repaying me, honestly!” Ranthia offered as she tried and failed to control the bright smile that overwhelmed her face.
+
+“Mm, my love, I adore the sentiment, but please do not encourage my greed. It does not need any assistance! I will take the points as a loan and repay you as profits come in. And there shall be no argument on this!” Avyna countered.
+
+“Ugh, fine, I guess I can receive more money I don’t know what to do with.” Ranthia faux-grumbled before she grinned. “Anything else from your successful negotiations?”
+
+“Oh, just that I will be able to use the base to exchange your currency to contribution credits and vice versa with no fees or questions asked.” Avyna lilted her response with a sweet grin. Obviously, she believed that this was a very significant achievement.
+
+Not that Ranthia could think of any reason to explain why Avyna was so excited about the ability to accept Reman coins—she had always been openly amused at them using such a ‘worthless’ currency. …She wasn’t going to ask either, she was certain that the answer was either something trivial or something she really didn’t want to know before it became a problem.
+
+“Well, if that’s everything… I was thinking that we could begin our own little celebration…” Ranthia dipped her voice to a husky whisper that she had previously had great luck with.
+
+But when Ranthia relaxed her embrace to let her hands wander, Avyna seized the initiative. The elf—quite deftly—swept Ranthia up into her arms. It was a bit of a role reversal for them, but Ranthia was not complaining about being carried to bed (giggling, perhaps, but never complaining)!
+
+Gods and goddesses, it was so, so wonderful to be with someone in her own level range.
+
+The loan ended up consuming the majority of Ranthia’s current contribution credits, not that she minded. Even at that amount, she would have happily gifted them to the wonderful woman that she was sharing her life with. But Avyna remained insistent that it had to just be a loan—albeit an interest-free one. Honestly, Ranthia was just happy to see the elf flourish in Remera—it absolved some of her lingering guilt over dragging Avyna away from the safety and robust markets of Coalition City.
+
+The tent that Avyna received for her shop was diagonally adjacent to their own, though it was behind their home, which meant that it required a bit of a walk since they had to circumnavigate the section to get to it. Also, it was much larger than Ranthia had expected; its footprint was considerably greater than their home’s—at least before the Spatial hijinks. Yes, it had been a storage tent, which probably suggested that it was large, but she had also listened to Sentinel Bulwark complain about how limited space was in Remera’s plans—not that the base ever really felt cramped to her. Canvas ‘buildings’ aside, Remera wasn’t entirely dissimilar from a modest city; it was a far cry from the cramped quarters and minimalism of the Unbreakable Image.
+
+“I was right, I will have to buy an elven tent. That is just a blocky eyesore!” Avyna announced as they rounded the corner. She was already glaring at the tent.
+
+“Let’s take a look inside anyway.” Ranthia replied.
+
+She was wildly unsurprised that Avyna wasn’t interested in the Legion-issued utility tents after everything they went through when they chose their home. The place had been cleaned out—for the most part, at least. A few empty barrels and crates had been left behind, though Ranthia had no idea whether to attribute laziness or if it was a petty act of defiance from some minor officer that was mad about losing the storage site.
+
+It was spacious and open though, with robust support beams that seemed to be solidly nailed together. Aside from the handful of empty containers, the place was even clean—it was relatively dust free with no spills or damage. Avyna walked through with a serious expression on her face while Ranthia paced around patiently.
+
+It took Ranthia a bit of time to realize what was happening, but once she noticed, she had to struggle to keep her mirth silent.
+
+Avyna at some point had started talking to herself—she was planning the shop’s layout within the current tent. She had fallen in love with the space that she had, and she quite obviously realized it mere moments after Ranthia noticed.
+
+“…If it can take the important inscriptions that I need without the materials failing, I suppose it will suffice.” Avyna primly announced, as if that had been her plan the entire time.
+
+Ranthia—ever so very wise—chose not to point out the adorable redness that was creeping across the tips of Avyna’s ears.
+
+Reinforcements had arrived.
+
+Four cohorts—a word that Ranthia absorbed through the numerous meetings involved, even if it was a needlessly fancy way of saying north of two thousand and forty-eight legionaries—were dispatched to assist Remera with the attack. Specifically, the attack that had been dealt with four days before they ever arrived.
+
+But Legions—even half a Legion—moved slowly. Word had reached them that the danger was past and the shimagu remnants had fled, of course, but they still arrived at Remera. Personnel were shuffled around (the number of legionaries stationed at Remera was meant to be flexible and in flux to prevent the shimagu from predicting the strength of bases or something; Ranthia kind of tuned out the explanations) while their guests camped around the base.
+
+Sentinel Mirage was with them, which meant that Ranthia ended up roped into incredibly pointless morning meetings while he was there. Seriously, of course there was nothing new to discuss, he was there too. They just awkwardly drank bland tea together while they ‘discussed’ trivial events like their own patrols or arguments they broke up. Ranthia got along fine with the man, but the Sentinels had the stupid morning meeting thing overly ingrained into their psyche.
+
+Which really made Ranthia reassess her preference for keeping the exact same timeframe blocked for her own training.
+
+But the reinforcements changed their label to a punitive force and left without fanfare three days later. They planned to strike the shimagu base that Remera’s scouts believed that the remnants of the hostile army had fled to. Not that they had the numbers to properly attack a base, but their officers were confident that they could make the shimagu’s hosts bleed a bit without facing undue risk.
+
+It felt somewhat petty to Ranthia, but she supposed that was a part of warfare too.
+
+“Oh, my love, excellent timing! You simply must try this!”
+
+Ranthia had just returned from one of her scouting patrols when Avyna immediately sprang from her chair and thrust a cup at her. Ranthia blinked in surprised uncertainty, but she still readily accepted the cup and tried a small sip.
+
+“Oh, by Xaoc, that is foul! What even is this?!” Ranthia hissed.
+
+Ranthia had to force herself to swallow the searingly bitter beverage. She might have spat it out, but she didn’t want to ruin their rugs! She busied herself with scraping her tongue against her teeth to try to get the sour taste off her tongue while Avyna tried to compose herself enough to answer—the treacherous minx had started to giggle into her wrist the instant the vile liquid touched Ranthia’s tongue.
+
+“One of those ‘under’ brewers made this. I am unable to make alcohol production legitimate, but I did invest in them. I traded them one of the harder liquors that I still had in stock, one that they could have possibly made with their equipment—if you were unaware that some of the ingredients are absent here—in exchange for half of their profits. I think I should have gone for two-thirds though; this is impressively bad.” Avyna finally explained.
+
+Ranthia finally gave up on her tongue and shifted to a new body to free her mouth from the lingering flavor.
+
+“My love, are you here? You will never guess what I have to tell you!”
+
+Ranthia took her faith seriously—it was between her and Xaoc. She never prayed aloud aside from when she led others in prayer, she never shared Xaoc’s words with anyone else, and she never interrupted her prayers.
+
+But these were extenuating circumstances and Xaoc barely got a quick ‘Sorry!’ from Ranthia before she launched herself through the curtains. She had barely gotten to spend any time whatsoever with Avyna for nearly a week at that point—and the sound of Avyna’s sweet, sorely missed voice was a siren call that managed to override Ranthia’s piety.
+
+Especially since Avyna was home well before sundown!
+
+Avyna let out a single, glorious note of laughter as Ranthia blurred through the curtains at speed and swept the perfect—and entirely too busy with preparing her shop—woman into a passionate embrace.
+
+“Someone missed me, I see.” Avyna, ever mischievous, spoke a heartbeat before Ranthia’s lips could find her own.
+
+Ranthia pouted her best pout at her lover, but the elf pretended to be immune—as if Ranthia could ever miss the playful look in the woman’s eyes—and continued to keep her lips in motion with hastily constructed words.
+
+“You do realize that you were supposedly to guess—my invitation was quite clear!” Avyna’s Creation was especially clumsy, but she was quite determined to outpace Ranthia’s impatience for a kiss.
+
+“You said that I would never guess, and I am not one to engage with the impossible.” Ranthia retorted with what had to be a strong contender for the most shamefully inaccurate lie she had ever uttered.
+
+But it worked exactly as she had hoped—Avyna froze for a single, precious moment from Ranthia poleaxing her thought processes. Ranthia’s lips sealed over the elf’s implausibly soft and sweet lips while her lover was distracted by the blatant outrageousness of those words. Avyna huffed indignantly through her nostrils, but she returned the kiss with almost as much affection and yearning as Ranthia poured into it.
+
+“I ran into Glorine and her love while I delivered more messages to the master of quarters.” Avyna suddenly spoke.
+
+She was about two words in when Ranthia finally realized her lips were bereft of a recipient. She wasn’t even sure what Avyna had done to disengage so seamlessly—which was rather unfair, Ranthia even accelerated her perception every time they kissed to savor each wonderful moment of it!
+
+Her frustrations failed to find purchase on Avyna’s triumphantly smug expression, so she forced herself to return to her ‘normal’ perception once she parsed meaning from the words.
+
+“Who’s Selene?” Ranthia asked, allowing her defeated sulk to color her tone.
+
+“Glorine, my love. But I suppose your unfamiliarity is fair in this, I only received her name when we spoke. She is your message-bearer, the cute one. They will be having dinner with us tonight, so we must prepare!” Avyna slipped out of Ranthia’s arms with graceful ease even as she explained.
+
+“You’ve been too busy to take time off from preparing your shop for us, but you’ll do it to hang out with strangers?” Ranthia was legitimately a bit put out, but she carefully kept it out of her voice. Her words were meant to be playful.
+
+A heartbeat later she paused in belated recognition and put together a quick prayer of apology to one of the two moon goddesses for inadvertently misappropriating her name. She was pretty sure there was no harm done, but the deity accepted some of Ranthia’s mana all the same.
+
+“Oh, my love, I do miss spending time with you; I promise that the shop preparations will be done before either of we quite know it! But this is an opportunity and what is the point of having a home so… well, as lovely as a tent can try to be, at least. But what is important is having a place to host guests!” Avyna’s ears colored slightly as the words tangled on her tongue, but she powered through her embarrassment with a surprising amount of gumption.
+
+Ranthia had never expected Avyna to be the sort of person that loved to host parties, but her beloved’s excitement was unmistakable. It definitely wasn’t her thing—she’d never really been enthusiastic about such parties. More honestly, she considered it to be something better suited to the idle wealthy who had nothing better to do than to try to show off to their peers.
+
+But she loved learning new things about Avyna. Even where they were dissimilar, every new facet she discovered was wonderful. Her heart soared every time she had the realization that she had just come to know Pallos’ perfection just a little bit better.
+
+And besides, she seriously enjoyed cooking alongside Avyna, that novelty promised to never wear off. Ranthia shifted into a clean image and rushed to join her lover in the kitchen to prepare food for four.
+
+The cloth that covered their table was finer than Ranthia had seen some of Remus’ wealthiest wear. It had sparked an argument—both minor and brief—when Ranthia protested it (“They’re Reman, it’ll make them uncomfortable!”), but Avyna refused to remove it. Culturally, the table covering was important to Avyna, so it stayed. At least Ranthia convinced her to sync the tent’s ambient lighting to the real world, so their guests could have a better sense of the time. The ‘hourglass’ that Avyna bought was beautiful with its glittering fine gems that gradually shifted through the System’s color spectrum over time, but it wasn’t exactly obvious just how to discern the time from it—it required both an assessment of what percentage of the gems were in the bottom of the instrument and what its current color indicated.
+
+A breadth of freshly made food was ready, but Avyna and Ranthia were still in the kitchen—fully dressed and ready, cosmetics in place—as they tried to prepare the final dish. Avyna was mixing the batter while Ranthia reduced a few apples to a fine mush.
+
+And then the musical chime rang through their home.
+
+“Oh, I lost track of time! That must be them! My love, can you finish preparing the dessert?” Avyna hurriedly asked.
+
+“No problem! I’ll be out once they’re in.” Ranthia replied as she traded soothing smiles with Avyna—silent promises that everything would go great—then refocused on getting the currently liquid components of the cakes prepared.
+
+They were dressed in matching white togas with green trim and dyed sashes, Ranthia’s toga left her left shoulder bare while Avyna’s bared her right. Their guests were Reman, so they dressed by Reman sensibilities.
+
+Which was great, because Avyna looked dangerously lovely in the Reman toga! Something about the melding of cultures with Avyna’s tasteful elven jewelry—and the cosmetics blended from both elven and Reman styles—created a harmoniously meshed beauty that was very… appealing. But Ranthia could behave through the dinner party.
+
+In the privacy of their newly curtained-off cooking area, she busied herself with adding a liiiitle more seasoning (the siren call of the cinnamon demanded to be heeded) and stirred the batter until it wasn’t lumpy. At last, everything was ready to be poured into the little pans. Honestly, it was amusing that Avyna had been concerned about leaving her to such a simple task—Ranthia might not be a [Baker], but it wasn’t that different from her favored styles of cooking. Soon enough, she had the little cakes in the enchanted hot box that served as their oven, which meant she could finally join Avyna and greet their guests!
+
+The messenger and her girlfriend were dressed in woven bamboo tunics with colorfully dyed trim. As planned, Avyna tapped some of their (entirely too robust) alcohol supply and the four chatted over drinks until the first stomach growled—the messenger’s. Ranthia claimed the audible sound came from her own stomach before the girl could get too embarrassed and asked Avyna to help her bring some food out.
+
+The dinner might have been meant for courses, but their table could hold the lot. They had cheeses and sausages for light fare, a honey-treated haunch of ham for the main course, and a variety of sides, including fresh salads made with produce sourced from the Remera growers. Avyna kept careful track of time and paced their delivery of the victuals so that the cakes would be ready to be brought out last.
+
+Ranthia was in bright spirits as she sauntered over to the hot box, completely missing that Avyna had gone rigid and was staring at something on the counter.
+
+“…My love?” Avyna prompted in a quiet voice, just loud enough to catch Ranthia’s ear.
+
+“Yes babe?” Ranthia replied as she pulled on the thick gloves they used for hot containers.
+
+“…Is that the butter that was supposed to coat the pans?” Avyna’s flat, unimpressed tone brought Ranthia up short.
+
+Oops.
+
+Dessert ended up becoming cake crumble served with honey.
+
+Ranthia’s minor mistake aside, the dinner party went well. Their guests seemed to enjoy themselves and had high praise for the food that the duo had prepared. Not that the four of them were able to polish it off—Ranthia and Avyna had, quite intentionally, prepared far too much.
+
+When the hour became late and the other couple began to make polite noises toward putting an end to the evening, Avyna smoothly convinced them to wait while she prepared a basket so they could take some of the leftovers. “This way everyone will have tasty food to enjoy for another day or three!”
+
+That was planned, but Ranthia was a bit surprised when Avyna subtly indicated for her to follow while she ‘looked’ for the basket.
+
+On the other side of the temporary curtain that divided their cooking area from the dining area, Avyna picked up the basket—the cheap one that Ranthia had gotten with eggs back in Coalition City—before she silently beckoned Ranthia closer so they could hold a whispered conversation.
+
+“I want to invite them to shelter here if the base is ever in danger.” Avyna hurriedly explained.
+
+“…Are you sure? We barely know them. And I might not be here…” Ranthia couldn’t help but feel unenthusiastic about the idea.
+
+A single meal shared didn’t make them close friends. They seemed to be decent enough women, but some piece of Ranthia still rebelled against the idea of giving ‘outsiders’ full access to their home. It was ridiculous and selfish—Ranthia knew she’d come around eventually—but she wanted more time.
+
+“My love, I am an excellent judge of character as you well know. They are both lovely people. I would like to have them as friends for as long as I am able.” A sort of preemptive sadness crept into Avyna’s final words.
+
+It was enough to melt—and slightly break—Ranthia’s heart. Avyna knew better than Ranthia what it meant to befriend mortals. The elf had, in the space of that single evening, already come to terms with the fact that she would watch their friends grow old, even in the eighty years they had pledged.
+
+She just wanted to do what she could to minimize the risk of their new friends being taken away from them prematurely. They couldn’t deny White Dove her due, but they could do everything in their power to stymie Black Crow.
+
+“Alright, it’s your call love, I trust you.” Ranthia stole a moment to squeeze Avyna’s arm reassuringly.
+
+It was meant to convey that she understood—even if she couldn’t truly understand, not just yet. Avyna favored her with a warm smile, after which they shared a quick kiss. But they didn’t linger, they needed to return to their weary guests.
+
+In the end, the messenger and her girlfriend left with a basket full of delicious food and direct access to Ranthia and Avyna’s home. It hadn’t taken too long, but their responses convinced Ranthia that they each accepted simply due to a desire for greater safety for the other. It was an assumption, yes—she wasn’t nearly as adept as Avyna at reading people and what motivated them—but it was enough to raise Ranthia’s opinion of both women by quite a bit.
+
+Not that it had helped her retain the name of either woman.
+
+“Ah, it was so good to host again! I went far too many years without it.” Avyna cooed from where she was nestled into Ranthia’s lap.
+
+The party had been fun, but Ranthia was relishing an opportunity to spoil the woman she loved a bit. Ranthia made her offer soon after they were alone and was happily rhythmically working her oily fingers over Avyna’s horns. The tender, quiet moment helped relax the subtle resentment of neglect that had started to creep into the core of Ranthia’s being in recent days.
+
+“I’m glad you enjoyed it; I think it went well.” Ranthia had to briefly pause her light humming to answer, but it was easy enough to pick up where she left off. It wasn’t like she was humming any song she knew, she just let the tune carry itself wherever her heart desired—she was something of an expert at keeping the cadence in the range that was pleasant for Avyna.
+
+“You are still forbidden from baking ever again!” Avyna (playfully?) chided.
+
+“It was an honest mistake.” Ranthia answered the accusation in the spirit she assumed it was made in.
+
+“It was not! You brought disaster to my dinner plans.” Uh-oh, Ranthia had misread—Avyna seemed to be genuinely grumpy.
+
+Ranthia nodded, but she silently continued the horn massage until she felt Avyna’s body relax again.
+
+“I am sorry. You know I didn’t mean to mess with your plans. I think we recovered well though, and the food we made was still delicious.” Ranthia finally offered.
+
+“Mmm, yes. Everything we do together is better than I could have ever done myself… I am certain… that I have never… matched quite so well with anyone ever before.” Avyna’s reply came a bit late, her tone blending mollification with deep notes of drowsiness.
+
+Ranthia, on the other hand, lost all traces of her own fatigue. Even as her heart soared within her breast—as if she contained a vast, endless sky within herself—her emotions blazed straight through her mind and overwhelmed her in an instant.
+
+As Avyna nodded off, carried by the blissful vibrations of Ranthia’s fingers on her horns, Ranthia struggled not to let her tears drop onto the elf’s peaceful face.

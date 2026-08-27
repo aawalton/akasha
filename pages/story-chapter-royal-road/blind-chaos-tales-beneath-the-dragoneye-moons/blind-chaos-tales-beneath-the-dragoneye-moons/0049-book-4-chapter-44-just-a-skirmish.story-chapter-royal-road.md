@@ -1,0 +1,233 @@
+---
+id: 53974494-55b9-5370-940f-0fb0aaeb0363
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 44 - Just a Skirmish"
+slug: 0049-book-4-chapter-44-just-a-skirmish
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 49
+ownLength: 5422
+unit: words
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2950196/book-4-chapter-44-just-a-skirmish"
+royalRoadId: "2950196"
+---
+
+In Sentinel Grey’s room, Ranthia read the reports that were provided and prepared herself. The current state of the war, the might of the Coalition, and the Legion’s strategy for finishing the war—all condensed into a set of eight scrolls. Allegedly, the Coalition had fifteen counters for the shimagu twins: ten elves (inbound from Coalition City), three Sentinels (Pierce, herself, and Solace with her support team), and two dwarven [Battlemasters] that were already present. There was a longer list of personnel that could fight a twin in a group or with a favorable matchup—and, oddly, Night only appeared on that list—but the final strategy wanted those assets directed at breaking the shimagu army. Those that could fight the twins directly were to form highly mobile groups of three, spearhead the offensive, then break away to intercept and eliminate the twins as they appeared. The strategy even called for support teams that would follow each trio to provide beneficial Skills, healing, and alchemical supplies.
+
+Honestly, it was a solid plan. It would allow them to use their overwhelming advantages to their fullest and it capitalized on the absurd mobility that classers like her possessed. Ranthia hadn’t expected to like the plan, but it was genuinely well-crafted. Even if a twin (somehow) bypassed each of the leads, they had defensive assets that could stonewall them long enough for one of the trio units to notice the signal and respond. There were even plans in place for the secondary teams to step in if unexpected twins emerged.
+
+Also, Ranthia found herself distracted by how… strange a feeling it was to read about the numbers of people that were involved. Spearpoint had more combat-ready personnel than the populations of almost every city that Ranthia had ever seen. War had forced her to escalate her concepts of battle to encompass hundreds, then thousands of active combatants. But this was a bridge too far; she couldn’t even imagine it.
+
+And the more she tried, the more pointless it felt. They uprooted so many lives, just to try to end a roughly similar number of lives. All because the shimagu insisted on viewing their fellow intelligent beings as hosts to use and discard. And Ranthia couldn’t believe for a moment that the same view truly applied to all shimagu; undoubtedly, it was just a handful of horrible people that held power over their culture and their information and fed them lies, even as they fed the bulk of their population to their war.
+
+But the war would soon be done—and those that had caused it would, at last, face the consequences for their actions. Xaoc willing, that would be all that it took. Not that Ranthia expected peace to come easy, but they only needed one brave shimagu to rise up and take the first step. The rest could follow.
+
+But first, the Coalition needed to have a meeting, because what was war without meetings?
+
+The great hall. The name evoked a set of expectations of both scale and lavishness, and—as usual—reality fell short of her expectations. All said and done, Ranthia was mostly certain that the so-called great hall was a bit smaller than the nameless room in Ranger Headquarters. The closest thing to décor was a poorly carved Remus eagle over the door, and a few banners and standards from those present.
+
+But where the room was spartan stone furnished using hastily conjured wood, the people that filled it brought enough ornamentation and color to make up for what the room itself lacked. Legion Generals, Legates, and other important officials wore elaborate decorative armor of polished brass, resplendent with golden phalerae, necklets, and armbands, with precious coronas decorating their hair. With their pristine capes of crimson, they looked ready to parade about a city to enflame the hearts of men and women.
+
+Instead, they marched to their seats within the room.
+
+The Sentinels—aside from the [Healer]—chose to eschew their capes, at Night’s request. They wore their combat-ready armor and carried their preferred weaponry into the meeting. It was a statement—one that even Ranthia could discern—that they were there to see the war done. Her peers that had support teams (except Beast, as hilarious as it would have been to see the crowds react to his literally monstrous team’s presence) had them line up behind them, though they weren’t allowed to carry their weapons into the room.
+
+The dwarves kept themselves in distinct groups, depending on which city-state they hailed from. Their armor was beautiful, but it was meant for war—there wasn’t a single undamaged piece on display in the room. Their [Battlemasters] were armed, but no other dwarf carried a weapon—which was somewhat surprising, Ranthia had watched dwarves carry their weapons to squat over a latrine. With enough dwarves gathered, it was clear that each city-state seemed to favor a slightly different alloy of metals for their armor, giving each a subtle similarity that extended beyond design aesthetics.
+
+No two centaurs present were quite dressed or equipped the same way. One woman was even nude, aside from the helmet she wore. …Granted, centaurs probably had a different view on nudity than she did due to the somewhat unique structure of their bodies. Either way, some were ready for war, others looked more casual, but none of them were adorned with pointless ornamentation.
+
+Unlike the gnolls. Many amongst their representatives seemed to be trying to outdo Remus’ Legions. There were some more practically geared individuals present, but many of them were adorned with elaborate dyes and sparkling jewelry with prominent gemstones. …Though Ranthia didn’t miss that several of the gemstones glowed with an unnatural light—Skills that had been imbued from a variety of elements.
+
+The minotaurs were represented by only eight individuals. Massive beings of corded muscle, each clad in a matching off-white robe. Their only ornamentation came from their horns. Some were dyed, but most had elaborate metalwork mounted on them in an effort to bridge beauty and lethal utility.
+
+There were other representatives as well. A dullahan clad in what seemed to be mithril sat, flanked by eight blatantly obvious bodyguards. Four nagas with freshly oiled flesh and scales were openly people-watching while they waited for things to begin. And a group, roughly two dozen in number, of unfamiliar beings—possibly dragonlings, given the descriptions Avyna had supplied during her lessons—occupied a distant corner of the room, openly gawking at anyone foolish enough to meet their gaze.
+
+Elves took up the majority of the space in the room though, not by how many there were, but by how much space they chose to occupy. Each was beautiful or handsome in his or her own way: some were dressed in gleaming armor—metals unlike any Ranthia had ever seen—that bore the obvious glow of enchantments, some dressed in fine clothing that would suit some grand social event, and others clad themselves in well-made yet blatantly casual clothing. Many elves laughed and joked amongst themselves, though others projected boredom or people-watched with indifference.
+
+And then, with one minute left until the meeting was supposed to begin, the world turned white.
+
+“Do not be alarmed.” An unfamiliar voice audaciously requested.
+
+“Solace?” Night’s voice sounded unnaturally faint, and even with the man seated just a few seats away from her, it felt as if she couldn’t figure out where his voice came from.
+
+Level difference aside, he reacted before Ranthia could even parse out what was going on. The room had been filled with some sort of Mist. None of Ranthia’s Skills seemed to be alarmed and even with how thick the Mist was, she could breathe just as well as she could before it suddenly arrived. It was warm, but that seemed to be the extent of its interaction with her.
+
+“Not me. Whoever did it hijacked mine too though.” The [Healer]’s voice barely even reached Ranthia’s ears.
+
+[Vision of the Void] struggled with the fog. If the Skill wasn’t already capped, Ranthia suspected she would have gotten a few levels as she pitted the Skill against something that should have been easy to see through. There was undoubtedly a Mist classer involved, but—
+
+The absolute Mist thinned, returning sight, but their world was still hazy with what remained. Several classers throughout the room were on their feet. The dwarven [Battlemasters] had their weapons in hand. Amongst the Sentinels, Beast and Gravity looked ready to throw down, but Night was seemingly calm in his chair—if she ignored the fact that his hands were resting on the handles of his knives.
+
+Ranthia wasn’t quite on her feet, but she was tensed up—ready to launch herself at any problem that necessitated a lethal response.
+
+And walking around as if none of it mattered was a being wreathed in Mist.
+
+“My apologies for startling you all. I have come to perform a security check before I allow the true delegation to arrive.” The voice came again as the being made a soothing gesture.
+
+Ranthia had missed the effect the first time, but the strange voice wasn’t speaking Creation—or, at least, they weren’t only speaking Creation. The words seemed to come in a multitude of languages simultaneously, though it was effortless to pick out what she understood. Even then, she had only noticed because she realized the enigmatic being had spoken using both Creation and High Elvish. That had to be some sort of System-inspired nonsense, but for once, Ranthia hadn’t a clue about how it could have been possible. It wasn’t like a Sound classer could read their minds and direct the preferred languages to each individual—that was outright impossible.
+
+Ranthia tried to direct [Divine-Touched Identify] at the being, but the Mist seemed to disrupt her Skill. While the stranger meandered around the room, Ranthia pitted [Vision of the Void] against the Mist. She had to know what they were dealing with, self-professed benevolence aside.
+
+About the same time the being stomped the floor—eliciting a displeased grunt from Sentinel Grey—Ranthia finally broke through.
+
+[Mage – Spatial] level 2873, [Mage – Celestial] level 2696, [Mage – Gravity] level 2618.
+
+By every last god and goddess!
+
+“Adequate.” The being announced, before they reached forward and leisurely moved their hands as though they were parting drawn curtains.
+
+And effortlessly ripped through the fabric of reality.
+
+Through the newly minted portal, ten elves entered the room, before the mysterious Mist-clad entity passed through the portal, sealing it shut as they went. The moment they departed, the Mist vanished.
+
+…Which was all the more confusing, because that horribly powerful being hadn’t actually possessed a Mist-aspected class!
+
+It was only then that Ranthia finally realized that, of all the myriad reactions in the room, there was one group that remained conspicuously silent. A few of the elves that had already been present showed signs of distress, but they had—to a man—fallen silent as soon as the Mist appeared. Even with the entity’s departure, they seemed collectively cowed.
+
+Unlike the newly arrived elves.
+
+“Sorry about the Warden’s theatrics, but some of us are actually important.” An elven woman dressed in a gleaming breastplate—that had to be one of the magic metals Ranthia hadn’t seen before—announced, not bothering to hide her amused smirk.
+
+With that abominable explanation hanging in the air, the new arrivals—the so-called elven elites—took their seats. Ironically, not a single elf among them even came close to the level of their security detail. Sure, the lowest among them sat at the level one thousand twenty-four class up tier, and they ranged up from there to ‘just’ more than twice Ranthia’s own level. But none of them had even reached level two thousand forty-eight, which made it harder to feel impressed with them after what Ranthia had just witnessed.
+
+Which reminded her—after she composed what she needed to convey, Ranthia caught Night’s eye and flashed him a series of subtle Ranger hand signs to inform him about what she’d seen from the mysterious ‘Warden’. Night simply offered her a barely perceptible nod in answer, before he looked toward the elves.
+
+And, at last, the meeting got underway. It began in fits and starts as people recovered and remembered what they needed to do—and, unsurprisingly, it began with an incredibly tone-deaf speech from one of the Legion generals that tried to frame the pending end to the war as a Legion success—but they got underway.
+
+And the finely crafted plan was promptly tossed out the proverbial window.
+
+The meeting stretched for six days while people argued. And Ranthia sorely wished those words meant that they did something sensible, like enduring six days of scheduled meetings. But no, instead, for more than 146 hours, there was at least a small group of people in the great hall carrying on their arguments. The size of the argument swelled and receded as people came and went, but it was never silent in the great hall.
+
+Night requested at least two Sentinels remain present at the ‘meeting’ at all times then left Sentinels Grey and Sage to figure out the shifts—while he and Sentinel Silence vanished for the entire duration of the argument. There were serious perks to the power and authority he wielded.
+
+But at least Ranthia was never stuck on a duty shift alongside Sentinel Solace. Beast surprisingly behaved himself without saying a word while she was stuck with him. But Ranthia was less convinced that the [Healer] with the intense stare would have just sat quietly and witnessed the spectacle of interspecies ‘cooperation’, not with Ranthia present.
+
+At least Night strictly forbade them from participating in the… well, he used the word “debate,” but Ranthia wasn’t that polite. It was probably one of the stupidest, pettiest arguments that she had ever seen.
+
+The crux of the inanity was that the elven ‘elites’—a group of ten elves that seemed to, collectively, wield less than half the maturity and common sense that Avyna possessed—were offended that the Legions had dared to craft a plan without inviting them to provide one. Not that they were able to proffer a single unified strategy themselves—they were arguing just as viciously with one another as they were with the rest of the Coalition.
+
+Ranthia was all too used to being in a room (or tent) full of hotheads that considered their middling intellect and vague notions to be a gift worthy of the gods themselves, yet somehow the elves managed to raise the bar on arrogance. Each had his or her own idea of the ideal strategy, which ranged from absolute gems like “the rest of you may sit back and watch my back” or “we should remain on standby until the rest of you have failed” to something almost actionable, like “we should draw the twins to our position and crush them in a single engagement” (seriously, it wasn’t a bad idea, aside from the tiny detail that they had no way to actually draw the five remaining twins to a location of their choosing).
+
+But as time passed, something strange happened. Ranthia had no idea how, but the elves seemed to—one at a time—reinvent the original plan (more or less, and often far more crudely) while remaining convinced that it was their own idea. Ranthia wasn’t sure who was responsible for convincing them or how it was done—and she was pretty certain that the elves figured out that they were being manipulated at some point yet remained too obstinate to admit it or back down—but, at last, the six days of arguments came to an end.
+
+The plan didn’t emerge unscathed, of course. Instead of two elves to one non-elf per group, things ended up far less balanced. Several people from a variety of species that (allegedly) weren’t quite able to equal a twin got tacked onto groups too, which severely weakened their safety measures against unexpected heavy hitters from the shimagu. As far as compromises went, the end result was worse than the original, the changes really didn’t benefit anyone, and entirely too many people seemed inordinately smug about the entire ordeal. But at least from there, everything else went smoothly.
+
+Within moments of meeting her assigned ‘team’, Ranthia rescinded her thoughts about things going smoothly.
+
+“<You can’t expect me to work with her!>” Problem #1 was probably the shortest elf Ranthia had ever seen, with tall, spiraling horns that almost made up for it. She was dressed in armor colored like a brilliant sunset and carried a polearm that was tipped with an oversized ax-head as though it weighed nothing. [Warrior – Gale], [Warrior – Mountain], and [Warrior – Mantle] with levels ranging from 1229 to 1050.
+
+And no, she wasn’t talking about Ranthia—that would have been less idiotic.
+
+“I agree, this crude barbarian is unsuited to teamwork. You should place her with the dwarves.” Problem #2 was giving Problem #1 significant side-eye while she spoke. She was dressed in an ornate, silvery getup—and it was so over-the-top elaborate that Ranthia couldn’t even begin to guess at how the woman put it on. There were finicky straps, buckles, and connectors practically everywhere she looked, even before the accessories came into play. [Mage – Gravity], [Mage – Mantle], and [Mage – Dark] with levels ranging from 1201 to 1137.
+
+The two elves had started to spit fury from the moment they were assigned to the same team, and Ranthia doubted either woman was aware of the rest of the group. They were too busy trading barbs and trying to argue for a change.
+
+“It’s been, what, over a thousand years since the two of you spent a few centuries together? Get over it already and just work together for a few minutes. It’s not like this fight will take long; one little skirmish and we’re done.” The elf that the two ex-lovers blamed for being placed on the same team waved them off before he quickly moved away, loudly stating that he needed to prep his own team.
+
+The only thing that the duo seemed to agree about was that Ranthia and every other member of their team were nothing more than deadweight. Which should have left Ranthia in charge of the other lesser combatants that were assigned to their team, but every other individual on the team was an elf. …Which meant an elven woman with red-orange hair garnered the attention that Ranthia failed to capture and was trying to coordinate the rest, as they followed the still-arguing exes from the great hall.
+
+At least it shouldn’t be long until we deploy. Ranthia consoled herself with a bit of optimism while she followed.
+
+“Hey! You should have told us that you’re immortal too! I mean, what are the odds, both beautiful women I meet from your country are immortal?”
+
+The man—thankfully—remained a respectful distance away, but Ranthia found herself struggling to place the male elf that was offering a (charming?) smile her way.
+
+“As if it’s a surprise that their warlike society applies more pressure to seize. It worked for Kiyaya, after all.” Another elf cut in, a mug of alcohol in his hand.
+
+Ranthia knew she had met both men, but where? It was probably Coalition City, since Ranthia hadn’t interacted heavily with the elves in any of the caravans that visited Remera. She needed to place them to even begin to respond to the non-greeting they’d given her, but her memory seemed to refuse to cooperate. The silence stretched from merely ‘rude’ to ‘awkward’ while Ranthia spun her wheels, increasingly frustrated with herself.
+
+Then they left the central fortification, and a comically oversized wolf—bearing a winged serpent on its back—bounded over.
+
+Ranthia might have struggled to place where she recognized the men from, but the animals provided all the context she needed. Her base assumption had been wrong; she hadn’t met them in Coalition City—they were the trio of elves that she met in Remus! The ones that were trying to find Sentinel Dawn!
+
+“So… does that mean the wolf found her immortality after all?” Ranthia finally spoke into the silence.
+
+“Yup, seized all by herself! Awarthril was so happy that I managed to get her to volunteer to drink an entire barrel of one of my most ambitious experiments. …Tragically, it turned out to be legitimately delicious.” The elf with the mug offered a forlorn shrug, though he didn’t lose his grin.
+
+Egg? Ranthia somehow doubted his name was Egg, but that was what her memory was trying to supply.
+
+The wolf—large enough that she stood shoulder-to-shoulder with Ranthia—seemed to be over her grudge. She barely even spared a glance Ranthia’s way, before she fell in after the duo.
+
+…Which meant the copper-haired elf that was leading the group was probably the wolf’s bond.
+
+“Wait, weren’t one of you planning to leave?” Ranthia asked, once she remembered that tidbit.
+
+“Eh, after we found out that we couldn’t count on Elaine’s help, Awarthril convinced me to stay. We’ve been… doing what we can to seek opportunities to gain levels, even with other elves trying to tell us what to do.” Egg(?) explained.
+
+“You mean what not to do.” The flirt interjected.
+
+Ranthia could have sworn the winged snake signaled its agreement with that sentiment.
+
+“Once this skirmish is done, you should join us! I’ll tap one of my best barrels and we can swap tales. And if you get overwhelmed, you can always fall back behind us. I don’t know who the third elite for our group is, but that duo can’t be counted on. I heard Vellarinne actually left an elf behind in shimagu territory once!” The mug-carrier subvocalized—quiet enough that even Ranthia strained to hear him—before he raised his mug her way and sped up to catch up with his group’s leader, followed by the flirt and the companion bonds.
+
+…Right, well if everyone seemed content to underestimate Ranthia, all she needed to do was to step up when the time came. She had faith in her Skills—and her skills—and was confident that she could prove her worth.
+
+All she had to do was wait for the battle to begin.
+
+If Ranthia was more honest with herself, she wouldn’t be surprised that she wasn’t being treated as an elite combatant by anyone on her team. Even the support team each had levels that slightly outclassed her own, but she was a Sentinel with solid class qualities—even before Xaoc’s divine influence over her third class. Unfortunately, she was the only human in a flock of elves.
+
+But it wasn’t like anyone was focused on her. Instead, they waited out the remainder of the day as they watched the ongoing battle through clever gaps in the wall. The final version of the plan called for them to deploy once it was dark—to press every possible advantage over the parasites that used unwilling hosts. It wasn’t a moonless night, thank Xaoc, but the first quarter moons wouldn’t offer much light.
+
+Even the elves seemed to be tense after hours spent in final preparations while they watched men and women die in senseless conflict. The mass melee wouldn’t even matter—the whole of the Coalition was poised to strike, and the lives that were spent in those final hours gained them nothing more than a veneer of normalcy that (allegedly) kept the shimagu complacent. Ranthia was somewhat relieved that the elves seemed to hate it too, but their shared loathing wasn’t enough to change the reality of the situation.
+
+Once the sun began to set, they—and the other groups—entered the steel-plated tunnels that extended beneath Spearpoint and followed them to trenches dug behind the combat lines. Each group stopped at its appointed sector, and… waited, in horrific proximity to the endless tide of blood.
+
+“Go.”
+
+The word travelled throughout the trench, carried and directed by someone’s Skill. It was even subdued, as though there was a fear of the shimagu overhearing.
+
+Which was absurd, because the trench promptly became a roar of activity—an impossible to ignore spectacle that was illuminated by the flashiest Skills Ranthia had ever seen. Dazzling arrays of color sought to convert the night to a vibrant mockery of daylight as each group surged out of hiding and sought their way through—or bypassed—those that had fought for their lives against the shimagu hordes.
+
+Problem #1 was the first to exit the trench—she moved faster than Ranthia could follow. Before Ranthia even escaped the trench, the elf was already amidst the shimagu forces. Blood and viscera bloomed around her like a flower, as the woman rushed ahead, outpacing everyone.
+
+Problem #2 rose into the air—completely and fearlessly exposed as a target—before a wide swath of shimagu-infested ogres and humans were lifted into the air and brought together. Once they were in close proximity, Dark-encased metal spikes erupted through the press of bodies, skewering and shredding the lot. By the time Ranthia had quaffed her combat potions and reached the area where the shimagu line had been, the woman let the ruined hosts drop and began to collect her next group.
+
+The woman with the oversized wolf kept pace alongside Ranthia and most of the other elves, though Egg (still presumably not his name) stayed behind, along with several other extreme-range capable support personnel to deliver death from afar. As expected, the shimagu army didn’t just buckle under the pressure from so many elites—it collapsed. On every front, the parasites did their best to fight, but their best just wasn’t at the level of those that carved through them.
+
+Ranthia had silenced her notifications, outside of new Skills being offered and personal kills at level 512 or higher. Because if she hadn’t, the wall of army kill notifications would have probably left her insensate. Several dozen shimagu and their hosts died every second, with others left broken for the Coalition army to finish off. [Warriors] carved death and destruction. [Mages] exchanged their mana for absolute devastation. [Rangers] delivered lives to Black Crow with almost every move they made. There were even teams of dwarves moving platforms that contained deadly siege weapons, like the instruments of annihilation that protected Remera, using their strength to keep the bulky equipment advancing at speed.
+
+Ranthia had expected the initial momentum to fade as they carved through the shimagu ranks, but contrary to her expectations, almost no one slowed down. In spite of everything, Ranthia found herself struggling to keep up. Each group had its own pace, but no matter where Ranthia looked, she saw little more than displays of exceedingly competent violence or the gory remnants of what had once been an army. The elves had called the final battle with the shimagu nothing more than a skirmish and—horrifically enough—it was looking like they would be correct.
+
+And yet, even minutes into their surprise onslaught, there was no sign of a twin on any front. The warier members of the teams were calling out that something was amiss, but there was enough raw momentum and enough bloodlust driving their progress that their warnings failed to slow the aggressive push.
+
+The shimagu were up to something. The elves were outpacing Ranthia’s best efforts. The scale of death should have been terrifying. There were a lot of reasons that Ranthia should have struggled with her inner turmoil—that she should have been in distress. But no matter how she should have felt… her heart sang. She wasn’t a mindless killer, but it was good to be back into the thick of battle. Without Avyna, the peaceful days had felt stifling. Each and every day had sorely tested her patience. It wasn’t a lust for blood though; she just wasn’t meant to quietly sit idle. No matter what she became, she was an Adventurer—she needed to venture out.
+
+She hated the idea of others dying, just so she could pretend to live a peaceful life.
+
+Ranthia couldn’t keep the smile off her face as her dance carried her to the occasional shimagu that made it past Problem #1. After all, each parasite she culled brought them closer to the end of the war. The shimagu had to have a breaking point. They just needed to find it!
+
+The groups spread out as they tore deeper into the shimagu army. It wasn’t part of the plan, but the fastest among them were outpacing the rest, and the groups as a whole were moving at dramatically different speeds, exacerbating the issue. But that was fine, it gave Ranthia more opportunities to engage with the enemy.
+
+The copper-haired [Warrior] and her wolf vanished and appeared in misleading places as they carved their own path. The flirt rose atop a small platform of Lava as he rained molten death on the shimagu just outside of their group’s reach. Other elves conjured moving barriers to intercept ranged Skills, conjured material, and arrows while they loosed artillery spells ahead. A Decay classer pranced forward, as though he was at ease, merely touching any shimagu soldier he passed—leaving them to succumb to the deadly curse he bestowed upon them.
+
+They were almost halfway through the shimagu army before the first twin made her appearance. An ogress stepped forward from one of the densely packed shimagu bases. The intel stated that she was a powerful ranged threat, favoring single lethal shots at slow intervals. But the intel was clearly incomplete.
+
+Because with every step the ogress took, she grew in size. By the time she stopped, she towered over even the fortifications at her back. And the bow she lifted was grander than any artillery Ranthia had ever seen. The moment she nocked an arrow—larger than most trees—the woman’s bow and arms blurred as a Mirage replicated them, making it impossible to tell where she was aiming.
+
+Ranthia’s perception was at its limits, as she pitted [Vision of the Void] against the Mirage. The ogress moved casually, but it was only a casual speed by their standards—Ranthia had mere moments to figure out where she was aiming.
+
+Even Spearpoint base probably couldn’t withstand such an impact unscathed.
+
+But the ogress wasn’t aiming at Spearpoint. The true arrow was pointing almost directly at her!
+
+“Incoming!” Ranthia screamed her warning, a moment too late, even as she threw herself to the side.
+
+The ogress released her arrow, and the air itself split and deformed.
+
+Problem #2 was the intended target. The woman made a desperate grabbing motion toward the arrow and somehow wrenched herself above its path in an instant. But that was all Ranthia had time to witness, before the shockwave slammed her into the ground and sent her bouncing. There was no time to form another image, Ranthia just did her best to roll with the impacts and protect herself.
+
+She wasn’t the first back on her feet, but she recovered faster than most. She was battered and bloodied, but nothing was broken.
+
+Not everyone was so lucky. The arrow had enough force behind it that there was a groove left in the rocky terrain—even though it hadn’t even touched the ground. Her group was left scattered and vulnerable, which meant she needed to get moving. There was a rock jammed into her armor, and she tried to pluck it out while she checked on her group. They didn’t have a [Healer] attached, so she needed to find which (if any) elves needed her potions to keep—
+
+“Serondes!” An outraged shriek drew Ranthia’s attention, just in time to watch the last dregs of the lava platform splatter to the ground.
+
+…The blood that covered her armor wasn’t her own. And the fragment in her hand wasn’t rock, it was a piece of horn—one that perfectly matched the flirt’s.
+
+In an instant, an elf—one with a higher level than she possessed—hadn’t just been killed. He’d been torn to shreds. His experience, stats, and classes hadn’t even mattered.
+
+Even as outraged reprisals reached the ogress, including a spiky-haired elf immersed in a glowing red aura that was flying in with his fist cocked back as though he was planning to punch her, the other shimagu twins emerged from the shimagu bases and made their presence known.
+
+Ranthia had gotten so caught up in the elven momentum that she’d allowed herself to forget just how terrifying the shimagu twins could be. Six classes, unified in a single body. They were already deadly, but the twins that remained had been honed by decades of war—with most of those years spent as the sole hope for the ambitions of their kind.
+
+And with their arrival, the promised ‘skirmish’ turned into a true war. One that was resplendent with every horror that the word could promise.

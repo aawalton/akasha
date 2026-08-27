@@ -1,0 +1,83 @@
+---
+id: b4b1c6bd-14b2-5fc8-97ce-3e0c28aec11b
+page-type-slug: story-chapter-royal-road
+title: "34: A way out"
+slug: 0034-34-a-way-out
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 34
+ownLength: 1248
+unit: words
+publishedAt: 2025-01-05
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1993459/34-a-way-out"
+royalRoadId: "1993459"
+---
+
+34:
+
+Jack slowly pulled away from the escarpment, taking deep breaths to calm his racing pulse as he did so.
+
+He gestured to Sarah with a push of his open palms for her to retreat as he crawled backwards himself, sweat beading his forehead as he made sure not to let any sound but the bare minimum escape his movements.
+
+Lifting himself up into a crouch once they were what Jack deemed a safe distance away from the escarpment, Jack took the lead and Sarah followed him along into the security of the forest’s canopy, thin as it was. The irony of viewing a place that had shown him nothing but violence and death as a place of security wasn’t lost on him, but it was still better than what had to be two dozen rift goblins in an encampment.
+
+“What did you see?” Sarah asked, her gaze boring into his own and for that matter, seeing enough, judging by her worried expression.
+
+“What we expected,” Jack curtly replied, the words leaving his mouth before he could phrase them more delicately. “Except seeing it for myself… it’s different. Killing the Rift Goblin Commander almost cost both of us everything. There’s an entire camp full of those creatures, fourteen tents that are wide enough to house four, maybe five rift goblins each.”
+
+“You’re telling me there’s dozens of goblins in that camp?” Sarah asked with wide eyes, not having expected such a revelation.
+
+“Not dozens,” Jack hurriedly corrected, realizing that he was more shaken up by the sight than he’d realized. The muffled cries of the likely captives had gotten to him in a way the constant adrenaline and violence couldn’t, reminding him that there were fates out there that were worse than death. “Given that the Commander and its platoon belonged to this encampment and it’s unlikely that they were the only ones sent out for reconnaissance, I’d bet that more than a few are outside right now. From up above, I could peek into more than a few tents and most were empty, as the rift goblins milled about or attended to tasks. I didn’t dare linger long enough for a headcount, but I don’t expect their numbers to be much beyond two dozen.”
+
+“Two dozen,” Sarah repeated with a gulp, her lips pressed thin as she regarded the new information. “Did you spot the captives?”
+
+Jack hesitated and it must have shown on his expression, because Sarah pinned him down with an intense stare before he replied, “I didn’t see them, but I think I heard them.”
+
+“Explain,” Sarah pressed.
+
+“It sounded like muffled weeping, though I could’ve misheard. It was coming from the largest tent, one that’s positioned near the far corner of the camp, pressed up against the wooden palisade and exactly opposite the lone entrance,” Jack revealed, his earlier hesitation quashed by a firm tone.
+
+Sarah’s face fell at that revelation and Jack couldn’t blame her.
+
+“Was the entrance guarded?” Sarah finally asked, her tone heavy.
+
+“Two guards, though it’s kind of a moot point. It’s barred from the inside with a wooden beam and while we can force through it, that’s going to rouse the entire encampment in a matter of seconds,” Jack replied.
+
+“Then we need to fight through two dozen goblins, reach the other end of the camp and get out with three likely injured or worse people,” Sarah finished his thought process for him, having had access to the camp’s map as much as he had.
+
+Jack was about to reply when a realization hit him with the intensity of a lightning bolt. As true as Sarah’s words rang, her perspective had been too human where they had become something greater. His Moonsword and Shield of Greater Deflection were fully charged, which meant that he didn’t need to completely rely on his Qi Pool for combat. Given that they had the advantage of the high ground that let him peek over the palisade, Jack could deploy two Qi Projections in rapid succession.
+
+It would leave him with precious little Qi to work with, but Moonsword would be more than just a lethal weapon while Moon Qi remained stored within it and the Shield of Greater Deflection would keep him alive if he kept it pointed in the right direction.
+
+If he chose his targets correctly, mayhem would consume the rift goblin camp.
+
+If the Rift Goblins wanted to get him, they would have to climb up the escarpment. Their lithe forms would lend well to the climb, but if Jack was bold enough, he could score a few easy kills.
+
+Sarah on the other hand, wasn’t needed for the fighting. The goal wasn’t to kill every last Rift Goblin, it was to help the captives escape. Normally, even with the mayhem engulfing the camp, that would be an impossible task. However, in the chaos, if Sarah were to use Qi Spear to shave off a part of the wooden palisade on the opposite end of the camp, then she wouldn’t be noticed. Jack would make sure of that. If the din of the footfall of rift goblins wasn’t enough to mask her approach, then he would yell out taunts to the Rift Goblins.
+
+But they would all still die or get separated unless Jack made it a mission to outrun the Rift Goblin army and he wasn’t willing to martyr himself for a group of strangers.
+
+No, for this plan to have any shot at all, they needed a place to run to, where the rift goblins wouldn’t be able to follow them easily, like a choke point in a tunnel or a narrow ledge on a mountainous region. Otherwise it was a suicide mission and Jack liked living, perhaps more than most.
+
+Come to think of it, what lies beyond the camp and why haven’t I…, Jack lost that train of thought as he stumbled backwards, his mouth going agape at the sight before him.
+
+Sarah held out her spear protectively before her, sweeping it from Jack to the escarpment and back to Jack again, finding nothing of note.
+
+“What happened?” She whispered, the confusion in her gaze only matched by a panic.
+
+Jack had studied her carefully and he had noticed how her gaze hadn’t ventured beyond the beginning of the slope that made up the escarpment.
+
+His eyes narrowed as the initial shock ebbed.
+
+“Just bear with me for a moment,” Jack said as he walked over to her and cupped her cheeks in her hands.
+
+“What are you—-,” Sarah’s words were cut off as he angled her gaze towards what lay beyond the escarpment, a thick blanket of gray fog that stretched out as far as the eye could see.
+
+A shudder ran down Sarah’s back before Jack pulled away from her, gazing out into what should have been open plains awaiting them.
+
+“What is this?” Sarah asked.
+
+“More trickery,” Jack replied with distaste. “I didn’t notice the fog until I actively thought about it. But there wasn’t any fog blanketing the goblin camp, I could make it out as clear as day. I think you’re not supposed to notice it until you’re within it,” He grimly mused.
+
+“This is a death trap,” Sarah muttered under her breath as she took a few steps back in trepidation.
+
+“Actually,” Jack began, as the adrenaline rush caused his lips to curl up into an almost manic smile. “If we’re doing this, that might be our way out.”

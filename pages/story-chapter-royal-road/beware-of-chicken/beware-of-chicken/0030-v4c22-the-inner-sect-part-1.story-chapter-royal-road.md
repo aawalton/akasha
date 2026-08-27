@@ -1,0 +1,179 @@
+---
+id: 91b5cff9-0c79-5cb7-9425-2faaf4cd2093
+page-type-slug: story-chapter-royal-road
+title: "v4c22: The Inner Sect part 1"
+slug: 0030-v4c22-the-inner-sect-part-1
+partOf: beware-of-chicken
+position: 30
+ownLength: 2826
+unit: words
+ownProgress: 2826
+publishedAt: 2023-07-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1267377/v4c22-the-inner-sect-part-1"
+royalRoadId: "1267377"
+markedReadAt: "2026-06-29T18:52:22.169Z"
+---
+
+Bi De opened his eyes as the closing notes of his song drifted out over the Sect. He glanced idly down at the square his house was located near, noting the small gathering of cultivators, carefully pretending to not notice the way some of the people were staring at him.
+
+He could have stopped his morning routine, but it was too ingrained into him. He did long to just shout his heart out, as he once did, to truly exult in the light of the new day… but the people here likely wouldn’t appreciate his true voice. The foxes certainly hadn’t.
+
+As amusing as it might be, it would be… unwise.
+
+He lept down off the roof, landing near where a wizened old man was waiting for him, holding a towel for Bi De to clean his hands, with breakfast already on the table. The servant had grey hair that had retained some streaks of blonde, and he sported a likewise-greying thick, almost wooly beard. His eyes were the colour of hoarfrost, and they still sparked with energy.
+
+“Excellent, excellent, Young Master! Truly, you have a gift! You make this old man feel so young again!”
+
+The man’s name was Old Ling and though his smile might have been missing most of its teeth, the honesty of it was to be treasured. He was Bi De’s head and only servant, entitled to him by the mere fact that he was an Inner Disciple. At first, the old man had attempted to be discreet, simply doing his duty… but that changed after Bi De had to rescue him from a pile of linens that had fallen onto him. Now he was surprisingly chatty, like the old timers in Hong Yaowu.
+
+Bi De brought his mind back to the moment and smiled at him. “Thank you for breakfast, Old Ling.”
+
+The old man somehow grinned wider. “You’re young, so you need lots of energy! It's an old family recipe! Eat up, Young Master!”
+
+Bi De did as he was bid. It was a good, hearty meal, and one he appreciated. Old Ling woke up long before the sun rose to make this for him, so the least he could do was savour every bite.
+
+“It's delicious, Old Ling,” he complimented. It was a thick beef stew that was purple of all things. “What makes it this colour?”
+
+“Those are the beets, Young Master—they ward away the cold!” he said with pride.
+
+Bi De would have to procure some for his Great Master—this was quite delicious.
+
+Suddenly, Old Ling’s eyes lit up. “Oh, one more thing, Young Master! This old man has accomplished his mission! I have heard from the other servants, the invitations shall be going out tonight—from Zang Fengfeng. The girl is trying to steal a march on her cousin by calling the first gathering of the summer, oh-ho!”
+
+Excellent.
+
+“Thank you, Ling,” he said. Bi De had at first thought it would be easy to speak with the other Inner Disciples, but they had proved most elusive. Even Zang Zhong spoke to Bi De only rarely, visiting only to occasionally check Bi De’s work and smile almost perversely at the sight.
+
+The disciples here all generally stayed within their mansions, as though they were in their own self-contained little worlds. It was irritating, but he had been taught by Old Ling that it was considered extremely rude to approach one of his ‘Seniors’ and that he would have to wait for them to approach him to initiate any sort of conversation. Otherwise, he would be ‘bothering them.’
+
+Instead, one of lesser status had to wait to be invited to a party—and Old Ling, bless his soul, had taken it upon himself to try and help find Bi De allies by asking around with the other servants.
+
+If this place did turn out to be a den for Demons, Bi De would do everything in his power to make sure this kindly old man lived.
+
+The secondary plan was, inelegantly, to kick somebody’s door in and beat the hell out of them. Apparently that was permitted, but Bi De decided to take a more diplomatic approach first.
+
+Shaking his head to clear his thoughts, Bi De returned to his stew. He looked up at his 'home'. It was bigger than Bi De’s Master’s house, and done in a style he recognised as ‘traditional’. It was an aesthetically pleasing, if slightly impersonal place. But as pleasing as it looked, it was quite lonely being by himself; he missed his family. And the mansion was obviously falling into a slight disrepair, having only one servant to care for it, especially a mortal servant who had just turned eighty two.
+
+He turned from the mansion to watch Old Ling pick up a broom to start his sweeping rounds. It would be hours of work for the old man, unassisted. He would grimace occasionally, on account of a bad knee, but he kept at it, determination radiating off his form.
+
+Bi De knew better than to attempt to force the old man to rest. He was far, far too stubborn and set in his ways to stop taking care of this mansion, but it was too much for a single old man. Thus, Bi De helped in secret. [The Split Faces of the Half Moon] gave Bi De an additional, stealthy Qi construct to use, and a quick once around the house normally took care of all the heavy lifting. This allowed Old Ling to spend a portion of his day with his feet up, proud he was making headway on the mountainous task before him.
+
+Soon enough his bowl was empty signaling that his stew was finished and Bi De was ready to get back to work. He felt close to a breakthrough with his garden… and also resolving the issue he was having with his slowly dwindling Qi reserves.
+
+He stood, ready to start the day, when there was a thunderous knock on the gate that led to his mansion.
+
+Old Ling startled, then hobbled over so he could open the door.
+
+Bi De blinked as one of Zhong’s servants strode in, looking around the mansion with thinly veiled contempt in his eyes before he turned to Bi De.
+
+“Fa Bi De, your invitation,” the man said as he handed Bi De a very formal letter. “Master Zhong will allow you to partake of his hospitality in the first gathering of the summer.”
+
+Bi De looked down at the invitation and raised an eyebrow.
+
+Then, from one of the other mansions, there was a massive explosion of lightning and a roar of feminine rage that echoed around the area.
+
+Bi De raised his eyebrow higher.
+
+In some ways, the Shrouded Mountain Sect truly was everything he had been led to expect.
+
+=================================
+
+An hour later, Bi De was in the middle of tending to the garden in Zang Zhong’s mansion again. He felt more at peace, here in the garden rather than the monstrosity of gold, silk, and jade that was Zhong’s mansion.
+
+After he arrived he had been waved right in, and he actually had almost full access to the entire abode already. Admittedly, it was under the careful eyes of a watcher, but the man was not particularly good at hiding. Bi De could suss out a stalking Tigu or Ri Zu when one of them took to the shadows. Compared to them the watcher was a rampaging Thunderhoof… or his Great Master after a few drinks. The man’s heart may have well been a thundering drum, and he disturbed the air far too much when he tried to move silently.
+
+The watcher also seemed to be growing lax.
+
+Bi De hadn’t given any of the pills they had left lying around a second glance, his senses tuned instead to seek out any demonic taint. There were a few hidden rooms, but they all smelled relatively clean. He had yet to find anything untoward.
+
+Bi De hadn’t really expected to find anything here anyway… though he did find a greedy woman.
+
+Zang Zhong’s lover, Yuyu, was either testing him or was promising a great deal of potential trouble with her not so subtle hints. She was certainly a beautiful woman, and Bi De was quite glad he could control himself these days. When he was but an upjumped cock he would have likely taken those not so subtle invitations.
+
+He was getting quite good at obscuring his reactions and intent with a veil of simple obliviousness, and the woman had given up in irritation after the first few days.
+
+Without her interruptions, and with his near-complete access to the garden, he had been able to give his work the attention it needed and deserved. While the land had been of an adequate quality, a great deal of care had been forgone in the cultivation itself. Why, many of the herbs were in entirely the wrong places! And while he did not have his Great Master’s sublime talent to perfectly understand plants, he was still an attentive disciple.
+
+Bi De took a breath as he carefully tended to the soil, saturating it with his Qi while being careful not to harm the bacteria and root structure. The little Five Colour Dew Herb perked up under his ministrations, and it began, as the name suggested, beading with dew.
+
+He felt his Qi drain with the act—it was a raw, sucking void in his chest that demanded to be refilled, and a bone deep exhaustion that was ever present. Though he meditated the best he could every night, his reserves were slowly but surely depleting.
+
+Perhaps it was a little bit foolish, to be putting so much work into land he would never see again. But Bi De believed in his Master’s words. He gave to the land without restraint… and he had noticed that even while it was taking in his Qi… the land was already helping him.
+
+Bi De’s Qi was naturally aspected to be that of the holy moon. As he gave his Qi to the land, he could not entirely remove that part of it. The plants, however, did not seem to mind. Indeed, they gulped his might down and stored the holy silver within their leaves.
+
+There, little bundles of purifying energy grew, shrouded by the herb’s own Qi.
+
+Each plant contained a little bit, placed there in a way that he thought Ri Zu might have approved of—for it was not only his Great Master whom he had learned from. If a demon attempted to eat or refine the plants… they were in for a very rude surprise. For any but the weakest among them, it would fall short of lethal, but it would be a devastating, burning poison to anything foul and corrupt.
+
+Bi De smiled as he tended to the wondrous, kind plants that were aiding him so, silently thanking them for their actions. He gently ran his fingers along the stem of another plant. It shivered… and then, with what seemed like a sigh, it released a small amount of Qi into the air.
+
+Bi De froze. Then, the plant beside it seemed to sigh as well, setting off a chain reaction. Invisible to most senses, another plant released some too. The garden was starting to generate small amounts of its own Qi… and that Qi would just float in the air and slowly disperse. But it was usable Qi. It was gentler than the freezing cold, gentler than the stern countenance of the mountain. It was the Qi of life.
+
+Bi De bowed his head in thanks. Truly, his Great Master’s words always rang true.
+
+He gave to the land, and the land was giving back. He simply needed to figure out how to make use of this bounty, for it was little.
+
+But that was a task for another day. Bi De heard footsteps approaching.
+
+Zang Zhong swaggered into the garden, his chest puffed out, and a smirk on his face, with several of his lackeys trailing behind him. There were three men—none of whom stood out very much in Bi De’s opinion—and Zhong’s lover, all of whom were grinning like they had just had a successful harvest.
+
+“Ahh, I never tire of seeing my cousin’s frustrated face!” Zhong declared.
+
+“As always, Young Master, your ploys are genius,” one of the men said, smirking.
+
+“She looked like she was going to spit blood!” another chuckled.
+
+They all laughed for a moment, before Zhong started looking around his garden and his smug smile got even smugger. He looked at Bi De.
+
+“Working hard, eh?” he asked with a slight sneer in his voice. His eyes took in Bi De’s shirtless, sweaty form.
+
+“Gardening is a pleasure. To tend to these Spiritual Herbs is a privilege,” Bi De replied. “The Five Colour Dew Herbs have begun producing their sap. Today is truly a wonderful day, to have such beauty for us to witness.”
+
+“Ah, he knows his place, good!” one of the hangers-on chuckled, while Zhong’s smile lessened. Then the Young Master snorted, walking up to the Five Color Dew Herbs.
+
+“Yes, it is indeed a fine day. Any day when you can suppress somebody else is a good day, no?” Zhong declared, then reached out and plucked a handful of the herbs, and with a cruel smile he put them into his mouth and bit down on them.
+
+He let out an appreciative hum at the taste, or so Bi De assumed, while the rest of his lackeys gasped… then started laughing.
+
+Bi De simply watched the man’s reaction, searching for a wince or any evidence of surprise as he consumed purifying Qi. The cultivator simply chewed smugly, his eyes daring Bi De to act.
+
+It appeared he wasn’t a demon—merely, as Yin would dub him, an asshole.
+
+“How does it taste?” Bi De asked, genuinely curious.
+
+Zhong nearly choked on his herbs. His companions were less refined, their jaws dropping.
+
+“… this is the most unflappable man I’ve ever met,” one of them muttered.
+
+“The Young Master just wasted all his hard work, and he stands there like it doesn’t matter?!” The other muttered. Zhong’s intent flared, and a static charge built up around him. All of them immediately shut their mouths. Zhong visibly calmed himself.
+
+Zhong stared at Bi De and managed to finish swallowing, his smile gone. “It is an excellent flavour—the herbs are light and crunchy, and the dew has the taste of fine oil. I believe I’ll have another.”
+
+He glared at Bi De, picked another, and then bit down on it, making a show of him chewing on it.
+
+Bi De smiled brightly.
+
+“My Master once made a fine salad out of Spiritual Herbs,” Bi De said. “We have enough, and it would make a fine meal for your guests.”
+
+“Spirit Herbs as a salad?! Are you mad, you bastard?!” one of Zhong’s men stepped forward, his face red—but Zhong held out his arm.
+
+He was staring appraisingly at Bi De now. “You make a fine point, Bi De. If even your dirt grubbing Master could hand out such herbs as part of a meal, then of course Zang Zhong of the Shrouded Mountain Sect can do the same!”
+
+Bi De barely kept his hand from clenching into a fist at the man’s insult. Zhong wasn’t fit to shovel Lon Lon the cow’s shit, let alone compare himself to his Master. Meanwhile, the rest of the cronies froze, their eyes lighting up. “Indeed,” he managed to say with close to his usual poise, “you are the powerful Zang Zhong, Young Master!”
+
+Zhong glared at Bi De for a moment. “You’re an annoying man, Bi De, but I will allow it. Prepare the herbs for the feast. Zang Zhong will give everybody who comes a taste of his largesse.”
+
+“Of course, Young Master,” Bi De said, bowing. The men departed, though Zhong seemed to be in a bit of a surly mood.
+
+An unexpected blessing, he thought to himself. And I had imagined that the most difficult part would be leading the great number of potential demons to eat purifying Qi.
+
+Bi De turned back to the garden. The herbs would have been even more delicious if they could be allowed to grow a bit more, which was sad. But things were indeed looking up.
+
+Mostly finished, he sat down to admire the Five Color Dew Herbs. The way they sparkled in the light was quite pleasing. His breath slowed as he carefully observed how they exhaled their minute amounts of Qi. As they breathed in, he exhaled. As they exhaled, he inhaled.
+
+He gave his Qi to the earth as thanks for such a wonderful sight.
+
+===========================================
+
+Something deep, deep, deep beneath the mountain, a strand of energy that was part of a greater whole, shifted slightly upwards, following a link of lunar energy.

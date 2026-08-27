@@ -1,0 +1,137 @@
+---
+id: 7d8a2e42-274a-5d46-9b08-aa5f9ae8d7f0
+page-type-slug: story-chapter-royal-road
+title: "v4c57: The Shadows and the Stone"
+slug: 0072-v4c57-the-shadows-and-the-stone
+partOf: beware-of-chicken
+position: 72
+ownLength: 1720
+unit: words
+ownProgress: 1720
+publishedAt: 2023-11-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1400767/v4c57-the-shadows-and-the-stone"
+royalRoadId: "1400767"
+markedReadAt: "2026-06-29T18:53:53.416Z"
+---
+
+Not long after Yun Ren left to speak to the Head Inquisitor…
+
+Ri Zu took a deep and calming breath as she watched over Shao Heng. The room was silent, save for both of their breathing. She was not expecting another attack—it was too soon after the last one—but she was not in the habit of negligence.
+
+She had relieved Bi De of his watch and now she sat alone for the first time since the attack. She was still tense, and her heart was still not calm… though not because of the danger nor Shao Hengs condition..
+
+Ri Zu grimaced and replayed the meeting that had left her so unsettled in her mind.
+
+==============================
+
+After they had discussed their plan, Rizu decided the first thing to do was reach out for an ally. Someone who Ri Zu was certain had at least some power and would hopefully be inclined to help.
+
+Master Lishu.
+
+Ri Zu was actually a bit confused; he had not been immediately present and ascertaining the situation. The man loathed things like this… but instead of Master Lishu taking command, she had only seen a glimpse of him as the internal guard force had taken Mo Chaoge away.
+
+He was not the kind of man to let things like this lie. So with Bi De still guarding Shao Heng, Ri Zu went to the Master of the Medical Pavilion.
+
+She knocked on the door to his office and Master Lishu thankfully answered.
+
+“Enter,” he commanded, and Ri Zu did as he bid. But unlike all the other times, he was not at his desk. Instead, he was off in a side room sitting upon a stone meditation dias. His eyes were closed and his breathing was deep and even.
+
+“I presume you are here about what happened last night?” Master Lishu asked.
+
+Ri Zu was taken aback by his calm demeanor. He looked no different than he ever did. She would have thought that somebody invading the Medical Pavilion in order to kill a patient would at least provoke a reaction from him, but he was the same as always.
+
+“Yes, Master Lishu. This Ri Zu would have your council… and should you be willing, your help.”
+
+“Hmm. I imagined you would take longer to ask me—but I suppose even your stubbornness has limits. I am listening,” the man stated without inflection.
+
+And so Ri Zu told him about the predicament they found themselves in and their opponent, the Mo Clan. Through it all the man’s posture did not shift and his eyes did not open. His breaths were deep and even.
+
+“And this is why this Ri Zu would ask for Master Lishu’s help, in case the Mo clan seeks to escalate this.”
+
+Master Lishu did not react; he was as still as a stone in a pond, like the concerns of the Pavillion he so loved, and the challenge he had with Ri Zu was utterly beneath his notice.
+
+“Ri Zu can go, if Master Lishu has other things to do,” she offered as the man continued to sit.
+
+This, however, provoked a reaction.
+
+“One must go about such things with a calm head, Ri Zu,” Master Lishu stated and then opened his eyes. “And this Lishu is not calm.”
+
+At once Ri Zu realised the reason why he was meditating.
+
+A veil was ripped open as master Lishu’s eyes focused on Ri Zu. His intent was like a flood coming down from the mountaintops, a crushing wall of water that would drag down and drown any unfortunate enough to be caught in its path. Ri Zu felt her tears, her sweat, and her saliva begin to move of their own accord—even her blood started to squirm uncomfortably as Master Lishu’s will was imposed upon her.
+
+“Never in my life has an assassin been so brazen as to dare enter the Medical Pavilion itself. Outside our walls, what happens happens. But here? He dared to defy my authority, assault one of my patients within my Medical Pavilion.” His voice was like the whisper of death. Ri Zu looked away for a moment to gain her bearings and saw as the fresh flowers and sweet smelling sachets he had begun to keep in his office after Ri Zu started the practise wilted and shriveled as every scrap of water was ripped from them. “I cannot fault you for following protocol and calling on the guards. However, if something happens next time, you tell me first and I shall handle things. Am I absolutely plain?”
+
+Ri Zu shook for a moment before bowing politely before the man. “Ri Zu begs Master Lishu’s forgiveness, and will reflect upon her actions.”
+
+“Good. Remember this—determination and pride are virtues. Stubbornness and arrogance are slow and insidious killers. Asking for help from your Master is not shameful, if another starts a fight.” His voice was slowly becoming actually calm. ”If the Mo clan thinks they can do this without earning my ire, then I will show them they cannot. Return to your patient, Ri Zu. Your Master shall lend his assistance in this matter.”
+
+========================
+
+The outcome had been positive… but Ri Zu was still shaking. Master Lishu’s intent had been the most potent she had felt in a long time.
+
+It had taken ten minutes for it to stop feeling like her own bodily fluids were squirming unpleasantly.
+
+Ri Zu took another breath and turned her attention to her patient.
+
+Shao Heng was asleep, his chest rising and falling softly as he recovered from his wounds. At least he had the sense to listen to her when she had informed him what would happen if he hurt himself.
+
+He was honestly touched by her dire threats—and too emotionally drained by the realization that he would not be abandoned. He had assumed they would do so, had expected them to run, and he would not have begrudged them doing so.
+
+Ri Zu could feel herself slipping into anger again. The shadows in the room grew red eyes, and the rats within began to chitter to each other in words that Ri Zu only barely understood.
+
+It was a strange path her cultivation was taking. At first, Ri Zu had expected the creatures of shadow to be wholly malevolent, as they had been spawned from darkness, rage, and vengeance. Instead they had proven far more… nuanced. A dark reflection to be sure but no more dangerous than any blade if oddly formed. They were obedient to her, like her brothers and sisters had been to Chow Ji so long ago. Before the bastard had sacrificed them, one and all, to fuel his own greed.
+
+She could almost see them in the shadows.
+
+Ri Zu held out a finger and one of the shadow-beasts appeared from her robe to sit upon it—and it began to groom itself. She could use them like Chow Ji could. Sacrificial shadows, fueled by her own worst impulses… but Ri Zu didn’t feel that was very fair to the spirits.
+
+They could be more than mere sacrifices, reflections of her sins.
+
+“Little one, can you watch over Shao Heng for Ri Zu?” she asked the grooming creature. The shadow-beast perked up at her voice… and then saluted. It let out a squeak and leapt off her finger. It dashed towards Shao Heng’s robe and disappeared into his sleeves.
+
+The rest of the shadows chittered, their eyes upon their comrade.
+
+Ri Zu gently coaxed the rest to disperse, and after a moment the eyes retreated into darkness once more. But they were still vigilant.
+
+Not long after, Shao Heng woke up once more, and an hour later she was relieved by Yushang as Ri Zu was completing her diagnostics.
+
+“Sister Ri Zu! Uncle! Your Yushang has come to play!” the other woman shouted cheerily. “Look, old man, I brought you some fruit! I’ll cut it up nice and small so you can gum at it!”
+
+Ri Zu had to stifle some laughter. Yushang did indeed look like a girl going to visit her uncle—save for the sword on her back and the brace of throwing knives added to her front. Yushang, for all her silliness, was alert and scanning the room, her intent a razorblade even as she acted like a fool.
+
+Shao Heng was taken aback for a moment, before a tentative smile came across his face. “Oh, niece, you’ve arrived. Such a filial descendant. You can rub this old man’s back and feet later too.”
+
+Yushang laughed as she sat down. “I give the best massages, so prepare yourself! What parts do I need to avoid, doctor?”
+
+“Just avoid stressing the front of his body,” Ri Zu replied.
+
+“Got it! Go and rest, Ri Zu! This Pretty Sister here will take care of everything—and maybe give you a massage later too, eh?”
+
+Ri Zu nearly said yes… until she saw Yushang start making grasping motions while staring lecherously at Ri Zu’s chest.
+
+She considered the woman for a second.
+
+“Ri Zu’s shoulders are a bit stiff,” she finally said, willing to take the chance that Yushang was just joking. “And thank you, Yushang. For everything.”
+
+Yushang's humor softened into a genuine smile. “Friends help friends, don’t they?”
+
+“They do,” Ri Zu agreed, “Still, if one does not offer thanks, they may start taking others for granted.”
+
+Yushang was clearly considering her words as Ri Zu stepped into the hall of the Medical Pavilion.
+
+Ri Zu needed to meditate to calm herself. Things did not seem hopeless. They could keep their promise to Shao Heng.
+
+Of course, that was when Yun Ren came in and showed Ri Zu the crystal.
+
+“May we live in interesting times,” Ri Zu cursed as she pulled her hand away. On top of everything—the tournament, Shao Heng, and now this?”
+
+Ri Zu sighed, and lay back in her bed with a groan. A little black head poked out from her sleeve, and the little shit raised its paw to its mouth and snickered at her.
+
+Even her shadow was laughing at her misfortune!
+
+Ri Zu rubbed her face, took a breath, and calmed herself. Like Master Jin said. Just keep on moving forwards!
+
+Though she would move forwards after she got a massage from Yushang.
+
+And maybe one from Bi De too…

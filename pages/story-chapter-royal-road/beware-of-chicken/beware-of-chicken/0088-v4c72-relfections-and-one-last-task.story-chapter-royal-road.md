@@ -1,0 +1,171 @@
+---
+id: 8e06e638-69f0-5933-a5d9-6b898cce45bb
+page-type-slug: story-chapter-royal-road
+title: "v4c72: Relfections and One Last Task"
+slug: 0088-v4c72-relfections-and-one-last-task
+partOf: beware-of-chicken
+position: 88
+ownLength: 2138
+unit: words
+ownProgress: 2138
+publishedAt: 2024-01-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1486686/v4c72-relfections-and-one-last-task"
+royalRoadId: "1486686"
+markedReadAt: "2026-06-29T18:54:28.246Z"
+---
+
+Nezan watched on idly as once more food and drink was brought out. He had a small smile plastered on his face as he watched Yun Ren entertain the rest of their kin with colours and swirling lights.
+
+It was a scene of levity, compared to the oppressive atmosphere that Nezan had created.
+
+He sighed. He had nearly succumbed to Da Ji’s hate; the blood fury inherent in all foxes when their ire was roused. The savage, destructive malice that demanded to see everything burn. The mere idea that they could once more own the mountain had been too much. It had stirred his heart and set his Qi on a dark path forwards.
+
+His heart, his being, his identity was all tied into what seemed like a never ending war to get it back. He had been but a child when it had fallen, and afterwards his cousins had spirited him away to a hidden realm where he had trained to grow strong enough to enter the war.
+
+He had fought for centuries. He had probably killed more members of the Shrouded Mountain Sect than any other person or organization could ever claim. He had torn out their throats with his teeth even as their swords stabbed into his guts. He had burned them to ashes with foxfire. He had imposed twisted visions that had driven them insane.
+
+He had never been alone. At first, he had followed the stronger foxes, mad on Da Ji’s hate. They demanded that everyone must fight, declaring that this war was their solemn duty.
+
+So they did. There was no such thing as a non-combatant fox for the first part of the war—when they gathered in their hundreds to challenge the Shrouded Mountain Sect.
+
+Indeed, Nezan still remembered the impassioned plea of his cousins during the conclave that had convinced the majority of their kin to stay instead of fleeing the province when the tide of the war became obvious.
+
+Oh, some likely had left; but the bulk of the foxes had stayed.
+
+This was their home, and it was their duty to fight to their last breaths to defend it.
+
+Even as their numbers dwindled, Nezan fought. His survival was what saw him get, to use a human term, promoted; he fought and he fought and he fought until one day he found himself as one of the strongest foxes left alive, with everybody following his lead.
+
+So he continued the battle. For his family, and for all those who had died, it was their duty to.
+
+Somewhat ironically it had been Wen who had started to change things. Even though she was barely coherent when she first came to them, her mind reeling from whatever tortures the Inquisition had inflicted on her, she had been the one to see their population problems. She had convinced Nezan and the others to start setting up more hidden villages and to start making deals with the other human sects who disliked the Shrouded Mountain Sect.
+
+It had been her that convinced him that not everyone needed to fight… nor should they fight. They needed those who would preserve their culture and their ways, so that one day they could finally rise again.
+
+And then it had been her that had given her life for them in that final, fateful battle. Her amongst some of the last foxes who had strength left. A rear-guard action, to protect their last real village  and buy time for their evacuation.
+
+They had turned the valley into a burial mound. Three Elders of the Shrouded Mountain Sect had gone to their doom along with nearly a thousand cultivators when his dearest had turned herself into an avatar of living lightning.
+
+Nezan, too, had nearly perished in that battle. He had been grievously injured, his cultivation nearly shattered.
+
+But his people had still needed his help.
+
+He laid Wen’s body to rest, along with her sword, then returned to the Howling Fang Mountains. Nezan had been working more off instinct more than anything else. He couldn’t remember how many people he had to bribe or lie to. He couldn’t remember how many times they nearly lost everything. But in the end, Nezan became Honoured Uncle Nezan.
+
+The technical leader of their race, by seniority if nothing else. The leaders of the clans swore they would wait for his word and for his return, and that their children would forever honour him.
+
+With that, Nezan could finally rest. He staggered back to Wen’s grave and he slept.
+
+He slept for ages; a human cultivator surely would have perished by old age, but the foxes of the mountain were known for their longevity.
+
+But it took him entirely too long to recover. Each time he awoke, it was almost like a dream. He would work on Wen’s Tomb or he would sneak out to a village to make sure they were still there.
+
+And then, one day, he found an intruder in his den who, with his words and actions, had made the world swim back into focus.
+
+At first he had been content to sleep. He was an old relic, and his kin were… relatively safe. Yet the Shrouded Mountain Sect had reared its ugly head, once more threatening his family.
+
+All of a sudden, he was back in the war. Back in the never-ending battle to retake his homeland… no matter the cost.
+
+He had tried to distance himself from the dark feelings, for Nezuhua’s plea against restarting the war had moved him. The reality of the situation was plain, yet even this had not really succeeded.
+
+At first, the force that had been assembled had been a contingency plan. A “just in case” if Shen Yu was serious about only Bi De receiving his protection as his student. Of course, he needed not really worry… but he had anyway. Yuanlin was a specialist in rescue operations. In the few cases the Inquisition managed to catch a fox these days, it was Yuanlin who went to try and intercept them before they made it back to the mountain.
+
+The news of what had happened had completely broken the dam on his emotions, however. All of a sudden, for the first time in as long as Nezan could remember, they had a true chance of retaking their home… and it had gripped his soul.
+
+It was a question he had to ask. It was something he had to demand or Nezan would not be Nezan anymore. Even as his Qi bubbled and roiled from indecision, it was something he had to do.
+
+Even though his heart had been wavering, he had to have one last, defiant gasp.
+
+Thankfully, his boy once again succeeded magnificently.
+
+“You’re a fox, aren’t you? Why would you pay in blood for a mountain you might be able to get for free by going about this with half a damn brain?!”
+
+Indeed, the words had been a spike directly to his soul. Chastising Nezan for not being enough of a fox? The boy had shown sheer gall in doing that! But the wound to his pride had done the trick. The Hate of Da Ji had recoiled to a bare simmer as its focus shifted, latching on to the demand for subtlety and manipulation over brute force and salting the earth.
+
+A perfect victory, where the only blood spilled was that of his enemies.
+
+He lost himself for a while, thinking of the best path forwards. The best way to slowly work his people back into their rightful place. Invited in, no, begged to come back by whatever remained of the Shrouded Mountain Sect.
+
+“Uncle? Are you well?”
+
+Nezuhua’s voice broke into Nezan’s thoughts and he blinked. The hall had been opened again and the rest of the children were there. Yun Ren had Summer’s Sky out, using the blade to create spiraling fractals in the air. Bi De was deep in conversation with Xue Ji, the officious-looking woman writing something down for him. Ri Zu was speaking with Nezuhao, the old woman chuckling at whatever the girl had said.
+
+In addition to them… were the former members of the Shrouded Mountain Sect. Yushang was expertly losing a game to the few children who were here. Han was once more speaking with Da Jin, listening seriously. And finally, Yuanlin was speaking with Shao Heng, the stoic man nodding along to whatever she was saying.
+
+“I’m fine, dear,” he said, giving Nezuhua a small smile.
+
+He sighed as he gazed thoughtfully at the scene before him. Yun Ren was right. Nezan had time. Time to do this right.
+
+He sighed again and closed his eyes, pushing and shoving the snarling animal in his soul down so it was a bit quieter.
+
+He had promised Yun Ren he would visit his family. And why not bring the rest of their distant cousins too?
+
+Yes. That was a fine idea.
+
+Wen would have approved.
+
+=====================
+
+They stayed with the foxes for three days. It was a three day respite which Bi De had sorely needed… even though it was not perfect. No, perfect would have been at home; all of them knew that. Yet still, he was free to be himself and free to steal quite a few wonderful moments with Ri Zu.
+
+But alas, they had duties to attend to. They were needed to the north, to ensure the Shrouded Mountain Sect had truly been attacking the demons as they claimed and clearing them out properly.
+
+Their party was comprised of himself, Ri Zu, Yun Ren, Yushang, Han, Shao Heng, and Nezan; the rest of the foxes would instead be dispersing back to their own homes… and in Nezuhua’s case, they would be making preparations to travel to the Azure Hills, so that they could travel there as soon as Bi De and his party returned.
+
+Bi De had also given a letter to one of the foxes, who swore she would deliver it beforehand. Bi De had been out of communication for a while and his Master needed to be informed, just in case this took longer than expected.
+
+There was little in the way of goodbyes. Nezan and Yun Ren—whom Nezan had taken pity on and taught how to hide his ears and tail, much to Yushang’s disappointment—merely bid their kin farewell and declared that they would see them again soon.
+
+And thus off they went, heading north.
+
+The mood was optimistic as Yushang bugged Yun Ren to take out his tail again, much to the other man’s annoyance.
+
+================
+
+There was a ringing in his ears. His entire body felt like it was burning and freezing at the same time as the wind howled and his body rocked side to side. It was incredibly uncomfortable.
+
+He suddenly dropped slightly, as whatever he was on rocked more.
+
+He was being carried, he realised. And the person carrying him had just stumbled.
+
+“Stay with me. Come on, Yingwen! Stay with me!” Fenxian demanded over the wind, his voice tight with pain. “We’re gonna make it!”
+
+Zhou Yingwen of the Shrouded Mountain Sect opened his eyes… and then immediately wished he hadn’t.
+
+It was dark and the air was filled with snow, but it did nothing to hide the state his companion was in.
+
+He could see Fenxian’s skull. The blackned bone was visible in the ruin that was his face. His clothes had been burned off, and his leg had a bone sticking out of it, his own bone. His brother disciple was barely standing, and Yingwen would not burden him anymore.
+
+“I am awake. Put me down. I can walk,” Yingwen said, trying to lessen the burden on his fellow.
+
+Fenxian laughed. The sound was pained.
+
+“No, you can’t,” Fenxian replied.
+
+Yingwen blinked and then looked down.
+
+Oh… it appeared Fenxian was correct, for the first time in forever. Yingwen could not walk.
+
+He had no legs.
+
+He let out a rattling breath and turned away again. He fell silent as Fenxian trudged along, Yingwen’s eyes roving around and trying to make out anything through the blizzard around them.
+
+And then he saw it, the briefest of flashes before it melted back into the snow.
+
+“Fenxian.”
+
+“I know,” his brother disciple tersely replied.
+
+Then they heard it. It was low, almost masked by the wind.
+
+The rattling breath that sounded like laughter.
+
+Yingwen swallowed, his mind flashing back to the abominations that had been in the mountain.
+
+Fenxian started moving faster, no matter how much the movement pained him.
+
+The rattling laugh was joined by a second, and then a third.
+
+Yingwen felt despair start to creep up on him. The same despair he felt when Elder Shenhe had fallen.
+
+Shadows danced through the snow, hounding the last surviving members of Elder Shenhe’s Fulmination Squadron.

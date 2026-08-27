@@ -1,0 +1,229 @@
+---
+id: 8a78fbea-64be-56c4-a6db-319ceaa448ff
+page-type-slug: story-chapter-royal-road
+title: "v4c34: Hunting the Beetle"
+slug: 0046-v4c34-hunting-the-beetle
+partOf: beware-of-chicken
+position: 46
+ownLength: 3158
+unit: words
+ownProgress: 3158
+publishedAt: 2023-08-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1321310/v4c34-hunting-the-beetle"
+royalRoadId: "1321310"
+markedReadAt: "2026-06-29T18:52:56.213Z"
+---
+
+Sergeant Han frowned as he looked through the documents in front of him. His adrenaline was still surging from last night and his blood was up, but he had a duty.
+
+The Special Inspector had sent Sergeant Han undercover to try and get some leads on this group. He had been expecting something on this route… but he hadn’t exactly expected to be outright captured. How brazen they were, to take an entire group of people in the night. But now he knew why they had been so confident.
+
+“These bastards. They’ve got somebody high up on the payroll,” Sergeant Han snarled as he looked through the documents.
+
+“You’ve found something else?” a melodious voice asked, and Han glanced up from the documents that he had been combing through to be met with the azure eyes of Cai Xiulan.
+
+Were the times not so dire, Sergeant Han knew that he would probably be gaping stupidly at his current circumstances.
+
+After all, it wasn’t every day in which you met the Demon-Slaying Orchid. Han had seen all the plays and had enjoyed them. Sun Ken was a foul piece of shit that deserved to be carved up and his soul broken in every hell there was.
+
+He had expected the woman to be stunningly beautiful—everybody always commented on her regal form and her dazzling eyes. In those aspects, Lady Cai merely surpassed every story told of her appearance.
+
+But what those stories didn’t speak of was her bearing, her presence. Han knew nobility, true nobility, whenever he looked at his dear friend the Special Inspector. Before meeting him, Sergeant Han had thought the descriptor a myth. Even cultivators failed to stand up to the Special Inpsector’s presence.
+
+Cai Xiulan had proved to be the sole exception. She looked like an empress out of a story, perfection given flesh. Her charisma was like a tangible, physical force of an aura about her that would have had Sargent Han on his knees if she had asked for his allegiance. It was something about her eyes. It was something about the way she spoke.
+
+It was something about the way that after hearing his story, one of the most powerful cultivators Han had ever laid eyes on had simply asked how she could help.
+
+Twice now had the Verdant Blade Sect proven themselves as honourable as the stories about them said they were. Cai Xiulan deserved his full trust and honesty.
+
+“Yes, Lady Cai,” Sergeant Han said, putting on his best professional voice. “Things will be more difficult than the Special Inspector anticipated if these seals are accurate.”
+
+The woman frowned but nodded, continuing on their break-kneck pace.
+
+“What exactly was this scum doing, anyway?” one of his saviours, Rou Tigu, asked as she jerked her head towards the back of the cart.
+
+Cai Xiulan alone could have vanquished any number of the bastards who had been enslaving the people… but Lady Cai was accompanied by seven other cultivators.
+
+Rou Tigu, The Tiger of the Peaks. Liu Xianghua, The Heron of the Misty Lake. Tie Delun, The Ironskin. Zang Wei, The Rising Dragon. These were heroes whose names resounded across the province. They were Young Masters and Mistresses of such skill that there were dolls of them and children played as them in their silly games.
+
+‘Rags’, Liang Yin, and the Torrent Rider completed these heroes. They had no legends about them yet, but Han was certain that was going to change.
+
+Surely, the heavens had been looking out for him. Sergeant Han followed her gaze and glanced to the back of the cart as well and smirked.
+
+The bandits were either moaning in pain or looking like they were marching to their executions… which they probably were. Once this whole sorry business came to light, heads were sure to roll. It was a testament to the cultivators’ skill that every man had survived the brutal beating that Lady Tigu, Lady Yin, and the Torrent Rider had visited upon them. Every broken bone had missed severing arteries… and yet Han had the sneaking suspicion that death might have been kinder. Even if they survived the judgement they were to receive, they would likely be crippled for life.
+
+A good thing, in Han’s opinion. The men who would do this deserved no mercy… especially with what Han had found. One of his hands dropped down to the Great Stick that Pacifies Heaven in its holster. Maybe he could give them a couple more licks?
+
+He forcefully turned his gaze back to Lady Rou.
+
+“Debt trapping,” he said after a moment. “They had in their possession official documents, signed and back-dated by a subordinate magistrate. While slavery is illegal, indentured servitude sure ain't.”
+
+Rou Tigu’s already heavy scowl became even heavier. Sergeant Han felt tension in the air from the rest of the cultivators.
+
+“So they would steal people, sign the documents, and as far as the law was concerned, they would be official debtors,” Lady Liu said, her voice as cold as an ice-covered river. “A novel approach to get around the Emperor’s edicts. How utterly disgusting. Death is too good for them.”
+
+“And it means the rot here goes deep,” Lord Tie said, his own voice like granite blocks grinding together.
+
+“I still got some contacts in my old stompin’ grounds,” Rags said. “If there's more of these bastards, I’ll find ‘em.”
+
+“Then we shall aid the Special Inspector in doing some weeding,” Cai Xiulan decreed. Rags, who had been smiling, frowned slightly, but didn’t say anything else.
+
+There was a sudden outburst of intent from every cultivator around Sergeant Han, one that had him shivering and sent the slavers in the back of the cart squirming like the worms they were.
+
+Sergeant Han just hoped the Special Inspector was alright. He too had gone undercover.
+
+=================================
+
+Tigu frowned as Grass Sea City came into view. It appeared on the horizon like some kind of great, hulking beetle. Its shell was a beautiful thing—polished stone and green roof tiles glinted in the sunlight along with glass and bronze inlaid walls. It was shiny, like a beautiful gem, and those that lived in those towers and in the great palace at its heart had the wealth to match. But a beetle is not wholly its carapace.
+
+From underneath the shining shell its vast body sprawled out. Smoke belched from a thousand chimneys and foundries. Windmills spun without ceasing. The squares and roads that they could see were a constant churning mass of people, looking for all the world like blood flowing through the beetle’s veins.
+
+The city was only constrained by the enormous Twin Rivers the beast squatted between. Each river narrowed to only two Li wide from their maximum size of ten Li across—and the beetle’s legs stretched out to encompass those as well. They were giant bridges, extending up into the air in large arches to accommodate the hundreds of ships plying the waters beneath them. On both sides of the riverbanks there were two shanty towns, and underneath the bridges themselves Tigu could see hundreds of windows glowing with candlelight—probably the Underbridge that Rags and Xiulan had been talking about.
+
+At first Tigu had been confused about how anybody could hide under a bridge… but there were more dwellings under the massive thing than existed in Verdant Hill. And there was a second one on the other side of the city.
+
+In the distance, just beyond the city, she could see the break in the otherwise perfect wall that was Yellow Rock Plateau, a ravine that had a gentle incline and allowed both travellers on foot and ships to continue into the neighboring province.
+
+It had a completely different character compared to Pale Moon Lake City. Pale Moon Lake City felt old, and compared to what Tigu could see, almost calm.
+
+She shook her head, getting herself focused once more. The city should have been inspiring, something to carve or paint. Something to regale Gou Ren with stories about the architecture… but instead, all Tigu could feel was a mild bit of revulsion. All she could see was the giant, dirty, blood-sucking beetle.
+
+Though she supposed that wouldn’t be a bad image either. Her mind conjured the abstract image. She might actually need to carve that later. It was stuck in her head now.
+
+“Grass Sea City. The capital of cultivator affairs in the province,” the Blade of Grass narrated. “It's at the intersection of most of the Sects in the Grass Sea, and has an easy access point into Yellow Rock Plateau—or at least the more populated parts, compared to Stone Gate."
+
+Tigu listened with half an ear as they approached the city. The road was well manicured, and unlike Pale Moon Lake City they didn’t have to walk through the slums on their approach to the city. Instead, everything was shiny and well maintained.
+
+Until one looked to the other paths that split off and circled behind the large, open bridge gates, heading to the slum in its shadow.
+
+With a flash of what looked like a badge to the gate guards, they were waved through onto the massive bridge that led to the city carrying their cargo of prisoners.
+
+The bridge itself was a pale cream, and it was nearly a full Li wide. It was also sparsely populated, with only a couple of carriages and wagons using the top.
+
+“Most of the actual traffic goes through the bridges, not over them,” Rags said as he looked around. “This is actually the first time I've actually been on top of this thing. Nice view.”
+
+That, Tigu had to agree with. The view of the river was spectacular, but she still couldn't really enjoy it, considering what this city was home to.
+
+Sergeant Han guided them through the city, until they finally came to a rather nondescript looking manor.
+
+“I hope he's alright—the Special Inspector was undercover as well when I went out to the countryside,” the man said as he knocked on the gates.
+
+He was clearly worried for his friend. Tigu found herself rather liking the man. He had no cultivation, yet here he was fighting against these slavers, putting it all on the line.
+
+Tigu could respect that.
+
+While Tigu herself was a cat, a solitary hunter, she had studied wolves well in her time. Though Sergeant Han was weak…. Even the weakest wolf could help spring an ambush on their prey.
+
+These slavers obviously thought of themselves as hunters. They thought of themselves as untouchable.
+
+Tigu would make certain to show them how wrong they were.
+
+Tigu narrowed her eyes as a Qi signature suddenly flared from inside the manor. It was at the Third Stage of the Initiate’s Realm.
+
+“Who approaches?” an arrogant female voice demanded as the door opened. “Be you villains, come to finish the job? I, Shui Xinlai of the Grey Water Sect shall—Gehk!” The woman in the doorway, who had been glaring with one hand on her hip, choked on her own words as she saw all of them standing in the doorway. Her aggressive posture faded instantly. “Er, um, Cai Xiulan. Liu Xianghua. Uh…” The Young Mistress of the Grey Water Sect stumbled over her words as all of them responded to the blatant challenge by releasing some of their own power.
+
+The other cultivator, whom Tigu recognised from the Dueling Peaks, paled.
+
+“Might I ask what you are doing here, Shui Xinlai?” Xiulan asked, her eyes narrowed slightly.
+
+Tigu wondered if the woman was an enemy for a brief moment, but Seargent Han seemed happy to see her.
+
+“Young Mistress! It's good to see you again—is the Special Inspector well?” he asked.
+
+The woman shook herself out of her shock and nodded.
+
+“Ah, yes… um…please come in?” she said, bowing politely to Xiulan.
+
+========================
+
+“Those bastards, how dare they?!” Sergeant Han snarled after they had been introduced to another man. The ‘Special Inspector’ had glanced at them all when they had come in and recognition came into his eyes. There was a brief flash of shock on his face, but he schooled his expression well.
+
+Tigu was quite impressed, but something tickled the back of her mind—this man looked incredibly familiar to her, for some reason. Tigu could tell Yin was thinking the same thing, because her brow was furrowed.
+
+Xiulan on the other hand was looking at him appraisingly, having heard the stories An Ran had told them.
+
+The Special Inspector, sitting at a desk filled with scrolls, smiled slightly. One of his arms was in a sling, and he had some bandages around his head.
+
+“Yes, their ambush was quite well thought out. If it were not for Lady Shui, I surely would have been captured,” the Special Inspector said, his voice controlled. He sat ramrod straight, and his words were exacting in a way that made Tigu question why it was familiar—he sounded a bit like the way Uncle Xian spoke. His words also caused the Grey Lady to preen at his words and thanks.
+
+“Oh, An Ran,” Tigu heard Xiulan sigh, so quiet nobody else noticed.
+
+Sergeant Han just grinned, smirking at the other man. “Well, the bastards failed… what did you get before they caught you?”
+
+The Special Inspector sighed, looking disgusted. “At first I thought they were bringing in people for more nefarious ends, some of the leads pointed to demonic influence, but it turns out it was just for rank greed. The people of the countryside are fitter and healthier than the people of the slums. They last a bit longer. That's it. That's what this entire operation is for. Slightly more productive slaves. Thousands of people just for that.”
+
+The room went silent at his declaration. Tigu felt her fists clench. The image of Lu Lu’s face, streaked with tears, filled Tigu’s mind. Thousands of people like her, trapped in cages.
+
+“So… When do we get them and bring them in?” Sergeant Han demanded.
+
+The Special Inspector grimaced. “It goes all the way up to Director Lidai,” He said. Sergeant Han’s vicious smile fell off his face. “We have only twenty men we can call upon, making an enemy of the entire city’s nobility if we act. Even though Lady Shui has promised her aid… it is not enough. There are too many places to hit, and going to the guards is sure to tip them off. But there is one way we could do this…”
+
+The man trailed off and glanced at Tigu and her companions.
+
+Tigu just scoffed. “Of course we’ll help,” she said bluntly. Xiulan just nodded along as Tigu went and promised their aid.
+
+The man licked his lips. “I can offer you nothing in reward, Lady Cultivator. Just a bunch of work for the lives of us mortals.”
+
+“… for the lives of people. People who don’t deserve to have that happen to them,” Tigu replied.
+
+The Special Inspector, who still looked infuriatingly familiar, smiled. A real, genuine smile.
+
+“Then… we have a lot of work ahead of us.”
+
+============================
+
+Tie Delan, Master of the Hermetic Iron Sect, sat alongside his wife, Mao Liquin, in a well appointed parlour.
+
+Waiting.
+
+The seat was slightly too small for him. Then again, most things were. He was twice as broad at the shoulder compared to any other man he had met. His arms bulged with muscle, and yet if he were to take off his shirt people would find that his torso was not defined at all, instead clad in a thick sheathe of fat. His cheeks were covered in freckles, and his hair was pulled into a tight bun at the back of his head.
+
+He didn’t really look like a cultivator, he knew. He took a deep breath and instead of focusing on old hurts, he turned his attention to this fresh insult.
+
+He was being made to wait.
+
+He had been in quite a good mood, too. He had just completed a commission for the Azure Horizon Sect. One that had ended amicably, with not even a veiled barb about his appearance.
+
+Then, he had been approached by a mortal noble about a Spirit Iron Vein the man had found on his land. He had been intrigued. Such things were impossibly rare in the Azure Hills, and he had agreed to the meeting to purchase it. His son needed quality materials to properly cultivate, and he was at the level where Spirit Iron would be good for him.
+
+But it had been nearly thirty minutes since they had led him and his wife into the room, and there had only been a pot of tea.
+
+The Master will be here shortly! he had been told.
+
+He felt a rough, calloused hand pat his arm. He glanced over at his wife in her fine dress. She always looked a little strange dressed like that, instead of her more normal blacksmithing apron, but that was what these meetings demanded. The wide sleeves hid her muscled arms and old burn scars.
+
+Delan huffed out a breath.
+
+His wife’s presence calmed his anger as it always did, a balm upon his volcanic temper. He hoped that the girl his boy was interested in had a similar effect. He knew Delun had inherited his temper, rather than his mother’s milder disposition.
+
+Still, he kept himself calm. There would be nothing gained from being angry.
+
+Finally, however, the door opened and the mortal stepped through, all smiles.
+
+“Sectmaster, it's great to see you, we have found the most promising—”
+
+The man was interrupted by the sound of the gates of the manor being kicked off their hinges.
+
+It was a rather distinct sound—made all the more worrying by the pair of flaring Qi that was outside the door. One felt almost familiar, with its metallic tang, but it was infused with granite and marble. The other was a savage thing, a predator.
+
+Both signatures were into the Profound Realm, and they were attacking a man Delan was doing business with.
+
+He was honour bound to come to the mortal’s defence.
+
+Delan and his wife both tensed. This would be a difficult battle… but they had to try, for honour’s sake.
+
+“Wait here. We shall deal with this.”
+
+Both unlimbered their hammers and sprinted out the doors and into the courtyard.
+
+“By order of the—” a female voice began before Delan cut her off. He slammed a foot into the ground, shaking the earth, and locking his eyes onto the two intruders.
+
+“Who dares to challenge the Hermetic—” Tie Delan froze and coughed as he got a good look at the two enemy cultivators. “Son?!”
+
+His child blinked back, his jaw dropping open.
+
+The predatory woman paused as well, her Qi blades faltering for a moment.
+
+“Oh, Handsome Man, are these your parents?” the tanned, pretty woman replied, smiling up at Delan’s son.
+
+What the hells was going on here?

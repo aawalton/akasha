@@ -1,0 +1,195 @@
+---
+id: 05143ecb-39a6-54ff-b4a7-78adb203a494
+page-type-slug: story-chapter-royal-road
+title: "v7c35: The Lady of the Lake"
+slug: 0288-v7c35-the-lady-of-the-lake
+partOf: beware-of-chicken
+position: 288
+ownLength: 2282
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3121534/v7c35-the-lady-of-the-lake"
+royalRoadId: "3121534"
+---
+
+Meiling was very quickly coming to enjoy spending time at the beach. The water was the perfect temperature; the sun was shining bright, and there were so many interesting things! Shells, plants, animals… she had found some of the reagents mentioned in the medical scrolls Jin had brought for her as a part of her betrothal gift. It was so exciting seeing them fresh, and being able to pick them herself. And yes, while she did have access to much better herbs than this back home now… these ones were still interesting
+
+,.
+
+And there were so many experiments to run!
+
+Bei Be was her assistant today; the ox and his plow practising their fine cuts on the Pale Moon Mugwort root—it wasn’t a spirit herb, but it was good for fevers. She had to see if dicing them, slicing them, shredding them, or pressing them produced the best results. His cuts were clean and precise—so clean that the plow was shaving off pieces of herb finer than a strand of Xiulan’s hair.
+
+“How is it?” she asked.
+
+‘A good challenge. It requires a lot of concentration to get the cuts this thin,’ Bei Be replied. ‘Sun Ne is very pleased.’
+
+She got the feeling that the plow, painted with happy yellow suns, was preening. She chuckled and glanced up from her work.
+
+Suyan was waiting on the beach, her eyes directed to the gentle waves of the lake. She was sitting with her feet in the water, humming a nameless tune that was being copied by the bees, pitching up and down with her like somebody was playing an erhu.
+
+Finally, there were her two boys. Wa Shi and Zhuye had originally found a very long piece of lakeweed washed up on the shore—Jin had called it kelp. Zhuye had picked it up and started dragging it around behind him— then began making excited noises, pointing at Wa Shi, and twisting the partially dried plant into strange shapes… which Wa Shi then copied, twisting his body to match the long piece of kelp, to Zhuye’s delight.
+
+It looked more like a snake than a dragon, but Meiling wasn’t about to spoil their fun.
+
+Eventually, however, the piece of kelp snapped, already fairly old. Zhuye had looked to be on the verge of tears… which prompted his brother to swiftly retrieve another, much fresher piece.
+
+She looked to them, expecting to see them playing the same dragging game. Instead, both boys were sitting side by side, chewing on another fresh piece of kelp.
+
+The skin did have a rather appealing shine to it…
+
+“Is it tasty?” she asked, and the dragon nodded.
+
+“Very! I also have an idea—slice the stem into rings of this, dress it in vinegar and soy, topped with sesame seeds… it's sure to be a new masterpiece!” the dragon raved.”You both should try it! You too, Suyan!”
+
+Zhuye clearly liked it. And it did look satisfying to chew on.
+
+Jin stepped out of the water to find them like that. All of them lined up in a row,crunching on a long strand of lakeweed. Suyan flushed and coughed. Wa Shi and Zhuye lifted a hand in greeting. The bees snapped to attention. Bei Be didn’t react, and just kept chewing, the long strand hanging out both sides of his mouth.
+
+Meiling followed Bei Be, and just took another bite. Wa Shi was correct, it was very nice to chew on.
+
+Jin smiled warmly at the sight… before that warmth switched to amusement. He straightened up and marched forward like a soldier, then dropped to one knee before her.
+
+“Scout Jin reporting to the Empress!” he declared, clasping his hands together in the gesture of respect.
+
+Meiling’s ass was covered in sand, she was wearing only her dudou, and she had kelp juice running down her chin. She swallowed her newest mouthful.
+
+Naturally, she lifted her head with regal style and grace, and drew herself up to her full majesty.
+
+“Speak, soldier," she commanded. “Is it as the preliminary reports suggested?”
+
+Jin had wanted just one of them to ‘stress test’ the link, in case venturing into the Qi Void could cause them harm.   Tianlan had been prepared to signal to Meiling so that either Washy or Suyan could jump into the lake to drag Jin back out.
+
+That, and he wanted to make absolutely certain there was nothing down there that would pose a threat to them. Jin indulged her medicinal worries, so she indulged his safety concerns.
+
+“It’s perfectly safe. I had some worries about the center of the lake… but the only danger down there is if you’re foolish enough to go into the holes,” he grimaced, dropping the act.
+
+“Oh?”she asked, interested.
+
+“You’ll get it when you see it.”
+
+Meiling nodded. “So… what is the plan?”
+
+“That is something to talk about,” Jin stated. “Suyan, could you look after Zhuye for a bit?”
+
+“Of course, Master. I shall return to the ship, and see if the Young Master wants to nap,” Suyan said, giving us a bit of privacy; and Zhuye seemed agreeable to having a rest.
+
+They quickly arranged themselves into a circle.
+
+“This won't be like the Ironfields,” Jin began. “There's nothing to change back. The people here rely wholly on the lake—and not just the people here. The rivers that flow from Pale Moon Lake are the main trade route through the Grass Sea, and the river itself is navigable all the way to the ocean, connecting with the North Twin of the Twin Rivers.”
+
+They all nodded along to his explanation.
+
+“The main plan here is to simply repair the Dragon Veins as much as possible, as stable as possible—but how do we go about doing that? We could use the modified formation that Xiaoshi once used. We could try and do something else. What does everybody think?”
+
+The question was put to them all. He wanted their input, as always, sothey discussed things together. They debated different ways they could arrange the Dragon Veins in the earth. Where they should put the formation points—and if they even needed them.
+
+They discussed the logistics of cutting into the lake’s floor, drawing their plans into the sand— with one goal, and one goal only.
+
+How to help Tianlan.
+
+Their friend occasionally spoke, in the back of her and Jin’s heads, adding her own thoughts when something felt like it wouldn’t work… but for the most part, Meiling felt the Earth Spirit concentrating—dragging forth power from where she could reach, and stockpiling it for them to use later. Experimental pushes of gold pressed at the edges of the void.
+
+Until finally, Tianlan sighed.
+
+“This is going to take a very, very long time.” she murmured into Meiling and Jin’s heads. ”Yes, it will be faster than connecting to another province, because we can use the little fragments that remain, but even if we go all out for a month… it's not going to make that big of a dent.”
+
+All of them paused to consider the predicament after Jin relayed it to the others.
+
+‘Could we cut in guides for you to follow, and then you can just keep pushing forwards without us having to be here?’ Bei Be asked.
+
+“It's a good idea… but it will be unstable at best. It needs my attention to keep the veins from collapsing… and to do that I need an anchor.” Tianlan replied. “I could do this more easily in the Grass Sea—the Dragon Veins there were also broken, but they at least had large stretches with minor blocks or disconnects that weren't as hard to repair.”
+
+By this point, the moon had risen; dinner had come and gone, and all of them were stuck scratching their chins.
+
+“Let's sleep on it, and do some more exploring tomorrow, talk to some of the locals,” Jin decided. “Get started in the morning again. For now… let's just enjoy the beautiful night.”
+
+And so they did.
+
+On the shore of Pale Moon Lake, they watched the stars again. Jin’s Qi flowed out of his body almost unconsciously, saturating the earth below him. Filling every gap, supporting everything it could.
+
+It really was beautiful to see—and honestly, really nice to smell. Her husband smelled like summer: warm wood, fresh grass, ripening fruit… and some additions. The first new scent had debuted in the Ironfields. If she concentrated, she could smell a rock in the sun, a not-unpleasant undercurrent of iron, silver, and gold.
+
+It swirled with the breeze from the lake.
+
+What a beautiful world this was.
+
+Meiling’s Qi added to Jin’s, to the resonating net around them. She reveled in it. She let it fill her senses.
+
+She gave freely to the earth. To the scent of grass, ripened fruit, metal, and very faint summer lake breeze.
+
+Meiling paused. That was… Tianlan’s scent, but not? Something a part of her, but not really?
+
+….she must be smelling a tiny little Dragon Vein fragment.
+
+She let the thought drift away, and simply enjoyed the moment.
+
+===========================
+
+They woke the next day, and began to explore in earnest.
+
+This time, Meiling joined Jin; she dove into the lake with him, chasing him through the kelp forests and between reed-filled islets. They skipped over the top of the water, and dove into the depths of the lake. Jin was right. The bottom of the lake was extremely disconcerting. The gaping holes in the lakebed, shrouded by darkness, were not her idea of a good time.
+
+That didn’t stop her from pushing Jin towards them. His yelp and flailing was hilarious.
+
+They stopped frequently, wandering into villages at random. The fishermen and farmers around the lake were nice enough people, and a husband and wife on an adventure put most of them at ease.
+
+While they spoke of the good soil, and the hardy trees, and their triumphs and failures… all of their stories came back to one thing.
+
+Pale Moon Lake.
+
+The lake dominated their lives. And everything somehow connected back to it. From watering their crops, to what they relied on for food when times got tough. It was how they got trade from the oceans, it was how they shipped their lumber to the Grass Sea.
+
+The Lady of the Pale Moon was something more like a god to them. They loved her; a steady guiding hand, with the occasional bout of mercurial temper, when she would fling storms at them.
+
+Storms that, without the sturdy walls of the city, had to be appeased with a special dance.
+
+A very familiar dance. A dance that did not flow like water, but instead was sturdy and thumping, like a blacksmith hammering into an anvil.
+
+=============================
+
+And so they spent two days there. They spoke with the people of the lake. They explored. And they began their first steps.
+
+[Divert the Waters] Jin whispered, and it was so. The water flowed around them all, refusing to touch them. They took the first step into the lake, then another then another. Bei Be’s plow, and their Qi, cut into the earth.
+
+They walked. They walked until the water closed over their head, leaving them in a bubble of air, while life continued on outside. Fishes darted past them, flowing around them too like the water. Not a single one came through the side of the bubble and into the open air.
+
+Indeed, not a single animal paid them any mind. They just walked along the lakebed like they were taking any other stroll.
+
+===============================
+
+Like the Ironfields, it was hard work. They strained. They worked, carving the pathways they could use to regrow Tianlan’s Dragon Veins.
+
+They would do what they could for now. And then they would just have to come back later.
+
+Or at least that was the best plan they had, until Meiling noticed something.
+
+When she gave to Tianlan, she smelled it again. The summer breeze off the lake. That little fragment of Dragon Vein. It had to be close—because Meiling could feel it getting stronger, as it absorbed both her and Jin’s energy. It was a rather greedy part of her friend, but Meiling fed it anyway—until she felt a tiny resonance.
+
+A resonance that felt familiar. It almost felt like the General that Commands the Winter.
+
+Meiling paused. Tianlan had told them that the General was actually a real Spirit now. A real Spirit, charged with protecting people in winter.
+
+Meiling focused all her attention on this resonance. On the part that was Tianlan, and yet was not.
+
+A web, around the lake. Tiny, crippled. Failing to form, because all its Qi was draining away into the void.
+
+But some of it was here. Prayed to. Pleaded to. Thanked, blessed and occasionally cursed.
+
+A constant that to the people of the Azure Hills was eternal.
+
+A Spirit that was not, yet could be. Something that wanted to be.
+
+Meiling caught Tianlan and Jin’s attention, and showed them what she saw. They needed somebody to keep an eye on things while they were gone, didn’t they?
+
+“That… could work,” Tianlan breathed. “All of my previous minor spirits were destroyed. Maybe…”
+
+==============================
+
+And so they toiled. They shifted the formation. They gathered their strength. Lines were carved into the lakebed.
+
+A collection of hopes, dreams, and prayers; offerings to the Goddess of the Lake.
+
+They gathered the seeds that had been planted for thousands of years, and if there was one thing they were good at… it was making things grow.
+
+Gold filled the waters. Gold filled the earth. Gold leaked into the sky, binding all those hopes and dreams together, and finally letting them be whole.

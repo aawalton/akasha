@@ -1,0 +1,243 @@
+---
+id: 97a45eaf-fac4-5a39-a13d-b9a1f8fab869
+page-type-slug: story-chapter-royal-road
+title: "v4c69: Away from the Wreckage"
+slug: 0084-v4c69-away-from-the-wreckage
+partOf: beware-of-chicken
+position: 84
+ownLength: 2863
+unit: words
+ownProgress: 2863
+publishedAt: 2023-12-14
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1442681/v4c69-away-from-the-wreckage"
+royalRoadId: "1442681"
+markedReadAt: "2026-06-29T18:54:19.561Z"
+---
+
+Che Han stared blankly ahead into the vast blue horizon as they fled from the Shrouded Mountain atop a giant flying sword that looked to be made out of a cloud. The flying sword technique was typically for a single individual, but the sword they flew on was as large as Shen Yu’s presence.
+
+It effortlessly cut through the air, the man obviously not feeling the weight of them at all. Neither did the wind touch them, their trip still and silent.
+
+Well, they were less fleeing and more just leaving, seeing as nobody tried to stop them.
+
+Or could stop them.
+
+He wished he could be more in awe of the fact that he was currently being transported by an expert above experts, and that he could see the world and the Howling Fang Mountains in all their glory, but his spirit was far too rattled.
+
+His mind was reeling. Half of him demanded he jump off the flying sword and race back to the mountain to support his family. The other half wept at the waste of it all, so many of his family lost to the systemic suppression by the inquisitors over the generations on the Patriarch’s orders. How many had been left like he had with nowhere to turn, only to end up in a first wave assault group with ‘misplaced’ support? What could cleanse such a stain?He should have stayed… But when Han glanced at his grandfather before they left, the oldman bid him to go.
+
+So he went. It made a twisted amount of sense, after all. In the turmoil of the Fox-Thunder Revelations, it was better to have at least one of their family out of the line of fire until the ashes cooled.
+
+If there was one thing the years had taught the Han family, it was how to survive the worst. A bitter taste filled his mouth at the thought.
+
+And now he didn’t know if his grandfather was alive or dead. He had felt the explosions shake the mountain and watched the mist that had surrounded it for countless years disappear.
+
+Han wasn’t stupid enough to ask why the immensely powerful cultivator, Shen Yu, hadn’t stayed to help. One didn’t ask why a legendary expert like Shen Yu did what he did. One simply accepted it was happening and rode out the aftereffects.
+
+So, Han himself was safe… as were the rest of his friends. He glanced to where Bi De was sitting beside Master Shen Yu at the front of the flying sword, and then turned to the other end of it.
+
+Yushang and Shao Heng were sitting beside Ri Zu, who was back in human form. The woman— Spirit Beast—was fussing over Bire—Yun Ren—who was still unconscious, his body swapping between shimmering like mist or sparking with lightning. From the way his face was locked in a grimace, Han didn’t envy Yun Ren at all.
+
+While at first Han had felt betrayed by the fact that they had apparently been spies… the vision in the mist had dispelled things.
+
+After all, Yun Ren had never forgotten that off-handed rant that Han’s family had maybe been suppressed on purpose. He had always seemed to pause slightly or frown whenever Han had mentioned it later. And while the man hadn’t said anything, likely to keep his cover within the Inquisition, he had found the truth out for him.
+
+Han had been right, and Yun Ren had brought it all to light.
+
+How could Han hate him after that? How could he hate any of them? Their cause had been noble—which was only natural when working in the Emperor’s name, unlike that of the Mountain’s, no, the False Patriarch’s self-serving ambitions.
+
+Han grimaced at the thought, at the reminder of how much blood had been spilled for a place that hadn’t cared all that much about them in the end. Bile rose in the back of his throat.
+
+“… is he going to be alright?” Han asked after a moment. Partially to distract from his nerves.
+
+Ri Zu paused in her work before glancing at Han. Her dark eyes were full of compassion as always… but he could tell she was nervous too. At least she had directly seen Master Lishu and his disciples safely leave the barrier and retreat into the Medical Pavillion before things got… crazy.
+
+“Ri Zu believes so,” she responded. “His Qi is undergoing tribulation, but he appears to be calming it. Though… there will be some changes.”
+
+She pulled up astrand some of Yun Ren’s hair, revealing how it was a lot lighter than his previous pure black hair. Lightning sparked again around it.
+
+Han took a calming breath and looked again at his fellows who were actually from the Mountain.
+
+Shao Heng seemed to be stoic, while Yushang looked contemplative. Neither of their faces revealed their true thoughts… but neither seemed to be outwardly panicking either.
+
+Han swallowed and looked away. A cultivator had to harden one’s heart against tragedy—
+
+He flinched as he felt Yushang’s arms wrap around him and as she rested her head on his shoulder.
+
+“Sorry for getting lost in my own head there and not noticing,” Yushang apologized, and Han found great comfort in her arms.
+
+“How are you two…?” he ventured.
+
+“Don’t you worry about me,” Yushang stated. “Your Pretty Sister hasn’t lost anything. I had no family there, and all my friends made it out fine. So! I just gotta keep going, you know?”
+
+Han nodded tentatively. That did make sense. Yushang had been an outsider as well, from a far-flung academy, and she had outright told him she didn’t particularly like the Sect.
+
+Han turned to his other sectmate, and Shao Heng’s calm eyes stared back. “Many years have I given to the Shrouded Mountain Sect in my ambition to be a hero like my mentor,” the older man began, his eyes going far away. “The Sect has stained its honour and is no longer capable of performing the task I originally joined it for. Though my debt to Ri Zu finds me here… I likely would have left to continue my duty alone, was I capable of it.”
+
+Han digested the words. They were correct. They had joined the Sect for their own reasons, while Han had practically been born into it. No wonder they were more okay than him with leaving.
+
+Han looked at the ground.
+
+“So… what now?” he finally asked.
+
+“We shall likely be heading north after Yun Ren recovers,” the deep, smooth voice of Bi De declared as he walked back to sit beside Ri Zu. It was still so strange to hear his voice coming out of the body of a chicken. “Shen Yu wished to examine the work of Elder Shenhe and make sure she properly exterminated the demons. I would be glad if you all joined us in completing this task, my friends.”
+
+Han swallowed thickly. Friends, huh?
+
+“Alright!” Yushang said, agreeing immediately. Sheo Heng nodded too.
+
+Han, however, paused… before tentatively nodding as well. He could not just sit around and mope. He needed to do something, and some action would likely help him get over recent events.
+
+Probably. He was feeling slightly hollow right now. He could feel himself slumping as everything that had happened started to catch up to him again.
+
+And then Yushang opened her mouth.
+
+“So the two of you were disguised, but what about him?” the woman said while pointing to Yun Ren.
+
+Han rolled his eyes. She was still fixated on that?
+
+Ri Zu sighed before turning back to Yun Ren, and with deft movements she wiped at the man’s face, did something to his eyes, and pulled off the large, bushy sideburns that made him look like a monkey.
+
+What was left was a relatively androgynous man with narrow eyes and far sharper facial features than Han was used to seeing. It was rather unfair. Han grouped himself and his friend in the “not so handsome” category, but he had clearly been betrayed.
+
+Han blinked. Yushang squinted. Shao Heng tilted his head to the side.
+
+“Wow, he's kinda hot,” Yushang said bluntly.
+
+Han sighed in despair, looking for another way to distract himself. “So, how did you end up entangled in all this, if you don’t mind me asking?”
+
+Bi De and Ri Zu looked at each other. Bi De nodded.
+
+“It began two years ago, when our Master encountered Zang Li in a town he was visiting…” Ri Zu said, her voice soft.
+
+Han took another calming breath. He already had had his entire world upended. Surely this story couldn’t surprise him.
+
+===========================
+
+“And then, our Great Master punched Zang Li into the next province,” Be De finished from his place now on Han’s lap. The weight was oddly comforting, and Bi De was warm. His feathers were also marvelously soft.
+
+And yet despite the comfort the rooster brought, Han still felt like he was drifting further away from reality.
+
+It turned out that no, he wasn’t prepared for things. Bi De’s master was affiliated with the Cloudy Sword Sect! Shen Yu was that Shen Yu! The very one from the stories!
+
+Han was past shocked and panicked, now he just felt numb.
+
+He needed a heavens-damned drink.
+
+Luckily, it seemed that his prayers were answered, for just shortly after the tale was finished the flying sword began to descend from the clouds.
+
+Han spared a glance over the side, wondering what he might see. Some sort of fantastical realm, rich with Qi and floating islands?
+
+What he saw instead was just a relatively normal looking valley manor. The kind of compound the rich and powerful made for themselves. There were even a few watchtowers, and as they approached a gong began to sound out and people poured out of the manor.
+
+The sword touched down just outside the gates, and Han just stared.
+
+Row upon row of stunningly beautiful women—and androgynously handsome men—greeted them, with the most androgynously handsome of all at their head.
+
+A man who looked extremely like Yun Ren.
+
+Of course, Han could not enjoy their faces, nor the lush curves of the ladies, for upon each of their heads were a pair of fox ears; and upon each of their rumps were a number of bushy tails.
+
+The instinctive part, the one that had been forged from the stories Han had been told of the beguiling foxes, suddenly blared in alarm in his mind. For a brief moment that part of him gibbered in terror, that somehow these beasts had managed to arrange everything and beguile Shen Yu and the rest of them into destroying the Sect with honeyed words and poisoned lies.
+
+And then Han remembered the feeling of the mist touching him, the charged lightning that had only honestly within it. He remembered his family being sacrificed again and again.
+
+…no. There was no beguiling here. Foxes could not read minds or so thoroughly find out his fears.
+
+And besides, how could these beasts beguile Shen Yu?
+
+Still, he did feel some apprehension.
+
+As one, the foxes dropped to their knees.
+
+“We pay our respects to Lord Shen Yu,” they all declared.
+
+“Our home is yours, Lord,” the leader of the foxes continued seamlessly. “Please rest and partake of our hospitality.”
+
+“Excellent. We all need a drink, and Yun Ren needs his rest,” Shen Yu said. The fox raised his head slightly, and his eyes widened at seeing Yun Ren still unconscious. Naked concern flashed across his face. “And you might as well make it a party. Rejoice, Nezan. One of your dreams has come true. The Patriarch of the Shrouded Mountain Sect’s karma has finally caught up with him for the sins of his ancestors.”
+
+The fox froze. “You mean…?”
+
+“Yun Ren did a splendid job. Why, I dare say he holds the record for the youngest cultivator to induce a civil war in a Sect!”
+
+The fox, Nezan, stared. And then tears sprung into the corners of his eyes. They dropped to the ground, the fox looking slightly lost.
+
+“Truly?” he asked.
+
+The man began to laugh. “It seems that our guests shall have a wonderful story to tell.” He clapped his hands. “Girls! Get our esteemed guests cleaned up! Break out the vintages! Tonight is a night for celebration!”
+
+There was a great roar and a slight ringing in Han’s ears as eager hands grasped at him. The events of the day were simply too much as he was led into a fox’s den.
+
+It was almost like he was watching himself from behind his own shoulder as he was bathed, given fine silk clothes, and led into the manor’s hall where he was instantly served a cup of wine.
+
+He stared at the liquid that was a pale blue colour. It felt… off and strange that there was such a massive party right now.
+
+He raised his cup to his lips.
+
+He spared a glance for Yushang, who seemed to already be getting along with everybody, the vivacious woman already chatting away with a bunch of foxes. Ri Zu and Bi De watched on in human form.
+
+Shao Heng clapped Han on the shoulder and he jumped.
+
+“Drink, Han,” the man said as he sat down beside him. “It may not be the best way to handle one’s demons… but for now, drink. And perhaps everything will make more sense in the morning.”
+
+Han deferred to his senior’s advice and tipped back his wine. Shao Heng did the same.
+
+… It was delicious.
+
+His entire upbringing had been a lie. His Sect had used and abused his family. He was suddenly alone in the world, with no real reference points.
+
+Han took a deep breath and turned to the pretty lady beside him who was pouring him drinks.
+
+“So… what’s it like being a fox?” he started, his words blunt.
+
+He knew the Shrouded Mountain Sect’s half of the story, and he now knew it to be false. Why not ask the foxes what they were like? Find the truth for himself straight from the fox’s tongue?
+
+The woman serving him blinked and then smiled.
+
+Her teeth weren’t any sharper than a human’s. Bloodlust and madness were absent from her eyes.
+
+“Well, what do you want to know?” she replied.
+
+The conversation started with the woman taking her fake fox ears off.
+
+==================
+
+Yun Ren awoke feeling like shit. His entire body was sore, he was exhausted, and his head felt like it did after Meiling forced him to go through that one “study marathon” after Yun Ren got the bright idea to fake being less literate than he actually was in order to get assigned less work.
+
+It hadn’t been his best moment, and after the twelfth hour the characters had started dancing around the page as his head had been stuffed with knowledge.
+
+To make it worse, there was pounding drums and music coming from downstairs.
+
+He guessed, by the decor, that they were at least somewhere safe, most likely back at the fox compound, so with a groan he rose to investigate… or to at least get whoever was playing that music to stop playing so loudly.
+
+Yun Ren staggered down the stairs and towards the sound of the party, rubbing at his eyes.
+
+“Hey,” he said as he passed one of his fox cousins, whose eyes widened at the sight of him.
+
+“Good evening, Young Master!” the woman said, bowing.
+
+Yun Ren nodded and kept walking. Young Master? He thought he told people he didn’t like being called that.
+
+He reached the hall quite quickly, his head a bit less sore, and his stomach growling. Hopefully there was some food.
+
+He walked through the open door.
+
+The entire room froze at his appearance, all of the foxes and his friends. Yun Ren raised an eyebrow at the sudden attention. Nezan’s already wide smile became somehow even wider from where he was serving Shen Yu drinks.
+
+“That is a fantastic look, dear nephew,” Nezan said.
+
+Yun Ren blinked. “The hells are you talking about?” he demanded.
+
+Nezuhua, the leader of the foxes from the brothel, pulled up a mirror.
+
+At first, Yun Ren suspected something like one of Meimei’s pranks. She was the type who would dye people’s hair while they slept; and the white streak in his black hair was certainly new. But something else caught his attention.
+
+Yun Ren slowly reached up and touched the two fuzzy ears poking out of his head. They were warm, soft, and he could feel them—and then felt something grab a part of his anatomy that wasn’t meant to be grabbed.
+
+Yun Ren yelped and spun—only to find Yushang holding a tail. His tail. The woman was rubbing her face against it, her very flushed face; Yushang was clearly wasted out of her mind.
+
+“Huuu? It's real. An—hic!—soft!” Yushang slurred… and then started rubbing drool in it.
+
+Yun Ren reacted instinctively. There was a snap and a pop; the smell of ozone filled the air, and Yushang was launched off his tail with a spark of electricity.
+
+…That was certainly new.

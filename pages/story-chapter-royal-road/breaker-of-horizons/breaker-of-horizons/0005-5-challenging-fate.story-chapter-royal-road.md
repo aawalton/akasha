@@ -1,0 +1,131 @@
+---
+id: 35b21e3a-e725-5d3e-90da-579d5ce02d56
+page-type-slug: story-chapter-royal-road
+title: "5. Challenging Fate"
+slug: 0005-5-challenging-fate
+partOf: breaker-of-horizons
+position: 5
+ownLength: 1944
+unit: words
+publishedAt: 2020-05-18
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/498038/5-challenging-fate"
+royalRoadId: "498038"
+---
+
+It was finally lunchtime. The Academy had a massive cafeteria that was capable of feeding the entire student population, but there were also two restaurants if someone fancied a quieter place, and the library also had a cafe. That was where we had decided to hunker down and trade notes about what had happened in our respective Advanced Glyph classes.
+
+"And then she told us that you actually can invent a glyph of ultimate power and effectively become a god, and that was just at the start of the lesson. I lost count of how many epic world-changing facts she dropped on us after that. I don't even know what else I don't know anymore." I ran a hand through my hair in frustration.
+
+"Hey, relax," Kevan stopped shovelling food into his mouth long enough to look up at me. "You're making me nervous."
+
+"But don't you get what this means?" My food was largely untouched. My hands refused to grip the utensils — they were too busy gesturing to signal my agitation. "Some evil or crazy person can invent a glyph of ultimate power and—"
+
+"Well, nobody's done it yet, right?' Jerric cut in. 'Think about it — if it were so easy, why hasn't someone like Reeves already gone ahead and made himself a god?"
+
+"Who's to say he hasn't already done it?" Devon muttered darkly.
+
+"I think if someone already invented this theoretical glyph of ultimate power, we wouldn't be sitting here eating lunch on a fine afternoon in the Academy," Jerric insisted. "I mean, really, if some guy had the secret to ultimate, god-like power, wouldn't he have literally taken over the world long before now?"
+
+"If it were a guy, maybe. But what if it were a girl? A guy wouldn't be able to resist showing off, but a girl would be able to keep the secret," Lynus said, grinning.
+
+Kevan snorted at his brother. "Please, a girl with ultimate power? She'd have all the men shackled and made into slaves."
+
+I shook my head and half-heartedly spooned some food into my mouth. "None of you are taking this seriously."
+
+"I get it," Ambrose said. We all looked at him with a little surprise — so far he hadn't spoken up much, and this was probably his third or fourth time talking in front of everyone. He flushed a little with the sudden attention.
+
+"It's serious," he continued softly. He looked like he was going to say more, but then he shook his head and bent over his plate to continue eating.
+
+"Thus saith the Top Scorer's roommate," Kevan deadpanned. Nobody laughed.
+
+After that awkward pause, we all lapsed into silence as we ate. Now that I was paying more attention, Ambrose did look quite bothered by something. Jerric seemed to catch the mood too — I saw him looking curiously at the quiet, black-haired boy. His eyes flicked over to me and he raised an eyebrow as if to ask me if I knew what was up with Ambrose, but all I could offer was a bemused shrug in response. Maybe I'd talk to Ambrose about it when we were alone — he seemed to be a little intimidated by the group setting.
+
+Jerric cleared his throat and leaned in. "So, anyway, I was thinking about what Reeves said on the first night. You know, about the Chosen One," he murmured.
+
+I sat a little straighter, eager to hear someone else's thoughts on the matter. The others looked equally interested. Kevan's eyes swept over the place to make sure no one was listening in on us.
+
+"Something doesn't add up. The Prophecy was made about two months back, right? And there was a positive identification of the Chosen One only last week. But Reeves said that he and his team have been working on that memory weaving for years."
+
+"I wondered about that too," I said in a low voice. "Either he's lying about how long it took, or the Prophecy and the Chosen One were made and identified long ago."
+
+"I don't see why the Chosen One's identity would be made public knowledge, only to be wiped from everyone's memories. I mean, what's the point?" Jerric asked.
+
+"To protect the Chosen One?" Devon offered.
+
+Jerric shook his head. "Secrecy is the best protection, isn't it? Why reveal the identity at all?"
+
+"Should we be talking about this?" Ambrose cut in, sounding a little panicked. For the second time that afternoon, we all looked at him in surprise.
+
+"I-I... we shouldn't," he stammered. "Reeves warned us."
+
+Kevan laughed a little unkindly. "And there's the one who's afraid to break rules! Our group is complete! Figures he'd be rooming with the Top Scorer."
+
+"Alright, let's take it down a notch," Jerric said placatingly, one hand raised to forestall me. My retort died in my throat and I settled for shooting a glare.
+
+I turned to Ambrose instead. "Reeves said we shouldn't speculate about the identity of the Chosen One, but not about the whole situation. I mean, frankly, I couldn't care less about the Prophecy or who the Chosen One is. I want to talk about how he did it! That's arcanophany on a truly legendary level!"
+
+"You don't care about the prophecy?" Devon asked incredulously.
+
+"Why would he? It's only the future of the Empire," Kevan snarked.
+
+Lynus put a restraining hand on his brother's shoulder, and Kevan eased off a little. "Really, Caden?"
+
+"Look, all I'm saying is—"
+
+"Fates, Caden, you're not telling me you're one of those people who still don't believe in Prophecies?" Jerric's tone was cautious like he was leery about getting into a conversation with a mad person.
+
+This was getting annoying. It wasn't what I wanted to talk about, but I thought I might as well get it out there since the topic had been broached. "I know minor prophecies exist, and I know it's a branch of arcanophany, and I know there are well-documented studies about how they do skew the probabilities of things... but the big 'P' Prophecies? Seriously?"
+
+"No, are you serious?" Devon actually stopped eating to address me this time.
+
+"So you're telling me you believe the Fateweavers are really real, and not just some Empire propaganda to scare enemies and insurgents?" I shot back at him, but my eyes darted between everyone else.
+
+Jerric sighed. "Ok, maybe we shouldn't talk about this."
+
+"No, I want this out there now." I got to my feet, feeling the heat rising in my face. "I don't believe the Fateweavers exist. I don't believe that our fates are in the hands of some mysterious group of arcanists who can determine what happens. I believe that you, me, all of us, have a choice about what happens to us, whether we're talking about mundane prophecies or the fabled Big Ps."
+
+"Obviously not what Reeves thinks," Kevan drawled.
+
+That brought me up short. I had expected the arcanists in the Academy to shed a more technical light on the matter. My own parents didn't subscribe to the belief that Fateweavers were real, and I had attributed that to their education. Discovering that every single one of my dorm mates actually believed it was disappointing. But now Kevan had pointed out that evidently even someone with as much knowledge and power as Reeves was taking the idea of a Prophecy seriously - enough to have spent (according to him) years of his life to develop a way to wipe memories about the Chosen One it referred to.
+
+"Let's... agree to disagree for now," Jerric said, looking from me to the others. "I can't pretend to know all the answers, and honestly, after what we've learnt in just one morning, I think it's safe to say that full-fledged arcanists probably have a different view of Fateweavers than laypeople. So maybe we should all put our own preconceived notions aside, and see what comes up in our studies."
+
+I nodded mutely, feeling rather irritated that I had lost my cool so easily. I wasn't really sure why I was taking it all so personally.
+
+We were all mostly done with lunch by then. I suddenly didn't feel like sitting with them until it was time for our next lecture, so I made my excuses and went off.
+
+A minute later, I heard footsteps hurrying up from behind and turned to see Ambrose jogging up to me. "Hi," he said, not quite meeting my eyes.
+
+I took a deep breath. "What is it?"
+
+"Nothing, just... what you said, about choice. I get it."
+
+"Look, you don't have to—"
+
+"No, I mean it," Ambrose cut in, suddenly more assertive. "I get it, and I... thanks for saying that. Maybe I don't believe you, but I think... I hope... that maybe you're right."
+
+I frowned, not quite sure where all this was coming from. He didn't seem to need a reply, so I nodded and continued walking slowly. Ambrose fell into step beside me.
+
+I decided to open up a little. "My parents received a prophecy from an anonymous source when my sister was born. It had the usual markers, so they knew it wasn't a hoax. It was a real prophecy. Not one of the Big Ps, but still..."
+
+Ambrose's eyes widened a little, but he chose not to comment and indicated that I should continue.
+
+"It was pretty straightforward. Just six words. 'This daughter shall be your ruin.' And my grandparents on both sides got involved. They're hard-line prophecy supporters who try to ballot for slots to get readings, so obviously they wanted to get rid of my sister."
+
+"Get rid...?"
+
+"Father's side wanted to put her up for adoption. They thought there was a high chance that abandoning her on the streets would make it more likely for the prophecy to be fulfilled. My mother's side... well, they wanted my parents to kill her, though they never said it in so many words."
+
+We walked in silence for awhile. Ambrose seemed to be processing it, whereas I was trying to get ahold of my emotions.
+
+"She's still alive, she's still with us, so... it's kind of a happy ending. My parents discussed it with me, too, but I was really young at the time so I didn't really get how big a thing it was until I got older. But they chose to keep her and raise her. And they haven't done it yet... but one day they're going to tell her about the prophecy and show it to her."
+
+"But why? Aren't they afraid?"
+
+"Yes, and no." This time, I stopped and looked at Ambrose full-on. "They raised her with all the love they could shower on her, and I have grown up with a girl who is smart, sweet, strong, and kind. She irritates the hell out of me sometimes, but I know she would never hurt us. Do you think someone like that is doomed to bring ruin to her family just because of six words that came on a glyphed-up paper?"
+
+"Is that why you're here, in the Academy?"
+
+I blinked away some tears. "You know the essay we had to write in our entrance exam? I did mine on the topic of whether or not the Fateweavers are real. And it got me in. I'm here to study everything I can about arcanophany and either I prove they aren't real, or I learn how to unwrite whatever fate itself has to say. Because I will not let six words decide what happens to my sister, or my family."
+
+Ambrose nodded solemnly and put a hand on my shoulder. "I'll help you."

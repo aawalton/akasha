@@ -1,0 +1,127 @@
+---
+id: 3eda519f-98cd-54e4-bb02-af59406c8072
+page-type-slug: story-chapter-royal-road
+title: "v6c13: Enlightenment Part 2"
+slug: 0201-v6c13-enlightenment-part-2
+partOf: beware-of-chicken
+position: 201
+ownLength: 1943
+unit: words
+ownProgress: 1943
+publishedAt: 2025-04-09
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2186342/v6c13-enlightenment-part-2"
+royalRoadId: "2186342"
+markedReadAt: "2026-06-29T18:58:13.963Z"
+---
+
+“I’m sorry, Tianlan,” Xiaoshi whispered before breaking the formation.
+
+The world broke with it.
+
+Xiao Ge retreated from the memory with a frown on his face. He had examined a few memory crystals like this; the doomed memories of peoples overrun by the Great Enemy. The tale of Xiaoshi and Tianlan was little different: only somehow their descendants had survived instead of being destroyed. Ge could not help but bow his head before the fallen. He would light incense for them back at the Sect, and add their names to the Wall of the Martyrs.
+
+“Sorry we didn’t show you the whole thing, but I promised a friend that some things would stay secret,” Young Jin said, his voice soft.
+
+He had not seen the tale from the beginning, but an abbreviated viewing of the two in this tale, Xiaoshi and Tianlan, Dao companions. There had obviously been some parts of the recording that Jin and Shen Yu had kept secret—but of course there were. A crystal this old was a treasure, and likely the source of the techniques that enabled Jin’s cultivation to grow so swiftly, as well as his ability to repair the Dragon Veins.
+
+“Think nothing of it,” Ge replied, his voice similarly quiet. That kind of knowledge was not something he could ask for. “That I was privileged to witness this much despite past events is a statement of trust we will work hard to be worthy of.”
+
+Yet in spite of the fact that the story was not completely new to Ge, it did shed light on a great many particularities of the province.
+
+“This formation, and the explosion that followed… it is the reason for this province’s woes, is it not?”
+
+“Yes. The Demons and the resulting explosion destroyed most of the Dragon Veins of the province, consumed all of the Earth Spirits, and from what we can tell, damaged the people’s very souls and addled their minds to the point where most went mad.”
+
+“A thousand curses upon the Great Enemy,” Ge let out a breath at the senseless destruction.
+
+The Azure Mountains had been a powerful, developed province, and now it was a withered, ruined husk of its former glory. If the province hadn’t nearly fallen, how strong would it be now? Would it still be a shining jewel, another powerful province spoken of in songs about the Age of Heroes? How different would the world be? But alas, it had happened. The Azure Mountains were now the Azure Hills… and only now was it starting to recover. “Thank you for showing me this. It answers a great many questions.”
+
+Young Jin bowed his head, while Shen Yu scratched at his beard.
+
+“This crystal also got me thinking, brother,” Shen Yu began. “The Qi Wastes. We thought most of them were simply natural, strange spots on the world born without Dragon Veins through some quirk of the world’s construction. But what if they are not? What if the voids are where the Great Enemy won completely and consumed that section of land, Dragon Veins and all?”
+
+Xiao Ge paused. Deep, deep in the Cloudy Sword Archives, in the most esoteric musings of the Honoured Founders, there had been the hypothesis that the Qi Wastes were artificial. Even though the Dragon Veins in the nearby provinces looked to naturally avoid the Wastes, what if instead of avoidance it was some manner of healing mechanism? Ge was quite certain Shen Yu had never seen those musings. And to have him also speak of them? That was significant.
+
+“Then they would be wounds on the world, continuously drawing Qi out of it—like a cut that cannot heal, constantly draining the planet itself of its vital forces.”
+
+Shen Yu nodded grimly.
+
+It was common knowledge that the world was weakening. Some declared it the cultivators’ fault for overconsuming resources;others stated that it was merely natural, that the primordial forces that had created this world simply dissipated with time.
+
+“But if that is the case, why is the Sea of Snow not devoid of Qi? Nor the main staging grounds? Or other locations where the demonic armies reigned supreme?”
+
+“If they already controlled it, they might not have needed to consume the land. They could live off it in a more natural way. But in locations held by their enemies?” Shen Yu offered. “Alternatively, we know that in the Azure Mountains they needed to use a formation in the center of the province. What if the demons need a specific location to consume the Dragon Veins? A nexus? And if there were Mist Walls… perhaps this nexus could be hidden.”
+
+Elder Ge sucked in a sharp breath. All of this made sense. Not a weapon of first choice, but a denial tool used against their strongest enemies. Curse their land and slowly weaken the world until it could be taken.
+
+“This is a troubling hypothesis, brother,” Ge stated.
+
+“It is,” Shen Yu agreed.
+
+Xiao Ge grimaced. This would require extensive study and testing… and they would have to tell the Emperor. Ge straightened his back and clasped his hands together, palm over fist. “Rou Jin, you have already given us more than we could ask for, but I must ask anyway. Might we make a copy of the memories you just showed me? For our Sect’s Archives… and for the Emperor.”
+
+“If you both think that's the best course of action,” the young man easily agreed.
+
+“He won’t bother you about this,” Shen Yu reassured him. “The world has been this way for thousands of years. It shall not drastically change in the first days of new information meeting old theories.”
+
+Ge nodded approvingly. Young Jin might have preferred silence, but he had the upright moral bearing that befit the Sect he had left. He would send them on their way with the information simply because it was the right thing to do, and in return Ge and Shen Yu would do their best to shield him from any attention—perhaps that could be the reward they asked the Emperor for on his behalf, a boon the Son of Heaven would be honorbound to grant. His priorities were strange for his age… but he knew what he wanted out of life and was nonetheless willing to act even when it might disrupt those goals. That was good; more than good, and as rare as the family he had surrounded himself with.
+
+They removed themselves from the memory crystal, the world shifting back to reality. Back to a warm house. The transition was almost jarring after the cataclysm he had seen in the crystal.
+
+“I always find the roof is a good place to sit and mull things over,” Jin said, clearly understanding. Ge needed a moment to contemplate what he had just witnessed.
+
+“My thanks,” Ge replied, taking the young man’s advice by politely bowing before taking his leave.
+
+Young Jin was right; sitting on the roof and watching the setting sun provided a wonderful place for contemplation. He reviewed what he had seen, as well as Shen Yu’s own hypothesis… and could find no real fault in his Sworn Brother’s words.
+
+The Qi Wastes were to be heavily inspected, the Emperor informed, and perhaps… this mystery might be solved. Perhaps, blessing of blessings, the Qi Wastes could be restored also.
+
+All of this, from one source. How strange the luck of a cultivator was. A thousand years of murky peril only for a spot of fortune to clear the way.
+
+Ge let out a breath and turned his thoughts to the world around him. To the cold air, to the soft, gentle Qi.
+
+It really was beautiful.
+
+As he thought that, he felt a small, golden pulse from the web of Qi beneath the earth here. He felt it shudder, and for a moment he could see the web that connected everything here… and then once more it disappeared. Just under the surface.
+
+For a moment, his curiosity nearly got the better of him. He nearly probed deeper, but Shou’s voice interrupted him.
+
+“What?! How long have you had—you do know that these are Divine Peach saplings, correct?” Shou’s voice interrupted his thoughts. The man was standing beside the walkway, staring at a large drift of snow… or rather, what was under the large drift of snow.
+
+“Wa Shi brought them back. They were really tasty,” Young Jin said, a little smile on his face. Shou whipped his head up to glare… before he suddenly huffed.
+
+“Well, I finally see the resemblance to Shen Yu,” he grumbled at Jin’s smirk. Shou, however, didn’t seem too upset.
+
+“I’m guessing they don’t make you immortal?” Jin asked.
+
+“A minor lifespan extension, random for each person the first time they eat a peach. One man may get ten years, another may get a hundred. Eating more has no effect, but their true value lies in improving vitality. Even a mortal who should be bed-bound because of their age will be able to run and jump up around until the day they die,” Shou explained.
+
+Ge shook his head and chuckled as the two once more started discussing the small trees beneath the snow.
+
+He pushed the golden web out of his mind and simply watched the two men as they talked, and instead reflected on the day. Cai Xiulan was interesting, and Ge had many new theories to discuss with Shou and Yukong. He looked forward to the long night ahead, discussing this new discovery and formulating plans of action around it.
+
+He hated to think it… but it was almost good that Rou Jin had left the Sect. Without that kick in the rear, it might have been years still until they found out the state of the Cloudy Sword Sect. Instead of being with his comrades, he would have been on some other adventure alone again, instead of working for the betterment of the Sect with his brother and sister disciples. None of this information would have come to light, and the infestation they had come to make war against would have festered and erupted on its own terms instead of being… lanced.
+
+And wasn’t that a sobering thought?
+
+===============================
+
+In the depths of the memory crystal, Shenguashi sulked. It looked up at the point of connection, where the memories were being copied and transferred.
+
+Nobody here wanted to be Emperor. All of them had refused, each and every single one! Why, why did they refuse?! The new contractor of the Empress, the rooster who had found him, and now the men and women with bright, shining souls who would be perfect for rulership.
+
+Frustrating! Maddening! It could not fulfill its purpose!
+
+Shenguashi slumped, exhausted. It could feel itself fraying at the edges.
+
+A slight jostle rocked the crystal. Shenguashi turned its attention upwards to where a flow of memories was brushing against a new, empty crystal.
+
+They were copying the memories again? Bubbles of thought and emotion drifted upwards, the newer copies not as intense or vivid for having been transferred.
+
+Shenguashi sighed. They had copied the memories a lot already. Bits and pieces that would not contain the truth, and could not fulfill the true purpose of the crystal. None of them would have it, and so they would be useless to restoring the Azure Mountains!
+
+Shenguashi paused. It glanced up at the stream of memories. Then, slowly, an idea formed.
+
+The Spirit could see the Qi guiding the memories. Slowly, carefully, the Spirit infiltrated the stream of memories.
+
+If the ones who found it kept denying the mantle of Emperor…then Shenguashi would have to travel to find one.

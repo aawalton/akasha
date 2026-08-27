@@ -1,0 +1,149 @@
+---
+id: be712379-0657-5acd-9eaf-87d2afa6732a
+page-type-slug: story-chapter-royal-road
+title: "v4c19: The Plans of Men"
+slug: 0027-v4c19-the-plans-of-men
+partOf: beware-of-chicken
+position: 27
+ownLength: 2044
+unit: words
+ownProgress: 2044
+publishedAt: 2023-06-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1260111/v4c19-the-plans-of-men"
+royalRoadId: "1260111"
+markedReadAt: "2026-06-29T18:52:15.665Z"
+---
+
+At the news that came in the morning that they had secured the Verdant Blade Sect’s backing, the rest of Tie Delun’s new companions had cheered and he had smirked, his arms folded and his back against the wall as the others shared massive grins.
+
+Two sects now supported them. And hopefully soon to be a third. His parents were in Grass Sea City, their next destination, but he wasn’t really worried about that outcome. The Sectmaster of the Hermetic Iron Sect would take one look at him and then ask what would need to be done. As long as they could progress their craft, they would agree.
+
+And if things did go wrong with their plan, they would have time to prepare for any unexpected circumstances. Few lived in the Iron Fields. They had never had to politick as much as the Sects of the Great Grass Sea. They had their little secluded area, surrounded by steadily rusting iron pillars, and their craft made them invaluable for the Sects that could not produce their own weapons. It saved them the stigma of buying from mortals.
+
+It did not take long before messengers were already being sent, bearing both the seals of the Verdant Blade and the Misty Lake Sects; messages officially calling for the conclave to be held at the Dueling Peaks, and of the recent change in leadership of the Misty Lake Sect.
+
+For having called Xiulan’s plan mad… it was looking less mad by the day. He felt the shell around his heart cracking, and the stirrings of hope truly filled him.
+
+“Ha! The outcome was never in doubt!” Tigu boasted.
+
+“Not Sectmaster? Oh my, it looks like I’m the leader now. How can I follow a woman who ranks below me?” Xianghua teased. Delun’s lips twitched at the teasing.
+
+“My father is still perfectly capable of leading the Sect.” Xiulan defended. "I could have if I had to.”
+
+“I dunno, sounds like quitter talk.” Rags jabbed.
+
+”All in favour of supporting Xianghua?” Delun drawled. He generally didn’t get involved too much in the banter… but the opportunity was too good to pass up. Loud Boy’s jaw dropped before he let out a bark of laughter, and Rags clapped him on the back.
+
+“Aye!” Tigu said immediately.
+
+“Aye!” Rags and Loud Boy chorused.
+
+“Aye!” Yin said from where she was scratching Shaggy Two. The Torrent Rider just looked a little uncertain.
+
+“Uh… I think you’re a good leader, Miss Xiulan,” the kid said, his voice earnest.
+
+“Well, except for one, it looks like we’ve deposed you, Blade of Grass.” Delun declared.
+
+“And I’ve got the last hold out.“ Yin took the Torrent Rider in a headlock and ground her knuckles playfully into his skull. The kid squirmed.
+
+Xiulan rolled her eyes. “Alas, I’ve been betrayed, now I must rescue my loyal subordinate, flee, and plot revenge.” There were several chuckles as Xiulan chopped Yin on the head and pulled the Torrent Rider away from her. “But that sounds like a thousand other stories… so instead, let me show you around my home; I didn’t get to do so properly yesterday.”
+
+And so, they went out into the Sect. Delun thought it would be like Xianghua’s tour… but instead they were actually exploring and witnessing things that Delun was rather certain outsiders didn’t normally get to see.
+
+Like the forging of one of the Verdant Blade Sect’s signature green blades.
+
+“When a disciple proves able to levitate their swords, one of these are made for them. This one will be Huyi’s.” Xiulan said.
+
+It was truly a privilege to watch the old smith work. The man was two hundred and fourteen years old, and had been the Verdant Blade Sect’s smith since he was twenty. The man was mute; a scar across his throat telling that story.
+
+The wizened master smith was at the Third Stage of the Initiate’s Realm and looked to be more wrinkle than skin… but still had bulging muscles on his thin frame.
+
+Grass was involved—a single blade of Heart Grass was pressed in between two sheets of cherry red steel, the spiritual herb sizzling, but not burning away under the heat.
+
+Delun watched as the single blade of Heart Grass was hammered and folded into the metal, the potent Spiritual Herb swirling with vital green energy and colouring the steel. It left the end result slightly translucent, looking more like jade then metal.
+
+It was a display of trust he had never expected, and one he was grateful for. In fact, he was already inspired. While his ancestors may have been masons… he couldn’t give up the forge. Not entirely. Like Xiulan, he knew his path forward. Not wholly in the past, and not wholly the future.
+
+They bowed to the smith and exited the little workshop.
+
+“That was amazing!” Tigu declared.
+
+"The colour was like Master’s glass. It's strange that it's metal, still.” Yin said. “What do you think, Handsome Man?”
+
+“Well, I don’t know much about its properties but I believe…" Delun began as he started talking about the forging techniques the man used, with the rest of them listening intently.
+
+He was quite glad to be traveling with them.
+
+Especially traveling with Tigu.
+
+He now understood what Master Jin meant. He loved Tigu, he truly did… but being her friend was great too. He was learning so much about her! Her mischievous, prankster side, as she shoved him into a mudhole, then jumped in after him, her laughter bright and cheerful. Her kind, caring, nurturing side, as she helped Zhang Fei the Torrent Rider correct his stances with the kind patience of a true big sister. He got to see her stern and serious face as she stood to the right of Cai Xiulan, her arms folded and ready to back the woman to the hilt.
+
+Well, he was getting to see a lot of everybody. The quiet introspection of bombastic Xianghua. Rags and Loud Boy reading together, the older Rags stumbling through a dense text on logistics of all things, while Loud Boy occasionally chimed in to help. Talking about mining with the Torrent Rider—and commiserating about how disgusting it was to refine silver, with all the corrosive chemicals they needed to use. Teaching Yin how to forge weapons had been interesting.
+
+Delun knew he was smiling as they hiked all over the Sect. They listened as Xiulan narrated passages from her childhood and as they walked through the beautiful Verdant Blade Sect Manor.
+
+It… it was a good day.
+
+“And this area we thought was for meditating, but it's actually Ancestor Ruolan’s bedroom.” Xiulan said as they entered a relatively barren room. There was a large, circular stone dias near the back of it, looking like a perfect seat for meditation. “There is little special about it, but this is one of the few formations that still work.”
+
+Xiulan pressed her hand to the wall, and the stone dias started slowly spinning of all things.
+
+“...what's it for?” Yin asked.
+
+“Nothing. I think it just spins. My Ancestor’s bed was circular, and that's where it sat.”
+
+“Why would she want her bed to spin?” Rags asked, confused.
+
+“Maybe to sleep in certain directions to follow the sun?” Yin guessed.
+
+“But you’re always supposed to sleep with your head south, aren't you?” Loud Boy replied.
+
+“I don’t know, the memories always cut out when they entered this room.” Xiulan said. “It's a bit amusing though.”
+
+Even with the crystals, it appeared many secrets of the past would remain just that… Secrets.
+
+The next day, they were on the road again, heading for Grass Sea City. Their eyes were fixed on the horizon.
+
+But Delun couldn’t shake the feeling that a storm was approaching.
+
+===============================
+
+A dark-haired woman sat behind a man in a dimly-lit, luxuriously appointed room. She ran her hands along his back, her skilled, delicate fingers relaxing tensed muscles.
+
+It was an effort for the woman to keep her face serene as she worked, because inside she was seething with frustration.
+
+“Hmph. The Azure Hills were a most disagreeable place.” Elder Zang Zeng of the Shrouded Mountain Sect grunted, looking around the room. “Though this place is barely better.” Compared to the luxury the man was used to, the dark-haired woman supposed this place looked like a beggar’s house.
+
+“Indeed they were, Master Cultivator.” The woman replied. Zeng was right about that; if she wasn’t already covered in Qi suppressors, the feeling of getting drained from the province’s air would have been even worse than it was. In some ways, she was thankful that the man had retired to Yellow Rock Plateau.
+
+In other ways… She was rather upset that he wasn’t currently stomping around the Azure Hills. That's what she had thought his plan had been. Zang Zeng of the Shrouded Mountain Sect was known for his temper and blunt way of doing things. Instead, the man had acted rather outside her expectations. She had carefully stoked his rage and paranoia to a delightful simmer, her poisons and curses working upon his mind… yet instead of falling upon the Azure Hills like a hurricane and goading out the cultivator who had killed Lu Ban, if he truly still resided there, Zang Zeng decided his course of action was to be subtle.
+
+The men he had hand picked were surprisingly good at not being idiotic meatheads. She would have even accepted a few of them as her own subordinates, such was their skill.
+
+Instead of a hurricane, they were progressing slowly and steadily, getting the lay of the land like they were infiltrating a sect instead of smashing apart the insects of the Azure Hills.
+
+The woman prided herself on her patience… but this was a bit much. Had she gotten the doses wrong? Why was he acting like this? Had she perhaps stoked his paranoia too much?
+
+“You may speak, girl.” Zeng stated blandly, and she paused. Apparently she wasn’t as good at hiding her questioning look as she thought… and thetiny, invisible curses she had placed on him made him more agreeable to any of her requests. Agreeable only, however. She wasn’t in complete control of him. That would be impossible as things were right now. It was difficult, making it subtle, but she was the Bloodseed of the Divine Demon Poison Arts. She was equal to this challenge, and then some.
+
+“You are the great and powerful Zang Zeng, my Lord. This humble servant merely questions the need for these… games. They are beneath, your majesty.” Especially after all the time this pompous asshole had spent deriding his fellow Elders as too cautious.
+
+The man had the temerity to scoff at her. She wanted sorely to drive a liquifying toxin into his brain.
+
+“What? And go stomping around like a  fool? There is something... off. Something foul that seeks to undermine the strength of the Shrouded Mountain Sect and of the Zang Family. Our intent shall be as inscrutable as the mountain itself; and the rat that lives here won’t notice us approaching its hole." His voice was calm and confident, but she saw the dark emotions swirling behind his eyes, and she grimaced internally.
+
+She had pushed too hard. She would have to ease off and once more sit back and let things play out.
+
+It was somewhat ironic that this man was as infuriating as Lu Ban, and so much like him that they could have been father and son… instead of father and parasite.
+
+“Your words and actions are of course correct, Master Zang. Forgive this servant for not being able to see your masterful plan.” She said, and the man nodded.
+
+"At least you are smart enough to be enlightened by my words. Now, go and make me some tea, then you can continue your ministrations.”
+
+She was going to kill him eventually. She was going to kill him eventually.
+
+“Of course, Master.”
+
+Slow. Steady. Subtle. That was her way. She could be patient… but this new aspect to her plan was unexpected.
+
+Well, hopefully they would be able to get something… otherwise she would have to start really pushing and invite ridicule from her… fellow disciples after saying how well things were going.

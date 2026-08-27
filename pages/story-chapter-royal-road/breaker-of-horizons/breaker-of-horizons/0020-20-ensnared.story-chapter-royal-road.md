@@ -1,0 +1,105 @@
+---
+id: 0aa3d504-83e6-5dd8-92fe-fb9e06207663
+page-type-slug: story-chapter-royal-road
+title: "20. Ensnared"
+slug: 0020-20-ensnared
+partOf: breaker-of-horizons
+position: 20
+ownLength: 2134
+unit: words
+publishedAt: 2020-07-09
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/522036/20-ensnared"
+royalRoadId: "522036"
+---
+
+After the mental and emotional blitz of the first week, I didn't know if I was prepared to face the next. The weekend had barely given me enough time to come to terms with all the things that had happened. By unspoken agreement, everyone in the dorm focused only on practising how to vent and seal out ambient arcana, and stayed away from any more arcanic infusion.
+
+I had personally settled on the term 'arcanic infusion' to refer to the compulsion/empathy thing that we had all experimented with, but it still didn't sit well in my mind. It was a general description of how the thing was accomplished - by infusing arcana with emotion, or with thoughts, and using the arcana as a vessel or channel to transmit those things - but it didn't seem to serve as a proper name for the technique itself. I wanted to get Ambrose alone so we could talk about it, but somehow the rest of that weekend never presented any opportunities for such an exchange.
+
+Ordinarily, things like that wouldn't have given me pause. However, this continued to nag at me, mostly in the form of Reeves' voice sonorously repeating the phrase in my head, where it was quickly taking on an axiomatic quality — precision is important. It felt like I was missing something vital, and that I was courting danger by not having the right term to use.
+
+At the very least, the six of us had gained something out of that ill-fated experiment with infusion. When we found ourselves seated in Reeves' lecture once again, we all managed to stay in our seats enough though Reeves had leaned more heavily into the infusion, making the air grow taut with power. More than half the lecture hall had been taken by surprise at the increased intensity, and at how it was now going on for several seconds instead of being a momentary burst.
+
+I was struggling even though I had already fortified myself ahead of time with an auric shield (another term of my own invention, but this one felt right) to keep the ambient arcana firmly shut out. Devon was particularly taxed - his neck visibly reddened as he focused on maintaining his auric shield against Reeves' assault. Jerric had closed his eyes and looked like he was trying to ignore a loud noise. The twins had identical frowns that made it look like they were glowering at Reeves, which was slightly comical. Ambrose merely looked irritated.
+
+"Some progress," Reeves said approvingly as he relinquished his hold on the ambient arcana. He nodded at the six of us in the first row, and the other scattered students around the hall who had managed to resist. Out of the corner of my eye, I spotted Triss collapsing into her seat with a scowl, and a small smile tugged at my lips as I thought about what my sister might think or say about this Triss failing to uphold the honour of Trisses everywhere.
+
+"But more work to be done for the rest. And it would do well for those who succeeded today not to rest on their laurels," Reeves added with a hint of menace. It was clear that he would hit us even harder next week.
+
+For a moment, Jerric looked like he was going to raise an objection, but his nerves failed him. He spent the rest of the lecture looking greatly vexed, but I couldn't tell if it was self-directed frustration or if it was because this lecture's material was even more challenging than the last. Reeves spoke at length about the theories behind the origin and nature of arcana, then started tying them into modern practice and talking about how holding to certain theories seemed to make arcana behave in different ways for a person. He introduced the term 'frame-shifting', which involved adopting a different perspective of the nature of arcana in order to take advantage of the desired qualities and attributes of arcana that seemed to be tied to each perspective. It was like being told that you could think of water in a certain way and thereby turn it to ice or steam.
+
+The Advanced Glyphs class was no less demanding. Celwyn spent half an hour going through the semantics of some of the glyphs in the Basic Set, and we learned that they could be used in ways that were not immediately obvious. The standard glyphs for directions, for instance, could be used to refer to abstract spaces as well. We learned that the trick with the light globe she had pulled during our first class simply involved a different interpretation of the glyph 'down' - that allowed things to be selectively hidden 'under' the light of the globe. After that, we had to go about deriving other semantic interpretations of the glyphs in various commercial artefacts that she had procured. It was unexpectedly difficult even when it came to deriving the semantics of glyphs from the Basic Set.
+
+My father's lecture somehow doubled in complexity. He introduced the principles of artefact design and zoomed in on the practical constraints involving space. Then, he projected the sequence that was used in almost all commercial artefacts to prevent overdraw, and started talking about how higher-order artefacts had to rely on layered glyph sequences to make efficient use of the space available for runes. I had a head start after already being exposed to this from my session with Ambrose, but it was still difficult to keep up. He outlined a labyrinthine knot of principles and conventions that went into building an artefact glyph sequence of a practical size. He was, in essence, teaching the basics of how to write poetry using glyphs.
+
+Kant, of course, did not give us an easy time. If the faculty had received a secret memo from the Demiurge to turn the first-year's brains into pulp, then Kant was the kind of man who would go beyond and grind the pulp into a thin sauce. He threw us into pitched battle against him again, then followed up with harrowing one-on-one duels while the rest watched. It was nerve-wracking to watch him conduct a methodical tear-down of someone when you knew you were next in line.
+
+In between lectures, the six of us found ourselves spending plenty of time studying together and actually growing closer, even over the short span of a week. The fact that it had happened so seamlessly despite our rocky start was rather suspicious. The comparatively brief interactions I had with the other first-years gave me a glimpse into life in the other dorms, where apparently not everyone had drawn such a good hand of neighbours, and where even the most amicable people still had to contend with shy or aloof roommates.
+
+Once again, I wondered if this was the Prophecy at work, stitching us together to provide Ambrose with a more conducive environment to study and grow. The thought of just being a part of the backdrop for the Chosen One bothered me a lot, but I had to admit (very grudgingly) that I was glad to be able to benefit from it. The difficulty of the classes was wearing me down, but the support I got from my fellow dormmates had propped me up.
+
+By the time the second weekend rolled around, our interpersonal differences had settled into some sort of equilibrium. On hindsight, it was probably Kevan's infusion that had done the most on that front. We understood him well enough now to tolerate his outbursts, or even manage to rein him in before he lashed out at someone. That seemed to be the catalyst for change in the group because Lynus became a lot more relaxed now that he didn't have to tip-toe around his brother all the time, and he turned out to be an excellent bridge between the hyper-competitive Kevan and the self-doubting and sensitive Devon. Bringing those two extremes closer together served to reduce the level of tension in the group.
+
+That meant that only a week after that traumatic infusion disaster, we were all ready for a second crack at it. Devon obviously wasn't thrilled, but there was a determined set to his jaw that had not been there a week ago.
+
+"Reeves upped his game this week, and he's probably going to do the same next week, so we need to be prepared," Ambrose said.
+
+"He did something different. It was sustained, this time," Jerric noted. "The auric shields we used were good for short bursts of compulsion, but holding them up against something that's actively pressing on them is too draining."
+
+"Ambrose seemed to be able to handle it," I said. "How did you manage?"
+
+"Brute force," he answered, frowning. "My level of control is more refined than yours at the moment, so that's why I managed somehow. But Jerric's right. The auric shield is too draining. It's not efficient."
+
+I was secretly thrilled to hear the term I coined being used so casually during our discussion. But it did bring to mind the fact that I still hadn't found a good term for the infusion thing we were now discussing.
+
+Devon cleared his throat and cocked his head at Kevan. "When you attacked us, you made the attack sustained somehow, even though you weren't around. What did you do?"
+
+"It wasn't an attack." Kevan rolled his eyes. "Get over it."
+
+"Whatever," Devon said, not backing down. "Spill it - what'd you do?"
+
+Kevan thought about it for a moment, then shook his head. "I don't really know. Caden described it as releasing your auric arcana into the ambient arcana once you've infused it with your emotion, but that didn't work for me. I did it my way."
+
+"What way is that?" I asked, instantly curious.
+
+"I was thinking... I had all these thoughts and feelings, and I just wanted to put them in your heads." His eyes darted here and there as he looked for the right words. "I was thinking it'd spread like... like poison from a bite."
+
+"Frame-shifting," Jerric and I said in unison.
+
+That got a groan from everyone else as they thought back to that very difficult and confusing lecture.
+
+"So his visualisation of poison, of a bite—" Jerric started.
+
+"—that's where the directionality comes in—" I supplied.
+
+"—and the sustained nature without a direct connection—"
+
+"—that's from the idea of poison—"
+
+"—which means that you can even theoretically get a self-propagating impulse—"
+
+"Guys, guys, slow down for us dumber folks," Devon complained.
+
+Jerric gave a rueful grin. "You explain it, Top Scorer.'
+
+I scowled but took up the train of thought. "Reeves said that arcanic control is something that seems to depend on your mental map of how arcana works. If you hold on to a certain concept of arcana, then that actually affects how much control you can exercise over it."
+
+"I remember that," Lynus said slowly, thinking hard. "So if we want finer arcanic control, we need to learn to switch to the right perspective at the right time."
+
+"In short, yes," I nodded. "So Kevan thought of a bite, of poison, and that's how he got the arcana to behave so differently. He could target specific individuals without glyphs for directions, and he could get the compulsion to stay even though he hadn't made some sort of bridge or connection between us. And I think with that, it's even possible to get it to increase in intensity, like how poison spreads through a body."
+
+"Is that how Reeves is doing it, though?" Lynus wondered. "Poison lingers after a bite. But Reeves' compulsion vanished the instant he stopped focusing."
+
+"It's not the same," Kevan said firmly. "I could feel the difference. His isn't a bite, it's... it's like a blanket."
+
+"Not a blanket," Devon said softly, his eyes shining with the joy of a sudden epiphany. "A net."
+
+It clicked. This felt a lot like me finding the right term for 'auric shield'. The idea settled into place in my head like a jigsaw piece, with such a perfect fit that the seams disappeared altogether. The rest seemed to share that experience as we all nodded unanimously.
+
+"You get directionality, a weight variable, and you trap a person's will so that you can't think your way out of it," I marvelled. "And pushing against it is a losing proposition, just like a real net. You may buy yourself some space, but you're still stuck under it."
+
+"Then how are we going to resist him? He'll just increase the arcanic weight and our auric shield will collapse," Devon despaired.
+
+"It's simple," I said, looking at Jerric. I could tell he had the same idea.
+
+He nodded back with an uncharacteristically wicked grin. "We cut it."

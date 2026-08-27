@@ -1,0 +1,173 @@
+---
+id: 9179f7d9-bb8c-5dcc-9140-27cb6d1bb25a
+page-type-slug: story-chapter-royal-road
+title: "v7c55: Bar Hopping"
+slug: 0308-v7c55-bar-hopping
+partOf: beware-of-chicken
+position: 308
+ownLength: 2166
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3356764/v7c55-bar-hopping"
+royalRoadId: "3356764"
+---
+
+We spent a good while talking to Ning and her parents; it was fun, just chatting with them. We talked about how things had changed and how the shop was doing.
+
+Their opinions seemed to match most other peoples’ around here; those without cultivation loved the changes. They were still a little wary that things wouldn’t last… but for the moment, everyone was in good spirits. Ning spent most of the time playing around with Washy and Babe, the two of them easily keeping the kid’s attention.
+
+Which meant she wasn’t really paying attention when her mother complained about Ning’s hobby. Apparently Ning was getting indulged by a member of the Framed Sun Sect—a girl named Ai, who would teach her carpentry, of all things.
+
+Eventually, though, they needed to get back to work, so we let them go… though we were stopped at the door by Chaoxiang.
+
+“Master Rou?”
+
+“Yes?” I asked.
+
+“Thank you again for repairing our store,” Chaoxiang said and bowed deeply.
+
+“It shouldn’t have happened in the first place,” I replied. “It was only right that I fixed my mess.”
+
+“All the same. Thank you. For everything.”
+
+The words had a bit more meaning than just his store.
+
+I raised a hand and waved goodbye, and then we were off into the town again. Meimei had a big smile on her face.
+
+We wandered the town without interruption this time, drifting from store to store and just taking it all in. We went to places Tigu had recommended, and even to the Spiritual Herb shop Ri Zu had visited—Mei’s face was damn hilarious when she saw the prices.
+
+Sure, we could afford it, but the country girl was deeply ingrained in Meimei’s soul, and that many digits had her huffing in disgust.
+
+The sun was starting to set, and we were sitting on some benches on a side street. Meimei was bouncing Zhuye up and down, and we just watched the time go by.
+
+“Ah, this is much better,” Meimei said, as we set back out into town.
+
+Nobody gave us a second glance, and Meimei was right. It was nice.
+
+“Better than being gawked at,” I agreed.
+
+‘While I do prefer not being stared at…I think I would like to sit in on those working in the mountain more instead, or test myself against the various cultivators here,’ Babe said after a moment.
+
+“It’s a shame, but this place is not ready for our full majesty—they trip over themselves, which is understandable, but it does make things a bit boring,” Washy commented from his jar. “Ning was nice, though.”
+
+“That's fair. But thank you for coming with us today. I’m glad we could spend some time together,” I said to the fish and ox. Both of them smiled.
+
+“I guess we’ll go back to the mountain…” Meimei said, though I could tell she wanted to explore more.
+
+“Let’s head back to the mountain until dinner, then go back out. Yun Ren recommended some taverns around here—let's go see what he was talking about. We’ll bring back some food and drink after,” I said.
+
+That was agreeable to everyone.
+
+Dinner was much less formal than last time, but it was still a bit of a public affair with a bunch of Sect Elders in attendance. Xinling was there, of course, and her music permeated the hall.
+
+The entire thing was basically another question and answer period, this time about the mountain and how we found it. We made sure to praise Xiulan's hospitality, as well as the repairs that were taking place.
+
+“It was disheartening to see this mountain in such a state of ill repair on my last visit—but to see it so fixed up washes that feeling away. The younger generation is hard at work, and that is a beautiful thing. I look forward to seeing it fully restored,” I said to the gathered cultivators.
+
+The Sect Elders preened at the praise, and preened again when I talked about how interesting the more combat-focused arms of their alliance were.
+
+“They train well together—and such trading of pointers between peers will only contribute to the growth of all. The Honoured Founders of the Cloudy Sword Sect knew Martial Discourse to be one of the highest virtues—in reinventing the styles of your ancestors, such a forge is necessary to beat out any impurities or inefficiencies before they are ingrained,” Meimei said, proving that she had been reading the scrolls Lu Ri had given her. She had mostly been pretty quiet, but that little speech had everyone staring at her gobsmacked… before they all started nodding.
+
+The sects of the Azure Hills looked extremely proud of themselves, to say the least. After that, there was some more small talk, a bit of a repeat of last night, with people trying to get me to visit their sects. Luckily, this time it was a lot shorter.
+
+And then, for the rest of the night, we were free.
+
+The others mostly stayed inside the mountain, tired from a long day of work… and Tigu especially wanted to just cuddle Zhuye. We’d all be together again tomorrow—we planned to have tea with Xiulan’s dad and there would be a small tournament to watch—this time a cultivation tournament, rather than a hockey one.
+
+So we took off our “big wig” clothes again, pulled in our Qi… and Meimei and I set off again into town, to retrace the steps of our friends at the tournament.
+
+We only realised it was a date when we finished getting out of the mountain. It was fun, poking into various establishments. The town, even this late, was positively pumping—cultivators who were done with their duties for the day, manor staff, and the hundreds of merchants all contributed to the lively atmosphere on the main street.
+
+“Boss,” I said, making a gesture with my hand, and the man behind the counter immediately nodded, reaching down to grab what I had ordered.  “And that is how you order booze like a city boy.”
+
+“So impressive! Iyaaa, my man is a big-shot from the city,” Meimei mockingly swooned. I grinned at her.
+
+“I’m more surprised it actually worked, to be honest. That's from the Crucible—I was expecting him to stare at me like I was an idiot,” I replied. Two cups clinked on the table… along with what absolutely wasn’t what I had ordered when I made that gesture.  “...oh, nevermind, that means plum wine here, not peach wine.”
+
+Her overblown acting was replaced by giggles, as we both sipped, and a more genuine smile came over her face.
+
+“There’s still so much of the world I don’t know about. It's so fascinating to see all the little gestures and movements that make people different—and not just faraway places like Titan Tree Domain or Silver Pine Loch—but places like this, closer to home, are still so different!” she said, her excitement bleeding through. Her enthusiasm to learn was always the cutest! “And that gesture; something you learned from your parents?”
+
+Meimei knew about both halves of my life; the one born here, and the one born in the other place. Jin Rou had been raised by innkeepers… but that wasn’t where I had learned this.
+
+“Nah, the seedy bars near the brothels,” I replied with a smirk. Meimei looked delighted and scandalized, before remembering what that part of my life had been like… and how young I had been when I was hanging around those places.
+
+She kept her smile on her face though, clearly shoving the thought away, before her eyes turned considering.
+
+“You know, I’ve read about ‘seedy bars’, but I don’t think I've ever actually seen one. What's the difference between a seedy bar and a normal one?” Mei asked. It was kind of funny. Verdant Hill’s establishments for drinking were both very nice, very clean places.
+
+“It depends. The ones deep in the Crucible were homes to thieves and killers, or were gang property. In a place like this? It's probably just off the main street, and the booze they serve is shit,” I replied. “Why, you want to go and see one?”
+
+“You know what, I think I do,” she said after a moment.
+
+“Of course, milady, I shall escort you to a wretched hive of scum and villainy, as you please,” I said, rolling my eyes.
+
+Meimei found it hilarious.
+
+And so we set off on an adventure to find a seedy bar. I let my memories of the Crucible guide me, and we found a place pretty quickly.
+
+It was certainly a seedy bar, and Mei sniffed the air—there were a couple of cultivators in there…  but not anyone we had to worry about.
+
+But as I reached for the door to go in, we heard a raised voice.
+
+“Ha! I’ll get even more merit, and I’ll be able to claim Cai Xiulan’s hand!’ a man shouted.
+
+“Come on, everyone knows she's Master Rou’s woman—why do you think anybody listens to her?” another man replied, his voice disdainful.
+
+“She disappears to his home for months on end, and comes back that strong? She's definitely ‘dual cultivating,’” a female voice added snidely. “If I was born with that body, I’d be able to do that too—and it's the only thing she's got going for her.”
+
+Both of us frowned. Mei’s purple eyes flashed, and she started reaching for the handle.
+
+“Maybe not this place,” I said before there was an incident, pulling Mei along.
+
+We stopped in an empty street, and Meimei glared at me… before she noticed how hard I was clenching my jaw.
+
+She huffed, and slumped against the wall. “...probably for the best we didn’t go in there,” she muttered, kicking at the ground.
+
+I took a deep breath in and then let it out. It sucked hearing people talk about your friends like that—especially when they were talking about Xiulan. Demeaning her, saying the only reason she had succeeded at anything was because I had given it to her.
+
+Man, that pissed me off something fierce.
+
+“...am I giving her problems?” I asked aloud. I know Xiulan was focused on the Azure Alliance, but… had our closeness been causing her issues? I know some people think that might be a benefit, but… would I need to issue a statement or something to clear the air?
+
+Meimei placed a hand on my shoulder. “It’s probably just people running their mouths,” Meimei said, surprising me with how fast she had cooled down. Normally she stayed pissed for longer than this. “Just some drunk idiots.”
+
+“...you’re right,” I said after a moment. “But… hey, I did tell you those kinds of places were dens of scum and villainy.”
+
+“You did,” Meimei said, “And you were right. Should we go back to the main street?”
+
+“No, there’s a different kind of bar on these side streets.”
+
+Namely the bars that the real locals used.
+
+Again, I knew roughly where to go, and it wasn’t too hard to find. And again, in this town, there was at least one cultivator in it.
+
+Mei suddenly paused, sniffing the air curiously.
+
+“Hmmm. That's a familiar smell. There's a cultivator in there that I recognise… where did I smell that before…” Meimei murmured, before her eyes widened. “Ah, I smelled that at Pale Moon Lake City! It's the one who ran from the city!”
+
+I considered this new information. For a moment, I considered if we should just leave this place too… but curiosity got the better of us both—and it was a needed distraction. Instead of assholes in a bar, we would see the funny image of an old man carrying his massive pack.
+
+So we went in. It was pretty quiet, the conversations low murmurs, and there was soft music coming from a woman on the guzheng.
+
+It was about half full, but one person stood out to us. The only person sitting alone. Mei was right, I recognised him when I saw him—and the guy didn’t look the greatest. He was slumped at his table, massaging his temples.
+
+He sighed heavily, and rubbed his eyes some more. He looked old, and tired.
+
+I glanced at Mei.
+
+She glanced at me.
+
+=================================
+
+Ye Shun drained his bottle, and then sighed again. This entire thing was rapidly becoming very complicated…
+
+“Ah, excuse me, grandfather, are you alright?” a low voice asked.
+
+Ye Shun looked up, wondering who dared to interrupt him—only to see a young man and his wife looking at him with concern. The kind of concern that only fools possessed. The kind of people who would give a man the shirt off their backs and have no idea they were being swindled out of anything.
+
+They had a round of drinks, and some dumplings with them, clearly intending to share. And though he might be rich now, free food was still free food.
+
+He looked back up at the young couple.
+
+What the hells. Fools occasionally had some insight.

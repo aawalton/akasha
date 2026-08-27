@@ -1,0 +1,153 @@
+---
+id: 5f0d9de0-4e00-52a0-b9a9-f28ebbdf1c7d
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 48 - Game of Glyphs"
+slug: 0052-b3-chapter-48-game-of-glyphs
+partOf: bookbound-bunny
+position: 52
+ownLength: 2566
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3481594/b3-chapter-48-game-of-glyphs"
+royalRoadId: "3481594"
+---
+
+Lily thankfully recovered quickly from Arakil's poor attempt at humor, and after that, it was smooth sailing into preparing the inscription. Just as before, they were borrowing the dream crest's power to be the bridge they needed, and soon Lily found herself falling asleep and awakening to familiar scenery.
+
+The door appeared again in the void, and Arakil emerged, beckoning Lily over. She excitedly sprinted over, and the first thing she did upon reuniting was attempt her best Rose-inspired squeezing hug. Fortunately for Arakil, Lily lacked the corresponding draconic strength, and thus the extra effort was barely noticed as he ushered her inside the grand library once more.
+
+Without any prompt, the first thing Lily did upon entering was attempt to form that phantom hand again. She initially fumbled, but after that, it soon emerged again and drew a simple circle in the air. Lily immediately sighed with relief, to a rather bewildered-looking Arakil.
+
+"I thought I had forgotten how to do it," Lily admitted with a little embarrassment.
+
+Arakil chuckled and shook his head, giving Lily a soft congratulatory pat on her head.
+
+Once again, Lily couldn't get over how tall he was and began to wonder if people had gotten shorter over time. Yes, there were tall demis, but that went without saying, while Arakil was supposedly pure human. The tallest human that Lily knew of was probably Instructor Gerrard, although she had no inkling of an idea if he was pure-blooded or not.
+
+"Before we start, I'd like you to go through everything once so I can see your progress firsthand. While the arcane eye contained in the book is remarkable, nothing beats seeing it firsthand," Arakil said.
+
+Lily nodded and was about to begin as instructed, but paused. "How do you see the outside world?"
+
+"Curious are we?" Arakil asked with a smile.
+
+"Yes, I just can't even imagine how you do it," Lily said with eager excitement.
+
+"It's no big secret, well, at least for you," Arakil replied.
+
+With the casual wave of his hand, he summoned forth what looked like a writing desk and chair, the latter of which looked unlike any chair she had ever seen before.
+
+"It's an orthopedic chair," he explained, as if sensing her confusion.
+
+Lily frowned. "It looks… Uncomfortable."
+
+"It might look that way, but trust me, after countless hours of sitting at a desk, your back will thank you!"
+
+Lily blinked with confusion as she hadn't ever had an issue with back pain sitting at her desk.
+
+"Well, I suppose when you are young, you can sit on a rock and think it's enough back support…" Arakil grumbled. "Moving on, this is where the magic happens."
+
+Arakil gestured to the desk, and Lily saw that it had a few items scattered about it. The first was a perfect replica of his grimoire, which left Lily visibly confused.
+
+"This is how we communicated through writing," he explained. "I would write in this replica, and you'd see it. Of course, back then I needed you to supply the ink, but now I can do that myself."
+
+Lily cautiously opened the book and saw that it was exactly like the one she carried with her. Casually browsing through it, she saw some of their previous correspondence as well as some of the diagrams he'd drawn for her. Arakil then pointed to what looked like a large makeup mirror to Lily, much fancier than the ones that Margit or Camilla owned.
+
+Lily looked at the mirror and then to Arakil, scrunching her face as she tried to scrutinize him. As far as she could tell, he wasn't wearing any makeup, unless those horrendous bags under his eyes were fake.
+
+"This mirror is my representation of the outside world," Arakil explained and tapped on the top of the mirror.
+
+In an instant, the reflection disappeared, and Lily saw her own room imaged in the mirror. The sight began to shift as the book, no doubt, moved about, and eventually it showed her sleeping form on the bed. To her horror, it looked like she was drooling.
+
+Lily instantly blushed in embarrassment and put her hands over the mirror to hide herself. "Don't show me sleeping!"
+
+Arakil chuckled but complied, with the vision of the mirror changing as the book moved away from her. Lily sighed with relief and watched with fascination as she saw her room from an entirely different perspective than normal.
+
+However, that wasn't the only thing that fascinated her as she quickly noticed that the mirror was revealing all of the glyphs she had drawn and placed around her room. The level of detail was astonishing, with colors and intricacies shown in her glyphs that she'd never seen before.
+
+"I see you've noticed the improved Magesight," Arakil said with a knowing smile on his face. "Once you finish upgrading your own, you will be capable of a small portion of this."
+
+"Only a small portion?" Lily asked.
+
+Arakil nodded. "Well, the arcane eye has been upgraded to the equivalent of a fifth-tier Magesight. So you've got quite a few additional layers needed before then."
+
+"Five…" Lily whispered in disbelief. She'd struggled with the first, and still hadn't completed the second, only to now hear that there were three more waiting for her.
+
+"Odd… I had hoped that seeing this would have provided you with motivation, but it appears to have garnered exactly the opposite," Arakil said, scratching his head.
+
+Lily apologized, but sadly couldn't bring herself to be motivated about it. Even knowing that she'd provided her friends with better resources than she herself had at the time, it still left her feeling defeated.
+
+After that, they quickly moved on to Lily going through the motions of her usual routine, with Arakil carefully observing and commenting along the way. As before, he pointed out small areas of correction, and from what Lily could tell, almost all of them were entirely different than before.
+
+The repeated corrections were obviously ones she had yet to rectify herself, but Lily had not expected that even further improvements could be made. This also, once again, solidified the image she had of Arakil as who else but the god of magic could, at a glance, make dozens of genuinely helpful suggestions tailored to an individual.
+
+After that, they took a short break, during which Arakil talked more about magic as it was in the past and its fundamental principles throughout the ages. Lily wasn't normally one to enjoy history, unless it was famous legends, but she found herself utterly hooked on hearing more about magic. It seemed that no matter the age, it could always be brought back to intent and exerting your will upon reality. Lily assumed this was the underlying principle Arakil wanted her to understand.
+
+From there, Lily finally got to jump onto the topic she was most anticipating: glyphs and inscriptions! Honestly, if Arakil had changed the subject again, she wasn't sure she could've held on any longer, and this was what her little heart was crying out for.
+
+Now that Lily was officially involved with inscriptions, not just auxiliary glyphs, these lessons had taken a different turn. Arakil would draw a small part of an inscription, and then Lily would need to draw the next, with them swapping over each time until it was finished.
+
+Arakil made it look like a breeze, but Lily was genuinely struggling at times, especially when she couldn't think of the next component to add in a timely manner. Yet, as the lesson went on, Lily soon found herself matching Arakil's rhythm, or perhaps he had matched hers, and the inscriptions were forming faster than she could have imagined.
+
+It was almost like a game, as it appeared that neither of them would know what the inscription's purpose was until it was completed. This was further added to by the fact that Arakil would sometimes start them off with nothing but a sigil, forcing Lily to be the one to pick the crest. There were times when she tried to be tricky, adding her own sigil rather than advancing the diagram. Still, Arakil would always counter these with another rather obscure sigil as if punishing her for doing so.
+
+Yet Lily never once complained, and in fact was enjoying herself immensely. Not only was Lily witnessing firsthand how to balance an inscription and the glyphs within it, but she was also learning new components, as if Arakil drew something she hadn't seen before, he would explain it.
+
+I never knew you could learn this way. I wonder what Professor Ollie would think about this.
+
+Of course, while this could probably be replicated with ink, drawing in the air with their wands was what truly made this an unforgettable experience. Lily wasn't sure if it was Arakil's doing or the wands, but due to the magical nature of the drawing, you could visibly see it reacting with each added stroke.
+
+Eventually, Arakil seemed satisfied and brought the game to an end. Lily almost asked for more, but then she heard what he said next.
+
+"Alright, you can now freely practice trying to conjure your phantom hand."
+
+Lily was delighted and quickly swallowed the words she had been on the verge of uttering. She took a short breather, just to calm herself before she dove right in. Just as when she had arrived today, the difference in the mental landscape could not be overstated, and with barely a first attempt, she managed to conjure it again to draw a circle.
+
+Reality really doesn't want us to do this… How powerful were the figures who created the very first spells, or the ones who created incantations that are still usable to this day?
+
+Lily couldn't even begin to imagine it. Just drawing a circle with her willpower outside of the grimoire was an impossible task, let alone trying to summon a fireball or even a mere drop of water. Yet inside here, she was unrestrained and allowed to experience magical freedom like no other, and slowly realized the truth behind Arakil's words when he claimed this was the real reward.
+
+After drawing a few circles, Lily eventually moved on to other shapes, rather than trying to speed up the process. Yes, ultimately speed was what Lily was after, but she knew she needed to learn to walk before she could run. What use was drawing a circle in an instant if the rest was impossible to draw?
+
+Slowly but surely, she was making progress and began trying to draw some basic glyphs as a result. It sounded simple in her head, but in practice, it was anything but. She likened it to reverting to her previous self, or more aptly, when she had tried to draw her first glyph in the air.
+
+Thankfully, Arakil was there to always offer words of encouragement or advice; he never once admonished her efforts. On the contrary, he seemed delighted by her progress and appeared to be trying to puzzle together an answer as he watched.
+
+When Lily finished her first glyph, just a simple ball of light, Arakil quickly congratulated her. It was really nothing special, but it was drawn almost entirely with just her willpower. Lily almost couldn't believe it.
+
+"It's interesting," Arakil said. "Your intent and will isn't exactly the strongest I've seen, yet it's remarkably… Flexible?"
+
+"Flexible?" Lily asked, stretching her arms and legs. She knew it wasn't actually necessary in this mental landscape, but it made her feel better regardless.
+
+"Perhaps creative would be more appropriate?" Arakil mused. "Regardless, I'm quite impressed. I think once you finally manage to break the barrier and exert your influence directly on reality, you will begin to soar."
+
+Lily smiled, although honestly, it was a little bit forced. Arakil's words sounded great, and they attempted to fill her with hope. But, on the other hand, if she failed to ever reach the point where her willpower was strong enough, then it was all futile. She hated to admit it, but right now she needed strength, not flexibility, and she couldn't help but compare herself to the most obvious figure in her mind: Rose.
+
+The girl who could snap her fingers and make flames dance to her will. Who could solo a dungeon. Who could punch out a teacher. That was real strength.
+
+Lily had asked Rose plenty of times how she did it, and it really seemed to boil down to her literally being that confident in herself. Lily had tried to replicate it, but no matter what, small doubts would creep in. Rose's inner voice continued to urge her to climb higher and higher, while Lily's, influenced in part by Arakil, always sought to build a solid foundation first and foremost.
+
+In the long run, she knew Arakil's philosophy was the better one, certainly in terms of stability; if Rose ever lost that confidence, she could come tumbling down. But at the moment, Lily certainly wished she had even half of it.
+
+Lily continued to practice, not wanting to waste the valuable time, even though there wasn't much left in this session. However, the entire time she kept thinking back on the lack of strength behind her willpower, and wondering if there wasn't another solution.
+
+Incantations work because we believe in them, combined with the creator's original willpower. Effectively, we're borrowing their strength while they feed on our belief; it's almost like a self-sustaining cycle, and this, fueled by Mana, is enough to overcome reality.
+
+Lily suddenly paused her actions. She felt like something was there, on the tip of her tongue, and tried to hone in on it.
+
+I don't believe in myself enough, I'm not like Rose, but… What if I borrow from someone else?
+
+Lily glanced at Arakil, and the idea blossomed in her mind.
+
+I might not believe in myself enough, but Arakil does. Yet, at the same time, I believe in Arakil. I've seen what he can do, and he's told me some of his story. He gave me magic when I had none, and he gave me another chance at life when I was destined to be stuck in a room as a scribe.
+
+Can I believe in Arakil, who believes in me, and break through reality? If Arakil alone isn't enough to make up for my shortcomings, what about Rose? Rose believes in me, too, maybe even more than Arakil!
+
+Lily's eyes widened, and she looked at Arakil with shock.
+
+"It seems you've had somewhat of an epiphany. I must say that's rather unexpected, I didn't want to interrupt you… Unfortunately, we are literally out of time, and if you don't leave right now, I might have to kick you out," Arakil said, an apologetic look on his face.
+
+Lily gasped with horror and rushed for the door, which was already open. Arakil had previously stressed that every extra moment would come at an astronomical cost, as it was outside the established parameters; every second she stayed, she was burning through his precious Mana.
+
+Yet Arakil never once blamed her and even apologized to her. Lily felt guilty, and as soon as she exited the door, she found herself bolting up in bed, covered in a sheen of cold sweat.
+
+"I didn't even get to properly say goodbye this time…" Lily murmured, her hands grasping at the empty air.

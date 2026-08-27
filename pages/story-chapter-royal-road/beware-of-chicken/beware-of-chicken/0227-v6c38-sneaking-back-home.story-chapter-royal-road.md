@@ -1,0 +1,141 @@
+---
+id: 2f9c13b3-80c4-53af-8eab-ef1d504ee39b
+page-type-slug: story-chapter-royal-road
+title: "v6c38: Sneaking Back Home"
+slug: 0227-v6c38-sneaking-back-home
+partOf: beware-of-chicken
+position: 227
+ownLength: 1787
+unit: words
+ownProgress: 1787
+publishedAt: 2025-06-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2386148/v6c38-sneaking-back-home"
+royalRoadId: "2386148"
+markedReadAt: "2026-06-29T18:59:09.477Z"
+---
+
+Fa Bi De waved goodbye to the Thunderhooves, as Shen Yu’s sword lifted into the air. The forest stretched out below them: pale white grass on the ground, the glowing fungus on the trees, and the frost dancing in the air graced Iceheart Forest with an otherworldly beauty.
+
+“Man, in stories, this kind of place is some sort of dangerous forbidden zone… but we can come here whenever we want,” Yun Ren mused.
+
+Master Forest Sweeper had been most kind, in extending an open invitation to those from Fa Ram, as friends of the forest, to visit.
+
+“However, visiting is still an issue,” Bi De replied. It was across the Sea of Snow. Without a flying sword? It would probably take Bi De the better part of a month to run from Fa Ram to Iceheart Forest, and that was assuming optimal conditions. Any inclement weather, and that month could stretch out much longer. Maybe if he flew with his wings, he could make it faster, but everyone else was out of luck.
+
+“I made arrangements with Forest Sweeper to drink with him again,” Shen Yu said from his place at the front of the sword. “He's a fine companion to spend time with, and if I am travelling anyway, I see no issue with a few passengers.”
+
+“Well, then, Iceheart Forest will get rather lively.  I do not see Tigu turning down the chance to study the art of the Thunderhooves,” Bi De said.
+
+“I wonder how Chun Ke will feel that there are finally those bigger than him?” Ri Zu asked from her place on Bi De’s shoulder. She was back in her rat form, after spending her time in the forest as a human; being so small around such titanic Spirit Beasts made interaction hard.
+
+“Are they bigger than him?” Bi De replied.
+
+“It’ll be fun to find out,” Ri Zu smiled.
+
+The sword slowly rose toward the treetops, until they were in open air. The aurora above shone in all the colours of the rainbow, and the stars twinkled in their millions.
+
+‘It's so pretty, seeing it from the sky,’ Spooks whispered.
+
+“It truly is beautiful,” Bi De mused. “Your recordings capture some of the majesty, Yun Ren, but seeing it in person…”
+
+“It's always better in the flesh. That I get even some of it? That's a good recording,“ his friend answered. “Each time you try and get closer to the truth, to that perfect moment, preserved forever,” Yun Ren’s tone was wistful, and he had a small smile on his face.
+
+“It is indeed a fine pastime,” Shen Yu said. “It teaches one to be observant, and meditate upon the interplay between light and shadow.”
+
+Yun Ren grinned. “See? The old man gets it!”
+
+“But we rarely see your work, honoured Grandfather,” Ri Zu teased
+
+“I only showcase things worthy of it,” Shen Yu said, his nose in the air.
+
+“Such images being few and far between,” Bi De said innocently. Shen Yu turned to glare.
+
+“Brat, you dare mock your Master?” Shen Yu demanded with faux anger, while the rest of them chuckled. The old man clearly didn’t mind the ribbing.
+
+“Forgive your lowly disciple, Master,” Bi De said with a mock simper. “He failed to see Mount Tai. You are correct; the rarer your images, the more weight they hold.”
+
+Shen Yu huffed dramatically. “See that you are enlightened, Bi De… otherwise you’re walking home.”
+
+They all chuckled, until Yun Ren sighed a bit wistfully.
+
+They cleared the tops of the trees, and the world began to blur as Shen Yu flexed his might. His blade accelerated to move at nearly a thousand Li an hour—a pace that Shen Yu showed no effort in reaching, even still injured as he was.
+
+“Too bad it wasn’t a full reunion,” he said. Master Forest Sweeper had asked about what had happened to their other companions—Shao Heng, Yushang, Han, Yingwen and Fenxian of the Shrouded Mountain Sect, all who had trained within the forest, and who had assaulted the demons in the north with them. The Thunderhoof had been pleased they all still lived, and understood that they all had been indisposed.
+
+‘I hope they’re alright,’ Spooks murmured.
+
+“Then that shall be your next task,” Shen Yu said. “This old man still needs some rest, but you whippersnappers still have fine bodies. You, my disciple, will once more investigate the Shrouded Mountain Sect. You shall determine what actions they have taken, and how the general population sees them. If they are succeeding, it is all well and good, but if they are failing… then you shall extract what value you can.”
+
+Shen Yu’s words were sobering… but Bi De could not deny them. If they were failing, the best course of action was to grab their friends, Nezan, Old Ling the groundskeeper, and take whatever was left of the Fox’s legacy from the Shrouded Mountain.
+
+Bi De hoped it wouldn’t come to that.
+
+“After the New Year, but before the spring planting,” Bi De agreed. His wounds had mostly healed. His chest still hurt occasionally, but it wasn’t too much of an issue. “Your task shall be accomplished, Master.”
+
+“Good,” Shen Yu said, giving Bi De a firm nod.
+
+They lapsed mostly into silence, as they continued on their way back southwest. Bi De approached Shen Yu at the front of the blade after a moment, and the two stood beside each other.
+
+“Do you think Master Forest Sweeper made the right choice?” he asked quietly.
+
+Shen Yu considered Bi De’s question for a moment. “In the short term? Yes, I do believe Master Forest Sweeper made the correct choice, in treating with the Empire. But as I said to him: we cannot know what the future will bring. His presence being known to the Empire may be a boon… or it may be a tragedy. The best way to prevent that from happening is to maintain his strength and the strength of his descendants. Spooks has a weighty legacy indeed on his young shoulders. He must be strong, so that the thought of coming into conflict with him causes even the strongest cultivator pause. All we can do right now in the present is our best.”
+
+Bi De pondered Shen Yu’s words as they flew onwards.
+
+After several hours, they reached the outskirts of the province, and Spooks spoke up once more, a small smile on his face.
+
+‘When we reach Fa Ram, could you actually put me down just outside the property line?’ the Thunderhoof asked.
+
+Shen Yu turned to the young Spirit Beast and chuckled, realising his intention.
+
+“Indeed I shall. Actually, how about all of you get off?” the old monster commanded. “A test of our home’s defences. If you get caught, you fail.”
+
+All of them shared grins.
+
+====================================
+
+As always, the presence of Fa Ram was a balm upon Bi De’s soul. Traversing the forest felt utterly natural; like he was supposed to be there.
+
+He flitted through the trees with grace, his eyes sharp, for indeed there were scouts. The occasional bee holding a rock with its back legs—the rock filled  with Yin’s Solar Qi, providing the tiny insect warmth. If Bi De hadn’t known exactly what to look for, and had been there when Vajra had shown them how she organized her scouts, he would have blundered into ten silent watchers. As it was, he still barely stopped himself sometimes.
+
+Despite the bees being just bees, it proved to be a task that necessitated a great amount of skill. Vajra, Bi De had found, had a mind for this kind of thing. He had thought her just a silly creature at first, some dumb thing that got caught in the bath, but this was a sophistication that Bi De couldn’t help but admire.
+
+He would have to talk to her about this, because this wasn’t spark-borne intellect, this was wisdom. Just what was her past?
+
+Avoiding the bees actually slowed his pace by an appreciable amount—and when he nearly ran into Yun Ren, the man seemed similarly impressed by the cordon. Bi De had little idea how Spooks could have found his way through this, but he seemed to have done so.
+
+They ended up circling wide, along a less-used route. Slowly but surely, they crept forward, managing to get just behind a hill near the house. They poked their heads over… and as they did, Bi De realised that they had been doomed from the start.
+
+“Meimei, is your nose off?” Gou Ren asked, staring at the sky. “You said they’re nearly here.”
+
+The Healing Sage turned, and looked directly at the hill they were all behind.  And then smirked and looked back up at the sky.
+
+“Oh, they’re coming soon,” she said.
+
+Their greatest threat having turned traitor in their favor, Bi De’s team approached their targets, who were lined up and looking at the sky in the distance. Bi De and his companions all turned to Spooks and bowed, granting him the honours of the first blow.
+
+‘Who are we all waiting for?’ Spooks asked, his head right beside Wa Shi.
+
+The dragon did an odd full body spasm, and with a pop, he was a fish again, diving to bury himself into the snow.
+
+Bi De stuffed a snowball down his Master’s shirt. Ri Zu turned human with a pop and attempted to do the same to Tigu… only to be grappled and thrown over her shoulder.
+
+Yun Ren simply grabbed Gou Ren’s pants and pulled down, exposing his underclothes to the frigid air.
+
+Everyone else jumped—aside from the Healing Sage, who just joined in the laughter.
+
+They were received warmly… though Shen Yu still did count their infiltration as a failure. The only reason they succeeded was because the Healing Sage thought it would be funny.
+
+He too seemed rather impressed with Vajra’s sentry abilities.
+
+“So, did Master Forest Sweeper like the alcohol?” his Master asked, after the chaos of the greeting had calmed down.
+
+“Yes! He loved it!’ Spooks said, before he suddenly straightened himself up and put on a serious air. “This humble apprentice is here by his order to trade! We have lots of stuff and it makes Master feel better, so what do you want for it?”
+
+He smiled brightly. Pi Pa looked appalled.
+
+“Young Master! That is not how you negotiate!” the pink-haired woman scolded, her voice full of maternal worry.
+
+Spooks looked very sheepish as she took him aside to teach him how to properly make a trade deal.
+
+It ended up taking quite a while. He studied until the fireworks went off—and soon, the New Year’s Celebrations would be at an end.

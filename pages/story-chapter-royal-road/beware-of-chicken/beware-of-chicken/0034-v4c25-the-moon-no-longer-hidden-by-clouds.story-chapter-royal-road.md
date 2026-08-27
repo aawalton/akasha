@@ -1,0 +1,219 @@
+---
+id: ceb4d2c4-e59a-54e2-a70e-feeba28cc1c2
+page-type-slug: story-chapter-royal-road
+title: "v4c25: The Moon, no Longer Hidden By Clouds"
+slug: 0034-v4c25-the-moon-no-longer-hidden-by-clouds
+partOf: beware-of-chicken
+position: 34
+ownLength: 2552
+unit: words
+ownProgress: 2552
+publishedAt: 2023-07-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1285348/v4c25-the-moon-no-longer-hidden-by-clouds"
+royalRoadId: "1285348"
+markedReadAt: "2026-06-29T18:52:30.590Z"
+---
+
+After the party, things had calmed down for Bi De—or rather, for the entire Inner Sect, somehow. Everybody, it seemed, was locked in their manors even more intently, cultivating so much that Bi De had essentially free reign of the entire Inner Sect.
+
+Even Fengfeng, whom he thought he would be able to get more gossip out of, was unavailable. The woman’s servants told him that she wasn’t to be disturbed, even though she had told him at the party to visit her.
+
+It was slightly disappointing, but it enabled him to work on his own garden.
+
+“They’re all makin’ plans and trying to see who will be the next to try somethin’. Happens every year!” Old Ling declared before his gaze turned slightly concerned as he watched Bi De work. “Are you sure I shouldn’t be doing this? It's one thing if they were makin’ you do it, Young Master, but this servant can help!”
+
+“I’m fine, Old Ling,” Bi De replied to the fretting servant. “It's… essential for my cultivation’s growth.”
+
+Phrased like that, the old man immediately nodded.
+
+“Beggin’ your pardon, Young Master—wait, does that mean the whole time they thought they were doing you a disservice, they were actually helping?” Bi De just smiled enigmatically, and the old man burst out laughing. “In all my years! Young Master, it's such a privilege to serve such a man!”
+
+“Thank you for your kind words, Old Ling. If you do wish to help, however, you could get me some of those beets—as well as any other spices you like to use. The… variety helps.”
+
+The old man shook his head. “That’s the darndest cultivation technique I’ve ever heard of, but I s’pose it speaks for itself! Don’t you worry, Young Master! I’ll getcha everything we got, swear on my honour!”
+
+“A better servant I could not ask for. Thank you, Old Ling,” Bi De replied, and the old man puffed up before setting off. Soon, Bi De would have in his grasp all the treasures of the Shrouded Mountain Sect, thanks to that old man. Beets, berries, and fruit.
+
+He would have to sample the worms as well, and perhaps the crickets. They looked plump and juicy…
+
+He worked on his garden for a little while more, enjoying the feeling of invigoration he recieved from farming as always. Truly, his Great Master’s wisdom was beyond anything when he made this his chosen profession. What kind of man could hate farming?
+
+Satisfied, he stood and decided to go and see how Ri Zu and Yun Ren were holding up now that he had some time. Perhaps he could help Ri Zu study for her exams? Not that she really needed it. She was going to pass with flying colours.
+
+It was about lunch when he came across them. Ri Zu, Yun Ren, Yushang, and Fat Han were together as always—and Bi De joined them, to Yushang’s cheer of ‘Handsome Brother!’
+
+Though he could have done without her hugging his arm. He was still a bit… frustrated from the party.
+
+It had been a long while since he had felt like this. He thought he had mastered his urges, but it seemed like he required more training.
+
+The lunch was nice and the company was pleasant as they made small talk about their progress… but Bi De couldn’t help but notice Yun Ren seemed a bit distracted. After their meal ended, Bi De planned to pull Yun Ren aside when instead Ri Zu grabbed his other arm and pulled him out of Yushang’s grasp.
+
+“Will you walk with Ri Zu for a bit?” she asked.
+
+Bi De raised an eyebrow at her words and smiled. “Of course. Each moment with you is a treasure,” he replied.
+
+Yun Ren and Fat Han both wolf whistled while Yushang just laughed, obviously not upset at all.
+
+“Save some room for me~” she simply called.
+
+Bi De followed along behind Ri Zu as they walked to one of the more secluded areas of the compound. He was curious as to what she wanted. He was not expecting, however, for her to shove him into an alleyway.
+
+He was so shocked he didn’t even resist as she spun him so that her back was against the wall and he was leaning over her, both of his hands on either side of her head.
+
+Their faces were close. Their lips were nearly touching. He was staring into Ri Zu’s dark, intense, beautiful eyes. Wait, was she—Bi De felt his heart start to beat faster as she leaned in closer. He was impressed by her boldness—
+
+“Good, they can’t see us talking from this angle,” Ri Zu whispered, her voice cutting through Bi De’s movement. “Ri Zu has news.”
+
+Bi De composed himself as quickly as he could, shoving down his slight disappointment.
+
+=========================
+
+“I see… Thank you for telling me this, Ri Zu,” Bi De whispered to the woman he was leaning over as she finished her short explanation. No wonder Yun Ren had been distracted!
+
+“Ri Zu is worried for him… but, well, he seems oddly reliable at times like these,” Ri Zu whispered back.
+
+“Despite his lackadaisical attitude, he was the one Uncle Xian trusted the most to look after the Healing Sage,” Bi De replied. “I believe he has thought the risks through thoroughly. All we can do is be ready to support him should the worst come to pass.”
+
+“It was why Ri Zu took you here, just in case we were being watched,” she said, looking proud of her idea… before it suddenly seemed to dawn on her just how close their faces were, with Bi De effectively trapping her against the wall.
+
+Bi De felt his own heart start to beat faster again as her face slowly flushed.
+
+He still didn’t know exactly what he had with Ri Zu… other than that he loved her. He was afraid, slightly, of intimacy after the hens had laid clutch after clutch of sparkless children.
+
+When she was a rat it was almost easier. They were completely incompatible, so he couldn’t indulge in her company without anything like this happening.
+
+Now? When he could smell the herbal scent and there was Ri Zu right in front of him, so close he could taste her breath?
+
+“Shall we make the deception more convincing?” Bi De asked, the words tumbling out of his mouth before he could stop them. He leaned in closer.
+
+He expected Ri Zu to blush further and squeak before hiding her face. He expected to save face with a little joke.
+
+Ri Zu grabbed him by the back of the head and practically slammed her lips into his.
+
+====================================
+
+Ten minutes later they both staggered out of the alleyway looking incredibly rumpled, with Ri Zu closing her open robe.
+
+“I… I have to study,” Ri Zu whispered as she combed her hair back into place with her hands.
+
+“I look forward to celebrating your achievement, then,” Bi De croaked out, sounding like a young man whose voice just broke.
+
+Why was it so easy with other women, but so hard with Ri Zu?!
+
+“Yes…. It will be fun.”
+
+They both lapsed into silence. There was a bit of an awkward pause as they didn’t look at each other… and then Bi De straightened his spine and turned to face Ri Zu. He would not let his own issues hurt one of his dearest friends.
+
+“When we get back home, I shall throw you into a mud pit,” he stated simply, promising to make good on his vow.
+
+This time, Ri Zu did flush.
+
+“Ri Zu will hold you to that,” she whispered.
+
+She looked at him, then darted forwards and gave him a peck on the cheek. Her smile was soft and warm.
+
+And then she departed.
+
+Bi De stared after her as her hips rocked from side to side. She had clearly based her body off the Healing Sage, because her hips were absolutely magnificent.
+
+He turned around and headed back to his own pavilion.
+
+He bit his lip to stop himself from racing after her.
+
+He would need to meditate to rid himself of these… feelings..
+
+He needed to control himself better. This body was…certainly more annoying than his last when it came to arousal.
+
+He took deep, calming breaths as he walked. These feelings. Getting kicked out of the garden he had just finished making. Being away from home…
+
+Bi De grimaced.
+
+He was not, however, allowed to simply meditate, because he was interrupted.
+
+He came home to find the front gate of his manor kicked down, some of his garden trampled, and Old Ling standing bravely but futilely in front of a group of cultivators who were laughing at the ‘foolish old man’.
+
+One of the other Inner Disciples had decided, evidently, to make a move… and it was directed towards Bi De.
+
+“Your herbs were quite good, Little Brother, and this Luo Fa had a great idea,” The obvious leader of this group declared. “You did such good work for Zang Zhong, so I’ll let you do the same work for me too.”
+
+Bi De stared at the man, at the raw, naked avarice in his eyes. Luo Fa flared his Qi at Bi De, trying to intimidate him into compliance. He was in the Third Stage of the Profound Realm—and he had three other men behind him.
+
+Bi De had kept his head down so far. He had suppressed his power to the Second Stage of the Profound Realm. He had played at being deferential to the head of the Inner Disciples…
+
+But this man was not the head of the Inner Disciples—and this man was threatening Old Ling.
+
+The frustration melted away to righteous anger.
+
+“No, I don’t think I will,” Bi De replied, his voice utterly calm.
+
+And then he kicked the man closest to him in the face.
+
+=================================
+
+Zang Fengfeng sighed into her pillow for the third time. Her servants had said Bi De had delivered her back to her rooms in quite a state—and then promptly bowed and left.
+
+“No gentleman takes advantage of a lady,” he had apparently said… and done the same to the other women and then left them all with a hangover cure!
+
+Fengfeng screamed into her pillow, kicking her legs. Who the hells did that bastard think he was?! Men were supposed to take! To claim! To conquer everything before them! If she was that weak in front of him, he should have done it—and then she could have ignored his existence as a one night thing instead of fantasizing about the bastard smiling at her and taking care of her!
+
+Fengfeng snarled again. She had, in her embarrassment, told her servants to send him away even when he came to visit! Why?! Why was she like this—
+
+There was a sudden explosion of Qi in the Inner Sect.
+
+Fengfeng bolted upright and rushed to her window—just in time to see one of Luo Fa’s men skip off the ground and go flipping into a fountain.
+
+Movement caught her eye as three cultivators engaged none other than Bi De… and three cultivators were being fended off.
+
+One of them was Luo Fa—the man who used to be a rising star before Zang Li suppressed him brutally with his newfound fire cultivation techniques. The defeat had changed the man—and Fengfeng could see the fury in his eyes as the newest member of the Inner Sect was again making a mockery of him.
+
+Already, his nose was leaking blood and it looked broken.
+
+Bi De fended off all three with what looked like effortless grace. He ducked and weaved through the strikes, his red hair trailing like a banner in the wind. He was in the middle of a storm of violence—and through it all he had his hands clasped behind his back.
+
+In an instant, Bi De switched from defensive avoidance to offense. He ducked under a strike and drove a rising kick into the jaw of one of Luo Fa’s men, sending him flipping into the air. He then brought his raised leg down swiftly from the full splits position he was in and driving it down onto an incoming fist.
+
+The strike forced the man to bend forward as his fist was smashed into the ground, and at the same time Bi De brought his other knee up into another brutal blow, sending the other man staggering.
+
+Until finally all that was left was Luo Fa, who swung with an axe hand, only for Be De to practically disappear, leaping off the man he had just struck, flipping over the strike… and then using Luo Fa’s head as a springboard.
+
+Luo Fa turned purple with rage, and lightning burst around his body—just as Bi De’s legs began to shimmer with a silver sheen.
+
+The fulmination arts clashed against silver armored legs, as still Bi De refused to use his hands. It was almost like he was dancing through the lightning infused strikes, his face a mask of indifference as each blow drove Luo Fa back. Bi De was firmly in control of the fight now.
+
+And then, he had evidently had enough, because Bi De decided to finish it.
+
+[The Rising of the Crescent Moon]
+
+His leg burned even brighter, and he launched into the air, like a celestial object rising above the horizon.
+
+Luo Fa’s defence was shattered, and he was flung through a piece of decorative stonework. Bi De landed almost daintily. With his hands still clasped behind his back.
+
+He sniffed contemptuously. Fengfeng smirked at the way he was—no, no, no thinking like that about him!
+
+“As I said. I refuse—” Bi De began. He was cut off by a scream of rage.
+
+[Heavenly Retribution!]
+
+A massive ravening blast of lightning exploded towards Bi De’s back. Fengfeng gasped at the absolutely lethal attack.
+
+And then, all at once, the day turned to night—and from nothing, the moon rose.
+
+The blast of lightning met its silver surface… and just disappeared.
+
+Bi De stood behind the massive aegis, completely and utterly unharmed. His green eyes burned with silver and gold streaks—like the night and the dawn were mixing and intertwining.
+
+“I am humble because I have lived and learned temperance. To mistake this for weakness is the height of foolishness. I could forgive that,” Bi De said, his voice calm as he started walking forwards. “But to think that you can come into my house, threaten my servants, and then dictate to me terms is idiocy that could only be described as… suicidal.”
+
+Bi De’s intent reached Fengfeng through the wards around her manor.
+
+Luo Fa looked like he was about to shit himself.
+
+“I will now send you to the medics. Be sure to kowtow before my good friend, for she will likely be overseeing your treatment.” Bi De’s leg rose high. “The man who raised me spoke thusly: ‘Everybody gets one.’ I strive to honour his teachings. Everybody… gets one.”
+
+There was a crunch as Luo Fa was rendered unconscious.
+
+Fengfeng shivered at the cold, domineering tyrant who had been so pleasant last night—and bit her lip.
+
+Heavens above, that was a man.
+
+She couldn't wait to see him compete in a tournament.

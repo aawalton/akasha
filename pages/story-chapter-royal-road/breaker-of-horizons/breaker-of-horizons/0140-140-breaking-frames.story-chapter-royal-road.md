@@ -1,0 +1,89 @@
+---
+id: cddb6ce6-1b3a-5b6f-a54b-47c0a65a671d
+page-type-slug: story-chapter-royal-road
+title: "140. Breaking Frames"
+slug: 0140-140-breaking-frames
+partOf: breaker-of-horizons
+position: 140
+ownLength: 2041
+unit: words
+publishedAt: 2021-09-02
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/744040/140-breaking-frames"
+royalRoadId: "744040"
+---
+
+The temptation to start figuring out how to modify Ambrose's auric-ambient-flare was almost irresistable, but something more immediate demanded Caden's attention. He could see the damage, but its exact nature was still something of a mystery and he could tell that if he didn't fix this, Ambrose might very well die. After all, Caden's very presence here might be interfering with whatever contingency Prophecy might have provided for such a moment. And as interesting at it might be to step back and see whether Prophecy could still manage to do something in order to preserve the Chosen One's life, he was also terrified of the possibility that it might necessitate the appearance of a Fateweaver. After all, it seemed like the threads of the Prophecy had already been terribly abused — at least enough to warrant one Fateweaver's interest.
+
+A new sense of urgency took hold. Caden had to try to save Ambrose now, before a Fateweaver showed up to do it. He turned his mind away from the tantalising opportunity to playact as a rogue Fateweaver, and focused on the task of restoring Ambrose.
+
+Knowledge binds, but knowledge has layers. That was what the augera had told Caden and Emilia just hours ago, and even though that statement itself was just a distillation of what his own mind had managed to grasp from the augera's communication in pure conceptual thought, he thought it quite nicely described the situation before him now as he examined the damage Ambrose had accidentally done to his own auric-ambient-flare.
+
+With his new access to and understanding of the higher dimensions of oblivion, he learned he was actually able to sense and 'see' a little of how frameshifting worked. When they held certain concepts in mind and attempted to manipulate arcana through that conceptual framework, they were twisting the segments of their auric-ambient-flare in these higher dimensions, and it allowed them to do things that were not normally possible. But frameshifting could only get you so far because you were ultimately working with things you couldn't really see, which affected your level of precision. Using conceptual frameworks brought in all kinds of other associations that could unexpectedly pollute your pure intention, even as you co-opted one element of the framework to get the arcana to behave in a way you wanted.
+
+And it was only now, in this very moment so many weeks later, that Caden realised something. Reeves framework of instantly capturing a whole area in a field of ensorcelment relied on frameshifting arcana to behave like light, and that was why even the students' makeshift sequences, homebrewed over the course of just a single semester, were capable of holding that version of ensorcelment at bay. On some level all of them had found, through trial and error, a way to block the arcanic light of his ensorcelment. But it wasn't perfect, because light bounced off other objects and reflected back on a person from multiple angles, which was why no one's protections managed to completely block Reeves out. The augeric shell, however, was woven at a deeper level than Reeves' ensorcelment, and so it had shielded Caden completely. Now that Caden understood this, he knew how to deal with Reeves' ensorcelment fields without the help of the augeric shell, if it ever came to it.
+
+And this, Caden realised, was how Ambrose had come to be in this state. The damage was too nebulous and undefined to have come from a proper sequence. Even the destructive sequence that he had accidentally detonated back in Geldor was neater than this, in the sense that it had affected the physical world in perfectly understandable ways. So that meant that Ambrose had used a frameshift, and it had gone wrong somehow.
+
+As Caden considered the wounds on Ambrose's auric-ambient-flare, he realised that that was a strange sense of familiarity. It took a few moments of hard thinking, but realised he had seen up close the damage that shield-piercing sequences could do to both physical objects and arcanic shields, and the damage profile matched what he was seeing now on Ambrose's auric-ambient-flare. It was clear, then, that Ambrose had simply used that military-grade shield-piercer and applied a frameshift to it. But what exactly was the frameshift? He needed to figure that out to think about how it might have gone wrong.
+
+Caden thought back to the phenomenon of the two distortions in the sky, which had felt to him like twin wounds in the arcanic sea.
+
+"Oh Ambrose," he muttered, shaking his head a little.
+
+Someone heard and directed a question at him, but he simply jerked his head irritably as he turned his full focus to the issue at hand.
+
+It seemed like Ambrose had literally torn holes in the fabric of the arcanic sea itself. But if the arcanic sea was a layer of reality... what did this mean? What were the implications of that? And if the wounds on his auric-ambient-flare were of the same nature, was this even something that Caden could fix? That would be like having to stitch together a part of the fabric of reality itself. That was far, far beyond stitching flesh and blood and bone. Perhaps he had severely overestimated himself...
+
+It occurred to Caden how utterly absurd it was that Ambrose had managed something like that. If reality itself could be damaged by something as simple as a shield-piercer with a bad frameshift, why hadn't everything already fallen apart? What was keeping reality together in a world full of arcanists?
+
+Perhaps that meant the damage was not really that bad after all. There had to be another explanation for the distortions in the sky.
+
+Caden couldn't wait for Ambrose to regain consciousness so he could be asked about the exact frameshift. There was no other option — Caden had to get right inside Ambrose's auric-ambient-flare and read it from his memories.
+
+It felt like a violation of sorts to do something like this without asking permission, even if it meant possibly saving someone's life. This was very different from simply connecting with someone's thoughts in a gestalt, because even then, people had a degree of control over how much slippage of emotions and thoughts they were allowing. But with Ambrose completely unconscious, Caden would have almost unfettered access.
+
+He let out a sigh and resolved to talk to Ambrose about this later if he managed to fix this problem. With a slight tensing of his mind, he repressed his doubt and slipped his mind into Ambrose's essence.
+
+Having his hand on Ambrose's chest meant that their auric-ambient-flares were in direct contact, and with Ambrose unconscious, there was no resistance at all. The transition was utterly seamless, almost as easy as simply stepping into the arcanic sea.
+
+He was surrounded by stray memories and emotions almost instantly, but it was all too unfocused for him to catch anything meaningful beyond just the barest impression. In this hazy soup, finding the core of Ambrose's subdued consciousness was easy —  it was the roiling storm of thought that sent little pulsations across the entirety of his auric-ambient-flare, sending loose threads and fritters of his life fluttering across Caden's mind as he navigated the essence of the Chosen One.
+
+'... like to study? Maybe Thaumaturgy...'
+
+'... some friends. Shouldn't be alone...'
+
+'... here to see you. He's waiting in the...'
+
+'... hungry for more. An augera is...'
+
+Caden swatted aside the senseless noise and drew close enough to read the general trend of Ambrose's subconscious mind. It was a tangled mess of uncertainty and fear, stewing over hidden knowledge and insidious doubts. None of this was what Caden needed.
+
+But reading a mind wasn't anything like reading a book. There was no chronology clearly laid out for him in the sequence of the pages, or any promise of consistency. The mind flitted from one point of focus to another, dragging a thousand impressions in its wake, each connecting to yet more threads, and as an outsider he was stuck without a sense of how everything came together into one cohesive whole.
+
+I need a point of reference, he thought. Something to navigate memory.
+
+What would Ambrose have tapped on in order to apply a frameshift? Perhaps the whole theory of frameshifting itself. It'd be hard to find a concept, so perhaps a face would be a better starting point. Caden worked up a mental image of Reeves, calling forth his own memory of the lecture where they had been taught about frameshifting, and gently prompted Ambrose's mind.
+
+Immediately, the tenor of Ambrose's thoughts shifted as a segment of his sleeping mind reviewed its own recollection of that event, allowing Caden to trace its path through the auric-ambient-flare and see where it briefly intersected with a thousand other points. But there was too much to sift through in a timely fashion.
+
+I need another pattern, Caden mused. What is the shape of the knowing of frameshifting in Ambrose's mind?
+
+That was an easier question to answer. Ambrose himself had given the shape of knowing itself to Caden directly, so Caden had an almost perfect match in both their auric-ambient-flares. It stood out like a sore thumb the moment he thought to look for it. From there, he could trace the intersection between the shape of knowing itself and what Ambrose had learned in Reeves' lecture.
+
+And there it was. The knowledge of frameshifting sat in Ambrose's auric-ambient-flare like a distinct whorl. It was shaped differently from Caden's own understanding of frameshifting, and this, Caden realised, was how it must look to the augera when they peered into people. They would see analogous patterns, but the details would be different. In the case of him and Ambrose, the difference wasn't too vast because they were both humans, and both arcanists, and had many other things in common. But the augera probably only saw a vague shape, and had to work extra hard to bridge the gap in conceptual understanding. That was why it was so hard for humans to understand the augera.
+
+But fascinating as this was, it was not the time to study the difference. Caden worked quickly now that he had the thread, and he followed Ambrose's understanding of frameshifting to the many other memories where it had come into play. To sift out the ones most likely to have what he needed, he threw in another prompt — the image of the twin holes in the sky.
+
+And there it was. A perfect intersection. The moment of decision when he had called upon his understanding of frameshifting and made use of it to lash out at the fabric of arcana itself.
+
+Caden gently eased himself into the memory—
+
+—can't hit them if their auric-ambient-flares are veiled in oblivion, but I've got hold of something. Can't aim at it directly. Maybe an area? But they can shield, so I need to work on the arcanic sea itself. Glyph of arcanic field amplification... can be amplified, so does that mean... maybe. I can aim at the aranic sea. But how does that work? ...Fields! Scorch it all, set the arcana itself alight, tear it up—
+
+Caden wrenched himself out with a shudder. There was such a terrible intensity to Ambrose's thoughts that it was hard to really bring himself out of the moment. An undercurrent of fear because of the danger of the situation was there, but soaring over it all was a single-minded joy, a rush that came with the sheer power he had at his fingertips, and the utter certainty that he was capable of shaping the world, and was destined to do it.
+
+It was troubling to see how Ambrose was through his own eyes, and Caden was sure he'd be haunted by this, but for now he had what he needed.
+
+Ambrose had used his understanding of an esoteric glyph from the Special Set in order to help him visualise his intention — fire and torn earth. Ambrose's shield-piercer had turned into a beam that had told the arcana to burn and tear itself up.
+
+The problem was huge, but it was no longer intractable. Caden had an idea. He slipped out of Ambrose's mind and started his work.

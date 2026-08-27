@@ -1,0 +1,155 @@
+---
+id: 264b8362-814c-54fc-98b1-1221f92b5b66
+page-type-slug: story-chapter-royal-road
+title: "v7c71: Pressure"
+slug: 0324-v7c71-pressure
+partOf: beware-of-chicken
+position: 324
+ownLength: 1856
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3592317/v7c71-pressure"
+royalRoadId: "3592317"
+---
+
+While her Connected Ones moved to surround Ash Forest, Tianlan was busy repairing her Dragon Veins.
+
+Tianlan’s connection to Ash Forest had been tenuous at best since Bi De visited, and the pressure put on it at the solstice had all but obliterated that line, along the primary pathway in the formation; it would take years to go through that area.
+
+So they just went around it. It did take a bit of finagling, worming her way through smaller offshoots of her system that had survived, and circling around further west to patch herself through.
+
+The connection was… rough.
+
+Tianlan choked back a groan of pain—it was like suddenly becoming aware of an extra limb. And that limb had about fifty knives stabbed into it. Her Connected Ones took some of the burden for her, Jin’s and Meiling’s steps stuttering as they felt it.
+
+The damage was far more extensive than she had been expecting; there were pools of her blood everywhere. Most felt like pools run dry, the remaining energy gone and the veins deflated. But enough were still pumping out her Qi.
+
+She spread out and took stock of the damage, when she noticed one of the pools near the center of Ash Forest draining. Normally she wouldn’t have noticed, her senses still not one hundred percent, but it was like something directed her attention towards the drain.
+
+That was where the hornets had driven the Blaze Bears from… and that meant it was drinking her blood.
+
+It was something she couldn't really do anything about directly. She couldn’t just reach up, and interact with the hornet’s soul like she could with her Connected Ones, when they meditated. The hornet was firmly in the physical realm, and thus she couldn’t really interact with it.
+
+Tianlan only had two real options. The first was a curse—but curses were exhausting things. They needed hatred and resentment… how was she supposed to hate a Spirit Beast that had probably happened into this accidentally? She felt pity for the creature more than anything.
+
+So the only other thing she could do was shut off the spigot.
+
+She reached up to the pool of her own blood, to block the flow—and then the tribulation lightning hit.
+
+For a moment and an eternity, the heavens and the earth were connected. The celestial power reverberated through her Dragon Veins, through her soul, heaven’s judgement neither peaceful nor kind.
+
+Normally something like that was nothing to a province, but with the veins already destabilized, and her “soul” so close, it was highly unpleasant. Something burst in her nose, and golden blood splattered to the ground.
+
+Flashes of moments, flashes of memory forced itself into her. The pride of raising her colony to such heights. The indignation that anything would dare to try and dictate terms to her. The fury that even the heavens themselves were trying to judge her actions—
+
+And then the feeling cut out, as the Yellow Empress threw off the judgement of the heavens, and rose into the air.
+
+Tianlan blinked the stars out of her eyes. Her ears were ringing.
+
+‘....anlan! Tianlan, are you alright?!’ her Jin demanded.
+
+“‘M good,” she said, ‘This might get a bit messy, though.’
+
+========================================
+
+The battle against Vajra’s most hated foe had erupted into chaos after the heavens had opened up and lightning had poured down. Their enemy’s capabilities had increased dramatically—but more worryingly… they had started copying the techniques that the others were using.
+
+Vajra watched it all through the eyes of her swarm, so it was impossible not to notice.
+
+The small hornets split with tiny bursts of wood Qi like the Emperor’s concubine’s grass swords. Their claws were reminiscent of Princess Tigu’s Qi claws and Bi De’s own spurs. They formed armour with sunbursts on them like Princess Yin, and they were spitting poison instead of fire like the Blaze Bears.
+
+Even as she watched, one of the giant hornets suddenly covered its stinger in energy, and used a bastardized, half-baked spear thrust that one of the human cultivators had used.
+
+The next one to use that strike was better.
+
+The third, even more refined.
+
+Even as they died in droves, they fought with savagery, tenacity, and intelligence. They started copying more and more tactics instead of just throwing swarms forth, ambushing, feinting, and feigning retreats.
+
+Millions had to be dying every hour, and yet there always seemed to be more—and one of Vajra’s scouts found out why as a hive practically erupted, all the larvae within growing to adulthood in moments.
+
+If any of the forces within Ash Forest were alone, it would have been their defeat. The swarm would have escaped. Only the Emperor or perhaps the Empress could have ended this directly—but both of them fully unleashing their might would have slain the entire forest.
+
+And yet they were not alone.
+
+The hornets seethed. They attacked with overwhelming ferocity, and yet still they were being pushed back.
+
+The ring of humans and bears pushed forward relentlessly, until more and more of them started to overlap. As always it was the same. A moment of frozen hesitation, the urge to attack each other—and yet each and every one of them put that aside.
+
+They moved forward together, forcing their enemy into a tighter and tighter area. Vajra’s hive watched without cease—she was in her element, intercepting any escapees, guiding those who got disoriented in the swarms and the smoke of the battlefield, and on more than one occasion, her daughters took position over one of those who were overwhelmed, fighting off the forces of the Yellow Empress.
+
+Bane of the Black Lances was utterly magnificent—her greatest daughter’s prowess filled Vajra with pride as she and her sisters took down ten, twenty, then thirty times their own number without casualty! In the previous war, they would have been true heroes.
+
+But the bulk of the damage was being done by others.
+
+The hornets that tried to take to the skies were met by a living sun and a shining moon; noble Bi De stood upon a disk of silver light, its radiance matched only by a ball of fire that hurt to look at. The sun and moon circled each other like they were reenacting the celestial dance, and nothing could survive above the treetops. If it was not destroyed by the sun or the moon, the howling polar winds and the blasts of lightning would certainly finish the job. Either way the hornets burned, and were forced back to the ground into the fires of the bears or the swords of the humans.
+
+Cai Xiulan’s voice echoed through the forest, an old primal song that made Vajra shudder… and made the forest seem to take notice. Her moves were elegant and beautiful as she advanced, each step seeming like it was choreographed with their foe beforehand. Her swarm of blades formed dizzying beautiful patterns, spiraling flowers and growing trees; with a flick of her fan everything before her perished, falling to the forest floor like raining blossoms.
+
+Nearby, a tiger reaped her own brutal tally. Her Qi Claws simply tore through any offense or defence, her sharp eyes making sure nothing escaped her judgement.
+
+The Emperor simply walked forwards. He clapped, and the enemy obediently laid themselves down and perished, as was good and right.
+
+Their enemy redoubled their assault—and for a moment, the ring paused, as more and more of the giant hornets forced their way to what was the weak link—the line of bears, who were staring to flag.
+
+But the hornets’ efforts were in vain, because the seeds of their defeat had already been planted.
+
+“Ah, so that's the Qi connection… and that's how we can change the transmission vector…” the Empress murmured, and Vajra relayed her words to her apprentice. “It’s been a pain having to control so much poison over a wide area.”
+
+“Ri Zu is sure our friends will thank us for holding back until we could do this safely,” the little rat replied, on the opposite side of the circle.
+
+“Are you ready, Ri Zu?”
+
+“Yes, Master!” the rat squeaked.
+
+The Empress chuckled, an almost maternal look on her face. “We should adventure more often, little sister. Now… let's drive in the knife.” Her eyes burned purple, and her freckles connected with bands of golden light.
+
+The Empress and her disciple clapped their hands together. Their Qi flared, and linked.
+
+[Medicine Arts: Targeted Inoculation]
+
+The sickly sweet smell that had permeated the battlefield faded. The screeching hornets abruptly froze, and started to stagger. A great roar came from the bears, and cheers from the humans, as the battle started to become a rout. Their foes fell like chaff.
+
+What had been Vajra’s worst nightmare… was being crushed before her eyes.
+
+But some did not fall. The ones closest to their queen managed to stay standing. They were oddly smaller than the previous hulking versions. They were slimmer. Faster. More human-looking. Their stingers had largely disappeared. Instead, their arms were pointed like lances, or curved into sickle shaped blades.
+
+The Emperor stepped into the clearing. On his shoulder landed noble Bi De.
+
+The rooster looked to his Master—but the man simply nodded at him.
+
+“This is our final offer. Will you surrender?” noble Bi De asked.
+
+Her response was a screech of outrage and anger. One final act of defiance from the swarm.
+
+The Emperor and noble Bi De both gave equal sighs of resignation.
+
+Then, the Emperor spoke.
+
+“You know, I don't think we’ve ever fought together, have we?” he asked, raising his fists.
+
+“No, we have not. That is something to be rectified, no?” Bi De replied, getting into his own stance.
+
+And yet even with those words, they moved with perfect synchronization. A man and his cock met the tide of chitin, and brushed it aside.
+
+It was a stunningly beautiful sight. Silver wound around fists coated in gold, forming a delicate, shimmering web.
+
+It was a dazzling dance—and Vajra nearly missed the arrival of Yun Ren and Paobu, the two of them skidding to a stop, their own eyes wide at the mastery displayed. The Blaze Bear was gaping at the Emperor, looking half horrified… and half glad he was present.
+
+The Emperor turned. With the guards dealt with, he laid eyes on both Yun Ren and the bear. Paobu shuddered when his gaze landed on him.
+
+“Good to see you again, Pooh Bear,” the Emperor said, an amused lilt to his voice.
+
+The bear trembled, and for a moment, looked like he was about to turn and run.
+
+But he proved his worth as a brave warrior.
+
+‘Good to meet you again, sir!’ Paobu managed to get out, bowing deeply.
+
+The Emperor nodded.
+
+“Now… let's finish things.”
+
+They turned to look at the massive hive at the heart of this clearing. It had been the most heavily guarded of them all… and they had a feeling their foe was within. It was strung between the boughs of at least fifty trees, a palace of paper.
+
+All that was left was for them to find the queen.

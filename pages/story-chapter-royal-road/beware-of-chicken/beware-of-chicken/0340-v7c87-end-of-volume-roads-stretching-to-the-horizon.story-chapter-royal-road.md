@@ -1,0 +1,255 @@
+---
+id: b5ff4934-9d18-56bc-9c38-fdbcb5545c86
+page-type-slug: story-chapter-royal-road
+title: "v7c87 END of volume: Roads, Stretching to the Horizon"
+slug: 0340-v7c87-end-of-volume-roads-stretching-to-the-horizon
+partOf: beware-of-chicken
+position: 340
+ownLength: 3406
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3751519/v7c87-end-of-volume-roads-stretching-to-the-horizon"
+royalRoadId: "3751519"
+---
+
+The news spread across the Grass Sea like wildfire; through transmission stones, through word of mouth, and through the whispers of the Plum Blossom’s Shadow. Soon, there was not a soul in the Azure Hills that did not know of the Lord Protector, the youngest Lord Magistrate in the Azure Hills. The youngest to ever hold the title, it was said.
+
+A young hero, properly rewarded for his efforts. A city that had organized a spontaneous celebration, its people taking to the streets in jubilation—and the Lord Protector himself walked among them, witnessing their joy for himself.
+
+===
+
+The Lord Protector of Grass Sea City glanced to the side as another great cheer from the crowd gathered around this particular stall rang out, and An Ran laughed delightedly.
+
+“Oho, didn’t you say you would score double?! Even if we combined your two scores, you’re still behind me!” An Ran declared, sticking her tongue out at the twins and flinging out another brace of rings one-handed. The game was rigged… but to an acceptable amount. It was merely hard to win, not impossible… but watching An Ran score so effortlessly, you wouldn’t know it. Every single ring settled perfectly.
+
+“Ama tat, you swindler!” Narantuya fired back, stomping her foot childishly.
+
+“Cheater, cheater!” her sister agreed, both of them bristling like cats. “You all see her, no? She uses techniques on a children's game!”
+
+“Sounds like the words of losers,” An Ran taunted. “And you two started it, throwing your rings to try and knock mine off course!”
+
+“You’re all fools, getting so worked up over a children's game,” Xinlai declared, shaking her head. She was leaning against the side of the stall, her eye on the crowd. Her presence prevented them from getting swarmed, her icy glare a physical force that made people mind their manners, even as the celebrations loosened their inhibitions.
+
+The Lord Protector was grateful for it; he actually liked talking with the people and spending time with them, but there was too much of a good thing.
+
+“Ain’t the only reason why you didn’t join in ‘cause you would lose?” Lao prodded, and for a brief instant, the haughty mask slipped as Lao scored a blow.
+
+“Yeah, she just surrendered,” An Ran said, still entirely too pleased with herself.
+
+“No contest, no contest!” the twins chorused, switching targets.
+
+He saw a vein start to bulge in Xinlai’s forehead and carefully kept his own face neutral, no matter how funny it was. He turned back to his own stall and carefully threw a ring.
+
+It bounced once, twice… but it landed. He smiled.
+
+“Great aim, Lord Protector!” the stall owner declared, handing over the prizes he had chosen. The man had at first just gone to hand them over without them either paying or playing… but the Lord Protector insisted on winning them fairly.
+
+And just in time too, as all the girls were starting to argue.
+
+“I won these for you,” he seamlessly stepped in and slipped a small wooden beaver into Xinlai’s hands—she had mentioned liking the little builders, and he was fond of them as well, the plump, industrious fellows they were.
+
+“Oh… thank you,” she said, the anger melting away. Her smile came back, small and genuine.
+
+“A beaver?” An Ran asked. Xinlai clearly expected some teasing over the less than noble animal and tensed. “They’re so cute, and the way they slap their tails!”
+
+“They are cute, aren't they?” Xinlai asked, the tension easing again.
+
+“There’s also a deer,” he said, handing over An Ran’s favourite. She brightened up too, and he turned to the twins, who were waiting eagerly.
+
+“Haha! A little friend!” Narantua exclaimed. She liked a cute beast from the Grand Ravine called a sloth—not to be confused with a Talon Sloth, a massive, predatory Spirit Beast with claws that could punch clean through a Blaze Bear—but just a regular sloth. How they were related he had no idea. He had seen one hanging on a merchant’s cart, looking around at passersby while very slowly munching on some leaves.
+
+“You remembered…” Sarantuya murmured, taking the otter. Apparently, when Narantuya said she liked sloths… most people just assumed the more reserved sister shared her opinion. Sarantuya looked genuinely touched he remembered.
+
+“Hey, we match!” Lao said, taking her own otter with a grin.
+
+Sarantuya smiled. “Naran, I’m trading you for this one, okay?”
+
+“Eh?! Sister, you dare?!” Narantuya yelped.
+
+The Lord Protector chuckled.
+
+Things were still… muddy between them all. He still didn’t know where all of this would lead, but he had promised Xinlai, Lao, An Ran, and the twins he would make every effort to make it up to them for playing dense before. He had plans; they had arranged some one-on-one time, as well.
+
+But right now it was all of them… and it was nice.
+
+His mother had been most relieved he had at least given it some thought. Yesterday had also been much more pleasant than he feared, but his Lady Mother was a peerless politician and had unparalleled elegance; everyone had come away gushing about his mother’s grace and charm.
+
+And both she and his father had given him… advice. Which was absolutely mortifying, because hearing those kinds of things from his parents felt wrong. But also appreciated because it was genuinely good advice, even if he could not look Lady Xue Ji in the eye.
+
+Which… well, he didn’t even really want to think in that direction. That way lay madness. The ropes were a good idea though…
+
+He forced the thought from his mind. Today was a day of celebration… and getting to relax a bit was nice. He could delegate, just for a few days—especially considering that his own ministers had heavily suggested he go out and enjoy himself.
+
+They left the stalls together and continued into the city.
+
+“Lord Protector!!”
+
+“Lord Protector! Here, please, have a drink on me!”
+
+“A thousand blessings, Lord Protector!”
+
+Everywhere they walked people called out to them. To him. This entire thing was for him, and the people were celebrating because he was appointed as their ruler.
+
+It was a heady feeling. A good feeling. No, a great feeling, now that he wasn’t constantly worrying about how he would explain everything to his successor, he could really just… feel it. It made him break out in a smile that he struggled to keep from growing too wide. He knew he could very easily get drunk on this and lose his head entirely, but his Father’s words came back to him.
+
+‘Do not rely upon this love; it must be nurtured. It must be maintained—and it must never be taken advantage of. Else it will curdle into hatred and resentment,” his father had warned him yesterday, his eyes as serious as the Lord Protector had ever seen them.
+
+He was correct. Absolutely correct. He could not lose sight of what brought him here. He had to repay their trust.
+
+But in the meantime… the praise felt good. Really good.
+
+He paused as a thought came to him. That was it. He would do such a good job that every year they would have a party in his name like this, and he could walk the streets and really listen to the appreciative crowd…
+
+===
+
+In light of all this news, people converged upon Grass Sea City by their thousands. Surrounding villages emptied out; traders going to and from Yellow Rock Plateau docked, and stayed. Even cultivators made the journey to pay their respects to the Lord Protector.
+
+Including some very high ranking cultivators indeed. Familiar names that had resounded throughout the Azure Hills many times. The strongest, and most distinguished names…
+
+===
+
+Xiulan struggled to keep the smile off her face as she sipped her tea. Jin, sitting across from her, was doing the same while Meimei was turned to the side, watching the drama with rapt attention along with Loud Boy and Rags.
+
+“And did you reinforce them the way I asked?” Gou Ren asked, his arms crossed. “And you checked the water level?”
+
+Xiulan and the rest of the Azure Heroes had arrived in Grass Sea City to pay their respects to the Lord Protector—but first, they had come to find Jin and Meiling, who were also in the city. They hadn’t expected Yun Ren and Biyu to be here already as well, but they had made good time south, and upon hearing of the celebration, had changed course.
+
+Gou Ren, naturally, decided that now was the best time to, as Jin called it, ‘bust Yun Ren’s balls.’ A crude but accurate euphemism.
+
+“Yes, I got the water level right, to the letter!” Yun Ren growled back. Summer’s Sky rattled in affirmation from its place at the table. There was a cup of tea in front of the sword… and it was sitting across from Sun Ne the plow and Jin’s shovel, given the name Lao You—Old Faithful. Xiulan could feel the nascent spirit tool reacting to the Qi coming off the Spirit Weapons with something that approached curiosity—but it was still too young and unformed to do anything but swat at their tendrils while the other two weapons conversed about something.
+
+And while Yun Ren and Gou Ren argued, there was another conversation going on beside them.
+
+“I made this for you, and this one is for your baby! It’ll match!” Biyu exclaimed, showing to Xianghua the sash and the traditional cloth women used to carry their babies on their backs.
+
+“I am blessed to have such a thoughtful sister,” Xianghua said earnestly, pulling Biyu into a hug before turning to Yun Ren. “And it is wonderful to see you again as well, Honoured Elder Brother.”
+
+“I did between the rows, better than you, blockhead—” Yun Ren breathed out, then turned to Xianghua, his snarl evaporating. “Xianghua, amazing to see you again, you’re golden, glowing, absolutely radiant.” He captured her hand and kissed the back of it. “You’re going to be a wonderful mother—and I’ve always wanted to be a monkey’s uncle.”
+
+Xianghua preened. She was indeed glowing, and took every opportunity to be smug about it in front of Xiulan.
+
+“Biyu, you’re the best as always,” Gou Ren said. “Thank you for giving this guy some of your work ethic.” Yun Ren turned back to his brother, absolutely offended… then saw Gou’s taunting grin.
+
+“Alright that's it, you little shit!”
+
+“Be back for dinner,” Xianghua said absently as the brothers started to scuffle, leaving the boys to catch up.
+
+“Yes love/sister-in-law!” the brothers chorused, pushing and shoving each other as they walked off… using the fight as an excuse to spend time together. They disappeared into the crowd.
+
+“I suppose that’s our cue,” Xiulan said with a small smile. “Shall we, Xianghua?”
+
+“Yes, let us pay our respects to the Lord Protector and the others,” Xianghua said. “The sooner we pay our respects, the sooner Delun and Tigu can continue their courtship—and the sooner you may go back to eating an obscene amount of food, Yin.”
+
+Tigu and Delun, who had been looking over a map of the city together, rolled it up. Delun glanced at Jin and Meiling, but both of them simply nodded.
+
+“I expect her back home before sundown,” Jin said… but with a wink, it was clear he was just teasing. “Have fun, you two.”
+
+Meiling gave both of them a lingering glance, but gave Delun a nod too. Xiulan’s brother wouldn’t do anything inappropriate or improper. Tigu might, though… but what she considered naughty so far were relatively chaste kisses.
+
+Xiulan thought they were disgustingly cute and pure.
+
+Yin stuffed the last of her meal in her mouth, belched shamelessly, and rose. “See ya soon! I’m hitting every one of Wa Shi’s recommendations tonight!” she called, fist bumping the fish.
+
+“I’m sorry, little bro, but me and Shaggy Two have to go!” the Torrent Rider said to Zhuye, who had buried his face in the Spirit Beast’s shaggy fur.
+
+‘Bye bye! Play later!’ Shaggy Two barked happily, and Zhuye waved.
+
+“Bye bye! Aggy! Raggy! Ou… ouboy!” The last one was a struggle for him to get out, but sounded enough like Loud Boy. Wei looked touched.
+
+Rags grinned and pointed at the toddler. “See ya later, little man!”
+
+“Later little bro!” Loud Boy said, ruffling Zhuye’s hair.
+
+And so they set off into the city. They pulled off their travelling cloaks and hoods, revealing blue robes with the characters for Azure on their back. Where they walked, the people made way, clearing a path for the Azure Heroes.
+
+There was no fear in the mortals' eyes; instead, there was only admiration.
+
+The city would never have to fear predations from those that would see them safe.
+
+Xiulan longed for a day when this was the truth for all the Azure Hills—and beyond it as well. Perhaps not just the Azure Hills, but for the entire world?
+
+But now was not the time to get too ambitious. They had a path to forge. And she would walk it wherever it took her, with the companions she had beside her.
+
+For now, she had a Lord Protector to congratulate. And then she would see how An Ran was faring with her love life. She hoped it was going well!
+
+And when she learned exactly how well, Xiulan’s face went crimson.
+
+===
+
+They said it was the largest celebration in the city’s history—but every grand party has to come to an end eventually. With great reluctance, the instruments were set down and the city churned to regular life again. The great forges lit their fires, the fishing boats and trading junks loosed their sails, and the city in the Grass Sea became just a city once more.
+
+Though alcohol would be in very scarce supply for weeks afterwards. An accounting of the drinks took a while to tabulate, but it seems there were some five million, forty-six thousand, and two hundred bottles of varying types of alcohol consumed—enough for every person in the city to have drank nearly five bottles each. However, accounting for visitors, it is likely closer to four…
+
+===
+
+The city was finally relatively quiet by the morning. I watched from the balcony of our rooms as people got up and ready for the day. While enough people looked spectacularly hung over… they still went to work with determined expressions on their faces. Community teams organised themselves to help clean up any trash, and the city went back to normal with surprising speed.
+
+A man slammed down in his seat next to me on the balcony.
+
+“I swear, they make people different in the Azure Hills,” Gramps said, taking a pull from a large bottle. “It was spectacular, for having such little Qi. These mortals sure know how to throw a party!”
+
+I chuckled at his observation and buried my fingers into Big D’s feathers. Gramps, true to his word, did pop in—along with Big D and Rizzo, whom he had arrived with one night on his flying sword. I don’t know how he knew of the party, some kind of sixth sense, but he sped here as fast as he could. Spooks had declined to come to the party, staying with Vajra and the bears, but the two goobers got kidnapped.
+
+And we did too. Gramps decided the best place to spend one of our evenings was in the local high end courtesan house, called the Jade Palace.
+
+Which was definitely a little bit strange at first, especially since half of us guys were married and our wives were along… but the memories from the Crucible told me the really high end places didn’t have much hanky panky going on. Instead it was music, dancing, poetry, games, and conversation—Meimei actually made something of a friend there, one of the courtesans knew a lot about herb collecting and they started chatting about energy drinks.
+
+I got to play a game that involved alliances and backstabbing that didn’t have people getting pouty at me.
+
+Well, there was some pouting. Yihan was apparently the best in the place at that game, winning against magnates and trading company kingpins—only to get her ass beat by yours truly.
+
+Everyone underestimates the golden retriever energy. Play happy and clueless, and absolutely murk some poor sod when they think they’ve won. Her defeat was something of an event—one of the other courtesans actually got a horn out and started blowing it to complete my MLG play while Yihan sat there with her mouth open, pointing at me.
+
+I don’t know if I would go back any time soon, but it ended up being an actually fun evening.
+
+We sat in companionable silence for a few moments, watching the city go about its day, before I turned back to Gramps. “So, have you been having a good summer so far? Big D told me you said you went off the farm to do some things.”
+
+He nodded, his body language completely relaxed. “I’ve been having a most enjoyable and interesting time; My cultivation is repairing well. I have learned some interesting things, and I spent some time gathering reagents—ah, and I got my hands on some things for my granddaughter as well. I thought she needed a reward for all her hard work, and she was missing some tools from her arsenal. Skyshimmer Spider Silk for stitching wounds and crafting bandages… and it has been a while since I’ve truly crafted a blade. Granddaughter is always speaking of her scalpels. That Han boy did an alright job, but my granddaughter will have something truly worthy of her.”
+
+I whistled. “Damn.” Meimei was going to have a legendary artifact soon.
+
+“I would have made something for you as well… but the item I thought to forge had been forged already, and it suits you.” He nodded to Old Faithful. He was right. My old buddy was perfect the way he was now. “The Tie family… they are acceptable.”
+
+Which was insanely high praise from the old man.
+
+“I may have the shovel… but I could always use a frying pan or something,” I replied.
+
+Gramps laughed. “A frying pan? You have Shen Yu saying he will make something for you, and you ask for a frying pan?”
+
+“A paring knife would be really nice too. If it's made by my Gramps, I’d use it every day.”
+
+The words seemed to strike him for a moment, before he let out a breath and shook his head. “As long as it's from me, hmm? Very well. A frying pan you will have. It shall be a frying pan to surpass all frying pans, mark my words!”
+
+I matched his grin with my own.
+
+We sat together under the rising sun, watching the streets, before I turned to face north—towards home.
+
+We had come a long way, repairing Tianlan’s Dragon Veins. We had met so many people already... and we still had plenty more distance left to go.
+
+I found myself looking forward to it, wondering with interest what the future would bring.
+
+Somewhere in the distance, a rooster crowed. Big D, who had been dozing in my lap with Rizzo, bolted upright. By reflex, he crowed in retaliation… and then looked quite embarrassed.
+
+I just laughed.
+
+“You tell ‘em, Big D.”
+
+======
+
+And so this chapter ends, and a new one begins. What new and wonderful sights await me when I return to these weak, yet wonderful Azure Hills—
+
+“Your order, sir,” the serving girl said, putting the plates down in front of him. The man paused, then washed off his brush and placed his writings off to the side.
+
+“Thank you,” he said, looking at the spread before him. It looked delightful.
+
+“That’s a mighty breakfast! Just for you?” the serving girl asked, sounding impressed.
+
+Tao the Traveller smiled. “Indeed it is! I’ve spent a while in the Azure Hills already, but now the road is calling again!”
+
+The serving girl smiled. “Well, good luck on your journey—and I hope you make it to wherever you're going!”
+
+“It's a bit of a jaunt, but I’ll be back soon enough. It's just too interesting to stay away!”
+
+He couldn’t wait until the next official tournament, and see if they had implemented his recommendations for the stadium, after all.
+
+Tao the Traveller ate hearty. The road was calling—and he had such a tale to tell.

@@ -1,0 +1,145 @@
+---
+id: 15a39fe1-fcb8-5355-8fad-871bd9ff57fc
+page-type-slug: story-chapter-royal-road
+title: "108. Flight and Fire"
+slug: 0108-108-flight-and-fire
+partOf: breaker-of-horizons
+position: 108
+ownLength: 2026
+unit: words
+publishedAt: 2021-05-13
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/681697/108-flight-and-fire"
+royalRoadId: "681697"
+---
+
+When morning came and the group was gathered for breakfast, an apologetic Ambrose explained what had happened the night before. Everyone was extremely interested in Caden's experience in oblivion, so they spent most of the meal dissecting his description of the brief moment he had spent beyond the veil.
+
+"Do you think we'll all eventually manage it?" Devon asked, sounding quite queasy at the prospect of one day having to attempt it.
+
+"I don't know if you have to," Ambrose said, looking uncertainly at him. "But like Jerric said about the dancing thing, if you can get any sort of advantage, then it may be worth trying, at least."
+
+"We should all try it at some point," Kevan said, shooting a glance at his brother, who had been very quiet throughout the meal. "If only to keep pace with each other."
+
+Devon, Emilia, Jerric, and the twins exchanged nervous looks.
+
+"Did we miss something?" Caden asked, picking up on the sudden tension.
+
+Jerric sighed, then launched into a summary of what Emilia had pointed out the night before, about the idea of how all the anchors and the Chosen One might be forming some sort of meta-gestalt even if they weren't positioned in a physical one, and were consequently all in a position to try to seize control of the entire gestalt.
+
+"So you see," Jerric concluded, "if Ambrose is the only one in the gestalt who can operate in oblivion, then he's probably going to always be the one in control because he'll be operating at a higher level than the rest of us when it comes to arcanophany."
+
+Caden frowned. "I'm not sure if that power is something the rest of the anchors is meant to have. Maybe a case can be made for Emilia because she's the one who presumably helps Ambrose figure out how to properly function in oblivion, but it seems that everyone else has a different role to play."
+
+"But if they might be able to learn," Ambrose interrupted, looking thoughtful, "maybe they should. The Prophecy might only mean for Emilia to get that far... but it's a point of deviation we could introduce if we wanted to."
+
+"If?" Lynus repeated, speaking up for the first time that morning.
+
+"Yes, if," Ambrose confirmed. "I'm not sure how much we want to push against the Prophecy for the moment. We can shelf this for now."
+
+It felt like there was a lot more to be said, but after Ambrose's statement, a sense of reservation had come over everyone else, and the rest of breakfast passed in relative silence as everyone retreated into their private musings.
+
+After the meal, Caden and Ambrose got to work on figuring out the manor's defences again. They sequestered themselves in the room with the artefacts, and stood in a simple gestalt position — side-by-side, about half an arm's length apart.
+
+"Ready?" Caden asked.
+
+Ambrose nodded, and together, they slid into the arcanic sea.
+
+Caden realised that Ambrose had been right about his senses being heightened. The vague little ripples and eddies he had seen in the arcanic sea had become more apparent to him, and looking at the way they flowed actually gave him some intuitive understanding of how it was behaving and what was happening, much like how a person could glean information about someone's mental state by reading their facial expressions.
+
+The gestalt they had formed wasn't something that naturally had a leadership position because it was one that was meant more for even distribution of arcanic loads. Despite that, Ambrose took a backseat and allowed Caden to steer their collective consciousness. Together, they ventured to the edge of the manor.
+
+'It's definitely working,' Ambrose sent quietly. 'I'm picking up a lot more than I did before.'
+
+Wordlessly, he drifted forward and stopped short of the wall. As Caden watched, a little swirl of arcana unfurled itself from Ambrose's auric-ambient-flare before making tenuous contact with something that was rippling, invisible, in the arcanic sea. At the point of contact, Caden felt the arcanic sea tremble ever-so-slightly. For a brief instant, he managed to glimpse the scale of the protective sequence that was currently covering the manor. It stretched far out of sight and seemed impenetrably dense. Then, it faded into invisibility again.
+
+'How on earth is something this big being maintained?' Caden wondered.
+
+'There must be a battery or focus somewhere in the manor,' Ambrose replied. 'Did you catch any lines running away from it?'
+
+'I think you're going to have to ping it again, and—'
+
+The two of them felt a sudden, terrible twisting in the arcana, and they instinctively wrapped themselves in dense shields. A second later, an explosion sounded off, terrifyingly close, and Caden felt his teeth rattle. The very foundations of the manor itself seemed to shake. Startled, the two of them dropped out of the arcanic sea.
+
+"What?!" Ambrose stared around in confusion. The room was still intact.
+
+"I think it came from the grounds!" Caden said, his ears ringing a little. He crossed over to the nearest window and looked out, but there was nothing.
+
+"Let's get the oth—" Ambrose began.
+
+Just then, Devon hurtled into the room, his eyes wide with panic. "There's fighting in the house. I heard them!"
+
+Before he could say anything else, Jerric, Emilia, and the twins hurried into the room as well, and Lynus slammed the door shut behind them.
+
+"What's going on?" Ambrose demanded.
+
+"Agents are holding off some attackers," Lynus managed to say, still gasping for breath. "Saw some. Big explosion was the main door coming down."
+
+"This is our chance," Emilia declared, though she looked a little flustered. "Agents are occupied. We can slip through in the chaos."
+
+Everyone instinctively turned to Ambrose, who took a moment to weigh the decision before nodding. "Let's do it. Grab what we can, and let's go!"
+
+The next five minutes passed in a frenzy of activity. Since they were already planning on leaving, they had packed the artefacts into bags and boxes ready for transport. Each of them already had a pack ready to go, so it was a simple matter of grabbing their own bags. That left some of the bulkier boxes.
+
+"Think we can get a vehicle?" Jerric asked, though he looked doubtful.
+
+"We should be able to make it to the garage out back," Devon answered. He ran to a window to check out the scene, then nodded. "Just around that way. I've got something for the trip."
+
+Caden popped the Panopoly ward on the window and together, they hoisted the boxes out. The twins used a common sequence to produce a simple floating platform that would lighten the load a little and loaded up the boxes. With Devon in the lead, they crept as quietly as they could.
+
+The distant sounds of battle reached their ears as they went around the back of the manor towards the garage. Caden recognised the sinister hum and zap of some of the sequences and guessed that the assailants were Sedhahns, like the ones that had ambushed his convoy. And even though he wasn't really focusing on it right now, he managed to get little snatches of how the arcana was being shaped. It was like recognising a part of a song.
+
+"Wait!" Ambrose barked suddenly, rushing forwards and throwing out an arm to stop the rest.
+
+Caden felt it a moment later — a cloying weight that was creeping up on them. The others quickly sheathed themselves in protective energy as they, too, picked up the perturbation in the arcana.
+
+'We know you're there.'
+
+All of them flinched at the unexpected contact through the arcana.
+
+"Just one?" Devon asked softly. "I think we can take them."
+
+"No!" Ambrose said, his voice tense. "There's more."
+
+'Come out, with your defences unfolded.'
+
+Ambrose was right. It wasn't just one person making contact. It was several voices layered over, blended so smoothly that at first it almost seemed like a single mind. But it was almost impossible to tell exactly how many people there were.
+
+Jerric cursed. "It's a gestalt. What do we do?"
+
+Caden briefly considered forming the glyph that would help call reinforcements, but he quickly dismissed the notion. That was something to be done only as a last resort, since they didn't want any agents stopping them from leaving.
+
+"We have to fight," he said grimly. "Standard spearhead. Ambrose takes point, with me and Jerric. Emilia, can you anchor the defence with Devon and the twins?"
+
+They all nodded their agreement and slid into place.
+
+'So be it.'
+
+The air around them came alive as military-grade arcanic bolts materialised, but Emilia had already thrown up the framework for a dense shield. The bolts crashed noisily into the barriers, which held firm.
+
+Meanwhile, Ambrose had thrown himself into the arcanic sea, with Caden and Jerric following closely behind. Ambrose flashed through the arcana with alarming speed, and even Caden found it difficult to keep track of how he was rapidly scanning the field of battle for their enemies. It took him only a handful of seconds to hone in on a group of auric-ambient-flares that were arranged in a gestalt.
+
+Ambrose did not waste time with standard arcanic bolts — he rapidly formed three points of focus for beams. Caden recognised these as the piercing type that had been employed against Ms Rain, but he didn't have time to wonder when Ambrose had learned this. Caden and Jerric slid up to the points of focus and supplied the arcanic flow, with Caden managing two, while Ambrose immediately went about building the sequence for something even more complex that Caden couldn't yet recognise.
+
+Meanwhile, their own defences were being tested. The assailants were still using arcanic bolts, but the blows were getting heavier and picking up in frequency. Emilia had to resort to conserving energy by abandoning the all-encompassing barrier, and she worked instead with floating panes of force that she rotated into place to catch each bolt, while also working a reflective layer into it to help divert some of the incoming energy. Even with that adjustment, it still took Devon and the twins all their focus to channel enough raw arcana to keep the panes whole against each heavy blow.
+
+'They are here!' The call went out from the assailants, a general alarm to everyone who was attuned to the arcana. 'Back in th—'
+
+Ambrose's sequence flowered inside the enemy's gestalt. A deadly pulse of arcana sent out a wave of searing heat. Several of them were quick enough to raise personal shields, but at least two voices cried out in fear and pain. Distantly, Caden thought he heard a scream from his ears, but he couldn't really be sure since his attention was focused in the battle beyond the senses.
+
+An instant later, he definitely heard an ear-splitting scream, and his attention briefly snapped back to what was happening around him. A shock of horror ran through him as he realised that it was Devon who was screaming, writhing on the ground, and there was blood.
+
+So much blood.
+
+'CADEN, HELP!' Devon screamed through their link.
+
+He dropped to his feet and tried to assess the damage that had been done even as he slipped back into the arcanic sea, where things were cleaner and made more sense. Devon was no longer a mangled mess of flesh and blood, but a pulsing auric-ambient-flare of pain, sorrow, regret.
+
+'Caden,' Ambrose sent, his voice tense, 'need you at the front, not back there.'
+
+'But Devon!'
+
+'We can hold it for awhile', Jerric snarled at Ambrose. 'You, Caden, FIX HIM!'
+
+He didn't need to be told twice. Caden turned his full attention to Devon, and as before, even though he had no idea how to even begin fixing any damage of this scale, the sequences came to him like half-remembered bits of knowledge. He worked swiftly, sewing glyphs into the arcana and projecting them onto Devon's mangled flesh. Bones knit together and torn skin smoothed over.
+
+'CADEN!' Emilia called out in sudden alarm and fear, and then their world was engulfed in fire.

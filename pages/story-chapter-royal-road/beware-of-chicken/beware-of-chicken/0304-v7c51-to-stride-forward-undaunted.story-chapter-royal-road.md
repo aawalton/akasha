@@ -1,0 +1,173 @@
+---
+id: 364b2e91-b472-5fec-8851-df3456d54ec4
+page-type-slug: story-chapter-royal-road
+title: "v7c51: To Stride Forward, Undaunted"
+slug: 0304-v7c51-to-stride-forward-undaunted
+partOf: beware-of-chicken
+position: 304
+ownLength: 2389
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3323060/v7c51-to-stride-forward-undaunted"
+royalRoadId: "3323060"
+---
+
+Despite all the encouragement everyone gave him last night, actually meeting the Sect was still nerve-wracking. He felt a small knot in his throat like he always did just before he threw up, but he powered through it anyway.
+
+Like Jin said, ‘fake it till you make it’. For Xianghua’s sake—hells, for his sake too. This was going to be a massive success!
+
+And it looked like things were already going well. Elder Bingwen looked surprised for a brief moment, before he simply smiled and started stroking his chin. The others were staring at him with wide eyes, and a bunch of the disciples had their mouths wide open. He kept his Qi as a shroud around him like Xianghua said to do. It felt weird flexing like this. Nobody back home ever did it, mostly because it didn’t matter. But here? How powerful his cultivation was meant a lot of things… and apparently he was as strong as the previous Sect Master, with Xianghua  now two stages stronger.
+
+“Thank you for the warm welcome, my disciples and Elders!” Xianghua said, her voice powerful, and reverberating around the courtyard—which was an absolutely stunning place. The architecture here was beautiful. The courtyard had massive stone pillars. They were inlaid with veins of topaz, jet, and white jade that had been worked to look like koi. The flagstones themselves were arranged in a grand, swirling mosaic of water currents, mountains, and clouds, threaded through by a dragon. It was all absolutely exquisite. “Now, you already know Elder Bingwen, don’t you, my husband?”
+
+“I do. Thank you for your blessings at our wedding, Elder Bingwen,” Gou Ren said, nodding.
+
+The man stroked his beard with a small smile. “It was my pleasure to be invited to Master Rou’s home—and congratulations upon your ascension. It hasn’t been that long since we last saw each other, yet already you have surpassed yourself. You have my admiration for your skill.”
+
+There were more gasps at the man’s words. The other Elders looked at Bingwen, then back to Gou Ren.
+
+“As always, the Sect Master’s intuition is flawless,” another Elder spoke. The man stood straight and tall, one arm behind his back and his right foot tilted to the side. He was also wearing a red sash, which meant he was Elder Yanling.
+
+Xianghua rarely described people in terms of faces, instead describing how they held themselves, or clothes they normally wore—which, honestly, sometimes worked out better. It made him really look at people… and it gave him insight into how Xianghua saw the world, with her strange affliction that made it difficult for her to really see people’s faces.
+
+It also let him describe people to her more easily, when he really looked.
+
+He recognised all the Elders here… including Sei Fen, Xianghua’s mother.
+
+Gou Ren could see the resemblance. In her cheeks and the shape of her face—but Xianghua never made an expression like that.
+
+He knew what Xianghua and Bowu’s parents had done. He had talked about it with both of them.
+
+How someone could cripple their own child, how they could toss the other away so easily… Gou Ren didn’t understand it. He couldn't understand it. It was so shocking and alien to him he didn’t know what to say
+
+And there she was, simply standing there. Straight back, with a kind of dispassion in her eyes. Every action was polite, formal, and to the point. Not like a mother. More like… like how the scribes who didn’t like each other interacted back at Verdant Hill.
+
+For a moment, his fist tightened as she approached, but Xianghua’s gentle fingers on his wrist stopped anything… as did his promise.
+
+Xianghua had made him promise not to do anything to her mother. She had a plan, she said, and that he should trust her.
+
+So he did.
+
+“Congratulations on your wedding, Sect Master,” the woman said without inflection, bowing deeply before stepping back.
+
+“We shall naturally have a celebration here and speak our oaths before our Ancestors,” Xianghua continued, not sparing the woman a second glance. “But first, we do have another delivery. Elder Boshai! My brother, along with my husband, have crafted more steam furnaces for us!”
+
+There were more happy murmurs from the Sect, while one of the Elders eyed Gou Ren up.
+
+“Master Gou Ren can craft the furnaces?” Elder Boshai asked. Blue inner robes, and bearing one of the sixth iterations of Bowu's Spirit Furnace, with the canted vent, on his back. Lots of power, but not the most stable without a firm hand.
+
+“Yes. My brother taught me everything he knows from his experiments, so that I may aid my wife and her Sect,” Gou Ren said. “I would be happy to work with the Sect’s Elders in incorporating his insights.”
+
+Now, compared to Bowu, Gou Ren wasn’t very good at making the furnaces—Xianghua and Miantiao were both better at it than him. But the Sect seemed to not have been able to make much headway in making them at all without Bowu, especially if one of the Elders was still using a sixth iteration.
+
+Xianghua was currently using what Bowu would call his fifteenth iteration—rebuilt completely after the Solstice. It was filled with water infused with so much of Xianghua’s Qi it had gotten noticeably heavier, fueled both by a fire crystal as well as compressed pellets of rice stalk for some extra kick. Apparently, it still had enough Qi in it that it burned hotter and longer than most other fuel.
+
+Elder Boshai considered Gou Ren for a moment, before nodding. “That would be most welcome, Master Gou Ren.”
+
+“Enough of that! We can speak more after dinner. My husband must see our home,” Xianghua interjected—and what she said,  went. She linked her arm with his, and they started forwards. The rest of the Sect fell in behind them.
+
+It still felt weird as hell. He tried to be stoic and calm, in control… but that slipped when he saw the manor.
+
+“What an absolutely beautiful Pre-Cataclysm manor,” Gou Ren said with admiration, using the term Jin had started using for most things before Tianlan had gotten hurt.
+
+He had seen a lot of the memory crystal, though he hadn’t really cared about the cultivation parts. Bi De had mentioned the buildings, and so Gou Ren had just kind of… sped the thing up so he could look at those. The funny little Spirit Guy inside had helped him out, even if he looked kind of sad when Gou Ren said he didn’t want to be Emperor. The way the clay roof tiles were formed, the detailing on the stairs—whoever had designed this had been a master architect. “And so well-preserved!”
+
+“You are knowledgeable in this style?” one of the Elders asked in surprise.
+
+“Yes, I’ve been studying it extensively. Look, the way the colour choice works? How you can see the entrance of the manor first through the mist, the way it blends backwards, and how the rest of it appears all at the same time? Your ancestors really knew what they were doing.”
+
+Gou Ren paused, and blushed when he realised what he had been doing. These people actually lived here! But when he snuck a glance backwards, everyone was staring at the manor with what looked like new eyes. A couple of the disciples were actually shifting their bodies back and forth, so they could see the “reveal” better. Elder Bingwen was stroking his chin.
+
+“… I never actually thought about that,” Xianghua said after a moment. “But when it's pointed out, the effect is quite striking. Please continue, husband.”
+
+And that was how he spent an hour walking through the manor of the Misty Lake Sect, commenting on its doors, lintels, and interior design compared to more modern styles. He was by no means an expert, but most of the Sect seemed to find the talk at least interesting enough to not look overly bored.
+
+Gou Ren started relaxing a bit. Xianghua was happy. He was impressing her Sect. Now he just had to find something to really wow them.
+
+So he did his best.
+
+========================
+
+“Our Sect Master caught herself a dragon,” Elder Boshai said, shaking his head.
+
+“In any other age, we would have risen to the top,” Bingwen agreed. Indeed, in any other age, save perhaps the era of the Ancestors themselves, Xianghua marrying Gou Ren would have been a union that would have catapulted them to become the preeminent sect of the Azure Hills. Hells, it still might.
+
+Gou Ren had been here but a week, and he had upended everything. If he had only brought his strength and knowledge of the steam furnaces, he would have been a golden match, a heavenly treasure fallen into their laps. Bingwen had traded pointers with him and found skin like a member of the Hermetic Iron Sect, backed up by a form so solid and well-trained it was beyond Bingwen’s ability to break. Bingwen’s comparative advantage in speed meant nothing, the young man easily able to anticipate every strike, even the ones from blindspots or shrouded in mist.
+
+And yet Gou Ren did not just bring steam furnaces and his own personal might. He was the Disciple of Master Rou, Spiritual Herb Master of the Cloudy Sword Sect.
+
+He came with legendary gifts: Seven Fragrance Jewel herbs, the Qi filled rice and other foods. But more than that, he came with knowledge.
+
+Knowledge he was intending to freely share with his wife’s Sect.
+
+The man had strode into their Spiritual Herb gardens, looked upon their work, and frowned mightily.
+
+“You are not growing these correctly,” he declared.
+
+Had any other said that and looked down on their efforts as he had, there would have been a fight. Instead, heads had immediately bowed and they had heeded his commands to change the soil, redesign the water flows, and reposition the pots. His Qi ran through them, using a sublime technique they could only barely grasp but which he said was ‘fairly easy to learn.’
+
+A week later and the Spiritual Herbs were already greener and taller than they should have been, their energy more vital.
+
+“I concede to your insight, Elder Bingwen,” Elder Boshai said. “You never showed doubt for a moment, and your wisdom has proven peerless. He even handles himself around the mortals well.”
+
+On the third day, the chiefs of the floating villages had come to pay their respects in accordance with the ancient pacts. The floating collections of buildings had docked all around the island at the center of the Misty Lake, and the mortals had marched to see the husband of their Lady.
+
+They swore their wedding oaths for all to see, in front of the Lakemen and the funerary tablets of their Ancestors.
+
+And then Gou Ren had sat among the mortals and spoke to them. Spoke to them of farming. Of fishing, and asked them of how they built their great rafts, hunted game, wove reeds, and traded the bounty of the Misty Lake.
+
+In one night, he captured the hearts of the Lakemen who came to see him; he may have lowered himself more than what was strictly appropriate… but his boyish enthusiasm did have its advantages.
+
+“Even how he is spending his time is better than we had hoped,” Elder Yangling murmured.
+
+They had been expecting Gou Ren to stay with Master Rou, to be frank, but when asked where he intended to live… his answer had surprised them.
+
+“My master still has much to teach me,” the man had replied. “But I will make a second home here among you, so that our children may know their roots and I may learn your ways.”
+
+He truly was planning on becoming a part of their Sect.
+
+“What about you, Elder Sei Fen? Have you any opinion?” Bingwen turned to Xianghua’s mother.  The woman had said not a word thus far.
+
+“I will reserve judgement until after an heir is born,” the woman finally said, her voice devoid of emotion. “But for the moment, he is acceptable.”
+
+Everyone went quiet at that. That… that was the sticking point.
+
+“The heavens have blessed us thus far. Let us hope we remain in their favour,” Elder Yangling said, his voice turning grim.
+
+=============================
+
+“And well, yeah. It… wasn’t very eventful, I guess? I think it went pretty good, but I was really concentrating on not messing up,” Gou Ren finished.
+
+I smiled at the end of the story. It was really late now, but it was also really good to hear from Gou Ren about everything.
+
+“My husband handled it all splendidly!” Xianghua boasted. “Of course he awed every Elder and won the love and adoration of my entire Sect!”
+
+“I wouldn’t go that far…” Gou Ren said with a blush, glancing away from Xianghua and towards us so see our reaction.
+
+“Sounds like you did great,” I said, giving him a nod.
+
+“I’m glad you’re not moving away,” Meiling said.
+
+Gou Ren’s blush turned into a small smile.
+
+Xianghua grinned. “Indeed, you shall be seeing much of us! Especially considering that I shall need your abilities, Elder Sister!”
+
+Meiling blinked. “Why, did something happen? Are you okay—” Her words cut off. Her eyes dipped from Xianghua’s eyes to her stomach. “Oh, heavens, so that's what's going on with your Qi, it's barely along!”
+
+Xiulan gasped. Rags and Loud Boy froze. Tigu’s hands clapped over her mouth.
+
+Gou Ren’s eyes bugged out. “Wha?” he asked, turning to Xianghua.
+
+“I’m pregnant,” Xianghua declared.
+
+Gou Ren’s face went through a thousand emotions. Shock, panic, terror—before his expression firmed into resolve. He sucked in a breath, calmed himself, and looked directly into Xianghua’s eyes.
+
+“That’s wonderful news,” he said, his voice full of sincerity. “You’re going to be a great mom.”
+
+I got to see the exact moment where Xianghua fell in love with Gou Ren all over again.
+
+We didn’t get any sleep that night. The room naturally separated into guys and girls, the ladies crowding around Xianghua, while the guys sat around Gou Ren, giving him claps on the shoulders and manly nods.
+
+“You’re gonna do awesome, Gou Ren,” I told him.
+
+He nodded. “Yeah. We’re gonna do awesome,” he said, his eyes focused on the horizon.

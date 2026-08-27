@@ -1,0 +1,231 @@
+---
+id: 9bf6cac7-d1e6-5b2a-bfb0-da4ce345ae8a
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 17 - Distribution"
+slug: 0021-b3-chapter-17-distribution
+partOf: bookbound-bunny
+position: 21
+ownLength: 2012
+unit: words
+publishedAt: 2026-03-14
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3150278/b3-chapter-17-distribution"
+royalRoadId: "3150278"
+---
+
+"Well, I definitely want the canteen. I'm the only one who can't make drinkable water," Lotte quickly said now that the explanations were over.
+
+Lily and Thomas both agreed that it was extremely sensible, and neither of them would get any benefit from it.
+
+"I think I'd like the bark," Thomas said, scratching his head. "Paper or parchment can be hard to come by, and even this inferior leafy version is better than nothing."
+
+"Sounds good to me," Lily replied cheerfully.
+
+"Don't you want it for glyphs?" Thomas asked, looking a little surprised that Lily wasn't eying it.
+
+Lily shook her head and gestured to the floating grimoire. "I have endless paper already."
+
+"I'm surprised you didn't notice beforehand," Lotte said teasingly.
+
+"It must have slipped my mind…" Thomas admitted, looking a little bit sheepish.
+
+"I want the bracelet. It's better than any of the cleaning magic I've seen so far," Lily said.
+
+"If not for the canteen, I would have wanted it," Lotte revealed.
+
+"That's surprising…" Thomas replied. "I would have said the bracelet was the worst item of the bunch. Other than its odor-suppressing effect to maybe prevent monsters from catching your scent, I can't really see much use for it."
+
+Lily and Lotte glanced at one another and shook their heads. Who wouldn't want an item that keeps you and your clothes clean?
+
+[There are more advanced glyphs in that direction, if you'd prefer…]
+
+{Even so. I don't want to have to draw a glyph every time I want to wash up. This bracelet lets me do it without any worry. Besides, the lantern is useless to me.}
+
+The lantern was definitely the odd one out. While it might have been useful to Lotte or Thomas, neither showed much interest in it.
+
+"Should we sell it and split the profits?" Lotte suggested.
+
+"That's certainly an option," Thomas agreed.
+
+Lily, however, was tapping her chin in thought. "Maybe we should keep it as a team item?"
+
+Her two friends looked at her expectantly, indicating they wanted her to elaborate further.
+
+"Rose said that there are floors later on in the dungeon that are dark. I have my Starlight spells and can keep them active with no effort, but I don't think the same can be said for you two?"
+
+Lotte and Thomas awkwardly scratched their heads while they mulled over Lily's explanation. Eventually, they both agreed it was a good item to keep as a backup, and Lily added that it would allow them to sell night drops rather than consume them.
+
+"That means more profit for us in the long run," Lily said proudly.
+
+"When did you suddenly become a merchant?" Thomas asked.
+
+"I think it's an unwritten rule in the alchemist's code," Lotte answered, grinning.
+
+"Sure is. Right before the rule about never skipping breakfast," Lily replied teasingly. "Speaking of which…"
+
+"I get the message," Thomas replied with the wave of his hand.
+
+The group ate together, with Lily taking an extra-large portion to help her recover more quickly. She hated the feeling of her Mana Core lacking the fuel to replenish itself and hoped to rectify it posthaste.
+
+To her surprise, though, neither Thomas nor Lotte had brought up the matter of the dryad and the attack on their camp during the meal. Lily was even beginning to suspect that they might be intentionally avoiding the topic, or perhaps Arakil's dream magic was more effective than he had claimed.
+
+One thing was for sure, though: Lily was dreadfully envious of how refreshed the two looked. She could've sworn that the two looked like they had been rejuvenated through a week-long vacation. Naturally, she turned to the root of her jealousy and was once again grateful for their newfound secret-talking method.
+
+{So, when can I learn dream magic glyphs?}
+
+[I'm willing to teach you a few of them. With the condition that you promise me that you will only use it once a week.]
+
+{So few!?}
+
+[Of course. Dream magic can be addictive, with frequent and prolonged use having detrimental effects. You risk becoming entirely dependent on it and unable to sleep naturally.]
+
+Lily had no idea. If it was that bad, she was tempted to even tell Arakil to forget about it. However, seeing the vigor in her two friends while she was no doubt nursing some terrible raccoon eyes, she promptly made the promise.
+
+The group was getting ready to leave when suddenly the camp had an unexpected visitor. Bursting onto the scene was Alice, who just abruptly appeared out of nowhere, followed by a burst of wind. The three friends couldn't help but yell out in surprise as they turned to face their teacher, who had a strange look on her face.
+
+"Huh… Guess I worried for nothing," Alice muttered, just loud enough for Lily's ears to catch.
+
+"Prof—" Thomas began saying, then made an awkward cough to hide his mistake. "Alice, why are you here?"
+
+"Oh? Am I not allowed to check up on my students?" she taunted openly.
+
+"I thought we were supposed to be unsupervised," Lotte retorted.
+
+"Yeah, yeah," Alice said dismissively. "I'm not here to ruin your fun, don't worry. I was just making sure everything was alright for everyone."
+
+"Not just us?" Lily asked.
+
+Alice snorted. "Of course not. There are a lot of students in my class, and they each deserve my attention."
+
+Lily raised her eyebrow in doubt, but didn't press further.
+
+"Anyway… Wow, you three are certainly living the life of luxury. This is supposed to be an endurance test, you know?" Alice asked, gesturing at their camp.
+
+Lotte frowned. "We aren't just sitting around, if that's what you're implying."
+
+"Yeah! We even found treasures," Lily added.
+
+Alice looked genuinely surprised by that. "Already? How far have you explored already?"
+
+"Not too far," Thomas answered. "We just got lucky."
+
+Alice seemed a little suspicious, but didn't press further and just asked to see what they got. The group was more than happy to show off their spoils, hoping it would earn them bonus points during this test.
+
+When Lotte once again pulled out the treasures, the look of confusion ripening on Alice's face was priceless, especially when they showed off the four magical items. Even if they weren't the best, there were still four of them! The three of them felt victorious as Alice, scratching the back of her head, was left speechless.
+
+"I guess… keep up the good work?" Alice eventually said.
+
+"We're aiming for that number one spot," Lotte replied.
+
+"Oh? Well, you could probably retire then," Alice admitted.
+
+"Has Arthur retired yet?" Thomas asked.
+
+Alice shook her head.
+
+"Then not yet," Thomas said.
+
+"Yeah. No way we are leaving until after that group," Lotte agreed.
+
+Lily also bobbed her head in agreement.
+
+"Since when did you three have so much faction fanaticism?" Alice asked.
+
+"What? We've always had it… Go team Maranix!" Thomas randomly cheered.
+
+"Maranix!" Lily and Lotte attempted to join in on the cheer.
+
+Alice sighed, evidently not buying it.
+
+"I suppose I shouldn't be too surprised, considering they also asked if you were still in the dungeon," Alice revealed.
+
+"How many teams are left?" Lily asked.
+
+"Including you two, there's another five," Alice answered.
+
+"Damn, we aren't even in the top five yet?" Lotte cursed.
+
+"I just said you're basically first already with the loot you stumbled upon," Alice said, pointing at the pile.
+
+"Last five then," Lotte corrected, sticking out her tongue.
+
+"If we leave now and the others find treasure, we will lose our spot," Thomas speculated.
+
+Alice shook her head. "Fine, fine… I get it. I won't push you to retire early. Have fun."
+
+And then with a casual wave, she left them. The three looked at one another and shared a silent nod of agreement. They weren't going to leave things to chance; they wanted to be the last group standing!
+
+"Maybe we should try some hunting?" Thomas suggested.
+
+"Isn't that what we've been doing?" Lotte asked.
+
+"I meant normal animals. For food." Thomas explained.
+
+"I don't mind," Lily replied.
+
+"Sounds good as long as we keep Yona away from them," Lotte teased.
+
+Thomas looked at the cat awkwardly, apparently not confident he could stop her.
+
+{Question… Why does the dungeon have real animals?}
+
+[Do you recall I said the dungeons feed off of living beings inside them?]
+
+{And the greedy ones starve themselves by killing anyone who enters. Yes, why?}
+
+[While not as plentiful as you or I, living animals do provide a small trickle of income. At least enough to offset the growing demand for natural resources. Of course, the real goal is to keep people inside it for longer.]
+
+"When are we going to explore at night?" Lotte suddenly asked, breaking Lily out of her secret conversation.
+
+"Any night but tonight…" Lily pleaded.
+
+"Let's take today easy, then, do some light hunting, and maybe tomorrow night we can explore?" Thomas said.
+
+"Sounds good to me," Lotte concurred.
+
+Lily nodded, sighing with relief. Unless she took a long afternoon nap or used the stamina recovery spells, she wouldn't be able to make it.
+
+After recollecting and storing away their treasures, they head off.
+
+"I wonder if we could fish in the river…" Thomas pondered aloud.
+
+"If we can't find any normal meat, it's a good backup plan," Lotte replied.
+
+"Anything but monster meat," Lily agreed.
+
+The group continued to chat as they began exploring the woods.
+
+***
+
+"Well, that's everyone safe and accounted for," Alice said, reporting to a floating purple eye.
+
+"I told you nothing happened," Headmaster Fabrelis' voice replied, somehow originating from the magical eyeball.
+
+"Just because you have an agreement with the dungeon doesn't mean I trust it entirely," Alice replied.
+
+"I understand, however, none of the Wards were triggered, not to mention the dungeon passes were all accounted for," Fabrelis explained.
+
+Alice scowled. "Then, what? The dungeon just decided to mess with me?"
+
+"Perhaps it was trying to give you some exercise?"
+
+Alice let out an angry snort. "I still say it was keeping me occupied. Why else would so many monsters suddenly attack me? And the wave tactics? Roaming monsters do not behave like that."
+
+"I cannot say, but you've already confirmed with your own eyes that nothing bad has happened. On the contrary, it looks like this might be the largest batch of students still enduring yet."
+
+"I don't know… Something still feels off," Alice stubbornly insisted.
+
+It was the most bizarre thing she'd ever witnessed in all of her years teaching at Regarth. A roaming monster had attacked her camp, but after she dealt with it, she was attacked by another monster nearby. This continued to happen over and over, in a way that she could only describe as being led away.
+
+In fact, when she tried to disengage from the monsters, she found herself attacked from another angle. Her gut was screaming at her that something was wrong, that she was being toyed with, and something nefarious was afoot.
+
+Alice had quickly contacted the headmaster, but was informed that nothing had happened. Every remaining student was accounted for, and not even a Ward had been triggered.
+
+Alice had still refused to buy it, and as soon as she got away from the monsters, she began to check on the remaining students, especially those closest to the primary camp—after all, if so many monsters had somehow snuck through, then they were most at risk.
+
+Yet, Alice had found nothing. Everyone was safe and accounted for. Her previously infallible intuition had apparently been wrong. Was the dungeon really just teasing her?
+
+Alice didn't want to believe it, but she'd certainly heard of stranger things happening in the dungeons. This dungeon was ridiculously old based on its size, so perhaps it had just gotten bored or senile.
+
+"I'll make contact with it and ask on your behalf. Still, you should be happy, they even managed to find treasure!" Fabrelis said encouragingly.
+
+Alice couldn't help but crack a smile. "Four pieces of magical items! Who knew they were so darn capable?"

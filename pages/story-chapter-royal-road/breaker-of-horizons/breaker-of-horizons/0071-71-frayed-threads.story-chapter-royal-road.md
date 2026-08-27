@@ -1,0 +1,109 @@
+---
+id: 9056f17f-19d2-5369-af00-1c94f7e33610
+page-type-slug: story-chapter-royal-road
+title: "71. Frayed Threads"
+slug: 0071-71-frayed-threads
+partOf: breaker-of-horizons
+position: 71
+ownLength: 1945
+unit: words
+publishedAt: 2021-01-04
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/609465/71-frayed-threads"
+royalRoadId: "609465"
+---
+
+The High District lay within the boundary of the ancient marble walls, and it was where most of the prime real estate for housing was situated. It was close to the financial heart of the city, and it also commanded the best views since it was situated a little further up the slope of the Crystalline Peaks. Even as the modern age lay claim to many spaces that were traditionally the domain of the nobility, the High District was the slowest to surrender to the march of egalitarianism. Most of its mansions and villas were still firmly in the hands of people who could trace their lineage back to the High Houses, and there were even a number of family names that had survived for centuries. The few commoners who did manage to secure some property in this most exclusive part of the city were so fabulously wealthy and influential that they hardly merited the term.
+
+The car wound its way through smaller roads as the driver skirted the traffic jams that were beginning to form across the heart of the city, but progress was still slow since their destination lay on the fringe of the central business district. Devon was barely paying attention to the passing sights, preoccupied as he was with sifting through the tangle of alien instructions that the augera had planted in his head.
+
+After about half an hour, the car turned off a noisy boulevard into a quiet drive that sloped gently upwards. It kept going, passing smaller roads that led to residences that lay half-hidden behind tall screens of greenery or handsome stone walls. When it finally turned off the drive, it was met with a beautiful wrought-iron gate topped with gold.
+
+The car slowed but did not stop. The lead agent conjured a glyph and dismissed it so quickly that Devon didn't even manage to catch what it was, and the gate slid open quietly to allow them passage.
+
+"You can let me off here," Devon said.
+
+"I'm sorry, Lord Devon, but we have instructions to bring you to the door," the lead agent replied, polite but firm.
+
+Devon closed his eyes and exhaled slowly through his nose. "Just Devon."
+
+He briefly wondered how things would go if he insisted (or perhaps even demanded) to be simply called Devon. But that was a childish test, and it wouldn't serve any purpose other than to make life more difficult for the agents. As the mansion came into view, he schooled his expression and steeled himself. There was a man standing at the porch, and even at this distance, it was easy enough for him to recognise the ramrod-straight posture, radiating disapproval.
+
+The car came to a stop at the porch. Devon waited patiently while the lead agent exited first, dispelled the locking sequence that had kept him 'safe', and opened the door for him. He gave the agent a wry smile, then mounted the steps of the porch to face the glowering face of his father.
+
+"Duke Ka'atryn," the agent began, with a deferential nod. "Here's your son."
+
+"Hi, Dad," Devon said with an insouciant smile.
+
+Duke Rhys Ka'atryn did not smile back. He was well into his fifties and had a paunch that spoke of his love for good food — in any other circumstances it might have been easy to imagine him as a jolly uncle, albeit one dressed in a pressed shirt and pants more luxurious than anything off-the-rack. But somehow, he managed to strike a very cold figure now, like something carved out of unloving stone. The dirty blonde hair and blue eyes that Devon had inherited gave off no hint of paternal warmth, and even though his son was a shade taller, he somehow still managed to convey his extreme disapproval by looking down at him.
+
+"Inside." The word had to force itself through pursed lips. Devon bobbed his head and started forwards, but the door was pulled open from inside before his hands even brushed the handle.
+
+"Devvy! How could you—worried sick—might've been anywhere—the things that could've happened!"
+
+He barely had time to brace himself before he was enfolded by an amalgamation of fur coats and perfume. His mother was a good head shorter than he was, but she smothered him in her thin arms all the same, relying on the extra girth provided by her layers of clothes to help her smother as much of her son as she could reach. She impatiently brushed aside her brown curls as she looked up at him.
+
+"Quick, inside before your father explodes! Your friends are in the—"
+
+"Devon," came the voice of crushed ice of the Duke from the door, "a word. In my office. Now."
+
+The Duke marched past mother and son, the carpet barely managing to muffle his angry steps.
+
+"Thanks, Mum," he sighed, returning her hug. "You can come by and collect what's left of me later. Tell my friends I'll be there as soon as I can."
+
+"Try to be nice, Devvy. You know he means well."
+
+"Yeah. Well..." He rolled his eyes and parodied the Duke's furious stomping, which drew a guilty giggle and reproachful glare from his mother, then set off to the Duke's office. The sound of his mother giving orders to a servant standing unobtrusively by the front door was soon swallowed up by the grand silence of the mansion.
+
+The Duke's Office. It was strange how three ordinary words were capable of carrying such gravitas... such weight... such baggage.
+
+Of course the Duke had managed to get there first since he hadn't bothered to wait. And of course the door would be closed, even though the Duke was expecting his son, so Devon would have to knock and ask for permission to enter. This was, after all, a summons, not a casual invitation to a fatherly chat. Not that there ever were any fatherly chats, whether by invitation or not. There were no chance conversations in the corridors for the Duke, no impromptu moments of connection. You had to see him by appointment.
+
+Devon dithered by the handsome mahogany doors, then knocked.
+
+"Enter," the Duke called. He sounded cordial, but Devon could hear the reined-in fury. He hastily wiped his sweaty palms on the inside of his trousers pockets, then admitted himself into the Duke's Office and closed the door behind him.
+
+He hadn't been in here since he had returned from the Academy a few days ago. In fact, now that he thought about it, this was going to be his first proper conversation with the Duke in quite a few months. When was the last time? Before his enrolment? But nothing had changed. The walls were still filled with shelves of books and glass cases of trophies, certificates, and memorabilia from the various corners of the Empire. And there was still a cold, angry man behind the desk of decorated wood.
+
+"Sit," the Duke said curtly, indicating the cushioned chair in front of the desk.
+
+Devon sat. "Dad, I—"
+
+The Duke shot a sharp look at him and raised a hand for silence. Devon swallowed.
+
+"Do you have any idea how irresponsible you've been?"
+
+Even now, angry as he was, the Duke did not raise his voice. To a less familiar ear, he might have even sounded aloof.
+
+"Please," Devon began again, "I don't want you to think I caused trouble on purpose. I—"
+
+He stuttered to a halt again when the Duke glared. "Not on purpose. Ensorceling the guards? Traipsing around the city on your own? Oh, yes. What understandable accidents."
+
+Devon bit his lower lip. There was no way he could explain to the Duke that he hadn't actually ensorceled his guards to slip out of the mansion in the first place — that had been the augera's work when it summoned him to the Spire. But he found himself feeling oddly pleased that the Duke thought he was actually capable of ensorceling the guards.
+
+"I... you really think I ensorceled the guards?" Devon asked.
+
+"I suppose you're going to tell me that you befriended them and they decided to extend a great deal of leeway for you against their better judgement," the Duke said, a bite of impatience creeping into his voice now.
+
+Devon couldn't stop the smile from creeping onto his face. His father really believed he was that capable — that he could single-handedly ensorcel fully-trained agents.
+
+"Stop smiling, boy. Your insolence will be the death of me, I swear," the Duke continued, slipping back into a tone of aloofness that did not match the ire of his words. "I want you to promise me that there will be no more of such foolishness. Especially not in the present situation. Whatever your grievances with me, please remember you bear the name of our family, and that one day you shall have to assume the responsibility of our estate and all that it entails."
+
+It occurred to Devon that it was theoretically possible for him to force his father to listen to him. He might not be able to ensorcel agents, but his father was just a layperson.
+
+A Duke, the voice of reason pointed out testily. In recent months it had started to take on Jerric's lecturing tone. A Duke who probably has powerful protective artefacts keyed to his auric-ambient-flare, just like any other layperson in a position of influence. Don't be stupid, Dev.
+
+Devon sighed and nodded. "I know, Dad. I promise."
+
+The Duke frowned, clearly unconvinced, but he dismissed Devon anyway with a resigned wave of his hand. "Go and make our guests comfortable."
+
+Devon nodded deferentially and made his exit. Maybe one day, when he was a fully-fledged arcanist and had finally done all that was expected of him, his father would finally decide to loosen up a little and just talk to him like a normal person.
+
+Jerric and the twins were housed in guest rooms of their own. Lynus had been particularly stoked to find out that he didn't need to share with Kevan, and while that had led to some frostiness between the two at first, the friction was quickly smoothed over as they availed themselves to the many luxuries of Devon's home. Servants waited on them hand and foot, and the food that came out of the kitchens actually brought tears to Kevan's eyes (Devon wished Caden had been there to see it).
+
+But the three of them were most captivated by the little stash that Devon had managed to hide in one of the disused rooms of the mansion. There, with the help of his mother and some servants he could trust to keep his secrets, he had put together the logistics for their little trip in search of wild augera. He made his way there now, knowing that Kevan and Lynus would still be fawning over all the gear that he had managed to get his hands on. Jerric was likely to be there too, going over everything to make sure that they were ready.
+
+'Caden arriving. Bring quickly.'
+
+The whisper caught Devon by surprise and he almost jumped out of his skin. But the augera's brief contact was gone by the time he gathered his wits. Excitement and panic rose in equal measure and he quickened his steps, bursting into the room and catching the three of them by surprise. Lynus swore and jumped, and a few eclairs on a plate he was holding tipped onto the carpeted floor. Kevan froze in the middle of strapping on the harness of an artefact that would permit flight. Jerric looked up from a clipboard.
+
+"Guys. We've got to move. Now."

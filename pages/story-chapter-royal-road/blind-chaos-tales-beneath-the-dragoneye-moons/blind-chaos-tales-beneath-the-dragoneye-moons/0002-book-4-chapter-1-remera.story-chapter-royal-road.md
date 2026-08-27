@@ -1,0 +1,241 @@
+---
+id: ca975bb7-9d10-5df7-a351-9f41b51ea5d2
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 1 - Remera"
+slug: 0002-book-4-chapter-1-remera
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 2
+ownLength: 4610
+unit: words
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2466419/book-4-chapter-1-remera"
+royalRoadId: "2466419"
+---
+
+“I’m back, babe!” Ranthia called at the fabric flap once she arrived outside their tent.
+
+Avyna had warned her not to come in until the bulk of the enchanting was done, so Ranthia didn’t want to just barge in. She had no idea why it was important to stay outside during the enchanting, but she wasn’t going to risk upsetting the woman she loved!
+
+Though it left her a little unsure what to do when there was no response. She had no way of knowing if this meant the privacy ward was up or if Avyna was out or if something had gone wrong and Avyna needed help or—
+
+Right, breathe. Gods and goddesses, a couple of days of stress was all it took for her to lose her head again.
+
+Ranthia waited for a few more moments before she gently tugged on the nearby—and strangely soft—rope that hung from their tent. A soft, chiming melody rang out. And shortly thereafter Ranthia’s world lit up as the fabric parted and revealed a smiling Avyna.
+
+“Welcome home, my love!” There was notable fatigue in Avyna’s words, but they were still some of the most beautiful words Ranthia had ever heard.
+
+Ranthia really wasn’t sure what she was expecting when she set foot into their fully enchanted (okay, Avyna only confirmed the primary enchantments were done, whatever that meant) tent. It had been difficult to establish expectations with elven enchantments and Reman inscriptions feeling so different in scope.
+
+But whatever her expectations were, Avyna had outdone them.
+
+Outside the tent the sun was setting, but the walls and ceiling of their tent still glowed with morning’s light—complete with shadows of leaves moving in a soft breeze—instead of the setting sun. There wasn’t even any trace of the half-constructed tent that should have blocked the light from the east. The air was refreshingly cool and smelled ever-so-gently of wildflowers too.
+
+Oh, and the tent was considerably larger than it should have been. It wasn’t quite a sprawling manor, but Ranthia was pretty sure at least three of Hexara’s old home could have fit in there!
+
+Ranthia just kind of wandered around in mute shock for a bit while Avyna watched her with amusement. A curtain had been hung in the middle of their home to divide the area where their bed was to be unpacked from the more ‘public’ portion of their home that the dining table was destined for. The place still felt massive, even with the divider—especially with almost no furniture placed.
+
+It wasn’t a tent. It was a home, one with walls of fabric, but a home nonetheless.
+
+Their home.
+
+Ranthia rushed over to embrace Avyna again as her emotions overwhelmed her a little.
+
+“It’s perfect.” Ranthia promised the beautiful elf.
+
+“Mmn, I do still wish that I had a better spatial enchantment, and I intentionally left the privacy ward… minimally complete. But it is a solid start.” Avyna explained before she silently communicated a request for a kiss.
+
+Surprising no one, Ranthia was eager to reward her lover with a tender and emotional one while she held the slender elf firmly in her arms. Avyna had enough vitality that Ranthia’s strength wouldn’t hurt her, which made their embraces wonderfully tight and intimate.
+
+But no single moment could last forever. Avyna finally pulled away as she tried to hide a small yawn.
+
+“Want me to set up the bed for you?” Ranthia offered.
+
+“By the spires, no! I have yet to be able to shower, my love, and I refuse to get our bed dirty so soon. We can try it tomorrow.” The elf looked thoughtful for a moment before she pulled away. “You may retrieve the comfy chairs though. I can curl up in a blanket for tonight. There are sheets of paper with a proposed layout for our furniture in the same crate.”
+
+Ranthia followed Avyna’s directions to one of their crates and tried to ignore the mental discomfort required—the spatial boxes were still weird—to retrieve the white sheets, followed by the first armchair. Avyna, meanwhile, busied herself with going through boxes and crates until she found a blanket.
+
+A short time later, Ranthia was happily humming to herself while she carried and set out the furniture that they had purchased. She was following the plan that Avyna had drawn up, but the elf still called out corrections from where she was curled up on her armchair, clad only in the blanket that she was firmly cocooned within. Avyna had been giving Ranthia detailed instructions about how to place and adjust things, but she was getting increasingly vague.
+
+With luck, her lover would soon get some sleep. Sure, Ranthia was rather worn down too. She was risking a third (arguably a fourth, given how poorly she slept during her last night in Coalition City) sleepless night in a row. But honestly, she was loving every moment of labor as she transformed their surprisingly cavernous fabric housing from empty space into a cozy home. Every piece of furniture that she pulled out of one of the almost bottomless crates brought them one step closer.
+
+Sure, some of her energy was just jittery nerves. She had already told Avyna that she loved her—as if that was any less of a step than making a home together and pledging to spend a mortal lifetime together. The physical labor was light enough and meaningful enough that it made it easier to grapple with her thoughts and the emotions that rampaged through her veins like stampeding beasts.
+
+The thick—supposedly soundproofed—dividing curtain that ran through the center of their home was a bit of an obstacle as she moved back and forth. The cooking area, dining area, and some of the chairs went on one side of it while their bed—which proved to be a bit too bulky for Ranthia to handle alone—and much of the other cozier furniture went on the other. There was also a small section in their ‘private’ area curtained off for the hygiene facilities—including the bathtub Ranthia chose and the so-called shower that Avyna wanted.
+
+Dawn was breaking over the horizon, but Ranthia was nearly done with her final task. The fact that it was the eighth ‘final task’ (“well, that didn’t take too long, one more can’t hurt”) was probably unimportant. Ranthia was cradling a large—and very full—barrel of water carefully in her arms back to the tent. It was her sixth trip and she was optimistic that this time their tent’s surprisingly vast reservoir would finally be filled—which would mean that Avyna could take that shower she wanted when she woke up!
+
+“Oh, my love! Please tell me you just woke up and started doing that!” Avyna’s voice gasped.
+
+Ranthia looked back to see her lover poking halfway out of the flap of their tent—just in time to watch the blanket slide right off the gorgeous elf’s lean frame.
+
+Ranthia very, very nearly dropped the heavy, awkward barrel.
+
+She already knew that Avyna—like most elves, supposedly—had zero hangups about nudity or being seen, but Ranthia still hurriedly freed an arm for as long as she dared and beckoned her lover back into the tent.
+
+Ranthia trusted Avyna implicity. She didn’t trust a single other person on the base, and she preferred to avoid finding a need to stab anyone that she wasn’t supposed to.
+
+After she finished emptying the barrel into the reservoir and resealed it, she carried the empty barrel back into the tent and set it down near the entrance. Immediately upon actually reentering her home, Ranthia eagerly embraced her delightfully naked girlfriend and offered her an affectionate kiss.
+
+Avyna accepted, but she kept it brief before she switched to eyeing Ranthia with obvious irritation.
+
+“You worked so hard to get the tent ready, I just wanted to do everything that I could to help.” Ranthia confessed.
+
+Avyna huffed in response and shook her head.
+
+“We could have done that together after you rested!” The elf rebutted before she unleashed a weapons-grade pout directly at Ranthia.
+
+It was dangerously effective.
+
+“I know, and I didn’t unpack any of the smaller items! I just wanted to get the big stuff out of the way! We can move anything that we need to. And then I figured you’ll probably want one of those shower things when you wake up, so I wanted to fill up the reservoir so you could.” Ranthia hurriedly explained.
+
+Avyna continued to pout.
+
+Ranthia squirmed guiltily.
+
+“I’m not part of the team that’s trying to salvage anything they can from the trapped junk the shimagu abandoned, so I probably have the day off? We can still spend it together!” Ranthia tried, increasingly desperate to appease her girlfriend.
+
+“You try too hard sometimes, my love,” Avyna sighed, “come on, off with that tunic. We are showering together, then after breakfast you are having a nap—even if I have to tie you into our bed!”
+
+Ranthia wasn’t quite sure if she was physiologically capable of taking that as a threat.
+
+Avyna cheated mercilessly. Ranthia had every intention of resisting the order to nap, but after breakfast Avyna gave her a shoulder rub that turned into a full-fledged massage. Ranthia went out like a snuffed spark before it finished. Ranthia had known since their first time together that Avyna’s fingers were dangerously magical, but she had sorely underestimated how that would translate into massaging prowess.
+
+She woke up some time later, to the wonderful sensation of Avyna’s gentle lips peppering her exposed skin with kisses. It gave her ideas, but Avyna instead dragged her back to the table for a late lunch—hadn’t they just eaten breakfast?—before Ranthia had quite extended her consciousness back throughout her body.
+
+Naturally, her girlfriend had been entirely correct—the nap helped significantly. Even her thoughts felt more collected. With a clearer head, she firmly decided that she didn’t regret telling Avyna that she loved her. It was true! Ranthia was a mature woman with two lives under her belt, and she was prepared to admit that she had fully fallen under the gorgeous elf’s spell. She wasn’t just falling in love—she was in love. A pure and intense form of love that she had never experienced before; a love that was clearly and undeniably superior to what she had ever felt for Hexara.
+
+But it was still too early to say it, and she resolved to wait at least another month to repeat the words.
+
+It was a solid compromise. She was ready and willing to admit her feelings—she could be mature!—but she could wait a bit longer to voice them. It was fine—wonderful even—that Avyna was ready, but Ranthia was no elf. She could set her own pace in life while enjoying that life alongside the woman she loved.
+
+After they finished their light soup, they resumed work on adjusting furniture and unpacking the rest of their belongings. Clothing was put away, food and Avyna’s somewhat anemic remaining goods were rediscovered, Ranthia’s crates of spare gear were transferred to a massive (and enchanted, fancy) new wooden trunk, and little flourishes of décor and personality began to pop up around their home. By that point, they mostly operated separately, as they worked to add touches of their own individual personalities to their shared home.
+
+Ranthia was struggling to get Pupius’ doll to sit upright. The ugly, poorly made thing was a bit too lopsidedly stuffed to sit upright and Ranthia was loathe to do anything to change what her father had fashioned—she was already struggling to accept that it was shedding (at a rather alarming rate) the brown hairs that had been trimmed off her younger self. Not only was the doll a bond to her past, but those hairs were a bond to the original body that she had lost! Yet the idea of messing with Pupius’ seams felt so wrong and…!
+
+“Oh, my love, what is that hideous thing? Please do not tell me it is meant to look like you!” Avyna sounded highly offended by its existence and the presumed insult that it carried.
+
+“No! …Or, at least, I don’t think so? One of my parents made this for me, but he died before he ever got to give it to me.” Ranthia smiled wistfully and tried to ignore how blurry her vision was becoming.
+
+Her fathers meant everything to her. They were her true parents—unlike the woman that had given birth to her… or rather given birth to Amaranthia and then rejected her when she came into possession of the body. And she was ruining one of the few physical reminders she had of them!
+
+“Oh… Perhaps the years have been unkind to it?” Avyna offered diplomatically.
+
+“They have, but it was always badly made. I don’t think Pupius had ever sewn anything that wasn’t leather before he attempted the doll. Knowing him, he probably finished it before we had even parted ways and was too embarrassed to give it to me. He was always a softie in the weirdest ways.”
+
+Ranthia wiped at her cheeks and eyes in an effort to banish her tears. She had better things to do than cry like a child over her memories. Avyna embraced her from behind and eyed the doll critically from around Ranthia’s shoulder.
+
+“Perhaps preserving memories such as this would be better than displaying them?” Avyna suggested, her voice tinged with a thinly veiled note of hopefulness.
+
+“What do you have in mind?” Ranthia asked.
+
+“The safe box that our contract is stored in has an enchantment to preserve the document. It can preserve… the doll as well.” Avyna explained.
+
+It was a tempting solution. It hurt to consign the doll to be unseen, but if it let her keep it as her immortal life continued…
+
+“And what is that?” Avyna’s eyes moved to her next target.
+
+“Mage-rock.” Ranthia answered, saluting the stone out of habit. Not that she could do it as rigidly as she preferred with Avyna embracing her.
+
+“Mage… rock…” Avyna repeated in a tone that Ranthia could only pray wasn’t the elf realizing that she sorely needed to rethink the life she had chosen.
+
+In the end, Ranthia was convinced and Avyna retrieved the metal box that she stored their contract in from its hiding place—behind a false back in one of their food storage pantries. The box had already taken on the spicy aroma of the sausages that hung before it, but the inside was thankfully untainted. They gingerly stored each of Ranthia’s treasures within: the hideous doll, a human tooth, a cheap-looking necklace formed from segments of a dinosaur’s backplate on a simple leather cord, and two matching golden rings with tiny green gems that were not quite as fine as they had seemed to Ranthia so many years ago.
+
+Ranthia’s cheeks colored slightly over the thought that she had been describing such mundane junk as her treasures, yet she still treated each with reverence. In the back of her mind, she was certain that Avyna was judging her, so she tried not to look. If Avyna owned any treasures, they were sure to be true wonders, but Ranthia hadn’t grown up with much that she still could carry forward.
+
+Mage-rock had been consigned to their private area, on a shelf hung near her armor’s stand. There, she could honor mage-rock when she changed in and out of her armor each day. …Mage-rock had no eyes, so it wasn’t weird.
+
+“I shall make you something that is keyed to the safe box.” Avyna assured her, before the box was carefully sealed and stored away back into its aromatic hiding place.
+
+“Hold off on that for now, I’ll explain later but we’re so close to finishing our unpacking! It’ll bug me all night if we don’t finish.” Ranthia replied. She was looking forward to sharing her Skills with Avyna—and being rid of secrets at long last—but getting their home together felt far more pressing.
+
+“…Are you saying you plan to sneak out of bed and finish if we fail to finish?” Avyna was giving her a flat look.
+
+“Maaaybe.” Ranthia waggled her eyebrows challengingly.
+
+“That is it, I am tying you into bed.” Avyna grumbled.
+
+“You promise?” Ranthia asked, her tone salacious.
+
+Avyna ignored her and resumed unpacking.
+
+No rope was required that night. The two slept peacefully spooned together, both content with the task well done.
+
+The next morning, Ranthia had a somewhat perfunctory meeting with Sentinels Bulwark and Deflection. Bulwark was about to depart with the wagons and the small team that was heading back to Coalition City (and Ranthia made sure to remind him to return the rented beasts). Deflection was planning to stay for a few more days—notably through the first moonless night—before Sentinel Aurora picked him up. There wasn’t much for them to discuss though.
+
+The base commander was still engrossed with going through the junk collected from the abandoned shimagu base and had decided to have his people out there dig up what was almost certainly just waste disposal and old latrine pits. Ranthia kept her distance from the man lest she end up somehow involved in his increasingly poor decisions—everyone stuck carrying them out would sorely regret it if she did. The shimagu had plainly burnt or carried away anything of use—even by her desperate standards during her days at the Unbreakable Image—but the man was hungry for some sort of decisive advantage.
+
+It was already fun to walk back from the meeting though. The base had by and large come together—thanks in large part to it being a tent city. Ranthia passed by a cursing [Analyst] and had to stifle her amusement—Ranthia knew the command tent would cause problems. As planned, there were eight tents that served as the day’s command tent and the pattern for use was to change every single week. It was the sort of planning-stage cleverness that promised to have at least one person on the command staff going to the wrong location pretty much every day.
+
+Equally unsurprisingly, a name was already circulating. Giving the base a frightfully boring official designation—whatever it had been—was basically begging for anyone with a spark of imagination to give their home a better moniker. Already, the ‘unofficial’ name seemed to be on the lips of numerous men and women as they conversed. Remera. It was impressive how swiftly the name had been embraced—especially since Ranthia was pretty sure it was one of the washer women that had coined it. She had overheard the woman bouncing name ideas off of her friends before the convoy left Coalition City.
+
+Gossip rings could spread information even faster than [Couriers].
+
+As planned, Avyna had set up a simple market stand outside of their tent using their dining table and her remaining goods. Her lover had been confident that it was the perfect time to do so—“People are realizing they forgot to bring comfort foods, the base’s gardens have no harvests yet, and there is uncertainty about traders.”
+
+Delightfully—and unsurprisingly—Avyna was exactly right. There was a small crowd in front of their tent as legionaries clamored and outright shouted bids to try to acquire some of the precious remaining alcohol and fresh fruit. …Minus the pears Ranthia had purchased at Coalition City prices before the meeting, of course (being all but married to the [Merchant] had its perks).
+
+Arguably, Avyna didn’t have permission to sell alcohol at the base, which meant that it could be considered a contraband good. In practice, one of the base commander’s own advisors was screaming to try to outbid a dwarf over a small keg of spiced apple ale. Ranthia slowed her approach as she slipped through the crowds, thrilled for her lover to know that things were going so smoothly.
+
+Besides, that apple ale smelled far better than it tasted.
+
+Ranthia stole a quick kiss from Avyna once she reached the table. …And was immediately cursed at by some legionary who was irate about the interruption. Fortunately for him, Ranthia was aspiring to be more mature. She plucked her Sentinel badge out of her pouch and held it up… while she stole a second, longer kiss.
+
+Okay, yes, she might have held her badge up with her middle finger too. But the crowd quieted down and waited patiently for them to finish.
+
+“Have fun!” Ranthia called to her lover over the din of the crowd’s renewed shouts.
+
+Ranthia hummed to herself in the cooking area chopping vegetables while she waited for the stewpot to get hot. A sausage and vegetable stew sounded like a hearty dinner to end their day with, but she was still trying to figure out what to do for lunch too. It was a bit early, but Avyna would probably be hungry after she was done outside.
+
+Fortunately for her, Ranthia loved to cook for the woman that she had fallen for.
+
+Once the stew was simmering, Ranthia fetched some eggs—of course their price had finally come down right as they were leaving—and started to fry them alongside thin cuts of pork belly. A second pan to lightly toast a couple of wedges of bread and melt one of the cheeses that she thought would pair well with the meal.
+
+Ranthia plated the food as she concluded the tune she had been humming. After that she poured some wine to go with the food, which meant she was ready to see if Avyna was done yet!
+
+The tent flaps opened and Avyna walked in, carrying their table—right, Ranthia knew she was forgetting something—only to set it down near the entrance as she all but skipped up to Ranthia.
+
+“I have sold every last good! And my profits are greater than I had dared to dream!” Avyna enthused energetically as she seized Ranthia’s arms.
+
+“That’s gre—!” Ranthia’s reply ended up cut off by the elf’s lips.
+
+Clothes were shed as the women blindly sought their bed without breaking their intense kiss.
+
+The cold eggs and pork belly weren’t very tasty by the time they were finally remembered. Not that either regretted their preference for one another.
+
+Bright and early the next morning, Ranthia set out on patrol. She wanted to at least seem like she knew what she was doing at Remera before the base commander decided to recommend tasks for her. The chain of command was still a bit ambiguous, and she really didn’t want to put it to the test. In theory, she outranked the base commander as a Sentinel, but in practice, he was the absolute authority for the base. And the man had already proven himself to have a bit of an ego before they ever even got the base established.
+
+Getting in and out of the base was a surprisingly involved process. It took an Earth [Mage] and a Gravity [Mage] working in concert to lift the heavy stone gate that served as the sole entrance to the base. Ranthia still wasn’t confident that she would ever get comfortable enough to actually walk under such a heavy object held aloft only by the magic power of two individuals whose combined level barely rivaled her own. Which was why she didn’t, instead she opted to throw an image to the opposite side and shift to it.
+
+She preferred to think of it as being assassin proofed—it sounded better than paranoid. …Sort of.
+
+There were no obvious new tracks—their base was both new and loud, in an area that already had limited numbers of animals—or other signs of shimagu. Admittedly, the legionaries were patrolling as well, and there were still groups moving to and from the abandoned shimagu base, which muddled things enough that Ranthia wasn’t willing to be definitive. But a patrol that didn’t end in battle or give her cause for alarm was a good thing. She couldn’t let herself fall back into the dark fear that she had carried at her former base—not when it was unneeded.
+
+Avyna deserved more than that.
+
+Ranthia made her way back to base—shifting past the gate once again—and waited for the two [Healers] that were on standby at the gate to check her over. Shimagu that could resist [Healers] existed—she had seen as much with the troll twin—but being resisted was still noticeable (thank Xaoc).
+
+It still felt positively licentious that they had a full eight [Healers] over level 300—most of whom had at least one apprentice—stationed at Remera. At any given time, two primary [Healers] were on standby near the gate to check those coming back in. A couple were no doubt manning their medical tents—each on opposite sides of the base—while they supervised the apprentices and assistants that tended to the minor injuries that resulted as Remera finished coming together. The other four were on a rest cycle unless additional assistance was necessary.
+
+Ranthia was pleased that one of the [Healers] that cleared her was her (secret) favorite. He was a dwarf with the bushiest mass of reddish-grey hair that she had ever seen. His hair and beard had practically merged together until the man resembled a shrubbery. He never even had to lay a hand on anyone. Instead, he had a stack of close-range auras that tended to everything—and Ranthia was increasingly convinced that the man had mastered sleeping on his feet with his eyes open, given how slow he was to respond when spoken to.
+
+“I’m home, babe!” Ranthia called out as she entered their home.
+
+Home. She was never going to get sick of that word. How long had it even been since she last had a home of her own? …Her rooms at the Sanctum (she was pretty sure that was the right name, at least) were probably the closest thing to a home that she’d had since she was a child, and she had given it up to enter the Ranger Academy.
+
+That was kind of a depressing thought. Almost as bad as the lack of a response to her call! She found a note on the table that explained it.
+
+Setting up for future plans. I shall return soon, my love.
+
+Ranthia frowned. She needed to talk to her lover soon—she would be blinded that night, and she refused to let Avyna be surprised by her immortality and her curse like that. They needed to have a serious discussion while they could.
+
+Their home was fully furnished. Soft rugs and carpets caressed her feet as she roamed the tent aimlessly. The tent’s walls glowed with midday lighting with shadows that suggested they were in a woodland. The glowing crystals that Avyna bought provided wondrous pops of color wholly unlike anything she had seen in Remus. The potted plants and flowers were in good health—completely thanks to Avyna—and they just added something to the décor of their home.
+
+The place hadn’t just come together; it was a comfortable place of respite that reflected both of them. It was perfect.
+
+…And speaking of sharing things with her lover, Ranthia sauntered over to her storage chest. A bit of play before they had to indulge in a serious—and incredibly intimate—conversation sounded wonderful. And Ranthia still had some mistweave pieces that [Sexy] was practically begging her to finally show off.
+
+Ranthia got changed and lounged comfortably on their bed while she waited.
+
+Avyna quite plainly approved of Ranthia’s choice when she arrived. Wordlessly, the elf signaled for a moment and retrieved the cloth bag that had left Ranthia overly curious. Not that curiosity even ranked among the emotions that raced through her while Avyna introduced her to her own purchases she had made in Coalition City.
+
+Elves really did think of everything, didn’t they?

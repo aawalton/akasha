@@ -1,0 +1,163 @@
+---
+id: 6fb68411-a9b1-5c16-9925-a430080873db
+page-type-slug: story-chapter-royal-road
+title: "v6c24: A Many Faceted Jewel"
+slug: 0212-v6c24-a-many-faceted-jewel
+partOf: beware-of-chicken
+position: 212
+ownLength: 2076
+unit: words
+ownProgress: 2076
+publishedAt: 2025-05-11
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2270560/v6c24-a-many-faceted-jewel"
+royalRoadId: "2270560"
+markedReadAt: "2026-06-29T18:58:38.058Z"
+---
+
+Biyu leaned back in her chair with a contented sigh and patted her stomach.
+
+“As good as the stalls in Pale Moon Lake City,” she praised, and Wa Shi preened. He had somehow managed to grow the lake weed that was ubiquitous in Pale Moon Lake cooking in the river, and Biyu had to admit it was just as good as her favourite food stall.
+
+She could cook well enough to survive, and if she wanted, she could get a maid… but it was comforting to go to the same man she had been going to for years. She didn’t even have to say anything, he had it ready for her as soon as she walked in. Reed, fish bao, and tea. The tea was steeped for far, far too long, turning thick and on some days almost syrupy, fortified by spices.
+
+Biyu had actually brought some of the leaves Uncle Mushi used, and it had kept her sane on the journey up—now most of those had been donated to Wa Shi so he could experiment.
+
+He almost had it, though he seemed more concerned with Pi Pa’s opinion on it. The woman seemed very pleased with the strong, bold taste.
+
+She was really pretty. The hair colour was so exotic, and she was so tall and shapely!
+
+And she had already agreed to let Biyu accessorize her.
+
+It had been a truly wonderful morning. She had woken up to the duality of hard muscle and soft fur, Yun Ren practically wrapped around her. She had lounged in bed until it was finally time to get up, the two of them talking quietly… and then Yun Ren had asked her what was the best way to meet Biyu’s parents with a serious voice.
+
+Then they had a bath together… and finally, Yun Ren had let her comb his hair and tail, fluffing it up to twice its normal size, before burying her face in it.
+
+Everyone had wanted to touch it after that, and Meiling had started whining when Yun Ren refused every questing touch… well, most of them. He let little Zhuye run his curious fingers through the fur and the cute little guy was very pleased… and surprisingly not grabby, simply patting at the fur before making a noise of enjoyment.
+
+Biyu was startled out of her reminiscing when Jin clapped his hands against his thighs and rose to his feet. It wasn’t loud, but everybody stopped what they were doing and started getting ready. Biyu had seen this before, their morning ritual of stretching and martial arts forms that they all did together.
+
+Biyu had been told before that she could join in if she wished… and today she decided that stretches and limbering movements would do her some good. She had spent a week scrunched up, after all… and last night hadn’t helped the soreness of her muscles. Though that slight twinge of pain was actually kind of nice.
+
+The cold was bracing as they all lined up. Mister Loud Boy looked a lot better today. He had looked a little bit out of it last night, but most of his worries seemed to have disappeared.
+
+Biyu did her best to follow along. She was the slowest, but she had always had fairly good control over her own body when she concentrated. The rest of her was less coordinated than her hands, but she made do. It made her sweat and she was panting at the end of it, her jacket discarded in the snow… but it had been rather invigorating. And she wasn’t as sore anymore.
+
+“So, same assignments as yesterday!” Jin declared, and almost everyone nodded, aside from Biyu and Misters Rags and Loud Boy. “We’re working on stalls for the New Year’s festival,” Yun Ren whispered in her ear, and Biyu perked up. That sounded fun! However… before she relaxed, she should probably finish her job and report back to the Crystal Emporium.
+
+=================================
+
+Jin was, of course, completely understanding. Biyu quickly worked out with Mister Rags, as well as Miss Xiulan and Jin, about what could be said over the transmission stone. It wasn’t common knowledge, but people could ‘listen in’ on transmissions if they had the right tools.
+
+Their course decided, they were on the way back to Verdant Hill—though this time in style. Jin loaned them his sleigh, and Chun Ke volunteered to pull them. In the end, Yun Ren and Pi Pa decided to come along too.
+
+The sleigh was perfect. The wind was barely noticeable, and Biyu was content and warm, sipping tea and braiding Pi Pa’s hair.
+
+In no time at all, they were back in the town. They split up, Pi Pa and Chun Ke going off on their own into town, while Biyu, Yun Ren, Mister Rags, and Mister Loud Boy continued on to the Palace of the Lord Magistrate… whom they may have insulted.
+
+However, the Lord Magistrate was very understanding and waved off her apology.
+
+“It's quite alright. I understand your worry well,” the man said with a small smile.
+
+However, when they asked to use the Palace’s Transmission Stone, he grimaced.
+
+“We’ve not been getting the best signal as of late. It cuts out often, so I don’t know how useful it will be. We’ll have to wait until spring at the very least to get a specialist to look at it…” The Lord Magistrate said, a frown on his face.
+
+“If only there was one of those around,” Yun Ren deadpanned.
+
+The Lord Magistrate looked a bit confused.
+
+Biyu waved at him. The symbol of Mengde’s Crystal Emporium was displayed rather predominantly on her clothes.
+
+The Lord Magistrate tapped his head with amusement, as if just realising he could ask her.
+
+“How much would it cost?” he ventured. “It hasn’t been serviced since before my time.”
+
+Which was again understandable. Transmission stones, despite their occasionally spotty connections, were rather robust. If they needed repairs, something must have really gone wrong.
+
+Biyu considered his question. As the apprentice of Master Jing, and a recognised and accredited Master Carver, her rates were much higher than a lower ranking member of the Emporium. However, this was the town Yun Ren’s parents used if they had an emergency, Yun Ren liked the man… and he was apparently Jin’s teacher.
+
+She needed to use the crystal anyway… so she used one of the lessons her Master taught her.
+
+Make friends with important people and do them a solid! She also was fairly certain it would work. She could hear a little bit of the Pale Moon accent in the Lord Magistrate’s voice. It was super faint, but there. Surprisingly, it was from the outer boroughs. Maybe Northwind Lane? Not where most rich folk came from… but if he was from Pale Moon, he would get it.
+
+“We’ll have a discussion later about it and I’ll write you an invoice, Lord Magistrate. For your accounting purposes,” Biyu said, emphasizing the word.
+
+The Lord Magistrate’s eyes widened as he realised what she was saying. Namely she would give him an invoice he would never have to pay… and then he could use that cash for whatever.
+
+It was technically corruption, but Biyu was from Pale Moon Lake City. Greasing palms was just the cost of doing business sometimes. Her father, her mother, and her Master had taught her that.
+
+And even the most uptight Magistrate wouldn’t say no to somebody offering to repair their Transmission Stone for free.
+
+The Lord Magistrate raised his hands in the gesture of respect. “I look forward to our fruitful discussion, Lady Biyu.”
+
+“...I think I’m missin’ somethin’” Yun Ren began, his brow furrowed… before his eyes widened too. He turned to look at Biyu with a little bit of surprise, before his gaze shifted to the Lord Magistrate.
+
+Then his gaze came back. Biyu just smiled at him.
+
+“Huh,” Yun Ren said, then chuckled. “Learn something new every day.”
+
+Thankfully, he sounded impressed, rather than anything else.
+
+“A true gemstone has many facets,” Rags said sagely.
+
+Biyu blushed crimson at that.
+
+“Oh? Meditations on the Physical World by Xu Yuan? You’re quite well read,” the Lord Magistrate praised as they began walking towards the Transmission Stone room.
+
+It was Mister Rag’s turn to blush, the man scratching the back of his head.
+
+“He couldn’t read at all two years ago, and now he's quoting philosophy books,” Mister Loud Boy said, rolling his eyes.
+
+The Lord Magistrate blinked and gave Mister Rags a smile. “Really? Young man, that is no small feat!”
+
+They made small talk until they entered the Transmission Stone room. It was a large stone vault, and the reason most Palaces were so big. A true Long Distance Transmission Stone was nearly as big as most mortals’ houses. Cultivators could get away with smaller ones, or those of better quality, using their Qi to ‘boost’ the transmission, but mortals? They had to make do with the big, but not particularly high quality crystals and the array around it that focused its energies into the top of the main tower.
+
+The crystal had a single desk for the man on duty to receive an incoming transmission. This crystal only had one output. Pale Moon Lake had ten crystals, and each one had forty sub-divisions, directing each transmission so it wouldn’t be a constantly ringing mass of noise.
+
+“This model is only about a thousand years old,” Biyu mused as she got a good look at it. “One of the newer ones, I would say.”
+
+Which was good and bad. Good, because it was easier to repair, but bad because actually finding out what was making it lose connection would probably be something strange.
+
+It took Biyu a little over an hour to diagnose the problem… and she was right. The flow of Qi in the Transmission Stone had shifted, like something had knocked it out of alignment… and if the big fight on the Solstice had been able to be heard from here, it probably got scrambled from the Qi discharge.
+
+It normally would have been a difficult thing to fix; it would have been hours of work with specialized formations and carefully controlled Qi expenditure from other crystals.
+
+That is, if she didn’t have three cultivators who didn’t mind her guiding their Qi into the crystal to straighten things out.
+
+A three week operation done in less than twenty minutes.
+
+And then, it was time to make a transmission. The operator, the Lord Magistrate, and the others politely cleared out to give her some privacy.
+
+She took out a little formation stone and pressed it to the larger one, keying the Transmission Stone to connect directly to Mengde’s Crystal Emporium.
+
+The crystal buzzed and chimed, and her transmission was swiftly picked up… but nobody on the other end spoke. Instead, there was a regular buzz, repeating every two seconds. After the fourth, Biyu spoke.
+
+“Master Carver Biyu, reporting. Silent Wings, Large Eyes, the Owl Flies,” Biyu recited her code phrase. Master Jing had thought it funny. Biyu would have thought it paranoid… if she hadn’t read the reports Master Jing had given her about the several times somebody had stolen a Transmission Key and gotten information they weren’t supposed to.
+
+“Cao Ren, receiving priority transmission, formation signature: Master Carver Biyu,” came an echoing, buzzing voice.
+
+“Mission success. I have made contact with Master Jin, who has established that the Qi anomalies are mostly benign, and he will take steps to make sure the sensor pendants are unaffected. A full report will be presented on my return.”
+
+“Acknowledged. The Masters of the Emporium thank you for your service, Master Carver Biyu.”
+
+The line cut out.
+
+Mister Rags went next. She left to give him his own privacy and waited.
+
+Thirty minutes later the man sheepishly called her back in.
+
+“It… uh, keeps dropping the connection,” he said, looking embarrassed.
+
+She ended up having to relay it through Pale Moon Lake City and then to the Office of Spiritual Ascension Affairs.
+
+”This is Dong Chou. Grand Marshal confirms source of Qi anomalies, preparing report, will be after the New Year.”
+
+The last thing Biyu had to do was finalize the invoice… which meant sitting around getting hosted by the Lord Magistrate, drinking nice tea, and discussing the silk Lady Wu was making with Pi Pa.
+
+It was a lovely batch. Very vibrant colours!
+
+============
+
+==============
+
+Editors: Massgamer, BargleNawdleZouss,

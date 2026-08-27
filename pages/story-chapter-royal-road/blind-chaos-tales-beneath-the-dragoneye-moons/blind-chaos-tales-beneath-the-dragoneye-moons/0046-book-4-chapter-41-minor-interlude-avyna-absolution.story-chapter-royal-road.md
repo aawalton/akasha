@@ -1,0 +1,97 @@
+---
+id: f1e6f455-2c13-5cab-8620-0befd673a3f2
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 41 - Minor Interlude – Avyna – Absolution"
+slug: 0046-book-4-chapter-41-minor-interlude-avyna-absolution
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 46
+ownLength: 2353
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2921522/book-4-chapter-41-minor-interlude-avyna-absolution"
+royalRoadId: "2921522"
+---
+
+“We might be immortal, but even eight thousand years with you would never have been enough for me. I will wait for you in the City of Arts. So please, come back to me. Let us meet again, no matter what happens. Because I fully intend to share my love with you for an eternity, my Gemheart.”
+
+Powerful words—and then that kiss…! By every facet of every last prism, it had been a very long time since Avyna was last stunned into silence. She was a [Merchant]! She was supposed to know exactly what to say and exactly when to say it! Yet a human—not yet a hundred and twenty-eight years experienced, even—managed to leave her stumbling for how to respond, like she was some lovestruck first cycle waif from one of her stories!
+
+Worse was the urge to leap from the wagon—to return to Ranthia and her warm embrace. Avyna had spent their final years firming up her resolve, yet in the span of seconds she was left shaken with every last effort unmade.
+
+Avyna first fought emotion with logic. She struggled to rationalize her need to commit to the path she had chosen. She asserted that the caravan would never go back or stop over her selfishness, and she had important items packed. She reminded herself that she had an important role to play, her own aspect of the great machination—which she inherited from her mentor.
+
+The attempt was wildly unsuccessful, of course. Avyna knew better, she truly did: combating emotion with logic was certain to result in utter defeat. Excuses that were ordinarily flimsy and indefinite became powerful counterarguments when emotions ran rampant. While her emotional state remained inflamed, there was only one reliable means to combat the love-struck foolhardiness that had overwhelmed her mind.
+
+Avyna called upon her memories and weaponized wholly different emotions against her madness. She smothered the inferno under an endless tide of guilt.
+
+It was enough to free her lips to call out the parting words that she needed to say. The words that her former romantic entanglement deserved to hear. The grief that afflicted her former lover was blatant, even with the distance between them. But Ranthia was strong, and Aellea was a better [Mind Healer] than Avyna had initially assumed the woman to be. Ranthia would be fine, Avyna had (heh) faith in her.
+
+Avyna settled back into the wagon once Ranthia faded from sight and immersed herself in her memories in an effort to stifle the ridiculous impulses that still afflicted her. She had spent the bulk of her life in pursuit of the opportunity that she moved to claim. She had sacrificed so much, and her mentor had made the ultimate sacrifice just to start her on her path. She had spent a fortune to put gemstones into the right palms to smooth her progress toward her ambitious goal. She had forced herself to make connections with individuals that she could not even begin to tolerate, and she had sullied herself time and time again in pursuit of her role in the grand tapestry that was the unknowable true machination.
+
+Yet when everything came together and the labors of her immortal life had, at last, opened the doors that were required, Avyna found herself with something unexpected: a century of free time. The final selection—practically a formality, but it was ‘tradition’—had a clearly delineated schedule. There was nothing more to be done to prepare, lest she invite scrutiny, so Avyna decided to take something of a vacation.
+
+A handful of elves had involved themselves in a mortal approximation of war, which presented an opportunity. Avyna removed herself from the sight of those that might question her worthiness and settled in to make a few gems. The fruit stand that she set up was largely a front—her true purpose was to gather information from the loose-lipped crowds, which she used for larger market investments and divestments.
+
+Besides, when mortals fought, there was the potential for the rarest and most valuable of treasures to appear: mortals that seized the opportunity to become something more. Beings that stumbled aimlessly, grasping at eternity, without any sense of what their newfound immortality truly meant. Beings that had no idea of the weight and value of a promised favor that could be redeemed in a future they could scarcely fathom.
+
+If they survived long enough, such beings were worth far more than their weight in diamonds.
+
+There were downsides to her diversion, of course. The horrible little man followed her like a lust-stricken pup and set up a branch of the Silverleaf Traders there, just to force himself into proximity with her. Avyna was no stranger to debasing herself, but she had consistently spurned his advances—there was no benefit to tying herself to a child that believed himself great simply because he was the nephew of someone that he could never hope to equal. The local branch of her trading house offered her a few opportunities, but the cost of needing to share what she learned with others stung even more than the time she lost to unwanted advances.
+
+And yet it was all worth it, because the prize that she truly sought appeared. A woman with a surprising amount of contribution points and an uncanny interest in a mundane fruit stood out from her very first visit. And between her lust for the fruit and her poorly disguised interest in Avyna, the woman came day after day to indulge in small talk—inadvertently revealing her newfound immortality in the process.
+
+With the worst of intentions in mind, Avyna tried to indicate her own interest in the woman. A brief fling would enable her to garner a promise or two from the woman and it would render Avyna ‘unavailable,’ sparing her from the toad that pursued her. Ranthia was certainly attractive enough to convince the shallower elves of the legitimacy of the so-called ‘romance’—not that physical appearances had ever mattered to Avyna, at least not for any emotional attachment. For her, personality was what truly mattered—at least in the rare moments she was able to look for something more than the ability to muster enough lust for physical entanglements.
+
+Yet Ranthia defied her expectations time and time again. The once-mortal proved herself to be a difficult quarry and, in the process, showed that she possessed greater depth than she first seemed to. She was no shallow brute—and had Avyna known just how dangerous that was, she might have reconsidered.
+
+Avyna had sought a pleasurable distraction and an easy mark for future wealth. Instead, the worst of intentions turned into a dazzling romance, the likes of which Avyna had never experienced—not since her time with Entheri, almost a thousand and twenty-four years ago.
+
+Sure, things got off to a rocky start, but romance novels were correct in that respect—beginning a romance was a messy process. First, Ranthia required a shamefully direct approach to convince her that Avyna intended something more than social and mercantile interaction. Then there was the whole ‘love’ debacle! Grimy gemstones, Avyna doubted that she would ever be able to read the story that she borrowed the term from again. It was impossible not to judge the characters for how fast they started slinging a word that meant far more than Avyna had ever known!
+
+Which was, perhaps, a bit hypocritical. Avyna had lightly exaggerated her limited familiarity with speaking Creation at the start of her time with Ranthia, but that mistake was haunting—even if the word had unexpectedly become the truth somewhere along the way before she even discovered her error.
+
+But the success of their relationship only made her recollection of the early days all the more bitter. She had openly manipulated Ranthia. She found the emotional scars left from a prior attempt at romance and used them to ensure she had the unwavering attention of the human once she returned. She had ensured colleagues and contacts told Ranthia what she wanted to hear. And when her unrequited branch head plotted against Ranthia, Avyna used it—she fully intended to ‘sacrifice face’ to make the human feel indebted.
+
+Instead, Ranthia moved like an elf and, against the expectations of everyone present, won!
+
+In retrospect, that was probably the moment that started to change things for Avyna. Ranthia not only rose to the challenge—she willfully put herself at risk. Just for a relatively minor benefit for the sake of Avyna. There were no great stakes, she just disliked how one petty little man had treated Avyna and so she sought an opportunity to shut him up.
+
+Avyna had never seen such a thing before. Sure, she had read countless books where that was the case, but in that moment, Ranthia embodied heroism in a way that Avyna had never seen—at least not since she lost Evi.
+
+She never expected a once-mortal to shine so brightly.
+
+And yet, that was just part of the sterling character that Ranthia possessed. The woman seemed unable to exist without leaving rippling effects in her wake—unsurprising, given her adherence to the Chaos deity—but she truly cared. It was more than (just) her penchant for spoiling Avyna senseless; Ranthia seemed to do what she could to help and support anyone that she met.
+
+For free!
+
+It was strange—wonderful, but strange. Most relationships that Avyna had endured were chosen in pursuit of her goals. At some point, she had all but forgotten that love was more than something relegated to the pages of a book. For the first time in a very long time, Avyna felt a positive emotional attachment to someone other than her little Caeli.
+
+Caeli had never been a part of the plan either. But when Merithos proved to be kinder than she had expected—not that he understood why she maintained her own career path, instead of devoting herself to his farm—she indulged one of her private fears and offered to bear his child. With Caeli, Avyna secured her legacy. And her daughter was amazing; she was the embodiment of the woman that Avyna wished she had been allowed to become! Even if Avyna failed the great machination, she had left at least one truly good mark on Pallos.
+
+Ranthia would be another.
+
+Avyna had assumed she would ascend without a romance that rivalled the centuries she spent with Entheri, yet she was certain that her scant eighty years with Ranthia were greater. In Ranthia, she found a source of unerring support, a font of comfort, and the embrace of happiness. It was intoxicating, it was worthy of stories and songs.
+
+It was dangerous.
+
+On nothing more than the ravings of some whelp on his first or second cycle—a child that claimed to have met some great [Healer] with factual knowledge that contraindicated all known elven experience and expertise—Avyna found an excuse. She gave Ranthia an opportunity to pull her from her path. Had she borne a child for her lover, she would have abandoned everything she had worked for. Whether it was because their child needed her prolonged attention or she offered to give Ranthia more children, she would have chosen to extend their contract to give them the time that Ranthia deserved.
+
+In those days of weakness, Avyna was ready to throw away the efforts of well over one thousand five hundred thirty-six years of effort. Just to cling to an unexpected source of warmth and joy.
+
+Thank prisms, Ranthia proved to be wiser and refused.
+
+It had hurt at the time, but it truly was for the best. Avyna had her role to play and it was important. And besides, she never truly deserved the happiness that she found. She had failed Evi. She had made life objectively worse for many people throughout her life. She had started the romance with the worst possible intentions. And even as she concluded her time with a woman that loved and trusted her unconditionally, she offered Ranthia unrepentant lies.
+
+In truth, there was little to no chance that they would meet again. No matter how the next decades went, Avyna would never again set foot in Ar-Suelle or any other city within the Tympestshard Council. Not until, at a minimum, a new age arrived for her fellow elves. …And likely not even then.
+
+But Ranthia deserved the push to discover new peers. She had no place within mortal society; it never ended well when immortals tried to remain in the midst of mortals for more than a generation or two. The power, wealth, and influence a person possessed only increased with time, at least so long as they maintained the ability to protect what they had, and those that found themselves on the decline inevitably came to resent the immortal that remained untouched by the ravages of time. Brutal conflict was an inevitability.
+
+Immortals had to remain amongst immortals. Many elves were… unwelcoming of outsiders, to say the least, but there were always exceptions. And Avyna was confident that Ranthia had enough charisma and willpower to find her place and, with time, her happiness. Perhaps, if the god Ranthia worshipped was willing, she would even be able to forgive Avyna someday.
+
+Perhaps, if they both lived long enough, they would meet again, in the distant future.
+
+Avyna opened her eyes and exhaled, slowly, as she left the past behind. She needed to focus on what was to come. She was confident that she would make it through the final selection, but there was always an element of risk when it came to the whims of those that wielded power. Still, she was confident that no other candidate could match what she had established—she was confident that she would be the one chosen to manage the transportation of the most precious of cargoes.
+
+And when she was done, the Unchanging Council would know her name. And they would curse it, impotent and unable to even seek revenge. She was far from the only elf that would undermine their authority, but she was confident that she would enact one of their most egregious failures.
+
+And that was worth everything that it cost.

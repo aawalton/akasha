@@ -1,0 +1,237 @@
+---
+id: 2bffff6f-5e5c-58c3-86ed-f2af29484110
+page-type-slug: story-chapter-royal-road
+title: "v7c19: Fearless Steps"
+slug: 0272-v7c19-fearless-steps
+partOf: beware-of-chicken
+position: 272
+ownLength: 3366
+unit: words
+ownProgress: 3366
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2940860/v7c19-fearless-steps"
+royalRoadId: "2940860"
+markedReadAt: "2026-06-29T19:00:45.480Z"
+---
+
+“How did it feel, forging the Spirit Metal? I felt the Qi, but directly handling it?” Tigu demanded of Handsome Man while he wiped his brow with a cloth. He looked exhausted from the forging; everyone who had taken part did. They had poured every ember of their Qi into heating the great forge and hammering the metal. It had taken eight hours to forge the Spirit Iron into Master Jin’s new shovel.
+
+Handsome Man chuckled and leaned into the cool cloth she was pressing to his forehead. “We weren’t expecting the critical moment to arrive quite so quickly. The scrolls say that it generally requires more convincing—sometimes it can take weeks. But being there, assisting in liberating the slaves, made quelling its grudge easier and thus made it eager to change. It took a lot of Qi to keep things stable, but to be able to work with such a metal… it was a dream. It felt so powerful. So… primordial. It was mighty, and yet we got it to follow our lead.”
+
+His eyes were distant, remembering the moment, and his smile was bright. It was very, very handsome.
+
+“Ah! I want to forge some now!” Tigu said, her eyes still locked onto the wistful expression on Handsome Man’s face. “You can teach me—it looked very interesting!”
+
+“The next time we get some, you can certainly participate,” Liquin said, leaning one of her arms on Tigu’s shoulder. She was a tall woman, as tall as Pi Pa’s human form, and her muscles were very well-defined.
+
+Tigu liked Liquin. She hadn’t known the woman long, but the short time she had been in the sect before Master had arrived had painted a wonderful picture. The Hermetic Iron Sect was small and close knit, and so it was like she was everyone’s mother. Neither the mortals nor disciples had any fear in reaching out to the woman, be it for advice or if they needed help. She was a lot like Tigu’s Mistress in that way. She was a pillar of support for any who needed it.
+
+They had carved a few statues together, and they had had a wonderful conversation about which muscles were best! Liquin was a true connoisseur! They were kindred spirits; Liquin’s favourite muscles were on the back. It was the most difficult part of the body to properly sculpt, but the shapes a flexing back created were so fascinating. If Tigu could only sculpt one body part for the rest of her life, it would be the back!
+
+“Really?” Tigu asked, turning to Liquin. “I don’t want to pry into family secrets…” Tigu didn’t really care about that kind of thing. She had nothing to hide, and Master showed everyone he met his techniques. The only thing that was really a secret was Tianlan… and that was just because she didn’t like being bothered.
+
+“Eh, it's fine. You’ll just have to become family then,” Liquin said, a smirk on her face. Handsome Man immediately blushed, while Tigu cocked her head to the side.
+
+“I’m sorry, I don’t want to be adopted,” Tigu said apologetically. She had a family already! Liquin snorted, then laughed.
+
+“Ah, you’re the cutest,” she said.
+
+“Mother!” Handsome Man scolded.
+
+“She is indeed,” Mistress interjected. Liquin immediately straightened up at Mistress’ words. Tigu turned to beam at her mother and little brother. Little De was once more in Mistress’s arms, his head buried in her neck. Eight hours had been quite long for him, huh?
+
+“Lady Meiling…” Liquin trailed off, seeming a bit awkward, but Mistress just chuckled.
+
+“Our Tigu is a wonderful girl, so it's only natural you’d want my daughter as your own. I don’t mind such talk,” she declared. Tigu preened at the blunt praise, while Liquin relaxed. “But that talk is better suited for another time.”
+
+“Yes it is. We have created something wonderful. Instead, we should focus on that!” Liquin agreed. She patted Tigu on the shoulder and looked to where Tigu’s little brother reached out towards her. “May I?” she asked, and Mistress nodded.
+
+Liquin let Zhuye grasp her finger, and let out a noise of delight. “A strong grip!”
+
+“Yes, he's growing well! What about yourself? You’re a month along; how are you feeling?” Mistress inquired as they started walking towards where Master and Handsome Man’s father stood.
+
+“So accurate!” Liquin said, looking mildly shocked. “Yes, a month along. My morning sickness is not too bad, and my Qi fluctuations are small enough to be manageable. Hopefully this time they don't get as bad as my first pregnancy. During the end with Delun it was… difficult.”
+
+Mistress’s eyes sharpened, and Tigu knew that look. It was the “there is a problem I need to fix” look.
+
+“Oh? I may know some things that can help. May I give you an examination later?” Mistress requested. Liquin looked incredibly relieved.
+
+“What kind of fool would say no to a Spiritual Doctor of your calibre?” Liquin responded.
+
+Mistress and Liquin started chatting, while Tigu stepped up to her Master. She and Delan had to make their presences known to the crowd of disciples around him and Handsome Man’s father.
+
+After witnessing the creation of such a fine piece, it was only natural that the disciples of the Hermetic Iron Sect crowded around so that they could try and glean some insight from the shining metal.
+
+Handsome Man’s father was simply looking on at all the discussion, while Master gazed at his new shovel with interest.
+
+When he noticed Tigu walking up, he gave her a smile and held the tool out to her. Tigu reached out and grasped the shovel. Immediately she could tell the difference.
+
+The shovel noticed her. There was Qi within it—more Qi than last time, and not simply her master’s lingering reinforcement. It made the entire tool slightly warm to the touch. It tasted Tigu’s own Qi, almost judging, but that feeling quickly went away.
+
+Tigu’s Qi gently patted the Qi within the shovel, and it seemed to lean into her touch. It was not really aware. There was no spirit like Summer’s Sky or Sun Ne, but there was certainly something there!
+
+Next, she turned her attention to the carvings on the haft. They looked like they had been freshly treated with oil, any nick or scratch in the wood sealed over and vibrant. Out of the end of the haft, a single small branch had grown, bearing a single leaf, which continued Tigu’s designs on it. At the bottom of the haft, where it connected to the metal of the shovel, it had grown there too, little tendrils of wood grasping tight onto the new metal that had been fused with it. From there, the wood transitioned nearly seamlessly to metal, and the carvings of vines and flowers continued into the metal, which then turned into the more bold, earthy style of the Tie family. It etched them in a darker black colour, like veins of ore—ore that had little flecks of gold within. The main body of the shovel was a wide, sturdy blade that curved into a point. An uncommon style that her Master had specifically commissioned. The metal was bright silver, and almost white in some places, like it was mimicking marble, or perhaps white jade.
+
+It was truly beautiful. Maybe some would scoff at the fact that it was a shovel; but it was better than a sword. Master would make wonders with this. It was a tool worthy of him.
+
+Tigu let out a breath and turned to Handsome Man. “You’ve outdone yourself!” she proclaimed. “And Grandfather, your carvings go very well with my own!”
+
+Liquin’s father gave a small smile. “I did my best, Young Mistress,” he said. Even the grandmother who had been very quiet the entire time Tigu had been here was smiling.
+
+Bei Be gently nudged Tigu from behind with his nose. ‘May I see?’ he asked, getting her attention.
+
+“Ah! Sorry for hogging this!” Tigu said apologetically, turning and presenting the blade to her fellow disciple. She rested it against his horn when he turned his head. The ox’s eyes were full of interest—and strings of Qi from Sun Ne reached out eagerly from the plow, brushing along the new blade. The blade spirit was nothing like how Tigu remembered the Crimson Demon’s Tooth—it was quite a cute little thing, and only had a mind for clean cuts.
+
+‘It shall cut the earth well,’ the ox declared.
+
+“Do you want to give it a go?” Master asked.
+
+‘Me, first?’ Bei Be replied, seemingly surprised.
+
+Master nodded firmly.
+
+The ox considered the shovel, and then nodded. He locked it against his horns, and looked for something. After finding a bare patch of ground, he twisted his neck again.
+
+Three strikes hit the earth, and three perfect furrows carved themselves. The Hermetic Iron disciples gasped at the perfect cuts. Handsome Man’s grandparents, at least the ones who could see, all gasped.
+
+‘Eager! Very eager!’ Bei Be praised.
+
+Their Master laughed and took the shovel when Bei Be handed it back to him. He smiled brightly at the shimmering metal, and then brought it down with a negligent air.
+
+Every single furrow flattened back down, turning once more into undisturbed earth.
+
+“Back to peak form, eh, Lao You?” Everyone heard the name Master Jin spoke—Lao You—a fondly remembered old buddy. The kind of person who was always reliable. Who you always made room for at your table.
+
+Master was pleased.
+
+“Let's get some food; our Masters look hungry!” he declared.
+
+Handsome Man’s stomach took that moment to gurgle. He flushed.
+
+=====================================
+
+Lunch, or rather dinner, was a more private affair. Delan sent all the disciples out to meditate on the forging process and see what they could glean from what they had felt during it, so it was just our two families eating as one.
+
+I had my new shovel resting against my shoulder. I could feel the Qi of the Spirit Iron interacting with mine still—I got the sense that the forging process wasn’t fully complete, as there was still some kind of reaction happening.
+
+So I just let it do its thing. It felt right.
+
+The table was a lot less formal this time, the satisfaction of a job well done leading to a celebratory atmosphere. Conversation flowed freely. Meimei was talking to Liquin, and both of them were sharing stories about motherhood—stories Delun was clearly trying hard to ignore, his attention focused entirely on Tigu.
+
+Babe was talking with the old blind carver about cuts, the old man running his fingers over a carved plate that depicted one of Gramp's stories. Delun’s grandfather looked like he was having a fantastic time. Washy was deep in conversation with both of Delun’s grandmothers, both of them talking about cooking.
+
+I was talking to Delan about the state of the Ironfields’ agriculture.
+
+What the man was saying painted a rather bleak picture.
+
+“It’s the rust—and in some places the ground is poisoned entirely. If we could just get a handle on it…” he sighed. “Half the doctors don’t know what to do with our people either. They just say they should be dead.”
+
+“And if the rust could be removed?” I asked. Delan turned to look at me. Really look at me, as he realised what I was offering. “I can remove most of the metals within the soil.”
+
+‘What do you think, Tianlan?’ I asked the Earth Spirit in my head.
+
+“The land is not supposed to be like this. The metal Qi in the soil is also having a sterilizing effect. If we shift it back to neutral, that will take care of most of the problems, ’ Tianlan replied. “Like I did in the Grass Sea. Less Wood, more neutral. It still works for Xiulan’s formation, it would just take care of the worst of the damage.”
+
+“...you would do that for us?” Delan asked. “Master Jin, we cannot repay such generosity.”
+
+“In truth, it is a promise made to an old friend. There are certain sites that they asked me to fix around the Azure Hills,” I said. “The only reason why it is not done already was because I do not wish to unduly disrupt the people who live here. But if it is solely beneficial, then there is no issue.”
+
+“An old friend?” he asked. He looked just a bit skeptical, but in the end, he closed his eyes and nodded.
+
+“Then a tour of the Ironfields tomorrow. Of the most affected places,” I declared. We would probably be here for a week or so.
+
+Delan let out a breath. “My son is right. You truly are a different kind of man,” he said after a moment, before turning to look at where Tigu and Delun were both hunched over a page together, doodling some design. Delan smiled at the scene, before he sighed, and steeled himself, turning once more to me. “I know I lack the qualifications to even begin to ask this question, Master Jin. But for my son’s happiness I shall ask anyway. My son and your daughter… they enjoy each other’s company. Is she promised to another? Will this end in heartbreak for my boy?”
+
+I paused at the statement.
+
+Marriage. That was indeed a big concern. And I was Tigu’s father.
+
+Delan had every right to be worried. Delun was the metaphorical toad lusting after a swan’s flesh; that was to say, Delan thought Tigu was out of his son’s league. I was a powerful Master. Why would I ever even think of the Azure Hills cultivators, when thinking about my daughter’s future?
+
+But for the sake of his son’s happiness, he felt he had to ask anyway.
+
+I pondered the question. I liked Delun. I rather liked the Hermetic Iron Sect. They were solid, dependable, and rather down to earth people.
+
+I looked at Meimei. She locked eyes with me for a moment, before giving a little nod, basically putting the ball back in my court. She had been a bit hard on Delun at first, but well, he had Tigu’s mother’s approval, at the very least.
+
+“She is promised to no one. My daughter will marry whom she wishes to. But… it was always a question of her own maturity. Delun is a good man. He never used her curiosity or her affectionate nature against her, and focused on being her friend, rather than wanting to be her lover.” Delan nodded firmly at my words, pride entering his eyes. They had raised a good kid. There were a thousand stories of untoward actions in this world. Cultivation stories were rampant with them. Delun had always done what was best for Tigu, no matter how big his crush on her was. “I need to speak to her about this.”
+
+Delan nodded solemnly. “Thank you for your candor, Master Jin.”
+
+I nodded. Time for another stressful conversation. Man, my daughter might already be grown up enough to be engaged, and I had only been a dad for three years!
+
+===========================
+
+Tigu was easy enough to arrange a meeting with. All I had to do was wave her over to our  room, and she skipped to join us.
+
+I soon had her in my lap, brushing her hair. Tigu practically melted into me. It was nice. It was peaceful. We nattered about the changes at the Dueling Peaks, and the things that happened there.
+
+“They’re all so nervous! It's funny!” Tigu said. “They don't need to be afraid of Master! They need to be more like Iron Mom and Iron Dad!”
+
+I snorted at the childish nickname.
+
+“Do you like them?” I asked.
+
+“Yes! They’re nice! They’re more like you and Mistress—the mortals around here all really like them too!” Tigu said.
+
+“And what do you think of Delun?”
+
+“Handsome Man is my good comrade! But you know this!” Tigu said, sounding confused.
+
+… not what I was going for.
+
+“What would you think about them being our family?” I asked, gently.
+
+“Eh? But I already told them I don’t want to be adopted?” Tigu asked, still puzzled.
+
+I snorted at the confusion in her voice. Meimei giggled.
+
+“He means marriage, Tigu,” she said, an amused lilt to her voice. “That is how they would be family.”
+
+Tigu blinked. Then her face slowly turned red. “Ah, that's what she meant…” Tigu suddenly said, looking embarrassed.
+
+I patted her head.  “Do you like Delun?” I asked again, this time directly.
+
+“I… I don't know if I’m mature enough to get married,” Tigu whispered. “But when I look at him. When I see his passion for his work… I don't want to look away. I want to walk beside him. I want to share those moments with him. When you asked me if I wanted to marry him… my heart started racing.” I smiled at the emotion in her voice. It was earnest, and she was baring her heart to us. She clearly didn’t know if it was love. And yet... it sure sounded like it to me. “We have so much to do. We have so much to explore! We have the entire Azure Hills to protect! I think I might like getting married to him, but I don’t know if I’m ready to have children yet, either…”
+
+Tigu trailed off. I tightened my hug on her, and Meiling held her too.
+
+“Marriage doesn't mean you have to do those things right away—and you don’t have to get married immediately, either. Meimei and I… well we jumped right into it,” I said with a little smile.
+
+“He stole my heart and had to take responsibility,” Meimei said, her nose in the air. Tigu giggled.
+
+“Would you be fine with telling everybody, ‘I want to get married to this person in the future’? You remember Gou Ren and Yun Ren’s betrothals, right?”
+
+Tigu thought over my words for a moment, and then tentatively nodded. “I think… I think I would like that, but does Handsome Man feel the same way about me?”
+
+“Yes,” Mei and I chorused.
+
+Tigu blinked at the immediate answer. Her face flushed brighter.
+
+“Oh! Oh, that's good!” she decided. “But…how is Handsome Man supposed to kidnap me? I will have to train him hard if he wishes to succeed!”
+
+“Well, normally it doesn’t involve kidnapping. We just talk to each other's families,” I said, ruffling her hair.  “That’s part of Hu Li’s family’s traditions, not necessarily ours.”
+
+“Oh,” Tigu sounded vaguely disappointed. She frowned. “Can he kidnap me anyway? It sounds fun. That way we can train together more!” Tigu was starting to look excited again. She nodded to herself and then popped up from my lap, a determined look on her face.
+
+“Then let’s go! No time like the present!” She took off, zipping from my grip. Mei and I sighed, and followed after her.
+
+We found her, standing in front of the smaller stone manor. She banged on the door, and planted her hands on her hips.
+
+Delun opened the door.
+
+“Yes, Tigu?” he asked, looking a bit confused.
+
+“We’re going to get married in the future, okay?” she declared, thrusting one finger directly towards him. “When you can steal me from my Master’s home! That is… if you w-want t-to?”
+
+She stumbled a bit at the end. Delun gaped at her. Tigu’s resolve started to waver when he didn’t react, her face slowly turning redder and redder—
+
+And then Delun’s Qi exploded from him. It rose like a bonfire, pure and clear up into the sky.
+
+“Yes, I want to marry you!” he shouted. He grabbed Tigu, lifted her up, planted a kiss on her that made her toes curl, and then carefully set her down. Tigu blinked, looked quite dazed, then Delun marched right up to us and bowed at ninety degrees.
+
+“Master Jin! Lady Meiling! I will take good care of your daughter!” he roared so loud the walls shook.
+
+My eyes met Delan’s, standing in the doorway. The man was beaming at his son. I started laughing. This was a very Tigu proposal. Full force. No hesitation.
+
+Just walking fearlessly into the future.

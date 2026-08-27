@@ -1,0 +1,157 @@
+---
+id: 44cb6c73-ad40-5659-a59d-267ccba1e99a
+page-type-slug: story-chapter-royal-road
+title: "45. The Fulcrum"
+slug: 0045-45-the-fulcrum
+partOf: breaker-of-horizons
+position: 45
+ownLength: 2553
+unit: words
+publishedAt: 2020-10-05
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/564771/45-the-fulcrum"
+royalRoadId: "564771"
+---
+
+I didn't go straight back to the dorm. The augera and the Demiurge had given me a lot to think about, and I found myself wandering the grounds as I turned everything over in my head.
+
+There was no doubt in my mind that the augera hadn't been lying or else concealing something. There was a weight to its communication that I couldn't explain, but it carried a kind of purity of intent. Even though I didn't understand everything it had told me, its engagement with me was unsullied by even the shadow of deceit.
+
+At first, after I had left the Spire, I felt overwhelmed by the magnitude of the things that had been revealed to me. What was I supposed to do, now that I had been told that I literally had the power to wage war on the Fateweavers and tear down their major Prophecy?
+
+It was what I had been working towards all along, and now I had just learned that it was something that had been gifted to me by forces beyond my reckoning. All I had done was simply make a deal with the augera; ensorcelling Ambrose in exchange for freedom. And now I had a weaving of protection over me that allowed me to also unweave-elide-silence the threads of prophecies if I so chose.
+
+But it wasn't quite what I had expected. The Demiurge's words rang in my head: you did not die when you were made free of all these shackles... you are free to bestow it... The sight may utterly destroy some... and we are all at your mercy should you choose to burden us with that sight.
+
+Before long, I found myself standing in front of my father's staff residence. The lights on the first floor were switched on, and the faint smell of food drifted through the wintery air. But I didn't step up to the door. I simply stood in the dark and cold, weighing my choices.
+
+I had already served as the instrument of a minor prophecy that led me to link my father to Ambrose's major Prophecy, which would likely lead to his eventual ruin. Was I, even now, still playing along?
+
+I turned my attention to the protection that the augera had granted me. Prophetic links swirled thickly in the air, still desperately trying to sink through the carapace and into my auric-ambient-flare, flailing ineffectually against the unyielding barrier. So that meant that I wasn't here by the promptings of prophecy. It would be my choice... but I had to be ready for the consequences of my choice. Because it would be my choice, totally and unequivocally. I wouldn't be able to blame anyone or anything else. Having the freedom to choose also meant being answerable, whether to myself or to others, for the choices I made.
+
+Was I ready to step in there, go up to my father and, to use the Demiurge's words, burden him with the sight, even if it potentially killed him?
+
+'This daughter shall be your ruin.' What was 'ruin', really? Was it as bad as death?
+
+I stood there until the lights inside the residence went out.
+
+And I left.
+
+While the twins had gone to bed, Ambrose, Devon, and Jerric had stayed up waiting for me, and Devon had even saved some food from dinner. They were all expecting me to fill them in on what they assumed had been a talk that lasted well over five hours.
+
+"It wasn't all with the Demiurge," I said, in-between mouthfuls of still-warm shepherd's pie. "I went to see my father after that."
+
+"Fine, just tell us about the part with the Demiurge then," Devon pressed, leaning across the table.
+
+Ambrose must have read the indecision and worry in my face. "Before he does that, I think I need to tell you something, Jerric. You too, Devon."
+
+"Me?" Devon looked surprised. "But I already know that you're the—"
+
+"You don't know what it says," Ambrose pointed out.
+
+"What's going on? And what does this have to do with Caden meeting the Demiurge?" Jerric asked, slightly confused as he looked at each of us in turn.
+
+"Everything," I said simply, as Ambrose rose to fetch the scroll from our room. When he returned, he unrolled it and laid it on the table. Devon's expression was one of fearful awe. Jerric stiffened, staring wide-eyed at it, then up at Ambrose, who nodded and pushed it over to Jerric.
+
+"You can read it out," he murmured.
+
+Fingers trembling slightly, Jerric took up the heavily-glyphed paper and began reading aloud.
+
+Hearing the Prophecy a second time didn't make it any less weighty. The same stirring in the arcana made me hyper-aware of how the prophetic links were wildly contorting around my protections. And since I was taking special care to look for it, I registered how they were indeed twining more firmly around Jerric and Devon now that they knew its full contents. But I also realised that the bonds were not as tight as I had expected they would be. The revelations in the Spire allowed me to trace gaps in the bonds. It was the work of the augera, doing what it was made to do by the Fateweavers, but also undermining them in small ways.
+
+"Not the cheeriest choice of words, is it?" Jerric deadpanned, returning the paper to Ambrose.
+
+That got a small smile from Ambrose, but Devon looked a little queasy.
+
+"The twins don't know yet, do they?" Jerric continued.
+
+"No... it doesn't feel like the right time to tell them," Ambrose said with a wry smile.
+
+"Good call. Though if we're all doomed to 'curse your name' eventually, you might want to tip Kevan off first. By the time its everyone else's turn, you'll pretty much be immune to any more cursing."
+
+"You're taking this awfully well," I noted.
+
+"A couple of weeks ago, I wasn't even sure if I had a future left in this world," Jerric returned with a sardonic grin. "At least I know there's some use left for me."
+
+"What do you mean?" Devon asked, his brow furrowed with worry.
+
+Jerric looked suddenly abashed. "I, uh..."
+
+"He's just been under a lot of pressure," I supplied. "I mean, the workload's quite punishing, isn't it?"
+
+There was a brief silence. Devon was clearly dissatisfied with that response, but he seemed to think it was better not to pursue it at the moment. Jerric was avoiding everyone's gaze.
+
+Ambrose cleared his throat. "So... I guess it's Caden's turn. What'd the Demiurge say?"
+
+"Wait, I mean, do you know exactly what the Prophecy is referring to?" Jerric asked.
+
+"Not exactly... but lately I've been thinking that maybe it means that one day I'm going to... become a Fateweaver. And that five people... probably you guys... are going to be a part of that."
+
+"Become a Fateweaver?" Jerric echoed, dumbfounded.
+
+Chosen-Blinded-Jailer. Yes, that made sense. And it was the Fateweavers who had captured the augera in the first place, and quite literally jailed them. It did fit. And if that was true, that meant Ambrose had, or would soon develop, the ability to control the fates of five people, since their 'threads will lie within your hands'.
+
+"It sounds crazy, but the Demiurge spoke with me just before I was discharged from the infirmary, and... some of the stuff he said makes me think it's probably the right interpretation," Ambrose answered solemnly.
+
+More silence greeted that statement. I had no idea what Jerric and Devon were thinking about, but Ambrose had just offered me more pieces of a puzzle that was beginning to come together more clearly.
+
+I remembered how the augera had called the Prophecy the Creating-Selecting-Chain when it had made contact with me in our room. That was something else that fit; the Prophecy would create a Fateweaver by selecting one and then chaining the person. And back then, the augera wanted me to ensorcel Ambrose with binding knowledge of everything I had learned up to that point. That was probably so it could get a foot in the door, so to speak, and loosen the hold of Prophecy around Ambrose, and stop the creation of a new Fateweaver, or 'Jailer', to use its term.
+
+Or maybe alter the terms of the Prophecy, and even create a Fateweaver who was not a Jailer. That was what the Demiurge had said to Ambrose, wasn't it, about changing the referent? So the Demiurge was working with the augera, not to completely undo the Prophecy, but to have it fulfilled in such a way that would culminate in the freedom of the augera.
+
+"Back up a bit," I said, my half-eaten shepherd's pie forgotten. "A couple of days ago, you told us that the Demiurge said he was immune to prophetic links? But he just told me tonight that he wasn't free from them."
+
+"Prophetic links?" Jerric asked.
+
+"Short version, there's a glyph that encapsulates the concept of how a prophecy works by binding itself to a person," I answered, then turned back to Ambrose. "Well?"
+
+"Wait, how did we get to that point?" Devon cut in. "What's the Demiurge and prophetic links got to do with this?"
+
+I shook my head. "Sorry, there's so much to think about. I mean... okay, let's take this slowly. So, Ambrose is the Chosen One. We've all heard the Prophecy. He thinks it means he's going to be a Fateweaver, and that five people, probably the rest of us, will somehow help in that, but also end up cursing his name. Are we on the same page so far?"
+
+Nods all around the table.
+
+"Okay, so, next part I guess is from me. I came to the Academy to learn about prophecies because there's one about my younger sister that I want to break. My father's in on it too, and that's what those orbs of his are. They're supposed to protect him from the influence of my sister's prophecy. But when it couldn't affect him directly, it still continued to work through the people around him, and I ended up being used to bind him to Ambrose's Prophecy, which is probably going to be bad for him because my sister's prophecy is supposed to bring his ruin."
+
+Devon was nodding along since this was the second time he was hearing it. Jerric was clearly thinking hard. After a moment, he excused himself and returned with a notebook which he started scribbling in. He asked for details about my sister's prophecy, exactly how I ended up being used by it to bind my father, and also what had happened since then.
+
+I hesitated again since the topic was now straying into my most recent discoveries in the Spire. But I reasoned that as long as I wasn't ensorceling them or breaking their shackles, it would still be relatively safe. I looked to Ambrose, who nodded, settling my fears a little. If the Chosen One thought it was okay, then it most likely meant that doing this wouldn't cause serious harm to them.
+
+I told them everything: about my first trip to the Spire with the Demiurge, about exactly what had happened between Ambrose and me that had led to his stay in the infirmary, and finally about what I had learned in my latest visit to the Spire when the dodecahedron had spoken to me. Jerric pressed me for details, his intellect showing itself in the incisiveness of his questions, and I did my best to explain what I understood about the augera,
+
+"So in summary," Jerric said, thumbing through his notes. "The Fateweavers are probably in the middle of creating a new Fateweaver, which is what this major Prophecy is about. And how they go about this involves augera. And augera are some sort of primal arcanic force. The Fateweavers have somehow bound augera in massive crystals and installed them in Spires, which extends their reach and allows them to do what they do with prophecies. And the augera that are not captured have been... somehow subtly influencing the world, and all these influences have made it possible, by sheer chance, for someone to be completely free from prophetic links. And that person is you. And they're hoping that you will use that freedom to help the captive augera to break free from the Fateweavers' control."
+
+"Pretty comprehensive summary," I said, happy to hear it from someone else's lips. It was really much easier working through things with others.
+
+"Are you going to do it?"
+
+That question brought me up short. All three of them were looking at me.
+
+"I... I want my family to be safe."
+
+"It's looking increasingly like you're going to have to help the augera if you want that," Jerric said seriously. "So are you going to do it?"
+
+"Do you guys think I should?" It came out reflexively, more as a way to deflect Jerric's question than to really solicit their opinion.
+
+"Well, I'm not too thrilled with how it's worded and what that implies about my own future." Jerric ran a hand through his hair. "You, Dev?"
+
+Devon sighed. "Are you guys even listening to how impossible this all sounds?"
+
+"C'mon, Dev. You're gonna tell me you're okay with cursing Ambrose's name?" Jerric said, grinning a little.
+
+"Between cursing Ambrose's name and being involved in a dangerous plot to shake up the world order, I'd opt for the former, actually," Devon answered sheepishly, glancing at Ambrose. "No offence."
+
+"I think you should," Ambrose said to me after returning a wry smile to Devon. "Like I've said before, Caden, I don't want it to be fulfilled in that way. It... it sounds bad. Can you imagine what it'd take for you guys to really literally curse me?"
+
+"Not much, in Kevan's case?" Jerric offered.
+
+Ambrose shook off the joke. "I'm serious. I don't want that. I don't want my future to involve hurting five other people. And I don't see why it needs to happen that way."
+
+Jerric turned back to me. "Well, Devon didn't give a strong objection, which is about as good as an endorsement from him. I don't fancy having something that bad happen to me if I can help it. And," he adopted a lofty tone, "the Chosen One himself has spoken."
+
+Ambrose was struggling not to reach over and cuff Jerric. He settled for rolling his eyes and letting out an exasperated huff. And they all turned to me again.
+
+I felt like I was standing outside my father's residence once more. I had chosen not to break the shackles on him, so whatever ruin was in store for him was still hanging over his head. If I wanted to spare him from it without putting him at risk from outright death by the trauma of being freed from prophetic links, I'd have to find another subtler, more nuanced way to do it.
+
+Perhaps this was the answer. To work with the augera. And not alone, but with the help of people I had come to call my friends.
+
+"Yes," I said, keenly feeling the weight of this decision. It felt like my whole life had led up to this moment, this pronouncement. "I will free the augera. But I'm going to need everyone's help."

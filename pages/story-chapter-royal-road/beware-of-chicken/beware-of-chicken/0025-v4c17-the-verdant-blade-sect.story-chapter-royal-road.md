@@ -1,0 +1,253 @@
+---
+id: 3d48f379-1a41-5e55-bd2e-9c89cb20b346
+page-type-slug: story-chapter-royal-road
+title: "v4c17: The Verdant Blade Sect"
+slug: 0025-v4c17-the-verdant-blade-sect
+partOf: beware-of-chicken
+position: 25
+ownLength: 3361
+unit: words
+ownProgress: 3361
+publishedAt: 2023-06-23
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1254955/v4c17-the-verdant-blade-sect"
+royalRoadId: "1254955"
+markedReadAt: "2026-06-29T18:52:11.565Z"
+---
+
+In the morning light Tigu examined Xiulan with a critical eye. Then she nodded and delivered her verdict. “You look better today.”
+
+“I feel better,” Xiulan replied, brushing the smaller woman’s orange locks out of her eyes and cupping her cheek. Xiulan felt… good about today. “Thank you for keeping me company.”
+
+Xiulan had gotten a bit drunk last night after Bolin had left and shared with the men some of Jin’s vodka and honey mead—they surely all would have loved it. The story of the mead, a dishwashing dragon, Meiling’s antics… it was like they were all together, talking over the campfire.
+
+When she finally made it back to her room, Tigu had been waiting for her. She’d listened patiently as Xiulan regaled her with tales of her time with her soldiers with a vodka bottle still held in her hand. Stories of their lives and their songs.
+
+Xiulan had fallen asleep on top of Tigu, still giggling about Ming Po’s duck. Tigu’s bosom made for a surprisingly good pillow—and her gentle, grumbling breaths, almost like purrs, had been most effective in lulling Xiulan to sleep.
+
+Xiulan was stirred back out of her thoughts as Tigu handed her a brush and nodded happily as Xiulan set about brushing the girl’s hair. No more words needed to be said between them as they prepared to face the day.
+
+It did not take long until they went down for breakfast. Most of the others were already tucking into a fantastic breakfast spread. Well, almost everybody was ready. The Torrent Rider was running a comb through Yin’s hair, because the woman hadn’t bothered with it, while Rags was sitting back in his chair, his scraggliness under some semblance of control.
+
+“You almost look presentable,” Xiulan teased Rags, and the man rolled his eyes.
+
+“It's called ‘roguish charm’. It does wonders for how people perceive me,” he replied, sticking his nose in the air like a noble.
+
+“‘Perceive’? Oh my! Your vocabulary expands, Rags. You may still be a scholar yet!” Xianghua said, a bright smile on her face.
+
+“I know, right! I’m startin’ to sound so-fisti-cated. Not bad for a man who just learned to read last year, but I always defy the heavens!” Rags declared, smug.
+
+“I’ve been forcing him to read poems,” Loud Boy said around a mouthful of congee.
+
+“Our Brother looks like a fool, but he's a fast learner!” Tigu praised.
+
+“Damn straight—oi!”
+
+Xiulan chuckled and turned to her meal. They needed to have a good one because they had a bit of a journey ahead of them still.
+
+Though Green Grass Valley was the closest settlement that wasn’t populated by the Sect’s direct servants it was still, to a mortal, the journey of a day and a half along a well-maintained road. It was how Sun Ken was able to assault this place without the Sect responding immediately—that, and Sun Ken had, though she loathed to admit it, planned and executed his raid perfectly.
+
+He had taken out every sentry and had even ordered his men to put out any fires they started… at least at first. Their cultivators and most of the guards had been attending a meeting about how the guard rotations were to work while the Elders were at the Martial Summit.
+
+By the time they saw the smoke and got into town, the attack was already long over.
+
+Xiulan shook her head at the bitter memory, as some of her good mood fell—but she was interrupted by some approaching Qi signatures. She smiled, as she recognised them all, and her pace quickened as she hurried to the doors.
+
+When she opened them, voices rang out.
+
+“We pay our respects to the Young Mistress!”
+
+Bolin was at the head of the honour guard… but there were several other familiar faces.
+
+“Smaller Blade of Grass! Fish Eyes! Smallest Blade of Grass! Grass Head!” Tigu shouted, her eyes sparkling as she laid eyes on Xiulan’s students. An Ran, Huyi, Xi Bu, and Li all looked very good. They had grown tremendously in Xiulan’s absence. She smiled warmly at them as they tried to remain stoic and formal… until they felt Xiulan’s own Qi.
+
+“You… your cultivation, Young Mistress!” An Ran gasped.
+
+Xiulan nodded. Xiulan was still hiding her true cultivation at the moment… but all of them could tell she was once more in the Profound Realm.
+
+“There's our Young Mistress for ya,” Huyi said, smirking.
+
+“Truly, our teacher is a genius, to have recovered so swiftly.” Xi Bu’s deep voice rumbled out of his small frame.
+
+“…ah man, I feel a bit inadequate,” Li muttered, but he had a bright smile on his face. All of them looked like they wanted to crowd around her… and then Bolin coughed. All of her students stifferned, immediately returning to formality.
+
+“Honoured guests, we greet you on behalf of the Verdant Blade—Tigu! Please let us finish before you hug us!” An Ran yelped as Tigu threw away decorum.
+
+Xiulan couldn’t help but laugh.
+
+==============================
+
+“And then we defeated the imposters, Young Mistress.”
+
+Xiulan nodded solemnly at her students’ tale as they walked towards the Verdant Blade Sect. “It's good that you defeated those copycats before they could harm anyone else. I’m proud of your growth, all of you.”
+
+All of her Petals straightened up with pride.
+
+“An Ran also got herself another man,” Li said cheerily. An Ran went from proud to spluttering.
+
+“Oh? You have abandoned your pursuit of my Gou Ren? Poor taste. If you were a bit more persistent, I may have allowed you a place in my home,” Xianghua stated blandly.
+
+“Wha—Li, you bastard! The Special Inspector is… we only had tea… twice—I mean, Gou Ren is nice, but—”
+
+An Ran waved her hands around, her face completely crimson as everyone else laughed. Xiulan made a mental note to check up on this ‘Special Inspector’ and make sure he was worth her Junior Sister’s time.
+
+They continued their lighthearted teasing as they traveled. Xiulan smiled lightly and turned her attention to the road ahead.
+
+They passed between two hills, and the gate that was the entrance to the Sect’s direct lands.
+
+“Wow,” Tigu said as they crested the hill and Loud Boy let out a whistle. Even Tie Delun made appreciative noises.
+
+Beauty. That was what defined the Verdant Blade Sect. Other sects’ lands were impressive, or imposing, but none came close to the sheer picturesque beauty of what they were seeing right now.
+
+It was, like most of the Grass Sea, rolling green hills, but this grass was of a different quality. It was so soft it felt like one was laying on a down bed, and it was the perfect shade of green—a type of grass which only grew here, on these particular hills.
+
+This area had several springs. They bubbled up from within the hills, turning into small rivers, whose beds were lined with smooth, round stones. There were several carefully cultivated and shaped ponds that grew lotuses within them; the flowers filling the ponds with their delicate petals when they flowered. A few willow trees anchored its banks, drooping over the rivers and providing shade. Groves of fruiting trees broke the landscape, and the small walls on either side of the path were laden with berry vines.
+
+It was a very carefully manicured place, the Verdant Blade Sect’s land. Manicured, but still holding some hints of beautiful, wild nature. Xiulan knew that the occasional tiger prowled the grass, and birds came in to nest in their thousands, from sparrows to cranes.
+
+There were also the areas richer in Qi, where the grass rose above one’s head, and the secret, hidden valleys that grew their Spiritual Herbs… Herbs that Xiulan could now likely grow anywhere.
+
+There were a few farms and even a workshop that dyed clothes on some of the hills, but they were all built in such a way that they would be invisible to the Sect if one was standing atop the main hill. They were actually largely self-sufficient… but Xiulan had rarely been to the farms in her youth, instead mostly staying around the main compound.
+
+They eventually stopped briefly for lunch at a stone gazebo. An Ran wasn’t speaking to anybody, her face crimson, while the rest of Xiulan’s Petals had truly shit-eating grins. Tie Delun walked over to one of the pillars and inspected it carefully
+
+“…my ancestor made these,” he said after a moment. “Look here, it's their mark.”
+
+There was a note of pride in his voice at the beautiful, enduring craftsmanship. It was simple, at first glance, but the simplicity worked, so that one’s attention was more on their surroundings.
+
+“I think your ancestor did all of the stonework within my sect,” Xiulan replied. “Honoured Ancestor Ruolan would never accept anything but the finest work.”
+
+Delun smiled at the compliment, while Huyi, the only one who had been listening in, looked a bit confused.
+
+After all, their sects did little business together, and no member of the Hermetic Iron Sect had visited for thousands of years—never mind the fact that they were blacksmiths, not masons.
+
+“All will be revealed in time, I promise you,” Xiulan whispered to him, and he bowed his head slightly, accepting her reassurance.
+
+They increased their pace slightly, as the day wore on, simply so they could get to the Sect before sundown. And, after a few more hours of travel, they beheld Heartgrass Hill and the Verdant Blade Sect’s compound.
+
+It was a large traditional manor. Some had said before that it was a ‘mere nobleman's manor.’ An insult at the time, but that was what it was; Ruolan the Dancer’s manor, where she went to retreat from the world. Xiaoshi had been here many times, and been entertained in its gardens—as well as entertained.
+
+Xiualn was quite glad the man had the crystal fade those particular memories to black.
+
+It was amusing. The amphitheaters they used to practice their martial arts had been dancing stages. The ever shifting rooms that trained their awareness were once used to produce quickly changing stages—because of course Ruolan had an entire opera stage built into her home. The only things being used for their intended purposes were the meditation pools.
+
+From what she knew of the woman, Xiulan’s ancestor would have been apoplectic at how they were using her home. The woman would have kicked off her very finely made shoes and beaten them all about the head and shoulders.
+
+It was an amusing image… but Ruolan had no room to judge them.  Xiulan knew they had changed from artists to warriors. But they had to change.
+
+She would honour her ancestor… but even if she were to suddenly be reborn and right in front of them, there would be nothing she could say or do to dissuade Xiulan from her path.
+
+The Sect’s servants cheered as they walked through the main gates. The news of her repaired cultivation had obviously spread quickly.
+
+She smiled at the pomp and circumstance. She understood it completely. Their Young Mistress had gone from the Dueling Peaks greatly injured, and once more returned like nothing had happened to her.
+
+She turned her eyes to her father, the elders, and the disciples who stood with proud, stoic bearing in the main courtyard, elevated above their mortal servants. She looked at her father’s twinkling eyes, and even the approving nod of Elder Yi.
+
+They reached the correct distance. Xiulan, Bolin, and her Petals descended to one knee, as tradition dictated, clasping their fists and bowing their heads.
+
+A triumphant return with allies, and her powers restored. Xiulan supposed it was like something out of a story.
+
+The cheers resounded in her ears. The pride in her fathers eyes, she felt in her soul.
+
+This time… it was deserved.
+
+“Sect Leader of the Verdant Blade! Honoured Elders! This Cai Xiulan returns to her Sect with allies, bearing news of the utmost importance!” Xiulan declared, her voice cutting through the cheers.
+
+She looked up from her bow. She saw her father looking at her clothes. At all of them, wearing similar garments, and then he bowed his head slightly.
+
+“Then rise, Daughter of the Verdant Blade Sect. Tell us—no, show us of your accomplishments, and let us greet your allies with the respect they deserve!!”
+
+Xiulan considered her father’s words. He wanted her to show them her strength?
+
+At first, Xiulan considered being humble. Of revealing her power in private… but Xianghua had shown Xiulan the value of shock and the effect it could have on negotiations.
+
+That… and a little voice in her heart that sounded suspiciously like Jin and Meiling wondered what her elders looked like shocked.
+
+She let out a breath and her Qi.
+
+Her father’s jaw dropped. Elder Yi’s eyes bugged out.
+
+Oh, my. This is cathartic, isn't it?
+
+“Okay. Flare your Qi at people when you get home. Got it!” Xiulan heard the Torrent Rider murmur as he tried to figure out the proper etiquette for cultivators.
+
+===========
+
+Xi Kong’s Elders were in an uproar, after they escorted their guests to their quarters, and closed the doors to their private meeting room. They were shouting and squabbling, while his daughter sat serenely.
+
+He had his face locked in a neutral expression, yet inwardly he was most amused. His daughter’s prank had been a good one, after the shock had worn off.
+
+Still… the Fourth Stage of the Profound Realm.
+
+In less than a year, from the Third Stage of the Initiate’s Realm to the Fourth of the Profound, after her cultivation had been burnt out of her.
+
+It was the most legendary feat any in their Sect had performed… ever.
+
+If this was it—if this was all that she had returned home with—they would be having a grand celebration right now. His daughter would be receiving all of their most powerful treasures, and every Elder would be trying to curry favour with her.
+
+But of course, that was not all that Xiulan had brought with her. Indeed—she had brought along with her heavens shaking revelations, and a plan that had all his Elders arguing.
+
+Especially because she had returned with memories of their ancestors. It had been a bit of a shock to learn that they were descended from an opera troupe, and he was still processing that revelation… but his daughter’s plan demanded their immediate attention.
+
+“Just giving them all power?! You have taken complete leave of your senses, Disciple! You would give others the instruments of our doom!”
+
+Yi was in fine form, ranting about all the flaws in her plan, mixing in disparaging remarks about the foolishness of giving away such power. He was utterly adamant about the impossibility of simply… giving away the crystals to the other sects. He was demanding concessions… if they were to be shared at all.
+
+His thinking was orthodox. His thinking wasn’t even wrong. They were the first thoughts that had come to Xi Kong’s mind, after all—how to put their Sect at the top and suppress all others.
+
+How to make them the undisputed rulers of the Azure Hills.
+
+They had the Misty Lake Sect, and likely the Hermetic Iron Sect, as allies. They had, Xi Kong assumed, Master Jin’s favour. If his daughter had wished it, they could have ground everyone else under their heels. It was the normal way. The usual way.
+
+But his daughter and her companions were anything but usual.
+
+Upending the entire paradigm. Truly changing things. Improving the whole of the Azure Hills… and hopefully uniting them.
+
+Xi Kong had never known his daughter to be so ambitious. She had always been simply diligent… but there had been pride and desire lacking from her cultivation. She did it because it was her duty.  Now, it was clear—Cai Xiulan was cultivating and advancing for herself.
+
+Xi Kong looked at his daughter. He truly looked at her. At her silent resolve and utter conviction… and he understood.
+
+She would give the Azure Hills back its history whether they approved or not. She would enact her plan with or without their support, and go against them if need be. She would fight against her entire Sect and take it over like Xianghua had done, should it be required.
+
+She had a mission and would stop at nothing to see it through.
+
+Cai Xi Kong suddenly felt old… and ashamed. This was the passion of the Younger Generation. This was the lengths they would go.
+
+How beautiful.
+
+“I assume you have already thought through all of Elder Yi’s points, daughter,” Xi Kong interrupted, and his voice cut through the noise.
+
+“I have,” Xiulan responded calmly.
+
+“…and you are convinced to see it through to the end?”
+
+“I am.”
+
+Yi glanced back and forth between them, as though he had been expecting a rebuke. When none came from Xi Kong, Elder Yi slammed his hands onto the table. “You think her idea has merit?”
+
+“I do,” he replied. Yi’s jaw dropped. “Now, Brother Yi, let me ask you. The flaws are indeed obvious, and it is an unorthodox method. Yet what are the benefits?”
+
+His sworn brother’s jaw worked as Xi Kong turned Yi’s favourite tactic against him. Yet the man, instead of storming out, glared, and finally began thinking.
+
+Finally, the man spoke, his voice grudging.
+
+“All who join under threat that we would withhold the information would resent us. We would not, and could not, count on their support. We would have to be tyrants—and all those who did not receive a measure of this power would plot our destruction. Thus, we would either have to destroy them… or worry about a knife in our backs,” Elder Yi ground out. “Keeping control of the information is the superior option. It would give us more time to implement the knowledge here to leverage our position against the other sects… but that is not a viable option at this point.”
+
+Elder Shen grimaced. “Things are already spreading. The Misty Lake Sect knows. Two sectless and Master Rou’s own disciples… we can’t keep this a secret.”
+
+“Every sect that refused to join us would hate us. They would amass their numbers—especially the Grand Ravine Sect. They would put everything on the line to get this information if we attempted to use it to control them,” Elder Shu continued. “Three sects, at most, against the might of the rest of the Azure Hills.”
+
+There was silence once more.
+
+“This is an unprecedented event. And I believe we must give an unprecedented answer.” Xi Kong spoke, now that the shock and instant reaction from his Elders had run its course. “In removing the knowledge as a temptation, we instantly prevent an alliance forming against us—and when we give the other sects these gifts… well, hospitality ensures that they would have to respond in kind, no?”
+
+“It goes against everything cultivation stands for. Should we not aspire to be the best? Should we not aim to be the strongest?” Elder Yi asked—but now, instead of blind anger, his friend was thinking.
+
+“All our ancestors once worked together,” Xiulan said into the silence. “Were they not our betters? Did they not craft wonders that we can only dream of? They did it all without a single war between them. They did it all by working together. Father, you said this path was unorthodox… yet it is the way of the Honoured Ancestors. How can it be unorthodox? We are deferring to their wisdom. We are once more returning to their path.”
+
+Yi’s mouth opened, then closed. Arguing that they were the ones who had strayed from the Ancestors' path… Xi Kong frowned too.
+
+“…the idea has more merit than this Elder initially believed,” Elder Yi murmured.
+
+“If it mollifies you, Elder? We still have a slight head start,” Xiulan said. She left unsaid the implication that she knew everyone in the room would realize immediately—they had a head start so long as they delayed no further.
+
+“We must meditate upon this course of action tonight, Daughter,” Xi Kong said… but in his heart, he already knew the path forward.

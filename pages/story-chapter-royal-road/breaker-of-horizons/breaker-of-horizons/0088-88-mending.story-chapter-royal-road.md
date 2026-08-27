@@ -1,0 +1,119 @@
+---
+id: 1c5c6d80-625a-5e6a-8b15-9a6cd21fee0e
+page-type-slug: story-chapter-royal-road
+title: "88. Mending"
+slug: 0088-88-mending
+partOf: breaker-of-horizons
+position: 88
+ownLength: 2066
+unit: words
+publishedAt: 2021-03-04
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/641231/88-mending"
+royalRoadId: "641231"
+---
+
+Caden cracked his eyes open. The smooth expanse of black marble marked with skittering lines of minuscule golden glyphs confirmed it for him: he was in a Spire, as the augera had said. A dim sense of urgency settled on him but instead of being driven by it, he found himself regarding it dispassionately, almost as if he were holding it up for inspection.
+
+It was an odd sensation — to have one part of your mind under the influence of an emotion, and at the same time to have another part of your mind watching from an objective distance.
+
+But it revealed something quite surprising and disturbing about the sense of urgency he was feeling now. It wasn't coming from within him at all, not in the way that normal emotions did. This one was being laid over him like a blanket.
+
+It was the augera's work.
+
+That observation came with a small bloom of resentment that was truly his own, but he put it aside. The augera's concerns did overlap with his own, after all, and he did really want to stop any 'unmooring' of any of the five anchors of Prophecy.
+
+He stirred, moving slowly out of consideration for whatever his physical state might be. It was a relief to find that everything seemed to be in working order, although everything he felt seemed somehow more vivid. It was like there was just more of the world, and all the sensations were new and wonderful. Even the discomfort he now felt from lying on the cold marble floor had a certain flavour of delight to it.
+
+It took him a moment to marshall enough coordination in his limbs to push himself to a sitting position, and when he did his eyes went straight to the hunched figure that was crying. The person's outline was familiar to him. He felt a brief moment of panic when a name did not immediately present itself to his consciousness — it was like he had lost his words again — but after a pause, he managed to recall that this was Devon.
+
+"Dev?" he rasped, His voice sounded odd, even to his own ears.
+
+The sobbing figure stiffened and turned around. The look of shock on his face was quickly replaced with ecstatic relief. He half-rose and stumbled over, then grabbed Caden by his shoulders and shook him disbelievingly.
+
+"You're back! I mean, you are, right? Like, back back?"
+
+The intonation reminded Caden of an afternoon in the Academy long ago, in what felt like another life, when Devon had asked if Ambrose had learned 'thaumaturgy thaumaturgy'. Caden's face split into a grin. "Double back, really back, truly back," he answered, clapping a hand on Devon's shoulder. The grin faded as he took a good look at his friend. "Dev... what's happened?"
+
+Devon's expression crumbled again. He got up, pulled Caden to his feet, and motioned for him to follow as he quickly made his way towards the fallen body of Jerric.
+
+The pit of Caden's stomach fell away as he got a good look. Jerric's face was bruised and bloodied, and his nose looked broken.
+
+"I think it was a heavy bolt to the face. I didn't know what to do, so I ran through all the basic medical sequences I could remember to stem bleeding and patch superficial cuts, but I think the damage is a lot worse underneath, and I don't have any idea how to even start to fix those." Devon's words tumbled out of him together with more tears, interspersed with panicked sobs.
+
+It was happening again — a part of Caden's mind was feeling just as overwhelmed as Devon, flooded with grief and fear for Jerric, but another part of his mind was already stitching together an improvised plan. This was like one of his manias, but somehow even clearer.
+
+Without really realising what he was doing, Caden firmly nudged Devon out of the way so he could kneel over Jerric's head. Gently, he pressed his fingertips over Jerric's face, and even though he had never in his life read a medical text that instructed him on what to look out for, he found himself noting facts about Jerric's state as he made his assessment.
+
+The nose was indeed broken, and residual arcana confirmed that the cause was a heavy arcanic bolt. In his mind's eye, it was even possible to retrace the route of the bolt, and his attention was momentarily diverted as he followed that line of evidence in the weave of the arcana. The bolt had flowered from mid-air, right behind the series of barriers that Jerric had laid down. It had been a devious and clever trick by Lynus, who—
+
+No, there was time for that later. Caden returned his attention to Jerric's state. Devon's sequences were still active, knitting together broken skin and stemming superficial blood loss. However, beneath all that, aside from the broken nose, Jerric's skull was also fractured. Caden's heart skipped a beat, but a solution presented itself to him almost immediately. A glyphic sequence drifted across his mind, too quickly for him to register the details, but he had the sense of it. Arcana answered his thoughts (a strangely familiar and terrifying sensation) and coalesced around his hands, bathing the area in a verdant glow. Carefully, Caden traced his fingers around the major sites of injury, guided more by a vague sixth sense than his eyes. The healing energy peeled away from his hands and sank through Jerric's skin.
+
+With a faint crack, Jerric's nose snapped back into place, and it was all done. The terrible bruising that had started was gone, and the only indication that he had ever been injured at all was the dried blood still on his face. Now, he looked like he was sleeping soundly.
+
+"What did you do?" Devon breathed.
+
+Caden blinked down at his handiwork. "I mended him. He'll be alright when he wakes up in an hour or so."
+
+"How did you do that? I mean... we've never even studied this stuff."
+
+"I..." He lifted up his hands and stared at them. "I have no idea."
+
+Devon shook his head, marvelling, and drew in a breath to speak, but Caden stopped him with a raised hand. He got to his feet, reading the arcana in the room and marvelling at what he could now see.
+
+Reading wasn't quite the word for it, though. It wasn't as rigidly clear as lines of text on a page. And it wasn't something he was actually seeing with his eyes, either. It was something similar to his arcanic sense. Or perhaps it was his arcanic sense, except now it was somehow more integrated into his mind. It felt like he had been wearing thick leather gloves all his life, and he was only just now discovering the true scope and richness of the world when presented to the sense of ungloved touch.
+
+So... there it was. The arcanic bolt that had dealt all that blunt force trauma to Jerric's head. Lynus had sent it burrowing through the fabric of arcana and made it manifest from mid-air, and this particular bolt had been formed with an excess of rage. Caden slowly followed the thread until it led him to Lynus' prone form, where a silver knife was embedded in his shoulder.
+
+He cocked his head quizzically. The knife was telling him that it had been propelled by a burst of arcana from Jerric. It had been hurled in desperation, but there was also the unmistakable tang of murderous intent. In fact, there was also some residue from a heavy arcanic bolt of incredible density, which Jerric had dropped on Lynus with no small amount of vindictive pleasure.
+
+"What happened here?" Caden murmured, more to himself than anyone else. He jumped a little when Devon replied, having been so distracted by his arcanic sense that he had almost forgotten that someone was there with him.
+
+"Lynus was... he was..."
+
+Caden glanced at him, then back at the knife. More details were presenting themselves to him. Lynus had inscribed glyphs onto it, but these were not from the Basic or even Advanced Sets. They sat heavily embedded in the metal, pregnant with meaning, almost inscrutable. These were on the level of the glyphs for prophetic links that his father had uncovered. He wasn't sure of their full import, but his arcanic sense gave him the impression that they were very, very dangerous.
+
+"He was trying to kill me," Caden finished, his voice soft.
+
+Devon nodded, his lips pursed.
+
+"That means Kevan wouldn't have been far behind. Or rather, it means Kevan was first in line." Caden strove to keep his voice calm, but blood was pounding in his ears now. He scanned the chamber for Kevan and found him lying nearby, unconscious.
+
+However, the anger momentarily gave way to confusion and surprise as he caught a whiff of brokenness. Seized with curiosity, Caden hurried over to take a closer look.
+
+There was no mistaking it. Kevan's auric-ambient-flare had been devastated. What was even more surprising to Caden was that Jerric's touch was all over this damage. Somehow, he had reached into Kevan and wrought all this harm. Kevan was so thoroughly affected that it had even become a defining feature of his auric-ambient-flare — he was now the tangled-broken-power. Who would have thought that Jerric was capable of such a thing?
+
+"We should get Jerric and get out of here," Devon said, kneeling next to his roommate. "Is it safe to move him?"
+
+"Hmm? Yes," Caden answered distractedly. He looked from Kevan to Lynus, then sighed. "We can't leave these two."
+
+"We can, and we will," Devon answered. There was a sharpness to his voice that Caden had never heard before. "They should count themselves lucky that we're not finishing them off."
+
+A small frown creased Caden's brows, but he did not reply. Instead, he moved over to Lynus' prone form and knelt over him. The green, healing glow of arcana suffused Caden's hands again.
+
+"What the hell are you doing?" Devon demanded, pausing in the act of hoisting Jerric onto his back.
+
+"He's got multiple fractures and a little bit of internal bleeding," Caden said calmly. "If I don't help him, he may die."
+
+"Yeah? Well, that'd please him. He'd have died doing what he believed was his bit for the Empire."
+
+Caden's frown became more pronounced, but it was one of concern, not anger. "Dev, I don't know exactly what went down here, but please, let me do this. It... it feels wrong to just leave."
+
+It was clear that Devon was fighting with himself. After a moment, he slumped and sat back down next to Jerric and buried his head in his hands. "It's all wrong. Everything's wrong," he said thickly.
+
+Devon's breakdown gave Caden enough time to act. He quickly but carefully traced the healing energy into Lynus' injuries, trusting the efficacy of the sequence even though he had no idea where it came from, or even how it worked. After a moment, Lynus, too, looked like he was simply sleeping, and not fighting for his life.
+
+Once that was done, Caden went over to Devon and sat facing him across Jerric's supine form. He waited patiently for Devon to get it all out of his system. After a few minutes, Devon's shoulders stopped shaking, and he sniffled loudly and wiped his nose on his sleeve.
+
+"It's all wrong," he repeated with a quick, embarrassed glance at Caden, sounding utterly drained now.
+
+"Could do with some freshly-made pancakes now, huh?" Caden deadpanned, his lips twitching ever-so-slightly.
+
+That got a brief, weak chuckle from Devon. "Not from you, though."
+
+"Hey, my first few were shitty, but they got better."
+
+"Better is a relative term. Didn't mean they were good."
+
+"Alright, alright, you're the authority on that." The grin on Caden's face came naturally, and Devon mirrored it for a moment before they both fell into sombre silence again.
+
+"So," Caden began softly, then gestured vaguely to indicate the whole chamber, "about all this stuff... I think we've got a bit of time before we decide how to deal with it. How about you catch me up, and I'll share what I've learned when the augera put me back together, then we see where we can go from there?"

@@ -1,0 +1,127 @@
+---
+id: 4e13616e-399a-5f8e-9837-d4df2e1e983c
+page-type-slug: story-chapter-royal-road
+title: "123. The Question"
+slug: 0123-123-the-question
+partOf: breaker-of-horizons
+position: 123
+ownLength: 2345
+unit: words
+publishedAt: 2021-07-05
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/711121/123-the-question"
+royalRoadId: "711121"
+---
+
+The tension and sense of urgency made it difficult to keep accurate track of how much time was passing. Every time Caden glanced at his watch, the minutes seemed to either stretch into improbably long spools that allowed them to cover great distances, or suddenly rush by in a tangle of numbers that brought some dismay at how little progress they seemed to have made. Uncertain if this was due to some sort of arcanic interference messing with the watch's proper functioning, he started a count in his head to try and keep track of the seconds as they passed.
+
+One one thousand, two one thousand, three one thousand, four one thousand...
+
+The forest floor beneath them was little more than a confused blur of earthy colours brushed with white. Even as they continued to lance through the canopy, leaving a trail of detritus in their wake, Caden tried to keep the count. The trees were not perfectly spaced, but it did somehow seem like in the intervals of his count, they weren't passing by the trees at quite the same pace...
+
+He kept it up until he had counted out five whole minutes. By then, he was convinced that there was some sort of irregularity. They weren't slowing down at all, as far as he could tell, because he and Kevan were keeping their arcanic flow constant. If anything, they were going faster — Kevan sometimes managed to surge ahead a little as he occasionally squeezed out an extra puff of arcana, which Caden then had to match so they could keep apace. And yet despite their speed, they simply weren't always covering as much ground. There was a strange warping as if the world was sometimes stretching itself out ever-so-slightly so they had to go further, before relaxing again so that the distances between two points became a little shorter once more.
+
+'Something is very wrong with this forest,' Caden sent to Kevan, bundling his observations in a complex knot of concepts so that he could quickly bring Kevan up to speed about what he had been paying attention to.
+
+Kevan did not slow, but he did acknowledge Caden's observations. 'I felt something was off. I think you've nailed it. Somehow, in this forest, the world isn't staying still.'
+
+'But this feels familiar,' Caden replied. 'I think I've encountered something like this before in the Academy. Did you know there were—'
+
+'—empty buildings in the Academy, hidden from perception?' Kevan asked. 'Yes. Ly and I found them shortly after the Academy Spire augera got in touch with us.'
+
+'Right, and back then, the Spire was being used to amplify some sort of powerful sequence that modifies people's perceptions of the space. You could walk right by a building and totally not notice it, and even be oblivious to how much longer it took you to get from one place to the next.'
+
+'This forest is in the coverage of two Spires,' Kevan pointed out. 'You think the Empire's hiding something here, in this forest?'
+
+Caden thought back to the brief exchange with the augeric shell when it had warned him about being near a wellspring. That did seem like something worth hiding. And yet, it also didn't seem like something that Spires could actually accomplish. The augeric shell had made it clear that Spires, however potent as channels of arcana, paled in comparison to the kind of potency that a wellspring held.
+
+'I don't know... but I somehow don't think the Spires are responsible for this,' Caden replied uneasily. 'Just be alert.'
+
+Caden caught a twinge of disquiet from Kevan as he contemplated what might possibly be powerful enough to generate such an effect that had hitherto only been observed by Spires, but that small puff of emotion was quickly replaced by firm resolve.
+
+By Caden's reckoning, after almost an hour, Kevan came to a sudden halt. It was so unexpected that Caden was forced to swerve upwards to avoid colliding with Kevan, and he found himself shooting out of the canopy and into open sky. The sun had already passed its zenith and was beginning its slow crawl towards the horizon. With a thrill of horror, Caden realised that the forest seemed to stretch on, and on, and on, all around them in every direction, before climbing up the sides of mountains that ringfenced them in. There was no sign of civilisation at all — not even a lonely road. He hovered there above the treetops, gaping in shock at the scenery. He didn't have the maps memorised, but he would have bet anything that this basin that they appeared to be in was definitely not supposed to be there. Fighting the panic that was rising in his chest, Caden dove back into the forest to look for Kevan, who had landed and was now looking all around, his eyes wide.
+
+"Sorry," Kevan said, turning slowly on the spot as he took in their surroundings. "It's just... I'm quite sure we've been here before."
+
+"What? But we've literally been flying straight!"
+
+"It took me awhile to realise, but I started paying a bit more attention. I don't know how long it's been going on, but I started counting out the time like you did, and I'm pretty sure that for the last five minutes we've been flying past the same stretch of forest."
+
+Caden swallowed the lump that had formed in his throat. "We're... we're not on the map."
+
+It was Kevan's turn to look at him in shock. "What do you mean?"
+
+"The forest. We're surrounded by mountains, but that shouldn't be possible. We left the Crystalline Peaks behind in Geldor, and anyway, the Peaks aren't like the mountain ridges that are surrounding us now. In fact, we don't have anything like that in the Empire at all. My geography isn't the best, but I'm pretty sure of that at least."
+
+Without a word, Kevan launched himself skywards. A minute later, he came back down looking flustered.
+
+"You're right," he said, cracking his knuckles over and over again as he started pacing. "Ly and I know the general geography of the Empire pretty well. This place doesn't exist. I think we should stay here and wait for him to catch up, then figure out how to retrace our steps and get out of this loop."
+
+"We don't know how this whole thing works. What if Ly's in a different segment of this forest, caught in a loop like we are?"
+
+"DAMNIT!" Kevan smashed his fist into a tree in frustration, leaving a small dent of crushed bark behind.
+
+"We can get out of this. Give me some time," Caden said, striving to keep his voice calm, though it was more to reassure himself than Kevan.
+
+Kevan nodded curtly and resumed his manic pacing.
+
+Caden drew in a deep breath and dipped into the arcanic sea, leaving a tenuous link to his physical body in case they had to make a quick retreat. His first instinct was to speak with the augeric shell, but it was immediately clear that they would be of no help — it was completely inert and so expertly woven into his auric-ambient-flare that it would have been impossible for him to even spot it if he hadn't already known what to look for. Trying to make contact with them right now was like trying to talk to his own skin.
+
+Since he had to figure this out by himself, Caden turned his attention to the arcanic sea itself to try and see if there was anything that could begin to explain what was happening.
+
+The surface was criss-crossed with perturbations that told him they were still in an overlapping zone of coverage between two Spires, but that only confused him further. Were they really still in the Empire after all? But if so, did that mean that the Spires were capable of hiding a whole forest basin and the mountains? And if so, to what purpose? Caden set these questions aside for now and dived further into the arcanic sea.
+
+He had no idea what he was looking for and half-expected to find some nebulous entities of greater magnitude than the augera, but what he did not expect to find was a great echoing emptiness. It was so completely still and quiet here that he had to check that he was actually in the arcanic sea and not simply closing his eyes and imagining things. The depths of the arcana were utterly silent. Even the perturbations of the Spire on the surface frittered out into nothingness, leaving only a tranquil wholeness in the arcana — an undisturbed expanse.
+
+It was like staring up at the night sky in the middle of the wilderness, far from all human activity.
+
+The sense of peace was so intoxicating that Caden felt his physical body relax involuntarily, and he slowly sank to the floor. Kevan rushed over and tried to shake him, and although Caden wanted to rouse himself and reassure Kevan that all was well, he found himself simply watching the events on the physical plane unfold while he drifted languidly in the arcanic sea, totally enveloped in impenetrable calm.
+
+The physical world was slipping away as he sank deeper and deeper into the arcana. The light of the surface faded by degrees until he could no longer sense even the perturbations of the Spires. And then, bit by bit, all sensation of the arcanic sea that his auric-ambient-flare floated in also vanished.
+
+He knew he was in oblivion. The transition had been seamless and came with none of the attendant metaphysical anguish that had been present at all his previous forays into this unfathomable dimension. He savoured the moment and allowed himself to simply exist in oblivion, totally disconnected from the concept of space itself.
+
+'unchosen-sighted-{~?~}...'
+
+It was a mind unlike any other, and he immediately understood that this was a wellspring. If he hadn't been in a state of utter relaxation and surrender, the sudden and unexpected communication would have sent him into a state of blind terror. As it was, his mind simply twitched uncomfortably, trying to locate the source when there wasn't actually anything to turn to.
+
+He didn't struggle for long. After a brief moment when he experienced a type of vertigo in his whole auric-ambient-flare, he found himself in the depths of the arcanic sea again, and this time there was something else there with him — a little mote, drifting in the dark, its radiance muted so that it didn't ignite the whole arcanic sea. Even then, the subdued light was enough to bathe Caden's auric-ambient-flare in its glow. He felt like he had sunk into a warm bath.
+
+It didn't speak again, so Caden simply waited, almost totally lost in bliss.
+
+Time passed.
+
+'Rare,' the warm voice said quietly, and yet its words ran through the very threads of Caden's auric-ambient-flare. At the moment they simply hummed through his being in harmony, effortlessly conveying meaning. But he knew that if it shifted its pitch just a shade, it had the power to utterly unravel him.
+
+'Rare,' it repeated, 'even as we reckon such things. Favoured by the echoes of the echoes, yet not bound to the symphony.'
+
+The echoes of the echoes — it was referring to the wild augera. The augeric shell had just explained that to him.
+
+'Yes. I will use some of the words and patterns you are familiar with. Why are you here?'
+
+'I... I'm looking for a friend. Emilia.'
+
+'The second tier of the Six-Chained-Foundations. Why do you dance with the symphony?'
+
+'The symphony...? Do you mean the Prophecy?'
+
+'Yes. What draws you to it? There are no steps for you.'
+
+'She's my friend. They all are. I want to free them from the symphony. And the augera, too.'
+
+Silence again, stretching into eternity.
+
+'Why?'
+
+It was only a word, but it sent Caden spiraling into a universe of branching thoughts because the mind that had asked it had to communicate the context of that simple question.
+
+It was one word, but in reality, it was asking for a disclosure of Caden's entire self. Even though it was already helping to bridge the gap in comprehension, Caden struggled to fully interpret the totality of the question.
+
+Do you know what the symphony is? Do you know how it binds and is bound in turn? Why help your friends in this way? Are there no other ways to ease their existence besides this course of action? Do you understand the full implications of undertaking this task? Are you certain you wish to inflict your brand of freedom upon them? Why do you believe your state of existence is preferable? Are you certain you are not, in your own hubris, dictating what steps they ought to take by wrenching them out of the symphony?
+
+What do you feel for the augera? What has convinced you to trust them? What is the basis of this burgeoning kinship you feel? Are you certain this is a stirring of your own auric-ambient-flare, and not a deviation that they have introduced? Would it change your resolve if you learned it was manipulation on their part? What value do you see in their existence? Why do you ascribe a sense of virtue to their emancipation?
+
+What drives you to challenge the symphony instead of submitting to it, like all the denizens of the Empire through history? What forms the basis of your moral certainty in this undertaking? What moral calculus have you performed to reach this claimed conclusion?
+
+Why does any of it even matter?
+
+Caden quailed. Now, at last, he felt terror bubble up within him as he realised that the weight of scrutiny that was forcing him to assess the sum total of his own being was not even the result of the wellspring-ocean-core turning its full regard upon him. This was simply a passing glance of curiosity — a moment of amused fascination in the ineffable span of its eternal mind.

@@ -1,0 +1,165 @@
+---
+id: 47673069-690e-541e-89b0-dc7779de2fde
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 27 - Return Surprise"
+slug: 0031-b3-chapter-27-return-surprise
+partOf: bookbound-bunny
+position: 31
+ownLength: 2014
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3250759/b3-chapter-27-return-surprise"
+royalRoadId: "3250759"
+---
+
+It didn't take long for the group to defeat the group of forest trolls, especially since both Lotte and Thomas could counter their regeneration. As already demonstrated, Lily's glyph could outright overwhelm their regenerative ability, but only after dedicating a significant portion of its firepower to a single target. Yet if Lotte or Thomas struck first with acid or lightning, Lily could easily finish them off.
+
+Once the monsters were defeated and the group basked in their victory, they began exploring the trolls' territory, since they must have had a lair nearby. It took a bit of effort, but eventually they found a large underground hollow hidden beneath the roots of a massive tree.
+
+Inside, they found several patches of mushrooms, which none of them could directly identify, so Lotte cautiously picked them and placed them in a sealed container after throwing out some more mundane plants. It felt like a bit of a waste, but considering this location, they just had to assume these were rarer and worth more.
+
+Right as they were about to leave, after all of them combed the underground grotto with their Magesight, they found the last bit of treasure. It was a small, rusty shield, with only the faintest hint of magic. Whatever enchantment it previously held must have faded with time, but treasure was treasure, so Thomas carried it back with him.
+
+"Now that you've got a dagger and shield, you can go join the knights!" Lotte said teasingly.
+
+Thomas rolled his eyes. "Very funny…"
+
+"Well, I thought it was. Don't you agree, Lily?" Lotte suddenly asked.
+
+"We'd better hurry back, or we might miss the others," Lily replied, attempting to remain neutral.
+
+The two looked up at the sky, and, seeing the dungeons' artificial sun already beginning to go down, they realized how late it had gotten. They'd spent a lot more time exploring the troll's lair than they had anticipated, and all they had to show for it was a small rusty shield.
+
+[If it's not too far gone, we can potentially repair the enchantment. We've already done so with my grimoire and your storage pouch, after all.]
+
+Lily brightened up upon hearing that. She'd overlooked that possibility as it was just her effectively tracing something Arakil had designed. Not to mention all the excitement and drama that had happened recently had basically grabbed all her attention.
+
+The group began their trek back to the central camp following the guidance of the magical compass that Alice had given them. As they approached their destination, they noticed the forest grew far more peaceful, either because the other students were clearing it out or because Alice had grown bored.
+
+When they finally reached the camp, they noticed they weren't the first to arrive, as a group was casually chatting with Alice, who was lazily lying back in a comfy-looking chair she'd gotten from who knows where. Lily had assumed that if another group arrived here first, it would be the Zephyrix team, but surprisingly, it wasn't.
+
+"Finally, I was beginning to worry you got lost!" Alice joked and waved at their group as they approached.
+
+The other group looked in the direction Alice was waving and appeared to be sizing up their group.
+
+"I don't think you six have officially met, so I'll handle the introductions," Alice said, pointing as she spoke. "Lily, Lotte, Thomas, Garet, Frederick, and Clarissa."
+
+Since the others hadn't been shy about examining her team, Lily didn't hold back. She not only looked each one up and down but also used her Magesight to give them a proper sizing-up.
+
+Garet was a human by the looks of things, with unkempt red hair that was spiky in all the wrong places and striking auburn eyes. He was well tanned and looked relatively large and muscular, which was odd considering they were all at a school to become mages. Still, Lily theorized he might be here for the adventurer accreditation, especially since he was carrying a big sword.
+
+If Lily thought Garet looked a bit out of place, then Frederick took the cake as he looked more like a butler than a student, and he appeared to be notably older than anyone in either group. He had straight black hair in a loose ponytail, with bangs partially covering the right side of his face. She assumed he was also human, but it was hard to tell, especially with his red eyes peaking from behind his hair.
+
+Finally, there was Clarissa, who looked like she had fallen out of a fairytale. She had long, flowing, golden hair, styled with soft waves and a graceful side-sweep, which went astonishingly well with her sparkling lapis blue eyes.
+
+Her posture was poised and graceful, and Lily swore if she wasn't outright a princess, she was at least a noblewoman of some kind. Also, judging by the slender and tapered ears gracefully rising from her hair and the equally well-groomed tail, Lily knew she was a demi. And if her guess was right, she was probably an Equinia.
+
+Although she's about half Hana's size. Did she get a bloodline that weakened her body?
+
+Probably the most curious thing about the girl was that she had a large staff sitting across her waist. Usually, that wouldn't be too far-fetched for a spellcaster, but this staff looked more like an old gnarled branch covered in twisted roots and entirely unadorned—clashing violently against the princess image Lily had imagined for the girl.
+
+"Ha! I knew your group would make it to the end!" Garet boisterously shouted, a friendly and toothy smile erupting on his face.
+
+"Considering they took first and second in the mock test, it would be shameful if they didn't," Clarissa said, her tone somewhat haughty.
+
+"My lady is quite right," Frederick replied, placing his hand over his heart.
+
+So she is a noble! What are the chances that they both ended up in Terravix? I thought Headmaster Fabrelis said that nobody could cheat the selection…
+
+"I mean, didn't that dragon girl say that her sister would get first place no matter what?" Garet said, pointing at Lily.
+
+"Rose…" Lily grumbled, wondering what the heck she had been saying about her to others.
+
+"Wow, Alice wasn't kidding about the others doing some digging on the competition," Lotte whispered.
+
+"I can't imagine Arthur doing any digging," Thomas whispered back.
+
+"Or Hana…" Lily added.
+
+"Hey, stop standing there whispering and come sit down," Alice said, gesturing for them to come closer.
+
+The three reluctantly nodded and joined the group. Garet seemed to want to talk to them, while Clarissa and, by extension, Frederick seemed to want nothing to do with them.
+
+"Also, you forgot about Wallace. Again," Alice said as if answering their whispers.
+
+"Who's Wallace?" Garet asked.
+
+"That was the earth mage on the Zephyrix team," Frederick answered.
+
+"Oh. I guess having an earth mage out here would be really beneficial. I wonder if he built a house for them?" Garet pondered out loud.
+
+"More like an underground bunker," Alice answered. "At least at first…"
+
+"Damn, why didn't we think of that!" Garet exclaimed.
+
+"We don't even have a dedicated earth mage on our team…" Clarissa sighed, apparently somewhat tired of dealing with this boisterous companion.
+
+"And do you really expect my lady to sleep underground in the dirt?" Frederick scoffed.
+
+Garet seemed confused by that response. "Why not? I'm sure there's plenty of plants in the ground."
+
+"Enough!" Frederick shouted, bringing the back and forth to a close.
+
+Seeing this, Lily and her group couldn't help but look at each other awkwardly. With characters like this in their class, how had they not noticed them sooner?
+
+"I can't wait to get back to my bed…" Lotte suddenly commented, trying to break the awkward atmosphere.
+
+"What, is your luxury camp not good enough for you anymore?" Alice asked with a wry smile.
+
+"Luxury?" Garet questioned and scrutinized the three of them. "I was wondering why you three look so clean compared to the rest of us. Did you bring down a bath in your storage bags?"
+
+"Of course not," Lotte said with a snort.
+
+"They didn't bring a bath, but they certainly made one," Alice revealed.
+
+"Made… One…?" Garet replied, looking genuinely confused.
+
+"I drew some glyphs to make our camp more hospitable," Lily answered.
+
+"Squiggles can do that?" Garet asked again, now looking dumbfounded.
+
+"Just because a dumb oaf like you can't understand them does not mean they are squiggles," Frederick scolded.
+
+"Indeed," Clarissa said in agreement and appeared to be looking directly at Lily now. "Enchanting is a profession lauded by the aristocracy. I now see why Rose holds you in such high regard."
+
+Lily frowned. "Rose cared about me long before I could even draw a glyph."
+
+Frederick opened his mouth to say something in response, but was silenced by Clarissa, promptly raising her hand. "I apologize if I've accidentally offended you. I didn't mean to imply that she only keeps you around for your abilities. I merely meant that she seems to demand that others live up to your standard. You've set the bar, as it were."
+
+"I've set the bar?" Lily asked, genuinely not understanding where she was coming from.
+
+Unfortunately, despite asking, it looked like Clarissa wasn't going to answer her question, and an awkward silence filled the camp. Thomas, Lotte, and even Garet shifted awkwardly, glancing at Clarissa as if expecting her to finally answer.
+
+"Noble adoption," Alice answered, slicing through the stillness. "Rose was extremely adamant against joining a noble family and even declared that they weren't anything special."
+
+Clarissa and Frederick frowned slightly but didn't interrupt Alice, who seemed like she still had more to reveal.
+
+"As expected of a dragon! You can't beat their pride!" Garet cheered.
+
+Alice nodded. "That's where it should have stopped, but they kept pestering her. They said her demand that they be stronger than her was unreasonable, which maybe was a bit true…" Alice chuckled and shook her head. "That's when she confidently declared that if her little sister could do it, then others should too!"
+
+Alice was now looking at Lily, and the others also followed her gaze. Lily shifted uncomfortably.
+
+Darn it, Rose… You stupid, hot-headed, lizard-brained! I've already got enough trouble without you stirring the pot!
+
+"So since nobody can beat the dragon, they need to defeat the bunny," Garet said, nodding along as if he suddenly understood the whole picture.
+
+Lily was distraught, and that was when she heard a mischievous giggle coming from Lotte.
+
+"Maybe you should make your own declaration," Lotte said, a smirk forming at the corners of her mouth. "They have to get through me to get to you."
+
+Alice burst out laughing. "Now that is a good idea!"
+
+Thomas and even Garet joined in on the chuckle, but there was a notably sour look on the face of the princess and her butler. Lily couldn't help but wonder if they were one of the families that tried to recruit Rose.
+
+Smiling at her friend sitting next to her, Lily was feeling a lot better. She wasn't sure if she'd actually go that far, but it was definitely a threat with a lot of backing. After all, nobody who knew Lotte wanted to go against her, and even Rose herself had been hesitant when she discovered how dangerous her venom could be.
+
+As the laughter began to fade, the group noticed something rather loud approaching. Together with the calm attitude of Alice, it could only have been the final group remaining. Sure enough, the Zephyrix team arrived loudly at the camp.
+
+"Damn, are we really the last to arrive?" Arthur asked.
+
+Lily looked at the three of them and nearly gasped. Arthur, Hana, and presumably Wallace all looked like they'd been through hell and back, practically covered in grime and dirt. Even Hana's normally luxurious hair was looking quite a state, with some twigs nestled in.
+
+"I see you're fashionably late," Clarrisa said, looking at Hana with a smirk.
+
+Hana's eyes narrowed as she stared down at her. "Viremont…"

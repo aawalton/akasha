@@ -1,0 +1,153 @@
+---
+id: ecbdf250-05a6-5241-83b1-281d3f1e42fd
+page-type-slug: story-chapter-royal-road
+title: "22. Ineffable Forces"
+slug: 0022-22-ineffable-forces
+partOf: breaker-of-horizons
+position: 22
+ownLength: 2462
+unit: words
+publishedAt: 2020-07-16
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/525181/22-ineffable-forces"
+royalRoadId: "525181"
+---
+
+I blew past duelling chambers and study areas without being observed by a single soul. The places were either curiously empty even though it was a weekend, or else the occupants were too distracted by their own studies or practice sessions to notice me hurtling past, suspended in the air by an invisible force. Even at the entrance to the compound, the receptionist's desk was unmanned. I caught a brief glimpse of a cup of coffee with steam still gently rising, which hinted that the man was simply away on a short break.
+
+What a coincidence. But of course, it wasn't a mere coincidence — it was the probability-twisting influence of a major Prophecy, clinging to me in sickening waves. I was well and truly in its grip now, inescapably twined into Ambrose's life whether I wanted it or not. That thought brought a panicked lump to my throat, wrenching me out of the momentary calm. And just as quickly, the panic was quelled. I could feel the friend-in-the-arcana deftly draining the anxiety out of me and sending it frittering into the air in harmless eddies.
+
+The doors parted at the last moment and silently slid shut behind me as I rose rapidly into the air, high above the compound. I had no idea where I was going, or rather, where I was being taken to. It felt like I had absolutely no control over what was happening. And while that might have terrified me just a few minutes ago, I found it difficult to muster up any sense of fear. All negative emotions were draining away.
+
+In fact, everything was draining away. It was getting harder and harder to focus on anything. There was only the purity of arcana, driving me into euphoric bliss as I rose higher and higher, feeling the sunlight warm my skin.
+
+I hung above the collection of domes in broad daylight. Below, the people in the Academy went about their business, their heads little more than blobs of hair in varying colours. There wasn't a single upturned face that had noticed the floating figure in the sky.
+
+And then there was.
+
+A lone oval of pink was pointed right at me, almost across the length of the entire campus, stepping out of one of the small residences occupied by the teaching faculty. At this distance, it was impossible to pick out any defining details of the face, but I felt certain that it had turned to track me as I drifted in the air.
+
+Somehow, I was suddenly struck with the terror of discovery, feeling very much as if I had been caught in the middle of an indecent act. The euphoria faded. I sensed a kind of reluctance as it retreated, as the friend-in-the-arcana loosened its hold over me. Now that I was a little more cognizant of what was happening around me, I knew with that feeling of rightness that the person down there was someone I needed to see.
+
+And yet the rightness was no longer... right. I had no words for that realisation, but I could tell that the friend-in-the-arcana was trying to pull me higher, away from it.
+
+The moment stretched — the arcana continued to buoy me up, obeying my subconscious desire to escape everything. And at the same time, the feeling of rightness grew, morphing into an urgent impulse to meet that person, pushing away the last traces of euphoria.
+
+My uneasiness about this rightness crystalized. It was an outside influence. It was like the impulse to confide that had driven me to share my private goal with Ambrose.
+
+It was the Prophecy's influence.
+
+I had a palpable sense of the weight of Prophecy bearing down of me like I was just flotsam adrift in the ocean watching a ship's inevitable approach, helpless and unable to get out of the way before being dashed against its unyielding hull.
+
+No, I thought, grinding my teeth. You will not have me.
+
+A bone-deep humming filled the air, which became charged. The euphoria was gone, but in its place burned a fury I had never known before. I was aflame with righteous indignation. I will not be a puppet to a Prophecy.
+
+There was an unbearable tension that pulled at my whole being, a tightness that made it difficult to breathe, or see, or even think. The ambient arcana itself seemed to be splintering as two forces warred in and around me. Faint crackles of energy played across my skin and coursed through me, sometimes arcing off into the air before fizzling out.
+
+Even through the haze of confusion and mental anguish, I realised that this was a very significant moment. I had no idea how I was doing it, but I was somehow pushing back against the Prophecy's influence over me.
+
+All at once, I felt the ambient arcana slacken and I knew it in my bones. The friend-in-the-arcana had lost. It didn't dissipate but instead yielded itself to the urgings of Prophecy.
+
+Without really thinking about it, I ended up leaning forward and rocketing through the intervening space with alarming speed. The wind snatched at me, pulling painfully at my hair and stretching my skin, drawing my clothes out in thundering billows, but the agony lasted only for a second before a warm, soothing sensation enveloped me, keeping the frigid air at bay. My hair and clothes barely stirred now even as I rapidly closed in on the figure.
+
+The vague, nondescript shape resolved into a familiar man with five orbs drifting vaguely around him.
+
+An instant before I would have turned into a bloody smear on the ground, I came to a complete stop right in front of my father, Everett Dundale. The last vestiges of the friend-in-the-arcana faded away as I gently landed.
+
+"Caden." His eyes were wide open. And yet, somehow, he didn't seem completely surprised.
+
+I couldn't speak. The absence of the friend-in-the-arcana had left me completely defenceless against my own emotions. There was no euphoria or righteous anger to shield me anymore.
+
+"Come inside," my father said, reading the abject panic in my face. He placed a reassuring arm over my shoulders and guided me into the residence.
+
+Most of the staff residences were cookie-cutter two-story houses. The first floor had a kitchen, a sitting room, a modest study area, and a common toilet. Upstairs was a single bedroom with en suite facilities, and a deck large enough for a reading table and two chairs. The only residences that deviated from this pattern were given to the Demiurge and the heads of the respective disciplines.
+
+Despite their uniform nature, my father's residence was unmistakably his. The original shape of the house had long since vanished beneath a wild assortment of artefacts that protruded from almost every inch of its facade, either welded to the frame or else suspended in place by some arcanic manipulation, each having some esoteric function, or else serving as the field-test in some latest experiment.
+
+The interior was just as marked with his handiwork. The shelves in the study were crammed full of books, but there wasn't enough room and they crept along the room's corners and into other nooks and crannies. The workspace was cluttered with artefacts in various states of construction (or de-construction). This chaos spilt out into the sitting room, claiming every bare surface. Here, without my mother to object or enforce boundaries and impose cleanliness, his work had free reign over the living space.
+
+He guided me over to a chair that had several books piled in it. With a quick, business-like gesture, he sent the books hurtling into a bookshelf where they slotted themselves perfectly into empty spaces.
+
+"Why's everything so messy if you can do that?" I managed to ask with a weak chuckle.
+
+"You know me, I make things. I don't always use them. Then they end up gathering dust," he said with a wry smile. "I'll show you the glyphs on the bookshelf after we talk."
+
+My face fell. I wasn't ready to talk. There was still a lot more thinking that had to be done.
+
+"Sit." His voice was gentle but firm. It brooked no argument. I sank into the chair and watched as he slowly shuffled off into the kitchen. Everett Dundale had never been a fidgety man, but it seemed that he was moving more ponderously than usual. It was as if a huge invisible weight had settled on his shoulders.
+
+The homey sounds of a hot beverage being poured soothed me a little. A moment later, he returned bearing a tray with two steaming cups. The rich aroma of hot chocolate filled the little room as he carefully set the tray down on the table after elbowing some artefacts aside to make space for it. He cleared the remaining chair of books, sending them flying into the shelves, then lowered himself into it with a grateful sigh. The orbs around him shifted unobtrusively and kept out of his way.
+
+"Drink." He reached over and handed me a cup.
+
+I accepted the cup and sipped, staring at the orbs that were now slowly drifting around him like corks bobbing along in the water.
+
+"Trade you a question for a question," he smiled.
+
+The knot of tension in my stomach loosened a little. Whatever else had happened, however crazy things were at the moment, this was a safe space. This was familiar territory.
+
+I took in a deep, shuddering breath. "Me first, then. What're those orbs?"
+
+He nodded to acknowledge the question as he sipped his drink. "What do you think they are?"
+
+"That's not fair," I protested.
+
+"Maybe," he conceded. "But I want to know what you think."
+
+"Artefacts," was my disingenuous response. I wasn't in the mood for one of his sessions of leading questions.
+
+In lieu of a response, he gestured over his shoulder and one of the orbs drifted over to me, close enough to touch. What I had mistaken for perfectly polished silver was, in fact, more complex than that. The silver seemed to be little more than a skin. Barely visible, just beneath the surface, was a fine lattice of glyphs. I knew enough by now to understand that these orbs must have been fiendishly difficult to create.
+
+I couldn't read the glyphs. Not only were they minuscule, but I couldn't even understand or recognise the ones that I could make out.
+
+"They're beyond what I can understand," I said grudgingly, unable to resist making a comment. I did want him to tell me more. "But if I had to guess, I'd say they're protective in some way."
+
+"Yes, protective." With a flourish of arcana, he projected a segment of the glyph sequence into the space between us. "This phrase refers to prophetic links."
+
+Prophetic links. Those words rang with rightness. They fit perfectly. There was a weight of meaning behind that term.
+
+"Fates," I breathed. Did this mean...
+
+"In short, the orbs are supposed to protect me from the influence of prophecies."
+
+With shaking hands, I placed my cup back on the tray.
+
+"My turn," my father began. "Tell m—"
+
+"No, no, you can't just drop that on me and move on like this," I said, my voice trembling. "What do you mean they protect you from the influence of prophecies? Why did you... when did you..." There were too many questions, all of them fighting for attention.
+
+"One thing at a time, Caden. You need to slow down. A question for a question." The gentle baritone of his voice was reassuring, authoritative, calm. I clenched my fists and forced myself to breathe slowly through my nose.
+
+"Tell me how you flew," he asked, once I had reined myself in a little.
+
+How would I even start to explain that? I looked up at him helplessly, my brow furrowed. He returned my gaze patiently and nodded encouragingly. It was an exchange we had made thousands of times before — I, the frenetic one, he, the silent anchor.
+
+"Take your time, Caden. All the time in the world."
+
+But that wasn't true. I had thrown a net of panic over Ambrose and Jerric, charged with the impulse to run as far as they could from me. Were they alright? What if they needed me to undo it? And even if Devon and the twins had managed to help them, they would be looking for me now. And I had flown across the length of the Academy. What if someone had seen?
+
+"All the time in the world," my father repeated, leaning forward and gently gripping my shoulder.
+
+I nodded and took a minute to steady myself by just focusing on taking deep, calming breaths. Once I had settled myself, I realised that there was a lot of messy background context that didn't have to be mentioned. I could just focus on the mechanics of how I had flown. Trying to talk about it helped me to make sense of exactly what I had accomplished.
+
+"I flew by... frame-shifting." My father looked quizzical but gestured for me to continue.
+
+"I thought... I imagined..." None of those words seemed right. It hadn't been such a simple, casual thing. "I felt convinced that I could speak to the arcana, and it would be able to help me. And then I guess it worked. I just wanted to get away from somewhere... and the arcana listened, and made me fly."
+
+My father leaned back, his brow furrowed. It was exactly the expression I had on my face when I was engaged in furious thought. After a moment, he seemed to have reached a satisfactory resolution in his head. "Your turn," he said.
+
+"Why did you make those orbs?"
+
+"For your sister," he said heavily. "That's been the focus of my research ever since she was born. These prototypes are the result of ten years worth of hard work. But the Academy thinks they're dampeners of ambient arcana that prevent overdraw or fatal surges in case of accidents with artefacts."
+
+It was getting worse. Every answer he gave was giving me more questions. The situation was spira—
+
+"My turn," he said with a knowing look as he interrupted my train of thought. "What were you getting away from?"
+
+I gaped at him. The whole chain of events was unspooling itself, going from our attempts to learn how to overcome Reeves' infusion all the way back to my first meeting with Ambrose. Where would I start?
+
+"I was running from the Chosen One," I blurted out.
+
+This time, my father's reaction was not so measured. He choked on the hot chocolate.
+
+"Okay, I know this isn't fair," he said, once he had stopped coughing. "But you need to tell me everything."

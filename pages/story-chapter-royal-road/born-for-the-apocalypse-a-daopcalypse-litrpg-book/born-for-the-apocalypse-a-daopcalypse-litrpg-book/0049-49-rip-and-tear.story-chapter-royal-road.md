@@ -1,0 +1,121 @@
+---
+id: 6cd841a5-9d75-563d-9b21-5de0c0819996
+page-type-slug: story-chapter-royal-road
+title: "49: Rip and Tear"
+slug: 0049-49-rip-and-tear
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 49
+ownLength: 1993
+unit: words
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2027812/49-rip-and-tear"
+royalRoadId: "2027812"
+---
+
+49:
+
+Jack’s arm meridians were thrumming with Qi as he charged towards the lupine creature with vengeance written all over his expression. To attempt what he was attempting was madness, yet that was precisely why it had a chance at working.
+
+Jin had used the reprieve Marcus’ sacrificial charge had brought her to retreat from the battlefield, though Jack supposed that describing it as a mad, flailing sprint away from the lupine creature would be a more accurate description.
+
+She wasn’t going in the direction the lupine creature had tossed her spear and Jack couldn’t blame her for it. The ambush she and Marcus had planned was their only real chance at killing the lupine creature and Jack had to admit that they had come surprisingly close. Even now, Jin’s actions seemed to be the correct one, given that she wasn’t giving the clever lupine creature no reason to chase after her.
+
+An unarmed Jin wasn’t a threat to the lupine creature, after all.
+
+And that left only one threat standing.
+
+The lupine creature’s orange eyes that bordered on incandescence locked onto his form, as it rolled its shoulders in a remarkably human-like fashion before bringing its clawed forelimbs before its skinny chest. The creature clearly wasn’t afraid of an unarmed Jack, its gaze radiating a feral intensity that should’ve sent the unarmed Jack fleeing for his life.
+
+It’s not meeting my charge, even though it has me beat in the speed department. It’s confident that without my weapon, there’s little I can do to it, yet even now, it chooses to strategically position its claws before its ribcage, Jack thought, noting that his wisdom stat was assisting him in arranging information into conclusions faster than he normally would. And in this particular case, it was punching above its weight, as knowing the ribcage was the beast’s weak point gave him a target.
+
+And Jack very well knew what lay behind its ribcage. The massive beast core that housed its vast reserves was concealed behind it, but its existence was a meta-physical one. Jack theorized that while plunging a blade through the lupine creature’s chest might spill blood, it wasn’t likely to kill it without giving it ample time to retaliate, but if he used a Qi empowered attack, he could crack or even rupture the beast core itself.
+
+Less than half the original distance separated them, but Jack didn’t waver. Instead of slowing down, he sped up, blurring forward in a charge that he would never forget.
+
+He had made a promise to himself, he had sworn that he would make Andrew, Trent and now, possibly Marcus’s death mean something. He had promised to use the anger, the rage, the fury he felt at the unfairness of it all, the pain of knowing that any connections he formed in the new world could be severed at a moment’s notice and fire that still burned in his heart, the fire that would kill another to preserve his own life, to keep at bay the hopelessness and apathy that threatened to creep into his psyche, faced with an opponent that was far stronger than it had any right to be this soon into the trial.
+
+He would use the sacrifices of those that had died in his stead to become strong enough to break away from the cycle of violence, knowing that it was the only way he could hold on to his humanity.
+
+Jack felt like the system was asking him to prove his resolve, for words and platitudes were only that.
+
+The lupine creature chose to make the first move, which given it’s advantage in reach wasn’t surprising but Jack had hoped that it would underestimate him enough to let him have the first swing.
+
+No such luck it seemed.
+
+Given the speed Jack was charging at, it seemed like he was heading straight into the beast’s arcing slash.
+
+Not yet, Jack reminded himself, even though the temptation to use his trump card was gnawing at him as his mind reminded him just how much danger he was in. Still, even for his superhuman reflexes, halting after having built up such speed would just see his chest shredded into ribbons of viscera.
+
+Instead, Jack lunged forward with his right leg, with his left leg folded inward and trailing behind to cushion his fall and stabilize it as he slid across the earth while the lupine creature’s claws raked across the air his body had been charging across merely a moment ago.
+
+Using his left leg and hands to bring his slide to a stop, before scrambling to get back onto his feet before the lupine creature inevitably reacted with its superior reflexes.
+
+As it pivoted on the ball of it’s right forelimb with unnatural quickness, Jack noticed that the lupine creature was content to turn and reassess the threat with it’s left claw still guarding the rib cage while it’s right had recovered from the wild swing it had committed to and now swung outward in a wide perimeter along with it’s pivot, aiming to catch him lunging for it’s back.
+
+Finally, the lupine creature had made a mistake Jack could capitalize on, though it was hard to call it a mistake from the former’s perspective.
+
+The constant buildup of Qi in his arms meridians exploded outwards in a torrential flow as Jack unleashed a beast of his own, as two Primordial Claws superseded both his hands. Charging the beast unarmed had been a strategic decision, though Jack would be the first to admit that he hadn’t been sure if he’d actually get this far.
+
+Jack lunged for the skies as if there were springs in his feet, stretching his right hand to its limits to rake across the creature’s paw as it passed by him.
+
+A surprised bark escaped the lupine beast’s throat as it attempted to pull back its clawed forelimb, having just had a chunk of its sizable Qi reserves stolen from its paw. Jack had expected the claws to weaken after he executed his maneuver, but he hadn’t expected them to retract inwards, shaving off a third of the original length from the lupine creature’s repertoire in an instant.
+
+Every action was supposed to have an equal and opposite reaction and in this case, Jack’s own right claw swelled in length, his ethereal, hooked fingers almost doubling in length.
+
+Now that the lupine creature’s guard was up, instead of pushing his advantage it pulled back it’s affected paw, Jack flicked his wrist so his right hand’s elongated claw raked across the lupine creature’s chest.
+
+If Jack wasn’t certain that lunging for it’s core would mean having his arm ripped off, he would have. Instead, Jack opted to skim across its chest as fast as he could and in that process, swiped across the lupine creature’s left claw that was still guarding its ribcage.
+
+The lupine creature had no reason to defend it’s claw and even if it had tried to, it was hard to resist the encroachment of something formed purely out of Qi.
+
+Immediately after, the entire length of the lupine creature’s left claw retracted inwards in the blink of an eye, as Jack fought against a visceral urge to cry out in pain. The Primordial Claw technique in his right hand had swelled to an extraordinary degree, with each digit now carrying the thickness of an Anarix Tree’s branch and matching the length of his sword in length.
+
+Blood vessels across his right hand, wrist and arm burst open as Jack’s Essence Syphon Art bound a vast amount of Qi to him, easily surpassing his entire Qi Pool at its peak.
+
+Jack did the only thing he could in the heat of the moment, as he pressed both the tips of his Primordial Claws against each other and tried to command the Qi to flow into his left hand’s claw before it burst apart.
+
+To his relief, it was working and the Qi he had repossessed control of obeyed his command, but even then it hadn’t been fast enough.
+
+Knowing that the battle was rapidly spiralling out of its control, the lupine creature made the wise decision to retreat while it still could. Dropping to four limbs, the creature sent it’s tails whipping towards him to cover it’s retreat.
+
+His True Sight told Jack that the tails had the lowest concentration of Qi as they whipped at him, an amount that the lupine creature seemed more than content to sacrifice if it meant escaping in one piece.
+
+No!  A single word consumed Jack’s psyche, a refusal to allow the lupine creature to escape dominating his every intention as two Primordial Claws finally split the burden of Qi equally amongst themselves.
+
+Jack refused to allow the creature to escape. Not only would they all die if it was allowed to escape and plan out its next assault, but even more than that, the creature had injured most and likely killed at least one out of his three companions.
+
+For that transgression, it had to pay. Jack would add it’s strength to his own and take a step closer to breaking the chains that trapped him in this endless cycle of violence.
+
+So he used the one artifact he had kept close to him and allowed the Shield of Greater Deflection to catch the brunt of the initial tails’ bulk, the awkward angle of his defence almost leading to him getting shield bashed in the face.
+
+You already used that move once, asshole, Jack thought as the burst of Wind Qi he had been counting on answered his call, sending the lupine creature tumbling across the earth before the second tail could reach him.
+
+Even now, though, all Jack had achieved was disorienting the lupine beast, its injuries having been inflicted upon it by others. If it slipped back into the fog, they were done.
+
+Calling upon his inventory wasn’t something that Jack had ever managed before mid-battle, but choice or the lack thereof had a way of convincing people. Even the tear in space seemed to quake as his Primordial Claw reached inside his inventory.
+
+Jack sorely hoped that he wouldn’t have to find out what happened if the tear destabilized while his hand was still in there, but thankfully it seemed like the system had sent enough surprises his way for one day.
+
+He tugged free his old sword that had been granted to him by the system.
+
+While Jack couldn’t use two skills simultaneously unless they were designed to work that way, though he supposed that even then Qi Sword and Qi Projection weren’t working together and more shared an end and a beginning point, neither True Sight nor Primordial Claw was a skill.
+
+[Qi Sword]
+
+[Qi Projection]
+
+The first arc of Qi whizzed across the tip of the creature’s tail, severing it and sending a spray of blood across the earth.
+
+But Jack wasn’t done there.
+
+The second Qi Projection dug in deep into the creature’s left hindleg, cutting about a third of the way through before fizzling out.
+
+The third sliced a deep gash into its hump.
+
+By the eighth Qi Projection, the terrifying lupine beast lay inert on the ground, in a pool of it’s own blood. Three of it’s four limbs were bleeding heavily, it’s hump was leaking blood faster than it could replenish, a Qi Projection had found it’s way to the Beast Core, that had now cracked and was leaking Qi at an astonishing rate and one of it’s two tails had been severed while the other was down to a third of it’s length.
+
+The Primordial Claw in Jack’s right hand had winked out, but he didn’t stop there.
+
+Switching to his left, he unleashed two more Qi Projections, one severing the lupine creature’s head clean off and the second shattering it’s enormous beast core.
+
+The notifications that flooded his vision were unlike anything he had seen before.

@@ -1,0 +1,149 @@
+---
+id: 57e28221-815f-5ac7-a41a-d6ac2ff6f961
+page-type-slug: story-chapter-royal-road
+title: "37. Convergence"
+slug: 0037-37-convergence
+partOf: breaker-of-horizons
+position: 37
+ownLength: 2277
+unit: words
+publishedAt: 2020-09-07
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/550879/37-convergence"
+royalRoadId: "550879"
+---
+
+'Touch-speak-bend the Chosen-Blinded-Jailer?' That was the most coherent jumble of impressions I got as the strange arcanic being regarded me. It seemed like it was seeking clarification.
+
+My eyes darted to Ambrose, who was lying on his back just beyond the threshold of our room. His eyes were wide, and he looked from me to the empty space between us as if he could see something where I could only make out a vague shimmer.
+
+'Touch-speak-bend the Chosen-Blinded-Jailer,' the arcanic being repeated, but this time I caught a whiff of imperious command about it as it inched towards me.
+
+I licked my dry lips, uncertain of how to respond. It seemed to communicate through these jumbles of mental concepts and impressions, but it was hard for me to think in those terms, so I decided to try human language.
+
+'No,' I voiced through my auric-ambient-flare. I saw Ambrose's eyes flick over to me as if he had 'heard' me. 'Not now. Not yet.'
+
+Even though I couldn't see the thing I was addressing, I caught a steady stream of impressions through the weave of arcana that my mind managed to interpret. It was like reading body language — I was getting input even though there was nothing being said. Only in this case, I also wasn't actually seeing anything. It was so hard to parse what was going on...
+
+The knot of arcana seemed to draw itself up in indignation. 'Ancient-distant-spiders are reading-stitching-writing. Touch-speak-bend the Chosen-Blinded-Jailer before moment-place-meeting is unwoven-elided-silenced.'
+
+Ancient-distant-spiders. I had heard that before, and now the jumble of impressions finally clicked with a more familiar concept in my head — Fateweavers. I felt my blood run cold.
+
+But even as I extracted this new understanding from the mess of thoughts, I knew I was reaching my limit. The Demiurge had skillfully filtered his communication and tailored it to my understanding, but this being was not taking any pains to do so, and I felt my consciousness slowly unmooring itself again. Panic threatened to overwhelm me as I considered what would happen if I allowed this thing to run loose. But what was I supposed to do? Could I banish it somehow? But I barely even knew what it was — how would I even figure out how to banish it?
+
+'Ancient-distant-spiders... have no... control... over this auric-ambient-flare,' I stuttered, trying to pull together a semi-coherent stream of ideas and impressions using what I had managed to glean from its alien thought processes, and plugging the gaps with human language. 'Wait... for another... moment-place-meeting.'
+
+The being hesitated, though not out of a lack of certainty. Instead, it seemed to be sharing in my struggle for clearer communication. I felt it contort itself, and when it next made contact, it was with whiffs of language along with the jumble of impressions. 'Orb is... unnatural-changed-defiant. Will not... unweave-elide-silence... the Creating-Selecting-Chain for... time-creation-existence.'
+
+The Creating-Selecting-Chain... that was this being's conceptualisation of the Major Prophecy! There was a wealth of knowledge behind that impression that I could barely even perceive. It was like trying to peer into the lightless depths of an ocean trench. And this meant it had a deeper understanding of what the Prophecy was and how it worked. Even though I was at the edge of lucidity, I felt a rush of excitement and fear. This was an opportunity. I could get help without exposing myself to the binding knowledge of the Prophecy.
+
+The phantom arm that connected me to the orb felt impossibly heavy, but with a colossal effort of will I floated it over to the being. I tried to put all the authority I could muster into one last declaration. 'I will make my own choices. This is my decision. Help me... unweave-elide-silence... the prophetic links... of the Creating-Selecting-Chain on me. And I will touch-speak-bend the Chosen-Blinded-Jailer for you.'
+
+"Caden, what's happening?" Ambrose whispered, his eyes darting from the orb, to me, and back to the space between us. After all the subvocal communication, his voice sounded jarring to my ears. I ignored him, struggling to focus on the being.
+
+'You are a rare unchosen-sighted-{~?~},' the being breathed, shocking me with how much more articulate it was now. There was even a tone of fascination and faint praise that was coming through.
+
+There it was again — that last concept the Demiurge used, which had been too much for me to bear. It was even worse now, although I could tell that the being was already filtering it for me. A horrid sense of vertigo gripped me as the concept gave me the tiniest glimpse into large vistas of eldritch knowledge, each one threatening to drown me in a void of incomprehension. I fell to my knees and vomited.
+
+Then, above me, I felt the phantom arm painfully twist as the being seized the orb with sudden violence. Before I could even flinch, the arm snapped.
+
+There were no words. There were no thoughts. I did not understand what was happening.
+
+And perhaps that was what saved me. Because I understood nothing, I also felt nothing.
+
+"Caden! CADEN!" Someone was lightly slapping my cheek and calling my name.
+
+My eyes flew open and I shot up, drawing in a huge breath like a drowning man breaking the surface. My wide, staring eyes darted around, trying to locate the source of the horror that was flooding me now. There, beyond Ambrose who was kneeling over me, my eyes landed on the orb that had fallen to the floor. Something had happened. Something terrible.
+
+Terrible? No... not terrible. Terribly.
+
+Something... terribly... wonderful.
+
+I flexed the phantom arm, but the orb did not move. I shifted and Ambrose backed away, frightened by the intensity of my focus. Slowly, I crawled over to it, skirting the puddle of vomit I had left.
+
+My hand closed around the orb. I didn't know how I knew, but I knew. It was dead. But as I cradled it in my arms, I felt a grin splitting my face. "Ambrose?" I called.
+
+He shifted behind me. I could taste the fear in the air. "Are you... okay, Caden?"
+
+I casually tossed the orb over my shoulder and heard him catch it with a gasp.
+
+"Yes, Ambrose," I said, flexing the phantom arm again and marvelling at how it felt now. In fact, it wasn't really an arm anymore. It was... it was a carapace, a set of wings, a cloak, a suit of armour. It was all that and more. It anchored, it billowed, it drifted, it buoyed. And when I turned my attention to it, I realised I could feel the prophetic links trying to find purchase on it, to no avail. They strained, pulled, drilled, and scratched, but the protection was perfect.
+
+"Your orb... what happened?"
+
+"It's not working any more," I said simply.
+
+"What?" Ambrose scrambled to his feet, looking agitated.
+
+"I don't see what you're so worked up about. A moment ago, you were trying to destroy it," I pointed out, a little surprised at how calm I sounded as I got to my feet too.
+
+"I..." His expression went from agitated to confused.
+
+"Well, that's the Prophecy for you," I continued, keeping my anger in check. "You said you were trying to spare me from whatever fate was in store for me, but you ended up trying to destroy the thing that was protecting me anyway."
+
+"I..." He gulped. "I'm sorry, Caden. I wasn't... wasn't thinking straight. But if the orb's not working anymore, then does that mean..."
+
+"It means you can tell me the Prophecy now. I don't have to worry about the orb not being able to protect me."
+
+He looked genuinely troubled by that. "Wait, what happened, Caden? What was that thing? And how could you speak to it? Where has it gone?"
+
+I shook my head, even though I wanted to know how much he had heard. One thing at a time, though. I was confident now that I was well and truly beyond the reach of the Major Prophecy's direct influence, and the protection over me now was definitely not unnatural-changed-defiant. The arcanic being had seen to that — the protective aura that enveloped me now was a construct of beauty, even to my limited senses. "Tell me the Prophecy," I said firmly, "and I'll tell you what I know."
+
+"Caden..."
+
+"Tell me," I said, stepping towards him. "You wanted me to know. So tell me."
+
+"I... I don't know what's right any more!" He started backing away. "And you... you're behaving so differently! You didn't want to know! Why the change?"
+
+I laughed and gestured at the orb in his hands. "Does it matter, now?"
+
+"It does," he insisted. "If you were protected from the Prophecy, then it made sense for you to have more knowledge. But now that you're not..."
+
+"We're going in circles, Ambrose," I said as I closed in. And although it might have set his mind at ease to know that I was still protected, some lingering paranoia kept me from revealing all the facts. He backed further away until we were in the common area. "I'm getting tired of this. It's time you told me."
+
+He was preparing to fight again. I could see it in the set of his jaw. No, even more, I could sense it in the arcana, just like I had when he started to use the new arcanic bolts, only now it was more acute.
+
+All it took was a flexing of my will. The carapace around me flowered open, sending a little pulse racing through the fabric of the arcana, and Ambrose's hold on it fell apart. He gasped.
+
+"Tell me," I repeated, bearing down on him. The arcana was rising to my call now, not auric or ambient any more, but just mine. I held on to it so that Ambrose couldn't try anything.
+
+His shoulders sagged. "This is it," he whispered to himself. "I can't change it. It's going to happen."
+
+He looked so dejected that I felt a twinge of pity. "You don't know that for sure. Tell me, and maybe we can do something about it together."
+
+"... It's... in my bag. In the room."
+
+"You've left the capital 'P' Prophecy lying around in our room?" I asked incredulously.
+
+"Where else would I keep it?" he asked a little sheepishly. "It's not like I've got a vault or something."
+
+Something about that seemed so anti-climatic that I felt a little silly for behaving so seriously. My hold on the arcana loosened. "Well... go get it, then."
+
+He sidled past me a little awkwardly and started rummaging through his bag. Had it been in there all along, in that tatty little thing? He sometimes left it lying around on the floor during lunch or in classes. And in our room, it was always unceremoniously tossed aside. The moment was becoming more mundane and prosaic, especially as I spotted my puddle of vomit still sitting there.
+
+Finally, he straightened up, holding a small wooden scroll case in his hand. He popped the lid and slid out a roll of paper, and the moment he did I felt a wash of arcana spilling out from it. Even at this distance, I recognised the look of the paper. It was like the one my sister's minor prophecy had been written on.
+
+Then, he began to read.
+
+"Five threads will lie within your handsand be your first across the lands —..."
+
+The arcana in the air stirred, and I felt the carapace curl protectively around me, hardening in place as the prophetic links snaked through the room. I wasn't sure if Ambrose was sensing all these things, because he kept going, although his voice did tremble a little. But to my senses, the arcana was twining itself around his words, lending weight and meaning to them, investing them with power.
+
+"...five fates will share your hearth; five hearts will teach you pain; five minds will pave your path;five tongues will curse your name;..."
+
+I had been right to worry that the orb might not have protected me. Even ensconced as I was within this new carapace, I could feel the prophetic links wrapping themselves around me, trying to meld into my auric-ambient-flare.
+
+"...and one, brought close, becomes the bonesthat form your crown o'er mortal thrones."
+
+The pressure increased, but the carapace held firm. Once Ambrose was done reading, the arcana stilled. He eyed me expectantly.
+
+'It is done,' the arcanic being whispered suddenly, startling me. It seemed to be the carapace itself. 'The Creating-Selecting-Chain's links over you are unwoven-elided-silenced. Now touch-speak-bend the Chosen-Blinded-Jailer.'
+
+'What is the ensorcellment?' I asked it, reaching out as if to shake Ambrose's hand.
+
+'For him to unmake-learn-assimilate what you now know,' it responded as he warily took my hand.
+
+I recognised that bundle of concepts. It was what my father had breathed to his friend-in-the-arcana when he had asked me to ensorcel him. And now, I understood that final piece. When you took something into yourself like that, you consumed it, but on some level it also consumed you. It would alter your very essence, and create a new being. Knowledge of this sort changed the very nature of your auric-ambient-flare.
+
+"Caden... are you alright? You're... talking to something? Is that thing still here?"
+
+'Let it be done,' I smiled, and shook hands, focusing on the transcendent euphoria of epiphany for the core of my ensorcellment. 'Touch-speak-bend the Chosen-Blinded-Jailer, and let him unmake-learn-assimilate what I know about the woven-shackled-stream that has been bridled-broken-moulded, and the knot-link-anchor in the Spire, and the nature of the Creating-Selecting-Chain.'

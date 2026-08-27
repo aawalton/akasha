@@ -1,0 +1,185 @@
+---
+id: 7654586e-d2bc-5cab-bcf4-0670a529fc14
+page-type-slug: story-chapter-royal-road
+title: "v7c43: A Tao Tale"
+slug: 0296-v7c43-a-tao-tale
+partOf: beware-of-chicken
+position: 296
+ownLength: 2690
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3213091/v7c43-a-tao-tale"
+royalRoadId: "3213091"
+---
+
+Tao the Traveller, connoisseur of tournaments, man of the world, and definitely not a teller of tall tales—he barely embellished some of the more boring ones—was currently waiting in a Chao Baozi in the aptly-named Dueling Town of the Azure Hills for one of his contacts. His eyes roved all over the restaurant and its patrons; from the tables carved with stunning works of art featuring cultivators performing various feats of strength to the multitude of cultivators themselves, all from different sects, sitting around and chatting with each other.
+
+Normally this place would be a hive of tension. Separate sects glaring from across the room at each other, one comment or insult provoking a fight… that would sometimes spiral into something more.
+
+Those were exciting tales. The push and pull of rivalry, the little skirmishes in the shadows of their elders, this was where stars were born and extinguished amongst the younger generation! This was where he could weave a tale that had everyone listening, the taverns and inns silent as patrons hung onto every word of his dramatic retelling!
+
+But there was no tension here, no rivalries about to erupt into the passionate flame of combat. Here, there was peace.
+
+And that, too, was something that he could craft a tale from.
+
+He had always been more interested in the lower ranks of cultivators—You could actually watch them move with your naked eye, instead of seeing flashes that had to be replayed on recording crystals. It made tournaments more enjoyable for him to watch, when he could actually see what they were doing.
+
+So too did he enjoy watching their plans. It was one thing to see a brilliant masterstroke five hundred years in the making suddenly play out, but there was also something to be said for being in the thick of it. Instead of operating in terms of centuries, the changes that the weakest cultivators made were things understandable to a mortal time-frame. He could watch them unfold, understand them, make predictions, and tell a wonderful story.
+
+Which was why he was back in the Azure Hills. They were doing things here; interesting things. Many had expected a war when cultivators all gathered together over something.
+
+Yet instead, there was peace. A peace with a reason unknown to most, because the information had largely been kept quiet. But Tao knew. The sects, under Cai Xiulan, had all allied and began to work together.
+
+It was not entirely uncommon for cultivators to band together, especially after something like the incident with the Shrouded Mountain Sect, but they were normally short-lived things, as factional infighting swiftly drove them apart.
+
+And yet, the alliance seemed to be working out well past its initial period of the first year. In fact, if anything, their bonds were growing closer. Their patrols were interlocking like a young dancer who finally abandoned their nerves enough to match with their partner.
+
+It was almost sweet in a way, how the tentative steps became more confident, but the results were undeniable. Everyone he talked to said the same thing: The Azure Hills had never been safer.
+
+If that were it, this would have been merely a story of “righteous cultivators assisting the mortals”. And yet there was also something even more interesting happening.
+
+They were getting stronger.
+
+Tao had not really thought much of it at first. A couple of parties for a disciple breaking through here or there was not uncommon—in stronger provinces. Then he remembered he was in the Azure Hills. Some sects even had mortals as actual disciples, that's how weak they were. A breakthrough was normally a celebration that involved most of the sect. Tao had heard of only three such parties the last time he toured the province.
+
+But now he had been back in the Azure Hills for six months and heard of nearly twenty of these breakthrough celebrations. Most of them were from the First Stage of the Initiate’s Realm to the Second, true, but that it was happening at all in this weak, Qi deprived place?
+
+It had the whiff of a truly spectacular story. Tao, through his usual haunts, had heard whispers of demonic attacks and the involvement of not just the Cloudy Sword Sect, but Soaring Heaven’s Isle Sect as well!
+
+It was truly fantastical! If someone else had told this story, he would have said they were full of it! But all signs pointed to it being true! Even now, there were rumours of an Elder of the Cloudy Sword Sect coming to visit the Dueling Peaks! Tao would have thought it complete nonsense, but the cultivators of the Azure Hills were preparing for somebody important to visit. It was a veritable who's who of movers and shakers.
+
+Tao couldn’t wait to see what would happen. What a strange and wonderful time this was!
+
+“Sorry! Hope you didn’t wait too long, Tao!” a voice cut through Tao’s introspection. He smiled, turning to his contact… or really, more his friend.
+
+“It's no trouble, Gou Ren! Eating good bao and sitting around is hardly an imposition!” he said, waving to the younger man, who settled into his seat beside Tao. Several monkeys, who had entered with the lad, went up to the counter to order. The proprietor, who now had quite a bit of experience dealing with the monkeys, started up their preferred set of bao—largely vegetarian from what he could tell, and indeed quite tasty.
+
+“Helps that I’m buying,” the younger man ribbed good naturedly.
+
+Tao laughed and raised a meat bun in salute. “Now, has it ever hindered?” he asked.
+
+“Not in my experience,” Gou Ren said, taking some bao for himself. They made small talk for a few minutes, before the young man pulled out a notebook and the conversation drifted to why Tao was really meeting him.
+
+Tournaments.
+
+Or rather tournament venues.
+
+Tao had originally met Gou Ren during the tournament two years ago, the young man having no idea about the Realms of Cultivation!
+
+He had been a polite and courteous lad the entire time, and his brother had had the most fascinating recording crystal. Still images only. Tao had of course purchased one later, when he had the opportunity—but that was all he thought of the pleasant encounter. A one-off meeting, as was common for him.
+
+Except when Tao came back to the Dueling Peaks, they once more met by chance on the street, and the young man, now quite a bit taller and broader of shoulder than Tao remembered, treated him to dinner as thanks for the explanation.
+
+Tao had of course accepted, and they had talked about all manner of things, Gou Ren listening particularly intently to Tao’s descriptions of tournaments in other provinces.
+
+It had been a pleasant dinner… and then Gou Ren invited him to another, and another, each time listening to Tao’s insights on how other provinces did things. And not just the grand battles, but the smaller things… including the attendees’ experiences.
+
+At first Tao thought he was merely enlightening a fellow enthusiast… until Gou Ren brought along Tie Delun, the Ironskin, to one of their meetings, and Tao learned that Gou Ren was a part of the Dueling Peaks Restoration Commission, and married to Liu Xianghua, Sect Master of the Misty Lake Sect.
+
+Which was an utterly absurd rise in station. From a man who knew nothing of cultivation, to married to a Sect Master?!
+
+But what was more stunning than that was that the people who were restoring the Dueling Peaks were asking him for his opinion on their repairs.
+
+What an unbelievable feather in his cap! He, Tao the Traveller, was helping to make the tournament experience in the Azure Hills better. Gou Ren called him a consultant. A consultant for cultivators! How fantastic!
+
+To think, his love of low-tier tournaments would grant him this. Of course, Tao was not allowed to simply walk into the guts of the mountain, but through his conversations with Gou Ren, he still received absolutely juicy bits of information about the goings on in the Dueling Peaks and beyond. Most of it was minor things; fortifications being built around the province, repairing parts of the mountain that had been harmed by a Qi Anomaly… but today, today Tao was going to push his luck a little.
+
+“And then they route the feed from the recording crystals to other places outside the arena. It's very popular, but those kind of formations and crystal screens are rather expensive,” Tao finished.
+
+Gou Ren nodded seriously. “Yeah, we’re pretty sure that was what those lines were used for, but it's good to have confirmation," he muttered before shaking his head. “Thanks again, Tao.”
+
+Tao nodded. “Any time, naturally. Though… I must confess, the tension in the air is making things a little uneasy. Something about an important visitor?”
+
+Gou Ren paused. “Oh, yeah, Jin is dropping by. Nearly here in fact.”
+
+Tao’s mind raced. That name again, the man who had stopped the Shrouded Mountain Sect! The man whom the Plum Blossom’s Shadow was so cagey about! That Hidden Master, was he truly part of the Cloudy Sword Sect?
+
+“Ah, I suppose he’ll want all us outsiders away from the town? He seems a secretive sort…” Tao ventured.
+
+Gou Ren considered Tao’s question for a moment. “Probably not, honestly? He doesn't like interrupting people’s lives too much. If it were up to him, he’d show up in silence… but Xiulan said there does need to be at least a bit of ceremony.”
+
+“It seems like a once in a lifetime event!” Tao said. A powerful cultivator visiting the sects here? Was he the reason for their sudden strength?! Oh, it was such an intriguing mystery!
+
+“Is it?” Gou Ren asked, sounding amused. “Well, you can watch if you’d like. Your suggestions on the latrines saved us a lot of hassle…”
+
+Tao grinned.
+
+Truly, the greatest thing to have was luck.
+
+==================================
+
+And that was how, the next day, Tao found himself in a crowd within the Earthly Arena. Members of the Framed Sun Sect had arrived early that morning, saying one thing.
+
+“He’s coming.”
+
+And so titanic banners of fabric, emblazoned with the character for Azure, were unveiled. They cascaded down the mountainsides of the Dueling Peaks and the insides of the Earthly Arena.
+
+The western road was cleared, and members of every sect stood guard, their hands behind their backs, waiting for his arrival.
+
+The arena itself was packed. Seemingly everyone was here. The disciples, the members of Spiritual Ascension Affairs, even the Elders of every sect. They all waited, a united front before whomever was supposed to arrive, and at their head?
+
+Cai Xiulan, the Grand Marshal herself.
+
+They did not have to wait long.
+
+A long, sinuous form descended from the skies, and Tao could only gape at the sight.
+
+A dragon! A dragon, in the Azure Hills! His scales were a royal, regal blue; with four toes adorning each foot, proof of his princehood. The entire arena erupted into gasps and exclamations, cultivators gawking in awe.
+
+Tao had seen three dragons before in his whole life. This one was by far the smallest, and yet… it was something profound all the same, to see a beast this close and not as a shadow in a storm.
+
+The dragon touched down effortlessly, his command of the sky absolute. His regal gaze landed upon Cai Xiulan, his whiskers twisting through the air.
+
+“I bring a message from my Master to the Sects of the Azure Hills. He requests permission to enter your mountain.”
+
+The words reverberated through the arena, though he did not yell.
+
+“He is welcome. Let none bar his path,” Cai Xiulan declared. The dragon nodded, again regal in his movement. “Would you care for some refreshment, Master Dragon? We have wine and water, but I’m afraid the feast will have to wait until everyone has arrived.”
+
+The dragon, who at first looked enthusiastic, started to seem…vaguely disappointed? Tao frowned, worry starting to form in his soul, but Cai Xiulan did not seem to be under any strain. In fact, her lips twitched and she seemed to be struggling to not smile at the dragon, who  was practically sulking. Only a whispered comment from the woman seemed to improve his mood… though only marginally.
+
+The wait was not long, but it was tense. The air was electric. Tao wondered how the master would descend. From the heavens? On a bolt of Qi?
+
+And yet it was neither of those things.
+
+A form appeared down the road. It was a carriage. A grand carriage, to be sure, pulled by a prime physical specimen of an ox. But it seemed almost disappointing, compared to the wondrous things other cultivators arrived on in other provinces. There were no flying swords or bound spirits.
+
+The cultivators lifted their instruments. Lady Xinling of the White Water Sect began on her guzheng. Flutes and drums joined her, each one masterfully played.
+
+At first, Tao felt disappointed that there was such fanfare for a man arriving in such an ordinary fashion. There was simply a man, sitting in the driver’s seat of his cart. He looked almost like a mortal. If a dragon had not been his herald, this was all that he would be.
+
+That impression lasted until the carriage crossed the threshold of the Earthly Arena.
+
+The entire edifice shuddered. The ancient characters on the Thunder of the Earth lit up on their own accord, the burnished disk looking for all the world like a second sun. Lights, one colour for each element, suddenly ignited in the walls of the arena, their shine getting brighter every moment.
+
+All eyes were upon him. All attention was upon a man who at first glance looked so simple.
+
+He stepped down from the carriage, and looked upon the assembled cultivators of the Azure Hills.
+
+The gong, pulled by the Elders, resounded over the arena. But it was unlike any time he had heard it before. It was deeper. It was richer. It filled the soul with a quiet strength that left Tao feeling like he could take on the world.
+
+The very floor of the arena shifted. It went from flagstones to earth—and from that earth, grass grew and flowers sprouted.  Yet Tao did not spot Bao Wen waving his control rod, ordering these transformations. How was this happening?
+
+Several Elders appeared stupefied. The Master of the Grand Ravine Sect looked like he was about to fall to his knees, though he was supported by his son and grandson flanking him.
+
+Cai Xiulan stood firm and unaffected.
+
+The door to the carriage opened. A woman took the Master’s hand. A small, dainty woman… whose eyes were sharp and piercing. She was followed by another woman, one with fox ears and a tail, holding a babe in her arms. Three more then exited the vehicle—a man in the garb of a Lord Magistrate and two women, one with fox ears of her own, as the ox unhitched himself from the cart to stand beside the powerful Expert.
+
+For a moment, there was absolute silence.
+
+Each and every one of the cultivators present lowered their heads.
+
+“We pay our respects to Master Rou!” they shouted, a simultaneous declaration of every power in the Hills.
+
+The Great Expert accepted it.
+
+“Grand Marshal. Esteemed Elders of the Azure Hills. Thank you for the warm welcome. It is good to meet under such circumstances, rather than how we met previously.”
+
+His voice filled the arena, warm and rich. Yet his comments were light and calming, and his words drew small chuckles from the crowd. They had previously met when the Shrouded Mountain Sect had nearly declared war on them; this was a nicer meeting by far.
+
+The man was supremely skilled. As expected of an ancient and powerful expert!
+
+Tao memorized every bit of what was going on. It had so much gravitas, it was so profound… oh, yes, this is what stories were made of!
+
+The only bad part was that nobody was going to believe him. Again!

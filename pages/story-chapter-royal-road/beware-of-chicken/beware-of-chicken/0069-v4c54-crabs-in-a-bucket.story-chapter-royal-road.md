@@ -1,0 +1,191 @@
+---
+id: e693b0fa-fbaf-5133-905f-dfcc333da631
+page-type-slug: story-chapter-royal-road
+title: "v4c54: Crabs in a Bucket"
+slug: 0069-v4c54-crabs-in-a-bucket
+partOf: beware-of-chicken
+position: 69
+ownLength: 2514
+unit: words
+ownProgress: 2514
+publishedAt: 2023-10-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1391011/v4c54-crabs-in-a-bucket"
+royalRoadId: "1391011"
+markedReadAt: "2026-06-29T18:53:46.067Z"
+---
+
+Shao Heng was no stranger to ambushes. It was part of being an Outrider. Spirit Beasts, cultivating bandits, and rival sects were always eager to pick off the isolated disciples, and thus render blind and deaf the eyes and ears of the Shrouded Mountain Sect. Many a time had he been alone and outnumbered, arrayed against a superior force.
+
+Even surprised in the heart of the Sect, even reduced as he was, Shao Heng’s body remembered what to do. He threw himself backwards, away from the sword strike, and barely managed to dodge.
+
+Without Sister Ri Zu’s healing, and without the conditioning he had undergone, he surely would have perished right there. Shao Heng’s assailant seemed equally surprised that he managed to move, but then his enemy’s eyes narrowed.
+
+The man’s face was covered in a mask and he wore black outer clothes.
+
+Shao Heng’s mind raced. An intruder this far into the Sect should have been impossible! The Inquisitors should have captured one such as this with ease!
+
+Shao Heng flared his Qi in warning—yet this assassin, with his superior cultivation, managed to capture the spreading beacon and snuff it out before it traveled too far.
+
+His opponent snorted and brandished his sword.
+
+“You should have remained a cripple,” the assassin told him. “It would have made this easier on both of us.”
+
+Shao Heng’s eyes widened as the wind blew through the courtyard. The black clothes flapped in the air, and revealed that underneath them there lay a uniform of the Shrouded Mountain Sect.
+
+But what was more, Shao Heng recognised this man’s stance… and his muffled voice.
+
+“Mo Chaoge?” he asked, his eyes widening.
+
+His former subordinate in the Outriders struck, and Shao Heng was engaged in a desperate struggle for his life. He parried the sword with his hands as best he could. His skills and reactions stretched to the limit. His experiences saved him, each precious second prolonging his life.
+
+Yet despite everything, his opponent was still one in the Profound Realm. The outcome was foregone. His foe’s sword hacked down into his chest, cleaving bone in two, and barely missing his heart. Shao Heng fell backwards, collapsing onto the ground.
+
+He coughed, blood erupting from his mouth. He could feel his blood pumping onto the earth. Mo Chaoge stalked towards him and looked down upon Shao Heng.
+
+“So… It was your section, wasn’t it,” Shao Heng coughed. “You slacking bastard?”
+
+Mo Chaoge pulled off his mask and looked Shao Heng in the eye.
+
+“Close enough to yours,” the man said and raised his sword high. “Don’t wait for me in the afterlife, Captain.”
+
+For a brief moment, Shao Heng considered giving in. Considered accepting his fate.
+
+But Shao Heng didn’t quit.
+
+His hand lashed out, his own blood pooled within, and he threw the liquid into the bastard’s face. His sword wavered as it descended just enough for Shao Heng to force himself to the side—yet he collapsed to his knees as he tried to rise.
+
+Mo Chaoge snarled as he wiped the blood from his vision. “You little rat. I was going to make this painless—” he started only to stop short when he suddenly blurred, his sword managing to strike away three silver needles.
+
+“You. You dare to disturb the sanctity of this place of healing?” the furious voice of Sister Ri Zu demanded. She stepped out of the shadows, but they seemed to drag with her, elongating unnaturally. Small, dark figures with malevolent red eyes formed around her in the blackness. They danced and capered around her, squeaking laughter coming from the black depths. The stench of virulent poison filled the air.
+
+Mo Chaoge snarled and made to strike at Shao Heng, but Ri Zu moved. She intercepted the blow with a long silver needle, and then the battle became nothing but flashes to Shao Heng as he slumped.
+
+A slash across Ri Zu’s face was accepted in return for the woman driving her needle between Mo Chaoge’s knuckles. Her Qi pulsed, and Mo Chaoge’s Qi fought back—but in the end, he locked up, his eyes rolling back into his head as her peculiar technique overrode his senses.
+
+Ri Zu left him where he dropped and then she was beside Shao Heng, her delicate fingers assessing the damage while she brought out healing medicines.
+
+“How—” Shao Heng started.
+
+“The diagnostic formation went beyond its alert parameters and then cut out,” the healer said, her voice as cold as ice. “Do not speak now; conserve your strength.”
+
+Shao Heng did as he was told. He stared up at the moon until the darkness claimed him.
+
+================================
+
+When he awoke again it was to Ri Zu’s gentle fingers upon his brow, her healing Qi beckoning him back to the land of the living.
+
+He awoke to her concerned eyes, and she pulled back from him.
+
+The word brightened again, revealing Shao Heng’s room. Instead of just Sister Ri Zu by his bedside though, the place was a bit crowded. Fat Han was seated by a window, his complexion dour, while Yushang was guarding the door, her massive blade leaning against her shoulder and her normally bright, mischievous eyes devoid of humor.
+
+Biren was by the final window, looking out it and similarly brooding, while finally, and to his surprise, Inner Disciple Bi De was seated near his bed, the man bright and alert. He glanced at Shao Heng and nodded.
+
+Shao Heng let out a breath, his chest still smarting. Yushang turned from her place to look at him, then smiled.
+
+“Hey Uncle, you look like shit,” the woman said, trying to inject some levity into things.
+
+“I don’t feel the greatest, kid,” he replied, smirking to show he was alright. Yushang smiled, and Fat Han chuckled, before the mood became somber again. He turned to look at Ri Zu, who had a heavy frown upon her face. “Once more you have saved my life, Sister Ri Zu. This Shao Heng owes you a debt that can never be repaid.”
+
+He tried to bow, but Ri Zu kept him upright, her hand almost painful on his shoulder. “Ri Zu does not heal-save to receive favour-gifts—but if you wish to repay Ri Zu, speak-tell her why this happened.”
+
+Shao Heng paused at the strange, guttural accent the woman had, in contrast to her normal razor sharp diction. It snarled and it bit as she repeated words, like the rhyming slang from the worst parts of the cities, but even more base.
+
+Her brows were narrowed into a harsh line and her teeth were grit. Though the terrifying aura and little shadow-beasts were gone, her Qi was obviously straining at her control.
+
+“Mo Chaoge of the Outriders. Member of the prestigious Mo family. A man who has been loyal to the Shrouded Mountain Sect for a long time. What could cause him to want to kill his superior?” Biren asked. He turned to look at Shao Heng, his eyes narrowing to something that looked almost vulpine.
+
+Shao Heng took a breath as he was suddenly under their scrutiny.
+
+For a brief instant he debated saying he was just as confused as them— But he did know. He knew exactly why Mo Chaoge had tried to silence him… even if he had been so consumed with his own healing that he had put it out of his mind.
+
+If he spoke on the reason why his subordinate had tried to kill him, they would surely lose any shred of respect they had for him.
+
+What a pitiful creature he was, to have that be his first thought; but his saviours had demanded his voice and so Shao Heng would speak.
+
+“Mo Chaoge was my subordinate in the Outsiders. He was a known slacker. He would cut his patrols short or lie upon his reports. Many a time have I had to go back along his routes and make sure of things, or I would do his patrol with him to make sure it was completed,” Shao Heng began. “He was also a bitter and jealous subordinate, who said that a cultivator from a weak family such as myself should not have a position over a member of the Mo family.”
+
+“If he was that bad, why didn’t you have him kicked out?” Ri Zu demanded.
+
+“The Mo family holds the esteem of the Patriarch,” Shao Heng replied. “There was nothing I could do—and whenever there was something wrong upon his routes, it was something minor. Unworthy of disciplinary action.”
+
+Ri Zu’s face flushed with rage, and only the touch of Bi De upon her shoulder calmed her Qi. The man watched over her, but Ri Zu was clearly too angry to speak so instead Bi De was the one who spoke.
+
+“And this leads to an attempted assassination?” The man asked.
+
+“It would… because the King Frost Wolf either came from his area of patrol… or my own,” Shao Heng bowed his head as he forced the words out.
+
+“Your own?” Bi De asked.
+
+“I have not been a diligent captain. My attention was consumed with my own cultivation, and thus my attention wandered. I stopped checking, when I had specifically put his section beside mine so I could prevent such things from happening. I knew he would lie. I knew he would slack off. And I stopped caring. I did my own routes as fast as I could and cut some of my own corners.” Shao Heng kept his own voice as calm and controlled as he could. “Normally, I would have ventured forth into his section. Normally, I would check for threats along the border. But I did not. I knew he would be inattentive, and yet I did nothing at all. And because of this inattention the Shrouded Mountain Sect has lost three cultivators, and four hundred and seventy mortals have perished.”
+
+It was bitter, so very bitter a thought. He had avoided thinking about it. He had thrown himself into his healing… yet did he deserve to get healed at all? When he was responsible for the incident?
+
+The fire that had been blazing inside him ever since Ri Zu had told him he could be healed began to splutter.
+
+“This is a big enough incident that it cannot be swept away. If I am dead, he cannot be implicated. If I am dead, the Spirit Beast did come from my area. For who would question a member of the Mo family? He will be the new captain, and everything will be well.”
+
+“…Would he have tried this if you were at your full strength?” Ri Zu whispered.
+
+“I do not believe so. He would have tried something else. He likely struck now because he learned I was regaining my strength.”
+
+There was silence in the room. Ri Zu’s face was stone. Biren was looking out the window. Yushang looked horrified, while Fat Han was biting his knuckle.
+
+Bi De was simply staring at him.
+
+Shao Heng stared back at the people who had welcomed him with open arms.
+
+“It… may be best for you to distance yourselves from me,” he said, forcing the words out. Finally, he turned once more to the woman who had saved his life. “It appears that I do not need your healing any longer, Doctor Ri Zu,” he said. “This Shao Heng is grateful for your time, but my opponent will be the Mo family… and victory is unlikely.”
+
+It was better this way. He barely knew them, and he could spare them some pain for the kindness they had shown him.
+
+He smiled slightly. They would do well without Shao Heng’s troubles tainting their path
+
+====================
+
+Ri Zu stared at the defeated man, the burning fire in his eyes crushed into dull embers.
+
+Ri Zu grimaced as she remembered the assassin’s face. So that was the reason why, despite Ri Zu’s poison coursing through his veins, Chaoge had appeared relatively unconcerned when he had been taken to a holding cell.
+
+Ri Zu felt numb. So this is what Master Lishu had meant when he said that sometimes it wasn’t worth it. He’d warned her she would have to face this moment. Sometimes it was a fight a person couldn’t win.
+
+One man tried to kill Heng because he had been weakened. Had tried to take the fast way to dispose of a problem, and now that he had failed he would likely try something else.
+
+And if Ri Zu hadn’t taken responsibility for Shao Heng, she never would have known or gotten involved. If he had died, it would have ended with him. If she had saved his cultivation completely, it would have been out of her hands and Shao Heng would have been left to deal with the Mo family without any of her knowledge.
+
+The fool thought he could waltz into the Medical Pavilion, kill a patient, her patient, and then be safe because of his family name.
+
+It was utterly reprehensible, a mere symptom of the internal rot of this sect.
+
+Now Ri Zu was involved in this struggle. A strong family against a man with barely a name. He had no one who would defend him except Ri Zu.
+
+And would she defend him? A man they barely knew? A person brought to her by a quirk of fate, and who Ri Zu had fully been planning to never see again after he was healed?
+
+If she fought for him, she would surely have a harder time in the sect and draw more attention to herself. Could she even protect him after they left?
+
+Ri Zu didn’t know, but she did know one thing.
+
+She knew a good man when she saw one. He had admitted fault to slacking himself. He was prepared to take responsibility, and was trying to ensure the rest of them didn’t get hurt by his problems.
+
+A far cry from a man who tried to assassinate his captain to avoid responsibility and take his place.
+
+Bi De, seeming to sense Ri Zu’s turmoil, placed his hand on her shoulder. She looked up at him.
+
+He nodded.
+
+Her eyes found Yun Ren’s next. Her friend’s scowl was heavy on his face. His eyes locked on hers and his lips twitched into a vicious smile.
+
+Yushang stuck her thumb up, something she had learned from them. Fat Han just sighed, but there was a gleam to the look in his eye.
+
+No. Ri Zu would not give up on him just because things got a bit hard.
+
+And she wouldn’t do so alone.
+
+Maybe it was baseless pride… but if this was some kind of heaven-sent test, she wouldn’t fail it.
+
+She took a breath.
+
+“Ri Zu regrets to inform you that your request to stop treatment has been denied,” she infomed Shao Heng. “You promised Ri Zu you would follow her advice until the end. The end has not come yet.”
+
+The middle-aged man looked up at her in shock.
+
+When Ri Zu made a promise, she damn well kept it.

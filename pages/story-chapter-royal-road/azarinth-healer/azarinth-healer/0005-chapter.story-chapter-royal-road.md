@@ -1,0 +1,299 @@
+---
+id: c0bc9982-825c-5781-a358-09d0c5cc5891
+page-type-slug: story-chapter-royal-road
+title: "Chapter ???"
+slug: 0005-chapter
+partOf: azarinth-healer
+position: 5
+ownLength: 2957
+unit: words
+publishedAt: 2020-04-01
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/475982/chapter"
+royalRoadId: "475982"
+---
+
+Chapter ???
+
+Ikea felt the Space Magic manifest. More powerful than anything she had experienced before. Comparable perhaps to the accumulated magic she had dispelled in the Descent.
+
+Even the third tier wouldn’t help her with this one and she knew as much. Oh boy, here we go. Whoever is doing this to me without asking will need a good fucking explanation.
+
+Ilea appeared within what looked like a throne room. Enchantments and runic symbols glowed in a circle on the ground around her. A pitiful barrier flickered to life a moment later.
+
+Could have already come for you, she thought and took in the sights. Her sphere wasn’t blocked and all her skills and abilities seemed to work the same way. Still active and ready.
+
+The mana density in the area didn’t strike her as abnormal. Am I still in Elos?
+
+Maybe I could rip out chunks of the ground and bring it back for research purposes. The spell seems quite potent. If it can even transport me against my will.
+
+Armored knights lined each side of the grand hall, their gear reminding her of the Rose Knights she had fought in Tremor. Somehow she felt they were much weaker. None of them stood close enough for her to use identify on.
+
+A group of people stood on an elevated platform, one of them in front of an unnecessarily large throne. Presumably the people that summoned her here.
+
+Ilea hadn’t been the only one called. Two more circles of magic had just stopped giving off power.
+
+One of them held a pitiful heap of bones and smoldering chunks of flesh. The other one a living being.
+
+Living was perhaps not quite the right word. It had no heartbeat. The power it emanated felt visceral. Deadly. Certainly on the level of a Shadow.
+
+A woman, blond hair and blue eyes, sporting a traditional dress in light blue, a dagger, and two throwing knives. Something about her look was off. As if she came straight out of an eighteenth century ball.
+
+God, I would hate putting that on every day, but holy fuck she looks good in it.
+
+“Welcome! Heroes of faraway lands! You have been summoned by nobody lesser than the great and mighty King Abel! To fulfill the prophecy and rid this land of every and all demons!” one of the people said. A man wearing overly long red robes, lined with gold.
+
+“Ah great. The summoned hero story. Why put a barrier up if you want our help?” Ilea said and tapped the shiny magic. She could break it in a few strikes if the underlying magic was similar to Claire’s.
+
+“We mean you no harm!” the man continued and walked closer, opening his arms in a welcoming gesture.
+
+Something about his face was off.
+
+Ilea chuckled, reminded of Arnie trying to impersonate a human.
+
+“The shield is there to prevent magical power leaking outwards. You were chosen as prospective heroes, individuals with great potential. Young and surging in power!” he continued.
+
+Neither the king nor anybody else had yet to speak a word.
+
+The shield appeared after the magic subsided. A child could see that. Ilea thought and rolled her eyes.
+
+“What do you think?” she said and looked straight at the woman next to her. “That bundle of flesh doesn’t seem quite happy about being here either.” She nodded to the heap of meat.
+
+Rest in peace lost hero.
+
+“A spell that has one in three chances of turning their target to mincemeat indicates that little care is given to their target,” the woman said.
+
+“How thoughtful. You are right. Though I must say, I would very much like to experience the full extent of this spell’s power… perhaps I could learn to resist it fully…,” Ilea mused and glared at the flesh. Might just be space magic after all. Hmm.
+
+The woman said nothing, though her eyes widened slightly.
+
+“Why summon us? Doesn’t the mighty, high and powerful king what’s his name have enough powerful people to fight the war himself? You already have forty eight capable knights standing in this very hall. Pretty wasteful if you ask me,” she said.
+
+“You were chosen to fight the fiends who wield necromancy, blood magic and curses in their unrelenting pursuit of conquest! Are you not those good of heart and spirit? Those who would vanquish the evils of the world?”
+
+“Some of my best friends are necromancers. And blood mages… and curse… mages?” Ilea said and looked around the room. She could feel the distress build in the knights and the supposed priest.
+
+I hope this ordeal at least leads to an interesting fight before I teleport back.
+
+“Besides… I can feel blood magic from your king. Seems a little dishonest to me,” Ilea said, summoning a bowl of food and forming a chair of ash before sitting down.
+
+Something about these people was fucky but she wasn’t exactly in a hurry. Despite her abduction, which in itself was pretty impressive, she wasn’t against helping out. If helping out meant fighting a war against unending hordes of demons, she at the very least had to have some good reasons. Good reasons to abandon her friends back home, in Elos.
+
+So far, the argumentation wasn’t quite convincing.
+
+“Then perhaps-” the king first spoke, his voice deep and gnashing. Not something that would come out of a human’s mouth. He coughed a few times before continuing.
+
+“Perhaps you would be interested to side with us after all-” he said and again coughed. This time a splatter of blood splashed to the carefully cleaned floor.
+
+“My king! You mustn’t,” one of the attendants said and approached the man, only to be swatted away like a fly.
+
+Impressive, Ilea thought and continued eating. She wondered if anybody who had been summoned before would have fallen for this terrible play. Probably. I mean if I had come here as a normal human, I likely wouldn’t have had a choice. Any of those knights would have been enough to end me, ten times over.
+
+Now at the very least I can escape. At least I’m somewhat sure of it. Even if we’re underground. I will probably take that woman with me if she doesn’t protest too hard. She’s definitely not happy with the situation.
+
+“A… being… of ash. And one of blood,” the king said and chuckled. “Would you not serve me? You could be lords… whole continents would cower before your might. As heralds of King Abel.”
+
+“I’m quite happy where I am. Can you send us back now please? I have obligations and I’m sure the same is true for you,” she said and looked towards the other supposed summoned hero. “I’m Ilea by the way, nice to meet you. I like the daggers and the whole corpse like thing you’ve got going on,” she said and gave her a thumbs up.
+
+“I am Ariane of the Nirari,“ she answered, and grumbled in a lower voice, “and I am not a corpse.”
+
+“Hey wait, you’re a vampire, right?” Ilea said and felt the woman’s distress flare up immediately.
+
+Her face remained the same, nothing betrayed by the schooled expression.
+
+“Don’t worry about it. As long as you’re not a feral monster trying to eat me, there shouldn’t be a problem,” she tried to reassure the woman.
+
+The king chuckled once more, the sound traveling in an eerie way across the hall.
+
+Ilea wondered what kind of magic he was using. Or if it was inherent to whatever species he was part of.
+
+“I am afraid such is not possible. Too much was invested to get you here. You will serve me. Willingly or not,” he spoke, emanating magical pressure.
+
+“Hold on, friend, perhaps we should try to negotiate with them first…” whispered the vampire
+
+“Okay mate. Last chance. Beam us back or I will literally rip off your head,” Ilea said to the king.
+
+She watched as he glared at her, a pulse of magic lashing out and manifesting within her own chest.
+
+A step to her left made the power shift, the blood rupture ripping out a part of her lungs.
+
+Bone armor appeared on her body, quickly covered by ash as her tendrils and wings exploded out of her back. The limbs shattered the barrier in an instant, lances of ash forming out of thin air.
+
+The vampire looked at her wide eyed, hands on her daggers. She seemed apprehensive but ready to fight.
+
+“I don’t think you have a choice here,” Ilea said and winked.
+
+“Kill them!” the king roared as his body burst outwards, muscle, bone and limbs expanding. What remained was a fierce monster four meters in height. Claws and teeth that would shred through a human replaced the human features from before.
+
+The only thing that remained the same was the small crown on his head, half-grown into the skin of his canine skull.
+
+“Whoa, pretty disgusting there,” Ilea said and slammed a few of her ashen spears into the approaching knights.
+
+She saw the vampire had moved as well, expertly dodging through the blades and axes slashing her way from a group of knights.
+
+Her daggers lashed out to strike at weak points with inhuman speed.
+
+Won’t have to worry about that one, good.
+
+She teleported behind a group of knights, her ashen tendrils ripping through them as if they were paper. The flesh and skin pouring out of the armor was most certainly not human.
+
+“YoU DaaaRE DeFY MeEE?!” king Abel bellowed.
+
+“Yes, yes. I do dare. I’ve heard this so many times before. What the fuck did you expect, summoning powerful heroes here?” Ilea asked, ignoring the explosion of blood that ripped out most of her torso.
+
+“You’ll need more than that,” she said as her body reformed nearly instantly.
+
+Her Heart of Cinder charged, she shot it out in a cone, incinerating a swath of knights about to attack her companion in this ordeal.
+
+The woman dodged back and scrambled away from the flames, her eyes wide before she glared at Ilea, the source of the spell.
+
+“My dress!” she hissed.
+
+“Sorry!” Ilea shouted and waved. “Behind you!”
+
+“I know!”
+
+She watched the woman turn and stab a knight in his throat, her knee slamming into his chest, leaving dents in the metal.
+
+One of them nicked her leg, leaving a trail of blood that stained her dress.
+
+“I am alright!” the woman called out and continued her battle.
+
+Good, Ilea thought and blnked, slashing through the knights before focusing on the king himself.
+
+A barrier formed in front of him, cast by the priest.
+
+She turned to address the problem when a woman in a blue dress jumped out of the smoke, landing on the man. They tumbled down before her teeth found his neck.
+
+See, vampire! Ilea thought with a smile. She watched as the woman patted out the flames clinging to her dress.
+
+Her eyes looked wild, fresh blood dripping from her mouth as she took in her surroundings.
+
+“That guy,” Ilea said and pointed at the king, no longer protected by barriers.
+
+A few spears rushed out, deflected by the large arms.
+
+The response was spikes of blood forming below them as the beast roared.
+
+Ilea appeared in front of the woman, taking the brunt of the force.
+
+“Want a bite?” she asked and smiled at the vampire.
+
+“Certainly,” she replied.
+
+Ilea grabbed her, aimed and threw her right at the creature’s head.
+
+Two daggers stabbed into its eyes, the woman using the momentum from the attacks to propel herself upwards.
+
+A blink brought her next to the screeching monster, its open maw expecting the falling prey. A charged up Absolute Destruction sent it reeling to the side.
+
+The vampire landed on its shoulder, her eight fangs finding purchase on the mangled flesh.
+
+She drank the beast dry in mere seconds before falling down and catching herself on her feet.
+
+“It is done”, she said, looking around herself before she collapsed to one knee.
+
+Ilea appeared next to her, lifting her hands when the woman recoiled. “No worries. I’m a healer,” she said.
+
+“It will heal. There is no need,” the woman said and took a step back.
+
+“Ah, you can regenerate too, nice,” Ilea said with a knowing grin. “Can you lose your head too?”
+
+“In theory yes, though I would rather not find out. Why, can you? ” the woman asked, grinning now too. Her eyes were glassy and her mouth hung open just a little.
+
+“You’re drunk, aren’t you?” Ilea asked before she laughed.
+
+“No! I am not! Just curious, is all,” the woman said, clearly drunk.
+
+Ilea shrugged and ripped off her own head with a few ashen limbs, forming a new one near instantaneously.
+
+This would have to remain a secret but somehow she had a feeling that this woman could be trusted.
+
+Ariane just stared, apparently at a loss.
+
+“Huh, I did not expect a demonstration. Perhaps one day, I shall develop the power to erase selective memories. That would be nice.”
+
+“Want a bite?” Ilea asked and threw the head, ignoring the comment on memory loss.
+
+The woman stumbled back but caught the thing, looking at it for a moment before she giggled.
+
+“Made you lose your head in five minutes, heh. Who are you… really?” she asked.
+
+“I told you, I’m Ilea. I was brought here from Elos and I intend to go back,” Ilea replied.
+
+“Ilea… well met! I am a vampire as you have previously deducted. Do you perchance have a way to travel through the planes?” the woman asked.
+
+“Nice to meet you too, Ariane. I can only return to my own realm. Maybe one of the mages here can help out,” she suggested.
+
+“The mages! Yes! How could I forget?” Ariane said and glanced around the hall in frantic motions.
+
+“I have no clue either, sorry,” Ilea said and shrugged.
+
+“I found one,” Ariane said and sped off, into the setting smoke and debris.
+
+A scream and a short scuffle later, she returned, holding up a man by his neck. Her claws were digging into his flesh, drawing blood.
+
+Ilea discreetly healed the man, just in case.
+
+“Return me to the United States, promptly!” Ariane demanded.
+
+“We can’t… the magic required… it would take decades,” he murmured.
+
+“I can supply it,” Ilea said. “You just provide the magic circle.”
+
+“Can we trust this… creature?” Ariane asked.
+
+Ilea shrugged. “No. Definitely not but do you have another idea?”
+
+“The circle is simple… I understand it, studied it… for decades… please, let me live! I can bring you back,” the man said.
+
+Ilea could feel his distress.
+
+“You want to live, don’t you? You are a powerful mage, are you not?” Ariane said.
+
+Ilea could see the magic form but she couldn’t quite tell what was happening.
+
+“Yes I do. I am, quite powerful. Wiser than even King Abel!”
+
+“Then you would surely be able to bring us back to our realms. To protect your own people,” she said.
+
+“Yes, of course. The magic… it is impossible,” the man stammered out.
+
+“With her help, it may be possible. You would be a hero! Having banished the monstrous creatures that have murdered your king!” Ariane continued.
+
+She’s good, Ilea thought. The man was in her palm, dancing to her tune. She gave her a thumbs up.
+
+“I will get right to it! Only small modifications need to be made… but I can only send you back from where you have come… nowhere else,” he spoke, scrambling to his feet after being let go by the woman.
+
+“Impressive powers. Does that come with the vampire class?” Ilea asked.
+
+“Class? I know of no such thing. What are you? If I might ask?” Ariane said.
+
+“I’m a human. So are you, by the looks of it. You said United States... of America? I’m from Earth too, though I don’t exactly call it home anymore. The place I’m from has magic and monsters. And quite a few opportunities to find power,” Ilea said.
+
+“Human… you looked more monster than woman,” Ariane said.
+
+Ilea wondered why she looked sad all of a sudden. “You too. Well, sometimes you just have to let it out, you know? Feels good to let loose and these fuckers deserved it. So, ready to go home?”
+
+The man motioned them to join him, the modifications to the magic circle done.
+
+“If I might ask... would you… would it be fine for you if… if I drank a little of your blood?” the vampire asked, glancing down at the head she was still holding.
+
+“Knock yourself out,” Ilea said. “But it does feel a little uncomfortable seeing you hold my head.”
+
+The woman handed it back, a longing look in her eyes.
+
+Ilea stored it, planning to incinerate it later. “This should suffice for blood,” she said and punched through her own chest with an ashen limb, ripping out her heart and handing it to the vampire. “A parting gift,” she said with a bright smile, her wound healing already.
+
+“Erm, thank you, Ilea of Elos. It was... an experience to make your acquaintance,” Ariane said and gingerly held the heart.
+
+“Ready?” Ilea asked as the woman stepped into the circle.
+
+Ariane nodded. “Until we meet again,” she said.
+
+Mana flowed from Ilea into the circle as the man activated the spell.
+
+The vampire vanished a moment later.
+
+“What… what happened?” the man asked as he looked around.
+
+“You should probably think about solving your own problems from now on,” Ilea said and activated her third tier blink. She watched him run away, dodging the corpses and blood as he screamed. Just another Wednesday.

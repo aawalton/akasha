@@ -1,0 +1,133 @@
+---
+id: d3acdd43-04dd-5c38-b672-6a8882c6d22b
+page-type-slug: story-chapter-royal-road
+title: "8. Power Ladder"
+slug: 0008-8-power-ladder
+partOf: breaker-of-horizons
+position: 8
+ownLength: 1896
+unit: words
+publishedAt: 2020-05-28
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/502411/8-power-ladder"
+royalRoadId: "502411"
+---
+
+There was a definite change in the way the rest of us viewed Kevan now. My initial impression of him had been a laid-back, happy-go-lucky individual who wasn't serious about his studies. I had wondered how someone like him even managed to get into the Academy in the first place. I made the classic mistake of judging a book by its cover.
+
+He refused to explain how he had beaten Jerric. "Watch me duel with Lynus and see if you can figure it out," he smirked.
+
+"Do I have to?" Lynus' grumbling was obviously in jest. He was already rolling up his sleeves and stepping forward, looking determined.
+
+"You were on the receiving end," I said to Jerric as he came over to where the rest of us had been observing the duel at a safe distance. "What did you see?"
+
+The frown on Jerric's face was equal parts disappointment and frustration. "I didn't see anything. I think maybe he shifted the bolts out of the visible spectrum."
+
+As far as I knew, in student duelling circles there were no widespread glyph sequences that featured something like invisible bolts. That meant Kevan had either picked it up somewhere or it was homebrewed. If it was the latter, that would be seriously impressive.
+
+The duel between the brothers had a completely different energy to it. After they conjured up the body shields and I counted down for them, they simply waited. Neither of them had prepared any defences or started any offensive weaving. The tension in the air was almost palpable.
+
+"I don't believe it," Jerric whispered after a few seconds.
+
+"What?" I looked from him to the two brothers who were still facing each other, unblinking.
+
+"Look closely. The air between them," Jerric pointed.
+
+Ambrose nodded, looking very impressed. "It's almost perfect."
+
+Devon and I squinted, and it took me a few more seconds before I finally saw a faint flicker, like a wisp of a heatwave, but even subtler. Once I spotted that, it was a little easier to pick out more of such disturbances in the air. Even though I knew what to look for, it was hard to follow.
+
+"What is that?" Devon asked in an awed whisper.
+
+"I think they're the standard bolts," Ambrose explained. "It's just that they've been made invisible like Jerric said."
+
+"How are they doing that?"
+
+"Our vision depends on light in the visible spectrum," Ambrose continued, his eyes still fixed on the battle. "So one way you can make something invisible to someone is to shift the wavelength. I'm guessing they isolated the glyphs that manage the colour of the standard bolts, then modified those. But whatever they're doing, it's not perfect, which is why we can still see something."
+
+This was the chattiest I had ever seen him over the last two days, and he clearly knew his stuff. If what I had seen in the logbook earlier was anything to go by, it seemed that Ambrose had a particular interest in duelling.
+
+Jerric snapped his fingers. "So that means they're doing that for their shields, too. The one I brought down in my fight was just for show. And Kevan's obviously capable of bending the bolts like me, too. Damn, I really underestimated him."
+
+"I think we all did," I muttered.
+
+Devon shook his head. "This is crazy. How are they even defending against bolts they can't see?"
+
+"You can still see them, you just need to pay really close attention," Ambrose said.
+
+"Figured it out yet?" Kevan called out nonchalantly. He took his eyes off Lynus for a moment to glance at us and in that instant the air around him rippled violently. His attention immediately snapped back to his brother.
+
+Lynus laughed. "Don't show off too much, Kev, you're not that good."
+
+"Better than this lot. Let's switch to standard bolts and show off a bit."
+
+Lynus snorted, but a moment later the air between them was filled with dozens of flying projectiles as the two brothers switched out their arsenal. My jaw dropped.
+
+The duel between Kevan and Jerric had been slow and methodical, taking place in obvious 'rounds' as they took turns to attack and defend. That was the way most student duels ran. What was happening now between the brothers was on a whole different level, and it made the earlier duel look as simple as two children gently tossing a ball to each other.
+
+Both brothers hadn't thrown up an all-encompassing shield, and they weren't maintaining any smaller stable barriers either. Planes of force were being brought into existence in mid-air for just a split second — long enough to deflect an incoming projectile - before being permitted to shatter or dissipate.
+
+And even though they were using standard bolts, I could see that they were being directed with a ridiculous level of control. Arcing a bolt required adjustments to the glyphs that managed the amount of arcana, the density, the spread, the speed, and a myriad of other factors that could affect its trajectory. Getting it to arc in a specific way required some actual math, which was why Jerric's bolts followed a perfect parabolic path.
+
+The brothers were somehow making their bolts fly almost like they had minds of their own, even making hairpin turns. As much as I knew I had underestimated Kevan, I didn't believe anyone could make calculations and modifications that quickly. There had to be a trick to it.
+
+I turned to look at the others. Jerric and Devon were as flabbergasted as I was. But the expression on Ambrose's face took my mind away from the spectacle.
+
+He didn't look surprised or awed. His eyes were tracing the movements of the bolts with practised ease, and he seemed to be cooly assessing the fight in the same way a teacher might be evaluating a student. In fact, as absurd as it seemed, I thought it looked like he was even a little disappointed now.
+
+Just how far off-base were my initial impressions? Kevan and Lynus turned out to be duellers of a totally different class, and Ambrose appeared to be in some even more nebulous upper league if his demeanour was anything to go by.
+
+Kevan finally pointed an open palm at Lynus — the first physical gesture of the battle so far — and a single beam blossomed from his hand. Lynus seemed to know what to expect because instead of just briefly flashing a shield into existence, he created several layers of shimmering discs that rotated around him. Just before the beam reached him, it fragmented into smaller shards that cascaded over the shields, trying to worm their way in. Lynus' shield storm, for lack of a better term, caught all of them. Then, inexplicably, all his armour flashed red with fatal hits. He sighed and raised his arms, conceding defeat.
+
+The brothers came to join the rest of us at the edge of the chamber. Jerric and I applauded while Devon cheered and hollered. Out of the corner of my eye, I saw Ambrose join the clapping a moment later.
+
+"That was ridiculous!" Devon yelled, his face a little flushed. "Never seen anything like that, what the hell guys!"
+
+"It's amazing work," Jerric shook his head in disbelief. "I don't even think I understand all of it. What happened at the end?"
+
+Lynus huffed. "Yeah, I'd like to know that too. I thought I finally found a way to beat that beam."
+
+"Trade secret," Kevan grinned. "But it was a pretty good shield solution."
+
+"Where did the two of you learn stuff like that?" I asked.
+
+"Our prep school has a heavy emphasis on thaumaturgy." Kevan seemed to be really enjoying the awestruck looks. "Ly and I got a pretty good grounding there, and the rest of it we figure out in our spare time. Duelling is sort of our hobby."
+
+Lynus snorted. "It's a hobby for me. For him, obsession is a better word."
+
+"Mind if we go a round?" Ambrose said suddenly, looking at Kevan.
+
+The rest looked at him in surprise. I was a little taken aback at the sudden challenge, but I had a feeling that he would be able to hold his own.
+
+"Sure," Kevan shrugged as he moved back into the centre. Ambrose trailed behind almost absentmindedly.
+
+The usual body shields materialised around them as they faced off. Kevan looked relaxed. It was clear that he didn't think much of Ambrose. Honestly, if I hadn't picked up on his strange behaviour, I wouldn't have counted on Ambrose ever being able to beat Kevan either. Kevan looked the part - an athletic build, good posture, confident stance. Ambrose was a less impressive figure. He was a little on the reedy side, and he was slouching a little, wearing an expression that looked like he was trying and failing to remember something important.
+
+I gave the countdown. "Three, two, one, start!"
+
+Now that I knew what to look for, I could see the air rippling almost immediately. Lynus made a noise of approval. "Quick learner. And good eye. Took Kevan and me ages to read the air well enough to spot incoming bolts."
+
+Kevan looked a little less relaxed now since he hadn't expected Ambrose to be at least as good as his brother. A handful of seconds passed and it looked like they were evenly matched.
+
+Then, Ambrose took two steps to the left.
+
+Immediately, the rippling in the air around him diminished substantially. I saw Kevan's eyes widen in surprise, and he shifted two steps to the left to stay in line with Ambrose.
+
+"Hang on," Lynus said, leaning forward and staring at Ambrose. "He doesn't need...?"
+
+Ambrose was moving again, slowly side-stepping back and forth. Whenever he moved, Kevan tried his best to mirror him. Every time Ambrose's position shifted, the barrage on his shields faltered. They only picked up again when Kevan made adjustments to bring himself into the same relative position as before. In contrast, the attack on Kevan never faltered.
+
+It dawned on me. "Your glyph sequences for the bolts are fixed."
+
+"Well of course they are, how can you make such complex adjustments on the fly?" Lynus said. "We prepare the sequences beforehand and choose which ones to use depending on the situation."
+
+"He seems to be managing it fine," I said, pointing at Ambrose, who was now slowly walking towards Kevan, who was backpedalling furiously to maintain the original distance.
+
+"I know... it's incredible." Lynus' eyes were alight with wonder.
+
+Kevan's defences were swiftly deteriorating. Ambrose had backed him into a wall and Kevan was trying to skirt around the edges to keep the distance, but the movement was costing him precious concentration and he wasn't keeping up with the adjustments he had to make to keep Ambrose at bay.
+
+The end, when it came, was swift. There was a huge disturbance in the air around Kevan as he tried to stave off a serious barrage, and then his shields collapsed all at once and his armour turned red.
+
+"Holy shit," Kevan gasped as he was driven to his knees. He looked up at Ambrose, who was holding a hand to help him up. "Where the hell did you learn all that?" he asked as he took it and got to his feet.
+
+"Trade secret," Ambrose grinned.

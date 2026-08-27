@@ -1,0 +1,161 @@
+---
+id: 7c1f6839-8e53-5b97-95cf-6d18542706f3
+page-type-slug: story-chapter-royal-road
+title: "v7c27: A Fine Day for a Conspiracy"
+slug: 0280-v7c27-a-fine-day-for-a-conspiracy
+partOf: beware-of-chicken
+position: 280
+ownLength: 2351
+unit: words
+ownProgress: 2351
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3021091/v7c27-a-fine-day-for-a-conspiracy"
+royalRoadId: "3021091"
+markedReadAt: "2026-06-29T19:01:02.284Z"
+---
+
+The previous day:
+
+It began, like all good conspiracies, at a party.
+
+The Lord Magistrate of Verdant Hill watched from the upper balcony as guests began to arrive, escorted by lantern bearers through the darkening streets. They shouted and danced, and music resounded throughout the streets.
+
+There was no possible way it could have been some shadowy, clandestine meeting given the sheer number of people coming to hear what the Azure Jade Trading Company had to say. It could never be. Instead, it was simply declared as a party to honour business partners.
+
+The rich and powerful of the Azure Hills arrived in their grand carriages, alongside the noble families of Pale Moon Lake City. They were a whirlwind of silk and perfumes, men launching subtle and unsubtle verbal jabs at each other, a war of words already underway. They gathered in their factions, presenting united fronts to rivals, joined by their wives. And though most were silent, the ladies had entire conversations in the court’s fan-language, flashing colours back and forth at astounding speed. The old money and those of noble blood had a thousand little feuds with the new up and comers, men who had made their fortunes through grit and determination.
+
+Scholars and scribes arrived in their best robes, their hair immaculately combed, as they sought to present their best selves to the movers and shakers of the province. They watched where the wind was blowing, carefully waiting for opportunity.
+
+Hundreds of servants worked the kitchens, took cloaks, and tended to their masters. Their clothes were all fine, with the top-ranking servants even wearing silk, for if a master could clothe even their attendants in such, then surely they had wealth to spare. They came in all colours of clothes, but they were dominated by the blue and green robes of the Trading Company.
+
+And underneath all of this, the dance of politics was already in full swing—a dance the Lord Magistrate hadn't truly witnessed for some time, but it was all coming back to him.
+
+Those who had not been invited sent their own agents to buy off servants, or insert their own people into the proceedings; standard practice for the city, and for those who wished to be the first to know all the juicy details. Those more patient, or those with a less adversarial position towards the company, were generally content to wait and purchase their information afterwards.
+
+It was a day that favored the patient. The Azure Jade Trading Company was being particularly thorough in their checks. The agents and purchased men and women were swiftly and quietly rebuffed by company security, who were themselves accompanied by a nondescript partner with no identifying information on them… save for a few, whose robes were decorated with plum blossoms.
+
+They really were lucky that the Plum Blossom’s Shadow were their allies.
+
+The Lord Magistrate took a deep breath and let it out slowly. They had done everything they needed to for the moment. Now it was time to mingle.
+
+“Are you ready, my dear?” he asked his wife.
+
+“Of course,” she replied, taking his arm.
+
+“Yanjing?” he asked.
+
+The Auditor-General looked up from the sheafs of paper and scrolls in front of him. “I’ll need another hour with these, but they’ll be ready by the time dinner ends,” he confirmed.
+
+“Xue Ji?”
+
+The fox woman simply smiled slightly. “I am ready, Lord Magistrate.”
+
+They left Yanjing to it, and descended the stairs together, Xue Ji staying a respectful distance behind them. There was to be at least some pleasure before business. They went to the hall, where the guests were mingling and set about mingling themselves.  t had been thirty years, and they were a bit rusty, but they soon found themselves having slipped back into things. They did, however, keep his wife’s name secret for now. The time for that would be later.
+
+It came easily, and the Lord Magistrate felt a certain amount of pride that they still had it. After decades of not really getting to verbally spar with peers, it was most enjoyable, and it allowed him to take the measure of those who might be supporting them.
+
+He met shipping magnates, noble families, and some of the up and coming younger generation of scribes. Most of the people were here because of the Trading Company—but the Lord Magistrate had some allies of his own. There was a reason he had been confident enough to consider coming without all this support.
+
+“Oh, who is this I see? You’ve gotten old, brat,” a rasping voice scolded.
+
+The Lord Magistrate turned and smiled at the rough, annoyed voice. “This one pays his respects to the Lord Director.” He bowed deeply to the Lord Director of Civil Service Examinations. The man had been old when the Lord Magistrate had been in school; now, he was positively ancient. His hair was shock white, and his eyes were dark blue, almost purple. He had a few freckles dotting his nose and cheeks even in his old age. “Words cannot describe my happiness at seeing you again, sir.”
+
+The man had been his mentor in more ways than one, and out of everyone in Pale Moon Lake City… this was the one he actually regretted disappointing when he gave up his chance to go further.
+
+The Lord Director knew every Lord Magistrate and every other Lord Director of the province personally. It was he who issued the examinations, and he was the one who stood beside the Lord Governor when a new Magistrate was invested with power. The Lord Director was an aloof man; he considered himself largely devoted to the academic rigour of the next generation, and it was thanks to his efforts that the Pale Moon Lake City Archives were as well-maintained and funded as they were.
+
+His position was by necessity a neutral one; he favoured no clan or faction, but neither did he stop his students from joining factions. He only intervened in rare circumstances—and when he did, his voice was heeded.
+
+The Lord Director sized him up, and his wife.
+
+“Hmmm, looking good for a crippled woman,” he said lightly, instantly recognising her.
+
+“The northern air agreed with me, Lord Director,” she said with a smile, bowing to the man as well.
+
+He nodded, and then turned to glance at Xue Ji. He blinked, rubbing at his nose. Something in his gaze shifted for an instant, and then it was gone.
+
+The Lord Director returned his attention to his once-student. “You’ve done well for yourself, Lord Magistrate. I have kept an eye upon the revenues of Verdant Hill—fine work, boy… but now, after thirty years, you come here to me, asking for a favour? Too shameless.”
+
+“It is indeed shameless, My Lord. But a father must use every tool in his arsenal to aid his son, no?” he replied.
+
+The Lord Director nodded at his words, his gaze sharp. “Yes. The Special Inspector and Acting Lord Magistrate of Grass Sea City. I know him. I have followed his progress. It is I who have assisted in delaying his replacement; the fools thought he would flounder and destroy the city’s industry. I knew better. He is just what the city needed,” the old man growled. Then he huffed,  “His Imperial Majesty's government of the Azure Hills lost the talents of the father. It shall not lose the talents of his son to underhanded means. But tell me, what arrows have you in your quiver?”
+
+The Lord Magistrate smiled, and then leaned in to whisper. “Sheng Yanjing.”
+
+The Lord Director’s eyes widened. Then the old man chuckled, which turned into a laugh. “You—that boy was—and he is with you?!”
+
+“Upstairs right now, going over some figures for later tonight.”
+
+The Lord Director of Civil Service Examinations smiled.
+
+“Ah, there's a good lad,” he said, patting the Lord Magistrate's hand. He gave one more look to Xue Ji, scratching at his nose again. “I never did have to worry much about the boy who used to serve me tea—it appears I still don’t. His judgement is quite sound.”
+
+“Thank you for the praise, Lord Director,” the Lord Magistrate of Verdant Hill said again.
+
+Ah, he had quite missed this man’s particular praise.
+
+They met with three more people whom the Lord Magistrate had invited. The Master of Pale Moon Lake City Ports, the retired Lord Commander of the Pale Moon Lake City Guard, and the owner of Qingming Caravans… one of the largest cart makers in the city, and the man whom the Wu family brought exclusively from.
+
+Then it was time for dinner.
+
+The Trading Company, naturally, pulled out all the stops… which meant that most of the food served was from his student’s farm. It was quite amusing, dining on the taste of home and hearing everyone else rave about how delicious the food was. Honestly, the cooks here were good, but the results were nothing compared to Wa Shi’s delicacies.
+
+And then, after all the guests were fed and watered, Guan Ping rose to his feet and clapped his hands.
+
+“I trust you are all satiated?” the Master of the Trading Company asked, and he received a cheer in response. He chuckled. “Then, if you would please follow me to a more intimate setting, so that we may have some drinks and discuss business.”
+
+===============================
+
+Most of the attendants were dismissed, as the leaders of various noble houses and companies were led into a well-appointed and, most importantly, secure meeting room. The good mood and atmosphere of the feast had faded, and now, there was a charged tension.
+
+“You know why we are gathered here,” Guan Ping said, his voice deceptively gentle. “We are all concerned with the rise of the Wu Clan. They are ascendant after the strongest of their rivals met their end at the hands of the Azure Heroes. If we fail to stop them here, they will dominate the mortal affairs of the Azure Hills for centuries to come. Gentlemen, I doubt any of you wish for this to come to pass.”
+
+There were murmurs of assent, but it was hesitant.
+
+“You said you had a weapon to use against them, Ping,” said one of the nobles, the Lord of the Xu Clan. “To bare one’s fangs at the Wu Clan is no small thing—and should we fail to slay the tiger with our arrows, we shall surely be eaten.”
+
+There were more noises of assent. The Lord Magistrate looked into the crowd.
+
+All here were out for themselves. If they thought the plan wouldn’t work… then nobody here would hesitate to sell them out to the Wu Clan in hopes of getting better terms from them.
+
+Which is why they needed things to be persuasive.
+
+“And that is where we have more than just a weapon. Lord Magistrate. Lady Wu Zei Qi.”
+
+That caused quite a reaction as the two of them stood and walked to the head of the table. Their eyes sharpened as they realised that things were about to get interesting.
+
+“The Lord Magistrate of Verdant Hill greets the esteemed gentlemen of the Azure Hills,” he intoned. “It was actually at our request that the Azure Jade Trading Company began to mobilize—as the Wu Clan have broken all bonds between us.”
+
+“They appointed my son to the office of Special Inspector…” his wife continued for him, injecting ice cold fury into her voice. “With the goal of having him killed. When that ploy failed, they then sent the Auditor-General into our home.”
+
+There were noises of outrage at that—at the overstep of sending the Auditor-General that far north just to try and step on a Magistrate of his position.
+
+“Thankfully, the Auditor-General was… unimpressed with the Wu Clan’s ploys. Their attempt to use his august station as a political bludgeon was too much for that honourable man,” the Lord Magistrate continued. “And so he has thankfully given us his assistance.”
+
+With that, Sheng Yanjing, who had been lurking near the back, stepped forward and allowed himself to be seen. He placed his papers down on the table in front of him.
+
+“These are the discrepancies in the publicly available records; after Lady Wu informed me how they hide certain expenses, a pattern appears. This alone is a scandal,” the Auditor-General stated. “But we require more than scandal, do we not?”
+
+“They have broken all bonds, so this one has no choice but to respond in kind. We have confirmed, with the aid of the Plum Blossom’s Shadows, the location of every safehouse and storehouse the Wu Clan possess. Every single one of their secret suppliers. Every plantation and summer home.” The Lord Magistrate held the eyes of every man and woman in that room.. “And furthermore… we have a way to get into their main record halls.”
+
+His words made the room suck in their breath.
+
+This was indeed a weapon that would bring the Wu Clan low. Maybe even destroy them—and everyone in the room knew it.
+
+“We would ask for these esteemed guests' assistance in these matters. To lock down and secure certain areas. To make sure that the transition of power is smooth.”
+
+Their attention was captured. His words had to be the sweetest of honey to them.
+
+He had them.
+
+“What is your plan, Lord Magistrate?” one of the shipping magnates asked.
+
+“Firstly, there shall be a distraction,” the Lord Magistrate began.
+
+====================================
+
+The next day, the head of the Wu Clan, his daughter, and the Master of the Treasury marched out from the Wu family compound, with the majority of their guards, heading towards the Azure Jade Pavillion.
+
+Ten minutes after they left, Sheng Yanjing, Auditor-General of the Azure Hills, marched up to the compound’s walls, half the Pale Moon Lake City Guard behind him, a seal in his hand, and demanded entry to the compound.
+
+Five minutes after that, he was let in, where he showed a disturbing familiarity with the clan compound… including where a spare key to get into the Wu Clan’s secret family vaults was stored.

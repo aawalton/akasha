@@ -1,0 +1,107 @@
+---
+id: 8c0bb61d-bb37-5473-8be0-9d7af374c32e
+page-type-slug: story-chapter-royal-road
+title: "86. Violent Resolutions"
+slug: 0086-86-violent-resolutions
+partOf: breaker-of-horizons
+position: 86
+ownLength: 1687
+unit: words
+publishedAt: 2021-02-25
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/637359/86-violent-resolutions"
+royalRoadId: "637359"
+---
+
+The sobs continued for what felt like a long, long time, even though it was probably just a few moments. Jerric had retreated into himself as he numbly surveyed the confused and panicked spiral of Kevan's thoughts playing out around them. Devon had made several fruitless attempts to calm the tangled-broken-power, but it was becoming increasingly clear that this was beyond their ability to mend. Kevan didn't seem to be cognizant of what was happening anymore.
+
+'Oh, Jerric...' Devon's tone carried a hint of admonishment as he drifted a little hesitantly over to Jerric's mote. 'Ly is going to flip.'
+
+'We can probably get the augera to fix this,' Jerric replied in a deadpan.
+
+'Maybe. But this is going to leave its mark.' Devon's focus shifted as he drew closer to Jerric. 'What about you? Are you alright?'
+
+That was a difficult question to answer. On one hand, the sense of cold purpose that had suffused him earlier had been wonderful, intoxicating. It felt good to be so in control, to feel so self-assured and powerful. But now, all he could see was the damage he had left behind. Kevan's auric-ambient-flare wasn't as badly ravaged as Caden's had been, but there were similarities in the destruction. He couldn't help but pick out all the ways in which his touch had been as damaging as the corrupted augera's had been on Caden.
+
+'I did this.' His mote shuddered.
+
+Devon radiated a little sympathy before injecting some urgency into his tone. 'Jerric... we need to check in on Caden and the augera. Kevan said Lynus–'
+
+'Take us there,' Jerric called out wearily.
+
+'Uh, I don't know how to–'
+
+'Not you,' Jerric interrupted gently, but his tone sharpened when he continued. 'The woven-shackled-stream. I know you can hear us. Take us there.'
+
+'Greater good must be served.' The augera's presence filled the space, catching Devon off-guard, but Jerric seemed completely unfazed. 'Cold-strong-watcher has done well. Can continue to do well.'
+
+The broken psyche of Kevan that was all around them suddenly shrank in size. They were both seized by a great sense of vertigo as their perspective was forcibly adjusted, sending them hurtling out further and further away from Kevan's core until they could no longer trace the details of his thoughts. Dimly, they became aware of Caden's auric-ambient-flare, drifting nearby.
+
+But all of it was overshadowed by the raw substance of the woven-shackled-stream itself. They had been brought closer to it now than they had ever been before. Their first meeting with it had given them the impression of a blazing sun, but now they were so near that it was possible to discern the vague shape of vast eddies of fiery thought, ineffable in their mystery, and so ancient that they invoked a sense of utter insignificance in all who glimpsed these threads.
+
+Jerric could scarcely imagine what the Fateweavers had to go through to fashion the shackles that kept this augera in place. And what hope did Lynus have of thwarting this eldritch entity?
+
+But there he was — the bitter-proud-pain mote silhouetted against the overwhelming essence of the augera.
+
+'What's he doing?' Devon had drawn himself protectively into a tighter ball, bracing himself against the constant wash of power that was emanating from the augera. Jerric was doing the same. It felt like leaning into a storm.
+
+'I don't know,' Jerric replied, a little worried. Lynus didn't appear to be struggling very much at all.
+
+'Okay, so, are you going to... you know...' Devon trailed off, sounding fearful.
+
+'No.' Jerric's reply was firm. 'I don't think I can do something like that again.'
+
+Without waiting for Devon to respond, Jerric surged ahead until he was close enough to communicate with Lynus over all the environmental noise.
+
+'Lynus.'
+
+There was a brief pause before Lynus' mote showed any sign of acknowledgement. It unfurled slightly, and Jerric realised that Lynus had been keeping a tight rein on his spillage. Now, he allowed a little of his raw thoughts to bleed out to facilitate clearer communication.
+
+'I know what you did.' There was a complex mix of respect, regret, and deep, deep anger.
+
+'It doesn't have to be this way.' Jerric was firm and implacable, but he tried his best to be non-hostile.
+
+Lynus seemed to acknowledge his restraint. A little of the anger bled away. 'I'm going to assume Kev didn't do a good job of explaining the stakes. Will you at least hear me out?'
+
+'Actually, he did the best thing he could do. He let me review his memories. And I still think you're both making a mistake.'
+
+A bit of surprise, and then anger and indignation swelled in equal measure. Lynus' mote bristled. 'Yes, because you're a clever guy, and we're just the jerks who don't know any better.'
+
+'Lynus, I–'
+
+Before either Devon or Jerric could react, Lynus' mote disappeared entirely.
+
+'Where'd he go?' Devon asked, frantic.
+
+Jerric didn't waste any time on a verbal response. He sent a flurry of images over to Devon to remind him of the time they had tried to find the Demiurge's position in an arcanic space, and the two of them quickly went about trying to repeat their feat. But the presence of this particular augera was especially difficult to work around.
+
+'Help us!' Jerric spat at the augera, frustration and fear welling up within him. Just before Lynus vanished, Jerric had caught a strong whiff of iron determination and the dreadful certainty of some terrible decision being made. Whatever it was that Lynus intended to do, it felt like he was certain that it was going to work. Jerric couldn't even begin to imagine what plan he had concocted to thwart the augera.
+
+'Try,' it replied simply, but beneath that single word was an ocean of melancholy, of resignation, of hope.
+
+The panic was threatening to overwhelm Jerric now. He had nothing to work with! There wasn't even the faintest theoretical framework he could lean on to try and figure out how to get a handle on what Lynus wanted to do. There was no way to head him off without knowing what he intended. And none of his tricks and ideas was helping him to find Lynus in this nebulous space.
+
+'JERRIC!' Devon's call was filled with urgency and fear. Jerric's attention snapped to his friend, and the world around them spun horribly before he could even register what was happening.
+
+His consciousness was forcibly returned to his body, and the abrupt transition from the arcanic space to the world of flesh, blood, and bone was so disconcerting that he even forgot how to breathe. He twitched and spasmed around on the floor, clutching his throat desperately as his lungs burned, and then all at once, the world around him made sense again. He drew in a desperate lungful of air, but it was interrupted by the acidic bite of vomit as he heaved up whatever was in his stomach.
+
+Somewhere out there, he heard other people in similar states of distress. Jerric tried to get up, but the best he could manage was to get on all fours as he struggled to clear his mouth and breathe normally again. He swung his head around, trying to get a sense of what was happening.
+
+There was Caden, his body slumped on the floor near Devon and Kevan. Devon was still writhing on the ground, retching, while Kevan's body lay still and unmoving. That left–
+
+Jerric found himself being flung aside by a weak arcanic bolt. It wasn't much by regular standards, but it was enough to send him sprawling in his weakened, unguarded state. He slid through the mess he had left on the floor and came to rest with his back against the wall.
+
+Lynus was up on his feet. He looked just as bad as Jerric felt, but somehow he had managed to regain his bearings a lot more quickly. And he was now staggering over to Caden's prone form, with a flash of silver in his hand — a knife pilfered from Devon's dinner table.
+
+"NO!" Jerric couldn't move, but that didn't stop him from flinging a wide barrage of arcanic bolts at Lynus. Most of them skittered off barriers, but it forced Lynus to stop and face him. Before he could marshal any reprisal, Jerric followed up with a wave of force channelled through the floor of the Spire. Lynus lost his footing and fell face-first onto the marble floor. The silver knife went skittering away.
+
+At the back of Jerric's mind, he wondered: why a knife? Wouldn't a simple sequence have been enough to end Caden's life?
+
+But there was no time for that now. Lynus was prone, but he was still dangerous. Without bothering to stand, he was pummelling Jerric with wave after wave of heavy arcanic bolts, and it was all he could do to keep the deadly barrage at bay with a mixture of his own arcanic bolts and hastily-erected barriers. Lynus had always been the better thaumaturgist. Fear and despair threatened to choke Jerric, but he forced those emotions down with sheer will as he slid into his cold, dispassionate state again.
+
+There was no way he could win this arcanic slugfest. But through the tears in his eyes, the glint of silver on the floor behind Lynus caught his attention.
+
+Abandoning his counter-barrage entirely, Jerric threw most of his attention into shoring up the thickest, sturdiest shield he could manage. But a sliver of his mind went to that knife. It wasn't even a proper arcanic bolt — just a sharp, calculated burst of arcana. The knife shot across the floor towards Lynus' throat.
+
+At the last possible moment, Lynus jerked aside and the knife embedded itself in his shoulder instead. He screamed in pain, and his coordinated assault fell apart. Jerric seized the moment and sent a heavy arcanic bolt smashing into him from directly above. Lynus' cry of pain was abruptly cut off.
+
+In the sudden silence that followed, all that Jerric could hear was Devon still retching. Then, he slipped into unconsciousness.

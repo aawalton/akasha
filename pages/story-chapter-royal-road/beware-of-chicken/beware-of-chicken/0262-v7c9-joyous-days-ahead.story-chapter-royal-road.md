@@ -1,0 +1,159 @@
+---
+id: d909d154-a10d-5301-a5cb-5e2bc06d6b75
+page-type-slug: story-chapter-royal-road
+title: "v7c9: Joyous Days Ahead"
+slug: 0262-v7c9-joyous-days-ahead
+partOf: beware-of-chicken
+position: 262
+ownLength: 2210
+unit: words
+ownProgress: 2210
+publishedAt: 2025-12-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2823602/v7c9-joyous-days-ahead"
+royalRoadId: "2823602"
+markedReadAt: "2026-06-29T19:00:24.149Z"
+---
+
+The Lord Magistrate of Verdant Hill leaned back into his chair with a contented sigh and a wide smile. Another year, another spring meeting complete—and another year of his subordinates’ praise, backdropped by his dear wife’s wonderful music. Truly, the highlight of every spring.
+
+His darling wife graced him with a smile and a wink as she entered his study, placing down tea and confections on his desk, and then sauntering over to place a kiss upon his lips.
+
+“A wonderful job as always, my love,” she whispered to him. “Truly, the Lord Magistrate is beyond all other men—in all things.” Her top opened just enough for him to see the slight abrasions from the ropes he had bound her with last night, and then quick as a flash they were covered again.
+
+His smile widened and his lady retreated, her hips swaying pleasantly. He was looking forward to his own session tonight. Truly, a more perfect day he could not imagine. She picked up her guzheng and began to play for him, allowing him to simply… bask.
+
+He had truly done a wonderful job, if he did say so himself; crop yields were increasing; mining was picking up, And all production quotas were met and exceeded. Verdant Hill was prosperous; the little villages had no damages to report, even after the… incident that had taken place up north.
+
+He was actually rather shocked that there hadn’t been any damage present. Oh, there were trees knocked down and upturned earth where Jin had fought, but all of it had been far enough away that no real damage had been caused. Every village was completely fine.
+
+There were only two symptoms of the battle that had reached here. The first was that a few more springs had pushed themselves up out of the earth, with three of them being hot mineral springs. They were all small and, according to his student, unlikely to grow or cause damage, so they were wholly beneficial. The second symptom was a minor increase in the frequency of torrents… but the Gutter took care of the flash floods of water, preventing them from swamping the villages nearby, like the Eighth Correct Place.
+
+Ah, all those herders and silversmiths had been most grateful for his construction of the Gutter once more. It was proving its worth time and time again.
+
+As good as last year had been, however, this year was shaping up to look even better for the entire commandery.
+
+Already, there were whispers in the halls. They spoke of their Lord Magistrate’s genius and benevolence in allowing the farmers to use the Bowu Machines, or just Bowu as the name was being shortened to.
+
+The planting in several villages was done in record time, and the farmers’ tongues wagged freely about the wondrous new things the Lord Magistrate had allowed them to use. There was much clamour about them, and each and every village was saving up so they could buy one outright—a couple of them already had, pooling their money together. Not just for the steam powered ones either. The Lord Magistrate’s student, Jin, had guided Bowu in the design of the plows, reapers, and seed drills as well and all could be pulled by an ox or horse instead of having to use the Steam Furnaces.
+
+They were already constructing a workshop in the town, where Bowu was teaching students how to make his machines. Every blacksmith in every village in the commandery was making a pilgrimage to the new workshop to learn how to repair the new artifacts, and the Lord Magistrate knew that there would be many, many more apprentices in the future.
+
+It would, eventually, bring a lot more attention to his little commandery—but with luck, by that point he would be retired somewhere nice or long dead! Known only as the legendary Lord Magistrate who had orchestrated it all, his statues and plaques raised forevermore in the town square, and his name resounding through the history of the Azure Hills!
+
+Him, the legendary Patriarch! Ah, it would be a sweet balm to his soul, wherever souls ended up.
+
+“Dear, you’re giggling to yourself,” his dear wife informed him, an amused lilt to her voice.
+
+The Lord Magistrate coughed and straightened up, pushing the pleasant thoughts away. Though, speaking of drawing attention, there was Mount Tai to consider…
+
+The sudden influx of immigrants, the Su Clan of the Howling Fang Mountains, had also been discussed at the meeting, and again he had been praised. They had skills the commandery needed, were not destitute beggars but had money and means, and were kin to the Nezin Tribe.  To his scribes, that made them a known quality.
+
+They didn’t know the actual history of their new neighbours.
+
+Having so many cultivators move in suddenly would have probably killed him a few years ago. He would have spat blood, keeled over, and died from stress. Or he would have just grabbed his wife, his horse, his pre-arranged hidden supplies, and fled back south.
+
+But familiarity had lessened the terror, and turned it into something slightly more manageable.
+
+….and having a pair of shields called “Rou Jin” and “Senior Disciple of the Cloudy Sword Sect Lu Ri” certainly helped.
+
+It gave him enough of a semblance of control that he could think of things rationally… and really look at them.
+
+He saw their bone-deep weariness. The quiet desperation.
+
+And their words… they truly wanted a quiet life.
+
+The wish resonated with him.
+
+They had also been nothing but polite and respectful, had followed his orders to the letter, and in general were model subjects. Miss Nezuhua had asked specifically what kind of festivals their commandery observed, any special events they could join, and inquired about the nature of the celebrations.
+
+Now, of course it could be a trap or some kind of long game. Such eager assimilation did seem a bit suspect to the cynical part of him, but the odds of that, in his opinion, were very low.
+
+Especially after the Lord Magistrate had stumbled across one of the Su clan in town on one of his walks; here with members of the Nezin tribe and Hong Yaowu.
+
+She was eating at a food stall with one of the local lads. Both of them were blushing up a storm, young love on full display.
+
+A boy who was the son of a cooper. Not anyone special, or connected with the Lord Magistrate’s government, just a young man and young woman getting to know each other. They hadn’t even noticed him… and the Lord Magistrate was certain that the moment was genuine.
+
+He didn’t believe that they would turn on their own families to do something to Verdant Hill. In addition to their history of being hunted, they just didn't seem like they ever would.
+
+It was enough that the Lord Magistrate had invited one of their number directly into his household—
+
+There was a knock at the door. “Lord Magistrate, Miss Xue Ji is here with her report.”
+
+Speak of Cao Cao. “Let her in,” he ordered and the door opened at his command, revealing a woman whose midnight black hair was tied into a rather severe bun. She looked like an average court functionary; her eyes were perpetually squinting, which lent her an air of steely judgement… and yet in spite of all of that she was still an incredibly beautiful woman. He could almost imagine her scolding him, and calling him a bad boy—ah, those thoughts were not appropriate. She was a cultivator anyway. Probably wouldn’t enjoy ropes.
+
+The woman carried in her hands several sheets of paper.
+
+“Lord Magistrate,” she greeted professionally. There was no nonsense to her. Only the perfect courtesy of a subordinate.
+
+“Miss Xue Ji. You have what I requested?” the Lord Magistrate asked.
+
+“Yes, sir,” she replied, setting the sheafs of paper on the table. She had come with a letter of recommendation from the Lord Governor of Howling Fang Mountain’s majordomo.  A woman holding official power in a Lord Governor’s retinue was quite unusual; it meant that she was good enough at what she did that most people were willing to overlook her sex. So the Lord Magistrate had put her to the test. “But this one must apologise; it is not her best work. She needs more time to get the lay of the province.”
+
+They needed a new supply route for all the iron the Bowu Machines would need; he already had a route in mind, but he wanted to see what she came up with.
+
+“That is fine, I merely wished to see how they do it in the Howling Fang Mountains,” he said as the woman handed over the papers, and then unfurled the map. The Lord Magistrate raised a brow. “You have multiple routes?” he asked.
+
+The woman bowed. “Yes, Lord Magistrate. The first route is simply the cheapest. I collected all available information, and this is, to my knowledge, the least expensive way of getting everything we require.”
+
+The Lord Magistrate noted the use of the word ‘we’. Interesting. Again, either subterfuge or earnestly genuine. How interesting.
+
+“The others?”
+
+“The second column is speed. The places where we can get the materials the fastest, but the cost will suffer accordingly. Realistically, we would probably use both of these places, especially if there are accidents.”
+
+“And the third?”
+
+“It cleaves closely to your current plans for commandery development, as described to me by your scribes. It will be more expensive, but everything will be local. I have taken the liberty of going through the archives and, using historic figures, included them in the developmental costs for roads and mines, as well as the possibility of using Young Master Bowu’s Iron Dragon. If not the Azure Express, then some steam furnaces for use as pumps in case the mines flood,” Xue Ji finished.
+
+The Lord Magistrate scratched his chin, considering the calculations before them. Everything looked perfectly accurate, was easy to read, described multiple options in case things went wrong, timetables… no wonder she got that glowing recommendation. This was effectively a refined version of the plan he had. She even had recommendations for specific members of his administration to oversee the project.
+
+“Not nominating yourself?” he asked with some amusement.
+
+“It would be improper of me to put my name forward, Lord Magistrate. I am still an unknown to you. A more trusted man should take care of this project.”
+
+Another point tallied in her favour.
+
+“You have exceeded my expectations with this task,” he finally decided, and the woman’s back straightened at the praise. “With that said, you are indeed an unknown to me, Xue Ji of the Su Clan. So how about we begin to remedy this? Come, sit, and have tea with us. I wish to hear of life in the Howling Fangs.”
+
+Xue Ji bowed politely. “Of course, Lord Magistrate.”
+
+“Excellent!” his wife cut in, striding over to sit beside the Lord Magistrate. “I have heard some most interesting stories—and do you have those darling ears and tail that some of your clan sports?”
+
+Xue Ji looked taken aback by the enthusiasm, before a small smile formed on her face. There was a pop, and indeed, a fluffy pair of ears and a tail appeared on the woman.
+
+The look was absolutely fetching.
+
+He spent a most enjoyable time speaking with Miss Xue Ji—on their lives, and the brothel which Miss Nezuhua had once run.
+
+“They put on fluffy ears and tails? Do you happen to have any left?” his wife asked, a spark of eagerness in her eyes.
+
+Miss Xue Ji’s eyes widened slightly, beautiful amber orbs locking onto Lady Wu, and then roving over her body. Xue Ji’s lips curled into an amused, fox-like smile.
+
+“The Su clan would be honoured to supply such things to My Lord and Lady,” she said, her severe countenance fading completely.
+
+They talked for a while more, until the Lord Magistrate had to beg off. They had a meeting with his student soon.
+
+“Thank you for your time, Lord Magistrate. I hope we can continue getting to know each other in the future,” Xue Ji’s smile was amused, her wordplay full of implication… but the deep bow was not faked.
+
+“Hmm. She's dangerous. I like her,” his wife decided after she left.
+
+The Lord Magistrate chuckled.
+
+And then they set off together, heading toward the designated meeting room. They were met in the halls by First Archivist Bao, as well as Sheng Yanjing, the Auditor General of the Azure Hills.
+
+The rotund Bao nodded pleasantly to the Lord Magistrate, and the Auditor General similarly inclined his head. Both fell in on the Lord Magistrate's flanks.
+
+A guard soon approached as well. “My Lord. Master Guan Bo and Lady Guan Chyou of the Azure Jade Trading Company have arrived with your student.”
+
+“Excellent,” the Lord Magistrate decreed.
+
+Lady Wu, standing arm in arm with him, covered the lower half of her face with a fan. Clouds and spring buds were painted beautifully upon it, declaring that the one who opened it foresaw joyous days ahead.
+
+The smile hidden beneath it was beautifully vicious.
+
+=============================
+
+==========================
+
+Edited by: BargleNawdleZouss, Massgamer,

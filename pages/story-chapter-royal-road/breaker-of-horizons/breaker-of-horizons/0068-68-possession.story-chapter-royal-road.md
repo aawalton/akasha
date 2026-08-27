@@ -1,0 +1,119 @@
+---
+id: 27424ed0-fd6f-58c2-995d-38d8ff8227dc
+page-type-slug: story-chapter-royal-road
+title: "68. Possession"
+slug: 0068-68-possession
+partOf: breaker-of-horizons
+position: 68
+ownLength: 2158
+unit: words
+publishedAt: 2020-12-24
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/604470/68-possession"
+royalRoadId: "604470"
+---
+
+The sea of arcana was not the mind-shattering mess it had been in my first foray into it by the Academy lake when the Demiurge had chased after a wild augera. Nor was it the painfully uncomfortable scene in the presence of the perturbed augera in the dodecahedron. Out here in the middle of a highway, it was cold and quiet.
+
+The violent battle that presented itself to my physical senses was less overwhelming here — just a series of disturbances on the surface, as consequential as raindrops falling on the ocean waves. My attention was immediately drawn to a line, a channel of some sort that was actually dipping beneath the surface, drawing on more potent energies from the sea of arcana. I recognised this as the shield-piercing sequence.
+
+It was only my third time in the arcanic sea, but the Demiurge's brief lesson was hard to forget. I flitted over to that channel with a mere thought, leaving my physical body behind. There was no way for me to read the glyphs here, so I had to work entirely by intuition. I knew I had only seconds before the sequence drew in enough arcana to fire off another shield-piercing lance, and that would be the end of Ms Rain.
+
+I traced the sequence to its caster — his auric-ambient-flare was strange, not at all like the others I had encountered so far. But there was no time to dwell on that, and there was no time for finesse either. I dumped every ounce of arcana I could muster into heavy arcanic bolts, manifesting them directly beneath him.
+
+The shield-piercing sequence stalled as his focus shifted. He bent his knees ever-so-slightly and then launched himself two metres straight up, deflecting all my bolts with throwaway barriers before landing unscathed. In desperation, I latched on to his sequence and pulled —
+
+— and it came loose, unmoored from his auric-ambient-flare. It was in my metaphysical hands now, and panic rose within me as I realised that it was still active, still drawing in energy. But I didn't know a single glyph in its sequence, and so it was impossible for me to control or direct in any meaningful way. I tried my best to unravel it or modify it, and when that proved impossible, to release it, but before I could disentangle myself the sequence reached its activation point.
+
+There was a hollowing of the arcana around the sequence as it drew in a great deal of power, reminding me a lot of Kevan's arcanic lightning. It seemed there were similar principles involved here, but this was bearing fruit a lot faster, and it was taking in a dangerously high level of arcana. The energy went through several transmutations, then manifested something that shot out into the night. Immersed as I was in the arcanic sea, I could see how much more powerful it was compared to some of the other sequences that were being flung about, like my heavy arcanic bolts.
+
+I was returned abruptly to my physical body as something crashed into me at great speed, knocking the wind out of my lungs. If not for the shield around me, I might have suffered some cracked ribs.
+
+Ms Fen had snatched me up and was holding me close as she bore me away from the car. Her grip was like iron and in her hands, I was little more than a helpless stuffed toy.
+
+The car was no longer in one piece — a great ragged hole carved through it, originating from the spot where I had been hidden. Somehow, it seemed, the shield-piercing sequence had been cast by me instead. The further Ms Fen ran, the more of the extent of the damage I saw.
+
+The beam's path was easily traced by the damage it left. Instead of being a thin lance that struck with surgical precision, after it chewed through the car, it had gouged its way across a stretch of the road before finally rupturing, sending out a tangle of uncontrolled arcana that was even now still hissing through the air like twitching snakes.
+
+My heart skipped a beat as I took in the scene. It was impossible to make out where Ms Rain was in that mess, and even as I watched, some of the loose arcana made contact with the remnant of the car, and it erupted in another mini-explosion that engulfed the ruined transport in flames.
+
+Further away from the wreckage, there were still flashes of light going off, though at this distance I couldn't really hear the dangerous humming and sizzling of combat-grade sequences. It seemed like the agents from the first car hadn't fallen yet.
+
+Ms Fen suddenly and unceremoniously dumped me behind a small outcrop. "Hide here," she said curtly before dashing back towards the fight.
+
+The hammering of my heart sent throbs of pain through my chest. The scene of devastation flashed across my mind's eye. Was Ms Rain dead? Had it been my fault? Did I at least get the caster? What should I do now?
+
+I pressed myself against the outcrop and felt around in the darkness. When my fingers found a crack, I sent in a small pulse of arcana and manifested a tiny globe light in it, making sure to put in the strange new personal glyph that Mr Silver had shown me. With the brightness turned all the way down to its absolute minimum, the crack was little more than a faint grey smear in the darkness.
+
+No sound from the fight reached me now, or at least none that was loud enough to overcome the blood pounding in my ears. I tried to sink back under the sea of arcana, but the moment of panicked clarity that had allowed me to do so earlier was long gone. To keep myself busy, I carefully started building another dense shield around me. I briefly contemplated trying to set up some arcanic mirrors to hide my presence, but I wasn't sure how that would interfere with the way the globe light beacon worked. Perhaps if—
+
+A sound. I froze, straining to listen.
+
+The faint sound of quiet footsteps on the cold, dusty earth.
+
+Were the agents all dead? Was this one of the assailants, here to flush me out? Panic threatened to overwhelm me, but I swallowed a massive lump in my throat and tried, with a supreme effort of will, to think. I did not dare to start amassing any arcana for fear that they would hone in on me, so that meant I had to rely on whatever I could cast instantly if they found me.
+
+Ensorcelment was worth a try. It cost me practically no arcana at all, and if I turned the intensity all the way up, it would be something to occupy their attention. And then, while they were distracted, a series of heavy arcanic blasts from all directions, but manifesting at variable distances to account for throwaway barriers.
+
+The footsteps were coming closer now. It sounded like there was more than one person.
+
+'Anything?'
+
+I flinched but managed to stifle any noise. It was an unfamiliar voice, speaking into the arcana.
+
+'Somewhere near,' a second mind sent, cold and wary. 'Look sharp.'
+
+These were definitely the assailants. That they could speak into the arcana was a terrifying revelation, but there was no use thinking about that now. I tensed, waiting for the moment when one of them would pass the outcrop or peer over it.
+
+They both came into view at the same time — one on either side of the outcrop. It was far too dark to make out anything but their shapes in the night before I acted.
+
+Far ahead of me, as far as I could manage, I manifested a globe light along with an echo of my auric-ambient-flare — the same trick I had employed against the wild augera the first time to distract it. Their eyes were drawn away for a moment as they immediately brought up extra barriers.
+
+My ensorcelment hit them a moment later, powered by the pure rush of fear that was currently coursing through my veins, embedded with a simple impulse — drop.
+
+They did not drop, but my multi-fire sequence was already unfolding. A series of heavy arcanic bolts materialised in the air around each of them and pounded on their shields. They raised throwaway barriers that deflected some, and the few that slipped through crashed against personal barriers that cracked slightly but did not cave.
+
+I launched myself forwards, desperately pulling together as much arcana as I could in order to propel me further. The outcrop caved in a moment later as they ravaged the space where I was standing, tearing through the barrier I had raised as if it was little more than tissue paper. Chunks of rock peppered the area and rained on me even as I ran.
+
+It was clumsy, but I held a mirror pattern around me as I ran, hoping to make it more difficult for them to spot me. At the same time, I flung out more echoes of my auric-ambient-flare, wrapping some of them in shields in order to serve as decoys.
+
+'Tricky brat,' one of them snarled, bringing down several of these decoys with surgical strikes.
+
+'Won't go far,' the other replied tersely. I felt a shifting in the air as if a huge spotlight had just been turned on.
+
+There was no point in keeping quiet now. 'Help me!' I sent desperately, hoping to manifest a friend-in-the-arcana to assist in my escape.
+
+But there was no friend-in-the-arcana. It was an augera that answered. Not the one from the Academy Spire. It was the one I had met on the train.
+
+'Not on train.' A wave of savage glee emanated from it as it surveyed the scene. 'In Creyvlor Spire. Connected to train. Connected to many things.'
+
+The two assailants stopped, sensing the shift in the arcana, but I kept running as fast as I could.
+
+'Don't run,' the augera sent with a note of reproach. 'Stay. Need channel.'
+
+'Shit.' The two were conferring quickly now, their arcanic communication too frantic for me to follow. But I caught a whiff of panic mixed with glee. A moment later, there was a shout in the arcana, shaped and directed somehow. 'THE CHOSEN ONE IS HERE. SEND REINFORCEMENTS.'
+
+Terror rose within me. They were wrong, but that wouldn't matter. Whoever they were, whatever they wanted with Ambrose, it couldn't be good. In this situation, being mistaken for the Chosen One was just as bad as being the Chosen One.
+
+'Stay,' the augera repeated, and I felt it bear down on me. I staggered and stumbled.
+
+'No!' I barked back, trying to get to my feet. 'Need to run! Help me run!'
+
+'Running is not fun.' The weight on me increased and I sank to my knees, gasping. 'Stop twisting mind, or you will be badly hurt.'
+
+It felt like I was back in the grasp of the Academy Spire augera when it had pieced together my tattered mind after the ordeal by the lake. But the Creyvlor Spire augera was not as gentle, and it was not trying to fix me. Something latched painfully onto my mind, and I felt my auric-ambient-flare being rooted in place. The carapace that the Academy Spire augera had placed around me to shield me from the Prophecy shuddered.
+
+'Don't break that!'
+
+'Will not break. Can work around it. Relax. Yield.' There was a hint of menace in its tone now, along with a bite of impatience.
+
+Out of fear, I relented and went limp in its grasp. The Crevylor Spire augera, the woven-shackled-stream, extended millions of little tendrils that snaked around the carapace and crawled in through pore-sized holes until they all made contact with my auric-ambient-flare. Then, the tendrils fused with me. I felt a sharp pain at first, then a pleasant warmth.
+
+'See?' Glee was bubbling up inside me, and even though it was an alien emotion that was not mine, it took some focus for me to realise that it came from the augera and to see where its glee ended and my fear began. 'Can be soft. Can be easy.'
+
+Some of my muscles twitched involuntarily, and then with a gasp, I found myself lurching to my feet and pivoting to face the assailants.
+
+They weren't chasing me any more. They had retreated a little way behind the shattered outcrop and were now layering dense shields over themselves. The augera within me regarded their protections with a faint flicker of amusement, noting how feeble they were. But then, my head throbbed painfully as my mind struggled to keep up with the rush of the augera's thoughts.
+
+'Flesh is slow,' the augera complained as I winced, and as it winced through me.
+
+And then, without warning, it sent me flying forwards.

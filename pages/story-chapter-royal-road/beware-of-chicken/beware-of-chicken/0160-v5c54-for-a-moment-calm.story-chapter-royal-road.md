@@ -1,0 +1,213 @@
+---
+id: 86dee174-1237-5a47-8a73-a7e437a0bd94
+page-type-slug: story-chapter-royal-road
+title: "v5c54: For a Moment, Calm"
+slug: 0160-v5c54-for-a-moment-calm
+partOf: beware-of-chicken
+position: 160
+ownLength: 2605
+unit: words
+ownProgress: 2605
+publishedAt: 2024-10-23
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1864031/v5c54-for-a-moment-calm"
+royalRoadId: "1864031"
+markedReadAt: "2026-06-29T18:56:47.592Z"
+---
+
+“This is indeed Zang Zeng, Elder of the Shrouded Mountain Sect,” Shenhe confirmed as she looked at the slumbering form before her.
+
+The man looked terrible. His cheeks were sallow and he was covered in sweat.
+
+Shenhe…did not like Zeng. He was a bastard, and he always made sure to remind her that she shared blood with her traitor aunt. He was an arrogant, swaggering braggart. Strong, yes, but wholly unpleasant, especially in regards to Zang Li, yet it looked wrong to see him brought so low.
+
+Her mind was wary as she laid eyes on thirty members of her Sect—all unconscious. The members of her expedition were encamped in another room, where there were some amenities. There was tea and some medicine, at least, and they had been informed that food would be provided, but the hospitable treatment was… slightly off to Shenhe.
+
+“I’ve been keeping them under, just in case—to make sure all the poison is out of their systems. There was too much to do,” the woman—Hong Meiling—said, her voice light.
+
+It was close enough to her own imprisonment that she was very uncomfortable with the words, especially because the woman standing beside Shen Yu bore an unfortunate resemblance to the man who had captured her. Her sharp purple eyes were dissecting them all, and her intent bubbled beneath the surface. It was vast and hard to grasp, fading into the distance.
+
+The only difference was that the men here were in comfortable beds and clearly being looked after instead of cut open.Shenhe wondered for a moment if this was all an illusion, if she was still laced with poisons and being tortured… but she could not feel anything amiss with her Qi. She was fairly certain this was no illusion.
+
+She could feel Shen Yu’s Qi, and his Qi held only the truth. No illusion could ape the sharpness of an Imperial Realm Cultivator’s intent.
+
+Not that that was entirely better. For all that Lord Shen Yu had thanked them back at the base, she was not certain that she and her subordinates were out of danger just yet.
+
+After everything… there was still the possibility of losing it all.
+
+“Do you know why these men would be here?” Shen Yu asked, turning his eyes onto Shenhe. His voice was light, but he was obviously unhappy about this trespass.
+
+“No, Lord Shen Yu. Last I heard he was still within the Sect, and I was upon the mission the Cloudy Sword Sect gave to us.”
+
+Shen Yu looked briefly amused by her words, but nodded. “You speak the truth, Zang Shenhe… and I did witness your work on the demonic bases. You have my praise for your thoroughness.”
+
+Shenhe bowed at his words, the tension once again falling. “Thank you for your words.”
+
+Shen Yu nodded, then turned his eyes over her shoulder. “What about you, Grandson? Were there any words exchanged during the heat of battle?”
+
+“They were being mind-controlled,” a voice began, and it took everything Shenhe had to keep from jumping. The man had just… appeared to her senses, his Qi so controlled that only when he was right beside her did she feel the vast reservoir of cold earth the man radiated, the mien of a fierce general. “Zang Zeng was trying to resist it as we fought. He would make his muscles spasm to throw off his strikes, and in the end managed to trick it into transforming his body into lightning. It hurt the worm controlling him and disrupted it long enough for him to tell me about the other attacks. Then he asked for me to kill him.”
+
+The words brought instant relief to Shenhe. It was shameful to get mind-controlled. It was a nearly unforgivable weakness…but that Zang Zeng managed to keep his honour intact was the one saving grace. He had asked for death and taken responsibility, as a true cultivator should.
+
+Lord Shen Yu frowned at his words.
+
+“A worm?” he asked.
+
+“This,” Lord Rou replied, producing a vial of glass. Within it was the corpse of an ugly wretched creature, fat and pallid. Dark veins stood out under its skin, and grasping pincers covered its head.
+
+“Puppet Worm…” Lord Shen Yu breathed, his voice tight. “It has been five hundred years since I last laid eyes on such a horror—and that is, by far, the largest specimen I have ever witnessed.” The old monster stared at the beast for a moment longer, then he turned back to Zeng, who was still resting.
+
+“What’s wrong?” Lady Meiling asked.
+
+“Mei’er, he does still live, yes? Are his wits intact?” Shen Yu asked.
+
+“As far as I can tell? He responds to stimuli, but I can’t say anything about higher functions,” the woman replied. “Why?”
+
+“Because as far as this old man knows, this is the first time a Puppet Worm has been successfully removed from a host and the host has survived.” Shen Yu turned to Lord Rou, a smile spreading over his features. She could see the pride in the old Master’s eyes. “On the morrow we shall attempt to awaken them and to discover what has happened. For now…for now, this old man needs to sit down.”
+
+“Head back to the house, Gramps, Mei,” Lord Rou intoned. “I’ll get all our guests settled. Miss Shenhe?”
+
+Lord Rou extended his hand so that they could clasp forearms like fellow warriors. It was a gesture of friendship—combined with him calling them guests, it meant they were protected by the laws of hospitality. Shenhe could finally let some of the tension drain out of her shoulders.
+
+She clasped his forearm and bowed her head.
+
+“You have my thanks, Lord Rou—for your hospitality, and for your warning about the Demonic Cultivators slinking about the Howling Fang Mountains. Truly, the Cloudy Sword Sect is without equal.”
+
+He smiled at her words, but she could feel a bit of awkwardness in it. Whatever the issue was, he chose not to address it, instead changing the subject. “Here, we can hand these out to your men—they should help.”
+
+The powerful expert handed over a vial. Zang Shenhe stared at the sparkling medicine within. It was potent. She could smell seven fragrances, and she could feel the draconic lightning within.
+
+This was medicine Lishu would kill for. Draconic lightning-infused medicine?! This was absolutely the most perfect thing for one who studied the Shrouded Mountain Sect’s arts.
+
+“These are for…?” she asked.
+
+“Anyone who needs it. The Lowly Spiritual Herbs are for those less injured,” the expert replied, pulling out some Seven Fragrance Jewel Herbs.
+
+Shenhe just stared as they sparkled with iridescent dew, their perfume filling her nose.
+
+He called them “Lowly Spiritual Herbs.” Lowly. These?
+
+Shenhe was very glad they had ascertained that this man was not some imposter when he had first sent his message to them after the Dueling Peaks Tournament. Only a true Master of the Cloudy Sword Sect could say these words and have these kinds of resources.
+
+Shenhe did as he asked and began distributing aid to her disciples.
+
+Those that had lived all looked like the dead. She gave words of comfort and encouragement as she went, her face stoic. She praised their strength, even as it was all she could to keep her face straight.
+
+Her heart wrenched when she once more took count. There were only about half left from her initial expedition force—and even her own personal disciple, Yuquing, was gone. There was no quiet, calm presence that shadowed her steps anymore. There was no woman who doted on her juniors.
+
+Shenhe still remembered the day Yuqing had asked to become Shenhe’s personal disciple—she had been the first person to ever say that they admired her.
+
+It was all hitting her now, finally sinking in. They had won…but their victory had been costly. Far, far too costly. Shenhe turned to the wall, wiped away the single tear that escaped her eye, and let out a breath.
+
+Then, she stood up straight and turned back to the room. Her eyes once more found the form of Lord Rou.
+
+Shenhe only knew stories about the Cloudy Sword Sect. She only heard that they were scholars who disdained wealth. Sticks in the mud, the Patriarch had said.
+
+But everyone could agree on the fact that they were different.
+
+The man smiled at one of her disciples, showing him the best way to mash the spiritual herbs into a paste, teaching them without a second thought. His words were warm and kind.
+
+Indeed; he was different. Strange. So strange in his mannerisms. The lessons that the Patriarch had pounded into her head said his actions were naive.
+
+Yet if this expert could act like this, then how could those actions be considered naive?
+
+She pondered this conundrum until two others walked into the fortress—a woman with pink hair and a boar. The boar was loaded down with saddlebags containing enormous clay rice-pots, and the woman was carrying platters of food, meat, and vegetables.
+
+Shenhe’s mouth immediately began to water at the heady, Qi-rich scent.
+
+“Eat and drink all you need; we have plenty more food,” Master Rou said as the food was set down.
+
+The lids of the clay pots were removed, and Shenhe just stared at the heaps of gold-grade rice. The woman began piling bowls high, adding more spiritual herbs as seasoning, and then serving plump whitefish on top that similarly radiated vitality.
+
+Shenhe waited until all were served before she took her own bowl.
+
+It was the most delicious meal she had ever eaten, so much so she had to hold herself back from impolitely devouring it in a rush .
+
+“I will leave these here for you, if you are still hungry later,” the pink-haired servant said…and deposited more bales of gold-grade rice on the floor, along with more preserves.
+
+They casually gifted her a fortune—an amount of coin even the Shrouded Mountain Sect would not spend without some consideration.
+
+“Rest and recover. We shall talk again tomorrow,” Master Rou said. “And please, don’t touch the bees. They’re important.”
+
+Shenhe paused at his words, and then spotted a bee in the corner of the room. It was simply sitting there, occasionally buzzing, but otherwise unmoving.
+
+“Of course, Master Rou,” Shenhe agreed, not knowing why, but determined to obey regardless.
+
+She took another reserved, but eager, bite of the delicious meal.
+
+The future might still hold danger, but for now…for one moment blessed by the Heavens, there were no threats, no enemies.
+
+She closed her eyes and savoured each bite.
+
+====================================
+
+It was getting close to evening when I walked back into my home. Our guests were housed, fed, and watered, and Vajra was keeping an eye on them for us. I still didn’t particularly like the fact that they were here, but neither was I going to kick them out. They had apparently helped Big D, Ri Zu, Yun Ren, and Gramps…so they could stay. At least until they were healed.
+
+As for me? I felt like I had gotten run over by a god damn train.
+
+I walked with Peppa back to the house, and both of us paused at the doorway.
+
+The mood was definitely less rowdy, and more solemn, than when Tigu and the rest had come home…but it certainly wasn’t silent.“Yun Ren always said his brother was a monkey, but I did not think it was so literal!” The woman, Yushang, pointed jokingly at Huo Ten. Gou Ren groaned and rolled his eyes. Her antics got amused laughs from several people, and Tigu slung an arm around Yushang’s shoulder.
+
+The fat guy, Han, was talking with Bowu. I paused at the sight of the kid, then noticed Washy just sprawled along the wall, out cold and not eating. The dragon must have brought him back to check on his sister.
+
+I had been going to talk to him about the scare he had given the Magistrate, but…well, if he wasn’t even trying to eat anything, he must've been really tired.
+
+The older-looking cultivator, Shao Heng, seemed a bit amused at the looks the Torrent Rider and Shaggy Two were giving him, full of respect, as Big D told them some kind of story about the man. He seemed a bit embarrassed.
+
+The moose, Spooks, was talking to Xiulan. She had a bottle of maple syrup out and was ladling it into a bowl for him. He made a really funny sound when he took a drink, a rumbling honk of pleasure that Xiulan giggled at.
+
+Yingwen and Fenxian looked kind of awkward being here, but they weren’t sitting too far off to the side. They were both staring incredulously at Babe while the ox tapped at a cut piece of wood.
+
+Finally, Gramps was sitting on the couch while Meimei and Rizzo worked on him. Rizzo had her hands on the backs of him and Meimei, and a scroll was open in front of them both as Rizzo taught my wife whatever it is that she had learned.
+
+Gramps was just taking it without a word of complaint. The old man simply had a smile on his face as he stared out the window…and at the mountain of corpses we had piled up.
+
+He seemed very satisfied.
+
+The only person who wasn’t in the room was Zhuye—my son was asleep in my and Mei’s room, sparing him the noise.
+
+“How are you holding up, old man?” I asked him as I finally walked in, and Gramps turned to me with a smile.
+
+“I do believe I am doing splendidly,” he stated. “I get to admire the work of your house and be doted on by my granddaughter. Bei Be, fine cuts by the way. I recognise your handiwork on many of those corpses.”
+
+The ox puffed up with pride.
+
+“I’m honestly wondering how to properly dispose of all that,” I said with a grimace. “We have some ideas, at least…”
+
+“I have full faith that you shall come to a satisfactory outcome.” Gramps actually looked and sounded like nothing more than a proud grandpa. “Though there is some business. Grandson, do I have permission to send a message to the Cloudy Sword Sect? There are some things I would have their help with, and it would be best if they came here to do it.”
+
+I thought for a moment, and then nodded.
+
+“Yeah, let's get to the bottom of this. Better out of the way now, then letting it fester.”
+
+The old man nodded.
+
+“Then these Demonic Cultivators shall feel my Sworn Brothers’ wrath,” Gramps said, his voice a promise.
+
+Both of us went silent for a moment. Finally, the old man spoke again, in a tone of idle-seeming curiosity.
+
+“By the way, is that Volcano Ginseng growing in your fireplace?” he asked.
+
+“Yeah, Lu Ri gave me a bunch of seeds from Elder Shou. They’re really tasty.”
+
+The old man’s lips twitched.
+
+“Was that all they sent?”
+
+“Nah, the Silver Yin Lotus is taking over the damn bathhouse.”
+
+Gramps snorted. Then he chuckled. Then the old man started roaring with laughter.
+
+“Let us have a bath, Grandson. Then we shall swap our tales.”
+
+That sounded good enough to me. So that's what we did.
+
+We marched out into the sunset, all us boys. Big D, as a rooster, looked out over our home.
+
+His wonderful voice echoed off the hills.
+
+“You tell ‘em, Big D,” I said, and buried my fingers in his feathers.
+
+Things were a long way from being right yet.
+
+But in that moment…that was fine. They’d get there.

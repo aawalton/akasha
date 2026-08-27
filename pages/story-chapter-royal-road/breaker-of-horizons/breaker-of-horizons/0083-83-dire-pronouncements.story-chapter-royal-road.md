@@ -1,0 +1,127 @@
+---
+id: 0a891bf4-93dc-5e76-8cf6-00a959037ded
+page-type-slug: story-chapter-royal-road
+title: "83. Dire Pronouncements"
+slug: 0083-83-dire-pronouncements
+partOf: breaker-of-horizons
+position: 83
+ownLength: 2076
+unit: words
+publishedAt: 2021-02-15
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/632011/83-dire-pronouncements"
+royalRoadId: "632011"
+---
+
+"Uh huh." Kevan stepped over the threshold of the portal, beckoning for Jerric to come through. Stupified, Jerric went forward and crossed over, with Kevan close behind.
+
+The memory was still frozen, but Jerric was hard-pressed to come up with any sensible scenario which would have placed Marcus Kant and Marius Reeves in the positions they were now in, with the twins thrown into the mix. Both of them looked worn and ragged. Reeves was down on one knee, barely managing to keep himself upright as he stared up at his fellow professor. Kant, however, did not look collegial at all. There was an expression of utter contempt on his face, and though he was standing over Reeves, it was still clear that he was at the end of his rope.
+
+Jerric finally managed to wrench his gaze away from the two professors when Kevan crossed the space and went to stand beside his memory-duplicate. As Jerric took in more of the space, he realised that they were in one of the empty buildings that were hidden in plain sight in the Academy. From the looks of it, this particular structure was another dormitory. The layout bore a little resemblance to the dorm that housed the party of six, although the furniture here looked a little more dated. The memory-duplicates of the twins were crouched outside the door that led into the common room, and memory-Kevan was peeking around the corner. The rooms beyond were shrouded in vague shadows since he had no idea what was in any of them.
+
+"What's happening?" Jerric managed to ask, staring at the two professors.
+
+"Short version: Ly and I found hidden buildings in the Academy. We were exploring one of them, and then we came across this." Kevan waved vaguely at memory-Kevan, inviting Jerric to fully step into the memory.
+
+"What does this have to do with—"
+
+"I won't pretend to know what's up with the two of them," Kevan interrupted. "Maybe you can figure out more of it after you see this. But some of it does tie in with the stuff surrounding the augera."
+
+There was nothing to be gained by delaying, and Jerric's curiosity was now well and truly piqued. He slipped into memory-Kevan's frame, allowing himself to be immersed in the—
+
+—utter fear that gripped him now. Judging by the condition of the room, neither of the professors had made use of traditional attack sequences. The structure was completely untouched, and not a single piece of furniture was out of place. Nevertheless, the arcana itself seemed to hum with danger and malicious intent. After the woven-shackled-stream had left both him and Ly with a deeper sense of what was happening in the arcana, he could now tell that there was a whole new layer to arcanophanic combat that went beyond the use of glyphs.
+
+"Reeves, stop," Kant said through gritted teeth.
+
+Something pulsed in the arcana and Kevan's stomach twisted. Behind him, Lynus stiffened. He reached out and pulled Kevan's sleeve, then jerked his head to indicate that they should retreat.
+
+Kevan shook his head and peeked around the corner again just as another perturbation ran through the arcana. Reeves slumped to the floor with a groan and Kant stumbled backwards until he found the wall for support.
+
+"I yield," Reeves rasped. "You need... to deal with those two outside."
+
+A frisson of terror ran up Kevan's spine, and he grabbed his brother's wrist and ran for it. The two of them barely made it five steps before they fell prone, held down by the sheer force of Kant's ensorcelment.
+
+Kevan desperately tried venting, but there was something odd about Kant's brand of ensorcelment. It felt quite distinct from the one that Reeves exposed them to in their lectures, and somehow none of his usual defences gave him even the slightest sliver of control back. Kant's control hold over them was absolute.
+
+There was a confused shuffle of footsteps from behind them, but Kevan couldn't turn his head around to look.
+
+"Go easy on them," Reeves said weakly.
+
+"If you were in my place," Kant replied, sounding just as faint, "I doubt you'd take your own advice."
+
+Nevertheless, the ensorcelment loosened a little and Kevan craned his neck up. Kant was supporting Reeves, and they shuffled past the prone twins until they had reached the end of the little corridor that led to a set of stairs.
+
+"Alright. You should be able to get out by yourself," Kant said, helping Reeves to lean on the railing.
+
+"I'm serious." Reeves drew himself up as much as he could, but then fell back against the railing. "Go easy."
+
+"I'll take your well-considered opinion under advisement," Kant shot back, gathering enough energy to put a little bit of sarcasm into his tone. "Now get the hell out and leave this to me."
+
+Reeves half-stumbled down the stairs, looking nothing like the formidable, stately arcanist who lectured them on Principles of Arcanophany.
+
+Kant stayed by the stairwell for a little longer until the sound of Reeves' slow and painful progress out of the building was completely gone. Then, he shuffled back towards the still-prone twins, half-leaning on the wall for support.
+
+"I'm going to let the two of you up. I look like shit, but I'll warn you not to try anything, or I'll put you down harder and faster than you can blink. Understood?"
+
+The ensorcelment loosened further, and Kevan found that he could just barely choke out his agreement. Lynus followed suit.
+
+"Right. Get in there." As Kant gestured at the common room, the weight of ensorcelment lifted, and Kevan left out a gasp of relief. Whatever spin Kant had put on hie ensorcelment, it packed a terrible punch. Every muscle in Kevan's body ached since his entire body had seized up under Kant's control. He got shakily to his feet and went into the common room, followed closely by Lynus. Kant himself was still slowly shuffling down the corridor.
+
+"Make a break for it through the window?" Kevan whispered to his brother.
+
+"No. Too risky. And we don't know the situation. Let's just see where this goes," Lynus replied softly.
+
+The twins went to stand by the counter just as Kant crossed the threshold. They eyed him with trepidation as he slowly made his way over to the sofa and sank into it with a groan.
+
+"Okay." Kant took in a deep breath and cracked his knuckles. Then, he leaned forward, looking a little more like his usual debonair self now that he wasn't shuffling around like an old man. "I need a quick rundown of what you know about the augera."
+
+"Why are you asking? And what just happened with Professor Reeves? You can't expect us to—" Kevan began.
+
+Something slid across Kevan's skin, sending a shiver up his spine. Or rather, something brushed against him in the arcana. Kant cracked his knuckles again. "You don't get to ask questions, here. Not yet."
+
+"We'll trade," Lynus spoke up. "A question for a question. You can probably force us to answer, but something tells me you'd rather not stoop to that."
+
+Kant raised an eyebrow. "Alright. Let's trade. So, me first. What do you know about the augera?"
+
+"That's a really big question," Kevan pointed out.
+
+"It is. And I'll know when you're lying or omitting the truth, so don't try anything. Give me the full story. Everything you know."
+
+Kevan glanced at his brother, who gave the slightest nod to indicate that he didn't think Kant was bluffing and that they should cooperate.
+
+"Alright... we know it's some sort of arcanic being. We think it's trapped in the Spire. We know it wants to be free," Kevan answered. "Our turn. What was happening between you and Reeves?"
+
+"We were fighting over who gets to stay and talk to the two of you," Kant answered without missing a beat. "How did you find out about the augera?"
+
+"Wait, what do you mean by—" Lynus began.
+
+"That can be your next question," Kant said smoothly, interrupting him. "Answer mine first."
+
+Lynus looked annoyed, but he relented. "... Caden ensorceled Kevan and planted knowledge of the augera in his mind. That gave it a connection to him, and it revealed itself to him. He did the same to me. Okay, so what you mean you were both fighting to see who gets to talk to us?"
+
+"Reeves and I have different ideas about the augera, and how we should be dealing with them. Our present circumstances are... unique. And only one of us can be here. So we had a little duel to see who'd get to stay. Did the augera task you with doing anything? Specifically, some sort of task to help the Chosen One?"
+
+Kevan started, then glanced at Lynus, who looked equally perturbed. Kant's questions made it quite clear that he already had plenty of prior knowledge about what was going on. He was simply getting confirmation about things. Exactly what was going on here?
+
+"If it makes you feel more comfortable, I'm on what you might consider as 'your side'," Kant said dryly. "Now answer my question."
+
+"It... it said we should protect a new anchor. And it also said that the old anchor's fate will be our choice," Kevan answered reluctantly. He glanced at Lynus again to see if his brother had any question, but Lynus simply tilted his chin to indicate that Kevan should go ahead. "Why are you asking us all this?"
+
+Kant leaned back on the sofa and regarded both of them. "I guess this confirms it. You two are tied up in the Chosen One's Prophecy."
+
+"You haven't answered us," Lynus pointed out.
+
+Kant let out an aggrieved sigh. "The shitty thing is that you guys are just kids, but you're all being pulled along something that will either make your lives turn out great or incredibly bad. I'm asking you all this because... well... where to begin?" He got to his feet with a groan and started pacing before them.
+
+"Let's put it this way. A Chosen One is a figure of great power. The power of Prophecy almost guarantees that they will be able to shape the world. Now, ordinary people usually just get swept up in the probabilities that serve a Prophecy. But the nature of this particular major Prophecy is special. It ties the Chosen One to five other people. That confers some measure of power to them as well. And I don't mean power in the traditional sense... I mean in the sense that a parent has power over a child. What a parent does will influence the whole life of a child. In that same manner, these five anchors will influence the choices of the Chosen One. Do you see where I'm going with this?"
+
+"How do you know all this?" Kevan demanded.
+
+Kant waved his question away. "We've got limited time. In short, you two have power over the Chosen One. More importantly, something has gone wrong. One of the anchors has been loosensed, and a new one has to be brought in. I don't know the details there, but by rights, there shouldn't be any change in the anchors. So now there's a loose ex-anchor out there. Normally, a Prophecy would deal with these loose ends quite decisively. But now you're saying that an augera has literally given you the power to decide what happens to that ex-anchor."
+
+"What does that mean?" Lynus asked. "This still doesn't—"
+
+"—Lynus, Kevan, the two of you, in this very slender instance, hold more power than the Chosen One. Let me put it plainly. The augera are all trying to break free. They would love for there to be an ex-anchor running around with enough power and possibility to upset the Prophecy. Normally, the terms of a Prophecy will self-correct. So the fact that you two have a choice means that the augera are bending over backwards to not outright destroy the ex-anchor out of obligation." He sounded very insistent now.
+
+"So you want us to destroy the ex-anchor when we find out who it is?"
+
+For a moment, he looked like he was about to choke. But the moment passed, and he sighed. "I... I actually can't say that. But I want you to know for a fact that if the augera are ever freed, the Empire will come crashing down around our ears."

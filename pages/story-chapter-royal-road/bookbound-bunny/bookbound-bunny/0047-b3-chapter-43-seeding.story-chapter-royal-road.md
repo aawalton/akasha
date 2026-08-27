@@ -1,0 +1,127 @@
+---
+id: c38b4aa1-aef0-56a5-99a7-3c16ed38f0f5
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 43 - Seeding"
+slug: 0047-b3-chapter-43-seeding
+partOf: bookbound-bunny
+position: 47
+ownLength: 2113
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3417157/b3-chapter-43-seeding"
+royalRoadId: "3417157"
+---
+
+When Lily finally finished her arrangements, she had two inscriptions floating before her. For her first trek into designing for crystal magic, she was quite proud of the results, comparing their differences and similarities.
+
+Yes, Arakil didn't have her just draw two identical glyphs with the only difference being their colorful decoration. In fact, one glyph worked on the principle of water crystallization, while the other was the more common earth; the former also involved a method Arakil called "crystal seeding," which Lily still likened to talismans.
+
+[Right, you can activate the crystal seed for now.]
+
+"Okay!" Lily excitedly confirmed and waved her wand at the water-crystal inscription.
+
+The magical formation lit up, starting from its primary glyph and crest, before spreading out and gathering from the supplementary water glyphs to fuel it. Right when you would have expected the magical effect to trigger, everything began to rapidly shrink down, and all that was left was a silvery diamond, no bigger than a thumb, that fell to the floor.
+
+Startled and concerned it might have broken, Lily rushed to it and picked it up. Gingerly rolling it between her fingers, she examined it for any cracks, but as far as she could tell, it was perfectly unharmed.
+
+"So this is a crystal seed…" Lily whispered, bringing the small diamond up to her eye.
+
+[They are quite compact, as you can see. Extremely convenient to carry in your pocket and can be prepared in advance. The actual spells themselves are a bit more lenient in their preparation, but I know you prefer to draw them out.]
+
+Lily nodded again, still fiddling with the crystal between her fingers. While it definitely sounded tempting, she was still in love with Astral, with it only taking a backseat to glyphs and inscriptions. In fact, one of the things she refused to learn was astral glyphs, because she felt that if she crossed that line, she might never return.
+
+"So I just need to drop this in water?" Lily asked.
+
+[Correct, with a slight pulse of Mana as the trigger before you do. That will activate the outer layer of the seed matrix, which will cause the rest of the spell to blossom. You could liken it to the original spell being temporarily sealed, waiting for the correct environment.]
+
+"I'm surprised we need water, though. What was the point of those water auxiliary glyphs then?" Lily asked. "Or is this purely to demonstrate the seed analogy, to show that it needs to grow from within something?"
+
+[No, the physical medium is just to better help regulate the Mana. You could have added several more water auxiliary glyphs and entirely avoided this part. But considering you want a permanent item, it's better to take the slower, safer approach.]
+
+Lily scratched her cheek as she pondered. "Assuming I could get the balance perfect, is there any difference between with a medium and without?"
+
+[For both water and earth crystals, the expenditure is worse. As you should know, any earth mage with a proper medium can save tremendously on Mana, as well as time and effort. Your friend Theobald with the dirt beneath his feet is practically a monster, but place him in the water, and he'd be practically a harmless, wet and cuddly bear.]
+
+Lily suppressed some giggles at the thought of Theo floundering in the water.
+
+[So, for both, without the proper medium, the effects are notably reduced; you can create a lot more crystals with sufficient resources on hand. But for earth in particular, the crystals can actually inherit some of the medium's physical properties. Thus, if you make it purely from Mana, you lack this opportunity to increase its durability.]
+
+"So if I used stone to make my crystal, would it be harder?" Lily asked.
+
+[Yes, you would have a more robust crystal from using stone than from using sand or dirt, for example. Now this doesn't apply to water crystals, can you tell me why?]
+
+Lily smiled. "Because water is actually everywhere!" As she gave her answer, she spread her arms out to the sky and gave a slow twirl.
+
+This was something Arakil had included in his education, saying that Lily needed to know more about the world and that her education at the orphanage was somewhat lacking.
+
+[Good. I'm glad you remember. This is why you must always be careful of hydromancers and cryomancers; you never know what they will pull from the air. Anyway, returning to the topic of crystals, you can pull and crystallize the water vapor from the air, with the only drawback being its vastly slower processes.]
+
+Lily thumbed the crystal seed still in her hand as she digested Arakil's words. "Then what's the advantage of using a proper medium for water crystals? Is it just speed?"
+
+[In layman's terms, yes, but this also extends to range. A proper crystal mage, or a well-prepared crystal seed, could turn a pond or lake into crystal. Effectively, any connected bodies of water would be their tools. Earth crystals can capitalize on this too, as the ground beneath our feet is abundant and plentiful. However, the crystallization phenomenon can only transmit so far through it, so water would be the ideal long-range medium.]
+
+Lily was genuinely surprised and intrigued by all the intricacies of this foreign type of magic. Outside of using them for her glyphs and what sigils were compatible with them, she hadn't paid much attention to other kinds of magic.
+
+Of course, if it came to a glyph application, then she would drill down further into the magic, but only as far as to learn its drawn functions. For example, learning that the fire crest could be used to generate flame as expected, but it could also be used for managing heat levels, or even drying, if you got creative with it. So, while Lily had proudly declared that her heart was set on Astral, she still could admire and appreciate other forms of magic.
+
+[You should get some dirt before you activate the other crystal inscription.]
+
+Lily nodded at Arakil's suggestion and opened her window. Her eyes squinted from the bright light, and after she recovered, she cast a telekinesis spell to lift some of the soil from below. Thankfully, she was on the first floor, so this was easily accomplished.
+
+With a pile of dirt now in the middle of her room, she turned to the still floating inscription just waiting to be activated. Arakil gave her the go-ahead, and she positioned it above the medium before triggering it.
+
+Just like before, the glyph activated from the crystal crest, which sought out the auxiliary earth glyphs for its fuel. This time, however, there was no seed function, so the process continued as normal, and Lily watched the entire process under the gaze of her Magesight.
+
+The auxiliary earth glyphs resonated with the pile of dirt, and that was when things went into action. The loose mound trembled, grains of soil shivering as the Mana flowed through it. Clumps broke apart and lifted, the dirt peeling away from itself as the particles drew inward. What had been dull brown grit slowly fused together, its roughness melting into smoothness. As the mass began to clear and harden, its color changed too, blackening as if ink were seeping through it, until finally the soil had transformed into a flawless, dark, glassy sphere.
+
+Lily took a deep breath as she marveled at what she had just watched. Then she gingerly reached out and picked up the dark sphere. It was smooth to the touch and slightly smaller than the ones Arakil had used in the mental landscape, making it better suited to her hands.
+
+[Great work. As you can see, this is a minor, controlled application of an earth crystal. Later on, I'll teach you a few more practical glyphs for offense and defense with crystallization.]
+
+"Sounds great… But now I'm curious about the last crystal," Lily admitted, holding out the seed.
+
+[Just poke it with some Mana before dropping it into the water and watch the show.]
+
+Lily grinned happily. She carefully placed the dark sphere somewhere safe and then pulled out a washbasin from under her bed. She barely used this thing, preferring to use magic itself, but it was perfect for this situation. After setting it up in the middle of her room, where the dirt pile once was, she began filling it up.
+
+"Just to double check, I can use magical water, right?" Lily asked as her spell began to fill the washbasin.
+
+[Of course. That spell isn't conjuring the water from nothing, so you could hardly call it magical water.]
+
+Lily smiled and returned her attention to the quickly filling washbasin. Unlike during her class, she wasn't putting on the facade of only being able to produce a cup of water so it could be swiftly completed.
+
+With the water source ready, Lily looked at the crystal seed one last time. As instructed, she gave it a small, focused pulse of Mana, which seemed to act like a catalyst or key to the seed as it released a tiny pulse of its own. Lily dropped it, and with a satisfying plop, it landed in the water. Her Magesight already active, she watched with fascination.
+
+Delicate shards unfurled from the seed like frost creeping over glass. They stretched outward, drinking in the surrounding water as they grew; layer by layer, the branching lattice thickened. What began as fragile spires gradually smoothed, the structure swelling into a rounded, silvery mass as more water vanished into its forming body.
+
+By the time the last ripples stilled, the washbasin was dry. What remained was only a perfect silvery sphere resting at the bottom, shimmering in the light like a tiny moon fallen from the sky.
+
+"Wow…" Lily murmured, breaking her stunned silence.
+
+[As you just witnessed, the seeding process is a bit more involved than simply activating the glyph.]
+
+Lily knelt down and picked up the silvery sphere; it was slightly cold to the touch, but it warmed as she rubbed it between her palms. "I was expecting to see the inscription form once the seed opened."
+
+[That's a reasonable expectation, but with the way crystal seeds work, the inscription was already encoded into the seed itself. You could say the seed is the dormant spell ready and waiting to go, so there's no longer a glyph component remaining.]
+
+So it's similar to talismans, but different. I wonder if other things can be stored inside a seed, or is this exclusively for crystal magic?
+
+Lily didn't voice her idle thoughts out loud; instead, she moved to pick up the sphere's darker companion. She held one in each hand for a moment before placing both in her right hand and attempting the exercise Arakil had demonstrated.
+
+Despite some time having passed since then, the motions returned relatively quickly, and thanks to the more accommodating size, Lily found the experience more enjoyable. She stared in fascination as she rolled the two balls around in her palm, the dark and light 'moons' dancing around and exchanging positions while routinely making clinking noises as they met.
+
+[Very well done, for your first foray into crystal inscriptions. We should add crystal seeds to your emergency preparations, along with your talisman supply. Also, do remember that these inscriptions were intentionally slowed down for you to observe, so I hope you don't think they were a little lackluster.]
+
+"I like the sound of that," Lily said, trying to continue the exercise while conversing.
+
+Lily hoped to eventually be able to practice blindly under her desk during lessons. That way, she could listen while keeping her hands occupied, making the most of her time. With Arakil capable of transcribing her lessons, she didn't really need to pen them herself, so this would be a much more efficient use of her time.
+
+Of course, the biggest hurdle for that was the noise, but that could be solved with a glyph that dampened the sound, or better yet, through Lily's improvement. While the clinking noise was oddly therapeutic, Arakil had mentioned that the true goal was to rotate the pair of spheres without having them clink together.
+
+That's certainly easier said than done… Lily thought to herself, although she quickly realized she was still at the very first step.
+
+[So, are there any other crystal objects, or perhaps furniture, you'd like to produce?]
+
+"That sounds…" Lily paused and then stared at Arakil suspiciously. It sounded reasonable, and pretty fun, she had to admit, although she couldn't help but suspect there was an ulterior motive.
+
+[Perhaps another day then,] Arakil softly chuckled.

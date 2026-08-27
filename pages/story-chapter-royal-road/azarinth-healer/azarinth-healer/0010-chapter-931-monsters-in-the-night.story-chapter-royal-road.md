@@ -1,0 +1,163 @@
+---
+id: 2a926e90-062e-5e3f-abd3-46e8ebd640f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 931 Monsters in the night"
+slug: 0010-chapter-931-monsters-in-the-night
+partOf: azarinth-healer
+position: 10
+ownLength: 2709
+unit: words
+publishedAt: 2023-04-20
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1186510/chapter-931-monsters-in-the-night"
+royalRoadId: "1186510"
+---
+
+Chapter 931 Monsters in the night
+
+Trian watched the dark forests light up with purple lights, void spells sent towards the Sentinels and Shadows methodically clearing the southern mountains. He hid behind a tree, focused on regenerating his mana as he smelled burning wood and blood. He saw dozens of spells and barriers flaring up all around him and throughout the trees, countering void spells, freezing monsters, or deflecting projectiles. He breathed in a deep breath, seeing the silver Executioners walking between the lower leveled adventurers and Medic Sentinels to make sure the void creatures wouldn’t break the formation with overwhelming numbers.
+
+Aki’s machines did not engage except when the monsters broke through.
+
+Trian knew that most of their fighters didn’t have the stats, spells, or weapons to efficiently kill the three mark monsters left behind by the Extraction, him included. Their most powerful mages and warriors could clear out hundreds if not more of the creatures in mere moments but they were busy protecting the many shelters and settlements still under attack, to bring some semblance of control back to the lands of the Accords.
+
+He had felt overwhelmed with everything that had happened. Had felt tiny in the face of the void creatures stepping out of the massive rifts in the sky, and he had felt terror when they had first appeared in Morhill. And he knew most everyone else here had felt the same. He grit his teeth and felt the power of his magic running through his veins, red lighting crackling over his arms as he rushed out from behind the tree. He could see the flower-like heads, a few turning his way as he sent a bright set of red lightning bolts straight into their blooming faces.
+
+He flew to the side, avoiding a purple blast before he teleported to the side. A short charge as he flew, his magic pulsing before he sent a bright burst of red lightning through the closest set of monsters, absorbing some of their health and mana in turn. He ducked his head to avoid a flying void spell and flew back when two of the creatures charged.
+
+Fiery explosions ripped through the forest, crystal spears and arrows chipping away at the tough purple skin of the monsters.
+
+Trian saw two Sentinels appear, their weapons wreathed in ash striking the long legs of the right most charging monster, one halberd cutting through a limb before the two Medics retreated once again, the creature stopping to face them when a chunk of rock struck its side, a thrown spear scraping past its rib cage.
+
+Train teleported a second time and sent three bright bolts into the injured monster, the last one snapping its head back before he heard a ding resound in his mind, followed by more messages.
+
+He grit his teeth, flying back when a stray void spell grazed his left thigh, ripping out a chunk of his armor and flesh below. He gasped, tumbling in the air before he flew back and past the line of Executioners, one machine every ten meters, Centurions and normal Guardians behind them to make sure the monsters would at least be slowed enough for the adventurers to escape in case the silver machines were destroyed as well.
+
+He landed, breathing hard as he touched his bleeding thigh, much of his leg gone entirely. He summoned a piece of wood and set it between his teeth. Hand on his thigh, he let his lightning sear the veins shut. He fell to the forest floor, groaning in pain.
+
+“Medic!” a nearby machine called out, the green eyed Centurion variant with four arms ending in closed fists stepping up to Trian, green eyes glowing as it scanned the surroundings.
+
+“Second tier resistance and one spell still just rips through my armor and leg,” he spoke, on one knee as he waited for one of his Medics.
+
+“Most of them are three marks. Be glad it wasn’t your head,” Aki said. “You are fighting well, the bolt that struck you wasn’t meant for you.”
+
+Trian sighed when a Sentinel landed next to him. Vienna as far as he could tell.
+
+The woman was clad in her slightly moving ash armor, her face shrouded, ashen wings at her back. The bow in her hand dissolved as she touched his leg, healing flowing into him. “Headmaster.”
+
+A neutral tone, he surmised. A greeting, nothing more, nothing less.
+
+He gave her a nod when the wound was closed, the tissue on his leg regenerated, fresh skin now exposed due to the destroyed piece of armor.
+
+Vienna vanished in the same moment, Trian unable to see her in his vicinity. Past three hundred now, and progressing fast.
+
+She had been one of the first to eclipse him, at least in personal power. There were many now in their organization, and he was proud of every last one of them. Thousands, hundreds of thousands of void creatures were crawling this realm, at least they would provide experience and levels to those willing to fight. And there were many.
+
+One silver lining to all of this.
+
+He was glad the Sentinels and Shadows worked together so well, neither any less mad when it came to the risks they were taking in this ongoing battle. Loss, anger, terror, revenge, opportunity. They all had their own reasons to be here.
+
+Trian himself had not wanted to stay behind. Already he had wondered if his position as headmaster was justified at this point. Perhaps he would soon promote a willing Sentinel but not yet. Most of them were far too young, and far too eager for battle to even consider such a position. And until then, he wanted to show them that he too could fight. That he was present. At least to level three hundred, he sighed and spread his lightning wings once more. Then I’ll take a day off.
+
+He smiled, reminded of his first months as a Shadow, the ambitions he’d had, the arrogance and ignorance with which he’d joined and fought.
+
+Slow and steady now. Don’t want to die and embarrass yourself here.
+
+________________________________
+
+Navalis rushed past the branches and trees, coming to an abrupt halt when she saw another cluster of void creatures. They were two hundred meters away, carcasses of bears, trolls, and wolves covering the clearing where trees and bushes had been destroyed in the vicious battle. The wildlife in the southern mountains hadn’t often brought a real challenge to the Shadow’s Hand, few creatures would’ve stood a chance against the three mark void monsters.
+
+She saw them consume flesh and blood with their spells, though she didn’t know what exactly they ate. Residual mana? Blood itself? Bone? All she knew was that the beings of the void sought out and killed any living thing in Elos.
+
+She raised her bow and aimed. The insides of their heads were most vulnerable. She charged a single arrow, feeling the magical projectile thrumming with energy and power. Enough to pierce through ten demons, enough to shatter through a wall. A moment later, she loosed, the arrow flaring up with light fifty meters later, burning bright and golden before it struck into the head of an unmoving void creature, the small explosion leaving a scorching mark but the creature still stood and turned to run towards her.
+
+Navalis stayed on her branches and aimed again. It would take a while for the creature to cover the distance. They were resilient and powerful magical beings, but not the fastest. She charged three more arrows when she heard a roar from the left. Dozens of meters away.
+
+She took in a deep breath, aimed and fired. Perhaps she could kill the single being before the others reached this cluster.
+
+She saw a flying form of black armor wreathed in blue lightning crash past the trees, shattering a few of them as loud laughter resounded. Next to the Elder of the Hand flew a single Sentinel. A beast, she thought. Navalis had to avert her eyes when she laid eyes on the silver pole weapon the large man wielded in his hands. An artifact of great power, she knew it even at a distance.
+
+Her arrows struck the monster charging her way, slowing it as she teleported away, making distance with a few quick steps through the tree tops before she aimed and loosed more arrows. She continued with the same approach until the creature fell and a message appeared within her mind. Hearing the distance explosions of spells, she knew how far away the moving line of Executioners and lower leveled fighters were. Looking up, she glimpsed a flying Watcher.
+
+She sighed, knowing that her skills had already been replaced by one of their machines. Would there be need again for scouts and rangers when they had eyes flying far above? Either way, she wanted to fight the monsters, Sulivhaan having received an obvious answer to his question if they would want to join the fight. Any fool would take this opportunity. It did not come without danger, despite the machines, and the somewhat simple minds of their enemies.
+
+But they were Shadows. They had come to Ravenhall in search of danger, in search of challenge, of glory.
+
+She reached the clearing she had seen before, the carcasses of bears and trolls now joined by broken creatures of the void. She knew the Elder and the Sentinel would soon leave the confines of the southern mountains, despite the arcane lightning.
+
+The suns will soon rise.
+
+She paused, looking up at the dark skies. The sun will soon rise.
+
+The world had changed and yet it had changed already. She wondered what else would come.
+
+It felt strange to her. To be past the enemy lines, without a need to report back. So she moved, to seek out her next target. Until no monsters were left in their lands.
+
+______________________________
+
+Evan felt another tremor go through the walls.
+
+He sat in the entrance hall of his library, his Seekers and workers sheltered below, many of them talking to the few machines of Aki that they allowed to stay in the Foundation. There would be much to learn from the events of the past night and day. Another sun had been taken. And this time, the Extraction was accompanied by a shift in the fabric, bringing void beings even into the far removed sands of the Isanna desert.
+
+Their ancient shelter protocols had protected them against the Extraction itself and the void creatures thereafter. Evan knew that even all his preparation could not have protected them against the four marks breaking into their realm. A shameful realization, truly. Something he would have to remedy. Perhaps he had grown complacent. Or perhaps there was simply nothing a reasonable man like himself could do against the plans of one like Ker Velor.
+
+Forces of nature brought upon this realm. And only another such force could counter it.
+
+Violent and chaotic.
+
+He poured himself a cup of tea. Hiran seed. Not his favorite but it had been a personal gift from Jiinna, one of his Seekers.
+
+He drank from the cup and breathed in, eyes closed before he breathed out. He looked up at the large machine sitting a few meters away, green eyes attentive. Aki did not speak to him without cause.
+
+He drank again.
+
+“The four mark abominations are cleared out, ten kilometers in each direction,” Aki spoke.
+
+Evan smiled. Perhaps he had grown complacent but he had friends and allies that he could trust. Friends and allies who were themselves the very forces of nature one would need to fight another.
+
+He stood up.
+
+“The fires are still burning. You should wait if you don’t want to see them,” Aki said.
+
+Evan closed his eyes. “I have seen much in my time, Sentinel of Akelion. It is not terror I feel, when I see the Primordial Flame, but awe.” He walked up to the shut gates of his Foundation, the sands flowing as he passed through and came out into the still bright night, yellow flames raging far away.
+
+The sands moved below him as his magic flowed from his breath. He felt the ancient bone of his rapier appear in his right hand. The first purple spells flashed his way, slowed and stopped by walls of moving sand. It would be a long battle but time had rarely been an issue. For this crisis too, shall pass.
+
+_______________________________
+
+Niivalyr stood on the lowest layer of Verleyna, looking down at the broken human town set within the mountainside of Karth. He could see the mists pooling in the distance, and he could see the faint light on the horizon. The arcane lightning would soon return but he knew the fighting would not stop.
+
+He hoped that many of the void beings would not comprehend the lightning, injured and destroyed in time. He wondered how far they had already reached into the mountains of Vannok. They were three marks but no Domain would fall to mere beasts of the void. He felt strange, thinking on his former home. A part of him hoped that it had fallen, hoped that the Architect or Ravana had gone there first, unbeknownst to the Accords. He felt guilt too, at the thought.
+
+He sighed, feeling what he felt before it faded. He was no longer the same. He was free of his Domain, free of their influence.
+
+“The Accords want us to stay in the region and hunt down voids,” a voice said from behind.
+
+Niivalyr turned to see Ben join him.
+
+“A beautiful sight, isn’t it?” Ben said, looking at the spells lighting up in the dark.
+
+Feyrair’s red dragon form flew past the mountain side, white fire flaring up to engulf the hordes coming for Verleyna, the flying fortress like a beacon of magic to the starved beings from beyond.
+
+“Too much was destroyed for me to share that sentiment,” Niivalyr said.
+
+“It is true,” Ben said. “I apologize. My words were thoughtless.”
+
+“I understand what you meant. Don’t worry, brother.”
+
+They remained in silence for some time. Niivalyr would join the fight once his mana had recovered fully. And yet he did not want to join the fray without consideration. The young survivors of the Sky Domain saw this battle as a way to prove themselves, Taleen machines replaced by creatures of the void. Niivalyr hoped that they would not be overwhelmed in the same manner, to find meaningless deaths before their time. And yet they were free to make their choice. Feyrair as acting Monarch only commanded them to retreat and heal instead of fighting on with injuries or out of mana, a command he knew many would ignore. They would learn, or they would die.
+
+“Did you know that this city, the city of Dawntree, had been under siege by elves from the Fire Wastes, Verlyena, and the Still Valley before? Just some years past, I hear,” Ben said.
+
+“We are closer to the Wastes. It is only natural that some of them would find this city and attack it.”
+
+“Of course,” Ben said. “I just think there is a certain…” he raised his hand. “Poetic irony, I suppose, to know that elves are the ones protecting them now. I will soon leave for the Root, clad in humanly garbs. To find out what they think of all this.”
+
+Thoughtless yet again. Demeaning of their loss and grief.
+
+For someone who prided himself in knowing humans, Niivalyr thought his fellow Hunter understood very little about their nature. Or perhaps he simply did not care?
+
+Niivalyr glanced at Ben before he looked back towards the ongoing battle. A battle he knew would not end in many days, weeks, and even months. Perhaps the void beings could be removed from certain regions. Perhaps they would move, like rivers or the winds. It was too early to tell. All he could do was his part.
+
+He charged his magic, feeling the power of Verleyna all around, feeling the power in his very soul. Monsters were afoot, and blood would be spilled. He would be methodical but then, he remained elven in his heart.
+
+Niivalyr hissed, and jumped.

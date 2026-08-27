@@ -1,0 +1,207 @@
+---
+id: 83a9710c-357e-54ca-8c5d-546ab7a9104d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 934 Niraela"
+slug: 0014-chapter-934-niraela
+partOf: azarinth-healer
+position: 14
+ownLength: 3009
+unit: words
+publishedAt: 2023-12-11
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1439584/chapter-934-niraela"
+royalRoadId: "1439584"
+---
+
+Chapter 934 Niraela
+
+Ilea arrived at the newly built memorial by herself. Felicia had left to meet the delegates of Lys coming from the city of Lyseia, their new capital.
+
+A circular park had been set up in the added extensions of Morhill, blending in seamlessly with the newly built roads. It would become the new center of the city and with Aki’s machines and all of their magic, Ilea assumed it would take mere months for everything around her to take shape. In a few years, she was sure the city could rival any other settlement before the Extraction.
+
+If no other major attack or wars happen by that time.
+
+Ilea looked at the plain shapes of enchanted stone set onto the wide meadow before her. Each were of similar size and shape, each representing countries, cities, and peoples lost in the Extraction.
+
+She heard birds chirping in the young trees surrounding the memorial. There were humans, some in adventuring gear, others wearing plain clothes, others yet in fine silk. There were dwarves, some with their war machines, others without. There were vampires, hoods or black umbrellas covering them from the sunlight. There were Mava and all kinds of other awakened beings found throughout the settlements of the Accords and all their allies.
+
+Ilea breathed in deep when she spotted Dale and Abby standing near the tree line in the distance, Alaina and Rhett with them.
+
+Been a while.
+
+She had found him in Riverwatch when the Extraction had been happening. And she had teleported him down into the stairwells leading to their shelters. Ilea felt shame and guilt at the thought. But I saved him. I didn’t want him to die.
+
+She closed her eyes for a short moment, then opened them and walked towards the group. She ignored the many glances and whispers her presence elicited in the gathering crowd.
+
+Ilea checked her Calamity Scale Armor and braced herself before she reached the group, Abby noticing her first. She said something and Dale turned as well.
+
+Ilea stopped a few meters before them, the two kids looking at her with big eyes. “Dale,” she said. “Abby, Rhett, Alaina.”
+
+“Ilea,” Dale said. He straightened himself.
+
+“It’s been a while,” she said and hesitated. “Look-” she paused. “I don’t regret saving your life but I know that I made a choice that was not mine to make. I took that from you and for that, I am sorry.”
+
+Dale breathed in deep, a slight smile coming to his face. “I resented you. I felt angry but I understand, Ilea. What would a mere mortal like me even do in a fight meant for gods. Gods like you.” He paused. “Humans like you. Maybe I would have done the same, if it was me instead. What’s done is done. I know it’s unfair but I can’t forgive you, not yet. But still, I would call you a friend.”
+
+Ilea grinned. “I did save your life after all.”
+
+“And thank the gods for that,” Abby said. “He is too stubborn.” She grabbed his hand and kissed his cheek, Dale making an annoyed expression in return.
+
+He sighed a moment later and looked at Ilea. “I appreciate your words. And I appreciate how many people you and the Accords have saved, all the way up to now. We’ll have to find a new home now, until we can return to Riverwatch.”
+
+“We may also stay here,” Abby said.
+
+“We’ll see,” Dale said.
+
+“Dad, can you not do that in front of Lilith?” Rhett said. The boy had grown, his shoulders already near as broad as Dale’s, a few singular hairs growing on his chin.
+
+Ilea looked at him but found the young man avoided making eye contact.
+
+“Lilith. No, Rhett,” Dale said and walked to Ilea, offering his hand. “This is just Ilea. Some lost battle-healer living in the forest.”
+
+Ilea grasped his hand and smiled. She made sure not to crush it. “It’s good to see you, Dale.”
+
+“Yeah,” he said and let go of her hand. “Despite everything we lost, I suppose I can’t help but be optimistic. At least we know we have powerful people to count on if more creatures from some other realm try and attack.”
+
+“A few, yeah, and more to come,” Ilea said, seeing a few winged Sentinels arrive by air.
+
+“Do you want to get closer to the stones?” Dale asked. “You don’t have to stay on the outskirts with us. I know you have many friends in high places.”
+
+“I’m fine right here,” Ilea said and walked over to one of the sturdier looking trees. She added her ash and fabric alteration to sit down and lean against it without damaging the wood or ground.
+
+“So,” Abby said as she walked over, the others joining as well to sit on the fresh grass, shaded from the sun. “What have you been up to in the past months?”
+
+“Clearing void creatures,” Ilea said. “Mostly just that, day in, day out. But now I’m on vacation, suppose things aren’t quite as dire anymore out there.”
+
+“You could visit if you want,” Abby said. “Do you still eat normal food? Or is it like, dragon blood and starlight for you now? I heard of your fire, it sounds very like you.”
+
+“Thanks,” Ilea said with a smile. “I like the flame, yes. I still eat normal food as well, not that I really need it to survive, I suppose. Well, I guess life would get dull if I didn’t enjoy myself, so in the end I do need it, maybe not to survive, but to live.”
+
+Dale placed his sheathed sword next to himself on the grass and looked over to another group of arrivals. He nodded towards them when Ilea noticed it was Walter and Lucia, together with most of the other Vultures. “We talked, back in the shelter,” Dale said.
+
+“They’re good friends now, Dale and Walter,” Abby said as she scooted closer to Ilea. She raised a hand to shield her mouth from Dale. “They feel very comfortable with each other. I suspect they might have even talked about an emotion or two.”
+
+Dale gave her a glance but didn’t comment.
+
+“Didn’t expect to find a four mark here,” Walter said when he spotted Ilea and joined them. He wore wide clothes similar to what Erik preferred, his hair and beard trimmed, his lute slung around his shoulder.
+
+Lucia wore a green linen dress, her brown hair longer than Ilea remembered.
+
+Harthome set down a large leather backpack and sat down with a grunt. “Don’t think this park will fit everyone.”
+
+“Morhill is big enough,” Dale said.
+
+“I feel almost nostalgic seeing all these people here, makes me think of travel without teleportation gates,” Walter said as he got his lute and plucked at the strings.
+
+“You never left those caverns though,” Ilea pointed out.
+
+He frowned. “I did. Quite often. Nothing wrong with having a comfortable place to call home.”
+
+“She’s teasing you,” Lucia said.
+
+“But yeah, I get it,” Ilea murmured. With her space magic, she could not only travel hundreds of kilometers in an instant, she could even travel to other realms as she willed it. Her magic sometimes felt like both a blessing and a curse. She could fight all kinds of threats now, could visit all kinds of places. But a part of her still missed the simple days of running through the forests near Riverwatch, or joining the caravan to Salia.
+
+She wouldn’t give it up of course, no. As alluring as the thought was to her. She had always chased the next adventure, the next challenge, things had always been exciting, the next mystery or challenge just waiting around the corner, or sought out by her if it didn’t show itself. Even now, she could go to Erendar to fight more spirits, or she could go and find out what Sephilon was like. She could have Erik or Vor show her a transporter in Kohr, for her to find strange and unknown realms to explore. And maybe she would do all that, in due time.
+
+But her current challenge was right here. To be with the people she cared about. With all the friends that she had made, all the people she had fought with. With Felicia. To be, and to live. For once, she didn’t feel like her next adventure was running away, as if she could miss it if she blinked.
+
+She smiled, listening to the soft tune Walter played as her friends talked. She heard the soft rustling of leaves above her as the winds flowed through the meadow, beings of all kinds sharing conversations, food, magic, and song. Morhill felt alive. It felt alive in the same way that Riverwatch had felt alive when she had first visited. It felt alive in the same way that Hallowfort had felt when she had first set foot into those caverns. Ilea smiled, glad to be there, glad to be alive, glad to see what the peoples of Elos would make of their future.
+
+She could feel a few of her marks close by, others yet far away throughout the continent. She knew that many of them were fighting the monsters of the void, even now, accompanied by healers, Shadows, and machines. They would fight and bleed, grow and evolve. One mark she saw flying down towards her, fast but with a graceful arc.
+
+Erik found their group a few minutes later, the four mark mage blending into his surroundings without anyone giving him a second look. He was comfortable, around all kinds of people, and Ilea wondered how much of how people perceived him was really due to his illusions, and how much of it was just the way he carried himself, the way he smiled and looked at everyone with honest interest.
+
+“Do you mind if I join? The sun is dreadfully hot,” he said and smiled at their group.
+
+As if he was some old grandfather. She raised her brows. Maybe that’s who he really is, and he just happens to be a four mark as well.
+
+“You look good,” Erik said when he sat down and rolled his shoulders, stretching lightly before he leaned back.
+
+“Thanks,” Ilea said.
+
+“Wiser,” he said.
+
+“Fuck off.”
+
+He smiled but ignored her defense to what she thought a multifaceted compliment. “It’s a nice park they built. A good place to start anew.”
+
+Ilea saw another mark closing in. Verillion, the First Vampire, though she assumed he was there for Erik and not her.
+
+The man wore a black shirt, his dark red eyes taking in the group as he split the crowd with his casual stroll. He held a black umbrella lined with silver, his long black hair flowing in the light breeze. Compared to Erik, Ilea thought he had the opposite effect on his surroundings.
+
+Everyone looked at him, the people making way for the powerful figure emanating both a casual charm and immense weight. An instinctual reaction perhaps or Verillion just didn’t like most people quite as much as Erik did. Or perhaps, Ilea thought, it was just the sunlight that he found uncomfortable.
+
+“Quite an assortment of interesting creatures sitting here, in the shade of young oaks and birches,” he said and bowed his head. “Greetings, to all. May I join?”
+
+“Of course, First Vampire,” Walter said and smiled, still playing a soft tune with his lute.
+
+Ilea didn’t miss the intense look in Celene’s eyes as she glared at the vampire.
+
+Harthome pinched the woman’s arm. “You’re staring.”
+
+“Am I not allowed to stare?” Celene hissed.
+
+“It may be seen as disrespectful,” Weavy said out loud, the demon wearing cloth to cover his face and some of his features. While most people here had gotten somewhat used to the many species living in their cities and throughout the lands, demons remained incredibly scarce, the followers of Octavia Strand likely out there fighting void creatures along everyone else. It would take time for humans at least to not see Mind Weavers with apprehension, same as would be the case with Elves. None were here in the vicinity but Ilea knew a few of them had come to the city, based on her marks.
+
+“It is a good foundation,” Verillion said after a while. “Though not close to what I remember human settlements to be.”
+
+“Marrindayne is not that different,” Ilea said.
+
+“That might be the most insulting thing you have ever told me.”
+
+Ilea smiled. “Buildings, roads, carts, magic. It’s all here. I suppose fields and nearby water isn’t quite as important anymore with all the magic and technology around.”
+
+Verillion looked disgusted. “Buildings. Roads. Magic?” He shook his head.
+
+“She is not one to notice the finer details of aesthetics,” Erik said. “Don’t take it personally.”
+
+Ilea tilted her head to the side. She was a little confused. Sure, the architecture in Marrindayne was different, and they had their whole nightlife aesthetic and all that but in the end it was still a city. With people.
+
+Verillion sighed. “I suppose you have visited quite a lot of exotic places in your time.”
+
+“Oh yeah, the Sunlight Wastes were cool, and they felt quite a bit different than most settlements I’ve seen,” Ilea said. “Or anything the Druned have built.”
+
+Her thoughts were interrupted when a Centurion walked past the various groups nearby, informing everyone about the start of the ceremony. The machine reached them soon after.
+
+“Greetings everyone,” Aki spoke. “We will start the Day of Niraela with a minute of silence, to remember, and to honor those we have lost. The cannons will fire once above the city to mark the start, and once more to mark the end. If you can, please stand up.”
+
+Ilea floated herself up and stretched her neck, waiting as she watched the crowd quiet down to whispered conversations, the music subsiding as most everyone stood and looked towards the sky.
+
+It was quiet when a streak of red arcane magic flashed towards the distant clouds. The last conversations died down, the busy field and surrounding city entirely silent.
+
+Ilea could hear the wind flowing through the trees. She closed her eyes and thought of their planning and assault of Ker Velor’s facilities. She thought of the flickering sun right when they had thought it was over. She thought of the Fae, joining her to close the rifts in space, and she thought of their battle with Ravana. But more so, she thought of the people she had seen hidden and afraid in their shelters deep below the earth, she thought of the fighters and mages joining machines, Sentinels, and Shadows to fight back against the creatures of the void.
+
+She thought of those in Riverwatch and Virilya, those she had not been able to save, buried under rubble or killed by arcane lightning. She thought of families ripped away from their homes, children separated from their parents. She breathed. Those who remained were here now, building a new future. Those who remained were out there fighting, clearing this world of what the Architect had forced upon it. They had fought, and they would fight again.
+
+Ilea opened her eyes and she saw another streak of red light shining in the sky, the bright beam parting a cloud kilometers away before its power dissipated.
+
+A flare went up, somewhere past this meadow, a bright sphere of fire, flying up towards the sky before it exploded in bright flame. Another spell followed, this one arcane in nature, then a sphere of smoke, then ice, and crystal. Ilea watched as mages of all species and schools of magic sent their spells towards the sky. Hundreds and soon thousands of individual pieces of magic, sent out by people, all with their own history, their own connection to these events.
+
+They were those who remained. They had fought.
+
+And they would fight again.
+
+Ilea raised her hand and smiled, forming a single sphere of ash above her palm before she sent it up and outwards, her magic joining that of thousands before she willed it to disperse and join the clouds of mist and smoke.
+
+The spells soon slowed and then died down, only few single ones still firing upwards.
+
+Ilea healed two people in the range of her domain, both of them hit by stray debris, the collective gesture not necessarily practical with hundreds of mages involved. She could see a few barriers and healers rushing through the crowd now that conversations started up once more.
+
+She breathed in deep and glanced at her companions. Dale and Walter who she knew the longest but also Erik and Verillion who she had fought with against Ravana and the void. “I don’t suppose you have some ale with you?” she said, looking at Walter.
+
+He smiled and nodded towards Harthome and his large backpack, then glanced to Erik and Verillion. “You two are of course invited as well.”
+
+“I’d prefer some dragonblood but I’m happy to try,” Verillion said.
+
+“We can visit Ravenhall later, if you want to,” Ilea said. “I’m sure we can get you some blood. But I have to ask, mine wasn’t to your liking?”
+
+“Blood offered from a friend is consumed with the due respect, and yours, I would only use in the most dire of battles.” The vampire paused. “I’ll take you up on that offer, if you would have me. It’s been a long while since I’ve had a day to sightsee.”
+
+“There really is no need to hold back. I can give you a few hearts if you want to, I can regrow them near instantly.”
+
+Verillion held up a hand. “There is no need to further destabilize our economy, Lilith. I will try some ale for now but I appreciate the generous offer.”
+
+Ilea received her cup and raised it towards the others.
+
+“To those we lost,” Dale said.
+
+Ilea locked eyes with him for a moment, and then she drank.

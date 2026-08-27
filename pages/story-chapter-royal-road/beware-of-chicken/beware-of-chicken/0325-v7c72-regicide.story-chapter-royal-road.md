@@ -1,0 +1,161 @@
+---
+id: 6f361946-4ee8-53b5-b02c-69648b20f003
+page-type-slug: story-chapter-royal-road
+title: "v7c72: Regicide"
+slug: 0325-v7c72-regicide
+partOf: beware-of-chicken
+position: 325
+ownLength: 2185
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3597550/v7c72-regicide"
+royalRoadId: "3597550"
+---
+
+“On your left! Swarm!” Ruo Ma shouted, his voice hoarse. The Blaze Bear he was standing beside pivoted. Fire issued forth from the Spirit Beast’s maw, as Ruo Ma’s own hands came up.
+
+[Howling Gale Palm!]
+
+The blaze erupted into a full conflagration, the flames going from red and yellow to something nearly white for an instant.
+
+The diving swarm of hornets burned. The Blaze Bear and Ruo Ma staggered back, panting, before shoving themselves forward again to maintain the ring. Their lines had completely overlapped with the bears by this point—It was really weird fighting with the terrifying monsters his parents had told him stories about as a child, but Ruo Ma liked to think of himself as a flexible sort. Probably why he and Bat got along so well.
+
+They were Spirit Beasts, but it helped to imagine them like Master Gen’s kin. Ruo Ma couldn’t understand a lick of monkey, but they were clearly intelligent and were helping out, so it made that part easier.
+
+Even though they were winning, it was clear that everyone was starting to flag. They had probably burned more Qi in this fight than had been burned in the last hundred years in the Azure Hills.
+
+Still, as he scanned the sky and saw light instead of shadow… they had to be through the worst of it.
+
+“You still holding up, Hui?” Ruo Ma asked.
+
+His human partner nodded. “I’m fine. And I’m asking Lady Ri Zu to marry me when this is over.”
+
+“Isn’t she with Master Jin’s First Disciple, Bi De?” he asked.
+
+“Obviously, but they’ll want this beautiful sister right here to join them,” she snarked, pointing at her face… and being careful not to smile.
+
+Her left cheek was only partially sealed shut, and if she strained it too much it would rip open to the back of her jaw. She had a nasty wound across the bridge of her nose where it had nearly been bitten off, and so many barely sealed puncture wounds it looked like she had freckles.
+
+She was feeling good enough to crack jokes, which was better than she had been less than an hour ago. A swarm had gotten through a gap in the bears’ fire and jumped them both. Ruo Ma was lucky he was closer to their new buddy, who had immediately lit up most of the ones on him… and then turned his fire breath on Hui, who had been driven to the ground.
+
+They managed to get the hornets off her, and Ruo Ma had feared the worst. She had to have taken nearly a thousand stings—yet as he saw her, he noticed that the welts were much, much smaller than they should have been. Hui’s eyes had been wide and wild, and she was clearly in pain… but the poison itself seemingly had a fraction of its intended effect.
+
+Even his own wounds, which he thought had just been the urgency of the moment dulling his pain, didn’t swell up. His arms tingled, and he noticed a slight green hue to the ground. It felt… right. Hallowed. Nearly divine, like he was in the garden of some kind of heavenly being like Shennong—his musings were interrupted when two rats leapt out of their shadows and started first aid.
+
+Both of them had been declared “good” shortly thereafter. And while Hui had been told she could retreat if she wanted to… his friend had elected to stay by his side.
+
+“Hmm, you’re right. Think I can be a concubine too? I think I've got the arse for it…” Ruo Ma replied, slapping his own behind. Hui’s eyes shot down before shooting back up, a slight flush coming to her cheeks.
+
+She scoffed. As did the bear.
+
+“You understood that?” Ruo Ma asked.
+
+‘I have the prettiest fur, sheep-head human. Clearly I am the superior mate,’ the bear growled.
+
+Ruo Ma couldn't help the laugh. ‘Sheep-head human?’ His hair was fairly fluffy…
+
+“Hey, why fight? We can spread the love,” Ruo Ma said, continuing the bit. “Besides, most Spiritual Doctors are kinda strange…”
+
+The bear cocked his head to the side.
+
+‘True. Healers always need much minding. They like cutting things open and eating random plants, just to see what they do. Old Broken Tooth always liked eating nightshade, said he liked the tingles…’ the bear replied.
+
+The tone was light, despite the grim nature of their work, and they continued their advance. The blasts of fire and other techniques finally started to lessen as they approached the center of the Ash Forest. Ruo Ma actually saw some of the Grand Marshal’s blades fly overhead, and while he couldn’t make it out completely, Commander Tigu’s voice was booming through the forest.
+
+One last push.
+
+===================================
+
+Bi De’s heart soared with joy. He came up from below the strong arm of his Master, in the brief moment where it was paused from laying low another of their enemies. The hornets were reduced to a thick paste from the blow. Bi De’s own attack wove seamlessly into the gap, and two more died as they continued to advance into what remained of the hive.
+
+They hadn’t been foolish enough to just walk into the palatial construct. His Master had drawn back his fist and struck, shredding most of the rooms and spoiling the ambush that had been planned for them.  Yun Ren and Paobu accompanied them into the heart of the hive, watching their backs.
+
+“Nice one,” his Master praised, and Bi De’s heart swelled further. Perhaps it was the folly of his youth, but he couldn’t help the feeling of excitement and satisfaction as he stood shoulder to shoulder with his Master.
+
+He had not been there at his home when it had been attacked. He knew that it was not his fault, as he was doing vital work elsewhere. But it had still felt wrong.
+
+Here and now, fighting against a threat to the province… it was everything he imagined it to be. The righteous against the wicked.
+
+The Yellow Empress had been given many chances to come to an accord or to cease her assault… and yet every one of them had been denied. Even when she was losing, even when her final bastion was broken open, she still insisted on attacking.
+
+Vajra had reported the hornets’ suicidal assaults and the damage they had inflicted… and once more Bi De was grateful for the fact that the two most important women in both his, and his Master’s, lives were here.
+
+The Healing Sage’s technique, [Yan Emperor's Herb and Root Garden], denatured the venom faster than it could do damage to those who were stung. For the bears especially her presence was a boon, because while the stingers could still go through their hide, it was the venom that actually did most of the damage. With her Qi saturating the land, the Blaze Bears were suddenly unstoppable juggernauts.
+
+And those that did finally collapse? Ri Zu’s shadows were upon them in an instant, with herbs and soothing Qi, helping them rise up again.
+
+As his Master said: healers were the difference between success and failure.
+
+Without them things would have been much worse… and still their forces did not escape wholly unscathed. Bi De knew there had been some casualties, from both the humans and bears.
+
+But now was not the time to dwell on such things.
+
+This fight had to be finished.
+
+Bi De’s wings swept out, and two more of the hornet royal guard were decapitated. His Master pulped three more. A bolt of lightning and a gout of flame took out the rest.
+
+They moved until they reached the center of the hive. And there, they found the form of their enemy… and the adrenaline and fierce joy faded.
+
+“Great Mother…” Paobu cursed. Yun Ren just looked sick.
+
+The creature was slumped in the hollow of a tree. Her abdomen was a distended, unsightly mess. Her armor was twisted and warped. She was twice the size of a Blaze Bear, a heaving mass of bubbling flesh and hard armour. Her massive claw hands reached out, grabbing the corpse of a boar. The Yellow Empress sheared it in half with a single bite, devouring hundreds of pounds of meat in an instant. Her abdomen pulsed. Eggs hit the ground, then changed. They hatched into larvae, and then those larvae stood, rising immediately into fully formed warriors as big as humans.
+
+But they looked sickly and pale. They screeched and charged, and were quickly dealt with.
+
+They approached.
+
+The Yellow Empress staggered to her feet, her glare robbed of any of its potency by the fact that she was clearly suffering the effects of poison.
+
+Her eyes were filled with hate and delirium.
+
+‘We conquered the light of heaven! We will conquer this too,’ the Yellow Empress hissed.
+
+Vajra crawled out from under his coat to look upon the Yellow Empress.
+
+‘For so long I have fantasized about this moment. I dreamt of finally killing this nightmare, and parading her head around to the four corners of the world. Yet this is our foe? How pathetic,’ the bee said, disdain dripping from her dance.
+
+Bi De couldn’t help but agree. This was no grand battle at the end. This was the final execution of a foe already spent.
+
+His Master sighed. “Hatred begets hatred. Curses beget curses,” he mused, looking directly into the beast’s eyes. He made to step forward, to shoulder this himself again, but Bi De held out a wing.
+
+“May I?” he asked. His Master nodded and stepped back.
+
+The Yellow Empress screeched and swung her massive arm… which Bi De caught with his wing.
+
+‘Get your hands off me, you filthy peasant!’ the Yellow Empress shrieked.
+
+He could have struck back immediately. He could have killed the Yellow Empress with his spurs or annihilated her in a blast of silver light.
+
+“I’m sorry it ended up like this,” Bi De replied, disregarding the insult. Instead, he gathered his Qi, the silver light of purification, and pressed it into the enemy before him. At contact with his Qi, the Yellow Empress froze. He gently pushed her back down, feeling now the curse that had attached itself to her. “This… is all I can do for you.”
+
+The beast curse within her shuddered… and then snapped. His Qi spread through her body, and through her connection with the other hornets. If any of them still lived… they would not have the same ravenous hunger. The massive instabilities in the Yellow Empress’s Qi suddenly smoothed out and the turbulent roil faded to nothingness.
+
+‘...I’m not hungry anymore?’ the Yellow Empress asked, her voice small, quiet, and for a moment, full of soft wonder.
+
+Bi De’s silver Qi touched the core within the beast and pressed, gently snuffing out what was left of the Yellow Empress’s life.
+
+And then there was silence.
+
+========================
+
+Baolin of Hui Jaotzu clutched his spear tight, even though he hadn’t seen a hornet for the past five minutes. Occasionally, a gout of flame would roast another hive… but it was almost eerily silent, instead of the deafening drone that had characterized the last twelve hours.
+
+He couldn’t even walk properly anymore, but Huishou had decided to help him out. It was rather strange, riding on the back of a massive bear… but it was also kind of exciting too, riding a Spirit Beast and spearing hornets from the sky.
+
+Together, they staggered into the last clearing, where they saw the largest hive yet. It was a massive thing, nearly as large as Baolin’s village, and it completely scaled the sides of the trees, disappearing into the canopy.
+
+It was completely surrounded, by cultivators and Spirit Beasts both, the last bastion of the enemy.
+
+Its front was already smashed open, and there were a bunch of people who looked a lot like cultivators around it. Baolin had to forcefully drag his eyes away from the most beautiful woman he had ever seen before he really started staring; she was just perfection incarnate! The other two were somehow even better; they were Yin and Yang! One was a tanned beauty rippling with muscles, and the other was a dainty pale and silver fairy who looked like she had just descended from the heavens.
+
+Instead, he focused his eyes on the entrance.
+
+And from the ruined entryway, a Blaze Bear came, carrying a massive corpse. It was a grotesque thing of yellow chitin and distended, disturbingly fleshy bits. Each step was heavy, as the bear dragged the bulk forwards while others followed from behind.
+
+It was Paobu, Bi De, Yun Ren, and the bee, Vajra.
+
+“It is over! We are victorious!” the rooster declared.
+
+For a moment, there was silence. For a moment, it didn’t seem real. And then the cheering started. The Blaze Bears, once looking dead on their feet, began to roar, raising their arms to the heavens.
+
+Huishou roared with them, and they all dashed forwards to mob the heroes who had defeated the plague of Ash Forest.

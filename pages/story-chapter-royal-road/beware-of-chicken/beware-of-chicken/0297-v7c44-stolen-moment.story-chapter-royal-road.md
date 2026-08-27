@@ -1,0 +1,131 @@
+---
+id: 4f16eaf1-37c3-57d4-937e-7d4ab5885d37
+page-type-slug: story-chapter-royal-road
+title: "v7c44: Stolen Moment"
+slug: 0297-v7c44-stolen-moment
+partOf: beware-of-chicken
+position: 297
+ownLength: 2025
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3225057/v7c44-stolen-moment"
+royalRoadId: "3225057"
+---
+
+Xiulan couldn’t help but feel some relief when Jin and Meiling were welcomed to the Dueling Peaks. Practically all her time had been spent since returning to her post preparing for this moment. It was the event of the year—something that necessitated many meetings, not just with sect elders who were trying to curry favour with her but with every apparatus of their still-growing alliance. If she had to listen to one more veiled insinuation that she suggest Jin visit a particular sect she was liable to stab somebody.
+
+To say nothing of the nightmare that seating arrangements continued to be. So many rivalries still to be mitigated…
+
+It was a blessing Xiulan had so many allies, for she surely would have crumbled under the weight of everything alone. But she was not alone. Tigu had completed her business in the north, and had raced back as soon as possible, not even stopping back home, so she could help take care of any security concerns. She and Rags had been utterly invaluable. Both were standing among the elders. Tigu looked like she was restraining herself from jumping upon her mother and father, but she did have a bit of an image to maintain here.
+
+Still, it was a good break for them both. Especially with that whole debacle in the Grass Sea, where some fool had placed an open bounty on the Acting Lord Magistrate’s head. A bounty that had out-of-province cultivators coming to collect. They had nearly assembled a strike force to take out the scum who had ordered the assassination… only to find that they were already imprisoned. Or at least most of them. Rags, Tigu, Yin, and even Xianghua had to root out the cells in Grass Sea City who had escaped and close down the bounty.
+
+Meanwhile, Delun and Gou Ren had worked overtime on the repairs to the Dueling Peaks, bringing multiple systems back online with the help of the monkeys of Crystal Hill.
+
+It was fascinating to watch each little piece start working again, from the heating and cooling systems, to ancient flower beds that automatically watered themselves, and even the waste processing stations. All of it was one step towards returning the mountain back to its original state.
+
+They even found old banners in storage—the ones that draped from the top of the mountain, each bearing the symbol of Azure.
+
+She knew Jin wouldn’t particularly enjoy the grand entrance, the pomp and ceremony, but he understood its need.
+
+And so they got everything out. The massive banners. The honour guards standing along the road. The elders, to ring the gong above the arena, and Bao Wen to change the ground of the stadium to soil.
+
+And that was just the welcome. They had the feast, the welcome party, the tour of the grounds, the bouts that disciples and elders alike would be putting on for entertainment… it was effectively a state visit, and putting on a show for Jin was the best way for the sects to feel like they had a stake in this.
+
+“Grand Marshal. Esteemed Elders of the Azure Hills. Thank you for the warm welcome. It is good to meet under such circumstances, rather than how we met previously,” Jin said, and his joke shattered the subtle tension. He stood under the gazes of all the Azure Hills easily, not an ounce of tension showing in his body. “May I introduce my wife, Hong Meiling…”
+
+He went through the introduction to his household without a single hitch or hiccup; Wa Shi and Bei Be were introduced like it was the most natural thing in the world.
+
+It was actually kind of jarring to see him like this. She had always considered her dear friend a noble soul, but he never put on airs. He was always ready with a smile or a laugh, to pat people’s shoulders, hug them, or play pranks on them. His warmth was like the sun upon the earth. Soothing and comforting, and a balm to her soul.
+
+And yet now he stood before her with no cheeky grin or ready joke. He stood before her as the strongest man in the Azure Hills; the man who had defeated three Earth Realm cultivators and a being in the Sky Realm. The grandson of Shen Yu, the Unconquered Blade. Affiliate of the Cloudy Sword Sect. A Spiritual Herb Master that would command the respect of people in provinces far greater than theirs.
+
+His power was tangible, yet not imposing. He did not need to have any displays of dominance and that simply lent him more authority. His bearing was practically regal… and it looked good on him, she couldn’t help but think. The well of calm strength he was radiating set the energy for the rest of the cultivators present. He was as placid as a lake and everybody noticed it, matching his demeanor.
+
+At least on the surface. Tianlan was cheerfully relaying some of Jin’s annoyed grumbling to Xiulan. She and Tianlan had conspired to make the grass grow, and Xiulan had directed her friend into which systems she should hit to produce the glow, making Jin’s entrance just a bit more impressive. Not that he needed it… but it was amusing.
+
+Still, the Lord Magistrate had taught him well. Just as Lady Wu had taught Meiling well. She was standing slightly behind her husband, looking just as calm as Jin was. Meiling’s purple eyes caught Xiulan’s and her smile widened a fraction, before returning to a neutral face.
+
+Zhuye, in the arms of the fox-maid—Suyan, Tigu had told her—was looking all around the arena in confusion, sniffing and rubbing at his nose. He looked entirely overwhelmed at the hundreds of cultivators in the stands, and had little tears in the corner of his eyes.
+
+Xiulan immediately pulled her attention back to the matter at hand. The faster she got through this, the faster Zhuye would have a place to rest!
+
+“It is our honour that we are able to receive you, Master Jin,” Xiulan said, “As well as your wife, your son, and your servants. Every cultivator here knows of the battle on the Solstice, and the horrors you prevented from falling upon the Azure Hills.”
+
+Jin nodded. “It was my duty—just as it was yours, Grand Marshal. We shed blood together in that battle, and I was glad to have you by my side. Just as I was glad to hear of this alliance. I look forward to getting to know those who have pledged themselves to this grand undertaking.”
+
+The crowd rumbled with energy at his words and approval. His earnestness was conveyed through the mountain of Qi that was surrounding them. The weight upon the world that was Jin and Tianlan.
+
+Xiulan could feel it in the crowd. The shock, which turned to pride. That stoked the flames in the chests of all who were starting to see the Azure Alliance as something that might become permanent.
+
+A man who was truly strong—not just for them, but who would be considered a monstrous existence even in the strongest of provinces—had expressed his approval and interest. And not just that, he considered it a worthy, difficult task.
+
+His eyes roved over them all. They warmed when they landed on Xiulan’s companions, but they never became cold. Baatar, beside Xiulan, stood straighter when Jin’s eyes landed on him, and Jin offered the older man a smile.
+
+People looked like they were about to step forwards, to introduce themselves and make small talk, but Xiulan intercepted the attempt.
+
+“The road surely has been long, Master Jin. We have quarters prepared, so please accept our hospitality while we convert the arena for the feast.”
+
+Jin paused… but then a tiny whine reached both their ears, Zhuye burying his face into the crook of Suyan’s neck. Every elder’s eyes similarly snapped to the babe… and they immediately backed down.
+
+“That would be wonderful, Grand Marshal,” he said, before turning to the other elders. “I look forward to getting to know you all better at the feast.”
+
+Again, the words were perfect; everybody about to mingle took a respectful step back.
+
+“Of course,” Ulagan Baatar accepted immediately. “Master Rou, we hope our humble hospitality meets your approval.”
+
+“Both the Hermetic Iron Sect and the Framed Sun Sect provided exemplary accommodation; I do not think that the hospitality of the Dueling Peaks will be any lesser. Please lead on, Grand Marshal.”
+
+Xiulan bowed and did just that.
+
+======================
+
+They were allowed some privacy as they walked through the Dueling Peaks to the recently restored private suite near the top of the mountain. Away from the overwhelming crowd, Zhuye’s quiet distressed noises slowly lessened. They were escorted by every Commander of the Azure Alliance as an honour guard; Sect Master Xianghua would be arriving just slightly later, to not blatantly showcase their relationship.
+
+They remained largely silent until they got to a specific door—the noble suite. It would be the safest in the mountain. Tianlan had the overrides for all the doors, and no one else could get in or out of this room without her permission. Gou Ren and Delun had even repaired the sound proofing.
+
+The doors closed behind them.
+
+And then, they were allowed to be themselves. Meiling took Zhuye, bouncing the babe up and down… then she turned to Xiulan.
+
+“Uuuuugah! That was so nerve-wracking!” Meiling groaned, her regal, poised demeanor shattering instantly. She grabbed onto Xiulan’s arm, her eyes betraying her stress. Xiulan hugged her back without hesitation. “There were so damn many of them!”
+
+Gou Ren laughed at her, slinging an arm around Meiling’s shoulders. Shaggy Two leaned against her legs, providing support in his own way.
+
+“It's bullshit! Man, when I first got to Xianghua’s sect—I felt like I was going to throw up!” Gou Ren said, his tone commiserating.
+
+“Ah, you need to tell me all about that—tonight!” Meiling demanded.
+
+“Damn, Big Bro, you looked all cool and regal and shit!” Yin declared, punching at Jin’s stomach. The man laughed and punched her shoulder back with exaggerated movements, his other hand on Tigu’s leg. Naturally, she had immediately jumped onto Jin’s back and was hugging him from behind.
+
+“What the hells was that?! Where was the little food table?! How could you forget the little food table?!” Wa Shi immediately began complaining, while Rags and Loud Boy laughed.
+
+“It’s later tonight, brother, and I guarantee you’ll love it!” Rags promised.
+
+Xiulan let the stress wash away with the sound of laughter and amusement, a stolen moment amidst the pomp.
+
+Jin hugged her as well in greeting, and she leaned into the warmth. Wa Shi coiled around her. Bei Be butted his head against her side and gave her a firm nod.
+
+And then, Meiling left Zhuye in Xiulan’s care, while she went to interrogate Tigu and Delun on what they had been up to, her eyes gleaming.
+
+Xiulan just smiled down at her charge. Zhuye rubbed at his nose a few more times, his tears finally dry. He paused, sniffed, and looked up at her.
+
+The pout and last dregs of tears disappeared entirely. His purple eyes widened.
+
+Little hands eagerly grabbed her braids.
+
+“Aun’ Lala!” he cheered, his voice loud enough that it cut through the conversation. His voice was one of pure and utter joy. His mouth opened in the widest smile she had ever seen on him. She could see the love and affection sparkling in those purple depths, and he hugged her with all his might. “Ma! Da! Jiejie! Aun’ Lala!”
+
+“Yes. Aunt Lala is here,” she whispered to him, her voice thick with emotion.
+
+For a moment, everything else disappeared. All the stress. All the work she still had to do. Everything. There was just the warmth of the little one in her arms, who was so happy to see her.
+
+It was a perfect moment; and it made the toil all worth it.
+
+================================================
+
+Master Rou had arrived.
+
+All who were at the Dueling Peaks knew it.
+
+And all began to maneuver to curry his favour… or for other reasons.

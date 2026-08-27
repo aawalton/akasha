@@ -1,0 +1,121 @@
+---
+id: b73b7bd9-0ce0-5ce4-9567-73d322acec88
+page-type-slug: story-chapter-royal-road
+title: "59. Navigating the Unknown"
+slug: 0059-59-navigating-the-unknown
+partOf: breaker-of-horizons
+position: 59
+ownLength: 2325
+unit: words
+publishedAt: 2020-11-23
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/589547/59-navigating-the-unknown"
+royalRoadId: "589547"
+---
+
+The tip of the Demiurge's staff penetrated the crystal with a sharp crack that I felt in my bones, and at the same time also simply slid into it with no more effort than dipping a stick into a basin of water. Two very different things happened in the same space, somehow overlapping. Seeing this immediately brought on a splitting headache, and my eyes started watering.
+
+The horribly familiar sensation of tipping sideways seized me again, and I tumbled out of my chair onto the smooth, black floor. The golden veins that marbled it seemed to throb in time to the pounding of blood in my ears. With my nose pressed right up against it, I could almost read the tiny glyphs that made up the streaks of gold in the floor. And even though I still hadn't learnt what these specific glyphs were... they somehow made sense.
+
+Or rather, they were literally making, creating sense. The world around us was not falling to pieces like before. By the lake, reality had come apart at the seams, but now it was only slightly distorted. The world wobbled ever-so-slightly like everything was underwater, but it was still recognisable. Still... stable.
+
+I gingerly got to my feet and saw that the rest were in a similar state of disorientation. Only Ambrose had managed to stay in his chair, although he was clinging on to it tightly. The rest of us were only just getting up.
+
+The Demiurge was still standing by the dodecahedron, the tip of his staff embedded in the dodecahedron. I instinctively flinched away from looking at the point where the staff met the crystal. In fact, it was taking a great deal of effort for me to even look in that direction. Besides the twinge of mental pain and confusion that came with trying to look at that impossible sight, there was also a weird repulsive force that made it physically/mentally difficult to focus there, like trying to push two alike poles of magnets together. How the Demiurge was able to stand so close to it was beyond me. He didn't even seem fazed.
+
+'The knot-link-anchor will give us a reference point,' the Demiurge sent through the arcana. But there was a different quality to that communication now — it was like we had only ever read his words on paper, but now we were listening to his real voice for the first time. 'I will now teach you the basics of navigating the raw field of arcana that permeates the world.'
+
+"What did you do?" Emilia called out, shielding her eyes with a hand as she squinted in the direction of the Demiurge.
+
+'Agitated the augera. When they are riled, their agitation bleeds into the arcana as well. This was what happened by the lake. If you are not prepared, this wash of chaos can overwhelm and kill you.'
+
+"But it's not as bad now," Jerric observed, turning his face away from the dodecahedron and the Demiurge.
+
+'The knot-link-anchor is mitigating the effects. Now, our task today is simply to give you the tools to run, not to fight. Under no circumstances must you attempt to take on an augera if it does not wish to be disturbed. You flee, or you die. Is that clear?'
+
+We nodded warily. I noticed that the rest were in similar states of discomfort, and nobody was capable of looking at the Demiurge for long. I could force myself to fix my eyes on him, but it was like staring at a bright light, albeit one that induced mild nausea and a headache, and I had to look away after only a few seconds.
+
+"How are we going to do this? We can't even look at you properly," Lynus said through gritted teeth. He seemed to be struggling a little more than the rest of us, with the exception of Devon, who looked like he was about to empty his stomach over the floor.
+
+'Yes, that's where we'll start. Right now, you are used to orienting yourself using sight. But you must learn another way to orientate yourself in a space. Remember the lake. There will be nothing useful to look at when a wild augera is perturbing the arcana. If it helps, close your eyes, focus on my voice, and find me here in the arcana.'
+
+Closing my eyes did little to help. If anything, it made me feel even more disoriented. Trying to turn towards the Demiurge with my eyes closed actually made all the symptoms even worse. Judging by the sound of pained hisses and uncomfortable groans, the rest were faring no better.
+
+'Closing your eyes is not an answer. It is a tool. If it does not work, then abandon it. Stare, wide-eyed, at nothing. Your eyes, closed or open, do not matter. Sight does not matter.'
+
+That was kind of like daydreaming. Opening my eyes while allowing my mind to drift was something that came more easily to me, so I did so and allowed them to slide out of focus. Peripherally, I noted that Devon was staring hard at the floor, but I quickly turned away from him and the rest so that I wouldn't be distracted by what they were doing.
+
+'Sometimes, you sense people passing near you even when you do not see or hear them coming. Imagine that feeling now. You are sightless but aware in the arcana. Look for me.'
+
+How hard could that be? He was standing right there, just a few paces from us. I blinked and turned, but he was gone. The staff was still embedded in the dodecahedron, but the Demiurge was no longer holding it there.
+
+'Not like that, Caden,' the Demiurge sent, and I felt the weirdest thing — the phantom sensation of my ear being flicked. It was distinct enough for me to recognise that nothing had touched me physically, but pronounced enough for me to feel.
+
+Chastised, I slowly eased myself into the arcana, drawing on what I could remember from the lake encounter. The arcana was a body of water, and we were little leaves floating on the surface. I needed to dive, to peek beneath the water and look for the Demiurge.
+
+The transition was a lot less overwhelming and mind-breaking than what I had experienced during the lake encounter. Back then, I had found myself flung into a churning ocean of incomprehensible depth. Here, in the augera chamber, safely ensconced within the glyphs and with the presence of the knot-link-anchor, it was more like wading into a river.
+
+But it was by no means easy. The Spire augera was clearly displeased with being used in this manner, and the river, while less crushingly deep than the ocean, was still in full flow. As soon as I got far enough from the proverbial shore, I found myself being dragged beneath the surface. It took me a moment to steady myself and, for lack of a better analogy, 'tread water'.
+
+Someone met me beneath the surface. There were no faces here, but I recognised the auric-ambient-flare. 'Good,' Ambrose sent. 'Let's see if Emilia can keep up. Then we should help the rest.'
+
+As with the Demiurge, his voice had a different dimension now. It seemed that here, at this 'depth' in the arcana, communication was richer.
+
+'You're faster than me, Caden.' Emilia's presence drifted up to us just a moment later. Her statement was a complex knot of mild surprise, delight, expectation, and wariness.
+
+'Let's see how the rest are doing, then we can find the Demiurge,' Ambrose interrupted before I could reply.
+
+It was immediately apparent that our presence in the arcana was not necessarily tied to our physical bodies. Ambrose, Emilia, and I had to spend a minute to locate where we were in the physical space. Drawing close to my own body was an extremely disconcerting experience because I could feel how the arcana was flowing within that physical space of my body, then flowing out to connect to my consciousness, so that I could 'see' myself 'looking' at myself, 'looking' at myself, 'looking' at myself...
+
+'Caden, don't.' Ambrose sounded queasy. 'It will just keep going. Acknowledge it, then slide over it.'
+
+'Let's trace the others.' Emilia beckoned to us from where she was drifting by Kevan's physical body. 'We each find one, then... bring them... here. Where the bodies are.'
+
+Ambrose and I sent our agreement, and he went after Jerric while I went after Devon. The arcanic links were flung far out into the darkness of the arcana. I wondered how the physical space correlated with this arcanic dimension. Our bodies appeared to be fixed locations within this realm... but what would happen if you got lost? Could your consciousness get stuck in a brick? Would finding it be as simple as locating that brick and bringing it close to your physical body?
+
+After what felt like several long minutes, I found Devon spinning in place, clearly still disoriented. Waves of confusion, terror, and panic were emanating from him, and I felt my own essence being troubled by the perturbations he was putting out.
+
+'Devon! Stop, just relax. You are butter, and the arcana is the pan. Melt into it.'
+
+He froze, but then, slowly, the ball of tension he had wrapped himself in slowly loosened. The relief washing from him was palpable. I got the strong impression that if we were currently corporeal, he would be crying. 'Thanks. It was like... like drowning, but with no water, so it was just... endless drowning, and never actually drowning...'
+
+'You're alright now. Remember, try to ignore the physical.'
+
+'Yeah. Thanks. I'll... I'll try to remember that.' A sudden, razor-sharp burst of focus from him caught me by surprise. I was literally feeling him fixing the idea in his mind and firmly trying to commit it to memory.
+
+'Alright, come with me. Emilia and Ambrose went looking for the others. We're trying to regroup before we look for the Demiurge.'
+
+But instead of drawing closer to me, Devon seemed to catch ahold of his own arcanic thread. I caught a faint whiff of fascination, and a desire to experiment, and then in the next instant he was gone.
+
+'Devon?!'
+
+Nothing. I was alone. Seized with worry, I mimicked what he had done and took the arcanic thread that tied me back to my body. An experimental tug did nothing but make me feel queasy. I followed my line back to my physical body and found Devon already there, drifting nearby, now a lot more at ease with the space.
+
+'What did you do?'
+
+'Sorry to worry you.' His sheepishness was so strong I could almost picture his expression. 'I wanted to go back for you, but realised I didn't have any sense of where you were. Anyway, you said to ignore the physical, so... this is all arcana, right? And you've done stuff with arcana that moved your point of origin for your sequences away from your physical body. I figured that it means while we're here, like this, we can do that too. Just... be where we want to be. We just need to know where to go. And the thread, it's not just some string. It's a channel. A link between mind and body. So it's the perfect thing to use to pop yourself back, no matter where you are.'
+
+I was radiating so much shocked surprise that I could feel my own emotions being reflected back to me in a feedback loop. It took some effort to calm myself down, but it was hard not to feel excited about the magnitude of what he had just told me, and also the brilliance he had displayed.
+
+Emilia drifted back with both Kevan and Lynus in tow, and Ambrose turned up with Jerric not long after. While no words were being exchanged, we found ourselves floating in the middle of a foggy storm of impressions and emotions.
+
+'Focus.' The Demiurge's voice boomed out of the darkness, sending ripples across the arcana and temporarily dispersing the fog we were in, giving us some breathing room. 'Focus, and stop all that spillage. Then come find me.'
+
+Ambrose was the first to manage to draw all his thoughts and emotions into himself, and it had the unexpected effect of making it hard to even sense him in the arcana until he spoke.
+
+'Don't withdraw everything,' Emilia sent with a bite of impatience. 'There's a balance between containing spillage and cutting yourself off.'
+
+With amazing adeptness, I sensed her employing some mental trick that drew in a lot of the emotional spillage, while still keeping her within sight. It was as though Ambrose had retreated to another room, which put him out of sight but also out of easy reach. Emilia, on the other hand, had simply moved to the edge of the room and leaned against the wall, so she was still present, but much more inconspicuous. In contrast, the rest of us were standing in the middle of the room, in plain view of everyone.
+
+With her guidance, it took us only several minutes to get the knack of it, and we reined in our mental and emotional spillage while still keeping contact with each other.
+
+'So there's no physical space here. At least, none that matters. That means no landmarks. How do we find the Demiurge?' Lynus asked.
+
+'The others found us by tracing the arcanic threads from our physical bodies,' Devon pointed out. 'We can do that for the Demiurge, too?'
+
+'He's not there by the crystal anymore,' I answered.
+
+'He knows where we are,' Ambrose mused aloud, 'because he zoomed in on our spillage.'
+
+'You think the Demiurge has any spillage to trace?' Kevan asked sceptically.
+
+'Probably not, but I've got an idea.' Even though he was trying to contain spillage, we all felt the excitement and impish glee that accompanied that pronouncement.

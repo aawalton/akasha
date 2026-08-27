@@ -1,0 +1,71 @@
+---
+id: 63dd8115-58b3-5243-b2de-61d13713343f
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 4- Shadow"
+slug: 0067-book-2-chapter-4-shadow
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 67
+ownLength: 1301
+unit: words
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2267376/book-2-chapter-4--shadow"
+royalRoadId: "2267376"
+---
+
+66:
+
+“They’re here. Be ready for anything,” Sarah whispered just loud enough for Marcus and Jin to hear, her expression tensing as she prepared to fire off her Qi Spear projection at the slightest hint of movement.
+
+No response came, but that was to be expected. Trying to verbally communicate when the enemy was this close was an unnecessary risk given how investment in the right statistics could enhance physical attributes including one’s sense of hearing— Sarah had taken risk enough in issuing the warning, but she felt like it was a worthwhile one in case either one of the two weren’t paying full attention.
+
+She could still hear muffled footsteps from the direction she had sensed the enemy halt earlier, near the base of the dune on the opposite side if she had to offer an estimate. But as for the scout that presumably went by the name Ethan, there was no sound she could lock onto. As a few seconds passed, Sarah’s curiosity turned to confusion and then that confusion gave way to a pang of fear.
+
+She could hear no further conversation between the purported leader of the group and the scout and no other conversation had followed. Sarah found it only logical to assume that the silence meant that the scout had departed on his assigned reconnaissance and the others had no pressing matters to discuss, which explained the silence that had fallen upon the enemy group besides muffled footsteps that didn’t drift far from the original location she had first heard them come to a halt at.
+
+Is this Ethan skirting the dune’s periphery from the other side? Is that why I can’t hear his footsteps? Sarah considered, as sweat beaded her forehead. Why hasn’t Jin reacted to his approach yet? Is she waiting for him to fully reveal himself? Does Jin have that kind of patience? Her mind felt like it was working on overdrive, as she tried to deduce the reason behind the scout’s abrupt silence.
+
+Could Sarah trust Jin with her life? Her fellow spearwoman had performed well against the Sand Stalkers, but her combat style could hardly be described as calm and rational. She had lashed out instinctively against the Sand Stalkers because they were vicious monsters, but would her spear really be that ruthless when faced with a human? What if she couldn’t do it?
+
+Sarah’s anxiety wanted her to peek backwards and confirm the situation with her own eyes, but that was when her mind reminded herself of a crucial piece of information that she had almost forgotten. It felt like a lifetime had passed since the system had offered her the a choice between four classes and although she had been in what felt like a fugue state back then, unsure if she was caught up in the most elaborate prank of her life, she had still read through each class option carefully.
+
+The Way of the Assassin didn’t offer a combat ability like the other classes, instead granting Qi Steps— a skill that increased movement speed and muffled footsteps.
+
+Fuck, Sarah thought, as she quashed all thoughts of taking a peek behind her and instead refocused her gaze before her.
+
+Even then, she almost missed it.
+
+As she swept her gaze along the incline of the dune in a downwards sweep, her eyes almost glazed over a shift in the long shadow cast by the dune’s presence, an minor incongruence in an otherwise static canvas. Had Sarah’s concentration not been razor focused, had her attention not been scanning for the slightest signs of movement, for any hint of camouflage or deceit, she would have missed it.
+
+Instead, she felt a chill in her heart as she realized the source of the shift was a man-shaped shadow, except… there was no man around to cast it. For a moment, her brain failed to register what she was seeing, until she recalled how Marcus could summon flames in the palm of his hand by merely willing it now.
+
+As Sarah’s gaze locked onto the shadow wrought man’s visage, he finished stepping out past the edge of the dune and whether by instinct or dumb luck, he glanced in Sarah’s direction and froze, his eyes widening in what could only be described as abject shock.
+
+“AMBUS—!” He screamed loudly enough for the damage to have been done, but before the full word could escape his mouth it was cut short as Sarah let go of the Qi Spear Projection she had subconsciously been calibrating in the anomaly’s direction.
+
+The Qi Spear Projection struck him squarely in the side of his abdomen, his Jade Guard Armor Set saving him from a fatality right then and there, but there was only so much it could do to stem the momentum behind the sneak attack.
+
+The would-be scout was sent tumbling backwards half a dozen meters before coming to a stop on his back and a moment later, all hell broke loose.
+
+“You four, take the other flank and wait for my command to charge,” The middle-aged man commanded. “Now!”
+
+The sound of muffled footsteps sounded out as the four people moved to fulfill the issued command.
+
+Jin tensed her grip on her spear as she prepared to fire off a Qi Spear Projection— no doubt having realized that the other flank meant the side she was responsible for guarding.
+
+Marcus stood tall as he faced the oncoming threat, his blade a goblin shortsword that he had once complained about recieving from Jack and Sarah when they had rescued him. His gaze was trained upon the crest of the dune, his expression one of stark determination as he held his Qi Sword Projection at his side, ready to strike at a moment’s notice. He had failed too many people too many times since the mayhem that was the apocalypse had started, most of all the only person that mattered to him— his wife.
+
+So when Marcus saw a flicker of white surfacing from behind the crest of the dune, his sword arm moved quicker than his thoughts could verbalize, letting a Qi Sword Projection free in what felt like the blink of an eye.
+
+Instead of striking a person, his Qi Sword Projection met a sheet of stone, the contest lasting only for a second before the Qi Projection flickered out of existence, leaving behind a deep  groove that had just fallen short of cutting through the sheet of stone.
+
+But it had fallen short.
+
+A moment later, the woman with short brown hair that was clad in a Jade Guard Armor Set, peeked out from the side of the sheet of white stone that had shielded her from attack, her gaze sweeping across the battlefield, scanning the trio of Jin, Marcus and Sarah before drifting in the direction where her group member, Ethan, had tried to scout from. Her gaze lingered on his form for half a second longer than it needed to, before she dipped behind screen of white stone.
+
+The whole appearance had been so unexpected and timed after Marcus had already fired off a Qi Projection, that there was no time for him to try for another attack in the short time frame that he had been offered.
+
+“There’s only three of them, though they have their Qi Projections ready. Ethan’s down. Their fourth member is in that cloud of fog, either injured or waiting to strike. We can take them before he gets a chance,” The woman issued her assessment from behind the safety of cover, making Marcus’s expression contort in fury as he realized what had just transpired.
+
+He’d been baited into taking action and he had just wasted 5 Qi Points.
+
+“You heard the lady,” The middle-aged man called out. “Rush them and end this!” He roared.

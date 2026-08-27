@@ -1,0 +1,105 @@
+---
+id: 13ce8a4f-b69e-5ad5-8368-4ff50545ff92
+page-type-slug: story-chapter-royal-road
+title: "v5c24: The Plum and the Foxes"
+slug: 0130-v5c24-the-plum-and-the-foxes
+partOf: beware-of-chicken
+position: 130
+ownLength: 1840
+unit: words
+ownProgress: 1840
+publishedAt: 2024-07-23
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1728657/v5c24-the-plum-and-the-foxes"
+royalRoadId: "1728657"
+markedReadAt: "2026-06-29T19:01:16.749Z"
+---
+
+Once more, Lu Ri found himself given vague directions and told to find people. At least the eastern sections had been largely crossed off by Hu Li, since the Nezin tribe had overwintered in that direction last year. While he did not enjoy such tasks, he did find himself becoming increasingly efficient at conducting searches—and this time he had a companion to assist him. Miss Yuanlin, from the Howling Fang Mountains, moved nearly as fast as Lu Ri did. It had been two days since their departure, and they had worked tirelessly.
+
+Miss Yuanlin in Hong Yaowu seemed a bit of a slovenly woman, drinking with Miss Hu Li, making and enjoying sweets, and otherwise puttering around the village. She spent hours sometimes just observing the mortals, looking at how they constructed buildings, even spending time simply wandering the forests or observing elevations. It almost looked like she was doing a land survey for the purposes of construction. The spots she had visited did seem like places where one could build a village. However, she was both related to Miss Hu Li and vouched for by Shen Yu, so Lu Ri paid her little mind. Indeed, her candies were quite delicious, and he was grateful to receive some of her bounty.
+
+Now, Lu Ri found himself appreciating a lean, no nonsense woman. He supposed part of Yuanlin’s serious demeanor was the fact that her family was in danger—but instead of being worried and tense, instead she was simply driven, letting none of her own emotions interfere. Her senses were sharper than fine swords, and she was his utter superior in tracking—especially in these frozen wastes. They were skirting along the bare edge of the Sea of Snow, where the pine forests and rolling hills were just starting to give way to a featureless white plain.
+
+Lu Ri and Yuanin had once more converged and were headed to the next set of points, as Yuanlin swiftly scratched off three campsites to Lu Ri’s two.
+
+“They definitely haven’t gone further west, judging from the state of the snow. It's been a mild winter, so they probably thought they could get away with being further north.”
+
+They had already crossed off half of the overwinter campsites by splitting up. Which was good for finding their quarry… but bad because it meant they were further north and farther away from Hong Yaowu, a place that would be safe for them.
+
+“You have done this before?” Lu Ri asked.
+
+“More times than I can count. This is what I do back home. Find those who are taken, then secure and protect them,” Yuanlin told him, even as her eyes scanned the horizon for threats. They advanced swiftly but cautiously, alert for any demonic activity. “The worst is when their messages are just delayed and they’re fine, after you’ve just ran around for a week trying to find them. I must have circumnavigated the entire province a hundred thousand times by now.”
+
+Lu Ri couldn’t help the small surge of kinship he felt with the woman.
+
+“A feeling I know all too well,” he commiserated.
+
+Yuanlin smiled at him. Perhaps she would be interested in assisting with the mail system, with a duty such as hers? She would most certainly have some insight in how to speedily traverse mountains…
+
+“There, that disturbance; it's a yak trail, a week old,” Yuanlin suddenly declared, aborting her bounding leap. Lu Ri followed her as she dropped to the ground.. She pointed at a patch of snow that Lu Ri only noticed was subtly different from the rest by the fact that she was pointing it out. It was incredibly subtle, after the snow and wind had nearly erased the trail. Yuanlin quickly dug down into the trail and found a footprint. “North,” she confirmed.
+
+Lu Ri nodded. “How does one tell that this is an owned herd, rather than a wild one?”
+
+Yuanln chuckled slightly, and pointed at a nearby tree. “See that little bit of discolouration down near the snowline?” she asked.
+
+Lu Ri realised what she was getting at. “Frozen urine? Too high up the tree for most animals, very likely human.”
+
+Yuanlin nodded at his observation. “It's along the path, on the edge of the forest, which meant they passed by this way. Also, the indentations. Feet, shoulder width apart.”
+
+Lu Ri examined the ground further, now realising what Yuanlin had been seeing. “More paths into the forest as well.” They followed the path into a clearing—where there was a more obvious depression.
+
+“A sheltered place to rest and the likely location of a firepit,” Lu Ri stated. “Thank you for your instruction in this matter, Miss Yuanlin.”
+
+Yuanlin grinned, exposing too-sharp canine teeth. “You may thank me with a meal later.” She declared. “They should be close.”
+
+They were off again immediately. Even with that declaration, however, something in the back of Lu Ri’s head said that this was merely the beginning. That it was a false lead and he would have to run around the entire province for months before he found the people he was looking for.
+
+Again.
+
+Yet instead, Yuanlin was vindicated. They saw the smoke of cooking fires on the horizon, and hunkered down in a pine forest were many yurts and tents. Horses and yaks meandered nearby, watched over by the members of the Nezin tribe.
+
+Both Lu Ri and Yuanlin slowed their pace and approached along the snow, clearly visible.
+
+“Ho there, strangers!” a voice called out, his tribal accent thick. “What are you doing so far north this winter? Are you injured? Were you blown off course?”
+
+A young man swiftly intercepted them on a horse… though not too closely. There was some wariness mixed with the concern. That lasted but a moment as Yuanlin stepped forwards.
+
+“Hey, cousin! We’re coming from Hu Li’s place.” Her voice was cheerful and disarming, and clearly worked as the young man dropped his guard completely. A little foolish, but he was a mortal.
+
+“Auntie Hu Li—Wha? Cousin? Where are ya from?” the young man replied, taken aback… but judging by the way his eyes were roving all over the woman’s face, he found the resemblance uncanny. The young tribal had a darker complexion than the blonde woman from the Howling Fang Mountains, but their familial resemblance was evident. The shape of their eyes was practically identical, as well as the lean, sharp cast of their jawlines.
+
+“Howling Fang Mountains! Trust me, we were just as surprised when we met Yun Ren! We had no idea we had family this way, so I just had to come around and meet you all! The name is Su Yuanlin!”
+
+They were rather swiftly ushered into the camp after that—and though Lu Ri imagined that they would be caught up in curious tribals, instead Yuanlan managed to swiftly deflect and secure a more private audience with the tribal chief, Nezin Han. He welcomed them into his large tent with a smile upon his face.
+
+=====================
+
+The year had been going splendidly for the Nezin tribe. The Bringer of Fortune, the Thunderhoof that had visited with his grandson a year ago, had truly worked its magic. Their larders were flush with food. Their babes were healthier than ever. Their herds were fat and healthy—and they had found gold in the nearby river. Not a lot, but the panning had still produced a small bounty.
+
+Even the winter was mild, the snows shallow, and the stars beautiful. It had truly been a wonderful year—made doubly so by the news six months ago from Hong Yaowu. He had been told the village looked better than ever—having undergone a complete redesign by his grandson, Gou Ren. And that same grandson had found a true diamond, a fine woman who proudly wore the symbol of their tribe. Hu Li had waxed poetic about this ‘Xianghua’—who was some manner of noble, of all things—and Hu Li said they were of a mind to be married in the new year!
+
+Hells, he had already kidnapped her, as was right and proper! Yun Ren had always seemed more interested in the culture of his forebears of the brothers, but Gou Ren had managed to convince an Imperial Noble to let him steal his daughter? That was a story they needed in person.
+
+It was actually part of the reason why they were so far north this winter, disregarding the mildness; they wanted as much time as they could to forage the winter forests for the rare reagents the southerners always bought, and then to reap the bounty of the polar spring before they headed back south. They would likely spend at least a year there, selling all they had managed to collect and attending Gou Ren’s wedding.
+
+And now, they had long-lost family coming to visit! Su Yuanlin was absolutely related, and a cultivator to boot! He could feel it in his bones. She felt like family—she had embraced him and he had immediately known that they shared blood, no matter how far removed. Even without that, his dear daughter Hu Li had written a letter explaining their circumstances.
+
+Hunted like animals?! That had raised his fury, and he had half a mind to call up the boys and get the war-bows—something they hadn’t had to do since the time of his great-grandfather, after bandits had killed a cousin. Even though they, as mortals, likely wouldn’t be able to do anything to the people hurting their family.
+
+But the fury was swiftly doused by the next part.
+
+“Demons?” he asked in a small voice. His daughter was a prankster, but she would never lie about something like this.
+
+“Though it is not confirmed, the signs are troubling,” the man who had come with Yuanlin, a dyed in the wool Imperial if Han had ever seen one, intoned. “Rou Jin and Elder Hong requested we ascertain your whereabouts and escort you somewhere safer. Ideally, this would be Hong Yaowu.”
+
+Han felt the strength start to leave his legs and Yuanlin caught him, before she lowered him to a nearby cushion.
+
+He thought his grandsons being cultivators would be the biggest shock he had ever experienced in his lifetime.
+
+Instead, it was more cultivators, acting on the behalf of Hong Xian and his grandson’s friend, Jin, warning them about an impending demon attack.
+
+To ignore this warning would be rank stupidity. So Han sucked in a breath, slapped his cheeks, and took charge.
+
+“We’ll be packed and ready to go by tonight,” Han said. “But unless you have the ability to transport us, it's going to take us a month to get around to Hong Yaowu in this weather. Possibly longer.” Lu Ri frowned heavily, and Yuanlin grimaced as well. “But… there is another place. It's an old legend, but we were always told if we ever needed to be safe, the First Den would protect us. If we move fast… we can get there by the solstice.”
+
+“Then that's where we’ll head,” Yuanlin declared.

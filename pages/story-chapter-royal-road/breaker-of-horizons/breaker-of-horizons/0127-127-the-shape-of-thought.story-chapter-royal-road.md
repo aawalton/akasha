@@ -1,0 +1,93 @@
+---
+id: d60a9638-2c3e-57ce-a19c-b4e32951c73f
+page-type-slug: story-chapter-royal-road
+title: "127.  The Shape of Thought"
+slug: 0127-127-the-shape-of-thought
+partOf: breaker-of-horizons
+position: 127
+ownLength: 1918
+unit: words
+publishedAt: 2021-07-19
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/719040/127-the-shape-of-thought"
+royalRoadId: "719040"
+---
+
+Emilia brought him on a quick circuit around the whole clearing and pointed out several places where there seemed to be a recurring set of glyphs. Caden realised that the more he looked, the more there was to see — his initial impression that there was only a single line of glyphs was wrong. As soon as Emilia started directing his attention to specific parts of the ring, he noticed that some of these glyphs were somehow folded into or under other glyphs, and he could only see them if he was looking very carefully. His mind struggled to cope with the odd reality that was being presented to his eyes.
+
+'How... how did you even spot that?' he asked, squinting and tilting his head to try and better see one set of those folded glyphs.
+
+'It's easier if you relax,' Emila said, noting his distress. 'Or... or you tense your mind in a specific way. Imagine you're trying to cross your eyes, but it's your mind instead.'
+
+Crossing his mind made no physical sense, but he thought he got the gist of what she meant. It took him a couple of minutes, but he finally managed the mental trick that allowed him to view those folded glyphs with a little more clarity, though it was hard for him to really get a fix on them. It was, he realised, a lot like an optical illusion. If he primed himself to see the folded glyphs, his perspective would undergo a disconcerting shift and he would be able to see them, but that also meant that he wasn't able to pay attention to the unfolded glyphs while he was doing this. He couldn't handle reading them both simultaneously.
+
+A part of him was beginning to despair at the impossibility of the task. The glyphs themselves were already unfathomably alien, their three-dimensional shapes taunting his inability to comprehend them. And now there were more of them, perched on the edge of his ability to even see them. What if there were more glyphs that he and Emilia literally could not perceive?
+
+'I know,' Emilia murmured. 'And I understand if you want to give up.'
+
+Caden spun around with a start. 'What?'
+
+Even though she didn't move, Caden felt his attention being drawn to the arcana around him as if she had pointed to it. His emotions weren't exactly spilling out, but they did colour the space around him a little. There was no use hiding them, so he firmly pushed that seed of doubt aside and squared himself as he faced Emilia.
+
+'I'm not giving up here. I'm feeling out of my depth, but I have no intention of leaving or doing nothing. We are not letting the Prophecy do what it wants to you without a fight.'
+
+After Emilia had pointed out the colours of his own emotions bleeding into the space around him, Caden thought he could catch the tenor of Emilia's thoughts too. The air around her lightened a little after what he said, and it was only then he realised that a miasma of fear and despair had been there in the clearing all along — the product of her days of consciousness within this space as she tried and failed to find a way to escape.
+
+He felt a swell of pity, but it was quickly replaced by something more urgent — the excitement of discovery. 'Emilia! That thing you did. You didn't move, but you sort of... pointed? And I saw my emotional state in the arcana around me? How did you do that?'
+
+'What, this?' she asked, and now Caden found his attention drawn to a random spot in the clearing even though she hadn't lifted a finger.
+
+'Yes! You're doing something with your auric-ambient-flare, aren't you?'
+
+She frowned. 'I think so. I didn't even realise I wasn't physically pointing.'
+
+'Try it again. How does that work?'
+
+'I have no idea.' She exerted her will and directed Caden to look at various parts of the clearing, and he confirmed that it had worked by naming what he was currently looking at.
+
+'Have you figured it out?' Caden asked after she had paused for several seconds and done nothing except stare into the distance.
+
+She gave a little tsk of impatience but didn't look at him. 'Wait. I'm... trying... something.'
+
+Caden tried to wait patiently, but there was no hiding the little cloud of repressed excitement that was building up around him. He hoped that Emilia wouldn't be distracted by that because he had no idea how to stop his emotions from colouring the arcana. It didn't even seem possible — at the moment, his attempts to rein it in felt like he was trying to hide where his eyes were looking.
+
+The surest way to hide an emotion was simply to not feel it at all, so he tried to distract himself by turning his mind to the puzzle of Emilia's attention-directing ability. The theory that had gotten him so excited in the first place was that Emilia was actually operating at a level in oblivion that went beyond the physical body that was currently occupying this space. But since this was oblivion, there was more significance to that.
+
+All arcanists already operated beyond the confines of their physical body once they started making use of ambient arcana. For him and his friends, dipping into the arcanic sea and using that arcanic sense to navigate meant that they could operate at a greater level of control and mastery. It was like being able to hear and play music instead of simply being confined to looking at the notes of a score.
+
+His theory was that oblivion functioned in the same way — it was simply a deeper layer of reality, a level where they could experience more of the richness of it beyond what their human senses were capable of catching. And Emilia had tapped onto some sort of oblivion sense, for lack of a better term, just like how the rest of them had tapped into an arcanic sense to help them navigate the arcanic sea.
+
+An explosion of frustration from Emilia distracted him. It was so strong that she had summoned her own spectre of emotion that she had to fight to hold at bay, but she quickly dissipated the dangerous cloud of feelings with more speed and certainty than Caden had managed. It was clear that she had become quite adept at it through practice. Caden felt a little sting of pity as he imagined how she must have felt, alone and unsupported in this alien space for days of subjective time.
+
+'Don't pity me,' she snapped at him, though she immediately composed herself and gave him an apologetic look. 'Sorry. Things like that never bothered me before, but since my time with Kevan, I have become a little more aware of these things. And I've become strangely concerned with what people think. And it doesn't help that you are literally advertising your emotions here.'
+
+Caden shrugged helplessly. 'I can't help how I honestly feel. But you should also know that I respect you a lot. I'm not sure if I would be able to be so composed if I were in your position.'
+
+She pursed her lips, then acknowledged his compliment with a curt nod. 'What I tried didn't work. I don't know why, but I can't do more than mentally point.'
+
+'Can you tell me how it's done? Maybe we can figure something out from there.'
+
+'As far as I can tell, it does have something to do with my auric-ambient-flare. Remember what I said about tensing your mind in a certain way to see the glyphs? Well, while you're doing that, you also focus a little burst of intent. For me, it is the same... same... collection of feelings and impressions and muscle contractions that I associate with pointing my physical finger. Except I don't actually intend to move my body, I only intend to frame my mind in that shape.'
+
+Caden's brow furrowed as he tried to follow along. 'Okay. If we try and use physical analogies... it's basically like trying to hold a pose and then do some other action. Like maybe standing on one foot, and then crossing your arms. Except instead of holding a physical pose, you're, uh, holding a mental pose.'
+
+Emilia nodded. 'Yes, that analogy works. But I can't show you my mental pose. The best I can do is describe what I'm thinking about, and you have to go from there. But you remember our exercises about noticing everything? Well, it applies here too. There is a shape to our thoughts, our minds. When I think of my home, there is a pose that my mind falls into, and I feel and know what my home means. The mind stretches to bridge pictures, emotions, meanings, sensations, into one word. That stretch is the pose you must be aware of.'
+
+The mental gymnastics involved here were stunning, and Caden couldn't help but feel thoroughly impressed with Emilia's ability to have come this far on her own. Her descriptions were helping him make sense of his own thoughts in ways that hadn't even occurred to him before.
+
+'A shape to our thoughts,' he muttered, thinking hard.
+
+Their auric-ambient-flares were proof of that, he realised, and he wondered at how it hadn't been immediately apparent to him before. Their thoughts and emotions had some sort of, for lack of a better term, physicality, except it wasn't corporeal in the same way that their bodies were. He looked inwardly at his own auric-ambient-flare and started reading his own threads. If they twisted like this, it meant that. You could see meaning from the very structure of the fibres. That was how their arcanic senses worked. But here in oblivion, on a richer layer of reality, you could do more than see. You could hear, and smell, and taste, and touch.
+
+But those receptive senses were simply the beginning. Babies learned how to take in the sensations of the world around them. And then, thus grounded in their reality, they started to walk. To run. To dance. To sing. To paint. To write.
+
+He delved into his own auric-ambient-flare to watch himself watching, to see his mind unspooling itself in threads of thought. The recursive effect that had baffled him so much back when he had first done this in the arcanic sea was now less unintelligible and more meaningful to him. This was the shape of his mind when he looked at the world around him. That was the shape of his mind when he thought of home. This was what happened if he looked inside his auric-ambient-flare while looking at something else.
+
+After just a minute of this, he had to stop. He felt mentally exhausted.
+
+'You've gotten something,' Emilia said, staring at him. Then her expression soured a little. 'In just one minute.'
+
+He couldn't help but let out a little laugh. 'You laid the foundation. And I've had the dubious benefit of having my mind taken apart and put back together again. Turns out that made me a little more aware of the threads of my own psyche.'
+
+'So how does this work?' she asked, pointing mentally in random directions to indicate the ability she was referring to.
+
+Caden grinned, and with a flex of his will, he directed her attention to her own auric-ambient-flare, and she gasped in sudden comprehension.

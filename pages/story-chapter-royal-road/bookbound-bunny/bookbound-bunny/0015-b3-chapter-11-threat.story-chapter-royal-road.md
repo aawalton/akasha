@@ -1,0 +1,245 @@
+---
+id: d8be1711-6831-53cc-b18d-37b489179992
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 11 - Threat"
+slug: 0015-b3-chapter-11-threat
+partOf: bookbound-bunny
+position: 15
+ownLength: 2289
+unit: words
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3093620/b3-chapter-11-threat"
+royalRoadId: "3093620"
+---
+
+"I can't believe that worked!" Lotte exclaimed triumphantly as they crossed over the bridge.
+
+"S-slow down!" Thomas stammered through exhausted breaths.
+
+"We… can't… keep up…" Lily gasped out. She was on the verge of pulling out another set of wind talismans to keep up.
+
+Lotte suddenly realized she was still moving at the speed of the wind and dramatically slowed her pace. With the pressure of running away suddenly gone, they nearly collapsed.
+
+Lily was about to say they should take a break when Arakil's voice came through. His tone was strict, as if leaving no room for question.
+
+[Keep going! Don't stop until you get to the camp. Use a stamina talisman if you must!]
+
+Lily nearly choked as she was gasping for air. Whatever this was, it was serious. She reached into her pouch and pulled out a pair of talismans, then reached in again and pulled another one. She handed one of the pair to Thomas while she quickly slapped the remaining on her own leg.
+
+"Keep going, Arakil says it's dangerous," Lily managed to frantically exclaim.
+
+"What!? But I didn't even touch the tree!" Lotte exclaimed, but she was ready to follow orders.
+
+Thomas didn't question the statement and copied Lily's technique as best he could as he activated the talisman. The group continued running, now much faster thanks to their magical boost.
+
+Lily gestured for the three to gather close, and she activated one of her biggest emergency glyphs. This was a group recovery glyph, and Lily had only a handful for extreme emergencies, following Arakil's guidance.
+
+The three were shrouded in a golden halo of energy, and their fatigue was washed away entirely.
+
+"This…" Thomas hissed as his face widened in surprise.
+
+"Don't!" Lily interrupted, her eyes begging him not to speak of this.
+
+"My lips are sealed," Lotte replied without question.
+
+Thomas hesitated for a moment before nodding. Evidently, he had many questions, but for the sake of the group's unity, he was suppressing them.
+
+They continued their frantic sprint back. Lily had to pull out more talismans as they fled, to replace them as they expired.
+
+"Will it really chase us this far?" Thomas asked.
+
+"I don't know. I trust Arakil's judgement," Lily answered.
+
+"I trust him too," Lotte agreed, earning herself a questioning look from Thomas.
+
+To the trio's astonishment, they returned to their camp without encountering any trouble. Lily could see the questions plastered on everyone's faces, but she could only turn to Arakil's floating grimoire for an explanation.
+
+[Activate the shadow shroud.]
+
+Lily quickly did so.
+
+[I believe the dungeon possessed the dryad.]
+
+Lily gasped in shock.
+
+"What!?" Lotte and Thomas cried out.
+
+[Don't tell them the truth. If you need a reason, tell them the dryad was attempting to break the boundary.]
+
+Lily turned to her two friends and gave the false explanation.
+
+"Can they do that?" Thomas asked, his knuckles white as he clutched the dagger hilt.
+
+"I don't know… It's what Arakil saw it doing," Lily answered.
+
+"Crap. This is all my fault. Should we run back to Alice?" Lotte asked.
+
+Lily wanted to say yes; it was the logical resolution. However, she knew it would also likely get all three of them kicked out of the dungeon for breaking the rules.
+
+"But…" Thomas murmured; the look on his face was enough to show that he, too, shared Lily's thoughts.
+
+[Do you trust me?]
+
+"Of course!" Lily declared with zero hesitation.
+
+The sudden declaration confused her friends. While they'd sometimes seen her converse with her Familiar, it had never been to this extent.
+
+[Alright. I promise I'll solve this. Permanently.]
+
+"What do we need to do?" Lily asked.
+
+The book unfurled, and pages flew back. Lily had only seen this when Arakil was showing the previous entries left behind by the people before her. The pages continued to flicker past until a complex inscription was revealed, and, judging by its dark, rusty color, Lily knew it wasn't written in ink.
+
+[You need to draw this before nightfall.]
+
+"I don't think I can," Lily admitted.
+
+Thomas opened his mouth to say something, but Lotte placed her hand on his shoulder and shook her head. She whispered something to him, and he seemed to reluctantly accept it.
+
+[You only need to draw the central glyph and the one below it. I should be able to handle the rest.]
+
+Lily swallowed nervously. Her mouth felt like a desert. "Okay…"
+
+[I believe in you, Lily.]
+
+Lily nodded and pulled out her wand, and quickly started to get to work. She only had a few hours to complete this before nightfall, and even with most of the inscription being discarded, this was one of the most complex things she'd ever seen. Literally nothing was even remotely familiar to her; she was going in blind.
+
+"What can we do?" Lotte asked.
+
+Lily turned to her friends and blinked wildly. "I…"
+
+[Give them your talismans and tell them to protect the camp. There's a good chance the dungeon will send monsters after us.]
+
+"What about the dryad?" Lily asked in a panic, turning back to look at the grimoire.
+
+[By my prediction, it won't be free until nightfall. Hence, other lesser monsters will come first.]
+
+Lily gulped and told her friends about the potential monsters swarming their camp.
+
+"If it's not the dryad, we should be fine," Thomas answered.
+
+"Are you sure?" Lotte asked. "Should we not just go to Alice?"
+
+"And be banned from the dungeon!?" Thomas cried out. "How long will that set us back? That should go double for you, don't you need to kill monsters to help your condition?"
+
+Lotte gulped and reluctantly nodded. Lily knew that this was the reason she even came to Regarth. If she were forbidden from the dungeon for too long, her condition might worsen again and undo the good progress she'd made already.
+
+"If I finish copying this inscription, everything will be solved," Lily said.
+
+"Can you do it?" Lotte asked.
+
+"Arakil believes in me," Lily answered honestly.
+
+"Okay," Lotte replied.
+
+Lily reached into her pouch and pulled out every talisman she had. She quickly sorted them into piles and explained what they each did. Unfortunately, Lily had spent most of her stockpile in the gauntlet, and because of the wand, she'd spent less time drawing them with ink and paper.
+
+"It's okay. We will use our Mana first and then use these as backups," Thomas said.
+
+Hearing that, Lily reached into her pouch again and pulled out a few potions. She handed each of them some healing potions, just in case, and then also gave them two very special potions.
+
+"These are Mana potions," Lily explained.
+
+Lotte and Thomas both hissed through their teeth, reeling back in shock.
+
+"How?" Thomas asked.
+
+"My old teacher gave it to me as a gift," Lily said with a pained smile. "The other I brewed from what Rose gave me."
+
+"We can't take these," Lotte said, hastily rejecting them.
+
+"Your safety is more important," Lily insisted. "Promise me if you run out of Mana, you'll drink them."
+
+Lotte and Thomas wavered before reluctantly agreeing, gingerly reaching for the potions, and placing them carefully in their storage bags.
+
+"Okay. Leave the rest to us," Lotte said calmly.
+
+"You focus on finishing the drawing," Thomas concurred.
+
+Lily nodded and returned to a quiet corner of the camp. While Lotte and Thomas planned, she needed to focus everything on replicating this drawing.
+
+[You've made some reliable friends.]
+
+Lily hesitated. "Can we really do it?"
+
+[I promise.]
+
+Lily clutched her wand tightly and, after taking a deep breath, began to draw. Lily had hoped this wouldn't be a time for perfectionism, but unfortunately, that wasn't the case. When Lily made an error that was too far gone, Arakil would quickly tell her to remove that portion and fix it.
+
+[Regrettably, we can't leave too many errors in this. Especially for the key, that part needs to be perfect.]
+
+"Key?" Lily asked in surprise.
+
+[Yes.]
+
+When Arakil didn't elaborate further, Lily looked more closely and spotted what was likely the key.
+
+There was a circle, and inside it a square, and inside that a triangle, and inside that an even smaller circle, all stacked neatly together. Finally, there was a vertical line going straight through the center of it all.
+
+It felt tremendously important, like a locked door or an object no one was allowed to touch. The lines seemed to pull Lily's eyes inward, making it hard to stop looking once you started.
+
+[Looks like you've spotted it. You should be able to replicate it perfectly.]
+
+Lily broke eye contact with the symbol and blinked a few times. Yes, despite its strange allure, the key was oddly simple. If she couldn't draw two circles, a triangle, a line, and a square, then she didn't deserve to be Arakil's apprentice.
+
+"Will the key work?" Lily asked, still trying to focus on the drawing.
+
+[It will. I'll answer your questions after this ordeal.]
+
+With Arakil's reassurance, she put that troubling thought to bed. She was just worried that, after all this work, if the key failed, it would have all been for nothing.
+
+Lily had lost track of time as she continued drawing and correcting. It had been peaceful, but eventually she heard lightning crackle outside, which meant the monsters had arrived.
+
+She took solace in the fact that the sound wasn't consistent, so they must be coming in small waves rather than one giant horde. Considering her friends didn't go into the camp in a panic, she also believed that things were still under control.
+
+When darkness approached, Lily was finally nearing the end of the inscription. Lily had even resorted to drinking one of Camilla's nasty energy tonics, feeling her mind slipping as she had kept it strained for so long. Usually, she would've loved endlessly drawing like this, but the anxiety and pressure were getting to her.
+
+[Almost there.]
+
+Lily bit her lower lip and nodded. There were only a few components left, and it would be complete. She couldn't help feeling proud that she was on the verge of completing an inscription, especially one so far above her current level.
+
+As if forecasted, when Lily was on the verge of completing the last few strokes of her wand, there was an inhuman roar that shook the very forest. Lily wanted to scream, but Arakil quickly reassured her, and she managed to hold on.
+
+Lily heard the crackle of thunder and a mighty explosion, and then the cries of her two friends erupted in the camp as they fled inside.
+
+"The dryad is here!" Lotte cried out.
+
+"We have to run, we can't stay!" Thomas insisted.
+
+His prior reluctance to stay was gone; Lily couldn't even imagine what the dryad had done to change his attitude so quickly. She wanted to instinctively flee with them, especially seeing the terror on their faces, but Arakil's reassurance came once again.
+
+[Don't worry. I'll handle everything.]
+
+Lily took a deep breath, drowned out everything, and began the last strokes of the key. A circle, a triangle, a square, another circle, and a line straight down the middle as the final component.
+
+The glyph hummed in acceptance, and Lily immediately activated it. The grimoire began to emit an aura and flew towards Lily with unprecedented speed. She dropped her wand and somehow grabbed the book with both hands, where she was enveloped in the same aura.
+
+Lily felt like her Mana Core was going to explode from an unseen pressure being radiated from both the glyph and the book, and in the back of her mind, Lily heard a voice, one she didn't recognize at all. It seemed to ask her dozens of questions all at once in a cacophony of pandemonium.
+
+But oddly, all of this seemed to boil down to a straightforward question: "Do you trust him?"
+
+"I do," Lily unwaveringly answered in her heart.
+
+The grimoire and Lily's bodies flashed in unison, and she felt a strange out-of-body experience. Her perspective seemed to be drifting upward, and, strangely, she saw the back of her own head.
+
+"Lily, what's going on?" Lotte asked in shock.
+
+That was when the dryad's shriek echoed in the camp, and walking through the perimeter was that same dryad they had seen earlier, except its hollow eye sockets were flickering with a baleful green flame.
+
+It crossed the boundary of their camp with zero hesitation, causing all the deterrence charms to explode from its mere presence. At the same time, the shadow shroud, which was nearly depleted from being active during the afternoon, instantly winked out of existence.
+
+Lily wanted to scream and run, but found that she couldn't do either. She'd somehow become a passenger in her own body, unable to interact with the world around her.
+
+"Grab her, we need to run!" Thomas shouted.
+
+But before either of them could do anything, Lily watched her body stomp her right foot on the ground. That simple action caused a magic circle to erupt from the point of impact and grow outward, with glyphs, sigils, and crests written as it grew.
+
+The magic circle continued to spread outwards, and when it came into contact with the dryad, it began pushing it backwards! The dryad dug its heels into the ground, but it was propelled backwards, digging up the ground.
+
+That was when Lily's body slammed the book shut in her hands, a foreign look of rage erupting on her usually soft, cheerful face.
+
+"How dare you threaten my apprentice!" Lily's voice boomed out.
+
+Lily recognized her own voice, despite the harshness of the tone, but the enunciation made her immediately think of someone else.
+
+Arakil!?

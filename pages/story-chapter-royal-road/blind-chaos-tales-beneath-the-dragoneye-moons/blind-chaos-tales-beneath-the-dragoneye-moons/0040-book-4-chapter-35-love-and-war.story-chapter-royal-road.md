@@ -1,0 +1,233 @@
+---
+id: 7845b821-1e60-5e83-ad54-902f33e59a51
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 35 - Love and War"
+slug: 0040-book-4-chapter-35-love-and-war
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 40
+ownLength: 5715
+unit: words
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2857234/book-4-chapter-35-love-and-war"
+royalRoadId: "2857234"
+---
+
+After over twenty-four years of war, Ranthia had more than a few opinions about it, and none of them were positive. Which was why she had been extremely reluctant to get around to reading one specific book that Avyna had stocked in her rentals: a treatise on war, written by an anonymous author that self-identified as a tactical expert. Yet when she finally gave the book a try, she found that it summarized her own feelings quite well.
+
+War was interesting—in the most terrible definition of the word that could be imagined—only at its inception and during any major shift in the tides of battle. Beyond those indescribable moments, it turned into a mundane horror that weighed upon and shaped the lives of those afflicted with it. With rare exceptions, the breadth of war was boring, yet a constant source of stress and misery. Then its conclusion could take one of two forms, it would either be fiery and climactic—and suitably awful for everyone—or it would be a complete non-event that came about as the result of some meeting that few touched by the war even knew about. And either way, when war came to an end, it was a gradual, rolling process that still claimed the lives of countless people long after the date it was recorded as “done.”
+
+But no matter what Legion Command continued to claim—even as the years passed by—the war the Coalition waged against the shimagu was not coming to an end. Instead, they remained trapped in a boring source of omnipresent stress and misery. People died and shimagu parasites were culled from the face of Pallos, yet no meaningful progress in the state of the war was obtained.
+
+Instead, Remera once again—after two days of nonstop combat—repelled yet another attempted siege. Remera, like (as of last year) three other Launchpoint bases, continued to serve a key strategic role. They were important enough that there was a Sentinel assigned to each, though Ranthia had no idea if a familiar face protected any of the other bases, or if they were all strangers to her. But it also meant that the shimagu felt obligated to harass the aggressively positioned bases as frequently as they could, even when they lacked the numbers to properly threaten the base.
+
+With every victory extracted at the cost of blood and sacrifice, Ranthia was left weary. It wasn’t the kind of weariness that was conducive to sleep, it was the insidious kind that her [Mind Healer] had helped her to recognize—the weariness that would erode her heart if it were left to fester. Thus, instead of sleeping, Ranthia took a hot meal and chose to spend quality time with the love of her life. Not because it was the prize that she was owed, but because she wanted to remind herself of how precious life could be, in the wake of Black Crow’s latest harvest.
+
+To fight against the pall of the dark mood that weighed upon her heart, Ranthia chose to mercilessly spoil Avyna. They lounged on the chaise with Avyna’s head in her lap while she silently massaged Avyna’s horns with their newest scented oil—a refreshingly light minty aroma. She no longer needed the audible cue of her humming to keep the rhythm firmly in the range that inspired elven bliss, instead she trusted her hands to dance along the length of Avyna’s horn soothingly while she enjoyed the warmth and tenderness of the moment. Two of her images stood nearby, each holding a book. Ranthia’s eyes sometimes drifted over the words within her dry treatise of war—for some strange reason she seemed to struggle to enjoy it on the heels of prolonged conflict—while Avyna remained distractedly fixated on her own book, namely a heavily illustrated tome describing the various wedding traditions found throughout Remus.
+
+But even with Avyna’s fixation and Ranthia’s borderline disinterest, Avyna was only signaling for a new page once for every several that Ranthia read. Her elf seemed to spend much of her time staring off into space with a distant, dreamy expression adorably inscribed upon her features. And Ranthia somehow doubted that it was solely because of her mastery of horn massages.
+
+“<My love, please keep this to yourself, as I shall deny it if you ever do whisper a word of this, but a part of me almost wishes that I had been born a human just for how beautiful and charming some of these marriage traditions of your people are.>” Avyna dreamily whispered into the warm silence that they had been luxuriating within.
+
+“<Mm, I’ll try to resist my deep-seated urge to write to every other elf I know about this shocking revelation.>” Ranthia affectionately teased her lover. Playful banter was better than wondering just how biased that book was. After all, Remus had some outright horrific marriage traditions, especially in some of the older and smaller cities that had time to enshrine their views of women as property to be claimed by their husbands as ‘tradition.’
+
+Cute and sweet ceremonies were largely the purview of the largest cities and the handful of other progressive cities. Unless, of course, things had changed severely in the intervening years. Women had been granted most of the same rights as men for much of Ranthia’s life, after all—surely things must have improved.
+
+…Gods and goddesses, was she seriously already completely out of touch with the reality of her own nation?
+
+“<You have become quite mean.>” Avyna’s mock complaint pulled Ranthia out of her concerning thoughts. “<But I am serious, my love. Our pledging ceremonies are sweet—for those that even bother to make a ceremony out of it—but the weddings your people favor are just… romantic. I find myself somewhat jealous.>”
+
+“<I always found your contract romantic. We literally came together as we mapped out what we wanted out of our lives.>” Ranthia offered a heartfelt rebuttal.
+
+“<So sweet of you to notice. I put a lot of thought into that, you know, and I am proud of what I came up with. However…>” Avyna trailed off, seemingly unsure of how to phrase the amorphous emotional point that she’d hoped to make.
+
+“<What sort of wedding ceremony would you want, if you had the chance?>” Ranthia asked, relishing the warm smile that readily came to her the very moment she chose to indulge in Avyna’s sappy mood.
+
+Especially when Avyna met it with her own bright and happy smile before she closed her eyes and gave it some thought.
+
+“<I have never actually rented one before, but there is an obscenely expensive type of clothing known as gemweave. A specialist [Artisan] uses their Skills to turn gemstones into flexible strands that they use to create, thread by thread, an elaborate garment made entirely out of a small fortune worth of gemstones. But you cannot just buy such a garment, you require the services of the [Artisan] as well. Without them, the garment turns rigid and is quite fragile. For a wedding, I would accept the expense to lease a gorgeous gemweave dress. One that uses emeralds for the base, of course.
+
+“<As to the wedding itself… I enjoy parties, but for this I would prefer an intimate gathering of only those we are properly close to. I would not be averse to a ceremony that was tied to the chaotic creator you worship. I do not think I have a specific vision for the ceremony itself, though perhaps one where you and I exchange rings or pendants as part of the ceremony would work best.>” Avyna’s eyes were distant as she imagined the ceremony she described. Minor twitches of her eyes—and once, when she was obviously displeased with the image she conjured in her mind’s eye, her nose—denoted the adjustments she made to the scene while she spoke.
+
+Ranthia’s heart thumped loudly within her chest when Avyna described the wedding as a ceremony made alongside her. Rationally, Avyna was presumably just daydreaming about something she had decided was beautiful, but Ranthia’s heart wanted it to be a hint. She desperately hoped that Avyna was trying to suggest that she wanted something far more permanent than the fifty-four years that remained under their contract.
+
+But even if she wanted to hope, Ranthia chose not to give voice to the assumption that her heart craved. They were sharing a tender and happy moment together, and the last thing that Ranthia wanted to do was to sour the air with talk of how little time they had left.
+
+Her selfishness required limits.
+
+“Get the wounded back to base!” Ranthia shouted a heartbeat before her shift concluded. Her fresh image intercepted another group of shimagu while she silently hoped that anyone still upright—mostly the survivors of the dwarven team—followed her orders. There were too many hostiles for her to possibly micromanage the retreat, it was taking everything she had to try to stave off such a large group to buy time.
+
+Unfortunately, the damned parasites had truly caught Remera off-guard. It was sometimes all too easy to consider the shimagu incompetent, but they were a clever adversary—and their greatest weapon was feigned predictability.
+
+Remera had been almost desperate for a resupply. Many years ago, the Legions started using overland supply convoys to supplement Sentinel Aurora’s [Starship], since she was often tasked with other missions and couldn’t single-handedly manage the war’s logistics. …Gods and goddesses, it’d been three years since Ranthia last laid eyes on the [Starship] and she was trying not to think about what that likely implied. But Remera hadn’t seen a convoy either in over a month, and the base commander had sent more than a few messages requesting one before the base’s ability to defend itself was compromised.
+
+Then, in the early hours just before sunrise, the convoy appeared. As expected, they were coming from the east and bore the standards of Remus on both the wagons and the legionaries that escorted them. It was a welcome relief, even if Legion Command hadn’t bothered to send word. The base commander, drowsy from being woken with the news, ordered a [Healer] (with proper escort) to head out to meet them to expedite the convoy’s verification and get them admitted to Remera before anything could go wrong.
+
+And that was all the information Glorine had time to convey while she struggled to keep pace with Ranthia while she geared up and threw herself into the situation. The wagons—which were in pieces—had obviously been filled with ogres that had joined the infected humans wearing stolen and scavenged Legion equipment. Even the beasts of burden had parasites in them, or perhaps a [Tamer] amongst the enemy, and were proving to be a problem.
+
+The good news was that Remera’s gates were, by design, both easy and fast to close. Those that lifted the heavy stone just had to stop their Skills and let it drop. But that still left one [Healer] and roughly thirty-two guards trapped on the wrong side of the walls and surrounded by enemies.
+
+The shimagu-infected legionaries were aping Legion tactics. They formed imperfect ranks and walled Ranthia off with shields while ogres weaponized their greater reach from behind the barricade. But that was fine, all Ranthia needed to do was to halt the enemy’s advance and let the defenders on the wall—
+
+The bolt of Lightning that nearly took her from the side curved and grounded itself into a shimagu’s shield. The warning that [Combat Awareness] offered had come too late for her to act, instead she was protected by one of the element’s myriad quirks. Not that it helped her with either beam of Brilliance that followed. Fortunately, the shimagu wielding Brilliance were lower level than the Lightning [Mage] and their spells struggled to pierce through her flesh.
+
+Elements with seemingly instant attacks were so godsdamned unfair!
+
+“The enemy are too close for us to raise the gates!” Someone shouted from the walls above, as if she needed more problems to solve.
+
+Xaoc damn it all!
+
+“Just lift the gate enough to pass the wounded through one-by-one! A team to slide them under and a team to pull them inside!” Ranthia shouted back.
+
+A lack of response prompted one of the dwarves to echo her orders a few moments later, obviously no one on the wall could hear her over the din of battle. Ranthia parried another crude weapon with her left knife while the shimagu [Mages] continued to carve pieces out of her. Making the two Brilliance wielders miss wasn’t hard, but they could ‘walk’ their attacks before they concluded, which meant they were inflicting at least a little damage almost every time. No matter how she danced, she was suffering. The greater problem was the Lightning [Mage], an ogre with [Mage – Lightning], [Warrior – Wind], and [Warrior – Mountain]. Its level was only in the mid-five hundreds and Ranthia was mostly certain that it was another faux-twin, but it was still a problem.
+
+The faux-twins were another annoying bit of cleverness the shimagu had inflicted upon the war. Parasites with classes that mirrored those of the host, which generated calls of confirmed twins and forced Coalition elites to respond to what was ultimately a false alarm. The faux-twins were usually well trained and were equipped with some of the best equipment the shimagu had shown, but they were ultimately far less capable than a true twin could ever be. Unfortunately, it was a bear to be certain that they weren’t true twins without engaging them.
+
+But even if he was a faux-twin, it was impossible to miss that the shimagu had specifically prepared a counter for her in their surprise attack. The force was too small to take Remera, but they were doing more damage than a group their size should have been capable of.
+
+One of the infected beasts attempted to charge past her, which forced Ranthia to tap [Sustained Chaos] to throw her right knife—fully imbued with her Skills—into the spine at the base of its skull as it thundered past. The kill notification confirmed that beast and parasite were both killed in the moment of impact—even if the body was still in motion.
+
+Her right bracer crumbled into sand and replaced her knife, just barely in time to intercept the rusty sword that another ogre tried to stab into her. There was no time for her to wrestle with [Adamant Commander] to retrieve the knife from the dense tissue of the resilient dinosaur, which meant she was down a bracer. Ranthia altered her dance to compensate and focused on sending out more images.
+
+She needed to shift to a fresh body before she accumulated too many injuries, but the enemy were aggressive enough that her images were being shattered almost as fast as she could replace them.
+
+It truly was damned annoying to face enemies that were familiar with her and were fully prepared to capitalize on her weaknesses. But it wasn’t the first time she had dealt with it and it wouldn’t be the last.
+
+“Brindelt, Vargrath, on me! We got this lot, Grace!” One of the dwarves yelled as he prepared to charge in her direction.
+
+“Thanks Rumsund!” Ranthia called back.
+
+Even she could learn names after so many years. The legionaries were constantly cycled around the war, but the dwarves tended to stick around for a long time before they moved on. Especially since Remera was something of a favored posting to them, between the presence of a legendary [Battlemaster], the honor of protecting an aged [Healer], and Avyna’s increasingly famous shop.
+
+As the trio of dwarves slammed into the shimagu’s defensive line—and broke through it—Ranthia finally managed to complete [Reflections of Reality]’s glacial activation and shifted to a fresh image that could properly threaten the shimagu [Mages]. One of the Brilliance [Mages] tried, he really did. The other fled—and was cut down by the defenders on the wall almost immediately, in spite of his host’s relatively high speed stat—but the first one stood his ground and tried to repel Ranthia with his Skills.
+
+[Void Edge] tore through his solidified light and the beams he launched at her failed to pierce deep enough to stop her. He even tried to throw a punch at the end, but he brought a fist to a knife fight. One knife sliced through his fist, while her other found the ogre’s heart. Which usually was suboptimal, but…
+
+[*ding!* You have slain an ogre [Town Guardian] (Gravity, level 487), [Firm Fists] (Mountain, level 461)!]
+
+…As Ranthia hoped, the parasite went ballistic and expended its mana in a frantic short-range burst of Brilliance. It was trivial for her to dance away from the attack, but it also stymied the Lightning [Mage]’s ability to attack her now that the taller ogre was out of the way. Even better, it forced the final ogre to take a single, fatal step back.
+
+A sharpened rock erased both his head and his neck with explosive—and messy—force.
+
+[*ding!* Your allies have slain an ogre [He Who Denies the Storm Its Due] (Lightning, level 542), [Untroubled by the Winds] (Wind, level 516), [Inconducive] (Mountain, level 109)//a shimagu [Future Elite] (Ooze, level 559), [Shimagu Mage] (Lightning, level 555), [All-Consuming Shield] (Dark, level 63)!]
+
+“Nice shot, Lithy!” Ranthia called out, waving to the [Mage] in question. Lithy was rapidly becoming one of Ranthia’s favorite people who had wall duty, and not just because they had a casual bit of fun together a couple of times—with Avyna’s blessing, of course. What was more important was that the woman had swift and decisive judgment, with an impressive ability to size up a situation and act. Ranthia had no doubts that the woman would end up an officer sooner rather than later.
+
+With the wall defenders able to focus on the shimagu’s second flank, Ranthia shifted to a fresh image and joined the trio of dwarves in culling the first. The shimagu’s attack was thwarted and the situation promised to be resolved soon, but Ranthia still intended to do everything that she could to hurry it along.
+
+Anyone that threatened Remera and its people would be culled without mercy.
+
+War could be exceptionally stupid. Atop Remera’s wall, Ranthia stared out at a sea of tents and (at some point, perhaps) combatants that all but surrounded Remera. One of the largest shimagu armies to date had come to take their base, yet they moved slowly enough that—against all odds—the newly formed 27th Legion had arrived first, at the base commander’s request for reinforcements. They were joined by two “charges” worth of centaurs (because gods forbid anyone used actual numbers instead of cutesy words) and a small Coalition force of minotaurs, dwarves, and gnolls.
+
+Yet neither army seemed to quite know what to do about the presence of the other, which had resulted in Pallos’ most idiotic stalemate. For three days, the two armies had faced each other from afar, trading the occasional ineffectual ranged attack and otherwise standing their ground. It was such a non-event that Remera’s gates opened multiple times per day to let visitors from their allies come and go.
+
+Ranthia just sighed and shook her head, before she activated [Reflections of Reality] and—after a brief wait—returned to the image that she had left next to Avyna.
+
+“<No change, my love?>” Avyna asked the very instant Ranthia’s perception shifted.
+
+Ranthia still wasn’t sure how Avyna had gotten so good at noticing almost the very instant Ranthia entered an image. Her [System Perception] Skill was an active one, like the basic forms of [Identify] were, and it seemed unlikely that Avyna just stood there spamming the Skill nonstop until it returned Ranthia’s values. Avyna claimed that it was just a difference in presence and changes to her micromovements, but Ranthia was still confident that [Submind] kept her images moving exactly the same as she did. In the end, so long as the ability remained unique to the love of her life, she didn’t mind. …Much.
+
+“<Nothing. The base commander told me there’s a Sentinel somewhere among the 27th, but whoever it is, they still haven’t approached me. …Which probably confirms that it isn’t anyone I know.>” Ranthia proved unable to keep the bitterness—or the grumble—out of her words.
+
+Honestly, she had come to mildly regret never attending a Sentinel meeting back when they were in Coalition City. Night had given her permission to skip them and focus her efforts on her recovery, but she was starting to feel extremely isolated from her peers. Even when she sent reports or letters to Sentinel Night, the man never bothered to send a response.
+
+Not that she doubted he was still out there; somehow, she wasn’t worried about the vampire falling. Gods and goddesses, she could easily imagine him surviving even if they lost the war and Remus fell. Not that the war seemed to ever have any indication of ending, nor did her grasp of the situation seem to suggest that the tides of conflict were favoring the shimagu.
+
+Still, the ongoing stalemate—and not just the situation she was in, but the war itself—weighed on her. And sometimes, when her weariness with it all accrued, Avyna’s lingering recommendation to leave became tempting. But for better or worse, the fact remained that Ranthia was self-aware enough to know that she’d be haunted by regrets for a very long time if she did, and no [Mind Healer] could change that.
+
+Avyna began to speak—something about having patience—but Ranthia’s attention was pulled away. [Combat Awareness] twinged. It wasn’t loud or desperate, but it was an unmistakable warning.
+
+With her perception at its limits, Ranthia found the cause: a wooden spike that was travelling through the air at speed. She had just enough time to find a rhythm and start her dance. She started to form her knives, but the process needed more time than she had. Instead, she took the blow with her bracer and let [Rhythmic Grace]—and whatever influence [True Grace] had to offer—guide her movements so the attack deflected harmlessly into Remera’s inner wall.
+
+But there was no time for her to obsess about an attack from within her own base. Two more wooden spikes were inbound. Her knives were ready before they arrived. The first had to be erased with [Void Edge]—thank Xaoc, they weren’t too large—but the second she was able to safely evade. Except, a heartbeat later, [Combat Awareness] went off again, and Ranthia was forced to use her bracer again to deflect the two tiny wooden spikes that launched from the one that passed her by!
+
+“Hah! Good ta see ye ain’t gone soft on me over tha years, lassie!” A distantly familiar voice shouted.
+
+As the legionaries in the vicinity began to—finally—react to attacks going off in their midst, a dwarf boldly stepped around a nearby tent. Her greying beard and hair were striped with forest green dye and she was clad in wooden armor. Even her left arm seemed to, bizarrely, be made entirely out of wood.
+
+It had been a long, long time but Ranthia recognized the styling of the beard and the green dye—at least after a few heartbeats of time.
+
+“Rigira!?” Ranthia wore her shock openly.
+
+Rigira. The woman that trained Ranthia’s defenses and combat intuition back in the Ranger Academy. And there she stood, touched by the passage of decades, but whole—mostly whole—and healthy.
+
+Laughing her ass off.
+
+“Oh! Avyna—<Gemheart, put the bow away>—this is Rigira. I’ve mentioned her before; she was one of the ones who helped me train the foundation for my combat style. Rigira, this is Avyna. We’re pledged to one another.” Ranthia didn’t even try to hide her excitement as she introduced the women to one another
+
+Avyna offered a polite smile to accompany her cold, unamused glare. The bow that had been in her hands disappeared, and she stepped forward to link her arm with Ranthia’s again. But the elf made zero effort to rein in the glare that she continually sent the dwarf’s way.
+
+About then the legionaries seemed to collectively decide it wasn’t their problem to deal with, and the immediate vicinity rapidly became quieter as everyone sought someplace else to be that was less likely to become embroiled in conflicts that were far above their paygrade.
+
+“Whelp, I see yer another that just couldn’ resist ta charms of those horned jerks. Still, ye look happy and ye look good!” Rigira approached and offered her non-wooden hand.
+
+Ranthia eagerly grasped it and shook her mentor’s hand—Rigira was a bit too stocky to properly grasp her wrist. Once Ranthia released the limb, Rigira offered it to Avyna. Avyna only offered her a blatantly frosty smile and made no move to take it.
+
+“Look, ahm sorry fer shootin’ at yer partner, but I needed tah make sure she ain’t gone soft!” Rigira seemed to finally sense the mood and connect the dots, so she made her case to Avyna.
+
+Avyna only offered a deluge of frostiness in return.
+
+“…I apologize.” Rigira finally caved to the awkward, lingering silence and bowed while she offered a surprisingly sincere apology.
+
+“Apology accepted. Would you care to join us? I am certain that my beloved would enjoy being able to catch up with you.” Avyna finally offered the dwarf a genuine smile while she made her offer.
+
+Ranthia sighed with relief while Rigira enthusiastically accepted.
+
+Back in their home, Avyna brewed a pot of herbal tea that Ranthia didn’t recognize the scent of. Rigira seemed to greatly enjoy it, but Ranthia just felt like it tasted entirely too… ambiguously plant-y. While they drank, Rigira explained that she had arrived as part of a team of dwarven engineers—representatives from the group that had invented Remera’s grand siege weapon that had proven its value time and time again. Apparently, in light of the threat posed by the ongoing war, the dwarves had agreed to install two more of the gigantic weapons on Remera’s walls.
+
+And Rigira chose to duck out of a meeting after hours of dwarves and a few men arguing in circles about where to place the new weapons—Remera’s lack of a central tower that could have provided omnidirectional coverage continued to be a mistake—and seek out Ranthia.
+
+It was great to see Rigira, and Ranthia was glad that she worked for some sort of group of dwarven inventors, but there was one detail, an offhand mention really, that Ranthia just couldn’t get her head around.
+
+“Dimlit. Dimlit is one of your top people. We cannot be thinking of the same kid.” Ranthia shook her head yet again.
+
+“Ha! E’s an adult now. Gotta still rein ‘im in from time to time, but he has… vision. It’s ta real deal.” Rigira answered with an amused smirk that practically advertised that the woman had mentioned him on purpose.
+
+“…Is he still trying to make those horrendous flying suits?” Ranthia had to know, as much as she didn’t want to know.
+
+“Hah! Oh ancestors, ah nearly pissed meself laughin’ when ah heard it was you that he suckered into testin’ those death traps… twice!” Rigira jiggled and wheezed hard enough that tea sloshed from her cup.
+
+“Yeah, yeah, laugh it up. They would have been amazing if they worked.” Ranthia groused as she watched Rigira give in to cackling.
+
+“Lass ah’ll let ye in on a researcher’s secret. If someone comes up with an idea that can’t be replicated by a single Skill for most classes? It ain’t gonna work.” Rigira explained, at least once she recovered enough to offer a serious response.
+
+Ranthia chose to resist the urge to point out that there (presumably) were classes that could fly, at least to some extent, off a single Skill. The System enabled so much, and Avyna was living proof that broad functionality could be compressed into a single Skill! Yet she was also disinclined to argue. She wanted to enjoy her reunion with her mentor—the last one she had left. Tatius and Pupius were gone, as was the Guildmaster that had accepted her. Fausteo had almost certainly embraced White Dove after so many years and Hunting was lost on the Night of the Second Sun. Rigira gave her so much, and Ranthia fully intended to take the opportunity to properly thank the woman for her time and effort.
+
+Plus, she had to convince the dwarf to share the story of how she lost her arm—the curiosity was killing her. The wooden limb seemed surprisingly functional, but it was undeniably the injury that had taken her away from a life of combat. And knowing Rigira, it was probably a hell of a story.
+
+Alas, the other possibility was that it was a grisly non-event. Just another terrible moment on the field of battle, easily prevented had any number of factors gone in a better direction. Rigira had been part of a dwarven combat unit ambushed by one of the shimagu tunneling teams. She lost her arm in the initial skirmish and was forced to use her Skills to create a field replacement to help the rest of the survivors get through to safety.
+
+“Decided it ‘ad enough utility tah keep it. ‘Sides, I ain’t one to bug a [Healer] selfishly.” Rigira concluded her terse summary of the tale, before she asked if Ranthia had anything stronger than tea.
+
+After several days of uncertainty, the shimagu army just… left. The 27th Legion left a detachment with Remera when they departed a few days later, just in case it was some sort of bizarre feint. Rigira and her team remained for the bulk of the season while the new weaponry was constructed, tested, and calibrated. And then, angrily grousing that she didn’t want any fanfare or exaggerated farewells, Rigira left.
+
+…Which left Ranthia wondering if another familiar face had left her life, never to be seen again. She had so few connections to the living, at least beyond Remera’s walls. It’d even been years since Tertia last wrote to her—a culmination of escalating prices to send messages into the warzone, a catastrophic loss when a vessel carrying quite a bit of cargo that Tertia’s business had guaranteed sank during a freak storm, and the increasingly blatant lack of privacy as scrolls were opened and redacted by the Legions.
+
+Something had happened, somewhere, that the Legion didn’t want to spread. Ranthia had no idea what it was, when it happened, or even if anything had truly changed—but the fact that some of Tertia’s final scrolls had arrived with sections burned out of them still left Ranthia furious. Not that Night had bothered to respond to her complaints.
+
+Feeling morose, Ranthia sought out the book her [Mind Healer] had gifted her and started to compose a message to the elf. At least messages to and from Coalition City were still cheap—and, as far as she knew, the Legions’ spies remained oblivious to the encoding that those messages used.
+
+Less than five days after Ranthia’s 67th birthday, a new shimagu twin arrived. He didn’t even attempt to hide the fact that he possessed more than three elements; he played his hand immediately when they clashed. He was an orc with a speedster’s build, wielding two strange, curved swords to great effect. But her dexterity helped to bridge the advantage his greater speed granted him.
+
+Some of the troops that had previously served up north recognized the twin; he’d been a thorn in that region for years. But after their first clash—which gave her the first level she’d gotten in [She who Dances with Chaos] in nearly three years—the twin ceased trying to best her in battle. Instead, he came at her without warning in an attempt to catch her off-guard, then consistently retreated after a few probing strikes.
+
+By the time spring ceded to summer, he stopped making appearances around Remera.
+
+With summer settling in and the shimagu less active in the region, Ranthia was thankful for a day to relax and enjoy the company of the woman that she loved. They had cooked breakfast together, then made love and as the day came to an end, Ranthia was basking in the afterglow while they cuddled. She had her face buried in Avyna’s hair and was relishing the delicate scent that she associated with Avyna while she tried to recover.
+
+“<My love…?>” Avyna spoke into comfortable silence, but her quiet voice was strangely… hesitant.
+
+“<Is something wrong? I’m not hurting you or anything?>” Ranthia immediately asked, concerned, even as she eased up on just how tightly she’d been holding her partner.
+
+“<I am fine, my love. But I… I have been thinking.>” Avyna’s tone almost seemed… shy.
+
+It was strange enough that Ranthia gently encouraged the elf to roll over so she could properly face her. Avyna resisted briefly, before she seemed to think better of it and turned in Ranthia’s arms.
+
+“<I’m always thinking about you.>” Ranthia couldn’t have stopped the affectionate smile that spread across her face if she tried, so she let the flirty line loose while she kissed her way across Avyna’s cheek, down toward her chin. She wasn’t sure what Avyna was thinking about, but she knew it sounded serious. And she knew that she truly wasn’t in the mood to be serious, not just yet.
+
+Avyna wiggled delightfully against her and made more than a few little sounds of approval, but after a few minutes of playful affection, she placed a finger on Ranthia’s forehead and gently stopped her. Ranthia pouted, but Avyna assumed her merchant’s mask—as though she was preparing for a harsh negotiation—and spoke before Ranthia could act.
+
+“<My love, I want you to be honest with me. Of the contract that serves as the foundation for our romance, is there any clause that you would change, if you were freely permitted to?>” The words were proffered in an unreadable tone, one that was just as enigmatic as Avyna’s businesslike mien.
+
+And all Ranthia could do was to freeze as the panic set in. Far from the cozy afterglow she had been relishing, Ranthia found herself on fraught ground—and she had no idea why. She knew Avyna well, this was no test—it was something far more serious.
+
+Faced with such uncertainty, she had no idea how to even begin to respond!

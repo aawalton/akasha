@@ -1,0 +1,115 @@
+---
+id: 9ad02f52-7264-5eb7-bbaa-18aba0cd2d18
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 68 - Flashy"
+slug: 0072-b3-chapter-68-flashy
+partOf: bookbound-bunny
+position: 72
+ownLength: 2302
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3705323/b3-chapter-68-flashy"
+royalRoadId: "3705323"
+---
+
+Looking at the completed glyph, even Lily had to admit it was excessively wasteful. The extra effort put into it, just to make it flash between different colors, was no doubt beautiful, and she could not wait to witness it firsthand. Yet at the same time, after spending every moment prior trying to be as frugal as possible, she felt very conflicted, and no doubt this was why Arakil hadn't shown her these sooner.
+
+I would have tried to include these in everything if I had known about them back when I first met Arakil.
+
+She didn't want to call her past self ignorant, but it was, in fact, the truth. Still, even if it was a waste of Mana, it was also a lot of fun, and the additional sigils were a delight to design. Thanks to the wand, it allowed Lily to draw just for the sake of drawing; something her glyph ink could never do, as it had a tangible material cost, while this only cost her some Mana that would be replenished with time.
+
+Following Arakil's instruction, she saved the completed glyph in the wand. After doing this three times, she could probably do it on her own, but she tried her best to forget about it, not willing to let the temptation to abuse it sit on the table. Once that was done, she hurriedly made her way back to where the event was being held, with her friends hopefully none the wiser.
+
+"Sorry, I'm back," Lily said to Lotte.
+
+"No problem. Hana and Arthur went in already, so at least we will know what time we need to beat," Lotte explained.
+
+Lily nodded and then joined the queue to have her turn. There weren't many first-year students willing to take part, which was a bit of a surprise. Yes, the dueling was more popular, but were they really that worried about ten minutes in the dungeon affecting their outcome?
+
+{Is Mana really that hard to regenerate for normal people?}
+
+[It varies greatly from person to person, but on average, I'd say it's a big concern. If you remember your evaluation by the three representatives, they were shocked by your replenishment, and you've only continued to improve. From the people I've observed closest to you, Lotte appears to have the fastest regeneration, and you almost double her thanks to your persistently rotating Mana Core. And, before you ask, yes, she exceeds Rose in regeneration, although with the sheer quantity of available Mana Rose has, such a benefit can largely be ignored.]
+
+Arakil clearly had a strong interest in identifying the underlying causes and effects of bloodlines; it had effectively become his hobby since he discovered them. With magical aptitudes, it was clear that bloodlines played a very important role, but it was interesting to hear that even the best might be beaten by others. Why did a basilisk beat a dragon in regeneration? Lily certainly had no idea, but it was apparent Arakil wanted to find out eventually.
+
+Rose and Rebecca had also entered while Lily was away, and judging by the queue outside the second-year mini-dungeon, it was understandable. Rose obviously wanted to get it over and done with so she could be ready for the duels in the afternoon.
+
+Lily and Lotte whispered to each other about what strategies they could use, and Lily also revealed that she had an ace up her sleeve for whatever the final challenge was. Lotte was eager, and it was very clear she wanted the top spot. Moments later, Hana and Arthur exited, with the scoreboard updating to their time of five minutes, two seconds right at the top.
+
+The two looked a little tired, mostly out of breath, but the excitement on their faces was undeniable. They weren't allowed to join the queue to chat with the pair, so they just waved and gave thumbs-up to encourage them. Not long after, Rose and Rebecca also exited, with the latter looking absolutely distraught.
+
+The second-year scoreboard had been updated, with first place instantly secured at two minutes, fifty-seven seconds. The result caused gasps from the crowd of onlookers; apparently, a time under three minutes was almost unheard of.
+
+Rose ignored the cheering onlookers and instead scanned for Lily, and when their eyes met, she erupted into a victorious smile before pumping her fist into the air with pride. To Lily, it almost felt like her sister was encouraging her to meet her expectations, a tall order for anyone at her age, even with the guidance of Arakil.
+
+"Damn, that's the power of natural talent, I guess…" Lotte said, eying the scoreboard enviously.
+
+The current second place was at six minutes, and while that would probably be beaten as the day went on, the stark difference between it and Rose's dominating time was unquestionable. At this point, Lily noticed that Alice had also arrived during her absence, and the teacher gave Rose an encouraging punch on the shoulder before offering Rebecca a helping hand.
+
+It didn't take long for the floating images to start showing recreations of the fight they had encountered, with Rose fighting what looked like a massive wolf standing on its hind legs. Its upper torso was enlarged, with bulging muscles, and it even wielded a large, curved blade. Rose seemed to effortlessly sidestep its attacks before countering with gouts of flame that utterly engulfed it and most of the room.
+
+"So that's why Rebecca looks so terrible," Lily murmured.
+
+Yes, Rebecca had to avoid not the giant monster but her own teammate, Rose. The girl had tried her best to hunker in the corner with defensive spells, but was forced on more than one occasion to flee like her life depended on it.
+
+"I wonder if she did that on purpose," Lotte suggested.
+
+"I know my sister can be a bit much, but I don't think she would go that far."
+
+"No, think about it. If she shows that she's better suited for solo, with her own teammate being a liability, then maybe the school will give her an exception next time?"
+
+Lily could only shrug. Even if the idea sounded plausible, she couldn't see her sister thinking that far ahead; it sounded too nefarious for the girl who liked to solve everything with fists.
+
+"I'm surprised they are showing her results so soon. Doesn't that give an unfair advantage to the people going after her?" Lily asked.
+
+"Ah, you missed it, but Headmaster Fabrelis explained that each mini-dungeon has quite a few variances, so you don't know what to expect. He also promised that they were all equal in challenge," Lotte answered.
+
+Lily nodded and gazed back at their side. Arthur and Hana were working together to fight what appeared to be a large ant. However, unlike Rose and her single giant wolfman, the ant wasn't alone, and it had several smaller ants swarming around it. Arthur was focused on culling their numbers with magical blades of wind that were rotating around him like scythes, while Hana was focused on the giant ant and trying to whittle it down with penetrating beams of light.
+
+The duo worked well together, with Arthur keeping the ants at bay so Hana had all the time she needed to snipe away. While the giant ant didn't appear to be resistant to the lasers, with each beam penetrating straight through it, it seemed able to continue taking the punishment. Hana was effectively being forced to fish for the weak point to land the killing blow.
+
+"It sucks we probably won't get that challenge," Lotte sighed. "With your exploding stars, you could easily take out all the little ants, and with my acidic poison, I wouldn't need to hunt for the weak point."
+
+Lily nodded in agreement, while wondering what they might potentially face. Unfortunately, there weren't many people who had gone before them, so the headmasters' recordings showed very few scenes to give any idea of what to expect.
+
+Eventually, it was their turn to enter, and after getting the go-ahead from Fabrelis, they hastily descended the stairs and into the mini-dungeon. Once inside, Lily immediately summoned her Nebula Veil, surrounding herself in the billowing cloak of stars, while Lotte coated herself in the magical petrified scales.
+
+From the images they had seen, a dark cavern for Hana and Arthur, but what Lily and Lotte had emerged into looked like a swamp. There was muddy marsh everywhere, and their boots squelched with each step.
+
+"So different? Damn, this dungeon is crazy," Lotte said as the two continued moving forward.
+
+"No wonder they didn't see any need to prevent us from talking about it, or showing the others' fights," Lily commented.
+
+As they trudged through the swamp, their path was blocked by a horde of frogs, which finally gave them a hint of what they would be facing. Lily was saving her glyph for the final fight, so instead she conjured forth a scattering of stars with a few simple gestures.
+
+Likewise, Lotte basically just snapped her fingers, each snap sending out a small magical serpent that slithered through the air towards its targets. With several explosions of stars and many magical snakes, the small foes blocking their path were wiped out, and that was when the main target revealed itself.
+
+Emerging from the swamp was a massive frog covered in warts, algae, and mud. It was easily double the size of the ant they had seen in the recording, but it looked like it didn't come with a swarm of minions as a compromise.
+
+"Perfect, this should be a breeze," Lotte said before starting her chanting.
+
+"I'll hold it back," Lily said and waved her arm with a flourish.
+
+While the massive frog was emerging, Lily had already retrieved her wand and hidden it beneath her starry cloak; now she only needed to summon forth the saved glyph. Hiding her actions with the Nebula Veil was a breeze, and she made sure that it was a dazzling performance.
+
+As she raised and pointed her wand with the final gesture, the overly complex glyph emerged, almost appearing like it had spawned from one of the lustrous nebulae on her cloak. The frog's attention was immediately drawn to such a display, and it looked as if it was about to regurgitate something in response, when the glyph activated and the show began.
+
+Multitudes of arcane bolts flew out, no two colors alike as they all spiraled around a larger primary bolt in the middle. The larger bolt was flashing different colors, as if guided by the rainbow of arcane force spinning around it. In terms of output, this practically pushed a glyph to its maximum parameters, and it had cost Lily a good chunk of her Mana; she was relieved that she had nothing else important lined up for the day.
+
+Lotte was so shocked by the sudden display that she almost dropped her chant, only recovering when she saw the luminous serpent coiling around her, beginning to sizzle dangerously. She looked as if she desperately wanted to ask Lily where this had come from, but was forced to continue her spell or risk it collapsing.
+
+As for the frog, before it could vomit its own attack at Lily, it was struck by the multitude of brightly colored bolts, creating a kaleidoscope of bursts. While each bolt wasn't necessarily deadly, they certainly packed a punch, and the frog visibly flinched with each impact. Whatever was coming up its throat was unceremoniously swallowed, and when the final major bolt hit, it was sent reeling backward.
+
+The frog appeared battered, bruised, and concussed, with its head swaying and its eyes blinking rapidly. This distraction had certainly proved effective as Lotte finished her chant before it recovered and sent out a large twisting and coiling serpent towards the frog. When it finally recovered and its eyes widened in shock, it was already too late, and the snake was constricting around it and sinking its fangs into its flesh.
+
+The sound of acidic sizzling could be heard, and the frog's violent twitching was even more evidence of how effective this spell was. If not for the overly colorful barrage of bolts, this would have stolen the show, but it was still sufficient enough to be the clincher. The battered frog struggled for only a few moments before it ultimately succumbed, its body exploding into multiple black flecks in almost no time at all.
+
+"Wow, if you had a few more bolts in that glyph you unleashed, I think I might not have even needed to be here," Lotte said, evidently surprised by how quickly her spell finished off the threat.
+
+"Don't say that, your spells are the bane of any monsters," Lily said reassuringly.
+
+Lotte chuckled at the compliment, although Lily really meant it. Yes, her spell was overly flashy, but it hadn't actually dealt too much damage to the frog despite what was shown. The monster's fleshy body, while battered and bruised, was also weirdly malleable, so most of the damage Lily had dealt was probably only surface-level. However, the big frog apparently had no method at all to resist the acidic poison, especially not if Lotte chanted the hell out of it, which raised its potency by several steps.
+
+The pair looked around to see what to do next, but to their relief, the swamp seemed to be fading away, and the stairs back up were revealed. This really was a mini-dungeon, emphasis on mini, and after beating the boss frog, they were being kicked out.
+
+"I'm positive we were in here for less than five minutes," Lotte said confidently as the two walked up, both of them kicking their boots against the stone steps in an effort to remove some of the mud.

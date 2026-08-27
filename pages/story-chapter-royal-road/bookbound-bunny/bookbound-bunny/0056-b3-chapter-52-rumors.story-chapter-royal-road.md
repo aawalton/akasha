@@ -1,0 +1,171 @@
+---
+id: 985c8390-a2d0-54a9-8c60-ebe477ff246a
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 52 - Rumors"
+slug: 0056-b3-chapter-52-rumors
+partOf: bookbound-bunny
+position: 56
+ownLength: 2512
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3522813/b3-chapter-52-rumors"
+royalRoadId: "3522813"
+---
+
+Arakil didn't say anything until the next morning when Lily finally woke up. She was quite surprised that her rather casual remark had prompted him to scrutinize the idea so closely, but perhaps he was trying to eliminate any potential pitfalls for her.
+
+[I think your idea has a lot of potential, and while I would prefer you accomplish it without assistance, I don't forbid having the wand as a fallback.]
+
+Lily smiled. It was a very Arakil response, and she knew he liked to have his contingencies in place. Perhaps the delay in making a comment simply involved creating the mental gymnastics required to consider the wand as a contingency, rather than a lazy cheat.
+
+[The best outcome will undoubtedly be if you manage to accomplish it yourself. Your idea of trying to garner the belief that you can do "anything" with glyphs to expedite this has some potential too, though, as I mentioned before, I don't know if it will bear fruit.
+
+However, you were most definitely correct about one thing: the current world is dreadfully ignorant of what magic once was. It's a shame, but if you look at it from another angle, this is an opportunity for us. There could be rare resources that are currently overlooked, with their true purpose lost to time, or other artifacts like your wand thrown to the wayside.]
+
+"Sounds great. I just hope I can pull it off," Lily admitted.
+
+[As long as you try your best, I'll never be disappointed.]
+
+Returning to the school week after such an exciting weekend was painful, and Lily wasn't alone in that regard. Hana and Lotte both wanted to explore the second floor, but until the weekend, they could, at best, spend a short while in the late evening or afternoon.
+
+Lily had hoped that their accomplishment would have been kept under wraps, but that swiftly fell apart as soon as they entered Alice's class.
+
+"Took long enough, but one of you finally got to the second floor. Congrats! I hope the others can catch up sooner rather than later."
+
+Alice had thrown down the gauntlet, bringing the challenge to the rest of the class's attention. Lily understood why she had done it, to light a fire and get the competitive spirit roaring, but she wished it could have waited a day or two at least.
+
+The one saving grace was that Alice immediately told the class to figure it out on their own and not to expect any handouts from the current victors. In fact, she outright said she would punish anyone who tried to force the matter, including Lily's group, if they were dropping hints willingly.
+
+Lily and Lotte both gave Thomas an apologetic smile, who was unfortunately excluded from the shared victory. To give him credit, he seemed to be handling it well, and between him and Arthur, they appeared to be reinvigorated to catch up.
+
+As for the rest of the classes, not much changed. Things seemed to be continuing as normal, except for more chatter about the upcoming festival. Perhaps hearing about their accomplishment, Bradley tried to push his luck into getting Lily to join the dueling again, but she politely turned him down again.
+
+Thankfully, he took it rather well, and it appeared he was forced to ask again. In fact, he actually seemed glad that both Lotte and her were such a good pair and that he looked forward to seeing them at the top of the leaderboard.
+
+Sylwel similarly praised the two and emphasized that they gather more resources from the second floor. The reason was blatant: the alchemy lab's supplies were starting to dwindle thanks to the overly eager first-year students. Contributing to the supply issue was the fact that most of the second years didn't bother to gather on the lower floors once they could proceed further, leaving Professor Sylwel in a sticky situation.
+
+"Can't you just transmute some resources?" Lotte asked.
+
+"I could…" Sylwel admitted before frowning. "Although Headmaster Flublubs requested that I not break my weekly transmutation quota. Normally, I wouldn't care, but recently, he's threatened to exile me from Regarth and throw me at the mercy of the royal inquisitors. I can't imagine why, though…"
+
+The entire class was speechless, left to their imaginations as to what the mad professor had done to anger the usually mild headmaster. Lily and Lotte said they would, at the very least, try to help, throwing a lifeline to their flustered professor.
+
+For Lily's belief-gathering plan, the initial steps were admittedly a bit of a fumble. Lily had started by using glyphs more and more, where she could, but more often than not, that was only in the alchemy class. Yes, she used glyphs in the enchanting class, but that was expected of her, so nothing could be harvested.
+
+Lily wanted to include glyphs in PMC, but using the wand was considered an external tool, so unless permission was granted beforehand, it was unfortunately forbidden. Her attempts at sleight of hand with the wand had also not really succeeded, with her best attempts mostly involving sticking it up her sleeve and hoping for the best.
+
+When direct success failed, Lily started trying to perform at a distance. She would hide the wand and draw glyphs outside, hoping to catch some casual observers passing by. It was certainly better than trying to sneak the wand into a practice duel, but it left her feeling like she was a street performer rather than a prospective mage.
+
+Still, while it was embarrassing, it had proven effective as word slowly began to spread around Regarth about the "Weird Lagia girl drawing in the sky."
+
+To Lily's horror, when the rumors first started spreading, they triggered Rose's protective instincts, and she tried to shut them down. Lily had thankfully found out about it before too much harm was done, and quickly told Rose to let them be.
+
+Rose was stunned. "You… Want people spreading rumors about you?"
+
+Lily nodded, and Rose immediately grabbed her. She lifted Lily up and shook her a few times, then placed the back of her palm against Lily's forehead. This strange ritual continued through various stages, with Lily being jostled around like a sack of potatoes before Rose eventually returned her to the ground.
+
+"No fever… And you aren't an imposter pretending to be my sister…" Rose mumbled. "Is someone threatening you?"
+
+"N-no…" Lily blurted out, recovering from her dizziness. "I can't tell you why, but it's important that others notice my glyphs."
+
+Rose looked slightly hurt by her words. "You can't tell me?"
+
+"I promise it's nothing bad. But if I tell you why, it won't work. Trust me, that's as much as I can say."
+
+Rose appeared conflicted before sighing and giving a reluctant nod of agreement. "I'm guessing it's something to do with the book?"
+
+"More or less… Please, Rose, if I tell you more, it'll ruin it. Think of it like a surprise."
+
+Lily wished she could have told Rose, but admittedly, by her own estimates, Rose probably had enough belief to count as ten or more people. Not to mention the added benefit of her already believing in Lily, and the closeness they shared.
+
+Lily promised to explain as soon as she was able, which made Rose feel better. According to Arakil, once she had properly secured her first step in the real world, she wouldn't need to continue relying on such convoluted methods, so she wasn't afraid of losing Rose's unconditional belief by explaining the trick behind it.
+
+Lily's actions eventually caught the professors' attention, and a few asked her what she was doing. She gave a half-truth answer, claiming she was practicing her glyphs for the upcoming festival and interschool tournament. That got rid of most of the scrutiny cast on her, except for one very nosy individual: Headmaster Fabrelis.
+
+"Can't you draw your glyphs in your room? You've never been so open about this before. Why the change? Has something happened?" he threw out rapid-fire questions, leaving her stumbling for an answer.
+
+Lily hadn't expected the headmaster to be so intrigued, but he admittedly knew a few of her secrets and was keeping the crystal inscriptions strictly confidential. She tried giving the same answers she gave the professors, but it looked like he wasn't buying it.
+
+When reason failed, Lily grabbed at a lifeline her second teacher had provided her—money.
+
+"Money makes the world go round," Camilla had explained to Lily during her initial herbalism lessons. "You'd be surprised how many things suddenly go your way when money is involved. The best kind is when you don't even need to spend your money to fix it, just mentioning it is enough. Everyone wants more money, even if they deny it; it's like a universal understanding!
+
+"I'm thinking of ways to make some additional money," Lily explained to the headmaster.
+
+"Additional money? Why not through alchemy? That's quite profitable." Fabrelis asked.
+
+It was a good question. Alchemists were second only to enchanters in making money, Miss Camilla had said so herself. Of course, Lily couldn't just say "enchanters make more" as she had yet to actually learn the enchanting portion of the equation.
+
+"I've got two… No, three good reasons…" Lily slowly replied.
+
+The headmaster's eyebrows raised; evidently, his curiosity had piqued.
+
+Lily suppressed her desire to sigh and continued, "I need all the practice I can get, so this helps a lot, and I only have so much space in my room. That's the first reason. The second is production costs. Yes, alchemy makes money, but it also spends it just as fast."
+
+Pausing her explanation, Lily pointed to one of the floating glyphs she had drawn before the headmaster had arrived. "These cost me nothing but a little bit of Mana. I've got basically zero overhead. So it's potentially pure profit."
+
+The headmaster looked as if he was about to say something in response, but Lily quickly threw out her final excuse. "Thirdly, this sort of goes back to the first reason, but this lets me advertise myself at the same time as practicing. I don't think anyone else in Regarth can offer floating glyphs, far cheaper than actual enchanted items."
+
+The headmaster scratched his head awkwardly. Whether he bought her reasons or saw through them as quickly thrown together excuses, she wasn't sure. Lily was growing a little nervous at the continued silence until it was broken by Fabrelis' soft chuckle.
+
+"Zero overhead… Production costs… I can see why Tresnia fought so hard for your admittance," the headmaster said, shaking his head.
+
+Did he buy it? Lily wondered, trying her best to hide her hopeful relief.
+
+"Well, I don't see anything wrong with what you are doing. Although I do have a suggestion to make."
+
+Lily blinked in surprise. "What's your suggestion, sir?"
+
+"Well, at the moment, your floating glyphs appear more of an art piece than something useful. There's also the question of how long they will last, as they seem to fade away half an hour after you leave. Even if it's a cheap novelty, I can't see anyone wanting it more than once or twice, at most."
+
+That's what he's got an issue with?
+
+Lily was dumbfounded as she was sure he was trying to dig out her secret. Now it looked like he was merely confused about her business prospects.
+
+Or did he swap to that as an excuse to hide what he was really after?
+
+Lily felt her mind tingling as she tried to debate hypothetical secret motives, which was a bit too much for her. She liked things simple, and if not for the need to gather belief in her glyphs, she would never have resorted to this.
+
+"Um… I've been having them disappear because I didn't want to leave a mess, I thought someone would complain," Lily explained. This was the genuine truth, regardless of the reason behind it.
+
+"Really? How long can they last?" the headmaster asked.
+
+"I mean… I've got some in my room that I drew when I first got my wand, and they are still working," Lily admitted.
+
+The headmaster's composure broke as he looked at Lily like she had suddenly sprouted a second head. "That long…?"
+
+Lily nodded. "If I make them really efficient, they can stick around. I can also include more Mana in them, or they could be refueled… Though in terms of business prospects, that's not something I'd want to advertise."
+
+"No, I suppose not," Fabrelis chuckled. "It seems I greatly underestimated the utility of the glyphs you are drawing. I never suspected you were just trying to be conscientious to those around you."
+
+From there, the headmaster asked her a few questions about some of the simple glyphs she could set up. Lily saw no reason to refuse him and began explaining some of the ones she had learned, while even sprinkling in a few ideas she had but hadn't worked out yet.
+
+"I think you and Professor Melina would get along well…" the headmaster suddenly said, a genuine smile on his face.
+
+"I want to, but anytime I've mentioned glyphs, she's brought the focus back to chore magic," Lily sighed. She then quickly caught herself and stumbled to correct herself, in case she was misunderstood. "Not that I have anything against chore magic, I love using magic for anything and everything. I just wish I could use glyphs more."
+
+The headmaster chuckled again. "That's a good attitude to have, and don't worry, I don't think you have anything against Professor Melina."
+
+Lily sighed with relief.
+
+"Have you considered asking her after class?" Fabrelis asked.
+
+"No?" Lily admitted.
+
+"Looks like there might be a bit of a small misunderstanding then. I bet she is willing to teach you, but not at the expense of your classmates. During official class, she needs to teach everyone. If you approached her outside of class, or even requested a private lesson, I'm positive she would accommodate you."
+
+"I'll do that!"
+
+The headmaster looked quite pleased, but he wasn't done there. "As for your glyphs… I wouldn't be against you setting up some more semi-permanent ones around the school. In summer, a cool area would be wonderful, the same with heating during the winter."
+
+"Or dry areas during the rain?" Lily asked.
+
+"Exactly. I think you should take these ideas to Professor Melina and tell her you have my blessing to proceed. Who knows, you might learn a trick or two?"
+
+"Thank you, Headmaster Fabrelis!" Lily exclaimed excitedly.
+
+"Anytime… Think of it as a way to say thanks for choosing Regarth. I don't mind giving you a little bit of the Tresnia treatment, if you catch my drift," he said with a wink.
+
+Lily happily nodded, and after saying farewell, the two parted. Realistically, Lily didn't really need to start a glyph business, but it would help garner a stronger reputation. Not to mention, this had unexpectedly given her a chance to build a better connection with Professor Melina.
+
+Glyphs really are my lucky fortune…

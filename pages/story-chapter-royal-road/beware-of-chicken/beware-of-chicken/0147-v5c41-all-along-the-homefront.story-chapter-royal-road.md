@@ -1,0 +1,179 @@
+---
+id: 4ffca6e5-ad45-5210-a4dd-d9f0b2bdaa45
+page-type-slug: story-chapter-royal-road
+title: "v5c41: All Along the Homefront"
+slug: 0147-v5c41-all-along-the-homefront
+partOf: beware-of-chicken
+position: 147
+ownLength: 2371
+unit: words
+ownProgress: 2371
+publishedAt: 2024-09-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1793231/v5c41-all-along-the-homefront"
+royalRoadId: "1793231"
+markedReadAt: "2026-06-29T18:56:19.851Z"
+---
+
+Hong Meiling knelt within the fortress her family had crafted. Her eyes were closed and her breathing was even. She was meditating, just as her father had taught her. At first, it had merely been to calm her raging heart.
+
+But now, she could feel it building to something more.
+
+The room was dark, and yet the sounds of combat echoed around them.
+
+Meiling was not alone.
+
+Zhuye was sobbing and tossing fitfully in her lap, Miantiao was spinning more glass orbs, and Vajra’s soldiers were filling them with poison, even as the head bee herself was dancing before a section of comb she specifically asked to be brought to her. It had taken nearly a hundred bees to lift it in, and each cell was covered in works of art and decoration.
+
+Some part of her demanded to be standing out on the walls with her boys. Charging their enemies and conquering them—but that part was quiet, because Meiling wasn’t an idiot. Meiling had a lot of Qi, that was true. She was strong and fast. Stronger and faster than Xiulan, even, if she really pushed it.
+
+The problem was Meiling wasn’t a fighter. She had trained with the spear under Lu Ri’s direction, but it was sparing. Meiling was easily the least prepared for physical combat out of everyone. Her taking up a blade was something of a last resort.
+
+But that did not mean she could not help.
+
+Her guts churned. Golden light sparkled along her freckles.
+
+Then… Meiling felt like she was within multiple places at once.
+
+In one place, she was a healing draught, flowing through Jin, Tigu, Xianghua, Xiulan, and Yin. She could feel the vestiges of her Qi within the medicine, and she coaxed it to be faster and kinder. She ghosted along fried nerves and filled in the microfractures within their bones.
+
+She felt the tiredness of her husband and offered her Qi as she could, his own sluggish reserves refilling slightly faster.
+
+In another place, she was a paralytic, keeping members of the Shrouded Mountain Sect unconscious. She slowed their hearts without doing damage, to decrease the amount of poison they metabolized, and they stayed asleep.
+
+In a third, she was a vicious, gleeful thing. She rampaged through demonic bodies and danced through their blood, igniting their organs with the light of a constellation. She stayed her blade from the brave soldier bees that touched her and physically rammed the demons, sacrificing themselves to deliver her judgement. But as promised, the virulent beast she was only struck down her foes. It calmed as it hit the trees and the snow, becoming silent and inert.
+
+In a fourth, she was a desperate defender. Just as she struck low the demons, something disgusting was assaulting Chun Ke. Within his body she fought, dueling with an enemy’s poison through the antidote Pi Pa pressed to his wound. It was a titanic beast, a disgusting caterpillar that was consuming the wood and stone that made up the boar. Chun Ke’s stalwart Qi worked in tandem with her own, fighting and giving its all—even as both were being forced to give ground little by little, the antidote too weak to truly defeat the monster within.
+
+Just as the others did battle, so too did she. Meiling fought an invisible war, doing all she could to help her home.
+
+But she could tell things were tenuous. The fighting was close now. The barrier around Fa Ram was down.
+
+She fingered the spear she had and took deep breaths.
+
+=====================
+
+Gou Ren looked on as the beasts tore down the fence and began to advance. His heart was pounding in his ears as the demons locked eyes upon their fortress. Its walls were thick and sturdy, but Gou Ren instantly felt some trepidation as the monsters began to accelerate. He at first felt the urge to just jump off the walls and engage the charging beasts in melee. There were precious things within their fort. Zhuye, Meimei, Miantiao, Vajra… but they had built it for a reason. Now they just had to trust it.
+
+“We’re up next,” Delun said, his voice sounding grim. Gou Ren turned to the other man on the wall. Delun was standing tall, his eyes fixed on the foe. His hammer was resting on his shoulder. ”Miss Vajra, how long until Master Jin returns?”
+
+The bees, instead of forming a character for proper response, simply buzzed uncertainly.
+
+‘Then we just hold out until they get back,’ Huo Ten replied, the monkey’s voice was rough and gravelly. ‘The others will have bought us enough time.’
+
+Beside him, Bei Be grunted in what sounded like approval. His plow, Sun Ne, was upon his horns. It should have looked comical, but instead was oddly intimidating. The ox regarded their foes with razor sharp eyes.
+
+“Torrent Rider, this shall be your first real battle. Follow my lead—but be prepared to retreat at my command,” Delun continued.
+
+“Yes, Big Bro,” the young man replied, his mask fixed firmly on his face. Shaggy Two, ever faithful, was by his side. With Wa Shi gone to do battle with the enemy… the Torrent Rider and Shaggy Two had been entrusted with their previous mission of fleeing with Zhuye and going to the Cloudy Sword Sect if things went badly.
+
+Mei, Vajra, and Miantiao were still within the fortress. Mei almost looked to be meditating, and something told Gou Ren he shouldn’t be interrupting her.
+
+He reached down and grabbed his bow. He was a good shot, and even better with his cultivation. He could strike a gnat’s wings from its body from a hundred paces, and drive his arrows through boulders.
+
+He forced his Qi into the projectile, giving as much as he could. His Qi wrapped around it, penetrating the wood and filing it with his soul. It swelled and swelled to the point where it was about to explode, the material fully saturated. It was a problem with everything he reinforced. It could only take so much.
+
+But Gou Ren had been using his Qi to reinforce materials every day of his life since his dantian ignited. He knew their tolerances. He knew exactly how much he could push, filling every last gap. And when even that was not enough… he had experimented. His Qi was more solid than Qi should be. Others always described the energy like the wind, water, or a raging flame. Even Jin said his energy felt like it flowed.
+
+Gou Ren’s Qi was like stone. It was slower to move, yet also slower to fade, lingering in the world. Gou Ren anchored his Qi to the outside of the arrow, and then kept filling it. The wood tried to explode. It tried to fail—yet everything was kept in place by a sheathe of grey. He filled everything. He saturated everything. The arrow, the bow, the string.
+
+It did not feel right. It still felt weaker than it should be. But it was good enough. He let it fly.
+
+Xianghua had told him the reason most cultivators didn’t use bows or other long range projectiles on their foes was the simple fact of their reaction time. When one had so much prior warning, they could block or dodge it with ease—and the kind of projectiles that would strike with enough force to penetrate defenses were hellishly expensive.
+
+His target raised a limb of black chitin, looking to deflect the blow.
+
+Its arm and most of its shoulder disappeared as Gou Ren’s arrow disintegrated from the force. The black armored being spun with the impact and staggered, then was hit by its companions and trampled as they simply continued the charge.
+
+Gou Ren grimaced and fired another, but even with the rapidly shrinking range the beasts dodged, never slowing, their eyes burning as they sprinted.
+
+The one in the lead suddenly swelled. Its armor expanded. Its arm thickened and grew, forming a spiked ram as the beast lowered its shoulder, suddenly twice the height of a normal man. It roared as it blurred forward, nearly too fast for Gou Ren to see, its weapon aimed squarely at the wall.
+
+There was a sickening crunch as chitin met stone and failed to meet muster. Carved with the runes of Delun’s family, and filled to the brim with Gou Ren’s Qi, the wall stood firm, unmarred by the strike.
+
+The demon staggered backwards, looking utterly confused at the mangled remains of its arm-ram. The rest of them stutter stepped. The demon snarled and looked like it was going to jump up… only for its head to explode as Delun leaned down over the wall and smote their foe.
+
+“Come, break upon us!”  Delun boomed, his voice ripping through the air. “The works of our Ancestors defied you for ten thousand years!”The demons recoiled as the symbols on his hammer and armor flared. His skin turned to a swirling combination of metal and rock, without flaw and gleaming like the finest marble. His eyes began glowing like a forge-hearth.
+
+[Hermetic Marble-Steel Body]
+
+“And the works of their children shall defy you for ten thousand more!” Gou Ren roared as he leveled his staff.
+
+He took a deep breath.
+
+[The Strength of Stone]
+
+His Qi filled his body like it filled the arrow, coated within and without. His arms thickened. His bare chest turned grey, and it even crawled up his face, providing some protection to his cheeks.
+
+Delun’s eyes widened, then a fierce grin overcame his face.
+
+“Well said, Brother Gou Ren,” the man declared.
+
+The demons roared. Some more tried their luck, hammering into the walls to little effect. The others leapt into the air, screeching with fury. It kind of limited the usefulness of the high walls—but foes in the air couldn’t dodge as well.
+
+Delun’s hammer pulped carapace and shattered black chitin weapons.
+
+The Torrent Rider, Huo Ten, and Shaggy Two worked as a team, the dog snapping down on a leg as a demon crested the wall, stifling its movement as it was punctured by twin spears, one of shining silver, the other of gleaming crystal.
+
+Their final member on the wall was the calmest. His eyes were narrowed. His neck twitched.
+
+And he cut.
+
+A demon lost its head, the cut so clean and sublime it did not realise it was dead, even as it stared at its body.
+
+Gou Ren swung with all his might. His staff crushed ribs. His stone skin was proof against sickle-blade claws. He crushed, he smashed, and he fought.
+
+A deep droning buzz filled the air. Bees bigger than Gou Ren’s thumb started streaming out of the fortress, their stingers aimed directly for eyes and mouths as they swarmed relentlessly. They dove off the walls, and where stingers found purchase, demons started spasming and vomiting.
+
+Many died within moments, but some of the struck bees, instead of splattering, hit the stone walls and then got back up, throwing themselves back into the fight.
+
+It was like the Dueling Peaks all over again.
+
+Then all at once, the demons paused.
+
+Qi washed over the battlefield. In the distance, in the forest, the whine of a steam furnace filled the air. Jade blades cut through the sky. A star began to fall to earth, and the roar of an enraged tiger boomed out.
+
+Gou Ren smiled—but his inattention nearly cost him as the demons suddenly redoubled their attacks.He swung his staff down on a demon’s head and kept on fighting.
+
+===================
+
+We weren’t too late.
+
+That was the main thought in my mind as I felt the touch of my home under my feet, the land as familiar to me as my own body.
+
+Xiulan, Tigu, Xianghua, and Yin hit the demons like a wrecking ball, but I had eyes for one person only—guided by the whispering of a cold wind. They were going for the fortress—so I was going to stop them there.
+
+I stepped out from behind the trees, my arm filled with a little bit of gold, but the person was already turning. The hooded person before me who had been advancing on my home was pretty small compared to me. Just a bit taller than Meimei.
+
+They threw themselves backward, my fist barely missing their head.
+
+A shame. I would have liked to be two for two on sucker punches.
+
+“My, that's rather rude,” the person stated, their voice androgynous. There was some strain at least in the words, and they sounded a bit unnerved as I simply stomped forward, going as hard as I could right from the start. But they immediately went full defensive, dodging every strike by as wide a margin as they could.
+
+“You’re the one invading my home,” I replied tersely, glaring at the slippery little bastard. They reached for their storage ring, but were forced to abort and jump back as I went for a grapple.
+
+“Ah, that is a good point. I’m going to have to keep being inconsiderate, however. You’ve annoyed this Huian too much to let you go,” they said.
+
+The cold wind blared a warning. It was my turn to throw myself out of the way as a spear of poison sliced through the air where my head had just been, and I avoided a sucker punch of my own.
+
+“You’re going to die a painful death,” a pleasant voice echoed out as a stunningly beautiful woman slammed into the ground. Her eyebrow was twitching, and her smile was quite mad.
+
+Wings formed on her back, looking like those of a butterfly.
+
+I grimaced. Straight into a 2v1. Well, this… this probably wasn't good.
+
+The other one tapped their storage ring.
+
+“Your resistance has been frustrating. But it ends. Now.”
+
+A funerary tablet, the size of my torso, and covered in seals and chains appeared in Huian’s hands.
+
+I was already tired. I was already sore.
+
+But what else could I do?
+
+I set my feet on the land of my home. I took a deep breath as I felt a comforting presence in my dantian.
+
+The chains on the tablet fell away. Something ancient and terrible welled up within it.
+
+“You’ve had your moment. Now fall.”

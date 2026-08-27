@@ -1,0 +1,145 @@
+---
+id: 7ea6a769-6ee8-51b8-a1e3-2bf9133cb65c
+page-type-slug: story-chapter-royal-road
+title: "v5c27: No Plan Survives First Contact part 2"
+slug: 0133-v5c27-no-plan-survives-first-contact-part-2
+partOf: beware-of-chicken
+position: 133
+ownLength: 2132
+unit: words
+ownProgress: 2132
+publishedAt: 2024-07-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1738874/v5c27-no-plan-survives-first-contact-part-2"
+royalRoadId: "1738874"
+markedReadAt: "2026-06-29T19:01:22.875Z"
+---
+
+Battle had always come easily to Bi De. Where others might have felt trepidation or fear, all that was left in Bi De’s breast was resolve. His earliest memories were of violence, warring against Basi Bu Shi’s kin. It was something innate to him; Bi De was a warrior, a protector of flocks, a slayer of his enemies. So it was with calm control that he began his true assault on the base as warnings blared around them.
+
+They sprinted through stone corridors, following Ri Zu’s directions closer to the center of the base. The first to respond to their infiltration were human guards with blades. They dashed forward, their eyes set in furious glares.
+
+“Die, dogs of the Empire!” one roared, his blade gleaming with black light. To Bi De’s slight surprise, the man’s fellows covered him seamlessly, displaying commendable teamwork.
+
+Yet for all their teamwork, they were but stalks of rice before Bi De; as any good son of a farmer, his reaping was swift and efficient. Bi De moved, dancing with grace around them without slowing down. His strikes were swift and practiced as he took his harvest.
+
+Three demonic cultivators fell. Bi De continued down through the halls leading the way, his stride uninterrupted.The pathway branched ahead, splitting into multiple hallways, but they ignored them to continue north, towards the center of the base.
+
+“They’re laying an ambush for us. Ahead, to the right and left,” Ri Zu said, her little helper constructs once more proving their worth.
+
+Bi De nodded, preparing for the crossfire—only for Yun Ren to grunt.
+
+“Got it,” he spoke, clapping his hands together. In a flash of light Bi De and his companions doubled in number. The duplicates surged forward and moved ahead into the intersection.
+
+Techniques roared out; each one so powerful they would have slain Sun Ken in but a single blow. The ambushers consumed the illusions utterly in the deadly rain, ravening tides of energy writhing as they smashed together on nothing. The moment of carnage over their enemies erupted into the hallway to confirm their kills—and were surprised for a brief moment.
+
+It was all that was needed. Spooks signaled silently, then accelerated from his position in the rear to launch himself at them.
+
+Of their number one managed to dodge, but two were unlucky, trampled and crushed as a speeding Thunderhoof hit their formation.
+
+The one who dodged froze as a needle pierced his neck. At the intersection Yushang, Han, and Shao Heng went left, the others went right.
+
+“Jiayou!” Yushang roared as her heavy sword smashed through one of her opponent’s guard and split him in twain. She stomped her foot down, then shoulder-checked another man into a wall so hard it cracked and sent the entire hall shaking. She raised her sword again, then her eyes widened as the symbols of a defensive formation started to form around her.
+
+Han surged forward. He thrust his own sword into a point on the forming bands of light, and the entire construct disintegrated. Han gave his enemy little time to recover before he was upon them, his sword lashing out at the surprised enemy.
+
+Shao Heng and Yingwen calmly dismantled their own foes, their movements easy and experienced. Lightning leapt from Fenxian’s hands, coursing through a man and a woman, before he and Yun Ren finished off the disorientated enemies.
+
+The attempted ambush had slowed them slightly—but it was clear to Bi De the skill and power of their current enemies was lacking.
+
+That, at least, was good. It meant that, hopefully, they would be able to split up their forces and cover more ground without fear, as well as cut off escape routes and find the captured members of the Shrouded Mountain Sect.
+
+First, however, they had to locate the leaders of the enemy, so they would not get ambushed by the one who had captured Elder Shenhe. If that happened, they would surely be defeated piecemeal.
+
+For now, all they could do was move forward.
+
+=============================
+
+Shen Yu watched as the children set the pace of the assault into the enemy base. They were doing quite well, in his opinion, striking with overwhelming force whenever the demonic cultivators showed themselves and carrying on with great speed.
+
+They were certainly doing better than he had the first time he, Ge, Ran, Minyan, Lili, and Song had raided a demonic cultivator sect all those years ago. They had made quite the mess of things, very unlike this well-disciplined group before him.
+
+Some may have called the rooster’s heart soft for desiring speech and peace over swift action; they were fools. He honored his teacher, but the boy was no soft touch. Shen Yu had known the instant he laid eyes upon Bi De that there would be no hesitation in the rooster’s heart when it came time to do battle with a true enemy.
+
+Truly, the rooster was a fine disciple, somebody worthy of Shen Yu’s time. Even if his philosophy on life was not Shen Yu’s…that did not matter. Bi De was building himself his own way. His grandson had given him a gift when the boy put Bi De in his care. Shen Yu would need to thank Jin when this was all said and done. All those years of moaning about the lack of good candidates to carry on his name? Now, Shen Yu’s legacy would be a rooster who venerated the moon, reaching for the Heavens.
+
+Shen Yu smiled at the thought.
+
+Shen Yu and Nezan watched as the young ones fought through three more ambushes. They were all exemplary assaults, and while they were doing well, they had made some mistakes—if Shen Yu had not been there, at least. Shen Yu would have prioritized trying to find Shenhe and releasing her, along with the Shrouded Mountain Sect Disciples, first. An Earth Realm cultivator would likely be on their feet swiftly with the medicine in Ri Zu’s satchel and would have increased their combat power tremendously.
+
+However, Bi De obviously wanted to find the strongest enemy swiftly, as that was the condition for Shen Yu entering the battle. Bi De wished for a short, swift, crushing victory…especially now that their plan had fallen through, which did concern Shen Yu. He had seen no way for any of them to have been detected. The other problem was…
+
+“Should they not have more defensive formations than this?” Bi De suddenly asked even as they advanced on the center of the base.
+
+“They are currently inactive,” Shen Yu informed the disciples. “It is a good catch. I was wondering when you would notice…but I do not know why the enemy is restraining themselves. Perhaps they cannot evacuate while they are active?”
+
+It was a question they had no answer to, and to which Bi De frowned. Shen Yu kept the neutral expression on his face, because despite his calm demeanor he was concerned as well. His instincts were silent, but there was something…off about this whole place.
+
+“Prepare to receive another ambush,” Bi De said, his body shining with silver light. “Ri Zu?”
+
+The woman shook her head, a frown on her face. Once more Yun Ren’s illusions leapt forward.
+
+But as soon as they crossed the threshold of the next room, they dissipated.
+
+That caused them to slow— but they still entered the room. They marched into the center of the base. The room was a massive vault—and Shen Yu raised an eyebrow at the fact that their enemy had decided to wait for them. It was not too terrible of an idea if they were trying to buy time. The enemy was arranged in a defensive formation, the demonic cultivators ready to do battle, even as the halls rumbled behind them. There were clearly artificial demons on the way, seeking to flank them and crush them.
+
+“So, you’re the ones killing my brothers and sisters,” a voice boomed out, tight and angry. It belonged to a green-haired man. Shen Yu’s eyes locked onto their obvious leader, but as Shen Yu truly took their measure he had to do a double take—even as the green-haired man also did a double take as he saw Ri Zu.
+
+Ri Zu’s eyes widened as she locked onto the man’s freckles.
+
+There was a resemblance there. A resemblance to Meiling—and that was how he had found them out, he quickly realized. The opposing commander could literally smell them.
+
+But…if he could smell Shen Yu’s might like Meiling could and still decided to meet them that made little sense, unless—
+
+“Oho? This is very interesting. My boy, your luck is truly something else,” another voice stated. “Having such visitors…really, it's too much.”
+
+Shen Yu jerked his head to the man who was standing slightly behind the man with green hair. His eyes had ghosted over the old, wizened creature at first, his mind not even noticing his presence.
+
+The revealed man had escaped Shen Yu’s gaze. He had deflected Shen Yu’s intent.
+
+And all of a sudden, Shen Yu could feel the other man. He could see beyond the gumless smile and hollow eyes. His instincts began to scream at him.
+
+Imperial Realm.
+
+===============================
+
+Bi De’s attention was split between the two men. One, who looked like the Healing Sage. The man stared, utterly shocked at Ri Zu’s appearance, and was focused on her with a frown on his face. The other…the other was the thing. It was an old man. A wizened grandfather. Or at least that was his appearance.
+
+But his Qi, now unsuppressed, told a different story.
+
+It was vast. Vast beyond comprehension. So vast that Bi De felt his limbs start to shake, before Shen Yu’s own Qi suddenly cut through the feeling.
+
+For the first time, the man looked to be something other than relaxed or mildly amused. Shen Yu was utterly focused on the man that had stepped out of the shadows, his will sharpening with every passing moment.
+
+“Now, I’m normally not one for such head-on confrontation, it attracts so much attention, but when one receives such a bounty, how can they possibly refuse?” the old man continued, his voice gentle even as he stared at Shen Yu. “Yulong, retreat into the other passages. My peer and I shall be having a discussion.”
+
+“Yes, Master,” Yulong said, bowing, before his eyes locked on them again. Nezan stepped between Ri Zu and the Earth Realm man’s gaze, the fox frowning.
+
+“Bi De, do the same,” Shen Yu commanded. “It appears I was mistaken on the strength of our foes. However, the unexpected is to be expected. Complete your duty. I shall join you when I am finished here.”
+
+Bi De swallowed thickly and nodded. “I will await your victory, Master.”
+
+Shen Yu smirked slightly, but his eyes never left the other old man.
+
+They dove back into the tunnels, one of the ones the demons were not currently thundering up. All of a sudden the formation the demonic cultivators had been holding in reserve flared, the very defensive formation that Bi De was worried about activated. Great characters appeared in the air, their Qi rising to the power of the Earth Realm. Binding chains erupted outwards, writhing like snakes towards them.
+
+Bi De felt the formation strike against his Qi and start to overwhelm him—only for, in the next instant, the formation to suddenly die.
+
+Every character was suddenly cut.
+
+“Now, now, none of that,” Bi De heard Shen Yu chide.
+
+“Ah, but it was worth the attempt, no?” the other old monster chuckled, his laughter fading as they got further away from them both.
+
+They were stuck in a bunch of tunnels with an Imperial Realm cultivator about to do battle with Shen Yu. Their adversaries had a cultivator at least in the Earth Realm, and they had what felt to Bi De’s senses like a couple of hundred artificial demons even now searching for them. Everything had gone wrong.
+
+As his Master would say… This was a total ‘cluster-fuck’.
+
+Bi De sucked in a breath. Enough. He felt the world slow as he focused his intent. Everything unimportant fading as he prepared for the battle ahead.
+
+It was time to perform.
+
+“The mission is unchanged,” Bi De declared. His friends, who had been wavering, and Ri Zu especially, firmed as his voice resonated with them, invigorating them. “Destroy this demonic base. Rescue Elder Shenhe and the other members of the Shrouded Mountain Sect. That is our goal. Let Master Shen Yu deal with all else. We shall have our answers when we win.”
+
+His words were punctuated by the entire mountain shaking, as Shen Yu and the other man clashed.
+
+The world trembled, yet Bi De was unmoved; he had evil to defeat.

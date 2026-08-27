@@ -1,0 +1,181 @@
+---
+id: bc32711c-7f74-5d39-9269-a7c40f6e37d1
+page-type-slug: story-chapter-royal-road
+title: "v7c4: The Moon and the Earth"
+slug: 0257-v7c4-the-moon-and-the-earth
+partOf: beware-of-chicken
+position: 257
+ownLength: 2463
+unit: words
+ownProgress: 2463
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2791150/v7c4-the-moon-and-the-earth"
+royalRoadId: "2791150"
+markedReadAt: "2026-06-29T19:00:13.489Z"
+---
+
+It was Fa Bi De’s fourth year upon this glorious earth.
+
+Every experience, every precious moment that had thus far been his life had happened in but four years.
+
+It was no time at all; and it was all the time he knew. He had had many adventures; he had experienced a thousand different things.
+
+And yet, there was no place Bi De would rather be at this very moment.
+
+It was the beginning of a new cycle. After the weddings of Bi De’s fellow disciples, and the settling of the fox tribes came the most important time of the year. It surpassed even the harvest, for without this step, there would be no harvest at all.
+
+It was the time of spring planting.
+
+Bi De lifted the hoe high above his head, his form that of a human, and brought it down into the soil. While in previous years he had assisted in his own way, gathering seeds and tending to the other chickens, this was the first year he could truly use the tools of his Great Master. In the Shrouded Mountain Sect, he had made a little garden, but it was nothing compared to this, toiling in the fields under the strengthening sun.
+
+It gave him new respect for the mortals, for they had no Qi to help them. It gave him new respect for his Master, who had toiled alone the first year. The beginnings of their lives had been laid by his strong arms—and now Bi De was adding to this foundation. The bedrock of their lives.
+
+Was there anything more important than this?
+
+His Qi flowed from his body and into the earth with each strike, an offering to the world that he lived upon.  It was a strain on the body, as well as the soul. But it was a good, honest strain, for in giving to the earth, so too would the earth give back; perhaps not to him, but to other members of his family.
+
+He could feel the pulsing golden web beneath him reverberating with a constant influx of energy, for Bi De did not work alone.
+
+All of Fa Ram was out in force.
+
+Bi De took a moment to wipe the sweat from his brow, and rose to his full height. He was tilling alongside his Master and Brother Chun Ke, the three of them working together on this particular field.  They were both humming an old working song, their strikes in sync.
+
+His brother disciple was also in human form, having desired to learn the secrets of the hoe, and of cultivating like a human. His giant of a brother moved with perfect peace, a small smile on his face. His titanic form shifted and bulged with muscle, his own shirt around his waist. The scar on his chest just under his ribs twisted, a mark gained from the battle on the solstice.
+
+All of them had those marks. Just as the battle had left scars on the land, so too had it left scars on them. Bi De himself had a fading starburst of scar tissue that took up most of his chest, and his Great Master’s strong arms were littered with cracks, like an old and worn statue. Those cracks flexed and moved with the muscles of his forearms.
+
+Still, they were healing, just like the earth was healing. Bi De’s eyes roved over the land. Bowu sat atop his Steam Furnace, ploughing a field beside Bei Be. Tigu was sowing alongside Xiulan—they had both delayed their departure back south by just one more day, as had all who had come for the wedding, so they could at least contribute. Gou Ren and Yun Ren were working together, creating new paddies for rice. A localised storm let out a soft drizzle of water, Wa Shi flying above the fields. The others were dispersed across the rest of the fields, or back at the house, tending to the herb and vegetable gardens.
+
+Even Master Shen Yu was tending to a little garden outside his own house.
+
+All of them worked together for this. It was a beautiful thing. The sounds of the steam furnace puffing, the hoes hitting the earth, shovels excavating new land… and of the bees buzzing through the air, taking advantage of the bounty of spring.
+
+Or at least most of them were. Bi De, Chun Ke, and their Master seem to have picked up an honour guard of sorts, sitting still in the air, or perched on the nearby fences.
+
+He noted one in particular, her eyes fixed on the three of them, and offered her a smile.
+
+“Lady Vajra, you look well today!” Bi De called to her. “What brings you to our patch of field?”
+
+She instantly erupted into a little dance, waggling her behind. Bi De walked closer to better see her. He still had a lot of trouble understanding the little insects, but sometimes he could get the gist of what she was saying.
+
+“Friend Vajra says she is learning a lot by watching, and doesn’t think her skill is great enough to contribute. She says she is worried she doesn't do enough,” Brother Chun Ke rumbled, as he also approached. He had a soft frown.
+
+“Don’t say that, Vajra!” their Master exclaimed. He joined the two of them already at the fence, and put his hand down right beside her, leaning over her slightly. “We all have jobs to do, and your girls do a great one!”
+
+“Indeed. Our home would be lesser without you, my lady. The work you and yours do is invaluable,” Bi De agreed, leaning on the fence as well. Her head swiveled to him
+
+“Friend Vajra should be nicer to herself. She and friend bees already do so much!” Chun Ke finished, crouching down and smiling at her.
+
+Vajra did nothing, her abdomen vibrating. Bi De got a hint of Qi speech that sounded a bit like panting and hiccups, the same noises that were coming from the other bees.
+
+Ah, the poor little ones were overcome with emotion! They had been stunned when their fallen had been given funerals, and Bi De knew the actions of those who wished to repay an imagined favour well.
+
+“You and your girls are doing more than enough, my lady.” Bi De stroked Vajra’s head with a finger, and then tilted her little chin up so she would look at him directly. “You, too, are members of our Fa Ram, and deserve to rest, the same as us.”
+
+He winked at her, and she nodded slowly.
+
+“You and all your girls!” Master agreed, gently patting her abdomen with his finger.
+
+Her rump waggled oddly. Bi De couldn’t wait until they could communicate better, but Chun Ke chuckled.
+
+“We are not too kind. We are just kind enough, Chun Ke thinks,” his brother said, his smile warm and heartfelt.
+
+Vajra seemed at a loss for words. The bees that had been hovering slowly settled down onto the fence, and stayed to watch the most noble of arts.
+
+Cultivation.
+
+They gave to the land and the land accepted them. Bi De felt a hand ghost along the top of his head almost absently…and then paused, a bit confused, when he heard the land start grumbling with frustration.
+
+===================================
+
+“Come on, move you rassin frassin..” Tianlan Shan, the Spirit of the Azure Hills grumbled, glaring at the stubborn Dragon Vein before her. She had a yellow helm upon her head that was emblazoned with the character “Boss”.  She bore a hammer in her hand and was currently slamming it into a Dragon Vein, trying to push it back into place. She had been hard at work since she awoke, putting things at Fa Ram to right.
+
+She grunted and hammered down on it again. It wasn’t budging. It needed to move. Right here was a bad spot, and it was pulsing fitfully, not full of energy as it was supposed to be.
+
+She whapped it again, and glared. It didn’t move. A snort of amusement came from behind her.
+
+“You need some help with that, Tianlan?” her Jin asked. He was shrouded in golden light, and his smile was infectious. His ever-so-slightly ghostly body beside her was proof that he was meditating as he worked. He had felt her frustration and came to help.
+
+“Yeah. You go on the other side, and we’ll hit it together. Maybe that will break the block!” she commanded.
+
+“You got it, boss,” Jin said with a cheeky grin, materializing his own yellow helm that read “Employee of the Month”.
+
+He went to the other side as he was asked, and started hammering. It reverberated through her, a little bit painful, but it was something that needed to be done.
+
+Xiulan’s technique had cracked half the patches Tianlan had put in place, ripped open holes that she hadn’t even known were there, and burst energy mainlines. It was the most pain she had been in since her breaking.
+
+Tianlan would tell Xiulan to do it all over again in a heartbeat. The pain was nothing compared to not losing anyone. It was annoying, sure, but she had been hurt worse. She was more worried about Jin, as, true to her promise to him, she was sharing the pain, and not hiding it like she had done with Xiaoshi.
+
+It thankfully was easy enough for him to ignore… though that was because he was already ignoring a not-insignificant amount of pain, which she also felt. His arms hurt. They were filled with a dull, bone-deep ache. Though the skin had largely sealed shut, using so many of the Path’s techniques when Tianlan was so damaged had left its mark. Instead of healthy Dragon Veins and a complete understanding mitigating the recoil to nothing, it had rebounded into his body.
+
+Though there was one saving grace, one bright spot that helped them both—and that was that it was spring, and that they were not alone.
+
+Pure Qi trickled down from above into Tianlan’s Dragon Veins. It was a warm, comforting feeling tinged with the emotions of those that gave it to her.
+
+Hope. Joy. Love. Contentment.
+
+All of them soothed the aches and pains that they were both feeling. It reverberated in her soul. This much Qi, given so freely.
+
+It pulsed and beat within her Dragon Veins to an invisible song, helping to seal tiny cracks, invigorating her. And while the steady stream from her home was the most—she realised that she could feel other sources giving to her.
+
+They were tiny, in comparison, but they were there. She could feel them now.
+
+The little wisps of Qi from mortals in Hong Yaowu, pressing their hands to the ground and concentrating as they had seen her Jin and Gou Ren do, like they were praying for a good harvest.
+
+Further along, there was a smoky and misty presence. Some of the foxes from the newly founded village were copying them. They had seen her Connected Ones give to her when they helped set up the village.
+
+Many thought it was strange. Enough thought it was foolish.
+
+And some were copying what they had seen without truly understanding, but in earnest. They only knew that Jin had said it was to give thanks to the earth—and so some of them did it too, grateful that they were finally safe.
+
+Further still she could feel other tiny presences a great distance away ghosting along her body. While it had mostly damaged her, it seemed that the technique Xiulan had used had also broken through some of the blockages that Tianlan had been suffering from. She could once again feel sections of her body that had been lost to her.
+
+It was a strange sensation.
+
+Tianlan heard, and felt something start to shift; Jin slammed a particularly strong stroke into the vein, and had loosened something.
+
+She smashed the Dragon Vein again. It jolted and dropped, slamming back into its proper place. The spluttering light shuddered, and then started to brighten, returning to a healthy glow.
+
+She groaned with contentment. To a human it would have been like somebody cracking their back. A sudden pressure within her released.
+
+“Thanks Jin!” she called, her Connected One clambering back around the Dragon Vein.
+
+“Any time, short stop,” he replied.
+
+Tianlan heaved a sigh of relief. One down. Now on to the next. Her feet started taking her there—until she felt hands grasp around her waist, and lift her up into the air. Her feet kept moving.
+
+“Jin?” she asked, confused.
+
+“You’ve worked hard today,” he told her bluntly. “Time for a break now. You can come back up and celebrate. Our Azure Heroes are setting off again tomorrow. They gotta get back to work.”
+
+Tianlan blinked. “Already?”
+
+“Already,” he confirmed. “So take a load off, and wish them well. They’re setting everything up for us. After we’re done fixing up the Dragon Veins here, we’re going south. We gotta getcha all patched up!”
+
+…it sounded so simple, when he put it like that. So certain. Like it wasn’t a big deal that he was willingly going to break his life of peace further to help her.
+
+But she supposed that made him her Connected One.
+
+She let him put her onto his shoulder, and he started walking up from the depths of the earth, back towards the sun. To the smell of food, and the sound of music.
+
+…she really had been working hard. She had just wanted to repay everything that they had given her, but she had just been working—and that was no good!
+
+She concentrated fully on the party, and on her people. On the noise and the laughter.
+
+It was a wonderful start to the year.
+
+Her presence drifted out and among them, touching each and every soul; but when she got to Bi De again, she paused.
+
+There was something about him. She gently brushed over him again, and felt something.. different.
+
+The bit of Qi she had given him was gone, and in its place, was a different piece of Qi. Two different pieces of Qi. One was vast and cold and unfathomable, a tiny presence lurking in the back of his soul. It was not malevolent, and meant him no harm.
+
+But it was the second piece of Qi which captured her attention. It was mountains and frost; stone teeth reaching for the heavens.
+
+It was a piece of the Howling Fang Mountains.
+
+It marked him as a friend.
+
+The Howling Fang Mountains were awake… and were like her.
+
+She didn’t know exactly what that meant, at the moment. But it seemed that repairing her Dragon Veins…. might be even more important than she thought.

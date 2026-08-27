@@ -1,0 +1,173 @@
+---
+id: bc36ee36-e41f-55d8-a7e1-864f826253d1
+page-type-slug: story-chapter-royal-road
+title: "v7c2: Foxy Foundations"
+slug: 0255-v7c2-foxy-foundations
+partOf: beware-of-chicken
+position: 255
+ownLength: 2446
+unit: words
+ownProgress: 2446
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2776703/v7c2-foxy-foundations"
+royalRoadId: "2776703"
+markedReadAt: "2026-06-29T19:00:08.960Z"
+---
+
+“And thank you all for coming!” Gou Ren shouted at the next load of people in the cart. The people cheered and waved him goodbye, Spooks pitching in to help cart them all away. Chun Ke and Bei Be were already out delivering their own loads of people.
+
+“Safe travels!” Xianghua said from beside him. Her smile was absolutely fake.
+
+“We’ll catch you around!” Yun Ren called.
+
+Biyu just waved.
+
+Eventually, even the most determined partygoers had enough and were starting to leave. He waved at them until they passed around the bend, and then dropped his arm. Yun Ren let out a sigh, and Biyu slumped onto him.
+
+“Good! They’re finally gone!” Xianghua said, her mask dropping completely. Her normally bombastic voice was void of emotion. “I enjoyed them for a brief time, but that was entirely too long! Jin and Meiling’s hospitality is too much!”
+
+Gou Ren couldn’t help but laugh at Xianghua’s… his wife’s bluntness. She had even walked up to a couple of the determined drunkards and just told them to leave.
+
+Everybody from Hong Yaowu and Verdant Hill were back home. The tribe had left with the foxes, and they were camped out just slightly north of Hong Yaowu. There were still a few guests… but the vast bulk of them were back where they belonged, and not dragging them into another round of well -wishers. It had been fun for the first two days, but by the eighth Gou Ren had wanted to just throw most people out.
+
+“Man, that was one hell of a party, eh?” Yun Ren mused, while Biyu just gave up and buried her face in his neck and started to doze. Yun Ren’s sword, Summer’s Sky, rattled with amusement at his hip. “Good to have Uncle Nezan here, at least for a little.”
+
+The fox had wished them well, but he and Shenhe had only stayed for two days before having to depart back to their sect. Yushang, Shao Heng, and Han had also left earlier in the day, and Gou was sad to see the trio go. They were a regular riot.
+
+“It was insane, you mean,” Gou Ren said with a sigh, leaning back against one of the fence posts.
+
+An eight day party? For him and his brother’s wedding? With hundreds of people who had showed up to pay their respects?
+
+That certainly hadn’t been something Gou Ren had been expecting. He was just… Gou Ren. Yun Ren was just Yun Ren. They were a pair of hunters from a tiny village!
+
+“Hmph! If there were less people we could have celebrated for another week!” Xianghua leaned back into him, and he caught her. “More immediate family is better… and perhaps Master Gen! His skill is legendary!”
+
+Master Gen of Crystal Hill was actually still here, along with his smaller retinue of monkeys. They had converted one of the underground storage areas into a kind of concert hall and had played music, deep pounding drum beats that reverberated in one’s bones.
+
+Then Jin and Biyu did something and the glowstone had started flickering and dancing and pulsing in time to the music, and Miantiao had a glittery glass ball hung from the ceiling that reflected that light everywhere. It had been utterly overwhelming, and yet the disorientation almost made it more fun.
+
+Master Gen and Jin going absolutely crazy on a drum and a pipa respectively had been the highlight of the night. Though Gou Ren had no idea why Master Gen was required to wear Biyu’s crystal lenses and a chain of all things as a necklace. Jin had just said it was proper attire.
+
+But that was just one of a hundred little moments. There had been quieter, more profound things as well; like the first morning waking up beside Xianghua as husband and wife, Jin’s montage of recorded images, his mother and father hugging him so hard it almost hurt, their eyes so full of pride.
+
+And most of all, on the fourth day, it finally hit him that this all was real. He was a married man.
+
+In some ways, it didn’t really change anything. He and Xianghua had already been living together and doing things married couples did—but in other ways… there was some strange shift, some contentment that he and Xianghua had made that oath to each other.
+
+Gou Ren of Hong Yaowu had gone and married the most amazing woman… who also happened to be a princess. Or, queen, really, of her own sect.
+
+Come to think of it, all of them had married up. Meimei had got with Jin, Gou Ren had married a Sect Master, his older brother had also married a princess, this one of the crystal carvers.
+
+His world; no, his and his brother’s world had become truly vast.
+
+They walked back home in comfortable silence, finally able to relax and just… unwind. The couches, at least, were clean. Pi Pa was absolutely the best.
+
+He looked to Yun Ren, his elder brother’s own expression contemplative. Yun Ren noticed his gaze.
+
+“To the first day of the rest of our lives,” Yun Ren said.
+
+Gou Ren wondered what the future would bring….
+
+Though Biyu made a good point soon after.
+
+“Where are we going to put all the gifts?” she asked, looking around Gou Ren’s home. There had been a lot of stuff, for both couples. Furs and gems from the north from their grandfather and cousins. Medicines, tools, and everything needed for married life from Hong Yaowu. Booze and exotic things from the Howling Fang Mountains. Crystals, picks, and jewelry from Crystal Hill. Even things from the Misty Lake, courtesy of Elder Bingwen.
+
+All of them considered this predicament.
+
+“We’ll figure it out tomorrow,” Yun Ren declared. “I just want to sleep for the rest of today.”
+
+That was a good plan… but there was one problem.
+
+“Didn’t you promise Miss Nezuhua to help her prepare for her meeting with the Lord Magistrate?” Gou asked his brother.
+
+Yun Ren froze. Then he leapt up from the couch and dashed out the door.
+
+===============================
+
+Su Nezuhua, current leader of the fox tribes, took a deep breath in and then out while trying to look composed. She was seated in a well-appointed waiting room, as immaculately dressed as she could be. Normally, this silk garment would hang around her shoulders and entice with a wonderful view of a deep valley, but today it was tied tightly and conservatively.
+
+The Young Master had said that she didn’t need to be so nervous for this, but it was hard when this was about the future of their people.
+
+Life had changed considerably for Su Nezuhua, current leader of the fox tribes, since the Young Master had arrived back with Honoured Uncle.
+
+Less than a year ago, they were the uneasy tenants of the Mountain Ascending Daoist Sect. They were enemies to the Shrouded Mountain Sect, and so somewhat tolerated their existence… but nobody was under any illusion that they were truly trusted. The tales of the villainous foxes resounded across the province. They paid their tribute to the sect and kept their heads down, making themselves as inoffensive as possible, so the blade that hung loosely over their heads never descended.
+
+It was a necessary thing, that they keep the Den of Delights open. To gather information, provide a safehouse for their weaker kin, and provide a living for them. But it had not been an easy life. For all that they were foxes, and the pleasures of the flesh their nature, that was all any saw them as, just prostitutes and dancers. Enjoyed when they were in their cage, and looked past at best while outside it.
+
+Those in the outer reaches had it worse. The constant paranoia of being found by the Shrouded Mountain Sect had them living in remote, hard to reach places. Barely fertile valleys and desolate plateau pastures were their homes, scraping by with only one of the wanderers occasionally coming along to offer aid or succor.
+
+Now, their hunters had stopped. The Young Master had thrown the Shrouded Mountain Sect into civil war with the revelation that their entire war against the foxes was built on a lie.
+
+While some of their kin were convinced that staying in the Fangs was the best choice now that they no longer had to fear the cultivators… Nezuhua was not entirely sure. Even if they were no longer hunted… the centuries of foxes being persecuted was not just going to go away. The tales of their villainy were entrenched within the culture of the Fangs.
+
+She was not alone in these thoughts, which is why so many came when she followed Yuanlin’s advice to meet their long lost kin. Yuanlin’s enthusiasm had been infectious, and the chance to pay their respects to the Young Master and meet their kin had been the best choice.
+
+And the difference was stark.
+
+They were greeted warmly. They were welcomed. These people knew the truth of them, and they still approached, seeing if there was anything they could do to make them more comfortable.
+
+Here… they were wanted. They had partaken in the celebrations without reservation. Hong Yaowu and Master Jin were both preposterously generous hosts.
+
+It took only three days, and then the decision was made by the rest of her people.
+
+Petition the Lord Magistrate to stay. To build their own village here. It was the perfect place. Even the Qi-draining effect seemed absent in the north.
+
+“The Lord Magistrate will see you now,” First Archivist Bao informed her. Nezuhua stood, flanked by Yuanlin, Xue Ji, who had left her job in the Palace of the Howling Fang Mountains, and the Young Master. All four entered the Lord Magistrate’s office.
+
+Normally, this would be a simple affair. An illusion, or a seduction. It would have been easy to beguile a mere mortal, and really, Nezuhua would have liked to do that. The Lord Magistrate was an older man, but he was still quite handsome. A gentleman whose distinguished features had aged like a delectable wine. A thorough pampering would have been the order of business, and he would have given them the little thing they asked for.
+
+Yuanlin, however, had delivered the requirement for them staying. No guile. No illusions. They had to be good, honest subjects.
+
+Not that it would have worked in any case, and trying it would have been the height of stupidity. For the Lord Magistrate was attended to by Master Jin and Senior Disciple Lu Ri of the Cloudy Sword Sect. The two titans flanked the mortal like they were but his loyal retainers.
+
+Master Jin’s body language was open and quite friendly, while the Senior Disciple was an enigma.
+
+They all bowed politely. “We pay our respects to the Lord Magistrate,” they all intoned, and waited to be addressed.
+
+The man looked them all over once and nodded. “Then we shall begin our meeting. Please be seated. I understand that you and your clan wish to settle in my commandery.”
+
+“Yes, Lord Magistrate. We wish to be closer to our kin, the Nezin tribe,” Nezuhua answered promptly.
+
+The man nodded, stroking his beard. “A noble sentiment,” he declared, before his eyes locked on the Young Master. “Xong Yun Ren has vouched for your sincerity. He is a man of known good character, and relied upon by his chief. He has staked his own honour upon yours. So I will proceed with the understanding that we are operating in good faith. How many people would you wish to move into my realm? And what manner of professions do they practise?”
+
+This part had been rehearsed. They had all of the numbers, ready for his perusal, examples of their craftsmanship and written statements from their artisans, and even a testimonial on behalf of Xue Ji, the Lord Governor of the Howling Fang Mountains province.
+
+The Lord Magistrate pursued them with a discerning eye, and handed the number sheet to Lu Ri. The man looked them over, and then nodded to the mortal.
+
+The Lord Magistrate leaned back in his chair. His eyes were focused upon them.
+
+“And what are your intentions after you move into my realm? What is your plan?”
+
+“Our plan is to live as quietly as possible, Lord Magistrate,” Nezuhua answered honestly. “Our greatest desire has always been to simply be left alone. We think here… we can finally live that dream.”
+
+“Living in a peaceful place is always the best,” the Lord Magistrate agreed. “Very well then. First Archivist, prepare the paperwork. Henceforth, the Su Clan shall reside in the Verdant Hill commandery.  My student has graciously agreed to escort you to possible locations for a village.”
+
+Nezuhua straightened up, the nerves leaving her. For some reason she thought it would be harder, and certainly much longer, than this. It was always such a song and dance dealing with people in the Howling Fang Mountains—this was honestly refreshing!
+
+“Lord Magistrate. Master Jin—thank you,” she said, bowing low.
+
+The future was looking bright.
+
+==================================
+
+Master Jin, true to his word, took them to several locations. All of them were northerly, and all of them looked wonderful.
+
+The current one they were touring was a lower lying, heavily forested patch of land nestled in the hills. There was a river and a small lake nearby, but more interestingly, there was something special. Hidden in the trees, and found by one of the children, there was a small river of water—one that was hot and steaming so much it  looked like there was smoke coming off it.
+
+“There's hot springs here?” she asked incredulously.
+
+“Didn’t used to be,” Master Jin replied, pressing his hand to the ground. “This is new. Pushed up in the last week or so. It will grow a bit bigger for the next two or three weeks, but it will stabilize after that.”
+
+That sealed the deal. It was an auspicious sign to find springs in the mountains—no other place would suffice.
+
+“Well then, looks like we’re going to be neighbours,” Master Jin said cheerfully—they were fairly close to both his home and Hong Yaowu. Then… he unlimbered his shovel. “So, where do you want to break ground? I’ll get the rest of the crew, we’ll get the shelters up and start on the fields…”
+
+Once more, the foxes were stunned by the generosity of their new neighbours. Master Jin, the Young Master, their kin from the Sea of Snow and Hong Yaowu—all of them came over the next week.
+
+Thus was the village of Smoky River founded.
+
+====================
+
+=====================
+
+Edited by:  BargleNawdleZouss, Massgamer,

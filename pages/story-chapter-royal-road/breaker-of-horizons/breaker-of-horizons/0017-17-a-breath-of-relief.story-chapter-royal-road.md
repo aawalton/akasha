@@ -1,0 +1,141 @@
+---
+id: 45292659-bb17-5d4b-8caf-f5e3dff72a6f
+page-type-slug: story-chapter-royal-road
+title: "17. A Breath of Relief"
+slug: 0017-17-a-breath-of-relief
+partOf: breaker-of-horizons
+position: 17
+ownLength: 2329
+unit: words
+publishedAt: 2020-06-29
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/517349/17-a-breath-of-relief"
+royalRoadId: "517349"
+---
+
+I peeled off before we arrived back at the dorm and told Ambrose that I would be going to make a call back home. It was partly out of obligation, but I was really just using it as an excuse to defer the moment when I would have to return to the group. The faces of Devon, Lynus, and Kevan kept springing to mind, their expressions crystal clear as they fought against my compulsion.
+
+Ambrose made no comment and nodded before he went up, leaving me to pick my way across the campus grounds. The students' services centre was right next to the registration office, so I didn't have to expend any precious arcana to call up a Minor Query for directions. It was late afternoon, and the orange light of the sun bathed the scene in a comfortable glow. If not for the huge revelations that had been thrust upon me over the past few days, this would've been a wonderful and serene walk.
+
+Instead, my mind was churning over the many things that had come to light. There was also a mild sense of panic at the fact that it had only been two days since I first started at the Academy and I was already reeling from all the arcanophanic revelations, to say nothing about the Chosen One business. What might one whole week bring? It felt like life itself was threatening to swallow me up, like some unfathomable, monstrous denizen of the deeps descending on a minnow.
+
+And it felt so unfair. I was the Top Scorer, so why did it feel like I knew nothing at all? After all the effort I had put into getting to where I was, how could people like Kevan and Jerric just crawl out of the woodwork and do things that I had never even known of?
+
+And my father was in this marvellous world for years and years, and in all that time he never prepared me for the sheer depth of knowledge out there. All our lessons, for all their sophistication, now seemed to be nothing more than idle splashing in the shallows by the shore. And now I was supposed to know how to plumb the lightless chasms of the ocean?
+
+It took me a moment to compose myself when I walked through the doors to the students' services centre. There was only one person at the counter - a middle-aged woman.
+
+"New arcanist?" she asked with a welcoming smile. "What can we do for you?"
+
+"I want to make a telepresence call," I said, trying to return her smile but only managing to come up with a brief twitching of the lips.
+
+"The first week can be hard," she said sympathetically, pulling out a file as I approached the counter. She extracted a form. "Just fill this in and I'll give you a card. You'll be able to use the telepresence rooms whenever they're available."
+
+"Even after the centre is closed?"
+
+"Yes, they're through a separate entrance around the side of the building. You just need to come here to register the first time, or if you need permission for a session that goes beyond the usual 20 minutes. Otherwise, they're available at all hours."
+
+That was good to know. It made it easy to avoid crowds or having to queue if I came at off-peak times. I filled out my details and handed the form back to her.
+
+With a little burst of arcana, she traced a glyph I didn't recognise over the paper, then pressed a plastic card onto it in a space that had been densely packed with more glyphs. With that done, she handed the card to me and placed the filled form in a thick binder.
+
+"There you go, all done. You need anything else, just drop by. If you've got something urgent that needs doing while the centre is closed, you can use a Major Query by the door while you've got your card on you, and that should give you access to most things that you need."
+
+While I wasn't a stranger to this kind of application of arcanophany, it was surprising that they had tied so much functionality into the card. It was worth taking a closer look later.
+
+"Thank you." I nodded politely and made a beeline for the telepresence rooms. There was a queue, but it was mercifully short.
+
+Even though these were for student use, the Academy's setup wasn't basic. I knew that the simplest telepresence rooms could just be a booth with an orb and the image would be little more than a two-dimensional projection on a surface, so I was pleasantly surprised to find a modest mid-range setup. A single chair was set in front of the table that served as the receptacle for telepresence orb, and there was ample space in the room to allow for a three-dimensional projection.
+
+Telepresence orbs were made for commercial use, so they didn't require much auric arcana. Complex glyph sequences drew on the ambient arcana and formed it with exacting precision to efficiently sustain the connection, and all that was needed from the user was a simple general activation glyph and a glyph for the connecting residence. I formed them with no problem and let the artefact do the rest of the work.
+
+It took a few seconds, and then the half of the room I was facing changed the instant the connection was made. The floor gave way to the familiar carpet of my living room, and a chair materialised on the other side. I couldn't see beyond the space within this room, though, so I had no idea if there was anyone there.
+
+"Hello?" I called out. "Mum?"
+
+"CADEN!" My sister leapt out of the walls and into the chair, then promptly toppled out of sight. She hurried back into the telepresence orb's coverage, hastily righting the chair and planting herself in it.
+
+The tension of the day was momentarily forgotten. I grinned at her. "Hi, Triss. You know, there's a girl in one of my classes with the same name."
+
+"What?" she looked scandalised. "My name's special!"
+
+"Apparently not. Spelt exactly the same way. You know, she even seems a little bit like you."
+
+"Smart and pretty?" Triss struck a pose.
+
+"Pretty smart," I conceded, laughing and thinking back to the twin beams of power lancing out of her palms towards Kant. "Probably smarter than you."
+
+She was on the verge of a sharp retort, then thought the better of it. "Well, as long as it's a Triss, then she can be smart too."
+
+I snorted. "Who made you the Empress and let you decide things like that?"
+
+She didn't deign to answer me. "Mum, Caden's here!" she called, then ran out of view.
+
+My mother slid into the seat and gave me a warm smile. My heart swelled a little, and I took a deep breath to steady myself.
+
+"Bad few days?" she asked softly.
+
+"No, I just wanted to check in... let you and Triss know I'm fine," I lied.
+
+"That's good." She leaned forward, looking intently at me. "I know you'll do great."
+
+The earlier feeling of being overwhelmed reared its ugly head again and I had to bite my lip to stop myself from demanding why my parents hadn't given me a clearer picture of what to expect in the Academy.
+
+"It'll be hard at first," my mother said, her eyes searching mine. "But there's no question about whether or not you're good enough, Caden. You are."
+
+It was both comforting and infuriating to be so transparent to someone. "It doesn't feel like it," I said bitterly. "There are people here who can do things I can't, who know things I don't even have the foggiest idea of. Couldn't you and Dad have told me more?"
+
+"Caden," my mother's tone was still comforting, but there was somehow a bit of a reproving edge to it. It was remarkable how well she toed that line. "You're a gifted young man, but the Academy isn't a preparatory school. It's the best and brightest of the Empire. You're meeting with your equals for the first time. And you know all that's safe for us to teach you. The rest you'll have to learn at the Academy like everyone else. And I daresay you know more than you think you do, and you're capable of more than you give yourself credit for. Top Scorer—"
+
+"—is meaningless!" I cut in, thinking about Kevan, Lynus, and Ambrose in Double Thau, and about Reeves' compulsion, and his ability to wipe memories. "There are real things about arcanophany that I should have learnt, not just stuff for a bunch of tests!"
+
+"Then go learn them," Mum said curtly. She looked stern now.
+
+Anger and indignation rose up within me. Didn't she know that it was her fault, her's and Dad's, for not teaching me enough about how much there was to know about arcanophany? I glared back at her, my mind racing down paths of inquiry in response to her challenge. She wanted me to learn by myself? Fine. The Academy's libraries were at my fingertips, I had access to the best and brightest minds of my generation, and a bevvy of lecturers who were experts in the fields.
+
+"And there it is," she said, suddenly soft again. "You know what to do, don't you?"
+
+The gears in my head came to a grinding halt. Mum did things like that all the time, and it usually meant that I had blundered somehow and she was showing me, in her way, where I had gone wrong.
+
+"You know what books to look for, you know who to approach, you know what questions to ask," Mum went on, smiling a little.
+
+That was true. And it dawned on me then that my parents had never given me any knowledge at all. They fed me questions, endless questions, and left me to find the answers out. And that was where I learnt to piece things together. Sometimes there would be a gentle nudge of correction, a relevant book absently left on the couch, a demonstration of arcanophany casually inserted into the flow of household life, an interruption during a trip to see some phenomenon or a particularly interesting glyph sequence along the way... a multitude of teaching moments across a lifetime of living in a house with two arcanists who never spoonfed but always guided.
+
+She probably saw the realisation hit me. Mum gave a sagely nod. "In arcanophany, knowing how is more important than knowing what."
+
+I huffed. "Sorry, Mum."
+
+"It's alright, Cadey. Oh, I'd hug you if I could. You made Top Scorer all on your own, and no matter how good these other kids are, you'll keep pace. You'll do more than keep pace, knowing you."
+
+"Have you talked to Dad?" I asked, feeling a little abashed at how much praise she was lavishing on me right after I snapped at her.
+
+"Yes, he called yesterday. He'll be home for the weekend, so he can bring you back home if you want."
+
+My mind went to Ambrose and the whole Chosen One situation. There was a lot to figure out, and spending a weekend at home would take time away from that. "I think I'll stay on campus."
+
+"Alright. Check in with your father if you need some direction. Things are different now that you're a student at the Academy and once you're settled into the flow of the curriculum, there's more he can bring to the table." After a pause, she laughed a little and added, "Or you could stop in just to say hello, and skip the extra work."
+
+It occurred to me that as a member of the faculty, my father would have known about the Chosen One's enrolment and the special considerations the Academy had to make, like with Reeves' work. Come to think of it, I didn't know how many people in the Academy were a part of this. Was it all of them, or just a handful of the staff? After all, my father had seemed as ordinarily curious as anyone on the day of my registration. Perhaps he wasn't in the loop. In any case, it was worth asking.
+
+I smiled indulgently and nodded. "Let me get over the feeling of drowning first, then I'll see if I need to go to Dad for more work, or to get a special hat to stop my brain from exploding."
+
+"You can't explode on your first month, or Triss will step over your body and claim the Biggest Brain title," Mum said with another laugh.
+
+The girl in question barged back into view and sprawled over Mum's lap. "Yeah, you can't explode, Cade. Not till that other Triss explodes first. The only Triss who gets to beat you is this one!"
+
+"Yeah? Let's see if you even get into the Academy, then we'll see about beating me," I retorted.
+
+Triss leapt out of Mum's lap, causing her to wince a little. "Call any time," Mum said. This time, her smile was a little sad. "It's not the same without you at home."
+
+"You've got the little Empress there."
+
+"Oh, she won't say it, but she misses you too. She cried the first night."
+
+"MUM!" Triss' shriek somehow managed to come through even though she wasn't within the field.
+
+"Oh, those tears were probably a clever illusion, Mum," I said, grinning. "We all know Empresses don't cry."
+
+Triss came into view again and glared at me. "They don't! I didn't!" She shook my mother's arm. "Mum, why'd you tell?"
+
+We talked until the fifteen-minute warning flashed across our view, then said our goodbyes. Triss was putting a brave face on it, but visibly brightened when I promised to call again in two days.
+
+When I stepped out of the room, I felt much lighter. Perhaps things weren't so bad after all.

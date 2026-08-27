@@ -1,0 +1,209 @@
+---
+id: 7d1eef43-666d-559e-a0a6-7d4ab9d28d22
+page-type-slug: story-chapter-royal-road
+title: "v6c58: Top of the Mountain, But Still a Ways to Go"
+slug: 0247-v6c58-top-of-the-mountain-but-still-a-ways-to-go
+partOf: beware-of-chicken
+position: 247
+ownLength: 2697
+unit: words
+ownProgress: 2697
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2547562/v6c58-top-of-the-mountain-but-still-a-ways-to"
+royalRoadId: "2547562"
+markedReadAt: "2026-06-29T18:59:52.241Z"
+---
+
+Liao Yushang woke up exhausted. She was still very tired from the battle three days ago. Even after the surprise attack, the Frozen Cloud Sect hadn’t gone down without a fight… and then after that was the clean up.
+
+Trekking through the mountains after fleeing cultivators was tiring business. Yushang had taken what prisoners she could; they would be ransomed back to the Frozen Cloud Sect… if the sect even survived after this.
+
+She had only gotten back to the sect yesterday, and her body was still sore after weeks of maneuvering and fighting, as well as the sorties to villages to protect them.
+
+So for the moment, she just lay in her very nice bed, snuggled in her very nice sheets. Yushang contemplated just staying in bed and going back to sleep… but she was a Core Disciple now, somebody others looked up to!
+
+That meant it was time to get up!
+
+Yushang let loose a jaw-cracking yawn, stretched, and then staggered to her feet. She lazily put on her outer robe and stretched again, groaning.
+
+Up! Instead of trapped in her wonderfully warm sheets and wasting the day away! A victory for Yushang!
+
+…she would be a good example in a minute. First she needed some fresh air! Yushang staggered to her window and opened it, letting the cold, crisp air hit her face. From here, she could look all the way down the mountain, from her place at its peak, and see the rising sun.
+
+It was an especially nice view, especially from the second floor of what was now her mansion. Being the Direct Disciple of Master Shenhe had come with some perks.
+
+Yushang watched the morning sun, and began to hum the tune she remembered Bi De liked to sing in the morning.
+
+…things had changed a lot in such a short time.
+
+Four months ago they had come back to a sect still reeling. The Shrouded Mountain Sect —which probably needed a new name, considering the mountain was no longer shrouded— had lost a full quarter of its number, and about half of the disciples had some sort of injury. They were tense and demoralized; angry and hurting.
+
+Elder Chongyun had managed to keep the sect from completely splintering… barely. Only his charisma and the threat of other sects had kept them all together, but it hadn’t been true unity. The separate clans and Pavilions had fortified their homes like they were competing castles.
+
+They all came out of their fortified positions to “accept the new Sect Master”, but in reality it was a trial. A trial to see if Shenhe was even worth following. To see if there would be another coup, right after the first.
+
+Master Shenhe, thankfully, had just the right tools for the job.
+
+It turned out that fighting off an Imperial Realm Demonic Cultivator, crushing his conspiracy, and earning His Imperial Majesty's favour counted for quite a bit.
+
+The delivery of pills, Spiritual Herbs, cores, and other things from an Imperial Messenger a week later further cemented Shenhe’s position; it had been seven full storage crystals of resources, enough to cover the sect’s losses and then some.
+
+But the final thing, surprisingly, had been Nezan.
+
+The fox appearing on Shenhe’s shoulder had, to most, meant that they were on the right path, of tearing out the root of Zang Zengsheng’s dishonor. The Elders had been warier, especially Chongyun.
+
+But Yushang couldn’t deny the fox was skilled at speaking.
+
+“Our quarrel has been long and bloody. Some would say that what has been done is unforgivable. But in the end, we were both betrayed by one man,” Nezan had said, speaking to the Elders. “I saw the earnestness and honour of Zang Yong, that same spirit in my beloved Zang Wen… and now I have seen that same honour in Shenhe, and in those of this sect who rose up and shed their own blood to cast low those who hunted my kind when they learned that they were deceived. And in light of that, we foxes only have two demands, which have been promised to me by Shenhe.”
+
+His grin had caused the surviving Elders to tense.
+
+“And those are…?” Chongyun had asked.
+
+“The fox hunts will stop… and this will be our mountain again as well,” Nezan had replied.
+
+“...as well?” Chonyun had asked, looking shocked that they weren’t being told to get out entirely.
+
+“Even if we requested it back from you, we have not the numbers to hold it,” the fox had stated bluntly. “But now… now we can finally return to our home. This will be our reparations, Shrouded Mountain Sect. Our once-hunters shall now be the defenders of our most sacred places.” The fox had tilted his nose up and played at being a villain, like this was some overly onerous tax being leveled upon the Sect… but his words had made the Elders, and the rest of the listeners, look even more guilty.
+
+The foxes they had hated for so long, had hunted for so long, had proven themselves to be benevolent, even after being persecuted for so long.
+
+But with that guilt came fire. Yushang saw it, and so did her Master. Fire that their sins could be atoned for. That they could actually walk the path of Zang Yong, rather than the path of his treacherous brother.
+
+Master Shenhe had seized that fire, and immediately began directing the reconstruction efforts. The Shrouded Mountain Sect had roared back into action. The Outriders surged forth once more, though in much reduced numbers, Uncle Heng amongst them. The Sect was being repaired and reinvigorated. People who had looked like they might leave in that first meeting decided to stick around, including the Che Clan and Master Lishu, or rather Elder Lishu of the Medical Pavilion, who now had a place on the Elder Council Shenhe had formed. The air had seemed electric, sparking with promise.
+
+Master Shenhe walked the Sect every day, in contrast to the previous Patriarch, with Nezan normally on her shoulder. They answered questions, listened to concerns, and made sure everything was on track, especially with the Outer Sect and the Mountain Pavillion. Nezan even answered questions from curious disciples about the foxes… telling them about the different parts of the mountain he remembered, and where he used to hide as a child.
+
+Uncle Heng was busy with the Outriders, Han was finally admitted into the Artifact Pavillion—with an apology from the pavilion master. Yingwen was put into an administrative position under Elder Chongyun, and Fenxian went back to the Outriders as well.
+
+Yushang found herself elevated to the top of the mountain, to a mansion that was adjacent to Master Shenhe’s… and suddenly an admired role model. After all, she had taken part in the operation that had laid low the demonic cultivators.
+
+Honestly? Kind of stressful. And a lot of work. Added to that were all her lessons with Master Shenhe… who turned out to be a really good teacher. Yushang was learning a lot!
+
+For a couple of months things seemed to be going well. Yushang found herself getting comfortable with her new role and new master, and it really did look like the future was bright.
+
+And then the Frozen Cloud Sect had started attacking their Outriders.
+
+They had evidently finished collecting information about the Sect… and decided that the Shrouded Mountain Sect was weak enough to attack, after seeing the reduced state of the patrols, and soon were moving in force.
+
+Normally, such an attack would have been immediately countered by overwhelming force. But with so many injured disciples and the Sect still rebuilding their network after the civil war, overwhelming force wasn’t something they could bring to bear.
+
+So Master Shenhe had tried diplomacy, which included the pendant the Imperial Herald had given her. But to the Frozen Cloud Sect, that had just confirmed that they were weak enough to attack and force concessions from. They decided that pushing their luck against Imperial Authority was worth it… and it might have been if they had won.
+
+But the Shrouded Mountain Sect under Master Shenhe was different from the one the Frozen Cloud remembered.
+
+So they did the unthinkable. The indomitable Shrouded Mountain Sect feigned weakness to draw in their enemies, and buy time for Master Shenhe and Nezan to complete the technique they had been working on.
+
+…mostly feigned. Things were really touch and go for a while there, especially with Uncle Heng still answering villages’ calls for help. Yushang had ended up running distractions for Outrider teams so they could get to their destinations, protecting the towns and villages. Uncle Heng had been pissed at the Frozen Cloud Sect—apparently they just left everyone behind the lines to fend for themselves.
+
+Which pissed off Yushang too. Bastards. Her home village was behind the line. Luckily, nothing had happened to them, so Yushang could focus on doing her job.
+
+While she was fighting, Han was busy helping the Sect produce artificial Spirit Swords in preparation for when they did finally take the fight to the Frozen Cloud.
+
+And then when things were all ready and good to go, Master Shenhe showed off her new technique—one that allowed Nezan to use her Qi as if it was his own. It was some kind of partial possession.
+
+The mist and darkness of the foxes was paired with the lightning of Zang Yong. They had just walked right up to the Frozen Cloud Sect, invisible.
+
+And then smashed the hell out of them.
+
+Which had led her right back to here, staring out the window.
+
+She took in a deep breath, finally feeling awake enough to get on with the day. She straightened her slovenly robe, and marched out to begin her training.
+
+The hallway was beautifully adorned and entirely too long in Yushang’s opinion. First thing was first, and she went to the dining room to get a snack… only to find the table already occupied by two people. Grinning, she approached one of them, hunched over. After making sure he wasn’t working on anything important, she wrapped her arms around Han’s neck.
+
+“Mooorning roomies~” she sang.
+
+Han chuckled and patted her arm. “Good morning, Yushang,” he replied, and then put another of the pancakes into his mouth. He really liked the treats from Bi De’s home… even if his syrup was running out.
+
+Uncle Heng just gave her a small nod, his eyes still closed as he savoured his morning tea.
+
+She could have had the mansion to herself, but that was boring as hell! The place had enough rooms, and she had gotten used to Han and Uncle’s company… so she had just invited them both to live with her!
+
+Han slept here half the time, splitting it between her house and his clan compound, while Uncle stayed whenever he was back.
+
+There was still a three-person hole in their little group, but having two friends was better than having none! They tried to eat together as often as they could. Sometimes Fenxian or Yingwen would swing by as well. The veterans of the north!
+
+“You look in a fine mood today,” Uncle said after a moment, a single eye opening to look at her.
+
+Yushang grinned, leering at both of them, and squeezing Han’s biceps. “It's this wonderful view! I’m surrounded by a veritable feast for the eyes.”
+
+Han and Uncle snorted, both of them rolling their eyes fondly. Another victory for Yushang! Han patted her arm twice and she broke the hug. She grabbed one of the pancakes from a stack near the middle of the table.
+
+“So what's going on with the Artifact Pavillion today?" Yushang asked.
+
+“Well, I’ve started a new project that I think has promise…” Han launched into an explanation she only got a part of, but she listened intently to how Han was doing—he was definitely smiling more these days, happy that his family had largely been safe… and that he was finally getting recognised for his work.
+
+=============================
+
+After breakfast, she let herself into Master Shenhe’s garden. It was normally a place of quiet contemplation, but today there was noise.
+
+Laughter. Yushang approached, curious, and her Master was in her usual place, seated underneath a plum tree. She was staring at Nezan, who was cackling away.
+
+“Good Morning, Master!” she greeted, and Master Shenhe turned to acknowledge Yushang with a small, warm smile.
+
+“Good morning, disciple,” she returned the greeting, while Nezan just kept laughing around her.
+
+“What’s going on with him?” she asked, amused. Master Shenhe rolled her eyes.
+
+“Ignore him, he's being a fool,” her Master replied.
+
+“I am not, I’m just… appreciating the irony,” the fox chortled, barely controlling his laughter. “Did you hear? The disciples are calling me Elder Nezan now.”
+
+The fox immediately burst into laughter again, curling up with tears forming in his eyes.
+
+Master Shenhe rolled her eyes and her lips twitched, like she was going to stop herself from smiling… until she let it go.
+
+…if there was one thing Yushang liked the most about her Master, it was her smile. It was big and bright, and seemed to make the whole world lighter.
+
+Master Shenhe shook her head and stood.
+
+“Let's begin today’s lesson,” her Master announced. “Run through your new form, Disciple.”
+
+Yushang saluted and got to work.
+
+========================
+
+After her personal instruction, they both went their separate ways. Yushang had a reading list her Master wanted her to complete, on logistics and strategy, so first was the library.
+
+After the library, she had to determine assignments to her juniors in the Sect, giving out missions, and getting them used to her in a commanding role.
+
+Then she had drills with the Fulmination Squadrons, more training, and questions about the battle three days ago.
+
+It was a long, busy day, and she was finally free of her duties. She was exhausted.
+
+And then she got a message.
+
+“Sect Master Shenhe is calling for you—you have guests that require your attention at your compound,” the messenger said.
+
+Yushang paused. Guests? Who could they be?
+
+She set off towards her house, curious. There was nobody outside, but there were voices inside, including an old, excited-sounding one.
+
+Her head servant was already entertaining her guests.
+
+She entered her house and walked toward the kitchen, where the voices were coming from.
+
+“I’m home!” she called as she rounded the corner and nearly ran into her head servant, who looked like he was just about to re-enter the room.
+
+“Young Mistress!” the old man exclaimed, wobbling as he nearly dropped the pot of soup he was carrying. Yushang quickly took the burden away from him, sighing with exasperation.
+
+“Grandpa Ling, why are you carrying so much?” demanded. The old man froze at her words and scratched the back of his neck. “You’re going to get a sore back again.”
+
+He had previously been Bi De’s servant… and Yushang had made it a priority to find out if the old man was alive after all the fighting. Thankfully, Old Ling had been completely unharmed… and absolutely unwilling to stop working just yet. He hadn't wanted to leave Bi De's empty mansion at first, but mentioning she was Bi De’s friend had eventually convinced him to go with her.
+
+Naturally, Yushang took care of all Grannies and Grandpas, so took him in! Of course, he had an entire staff now and he was the head servant… but he still liked doing things himself.
+
+“Ah, some exercise does me some good!” he complained, reaching back for the dish. “But never mind that, Young Mistress! We have important guests! The Young Master is back!”
+
+Young Mast—?
+
+Yushang’s eyes widened. She kicked open the door, holding the pot with both hands, and saw exactly who was waiting for her.
+
+Red hair. Green eyes. Green hair. Dark eyes. A perpetual squint and fox ears… as well as a Thunderhoof, who had no trouble fitting in the room.
+
+Tears sprung to her eyes.
+
+“Good to see you again, Yushang,” Bi De greeted her.
+
+Yushang slammed the pot onto the table… and then her body into her friends.

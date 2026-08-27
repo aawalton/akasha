@@ -1,0 +1,149 @@
+---
+id: b4de7de0-bac8-5bf1-a4ba-f1b6235afec8
+page-type-slug: story-chapter-royal-road
+title: "v7c17: Iron Chefs"
+slug: 0270-v7c17-iron-chefs
+partOf: beware-of-chicken
+position: 270
+ownLength: 1872
+unit: words
+ownProgress: 1872
+publishedAt: 2026-01-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2922404/v7c17-iron-chefs"
+royalRoadId: "2922404"
+markedReadAt: "2026-06-29T19:00:41.052Z"
+---
+
+The food here in the Ironfields was interesting—like the humans who lived here, basically everything had developed a way to handle the heavy metals in their diet, leaving the meat much less contaminated than it should have been.
+
+There were river fish that were steamed in their own iron-laced scales, the flesh tender and flaky, and served with a wonderful sweet and sour sauce. Roast boar, where the “wire brush coat” was somewhat literal—people used patches of skin with the fur still attached to scour their pots–it was cooked whole underground in a naturally formed box of iron. Beside the boar were all manner of roasted root vegetables. They had deep, earthy flavours, though they were a little small and stunted-looking compared to what we were used to.
+
+That was a theme with the fruit, veggies, and nuts. They were smaller than we were used to, and definitely didn’t taste as good, but I wasn't going to complain too much.
+
+While they grew a little bit of local rice… we were currently eating imported stuff. The people of the Ironfields didn’t think that serving the rice that grew here was good manners. It was a tough, chewy strain that was a bit of an acquired taste… or so I was told.
+
+Nobody in the sect ate the local stuff, and most people in Irontown didn’t either, importing everything from the south and the areas just outside where they lived.
+
+“Boss, we have to bring some of these back for Bi De!” Washy exclaimed, pointing at the strangest of the dishes. While most things wouldn’t look too out of place on any table, this was something else entirely.
+
+A pillbug the size of a beach ball was laid on its back. Each shell segment glittered with a thousand fractals of metallic inclusions, its innards minced and then put back inside the shell to be cooked along with spices.
+
+I only hesitated for a moment before I tried it. Honestly? It was good. Tasted a bit like crab.
+
+I looked around the table at everyone else, and they seemed to be, for the most part, enjoying the meal. The mood was good and celebratory. Even Zhuye was eating a little bit… after his momma poked it with her Qi beforehand to make sure it was safe for him. It was still a bit contaminated. You’d have to eat the stuff for years for it to actually hurt you—and it wouldn’t hurt us cultivators at all.
+
+Still, Meimei wasn't taking any chances.
+
+I turned back to Delan, to ask about the food, but he was talking to the Lord Magistrate.
+
+“Oh? He's your son?” Delan asked the Lord Magistrate, before bursting into laughter. “I thought there was something about that man! If his father is one of Master Jin’s, then it's natural that he's so skilled!”
+
+The Lord Magistrate’s smile was half proud and half pained. “Our son is indeed skilled,” he demurred. “But he has been too busy to write.”
+
+“Ah, a shame that a son cannot write home to his father, a shame! But I’ve only seen and heard good things,” Delan said, looking from the Lord Magistrate to Lady Wu. He considered them for a moment. “The positions of Special Inspector and Acting Lord Magistrate are both dangerous, it is true, but worry not for his well-being. The Grand Marshal has guaranteed his safety. Even the Grand Ravine Sect considers him a friend.”
+
+“They even sent one of their cultivators to join his guard, as if the Smaller Blade of Grass and the Coursing River Spear were not enough. Only Master Jin can boast better protection in these hills,” Lady Liquin said after her husband. It seemed both of them had noticed the heaviness in the question and wanted to reassure them,
+
+There was a complex expression on both Lady Wu and the Lord Magistrate’s faces—but they seemed to appreciate the words.
+
+“Well, he can tell us all about it soon enough,” the Lord Magistrate declared. “The gratitude of a mortal isn’t much, but thank you for taking care of him, Master Delan, Master Liquin.”
+
+Delan nodded, accepting the Lord Magistrate's words.
+
+All in all, the welcoming feast went rather smoothly—and then, it was time for the second part of a formal meeting.
+
+The gift-giving.
+
+Once more everybody assembled and took their places, trying to hide how eager they were to see what would be given.
+
+But, as the host, Delan spoke first, bowing.
+
+“Master Jin. Our Hermetic Iron Sect has nothing that we can offer a man of your stature. Yet my son has said you enjoy both tools for Spiritual Herb cultivation, and witnessing the process of making new tools. We recently acquired some high grade Spiritual Iron. Would you do the Hermetic Iron Sect the honour of witnessing our Ancestors’ techniques as we forge a piece of your choosing?” He bowed at the waist. Delan was right, I was interested. I had seen Delun forge the Torrent Rider’s spear, Moon Spur, but I had never actually seen “magical” metals being worked on before.
+
+“That would indeed please me, Tie Delan. Your son is correct. It is always wonderful to see a true master at work—be they cultivator or mortal. Dedication to an art is dedication to an art.”
+
+Delan rose with pride.
+
+After that, I actually felt a little bad about our own gifts. Was rice, maple syrup, and a few Spiritual Herbs from our garden I thought would kind of be useful for them kind of a boilerplate gift? Yes, but I had a bunch of sects to visit.
+
+And I was rather certain nobody minded.
+
+The entire sect gasped when I opened the small container, revealing the cutting.
+
+“Wha—what manner of Spiritual Herb is this?” Delan managed to get out.
+
+“Amber King of Earth.” It was one of the Spiritual Herbs Shou had given us—and another that required a very specific soil composition, as well as heat changes, toxic materials, metal slag…
+
+Ours were rather small and runty compared to the ones in the picture Shou had shown us—we were missing some of the key things it needed, but it worked well enough as a gift.
+
+And gave a nice zesty kick almost like horseradish, but sweeter.
+
+But more importantly for the Hermetic Iron Sect, these herbs were both earth and metal aligned. The only one I had that shared those attributes.
+
+Delan bowed again.
+
+“We cannot accept such…” Delan trailed off when he saw my raised eyebrow.
+
+Again, there was an entire culture of one-upmanship involved in this kind of thing, which was annoying. Debts and forced gratitude.
+
+“It is also a reward for your son’s bravery,” I said firmly.
+
+“Yes, Master Jin.”
+
+“Now! Will you show me your home? It looks quite grand from here!” I said, changing the subject.
+
+Delan nodded. “Of course! Disciples, be about your business!”
+
+The disciples quickly dispersed at those words, leaving just us… as well as the people who were introduced as Delan’s mother and Liquin’s own parents.
+
+Food and maple syrup always went down well. Delan and the other members of the sect had stars in their eyes when I handed out the maple syrup and rice. Originally, that was just going to be it—but Meimei’s eyes were locked onto Delan’s mother. She had been quiet and withdrawn the entire time, a woman who wanted to stay out of the way.
+
+The culture in this world regarding the disabled… wasn’t the greatest. That they were present at this meeting at all meant that their family still genuinely cared about them. Normally letting other people see something so “shameful” was a great loss of face, but when Delan had introduced them he had done so with pride… and to a mix of fondness and exasperation from his mother.
+
+Even now, Handsome Man had picked the old woman up and was escorting her alongside us, much to her whispered protestations. “Grandson, I can sit out for a while, you don't need…”
+
+I caught Meimei looking at her. Her eyes then shifted to Liquin’s parents; her father was blind and her mother hobbling forward on her cane.
+
+We were walking to a massive traditional manor in the center of the silver-ringed walls. Like most things here, it was completely clad in metal. Its sides were more of that gleaming steel. The roof tiles were copper, burnished to a warm shine, and kept free of green patina. A tasteful inlay of a thousand metals wove through the gates and walls, in winding knotwork and protective runes.
+
+It was a beautiful, slightly alien-looking thing. Futuristic-looking, because of the materials used, yet ancient in its design.
+
+What a wonderful juxtaposition.
+
+“Grandmother,” I said, turning slightly to address the old woman in Handsome Man’s arms. “Delun tells me that you taught him much in the art of carving. Would you enlighten me as to the meanings of these designs?”
+
+The old woman looked taken aback by my question and politeness. She hesitated for a moment.
+
+“Grandmother is very knowledgeable!” Tigu said, backing her up. “And Grandfather—you cannot tell he's blind!”
+
+“Truly?” I asked, and the blind man huffed.
+
+“You’re too kind, Young Mistress,” he said in a raspy voice. “I’ve felt her carvings. She has great talent.”
+
+Tigu beamed and turned again to Delun’s grandmother.
+
+The old woman huffed. She looked at her son, who nodded. “Ah, well…” she began.
+
+What followed was an enlightening tour. Instead of being in front of the entire sect, we could be a bit more informal as we walked to and through the manse. While the exterior was metal, the interior was mostly wood… probably because it was more comfortable.
+
+It was a nice house… but it also turned out to be more of a show piece than anything. Apparently the Tie family actually lived in a smaller stone manor down the hill a bit.
+
+We were also shown to our rooms, as we would be staying the night at the very least. We all had separate rooms, and our place was rather lavish. Half the furniture had gold inlay, but there were some more interesting things too, like a piece of art that used one of those iron-scaled fish, each scale a different metal.
+
+We were given a moment to rest and unwind before we met back up with Delan, so we could see him start forging the block of Spirit Iron.
+
+Or at least we were supposed to unwind and take a moment.
+
+Meimei had a sheaf of paper out, Zhuye sitting on her shoulders as she worked.
+
+“Dantian seems repairable, would need a closer look,” she muttered under her breath. “Eyes? Not too hard I think, if I follow what Elder Shou said. Arthritis, nerve damage… needs better healing reagents than available normally.”
+
+Yeah, that was the Meimei I knew. I smiled at her.
+
+“The legs though, Ri Zu said she transplanted them when she healed Yingwen, but…”
+
+“What about Han’s artificial spirit formation in a set of metal prosthetics?” I asked, leaning over her work.
+
+Meimei froze. Her eyes swiveled to me. She grabbed me by the back of the head, kissed me hard, and then returned to her work.
+
+She really was the best.

@@ -1,0 +1,129 @@
+---
+id: 5ee1cc2a-2ed1-571a-afc0-8ec2e2759ba7
+page-type-slug: story-chapter-royal-road
+title: "v7c82: Clean Up and Cool Down"
+slug: 0335-v7c82-clean-up-and-cool-down
+partOf: beware-of-chicken
+position: 335
+ownLength: 1855
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3703103/v7c82-clean-up-and-cool-down"
+royalRoadId: "3703103"
+---
+
+Earlier:
+
+When Xiulan and the others left, it was time for us to leave, too. While I could get a head start on moving trees around and helping to repair the damage, we just didn't have the time right now. Zhuye and the others were waiting for us, as was the reason we had originally come here. Patching Tianlan up to Ash Forest really improved how well she could feel her Dragon Veins. She joked that it was because she had two eyes now, instead of one, and she could better direct us to the small ruptures nearer to the Grass Sea.
+
+“Vajra, if you need anything, just tell us and we’ll be right over,” I told the newest member of the human form club. I had already said my goodbyes to the others, while Meimei was still alternating between mothering Rizzo and Spooks, both of them bearing the hugs with smiles.
+
+“Worry not, My Lord!” she replied, puffing out her chest and flipping her hair. “Your Vajra will not give you any cause to worry! Nay, rest easy knowing that all in this forest resides within her palm!”
+
+I chuckled at her over the top declaration. She and Xianghua would get along like a house on fire. I was also relieved. At first, I thought there might be some problems with her calling me ‘Emperor’… but instead Vajra proved to be a very reasonable woman and had gracefully ceded that ground. ‘My Lord’ wasn’t much better, but it was a start until she was comfortable enough to call me by my name.
+
+“Then I won’t worry. I trust you, Vajra,” I replied. Vajra had already proven herself, silly moments aside. There was a feeling you got when you were around people who actually knew what they were doing, and Vajra struck me as a person who wouldn’t need much minding when she had a job to do.
+
+I pulled her into a hug like I did with the other members of my family. Without hesitation she hugged back, burying her head in my chest. Vajra, I had learned, was something of a cuddlebug, and liked physical contact—especially combing people’s hair. Which was probably something from the fact that she was a bee, who groomed each other fastidiously.
+
+Honestly it was nice to see her chattering away with somebody as she combed their hair, feathers, or fur. She was really good at it, and Spooks especially seemed to enjoy their morning chats.
+
+Those that could, returned the favour; and it was really nice to comb that waterfall of silk that cascaded from her scalp. The only person who had hair even close to as glossy and perfect as Vajra was Xiulan, and it was rather nice to run my fingers through it.
+
+It was fun learning about your friends. The hair combing, the over the top declarations, the incredibly sharp mind, the way Vajra wiggled her hips when she was excited or really into something… all these little things I got to learn about her, now that we could really communicate.
+
+It was almost too short a time, but we would see each other again soon.
+
+I stepped back, and Vajra had a little pout, but she swiftly schooled her expression. Meimei stepped up next, looking her over with a critical eye. Vajra instantly straightened up.
+
+“Your dress is holding up well considering the circumstances, but I’ll have something better for you soon,” Meimei declared.
+
+It was always amazing to watch my wife work, and her solutions were honestly brilliant. She had bought some silk from a nearby village, and then Meiling had used her Qi and a couple of nearby plants to corrode the green dye into the bright yellow Vajra currently sported. Using Qi to make things was so cool.
+
+“Your unworthy servant can only offer her thanks,” Vajra replied. She was always a lot more polite and formal with Mei, but my wife seemed to find her response acceptable.
+
+“Take care, Vajra,” Meimei told her, and gave her a hug too. Vajra seemed pleasantly surprised, but gently hugged her back.
+
+“You ready, Bane?” I asked.
+
+A flight of bees formed up around us, Bane of the Black Lances at their head. The bees bobbed. I had thought they would want to stay here with this new development, but Bane had apparently asked to ‘resume her duties in guarding the Princ—Young Master.”
+
+It was interesting to hear about the individual members of her hive.
+
+“We are all parts of the song, My Lord. And even though a queen is the lead singer… even she cannot discount the Will of the Hive without consequence. Naturally, my songs are perfect! Lesser Queens face mutiny, but not I, Ohohohohohoho~!”
+
+They were both a hive mind, and their own people.
+
+The flight of bees landed on myself and Meiling, and then we set off, as fast as we could go.
+
+Both of us wanted to get back to our son, after all.
+
+===
+
+Impatient as we were, the job came first. Sealing shut the broken veins, which took a lot less time now that things were more stable.
+
+Most of the Qi wellsprings were small, barely a trickle of golden blood welling to the surface, hidden in little grottos or between rocks. They were distinguished by particularly vibrant grasses and bushes, but for the most part, plants didn’t seem to mutate like animals.
+
+“It’s because they drink more slowly,” Tianlan explained to me. “They are slower to realise what they have, if they ever realise at all. Qi doesn’t register to them in the same way it does to animals.”
+
+Though we did find a tree that defied the conventions. The next break we came across was fully occupied. The rest of the forest around it had been bowled over, and right on top of the spring was the culprit. The tree hadn’t grown tall. It had grown wide, its trunk swelling up like a baobab tree, and physically knocking competitors over. Its branches had spread similarly, sprawling out to catch as much sunlight as possible.
+
+Honestly? It looked like something out of a Ghibli movie, a titan of green.
+
+Yet it was hurting. It had grown so wide and so unwieldy that it was burning more Qi keeping its own mass from tearing itself apart than it was absorbing. It was creaking at the seams, and I could feel it trying to draw more, burning itself with the Qi. I could feel great cancerous masses, like tumours, swelling in its trunk.
+
+We closed off the break. And the great giant crumbled. With heaving groans, it shed its branches with titanic crashes, sending thousands of pounds of wood to the ground.
+
+And in turning off the power, we saved it. The great tree, no longer having to support so much of itself… seemed to suddenly sigh with relief. The burning stopped. The tumours stopped growing.
+
+We righted several of the knocked down trees—the ones that still lived, at any rate—and continued on.
+
+===
+
+“We had one last incident after that. A Ripperbeak; we came across it twitching and convulsing and just starting to change and mutate when we got to it.   Meimei had to use the siphoning formation to get out the excess Qi, but it still grew a couple of inches.” It was alive, though, and wouldn’t be really any worse for wear.
+
+I finished my narration and fell quiet. Zhuye was asleep, curled up in my arms, hugging Bane to his chest like the bee was a stuffed toy. The bee looked immensely pleased with her position.
+
+The Lord Magistrate looked directly at us for a couple of moments.
+
+“Why can nothing ever be simple with you, my student?” he lamented to much chuckling around the fire. He shook his head and sighed. “That being said… you did well, as always. All of you did.”
+
+I accepted the praise with a smile, raising a cup in thanks, while Meimei blushed slightly beside me.
+
+“We really did. I expect heroism out of Bi De, Xiulan, and Tigu. For some reason it just seems to fit them. But it’s everyone. Yun Ren said he had enough adventuring and heroism for a lifetime, but he was the first one down with Bi De,” Meiling said fondly.
+
+“That's our Young Master! Saving the province from all ills and all evils,” Xue Ji boasted, her tail swishing in a pleased manner.
+
+“It's nice… to be heroes,” Suyan whispered, a soft smile on her face. After centuries of hearing tales told in village squares about evil, beguiling foxes, and not being able to say a thing against them? It must have been pretty cathartic.
+
+‘Brave Paobu… it's a good story,’ Babe declared. He had drawn a rough storyboard in the ground and was considering it with great intent.
+
+“The salads at the Dueling Peaks made for Spirit Beasts, now the introduction of the Blaze Bears… so many new cuisines to try!” Washy’s eyes were gleaming. “I can only imagine that those with fire must have a rich history of cooking!”
+
+I paused at the thought. That… was probably true for some of them at least. I knew most bears just threw things into flames until they decided it was cooked enough, but there had to be some aspiring chefs.
+
+“Well, Vajra needs some company, so whenever you want to go and visit,” I told him, and he nodded happily.
+
+“And she's another lady to add to our circle; I have to admit her perspective would be fascinating,” Lady Wu said.
+
+“She’s certainly interesting to be around,” I replied, leaning back into my chair, and watching the stars.
+
+My son was asleep and happy in my arms. My wife was leaning against my shoulder. My friends were all in good moods… and the night was beautiful.
+
+===
+
+We didn’t travel much the next day. Instead, we hit a village, and then stopped to play in the nearby river. Zhuye, thankfully, seemed to have forgotten we had ever left, and wasn’t upset or grumpy about being apart for so long. Instead, he was just happy to run around. He chased after a bunch of frogs, and to my surprise, he actually managed to catch one. A truly fat, round, and spectacularly unbothered frog whose only response to being caught was to croak in a mildly displeased manner.
+
+After Zhuye had enough of carrying his new friend around, he put the frog back in the river, wherein he hopped off with another halfhearted chastisement.
+
+The next day we continued. We made good time, until we spotted what Tigu had seen and written about in her letters.
+
+The great wall that was Yellow Rock Plateau stretched out over the horizon… and straddling  two rivers was Grass Sea City.
+
+“Tigu was right. It does look kind of like a beetle,” Meimei said, squinting at Grass Sea City.
+
+“Well. Let's not keep our dear son waiting,” Lady Wu said, a soft, serene, and terrifying smile on her face.
+
+===
+
+Within the halls of his Palace, the Acting Lord Magistrate felt an odd chill go down his spine.

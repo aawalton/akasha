@@ -1,0 +1,179 @@
+---
+id: eac32115-4ab8-5db7-bf2d-2a011eb2dcce
+page-type-slug: story-chapter-royal-road
+title: "v5c15: Interlude: The Ascending Mountaineer"
+slug: 0121-v5c15-interlude-the-ascending-mountaineer
+partOf: beware-of-chicken
+position: 121
+ownLength: 2352
+unit: words
+ownProgress: 2352
+publishedAt: 2024-06-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1693303/v5c15-interlude-the-ascending-mountaineer"
+royalRoadId: "1693303"
+markedReadAt: "2026-06-29T18:55:39.784Z"
+---
+
+Liao Yushang’s sword cut through the air in a heavy diagonal slash as her opponent, Bi De in his human form, dodged.
+
+Ascending Mountaineer, her sword, was made of Lode Iron. The sword itself weighed as much as a full grown man. With her Qi coursing through it and the artificial spirit Han had implanted into it helping to regulate and optimize the flow, it weighed twelve times as much.
+
+Bi De could block the blow if he really wanted to, but it cost him less to dodge. Out of their whole party, only he and Spooks could say they could truly withstand one of her blows… and Spooks was complaining about headaches this morning after they had sparred yesterday. The others got to sail through the air when they made that mistake.
+
+Victory for Yushang! Heavy Sword Supremacy!
+
+Yushang kept her small smile on her face as she refocused on the fight and cut off most of the Qi flow when the blade nearly touched the ground, leaving only the bare amount of reinforcement a metal as durable as Lode Iron needed. The blade’s weight reduced itself by ten times. She slid one hand down slightly onto the enormous blade to give her a bit more leverage and forced it back up so that she could slam the sword’s pommel into the kick that Bi De had fired at her. The impact jarred her arms, but she stopped the blow with her rooted stance and heavy blade. Yushang continued the motion, using the pommel as a lever, and twisted into a close range slice upwards. Bi De disengaged, and Yushang immediately launched herself after him.
+
+Aggression, aggression, aggression. Blitz them down with unrelenting attacks using a weapon your enemy could not afford to block. Apply pressure so that every opening you do present cannot be capitalized on.
+
+That was how one used a Heavy Sword.
+
+She looked into his pretty green eyes and sucked in a deep breath. She chambered her sword and unleashed herself fully. The air roared in protest as her sword began to cut through it.
+
+Heavy, light, heavy, heavy, light, light.
+
+A kick slipped through her guard and nearly buckled her leg, but she endured.
+
+Light, light, light, heavy, HEAVY!
+
+Bi De dodged behind one of the busted up ice blocks he used for his own technique practice. It was a pillar about as thick as Yushang, and was covered in cracks. Yushang braced and twisted.“Jiayou!” she shouted, putting as much as she could into the strike. Even though mostly broken already, the ice held firm for a moment. The impact jarred her arms, but Yushang forced the Lode Iron to become its heaviest, shattering the ice and sending thick chunks flying at Bi De. The man looked a bit impressed, but Yushang ignored it and kept after him.
+
+Heavy, light, light, feint heavy, actually heavy, force the dodge, and—!
+
+Yushang stomped her foot, lowered her shoulder, and leapt forward. The [Horn of the Mountain Ram] caught Bi De for a brief moment in the gut, marking the first time during this sparring session that Yushang had ever really hit Bi De.
+
+At first she had thought the sword manual was joking when it had instructed her to shoulder-check her way through boulders. It had taken her five years to be able to do it perfectly, but hey, it worked!
+
+It wasn’t a telling blow, but Bi De looked quite pleased. He gave her a minute nod… and then buried his knee into her chest, twisted, and kicked.
+
+Yushang was summarily launched through the air and out of the clearing, a big smile on her face. She had hit him! Hells yeah!
+
+She could have caught herself on a closer tree if she really wanted to, but she was in a celebratory mood and so she angled herself just so that her arc would take her to the place everybody else was at. She hurled comically through the clearing and there she allowed herself to smack into a tree. The impact was strong enough to shake the massive thing, and while the forest floor was clear, snow still accumulated on the tree’s boughs.
+
+Snow that fell off the tree and onto her, burying her.
+
+“A fine blow, Yushang,” Bi De called out. “I think that is a fine stopping point for today. Please cool down and resume your meditations.”
+
+She thrust her arm up from under the snow covering her, her thumb pointing up like Yun Ren did, before she pushed herself out of the pile, making sure to have a smug grin on her face.
+
+Everybody was looking at her with varying levels of amusement. Yun Ren, Spooks, and Fenxian were laughing, Han and Uncle Sheng looked fondly exasperated. Ri Zu snorted, and even the ever-serious Yingwen had the corner of his lip quirk up.
+
+Good! It was no good if you were all grim and serious all the time! Even when things were bad, Grandpa always said it was best to smile!
+
+They were kinda in the shit, about to go fight demons and all, so smiling was more important now than ever. Smiling was better than being a grump like Yingwen all the time.
+
+And everybody was smiling, so mission accomplished!
+
+Yushang stood and stretched, watching with fascination as the snow around her simply started to… well, disappear. It was a subtle thing, as the flakes almost seemed to melt… or move more like sand then snow, sweeping themselves away.
+
+Heh. Forest Sweeper was a really apt name.
+
+“Have a nice flight, Yushang?” Han ribbed.
+
+“Yup, it was great! Lovely scenery!” she agreed. “I’ll show it to you again the next time we spar!”
+
+Han huffed and she stuck her tongue out at him. He turned back to his own work, trying to refine his formula to make their blades better and stronger. She squinted at him to make sure he was really alright, but this whole mission had mostly fixed the lost look in the other man’s eyes. He was focused and determined. Same with Uncle Heng, who was standing taller and prouder day by day.
+
+Yushang stood and stretched, then blinked as she felt Ri Zu’s fingers ghost along her back, checking for any injuries. Satisfied that Yushang wasn’t hurt, Ri Zu’s hands transitioned to getting some debris out of Yushang’s hair.
+
+“You’ve done well,” the shorter woman told her, smiling, while Yun Ren walked up to ruffle her hair. She could see Bi De standing off to the side. The man nodded to her before, with a pop, he turned into a chicken again and started to walk over to the special tree in the middle of the clearing, the Everbloom.
+
+…honestly, that was still kind of weird, that he was a chicken and Ri Zu was a rat. But as she looked at him and her little quirk, the ability that told her who was trustworthy and who wasn’t, didn’t change at all.
+
+He still looked like Bi De, just like Ri Zu still looked like Ri Zu, even when they changed back and forth.
+
+Probably why she took them changing forms so well, if she was honest. They still ‘looked’ like the people who had helped and protected her.
+
+“You mess up my hair and poke my back instead of giving this pretty sister comforting hugs,” she complained to Ri Zu and Yun Ren, who just looked more amused… but they obliged her.
+
+It was so, so nice to hug people again.
+
+Yushang practically skipped off and settled down beside Bi De before she took a deep breath, preparing herself to cultivate.
+
+She was beneath a massive tree made of ice, its blossoms stunningly beautiful. In her vision, powerful cultivators bettered themselves as they cultivated within a Spirit Beast’s domain.
+
+It’s amazing where a quirk of fate can take you, Yushang mused.
+
+And it had just been one quirk of fate after another, hadn’t it? A girl from a village, through a quirk of fate ignited her dantian. A girl from a backwater village who, through a quirk of fate, managed to navigate the Howling Sword Arts Academy and come out stronger, rather than chewed up and spat out like most of the other commoners.
+
+Who through a quirk of fate, chose to take the entrance exam to the Shrouded Mountain Sect in the same year that Bi De, Ri Zu, and Yun Ren had arrived.
+
+All she had wanted to do was to take care of her family and hopefully strike it rich herself. That had been the goal. And now, she was trekking through the Sea of Snow on a mission to slay demons.
+
+When she said it like that, it kind of sounded like she was a character in a story!
+
+Hells, this entire thing sounded like a story, didn’t it? There would be somebody who would read about what they did together some day. It probably wasn't her story—
+
+It would probably be called The Celestial Heavens Defying Rooster or something, she thought with amusement, peeking at Bi De.
+
+But that was fine. All that mattered was that Yushang didn’t screw up and she got a happy ending—maybe she’d be popular enough that there would be a Yushang in every book, like how every good protagonist has a fat friend like Han!
+
+Yushang smiled and began to cultivate.
+
+==============
+
+Six hours later and they were done for the day. Yushang rose and yawned, ready to eat. She was getting quite close to breaking through to the Third Stage of the Profound Realm!
+
+The others had also finished, and Yuhang looked down to see if Bi De was ready to go when she paused.
+
+He was doing something strange. She had never been so close to him before; in the Sect he had meditated and cultivated back in the Inner Sect, and….
+
+“Are you pushing your Qi into the earth?” she asked, confused. Han, Uncle Heng, Spooks, Yingwen, and Fenxian all stopped too, looking at Bi De, while Ri Zu and Yun Ren just nodded.
+
+Bi De nodded, his eyes closed. “‘Tis part of my Master’s teachings. ‘We give to the earth, and the earth gives back.’ I am merely returning some of the favour the land has done for us.”
+
+Yushang blinked. Yingwen looked baffled.
+
+“Won’t that just make you weaker?” Fenxian asked, confused.
+
+“He's the strongest out of all of us,” Han replied, looking contemplative.
+
+“And his Master is an expert of the Cloudy Sword Sect,” Yingwen replied. “Of course this serves some purpose. Senior Bi De, how does one do this?”
+
+The rooster opened his eyes and cocked his head to the side. “It serves no greater purpose than giving thanks to the world,” Bi De stated simply. “I can show you. But for your offering to be accepted, your intent for thanks must be pure and your Qi clean of impurity.”
+
+Yingwen and Fenxian looked at each other, before they sat down once more.
+
+Bi De carefully touched their Qi with his own and guided them beneath the frozen earth—where Yushang beheld a single vast, impossibly massive river of frozen Qi coursing through the earth. It stretched from horizon to horizon, even as far away from it as she was. It was cold, and she could feel the freeze seeping into her soul through her Qi.
+
+She was looking at a dragon vein.
+
+And then, the vision disappeared. Her Qi entered the earth.
+
+…and nothing happened, really.
+
+Yushang shrugged and clapped her hands together before bowing her head.
+
+Bi De was right. Giving thanks to the earth was something good. Grandpa had always said to do that.
+
+They gave their thanks to the earth, had their evening meal… and then Spooks flinched and looked up at the sky.
+
+‘There's a storm rolling in,’ he whispered.
+
+===========================
+
+Yushang puffed hot air into her hands. She was perched on the bough of one of the massive trees, staring up into the sky and into its perpetual darkness. In the village where she was from, they got one day like this, on the winter solstice, where the sun never rose—they had been here for nearly two weeks and had never yet seen even a glimmer of the sun… but it hadn’t exactly been dark before.
+
+The sky was, in fact, oddly bright. The dancing colours of the aurora, the shining stars, and cold light of the moon provided plenty of light to see by. It was a pretty, almost ethereal light.
+
+Tonight, however, that light was fading.
+
+The silver moon and rainbow aurora were both being swallowed up by the blackest clouds Yushang had ever seen, and she had seen some pretty bad mountain storms. They seemed almost lazy, slowly but surely coming in from the south and consuming everything in their path. They were so dark they looked just like a kind of black wall, but when the lightning within them illuminated their underbelly one would learn the truth.
+
+The clouds above seethed. They frothed. They boiled like a pot of noodles eager to vent their wrath… and now she was hungry for noodles again. The rice and maple syrup were amazing, don’t get her wrong, but noodle soup was justice!
+
+Yun Ren, sitting slightly below her, let out a low whistle, and his memory crystal chimed. “Damn. I’d hate to be on Master Forest Sweeper’s bad side.”
+
+There were several chuckles.
+
+“Spooks was right. Where the storm travels to, our foe lies,” Bi De mused. He was in human form again, his eyes fixed on the sky. His voice was full of conviction, and the rest stopped chuckling as they once more acknowledged that they were about to fight the demonic forces. The air became charged.
+
+Yushang sucked in a breath and then smirked.
+
+“Damn straight a storm is coming. We’re on the way, aren’t we?” she asked, elbowing Bi De.
+
+The tension broke, as Fenxian and Hen barked out laughs; Bi De smiled, turning his pretty green eyes on Yushang.
+
+Then he smiled.
+
+“Well said, Yushang. We are the storm that approaches.”

@@ -1,0 +1,135 @@
+---
+id: 9c41f6df-1dce-59fd-bc48-9465efbe809b
+page-type-slug: story-chapter-royal-road
+title: "17: Darkness"
+slug: 0017-17-darkness
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 17
+ownLength: 1893
+unit: words
+publishedAt: 2023-03-13
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1136787/17-darkness"
+royalRoadId: "1136787"
+---
+
+Towering over Trent, Jack felt the primal conviction waver within him as the adrenaline empowering his movements ebbed, his knees buckling as he collapsed onto them. It was only the survival instinct he had ingrained into his psyche that gave him the strength to maintain a firm grip over his sword, even as he found his will to fight rapidly escaping him.
+
+In his desire to rectify a perceived injustice, he was confronted with the most bitter truth of all. He wasn’t any different from Trent. And Trent hadn’t been any different from Andrew, had he? Jack had driven his sword through the archer’s gut the moment he had posed a threat to his life and even now, he could easily recall the ease with which he had committed the sin he had spent a lifetime loathing.
+
+He felt his mind’s eye fragment into a thousand shards, forming a kaleidoscope of alternate futures that his consciousness forced him to replay out of the guilt that was weighing down upon him.
+
+If he moved a little faster would he have been able to snap Trent’s bow in half?
+
+If he had acted a little more discreetly, would Trent have been able to sense his presence?
+
+If he had instructed Sarah a little more, given her some advice on how to distract Trent, would the ruse have lasted a little longer?
+
+Long enough to resolve this conflict without any more bloodshed?
+
+Possibly.
+
+There were so many possibilities. So many ways the situation could have gone.
+
+Yet all Jack had, all any of them had was the present.
+
+Did he have to charge at Trent?
+
+Trent had shown himself to be a threat and, in the end, he had proven that he was willing to kill Jack, whether that be because of the experience he had accumulated or because he thought working together was no longer a possibility and suspected betrayal.
+
+Subduing him was the logical course of action, be that as his group’s leader or the doomsday prepper within him that had come to become a part of him and put survival above all.
+
+Did he regret charging at Trent?
+
+That was a harder question.
+
+It hurt. He was pained by the sword he had plunged into Trent's gut, as if it was his own flesh and blood he was striking at. His grief was as real as the rawest emotions he had ever felt, there was no doubt in his mind about that.
+
+But did he truly regret putting down a threat after the fangs had been revealed? Could he really regret it? If Trent had not raised his bow and created distance in an attempt to run an arrow through his chest, everything could’ve been different. The archer would’ve still been alive, banished and alone, but alive.
+
+And Jack’s plan to banish Trent had been the correct one, given how the situation had unfolded afterwards.
+
+No, Jack didn’t regret doing what he had to do. He… didn’t regret killing a man for the offense of trying to claim his own.
+
+Jack Anderson was human, through and through and now he suffered the backlash of his own hatred for murderers, ironically enough. If Trent believed that Andrew was becoming or would be a threat to the Archer’s life, then was he wrong for sinking his arrow into his flesh?
+
+Yes, was the answer Jack wanted to give.
+
+No was the answer he knew to be true. No, Trent wasn’t any more or less wrong than Jack himself was.
+
+“Damn it!” Jack pummeled his fist into the ground, striking with such force that he could feel the impact in his bones.
+
+The footsteps sounding out behind him cut through the dreary landscape his mind was at that moment, causing Jack to angle his gaze behind him.
+
+Sarah met his gaze.
+
+He could see the shock reflected in her eyes, the fear concealed in the corner of her pupils; but most of all, he saw a sternness in her demeanor that hadn’t been there before.
+
+“Are you alright?” Sarah asked, her tone echoing forth with genuine concern instead of the recrimination he had been expecting.
+
+“I...,” Jack trailed off, unsure how to respond. Part of him was surprised that Sarah hadn’t simply left, horror stricken at his actions, while the other part of him wondered how she could maintain a mask of stoicism even in their present circumstances.
+
+“....just killed someone,” Jack said the words aloud, acknowledging reality for what it was. Acknowledging himself for what he was.
+
+For the first time in his life, he had killed a person. A real person, in every sense of the words’ meaning, making him no more or less than the one he had killed.
+
+Sarah’s mask cracked a little at those words, but she managed to recover.
+
+“I’m not going to wallow in self-pity after what I’ve done, “Jack found that his own voice was overwhelmed with emotion, in a rare display of vulnerability that reminded him of the person he used to be. Lonely and broken, nestled in a manor too large to ever feel like home. “But this is still my fault. I failed as a leader.”
+
+Sarah remained silent, sensing that Jack had more to say.
+
+“I saw what Andrew did. I witnessed his belligerent actions with my own eyes. Yet, I did nothing to stop it. I could have. I knew I could have, but it risked damaging the integrity of the group. I prioritized the group over any one individual, and this is what it has led to,” Jack muttered, his tone crestfallen.
+
+“Who made you the leader?” Sarah angrily questioned.
+
+Stunned by her furious response, Jack truly looked at her for the first time since they’d met, not having expected the challenge.
+
+“Andrew made the decision to steal Trent's kill. You tried to get Trent to surrender, but instead he drew his arrow and activated that terrible power without any warning. If I was in your place, I would be writhing on the floor in agony, completely at his mercy. They were both adults who made their own decisions and you,” Sarah’s gaze flickered to Trent’s lifeless silhouette, managing to withhold the urge to wince, “did what you had to.”
+
+“There could have been a different outcome,” Jack replied, though deep down he knew Sarah’s words to be true.
+
+“No,” Sarah firmly replied. “You don’t get to lead me. You were never leading Andrew. Trent was very capable of fighting for himself as he has clearly displayed. He fought back and the second time, he fought back against the one person trying to help him. Trent repaid a peace offering with a poisoned arrow. This is the outcome their choices led to.”
+
+Sarah believed her own words. She had to believe her own words. She had to keep moving forward. She had to be selfish. She had to ignore the past, forget it if need be and she would if it meant seeing her father again.
+
+“Can you bring yourself to trust me after this?” Jack asked, gazing at Sarah’s outstretched palm that was beckoning him to get back onto his feet.
+
+“I don’t know,” Sarah replied honestly. “I’m trapped in a forest with a man I met an hour ago. We are up against a forest teeming with creatures I’ve never seen before in my life, wielding arcane powers that I don’t understand to try and survive. I would be a liar if I said I knew what I was doing but, I do know that I can’t do this alone. Teaming up with you is the best shot I have.”
+
+Jack grunted in affirmation, realizing that his words had failed him.
+
+Slowly, he got back onto his feet. It was not his intention to spurn Sarah’s extended hand, but this was something he had to do for himself.
+
+Walking over to a clear patch of grass, Jack thrust his sword into the soft earth, plucking out a small mound of soil and depositing it to the side.
+
+Before Sarah could ask what he was doing, Jack repeated the process. Again. And again. Then a fourth time. Fifth. Each time, he got a little faster, his enhanced strength assisting him in the process.
+
+Ten minutes later, flanked by two mounds of upended earth rested two makeshift graves.
+
+“Do we have time for this?” Sarah asked, worriedly, while keeping a vigilant eye on her surroundings.
+
+“Perhaps not,” Jack replied, walking over to Trent's limp body.
+
+“Then why-”
+
+“I will do what it takes to survive,” Jack solemnly replied, as he pressed the Loot option that appeared before him. The loot that had originally belonged to Andrew, then was brutally stolen by Trent now fell in his possession in an equally brutal manner.
+
+The cycle of blood and death only reinforced the understanding Jack had gained after having taken the life of another himself.
+
+He was a part of that cycle. Tomorrow, if another killed him, they would claim his loot for themselves and the cycle would continue. He wasn’t strong enough to break the cycle, but Jack would choose to believe that his destiny was his own to forge.
+
+The blood that had spilt over the loot would be granted the reverence it was due and Jack would claim it for himself. The survivalist within him was delighted at his actions, but it was not enough to drive him to them. No, Jack would claim the loot, just as he would kill those who tried to kill him, to break himself free from the cycle.
+
+“This trial, this world, is designed to break and reforge us, a cycle of blood and death that will continue until we are indistinguishable from weapons of war,” Jack muttered, his gaze furiously angled towards the sky. “I will do what it takes to survive, but survival alone will matter little in such a callous world. I will live and move forward, I will face the next day with as much determination as I did the last, but it will not be at the cost of my humanity,” He declared, his intention steeped in every word.
+
+Humanity wasn’t just the good, it also came with the bad, the ugly and the grotesque. Trent’s death had been ugly and Andrew’s grotesque, the pain that had preceded his demise both unnatural and unnecessarily cruel. But Jack wouldn’t turn away from it, he would not shirk away from the truth and only choose to believe it’s convenient and noble sides. In accepting the loot that had passed from the creatures they had hunted, to Andrew and then to Trent, he had also accepted their humanity. They had done what they had to do, just like Jack had. He was the one that had lived to tell the tale, so he would accept who they had been and direct their humanity to the chains that still bound Jack.
+
+And one day, Jack would shatter those chains.
+
+His hands sinking into the soil, he began to cover the graves. Perhaps his actions were no more than a symbolic defiance, but he would follow them through to the end.
+
+Not long thereafter, Sarah and Jack departed, leaving behind two gravestones partially embedded within the ground.
+
+Scrawled upon them in rough, abrasive writing, was a single line:
+
+Here lie Andrew and Trent, two humans.

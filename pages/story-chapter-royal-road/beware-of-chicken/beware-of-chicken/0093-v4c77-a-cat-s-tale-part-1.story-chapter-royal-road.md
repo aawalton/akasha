@@ -1,0 +1,151 @@
+---
+id: dc690c63-2d0c-572f-9e5f-920f0159d44a
+page-type-slug: story-chapter-royal-road
+title: "v4c77: A Cat's Tale Part 1"
+slug: 0093-v4c77-a-cat-s-tale-part-1
+partOf: beware-of-chicken
+position: 93
+ownLength: 1875
+unit: words
+ownProgress: 1875
+publishedAt: 2024-02-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1502234/v4c77-a-cats-tale-part-1"
+royalRoadId: "1502234"
+markedReadAt: "2026-06-29T18:54:38.498Z"
+---
+
+Gou Ren took a good look at the guards as he bounced Zhuye on one knee. The guard captain held himself at attention, yet he also had an easy, personable smile; his armour was of incredible quality and well-maintained—Gou Ren could see every slight blemish in the steel from the long travel this man had undertaken, but to a normal person’s eyes it would be unnoticeable. The rest of the guards were the same. They were all disciplined, professional men, even as they drank their tea.
+
+Gou Ren thought it was probably a little excessive to have so many soldiers for an escort, but after listening in on all the shit Lu Ri and the mail couriers would have to deal with, maybe it was just the right amount?
+
+“How was the journey, anyway?” Jin asked the head guard as he poured the man tea. The man, Long Chenshen, had taken Jin’s offer to get himself and his men refreshments as soon as it was offered, and now the caravan guards were drinking tea and looking with interest at the reaping machines.
+
+“It was leisurely until it started raining, Master Jin,” Chenshen replied. “The roads turned to muck, but we managed to push through until we got back to civilization.”
+
+Gou Ren chuckled at the jab about the state of the roads. It was a vast difference, and after a mere year of living with the roads they had made, he wondered how they had lived without them.
+
+“Yeah, the rain can get pretty bad,” Gou Ren chimed in commiseratingly. “But at least by this time next year, we should be nearly to the next town.”
+
+“Truly?” The guard asked, looking impressed.
+
+“Yeah. It’ll make things a lot easier,” Jin said with a nod. “Though I do have one question. I would have thought Bo and Chyou would be with you—they said they would be back up to collect this year’s harvest.”
+
+The guard bowed. “Master Bo and Mistress Chyou are indeed at least a week behind us, but we were sent on ahead; a message from Rou Tigu to yourself is to be conveyed with all due haste.”
+
+Gou Ren blinked.
+
+Right. They were important people now.
+
+It was still damn weird to think that. That people would go out of their way to do things for them, like hire an entire guard squad and a caravan for a single crate. Granted, it was a rather large  and very nice crate that he could see through gaps in the protective cloth covering it. Gou Ren could appreciate the craftsmanship. It was a beautiful thing, old hardwood lacquered to perfection.
+
+But it was still a single crate.
+
+The world was very strange sometimes.
+
+They made some more small talk until the guards bowed and left, heading back towards Verdant Hill.
+
+Meiling immediately turned to Jin.
+
+“Come on, let's just open it right here!”
+
+Gou Ren rolled his eyes at Meiling’s whining as she stared hungrily at the box that the Azure Jade Trading Company had delivered. She was as excited as she had been that one time she had managed to find some rare poisonous herbs from the caravaneers. She was even starting to bounce in place.
+
+“We wait until tonight, when everybody can see it at once,” Jin replied, and he chuckled when Meimei pouted but relented.
+
+… She stille spent the next couple of hours trying to guess what was inside, poking, prodding, and only barely refrained from shaking the box at Jin’s disapproving but amused tut.
+
+“Don’t end up like her, okay little buddy?” Gou Ren asked Zhuye, but he was afraid his nephew was already lost, giggling as Meimei hopped around like a jiangshi, examining the chest from every angle.
+
+==================================
+
+After the festival, instead of staying in Hong Yaowu like they normally would, they headed straight home. The Lord Magistrate had congratulated them on having such a fun day, and then he and Lady Wu had started talking with the other noble ladies about what they thought of the reapers. The last he heard was them saying they would be telling their husbands, and the other ladies they were friends with about the wondrous new tool.
+
+Though, with the excitement of getting a letter from their friends having faded, the topic of conversation became a bit heavy.
+
+“We’ll go check together the next time you smell it, okay?” Jin said as they walked down the road back home. “I trust your nose more than anything, so if you think something’s off, something's off.”
+
+“It could just be nothing. Tianlan said things were a little bit off with our senses,” Meimei demurred, still sulking slightly from her curiosity being restrained.
+
+“Still better to check,” Gou Ren said, adding his thoughts. Because like hell was anything going to take his home from him. “We can set up a rotation. You say something, and we go running?”
+
+Meiling nodded. “Next time. I’ll try to get a better direction, but it comes and goes so fast.”
+
+‘All can do is our best,’ Chun Ke stated sagely.
+
+“Exactly. So instead of that… let's look forward to what comes after dinner, eh?” Jin asked, as they reached the gates of the farm.  With a course of action set, the mood lightened as the smell of food filled the house.
+
+As always, they had a bit of an eclectic mix for dinner.
+
+Half of the food was Jin’s creations. Today, they were having Ta Kos. It had slow-cooked beef mixed with the spicy peppers, lettuce, tomatoes, and onion,  another variant used breaded fish, and a third type for Chun Ke that was made out of beans and more mushrooms. All of it was encased in a kind of cooked dumpling wrapper made of corn folded in half but left unsealed.
+
+The other half was the stuff Gou Ren had grown up with: the stir-fries, the rice, and Meimei had made some of her dumplings—which was the only food that Jin actually cared about people stealing from him. He may have made up a thousand dishes, but the traditional dumplings of Hong Yaowu were his absolute favourite.
+
+Both the familiar and the new and interesting—Gou Ren always had a bit of everything. Meimei did make the best dumplings, but the Ta Kos were really good too; there was something about assembling and wrapping it up that made it fun.
+
+While most everyone present liked the new food, Bowu and Wa Shi were inhaling the things. Jin laughed at the kid’s enthusiasm, while he fed Zhuye a bit of the beef that wasn’t spicy.
+
+It was a hit with the little man too, as Zhuye grasped eagerly for more meat.
+
+Then Jin gave him part of a dumpling that had been chopped until it was paste, and Zhuye completely lost interest in anything else.
+
+Meimei was very smug about that, and she went from acting happy to actually happy. She was vibrating in place by the time dinner was done and the dishes were cleaned.
+
+Then they all stood before him as Jin placed his hands on his hips.
+
+“Now… It's finally time. The thing that comes after dinner is…. Bed time!” Jin exclaimed.
+
+There was a small moment of silence. One of Vajra’s bees buzzed its wings twice.
+
+The look on Meiling’s face went from happy to murderous. Pi Pa huffed in irritation. Miantiao rolled his eye. Wa Shi, in his jar, spat a stream of water into Jin’s face.
+
+“That was lame, big bro,” Bowu deadpanned.
+
+“Super lame,” Gou Ren agreed.
+
+Even Chun Ke and Bei Be looked unimpressed.
+
+“Jeez, tough crowd—” Jin started, then really got a look at Meimei’s face and instantly capitulated. “Kidding! I’m kidding!” he yelped. “No more teasing, I promise!”
+
+Meiling sniffed imperiously as Jin beat a hasty retreat.
+
+They pursued him, of course, to the living room, where Jin removed the protective cloth, exposing more of the finish on the crate. The top had the symbol of the farm carved into it.
+
+“This is really nice,” Jin said as he ran his hand over the solid wood, nodding—
+
+“Stop stalling and open it,” Meiling grumbled.
+
+Jin laughed, pulled out the key that had been given to him and undid the lock on the front, throwing open the chest.
+
+The first thing that hit them were the smells; the scent of spices, of preserved fruits, and finally a hit of perfume that Gou Ren recognised, and was very familiar with.
+
+The slight scent of Xianghua.
+
+And then, there was another cloth—and written upon it, in Tigu’s elegant, artistic calligraphy, were the characters great victory. Below the bold declaration were black ink hand prints, each signed with a name.
+
+Tigu. Xiulan. Xianghua. Delun. Chou. Wei. Yin. Fei.
+
+There was even a paw print that said Shaggy Two.
+
+“...they actually did it?” Bowu asked, sounding slightly faint.
+
+“This is going up on the wall,” Jin decided instantly. He reached in and pulled out the cloth. He carefully unfolded it, and within were several scrolls.
+
+Each of them had one of their names on it, with one, bigger scroll, simply labeled all.
+
+Jin passed out the scrolls, and then, after a moment, he popped the cap off the main scroll and unfurled it.
+
+Jin cleared his throat and began to speak.
+
+“To My Master and Father, to My Mistress and Mother; To my Brothers and Sisters, and to all of our friends. Rou Tigu pays her respects! It has been many months, and I miss you all dearly. Especially my Little Brother! I wept that I could not attend his naming, but your daughter takes solace in the fact that he was most assuredly named Kai, and not anything that the Blade of Grass or my foolish, meat-headed Junior Sister said it would be. And his name is most definitely not Wan or I shall hunt Wa Shi down to the ends of the earth for daring to suggest he be named meatball.”
+
+Gou Ren snorted at the sheer offense on Wa Shi’s face. ‘Wan is a fine name! You know what, I’m going to name my spawn Wan!’
+
+The dragon huffed and looked away as Jin laughed and shook his head before continuing.
+
+“But all of this can wait until we meet again. It has been a lot of work. And entirely too much paper and writing… but your daughter can safely say she has accomplished the first step of what she set out to do. So please, listen to your wayward daughter’s tale. It is a much different story than I thought I would write… but I hope you will enjoy it all the same. Surely, it will be superior to Bi De’s story and his aimless wanderings! Firstly, after we escorted Biyu and Huo Ten back home, we headed straight for the Misty Lake Sect!”
+
+At this, Jin pulled out something that had been wrapped in the scroll and unfurled a small wood-block print.
+
+It depicted a village made of reeds and floating on the water.
+
+Gou Ren shook his head. That was certainly an… interesting way of writing. Gou Ren leaned against Chun Ke as they settled in to listen to a tale written by a girl who was a cat.

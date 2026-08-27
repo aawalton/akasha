@@ -1,0 +1,157 @@
+---
+id: ab439aa7-c44a-584d-97ab-456c6ce24c12
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 31 - An Elf's Vacation"
+slug: 0036-book-4-chapter-31-an-elfs-vacation
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 36
+ownLength: 3358
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2796046/book-4-chapter-31-an-elfs-vacation"
+royalRoadId: "2796046"
+---
+
+Elves had some unique worldviews, but Ranthia was largely used to much of it. They made life with the woman she had fallen in love with just a bit more interesting and it gave her even more to learn about her partner. But even she was more than a little weirded out that Avyna was able to just walk into various elven inns—or, at least, inns were the closest thing she could compare them to—and ask to see the guest list. Something about it felt horribly wrong, as they bounced from location to location throughout Coalition City while they sought out where Caelillia was staying.
+
+Once the sun was up, they stopped for breakfast at one of the locations they checked. Ranthia’s nose led her straight to the dining area as soon as they entered, and she refused to leave until they ate—much to Avyna’s amusement. Alas, the food wasn’t quite as good as it smelled, but it was hardly disappointing! The aromas were impossibly intoxicating, and the food was beautiful to behold—the fact that it was ‘merely’ utterly amazing on her tongue was a credit to the perfection of everything else.
+
+It was Ranthia’s first brush with the artistry of a [Chef] above level 800 and she took back every smug thought she had ever had about cooking Skills only being relevant with poor ingredients. Clearly, even the best of ingredients could be made to sing in ways she had never imagined!
+
+Ranthia left the restaurant halfway convinced that she should immediately drop [Sexy] or [Fast Learner] and take a cooking Skill. Thankfully, she was too afraid of retching up the food she had overstuffed herself with while suffering through the punishment for losing a somewhat high-level Skill. Eventually, she came to her senses and remembered that she loved her current Skill build.
+
+…But maybe, just maybe, someday something would merge.
+
+Ranthia was mildly disappointed that the System didn’t immediately comply and merge something to give her an open General Skill slot.
+
+Ranthia smiled as she watched mother and daughter hug and tried to ignore the pang of jealousy that lanced through her heart and her mind. It was surprising just how many inn-adjacent businesses were in Coalition City, but Ranthia had no idea what percentage of the former military installation’s population was transitory. None of them had been empty, so clearly the demand was there.
+
+“<My love, since I never got an opportunity to catch up with my little sweetling, would you mind giving us some time alone? I shall meet you at noon in the market where I used to keep my stall.>” Avyna requested, ignoring her daughter’s protestations over the nickname.
+
+“<Sure! I can spend some time checking out the city. And I’m glad you made it safely, Caelillia.>” Ranthia replied, trying to keep the disappointment out of her voice. It was a fair, reasonable request—being put out over it would be unreasonable.
+
+And yet…
+
+“Whatever, I’m still never going to forgive you for hurting Mom. Leave.” The young (still much older than Ranthia) elf insisted with a brief, somehow charming glare.
+
+Coalition City had once again expanded since she last visited—she was virtually certain that it was larger than Ariminum. Ranthia milled about aimlessly as she wandered, trying to reacclimate herself with the surroundings.
+
+“If it keeps growing, it’s sure to stay, right? A permanent city where everyone on Pallos can come together and coexist… Gods and goddesses, that really does sound wonderful.” Ranthia mused as she people watched.
+
+After witnessing years of the base commander’s flagrant speciesism and the bitter hatred of the war against the shimagu, it was reassuring to be reminded that different cultures truly could come together and thrive. Over there, a minotaur walked while engaged in earnest conversation with two humans about music. On the opposite side of the street, a gnoll and a dwarf haggled over some metal doodad. A few dozen paces later, Ranthia passed an open area where two centaurs regaled a crowd that was composed predominantly of elves with a song. And a single turn later, there was a human woman wearing a toga asking a dwarven woman how she kept her beard so healthy, because the dry weather was absolutely wreaking havoc on the toga-wearer’s—
+
+…Okay, Ranthia had gotten entirely too used to life on a military base. She had forgotten how freely civilians tended to discuss intensely personal topics under a bizarre expectation of privacy just because they were a bit more than an arm’s length removed from other people! Yes, even legionaries tended to overestimate the privacy that whispers provided, but at least they tried!
+
+Ranthia hurried along before she learned more unnecessary factoids about the unknown woman. Granted, Ranthia wasn’t entirely certain what to do with herself. Shopping was largely out of the question after she had to pay the high-level elven duo and she—oddly—had yet to receive the contribution credits for killing her latest shimagu twin. Technically, Avyna still owed her a fair number of contribution points, but only because the woman continued to refuse Ranthia’s insistence that she didn’t need to be paid back. Either way, ultimately that meant that Ranthia couldn’t just go on a shopping spree for inadvisably expensive and sexy things to surprise Avyna with.
+
+Still, she could keep herself amused until it was time to meet Avyna. She was a grown, mature woman in one of the largest cities she had ever seen—there were all kinds of things she could do to amuse herself!
+
+“She’s late…” The boredest Ranthia that was ever bored muttered.
+
+The market had changed a bit. The stall that sat approximately where Avyna’s once had was no longer physically the same stall. Probably. It wasn’t like Ranthia had studied the wood grains or anything, but the fabric that had sheltered it once was gone.
+
+Also, it sold simple tools like hammers, saws, and nails.
+
+In fact, the only familiar stall in the market was the centaur that sold the offensively spicy food—and he hadn’t even been in that market back when Ranthia and Avyna briefly lived together in Coalition City! Also, either Ranthia sorely underestimated how much her senses had improved during her time in Remera, or the centaur had become even more obsessed with spice—each time the wind blew from his stall, Ranthia’s eyes watered from the painful burning that filled the air.
+
+The only fruit stand in the market was a ratty stall that sold mangoes “straight from Perinthus,” which wasn’t helping Ranthia’s mood. She was already feeling sorry for herself, the last thing she needed was to be reminded of the town where her… predecessor had been born! There were no happy feelings to be found anywhere in those memories. Honestly, never seeing Perinthus again was one of the advantages of leaving Remus for good once the war was done.
+
+Ranthia lost track of how many times she had walked the same circle through the market (avoiding the centaur’s corner, like most of the other shoppers did), feeling bored and frustrated and moody and sulky and…
+
+“<My love! There you are!>”
+
+Ranthia lit up as she turned to the voice. Avyna. Beautiful, perfect Avyna. Smiling, happy Avyna.
+
+Ranthia rushed to the woman she loved and embraced her. Greedily, she sought a kiss or three from the elf before she allowed Avyna to laugh and swat her back into behavior. Okay, admittedly she probably copped a few too many feels for a public market, but she had to communicate just how sorely her beloved was missed!
+
+“<Cracking crystals, my love! You act as if we had not seen each other for days!>” Avyna laughed into her wrist before she seized Ranthia’s arm with her own.
+
+“Where are we going?” Ranthia asked, a broad smile on her face.
+
+“<Well, after I finished catching up with Caeli, I set out to arrange something for you, my love. I know where you are from, people are… ignorant of many things, but I hope you will have an open mind for this. In truth, it was lucky that one I approve of was available on such short notice.>” Avyna carefully non-explained, her words just as methodically chosen as they were when she spoke Creation.
+
+“<For you, Gemheart, I will have an open mind about anything. …Well, almost anything.>” Ranthia amended herself with a blush on her cheeks and optimistically scandalous visions in her head. Avyna knew her comfort levels though, so she trusted the love of her life to not attempt anything that she would find wholly objectionable.
+
+Together, they entered a wooden building and, if anything, Avyna was clinging even tighter to Ranthia’s arm, as though the elf expected her to try to escape. They traveled along the vibrantly carpeted floors (fancy!) of its halls until, at last, they arrived at a specific door. There was High Elvish writing on the door, but Ranthia barely had time to parse out what she assumed to be a name and something about a mind before Avyna opened it.
+
+They were waved past an elf at a desk, through another door, into… the strangest room Ranthia had ever been inside. An elven woman with tightly braided, pale blonde hair that almost hid her short, pointy horns was seated behind a desk, with multiple bookcases behind her. That was predictable enough, Ranthia had been in plenty of offices. The rest of the room, in contrast, was laid out more like a personal place of leisure. There were plush chairs and couches scattered around the available space and there was an inscribed pot with delicate-looking little teacups on a table near the doorway that they came through, along with a box of baked goods.
+
+“Ah, welcome. I take it that this is the newly immortal human that you told me about, Avyna.” The woman waited for Avyna to nod, before she smiled in Ranthia’s direction. “Ranthia, I believe was how she pronounced your name. Or would you prefer to go by Grace while you are here?”
+
+Ranthia’s eyes went wide and she sloooowly turned to face Avyna. She wasn’t quite accusing her beloved of anything, but she definitely needed clarity about what in Xaoc’s glory was going on!
+
+“Please be at ease, I am under an obligation to never divulge any information about any patients. What you or your friend share is completely confidential.” The woman behind the desk hurriedly offered.
+
+“<Gemheart, love of my life, please explain.>” Ranthia quietly requested, relying on the fact that the unknown elf who knew secret things had only spoken Creation.
+
+“<Do not be so melodramatic, my love. She is a well-recognized [Mind Healer], a sort of mental health counselor, trained and licensed by the Tympestshard Council. …Perhaps not as well-recognized as I would have preferred, but I count myself fortunate that I was able to find a counselor of her caliber that was available, especially on short notice. And no offense intended to you, it is just…>” Avyna offered Ranthia a reassuring smile and squeezed her arm one last time before she released it. Avyna then turned to the mysterious woman and spoke in Creation. “My love—my chosen, contracted partner—has been through quite a bit. I suspect that she will prove to be a challenging case.”
+
+“Ah, my apologies for misunderstanding the status between the two of you. Avyna, if you would, could you please wait in the lobby? My assistant can provide you with refreshments. Ranthia—or Grace, if you rather—please, have a seat wherever you like.” The braided elf requested.
+
+“I will see you after, my love. You can trust her.” Avyna promised, before she gave Ranthia a quick kiss and departed.
+
+Ranthia sat awkwardly in a chair—gods, that was unfairly comfortable—and looked at the woman. She smiled politely.
+
+Ranthia sat there. The elf asked a few simple questions, but Ranthia remained silent.
+
+Instead, she just sat. More questions came and Ranthia began to squirm.
+
+Abruptly, Ranthia sighed and stood. Without a word, she quietly marched to the door and opened it to pass through.
+
+“<My love, I know that I did not discuss this with you, but our contract requires you to see a [Healer] if I insist, and I will not—>” Avyna began speaking as soon as she looked up from her own cup of tea.
+
+“<Gemheart, that’s not why I came out.>” Ranthia interrupted. She only resumed speaking once Avyna closed her mouth and nodded. “<You are certain that she is unable to share anything that I say? Not with anyone?>”
+
+She had already put the pieces together, ever since Avyna had called the woman a type of [Healer]. Even if their contract hadn’t obligated it, Ranthia would have still been inclined to trust Avyna and give the woman an honest try. But there was something she had to be absolutely certain about.
+
+“<Absolutely certain.>” Avyna answered, mirroring Ranthia’s exact thoughts to an uncanny, but unsurprising, extent.
+
+Ranthia sighed and nodded before she turned around and walked backwards through the door, closing it again once she was clear. Committed or not, she needed a moment—she continued to face the door while she gathered her courage.
+
+“Would you like some tea?” The braided elf offered the moment Ranthia turned to face her.
+
+“Got anything stronger?” Ranthia asked hesitantly, with a… wry—definitely not shy—grin on her face.
+
+“How about we just start then. If necessary, I do have a bottle. Barrel-aged for three centuries. Impress me and I’ll open it.” The elf replied with a polite smirk.
+
+“Fair enough,” Ranthia replied while she returned to the dangerously comfortable chair. “So, my first memory I possess is of dying.”
+
+The bottle was broken out less than a quarter of the way through Ranthia’s session. The elf kept her promises, it seemed. …That or it was a scheme to convince Ranthia to open up and admit some of her heavier secrets.
+
+By the time Ranthia left, her emotions roiled within her, but she had committed to seeing the woman every three days for as long as she remained in Coalition City. Ranthia wasn’t so sure that it helped, but… it was nice to talk about some of it with someone new. Someone that offered something a bit different than quiet comfort.
+
+“<Welcome to our home away from home for the next—>”
+
+“<Please don’t say it.>”
+
+Avyna rolled her eyes at Ranthia’s interruption. Ranthia’s emotions were a bit too raw for her to risk yet another argument about whether or not they would spend multiple years in Coalition City. She did her best to convey that with a look filled with equal measures of pleading and exasperation.
+
+“<Fine, for now just come inside.>” Avyna mock-grumbled with a loving smile, even as she pulled Ranthia through the doors.
+
+The building had looked… fairly standard from the outside, but as usual with facilities in the elven districts of Coalition City, Spatial nonsense had made it far larger on the inside. Behind the counter was a tall woman with red skin and… bat-like wings that reminded her unnervingly of the shimagu twin that had so nearly ended her life all too recently.
+
+Ranthia couldn’t help but to gawk—she had never seen any being quite like the woman. She knew Avyna was trying to silently—yet urgently—communicate that she was actively being mortified by Ranthia’s behavior (which was, admittedly, somewhat openly rude). But Ranthia had never seen a devil, and the descriptions hardly did them justice! If the woman was a typical example, they stood out in ways that no other species she had ever seen did.
+
+“Welcome back, Lady Avyna. And this must be Lady Grace, welcome. Is this your first time meeting a devil? Do not worry, I am not here to bury you in rules and regulations! I am Lithée, the owner of this resort. I cater to the relaxation and rejuvenation of my fellow immortal women, as well as their guests.” The woman smiled and bowed while her wings followed the movement with ease. Her words were meticulously pronounced and bore a deliberate clarity that few speakers could match.
+
+“My apologies, I had never expected to encounter a devil, even in Coalition City.” Ranthia admitted.
+
+“I am not surprised; we are quite a ways away from the territory that my people currently possess. I am only here for the cheap rent and the captive, yet bored audience of immortals. Someday, I hope to create the greatest resort for the relaxation and enjoyment of all immortals throughout Pallos, and this seemed like a perfect opportunity to get some practical experience. If you need anything during your stay, please let me know. I shall be happy to accommodate anything that I can… for the right price.” Something about the woman’s smile managed to intimidate Ranthia, at least a little.
+
+…Which was ridiculous, considering the woman was barely high-level enough to have her third class.
+
+She buried the small voice in her mind that suggested that the smile reminded her of Avyna’s expression when her lover was excited about the prospect of crushing another would-be [Merchant] to make a massive profit.
+
+Life in the resort was oddly pleasant, which was a nice surprise because Ranthia had honestly expected to hate it, once she learned what a resort was. The facility was limited to women, in large part because a competing facility catered exclusively to men. Clothing was optional—which was always dangerous with how attractive almost every immortal woman seemed to be, especially the elves. Not that she let her lust keep her from casting off her own garments (except her blindfold, to Avyna’s exasperation), especially since Avyna eagerly stored her own clothing for use when they needed to take trips outside of the resort.
+
+The air was gently perfumed, and everyone was just so… nice. Ranthia had expected to be treated as an outsider, but no one seemed to mind her presence. The women that worked there and the relatively small number of other, usually short-term, visitors were polite and friendly. A few even took interest in her Sentinel career.
+
+Not that Ranthia entertained requests for stories. She wasn’t ready for that, and her [Mind Healer] was permitting her to keep her professional life “walled off” for the time being. Even Ranthia knew it wasn’t something that would or could last forever, but it helped at the time. She wasn’t Sentinel Grace, semi-famous war hero—she was just Ranthia, romantic partner to Avyna.
+
+By winter, Ranthia had settled in. She actually had to be reminded by Lithée at one point to put clothing on after she nearly walked right out the door without anything on her body except for her blindfold and her sandals. Every day she woke up to a fresh fruit and pastry tray delivered to their room by a delicious delightful woman, loaded with pears. She and Avyna spent most days together, either holed up in their plush room or enjoying the amenities of the resort. Sometimes they even ventured out to catch an entertainment performance or to eat at a restaurant with a higher-level chef (or a different style of cuisine—it was as if she was discovering new archetypes of food almost every time!) than the resort offered.
+
+For Avyna’s birthday, Ranthia borrowed one of the cute little hats the employees wore and snuck out of the room before Avyna woke up to intercept their morning fruit tray. They otherwise failed to leave their room that day and had to order food up to their room when they finally required sustenance to appease their growling tummies.
+
+Ranthia also continued to meet with the [Mind Healer] every three days, as promised. She had remained pessimistic about the woman’s value for a while, but by the time she concluded the twelfth session, she finally was ready to admit that her discussions with the woman truly were helping. She wasn’t quite sure what it meant for her yet, but she continued.
+
+Of course, Ranthia knew that their days of hedonistic bliss couldn’t last forever. Sooner or later, she needed to rediscover whatever willpower or inner strength that seemed to be beyond her reach. The war was still being fought in her absence, after all.

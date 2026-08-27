@@ -1,0 +1,87 @@
+---
+id: cd7876bd-cade-5610-93e1-109874f1d0b1
+page-type-slug: story-chapter-royal-road
+title: "138. Fragments of Humanity"
+slug: 0138-138-fragments-of-humanity
+partOf: breaker-of-horizons
+position: 138
+ownLength: 2031
+unit: words
+publishedAt: 2021-08-26
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/740278/138-fragments-of-humanity"
+royalRoadId: "740278"
+---
+
+Now that he was alone, Ambrose saw no point in concealing his true feelings. He was eager to rake over the experience of unfolding the Nightwatcher's sequence in order to try and figure out the mechanics of what had happened. A small part of him did feel somewhat troubled by what Jerric had said, but in his heart, he knew that he did not really care all that much. Arcanophany was his one, all-consuming interest. If he felt a pang of regret and loss about how it distanced him from the people he considered his friends, then it was overshadowed by the sheer sense of curiosity and wonder at what had just occurred in the arcana.
+
+He was familiar enough with the glyphs to make use of the sequence through visualisation alone, but he pulled some arcana together to project the entire thing so he could make use of his physical eyes to look over the whole thing, hoping that having it right there in front of him might help him come to some insights.
+
+Even though he hadn't invested the projection with enough arcana to be self-fuelling, it hung in the air with a sort of deadly intensity. The very nature of the glyphs that composed it seem to lend it a certain weight that other commercial sequences did not have.
+
+Back when the Nightwatchers had first given him this sequence to memorise, he hadn't yet learned about oblivion, or even about the arcanic sea. And yet, despite those handicaps, he managed to commit it to memory almost by instinct. Now that he was more familiar with the mechanics of the arcanic sea, and even how arcanophany extended into oblivion, he wondered if studying this sequence in those other dimensions, with the use of those other senses, might help him really know this sequence in its entirety.
+
+Ambrose glanced out the driver's door. Jerric had apparently decided not to resort to arcanic-enhanced momvent, so he was still only just beginning to trudge up the little hill to where Devon stood, gazing out over the distance.
+
+There was time. Sliding into the arcanic sea took no effort, and he could do it while still keeping half his attention on the world around him so he'd be able to dismiss the projection of the sequence if the other two came back. Even if he wasn't quite emotionally bothered by what either of them thought, he did think it'd be wiser not to give Devon any more cause to be upset.
+
+In the arcanic sea, Ambrose could take in the essence of the glyphs with more clarity. When he used it earlier, things had happened too quickly for him to really study what was happening. Now, though, with the whole thing suspended before him, he could pick out the little strands of meaning and intention that were traced through the glyphs. Even in this undeployed state, without a single trickle of arcana being fed to it, the sequence felt tense, like a coiled spring.
+
+Since he had actually watched it in action, he knew a little more about what to look for, and so even though he had never studied the codified meanings of some of the glyphs, he was able to rely on his instinct to slowly pick the whole thing apart.
+
+First, he looked for the part that defined the boundary of the protection. That was easy enough; it was a standard set of glyphs that served as the almost-universal marker for area-of-effect sequences — a circle with some specific notations to indicate whether it was meant to target the things within it, or the things outside of it. But it didn't necessarily mean that the sequence's target area was perfectly circular or spherical, because that depended on the arcanist's focus or on other glyphs. Given that the sequence had done some complex targeting and managed to only preserve the trailer and its inhabitants, Ambrose expected to use it as a reference point to understand the other parts of the sequence.
+
+But there he met with the first surprise. The circle was notated on both sides, which he did expect, because it was likely that the sequence was acting in one way towards those inside the protective envelope, and acting another way towards those outside it. However, at first glance, it didn't look like there were two different clauses meant to affect each side different. There appeared to be just one effect, applied to both sides of the circle. But if that was the case, why have any demarcation at all?
+
+He had nothing to go on here, so he tried 'listening' to the sequence. It hummed with power, with cleverness, with even a sort of impishness, but it yielded no insight into how it worked.
+
+Momentarily stymied, Ambrose focused on the portion of the sequence that described its effects, hoping to glean something from it. He turned over the memory of watching it in action, trying to bring to mind the 'song' of it when it had subsumed them and somehow preserved the shape and memory of their auric-ambient-flares.
+
+One glyph in the sequence seemed to throb a little, almost as if in sympathy with his memory. He zoomed in on it and picked it apart in his mind's eye.
+
+It was one of the more baffling-looking glyphs. He knew its shape well enough since he had memorised it, but now that he was paying more attention, he realised that the figure of this glyph involved more than just its physical shape. He could have written it down on a piece of paper, but it would have been only a pale imitation of itself. Here in the arcanic sea, he saw the way arcana was meant to flow through the glyph itself in little looping patterns, almost as if it held other glyphs within its figure.
+
+Almost as if it extended even further beyond the arcanic sea.
+
+Ambrose glanced out the trailer again. Jerric was on the hill with Devon now, but it looked like they were in the middle of a conversation. He hesitated for a moment, then folded his mind in on itself and into oblivion.
+
+And there it was, extending deep into oblivion, so far that it actually hurt a little for Ambrose to try and follow where it went. He steeled himself and tried to divest his thoughts of all spatial awareness, trying to think in terms of the purely abstract, not tied to the physical dimension. But it wasn't working. The glyph pointed, and he was forced to look somewhere, but he didn't know where, or how far, or actually even how to look. He tried for a few more seconds, but the mental strain was too much, so he shunted himself back into the arcanic sea with a frustrated sigh.
+
+He was just in time to see Jerric and Devon turn on the hill to face the trailer. There was a little burst of arcana as they wrapped themselves in dense shields and hurtled back towards the vehicle.
+
+"What's wrong?" Ambrose yelled as they approached, extending his senses to try and spot what had spooked them. At the same time, he built up a little sphere of arcana, then applied a modified version of what Jerric had done earlier. A wave of energy raced through the arcanic sea — too weak to do any real damage, but solid and cohesive enough to have a physical impact. It disturbed the air and sent a wave of dust across the scene.
+
+When his pulse met Jerric's and Devon's shields, they flashed briefly with the impact, then began to glow a soft blue. Jerric looked surprised for a moment, but he met Ambrose's eyes and flashed an approving grin.
+
+But the smile on Ambrose's face died as he saw two spheres, glowing red. They were perhaps half a mile away in mid-air, just coming into view over the crest of the hill.
+
+By then, his friends had reached the trailer. Jerric threw himself in through the door in the side of it while Devon sprang back into the driver's seat and floored it without hesitation.
+
+"Felt a sequence being built," Jerric explained. "Not as bad as the ones that hit us, but something big. They abandoned it as soon as we moved, so it must be less nimble than the earlier stuff."
+
+"I saw them," Ambrose answered. Even though he was now seated properly back in the front passenger spot, with his attention on the arcanic sea and with the pulse that had painted their shields, he had no trouble keeping track of where the hostiles were.
+
+Just as he thought he had them, however, he lost their position. Their shields had winked out of existence, and with nothing to attach to, the 'painted' arcana that Ambrose had stuck onto them fell apart as well.
+
+"No you don't!" he snarled, pulling together more arcana as rapidly as he could. He stabbed out with sheer force of will, scything a wide area around where they had last been.
+
+He was rewarded with a satisfying crack that he felt as his sequence-less attacks made contact with invisible shields, and he grabbed hold with metaphysical hands. He couldn't sense even the faintest flicker of an auric-ambient-flare, but he was definitely holding on to something. He had two points in space to target.
+
+There was no room for finesse here. He couldn't use the sequence that would literally tear apart the enemies' auric-ambient-flares because they were veiled, but he wasn't intending to do something so nuanced. Wordlessly, he pulled Jerric and Devon into a gestalt and yanked all the arcana they could spare out of them, while almost completely hollowing himself out. Then, with the formidable mass of power, even though he wasn't sure exactly what the consequences might be or how it would work mechanically, he applied a frameshift to the shield-piercing sequence, and turned the whole thing on those two points of focus. But instead of actually aiming for what might be there in the arcanic sea, he aimed at the arcanic sea itself.
+
+The shield-piercing sequence did not stab out of the trailer and into the sky. With Ambrose's frameshift, it did not appear on the physical plane at all. But all three of them felt a horrible twisting in the arcana, and a dreadful emptiness that made even Devon and Jerric shudder as the sequence took hold. Ambrose, however, was the most affected — he wrenched himself out of the arcanic sea with a cry of pain.
+
+"Oh Fates," Devon whispered, bringing the trailer to a halt. He got out and stared up at the sky.
+
+Jerric got out too and let out a gasp. Ambrose followed a moment later, though he held a hand to his head in a vain attempt to soothe the horrible headache that had sprung on him with terrifying suddenness. He turned his eyes upwards to see what he had done.
+
+It was fairly obvious that he had killed another two people. Even from half a mile away, they could all see two specific points in the sky. They were some distance apart, which meant that they were likely trying to take up new positions and strike from different directions. Now, though, their positions were marked by two spherical distortions in the otherwise untroubled blue sky. There, the air twisted and knotted in on itself, like some bizarre blend between a heat haze and ocean waves. Flashes of light erupted from them, not quite blinding, but still painful to look at, randomly throwing off odd colours that somehow felt sickening.
+
+"Look. Around those spheres. Are those..." Jerric trailed off.
+
+Ambrose squinted. He thought he saw things drifting around them, but he couldn't be sure.
+
+"Bodyparts," Devon confirmed, looking sickened as he turned away.
+
+Devon was right. For a moment, the angle of one of those floating bits aligned nicely with a flash of light that made its silhouette perfectly clear for Ambrose, even at this distance. A head, half a torso, and an arm.
+
+"Fates," he breathed. But this time, he managed to keep the awe and wonder out of his voice.

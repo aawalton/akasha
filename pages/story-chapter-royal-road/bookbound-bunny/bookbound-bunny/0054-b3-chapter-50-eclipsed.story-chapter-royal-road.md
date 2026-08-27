@@ -1,0 +1,189 @@
+---
+id: add4df3e-a109-5d30-b45f-b578723e4f13
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 50 - Eclipsed"
+slug: 0054-b3-chapter-50-eclipsed
+partOf: bookbound-bunny
+position: 54
+ownLength: 2674
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3499818/b3-chapter-50-eclipsed"
+royalRoadId: "3499818"
+---
+
+"That's a big door," Lotte said, pointing out the obvious.
+
+Lily and Hana both nodded, staring at the strange door. It had seemingly appeared out of nowhere, as if it simply grew out of the wall. The thought was on everyone's mind: was this the final challenge of the first floor?
+
+"We should have enough time to take a break and be ready before entering," Hana said, consulting her dungeon pass.
+
+Usually, it would be rather hard to tell the time on this floor in particular, and magical items that could tell the time were few and far between. To solve this, the students' dungeon pass would gradually turn red when their time was nearing, and if you were good enough to judge the intensity, you could determine roughly how much time you had left.
+
+The glowing red dungeon pass was the enemy of all the first years, as it meant an end to their attempt at finally solving the puzzle of the first floor, not to mention their treasure hunt.
+
+As for Lily, she quickly asked Arakil if there wasn't a glyph that could determine the time, and thankfully, there were several, depending on how you wanted to go about it. You could use a fire or light crest to make a glyph to determine how high up the sun still was, or a shadow glyph to tell how close it was to night.
+
+Obviously, there was a glyph related to time itself, but Arakil held back from showing it to Lily, on one of the rare occasions when he said it was too much for her to handle. The only other occurrence of this that came to her mind was when she asked if she could learn the teleportation glyph he had used to threaten the dungeon.
+
+But regardless of all that, Lily could actually predict the time herself with a disturbing amount of accuracy. She had casually mentioned it a few times, and when her friends double-checked, they often found she was spot on. Naturally, she had no answer as to why this was possible, as she thought she was just guessing, but Arakil later revealed that she could thank her Astral Core for it, as it was likely counting down the time to moonrise.
+
+"More than enough time," Lily replied, confirming what her Astral intuition was telling her.
+
+The trio scarfed down some food and drink, not caring about appearances or manners. They also began taking stock of their remaining supplies, as they all felt this was their moment. Lily shared some firebolt talismans with her friends, as fire always seemed effective against the undead, and even the Brassbound weren't entirely resistant.
+
+Lotte was feeding Jade more concoctions, so much so that her belly was starting to bulge and slosh with the fluids. Not that the lizard complained, if anything, she was upset when the final bottle ran dry.
+
+"Hopefully that's enough for you to spit until the guardian is dead," Lotte said to her.
+
+Hana was double-checking her remaining crystal discs and psyching herself up. While Lily and Lotte were rather tired, she was still full of energy and practically bouncing around.
+
+"I should draw a glyph…" Lily suddenly said, sensing she had enough time to do so.
+
+Her friends quickly agreed, as a proper glyph was more than enough to change any challenge in their favor. Lotte had witnessed it in the camping trip more than enough times, and Hana had heard stories about it. If anything, she was eager to see it firsthand.
+
+Lily quickly brainstormed what she had available and quickly settled on arcane force. She hadn't truly gotten to try it out in the forest when defending their mini-fort, and while she had drawn a few simple magical bolts into talismans, they weren't nearly as impressive due to the limitations.
+
+As soon as Lily pulled out her wand, it was like her presence had suddenly shifted. She became entirely focused, and she waved the wand with grace and precision.
+
+"Really makes you feel like she can do anything when she pulls out that wand," Hana whispered.
+
+"I know what you mean. If I hadn't seen all the notes and endless pages of drawings, I'd probably say it's unfair," Lotte whispered back.
+
+Despite her friends' efforts not to distract her, her ears were just too sensitive, and she picked up their whispers. Thankfully, she was more than capable of drawing with a distracting audience at this point, as this was one of the practice drills Arakil had put her through.
+
+While Hana had made a rather casual remark, for Lily, who still had belief and willpower tickling away at the back of her mind, she couldn't help but wonder if this was an opportunity knocking. Her friends already believed in her when she pulled out the wand; what if she got the other students and even the teachers to join in?
+
+[Is something the matter? You made a small mistake with that sigil.]
+
+{Sorry… Hana just gave me an idea.}
+
+[Oh? For the dungeon, or something else?]
+
+{About collecting belief.}
+
+[Interesting… We'll talk about it later, as I don't want you to be distracted when your companions are counting on you.]
+
+Lily silently agreed and put the thought at the back of her mind. Now that she had told Arakil about it, there wasn't a chance of absentmindedly forgetting about it.
+
+Silencing the distractions with determined focus, Lily quickly corrected her minor mistake and continued until she finished her creation. Technically, this was an inscription, not a glyph, although just barely. It contained two glyphs, but both were identical, so Lily refused to count it.
+
+Stacking identical glyphs together was, in effect, a small cheat to gain inscription-level power without worrying about overall balance or integrity. Of course, this was assuming you could make glyphs that were like twins or "Identical in all but the most infinitesimal variance," as Arakil put it.
+
+Lily triple-checked the finished product and then grabbed it with the wand's relocation function, letting her friends know she was ready when they were.
+
+"Anything we're forgetting?" Hana asked.
+
+Lily and Lotte shook their heads.
+
+"I just hope there isn't another bigger door behind this door," Lotte joked.
+
+The three gave a nervous chuckle. If this wasn't the final challenge, then their preparations had killed any chance of continuing afterward. Still, Lily had a good feeling about this and not just because she had blessed them all with Lunar Radiance.
+
+Hana reached for the door, but as her hand brushed it, it trembled and began to open. The trio tensed as they got ready, with Hana and Lotte taking point while Lily followed in the rear, carrying her inscription.
+
+The room they entered was a massive chamber, reminiscent of the hall that Alice had taken them to, where they split up and fought Brassbound. Just like then, Brassbound were lining the walls in rank and file, but unless they approached, they would stay inactive.
+
+"Is that… A throne?" Hana asked.
+
+At the end of the room was a massive marble throne, but when Lily looked at it, she wanted to scream at her friend. Yes, the throne was big, but sitting on the throne was something even bigger!
+
+"Screw the throne, look at the size of that Brassbound!" Lotte shouted, stealing the words from Lily.
+
+Seated was what appeared to be a Brassbound, although Lily wasn't sure, as normally their joints wouldn't be articulate enough to bend like that. This was why they were relatively low-level threats and easy to handle as they slowly stumbled along. But if this big fellow were more flexible, then it wouldn't have the same weakness.
+
+"Is that the guardian?" Lily whispered.
+
+"It has to be, it's double the size of the one in the gauntlet," Hana said.
+
+"Well, we will find out when we defeat it," Lotte said confidently.
+
+The three shared a glance and nodded. They began approaching the throne, paying careful attention not to get too close to the Brassbound lining the walls and activating them.
+
+"Very fitting for a final challenge, if we aren't careful, we will have to fight a lot of extra monsters," Hana mused.
+
+"Should we fight them now, rather than risk them waking up later?" Lotte suggested.
+
+Lily shook her head. "What if attacking them activates all of them, or worse, all of them and the big guy!"
+
+The two glanced at the unmoving figure seated on the throne and quickly nodded. Of course, there was the risk that attacking the 'king' Brassbound would wake up the servants, but the dungeon wasn't supposed to throw impossible challenges at them, according to everything Alice had taught them.
+
+And the agreement between it and Arakil.
+
+Arakil had given no warnings upon entering, so this must have been deemed fair in his opinion. He also wouldn't throw out the answer, as solving everything for her would stifle her growth.
+
+As they neared the throne and got in range, they noticed that it wasn't just a Brassbound. Instead, it looked like a giant skeleton wearing a Brassbound as armor, and a large stone sword leaned against the throne.
+
+"Well, a skeleton combined with a Brassbound is very fitting for the first floor," Lotte commented.
+
+"Do you think killing the skeleton will defeat it, or do we need to deal with both?" Hana asked.
+
+It was a good question. Arguably, if it were just the skeleton, they would have quite an easy time. If Hana could penetrate its defenses, she would quickly deal with the undead. Lily used her Magesight to try to get an answer, but with the Brassbound armor glowing brightly, she couldn't differentiate it from the skeleton inside.
+
+"Let's just assume it's both. It's safer that way and more fitting for a final challenge, don't you think?" Lotte suggested.
+
+Lily nodded. "I think so too."
+
+Hana turned to Lily and smiled, giving a bow and gesturing to the monster. "Well, care to do the honors?"
+
+Lily gave a small giggle and motioned with her wand to set up the inscription. However, before she activated it, she began gesturing with her free hand while reciting a short incantation that sent chills down her two companions' backs.
+
+The baleful power of the Lunar Eclipse was summoned onto the enemy, summoning an appropriately sized dark crescent moon above its head that blanketed it in an ominous aura. Lily's actions stirred the monster, activating the room's challenge.
+
+"Interlopers! You dare sully my throne room!" an ancient voice boomed from the skeleton as it began rising.
+
+But none of them were willing to let the monster do as it pleased, as they all fired spells at it.
+
+Hana cautiously tested the waters by shooting blades of wind and then a beam of light, all of which seemed incapable of penetrating the Brassbound without assistance.
+
+Lotte unleashed a caustic snake spell, which sank its fangs into its head, while Jade hurled up some noxious phlegm that stuck and sizzled to its chest. While those looked effective, it was evident that this armor was tougher than normal and would require repeated attacks to breach.
+
+As for Lily's inscription, it surged with life as she activated it. Dozens of magical bolts were fired out and crashed into the giant monster. While they weren't enough to penetrate its defense, the sheer concussive force was enough to unsettle it, preventing it from standing up from its throne.
+
+The monster had also been reaching for its sword, which rested against the throne, but by chance the back of its hand brushed the hilt, sending it toppling to the ground and out of its immediate reach. Hana and Lotte involuntarily shivered, as if knowing full well why that had happened.
+
+With the king still forcibly seated on the throne, the group was already moving on to their next attacks. Both Lily and Hana were reaching for their pouches while Lotte kept up the attack, trying to melt through its outer layer of defense. Jade continued spitting, and while her spirit was in the right place, her accuracy left a lot to be desired.
+
+Hana threw up a disc and cast a beam of light into it, which quickly shattered it, but not before unleashing a concentrated laser straight at the monster. With the light magic excessively focused down, it almost penetrated straight through the armor.
+
+At the same time, Lily had thrown out crystal seeds after imbuing them with Mana to awaken them. As they landed, they began to grow fiercely across the surface, sealing the monster's legs. Her attack crystals were written off as useless against such an enemy, which was why she settled on hindrance.
+
+Although it wasn't what they had initially planned, all three seemed to unanimously agree to keep the monster from ever rising from its throne. Not only would it be a sitting duck, but they wouldn't even need to worry about defending themselves.
+
+"Let's aim for the chest together," Hana said.
+
+"Sounds good!" Lotte confirmed.
+
+Lotte refocused her efforts on the chest, and Jade tried her best to follow suit. It was the bigger and easier target to concentrate on, but the king was now trying to use its arms to protect itself rather than unseating itself.
+
+Lily was going to join in on the attacks with Starburst, but seeing the flailing arms, decided otherwise. She pulled out her remaining batch of crystal seeds as well as a wind talisman. Combining the items together, Lily fired them at the monster, whose arm moved to block them, just as she had expected.
+
+"Got you!" Lily mischievously cheered.
+
+The massive arm collided with the wind-propelled seeds, but that was exactly what Lily had been hoping for. The seeds, having met a surface fully activated, began growing crystals over it. As they grew, the arm began growing unresponsive and soon was immobile, sealed within the trap.
+
+That gave Lotte and Hana the perfect window of opportunity to combine their efforts. Acidic spells were sizzling through the air while Hana began focusing more beams of light through discs, specifically targeting the weakened areas.
+
+"Stop! How dare you! Dishonorable cretins!" the ancient voice bellowed, but the trio couldn't care less as they only had victory on their minds.
+
+In what could only be described as the perfect moment, their attacks perfectly lined up, and the king's remaining arm failed to block the tricky serpent that struck the chest. Then, with impossible speed, a ray of light struck the same spot, puncturing through it and striking the creature inside.
+
+An inhuman howl echoed out of the armor, and it seemed the skeleton inside had been dealt a fatal blow in one strike. Black flecks erupted like a geyser out of every nook and cranny in the armor, especially the hole the two girls had just created.
+
+Undead really hate light magic, Lily concluded.
+
+Yet despite the master being defeated, the armor still creaked with life. It looked like their theory was correct: two monsters were combined, yet without the skeleton to guide it, it seemed far more dumb and clumsy.
+
+From there, they continued bombarding the armor with spells. Lily joined in, finally throwing out Starbursts as it had proven in the past to be quite effective against the Brassbound by stacking up enough stardust.
+
+Under the constant magical assault, the armor eventually exploded into a black mist, and with it, the throne it sat on suddenly collapsed. The girls were shocked, and when the floor under the throne began to crack and crumble like a sinkhole, they panicked.
+
+Yet the cracks never approached them, and when the dust settled, what they saw was a massive staircase hidden beneath the throne and leading down.
+
+"We… Did it?" Lily asked, almost in disbelief.
+
+"I think we did…" Hana replied.
+
+Lotte jumped up excitedly, bouncing on her heels. "Heck yeah, we did!"
+
+Lily let out a breath of relief, looking at the staircase down. Joy and pride flooded her as they had finally beaten the first floor.

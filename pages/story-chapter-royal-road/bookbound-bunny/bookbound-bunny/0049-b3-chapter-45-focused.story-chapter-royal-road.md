@@ -1,0 +1,169 @@
+---
+id: 5c7796e9-c5ac-5839-a67c-4e79588e7f5c
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 45 - Focused"
+slug: 0049-b3-chapter-45-focused
+partOf: bookbound-bunny
+position: 49
+ownLength: 2862
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3435033/b3-chapter-45-focused"
+royalRoadId: "3435033"
+---
+
+The crystal crafting went rather well, and Lily was delighted at learning how to handle the different shapes more efficiently with Arakil's guiding advice. In fact, Arakil even went a step beyond and suggested that Lily make a few more with rather specific designs, which he later revealed were called prisms.
+
+According to Arakil, a prism could be used to disperse light, and he thought it might interest both Lily and Hana. When they directed light into the prism, a rainbow spectrum emerged, eliciting unbridled delight from the girls who watched.
+
+Hana was so enthralled that it was written on her face that she regretted asking for a diamond shape, but Lily handed over one of the prisms without too much fuss. Thanks to her wand, these only cost her a bit of time and Mana, so it really didn't occur to her the price of crystal in the world.
+
+[You know… If you want to help out your friend, you could make her some crystal tools to aid her light magic.]
+
+{Really? I'm kind of surprised, you'd normally say something like that was a crutch.}
+
+[Well, for your education and as my apprentice, I'm against relying on crutches too much. For your friend, though, it would actually be a reasonable way to help her. Assuming you want to still give all of your friends a scroll, the advice I can give her at her current level of light magic would be extremely limited. But, with a crystal tool, she can be introduced to two techniques far sooner than would be normal.]
+
+{That sounds like a great idea! But you sound a bit more invested in this than usual…}
+
+[I'm quite curious to see if her bloodline will react to her learning about these. There's a chance it might be triggered to induce one of those bloodline intuitions we keep hearing about.]
+
+Now Lily understood why such an out-of-the-blue recommendation was made: it was to quench Arakil's thirst for knowledge, and since it had no downsides, she agreed. The design for these crystals was unfortunately beyond her, so it involved a lot more copying premade designs than their usual lessons.
+
+Perhaps sensing Lily's dismay, Arakil also included a few extra subjects into the lesson, which, while complex, were within Lily's grasp. One such item was a type of auxiliary glyph specifically for crystal inscriptions, and its function was to cause branching growth for the crystal, perfect for increasing production.
+
+Arakil explained that, like plants, one of the greatest strengths of crystals was their growth, and this would be vital as Lily learnt more combat-oriented inscription designs. As for the items themselves, they appeared as small discs, and Lily, for the life of her, couldn't understand what made them special until she held one of them up to her eye.
+
+"It's a magnifying glass?" Lily asked.
+
+[Crystal.]
+
+Lily rolled her eyes. "A magnifying crystal…"
+
+[Correct. These are considered disposable magical tools, as mentioned before, as you cast your light spell through them, destroying them in the process. However, this allows the user to better focus their light spells. You could use this for both Moonlight and Sunlight, for example, although in your case, it wouldn't be destroyed.]
+
+"So it's only disposable for attack spells?"
+
+[Yes, although focusing a light spell can dramatically increase its potency. On the other end, we also have discs designed to defocus the light beams.]
+
+At first, Lily couldn't understand why that would be seen as a benefit, but, thinking back to the prisms, she had a vague idea.
+
+"Is it to increase the area of effect?"
+
+[Precisely! Although at the cost of its potency. But for the dungeon in particular, that should be perfect, as when you require greater coverage that often involves a swarm of weaker foes.]
+
+Before Lily presented these crystal discs to Hana, she tested them herself. Just as Arakil described, they would either focus or scatter the light spell when aimed through them, respectively. However, while Lily could hold them and cast through them without any worry, the same could not be said for Hana.
+
+To use the disc without harming her own hands, she would need to throw the disc and fire through it, which would require a good amount of practice. Telekinesis was naturally a potential solution, but that also added the difficulty of maintaining a spell while casting another. Regardless of the approach Hana chose, she would need to train hard before these were usable.
+
+When Lily presented Hana with a box full of the crystal discs, she immediately refused, thinking Lily was showering her with precious gifts. However, after some explanation of their function and putting emphasis that these were 'cheap and disposable', she swiftly changed her tone.
+
+"I think you've just answered a mystery for me," Hana said, gazing through one of the discs with incredible focus.
+
+Lily tilted her head in confusion. "I have?"
+
+"My mother's side of the family used to be very close with the Mustelia clan; it's probably why I know considerably more about them than my peers," Hana admitted.
+
+"So it wasn't just Lotte and me being ignorant?" Lily asked with a slight chuckle.
+
+"Well, in Lotte's case, I think that's still the case, but apparently most people don't know about them. I suppose being a northern clan on the border of the kingdom means that they are more secluded than I realized…"
+
+"I see… So I'm guessing there's a lot of crystal on your mother's side of the family, and you suspect it was used for light magic?" Lily guessed.
+
+"That's exactly what I'm thinking. I've always wondered why, but now it seems obvious. Although I'm not sure why they had a falling out… Maybe it became too expensive for my family, maybe the Mustelia realized they were effectively selling weapons outside of the clan, or maybe they just grew apart?" Hana sighed, shrugging her shoulders and shaking her head.
+
+"Well, I certainly don't mind making them for you," Lily asserted confidently.
+
+Hana smiled softly. "Thank you, Lily…"
+
+"No problem! Especially since it means we will be able to clear monsters on the first floor faster, which I think is the solution to unlock the second floor."
+
+"Not that I'm complaining since I'm all about speed, but that seems rather unfair for other students, don't you think?"
+
+"Well, it's not specifically speed, but I reckon with our current limitations, it's become that way," Lily answered. "We've tried solving the maze, we've tried searching for hidden devices or exits, and none of those have worked, along with various other attempts. A few groups have suggested that it might be a duration requirement, which might be technically correct, but that would make it impossible for us to actually reach the second floor."
+
+Hana paused to think as she adjusted her glasses. "Are you suggesting we need to clear a certain number of rooms in a single trip?"
+
+"Yes! But with our curfews, that means it's effectively become a time trial. If not for that, we would've already unlocked the second floor. Sure, that's currently unfair for the rest of the students, but the majority of them aren't even allowed to explore the forest yet. When everyone gets access, I'm assuming our curfew will be lifted or eased."
+
+"That… Actually makes a lot of sense," Hana agreed, smiling brightly. "I knew teaming up with you and Lotte was the right choice! Who else could have thought of such an idea?"
+
+Lily smiled back, although it was a tiny bit awkward. Truthfully, it wasn't solely her idea, and she'd come up with the possible solution after discussing dungeons with Arakil. Finally, using her library access, the grimoire pages were magically filled with details on dungeons and their various trials and challenges, which Lily read during a mandated break.
+
+Hana was now extra motivated to incorporate the crystal discs into her arsenal, although, like Lily, she would be forced to use them only inside the dungeon.
+
+Unless she learns to magnify or scatter light on her own, as Arakil mentioned…
+
+With Hana also now involved with crystals, Lily was practically forced to inform Headmaster Fabrelis. She was a little nervous, but since they had already partially revealed the grimoire as the source of her discoveries, it was definitely easier this time.
+
+Requesting a meeting with the headmaster was actually easier than Lily expected, and it seemed like he had a lot more free time than she initially assumed. Then again, Lily also thought he might have made arrangements for her, since he had asked her to share more previously.
+
+When Lily informed him that she could draw inscriptions, he was understandably astonished. When she went on to explain that it was specifically to create a crystal, he genuinely thought she was joking, until she actually showed him one she had produced.
+
+"Impossible!" Fabrelis cried out, his calm and dignified image shattering in an instant.
+
+Lily actually expected the disbelief and had prepared some crystal seeds beforehand for a demonstration. The result left the headmaster speechless and beyond shocked. This was far beyond the Magesight, or even her Astral spells; this flew directly in the face of some well-established norms of magic as they knew it.
+
+Professor Ollie was immediately summoned, being forced to drop whatever he was previously occupied with as if it were an emergency. The flustered professor arrived looking like he was ready to go to battle, but when he saw Lily in the office, he relaxed with confusion plastered on his face.
+
+Another explanation and demonstration left the professor in a similar state to the headmaster, who, honestly, wasn't much better, even though this was his second time witnessing it. Lily had expected shock and confusion, but not to this extent, and wondered if she and Arakil had made a hasty mistake.
+
+Thankfully, the pair eventually calmed down, although at the cost of some rather intense questioning of Lily and what exactly she had drawn. Lily held very little back, effectively only hiding the true nature of Arakil, as there was no other way to explain the crystal inscriptions she had learnt. The guise was simply that she sought a way to be more prepared when exploring the dungeon, similar to the talismans she inked, and her Familiar had searched the artifact grimoire for a solution.
+
+Both the professor and headmaster requested to see the inscription, and Lily pulled out a page that Arakil had prepared, as well as one of her own drawings. The question on their mind was obvious: could Professor Ollie also draw this? Even Arakil was, admittedly, curious and watched with anticipation.
+
+"Nothing…" Professor Ollie eventually murmured, tugging at his bristled facial hair with some frustration.
+
+The professor actually understood very little of the inscription's design, recognizing only some of the earth glyphs. There was the accompanying scroll that Arakil had devised, which explained things, but Ollie had simply copied Lily's successful result to try to get an immediate answer. Drawn in blood at first, of course, much to Lily's dismay, and later even attempted with chalk.
+
+To Lily's great surprise, even Headmaster Fabrelis tried copying the inscription. Apparently, the headmaster was a bit of a dabbler, and while he wasn't proficient enough to design one of his own, he could copy a premade illustration. His attempts also failed, indicating that his Mana was incompatible.
+
+"Want me to call over one of my top senior students?" Professor Ollie suggested. "He's a human, so in theory his Mana should be neutral, unlike our own."
+
+Fabrelis paused silently for a moment before nodding. "Might as well, I had thought my own was uninfluenced since my bloodline lies in illusions, not the elements, but perhaps it is still tainted. If even a human can't activate this… Then perhaps the artifact somehow produced an inscription solely for Lily?"
+
+Professor Ollie nodded in agreement; evidently, exclusive inscriptions were not unknown to the two of them. "It's a pity we don't have any Mustelia students."
+
+"Even if we did, I wouldn't allow the attempt," Fabrelis swiftly rejected the very notion. "Whether these match the clan's own creations or not, either way, they would be furious and demand an explanation of where they came from."
+
+The professor seemed to realize what the headmaster was implying, and after flashing Lily an apologetic smile, nodded. The two double-checked whether Lily was okay with a student trying to copy the glyph, and Lily agreed again, as this was one of Arakil's biggest questions. There was no lock on the inscription, and if it was failing, the only reason could be incompatible Mana. Was human Mana truly neutral enough to work?
+
+If Thomas was good enough to copy an inscription, I would have asked him to draw it. This is unexpectedly good for Arakil!
+
+With the headmaster's help, as apparently he could summon illusions almost anywhere within the halls of Regarth, the professor's student was called over. Lily wanted to remain anonymous, and it looked like Fabrelis had the same idea, as he had her stand near a wall. Then, with the wave of his hand, he hid her behind a one-way illusion. This way, she could observe without being seen.
+
+After a short wait, a rather tall boy entered the room. He was polite to a point and seemed to hold both the headmaster and professor in extremely high regard. Lily soon learnt his name was Ryan, although she'd never seen the boy before, so he probably wasn't in Maranix.
+
+The explanation given was that Headmaster Fabrelis had acquired this strange page from the dungeon and that with the help of Professor Ollie, they had tried to replicate and activate it, after ensuring it was safe. Lily noted that the page and even the ink had been changed from its previous pristine luster into what looked like a lost relic, clearly the work of the headmaster.
+
+Ryan asked a few questions, but soon agreed and, in fact, looked extremely eager to do so. Lily could understand his presumed feelings all too well; an unknown inscription that even the professor in charge of enchanting couldn't activate? What mysteries could it hold?
+
+This was the first time Lily had watched another student draw with just as much, if not more, precision than she did. She fully understood why Professor Ollie had said Ryan was one of his top students, and even though it was drawn in blood, she couldn't take her eyes off his penmanship.
+
+Everyone was bubbling with anticipation when the final lines were drawn, and after confirming there was nothing wrong in the reproduction, Ollie gave the go-ahead to activate it. Ryan nodded, and as he moved his hand to touch it, the room held its breath.
+
+Unlike with Fabrelis and Ollie, there was a small spark that flashed through the inscription. It looked like it was going to work! But then, against everyone's expectations, after that momentary flash, the magical illustration seemed dead.
+
+"Did I make a mistake?" Ryan asked.
+
+"No, my boy, it looks perfect under my eyes," Ollie replied, giving a reassuring pat on his shoulder.
+
+Ryan sighed and then nodded. Some further questions were asked, and the pair of adults thanked him for his time and efforts before letting him go back to his own arrangements. After confirming he was gone, the headmaster dispelled the illusion and welcomed Lily back.
+
+"It appears that while we failed due to Mana-related issues, Ryan succeeded. Yet that was still not enough," Ollie speculated.
+
+Headmaster Fabrelis nodded in agreement, although he did end up requesting Lily to look over the inscription Ryan drew in case there was somehow a flaw that Ollie missed. Lily did, but there was no fault; it was masterfully drawn.
+
+"I suppose this inscription is locked to you… While that is probably for the best, I don't know if that will be enough for the Mustelia clan," Fabrelis said. "You have my permission to use this throughout the dungeon, but I ask you, for your own best interest, not to let others see it. However, should the worst happen, Regarth will do its utmost to shield you, I swear."
+
+Lily thanked him and, after a short conversation, eventually took her own leave. She was delighted that Regarth was willing to protect her and, once again, glad this was the school she had chosen. While casually walking back to her room, she finally spoke to Arakil.
+
+{What happened back there?}
+
+[His Mana was close to being perfectly neutral, but what caused an issue in the inscription was the injection of a little bit too much wind. I suspect somewhere in his family, there might have been a demi or otherwise related to a wind bloodline.]
+
+{Could it be because he is a wind mage?}
+
+[No, in fact, I suspect he is an ice mage. He had a notably colder aura and was dressed far warmer than the other students. His hands were also gloved, which he took off before drawing.]
+
+Lily hadn't even noticed those small details and was surprised by how quickly Arakil had pieced together an answer. They continued chatting in secret as they strolled back.

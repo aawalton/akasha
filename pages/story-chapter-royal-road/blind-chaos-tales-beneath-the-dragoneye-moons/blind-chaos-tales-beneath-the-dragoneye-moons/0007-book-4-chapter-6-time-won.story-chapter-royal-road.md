@@ -1,0 +1,313 @@
+---
+id: f794c475-76b5-5d51-aa90-049c410d1fbd
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 6 - Time Won"
+slug: 0007-book-4-chapter-6-time-won
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 7
+ownLength: 5910
+unit: words
+publishedAt: 2025-08-13
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2515996/book-4-chapter-6-time-won"
+royalRoadId: "2515996"
+---
+
+Night kept them moving at a desperate pace until the two of them had gained quite a bit of distance from the shimagu before he finally slowed. It wasn’t exactly a leisurely pace—even for their level—but it was a pace that Ranthia could maintain, at least. She had fought for longer periods of time against worse odds, but exhaustion had still managed to sink its proverbial fangs into her. But they couldn’t stop before they reached Remera.
+
+“How are you here?” The question slipped out of Ranthia’s mouth.
+
+It was a really stupid question, admittedly. But it was what tumbled out of her exhausted mind and escaped her mouth, so it seemed needlessly cruel to kill it after the fact by rescinding it.
+
+“I assume that you are not intending that to be a profound, were it not readily answered in my case, philosophical question.” Night chuckled to himself. “To answer what you likely meant to ask, we received an emergency bird from your base. The message included the fact that you had yet to return from attempting to delay the shimagu. As soon as I was able, I set out to investigate the situation.
+
+“You did well to hold out for as long as you did, Grace. Thank you.” He turned his head to favor her with a brief fang-filled smile.
+
+The man had just saved her life, but her skin still crawled at the sight. Even when he made jokes or smiled, something about Night just felt off-puttingly… calculated. That was a good word for it. Something about his demeanor felt measured.
+
+That or her paranoia about the man had merged with her exhaustion to provide her with delusions.
+
+Ranthia flicked her eyes up at the moons and considered her dearth of mana. She should have been able to fight for more than a day with what she had. Either she had been sloppy with her mana conservation, or…
+
+“…Xaoc, please tell me it hasn’t been days.” Ranthia subvocalized. If it had, she could scarcely imagine what Avyna had been going through…
+
+“It has not. The scouts that you sent back to the base arrived well before sunset and the birds are well-trained. It is currently, nearly precisely, two thirds of the way through the night that followed the day you encountered the shimagu.” Night answered.
+
+Damned vampire hearing.
+
+Ranthia grumbled nonsense under her breath until she forced her body back to the pace it had maintained before she got distracted. She could endure just a bit more, she was so close to seeing Avyna again.
+
+Honestly, she was frustrated with how exhausted she felt. Her mind and her body yearned to just… stop and collapse. Something deeper within Ranthia was spent, something beyond her muscles. She had fought longer and harder than that before! She had only fought for half a day or so at most!
+
+As frustrating as it was, it wasn’t surprising; she was somewhat familiar with combat. She had learned the truth even back in her Adventurer days: a dangerous, tough fight could still be just as exhausting even when it was comparatively brief. But she had always assumed that she would gain some measure of immunity to the effect as she leveled—especially with her vitality climbing to a tier that she had scarcely ever dreamed was possible.
+
+Just shows how far I have to go. Ranthia wasn’t sure if that was the right lesson to take, but it made sense to her.
+
+Remera was still abuzz when they reached those terrifying, dangerous, massive stones that levitated to serve as the gates. As usual, Ranthia sent an image past them and shifted to it—which had the lovely side benefit of freeing her from the minor wounds and injuries that she had been forced to endure. Night even had the decency to pretend that she hadn’t done anything bizarre while he walked through unbothered. A crowd of [Healers] checked them—even as the base’s brass swarmed them, which kind of negated the entire point of being checked by [Healers]!
+
+Questions were being volleyed at them and the sheer cacophony threatened to overwhelm her exhausted mind. She just wanted to stop trying and retreat into herself.
+
+And then Avyna was there, and suddenly Ranthia’s desire to withdraw from reality fizzled away. The elf’s expression was too complex for Ranthia to make sense of it, but she threw herself into Ranthia’s arms—seemingly without the slightest hint of concern for the risk of injuring herself on Ranthia’s heavily damaged armor. Ranthia clung to her beloved just as tightly and promptly lost all control over her own emotions.
+
+The endlessly flowing tears—in front of Night and the base’s entire upper echelon of command, no less—should have been mortifying, but Ranthia’s world was reduced to her and the trembling woman in her arms.
+
+Things went hazy for a while and Ranthia had no idea how she went from reuniting with Avyna to anywhere else. Yet there she was, seated next to Avyna on a bench at the table in their own home. …With Night seated across from them.
+
+She just wanted to kiss the woman she loved until sleep took her, but life wasn’t going to be that nice. Not that everything was terrible.
+
+She was leaning against Avyna, and they had the fingers of their closest hands interlaced as they held one another’s hands with a constant, reassuring pressure. A reminder that they were both there—that they were together once again. Ranthia had even gotten out of her armor at some point. That was all lovely.
+
+She had far more mixed emotions about the fact that Night was in her home. Avyna had even—at some point—provided each of them with mugs of hot tea, not that any of them had moved to take a sip.
+
+“Thank you for bringing her back to me.” Avyna bowed her head to Night.
+
+As Ranthia regained herself, she noticed something. Night hid it well, but something about the way he held himself gave her the impression that he was uncomfortable. She hadn’t even known the man could be fazed by anything that wasn’t an apocalyptic threat.
+
+Ah, right, he had vocally opposed their relationship. Well, if they made him uncomfortable, he deserved it.
+
+Gods and goddesses, she needed to regain more coherence before she ended up opening her mouth—she owed her life to Night, it wasn’t the time to be petty and rude.
+
+The pale man looked to Ranthia after he nodded to Avyna to acknowledge her gratitude. She knew what he was waiting for, but she needed a little longer. She needed time to recover before she could even begin to try to make sense of the mess of her own thoughts—only then could she hope to give a remotely coherent report.
+
+Avyna seemed to sense as much—because she was amazing like that—and selflessly engaged Night in small talk.
+
+“I had heard tale that your people were amongst humans, but I am relieved to see proof that vampires still walk our world. Pallos would be poorer with any further immortal kinds lost to history.” Her tone was similar to what she used with customers, professional and warm.
+
+“…And what makes you so certain that I am a vampire?” Night asked in return, with a single arched eyebrow.
+
+“Pale skin, never touched by sun. The red base of your eyes. Fangs, though you angle your head and manage your movements to reduce how obvious they are. The subtle aroma of blood—you hide it well, but elven senses are sharp. The difference between you and my love’s kind is as clear as the difference between any race. I am something of an expert on the differences between different peoples.” Avyna seemed to be enjoying herself—even if she was noticeably pausing before she spoke to compose her words.
+
+A wry smile crossed her lips a moment later, before Night could respond.
+
+“Also, my love here once mentioned seeing a vampire performer.” Avyna added while she gently bumped her shoulder against Ranthia’s.
+
+Oops. Fortunately, Night just lightly snorted before he inclined his head in acknowledgment. There was no visible sign that he was bothered by Ranthia slipping up and mentioning a species that tried to hide its existence.
+
+“You mentioned ‘further’ loss. Does that mean there are immortal species that have been wiped out?” Ranthia asked.
+
+She was curious, it had nothing to do with trying to distract Night from her accidentally spreading that vampires existed while she bought more time to recover! She very pointedly didn’t look Night’s way—she would be happier if she remained ignorant of his probable displeasure.
+
+“I am aware of two. The…” Avyna trailed off and frowned. “I have never heard their name spoken aloud, though I have read it numerous times. I believe the word is spoken as ‘spectrosse’. They are remembered in many elven stories as they were the final experimental creation of the gods before their ultimate goal—the elves—were created.
+
+“When White Dove cursed them, they were forced to live within the Forest of Mists. Without the water in the air, their bodies would wither. Their eyes were well suited to living there, so they did not mind. They and the elven progenitors were close allies and worked together to survive the dangerous days following Creation.
+
+“But the spectrosse were wiped out by a dragon: Alda’Era, the Immaculate Destroyer. She desired the Forest of Mists to live within and was disinterested in sharing. Not that it spared her—the tales say that Drathex slew her. Sadly, the last spectrosse had already died by then.” Avyna explained after several long moments.
+
+Tension hung in the air for several long moments, not that Avyna seemed to be affected. But Night had reacted when Avyna mentioned the dragon and named it—not in a physical way, it was more just that something indescribable about his presence suddenly grew more menacing. The danger felt real enough that much of the fog of exhaustion was torn away from Ranthia’s mind while she formed her knife in her hand that wasn’t entwined with Avyna’s.
+
+Yet, after several moments, Night still never moved or visibly reacted and whatever ‘sense’ Ranthia was responding to—something far more instinctual than even [Combat Awareness]—seemed to fade.
+
+Quite possibly because she was glaring at him.
+
+“You should not speak of them. It is said that they can hear it when someone dares to do so and I believe that your people should know as well as any that their attention is best avoided.” Night offered in his lecturing tone. With the threat obviously passed, Ranthia stowed her knife.
+
+Avyna laughed into her free wrist, only to trail off and stare at the man when she realized he wasn’t joking.
+
+“Night, I am sorry, but that is one of the most ridiculous things that I have ever heard! If dragons were forced to hear every time someone spoke the name of their kind, they would go mad from countless mentions every day. There are stories that say their personal name or title may be trapped in some manner, but even that is widely regarded as unlikely. If the greatest elven minds are unable to find a way to do so beyond the range of their hearing, it is utter nonsense.” Avyna bemusedly retorted.
+
+Ranthia was really, really trying not to enjoy watching her gorgeous elf sass her bloodsucking boss. They were all immortal, but Avyna was undoubtedly the most experienced person in the room—Ranthia was inclined to defer to the elf’s judgment. Besides, it was like she herself had said to Tertia before—even if dragons could hear when the word was spoken, it felt more likely that they’d visit a realm that seemingly had forgotten they existed than one that spoke of ancient tales of them.
+
+“Perhaps you would be willing to do me the honor of avoiding the word while I remain here, at the very least. I have reason to believe that the truth is as I explained.” Night’s offer was diplomatic on its surface, at least. Yet somehow, no matter how polite the words and tone were, they still didn’t come off as a question.
+
+Avyna had to be aware of it, but she was magnanimous enough to nod her assent before she took the time to compose her words so she could continue.
+
+“The demons also no longer walk our world. It was before my time, but the Unchanging Council were… forced to remove them. It is my understanding that the demons were cursed with personal obsessions that frequently led to would-be warlords that would attack and invade others.
+
+“After numerous incidents, the Unchanging Council made their judgment. Elves gathered and attacked. Many demons were slain—no resistance was tolerated. Those that survived were driven into the deepest depths of Pallos, before all known tunnels and caves to those sections were brought down.
+
+“It meant the death of all demons. Their combat-capable were all killed; those that remained had no chance to protect themselves. The depths are deadly even to the greatest [Warriors], [Rangers], and [Mages].” Avyna squeezed Ranthia’s hand as she spoke.
+
+There was no pride in her words—Avyna tried to mask what she said as mere statements of fact, but she was tense while she spoke. It felt, at least to Ranthia, like she was angry about what her people had done. But Ranthia wasn’t about to ask, especially not in front of Night. Instead, she just squeezed Avyna’s hand back to silently support her.
+
+“I had not heard about this, thank you for sharing it with me.” Night acknowledged.
+
+Silence fell over the trio of immortals. Avyna was working through her surge of anger—she often needed a bit of time when her emotions bested her. Night seemed to relish awkward, ponderous silences. But Ranthia felt increasingly uncomfortable as she stared at the cooling cups of still-untouched tea.
+
+Well, if she wasn’t going to get to sleep… there was one thing that she needed to raise, something important.
+
+“Night, I think there’s another twin out there, one that I haven’t seen mentioned in our reports. They might have just sheltered the area they were camping in, rather than creating the storms that nearly drowned us, but the area they were in was too dry. An army was practically at Remera’s gates without being seen thanks to those storms.
+
+“Yet I never—to the best I could tell—encountered a twin while I fought. There were four Storm-aspected kills during the fight against the army, but each of them was most likely a [Laborer] or a [Warrior]. I did defeat a [Mage]-tagged ogre that had the Storm element before I encountered the army, but he was only level 466 and was a [Weather Watcher], so I doubt he could have been responsible.” Ranthia reported.
+
+“That gives us very little to go on. You are correct that none of the current twins that we are aware of could have sheltered an area so large, nor could they have affected the weather. With that said, there are more mundane possible explanations, and it is not atypical for certain areas to remain untouched by a large storm. Also, there are numerous Skills and elements that could shelter an area, which is more likely than a Storm [Mage] that could have created such a potent rain. But, yes, we should keep our eyes open to all possibilities, no matter how unlikely, until we can find confirmation of the truth.” Night resumed his familiar word-salad that could have been readily reduced to a single sentence before he fell into silence to let her stew on the words or get annoyed—or whatever he did that for.
+
+Ranthia had no interest in dragging things out further. She was determined to finish with what she needed to say so she could ask her boss to kindly go away so she could rest. That or she was impatient to finally get an overdue kiss or sixty-four in before she succumbed to sleep.
+
+“Summarizing my report; I’ll do a more thorough written one after I sleep. The base commander asked me to join the efforts to scout the damage to the area brought on by the storms and make sure there were no dangers in the vicinity. The scouts and I mucked through the aftermath and found nothing, until we spotted a dry area outside of the radius of our patrol. We decided to investigate.
+
+“The situation felt off to at least one of the scouts and I agreed. Part-way into a careful search, a different scout voiced his disagreement—and was promptly nearly taken out by an arrow. The third scout saved him. The competent one readied her bow and returned fire when she saw movement. It was an ogre, then when he fell, the System confirmed a shimagu kill as well. The impact when the ogre hit the ground alerted the main force. They mustered swiftly, which likely meant they were already on the march or about to resume.
+
+“I ordered the scouts to get the injured scout back to base. I’d hoped to delay the force and withdraw, but it was larger than I expected.
+
+“While I engaged with the first group, additional groups of enemies came from alternate paths and surrounded me before I could escape—I ended up surrounded. It soon became obvious that someone was directing the movements of the shimagu army—their forces continually repositioned in an effort to keep me surrounded while they tried to box me in and restrict my movements.
+
+“I fought back, of course. Eventually, by necessity, I abandoned my efforts to escape through their ranks—I was expending mana and getting nowhere—so I refocused on dealing damage and preserving myself while I waited for an opportunity. Then I heard a voice giving orders and went on the attack until I managed to kill the ogre responsible, but it had no effect on the movement of the army. It’s unclear what went wrong. There were too many possibilities: the shimagu could have moved to another host, I could have slain a lesser officer that merely echoed orders, or there were multiple [Leaders] and they were able to adapt to the loss. …Or it could have been a trap—there was… a higher level of danger near that ogre.
+
+“After that, I was forced to focus on survival while I fought on, at least until you arrived. From there, you know the rest—I don’t think I have anything meaningful to add.” Ranthia concluded her report with another squeeze of Avyna’s hand.
+
+Night nodded and settled into yet another thoughtful pause, instead of doing something sensible like thanking her and leaving. Ranthia was exhausted, but she wasn’t petty enough to demand his departure. Instead, she finally picked up her cup of mostly cooled tea with her free hand and took a sip.
+
+The noisiest slurp she could manage.
+
+Avyna shot her a flat look, but it prompted Night to finally speak. Which meant that it was worth doing.
+
+“Very well, thank you for your report, Sentinel Grace. I suppose I should seek accommodations at this base for the day. As we discussed earlier, it is unlikely that the shimagu forces will be able to reach the base ahead of tomorrow evening, especially after you stalled them. So, for the time being, I would recommend you take the opportunity to rest and recover while you are able.” Night finally decided.
+
+“Oh! You must stay here for the day; it is the least that we could do after you brought my love back to me in one piece!” Avyna insisted.
+
+Night politely protested. Ranthia (less politely) tried her best to subtly signal the woman she loved to not push. Yet her elf refused to be dissuaded. At length, Night accepted their hospitality and, after Avyna took Pallos’ fastest shower, the vampire disappeared into the back of their tent, armed with five blankets, two pillows, and his polite certainty that the bathtub would be preferable to sleeping on any of the other furniture in their home.
+
+Ranthia desperately wanted skin-on-skin contact while she rested—not for amorous reasons, just the heightened warmth and intimacy—but with their home infested by a certain bloodsucking guest with horrendously sharp senses… Avyna wore a lovely blue lightweight gown while Ranthia went with her usual mistweave tunic. They could at least cuddle. Ranthia soon found herself comfortable on her side, with her arms wrapped around her lover and her forehead nuzzled against Avyna’s horn.
+
+She fell asleep swiftly while immersed in the warmth and a sense of safety and serenity.
+
+Ranthia woke up alone in bed. Of course, she woke up to the wonderful scent of herbs and vegetables and meats being cooked, so it wasn’t like she needed to fret about where her beloved was. Somehow, she sincerely doubted that Night crawled out of his tub during the day to cook for them.
+
+But Ranthia wasn’t in a rush to get up. She was comfortable and she was safe. No one on Pallos could give her crap for taking a slow start to her day, not after what she went through. Besides, she suspected that Avyna would chase her out of the cooking area if she tried to help.
+
+They really needed to talk, one-on-one, soon. Avyna had to have seen just how badly damaged her armor was. She hated to make the woman worry, even if Avyna seemed to be far more accepting of it than Hexara ever had.
+
+But she was inviting stress. She was home and they were both safe, at least for the moment—wait, no, bad.
+
+Already frustrated with herself, Ranthia decided to turn her attention to her System interface and filtered out and merged the level gains.
+
+[*ding!* Congratulations! [She who Dances with Chaos] has leveled from 627 to level 630! +100 Strength, +100 Dexterity, +100 Vitality, +100 Speed, +8 Mana, +8 Mana Regeneration, +5 Magic Power, +5 Magic Control from your class, +1 free stat for being human, +2 Mana from your element.]
+
+[*ding!* [Void Affinity], [Rhythmic Grace], [Void Edge], [Flowing Momentum], [Vision of the Void], [Echoes of Devastation], [Divine-Touched Identify], [Sentinel’s War Supremacy], [Submind], [Combat Awareness] have leveled from 627 to level 630!]
+
+[*ding!* [Reflections of Reality] has reached level 393!]
+
+[*ding!* [True Grace] has leveled from 402 to level 421!]
+
+[*ding!* [Higher Power] has leveled from 95 to level 101!]
+
+[*ding!* [Ranthia’s Covenant with Xaoc] has reached level 153!]
+
+[*ding!* [Fast Learner] has reached level 466!]
+
+Ranthia briefly lamented that she had only gotten three levels and was on the cusp of dismissing her gains as mostly just favoring [Higher Power]. …At least until she finally realized just how many levels [True Grace] had received.
+
+She had no desire to do that again, but [True Grace] was stubborn about leveling, yet something about her warm dance—infused with her lust for life—had managed it! Which helped her mood more than a bit. She had barely gotten anything during her time in Remus, but once again her growth was thriving.
+
+Ranthia finally abandoned the warmth of their blankets and soft bed and slipped past the curtains into the more public section of their home of cloth. She and Avyna shared a sweet little morning kiss, before Avyna playfully shoved her out of the food preparation area—just as Ranthia expected.
+
+Ranthia wasn’t forced to wait long before Avyna arrived with two bowls of hearty stew. It looked—and smelled—like it had a bit of everything in it. Sausage, pork, chicken, vegetables of all sorts, herbs, cream, and even cheese. Ranthia peered curiously at the elf—she had her doubts about how well that many flavors could work together—but Avyna just silently beckoned for her to eat and went back to retrieve an entire loaf of thick-crusted bread.
+
+Ranthia shrugged and dipped her crystal spoon into the stew. It was pretty dense with how many solids were packed into it, but it smelled good and Ranthia trusted her lover implicitly.
+
+It was hot—many of the ingredients were eager to trap the heat, especially since it was freshly made. But she had enough vitality that she didn’t need to worry about scalding her mouth. Probably.
+
+But more importantly, it was good. She had no idea how Avyna had managed so many flavors, but it tasted like a cohesive dish. Ranthia’s appetite reared its head and reminded her that she was absolutely famished, so Ranthia set about trying to consume food as swiftly as she could.
+
+Okay, there was one regret. When Avyna finally joined her, the elf emptied out her half of the bread then spooned thick stew into it and ate that. It looked incredible, but Ranthia’d already mauled her own bread entirely too much to do the same. Oh well, it was all ending up in the same place either way and she was too hungry to stop.
+
+She could always try that another time.
+
+Every time Ranthia finished a bowl, Avyna quietly replaced it, until, at long last, Ranthia was ready to gesture her surrender. Her stomach had been empty, but it felt ready to burst after… er, however many bowls of stew and so much bread.
+
+Avyna slipped behind Ranthia and started to rub her shoulders affectionately. Ranthia just smiled and leaned her head back to offer the cook a kiss. Avyna happily accepted and let it linger, but once she pulled away, she grabbed Ranthia’s blindfold—she had kept it on with Night present—and yanked it off.
+
+They stared into one another’s eyes for a long moment—Ranthia was always willing to lose herself in her lover’s faceted eyes.
+
+“Thank you for coming back to me, my love.” Avyna finally whispered.
+
+“I always will, I love you too much to leave you. And I owe you my life.” Ranthia replied, doing her best to keep her voice quiet. It was an intimate moment, for the two of them—she had no intention of sharing it with the eavesdropper in the bathroom!
+
+“Aw, you. So sentimental!” Avyna whispered with a smile.
+
+“Well, yes. But I meant it literally. The extra arcanite and mana stores saved me, and my heart and soul sang brighter than ever when I thought of you.” Ranthia might have rolled her eyes had she heard such drivel from a [Bard]’s performance, but she meant every word.
+
+Avyna beamed a bright, happy smile. But it fell a couple of heartbeats later—Ranthia had basically just confessed that she came close to not making it. But Avyna didn’t start crying, instead her eyes took on a familiar intensity.
+
+She was trying to solve the problem.
+
+“I need some air, but we can do better. I will find a way.” Avyna promised, before she hurried out of their home.
+
+Ranthia called after her—albeit quietly—but her words went unheeded. Ranthia cursed under her breath and busied herself with cleaning up the dishes—all the proof that she needed that Avyna was more distraught than she had appeared.
+
+It didn’t take long, so she wasn’t surprised that she finished before Avyna returned. The massive—seriously, her Ranger Teams used smaller ones—pot of stew was fine for a while and the enchantment didn’t need her to babysit it.
+
+Ranthia retrieved her blindfold from the floor.
+
+“I’m stepping out for a short while; I’ll turn the security enchantments on when I go. You should be safer here than basically anywhere else in Remera.” Ranthia called out quietly.
+
+Either Night was awake and heard everything, or he was asleep—and if he was, she didn’t want to wake him. Either way, she put on her belt—it was a little worse for wear, but it wasn’t so badly damaged that she needed to replace it with one of her spares. Her Sentinel badge went into one of the pouches before she carefully crept over to her supply trunk and raided it for several rods of Reman coins. Then she made her way out of the tent and toggled the security inscriptions—she couldn’t carry an inscription or an enchantment, but she could still use them.
+
+Ranthia couldn’t hear Avyna’s voice from their tent, but she wasn’t planning to look for her—she wanted to do something nice for her. And Remera was a military base, which meant one thing: it had a thriving black market of illicit activities. Gambling dens, underground brewing, and more could be found if someone knew where to look. Usually finding things like that required a network of contacts and the trust of her peers.
+
+Ranthia planned to cheat mercilessly. She was already aware of several facilities that those in power were either blissfully ignorant of or were willing to ignore, so long as they didn’t become problems—soldiers needed ways to blow off steam, after all. They weren’t what she was looking for, but they could be bribed into helping her acquire what she was after.
+
+Avyna still wasn’t back by the time Ranthia returned. She was tempted to seek her out, but Remera was a big base—it was all too easy to imagine Avyna coming home to find Ranthia gone and creating a ridiculous cycle. Instead, she settled on setting up her purchases. Between the palms she had to grease and the exaggerated cost of the goods, Ranthia had expended every last coin that she had brought with her.
+
+But it was worth it, she was entirely willing to trade her wealth for Avyna’s happiness!
+
+Once that was done, Ranthia settled down and grabbed a scroll so she could write that full report that she had promised.
+
+The timing was uncanny. Ranthia finished the report just in time to hear the tent open. Avyna entered, swaddled in Ranthia’s traveller’s cloak—which she would have sworn Avyna hadn’t been wearing when she left. Not that Ranthia minded—Avyna was welcome to use it.
+
+“Hey love. I didn’t mean to upset you, so I picked up some apology sweets—” Ranthia quietly offered while she stood.
+
+Avyna promptly threw herself against Ranthia and Ranthia found herself pulled into a surprisingly fierce kiss. But before she could raise her arms to embrace her, Avyna’s own fingers closed tight around her wrists.
+
+Then once the kiss broke, Avyna buried her face into Ranthia’s chest and finally released Ranthia’s wrists. Ranthia took the invitation and wrapped her arms around Avyna, even as Avyna’s arms encircled her.
+
+“Take off the blindfold.” Avyna hissed quietly after several moments.
+
+Ranthia hurriedly complied. Avyna lifted her face from Ranthia’s tunic and they spent a long moment just gazing into one another’s eyes. Avyna’s eyes were glistening with mixed emotions, but the guilt and pain were obvious.
+
+“I tried, but I cannot find anyone willing to part with arcanite here. For now, all I can do is to beg: please be more careful, my love. I refuse to lose you, not like that. I… there is still so much I wish to learn and experience together!” Avyna’s voice was a whisper, yet there was a certain harshness—one born of raw emotion—to her tone.
+
+“You’re amazing and you didn’t have to go out looking for a way to help me. I love you, and I intend to do everything in my power to keep coming back to you.” Ranthia replied as she tried to blink the stray sentimentality out of her eyes before it became tears.
+
+Finally, they kissed again—with healthier emotions. It wasn’t particularly passionate, but it was a long, tender show of affection that neither woman was in any hurry to break. It lingered for as long as they could manage, but once it was done, Avyna pulled away just enough to look at the table where Ranthia had arranged several tiny cakes and a few small fruit pies.
+
+“Where did you find these? You do not bake!” Avyna’s curiosity bested her.
+
+“I’m a Sentinel, that means something.” Ranthia replied, smugly.
+
+She almost swore that she heard the quietest, shortest laugh she had ever heard from the direction of the bathtub. Almost immediately, she put it out of her mind and decided that it was just her imagination—it was less creepy that way.
+
+“…You did not go all the way to Coalition City and back.” Avyna’s voice fell dangerously flat.
+
+“No! I found a black-market bakery; a few legionaries that bake for fun and profit but don’t technically have permission to do so. …I also bought a hot tip for you from them: there’s two groups that are competing to get alcohol brewing. The first group expects to be selling in a bit more than a week from now.” Ranthia hurriedly explained.
+
+“Are you trying to bribe your way back into my good graces with sweets and information that will allow me to maximize my market profits?” Avyna demanded.
+
+“Of course.” Ranthia shamelessly agreed.
+
+“Well played, I knew there was a reason I was foolish enough to choose to love a fighter again.” Avyna grinned as she offered her praise.
+
+They kissed again, just to prove to one another that they were okay and they both knew it.
+
+Almost the very moment that the sun finished setting, Night rematerialized. His Sentinel armor was immaculate and perfectly adjusted and he was as well-groomed as ever, even if Ranthia had never actually heard the man stir or prepare himself.
+
+“My gratitude for your hospitality.” He offered Avyna the—carefully and neatly folded—blankets, with the pillows stacked on top.
+
+They looked like they’d been fluffed, which was unsettling—that was a noisy process!
+
+“It was my honor to host the person that saved my love and brought her back to me. Any time you require shelter while you are in this area, please consider coming here again.” Avyna primly accepted the bundle, even as she made an offer that Ranthia was sure they would someday regret.
+
+Night nodded, then bowed graciously. With that, he turned to leave—which forced Ranthia to awkwardly rush to intercept him and offer the man her written report. Night accepted the scroll and thanked her, then once again turned to leave.
+
+“…If you’re hungry, you could stay to grab a bite.” Ranthia impulsively called after him.
+
+They still had plenty of stew!
+
+…Wait…
+
+Avyna had stiffened and was giving Ranthia a completely unsubtle look of alarm. Oh, gods and goddesses, Ranthia hadn’t thought that through at all—she had even impulsively used the worst possible phrasing and—
+
+Night paused, turning just enough to offer her a toothsome smile.
+
+“I appreciate the sentiment, Grace. However, I suspect your hospitality and the good will you have both generously shown would be taxed beyond repair if I accepted the letter of your offer.” The man joked.
+
+Ranthia resisted the urge to shudder at the mental image of those fangs sinking into her—or worse, Avyna.
+
+“…Until next time, then?” Ranthia concluded lamely, after she failed to come up with a better response.
+
+The oldest Sentinel nodded in agreement and made his exit.
+
+Ranthia spent the bulk of their time awake that night apologizing to Avyna for inadvertently offering them up as food to a vampire. Avyna wasn’t truly mad, but Ranthia’s guilt refused to let her off the hook!
+
+The scouts’ reports and the [Analysts] predictions largely agreed—the shimagu army was three days out. They were still remobilizing, but it was clear that they would be underway soon. Ranthia had bought them precious time, which meant that Remera wouldn’t be caught vulnerable—they had just enough time to harden their defenses and reach full combat readiness.
+
+It also meant that the invading force would be ready to face a Sentinel—and Ranthia could scarcely imagine just what that would mean.

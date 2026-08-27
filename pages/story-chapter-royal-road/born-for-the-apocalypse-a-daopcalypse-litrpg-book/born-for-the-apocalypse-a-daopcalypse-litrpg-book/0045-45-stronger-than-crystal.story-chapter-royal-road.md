@@ -1,0 +1,101 @@
+---
+id: cef76dd6-aec8-52b8-9468-a55c4dfb2dd5
+page-type-slug: story-chapter-royal-road
+title: "45: Stronger than crystal"
+slug: 0045-45-stronger-than-crystal
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 45
+ownLength: 1580
+unit: words
+publishedAt: 2025-01-19
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2018977/45-stronger-than-crystal"
+royalRoadId: "2018977"
+---
+
+45:
+
+Two tails swished behind the four-legged creature as it blurred forward as a streak of gray. It’s speed was only matched by the sharpness of it’s eerie crystalline teeth that seemed to be more gemstone than enamel or dentin, the row of long and narrow canines backed by a second row of squat molars that looked like they would have no problem crunching through sinew and bone.
+
+The initial impression the creature left on Jack suggested a resemblance to a wolf, but the differences were enough to give anyone pause. Its abdomen was shrunken inwards, its ribcage clearly visible under a thin layer of flesh and its limbs, be it forelimbs or hindlimbs, were double-jointed and near double a normal gray wolf’s limbs in length too.
+
+Sure, his memories and analysis were based on his visits to the local zoo as a child, but every survival instinct in his bones screamed that the creature before him was no wolf.
+
+It was something far more dangerous.
+
+As the lupine creature approached with long strides beyond any man and at a speed that surpassed Jack’s own, he was certain that the beast approached with an intention to rip his throat out.
+
+Fate, or to be more exact, the system, had other plans.
+
+Jack watched as the lupine creature kicked off its hind-limbs in a burst of strength, his high perception the only thing allowing him to keep track of the creature, as it outstretched its right forelimb out.  He watched, his emotions a mix of horror and stupefaction, as the lupine creature’s relatively normal claws elongated to a length of his forearm and came crashing down upon him.
+
+But watching wasn’t the only thing he was doing, as his instincts, honed through a series of close encounters and the experience of winning battles with his life on the line, had already kicked in.
+
+Jack’s shield adjusted to the new variable of the elongated crystalline claws that could probably shred through regular steel as easily as a knife through butter. Then he hoped.
+
+The sheer strength contained behind the blow almost caused his wrist to snap as he was pushed back, the shrill scream of metal against something equally tough sounding out in his ears, but thankfully there was a second reserve of strength on his side.
+
+A burst of Wind Qi slammed into the lupine creature before Jack’s Moonsword was even half way towards skewering it in the abdomen, violently pushing away the beast and along with it, the weight of its claws backed by its surprising strength for such an emaciated frame.
+
+His heart pounded at the speed of a runaway freight train as Jack intently tracked the lupine creature with every ounce of focus he could muster. Both it’s claws had adjusted in length, to about a third of the capacity it had displayed earlier. The creature used its natural endowments to dig a furrow into the earth to combat the kinetic energy that was still pushing it backwards.
+
+It came to a stop before the boundary of the circle of clear air that followed them everywhere. A vicious growl escaped its lips as Sarah stepped next to him, her spear pointed towards the creature as it was ensconced by a silvery-white energy, namely, Moon Qi.
+
+“What the fuck is that?” Marcus all but screamed out, his tone conveying his horror at the sight of the creature as his reflexes finally caught up to the danger they found themselves in.
+
+“Ssssh,” Jin hissed as panic consumed her own features, but she at least had the sense to not yell lest there be other evolved predators nearby.
+
+Marcus seemed too preoccupied by his own fear to respond, as he just stood there with his goblin short sword in hand and all but gaped at the beast.
+
+Jack couldn’t blame the reaction, but it certainly wasn’t doing them any favours in the heat of the moment.
+
+The lupine creature raised the paw of its right forelimb, pointing it straight in their direction.
+
+Jack could almost smell the blood in the air as he resisted the urge to charge it, knowing that the lupine creature’s agility meant that it could circle around him and strike at the other three before he got there with his moonsword. Given that he had been the only one who had been able to react in time to the initial ambush, Jin and Marcus would almost certainly die and he doubted Sarah’s armor would save her from being wounded.
+
+But if Jack didn’t move and chose to defend, there would still be casualties. He could move fast enough to shield himself and guard Sarah against fatal blows, but anything more and he would be the one that ended up dying.
+
+A fucking nightmare, The thought creeped up in his mind and he couldn’t deny it. His ambition was bold, but only now could he feel the weight of his declaration. He had promised himself that he would hold onto his humanity, but the entire world had been designed by the system to make him choose between lives, between people.
+
+Completely unexpectedly, it seemed like that choice would be deferred for now, as the lupine creature pushed off its double-jointed legs backwards, into the gray fog instead of leaping towards them.
+
+It was Sarah who recovered from the surprise first, as she called out, “Jin, your back to me now and keep that spear pointed forward. Marcus, your back to Jack and swing that sword at anything besides us that moves,” She took a moment to scan the gray fog, before snapping, “Now!”
+
+Marcus didn’t argue as he all but sprinted in place, his back pressing against his own with a light thump. Jin needed a moment to position her spear so it wouldn’t end up slamming into one of her allies, before taking three quick steps back.
+
+With two spears pointed forward and two swords primed for action, they were about as prepared for an ambush as they could be.
+
+Seconds passed into minutes and not a word was exchanged between them as they craned their ears to catch onto the slightest hint of a sound, the lightest vibration their senses could hone onto.
+
+Nothing.
+
+Ten minutes passed by like that and with every passing moment, Jack could feel his own concentration wane.
+
+“It’s not going to attack,” Jack declared, his lips pressed into a thin line.
+
+“Why?” Marcus asked in a matter-of-fact tone.
+
+“The creature chose to retreat when its ambush failed. It’s intelligent and it doesn’t seem inclined to trade wounds. Its fur also blends in with the fog and my experience with the system tells me that’s no coincidence. We also happen to be the only people stupid enough to charge into a landscape of endless fog, which makes us either reckless idiots or….,” Jack trailed off.
+
+“Or what?” Marcus hurriedly asked.
+
+“Or we’re looking for a challenge. And the system loves its damn challenges.”
+
+“So? We don’t have time for your riddles man, spit it out,” Marcus all but snapped.
+
+“I was thinking,” Jack coldly replied, before deciding it wasn’t worth it, “If it’s not playing with us, then it’s hunting us. We’re in its territory and we can’t get a lay on the land. It’s going to keep harrying us, chipping away at our defenses and pick us off one by one.”
+
+“None of this would’ve happened if you didn’t lead us here…,” Marcus grumbled, loud enough for everyone to hear given their proximity to each other.
+
+“Shut it, Marcus,” Jin snapped. “If it’s anyone’s fault, it’s yours. Takeshi called on us to let the goblins pass, but you rushed out of cover without warning us! You knew Carmen wasn’t ready to fight them and you got Takeshi killed because he jumped into the fight trying to save us all!” She managed to keep her voice somewhat contained, but the venom dripping from her words and the blood rushing to her face was enough to give even Marcus pause.
+
+“I… you don’t… Shit man, it’s all gone. There’s no way my wife is surviving this hellhole, I knew that an hour into this fucking mess. I wanted to take the fight to them, I– I didn’t mean for all this to happen,” Marcus’ voice was quivering by the end, choked up by emotions as he stuttered through the explanation.
+
+“Don’t… just don’t,” Jin shook her head vehemently. “If you don’t value your own life, don’t… nevermind just, Sarah, Jack— what do we need to do?” She asked with a grave determination that resonated with Jack.
+
+“A diamond formation is going to be our best bet,” Jack replied. “But for us to live through this, I need the three of you to follow my every command. Jin, Marcus, whatever happened to the both of you, there’s time to unpack those emotions later. I need the both of you to promise me you will listen to and honor every command I have, otherwise it’s best for us to split into two groups and run in different directions.”
+
+“I will do it,” Jin replied with steely determination. “Whatever it takes, I will survive this.”
+
+“I’m not running again,” Marcus replied, his tone heavy and riddled with more emotions than Jack had time to unpack.
+
+It was the best he’d get from these two and that would just have to be enough. Diamond was stronger than any alien crystal— or atleast, Jack sure fucking hoped so.

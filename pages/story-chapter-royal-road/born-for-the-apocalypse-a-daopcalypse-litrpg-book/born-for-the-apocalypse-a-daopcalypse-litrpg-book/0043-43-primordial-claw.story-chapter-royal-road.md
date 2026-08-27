@@ -1,0 +1,77 @@
+---
+id: fde2d989-de32-5e11-8345-da85b123244d
+page-type-slug: story-chapter-royal-road
+title: "43: Primordial Claw"
+slug: 0043-43-primordial-claw
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 43
+ownLength: 1696
+unit: words
+publishedAt: 2025-01-15
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2011420/43-primordial-claw"
+royalRoadId: "2011420"
+---
+
+43:
+
+Jack staggered backwards, managing to stop himself from tripping over his own feet as he tried to navigate the information that had been thrust into his mind. He took a deep breath to calm himself, his gaze sweeping across the others to take in their reactions.
+
+He couldn’t believe it.
+
+Up until now, Jack had seen Qi as a resource, for resources needed to be consumed to reach a desired effect. Whether it be Qi Blade, Qi Pulse or Qi Projection, they served a purpose for him in exchange for the corresponding amount of Qi. Everything besides his Inspect skill did and Jack felt like that was more an application of the system’s resources than it was of his own Qi.
+
+He now knew that there was more to Qi manipulation than the system had let on, an entire sequence of acupuncture points that could be used to modulate Qi as it passed across his body, to increase or decrease its intensity as he desired. Even Qi Pulse hadn’t revealed these acupuncture points to him, though Jack understood why now.
+
+A skill was the application of Qi intended to achieve a singular purpose, at least at the basic rarity his swordsman class was. Qi Pulse’s intent was to reveal nearby creatures to him, whether they be human or beast, covering all three hundred and sixty degrees in a wide radius to prevent him from being ambushed or taken by surprise. As such, revealing the network of veins that were responsible for supplying Qi across the body, which he now knew to be called meridians, along with the dantian or the beast core, depending upon the creature, was more than enough to accomplish that purpose. The Runic Symbols he had discovered on the Silvercrest Wolf and the Rift Goblin Commander seemed like an exception to that theory, but they had to have been formed out of dense Qi to be so readily visible to his pulse.
+
+The acupuncture points on the other hand, were a different story. In fact, Jack was certain that his own were dormant, since he’d never actively tried to channel Qi into them. The same was true for Sarah and more than likely, all but a small fraction of the humans that were still alive. The skill, Qi Pulse, was designed to detect threats in a radius and get a measure on the weight of the Qi flowing through their dantian or beast cores to allow the cultivator to get a measure of the threats approaching him. It wasn’t intended for continuous use and neither was its aim to scan the cultivator’s body in depth in its current state, especially not dormant acupuncture points.
+
+Considering that the meridians flowed through the acupuncture points when carrying Qi from the dantian and distributing it across the body, their location itself wasn’t a mystery. Jack needed to will the Qi into them, but even if that step was achieved, using the acupuncture points to augment the potency of his Qi was too risky without being able to see what was happening and Qi Pulse only granted him a few seconds of such a sight. Relying on feel alone would require a degree of familiarity with acupuncture points that he didn’t yet have.
+
+A shortcoming that Jack believed his class would eventually rectify, but at the small cost of twenty thousand TP, he didn’t need to wait any longer.
+
+Ignoring the acupuncture points for now, Jack willed his dantian to direct Qi in two opposing directions, funnelling it upward through two main veins that continued running parallel along each until the chest level, before branching off into offshoots that were clustered in the shoulders, neck and head. The Qi he had channeled focused on two offshoot veins that were curving inwards from opposing direction and Jack found himself blinking as the narrow veins leading to the back of his eyeball started flooding the delicate organs with Qi.
+
+Jack only stopped after both his eyes were practically immersed in Qi, magnifying their sensitivity to Qi by manifold times, until his eyes had lit up with an azure glow.
+
+“Jack?” Sarah called out, her tone sounding uncertain. Only then did Jack realize that he was probably grinning like a madman and reigned in his facial expression. First, he inspected his own arms, only to be greeted by a level of detail that was beyond his expectations. Not only could he clearly make out every off-shoot and branching meridians within his hands with a level of detail that Qi Pulse had yet to come even close to, but the residual Qi left behind by his use of Qi Blade and Qi Pulse also revealed two acupuncture points in each arm, two hollow spheres that were half the length of his index finger in width being positioned within his elbow joint and wrist.
+
+Inspecting his body revealed a plethora of acupuncture points, a total of twenty eight revealed by a quick count. There were way too many for him to make use of, so he would need to prioritize filling the acupuncture points in useful positions.
+
+Then he turned to Sarah, a quick sweep of his gaze revealing that she looked to have about the same number of dormant acupuncture points.
+
+A soft gasp sounded out before Jin muttered, “Your eyes are blue…”
+
+“Yeah, I’m fine,” Jack reassured, noting that he had taken too long to respond. “Sarah, do you think you can do me another favor?”
+
+“What is it?” Sarah asked, her tone sounding more curious than disturbed.
+
+“I need you to hold out your spear and activate your Qi spear skill,” Jack began his explanation. “It might feel weird, but if I’m to test this, you can’t move. You’re going to have to trust me when I say that no harm is going to come to you.”
+
+Sarah took a deep breath, considering what was being asked of her. Trust was a big ask in a world where you were rewarded for killing another, but they had saved each other’s lives enough times to see any reason for that to change now. That might change in the future, but for now, she nodded, “I’m fine with that.”
+
+“Thank you,” Jack replied, giving her an encouraging nod. With her spear pointed towards Jack, but at an upward angle that would see a thrust missing him too large of a margin to be dangerous, she activated Qi spear.
+
+Jack only needed a single hand on his blade for Qi Sword, but Sarah’s skill seemed to be a little different as it used two streams of Qi that was funnelled from the main veins that ended at the hand, sending a strong stream of Qi channelling through the spear’s hollow shaft, flowing upwards until it blazed to life, ensconcing the spear tip in its entirety.
+
+He wondered what would happen if she reinforced Qi Spear with the acupuncture points in both her arms, whether the tip would erupt into a blazing torrent of Qi or if it would break the limitations of the skill and fizzle out into the environment.
+
+Jack moved towards her, his blade still sheathed at his side as he reduced the flow of Qi to his eyes and consequently, their sensitivity dropped. He could still see the Qi flowing through Sarah’s arms, but now with the color returned to his eyes as her skin was overlaid on top of the meridians.
+
+The degree of flexibility offered by his new ocular technique, True Sight, was only second to it’s cost. Unlike Qi Pulse, it was an internal technique as opposed to a external skill, which meant that not only could he modulate it freely, but the cost involved was only a fraction of Qi Pulse since he wasn’t losing a large chunk of it to the ambient Qi.
+
+Jack suspected that he could keep True Sight up for hours on end without losing more than a handful of Qi Points, but in return, its effect only extended to what was in his line of sight. It would be very valuable to come, but it didn’t explain the siphon part of the technique.
+
+Finally, called upon the muscle memory that had been imprinted onto him by the scroll he had unfurled. A wave of Qi erupted outwards from the dantian, sent upwards through two main veins and a plethora of branching ones, before being abruptly pulled back. The process repeated itself again and again and every time his Qi travelled further upwards in the undulating pattern until it covered every branching vein in all five fingers.
+
+Then, an azure claw formed out of Qi materialized in reality, a gentle thrum sounding out as a ripple ran along the length of the claw before fading away when it approached his wrist, only for a new ripple to run across its surface. It was as if the Qi flowing through the claw was constantly refreshing itself, a cycle that kept his cost to a little more than True Sight.
+
+Jack swiped down with his claw and all four of them watched as the Qi part of his claw swept across Sarah’s left wrist. Sarah flinched and jerked the spear upwards instead of downwards, thankfully for all of them, but Jack’s gaze was fixed on the spear tip, having watched it flicker out.
+
+“What did you just…. do?” Sarah asked, her tone shaken as she brought her spear back down to her side, its end planted in the ground.
+
+Jack noted that the claw had grown in length by an inch or maybe an inch and a half and as he dismissed it, he noticed that more Qi that he had invested in the claw returned to him.
+
+“Negated your attack, apparently,” Jack said, his own tone tinged with an awe that he didn’t want to conceal. The full truth was something he would’ve told Sarah if they were alone, but Marcus and Jin hadn’t earned that level of trust yet.
+
+For he hadn’t just negated the attack, he had also stolen the Qi that had been coursing through Sarah’s meridians. Primordial Claw had lived up to the ferocity of it’s name.

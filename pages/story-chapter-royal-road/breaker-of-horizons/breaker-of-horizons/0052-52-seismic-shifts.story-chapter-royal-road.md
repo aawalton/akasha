@@ -1,0 +1,79 @@
+---
+id: 0bf34729-6fbd-542f-80cf-bbe68695b511
+page-type-slug: story-chapter-royal-road
+title: "52. Seismic Shifts"
+slug: 0052-52-seismic-shifts
+partOf: breaker-of-horizons
+position: 52
+ownLength: 2539
+unit: words
+publishedAt: 2020-10-29
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/576197/52-seismic-shifts"
+royalRoadId: "576197"
+---
+
+There wasn't much else for us to discuss after that. Jerric suggested that we reconvene after the exams since he wanted to lead an expedition down to the lake in order to investigate the arcanic being there, and he promised he would explain how he discovered it once he had made the necessary preparations. I offered to help, but he assured me that there was nothing dangerous he needed to do and that it was something he wanted to think about first before presenting his ideas to us in a more coherent and fully-formed way.
+
+By mutual agreement, Kevan and I reached an uneasy peace. I understood why he had ended up ensorceling the others, and he understood why I had withheld information. Emilia forced us to actually say, directly to each other, that we would bear no grudges. "After all," she had stated simply, "we all need Caden to help us modify the Prophecy, and he needs our cooperation to do it so he can protect his family. We're on the same side."
+
+For our final week of the semester, the timetable was shuffled to account for all the tests that had to take place. Instead of piling multiple tests onto a single day, the Academy saw fit to space them out so that we only had to worry about one test at a time. Sequentially, it was Advanced Glyphs, Basics of Artificing, Thaumaturgy, and finally Principles of Arcanophany.
+
+The Advanced Glyphs test involved both theory and application, and both parts were held in the specialised rooms where our normal lessons were held. The conjuration abilities it had were on full display as it furnished us with seats, tables, and booths formed from arcana. First, we had three hours to complete a written test that went from the basics ("From memory, reproduce all the glyphs introduced this semester in their respective sets in the space provided below.") to the more technical ("Explain in as much detail as you can how glyphs affect frame-shifting when they are not used in a sequence that is physically inscribed on any medium."). This was my forte, and I finished that portion early even after checking my work twice.
+
+The final hour was a practical session where we had to read five novel sequences that we hadn't yet seen before, ascertain what they were supposed to do, cast them, then describe the observed effect. This turned out to be fiendishly difficult because it was hard to parse the meaning of glyphs without any context at all. We didn't even have the benefit of seeing what everyone else was doing, which meant that we were definitely working with zero hints. In the end, though, I was able to work through the sequences. To my delight, the final sequence allowed me to invest a sheet of paper with the ability to transcribe what I said. It appeared to be a simpler version of what was behind the blackboard in the Nivordin Lecture Hall.
+
+Basics of Artificing was a two-hour practical session where we had to perform teardowns of artefacts and explain what their functions were, and how their glyph sequences worked. This was especially tricky since the artefacts used in the test were multi-layered, requiring us to physically peel away shells or remove components to read the glyphs inscribed inside. Since they were active, we had to proceed with caution to ensure we didn't trigger any pulses that might cause the artefact to collapse on itself or explode from the interference. That involved a methodical examination of the exterior before we proceeded to carefully cut off the flow of arcana to specific sequences in order to safely deactivate it so we could conduct the teardown.
+
+Given the danger, this test was also held in the safety of the specialised rooms. This time, though, the room gave us workstations with the relevant tools, and each candidate was invisibly wrapped in an arena-grade barrier, while the workstations were further encased in a bubble that served the dual purpose of protecting us from each other, and preventing us from observing what everyone else was doing. The only difficulty I encountered here was working with the delicate instruments when physically breaking apart the artefact to read the innermost glyphs, but I managed it well enough to get the job done.
+
+Thaumaturgy was, to my great relief, not a full-on battle against our tutors or each other. There was an hour-long written component where we were quizzed about the various stratagems, tactics, and considerations that applied to an assortment of theoretical situations. The practical aspect was a standardized demonstration of the various combat-grade sequences we had learnt. If anything, this was the most underwhelming part of all the exams. All that practice with Kant and the Double Thau sessions with the dormies and Emilia had more than adequately prepared me for everything. Getting through all the combat sequences was child's play. I wondered why the exam had been pitched so low. It became a subject of great speculation among the student body, because even the other Thaumaturgy classes had been rather strenuous (though evidently Kant's had been at least twice as demanding), and the exam most certainly did not seem to be testing us to the fullest extent of our abilities.
+
+And just like that, the week was almost gone. The Principles of Arcanophany exam was the one with the highest stakes because, despite widespread protests and complaints, it seemed that Reeves' threat at the beginning of the semester was definitely going to be upheld by the Academy. Anyone who failed to resist ensorcelment would face expulsion.
+
+For this, the entire cohort met in the Nivordin Lecture Hall. The ensorcelment test was the very last thing to be done, which meant that everyone first had to sit through a two-hour theory paper that involved picking one question out of a list and writing an essay on that. One of them stood out to me in particular ("'Arcana possesses an intelligence of its own.' To what extent do you agree with this statement? Substantiate your response with reference both to published theories and your personal practice.") so I started writing almost at once. But I made sure to leave out any mentions of the augera, and I only referenced my experiences with the lesser friend-in-the-arcana.
+
+"Time's up," Reeves said. He got to his feet, leaned over the desk, and looked around the lecture hall. "Please put your pens down."
+
+There was a flurry of movement across the hall as we closed the booklets. Reeves cleared his throat. "This is the final test you'll face this semester in Principles of Arcanophany. Whether you pass will determine if you'll be coming back after the winter break. Two minutes, to determine your future in the Academy."
+
+Despite the weight of his pronouncement, the mood in the hall was light. Most of my fellow students looked confident and determined. A few even seemed relaxed. There was a general air of excitement and relief that we had all come this far and that all that stood between us and the holidays was this last trial.
+
+Everyone seemed to think it was a given that we were all going to make it through, and it was probably true. After all, no one had succumbed to the ensorcelment last week. But our seniors, according to the twins, were not all as proficient. I wondered how many in the higher levels would fail their final test. It appeared that our cohort, in particular, had benefited greatly from the influence of the Prophecy, ensuring that there were enough replacements who could be brought in to fill the five spots in case something should happen to one of them.
+
+Reeves straightened and took in a breath, and in that instant, the entire hall was awash with the weight of his ensorcelment. I was completely immune, courtesy of the augera's carapace over me, so I turned my arcanic senses to really study what he was doing, which was something I had started doing over the past few weeks.
+
+What baffled me was how quickly he always managed to attune to the ambient arcana like that. With the assistance of the augera's carapace, it took me several seconds to get attuned, and even then my sphere of influence didn't instantly cover the whole area. Instead, it'd spread out progressively. But Reeves was consistently catching the entire hall within the blink of an eye. My initial theory was that he, too, knew about the augera and was aided by it in some way, but I ruled it out because I couldn't sense anything like the augera's carapace over him, he didn't call out to the arcana in any way, and I didn't sense the flavour-vein-echo of the woven-shackled-stream in the arcana. This was purely down to Reeves' personal mastery over arcanophany.
+
+It had to involve frame-shifting. There was some idea, some concept he was using, that efficiently utilised the arcana for this very specific purpose. His ensorcelment wasn't like Kevan's first stab at it when Kevan had thought about poison. And it wasn't like mine, either, which flowed like air or water. His was precise, taking effect or terminating at the exact moment he wanted. There was never any slow build-up or gradual tapering off. It came on at the exact intensity he wanted and he adjusted it at will.
+
+And then, as I was contemplating the issue while staring at Reeves who had his hands splayed out on the table, I noticed for the first time as the fingers of his right hand moved ever-so-slightly, probably subconsciously, and it clicked. It was the universal, natural gesture that almost everyone performed when they tuned the intensity of a globe light.
+
+Light. For this purpose, he was frame-shifting arcana as light. It was instantaneous, it covered the entire space right up to a physical boundary, and its intensity could be precisely defined with the same mechanisms of a globe light. He probably attuned to the ambient arcana by matching to the 'colour' or 'frequency' of the 'light'. I smiled to myself and decided to try it later.
+
+The two minutes were up, and no one in the lecture hall had stood. Reeves favoured us all with a wide smile. "Well done, everyone. I am sure these papers will not disappoint." He gestured, and our booklets zipped through the air in orderly arcs, landing into several neat piles on his desk. Someone let out a cry of triumph, and soon the lecture hall was awash with noise as people broke out into expressions of relief and joy.
+
+"Settle down, settle down," Reeves called, his voice carrying easily over the cacophony. By now, I was proficient enough to sense how he was subtly attuning his voice so that he was using the ambient arcana as a natural amplifier. The hall quietened, and Reeves went on.
+
+"As you all know, this ensorcelment test is not part of the standard Academy assessment, and your seniors have not demonstrated as much proficiency. I fully expect some of them not to return for the next semester. Remember this for the rest of your time here in the Academy. Even a greater degree of experience with arcanophany, or time spent in studying it, does not guarantee mastery. You all have shown great promise, and I expect you will continue to live up to that promise."
+
+There was a mixture of satisfaction and disquiet in the air. We were glad that our cohort was doing so well but also worried about what was happening in the wider community of the Academy. Expulsions were, after all, a serious matter. There were other institutions that would gladly take in someone who qualified for the Academy, but it was still a blow for a person to wash out. And if Reeves was right, then this year would see the largest number of students being expelled from the Academy in history.
+
+"These are momentous times, but as a cohort, you have risen to the challenge. I say this to you now because there will be greater challenges still. By the end of the next semester, we will, unfortunately, have another barrier for all Academy students to break, and failure there also means expulsion. These changes are necessary, and it is finally time for more clarity to be given to you. You may in turn bear this news back to your friends and families outside the Academy when you go for your winter break. The Demiurge will speak to you now."
+
+And then, quite suddenly, Maugrim Caldwell was next to Reeves. There was no flash of light, no swirling portal, not even the faintest ripple in the arcana. One moment he wasn't there, and the next, he was nodding gravely at Reeves, who nodded back and walked out of the hall, our stacks of exam papers drifting after him.
+
+There were gasps of surprise, confusion, and alarm. This wasn't my first time witnessing the Demiurge's sudden appearances, so I wasn't as alarmed. But it did serve as a stark reminder of how beyond the pale he was — after all, teleportation was theoretically impossible. And yet here he was.
+
+Today, he was in full arcanist regalia, not his usual casual wear that allowed him to pass off as a senior. I realised I had never seen his formal robes except in the portraits. Where the other lecturers had robes trimmed with silver glyphs, his were gold, and I still did not recognise any of them.
+
+But what caught everyone's eye was the staff he was carrying. An actual staff, like something out of a legend. It was a solid black thing, capped at the bottom with a golden piece ringed with glyphs. And set into the top of the staff was a fist-sized orb, shaped from a substance that I recognised — the same milky-white crystal that made up the dodecahedron in the Spire. Even as I looked at it, something in its depths stirred, and I got the faint impression of a grin from the familiar flavour-vein-echo of the woven-shackled-stream. I was sure my friends could feel it too.
+
+'Greetings to the Chosen One, the fated five, and the unchosen.'
+
+Next to me, Devon flinched. Ambrose's mouth was a thin line. Jerric's eyes were wide, but there was a firm set to his jaw. The twins wore stony expressions. And joining us on the front row, next to Kevan, Emilia looked a little fearful.
+
+Nobody else in the hall reacted to that, though, even the Demiurge, and the augera did not say anything more.
+
+The Demiurge was not the smiling, carefree man who had presented himself to me on multiple occasions. There was a different cast to him now, a coldness in his eyes as he glanced around at everyone, betraying no favour or recognition as his gaze swept over me. His youthful face did not undermine the sense of authority and power that he now exuded. If anything, they made him feel more ancient — like an enigmatic, ageless entity who wielded eldritch might.
+
+"Today," he began in the ringing tone of one making a dire proclamation, "today, you all become the instruments of the Empire."

@@ -1,0 +1,175 @@
+---
+id: 012562e0-7b17-5b2a-81c1-8a570c0f716d
+page-type-slug: story-chapter-royal-road
+title: "v7c77: Imperial Mandate"
+slug: 0330-v7c77-imperial-mandate
+partOf: beware-of-chicken
+position: 330
+ownLength: 2225
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3656129/v7c77-imperial-mandate"
+royalRoadId: "3656129"
+---
+
+She was stuck here?
+
+The words reverberated through Vajra’s mind as her new feet took her through the forest. Her daughters fussed around her, distraught at their queen’s turbulent emotions.
+
+“And I’m guessing we can’t just break it?” the Emperor had asked.
+
+“You don’t just break something like this,” Empress Tianlan had replied. “Vajra accepted. It's a valid contract… if underhanded.”
+
+They had entered a discussion on the matter anyway, the Emperor upset on her behalf. Ah, the way his arm had wrapped protectively around her shoulders and his green eyes had filled with resolve had been absolutely, truly wonderful. His big, strong arms were so different from Bi De’s. Heavier. Rougher. Normally, Vajra would have liked to spend hours in that embrace… but she had been too upset herself to truly sink into those big strong arms and enjoy it.
+
+The others had tried to comfort her, which had been a blow to her pride, especially because hugs felt very nice, and they too had nearly distracted her. The way Empress Meiling had groomed her had been oddly soothing, to the point she had nearly fallen asleep.
+
+Eventually she had begged off, while the others began to converse, on the pretense of testing her new body.
+
+The Emperor had her complete trust; his decision was one she would abide by without hesitation, even if she disliked it. But for the moment, she needed to think and take stock of this new duty that had been thrust upon her.
+
+Now that Vajra knew what to look for, she could feel it. Feel the power, the Qi of her surroundings slowly settling into her spirit. The awareness that she had mistaken for the senses of her daughters was something more.
+
+The forest came alive to her senses. The rivers, the trees, the wildlife… everything. It all had a vibrancy to it, and it was all hers.
+
+She paused at the possessiveness that came to her, and narrowed her eyes. It was not hers, it was the Emperor’s. Which did mean it would eventually be hers as well, but now was not the time to think like that.
+
+She took in a breath, and to her irritation, the air here felt nearly as good as the air at Fa Ram to her. It was nourishing, which meant she was supposed to be here.
+
+Previously, getting such a boon would have elated her. She was still quite enthusiastic about her sudden elevation. Empress of the Forest was a fine title, but Booze Master was equal in prestige—Master Forest Sweeper tried to curry the Booze Master's favour, and he was clearly this Mishu’s superior, for she was dead, and he was not!
+
+She sent that mental jab at the bit of green in her soul, projecting as much spite as she could.
+
+The green, naturally, did not respond.
+
+But that was the main part about this. Vajra had been tricked—no, not tricked, never tricked, merely… misled. How dare that bear take advantage of her joy at victory to propose this, this…!
+
+Her body let out an odd, angry screech, and she found herself falling to the forest floor, her legs kicking and flailing in a most undignified manner while she buried her fingers in her fur.
+
+Damn, bastard bear! She finally had a home! Vajra finally had a place to go back to and she dared?! Oh she dared try and seal Vajra away in this forest, in this tiny little place without the others who appreciated her so?! Would she have to start again in this damned forest, building up her hives, with her only company being these bears?!
+
+Granted, they were not all bad, but it was the principle of the thing!
+
+She snarled and growled until the feeling of her very nice hair in her fingers distracted her. She sat up and combed through it with one hand, while she bit the nail of her thumb on the other.
+
+No. She had to think. She had to calm down and examine things, examine this bond, this contract, and see exactly what it meant.
+
+The terms were simple, almost insultingly so, her own words thrown back in her face.
+
+Protect and improve the forest. Protect and improve the Empress’s home.
+
+Home.
+
+The bond resonated slightly.
+
+Home. She was to protect this forest, and this forest meant home. The feeling was interchangeable.
+
+She bolted upright, and pressed her hands to the trees. The green energy within resonated.
+
+The trees were part of home. These trees, brimming with Wood Qi, were home. She shoved her awareness into them, through the still-settling link she had with this place. Her awareness expanded in an almost disorienting manner, but it was nothing she hadn’t handled before. If she had not been a bee, and had not been used to such senses, she would have been utterly lost and confused.
+
+But she was Vajra, future Empress. This was nothing, even though she could feel a pounding sensation start to form in her head.
+
+And there, she saw it. The limits of her domain, where the trees finally thinned… and then she pushed at the edge of the forest. She pushed at the edge of the domain, and at first it refused her.
+
+But she was Vajra, the Empress of this place, and she would not be denied. She could feel something, just past the edge, and she just had to get there!
+
+The pounding feeling got worse. There was a sharp pain, and something warm started dripping from her facial spiracles—her nose.
+
+But the pressure keeping her back broke. There, she found her vision in another little copse of trees. It sat by its lonesome beside a village, and it too was also ‘hers.’
+
+The trees. The trees were home.
+
+“Oho, so it works like that, does it?” Vajra asked. Slowly, surely, a smile spread across her face. She wiped the odd red liquid—the blood? Yes, that was blood. Red now, instead of blue—from her face.
+
+She had to protect and improve what was her home, did she?
+
+The trees were home.
+
+Then the answer was simple, was it not? If she wanted to return to her real home… all she needed to do was expand her domain.
+
+And why, pray tell, would she stop there? Why stop at a corridor to Fa Ram? This Mishu was a banal creature, utterly lacking in ambition. Why would she not have her trees all over this province? Why would her scouts not be able to see every inch of the Emperor’s domain? Bane had told her of the hives to which she had spread the good word of the Emperor; of the millions, nay, the billions of peasants that knew not their rightful Lord and Master, nor their rightful queen.
+
+The Empress of the Forest?! As if she would be content with so small a title. Force this on her, that ugly, greasy ball of fur dared?! Vajra would take the power. She would take the title—and she would utterly shame the beast that dared to insult her by making her the queen of this tiny place!
+
+Why the hells had she been upset? The entire province was the Emperor’s! Did this stupid bear think she would balk at improving every single Li of this land? It was not even an imposition!
+
+She jabbed at the connection again, and then purposefully ignored the faint feeling of encouraging amusement that radiated from it this time. She was just imagining that.
+
+“Ohhohohohohohohoho!” Vajra threw her head back and laughed.
+
+Her daughters alerted her to a presence, and Vajra’s laughter reached its crescendo.
+
+There was no better time to begin the improvement than the present.
+
+===
+
+Paobu stared at the scene he had stumbled across. There was a human in ill-fitting furs kneeling on the forest floor cackling in a most disconcerting manner—but at the same time, as he looked at her, there was something oddly familiar about her. Something… nice. Was it her smell? Yes, she did smell nice. It was a soothing thing he didn’t really know how to describe.
+
+The soothing feeling immediately terminated when the woman suddenly whipped her head around to stare directly at him, as did every bee in the clearing.
+
+Now, he knew they were heavenly bees, not hornets, but it still made his bowels clench uncomfortably at the sudden attention.
+
+The human woman bared her teeth in a smile that was not entirely nice.
+
+“Ah, the great hero Paobu. It is this Vajra’s pleasure to see you again,” the woman purred, her voice like honey. It felt sweet and pleasant, but somehow Paobu felt he was in danger, even as he felt an odd desire to sit and listen.
+
+‘Vajra—you turned into a human?’ Paobu asked as the bee—the human woman approached him, her body language that of submission and deference. The change to this from her previous confident pose was so abrupt it was a bit jarring.
+
+“Indeed I have. It was so difficult to communicate with the others, so I had to try my hardest—after all, we’ll all be working together to help repair this forest, after what these damn demons did to it.” Her words sounded so earnest the feeling of unease faded completely.  “But though this Vajra has many, many plans to help the forest and all who live in it, she lacks the qualifications to demand the people’s attention. They would surely listen to you, however, the one who helped slay the Yellow Empress.”
+
+Paobu blushed at the flattery. They would listen to him, wouldn’t they?
+
+‘What kind of plans do you have?’ Paobu asked, intrigued.
+
+====
+
+I sighed as we exited the medical tent. Tianlan couldn’t see a way forward without hurting Vajra, at least the way she would have to do things.
+
+My only other idea was maybe asking Gramps to see if he could cut the connection… but even that sounded iffy.
+
+For the moment, she was stuck here against her will. My heart ached in sympathetic pain. I knew that feeling. I knew the kind of desperation that could bring.
+
+She was part of the family. And if the contract said she had to stay here until it was some nebulous version of fixed?
+
+…it looked like we would be coming over here a lot to help speed this along. Big D and Rizzo had offered to stay a while as well, to help her with anything she needed while she was adapting to her new form.
+
+It was with a heavy heart that we went to go and find Vajra, and tell her we were still working on it.
+
+It didn’t take long to find her. We just asked one of the bees, who pointed us in the right direction, which was, to our surprise, back in the main clearing, where there was some kind of great commotion.
+
+The main clearing was absolutely filled with Blaze Bears… and a couple of humans.
+
+Vajra was standing on a rough wooden litter held up by Paobu and a bear we didn’t recognise so that she stood above the crowd, absolutely belting out a speech.
+
+“And so I say to you, you shall eat honey with every meal! Your dens will overflow with the bounty of the forest! No more will just this forest be home! Home will be wherever you set your paws, where all will welcome you with open arms!” Vajra declared, her voice booming off the trees.
+
+The bears around her were roaring with approval, stamping their feet and blasting fire in the air.
+
+‘Booze Master! Booze Master! Booze Master!’ they chanted.
+
+There were a bunch of discarded honey pots around the clearing, licked clean.
+
+“Wha?? I got out, staring blankly at the rally.
+
+“She asked for all the honey we brought along,” Yun Ren said, sidling up to us. “Then handed out the jars and started this, ain’t that right Spooks? …Spooks?”
+
+Yun Ren turned when the Thunderhoof didn’t answer him. Spooks was still looking at Vajra, nodding along with what she was saying. He noticed our gazes after a moment, and seemed slightly defensive at our incredulous stares.
+
+‘What? She's talking a lot of sense,’ the Thunderhoof said.
+
+“What say you?! Will you join me in this grand endeavour? Will you aid me in putting this forest to rights?” Vajra continued, her voice full of passion.
+
+‘Booze Master! Booze Master! Booze Master!’
+
+“Wonderful! Then in the Name of the Emperor! In the Name of the Earth! In the Name of your home, let us go forth together, freed from the terrors of the past, to a future bright and golden!”
+
+‘Honey!’ the bears roared.
+
+There was a veritable stampede out of the clearing, the bears bearing Vajra running off as she threw her hand forward in command.
+
+Vajra planted one hand on her hip, and the other came up just below her mouth. She threw her head back, and started to laugh a loud, carrying ‘Ohohohohohohohohohoho!’
+
+I just stared at the dust cloud, trying to reconcile the clumsy silly bee with whatever the hells that had been.
+
+“Well, she certainly doesn't lack optimism,” I finally managed to get out. And you know, if a lady offered me a land of infinite honey, and could actually back it up, I would probably be a bit enthusiastic about it too…

@@ -1,0 +1,121 @@
+---
+id: fca5f2db-4daf-5f25-a87b-d3f281f82fcb
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 63 - Alchemical Surprise"
+slug: 0067-b3-chapter-63-alchemical-surprise
+partOf: bookbound-bunny
+position: 67
+ownLength: 2267
+unit: words
+publishedAt: 2026-07-09
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3651717/b3-chapter-63-alchemical-surprise"
+royalRoadId: "3651717"
+---
+
+"If you would please do the honors, Headmaster Fl—" Professor Sylwel said before he drifted off into an inaudible mumble.
+
+Lily wasn't sure whether he'd given up trying to remember his name or if Fabrelis had censored him mid-speech. Either way, what next appeared was a projected set of ingredients and instructions that floated before everyone. The students gasped, as did several in the audience, as this was very unorthodox.
+
+I should have known…
+
+From what Lily and Lotte had gathered, the usual way alchemy competitions were handled was that a potion was called out, usually one from their current curriculum, and they would need to create it from memory. What Sylwel had done instead was give the students a brand-new recipe, presumably never seen before, and they would need to use their skills to complete the task.
+
+Lily glanced around at the other students, and judging by their faces, none of them had seen this before. Heck, Sylwel had even gone a step further to not include the name of what they were supposed to be brewing.
+
+Rather than testing our accumulated knowledge, this is asking us to think on the fly. We've all got the recipe and instructions, so it's up to our individual strengths now to determine how we will do.
+
+Professor Sylwel appeared to be trying to speak, but no words came out. After a short bit of time with him looking rather flustered, Headmaster Fabrelis spoke up.
+
+"You will be graded on three factors: speed, efficacy, and quantity. So there's no need to rush when brewing this potion, but certainly don't dawdle," he warned.
+
+The students nodded, and Fabrelis began a countdown. As soon as he reached zero, every student activated their glyph, and numerous identical flames erupted under their respective cauldrons. The audience murmured with excitement, and the students were visibly eager at the display.
+
+Meanwhile, Lily, after activating her own, continued to stare at the instructions still floating before them. Unfortunately, this was most certainly not something she had studied with Camilla, as it was an actual magical potion, requiring imbuing and everything.
+
+However, even if she wasn't sure what it was, she didn't want to jump in blindly and tried to make some sense of it from the ingredients alone. The first thing she noted was that many of them were swampy or aquatic, with Frogleaf Mint and River Reed Pith as the biggest suspects.
+
+What kind of potion is this? Maybe something to prevent drowning?
+
+It was the first thing that came to mind, and while it might not have been correct, it seemed to fit with the theme of the ingredients. However, as she looked over them some more, she spotted something that felt like a trap.
+
+Scarlet Fungus? Isn't that heavy on the fire-element? Wouldn't that be terrible for this kind of potion?
+
+Now Lily was conflicted. Her hands had still not moved as she continued to frown at the list of ingredients. Reading the instructions, it simply said to dice it and toss it into the pot, which also sounded bizarre to her.
+
+Why does that feel more like cooking instructions than alchemy…? Could it be this is a trap? Would they actually do this to us?
+
+Lily snuck a glance at Sylwel and then sighed. Ordinary professors might not do this, but the mad professor was anything but ordinary, and this sounded exactly like something up his sleeve.
+
+Not only does he want us to work with an unfamiliar recipe, but he also wants us to realize that we shouldn't blindly trust the instructions… What an oddball…
+
+Objectively, she thought this was a good lesson if her assumption was correct, but realistically, she also felt there was a time and place for everything. Suddenly springing this onto unsuspecting students in a competition definitely seemed like a step too far for her liking.
+
+Maybe the potion will still work even with the Scarlet Fungus, but it will lower its potency? The amount the recipe is asking for isn't exactly a lot, and with the way it's described, it also makes it seem out of place, so if you aren't knowledgeable about elemental properties, you can still discover it.
+
+Aside from Lily, who had been scrutinizing ingredients with Arakil, she wasn't sure if any student knew about the difference in trace amounts of Mana in ingredients. Their alchemy books probably said something about it, maybe in the advanced section, but unless you read that far ahead, you likely wouldn't know this.
+
+Or maybe I'm overthinking it. You could also notice it's the only fungus on the list, which draws attention to it. Maybe Sylwel wasn't as mean about this as I thought.
+
+With at least three potential methods of spotting this trap that Lily thought of pretty much on the spot, not only did she feel confident in excluding it from her brew, but she also saw the professor in a slightly better light. She assumed there might even be more that the other students could notice: maybe Scarlet Fungus was inedible, and putting it in a potion was a red flag when it should have been in an ointment or pill form.
+
+Either way, Lily had wasted enough time, and she needed to get to work. Her pot had long since reached the desired temperature, and now all she needed to do was prepare the ingredients. Despite her delayed start, she didn't rush; she took each step with methodical precision. Rushing and making a mistake would only set her back, so it was better to get it right the first time than risk the hasty approach.
+
+Not only that, but whenever she finished preparing an ingredient, she would make sure to clean her tools. The risk of cross-contamination was very minor when preparing ingredients that would all go into the same pot, but Lily didn't want to take the chance, and it had already been ingrained into her routine to always clean up between them.
+
+"Build up the good habits now and you'll thank me later," Camilla had told her, and Lily had taken the advice to heart.
+
+With her ingredients prepared, it was finally time to start the brewing. Again, she could have combined brewing and preparing ingredients, especially between steps, but Lily saw no reason to risk it. If one of the ingredients had been short-lived after processing, she would've had to combine preparing and brewing, but thankfully, none of these rather common ingredients were that volatile.
+
+She vaguely heard that some of the students had already finished, but she ignored them and continued with her own work, knowing that she still had plenty of time by looking at the glyph under her pot. Even without a clock, Lily could use her Magesight to estimate how much life the glyph had remaining.
+
+Plenty of time…
+
+Lily had even made sure to "prepare" the Scarlet Fungus for two reasons. The first was if her hunch was wrong and this wasn't an elaborate trap from the mad professor, then she should be able to start up a second brew and fix the mistake. The other was in case anyone was spying on her; she didn't want to give them her answer, whether it was right or wrong.
+
+After triple-checking the instructions, Lily finally began brewing. Despite being an entirely new recipe, the process was surprisingly straightforward. Lily had originally expected the glyph's temperature to be wrong for the recipe, and that it would be up to them to take the pot off the flame for more delicate ingredients, but that was surprisingly not the case.
+
+Maybe Professor Sylwel is saving that for the senior students. Or maybe Headmaster Fabrelis stepped in and stopped him from being too extreme with first years.
+
+More potions were being completed around Lily, and it looked like Lotte had also finished before her. Unfortunately, she hadn't been paying attention and wasn't sure whether her friend had discovered the trap, so she would need to wait until the judging to find out.
+
+While the rest of the students went through the process calmly, some weren't so lucky. Seeing others finish before them, they had begun bustling, causing their ingredients not to dissolve properly before the next step or, worse, requiring them to start over.
+
+Lily thankfully managed to keep her cool by getting absorbed in the process, channeling her Mana into the cauldron and elevating it from a simple tonic to a magical potion. This part of the process always fascinated her, especially considering Camilla had to unfortunately dance around the subject for legal reasons.
+
+After this year, I think we all get novice alchemist licenses if we pass. The main purpose would be to sell my potions without needing Professor Sylwel's stamp of approval, but I'm more looking forward to being able to buy ingredients without direct supervision.
+
+Of course, Regarth allowed ways around this, buying from students directly for one thing, but not every ingredient could be found in the dungeon. With her own license, she could not only place an order in Kaeling but also browse their catalog, which would hopefully give Arakil some ideas about what was readily available and useful for their purposes.
+
+It's a pity Arakil didn't study much about potion-making. But the ingredients could be used for rituals or more. Plus, even though he wasn't really into brewing himself, he still collected the books as long as they were even remotely related to magic.
+
+Lily's wandering thoughts were brought to a halt when the concoction began to bubble, an indication that it was reaching the final step. Lily glanced at the final two ingredients, one a trap, the other real. She carefully sprinkled the powdered Frogleaf Mint while continuing to stir, ensuring even distribution.
+
+The instructions then called for tossing in the diced Scarlet Fungus, but Lily hesitated, debating whether the trap was real or not. Not only was she using her Magesight to examine the mixture, but with her Mana still imbuing it, she could, for lack of a better word, feel the concoction.
+
+The liquid was correctly saturated, the ingredients entirely dissolved, and everything seemed harmonious. Her gut screamed that adding the fiery fungus would ruin this delicate balance, so she finalized her decision by halting the imbuing process. At the same time, she hid the unused fungus under an empty sack with a bit of sleight of hand.
+
+With no more intake of Mana, the potion entered its final stages and began to take form, much like adding the final stroke to a glyph. Lily watched as the final potion manifested, the multitude of swirling colors beginning to fade into one consistent mixture. Then, with a subtle poof of smoke, it was done, and she stared at the completed product.
+
+I still have no idea what this actually does… I hope we actually get an answer at the end. Will we get to keep it?
+
+First, she placed the lid on the cauldron, then, using the telekinesis spell, she removed it from the still-burning glyph and allowed it to slowly cool down. While that was going on, she used the time to check that nothing was wrong with the bottles she was provided, even going so far as to give them a proper rinse before she started siphoning into them.
+
+One by one, she filled, corked, and stacked her bottles. The process soon became routine, and after a while, her cauldron was empty. Glancing at the still-burning glyph, she estimated less than five minutes remaining and, with nothing left to do, glanced around curiously at the other students.
+
+Their faces alone told different stories; some were filled with confidence, while others looked very worried. Some were still furiously brewing, racing against the clock, while others looked like they had fallen asleep at their table.
+
+However, one thing quickly became apparent, and it made Lily wonder if she'd done something wrong. Looking at the various students' potions, Lily seemed to have significantly more than the average student. She even snuck a careful peek at Lotte and discovered that even she had fewer completed potions than herself.
+
+Why?
+
+They had all been given the same amount of ingredients, and Lily wasn't arrogant enough to say that she was the only one in the entire group to not let any of it go to waste. Lotte, especially, was just as good, if not better, with a bit more time. Lily had just gotten a head start compared to her.
+
+Was it the Scarlet Fungus?
+
+Her mind strained as she tried to think of what effect the fungus could have if it were to be added. She still felt relatively confident that it was detrimental to the brew, but had no idea what it would be. As mad as Professor Sylwel could be, she didn't think he would add a trap that could harm the students.
+
+Is it possible that it only reduces the final amount? I've never heard or read about anything like that before… Or does its counter nature somehow concentrate the potion's potency? Do I have more potion because mine's diluted?
+
+Lily's racing mind was brought to a screeching halt as the students and audience gasped as every glyph went out together, bringing an end to the competition. Lily could only sigh in response, as whether it was good or bad, she would find out the answer to her question soon enough.
+
+"I hope you all enjoyed the show, and have some ideas of your own on how these glyphs could be used, but now it's time to judge!" Sylwel shouted excitedly.

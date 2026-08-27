@@ -1,0 +1,251 @@
+---
+id: 1d52d85b-1553-51a2-b17a-ba75b7643084
+page-type-slug: story-chapter-royal-road
+title: "v7c18: Song of the Forge"
+slug: 0271-v7c18-song-of-the-forge
+partOf: beware-of-chicken
+position: 271
+ownLength: 3034
+unit: words
+ownProgress: 3034
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2926688/v7c18-song-of-the-forge"
+royalRoadId: "2926688"
+markedReadAt: "2026-06-29T19:00:43.192Z"
+---
+
+After a brief rest, we were invited back to meet privately with the Tie family. We were guided to the main hall of the sect. The table was a giant marble slab instead of metal, the Sect’s symbol carved into the center of it. It was myself, Meimei, Tigu, and Washy, Zhuye having tuckered himself out and was taking a nap with Suyan. I was carrying a long bag with me, which got a few glances.
+
+“Master Jin, Lady Meiling, please,” Delan said, gesturing to the other end of the table.
+
+Delan was sitting with his wife and Delun, as well as the other Elders of the sect. In front of them were dozens of scrolls—diagrams of blades of all types were drawn on them.
+
+Huh. They had references they could show us of their past work? How surprisingly normal of a consultation.
+
+Meimei sniffed a couple times and frowned, but at my questioning glance she just made a little movement that I interpreted as “wait and see”.
+
+We sat down, and Delan went right into it.
+
+“Myself, my son, and my wife shall be in charge of the forging. Father-in-law generally designs the decorative work, and my mother is the most knowledgeable of us all in terms of designing pieces,” the man said, explaining each of their roles.
+
+I nodded, impressed that it would be a whole family affair. That was cool as hell.
+
+“Excellent.” I leaned forward to give Delan my full attention.
+
+“This is the material, Master Jin,” he said, pulling out a lacquered box. “It is of high quality—extremely high quality, for being sourced within the Azure Hills. However…” he trailed off and then opened the box.
+
+I looked at the dull grey chunk of ore sitting in the box. It was my first time looking at an unrefined chunk of Spiritual Ore since I became Jin. My mind immediately classified it as “Spiritual Iron”, which was interesting; it didn’t tell me why it was different from regular iron, just that it was. My Qi senses still weren’t the best, but I tried anyway—and frowned at what my senses were telling me.
+
+“That… does not feel right,” I said, looking at it. It felt… angry. Not a hot anger, but a low, ever-simmering grudge.
+
+Delan nodded heavily. “Yes. The bastard nobles of Grass Sea City inflicted enough misery that the grudge of the enslaved penetrated the very earth.”
+
+I paused. “I know little of forging Spirit Ores, but I assume that's bad.”
+
+“If unpurified, the grudge will linger,” Delan explained. “It could even become Cursed Iron—a wretched, miserable thing fit only for Demonic Blades. However… I swear upon all my Ancestors, it can be purified. It will be purified. It shall not fall to that fate.”
+
+Delan’s voice was solemn, and it was clear that he viewed the state of the ore as something of a personal affront.
+
+“I see. Then I’ll just trust it will be,” I said, nodding to the man. Delun was a good guy, and his father seemed cut from the same cloth.
+
+The man seemed pleased with my praise.
+
+“Then, please. We have records of everything we have ever created here—and we will meet your specifications for anything you desire.”
+
+I looked at the first couple of pages, but they were all weapons.
+
+“Truthfully, I will not get much use out of a sword,” I said after a moment. “There is something, but I don't know if it will be appropriate…” I trailed off, wondering if they were about to consider this an insult or not.
+
+I reached behind me and opened the bag I had been carrying. I pulled out my old friend and set it on the table. I had taken it along just in case I had to do some digging. Tianlan had mentioned some physical blocks, as well as metaphysical ones.
+
+Everyone just stared for a moment at my shovel. I hadn't even really considered it before Meimei had brought it up. Uncle Che had forged the steel for me, helped by Yin and Noodle. Han had used his formation on it to give it artificial meridians… which proved to be a blessing and a curse. A blessing, because it felt even better in my hands… but also blared all the little flaws the shovel’s head had into my brain. Microfractures, imbalances where it had been repaired, and its slight asymmetry.
+
+I had resolved to just keep using it, flaws and all. Tigu had made the haft for me, and my friends had made the head. It felt wrong to replace bits before they broke—and it might disrupt whatever Han had done.
+
+“It can’t hurt to ask,” my wife had said simply.
+
+“It is my most used tool. It was nearly destroyed during the battle on the solstice, and my friends repaired it the best they could, but…” I trailed off. That obviously caught the Tie family’s attention.
+
+“May I?” Delan asked, and I handed it over. He studied it intently.
+
+“Mortal hands made this,” he deduced instantly. “Skilled mortal hands, but mortal hands—no, not entirely mortal. The source of the heat has solar Qi within it, and it has… the beginnings of meridians? A nascent Spirit Tool?!” Delan looked stunned. Everyone but Handsome Man sucked in a breath. “Master Jin, you would trust us with this?”
+
+“Only if it doesn’t harm it,” I replied. “Tigu carved the haft for me, and I don't want that replaced. If the Spirit Iron doesn't work with it, it doesn’t work. I’ll keep using it anyway.”
+
+Tigu beamed at that.
+
+“A true craftsman loves his tools like his children,” Delan said solemnly, “I will see what can be done.”
+
+He returned his attention to my shovel and closed his eyes.
+
+About five minutes later, he nodded.
+
+“The meridians are mostly concentrated in the haft; they’re barely in the head of the shovel. Removing it without harming the current meridians is possible… and probably for the best. The introduction of Spirit Iron will likely complete the connection.”
+
+Well… that settled it then.
+
+We spent the next hour or so going over blade designs, with Delan and his son sketching things out while Liquin quickly carved wooden blanks in the style that we were looking for. Her father ran his hands over the haft of my shovel, and then carved out his own from a blank block of wood, matching Tigu’s style perfectly.
+
+It was really neat to watch them all discussing and debating the best course of action—and in no time at all, it was time for dinner. It was another public meal, but the Tie Family’s attention was clearly elsewhere, all of them still debating as we ate, completely immersed in the design process.
+
+We spent our first night there. And in the morning, the forging would begin.
+
+================================
+
+Tie Delan rose out of his meditative position. He took one last glance at the finalized diagrams, and committed them wholly to his memory.
+
+The dawn light hit his eyes.
+
+He took a deep breath and walked out of the meditation chamber.
+
+Before him was a great edifice of stone: the Hermetic Iron Forge. The disciples had worked through the night to fully stoke the great furnace and bring it up to temperature.
+
+Now, in the early dawn light, it was ready.
+
+As ready as he.
+
+He strode forth, his eyes focused solely on his destination. His wife and his son joined him quickly, having spent the night preparing themselves as well.
+
+All three of them paused at the great stone doors.
+
+“We pay our respects to the Ancestors!” he declared, bowing three times—and then Delan rested his hands upon the doors. He pushed, his muscles coiling, and the doors groaned open.
+
+A blast of heat hit all three of them. Delan let the temperature scald his skin, and his lungs taste the scent of the fires within.
+
+Then, he activated their birthright.
+
+[Hermetic Iron Body]. His body shone with the dull gleam of metal. His wife, beside him, was the same. Only his son was different, his body a mix of marble and steel.
+
+Delan knew now that they had once been workers of stone, and that was where their true abilities would have to go to reach their full potential—and yet, he could not deny the fortitude of those who had their world shattered, yet still survived. Those who had survived in the Ironfields, who had crafted wonders from metal, were still worthy of veneration. Their techniques were still worthy of being passed on.
+
+That was the new direction of the Sect. They were people of both stone and steel—children of the hardy earth. Craftsmen whose names would one day resound throughout the world.
+
+“We pay our respects to the Tie Family’s Ancestors.” Delan heard their guests intone the words of respect from behind them. Rare indeed were outsiders allowed in this forge… but an exception was made.
+
+They stepped into the forge. Into the heart of fire.
+
+It was time to begin.
+
+=====================
+
+Tie Delan took deep, even breaths. His muscles strained, his spirit roared. His hammer swung in a relentless beat. Sweat poured off his body. Each strike was perfectly visualized. He held firm to the image of victory in his mind, and each strike was to progress further along that road.
+
+The Spirit Iron held in his hand fought him. The Qi within the ore did not wish to be shaped. It struck at his spirit. It deflected his blows if his concentration wavered even for a moment.
+
+His son moved between each stroke of Delan’s hammer, his brush sweeping away the scales that formed after every blow. It was not true hammerscale, made of the metal reacting with the air; rather, it was a more spiritual thing, the impurities of the Spirit Iron leaving its form.
+
+His wife pumped the bellows in deep, even movements, keeping the temperature perfect, her own skin having taken on a silvery sheen.
+
+Though there were spectators, Delan’s mind tuned them out. They were distractions, when now he needed concentration. Now, he needed to be at his best.
+
+If most mortals attempted to forge Spirit Iron they could hammer on it for a lifetime; they could set it in river-powered drop hammers, and still it would resist. Even if they somehow managed to pound it flat with overwhelming physical strength, the ore would return to its original form, defying them until the end.
+
+Spirit Iron was not mortal. It was shaped by the breath of the world into something beyond base metal. It had a spirit—not truly alive and aware, but something in between nothing and something.
+
+Delan’s Qi touched the Iron’s. This one’s spirit was particularly recalcitrant. It was bound tightly to itself—and each time Delan pressed, he felt the echoes of resentment, despair, and hopelessness.
+
+Again, he felt rage at the mortals who had done this… before he forced it away.
+
+It was the most closed off Iron he had ever felt. Most would have given up at this point. They would have seen the Iron’s Spirit and destroyed it. They would have wiped away the grudge, and left only purity.
+
+The metal could be conquered. The young and foolish simply made it submit, breaking the Iron’s spirit, yoking it, and forcing the metal to their desires. That produced strong, obedient blades—but that was it. And to be truthful, that was what many wanted.
+
+But true Masters? True masters did not need to conquer the steel and break its spirit. A true Master was no brute. One had to speak to the metal.
+
+Though he struck the iron, this was not a battle. This was a conversation. He hammered himself into the metal, to make it see.
+
+Delan let his own Qi fill it with righteous indignation. The grudge that had settled into the Iron shuddered. It demanded justice.
+
+An opening.
+
+“Liquin,” Delan said, and that was all that was needed. His wife pumped the bellows, her eyes on the flame. Her fine dress had been removed to the waist, and her beautiful muscles flexed and roiled beneath her skin.
+
+The heat penetrated the Iron. It softened it, and its attitude. It let Delan’s Qi penetrate fully into its hard core.
+
+Delan brought up the memories of that week. He let the Iron feel it. The wrath at injustice. The satisfaction of hunting those who had perpetrated it. The feeling of his hands breaking the chains of those who had been imprisoned.
+
+The grudge within shuddered and sighed, burning away in the heat, and at being satisfied. The Iron was ready. It was receptive.
+
+Delan smiled, and the lyrics of an ancient song bubbled up from his chest. The song of the smiths. The song of Iron. His hammering changed, from steady strokes to a thumping beat.
+
+A sword, an axe, or armor whatever will you be?
+
+The crashing of the hammer will set this new soul free.
+
+I know already in my heart, and you know it too.
+
+All that's left is to work, and that form be true.
+
+Now, the hardest part began. Delan focused his mind. He visualised what he was making to the best of his ability. He had to show it its new form, show it the glory of what it could be. Then, it could truly be guided. Its Qi matrixes solidified and changed, and it truly became what was envisioned. These creations were stronger. Just like how the ore resisted change, minor damage would straighten out of its own accord. Edges would realign. A True Blade was a work of art—and sometimes the most skilled mortals could arrive at the end point. Those with such a beautiful, perfect vision that the Spirit Iron would help them achieve the impossible.
+
+Liquin and Delun’s voices rose with his, booming, resonating through the great forge; he knew outside, his mother, Liquin’s parents, and all the disciples could hear it too, and they too would begin to sing.
+
+Clang, clang clang! Tempered in a blazing womb.
+
+Clang, clang, clang! Like a flower you will bloom;
+
+If one was good enough, it was said in the annals of their Ancestors, one could even make a true Spirit Blade. The apex of smithing. A blade with a soul.
+
+Tie Delan had been trying for his entire life to make one. He had thus far failed… and this time would likely be no different. But what was a cultivator, besides the pursuit of perfection?
+
+And while its shape was unorthodox, what Delan was making was still a blade.
+
+A blade for a shovel.
+
+It would be a tool used by a Master beyond other Masters. It would not be a blade that could be used to enslave others. It was not something to inflict violence; it was a tool of patience, careful tending, growth, and life.
+
+The Iron seemed almost confused by the image. By what it would become.
+
+And then, the Iron began to change.
+
+The next strike did more to draw out the blade than the three thousand two hundred and twenty before it.
+
+The Iron went from red to white, its body shining with Qi and potential.
+
+They were in the critical stage; but all knew their role well. The bellows began to roar, and Liquin’s Qi added to the flames, stoking them higher and higher. Delun’s brush moved without ceasing, removing the impurities the instant they formed.
+
+Clang, clang clang! Let the song of makers ring!
+
+Clang, clang, clang! Oh I hear you sing!
+
+The forge burned with light and Qi. It echoed with the ring of metal and the booming of their voices.
+
+Time lost all meaning. There was only the forge.
+
+An eternity, and perhaps a heartbeat later, it was done.
+
+The shovel blade rested on the anvil, glowing with a quickly fading inner light. Its edge was already formed, whole, pure, and needing no sharpening.
+
+Delan took a final, deep breath, and looked up at his son. Delun stood tall and proud in spite of his tiredness. Liquin was leaning against the bellows, her body and Qi exhausted.
+
+Then, Delan turned to his spectators. Master Jin and Lady Meiling stood, both completely unaffected by the heat; their son was outside the forge with their maid. Master Jin was smiling widely. Lady Meiling too looked like she had enjoyed watching them.
+
+The great dragon Wa Shi coiled around them, looking with interest at the shovel. The ox watched on, completely engrossed—and the final spectator had only eyes for Delan’s son.
+
+Tigu had pure admiration upon her face, her beautiful yellow eyes locked on Delun.
+
+“Tie Delan. Thank you for allowing me to witness this.” Master Jin raised his hands in the gesture of respect.
+
+Delan let out a sigh of contentment.
+
+“Thank you for witnessing it,” he replied. An Expert as powerful as Master Jin thanking him for showing off the techniques of his family? How could he not be proud?
+
+Delan slowly, reverently lifted the completed piece. Together, they exited the forge—where Delan’s mother was waiting with the haft of the shovel.
+
+Liquin carefully took the haft. Delan lifted the blade. He could feel it. It was almost eager.
+
+The two met with a pulse of Qi. A blade of Liberated Iron. A haft, carved of Qi-dense wood.
+
+The patient, gentle caring of the man who used the tool to its fullest potential.
+
+Delan and his wife turned to Master Jin and presented their finished work. This too was risky. Sometimes weapons made of Spirit Metal rejected their wielders. Sometimes they resisted them. The Expert’s hand closed around the haft. His Qi filled it with golden light—and the shovel felt, for a moment, like it was more regal than the treasure of a king.
+
+The Spirit Metal accepted him instantly. Like a loyal hound whose Master had returned, the Spirit Metal and Qi within bounded to his side, overjoyed at having been chosen.
+
+Then, the feeling was gone.
+
+Master Jin smiled at his shovel.
+
+“Oh, that is better, isn’t it?” he asked. The blade shone in the light.
+
+All Delan could do was stare at the beauty of what his family had helped to create.

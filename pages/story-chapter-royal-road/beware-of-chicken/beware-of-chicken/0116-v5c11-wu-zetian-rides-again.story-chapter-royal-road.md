@@ -1,0 +1,133 @@
+---
+id: c48a6263-54ed-5469-a30e-804b48cfcce8
+page-type-slug: story-chapter-royal-road
+title: "v5c11: Wu Zetian Rides Again"
+slug: 0116-v5c11-wu-zetian-rides-again
+partOf: beware-of-chicken
+position: 116
+ownLength: 2046
+unit: words
+ownProgress: 2046
+publishedAt: 2024-06-09
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1669538/v5c11-wu-zetian-rides-again"
+royalRoadId: "1669538"
+markedReadAt: "2026-06-29T18:55:28.867Z"
+---
+
+It had been one thing for the Lord Magistrate to hear about a raid on slavers in Grass Sea City. To him, it had been a distant problem. He had approved of the actions of the man who had led the charge; slavery was a distasteful practise. But he hadn’t really thought much of what had happened, as Grass Sea City was on the complete opposite end of the province.
+
+It was another thing entirely to hear the first hand account from those who had participated in the raid—and knowing that it was his son who had been on the frontlines was enough to get his gut churning.
+
+“He was already in Grass Sea City when you met him?” his wife, Lady Wu, asked. Her voice was perfectly calm and polite, but everyone could see the tension in her shoulders and movements.
+
+The two cultivators sitting before them nodded. Not that long ago he would have been sweating through the back of his robe in their presence; yet here he was having tea and listening to a report from them about his son.
+
+How strange his own life had gotten, to where he broke bread with cultivators and people who could kill him before he could even blink treated him with deference.
+
+“Yes!” Rou Tigu answered, without any guile. “Sergeant Han said he had been Special Inspector for eight months! When we arrived he had already been investigating the slavery ring for some time, and his arm was bandaged from where he had been hit by an arrow. He was quite apologetic; he said if he had his father’s skill he could have cut all of them out of the air, and knowing who his father is now, it makes sense!”
+
+Rou Tigu nodded her head authoritatively. He idly wondered just what kind of image she had of him in her head. She didn’t question the fact that he could cut arrows out of the air—well, okay, he could, but that was so he could run away better! That's what he taught his son! When the going gets tough, and things get dangerous, run!
+
+“And why did he get shot at with arrows?” the L0ord Magistrate asked.
+
+“He got caught infiltrating a noble’s mansion—he was running away and took the arrow meant for his companion, Miss Lao of Underbridge!” Tigu reported promptly.
+
+The Lord Magistrate paused. Well, if he was already escaping then that was fine, he supposed. He shouldn’t have been infiltrating a noble’s mansion in the first place, granted, but he was retreating. And he took the arrow for a woman? Well, that was another thing he couldn’t truly be angry about. After all, he was the one who had taught his son to protect those he loved. How could he be angry that his son had followed his instructions?
+
+Still, that did not absolve him from lying! He turned to Lady Wu, who had a vein bulging in her forehead.
+
+“A woman, hmm? Is my son well acquainted with this Miss Lao?” Lady Wu asked dangerously.
+
+“Oh? Yes, she helps him every day! Miss Xinlai does as well! Xinlai is all prickly, but she was the one who saved his life from the nobles. She follows him around, pretending not to care, but her eyes are always upon him!” Tigu informed them.
+
+“Another lady?” Lady Wu demanded.
+
+The Lord Magistrate felt a small flash of pride at the words. His boy was attracting multiple ladies, eh?
+
+“Indeed. Shui Xinlai, Young Mistress of the White Water Sect. He was instrumental in recovering her mother’s stolen guzheng, when the artisan who crafted it was robbed,” Miss Cai explained.
+
+That brought both of them up short.
+
+“A cultivator?!” both of them blurted out. He felt his guts clench with terror and horror… before he realised that he was currently sitting with five cultivators.
+
+…he likely would have been more worried a few years ago.
+
+“And… not the only one. My Junior Sister, An Ran, was similarly taken by his, and I do quote, ‘impeccable manners and refined bearing’. They had tea together after he found out where the Whirling Demon Imitators were hiding. Your son did my sect a great service, Lord Magistrate,” Cai Xiulan said, her voice candid.
+
+The Lord Magistrate could only gape. Lady Wu’s tea poured out of her cup and onto the floor.
+
+==================================
+
+Several hours later, both he and his wife were staring up at the ceiling of their bedroom, contemplating the tale they had been told.
+
+Their son had gone to Pale Moon Lake City a year before Jin had arrived. Being away from home for multiple years, and learning the ways of the capital of the province, would be a benefit for a young man yearning for some sort of independence. The letters would have sufficed; it was at minimum two and a half months of a round trip to go from Pale Moon Lake City to back home—if he stayed for a month and if the weather was bad, that could be up to half a year away from his studies.
+
+He wished for his son to have a good life. Though he and Bao were good, there was no replacement for seeing and experiencing the capital of the province. The Lord Magistrate’s surname was a fairly common one; and he had burned one of the few favours he had left in the capital to make it seem like his son had been from Needle Ridge rather than Verdant Hill.
+
+He should have been a nobody there. Just another intelligent young man. He would get good grades, get all of his accreditations, and then he would be able to go far in this world. If he wished for the peace of Verdant Hill, he could head back home. If he wished for grander and better things, like most young men? Then he would be well-equipped to seize them.
+
+He had set up his son for success the best he could.
+
+And he had found success. His son, a hero of the Grass Sea. Promoted to Acting Lord Magistrate for his resolution of the slaver crisis. Supported by the people of the city, and by the sects of the Grass Sea for his righteous actions.
+
+The only question was…
+
+“Why did he not tell us?” his wife asked, her voice small and hurt. The Lord Magistrate’s hand found hers and squeezed. A flash of irritation surged behind his brow. Just what was that brat of his thinking, worrying his mother so?!
+
+Yet he forced himself to think about things. He knew his boy. He had always been polite and dutiful and he disliked troubling them, even though he never was a bother—
+
+Ahhh. That was it, wasn’t it? His son had known the politics of his wife’s family. If he had said nothing, then the reason was simple.
+
+“He thinks he is protecting us. He does not want to drag us into open conflict with the Wu Clan, because he knows that we would do all that we could for him,” the Lord Magistrate said with a sigh.
+
+His wife’s grip tightened on his hand… before she too sighed heavily. “Such a foolish child,” she scolded without heat. “And… who are we to complain, when we have not given him the entire truth of the matter either? We said I was getting better, and made allusions to our new students… but… our son likely still sees us how he left us. An aging man loved in a small town and a woman made of glass, who couldn’t walk some days because the shakes were too severe. How could we have helped him without hurting ourselves?”
+
+The Lord Magistrate nodded. Though their son had been told his mother had mostly recovered from her ailments…his son probably didn’t truly realise what that meant. To him, his mother had always been fragile; the Lord Magistrate still remembered the expression on his son’s face the first time he had seen his mother fall over and start shaking, foaming at the mouth. The look of horror and anguish as his mother suffered without him being able to help.
+
+“He is truly a good man,” Cai Xiulan said, her voice earnest. A woman whom songs were already being sung about paid her respects to the child he and his wife had raised.
+
+“The heavens reward the virtuous,” Lu Ri had said, a soft smile on his face. “A good seed grows from a good tree.”
+
+“You know, I hope Zhuye grows up with even half his moral fiber,” Jin had said at the end of things, before they parted.
+
+The Lord Magistrate was proud of his boy. He truly was. Just as much as he was worried about him… because if this was happening, then the Wu Clan knew that he was their son.
+
+Somebody had found out about his connection to them, informed the Wu Clan, and then they decided to ‘gift’ his son with a poison chalice.
+
+The last three Special Inspectors had been assassinated. The position had been empty since before his son’s birth.
+
+His son was already protected in Grass Sea City by cultivators and by the love of the people. He himself was protected by the Azure Jade Trading Company. But he didn’t know how to retaliate without dragging his student’s influence into things.And in the end, if they were threatening his son… then he might have to.
+
+“Dearest? What shall we do about your family?” the Lord Magistrate asked his wife. Whatever she decided would be his course. And if it was to escalate things and ask his student for help, so be it.
+
+“My love, you can leave it to me. Your darling wife will take care of everything,” Lady Wu smiled. It was not a nice smile. “My dearest sister overstepped herself. They seem to have forgotten that I was once in the running for the position of ‘First Lady’ of the Wu Clan. I know every single last one of my family's dirty little secrets, each and every safehouse, and all of their hidden investments. My silence was predicated on them not touching me… or what is mine. I’m sure the Plum Blossom’s Shadow would do very brisk business… after we inform our friends from the Azure Jade Trading Company about some things.”
+
+The Lord Magistrate swallowed as gooseflesh broke out on his arms. It had been over two decades since he had seen that expression on his wife’s face. That grim, cold, merciless smile.
+
+She was unbelievably attractive like that. That look of utter disdain was certainly doing it for him.
+
+“I see,” he managed.
+
+“And husband?” she rolled up off her back and straddled him. Her eyes bored into his. “You were the one who said involving one’s students was shameful. I said no such things. Young Meiling and I will have a nice little talk. And then she and her husband will have a nice little talk.”
+
+She brought her lips low to hiss into his ear.
+
+“And then everything else that happens after that is karma.”
+
+“Yes, Mistress,” the Lord Magistrate’s mouth moved before he was fully conscious of it. The sadistic, burning gaze of his wife mellowed for a moment, and then she giggled.
+
+“Oho? Mistress?” she teased. “Well, we can use my courtesy name tonight.”
+
+The Wu Clan were some of the few who still used courtesy names, as ‘befitting of their noble heritage.’ Of course, it made things confusing, and doubly so when his wife’s mother had chosen one singularly inappropriate—or she thought she was being ‘intimidating.’
+
+His dear’s courtesy name was Wu Zetian. Really, who names their daughter after the Torture Empress? The madwoman had tortured what by some accounts were millions to death during the Blood Arts purge in her zeal to ‘find demons.’
+
+But that said a lot about the Wu Clan.
+
+Still, it did make the roleplay quite exciting.“What about the Auditor?” the Lord Magistrate asked for a moment.
+
+“I wouldn’t dream of taking away your toy, my dear. I have a bet with Bao on how long he’ll last before he goes insane.”
+
+The Lord Magistrate couldn’t help but laugh.
+
+“How long are you betting? I’ll do my best to make sure you win.”

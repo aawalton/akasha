@@ -1,0 +1,99 @@
+---
+id: ac544e20-2f43-5e07-b340-d988e0caaf85
+page-type-slug: story-chapter-royal-road
+title: "5: Qi Pulse"
+slug: 0005-5-qi-pulse
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 5
+ownLength: 1547
+unit: words
+publishedAt: 2023-02-07
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1107794/5-qi-pulse"
+royalRoadId: "1107794"
+---
+
+Jack did not immediately rush to Trent’s aid, making a snap second judgment as he rushed for cover behind a tree in four quick steps. He wasn’t abandoning his team, but he couldn’t rush in without getting a read on the situation.
+
+Thankfully, he had just been given a skill, likely for that explicit purpose.
+
+“Qi Pulse,” Jack whispered under his breath, observing as small tendrils of Qi stretched outwards from his body in a circular radius. Dozens upon dozens of such tendrils existed, yet in his mind’s eye he found himself capable of easily visualizing and controlling each one.
+
+The only downside was that it required the entirety of his focus, even requiring him to close his eyes shut to better perceive the sight his Qi tendrils wished to convey.
+
+Blackness stretched out for as far as he could perceive, each Qi-strand his only source of light in this sensory realm. He wasn’t quite feeling, no. It was an extension of his awareness, only far duller than it normally would be; as if he were gazing upon the world through the paradigm of a being that possessed far more limited intellect compared to his own, perceiving it in an entirely foreign, limited manner.
+
+A spark of light captured his attention, prompting one of his Qi-Strands to snake forward with the enthusiasm of a moth fluttering towards a flame.
+
+A second passed before the strand made contact with something tangible, revealing an azure, venous network that was simply suspended in the void, a small whirlpool cycling Qi nestled a little below its center. The venous network’s periphery roughly adhering to the general shape of a bipedal being, almost certainly human.
+
+“That should be Sarah,” he assessed, based on her general vicinity and her relatively smaller stature— at least in his mind’s eye.
+
+Motivated by the discovery, Jack narrowed down the scope of his search, focusing on the areas he had last seen Andrew and Trent.
+
+“Hit and hit,” he jubilantly noted, as two more venous networks were revealed to his mind’s eye. Their locations were a little off from what he’d visualized, but the difference was insignificant enough to be chalked to imperfect memory.
+
+The larger, broader network undoubtedly had to belong to Andrew— so Jack promptly ignored it, directing a majority of his Qi-Strands towards Trent.
+
+“Now, what are you looking at?” he muttered, as he willed the Qi-Strands to sweep past Trent, instead choosing to explore his immediate vicinity. It felt surreal to be able to scout for threats without subjecting himself to any danger, but he could feel the drain on his Qi Pool as the seconds ticked away.
+
+Jack’s heartbeat quickened a little as one of his Qi-Strands made contact, revealing a venous network that was markedly different from the others. The general shape did not conform to the specifications of a bipedal creature, much less a human. Four branching, limb-like structures split off from what could only be the main body, a luminescent azure orb nestled in its center.
+
+“Beast Core,” Jack thought, immediately recalling the foreign terminology from the Twilight Boar’s description. A spark of familiarity flashed in his mind, as he attempted to match the Twilight Boar’s physique with the venous structures’ contour.
+
+It was a match.
+
+Outside the mental construct that comprised his Qi Pulse skill, Jack’s expression turned grim as two more Twilight Boars were exposed in rapid succession.
+
+Hurriedly, he canceled the skill. In the real world, his eyes shot open, definite alarm reflected in his pupils as he rushed out of his cover.
+
+“Sarah! Andrew!” Jack bellowed out, not hesitating to be loud now that he knew their position was already exposed. “Go and reinforce Trent now or we’re all dead!”
+
+Sarah seemed to snap out of her reverie upon hearing her name yelled out, her expression betraying a flicker of guilt as she thought back upon her cowardice, even now safely cloistered behind cover.
+
+Andrew, who seemed of half-mind to abandon the group and break out on his lonesome, reluctantly shifted his gaze to Jack. Surprise flashed in his gaze when he saw Jack, seemingly holding true to his words, charge forward in Trent's direction, despite knowing that danger awaited him
+
+“How do you know?” Andrew bellowed out the question, confusion and a hint of fear etched onto his face.
+
+“There are three more of those boars headed in Trent’s direction! Unless you think you can outrun those creatures, splitting off now just means getting picked off individually!” Jack cried out, knowing full well how deceptively fast wild boars alone were back on Earth.
+
+Despite their short stature and somewhat unassuming build, a human had no hope of outrunning a truly enraged wild boar, let alone this evolved iteration of the Eurasian Wild Boar.
+
+“Fuck,” Andrew whispered under his breath, taking a few seconds to evaluate the situation before he, too, began to sprint towards Trent. It had not slipped his attention that Jack, who was the furthest away from the purported threat, had somehow managed to accurately sense danger and even enumerate the number of enemies they were going to be facing, but there was no time left to raise further questions and he was wielding an essentially magic powered sword, too.
+
+Sarah was the last among the trio to react, a bead of sweat rolling down her grimacing expression as she channeled her resolve, before chaining step after step in the direction of what was most certainly danger— having reached the brave conclusion that hiding would only delay the inevitable, while fighting back would at least help alleviate some of the churning anxiety eating away at her, possibly even offer her a chance at survival.
+
+Trent felt his surroundings fade away, his pupils dilated from the blend of fear and adrenaline coursing through his veins— his arrow held at full draw, its tip shimmering with an azure glow. His breathing was slow and deep as he did his best to still his anxious heart, before he let the arrow loose.
+
+His expression froze from the tension as he watched his arrow arc through the air, leaving a luminous trail in its wake. A second later, a pained, beastly howl rang out, filling Trent with exultation.
+
+Trent had hit the beast. A moving target more than a dozen meters away and yet he, of all people, had managed to score a hit.
+
+The terror of his situation came crashing down with a few seconds delay, as his trembling right hand shot out for his quiver, hoping to nock another arrow in time. But the injured Twilight Boar hurriedly ducked out of his sight, whilst the other two Boars split away into the shrubbery, effortlessly stepping out of his line of sight.
+
+Just then, Trent felt footsteps echoing behind him, causing him to reflexively jerk his backwards, the tip of his arrow flaring to life in all its azure brilliance.
+
+He let out a relieved exhale as he saw Jack’s reassuring silhouette meeting his gaze, or rather, looking past him, trying to assess the threat. Andrew and Sarah lagged behind him by a few seconds, despite being nearer to Trent at the outset— it seemed that investing in Constitution had been a worthwhile decision.
+
+“Andrew, take the right flank. Sarah, take left and make sure you have enough space to fully use your spear’s reach. Trent, how many boars did you see?” Jack questioned after shooting out commands rapidly, a metallic tang seeping into his tone, one that would brook no disobedience in the heat of the moment.
+
+“I…,” He trailed off, his face tight with tension as he finished nocking his arrow. “There were three of them,” he forced himself to recall, voice trembling. “If it weren’t for the rustling the boars made as they charged towards me, I’d probably be….”
+
+“I saw you shoot an arrow. Did you get one?” Sarah chimed in, her tone carrying a smattering of hope in the otherwise grim backdrop. Her spear clenched in an iron grip with both her hands, she, too, nervously scanned the forest’s underbrush for any sign of movement.
+
+Those words seemed to be the ones Trent needed to hear, his countenance lighting up with a brief flash of pride.
+
+“I definitely hit one,” he replied a little too boisterously, perhaps more to reassure himself than the others.
+
+“Trent,” Jack began, his tone serious. “Did you get a message from the system?”
+
+“Erm… what?” he questioned back, entirely puzzled.
+
+Jack’s expression took a turn for the worse.
+
+“It’s not dead,” he said with a frown, shifting his stance to a loose interpretation of the chūdan-no-kamae, one of the five basic stances in Japanese Kendo. Feet facing forward, knees slightly bent, sword held before the waist, shoulders relaxed and most importantly, the center of gravity distributed equally between both feet.
+
+Ideally, the stance was meant to be used with a two handed Shinai, but Jack only aimed to borrow its ethos— allowing for quick movement in any direction; he was well poised to counter threats from both the expected and unexpected avenues of attack.
+
+“What the hell is that supposed to mean?” Andrew demanded, his face flushed from the fight or flight response.
+
+The intense rustling of shrubbery sounding out around them answered his question.

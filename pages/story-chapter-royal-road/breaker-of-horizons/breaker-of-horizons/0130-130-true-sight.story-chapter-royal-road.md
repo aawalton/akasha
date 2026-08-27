@@ -1,0 +1,101 @@
+---
+id: fcfb60c8-f65f-5a56-bf4a-858dd4da5712
+page-type-slug: story-chapter-royal-road
+title: "130. True Sight"
+slug: 0130-130-true-sight
+partOf: breaker-of-horizons
+position: 130
+ownLength: 2199
+unit: words
+publishedAt: 2021-07-29
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/724968/130-true-sight"
+royalRoadId: "724968"
+---
+
+Emilia pivoted on the spot, her eyes darting all around the clearing to try and find the source of Caden's voice. When she couldn't get a fix on him, she quickly encased herself in a protective sphere of arcana. Even her defences were edged with new power — the honeycomb pattern seemed to be embedded in the air itself, and held a faint, iridescent glow.
+
+'Caden?' she asked tentatively, slowly scanning the clearing.
+
+'... Yeah?'
+
+'Where are you?'
+
+'Are you going to keep attacking me if I reveal myself?' He sounded a little resigned.
+
+'Until I'm sure you can beat me, yes,' she answered defiantly, with a little note of annoyance at how unconcerned he seemed.
+
+A segment of Emilia's shield suddenly caved in. Even though the arcana hadn't shifted at all and there was no clear attack, she moved without hesitation and threw herself out of the sphere to avoid the incoming danger, deftly dragging the undamaged arcana along to be swiftly reshaped into a new barrier around her as she crouched defensively. Her protective sphere now thrummed with even more power, distorting the very air around it. She stared at the spot she had been in just a moment ago, but there was nothing there. Caden's attack hadn't left any trace at all, not even a whiff of ambient arcana.
+
+'Are you sure yet?' Caden asked.
+
+Emilia hesitated. What gave her pause was the fact that Caden didn't sound like he was taunting her at all. There wasn't the slightest trace of mockery in his tone, even here in oblivion where their communication relied less on sound and more on the pure transmission of thoughts and impressions. She caught traces of tension in his mind, and a great deal of trepidation, but she sensed it wasn't because he regarded her as a formidable obstacle. It felt like he was afraid that he might hurt her.
+
+'... Are you... holding back?' she asked, colouring the arcana around her with indignation.
+
+'A little.'
+
+Caden definitely had to be somewhere in the clearing since neither of them could leave the ring of glyphs that the augera had set up. On a hunch, Emelia folded her mind to scan the clearing once more. This time, she thought she saw the briefest flicker in the air in the same spot where Caden had been earlier. It somehow reminded her of a fish suddenly darting away from the surface of the water to avoid some perceived danger.
+
+She reacted quickly, opting to recycle the arcana in her shield so she could strike instantly instead of spending time to build up a new reservoir of energy. The barrier flashed and transformed into a searing light that she focused into an eye-wateringly bright beam, catching a quarter of the clearing in its fury. It swept over the bare ground and left it completely charred and cracked.
+
+'AHHHHHH!'
+
+The scream of agony echoed in the clearing and hung in the air. It was only after the ringing in her ears stopped that Emilia realised it had come from her own lips and mind. She was still crouched on the ground, but her left foot was now pinned in place by a jagged, translucent shard of arcana that was almost five feet long. It had a faint iridescence that reminded her of the shield she had conjured, only somehow purer. It had appeared so quickly that she couldn't even tell if it had been driven down from above, or if it had erupted from the ground itself.
+
+There was blood. Little droplets hung in the air in front of her, and some of it was dripping down the shard. More was rapidly pooling beneath her wounded foot. The pain was so profound that it suddenly seemed like it wasn't a part of her. Dimly, she realised that if blood was dripping down the shard, it had properly impaled her from below.
+
+'Oh shit, wait, sorry!' Caden's flustered voice echoed in the clearing. A moment later, the shard melted right into Emilia's foot, and she felt the pain fade away in the sudden warmth of the arcana's touch. When it was over, she was completely unhurt. Even the trauma of the agony had become somehow muted in her mind.
+
+'Alright,' she began, and then paused, a little surprised at how calm she sounded after being so badly hurt. She sighed and sat on the ground. 'Alright. I concede. You can definitely beat me. Will you show yourself?'
+
+And then, quite suddenly, Caden was exactly where he had been standing earlier. There was no ripple or perturbation in the arcana at all. However, the moment he appeared, he sank to the ground with a look of relief on his face.
+
+'Sorry about that,' he said, gesturing at her foot. 'That definitely wasn't what I intended to do at all. It kind of got away from me.'
+
+Emilia waved his apology away, radiating intense curiosity. 'What just happened? Where did you go? How are you totally unscathed?'
+
+Caden pursed his lips, unsure about how much he was comfortable sharing with her. When she attacked him, he had an epiphany — a moment when more of their reality made sense to him. In oblivion, the shapes that they wore weren't really their bodies, they were simply mental poses that their minds had settled into in order to navigate the unfamiliar, alien layers of reality. He suspected that clearing in oblivion, which looked just like the physical clearing out there in the 'real world', was also on some level just a construct, although he did think that there was some substance to it. Perhaps their minds were simply interpreting it for them and putting in the same familiar form.
+
+Once he realised that, he understood that he could easily avoid anything that Emilia directed at what he perceived as his body. All he needed to do was move that portion of his mind away from that location. In oblivion, they were operating on higher, hidden dimensions, so it was a relatively simple matter of making sure that his auric-ambient-flare wasn't currently occupying that spot in that particular dimension. In his mind, he imagined that they were fighting on a three-dimensional plane, but Emilia had picked spots to strike on the X and Y axes and committed to staying entirely on the same level on the Z axis. Even if she flooded the entire plane, he simply needed to shift his auric-ambient-flare along the Z axis to avoid anything she threw at him. It was almost like jumping over a wave on the beach.
+
+That mental analogy was the only thing that saved him, because even though he knew what he was doing, he couldn't actually understand all the sensations he had been assaulted with when he pulled that particular stunt. In fact, shifting up into those unknown higher dimensions (or was it down into deeper ones?) had been a profoundly unsettling experience that he didn't really have words for. The closest he could come to conceptualizing it was like his entire body had simply been a toe, and even though the whole of his sense of self was contained in that toe, he had vaguely felt a connection to a larger body and figured out how to flex those phantom, alien limbs so that his toe had twitched a little.
+
+As for the jagged shard of pure arcana, that turned out to be a terrible mistake. He had theorised that it would be impossible to trap or immobilise Emilia by using conventional sequences because she might simply side-step them like he had, since she was also sighted, so he had tried to use those nebulous parts of his auric-ambient-flare to actually pin her down, assuming that it would be like using your own limbs to physically pin someone else. That was how he had punched a hole in her first barrier — by simply reaching down (or up?) with pure focus, so that he disrupted the arcana.
+
+Instead, when he tried to pin her, he had somehow conjured that shard of arcana so pure and concentrated that it was capable of doing physical harm while maintaining its integrity. And he had done it without any glyphs, or any particular focused intent.
+
+'I'm sorry, Emilia,' he said, after a few seconds of silence. 'I don't think I should tell you yet. Especially not after what you just tried to do.'
+
+If she was offended, she gave no sign of it. Her emotions seemed clear of any resentment or indignation, and if there was any of that, it was probably completely overshadowed by her curiosity. She accepted his answer with a curt nod, but he could sense the roiling of her mind as she turned the mystery over in her head. With his greater awareness of how things worked in oblivion, he thought he could even detect the subtle shifting in the greater dimensions that hinted that she was beginning to move her auric-ambient-flare in ways that were similar to how he had moved his during the fight.
+
+He tried to move casually towards the glyphs ringing the clearing, though it was hard to completely hide his wariness of her. She watched him impassively, her mind still mostly fixed on trying to puzzle out what he had done earlier. He couldn't help but let out a little huff of relief as he finally stood before the segment of the sequence that he understood.
+
+His fingers stretched towards the glyphs and his mind reached out through them.
+
+Knowing. He rehearsed the words of the augera to himself, focusing now not on the words themselves, but on the shapes of mind that they were meant to refer to. Knowing. The shape of it in the mind. The shadow of thought.
+
+The glyphs beneath his fingers answered him. As his auric-ambient-flare shifted itself into new poses, he felt the distant, unknown segments of them click into positions of comprehension, so that even here in this portion of it that his mind fully inhabited and understood, some meaning came through to him. That sensation of understanding spread, and as he looked around, he realised that he knew the rest of the glyphs in the sequence that ran around the ring, but not in a way that would be easy to quantify or explain. It was more like seeing something from the vague memory of a dream. All he had was the sensation of knowledge and recognition, but not the full details.
+
+If he was being totally honest with himself, it was rather anti-climactic. He had expected a flood of eldritch knowledge and a sudden ability to read the glyphs effortlessly. At the very least, he had hoped to gain some sort of insight into the very nature of those alien glyphs. Instead, all he had was that vague, dim sense of recollection, and no actual codified knowledge. Suddenly, the little confrontation with Emilia felt quite silly. All that fuss for this?
+
+'... did it work?' Emilia asked in hushed tones.
+
+'It did,' he said, turning to face her, not hiding his disappointment. 'But it's not exactly, well... I don't know. It's not like some major infusion of power like we were making it out to be.'
+
+'So you can't free us from this place right now?'
+
+He cast a fresh eye over the sequence, trying to find some weak spot that he could exploit in order to break the entire thing apart, but nothing stood out to him. 'No.'
+
+Emilia frowned. 'But it's definitely supposed to be transformative in some way. Can you tell what it did to you?'
+
+'It... it gave me a vague sense of understanding about the glyphs. But it's... it seems to be just a feeling. I look at them, and I get the feeling I know what they mean, but if you actually asked me what they mean, I wouldn't be able to tell you what any of these glyphs stood for, or did.'
+
+'Nothing at all?' she pressed, growing a little desperate now. She pointed at one of them. 'Focus on this.'
+
+He obliged, though it was more to assuage her than out of any real conviction. 'Nothing. Just... just that feeling that I know it. But I don't understand anything more from it than I did before.'
+
+'No, look at it!' Emilia's agitation was becoming more pronounced. 'Not with your eyes. You did something earlier, during the fight. I'm not sure what, but you... you were somewhere else. That means you looked somewhere else. You looked with something else. Look.'
+
+Caden stared at her, a little in awe of how much she had picked up and how quickly she had arrived at the right conclusions, even if she didn't have all the details.
+
+She was right. He was comfortable here in this skin that he thought of as his own, as the whole receptacle of his auric-ambient-flare, but he had glimpsed the truth. His body, even the parts of his auric-ambient-flare that he could immediately perceive — they were just branches of a much larger tree. He needed to start inhabiting the rest of it. He needed to truly, truly see.

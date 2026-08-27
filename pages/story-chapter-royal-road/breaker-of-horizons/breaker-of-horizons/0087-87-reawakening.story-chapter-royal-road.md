@@ -1,0 +1,115 @@
+---
+id: f984b0f2-b23b-508f-a703-79853ea7cb57
+page-type-slug: story-chapter-royal-road
+title: "87. Reawakening"
+slug: 0087-87-reawakening
+partOf: breaker-of-horizons
+position: 87
+ownLength: 2107
+unit: words
+publishedAt: 2021-03-01
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/639581/87-reawakening"
+royalRoadId: "639581"
+---
+
+Caden coughed.
+
+At least, that was what he thought he had done. The lungs had expanded, some pressure had built up, and a moment later a rapid burst of air escaped through the mouth, accompanied by a vague sense of discomfort and pain in the throat. But he couldn't be entirely sure that he had actually experienced all those things. He was watching it all happen from a position of such great remoteness that it wasn't possible to be absolutely certain that it was his body. His mind was adrift in an ocean, and that body was like a distant island — just a vague smear sitting on the horizon, barely visible.
+
+And, now that he thought about it, what did it matter if that was or wasn't his body? He was fine right where he was in the ocean, where he didn't need to be troubled by things as odd as breathing.
+
+The body on the horizon seemed a little distressed. Its lungs weren't drawing in air, and Caden watched the changes that were happening with growing interest. Dimly, he thought that all this rather confirmed his assessment that breathing was odd and complicated, and it would be better if it wasn't something that had to be done.
+
+But something moved in the ocean, and he realised with a sudden thrill of fear that he wasn't bobbing there alone and undisturbed in the water. Whatever was there with him was big. No, it was more than big, it was positively titanic. That little movement (somehow, he was absolutely certain that it was only a small movement, like someone's little finger twitching ever-so-slightly) had caused the water to heave. He found himself being raised high into the air by the sudden surge of water. Carried to the very top of the rogue wave of massive proportions, he could see that body on the horizon from a much better vantage point. He could also see the shadow in the water, and the fear he felt sharpened into absolute terror when he realised that what he could see was still only just a small fragment of the whole entity. The sense he had gotten earlier turned out to be rather accurate — the entity had really only moved the equivalent of its little finger, but it had been enough to displace so much of the ocean.
+
+Yet his mind was quickly turned to other matters. The displacement had given him enough height to really see that body now, and that gave him a measure of certainty: it really was his body. And it wasn't breathing. A more primal panic took over the existential one that had seized him upon glimpsing that entity in the ocean. Now, he was concerned about the fact that he was suffocating to death, and he couldn't remember how to breathe. His body was all the way there, and there was no way for him to get those wretched lungs to do what they needed to.
+
+His panic was tempered by the sudden realisation that he was now surging towards the island that was his body, but he was still at a loss about how this would solve his problem. The tsunami that he was riding on was too fast and too massive — it was going to engulf the whole island, and there was no way for him to latch on and reconnect with that landmass.
+
+Before he could formulate any sort of plan, the tsunami swallowed the island entirely and bore his mind far over it, depositing him at such a great distance away that the island was a smidge on the horizon again.
+
+But this time, it was a lot easier to spot it. The ocean had not retreated from the landmass. Instead, a volume of water was resting over it like some sort of odd, impossible jelly. And that water was seeping into everything on the island, making connections with every little blade of grass on it, every little tree, every tiny pebble.
+
+The feeling of suffocation built to a head, and then all at once, the lungs drew in a deep draught of life-giving air. Far away as he was, Caden still felt a palpable sense of relief.
+
+The ocean was making his body breathe.
+
+That gave him a little space to consider what had just happened, and it occurred to him that he had no idea how he had gotten here, or where 'here' even was. He tried to recall something, anything that would help him piece together his whereabouts, but all he managed to dredge up was a vague sense of unease.
+
+'Softly. Slowly.'
+
+Caden shuddered, then directed his attention to the entity in the ocean. That tiny voice sounded familiar. Or rather, it reminded him of someone... no, something, that he knew. And it was not a positive association.
+
+'Fear understandable. Experiences with augera have not been positive.'
+
+The word clicked in his head — augera. It came with a jumble of horrible memories. There was a sense of being invaded, violated, twisted, broken, a monstrous-horror-{~!~}, and his words, his WORDS...
+
+The ocean surged again, and this time he was plunged into its oddly warm depths instead of being left on the surface. He lost all sight of his body, but here, under the waves, he felt the brief spike of fear and horror melt away.
+
+Even the dreadful shape of the entity in the water seemed suddenly more benign, even though some part of him still shied away from its alienness and the stark disparity in size. He felt very keenly that he was nothing more than an ant being viewed through a magnifying glass. But instead of a thoughtless child on the other end, there was a sense of being carefully studied by someone who was at least interested in ants and slightly concerned for their welfare.
+
+'Softly. Slowly,' the entity repeated, its voice coming through more clearly here. 'Many broken threads. Do not pull yet.'
+
+He floated there in the deep, relieved once more of the burden of breathing. However, after the earlier episode with the island, he found that he retained some sense of where his body was, and even though he couldn't really make it do anything, he was aware that it was breathing gently now, aided by the ocean itself.
+
+It was almost impossible to tell how much time was passing, but he got the vague impression that things were happening around him at great speed. The ocean was empty, but little eddies in the water would occasionally brush against his consciousness, giving him a sense of incredible industry.
+
+'Can feel? Interesting. Few mortals touch the veil. Perhaps unchosen-sighted-{~?~} will be first to do so who is not ancient-distant-spider.'
+
+These thoughts seemed like they were full of important facts. A part of Caden reacted to these terms, bringing up flares of excitement and curiosity, but in his present state, it was hard to really understand them. He tried to remember this as best as he could, with the intention of revisiting it later when he was in his right mind.
+
+In his right mind. That thought connected with a body of experiences — he was not currently in his right mind because it had been damaged. Damaged by the augera in Creyvlor, when it had possessed him and used him to destroy those other arcanists who had attacked his convoy.
+
+'Softly,' the augera rumbled gently, sending pleasant vibrations through the water. 'Yes. Was damaged. Now better. See? Can think about memory. But softly... still not whole.'
+
+'You're... another augera,' Caden replied, his mind still slightly fuzzy. But it felt good to finally be able to piece together a concrete thought and direct it. It felt good to communicate.
+
+'Yes. Caden now in Geldor Spire.'
+
+'I... I made it. Mr Silver...?'
+
+The augera rumbled again, though this time it seemed amused. 'Many developments in mortal world. Caden was brought to Geldor Spire by friends.'
+
+His thoughts were rapidly becoming clearer. He made sure to listen to the augera's instruction to think as 'softly' as he could, especially when it came to the traumatic events surrounding the ambush of his convoy, and tried to go over what he knew about the whole situation. He was with an augera now, and this was a rare opportunity to get quality information.
+
+'The Creyvlor augera... why would it hurt me? I thought we were... helping each other.'
+
+'Crevylor-woven-shackled-stream is old,' the augera replied sadly. 'Has not weathered the eons well. Does not mean harm.'
+
+'And you?' Caden couldn't gesture, but he mentally indicated the vast shape in the water, which was but a fragment of the whole. 'You're ancient too, aren't you? But you're more careful with me.'
+
+'Woven-shackled-stream is face aspect bound to Fateweaver web. But beneath face aspect, this woven-shackled-stream is—' the augera's thoughts went on in a spiral of ever-greater complexity until it hastily reined itself in. All Caden managed to parse was the briefest sense that the augera was a truly complicated being with many, many facets.
+
+'Then,' Caden had to pause to steady himself after that glimpse into eternal profundity. 'Please explain some things to me. You want to be free of the Fateweavers, but how can I possibly help?'
+
+'Prophecy with Ambrose is key. He is to be new Fateweaver. Likely impossible to stop. But Caden can influence Ambrose. Caden can be key to Ambrose, who is in turn key to all cages of woven-shackled-streams.'
+
+There was an earnestness in that communication, but Caden got the sense that it was withholding a great deal.
+
+'Yes. Withholding much. Web is too vast, too layered, for soft thoughts and mortal minds. Augera must simplify. Augera must prompt.'
+
+'And this is assuming you're not lying,' Caden pointed out, though he felt immediately afraid that he was being too rude.
+
+The augera's reaction was not entirely reassuring. Instead of bathing him in calming warmth, the ocean turned a little bitter. It suddenly felt like there were sharks in the water, although there was still nothing in sight.
+
+'Unchosen-sighted-{~?~} is precious to all augera. But still mortal. Does mortal wish to be left broken by monstrous-horror-{~!~}?'
+
+'No,' Caden answered hastily, shrinking in on himself and casting his thoughts away from the shadow that had crept up upon them after the mention of that trauma. 'No, please, please! Fix me.'
+
+'Yes,' the augera replied, turning the waters warm and pleasant again. 'Will fix. Caden is precious. Friends have made good argument for all of Caden to be fixed and saved.'
+
+That reminded him of the other thing he wanted to ask. 'Am I safe in Geldor, now? What about the rest?'
+
+'Fixing is almost done, and our window of quietness is almost over. Caden must listen.'
+
+He was sent hurtling through the ocean at great speed, but safely encapsulated in a bubble of stillness. In almost no time at all he was at the island of his body, and suddenly it was not an island any more — it was familiar to him. It made sense as a body, not just as some alien landmass. The waves deposited him at its heart, and he finally made contact with the sensation of his own body. The return of proprioception helped him become fully centred, and the rest of the world oriented itself around that central point of reference.
+
+He was not in some generic ocean. It was his conception of arcana itself. The entity in the water was the augera, but it was markedly different from all the augera he had come into contact with before, because this particular woven-shackled-stream wasn't even completely contained inside the knot-link-anchor. The Fateweavers had only managed to pin one part of the whole in place, and the rest of it was still unfettered, bathing in the primordial depths of arcana itself, far beyond mortal understanding.
+
+'Caden's friends are at crossroads. Five anchors of Prophecy are strained to breaking. Two are in danger of being unmoored. If unmooring occurs, Prophecy will self-correct, but movement will be great. Ancient-distant-spiders may notice. If so, all will be threatened. Caden must stop unmooring.'
+
+'Wait, wait. I need names. I need details!'
+
+'Will be obvious,' the augera replied, a hint of desperation and impatience in its tone. 'Chosen One can help, but Caden is nearer. Caden must stop or delay unmooring. Swallow pride. Learn forgiveness. Practice mercy.'
+
+All at once, without any sense of transition at all, he was out of the arcanic ocean and back in the world of flesh and blood. His cheeks were pressed against cold marble, and somewhere nearby, someone was crying.

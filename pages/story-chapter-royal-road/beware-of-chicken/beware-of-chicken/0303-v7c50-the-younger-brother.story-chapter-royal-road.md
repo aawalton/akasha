@@ -1,0 +1,215 @@
+---
+id: 3d3a1282-0c32-599f-a82c-d2321181aa31
+page-type-slug: story-chapter-royal-road
+title: "v7c50: The Younger Brother"
+slug: 0303-v7c50-the-younger-brother
+partOf: beware-of-chicken
+position: 303
+ownLength: 2716
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3311962/v7c50-the-younger-brother"
+royalRoadId: "3311962"
+---
+
+A few Months previously
+
+Travelling as a cultivator never got old. Gou Ren loped through the forest with an easy grace, covering the Li with a stride that he would have envied as a mortal. He could travel as fast in a couple minutes as he used to be able to in a day, and if he wanted to, he could do it without a whisper of sound. As a hunter, it practically felt unfair.
+
+But right now, nobody was being silent. Gou Ren was travelling with Xiulan, Xianghua, Tigu, Yin, Loud Boy, Rags, Delun, the Torrent Rider, Shaggy Two… as well as an entire troupe of monkeys.
+
+“We dig down! We dig deep!” Master Gen boomed from his place on Gou Ren’s back.
+
+“We work hard, never sleep!” came the response from the monkeys around their group. They leapt through the air, swung off branches, or simply shouted from where the slower ones had climbed onto people so they could keep up the pace. Everyone was practically covered in monkeys; they rode on shoulders, clung onto backs, and two of them were even sitting atop Tigu’s feet like fluffy boots, laughing at each footfall.
+
+“Pick and hammer, strike the stone!” Gou Ren called the next line.
+
+‘Carve the mountain to the bone!’
+
+His eyes found Xianghua. His… well, his wife now had a massive smile on her face, and she was belting it out as much as the monkeys around her.
+
+“Heave and haul! Don’t slow the beat!” Xiulan sang.
+
+‘Feel the rumble ‘neath your feet!’ the Spirit Beasts cheered.
+
+Gou Ren knew he had as much of a silly grin on his face as Xianghua did.
+
+They were escorting the venerable Master back home to Crystal Hill, because it was on the way... and Gou Ren had to admit they made for good travel companions.
+
+Though he was still getting used to them calling him their brother. It turned out Gou Ren and Yun Ren were related to the foxes through their mother’s side… and were probably related to the monkeys on their father’s.
+
+Gou Ren was just too comfortable around the Spirit Beasts… and they around him. They both felt the connection, the instant feeling of familiarity. The tail was the thing that really sealed things, though. The new appendage Gou Ren had gained was currently wrapped around his waist like a belt.
+
+It was proof that all the childhood taunts about his appearance were true. He really was a monkey—but honestly? He was coming to terms with it.
+
+It helped that his wife loved playing with the thing, and really enjoyed it when he wrapped his tail around her waist when he hugged her.
+
+Wife. His smile got even bigger when he thought that. He was married, and to an absolutely wonderful woman. Xianghua really was the best. Marriage hadn’t really changed anything, but at the same time… it felt more real? More solid? He didn’t know. But what he did know was that he wanted to spend the rest of his life with her. There were so many sides to her. Lots of people only saw the bombastic, domineering act; they didn’t see how caring and considerate Xianghua was. She gave her all to everything she did, one hundred percent. She remembered the tiniest details about the people she liked, and learned more just so that she could talk to them about the things they found interesting. She was a lot quieter in private; her smiles were smaller, her actions a lot more subdued… but they were no less genuine.
+
+She really was amazing. It sometimes made him doubt himself, that he was capable of matching the sheer devotion and love Xianghua seemed to have of him—but there was only one thing he could do, and that was to do his best.
+
+Which was part of the reason why he was on the way to her sect. He swallowed at the thought, nervousness coiling in his gut, before he pushed it away again.
+
+“We dig down! We dig deep!” Yin sang.
+
+‘All the mountain’s wealth we reap!’
+
+He just had to keep pushing forwards. They made good time that day, and the next day too. Most of the time they camped out under the stars, and Xianghua shared his sleeping bag.
+
+But when he looked at the sky, late at night, the doubts and discomfort came roaring back.
+
+=========================
+
+Sometimes as they travelled, his mind would still be stuck.
+
+Sometimes he felt lost, even when he was trying his hardest to keep it together. Even just what he was doing right now made him… uncomfortable.
+
+In the winter, there had been nothing to really do, so a quick trip down south had been simple enough for him to get over.
+
+But this time, it was spring. At the height of when he should have been working. He had only been Jin’s farm hand for two, nearly three years by this point… but leaving felt almost like he was abandoning something.
+
+Jin’s farm was as much a home now as his parents’ house in Hong Yaowu. Or really, more a home now, after all the renovations. His childhood room, once shared with Yun Ren, was no more. His parent’s hunter’s hut was now nearly a manor in its own right. His dad had even been complaining that they would need to hire servants because it was so big… and then the foxes came along. And now they had people over almost every day.
+
+The entire village had changed because of him and his work. The old, empty and slowly decaying houses from the Year of Sorrow were gone; the fields were better arranged. Every little point about the village people had disliked had been taken care of. But even if he was proud of it, it had stopped being the place he was most comfortable.
+
+That place was now his house on Jin’s farm. A place he had built with his own two hands, and incorporated the style he liked, along with every cool idea Jin had brought along with him. He liked living with Chun Ke, Pi Pa, and Bowu. He liked being close to Meimei, his elder sister in all but blood. He liked hanging out with Jin, who was honestly his best friend. They journeyed through the forests together, sat in front of fires and discussed whatever was on their minds, and roughhoused and pushed each other to be better.
+
+It was a wonderful life he had on the farm. Comfortable. Mostly safe, aside from the one blemish. It was the kind of life he could see himself living even when he was old and walking with a cane—it was the life all of them could see themselves living; Bi De, Tigu, Pi Pa, even Yin. The farm was the place where all of their thoughts returned to when they were travelling, and those thoughts included him.
+
+The feeling was indescribable. It filled his chest with warmth and belonging. Was it fulfillment? He didn’t know.
+
+And now he was venturing out into the world, away from that safe nest. Would Yun Ren do as good a job as he promised? Would everything be right when he returned? Was this trip going to be successful? What even was success?
+
+He didn’t know. And as they got further south, the thoughts came to him more and more.
+
+========================
+
+They reached Crystal Hill without incident—and Master Gen called Gou Ren into the mines with him.
+
+Like the other things he did with the monkeys, it felt surprisingly natural. The darkness and ceiling overhead felt like an old friend. They travelled down quite deep to a sealed vault. But this didn’t contain crystals or riches, but instead carved stone tablets.
+
+“Did you find it, child?” Master Gen asked. Another monkey, who had been sitting at a desk and examining several tablets, nodded.
+
+‘I found it, Master Gen,’ the monkey declared, picking up one of the pieces of stone and laying it on the desk facing the two of them. Master Gen read it, and then gestured for Gou Ren to come over.
+
+“Well, I think this settles if you’re kin or not,” Master Gen said.
+
+Carved into the stone, barely legible, due to age, was a name.
+
+Xong Shou Ren. Born to Xong Lian Ren and Song Hua En.
+
+Gou Ren read the tablet carefully; it was difficult. The words were old, and some parts of the small tablet were completely illegible.
+
+All except the last part of it.
+
+Travelled north to become a hunter.
+
+Gou Ren let out a breath. Just like Yun… he had found some missing family, too.
+
+He’d have to bring his mother and father here at some point. Or build a village for the monkeys up north. Mom had her side of the family visiting all the time! It would only be fair that dad had his extended family over, too!
+
+=============================
+
+They stayed for two days with the monkeys. Gou Ren tried his hand at mining—digging was surprisingly soothing.
+
+“Hey, we can do this together when we’re back home!” Yin said. “It’s really nice to hit things when you’re frustrated, and you find all sorts of cool stuff! Like crystals, or giant bones!”
+
+It was a promise that was easy to make. And he needed to learn how to properly dig, anyway! Foundations, basements, cold cellars—all those things were essential to buildings!
+
+For those two days, he felt content. His mind didn’t wander. But then, they were on the road again.
+
+Getting closer and closer to the Misty Lake.
+
+The nerves came back. Gou Ren wanted to be a rock. He wanted to be the man everybody relied on.
+
+But everyone noticed he was brooding.
+
+Xianghua said nothing, simply sitting beside him, her presence offering silent support… until Gou Ren finally spoke.
+
+“I’m scared. I’m scared of letting you down. I’m scared of embarrassing myself. I’m worried that I’m going to mess everything up. You’re the leader of a sect, and I’m just a farmer…” he trailed off, staring into the camp fire. “I don't want to make anything harder for you.”
+
+Yet Xianghua simply leaned into him. “You won't," she said, her conviction absolute. “You’re going to do perfectly. But husband, listen to your wife well. You are not just a farmer. You are a cultivator. A great architect. A hero who stood against demonic hordes.”
+
+Each statement did do a bit to soothe the roiling worry.
+
+“My Brother Disciple is a great hero!” Tigu declared, punching his shoulder. “He is no mere anything!”
+
+“And the final thing… if you think about it, you are technically Jin’s greatest disciple,” Xiulan said. Gou Ren and Tigu both paused at her statement. “Out of all of us, you’re the one who has learned the most of his primary art, and is the most practised at it.”
+
+“Oh? Bro Gou is really kicking your ass, Young Mistress Tigu,” Yin said, while Tigu huffed.
+
+“Our Brother is very skilled, and it brings me no shame to admit my defeat in this matter!” Tigu snarled back… while looking clearly just a bit put out by the realization. “I need to farm more,” she muttered quietly.
+
+“Master Jin’s Direct Disciple Gou Ren, inheritor of his primary art,” Delun said, amused.
+
+“Shit bro, you got cred,” Loud Boy laughed. “I think that's the grandest title here.”
+
+“Higher up on the pole than even the Grand Marshal!” Rags joked.
+
+“When you look at it like that, it seems my little brother is too good for you, Liu Xianghua; be grateful I have allowed you to be with him,” Xiulan teased.
+
+Xianghua made a rude gesture back.
+
+“You’re gonna do great, Big Bro,” the Torrent Rider said, his voice earnest. Shaggy Two yipped in agreement.
+
+….man, he had some really good friends, didn’t he?
+
+Gou Ren let out a breath, looking into the fire.
+
+They were right. He kept looking down on himself. Kept thinking that he wasn’t that good at things, that there was someone better, so his efforts weren’t that great.
+
+But that was the wrong way of looking at it. He wasn’t just Gou Ren, the hunter. Or Gou Ren, the farmer.
+
+He was Liu Xianghua's husband. He was a cultivator.  He was a man who could grow peerless Spiritual Herbs and Gold Grade Rice.
+
+And he was going to be the greatest damn architect in the world.
+
+“...sorry Xianghua. You’re right. When I meet your family, it's going to go perfectly,” Gou Ren said, looking into Xianghua’s eyes.
+
+Something solidified. Something crystalized. Like a foundation finally settling.
+
+Xianghua let out a little startled laugh, before she leaned into him.
+
+“There was never any doubt.”
+
+============================
+
+Elder Bingwen stood at the gates of the Misty Lake Sect with the rest of the Sect.
+
+The Sect Master had sent word ahead; to be prepared for her arrival, and for the arrival of her husband.
+
+There was much murmuring amongst the crowd, and many rumours were flying thick and fast about who, exactly, this man was.
+
+Bingwen had met the young man. He was Master Rou’s disciple. He was very strong for his age, and had a good foundation, but he also seemed to have a relatively simple and straightforward personality. He had also been quite nervous interacting with Bingwen, and nervous of sect politics in general.
+
+Bingwen hoped he would grow out of it. While he was a good match for the connection alone… there were several who wanted to test their Sect Master’s new husband.
+
+So they waited as two forms appeared in the mist, walking side by side. The surging might of Liu Xianghua was familiar. She stood as a fierce heron, whose wings of steam could encompass them all. She appeared from the mist, and it parted before her like the gates of a castle.
+
+What strode next to her gave Bingwen pause, and made his eyes open wide.
+
+If Master Rou was a mountain, then this was a great tower. It rose from the earth as a monolith to touch the heavens, a pagoda with one hundred and eight floors. It proudly jutted into the sky, as solid as rock, and its foundation unshakable, no matter how hard the heavens blew and earth heaved.
+
+Third Stage of the Profound Realm.
+
+Just as the tower loomed, so did he, the tallest man currently in the Sect. His shoulders were broad, and his neck thick. His entire form was well-muscled, but still trim and lithe—his musculature was indeed reminiscent of the Great Sage Wukong, as Xianghua had said.
+
+Amber eyes stared out from a heavy brow, sharp and intelligent. His hair was the colour of copper and gold, and he had magnificent side-burns, proud and bushy.
+
+He wore the same headband their Sect Master had taken to wearing, the symbol of his tribe; he also wore a blue and white coat that had similar symbols. But under the coat, he wore a tunic woven in the style of the Misty Lake, and had one of their large boat-hats hanging down his back.
+
+The message was clear. Just as she had taken his colours, he had taken hers.
+
+He strode with purpose, each step heavy like it was carrying unimaginable weight, yet it disturbed not the world around him, even if it felt like the earth was a hair's breadth from quaking at his presence.
+
+Finally, he carried a staff of wood, slung across his back.
+
+“Presenting Xong Gou Ren: Master Rou Jin’s direct disciple, and husband of the Sect Master,” came the herald’s voice.
+
+“We pay our respects to the Sect Master and her husband!” came the reply. They bowed and rose as one, and Gou Ren stepped forwards.
+
+“I pay my respects to the Sect of my wife,” the man intoned, making the gesture of respect pertaining to his station. He bowed in greeting, but it was the bow of a man to equals. His eyes met the eyes of each and every Elder without any hesitation or fear. “May we all get along, and work to increase the might of the Misty Lake Sect together.”
+
+Every other eye was upon this man; but Bingwen sought the Sect Master.
+
+Liu Xianghua simply grinned like everything was dancing to her tune.

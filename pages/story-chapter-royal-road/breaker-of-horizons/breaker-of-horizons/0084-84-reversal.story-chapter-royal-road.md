@@ -1,0 +1,119 @@
+---
+id: 45f7ce6d-7be3-5ea7-b60f-83221cfd91d1
+page-type-slug: story-chapter-royal-road
+title: "84. Reversal"
+slug: 0084-84-reversal
+partOf: breaker-of-horizons
+position: 84
+ownLength: 1948
+unit: words
+publishedAt: 2021-02-18
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/633600/84-reversal"
+royalRoadId: "633600"
+---
+
+"Wait..." Lynus frowned and crossed his arms. He turned to Kevan, a look of dawning comprehension on his face. But before Kevan could ask what his brother was thinking, Lynus turned to Kant. "Do you know who the Chosen One is?"
+
+"... I do," he answered heavily.
+
+Lynus' expression soured. "And you just said there are five anchors, and these anchors have influence over the Chosen One. So you know who the anchors are."
+
+Kant didn't respond. He simply stared impassively at Lynus.
+
+"The five people that the Chosen One is closest to..." Lynus turned and looked at Kevan, who finally connected the dots. He stared back at his brother, stunned.
+
+"This ex-anchor is one of our friends," Lynus said, exhaling slowly as he massaged the bridge of his nose. "You're asking us to, what, kill one of them?"
+
+Kant finally stood, wincing a little as he got to his feet. Kevan experienced a moment of apprehension as the arcana flexed a little, and all of a sudden Kant's slow movements became a lot more assured and precise. It appeared that Kant was somehow channelling the arcana to help himself move. Now, drawn to his full height, the usually relaxed and aloof thaumaturgist looked like an altogether different person. There was a sharp cast to him now that gave Kevan the impression that this was a man who had killed before and would not hesitate to do so again. The brothers drew back, marshalling their defences.
+
+"You think you can take me?" Kant asked, raising an eyebrow, a shadow of his casual manner returning.
+
+"No," Lynus answered truthfully. "But you seriously think we're going to harm one of our friends just because you said we should? You're not going to get us to go along with that without a fight."
+
+"So all I have to do to ensure the safety and security of the Empire is to beat a couple of novices?" Kant said, smiling sardonically.
+
+"Stop messing with us," Kevan snapped, finally finding his voice. Something about Kant unsettled him. If this were anyone else, even Reeves, Kevan was certain he would've been a lot less bothered about showing defiance. But somehow, Kant's mere presence served to undermine his self-assurance. Thankfully, Lynus was there to step up to the plate.
+
+"You're making big claims," Lynus said, sounding a lot calmer than Kevan felt. It was one of the things he admired about his brother — Lynus really had much more self-control and self-possession. "You at least owe us a clear explanation. Or do you just enjoy beating people up to get your way?"
+
+Kant's lips curled. "Well, that was my job as one of the preeminent thaumaturgists in the Empire. Though it was actually to get the Empire's way, not mine. My stint here in the Academy is just another episode in a life spent in service."
+
+"So you're serious," Kevan cut in. "You want us to kill one of our friends."
+
+The twisted smile on Kant's face turned into a grim slash. "If it comes to it. I'm going to tell you something that you'll probably figure out or learn by the end of your time here in the Academy. Then, I'm going to leave. As much as I want to force you to do what I believe is right, the truth is that I'm bound to inaction. The augera has acted, and this choice will be yours to make. Both of you."
+
+There was no guile in that statement. It was delivered matter-of-factly. Kant crossed over to the door, then turned back to look at them. "All of modern arcanophany is built on the structure provided by the augera. All our glyphs, all our artefacts, everything. So that means that everything we have built is anchored on them. The augera are the foundation of our society. If you free them, life as we know it ends."
+
+"That's... that's ridiculous. Why would we do that? Isn't it enslavement?" Lynus asked, his composure cracking.
+
+Kant shrugged. "I find myself in a unique position of disempowerment. The choice of two novices may unravel my life's work, and my influence is limited. I can lie to you and say that the Empire had to do it because the augera were wild and destructive, but the truth is that I do not know. It is all ancient history, and probably nobody knows anymore what the original reasons were if there were even any. What I do know is that if you free them now, they will prove to be wild and destructive. They will wreak vengeance upon Aiesta for their millennia of slavery."
+
+"Is that why Reeves wanted to be here?" Lynus demanded. "He's of a different opinion, isn't he?"
+
+"Reeves believes that if we work to free them, they will prove merciful and ultimately benevolent," Kant answered with a wry smile. "I fought with him for the right to be here so that I can tell you what he will not. He would have presented the case to you as a righteous cause, and downplayed the present bent of the augera. I am here to tell you that for all his acumen and gifts as an arcanist, he is too much in love with the augera and their abilities to ever believe that they will be malicious."
+
+"And you? Why do you think you're right?" Kevan managed to ask.
+
+Kant tapped the side of his head. "Let's call it experience. I know, first-hand, how beautiful and marvellous they are. But even though a hurricane is powerful and majestic, it cares nothing for your estimation of it. It will roll over you and destroy you even as you admire it.'
+
+And with that, Marcus Kant left, his footsteps sounding forlorn as they echoed down the empty corridor.
+
+The memory froze and Jerric pulled himself out of memory-Kevan. A moment later, the real Kevan stepped out as well.
+
+"So what turned Lynus around?" Jerric asked. "Back in Devon's place, he said he was the one who talked you over in the end. Even though you know Emilia's going to be screwed over by the Prophecy."
+
+"You know how Kant said he's fought for the Empire, as a thaumaturgist?" Kevan asked, folding his arms.
+
+"Yes, why?" Jerric answered cautiously.
+
+"To put it simply, Ly was reminded of our dad. He's a thaumaturgist, too. Utter asshole, but a skilled practitioner. Then he lost a leg in a skirmish against Sedhahn agents. He became a nicer dad after that, and it's what got us all started on hiking. It was rehabilitative for him, to wear in his new leg."
+
+"... You're throwing Emilia and Caden over because of your dad?" Jerric asked, trying his best not to sound judgemental.
+
+Kevan snorted. "No. He's a better man now, but not good enough to be worth all that. But it got Lynus thinking about... well... all of it. We think Kant's not lying. So that means if we help Caden... then arcanophany itself... the whole Empire... everyone's way of life... other families, other people like us or our dad who use it to live..."
+
+He lapsed into silence. Jerric bit his lip as he considered what Kevan had said. Kevan's outburst back in Devon's home made a little more sense, now. In some ways, Kevan had actually been arguing for the preservation of Devon's way of life.
+
+"You don't think that maybe this is a really, really heavy choice, and we should all talk about it?" Jerric ventured.
+
+"Oh, we can talk about it, alright," Kevan answered, sounding resigned. "But in the end, the augera was forced by Prophecy to give Ly and I the ability to deal with Caden. The choice comes down to the two of us. We're the ones who have to make a decision and live with it."
+
+"We can still talk about it," Jerric insisted. "Maybe together, we can find a way to free the augera, and not destroy the Empire."
+
+Kevan smiled sadly. "You see? Even after seeing my memories, knowing my thoughts, you're not convinced. This was never going to be a negotiation. The rest of you have already been touched by Caden's influence, and in the same way the Prophecy binds us to the Fateweavers' intentions, the augera make use of Caden to twist us to serve their purposes. Ly and I just so happen to be the two points where these competing forces collide."
+
+Even though this was still just an arcanic space, Jerric felt his heart speed up. He immediately tried to dissociate himself from the body in this space, which was after all just a construct of his mind, in order to avoid any pain that Kevan might try to inflict.
+
+"I figured I'd try, though," Kevan continued, as he stepped forward. All around them, the memory peeled away to reveal the grey blankness of the arcanic space. "I thought maybe getting you to sit in my mind might work, and that we might be able to come to some sort of understanding."
+
+It was now evident that Kevan was quite capable of controlling the arcanic space. Jerric marvelled at how he had managed to make that frameshift despite being so fixated on his own physical interpretation of the world.
+
+"So what now?" Jerric asked, gesturing at the emptiness around them. "We're not actually going to hurt each other here."
+
+"Oh, Jerric. You thought that by being here, in my auric-ambient-flare, it'd be easy to manipulate me, didn't you?"
+
+Alarm bells were going off in Jerric's mind now, and he immediately pulled himself out of the little sphere of perception he had wrapped himself and Kevan in. He now found himself back in the arcanic space that was Kevan's auric-ambient-flare, the threads of Kevan's psyche all around. Devon's mote was floating nearby, and he quickly made contact.
+
+'What's happening?' Devon sent.
+
+'We need to get out!' Jerric answered, snatching up Devon's mote with invisible anchors. Together, they hurtled through the tangled-resolute-power
+
+'Wait...' Jerric realised, with increasing horror, that the shape of Kevan's auric-ambient-flare had changed significantly. The face-aspects were not the same anymore. Where anger previously dominated, there was now an iron resolve.
+
+But that didn't matter. They could still get out. And maybe they had bought the Spire augera enough time, and it had fixed Caden. Even if it wasn't yet finished with its work, they could retreat for now and figure out how to deal with the twins.
+
+Jerric and Devon crashed into a solid wall. Both of them let out cries of pain as they fell back, clutching their faces.
+
+"SHIT!" Jerric screamed, scrambling to his feet.
+
+They were both in the largest Academy duelling chamber, or an approximation of it. The walls were stark white, and the marbled floor was also pale. Kevan was sauntering towards them.
+
+Jerric tried to frameshift out of his perceptive space, but his mind pressed uselessly against the walls. Next to him, Devon had flattened himself against the wall and was laying down thick honeycomb barriers as he stared aghast at the approaching Kevan.
+
+"How?" Jerric gasped out.
+
+"My auric-ambient-flare, my rules." Kevan smiled. "I figured it out while you were walking around my memories. You were able to co-opt my senses and trap me more easily... but once I frameshifted out of it, all your manipulations fell apart. It only works if the person isn't aware of what you're doing."
+
+"You still can't actually harm us here," Jerric pointed out, putting a reassuring hand on Devon's shoulder.
+
+"No. But while I'm here with both of you, Lynus is out there." Kevan's grin widened. "And it appears he's just made contact with a very distracted augera."

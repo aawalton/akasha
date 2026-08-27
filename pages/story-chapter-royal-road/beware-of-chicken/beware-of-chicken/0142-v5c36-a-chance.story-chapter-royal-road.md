@@ -1,0 +1,147 @@
+---
+id: 00ec3f92-4b98-55b6-9938-72a09675e02f
+page-type-slug: story-chapter-royal-road
+title: "v5c36: A Chance"
+slug: 0142-v5c36-a-chance
+partOf: beware-of-chicken
+position: 142
+ownLength: 1724
+unit: words
+ownProgress: 1724
+publishedAt: 2024-08-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1776168/v5c36-a-chance"
+royalRoadId: "1776168"
+markedReadAt: "2026-06-29T18:56:09.628Z"
+---
+
+Yushang was the first through the door into the prison—they came to a scene of pure bedlam. There were gouges in the floor, the glow stones were cracked, and there were several panicked-looking men and women running away from the door toward a central junction.
+
+“East Wind—that idiot! Shit!” somebody was shouting orders. “Euthanize the subjects! We can’t risk them waking up—”
+
+That was all Yushang needed to hear as she stormed around the corner. There were a bunch of people in robes, looking shocked and distressed, but Yushang’s attention was immediately captured. Yushang’s ability to tell who was trustworthy and who would hurt her manifested in the way they looked. Good people looked good. Bad people looked bad.
+
+The leader who was shouting was one of the worst she had ever seen.
+
+Yushang saw two visions overlapping each other. One vision was of a middle-aged man with close-cropped blonde hair and a slightly receding hairline. He had on goggles that reflected the light, and a broad nose. He should have been nondescript.
+
+Yet Yushang saw a monster in him. A beast. A horrific creature that had only the worst of intentions. It wafted off him like a miasma, an aura of malevolence and callous cruelty.
+
+The smell of blood and death filled her nose, and Yushang’s pupils dilated.
+
+She saw his head turn toward them as needles pierced one of the man’s subordinates and lightning consumed the others.
+
+Yushang was upon him in an instant, her sword swinging from the side, only to rebound painfully as a talisman on the man’s chest flared with green light. A sudden blast of force and fire hammered into Yushang’s chest, and her Qi screamed as something foreign ripped its way into her body. It burned as it lashed her—but her own Qi attacked it, sending the invasive energy reeling.[Tremoring Palm]
+
+The monster’s hand burned with more green fire as he reached for Yushang’s chest—more accurately, her heart.
+
+He clearly wasn’t expecting Yushang to simply stomp her foot down, arrest her unbalanced body, and then increase the mass of her sword by twelve times.
+
+[Shattering Avalanche]
+
+The Heavy Sword fell like a meteor. It hammered again into the shield of energy, and it felt like lances of fire were being driven into her arms. Yet her hands remained on her blade—and there were few things that could stop an avalanche from the Fangs.
+
+The green bubble popped, holding for only an instant. Ascending Mountaineer cleaved the man in two, from shoulder to hip. Yushang kept her momentum, spun around, and before the man had fully realised he was in two pieces, brought the flat on her blade down on his head.
+
+The top half of his body turned into a fine red mist.
+
+Yushang’s chest heaved as she staggered backward, shaking her head. The invasive Qi was still echoing around her body, and she grimaced as she circulated her Qi, trying to force it out.
+
+Ri Zu was by her side in an instant, her hands on Yushang’s shoulders. She pulled Yushang away from the corpse, her eyes narrowed. Yushang felt the familiar, welcome touch of Ri Zu’s Qi as it instantly went to work, attacking the invasive Qi and driving it out.
+
+“You’ll be good… but no reason not to try and speed up the purge of demonic Qi,” Ri Zu stated simply. “Han?”
+
+“On it,” the rotund man said, reaching into his pack and pulling out one of the little packets he and Ri Zu had made; they contained the formation to draw out Demonic Qi, a wire, and a small bundle of Spiritual Herbs. Her friend slapped the seal paper on Yushang’s arm, and instantly sweet relief flooded Yushang’s body. Yushang let out a breath of relief as Ri Zu and Han stood by her side.
+
+“Let's get these doors open!” Fenxian shouted, moving deeper into the prison. One of Ri Zu’s shadowy helpers squeaked and pointed out the way. Fenxain walked past Yushang… but paused and turned to her, clapping Yushang on the shoulder. “Nice one, Sister.”
+
+“A fine blow,” Shao Heng agreed, before stooping down to rifle through the corpses’ belongings.
+
+Yushang nodded to them as they moved past her with Yingwen, attempting to determine the best way to open the cell doors. Yushang tried to ignore the rumbling and roars coming from outside the prison complex. Yushang glanced at the entrance, when she noticed two of their members were missing.
+
+Spooks had grabbed the door, pulling it back into the prison complex, while Yun Ren illusioned things so that it looked like the room was still sealed.
+
+“It’s not going to fool anybody strong… but every little bit, eh?” Yun Ren said.
+
+‘Every little bit!’ Spooks agreed. Yushang chuckled as Yun Ren bumped his fist against Spook’s antler. The Thunderhoof had to keep his head low, or they would gouge into the ceiling—this place had a lower roof than the other tunnels.
+
+“You good, Yushang?” Yun Ren asked.
+
+“You know me, your pretty sister is made out of tough material,” she responded, feeling quite a bit better already. She raised up her sword to hopefully clean some of the blood off it. Poor Ascending Mountaineer looked disgusting. She hadn't been able to control her Qi enough that her blade was kept pristine, like a true Master would have been able to accomplish.
+
+“Don’t I know it—”
+
+“These bastards!” Fenxian’s roar echoed through the hall, and all three of them startled. Yushang shot to her feet, curious as to what had caused the outburst.
+
+All of them were gathered around the first open door. Shao Heng was holding a set of keys he had obviously looted off one of the corpses of the demonic cultivators. Uncle’s veins were bulging out in his forehead, and he looked like he was going to explode with fury.
+
+Yushang glanced into the cell.
+
+She wished she hadn’t.
+
+A man was strung up on a rack, the flesh of his arms flayed open and what looked like spikes of black material were being implanted into his bones. It was a disgusting, horrific sight, and it made the bile in the back of Yushang’s throat rise, before she forced it down.
+
+Ri Zu was at the man’s side, her face twisted into a scowl. She glanced up at the rest of them.
+
+“It's bad, but not as bad as it looks. His body is doing an admirable job of fending off what they’re doing to him—and Ri Zu thinks she knows why. His Qi has very, very small amounts, nearly unnoticeable, of Bi De’s Qi. It seems the shipment of herbs made it to Shenhe’s team,” Ri Zu narrated, her eyes narrow with concentration. “But Ri Zu doesn't know if he’ll be able to fight. If Elder Shenhe is in the same state…”
+
+The mood, already tense, got just a bit worse at that statement.
+
+“Ri Zu must do triage. She does not know if she has enough medicinal supplies for everyone. The most capable of fighting will get the resources so they may continue fighting. Yun Ren, please go back and guard the door. Shao Heng, keep opening the cells.” Ri Zu then cocked her head to the side. “The rest with Ri Zu. She thinks she has found Elder Shenhe.”
+
+Yushang was glad to leave and started marching down the hall again, while Yun Ren went back to the front.
+
+The door that they eventually arrived at was bigger and obviously much more heavily reinforced than the others. Shao Heng went through all the keys one by one—but none of them worked on this door. Han frowned and tapped at it.
+
+“It's warded, but these wards were keyed into the main one that Master Shen Yu destroyed. It's heavily damaged, but not completely destroyed…” Han paused for a moment, before trailing off. “It's a blood ward—damaged as it is, we may be able to fool it with the blood of one of the cultivators here. Otherwise… it's brute force.”
+
+Yushang pulled out her sword… which she still hadn't cleaned off.
+
+“Will this work?” she asked, feeling a bit sheepish.
+
+“It’ll work enough,” Han said and started to get the door open.
+
+=================
+
+It had been three minutes, but it was three minutes that felt like an eternity as the mountain occasionally shook. There were explosions now, closer than ever, that made the caverns rumble.
+
+Shao Heng had opened more cells, and there were Shrouded Mountain Sect disciples laying in neat rows in the hallway with medical seals slapped over them—but… it wasn’t looking good. All of them were poisoned and had massive scars from invasive surgeries.
+
+The only bright spot was that Bi De’s Qi had suddenly surged, filling the room—and the Qi of this “East Wind” had faltered—before disappearing. Yushang allowed herself a smile at his victory.
+
+“Got it!” Han suddenly shouted as the door shuddered and groaned.
+
+If the first cell was bad, then this one was much, much worse.
+
+Elder Shenhe, for that was only whom it could be, was staked to the floor. She was bound by titanic chains. Needles were stabbed all over her body, dripping poisons into her from foul-smelling reservoirs. She was covered in seals.
+
+It was a gruesome sight, and one that made Yushang’s heart fall further.
+
+Several roars sounded from nearby. They were close.
+
+Ri Zu touched the woman and recoiled before pressing her hands fully to the Elder.
+
+Three heartbeats passed.
+
+“We have a chance,” Ri Zu stated.
+
+The tension broke as Yingwen and Fenxian both grinned.
+
+The roars sounded closer.
+
+“Uh, guys?” Yun Ren shouted back down the hall. “We’re going to have some company soon, I think!”
+
+Everybody turned back for the door.
+
+“Either Fenxian or Yingwen should stay, so she has a friendly face and familiar Qi nearby,” Ri Zu advised. “Han, keep working on the Shrouded Mountain Sect disciples.”
+
+“I shall stay,” Yinwen said. “Better to not have a weak link in the frontline.”
+
+“We’ll hold for as long as you need,” Fenxian said. “Don’t let us down, Miss Ri Zu.”
+
+Yushang nodded. They just had to hold.
+
+She had once last glimpse of Ri Zu and Yingwen pulling off seals and pulling out needles before she marched into the hallway.
+
+A chance. That was it.
+
+But it had to be enough.

@@ -1,0 +1,103 @@
+---
+id: e202f5a1-22e2-538d-9f34-3ea1ee18a444
+page-type-slug: story-chapter-royal-road
+title: "111. Patching Up"
+slug: 0111-111-patching-up
+partOf: breaker-of-horizons
+position: 111
+ownLength: 1965
+unit: words
+publishedAt: 2021-05-24
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/687682/111-patching-up"
+royalRoadId: "687682"
+---
+
+If there had been any way for him to get some privacy, Caden would have retreated into a room alone to sort out his emotions. Even without tasting the arcana in the air, there was a palpable awkwardness from Ambrose, who hovered nearby and shot frequent glances at him. Emilia, in her usual oblivious fashion, made no attempt to hide the fact that she was thinking because she would stare vacantly at him every time her musings turned to him, and then allow her eyes to wander as she followed other trains of thought.
+
+But the trailer, while impressively large for its purpose, did not have the luxury of individual segmented rooms. Caden briefly considered locking himself in the small restroom, but the thought of having to get up and sidle past the place where Devon was recouperating filled him with dread, and so he stayed glued to the little seat near the rear door with his head buried in his arms
+
+Panicked thoughts chased themselves around his head. Even though he hadn't actually seen the on-site damage for himself, his imagination supplied vivid images of burning buildings, corpses ripped apart by the explosion he had caused, and scenes of total devastation. And above it all, the dark cloud of smoke hung, ominous and accusatory. Phantom smells filled his nostrils — charred flesh, ash, hot metal. All of it, done by him in the time it took to simply think a thought.
+
+What terrible power they all wielded, he realised.
+
+Somewhere beyond his little bubble of imposed isolation, he knew the others were talking in low whispers. Ambrose and Emilia had left the segment of the trailer he was in and gone further up to where Jerric was tending to Devon, closer to the front where the twins were. There was an undercurrent of emotion as they spoke, and Ambrose's voice seemed to be directing or at least moderating that discussion.
+
+There were very important plans to be made, Caden knew. They had won free of the manor and given their minders the slip, but there was no telling how long they could remain undetected. And they also had the new and very present threat of the Empire's enemies to deal with, apparently roving the Empire freely, with enough firepower and audacity to strike even in the capital city.
+
+But right now, Caden couldn't bring himself to think about that. He felt hollow inside. For the first time, he felt utterly listless. He was unchosen anyway. Let the others, the ones bound by Prophecy, act as they willed, led on by strings of fate. He was free to just sit here and break down. He would give himself that time and space.
+
+After what felt like an eternity, Caden heard clumsy footsteps approaching him. Since he had dropped completely out of the arcanic sea earlier, he hadn't bothered to even reattach himself tenuously to the flow of ambient arcana, so he didn't get even a whiff of the person's auric-ambient-flare. He didn't look up, since he had no desire to engage in conversation with whoever it might be.
+
+"Hey." It was Devon. A small part of Caden registered some relief at the fact that he sounded alright, and was actually capable of walking, but it wasn't enough to rouse him from his private horror.
+
+The seat opposite Caden creaked as Devon lowered himself into it with a soft grunt. Then there was nothing but silence again, except for the rhythmic trundling of the trailer on the road, and the occasional sound of another vehicle passing them.
+
+More time passed. At some point, Caden thought he dozed off a bit. When he became a bit more alert, he felt a little guilty for giving Devon the silent treatment. Tentatively, he loosened his auric-ambient-flare a little so that it made closer contact with the ambient arcana, and he began picking up impressions from the world around him again.
+
+Devon was still there, seated quietly, radiating calm. If the flow of arcana was anything to go by, he was deeply engaged in the breathing-and-noticing exercise that Emilia had introduced them to. But there was something odd that caught Caden's attention and finally roused him from his reticent mood.
+
+"What're you doing?" he asked softly, raising his head from his arms.
+
+"Just keeping you company," Devon answered with a sheepish grin. It faded as he looked a little more closely at Caden. "You, uh, wanna talk?"
+
+Caden hesitated, then side-stepped the question. "I mean... with the arcana. What are you doing with it? It's not just the breathing thing with Emilia."
+
+"Oh." Devon sat up a little straighter, wincing as he did so. If he felt anything at having his question ignored, he didn't show it. "The recovery sequence you put on me is still doing its work. Jerric flooded it with as much arcana as he could manage, and he's recovering a bit from overdraw now, so I thought I'd keep it up while he rested."
+
+"But that's not all, is it?" Caden disentangled himself a little more and rolled his stiff shoulders. "You're not just feeding arcana to the sequence. It kinda feels like you're... stretching it?"
+
+"Not exactly," Devon said, sounding a little pleased with himself. "See, I've had time to get a feel of the sequence itself since it's literally on me, and I think I figured out a way to help it work more efficiently."
+
+Caden's curiosity was slowly drawing him further out of his shell. "Do you mind if I took a closer look?"
+
+He regretted asking almost instantly. Devon tried to hide it, but there was a flash of apprehension and a fraction of a second's hesitation before he tried to give a "Sure!" that came out too hastily and with a little too much forced breeziness.
+
+"It's okay if you don't want me to," Caden said in a deadpan.
+
+"No, Caden, sorry, I mean..." Devon winced again as he half-rose, then sat back down, clutching his back.
+
+Caden had instinctively gotten to his feet, ready to catch Devon in case he fell over. He sat back down again when the young lord raised a hand to signal that he was alright.
+
+"Just give me a second," Devon said, taking in slow, deliberate breaths. After a moment, he continued. "I'll be honest, what you can do scares me."
+
+Caden smiled grimly. "Yeah, I figured."
+
+"But that's only half of it. Look, whatever you can do, Ambrose can probably do even worse right now. And if what has happened so far is anything to go by, the rest of us will probably catch up and be capable of doing at least some of the stuff the two of you just pulled off today. What I'm trying to say is... what you can do scares me, but... we're all kinda in this together."
+
+"You're in it with the rest," Caden clarified. "All bound by Prophecy. I'm the one who's out of the group."
+
+"No," Devon said fiercely, with surprising force given his general state of fragility. "We're all in this together because we're friends, not because of the Prophecy. Everyone keeps saying that prophecies work off probabilities and skew them. Well, that just means that it needs a foundation to work with. It's using our friendship to bind the rest of us. But that doesn't mean we're not friends. And just because there's no Prophetic links chaining you to the rest of us, it doesn't mean you're not a part of this group too."
+
+Caden blinked at him in surprise and found himself at a loss for words.
+
+"On top of that," Devon went on, jabbing a finger at Caden, "what kind of maniac who doesn't belong to a group would risk his life to help them, and pull miraculous recovery sequences out of thin air and use them on people in the middle of a pitched battle? You saved me back there, Caden, so I literally owe you my life, and at the very least that means I consider you a friend, whether you like it or not."
+
+It was difficult for Caden to look directly at Devon now, so he started fidgeting with his hands. But Devon's little speech did merit some kind of response, so he gave an embarrassed nod. "Thanks, Dev."
+
+"So I'm gonna ask again," Devon said, sounding almost threatening. "Do you want to talk? You know... about what happened back there. Get it off your chest."
+
+This time, Caden gave a wry smile. "Maybe later. I... I still need to sort it out for myself. But thanks. Right now, what I do want to talk about is what you're doing to that recovery sequence."
+
+Devon fixed him with a serious look, as if trying to decide if Caden was intentionally avoiding the question.
+
+"I'll talk about the... about what I did... when I'm ready, Dev," Caden said sincerely.
+
+"Okay," Devon relented. "Well, I can't figure out the glyphs on the recovery sequence at all, and I've got no idea how it actually works, but I know how it feels when it's working on me. It feels like, uh, how I imagine it might feel if... if I could feel my body growing. That's a bit of a mouthful, but that's basically it. So I started focusing on that feeling, and with Emilia's breathing-and-noticing exercise, I think I'm picking up the point where the sequence interfaces with my auric-ambient-flare. So I'm stretching my auric-ambient-flare a little so that the sequence itself also sort of sinks into it or connects with it a little better. Kinda like how you might rub ointment over a bruise, y'know?"
+
+"And you think it's helping the recovery sequence work better?" Caden asked, intrigued.
+
+"Honestly, I've got no idea," Devon said, shrugging. "For all I know, the sequence works the same as always. But I can tell you that it really feels like I'm doing something right, because it's... it feels natural. It feels good."
+
+"Can I check?" Caden asked.
+
+"Yes," Devon said, this time with exaggerated firmness and confidence. Caden chuckled a little, then slipped into the arcanic sea.
+
+Back in the thick of battle, he hadn't had any time at all to really think about the sequence he had placed over Devon. He had wanted a recovery sequence that could restore moderate to severe physical trauma, and that could work swiftly and independently without an arcanist's supervision. Somehow, his subconscious had supplied this, even though he still didn't know the constituent glyphs.
+
+Now that he could examine it a little more closely, he could bend his arcanic senses to it to discern more of its nature. It was, as Devon had described, actually sewn onto his auric-ambient-flare in a way that Caden had never seen before in any other sequence, except the prophetic shield orbs that his father had made. It even bore some passing resemblance to the prophetic coccoon that the Spire augera had laid over him.
+
+"I think your description pretty much sums it up," Caden said, amazed. "I think it's... just using the body's natural healing factor, except cranking it up to a crazy degree. Your body is literally healing itself. But there's probably more to it, because our bodies don't regenerate lost flesh perfectly. There must be other bits of the sequence that are augmenting the body's natural healing ability beyond just cranking it up to eleven."
+
+"Whatever it is, it's handy to have. Any chance of being able to teach it to the rest of us?" Devon asked.
+
+"No, I don't th—" Caden began, then froze. "... maybe. Even if it can be done, I'm not sure we should. But if we want to talk about whether or not it's even possible, we need to talk to Ambrose."

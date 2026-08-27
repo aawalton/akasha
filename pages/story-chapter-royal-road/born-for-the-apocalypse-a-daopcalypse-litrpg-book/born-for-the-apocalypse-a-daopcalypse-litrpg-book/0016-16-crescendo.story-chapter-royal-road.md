@@ -1,0 +1,185 @@
+---
+id: 05be080d-952f-55b3-8c76-a2e17bf952cc
+page-type-slug: story-chapter-royal-road
+title: "16: Crescendo"
+slug: 0016-16-crescendo
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 16
+ownLength: 2971
+unit: words
+publishedAt: 2023-03-05
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1129652/16-crescendo"
+royalRoadId: "1129652"
+---
+
+Jack’s outstretched hand grabbed onto Sarah’s wrist, interrupting her forward charge. Moving too fast to decelerate neatly, she stumbled towards Jack, roughly landing before him. Clearly dazed, she took in her surroundings, her gaze first landing upon the nearby fauna, then the source of the shade, which was revealed to be the wide-trunked Anarix Tree and finally Jack, whose expression looked as disturbed as she imagined hers to be.
+
+“I- I’m sorry- I…” Sarah trailed off, her words failing her. She thought she had changed and by all means, she had.
+
+But it was one thing to fend off terrifying beasts as a group and an entirely different concept to have one of her teammates shoot another with intent to kill.
+
+“It’s okay,” Jack replied, though Sarah could immediately tell that his words lacked the conviction that he usually made so apparent with his tone. Without hesitating, he swallowed another Recovery Pill, which picked up where the first one had left— sealing the three small incisions remaining after the session of healing.
+
+Andrew’s pained cry for help interrupted their brief reprieve, causing Jack and Sarah to exchange shocked glances.
+
+He was still alive?
+
+Jack raised his right hand, signaling for Sarah to stay behind cover whilst he took a look. The last he’d seen Andrew, he had appeared to be suffering from internal poisoning and appeared as if he were seconds away from drawing his last breath...
+
+He audibly winced.
+
+He hadn’t been hallucinating Andrew’s condition— his pale skin was still littered with splotches of purple, but from the way his limbs were thrashing around as he wailed for help, he wasn’t dying.
+
+“Trent!” Jack called out, his voice echoing forth with such intensity that it could easily have caught the attention of any beasts in the vicinity. It was not unlike Jack to disregard his own principles, but he did not, or rather, could not relent in the moment.
+
+“I understand your anger,” Jack began, his words followed by an action that left Sarah too stunned to speak, the quintessential doomsday prepper stepped out of cover, baring himself to the sight of an enemy archer.
+
+“I understand your anger because….,” Jack’s gaze traced Trent back to the tree he fired from, ready to dive for cover the moment he detected a flicker of movement or another burst of green light. Jack wasn’t willing to bet his life on Trent’s humanity, but at the same time this was one of the rare moments where he allowed emotions to dictate his actions over logic. “.... because I have been there. Because I have walked the path you now stand on a crossroads before.”
+
+Sarah listened intently to Jack’s words, able to feel the raw emotions coursing through his words.
+
+There was no response from Trent, but at the same time, he made no overt or threatening movement.
+
+“Andrew wronged you. I understand that. You feel hatred for him. You want revenge. The thought of justice is what drives you. But Trent, you and I both know that you are not a killer. Don’t you see it? This is exactly what the people who designed this trial want!” Jack bellowed, struggling and failing to keep the fury out of his voice. “Normal, everyday people casting aside their humanity to eke out a miserable survival, is that what you want, Trent?" Jack asked, forcing himself to calm down a little.
+
+There was still no response.
+
+“Dispel your power and I will personally see to it that Andrew is kicked out of the group. Don’t stain your hands red for scum like him,Trent. It’s not worth it,” Jack implored, though in truth, the conversation he was having was as much with Trent as it was with himself.
+
+“Why now?” The response came, his voice sweeping forward as cold as a mid-winter gust. “Back when Andrew stole my kill for the first time, you were stronger than him. If you wished, you could have kicked him out of the group right then and there. You could have punished him for his selfishness, setting an example for the rest of us, but you didn’t, did you?”
+
+“No…. you’re almost as bad as him!” Trent's tone alighted with fury, a green light flashing in the tree’s canopy, clearly visible even amongst the foliage.
+
+Jack immediately dove for cover but,
+
+The arrow wasn’t aimed at him from the very inception.
+
+“I understand if you disagree with what I did,” Trent's voice sounded out as he disembarked from the tree’s canopy, landing on the ground with a thud. “But, like the two of you, I want to survive. You...,” Trent's voice seemed to break a little, but he managed to pull back his composure in time,”.... probably can’t accept what I did. That’s fine. My quarrel was never with you both— I will take what was stolen from me and leave,” Trent, who had a diminutive presence when juxtaposed next to Jack, now struck terror in Sarah’s heart with every step he took. It wasn’t he, himself, that terrified her but that power, the reversed trident symbol on Trent's palm contained a horrifying energy that she could not muster the courage to face.
+
+“What do we do?” She whispered, looking towards Jack for guidance. She’d crept forward through the underbrush when Trent's attention was diverted, but now, she wasn’t sure if that was the right decision.
+
+Jack was rooted to the spot, his expression hollow and his pupils unfocused.
+
+He was trapped in a thought-prison of his own making, trapped in an instance of time that looped endlessly in his mind’s eye. Every vivid detail of Andrew’s horrified, panic-riddled expression was imprinted onto his mind, down to the solitary tear trickling down his cheek and landing upon a blade of grass.
+
+The arrow that had been fired was as swift as it was true to its target, forcing him to watch as the light dulled in his eyes, the struggle leaving his limbs as his silhouette stilled in the embrace of the eternal darkness.
+
+Trent's words still lingered in his mind, permeating through the filter that separated him from the outside world, the one thing he could still pay attention to. If anything he said could be trusted, Trent intended to loot Andrew’s body and leave and from what he understood of Trent's personality, that was probably true.
+
+It was tempting to stay cloistered behind cover and wait for the threat to pass. His Qi Pool was completely exhausted and his leg had just recovered from a serious wound— not to mention the serious disadvantage he was up against Trent's new-found power. Even a grazed arrow would render him immobile, at the mercy of the archer’s morality.
+
+‘BANG!’
+
+‘BANG!’
+
+He winced as the sound of two gunshots rang out in his mind’s eye, the memory of Andrew’s last moments overlapping with his parents’--- the helplessness, the horror and the glimmer of rage in Andrew’s gaze had been exactly how he’d envisioned his guardian’s final moments.
+
+He had experienced, first hand, what happened when murderers were allowed to roam free, unpunished for their actions. He knew what such people did when they realized that there was no one present to hold them accountable for their sins.
+
+Life was sacred.
+
+Andrew had been greedy. Selfish. Vile, even, in some of his actions. But that couldn’t be all that he was.
+
+People were more complex than that, they always were.
+
+Andrew could have been a terrible human being, someone who was rotten to his core. But he could also have been someone’s son. A father. A husband. Mean something to someone, to a lot of someones.
+
+Perhaps that was the reason he had gone so far to ensure his survival.
+
+“Sarah,” Jack whispered. “I need you to do something for me.”
+
+Upon receiving confirmation, Jack’s silhouette slipped away from behind cover, melding with the forest’s foliage.
+
+Though Jack himself didn’t derive any satisfaction from hunting animals, he was well versed with the techniques and methods they employed to prowl through forests undetected.
+
+Still-hunting was by far the stealthiest way to traverse the underbrush, but Jack didn’t have time for such deliberation. So, he stuck to the basics— taking small, quick steps that carried him forward whilst he painstakingly avoided twigs, dry leaves and errant pebbles in his path, the exercise taxing on both his already weary core and exhausted psyche.
+
+“You don’t need to leave,” Sarah’s voice cut through the eerie solitude of the forest, assuming a pacifying tone.
+
+Trent, who towered above Andrew’s lifeless body, raised an eyebrow at that.
+
+“Huh” he muttered under his breath, not having expected that response. “What do you mean?” he questioned back, expression skeptical.
+
+“You know your way around a bow, but look around you. How many more wolves must this forest have? What if you run across something stronger than them? Can you really fend them all off, alone?” Sarah didn’t hold back, giving voice to her own fears and anxieties to come off as more convincing.
+
+“You saw what I did to him and still want to team up with me? I don’t believe it,” Trent shot back, Sarah’s worries falling on deaf ears.
+
+“Look-” Sarah’s exasperated voice replied, “I haven’t held a spear before this in my entire life and Jack’s injured and exhausted after taking down that wolf and saving all our lives. You’re not my first choice for teammate, hell, you wouldn’t even be last if the circumstances weren’t forcing it,” Sarah herself couldn’t believe how genuine her voice sounded, not an iota of guilt leaking through as she spewed one lie after the other.
+
+“Jack,” Trent whispered under his breath, inadvertently reminded of the swordsman’s presence. Andrew was the only subject that had dominated his mind up until seconds ago, the loot transferring over to his inventory filling him with a righteous exultation. “Sarah, where’s Jack. Why isn’t he talking?” Trent snarled loudly, his eyes darting around as a burst of uneasiness washed over him.
+
+There was no response.
+
+“You bitch!” Trent shrieked, on the verge of nocking an arrow when he heard the sound of rushed footsteps echoing out behind him.
+
+If it weren’t for his enhanced stats from reaching level three, there was no way he would’ve been able to react in that brief window of time.
+
+“My blade will strike you down before you can shoot that arrow. Drop the bow, Trent,” Jack bellowed, the intensity of his voice mirrored by his gaze.
+
+Trent met Jack’s gaze, his gaze flickering to the sword resting against his throat before landing upon his own bow, his arrow held at full draw but angled below waist height— at most, it would hit Jack in the thigh. Enough to stall, but not outright kill.
+
+They were in a standoff.
+
+“How do I know you won't slit my throat the moment I lower my bow?” Trent replied, the facade of indifference he had been maintaining beginning to crack as it was replaced with panic.
+
+“Don’t pretend as if you don’t know,” Jack sneered, unamused. He could have already struck true with his ambush, but had chosen to withhold his blade.
+
+“Alright….” Trent croaked out, the tension warping his expression. “....fine.”
+
+Painfully slowly, as if worried that Jack would go back upon his word, Trent began to lower his bow.
+
+Time itself seemed to distort for Trent, as he found himself contemplating Sarah’s words. They carried with them a bitter callousness that he was familiar with, one that he knew to be accompanied usually by the truth. Alone, his chances of survival were grim.
+
+Even though he didn’t regret his actions, he acknowledged that statement to be the truth.
+
+The bridge with Sarah and Jack had already been burned, though— if he surrendered now, at the very least, they would demand his bow and the items he’d looted from Andrew. He could perhaps escape if they were overrun by monsters, but he would be a prisoner until they outlevelled him significantly—to the point where they no longer considered him a threat or they found what remained of the government equivalent and handed him over.
+
+Considering that they had barely survived the last encounter, surrendering was the equivalent of signing his death warrant.
+
+More than that though, he already knew what the path to survival was.
+
+Trent might not be able to confront terrifying beasts head-on and come out victorious time after time, but he could do something Jack didn’t have in him— it had only taken him one arrow to go from level one to level three because…. humans couldn’t dodge arrows they didn’t see coming.
+
+Angling his neck to the side,Trent took a step back, creating the distance he so desperately needed to angle his bow to his chest level.
+
+The tip of his arrowhead flared to light with a dark-green light.
+
+“Jack!” Sarah screamed.
+
+Jack didn’t know if it was because he had been fighting just moments before, because the adrenaline pumping through his veins after witnessing the sight of Andrew being killed by a power that was as terrifying as it was unknown or because his heart was thumping at the pace of a runaway freight train, or perhaps it was a combination of all three of those factors, but he had entered a state that he could only describe as hyper awareness that stretched beyond his enhanced stats.
+
+The four of them had been put together for a reason, to offer them a chance at surviving whatever layer of hell they had found themselves in. Trent killing Andrew had been a step too far, but he couldn’t deny that the belligerent man’s own actions played a role.
+
+Trent would be judged for his actions, because he had taken the life of another but at the same time, it was not Jack’s place to give or take his life. He had no authority vested to him by the law and neither could he claim to be an arbiter of morality. If anything, he was biased in his hatred for those that took life, having such pain inflicted upon him as a child, when he had been incapable of defending himself let alone others.
+
+Killing Trent would make him no different than him.
+
+However, the world they lived in now was a broken, lawless one. There were no longer any institutions left to claim retribution or reform, to judge right from wrong, besides the sadistic system that seemed content enough to kill them all.
+
+As tough a pill it was to swallow, there was only a single correct answer he could see.
+
+He and Sarah could simply leave, leaving a knocked-out Trent behind to slip out of his stupor after they had left. Banishment would have to be enough of a punishment for a lone man in face of the apocalypse and Jack hoped that Trent had seen enough of his prowess to know that he was no easy prey. Besides, sending him to sleep would mean that Trent would need to follow their trail across a forest that was already fraught with dangers and he was no tracker.
+
+His fate would be his own to decide and more likely than not, they would never meet again.
+
+But that was before Jack heard the crunching of grass disturbed by the rise and fall of a leather boots in the form of two thumps that sounded out in remarkably quick succession, hurriedly followed by a muted groan of the bow as its wood flexed to its limit, the low-pitched vibration of the already drawn bowstring as it reached maximum tension and the sharp breath of a hunter exhaled when he knew he had his mark ---- all before his visual acuity had registered the importance of Trent having kept his arrow tensioned.
+
+The question had shifted from one of morality to another of survival. Jack’s body, mind and soul were in unison as he answered, his movements smooth and without an ounce of hesitation.
+
+Jack was already sidestepping Trent's immediate line of fire the moment he had taken the first step in retreat and by the time it came to his second, as Trent was angling his bow where he remembered Jack’s chest to be a moment before, Jack had already committed to a lunge that slid past his drawn bow with a speed and fluidity Jack would be hard pressed to repeat even if given another hundred tries.
+
+The glow ensconcing Trent's arrow-tip winked out seconds after it flared to life.
+
+The arrow Trent was on the verge of releasing slipped out of his grasp, but the force behind it was only a quarter of what he’d intended.
+
+A burning pain unlike anything he’d experienced before erupted in his abdomen.
+
+He angled his gaze downwards, confronted by a flower of blood blooming in the center of his abdomen… with Jack’s sword lodged deeply in his flesh.
+
+“H-how,” Trent stuttered, his eyes full of disbelief. There was no way Jack should have seen it coming, it had to be impossible! Trent was certain that Jack hadn’t foreseen the two quick steps he had committed to without warning, already pulling back his drawn bow into aim as he did so. It had taken him maybe half a second more to call upon his corrosion and that should’ve been it. Barely two seconds to react to a ranged attack and yet…
+
+“It didn’t have to be this way, Trent,” Jack’s response was uttered barely above a whisper, his voice quivering with a deep sorrow, a sorrow that could be compared to a young child losing both his parents on the same day. A sorrow that Jack was no stranger to.
+
+In that moment, Trent felt like he’d finally met the real Jack— the man behind the facade of composure.
+
+That was his final thought.

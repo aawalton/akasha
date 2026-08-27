@@ -1,0 +1,411 @@
+---
+id: e29c616b-66ba-561b-afa7-11c0191e3e00
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 4 - Soft Resolve"
+slug: 0061-book-5-chapter-4-soft-resolve
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 61
+ownLength: 6372
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3149052/book-5-chapter-4-soft-resolve"
+royalRoadId: "3149052"
+---
+
+The brief opportunity to rest proved to be educational, once they got moving again. First, Ranthia learned that—yes, yes, how ironic—clovers did not agree with Clover, at least not when consumed in the quantity that the poor bunny had managed. When Ranthia realized the rabbit was distressed, she gently removed Clover from her backpack to find the poor dear’s stomach was rumbling ominously.
+
+She also discovered that Clover was a girl, while she investigated the rabbit’s unhappy abdomen. Sure, it could be harder to tell with juveniles, but Ranthia had dismantled a lot of rabbits—she was certain.
+
+Unsure of what else she could do to help, Ranthia opted to carry the bunny gently in her arms while she continued onward. Clover didn’t seem to mind—maybe it was warmer.
+
+Night was about to fall, but she was basically at the foot of the mountain. And maybe, if she reached the City of Arts, she could find someone that could give her advice about how to help the rabbit—or at least how to avoid a repeat if the problem resolved itself before then. It wasn’t like she’d taken rabbit husbandry classes at the Ranger Academy! And clearly her best guesses were leading her astray.
+
+There was no trace of any tunnel, so Ranthia committed to climbing the mountain. She had faced off against a hydra and powerful shimagu twins—with the full breadth of her capabilities at her disposal, she chose to hope that she could outmatch any beast that dwelled atop a frigid mountain.
+
+Determined, Ranthia had removed her traveller’s cloak and started her ascent.
+
+But the climb was proving to be an unexpected challenge. The mountain’s slopes had appeared to be reasonably gentle when she approached, but they proved to be steeper and far more treacherous than she had expected. Ranthia tried to carry Clover where she could—surprisingly, the rabbit seemed to prefer being in her arms—but she was often forced to backpack the bunny so she could use both hands.
+
+Fortunately, her knives made for superb climbing accessories. Adamantium was undeniably superior to mundane rock, and [Void Edge] made them even easier to use. She just slipped her blade into the rock—blade horizontal—and she had a sturdy handhold or place to stand. Even better, she didn’t have to pull her knives out as she went. She stood on her knives, then used her spares for the next leg of the journey, before she deformed the knife at her furthest foot and waited for the adamantium sand to cross her body to her hand—then she formed the blade anew.
+
+She’d learned her lessons when she climbed mesas during the war: stability was crucial while she was exposed against bare rockface—especially when the wind picked up. By her standards, the ascent was slow—but she was confident that she’d make it to the top well before the sun rose.
+
+“Stupid… freaking… hidden… tunnel.” Ranthia gasped as she hauled herself over the ledge of what she sorely hoped was the final climb she had to make on the mountain. …On that side; she hadn’t forgotten that she still had to descend. She collapsed bonelessly onto her chest and tried her best to rush her recuperation.
+
+Climbing for hours on end was punishing exercise.
+
+Ranthia felt the weight shift, then watched through her [Divine Eye] while Clover hopped out of the backpack and started to sniff at her head. At least her rabbit seemed to have recovered from her digestive issues—but could Clover truly be checking on Ranthia out of concern? Somehow, Ranthia struggled to attribute that level of emotional complexity to a rabbit—not that she was an expert. Hanging around with alley cats when she was a kid didn’t give her deep insight into the minds of animals.
+
+“I’m fine, I just wanted to rest for a second and catch my breath.” Ranthia still chose to reassure the bunny, because at some point she’d abandoned her better sense.
+
+She stood and dusted the snow off of her armor while she surveyed the area. It looked like they’d be able to walk from there, and the snow wasn’t near as deep as it’d been before the ascent. Still, the upper region of the mountain was bitterly cold—almost as bad as the snowstorm had been—and they weren’t even at the top of the mountain. It looked like she could skirt around the mountain from where she was though, so she was more than happy to avoid the peak.
+
+Ranthia picked up her surprisingly non-resistant bunny and resumed walking.
+
+“Looks like there’s a cave up ahead. If it isn’t occupied, we’ll stop there and I’ll feed you some of the clover I dug up. But just so you know, I’m not letting you gorge yourself on it this time.” Ranthia warned the bunny in a serious tone.
+
+Clover’s oversized ears twitched in response. Or possibly because they were cold or itchy or just because Xaoc alone knew why bunnies did the things that they did.
+
+The snow on the mountain felt crunchier beneath her sandals than the snow in the woodlands had. But Ranthia scarcely paid any attention to it—she was focused on the distant horizon. With every step she took, her view of the forest that awaited her on the other side of the mountain grew a bit wider. Elencor had said she’d see the City of Arts—the place she was to meet the love of her life—from the mountain and she was impatient to lay eyes on her destination. Her pulse quickened with anticipation as her heart rate slowly picked up. Any step might finally—
+
+“Ow, hey, watch those claws, Clover. What’s wrong with you?” Ranthia was pulled out of her reverie when her rabbit suddenly started kicking her arm.
+
+But even as Ranthia tried to soothe the agitated bunny, Clover thrashed and kicked harder than ever while she ground her teeth.
+
+It was like she was scared…
+
+No, she was terrified.
+
+Ranthia hurriedly spun her [Divine Eye] around while she tensed her body. Even with her level advantage, there was a good chance Clover still had better hearing—and better instincts for danger—than Ranthia did.
+
+[Gorilla – Ice] level 999, [Gorilla – Decay] level 1036, [Gorilla – Decay] level 750.
+
+Godsdamnit. An ordinary bit of the landscape—a snow-covered rock—exploded into motion almost the very instant she clocked its true nature.
+
+Yet the forewarning meant that Ranthia faced the threat with her perception already at its limits. Which gave her ample time to appreciate just how flatfooted she was. Her knives weren’t formed, she had a noncombatant cradled in her arms, and the damned beast was somehow higher level than most of the shimagu twins had been!
+
+“Sorry!” Ranthia’s single word was probably uttered too quickly for the bunny to understand (not that she expected Clover to understand anything she said), but it was all Ranthia had time to offer before she tossed the rabbit and woven bag to the side, hoping that Clover would be safe.
+
+The gorilla was fast; the damn beast was practically on top of her the very moment the airborne bunny had moved beyond its reach. A massive hand—encased in claws of Ice—swiped at her while Ranthia threw herself backwards. The gorilla’s claws tore through her left sandal, but it felt like they only lightly grazed her skin.
+
+Her backwards lunge carried her a lot further than it normally would have—she wasn’t just moving backwards, she was moving down the mountain. And she really didn’t want to inadvertently throw herself off of the side of it, which meant that she needed to land instead of vaulting herself even further to spare herself the impact.
+
+Ranthia landed on her back—jamming the backpacked safebox against her armor painfully—and hit the quick-release on the backpack’s straps in the same instant. The straps would be annoying to reassemble, but at least the pack was left in her wake as she rolled to the side. Ranthia stopped in a crouch, and began forming her knives…
+
+Yet the gorilla hadn’t pursued her. It was just standing there, watching her. Was it nervous about getting too close to the edge of the mountain?
+
+Ranthia’s attempts to make sense of her unwanted opponent’s motivations came to an end as an all-encompassing pain surged through her left leg. The exquisite agony failed to overwhelm her, but it was atypically intense—pain seldom registered so acutely.
+
+[*ding!* [Adamantium Will] has leveled from 55 to level 59!]
+
+Okay, yes, that was a bad sign, but Ranthia willfully shoved her accruing panic aside. With her System notifications silenced, she tasked her [Divine Eye] with keeping tabs on the gorilla while she quickly checked her leg over with her actual eyes. The horrendous stink that was reaching her came from her own leg—black, jagged lines were climbing her leg, as the darkened flesh (and the leather of her sandal) rotted.
+
+Ranthia didn’t hesitate. She brought her mostly-formed knife down and activated both [Void Edge] and [Echoes of Devastation]—severing her own leg through the knee.
+
+She wasn’t sure if it was a curse-like effect, natural decay accelerated to an obscene extent by the System, or some toxin; but she wasn’t about to take any risk. The safest option was to excise the tainted flesh before she shifted.
+
+Crippling herself in a fight had its own risks, so she worked quickly. She conjured multiple images behind the gorilla and activated [Reflections of Reality] for the image that she deemed less likely to get attacked—not that the gorilla chose any of them. Instead, the white-furred monstrosity charged directly at her just as her blood began to stain the snow.
+
+The creature was fast, at least in a straight line, but it had tarried too long.
+
+The gorilla crashed through the image she’d just abandoned, and Ranthia watched the rampaging, confused beast as it came to a frantic stop. While it hammered at the rock and snow with its fists in a vain attempt to find where she’d gone, Ranthia assessed her options—and finished forming the six images that [Submind] could control alongside [Divine Eyes in the Void].
+
+The damned caster monster had a Decay-aspected attack that could blitz through even her vitality to make her body rot within seconds of inflicting an otherwise inconsequential blemish upon her skin. Worse, the Skill had affected leather in equal measure—her sandal was utterly gone. She’d long been forced to protect her armor while she fought, yet there she was, facing a threat that could destroy her only intact suit with a single touch. …And she was only mostly certain that she could build a second set with the parts stuffed into her backpack.
+
+“I’m not going to yield before an animal.” Ranthia vocalized her declaration, intentionally drawing the gorilla’s attention.
+
+Sure, she was (presumably) a trespasser in the creature’s territory, but it wasn’t like it was going to let her collect her things and leave. She’d drive it away if she could, but she already suspected that was an unlikely outcome—with the monster’s level advantage, it was unlikely to withdraw while it still lived.
+
+Predictably, the gorilla began a new charge. Ranthia and her images each invoked a dance—creating seven different styles of movement as they swept toward the beast at varying speeds. Against an animal, her images meant far more than they had during the war—it was unlikely to figure out any of the flaws [Diffuse Reflectance] possessed.
+
+The gorilla was far removed from its dark-furred kin that she’d occasionally seen in Remus. This brute was considerably taller and larger than she was, with massive forearms that were even thicker than the burliest ogres’ had been. Its shaggy white fur was coated in shards of Ice, and where the fur grew sparse the beast had thick crusts of Ice layered like armor. Its teeth were stained and filthy, in stark contrast to the perfectly transparent tusk-like lengths of Ice that protruded from both of its jaws. The worst part was its eyes—red and bloodshot—which radiated a malicious hostility that almost transcended bestial intellect.
+
+There was no way to even tell the beast’s sex with its protective layers of Ice and frost. Not that it mattered.
+
+Ranthia and her images readied their knives as the distance closed. The gorilla was fast, but Ranthia was no slouch in terms of speed either. Her opponent slammed into an image shoulder-first and crashed into the snow-covered rock with explosive force.
+
+Too bad for the beast—the image in the lead was unoccupied. Ranthia and her remaining images gracefully avoided the reckless slam and unleashed their assaults on the gorilla as they passed it by.
+
+And Ranthia nearly lost her rhythm when her knife deflected off of the beast’s hide.
+
+Where she expected a thick harvest of flesh and frost to be deleted, Ranthia left only a shallow cut that slowly beaded with scant drops of blood. It was absurd! Sure, the beast undoubtedly possessed far greater vitality than she did, but [Void Edge] was a potent equalizer! She hadn’t experienced one of her attacks being deflected like that since her earliest days of fighting against the troll twin!
+
+Unfortunately, the battlefield was no place for incredulity. Had she been less focused on the trivial wound she’d left, she might have noticed the gorilla’s ice-crusted fur bristling—[Divine Eyes in the Void] tried to warn her, but it came just a bit too late. Countless needle-like shards of Ice launched from the gorilla in every direction, and it was all Ranthia could do to protect her face. A thousand and twenty-four shards pierced her flesh while her images were sundered by the volley.
+
+Worse, the gorilla started moving at the same time. Ranthia was already on the back foot, and she barely avoided the first swipe of the creature’s icy claws. Out of desperation, she met the second swipe with both of her knives—yet [Void Edge] and [Echoes of Devastation] failed to shear through the Ice.
+
+She was forced to contort her body to try to evade the third swipe as she danced—scrambled, more honestly—back to get a bit of distance. Snow and ice crunched within her armor’s segments of steel, but more worryingly she felt the gorilla’s claws pass through her hair… and tear through the tip of her ear.
+
+Ranthia loosened her grip on a knife and deftly turned the blade around just in time to carefully slice her own ear off. She didn’t even wait to tell if the Decay would infect it—she couldn’t risk it that close to her brain.
+
+Her next priority was to replace the images that she’d lost; she could suffer the pain and blood loss from her severed ear for the moment. The gorilla was fast when it charged, but her bestial opponent wasn’t very dexterous—so Ranthia chose to keep dancing around it. She was willing to risk another spray of Ice needles; they had stung, but they plainly hadn’t borne the Decay.
+
+Her thoughts froze as she noticed movement. For a single, horrible moment she thought Clover had hopped over into the middle of the battle.
+
+The truth was almost worse.
+
+Ranthia’s beloved Mistweave blindfold—the silver-and-blue one that she wore most often—was fluttering away from her… as it was rapidly unmade. There was no black taint to the Mistweave, just whatever magics had made the cloth unraveled and a garment that she’d used for decades disappeared right before her eyes.
+
+Mistweave was supposed to be almost indestructible. That was the whole reason she’d taken on the expense! She was pretty sure her Void could delete it, but most attacks and damage passed through the fabric without harming it. And of fucking course, the gorilla’s Decay had to be an exception!
+
+Ranthia snarled with frustration and dismissed the images she’d already formed. She formed a new image, using a different slot from [Image Recall], and immediately activated [Reflections of Reality].
+
+Her abandoned image was still dancing around the gorilla when Ranthia rejoined the battle. And even though it was a dumb beast, the gorilla still seemed to be taken aback by her new image—it wasn’t every day a nude woman attacked it with knives.
+
+Ranthia had her armored image flee until it was clear of the fight, then she dismissed it—and let her armor, remaining sandal, belt, and mistweave undergarments drop into the snow. She wasn’t going to let the animal take anything else from her!
+
+Besides, it wasn’t like she needed the protection. Even the cold felt distant as she clashed with the brutal beast of the mountain. She was angry—she knew she was angry—but she tried to direct her incredulous rage productively. She had no intention of letting her emotions consume her or cloud her judgment. Not that she’d hold it against anyone who questioned her judgment at that moment; she was kind of fighting a gorilla on top of a mountain in the nude.
+
+Ranthia’s new images joined her. With [Submind]’s sterling assistance, she coordinated their discordant dances until the gorilla lost track of where she was. As expected, the beast retaliated with another barrage of Ice needles—shattering her images and bloodying her body. Ranthia readied herself for the gorilla’s attack to come while she was seemingly preoccupied with defense—but contrary to her expectations about its animalistic predictability, her opponent didn’t use its claws. The kick was so unexpected that Ranthia was forced to roll with the momentum to reduce the bone-breaking impact to mere bruising.
+
+There was a burst of color in the distance, though there was no time to pay it any heed—the gorilla had utterly ignored the image she threw in its path. The beast didn’t seem able to differentiate between her and her images, but there was no predator on Pallos that would ignore the scent of blood. If the beast thought she was easy prey just because of a few minor punctures, she was ready to teach it a lesson.
+
+Ideally, a final one.
+
+She danced under the incoming swipe and tested the slab of Ice that protected the gorilla’s chest with a lunging strike. As expected, her Void-kissed blade failed to penetrate very deep into the Ice, but her aggression seemed to startle her opponent. That bought her time to activate [Reflections of Reality] and allowed two of her fresh images to land attacks on the gorilla’s back.
+
+By the time the beast tried to seize her, she was already in a fresh image.
+
+[Submind] was limited to controlling six images, but [Scattered Reflections] wasn’t so limited. Since she knew her opponent would make another barrage of Ice needles, she placed multiple unoccupied images further away—out of the attack’s effective range—and readied herself to swap [Submind] to them the moment the attack came.
+
+Naturally, due to bestial cunning or happenstance, the gorilla chose to eschew predictability. Instead, it fought with swipes of its claws and the occasional kick. Which, honestly, suited her just fine—the beast was powerful, but its dexterity was sorely lacking. The occasional image shattered while she harried and abused its resilient hide and armor, but her Void was claiming more of her mana than replacing mere images did. Still, the damned brute was resilient, and the fight was starting to remind her of her battle against the kraken.
+
+If she needed to inflict a hundred thousand cuts to bring it down, so be it. She was far faster and almost exponentially more capable than she’d been back then—she wouldn’t need multiple days to equal the devastation she’d wrought in Massilix.
+
+For a time, the gorilla endured the abuses she heaped upon it while it attempted brutal—yet ineffectual—reprisals. Then its patience seemingly came to an end. The beast howled defiantly—yes, yes, very impressive—then leapt high into the air. Sure, she landed a parting shot against its Ice-coated foot, but her opponent didn’t seem to suffer any ill effect from that when it landed higher up the mountain.
+
+For a moment, she dared to hope the gorilla had endured enough and chose to withdraw—she was more than fine with being proven wrong about that assumption! Instead, it began to pound its frozen fists into the mountain.
+
+It was all too easy to discount the cunning that an animal could possess. Ranthia’d just experienced Clover’s cleverness—the rabbit had recognized a lifeline and adapted to Ranthia’s presence—yet she still failed to consider the simple fact that the gorilla had lived atop the mountain for Xaoc knew how long. Even without the capacity to understand why things happened, even the lowest of animals could learn consequences.
+
+Like what happened if a certain area was rattled with enough force.
+
+Ranthia nearly staggered when the snow beneath her feet began its own deadly dance. Sheets of once-stable ground slid downward, building momentum as more and more weight gathered. Her images fared poorly, the situation changed too rapidly for [Submind] to respond, and the finesse required to outpace the snow became too complex for Ranthia to properly instruct the Skill. Three of her images lost their footing and were swept into the collapsing snow—where they shattered beneath the weight and fury of nature. Two went over the edge.
+
+Ranthia and a single image—under her manual guidance—outpaced the growing avalanche. [Divine Eyes in the Void] was desperately screaming about the peril, but she needed the Skill. The area where she’d thrown Clover wasn’t part of the collapse, nor had it quite reached where she left her armor. But her backpack hadn’t been so fortunate, her Skill found it buried in the snow…
+
+A mere moment before it went over the edge.
+
+Ranthia acted on instinct—she sent the image after her backpack. Once she guided it safely to the edge, she handed it back off to [Submind] with a single mission: grab any solid object and throw it back! Out of desperation, Ranthia was forced to take her attention off the gorilla—she tried to focus every sense she had toward her falling backpack.
+
+Losing her spare parts for her armor would be devastating. Losing the potions that Avyna had bought her would be haunting. And losing the safe box with every belonging she truly cherished would be unforgivable.
+
+She nearly deflated with relief when—against every fear and expectation—the backpack came sailing back over the edge and landed safely on the rocky terrain. At some point during those moments of terror, she too had safely cleared the collapsing section of snow. And all would have been well—had the escalating roar of the growing avalanche not utterly drowned out the sound and vibrations caused by the gorilla’s charge.
+
+[Divine Eyes in the Void] pulled her attention to the rampaging monster just in time. Instead of a claw, the gorilla bore down on her with an oversized fist. Ranthia crossed her knives and put her trust in [Higher Power]. Instead of evading the blow, she blocked it and used the gorilla’s own weight against it.
+
+[Void Edge] had struggled to cut the beast, so Ranthia was ready to see if her opponent’s own weight and strength were enough to make up for what she lacked.
+
+Blood spurted from the gorilla’s wrist as her knives finally pierced through its hide. But she’d sorely underestimated just how strong the caster monster was—even with [Higher Power] blunting the impact, her knees buckled under its force. It was good that she’d inflicted a grievous wound.
+
+But, in return, she found herself falling. It would only take a moment for her to recover once she hit the ground, but the gorilla wasn’t going to give her the time—its other hand, claws spread wide, was already driving toward her chest.
+
+Time felt as though it slowed down while Ranthia frantically tried to come up with a solution. If she manifested an image between herself and the claw it would be pointless—her images weren’t durable enough to serve as a shield at that tier. An image below her body would give her something to kick off of, but there wasn’t enough time or space to evade! There was no way she could contort herself around the claws and—
+
+Vlip.
+
+Wait, no…!
+
+Vlip.
+
+Clover, an oversized bunny with juvenile proportions, appeared in mid-air. Ranthia’s eyes beheld the bunny’s soft back fur.
+
+And from that implausible angle, she witnessed Clover delivering a savage twin kick to the gorilla’s face—with paws that radiated malicious Darkness.
+
+[Rabbit – Spatial] level 128, [Rabbit – Dark] level 32.
+
+The gorilla howled in agony and aborted its strike, as Clover’s cute little claws ruptured one of its eyes. It tried to swat her away, but the clever rabbit managed to kick off the offending limb to throw herself clear.
+
+…Which left her in mid-air, with the gorilla primed to jab its claws into the rabbit’s tender flesh.
+
+Unfortunately for the gorilla, Ranthia was already launching off the image she’d manifested with the space her bunny had bought her.
+
+“GET—!” Ranthia started to roar, but she moved far faster than her voice was capable of matching. She drove her Void-empowered knife into the wound on the gorilla’s wrist and wrenched her blade as hard as she could.
+
+“—AWAY—!” That was only her first attack. The gorilla was off-balance from pivoting toward the bunny—with only one leg on the ground—and Ranthia drove a kick into the side of its knee.
+
+“—FROM—!” She raised her other hand, even as the gorilla finally started to react and turned its furious visage upon her. Just as she’d hoped. Clover had taught her a valuable lesson, after all.
+
+Not every part of the gorilla was as heavily protected as others.
+
+“—HER!” Ranthia concluded her demand, even as her right bracer deformed. But not into sand—instead she broke it down into irregular, jagged fragments. Fragments that she seized with [Adamantium Chaos].
+
+If the gorilla could use its Ice for a deadly barrage, why couldn’t she do the same with her adamantium?
+
+The Skill accelerated the expensive shrapnel to speeds that fell short of what she could throw a knife at—but there wasn’t much space between her hand and the gorilla’s face. Blood blossomed as the magic metal tore into vulnerable skin and pierced through the membrane of the gorilla’s sole remaining eye.
+
+The monster fell backward, pawing desperately at its face with the backs of its hands—succeeding only in digging the shards of adamantium deeper into its flesh. Ranthia focused on forming additional images around the wintry menace, even as she recklessly lunged to press her advantage.
+
+All around the gorilla, knives flashed as Ranthia’s images sought to inflict as much damage as they could. The blinded beast thrashed in an agonized frenzy, but those knives weren’t the ones it should have been wary of.
+
+While it panicked over the threat of her images, Ranthia drove her true knife into the beast’s throat.
+
+With the desperation of a dying animal, the gorilla drove its claws down on her back. But she’d activated [Reflections of Reality] the very moment she lunged. The Skill always felt like it took an eternity, but that was a side-effect of the speeds she fought at. Her final strike was delivered with the mundane speeds of Pallos’ natural gravity.
+
+And that was all the time she needed. The gorilla’s claws shattered the image she’d abandoned—and tore into the beast’s own body.
+
+It was hard to say what finished her opponent off—the knife she’d left in its throat, the shrapnel that had pierced through the gorilla’s eyes, or the Decay that started to spread through the beast’s body.
+
+[*ding!* You have slain an ape [Gorilla] (Ice, level 999), [Gorilla] (Decay, level 1036), [Gorilla] (Decay, level 752)!]
+
+Yeah, she really didn’t care which potentially fatal injury to credit for the kill—just that it was done.
+
+“You are a very reckless bunny! …But thanks.” Ranthia called over toward where the rabbit had jumped, while she tried to fight down the urge to collapse onto the ground.
+
+She had adamantium to retrieve, and while the spread of rot had slowed with the gorilla’s death—and the resulting loss of its System—it was still actively putrefying. While she carried out her (increasingly gross) task, Ranthia tried to distract herself by checking her gains from the battle.
+
+[*ding!* Congratulations! [Diffuse Reflectance] has leveled from 754 to level 762! Per level: +5 Free Stats, +3 Dexterity, +3 Vitality, +120 Mana, +120 Mana Regeneration, +120 Magic Power, +120 Magic Control from your class, +1 free stat for being human, +1 Mana Regeneration and +1 Magic Power from your element.]
+
+[*ding!* [Mirror Spirit], [Scattered Reflections], [Pure Reflections], [Persistent Imagery], and [Ideal Reflectance] have leveled from 754 to level 762!]
+
+[*ding!* [Reflections of Reality] has leveled from 540 to level 546!]
+
+[*ding!* Congratulations! [She who Dances with Chaos] has leveled from 758 to level 766! Per level: +100 Strength, +100 Dexterity, +100 Vitality, +100 Speed, +8 Mana, +8 Mana Regeneration, +5 Magic Power, +5 Magic Control from your class, +1 free stat for being human, +2 Mana from your element.]
+
+[*ding!* [Void Affinity], [Rhythmic Grace], [Void Edge], [Flowing Momentum], [Divine Eyes in the Void], [Echoes of Devastation], and [Submind] have leveled from 758 to level 766!]
+
+[*ding!* [True Grace] has leveled from 521 to level 524!]
+
+[*ding!* [Adamantium Will] has reached level 60!]
+
+[*ding!* [Skilled Fingers] has leveled from 96 to level 103!]
+
+[*ding!* [Fast Learner] has leveled from 711 to level 713!]
+
+[*ding!* [Image Recall] has reached level 686!]
+
+[*ding!* [Sexy] has reached level 602!]
+
+[*ding!* You have unlocked the General Skill [The Bliss of Agony]! Would you like to replace a Skill?]
+
+[*ding!* You have unlocked the General Skill [My Body May Fester, Break, or be Torn Asunder, Yet My Immortal Will Shall Never Fracture]! Would you like to replace a Skill?]
+
+[*ding!* You have unlocked the General Skill [Companion Bond between Ranthia and Clover]! Would you like to replace a Skill?]
+
+Eight levels for both of her combat-oriented classes—unsurprisingly, her [Priestess] class was less impressed with her fighting an animal with no witnesses except a single bunny. But she was so close to her next class up! The Skill gains were nothing surprising, not even the level in [Sexy], and the new Skill offerings were the usual pain-related—
+
+Ranthia’s thoughts crashed and burned the moment she realized what the final entry actually said. A companion bond…?!
+
+Somewhat rigidly, Ranthia turned to face the rabbit in question. Clover was visibly in some distress—and, more alarmingly, was limping—yet she was gamely approaching Ranthia’s position.
+
+Ranthia had never—ever—wanted or even seriously considered a companion bond, especially not with a meek prey animal! She was on the cusp of her next class up, she was an immortal Adventurer that lived a dangerous life, and she had no idea how to even care for a rabbit! She nearly rejected the Skill then and there. She had two thousand and forty-eight reasons to refuse.
+
+And there was only one single reason to accept: a sense of obligation—the very thing she’d tried to displace from her mind ever since she decided to turn her back on Remus. Okay, yes, Clover had gone against her instincts and risked her life to try to save Ranthia—something that should have been impossible for a rabbit. She truly was just like Ranthia had once been. She was dependent on the benevolence of those with greater strength, but she had proven that her inner fierceness burned just as brightly. Clover was more than just a wild animal, and Ranthia truly had started to care about her, even before the bunny had unlocked her second class in the middle of a fight—just so she could kick a massive predator with over ten times her level.
+
+…Okay, maybe she had more than one reason to accept. But even as her temptation grew, Ranthia still hesitated. One of her reasons for rejecting the Skill was still prominent in her mind—she was immortal. Ranthia had no idea how long a rabbit could live if it somehow never fell to a predator or snare, but… Ranthia’s thoughts circled around her memories of the elf she’d met in Remus—the woman that had been desperate to find a source of immortality for her companion bond. Sure, the wolf had found immortality, but that’d been a long shot—a stroke of luck. It was unlikely that Ranthia would fare any better; if Ranthia did this, Clover would have to find her own path to immortality.
+
+It would take a miracle.
+
+Clover was staring at her—as if the rabbit knew what the potential companion bond truly represented. She was probably losing her grip on reality, but she could have almost sworn that she could feel the fires of determination burning within those cute, beady eyes.
+
+…Well, if she needed a miracle—she was a [Priestess]. Reverential she might be, but the situation called for her to indulge in a rare bit of selfishness. Gravely, Ranthia knelt and gently ran her fingers through Clover’s fur, while she closed her eyes.
+
+“Xaoc, great god of Chaos, one of the five who shaped our world. I, your [Priestess], beseech you. Clover has proven herself to be both brave and unpredictable. Instead of remaining a slave to the order of her instincts, she chose to act. She reflected the very essence of chaos today—and has for as long as I’ve known her. She is worthy. She has my respect, and I Pray that you find her worthy of your own attention. Please, grant her the tools that she requires to join me on my path, not just for a time—but as an equal.” Ranthia concluded her prayer and, the moment she felt Him acknowledge it—without giving herself time to unpack whatever sentiments or thoughts He offered—Ranthia accepted the Skill.
+
+[*ding!* Notice – [Companion Bond between Ranthia and Clover] cannot be accepted while all General Skill slots are full. Would you like to replace a Skill?]
+
+Ranthia’s cheeks burned as she assessed her options. The obvious candidates were the two temporary Skills she had taken while she forced herself to party in Spearpoint base—when she had feared a knife in her back and desperately stayed awake and around crowds. But [Skilled Fingers] had proven its value time and time again; she’d even relied on it in that battle when she needed to adjust her grip. And having a more responsive and sensitive tongue had numerous benefits…
+
+Besides, there was one other Skill that had felt like something of an albatross. [Chest of Experience] had never been anything like what Avyna had promised it would be. The Skill was hard to use and demanded unacceptable amounts of her time and focus. And the levels that it’d gained hadn’t improved its shortcomings—not one bit. There was something seriously wrong with her version of the Skill, and she could always take it again once she reunited with Avyna—and got more direct lessons in how to properly form the Skill.
+
+Ranthia made her choice and endured the brief surge of nausea that the loss of a measly level 78 Skill incited.
+
+More tragically, Ranthia bade a silent farewell to her favorite food—rabbit stew would never again pass her lips.
+
+[Companion Bond between Ranthia and Clover]: Two of a kind, you are survivors that have chosen to fight. Together, you sacrificed for one another. Individually, you have chosen to fight to save one another. Now explore Pallos side-by-side as you each explore the depths of the bond that you have chosen to form, no matter what tribulations may come. Increased and improved hearing per level. Increased jumping power per level. You hereby gain a special kick as part of this Skill, with increased power per level. Increased fight-or-flight instinct per level.
+
+…Ranthia obstinately shoved aside her concerns—she refused to regret her decision!
+
+With her green-and-gold blindfold hiding her eyes, Ranthia finished dusting off her reequipped armor and slipped her reassembled backpack on. With that done, she carefully picked up her injured bunny—Clover’s limp seemed to be worsening, but she once again discarded the urge to use one of her healing potions on the rabbit. She had no way to be certain it was safe, and she wasn’t going to keep harming her bonded companion out of ignorance. Besides…
+
+Ranthia retrieved her woven bag as she walked, and soon rabbit and human laid eyes on their destination in the distance. Avyna and Elencor had been right—the City of Arts was impossible to miss.
+
+Two gargantuan trees—each larger than Ranthia had imagined they could be—stood high above the rest. One, a natural tree of wood—with vibrant foliage that contained every color that could be found within a rainbow. The other, a sculpted tree of crystal—with Mirages that formed pastel-colored leaves to match its living counterpart. Light shone through the night from both trees and from the city that surrounded them.
+
+…And just a bit to the west, Ranthia could see the road that emerged from the tunnel she’d failed to find. But had she taken the easy road, she might have never formed her bond with Clover. The rabbit might have even left her behind, once they reached the forest that surrounded the City of Arts. And while she had no idea what the future would bring, she still chose to be grateful that adversity had brought them together.
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 115]
+
+[Mana: 398624/765380]
+
+[Mana Regen Rate: 497609]
+
+[Stats:]
+
+[Free Stats: 72]
+
+[Strength: 45150]
+
+[Dexterity: 101811]
+
+[Vitality: 101263]
+
+[Speed: 98641]
+
+[Mana: 76538]
+
+[Mana Regeneration: 92657]
+
+[Magic Power: 77111]
+
+[Magic Control: 61951]
+
+[Class 1: [Diffuse Reflectance – Mirror (762)]]
+
+[Mirror Spirit: 762]
+
+[Scattered Reflections: 762]
+
+[Echoes Reflected: 503]
+
+[Pure Reflections: 762]
+
+[Persistent Imagery: 762]
+
+[Ideal Reflectance: 762]
+
+[Distorted Likeness: 690]
+
+[Reflections of Reality: 546]
+
+[Class 2: [She who Dances with Chaos – Void (766)]]
+
+[Void Affinity: 766]
+
+[Rhythmic Grace: 766]
+
+[Void Edge: 766]
+
+[Flowing Momentum: 766]
+
+[Divine Eyes in the Void: 766]
+
+[Sustained Chaos: 752]
+
+[Echoes of Devastation: 766]
+
+[True Grace: 524]
+
+[Class 3: [Adventuring Priestess of Chaos – Magic Metal (272)]]
+
+[Magic Metal Authority: 272]
+
+[Adamantium Chaos: 272]
+
+[I am the Priestess; I am the Champion: 272]
+
+[Divine Seeker: 107]
+
+[Adamantium Will: 60]
+
+[Dedication to Xaoc: 107]
+
+[Higher Power: 272]
+
+[Priestess of Xaoc: 272]
+
+[General Skills:]
+
+[Companion Bond between Ranthia and Clover: 1]
+
+[Ranthia’s Covenant with Xaoc: 316]
+
+[Skilled Fingers: 103]
+
+[Submind: 766]
+
+[Expert Tongue: 71]
+
+[Fast Learner: 713]
+
+[Image Recall: 686]
+
+[Sexy: 602]
+
+[Other:]
+
+{Xaoc's Covenant with Ranthia}

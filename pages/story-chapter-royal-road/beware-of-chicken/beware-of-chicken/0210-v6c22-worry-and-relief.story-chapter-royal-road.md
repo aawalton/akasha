@@ -1,0 +1,155 @@
+---
+id: 8ef65798-0390-54a5-ba60-b8dd3f547efd
+page-type-slug: story-chapter-royal-road
+title: "v6c22: Worry and Relief"
+slug: 0210-v6c22-worry-and-relief
+partOf: beware-of-chicken
+position: 210
+ownLength: 2051
+unit: words
+ownProgress: 2051
+publishedAt: 2025-05-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2261399/v6c22-worry-and-relief"
+royalRoadId: "2261399"
+markedReadAt: "2026-06-29T18:58:34.138Z"
+---
+
+Though the Lord Magistrate assured them that everything was fine, they got moving as fast as they could. Biyu once more found herself in the back of the cart, speeding towards their destination.
+
+It was only after they had been half an hour on the road that Biyu realised that their hasty departure could be seen as an insult… but she didn’t really care at the moment. And besides, the Lord Magistrate didn’t try to stop them, and even gave them extra cloaks, so that meant he was fine with it!
+
+Not that she actually needed the extra covering. Be it some strange quirk of the hills around here, or the worry pulsing through her veins, it just didn’t feel as cold during this leg of their journey. The once cutting wind was softer and gentler, barely cold at all, and it let her stay above her nest of blankets, her eyes fixed on the road.
+
+Biyu’s guts twisted with worry, and her escorts' faces were grim masks. The branches, heavy with snow, were blurs, and each step made the world jolt.
+
+She prayed that they would get there soon.
+
+To her surprise, as soon as she wished that, there was a little tingling feeling on her skin—the same feeling she got when she approached the wards of the Crystal Emporium’s library, but so much more. Then, they moved around a bend and came face to face with a massive snow sculpture—one Biyu had seen before, though the recording really hadn’t done it justice.
+
+“The Warden that Sends forth the Ice and Flying Snow!” she said, when she noticed Mister Rags and Mister Loud Boy slow at the sight of it, before they too remembered the recorded image.
+
+He was a very cute snow sculpture with a bright smile and giant, rather fetching hat. Biyu had made a replica of him on her own balcony, with a handmade scarf, gloves, and a much smaller cap. She had also seen a couple of smaller ones on the streets and rooftops of Verdant Hill, hadn't she? They looked like little guardian spirits, and Biyu enjoyed them immensely.
+
+Just past the sculpture was Hong Yaowu.
+
+“We weren’t runnin’ for that long, were we?” Mister Rags asked as they slowed down. For a brief instant Biyu expected to see some kind of damage to the village… but there was none. It was pristine, with not a roof tile out of place. Everybody was out and about, clearly preparing for the New Year’s celebrations.
+
+They were spotted quickly, and the people of the village immediately seemed a bit wary… before one of their number perked up.
+
+“Rags! Loud Boy! Biyu!” Little Hong Xian called out, waving cheerfully at them. Biyu remembered the boy, Lady Meiling’s little brother, from her last visit. He was a cute little guy, and he had a bunch of cute little bugs. Biyu had made hats out of folded paper for the pupae when she stayed the night with Yun Ren’s parents—
+
+“Biyu?” Missus Hu Li asked as she rose from her seat. The older woman looked exactly how Biyu remembered her. She took them in, and then arrested Xian’s charge as he made to run to meet them. “Youse all heard about things, I’m guessin’?” she asked in her thick accent.
+
+“Yes, Ma’am,” Biyu said. “The Lord Magistrate said that they’re fine.”
+
+“For givin’ measure of the term, I suppose,” Yun Ren’s mother said with a sigh. “Their bodies are fine, but it was nasty work they had to do.”
+
+Her words made Biyu’s heart begin to hurt, while her escorts looked at each other with grim expressions.
+
+“I understand,” Mister Rags said.
+
+“I see that ya do. Go on, Biyu, we’ll catch up later, you go and get the story outta them, yeah?” Missus Hu Li waved them off. She didn’t look particularly worried, so more of the tension bled out of them.
+
+“Talk to you later!” little Xian said, waving them off.
+
+They continued their run, getting into the shelter of the trees. There was less urgency to the run, however. With both the Lord Magistrate and Missus Hu Li telling them they weren’t hurt, it took some of the desperation out of her escort’s run… but they were still a little worried.
+
+“Some of the Qi is gone… or it’s retreated,” Mister Loud Boy said as they ran through the forest.
+
+“You noticed that too, eh?” Mister Rags replied. “It was past the village last time, but we’re just starting to feel it now…”
+
+Biyu didn’t really know what they were talking about, but when she focused she could feel… something. It felt cold, but comforting. Was it Qi?
+
+Whatever it was, it seemed to unsettle her two escorts again.
+
+They got back to running, but again it seemed like the distance was shorter than it should be. In about an hour, they were slowing again before a gate, the great gate of Jin’s home—and where proof that all was well was waiting for them.
+
+Tigu, Miss Xiulan, Mister Delun, Miss Xianghua, The Torrent Rider and his adorable dog, Mister Huo Ten, Yin—all of them were waiting for Rags and Loud Boy.
+
+Tigu said some kind of greeting, but it was lost to her because there was another that had her focus.
+
+Someone there just for her.
+
+Biyu was out of the cart before she realised what she was doing. She outpaced her travelling companions as they too dropped the cart so they could move to greet their own companions. Her legs pumped as hard as she could force them to move… and she slipped on the slope. Biyu nearly fell face first, her feet splaying out desperately, but she managed to keep herself upright, staggering and stumbling forwards.
+
+Yun Ren caught her. His strong arms wrapped around her and pulled her into his embrace. It was tight. Almost too tight, nearly to the point of pain, her back letting out a bunch of little cracks as he squeezed her.
+
+It was great. It was perfect.
+
+“Are you…?” she breathed.
+
+“I’m fine,” he whispered in her ear, his voice thick with emotion. “I missed you.”
+
+“I missed you too,” she whispered back.
+
+She pulled back, searching his face, and her fingers poking and prodding, looking for any injury… but there were none. His face was unmarred. Amber eyes with streaks of blue in them looked back at her.
+
+She blinked as she noticed that there were some… changes. He looked different. His chin was sharper, his canines longer, his eyes even more fox-like, but what caught her attention the most was his head. There were streaks of blonde in his once pitch black hair, but more than that, there were two twitching, fox-like ears. Real fox ears. And when her hands drifted lower, there was… a fluffy fox tail coming out of his behind…?
+
+She gasped, her eyes going wide.
+
+Yun Ren immediately caught where she was looking. He looked uncomfortable and uncertain. “Got some… well, some interesting things from the Shrouded Mountain. Listen, I can hide them away—”
+
+“Oh heavens and ancestors, you are the most handsome man I’ve ever seen!” Biyu grabbed both sides of his face. “They look so soft, can I touch them? I can think of so many accessories that will go well with these—”
+
+She cut herself off as she realised she was gushing, and coughed, her face going red. Yun Ren’s lips twitched as he fought a smile. Amusement… and relief danced in his eyes.
+
+“Ha! Elder Brother, I told you this would happen!” Miss Xianghua boomed. She flicked her hair imperiously, fanning it out to the side and stepping forward with a smug grin. Behind her, Tigu had Mister Loud Boy in a headlock and was ruffling his hair.
+
+“Yeah, you win our bet,” he said with good humour. He sighed and leaned against Biyu, pulling her into his side.
+
+It was nice, because he was warm and she was finally feeling the cold. Soon enough they were walking down the other side of the hill, where Master Jin properly lived. There was the General, standing tall—and the layout of the buildings was quite different… it was also where she first saw any actual damage.
+
+From the top of the hill she could see what looked to be a fortress, as well as swathes of devastated forest. Entire sections of woods had been flattened, leaving gaps in the place she remembered.
+
+Her grip tightened on Yun Ren’s arm, while Loud Boy and Rags cursed.
+
+“Those bastards…” Rags muttered, his jaw tense. Tigu patted him on the shoulder, and Yun Ren’s embrace got a little tighter.
+
+The scars on the land were visible, ugly things, and Biyu’s heart sank as they marched through the cleared path.
+
+“They’re scars… but they’ll heal,” Miss Xiulan said firmly, her voice cutting through the darkening mood. “They’re proof of our victory.”
+
+Soon, they were all in Jin’s house. Despite the apparent attack, it was as warm and hospitable as ever. They met everyone again, including some new faces. Jin welcomed them into his home with his big smile, embracing them like they were his family. It still felt a little strange being hugged by such a powerful and well-connected honoured customer… but Biyu hugged back to show her appreciation. She hugged Gou Ren too, who also had a tail! She refrained from touching it, and instead went to greet other people. A couple still had bandages on—poor Chun Ke had several around his chest.
+
+Biyu was never really one for fighting, but even she couldn’t help the vicious thoughts that filled her head at the sight of his injuries.
+
+“What kind of monsters would do this?” she whispered, anger in her voice. Who the hells wanted to hurt such a cute boar?!
+
+“The worst kind. Truly they are monsters, to drive even gentle souls to fury,” a soft voice said. Biyu glanced up… and up at the woman who had spoken.
+
+She was a beautiful, elegant woman, tall and willowy, who had a jade bangle on her wrist and… Biyu paused and looked at the handkerchief around her neck.
+
+The one that matched Chun Ke’s.
+
+“Pi Pa?” Biyu asked incredulously.
+
+Pi Pa smiled at her. “It's good to see you again, Miss Biyu. Have you met Young Sir Spooks yet?”
+
+Pi Pa introduced her to Spooks the Thunderhoof. He was very cute, and very polite! A true gentleman!
+
+=====================
+
+After the chaos of the reintroductions died down, they were all seated around the hearth. Biyu was sitting in Yun Ren’s lap, both of them covered by a thick blanket, while they waited to hear the tale of what had transpired in the north… though not before Yun Ren asked a question.
+
+“It's not that I’m not happy to see you, Biyu, but why did you come up here in the middle of winter? It couldn’t have been an easy journey.”
+
+At once, she, Loud Boy, and Rags all cringed. In the chaos, they had completely forgotten their respective missions.
+
+Biyu cleared her throat.
+
+“Forgive me. This one is here on behalf of Mengde’s Crystal Emporium. During the Solstice, there was a Qi anomaly that shattered nearly every sensor stone in the city, and then, three days later, there was a second anomaly, which shattered the rest. Two such events in quick succession were… worrying for the province, and Our Crystal Emporium humbly asks  Master Jin for aid—if this was some manner of freak accident or something more… nefarious.”
+
+Rags rose to his feet and clasped his hand over his fist next.
+
+“Reporting to the Grand Marshal. Numerous Qi anomalies have affected the province, spread all over the Grass Sea; the Azure Alliance is investigating these anomalies, and we thought it prudent to inform you.”
+
+Miss Xiulan sighed.
+
+“The good news is that the anomalies are over and were benevolent. However… there are some complications. I caused one of them, and what was probably either the Cloudy Sword Sect or the Soaring Heaven’s Isle Sect caused the other.”
+
+“...Boss, you caused a Qi anomaly that affected the entire province?” Loud Boy asked, his eyes wide.
+
+Miss Xiulan nodded. “It's quite the tale,” she said.
+
+“We’re going to be Masters at telling this story,” Yun Ren grumbled.

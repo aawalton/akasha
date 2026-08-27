@@ -1,0 +1,151 @@
+---
+id: 70bb2e30-e648-5368-8790-1a1cc640d404
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 33 - Praise"
+slug: 0037-b3-chapter-33-praise
+partOf: bookbound-bunny
+position: 37
+ownLength: 2222
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3308073/b3-chapter-33-praise"
+royalRoadId: "3308073"
+---
+
+Since this involved the top three teams, naturally, there would be questions about the results, and it looked like Alice was prepared to defend the decisions.
+
+"While your achievement of finding and claiming a treasure chest was worth its praise and score, your other gatherings were significantly less," Alice explained.
+
+Lily couldn't help glancing at the Zephyrix members, curious about their response. Wallace appeared to be blindly nodding along while Hana appeared to be taking it to heart, even going as far as to write it down in her book. Arthur, on the other hand, looked like he had sucked on a lemon.
+
+"Shouldn't a treasure be worth infinitely more? It's the heart of an adventurer to find them!" he confidently declared.
+
+Alice shook her head. "You'd think that, but at the heart of it, why do adventurers seek treasure? Fame? Fortune?"
+
+"Yes," Arthur answered.
+
+"Good, I'm glad you understand that much," Alice chuckled. " Now, if you two groups sold your gatherings, including your treasure, you'd find their fortune outweighs yours."
+
+Arthur looked bitter but didn't retort, however Alice went for the jugular. "And as sad as it may sound, more money leads to buying more treasures."
+
+Lily noticed that a few of the students must have shared Arthur's opinion, as they too looked conflicted by what Alice was saying. Even Garet, who was on the opposite side of this, seemed to be reluctant to accept it.
+
+"Naturally, if you found a treasure that even money can't buy, I'd be singing a different tune, but that was not the case here. Regardless, you three did very well, and your exploration of distant areas was unmatched. If only you had taken the opportunity to gather resources in those locations, the results might have been starkly different. Still, you survived till the end, so hold your heads high."
+
+Alice's final words on the matter seemed to restore some of the students' hope. They just needed to find a treasure worthy of fame. Of course, that was easier said than done, but Alice didn't burst their bubble.
+
+It's a quantity-versus-quality issue. Lily thought to herself. In fact, she had speculated that the school and the older students had provided several hints that they should gather more plants than anything else, or why else would so many people have asked to buy their plants?
+
+"Right, moving on, in second place we have…" Alice paused, letting the anticipation linger for far too long. "Clarissa, Frederick, and Garet."
+
+Clarissa and Frederick merely nodded, but Garet stood up from his desk and cheered. "Yeah! Second place!"
+
+"You three did very well," Alice said, looking like she was holding back laughter at Garet's outburst. "You gathered more raw resources than any other group, defended your camp with unorthodox methods, all while maintaining an equilibrium. If I had to make one complaint, it would be that you didn't take enough risks, although maybe I shouldn't be saying that as a professor…"
+
+"I suppose quantity can't beat four treasures," Clarissa responded, with a small, restrained sigh.
+
+"Four treasures!?" the class seemed to erupt, looking at the only group who had yet to be named.
+
+Alice smacked her desk, the wooden echo quickly silencing them. Once the class was quiet, she turned to Clarissa. "Even without the treasures they would have won."
+
+Clarissa seemed genuinely surprised, but didn't make an outburst. The same could not be said for Frederick, though, and he looked outraged as he jumped from his seat. "Ridiculous, didn't you just say that we gathered more raw resources than anyone?"
+
+Alice nodded, then pointed at Lily's group. "Their plants were better, rarer, and in greater demand. It probably helped a lot that there are two prospective alchemists in their group. However, they also have a notorious notetaker and researcher in there, who must have spent countless hours in the library."
+
+Frederick's face went pale, and he quickly withdrew as he returned to his seat. Lily noticed, however, that Clarissa seemed to be taking the lesson to heart, which gave her a chill down her back.
+
+The next time might be far more competitive now…
+
+Garet also looked enlightened, as he was rapidly bobbing his head up and down. "I see! So lots of herbs aren't enough, variety is important."
+
+Alice finally turned her full attention to Lily, Lotte, and Thomas. "And in first place, we have these three," she said, sounding a little disappointed for some reason. "As already mentioned, they stuck to harvesting rare plants, but also focused on clearing and looting monster dens for rewards. If not for all of that, I would have said their biggest accomplishment was luck, which any adventurer wants in spades, but luck on its own isn't enough—you need to capitalize on it."
+
+Alice paused and then awkwardly scratched the back of her head. "As for complaints… I'd say try not to be so flashy, or you risk drawing attention and ire from not only monsters but also people."
+
+"Our camp wasn't that noticeable until you threatened to send monsters at us," Lotte quickly pointed out.
+
+Lily and Thomas both nodded in agreement. Lily had especially gone out of her way before that to make their camp as inconspicuous as possible.
+
+Alice sighed. "I guess that's true. Still, with the way you three were living, you'd attract all the wrong kind of attention from other adventurer groups…"
+
+"What did they do?" Wallace asked. "I mean… I wouldn't exactly say what I did for our camp was subtle, yet you didn't mention it."
+
+Alice opened her mouth to answer, then abruptly closed it. A smirk crossed her face, and only then did she give her response. "You'll need to explore the second floor yourselves to witness it. It should still be there for some time."
+
+"But that's on the second floor?" a boy asked, sounding curious.
+
+"Oh, right, I forgot to mention, but the top three will be allowed to enter the second floor of the dungeon from now on," Alice announced.
+
+A few students whined and complained, but ultimately seemed to accept it. There was definitely some resentment that if they had known what was at stake, they would have put in more effort, but it was too late now. However, this would certainly stoke the fire for next time.
+
+"Of course, they still need to beat the first floor, which I've already told them about," Alice revealed. "Since the positions have been revealed, I'll tell the rest of you how the school handles the dungeon."
+
+The class excitedly sat upright in their seats, now hanging on every word. As expected, it was pretty much a repeat of what Alice had already said to them: the first floor was officially unlocked and would be vastly different from their classroom lessons, and there was a strict curfew they needed to return by.
+
+Surprisingly, Alice didn't mention the dungeon landing, but Lily realized that might be because none of the others could use it yet, since they'd only have access to the first floor. Alice did, however, mention that they would have multiple opportunities throughout the year to upgrade their access.
+
+It was actually quite an enjoyable lesson, despite being quite different from what they usually had in her class. Alice wasn't just regurgitating the school's rules for the dungeon; she was also throwing out tips and tricks. At the same time, she revealed that the practical portions of this lesson would now mostly be contained on the second floor, as the first floor had become their own personal challenge to overcome.
+
+However, she also issued several warnings, noting that the dungeon was a true challenge and that, in some respects, the kid gloves were off. She reminded everyone that their Wards would only save them twice in life-threatening situations before needing to be recharged.
+
+"Entering the dungeon on your own time comes with an understanding that any mishaps are entirely your own fault," Alice warned gravely. "Even though our dungeon is a little pacified thanks to the Headmaster, you should treat it with the magnitude of any ordinary dungeon."
+
+Lily knew Alice was being completely serious; after all, she had actually called him the headmaster, not "fuzzball," for a change!
+
+At the end of the lesson, Alice threw out one last bit of advice for Lily and Thomas. "Oh, and you two, work on your subtlety! Don't think I didn't hear the thunder and explosions, you were causing down there. You basically woke up half the floor with your antics."
+
+"So that's where the thunder was coming from," Garet said, catching the last conversation.
+
+"Really, I didn't hear anything?" Wallace asked.
+
+Garet laughed at his friend's expense, brushing it aside as they departed together.
+
+Alice merely looked at the two as if happy to have her point proven. Her eyes screamed, "See!"
+
+Lily and Thomas both reluctantly accepted the advice. It was something they both knew already and were trying to work on, but it still stung to be reminded of.
+
+It's not my fault the best rune I have to deal with monsters is explosive, Lily bitterly thought to herself. Maybe I should start carrying around a prepared glyph, like the Arcane Force that Arakil taught me.
+
+What she truly wanted to learn was how Arakil drew glyphs, using his mind with a few swift gestures to bring them into reality. Seeing him do that with her own body had deeply ingrained that imagery in her head, and she now dreamed of the day she could do even a fraction of it.
+
+After an exciting start to the school week, the rest of the lessons seemed dull in comparison. Lily decided to attend Spellcasting Fundamentals for a change, but almost immediately regretted it as she saw it was more or less still the same, without any changes or advancement since their successful camping trip.
+
+The Arcane Theory and Principles were also exactly the same, and it appeared that Sir Barnard Bladwell wasn't even aware of their absence, given the way he acted. Lily couldn't help but wonder if the headmaster had populated his class with illusions of students and let the man ramble to himself.
+
+Practical Magical Combat, however, underwent a significant change in its agenda, with Professor Elius really putting them through the wringer. His lessons took a sharp turn towards survival at all costs, with the difficulty level in dodging or blocking dramatically increasing. Students who had passed earlier rounds with flying colors were now struggling to hang on to their previous accomplishments.
+
+"I do this because I care," Elius said, attempting to appear a saint; yet, the students couldn't help but feel he was a demon.
+
+This also included a change-up in the illusory opponents they had to defend against, as the bees were often replaced by packs of wolves or other forest monsters.
+
+One of the hardest levels was a giant bear illusion that looked oddly familiar to the one they had successfully blown up in a swarm of runes. Blocking was almost practically impossible against it, and its strikes somehow caused the ground itself to quake. This sight genuinely caused some of the kids to panic, as it felt too real.
+
+But while almost the entire class was struggling against the bear, there were three exceptions: Lily, Lotte, and Thomas. No matter how much the bear screamed, roared, or pounded, none of them seemed to lose their footing against the creature.
+
+Regardless, the reason was not that they had experienced fighting one before; no, it was actually a lot more subtle than that. All three of them had learnt Magesight and thus could tell that everything was nothing but a farce.
+
+Yes, all those students falling over? They were doing it to themselves! Their mind told them the ground was quaking, and their body reacted. However, the Magesight directly countered this, as when activated, they could see the underlying Mana causing the scene, and once the truth was seen, the illusion was quickly broken.
+
+Lily eventually noticed Professor Elius having a conflicted expression on his face. But before he did anything, another person had arrived on the scene, and it was none other than Headmaster Fabrelis.
+
+Although they were speaking rather quietly, Lily's ears managed to catch their conversation.
+
+"Sorry to interrupt your lesson, Elius," Fabrelis said politely.
+
+Elius seemed genuinely surprised. "Headmaster? What brings you here?"
+
+"I'd like to have a quick chat with three of your students," Fabrelis explained.
+
+Lily gulped, wishing she hadn't overheard that.
+
+"Three?" Elius paused and then glanced at the obvious suspects. "Are they in trouble?"
+
+The headmaster chuckled and shook his head. "No, no. I just want to ask them a few questions and at the same time ask for a small favor."
+
+Elius looked relieved and quickly agreed. "Very well, I'll call them over."
+
+"Feel free to leave the rest of the students to their practice; this shouldn't take long," Fabrelis said.
+
+Elius nodded, then manipulated the device that controlled the magical array. The three bears for Lily, Lotte, and Thomas began to fade away, not that they were accomplishing much with the illusion broken.
+
+Lotte and Thomas were confused and turned to the professor, who motioned for them to come over. Lily, of course, already knew the situation, and a feeling of dread was pit in her stomach.

@@ -1,0 +1,111 @@
+---
+id: d3844383-2a20-5342-94fe-f580f885505a
+page-type-slug: story-chapter-royal-road
+title: "1. On the Sidelines"
+slug: 0001-1-on-the-sidelines
+partOf: breaker-of-horizons
+position: 1
+ownLength: 2062
+unit: words
+publishedAt: 2020-04-30
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/490185/1-on-the-sidelines"
+royalRoadId: "490185"
+---
+
+A life is a collection of moments, strung into years. Some loom larger in our minds than others, but even the least-remembered moment has its part in shaping our fate. One seemingly inconsequential moment can change a life, and one seemingly inconsequential life can alter the course of history.
+
+- Excerpt from a model essay, "Fateweavers — Are Their Powers Real?"
+
+Today was supposed to be a special day. My special day.
+
+I worked hard to get here. The Aiestan Academy takes in only about a hundred candidates every year and on average the number of applicants is around two thousand. That's two thousand capable people who have already proven an exceptional aptitude for the Art, out of a population of about eighteen million. Anyone's grandmother can use a well-calibrated artefact with the barest fart of arcana, and the average person can probably only recognise the basic set of activation glyphs and doesn't even know how the read the others, let alone make them. Anyone who wants to even dream about entering the Academy needs to be functionally fluent with glyphs, and also put in the years of practice and dedication to build up the capacity to be able to do glyphless work.
+
+So yeah, it's a big deal that I got in. My parents were happy, my sister was happy, I was happy.
+
+And then the rumours started. There would be someone in my year who was the subject of a Prophecy.
+
+These things supposedly roll around once every few generations. Small prophecies get made all the time and they skew the probabilities heavily in favour of the subjects of those prophecies, but they can sometimes just not come true too. But big Prophecies (the capital 'P' matters - my teachers hammered it into me) almost always come true unless a shitload of effort is put into thwarting them. It's the kind of stuff legends are made of. I only remember a couple of big Prophecies from history and the only one I remember that didn't get fulfilled basically failed because another nation poured everything they could into averting it and almost screwed the Empire over. But the Empire somehow managed to survive that mess even with the Chosen One dead, so apparently the Chosen One wasn't that important after all. It's a sore point for the pro-Prophecy people.
+
+Anyway, as fate would have it, my entry into the Aiestan Academy would be overshadowed by the existence of a Chosen One.
+
+Don't get me wrong — it is kind of exciting. Big Prophecies apparently come from the Fateweavers themselves. In the 4000-plus years of history of the Empire they've never come forward and proven they exist but somehow their Prophecies get spread about and people believe them, and believe they're real. If you ask me, it's just Empire propaganda to keep enemies at bay - people would think twice before they messed with anyone who has a group of arcanists who can twist the threads of fate.
+
+It's just... I guess it's the kind of thing I'll feel excited about after awhile. But today, on my first day, I really just wanted to enjoy this win for myself.
+
+"Do you know who it is? Are you gonna be able to tell? Will they have some sort of announcement?" my sister, Triss, asked breathlessly, her nose pressed against the car window as the Academy came into view behind a row of manicured trees.
+
+"Did we really have to bring her?" I asked my father.
+
+"What, and not let her see the big fancy Academy her brother's going to?" he replied, raising an eyebrow at me in the rear-view mirror. "She'll hate me for a month."
+
+"Besides," my mother said, turning to look at me from the passenger seat, "we all want to celebrate and see you off. It's a big day for you, Caden."
+
+"It's not that big a deal," I mumbled, trying to play it cool even though I felt a wave of self-satisfaction wash over me.
+
+Mum smiled knowingly and joined my sister in excitedly pointing out the sights as we drew closer to the Academy. She expertly turned the topic away from the Chosen One and talked up a storm about the Academy itself. I felt a bit better, but also a little annoyed at myself for being so petty about it all. Maybe I'd make it up to her and send her an autograph from the Chosen One, if I managed to meet the person.
+
+The Academy campus grounds were hidden behind tall marbled walls so from where we were, we could only see the most distinctive feature of it - the Spire. It wasn't that big by skyscraper standards but thirty stories still looked pretty impressive when the surrounding buildings went no higher than ten. What was even more impressive was the fact that it had apparently stood there since its construction around the birth of the Empire. The surrounding buildings had been designed to fit in with the aesthetics of the Spire, so looking at the Academy felt like looking back at a bit of the past.
+
+"It looks so grand," Triss said with a dreamy sigh. "Wish I could go too."
+
+"Well, you're still only 10, so you've got a good eight years to catch up with Caden," Dad said in a far-too-casual tone.
+
+"Catch up?" Triss' voice went up a few octaves as she turned away from the window to glare at the back of my father's head. I could almost feel him fighting to keep a straight face. "I'll get in long before I hit 18!"
+
+"I'm sure you will, Triss," I said, trying not to sound condescending.
+
+Her hand came up, wreathed in arcana. She was still too young to be able to channel much but her control was frankly amazing for her age. The small amount she had plucked from the air coalesced into a tight ball, like a ghostly orb of water, and she flung it at me. I laughed and flicked my wrist, sending a small amount of arcana to unravel her ball into harmless strings of light.
+
+"Triss! Caden!" Mum's voice had taken on a warning tone. We both settled down, Triss seething at me while I looked down at her with exaggerated haughtiness. I didn't say it often (because her head was already big enough as it was) but she was really very talented and would likely follow me to the Academy in just a few years and become something of a prodigy.
+
+When we rolled into the Academy's grounds and my father had parked the car, we made our way to the registration office. There was already a queue even though it was only eight in the morning. Thankfully, the process was quick and efficient and it wasn't long before I was handing my papers over.
+
+"Whole family in tow, eh?" the portly man behind the counter remarked. "Are they here for you or because they hope to catch a glimpse of the Chosen One?" he continued, grinning at me.
+
+"Both," I said through gritted teeth. Behind me, Triss was scanning the crowd and staring at people's faces with undisguised excitement.
+
+"Well, can't blame them. All the same, welcome to the Academy. Today, your life as an arcanist begins," he said, adding a dash of drama to his voice as he stamped my papers and handed them back to me with a folder. "Everything you need for your orientation is in there. If you need directions, perform a Minor Query using the Academy glyph while you're on the campus grounds and you'll be able to find your way around."
+
+My thanks were drowned out as a wave of excited murmuring spread through the crowd. I turned and saw an entourage just coming in through the glass doors. Reporters were backpedalling as they shouted questions, pointing their various recording devices at someone. Behind, a group of onlookers had gathered to see what the fuss was, adding to the fuss in the process.
+
+"Let me see, I can't see, pick me up!" Triss said, tugging my hand. I shot an apologetic look at the man behind the counter and pulled her away, but everyone else in the queue had turned to look at the door anyway. The clerk shrugged and smiled and tried to call in vain for the next person in line to step forward.
+
+"Somebody pick me up!" Triss demanded as the number of bodies in the room increased. There was a lot of jostling and babbling as people tried to get a good look at the person, and even Dad was standing on tiptoes trying to catch a glimpse of the Chosen One. Mum shook her head disapprovingly at Triss, but she kept tugging at me so I rolled my eyes and hoisted her up onto my shoulders.
+
+"It's a boy," Triss reported at once, almost tripping over her words in her excitement. "He's got black hair, bit taller than you, better-looking, maybe your age? Doesn't look comfortable, don't see anyone else with him, do you think he's an orphan, that would be so cliche, wouldn't it? Can we go closer? Go closer!"
+
+"Nope," I said, fighting my way to the edge of the crowd where I could circle around to the exit. Mum followed, pulling my father along.
+
+"We got here just in time," Mum said, looking in wonder at the number of people now gathering around the registration office. "Any later, and we'd have been stuck in that mess."
+
+"Looks like a lot of members of the public," Dad mused. "Probably just here so they can say they saw the Chosen One."
+
+"Well, you're no better," Mum said a little waspishly.
+
+"I'm here for my son," Dad replied, pretending to be wounded by the comment. He smiled and pulled me into a hug. "We're proud of you," he said into my ear.
+
+Triss tugged painfully at my hair. "You better make friends with him and tell us everything."
+
+"I'll throw you off, I swear," I growled, leaning back a little. She shrieked and wrapped her hands tight around my head.
+
+"Alright, let's leave Caden to it, you know he likes his peace," Mum said, lifting Triss off my shoulders and depositing her on Dad's. "We'll miss you," she said, turning to face me and taking my hands into hers. "You know the spiel. Eat well, get lots of sleep, don't overwork yourself, and enjoy this. You're finally here. This is the dream."
+
+I smiled, fighting back tears. She gave me one last hug, then pulled away to join the rest of my family.
+
+"Bye, Cade," Triss said, suddenly serious. I could tell she was trying not to cry too.
+
+"Thanks for seeing me off Mum, Dad, Triss. I'll keep in touch," I said, waving as nonchalantly as I could as I turned away.
+
+"Stop trying to act cool!" Triss shouted at my retreating back. I grinned and kept walking.
+
+The crowd around the registration office had begun to disperse. There was an air of disappointment around them and I overheard some people talking about how the Chosen One had managed to slip away unnoticed. I shook my head. If I were him, I'd want to get away from that kind of attention, too.
+
+I stood at the head of a branching path leading off to various parts of the campus. The Spire towered above me, straight ahead, but I would have to get to my dormitory first before exploring the rest of the place.
+
+I took a deep breath and cleared my mind. The Minor Query sequence came to me effortlessly, and I slid the Academy's glyph into the middle of it. Once the construct was clear in my mind's eye, I drew a little arcana and fed it in.
+
+A small pulse of arcana washed out of me and took the shape of a wisp with a soft blue light. "Dormitories?" I asked, a little hesitantly. I hoped it didn't need the request to be phrased with exacting precision.
+
+To my relief, it bobbed a little to indicate the query had been accepted and started floating down the path to the right.
+
+This is it, I thought to myself as I followed the wisp through the Academy grounds. The clerk's words came back to me. Today, my life as an arcanist begins.

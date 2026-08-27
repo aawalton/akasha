@@ -1,0 +1,93 @@
+---
+id: 83b33380-3196-5981-a916-4fdb1e53254e
+page-type-slug: story-chapter-royal-road
+title: "112. Diametric Powers"
+slug: 0112-112-diametric-powers
+partOf: breaker-of-horizons
+position: 112
+ownLength: 2016
+unit: words
+publishedAt: 2021-05-27
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/689156/112-diametric-powers"
+royalRoadId: "689156"
+---
+
+It was just barely possible to have a private discussion in the trailer if one were to whisper, but attempting to hide it was out of the question. So when Caden and Devon approached Ambrose, everyone's attention was drawn to them. Caden had hoped to have this discussion more quietly, but Devon took matters out of his hands when he spoke up first, not troubling to lower his voice. In fact, he raised it a little so the twins at the front could hear.
+
+"Caden's recovery sequence saved my life back there, but if he happens to get hurt, none of us can do what he's done. He doesn't know the sequence's glyphs, but he thinks Ambrose might know a way to pass on the knowledge of how to replicate the sequence anyway," he announced.
+
+Ambrose's eyes widened and he shot a quick look at Caden. "Why do you think that?"
+
+The question caught Caden off-guard. He stared back in confusion. "Huh? Earlier, you—"
+
+A look of panic mingled with frustration crossed Ambrose's face and he stood up, cutting Caden off. "We're gonna talk this over," he said, grabbing Caden and steering him to the back of the trailer, away from the others.
+
+"What? Why can't this be done in the open?" Devon demanded.
+
+"Dev, just trust me, please," Ambrose answered, sounding pained. The others eyed him dubiously, but no one voiced any further objections, leaving him speak with Caden alone.
+
+Caden sat back down in the spot he had occupied just moments ago, except now it was Ambrose who was sitting opposite him.
+
+"What's going on?" Caden asked, his voice low.
+
+Ambrose wasn't taking any chances. Disregarding any offence he might cause, he threw up an arcanic wall to separate him and Caden from the rest, building it with the principles behind the privacy setting that came with telepresence orbs.
+
+He leaned forward with his elbows on his knees and massaged the bridge of his nose and let out a long, exasperated sigh. Then, even with the wall in place, he started speaking in a voice so soft that Caden had to strain to listen. "When I shared that piercing ray sequence with you, I wasn't really thinking it through. You're right, it can be done, but it's not something that should be done lightly."
+
+"How is it done?"
+
+"It's... I..." Ambrose looked away, as if trying to find the words, or muster the will to say them. When he finally turned back to Caden, he looked stricken. "You remember the Prophecy, right?"
+
+"What Prophecy?" Caden asked dryly.
+
+"Hah!" Ambrose gave a wry smile, then continued. "Well... we all think it basically means I'm going to be a Fateweaver in the future, right? But... did you ever stop to think about what that means in the present?"
+
+A chill crept up Caden's spine as he recalled the exact wording of the Prophecy. "Five threads will lie within your hands and be your first across the lands..." he repeated softly. "I've always taken that part to mean that you've got some sort of influence on the lives of the five anchors, and that your actions will impact their future, so you've got some sort of responsibility or choice to make. But you're saying you can... what? Literally write their lives out, right now? Is that what it means?"
+
+Ambrose shook his head vehemently. "No, it's not like that. Remember, from what we know, Prophecies work by influencing probabilities."
+
+"But you can do that now?" Caden repeated, aghast, though a part of him didn't quite know why this was so shocking to him since it did make sense.
+
+But Ambrose shook his head again and once again looked like he was grasping for the right words to explain. "It's to do with the knots. The knots aren't all events. Some are... some are intentions. Thoughts. Feelings. Some of them are knowings, or not-knowings..."
+
+With a jolt, Caden realised he recognised those last two terms. The Crevylor augera had used something like them when it was railing against the Fateweavers. Caden had expressed horror at what it had done to the enemy agents, and it had responded: 'Horror? You do not know the word. Ancient-distant-spiders are the true horror. And one day, they will know the word, and wish for not-knowing.'
+
+"The knots aren't just simple moments," Ambrose continued. "They're like a complex web of many, many things. I don't know how to even properly recognise one at the moment, let alone read it. As for creating it... well, that's something I haven't even figured out how to do intentionally."
+
+"How does all that tie in to passing knowledge of sequences on to others?" Caden asked, though he thought he had half-guessed the connection already.
+
+Ambrose pursed his lips, then took in a deep breath. "I don't know how those big knots in the Prophecy work... but when it comes to the five of them, I... I have a better sense of things. I can see the different parts of the knots. I can see what goes into them. And I'm beginning to be able to manipulate those building blocks."
+
+"Is that what you did to me?" Caden asked, his eyes wide as he thought back to that moment when Ambrose had passed that dense knot of arcana to him. He remembered how it felt, or 'sounded' to his arcanic senses — like a tune that formed a harmony with ensorcelment. "But I'm not one of the five anymore!"
+
+"You were," Ambrose said gravely. "And what's more, I think the spot that you once held, that Emilia now holds... the 'bones that form your crown o'er mortal thrones'... I think this is a part of what that means. Somehow, through Emilia, I'll learn to master this ability. You're out of the spot now, but I think there's some residual effect."
+
+"You've... you've formed some sort of prophetic link on me?" Caden's voice grew hoarse.
+
+"No," Ambrose said firmly. "I'm not sure about much else, but I'm pretty positive about that. It's just... this ability to pass on knowledge through arcana? It's somehow tied up with a Fateweaver's ability to create the knots of prophecies. It's one piece of the larger puzzle."
+
+Caden let that sink in for a moment, though he had to work to keep from getting up and pacing around in agitation. The moment when he thought that Ambrose might have shackled him with prophetic links had been one of pure panic. But reason was now catching up with him. With his arcanic senses, he knew that the Academy augera's shell of protection was firmly in place, and even as he turned his attention to it, he could sense that it was still keeping him free of prophetic influence. That, at least, verified Ambrose's statement.
+
+"Okay," Caden said after he had gathered his thoughts, "so this means it's not something that I can do, since it's tied in to your ability as the Chosen One, right? So why didn't you just say that from the start, in front of everyone?"
+
+Ambrose didn't answer. He simply looked at Caden, whose breathing quickened as he started realising more things.
+
+"You can do it because you're the Chosen One, but that just means a Prophecy has made it easier for you to pick it up. And that's probably how all Fateweavers have learned it. But there had to be someone, or a group of people, who was first. Which means that this ability isn't something that only Fateweavers can learn. It's something that, currently, only Fateweavers are allowed to learn."
+
+"I think so," Ambrose nodded heavily. "I kinda figured that out while we were trying all that stuff back in Devon's home, trying to get you to slip into oblivion with me. And everytime we hit a wall where I thought maybe my Chosen One status meant that only I could do something, you'd manage it soon after. So it doesn't make any sense why this kind of stuff isn't something other people can do too. Then I thought... it must be possible. But the Fateweavers make use of prophecies, both major and minor, to skew the probabilities so that people never actually get to that point. Until someone like you comes along, somehow unchosen-sighted-{~?~}, who's free from those restrictions."
+
+"But do you know what this means?" Caden asked in a strangled whisper.
+
+"Do you?" Ambrose returned the question quietly, his eyes full of worry and fear. "If I'm right about all this, and if I help you figure out how to share sequences through arcana... I'll be giving you one of the building blocks that makes it possible for you to eventually create knots of prophecy. You could be a Fateweaver in your own right, with that kind of power. That kind of thing doesn't strike me as what the augera call moving softly. And even if I don't teach you, and I just figure out some recovery sequence on my own, and pass it along to the others through this arcanic manipulation... well, right now, I don't know if I... feel comfortable about doing that to them. Not now that I know how it works, what it means, and what it could lead to."
+
+Caden gaped at him because his thoughts had gone in an entirely different direction from what Ambrose had just said. Caden had been staggered at the implied mass suppression of arcanic knowledge, literally carried out over generations and across the span of the Empire's history, to some dark and inscrutable purpose. The Fateweavers had hoarded arcanic secrets beyond the understanding of the masses and then used it to consolidate power for themselves. Yes, they had probably made good use of it to ensure the stability and prosperity of the Empire over those thousands of years, but it was hard to view them as anything but nefarious given their methods. Now, Ambrose's words laid on a whole new burden, because it seemed that Caden was, quite literally, the only person who could credibly challenge that monopoly of arcanic power.
+
+And the augera all knew. They had been waiting for millennia, shifting things ever-so-slightly, banking on that infinetesimal chance that despite all the manipulation of probabilities via prophecies, there would emerge people like him, who would be free to throw down the gauntlet before the incumbent Fateweavers. That was why the Academy augera had given him the prophetic shell. That was why the Creyvlor augera had intervened so dramatically and protected him from the enemy agents, and thereafter left him in peace, although it had accidentally damaged him because of its own broken nature. And that was why the Geldor augera had put his shattered mind back together again, restoring him completely instead of just putting together a fascimile based on incomplete memories.
+
+He had known all these facts before, but it was now really sinking in. The augera were banking on him becoming an independent Fateweaver, and they wanted him to champion them, and free them.
+
+It occurred to Caden that until that moment, his vague plan had been to simply help Ambrose and nudge him here and there, and eventually Ambrose would be the one to free the augera and tweak the prophecy of doom over Caden's father. It had never entered his mind that he would have to be the one standing in front. The full import of his unchosen identity was falling on him now — the augera called him unchosen, but that was a matter of perspective. The augera had chosen him, precisely because the Fateweavers hadn't snared him in any webs.
+
+'What is this?' Caden whispered, horrified, into the arcana, tracing his mind over the contours of the prophetic shell around him. Ambrose looked at him in worry, but his eyes widened a moment later, mirroring Caden's shock when the shell whispered back.
+
+'Our gift,' came the faint response. Somehow, it was both the Geldor and Academy augera, their voices blended but still distinct, like two notes in a chord. 'Our gift to our champion, to challenge the will-curse-test.'

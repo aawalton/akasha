@@ -1,0 +1,77 @@
+---
+id: 493062b2-319f-5b31-95e4-33b59c856bf3
+page-type-slug: story-chapter-royal-road
+title: "33: Approach"
+slug: 0033-33-approach
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 33
+ownLength: 1439
+unit: words
+publishedAt: 2024-12-23
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1970680/33-approach"
+royalRoadId: "1970680"
+---
+
+33:
+
+Jack was the strongest he had ever been. An observation that was rooted completely in fact, yet one that did nothing to reassure him as he and Sarah moved closer to the transparent blue arrow pointing downwards, towards the destination of their quest.
+
+His fully charged Moonsword was sheathed at his side while his Shield of Greater Reflection was strapped to his left, held close to his chest in a manner that would not obscure his vision. Jack had dropped to a crouch as he led the way and Sarah had mirrored his actions, as they slowly but surely inched towards their destination. Taking the vanguard position had been Jack’s call and given that he was the only one amongst the two capable of defending them from ranged attacks, Sarah had readily agreed to his strategy.
+
+As they continued forth, more light filtered through widening gaps in the canopy, an observation that caused a twinge of unease in his gut. They had travelled for dozens upon dozens of miles in search for their salvation, yet the eerily pure white light that filtered in through the sweeping branches and vibrant leaves had never abated. Never left their side in favor of the moon, if it remained intact.
+
+Without the sun or the moon, Earth could not exist as a live-giving planet, yet it would be obstinate of him to cling to the knowledge of the old world. Everything they knew to be true had been overturned, thousands of years of amassed human knowledge and wisdom coming up short against the vastness of the divine system.
+
+Are we still in the solar system? Jack thought, only to shake his head and blink to clear his mind.
+
+Whether they were in the solar system or not, what could he do about it? No, the more important matter was what knowledge he could extract from the observation.
+
+Hours had turned into days, forcing Jack to the conclusion that the light would not stop beating down upon him, at least for the length of the trial. In most situations, that would end up working to his advantage, in this particular scenario, Jack would much rather have preferred the cover of the night, even if it meant fighting Rift Goblins under diminished visual acuity.
+
+Jack came to an abrupt halt as his enhanced hearing detected the clash of metal against metal. He raised his open palm in the air, signalling Sarah to stop. His eyes narrowed in the direction of the Rift Goblin Camp as the sharp, metallic clang cut through the air repeatedly in equal intervals, a constant hum that could not be attributed to battle.
+
+He found himself recalling the hammer icon that had been inscribed onto the map, concluding that the sound was most likely to be that of a hammer striking an anvil. As he focused on his sense of hearing, Jack caught onto more sounds, albeit ones that were far more distorted due to the distance.
+
+The garbled chatter of Rift Goblins, the crackle of a distant flame as more firewood was added to it and just barely, a soft, muffled weeping that Jack wasn’t sure if he was imagining, as it disappeared in the throng of sounds a moment later.
+
+His features hardened as he shifted his open palm to point forward, signalling for Sarah to continue.
+
+Minutes ticked away in tense silence and with every step they took, the myriad sounds and smells gained increasing definition. The rancid smell of unwashed bodies hung in the air, only to be outdone by the nauseating scent of sulphur that grew in intensity along with the bubbling of a liquid, what Jack suspected to be linked to the cauldron icon he had noticed on the map.
+
+The chatter of Rift Goblins grew clearer, even if it remained indecipherable to him, the rhythmic pulse of flames now clearly audible to Jack. The gaps between Anarix Trees grew wider, the canopy thinner as light cascaded through without restraint and Jack’s heart began to race.
+
+Then, almost abruptly, the forest, which had been both a cage and a shield, came to an end.
+
+Jack dropped prone and Sarah mirrored his actions, both slowly crawling towards the gentle escarpment.
+
+Signalling for Sarah to halt, Jack volunteered to be the one to peek downwards.
+
+First, his gaze fell upon a wooden palisade with spiked tops that encircled the ovular perimeter of the camp. Jack noted that the lone entrance to the camp, a wooden door with metal hinges that glinted under the unnatural light, was barred from inside with a wooden beam.
+
+One, two, three, four…, Jack’s gaze shifted from tent to tent, noting that they had been put together from animal hide that was patched together, counting a total of fourteen before he pulled back.
+
+A few moments later Jack peeked out again, confirming that there were no unnatural movements from the camp before he continued scanning the camp. A large, blackened metal pot bubbled, a fire pit underneath it crackling as it heated the greenish-brown mixture that had an inconsistent texture. He judged that to be the source of the sulphur-like smell, forcing down a wave of nausea that hit him to focus outwards.
+
+A Rift Goblin that fell somewhere between an Assassin and a Berserker, sharing the four foot height of the former while boasting a musculature that was a far-cry from the spindly arms and legs of a Rift Goblin Assassin and approached a Berserker’s, hammered down upon a heavy, flat slab of metal, aiming for a a red-hot ingot which rested upon it.
+
+Jack blinked in confusion as he searched for a forge, some means of heating the metal to reveal itself, only to find nothing that vaguely resembled any forge he knew in the camp. The wooden shed he’d noticed on the map lacked a door and Jack could see clearly that it was stacked with lumber, woven baskets whose contents where shielded from his sight by coarse hide, more animal hide bags crowded full of sheathed weapons half poking out that were currently not in use alongside other bags that were pulled taut, leaving him unable to discern their contents.
+
+His gaze then narrowed on an odd goblin that he had noticed earlier, standing next to the smith.
+
+Its head was wreathed in what appeared to be a tribal crown of some manner, a black cloth bandana wrapped around the creature’s head that was adorned by a bouquet of vibrant red feathers. In its right hand, it held onto a wooden staff with a gnarled top half, it’s surface lined with painted letters that were arranged in straight horizontal lines.
+
+The staff-wielding goblin was taller than the smith, but its physique was neither overly muscled nor could it be called spindly, falling perfectly within the realm of well-toned. While the smith was well-protected in his studded leather armor and metal tassets over his leather leggings, the staff-wielding goblin was only clad in flowing gray robes and small soft leather boots.
+
+Jack’s gaze shifted from the staff-wielding goblin to the largest tent in the camp, positioned in the far corner opposite to the entrance.
+
+Then he focused the storehouse shack that was a little distance away from the largest tent but still adjacent to it, before turning his gaze on the cauldron, positioned in the centre of the camp and surrounded by tents, before his attention returned to the staff wielding goblin and the smith that were positioned near the entrance to one side, almost hugging the palisade.
+
+Jack noted that two guards were still positioned next to the barred entrance and his expression dropped.
+
+Then, the muffled weeping returned and from such proximity, Jack’s enhanced hearing was able to narrow down its source to the large tent.
+
+His gaze swept across the camp a final time, as he took note of the only advantage he had. Besides the two guards on duty near the entrance, the staff-wielding goblin and the smith with his hammer, the rest of the goblins seemed unarmed as they milled about. More than a few goblins had gathered around the cauldron, both for it’s heat and the bowl of stew in their hands, while others walked towards the store room, worked on sharpening knives against flat stones or butchered the remains of what Jack was certain was a Silvercrest Wolf.
+
+There had to be two dozen goblins in the camp if not more and that wasn’t accounting for any that might have been sent on missions and could return at any time.
+
+The rewards for the Hidden Piece suddenly seemed a lot less generous.

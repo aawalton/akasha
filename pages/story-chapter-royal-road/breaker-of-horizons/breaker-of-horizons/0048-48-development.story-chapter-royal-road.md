@@ -1,0 +1,133 @@
+---
+id: 2699e6e6-f9f0-52f2-83b4-629bb0210f8c
+page-type-slug: story-chapter-royal-road
+title: "48. Development"
+slug: 0048-48-development
+partOf: breaker-of-horizons
+position: 48
+ownLength: 2120
+unit: words
+publishedAt: 2020-10-15
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/569527/48-development"
+royalRoadId: "569527"
+---
+
+Emilia's decision to rush headlong towards Ambrose was puzzling, and it looked like she had made a grave mistake. As Ambrose pointed his sword at her, the surrounding weapons sprang to life and interposed themselves between the two of them, forming a dense forest of deadly blades.
+
+The dense cocoon of arcana around her flexed, and in the next instant she was encased not in an indistinct bubble, but a sharp wedge that was honed to a point so fine that it tapered off into invisibility. She slid into the forest of blades like a needle into satin, the shape allowing her to push through the tangle without cutting herself to ribbons. I had no idea how much force was holding them in place since I didn't know the principles Ambrose was employing to animate them, but Emilia brushed them aside as if they were nothing but paper mache held up by strings. They slid off her shield, throwing up sparks as they scraped against it.
+
+"Hah!" Kevan crowed, as Ambrose was forced to throw himself aside to avoid Emilia. Her momentum carried her past him for several metres. A cloud of debris enveloped her as she sailed into one of the volumes that were still whole, gouging out an entire chunk of it. She pitched forward and slammed into the floor. There was a horrid screeching noise as the point of her spear-shield scratched against the floor of the arena, but the protective sequence laid over it held firm, leaving it unmarked. She wasted no time and launched herself again, this time going for more height so she could crash down on Ambrose.
+
+At a gesture from him, the floating weapons rapidly melted together to form an amorphous mass that coiled protectively around him. He opted to keep his sword, though, and as he pointed it at the rapidly-approaching Emilia, the mass sharpened into a spike aimed directly at her, simultaneously anchoring itself with a broad base that shielded Ambrose entirely.
+
+Emilia's spike met Ambrose's almost exactly point-to-point with a screech that set my teeth on edge. They both snapped off with a sharp crack, but for some reason, Emilia wasn't deflected off-course. She continued straight on, and now the true power of her shell of arcanic energy was beginning to show itself. Though bereft of its penetrating point, it still held enough force to pulverise Ambrose's covering. Chunks of his weaving fell away and crumbled into powder as they fell to the ground. She plummeted straight through his defences, landing with unlikely force that sent fragments of Ambrose's covering flying out in all directions. Ambrose seemed to have managed to avoid a direct hit but he was flung several metres away by the impact, though he was now enveloped in an arcanic shield that absorbed some of the damage. He quickly scrambled to his feet, his face tense, the sword still in hand.
+
+"He should've dodged that," Jerric remarked, shaking his head.
+
+"Must've thought the arena material was tough enough," Lynus said.
+
+"Bet he regrets getting her riled up now," Kevan smirked.
+
+Emilia did not give him time to recover. With nothing left between her and Ambrose, she allowed the cocoon around her to resolve into a more even shape and barrelled forward with a burst of arcana.
+
+It was almost too quick for the eye to follow. Emilia's dash brought her right up to Ambrose and she looked like she had been about to punch his lights out (which, given what we had seen so far, would have probably ended the fight since she was so amped up). But before her fist could make contact, he took one step to the side and brought his blade up in a forward slash, and Emilia sailed past him, her shield entirely dismantled, while the personal arena barrier around her registered a fatal hit that ran across her side. It looked like she would have been cleanly sliced in half if not for the protective barrier. She fell to the ground, then slammed her fist into it with a grunt of frustration.
+
+"WHAT?" We all had gotten to our feet, but Kevan's shocked cry drowned out the other noises of disbelief and surprise.
+
+The shattered remains of the battleground were slowly dissolving as Ambrose called up the Minor Control Sphere to clear the space. We hopped down the tiers to meet them. Emilia was slowly getting to her feet, looking tired and annoyed.
+
+"Good fight," Ambrose said, extending a hand.
+
+Emilia regarded him stonily for a moment, then returned a curt handshake. "Yes, good fight. How much of a fight was it, though?"
+
+"I thought you had me there, near the end," Ambrose replied, shaking his head in wonder. "I wasn't expecting you to be able to just bash through the spike barrier, since I made it using the arena material."
+
+"Even so," Emilia continued, fixing him with a stern look, "were you really trying?"
+
+He looked taken aback by her intensity. "Uh, yes, why?"
+
+"You figured out how to reconfigure the volumes without using the arena's Minor Control Sphere," she pointed out. "You rapidly unravelled existing transmutations, and you looked like you could manipulate them at will. You could have ended the fight."
+
+He stared blankly at her, then at the rest of us. I thought I understood what she was saying. "Kant always tells us that if we can control the environment, we have easy ways to win a fight. Triggering a tonne of rocks to fall on your opponent will be more effective than throwing bolts of arcana at them," I supplied.
+
+"Exactly. You had a whole arena's worth of material that you could freely shape at will. And you were also able to exert fine control over them and freely move them. Were you toying with me?" Emilia asked pointedly.
+
+"I... I wasn't, really," Ambrose said, raising his hands placatingly. "There's a limit to how much I can control, and honestly, I expected the weapon shapes to be able to cut your shield apart. So when that didn't work, I panicked."
+
+"But my shield withstood both direct hits and glancing blows from the blades the first time," Emilia insisted. "And yet you used your sword at the end, and this time it sliced through my protections like they weren't even there. You did something to the blade, didn't you?"
+
+"Yes, but—"
+
+"Then could you not have done that earlier to all the blades the first time around?"
+
+"No, I didn't set up that sequence beforehand. I only modified my blade after I saw that they had no effect on you."
+
+"That means you had the means to win earlier, but it just didn't occur to you," Emilia pointed out.
+
+"I... yes, I guess. But isn't that true of all fights?" Ambrose asked, puzzled. "One side may have the means to win, but the other can always gain the upper hand."
+
+She sighed. "Yes. But I see now that you have a greater level of understanding over some principles of arcanophany. You picked up my arcana-assisted movement just by watching it, and employed it immediately in battle to a functional degree. And the only thing that let me come this close to beating you was the fact that you're a bit slow on the field, and you don't consider your options fast enough in battle."
+
+Ambrose frowned at her, thinking about how to respond to that. Then, after a moment, he nodded. "A fair assessment. Does that bother you, Emilia?"
+
+"A little," she admitted, cracking her knuckles and shaking out her limbs. "I have prided myself on being more adept when it comes to the theoretical underpinnings of thaumaturgy. But that's the way of things. Someone better always comes along eventually, and you survive by leaning to your advantages or adapting."
+
+He grinned at her. "You know, I've heard a lot about you, but now that we've finally met and fought, I'm really impressed by your thaumaturgical ability!"
+
+She raised an eyebrow. "Next time, think faster on the field, and I may be able to say that back to you."
+
+"Oooh snap," Lynus laughed.
+
+Ambrose winced. "She's deadly, but I like her."
+
+"Get in line," Kevan said, brushing past Ambrose and playfully pushing him aside so that he could stand next to Emilia, who rolled her eyes but permitted him to put his arm over her shoulders.
+
+"Wait, so that's actually a thing?" I asked, gesturing at their matching outfits. "Since when?"
+
+"Since their big duel," Lynus answered, ruffling his brother's hair and drawing a cry of protest. "You will not believe how that happened."
+
+As we made our way back to the dorm, Lynus regaled us with the story of how Kevan had stumbled through an awkward conversation when he went looking for Emilia the day after their duel. He had cornered her in the cafeteria where she had been eating alone and tried dropping hints, which Emilia seemed to be blatantly ignoring. In the end, an exasperated Emilia had asked Kevan to state in plain terms exactly what he was bothering her for, and he, red-faced, had blurted out, "I like how you fight and I like you."
+
+"Fates, no, please, that was your line?" Devon asked, smacking his forehead.
+
+"Sounds exactly like the kind of thing he'd say, though," Jerric said, smirking. He seemed to be particularly enjoying the discomfort that Kevan was showing now.
+
+"But what's wrong with that?" Emilia asked, looking around at us with mild confusion. "It was finally clear. Before that, he was just hanging around and making obtuse comments."
+
+"That, right there," Lynus pointed at her. "That is what makes them perfect. My brother is as subtle as a tonne of bricks. And here is someone who appreciates that."
+
+"Alright, shut up, Ly," Kevan said, looking uncharacteristically shy.
+
+"You are a pretty direct person," I admitted to Emilia. "So I can understand why you like what he said. It's just... not romantic?"
+
+"Do you have any experience behind that judgement, or is this just speculation?" Emilia asked seriously.
+
+That brought out a peal of laughter from everyone else, while I shook my head. "You... you aren't making fun of me, are you?"
+
+"Am I?" She blinked, totally straight-faced.
+
+There was more laughter from the rest. Lynus recovered enough to gasp, "It's either endearing obliviousness or perfectly-executed jibes. Either way, it's great."
+
+"Anyway, that's all it took?" I asked Emilia, once the rest had finally settled.
+
+"Well, once his intentions were clear, I could consider the matter. He's a highly competent thaumaturgist who can go toe-to-toe with me, and to be frank, he's the only person who has expressed romantic interest in me. So I thought it would be wise to see how it goes."
+
+Her tone was matter-of-fact, but what she just said dampened the mood a little. It occurred to me that someone like Emilia, who appeared to have few friends to begin with, might have also become the butt of some jokes in her childhood. Here in the Academy, though, her competency commanded respect.
+
+"And he's been treating you well since you got together?" I ventured, glancing at Kevan, who gave me a wry smile.
+
+"I have no other basis for comparison since he is my first partner," she said, looking at him and smiling. "But yes, I think so. He seems to understand me, and he has stopped being so obtuse and more direct when we talk, so that is a refreshing change from how my conversations go with most other people. It also helps that he is physically attractive."
+
+Devon pretended to gag as Kevan preened a little. Lynus rolled his eyes. "So clearly I'm the inferior twin."
+
+"Ah, but attractiveness is subjective. I am sure there is someone out there who finds you physically attractive," Emilia replied serenely, "and who also does not mind that your thaumaturgy is a bit lacklustre."
+
+The rest of us dissolved into laughter again as Emilia looked around at us, a little nonplussed. I noticed, though, that Kevan had leaned in close to whisper something to her, and as she nodded in comprehension, a slow smile spread across her face.
+
+It was a small thing — just a brief interaction that I happened to catch because I was drawing in a breath to ease the ache in my stomach from all that laughter, and I had glanced in their direction while doing so. But it painted a very different picture in my head about Kevan.
+
+And I wondered... if he could be like this, then why was he the tangled-anger-power? Did that really define him?
+
+What if our 'arcanic names' were not all-encompassing?
+
+... what if they could change?

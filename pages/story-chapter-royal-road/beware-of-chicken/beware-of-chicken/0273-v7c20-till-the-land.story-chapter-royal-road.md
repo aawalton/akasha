@@ -1,0 +1,323 @@
+---
+id: 29b03467-46cd-5822-b163-d0ab3e2ce41a
+page-type-slug: story-chapter-royal-road
+title: "v7c20: Till the Land"
+slug: 0273-v7c20-till-the-land
+partOf: beware-of-chicken
+position: 273
+ownLength: 4228
+unit: words
+ownProgress: 4228
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2963403/v7c20-till-the-land"
+royalRoadId: "2963403"
+markedReadAt: "2026-06-29T19:00:47.601Z"
+---
+
+She who had been granted the title “Bane of the Black Lances” sat in repose atop the mobile hive that conveyed the Emperor on his travels. They were on the move again, following the little lord of these barbarous, untamed lands. His form was not entirely displeasing, but comparing his might to the might of the Emperor was utterly laughable. He was small, but at least he knew his place—he heeded the Emperor well, did his commands swiftly, and crafted for him what he desired; and thus his son was allowed to court Princess Tigu.
+
+Though that was more on Consort Tie Delun’s own merits. He had crafted a Grand Fortress Hive for their Master, had fought the great demons on the solstice, and had even tended to some of Bane of the Black Lance’s fellows in the aftermath; he at least would be a good addition to the Hive.
+
+The common folk had rejoiced and made merry at the declaration, ecstatic that they had been graced by the Emperor’s benevolence; the other family members of the little lord began crying, bowing, and scraping after the Empress said something to them before embracing them like family.
+
+Bane of the Black Lances pitied their celebrations. Their alcohol was weak, nothing compared to the Heavenly Elixir that was made from the toils of the Hive. Bane of the Black Lances’ Queen-Mother would have been appalled.
+
+At the thought, Bane of the Black Lances almost reached for her, for the connection, but there was only silence. That was the worst part of it. The quiet. It had been painful, feeling the connection dwindle and dwindle as they got further and further from their blessed home, until the unnerving quiet settled in entirely. Instead of a hundred thousand sisters, all part of the same chorus, Bane of the Black Lances had barely two dozen sisters, linked to her by her Queen-Mother’s Decree, their song barely humming in her mind.
+
+Bane of the Black Lances could see the moment in her mind, her Queen-Mother standing over her, Qi sparking in between her forelimbs. She placed a crown of queenly power upon Bane of the Black Lances’ head, her Qi changing her soldier.
+
+“Go. I empower you, my greatest daughter. Guard the prince; witness the Emperor’s Glory as he tames these lands. Gather information upon the world, so that we may strike down all who plot against him.”
+
+The experience had been indescribable. A true honour. If she focused, she could still feel her Queen-Mother, albeit barely. Her presence shone like a far off star, guiding all her dutiful soldiers home.
+
+…she wished she was with her Queen-Mother. With the rest of the Hive.
+
+Bane of the Black Lances forced away the wistfulness and scolded herself. She had been granted a duty; and it would be seen to without fail.
+
+She returned her gaze to the present, glaring at the dusty horizon and receiving another mental report. One of her sister-scouts flew down to greet her; Fast of Wing was as her namesake, if very absentminded. Queen-Mother had not granted any of them titles, but it felt right to Bane of the Black Lances. Fast of Wing danced for her sister-commander, relaying the information in a way that was easier for Bane of the Black Lances to understand. While her Queen-Mother had granted Bane some of her power, it required a lot of focus to use beyond sending simple messages. Satisfied, Bane of the Black Lances stepped forward and they stroked each other's faces with their antennae. Bane made a noise of disgust at the sensation; the red dust had coated another of her sisters with its foul stink.
+
+While all of them missed their Queen-Mother, all of them were also glad she was not here to suffer these indignities.
+
+The red dust that was caught in the wind smelled foul and coated Bane and her sister-subordinates. They had to maintain their armor thrice as often, and worse still, it needed to be cleaned off delicately. One of the youngest had scratched one of her eye lenses when she had been too hasty. The wind here was unpredictable, and there were barely any flowers at all.
+
+To add insult to injury, when they did find a scraggly, stunted flower, its nectar tasted foul—but even this would have been tolerable if there was enough of it. The bastards only gave up a sip!
+
+Thank the heavens for the Emperor, who granted them rations of blessed syrup. It truly drove home the memories Queen-Mother had shared with all of them. It showed them how truly blessed they were to serve the Emperor and live upon his lands. Upon Fa Ram, where the air was sweet and mild, where flowers grew upon every surface, and where nectar overflowed.
+
+On the whole, this had been a most disagreeable journey thus far; but it was not her place to complain. The only good thing was that the tiny, weak hives here had been easy to command with Queen Mother’s power. Bane of the Black Lances did not know how useful they would be, but at least they knew the Emperor was their Lord and Master.
+
+Nothing came to challenge their caravan, and the Emperor eventually dismounted to grace the commoners with his presence. The Lord of the Ironfields acted as his herald, and the peasants understood how they were lucky to hear him speak.
+
+Bane finished cleaning her sister-soldier off, and then sent her off for light duty; she eagerly accepted and winged into the mobile hive. She was immediately noticed by the fox… but the fox was intelligent enough to not try to push their rivalry. It still stung that this beast had been charged to guard the Prince… but she was immensely powerful. Nearly as powerful as Lord Bi De.
+
+The Prince was wrapped in the beast’s tail, and all of them felt annoyed. But also they felt the desire to grow powerful.
+
+To reclaim their position, as the undisputed captains and protectors of their Emperor’s child!
+
+Thankfully, the Prince knew their leal service well and still favoured them. Though the fluffy tail smelled very nice, and was annoyingly soft, the Prince perked up when Fast of Wing buzzed in front of him and began to perform aerial acrobatics.
+
+He clapped and laughed, and then groomed his loyal servant, furthering their bonds.
+
+What a wonderful prince they had. Bane of the Black Lances watched on, her abdomen wiggling with delight.
+
+She let the others know of the Prince’s favour. Happiness banished the discomfort.
+
+However, the moment was soon interrupted.
+
+“Bane,” came the booming voice of the Emperor. He called for her, and instantly Bane of the Black Lances was in the air, flying to land upon his shoulder.
+
+‘Your Imperial Majesty calls for this lowly servant?’ she asked, her abdomen wiggling in the language of supplication.
+
+He pointed to a map of the Ironfields. Upon it, there was a circle drawn around the center, as well as several spirals.
+
+“I need your and Washy’s help. I need you to find these stone markers, if there are any left; they might also be metal, but they will make a formation like this…”
+
+Bane of the Black Lances listened intently to her Emperor's commands. Instantly, his orders were relayed. The search pattern was changed.
+
+They had a true order—and they hastened to obey. The Emperor’s designs encompassed the entirety of the Ironfields.
+
+As expected of the one that Queen-Mother followed, the Emperor who ruled the entire earth!
+
+=====================================
+
+We ended up staying in the Ironfields longer than I had at first been intending. I had expected maybe staying a couple of days to meet Delun’s parents, but the whole betrothal had extended that.
+
+Since we were very likely going to become family, Meimei had decided that it was time for her to be unleashed. Every protest that she was being too generous with her healing was bulldozed over completely by that excuse. Already Liquin’s mother no longer needed her cane to walk anymore, and her father could just about see again; Meimei still needed some stuff from home to completely cure his blindness.
+
+Then there was Delan’s mother. The old woman, her cultivation destroyed… but now had her dantian mostly patched back up—and her descendants were in the planning process to craft her a new set of metal legs.
+
+They’d never be good enough for her to fight with, and even if she could cultivate again, she probably didn’t have more than ten or fifteen years left in her… but she would be able to walk once more on her own.
+
+Hopefully; they still had a bunch of tests to do.
+
+I, on the other hand, had a promise to Tianlan to keep.
+
+It would be my first time doing a “real” cultivator thing in a while, healing the land on a grand scale.
+
+No pressure.
+
+“When I went to the Grass Sea last summer, checking on Xiulan and Tigu, I found the epicenter of the formation which was still shifting the Water alignment to Wood; it had been doing battle with the spirit of the Lord of the Lake, who had tried to preserve his home. The Misty Lake was slowly disappearing, as the last dregs of the Lord Of the Lake’s spirit was fading… but thanks to his sacrifice, I was able to nudge things back into place. We can't do that here,” Tianlan explained to me. We were sitting together in her realm.
+
+It looked a lot different here—a reflection of our current location. Massive spires of metal reached for the heavens. Tianlan’s skin had turned the colour of iron, still riddled with golden cracks. But with her truly connecting to the Ironfields… she felt a bit more whole.
+
+“Yeah. It's stable… but in pieces. There's no core,” I said, feeling the earth beneath me. It was mostly split into five nodes, arranged like a star, or, more accurately, like an elemental wuxing cycle—I paused.
+
+Could we use that? I frowned, my mind going back to my formation lessons with Gramps, and how I had tinkered with the plant growth formations in the Cloudy Sword Sect.
+
+Would it be possible to use the existing architecture? I almost didn’t want to bring it up. It would be using the ancient formation Xiaoshi had used, the one that had once empowered Tianlan… and had then also been used to destroy her.
+
+And yet… It could help.
+
+I explained my idea to my partner. Tianlan took a sharp intake of breath.
+
+“We can find another way…” I said, but she shook her head.
+
+“I don't like them suffering,” Tianlan replied after a moment. ‘What happened so long ago… it's still hurting them. They aren’t to blame.” She turned, and looked directly into my eyes. “We’ll fix things. Together. I won’t fear that old thing, because I know it will never be used like that again.”
+
+I bowed my head.
+
+“Then… I need to know this place,” I said.
+
+I opened my eyes, and found myself at the outskirts of the town we had been at. I called for Washy and Bane. I had a job for them.
+
+I told Delan that there were a couple of things I had to see for myself. The man understood.
+
+And then… I started walking.
+
+I marched through the Rust Dunes, feeling them shift under my boots; irondillos hunted rust crickets who in turn fed on mycelium mats that formed around contaminated spring water.
+
+I scaled the grand karsts and stood atop them, listening to the song of the karst shrikes and the grinding sound of ironbore beetle larvae chewing through the weakened metal.
+
+I delved into a tunnel made of iron—only to find an entire lake of mercury at the bottom. It was just cold enough to prevent evaporation—and the tunnel was home to bats with a silvery sheen to their fur.
+
+I saw blasted lands with no life, only metal and rust. I saw fields that survived and thrived in spite of their circumstances. I saw poisoned rivers, just as I saw springs that supported stubborn life.
+
+The Ironfields was a land of extremes.
+
+I saw people; rich, poor, surviving, and thriving. I spoke to them and asked them of what they thought of their home. What they thought, if things changed.
+
+I listened to the genius ways they preserved their food, how they used the landscape of metal to benefit them, and how they tamed it and made it their own.
+
+And then, I found the edge. The extreme edge, where the Ironfields faded back to something almost normal—and where the Howling Fang Mountains began.
+
+At once, there was a true void. A true land without Qi. Something forsaken. There was still some Qi leaking into the area here from Tianlan’s Dragon Veins, but it wasn’t producing anything. There was a severed line—and looking at it, it felt unnatural.
+
+“This… is gonna take a long time to repair,” I muttered, looking at the absolute mess of this section of Tianlan.
+
+“The Dragon Veins are severed completely,” Tianlan whispered. “I think that's supposed to happen, if one of us… dies. Maybe.”  She sounded troubled at her own spotty knowledge. “But I do know there’s something in there. Something—someone like me.”
+
+Tentatively, we tried pressing a Dragon Vein into the void land. Nothing happened. We pressed harder, and the only thing I felt was my gorge rising in my throat. Tianlan grunted. Both of us stumbled as we started to really feel the Qi drain. It was like pulling open a plug in the bottom of the ocean while trying  to push forward.
+
+We stopped after a moment and I frowned.
+
+“I can take a look if you want?” I asked her, intending to step forward.
+
+Tianlan obviously considered it, then shook her head.
+
+“I’m sorry. But leaving the province…” she hesitated. “You can, but…”
+
+Tianlan was too weak right now. She needed me here, as her main anchor. Even a quick jaunt probably wouldn’t feel the greatest for either of us.
+
+“Then we’ll give ‘em a message instead, eh?” I asked, mentally ruffling Tianlan’s hair.
+
+“...Yeah. I wonder if they’ll jump and scream?” Tianlan asked, a devious smirk forming.
+
+I chuckled.
+
+“We’ll give 'em one hell of a show,” I replied, turning back away from the mountains.
+
+We walked back to the first village, where Washy and Bane had gathered enough references for the former to do some math wizardry, the dragon easily plotting out several nodes that we would need to make in the formation.
+
+Again, we had somebody who could help with that.
+
+He looked rather surprised when I asked for his help.
+
+==================================
+
+Bei Be marched forward, his good and dear friend upon his back. Sun Ne cut; perfectly and cleanly through the earth as it always did, his spirit friend chanting ‘cut, cut, cut’ in a soothing mantra.
+
+His trip thus far had been nice. The road had been kind, and the changing landscape had been beautiful. He truly got it now, why Tigu liked to carve so much. And he was very grateful that Senior Bi De had shown Bei Be his woodblock prints. It was a fascinating hobby to pick up.
+
+The long road gave him ample time to think and ponder on cutting—but it also forced him to be in close contact with people. He knew he was somewhat of a loner by nature. If left to his own devices he would be content to be alone… even if he did actually like the company, he would just never seek it out. It was a bit embarrassing, honestly, and he was thankful that his fellows reached out to him so often.
+
+And especially thankful that his Master always drew Bei Be into conversations about his manhua. His Master had an excellent eye for panel composition, and he had been the one to suggest the sound effects. To think that changing the way the characters were written would produce such a profound effect! He was growing greatly in skill.
+
+The Ironfields, too, were intriguing. A place of metal and rust. Sun Ne had been mildly offended at how jagged and ragged everything looked, upset at the lack of clean cuts, but thankfully not too upset. It had been quite a while since his dear friend had jumped into one of their rants. But even still, Bei Be kept his Qi soothing and made sure to make his cuts perfect. His friend appreciated it.
+
+Seeing the forging of the Spirit Metal had been fascinating. Bei Be had been entranced, as had Sun Ne. At first, Bei Be thought seeing the shovel whole would have upset his friend; for Sun Ne had been split down its spine to be turned into the plow he now used. But the blade held no ill will for the new creation. It could still cut, and so it was content.
+
+And together, they were learning new ways to cut. So many new things that could be done with cutting.
+
+The first step of cutting was learning that it was destruction. That it was severing. That was all his friend had known.
+
+But then his Master had shown him the second way to cut. It was still destruction, but instead of cutting flesh, the cuts were used to aid others. To cut the earth, to harvest food, and provide for others. In a bed of perfect cuts, life could be sown. Roads could be built.
+
+It had been a stunning revelation to Sun Ne. It had been something of a revelation to Bei Be as well, and the first step into a wider world.
+
+Then, Big Sis Mei and Senior Ri Zu had shown them that cutting could heal. Through cutting out the bad, through cutting others open to heal them. Perfect cuts reduced blood loss and made things easier to heal—and both of them were only too happy to teach him how to cut bodies, how to remove sickness.
+
+It was stunning. It was beautiful… It revealed a whole new world of what cutting was.
+
+One cut killed. One cut saved. One cut destroyed. One cut created. It was one long continuous motion, a knife’s edge between two extremes, and a mastery of cutting was mastery of both creation and destruction.
+
+The most powerful cutter he knew, Master Shen Yu, approved of Bei Be’s thoughts. It was a cut, and so he would master it.
+
+He still unfortunately lacked the dexterity to operate on others, his blade was a bit too unwieldy for it at the moment, but it was a temporary setback.
+
+His hooves hit something that was not dusty soil. He flexed his will, his companion braced, and together they cut through a plate of iron as well, clean. Perfect.
+
+And now… he was entrusted to make a new kind of cut.
+
+A cut to change.
+
+He looked up in the sky and saw Brother Wa Shi. The dragon nodded, showing him he was on the right course.
+
+A perfect circle had to be inscribed for this to work. A formation, carved into the world.
+
+How wonderful was it, to have one’s horizons keep growing like this? To find new ways to cut?
+
+==============================
+
+It took a week to complete the circles.
+
+It didn’t need to be anything special. We didn’t need them to last. The Dragon Veins were already arranged mostly how we needed them.
+
+We couldn’t change it back completely, but we could change it back enough.
+
+I was standing in the middle of a nondescript field. Nearby a stream burbled, bearing the telltale signs of metallic contamination, as the water was dark and reeking. There were bits of jagged metal sticking out of the ground around us, ugly and dangerous.
+
+My hands were on the earth. Meimei was beside me, while the Tie family looked on. I had asked for this to be mostly private.
+
+“Will the mortals be harmed?” had been Delan's only question when I had explained what I was about to do.
+
+They wouldn’t be. I was certain of it. Nothing would be harmed. The Ironfields would retain its rugged beauty. The only thing that would happen… was that everything would find it a bit easier to live.
+
+I picked up Old Buddy, the shovel warm in my grasp. I could feel it. Anticipation. It wanted this. It wanted to be used like this.
+
+I nodded and hefted my shovel. I closed my eyes and let Tianlan guide me.
+
+“We haven't used this one before, have we?’ I asked her.
+
+“We’ll take it slow. We don't want your arms cracking again,” she joked.
+
+“Ready, love?” I asked Meiling.
+
+We  faced different directions. Me, with my shovel. Her, with her hands on the earth.
+
+“I’m ready,” she said, her voice warm.
+
+We let our Qi spread out, along the lines that had been carved in the earth. Along the lines we had all worked together to make. Our power touched and mingled, and filled my chest.
+
+The mother, the father. The healer, the farmer. Yin and yang, cycling for eternity.
+
+=============================
+
+Delan had thought Master Jin’s Qi vast while it was hidden. Unveiled to the world, it was something entirely different.
+
+Massive. Titanic. It reached up as high as the tallest of the Howling Fangs and eclipsed the sun with its majesty. It stretched out to cover the horizon, unfurling like a banner that could hold the whole world. Even more so than upon his arrival at their gates, Delan understood his son’s description of Master Jin’s first appearance at the Dueling Peaks.
+
+It should have been oppressive. It should have driven them to their knees, yet all remained standing. Like nature itself, it was simply there. It did not mean to intimidate. It did not mean to oppress. It simply existed.
+
+His wife’s Qi was no different. It was his equal and opposite. Yin to Yang. Perfect harmony flowed through the air.
+
+Master Jin took a deep breath. His wife sighed. Delan could only watch—all of them could only watch—as something began to whisper.
+
+“And so the Great Ancestor Shennong instructed his Disciples in the ways of preparing the fields."
+
+He raised his shovel high, Qi gathering and swirling around him like a living thing. It was invisible, and yet Delan could see it. Part of it at least.
+
+“All things need a place to grow. In lands barren and unfruitful, take thy shovel and thy hoe.  Strike the hard earth; but do not destroy it. Tame it from the wild; make it supple and soft.”
+
+Antlers. A mantle of red leaves, fluttering in the breeze. The power of a father, who would remake the world for all.
+
+Lady Meiling clasped her hands together in a silent prayer, the freckles on her nose igniting into constellations.
+
+He blinked and it was gone.
+
+The world seemed to hold its breath.
+
+“In this way, we craft the foundation of all new growth.
+
+In this way we [Till the Land].”
+
+The shovel slammed down.
+
+When Bei Be had struck the earth, three perfect furrows had formed.
+
+When Master Jin struck the earth, it shuddered. The enormous amount of Qi that gathered around both powerful cultivators roared, the peal of a gong reverberated through the souls of all present.
+
+Yet true to Master Jin’s words, there was no great upheaval. The heavens did not shake, and the earth, too, seemed unaffected.
+
+But the jagged, sharp piece of metal next to Master Jin crumbled. Not into rust, but into earth. The great, gleaming road nearby was untouched, and the iron karsts in the distance were completely unaffected.
+
+But when Delan pressed his hand into the soil, it did not meet sharp, rusty pieces of iron and copper. It slid smoothly through the soil.
+
+Soil that did not stink of rust and metal.
+
+The small stream, between one moment and the next, turned pure and crystal clear.
+
+Master Jin took deep breaths. “Shouldn’t be any sinkholes or ground heavings,” he said after a moment. “I took care of it.”
+
+The only, astonished thought in Delan’s head was, ‘Maybe there's something to this ‘voice of the earth’ thing the Grand Ravine keeps talking about,’ as he, Liquin, and his son could only stare in awe.
+
+=========================
+
+A woman, blonde of hair, and very, very tall paused in her digging. Jiguang, Spirit of the Howling Fang Mountains, frowned. It was slow, so slow without a contractor! She had been upset by her speed before. It had been natural.
+
+But after the events of last year, she wanted to be faster. First, the chicken with a portion of the Azure Hills. And then, the drumming beat! She wanted to know, she had to know.
+
+But it would take a while—
+
+A giant thrumming gong slammed into the wall. Jiguang yelped, as she was thrown forward, slamming her head against the opposite wall.
+
+“Ah! Gah! Bastard of three fathers!” she roared, rubbing her forehead… before she froze.
+
+She recognised that power.
+
+Contractor. The Path. Healing—and she could almost hear a cheeky greeting, at the end of the reverberation.
+
+….it appeared the Azure Hills was something of a brat. Her elder sister, Jiguang, would have to teach her a lesson, when she finally dug to her!
+
+====================
+
+Edited by:  BargleNawdleZouss, Massgamer, Brandon “Philosophysis” Zhang-Leong

@@ -1,0 +1,143 @@
+---
+id: 2252374c-962c-5819-b357-6e425c1f4436
+page-type-slug: story-chapter-royal-road
+title: "v7c63: Majestic Return"
+slug: 0316-v7c63-majestic-return
+partOf: beware-of-chicken
+position: 316
+ownLength: 2008
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3472124/v7c63-majestic-return"
+royalRoadId: "3472124"
+---
+
+Once more, Vajra found herself preparing for war.
+
+For ten long years it had been her duty to muster the troops and to direct them into battle. First as a subordinate Queen, then a War Queen, until Vajra stood alone against the endless hordes of enemies whose capabilities surpassed her own soldiers a hundred to one, the Final War Queen.
+
+By her orders had billions went to war—and by those same orders, billions died. Scouts, taken so far from home, their deaths often going unnoticed. Soldiers, thrusting their stingers vigilantly, even while missing their heads. Workers sent forth in great waves, their bodies shaking so hard and so hot they cooked both themselves and their enemies. Even fellow Queens met their grisly ends when the hives were breached. Some chose suicide, their daughters dispatching them in ritualistic strikes behind the head. Others fought to the bitter end, transmitting images of massive mandibles tearing through wax and wood alike; the demons’ eyes gleaming with malevolent hunger.
+
+Each battle had only prolonged the inevitable; they added but another minute, another hour for an empire crumbling to dust.
+
+Vajra had nearly given up herself more than once. And yet… she hadn't. Was it stubbornness? Pride? Or was it just spite that had kept her going, killing as many of the demons as she could? Killing, until she was all alone; her mind in tatters, her spark almost gone.
+
+The grace of the Heavens had delivered her to Fa Ram, into wonderful Bi De’s beak, and the Emperor’s warm embrace.
+
+At first, Vajra thought she had died and gone to some wonderful afterlife. This god-like being had gifted her impenetrable hives, and granted her dominion over his endless fields; whose flowers were so laden with nectar their heads bowed in the morning sun.
+
+The water was crisp and pristine, the sun was somehow warmer and brighter, and even the air itself was sweet and nourishing.
+
+His Imperial Majesty said he was not a god; he was not some heavenly being, but this was obviously him lying and staying humble so he did not intimidate his lessers, or have the weak petitioning him at all hours of the day.
+
+In her soul, she knew it to be true. When he was angered, the land spoke with unbridled wrath; the mountains crumbled, and the wind howled; the wrath of heaven, the bright lightning was quelled and suppressed. Death had come for him twice, and yet, twice he had conquered it, casting it aside; once here, and one in a place beyond the heavens, a different world entirely.
+
+What else could that be other than a god?
+
+And in return for all this… a bit of honey was all Vajra was asked for. A bit of honey that the Emperor did not even demand a percentage of, but instead only asked for what she felt she could give. He told them to work only as they pleased, for he wanted them to be healthy and happy, rather than concerned with the tribute amount.
+
+He even cared about her fallen. The subjects that Vajra herself had stopped sparing thoughts for, dismissing them as necessary sacrifices. It was their duty to die, and every soldier went willingly to preserve the Emperor’s dominion.
+
+He crafted for them graves and allowed flowers to sprout over their bodies. He mourned their loss and praised their bravery.
+
+It was… beyond anything Vajra could have thought possible. What all of her hives could have thought possible.
+
+His benevolence had earned Vajra’s loyalty a hundred thousand times over. And more than that, it had earned him every daughter’s loyalty.
+
+And now the Demons had truly returned. They wished to lay waste to this blessed realm while the Emperor was gone.
+
+The very thought was enraging. Not just for her, but for all of her daughters, whose thoughts reverberated through her connection with them.
+
+Each and every daughter demanded war.
+
+She saw it now, as she stood on the top of her main hive. Great banners of reeds and silk thread that Empress Meiling had granted them fluttered in the breeze. Each one was the standard of a different formation; each one bore the Emperor’s symbol, along with depictions of each unit’s heroic feats, battle honours earned against the actual demons.
+
+They coated the ground in front of her hive, the grass sheared to make this muster yard. Each and every one of them stood motionless as Vajra reviewed them.
+
+Her numbers were not many. They were nothing compared to what she had once fielded.
+
+And yet they utterly surpassed her old force. Her Immortals approached the size of the Demons; their carapaces iridescent in the sun. Their armour would be impenetrable to her past forces; each one could have slain ten thousand, she was sure.
+
+And yet her old enemy had clearly grown too.
+
+Were she alone, it would have been another hopeless battle. Were she alone, she surely would have had to flee again.
+
+But she was not alone. This would not be a grim last stand. They would be going on the attack!
+
+First strode out Ri Zu, Bi De’s concubine. She was in her human form; loaded down with satchels and vials. Her shadows capered and writhed, red eyes gleaming from within her robes. She smelled of nothing—her formidable  strength sealing tight the potent poisons she carried, which would disperse into massive gouts of smoke.
+
+Beside her was Yun Ren, servant of the Emperor and newly christened Prince of the newcomers, the humans who were also foxes. Vajra had been watching them closely for treachery, but she had found nothing—only that they were rightfully grateful to the Emperor for his benevolence, and were humble and obedient subjects. Prince Yun Ren inspected his blade one last time before sheathing it. His extra set of ears and tail twitched, before he leaned against the door, waiting.
+
+Enormous Spooks came out next. His Master was supposedly great and powerful—the Emperor of the north—yet this mighty beast recognised the Emperor’s benevolence and might, and sent his own Disciple to learn at his feet. Ice and storm briefly pulsed over the Thunderhoof’s horns, before petering out.
+
+Then came Bi De, his feathers gleaming in the light. His Qi was coiled around him sharp, focused, and so intent it sent shivers though them all. He was the sun in the sky, so radiant was he, and his eyes betrayed no worry. Only perfect confidence and composure. He observed his companions, and then he observed Vajra’s gathered troops.
+
+“I never thought I would have access to such a fine army,” Bi De stated, his voice warm. Vajra nearly wiggled happily. “How go the preparations?”
+
+‘The supply lines are being laid down as we speak by the logistics companies. Scout squadrons are out in force. No contact yet,’ Vajra danced for him. He studied her intently for a moment, before he nodded; Ah, it had been wondeful, ever since the first contact. Bi De had sat down with her every night so he could learn to better understand their dances.
+
+He was absolutely delightful.
+
+“Excellent,” Bi De said, and the soldiers straightened further.
+
+The final one to walk out of the house was the bear. One of the Hive Smashers, Paobu. She didn’t exactly hate the creature. They were… more like forces of nature, from what she remembered. There was equal odds a Blaze Bear would either leave a hive alone, or smash it open to eat their honey and larvae… but they never did what the Demons did. They never killed everything. A smashed hive could normally start again.
+
+And now, his own hive had been torn open by their mutual foe. Paobu looked lost. He looked confused. His eyes aligned on her soldiers. He looked to the others, fully ready for war.
+
+‘You’re really going to help me? To help us?’ Paobu asked, his voice full of disbelief and the broken notes of hope.
+
+The same notes Vajra had felt, years ago. She felt an odd sense of kinship with the beast, for a brief moment, before she discarded it.
+
+He was merely a peasant. He was going to see what true might was—and he was going to kowtow before the Emperor when all this was done.
+
+“Yes,” Bi De replied, his voice not leaving any room for doubt.
+
+The Blaze Bear dipped his head, humbled by Bi De’s majesty and of the force he would be travelling with. He might be a peasant, but he did have some redeeming qualities.
+
+Then, Bi De turned to the others. Duke Chun Ke, Dame Pi Pa, and the owl-woman Biyu who had impeccable fashion sense. Old Master Miantiao, the Heavenly Artisan who had assisted the Emperor in crafting the wondrous barrier that could defy the time of the White Death and keep the warm sun on her hives. Finally there was Bowu; who was but a mortal, yet he surpassed all other mortals, assisting Vajra in her role as Boozemaster.
+
+“We go now to get to the bottom of this,” Bi De told them. “We will see you all when we get home. Pi Pa, may I request some spiced worms?”
+
+It was no real goodbye. He did not tell them to be careful. He spoke only in facts; Fa Ram would be untouched when he returned, after emerging victorious.
+
+The pink-haired woman chuckled. “It is such a pain to make them, when only you like them,” she mock-complained.
+
+“Wa Shi likes them too!” Bi De defended.
+
+Pi Pa chuckled. Her lips touched his forehead, and she pulled back with a small smile. “Don't take too long now.”
+
+“I would not dream of it,” Bi De replied.
+
+The others said their goodbyes. Short, simple, and making plans for what would happen after.
+
+Duke Chun Ke strolled up the side of their formation. He was small at the moment. As small as they were. Occasionally, he would stop, to whisper encouragement to one of her daughters, or press a small bit of hardened maple syrup into their claws.
+
+He spoke to them all by name, knowing the differences of each of her own daughters as well as she did.
+
+Until finally, he reached the front of the army, and he once more grew.
+
+‘Stay safe, little friends,’ he said, his warm voice a gentle command. ‘And you as well, Vajra.’
+
+His smile was as bright as the sun. Vajra danced her acknowledgement of this most important order.
+
+“Now, we march,” Bi De declared, after the last goodbyes left their lips.
+
+He did not need to shout; his quiet voice was enough. The Immortals rose into the air, their drone deep and rumbling. Formations gathered, forming into arrowheads like birds. Some carried small glass globes beneath them, thin shells filled with poison.
+
+Vajra herself rose with them.
+
+She was the central node. She did not have the range to command from the safety of her fortress. She would have to sally forth herself in order to control her scouts, and perform the tasks that were required of her. She would have to go into danger once more, to fight her old foe.
+
+And yet there was no fear. There was no terror about the new form that her old foes took.
+
+She travelled with an army beyond them all.
+
+Paobu led the way, retracing his steps. They started slowly at first… then started picking up speed, the bear nowhere near as fast as the others were capable of, but necessary for Bi De’s plans.
+
+At the gates, Duke Chun Ke stood, his eyes focused on them. The stalwart boar stood, a living bastion. His steady stance held a promise; their home would be there when they returned.
+
+They headed south. South, to where Vajra had been born, and south, to where she had been defeated.
+
+Her swarm spread out. The arrows disappeared into the distance, ready for anything.
+
+In Vajra’s mind, they had already won. All that was left was for the hornets to realise this fact of the universe.

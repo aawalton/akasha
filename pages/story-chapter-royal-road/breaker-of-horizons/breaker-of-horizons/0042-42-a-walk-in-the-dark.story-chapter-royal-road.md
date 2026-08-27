@@ -1,0 +1,203 @@
+---
+id: 74f6fc50-0e52-5416-b996-ed2962543a90
+page-type-slug: story-chapter-royal-road
+title: "42. A Walk in the Dark"
+slug: 0042-42-a-walk-in-the-dark
+partOf: breaker-of-horizons
+position: 42
+ownLength: 2637
+unit: words
+publishedAt: 2020-09-24
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/559355/42-a-walk-in-the-dark"
+royalRoadId: "559355"
+---
+
+Trigger warning:
+
+mention of attempted suicide
+
+The group of us stopped by the infirmary to check on Ambrose, where we found him in the midst of a final check-up by the healer before he was discharged. Devon insisted that we mark the occasion with a celebratory dinner and immediately enlisted our help to prepare, which required a trip down to the small collection of shops in the Academy to procure the ingredients. It was going to be a lavish spread: roasted chicken, mashed potatoes, mushroom soup, a prawn salad, and creme brulee to follow.
+
+The weekly chore rotation meant that the twins would be doing the grocery run. Kevan was in a good-enough mood to submit to it without any grousing at all, especially since there was the promise of a good dinner. That left Ambrose and me free to help with the preparation.
+
+"Where's Jerric?" I asked as we made our way back.
+
+"Back in the dorm, I guess. He's been a bit quiet lately. But don't worry, I'll make sure he's alright," Devon replied, smiling.
+
+Warm-skillful-bridge indeed. I wondered whether he would feel a lot better about himself if or when he came far along enough in arcanophany to discover these 'arcanic names', for lack of a better term.
+
+"Right, well..." A quick glance showed that the twins were out of earshot as they struck off towards the shops. "You wanna tell us what the Demiurge said, Ambrose?"
+
+Devon stiffened, casting a half-terrified, half-awed look at him. Ambrose gave me a wry smile and sighed. "Where to start? The biggest shock for me is that he's, uh, apparently immune to prophetic links."
+
+"What?" I demanded, while Devon asked, "What're those?"
+
+"I'll explain later," Ambrose said to him. "Or, uh, maybe... maybe Caden is supposed to... show you, later. We're gonna have to talk about it. I'm not sure I understand everything he told me yet."
+
+"Why is he immune? If he's not bound, then what's he after?" I pressed.
+
+"He says the immunity comes from his... link? Deal? Partnership? It's hard to explain, there's just this bundle of concepts... but he's working together with someone or something. Or some people. As for what he's after... that's the even more confusing bit. He says he's trying to help the Empire, but that it involves going against what the Empire currently is."
+
+"Like, against the Fateweavers?" I asked.
+
+Ambrose nodded seriously. "It sounds like it."
+
+"Going against the Fateweavers?" Devon repeated, his face pale. "But they're... the Fateweavers. The Empire is what it is because of them. It survives because of what they do."
+
+"That's what I said to him. And he told me that... that they're still only human, and that means they can be wrong."
+
+"If he wants to go against the Fateweaver's plans, the easiest way is to dispose of the Chosen One," I pointed out matter-of-factly, trying not to sound callous. "So what's he going for?"
+
+"He's not trying to stop the Prophecy," Ambrose said, shaking his head. "He told me he wants it to be fulfilled. But on different terms."
+
+"Different terms?" I echoed, frowning.
+
+"Basically, the words of a Prophecy are fixed. But words are... he said that they're just things that point to 'referents'. And while you can't change the words of a Prophecy, you can try to change the referents that they point to."
+
+That made sense. The referent had shifted for my sister's minor prophecy. This daughter shall be your ruin, I recalled. We had all assumed Triss was going to do something herself. In the end, it was me trying to save Triss that bound my father to the major Prophecy, setting him up for future ruin.
+
+Or maybe it was me all along? How would we know what a prophecy's original, intended referent was?
+
+"That... sounds possible," I said slowly, thinking hard. "But how do you know you're not 'changing' the referent to the intended referent all along? What if you misunderstood what the original referent was, and you end up helping to fulfil the prophecy in your attempt to change referents?"
+
+"Yes, I thought of that too," Ambrose said, grinning a little despite the seriousness of the discussion. "He said that there's no way to tell for sure. But if you're not bound by prophetic links, then at the very least, you can be certain that the choice you make is your own and not one made in service to a prophecy."
+
+"But that's no help at all! You could still end up fulfilling a prophecy even if you don't want to! Except now instead of being pushed into a hole, you're falling in because you're blind!"
+
+"A blind person has better odds of not falling in, though," Devon pointed out, ever the optimist. He had somehow managed to make a valid point even though he didn't really understand what prophetic links were.
+
+"That's right," Ambrose nodded. "If you're careful... you have a chance. A slim chance is better than no chance."
+
+"Even so, all that is assuming you're free from prophetic links. Last I checked, neither of you are," I said.
+
+"Well, you are," Ambrose said quietly.
+
+"Is that a good thing?" Devon asked tentatively.
+
+"It is," Ambrose said to him, before fixing me with a serious look. "Because that means you can stop others from falling into the hole."
+
+"What if I just showed you how to break the links?"
+
+"I wondered that, too. The Demiurge said that it's possible, but it should be considered carefully because it can't be undone. And also because having too many broken links could... attract attention."
+
+"Did he offer to do it for you?" I asked.
+
+"Yes."
+
+I stopped. "Did you take him up on it?"
+
+Ambrose stopped too, and so did Devon. The three of us had just passed the Spire. It loomed over us, and I was suddenly struck once again by that feeling of being watched by the Spire itself.
+
+"No. And he said that he can't actually do it himself, but he knows someone who can. And that if I want it done some time in the future... I should meet him in the Spire."
+
+"Maybe you two should, uh, explain everything to me first. I feel a little confused here," Devon said sheepishly.
+
+"When?" I asked, ignoring Devon.
+
+"He just said 'sooner rather than later'."
+
+"Are you going?"
+
+"I'm not sure," Ambrose sighed. "So I figured I'd talk to you guys and think it over a bit."
+
+"But... but even if you wanted to, could you? I mean, you're bound, aren't you?"
+
+"I think I could. Because of you."
+
+"Me?" I stared at him in surprise.
+
+"The ensorcelment. It's given me... a bit of room to maneuver."
+
+"Can I get an explanation, maybe, so that talking to me or near me won't be more useless than it already is?" Devon cut in, sounding annoyed.
+
+"Sorry, Dev," I said, shaking my head. "It's... a lot of stuff to process. Alright, here's where things stand..."
+
+We started walking again as I talked about my sister's prophecy and how it led me here, then gave a condensed account of what had happened so far. Occasionally, Ambrose pitched in with his own perspective on the events. For a while, he even took up the narrative and explained how he had been led to do or say certain things by the prompting of Prophecy, most notably during his own Thaumaturgy classes.
+
+Our discussion lasted us the rest of the way back, and also took up some of the time we spent waiting for the twins. Jerric wasn't in the dorm after all, but he had left a note to indicate that he was studying alone and would still be back for dinner as usual. Ambrose warned against broaching the topic to the rest first until the three of us had more time to sift through all the information.
+
+There were plenty of opportunities for the night to go sideways, but it somehow never did. Devon kept everyone busy with dinner preparations, so even when the twins were back with their haul and Jerric drifted in later, the talk didn't stray anywhere near the issue of how Ambrose had landed in the infirmary in the first place.
+
+It did come up eventually, but only later when we were seated in front of a sumptuous spread. Kevan tried pressing Ambrose for information about what I had done to him, and he was backed up by Jerric and his brother. But Ambrose's light-hearted deflections were supported by Devon, so the conversation never turned to an outright confrontation. The good food put everyone in good spirits, and smoothed over what might have been a difficult conversation.
+
+I wondered if it was the Prophecy at work again, easing the friction at the table. Not being bound meant that some of these moments stood out as particularly unlikely to me, but somehow things fell into place. I kept quiet, allowing the prophetic links to tug and pull them together, afraid that any comment I made might tangle the threads. Being the only 'free' person at the table felt strangely limiting and disempowering.
+
+Later that night, I found it impossible to sleep. My watch told me that it was an hour past midnight, but I was still wide awake. There were too many questions running through my mind. What was the Demiurge playing at, getting me to ensorcel Kevan and giving him binding knowledge of the flavour-vein-echo of the woven-shackled-stream? How was that supposed to be helping the Empire? What did he want with Ambrose? What was the woven-shackled-stream in the first place? And why was there a knot-link-anchor for it?
+
+In my mind's eye, the massive dodecahedron the Demiurge had shown me rotated slowly, promising answers to at least some of my questions.
+
+Ambrose's deep breathing told me that he was fast asleep. I slipped out of bed as quietly as I could. Briefly, I wondered if I should wake him and bring him along... but it seemed best not to have him nearby for what I wanted to do if he was still not free of prophetic links.
+
+Moving stealthily, I changed into something warmer and eased myself out of the room. But just as I crossed the common space and got to the door, something shifted in the shadows. I froze.
+
+"Going somewhere?" Jerric asked quietly, rising from the couch where had been ensconced, almost invisible in the darkness.
+
+Inwardly, I cursed. Was this Prophetic maneuvering again? But if I was free of its links, how would it know what I intended? Why would it try to stop me? Or was this just actual, ordinary, natural coincidence?
+
+"Yeah," I replied, trying to sound casual. I squinted at him through the darkness. He was fully-dressed, too. "What about you?"
+
+"Same. Where are you going?"
+
+As much as I wanted to extract myself from this situation, I found myself becoming extremely curious. Jerric's growing reticence over the past few weeks had been quite odd, and now there seemed to be a perfect opportunity for me to find out more about this change. "Swap you an answer for an answer," I said, injecting some levity into my voice.
+
+He drew closer, his eyes glinting slightly in the faint light coming in through the window. I sucked in a breath and stepped back, but he merely passed me by and opened the door quietly.
+
+"Talk as we walk?" he said, gesturing out the open door with his free hand.
+
+His behaviour was a little unnerving, but I decided to trust him a little. And if it came to it, I was confident enough about being able to hold my own against him, at least for long enough to make a quick escape. I felt a small pang of sadness at that thought — all this business with the Prophecy was making me paranoid, and it felt horrible to think the worst about someone who I had started to think of as a friend.
+
+"So," Jerric said, still keeping his voice low as we stepped out into the cold night, "you first. Where are you headed?"
+
+"The Spire," I answered truthfully. We set off down the path, where globe lights held back the darkness.
+
+He gave me a look of surprise but shrugged it off. "Your turn. I guess you want to know where I'm headed?"
+
+I nodded, and he let out a slow breath. "The lake."
+
+"At this time of the night?" I blurted, incredulous.
+
+"Right back at you, Caden," he said, shooting me a wry look.
+
+"Yeah... good point. Well, your turn."
+
+"Why are you going to the Spire?"
+
+I hesitated. "I want to check out something inside it."
+
+"You've got access?" he asked, his voice sharp.
+
+"It's supposed to be my turn. But, uh, strictly speaking, no."
+
+"You're trying to break into the Spire?" He shook his head. "Nevermind. What's your question?"
+
+"The lake? Why?"
+
+He looked like he was wrestling with himself for a moment. "I've been going there at least once a week at night. Sometimes a couple of nights. Ever since Kevan first ensorcelled us and made us... you know."
+
+"Yeah, I know," I said quietly.
+
+"That was my first night at the lake. I... I went in."
+
+"Jerric..." I stopped. He went on for a few more steps, then turned to face me, his face inscrutable.
+
+"Well, something stopped me. And since then I've been going back."
+
+"To... to try again?" I asked, helplessly.
+
+He sighed, shoving his hands deep into his pockets. "At first, yes. But not anymore. I've been going back to try and figure out what's stopping me."
+
+"Jerric, you... it's good that something's stopping you. That's... not a bad thing. Maybe you should talk to us. You can talk to me. I mean—"
+
+"No, you don't get it," he said, sounding irritated even as he looked a little embarrassed. "Something stopped me. As in, something. I wasn't... I wasn't having second thoughts. I meant to go through with it. But I've literally been stopped. Three times. I mean, I didn't even bother with a coat back then, because I... I wasn't coming back." He thumbed the coat he had wrapped around himself now. "Got my coat now, so..."
+
+I didn't know whether to feel relieved or even more devastated on his behalf. A knot of anger was flaring within me, because it was Kevan's ensorcelment that had pushed Jerric this far. And what kind of life did Jerric have, if that ensorcelment was enough to lead him down this path? But at least now, he wasn't fixed on that conclusion any more, through some miraculous, unknown intervention.
+
+"So, yeah." He shifted uncomfortably, blinking rapidly. "Now you know."
+
+I drew closer and put a hand on his shoulder. "Look, I... I don't even know where to start, or what I can say. And I know I'm probably not the first guy you wanna talk to, what with all the weird stuff, and me being so cagey. But... we're friends, and if you need anything, I will do my best to help."
+
+Jerric hung his head and nodded, not meeting my eyes. I withdrew my hand and gave him a little space. After a moment, he looked up at me and cleared his throat. "So, you interested? Honestly, I wanted to tell you earlier because it's the kind of arcanophanic puzzle I thought you'd like, but... I didn't know how to tell you how I stumbled across it."
+
+Behind him, the Spire loomed, once again transfigured by the night into a brooding shadow against the stars. What was more important, right now?
+
+"Yeah," I said, smiling a little as I looked back at him. "Spire's not going anywhere. And I think we both could use the company."

@@ -1,0 +1,157 @@
+---
+id: 71f42c2a-3f7d-5c0e-9979-7981793efe18
+page-type-slug: story-chapter-royal-road
+title: "v6c43: A Bird in Hand"
+slug: 0232-v6c43-a-bird-in-hand
+partOf: beware-of-chicken
+position: 232
+ownLength: 1955
+unit: words
+ownProgress: 1955
+publishedAt: 2025-07-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2417909/v6c43-a-bird-in-hand"
+royalRoadId: "2417909"
+markedReadAt: "2026-06-29T18:59:20.730Z"
+---
+
+Biyu’s breath came out in great gasping pants. Her legs pumped as hard as she could make them. She had mistakenly thought that now she was a cultivator, running to Pale Moon Lake would be relatively easy.
+
+Biyu had been very, very wrong. It turned out cultivation didn’t make running for hundreds of Li that much easier, especially when the only thing she had going for her was Qi. An Initiate needed a strong body. And while Biyu had been strong enough to haul around decently-sized chunks of crystal and could walk the streets of Pale Moon Lake without getting tired, she didn’t exactly run a lot.
+
+Which she had spent this past week mostly spent doing. Running. Running through the snow. Running through the cold. Running for hours.
+
+It had even been fun for the first fifteen minutes, before she realised she was in for over a week of this.
+
+Well! It was something that needed to be done if she wanted to travel with Yun Ren in the future! Sure it kind of really sucked, but she was sure it would get better!
+
+…maybe.
+
+It said a lot that this was still better than riding in the cart. She got to see the world, the cold wasn’t quite so bad, and it was really neat that her body could do all this… mostly.
+
+“You doin’ okay?” Yun Ren asked her. He didn’t sound out of breath at all! None of them were out of breath! Even little Torrent Rider showed no signs of being tired, and he would even occasionally shoot off ahead with Shaggy Two or disappear into the trees only to pop out later to ‘report’ to Tigu about the path they were using.
+
+It was very annoying being the weak link, Biyu decided.
+
+Part of her was almost stubborn enough to lie… but she knew she would get scolded by everyone if she did.
+
+“I’m… going to… need a break… soon…” she panted out.
+
+Of course, that's when her legs decided to betray her and she stumbled, only for Yun Ren to catch her and pick her up, transferring her in one smooth movement to his back.
+
+“You good like this for a bit?” he asked her. Biyu didn’t say anything, simply pressing her face into the back of his neck and grumbling while she tried to breathe.
+
+…she had been carried a lot of the way so far. Hells, the others had offered to carry her too if she ever got tired. She had at least been able to avoid that.
+
+“Don’t curl in like that, Biyu. Back straight, deep breaths. You’ll recover faster,” came the stern, but not unkind voice of Tie Delun. The man was normally pretty quiet, the tacturn sort, but Biyu had figured out that was just his way. He didn’t talk much, but that was because he was looking out for people.
+
+Biyu did as she was told, forcefully straightening her spine and taking deep breaths. She knew the importance of breathing to keep one’s hands steady, but this was… well, it was harder than that.
+
+“You’re doing very well, Sister-In-Law!” came the booming voice of Xianghua, a bright smile on her face.
+
+“I’m impressed,” Gou Ren said, nodding to her. “You should have seen what Jin made us do  when we first ignited!”
+
+“Indeed, Biyu is doing very well, despite the recency of her ignition,” a third, smooth voice chimed in. Bi De dropped from the tree branches above to keep pace with them, a pleased sound in his voice.
+
+‘Her muscles are developing nicely as well,’ Ri Zu the rat added.
+
+While Biyu was headed south to talk with her boss and parents, Gou, Bi De, and Ri Zu had come with them to see the Azure Alliance and how things had developed at the Dueling Peaks since their last visit.
+
+“I can't wait until the spring. I want to see what you all have built, for it sounds beautiful. We have some time before we head to the Shrouded Mountain, and if that takes too long I don’t want to miss it when our Master sees it!” the rooster had declared.
+
+Tigu and Yin had puffed their chests out with pride and started boasting.
+
+The rest had stayed at Fa Ram with promises to travel south some time after they finished planting the crops in spring, and presumably after Gou Ren and Xianghua’s wedding.
+
+Which might also be Biyu’s wedding. The thought made her cheeks flush. They would be heading to the north shore of Pale Moon Lake first, then to the city, then to the Dueling Peaks.
+
+Their ground-devouring pace continued onwards for a few more hours. After she was feeling well enough, Biyu hopped off Yun Ren’s back and started running with them again.
+
+Her legs were very sore at the end of the day, but with Ri Zu’s help they felt better in no time… even if a lot of the pain did remain.
+
+=====================================
+
+Biyu’s mother and father lived on the northern shores of Pale Moon Lake these days, in a small manor house that transitioned near seamlessly to docks that normally held their small fleet of cargo vessels. Her parents typically visited her. Biyu had to admit it was beautiful, even more so than when she last visited—it had still been under construction then. It was surrounded by pine trees and walled-in with a traditional courtyard. Father had always wanted an actual house like this, and she was glad he had made it. It was a far cry from the memories of her youth, with Biyu and her mother stacked up in a cramped, drafty shack. But his hard work had paid off. He had eventually acquired his own ship, which turned into his own shipping company, and gotten his daughter a secure future with Mengde’s.
+
+As they approached, Biyu could see the men hard at work, using sleds to take things to the pontoons further out. The lake itself rarely completely froze over, it was much too big for that, but the edges froze to the bottom. Still, cargo had places to be, so they kept working.
+
+Gou Ren whistled. “Man, this is a nice place!” he exclaimed, his eyes on the architecture. “Very traditional… but look, see that bulge, and the chimney? It's got trenches dug beneath the floors, and a hearth in there to keep them heated. Smart.”
+
+Biyu chuckled at the approval in his voice, while trying to hide her own nervousness as they got closer to the manor.
+
+Most of their group excused themselves, heading to the town that was nearby, leaving only Biyu and Yun Ren at the door to the manor.
+
+Biyu took a deep breath.
+
+“You ready?” she asked.
+
+Yun Ren nodded. Surprisingly, he didn’t look nervous. Just determined.
+
+…it was a rather nice look.
+
+Biyu knocked twice on the door. Soon enough they were met by a servant (which was still a little strange to think about) whose eyes widened when she saw Biyu’s hair.
+
+“My lady—ah, wait, the Young Miss!” she said, bowing. “Please, come in! Master! Mistress! It's the Young Miss!”
+
+“Biyu?!” twin voices shouted, and feet started pounding onto the wooden floorboards.
+
+Well, this was it, Biyu thought, while taking off her coat and boots. Oh, the floors are heated!
+
+It was indeed very nice.
+
+“Biyu!” her mother chirped, skidding around the corner. And then Biyu’s face was filled with fluffy hair.
+
+=====================
+
+After her mother and father hugged her and welcomed her home, Biyu and Yun Ren found themselves sitting across from her parents. Both of them were currently eyeing up Yun Ren… or at least her father was. Biyu couldn’t actually see her mother’s eyes under her fluffy hair. She was a small, slim woman, a seamstress by trade. Biyu had many fond memories of her mother’s steady hands.
+
+Her father on the other hand had sat up straight. He was barely taller than Biyu herself, but had a barrel chest and big eyes, normally sparkling with happiness. He said it was his boyish charm, and that his eyes were so big so people could see his honesty. Right now, though, they were like a raptor’s, focused and attentive.They had crow’s feet around them, and his skin was weatherbeaten from decades on ships.
+
+“And who is your… friend, Biyu?” he asked. “Is he your only travelling companion?”
+
+“My name is Xong Yun Ren, sir,” Yun said politely. Biyu saw her mother perk up, looking interested, while her father’s frown deepened slightly. “We travelled in this direction with my brother, his betrothed, and several of our other friends and family. They’re in the town nearby, because arriving with so many people unannounced is rude, even if you could obviously receive them.”
+
+That got her father to nod, and a small smile twitched the corner of his mouth. Yun Ren had hit the mark. Her father was very proud of what he had managed to build.
+
+“Yun Ren... my daughter and my good friend Jing of Mengde’s Crystal Emporium speak very highly of a man with that name,” he mused. “So what are your intentions toward my daughter?”
+
+“To ask for your daughter’s hand in marriage, and invite you to the northern Azure Hills in spring,” Yun Ren declared boldly, bowing before Biyu’s father. Biyu’s mother let out a happy gasp.
+
+“The first time we meet, and those are the first words out of your mouth?” her father asked, his eyes narrowing.
+
+“Yes,” Yun Ren stated calmly.
+
+“Decisive… I like it!” her father declared. “The answer is yes.”
+
+Biyu blinked. Yun Ren rose too, looking slightly stunned.
+
+“Ah…? huh?” he asked, shocked at the easy acceptance.
+
+“Son, you’re a cultivator. That you’re actually asking me speaks well of your intentions and your honour. You can afford to visit Mengde’s and buy crystals, which speaks well of your finances and your ability to take care of my daughter. The guards of Pale Moon Lake City know you by name as ‘the weird cultivator who treats them with respect.’ Jing speaks glowingly, that you are the one who first purchased Biyu’s crystals, and you are on the Azure Jade Trading Company’s list of preferred customers. You were seen coming into the town in the company of the Azure Heroes,” Biyu’s father rattled off calmly, Yun Ren’s eyes widening at each fact. “Finally… Biyu couldn’t stop gushing about you. Her mother would sew needles into all of my clothes if I said no.”
+
+“I would, I would,” her mother chirped happily. Biyu giggled. Her father had done his research, as expected of him!
+
+Yun Ren was speechless for a moment. “Father, you’re very skilled,” he finally managed to say.
+
+“A trader has to keep his ear to the ground,” her father said with a smirk. “I shall send for your companions, and we shall have a toast!”
+
+“Yes! I need to meet Tigu as well; I need to see if the dolls do her justice!” her mother said.
+
+“They don’t at all! Well, most don’t, but mine do, just a little,” Biyu said, getting into the conversation. Her head felt all nice and bubbly, and she needed a bit of a distraction.
+
+“Before we get into that, though, is there any other news?” her father asked.
+
+Biyu paused, thinking. Then she remembered.
+
+“Oh, yeah, I’m a cultivator now too!” she said with a smile.
+
+Her father’s eyes went very, very wide, and her mother’s hair poofed out even more.
+
+“Hu?” her mother asked.
+
+=================
+
+After the shock wore off, they had a fun night catching up with her parents.
+
+The morning saw Biyu tied up and bouncing along on Yun Ren’s shoulder.
+
+Getting kidnapped was pretty fun.

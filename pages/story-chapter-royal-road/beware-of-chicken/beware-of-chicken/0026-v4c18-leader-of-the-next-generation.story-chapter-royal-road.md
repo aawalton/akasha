@@ -1,0 +1,159 @@
+---
+id: 99b3644a-582b-57c2-9789-f313945a811d
+page-type-slug: story-chapter-royal-road
+title: "v4c18: Leader of the Next Generation"
+slug: 0026-v4c18-leader-of-the-next-generation
+partOf: beware-of-chicken
+position: 26
+ownLength: 2192
+unit: words
+ownProgress: 2192
+publishedAt: 2023-06-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1257104/v4c18-leader-of-the-next-generation"
+royalRoadId: "1257104"
+markedReadAt: "2026-06-29T18:52:13.592Z"
+---
+
+Xi Kong’s mind was still whirling as they retired from the meeting room.
+
+They had seen only enough of the crystal to confirm its contents, yet even those moments had been heady. To see the past, the full glory of the Ancients, had been something he never thought he would witness again after that brief moment in the Dueling Peaks where he had seen a woman that looked like Xiulan in an ancient artifact.
+
+Now, they had a name for her, Honoured Ancestor Ruolan. The progenitor of their line, the creator of their style of cultivation. The woman had oozed bewitching elegance and sublime charisma…
+
+And she could have been Xiulan’s sister. Their bloodline had bred true, save for the fact that his daughter was slightly taller.
+
+To think, after all these years… they would be able to see the basis of their own style. It was truly a momentous day, in all regards.
+
+There were, however, formalities to consider. Xi Kong knew that they had been slightly unorthodox, with them immediately going into seclusion so that Xiulan could speak with them—it was even disrespectful, considering that they were playing host to a fellow Sectmaster.
+
+“Thank you for allowing our… emergency meeting, Sectmaster Liu. We meant no disrespect,” Xi Kong said to the new leader of their ally as they waited for the feast to be served. The hall was already packed with their disciples and while Xi Kong’s Elders were present, it was known from the furrows of their brows that they were not entirely present.
+
+“Xianghua is fine, Sectmaster Cai! This one knows all about emergency meetings, and I look forward to continuing our Sects' close relationship!” the young woman replied from her place of honour on Xi Kong’s right.
+
+It was strange to think of her as the Master of the Misty Lake Sect—he had just gotten used to Bingwen after all, but Xianghua wore the mantle well. She was not cowed or nervous in the slightest, even sitting with men and women decades her senior. Power came off her like the mist off a lake, ever-present, yet not oppressive even now that she had stopped holding back. She attracted many glances from the Verdant Blade’s disciples… though not entirely for her power. She was clad in the designs of the Tribes, all but shouting at the top of her lungs her attachment to one of Master Jin’s apprentices—Gou Ren, he believed the lad’s name was.
+
+Liu Xianghua’s boldness hadn’t faded at all. Well, she would certainly keep Xi Kong on his toes. He also knew that their close relationship all depended on how much they supported Xiulan.
+
+His daughter was truly blessed to have such fine comrades.
+
+“I hope you shall return the favour, Xianghua,” he replied, and the woman flashed him a smile.
+
+Xi Kong turned his attention to their other guests. They all seemed in good spirits as they spoke with the Petals, their most promising disciples in generations. He looked at them all, feeling their power, and took a deep breath.
+
+Things would certainly be changing quickly from now on.
+
+Soon after there was the gong from the kitchens, signaling the start of dinner. The cooks had been preparing since Bolin had noticed Xiulan's return yesterday, pulling out all the stops to welcome their Young Mistress back home. The air was heady with the scent of meat and spices.
+
+Xi Kong rose to his feet and began to speak. “Today, we shall have three toasts. First, we welcome Sectmaster Liu Xianghua from one of our finest allies, the Misty Lake Sect!”
+
+“We pay our respects to the Sectmaster!” the disciples and servants chorused, and Xi Kong nodded approvingly.
+
+“Next we welcome back our daughter, who had gone to heal herself from the damage she had sustained during the Dueling Peaks Tournament. Today, she returns to us, more powerful than when she had left!”
+
+Instead of formality, this time there were cheers and whistles as Xiulan looked on, mildly amused.
+
+“And finally, we welcome our honoured guests. Please, partake of our hospitality—you shall want for nothing so long as you are within our walls.”
+
+Rou Tigu, Tie Delun, Rags, Loud Boy, and the two new ones, Yin and Zhang Fei, all looked around and nodded back to the warm welcome.
+
+The feast began—there was music from the servants, and a few of the disciples had agreed to a bout as some entertainment. The mood was light as they ate, though Xi Kong noticed his daughter looking slightly confused at the dessert selection. There was a rather obvious item missing.
+
+Xi Kong kept his face neutral, and instead watched as the disciples sparred with each other. Eventually, Tigu shot to her feet and had a bout with An Ran, trading pointers with the woman.
+
+The wild-looking girl was a surprisingly good teacher.
+
+But aside from some small talk with Xianghua… he was waiting. Waiting for the end of dinner, and to be able to go back into his room.
+
+=====================================
+
+The feast ended, and all of them retired for the night. Well, most of them. An hour past when the servants dimmed all the light crystals and lamps, Xiulan found herself outside her father’s room. She knocked on the door, and her father opened it with a small smile on his face.
+
+“May I sit with you a while, father?” Xiulan asked.
+
+“Of course, Xiu’er,” Her father replied, and opened his door the rest of the way. In doing so he revealed the missing dessert—lotus paste mooncakes. Both of their favourite.
+
+It's been a while since we’ve done this, Xiulan thought to herself. She settled onto a cushion beside his low table as her father went to ignite some sandalwood.
+
+The last time he had invited her to his quarters like this had been eleven years ago now. A week after her mother had left to return to her cultivation journey. They’d sat together, eating mooncakes, like they used to do with her mother… but it hadn’t been the same. There had been a void between them.
+
+After that… Xiulan had thrown herself into her cultivation. And the pleasant nights of talking until Xiulan fell asleep were over.
+
+Her father settled behind her, and she felt something start to ghost through her hair. Her old comb. It was too small now.
+
+“Tell me everything you need to, daughter,” her father murmured, his rich voice filling her ears and the sandalwood filling her nose.
+
+For the first time in a long time… they were just father and daughter once more.
+
+So Xiulan started to talk. She told him of her time recovering. She told him about Jin and Meiling’s child, and of the fact that she was his greatest aunt. Her father snorted with amusement when she said how Xiaode preferred Xiulan’s hair to all others. She spoke of her journey, and how it was leading her group.
+
+She spoke og Green Grass Valley. “I’m glad that everyone is taken care of. It pains me to see the people without their fathers and sons… but many have learned to smile again, even after what happened.”
+
+“To protect Mortals is a virtue. They gave their lives to us, and it is only natural that we honour that debt,” her father said simply.
+
+They lapsed into silence as the comb stopped.
+
+Finally, Xiulan spoke what was actually on her mind.
+
+“Thank you for supporting me, Father,” she whispered.
+
+“One of the last things I said to Master Jin… was that I entrusted him with you,” her father said after a moment of silence. “He had aided you so much, and… you were so happy in his presence. It was the only thing I could think to say, but he shamed me. What he said instead was that I should entrust you with yourself.”
+
+Xiulan felt her cheeks heat up. It was quite the Jin thing to say—she could almost imagine the utter confidence in his words as he told her father that he believed in her.
+
+“He humbled me. He could see what I was too blind to notice—see what I could not, as focused as I was on how I could fix things. How I could fix you through him. It was utterly unworthy of me; you were indeed capable, beyond my wildest dreams and expectations.”
+
+“Father…”
+
+“I can see in you the spark of something greater. You have thought this path through until the end—and you will follow it. You shall drag this province into your vision. This, I know, with all my heart.”
+
+“…thank you, father. I will do my best not to disappoint you.”
+
+“I do not believe I have to fear disappointment, daughter. Now… tomorrow, when you show the Elders your might? I want to see how far you’ve truly come.”
+
+She turned to see her father’s soft smile and bowed her head to hide the tears glimmering in her eyes.
+
+Her father believed in her. Jin believed in her. All of her comrades believed in her.
+
+Xiulan smiled. Their Honoured Ancestor was a dancer. If the Elders wanted to see a show, then they would receive the performance of a lifetime.
+
+=================================
+
+[Verdant Blade Sword Arts: Razor Grass Forest!]
+
+Cai Xi Kong kept his face passive as he stared at the combatants before him. Elder Yi was in fine form. His thirty-two Blades of Grass were verdant and sharper than the sharpest mortal steel.
+
+The disciples were all gasping at what was happening in front of them on the Grand Arena, the wooden exhibition stage in the heart of the main building. Xi Kong could not fault them for it. It was their first time seeing an Elder go all out.
+
+To fight against a Master of the Verdant Blade was to fight against an army, as the flying swords struck from every conceivable angle. It was an Art that commanded the highest of masteries—one that nearly necessitated rigid form and pre-planned attacks and movements to decrease the strain it put on the user’s mind. Only once those rigid forms were mastered could one break away from them and perform movements outside their scope, but the bulk of combat was done with them.
+
+Elder Yi had studied their arts all his life. Each movement was that of a warrior born: brutal, sharp, and effective. Xi Kong knew his sworn brother could scythe through thousands of mortals or Initiates like a farmer reaping his crop. He could hold off and whittle down some of the strongest Elders in these Hills, or trap even the most wily of enemies in a series of brutally efficient feints.
+
+Elder Yi looked like a boy trying to land strikes on his father.
+
+[Five Stalks Reaching Towards Heaven!]
+
+An attack that even Xi Kong had to be wary of—his daughter slid past it as though she had told Yi how to use it, had choreographed every motion.
+
+Xiulan’s left sword had split down the center and opened like a lotus, exposing pure white panels, filled in with cracks of gold. Some of her sixty-four floating blades had fused, twisting together. They wove for her a banner. A banner that held the character for Azure.
+
+His daughter looked for all the world like a hero from a traditional opera, bearing the flag of the province.
+
+Her Arts—their Arts, as Xiulan was performing them—had none of the rigidity that showed in even Elder Yi’s forms. She flowed. Each movement looked like it was the easiest, most natural motion she could have taken. It looked like she was simply walking through every strike without hesitation, her clothes fluttering in her wake and her swords only adding to her almost careless looking steps.
+
+It was impossible not to get drawn into her movements. Every watching disciple could likely feel it. The primal beat that demanded they submit to Xiulan’s lead—to bow their heads and play their part in Xiulan’s tale.
+
+Many cultivators were domineering and tyrannical. Still others imparted dread.
+
+His daughter captivated all who witnessed her, mesmerizing them with a harmony of Silk and Steel.
+
+Elder Yi’s harsh glare had faded. His burning desire to test Xiulan had fallen to the wayside as Xiulan simply danced past all of his clever traps. With her fan and her sword she looked almost gentle as she deflected the questing blades. They ricocheted off her defense and slammed into more of Yi’s swords, forcing them out of position. They then clashed with Xiulan’s own floating blades, which in turn intercepted more of Yi’s in a rising crescendo that sounded more like the thunder of rolling drums.
+
+This was their birthright. This is what their Honoured Ancestor had made.
+
+Xiulan’s fan flashed once, and each and every copied blade shattered, twisting and turning like flower petals falling to earth. Yi barely seemed to notice as Xiulan’s blade tickled his throat.
+
+What could any of them do but cheer as Yi fell to his knees?
+
+Xi Kong’s eyes were filled with tears at the beauty he had just witnessed.
+
+So were Elder Yi’s, when at last he raised his face to the sky and to their Sect’s future.

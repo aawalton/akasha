@@ -1,0 +1,193 @@
+---
+id: 25adf82e-0bf5-541c-afe0-913479f18717
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 8 - Embracing the Arts I"
+slug: 0065-book-5-chapter-8-embracing-the-arts-i
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 65
+ownLength: 3923
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3228586/book-5-chapter-8-embracing-the-arts-i"
+royalRoadId: "3228586"
+---
+
+Ranthia had a lot to learn and just as much adjusting to do. Even aside from her own recently discovered ineptitude at conversing with people she wasn’t already acquainted with, elven society was undeniably different than what she’d known in Remus. Her assumptions and expectations were leading her astray more often than they were helping. For example, contrary to all appearances and expectations, the incredibly tall woman wasn’t actually in charge of the Hunters.
+
+She just ran the tavern. And yet…
+
+“There’s no formal ‘joining up’, so you can drop the damned theatrics. You just get out there and hunt and maybe buy a drink or ten to celebrate. But I’m not going to show you the standing bounties unless I’m damned sure you can actually handle yourself, so come back once you’re well rested and settled in. I’ll test you myself.
+
+“Oh, and don’t you dare just show up tomorrow and expect to be ready. If you’re that fucking stupid, I’ll fold you in half—whichever way you aren’t supposed to bend—and throw you out. That’s a promise. A single night doesn’t completely bring someone back to full strength after a long journey!”
+
+Ranthia continued to proverbially chew on the impressive woman’s words as she followed the crowds to the city’s dinner service. The food was (somehow) free, and allegedly almost everyone in town showed up at some point during the four hours it was available—with breakfast and lunch working much the same. There were even three separate areas serving food, to keep things from getting too crowded. She just had to queue up for a minute or so before she was handed a plate by one of the elves running the meal service.
+
+“So weird.” Ranthia subvocalized her thought as she glanced around at the crowded tables with elves crammed happily together on the benches as they laughed, socialized, and ate.
+
+“Nah, this is pretty typical fare here. It’s just rice, venison, and some local vegetables. You put it in a pan with lots of mushroom-y sauce and toss it over high heat until it comes out perfect. Here, just try some, you’ll never find it weird once you’re hooked!” A bright-eyed (literally, Brillance-aspected eyes) elf wearing only a pair of tight-fitting trousers slipped into her personal space with a crystalline spoon full of the aromatic food threatening to menace her lips.
+
+Right, elves. She’d grown to hate how much she overheard in most cities, but elves had far keener hearing than she did—at least until her [Companion Bond] Skill leveled more.
+
+“Why is everyone flirting with me?” She hadn’t exactly meant to say that, but the grumble still slipped out as Ranthia ducked away from the elf and his wayward spoon. She had her own serving for Xaoc’s sake!
+
+“Eh, two reasons. For one, you’re new. Everyone new tends to be pretty popular—new bodies to explore and everyone wants to be the first to do it, y’know? But you, you’re exotic. You’re not an elf, yet you’re far from ugly; and you do have a certain… grace about you that feels just familiar enough to be intriguing. So yeah, honestly, I’d love to find out what it’s like to have sex with you.” He replied with a winsome smile.
+
+“Uh, no thanks.” Ranthia eyed the man warily. She hadn’t exactly expected a response to her gripe, but even if he’d been remarkably candid… well, for starters, he was still a man—which, no—but even beyond that Ranthia was kind of repulsed by how impersonal it was. He’d basically just told her that he was interested because he wanted to be among the first to have her!
+
+“Are you sure? I’m ranked ninety-sixth in sexual experience.” Everything about his expression, posture, and tone seemed completely confident that she would be very impressed by the boast.
+
+…Wait.
+
+“And are you soliciting me because of actual interest in me, or is it just to help you climb the ranks?” Ranthia asked in as saccharine a tone as she could manage.
+
+“Er, well, I did say there were two reasons…!” The elf backpedaled his words, even as he took a few steps back from her.
+
+Oh good, that tone transcended borders.
+
+Honestly, it wasn’t even that long ago that being flirted with by so many elves would have left her utterly overwhelmed. For all her complaints about being treated like an object, she didn’t exactly have much room to talk about being shallow—it wasn’t as if many of the women she’d bedded (bed not necessarily required) were chosen for much more than raw attraction. And she still found most elves to be absolutely gorgeous; even some of the men managed to give her pause despite her clear-cut preferences!
+
+But her heart was the property of one Avyna—and she was still trying desperately not to dwell on her crushing disappointment that she’d been the first to arrive. She would have traded much to explore the city arm-in-arm with the woman she loved. She just wasn’t in the mood to deal with horny bullshit.
+
+“Don’t judge him too harshly; I swear my brother didn’t mean to offend! He just thinks with his penis and has a terrible habit of saying exactly what he’s thinking without considering how it might sound.” Another elf stepped hurriedly between them, her arms spread.
+
+Much like her brother, she was wearing a pair of tight-fitting trousers—green, in her case—and was similarly bare-chested, though her upper body was covered in elaborately detailed paint. Which did nothing to hide anything, of course, but it made Ranthia feel less self-conscious about the look she took.
+
+“It’s… fine.” Ranthia’s apparent hypocrisy had taken a bit of the bluster out of her sails (damnit Ocean; she was never going to get nautical terms out of her head, was she?). “I need to get home anyway once I find where to get an apple or something.”
+
+“Oh, you can just grab whatever from one of the fruit trees.” A different elf from somewhere behind Ranthia called out.
+
+“…Really?” Ranthia chose to put her question to the woman she was still facing.
+
+“Yup. The trees are always growing new fruit thanks to some of the Auras around. Feel free to grab whatever whenever.” She confirmed, before turning to usher her brother back to the bench from which they came.
+
+“So long as you aren’t like, trying to pick every last fruit off a tree to sell or something, you’re good. Heck, even picking the tree bare is fine, if you’re actually using it and don’t do it too often.” An entirely different elf chimed in from two tables over.
+
+Seriously, Ranthia had a deep appreciation for how friendly and helpful everyone seemed to be. But it was also exhausting to have any question answered by multiple people across a wide area!
+
+That said, she really needed to learn the trick behind how they directed their voice so that she knew when they were speaking to her, even from afar. It was subtle, but it seemed useful as conversational distances grew increasingly arbitrary. Still, that was a matter for another time.
+
+For the moment, Ranthia caught the apple that an elf had grabbed off a tree with her hair—don’t question it—and nodded her thanks before she hurried to her room before her food got too cold.
+
+Not that it was cooling. Gods forbid anything worked like it should in elven society.
+
+“That’s all the apple you’re getting for today!” Ranthia found herself struggling against an implacable adversary.
+
+No matter how she explained, denied, or tried to distract Clover, the beady eyes demanded more apple. The rabbit had even tried to teleport—twice—to steal the rest from Ranthia’s grasp. But the animal [Healer] had advised sticking with just a small slice of fruit once a day until Clover adjusted to her new food.
+
+But even if Clover had been a starving wild animal mere days ago, she was already turning into a spoiled glutton! As if cued by that thought, the rabbit stamped a foot irately.
+
+How Ranthia knew that it was intended as an act of anger was hard to explain. Their rapidly leveling [Companion Bond] Skill helped them understand one another a bit better, but it wasn’t magically going to let a human and a rabbit converse as equals. Honestly, it was hard to figure out what was insight from the Skill and what was conjecture.
+
+“Maybe I want to have some apple too?” Ranthia tried a new tack and took a bite from the remainder of the apple.
+
+Clover responded with an entirely new sound that Ranthia had never heard her rabbit make.
+
+“Are… are you growling at me?!”
+
+Clover ended up getting a second slice that evening.
+
+Which did nothing to diminish her demands for more once she finished it.
+
+Ranthia shifted into the image that was working the towel over the whimpering bunny with a sigh.
+
+“You’re the one that barged into my shower. This wasn’t my fault!” She complained while she tried to dry her wriggling Bond.
+
+The night had been rough, even after the apple debacle. She’d swept the hay out of her bed before she turned in for the night, but every time she rolled over because of the latest noise Clover made, she found herself getting jabbed by yet more hay. She finally gave up on sleep after waking up when the rabbit landed on her stomach with what had to be as much force as the bunny could muster, but even her shower had been denied to her.
+
+She’d known the adjustment period would be rough for both of them. Clover had been a wild animal, and Ranthia had never cared for anything less self-sufficient than a sick lover—at least back when she’d been with Hexara (Avyna hadn’t ever gotten sick). But as she squatted naked in her own bathroom as she tried to dry a bunny that seemed utterly convinced that Ranthia was actively murdering her…
+
+It was hard to believe that things would ever improve.
+
+“I’ll grab breakfast and spend some time this morning reading over everything—and maybe give you some time to sleep since you were up all night—then after I do some light exercise, maybe we can go out together later? Does that sound fun?” Ranthia asked the sweet bunny that was trying her best to bite through Ranthia’s hand with gentle, only mildly forced cheer.
+
+“Can you believe that the city’s founding documents require the basic needs of everyone here to be met? Food, education, housing, even healing for disease or serious injury—for free! And not just barely enough to survive either.” Ranthia shared her awe with a much less impressed bunny as they strolled (or hopped, in Clover’s case) down one of the colorful paths.
+
+Among the books and documents Ranthia had received to help her learn about elven law (she was never going to escape her least favorite Ranger Academy courses, was she?), how the City of Arts worked, and how to not get Clover killed, had been a solitary sheet of paper that listed a few sights around the town that were recommended. And Ranthia intended to hit every last one of them! After all, the [Healer] had recommended giving Clover the opportunity to figure out what she liked—what better way than to expose her to as much as Ranthia could manage?
+
+Ranthia was feeling a bit more confident after reading through the list of everything that was very unsafe for Clover to eat. She finally had a handle on what was good for the bunny and what was deadly, which meant the rest fell under what the [Healer] had described as “not great, but you won’t need to wake me if she eats a little of it.”
+
+Also, Clover seemed to like her again after she shared some of the greens from her morning salad. A salad wasn’t exactly what Ranthia would normally look for out of a first meal for the day, but it’d been surprisingly tasty with the berries and nuts—and it gave her leaves to share.
+
+Clover was barely paying any attention to Ranthia’s ramblings. Each time they passed someone on the street she tried to put Ranthia between herself and the stranger—but many elves moved fast enough that Clover was unable to move in time. Still, she wasn’t running away or acting distressed, she was just wary.
+
+And that was really impressive for her first true foray into civilization on her own four feet.
+
+The urge to give the bunny a treat every time it happened was strong, but down that path lay bad habits—or so the book Ranthia had started to read claimed. Don’t create the expectation of predictable treats, to do so is to create incentive for backsliding and the death of progress. Wise words. Probably.
+
+But soon enough, they arrived at their first stop. The Heart of Arts and Learning was—by the standards of structures aside from the tower and trees—a large, sprawling building that was seated approximately in the same ‘ring’ of the city as the Pavillions were. From the outside, it was a round wooden building that resembled the trunk from some great tree almost on the scale of the ones at the heart of the city.
+
+Clover hopped alongside her as they stepped off the road and onto the footpath that led to one of the building’s crystalline entrances. Ranthia held a door open and found herself inexplicably proud when Clover hopped through unprompted. The inside was refreshingly cool and it was dim enough that Ranthia’s eyes would have needed a moment to adjust if not for the effects of [Divine Eyes in the Void]. The path away from the door continued in a single direction, though Ranthia’s attention landed on a counter next to the door where an attentive elf with her blonde hair piled into an uneven bun sat.
+
+“Welcome to the Heart of Arts and Learning. Are you here for a lecture, or do you hope to take a journey through the expressions of hundreds of [Artisans]?” She asked with the crispness of someone that repeated the same phrase ad nauseum daily.
+
+“Hi, just here to explore. Is it okay if my Bond comes in?” Ranthia gestured to the rabbit that was sniffing at the air, inhaling the scents of old wood and Xaoc knew how many elves. She had, of course, packed supplies into her belt to clean up after Clover if she left any ‘presents’ laying around.
+
+“Of course! Man or woman, goblin or rabbit, all are welcome to partake of the arts. I have maps available, but I recommend just following the paths that your feet take you. There are multiple exits and it is unusual for anyone to be lost within for an uncomfortable length of time.” The elf answered with the same smile she’d worn since Ranthia first opened the door.
+
+Once it was clear that their expected interactions were done, Ranthia nodded her thanks and stepped deeper into the building without a single bit of worry in her heart over the not-as-reassuring-as-the-woman-clearly-thought bit about people getting lost. Still, it wasn’t like she was going to let that stop her. She wasn’t super interested in most forms of expression, but it felt important to expose Clover to a variety of art.
+
+…It was also possible that she’d lost her grasp on her better sense at some point along her years on Pallos.
+
+The artwork was eclectic and spaced out like a conversation with Night and likely for the exact same purpose—to give people time to absorb and consider what they’d seen. The first painting that Ranthia witnessed (alongside a rabbit) bore an amazingly realistic apple surrounded by a strange, abstract background that felt somehow unsettling. Despite being painted using only three shades of orange!
+
+Some paintings were whimsical, others moody, and more than a few were unashamedly lewd. Before each, Ranthia stood next to Clover while they both stared until the bunny moved on. She had no idea if her Bond was even really looking at the art or if the rabbit was just mirroring her for brief periods of time—and she found herself seriously questioning her entire thought process more than once as they moved deeper within the building. The halls branched and shifted—though they were always curved, to prevent anyone from seeing too much of what was to come. It was easy to see how people could get lost within the halls, even without the distraction that the art provided.
+
+To the surprise of no one, the first sculpture they found was an erect phallus. Ranthia chose not to linger.
+
+By the time they found an exit, Clover seemed to be somewhat done with the whole affair. But Ranthia was proud of her—she never even tried to chew on anything! Together they grabbed lunch and ate in a nearby park, before Ranthia carried a drowsy bunny home and tried (and failed) to get Clover to climb into her new, soft bed.
+
+Instead, the bunny slept on a towel under Ranthia’s bed.
+
+“I’m just here for a drink and to relax, I swear.” Ranthia justified her presence to the scowl on the massive elf’s face.
+
+“Fine. Sit.” The woman half-snarled, before she turned back to the bottles and casks that lined her bar.
+
+It was still a bit early by her standards, but the Lodge was already moderately rowdy with a wide variety of Hunters in varying states of intoxication. Taverns were taverns wherever she went, it seemed. Aside from the tiny detail that people actually rushed to clean up after themselves if drinks spilled or food hit the floor—often accompanied by fearful glances toward the proprietor. That part was new.
+
+“Rare to see a crowd full of Adv—er, [Warriors], [Mages], and [Rangers] show so much deference to the owner.” Ranthia commented.
+
+Not that she was surprised. Not only was the woman an absurd spectacle of physical power, but she had the levels to match. [Warrior – Pyronox] level 2560, [Warrior – Lava] level 2560, [Warrior – Mountain] level 2560. There was probably a story about why she was staying at a class up point, but that wasn’t a second visit kind of query.
+
+“Mn, I’ve been here more than four hundred years. Long before any of these fools ever started up their inane little club. I never wasted an opportunity to make sure they knew respect; least not after I came to learn what happened if I tried to tolerate bullshit.” The elf gave a response before she set a crystalline cup down in front of Ranthia, full of dark liquid.
+
+“…Um?” It wasn’t like she’d ordered yet!
+
+“First drink’s on me, and don’t ask why I do that. I made a guess about what you’d like, and I’m rarely wrong.” She explained, before she walked to the side to hear another patron’s request.
+
+Ranthia shrugged and took an experimental sniff and sip. The drink was tart—delightfully so—with blackberry and spices. The burn of the alcohol was obvious on her tongue and down her throat, but there was surprisingly little trace of it in the well-balanced flavor of the drink.
+
+“Huh, you weren’t wrong. This is pretty damn good.” Ranthia called out her compliments.
+
+“Grand, it’s a medium emerald a cask, so I’ve been needing someone else here that’ll drink it to make it worth stocking.” The distracted reply came a few moments later, as she finished filling one mug and turned to the next.
+
+“What, been looking for a drinking buddy?” Why did she sound hopeful?! Gods and goddesses, there really should be a word for someone that was both inexplicably interesting and intensely intimidating.
+
+…Oh, wait, there was one in High Elvish.
+
+But seriously, Ranthia seldom found herself very interested in muscular women. She wasn’t even sure if she was genuinely attracted to the (thus far) nameless tavernkeeper or if it was just some sort of bizarre fascination at the sight of someone so far removed from Ranthia’s own sense of normalcy.
+
+That or she had a thing for women that could break her in half with their pinkie and just had never found an opportunity to discover it before then.
+
+…She probably shouldn’t explore those thoughts while seated at the woman’s bar, wearing nothing more than mistweave.
+
+“Fuck no, I don’t drink my own wares. It’s a different one of these idiots that likes that stuff—she isn’t here currently or I’d let you bother her.” The woman was at the other end of the bar, setting drinks on a serving tray, but it wasn’t like the place was noisy enough to make it hard to hear her. It was rowdy and had a great ambiance, but there was surprisingly little shouting.
+
+Ranthia took another sip of her fruity beverage while she studied the bar itself. There had to be a hundred and twenty-eight different bottles and little casks on the simple wooden shelves behind the bar, to say nothing of the tapped barrels that lurked beneath them. Though Ranthia’s eyes kept wandering further up.
+
+The previous night she’d assumed it to be a decorative bit of flair—as if there was any trace of such frivolity in the Lodge—but the more she looked, the more convinced she became that it was horribly real. A sword that was even longer than Ranthia was tall—and was almost as wide as she was, no less!
+
+The hilt was simple and bereft of any design beyond raw practicality, with worn leather wrapped around the grip and a solid lump of metal serving as the pommel. The blade itself couldn’t be seen, though the sheath seemed to be a seamless, single piece of impossibly massive bone that’d been carved to accept the blade. It was hard to imagine the weight of such a weapon, but bands of black iron with massive spike-like nails kept it firmly in place.
+
+“That’s Steel, and yes, she’s my real blade. I hung her up there as a promise and to keep myself from reaching for her every time someone pisses me off. Read between the lines all you want, or gossip with the rest of the fools—I’ve never told anyone more than that, and I hope to never have to.” The woman had her hand raised toward the blade, but she kept her arm lowered and stiff, even as she studied the shape of her hand imprinted into the leather after untold years together.
+
+Her voice was even more honest—there was no way to miss the longing in those words.
+
+Nor did Ranthia miss the note of apprehension.
+
+But everyone had their own past, and Ranthia knew better than to pry. They barely knew each other, and only time would allow her to earn enough trust to ask to hear a little more. Not that she had any idea what to expect from her future; until Avyna showed up and they discussed their plans, she was, more-or-less, just spinning her proverbial wheels.
+
+She had no idea how long she’d remain in the City of Arts; she just fully intended to enjoy however much time she had. She’d barely gotten a glimpse of the city, but she was undeniably fascinated—and not just with the pretty (and/or terrifying) women.
+
+Who knew—maybe by the time she finally reunited with Avyna, she’d finally truly understand how to be an immortal. Or, preferably, how to stand amongst her newfound peers as an equal instead of feeling like she was an outsider intruding on something greater than she could ever hope to be.
+
+Elves truly were unfair…

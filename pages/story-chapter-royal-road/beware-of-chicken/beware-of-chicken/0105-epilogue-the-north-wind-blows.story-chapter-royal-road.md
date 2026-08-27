@@ -1,0 +1,227 @@
+---
+id: 0138a2f1-239c-51d3-a0a0-949f4fc57a51
+page-type-slug: story-chapter-royal-road
+title: "Epilogue: The North Wind Blows"
+slug: 0105-epilogue-the-north-wind-blows
+partOf: beware-of-chicken
+position: 105
+ownLength: 3385
+unit: words
+ownProgress: 3385
+publishedAt: 2024-03-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1550977/epilogue-the-north-wind-blows"
+royalRoadId: "1550977"
+markedReadAt: "2026-06-29T18:55:05.681Z"
+---
+
+A freezing wind spoke from the north, cutting through the Dueling Peaks in the small hours of the morning. The world outside was hushed, a thin film of snow covering the frozen ground. Xiulan’s office mirrored the bleakness outside.
+
+There was no light nor warmth here. No flame lit the hearth, nor light emanated from candle flame or light stone. Missing too were the voices that would fill her office and the bustle of moving bodies. Today there was only the rattle of the wind and the soft sound of a brush ghosting over parchment.
+
+Xiulan was seated at her desk. It normally bore the weight of many stacks of neat, orderly, scrolls and papers. Now, it was nearly empty. Save for the single scroll upon which Xiulan wrote. .
+
+Finished writing she set aside her brush. Then she pulled out her seal and pressed it to the page. She took a moment to blow on the ink and ensure it was dry before she rolled the scroll up and sealed it.
+
+Her last task completed, Xiulan stood from her chair and walked to the door. Once she reached it she turned around and spared the room a final glance.She had actually become oddly fond of the room and its big desk over the months. She smiled, turned, and exited the room at last.
+
+“Everything all finished Grand Marshal?” Bao Wen askedfrom where he stood outside, and she nodded.
+
+“Yes. Please ensure this gets to Director Huizhong,” Xiulan replied, handing the young man the scroll.
+
+“It will be as you command Grand Marshal,” the young man said with a bow before he rose with a small smile. “We shall miss you greatly during the days you are away.”
+
+Xiulan chuckled. “I shan’t be gone long, Bao Wen. We still have more work to do… but everybody deserves a rest. Especially yourself.”
+
+Bao Wen coughed sheepishly. Xiulan had actually had to scold him for working too hard. He had been sleeping in his office, trying to keep up with the amount of hours cultivators could work. Bao Wen recovered swiftly from his embarrassment, however, and clasped his hands in the gesture of respect.
+
+“Then allow me to wish you a good Solstice and a wonderful New Year, Grand Marshal.”
+
+Xiulan’s smile softened and she collapsed her hands together as well. “You as well, Bao Wen. Have a wonderful Solstice and a happy New Year—with luck, I shall hear of a date for your wedding.”
+
+Bao Wen beamed.
+
+With that, they went their separate ways. Bao Wen, back to his duties. And Xiulan, out of the quiet mountain.
+
+The corridors of the Dueling Peaks were as empty as her office. Almost everybody had gone home to celebrate the Solstice and the New Year. There would be a few scouts and rangers who would remain, volunteers to watch over the wide reaches of the Hills over the break. None of them were expecting any trouble, but if something did arise… Well, then Xiulan and her dear friends would come to assist.
+
+And whatever caused a disturbance big enough to have Xiulan come running to confront it, interrupting her most important period of rest and relaxation, would perish.
+
+If Xiulan got to it first, of course. Tigu was getting extremely fast with her movement technique, and Xianghua at full steam was more like a superheated arrow than a human.
+
+Xiulan chuckled at the thought as she finally came out of the mountain into the cold air. The sky was slightly brighter now, with the coming sunrise, but it was still overcast and grey.
+
+Xiulan’s feet took her through the town. Over the new waterways that weren’t freezing, due to the subtle warmth of the channels beneath them. Past her own sect’s compound, where she had already wished her father and her students a wonderful break. An Ran was headed to Grass Sea City. Huyi was going to spend time with his family and “make sure that bastard is good enough for my cute little sister.” Xi Bu and Li were among those who had volunteered to stay and make sure nothing went wrong in their absence.
+
+Her father and the Elders would be in seclusion for the next few months as they finished digesting their memory crystal.
+
+Xiulan started humming to herself as her feet moved to that old beat. She danced alone, now. The normal slight pushback she felt from her “dancing partner” was absent.
+
+It might have been a cause for concern, normally, but Xiulan knew where her friend was.
+
+Half-remembered dreams of helping a good friend build a house for the winter tickled the back of her mind. As did the warm smile of the little girl as they tucked her in and kissed her good night.
+
+Tianlan’s smile was the one thing she did remember with full clarity; peaceful. Relaxed. Happy.
+
+It had put Xiulan in a good mood too.
+
+Soon enough, she came to the square. The first one she spotted was Tigu. Her bright red knitted hat immediately caught the eye… but it was more the fact that she was standing on top of a statue, her arms crossed, and pouting at the lack of sunlight.
+
+Her tan was already starting to fade a bit, and she was most cross with that predicament.
+
+Next, she spied Xianghua, learning against the statue. Xiulan raised an eyebrow at the red hat she also wore, with her headband firmly overtop it. Xianghua was talking with the Torrent Rider, the younger man having forgone his mask today to also wear a red knitted hat.
+
+In fact, all of her comrades were similarly dressed. From Delun to Loud Boy, to even Huo Ten and Shaggy Two.
+
+“Blade of Grass! Are you finally done?” Tigu demanded, shouting from the top of the statue.
+
+“Indeed I am. Are the rest of you ready to go?” Xiulan asked, and received nods and confirmations as the rest of their party started standing. “Excellent. With luck, we’ll make good time today—”
+
+“Hold on a second!” Tigu interrupted, hopping off the statue. “You’re improperly dressed!”
+
+Xiulan rolled her eyes even as she allowed Tigu to put a red hat over her head. Stepping back, hands on hip, Tigu looked her up and down before nodding decisively with a self-assured grin, one of her fangs poking over her lips,
+
+“Did you make this?” Xiulan asked.
+
+“Mm! Master said everybody needs a red winter To ke!”
+
+“Thank you, Tigu.” Xiulan said. “Now, am I permitted to go, Captain, as I am no longer violating any rules on the standards of dress?”
+
+“I shall allow it! Everybody, move out! We’re headed home!” Tigu shouted. But contrary to her booming voice, they began moving at a leisurely pace. Slow enough that Shaggy Two could bound alongside them, rather than have to be carried.
+
+Not all of them would be coming back to Fa Ram; Loud Boy and Rags would be breaking off soon to go back to their gang’s fortress, and Delun would be spending the Solstice with his family.
+
+But for now they travelled together, just like old times. They laughed and joked like they hadn’t in a while.
+
+The enormous task that they had put on their shoulders seemed to lessen with every step as they travelled north.
+
+=============================
+
+A rooster stared up at the heavens from where he sat at the entrance to an icy cave. It was mid-day, and yet the sun was still nowhere to be found. This far north, at this time of year, it never rose beyond the horizon. It was a land of perpetual darkness.
+
+But that did not mean that it was without its own wonders. The rooster’s eyes were locked on something he had never seen before; shifting colored light filled the dark sky. It danced and undulated like a living thing, while the stars shone their cold light from high above.
+
+“For being such an inhospitable place, it is quite beautiful,” a soft voice from beside him mused, and Bi De turned his gaze to Ri Zu, who was in human form. Her eyes were also locked on the “Aurora”.
+
+“Indeed, its beauty is something to behold,” Bi De replied. “But by your presence, I assume it is time to move on again?”
+
+Ri Zu nodded, and Bi De returned it.
+
+The demons had retreated very far into the Sea of Snow. In fact, they had discovered collapsed tunnels and the remains of some kind of formation that Master Shen Yu had said created flying swords nearly as large as his own and sped them down what looked like tracks in the icy walls.
+
+Instead of finding their prey swiftly, they would have to search, going deeper and deeper into this place.
+
+But such was their duty.  Bi De and Ri Zu glanced back at the cave, where their comrades started to march out. Yushang, Fat Han, Shao Heng, Fengxian, and Yingwen. All grimaced as they walked out of the warmer cave and into the bitter cold of the frozen cave. Shen Yu and Nezan didn’t react at all.
+
+“Forward,” Shen Yu commanded, and his words were heeded; They set out into the darkness, their feet carrying them north.
+
+========================================
+
+“Yes, Elder Zeng, there is a cultivator who lives in the town. He hides his Qi well, yet this disciple would reckon his Realm to be of Earth. It could not be anything less. I have also heard tales of other cultivators coming and going—outside the two that were part of the merchant caravan’s guard, though they were nothing noteworthy. Basically peasants, seeing as they were assisting the mortals in moving goods,” a woman wearing black clothes and a dark veil watched carefully as one of the Outriders gave his report to Zang Zeng.
+
+The man had been wearing so many suppression seals for this mission he would have been completely indistinguishable from a mortal in terms of Qi—and he had not been that powerful to begin with, at the Third Stage of the Initiate’s Realm. Weak, but loyal, and perfect for a clandestine mission. Even if his suppressors somehow came off, he would be mistaken for the trash that filled this province.
+
+They were in the northern Azure Hills, near the border with the Howling Fang Mountains. She had been elated to finally have Zeng move towards the one who had killed the idiot Lu Ban.
+
+At last, progress. The man had been sitting on his ass for months instead of rampaging and making a mess of things like she wanted. Either he would kill the fool who killed Lu Ban, or he would be defeated and draw the Shrouded Mountain Sect into further conflict. And if the man was a part of the Cloudy Sword Sect, even though that was extremely unlikely, then the resulting backlash would absolutely cripple the Howling Fang Mountains.
+
+Which wasn’t wholly ideal. The goal of Lu Ban was to have him eventually take over the sect and open the way for them to use the Fulmination Arrays—if they could get access to the array itself, which had been impossible even for her, sealed as it was behind Zang Blood, then they could begin to recreate it. For all that the sect were meatheads, their crown jewel was made by a true Master. It was something her own Master had admitted admiration of, the creation of the Lightning Brigade’s General, refined in the Age of Heroes.
+
+It had its flaws; nothing her Master could not fix and then power properly, with blood and the right sacrifices. Being able to teleport their agents anywhere in the world, carried on subtle shadows, would have been a massive boon.
+
+But alas, that route was now closed to them with Lu Ban dead. Still, if the Shrouded Mountain Sect was crippled or, better yet, displaced from the mountain, they would be able to try and brute force the protections without the entire sect trying to kill them. Of course, her Master could have slaughtered them like dogs, but that would have been unacceptably obvious.
+
+Light touches and daggers in the shadow. They were not yet prepared to march out in the open.
+
+Zang, however, was. And yet still the bastard was hesitating.
+
+“Your enemies are right here, Master,” the woman breathed into his ear and pushed.
+
+Zang Zeng’s eyes went blank. Her powers were finally breaking through to him. She grudgingly admitted he had a strong will, but that was finally out of the way.
+
+“Yes, my enemies are close at hand,” Zang Zeng muttered. “I must prepare to face them, if they are truly in the Earth Realm. A spot to meditate…”
+
+The man looked to the north, and the woman trolled her eyes. She thought this fool was bold. He hadn't even thrown his weight around at the insects that were the cultivators of this province! He had just bypassed the daughter of his enemy, not sparing her a second glance.
+
+Ah well. This would be over soon, at least. Zeng would assault the one who killed Lu Ban, then she would poison everybody there and leave only a few survivors to go back to the mountain. If need be, she also had her own troops on standby—she would have to alert them, once Zeng found the place he wanted to “prepare” at.
+
+She was content. Zang Zeng clenched his fist, his eyes narrowing.
+
+He chose to head north to meditate. She couldn’t help but smile. He was getting closer to his enemies by going that way, after all.
+
+==============================
+
+The Imperial Auditor huffed as he sat in a waiting room of the Verdant Hill Palace. It had taken him three months to get here. Three whole damn months! There were road washouts, freak storms, and he had even nearly been held up by a pair of brigands! The sheer cheek of the bastards! Luckily, he had splurged for the guard and the man was worth his coin. He saw the fools off.
+
+But now he was here. He was here, and he could hopefully curry some of the favour he had lost with the Wu family when he got kicked out of the Dueling Town by the cultivators. He felt a bit sorry for the poor provincial bastard he was going to ruin, but really? What kind of fool gets on the Wu family’s bad side?
+
+He huffed and straightened his robes, annoyed that the country rube was making him wait… but soon enough some random serving girl approached.
+
+“The Lord Magistrate apologises to His Majesty's Imperial Auditor for the wait—he had to make himself presentable for such august company.”
+
+The Imperial Auditor frowned… and then felt some of his anger fade away. The hick had probably had cow shit on him or something, and he wouldn’t have wanted to smell that.
+
+He nodded regally and rose, following the serving girl into the meeting room. It was not anything personal—but the man was about to have a very bad day. And likely a very bad next couple of years, if he truly had caught the Wu’s ire.
+
+He walked into the room like he owned the place—and then froze as he felt eyes level at him. Eyes that made his hair stand on end.
+
+“The Lord Magistrate of Verdant Hill greets His Imperial Majesty's Imperial Auditor,” the man said, his voice powerful and smooth. The Imperial Auditor was immediately forced to reevaluate the man. Instead of a fat, ruddy faced peasant, he was greeted by a man who wouldn’t have looked out of place in the capital. His clothes were of expert quality and make; his hair clasp subtly worked gold. His goatee was well-trimmed, just long enough to stroke, and his eyes were flinty daggers.
+
+He cut an impressive figure, but he was somehow overshadowed by the woman sitting next to him, who was smiling pleasantly yet had an air of palpable malice surrounding her.
+
+She looked very much like Lady—he paused. This woman was a Wu. Lady Wu Zei Qi, the cripple. The woman who constantly shook from the damage she had taken from a cultivator.
+
+This woman looked anything but a cripple. She did not shake at all, her hands steady like rocks. Especially the hand holding a fan in front of her mouth. A fan painted with a Soaring Phoenix—a declaration of war.
+
+He swallowed thickly, his mind racing.
+
+Beside Lady Wu was an unexpected person, a representative from the Azure Jade Trading Company,wearing an Azure Sash—which meant that this place had the backing—the full backing,of the Trading Company, who were just about the only people who could tell the Wu family to go shove it.
+
+The Auditor was starting to feel faint. He felt his eyes slide over to the corpulent, jolly-looking man that had a tremendous stack of papers in front of him and looked downright pleased to see the Auditor.
+
+The Auditor raised his hands and smiled politely, but inside he was suddenly very, very worried.
+
+Alarm bells were ringing in his head as he greeted the people before him. He would have to tread very lightly here.
+
+Why, oh why, had he been so sure that heading north would be a good idea?
+
+=============================
+
+My wife scratched at her nose. We were long past the property line and quite far north, hip deep in snow. It was actually quite nice and the scenery was beautiful, but neither of us were particularly enjoying it at the moment.
+
+“Anything?” I asked Meimei.
+
+“Nothing,” She said with a frown.
+
+We had been taking these walks for a couple weeks now, to see if Meimei could smell the acrid scent again… But it hadn’t returned.
+
+Meimei was grumpy that she hadn’t found the source, but it was probably a good thing if it was gone. Meant it was not here.
+
+“What do you think?” I asked.
+
+“I think… I think it flies?” she said, hesitantly. “Maybe very high up? I don’t know.”
+
+My wife looked incredibly grumpy that this mystery was still persisting.
+
+“Maybe it's some kind of… I don’t know, Seven Stenches Buzzard?” I said, trying to lighten the mood, and Meimei chuckled, before her face turned serious again. “It bothers you that much, doesn’t it?” I asked.
+
+“It's just annoying. Every time I smell it, it ruins my day. It's like when you get shit on your boot and you wonder why your house smells like crap and you look everywhere trying to find it,” Meimei huffed, definitely speaking from experience. And to be fair, I knew that feeling too. The ol’ shit shoe sucked.
+
+“So we’ll keep looking,” I said simply. “Besides, I get to spend a lovely day with the woman I love the most in the world.”
+
+Meimei smiled at me and bumped me with her shoulder.
+
+We wandered a bit more, Meimei occasionally sniffing at the air. Suddenly, she tensed, her eyes narrowing… before she sighed and slumped. “Why did you tell the Guan siblings that they could have their cultivator guards help them get everything ready in Verdant Hill? I keep smelling them, faintly, under Lu Ri’s Qi and it's annoying.”
+
+“Because they have like five hundred tons of food to move?” I asked back. It had taken them nearly a month to figure out how to even move everything, and this was the second trip. They would have to make a third to finish taking all the grain, pickles, and maple syrup jars.
+
+“Don’t be reasonable with me, husband,” Meimei said jokingly before she sighed again, then she made a face.
+
+This was really bugging her. I put my arm around her shoulder.
+
+”’Cmon, I think this is enough for today. Let's have some soup, then a bath. If the smell comes back we’ll find it, and then you can experiment on it if it's evil.”
+
+Meimei perked up just a little, and a rather vicious smile stole across her features. My wife let me guide her away as she muttered under her breath. I turned my ears off, dismissing the war crimes I was hearing from my mind. I spared one last glance to where the smell always came from.
+
+The northern wind blew, tousling my hair and caressing my cheeks.
+
+It was cold, and I shivered a bit.

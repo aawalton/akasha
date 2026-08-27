@@ -1,0 +1,211 @@
+---
+id: 77916b5e-e8b6-5cf7-9edc-3ed5e7998405
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Tension in the Grass Sea"
+slug: 0060-interlude-tension-in-the-grass-sea
+partOf: beware-of-chicken
+position: 60
+ownLength: 2927
+unit: words
+ownProgress: 2927
+publishedAt: 2023-10-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1362932/interlude-tension-in-the-grass-sea"
+royalRoadId: "1362932"
+markedReadAt: "2026-06-29T18:53:26.372Z"
+---
+
+In the Grass Sea, there was a current of tension. It was as if the entire Azure Hills had been electrified, and there was only one topic on the lips of all who lived there. In taverns, as men looked deep into their cups. In brothels, as the normally light pillow talk turned serious. In houses, whispered over dinner.
+
+The cultivators were up to something.
+
+It had started a year ago, with the Dueling Peaks Tournament and the sudden information blackout. It had just been murmurs then. Murmurs of the Shrouded Mountain Sect and a powerful Hidden Master, but they had been quiet things, not fit for polite company. It was cultivator business, and so cultivator business it would remain—even as more and more people spoke of eating a meal cooked for them by Cai Xiulan, and of Young Masters and Mistresses building houses.
+
+Then came the reports about the slavery rings in Grass Sea City, about how Cai Xiulan and her companions had destroyed them. The towns had once more been consumed with fervour, with countless toasts to the Demon-Slaying Orchid’s health. The children fought over who got to be whom, and the boys finally had their own heroes. Names like the Ironskin, the Rising Dragon, Rags, and the Rooster were hailed throughout the streets, and the once unpopular Huizhong dolls found new life. The children were especially enamoured with the new rooster-masked one that came with a small woollen dog.
+
+But then came the second upheaval. The Sects had begun to move. Every single last one seemed to be coming out of their seclusion to march towards the Dueling Peaks. Only this time, there was no tournament.
+
+The feeling of hope and celebration swiftly faded, replaced by worry.
+
+“It has to be a war,” one man whispered, glancing at his companions. “They’re going to decide the battleground there! Mark my words, it’ll consume the entire Azure Hills!”
+
+“You heard about the battle in the east! They must have found another Demon nest! They’re all gathering to march off to fight for our Empire’s very survival!” another insisted.
+
+“It can’t be all of them. You know those bastards can’t decide anything without coming to blows. It's probably just a coincidence!” A third said, sceptical.
+
+Everybody had an opinion on what was really going on—but there was one resounding sentiment among the mortals: when so many cultivators moved, it couldn’t be anything good.
+
+The tension spread like wildfire across the plains, and there was not a single soul untouched by it.
+
+=========================
+
+It had started, for the cultivators, as a curiosity. At the Duelling Peaks, Cai Xiulan had asked for the Younger Generation to meet again to discuss the future in a year’s time.
+
+For most of the Elders, it had been amusing. Some gave permission to their scions so they could get a taste of the politics that would be their chief concern in the future. Others had scoffed and sneered at the Blade of Grass. She was reaching beyond her grasp, they said. Trying to force issues with her new status.
+
+She was a greedy thing that could be ignored. A Blade of Grass trying to grow just slightly closer to the heavens off their backs. They would continue as usual.
+
+They heard the rumours, of course. Of the little group bearing the banner of Azure on their backs. But little thought was given to them.
+
+And then they got the first letter from Sectmaster Liu Xianghua, underwritten by every other Misty Lake Elder. It was no longer that the Younger Generation had to gather. It was everyone.
+
+Then they got the letter from the Verdant Blade Sect, stating the exact same thing.
+
+Even the most doubtful Sect sat up and started paying attention.
+
+By the time they heard of the Azure Heroes of Grass Sea City, they were packing their bags for a journey, just in time for two more letters to come. The first, from the Hermetic Iron Sect.
+
+The second was written by the Patriarch of the Grand Ravine, who had come out from Closed Door Cultivation.
+
+His was not a request to gather, but a demand.
+
+The Sects mustered their strength. From the Azure Horizon to the Framed Sun; from the Rumbling Earth to the Crashing Waves.
+
+All began the march to the Dueling Peaks.
+
+=====================
+
+Cai Xi Kong looked down at the encampment before him. The banners of the Verdant Blade, the Misty Lake, and—arrived this morning—the Hermetic Iron Sect fluttered in the wind.
+
+“Quite a sight, eh?” Tie Delan asked as he approached Xi Kong. “The Disciples made good time.”
+
+“Indeed. Your disciples are a credit to your sect. It took them less than a week to get here.” Xi Kong let his approval show in his voice, giving praise where praise was due. Six disciples of the Sect, over half their number, had managed to get from the Iron Fields to the Grass Sea in six days.
+
+Delan nodded, the gruff man looking down at the might on the field below them.
+
+It was a great boon to have Tie Delan in their camp, and it had been most enlightening to hear what had happened in Grass Sea City. Xi Kong couldn’t be prouder of his daughter… and Delan had warmed up significantly after he’d praised the ironsmith’s son.
+
+“I would bet our combined might against any single sect. Maybe even Grand Ravine,” Delan stated after a moment.
+
+Xi Kong didn’t disagree. “I should hope it doesn’t come to that,” he demurred nonetheless. “It would be an ugly thing, to despoil the next generation’s dream before it began.”
+
+“Well said—but should we have to bear steel, bear steel we shall.” Elder Bingwen of the Misty Lake Sect marched up beside them. “And speaking of bearing steel, we have visitors.”
+
+Delan grunted. “I would ask if you noticed them, but they’re not exactly trying to hide. Looks like the Grey Water Sect wants to get in before the meeting.”
+
+“Shall we greet them?” Xi Kong asked, some tension entering his body.
+
+His companions nodded, and they leisurely walked through the camp towards the approaching cultivators. Delan set the pace, one calculated to express their intent to treat rather than inviting battle—but they would do so as peers, as Elders and Sectmasters speaking to the same.
+
+And indeed, at the head of the procession was Xinling herself. Behind her was the might of the Grey Water Sect. Her four daughters, her Elders, and their twenty strongest disciples.
+
+“Sectmaster Xi Kong. Sectmaster Delan. Elder Bingwen.” She greeted them with easy formality and unconscious grace. “It seems that our interests are aligned for the moment, so it would be good for us to encamp together.”
+
+Xi Kong’s eyes widened. Their sects and the Grey Water Sect had never been on friendly terms before… but here she was, asking to join their encampment.
+
+He glanced at his fellows… but both deferred the lead to him. Xi Kong pondered for a moment before nodding, but only that—his course forward was obvious.
+
+“Then be welcome in our camp, Grey Water Sect. By the laws of hospitality, no harm shall come to you.”
+
+The woman bowed slightly, and a fourth banner was added to the rows. Xi Kong looked at it for a long while, until a gust of wind blew through the camp, setting all of them fluttering.
+
+Xi Kong didn’t know whether to shiver or to appreciate the cool touch.
+
+======================
+
+In the Grand Ravine, thousands of people had gathered at a staging ground. It was a quiet place, secluded in a forest near the exit of the Ravine. It was filled with remnants of some ancient construction, sticking up beside the trees. The few that were still legible had carvings for water on their side—but they were all upside down, like they had been thrown here by something.
+
+It was said that here the First Daxian had gathered his loyal men and had taken on the indignity of being labelled as a bandit in order to protect his people and their way of life. It was a sacred place. A holy place, and the people were called there only when the fate of the Ravine hung in the balance.
+
+They had records of it being used sixteen times. Sixteen times had the Ravine been threatened enough to gather here, and this marked the seventeenth.
+
+The people stood in silence, their faces grim. Mortals and cultivators alike waited, standing underneath the banner of their clan, the clans that had resisted Imperial expansion and culture since history first began being recorded.
+
+They awaited one man… and they did not have to wait long as the Patriarch of the Grand Ravine Sect strode out into the centre of the clearing. A great gasp went up at his appearance.
+
+Everybody could feel his power. They could feel the weight of a cultivator in the Spiritual Realm surrounding them. Pressing down on them, like a good father’s gaze, stern yet fair.
+
+The wizened old man he had once been was already starting to disappear. His skin was smoothing out, and his muscles were once more bulging with vitality. He looked about sixty, instead of his three hundred years of age. Beside the man walked Young Master Tarkhan, who had been afforded a place of honour at the living legend’s side.
+
+Every member of the Ravine had despaired that he would die soon. That they would be left without their greatest protector, the man who could single handedly hold the Imperials and their Sects at bay should the cultivators of the Azure Hills attempt to finally force the issue of their independence.
+
+Now, they could only stare in awe… before the clearing erupted into cheers.
+
+“Patriarch!” The people cheered. “The Patriarch has returned to us!”
+
+The old man smiled indulgently at the sudden outpouring of cheers, before he raised his hand for silence.
+
+The people of the Ravine obeyed slowly. They were a people with hot blood, and it was slow to cool, but eventually there was silence again.
+
+“Thank you, my brothers and sisters, for your warm welcome. You do this old man a great honour,” he said, his voice rich and warm. “But I have not called this conclave to receive your adulation. No, my brothers and sisters, I have called you for another reason.”
+
+The people of the Ravine waited with baited breath as the old man stroked his beard once.
+
+“I ask of you my kin? What is our founding tenet?”
+
+“Listen, for the Earth Speaks!” they shouted back, looking almost confused.
+
+The old man nodded, his eyes filled with pride. “Let me tell you, my kin, the reason why I have called this gathering! The earth has spoken! I have heard it! Together with the Young Master of our Sect, Tarkhan! We heard the voice of the world! After millennia of waiting, the silence had been broken! After thousands of years, our faith has been rewarded! The Earth Speaks! Uukhai!”
+
+“Uukhai! Uukhai! Uukhai!” The roar was taken up by the people of the Ravine—an ancient battle cry, shouting their praise for the great Earth.
+
+“The Earth has blessed me with ascension to the Spiritual Realm! It has blessed our Young Master with the power of the Profound—and now, in return for these boons, it calls us!” the old man continued, his Qi slowly gathering and pulsing around him. The rocks around him seemed to bounce his voice around the clearing, making it echo.
+
+“Uukhai! Uukhai! Uukhai!”
+
+“So I now call upon you! Inheritors of Daxian’s will! People of the Ravine! Children of Tianlan, free as the clear blue sky! My Brothers and Sisters! We march with our full strength, for the first time in a thousand years!” The echo intensified… and then started to shift.
+
+“Uukhai! Uukhai! Uukhai!”
+
+“We march to the Duelling Peaks! Let the land tremble! Let the sky bear witness! Let all of these Imperials know—we are the Voice of the Earth! Defiers of the Fel Star!” The old man’s voice reached a crescendo, and everyone in the valley could hear it. The echo of a voice, something old and ancient that their souls still remembered.
+
+They could see it almost. A man and a woman, standing together. Their bloody hands were clasped as they performed the Sibling Ceremony, mixing their blood to become family.
+
+‘I’ll be in your care, Atlan,’ the woman whispered.
+
+“Uukhai! Uukhai! Uukhai!” The shouts took on a fever pitch. Cultivators unsheathed their weapons. Mortals fell to their knees.
+
+“Uukhai, Tianlan!” The Patriarch roared, his Qi erupting from his body. He spoke a battle cry that hadn’t been spoken since the earth had fallen silent.
+
+“Uukhai, Tianlan!”
+
+“To the Dueling Peaks! Grand Ravine, march!”
+
+“Uukhai, Tianlan!”
+
+The cheers and howls of four hundred tribal cultivators filled the ravine, an outpouring of fervour that made the ground shake, and the Imperials who lived closest to the Ravine glance worriedly at it.
+
+The Earth had spoken. The Earth had put them in motion. Towards peace or war they did not yet know—yet woe betide any enemies that tried to defy them.
+
+================================
+
+In the Grass Sea there stood a particular tavern known as the Jolly Fatty. It was an institution of the town—and recently the tavern’s fortunes had been on the rise, thanks to heavy patronage by members of the Azure Jade Trading Company and a brilliant duck dish utilising a new and wondrous addition: potatoes, imported by that same Trading Company. It was, as a result, normally bustling with activity. Still, the place retained a relaxed air thanks to the leadership of the owner, Ming Mao.
+
+Today there was no such sense of relaxation. Though the scents of its famous duck fat fried potatoes tantalised the senses, the people of the town were possessed by a nervous energy. All eyes were on a man sitting at a table of honour. He was currently stuffing his face with the signature dish—his price for the tale he was about to tell.
+
+The people waited, shifting back and forth or sighting loudly, but as the man finally finished his meal and set his utensils down, all eyes were on him.
+
+“You’ve all heard the rumours and the whispers of something big going down with the cultivators of this province—well, allow this Tao the Traveller to lay all your speculation to rest!” The man stood from his seat. He had a weather-beaten face and a grin just bordering on crazed. His excitement was palpable.
+
+“Get on with it!” somebody shouted, obviously annoyed. Tao laughed, basking in the shouts and heckles of the crowd.
+
+“All those rumours of the Sects out in force? They’re all true!” Tao roared, and the crowd went silent.
+
+“The Patriarch of the Grand Ravine Sect has left Closed Door Cultivation and is on the move! The entire Sect has been mobilised! Their numbers… are twice as high as this Tao estimated in the past! Four hundred cultivators have ascended from the depths of the Ravine, bearing the tribal colours of a hundred clans! Marching at their head is Guo Daxian the Eldest, who has unveiled his name as Ulagan Baatar. My sources tell me he has reached the Spiritual Realm!”
+
+There were several gasps as the true extent of the mobilisation hit them.
+
+“Every Elder that was in Closed Door Cultivation has returned to the land of the waking! The Verdant Blade Sect, the Misty Lake Sect, the Grey Water Sect and the Hermetic Iron Sect have all joined forces and march under one banner! The might of the entire province gathers! But for what, do you ask? I’m afraid even I don’t know what for, but I do know upon whose request! They march at the demand of the Azure Heroes!”
+
+“The ones that broke the slavery ring?!” one person demanded.
+
+“The very same! The heroes whose names resound throughout the province!” Tao the Traveller raised his arms, regaling the crowd.
+
+“Rou ‘The Tiger of the Peaks’ Tigu! The ferocious tiger who sniffed out thousands of slavers, and clapped them in irons!”
+
+“Liu ‘The Heron of the Misty Lake’ Xianghua! She fought all of her Elders in a row to seize her position as Sectmaster, without using her Heavens Shaking Artefact!”
+
+“Tie ‘Ironskin’ Delun! Young Master of the Hermetic Iron Sect! He has rediscovered every secret of his ancestors, and can repair all the ancient formations!”
+
+“Dong ‘Rags’ Chou, leader of ten thousand men from Grass Sea City! Men who bared their fangs at the City Nobles, men who brought them all to their knees!”
+
+“Zang ‘Rising Dragon’ Wei, whom not even a destroyed dantian could stop! In less than a year he ascended to the Profound Realm!”
+
+“Liang ‘Sun Fairy’ Yin! A peerless beauty matched only by a peerless strength! She's a Wrecker Ball in human form who smashed open ten fortresses, each with a single punch!”
+
+“Zhang ‘The Rooster’ Fei! A boy who came out of nowhere and can already hold his own against cultivators fifty years his elder! A hunter without compare!”
+
+“And of course their Leader, the Demon-Slaying Orchid, Cai Xiulan! Cai Xiulan the Hero! These are the people who called for the conclave! These are the people whom the Sects march at the request of!”
+
+Tao the Traveller grinned at the people who were listening raptly to his words.
+
+“Remember these names well, People of the Azure Hills! The winds of change blows! The Heavens are watching! What happens at the Duelling Peaks will surely change the course of this province forever!”

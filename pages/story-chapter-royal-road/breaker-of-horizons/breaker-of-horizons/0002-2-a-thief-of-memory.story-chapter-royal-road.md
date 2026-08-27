@@ -1,0 +1,115 @@
+---
+id: aed70fa0-b568-5455-b3da-a5e0ef8eeef7
+page-type-slug: story-chapter-royal-road
+title: "2. A Thief of Memory"
+slug: 0002-2-a-thief-of-memory
+partOf: breaker-of-horizons
+position: 2
+ownLength: 2446
+unit: words
+publishedAt: 2020-05-07
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/493139/2-a-thief-of-memory"
+royalRoadId: "493139"
+---
+
+The dormitories were clean, spacious, and well-furnished. I was rather relieved to find that the 'ancient building' aesthetic only applied to the exterior — the inside was filled with modern furnishings and amenities. I would be sharing a room with one other person, and three rooms would share a set of common areas for dining, studying, and just hanging out. My roommate hadn't arrived yet, so I spent the entire day walking around the Academy grounds to familiarise myself with the place and just marvel at the wonder of actually being in the Academy.
+
+The orientation briefing was in the evening, so I returned to the dorm to freshen up and bring my notebook and a pen. It seemed that my roommate had already moved in but wasn't around. Whoever it was seemed to have packed light — I only spotted a rucksack on the bed.
+
+I made my way to the lecture hall and found that it was already packed with people by the time I came through the double-doors at the rear. I assumed that coming just ten minutes earlier would give me the opportunity to pick a good seat, but obviously, I was mistaken. I wasn't sure if the people here were just really eager to learn, or if this was another side-effect of having the Chosen One in the Academy.
+
+Curiously, there was actually still room right at the front, so I made my way there. As I passed the rows of new arcanists, I caught bits of excited chatter.
+
+"—yeah, I actually saw the Chosen One at registration, and—"
+
+"—think we'll be in the same dorm—"
+
+"—maybe he... she? Has bodyguards, but that—"
+
+I took the first seat that was available at the front and sat down just as the door near the podium opened. A severe-looking man dressed in full arcanist regalia — fine black robes with silver glyphs along every hem, and the Academy's glyph emblazoned on the back — swept into the hall. His salt-and-pepper hair was kept short and tidy, and his grey eyes scanned us as he went to stand behind the podium. All the babble petered out. His entrance hadn't been loud, but the atmosphere in the hall seemed to become more charged just by his very presence.
+
+"Thank you for being early. We can begin now that everyone is here." His voice was surprisingly gentle, given his appearance.
+
+There was a little shuffling as some of the new arcanists hastily made their way to a seat. The man waited until everyone was settled, regarding everyone impassively, his face almost mask-like in its lack of warmth. A heavy silence hung in the air. I found it fascinating how he wielded such easy power over the assembled crowd.
+
+"I am Marius Reeves, Prime Sage of the Academy. Traditionally, the Demiurge of the Academy will address new arcanists, but he is currently... not well. You will meet him eventually. In the meantime, it falls to me to welcome you all this evening."
+
+As he spoke, his eyes continued to sweep across all those assembled. I could tell that people were dying to look around too, because he had said that everyone was here, but somehow nobody had noticed the Chosen One enter the hall. Unless Reeves was mistaken? Still, nobody moved — Reeves somehow commanded our absolute attention and focus.
+
+"This year, we have a rather unique situation on our hands. Most of you have doubtless already heard the rumours about the Chosen One being in this cohort, and some of you have managed to get a good look. But now I must lay down some rules and explain the situation, and all of you must listen very carefully because the Chosen One's presence in our midst presents an issue of national security."
+
+The hall somehow managed to get even quieter. I could almost hear the breathing of the people next to me.
+
+"If you had the stunning fortune to bump into the Chosen One earlier today, you might have realised that you no longer recognise their face. In fact, you no longer recall even the most basic things, like whether the Chosen One is male or female."
+
+For the first time since Reeves' entrance, the hall filled with chatter again. This time, the excitement had been replaced with a mixture of other emotions - surprise, shock, alarm, even some anger.
+
+I tried to think back to what Triss had told me when she had described the Chosen One. I was pretty sure she had given me a good run-down of what the person looked like. But nothing came up. The moment itself came to me with decent clarity — I remembered the weight of her on my shoulders, and how she had tilted forward excitedly. I remembered the general sense of the words - that she had given me a description of specific features. And yet, no matter how hard I tried, the actual meaning of what she had said refused to solidify in my head. Reeves was right. I didn't know anything about the Chosen One's appearance at all.
+
+"Please allow me to explain," Reeves said, his tone even. Somehow, even though he hadn't raised his voice, it carried easily over the babble. In a few moments, the hall was silent again.
+
+"When you eventually get into contact with your friends and family outside the Academy, you will realise that this weaving was done to all who have any knowledge at all of the Chosen One's identity. Obviously, this incredible expenditure of power and admittedly outrageous invasion of mental privacy would not have been done lightly. Alterations to memory are not a trivial matter and can go terribly wrong, and yet we have reached into the minds of the masses and twisted the threads. I personally oversaw the procedure from beginning to end, and have in fact dedicated most of my professional life over the past several years to making all of this possible."
+
+Reeves drew in a deep breath and let out a long sigh - his first display of emotion since he stepped into the hall. "History will judge whether we were right to go so far. But that is not our immediate concern. I am here to impress upon you all that the Empire has already proven willing to go to great lengths to defend the Chosen One's identity from this point forward, and that under no circumstances are any of you to attempt to rediscover the Chosen One's identity. You are all merely newly-admitted arcanists in the same cohort, and there is nothing special about any of you."
+
+At this point, he actually gave a wry smile. "Well, nothing special other than the fact that every one of you here has already proven that you are exceptional. It is no mean feat to be seated here in this hall. It is time for us to move on to the actual orientation. Now that the heavy matter of the Chosen One has been settled I hope you all will, if you'll forgive the poor turn of phrase, put it out of your minds."
+
+That actually raised a few chuckles from some of us. My lips twitched, but I wasn't really paying full attention. My mind was still dwelling on the colossal scale of what Reeves had done.
+
+From my studies, I knew memory alterations were possible in theory. But in practice, there were so many things that had to be done exactly right. A memory is not a page in a book - not something you can just flip to and casually change. At the most basic level there is the sensory input that runs through every moment. But at the next level, there are any thoughts or feeling we might have had in that moment, and those bring in horrible complications because our thoughts are not always discrete chunks - they are streams or trains that flow into the past and connect with a myriad of other moments, which in turn connect with yet more moments, all linked in subtle and intricate ways.
+
+Even simply erasing a memory without causing damage is an endeavour fraught with problems. Destroying a memory can cause a ripple effect that could damage everything else that that memory is linked to. Then, to even think of changing a memory, and doing it so seamlessly...
+
+And that was just the process of changing one memory, which would have taken an enormous amount of arcana; certainly more than what was available in the environment or in any single person. Where did Reeves even find enough arcana to affect that many people? How did he channel it safely? How did he sequence all the glyphs? What glyphs would you even use for a task like that?
+
+And the scope of it! How did he manage to do it to all of them without physical contact, or being near them, or even line of sight? And if it really worked on many other people in the Empire, did that mean that it somehow reached through every single layer of protection that people would have put over their homes, or on themselves?
+
+If he could do all that, didn't that mean that Reeves was effectively capable of controlling the minds of everyone in the Empire?
+
+Wait, was it only limited to people in the Empire? Didn't Reeves say that it affected anyone with any knowledge at all of the Chosen One's identity? Did that include literally anyone in the world?
+
+What else is this man capable of?
+
+I realised that my hands were gripping the edges of my seat and that my knuckles had grown white from the exertion. Reeves must have noticed it — I was seated in the front row, after all - because he raised an eyebrow ever-so-slightly at me while he continued talking.
+
+With a great effort, I settled my breathing and tried to pull myself back into the present. Reeves was beginning to tell us about what to expect for the first few weeks of our stay in the Academy so I opened my notebook, unfolded the small table affixed to my chair, and started jotting down the details. Focusing on something as mundane as notetaking helped stave off what felt like an impending panic attack at the idea of what Reeves could do.
+
+The scratching of pens on paper told me that many of my fellow arcanists were doing the same — testament to the fact that I was in a hall full of people who were either very studious or very gifted. I risked a quick glance at those behind me and saw a multitude of bowed heads. Those along my row were similarly scribbling. Somehow, that sight cheered me and I started smiling.
+
+The boy next to me shifted uncomfortably and I realised I had been smiling vaguely in his direction. He nervously swept back the fringe of his black hair as he threw a sideways glance at me.
+
+I hastily snapped my attention back to Reeves, my cheeks burning a little.
+
+The orientation briefing went on for another hour after which Reeves swept out of the hall with a perfunctory farewell. Immediately, the hall filled with noise as people erupted into lively discussions about what we had all just been told as they packed up and made their way out of the hall. It seemed like many of them already knew each other, which was unsurprising since many of them had probably gone to the same preparatory schools. As someone who had studied arcanophany independently, I didn't have the opportunity to work closely with other would-be arcanists.
+
+I decided that this was as good a time as any to get to know someone new. Feeling more than a little self-conscious, I turned to the black-haired boy next to me. "Uhm, sorry about... uh, earlier," I half-mumbled. "I was zoning out a little, didn't mean to freak you out."
+
+"Yeah, no, it's fine, I mean..." he trailed off, then cleared his throat and held out a hand. "I'm Ambrose Hawkins."
+
+"Caden Dundale," I replied, shaking it. "So, what do you think of Reeves?"
+
+"He's alright, I guess. A bit intense," Ambrose said distractedly as he stowed his own notebook away.
+
+There was a brief pause in the conversation, just enough for it to begin to feel a little awkward. I had intended to pick someone else's brains about what they thought of Reeves' apparent power but Ambrose didn't seem interested in the topic, so I wildly cast my mind around for something else to say.
+
+"Know anyone else here?" I asked. "I'm an independent study, so I didn't go to a prep school."
+
+"Oh," Ambrose said, turning to look at me a little more closely. He seemed to shake himself out of some mental preoccupation. "I... I know some. I was an independent study too, but I joined a prep school for one term at the end to iron out some stuff. You must be pretty good."
+
+'Probably about the same as you,' I said, mindful of the need to at least appear modest. Independent studies were rare because it was so difficult to pick up arcanophany by yourself with no official instruction.
+
+"We should study together sometime, maybe swap notes." He was already on his feet, his body turned to the door. He seemed strangely skittish, but I put it down to social anxiety. I wasn't exactly finding this conversation easy myself — it took every ounce of my self-control to keep projecting an air of calm indifference.
+
+"Yeah, sure," I said, standing up as well. "I'll see you around, Ambrose. Nice talking to you."
+
+He nodded politely, and I walked off by myself. I had found that it was always easier to make a clean exit from a conversation instead of awkwardly standing around and waiting for the other person to go first. At least this way, I saved myself and the other person any potential embarrassment.
+
+Imagine how awkward I felt when I made it back to my room, only to hear the door open a few moments later to see Ambrose standing there again.
+
+"... Hi," he said, pausing at the door for just a moment before walking in to sit on the other bed.
+
+"Hi, roomie," I said, forcing a grin as my insides shrivelled a little. "Looks like we'll be seeing a lot more of each other."
+
+"Uh... yeah. I'm just gonna... wash up." Ambrose opened his rucksack, took out some toiletries, and left.
+
+I ran my hands through my hair in frustration. If not for all this social stuff, my first day would have been perfect.

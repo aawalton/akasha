@@ -1,0 +1,173 @@
+---
+id: 6c86ea8a-9598-5145-a5e2-2c913f8e0903
+page-type-slug: story-chapter-royal-road
+title: "v6c20: Looking Forward to a New Year"
+slug: 0208-v6c20-looking-forward-to-a-new-year
+partOf: beware-of-chicken
+position: 208
+ownLength: 2353
+unit: words
+ownProgress: 2353
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2248181/v6c20-looking-forward-to-a-new-year"
+royalRoadId: "2248181"
+markedReadAt: "2026-06-29T18:58:29.858Z"
+---
+
+Tigu sat on the couch, watching her Master with a slight frown on her face. Something was obviously weighing heavily on both his and the old man’s minds today. They had both been up on the roof all night and for most of the morning talking about something, and it was probably something heavy.
+
+Heavy, but not something that would directly affect Fa Ram, because her Mistress was still unbothered. If something bad was about to happen her eyes would be as sharp as Tigu’s claws and there would be an oppressive pall around her. But instead, when their Master whispered in her ear, she simply looked sympathetic and rubbed Master’s shoulder before asking Grandfather what he wanted to eat.
+
+Still, her Master looked sad and was staring out across the snow where there was another Ha Qi game occurring. Tigu had refrained from playing to keep the numbers closer to even, to the surprise of the others, but she was keeping an eye on things.
+
+Tigu sighed and laid back on the couch, her head landing on top of Ri Zu’s lap… and a ball of feathers. Bi De grunted with irritation, while Ri Zu just giggled and transferred her fingers from stroking Bi De’s feathers to stroking Tigu’s hair.
+
+“…you’re better at stroking my head when you’re like this,” Tigu said as the delicate-looking digits immediately started hitting pressure points and Tigu felt herself start to relax a little.
+
+“Ri Zu is a master at pleasing both cats and roosters,” Ri Zu said with a shit-eating grin. “Yushang and Bi De can both attest.”
+
+Bi De coughed. What were they talking about—oh. Tigu’s face twisted as she got the lewd joke.
+
+“Really, Little Sister?” she demanded, while Ri Zu started laughing in earnest. “There is such a thing as a Disciple being too close to their Master!” Had Mistress always made such crude jokes? Tigu had only really noticed them when she got back from her journey across the Azure Hills. It was one thing to hear them coming out of her comrades or the other cultivators, but from her family it was a bit weird.
+
+A bit like walking in on Bi De and Ri Zu trying to see what the inside of each other’s throats tasted like. She was glad they were happy, but still, it was kind of strange. And it made her wonder what that felt like…
+
+She shook the thought away, her cheeks heating slightly.
+
+“What ails you, Tigu?” Ri Zu asked with a smile, while Bi De wiggled out from under Tigu’s head. He glared at her, only to be scooped up and deposited on Tigu’s belly. The rooster just rolled his eyes and accepted his new position.
+
+“Not a day goes by that there isn’t some new problem that comes up,” Tigu said. Ri Zu’s smile faded a little and Bi De grimaced, settling himself more on her stomach and nuzzling against Tigu’s hand.
+
+“Indeed, this winter has been… eventful for all of us.”
+
+“Uh-huh. Eventful,” Tigu said, flicking Bi De’s comb. The rooster pecked her back for the insult, but it didn’t escalate further than that.
+
+It had been eventful… but the thing that was most significant for Tigu was the last blow she had delivered to her foe before they had escaped, a strike that marked them as prey. Even now, Tigu could feel a slight pull to the southeast, a mark on the puppeteer Huian’s soul, calling her to hunt, to chase down and slay the demon as she had vowed.
+
+But she couldn’t, not yet. Huian had fought her Master and lived to tell the tale. Tigu was nowhere near those heights. She needed more experience, she needed time to grow… and part of growing was balance!
+
+That meant all of them needed to do more than train and worry. They needed brightness, and to refresh themselves!
+
+“Well, with luck this too shall pass in time for the New Year,” Ri Zu said. “Sometimes all people need is a bit of time to process things.”
+
+Tigu paused. Right, the New Year was soon! That would definitely lift everyone’s spirits! The last New Year had been fun, aside from the man who had attempted to scam the children out of the little coin they had—
+
+And suddenly, Tigu had an idea. Last year, Master had mentioned maybe making some games, and what better time was there than right now!
+
+Tigu suddenly sat upright, nearly cracking her head against Ri Zu’s.
+
+“Hey! Watch—eep!”
+
+She grabbed the back of Ri Zu’s shirt and picked her up too. With a pop, she was a rat again, and Tigu put her sister on her shoulder while she complained. Bi De just bore her carrying him over to their Master.
+
+“Master! I need your help!” Tigu declared.
+
+Her Master turned to her and gave her a fond smile. “Yes, Tigu’er?” he asked.
+
+“Last year at the Festival there were wicked, unrighteous men who attempted to scam money from children with rigged games! Could we make something fun for New Year’s for the children, so they don’t have to worry about that?”
+
+Her Master considered her request… and then a small smile broke out on his face.
+
+His hand landed on her head and he ruffled her hair, and then he pulled her forward to plant a kiss on her brow.
+
+“Of course, my beautiful and kind Disciple. We shall craft all sorts of wonders for the children!” he declared, and Tigu beamed when her father called her beautiful. He turned his gaze to Bi De, and his smile widened. “First Disciple! Rouse the troops! Ri Zu, prepare the herb garden. I have some ideas.”
+
+Bi De let out a crow and Ri Zu saluted, while their Master got out some paper and began drawing.
+
+The Ha Qi game was put on hold, and the disciples were assembled for this most noble of undertakings. Tigu felt excitement fill her. Her Master always had the best ideas!
+
+And what ideas they were. Ring tosses, ball games, a half barrel full of sand and filled with numbered clay balls as well as clay in the shape of bones—Tigu liked the fierce-looking lizards the bones were of.
+
+“Everyone likes dinosaurs,” Master muttered.
+
+Of course, Bowu once more puffed out his chest with pride, because he was entrusted with the two most complex pieces. The first was composed of three moving tracks powered by a steam furnace. One had to shoot the targets that moved along the tracks with padded arrows. Even Grandfather stopped staring at the horizon to look upon the designs, and he stroked his beard with interest.
+
+The other was some kind of instrument, made out of the leftover steam whistles Bowu had been experimenting with for his Steam Locomotive.
+
+“We’ve got less than a week for this, so don’t worry about it if the Cai Luo Pi doesn’t get done. It was just an interesting idea,” her Master said.
+
+Bowu just grinned. “Hey, Big Sis, you think you can make and tune some whistles for me?”
+
+Misty Lady planted her hands on her hips and tilted her nose to the sky. “Of course! I listened well, Little Brother. This Xianghua could even make a Steam Furnace by herself!” she boasted.
+
+“I can do some work on it too,” Gou Ren said, scratching his chin. “Keeping it pressurized with so many holes is a bit of an ask, and that’ll be the hardest part… but I guess it doesn’t need too much oomph anyways. Just enough to make the whistle go.”
+
+“I’m not bad at making pipes. Had to do quite a lot of them at the Dueling Peaks,” Handsome Man said, his arms crossed over his broad chest. He caught her gaze and smiled at her, before turning back to the image her Master had made. Tigu’s face got a bit warm as she watched him focus on the project.
+
+“I’ll provide the heat,” Yin said, her eyes locked on the instrument.
+
+‘If it's fine detail work, leave it to me,’ Huo Ten offered.
+
+‘I’ll work on the clay and the bonessss,’ Miantiao volunteered.
+
+“Alright, this’ll be Team Steam’s job. As for the rest of us? Well, the kids need some prizes, don't they?” he said with a grin, and flipped the paper over.
+
+Xiulan groaned, while Master grinned at her.
+
+Front and center was the Demon-Slaying Orchid, her eyes comically large and wearing a little smile. She looked so dumb and ugly she was cute! But there were other prizes: Boars, pigs, roosters, cats… every one of their animal forms were represented, and there was even a fox and a thunderhoof! All of them were pleasingly plump looking.
+
+“Spooks, Chun Ke, Shaggy Two, can you guys gather the cedar we need to make the stuffing?” Master asked. Spooks and Shaggy Two perked up at the fact that they could contribute, when everything looked too delicate for them to help… Spooks smiled, Shaggy Two, her wonderful Disciple, barked excitedly, and Chun Ke chortled.
+
+The sewing and carving was divided up amongst them, and Bi De and Ri Zu popped into human form so they too could lend their hands. Just as everyone looked to disperse and start working, Master interrupted.
+
+“Now this last thing I was a little unsure of. What do we think of these?” he asked, and pulled out the final page, presenting it to them.
+
+Everyone recoiled at the sight.
+
+“What are those?! Are they demons?” Tigu demanded, glaring at the strange, multi-coloured creatures that were aping the forms of men. They made the hair on the back of her neck stand up, even drawn in her Master’s innocent style. Their faces were the deathly pale of corpses. Their eyes were sinister, and they had massive, bulbous red noses. Their hair was a mess of nauseating colours, like they were poisonous. Their feet were too big, and their hands were encased in white gauntlets. In their hands they held what were most assuredly poison pills, juggling them with creepy, too wide smiles. How uncanny! How dreadful!
+
+“Those red noses are quite disturbing,” Bi De said, one of his arms raised defensively. Ri Zu peeked out from under his arm at them, a needle in her hand.
+
+“…are they going to be the figures we shoot arrows at?” the Blade of Grass asked, her eyes locked warily on the ugly beasts.
+
+Her Master’s lips twitched, and he was clearly holding in his laughter.
+
+“You know what… n-never mind on these,” he managed to get out. He put the drawing away with care. “Alright, let's get to it,” he said, and then walked behind the house.
+
+Tigu looked at Bi De, confused about why their Master had found their reaction to the creatures so funny. Then, in unison, they dismissed it for the moment.
+
+There was work to be done!
+
+=================================================
+
+Somewhere along the road north to Verdant Hill, a young woman rode in a covered wagon, regretting having volunteered for this mission.
+
+Biyu grimaced. The last time she had travelled like this it had been in summer, and the fast speed had been fun. She had stuck her head out the side and let the wind tousle her hair. It had been a fun, beautiful journey.
+
+Biyu had imagined this journey would be much the same, and had found out fifteen minutes in that it would not be.
+
+She had to lay flat, curled up with a fire crystal. If she tried to stick her head out, the cold and wind would slice her face to the bone. It had been a week and two days of constant travel through heavy snow—and if the ‘steeds’ for this wagon hadn‘t been cultivators it would have been closer to two months, if they could get through before the spring thaw at all.If it hadn't been so important to ask Master Jin if he knew anything about the Qi anomalies that had affected the province on the Solstice, she would have begged them to turn around and take her back. The boredom and monotony of the travel made it miserable, and though the ride was smooth and steady she could hardly work on any crystals.
+
+“You doing alright, Miss Biyu?” Mister Rags asked, easily jogging alongside the wagon. It was Mister Loud Boy’s turn to pull the wagon today.
+
+“I’m alive,” she grumbled out loud enough for him to hear. The man laughed at her response.
+
+“She says she's alive!” he passed the update over to his companion, who also laughed.
+
+At least these two made it somewhat bearable. Mister Rags and Mister Loud Boy were both perfect gentlemen, in spite of their rough appearances, and were quite the duo of comedians when the mood struck them.
+
+“Right, just mentioning to you that we’re ’bout three hours out. Came to ask you if you would rather take a break now and eat, or push through and hit Verdant Hill?” Mister Rags continued.
+
+Biyu considered it. She was cold and cramped and getting out and stretching sounded wonderful… but Biyu was used to being curled over a desk.
+
+“Push through please,” she replied.
+
+Mister Rags whistled. “Our Miss Biyu is tough as iron!” Biyu blushed. “I’ll tie this down and we’ll pick up the pace. See if we can’t get that time down to two hours, eh?”
+
+She nodded.
+
+She couldn’t wait to get to Verdant Hill… and then to Fa Ram. At least she didn’t have to make such haste on the way back, and could instead use the Transmission Stone to report back.
+
+And then she could wait things out in the lap of luxury, making cute clothes for all the cute animals! Part of her knew it was unlikely, but Yun Ren had said he hoped to be back after the Solstice too…
+
+Biyu sighed. The wind howled outside.
+
+Hopefully their Solstice hadn’t been as exciting as hers.
+
+======================
+
+======================
+
+The calliope is a steam instrument invented in North America. That's what most of our carnival music comes from.
+
+Edited by: Aaron “Pastafarian” Sofaer, BargleNawdleZouss, Massgamer,

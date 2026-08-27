@@ -1,0 +1,135 @@
+---
+id: b033d29b-838d-5c09-a1a3-be4d8ab4feb7
+page-type-slug: story-chapter-royal-road
+title: "v6c12: Enlightenment"
+slug: 0200-v6c12-enlightenment
+partOf: beware-of-chicken
+position: 200
+ownLength: 1715
+unit: words
+ownProgress: 1715
+publishedAt: 2025-04-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2172918/v6c12-enlightenment"
+royalRoadId: "2172918"
+markedReadAt: "2026-06-29T18:58:11.074Z"
+---
+
+“So these are your notes on the operation?” Shou asked as Meiling handed over a scroll containing her previous work on Bowu’s leg and what she planned to do for Miantiao’s back. Her belly was full of lunch, but right now she wished she hadn’t eaten quite so much as she squirmed with nerves. After all, this was her pride and joy, mixed with the work of millennia of her ancestors… and it was probably about as interesting as a child’s first observations on the world to this man.
+
+She still couldn’t believe that Shou had offered to just teach her how to fix Miantiao’s back. In fact, the man looked quite happy to begin now that they were all here.
+
+Ri Zu, in human form, was beside her, Bowu on the other side, as her previous patient, and Miantiao on the table, waiting for the Spiritual Doctor’s verdict.
+
+Perhaps two minutes later of silence, Shou nodded and rolled up the scroll.
+
+“This is very thorough for being so far away from the city,” Elder Shou decreed. Meiling felt a swell of pride. She had been working on that one for nearly a year, but was still worried about her skills being good enough to operate on a spine, let alone a snake’s.
+
+“The Hong Family does its best, Master Shou,” Meiling replied, trying to keep the pride out of her voice. She had impressed an actual Spiritual Doctor! A good one. The Hongs of Hong Yaowu had impressed a cultivator! Ri Zu looked similarly pleased, and Meiling saw Jin give her a thumbs up from behind Shou. She nearly blushed.
+
+“Your operation on the young man here was especially intriguing. Most cultivators like to be awake for such operations, but this method of paralyzing the limb and keeping him unconscious is a good way to treat mortals,” Shou continued, his expression open.
+
+“I cannot take full credit for that; it was a team effort,” Meiling demurred. “My husband provided a lot of these ideas, like rendering the patient unconscious and paralysing the limb with acupuncture. Ri Zu monitored his vitals, making sure we didn’t kill him while we kept him asleep, and Wa Shi kept the wound clear of blood.”
+
+“All good doctors make the most of what they have.” Shou turned to Ri Zu. “And you… it's hard to believe that you are a Spirit Beast. I can see your skill in the medical arts.”
+
+“Ri Zu learned from two teachers; her Master and Master Lishu of the Shrouded Mountain Sect,” the young woman replied.
+
+Meiling remembered Lishu from Ri Zu’s story; a stern but fair man who Ri Zu clearly respected.
+
+“He wasn’t bad, Shou,” Shen Yu piped up from where he was sitting beside Lady Minyan. “You might actually be meeting him at some point.”
+
+Shou raised a brow. “Hmm, perhaps we shall cross paths then.” He again sounded intrigued, before he turned his eyes to Bowu. “You did very well on his knee. I can tell it was injured, but the injury is long past and the reconstruction is nearly perfect. There is a slight misalignment of the kneecap, but something that could be explained by birth and nothing that will cause any additional injury.”
+
+“It’s misaligned?” Meiling demanded, her eyes widening. Had she messed up? Was she hurting him? She turned to Bowu, who obligingly lifted his leg so she could pull up his pant leg and examine it. She poked and prodded, her eyes searching for something.
+
+Shou chuckled. “A perfectionist? Good. But it is nothing either of you need worry about. In breaking and realigning the kneecap, it is now three hair’s breadths too wide and not convex enough, but again it's not something that will be an impediment,” Shou explained. Meiling let out a breath of relief. “You are quite lucky to have had her attend to you.”
+
+His tone was a lecturing grandfather reminding a child what to be thankful for—but Meiling was never in any doubt about how much Bowu appreciated them. She had had to tell him to stop working several times. He tried too hard to repay them.
+
+“I know. Auntie Meimei is the best,” Bowu replied with a smile. Shou nodded, accepting the answer, before turning his eyes to Miantiao.
+
+“I understand you are the patient?”
+
+‘Yessss. Thisss one is Miantiao, Masster cultivator,’ the snake answered, bowing.
+
+“You were the one who crafted the glass and the pots?”
+
+‘That isss I. This one is a glassssworker and potter, following my Masster’s legacy.’
+
+“All wise men honour their Masters for showing them the path. You do fine work,” Shou told him, before turning to Meiling. “It is good that you held off. Your hypothesis on fixing his spine, especially for one so small, is flawed, but easily corrected. You have done a fine job for only having access to a few scrolls and being self-taught, but nothing you have was thorough enough.”
+
+Again, a relief. Her gut had kept telling her she was missing something, and she had listened.
+
+“Now firstly, when doing an assessment on the spine one must consider the amount of resources one is willing to spend. Skill can reduce this load, but for an injury as old as this it would be costly in terms of medicinal reagents,” Shou explained.
+
+Mei frowned at the mention of cost. It was something all doctors had to think of. Cost. But right now? Now, they were blessed that cost was no object.
+
+“I promised him I would fix him,” Meiling said simply.
+
+Shou chuckled. “Indeed. Seven Fragrance Jewel Herbs are a fine start, but to repair the nerve damage… Well, there is a selection of reagents, each with their pros and cons. At the end of our time together, I expect you to select one of these and give me an explanation on why you will be using it.”
+
+Meiling sat up straighter.
+
+There was a flash and ten different Spiritual Herbs, five pieces of what looked like insect keratin, and seven pieces of metal dropped onto the table from Shou’s storage ring.
+
+Meiling’s eyes widened. “…I’ve never even heard of any of these before,” she whispered, stunned. Schooling her face to neutrality and remembering her lessons with Lady Wu, she bowed. “Thank you for your generosity, Master Shou.”
+
+Shou smiled. “Generosity? No, this is repayment. But first, I wonder what your instincts say? The first herb one reaches for is quite fascinating.”
+
+Meiling nodded, returning her attention to the probably extremely rare things on her table.  She reached out a hand and looked up at Shou, who nodded, allowing her to examine them. Her fingers touched one and then she blinked, hard.
+
+Something whispered in the back of her mind. Wait, no, she knew this. She had been taught what it was by… somebody? “No, wait… that one is… Starlight Pathway Leaf?”
+
+Shou smiled. “Indeed it is! The most common of the Spiritual Herbs we shall be examining today. That is not to say it is not effective, for it is most efficacious in healing low-level nerve damage…”
+
+Meiling listened intently, but she was a bit distracted. She was sure she had never heard of any of these before. But for some reason, they were all kind of familiar. When she concentrated on that feeling of familiarity, she could almost hear what sounded like an old man’s voice.
+
+She put it out of her mind. She would talk to Jin about it later. For now, she was here to learn.
+
+Miantiao would have his back fixed.
+
+===========================================
+
+I took a sip of my tea and leaned back on my bench in the greenhouse.
+
+It was always interesting watching the doctors of this world at work. It was fascinating to see the ancient methods like Qi flow and humors that the Before would have turned its nose up at not only actually work, but work better than the things the modern world had sometimes.
+
+So it was always fun to listen in and learn, as Meimei and Shou went over the various things he had.
+
+Man, Xianxia plants were so cool!
+
+I was quite thoroughly enjoying the discussion when I noticed Elder Ge approaching.
+
+He had a pensive look on his face.
+
+“Jin,” he greeted.
+
+“Elder Ge,” I replied, nodding my head. “Finish your game with Xiulan?”
+
+“She's an interesting opponent!” he declared. “She needs to refine her theory, but she's quite good at drawing one into a dance. An instinctive player. She just needs more practice.”
+
+I glanced past him, to where Xiulan was sitting prim and proper. But I could practically see the smoke coming out of her ears with how hard she had to think. “Yeah, she's certainly good at giving me the run around.”
+
+“Indeed. She is interesting. We also had an… enlightening conversation before lunch,” he said. “It was about the past of this province, mostly. I must admit I was quite intrigued.”
+
+I nodded. Xiulan had told me she had told Ge a bit about the past of the province over lunch… but hadn’t spoken much on it, because to her it was my choice how much I wanted to reveal.
+
+Ge had been nothing but polite so far. He had made amends. I think… I think I could show him at least some of the past. Mostly the parts without Tianlan. He was an Imperial Realm cultivator. Gramps had shared that he thought the Wastes were dead and consumed Earth Spirits. Maybe if I showed him part of the Breaking he could figure out some way to help the Wastes?
+
+Maybe I was a bit too optimistic about this. But, well, it couldn’t hurt, could it?
+
+“Hey Gramps, can you help me show Elder Ge something?”
+
+=========================
+
+A Spirit spasmed awake. A new visitor. Powerful! Noble! Perfect!
+
+Shenguashi, the Spirit within the memory crystal, stirred. It landed in front of the newcomer. Conditions met, conditions met, conditions met! This one could be it!
+
+Its good eye locked on to the new man. He truly even looked the part! The bold lines, the fine clothes!
+
+“Will you be the Emperor?” the Spirit asked, hoping against hope.
+
+The dark haired man raised an eyebrow. “I must decline,” he said. “Another is already Emperor.”
+
+The Spirit slumped.

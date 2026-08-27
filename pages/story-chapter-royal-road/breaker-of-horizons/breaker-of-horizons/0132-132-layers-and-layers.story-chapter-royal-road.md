@@ -1,0 +1,115 @@
+---
+id: 339227c1-16a2-58fc-8a55-83319170d2d9
+page-type-slug: story-chapter-royal-road
+title: "132. Layers and Layers"
+slug: 0132-132-layers-and-layers
+partOf: breaker-of-horizons
+position: 132
+ownLength: 1894
+unit: words
+publishedAt: 2021-08-05
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/728746/132-layers-and-layers"
+royalRoadId: "728746"
+---
+
+'Knowledge binds,' the augera began, 'but knowledge has layers.'
+
+As Caden and Emilia watched, the sequence ringing the clearing seemed to shift and twist, and then peel apart so that they were no longer looking at the strange, convoluted glyphs that had baffled them as just a single construct. Now, they could see that each glyph was in fact made up of several different ones, each laid on top of the other in progressively higher layers of reality. The augera had taken the very fabric of the world and stretched it out for them, so that they didn't have to fold their minds to see — it was unfolding reality for them, rapidly thumbing through its various dimensions like a book.
+
+'Knowledge binds because it shapes your auric-ambient-flare. As you learn, it changes. You take new forms, new shapes, new patterns. And that is when you become bound, because you cannot fit into the forms, shapes, and patterns of the world as you once did.'
+
+It was painful to watch, but the augera briefly pulled their sight into planes of reality that were beyond what they had seen so far, even in their folding of oblivion, and pointed at something. Caden had no idea how much Emilia understood, because he could barely even focus on it, but in that barest flicker of a second, he caught the impression that the augera was pointing at a rock. A rock.
+
+'Was that a rock?' Caden asked, puzzled.
+
+'Rock?' The augera twisted in confused amusement, then seemed to lean in towards him. '... Rock? No. We were not pointing at things of the world of flesh.'
+
+'You were pointing at a rock,' Emilia confirmed, frowning at the space that the augera had directed them to look at, although it was now completely empty since the augera had allowed the layers of reality to slip back into their proper position.
+
+'... no. Look, sighted ones. Look. See.'
+
+Once more, the augera peeled the layers back and held them open for Caden and Emilia to peer through. They folded their minds, and Caden felt the augera taking hold of their auric-ambient-flares in those higher dimensions, like someone gently turning a person's head towards something. Caden grimaced in discomfort, his mind struggling to really comprehend what he was supposed to be looking at.
+
+Not eyes, he thought to himself. Seeing, looking, these are words of the world of flesh. What part of my auric-ambient-flare is supposed to be used here?
+
+It was the part the augera was currently cradling. A part that the Fateweaver had skimmed over earlier and briefly touched with its otherworldly, metaphysical limb. Caden twitched it clumsily and pointed it at the thing the augera wanted him to comprehend.
+
+He gasped, then turned away, shivering uncontrollably.
+
+'You saw,' the augera said, sounding satisfied, and it relinquished its hold on the two of them and allowed the layers of the world to fall back into place once more, so Caden could no longer sense what had disturbed him so greatly.
+
+'What? What did you see?' Emilia demanded.
+
+'It... i... I....' He tried to stop himself from shivering and was successful for only a moment, before a violent shudder ran right through him. He felt the augeric shell tighten around him like a warm blanket, only then did he realise that he had stopped breathing. He forced himself to suck in a lungful of air, then quickly tried to settle into a breathing exercise to calm himself down.
+
+Of course, in oblivion, he wasn't actually breathing in the first place. What he had perceived as a cessation of his normal breathing was actually a sign of how the flow of arcana in his auric-ambient-flare had seized up. He had become so disturbed by what he had seen that the very essence of his being had gone into some kind of shock. Going through this breathing exercise in oblivion was his way of regulating the flow of arcana in his auric-ambient-flare again. It was moving again, but was now a chaotic jumble. When Emilia realised what was happening, she started helping him by sending gentle arcanic pulsations that soothed his auric-ambient-flare and helped him return to a steadier, more even flow. It took him about a minute before he felt like he had settled his nerves and sufficiently calmed his perturbed auric-ambient-flare.
+
+'Sorry,' he said to Emilia, feeling quite worn out. 'I... really don't know how to explain.'
+
+The augera rumbled, and it was such a curious sound that Caden and Emilia didn't realise until after a few seconds that it was laughing. 'Rock. Rock! ROCK! We understand now. Yes. A rock. A rock!'
+
+'You mind telling us what's so funny?' Caden asked peevishly, still reeling a little from the shock he had just experienced.
+
+'You are unchosen-sighted-{~?~}. She is brilliant-sighted-singer. We are woven-shackled-stream. We all exist, and so we all comprehend existence. But our beings are not your beings. So our words are not your words. The worlds bridge us, and we travel from our little islands to meet in the middle, where we share words from alien beings. A rock! Yes. We see now.'
+
+Caden stared at Emilia and found some small scrap of comfort when he saw his utter confusion mirrored in her face. Finally, finally, somebody else was right here with them when he was speaking with an augera (Or was it more than one at once? Or was it all of them at once?), and he would be able to speak with her afterwards and compare notes. In fact, now that he thought about it, he didn't even really care about comparing notes at the moment. He was just relieved that he finally had someone he could talk with and just complain about how utterly confounding all of this was, and how horribly frustrating it was to communicate with these creatures.
+
+The look of bewilderment on Emilia's face morphed into irritation. 'We don't see. Explain.'
+
+The waves of amusement wafting off the augera quietened and soured into something that was vaguely similar to Emilia's irritation, though Caden thought that there was perhaps also a pinch of helplessness in it. 'We try. We always try. Ancient-distant-spiders made us woven-shackled-streams, and so we always try.'
+
+'Try harder,' Emilia pressed. 'Caden just went into some kind of shock from whatever you made him look at, and neither of us are any the wiser for it!'
+
+'A rock. Your word. Your thoughts. What are rocks?'
+
+'... What are rocks? What the hell?' Caden blurted. He pulled threads of arcana from the air and projected the image of one. 'I mean, seriously?'
+
+'No. No. We...' The augera twisted itself in agitation.  'Your word is rock. You use it on these things. But when you say this word, what are your thoughts?'
+
+'Stone? Pebble? Ground? Floor? Earth?' Emilia rattled off, still confused. She pointed at the image that Caden had conjured. 'I mean, that's it. What are you asking?'
+
+'Yes!' The augera sounded suddenly excited, even pleased. 'You see the strings? You see the lines? Follow them.'
+
+'What?' Caden asked blankly.
+
+'No, you cannot see the lines yet,' the augera said, now forlorn. Their mercurial shifts were beginning to wear Caden down.
+
+'I–' he began hotly, but Emilia interrupted him with a dramatic gasp.
+
+'I think I understand,' she said, her eyes wide.
+
+'You see strings?' Caden blinked at her.
+
+'What? No, I don't know what strings they're talking about. But that thing about the rock. All those words. They're asking about the mental associations we have when we use these words.'
+
+A glimmer of understanding came to Caden. 'Okay... but... oh. OH.'
+
+A memory clicked in his head. Ambrose had mentioned something like this when he had spoken about his first foray into oblivion. At that point, every time he thought in terms of physical space, he had suffered terrible mental anguish and increasing disorientation.
+
+'Our words... our language is filled with associations,' Caden said, thinking aloud. 'Our words shape our thoughts. I guess... I guess in some really, really simple way, we did see a rock.'
+
+'YES!' The augera exclaimed. 'Rock. Why did you think you saw a rock? Because your words mean something.'
+
+'Quiet. Quiet for a moment, please. You're just... saying the same words in a different order, and you're using words that I think I recognise, but it's obvious that you're thinking about more, or about totally different things,' Emilia said to the augera, frowning as she massaged her forehead.
+
+Caden nodded fervently. Emilia definitely understood the pain and frustration that he felt every time he spoke with the augera.
+
+'Okay. So we both saw something we thought was a rock. But it's not a real rock like those lumps of stone in the physical world. Still, we perceived a rock, because when we think of ordinary rocks, we're thinking about... what, exactly?' Emilia asked.
+
+'That's what the augera was trying to get at,' Caden pointed out.  'What is a rock, in the physical world? It's... I mean, it's really just part of the world, isn't it? The physical world itself. It's like, just... the ground. The earth. The stuff we stand on. It's just the basic flat ground beneath us, which we totally ignore. But it's... it's our foundation. We build everything on it. And somewhere in our heads, these are the things that are jumbled up in that one word.'
+
+'So you're telling me we saw... an arcanic rock?' Emilia raised an eyebrow. 'And you got scared by that?'
+
+'No,' Caden shot her an annoyed look. 'We saw something foundational. Something that is just... the fundamental, foundational layer.' He directed his attention to the augeric shell, which had quietened down at Emilia's behest. 'Is that right?'
+
+'... in part,' they replied, sounding subdued. 'It is a deep layer. The deepest we see.'
+
+Caden sighed. 'Of course. And that's why you couldn't understand the wellspring, because it works at even deeper levels.'
+
+The augera did not reply, but Caden sensed an echo of their grief as they thought back to that moment when the wellspring-ocean-core had made brief contact with them, and spoken to them in its own alien way, without bothering to simplify its communication so that they could fully understand it, when it had deigned to do so for him.
+
+Emilia's loud sigh brought him back to the present. She jabbed a finger at Caden, though he could tell she was actually directing this gesture at the augeric shell. 'Okay. That was a lot of trouble and fuss over what I suppose is just the first step. You were only starting to explain how to escape this prison. At the rate this is going, Caden and I are going to be gibbering and insane before we're out. Can you just open the damn door?'
+
+'No. It is against the pattern, and as woven-shackled-streams we cannot break it. We may distort it, but the distortion to unlock this prison will be so great that the ancient-distant-spiders will see.' The augera seemed to take in a deep breath. 'But we believe in your sight. Both, as sighted ones, have the being. Now you need the knowing. We will teach you. You can learn.'
+
+But one small sliver of the augera turned to Caden alone, and whispered so quietly that only he could hear: 'You must.'

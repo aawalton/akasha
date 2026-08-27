@@ -1,0 +1,123 @@
+---
+id: 4fd0447f-fe86-59b8-9a93-bc93f36464f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 - Origins"
+slug: 0001-chapter-1-origins
+partOf: bookbound-bunny
+position: 1
+ownLength: 2557
+unit: words
+publishedAt: 2025-01-26
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/2030608/chapter-1-origins"
+royalRoadId: "2030608"
+---
+
+Magic! The pinnacle of expressing oneself through knowledge and determination—or, at least, that is what it meant to Arakil. His passion for magic was said to be unrivaled, and he would stop at nothing to unravel its secrets.
+
+Originally of humble origins, a peasant farmer's bookwormish son, Arakil, had started from the absolute bottom. But his passion early on soon spiraled into an obsession, and once he made a name for himself, little could deter his unwavering commitment to his endless hunger for more.
+
+Arakil's thirst for knowledge was insatiable. Every aspect of magic, no matter how obscure or esoteric, fascinated him: Inscription, Evocation, Daoism, Eldritch, Daemonic, and more. Arakil was determined to study it all through direct experience or experimentation on others. In his relentless pursuit of knowledge, moral considerations soon became an afterthought.
+
+That wasn't to say Arakil was evil, per se; there were no bloody sacrifices of virgin maidens or other diabolical activities. Certainly, nothing cartoonishly evil like baby eating. In fact, Arakil would sooner casually save someone, a doomed kingdom, or even a dying race; especially if there was magical knowledge to be gained. Casually killing a would-be Demon King and earning himself a lost scroll or grimoire was one of his favored and sought-after transactions.
+
+When mortals failed to stop him, a minor deity tried to intervene and soon found himself broken down into magical reagents. This act elevated Arakil to a minor deity of magic, although he had already long transcended his mortality. Lichdom had been only the first step in his effort to endlessly prolong his life, as he truly sought to find and understand all magic. It was only when he started traversing between planes and dimensions that others truly began to take him seriously. He was like a ravenous, all-consuming void, which was oddly fitting when he cast a grand ritual to contain and store a black hole for his personal use.
+
+Now, Arakil didn't fear death as he had numerous contingencies prepared for such an inevitability, and he believed his memory to be picture-perfect. However, one of his acquaintances who still talked to him commented offhand about consolidating all his knowledge into an eternal repository. Arakil had scoffed at the suggestion; he had a pocket dimension full to the brim with books and scrolls and could summon countless familiars or servants to find the item he wanted. But like a tiny seed, the idea nagged at him until it grew into something he simply had to do.
+
+Arakil, never one to take things halfheartedly, embarked on a mission to create the ultimate grimoire. This was not just a project but a testament to his relentless pursuit of knowledge and progress. The grimoire had to be indestructible, endlessly expansive, convenient to add more information, and have a method for scanning through or organizing its contents. The infinitely expanding cosmos held most of his requirements, which is why his first target was a cosmic dragon. Able to withstand the void of space, exploding stars, and even escape the center of a black hole, it was truly a magnificent being.
+
+Arakil stepped onto one of his teleportation sigils and warped to his desired location, a moon he had commandeered and carved into a giant runic matrix and thousands of interlinking spell forms, one of his most prized possessions. While cosmic dragons were masters of space and held unparalleled dominion over gravity, they had no sway over dimensions. He scryed for the nearest one within a comfortable range and observed it while he made his required preparations.
+
+The cosmic dragon was a breathtaking sight to behold. Its scales shimmered with the radiant glow of distant stars, and its form seemed to shift and ripple like the fabric of space itself. The dragon's wings stretched out like swirling nebulae, and tiny points of light twinkled within its translucent, ethereal body. Its eyes blazed with the incandescent fury of a supernova, and its every movement left trails of stardust in its wake. This majestic being was a living embodiment of the boundless wonders of the universe, a being to be revered and feared in equal measure.
+
+This is why Arakil gave it no opportunity to attack or perceive his intention. Any spectators expecting an honorable and epic duel against such a legendary creature would be horribly dismayed. He warped in with his moon and immediately set off countless triggered incantations and arcane forms, separating the dragon and its various vital organs into disconnected frozen-in-time pocket planes through unprecedented dimensional magic. A grand beast like this being snuffed out like a mere candle caused a ripple of disquiet among those who knew of it, but before any retaliations could be made, Arakil was already off to his next two destinations.
+
+His next task would require sacrificing his spell moon, but he could readily make another with time. With precise finger movement, perfected eldritch utterances, and a generous heaping of cosmic dragon blood, he bastardized the dimensional runes of the entire moon into a makeshift array for gravity and containment. Defying reality itself, the new spells triggered and began compressing a dying star. Meanwhile, pocket portals opened, throwing countless priceless reagents into rapidly shrinking celestial flame. He sped up the process with a bit of chronomancy, and the final result was a sphere made out of an impossible material. He gave a somber salute to his once proud spell moon, now a husk of its former self with only a few remnants of faint glowing magical circles and formations.
+
+He required one final ingredient for his creation, and thankfully, he knew where to get it in his exploration of dimensions and parallel worlds. With a homebound teleport, he returned to one of his many sanctuaries and headed toward one of his previously set-up gates. He swapped out the enchanted crystals in the formation for a specific combination and activated the archway.
+
+This parallel dimension was similar to most, with only one glaring difference; it was entirely miniaturized. He would store his target inside of the cosmic dragon's heart as a sort of pseudo-phylactery. What was this target worth sacrificing such an infinitely rare treasure? A small, mostly empty galaxy with a few planets that held resources he wanted, like a magnificent forest planet with some of the most beautiful wood he'd ever come across and would no doubt make the best paper imaginable.
+
+He was pretty sure some voices were warning him to stop or perhaps demanding him to, but he ignored them. He was on a roll after all, and he had checked beforehand that the galaxy didn't contain any sentient life, or...was it sapient life that he was meant to check for? Oh well, it was too late now.
+
+With his resources gathered, he spent the next endless hours preparing a grand ritual and even managed to incorporate the husk of his spell moon as a reagent to give it one final glorious sendoff. To make the grimoire indestructible, the compressed dying star became the base material, the miniaturized galaxy used for infinite expansion and paper, his black hole for devouring his collection of knowledge, and finally, the corpse of the cosmic dragon to hold it all together.
+
+Item creation wasn't his strongest hobby, and so he sacrificed countless dungeon cores appropriated to handle the messy details, as they came from a world with a so-called System that allowed one to achieve the impossible by overwhelming things with numbers.
+
+An unknown time passed, and everything was ready before he started the grand—no, the supreme ritual. His work was immaculate, and he quadruple-checked for any oversights or errors. Formations synced up, the dungeon cores were sacrificed, and his blueprint and framework shone with the fury of a supernova. The end result? A massive grimoire lay on the floor with immeasurable resources poured into it. He gingerly picked it up and gave it a deep whiff.
+
+"I love that new book smell."
+
+He threw the book into the air and cast his disintegrate spell; the pale green beam struck the object and failed to find purchase. He cast dimensional severing, meteor, wish, unmake, flare, absolute zero, lightning bolt, countless other spells, and even a good old fireball. The book was unharmed. Summoning a mug of coffee, he purposefully threw its contents over the pages and watched as it failed to leave even a minor stain or soggy paper.
+
+Extremely satisfied with its durability, he now needed to test its ability to store knowledge. He pulled out a copy of one of his favorite books and placed it on the rear of the book, where a golden spiral was interlayed in the cover. With a minor activation of his Mana, the book was swallowed whole, and he eagerly opened up the grimoire and found the work within perfectly replicated. Now, the book as a whole was indestructible, as was the knowledge contained within it; at least, that was Arakil's goal.
+
+However, what was a book without having access to scrap paper or replicable documentation? So, by exerting his intent upon the tome, he carefully tore out a page containing a spell circle. As soon as the page left the book, it was replaced by a fresh one containing the exact same contents. Once free from the ultimate grimoire, the loose page was effectively ordinary, yet extremely high quality, paper. He folded it into a paper airplane and tossed it off into the distance before burning it to cinders with a precision fireball spell.
+
+He spent the next indeterminable amount of time absorbing all of his scrolls and books into the grimoire. He transferred knowledge he lacked in written form using mind crystals. He was pleasantly surprised when they were also compatible with the knowledge consumption aspect of his ultimate grimoire - he had anticipated it would work, but having a theory come to fruition is always a joy.
+
+His vaults of knowledge and libraries were now truly empty, and he stared happily at his likely ultimate creation. Indestructible, endlessly expanding, limitless paper, and containing his wealth of information. He had even built in an effect where he could shrink the large tome to an easily pocketable size, a side effect from incorporating the galaxy from the miniaturized parallel dimension. Truly, it was perfect... Except for one thing.
+
+"Finding specific information I want is truly a nightmare. I need something or someone to be able to sift through this." Arakil said, scratching his chin with thought.
+
+He had a few ideas on how to solve this, and luckily, he had considered this when making his preparations, leaving a suitable slot for a soul to be housed and incorporated with the grimoire.
+
+He had a few options: create an artificial spirit, perhaps awaken a magic item, or bind a familiar inside the tome. However, the idea that would likely give the best result would be to find and coerce a god or goddess of knowledge, learning, or wisdom in some realm, dimension, or parallel world into merging with his book. Surely, as one who had risen to a minor deity of knowledge would be privileged to be housed inside such a fine tome? Yes. That was the best option.
+
+"Despite our numerous warnings and hopes, your unwavering pursuit ceases to end." A heavenly voice echoed throughout his chamber.
+
+"Sara? Is that you?" Arakil asked.
+
+"That's Saraiel to you." She demanded.
+
+"Look. I'm awfully busy trying to finish my book. Can we talk about this some other time?" He replied, barely sparing her a glance.
+
+"Such disrespect."
+
+"Such disdain."
+
+"He continues to mock us."
+
+"His crimes are endless."
+
+"He massacred a cosmic dragon!"
+
+"He plundered a parallel dimension!"
+
+"He's doomed countless worlds!"
+
+Countless voices shouted other accusations at him, and he couldn't help but scratch his head. This certainly was a lot of deities showing up. Surely he didn't do anything worthy of this much attention this time?
+
+"Look. If it makes you feel better, you can kill me, and we can get on with our lives." Arakil said nonchalantly.
+
+"Ha! You speak as if we don't know about your backups."
+
+"Or have killed you in the past already!"
+
+"We might as well spit into the wind!"
+
+Arakil clicked his tongue in annoyance. Usually, that worked to get people off his back for a while, and all it cost him was the inconvenience of losing a body, some time, and a cleaning bill.
+
+"But now, we have a fitting punishment for you."
+
+"Created by your own hands no less, what delicious irony!"
+
+"Yes. Finally, karma shall be reaped."
+
+Arakil frowned. Were they actually serious? He was ninety-nine percent sure he had made contingencies for almost any scenario, including capture and sealing. It was a pity he had sacrificed his spell moon; he would have loved to put some of these lowly deities in their place.
+
+"Enough!" Saraiel's voice boomed, silencing the countless other voices. She was the goddess of judgment and had often butted heads with Arakil.
+
+"Arakil! You shall be sealed within that grimoire for eternity for your crimes!" She decreed.
+
+Heavenly chains began to wrap around him, fueled by her power and the lent might of the countless other deities present. Part of him wanted to resist, but he found the idea intriguing. What was a few years spent within his own glorious creation? He could even get a headstart on organizing the wealth of information before he found a suitable candidate. Hell, he could even add more of his knowledge directly into the book!
+
+Arakil was confident that he could escape its confines; after all, it was like they were setting him up for the biggest cliche ever! A grimoire containing magical knowledge beyond understanding was so sought-after that he could easily fool the first sap into working for and freeing him. And if he was truly trapped, then his ultimate contingency would trigger. It was costly beyond measure, and truthfully, he worried about potentially being unable to replicate it again, which was why he had set its activation condition to be as strict as it was.
+
+As long as there was a sliver of a chance at escape, it would not activate.
+
+Arakil's body began to lift off the ground as the chains pulled taut and brought him closer to the grimoire. He felt the links of metal piercing through his metaphysical body and reaching into the depths of his soul, tearing it asunder before interlinking with the book and its open, waiting grasp. He felt his soul leave his body, reality ceasing to exist for the briefest of moments before it came flooding back. He looked around the room, his vision at the moment limited to the singular eye that was on the front cover of the tome. The other deities snickered and cheered, thinking they had won.
+
+One of them opened up a portal leading to the void of space, and he found his book-bound form being tossed through the portal. The last words he heard before the portal snapped shut were the deities already discussing how they would loot and distribute his various treasure troves. Arakil couldn't help but chuckle; he'd find all of them and claim it back with interest.
+
+It was good that he had limitless paper because he began making a lengthy list of those who had crossed him.

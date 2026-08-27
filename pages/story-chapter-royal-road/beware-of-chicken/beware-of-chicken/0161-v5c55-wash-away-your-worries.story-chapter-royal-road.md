@@ -1,0 +1,217 @@
+---
+id: 09c61dba-7078-5158-a1bc-2b1e9493af2f
+page-type-slug: story-chapter-royal-road
+title: "v5c55: Wash Away Your Worries"
+slug: 0161-v5c55-wash-away-your-worries
+partOf: beware-of-chicken
+position: 161
+ownLength: 2683
+unit: words
+ownProgress: 2683
+publishedAt: 2024-10-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1867299/v5c55-wash-away-your-worries"
+royalRoadId: "1867299"
+markedReadAt: "2026-06-29T18:56:49.766Z"
+---
+
+“Oh, now that's interesting,” Ri Zu’s Master said, her eyes gleaming while she pored over the medical text Ri Zu had gotten from the Medical Pavilion at the Shrouded Mountain Sect.
+
+“Right?” Ri Zu asked from her place, leaning on her Master’s shoulder. Her sense of smell was diminished while she was human, but the smell of home was still… comforting.
+
+Heavens, she had missed talking with her Master.
+
+Yushang was speaking with Tigu—the two had hit it off swiftly, while Yin was helping Pi Pa put away the last of the dishes. Xiulan and Xianghua were talking with a bee of all people. It had been a bit of a shock to learn that Vajra was awake and had helped with their home’s defense.
+
+“That's us done, love.” Ri Zu and her Master both perked up at the soft, contented voice of Master Jin that carried through the living room as he and the other men returned from the bathhouse, and all of them had their shirts off. Thick slabs of muscle contrasted with slimmer forms, forming a very nice view.
+
+The men had all gone to bathe first tonight. Everyone turned as the men entered the room, and Ri Zu felt her cheeks flush when she laid eyes on Bi De in his human form.
+
+He was as perfect as always. His hair was unbound and free, like a scarlet banner. His green eyes were at peace, and he looked like he had had a good time. Ri Zu traced the curves of his well-sculpted muscles, until her eyes landed on the starburst of burned and scarring skin on his chest.
+
+He caught her eye and smiled warmly.
+
+Yushang made a noise of appreciation in the back of her throat, prompting a chuckle from Xiulan while Xianghua just nodded.
+
+“Indeed, my Gou Ren is a magnificent sight!” Xianghua boasted.
+
+Ri Zu could not disagree. Gou Ren had grown taller and packed on more muscle. His shoulders were broad and his body tapered into a triangle towards his waist. Many cultivators Ri Zu knew at the Shrouded Mountain Sect crafted for themselves such a physique, but Gou Ren had extra muscles in places from his time tilling fields and building walls. They filled out his form with just that extra amount and made him look a bit more proportional, in Ri Zu’s own clinical opinion. And though he indeed looked quite a bit like a monkey, nobody could dare say he was not a handsome man. He looked like a true warrior—especially with the half-healed cuts on his chest and shoulders.
+
+His brother walked beside him, both men were conversing. Yun Ren had his ears out and his hair down, the strands obviously having been brushed, judging by the comb Gou Ren was still carrying. Yun Ren was still smaller and slimmer than his brother, yet he walked with predatory grace. His shoulders were less tense, and he looked like the warm water had provided its relief.
+
+Shen Yu came next. The old man still had ugly, puckered wounds over his body, yet they couldn’t diminish his form. His physique was perfect. Forged and sculpted into a weapon of his own design. His back was straight and firm, and the old man looked very content, moving languidly.
+
+Spooks came in just behind them. Ri Zu had seen that the bathhouse was bigger now, but she was still a bit surprised the Thunderhoof had fit inside it. His fur was clean and lustrous, and he looked about to fall asleep. He only managed to stay standing thanks to the support of Chun Ke, bandages still around the boar’s chest.
+
+Shao Heng and Han looked to be half-asleep. The older man’s weatherbeaten and scarred body was in contrast to Han’s more corpulent form—and Ri Zu was glad both of them were enough at ease to look like that.
+
+Huo Ten rode upon Bei Be’s back, along with Miantiao, the Torrent Rider, and Shaggy Two. Delun walked next to the ox. Ri Zu could certainly see where Tigu was coming from, calling Delun ‘Handsome Man’. Like the others, he too had half-healed wounds, proof of the fact that he had defended their home.
+
+Even Yingwen and Fenxian looked to be at least somewhat content.
+
+Finally, bringing up the rear were Bowu, Wa Shi, and Master Jin. Unlike the others, Bowu was undamaged—but he looked no less tired. Master Jin, out of everyone save Shen Yu, looked the worst off. The electrical burns and damage to his arms were the most blatant injuries…but his stride was solid.
+
+As it should be, Ri Zu found herself thinking before she shook off the thought. He always looked so indomitable, like a mountain… but as she looked closer, she could see the slight hesitation the pain brought to his movements. He was carrying Wa Shi in his jar, the fish still asleep.
+
+“Oh, being human must have really changed things if you’re eyeing everybody up like that,” Ri Zu’s Master teased, her voice amused. Ri Zu squeaked and turned to Meiling, expecting more teasing, but instead the other woman’s eyes were wistful as she took in their scarred bodies. “Those are our boys—they fought hard and gave it their all. They did well, didn’t they?”
+
+“We all did, I think,” Bi De said as he approached. He still had a small smile on his face. “While I do prefer my natural form, being able to properly wash another’s back is perhaps the one thing that this body is superior at. It was most enjoyable. And the new bath—well, I suppose you have to see it for yourself.”
+
+“Yes, you do,” Ri Zu’s Master declared. “Come on girls, our turn.”
+
+They got ready swiftly, leaving the men to rest, and in no time at all, they were at the bathhouse.
+
+The very much bigger than Ri Zu remembered bathhouse. The old one had been nice, if a bit cramped, when all of them had used it. It had been a simple thing, rustic, with a low ceiling and smelling of cedar. There had been some bathing supplies, and occasionally birch branches on the wall that one could use to improve circulation.
+
+This bathhouse had a place where they could change that was as big as the previous bathing area—and when they walked through the door, Ri Zu could only stare.
+
+“You said your home was amazing… but this is something else,” Yushang murmured.
+
+This bathhouse kept the spirit of the original—a communal place to bathe and relax— but it was now more like walking into the glass house than walking into the bath.
+
+The room was shrouded in steam, and plants and vines grew from the walls and rafters from special planters. They filled the air with the scents of life and growth, undercut by the faint whiff of cedar, sandalwood, and medicinal herbs.
+
+A great, bowl-shaped tub dominated the room, filled to the brim with water. A grate in the floor was obviously for drainage, and there was a plug in the side of the tub. Lily pads breached the water around the edges, and lotus flowers dropped their petals into the pool. Lightstones shone from the ceiling like a constellation.
+
+“Indeed! Our Fa Ram is full of wonders, pretty sister!” Tigu called out, a grin on her face. She slung an arm around Yushang and Ri Zu, pulling them both into her sides. Ri Zu leaned into her sister’s touch… while taking in the fading cuts and scars all over her. Several of the strikes had completely penetrated Tigu’s body. Ri Zu swiftly pushed the boiling rage away that somebody had hurt Tigu like that, and instead took a breath. It was over. Instead, she looked up at the tanned woman; Tigu was quite a bit taller now than when Ri Zu had left. “Your physique is quite nice! Better than this one here, at any rate!”
+
+Yushang flushed at the praise. Indeed, Yushang’s body was very nice—Ri Zu cut off the thought and instead poked Tigu in the side. Both of them allowed themselves to be pulled into the bathhouse.
+
+“You all worked hard,” Ri Zu said, but Tigu shook her head.
+
+“This is all the work of the ones that stayed. I did nothing but enjoy the fruits of their labours! Mistress especially—her Qi means this place doesn’t start to rot or moulder. Now come on, let's wash each others back—”
+
+Tigu was interrupted when Ri Zu’s Master gently laid her hand on Ri Zu’s shoulder.
+
+“I’ve waited long enough. It's time for a checkup instead.”
+
+Tigu instantly abandoned her, grabbing Yushang and Yin and pulling them along while Meiling’s other hand began to make grasping motions.
+
+…this is probably what it felt like when Ri Zu did that to other people.
+
+But as her Master’s fingers got to work, tension Ri Zu didn’t even know she had was attacked, and Ri Zu was reduced to a puddle underneath her Master’s ministrations… while she began asking questions.
+
+“Tigu was right. Why did you make these so big?” She asked, hefting the objects of her ire. “Are you trying to start a fight? Or did you think that because he was a bird that Bi De liked big breasts?”
+
+“Everything Ri Zu did was to annoy Tigu,” Ri Zu replied, “Especially the freckles.”
+
+“I knew it! I knew it, damn it!!” Tigu erupted.
+
+Xiulan caught the woman out of the air. Xianghua and Yin roared with laughter, and even Pi Pa cracked a smile. Vajra buzzed from where she was sipping dew from one of the lotuses.
+
+Bi De was right, though. Bathing as a human was very nice. There was just something about how nice and soft everyone was… especially when her Master got tired of teasing Ri Zu and both of them moved on.
+
+Tigu’s abs had a very interesting texture, especially once she started squirming.
+
+==============================
+
+Eventually, their own bath was finished and they returned to the main house—where Ri Zu was surprised. Instead of everyone going back to their own rooms, the mattresses, blankets, and pillows had been piled up in the living room.
+
+Bi De was already there, cradling Xiao De—Zhuye, their little brother. He smiled up at her when she entered.
+
+Shen Yu was holding a transmission stone, and Ri Zu caught part of his conversation. “You’ve recorded everything already? You have done well. I shall send a resupply to you tomorrow. Continue upon your course, Disciple of the Cloudy Sword. You walk in the footsteps of the Honoured Founders. This is clear to me.”
+
+Shen Yu chuckled at whatever he heard on the other end and pulled away from the transmission stone. “Ha! I finally flustered him!” the old man declared. “That boy needs to get used to praise.”
+
+Everyone settled in somewhere. Ri Zu found herself in Bi De’s lap. Yushang bunked down with Han and Shao Heng. Shen Yu took Zhuye. Master Jin had Ri Zu’s Master leaning against him while he channeled Qi into Nezan’s dimly glowing core along with Yun Ren.
+
+Xiulan was nearby, all wrapped up in a blanket. Gou Ren, Xianghua, and Bowu formed another cluster, while Tigu was with Delun, the Torrent Rider, and Shaggy Two. Huo Ten was with Miantiao and Yin, while Spooks had been gifted Chun Ke’s ‘beanbag’, the only piece of furniture big enough to support him. The Thunderhoof was out cold, Chun Ke nearby with Pi Pa leaning against him.
+
+Yingwen and Fenxian were off to the side a bit, still.
+
+Finally, Vajra buzzed down to land on Bi De’s shoulder. Ri Zu smiled and waved at her, while Bi De placed a kiss on the top of the bee’s fuzzy abdomen.
+
+Vajra froze.
+
+“Thank you for all you’ve done,” he said with a smile.
+
+The bee started dancing rapidly. Ri Zu had no idea what she was saying, but she looked quite bashful.
+
+The lights were snuffed out, leaving only the shining glass balls, their colours dancing off every surface, and the dim glow of the fire.
+
+There, they traded stories of what happened to their respective groups. Their voices were quiet as they relived the desperate hours and the terror of battle.
+
+The wounds were still raw and fresh.
+
+But in the warm house, with the snow falling outside, and everyone together… it was not quite so terrible.
+
+The darkness fell completely. The fire burned low, and then out.
+
+The snow fell outside, and a great General stood guard.
+
+Ri Zu had no nightmares, safe in Bi De’s arms.
+
+==============================
+
+The next day, around noon, thousands of Li away, Xiao Ge of the Cloudy Sword Sect frowned as the wards alerted him to something speeding into the Sect.
+
+It was specific to one man, keyed to the warding formations, for high priority messages only.
+
+The last time one of these had been used, it had been about Shen Bu.
+
+Ge was on his feet in an instant, his heart thundering in his chest. His Qi reached out and touched the artifact. The blade shot through the air and directly into his waiting palm. It twisted, transforming into a scroll.
+
+Xiao Ge read its contents. His thundering heart stilled.
+
+An Imperial Realm Demonic Cultivator. An attack on an Honoured Ally. Shen Yu asking for help.
+
+“Disciples of the Cloudy Sword Sect. Assemble,” Xiao Ge commanded.
+
+Yukong, Shou, Ran, and Chen were in Ge’s office immediately, their Qi tense and their eyes burning.
+
+The Senior and Core Disciples followed moments later, all of them on one knee, prepared for battle and armed for war.
+
+“There has been an attack on our Honoured Allies, and our Sworn Brother. An Imperial Realm Demonic Cultivator was encountered. I request permission from the other Elders to take on the Mantle of War.”
+
+The Cloudy Sword Sect had no true and official leader. Instead, they governed themselves as a council of all currently active Elders.
+
+His comrades read Shen Yu’s message. Yukong’s normally controlled face became thunderous.
+
+Her Qi flared in, supporting his motion. Shou’s followed immediately after. Chen and Ran completed the measure, unanimous.
+
+“We have been called—and our best shall answer,” Yukong stated simply.
+
+The mountain shuddered. Xiao Ge felt the approval of the Spirits the Founders had tied to the Mountain.
+
+“Rouse the Outer Sect. Put on standby the Army Forged in the Crucible. If an escalation is necessary, we shall effect full mobilization.”
+
+His command was obeyed without hesitation.
+
+“Disciple Su Ge, aelect your most able peers. You are in charge of the Core Disciples Cloud.”
+
+“Yes, Elder Ge,” his granddaughter intoned.
+
+“You have ten minutes. The Cloudy Sword Sect shall not be found wanting. Go.”
+
+========================================
+
+A woman, sitting upon a floating island, frowned at the sword she had snatched out of the air. She was stunningly beautiful and her Qi swirled around her, her power in the Imperial Realm.
+
+Tianzhe Minyan, the Divine Falcon of the East, Second Lady of the Soaring Heaven’s Isle Sect, frowned at the message from her on-again off-again lover, Shen Yu.
+
+“...you only speak first if you want something, don’t you, you bastard,” Minyan muttered, but her heart was not in her harsh words. She looked down at the sword again, one line standing out to her in particular.
+
+I need your help, Minyan.
+
+She clicked her tongue.
+
+“Bailu. Seiyu.”
+
+“Yes, Master?” her disciples asked. The Storm Wings of Soaring Heaven’s Isle descended to one knee, their heads bowed. Minyan studied them. Neither were the brightest girls… but they were loyal and strong.
+
+Tianzhe Minyan looked down from her floating island onto the sea below.
+
+“Assemble a crew for the Windward Blade. There is a matter we have to attend to.”
+
+=========================================
+
+In the Imperial Palace, the Son of Heaven looked at a sword carrying a message—and then called his most loyal man. The only man who could claim to not truly be a man, but something else—a voice of the Son of Heaven.
+
+The Imperial Herald received his orders.
+
+To the Azure Hills.
+
+==============================
+
+================================
+
+Edited By: Plasma Regulators, BargleNawdleZouss, Massgamer,

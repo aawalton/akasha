@@ -1,0 +1,159 @@
+---
+id: 7afa8aca-d812-5b30-a7c6-55ffbf3b9da8
+page-type-slug: story-chapter-royal-road
+title: "v5c2: The Strongest Technique"
+slug: 0107-v5c2-the-strongest-technique
+partOf: beware-of-chicken
+position: 107
+ownLength: 2294
+unit: words
+ownProgress: 2294
+publishedAt: 2024-05-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1639444/v5c2-the-strongest-technique"
+royalRoadId: "1639444"
+markedReadAt: "2026-06-29T18:55:09.668Z"
+---
+
+Bi De kept his story simple, short, and to the point. His Great Master had once said a man should be able to explain an important issue in twenty words or less.
+
+They were chasing demons, the demons had collapsed their underground tunnels, and thus they had tracked them overland this way.
+
+One might say telling a random Spirit Beast about their quest was foolish; it could have been in league with the demons after all. However, Bi De doubted that, and they were effectively attempting to bring an army through Master Forest Sweeper’s home. It would have been terribly impolite not to speak to him.
+
+Being honest was the only correct choice.
+
+“And it is for this reason we have come to ask permission to venture through your forest, Master Forest Sweeper. It is the fastest way,” Bi De finished. His voice was slightly strained as the  massive Spirit Beast’s intent pressed down on them all. Not directed at them, merely a reaction to the news that he was receiving. That alone made it barely tolerable, especially as the intent made Master Forest Sweeper transition from the Earth Realm to Sky, and easily match the might of the Patriarch of the Shrouded Mountain Sect… and then start to surpass it.
+
+Yushang, Han, and Fengxian were shaking slightly; Yun Ren’s eyes were open all the way as he took deep, calming breaths, his arm around Shao Hen’s bicep as the man’s knees wobbled and his sweat froze on his face. Ri Zu’s shadow was writhing like a living thing, and Yingwen was standing perfectly still though his eyes were slightly glassy.
+
+Nezan seemed only mildly concerned, while Shen Yu looked the same as always.
+
+Master Forest Sweeper let loose a blast of arctic air from his nostrils. His mantle, the great storm he bore on his back, boiled with barely suppressed fury.
+
+‘Underground? Under My forest?’ Master Forest Sweeper ground out, his voice rumbling like an oncoming storm.
+
+“Yes, Master Forest Sweeper. And after seeing your might, this Bi De postulates that they intended to use you as a shield, should any try and track them down above ground,’ Bi De said. He swallowed again, keeping his voice as even as he could.
+
+Bi De understood that most groups of cultivators would not have hesitated to march into the forest before him—and judging by the Spirit Beast’s strength, the demon's plan would have succeeded with the death of all but a rare few who stepped within the Spirit Beast’s realm.
+
+Lightning flashed as a peal of thunder broke the air and Master Forest Sweeper grew bigger, his body becoming one with his mantle as clouds gathered above the forest. Half their party fell to their knees, and Bi De staggered as the air froze in his lungs. Nezan stepped forwards, to place himself in front of them… when the Thunderhoof seemed to struggle with himself for a moment. He snapped back into his natural form and his intent retreated.
+
+Bi De could suddenly breathe again.
+
+“Quite rude of you, to frighten the children like that,” Shen Yu spoke for the first time, his voice mild, but his eyes were sharp and dangerous.
+
+Master Forest Sweeper sucked in a breath before the moose turned back to Bi De and the rest of his companions, who were still picking themselves up and recovering from the effects of the mighty Spirits Beast's fit of pique.
+
+‘I would ask my guests’ forgiveness for that unsightly display,’ the titanic moose requested, and the lordly Spirit Beast lowered his head slightly. ‘Twas unbecoming.’ Bi De could only nod, but his ears caught the word that he had been looking for. They had been called guests. That was a good sign. ‘Your words have wisdom, little moonbeam. The Iceheart Forest is not a place one invades without consequence—not even a sword that walks, like the man beside you, would have an easy time of it,’ Master Forest Sweeper continued, his eyes turning to Shen Yu again.
+
+The old man cocked his head to the side, considering the Spirit Beast. “Not while protecting these whippersnappers, no—especially when this construct isn’t your real body, you overgrown tricky goat. I’d have your horns eventually… But it would be a detour we cannot afford.”
+
+Bi De blinked at the term ‘construct’ but remained silent. A construct this powerful… did that mean the true form of Master Forest Sweeper was even stronger?
+
+Still, both Shen Yu and the Spirit Beast nodded at each other, as they acknowledged each other's strength.
+
+‘You have done this one a favour, by bringing this information to this one’s attention. It is in one’s nature to return all kindness a hundredfold. Be welcome in my home, little friends—for we have much to discuss.Your words have caused a great many things to suddenly make sense. For that, we are grateful.’
+
+Bi De let out a breath.
+
+“We thank you for your hospitality, Master Forest Sweeper,” he said, bowing.
+
+The Spirit Beast nodded, and another arctic blast issued from his nose as he exhaled slowly.
+
+This time, however, instead of a blast of wind the snow outside the forest shuddered. And then it rose as chunks of snow and ice formed themselves into the shape of smaller Thunderhooves.
+
+The constructs bowed and lowered their shoulders, their intent clear.
+
+‘Welcome to the Iceheart Forest, Honoured Guests,’ Master Forest Sweeper declared.
+
+Soon, they were all astride steeds of ice and snow, marching into the luminescent trees.
+
+==========================
+
+One would expect that once out of the wind and under the boughs of the trees it would be warmer.
+
+It was not. It was colder. Much colder.
+
+The forest was a fountain of freezing Qi—and yet despite that, or perhaps because of it, there was an abundance of life.
+
+The forest floor was completely clear of snow, which exposed pale blue grass that was vibrant and alive. Unlike the outside world of perpetual darkness, the forest was lit up bright as day, glowing with the cold light produced by mushrooms and lichens growing on the trees.
+
+Birds formed of crystal flitted through the air, snowy white deer with antlers of ice bolted at their approach, and monkeys that looked like Huo Ten, completely white in color, stared down at them from the trunks of the trees.
+
+They moved quite swiftly through the forest, their mounts galloping silently beside the massive form of their Master.
+
+“Is the lack of snow why you are named Forest Sweeper?” Yushang asked, curiosity overriding the obvious fear she felt for the Spirit Beast.
+
+The Spirit Beast looked down at her and seemed slightly amused by her question.
+
+‘You are the twenty-second human to ask me this question,’ the Spirit Beast replied. ‘But yes, it is the name I inherited from my Master. We tend to the Iceheart Forest and ensure that it is never buried by snow; its paths open to all Thunderhooves.’
+
+“Twenty-second? Do you get many guests?” Yun Ren asked curiously.
+
+‘Not particularly. In the three thousand years I have lived, I have met perhaps a hundred humans. Most who come here are blown off course by a Howl;’ the Spirit Beast said, referring to the massive storms that could throw people through the air for hundreds of Li. ‘Those cannot be considered trespassers nor guests, and I am not so callous as to kill a man for wandering into my home by accident. Cultivators I leave to their own devices, unless they move further into my home—most leave quite swiftly. It is the mortals to whom I reveal myself. Most who find their way here are on the verge of death. Thus, I take care of them, and then, after they are healed, I task my younger kin to return them home.’
+
+“That is generous of you,” Bi De replied, surprised by the depths of the mighty Spirit Beast’s kindness.
+
+‘That is the hospitality of the north. My Master taught me to honor it, and we teach the same to our kin. While we are babes, our powers are weak; unlike most trueborn Spirit Beasts, we barely have any Qi at all, our minds dull and no better than a base animal’s. We cannot survive in our true homes, deep in the north, as children. So we leave our children in more southerly climes. There, we have no power for cultivators to consume. And there, six thousand years ago, my Master was once protected as a babe by a mortal, helped out of a freezing lake. We honor the compassion of that mortal, no matter how many generations have passed.’
+
+Bi De mulled over this answer as they continued deeper into the forest. People always spoke of how grudges could last for thousands of years. As if only hatred could echo through the ages.
+
+They rarely thought of the other side of the coin.
+
+The kindness of a single mortal saving lost travellers through the ages.
+
+========================
+
+They journeyed for perhaps half a day into the forest, their tireless snow mounts sprinting full speed. The cold grew bitter and deep as they travelled further into the forest—until the mantle of Master Forest Sweeper wrapped around them like a cloak and the worst of the chill was rebuffed. Yet it was still present, seeping into their bones.
+
+Then, they passed another stone cairn, fashioned in the shape of a Thunderhoof’s head; and the air abruptly warmed again. Not like Master Forest Sweeper’s mantle, but true warmth.
+
+‘This is where we heal the outsiders we tend to,’ Master Forest Sweeper explained. ‘We shall speak here, and you may rest where the air cannot kill you with its chill.’
+
+They were in a clearing—but instead of the blue grass the forest floor had the more typical green. There was a small house here, sized for humans, and a much, much larger stone structure. It almost looked squat, save for the fact that it dwarfed the palace in Verdant Hill.
+
+Still, it was good to be warm again. They got off their mounts as they crumbled into snowflakes, and Bi De snorted at Yushang’s gasped “Prancer, no!”
+
+They found a firepit nearby, and a log to sit upon, as Ri Zu comforted a sulking Yushang. Master Forest Sweeper shrunk slightly as he became a more manageable size. He seemed to find Yushang’s reaction most amusing.
+
+He sighed as he settled into the clearing, and once more addressed them.
+
+‘My apprentice will arrive soon with a meal. For now, we shall speak, for your words have triggered an understanding in me of the strange happenings that mine kin have begun reporting from outside my forest,’ Master Forest Sweeper began. ‘They say the auroras have disappeared in some sections of the north; others speak of odd smells drifting on the breeze. Still others have reported tracks of something strange; not any Spirit Beast common to the north; just last week, one of my kin spoke of something they had never seen before. It looked like a normal bird… Save for the fact that it had been impaled by an icicle as big as it was and was still flying. Yet to his senses it had no Qi at all. It was just a normal bird… a normal bird whose blood looked oddly dark.’
+
+“Infiltrators,” Shen Yu said with a sigh. “They’ve gotten a lot better at hiding, the worms.”
+
+‘Indeed,’ Master Forest Sweeper declared. ‘I would offer you my aid in disposing of these demons; though I cannot leave my forest, this one can relay to you information… and a few of my kin who know the secret paths through the snow.’
+
+Bi De felt some relief flowing through his veins at those words. They had been operating off hunches and likely directions for over a week since the last base.
+
+Truly, courtesy was a powerful technique.
+
+“Thank you for your care, Master Forest Sweeper,” Bi De said, bowing.
+
+The Thunderhoof nodded regally.
+
+‘We hold no love for demons. Not only do they try to kill us, they draw your kind to them—and most are not as polite,’ Master Forest Sweeper said, before he cocked his head to the side. ‘Now, my apprentice has arrived. We shall eat together, and on the morrow we will speak more on this matter.’
+
+He felt some relief from the rest of his companions at that, as another Thunderhoof walked into the clearing. It was obviously young, with small antlers, and he had a large pack on his back.
+
+‘Master, I’m here with—” the young Thunderhoof began, his voice light and chipper, before he froze. His mouth dropped open. He stared at them all with shock… And at one person in particular. ‘Jumpy?!’
+
+Yun Ren blinked, “Jumpy—? Wait. Wait, wait, wait. There ain’t no way!” He said, his mouth opening and his eyes widening. “What the hells?! Are you really the same one from Hong Yaowu?!”
+
+Bi De’s eyes widened. He had seen the Thunderhoof once—as well as heard Yun Ren’s endless complaining about the beast repeatedly sneaking up on him and scaring him for fun two years ago.
+
+‘Your face is still as funny as ever, Jumpy!’ the Thunderhoof chortled.
+
+“I’m going to be getting you back for that!” Yun Ren threatened, jumping to his feet.
+
+Bi De watched the reunion with amusement. As did both Shen Yu and Master Forest Sweeper.
+
+‘Fate truly does move in mysterious ways,’ the old Spirit Beast mused.
+
+The mood was quite light as they dined together, the young Thunderhoof regaling them with a story of what happened to him after he left for the north.
+
+It appeared fate truly did have ways of reuniting people sometimes.
+
+====================================
+
+Somewhere else, thousands of Li away, another group was marching towards their own reunion.

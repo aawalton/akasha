@@ -1,0 +1,217 @@
+---
+id: 9c41a62e-c8ea-5b69-b2b2-08eb1b334453
+page-type-slug: story-chapter-royal-road
+title: "v4c36: The Labour's End"
+slug: 0049-v4c36-the-labour-s-end
+partOf: beware-of-chicken
+position: 49
+ownLength: 2671
+unit: words
+ownProgress: 2671
+publishedAt: 2023-09-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1330145/v4c36-the-labours-end"
+royalRoadId: "1330145"
+markedReadAt: "2026-06-29T18:53:02.860Z"
+---
+
+Tie Delun breathed a sigh of relief as he entered the manor that was their base of operations.
+
+He was in the Profound Realm; and yet he was just as tired, sweaty, and sore as he had been capable of being as an Initiate.
+
+Five days.
+
+That was how long it took Delun and his comrades to hit every location and free every slave that had been taken.
+
+In the end, the locations had bloomed to nearly four hundred manors, mines, plantations, and foundries. The list seemed to only grow with each location searched; each spot seeming to only ever reveal yet more places where people were being wrongfully held.
+
+Delun would not say that they had been five of the hardest days of his life, but they had certainly been one of the most trying. A non-stop race across the entire commandery. Neither he nor any of his comrades had rested in their work for more than a moment. Some places surrendered immediately, while others tried to fight or run—but all of them ended the same way: with the bastards in irons, the slaves freed, and another set of slavers to apprehend.
+
+Seeing the misery and inhumanity in those places had been an… experience, but the way their faces lit up when they heard Delun’s words… well, that was a reassurance that those he’d saved may have been battered, but they were not broken.
+
+And even one person freed would have justified every effort they’d undertaken.
+
+Still, it had been five days of near non-stop work. He could feel his Qi tremble slightly. He would definitely need to meditate and recover his equilibrium before finally speaking to his father and mother about exactly what had happened since he had been away.
+
+They had always been patient with him, and their help in this endeavour had taken a load off of their group’s shoulders… but things couldn’t be put off forever.
+
+He heard his sigh echo out as he turned to look at his partner for today. The Torrent Rider had pulled off his mask; the younger cultivator running a hand through his hair, sweat slicking it up. While it would have been nice to stay with Tigu the entire time, they had ended up trading off partners often—Xiulan’s idea, so they could work better together. Having learnt the flow of fighting with the others and knowing who they were during the rare quiet lulls, Delun found himself agreeing with the wisdom.
+
+“I wanna sleep,” the young man mumbled, complaining for the first time since they had started today. Delun had to admit that the boy was tough as hell, and his insight into where the scum would try to run was honestly better than Delun’s own guesses. Zhang Fei was a fierce hunter, that was for certain, and he was an attentive and dutiful Junior.
+
+That, and hearing some of the bastards scream about a ‘demonic rooster’ had been absolutely hilarious.
+
+Delun chuckled and reached out, clapping him on the shoulder. “You did good, Fei. Nice job on finding that bolt-hole.”
+
+The younger man smiled up at him. There were bags under his eyes, but an ember of satisfaction burned beneath them.
+
+“Thanks, Big Bro. I’m glad I could… helllll—” A massive yawn interrupted his words, the Torrent Rider’s eyes squeezing shut. “—lllp.”
+
+Patting his junior twice more in comfort and in pride, Delun chuckled. “Let’s go get cleaned up—maybe Yin is back and we can bug her to heat some water for us.” The water heated by Yin always felt the best. The heat lingered like the morning sun, seeping into muscles and relieving tension that he didn’t even know was there.
+
+Fei grunted. Delun shifted his grip from the kid’s shoulder to his back, pushing him along and keeping him on the right track as he wobbled slightly, rubbing at his eyes. Delun nodded at a couple of the Underbridge men who were standing guard and received fists clasped in respect in response.
+
+“Young Master,” they intoned.
+
+He had to admit that it was kind of strange to hear that with honest respect and not with the typical undercurrent of fear or sycophantic simpering from strangers.
+
+But why should it be?
+
+He shrugged the thought away as they entered the manor.
+
+As it turned out, they didn’t need to bug Yin. The woman took one look at them and headed towards the baths.
+
+Nearly an hour later, though some of that was helping to wash Fei’s hair, Delun was sinking into a seat in the main parlour. He saw the Torrent Rider stagger off to greet his exhausted dog, receiving a few tired licks at the boy’s approach before he fell asleep again.
+
+A clink of a cup brought his attention to Tigu, who smiled tiredly at him. She tapped the cup of tea and then eased into the seat beside him.
+
+“Long day,” he stated simply.
+
+“Long day,” Tigu agreed, bumping him with her shoulder… and then leaving herself there.
+
+They sat in simple silence in the manor. Tigu’s shoulder was resting against his own as they calmed down from the events of the day. Delun looked around the room. The frantic energy that had characterized the past couple of days was gone.
+
+The Torrent Rider was asleep in Yin’s lap, Shaggy Two at his feet. The woman was running her fingers absently through his hair, a look of peace on her face as she spoke quietly with Loud Boy, who was also being used as a pillow. Rags was leaning against the smaller man’s side, his ragged bandanna over his eyes.
+
+It was peaceful. It was comfortable.
+
+Slowly, the slight tremor in his Qi faded… just in time for Xiulan, Xianghua, Xinlai, Sergeant Han, and the Special Inspector to walk in.
+
+If Delun was tired, he had no idea how the mortals were still on their feet. Both of them looked like death, and Xinlai was hiding her tiredness with makeup.
+
+Xiulan and Xianghua looked fresh still— but he could see the slight hitch in their movements. In addition to raiding manors, they had also been talking with officials and the Special Inspector, as well as meeting with the Plum Blossom’s Shadow. In this, Delun was lucky. He just had to smash down doors and stand there menacingly.
+
+Delun reluctantly removed his shoulder from Tigu’s touch and got the new arrivals some tea. Both women nodded appreciatively, while the Special Inspector muttered his thanks.
+
+Xinlai looked at it with confusion on her face, clearly examining it for poison. Then she muttered her thanks. She looked even more confused when Yin offered to heat more bathwater for her… but she nodded her head tentatively.
+
+Yin carefully moved the Torrent Rider’s head from her lap and set off, the confused Young Mistress in tow behind her.
+
+“So… how was it?” Delun asked.
+
+He hadn’t yet met the Plum Blossom’s Shadow. He had heard the rumours, of course, of the new organization, but he hadn’t actually gone to buy information from them yet.
+
+Xiulan sipped her tea, then made an appreciative sound. “They’re far more competent than the Tigers in the Grass and the Eyes Amongst the Stalks.” Delun chuckled at her joke, before Xiulan’s eyes turned serious. “They thanked us for our actions. Apparently their ‘Master Scribe’ takes a dim view of such things.”
+
+“It's a bit worrying… but I’m ill-inclined to look at a gift too closely,” Xianghua said as she frowned at her cup.
+
+They lapsed into contemplative silence. Xianghua had told them about her first meeting with the organization before the first raid. She had said they had been oddly accommodating for an information organization. She had been politely served tea in a well lit room, her backup being Yin and the Torrent Rider.
+
+They had been expecting to have to pay a hefty sum for information on nobles.
+
+Instead, the rates had been almost unreasonably cheap… and the amount of information had been thorough. Every man who had been bribed, locations of holding cells, locations not on any of the letters and scrolls they had, bolt-holes, and provisions down to an amount determined  after including that a guard had pocketed some of them. The Plum Blossom’s Shadow had quite literally given even the receipts of the slavers to “show their work”.
+
+It wasn’t some shit mixed in with the truth, but absolute correct facts, maps, and habits that spoke not only of a terrifying capability to gather information but to organize it for maximum utility.
+
+When Xianghua had asked them about the thoroughness of the information and the price, the man had just smiled and said:
+
+“You are on Master Scribe’s list of preferred contacts.”
+
+And that had been the end of that. The man simply didn’t speak any more on the subject… and hadn’t said more to Xiulan either. They had simply come each day with more information from their ‘agents in the field.’
+
+None of them knew who this Master Scribe could be, but apparently he was a friend… or, at least, a person whose goals aligned with theirs.
+
+“Enough about these Plum Blossoms, though. Delun, would you like us to be there when you speak with your mother and father?” Xiulan asked, as she put her empty cup on the table.
+
+Delun paused at the words. Both Xiulan and Xianghua were absolutely prepared to back him up if need be.
+
+Delun shook his head.
+
+“No, I’ll be fine. They do want to meet with Tigu afterwards, but… it's best if they hear things from me alone.”
+
+“I will be glad to meet Handsome Man’s parents properly,” Tigu stated.
+
+Xiulan nodded at his words, then smiled. “I look forward to hearing from you soon.”
+
+Delun nodded and rose. There was no tremor in his Qi, only peace as his companions one by one gave their support.
+
+It was time.
+
+======================================
+
+Tie Delan, Sectmaster of the Hermetic Ion Sect, sat upon a simple cushion in a rented manor, waiting and smiling.
+
+It was not like that time the mortal worm had made him wait. That bastard had been playing games, and now he was in a pit of a cell fashioned by Delan’s own hands. The cages in the city’s prison had needed to be expanded to hold all the additional filth that was being brought in, and so Delan had graced Grass Sea City with a boon—especially after ownership of the land that held the Spirit Iron Vein was so graciously donated to his Sect by the city for services rendered.
+
+Especially since that worm was going to use slaves to mine it and then hoped to use his Sect to process it, it was only right that stewardship of such an important source of material passed into more honorable hands.
+
+Nobody would be breaking out of those new cages now. Not a single soul. On his honour, those cages could resist the strength of the most powerful masters in these hills—except Master Jin, of course. His boy had told him about the might of the Hidden Master, and Delan was not so arrogant as to think himself above a mountain.
+
+Indeed, how could he be angry right now? He was waiting on his son, who was carrying out a very important mission. How could he be upset? How could his temper rise when he was imagining everything that his son had accomplished?
+
+His son, who was in the Profound Realm. His son, who wore a uniform that shared similarities with what Cai Xiulan and Liu Xianghua wore—along with a multitude of other cultivators.
+
+The power of this group already eclipsed nearly every other Sect in these hills. Only the Grand Ravine Sect could possibly stand against them.
+
+He was interested and full of questions. Questions about his boy’s cultivation, about his power, and about his companions. None of the Younger Generation had sought out his son’s company before. They insulted him, called him oafish and ugly, and made his boy bitter and full of rage.
+
+Exactly as they had done to Delan when they thought he couldn’t hear them.
+
+But now? Now he traveled with those who looked at him without scorn. A woman was calling him handsome to his face, and meaning it!
+
+Exactly like his own wife! Except small and tanned. The muscles were the same, though. Honestly, how a man could look at a well-muscled woman and not be driven to the heights of passion, he would never be able to understand!
+
+He glanced at his wife and met her eyes. She was smirking at him.
+
+“What?” he asked.
+
+“Nothing,” she lied to his face, her smile growing further.
+
+He huffed and turned away, listening to her giggle, when a servant walked in.
+
+“Master Cultivator. Your son, the Young Master, has arrived along with Rou Tigu.”
+
+“Let them in and entertain Young Mistress Rou while we speak to our son. Clear the rest of the servants out from this wing. No ears.”
+
+“As you wish,” the servant bowed.
+
+It was almost agonizing, waiting. And then the doors opened, revealing his boy.
+
+And it was his boy. His head held high, with not an ounce of bitter anger. He strode like a true warrior, utterly assured of himself.
+
+It was wonderful.
+
+“Mother. Father. Your unworthy son has returned,” he said, speaking a traditional greeting.
+
+Delan hated that ‘unworthy’ was included in it, but he pushed that errant thought aside. He let out his senses, making sure every servant was gone—which they were.
+
+Liquin was faster than Delan. She always was. She was on her feet and hugging their boy instantly, and their son hugged her back.
+
+Delan took things slower, walking forwards to clap his hand on his boy’s shoulder.
+
+It took them a couple of minutes to disentangle themselves and be seated.
+
+“Now, son. Tell us everything,” Delan commanded. He leaned forwards, prepared for a tale worthy of legends.
+
+Delun started to talk, and Delan’s eyes started to widen.
+
+He had been entirely unprepared for what his son was saying.
+
+==================================
+
+“Hahahahahahaha! That's my boy! That's my boy!” Tie Delun’s father roared as his heavy hand pounded on Delun’s back. His face was flushed as he guzzled down another bottle of alcohol.
+
+Delun was happy that he knew his parents so well. They had indeed not opposed Xiulan’s plan, and after his tale—well, his father had demanded that they share a drink immediately. His mother had gone off to talk with Tigu, leaving them to it.
+
+“To think we're so blessed by the heavens! This shall be a new age, mark my words!”
+
+“Thank you for listening, father,” Delun said, a bit amused at just how enthusiastic his father was.
+
+“What kind of fool would I be not to?!” his father asked, laughing. “I would have thrown my lot in even without the last bit!”
+
+Delun looked at the crystal sitting between them on the table. He had saved it for last. It had been absolutely hilarious at how his parents' eyes had bugged out. He hadn't been able to surprise them that much in years.
+
+“I’m proud of you, son. It's truly a day to remember,” his father continued. “But let's not celebrate alone! I need to take the true measure of Tigu! Make sure she's right for you!” he teased.
+
+Delun rolled his eyes, but stood and followed after his boisterous father.
+
+Both men paused at the scene they walked into.
+
+Delun’s father stood, proud, powerful, and carved in stone. Delun’s statue stood beside him, his hammer raised and his muscles flexing. They were each carved from a single decorative marble pillar.
+
+And both of them were only wearing the briefest of loincloths.
+
+In between the two larger than life statues was Tigu and his mother. Their hands clasped and their auras blazing with shared passion. Tigu turned to him, her eyes sparkling.
+
+“Handsome Man! Your mother is amazing!”
+
+“We’re taking this one home,” his mother’s tone leaving no room for argument, her eyes similarly serious.

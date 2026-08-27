@@ -1,0 +1,177 @@
+---
+id: ca41b515-f083-56ba-812a-46a170cb54a2
+page-type-slug: story-chapter-royal-road
+title: "v4c12.2: Induction part 2"
+slug: 0019-v4c12-2-induction-part-2
+partOf: beware-of-chicken
+position: 19
+ownLength: 2053
+unit: words
+ownProgress: 2053
+publishedAt: 2023-06-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1231649/v4c122-induction-part-2"
+royalRoadId: "1231649"
+markedReadAt: "2026-06-29T18:51:58.588Z"
+---
+
+“Ah, how lucky you are! Your man is already in the Inner Sect!” Yushang complained as she walked with Ri Zu towards the pavilion that would decide their placements in the Sect. The woman had her hands clasped behind her head as she walked, her sword slung across her back. “I wish I was so talented, but this village girl has to do things the slow way!”
+
+Ri Zu rolled her eyes as Yushang complained. She was rather like Tigu. Energetic and relentlessly cheerful… if a bit much. Ri Zu didn’t know exactly why Yushang was so friendly, but Ri Zu couldn’t sense any duplicity from the girl.
+
+Ri Zu had been quite worried when she didn’t hear Bi De’s morning cry, only to find his room empty. Yushang had found Ri Zu, worried—and the girl’s eyes had become serious.
+
+“So, where do you want to start looking for him?” she had asked.
+
+For that… well… she was tentatively a friend.
+
+Ri Zu hadn’t been planning on making any. This was ‘enemy’ territory, after all, but Yushang was a recruit just like them. Perhaps she would never be like the rest of this sorry lot.
+
+Of course, Ri Zu had just been about to go and get Yun Ren when Bi De had returned with news—he had already been elevated into the Inner Disciples for his prowess.
+
+“Of course. Brother Bi De not being in the Inner Sect would have been stranger. The examiners would have to be blind to miss his talent,” Ri Zu said after a moment, trying to sound like a ‘proper’ cultivator.
+
+She had an excellent guide in Xianghua.
+
+“Indeed!” Yushang said. “Just as a woman would have to be blind to miss those abs. Unf.”
+
+“Yes, and his abs are very—” Ri Zu cut herself off and glared at the girl who looked entirely too innocent. Ri Zu reevaluated the brat as a friend.
+
+“Hey, hey, don’t look at this poor Sister like that! He's beautiful! Is looking such a crime?” she whined.
+
+Ri Zu sighed. She was getting a bit… too jealous. Bi De was not the kind of man to go off with hussies.
+
+“Ri Zu supposes she can’t blame you,” Ri Zu admitted, and Yushang brightened up.
+
+“Good. See? Our first fight is resolved already! We’re becoming better sisters.” Yushang hugged Ri Zu from the side. Ri Zu nearly flinched at the action, but there was no ill-intent, just like Tigu. Ru Zuy sighed and allowed it. “And good sisters share things, yes?”
+
+Ri Zu almost nodded, but she realised what Yushang had said just in time. Then Yushang was doubled over as Ri Zu jabbed a pressure point in her wrist.
+
+“What do you mean by that?”
+
+“Big Sister! Yushang yields! She yields!” the other woman yelped.
+
+Ri Zu removed her finger, and Yushang straightened up while shaking her arm. She was still smiling like she had won.
+
+“You are far too much like Ri Zu’s Master.” Ri Zu huffed.
+
+“This Yushang is an honest sort, and won’t deny her desires!”
+
+Ri Zu lifted her chin and sniffed, “Shameless.”
+
+“Absolutely!”
+
+Ri Zu snorted and shook her head, but smiled. Yushang giggled.
+
+“What did we miss?” a voice drawled, and Ri Zu looked up at Yun Ren. Her friend was with Fat Han. The corpulent, bearded young man had a small smile on his face.
+
+“You did not miss anything,” Ri Zu said primly. Yun Ren looked like he did not believe it at all, but didn’t press. “You know about Brother Bi De?”
+
+Yun Ren and Fat Han nodded.
+
+“An Inner Disciple already. I would expect nothing less from the man who so swiftly defeated an Examiner,” Fat Han declared. “But it is a shame we must bid him goodbye so soon after hardly knowing him. He seemed a decent fellow.” Fat Han took out several tea eggs. He caught Yushang staring at them, and sighed before offering them around.
+
+“Thank you, Brother! I’ll get you a hundred tea eggs in repayment for your generosity!”
+
+Fat Han snorted.
+
+“Why would we have to bid him goodbye?” Ri Zu asked as she took a tea egg.
+
+Fat Han shrugged. “My brother had a companion who he spent most of his time with. But alas, as soon as he reached the power he needed to enter the Inner Sect he left my brother behind and acted like he knew him not. A sad state of affairs.”
+
+“...he would not do such a thing,” Ri Zu stated.
+
+“Truly? Well! Then we must have supper together again! And Biren, you must show me more of your images, they were exquisite! Your diligence in capturing this section of the mountain’s majesty is quite something.
+
+Yun Ren smiled and nodded. “Thanks. It's a beautiful place—and your brother is here too?”
+
+“Indeed. Our family has been contributing members to the Outer Sect for three thousand years! Our family’s history says one of my line has died honourably in every major conflict the Shrouded Mountain Sect has been in.” He lowered his voice to a conspiratorial whisper. “Which is why this Fat Han aims for the Artifact Pavilion, rather than a Fulmination Squadron.”
+
+Ri Zu couldn’t help but let out a bark of laughter at the morbid humor, nor could any of the others.
+
+“Now, remember to choose the North Wind Pavilion,” Fat Han said, grinning. “It has the best dorms for the Outer Sect disciples. Avoid the West Cloud Pavilion if you can. And if we all choose the north, we could even be neighbors!”
+
+“North Wind sounds great,” Yun Ren said.
+
+“North Wind!” Yushang cheered.
+
+“Thank you for the information, Brother Han. Ri Zu will definitely repay you.”
+
+“It always pays to be friends with a Spiritual Doctor,” he said agreeably, his smile getting wider still.
+
+Soon they reached the main pavilion along with the rest of the new initiates.Like every other pavilion, it was… gaudy. There was not a hint of nature so far that Ri Zu had seen, everything controlled and corralled until it fit the demands of the Masters of the mountain. If it did not fit, it was ruthlessly culled and replaced.
+
+Everything was gilded, or engraved. The stairs leading up to the main dais were inlaid with gold. And massive light crystals, currently unused, could be used to make it look like day even in the darkest night.
+
+Everything was crafted towards appearances. It almost seemed insecure to Ri Zu. Master Shen had a few recordings of the Cloudy Sword Sect. That place was stark granite and simple green tiled rooftops. It looked more like a monastery than a sect… yet they were the ones who were stronger than the people who boasted all this wealth.
+
+They waited about ten more minutes before another thunderbolt heralded an official’s arrival.
+
+“Welcome, Disciples! You have passed but the first of many trials yesterday! Today, you shall choose your Sect Placements, and undergo their initiation rituals!”
+
+There was some murmuring from those gathered at the news.
+
+“If you do not meet the requirements, or are not chosen at this time, worry not, for you shall not be expelled. The Mountain Pavilion always has need of those who can work!” His voice boomed out, loud and commanding. “In addition to placements, there shall be lessons on the history of our noble Shrouded Mountain Sect! These are mandatory! Our noble Sect was born out of the conflict with demonic foxes, and like our honourable ancestors we must keep up the hunt so that no evil may infest our Howling Fang Mountains! Selected readings by our Honoured Founder, as well as the Philosophies of Lightning, will be distributed! Memorization of these is similarly mandatory!”
+
+“Aww, man,” Ri Zu heard Yun Ren and Yushang mutter together.
+
+“That is all! There will be another test in one month’s time if you are not selected for any placements this day. Now, listen well to my Brother Disciples, as they tell you the virtues of their sections!”
+
+More bolts of lightning fell, and intent hammered into all of them. The men and women standing up at the front were in the Spiritual Realm, one and all.
+
+The biggest of them stepped forwards first, his muscles bulging and his blonde hair spun gold.
+
+“Come one and all brave heroes! The Fulmination Squadrons are where you can truly rise to the top! We are the best and most elite fighting force in these Howling Fang Mountains! If you lack courage, look at the ground with shame!” His voice boomed, as boisterous as his appearance.
+
+“Join the Guardians of the Fangs! Range far and wide, hunting down Spirit Beasts! This is only for the most rugged and noble of resilient souls!” A grizzled looking woman demanded, an axe slung across her back, and an eyepatch concealing half her face.
+
+“What they truly mean is brave the mountains in the ass of winter by yourself,” Fat Han snorted.
+
+“The Artifact Pavilion is only for the most discerning and wise of disciples. Few of you have what it takes,” a woman who was bedecked in jewels and rings declared dismissively.
+
+Ri Zu’s eyes focused on the man who simply said, “I will be accepting but one of you Outer Disciples into the Medical Pavilion. Do not waste my time,” The man, who was cold and imperious, looked directly at her.
+
+“Well… Good luck to all of us, eh?” Yun Ren said.
+
+“Which one are you going for, Brother Biren?” Fat Han asked.
+
+“I’m going to try for the Guardians of the Fangs,” Yun Ren said.
+
+Ri Zu paused at the news. That would take him out of the Mountain though—ah, he was planning to intentionally fail.
+
+Her Brother Disciple was a wily fox. He wanted to intentionally join those who were not looked at too much. Master Jin had always said nobody questioned a maintenance worker who looked like he knew what he was doing.
+
+“Fulmination Squadron, here I come! Get ready to hear the name Yushang as the top scoring aspirant!”
+
+Ri Zu just turned to the Medical Pavilion. There, hopefully, she would have access to any strange cases or things that could indicate demon corruption, while Yun Ren went into every nook and cranny.
+
+Maybe… maybe Yushang and Fat Han wouldn’t be adverse to sharing either.
+
+Ri Zu just hoped they all passed Shen Yu’s test—no, she shook her head. They would find demonic taint, or they would not. They would do their best… and that was all they could do at the moment.
+
+She just hoped that Bi De would be fine, so deep into the middle of this Sect…
+
+=================================
+
+Zang Zhong raised an eyebrow at the red-haired man who was bowing politely to him and grimaced. He was seated in his… office, with some companionship. He hadn’t been expecting any visitors today.
+
+A newbie who had caught an Elder’s eye? Who had been instantly elevated to the Inner Sect? Who had achieved his strength without the massive resources the Shrouded Mountain Sect could provide?
+
+He was dangerous, that much Zhong could tell. His foundation oozed stability even from here, and despite being elevated so swiftly not a hint of discomfort showed on his face or his body.
+
+…This was the sort of man who came in and surpassed all who he looked upon.
+
+The kind of man who would get resources lavished upon him for his insane growth. So, the most logical thing to do was suppress him here and now.
+
+Especially because his woman was not even trying to be subtle about the way she was eying up this preening cock.
+
+Zhong smirked at the handsome bastard. “Very well then. Welcome to the Inner Sect. Each and every member of the Sect has to contribute to its glory. You can tend to the gardens, can’t you?”
+
+It was the worst sort of busy work. Having to use Qi on plants others could refine, instead of using it on yourself.
+
+The red-haired man actually smiled. “Of course.”
+
+“And there are repairs that need to be done in the treasure house. We can’t trust lowly Outer Disciples around such treasures, can we?”
+
+“I am a dab hand at carpentry.” Bi De replied.
+
+Zhong rolled his eyes. He wondered how long Bi De’s mild temperament would last.

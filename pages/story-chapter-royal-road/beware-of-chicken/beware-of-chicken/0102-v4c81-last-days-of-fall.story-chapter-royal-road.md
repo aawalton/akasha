@@ -1,0 +1,111 @@
+---
+id: 3ec18323-0cb2-5642-9650-84727d7629ff
+page-type-slug: story-chapter-royal-road
+title: "v4c81: Last Days of Fall"
+slug: 0102-v4c81-last-days-of-fall
+partOf: beware-of-chicken
+position: 102
+ownLength: 2026
+unit: words
+ownProgress: 2026
+publishedAt: 2024-03-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1542165/v4c81-last-days-of-fall"
+royalRoadId: "1542165"
+markedReadAt: "2026-06-29T18:54:58.986Z"
+---
+
+Drums pounded without cease. Fireworks detonated with wild abandon. Dragon costumes bounded and pranced through the streets, and children chased their tails.
+
+“—And so the Sects of the Azure Hills, and this Director of Spiritual Ascension Affairs, bid you all welcome to make merry on this fine day!”
+
+Xiulan listened to the cheer that went up as the Lord Director’s voice finished booming through the recently repaired formation. His voice was jovial, and punctuated by even more fireworks.
+
+The streets thronged with people as the Mid-Autumn Festival at the Dueling Peaks commenced.
+
+It was likely very different than the people of this town were used to, Xiulan mused as she walked through the crowd herself. The Dueling Town was normally quiet and sleepy this time of year. Perhaps there would have been a few parties and small town events, as most of the people left during the “off” season. There normally were no cultivators, and without the crowds that travelled to watch the tournaments most of the residents dispersed back into the countryside, retaking their roles as farmers, or simply closing their shops and heading back to other towns and villages.
+
+But this year the cultivators had stayed. This year, each and every sect was in attendance. Over the months they had been operating out of the mountain, the people who lived in the town had obviously sent messages to friends, family, and business partners. And while it wasn’t to the level of a tournament, the number of people in the town had once more swelled. The town once again looked more like a city—and Xiulan had worked with the Lord Director, Bai Huizhong, to organize the festivities properly.
+
+The man had only been too happy to help—the Lord Director had been nothing if not accommodating of everything they had been doing, and in return he had a seat in the meetings. Not that he actually spoke much, simply saying most of the time that he “deferred to the Elders’ judgment.”
+
+Xiulan realised instantly why he had been Lord Director for so long, and why her father never had anything bad to say about the man. He was very adept at the political game.
+
+Outside that, he had actually been quite the help in smoothing out some of their problems. At first the Elders had been skeptical on how a mortal would be able to help with cultivator logistics, but Bai Huizhong clearly knew how to move vast quantities of supplies relatively quickly, and his ability to coordinate men in different towns and villages so far away from his seat of power was fascinating.
+
+He also had several interesting ideas on how to cement the idea of the “Azure Alliance”, as many were calling it, in the minds of the people. They had not announced the alliance officially to the mortals, even if they knew something had changed, simply because at first nobody knew if it wouldn’t all fall apart. But now? With the way things were progressing? Most of the Elders were fine with the people knowing.
+
+To that end Huizhong was commissioning songs and plays and, of all things, dolls of various cultivators, clad in what was fast becoming their uniform—the blue gi top with the symbol for Azure on the back.
+
+“Familiarity reduces fear,” the man had said. “What child is afraid of the doll they hug for comfort at night? Who does not want to hear of their glorious protectors?”
+
+Xiulan found his logic hard to argue against… as did the rest of the Elders. Everybody had been happy about it—except for Tigu.
+
+“So… what about royalties?” she had asked.
+
+Huizhong became slightly less enthusiastic after that—and Tigu had to explain the entire thing to the Elders. Most hadn’t cared about the “paltry sum from mortal trinkets”, but Tigu had simply said it was so they could pay their mortal servants and that they needed every silver coin they could get to properly restore the mountain.
+
+That had found more fertile ground with the Elders, and a deal was soon agreed to. Huizhong would be in charge of the announcement, and they would have a likely small but still useful income stream to aid in the reconstruction efforts.
+
+Xiulan paused and took a step back as she felt something approaching.
+
+“‘Scuse me!!” A child shouted as she darted past Xiulan.
+
+“Outta the way!” another yelped as he barely avoided hitting Xiulan.
+
+“Sorry, miss!” a third yelped, stumbling after his friends.
+
+Xiulan chuckled at them and shook her head before returning her eyes to the festival.
+
+She only really had two festivals to compare this to. The one in Green Grass Village, and the one in Hong Yaowu. The one in Green Grass Village was a happy memory, and one that was slightly hazy in her mind—she had stopped going after her mother had left to continue on her journey. She remembered some kind of candy, and watching from her father’s shoulders as the dragon puppet bucked and leapt.
+
+The festivities in Hong Yaowu were a lot fresher in her mind, and equally as happy. She had to say, compared to the dancers here, Uncle Xian, Ten Ren, and Yao Che were the superior dragon dancers—the men may have passed middle-aged, but they could put on a fantastic show.
+
+But while the acrobatics of this lot at the Dueling Peaks were not quite as pulse pounding, they were still experienced… and they showed it when they choreographed the dances with the other sets of dragon puppets, bounding and spiraling around each other, before meeting in the center of town and then shooting off again. The men were even making use of one of the new flows of water, skipping and leaping over the shimmering rivers.
+
+Xiulan found herself following one of the better dancers of the five dragons, swaying to the pounding beat. As she walked, her eyes roved over the crowd and what she saw made her smile.
+
+She saw Chen Yang eating at one of the stores he had made a sign for. Ulagan Tarkhan was speaking to an older mortal while the Young Master of the Grand Ravine Sect examined sets of rope with him. Dulou Gan, Young Master of the Rumbling Earth Sect, was having a drink with some of the road workers. Another cultivator had an entire group of mortals cheering him on as he bought all the dumplings one of the carts had, his nose so far in the air he was practically bent backwards. A woman was seated with an old man outside a kiln as they both examined a set of bowls.
+
+Xiulan saw Tigu giving the girl from the store Jin had repaired, Ning, a shoulder ride as she darted through the streets, the little girl howling with laughter the entire time. Yin was engaged in an eating contest with a man three times her size, slurping down bowls of spicy pork noodles. She was on her eighth bowl already. Rags and Loud Boy were shifting through scrolls together, Loud Boy pointing out ones that he thought Rags should read. Delun was with the Torrent Rider and Shaggy Two, the older man deeply considering a new shirt the Torrent Rider was thinking of buying. And there was Xianghua, who was leading around her own younger sectmates, and watching over them as they partook in the festivities. She looked for all the world like a mother directing her children, or a duck leading around ducklings.
+
+Xiulan smiled as she watched, her feet taking her around the town. Her smile was still firmly on her face as she felt another presence approaching.
+
+“It is a strange… but not an entirely unwelcome sight,” the rumbling voice of the Patriarch of the Grand Ravine Sect noted as he fell into step beside her. He was not much taller than she was, even if his presence and Qi made him seem larger than he was.
+
+“I’m glad you think so, Master Baatar,” Xiulan replied. She had been given the honour of addressing him by his first name after their last meeting and the journey to the Grand Ravine. They had not stayed long, as they had to travel to a great many sects, but the week spent in the Grand Ravine had been pleasant. Xiulan silently thanked the fact that she knew the Xong brothers and their mother—both she and Xianghua had rather impressed the people of the ravine with the knowledge and respect they had for their customs. Impressed them enough that Sarnai, Tarkhan’s little sister, requested to be her aide.
+
+And, Xiulan was not the only one who had impressed. It still brought a smile to her face every time she remembered Xianghua holding court with a bunch of other swooning ravine women as she waxed pridefully poetic about “Mother Hu Li” and “her” Gou Ren—complete with drawings of said man’s abs.
+
+The only incident on the trip was that Tigu had nearly gotten a full shoulder tattoo, and was only prevented from getting one because they wouldn’t have had enough time to do so before moving on.
+
+“Mmm. We have the same dragon dance, even if many of our customs are different—though our dragons have to walk across the ravine balanced on ropes,” the old man continued.
+
+“I would like to see that some day,” Xiulan said. “Perhaps next year? I would like a visit not cut short by the necessities of politics.”
+
+The man smiled. “Of course, Grand Marshal. We would show you our hospitality—but why wait? I would invite you to witness Ovliin Tuli—that is the Holy Solstice. It is of great importance to us.”
+
+Xiulan paused, surprised, before she smiled. “I am honoured, but I promised Master Jin I would celebrate the solstice with him and his family.”
+
+The older man nodded his head. “Say no more. I understand…” he trailed off for a moment. “How does he celebrate the night, if it is not too presumptuous of me to ask?”
+
+“The old ways. His family dances until the sun comes up, to once more greet the dawn.”
+
+Baatar looked intensely interested. He took a breath, before deciding to speak again. “I know Master Jin asked for his privacy. But…there are some delicate matters of clan and people. How would he react to receiving a letter from us? I would like to meet him and offer my thanks. He looked after my kin when they battled the Shrouded Mountain Sect. If he is agreeable, I would invite him into our home as a guest of the highest honour—weak though we may be to a man of his caliber.”
+
+Xiulan considered the request. The man making it was completely humble, with not a hint of greed in his eyes or posture. There was nothing in his mannerisms that indicated he wanted to use her friend. Instead, he spoke only with the greatest respect—and Xiulan knew how much inviting a man into the ravine meant for the people of the Grand Ravine. Very few outsiders received that.
+
+Besides, Jin had mentioned exploring the province, hadn't he? He had once said he thought the Grand Ravine would look amazing. When Little De got a bit older, perhaps they could travel? Xiulan wanted to show him the Azure Hills. The real Azure Hills, in all its glory.
+
+“I will deliver any correspondence myself, but I cannot promise anything,” Xiulan said after a moment.
+
+“Thank you, Grand Marshal. That is more than I could have asked,” Ulagaan Baatar said, clasping his hands in respect. Then he turned and considered the rest of the festival, before his eyes alighted on a go board. “Though, may I ask that you keep this old man company for just a little longer?”
+
+Xiulan chuckled. “Of course, but I’ll have you know I have defeated Master Jin every time we have played.”
+
+The old man’s eyes widened. “Ah, then I shall be challenging your might.”
+
+===========================
+
+Ten minutes later, Baatar was squinting at the board. Xiulan’s cheeks were flushed as she stared at the complete domination she had been subjected to.
+
+“...Master Jin is really, really bad at Go,” she said, defending herself.

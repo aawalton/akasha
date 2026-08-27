@@ -1,0 +1,163 @@
+---
+id: b369ef74-b203-5e19-a7d8-2f9c17496062
+page-type-slug: story-chapter-royal-road
+title: "31. Links in the Chain"
+slug: 0031-31-links-in-the-chain
+partOf: breaker-of-horizons
+position: 31
+ownLength: 2990
+unit: words
+publishedAt: 2020-08-17
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/540352/31-links-in-the-chain"
+royalRoadId: "540352"
+---
+
+Our walk to the Nivordin Lecture Hall was a lot quieter than usual. Ambrose had retreated into the reticence he had displayed in our first few days together, while the others were giving me a little more space. Only Devon seemed to be generally unaffected by the pall that hung over us as he tried to keep a normal conversation going, and he wasn't distancing himself from me.
+
+But I only noted all these things peripherally. Most of my attention was being taken up by the sequence in my head. As long as I kept it fixed in my mind, the pain of the prophetic links trying to fuse with my auric-ambient-flare was held at bay. However, every time my focus slipped, they burrowed in a little more deeply. It was becoming clear why my father had opted to make use of artefacts — five of them, even — in order to keep prophetic links at bay. I was no longer sure if I could delay seeing him, but I didn't dare miss Reeves' lecture either.
+
+Skipping classes in the Academy was practically unheard of. There was evidently no way to fool the professors and fake your attendance, even in the big lectures. Furthermore, the orientation package had contained a comprehensive breakdown of rules and expectations, and attendance was at the very top of the list. There were allowances for things like a bereavement in the family, or illness, but if you had any unexplained absences — even just one — you forfeited the right to continue your studies at the Academy. You could make an appeal and if your explanation was satisfactory then at the discretion of the Demiurge you could be allowed to stay on, but that looked a lot like one of those throwaway sentences in a corporate spiel just to show that there was a legitimate avenue of appeal.
+
+I very much doubted the Demiurge would let me off. And what would I even tell him? That I wanted to see my father in order to get help with breaking the prophetic links on me? I'd likely be getting myself in even greater trouble if I did that. If my conversation by the lake gate was anything to go by, he seemed like a very pro-Prophecy person. It was probably wiser to just turn up for Reeves' lecture, fail this week's attempt to resist his ensorcellment, and try to muddle through the lecture while focusing on the Prophecy-shielding sequence.
+
+We settled in our usual seats with a couple of minutes to spare. Reeves was already behind the desk and his eyes swept over us as we sat. I wasn't sure if it was just my imagination, but his gaze seemed to linger on me for a moment longer before he turned his attention elsewhere. Was I looking particularly distracted? Could he tell that I was holding an active sequence in my head? Was there something about the arcana around me giving it away?
+
+I quickly applied some mental brakes before I started speculating further. There were more immediate things to worry about. I was going to fail to resist the ensorcellment, and that definitely wouldn't go unnoticed. Kevan was almost certainly going to make a jibe. And I'd probably hear some smug remarks from other people about the Top Scorer failing at the very beginning of the exercise. I had to mentally prepare myself to just focus on the Prophecy-shielding sequence and not on any pangs of shame.
+
+A moment later, as the last student sat down, Reeves rapped the table with a knuckle and stood. "Everyone's here. Let's begin!"
+
+The air teemed with energy as Reeves performed his mass ensorcellment. By now, everyone had advanced sufficiently to remain seated at the outset. I heard the creak of seats as some people gripped the edges, the noise amplified in the strained silence as a hundred arcanists did their level best to resist the ensorcellment. A few seconds passed, and one by one people started rising with frustrated gasps and grunts. Then the seconds stretched, and more people caved. At half a minute, Reeves released his hold on the ambient arcana. There were only eighteen arcanists still seated, including the six of us.
+
+Wait a minute, I... I'm not standing?
+
+I looked down at myself, bewildered. The rest were preoccupied with their own recovery — Devon, in particular, looked like he was suffering from the mother of all headaches — but Ambrose was eyeing me with grudging respect even as he massaged his forehead.
+
+I hadn't felt a thing. Had Reeves left me out?
+
+"Well done," Reeves said to those who were seated, and this time I was very sure he nodded ever-so-slightly at me. "Very well done." The moment passed, and he turned to smile ruefully at the others that hadn't managed to resist. "At the very least, most of you lasted longer than last week. Keep up the good work."
+
+He gestured at the blackboard, which filled with diagrams and notes. "Judging by everyone's progress, you found last week's lecture on frame-shifting most useful. And some of you would also have run up against the practical limitations of frame-shifting; namely, that it sometimes just does not work. Today, we'll be discussing those limitations, then we'll cover the leading theories that help to explain why they exist, and we'll wrap up by looking at the underpinning principles of arcanophany that we may be able to draw from these observations and theories."
+
+Of all the days to be unable to pay close attention, this was possibly the worst so far. I hoped I could prevail on the goodwill of Devon or Jerric to lend me their notes later. But I could worry about that later — right now, I had a sequence to focus on, and a lecture to try and listen to.
+
+We emerged from the lecture hall two hours later. Our habit would have brought us either to the cafeteria or the library cafe, but I had other plans.
+
+"You guys go ahead," I said, peeling off in the direction of the staff residences. "I need to go talk to my dad, then I'll join up."
+
+"Alright," Devon said. He looked around at the others. "I think we'll be at the cafeteria?"
+
+There was a general murmur of assent. Lynus made a show of checking his wallet. "Definitely. Cheap food for today!"
+
+Ambrose's brow was furrowed, but he didn't make any comment as I turned away. I wondered if recent developments had fallen outside of his expectations, not conforming to the pattern of the Prophecy. He did seem less certain of himself now.
+
+The grounds were filling up as people poured out of their classes. I still didn't know any of the senior students, but they did seem to move about with a greater air of calm. In comparison, most of us in our first year still had a harried look about us as we grappled with the workload and the rigour. It was a little comforting to know that there was a future of some sort beyond the frantic present.
+
+"Top Scorer." Emilia fell into step beside me.
+
+"Oh, hi," I said, slightly surprised. The Prophecy-shield sequence in my head slipped a little and I winced in discomfort.
+
+"We need to talk," she said matter-of-factly, her face impassive as she stared at me right in the eyes while walking. It was very unnerving.
+
+"Now?" I asked distractedly, slowing just a little out of politeness. "I'm kinda on my way somewhere."
+
+"We'll talk as we walk. You need to tell me about your dorm mate."
+
+My heartbeat picked up. "What about him?"
+
+"Is he the Chosen One?"
+
+"I, what, you, how do you mean?" I spluttered, coming to a total stop. The sequence slipped and I felt a wave of pain and nausea wash over me. It took a moment to properly refocus myself.
+
+"I believe you're quite intelligent. You would know if the Chosen One was in close proximity to you. Leading theories state that Prophecies are probability-altering constructs. It should lead to certain observable phenomena that allows one to deduce whether one is living near the subject of a Prophecy."
+
+"Why are you asking me this? You know we're not supposed to discuss it," I managed to say.
+
+"I know." For the first time since our conversation started, she looked away. "But I will feel a lot better if I was beaten by the Chosen One."
+
+"I... what? Beaten?"
+
+Her eyes snapped back to mine and she nodded curtly. "He challenged me to a duel. I thought our sessions with Kant had placed me in the upper tiers of thaumaturgic ability in our cohort, if not at the very top. Even over you."
+
+"I'd say so, too. Wait, which dormmate, exactly?" It was beginning to dawn on me that she wasn't talking about Ambrose.
+
+"Kevan." She folded her arms and let out a huff of annoyance. "He and his brother came looking for me yesterday, and he challenged me to a duel. I lost."
+
+Never in a thousand years would I have put money on that. But one look at Emilia's face, and I decided not to make any such remark out loud.
+
+"I... uh, my condolences. But as far as I know, he's not. The twins are just... really good at thaumaturgy. Apparently their prep school had a strong focus on it."
+
+"Prep school?" She snorted. "Our first week was more revelatory than six years in my prep school. My conversations with others have led me to believe most prep schools are no different. But I suppose you would not have known that, as an independent study. No, I believe it is more likely that Kevan is special in some way."
+
+"... I don't know what to say," I told her, genuinely at a loss. Kevan had beaten her? "He's... perfectly ordinary to me."
+
+Emilia let out another huff. "I hope he isn't. Please tell him I would like a rematch at his earliest convenience."
+
+"I'll do that," I said, a little dazed.
+
+"Thank you. See you in Glyphs later." She nodded and walked off without another word. I was left to consider how much I had either underestimated Kevan or overestimated Emilia.
+
+But all that could wait. I firmly put it out of my mind (which was a little hard — a part of me was imagining how insufferably smug Kevan would be if I brought it up) and continued on my way.
+
+I arrived at the residence just in time to see my father stepping out the door. He broke into a wide smile as he spotted me. "Cadey! I've got some updates!"
+
+My heart leapt at the prospect of progress, but I had something more urgent to bring up. "That's great, but I need your help, Dad. Do you have a class now?"
+
+He looked worriedly at me. "No, I just finished one and forgot to get lunch on the way back. But nevermind that, come in."
+
+I hurried past him and to his study, where I helped myself to a scrap of paper (it looked like an old receipt) and a pen so that I could scribble down the glyphs in my head.
+
+"I'm focusing on this right now. Please listen. Short version, yesterday I... ran into the Demiurge, got permission to experiment with the friend-in-the-arcana, got completely overdrawn, woke up in the infirmary, the Demiurge did something, and I think I've been cleansed of prophetic links. Not sure if it's the friend-in-the-arcana or the Demiurge. But it's not permanent, and the links are forming again." I handed the sequence to him.
+
+To his credit, my father didn't waste any time. His expression ran the gamut of shock, disappointment, worry, and confusion as I spoke, but once I was done he snatched the paper from me and started thinking furiously. Then he drew in a deep breath, straightened up, and flexed his fingers imperiously.
+
+Never before had I been able to watch my father work. He made it a point to shut the door at home whenever he was building or testing something, and so Triss and I spent our childhood seeing new artefacts appear in the house formed whole, or else only saw bits and pieces of artefacts in progress as they lay dormant in his workshop. The actual act of creation, of putting them together, was a mystery to us.
+
+But now for the first time in my life, I got to see Everett Dundale, the Artificer.
+
+The globe lights in the room flared to life and tuned themselves even without a Minor Control Sphere materialising in his hands, and the air in the room tingled as he took command of the ambient arcana. From the sitting room, the prototype orb I had been fiddling with on my last visit whizzed past me and came to a dead stop in the centre of the study, right in front of him.
+
+Each layer of the orb peeled apart along invisible seams, and the whole assembly started revolving slowly like an abstract art piece. The glyphic sequences hung from the pieces in ghostly strings, with etheric lines tracing the various ways in which they had been linked into one complex ball of interwoven sequences. With incredible speed and fluency, Everett Dundale started modifying them. He had told me enough for me to understand how fiendishly complex this was because each glyph was part of several sequences, all working simultaneously. If you changed even one glyph, it had cascading effects that you had to manage. They all had to make sense together.
+
+I wasn't sure why any changes were necessary. His orbs were likely using more advanced principles than my makeshift sequence. But there wasn't any point questioning him now when he was deep in his work.
+
+He was running through the permutations with dizzying speed, and he seemed almost lost in a trance, murmuring to himself as he gestured sharply here and there. Even though he was only modifying the glyphs, every time he acted, I felt a wash of ambient arcana coming from the fragments. It was only until I saw him working on one of the bigger glyphs on the outermost shell that I understood he was physically erasing and scribing the glyphs with arcana itself, not earmarking them for future manipulation using tiny tools.
+
+After ten minutes of work, he beckoned me over.
+
+"How can you be done already?" I asked, awed.
+
+"There are lots of viable permutations. I've run through a lot of them in 10 years. Some work better than others. Let's try this first and see if it works. Stand in there," he said, pointing at the empty space within the expanded orb. The pieces parted a little to allow me to sidle in.
+
+A strange tingling ran over my skin as I stepped into the centre. My father frowned.
+
+"It's not working. But it's not a problem with the sequences. The prophetic links themselves aren't registering. Why is that? You've used the same glyph, it should work..."
+
+I could see he was thinking aloud, not actually asking for my opinion. He was staring right through me as he retreated further into his mind.
+
+"Caden, you need to ensorcel me. Make me understand your view of the prophetic links," he said, snapping abruptly out of his reverie.
+
+"What?"
+
+"No time to explain. I have to know precisely how you think about these prophetic links. Do it, now."
+
+"But Dad, I don't know how to properly ensorcel someone! That thing I did with my friends, that was the friend-in-the-arcana!"
+
+He hesitated, but only briefly. "Still, we have to do it."
+
+"But how do I control it? The last time, I got lost, there was a... an urge to... I wanted to..."
+
+...wander-fly-whimsy into the woven-shackled-stream. I had no words for these things.
+
+"Listen, Caden. The friend-in-the-arcana is not... well, not a friend, not a thinking thing. It's a frame-shift, yes? Keep your focus clean, keep your intent clear, and keep it limited."
+
+Somehow, that didn't seem right. I thought back to how very much intelligent it had seemed, interpreting my general desire to flee the first time, and then moulding itself to my excitement the second time, and even taking care of things like picking up my bag and the chair when they had fallen. It couldn't be unintelligent. My father had to be wrong.
+
+"Caden," he reached past the pieces of the orb and placed a hand on my shoulder, reading the doubt in my eyes, "trust me."
+
+I couldn't see any other option. Maybe if I thought of the friend-in-the-arcana not as a thinking force, but simply as a mass of arcana, I could exert more control over it. I took a deep, steadying breath and nodded at him.
+
+As soon as the intention crystalised in my head, I found my thoughts quickly tracing links through my mind. This is my father. The smell of hot chocolate rose in my nose, mingling with a dozen other scents in my memory, all of them tied to him. One strand of memory, in particular, caught my eye.
+
+I experienced a moment of vertiginous displacement and I was... four years old... and the hallway was dark, and a flash of lightning cast terrifying shadows across the scene, with the rolling thunder laying down a staccato for my heart a moment later. My little hands grasped the doorknob to my parents' room. It was locked! But I wanted him to know how scared I was, needed him to open that door and take me in.... another horrible blast of thunder, and I screamed, and then relief-joy-love, the door opened! I wanted him to know that feeling, so I hugged his leg so tightly I might have melted into him...
+
+Touch-speak-bend, I breathed into the arcana, and let him know the prophetic links on this auric-ambient-flare.

@@ -1,0 +1,133 @@
+---
+id: 21fa1fec-a958-5f18-b781-2e753fd593ba
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 78 - Patterns"
+slug: 0082-b3-chapter-78-patterns
+partOf: bookbound-bunny
+position: 82
+ownLength: 2213
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3816504/b3-chapter-78-patterns"
+royalRoadId: "3816504"
+---
+
+After a good night's sleep filled with dreams of filling the sky with her drawings, Lily was ready to take on the final day of the festival. This was the big event that involved every student, yet despite that, it wasn't seen as the highlight compared to the duels.
+
+Lily and her friends had yet to get any concrete details on what was happening and only knew that it was some kind of treasure hunt, and that, at least for the first-year students, Maranix had earned the privilege to enter first.
+
+They had partially discussed it beforehand that, if it were just a simple treasure hunt, it would be ideal to split up to cover more ground rather than work in a group. Of course, if they were expected to hunt large monsters or even other students, then perhaps sticking together would be better than splitting up.
+
+As expected, Arakil had spent the evening transcribing Duncan's notebook into more digestible notes for Lily, although he did mention that the raw text was still available if she wished. However, in terms of usefulness, Lily wasn't sure, as these were all glyphs relating to enchantments, not spells.
+
+This was why they had looked so strange to her, which she had assumed was the shorthand Arakil had mentioned. However, it was actually just because she had only dealt with glyphs that produced spells, as neither Ollie nor Arakil had touched on the subject.
+
+[Enchanting is actually simpler than you might imagine, although I'm sure the professionals in this world would beg to differ. We don't have the time to go into the details right now, but you could break it down to drawing a pattern that gives you slots for your glyphs.
+
+The official terminology sometimes differs, although I found myself quite fond of a matrix and its nodes. Anyway, different matrices have differing amounts of nodes, but also purposes, and it's up to the enchanter to select the best for its purpose. Duncan used a very simple matrix with not very high requirements, which allowed him to shorthand his enchanting.]
+
+Thankfully for Lily, he didn't just speak, he also showed, and on his pages he illustrated his explanation with three pictures. According to Arakil, these were three simple matrices, all belonging to the same category, differing only in the available nodes as they progressed from one to three.
+
+To Lily, they almost looked like fancy decorative coins, except with holes punctured in them; these were the nodes, and where you would draw your glyphs. Arakil's drawings were thankfully far more legible than Duncan's, and if she had gone off his drawing alone, she wouldn't have understood the importance of nodes, as his matrix only had one.
+
+[Additional nodes don't always mean you have a better matrix. The quality of your choice can be just as important to the outcome of your enchantment. However, as I said before, you have to use the right one for the job. If your target can't handle the matrix, it could be damaged at a minimum or explode at worst.]
+
+However, after all this explanation, Lily had a big question burning on her mind, and she quickly retrieved her Mana-gathering array from under her bed. She unfolded it and began scrutinizing it, as Arakil's new explanation seemed to contradict what she had previously known. Arakil started to say something, but then held back, evidently wanting to see if Lily could figure it out herself.
+
+This is a normal inscription, not an enchantment… But he said he enchanted this wood? I don't understand…
+
+While Lily now understood a large portion of this, most of it was still a mystery to her. So instead of focusing on what she knew, she tried narrowing it down to the enigmas. That was when she spotted them tucked into the corners that could be easily mistaken as just a decoration or even a blemish.
+
+"Are these matrices?" Lily asked.
+
+[Correct. They are very simple, designed only to reinforce the wood and prevent any damage to the inscription. The inscription itself is not actually an enchantment, although it could still be considered a minor magical item.]
+
+Lily nodded, thankful that this made sense to her. Just like the fountain she made was technically a magical item, it wasn't actually an enchantment. Although that still left the question: why hadn't he used a matrix for this?
+
+"Is there a reason you did it this way? Could the wood not handle another matrix?" Lily asked, trying her best to guess the answer.
+
+[Probably not, it wasn't exactly the best, but it was all we had available. If we wanted to improve it, we would be better off using one of the trees in the dungeon. However, the main reason I didn't enchant it is that it was unnecessary; you usually only enchant an item if you want it to be permanently active or activated without any thought.
+
+If I had made this an enchantment, then the array would be constantly gathering Mana, which would be a waste since you wouldn't be there to make use of it. Of course, the solution to that would be an activatable enchantment, but then we get into the actual reason I didn't: you wouldn't have improved on how to gather Mana yourself. By making it an inscription, you were forced to constantly interact with it directly, to both feel and learn from it.]
+
+The realization hit Lily like a brick, and she felt silly for not realizing it sooner. In fact, the answer was practically staring her in the face with the light layer of dust on this once-precious piece of wood. She hadn't used this Mana gathering array for weeks, if not months, because she didn't need to!
+
+"I really have improved…" Lily murmured, staring at her own hands in slight bewilderment at the rather unexpected epiphany.
+
+[Of course you have. I'm sorry I don't always explain things outright, as I want you to explore and discover things on your own. But I am still trying to make sure I nudge you in the right directions, even if the guiding hand is somewhat invisible.]
+
+"And this is why you don't want me to get too comfortable with the wand, right?"
+
+[Indeed. It's an invaluable tool, but it makes things far too mindless in my opinion. However, circumstances prevent us from using better methods, and I'm keeping that in mind. For now, don't worry about it, you've so far avoided the pitfalls that would make a lazy wand user.]
+
+Lily smiled and nodded energetically, her ears flopping as she did. For some reason, the praise she received today felt extra special, maybe because of her earlier epiphany.
+
+Yet as positive as this experience was, there wasn't much she could do at this point with this new information. Enchanting required materials that could hold Mana as a first step, which could be quite easily resolved with a trip into the dungeon if she just wanted wood or maybe even stone. However, what she couldn't do at the moment was a proper craft.
+
+Lily had only learned drawing, but enchanting required making it part of the medium directly. Carving, sewing, forging, chiseling, engraving, and probably more she couldn't think of, but none of which she had the current skills to produce.
+
+Ink or even blood was an option, although that was a temporary enchantment, as it couldn't officially become part of the medium. In theory, she could enchant paper, as the ink soaking into it probably counted, but why would she ever want to enchant paper? For practice, sure, but even paper from Arakil's grimoire probably couldn't withstand the burden of anything but a simple matrix.
+
+"Do I need to start learning how to sew?"
+
+[If you really want to. Alternatively, you could do what I did and produce it through an inscription, though that increases the difficulty of the process; it saves you the trouble of acquiring a new skill. Oh, and it limits you to materials that can be engraved, so cloth would be out of the picture. If you want an enchanted cloak, then I'm afraid you would need to learn some needlework or resort to the tried and true method: pay someone else to do it.]
+
+"Why would I need an enchanted cloak? I've already got one," Lily asked, giggling as her Nebula Veil wrapped around her.
+
+[Of course… How could I forget?] Arakil chuckled.
+
+As her beloved cloak comforted her, Lily raised it up, and she touched the corner that was now in front of her. Her fingers brushed against the smooth surface, lighting up the stars as she passed over them.
+
+"It would be nice if I could enchant my cloak; since it's a spell, I could use Mana and not need to worry about sewing or engraving…"
+
+[You're not exactly wrong in that regard, although I don't see how that would work.]
+
+"Umm… I was kind of just joking, but maybe something like this?"
+
+Lily gestured towards her Nebula Veil, which she made grow further and stretch out across the ground. From there, she leaned down and, with her finger, started arranging the stars into a rudimentary pattern of a potential glyph. Her cloak was effectively fully under her control, although she had never tried arranging the stars like this before, only making them grow brighter or darker as the situation required.
+
+"Something like this?" Lily said, and then started tracing between the stars as if connecting the dots. "It's kind of like my own made-up constellation. Should I call it the star matrix or the star glyph?"
+
+Lily giggled at her own joke, but Arakil was strangely silent. At first, she thought the joke had landed flat on her face, but when the awkward silence continued for longer than reasonable, she knew something was up.
+
+"Arakil? Is everything okay?"
+
+[Sorry, I was lost in thought…]
+
+"My joke was that bad, huh…"
+
+Given how much dedication and importance Arakil puts into glyphs and inscriptions, it could easily be described as love. Just like when they had first started, and she had mistakenly called it "not real magic," she knew it was a potential sore spot.
+
+[Joke? Lily, I think you might be potentially on to something.]
+
+Lily pouted. "Very funny… I know I'm partially in the wrong for joking about glyphs, but that doesn't mean you can turn it back on me."
+
+[Um… I'm not sure what gave you that idea, but I'm being serious here. I think you might genuinely be on to something.]
+
+"Arakil—" Lily tried to reply, but he interrupted.
+
+[Have you already forgotten that Astral magic has spells related to constellations? You even gave me those books last night, although I admit I haven't had the chance to go through them yet. Regardless, I know for a fact that Astral mages back in the day put great importance on the local constellations.
+
+As you know, glyphs work because of accumulated belief for eons; these magical symbols have stood the test of time. Now, constellations are also beliefs, even if often misguided, so you could call them a glyph for fools. Of course, there must be some legitimacy to them, otherwise Astral mages would never have invested time into them, but I digress…
+
+What I'm ultimately trying to say is that I don't see why a glyph couldn't be represented as a constellation. They have far more legitimacy than constellations, so in theory it should be easier, so why wouldn't it do exactly as you suggested? What is stopping you from drawing a glyph, or a matrix, and utilizing your Nebula Veil as the medium?]
+
+Lily was left blinking, a dumbfounded expression on her face. Part of her still thought maybe Arakil was upset at her joke, as he had thrown out several disparaging remarks about Astral magic, as he sometimes tended to do, while propping up glyphs. However, what gave her pause was the fervor and passion with which he spoke, leading her to believe he was telling the truth.
+
+"Are you sure? Can I really do it?" Lily asked, unable to stop hopeful desire leaking into her words.
+
+[I won't lie to you, I'm not a hundred percent positive, but I think it has genuine potential. I'll need to do some research on how Astral mages drew power from constellations, and from there we can see if there's a way to apply it to custom ones, such as glyphs.]
+
+Lily clenched her hands, almost shaking with excitement. "I guess it's a good thing I gave you those books last night."
+
+[Sorry… I don't think those will be much help in this regard. I'm talking about doing research from my, no, our library. Although, should you ever wish to draw upon power from the local constellations, then I suppose it will come in handy. Admittedly, I don't see why you would when you could draw upon the power of glyphs!]
+
+Lily had to hold back a giggle, especially after that declaration with zero shame or hesitation from Arakil. She wanted to talk more about it, but they were interrupted by a sudden loud knock on the door.
+
+"Lily! Are you still asleep?" Lotte's voice came through.
+
+The event!
+
+Her stomach growled.
+
+No, breakfast!

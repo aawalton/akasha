@@ -1,0 +1,235 @@
+---
+id: 746941a1-8d6e-5521-9843-5787865e0aa0
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 29 - The Progress of Others"
+slug: 0086-book-5-chapter-29-the-progress-of-others
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 86
+ownLength: 4651
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3659634/book-5-chapter-29-the-progress-of-others"
+royalRoadId: "3659634"
+---
+
+“My gratitude for taking time out of your busy schedule to meet with me.” Lumornor remained seated behind his desk as he spoke. At least he looked up at her, though his smile was so forced that it very nearly came off as a sneer. The desk itself was shoved into one of the front corners of his cluttered workshop—with the available space otherwise filled by tables piled high with papers, books, glass, and jars containing floating bits of Xaoc knew how many different monsters and animals.
+
+“Certainly, Clover insisted.” Ranthia glanced at both chairs that were on her side of the desk, noted that there were open books piled on each, and elected to keep standing.
+
+Truthfully, there wasn’t much else to keep her attention currently. Anthelleon and Neyvern were spending some time together for a few days, Myntheria was pulling another one of her disappearing acts (how and why the body painter vanished for weeks to months on end remained a mystery; she always just waved it off as being “around” and/or just missing Ranthia), and the book that Ranthia was suffering through was best endured through brief sessions. Sure, the author was lauded for her romance novels involving a man and a woman, but her first foray into a romance between two women was proving to be a frustrating read. Ranthia had half a mind to try to track the woman down and seduce her, just to teach the poor elf that external tools were unnecessary to reach the peak of pleasure!
+
+And she couldn’t just drop the book, at least not before she found out what became of the plot that the father of the love interest hatched—framing his daughter’s paramour for the murder of his wife. Still, Clover coming home with a note stuck to her fur (thankfully, easy to remove) requesting Ranthia’s presence was a welcome break.
+
+Mostly welcome. Ranthia corrected the thought as Lumornor began to speak again.
+
+“I see. I won’t waste either of our time, so I shall cut to the chase: what do you know about Biomancy?” The elf folded his hands as he openly watched how she reacted.
+
+In what reality was that cutting to the chase?!
+
+“Not much, honestly. It’s not like I can ask Clover. Our [Companion Bond] doesn’t enable that level of communication. I know she used to make me read Daw—I mean, Elaine’s Medical Manuscripts to her. Though I’m not even sure how those apply.” Ranthia refused to be flustered by the elf, even if he was so taciturn that it came off as rude. Hopefully he hadn’t noticed that she nearly used Elaine’s Sentinel title, rather than the name she had signed to her scrolls.
+
+“I see. So, you claim that you have no Biomancy class?” His next question caught her entirely off-guard. And weirdly, Lumornor seemed to be outright pensive while he waited for her answer.
+
+“And how in Xaoc’s name could I possibly get a class for something supposedly new without knowing anything about it?!” Seriously, she’d assumed the man needed to discuss something about Clover. Something about his demeanor had felt accusatory, and she wasn’t so bored that she was going to tolerate being jerked around by an elf that considered himself high and mighty!
+
+“I… see.” Lumornor sagged back in his chair. He remained silent for long enough that Ranthia was just about to turn and leave, when he abruptly started to speak again. “My apprentices and I have painstakingly ensured that no other student of mine could be responsible. We have ensured that no other student, nor any known group of students that associate with one another, consistently had access to your rabbit. And yet, it—she—continues to manifest Biomancied transformations, demonstrating a steady rate of baseline improvement and complexity.
+
+“I hold myself to the highest standard. While my students are my first experience with teaching, I fully expected to excel as an instructor. I could accept nothing less. To be perfectly candid: I was joking when I stated that I would teach your rabbit when we first met. And yet, as I plan to reduce the number of students I instruct to thirty-two, your rabbit has managed to make the cut.
+
+“I have no other explanation for her transformations other than the improbability that she herself has become a Biomancer. I never imagined the rabbit would be included among the students that I allowed to take the full Forest-aspected Biomancy class.”
+
+His tone was interesting to listen to. There was no small amount of personal distress in there—he was more than halfway ranting by the end. Yet there was an undeniable hint of pride lurking in every last word as well.
+
+“Is that why she’s refused to take a third class yet? We have got to work on our communication. But… Honestly, I’m not surprised. I accepted long ago that she’d learned to read, and she’s constantly studying the books and notes that you provided.” Ranthia couldn’t help but to grin as she boasted.
+
+“Reading? That is the least of it. Taking you at your word, I am forced to assume that the horrendous penmanship belongs to her as well.” Lumornor pulled several sheets out of a container and splayed them across his cluttered desk.
+
+He wasn’t kidding about the penmanship—some of the words were more than a bit difficult to make out. And some of the ink was smudged in places in patterns that implied furry feet had dipped into fresh ink.
+
+“…I suppose that explains why I keep finding my inkwell in weird places. But that mischievous fluff! She could have been writing messages to me this whole time?!” They had come a long way in figuring out how to communicate without words, but several times per season Ranthia found herself exasperated by her Bond’s seemingly inexplicable behavior! And knowing that Clover could have explained, but chose not to, was just…!
+
+Lumornor smiled—genuinely smiled—for the first time since she arrived.
+
+“And with that, I am convinced that you speak the truth. Very well, you may tell her that she will be one of the thirty-two students that I will select my apprentices and lab assistants from. There will be a lecture here, in my workshop, for each of them tomorrow at sundown. I will provide personal guidance and System weight before they take a Forest class.” And with that, the elf was plainly done with her. He put the papers—Clover’s papers—away and opened a book without another word.
+
+In retrospect, Ranthia really should have made Clover apologize for hiding her ability to write in complete sentences from her first. From the moment that the bunny heard that she had made it through the latest diminishing of her class size, Clover became preoccupied with bouncing around with excitement for the rest of the evening—at least until she exhausted every last whit of her stamina and zonked out in the middle of the floor.
+
+Ranthia left a note about the meeting at Lumornor’s workshop—signed with “Ranthia, who knows you can WRITE!!”—next to her bond and slipped out to attend dinner service.
+
+Xaoc, of course, found Ranthia’s frustrations with her Bond to be hilarious. She had seen Clover sit in front of her little altar to Xaoc, and she was mostly certain that Clover prayed to Him as well. As such, there was a good chance that He knew Clover was keeping the depth of her ability to communicate from Ranthia.
+
+Not that it stopped her from complaining while she danced and prayed. If He knew, He deserved an extra helping of her displeasure!
+
+Before the thought could bring her up short, she heard the traditional two scratches at the door, followed by the Vlip as Clover teleported into their home.
+
+“And that’s her now, so I’ll let you go.” Ranthia spoke the words aloud as she concluded her dance. Xaoc sent her a final vaguely comforting sensation before He withdrew His presence with a final snicker.
+
+She got the distinct impression that He knew something she didn’t.
+
+Clover was fast for a rabbit, but she hadn’t quite caught up to Ranthia’s speeds—in large part due the presumably stark contrast between their class qualities. Still, the moment Ranthia rounded the corner she had a very excited bunny lunging directly at her face. She just had enough time to notice something… unexpected.
+
+[Rabbit – Spatial] level 573, [Rabbit – Spatial] level 573, [Artisan – Forest] level 32.
+
+Ranthia caught Clover through sheer instinct as she worked through her shock. She knew that her Bond was clever, yes. The mischievous girl could even write!
+
+But the final tag still seemed impossible to believe. Solareon had three [Griffin] classes. Every Bonded creature that Ranthia had ever met had bestial classes.
+
+[Artisan – Forest] challenged everything she thought she understood about the System.
+
+The difference between bestial classes and the standard elvenoid archetypes wasn’t well understood, even amongst elves. Worse, there were precious few elves that Ranthia knew well enough to reveal the true extent of what [Divine Eyes in the Void] showed her—most [Identify] or [Analyze] variants merely revealed the archetype of the target’s highest-level class and the color of their level. Ranthia’s ability to see more had been so unheard of in Remus that it was generally treated as a state secret—not that anyone consulted her about that decision. And even Avyna had been taken aback.
+
+Anthelleon already knew, of course. Not that she knew much about Companion Bonds. She wasn’t one for studying books either, so she was of limited help.
+
+Neyvern was surprisingly difficult to convince—he was certain that Anthelleon and Ranthia were both messing with him for some reason, at least until Ranthia accurately pointed out the only monster with three classes in a group of invasive beasts that they needed to purge. Once it was dead, he was finally convinced that Ranthia was telling the truth. Unfortunately, he claimed that any animal could choose a standard class if they were intelligent enough—which earned him Solareon’s ire for eight days straight.
+
+So much for that theory. Ranthia had spent enough time with the magnificent griffin to gain confidence that she was much smarter than the average eight-year-old—at least by the standards she knew in Remus. She had never even met an elven child, though elven standards tended to be ridiculous.
+
+The Lodge’s owner seemed to be unimpressed by Ranthia’s god-touched Skill variant, though she at least seemingly took Ranthia at her word. Supposedly, she’d seen something similar once before—a good reminder that Ranthia couldn’t be confident that no opponent would ever be just as well-informed as she was. She also confirmed that she’d seen both Bonds and bestial Guardians with standard class archetypes, though she had no idea what—if anything—was the difference between them and species-based classes.
+
+Myntheria was still absent and Sunny had yet to reappear after… everything. Ranthia wasn’t about to bring it up with Elsynthene during any of the (too frequent times) that the Maestro invited herself over to Ranthia’s home for tea either. It was just too hard to trust the woman, in spite of everything that she had done for them. Something about the Maestro just felt too… calculated and transactional to warrant such trust.
+
+And Litil only knew about as much as the tavernkeeper. But Ranthia had one more person she could ask…
+
+“Ranthia! If it isn’t my favorite pupil—still burning bright as ever! Come in, come in!” The flames that had barred entry to the crystalline room receded as Scaldos beckoned her to enter.
+
+“Something smells good. New wood?” Ranthia asked as she stepped into the fire elemental’s first kitchen.
+
+And yes, it was only the first kitchen. His home was a crystalline mirror to her own, except each room bore a full-fledged kitchen, with a firepit in the heart of the largest room for the elemental to rest within. She found Scaldos’ main body there, though he had appendages stretched into two other rooms.
+
+“A type of Neltuma that I haven’t savored in a thousand years! I hope the smoke doesn’t burn too strong for you?” He was plainly in a good mood.
+
+“I’m fine, honestly. Like I said, it smells good! So, what do you have planned for today’s lesson?” Ranthia grinned at the pile of amorphous flames.
+
+“I have the ribs of a maiasaura waiting in the chilled stasis box, if you wouldn’t mind.” Scaldos was absolutely capable of getting things from the cold box himself, but he preferred not to—he’d once claimed that he could ‘feel the cold through his fire.’ “I have a new marinade recipe in mind that I’d be pyro-delighted to test, then we can seal it with some of this fine wood to cook.”
+
+Ranthia had approached the affable elemental just a few months prior to ask if he’d be willing to give her some cooking lessons. The elemental claimed she was the first person to ever ask him for lessons and had blazed so enthusiastically that he nearly scalded her through her vitality. Instead of payment, she had to test his new recipes whenever he came up with something—which was occasionally a significant hazard, given the elemental’s complete inability to taste anything.
+
+Unless life threw any further unexpected hurdles her way, she fully intended to take a cooking Skill once she finally had a General Skill slot available. But even if that was still in the amorphous future, it was good to indulge in her hobby with one of the brightest, happiest people she had ever met. He wasn’t bubbly like Lysia had been, but Scaldos tended to find laughter in anything—even his abject failures. …Such as his thousand spore soup that lingered in Ranthia’s nightmares.
+
+Soup should never have a powdery consistency lurking within its broth.
+
+“Would it be alright if I asked a personal question? And even if you say yes now, don’t feel obligated once I ask the actual question, if it makes you uncomfortable.” Ranthia asked as she opened the cold box.
+
+…The ribs were taller than she was. How the chaos had he even gotten them in there?!
+
+“The flames welcome all questions, but don’t frown if the answers char things up a bit!” Scaldos’ robust voice carried easily through the distance. He struggled with directing his voice even more than she did, but he also relished any and all attention.
+
+“Alright, mind keeping something secret?” Ranthia hated how it felt like she was toeing around what she needed to ask, but the lead-ins were important!
+
+“Naught shall pass my nonexistent lips but ash.” The fire elemental answered.
+
+Good enough.
+
+“Alright, I know for a fact that you have two [Mage] classes and an [Artisan] class. But Arq, the only other elemental in the city, just has a solitary [Elemental] class. Do you have any idea what makes you so different, element aside?” Ranthia put her question out there while she wrestled the frozen ribs into the large basin Scaldos had prepared.
+
+“Ha! Secrets are like moths to the flame of your eyes, even if they are filled with goop. But you may not like the fire of my answer—I have no idea.” One of Scaldos’ broad paws presented the barrel his marinade was in to Ranthia once she finished shifting into a clean body.
+
+Instead of dumping it directly in with the ribs, she pried the lid off and took a deep sniff of its heady aroma. Nothing smelled out of place, though she still retrieved a spoon from one of the drawers and tried the flavor too. It was a touch heavy on the alcohol, though the flavors blended well—she chose to hope the overwhelming taste of the potent spirits would ease off as the ribs cooked.
+
+“Most people think Arq is young, but I disagree—level aside, my smoldering instincts say she’s even older than I am. So, I have no flaming explanation for why we are so different. She seems to only speak a few words and is content to play and act as a child. Her class matches that preference, like a flame to the perfect charcoal that maintains its temperature. Some elementals become like me; others remain like her. And element has nothing to do with it. I spent long years alongblaze a fire elemental that was even less aware than she is.” Scaldos continued, once Ranthia began to carefully add the marinade to the basin.
+
+“Wait, you can’t communicate with her any better than we can?” Ranthia asked as she began to massage the marinade into the frozen meat.
+
+“Worse, likely. As a bright flame, I find less meaning in the subtle undulations of water than the average elf. Also, I suspect she dislikes me. She usually hides if I’m burning around her fountain-of-the-day.” It was hard to be certain—Scaldos wasn’t an elvenoid, and his words were closer to an elaborate symphony of crackling of flame than anything quite like how she spoke—but he seemed a bit sad about that.
+
+“I suppose that makes sense. In case you were ‘burning’ with curiosity, I asked because my Bond got an [Artisan] class, and I’m still not sure what that means.” Ranthia spoke into the lingering silence.
+
+“Hot stuff! My congratulations to her. And I think it means that she deserves a grand meal—I’ll heat something tasty up for her before you leave!” And in a way, Scaldos probably had the wisest take on what it meant.
+
+Ranthia just needed to be happy for her Bond and continue to support her to the best of her ability.
+
+She was still going to ask Ranger next time he came around.
+
+“What?!” Ranthia stared at Anthelleon, unwilling to believe what she had heard. She hadn’t experienced such a shock since the sun’s brief-lived bit of fury.
+
+“Yeah, I wanted you to be the first to know. Well, aside from Neyvern, of course. I do try to keep myself from being unduly loathsome.” The woman rubbed her arm, looking uncomfortable.
+
+Anthelleon was pregnant.
+
+It wasn’t a joke, nor was it expected. Ranthia knew for a fact that Neyvern was taking a potion that should have… prevented such effects.
+
+“Should… Okay, I need context—is this a good thing, or are you unhappy?” Ranthia gently set her hands on her friend’s shoulders.
+
+“Terrified.” The bold elf admitted. “But maybe happy? It’s kind of a lot, and it still doesn’t feel real.”
+
+Ranthia offered a hug—swiftly accepted. “Well, congratulations can wait until you’re ready to accept them. I’m here for you, whatever you decide to do. We’re friends and partners, through thick and thin!”
+
+Her cheer was a bit forced. It was hard to keep her traitorous brain from whispering selfish concerns about what it meant for their party. She didn’t want to find another team. She was happy with her friends!
+
+“Thank you, my friend. I am uncertain of what the future may bring, but I know that there is something I must do before I show. We have already discussed it, and Neyvern will accompany me to confront my family. I… must make things right, so I might know my child’s place in the world.” Anthelleon offered a pale imitation of her usual fearless smile.
+
+“I’ll come too. When do we leave?” Ranthia didn’t even hesitate.
+
+“No.” The elf refused her flatly. “You are a true friend, but I cannot bring you along for this. You have not yet mastered the effects of your Bond. I must keep things nonviolent, no matter what vitriol or accusations my parents might bring against me, and anyone else that I bring along.”
+
+The worst part of it was that Ranthia immediately knew that she couldn’t even refute the concern. The enhancements to her fight-or-flight impulses through her Bond were more than just difficult to control. If she had time and emotional distance, sure, she was fine. But every time something threatened her, she made an instant assessment on whether she could kill it or if she could escape. She was still learning to use that instinct while hunting or facing imminent threats, but in a more… political setting, there was a lot of risk.
+
+Neyvern was lucky—his negative effect was that he yearned for the sky, just as intensely as Solareon did.
+
+“Alright… But if you need me, send a [Messenger]—I’ll come as swiftly as I’m able. And I’ll be here whenever you’re done.” Ranthia promised, finally breaking the hug.
+
+“My gratitude. Truly.” Anthelleon’s smile became true.
+
+“Okay, but I have to ask. How did this even happen?! Not that part—I mean, wasn’t Neyvern taking something?” Ranthia tweaked her question when she noticed the unmistakably mischievous expression on Anthelleon’s face.
+
+She did not need to listen to Anthelleon breathlessly describe how she got railed.
+
+“Ah… Um. Do not get mad, but… Based on the timing, it was when we were searching for the young elf that had wandered into the woods while her family was moving here. We were out there long enough that he ran out of doses, though we expected once or twice to be safe enough. Yet to be specific, it was after we made camp forty-two days ago.” Guilt. Why was there—
+
+“…Oh my Xaoc! An! I was sleeping right next to you that night!” Ranthia felt outright sullied as she stared at her so-called friend! She was no prude, but the idea of Neyvern and Anthelleon rutting within arm’s reach was more than a little off-putting!
+
+“I… enjoy the thrill of trying to be slow and quiet enough to avoid disturbing you.” Anthelleon seemed to find the grain pattern of Ranthia’s table supremely captivating after saying that.
+
+“Why are you making it sound like you’ve done it more than once?!” Honestly, her friend was so uncomfortable about Ranthia’s own preferences that she would change the subject if Ranthia said anything too ‘spicy’ about her own pursuits, yet she had …?!
+
+Anthelleon chose to remain silently fixated on the table, too unashamed to even have the decency to blush!
+
+Shocking betrayals aside, Ranthia still saw her friends and teammates off when they left the City of Arts. It was difficult to predict how long they would be away, but they hoped to return at least a month or two before Anthelleon gave birth—to give themselves time to get settled into the family district that was hidden away within the stone building.
+
+“You will get certified to be around children while we are gone?” Anthelleon pressed for the eighth time while they embraced.
+
+“If they let me, yes.” Ranthia finally gave a clear answer. Though honestly, she didn’t want to. Being in Remus—hundreds of cumulative levels ago—had been one of the most uncomfortable experiences of her life. It wasn’t just how scared of her that everyone had been either. Knowing that a single moment of insufficient control—a simple, thoughtless movement of her arms or legs—could destroy property and end lives had worn her down.
+
+Elves were sturdier than she was and everything they built was designed to last. Sure, she could still destroy things or kill people, but enough force was required to need intent to bring harm. Living with Clover hadn’t quite been as difficult, because her [Companion Bond] guided her. But unless she took another Skill for interacting with babies…
+
+“Take care while we’re gone, alright? Solareon will be sad for a season if you do something dumb while we can’t bail you out.” Neyvern went for a hug as well, not that she had any coherent reason to refuse.
+
+She still would have rather clasped arms or something.
+
+Solareon got a hug too, and the griffin tried to suppress her whistling purr—after all, she was far too majestic to be swayed by anything less than the greatest of scritches.
+
+“I’ll be fine. Sorry Clover couldn’t make it; she’s been holed up in Lumornor’s workshop since yesterday.” Ranthia separated from the trio while they shouldered their packs and worked to put the saddlebags on a barely tolerant griffin.
+
+“That guy gives me the creeps. Did I ever tell you that he offered me thrice the market price for one of Solareon’s eggs?” Neyvern shook his head.
+
+“Yes.” Ranthia answered flatly.
+
+“Thrice this season, six times last season.” Anthelleon piled on.
+
+The couple still weren’t sure if they wanted to establish a formalized relationship or not. For the moment, they were still partners only by the bonds of being in the same party. But Ranthia had a funny feeling that they would be more by the time they returned—at least for however many centuries they decided to stick together.
+
+“Fare thee well, my friend! I look forward to bragging to you about how my father fell to his knees and repented for his many sins!” And with Anthelleon’s hopeful words, they set off.
+
+Going back to life as a solo Hunter had been unpleasant. Ranthia outright couldn’t go after anything that budged Clover’s level much, or at least she couldn’t do so without being entirely too reckless. And yet, even that was stymied midway through winter.
+
+Something had killed another mountain lord. The Dark-aspected horse’s ruined head had been found quite some distance from its mountain—and there were clear signs that it’d been running away before it died. Afterwards, one of the largest groups of Hunters that operated out of the City of Arts confirmed that whatever did the deed had consumed the carnivorous horse’s entire food supply.
+
+And, in the process, it left deep scars in both stone and ice—likely inflicted by powerful claws or talons. The fact that the horse lord’s tracks ended well before the head was found was noteworthy as well.
+
+There was a decently long list of creatures that had enough flight power to seize a horse and fly, at least for a distance. Examples included rocs, thunderbirds, certain phoenixes, wyverns, sky sharks, winged wyrms, and basically any monster with a powerful Gravity, Wind, or Gale aspect. But there was one particular word that was being bandied about in whispers throughout the City of Arts.
+
+Dragon.
+
+Inflaming the rumors, the Maestro became common sights atop the stone tower or among the branches atop the two great trees at the heart of the city. And the guards had deployed eight to an entrance. It was a stark change from their typical one or two at each of the four major entrances—assuming anyone even bothered for the day.
+
+Yet the Lodge’s owner faced the rumors with open contempt.
+
+“If a dragon is in the area, it wouldn’t be hiding and fighting mountain lords one a time, you fucking idiots! Any true dragon would’ve carved a wide territory and made its presence known. So, stop spouting shit in my tavern already, you cowards!”
+
+And after three days of repeating similar words, with escalating threats that she actively carried out, the woman finally had enough and called their attention.
+
+“Enough of this shit!” She tossed the elf she’d been shaking aside roughly and remained unbothered by the resulting cacophony as he crashed through one of her tables. “I’m making a new bounty! I’ll pay a medium ruby to anyone that confirms any new beast or wandering lord that might have killed the damned horse, but only if you can actually tell me what it is. A second medium ruby for the level. And I don’t care what it is—if you try and kill it solo, you’re a fucking fool. So don’t even try it! We’ll gather information, then I’ll decide which groups have a shot at bringing it down.”
+
+The payday was more than just generous, especially for a mere scouting job. In an instant, the dark mood in the tavern turned around—and more than a few elves rushed to leave, eager to be the first to claim the prize.
+
+Ranthia chose to finish her lunch first. After all, the creamy beef stew was almost as good as the forbidden favorite from her past had once been.

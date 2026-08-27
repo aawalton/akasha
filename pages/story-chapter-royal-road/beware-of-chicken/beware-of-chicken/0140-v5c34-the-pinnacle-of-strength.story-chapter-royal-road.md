@@ -1,0 +1,147 @@
+---
+id: 72e612d2-2449-5b79-b330-a0cb6d475d46
+page-type-slug: story-chapter-royal-road
+title: "v5c34: The Pinnacle of Strength"
+slug: 0140-v5c34-the-pinnacle-of-strength
+partOf: beware-of-chicken
+position: 140
+ownLength: 1914
+unit: words
+ownProgress: 1914
+publishedAt: 2024-08-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1762172/v5c34-the-pinnacle-of-strength"
+royalRoadId: "1762172"
+markedReadAt: "2026-06-29T18:56:05.566Z"
+---
+
+“Now, now, none of that,” Shen Yu chided his foe as he cut through the formation within the mountain. At once, all the wailing stopped as the alarms were destroyed. With one stroke Shen Yu had evened the field for Bi De and his companions. They would need all the help they could get… but this was all he could provide for them for now.
+
+“Ah, but it was worth the attempt, no?” his opponent asked, his smile still fixed firmly upon his face. Gummy lips were pulled back, and Shen Yu’s eyes locked instantly onto that fact. The man was in the Imperial Realm. He could have grown his teeth back if he had wanted to, yet they remained gone. His back was slightly hunched. His body wrinkled and gnarled. He was completely hairless on his head save for his eyebrows.
+
+A strange statement to make with his body. Yet it was a statement all the same.
+
+Shen Yu’s attention was wholly upon the being that stood before him. It was a rare thing to encounter beings of equal power before himself. It was rarer to actually fight them. Before the Demon Commander it had been over three hundred years since he had last faced something that could be described as his peer.
+
+Now, it was the second such foe in a single year—and Shen Yu had not recovered from his last battle. Not fully. If Meiling and Ri Zu hadn’t done their treatments… this battle may have been over before it had even begun. Shen Yu would, for the first time in a long time, have been the underdog again, reduced a full realm due to suppressing the demonic essence within his body. He could have used his full might in small bursts… but nothing like the requirements needed to battle against a cultivator in the Imperial Realm.
+
+Neither of them moved after Shen Yu had destroyed the defensive formation. Both of them were studying each other, their Qi carefully probing. To those of a lower realm, they would simply be staring at each other. Yet the battle had already begun as they parried and riposted tendrils of Qi, seeking weaknesses.
+
+Neither of them could get a true measure of the other. His foe had unveiled the unmistakable might of an Imperial Realm cultivator, but that was all he had revealed. His opponent's Qi teased and taunted, shadowy and slithering. It defied accurate assessment, which further hinted at his strength and skill to hide from Shen Yu—yet Shen Yu had only done the same, like a swordsman using their thumb on the guard to draw the first inch of their blade. His foe saw the gleaming razor sharp edge, yet the exact dimensions were still hidden.
+
+Against another in the Imperial Realm, every advantage would have to be leveraged.
+
+His foe’s smile widened as their Qi dueled. Then his opponent moved. He raised his hands and made the gesture of respect.
+
+“Shen Yu. The Unconquered Blade. The Champion of the Emperor. It is an honour to make your acquaintance,” the man said with all joviality. “Your cultivation is sublime—a masterfully forged blade.”
+
+“I’m hardly that man’s champion; I just owed him a few favours,” Shen Yu said as he inclined his head slightly at the compliment and respect. “But you have me at a disadvantage… whom might I be crossing blades with today? Shen Yu would have your name, Demonic Expert.”
+
+Shen Yu took a step forward and his enemy's eyes instantly became sharper… but then Shen Yu took another step, almost lazily. His foe began to do the same, staying on the opposite side of the circle from Shen Yu.
+
+The other man chuckled and inclined his own head at the face Shen Yu had given him. “To any other, I would be the Heavenly Demonic Master… but I would not dare to give such a pretentious title to one of your calibre. I always preferred the name Jingsheng.”
+
+“Quiet Voice? How humble,” Shen Yu said, putting on an air of paternalistic condescension. Inside he was grim. The quiet, shadowy Demonic Cultivators were always a pain to fight. They were less prone to the detrimental kind of insanity their kind possessed. This man was doubly so. They had obviously stumbled into a massive plot here, the kind of thing that had been planned for centuries.
+
+“Indeed, indeed. Truthfully, I must confess I went out of my way to avoid your gaze. Battling the great Shen Yu at this stage was not something I wished to do… yet here you are. Luck truly is strange, no? How did mighty Shen Yu find his way here, to our little operation?”
+
+There was sharp interest in his foe’s eyes. Hungry interest. He was eager to learn how his base had been found, his preparations foiled.
+
+“The demon you sent to infiltrate the Shrouded Mountain Sect insulted my grandson,” Shen Yu said. “My boy slapped him into the next province, but such insults cannot stand, you know?”
+
+Jingsheng’s eyes widened. His jaw dropped.
+
+And a great wheezing laugh bubbled up from his throat. And yet, despite that, there were still no openings.
+
+“Oh! Oh my! The odds, what are the odds?!” his foe cackled. “I thought Lu Ban was a complete failure! I cursed his name! Lu Ban, I forgive all transgressions! I shall bow before your grave, for you have given me a great gift with that luck of yours!”
+
+The laughter abruptly stopped, and the man’s eyes locked onto Shen Yu.
+
+“A wounded foe. Tell me, Shen Yu, how do your wounds from your battle against the Demons fare?”
+
+Jingsheng’s Qi flooded the room, malevolent, hungering, ravenous. It pressed down on Shen Yu, a cruel tyrant attempting to stamp out any embers of rebellion.
+
+Shen Yu drew his sword.
+
+He drew his soul.
+
+The Qi was banished. The hunger, the malevolence, the power was cut through as Shen Yu revealed part of himself for an instant.
+
+His own intent truly took form. Sharp enough to cut even concepts.
+
+“Better than you would like,” Shen Yu replied mildly as Jingsheng’s eyes became warier. The grin faltered as Shen Yu’s Qi blazed against his own, rebuking and denying his will.
+
+The Qi thickened in the air as the first clash took place, their Qi battering against each other. Neither gave ground. Neither yielded.
+
+Jingsheng’s mouth twitched up in a smile. “Well, I suppose we should start, no? If the man there is your grandson, then my apprentices attacking the Azure Hills will need support.”
+
+Shen Yu froze. Fury swelled in his breast. For a moment, he thought it some trick—but no, there was only honesty in the other man’s words.
+
+Then, he took a breath, and forced the rage away. Jin would be fine. Jin was his grandson. Jin had his own strength. He had sworn to Shen Yu that he would protect his home.
+
+All he could do right now… is have faith in Jin.
+
+“Unfortunately, your tale will end here.”
+
+With a single step Shen Yu was beside his foe. His sword met his enemy’s, Jingsheng reacting to Shen Yu taking the first move.
+
+The first blow deformed the edge of his foe’s sword by a hair’s breadth, even as his Qi forced it back into place.
+
+Then, they blurred. In the time it took for a mortal to blink, they had made countless exchanges. Ten thousand parries and ripostes, ten thousand strikes that would make lesser practitioners weep with the perfection being displayed. Ten thousand strikes that were parried or dodged, for his foe was no fool to attempt to stand up to Shen Yu’s sword directly. He bent and twisted like a snake, his foe’s absolute focus on Shen Yu, just as he held Shen Yu’s undivided attention.
+
+It was almost quiet in the stone room, save for the weight of the blows. The world seemed to buckle and twist, yet there was no rumble, no explosions of power. Only the sound of metal on metal.
+
+A clash between Imperial Realm cultivators could be a cataclysmic thing, something that broke the land and scarred it for thousands of Li. It could shatter cities and lead to the deaths of millions.
+
+It could just as easily be something quiet and understated. A Master of Cultivation only affected the world when they chose to. Neither Shen Yu nor his foe apparently wished for such destruction. Their apprentices were here. And while opportunistically attacking them was on the table, such things might leave them open to the other.
+
+The battle's lack of collateral damage did not mean it was any less deadly. While the less skilled would let out explosions of sound as they destroyed the very air around them, Shen Yu and his foe’s exchanges were almost deceptively silent—yet still delivered with enough force to cleave mountains in twain.
+
+There was an impact. Blood sprayed from a thin cut on his foe’s cheek as both of them ceased.
+
+Jingsheng grimaced slightly before his gummy smile came back.
+
+“Ah, this is why I hate fighting against peer opponents. Always so dangerous,” Jingsheng said with a sigh.
+
+“Life is dangerous. Complaining about what is is unbecoming,” Shen Yu rebuked mildly.
+
+Jingsheng inclined his head slightly. “Indeed. So, I do think we should stop playing around so much, no?” A barrier flared around the room. Shen Yu allowed it to form. “At first, there was only darkness.”
+
+Qi gathered around Shen Yu’s opponent. The world started to buckle as his foe began to impose his own soul on the world, crafting a separate dimension entirely.
+
+“Let the world return to its natural state. Let it give itself back unto what birthed it.”
+
+His Domain.
+
+[All Devouring Heavenly Demonic Star]
+
+A star was born, cold and dead and hungry. It consumed the room in an instant, and screamed out for more. Crushing and smashing and twisting the world, drawing it all into its gaping maw. Heaven. Hell. Men and Demons alike. Everything would fall into it, and be consumed.
+
+It was eternal. It was inevitable. It was the end of days. It was the end of worlds, as nothing could stand before its cold hunger.
+
+Nothing, except for a sword.
+
+[The Unconquered Blade of the Soul]
+
+Shen Yu’s domain was no grand thing. It did not encompass a large area, nor did it require any chant or ritual.
+
+Because it was always active.
+
+A domain was a way to impose one’s self upon the world. To completely consume the natural with the will of a cultivator. To completely rewrite reality to favour themselves.
+
+Shen Yu imposed his will on the world with every act he took. He proclaimed his existence with every moment. He was Shen Yu. He was here. And the world would always know of his passing.
+
+Shen Yu looked upon his enemy. He gazed upon the devious smile. He controlled his breathing. He forced down the demonic corruption resonating with this foul thing.
+
+The outcome of this battle was uncertain—as all true battles were. His apprentice was fighting for his life in the tunnels below the room. His grandson’s farm was being attacked.
+
+Shen Yu would lose everything if he failed here.
+
+So the answer was simple.
+
+It was as it always had been.
+
+Win.
+
+Fight. Fight, and Win. Grasp the chance that would bring him victory.
+
+A blade of light launched itself towards a dark, burning star, and the battle began in earnest.

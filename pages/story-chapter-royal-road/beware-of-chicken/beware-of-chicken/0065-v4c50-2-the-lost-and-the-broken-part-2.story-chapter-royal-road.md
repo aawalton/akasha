@@ -1,0 +1,231 @@
+---
+id: 3403d1f2-5ab7-58f1-be8b-e5862804d828
+page-type-slug: story-chapter-royal-road
+title: "v4c50.2: The Lost and the Broken Part 2"
+slug: 0065-v4c50-2-the-lost-and-the-broken-part-2
+partOf: beware-of-chicken
+position: 65
+ownLength: 2476
+unit: words
+ownProgress: 2476
+publishedAt: 2023-10-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1380911/v4c502-the-lost-and-the-broken-part-2"
+royalRoadId: "1380911"
+markedReadAt: "2026-06-29T18:53:37.690Z"
+---
+
+Xiulan bowed to the Sectmaster of the Azure Horizon Sect. The normally stern, unflappable man had sweaty palms as he reached for his crystal and was shaking slightly. His finger tapped against it once before he took it fully, holding it like it would shatter at the slightest touch.
+
+It was almost amusing to see the state of the Elders Xiulan had once held in such regard. To her, they had once been such powerful, imposing existences. People to aspire towards. She had often wondered if she could be so decisive, so uncompromising, like a true cultivator should be.
+
+In strength Xiulan had surpassed all but one, the Patriarch of the Grand Ravine Sect. And in some ways, Xiulan had achieved that old goal. This mission of hers she would follow until the end… but without hardening her heart until she felt nothing at all.
+
+Now those same unflinching Elders looked lost and confused as they humbled themselves, bowing politely to Xiulan or one of her companions as they passed out the crystals. Universally, the Elders would delve into the thing, their eyes going blank, just to confirm if what she gave was really what the others had said. And just as universally they would flinch as if struck, their eyes widening further and awe filling them.
+
+She could not help but find it… sad. Sad that this act of kindness was something that she knew would stick in their minds for the rest of their days. That this act of kindness was something that would be told of for centuries. She’d likely receive some title for what she had done today. ‘Messenger of the Ancestors’, or something else suitably grand.
+
+It did not take very long to hand out the crystals. Xiulan could tell that most of the Elders wanted to bolt away immediately to view their secrets in private, but honour and a certain degree of curiosity compelled them to sit and listen. That and no one wanted to leave while the Patriarch remained.
+
+She could see their curiosity burning at them all, until Ulagan Baatar turned his attention from the crystal back to her and spoke.
+
+“How was such a treasure found?” He asked, his voice calm, once Xiulan and her companions were seated again. There was a kind of hunger in his eyes.
+
+“Yin knows far more than I about the original crystal’s recovery. She was with the First Disciple of Fa Ram, Honored Bi De, when he retrieved the original record,” Xiulan answered, and all eyes turned to the woman… Or at least most of them did. Her father always twitched slightly when he was reminded that a chicken had found this.
+
+Yin raised an eyebrow, but shrugged.
+
+“Yeah, he had a map and wanted to see why that marking was there on it. We ended up having to travel nearly a week underground into a really nasty cave to get the original crystal. At the end of it I practically had to carry him out.”
+
+Whispers broke out among the gathering. “A map?”
+
+“Of course our Ancestors would wish for us to study the past—we merely failed to find this bounty!”
+
+“Master Rou’s First Disciple possesses superlative luck.”
+
+They whispered and muttered amongst themselves, and Xiulan saw some minute gestures from the Sectmasters and Elders having a silent, albeit furious, argument over who got to ask the next question.
+
+“Such a sublime treasure must have had a powerful guardian?” Elder Sheng of the Azure Horizon Sect asked.
+
+Yin shrugged. “There was the whole weird thing Master Jin called the Lotus-Eater Machine that ripped us out of our bodies and shoved us into a memory plane. We had to kick a Temple Dog in the face to get Master Jin back from it, but it was all kinda a misunderstanding and Master Jin calmed him down. I can’t say it was too bad.”
+
+It took Xiulan quite a bit of willpower to keep from laughing at the nonchalant way Yin spoke, and the absolute silence that came after her words before the crowd began to mutter again.
+
+“‘Lotus-Eater Machine’? Such a terrifying sounding technique!”
+
+“It must have been a truly profound one, coming from our Ancestors.”
+
+“A Temple Dog?!”
+
+“The First Disciple fought a Temple Dog, and his Master calmed it down?!”
+
+“Heavens, an Elder of the Cloudy Sword Sect is truly frightening.”
+
+“Even if we knew of such a crystal, we would have been defeated utterly by the protections. The Heavens smile upon us that it was Master Rou’s Disciple who found it…”
+
+“Master Rou just decided to… gift it to Cai Xiulan?” Elder Xinling asked.
+
+“Sounds about right,” Yin said with a shrug. “Not like we had much use for it.”
+
+“You had no use for the knowledge of our Ancestors?!”
+
+“Ain’t my ancestors,” the woman said and picked at her ear. “I’m from… somewhere else originally. My Shifu and Master Jin took me in. We only knew that it could help Xiulan… And then she came up with this. I thought it was a good idea. We all did.”
+
+There was silence once more as they digested her words.
+
+“Our means are meager, yet we cannot just accept this gift without giving in return. We shall have to pay our respects to the First Disciple as well as Cai Xiulan,” the Sectmaster of the Framed Sun Sect intoned.
+
+Xiulan nearly said “he quite likes worms,” before she restrained herself. It would have been funny… Yet utterly inappropriate. “I shall ask him the next we meet if he desires anything. He is quite busy at the moment, however.”
+
+There were several nods, and the questioning seemed to be finished… but Sectmaster of the Azure Horizon Sect rose once again.
+
+“I shame myself by looking so closely at this gift, but the question must be asked. The original crystal contained all of these memories… Does that mean you have seen everything, Cai Xiulan?”
+
+“Yes. I have seen more than could likely be allowed,” Xiulan answered honestly. “But it was not I who sorted through the crystals to find every technique; it was Master Jin and the First Disciple that created the partitions in the original memory crystal so it could be split into the crystals before you now.”
+
+That assuaged some fears that it hadn't been her rifling around and stealing secrets, but a ‘benevolent Master of the Cloudy Sword Sect.’
+
+“Cai Xiulan’s gift demands repayment,” Ulagan Baatar’s voice cut through the meeting as the tension rose. “Even if you are an utterly shameless dog, then the act of her bringing you the wisdom of your Ancestors should absolve her of any sin. Cast all dishonourable and unsavoury thoughts from your minds; or I shall take offense.”
+
+Xiulan blinked as the man’s intent pressed down over the meeting, but gave the Patriarch of the Grand Ravine Sect a tentative nod as he intervened on her behalf.
+
+Nobody spoke or moved as the man’s eyes bored into each and every person there. Xiulan could feel the strain in the room and spoke up.
+
+“I think that we should adjourn the meeting here for today. I shall speak of the second reason why I requested this meeting tomorrow. For now… Please, examine your pasts to your heart’s content,” she said.
+
+There was a round of agreement. Xiulan wasn’t worried about any of them leaving early. Even the most shameless of them would be here tomorrow, ready to listen to her words.
+
+And so they retired for the day, heading towards the inn that they had stayed in last time. Cai Xiulan and her companions sought to rest after such a stressful day, and pondered how the cultivators would react to what was in the crystals.
+
+Xiulan was hoping that seeing their pasts would lend her words more weight tomorrow.
+
+============================
+
+What was in each crystal was a prelude of sorts. Cai Xiulan explained that the crystal was from the memories of one man, fragmented as they were—a once king. Images flashed past of cataclysmic battles and of wondrous artifacts as they explained how Xiaoshi and his Dao Companion Tianlan fought and defeated the Azure Emperor, how they crafted the civilization in the Azure Mountains together…
+
+Then how they were undone by a demonic invasion and how the province was only barely saved from destruction by his and Tianlan’s brave sacrifice—a sacrifice that broke the province.
+
+Xiulan had known it not to be the entire truth when she had told this story, but in the end she and Bi De had agreed to cut out the portions of the provincial formation and of Tianlan’s true nature.
+
+Yet, for the first time in millenia, the cultivators of the Azure Hills saw their history.
+
+=============================
+
+For some, it was an earth shattering revelation.
+
+On Gang of the Rumbling Earth Sect staggered back from the crystal like it had burned him. Blood filled his mouth as he suffered Qi deviation, and his liver ruptured from the force of his turmoil.
+
+He collapsed to his knees and vomited.
+
+On Gang had always boasted about just how many Wrecker Balls he had killed. It was a test in his sect; a true member could vanquish at least one of those belligerent Spirit Beasts, like their Ancestor so obviously had.
+
+“Don’t worry, little ones! Rumblin’ Yao will protect you!”
+
+He always knew that weakness was a sin, and a true man stood alone.
+
+A blind child smiled up at his behemoth of a Spirit Beast friend as they made the Earth-Wrecker Stance together.
+
+“Brother!” one of his men shouted as he felt Gang’s pounding pulse. “Treachery! Cai has added some trap to the crystal! To arms—”
+
+“No,” Gang gasped out as he grabbed his Elder’s arm. “No. There was no treachery...”
+
+Wrecker Balls and humans, freeing each other from slavery and taking shelter under a massive shell.
+
+On Gang’s hands were shaking as he held onto the man’s wrist. The Elder was saying something, but Gang’s eyes focused entirely on the bracelet he was wearing.
+
+A bracelet made out of Wrecker Ball claws.
+
+“...take it off,” he rasped out.
+
+“Brother?”
+
+“Take it off,” he snarled, blood gurgling in his throat.
+
+“What are you talking about—”
+
+Gang grabbed the bracelet and tore it off.
+
+“All of this! Off! From everyone!” he roared as he managed to rise. “We are no oathbreakers to wear such disgusting things!”
+
+“Gang… what is going on?” his friend asked, looking utterly confused.
+
+On Gang shoved the crystal into the man’s hands and then staggered to his feet, his Qi still ravaging his body.
+
+He said no more as he limped off to meditate.
+
+By the next morning, the bracelets and bits of armor those of his Sect wore from slain Wrecker Balls were nowhere to be seen.
+
+======================
+
+For others, vindication.
+
+Ulagan Baatar resurfaced from his examination of the memory crystal with a content smile upon his face and tears in his eyes; They had their stories of the past, it was true—but seeing Xiaoshi and Tianlan call Atlan brother? Seeing a man and a woman who had to be as strong as the Crimson Phoenix Emperor swearing blood oaths to their Honoured Ancestor—to the point where a ‘mere tribal’ was one of his most trusted companions?
+
+They were not ridiculed. They were not “barely human”. Xiaoshi took their banners to call his own, and was their shield when no one else was.
+
+The Grand Ravine Sect of the past hadn’t been feared. It had been respected, its cultivators hailed as heroes by everyone, not just their own people.
+
+Already his mind was filled with new techniques. He could feel his Qi churning as he stared upon the glories of the past, his body correcting the corruptions that had appeared in their passed down forms seemingly of its own accord.
+
+How joyous a day it was, that he could both see this, and share it with his Kin?
+
+Tarkhan gasped as he too removed his hand from the crystal, looking concerned.
+
+“Lord Xiaoshi… Lady Tianlan… they had the same presence that Master Rou had,” little Tarkhan whispered, sounding awed.
+
+Baatar had been skeptical that Master Rou was the true herald of the Earth, as many of the young ones seemed to believe. A Master of the Cloudy Sword Sect had to be strong, but to truly speak of the Earth? No, they had probably been mistaken, for the true voice of the Earth echoed out after. He was a man worthy of respect, to be sure… but not their obedience.
+
+He had examined the man’s daughter. He had felt nothing from Cai Xiulan nor Rou Tigu; he would not have tested them if he had. It was going against a man who could crush him utterly… but a man had to be willing to risk his life for his people and his ideals. To let children of the Empire so brazenly march with their colours couldn’t be allowed.
+
+But if Tarkhan was certain…
+
+He would kowtow a thousand times, shatter his own cultivation, and rip off his own arms if the Herald of the Earth demanded it; for if his death meant his people would once more ascend, then it all would be worth it.
+
+========================
+
+For others, it was simply their history; the wills of their Ancestors passed down to them.
+
+And for others still…
+
+The Master of the Crossed Branches Sect twitched as he pulled his hand off the crystal.
+
+He stared at the sky, and a single tear ran down his cheek.
+
+Such technique! Such sublime power! Such effortless mastery!
+
+To think that such grace was possible!
+
+He looked at his own jade inlaid and intricately carved wooden baton.
+
+He had eyes, but he could not see Mount Tai! He had perverted the noble arts of his Ancestors with such gaudy and unnecessary additions!
+
+He stood, a fever taking over his body. He needed to move! He needed to engrave the ancestor’s lessons into his body!
+
+His daughter removed her own hand from the crystal and gasped.
+
+A single tear ran down her face as well.
+
+“Father… I need a broom,” she said, her eyes shining.
+
+He nodded solemnly, ready to return to the true path of their Ancestors.
+
+===================================
+
+Blacksmiths turned blade masters.
+
+Dancers turned warriors.
+
+Masons turned smiths.
+
+The story of a world so old nobody remembered it anymore.
+
+But everybody… everybody saw what they used to be.
+
+Their Ancestors, smiling and laughing together as they built the Dueling Peaks side by side.
+
+Fighting and bleeding together against a wicked emperor.
+
+Dying and breaking apart when the demons concocted their foul plot.
+
+Some realised what it was Cai Xiulan wanted; others were too consumed by their revelations to think too much about it.
+
+But all returned the next day, as Cai Xiulan once more stood before them, poised and regal.

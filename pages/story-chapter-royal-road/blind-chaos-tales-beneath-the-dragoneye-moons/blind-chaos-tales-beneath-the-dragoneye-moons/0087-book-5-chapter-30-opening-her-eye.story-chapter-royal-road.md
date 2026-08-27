@@ -1,0 +1,393 @@
+---
+id: ee1c8d2b-be0d-57c3-9dc9-51fdd0d65bd0
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 30 - Opening Her Eye"
+slug: 0087-book-5-chapter-30-opening-her-eye
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 87
+ownLength: 5535
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3752673/book-5-chapter-30-opening-her-eye"
+royalRoadId: "3752673"
+---
+
+“I know you stay in town, but right now I need to know that you’re safe more than anything. So please, don’t go anywhere. We’ll know soon enough what the situation truly involves, and you’ll probably be able to go back to going out whenever you like by the time I get home tonight.” Ranthia was kneeling across from her Bond while she tried to impress the urgency of her request upon the bunny.
+
+Thump. Clover didn’t need to write anything with her claw to communicate that query. She wanted to know why Ranthia was going out if it was so dangerous.
+
+“I’m an experienced scout and I’ve been doing this for a very long time, even with cunning adversaries.” Inasmuch as criminals or the shimagu were prone to cunning, at least. “Even if I’m the first one to find whatever monster is in the region, I’m just verifying its level and leaving. That’s all.”
+
+Easy to say. She knew better than most that engagements were often difficult to avoid. And scouting out the target only worked so long as the monster failed to notice her first.
+
+Thump. Nothing more than displeasure, tinged in worry. Their Bond didn’t allow them to read each other’s minds or anything like that, but… Well, it was still possible that Clover was more aware of the risks than Ranthia would have preferred.
+
+“I’ll be sticking to the surrounding forest. Between the undergrowth and my shifting, I’m sure I can lose it, even if it does come after me. Assuming I don’t outmatch it in the first place.” Ranthia flexed her muscles playfully, trying not to think of her inability to escape the bear.
+
+It was just a scouting mission, and she was just one of dozens of Hunters that were going after the payday for mere information. She would be fine.
+
+Probably.
+
+Ranthia failed to get a promise out of Clover, which bugged her while she crept through the forest.
+
+After spending days in the somber atmosphere that had overtaken the City of Arts, she had almost expected the same fear to have gripped the forest as well. Yet nature was far more resilient than the fretful minds of elvenoids. Instead, monkeys chattered at each other as they played in the canopy overhead. Birds sang and insects chirped. And the firetrap mimics were open wide, patiently awaiting careless prey. Every sound and sight that she’d come to expect of the overly familiar forest was present, as though it were just another day.
+
+Which wasn’t enough to make her drop her guard. The lively forest just wasn’t proof that there was no higher order predator in the region—the creatures that lived within were used to predators. When one came, they scattered or hid, then emerged as soon as the danger passed. Compared to an elf, every wild creature lived an ephemeral life, which meant they had no time or patience for fear—not when mere wariness was often sufficient.
+
+As Ranthia progressed, she found herself frowning each and every time her armor rattled. The summer steel plate that she had commissioned seemed to be an exact match for the ruined segment that it replaced, yet it seized and clattered where the original never had. She knew well that her time with her Remus-made armor was at an end, though she still lacked the funds to buy a new elven-made suit that was custom-fitted.
+
+And she refused to wear ill-fitting armor. Even outmoded armor that rattled every time she twisted the wrong way was superior to something that might get in the way at some crucial, life-or-death instant.
+
+The two medium rubies would do a lot to fix that issue. Especially since the information she could provide would be superior to that of her peers—there was a good chance that the barkeep would pay a bit more to know the full extent of the levels and elements for whatever was lurking in the region!
+
+And yes, dreams of wealth were preferable to worrying or wishing that Anthelleon and Neyvern were back. It had only been four months since her party members left the city, but she still missed the safety net of their presence. It had been nice to have people that she could count on if things went wrong.
+
+Even if they would’ve laughed at her for freezing and looking around like a scared bunny every single time the canopy shook or a nearby bush rustled.
+
+Gods and goddesses, even Solareon would have been clucking with amusement.
+
+Frustratingly, her nerves were infecting and amplifying her fight or flight response. Every sound heralded a crisis and merely knowing that it was absurd hardly solved the problem; her fears were too primeval to be swayed by logic. Until she knew exactly what the threat was, she would continue to dread what it could be.
+
+And Pallos had nothing if not a bounty of nightmarish beasts that could send her to Xaoc’s final judgment in a single moment. For all the splendor of the world, it was just as flush with horrors—and only some of them came from elvenoid hands.
+
+Worse, Aegiomus had remained absent ever since the entire ordeal with Avyna and the Elf Hunters. And while she sat in the Lodge, struggling to finish her increasingly flavorless lunch, she had to listen to other Hunters whispering amongst themselves as they wondered just what would happen if the threat was too powerful for any Hunters left in the City of Arts.
+
+What would happen if it truly was a dragon.
+
+Borrowed nerves, she reminded herself. Not that her uneasy heart cared.
+
+So much for distracting herself with thoughts of the potential windfall.
+
+Even if she was haunted by her uneasy thoughts, she still kept moving. And the sun was hanging low in the sky by the time she neared the southwestern mountains. She had no intention of leaving the tree line, of course. But given that the creature had preyed upon at least one mountain lord, it seemed rational to assume the peaks were its preferred home.
+
+It was possible that it was the same monster that had driven the loathsome bear from its mountain as well. She hadn’t forgotten about the unfamiliar roar she’d heard while they had explored the bear’s former territory.
+
+Yet she reached the edge of the trees without encountering anything out of place.
+
+“Ah well, there’s always tomorrow.” Ranthia quietly vocalized the thought, just to hear something other than the brisk wind that the mountains always created in… the southeastern region.
+
+The thought had her pointing her [Divine Eye] upward, just in time to see something descend from the nearby peak. The creature’s powerful, leathery wings drove the winds into a frenzy—a localized tempest, just for the two of them. And amidst the scales of its body were spikes that blurred the gap between spine and horn.
+
+For an instant, Ranthia was convinced that she was witnessing a dragon, but no. Her fearful mind gradually absorbed the differences. For example, there were no front legs—the beast’s forelimbs were merged into its wings, just like a harpy’s. And there was the obvious truth of the words that she had failed to parse until that moment:
+
+[Jungle Wyvern – Forest] level 1021, [Jungle Wyvern – Spore] level 830, [Jungle Wyvern – Gale] level 821.
+
+It was no dragon, yet wyverns were only a step or two below their legendary cousins. Either wyverns or sea serpents were almost undoubtedly the final mystical quasi-draconic that the gods created before they perfected the line with dragons. Wyverns were one of the deadliest predators on Pallos, even if they were generally considered to be bestial monsters. Also, the wyvern had a class tier on her across each and every class.
+
+She couldn’t risk the battle. Thankfully, the wyvern hadn’t noticed her, but it was directly overhead, which left her with precious few options. If she moved, she would almost certainly be discovered. She had no appreciable stealth Skills and even if she dropped something to take one, a low-level Skill wouldn’t be of any use at their tier. And it wasn’t like she could shift far enough to escape notice.
+
+The urge to run felt like a physical thing, pulling at her heart and mind as it strummed her musculature as though she was nothing more than an instrument, energizing every last nerve she possessed. Instead, she allowed her fear to root her in place.
+
+If she held still, the wyvern might move on. There was a risk that another Hunter would find it and report before she could, but that was a risk that she would have to—
+
+The wyvern was still descending.
+
+The rational and experienced Adventurer in her head insisted that she needed to hold still anyway—no matter how low the wyvern got. Even if it landed near her, it might never look her way. And it hadn’t even reached the treetops yet. She still had cause to hope it would fly elsewhere.
+
+The rest of her acted, driven by sheer instinct. She formed an image of herself at the tree line and had it run—directly toward the mountains. She was acting out of fear and in defiance of reason, but at least her combat instincts had the sense to provide her with a distraction.
+
+The wyvern roared a challenge—the exact same sound she had once heard—and launched through the sky at speeds she would have never expected from its slow descent. It would reach her fleeing image in mere moments.
+
+But the thought came too late. Ranthia had already thrown herself into a desperate, adrenaline-fueled run in the opposite direction. At her level, mere moments represented a comforting distance that she could traverse—it just had to be enough! Taking action seemed to clear her head too, which made it far easier to process her fear and think things through. The wyvern would reach her image shortly after she arrived at the large bush that she was moving to. With a bit of graceful care, she should be able to slip inside before the wyvern—
+
+Her image shattered. From her point of view (well, her [Divine Eye]’s point of view), it looked as if the wyvern simply pointed its head at her image and it promptly ceased to exist.
+
+In better circumstances, she would have loved to puzzle over how such a thing happened. The wyvern shouldn’t have been a canceller with its elements, nor was it likely that a mere beast somehow had some anti-[Identify] obfuscation Skill that affected [Divine Eyes in the Void]’s unique insights.
+
+But it was hard to appreciate the mystery when she was barely halfway through her desperate dash to safety.
+
+Don’t look this way. She silently pleaded, unwilling to even pray—just in case the wyvern somehow sensed the divine connection. Which was probably impossible!
+
+The wyvern rose elegantly into the air and twirled as it spun around, only to immediately lock itself into place the moment its eyes landed on her. She had almost been within arm’s reach of her bush!
+
+Unable to think of a cogent response, Ranthia forced herself to stop running and waved to the wyvern. Which was just about the combined opposite of every single idea and instinct that she possessed.
+
+The wyvern roared. Of course it roared. What was she expecting?! It wasn’t like it was going to wave back and send her on her way!
+
+Ranthia resumed her attempt to flee, redirecting to the thickest part of the surrounding forest. Trees were her friends. They hadn’t even slowed the bear down, but the wyvern was probably a lot slower on the ground. And it wasn’t like it could—
+
+Against her expectations, the wyvern flew into the forest, passing through the canopy, and seemingly phased effortlessly through the trees, leaving them unharmed in its wake.
+
+Okay, that was outright unfair!
+
+Running away wasn’t going to work. With every beat of her pounding heart, the gap between them narrowed. The wyvern was much faster than the bear had been, at least while the wind remained beneath its wings. She had to hope it’d be slower if she could force it to the ground, but with the wyvern able to pass through trees as if they weren’t there, she had perilously few options. There were holes and gaps in the membrane of the wings already, so it wasn’t like she could just throw a knife or two and inflict enough damage to drop it—assuming its vitality was even low enough for [Sustained Chaos] to inflict meaningful damage.
+
+With every moment, her options narrowed. Still, she delayed her next move until the gap between her and the wyvern became dangerously minimal. Only then did she risk taking her [Divine Eye] off the wyvern long enough to conjure an image—placing it behind a robust tree at the outer reaches of her range. Her Skills reported a flare of danger at the same moment she activated [Reflections of Reality], but it didn’t feel lethal.
+
+She chose to keep moving while her Skill concluded its activation process.
+
+The volley was halfway to her before she could allow her [Divine Eye] to snap back to the threat. From the wyvern’s mouth, a spray of needles—each so fine that they would have been invisible had there not been thousands of them in flight—ripped their way through the forest. There was no time to dodge or defend herself. All she could do was to duck her head down, just as the first needles reached her.
+
+They weren’t metal, bone, or crystal. They were wholly unrelated to sewing implements. Instead, they were translucent, fine needles reminiscent of those she had seen on some of the plants in the war zone—an oft-vain effort to prevent grazing. Yet each and every one possessed enough raw force and momentum that they ripped through her armor’s steel as if it wasn’t even there.
+
+Ranthia nearly stumbled as the barrage slammed into her. Her back bore the brunt of the attack, though her neck, arms, and legs suffered too—the attack was broader than she was.
+
+Thank Xaoc, her shift concluded before the barrage did. In her fresh body, Ranthia tried to hold her breath, no matter how her body yearned to gasp and pant. The pain and strain were gone, yet their echoes screamed through her nerves.
+
+Less than a second after she disappeared, the wyvern landed. The trees trembled as the powerful monster growled in frustration. At speeds suited to its level, it surveyed the area…
+
+…And the wyvern stopped with its gaze locked onto her, as though it could see right through the tree.
+
+Ranthia forced herself to delay until the wyvern started to move, yet it truly had found her. By scent, by the sound of her traitorous heart… gods, it was possible the wyvern could see through the trees or had some magic sense that could perceive her [Divine Eye]! She had no idea, nor did she have the space to experiment.
+
+Escape wasn’t going to work. It was true that she still had a few tricks up her proverbial sleeve, but Ranthia’s speed hadn’t meaningfully changed since her encounter with the bear. Showing her full hand wouldn’t have allowed her to outpace the wyvern or bought her much more time. Instead, she saved the surprise for the moment she changed tacks.
+
+Fight or flight. And if the latter wouldn’t work…
+
+Well, Ranthia was damned good at the former.
+
+The wyvern lunged, beating its wings to keep itself airborne as it passed through the trees that should have stymied it. And Ranthia hurled obscenities at the monster as she moved, rapidly closing in on it. The distance that her shift bought lasted less than a second, between their efforts.
+
+At the last possible moment, Ranthia quit holding back. An outside observer might have claimed that she was just jumping between trees and loose leaves, but to her they were the opening steps to a three-dimensional dance—something that she had practiced more than once after discovering she was capable of it.
+
+The wyvern plainly hadn’t expected her to join it up there. There was no grace in the dragonkin’s fumbling attempt to snap at her with its teeth as she hurtled past. Her opponent had enough sense to flare its wings out and stop its flight, but she was still able to deliver a fully empowered strike to its knee without putting herself at risk.
+
+The wyvern had risen too far for her to target the muscles that controlled its wings, but she was willing to settle for the injury she inflicted. She even managed to get her Void-kissed knife angled under the wyvern’s scales to deliver a deeper wound. Her blade had deflected off another scale, forcing it back out of the wound, but that was fine—the blood that flew when [Echoes of Devastation] triggered made it clear that she’d bitten deep into the wyvern’s flesh.
+
+The wyvern made a pained snarl as it spun, though Ranthia wasn’t done either.
+
+Dancing across leaves was an odd experience, but she had learned a few rules. Unless the winds were strong, a loose leaf or petal could only be used to maintain the momentum she already had—at most, she could hope to gain a touch of altitude from each. But even if the wyvern’s wings passed through the trees and canopy with ease, the wind force its powerful presence kicked up couldn’t be understated, even before it amplified the effect with its Gale element to better control its flight.
+
+In other words, the wyvern gave her everything that she needed to change the rules.
+
+Ranthia stretched her legs out to catch two different leaves with her toes, then kicked off from them to reverse her course. And for a precious moment, the wyvern seemed to lose track of her—she returned faster than it could spin.
+
+She politely announced her presence by stabbing the monster somewhere around its stomach with both knives.
+
+The wyvern roared as it tried to twist its legs to kick and claw at her, but Ranthia wasn’t stupid enough to just stay in one place. She caught the nails of her toes against the wyvern’s scales—for once glad that she still favored Reman sandals—and did what she could to accelerate her descent as she struggled to keep her blades from being knocked out of its flesh. There was a pattern to how scales were placed, yes, but there were a lot of scales and the pattern varied slightly as she descended.
+
+She could only keep up both her meteoric descent and her attack for a matter of moments. All too soon, both of her knives were free. She immediately put her left knife back to work—[Sustained Chaos], amplified by [Adamantium Chaos], allowed her to launch the fully imbued weapon at the underside of the wyvern’s chin as she twisted herself to avoid a questing talon.
+
+The monster’s tail came at her next as she moved past its body. Without a convenient leaf or similar foothold to turn herself, she was forced to try something a touch more reckless—she seized the wyvern’s tail in her left hand and used the appendage itself as leverage. [Void Edge] ignited in her remaining knife as she prepared to try and sever an arm’s length from the wyvern’s tail.
+
+The wyvern was too quick and too powerful to allow that. Ranthia lacked experience with dragonkin, but wyverns were far removed from brutish dinosaurs—their tails were no crude implement.
+
+And Ranthia learned that first-hand the moment the tail curled slightly, then flicked. A seemingly trivial movement that managed to impart enough force that Ranthia’s palm shredded as she was launched directly downward.
+
+She hit the ground hard enough that she bounced, though she rolled with the impact as best she could. Which was always the right thing to do—the wyvern’s tail cracked through the air and a cleaving arc of Gale ripped into the ground where she initially landed a heartbeat after she was clear.
+
+Ranthia sprang back to her feet, tasting blood in her mouth. She had probably cracked some ribs with that stunt, but she could still move. The wyvern’s tail continued to rain blades of Gale down upon her as she danced, forming images while she evaded the attacks.
+
+Not that the wyvern paid them any heed. But that was fine—Ranthia had kept them still for a reason, after all.
+
+[Adamantium Chaos] plucked the knife she had thrown back out of the air and brought it to her hand. There wasn’t even a scratch on the wyvern’s chin. Its scales were just too durable along its more heavily armored sections.
+
+“Xaoc, I think you made these things a bit too aggressive.” The grumble escaped her lips as she watched the wyvern descend. Driving off monsters was simple enough in theory—even the stupidest animal would flee after they endured some pain. But only if there was nothing keeping them there. As such, she had hoped that injuring the wyvern would make it lose interest in her. She was tall for a human woman, yes, but she still had a fraction of the meat of any number of larger creatures. She wasn’t worth hunting.
+
+Unfortunately, the wyvern seemed more determined than ever to kill her. Because wyverns were notorious for being one of the most territorial monsters on Pallos. Every book that mentioned them went out of its way to point that out, including the fictions that tried to invent worlds unlike Pallos.
+
+She could practically hear the wyvern shouting “my territory!” with every roar that it made.
+
+The wyvern abandoned its sharpened wind as it moved in for a landing, coming down hard enough that the ground shuddered beneath the predator’s might. And just as she’d hoped, it landed between her and her images.
+
+Ranthia immediately activated [Reflections of Reality] while the wyvern concluded its ongoing roar.
+
+The same moment the wyvern began its next attempt to kill her—another needle breath attack—Ranthia ordered [Submind] to begin its attack with the bulk of the images that she had created. She protected her head with her adamantium bracers and tried to dance clear of the attack, though the sheer breadth of it precluded her success. Worse, the wyvern only needed to make minute adjustments to how it held its head to match every step she made.
+
+Through the pain, Ranthia focused on each moment she passed while she struggled to absorb as much information as she could about the attack. Her adamantium seemed to hold strong—thank Xaoc—though her armor was being ripped to shreds. Her body felt numb, though she had no idea if there was a paralytic in the needles or if it was just a side effect of her body being punctured by such a dense flurry of them, especially when each was the length of her finger.
+
+Less than a second later, her perception warped. The wyvern hadn’t paid any heed to her images’ completely ineffectual attacks, and she rewarded it for its impressive focus. As her images spread out further, Ranthia drove both fully empowered knives into the wyvern’s unguarded flank.
+
+She activated [Reflections of Reality] again the moment she concluded her strike. The wyvern promptly snapped at her with its powerful jaws, forcing her back. She evaded its second attack, then made a grand show of lunging for its body.
+
+Just as she shifted to the opposite side of the wyvern and took the opportunity to sweep her knives together, with a digit of one of the wyvern’s talons caught between the blades. The wyvern’s bone proved more durable than she had expected, though her attempt definitely hurt the monster—it scrambled away from her with another roar.
+
+Ranthia cursed when the wyvern beat its wings against the ground and launched itself back into the air. She really would have preferred it if the monster had stayed on the ground!
+
+The wyvern barraged her and her images with cleaving slashes of Gale, though it wasn’t too hard to dodge those, she just needed to keep her [Divine Eye] on its tail to know where they would be directed. She replaced images as they shattered, waiting for the moment that the wyvern once again filled the air with displaced leaves.
+
+Yet an odd sound reached her ear through the rushing winds, it almost sounded like—
+
+Vlip.
+
+FUCK! Ranthia’s [Divine Eye] left the tail and refocused on the brave, stupid bunny that had just reappeared on the wyvern’s back.
+
+The distraction cost her—one of the cleaving bursts of Gale tore through the shoulder of her armor and split her right arm from shoulder to bracer. Yet she barely even noticed the mundane pain.
+
+She only had eyes for the blood that flew from the wyvern’s back.
+
+For a horrible instant, she was utterly convinced that Clover had been impaled by the ridge of spines that ran along the wyvern’s back. The truth was stranger—and a wholly different form of nightmare fuel.
+
+Clover’s fluffy tummy had split open alright. And in doing so, she revealed a mouth filled with hook-like teeth that effortlessly slid under scales and tore into the wyvern’s flesh. With every bite, scales and chunks of meat fell.
+
+The wyvern roared in agony as it flailed in the air, trying to dislodge the comparatively tiny ball of fluff from its back. Yet the rabbit that was filled with entirely too many teeth just dug her claws—suddenly reminiscent of a shadow cat’s—into the wyvern as she held strong and continued to chew her way deeper.
+
+The wyvern stopped upside down. When its unlikely assailant still failed to dislodge, it beat its wings one last time—and launched itself at the ground with as much force as it could muster.
+
+“Move!” Ranthia shouted at full perception. She might have been able to pull Clover away in time had she still been moving, but her utter shock had cost her the momentum of her dance.
+
+Clover kicked off the wyvern with feet that were back to their bunny-typical appearance. She was soaked in their enemy’s blood, yet the moment that the final scales and bits of meat left the mouth that had replaced her stomach, it shut and seemed to fade away as her Bond’s ears twitched with discomfort.
+
+In those moments, Ranthia found her rhythm. The wyvern smashed into the ground—spine-first—and she wasted no time. Before Clover even reached the ground, Ranthia arrived alongside the wyvern and tried to slam both knives into the monster’s neck.
+
+Her left knife did as she hoped, but her severely injured right arm failed her. She just couldn’t get her right knife to her opponent’s neck in time.
+
+The impact hadn’t stunned the wyvern, and it responded to her attack almost instantly, even as it scrambled to right itself. It was clumsy though, which gave Clover time to land and Ranthia time to activate [Reflections of Reality], targeting one of her few remaining images.
+
+The wyvern managed to get on its side and began to furl a wing to get it out of the way. Clover tried to stymie its efforts. A scorpion-like tail that hadn’t been there a second ago pierced the membrane, yet Clover lacked both the strength and the weight to hold the wyvern—she didn’t even slow it down.
+
+But the wyvern hadn’t noticed its mistake. Ranthia’s shift concluded and she found herself staring right at the monster’s exposed spinal column—courtesy of the damage her Bond had inflicted. Backed by [Sustained Chaos], she threw her knife with every bit of force her restored right arm could muster, activated [Adamantium Chaos]’ repelling force the same instant she let go, and further accelerated the Void-empowered knife with the same Skill.
+
+Wyvern bone was one of the hardest substances she had ever tried to cut, but the wyvern had arched its back in preparation to launch itself back to its ‘feet’. And the discs that lurked between each vertebra were nowhere near as resilient as the bone itself.
+
+Her Void erased the disc, and her knife buried itself up to the hilt between the vertebrae—right between the wyvern’s wings.
+
+For a lesser creature, severing its spine like that would have rendered it utterly defenseless. The wyvern’s body shuddered as its movements became markedly clumsier, yet it still clawed its way back to its talons. The claws halfway along its wings sunk into the ground as the monster fought to keep its balance.
+
+Too bad it put so much effort into facing the empty image that Ranthia had already abandoned—she’d activated [Reflections of Reality] the moment her knife struck.
+
+The wyvern’s wheezing and abbreviated breath attack achieved nothing.
+
+Clover leapt with legs thrice as large and powerful as her usual limbs, passing over the wyvern. The monster was unable to ignore her presence; it raised its head to snarl at the shape-changing bunny.
+
+Which was the final mistake it ever made. It probably heard Ranthia leap, but there was no time to lower its head again.
+
+She found the miniscule gap between the plate-like scales of the wyvern’s chin and drove her remaining knife through them, even as her right bracer poured adamantium sand down her hand to form a replacement for the blade she left in the monster’s spine.
+
+Not that she needed it.
+
+[*ding!* Your party has slain a wyvern [Jungle Wyvern] (Forest, level 1021), [Jungle Wyvern] (Spore, level 831), [Jungle Wyvern] (Gale, level 823)!]
+
+There was a lot to unpack about everything she had seen and her first time truly fighting alongside her Bond, but it was hard to focus on anything except the notifications that followed:
+
+[*ding!* Congratulations! [Diffuse Reflectance] has leveled from 762 to level 768! Per level: +5 Free Stats, +3 Dexterity, +3 Vitality, +120 Mana, +120 Mana Regeneration, +120 Magic Power, +120 Magic Control from your class, +1 Free Stat for being human, +1 Mana Regeneration and +1 Magic Power from your element.]
+
+[*ding!* [Mirror Spirit], [Scattered Reflections], [Pure Reflections], [Persistent Imagery], and [Ideal Reflectance] have leveled from 762 to level 768!]
+
+[*ding!* [Distorted Likeness] has leveled from 709 to level 716!]
+
+[*ding!* [Reflections of Reality] has leveled from 580 to level 619!]
+
+[*ding!* Congratulations! [She who Dances with Chaos] has leveled from 766 to level 768! Per level: +100 Strength, +100 Dexterity, +100 Vitality, +100 Speed, +8 Mana, +8 Mana Regeneration, +5 Magic Power, +5 Magic Control from your class, +1 Free Stat for being human, +2 Mana from your element.]
+
+[*ding!* [Void Affinity], [Rhythmic Grace], [Void Edge], [Flowing Momentum], [Divine Eyes in the Void], [Sustained Chaos], [Echoes of Devastation], [Submind], and [Fast Learner] have leveled from 766 to level 768!]
+
+[*ding!* [True Grace] has leveled from 589 to level 635!]
+
+[*ding!* Congratulations! [Adventuring Priestess of Chaos] has leveled from 281 to level 303! Per level: +27 Strength, +258 Dexterity, +176 Vitality, +169 Speed, +205 Mana, +193 Mana Regeneration, +98 Magic Power, +121 Magic Control from your class, +1 Free Stat for being human, +1 Strength and +1 Magic Power from your element.]
+
+[*ding!* [Magic Metal Authority], [Adamantium Chaos], [Priestess of Xaoc], [I am the Priestess; I am the Champion], [Adamantium Will], [Dedication to Xaoc] and [Higher Power] have leveled from 281 to level 303!]
+
+[*ding!* [Companion Bond between Ranthia and Clover] has leveled from 574 to level 768!]
+
+[*ding!* [Ranthia’s Covenant with Xaoc] has reached level 364!]
+
+[*ding!* [Facets of Passion] has leveled from 420 to level 469!]
+
+[*ding!* [Sexy] has reached level 675!]
+
+Ranthia wanted to whoop with joy. She needed to get out from under the collapsing corpse of the wyvern. And she had a desperate desire to check on Clover.
+
+Instead, a wave of intense nausea and a surge of discomfort so sharp that it bordered on pain prevented her from doing anything, even as the wyvern’s head collided with her and bowled her over.
+
+As Ranthia fell to the ground, aided by the bulk of her former adversary, she struggled to make her second [Divine Eye] stop moving.
+
+She had finally mastered the single additional sense, yet its new twin managed to unmake every whit of progress she had ever made!
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 119]
+
+[Mana: 836330/836330]
+
+[Mana Regen Rate: 544659]
+
+[Stats:]
+
+[Free Stats: 69]
+
+[Strength: 45182]
+
+[Dexterity: 109965]
+
+[Vitality: 106937]
+
+[Speed: 104080]
+
+[Mana: 83633]
+
+[Mana Regeneration: 99382]
+
+[Magic Power: 80356]
+
+[Magic Control: 65956]
+
+[Class 1: [Diffuse Reflectance – Mirror (768)]+]
+
+[Mirror Spirit: 768]
+
+[Scattered Reflections: 768]
+
+[Echoes Reflected: 522]
+
+[Pure Reflections: 768]
+
+[Persistent Imagery: 768]
+
+[Ideal Reflectance: 768]
+
+[Distorted Likeness: 716]
+
+[Reflections of Reality: 619]
+
+[Class 2: [She who Dances with Chaos – Void (768)]+]
+
+[Void Affinity: 768]
+
+[Rhythmic Grace: 768]
+
+[Void Edge: 768]
+
+[Flowing Momentum: 768]
+
+[Divine Eyes in the Void: 768]
+
+[Sustained Chaos: 768]
+
+[Echoes of Devastation: 768]
+
+[True Grace: 635]
+
+[Class 3: [Adventuring Priestess of Chaos – Magic Metal (303)]]
+
+[Magic Metal Authority: 303]
+
+[Adamantium Chaos: 303]
+
+[Priestess of Xaoc: 303]
+
+[I am the Priestess; I am the Champion: 303]
+
+[Divine Seeker: 107]
+
+[Adamantium Will: 303]
+
+[Dedication to Xaoc: 303]
+
+[Higher Power: 303]
+
+[General Skills:]
+
+[Companion Bond between Ranthia and Clover: 768]
+
+[Ranthia’s Covenant with Xaoc: 364]
+
+[Facets of Passion: 469]
+
+[Submind: 768]
+
+[Immortal Armaments: 450]
+
+[Fast Learner: 768]
+
+[Image Recall: 701]
+
+[Sexy: 675]
+
+[Other:]
+
+{Xaoc's Covenant with Ranthia}
+
+Worth it.

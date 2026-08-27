@@ -1,0 +1,223 @@
+---
+id: 52bc8cfc-163d-56aa-b600-7f66ce3783f1
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 10 - Beans & Brawling"
+slug: 0067-book-5-chapter-10-beans-brawling
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 67
+ownLength: 4819
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3257937/book-5-chapter-10-beans-brawling"
+royalRoadId: "3257937"
+---
+
+“Okay, I really hope this isn’t super rude,” Ranthia prefaced her words carefully, “but seriously, Sunny?”
+
+The elf at her side—dressed in thirty-two different shades of black—cackled in unmitigated glee.
+
+After breakfast, Ranthia had planned to take Clover out to explore more of the city, but right as they stepped out their door there was a crowd of rambunctious elves passing by. Clover, being a wise and only partially acclimated creature, chose to remain indoors and under Ranthia’s bed. Attempts to coax her out were met with hissing (so, rabbits hiss, who knew?), so Ranthia set out to check some items off her to-do list.
+
+Like exchanging names with the lady who loved making creepy sculptures and inviting her out for a drink sometime. And somehow, neither part of that had gone as planned. The woman claimed not to drink much and upsold Ranthia on buying her a meal from a restaurant immediately (yes, she too had breakfast not two hours ago, which she followed up with a “so what?”) and gave the name Sunny in exchange for Ranthia’s.
+
+“Oh, you are so much fun, my pretty. It has been a delight watching you masticate on my name and work up your courage.” Her sultry voice was colored with (presumably exaggerated) bliss, which when combined with how breathless she was after her cackles, well…
+
+Ranthia took a moment to recompile her scattered thoughts.
+
+“So, you are messing with me.” Ranthia managed to respond after an all-too-noticeable delay.
+
+“Always, my pretty. But my name seriously is Sunny.” The elf wiped the tears of mirth out of her eyes—somehow not marring the dark cosmetics painted around them in the process—just in time to offer Ranthia a wink.
+
+“Did you… choose your interests to rebel against the name, or…?” It felt like a safer question than trying to argue that the woman’s name wasn’t elven enough. Honestly, even in Remus there’d been some girls with names wholly unlike any other that Ranthia ever heard!
+
+“Eh, not really. And I guess if you’re being technical, Sunny is the name I chose. Y’know how my dad’s a piece of crap, right? Well, he got to name me, and he picked…” After pausing to emit a disgruntled sound, she followed with an elven word—one Ranthia had only seen in old and somewhat pretentious poems—that translated loosely to “the light of the noonday sun as it is felt upon the skin of those who need the nourishment of its lifegiving warmth.”
+
+Yes, High Elvish was absolutely littered with absurdly narrow and convoluted words—many of which Ranthia couldn’t claim to have memorized. Such words were uncommon (to say the least) in casual conversation, but some authors clearly felt a burning need to string together borderline incoherent sentences using the most obscure words they possessed.
+
+“Ah, so instead of going through life sounding like <an ancient flowery poem> you shortened it to a simple word in Creation?” Ranthia dipped into High Elvish for a moment to drive her point.
+
+“Exactly. And hey, you aren’t half bad at High Elvish! I’ve met children raised in it that aren’t half as well spoken, my pretty.” The elf stuck her tongue playfully past her darkly painted lips in response to Ranthia’s scandalized glare, before she nodded forward. “Anyway, we’re here!”
+
+The restaurant was a small building made of wood, with thin, delicate-looking vines hanging off trellises set against the walls. It was surrounded by a perimeter of tables and benches, and its glass-adorned double doors were wide open, revealing a scattering of wooden tables and chairs within. The place wasn’t exactly crowded, though there were a few elves seated both indoors and out, eating food or sipping from heavy ceramic mugs. The sign in front was hand painted and declared the restaurant’s name to be “The Bean” above a logo of a stylized…
+
+“Is that supposed to look like…?” The corner of Ranthia’s lip twitched upward.
+
+“No, and don’t mention it when we’re inside. I’ve heard the [Chef] is sensitive about his vision for the sign, and I don’t feel like eating food with spit in it. Unless it came from a luscious lady’s mouth, of course, but I don’t think we’ll get that kind of service here.” Sunny answered with her own grin.
+
+Ranthia was planning a follow-up joke about the (allegedly) inadvertently lurid sign, but Sunny’s quip left her snickering.
+
+“One of us is going to be a terrible influence on the other, and for once in my life, I’m legitimately not sure if I’m worse than you.” She kept her tone jovial.
+
+Honestly, the only reason she wasn’t flirting with the (obviously interested in women) elf was that she was still holding out hope that Avyna would show up soon. Her heart’s cravings were—at least for the moment—stronger than her libido could ever be. She needed the affection that filled her heart far more than she wanted mere pleasure.
+
+Sunny offered her an impish grin in response, but at that point they arrived at the counter in the restaurant itself—which meant Ranthia’s attention was drawn to the menu. The details were—like most writing in the City of Arts—in Creation.
+
+…Ranthia hadn’t been sure what she was expecting from the restaurant’s food, but she had regrets. The first section was labeled Savory with alarming dishes like thirty-two bean salad; hot bean pulp, scrambled; bean patty sandwich with bean-milk cheese; and bean pulp hot pot listed alongside more predictable things like bean stew. And the second Section was even outright terrifying! It was labeled Sweet and Ranthia couldn’t even bring herself to read past the first entry: sticky fermented beans. The third section listed beverages that were—and she hated that this was no longer surprising—almost entirely comprised of either bean juice or bean smoothies.
+
+Ranthia looked plaintively at her new friend. The dark-loving elf nodded her understanding (thank Xaoc) and turned to the employee with the highly forced smile on his face that was behind the counter.
+
+“We’re both new here, so we’ll do the tasting platter for two. And can we each get two mugs of hot bean juice in both varieties, with just a dash of bean-milk in each? Lovely, thank you.” Sunny smiled earnestly in Ranthia’s direction once the order was done.
+
+That wasn’t at all what she’d wanted to convey!
+
+“You haven’t been here before either?!” Ranthia subvocalized her hiss as soon as the guy passed through the doors into what was presumably the kitchen.
+
+“Nope! Been meaning to come for a long time, I’ve just never been a fan of eating out by myself.” Sunny replied with a knowing smirk.
+
+Ranthia just groaned in answer. Okay, fine—she could survive a strange meal. She’d learned firsthand that elven food could be… weird during her time with Avyna in Coalition City, but she hadn’t encountered anything that was inedible. There was plenty of stuff that wasn’t at all to her taste, but even then, eating it had rarely been entirely off-putting. She could survive whatever Sunny was inflicting on her.
+
+Worst case, she could count on her vitality. Though none of the scents that reached her were entirely off-putting, so maybe it’d be better than she feared?
+
+Sigh.
+
+Surprisingly, Ranthia’s far-too-early lunch ended up being rather delightful. Okay, yes, some of the food had been… strange, and there had definitely been more than a few uncomfortable textures involved. But it was all surprisingly tasty and even some of the sweets weren’t overly sweet.
+
+Not everything in the Bean was, strictly speaking, a bean. One of the owners had added ingredients that had “bean energy,” a category that included roasted seeds, at least one of which had been fermented. But it was thanks to that strange decision that Ranthia left the restaurant with an unexpected prize:
+
+Chocolate—Ranthia finally had a Creation name for the confection that Avyna loved! The [Chef] in charge of the kitchen was even willing to share where he and his grandfather sourced the “beans” (fermented seeds) that chocolate was derived from: the kobolds. Sure, it was possible that Avyna had learned it herself in Ranthia’s absence, but she’d been hunting for the secret behind those confections for more years than Ranthia had lived.
+
+Ranthia was more impatient than ever for her beloved’s arrival!
+
+After lunch, Sunny returned to her stand (“Sure, I don’t sell anything, but I still enjoy lurking just in case someone new gets close enough to give me an entertaining reaction.”) while an overly full Ranthia returned to… the tree that she was still trying to accept as her home.
+
+In her absence, Clover had emerged from hiding and wrought her own fluffy brand of chaos—in the span of the time Ranthia took to indulge in a single meal, the rabbit had managed to track copious quantities of hay into every room in their shared home. Ranthia didn’t feel like cleaning, but she still forced herself to shake the fresh rabbit waste out of her poor, chewed up backpack and made another attempt at explaining to Clover the virtues and values of the sandbox.
+
+After that, she settled into a chair to read while she digested her food. The platter had truly been an excessive amount of food for just two people, especially when she hadn’t been particularly hungry. And she needed to be at her best for that evening…
+
+Geared up in her armor, Ranthia concluded her warm-up stretches—which had mutated into a dance somewhere along the line—and gently encouraged Clover to remain at home. Her bunny wasn’t fond of combat situations and while Ranthia had no idea what the tall, muscular elf had in mind for ‘testing’ her, she somehow doubted it would be a conversation. She knew that she should be giving Clover the freedom to explore the city on her own, but she wasn’t even slightly convinced that her Bond was ready for that.
+
+Once Clover was settled, Ranthia made her way out and set off at a brisk pace. Unlike Remus, the City of Arts didn’t have specific lanes or roads for various uses. If anyone possessed enough speed to be a hazard, they were expected to possess enough vitality, dexterity, and sense to avoid causing problems. And surprisingly, the system worked for the elves—it was hard to imagine how much havoc and tragedy such a mindset could cause in Ariminum.
+
+Once she neared the Lodge, Ranthia twirled to bleed her momentum and—at a regular pace—made her way inside. Unsurprisingly, the place was somewhat packed, with elves drinking and socializing happily. Ranthia made her way past the tables, well aware that the woman she was approaching was already glaring in her direction.
+
+“Yes, I’m here to be tested, just as you wanted.” Ranthia decided to cut to the chase once she arrived at the bar.
+
+“Overly literal idiot, aren’t you? When I said you need more than one fucking day to settle in, I didn’t mean ‘exactly two, then show up.’” The woman glared down at her.
+
+“I’ve spent… entirely too much time doing things I had to do, rather than what I want to do. You want me to settle in? Then let me prove myself and become a Hunter.” Ranthia countered, grinning.
+
+“Fine. Anthelleon! Take the bar and stab anyone that wants to peep. I’ll make it up to you later.” The powerful elf’s voice cut through the controlled din of the bar.
+
+Another woman, with short hair so pale a blonde that it was nearly platinum, stood up and strode over. She was dressed in elaborate leather armor—scaled with leather scales and covered in complex designs both engraved and done with needlework—with a metal staff holstered at her back. Without fanfare, she vaulted over the counter and pulled an apron out of some nook built into the counter and deftly put it on.
+
+“Oh, right. Anthelleon, this idiot’s the one that shares your taste in drink. If I don’t bury her out back, make her treat you to a mug or five.” The owner paused to drop that note, before she… somehow just stepped over the bar, without visibly ducking under the upper part of the structure and ended up on the other side.
+
+Elves were bullshit, and Ranthia wasn’t exactly surprised that someone at level 2560 in all three classes was able to do things that she struggled to explain, even after she witnessed the act.
+
+“By the way, my name’s Ranthia.” Ranthia introduced herself while they walked side-by-side toward the (apparently solitary) exit.
+
+“I remember; you already said that when you pulled those inane theatrics when you first came in.” The massive elf’s words were dismissive.
+
+“I… May I ask your name?” Ranthia was sorely hoping it hadn’t been given without her even noticing back when they first met.
+
+“No.” The woman turned back on Ranthia and fixed her with a dark glare—the dark flames that danced in her eyes seeming to surge in size as she did. “I have no interest in being friends with any of you idiots. I have no interest in your pathetically transparent lust. And I have no patience for wyvernshit, yet people like you seem unable to stop yourselves from spewing it everywhere. You’ll either fail this test and piss off, fail this test and get yourself killed by trying to go out there anyway, or pass the test and become yet another face in the crowd that buys drinks and whatever food I’m reselling for the day. And that simple transaction is as much intimacy as you’ll get.”
+
+Ranthia found herself blinking for several moments before she rushed to keep up with the elf. That was… blunt, blunt was a great word for it. But she hadn’t overcome as much as she had just to let some elf—however magnificent she might be—underestimate her and write her off. If anything, the blunt dismissal only fanned the flames of her determination. She would make the woman acknowledge her, no matter how long it took.
+
+They passed through the doors and Ranthia followed the woman—forced to take four steps for every one the elf took—as they circled the tavern around back. The area behind the tavern was decently sprawling, with only the backs of other buildings to be seen. Surprisingly, there wasn’t a single window facing the empty parcel of land, and the area was just a bit wilder and more overgrown than anything else Ranthia had seen in the city.
+
+“Before we start,” the woman began to speak again as she settled into some simple stretches, “tell me why the fuck you want to be a Hunter so badly.”
+
+Ranthia was still limber from her own workout, but she decided to mirror the elf’s stretches while she took a moment to chew on the question. Sure, she had her answer, but she had a funny feeling that spouting it off the cuff wouldn’t exactly endear her to the woman.
+
+“I was an Adventurer back in Remus. Sure, the job was broader, but we did fairly similar things. Many of the jobs were to hunt down any monsters and other beasts that became problems. It’s been a long time since I was last… just out there, doing some good and helping people. While earning a few coins—er, gems—in the process, of course.” Ranthia finally voiced her answer once her impatience insisted it was time.
+
+“Yeah, let me stop you right there. You need to check your expectations. The Hunters aren’t out there ‘doing good’ or saving anyone—you’re unlikely to help anyone except your own sense of pride. Sure, we get the odd monster that managed to hurt or kill an elf, but they’re rare. We can go centuries between such an incident, and even then, it’s usually because some idiot got lost and ended up in the territory of an old beast—much like you.” The elf prefaced her words with a dismissive snort.
+
+“What about monsters that get too close to cities or roads? There’s value in culling or relocating those.” Ranthia argued.
+
+“Anything stupid enough to do that usually does it when it’s too weak to be a threat. Yeah, a lot of those idiots deal with things that might become problems someday, but it’s not like anyone’s impressed by it. No one gives a damn about something that could become an issue if enough time passed without it ever getting pasted.
+
+“Most of the bounties are like what you stupided your way into: beasts that carved out their own territory and don’t bother anyone. Except the Unchanging Council claims absolute ownership of every last finger of land within the Tympestshard Council, and they take offense to ‘mere beasts’ denying this. Thus, there’s standing bounties for ‘em. And that’s the list you’re so desperate to get access to—for the entitlement of ungrateful assholes that you’ll never even meet.” The woman sounded amused, even as she verbally dismissed the highest authority of her nation like…
+
+Well, like she dismissed everyone else. Okay, maybe her words weren’t quite as surprising as they first seemed.
+
+“All the land? How does that even work?” The question slipped out before Ranthia could stop it.
+
+“Read the fucking laws for yourself, dumbass. Cities like this one get a license to manage the Council’s lands, that’s how a town becomes official—before that moment, they’re squatters hoping to become official before they get removed. Businesses like mine get approval to use a parcel of land indefinitely, but all I own is the building. And in theory, some idiot could come along and demand I pull it up and restore the land to pristine condition at my own expense—as if I wouldn’t just put my boot through their face.” The woman continued to do her best to convince Ranthia that socializing with her was hazardous to someone that wanted to be in the good graces of the powers that be.
+
+“I… see.” Ranthia swallowed her nerves as the stretching came to an end.
+
+It wasn’t just the woman’s words. The air itself felt heavier as the time of whatever test or trial arrived. Something subtle about her body language was far more serious than it had been a mere moment beforehand.
+
+She was no longer a tavernkeeper. And her level was no longer a novel, casual oddity. Ranthia was facing down a triple-classed [Warrior] that was well over three times her own level.
+
+“First test. Punch me, as hard as you can. And if you hold back, I will break your damned arm.” The words were an order, not backed with the formal weight of those in power, but one that carried the true weight of someone that was in a league beyond what Ranthia could hope to reach.
+
+Ranthia didn’t even hesitate. She charged in at a run and delivered the best punch she could—directly to the elf’s lean stomach (mostly because that was what was at the height of Ranthia’s shoulders).
+
+“Pathetic. Are humans that weak or is strength just your dump stat? Fine, moving on. Attack me all out. Use your weapons—your true weapons—and don’t hold back. Do your best to make me bleed, or you’ll be the one bleeding out.” She dropped into a brawler’s stance, one meant for someone with light feet—except, instead of bouncing on the balls of her feet, she kept them planted firmly in place.
+
+Ranthia took a deep breath and exhaled it slowly to calm her nerves. The outer layer of her adamantium bracers broke down and trickled down her palms to form her knives while she tried to compose herself. This was, more-or-less, exactly what she’d expected of the test. Her adamantium was sharp, but she wasn’t too worried about dealing excessive damage—the woman’s vitality was undoubtedly staggering.
+
+The moment her knives finished forming, Ranthia rushed in and made a probing strike, wary of reprisals—she had no idea if the woman would evade or counterattack with a (hopefully pulled) punch.
+
+Instead, the elf let the knife poke her skin. But there hadn’t been enough force behind the blow to draw blood, nor did Ranthia’s follow-up strike fare much better. She truly hadn’t expected the elf to just take the blows, but—
+
+She never even sensed it coming. Her opponent didn’t even seem to move, but the next thing Ranthia knew, she was airborne. And the elf’s flat palm was positioned where Ranthia’s torso had once been. The impact could have—should have—shattered bones, yet somehow the blow had been diffused across her entire body. The pain was little more than a dull ache and several segments of her armor had popped their connectors, just as they were designed to. Ranthia rolled her impact and vaulted back to her feet, freeing the loosened steel plates in the process.
+
+“I warned you not to hold back, fuckwit.” The elf snarled.
+
+“I wasn’t! Those were just probing attacks, to test your defenses.” Ranthia shouted her own indignant response.
+
+“I’m the one testing you, idiot! Now fucking come at me seriously, or I won’t hold back next time.” The woman roared, loud enough that the words seemed to rattle their way through Ranthia.
+
+Fine! Ranthia swallowed the petty urge to shout the word, keeping it confined to her own skull. As she made her next charge, she embraced the rhythm of the moment and let the dance guide her footwork. Once she drew near the elf again—seriously, how was she only bruised after an impact threw her that far?!—her first image appeared, in mid-thrust toward the elf’s unguarded back.
+
+“A spellblade, adorable.” The elf’s head had turned enough to glance at the image, but she otherwise ignored it. Instead, she met Ranthia’s real knives with her fingers, effortlessly turning aside each slash Ranthia made with a single touch.
+
+As Ranthia struggled against her opponent’s defenses, she continued to form her images, but each beyond the first went wholly ignored. For several seconds the stalemate continued, but just as Ranthia decided it was time to try shifting, the woman suddenly stomped a foot.
+
+And the resulting shockwave annihilated all of Ranthia’s images. Ranthia was forced back too, as dirt and scattered rocks peppered her.
+
+“Last damned warning, stop holding back!” She was undeniably pissed off. Her expression, her tone, and her body language were united in undisguised fury.
+
+“I wasn’t, you just interrupted me before I— Fuck!” Ranthia’s words cut off as a knife slammed into her arm. She wasn’t even sure where the elf pulled the damned thing from, but she definitely felt the thrown dull blade as it tore deep into her flesh.
+
+“If your Void [Warrior] class is so shoddy that the only manifestation of your element is whatever Skill that lets you see with that idiotic bit of expensive cloth over your face then I don’t want to see you set foot in my Lodge ever again!” The words came off as a warning. Which would normally be something someone gave before throwing a godsdamned knife!
+
+“I’m not trying to kill you!” Ranthia snapped as she recklessly yanked the broad knife that was meant for spreading butter out of her arm.
+
+“If I can be cut down by a half-assed whelp like you, then you deserve the boon of experience that you can harvest. So, stop holding back, show me everything that you can do. No one can see us here, so stop pretending your idiotic build is some grand secret to protect. Because right now you haven’t proven anything to me except your inability to follow a single fucking instruction I give you.
+
+“Less than half of the idiots in there have access to the bounty list, because most of them are aimless children that are toying with hunting monsters for a single cycle. If you think you’re better than almost every elf that steps through that door, prove it!” She threw down the proverbial gauntlet with a ferocity that could rival anything that Ranthia had ever faced.
+
+With her temper up, it was hard to appreciate it, but Ranthia acknowledged that there was real wisdom buried in those words. She was trying to prove herself more capable than elves, and she knew first-hand just how incredible they could be. Avyna hadn’t just been her equal—the woman she loved was, in many ways, better than Ranthia was. And she had no classes meant for combat, unlike (presumably) every Hunter.
+
+Ranthia wasn’t going to prove herself with a few fancy steps and a harmless image or three.
+
+“Fine.” Ranthia ground the word out as she started to dance again—to an entirely different rhythm. If the nameless woman wanted Ranthia to face her as more than a sparring partner, well, Ranthia could do that. She hadn’t spent the bulk of her life fighting against people for nothing. Ranthia approached the woman just as she had against the shimagu twins.
+
+[Void Edge] and [Echoes of Devastation] activated for the first time as she made her first slash—while she danced past the immobile elf at high speed. But much like the gorilla, her Void-kissed blade failed to penetrate. Her attack left only a thin line of sweet crimson.
+
+Her newly formed image came in after her, mirroring the attack on the woman’s other arm. Its pale echo of her attack failed to draw blood, but that was fine. She was confident that her opponent would at least feel the attacks, even if the damage they inflicted remained superficial. By the time Ranthia came around for another pass, she had six images—and had activated [Reflections of Reality]. She left another scratch on her opponent, yet just before she came around for another pass, her perception warped.
+
+Right on time to deliver a driving thrust into the elf’s side. Not that it did much. She couldn’t even pierce through the woman’s leather bodysuit! Either it was made from a material wholly unlike any Ranthia had experienced, or the woman possessed an armor Skill potent enough to make the thin, form-fitting garment dramatically more resilient than her own skin.
+
+Gods and goddesses, Ranthia was more than a bit jealous!
+
+“You have experience fighting against people.” The elf noted, her voice accelerated to match Ranthia’s combat perception.
+
+“Yeah, I fought in the war against the shimagu.” Ranthia confirmed her tester’s theory while she attempted to stab her again. It wasn’t very effective.
+
+“I see. How many people have you killed?” The woman asked curiously, utterly ignoring the minor cut Ranthia delivered to her cheek midway through the question.
+
+That was a hard question. There was a time that Ranthia could have answered it readily, but her [Mind Healer] had gently encouraged her to stop carrying the weight of the number. War was a horrific necessity, but tormenting herself with a number—of kills made or of allies lost—wasn’t honoring the loss of the fallen. It was self-serving self-flagellation, guilt for the sake of guilt. The System could give her the number, if she wanted it, but she knew the answer that she had to give.
+
+“It doesn’t matter, everything past the first is meaningless.” Ranthia slowed her dance to a stop as she spoke.
+
+“Ah, good. You do have a bit of sense. I would have left you unconscious and banned you from my tavern had you bragged.” For the first time ever, the tall elf smiled at Ranthia. “Lemme give you a little reward.”
+
+[Divine Eyes in the Void] screamed an impotent warning as the Skill’s eye fixed on the woman’s left hand, but there was no possible time or space to react. The very instant Ranthia tried to move, the air exploded.
+
+The elf’s arm was right beside Ranthia’s head. And all she could do was stagger away after the fact and hesitantly raise a hand to her stinging ear. She expected it to come away bloody, but despite what her body was shouting, she seemed to be relatively undamaged.
+
+“Huh, you have a companion bond, don’t you? One that hasn’t quite reached your level?” The elf asked as she leisurely lowered her arm.
+
+Ranthia nodded mutely, as she finally noticed that she’d dropped her knife. She’d never dropped her weapon like that before, no matter how horrible an attack came her way!
+
+“Damn, I’d hoped to get you to level 768. Oh well, your bond probably got several levels from that. You’re still an idiot, but I suppose you can have access to the full list. So, give yourself a moment, then get inside and buy Anthelleon some drinks so I don’t have to pay her back.” The elf made her pronouncement and began to casually walk away, as if nothing more serious than a conversation had happened.
+
+Ranthia stiffly retrieved her knife as she tried to make sense of that final attack. It’d felt real, but it hadn’t even touched her! Could an intentional near-miss from a level 2560 [Warrior] really have enough System weight to be worth at least two levels at her tier?!
+
+“Oh, and wash my damn knife!”

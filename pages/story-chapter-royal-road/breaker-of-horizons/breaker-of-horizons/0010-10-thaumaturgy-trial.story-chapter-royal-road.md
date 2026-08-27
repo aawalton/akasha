@@ -1,0 +1,147 @@
+---
+id: 23af5857-ef66-5786-933e-449419635d96
+page-type-slug: story-chapter-royal-road
+title: "10. Thaumaturgy Trial"
+slug: 0010-10-thaumaturgy-trial
+partOf: breaker-of-horizons
+position: 10
+ownLength: 2365
+unit: words
+publishedAt: 2020-06-04
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/505506/10-thaumaturgy-trial"
+royalRoadId: "505506"
+---
+
+"Caden?"
+
+"Mm?" I cracked my eyelids open. It was wonderfully warm under the covers and I didn't want to move.
+
+Sunlight was streaming in through the open window. That didn't seem right.
+
+"Caden?" Ambrose called again. I raised my head and saw him at the door, fully dressed.
+
+"Oh shit." I sprang out of bed and automatically tried to check the time, but my wrist was empty. I forgot that I had removed my watch yesterday after my father's lecture and I had gotten paranoid about wearing an artefact I didn't fully understand. That meant no 7AM alarm.
+
+"What time is it?" I scrambled for my things.
+
+"It's 8:30. You've got about half an hour before class, don't worry."
+
+"Thanks," I said as I rushed past him towards the shower. Jerric, Devon, Lynus, and Kevan were seated around the table, almost done with breakfast.
+
+"Didn't think anyone would wake even later than my brother," Lynus called out. "Especially not the Top Scorer!"
+
+Kevan aimed a blow at Lynus, who dodged aside with a laugh. I bit down a retort and rushed through my morning routine, feeling very annoyed that I had overslept.
+
+"Here." Devon slid over a sandwich on a plate as I sat down, furiously towelling my hair dry. I thanked him and ate with my free hand.
+
+"So like we were saying," Jerric continued, clearly picking up from where they had stopped in their conversation before I interrupted, "let's meet up after Thaumaturgy class and swap notes? We can get more Double Thau practice in since we've only got one class today."
+
+"Let's see how the actual Thaumaturgy classes go? I mean, we may not be in any shape for extra stuff afterwards," Ambrose said tentatively.
+
+"Because we're not that good at thaumaturgy?" Kevan shot irritably.
+
+"He didn't say that." Lynus said, not bothering to hide it as he kicked his brother under the table. Kevan scowled and Lynus scowled right back.
+
+There was a slight pause.
+
+"After yesterday's classes, I wouldn't be surprised if we get our minds blown again at our first Thaumaturgy class," I said to fill the silence. "I don't mind a Double Thau, but only if my brain is still working."
+
+Jerric clapped his hands together in satisfaction. "Alright, then, we'll gather for an early lunch and see if we're still sane, then decide from there?" He looked at Ambrose, who conceded with a nod.
+
+Kevan huffed but didn't press the issue. He got up and picked up his bag to get ready to head out. The rest followed suit as I cleaned up. We left together, but there was a weight that hung over our group as we split off to the different venues. It looked like the tensions from last night weren't completely patched over yet. I was actually glad that the Thaumaturgy classes would be in the smaller tutorial groups.
+
+It turned out that our Thaumaturgy classes weren't going to be held in the compound that Ambrose had brought us to. My tutorial group was supposed to meet in the Ka'atus Room again, but the rest had to go hunt for their venues in other parts of the Academy that we hadn't yet used.
+
+I walked in with several others who happened to be arriving at the same time. We found the room completely bare, without any furniture. Those who had arrived earlier were standing awkwardly in the empty space, huddling together in a cluster away from the only adult in the room.
+
+I couldn't help but stare.
+
+Our lecturers and instructors so far had been dressed formally and carried an air of respectability. This man was wearing a simple T-shirt that was so thoroughly marked with stains that it was hard to tell what the original colour was. Instead of trousers, he had track pants, but even then they appeared to be years past their prime. Patches were crudely sewn in, obviously to preserve function rather than as a statement of style. And instead of regarding us all with lofty wisdom, he was slumped so far down the wall that only his head and upper back were in contact with it. The rest of his lanky body stretched lazily across the floor. His face was hidden behind a book. Ah, a part of me sighed in relief, an academic after all, but that brief flare of hope died when I realised from the title and the cover that it was definitely not polite material.
+
+"What is he reading?" Reyes whispered.
+
+"A bodice-ripper," Triss whispered back, giggling a little.
+
+"A what?" I blurted. The others shushed me.
+
+"Bodice-ripper," Triss repeated. "Kind of a book that's really just about... you know. Ripping bodices." She giggled again.
+
+I raised an eyebrow at her and she raised her chin in response. "I'm sorry, but textbooks don't do it for me, Top Scorer."
+
+Before I could roll my eyes, the man sprang to his feet with surprising speed and dexterity, slapping his book shut with a snap that got everyone's attention.
+
+"Everyone's here," he said briskly, in a surprisingly crisp and chipper tone. I half-expected some sort of lazy drawl. "Come closer, form a line in front of me."
+
+There was some jostling as no one seemed to want to be the one to stand right in front of the strange man. I found myself being shoved to the front by a grinning Reyes. Much to my relief, Emilia strode forward, seemingly oblivious to the current atmosphere, and claimed the front without comment. I gladly relinquished the spot.
+
+When we had settled, the man cracked his neck. "I'm Marcus Kant, and I'll be taking you for Thaumaturgy. I'll say it up front — some people in the Academy will think you've drawn the short straw with me. In my own not-so-humble opinion, with the new direction the Academy is taking this year, you'll eventually be grateful."
+
+Up close, I realised that his unkempt clothes didn't tell the whole story. His black shoulder-length hair had been tied back neatly, and he was perfectly clean-shaven.
+
+"Sorry, sir, what new direction?" Reyes asked.
+
+"Sir?" Kant chuckled. "You all can call me Marcus, if you're comfortable enough. To answer your question, the new direction is that the Academy wants all cohorts to be trained for real combat from this year onwards."
+
+There were a few surprised exclamations at this. For as far back as most people could remember, the Academy had restricted its thaumaturgy syllabus to mostly theory, with very narrow ranges of application. Only hand-chosen arcanists would go on to study full-fleged thaumaturgy and take it up as a vocation. It was widely understood that controlling the number of thaumaturgists was an issue of the Empire's security - we needed enough to field a credible threat in war, but we also didn't want to alarm the rest of the world by training the entire population of local arcanists in the art of war.
+
+I could guess why. After all, we haven't had a big Prophecy with a Chosen One in several generations. Something was brewing, and ordinary folks were being caught up in the ripples.
+
+"Does this have something to do with the Chosen One being here?" Triss gave voice to the theory in my head.
+
+"Obviously," Kant replied coolly. "But you don't need to know the details. Suffice to say, as the newest cohort, you get to enjoy at least three full years of combat training, if you don't wash out of the Academy. And I'll be taking you all the way."
+
+He forestalled any further questions with a raised hand. "Class time is precious. Let's get right to it. One by one, throw me a standard duelling bolt and try to break my shield."
+
+Under his directions, we backed up a little until we were halfway across the room. Then, maddeningly, he took out his book and started reading again, and gestured for Emilia to begin.
+
+Emilia stepped forward, fire in her eyes, and aimed a palm at Kant. The familiar projectile streaked towards him, but was deflected off a small shield that materialised a few inches in front of him.
+
+"Next," he called out, pausing to scribble on a piece of paper. He didn't even look up.
+
+Emilia stomped off to the side as I took her place. I was tempted to make use of some of the things I had picked up last night, but decided that being labelled 'Top Scorer' was already enough trouble. I ran through the standard glyph sequence and raised a palm to fire off the bolt, though I did practice a little more by making the bolt coalesce from my fingertips instead of bursting out of the middle of my palm.
+
+Predictably, Kant deflected it.
+
+After every attempt, he'd pause to scribble something on the paper. We were obviously being evaluated and found wanting. When all ten of us had shot off a bolt, he glanced up at us and said, "Again. One by one. This time, try what you like," then went right back to reading his bodice-ripper.
+
+Emilia's hands were balled into fists. Instead of letting the bolt fly out of her palm, she practically threw it at him. From behind her, I could feel that a lot more arcana had been packed into it. There was an audible low woosh that made my teeth rattle, and the bolt raced across the distance much more quickly. When it hit Kant's shield, instead of dissipating it erupted into a shower of loose energy that hung in the air for a moment before vanishing.
+
+Kant hadn't even looked up, and he nonchalantly turned a page and continued reading without even bothering to stop and scribble on his paper.
+
+I decided to try a curved bolt. This time, I didn't gesture. The otherwise ordinary bolt twisted out of my right shoulder, then arced off towards Kant.
+
+Once again, Kant conjured a shield without looking even though I hadn't attacked from the same angle. My bolt spluttered and died. This time, he did briefly pause to scribble something. Somehow, that felt like a bit of a victory.
+
+The others used arc and density variations with no success, but I got a chance to see the level my other cohort mates were at. No one else, it seemed, came close to Kevan and Lynus' crazy aptitude or were at least choosing not to reveal it just yet. I briefly wondered how the others were doing and what their own lecturers were like.
+
+"Again," Kant called. "And try a little harder. One at a time."
+
+Emilia's next bolt had an even greater density of arcana than the last two. When she conjured it into being, there was actually a palpable sense of power in the air, and my skin prickled a little. There were a few audible gasps from behind me.
+
+But it didn't help. Kant deflected it with the same tiny shield and didn't bat an eye, though this time he did scribble. Seeing this, Emilia actually let out a frustrated cry of rage, then stormed off to the side.
+
+I understood her frustration. His silent note-taking might've been tolerable, but reading a book at the same time was just insulting. It made all of us feel small.
+
+Try a little harder, he said. Well, how about this?
+
+I took a moment to compose myself and form the sequences in my head. It would be hard, but it was time to show people why I held the Top Scorer spot. It wasn't just for theory.
+
+One standard bolt with double the arcana, fired straight ahead — I knew which glyph Emelia had tweaked to produce her variation. Then, three invisible bolts using the variation I picked up last night - two arcing from the sides, and one from the top. I took the time to fit them all in my own homebrew glyph formation that could chain sequences or fire several of them together. It took a couple more seconds and probably wasn't what Ambrose would call 'combat-worthy', but this wasn't real combat.
+
+Four bolts blossomed from the air around me. The others only saw one bolt, but we all felt the wash of arcana from the others. My clothes actually rippled a little in the backdraft as the bolts lanced towards Kant's irritatingly impassive face. Behind me, Reyes let out a satisfyingly loud gasp of surprise, and there were other exclamations of awe. Emelia had a look of grudging respect.
+
+My attempt was very anti-climactic. Each of my bolts was intercepted by copies of the same small shield that Kant had been using all along. The energy my bolts had filled the air with vanished with such suddenness that their absence was almost tangibly felt.
+
+And Marcus Kant still hadn't looked up.
+
+I took comfort in the fact that he scribbled for what was perhaps two seconds longer than anyone so far, but then he simply called out "Next!" into the shocked silence. My face burned as I stepped aside and joined Emilia.
+
+The rest had more variations, but nothing worked. Reyes tried a diffuse attack that split the bolt on impact, but Kant's shield simply blossomed and enveloped the shards before they could bounce off. Triss channelled a beam that was almost painful to look at and that she managed to maintain for over ten seconds, but Kant's tiny shield took the whole duration without wavering.
+
+When we had all finished this third attempt, Kant waved a hand vaguely to indicate that we should come closer, while his nose was still buried in the book.
+
+"Okay," he said, turning a page. The standard duelling body shield suddenly sprang into existence around him and all of us. "Now all of you at once. If I tag all your body parts, you're out. If anyone tags me once anywhere, you get a prize. If you don't last more than half a minute, you get extra work."
+
+There was a long pause. I could almost hear Emilia grinding her teeth beside me. The rest of us wore similar expressions of irritation mixed with surprise and incredulity.
+
+Then the air sang with arcana as we sprang into action.

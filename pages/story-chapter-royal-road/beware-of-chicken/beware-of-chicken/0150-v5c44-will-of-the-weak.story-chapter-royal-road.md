@@ -1,0 +1,427 @@
+---
+id: 37e277a7-62b4-544e-aba7-ca4168143f66
+page-type-slug: story-chapter-royal-road
+title: "v5c44: Will of the Weak"
+slug: 0150-v5c44-will-of-the-weak
+partOf: beware-of-chicken
+position: 150
+ownLength: 4454
+unit: words
+ownProgress: 4454
+publishedAt: 2024-09-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1812995/v5c44-will-of-the-weak"
+royalRoadId: "1812995"
+markedReadAt: "2026-06-29T18:56:26.265Z"
+---
+
+The drum thundered. The blazing inferno approached.
+
+Everything is connected.
+
+That was the first lesson Xiulan learned from Jin. It was a simple, yet profound, statement.
+
+The fire began to dance in front of her eyes. The drums echoed in her head, yet they sounded like they were placed in a vast room, the sound bouncing off the walls, and trailing down hallways.
+
+It was the fire dance of the solstice. The dance her ancestor, Cai Ruolan, had created to empower Tianlan in ages past. It was a shattered wreck of a formation. Its keystones were dust. The pathways that the song was supposed to resonate through were untuned.
+
+Xiulan could feel it. She could feel it in the distance, the thunder of other drums. The slight resonance of other dances, performed across the length and breadth of the Azure Hills.
+
+The people’s Qi still gathered. It still accumulated, following the ancient formation, yet it was unguided and would simply disperse instead of performing what it was created for.
+
+… unless Xiulan could guide it. Unless she could once more bring part of the formation back into alignment—where once more, the formation would use that Qi to empower the land. To empower Tianlan.
+
+We give to the Land, and the Land gives back.
+
+The golden crack in Xiulan’s chest began to glow. Memories from the crystal and hours spent dancing with Tianlan in her dreams filled Xiulan’s mind. They stood upon the node of fire—and even though it had been broken by stone, they needed fire to correct it. They needed fire to begin the cycle. They needed fire to begin the resonance.
+
+So, on the precipice of defeat, on the brink of losing the people she loved with all her heart, Xiulan stepped into the flames.
+
+Her own Qi was of Grass, aligned with Wood, and so it would be kindling. She fed herself to the raging inferno. She amplified the fire, making the flames burn white and banish the shadow that the other cultivator had fed into it. The power spiked into the Spiritual Realm, a conflagration that could burn through mountains.
+
+The fire was hungry. It was ravenous. It did not think, it only burned—and in doing so, Xiulan led it by the nose. In doing so, the fire moved the way she wanted it to. It moved to her beat.
+
+It moved to the beat of the Azure Hills.
+
+Xiulan’s blades burned to ashes, becoming dust on the wind as she fell to her knees. Every memory of her time here, every moment with Jin, Meiling, Bi De, Xianghua, Tigu, Yin, Gou Ren, and all the others burned in her mind.
+
+Xiulan pressed her fist to the ground.
+
+The beat of a drum echoed into it.
+
+=============================
+
+Wood to Fire
+
+============================
+
+It touched Hong Yaowu first. It fed on the beat of their drums. It touched the fire they made, matching and synchronizing with it, before racing onwards.
+
+In Verdant Hill, the people danced the dance of their ancestors. The Lord Magistrate led them for the first time, a smile on his face as the entire town followed his lead, the town pulsing and beating like a heart. To the astonishment of all, his wife, Lady Wu, joined them, leading the women of the town, her smile matching her husband’s.
+
+They were mere mortals. The weakest of the weak. Yet they danced, the memory of a blazing flame the one thing that they had to battle against the terrors in the night.
+
+They prayed, prayed for the sun to shine again.
+
+The fire grew in strength.
+
+It roared down dilapidated roads southeast, burning through obstructions and forcing its way down the only stable path; the path Tie Delun had followed to reach their home. The Dragon Veins here, even savaged, had always been solid and enduring, imbued with the strength of the Earth and then solidified to Metal.
+
+The drums boomed off vaulted halls and echoed through the rusting spires. Here, the dance was slower and more solid. It lacked the frantic burning of the flame, yet every step remained on beat as the energy within aligned.
+
+=============================
+
+Fire to Earth
+
+============================
+
+It was a long, long way south. The fire poured onward, down a golden artery that had been traveled many times. It was the most solid road the fire had, speeding it onward.
+
+In Pale Moon Lake City, from the highest halls of the Imperial Palace to the back alleys of Fish Guts Lane, from the heart of the city to the far-flung farms in the outskirts, the people still kept the faith of their ancestors. Theirs was a dance like cutting blades and striking hammers, a ringing chorus.
+
+Many of the steps had been changed. Many of the movements were imperfect. Yet their hearts were in it, the passion of an amateur that could inspire even the most jaded of Masters.
+
+They shouted and cheered, they sang and they danced, their dreams filling the air, and pounding through the ground.
+
+The fire was forged and shaped—and the very road it was traveling on began to hum.
+
+And then it hit the Grass Sea.
+
+======================
+
+Earth To Metal
+
+===================
+
+The single stream of flame turned into a raging torrent that split and burned down a thousand different pathways. The fire followed along the routes scattering seeds took as they proclaimed their intention to unify the people of their home—and the routes where an Earth Spirit had followed, determined to protect her friends.
+
+The Sects danced, trying to regain the knowledge of their ancestors.
+
+The people danced, following tradition from time immemorial.
+
+The Spirit Beasts danced, though most did not know why.
+
+They danced for themselves. They danced for their ancestors. They danced for the province, united wholly for the first time in generations.
+
+They, the weakest people of the weakest province, who had found a new dream to nurture, and a new hope for the future.
+
+From one pulse, to ten, to a hundred, to a thousand, to a million, the fire spread, one beat thundering in Tianlan’s Dragon Veins.
+
+The Qi within swelled. It began to quicken, flowing again like summer rather than the sluggishness of winter.
+
+===================
+
+Metal To Water
+
+=====================
+
+The fire never stopped, following a path taken by a rooster. It touched the villages. It touched the few Sects that were that far north.
+
+And it touched the Ash Forest, where the Blaze Bears danced, honouring their long-forgotten mother.
+
+It sped north, back to the apex. Back to the beginning. Back where the first beat had sounded.
+
+=======================
+
+Water to Wood
+
+======================
+
+Xiulan felt the power fill her. All she could hear was the thunderous beat. A smile came to her face. Both of her enemies froze, their eyes widening and their jaws dropping open.
+
+After the fire, the grass grows again.
+
+One, two, four.
+
+Xiulan rose to her feet, and out of the burned desolated ground, new blades of grass grew, rising into the air. The fire-aspected one tried to attack her. His Qi blazed as he used a suicide technique, trying to take her out before she could bring her full strength to bear.
+
+Eight, sixteen, thirty-two.
+
+It was for naught. Xiulan took a step forward, catching his arm mid-swing. She looked into his eyes, seeing only rage and hate.
+
+The blades of grass found new, fertile soil. She turned to the other one, but to her surprise, he was already fleeing—for Xiulan was not the only one who had risen. Tigu stood, her eyes burning in the darkness.
+
+“Xiulan. Take care of Father, please. I’ll make sure nothing escapes.”
+
+Xiulan smiled.
+
+“Of course.”
+
+Then Tigu was gone, on the hunt.
+
+Sixty-four, one hundred twenty-eight.
+
+The Qi within her kept growing. Yet… this power was not Xiulan’s. This blazing strength that filled her was not for her alone, even as she broke into the Spiritual Realm.
+
+Two hundred fifty-six, five hundred twelve, one thousand twenty-four.
+
+The entire clearing rumbled. The burned trees groaned. Charred and blackened pines burst with green growth. New saplings took root. In the blasted, cracked, and glassed ground, new shoots of actual grass thrust toward the Heavens.
+
+Xiulan clapped her hands together and the blades began to weave, turning into a cloth mantle.   She plucked a sword from the air and it split, forming a metallic fan. In the white interior, she saw her reflection. Red markings adorned her face, reminiscent of fierce war-gods.
+
+The power within Xiulan reached a crescendo as she once more amplified it—
+
+[The Harmony of Silk and Steel: Five Phase Samsara]
+
+—and returned it to the earth.
+
+=======================
+
+Wood to Fire. Fire to Earth. Earth to Metal. Metal to Water. Water to Wood. Wood to Fire—
+
+With each turn of the cycle, the flame went forth again, each time stronger than the last.
+
+The gold roads blazed. The drums hammered into the golden veins, pulsing stronger and stronger, resonating from the top of the Azure Hills to the bottom.
+
+The thumping pulse hit the borders of the province and swelled even more. They followed the repairs Tianlan had made, trailing after her Connected Ones. The Dragon Veins were the most whole they’d been since The Breaking.
+
+The whole of the Azure Hills resounded with the same beat, thumping like a newborn’s heart, and matching with the breath of the world.
+
+===========================
+
+Deep, deep beneath the earth, in a cozy little cottage, Tianlan gasped and opened her eyes, the thunderous roll of drums hammering in her soul.
+
+She held her head, confused, the emotions of her Connected Ones pouring into her. Their panic. Their feelings of dread.
+
+… there were enemies in her home. There were enemies attacking what was hers.
+
+Tianlan rose, her heart beating with the thunder of the drums. She stepped out from her home and patted the head of the little snowman that stood at attention, waiting for her arrival.
+
+==========================
+
+All across the farm golden lights burned, reaching for the Heavens.
+
+===========================
+
+“It's okay, it's okay. Mama’s here,” Meiling whispered to her son as she rocked him in her arms.
+
+Zhyue’s tears slowed as he looked at her smile. His hands reached out for her face.
+
+“My, my. The Heavens are watching out for us,’ Miantiao breathed.
+
+She could feel the snake’s heart thundering in his chest as he stared at the red smear on the ground that had once been an attempted infiltrator. Vajra buzzed with exhaustion from where she hovered. Golden light surrounded them all.
+
+“Auntie Mei, Auntie Mei, are you alright?!” The breathless form of the Torrent Rider stumbled into the room, followed closely behind by Huo Ten and Shaggy Two, both covered in blood— thankfully, not their own.
+
+“I’m alright,” Meiling whispered. She closed her eyes, feeling as her Qi expanded once more, brushing against the others and cataloging injuries.
+
+She felt Tianlan’s Qi…and drew on a dream about an old man who was knowledgeable in medicine.
+
+[Yan Emperor’s Herb and Root Garden]
+
+The entire world took on a green tint. Beside her, the Torrent Rider and Huo Ten gasped as all the cuts and cracked bones they had received started healing rapidly. The poisoned blood on the ground hissed and screeched, burning away.
+
+=================
+
+Chixia raised a poisoned spear as she approached the crater where the big man was on his knees.
+
+The golden light around him suddenly exploded, and the man rose to his feet. Every wound in his body filled in with golden light. Chixia staggered backwards as faltering Medicinal Qi within him suddenly surged, spiking back into her own technique and sending her reeling.
+
+They had to finish this now. Rong raised his arms, more strings connecting the Spirit to Huian.
+
+[Poison Butterfly Arts—]
+
+[Soul-Shackling Prison—]
+
+Yet both of them had to dodge when a jade green sword as tall as a provincial Palace descended from the heavens, intent on cutting them down.
+
+The sword instantly disassembled itself, breaking into a thousand smaller swords that looked more like flower petals. A woman strode through the falling swords. Her face was covered in red markings, like she was a character in an opera. A swirling mantle rested on her shoulders, like the depiction of a god from ancient paintings.
+
+Rong turned to face this new threat—only to go flying himself as the man hammered into the spirit, dragging Rong away. “Thanks, Xiulan!” the man shouted, and the woman smiled.
+
+“This is more even, no?” Xiulan asked, in a serene, melodious voice. The golden crack in the center of her chest burned with light and pulsed to the beat of her heart.
+
+The little swords launched themselves at Chixia.
+
+[Poison Butterfly Arts: Falling Scale, Silent World]
+
+The blades flew into a dusting of scales and withered. The jade green became ugly black. Yet instead of falling from the sky, the black peeled back like a rice husk, exposing more gleaming jade beneath—Chixia had only poisoned the outer layer, and the glowing green burned more of the scales away.
+
+A wall of poison erupted from Chixia’s storage ring, filling the air. The swords burned, yet more of them slashed out from her blind spots. They cut through the air toward her and Chixia’s spear went to work, but some got through, punching into her skin.
+
+And then Xiulan was in front of her. In one hand she held a sword. In the other, a fan.
+
+Chixia’s specialty had never been in direct combat. The other woman slid into Chixia’s guard like she was taking a stroll. Each attack of Chixia’s was deflected by the sword or turned aside by the fan. A blade cut Chixia’s side. The fan slammed into her throat, making her gag. A sword punched down out of nowhere, stabbing into her shoulder and forcing her forward into the woman’s strike, the main sword penetrating her stomach.
+
+Chixia screamed. Her wings unfurled in a burst of light, throwing her opponent backwards and letting her take to the air, poison flowing out of her and into the air in a raging torrent.
+
+Yet as she ascended, her heart sank. The jade grass blades rose to meet her— Xiulan standing atop the largest one.
+
+============================
+
+Huian was panicking. Just where the hells was this power coming from?! The man had been on his last legs! Now everything was gold. It was filling the sky!
+
+‘Young Master!’ Rong’s voice sounded in their head. ‘Please, use that! It is the only way!’
+
+Huian agreed. Grimacing through shattered ribs and practically pulped organs, Huian withdrew every funerary tablet they had. Huian’s own soul shuddered as years were lost, their Vital Qi blazing bright.
+
+[Soul-Shackling Prison: Demonic Bodhisattva]
+
+The souls, each one powerful, each one painstakingly collected, screamed. Huian forced them down the link, and into Rong.
+
+The spirit roared. Two more faces grew upon his head, tusked and leering. A hundred arms erupted from his back. Impenetrable armor, formed from the souls of others, clad his form. The world howled, and strained at the seams as the power of Rong touched the Sky Realm.
+
+“Through the strength of one’s arm, and the sweat of one’s brow, can the mightiest and most ancient beings be brought low,” came a whisper, in two layered voices as it carried on the wind.
+
+Rong raised his sword, and all before it would be obliterated.
+
+“It matters not their power, nor their age; with my axe, do I bring down the old giants—and prepare the way for new growth.”
+
+The man stood before Rong, his hand raised, like a child might imitate a blade. The edge of his hand cracked and flaked. Huian saw double. In one eye, the man simply stood there, but in Rong’s vision, glowing antlers were set upon his brow, and a mantle of woven rice fluttered in the breeze.
+
+The hand descended.
+
+[Fell The Trees]
+
+Rong, the hero of their cause, who chose martyrdom and to be the strength of the Soul-Shackling Prison’s Bloodseed Heir, froze. He was a mighty warrior, and even with his funerary tablet destroyed he had a hundred protections that would keep him fighting.
+
+There was no burst of power. There was no fanfare. Slowly, like an old oak…the spirit toppled over and died, every soul and spirit within fading into motes of light.
+
+Blood poured from Huian’s mouth.
+
+========================
+
+The Beast of the Void screamed. She raged. She howled her agony to the world. The world that hurt her most precious thing. The titanic mass of formless darkness visited destruction upon everything its many eyes could see. Slavering maws opened and shut, everything before her returning to the void. The last of her prey dodged, his movements desperate. But she would not relent. She would not rest until everything that had hurt her Dear was destroyed.
+
+The Void within her purred. She just had to let it out. Just a bit more—
+
+A heaving mass of vines and stone slammed into the Void’s prey, trampling it. The Void snarled, reaching out to eat the thing that dared take its prey—the Beast of the Void froze as its eyes took in the shrinking form. A rust-red boar turned to look at her and smiled.
+
+A warmth filled her chest with golden light. A soft nose pressed into her flank. A soft oink pierced through the agony.
+
+‘Everything will be alright,’ Chun Ke whispered. ‘Chun Ke promised. Will never leave.’
+
+The mass of darkness shuddered, golden light gently wrapping around it. One by one, the mouths closed. One by one the teary eyes disappeared.
+
+Slowly, the darkness began to shrink, and shrink, and shrink… until all that was left was a young woman. Her hair was the colour of plum blossoms, and she had a jade bangle around her wrist. The only things that preserved her modesty were lingering whispers of darkness.
+
+Pi Pa, tears in her eyes, grabbed hold of Chun Ke’s snout and wailed, pressing her forehead to his; a thankful bow to a vow held true.
+
+============================
+
+Wa Shi laid on the ground. His breaths came in ugly, panting gasps. He raised an arm weakly, hand shaking. A whimper built in his throat.
+
+It hurt.
+
+The puppet looked gleeful, like it had won. He could see the arrogance in it. The mocking grin, as it thought he was going to grovel for his life.
+
+The only thing Wa Shi begged for was food…and for Pi Pa to spare him, and probably for Bi De to take on some of his more boring chores—
+
+He shoved the thoughts away. His mind always did tend to wander when he was on the cusp of victory.
+
+Two fingers bent inward, leaving one pointing directly at the Tiger-Eagle. The puppet seemed amused as it advanced.
+
+A thin stream of water shot from Wa Shi’s fingers, and the puppet ignored it as its wind barrier flared—
+
+And instead of being blasted away, the water hit the spiraling barrier of wind, deflected inwards, and then used the wind barrier’s own strength to accelerate the flow. The lance of water punched deep into the puppets' internals. There it collected, bubbling.
+
+Wa Shi savoured the look of shock on its face. He had figured out the wind barrier’s trick. His water lances always spiraled off in the same way, so it was a simple matter of calculating how it deflected his water, then at the last moment reversing the flow to trick the puppet’s own defense into amplifying his attack. Of course, it wouldn’t have worked if the puppet had been paying attention, but arrogance had been its downfall.
+
+Wa Shi smiled through his bloody lips and forced his trembling hand into a hand sign he had seen Boss do a few times.
+
+“Bang,” the dragon said, tipping his fingers up.
+
+The look on the puppet’s face was hilarious as it exploded.Too bad it wasn’t made of meat; he wanted to know what Tiger-Eagles tasted like.
+
+Wa Shi slumped back onto the ground, a little smirk on his face. And Boss said I would probably never use that cubic formula.
+
+That was when he felt the Gold fill his soul. The dragon sighed. For a brief instant he wondered if he could get away with slacking off now. He could feel the others’ Qi burning bright. They should have it well in hand.
+
+Yet in the end the dragon rose once more to his feet, just in time for the dawn to come early.
+
+[Sun Arts: Nova Drive]
+
+Wa Shi thought he was the only one that could fly. But it turned out Yin and the demon she was holding could, too.
+
+===================================
+
+[Raze The Heavenly Stables]
+
+On the battlements of the fortress, demons were flung into the air as a fist punched up towards the Heavens, their bodies shattered like masonry hit by a catapult. The demon with the red blade simply disintegrated, its entire being undone as the grey fist impacted it directly.
+
+The shockwave sent even more demons hurling from the battlements. Gou Ren was on his feet and leaped from the top of the fortress in the blink of an eye. He could feel his body had changed, but he ignored it. All that mattered was that now he was strong enough to get to Xianghua.
+
+Just behind him, he heard Delun roar. His hammer smashed into the side of the fortress wall and spikes of earth the size of houses erupted from the ground and the fortress itself, clearing Gou Ren’s path. Three more demons were split in two by an ox wielding a plow. A flight of bees blurred past him, fanning out and adding to the demons’ misery as green light made all of them start to burn.
+
+“Xianghua!” he roared, his voice booming over the land. He sprinted towards where she was, his eyes locked on the thing that had stabbed her—
+
+Which is when the creature suddenly started screaming. Its skin steamed and seared; its blood started to boil, bursting out of its body.
+
+A snarling whine built up in Xianghua’s Steam Furnace as she rose to her feet. The steam around her glowed orange. Xianghua opened her mouth, suckingthe steam inside herself. The scream of the Steam Furnace reached a crescendo.
+
+[Breath of Steam: Dragon’s Roar]
+
+From Xianghua’s mouth spilled forth a cloud of orange heat and light that looked terrifying. It swept across the field, and everything it touched started to scream in horrible agony before falling silent. Xianghua stood, panting, as Gou Ren approached her.
+
+“Missed the heart,” Xianghua said with a shaky smile, then straightened up. She looked down at her wound, the puncture partially healed already. “I mean, of course this Young Mistress’s skill was too great for such a blow to land!”
+
+Gou Ren hugged her, stopping the rant before it could truly get going.
+
+Xianghua was a bit wobbly in his grasp. She squinted at his face, and a smile broke out upon it.
+
+“You look even more like the Great Sage right now.”
+
+====================================
+
+In the forest, Anjing ran. He fled. He was a loyal servant of the Heavenly Demons. He had sworn to fight to the death for them.
+
+He ran like the hounds of Heaven themselves were upon his tail. He was not thinking where he was going. He simply ran, his heart thundering in his ears and a wet stain upon the front of his pants.
+
+There was a monster hunting him. A beast with yellow eyes. A thing that he struck down with his shadows, and that rose again.
+
+He heard the artificial demons he directed at the monster screaming. The fearless things without any ounce of self preservation were screaming in terror.
+
+He heard them trying to flee. He heard them trying to run too.
+
+The screams, one by one, cut off.
+
+He had to keep running.
+
+Something long and sharp caught his leg. It peeled muscle from bone. He felt all the enhancements and all the powers gifted to him by his Masters burn and scream as the monster’s Qi raked across his own.
+
+[Claw Arts: Demon Reaper]
+
+Every trace of Demonic Qi in Anjing’s body ignited with ghostly blue fire, obliterating him entirely.
+
+====================================
+
+The demons invading Fa Ram recoiled on all fronts. The battle, once balanced on a knife’s edge, tipped to the thundering sound of drums.
+
+The entire province pulsed in time, following the steps of a time unremembered.
+
+================================
+
+To the south, in Yellow Rock Plateau, a woman with black hair and a colorful yarn hat rested on a hammock fast asleep in a rustic shack. The sky was dark outside her home, save for the stars and moon shining down on a cold desert filled with giant cactuses.
+
+She bobbed her head slightly as she slumbered. Her hammock gently rocked in time to the faint sound of drums.
+
+‘Mmn, nice beat,’ she muttered, a slight smile on her face.
+
+=====================
+
+To the west, across the badlands and in Grey Shard Coast, an old man with a bushy beard grumbled, tossing and turning, a distant thunder disturbing his sleep.
+
+============================
+
+To the East, in the Howling Fang Mountains, a blonde woman who was seven feet tall flailed and sat up, smashing her head against—then into—the low rock ceiling. Bleary-eyed and tired from spending all summer digging towards the Azure Hills, she had fallen asleep where she worked.
+
+She pressed her hand to the wall—and felt a distant rumble, like the beat of a heart.
+
+“You are alive,” Jiguang, the Spirit of the Howling Fang Mountains, whispered. She staggered backwards with relief, her eyes heavy…and she fell back asleep with a smile on her face.
+
+==============================
+
+And to the north, in a world of eternal winter, something stirred. It normally slept. It normally had little to do. It felt the pounding resonance and was curious. Interested. It was more beast than person. More instinct than thought.
+
+It felt the echo of gold—and to its surprise, it found more bits of gold within it, resonating ever so faintly with the thundering beat to the south.
+
+Bits of gold that subordinate spirits were telling it were familiar. Bits of gold, offered without thought of return.
+
+The great, vast, cold thing tentatively tapped at the shards.
+
+=================
+
+A rooster, buried by rocks, gasped, cold filling him.
+
+In a dungeon stinking of blood, a pair of storm-grey eyes snapped open. A surge of power filled them, lightning sparking and crackling like a living thing. A blonde woman rose to her feet, the poisons purged from her system.
+
+A great demon held onto a fine blade and smiled at his victory—yet the demon had made a mistake. Cracked though it was... it was still the Unconquerable Blade.

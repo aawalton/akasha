@@ -1,0 +1,183 @@
+---
+id: c6aeceeb-bd44-5819-93ea-fd5d65b9e793
+page-type-slug: story-chapter-royal-road
+title: "v7c32: The Work Continues, in Light and Shadow"
+slug: 0285-v7c32-the-work-continues-in-light-and-shadow
+partOf: beware-of-chicken
+position: 285
+ownLength: 2462
+unit: words
+ownProgress: 2462
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3093660/v7c32-the-work-continues-in-light-and-shadow"
+royalRoadId: "3093660"
+markedReadAt: "2026-06-29T19:01:12.762Z"
+---
+
+It was one thing to read about ancient Chinese court drama.
+
+It was another thing entirely to see it play out.
+
+The first night had been amusing enough, with the Lord Magistrate and Lady Wu blackmailing the hell out of the Wu Clan. Our amusement had quickly faded though, when the first thing the Wus did after leaving was order the kidnapping of the Lord Magistrate, Lady Wu, and the Auditor.
+
+…I had very nearly gone down there myself, to say nothing of the way Meimei’s eyes had gone cold and dark. None of us had taken it well. The rooftop we were watching from suddenly had a dragon on it, lightning crackling around his whiskers, while Babe had bristled, his eyes literally sharp—his sword intent had been a palpable aura. The bees had risen up in a flight around us, buzzing ominously.
+
+Xue Ji, however, saved their asses before Meimei could start busting out the poisons, and sent the bastards packing.
+
+Literally.
+
+They looted their castle so fast I couldn’t stay angry, the cultivators sprinting away from their house with comically large bundles on their back. Chairs and tables stuck out at odd angles, and chains of valuables dangled from their necks and arms.
+
+===============================
+
+The next day it was just me and Mei for the first part—we couldn’t exactly keep a low profile while taking an ox, a fish, and a baby into the Imperial Palace of the Azure Hills.
+
+It was actually my first time being in a provincial capital’s Palace, and it was grander than I imagined.
+
+Banners of deep reds and golds draped the walls like a cloak; the proud Phoenix stared from every one of them, so lifelike it seemed it might take flight from the walls. The wood was smooth, lacquered by the finest artisans, and then there was the art. While most of it was from the Azure Hills, there were vases from as far away as Ivory Cloud Savannah, forty thousand Li to the southeast. Wood block prints from Victory Flame Bay. A glowstone mount the size of a house that came from Amber Sap Thicket; a menagerie of stuffed and preserved exotic animals; each one was an ancient thing, occasionally brought over the thousands of years of the Empire… and each one showing the sheer scope of the Dominion of the Phoenix.
+
+Even in the Azure Hills, it was stunning. It was a bit gaudy, sure, but it was cool to see all the artifacts and art. It would have made one hell of a museum if the place was open to the general public. It was so fascinating that we nearly missed the Special Court session, slipping in the back just as the Governor entered, thanks to the Azure Jade Trading Company person who vouched for us.
+
+After that… well, it was a court case, really. Like watching one on TV. Mei had been very interested in the proceedings, watching as the Auditor laid everything out in front of the Governor.
+
+Though someone else had caught her eye.
+
+“He seems familiar,” Meimei told me, pointing at the Lord Director of Civil Service Examinations. “I don't know why though. I’ve never met him before, I don't think.”
+
+I squinted at the old man, but nothing really stood out to me.
+
+“Maybe it's the freckles?” I asked quietly. They did look kind of like Mei and her brother’s, across the nose and cheeks. “Your mom came from Pale Moon Lake City, right?”
+
+Meimei studied him for a moment longer, before shrugging. “… I don't think it matters. Either we aren’t related… or he's the reason why my mother was the daughter of a courtesan. Either way, I don't want to know him.”
+
+Which was, in the end, fair enough.
+
+The verdict was reached. The evidence was overwhelming. The call for Lord Wu’s arrest was made. And the city erupted into violence.
+
+Relatively short-lived violence, but violence nonetheless.
+
+The Wus tried to escape, and they were thwarted by the preparations of Teacher and his allies.
+
+He had asked us not to intervene… so we left it alone, for the most part. The only thing Meimei, Washy, Babe and I did was make sure it didn’t spill out into the main population centers, and that the fires didn’t spread. But we ended up not really having to do anything.
+
+The Lord Magistrate, Lady Wu, Azure Jade Trading Company and the Plum Blossom’s Shadow had planned things out meticulously, and had taken nearly everything into consideration.
+
+We watched as the members of the Wu Clan were captured. There was one sketchy point where Lord Wu’s ship almost escaped… until Xue Ji pulled out a knife like Suyan had. It looked a bit like a kukri; a bent, vicious-looking blade that took inspiration from a cicada’s wing—and threw it with a flick of her wrist off the docks.
+
+The blade shot out, spinning like a dervish, slashed through the rigging, then spun back around like a boomerang for Xue Ji to catch, with nobody else any wiser.
+
+========================
+
+And that… that mostly ended the Lord Magistrate’s involvement. It had been a dramatic show indeed. Worthy of a woodblock print tale, and Babe seemed to agree. The villains brought to justice, and the good guys victorious.
+
+But it wasn’t the complete end of things.
+
+“We are unneeded for the next part. The wheels of the government are in motion, and with his escape attempt, Lord Wu looks all the more guilty,” the Lord Magistrate observed, as he slurped his noodles.
+
+"Yeah, you get to leave, while I have to stay here and sort through everything, and make sure it sticks,” the Auditor complained around a mouthful of noodles. “It’s a damn mess, and it's going to take months to track down collaborators—and you’re right, Wa Shi, toasting the spices like that does improve the taste.”
+
+Wa Shi beamed, and the Lord Magistrate chuckled at the complaining before his face turned solemn. “Take care of yourself, Sheng Yanjing. It is no small task you are undertaking here.”
+
+Yanjing sighed.
+
+“There are going to be a lot of assassination attempts,” he said after a moment, and I grimaced at his matter of fact tone. He had a small grin on his face, like it was no big deal, but I could see the tremor in his hands. “You think you can spare Xue Ji for a few months? She's quite handy at seeing ruffians off.”
+
+“I’m afraid I must decline, Sheng Yanjing. My place is with the Lord Magistrate, as charged by Lady Nezuhua,” Xue Ji said, sounding actually apologetic. “However… I will talk to my Lady about your troubles. A friend of our Lord Magistrate does receive special considerations.”
+
+“Truly?” the Auditor asked. Xue Ji nodded. Sheng Yanjing let out a sigh of relief. “I suppose I’ll just keep on my toes until then, hmm?”
+
+“We’ll be in the city for a couple of days still,” I shared. “And I think, after all this excitement, a day at the beach is just what everyone needs.”
+
+The Lord Magistrate, whose brow had been furrowed still with worry, nodded.
+
+“I think that's what everyone needs as well,” he agreed.
+
+======================================
+
+Chen Lianji of the Plum Blossom’s Shadow sat within a well-lit room with the leaders of his organization, his heart calm, and his brush at the ready. The cipher for this meeting had been set, and he had memorized all the steps necessary to encode things.
+
+A process that his fellows were currently in the middle of doing as well. Some of their early meetings had not been encoded, and as the Wu Clan had shown them, a cipher was very necessary.
+
+His performance in the recent operations had allowed him a spot at this table as scribe, recording and learning from the leaders trusted by Master Scribe.The headquarters of their operation was abuzz with activity—consolidating holdings, coordinating with other organizations, updating relevant information…
+
+“I shall now call this meeting to order; in it we shall hold ourselves to account, and devise countermeasures for what we have encountered,” Xun Huang, the head of merchant information, declared.
+
+And of course, the most necessary step of all, reflecting upon their operation.
+
+Three quarters of the Wu Clan’s contingency plans had been foiled. Key ambushes on agitators were carried out, and failing that, the fires were extinguished swiftly. They led their allies to safehouses, and assisted guards in capturing hidden agents attempting to leave the city.
+
+“We shall begin by discussing what went wrong.”
+
+And yet, for all their boasting of their skill, for all the forewarning of Master Scribe, they had not been perfect.
+
+Three quarters.
+
+It was an abominable failing of their organization. They shamed their Master with their inadequacy, no matter how stunned the Lord Governor was over the efficiency of their operations and the swiftness with which the upheaval in his city had been quelled.
+
+The only thing that prevented resignations, or the bosses offering their own heads as compensation, were Master Scribe's own words: ’It is not defeat that is the end. It is the failure to learn from our defeat.’
+
+“I shall begin,” Zhen of the Palace said, for her failure was the largest. “The Wu Clan utilized a crystal of higher quality than they used in the past to get the warning to their masters. Its signal punched through our jamming attempts and forewarned Lord Wu. We have it now in our possession; it is four thousand years old, and even though it shows massive signs of degradation, it is still superior to anything made in the province today.”
+
+“Do we have any solutions?” Xun Huang asked.
+
+“No, not at this time,” Zhen answered immediately. “We will have to consult Mengde’s Crystal Emporium heavily to develop countermeasures… if it's even possible for a crystal so ancient, and of such high quality.”
+
+Aiguo Han of the Beggars stroked his beard. “Chen Lianji, do you have a transcript of her countermeasures?”
+
+Lianji pulled out the necessary documents. “Yes, sir. Zhen ordered double the normal number of jammers and transmission interceptors. A full fifty percent of our resources were dedicated to this task, and Mengde’s Crystal Emporium provided their own… along with most other factions having at least one pointed in our general direction.”
+
+Aiguo Han nodded. “If it got out through all that, then it was unavoidable. I say Zhen took all necessary precautions.”
+
+“Agreed,” Big Yan of the Underside said, his still twitchy eyes darting around the room. “The other transmission?”
+
+Zhen took out another report. “The second crystal that they used was a full scale piece in their basement. This one we knew about, but we underestimated its full capabilities. When pushed to maximum power it again bypassed all countermeasures. Our agents here didn’t manage to catch anything, but luckily our people closer to the Grass Sea managed to intercept parts of the transmission, which proved incredibly resistant to tapping. However, a skilled ally under Master Dong Chou managed to also catch portions of the transmission. We collaborated and filled in the gaps—thus forewarning was given to the Acting Lord Magistrate of Grass Sea City about the bounty placed on his head.”
+
+“Excellent. Forward our thanks to our Grass Sea division, and commend their quick thinking,” Xun Huang said, and Lianji dutifully recorded the words.
+
+“The resources of an ancient clan are fearsome indeed,” Aiguo Han muttered.
+
+“Yeah. I can’t believe they would sacrifice some of those warehouses. We had them marked as essential… but they lit them up without hesitation.” Big Yan shook his head. “They also had the guts to fight and keep going—that kind of loyalty… it's impressive, if nothing else.”
+
+“The Wu Clan has thousands of servants; some of those families have been serving them since the Age of Heroes. For all their sins, the servants employed directly by the Wu family are treated and paid well,” Zhen said.
+
+“Treated well enough that they got into knife fights in alleyways and willingly served as distractions,” Big Yan grumbled. “We lost two men; the other organizations who we assisted lost many more, including an outright defeat on Pine Avenue.”
+
+“Yes, taking our allies’ capabilities into account for such a large operation is difficult. Are there any suggestions?”
+
+They continued speaking for a while, on each and every failure point and inefficiency; trying to figure out where they went wrong, or how to improve. There was little clashing of egos. They knew whom they served, and they had read his teachings.
+
+Eventually, after many hours, things drew to a close.
+
+“In the end, the operation was extremely successful,” Xun Huang declared. “It was the largest scale operation we have thus far undertaken without the assistance of Master Scribe. We have accomplished all of our objectives, even if it was not a perfect victory. Now, we shall know we have done well—but the work continues.”
+
+“I have already briefed my team on monitoring the likely new players who will try and step up into the power vacuum, and who the remnants of the Wu faction will try and coalesce around,” Lianji said.
+
+“Excellent,” his superiors said. Big Yan gave Lianji a firm nod.
+
+Lianji sat up straighter.
+
+In the end, deposing the Wu, the most powerful noble family in the province, was just one step on the stairway to the heights Master Scribe envisioned.
+
+Soon, the Plum Blossom’s Shadow would have even more favour within the highest levels of the government; they would be the ones who aided every newly ascendant faction in taking out their biggest threat.
+
+And thus, the shadow the Plum Blossom cast would be ever wider, ever deeper.
+
+All for Master Scribe’s plans.
+
+==================
+
+The city was in upheaval one day—and back to normal the next. The presence of guards was heavier than usual, but they had specific lists, and most people passed unmolested, for the main culprits had been apprehended.
+
+Clean up crews worked on clearing the surprisingly light rubble. Workers returned to their jobs.
+
+The city still lived and breathed. But there was a simmering tension, under everything. Everyone could feel it. The changes that had started so far away in the Grass Sea finally seemed to be making itself known in Pale Moon Lake City.
+
+==================
+
+And further away still, Ye Shun was standing outside the Dueling Peaks, along with his son and grandson.
+
+They, who had been in seclusion in Pale Moon Lake City, in Closed Door Cultivation, gawped at the giant azure banners hanging down from the mountain. Several people gave him and his sons odd looks at the giant bundles on their backs.
+
+“They formed an alliance?” he asked in a faint voice. “Cai Xiulan is in the Spiritual Realm?!”
+
+Just what the hells had happened?!

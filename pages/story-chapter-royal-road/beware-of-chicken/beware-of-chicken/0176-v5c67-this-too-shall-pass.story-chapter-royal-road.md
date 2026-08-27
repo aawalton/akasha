@@ -1,0 +1,165 @@
+---
+id: 8f28a160-4257-5a85-8ce1-1020a4ddf973
+page-type-slug: story-chapter-royal-road
+title: "v5c67: This Too Shall Pass"
+slug: 0176-v5c67-this-too-shall-pass
+partOf: beware-of-chicken
+position: 176
+ownLength: 2481
+unit: words
+ownProgress: 2481
+publishedAt: 2024-11-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1915767/v5c67-this-too-shall-pass"
+royalRoadId: "1915767"
+markedReadAt: "2026-06-29T18:57:20.991Z"
+---
+
+On the third day, there was finally some semblance of peace. The guests were fed and watered, the laundry was done, the house had been swept… and Pi Pa was at a loss at what to do now. Her Master had told her to rest. The others were about their own business, resting and recuperating.
+
+Pi Pa was seated upon the porch, overlooking the frozen river. There were no corpses being burned on the lawn. The stench of rot and decay was absent from her nostrils.
+
+Instead, there was gently falling snow covering the scars of her home. A white blanket so dense; it looked like the battle had never happened in the first place.
+
+Today, the terror felt like a bad dream, but like every one of her nightmares, it lingered, straying into the waking world. The inside of her mouth still felt slimy, almost greasy from the demonic essence she had consumed. It felt like her meridians were caked in mud—like a chimney caked with soot from burning improperly dried wood… but unlike the others, the demonic filth left only its aftertaste; burned, consumed, and turned into impurities.
+
+In the center of her chest, lashed and yoked, she could feel it, the Void. Even now it churned under its restraints. It had gotten a taste for what it could have and even now it wanted more.
+
+She opened her mouth, and the mass of Qi in front of her fit only to be consumed. No matter if it was Chun Ke. The Qi had smelled so delicious—
+
+Pi Pa shook her head, trying to dispel the memory. She swallowed the thick saliva that had pooled in her mouth. It tasted of acid and bile. She had rejected the Beast of the Void. Rejected It so harshly that she had changed into a human.
+
+She had been grateful to her Master—he had kept her busy and her mind off everything that had happened. Each moment she was cooking, she was cleaning, she was serving, was a moment she did not have to think. She could ignore the monster in her chest—and what she had done.
+
+Even now, it swirled in her thoughts, spiraling and spiraling. What if she did it again? What if she did it again—?
+
+“May I join you, Sister?” The voice made her jump, and she turned, wide-eyed, to where Bi De stood. He was once more a rooster, the form she knew him best as, a proud cock. He wasn’t wearing his vest, for it was ragged and barely holding together, but he did have on his necklace of silver. It was charred and singed, and the pendant had been partially melted.
+
+He smiled at her.
+
+Pi Pa hesitated for a moment. She nearly told him to go, that she wanted to be alone, but she would have been lying. So instead... she nodded.“Ah, a wonderful spot you have chosen,” he declared, and to her surprise he hopped up onto her leg, settling down on her thigh. Instinctively, her hand settled onto his back. He was warm, and soft and… comforting in a way she could not describe. He smiled up at her. “Behold, the power of being this small. One can always claim the best seats! Though, I suppose most ladies would not complain if I did this in my other form, hmm?”
+
+“Oh? Would Ri Zu be happy about that, you knave?” Pi Pa managed a small smile at his bad joke.The rooster paused, and then looked disturbed. “Mayhaps I should not joke about that kind of thing…” he muttered.
+
+Pi Pa left out a soft snort… but the humor quickly faded, drawn into the Void.
+
+Silence descended upon them. She simply looked at the snow again, as did Bi De. The white powder continued to fall, blanketing the world and muffling the sounds of life. Occasionally, they heard a laugh, of scraps of conversation from nearby, but Pi Pa was cold and numb to it all.
+
+Bi De took a deep breath. “You are hurting, Sister. I am no Chun Ke, but please tell me what ails you. I can see the guilt and fear that haunts your eyes.”
+
+Pi Pa grimaced at the words. Her shoulders slumped, but the earnestness in his voice… she and Bi De had never been the closest. It was her own desire, for she had disliked him due to his past actions leading to her husband’s current state. Only recently had she begun thinking of him as a friend again.
+
+Yet he had never thought that way. He had always been ready to help her, and had given her space because she desired it.
+
+And maybe, because of the distance between them… that was why she bowed her head and looked away.
+
+Pi Pa took a deep breath.
+
+“I’m scared. I’m scared of this thing within my chest. I’m scared… that I’ll hurt our home, hurt it more than I already have,” she whispered.
+
+Bi De’s wing extended, laying on her shoulder. “Sister… the Void is indeed fearsome, I know its power personally, but Sister, it is contained. I can feel the locks you have placed on it. You are in control—”
+
+“I'm not,” Pi Pa interrupted, brushing his wing away. Her eyes snapped back to his. “You were not there, you were not… Bi De, I did as much damage to the forest as our enemies did! The section where we used to walk, where we sat under the summer sun and had picnics… it's gone, Bi De. It's gone.”
+
+The trees looked like shattered ribs. Some had their tops missing, others had simply fallen over from the massive chunks torn out of their sides. She could still feel the crunching of the bark between her teeth. Perfectly smooth semi circles were torn out of the rocks and even the earth itself hadn’t been spared, scooped up and consumed.
+
+Everything had gone into her maw. Everything had been used to satiate the hunger.
+
+“It’s not that I lost control. It's that I let it out. I wanted to do it. I wanted it to end. I wanted everything to disappear… and so I let the Void use me, and it hurt our home. I nearly hurt Chun Ke.”
+
+She glared at him, feeling the churning vortex within her breast pulse.
+
+“You have hurt our home, yes. As have I,” Bi De replied, calmly. “Out of us all, you know my sins the most, Sister. What I allowed Chow Ji to do and what I did myself to the hens. I drank their blood, I ruined our crops, and I wanted to do it. For power. For myself. Is what I did unforgivable?”
+
+Pi Pa looked away, the sudden rage draining away as quickly as it had come. “...no. For a long time I thought it was, but… you made a mistake. A mistake you would never repeat.”
+
+“Thank you, Sister. It means much to me to hear you say that,” Bi De said. He leaned forward and pressed his forehead into her cheek. “And in what you just said… lies the answer. You won't do it again, without extenuating circumstances… and if you do, you won’t hurt us. The proof is there already. Nearly, in the end, means nothing. You did or you did not. And when you were at your weakest… you did not.” Pi Pa’s breath hitched in her throat. Bi De knew. He knew the feeling of guilt, of hurting what he loved. “These travels of mine… they’ve given me perspective. They’ve taught me many things. But Pi Pa… every time I journey forth and see more of the world, I am once more glad it is here where I call my home. I am once more glad that my Master is my Master… and that you are my brothers and sisters. The world is so full of darkness and suffering—but we can choose to make it better, to help others. It is often times difficult, I admit. In no way is your path going to be easy—but I trust you. We all trust you. And sometimes, the trust of someone else is all you need. What did our Master say that one time? ‘Don’t believe in yourself. Believe in us, because we believe in you’—and this too shall pass.”
+
+She wrapped her arms around the ball of feathers on her leg and pulled him to her chest.
+
+“Look at you, always stealing from our Master’s sayings…” she accused, her voice thick.
+
+Bi De laughed. “Can one steal what is given freely?”
+
+“I suppose not,” Pi Pa whispered, hugging him tighter. Something hot and wet pooled at the corners of her eyes. “But what about the others. Will they…?”
+
+Would they feel the same way?
+
+“Sister, I had to kowtow before our Master and invoke my right as First Disciple to be the one to speak with you first—Wa Shi put up a surprisingly fierce fight,” the rooster stated. “Our beloved Pi Pa has many admirers.”
+
+“And Chun Ke?” Her voice was quiet.
+
+“These thoughts would have never crossed his mind in the first place, Sister. You know that,” Bi De said, before his voice turned pensive. “Though he did say something about ‘finding something’ that would cheer you up this morning, and we haven’t seen him since-”
+
+Bi De cut himself off as they both felt it, a swelling, swirling pulse of Qi. It felt like the caress of falling blossoms in spring, like the warm grass under summer’s sun, like the leaves crunching underfoot in fall, and the snow under one’s back on a cold winter’s day.
+
+========================
+
+Wife was sad. Wife was hurting.
+
+Chun Ke walked through the forests, his trotters taking him on paths well-worn and new, the land having changed as a result of the recent battle.
+
+Normally, Chun Ke would be at her side… but the others wanted to cheer her up too. All of their brothers and sisters were concerned. All of them wanted to be the one to reach out.
+
+And sometimes, one needed somebody else to lend a hand.
+
+He knew that Brother Bi De would help. The chicken is a good egg, he thought with a small smile.
+
+But still, he had made a promise to his wife. A promise he intended to keep. She had transformed into a human.
+
+He turned his gaze to the world. Some of the changes were bad. He checked on the little friend birds, carefully guiding them away from the land that was still poisoned.
+
+Some were good. He spotted the foxes, yipping happily at all the new den sites from the fallen trees, and come spring, new growth would reach for the heavens.
+
+And some simply were. He bowed his head and paid his respects to friend mole’s last tunnel. His fur was grey from old age, and he lay as if he was sleeping.
+
+He wandered the lands they called home, far and wide… until the scenery began to change. The world became like a dream as his body and his soul kept walking on different paths. He trod along golden roads, cracked and splintered. He checked in on Big Little Sister, fast asleep—and smiled.
+
+Then, he turned his gaze. Far, far away was a mountain. His destination. He started walking.
+
+He traveled through ravines deeper than the deepest ocean and through caves that could swallow cities whole. He strode across plains that stretched from horizon to horizon. He waded through lakes and rivers that had no end. He marched through a forest whose trees were so tall he couldn’t see the tops. He swam the length of a great sea.
+
+He was fine in this form. He had no true desire to become human. He was content with his life on this earth.
+
+He reached the great mountain and began his ascent. He climbed for an eternity and a moment. The footing was treacherous, yet not one step faltered. He grew impossibly heavy as the world tried to drag him back down, but he did not break stride. The wind howled and tried to tear him free, yet not even the fiercest gales could move Chun Ke Shan.
+
+For an eternity and a moment, until he was finally at the summit… and the end of his tether, the pieces of gold in his soul that connected him to the earth. If he jumped, he could fly away off the top of the mountain and to the stars above. He had been there many times before, flying free while he dreamed, before the earth had graciously given him a tether.
+
+He was content with living here and dying. He had no desire for immortality. He had no desire to defy the Heavens.
+
+But for this, for the wish Pi Pa had… he would defy everything if he had to.
+
+If he had to. There were always other ways. Better ways than force, in a lot of cases.
+
+Chun Ke bowed, his forehead pressed against the ground, bowing to the Heavens.
+
+“Please,” he said simply.
+
+He was weighed and measured. His deeds and his oaths were taken into account. All things of Chun Ke were considered.
+
+A gong rang out, its reverberations shaking the Heavens and the earth.
+
+========================
+
+They had all felt it. All of them had felt the pulse of Qi. Pi Pa was on her feet, her hand held in front of her chest, and Bi De on her shoulder.
+
+All of them were waiting.
+
+A shadow moved… and then a man strode out from the forest.
+
+He was enormous, taller than their Master by his head and shoulders. A bushy mane of rust red adorned his head, a wild crown down to his mid back. His face was rough and wild and intimidating, with three massive scars that dragged from his forehead, down across his eyes, and to the opposite cheek—but his eyes. His eyes were the colour of the warm earth, and brimming with an inner peace that softened all his edges.
+
+His body was as thick as a tree trunk, with a thick layer of fat all truly strong men had. Another brutal scar adorned his side, just under his ribs, where bandages had loosened, but something else caught all of their eyes.
+
+“It appears Brother Chun Ke is, as always, the wisest among us,” Bi De said, stroking his wattles.
+
+He was wearing some of their Master’s clothes. They were obviously too small for him, but they preserved his modesty.
+
+Pi Pa could only stare.
+
+He looked upon her.
+
+Chun Ke smiled. It was warm and bright as the sun.
+
+The Void was replaced by that warmth, and finally grew quiet.
+
+The only thing Pi Pa could think was how wonderful the world was, as tears poured from her eyes and her husband happily took her into his arms.

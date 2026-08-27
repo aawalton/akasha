@@ -1,0 +1,197 @@
+---
+id: 0734adcd-a189-51c6-b190-7027abeeabb0
+page-type-slug: story-chapter-royal-road
+title: "v7c80: The Triumph"
+slug: 0333-v7c80-the-triumph
+partOf: beware-of-chicken
+position: 333
+ownLength: 2570
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3687301/v7c80-the-triumph"
+royalRoadId: "3687301"
+---
+
+Much to Bi De’s surprise, the aftermath of the battle went by much faster than he was expecting; he was rather used to dealing with human problems. Destroyed buildings, wrecked fields, shattered fences.
+
+Ash Forest had been spared these things, because the hornets didn’t touch them. What the reconstruction mostly needed was time—time, and good management to truly allow the depopulated portions to recover.
+
+Which led to the second reason why things were much faster. Blaze Bears weren’t much for debating in circles like humans.
+
+‘She has all-seeing eyes. She's the best to be in charge of healing the forest,” Huishou grunted, pointing at Vajra. The Healing Sage’s speed at altering outfits was unrivalled. Gone were the ill-fitting clothes, and in their place was something that evoked queenly majesty and hints of her ancestry. It was a fine dress of black and yellow, with a handsome fur shawl that closed around her neck. Her hair was held up by several black sticks, whittled by their Master, that did look rather a lot like double-ended bee stingers.
+
+The outfit perfectly enhanced her queenly figure. Bi De found he required some stern self-control to keep from looking for too long. Master said the outfit was a bit on the nose, but Vajra was absolutely enamoured with the clothes, and had spent much time preening in front of her daughters.
+
+‘She’s definitely a trustworthy sort,’ Paobu agreed, seated beside his five bee hives. He wasn’t entirely paying attention. Instead, he was focused on a bee crawling along his claw, his eyes full of happiness.
+
+‘She can be trusted not to take or hoard; her food is nectar, not the food of us bears,’ an old, grey-furred bear missing half his teeth decreed.
+
+The rest of the bears nodded and made noises of assent. Vajra simply sat there with a small smile on her face, nodding along as well. She looked very pleased.
+
+‘What do you think, little brother?’ Huishou asked Baolin.
+
+“We’ll follow Lady Vajra’s will,” the man said without hesitation, nodding firmly at Vajra, his grin wide.
+
+Bi De was once more impressed at his sister-disciple’s sharp cunning.
+
+Vajra had approached the man and his chief last night, asking for an inventory of everything that had been taken by the hornets so she could replace them. Master did include her in his payments, after all; she had just never needed the coin before. That alone bought much good will.
+
+Additionally, she told  them about how sects were exempt from normal taxes. It was a piece of legislation Bi De had thought strange. Why wouldn’t a man want to pay taxes? He had seen what the Lord Magistrate did with them; of course he would want to pay them for the services provided.
+
+The people of Shady Glade were clearly of a different opinion, judging by how giddy they got. They needed at least ‘five persons of proven cultivation, the vouching of other sects, and a territory designated under purview’.
+
+And the law, somewhat interestingly, did not specifically say the cultivators had to be human.
+
+Huishou had just shrugged and said yes when Baolin asked if he could be Sect Master to ‘deal with boring human things’, because Vajra told him it would help keep out any humans they didn’t like.
+
+Which meant that the newly formed Blazing Forest Sect had one human Sect Master and at least a hundred Blaze Bear sect members. A couple of years ago, it would have been a force that able to hold out against most of the province.
+
+“Thank you for your votes of confidence, my dear friends. I will do my best to make sure the forest is singing. Why, you won't be able to walk without stepping on something delicious to eat!” Vajra said with a bright smile.
+
+The bears very much liked what Vajra had to say about food, and Bi De felt a bit worried about them. They clearly weren’t stupid… but they also didn’t seem to think too far ahead for the most part. They heard something they liked, thought Vajra was trustworthy, and so they just took her promises at face value.
+
+Though… in this case, were they really wrong? Vajra was bound by oath to help them, and seemed to be genuinely taking this seriously. She was clearly planning on doing everything she promised, and had enough drive to see it through.
+
+They were probably going to be fine—and Vajra was likely to take a dim view of any who did try to take advantage of them. He liked to think he had a good handle on her personality, and she likely considered the forest, and everything inside it, hers.
+
+Which meant she would do her best to protect it and make it stronger ‘for the Emperor’.
+
+Bi De was still considering how to broach that topic. Vajra had given an exaggerated wink when their Master told her he wasn’t the Emperor, and she had stopped referring to him as such to his face, but it still slipped out.
+
+‘Right. Good. Those of you staying, listen to Vajra. If she tells you to do something it's so you don't starve in the winter. Me, Paobu, the Ash Guardians, Little Brother, and a few others are going to go with the Grand Marshal lady to their mountain and see what it's all about,’ Huishou continued. There were more nods.
+
+And then, it was time to go. Bi De was heading to Dueling Town to give his own accounting of what had happened; Yun Ren would be travelling back home to pick up Biyu; and then they would both be heading out to see Gou Ren and Xianghua at the Misty Lake. Ri Zu and Spooks would be staying in the forest with Vajra, and would be getting a head start on moving around a few trees.
+
+===
+
+The gates of Dueling Town were packed, the cultivators, one and all, waiting with bated breath.
+
+News of what had happened during the Battle of the Blazing Forest was already trickling in, and all the cultivators were abuzz.
+
+The Elders especially were waiting, and trying to make it seem like they were not supremely interested in what had happened. They had been briefed about the situation before the Grand Marshal had left.
+
+Fa Bi De, First Disciple of Fa Ram, had specifically asked for the Azure Alliance’s help.
+
+The thought brought both swells of pride… and a certain amount of apprehension  to the gathering. Something a Spiritual Realm Cultivator needed help with was no small matter.
+
+They heard the pounding marching beat first; thumping without cease.
+
+And then they saw them, the banners of Azure waving in the wind.
+
+The Grand Marshal was at its head, along with Fa Bi De, Commander Tigu, and Captain Yin; White Tigers, Blazing Swords, and the Tiger Leopard Outriders were all in the Grand Marshal’s procession, and they marched with their heads held high—but what else was with their host drew gasps.
+
+They were flanked by Blaze Bears. Six of them.
+
+The Spirit Beasts marched with them on their hind legs, each footfall heavy enough that the ground shook with every step. In the arms of the two largest bears, there were poles of wood, and strung up upon them were their trophies; utterly grotesque giant insects, each one as big as the bears carrying them.
+
+The first sight of such Spirit Beasts corpses brought gasps. They were vicious-looking things, giant killers who had lances and axes for arms.
+
+“Victory!” somebody shouted, and the call was taken up.
+
+“Victory! Victory! Victory!”
+
+The crowd began to cheer and stamp their feet as the Grand Marshal entered, words already being added to her legend. Cai Xiulan, who united the sects. Cai Xiulan, who could even civilize Blaze Bears, the lazy gluttons marching with surprising grace, their heavy footfalls rumbling those nearby.
+
+To those that supported her, it was more proof her cause was just. Even the most brutish of barbarous creatures found enlightenment beneath her gaze.
+
+To those that disliked her, it was another cause for fear. A woman with a tongue so silver that even Blaze Bears would follow her and act like trained soldiers? It was preposterous and terrifying in equal measure.
+
+They entered the town to the sound of drums, their destination clear: the Earthly Arena. The crowd, cheering on the sides of the streets, flowed with them, for none wanted to miss what the Grand Marshal had to say.
+
+They settled swiftly, silent in anticipation.
+
+“Honoured Elders; members of our alliance. Your Grand Marshal has come to report the defeat of a threat that had the potential to engulf the entire Azure Hills,” she began, her voice utterly steady.
+
+The words caused gasps… but also a few scoffs.
+
+“Those two were threats to the whole Azure Hills?” an Elder of the Reed River Sect asked, their voice incredulous.
+
+He attracted several glares for his effrontery, but the challenge was clear—and the sudden tension in the shoulders of those who had followed her was equally as clear.
+
+But the men and women who had followed the Grand Marshal said nothing.
+
+“You are correct. These two would not have been a threat to the entire Azure Hills.” She turned and nodded to Bai Huizong. The man had a recording crystal in his hand, and he pressed it to his Resounding Crystal Dias.
+
+The formations activated, projecting out the recording within.
+
+The Earthly Arena was immediately filled with a droning buzz so loud it hurt the ears, and made their bones rattle within their body.
+
+And then the sky turned black.
+
+“When with the rest of them, the threat becomes quite a bit clearer.”
+
+The projection changed to the hells on earth. The forest was on fire. The sun came out only in brief moments, instead turned to dusk by an unnatural, seething cloud.
+
+A full twenty of the giant hornets clashed with cultivators and Blaze Bears. A torrent of flame hot enough to visibly distort the air met the wall of chitin, and the hornets smashed through it, their deep rumble making several members of Xiulan’s party shift uncomfortably.
+
+They were met by claw and steel. A bear battered a giant hornet to the ground and held it there while a member of the Blazing Swords finished it. Another cultivator was taken through the gut and went down screaming. A technique took two of the hornets. One was split in two, the other formed armour made of Qi and blocked the blow. A black cloud of normal size hornets washed over a Blaze Bear like a tide, their numbers so thick the Spirit Beast was completely obscured, and it began to scream in pain.
+
+A beam of silver light tore through the sky, obliterating the darkness so the sun could shine again, only for the darkness to encroach immediately, swallowing the daystar once more.
+
+The sudden violence struck the watchers dumb. The sheer ferocity of the assault, the power of the techniques unleashed, the sheer scale of what could only be called a war more brutal and deadly than any in the Azure Hills alive had experienced was shown to them first hand.
+
+In the five minutes the recording played, they watched no less than a hundred of the giant hornets smash into the united lines of man and Spirit Beast, some hitting power well into the Profound Realm.
+
+And the enemy just. Kept. Coming.
+
+The man who had spoken his doubts now had his mouth open. The old man, a pillar of his sect… had never fought in a battle so fierce in all his years.
+
+The recording cut off, and the arena was silent.
+
+None could refute the claim that what they had seen qualified as an existential threat.
+
+“There is the reason why I requested assistance,” Fa Bi De said, stroking his chin. “And I am honoured the Azure Alliance took heed of my warning so promptly.”
+
+“A most terrible enemy,” Ulagan Baatar said, the old Patriarch of the Grand Ravine staring down at Xiulan. “How many were made martyrs, to bring this foe to heel?”
+
+“Two,” the Grand Marshal replied. “In addition to, at our best estimates, forty-six Blaze Bears, most of whom were slain before we arrived.”
+
+Again, the words landed like a firework.
+
+Two.
+
+Two, against those impossible horrors? Two, to slay them utterly?
+
+“What were these martyrs’ names?” Baatar asked.
+
+“Wei Shan of the Blazing Swords. Independent,” Yin answered.
+
+“Yu Yan of the White Tigers. Member of the Lonely Tree Sect,” spoke Tigu, somberly
+
+All eyes turned to Elder Yu Jian and the Lonely Tree Sect contingent. None of them looked surprised… and they had clearly been informed beforehand, for they had been subdued all day.
+
+“My niece, Yu Yan…” Elder Yu Jian said, his voice carrying with a bit of a shake. “Do you have her?”
+
+“We have her,” The Grand Marshal’s reply was soft. “She will not lie on some battlefield,  forgotten. No one will. She was conveyed with all honours… and she is ready to go home and rest. We do not leave our own behind.”
+
+The old man’s hands came up in the gesture of respect, the Elder of the sect bowing his head.
+
+“And for those who have no one… those, like Wei Shan, with no next of kin, no sect… their home will be here. Here in the mountain, among all of our Ancestors. Upon the western side of the mountain, there are two mausoleums, recently unearthed by our Restoration Commission. One holds many funerary tablets, and we are working to perform the proper rites for them. The other… is empty, and was never completely finished. Until now.
+
+We have completed it. Those of us who took up our Ancestors’ great work anew, whose great hope is to continue building what they have started… there they shall be laid to rest, beside those who felt the same.”
+
+Eyes closed at her words and heads bowed… and then Yu Jian spoke again.
+
+“Is this only for those who are without family?”
+
+“No. All who bear our banner are our brothers and sisters. All who wish to rest here are welcome to be at peace,” the Grand Marshal replied.
+
+“Then here shall my niece rest as well,” Yu Jian replied, the old man’s voice growing strong. “She believed in your dream, Cai Xiulan. She believed enough to give her life for it. This is where she wished to spend the rest of her days… so please, take care of her.”
+
+The Grand Marshal bowed before the Elder of the Lonely Tree Sect.
+
+And so the first two funerals of the Azure Alliance were held. Every cultivator present at the Peaks attended the solemn ceremony.
+
+Wei Shan and Yu Yan were laid to rest in the Hall of Heroes, beside a tomb of those who had fought for the same ideals millennia ago.
+
+They were the first two.
+
+They would not be the last.
+
+===
+
+And high, high above, a man on a flying sword looked down at the proceedings, a bottle of wine in his hand.
+
+He had seen them rally and set off. He had seen them fight. And though the battle itself was a small thing… the core of what they had was remarkably pure.
+
+What an interesting thing, Shen Yu mused. I wonder what it shall look like in even one hundred years?

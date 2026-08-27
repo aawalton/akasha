@@ -1,0 +1,247 @@
+---
+id: 5d8f2a3f-cfb1-50c1-8c92-1c8c56ffc55c
+page-type-slug: story-chapter-royal-road
+title: "v4c33: The Tyrant or the Guardian part 2"
+slug: 0045-v4c33-the-tyrant-or-the-guardian-part-2
+partOf: beware-of-chicken
+position: 45
+ownLength: 2861
+unit: words
+ownProgress: 2861
+publishedAt: 2023-08-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1318156/v4c33-the-tyrant-or-the-guardian-part-2"
+royalRoadId: "1318156"
+markedReadAt: "2026-06-29T18:52:53.979Z"
+---
+
+“An… and… a cultivator will save us. She’ll come in like this and go and beat up all the bad guys, won't they, Uncle?” San Ziya’s niece whispered to him from her place on his lap. She was holding up her favourite doll like a talisman, like the cultivator who it was made to look like would suddenly appear from the heavens to save them.
+
+Ziya tried to smile reassuringly, tried to hope… But he knew it was something he couldn't do. He looked up at the iron bars of the cage he was in, and glanced to where his sister-in-law was also pressed against him and glaring at their captors. They had made camp and a fire was burning merrily away. The bandits had set themselves up with startling  precision and speed.
+
+It had been a full day since the attack. The day had been going so well, too. Their procession marching along the road with a skip in their step and a song on their lips. His wife’s family was a true joy to be around—he loved them all dearly, and that procession had been one of the happiest moments of his life.
+
+They had even been joined by a rough-looking fellow, who had congratulated him on the occasion. He looked a bit scruffy, but he had been kind to everyone and the more the merrier!
+
+Then, when they stopped for the night… the bandits came. The attack had been sudden. There had been no shouts, no roars, no fire arrows or anything else that was supposed to herald bandit attacks like they did in the stories. Instead, they came with nets, bolas and clubs.
+
+Ziya had tried to fight, as had their new companion, Han, but it was over before it even had begun for Ziya, tangled in a net and swiftly subdued. Mister Han managed to dodge the nets and had engaged three of the bandits with his stick, knocking all of them down… until a fourth bandit managed to get the drop on the man and bash him over the head.
+
+Ziya thought that would be the end for Han, for he had hurt the bandits. But to his surprise the man was instead bound, bandaged, and then carried to the hidden carts that the rest of them were shoved into.
+
+At first, there had been panic and tears. But as the day progressed and the bandits gave them food and water, the panic amongst their party of sixteen had turned sullen and seething—because these bandits were thoroughly confusing. They didn’t take one lustful glance at any of the women, and for the most part… they were not even treated badly, aside from the fact that they were all in cages.
+
+They were even treating Han’s injury further, one of the bandits poking and prodding at the bound man while he glared back at them.
+
+“I told you it looks worse than it is. He’ll make a full recovery. I guarantee it,” the bandit said, turning to his leader.
+
+“Excellent. I was worried for a second there. A man like this will catch a good price. He's big and strong—perfect,” the leader said with an oddly charming smile. He looked… too clean, too well put together for a bandit.
+
+Ziya grimaced as his fears were confirmed. There was a collective intake of breath from everyone else too. Slavery.
+
+“Scum. You think the Magistrate will stand for this? For enslaving Imperial subjects?” Ziya’s uncle-in-law demanded, his eyes narrowed with wrath.
+
+The bandit leader blinked… And then burst out laughing at the words.
+
+“Isn’t going to… isn’t going to tolerate it?! Ha!” The rest of the bandits—who Ziya was starting to think weren’t really bandits—laughed too. The leader smiled. “Tell you what, I’ll take you to the guards myself and you can tell them what happened.”
+
+Ziya’s uncle went silent. Ziya felt sick to his stomach. The man was utterly and completely confident in his words. Everybody knew the Grass Sea City's guards, at least on the lower levels, were corrupt as all hells. But to just ignore a man shouting that he had been enslaved by bandits?!
+
+There was something foul going on here.
+
+“It seems like a lot of trouble. Coming all the way out here, when Grass Sea City has millions of people…” Ziya said carefully.
+
+“Honestly, it is,” the man said, shrugging. He looked at Ziya’s niece in his lap and then grimaced. “Well, that's for the bosses to decide and not me. I just do what I’m told. Good payday.”
+
+Ziya swallowed as he felt his sister-in-law press up against him more, the woman glaring hatefully at their captors. His niece curled up tighter in his lap
+
+The man sighed and had Han shoved back into a cage. The bound man glared at them.
+
+“Are you alright, Han?” Ziya asked him, and the scruffy man nodded.
+
+“It hurts, but the bastard was right. I’ll be fine.. ”
+
+“Sorry you got caught up in this, after it was my family that was targeted,” Ziya said.
+
+Han’s eyes softened. “I prolly would have got grabbed anyway.”
+
+Ziya sighed. “Still, these are confident bastards. What the hell could make them so sure?”
+
+Han glanced at their captors, who were laughing and eating… But nobody was drinking. He leaned closer to the bars, his voice a whisper. “That's what I want to know too.”
+
+“Alright everybody, time for bed. Tomorrow you lot will be in your new home,” the leader said, gesturing towards their cages.
+
+Despair crawled up Ziya’s throat. He bit his lip to keep himself from crying out. Until suddenly there was a commotion.
+
+“Declare yourself!” one of the men at the edge of the camp shouted—before he suddenly let out a strangled noise.
+
+The entire camp froze as a woman walked into it. She simply strode forwards as the guard tried to bar her path. The woman walked into his halberd, and the tip slid off the skin of her throat with the sound of metal on metal. The woman didn’t even deign to glance at the weapon. The entire camp froze at her appearance.
+
+The first thing to grab Ziya's attention were her eyes. They were twin yellow pits, narrowed with fury as they locked onto the cages. Next, he noticed her too-sharp teeth.
+
+Finally, he noticed the bulging muscles in her arms and abs that looked like they were more like armor plates than muscles from her fallen open shirt.
+
+“This one is Rou Tigu. Cultivator,” the woman stated. "I am here following a trail of blood. Tell me, why are they caged?”
+
+An irrational thought that entered Ziya’s mind. The girl looked familiar—
+
+He jerked his head down to where his niece was staring, gobsmacked, at the woman approaching the slavers. Still cradled in her hands was her doll. A doll with orange yarn hair, yellow eyes, and two black markings on her cheeks.
+
+He looked back up, his mouth dropping open. The rest of the camp began to shuffle uneasily away from the woman.
+
+All except the leader, who smiled, stood, and bowed.“Lady Cultivator! We are guards from Grass Sea City. The people here are unrepentant debtors, so—”
+
+“By the order of my Master, you have one chance to speak the truth,” the woman said calmly, cutting the man off. Ziya saw sweat bead on the man’s forehead.
+
+“I speak no lie, my lady. Here,” he said, pulling out a real jade token, emblazoned with the seal of Grass Sea City. Ziya’s eyes widened, and he heard Han gasp. "We also have their debt documents, should you need to see them!”
+
+“Sneaky sons of bitches!” Han snarled as the man pulled out an official looking document.
+
+The rest of Ziya’s family started shouting at the outrage as the cultivator examined the documents and the seal. Her yellow eyes focused on the man.
+
+“By your leave, lady cultivator, we’ll take this scum and be out of your hair—”
+
+“Your one chance has expired,” She said, her voice utterly calm. Her hand lashed out and the man fell to the ground with a sickening crack. “Yin.”
+
+Something slammed into the ground, kicking up a cloud of dust—before the night suddenly turned to day, heat and light washing over the camp.
+
+“Do I get to beat the fuck out of them, Big Sis?” a voice asked, as another woman strode through the smoke. She was clad in shining golden armor that burned like the dawn. Where once was darkness, the entire clearing was lit like midday. She was utterly, enchantingly beautiful, this woman. Or she would have been, if her face wasn’t twisted into a smile that was entirely too wide.
+
+“Yes,” the orange haired woman said. She twitched and the closest people near her, frozen in shock, suddenly started frothing at the mouth as an ethereal tiger formed behind her.
+
+They collapsed and the spell around the camp broke.
+
+The slavers threw down their arms and tried to run.
+
+Tried.
+
+The one to make it the furthest was intercepted by a giant, spear wielding, demonic-looking rooster.
+
+Ziya’s niece looked up to him.
+
+“Cultivators came to save us!” she shouted, sounding as shocked as he was.
+
+===============================
+
+It hadn't taken too long to find this place, Tigu mused as a man screamed, seeming to move in slow motion as he tried to run. Shaggy Two’s nose was better than Tigu’s in this form, and her stalwart disciple had guided them true.
+
+Yin had just wanted to drop in and start smashing everything, and Tigu hadn’t wanted to disagree.
+
+But Master had decreed that 'everybody got one.' So Tigu had decided on a more straightforward confrontation, to give them a chance.
+
+They had, thankfully, used up their one chance poorly. The documents had been real, to her surprise. Tigu had been taught to recognise official documents. They said these people were debtors, and should be captured.
+
+And yet things didn’t line up. It had felt wrong.The man had been too nervous.
+
+And when people saw that child in the cage… well.
+
+The man had used his one chance. Tigu had offered it to him in good faith, and he had failed the test.
+
+Now it was time to capture the bandits.
+
+There was something so cathartic about this that Tigu knew she shouldn’t be enjoying it. It brought her back to the past, to a time when she blinded, crippled, and maimed for the fun of it, delighting in the way her enemies struggled to flee from her.
+
+The scent of terror was heady in her nose. It smelled good. Great, even. She wanted more. She wanted to rip and tear and force these men to kowtow before her—and then kill them anyway, just to see the light in their eyes fade.
+
+She carefully reeled in the feelings. She knew exactly what was making her so angry.
+
+She glanced back at the cages.
+
+There was once a time when she would have scoffed at their weakness. She would have insulted them for being taken captive, for only the 'worthless' could be held like that.
+
+Tigu had once upon a time believed herself too strong to be subdued and caged. She had thought herself a conqueror without equal, to spread the will of her Master and subjugate all who opposed him.
+
+But now she knew better. She still remembered that dark room and the feeling of her cheek against iron. She knew what it was to be utterly at another’s mercy, wondering if rescue would come.
+
+People who were apparently funded by a high ranking official in Grass Sea City.
+
+A year ago, Tigu would have scoffed at the weak being taken advantage of. Perhaps, she would have joined in herself.
+
+Now… now it just made her angry. It made her furious that these demons wearing the guise of men would prey on people like this.
+
+The rage boiled anew in Tigu’s gut as something else took hold of her mind. It wasn’t as foreign as the first time she had felt it, the thing her Master and Mistress called empathy.
+
+If Tigu was honest with herself, Xiulan’s goal had been an abstract thing to her. She had listened as Xiulan said ‘never again’, but she hadn’t understood it. Not truly.
+
+Tigu had supported Xiulan out of friendship, and because her conviction had been as beautiful as Handsome Man’s muscles. She wanted to explore, aid her friend, and have a fun adventure.
+
+Tigu broke a man’s leg, barely even registering resistance from the bone.
+
+But this… this is what Xiulan was fighting to prevent, wasn’t it? This was what she was so zealous about. This was what had tormented her dear friend—to see such injustice and be powerless to stop it.
+
+No wonder she was so driven.
+
+Tigu realized she had been half-assing things.
+
+That… would have to be rectified immediately. Tigu had pledged herself to Xiulan’s cause, but had been content to follow her lead.
+
+Xiulan didn’t need some fool nodding along to her… but what could Tigu truly do to help?
+
+It was a question Tigu mulled over as she tore the iron bars asunder… and then got tackle-hugged by a small child.
+
+It was a good tackle-hug. Good form.
+
+======================
+
+Cheers erupted on their return from both the people of the village and those who were freed from the bandits
+
+It felt… good. It felt right. It managed to burn through her melancholy… especially the enthusiasm of little Lu Lu.
+
+She was quite the rambunctious child, and Tigu took an immediate liking to the girl.
+
+“See! I told you she was my guardian spirit!” the child shouted from where she was still clinging to Tigu’s back. She thrust her doll at her aunt, Lu Fang. “I knew she was better than a dumb orchid!”
+
+Tigu saw Xiulan snort with laughter at the exclamation, while all Tigu could do was smile. Lu had great taste! Tigu was indeed better than any dumb orchid.
+
+The doll had required some fixing though. A quick bit of Qi claws and it was now much more detailed! Really, the doll had missed Tigu’s abs, and her well-defined pectorals! A travesty!
+
+“Yes. She is truly a guardian sent by Zhong Kui,” Lu Fang replied as she held her husband. Her eyes turned to Tigu and she distanced herself from her husband.
+
+Tigu caught her before she could kowtow. The woman’s eyes were full of tears. “Thank you. Please… what can I do to repay you?”
+
+Tigu considered it. She could say no… but that would just make the lady feel bad. Mistress had said to accept rewards so people would feel less indebted to you!
+
+“Something to remember you by,” Tigu said after a moment.”I quite like this little one here!” Tigu said, shifting Lu Lu around on her back. “So it has to be special!” she teased.
+
+Lu Fang laughed, while her husband just looked dumbfounded. “Then… please,” the woman said, reaching to her wrist and grasping a bracelet that lay there. It was made of large wooden beads, and it was quite nice looking.
+
+The woman carefully removed it.
+
+“My grandfather gave me this. He said it would bring me luck… and then said when I felt I had received heaven’s providence, I should pass that luck on to the person who helped me.” The woman held it out to Tigu.
+
+"This Tigu is honored to accept it," she said honestly as she took the bracelet.
+
+“Thank you again, so much, for protecting us.”
+
+=====================================
+
+The entire village got extremely rowdy after that, but… Tigu didn’t really feel like joining in. Xiulan was talking to one of them, the Han guy, who wasn’t part of Lu Fang’s family.
+
+Yin started regaling Loud Boy and Rags with the story, and then all three of them hoisted Zhang Fei onto their shoulders.
+
+Tigu chuckled, but her mind wandered back to the cages.
+
+She sighed and turned away from the party, contemplating life.
+
+How exactly could she help—properly?
+
+Tigu didn’t know. She wandered and pondered until she found herself at the shrine where she had met Lu Fang.
+
+Tigu looked at the shrine to Zhong Kui.
+
+The King of Ghosts. The Demon Hunter.
+
+Tigu chewed on her lip. She knew she wasn’t good at the things that needed her to truly think too much. Politics, planning, laws, and terms of alliances…
+
+But Tigu did know she was very, very good at hunting… and she got along fairly well with people.
+
+She stared at the image of the bulging eye’d man as he cleaved a demon in two.
+
+…she’d have to do some thinking.
+
+===============
+
+The next morning they were on the road again, though most of them were in a grim mood. There was something foul going on in Grass Sea City—something the Han guy had been investigating.
+
+“So… you said your name was Sergeant Han?” Tigu asked as he held on for dear life to the cart Yin was carrying as they moved at high speeds towards their destination.
+
+“Yes ma’am! Sergeant Han, second to the Special Inspector!” he gasped out. “We’ve been investigating this case for weeks!”

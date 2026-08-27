@@ -1,0 +1,189 @@
+---
+id: 666088d7-36d0-5aec-a303-27b75d2fc41f
+page-type-slug: story-chapter-royal-road
+title: "v5c53: The Other Side of the Reunion"
+slug: 0159-v5c53-the-other-side-of-the-reunion
+partOf: beware-of-chicken
+position: 159
+ownLength: 1926
+unit: words
+ownProgress: 1926
+publishedAt: 2024-10-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1859187/v5c53-the-other-side-of-the-reunion"
+royalRoadId: "1859187"
+markedReadAt: "2026-06-29T18:56:45.469Z"
+---
+
+Yushang had been curious for a while about what kind of place made people like Bi De, Ri Zu, and Yun Ren—she just hadn’t expected to see the place quite so soon.
+
+She had spent the entire flight south barely clinging to consciousness. She was exhausted, had more holes than a net poked into her, and most of her ribs were still broken. She hadn’t told Ri Zu that last part because her friend was out of medicine, and really, she could live with the pain—she was still better off than most of the Shrouded Mountain Sect members they’d rescued.
+
+Still, she had been feeling pretty bad. The sun coming back had helped immensely…only for it to immediately be snatched away.
+
+She had heard of the Azure Hills before; who hadn’t? It was the place everybody spoke of with derision. Even mortals without any cultivation potential spoke like they were better than mortals from the Hills, simply because their province was ‘more powerful’.
+
+Didn’t stop those same people from buying their rice, though. The Howling Fang Mountains probably couldn’t support its own population without the Azure Hills’ cheap and abundant grain shipped up through Stone Gate.
+
+Still, outside of the rice, Yushang had never really given the Hills much thought. Yeah, they were weak, but how bad could it be?
+
+As it turned out, far, far worse than she could have ever imagined. It was like that time when her Grandfather took her up to the Peak before she was a cultivator. She had barely been able to breathe, every heaving lungful containing only a scrap of the air she actually needed.
+
+The world pulled at her, like the wrathful northern wind, except instead of wicking away warmth, it sucked away her very life, her Qi. She had already been exhausted, and the sudden assault had not been welcome.
+
+It had woken her up, though, struggling to keep what little scraps of energy she had left. Han, Uncle, and Spooks hadn’t seemed much better, though Spooks had recovered faster.
+
+And then, they arrived.
+
+The air changed. The sucking void receded. Her breath came easier, and it was merely cool instead of bitterly cold.
+
+Then she felt the Qi. The Qi of the Howling Fang Mountains was like the mountains themselves, towering and aloof, cold and uncaring. Yushang had assumed that to be the case for all Qi; it was a force of nature, the unrelenting pulse of the world welling up from its Dragon Veins. It was something that had to be wrestled into submission, like a hunter spearing their prey. It had to be respected, or it would destroy you.
+
+The Qi here was kind. It was gentle. It settled into her exhausted meridians, and soothed the aches in her dantian.
+
+At once, she felt relief.
+
+She felt like it was all over. The edge she had been on, worrying the whole time that something else would spring up to strike them while they were weak, pulled away.
+
+This…this was a good place—and she couldn’t help but smile when Bi De just jumped off Shen Yu’s flying sword to hug the man beaming up at them. Both Uncle and Han seemed amused at the sight, controlled Bi De leaping down like an excited son was kind of funny—and then Yushang had gotten a closer look at the man her friend was embracing.
+
+She had seen Bi De’s master in Yun Ren’s recording crystal—but in the flesh?
+
+In the flesh the experience was far different. First was his Qi, vast and encompassing. He stood like one of the Fangs, reaching up to touch the sky—yet unlike the terrible majesty of Shen Yu’s Qi, Master Jin’s power was…polite. It was simply there, instead of glaring down at them.
+
+But it was the rest of him that sold her. Just as bad people looked bad to her…Bi De’s Master just looked good. His wide smile was perfect for his face. His freckles complemented his cheeks. He looked like her dad or maybe even her gramps. He was the kind of person who would help her with anything…even if that meant rebuking her for her own poor decisions.
+
+Even if he wasn’t Bi De’s Master, Yushang would have instantly liked him
+
+And the rest of them? Yushang had never seen such a collection of utterly trustworthy people outside her home village. From the prickly-looking green-haired lady to the boar and the snake, all of them were awesome.
+
+She was downright eager to meet everyone when Bi De waved them all over.
+
+Han, Uncle Heng, and Spooks easily started walking over to the side, but Yushang paused and turned.
+
+“Aren’t you two coming?” she asked.
+
+Both Yingwen and Fenxian looked extremely uncomfortable.
+
+“It might be for the best if we do not,” Yingwen said.
+
+Yushang looked over at Bi De and pointed at the two of them.
+
+He nodded.
+
+Yushang grabbed Yingwen and Fenxian’s arms. Both of them struggled for a moment, but she had gotten her second wind—and that meant there could be only one outcome.
+
+Both of them stumbled along behind her.
+
+Victory for Yushang!
+
+“And these are our comrades who helped us in our mission,” Bi De said, sweeping his hand out towards them and introducing most of his new friends to his old ones.
+
+His Master, who she knew was named Jin, was talking to Shen Yu, as was the person Bi De called ‘The Healing Sage.’
+
+“This one is Che Han. It is an honour to meet Bi De, Ri Zu, and Yun Ren’s family,” Han said with a polite bow.
+
+“Shao Heng, former Outrider of the Shrouded Mountain Sect,” Uncle continued, his voice having that cadence members of the Shrouded Mountain Sect had when speaking to superiors.
+
+‘This one is the apprentice of He Who Sweeps the Forest Floor Of Snow and Opens the Way.’ the Thunderhoof intoned, bowing… before his mouth opened wide with a yawn. He seemed a bit embarrassed that he did, looking instantly for a scolding at his breach of propriety… but when all he got were sympathetic looks, he smiled. ‘All my friends call me Spooks.’
+
+And then it was her turn.
+
+First impressions were important. Bi De had just jumped down and started hugging people—so Yushang gave her brightest, friendliest smile as she dropped the arms of the other two.
+
+Hands on her hips, chest out—and even though she still had blood all over her body and her clothes were rags, she gave it her all.
+
+“Hello everyone! This pretty sister here is Liao Yushang! Nice to meet all of you! Bi De and Ri Zu talked so much about you all when we slept together!” she declared.
+
+Bi De and Ri Zu choked at her phrasing. Spooks started giggling. Yun Ren, who still looked a bit out of it, barked out a laugh, while Han and Uncle groaned. Even Fenxian chuckled.
+
+The ones she was being introduced to looked equally as amused, the one she recognised as Tigu doubling over completely.
+
+Nailed it.
+
+“Oh? Do you have something to tell me about, Bi De, Ri Zu?” an amused voice asked from beside them. Yushang turned and there was Master Jin, standing there and smiling warmly at them. Behind him, Shen Yu and the Healing Sage were leading the members of the Shrouded Mountain Sect away.
+
+His answer was Ri Zu and Bi De cuffing Yushang on the back of her head.
+
+“Yushang is too fond of pranks,” Ri Zu said, pouting at her.
+
+“But sister! We shared such tender times—ouch! Hey, not so hard!” Ri Zu grabbed her ear.
+
+Master Jin laughed at the byplay. “It's a pleasure to meet all of you after the letter we were sent. But there are two faces I was not expecting here. It's a small world, isn’t it, Yingwen, Fenxian?”
+
+His smile faded slightly. Yushang froze at the sudden shift in atmosphere.
+
+Both men instantly went to their knees.
+
+“Lord Rou, we have no excuse for not following your directive,” Yingwen said, like a man talking to his executioner.
+
+Master Rou’s face was neutral, then he turned to Bi De.
+
+“Did they help you?” he asked.
+
+“Yes, Master. They both were of great help in the assault,” Bi De replied.
+
+“...Fenxian pushed me out of the way of a hit and took it for me,” Yun Ren murmured.
+
+Master Jin nodded, then the smile came back.
+
+“Then they are welcome in our home.” His voice was simple and matter-of-fact. The tenseness withdrew as Master Jin gave them his blessing. Both Yingwen and Fenxian looked stunned… but hopeful. “Come on, let's get you somewhere warm and get some food into you. To the main house, okay?”
+
+And with that, he was past them. The man embraced Ri Zu, then Yun Ren, welcoming them both back home.
+
+“...I’ll hear their story before I say anything,” Tigu said, her voice tight. She was giving Fenxian a bit of a stink eye.
+
+Another woman, who Yushang was quite certain was named Xianghua, was staring intently at Yingwen. She cocked her head from side to side, then whispered into the ear of the man who could only be Gou Ren. He looked a bit different than his brother’s images had described him, with burnt orange and dark gold hair, as well as a tail of his own.
+
+He nodded.
+
+The woman instantly puffed up in indignation.
+
+“Ah! You’re the one who spoiled my first night!” she boomed, pointing at Yingwen.
+
+The man’s cheeks flushed slightly. Fenxian’s mouth opened in shock and amusement.
+
+“Now this I haven't heard…” Fenxian ventured.
+
+“I threw my bedroll at him,” Xianghua stated, pride filling her voice.
+
+They started to walk towards the manor in the distance, Bi De leading the way and Xianghua regaling them with a pretty funny story of the last time she had met Yingwen.
+
+Yushang paused when she heard Yun Ren speak the name Nezan.
+
+He was cradling what was left of Nezan’s core in his hand, and Master Jin looked stricken before his face shifted to one of determination.
+
+“If there's anything I'm good at...it's being a battery. Let's see if we can't give him a bit of a charge, eh, brother? We’ll take it in shifts. That's sure to wake him up.”
+
+Yun Ren’s tight shoulders relaxed a bit, and a relieved smile slowly crawled across his face.
+
+========================================
+
+“...you’ve been busy, little bro,” Yun Ren said.
+
+“Indeed. It's changed so much…but it's still home,” Bi De mused.
+
+They were invited into a manor… but it was like no manor Yushang had ever seen. It radiated warmth and just… homeliness. It was welcoming and inviting. The entryway was so big even Spooks could fit through it, and the house smelled of spice bark and baking. The main room was decorated with glass balls lit from within by glowstone, and in one corner of the room there lay a pile of wrapped boxes and other wrapped things, names written on all of them.
+
+There, the pink-haired woman took charge. Her voice sounded a bit brittle, but she stepped up before them.
+
+“Food will be ready soon. Please: rest, take a bath, then eat your fill.”
+
+The words…they were too good to be true.
+
+But they were real.
+
+Yushang saw the relief on her face mirrored on everyone else's.
+
+And then it was finally, finally real.
+
+They had won.
+
+They were safe.
+
+=====================
+
+=====================
+
+The aftermath is well and truly underway.If you want to see five advance chapters, I do have a Patreon.
+
+Editors: Massgamer, BargleNawdleZouss

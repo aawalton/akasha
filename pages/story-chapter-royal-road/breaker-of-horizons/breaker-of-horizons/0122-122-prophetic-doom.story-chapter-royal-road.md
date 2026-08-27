@@ -1,0 +1,105 @@
+---
+id: 2a6e6788-c051-5870-b06c-acddf4d901b2
+page-type-slug: story-chapter-royal-road
+title: "122. Prophetic Doom"
+slug: 0122-122-prophetic-doom
+partOf: breaker-of-horizons
+position: 122
+ownLength: 2034
+unit: words
+publishedAt: 2021-07-01
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/708885/122-prophetic-doom"
+royalRoadId: "708885"
+---
+
+Wellspring. The term dredged up a tangle of nebulous concepts from Caden's memory. He had heard it only twice before — once, when the Academy Spire augera had introduced itself to him, and another time when he had made contact with the wild augera near the Academy lake. But it was only one fragment of the three-pronged aspect.
+
+'A wellspring?' Caden asked, directing this at the augeric shell and making sure that neither of the twins could hear. He had to concentrate to really remember enough of the aspect so he could articulate the rest of it. 'Wellspring-ocean-core? What is that, exactly?'
+
+He did not get a proper response, only a terrible shaking from the augeric shell, as if the whole chorus of voices had collectively quailed at the name. Their utter panic was so infectious that he lost control of the wings and found himself launching into the air in an attempt to get away from the sense of sudden, mortal danger. Unable to think straight, he couldn't control his trajectory either, and the world spun around him as he struggled to make sense of where he was going. When he finally managed to think around the primal fear that had seized him, he saw he was headed for the ground, but by then it was too late to pull up. At the last moment, he managed to pull a cushion of arcana around him to soften the crash. He went rolling for several metres before his momentum was finally arrested by a tree. The sharp crack of his impact rang out in the silence of the forest and the branches trembled, sending down a rush of accumulated snow and a scattering of twigs.
+
+Caden groaned and rolled over to face the sky. He felt battered and bruised, but the shield had saved him from anything worse than that. Over the slight ringing in his ears, he heard the alarmed cries of the twins calling out to him. A moment later, the two of them landed just next to him.
+
+"Are you alright?" Kevan asked, his eyes wide with shock.
+
+"Winded, but yeah," Caden wheezed, waving a hand feebly.
+
+Kevan squatted down and took a good look at him. "Doesn't look like anything's twisted or broken. Any pain with the breathing?" He prodded Caden's ribs gently.
+
+Caden shook his head, then stopped because it made him a little dizzy.
+
+"Neck issues?" Kevan asked sharply.
+
+"No, just dizzy," Caden replied, wincing a little.
+
+"Don't get up yet," Kevan said, frowning with some concern. "That was a pretty bad crash, even if you did manage to protect yourself at the end. What happened? You just took off suddenly."
+
+Lying there seemed like a good idea for now. Caden was quite sure he wasn't terribly injured, but his heart was still pounding from the sudden rush of panic. The chorus of voices in the augeric shell had fallen silent, but he could still sense their fear lurking in a corner, like a shadow on his mind.
+
+"Hang on," Caden said, raising a hand. "Something's not right here. Need to focus for a bit."
+
+Kevan's frown deepened and he exchanged a look with Lynus, who looked equally troubled. He turned back to Caden. "Are we in danger?"
+
+"That's what I need to find out," Caden answered, trying to be as patient as he could since he was picking up on a note of distrust from Lynus. But he didn't have the time or mindspace for a protracted reasoning session now. "Just trust me. I'll make it as quick as I can."
+
+Kevan sighed and nodded, then got to his feet and backed away to confer with his brother. They threw occasional glances back at him, but otherwise kept a close watch on their surroundings as they spoke.
+
+He didn't want to know what they were talking about right now. There were quite literally bigger things on his mind.
+
+Caden made tentative contact with the augeric shell. 'Hello?'
+
+He felt faintly foolish for using such a prosaic greeting. Even now, while they were emanating something that felt a lot like fear, it somehow felt almost irreverent to approach entities as mysterious and otherworldly as the augera in that way. And yet it was also a pattern that was inexplicably familiar — on some level, it felt like he was approaching his younger sister after she had just had a bad dream. The juxtaposition between these two emotions was jarring, and it unsettled him.
+
+'Be careful what aspects you call.' The chorus was gone — it was only that one augeric voice that spoke now, the one that 'felt' young and helpess. Now, it sounded scared and reproachful.
+
+That was a familiar warning. Back by the lake when he had tried to make contact with the wild augera by calling out for the raw-boundless-tempest, it had answered as a cacophany of noise and overwhelming power at first, then tempered its response into something more manageable. It had admonished him and told him to call on the wild augera as drifting-pool-channel instead.
+
+'Yes,' the young augeric voice whispered. Caden couldn't help but picture a young child speaking with him in a hushed voice. 'We are woven-shackled-streams now. We are fragments — little tributaries. Once, we were raw-boundless-tempests, but even then we were rivers, though wide and deep. But we are close now to something greater and deeper. We were once rivers, and now we draw near to a source.'
+
+'How is that possible? Here, in the middle of the Empire? Isn't this in the coverage of two Spires? Isn't the arcana here in the hold of a—' Caden cast about for a moment before he remembered the term, '—a knot-link-anchor?'
+
+'Here?' The augera sounded like it was grinning, though it was with innocent delight, like a child who had been asked to explain the rules of some game. 'The Spires pretend to be lights, and claim to cast their own shadows. They are pretty, and they are clever, but they are not lights. They are still shadows — little shapes on the wall.'
+
+'Then this wellspring thing is a light?' The communication was so metaphorical that Caden didn't really have any clear idea about what they were talking about, but he wanted to draw out more information from the augera so he could try and get a better picture in his head.
+
+'Wellsprings are wellsprings,' it answered solemnly. As it continued, a growing moroseness entered its tone. 'They wield light. We were their offspring, their wake, their echoes. Now, as woven-shackled-streams, we are even less than that. We are echoes of the echoes, shadows of the shadows. A memory of light waiting to be remembered, but also fearful of being lost in the remembering.'
+
+A pool of despair was bubbling up and threatening to drown Caden now, so he retreated a little and tried to muster some sort of sternness. Why did this feel so much like talking to an emotional child? It wasn't simply some sort of coincidental pattern of behaviour that he noticed. It was an actual, visceral thing — he was feeling the same familiar swell of emotions that he had felt on the numerous occasions when he had to manage his younger sister when she was a toddler.
+
+'Do you think it did something to Emilia? Is that why she disappeared?' he demanded.
+
+'We do not know. We cannot know. We only know a wellspring is near. Walk carefully, {~?~}.'
+
+'Is there some way to hide from it, or make sure we don't provoke it, or get its attention somehow?'
+
+'The shadow cannot hide from the light,' came the helpless reply. 'It will do what it wills. Walk carefully, but boldly. There is nothing to be done but to walk and to stand witness.'
+
+The augeric shell fell completely silent.
+
+"Really helpful," Caden muttered sardonically as he pushed himself up by the elbows so he could struggle into a sitting position. He didn't feel dizzy anymore, but there was a headache building that he suspected had less to do with the crash and more to do with the frustrating exchange he had just endured. Communicating with the augera was never a straightforward affair, and although he felt he was getting a little more used to it, it still left him feeling like he had just crammed a year's worth of studying into an hour, while being unable to understand much at all.
+
+"What did you find?" Kevan asked. Caden looked up and saw the twins approaching him. He stared blankly at them for a moment, at a complete loss about what to say. He hadn't shared much about the augeric shell with them, and there was too much ground to cover now if he wanted to explain everything.
+
+He sighed and massaged his forehead. "The short version is that there's something out here in these woods that's... probably distorting the arcana or the world in some way that I don't understand. I don't know why, but if you travel on foot you go faster than usual. Our wings are still faster, though, so we should still keep using them."
+
+"Something?" Lynus looked around warily. "If it can do all that, is it dangerous? Is it like an augera, or is it just some sort of environmental quirk, like weather in the arcana or something? Is that even a thing?"
+
+"I don't know for sure. Maybe more like the former," Caden answered, shaking his head in frustration. "I'm sorry, I don't really get it myself. As far as I know, it's not actively malicious towards us, so as long as we don't provoke it or something we should be alright."
+
+"Something like an augera," Kevan repeated, his jaw slightly slack. "And then Emilia leaves an auric-ambient-flare trail, which is something we've never seen before. But the rest of us aren't leaving trails. And Emilia's an anchor in the Prophecy who is somehow different from the rest of us. She gets drawn off, away from the rest of us. 'And one, brought close'..." He trailed off.
+
+Caden turned to him slowly, his eyes wide. "... 'becomes the bones / that form your crown o'er mortal thrones,'" he finished.
+
+Kevan sank to his knees, staring off into the forest where Emilia's trail still stretched out in an unending line until it vanished into the distance.
+
+"We've got to find her!" Caden said, getting to his feet. When Kevan remained motionless, he hurried over to him and shook him by the shoulders. "What are you doing? Get up, we have to find her!"
+
+"But how?" Kevan asked weakly. "It's part of the Prophecy. How can we stop it?"
+
+"You're giving up?" Caden asked incredulously.
+
+Kevan looked at Caden's determined face, then seemed to shake himself out of some stupor. He got to his feet and launched himself into the air, pushing the wings to their absolute limit. There was a little ripple in the arcana as Caden and Lynus leapt into the air after him. Caden realised that somehow, Kevan had hacked the glyphs on his wings and was managing to pull out even more speed than they had been designed for. With a flexing of his own will and some instinctive tweak, Caden modulated the arcanic flow and squeezed some extra speed out so that he could keep pace, but Lynus couldn't make any adjustments and was rapidly falling behind.
+
+"Go!" Lynus called, when Kevan looked back and slowed a little. "Go, I'll catch up!"
+
+Kevan nodded once, then leaned even harder into the harness and forced himself to go faster, with Caden close behind. Once he was near enough, Caden threw up a spearhead shield that encapsulated the both of them. He dug deep and anchored it with arcana, and quickly formed a gestalt with Kevan. Once they were linked, the two of them started flying in a perfectly straight line, bashing through everything in their way, whether branch or sturdy trunk, leaving a trail of destruction as they lanced through the canopy as they followed Emilia's trail. The only thing they could do now was hope for the best and keep going until their arcanic flow failed.

@@ -1,0 +1,141 @@
+---
+id: e4c89fb4-ca81-539b-87e3-f4f4e92ba22a
+page-type-slug: story-chapter-royal-road
+title: "v6c42: Ice Heart Treaty"
+slug: 0231-v6c42-ice-heart-treaty
+partOf: beware-of-chicken
+position: 231
+ownLength: 2162
+unit: words
+ownProgress: 2162
+publishedAt: 2025-07-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2410105/v6c42-ice-heart-treaty"
+royalRoadId: "2410105"
+markedReadAt: "2026-06-29T18:59:18.815Z"
+---
+
+The Imperial Herald stood upon his flying sword with his hands clasped behind his back. He flew behind Shen Yu, who was guiding the way; he was flanked by Xiao Ge of the Cloudy Sword Sect, who was given the honour of escorting his person.
+
+It showed the might of the Empire, bringing but one escort, even if that escort was within the Imperial Realm… but when meeting another at these lofty heights, it was only proper to show such respect of the Spirit Beast’s might.
+
+A show of strength… but not one that was overbearing. A meeting on equal terms; quiet, and not a true imposition. Perfect for speaking with one whom His Imperial Majesty wished for a cordial relationship with.
+
+And His Majesty did wish for cordial relations. In the weeks past the Herald’s return to the north, he had been busy. He had donned many guises, and set about the villages and sects of the sparsely populated north with one mission: to ascertain the nature of the Thunderhooves from those who lived along them.
+
+Those tales reinforced the picture painted by Shen Yu. The mortals of the north had great reverence for the Spirit Beasts. They claimed them as bringers of good fortune… even though objectively in most stories the giant Spirit Beasts simply passed by without even acknowledging any human’s existence. Though when they did, it seemed more like simple consideration than actual kindness. Small things, like stepping over fences or walls instead of onto them. Altering their path slightly so as to not trample through a field.
+
+Which to mortals, he supposed, was as good a reason as any to think a Spirit Beast actively benevolent and worthy of respect, if a bit misguided. The majority of Spirit Beasts tended to not make obvious signs of themselves, and many went out of their way to avoid humans—it was why they could have roads at all. It was the destructive ones that everyone remembered.
+
+What was more interesting though, were the tales of the Thunderhooves as guardians against some manner of greater evil from the north. Many stories had battles in them—far away things that, despite their distance, still made the ground shake, the bellows of the Thunderhooves mixing with the roars of what the locals called the Xiong Xiong—the terrible bear. None had ever seen the Xiong Xiong, but in the aftermath of the great battles there were lakes of blood spilled. Some of the pools were said to be deep enough to cover two adult men, with one standing on the other’s shoulders.
+
+The mortals were adamant that should a Thunderhoof fall in that battle, their villages would be destroyed, and only the Thunderhooves prevented this. He was even shown the supposed site of one of the destroyed villages, and it did indeed seem to have been wiped clean from existence by massive paws.
+
+The only tales he had heard of attacks by a Thunderhoof was another recurring story, about a greedy poacher who had killed a calf, and the story always painted the human as the one in the wrong, his wickedness bringing deserved wrath upon his head. The villagers, after finding out what had happened, beat the man and gave him to the offended party, along with a great tribute… which caused the attack to cease. Which again reinforced the way the mortals saw them.
+
+The reverence was, surprisingly, largely repeated among the sects—though on further meditation it was not too unusual. The cultivators who lived in the north were from the north. Their forebears commanded this cultural respect. Killing them was seen in poor taste, rendering the hunts uncommon. As calves, they were little better than mortal animals, and had no reagents useful to cultivators—while the ones useful enough to be cultivation aids were grueling hunts that one couldn’t even boast of without their reputation suffering… not that it stopped those who were convinced it would benefit their cultivation.
+
+All of this together made the path forward clear when Shen Yu reported that the Thunderhooves had accepted the meeting. Contingencies five through eight were discarded, and two through  four were relegated to the reserve. Of course, things could always go wrong when they began to speak… but the Herald was optimistic.
+
+Shen Yu’s sword slowed as they approached the Ice Heart Forest.
+
+The forest they approached was large, with a cold aura that brushed against his Qi. The Herald could feel a bit of quiet danger from it. The forest felt like it did not wish to welcome him. Many places had such a feeling, but the more interesting part was that, according to knowledge gained from Shen Yu through the Spirit Beasts that had created the effect, the forest would feel warmer and more welcoming to mortals, so they would take refuge within its boughs and then be safely sent on their way.
+
+Again, an act of benevolence that truly stood out in this world… but His Imperial Majesty would never mistake kindness for weakness. In this harsh, desolate place, it was an expression of strength. They were strong enough to offer mercy. Rich enough to think nothing of giving aid to the weak.
+
+The wards, too, were a masterwork in gentleness and subtlety. There was nothing at all that would say to most cultivators that there was anything of true value here, let alone an Imperial Realm Spirit Beast.
+
+Well… normally, he supposed.
+
+Because there were certainly signs now. They were awaited by ten Thunderhooves. The titanic Spirit Beasts were relatively unadorned. A crystal here, some manner of paint there… all save for one.
+
+One bore the pelt of a bear that was as large as he, wearing it like a cape that nearly dragged on the ground. Its fur was white as the purest snow, it had claws as long as Jade Armor halberds; the head, mounted on his shoulder, had teeth like palisades and a face that even in death was locked into a snarl. The Thunderhoof was covered in great, ropey scars, and was missing one of his eyes.
+
+Yet the grandest of all was the largest Thunderhoof. He bore a mantle of storm and stellar light. His antlers rose like a grand crown. His Qi filled the air, and left no room to misinterpret the might of one in the Imperial Realm.
+
+They looked up, noticing the arrival… and as one, they began to stomp their feet.
+
+Thuum, Thuum, Thuum!
+
+Hooves slammed into the ground in unison, causing the ground to tremble and quake.
+
+Thuum, Thuum, Thuum!
+
+The trees shook and pitched, and the sound was so great that it resembled nothing less than the divine applause of the heavens.
+
+The Thunderhooves were aptly named.
+
+Thuum, Thuum, THUUM!
+
+An aurora burst to life as their Qi filled the air, flaring outwards, and allowing the Herald to see their might and resolve… without a note of challenge or hostility within.
+
+Excellent.
+
+Shen Yu’s own sword floated halfway between them both… then turned sideways so that Shen Yu was standing as almost a third party. The Herald acknowledged the statement for what it was. Though he often helped the Empire… here, he was unlikely to take sides.
+
+With one last stomp, the rumble ended, and then there was silence.
+
+“Be you He Who Sweeps The Forest Floor Of Snow and Opens The Way?” the Herald asked. It never helped to assume.
+
+Then, the greatest Thunderhoof spoke with the Qi Speech of a Spirit Beast.
+
+‘That is I. Be you the Herald of the Crimson Phoenix Emperor?’
+
+His diction was razor sharp. His voice was smooth and surprisingly refined. His eyes sparked with calm wisdom.
+
+“This humble servant has that honour.”
+
+The Spirit Beast nodded. ‘We greet the Voice of the Crimson Phoenix Emperor. You have asked to treat with us, and we shall listen to your words.’
+
+The Herald’s sword floated down so that he was eye level with the Spirit Beast, and clasped his hand over his fist in greeting. He did not bow, for the Emperor did not bow, but he gave the respect that was due. Shen Yu raised an eyebrow for a moment before a smile overtook his face, and he nodded his head.
+
+“His Imperial Majesty, The Son of Heaven, has heard tales of your nobility and righteous bearing from his most trusted subjects. Thus, he sends his own Voice to extend his warm and cordial greetings to He Who Sweeps The Forest Floor Of Snow and Opens The Way. It is His Imperial Majesty’s wish to open relations and to understand one another better.”
+
+The Spirit Beast considered the Herald for a moment, before coming to a decision.
+
+‘We accept the Crimson Phoenix Emperor’s words in the good spirit they were offered. Come, Herald of the Phoenix, and guest. Join us in our forest. We extend to you the sacred law of hospitality. Let us discuss in more detail.’
+
+=============================
+
+Forest Sweeper considered the human before him. Shen Yu had been right, the man had come with the open hand of friendship. That earned him Forest Sweeper’s ears. They were seated by the house they had made for mortals, having a more private discussion with just himself and the humans. Shen Yu was seated off to the side, still there, observing. The man took his bonds of friendship seriously, to not side completely with his own kin.
+
+Their discussion proved to be surprisingly straightforward and to the point as well, following rather closely to what Shen Yu thought the Emperor might desire. The other man, Xiao Ge, was content to let the Herald speak, remaining silent throughout.
+
+Thus, it was quite easy to agree to the sharing of information. Threats from the Sea of Snow at this point concerned them both.
+
+Though it was a little strange to speak on the details of the deal. Forest Sweeper already had what he wanted from the south—the delicious things from Shen Yu’s grandson. Otherwise, all he and the others desired was to be unimpeded in their marches… but the humans had human things they needed to do.
+
+“His Imperial Majesty recognises Ice Heart Forest as the ancestral homeland of the Thunderhooves, and the sovereignty of Master Forest Sweeper over the forest,” the man stated. He was quite glad Shen Yu had spent time to speak of human dealmaking to him. He would have been quite offended otherwise. He didn’t need a human to recognise Ice Heart Forest as their home. It was. But as Shen Yu had explained, it was not for him. It was for other humans. “This will be sealed by highest authority to keep with the desires of secrecy with He Who Sweeps The Forest Floor Of Snow and Opens The Way. A Heavenly Jade Grade Transmission Formation will be commissioned so that His Imperial Majesty and Lord Forest Sweeper may discuss further terms at their leisure, and keep their dialogue open.”
+
+“His Imperial Majesty will outlaw the hunting of all Thunderhooves, punishable by death to three degrees.”
+
+‘....my kin told me the people of the north do not hunt our calves,’ Forest Sweeper rumbled.
+
+“Largely, they do not. Hunters who do are lynched in the majority of villages.This is a formality, and to express our desire for cooperation, an official decree by the Emperor.”
+
+Forest Sweeper nodded at the logic.
+
+“The official explanation will be that your forms are pleasing to Him. The First Emperor made it illegal for any to kill Jade Swans for the same reason.”
+
+“And finally… should Ice Heart Forest be attacked, His Imperial Majesty will, upon request of Lord Forest Sweeper, mobilize his armies and his sects to render aid to Ice Heart Forest and the Thunderhooves.”
+
+The words settled heavily. He had seen what the humans could do during the scouring of the north. And that was a small strike force. Forest Sweeper had been granted a mighty shield indeed.
+
+For information. For a place to stay and resupply.
+
+And all because a mortal had pulled a Thunderhoof out of a lake, thousands of years ago.
+
+The human clasped his hands together in front of his face.
+
+“This Humble Servant thanks He Who Sweeps The Forest Floor Of Snow and Opens The Way. May our relationship be fruitful.”
+
+‘May we never have cause to lock antlers,’ Forest Sweeper agreed.
+
+The deal was sealed. And so things would change between them and humanity, for the first time in thousands of years. A good change or a bad one… they would have to see.
+
+The Herald retreated, to bring the scroll to his lord… and left Forest Sweeper with Shen Yu and his friend.
+
+‘I understand you wish to hear the tales of the Thunderhooves, Xiao Ge of the Cloudy Sword Sect,’ he intoned.
+
+The human cultivator inclined his head. “The names of the Martyrs must be remembered,” he said simply.
+
+…telling the tales of his ancestors while drinking was much more enjoyable than negotiating with humans.

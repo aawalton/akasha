@@ -1,0 +1,203 @@
+---
+id: 8de6614f-21a7-5297-812d-c99193399f6b
+page-type-slug: story-chapter-royal-road
+title: "v4c79: Strength of Purpouse"
+slug: 0099-v4c79-strength-of-purpouse
+partOf: beware-of-chicken
+position: 99
+ownLength: 2145
+unit: words
+ownProgress: 2145
+publishedAt: 2024-02-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1532292/v4c79-strength-of-purpouse"
+royalRoadId: "1532292"
+markedReadAt: "2026-06-29T18:54:52.577Z"
+---
+
+“Keep moving, you bastards! Lengthen your stride! One must find the perfect balance between haste and endurance!” Yin shouted as she blitzed across the Grass Sea along with her squadron. The sun beat down strongly on them, the wind howling as they moved across the sea. The grasslands were bad for stealth but good for speed.
+
+“Yes, Commander!” her people bellowed back at her. There were thirty of them, from all the corners of the Azure Hills, drawn by one thing and one thing only; the promise of what the Blazing Swords was.
+
+Rags had the sneaky types and scouts. Loud Boy and the Tiger Leopard Outriders were the first reaction force.
+
+The Blazing Swords? They were the hammer. Theirs would be the most difficult and dangerous jobs; the front line, the heavy assault—just as Yin liked it. And judging by the enthusiasm of the people she was running ragged, they too were looking forward to the day when they would be put to the test.
+
+Some might say that it was cruel to hope that bad things would happen so they could be of use; but Yin knew that bad things were going to happen regardless. It just so happened that they would be ready for whatever came, instead of being surprised by it.
+
+“In two more Li, hold! Then we will be trading pointers! I want some enthusiasm, damn it!” Yin shouted again, and the reply was a resounding affirmative.
+
+Good.
+
+When she was first introduced as a commander and she set about gathering up the people she needed, her Blazing Swords had been filled with fools. Many men had come just so that they could stare at her.
+
+That lasted until the first training session, when some asshole from the Azure Horizon Sect had run his mouth. Well, more accurately, the Young Master of that sect.
+
+“I would deign to be under Rou Tigu or Cai Xiulan. But you? You’re just a pretty flower. Your beauty is wasted, being the commander of an assault force. You would look much better in silks than that rough gi, and I would be happy to provide,” Jian Jiang had said, his eyes lingering on her chest.
+
+“And you look like you could suck a gourd through a rice stalk,” Yin had replied. The look on the man’s face had been priceless. “Alright, let's get this outta the way first. If any of you dumb shits have a problem with me being in charge, we’re settling this right here, right now.”
+
+The entire crowd had recoiled at Yin’s declaration, but the Azure Horizon Sect guy stood his ground.
+
+“Your manners and speech are appalling!” the man replied. “I shall be sure to teach you properly, when I am commander.”
+
+He had drawn his sword. He actually had pretty good cultivation, being at the Fourth Stage of the Initiate’s Realm. He had obviously been one of the ones who had broken through after seeing his sect’s memory crystal.
+
+Yin drove him head first into the ground like a nail.
+
+And then put the next two people to test their luck into the ground right next to him. One was a big guy from the Grand Ravine Sect, and the other was from the Green Leaves Sect.
+
+A bunch of people had left after that… but, after she pulled the three of them out of the ground, Jian Jiang and Elbeg, the Grand Ravine Sect guy, had both stayed.
+
+They had proven to be surprisingly good lieutenants, if a bit prone to staring at her whenever she took her top off.
+
+Eh, they would grow out of it.
+
+“Sho Shan! You’re up first!” Yin declared and pointed at one of her men.
+
+“Yes, Commander!” he shouted, and got into his stance instantly. The first couple of times people traded pointers they were all skittish and worried. Like most of them thought that trading pointers with her was dangerous or something.
+
+Nobody really thought that anymore, and most people were downright eager to spar. Which was also great.
+
+“Come on and do your best, or I’ll kick your ass!” Yin shouted to him, and then they were sparring.
+
+========================
+
+“Great job today, everyone!” Yin shouted, and a cheer followed her words. They were all in a tavern; one Yin found quite agreeable, as it had a balcony that they could all sit on and watch the setting sun from.
+
+Her people looked exhausted. She had driven them hard…. but that was what all of them wanted. To be challenged. To be the best.
+
+Liang Yin was finally content with life. The peace and quiet of Fa Ram was nice in some ways, but in others it made her restless. She had felt aimless, without direction, drifting from one new thing to the next, trying to find something, anything that truly captivated her. Her Shifu wanted her to be more than a weapon, and she strove to make him happy… but nothing had clicked. Nothing gave her the peace the others had; they all found joy in the simple things in life. They found peace in it.
+
+And Yin couldn’t. It had made her restless and irritable. Her heart yearned for something, anything.
+
+And now, she had it. She had finally found her purpose once more.
+
+Each new day was a challenge. She had to think up ways to keep her people motivated, lead training exercises, and spar, all with the knowledge that what she was doing was right. That she was once more a weapon against evil.
+
+Even the other things she had tried, like mining, blacksmithing, or weaving, felt more fulfilling.
+
+Yin, in the middle of the most work she had to do in a year, during a stressful, turbulent, changing time… was at peace.
+
+And wasn’t that one of those paradoxical things?
+
+Almost as funny as a rabbit blessed by the sun.
+
+She smiled and closed her eyes, enjoying the moment.
+
+================================
+
+The work was hard and fulfilling in equal measure, but after months of it… things were finally starting to slow down. Tigu and Xiulan started getting days off, ostensibly for their own cultivation…. but most of the time for stuff like this.
+
+Yin was sitting beside a very bewildered farmer’s field with the rest of her companions.
+
+Xiulan had bought all the grain in this particular farmer’s field after they had all refused to let her harvest it. Right now, both Tigu and Xiulan were stretching and warming up for the “epic battle” to come.
+
+Xianghua was lounging almost indolently on top of a pile of hay. Loud Boy and Rags were sharing a drink with Delun, and the Torrent Rider was teaching Shaggy Two how to write.
+
+Yin herself was leaning slightly over the Torrent Rider’s shoulder, watching as he wrote down a bunch of easy characters for the dog to try his hand at.
+
+Shaggy Two was doing his best, and he was a commendable spirit, even if his characters were rough and uneven.
+
+“This one,” Yin suggested, and her little brother brightened up. She could tell he was smiling under his rooster mask.
+
+“Okay! This one means peace, okay bud?” the Torrent Rider asked.
+
+Shaggy Two barked as the young man started writing the character out, the dog following the strokes closely.
+
+It took him three tries to get it right—but both Yin and the Torrent Rider made sure to praise him. He really liked being petted, Shaggy Two, and Yin couldn’t blame him. Being petted in rabbit form was really nice. Sometimes she got Tigu or the Torrent Rider to scratch behind her ears.
+
+Eventually, however, Tigu and Xiulan were ready. Yin picked up the gong and stood as her two friends faced off.
+
+“Prepare to lose, Blade of Grass!” Tigu haughtily declared. “I’m much stronger than I was last—”
+
+[Verdant Blade Sword Arts: 64 Blades of Grass]
+
+A veritable forest of blades erupted around Xiulan before they began to morph. Like a child weaving blades of grass into a crown, Xiulan’s swords wove together into multiple shearing blades, reminiscent of one of Bowu’s reapers.
+
+Tigu paused and her mouth dropped open. She pointed straight at Xiulan, her arm shaking.
+
+“Let's have a good match, Little Sister,” Xiulan said sweetly.
+
+Tigu said something that even Yin raised an eyebrow at, while Rags choked on his drink.
+
+“Did she really learn how to do that just to beat Tigu?” Loud Boy asked.
+
+“Yes, I saw her practising. It took her a week to figure it out, and she copied my little brother’s work!” Xianghua replied. “It's why This Sectmaster did not add her blade to the ring. I refuse to partake in such a lopsided battle!”
+
+“I think we might have to say no Qi techniques in the future.” Rags mused, scratching his chin.
+
+“You think Tigu will accept that?” Yin replied.
+
+“Probably not,” Delun said. “But maybe she can do something with her Qi claw blades like that?”
+
+Yin shrugged before sounding the gong.
+
+The battle began, and ended, in Tigu’s devastating defeat.
+
+The cat stared forlornly at the reaped field.
+
+“...best two out of three,” she demanded.
+
+The day ended at five to zero.
+
+Yin wrote down everything that had happened that day in a scroll. Either it would be another letter… or she would be able to read this to everybody once they got back home.
+
+And then she would tell her Shifu about her life properly.
+
+The solstice was coming soon enough.
+
+============================
+
+Zang Zeng, Elder of the Shrouded Mountain Sect, looked closely at the messenger.
+
+“And this lead is accurate?” he asked.
+
+“Yes, Elder. The north Azure Hills. Everything matches.”
+
+The cultivator considered his subordinate’s words. Out of the corner of his eye he glanced at his woman, the one who always knew exactly what to say. She was wearing a bland, inoffensive smile, as always.
+
+“I must meditate upon this,” he decided.
+
+His man bowed and left the room. Zang Zeng frowned. They had been sitting here, waiting for news for entirely too long a time, but finally they had a lead.
+
+“Today is a joyous day, is it not, Master?” His woman said, her voice like silk. “You finally know where the charlatan who spits on the Shrouded Mountain Sect hides.”
+
+“Indeed. The isolated north. It does all fit, from where my boy was first ambushed, but…” he trailed off. Something still felt wrong about this.
+
+“I’m certain your skilled men have brought you accurate information, Master,” the woman whispered, her voice oh so very convincing. She was right. He had skilled men, and that location was where his enemy hid. “There's no more reason to hide; I’m sure you can descend upon his family as you please. Like the rats at that mountain could stand against you.”
+
+That did sound like a good idea, to get the girl at the Dueling Peaks. But that carried a risk that was currently unacceptable, his gut told him.
+
+“No. I shall not give my enemy any alert as to my action. We head north, quietly,” he said, making his decision.
+
+The woman’s smile remained fixed on her face, and her hands started toying with his chest. His body reacted—this was the only reason why he kept her around, she was supremely skilled in the art of pleasing him. Why, he could almost get lost in her eyes and taste. “Of course, Master. Your caution does you credit.”
+
+Zang Zeng nodded as she started pulling him down. He considered dallying, but instead he grabbed her hand. “My plans are immaculate. Now, begone. I have to meditate. We will leave soon.”
+
+His woman’s eyes flashed with disappointment, before she bowed.
+
+“Of course, Master.”
+
+Zang Zeng frowned as she left. The feeling of wrongness was diminished. His soul felt at peace.
+
+So he planned and issued his orders. An hour later, he decided to break his fast—and partook of his only meal that day.
+
+He walked over to his nightstand and pulled out the last of the Silver Grade Rice. There was a miniscule amount left.
+
+He cooked it himself and savoured every bite. He chewed slowly.
+
+And the feeling of unease came creeping back.
+
+======================================
+
+A messenger from the Shrouded Mountain Sect arrived four hours later.
+
+He had been given quite the run around. First, he had gone to the safehouse in Green Stone Forest, where Zang Zeng was supposed to be. Instead, he found only a skeleton crew, and nobody knew where he had gone.
+
+The messenger had kept looking—eventually following the Elder’s trail to here.
+
+But now the man was gone again, with not a trace of where they had went.
+
+The messenger was starting to get nervous.
+
+He turned away from the Azure Hills and headed back into the interior of Yellow Rock Plateau, clutching his emergency orders for Zang Zeng to return to the mountain.

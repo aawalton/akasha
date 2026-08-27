@@ -1,0 +1,123 @@
+---
+id: a04bef01-33de-5b87-91f9-739e2b91f20e
+page-type-slug: story-chapter-royal-road
+title: "104. Little Steps"
+slug: 0104-104-little-steps
+partOf: breaker-of-horizons
+position: 104
+ownLength: 1740
+unit: words
+publishedAt: 2021-04-29
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/673237/104-little-steps"
+royalRoadId: "673237"
+---
+
+The rest of breakfast was taken up with outlining plans for their departure. Devon himself was eager to be gone since every additional day they spent there increased the likeliness that his father, the Duke, would discover the roomful of provisions. Jerric proposed to spend more time trying to gather information about the state of the Empire, particularly in light of the recent attacks, before they tried to move about on their own without the protection of agents.
+
+It took plenty of insistence on Caden's part, but with the support of Emilia and (surprisingly) Kevan, he managed to sway the consensus to committing to staying in the Ka'atryn manor for at least two more days. Jerric continued to fret over the large number of unknowns out there, but he sketched out a plan to quickly pull together some sources of information. Devon's mood darkened a little when the group made its decision, clearly unhappy with the prospect of facing his father, but he consoled himself with the fact that Ambrose and Caden were glad to have some time to recover from his meeting with the augera. The twins, too, were relieved that they could take the opportunity to sort themselves out after being devastated by Jerric.
+
+Over the next two days, whether by Prophetic providence or mere chance, the Duke was kept busy by affairs of the Empire and his own private pursuits. The agents largely kept out of their way, showing their presence only through brief glimpses in the hallways, but the group was left in no doubt that they were being carefully guarded. Ambrose and Caden reported that there were complex sequences that had been subtly woven into the arcanic sea itself that surrounded the house and the grounds, and together the two of them spent long hours examining it as closely as they dared, trying to find a way for them to sneak through the protections without alerting the agents. Even those less attuned to the arcana could spot signs of increased security in the form of glyphs newly scribed into doorways, and security artefacts deployed in discreet corners or else carefully positioned to be as inconspicuous as possible amongst the decor of the manor.
+
+Since they had all been forbidden from leaving the manor, even to wander the grounds, they occupied themselves as best they could. Thankfully, there was plenty of space indoors. The group spent their time tending to their own business in the rooms that had been provided by the Ka'atryns, and gathering for meals in the dining hall.
+
+While Ambrose and Caden continued to examine the defences and experiment with extending their arcanic senses beyond the veil, the rest found other productive things to do. Jerric wasted no time in tuning in to news streams to get a broad picture of what was happening, and at meal times he updated everyone about the situation at large. The Empire had so far refrained from officially holding Sedhah accountable for the attacks, but Imperial Army and Navy movements indicated that it was securing the borders against the neighbouring nation. That response provoked a reaction from Sedhah, which accused the Empire of preparing for an invasion that was unprovoked and unjustified. International tensions were high.
+
+Closer to home, the Imperial Army was being deployed at key locations across the Empire to secure the Spires. That bit of news alarmed the group at first, but Jerric noted that abandoned Spires didn't seem to be on the Empire's list of locations to secure if the public notices of Imperial Army movements were anything to go by.
+
+However, the most peculiar development within the manor involved Devon and Emilia, and it was only on the second night that it came to light over dinner, just as Jerric was done giving his summary.
+
+"Devon has made considerable progress," Emilia declared suddenly, apropos of nothing.
+
+"In what?" Caden asked while Devon's head snapped up and he looked at Emilia, stricken.
+
+Everyone's attention was immediately captured by that strange reaction and they turned expectantly to Emilia.
+
+"In arcanic control," Emilia replied, apparently unaware of the shift in mood as she paused to take a bite.
+
+Devon breathed a little sigh of relief and returned his attention to his plate.
+
+"Hang on," Kevan said, frowning. "What's up with that?"
+
+"Up with what?" Devon asked, his eyes widening a little, with his spoon frozen in mid-air.
+
+"That," Kevan answered, pointing a fork at Devon. "Why are you so twitchy?"
+
+"I'm not twitchy!"
+
+"And why did you bring that up?" Kevan continued, half-turning to Emilia who was next to him.
+
+"Oh, I thought we were all updating each other about our progress in our various endeavours," Emilia answered. "To make sure we're all on the same page."
+
+"Okay," Kevan said slowly, frowning a little more. "Then... what have you been up to?"
+
+"You haven't been with her?" Caden asked, trying to sound only mildly curious but failing miserably.
+
+Kevan shot him a sour look and did not deign to answer that question. Instead, he tilted his head expectantly at Emilia.
+
+"Oh, I've been teaching Devon how to—"
+
+"—work on frame-shifting!" Devon interrupted, sounding frantic.
+
+"—dance," Emilia finished, giving him a quizzical look.
+
+There was a long silence, then someone dropped a fork and it clattered under the table, but nobody could tell who it was because everyone was staring at Devon, who was now turning a deep shade of red.
+
+Finally, with a sort of horrified fascination, Kevan slowly turned back to Emilia. "Dance?" he croaked.
+
+"Dance," she answered, nodding definitively, before looking back at Devon with a little confusion. "It had nothing to do with frame-shifting. Why would you say that?"
+
+He spluttered at her, apparently lost for words, while she merely continued looking steadily at him, waiting for an explanation. Meanwhile, Kevan was staring at her, also waiting for an explanation. Jerric absently spooned food into his mouth as he watched the unfolding spectacle. Caden's eyebrows had risen so far into his hairline that they were almost hidden. Ambrose's lips were twitching ever-so-slightly. Lynus was squinting at Devon, incredulity written all over his face.
+
+"Explain, maybe?" Kevan finally managed to wheeze. Emilia shot a final look of mingled bewilderment and disappointment at Devon before turning her attention to Kevan.
+
+"He didn't want to bother Caden or Ambrose, so he came to me and asked if I could help him perfect his arcanic control," she said. "So I started teaching him how to dance."
+
+Caden let out a soft "Oh!" of amused comprehension and chuckled quietly. Jerric choked a little as he gave a snort of laughter. But both of them immediately stopped when Kevan's eyes swept over them.
+
+"W-what kind of dance?" Kevan asked, turning back to Emilia, hardly able to believe his ears.
+
+"Oh, we tried a few styles to see what would fit. In the end, I thought classical ballet was the best, even though he wasn't quite on board with it."
+
+Devon had sunk so low in his seat that his face was almost level with the table. Jerric's composure finally gave way and he dissolved into peals of laughter, which set Caden off. The two of them tried to bring themselves under control, but every time either of them was about to stop, they would glance at each other and crack up all over again. Ambrose and Lynus were still confused, but couldn't help but chuckle at the unfolding drama and hilarity.
+
+"Why is this funny?" Emilia demanded.
+
+"It's not!" Kevan answered, now a little red-faced too.
+
+"You're all idiots," Devon groaned.
+
+It took everyone a few minutes to settle down, and for Caden and Jerric to finally stop laughing so much so that ordinary conversation could resume. Once they managed to get themselves under control, they came to Emilia's rescue and helped her to explain the situation. But the entire conversation still left Devon feeling completely mortified.
+
+"Hey, whatever works," Caden said, grinning. "Did it work?"
+
+"The results will speak for themselves," Emilia declared, coming to Devon's defence. "As I said earlier, he's made considerable progress."
+
+"Actually, if you really believe it works, maybe we should all have a go and dance with you," Jerric chimed in.
+
+"Are you serious?" Caden asked, on the verge of cracking up again.
+
+Jerric's mouth worked furiously as he tried to keep a straight face. "Y-yes. No, really, I am!"
+
+"What makes you think Emilia wants to dance with you?" Kevan asked, rising in indignation.
+
+"Relax, Kev," Jerric said, sobering a little. "That didn't come out right, but what I mean to say is, since Emilia credits her superior arcanic control to her dance background, and since she believes it really helped Devon even in just two short days, maybe we should all consider learning from her."
+
+When it became clear that Jerric was definitely not joking any more, the laughter at the table gave way to disbelief.
+
+"Dance?" Lynus asked, grimacing. "And she said it has to be ballet?"
+
+Caden couldn't believe it, but he rather suspected that he was feeling exactly the same way as Lynus.
+
+"Arcanic control is important, and we're looking for every edge, aren't we? I mean, we're going after wild augera," Jerric continued, sounding far too sane and serious. All trace of his earlier levity was gone now. "At the very least, it's worth a try."
+
+"It worked for me," Devon mumbled into the awkward silence, having finally mustered up the courage to speak, though he was still doing so while half-hidden by the table. "Don't know if it'll do much for Caden or Ambrose, but it really does get you to do things differently. Everyone should try it at least once."
+
+By some unspoken consensus, the rest turned to look at Ambrose and Caden. The two of them stared back in mute astonishment, as though neither of them could believe that such a strange decision now rested with them.
+
+"Are you hearing this?" Ambrose asked Caden.
+
+"If the Chosen One bids us dance," Caden answered gravely, "then we shall dance."
+
+He managed to hold it in for all of five seconds. When he let out a little snort of laughter, Ambrose clapped him over the head, then joined in.
+
+"We dance!" Ambrose declared, lifting up a glass. Around the table, the others wore expressions of confusion mixed with mirth as they lifted their glasses in answer to the toast, albeit with varying levels of enthusiasm.

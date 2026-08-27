@@ -1,0 +1,367 @@
+---
+id: 25170c10-91cb-5004-94af-77902cc50c00
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 24 - Must Come Down II"
+slug: 0027-book-4-chapter-24-must-come-down-ii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 27
+ownLength: 5663
+unit: words
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2715296/book-4-chapter-24-must-come-down-ii"
+royalRoadId: "2715296"
+---
+
+Things remained quiet—aside from various traders and land-based Coalition supply convoys—until winter, at which point the shimagu resumed harassing Remera. No army came to challenge them; instead, small forces of shimagu created traps or sprang ambushes on Remera’s scouts or the Legion’s armored (and all-too-predictable) supply convoys—often with minimal results. Their enemies also seemed to avoid striking [Merchant] caravans or anything escorted by one of the (seldom present) frightfully high-level elves.
+
+The shimagu were a persistent nuisance, but their antics damaged Remera’s morale more than its personnel.
+
+The winged ogre twin similarly returned intermittently, just to force Ranthia to shiver atop her tower—not that he seemed to endure the cold any better than she did. If anything, he was consistently the first to depart, often well before sunset. He never struck any targets, nor gave Ranthia an opportunity to seek his head—he just used Remera’s policies against her.
+
+The accursed piece of refuse even managed to keep her stuck on her tower throughout Avyna’s birthday.
+
+“Happy Birthday!” Glorine shouted—far too loudly—as she set down the oversized meat pie.
+
+Glorine and Gailla had moved into a new tent shortly after their wedding. The (by their standards) ‘mountain’ of contribution credits they received them buy an unused officer-tier tent in one of the “safer” areas of Remera (i.e., one that hadn’t caught fire yet). After Avyna was done with what enchantments she could manage, it was the third nicest tent in Remera—which meant that Avyna was finally willing to let their friends host sometimes.
+
+Ranthia just laughed and hugged her friend—once the pie was safe. She had insisted that no one needed to give her any gifts (honestly, she was happy, and she wasn’t one to hoard stuff), but there was a suspiciously lumpy cloth sitting out of place on the table.
+
+Ranthia, as usual, played her assigned role of skittish evasiveness when her friends made an effort to solicit her age from her. She was turning thirty-six, but she still had the body of a twenty-four-year-old—it wasn’t entirely impossible with enough vitality from a young enough age, but every year she took another step further away from mortal viability. Her ability to blend in was diminishing.
+
+How much longer would it take for her friends to notice that she wasn’t changing? Would they be willing to accept her? Did they truly even understand that Avyna was immortal and what it meant?
+
+“You alive in there, birthday girl?” Gailla tried to knock on Ranthia’s skull to punctuate her query, but the embarrassed woman of the day instinctively dodged.
+
+“Sorry! Just got distracted by something.” Ranthia confessed, her face burning.
+
+“Oh, like what?” Gailla asked.
+
+Godsdamnit! Ranthia hurriedly fished about for an idea that could satisfy her friends’ curiosity or… distract them.
+
+“I was just mulling over the fact that Avyna still won’t celebrate her birthdays.” Ranthia answered with a smirk.
+
+Avyna was unamused, but Ranthia and her friends formed a united front and—at last—convinced the beautiful, stubborn elf. Avyna might not have cared about her birthday (and how Glorine and Gailla were so unfazed by Avyna’s true age was something Ranthia couldn’t comprehend), but she magnanimously agreed that they could celebrate their fondness for her if they must.
+
+Ranthia was going to pay for that later, but she was thrilled! Honestly, convincing Avyna to change her mind once she had decided on something was a grand gift in and of itself!
+
+It was a good day, and Ranthia managed to get through it without being summoned to deal with some crisis or another—which made it all the better. Even though she had no idea what she was going to do with the dwarven whetstone her friends bought for her. Her own knives didn’t need sharpening—assuming the stone was even capable of honing adamantium—and their home cutlery was enchanted for sharpness, which sorely limited the bulky gift’s usefulness (yet, tragically, not its size).
+
+“<Care to stop and live?>” Ranthia’s voice rang out in the guttural tones of the shimagu tongue.
+
+A group of twenty shimagu had attacked the Legions’ supply convoys with impressive reliability. At first—like most acts of enemy aggression—they hadn’t accomplished much. The wagons were protected by steel plates, and the dinosaurs were chosen for their resilience first and foremost. The ambushes marred some armor, and the traps broke beneath the wagons’ sheer weight.
+
+But, contrary to Remus’ propaganda, the shimagu learned and adapted. They tried new things, and the threat that they posed steadily increased. Legionaries that escorted the convoy were wounded, wheels were damaged, axles were splintered, and beasts required a specialist [Healer]’s touch. That much was manageable—they were still at war, after all.
+
+And then the shimagu managed to take a wagon from the Legions, and that was too much of an insult for some important idiot to take. The base commander was ordered to deal with the problem and, in what felt like an abuse of the letter of Sentinel Aurora’s decree, outsourced the problem to Ranthia. Which was why she spent the better part of two days crammed inside a Xaoc-forsaken crate inside a wagon while it glacially made its way through a rocky wasteland.
+
+Her words might have been colored with a bit of annoyance, by the time the attack finally struck the convoy.
+
+“<Kill them all!>” Came the entirely expected answer.
+
+Ranthia blurred from the wagon, knives in hand, and ensured that the shimagu learned a final lesson: never become a problem that warranted a Sentinel’s attention.
+
+The year was nearing its end with only scattered and minor skirmishes with the shimagu to show for it. Ranthia preferred to think of them as peaceful days broken up with tedium, but Remera was having a real problem with the untested recruits slacking off.
+
+Thank Xaoc, it still wasn’t her problem.
+
+Instead, she was celebrating the one thousand four hundred and fifty-second anniversary of the light of her life coming into Pallos. Avyna hadn’t wanted a traditional birthday celebration, which left the trio trying alternative ideas—namely one that Glorine had recommended. Ranthia, Glorine, and Gailla gathered at Ranthia’s table to indulge in snacks and sip fragrant spiced teas while they regaled one another with stories about what Avyna had done for them and how much she meant to them.
+
+With Avyna sitting to the side, savoring her own tea while she silently enjoyed the sentimental sap that they provided. As planned, they ignored her presence entirely—which Ranthia was less okay with than everyone else was—but Avyna seemed to truly have fun.
+
+Ranthia was pretty sure she would have blushed until she was reduced to a pile of ashes had she tried to endure a similar treatment, but if Avyna was happy, she was glad to participate.
+
+“<Happy Birthday, my love.>” Avyna passed through the curtains, wearing a plush robe and carrying a tray laden with miniature quiches, along with a tall glass of chilled pear cider.
+
+Ranthia had woken up early, planning to cook breakfast—yet she awoke to a bed bereft of any gorgeous elves and her confused, half-awake noises were obviously sufficient to catch Avyna’s attention. Ranthia sat up, annoyed enough that she only felt a minor smug thrill at how Avyna’s eyes wandered when she emerged from the covers, and grudgingly allowed the woman she loved to serve her breakfast.
+
+“<I was hoping to cook.>” Ranthia feebly protested as she inhaled the scent of her beloved’s wonderful cooking.
+
+“<I am aware. I made certain that I was the first to rise.>” Avyna replied in a wonderfully smug tone, as she picked up one of the treats and carefully started to feed Ranthia.
+
+Ranthia pouted, but she obediently took a bite, enjoying the flavor of the fresh peppers alongside the wonderfully seasoned eggs and creamy cheese. She stole a moment, while she chewed, to savor just how easy it finally was for the two of them to converse. She couldn’t pretend that her pronunciation was always perfect, but she had gotten used to High Elvish. She finally—usually—understood it readily and Avyna’s increased comfort with conversation was apparent.
+
+“<Since your 37th birthday is insignificant, I would like to propose something: I think you should try a celebration like the one you threw for me last year. I enjoyed it quite a bit.>” Avyna recommended, as she tried to feed Ranthia another tiny quiche.
+
+“<I am not sitting through that!>” Ranthia protested, aghast, before she took a bite.
+
+“<Oh? And here I thought you enjoyed the attention of multiple women at once.>” Avyna replied in a too-innocent tone that made it obvious that she intended it in a lurid way.
+
+Ranthia grunted a noncommittal noise while she tried to wrestle with the surge of irritation—she refused to act out though. After so many years, she had faith in her ability to wrestle intrusive, negative emotions aside without Avyna noticing. Eating a few more adorable morsels of food helped to buy her more time—her appetite was definitely waking up.
+
+“<And why would I desire that when I have the undivided attention of the most perfect woman—especially when I already struggle to keep up with her?>” Ranthia shamelessly flirted, arching her back just enough to make her exposed chest more prominent.
+
+Just as she hoped, Avyna’s gaze wandered.
+
+“<I do have one of your presents under this robe, my love. Careful, or I might show you before you finish eating.>” Avyna’s voice was low and teasing.
+
+“<Gemheart, you shouldn’t underestimate my willpower. I can admire and anticipate while I eat.>” Ranthia promised.
+
+Avyna laughed into the side of her wrist over Ranthia’s bold claim, but she shrugged and let the robe fall from her lithe shoulders. Ranthia stared, open-mouthed. And the food was wholly forgotten.
+
+They never got around to inviting their friends over for dinner that day.
+
+Summer was in full swing, and Ranthia was scowling while she knelt in front of her little altar—the chiming of bells had interrupted her, which meant someone was at the entrance to her home. Ranthia offered Xaoc a sincere apology for interrupting her prayers before she stood and made her way through her home to open the flap.
+
+She certainly wasn’t expecting a gnoll. His Creation was abhorrent, but he didn’t know the shimagu’s language or High Elvish. And so, they muddled through an awkward non-conversation until he finally conveyed that his caravan had a package for her—and not for Avyna, she confirmed. It was weird, but she sealed her home and followed the gnoll back to where the wagons were camped outside of Remera.
+
+Avyna was at her shop, and Ranthia made a note that she needed to swing by to tell her beloved about the caravan—Avyna’s trader intel could be spotty when it came to tribal gnolls.
+
+Okay, a package intended for Ranthia—well, Sentinel Grace—that was carried by traders, especially non-Reman ones, was weird. But said package suddenly going missing shortly before she arrived strained credulity past its limits!
+
+Yet the gnolls put on a convincing performance. More and more gnolls got involved in the hunt and the wandering traders seemed to be desperate to apologize.
+
+“Grass-ee, accept sorries and take gift.” A surprisingly high-level—yet young—gnoll insisted. He was, oddly, wearing what looked like eggshells, as if they somehow formed protective armor.
+
+Ranthia had been paranoid about the whole ‘oh, yes, come to our caravan, wealthy Sentinel’ thing being some sort of scam, but the offer of a gift to make up for… whatever had been misplaced seemed to dispel that possibility. Ranthia still tried to decline, but it was blindingly obvious that doing so was upsetting the gnolls.
+
+“Okay, okay. How about this—I’ll buy a couple of books, and you can throw in another book or two that you think I might like?” Ranthia offered. She had already looked at their wares and hadn’t seen anything else interesting enough to buy, but they had a small selection of books.
+
+It took a few moments to get her offer past the language barrier—and yes, she really should have sought Avyna’s help with the situation—but the gnoll agreed readily.
+
+Ranthia selected three books from their title alone—two in High Elvish, one in Creation. The gnoll then—with a surprising degree of solemness—gifted her with another two books. Specifically, the thickest tomes that the caravan had. Ranthia bowed to the egg-armored gnoll with the complex and impossible to remember name (that was her excuse, at least) and he seemed to be in renewed spirits.
+
+She had no idea what would have been inside the enigmatic probably-not-a-hoax package, so she wasn’t bothered by its loss. She couldn’t imagine Night would entrust some secretive Sentinel intel to migratory merchants and she somehow doubted that Tertia could have used them for shipping. It was still weird, but she refused to see it as a loss. Instead, she skimmed her acquisitions once she was back within Remera.
+
+The Tax Codes of the Nation of Devils was the ominous title of one of the bonus books, which Ranthia immediately decided to hide away to give to Avyna as a gag gift someday—it promised to be the dullest read on Pallos. The other gift’s title made her assume it was a spicy romance book involving a man and a woman (meh), but when she skimmed it, the book seemed more devoted to the intricacies of some sort of house politics and… ah! That explained it, the book was written by a dullahan about dullahan society.
+
+Her own purchases included a High Elvish book on the cities and the sights (both, collectively, dubbed “<the wonders>”) of the Tympestshard Council, a book of songs recorded from various taverns throughout Remus in dubiously translated High Elvish (it promised to be good for a laugh), and an actual spicy romance book about something called a princess and her personal maid.
+
+Ranthia stopped by her home to hide the devil tax book—so she could ‘surprise’ Avyna with it in the future—then headed for Avyna’s shop to tell her beloved about the caravan. …And to find out if she had grossly overpaid for the books, even with the (solitary, honest) gifted tome.
+
+And maybe someone, someday, would deign to rent the dullahan book from Avyna. Ranthia certainly had no interest in it!
+
+“<This book is incredible, my love. The initial chapters were very clear about the fact that the house of the male lead was a family of artisans, yet in this chapter they are scholars of renown! And I would have to consult with an expert, but I am rather certain that the acts described here are metallurgically impossible.>” Avyna gestured aggressively at the book, while Ranthia carefully steered her elf around the rain barrel that she was about to run into.
+
+Ranthia had created a monster, and she had regrets.
+
+She had just wanted to see if Avyna thought the dullahan book could be included in her shop’s books available for rental. Sure, she knew that meant that Avyna needed to investigate the book to some degree. At first, the elf was confident it might get some interest because it provided a look into the politics of the dullahan houses. Then she began to express doubts about the veracity of some of its depictions of life within the Dullahan Dynasties. Which required her to read further.
+
+Ranthia’s entire afternoon had turned into a struggle to run the shop—so much more complicated than Avyna ever made it seem—while the love of her life fell deeper and deeper into the depths of the book. The accursed tome was written in a tight hand on more sheets of paper than Ranthia cared to count—which meant that Avyna had barely put a dent in the book, even after spending the bulk of the day lost within it.
+
+“<Gemheart, can we please talk about something else?>” Ranthia begged.
+
+“<Allow me to get through this section. I need to see that the sister of the female lead faces justice for what she did.>” Avyna belatedly answered while she turned the page.
+
+“<Avyna, light and love of my life—you said something similar when you passed on lunch. I want to discuss dinner options with you!>” Ranthia took desperate measures—she grabbed her beloved’s shoulders and let notes of pleading enter her voice.
+
+“<I told you that I am not—wait, dinner?>” Avyna blinked and—thank Xaoc—finally looked up.
+
+Ranthia just held her precious lover’s shoulders and waited.
+
+“<…When did we leave my shop? Oh prisms, when did it get so late?! I had customers, did I not?>” Avyna’s voice was quiet, yet openly aghast.
+
+“<You did, yes. I managed as best I could, but you should really check your accounts tomorrow to make sure I didn’t do you harm, Gemheart>.” Ranthia answered, relieved to have finally wrenched Avyna from the grips of that frightful book!
+
+A shudder passed through the elf. She snapped the book closed—forcefully. For a moment, Ranthia thought that Avyna would discard the book into a nearby pile of firewood… but the elf sighed and tucked it under her arm.
+
+“<It is a terrible book, but I despise wasted assets.>” Avyna grumbled.
+
+“<Maybe we can send the book to the shimagu and ruin their civilization.>” Ranthia offered, letting a relieved, but jovial, grin spread its way across her face.
+
+“<Oh, that would be lovely. Imagine, a cursed book that could fell nations with its horrid pacing and total lack of consistency!>” Avyna laughed into her free wrist.
+
+Abruptly, Avyna stopped laughing and both women eyed the book warily.
+
+“<So… books can’t really be cursed, right?>” Ranthia asked.
+
+“<I know not, my love. We can find a safe storage solution once we are home.>” Avyna decided.
+
+“<Such a weird day.>” Ranthia grumbled as they made their final turn…
+
+…and found a barrel blocking the entrance to their home.
+
+“What on Pallos?” Ranthia approached it…
+
+Only for a head to pop out from behind the barrel—a bald head that shone beneath the waxing moonlight. Ranthia was already forming her knives, alarmed, but a dreadfully familiar voice interrupted her moment of panic.
+
+“Oh, there you are! About time, I got so impatient that I was in the midst of trying to figure out how to bypass those silly enchantments of yers! Quite rude to just leave all day when you had an unexpected guest waiting!” Said dreadfully familiar voice chided.
+
+“Y…you…?!” Ranthia stammered, taken aback.
+
+“Didja ferget already? Dimlit the 41st! Now I know my scientific achievement fell somewhat short before, but—” The powder white beard (powdered white, more honestly) quivered with indignation.
+
+“How did you even get here?!” Ranthia interrupted the diminutive dwarf’s ongoing tirade.
+
+“Why, I had some pickled cave spider eggs couriered to my uncle! A life tip for ye, no one eveeer checks the contents of a couple of barrels of pickled cave spider eggs. Even when you accidentally make a noise when they set ya down too hard, no one wants to investigate! They just set something heavy on top of the barrel, but if ya gots the art of timing your exits down while they unload, it’s easy peasy to sneak through!” The obviously still entirely too young dwarf—which raised major concerns about their last encounter, five years ago—bragged.
+
+“…You have an uncle here?” Ranthia carefully selected what she assumed to be the least potentially upsetting question that his words raised.
+
+“Why, ‘tis you, of course!” He smiled brightly.
+
+“…I’m a woman!” Ranthia snapped in annoyance—she chose poorly!
+
+“Oh? Jolly good for you! Why I’ve always admired people who define their gender for themselves, instead of just sticking with whatever humdrum bits they’re born with!” The short dwarf clapped his hands.
+
+Ranthia sputtered. She was filled with righteous indignation and an overwhelming urge to correct the dwarf that she was indeed born a woman, and yet she also—exceedingly grudgingly, under the circumstances—genuinely approved of his stance! Would correcting him damage his point of view? …Was he just messing with her?
+
+Ranthia’s gaze snapped to the elf at her side when she finally realized that Avyna was laughing. Ranthia didn’t even try to hide her sentiments of shocked betrayal.
+
+Avyna just laughed a touch louder at Ranthia’s look and slipped an arm around her partner.
+
+“Noble Dimlit of the 41st generation, how may we assist you this evening?” The elf asked in Creation, once she managed to get her mirth mostly under control.
+
+And only mostly—she was enjoying Ranthia’s plight entirely too much!
+
+“Well, at least yer horny lady servant knows some manners! The answer is, ye cannot! It’s too late today! I have completed the generation five redesign and after countless tests it is finally ready to show it to the world, so I sought ye out again but now it’s too dark out!” He shook a fist at the moons.
+
+Ranthia felt no small amount of schadenfreude when Avyna stiffened at being referred to as Ranthia’s ‘horny lady servant’. Ranthia smiled a touch too sweetly at her beloved, before she addressed the dwarf again.
+
+“My horny lady servant and I are tired after a long day and were about… …Wait, generation five? Wasn’t the last one generation three? What happened to generation four?” Ranthia had hurriedly cast about for a topic shift to avoid mentioning that they were about to make dinner.
+
+She was not about to inadvertently invite Dimlit over for dinner. Madness, regret, and a dead dwarf no doubt laid down that path. Even if she was more than a touch frustrated that she remembered the generation of his ‘science’ so clearly after the intervening years.
+
+“We. Do not. Mention. Generation four.” Dimlit spoke in a harsh tone, a faraway look in his eyes.
+
+“…It couldn’t have been worse than generation three.” Ranthia muttered not quite quietly enough.
+
+“You shouldn’t mention the one that you destroyed with yer reckless flappings either!” The dwarf fumed.
+
+“Noble Dimlit, perhaps you and my lord may take this up tomorrow when they will actually be able to help you? I may be a humble, and most horny, lady servant, but I do require my lord for the night.” Avyna cut in, in a surprisingly—and familiarly—glib tone.
+
+Hey, Ranthia was rubbing off on Avyna! …In non-literal ways!
+
+“Eh? Oh, right! Quite gross indeed. Yes, meet me atop the mesa to the east tomorrow when the sun is at its zenith! The tall mesa, that is! History shall be forged and so forth. Don’t be late!” Dimlit declared, before he squatted down, lifted the barrel up onto his back, and hobbled off as quickly as he could manage.
+
+“<…If you call me your lord again, we’re not having sex tonight.>” Ranthia deadpanned while Avyna checked the enchantments woven into the tent flap carefully—the elf hadn’t forgotten that Dimlit had threatened to try to mess with them.
+
+“<Oh? That is too bad, I assumed a proper uniform for your horniest of lady servants would be an apron and nothing else.>” Avyna replied breezily.
+
+Ranthia’s face turned red as her mind conjured detailed mental images.
+
+“<…I suppose I can be a lady lord.>” Ranthia mumbled.
+
+Avyna laughed into the side of her wrist once again, nodding her assent before she finally decided the dwarf had inflicted no harm. With a touch, she opened their home.
+
+The next morning, Ranthia left Remera in full kit. She had spent the night—okay, no, she had spent the earlier part of the morning trying to convince herself that she needed to ignore the dwarf’s existence. Yet every time she convinced herself to follow the path of reason, she imagined the winged ogre. She had spent years seeking his head, and if she could just prevent his escape when they next clashed… Gods and goddesses, if the dwarf’s invention miraculously actually did work, it could save so many lives…
+
+Was that not worth some personal indignity and a small amount of personal risk? He had said that the latest ‘science’ had gone through “countless tests,” which was promising. Ranthia chose to assume the intervening years meant something, and decided to meet with him, much to Avyna’s amusement.
+
+To the east, Ranthia eyed the two mesas, made her choice, and circled her chosen mesa until she found the climbing spikes drilled into it. She had learned her lesson five years ago; obviously the young dwarf needed a way to climb up! Yet at the top of the mesa, she found… nothing. There was no trace of Dimlit or his gear.
+
+…And realized that the other mesa—a short distance away—was, indeed, taller than the one she had ascended. It had seemed shorter from the ground!
+
+Ranthia shifted to the ground, then made her second ascent—in a somewhat sourer mood.
+
+“Oh, good, there you are! I got worried that ye did something dumb like climb the wrong mesa or something.” Dimlit called over, in lieu of a greeting.
+
+Ranthia took a few deep breaths to calm herself. She had no idea what it was about the dwarf, but he seemed to actively make her a worse person. She could practically feel her mindset backsliding into the vengeful, hurtful woman that she used to be—that she had sworn to grow beyond!
+
+“Well, don’t just stand there like some drab guardsman standing in one place unendingly! Get over here and get that armor off!” Dimlit thumped his barrel heartily.
+
+“…What?!” Ranthia sputtered. She was not getting naked for the dwarf!
+
+“Don’t you what me! You’re beardless, not deaf! You think the generation five is going to somehow magically self-modify for whatever random crap you happen to wear? Nonsense, that’s generation seven material, at the soonest! I mean, yes, obviously I’ll incorporate protective plating into the generation six, but I hardly had your exact measurements! Stop expecting ridiculous things and get naked! We’re all men here! …Well, generation five is a woman, but she has no eyes so yer fine!” Somehow the dwarf managed to make her regret her choices in life more with every sentence he spat.
+
+“…Will a tunic suffice?” Ranthia asked through gritted teeth.
+
+“You beardless sorts are so weird. ‘Oh no, I can’t let someone see my tiny beardless bits, I am shamed.’ Pah! Fine fine, just hurry it up! Should’ve approached one of those centaur sorts, I bet they respect flight.” Dimlit muttered, while he carefully began to extract items from the barrel he brought.
+
+Ranthia made him promise to not look, then hurriedly—and awkwardly—removed her Sentinel armor and pulled a tunic on over her mistweave undergarments. It wasn’t her mistweave tunic, just one of the cheap ones she had brought from Remus that she kept stuffed in her belt for emergencies.
+
+Dimlit was oddly reserved afterwards—and started referring to her as a woman—which definitely had Ranthia glaring daggers at him.
+
+At length, Ranthia was equipped in the new generation five ‘science,’ freshly reconstructed from a mass of disparate parts. It was… Well, it was wildly uncomfortable.
+
+“Is it supposed to be poking and pinching me this much?” Ranthia asked.
+
+“If it’s comfortable, it’s not progress!” Dimlit non-answered, reenergized now that they were near the demonstration of his masterpiece.
+
+The thing looked… skeletal, like a mass of metal bones that clamped onto—and into, she wasn’t kidding about it being uncomfortable—her body. The thin tunic was a mistake too, since the pointy, poky bits of metal pierced straight through it and into her skin. Every little movement brought dozens of pinches and pokes. The wings themselves were massive and leathery, like a bat’s wings, rather than feathered like a bird’s wings. Everything except the treated, oiled leather seemed to be made of metal.
+
+“No wood this time?” Ranthia asked. Honestly, she knew better, why was she trying to indulge her curiosity with Dimlit?!
+
+“Of course not! Metal and wood, pah! Wood is for art and beauty; metal is functionality and practicality! We need functional, not pretty!” The dwarf scolded.
+
+“…And you say this version is tested?” Ranthia had serious regrets.
+
+“Oh, aye. Countless times!” The dwarf enthused.
+
+“How many is ‘countless’?” Ranthia was almost ready to beg for some level of reassurance.
+
+“I literally said I didn’t count them. …Are you sure you aren’t considered stupid among your beardless peers?” The diminutive inflictor of ‘science’ squinted at her.
+
+Ranthia had no response to that. She was having similar doubts herself.
+
+“Now, ye’ll note that there’s no need to rely on your own terrible flapping prowess this time. Nope, the generation five is idiot-proofed! Even for the likes of ye! Ah’ll just wind it up like a clock and it’ll flap itself! Easy as anything, ye just dangle there. I’ve got faith in your abilities!” Dimlit condescended.
+
+Ranthia had no idea what a clock was, but if it was tested and handled the flapping itself, it seemed… safe?
+
+“Okay, anything else I need to know before we do this?” Ranthia asked.
+
+“Ye do know how to dangle?” He asked seriously.
+
+“…Sure.” Ranthia narrowly managed a response that didn’t involve violence.
+
+“Then no! Now stand at the edge and lemme wind ‘er up!” Dimlit ordered.
+
+Ranthia awkwardly and uncomfortably waddled to the edge. The metal bones over the chest definitely were built with the assumption the chest was flat; they were especially painful as they dug into her softer flesh.
+
+She hated everything, but if it worked…
+
+Dimlit pressed something into the contraption on her back and grunted as she felt the structure wrench to the side—digging ever deeper into her flesh as it did. Odd clicking and grinding noises accompanied the pressure. Until finally…
+
+“Go, jump! Now!” Dimlit called.
+
+Ranthia obeyed immediately. She leapt out into the warm air; her blindfold-covered eyes fixed on the blue sky beyond. She had an image waiting on the ground—another lesson she learned after the last ‘science’.
+
+Then, with a final click that was noticeably louder than the prior ones, the wings began to move. The metal bones dug tight into her flesh—had she possessed less vitality she would have started bleeding from numerous wounds.
+
+…But her descent stopped. Her path evened out…?!
+
+It worked.
+
+By every last god and goddess… the stupid thing actually worked!
+
+“It’s working!” Ranthia called out gleefully.
+
+Flying had never really been a dream of hers—outside of her burning desire to take down the winged ogre—yet it was surprisingly pleasant. She could see so far! The powerful wind felt so good!
+
+Dimlit whooped somewhere behind her. His excitement was understandable; his science truly was amazing! Sure, it was agonizingly uncomfortable, but with some padding or integrated armor that could be managed! Ranthia’s head spun with visions of how Pallos was about to change. Even aside from the obvious combat potential, the science promised to revolutionize travel! Even just getting across a big city like Ariminum would be easier and faster!
+
+I take back every terrible thing I ever thought about this man! Ranthia giggled gleefully.
+
+A heartbeat later, the wind suddenly turned. Caught by the gust, Ranthia’s world lurched as the ‘science’ turned with the wind. …And, instead of flying carefree through the air, she found herself aimed straight at the mesa—moments away from colliding with it.
+
+“How do I steer this thing?!” Ranthia hurriedly shouted. Suddenly, she wasn’t sure how she had ever jumped without thinking to ask—no matter how she wiggled the ‘science’ seemed committed to flying straight.
+
+“Huh, steering? That’s brilliant! That will definitely go into generation six! Excellent scientific work, for a beardless!” Dimlit called out.
+
+…What?!
+
+“I can’t steer?! I’m about to crash!” Ranthia screamed.
+
+“Don’t worry, you’re out of time anyway! The winding only lasts for a short while!”
+
+While the dwarf uttered those horrible words, the wings slowed… finally coming to a stop before he even finished speaking!
+
+Truthfully, Ranthia had no idea what the cause was. It could have been the cessation of the flapping, or it could have been another change in the wind. The only thing Ranthia could say for sure was that she fell from the sky. If anything, the damned wings turned her descent into a powerful dive!
+
+Ranthia swore and cursed the dwarf’s name while she hurriedly activated [Reflections of Reality], directing the Skill to the image she had left at the base of the mesa. Ranthia sagged with relief once her shift concluded, only to find herself desperately lunging clear an instant later, at the behest of [Combat Awareness]. Of freaking course the blighted ‘science’ was coming straight at her image, why wouldn’t everything that thrice-cursed dwarf made try its utmost to kill her?!
+
+The surprisingly heavy ‘science’ smashed into the ground that she vacated with a horrific metal-on-stone sound, as fragments from both barraged her.
+
+It was only after the impact completed that Ranthia realized her image had been wearing her armor—which was still atop the mesa. Which left her in her mistweave undergarments, with a rapidly approaching Dimlit. Her tunic was somewhere under the impact crater of metal and leather!
+
+“If you can save yer own damned skin, you could have saved the generation five!” Dimlit raged.
+
+“That’s not how my Skills work, and your stupid ‘science’ was a death trap!” Ranthia howled back with righteous fury coursing through her veins.
+
+“Ye said it worked! And it did, it worked just as expected!” The dwarf rebutted.
+
+“It couldn’t steer; you fool!” Ranthia spat.
+
+“It weren’t made to!” He declared.
+
+“It only flew for a tiny bit of time! That’s nowhere near long enough!” Ranthia changed tacks.
+
+“It’ll have to be! That’s the limit of what the materials can do!” Dimlit decreed.
+
+“Then it’s worthless!” She denounced.
+
+“Yer worthless!” Was his petulant counter.
+
+“How did it go, my love?” Avyna called, all too cheerfully, when Ranthia entered the shop.
+
+“Don’t ask.” Ranthia grumbled.
+
+Avyna just laughed, knowingly, and blew Ranthia a kiss. A customer was approaching with an overflowing basket of goods, which promised to keep her elf occupied for a while. And that suited Ranthia just fine. She walked over, dropped to the floor, and leaned against Avyna’s legs while she silently vowed to never touch another ‘science’ for the rest of her immortal life.

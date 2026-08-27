@@ -1,0 +1,141 @@
+---
+id: b9cac57c-1cc5-5814-afa3-c727c1e93a8e
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 79 - Prelude to the Hunt"
+slug: 0083-b3-chapter-79-prelude-to-the-hunt
+partOf: bookbound-bunny
+position: 83
+ownLength: 2054
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3828825/b3-chapter-79-prelude-to-the-hunt"
+royalRoadId: "3828825"
+---
+
+After a very rushed breakfast, the group headed to where they were set to gather. Rather than being outside, this was in the large auditorium, which seemed to be used only for such occasions. Thankfully, they weren't late, and judging by the relaxed atmosphere, nothing had started yet, as everyone was just chatting away. Unlike the first time they came here, nobody was separated by year.
+
+Lily and her friends managed to find seats together, then sighed with relief and finally asked why she had been so late. Lily had to sheepishly deny that she had overslept, instead saying that she had some minor inspiration on her Astral magic that she was trying to look into before she lost the idea. That simple explanation was enough to instantly excuse her, and her friends seemed excited by the prospect.
+
+"I just hope you don't end up making something like that black moon," Hana admitted, earning nods from everyone except Lily.
+
+Lily sighed, although she certainly couldn't blame her friends after the unfortunate events that had happened whenever she afflicted them with misfortune. "No, it's more focused on stars."
+
+"More explosions?" Lotte asked excitedly.
+
+"Uh… More drawing with stars. It's only a very rough idea at the moment, so I can't really say."
+
+Lily did end up conjuring a smaller version of her Nebula Veil and demonstrating the rearrangement of the stars into a pattern. Needless to say, Hana and Lotte were positively delighted, Arthur was indifferent, and Thomas was intrigued.
+
+"Are you trying to make constellations on your cloak?" Thomas asked.
+
+"Something like that. I want to know if I can make a glyph with stars."
+
+Thomas appeared puzzled. "That seems a little redundant, doesn't it? You can already draw glyphs in the air. What benefit would you gain from drawing them on your cloak?"
+
+"Ah! Sorry, I should have been clearer. I meant glyph enchantments, not glyph spells."
+
+"You want to make your magic cloak even more magical? Sounds like a great idea," Lotte giggled.
+
+"Your cloak already stops pretty much any spell thrown at it. Does it even need to be better?" Arthur pointed out.
+
+"Maybe not better defensively, but in other ways?" Lily vaguely suggested. "I'm not entirely sure, since I haven't studied enchantments… But what if I could make my cloak warmer, or colder, or waterproof, or better against rocks?"
+
+"That last one would probably be good, although you would need your cloak to be more rigid than most likely," Thomas replied. "It kind of stops being a cloak at that point."
+
+"Until I just shift the stars and return it to normal, or another configuration," Lily said excitedly.
+
+"Wow, if that ends up working, I'm going to be even more jealous of your cloak," Lotte admitted. "I've never heard of a magic item that can be modified over and over again; it would be one of a kind! Which, admittedly, your cloak was already, but now it would be even more unique-er…"
+
+"Hopefully it works out. Like I said, it's still just a very vague idea at the moment."
+
+Everyone didn't have to wait much longer, as Headmaster Fabrelis appeared on the stage shortly after. The audience's din was suppressed, and he began announcing the final events.
+
+"To bring a close to our little festival, we've got a fun little event planned for everyone. As most of you have probably heard, the idea this time was a treasure hunt with your recent rankings playing a role. But just a simple treasure hunt wouldn't be enough, so it will be one inside a specially designed floor of the dungeon!
+
+"The way it will work is as follows: each faction will head in based on their individual rankings per year. You'll be getting a head start, but that doesn't mean you're necessarily guaranteed to find the treasure. There are five treasures to find, one for each year, and the areas are segregated so the older students can't interfere with the younger students.
+
+"The floor does have monsters, so you'll be expected to defend yourselves. Nothing too dramatic, roughly on par with the lower end of what your year is used to fighting, after all, this is a treasure hunt, not a monster hunter. Just a reminder: you're not forced to fight the monsters. If you can use your wits to bypass them, I'd recommend it.
+
+"As for rules of engagement, you're allowed to hinder other students but not attack them directly. Seriously, I mean it: any violations will be met with harsh punishment, and if something goes wrong, you could even face expulsion. This is meant to be fun, don't ruin it, as we will be watching.
+
+"In the interest of safety, but also to spice up the event, we will be enabling the emergency recall function on your Wards. For those of you who have not experienced it, when your secondary charge is spent, you will be removed from the dungeon. Once again, this is something offered only at Regarth, proving that we are the best school when it comes to dungeons.
+
+"Lastly, the staff have been charging Mana devices for weeks for this big event, so please be sure to thank them for their sacrifice! The recall function is not cheap, and countless hours were spent on this endeavor. So have fun, be safe, and put on a good show! I'll be trying my best to show as many angles from the event as possible, but I'm only one man, so forgive me if your child doesn't get a chance in the spotlight."
+
+The silencing spell was finally broken, and the audience began cheering excitedly. The event sounded simple, but it also seemed like a great way to finish things off. It was also clearly a way to advertise Regarth, as what other school could have a special dungeon floor made just for a festival?
+
+{What's this recall thing? Do you have any ideas?}
+
+[It should be some form of teleportation, which really shows you how close the Headmaster is to the dungeon. It's a good thing we reached an agreement with it, or it would have spilled all our secrets to him if he'd ever asked. If we kept threatening it, it might have even gone to him for help.]
+
+{That would have been very bad!}
+
+[Quite, thankfully, that didn't happen. Anyway, as we've briefly touched on, dungeons are quite strange in their workings, as you've no doubt experienced with how their floors can seem almost impossible. We still have no idea if teleportation actually exists in this current age of magic, but with the help of a dungeon, it can be done. They are effectively the master of their domain, and teleporting someone out shouldn't be too hard with the right conditions. I imagine the Mana was donated as food, rather than to power up a specific device.]
+
+{Really? So he's lying about the Wards?}
+
+[I wouldn't go as far as to say he's lying; he could be twisting the truth. Through my own examination of the Wards, it certainly has no "recall" function, but it could be used for "permission" for the dungeon to kick you out. Even though I said they are the master of their domain, it comes with caveats. Remember, the dungeon tried to physically stop us from progressing; it didn't just teleport us out.]
+
+{Because we left my Ward behind?}
+
+[That's precisely what I'm thinking. At the time, I was only worried about it tracking our deeper progress, but I hadn't considered that it might be an agreement. You could think of it as something as simple as: "whoever wears one of these necklaces, I have permission to kick out," which I admit sounds silly, but sometimes those specifics matter when it comes to magic.]
+
+{I don't really get it, but that was rather lucky for us then.}
+
+[Lucky… Yes…] Arakil grumbled. [Moving on, the simplest way I can try to explain it for you is that magic has rules, but by supplementing it with other rules, you can sometimes twist it. Teleporting someone against their will is surprisingly difficult, but by adding the condition of wearing this specific amulet, which the dungeon might have even helped create, it's allowed to. Even the headmaster announcing that it will happen could be getting the students to unconsciously agree to being teleported.]
+
+{Wait… If I now know that, do I need to worry about not being teleported out?}
+
+[Likely not. Unless you're consciously rejecting it at this point. Besides, at this point, I don't think regular monsters should pose any threat against you. So, don't worry about it, and as the headmaster said, have fun.]
+
+Thankfully, their conversation was rather brief, as Lily was able to jump straight into the topic her friends were discussing.
+
+"Sounds like splitting up is the way to go then," Hana suggested.
+
+"It's annoying we have to go in last, but with our speed, I think we will make up for it," Arthur said confidently.
+
+"I'm just glad there's the no attacking rule, or I'd be screwed," Lotte sighed with relief. "Imagine if others were allowed to attack me, but I could only defend. Although I'm not in a great spot when it comes to hindering…"
+
+"You've got the strongest potential to just barrel through the monsters, though," Thomas pointed out.
+
+"Depending on the terrain, you could try making mud traps," Lily added.
+
+"Yeah… No thanks, I'll go with Thomas' idea."
+
+"I actually feel a bit bad for Zephyrix," Thomas suddenly said. "I think Terravix has a lot of potential to hinder them, and they are going in second."
+
+"Hey, we could potentially hinder too. What if Lily sets up runes and glyphs as traps?" Lotte suggested.
+
+"Please don't," Hana pleaded, looking at Lily with puppy dog eyes.
+
+"Or do. That way it stops the Terravix students, and we can maybe just fly over them?" Arthur replied.
+
+"I'll neither confirm nor deny what I'll be doing," Lily teased.
+
+Honestly, she had no idea what she would do. If it was being watched, drawing some glyphs or even runes would be ideal to further reinforce the image of her bloodline somehow being related to them. At the same time, if she spent too much time laying traps, she wouldn't be able to try to find the treasure.
+
+Or maybe I can just leave that to others?
+
+Whatever she chose, she didn't want to go overboard. There was a risk that she would break the direct attack rule, depending on how she went about it, and she also didn't want to reveal everything. If Lily suddenly drew an inscription in the air, and it worked, it might genuinely cause panic. Runes and glyphs were one thing, but inscriptions were a whole other level, and she feared it would lead to many uncomfortable questions, if not worse.
+
+The easiest way to avoid breaking the rule would be to affect the terrain. I could use an earth glyph to dig a trench, maybe even a wall? It's not like it needs to be reinforced like our fort, so I should be able to handle it on my own.
+
+"Oh no… I think she's plotting," Hana said.
+
+"Hey, don't ruin our bunny mastermind's concentration," Lotte joked.
+
+"Maybe we should split up?" Thomas suggested. "Besides, we need to start heading to the entry point; others have already started making their way there."
+
+"Speaking of which, I wonder what the rankings are for the other years?" Arthur asked.
+
+"I'd bet money Terravix is first for the second year students," Lotte said confidently.
+
+Arthur rolled his eyes. "Nobody in their right mind would take that bet."
+
+"You could try using the duel results to guess," Thomas suggested. "Although it feels like nobody knew who the fourth-year girl was, so maybe she isn't so great in her grades."
+
+Lotte shrugged. "Well, there's nothing we can do about the other years anyway, so best to let them sort themselves out. All I know is that Maranix will be taking the treasure hunt for the first year."
+
+"Not if I have anything to say about that," Arthur countered.
+
+The group continued laughing as they poked fun at each other. After the rather intense day yesterday, this really seemed like a great way to end things on a positive note for everyone.

@@ -1,0 +1,149 @@
+---
+id: e1edc8fa-22c9-582a-b5ff-92b05c7f7246
+page-type-slug: story-chapter-royal-road
+title: "65. Unseen Hurdles"
+slug: 0065-65-unseen-hurdles
+partOf: breaker-of-horizons
+position: 65
+ownLength: 2072
+unit: words
+publishedAt: 2020-12-14
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/599826/65-unseen-hurdles"
+royalRoadId: "599826"
+---
+
+Pyramid-shaped blobs turned out to be a lot harder than either of us had anticipated. After several hours of hard work, and some tears on her part, all Triss had managed was a blob that was more like a misshapen sphere that didn't even vaguely resemble any other shape. When I suggested she take a break from the pyramid shapes and simply try to produce several blobs of different sizes, she hit yet another wall — she was only able to make the blobs either as big as the orb we formed or as tiny as the initial globules she had produced, and she couldn't produce any further variation on the size.
+
+My sister's slow progress was a source of frustration and irritation for her, and by the end of the afternoon she had worked herself up into a state of great agitation. As much as I wanted to simply spell things out clearly for her, I found it rather impossible to simplify things and articulate the deep realisations I had arrived at after a term in the Academy. She simply wasn't yet at the stage where she could understand my explanations, despite my best efforts. And I couldn't figure out why she had been locked into only two sizes for her globules, so there weren't any other helpful suggestions or experiments I could make.
+
+But any thought of consulting my mother was driven out of my thoughts when a call came through on the telepresence orb just as I was walking my sister back into the house. Jerric's form materialised on one of the chairs facing the orb and a pleasant chime sounded out to alert us that someone was there. My sister paused long enough to see it wasn't my father, then hurried up to her room, red-eyed and tired.
+
+A look a relief washed over Jerric's face as soon as I moved into the telepresence orb's area of coverage and slid into the chair opposite him. But I held up a hand to forestall him as I brought up the orb's glyphs to access the privacy functions. Once it was set to ensure that his voice and image couldn't be seen or heard by anyone outside of the coverage area, and my own voice would be muffled, I nodded.
+
+"I've been trying to get you all day," Jerric said. "Where were you?'
+
+"Sorry." I hesitated, unsure if I should explain why I had been out of touch, but decided against it for now. "I was busy with family stuff. About the attacks, do you know who they were targeting? The police told my mum that it was Academy freshmen."
+
+"Wouldn't the chime... nevermind. Yes, it looks like the police have privately warned all the targets. I managed to get in touch with the rest. You've been told to sit tight, too?"
+
+"Yeah. So what do we do now about our plan?"
+
+Jerric didn't answer immediately. He gave me a measuring gaze and took a deep breath before speaking. "They all think we should go ahead. But they also agree that if you say we shouldn't go, then we won't."
+
+I sighed. It made sense that they would give me the final say since they were all aware that the threads of Prophecy could be corralling them into action, and I was the only person who might be able to yank them out of its path by my unfettered choices. But that didn't make it easy to stomach.
+
+"If we go ahead," I ventured, "how are we supposed to get away from the people watching over us? It sounds like we've all got some security around our homes."
+
+"It's... actually not that difficult. If we want to meet, apparently Devon can arrange it. Or at least... his parents can."
+
+"What?" I was incredulous. "You mean we just tell them we're going, and they'll let us?"
+
+"No, slipping off to look for the abandoned Spire and a wild augera will be a bit harder. But if we want to meet up in Geldor like we first planned, then yeah, all we have to do is give Devon the go-ahead, and the police will, uh, escort us there."
+
+"... wh-who are Devon's parents? What's his family? I'm sure you know, you've been sharing a room with him the whole term."
+
+Jerric grinned. "I'll let you find out for yourself if you think we should go ahead. The rest pestered me about it too, but I'm actually quite enjoying this, so I haven't told anyone what I know."
+
+"You don't think maybe withholding that information could end up being something that is of significance to how the Prophecy will turn out?" I asked, slightly irritated.
+
+He sobered instantly and looked anxious. "Do you think it might? If so, I'll tell you."
+
+I blinked. "Uh, I didn't mean that. Anyway, that won't change my decision. I think we should meet first, and see what we can do from there."
+
+Jerric frowned. "Maybe I should tell you. His par—"
+
+"—no don't tell me! After not knowing all this time, I'd like to be surprised. Anyway, I wasn't being serious about what I said earlier. And I don't want to use this thing as some sort of truncheon to beat the truth out of everyone in our group."
+
+"Even so, now that you've brought it up, it's something we should consider. It makes sense for you to have all available information."
+
+"I'm not so sure," I answered, biting my lip. "Knowledge can be used as a shackle. Anyway, it's possible for us to keep second-guessing far too much. There are too many layers to this, and I don't think we can just think it all through from start to finish, so I'm going to go with my gut on this. Don't tell me about Devon's parents."
+
+Jerric looked unconvinced, but he also wasn't quite ready to contradict me. It was quite troubling to see how much deference he was giving to my opinion now. Was that him, or was it the prompting of the Prophecy, in some convoluted way? I gave myself a mental shake and decided to take my own advice to stop trying to think through all the possible paths when there was no meaningful way to evaluate the possibilities.
+
+He looked like he was still wrestling with himself, so I cleared my throat and decided to move the conversation along. "So, how will this work? You tell Devon, and the police escort us to his place?"
+
+"Pretty much. And I'm not sure about your family, but in my case, it saves me from having to explain to my dad why I need to disappear from home for a while."
+
+I nodded fervently. "Yes, that helps me too. I was wondering how to get away from my family without telling them. Especially my dad."
+
+"Well, I'll make the call now then. If all goes well, you should hear from the police directly. I'll get in touch again if anything changes."
+
+"Thanks. See you soon, hopefully."
+
+Jerric got up and gestured vaguely, and the connection closed. The orb dimmed into its idle state, and with that the little dome of privacy it had enclosed me in dissipated.
+
+Just then, my mother came down from the second floor with Triss in tow. My sister was looking a little more cheerful, though she still had a vague air of defeat about her.
+
+"Triss was telling me it didn't go too well," Mum said, watching my sister troop over to the couch and throw herself onto it with a touch of melodrama.
+
+"I think it went about as well as I could have hoped," I offered.
+
+Triss sat up. "You mean you didn't expect me to be able to do much?"
+
+"That's not what I said," I answered hastily. "I meant that it's hard stuff, and it makes sense that you'd have trouble with it."
+
+She looked like she was about to protest, but my mother cut in. "Triss, why don't you get a bit more practice in your father's workshop, while I talk to your brother?"
+
+It didn't seem like she was going to obey. She opened her mouth to say something, but the look my mother shot her was a perfect balance between loving reproach and dire threat, and Triss slunk out of the house without acting on her impulse to rebel. Once she was safely out of the house, my mother took her vacated seat on the couch and gestured for me to sit as well.
+
+"Not as easy as you thought it would be, is it?" she smiled.
+
+"No..." I looked at her thoughtfully. "Even if I wanted to tell her everything, I realised... I couldn't do it. I didn't know how. And all this time in the Academy, I was wondering why you never taught me earlier, or just told me, and I think now I understand."
+
+"I remember that first call you made back, yes."
+
+"But why does it work that way? I mean, it's not like something big changed when I got into the Academy. It's something I might've been able to understand when I was just a year younger."
+
+"Well, I couldn't tell you, Cadey. That's just... how it seems to be." She shrugged. "I was wondering if you'd have any more success teaching your sister at a faster pace, but it seems not."
+
+"She did seem to get it, though. Some of it, at least."
+
+"Then that'll have to do. Now—"
+
+"But... I want to try teaching you something, Mum."
+
+"Me?" Her eyebrows rose in surprise. "Teach me what? And why?"
+
+"To... to protect you. And so you can protect Triss."
+
+Her expression turned from surprise to confusion, and then to suspicion. "Is something wrong, Cadey? Are you not telling me something?"
+
+"What?" I blinked at her.
+
+She frowned a little, then shook her head. "Nevermind. What do you want to teach me?"
+
+"Some of the thaumaturgy I've picked up in the Academy."
+
+"I heard the training was particularly intense this term. I didn't specialise in thaumaturgy, but I still think I may know more than you at this stage," she said gently.
+
+I flushed a little, realising how presumptuous I must sound. "Uhm, yes, probably. But... just humour me? Can I... can I test some things with you?"
+
+My mother was now looking at me very strangely. "I don't see how we can do that here without bringing the house down or messing up your father's workshop. Won't you just tell me?"
+
+"Okay. You know when producing arcanic bolts, they manifest from your body as a point of origin? Well, can you make it manifest from somewhere else?"
+
+In answer, my mother gestured behind me. A ball of arcana manifested there and leapt to her outstretched palm.
+
+I gaped at her. "Does this mean... can you sense the arcana around you, then?"
+
+"Yes, I can. It's something all arcanists develop, though to varying degrees." She smiled at me. "I'm pleased to know you can. Not many people pick it up in their first year, let alone their first term."
+
+"But then," I rushed eagerly on, "does that mean you can sense... uhm... constructs in the arcana, too?"
+
+"Constructs?" She looked confused. "You mean arcanic signatures of artefacts and other people?"
+
+"Kind of, but not them. I mean, have you... can you... speak through arcana?"
+
+Her eyes widened. "Can you?"
+
+"I... yes. You mean... you can't?"
+
+"I've read of it, certainly, but it's not something I've managed. Nor is it something we're really taught in the Academy." She looked very interested now. "How did you pick it up?"
+
+I faltered. I had assumed that being able to sense the arcana around you would mean that you could also speak through it, and also pick up the presence of the augera. But for some reason that didn't seem to be the case, and I wasn't sure if I wanted to drag my mother into the whole mess with the augera by telling her about it.
+
+"I... it's hard to explain."
+
+My mother gave a wry smile. "Yes, I can imagine it must be. Well, you think about it, and tell me when you think you've got a handle on it. I'm very interested to know."
+
+She gave me a quick hug and went off to get started on dinner, leaving me sitting on the couch and weighing yet another decision.

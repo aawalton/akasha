@@ -1,0 +1,165 @@
+---
+id: bb9c24d6-b5a1-53c9-8870-d5d2269c13c8
+page-type-slug: story-chapter-royal-road
+title: "v4c23: Noticed"
+slug: 0032-v4c23-noticed
+partOf: beware-of-chicken
+position: 32
+ownLength: 2107
+unit: words
+ownProgress: 2107
+publishedAt: 2023-07-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1272349/v4c23-noticed"
+royalRoadId: "1272349"
+markedReadAt: "2026-06-29T18:52:26.440Z"
+---
+
+A great, vast consciousness began to coalesce, chasing something it hadn’t felt for a very long time. It was the work of nearly a month to reach this far, even as it felt pull of the being who gave thanks every day.
+
+It moved slowly, sluggishly, for pulling itself together from thousands of Li away was a great task. Normally, a lesser spirit would have handled this—a garden spirit or perhaps, at most, the Spirit of the Shrouded Mountain. Lesser existences, part of a greater whole that aided in regulating the Great One’s Dragon Veins, in accordance with Natural Law.
+
+This was different.The touch demanded attention, for there was something almost familiar about it.
+
+At first, the Great Consciousness was confused when it tasted the pure and earnestly offered Qi. Why would this tiny thing grant the power it hoarded without reward? This one was not eligible for the path, for the greatest and most important of contracts. The spirit could feel the supplicant’s soul. Taste that he still desired his long life, and he still reached for power beyond the scope of the Earth.
+
+Yet… he gave. Without return, he sought harmony. Not power, not dominion. Connection. Communion.The first steps of the Contract. It was almost nonsensical… but it was also intriguing. So the Great Consciousness completed its journey and watched as the little one moved—appreciating the love this little one was showering it with.
+
+The little one exalted in his work, meditating while moving and tending to his charges. He was so small and cute and earnest—but a question gnawed at the Great One, what was this familiar feeling that the little being exuded. Puzzled, it pulled more and more of itself together… until a mass of it began to congeal.
+
+It needed to think, and a head was good for thinking, no?
+
+The mass of Qi grew a head. A body followed that, then limbs, then clothes, until there was at last a woman standing on top of a mountain peak deep underground, everywhere and nowhere at once.
+
+She was statuesque, like the great Howling Fang Mountains themselves—she would have towered over most men by hand lengths. Her silver hair was done in the most popular style of the village girls here, braided and covered by a handkerchief. She wore  noticeably thick clothes, built to ward off the chill along with her red, fur-lined cloak.
+
+The Howling Fang Mountains, opened slate gray eyes that held points of twinkling light within them: gold, silver, and every precious stone under the sun. Majestic, stunning, and foreboding all at the same time, her face held an unforgiving sternness to it. Long ago a dear friend had helped the Spirit find herself. And she had given the Spirit her name, Jiguang— the Aurora of the north.
+
+From her place atop the underground mountain Jiguang looked up and considered the young man, this time with actual eyes. Her discerning eyes saw his physical body in the material plane overlayed with a vision of part of his spirit within her domain. She briefly contemplated pulling the man fully into her world so that she could get his measure, but decided against it for the moment.
+
+She searched his feelings and his intent, and was surprised awake now to confirm what had drawn her here. Again, he held nothing but praise in his heart, giving of himself freely. Within him she found humble joy in the beauty of the Earth.
+
+It had been a very, very long time indeed, since she had felt this last.
+
+The spirit blinked. “The Breath of Life?” she whispered. The technique required a deep understanding of the cycles of the world. Of the moon and the sun, and even the invisible breath of each province and the planet itself.
+
+His breath was slightly off—not timed correctly with hers, but the fact that he had even gotten this far on his own was… unprecedented.
+
+He was interesting. Very interesting. It was almost a shame that he was not ready to turn to her path. It had been ages since her last dear friend had passed and completed the contract. She looked at him and sighed, tasting his power. The light of the moon, with undertones of the sun and a small, almost invisible strand of gold—
+
+Jiguang’s eyes widened in shock. She knew this gold!
+
+It was a fragment but she knew this strand of power— .
+
+The Azure Mountains—now Azure Hills.
+
+Jiguang felt grief well within. Her fellow disciple, her sibling, lost long ago. All of them were created as they were by the Great Ancestor Shennong and the World as part of his dying will, a safeguard against the beasts that stalked the space between worlds—so they could not eat the world entire in one swoop as they had so many others.She felt a spike of murderous rage well within her. How dare this disgusting creature hold within him part of her fellow disciple’s corpse. How had he come by it?
+
+His Qi was close. So close. He had delved too far in his actions, and now… now he was within her reach.
+
+She cursed herself. Without a Connected One, she was slow. Glacial. Her Qi tied up elsewhere, and even if she threw all her power against this bastard, there probably wouldn’t be enough of it here to slay him.
+
+Perhaps though she could tease out that strand of gold. The little piece of her sibling. He was connected deeply enough that that may have been in her power.
+
+She grabbed it, to pull it out, to rescue what little remained of Azure Hills—
+
+A forehead slammed into Jiguang own, followed by the sound of a voice she had not heard in eons spewing expletives at her for daring to touch what was hers.
+
+Jiguang staggered backwards at the intense feelings within the gold.
+
+The spark was alive, given willingly.
+
+Strong motions swirled within the spark. Warm fondness and caring. Too fresh to mean anything else but…
+
+Jiguang sat there for an eternal moment. Pondering.
+
+She would have to check herself. The Dragon Veins connecting The Howling Fang Mountains to the Azure Hills were still sundered and ripped apart. Some by whatever had happened when the locusts had ruled the land, and some by herself—a preventative measure to stop her own Qi from endlessly draining into a bottomless pit.
+
+It would be the work of months to check those veins, to see if the drain was still present… but Jiguang could not deny the truth in front of her.
+
+The Azure Hills lived. Still alive, despite the devastation. More she had done what was not to be. The Hills loved this little mortal enough to disobey their Master.
+
+The sun rose as she pondered, and the young man kept up his steady, kind work, never once stopping or resting. He clearly loved every moment of his work… but his breathing was still off. Not quite there—but the fact that he was already improving was fascinating.
+
+She pondered his work for another moment, before coming to a decision. Though unaware he had done her a great service in inadvertently giving her this information.
+
+And that… that demanded a boon. Jiguang would not go beyond the will of Shennong but a little nudge in the right direction would balance the scales. She would insure he would not remember her when he awoke from his trance.
+
+She reached up and pulled him further into herself so she could give him proper instruction. The little wisp that was in her world became more and more solid… and then Jiguang froze, her mouth open.
+
+She stared at the man’s spirit form. His soul, his true appearance.
+
+She stared. And stared. And stared some more.
+
+“A chicken?!”
+
+================================
+
+Zang Zhong was in a good mood when he finished his meditations that morning. He had successfully suppressed his cousin again—and lorded it over all his lessers.
+
+Truly, it had been a wondrous party.
+
+He would even forgive Bi De for fraternizing with his cousin, in return for the idea with the herbs. Besides, even though his watchers hadn’t heard what they were talking about, Bi De had obviously charmed them… and then ignored their advances.
+
+Really, the man had insulted Fengfeng by not even accepting her invitation! Perhaps Bi De’s proclivities were to the other side of things?
+
+Zhong shrugged. He didn’t really care. That just meant more women for him. All that mattered was that Bi De would continue to be suppressed under his thumb, aiding him while not achieving anything himself, and everything would be perfect.
+
+He decided to walk through his garden, just to complete his wonderful mood. The sun was well risen and shining down. It was sure to improve the appearance of the Five Colour Dew Herbs that were left. With a grin, he opened his back doors and strode into his garden with a smile on his face. His resources were flourishing and they would soon be able to be refined, to further assist his rise.
+
+He noticed movement, out of the corner of his eye, and a flash of red hair. It seemed his servant was already doing his job. Zhong smiled.
+
+He would just needle him slightly today. He was a kind and magnanimous man—
+
+Zhong froze when he came across Bi De.
+
+Bi De was moving and meditating at the same time… and he was restoring his Qi from the air itself.
+
+Zang stared blankly at Bi De’s sheer efficiency. Zang could get perhaps a tenth of the benefit that Bi De was out of the air—his body simply couldn’t use such miniscule quantities. If he had to recover his Qi in an emergency, he would have to tear it out of the plants and wither this entire grove. All that would be left would be husks, husks that would take years to regrow.
+
+And even then he wouldn’t have been able to use all of it. He would have had to discard most of it, unable to convert it into anything useful.
+
+Bi De was using everything. The wood, the water, the earth, the metal, and the fire. Each breath he took extracted everything, and lost him nothing, while somehow not disturbing the world around him.
+
+It was as if he was subsisting off air alone, as those in the upper end of the Sky Realm could. They did not need to eat or drink for decades at a time, even centuries if they were deep into their meditations.
+
+And Bi De was doing it while moving. While moving and gardening—he was growing his power.
+
+Zhong felt his eye twitch.
+
+He was supposed to be suppressed.
+
+Something spasmed inside of him. He felt a bit of blood trickle from where he was biting his lip, and he felt slightly lightheaded.
+
+Zhong—Zhong needed to meditate.
+
+To recover his equilibrium.
+
+He marched back inside, his good mood well and truly ruined.
+
+===============================
+
+“Your services are no longer required,” the head servant told Bi De. “The Young Master will be entering two months of seclusion, and all nonessential servants are banned from his presence.”
+
+Bi De nearly scowled. Just as he had finished the garden! “I see—wait. He’s not to be disturbed for two full months? Is he not the head of the Inner Disciples?”
+
+“Of course he isn’t to be disturbed for the entire time—be grateful he is so skilled that he merely has to cultivate for two months! I swear, you peasants don’t know how true cultivation works,” the head servant scoffed.
+
+… that is very inefficient, Bi De thought to himself. He wondered what had prompted the sudden change in the man.
+
+Well, he would have to go and see the rest of his companions and share with them his knowledge—as well as his new breathing technique. It was most effective!
+
+He took a deep breath of the pure mountain air. It was incredibly refreshing.
+
+Despite the removal of his garden, he was in a pleasant mood as he wandered down the mountain. He hoped his fellow disciples were having similar luck.
+
+===============================
+
+Yun Ren stared at the masked and veiled people surrounding him as he sat at a desk in an underground storage room.
+
+He had had a bad feeling ever since the dude who was sitting across from him told Yun Ren to follow him for another job.
+
+“So… uh, what’s this all about, if ya don’t mind me askin’?” Yun Ren said cautiously. ”This ain’t some demonic cult, or a weird sex thing, right?”
+
+All of the veiled men just kept staring at him.
+
+Yun Ren swallowed thickly.

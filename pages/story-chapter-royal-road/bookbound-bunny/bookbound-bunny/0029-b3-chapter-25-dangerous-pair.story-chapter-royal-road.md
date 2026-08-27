@@ -1,0 +1,193 @@
+---
+id: 448ecfb0-272f-5509-a2bc-0702ebf286f4
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 25 - Dangerous Pair"
+slug: 0029-b3-chapter-25-dangerous-pair
+partOf: bookbound-bunny
+position: 29
+ownLength: 2232
+unit: words
+publishedAt: 2026-04-04
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3230025/b3-chapter-25-dangerous-pair"
+royalRoadId: "3230025"
+---
+
+Lotte sighed to herself as she saw Thomas unveiling some new type of magic. Attempting to keep up with Lily was already exhausting enough, which Lotte had attributed to her just being an abnormal prodigy, and that was before you took into account whatever the book was teaching her.
+
+Thus, Lotte had mentally written off trying to keep up with Lily and instead focused on comparing herself to her other friends, since that seemed a more realistic goal. Yet Thomas was somehow always maintaining his upper hand and was suddenly unveiling some new type of lightning she'd never seen before!
+
+I know Lily gave him a scroll from the book, but still, this is too much! I can't fall back on ordinary water or earth spells, and my bloodline seems to never want to play ball. Even this spell I'm trying right now, I had to wrestle endlessly with it just to get something workable.
+
+Lotte sighed again, shaking her head and looking at the approaching monsters. None of them had fired off a spell yet, as they were waiting for them to get within accurate range. As the monsters came closer, they could finally see what they were.
+
+If Lotte had to ascribe one type of animal to these strange winged creatures, it would be owls—mutated and extremely freaky owls, but still owls. Some looked like they were partially catlike, while others looked like they'd come straight from a wolf den, and she could've sworn that some even looked a little reptilian in nature.
+
+I don't know where Alice found these abominations, but soon it won't matter!
+
+"I'll start on the left side, you take the right, and we can meet in the middle!" Lotte declared.
+
+"Affirmative!" Thomas replied, and the strange buzzing hum got louder.
+
+Lotte pulled her arms back, as if preparing two punches. The serpent apparitions coiled tightly around her arms, almost like tightly loaded springs. When she thrust her arms forward, these spells were unleashed, accompanied by an intense, almost bloodthirsty, hissing noise.
+
+The pair of ghostly snakes was a bright fluorescent green that just screamed toxic, and was far larger than anything Lotte had cast previously. This was the best solution Lotte could find to deal with a horde of monsters, without risking poisoning her friends and the nearby surroundings.
+
+I really wanted an exploding poison, something like Lily's stars, but maybe that can come later…
+
+These large serpents could be loosely controlled and would attempt to "swallow" their targets as they passed through them. The act of devouring their target was purely a magical representation, however, and the snake would continue until the monster exited through the tail end of the spell.
+
+That was when the magical affliction was truly applied, and a portion of the serpent apparition would be spent, leaving behind the poison on the monster. This was represented by the tail of the snake getting shorter, with the final charge of the spell being consumed when the snake was only left with a head. However, from the brief testing Lotte had done so far, this final dose of magical poison was the strongest yet, so she was rather pleased with what she'd managed to accomplish.
+
+Of course, nothing was stopping her from having the snake attack the same target multiple times, which would amplify the affliction with each passing. This was a happy side effect, though, and Lotte was more elated that she finally had a solution against multiple enemies.
+
+Although once they are poisoned, you need to wait until they die. It's sadly not as straightforward as my original spell.
+
+Lotte directed the two snakes to start swallowing the strange, mutated owl monsters, which gave her a bit of a headache. She'd wanted to show off a little, but now she was realizing how hard it was to not only maintain but also control two spells at once.
+
+Lily and Thomas both had made such things seem simple, and Lotte had had no trouble maintaining her petrified scale spell while still attacking. But it was too late to whine about it now, so she just continued to do her best while loosely attacking as many monsters as possible as each snake grew shorter and shorter.
+
+That was when the buzzing noise had reached its peak, and Lotte briefly glanced over to see Thomas making a pointing gesture like he was attempting to pull the trigger on a crossbow. Between his index and middle fingers, both pointing outward, was the cyan-blue lightning, and when his ring finger twitched, it fired.
+
+Thomas' lightning spells were always flashy and loud, with extremely destructive effects, and Lotte had reasoned this was why he'd chosen it as his focus. This new spell, however, was almost the opposite of that, as rather than a forked column of lightning, it shot a small jolt that would've been hardly noticeable if not for the darkness of the night and her still active Magesight.
+
+The spell hit one of the owl monsters, and it suddenly seized up, its body convulsing as it plummeted to the ground. Lotte wanted to gasp at the result, but she knew it hadn't outright killed the monster.
+
+But the fall might! She quickly realized.
+
+If Thomas' chanting had only fired one shot, Lotte would have written off the spell as "cool but impractical," yet from what was happening between his fingers, he wasn't done yet. The buzzing hum had lessened, but it seemed to be growing louder again as he was quickly chanting under his breath.
+
+A rechargeable spell!?
+
+Lotte was shocked, almost as badly as the owl Thomas had struck, but recovered quickly and returned her focus to more important matters. Thankfully, her momentary lapse in judgment hadn't caused her serpents to soar out of control, and the rather mindless assault from the dungeon monsters meant that they weren't actively trying to dodge.
+
+Not wanting to be outdone, she began directing the two snakes almost like she was conducting an orchestra, with her arms waving wildly. Each time one of the snakes would pass through a monster and leave behind its tail, and she'd find a fresh new target.
+
+What was extremely unexpected was that her Magesight was actually helping her find new targets! Whenever one of her snakes poisoned one of the monsters, she could see the afflicted Mana remain on the monster.
+
+Meanwhile, Thomas kept firing out these jolts across the sky, each time sending one of the struck monsters plummeting. It felt like a bit of a race against time, but when Lotte's first victims started falling too, succumbing to the poison, she couldn't help but feel like they'd achieved victory.
+
+Soon, one by one, the monsters kept falling. Both of them were practically cheering, their morale soaring at such a tremendous victory. Lotte directed her final two bites toward the few remaining in the middle, causing the pair of monsters to fall almost instantly upon the spell's expiration.
+
+"It's a good thing these flying monsters seem quite frail," Lotte chuckled.
+
+"Yes, I don't think any of them have survived the fall," Thomas speculated. "We can go check later."
+
+"Us? Why not send our Familiars?" Lotte suggested.
+
+Having already made her decision, she summoned Jade below the wall. This was something almost everyone had quickly discovered: you could control their arrival point within a reasonable distance, and it was perfect for situations like this.
+
+Otherwise, I would have to chuck her off the wall. I know Jade is a bit… Rotund, but I don't think she can bounce.
+
+Giggling to herself, Lotte pointed at where the owl monsters had started to fall. "Jade, there's food over there! Monster meat!"
+
+The previously confused green lizard's eyes sparkled, and it charged forth into the distance, triggering quite a few of the light runes that Lily had prepared for any invading monsters.
+
+Lotte sighed at her clumsy Familiar triggering far too many, but figured that Lily wouldn't mind redrawing them. Plus, it looked like flying monsters were how Alice was planning on attacking them.
+
+Although she might change her mind after seeing this, ha!
+
+Thomas had also summoned Yona at this point, except the cat had appeared on his shoulder, apparently refusing the command to appear where he indicated. Lotte could hear Thomas sighing in frustration.
+
+"There's food over there, you better hurry before Jade eats it all," Thomas said, sounding very tired.
+
+"Mrawr!" Yona yelled and jumped off not only Thomas' shoulders, but also the wall.
+
+Both of them gasped, but to their surprise, Yona landed on her feet entirely unharmed. She then began scampering towards the trees with a haste that they'd never seen before.
+
+At this point, the last few poisoned monsters had plummeted, and Thomas was beginning to discharge the spell that was arcing between his fingers. Lotte could tell, thanks to her Magesight, that it had almost run dry, and Thomas was not in great shape either.
+
+"We actually did it…" Thomas sighed with relief.
+
+"Of course, did you really think we couldn't?" Lotte asked confidently.
+
+"I'll admit I had my doubts…"
+
+Lotte chuckled, but then remembered there was still one oddity of the night. "The eyeball!"
+
+Thomas flinched, also realizing that they'd forgotten about it. The two frantically scanned the skies and finally spotted the purple floating eye. Whatever it was, it was evidently magical, as without their Magesight, they couldn't spot it.
+
+"Is it just watching us?" Lotte asked.
+
+Thomas paused for a moment and then nodded. "Perhaps this is how the professors have been observing us?"
+
+As if prompted by what he said, the eyeball blinked and then began to float off into the horizon. The two glanced at one another and shrugged, as there was nothing either of them could do to harm it, judging by how Lotte's spell had failed.
+
+The two waited for a bit, and eventually their Familiars made their appearance, with Jade looking chunkier than usual. Yona also looked smugly satisfied, yet her stomach didn't even bulge.
+
+What a strange cat…
+
+"Well, you'd better head to bed then, you're well past your shift," Lotte said with a grin.
+
+Thomas nodded. "You don't have to tell me twice… I feel like I'm running on fumes."
+
+"Guess your new spell takes a lot out of you?" Lotte asked.
+
+Thomas looked at his right hand, which had been the focal point of his spellcasting, and nodded. "It's a good thing we were fighting flyers… If there were that many ground monsters, I think I would have run out of juice long ago."
+
+Lotte nodded in agreement and, after waving Thomas off, took her usual seat to sit out her night watch. She chuckled as she watched Jade attempting to clamber up the stairs with incredible difficulty.
+
+"I wonder what Lily will think when she hears about this," Lotte suddenly thought.
+
+***
+
+"You two did what?" Lily cried out in surprise.
+
+"Fought off a swarm of flying owl monsters," Lotte answered, a mischievous smile creeping on her face.
+
+"Why didn't you wake me up?" Lily demanded.
+
+"You were asleep like a log, not even Thomas' lightning could interrupt your beauty sleep," Lotte answered.
+
+Lily couldn't believe what she was hearing and, unable to find a response, began pouting.
+
+"I didn't use my normal lightning, I just paralyzed them, and they died when they hit the ground," Thomas answered, hoping to calm Lily down.
+
+"Yeah, and I poisoned them, and they fell, so it wasn't much of an attack," Lotte chimed in nonchalantly.
+
+Lily's pout increased severalfold.
+
+"There really weren't that many monsters…" Thomas coaxed.
+
+"Then why did the two of you handle it without me?" Lily asked, refusing to let her pout level drop.
+
+"They just happened to attack while we were changing shifts," Thomas answered.
+
+Lotte bobbed her head in agreement.
+
+Lily frowned. "But…"
+
+"But…?" Lotte asked.
+
+Lily sighed, feeling a bit of her reluctance fading. "I wanted to use my new glyph…"
+
+Lotte and Thomas peered at one another, both looking a little awkward now.
+
+"Sorry… Maybe you'll get to use it next time?" Thomas suggested.
+
+"I promise I'll wake you up if they attack during my next shift," Lotte added.
+
+Lily nodded, easing up a little more. She knew she should've been happy and celebrating with her friends, but she'd been looking forward to finally testing her preparations.
+
+"On the positive side, the Magesight that you taught us was basically the star of the show!" Lotte said cheerfully.
+
+Thomas nodded in agreement. "We wouldn't have noticed the attack as early as we did without it."
+
+"And it let me see which monsters I'd already poisoned!" Lotte added further.
+
+"Well… That's good at least…" Lily replied.
+
+"Also, we think we spotted the professors," Lotte suddenly continued.
+
+"What do you mean?" Lily asked curiously.
+
+"We saw a purple eye watching us right when the monsters attacked," Thomas explained.
+
+Lily's eyes went wide. "Did it do anything?"
+
+"No, it just watched and then left when the monsters ran out," Thomas answered.
+
+Lily sighed with relief.
+
+Lotte snapped her fingers, as if just remembering something. "Oh, I did try attacking it, but my spell went straight through and did nothing."
+
+Lily didn't know how to respond as she just stared at Lotte in bewilderment. Of all the ways that her Magesight was going to be revealed, she hadn't expected this to be how it went down.

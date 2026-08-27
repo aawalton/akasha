@@ -1,0 +1,135 @@
+---
+id: b3e984f5-71df-5ba6-b656-3f15300bc2f2
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 53 - Glyphs for Everything"
+slug: 0057-b3-chapter-53-glyphs-for-everything
+partOf: bookbound-bunny
+position: 57
+ownLength: 2357
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3532809/b3-chapter-53-glyphs-for-everything"
+royalRoadId: "3532809"
+---
+
+Lily didn't need to wait long for her next Hearthcraft and Household Charms class, as it was just around the corner. The lesson proceeded without much change in affairs despite the upcoming festival, with Professor Melina having the students solve various household issues with simple applications of magic.
+
+While lots of little spells of various elements had their chances to shine, the heavy lifter was undoubtedly the telekinesis spell, and Melina was determined to get them to handle multiple simultaneous instances of the spell.
+
+Arakil continued chiming in with his occasional praise, though it was significantly diminished compared to the first time he saw her. Lily had tried teasing Arakil about his small outburst of "love," but it seemed to have no effect on him. He was really just enamored of the pursuit of magic through dedication, and Melina happened to be the one who best embodied that practice.
+
+Professor Sylwel might have fallen into that category, too, if not for his reckless usage of transmutation magic. Arakil actually seemed to believe that one day, her professor would suddenly vanish from the world due to an unfortunate mishap.
+
+Even though Lily had glyphs on her mind, she thoroughly enjoyed the simple telekinesis spell. Despite its restrictions and quirks, the ability to move objects was something anyone could appreciate. For Lily in particular, it gave her the option to convert brains into brawn, at least for repositioning furniture. Usually, someone like Rose would need to move something like her bed or cabinet, but now she could handle it herself with a few gestures or words, and a bit of Mana.
+
+Pretty much all of the students in the class had noticed gradual improvements to their spells. Things were slightly faster, more efficient, and they could handle a small handful together. Word of this had spread to other kids, and requests to join the class had soon followed, only to be rejected due to capacity. Lily was very grateful that she had followed the valuable hint that Beatrice had dropped during her introduction.
+
+When the class finished, and the students began departing, Lily quickly told Thomas that she was sticking around to ask the professor some questions and not to bother waiting for her. He nodded and waved goodbye with zero resistance. Lily felt like he must have had a lot on his mind, probably trying to catch up in the dungeon.
+
+"So Lily, what can I do for you?" Professor Melina asked, seeing the girl not racing to leave.
+
+"Headmaster Fabrelis said I should speak to you about glyphs," Lily explained, then quickly added. "After class."
+
+Professor Melina let out a soft chuckle and gave a nod. "Well, if the headmaster suggested it, I certainly can't turn you away. What can I help you with?"
+
+Lily gave a brief rundown of what she was trying to do. She had been using glyphs in her own room for convenience and wanted to expand that further. The professor seemed surprised, yet at the same time, also appeared to have heard this already. Lily suspected she might have heard some of the rumors floating around about her activities.
+
+Naturally, the professor asked for a quick demonstration, and Lily complied, drawing a quick warming glyph in the air. Melina appeared genuinely astonished, even going as far as to poke the glyph with her fingers and tracing it in the air.
+
+"Remarkable, I've never seen anything like it," she admitted.
+
+"Oh…? It's just a simple glyph to make a room warm."
+
+Melina chuckled again and shook her head. "I meant this floating creation, not the glyph itself."
+
+To emphasize her point, Melina reached under the cushion of one of the couches, pulled out a thin piece of wood, and handed it to Lily. On it was an extremely simple glyph, bordering on being demoted to a rune, and it was very much the same as what Lily had drawn.
+
+It looked vaguely similar to the warding charms Melina had taught them to carve for the dungeon. But while those required particular types of wood, this seemed to be just plain ordinary, mundane even. In fact, her Magesight showed that only the drawing itself had Mana, leading Lily to almost believe it was inked.
+
+"I drew this by burning into the wood. If you touch it, you should feel the grooves," Melina explained.
+
+Lily did so, and as she traced it, she felt the faint markings scored into the wood. Melina went on to explain that she did this by controlling a tiny flame on the tip of her finger and using it to draw. It had started as something she did to practice her control, but later, she realized it was leaving behind barely enough Mana to function as a rudimentary glyph.
+
+"Is this something you eventually teach?" Lily asked.
+
+Melina shook her head. "Not exactly. A few others have tried, but unless you have an oversized amount of Mana you are focusing down, it doesn't work. It would be far simpler to just use a blood glyph."
+
+Lily winced.
+
+"Not that you need it, looking at this," Melina said, pointing at her floating glyph. "What you're holding is barely enough to keep the cushions warm, while yours could warm this entire room, if I'm not mistaken. It seems to be, at the very least, on par with blood glyphs."
+
+[Better, actually. Or at least it will be.]
+
+Arakil's timely addition allowed Lily to smile with relief. She was still somewhat concerned that blood glyphs would hold some advantage over her own, other than their ease of use, but Arakil had nipped that doubt in the bud.
+
+Melina and Lily continued to chat about glyphs and how Lily was using them to live her magical life. Having now seen the floating glyph for herself and experiencing it, the professor could now better advise Lily and throw in her own suggestions.
+
+Professor Melina was actually rather thrilled about the idea of spreading household magic around Regarth, as at present she could only maintain her own home. Warming and cooling were the obvious, but it would be possible to use glyphs to keep paths neat and tidy, plants watered, and even students dry.
+
+Lily had ideas of her own, but Melina always seemed to suggest something that threw her for a loop. One such case was a magical footbath, something that had never even crossed her mind before. Of course, whether these crazy ideas were something the headmaster would approve of was unknown, but now Lily had an inkling as to why some of the professors disapproved of Melina.
+
+Chore magic was one thing, but using magic to soak your feet in swirling warm water is excessively luxurious.
+
+Lily knew that such a use would actually cost nothing, so calling it luxurious was an extreme stretch. But still, even she struggled to see the wonders of magic being used in such a way. She almost wanted to call it crude, as this felt like one step away from trying to use telekinesis to give yourself a shoulder massage.
+
+The wand was also brought up, and Professor Melina asked whether it would work with her. Lily allowed her the chance, as she had with Professor Ollie, but the item drew without substance in anyone else's hands. Melina looked regretful at the outcome, but while Lily felt a little bad, she wouldn't dare to part with the item now.
+
+When I can draw with a finger, I might consider loaning it temporarily… Maybe...
+
+Still, Lily found it an enjoyable experience and thanked Melina for every suggestion. While she was doubtful about implementing some of these ideas across Regarth, nothing was stopping her from using them for herself. She made sure to thank the professor profusely for the guidance, as well as her willingness to supervise the completion of some of these glyphs.
+
+I should include Professor Ollie as well. I don't want him to think I'm going around his back, since he is my enchanting teacher.
+
+As soon as Lily had the chance, she managed to catch Ollie at an opportune time and revealed what the headmaster had suggested, as well as what she'd spoken about with Melina. His reaction to the latter left Lily feeling a little puzzled, as while he didn't seem to have anything against Melina or her chore magic, she did catch some hesitancy about using glyphs in some of her more outlandish ways.
+
+Maybe I should have held back on a few of her ideas…
+
+Still, at the end of the day, Professor Ollie gave his approval and encouragement. Apparently, one of the senior students' projects was to create an enchanted item for the betterment of the school; however, they were always for indoor use, which was why most of the classrooms were in such good condition.
+
+The same could not be said for the grounds outside the hallowed halls; they left a lot to be desired, with the PMC class's facilities being the sole exception. Ollie had wanted to do something about it, but with so few students each year because of the difficulty and a rather slim budget, he couldn't make it a reality.
+
+"But your creations change that," Professor Ollie said, with growing excitement. "There's no need to worry about weatherproof materials that are also capable of Mana enrichment. Not to mention, from the way you describe it, they only cost you time and Mana, it's simply glorious. You could say it's an enchanter's dream, with the world as your canvas."
+
+Lily agreed wholeheartedly and eagerly started moving on to the next stage of her plan. She would start simple; it wasn't the cold season yet, so some refreshing areas near benches were an ideal first target. That only left Lily coming up with a better solution to hide the wand.
+
+[You could ask the headmaster to cast an illusion on it, although that might defeat the purpose entirely.]
+
+"Sadly, that's probably right… What about casting an illusion of my own?" Lily asked.
+
+[I could show you a few simple designs using the illusion crest, but you'll quickly run into the various issues of trying to get the apparatus to cast it on itself.]
+
+"So… It won't work?"
+
+[Not in the way you are hoping. There's also no telling how Fabrelis will act if he sees you drawing glyphs related to his bloodline.]
+
+Lily sighed and went back to the drawing board. Most of the plans she came up with failed or were too noticeable, with her best plan being to use a shadow cloak talisman refined to a small area. Unfortunately, Lily holding a wand-shaped shadow was too out of the ordinary, unless she waited until it got dark to do so, which wasn't practical, as it would break as soon as she started casting with it.
+
+The wand was almost her own enemy to her plans, and it really seemed like her only option was to become better with sleight of hand, as ridiculous as that sounded. Still, Lily wasn't one to give up on something she truly wanted, and she even went back to the beginning to consider something she might have overlooked.
+
+I need to hide the wand in a way that makes people think it's just me. My ultimate goal is for people to think that it isn't the wand that is special, it's me, and the wand was just what led me to find my true ability.
+
+Lily paused, rhythmically tapping her foot as she was lost in thought.
+
+Effectively… What I want is a bloodline. Or, more like I want the world to think drawing glyphs in the air is something my bloodline gave me, not the wand. Nobody else can use the wand, though they don't know why. A bloodline would make sense.
+
+Lily felt like she was on the right track. The rhythmic tapping grew in frequency as her excitement bubbled.
+
+Astral magic is my bloodline. What if I used stars to draw? No, that wouldn't work… Although that's kind of what they do with constellations, so it would at least make a good excuse. But if I covered the wand in Starlight, it would just become an eyesore, which is the opposite of what I want.
+
+It struck Lily like a bolt of lightning. Astral magic might genuinely have the answer she was desperately looking for. Lily turned her head to her arm, which she raised, and with a few thoughts, summoned her Nebula Veil to coat it.
+
+The answer was right in front of me the whole time… Can't I just wear my Nebula Veil, and have it cloak the wand?
+
+Lily let the cloak billow out to its full size, creating a mantle that rested on her shoulders and went down to just above her ankles. Wearing this, Lily reckoned she looked like a proper Astral mage like never before.
+
+Next, she pulled out her wand from her pouch and held it comfortably in her hand. She'd been using it so often lately that it felt just as good as her favorite pen now, something she never thought was possible.
+
+And then I just cover it…?
+
+Lily extended the sleeves on her cloak, making it so her hands were entirely covered, and then still added a bit more. Then she tried drawing and found that, because she could control the Nebula Veil, it posed no hindrance to the gestures she needed to make.
+
+In fact… Rather than just trying to hide it, I could have the cloak add a flourish to my actions, accomplishing the same thing while enhancing the performance!
+
+Like someone dying of thirst finding an oasis, Lily jumped onto the idea with full force. Once she started, she couldn't stop, and soon she was entranced with the idea of using her Nebula Veil as the star of the show in her drawings.
+
+While this was going on, Arakil tried a few times to speak to her, but she was so focused that even telepathy wasn't enough to break her concentration. He eventually gave up and decided to speak to her once she was done.

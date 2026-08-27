@@ -1,0 +1,83 @@
+---
+id: 829131bd-49a0-5393-ab5e-56c001da03f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter ??? - Meanwhile, the sidekicks"
+slug: 0016-chapter-meanwhile-the-sidekicks
+partOf: beneath-the-dragoneye-moons
+position: 16
+ownLength: 914
+unit: words
+publishedAt: 2023-04-01
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/1154408/chapter-meanwhile-the-sidekicks"
+royalRoadId: "1154408"
+---
+
+The realm of the fae connected to all worlds, forming the greatest crossroad in the multiverse. Smart travelers, those who knew the Rules, those who treated the realm with the proper respect such a deadly place deserved, could use the realm to quickly and easily hop between worlds.
+
+Others… others did not.
+
+“BRRRRRRRPT!!!!!!!” Auri screamed as she fled, chased by a flock of pixies. She hadn’t know! This wasn’t fair! It was only two fields of flowers! They were practically begging to be torched!
+
+She ducked and weaved, jumping into another fairy ring, a portal to another world.
+
+A blinding flash of purple light later, and she was bodily thrown into a smokey room. Three other critters were sitting around a table. A plush bunny toy, an orange cat, and a juvenile dragon.
+
+The plushie’s eyes burned with purple flame, its shadows not of a rabbit. Instead it was that of a monster, with tentacles, appendages, and impossible geometry.
+
+“Let’s play together!” It said with a mechanical, pre-recorded voice.
+
+I am She-Who-Feasts-On-Many-And-Collect-Much-Gold! This is a fun place. Much gold.
+
+The orange cat simply stretched, and Auri, in her brilliant genius, realized what this place was.
+
+It was a secret dimension! The Pet Extradimensional Association. Naturally, no taxes would have to be paid.
+
+Yes, yes, it was all Auri’s brilliance that let her figure it out, and nothing to do with the floating blue screen in front of her telling her all that.
+
+“Brrrpt?” She asked.
+
+“Let’s play together!” The plushie said with its mechanical voice. A deck of cards appeared on the table, a perfect perch for the little hummingbird was created from nothing, space distorting and twisting to put Auri at the table with the other three.
+
+Cards were dealt as the rules of the game were forcefully shoved into everyone’s minds. Auri’s flaming body flared up as the knowledge was forced into her head, Orange batted at the air, She-Who-Feasts-On-Many-And-Collect-Much-Gold snapped at the air, then groaned and held her head.
+
+There was a faint scream and distant popping noise as Plushie’s eyes briefly glowed brighter.
+
+“I love you!” It said.
+
+Auri had the sense that whatever had shoved the game rules into her head wasn’t going to bother them again.
+
+The entirety of her life savings appeared on the table in front of her. Arcanite, jade, diamond and ruby coins. Money appeared in front of the others as well. A few gold coins in front of She-Who-Feasts-On-Many-And-Collect-Much-Gold, who promptly grabbed them with a fearful look on her face. She tried to stuff them back into the pouch around her neck, but no matter how she shoved and shoved, they just reappeared on the table in front of her.
+
+Then she got a crafty look on her face, and started to shovel them as fast as she could into the pouch.
+
+Auri shook her beak sadly. There was no infinite gold replication glitch going on. The poor dragon’s brain had been fried by greed.
+
+Orange batted at a pile of gold du-cats that appeared in front of him, while Plushie was practically buried under a pile of paper money.
+
+The deck of cards was shuffled by the magic of the place, cards spun to each of the players. Auri peeked at hers.
+
+King of Diamonds.
+
+Ace of Hearts.
+
+Red! Both were red! The color of flames, of burning, not the dull black of ashes and coal. Both cards were super high value as well! Yes! Perfection! A winning hand!
+
+Auri conjured up a few [Mage Hands], brrrpted in satisfaction, and pushed more of her coins to the pot in the middle. The money was as good as hers!
+
+=================
+
+She-Who-Feasts-On-Many-And-Collect-Much-Gold calculated her cards, and what they meant. This table was tough. Plushie was an enigma, a perfectly blank figure that was impossible to read. Occasionally it flickered, moving positions slightly. She-Who-Feasts-On-Many-And-Collect-Much-Gold had learned to fold when that happened - Plushie always won those hands. It did it rarely enough, and was losing the thin pieces of paper that was its money often enough, that She-Who-Feasts-On-Many-And-Collect-Much-Gold didn’t think victory was impossible… merely, that it was at Plushie’s whims.
+
+Orange was a cat. A pure cat. One that strutted around the table when she felt like it, napped when she felt like it - the rest of them considered her to have folded the hand when it happened - and was somehow accurring a larger and larger pile of gold.
+
+She-Who-Feasts-On-Many-And-Collect-Much-Gold’s gold! Arthur started to get frantic at the thought, but no, no. She was a dragon. It was still her gold, no matter how much it was in front of anyone else.
+
+The phoenix though, she was tricky. She-Who-Feasts-On-Many-And-Collect-Much-Gold still couldn’t figure out if she was brilliant with bluffs, making obvious tells when she had a bad hand and keeping it stone-cold secret when it was a good hand, or if she was simply an idiot who couldn’t calculate statistics and probability when there was gold on the line. She was currently burning brightly, colorful flames popping and sparking a small light show around her. She had a good hand… or thought she did.
+
+The bidding went to Orange, who lazily batted in another pile of her gold. She-Who-Feasts-On-Many-And-Collect-Much-Gold gulped, and looked at her hand.
+
+Not the best. But with this much gold on the line? The chance to add so much to her precious hoard?
+
+What were the chances that a cat had a better hand?
+
+She-Who-Feasts-On-Many-And-Collect-Much-Gold nudged more of her coins in.

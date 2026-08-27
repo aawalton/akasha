@@ -1,0 +1,197 @@
+---
+id: cedce5a5-7f33-56ce-b2f0-4228966cc499
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 60 - Volunteers"
+slug: 0064-b3-chapter-60-volunteers
+partOf: bookbound-bunny
+position: 64
+ownLength: 2308
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3620487/b3-chapter-60-volunteers"
+royalRoadId: "3620487"
+---
+
+While Ollie was busy fetching some additional helpers, and Sylwel was brewing up more glyph ink, Lily was quietly drawing the agreed-upon designs. Of course, while she was silent to anyone observing, she was secretly conversing with Arakil about the new ink at their disposal.
+
+[If our Fairymoss ink was a ten, and your imbued ink is currently a fifteen, then this Witchlight ink would be a thirty, maybe even a thirty-five if you drew thicker lines.]
+
+{So it's double… Is that enough for inscriptions?}
+
+[Barely and only if you stick to crests of a unified element, and no, that doesn't include crystal with earth or water feeders.]
+
+{Still… Upgrading my talismans to inscriptions is a big step up.}
+
+[Inked inscriptions are usually called scrolls, but yes. However, even if you don't resort to inscriptions, your glyphs will have a lot more Mana to work with.]
+
+Lily mentally took note to call them scrolls in the future, although she knew that, unless she created her own ink, they would only be usable during dungeon exploration. If she wanted to use this new ink in tests or competitions, she would need to make it herself.
+
+{You said my imbued ink is fifteen now?}
+
+[That's correct. Your Mana Core has grown considerably since we last quantified your ink quality. If you further improved upon your imbuing technique, you could probably reach twenty in a reasonable amount of time.]
+
+Lily sighed as she couldn't even imagine making those spirals any tighter. The other option was to have the Mana flow more gradually, but she couldn't even imagine how slow it would have to go to jump from fifteen units of Mana to twenty. Her time was valuable, and she just couldn't justify spending that much of it for some slightly better expendable ink.
+
+{Can I not draw something like a Mana-gathering array with my wand and imbue the ink that way?}
+
+[Yes and no. The idea is sound, though using an array rather than guiding it personally risks contamination from ambient or residual Mana. Of course, we could include several additions to filter out those factors, but doing that would be jumping your education ahead several years.]
+
+As much as Lily wanted to say she could handle it, common sense finally caught up to her. There was no point trying to run when you were still learning to walk, especially when her plate was already far too full.
+
+{It's a pity we didn't have the time to try this ourselves… I would have liked to try experimenting myself. You even said the mental landscape could help.}
+
+[Well, nothing is stopping you from doing it in the future. Your professor demonstrated alchemy techniques you've never seen before and ingredients neither of us had ever heard of. Also, if we spotted something in the dungeon that was rich in Mana, I would have said something.]
+
+Lily nodded. They had found a few resources laced with Mana, but none of them compared to Fairymoss and especially not this new Witchlight Sporecap that Sylwel had provided. It seemed that until they went deeper and found rarer ingredients, it wasn't worth fretting over.
+
+Professor Ollie eventually returned, and with him were three other students. Lily only recognized one of them, Ryan, the human who had almost drawn a working crystal inscription, and this time she noticed his warmer attire, as Arakil had previously pointed out.
+
+Since this doesn't involve the crystal inscription, it doesn't matter if he sees me now.
+
+The other two were a boy and a girl, both of whom seemed older than Ryan. The girl was as thin as a rake, while the boy was the complete opposite, with bulging muscles and standing several heads taller than even the professors. It made Lily wonder if Ollie had brought the wrong student.
+
+"Oh, have we got more volunteers?" Sylwel said, noticing the extra people.
+
+"These are three of my best students," Ollie said proudly. "Ryan here is a third year going for general enchantments. Gwen is in her fourth year and is focused on tailoring. Finally, we have Duncan in his fifth year, who specializes in forging."
+
+"Forging? We're drawing delicate glyphs here, not smashing things with a hammer," Sylwel replied bluntly.
+
+"You try etching into metal and see how difficult it is," Ollie scoffed. "It requires precision and control the likes you've never seen before!"
+
+"Fine, fine, as long as they don't screw up," Sylwel said and returned his focus to his brewing.
+
+Professor Ollie looked like he wanted to say more, but the awkward glances from his three students, especially Duncan, made him keep his mouth shut.
+
+They probably have never seen the professor explode like that before. But he seems to lose all reason when he's interacting with Sylwel.
+
+"Sorry about that, try to ignore him," Ollie said to his three students.
+
+"Don't worry, Professor Ollie, I have a friend in alchemy, and I've heard the stories," Duncan said with a shrug.
+
+"More importantly, who's this?" Ryan asked, gesturing at Lily.
+
+"I believe she's one of the first years in Maranix," Gwen replied.
+
+"Sorry, sorry, introductions. This is Lily, and yes, she's a first-year student in my class."
+
+"And my class!" Sylwel chimed in, although his gaze was still honed in on the bubbling cauldron.
+
+"First year…?" Ryan asked with a slight frown.
+
+"She had experience with glyphs before coming to Regarth, so Headmaster Fabrelis requested that I let her join the second year class," Ollie explained. "I'm certainly glad that I did, or there's a good chance none of us would be here today."
+
+The trio seemed very curious now, and Lily took the silence to finally greet them.
+
+"Hello! Nice to meet all of you," she said politely.
+
+"Pleasure to meet you, little one," Duncan replied with a big, friendly grin on his face.
+
+"Nice to meet you, I'm glad Maranix finally has another up-and-coming enchanter. If you ever decide to take tailoring, feel free to reach out to me for some tutoring," Gwen offered with a wink.
+
+"Don't be like that, Gwen. There are other enchanters in Maranix," Ollie interjected.
+
+"Not good enough to be brought here," Gwen whispered with a soft giggle.
+
+"Hello," Ryan said, with no further comment.
+
+"Great, now to bring all three of you up to speed, we will be drawing glyphs for the upcoming festival, and trust me, this will be worth your time," Ollie said with a slightly mischievous smirk.
+
+The three were evidently curious, and that was when Ollie handed them one of the proposed glyph designs. The three quickly studied it, and Lily watched their faces go through various expressions.
+
+"Why are there so many restrictions?" Ryan asked.
+
+"Perhaps we are working on a budget?" Gwen suggested.
+
+"Or an item with poor Mana conductivity…" Duncan added.
+
+"Close, but not quite," Ollie said and gestured to Lily, or more accurately, the pot of ink she was using.
+
+"Glyph ink…?" Gwen whispered.
+
+"Is this a history lesson?" Duncan asked, his eyes flashing with excitement.
+
+"You could call it that," Ollie chuckled and then gave the three students a summary of what had transpired.
+
+Lily tried to catch their reactions, but she was midway through a drawing and needed to complete it. She did throw glances at them, and a few times caught them doing the same to her.
+
+"I see! So you two professors have gotten together to modernize ancient glyphs?" Duncan asked excitedly.
+
+"While I'd love to take credit, the original idea came from Lily here, who was drawing glyphs with ink made from Fairymoss," Ollie admitted with a faint smile.
+
+"Fairymoss? Isn't that for headaches?" Gwen asked.
+
+"Headaches?" Ryan asked in return, looking extremely confused. "My dad used to feed it to me when I overexerted my Mana as a kid."
+
+"For demis, it cures a headache, for humans, it's a poor man's Mana potion!" Sylwel shouted, still not removing his gaze from his concoction.
+
+"That makes sense. It would be notably cheaper if it only worked for humans," Duncan nodded. "I admire that. I've done the same with repurposed scrap metal when testing out new enchantments. Still, though, I'm surprised to hear you'd even bother with such an obscure method when blood glyphs are a thing."
+
+Lily visibly shivered, and Gwen was the one who caught it. "Looks like she's squeamish. So it was probably to find something other than blood."
+
+Lily silently nodded.
+
+"Of course, while blood is easier and notably more potent, it's innately restricted to its user," Professor Ollie chimed in. "We want something usable without restriction, but at a fraction of the cost of a magic tool."
+
+From there, Ollie explained Sylwel's plan to have the glyphs mass-produced for use in the alchemy competition. The trio seemed quite excited by the explanation, and all of them eagerly agreed to join in and provide the help needed, and more importantly, the reward offered.
+
+"I wish I had something like this a few years ago…" Duncan murmured and turned to Ryan. "It sounds like you'll be the one to benefit the most from this arrangement by becoming an early adopter."
+
+Ryan looked taken aback. "Me? Don't you mean her?" he asked and pointed at Lily.
+
+"No, she was already drawing with ink before coming here," Duncan answered.
+
+"And looking at her penmanship, she must have practiced endlessly," Gwen chimed in.
+
+Ryan looked at the completed glyphs Lily had drawn as if trying to scrutinize them. When he ultimately found nothing, he let out a sigh and nodded.
+
+"If things go well, I hope we can use glyph ink for assessments," Ollie further explained. "Naturally, your finals will always be the official examination, but nothing is stopping me from adding my own extras along the way. It will be a wonderful way for everyone to assess themselves without needing to splurge excessively on resources."
+
+"And I get more glyphs for my alchemical pursuits, it's a win-win!" Sylwel gleefully added.
+
+The four enchanters looked like they'd sucked on a lemon, and Lily had to hold back a fierce giggle. While she was also in their shoes, she could also understand it from an alchemist's perspective.
+
+I've got to write a letter to Miss Camilla and tell her about this. I'm sure she'd love to hear about enchanters finally getting their comeuppance.
+
+With nothing further to discuss, Ollie began dividing the remaining work among the three students while taking a portion for himself. Then the laboratory became almost eerily silent as everyone focused on their work, with only the bubbling brew and the scratching of pens on paper audible.
+
+Since Lily was ahead, she had the opportunity to occasionally watch the three of them work as she was interested in seeing if any of them used different techniques. She'd already watched Ryan draw from a distance, and, seeing it up close, she certainly understood why Ollie had so much faith in him.
+
+As for the other two, they had their own styles and flares that were quite noticeable. Duncan drew in an almost mechanical manner, where you'd swear his arm was made from metal rather than flesh as it glided across the page. The way he basically printed out glyphs made Lily think he was a physical version of one of Arakil's mental manifestations.
+
+Gwen, on the other hand, drew in an almost flowing style, with her ink seeming to ripple across the page, which was especially confusing for Lily. It was beautiful to look at, but it seemed strangely inefficient: she would leave a section partially incomplete, only to come back later and finish it.
+
+{Do you have any idea why she's drawing like that?}
+
+[For this task, it's very unorthodox, but this almost exploratory style is quite useful for feeling out the balance of an inscription. Rather than focusing on one component until it's complete and then realizing you made a mistake at the end, she works towards completing it as a whole.]
+
+When Lily didn't respond, Arakil tried to explain it more simply.
+
+[Think of it like a chef preparing a stew and tasting whether it needs more salt, rather than waiting until it's served.]
+
+Lily nodded, vaguely understanding what Arakil was talking about. He further admitted that he wasn't a big proponent of this method as he preferred following easily repeatable methods, rather than relying on something as imprecise as feeling.
+
+"This is a good glyph," Gwen said, finally finishing her first reproduction.
+
+"Did you really need to feel it out before you got to work?" Duncan asked, pointing to his own pile of five completed drawings.
+
+"I was curious and wanted to understand who designed it," Gwen explained. She glanced at Lily and, when their eyes met, gave a gentle smile that left Lily feeling perplexed.
+
+Duncan sighed, "As long as you pick up the pace now, otherwise I'll be the one finishing all your work."
+
+Gwen chuckled and nodded, pulling out a fresh page and getting to work with a more routine method.
+
+The team worked tirelessly with Sylwel, repeatedly replenishing their supplies. It wasn't until Duncan's stomach let out an audible complaint that they finally realized how late it had gotten, and more importantly, how many glyphs they had collectively drawn.
+
+"Professor… Surely there aren't this many people participating in the alchemy competition?" Ryan asked, gesturing at the stacks of pages.
+
+Ollie blinked a few times and then frowned. "Sylwel, explain yourself."
+
+"What seems to be the issue?" Sylwel innocently asked.
+
+"Are you telling me there are this many alchemy students?" Ollie asked, pointing furiously at the finished goods.
+
+Realization flashed across Sywel's face. "Oh! Apologies, I thought I'd have some extras made since all of you were working so well together."
+
+This time, when the four enchanters' expressions soured, Lily found herself joining in.
+
+Let's not tell Miss Camilla about this one.

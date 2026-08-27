@@ -1,0 +1,177 @@
+---
+id: 024859b2-6974-5d6c-b2cd-0cb02c9d3439
+page-type-slug: story-chapter-royal-road
+title: "v5c23: Tomorrow, One Step at a Time"
+slug: 0129-v5c23-tomorrow-one-step-at-a-time
+partOf: beware-of-chicken
+position: 129
+ownLength: 2175
+unit: words
+ownProgress: 2175
+publishedAt: 2024-07-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1725971/v5c23-tomorrow-one-step-at-a-time"
+royalRoadId: "1725971"
+markedReadAt: "2026-06-29T18:55:56.574Z"
+---
+
+Miantiao thought that after the destruction of his home village and the death of his Master he would never have a place to call home again. The wound from that loss was still so raw even after so many years. It was a gaping chasm, a void that he held back, hiding, but when he failed and it rose up it drained out every other emotion save for rage and sorrow.
+
+When he had first come to this place, this Fa Ram, he’d done it for Yin’s sake. Hiding away his wounds. He imagined she would have a better life here, while Miantiao himself would quietly fade away, as he should. He had imagined himself already a moving corpse bound to fade into nothingness.
+
+The people of this Fa Ram did not allow that.
+
+They had not, would not, let Miantiao wither. They engaged the old, broken thing that marched into their home… and slowly but surely, they broke through the shroud of darkness that had surrounded everything since his village’s destruction.
+
+Bi De had shown him he could atone. Yin, Wa Shi, and Chun Ke had shown him that life was still worth living.
+
+And most of all, Jin and Bowu had shown him that Miantiao could still honour his Master’s memory, captured in panes of glass.
+
+Both of them were brilliant, envisioning wonders without compare—and both of them needed the teachings of Miantiao’s Master.They needed him.
+
+Once more, the works of Boli Xin entered the world; in every creation he exalted the teachings of his village and of his Master, breathing back into the world what he thought would be lost forever. He would have loved the greenhouse. His old Master would have spent the entire winter there if he could, for he had been nearly a snake himself—he hated the cold.
+
+Somehow, Miantiao had become an integral part of this place. His works lined the shelves. Pieces of art that brought delight and simpler, more mundane work that eased the working days. Everybody had asked for help with some project, or requested him to craft something. For the first time in a long time, he was happy.
+
+He had found a home again.
+
+And now something wanted to take that home away from him.
+
+‘Again!’ Miantiao hissed.
+
+The air warped unnaturally—and then a bolt of burning sunlight struck it. Miantiao hissed at the strain as the searing lance that passed through a lens in the air and compressed itself into a needle of white hot fire.
+
+The lens only lasted moments before Yin’s Qi utterly overwhelmed Miantiao’s own and [Twisted View] disintegrated.
+
+‘It held for longer that time,’ Miantiao stated, shaking off the effects of his technique shattering. His dantian was burning from the strain, and his breath came in gasps. ‘Again.’
+
+Yin, in her human form, looked upon her Shifu, and then she finally spoke.
+
+“Shifu, we can’t fight together anymore,” she whispered. Miantiao froze as the truth of those words hammered home. Pride warred with disgust in his heart. Pride, that Yin was so mighty. Disgust, that he himself couldn’t keep up.
+
+Against Shen Yu he’d been useless. At the time he had not minded. He had trusted Jin to see things through and he had been vindicated.
+
+This was not so different. He tried to muster the same faith. He tried to believe that everything would turn out all right. But every time he heard the word demon or demonic… he couldn’t help but hear Sun Ken’s howling laughter.
+
+The void rose up inside of him, yawning wide. He smelled burning flesh, his eye and back throbbed with pain.
+
+‘It isss fine, Yin. I shall ssseek out another way—” he began, but Yin shook her head.
+
+“Shifu… I think you should stop for today. You’re going to hurt yourself. I think you should focus on something other than fighting,” Yin said, her voice gentle. “Maybe you can help with the formations?”
+
+The words were a dagger to his heart.
+
+He was weak.
+
+He had always been too weak; a failure too weak to protect his home.
+
+He saw Fa Ram burning in his mind’s eye. Visions overwhelmed him.
+
+Jin and Meiling screaming.
+
+Chun Ke’s body torn in two.
+
+Yin, blood pouring from her mouth.
+
+The house collapsing, burning, burning, burning!
+
+Miantiao’s heart beat so fast he could sense nothing else until he felt the pressure of arms around him. He belatedly noticed that he was in Yin’s warm embrace as he panted, his student held him so he didn’t tie himself in a knot.
+
+‘I can’t. I can’t lossse it all again, Yin,’ he whimpered.
+
+“You won’t,” Yin promised him. She held him tightly as she nuzzled her cheek against his. “I made an oath. Just like Xiulan promised. No more destroyed villages. No more Sun Kens.”
+
+He pulled back and saw her head haloed in golden light. Yin’s red eyes were burning with conviction.
+
+“This is our home. This is the place where we belong. And what happened to you will not happen here.”
+
+Her oath resounded through the air, as a woman who was the incarnation of the dawn stood. The rays of light pierced the shadows descending around Miantiao’s heart.
+
+He couldn’t help but believe her.
+
+Miantiao really did not deserve to have such a fine daughter.
+
+=======================================
+
+The warmth of the greenhouse suffused Xiulan as she worked. She was in the middle of cross-referencing the topographical maps Vajra had created with the old survey maps from the Archives. Luckily, even though the maps were over three hundred years old, the land north of Fa Ram had changed little. The rivers were slightly different, Vajra had found, but otherwise it worked for their purposes.
+
+Today, Xiulan was not Xiulan. Today, Xiulan was the Grand Marshal once more. Jin had asked for her to aid him, citing that he had little idea how to properly run what was turning out to be a military campaign. They had far, far more bodies and ways to gather information than Xiulan had originally thought, with the inclusion of Vajra.
+
+She glanced at the routes Vajra had highlighted by rubbing red dye on the paper, detailing her… admittedly incredibly in-depth scouting plan. While the bee couldn’t speak, she did know how to write, and what she had written left Xiulan rather shocked. The bee arrayed her written reports like the best veterans Xiulan knew. Concise, no-nonsense, and full of the information she needed.
+
+This was not the leap of insight that Tigu had mentioned from her own experience awakening her spark. This was evidence of skill and long experience. The layered scouts and radial search patterns left barely any gaps. Xiulan would have to ask her about it someday, how she came to be like this. Instead, she had to reap the benefits—the most pertinent one being that Vajra received reports from her subordinates instantly, despite them being sometimes over a hundred Li away—though the weakness she noted was that to communicate from that distance, there was a small pulse of Qi.
+
+Any scout that signaled the demons’ approach would likely not stay hidden for long—but the alert was enough.
+
+Vajra had lost a couple of her scouts already to the cold, after flying too high for too long, but the number was few. The survival rate was far in excess of what it should be thanks to the little parcels of Yin’s solar Qi the insects carried in their back legs like pollen, keeping them warm.
+
+The main problem right now was the distance. The north was huge, and Vajra did not have enough scouts to cover it all, even if she forced the mortal bees to awaken themselves. Such an action would surely destroy the hive, so they had to prioritize.
+
+“You have a good sense for this, Vajra, but you’re thinking too much like a bee,” Xiulan said for a moment. “These passes here—see how steep and narrow they are? While little obstacle for one with flight and the fact that they provide heavy camouflage, that is a detriment for beings our size. The trees will slow the advance too much, and force any crossing force into a single file.”
+
+Vajra heeded Xiulan’s words and buzzed in acknowledgement, indicating six other passes.
+
+“Yes, leave all of those and instead post a guard here,” Xiulan pointed, indicating a spot that had the rough convergence of those passes. “If, for some reason, they are used we can have at least one scout covering this area just in case.”
+
+The bee wiggled her behind. ‘Current plan is sound?’ Xiulan guessed. It was getting a bit easier to parse her dance-speak.
+
+They went back and forth for a bit. Others came and went. Tigu with her own scouting report, Gou Ren with the state of the new bastion being constructed beside the forest, Meiling on how much medicine they had, and Pi Pa with the state of their food stores—as well as the location of the packs that Wa Shi would grab if the worst came to pass.
+
+Xiulan was of the opinion that Jin could have handled it himself. His mind was too sharp for him to falter on this, and Xiulan would have followed his orders without hesitation; all of them would have. Jin had never led any of them wrong before.
+
+But that same good sense had him asking her instead. Out of all of them, Xiulan was the most experienced at this.
+
+Xiulan knew now that he was no Hidden Master, centuries old. She knew he was but a man younger than she was. But it was still humbling to hear the depths of his trust in her—and she would not let him down.
+
+And not just for Jin’s sake, but for everyone’s. Xiulan loved Fa Ram. She loved Jin, Meiling, Tigu, Yin, Gou Ren, Zhuye… everybody who made this place home.
+
+Once upon a time, a younger Xiulan had searched for something to die for. A worthy death, fighting to save the innocent.
+
+These days… Cai Xiulan had something to live for.
+
+She raised a hand to her chest and touched the golden crack in her skin. She felt the warmth that, even in the depths of winter, emanated from the earth.
+
+They all had something to live for.
+
+Tomorrow.
+
+==================================
+
+Liu Bowu sighed as he closed Xianghua’s Steam Furnace. There wasn't really anything he could do to make it much better at the moment. They would need Qi-reactive metals from another province to truly upgrade it, so all he could really do was give it a good cleaning.
+
+He leaned back in his chair. Even though it did bother him a bit… he knew why Jin wanted to send him away if things got bad. Bowu was useless in a real fight. He and Zhang Fei had a light spar not too long ago. Bowu had been able to match him when he was at the First Stage of the Initiate’s Realm, with his experience.
+
+Now he could barely see his friend move.
+
+A big part of Bowu had wanted to declare that even so, if the others died, he would die right there with them. He was a Son of the Misty Lake, the descendant of a dragon. He was no craven, to leave his loved ones to die while he lived on.
+
+Jin had taken him and Wa Shi aside when he had noticed their looks. A single sentence had stopped him.
+
+“I trust you both to take care of Zhuye.”
+
+Bowu might have protested many things. Fought to remain. But that? Well, that had taken the wind out of Bowu’s sails. What do you say when a man entrusts his son to you? His future?
+
+It was heavy.
+
+Bowu promised the man who had given him everything he would do it.
+
+He would protect that future, no matter what it took.
+
+For now… there wasn’t much he could do. No weapons to make. No new breakthroughs… the only thing in the shop right now was… The Project. The thing that he had been working towards for two years already; the first thing Big Bro had shown him.
+
+He paused for a moment as he looked at it.
+
+Maybe…
+
+There was one thing he could do.
+
+Everybody was all tense, here and at Hong Yaowu. They had been planning on unveiling this on the solstice anyway… It was pretty amazing what he, Big Bro, Uncle Che, and Miantiao had built.
+
+Bowu stood and pressed his hand against the bright blue siding of the prototype, marveling at the gleaming smokestack. It was pretty small—only about the size of a normal cart, not Big Bro’s monstrosities.
+
+But it could carry around twenty people, if his calculations were right.
+
+He’d see if Chun Ke could be spared, to get this all to that field in Hong Yaowu they planned to use.
+
+“You’ll ride on the solstice,” he decided.
+
+The Azure Express didn’t answer. But somehow, Bowu couldn't help but think the marvel of iron seemed almost excited.

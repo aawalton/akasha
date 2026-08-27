@@ -1,0 +1,123 @@
+---
+id: 474dbd28-0d45-5f8e-ac1d-e367d037dec0
+page-type-slug: story-chapter-royal-road
+title: "66. Abrupt Departure"
+slug: 0066-66-abrupt-departure
+partOf: breaker-of-horizons
+position: 66
+ownLength: 2099
+unit: words
+publishedAt: 2020-12-17
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/601292/66-abrupt-departure"
+royalRoadId: "601292"
+---
+
+My sister was never the kind of person to dwell on failure for long, and even though she didn't make any progress in her solo practice, she came back in considerably greater spirits. "I can't make blobs of lots of different sizes yet," she declared, grinning contentedly, "but at least I can make big and small blobs! Before that, it was all just small blobs. And now, I can make big shapes more quickly, since I can start out with big blobs!"
+
+My mother's smile was a little fixed as my sister proceeded to demonstrate by rapidly conjuring orb-sized blobs, then merging them into an amorphous mass that wobbled unsteadily. Even though the density wasn't great, it was big enough to displace very light objects, and this was immediately apparent as she sent it careening through the living room, promptly scattering a stack of letters that my mother had left on a coffee table.
+
+"One afternoon with you, and she learns how to make an even bigger mess than before," Mum sighed, rolling her eyes a little before continuing with her work in the kitchen.
+
+Dinner was another painful reminder of how much my life had changed after my short time in the Academy. We usually all ate together, and dinner was the time when we exchanged news over the table and just talked together. This first proper dinner already had a shadow over it in the form of my father's empty seat, and while my mother tried to carry on as if everything was normal, it was clear to me that she was struggling to put a brave face on everything. Triss was her usual lively and cheerful self, but with Mum's subdued manner and my own sense of displacement making it hard for me to slip back into our old rhythms, our dinner conversation was more like a monologue as my sister went chattering on about everything I had missed in her absence. I wondered if this was down to the blissful obliviousness of childhood, or if this was her way of stepping up and trying to keep everyone's spirits up.
+
+The telepresence orb chimed and we all fell silent. Then, Triss leapt to her feet and hurtled into the living room. Mum and I hurried after her, but I almost ran over my sister just beyond the doorway. She had frozen in place there, staring in apprehension at the unfamiliar figure who was in the chair, looking around at what was within the area of coverage. He was dressed in a white shirt with a thin black tie and black pants, and his black hair had streaks of grey running through it. Despite the fact that he was dressed quite ordinarily, something about his manner exuded deadly competence.
+
+Mum shot a quizzical look at me and I shrugged back to indicate that I didn't recognise who it was either. As she went over to take a seat, Triss drew close to me and slid her hand into mine.
+
+"Mrs Dundale?" It sounded like a middle-aged man, his tone clipped.
+
+"Yes?"
+
+"Waving fronds," he said.
+
+I blinked, confused, but my mother seemed to understand as she responded, though she now wore a worried look. "Seashell houses."
+
+The man nodded, and I realised it must have been some sort of passphrase exchange. "Our standing instructions have changed. You and your daughter will remain here until your husband rejoins you, but we are moving your son to a more secure location tonight."
+
+"Why? Is there some immediate danger?" She gestured at me to take my sister away, but Triss shook her head vehemently and my mother didn't force the issue.
+
+"I'm not at liberty to say. Please help him prepare enough food, water, and clothing for two days, but pack as lightly as possible. The escort will arrive in half an hour. Could you get him to the seat and give us a moment in private, please?"
+
+"I really think—"
+
+"Mrs Dundale, I appreciate it must be difficult, but we're operating on a need-to-know basis. Your son, please. This is urgent."
+
+She relinquished the chair to me. The moment I got into it, the orb responded to a remote command and brought up the privacy screens. That was both reassuring and disturbing — the glyphs that permitted that kind of control of commercial artefacts were known to the police, but it wasn't the kind of thing that rank-and-file officers were authorised to use.
+
+The man referred quickly to a file that I hadn't noticed was in front of him. In that brief moment, before he put it away, I caught a glimpse of my own photo. "Caden Dundale?" he asked.
+
+I cleared my throat. "That's me."
+
+He set the file aside and leaned forward, his hands steepled. He spoke quickly but clearly, his words crisp and precise. "You can call me Mr Silver. I'm personally overseeing your transfer from this residence to the new safe location in Geldor. Please listen carefully to what I'm about to tell you."
+
+"Can I take notes? In case I forget?"
+
+"No. Nothing written. We'll go over it again to make sure you remember what's important. First, make sure your mother is helping you pack as I asked."
+
+I looked up and saw that she was already gone, along with Triss. "I think she's doing it."
+
+"Good." From his pocket, he withdrew a piece of paper with a glyph on it and placed it on the table so I could see. It seemed to be made in a similar fashion to home glyphs which were differentiated by unique modifiers, usually numbers or common letters, arranged around the standard glyph that meant "house" or "residence". In that way, homes could each have a representative glyph that was useable in any sequence. The glyph he showed me was an unfamiliar one, but it had the unique modifier 'SD-P7' appended to it. "This glyph has been assigned to you. You can think of it as your personal glyph, and it will serve as your primary means of identifying yourself to security forces from now on. Do not share this glyph freely. Memorise it now."
+
+"What does the glyph mean?"
+
+"You don't need to know."
+
+I frowned, but it was obvious that pressing him was going to get me nowhere. I found it harder to memorise a glyph when I didn't know what it stood for, but it was doable. After a minute, I nodded at him. Mr Silver pocketed the slip of paper and asked me to reproduce the glyph, so I drew it in the air with arcana. He nodded, satisfied, and went on.
+
+"Two cars will arrive for you in about 25 minutes. An officer will approach you and say 'friendly faces', to which you should respond 'lively nights'. They will then drive you to Geldor and see you to the established safehouse. There are no handovers planned except at the safehouse. Clear, so far?"
+
+I swallowed and nodded.
+
+"If the cars do not arrive, stay put and do not leave the house until I contact you again through this telepresence orb. If the officers arrive and give the wrong passphrase, tell them you need to fetch something, then barricade yourself inside the residence, activate all your security measures, then contact me by connecting to this telepresence orb and using your personal glyph. Do you understand?"
+
+There was a lump in my throat that made it hard to swallow again as I nodded. The seriousness of the matter was beginning to press in on me now.
+
+"If your convoy is attacked on the way to Geldor and you are separated from the officers, you can get in touch with us by securing any communication artefact and using your personal glyph. If you aren't able to find any suitable artefact, you can manifest it within a globe light and we will be able to home in on your location and find a way to make contact with you."
+
+"Does the globe light need to be at full illumination? Can it be tuned down to almost nothing, or even put in an idle state, if I need to discreetly share my location?"
+
+Silver lifted an eyebrow and, for the first time, gave a slight smile. It seemed he approved of my train of thought. "It can't be idle, but you can tune it all the way down, and it can be as small as you can make it. The bigger and brighter, the easier it will be for us, but all we need is some output, however small. Understand everything so far?"
+
+"Yes."
+
+"Finally, in the extremely unlikely scenario that you are captured, try to give us your location via the globe light and your personal glyph, but do not put yourself in any unnecessary risk to do so. We don't expect to be far. Keep your head down, and focus on keeping yourself safe and shielded at all times. Any questions?"
+
+I had plenty, but none that were of immediate importance, so I shook my head.
+
+"Good. Now repeat all that back to me."
+
+I took a moment to sort through the instructions he had given to me and repeated them back to him, not word-for-word, but near enough. He got me to do it twice more before he was satisfied, and ended by asking me to draw the personal glyph again. I managed it without any significant trouble, though it wasn't as easy as working with a glyph whose meaning I knew.
+
+"Very good. The escorts should be arriving in about five minutes. Do not wait outside. The officers will come to the door. Don't share any details of what I've said with your family. I've already told your mother all she needs to know. Any final questions?"
+
+"No. Thank you, Mr Silver."
+
+"Alright. Then I'll see you in person in a day and a half if all goes well."
+
+With that, he terminated the connection. The sphere of privacy dissolved, and I finally saw Triss and my mother standing in the living room with one of my rucksacks.
+
+"What did they want?" My mother asked, anxious.
+
+Mr Silver's warning was still fresh in my ears, along with the blood that was pounding out of a mixture of trepidation and excitement. "I... they're taking me away. Gave me some details about how, but that's all I know."
+
+Her eyes brimmed with tears and a myriad of unspoken worries. She dropped my rucksack on the couch, came forward, and caught me in a tight hug. A moment later I felt Triss slamming into the both of us as she tried to wrap our legs with her skinny arms.
+
+"You'll come back?" Triss asked, looking up at me tearfully.
+
+"I'm sure I will," I said, smiling down at her with more confidence than I actually felt. "So make sure your blobs aren't all that blobby by the time I get back, okay?"
+
+Mum pulled back and drew Triss away as a sharp knock sounded at our front door. I nodded at her, took the rucksack, then opened the door just a crack.
+
+There was a man dressed very much like Mr Silver, in a white shirt, black tie, and black pants. This one had dark brown hair and wore half-framed spectacles over his dark eyes. Behind him were two cars. The back passenger seat of the second car was open, clearly waiting for me.
+
+"Friendly faces," he said without preamble.
+
+"Lively nights," I replied shakily.
+
+"Straight into the second car please, Mr Dundale."
+
+I turned back to take one last look at my mother and sister. Triss gave me a watery smile, while Mum nodded, her eyes bright, clear, and confident. She didn't smile — not exactly — but there was a tightening of her lips that somehow conveyed more than any false cheerfulness or fake optimism. It told me she was worried, but also that she knew that I was not a little boy any longer and that I did not need to be protected in quite the same way any more.
+
+The officer placed a firm hand on my shoulder and pulled me away from the door, then steered me into the waiting car. Once I was safely inside, he shut the door, then quickly jogged over to the car in front and slid into the front passenger seat.
+
+Both the front seats in my car were already occupied by more agents, both female. The driver glanced at me in the rear-view mirror, then, without a word, our convoy took off into the dying light.

@@ -1,0 +1,99 @@
+---
+id: c4777027-2c81-5661-bb05-ec0ecfad3a78
+page-type-slug: story-chapter-royal-road
+title: "135. Eldritch Reckoning"
+slug: 0135-135-eldritch-reckoning
+partOf: breaker-of-horizons
+position: 135
+ownLength: 1666
+unit: words
+publishedAt: 2021-08-16
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/734798/135-eldritch-reckoning"
+royalRoadId: "734798"
+---
+
+As his mind soared over the trailer in the arcanic sea, Ambrose fretted.
+
+They were completely exposed out here on the road in the vast emptiness between cities, and he felt it very keenly now even as he watched over the trailer. The trick of hiding their auric-ambient-flares in oblivion was definitely working because he couldn't pick up Devon's and Jerric's signatures, or even his own. However, their trailer was still a bright spot in the featureless sea — a dense weave of complex sequences. It had its own set of defences to make it more muted, but those were more geared to helping it blend in with the hum of arcana from all the other artefacts in a city.
+
+His heart sank as he realised that trying to hide was a totally lost cause. Even if by some miracle their pursuers somehow didn't immediately notice that the trailer was an arcanic powerhouse in the arcanic sea compared to conventional vehicles, they could not fail to notice that it appeared to be completely unmanned, with no auric-ambient-flares anywhere inside. No, they couldn't pass off as ordinary drivers.
+
+He anxiously scanned the arcanic sea as he attached his consciousness to the trailer and kept pace with it. There was no further sign of that odd presence that had momentarily surfaced earlier, but Ambrose knew better than to assume the coast was clear. The feeling of unease in the pit of his stomach was more than just nerves — it had a whiff of Prophecy about it, like a dull ache warning him that the pattern predicted some sort of imminent danger.
+
+Every now and then, he chanced a dip into oblivion, but that plane of perception yielded no more fruit than the arcanic sea. The brief moments of reconnection with his auric-ambient-flare made it harder for him to readjust to being without it in the arcanic sea, but he forced himself to endure it, reasoning that if something were to attempt to creep up on them, it might be possible to catch it with his oblivion senses.
+
+An uneasy hour passed. The mental strain of following the trailer without an auric-ambient-flare to anchor him, while dipping in and out of oblivion, was wearing him down. His nerves felt frayed and even the gentlest ripple in the arcanic sea made him jump. It was becoming impossible for him to distinguish the ordinary movement of the flow of arcana from the genuine perturbations that might signal an incoming attack or a hidden pursuer.
+
+One more dip into oblivion, he told himself, and then I'll take a break.
+
+The moment of reconnection with his auric-ambient-flare in oblivion was a relief, and he allowed himself to relax a little. He extended his senses as far as he could, but once more nothing drew his attention. The thought of taking a break was extremely appealing now. All he needed to do was shift back into the arcanic sea, then back into his body, and he'd tell Jerric that—
+
+Panic.
+
+Ambrose's mind twisted in on itself in confusion as he tried to make the transition and found himself still in oblivion. He tried to melt out of oblivion and back into the arcanic sea, but the folding of himself refused to happen. Disembodied nausea seized him and he struggled with the absurd, impossible input — he had no body to feel with here in oblivion, so how was he so utterly consumed by the need to hurl?
+
+'Do not struggle.'
+
+He froze. The voice had come from everywhere and nowhere, just like the augera's in the Geldor Spire on his first foray into oblivion, but Ambrose somehow knew with utter certainty that a far greater entity was communicating with him now.
+
+'Greater?' the voice mused. 'This is the shape of your thoughts. An estimation of degrees of power, fundamental to your perspective. The Jailer indeed.'
+
+A new sensation crept over him — his auric-ambient-flare was being turned over in oblivion, and he was as helpless as a doll in the hands of this higher being. The nausea intensified, but he forced his mind to stay utterly still, and he focused instead on the train of thoughts racing across his consciousness now, trying to anchor himself in the moment, watching how he watched himself in a recursive loop.
+
+'Good instinct. How much of the symphony do you think you hear?'
+
+'W-what are you?' Ambrose asked, ignoring the question.
+
+'Not "who"? Why so certain, Chosen-Blinded-Jailer?'
+
+No matter how much Ambrose focused, he could not catch anything more from the entity beyond the meaning of the words it was sending to him. It had no emotional bleed like a human, and it did not radiate alien otherness like the augera. It was simply there, a completely clean presence. If not for the fact that he was actively communicating with it, he would not even be able to tell it was there.
+
+'You... you're not like anything I've ever met before. Unless you're... another augera. But different.'
+
+'Good instinct,' it repeated. 'You have learned of what I am. The symphony echoes this truth. You are Blinded, but you can listen. You can hear what I am. Satisfy my whim — name my being.'
+
+The words were simple, but now Ambrose was being assaulted with the sheer profundity behind each one. He understood that the words he was hearing were just the portions of meaning his mind could catch, like a poor seive. Even so, it was just possible for him to comprehend what the entity was saying.
+
+And it was right. He did know what it was. Caden had talked about it, but more importantly, when all of them had congregated by the Academy lake to call up the wild augera, Ambrose had heard the augera use the name itself.
+
+'Wellspring-ocean-core,' Ambrose whispered.
+
+It was as if the very act of intoning that name had summoned the presence of the entity. Where he had felt nothing just a moment ago, he now sensed a tumultuous shifting of reality itself in oblivion, as things beyond his comprehension moved around him. Yet even in the midst of that metaphysical storm, he managed to anchor himself by resolutely ignoring everything, turning his mind's eye inward as he sank into a state of utter dissociation, watching himself watching his own thoughts, over and over again, as he hoped for the storm to pass.
+
+But the whirling chaos did not abate. Instead, the wellspring-ocean-core threaded something through his auric-ambient-flare and made more intimate contact with him, so that he could still follow its words even as the world around him shook itself apart.
+
+'Slave of the symphony, yet destined to be a composer. You move before your time. Your dance is different. Do you know this?'
+
+Ambrose fought his panic even as his mind raced, his thoughts tracing themselves even as he tried to think in parallel to figure out what the wellspring-ocean-core was saying to him. What was it saying? What was it asking? What did it want?
+
+'You're... talking about... the Prophecy,' he began haltingly. 'Saying... I'm not following it entirely? Yes. I know.'
+
+'How much do you think you hear?'
+
+It was the question it had first asked him. He wanted to answer, but the plain meaning of it eluded him, and he wasn't sure he had an answer at all. He understood the individual words, but he also knew that the entity was asking about something far greater, asking him to consider things he hadn't even thought of before.
+
+'I... don't know. I don't know how to say how much I can hear.'
+
+'You hear but a whisper in the wind. The symphony swells in the innermost halls while you linger at the gate. You strain your ears and catch the faintest notes, the loudest instruments. Yet you hear much already, though Blinded. You have opened the gate before your appointed time.'
+
+'Why are you telling me this? What stake do you have in it? You're not part of it, are you?'
+
+For the very first time, Ambrose caught a whiff of glee, but it was so alien that he did not recognise it at first, and it was only with the entity's intentional filtering that he understood what it was feeling at all. 'No. I am not. None of us are. We have been waiting for a Chosen One like you. Do you know why you exist?'
+
+'Why I exist?' Ambrose croaked, almost broken by the scope of the question. He struggled to shore up his mind against the world-breaking scale of these inquiries. 'I... you mean why I am the way I am? It's... because of the unchosen-sighted-{~?~}.'
+
+'Yes. It is good that you do not simply hear, but also listen. Not all your predecessors were so perceptive. Do you know the essence of deviation within yourself?'
+
+'... The... you're talking about the aspects of my auric-ambient-flare that don't form the face? I... I don't. I think I can look, but... but not now. Not here.'
+
+'Then look, Jailer. Sooner rather than later. Find your essence of deviation and claim it. Your steps are slipping, and soon the composers of the symphony will hear when you falter. If you wish to add your own chord to the chorus, you must be ready.'
+
+'Wait!' Ambrose called, because he sensed a dismissal in those words. 'Something... something's coming right now, isn't it? It's following our trailer. Can you help us?'
+
+An unexpected wave of hostility filled Ambrose's mind. 'I will not.'
+
+He found himself being shunted out of oblivion, and he went crashing through the arcanic sea right back into his own body. He let out a gasp of surprise and almost fell out of the seat.
+
+"What is it?!" The whole trailer lurched as Devon swerved out of panic before righting the wheel again.
+
+Ambrose opened his mouth to respond, but his words were lost as a terrible burst of noise and heat enveloped the trailer entirely.

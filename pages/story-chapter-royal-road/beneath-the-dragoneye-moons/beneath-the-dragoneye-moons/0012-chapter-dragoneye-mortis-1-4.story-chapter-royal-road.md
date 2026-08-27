@@ -1,0 +1,257 @@
+---
+id: 0d640245-ff5f-5145-a32f-7b411563e5b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter ??? - Dragoneye Mortis 1.4"
+slug: 0012-chapter-dragoneye-mortis-1-4
+partOf: beneath-the-dragoneye-moons
+position: 12
+ownLength: 2469
+unit: words
+publishedAt: 2021-08-16
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/734767/chapter-dragoneye-mortis-14"
+royalRoadId: "734767"
+---
+
+When day finally rose, Vita still hadn’t managed to do the same.
+
+Elaine yawned and stretched, her sleepy eyes going to instantly bright-eyed and bushy-tailed as she applied [Sunrise] to herself.
+
+“Gooooooood morning! How did you sleep? Did the hut help? I hope it helped. It took me and the dinosaurs aaaaaaages to do. Well. You would know. You were watching! Whoof! I need to go burn off some energy. Then let’s get to that ziggurat, and figure out what those fairies want! Let’s gooooooooooo!”
+
+Vita blinked the tiredness out of her eyes, mentally cursing Elaine several different ways.
+
+Maybe it wouldn’t be so bad if a perception event happens now if it spares me her early-morning energy. I want a soul. I miss souls. I wish I could eat one to keep me awake, but this stupid place doesn’t have any!
+
+Vita was still trying to muster the strength to get up when Elaine popped back into the hut, brimming with energy.
+
+“Oh! I almost forgot! Here’s a snake skewer. One of the zombies got it last night. And a pick me up!” Elaine tapped Vita, pulsing [Sunrise] through her.
+
+A jolt of energy shot through Vita, waking her up faster and more thoroughly than anything she’d ever experienced before.
+
+“Woah, what the fuck?” Vita said suddenly, jumping to her feet. The child-like girl’s potty mouth never failed to seem a little out of place. “What was that? I feel way better!”
+
+“[Sunrise]!” Elaine happily told Vita. “My energy pick-me-up-go-forever skill! Never leave home without it!”
+
+She laughed like she made the best joke ever. Vita didn’t see how it was that funny… but she couldn’t deny it was useful.
+
+Either way, between the food, the stream, and the zombie-raptor transportation, Vita and Elaine were off towards the ziggurat in no time.
+
+The horde grew fatter than Vita’s and Elaine’s waistlines, the most impressive part of which was that said waistlines actually managed to grow a little after their legendary barbecue. Each of them seemed remarkably incapable of putting on pounds. They spent the time luxuriously being carted around, feasting on the bounty of the jungle delivered practically to their mouths.
+
+Then, like a particularly small, fast, brightly colored and tasty bird, they were delivered to the foot of the ziggurat. It looked old, an ancient relic from before time began. Given the relatively young age of Pallos, that was entirely possible. The temple was overgrown with vines, the stone cracking. Each step was bigger than Elaine was tall, and the ziggurat seemed to soar endlessly towards the heavens - which wasn’t at all what it looked like from a distance.
+
+“Now what?” Vita asked, more annoyed and impressed by the structure.
+
+Elaine shrugged.
+
+“If it was easy, the fairies wouldn’t send us to do it, would they?”
+
+“From what you told me about the tiny assholes, yes they would. Because it’d be funny.”
+
+Elaine tilted her head, conceding the point.
+
+“This has all seemed too easy so far, but… zombies first?” Elaine asked.
+
+“Yeah, sure, they’re all replaceable.” Vita agreed. “But where’s the entrance?”
+
+Vita and Elaine looked around, not seeing anything. They circled the ziggurat, only seeing the giant steps repeated all around.
+
+Elaine looked at the overly large stairs, big enough that only Vita standing on Elaine’s shoulders would be able to crawl up.
+
+One step.
+
+There had to be hundreds.
+
+“What’s the bet that the entrance is on the top of the ziggurat?” Elaine asked rhetorically.
+
+She knew the answer.
+
+It was on the top.
+
+It was always on the top.
+
+Vita sighed, silently agreeing. What a pain. Still, painful problems were what zombies were for. With a few quick, snappy directions, three zombies—two raptors standing on each other and a third in front of them—formed a climbable step that Vita and Elaine ascended up the first stair, enough of the horde following to make a second step and then a third and so on. The Dregs were not kind to their fellows, and the crushing, shambling footfalls of a zombie horde crawling on top of one another required the steps to be frequently replaced as they got periodically pounded into meat mush. Still, eventually the majority of the horde managed to reach the top. When only the zombies forming the stairs remained, Vita simply used [Soul Reclamation] to kill them all from a distance, leaving the unfortunate dinosaurs left behind to collapse back into restful death. Again.
+
+Turning back towards the entrance, the pair saw that the top of the ziggurat was filled with statues, pillars, and more. A giant golden bell, somehow whole despite the tests of time and the elements, stood proudly in the middle, over the largest statue. Cracked stone with hardy vines that had somehow grown through the literal mountain worth of stone were interspersed with little yellow flowers that gently blew in the breeze. Pillars in various states of ruin and decay were scattered in neat columns along the top, clearly having performed some ceremonial purpose once upon a time.
+
+Statues of suchia, each statue large enough for Vita and Elaine to comfortably rest in their enormous crocodilian mouths, lined the edges of the ziggurat. They were all facing the centerpiece of the ziggurat - a gigantic monstrous statue, depicting some part-suchia, part-fish, part frog with toothy mouths on its shoulders, knees, elbows, and a few other random spots.
+
+“Wow.” Elaine breathed, gazing around the sights. “This is quite something.”
+
+She walked forward, looking at each statue for a moment before moving onto the next one.
+
+“Yeah, that thing almost has as many mouths as the Mistwatcher’s soul.” Vita agreed, eyeing the statue in the middle. “It’s also sucking my mana. I can see it with [Eye of the Maw].”
+
+Elaine paled.
+
+“That’s not made out of Arcanite.” she realized.
+
+“So?” Vita asked, glancing around the ancient temple with disinterest.
+
+“So only living things and Arcanite get mana!” she yelled.
+
+Vita blinked.
+
+“...So it’s edible?”
+
+“That’s not the right question!” Elaine snapped, running back to the stairs.
+
+A deafening roar from a dozen different types of mouths burst out behind them, as the Cipactli ‘statue’ started to chase after the latest offerings brought to its altar.
+
+“Attack while we climb!” Vita ordered the remains of her horde, suddenly changing direction. Without hesitation Elaine switched from running back to the too-large stairs to climbing one of the large pillars with Vita.
+
+They scrambled up while the zombies died in droves, seemingly incapable of even scratching the monstrous Cipactli. Elaine’s ascent was boosted by her stats, Dexterity making sure she never put a foot wrong, Speed helping her hands quickly move from place to place, Strength letting her haul herself up sooner, and Vitality tying it all together.
+
+Vita had stats, but also something beyond them as well. It almost looked like Vita was a puppet, her limbs getting pulled around by some force that couldn’t possibly be her muscles. Elaine figured there were more pressing things at the moment than worrying about it, though, even as Vita handily beat Elaine to the top.
+
+The monster roared, and crashed into the stone column, trying to shake Elaine and Vita loose. The two clung onto each other and the top of the pillar, holding on.
+
+“Think you can handle it?” Vita asked Elaine, deathly calm as she stared down from her perch.
+
+Instead of responding, Elaine fired a [Nova] down at the monster, following it up with a beam of Radiance, trying to burn through its eye.
+
+“Nifty.” Vita commented, as Elaine unleashed a burning inferno directly at the furious beast for 10 seconds non-stop.
+
+Then, abruptly, she stopped.
+
+“Fuck,” she swore.
+
+“What?”
+
+“I’m out of mana.”
+
+Vita shrugged, as if this could not be any less of a problem.
+
+“Take some of mine?”
+
+A terrible grin broke on Elaine’s face, as she remembered that Vita seemed to have a skill to transfer mana… and somehow had a mana pool measured in fucking tredecillions.
+
+It was like a second sun erupted on top of the ziggurat, as Elaine, finally unconstrained by pesky little things like “running out of mana,” was able to unleash her full, unlimited arsenal. [Nova]’s were dropped and exploded, looking like an entire galaxy worth of stars was exploding at once. Beams of Radiance mixed with cones and balls, wide-spread auras and surgical lasers. The air itself started to become uncomfortably hot with the sheer amount of heat and energy that bled off from the attacks. The stones blackened and cracked under the heat, and both Elaine and Vita started doing the “the floor is lava and my feet are cooking” dance.
+
+Didn’t stop Elaine in the slightest.
+
+The Cipactli roared, angered that the sacrifices brought to it were resisting, trying to tear down the sturdy pillar.
+
+In its boredom, it had knocked down and smashed most of the pillars on top of the ziggurat that it could. The architects, so long ago, had built the temple well, and what remained wasn’t so easily brought down.
+
+Especially when being cooked alive. Eventually, the creature, used to being treated as a god, decided to stop sticking around and turned to flee.
+
+“Oh, no you don’t,” Vita growled. “Quit shooting for a sec.”
+
+Without waiting for an answer, Vita lets herself fall from the pillar before suddenly kicking off of it, shooting towards the fleeing many-mouthed monster like a javelin.  She hit it spear-first, to basically no effect on its stat-boosted crocodilian hide.
+
+"Vita!" Elaine yelpedin surprise, barely avoiding frying her with a stray nova. "What are you doing? Just let it go!"
+
+Ignoring her, Vita instead pulled out a huge fragment of her own soul, grinning as she pressed it into the body of the monster. With no soul of its own, or at least with nothing that Vita considered a soul for her purposes, nothing stopped her shard from spreading through the monster as if it was just another corpse. Her power strained against the living body's muscles, causing the enormous beast to twitch and spasm as entirely different forms of movement went to war inside it.
+
+"All right!" Vita shouted back to Elaine, leaping off the monster. "Now hit it with everything you've got! As big as it gets!"
+
+"What skill is that?" Elaine asked, charging up the mother of all [Nova]. "This thing is way too high level to get crippled by one tap of just anything."
+
+Vita shrugged, scrambling back up the pillar.
+
+"No skill," she said. "Just part of me. Although I guess if you want to blame a skill for that trick—"
+
+Elaine didn’t wait for Vita to finish talking before unleashing the rest of her arsenal at once, the combination of seemingly limitless mana regen, prep time, and a mostly stationary target being all she needed to annihilate the temple-owner once and for all.
+
+"—I would say [Soul Reclamation] is the one I like most," Vita finished, activating the skill and recovering her lost power. “Back home I can’t get free refunds.”
+
+The aftermath of the fight left little standing in what was once an altar to the ex-divine beast.
+
+“So now what?” Vita asked, looking at the stones. They were so hot they were warping the air, making the floor look wavy. She could feel her skin start to crack, having nowhere near as much heat resistance as the woman who regularly shot lasers.
+
+Elaine shrugged.
+
+“What did the fairies want?”
+
+“They just said to 'slay the creature and claim the prize.' Didn’t say what the prize is, though."
+
+Elaine facepalmed.
+
+“Of course. OF COURSE! It’s never easy with them.” She looked around the room, trying to spot what this elusive prize could possibly be. “Maybe the bell?”
+
+The enormous golden bell in the center of the room indeed looked like quite the prize. Vita’s eyes went wide.
+
+“Wait, is all of that metal? Yeah that would be the fucking prize all right. Fat lot of luck we’ll have hauling that around, though.”
+
+“Yeah… why don’t we just grab everything up here, just in case?” Elaine suggested. “Maybe it’s one of the statues. Or vines. Or pillars.”
+
+“Or one of the flowers.” Vita said, picking one up that somehow, miraculously, survived the scorching inferno Elaine had unleashed on top of the ziggurat.
+
+Three tiny flying assholes popped in around Vita the moment she grabbed the flowers.
+
+“The flowers! The flowers!” One cheered.
+
+“She got the flowers! She wins!” The second one cackled.
+
+“Plant genitals! Just the thing!” The third one swooped in and grabbed the flower from Vita.
+
+“Ew,” said Vita, wrinkling her nose. “So, I guess I got your prize. Do I get a prize?”
+
+“Yes, of course!” One said. “You can see my tonsils! A most rare and valuable prize.”
+
+“Your what now?”
+
+Elaine facepalmed.
+
+“The back of her throat.”
+
+“That’s dumb.”
+
+Elaine cringed at that, while the fairy laughed in Vita’s face.
+
+“Too slow! You had the chance to see, and you did not! Like that, your prize vanishes!”
+
+“If you guys had souls, I would shatter them,” Vita grumbled.
+
+“From me, I give you… COURAGE!” The next fairy said. “No more will you fear to walk in the jungle! No more will you cower in your home!”
+
+Vita frowned.
+
+“I’m a hunter. I already regularly go into the forest.” She pointed out. “Plus, didn’t you see what I did to this jungle?”
+
+The fairy giggled.
+
+“See? The best gift EVER!”
+
+Elaine was coming round to Vita’s way of thinking. ‘Complete assholes’ and ‘Would kill if I could.’
+
+“From me…” The fairy paused for dramatic effect, before realizing.
+
+“Hey! You jerks let me go last!” He complained at the other two, who giggled at his misfortune.
+
+“Too slow!” The first one said, zipping around him.
+
+“Lazy bum, lazy bum” The second one sang.
+
+He just grumbled.
+
+“GO HOME!” He yelled at Vita, who popped out of existence.
+
+Elaine’s eyes bugged out.
+
+“Um. If it’s not too much trouble…” She said.
+
+The first fairy sneered at her.
+
+“You’re already home! Go fly back!”
+
+“I can’t fly! I didn’t bring my sandals!” Elaine complained before being struck by inspiration.
+
+“Hang on. Send me back, and I’ll tell you a secret,” she said, dreading making a deal with the Fae, but not seeing too many other options. Besides spending decades trying to get out of the place. Fairies liked secrets, right?
+
+“Oooh! A secret! Tell me, tell me!”
+
+“No, tell me!”
+
+Elaine held up a finger.
+
+“Ah ah ah. Send me back first, then I’ll tell you the secret,” she insisted.
+
+“The secret will be mine!” One of the fae yelled, popping Elaine back to her home.
+
+“Ok, now tell me the secret.” the fae demanded the empty air.
+
+There was, of course, no response.
+
+“Hello? I’d like my secret now?”

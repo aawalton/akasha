@@ -1,0 +1,267 @@
+---
+id: 090265df-cdce-5025-a1ef-7fb5b17f5ec1
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 16 - The Night of the Second Sun"
+slug: 0018-book-4-chapter-16-the-night-of-the-second-sun
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 18
+ownLength: 5107
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2631793/book-4-chapter-16-the-night-of-the-second-sun"
+royalRoadId: "2631793"
+---
+
+Ranthia’s nightmares had been especially persistent for quite a while, so it wasn’t like she was surprised by the fact that her first peaceful, dreamless night of slumber was interrupted. No, the surprising part was everything else.
+
+Ranthia opened her eyes to a world washed in brilliant light—bright enough that her inhuman eyes burned and watered, like a child that dared to glare at the sun. This was followed by the acrid scent of smoke and several loud pops, shortly before both Ranthia and Avyna launched out of their shared bed.
+
+In opposite directions.
+
+Avyna was (presumably) cursing up a storm in High Elvish as she rushed for her failing enchantments. Ranthia was too focused on the moment of crisis to try to parse her lover’s language; she seized her armor an instant before she began the process to shift into the fully equipped image she sent out.
+
+“My love, no!” Avyna’s voice stopped Ranthia an instant before she left.
+
+The light had largely receded, but their tent’s fabric walls were no longer wholly opaque. The shadows of their surrounding tents flickered in the light of distant (gods willing, intentional) fires.
+
+But Ranthia had never heard Avyna take that tone. It wasn’t a plea or a request. It was an order, given out of desperation. Their perceptions were already accelerated to the limits of their stats; Avyna had no time to plan her words or control her tone.
+
+“Your level is too low. Blast like that, as bright as it was, it had to be the work of a level 2560 [Mage]. At a small! You must not go!” The words were the sloppiest Ranthia had ever heard from Avyna, but she only had ears for the desperation and terror in her elf’s voice.
+
+“…I have to, I have to know if that’s coming for us.” Ranthia’s reply wavered. Avyna’s fears were only escalating her own sense of dread.
+
+“You would not stop such a [Mage].” The desperation lent the words an accusatory edge.
+
+“Neither would Remera! Would your enchantments on this tent?!” Ranthia wasn’t entirely sure which answer she wanted to hear.
+
+The few lighting crystals and remaining enchantments dimmed and faded. Avyna’s hand stayed on the support column that housed the bulk of the enchantments, shunting the mana away from them so she could repair the damage the far away blast caused.
+
+“…No, my love.” Avyna admitted, her words rendered redundant by the fluke of timing.
+
+“I’ll be careful.” Ranthia promised.
+
+The terrified elf said nothing else, not even when Ranthia left their suddenly mundane tent.
+
+“Sentinel Grace, stop!”
+
+Godsdamnit, was there some sort of grand conspiracy trying to keep her from investigating? The gatekeeper [Mages] had refused to raise the gate for her, so Ranthia was forced to ascend the walls. Yet before she could jump…
+
+The situation in Remera was grim. Most of the soldiers on wall duty had been blown off by the shockwave from the distant explosion. Stalwart [Warriors], knocked over as readily as children that dared to step out of the white lane and were struck by a wagon or a classer. The walls spared Remera itself from the blast, but there were fires being fought throughout the canvas-filled base. The cold snap was receding, but there were still fires set up across the walls that found themselves forcibly relocated—just as too many people were.
+
+But in that heartbeat that Ranthia lingered to survey the damage, the base commander had caught sight of her. The man was visibly winded on the ground near the wall, but he was pointing right at her.
+
+“We need you here, whatever that was—” The man began.
+
+“Could destroy Remera in an instant. I have to scout the situation, or we might never know what killed us!” Ranthia snapped.
+
+She hadn’t let Avyna’s fear stop her. She sure as chaos wasn’t going to let some puffed up idiot stop her. Had her head been in a better place, she would have waited for the man to give her permission—he had no real choice in the matter.
+
+But she didn’t.
+
+Ranthia leapt from the wall before the lower-level man could parse out her words—she had spoken too quickly for him to readily understand—and set off. The explosion had largely dissipated in the precious moments she had already lost, but the wall of billowing dust was all the landmark she required.
+
+The moons were barely visible through the sand and smoke that filled the air, and Ranthia sorely wished she had something that would work to cover her mouth and nose. She moved fast enough that it was a struggle to keep her lips sealed. Her tongue was steadily coated with the never pleasing flavor of dusty rocks, to say nothing of what had to be happening inside her nose as she breathed.
+
+Ranthia wasn’t worried though, she could always shift if her breathing became too impaired—and discomfort wasn’t worth the delay. She was trying to conserve her mana though; her arcanite hadn’t recovered to full capacity. She had most of it, but if the shimagu had a twin at the level tiers Avyna threatened…
+
+Well, Ranthia just needed to keep her options open and find out the truth. She could worry about what-ifs when she had the luxury to workshop solutions to impossible quandaries; for the moment, she needed knowledge.
+
+Ranthia felt numb as she ran. Her mind focused on mundane concerns—like the gross layer of chalky mud slowly building up in her mouth—and strategic plans that assumed a threat that she could actually respond to. It was probably better than a panic spiral about the reality that she was likely closing in—all too slowly—on a twin or monstrosity that could obliterate her before she ever even arrived. If Avyna was correct, there was nothing to be done.
+
+So Ranthia, for the first time, chose to operate on the assumption that the woman she loved and trusted was wrong.
+
+The ‘dust wall’ was less a wall and more a gargantuan dust storm that raged around the site of the explosion, spread over a massive area. Ranthia took a deep breath before she hit it and tried to hold out while she danced through the sediment. While she was obscured, she took her first safety measure—five images joined her.
+
+Only four made it through the dust, but Ranthia emerged on the other side of the gradually fading storm. The most obvious thing she saw was a large, glowing crater—grander than anything she had witnessed a [Mage] leaving in the rocky terrain that the war was predominantly fought in—that shattered what had once been a ravine. Scattered rocks dotted the vicinity of the crater, often with gouges left in their paths.
+
+But [Divine-Touched Identify] found nothing. If anyone or anything had been present—or survived that blast—there was no trace.
+
+Ranthia moved forward slowly—mundane speeds with her perception at its upper limits—alongside her images, three ahead of her, one behind. All five of her kept their heads mobile, looking in every direction—including up—as they moved closer to the crater. The crater itself was still pouring out heat—as if some great Radiance strike had melted away the stone—but the moonlit air still carried its expected chill. Ranthia shivered at the incongruity of feeling both cold and uncomfortably hot at the same time, as she slowly calmed down from her fear of sudden death.
+
+“What in Xaoc’s glory happened here?” Ranthia mused aloud as she slowed her perception.
+
+It was hard to imagine an explanation. Sure, a classer—at least at the tier Avyna seemed to have expected—could have unleashed devastation and left in the time it took Ranthia to get there, but… Why the heck would a powerful classer feel obligated to erase a chunk of a wasteland? Had the shimagu managed to antagonize a dragon? Or was there—
+
+“I had just started to find a measure of hope.”
+
+Night was standing right beside her. Ranthia’s heart spasmed so hard she thought it was about to rip itself out of her breast—she had never even known he was there until he spoke! If her knives had been formed, she might have attacked him out of instinct. Instead, she scurried away from him in a fit of panic while she aborted the brief impulse to form them.
+
+“Some warning?!” Ranthia not-entirely-coherently requested.
+
+Night turned to face her. She had missed the all-too-familiar emotions that colored his words when he first spoke—she had been far too surprised—but as he continued to speak…
+
+“Sentinel Hunting often operated in this area. I witnessed it myself, the blast was bright, but the description of the mushroom of fire was apt. Just as with Eboracum and Tencteri…” Night trailed off.
+
+Grief. The emotion almost felt tactile; it was so overwhelmingly blatant. Night had always seemed poised and in control—almost outright indifferent—and yet… Under any other circumstances, Ranthia would have indulged in a moment of outrage: Hunting had operated at what was, for them, a short fucking jaunt from Remera and he had never bothered to visit or invite her out?! A tiny, tiny piece of her still seethed over it.
+
+The bulk of her was too aware of her superior’s—co-worker’s, whatever—pain. The implication was unmistakable. The natural conclusion came to her mind. The possibility that she had denied so utterly that it hadn’t even taken root amongst the outlandish scenarios she had imagined.
+
+“He can’t be…” Ranthia impotently protested.
+
+Hunting couldn’t be dead. Just because he was a Void [Mage]… the gods couldn’t be so cruel as that! It was nonsensical. An element couldn’t possibly cause someone to just inevitably and inexplicably explode! It had to be some story, some outlandish bit of fiction that got misconstrued as the truth. Those strange words—names, no doubt—Night spoke of couldn’t possibly be evidence.
+
+Honestly, a mushroom of fire? It was too ridiculous!
+
+“Grace, explore this area, and be thorough. The terrain has changed substantially, but there should have been a rock formation within that mess that Hunting may have left word in. I shall check every other drop and cache he possessed. Remain in this area; I will return.” Night refused to engage in debating the truth of the obvious nearby reality, instead he assigned his orders and blurred into movement.
+
+Ranthia accelerated her perception to watch him go. He was still faster than she was, but she had enough vitality to watch him move. Whether he ran or fought, Night was usually a model of efficiency—every movement that his body made required a specific purpose. It was antithetical to her own style of flourished rhythm, but even still, it had always impressed her. Someone that hadn’t fought side-by-side and back-to-back with the vampire might have never noticed the difference, but the efficient movements were absent.
+
+He moved as if he was trying to burn his pain through physical exertion.
+
+Ranthia sucked in her next breath and balled her fists, but she buried her pain beneath a rich layer of disbelief.
+
+Hunting was still alive. He had to be. There was no way he would die in a wasteland to a fucking flaw in the System. There couldn’t even be such a thing, it was an absurdity predicated on an absurdity.
+
+But orders were orders, even if they were meaningless. Honestly, Night probably even had the location wrong—they were a few days’ march from Remera, it was far too close. The crater just probably threw him off.
+
+That made sense, Ranthia insisted to herself, even as she danced down a collapsed cliff face to reach the ravine, a distance from the cooling—definitely dragon-inflicted—crater. The certainty felt intoxicating and buoyant. Ranthia giggled to herself at the idea of Hunting showing up to investigate the explosion and the look that would appear on Night’s face when he found them together, safe and sound.
+
+Seriously, the vampire was entirely too self-assured. He found a conclusion and assumed it had to be the truth because he came up with it.
+
+Ranthia denied his truth, just as she denied the tears that fell from her own traitorous eyes.
+
+Looking for a “rock formation” was an absurd notion. The terrain itself was a rocky wasteland and the explosion—er, the Radiance attack—had shattered and scattered all of it. No rock formation had survived for a long jaunt.
+
+Ranthia found herself picking through broken chunks of stone and dust for hours. It was easy to imagine that the process could take days—possibly weeks—even at her speed. The cliff walls that surrounded the ravine had failed throughout the area. Ranthia was in a sea of shattered rock, and she was expected to find… something nonspecific within it.
+
+She attacked the impossibility with the same degree of resolve she had assailed a goblin den with when she was a child that was desperate to finally find acceptance. For hours, Ranthia blurred through the ravine. A search grid or pattern would have been more efficient, but she had zero intention of spending weeks out there. She trusted her instincts and lunged between sites that, for whatever reason, felt promising and tore them apart until her momentum carried her elsewhere. Had anyone else been in the vicinity, she would have been a hazard, but she was alone.
+
+Besides, if anyone else did show up, it would either be Night—who could dodge (though he could probably use a rock or eight bounced off his skull)—or a shimagu patrol sent to investigate the situation. Ranthia wouldn’t feel any trace of guilt at throwing rocks in either case, so she operated under the assumption that she was alone.
+
+“Sentinel Grace.”
+
+Night had the decency to call out before he made his descent into the ravine—the most direct way possible. The man landed with suspicious lightness and strolled over the difficult terrain as if it was a well-worn, time-smoothed road in Ariminum.
+
+Ranthia looked up from where she knelt and beckoned the vampire closer. The timing was impeccable—she had just found something.
+
+And she was doing her level best to protect the fragile fragment of parchment from annihilation.
+
+Night crouched near her, but Ranthia, for once, ignored her revulsion at his close proximity. The parchment was blackened by heat, but one small segment had yet to crumble. The black dust that coated the sediment around it suggested there was once quite a bit more to the message. She had no idea if it was even a message—it was incredibly difficult to make out the charcoal symbols smudged atop the ash.
+
+Silence reigned as they assessed the remnants that were once parchment. Twice, Night produced a gemstone, but he seemed to silently discard the possibilities the Skills imbued in the gems promised each time. Eventually, Night spoke and explained that the symbols were the shapes of Ranger hand signs, then the two of them started debating with one another about what the few precious symbols that were left meant.
+
+‘City’ was the first one that they agreed on. The shape was distinct and neither had any doubts, even when Night blew a gem to grant them a few precious moments of brilliant illumination. The others were more ambiguous, which made it harder to be certain. ‘Fire’ and ‘danger’ shared the same foundation for their shape, and it took quite a bit of back and forth before Night finally convinced her that ‘danger’ was the only sensible translation.
+
+But there were only three “intact” (again, charcoal on ash) symbols, and the other four(?) were too incomplete to do much more than eliminate a handful of blatantly incompatible shapes.
+
+And Ranthia was never, ever admitting that a small (tiny, even!) section of the burnt parchment fragment had crumbled when she tried to pick it up, even with her dexterity. She was beyond human rationality, but ash just wanted to crumble. She felt terrible about it, and she had no way to know whether or not she had cost them some precious piece of context.
+
+But if Night asked, she was absolutely claiming the black dust on her finger came from the dirt around the intact segment.
+
+“So, we have ‘large’ and ‘city’ together and, from a different line, ‘danger’.” Ranthia summarized, once the debates had come to an end.
+
+Night simply nodded, but he chose to remain silent. Their certainty level was far less than either of them would have liked. Had the parchment been just a bit further away, perhaps more of it would have endured. …As if that was the tweak to reality that Ranthia would have wished for.
+
+The search had required just enough attention that it let her put off thinking. The puzzle of trying to make out the symbols and find meaning in the ashes was an even more welcome distraction.
+
+And she was out of excuses.
+
+She had already checked the crater as part of her hunt through the rubble. It was still hot enough that she had to dance across it at speed to keep her sandals from failing, but there was nothing at all to be found within its glassy confines. She desperately wanted to find something else she needed to do—Night’s pensive expression promised an imminent dire conversation—but…
+
+“He was expecting to hit level 704 soon, or so he stated when we last spoke. Hunting came so close to escaping this fate. We all knew the risks, but even I found it hard to resist discovering hope as he drew closer to the next class up tier.” Night spoke into the lingering silence before Ranthia found an implausible escape route.
+
+“Can you move to block the wind? I need to stand.” Ranthia tried to refuse—she did her best to not think about what over 50 levels in less than a year truly meant. Or that there had only been a mere 64 levels to go.
+
+“I do not believe that either of us needs to try to protect the last fragment of the message, it is unlikely that additional time will grant us new meaning. Neither of us possess the Skills required to restore it. They exist, and I have known people who could have aided us, but I never saw fit to carry gemstones with such niche talents.” Night explained while he smoothly rose back to his full height.
+
+Ranthia exhaled slowly as she stood and stepped to the side. Before her eyes, the burnt remnant of Hunting’s fin—Hunting’s message slowly shattered on the breeze that blew through the ravine.
+
+“We should depart soon. The Legion’s leadership will need to know of the message that we found. Hunting may or may not have intended to speak of the city that the Legions move on, but whether he was intending to warn them of danger or he was warning us that a greater danger lies in a different city, I am unable to say. They should know, either way, just in case the incomplete intel still proves useful.
+
+“I must also send word to Remus, that Hunting is to be added to the—”
+
+“No!” Ranthia cut Night off hurriedly. At his flat look, she fished for a viable explanation. “I know the wait period for a missing Sentinel is diminished because of the war, but he might still be out there! He has to be…”
+
+“I can wait until my next trip to Remus. It will be at least eight days, possibly longer.” Night offered in a kind tone.
+
+Ranthia couldn’t find the words to respond to that, so she finally just nodded.
+
+“Grace, if I might impose on you, I can see that the sun has begun to rise. I am carrying a large, thick sailcloth that is inscribed. If I might request your assistance to see myself wrapped, so that you may get me back to your base without issue?” Night’s priorities shifted after an upward glance.
+
+The sky was starting to color with the touch of dawn.
+
+Ranthia eyed Night and—with a head full of images of her carrying a bundled vampire in her arms, his fangs nestled entirely too near her neck—she shook her head.
+
+“I have a better idea: I saw some trees over that way. Just… cover yourself and give me a moment!” Ranthia countered, before she took off at her top speed.
+
+One final dance across the crater.
+
+The trip back to Remera proceeded remarkably smoothly. The dust storm had settled into a vaguely uncomfortable dust haze that induced more than a few coughs from Ranthia—Night was seemingly unbothered, possibly because of the thick canvas that protected him—but it wasn’t perilous to her images any longer, at least.
+
+Ranthia guided four of her images, each of which held a tree limb that hooked under the expanse of sailcloth and kept Night from tripping over his own protection, while the limb he carried kept the cloth off his head. It worked, especially with the cloth’s inscriptions darkening the shadows beneath it.
+
+The shimagu seemingly continued to avoid the area where a gargantuan explosion had changed night into a brief-lived day. Which probably—and uncomfortably—suggested that they possessed a greater sense of self-preservation than Ranthia did. But she had really good reasons to venture out! The thought was grating, but it was more pleasant than most of the thoughts that tried to assail her during their trek.
+
+The sun had ascended into the sky before Ranthia passed—grudgingly—through Remera’s excessively dangerous gates. The guards on duty quirked an eyebrow at her unusual behavior and Ranthia shrugged before she gestured to the vampire-in-a-mobile-tent behind her, escorted by four of herself. Some sights were absurd enough to serve as their own justification.
+
+One of the [Healers] that screened them finally asked why Sentinel Night was under a tarp. “I am afraid that sunlight disagrees with me. I have had others theorize that it has to do with my complexion.” Night’s ridiculous reply somehow satisfied the man, and they were allowed through.
+
+The urge to tease Night over his deceitful response passed as swiftly as it came; Ranthia just wanted to deliver the vampire to whatever shelter he mentioned and get home. Remera was, in many ways, a more hazardous region than any earlier part of their journey—Ranthia had to keep her perception at its limits to give her images time to avoid obstacles and inattentive legionaries while they circumnavigated the inner walls. The fact that she had to do so without jostling the fabric too much forced her to personally intervene more than a few times.
+
+“Here.” Night’s atypically solitary word stopped Ranthia behind a pair of quiet storage tents. Even with Night’s instructions guiding her, it still took several long—and increasingly awkward—moments before Ranthia found the concealed handle. With a grunt of effort against the weight, she finally pried the base plate open, revealing a small hollow within it.
+
+Just enough space for two or three bodies. Laid horizontally.
+
+“My gratitude to you, Grace. There is no need to look for me tonight, I must return to Coalition City as soon as I am able. I wish you well.” Night’s canvas covering bobbed with the vampire’s respectful nod, before the man… slithered into his nightmarish hole.
+
+There was no nicer way to put that.
+
+Ranthia just closed the hidden panel—trying not to think about what being in there would be like—and then shoved all of that out of her mind. She was ready to get home—a prayer or eight would mean the world to her, and she was eager to show Avyna that she was safe.
+
+And she was still legitimately relieved that Night declined her hospitality, even if she was pretty sure that she would snap if she tried to spend a day in such a confined space.
+
+“My love!” Avyna launched herself from the bench at their table, somehow managing to set her mug of tea down without incident despite her rush.
+
+“Hey babe. It’s okay, there was no danger.” Ranthia… well, even she couldn’t in good conscience claim those few words explained anything. But they were the best she had at that moment.
+
+She gave her wife a quick kiss, but she declined to let the elf embrace her—she needed to center herself a bit more before she could withstand her beloved’s embrace. Her emotions and thoughts needed to settle before she could let herself relax. Somewhat woodenly, Ranthia shifted out of her armor as she stepped into their private area and retrieved it from the image she dismissed. The armor was a bit dusty, but nothing was an immediate problem—she could clean it later. Her sandals were, remarkably, still in good condition too, even if they were filthy. She placed everything on the stand.
+
+Their home was illuminated again; she could only assume that Avyna had repaired the damaged enchantments while Ranthia was out. Everything was where it should be. A piece of her world was still intact. She had planned to head straight for her personal altar and start praying to Xaoc until she felt strong enough, but she instead found herself looking around their home, as if she was trying to find something out of place—some sign that reflected how wrong the world felt.
+
+There wasn’t one, of course. Even if Avyna had moved anything during the repairs, the elf was far too perfect and meticulous to leave a mess in her wake. If something was worth doing, it was worth doing completely and thoroughly—Avyna wasn’t one for half-measures. Ranthia loved that about her.
+
+Just before she gave up on her inexplicable desire to stall, Ranthia’s gaze landed on mage-rock. She never actually told Hunting about mage-rock. But why hadn’t she? Sure, no one else seemed to find the notion of a regular rock being a [Mage] of burgeoning talent amusing—but she was, suddenly, surprisingly certain that Hunting would have. She already had mage-rock the last time she saw Hunting. She had even told him about what she did during the hell months to the trainee candidates. So why had she omitted mage-rock from the story?
+
+Hunting would have laughed. She could picture it so clearly that she could almost hear his guffaws.
+
+He would have.
+
+…He truly would have.
+
+But it was too late.
+
+Hunting was gone. She missed her opportunity. He had been so close by, at least by her standards—yet she had never even fucking known.
+
+Ranthia staggered breathlessly as the grief that she had tried to seal away beneath an impenetrable layer of denial finally hit her properly. She could no longer deny the obvious truth. And, even as she crumbled beneath her emotions, Avyna was there. In the arms of her beloved, Ranthia abandoned her efforts to rein the maelstrom of misery in.
+
+She wept, supported only by Avyna’s strength.
+
+At some point, Ranthia fell asleep while she bawled like a child against the love of her life. Ranthia felt sufficiently better when she woke up, with her head in Avyna’s lap, that mortification came to her almost immediately. Gods and goddesses, she was a grown woman!
+
+Ranthia tried to extricate herself, but Avyna’s fingers were still resting on her scalp and the elf stirred when Ranthia tried to move. Avyna was all smiles and gentle, affectionate positivity—without a hint of judgment or discomfort. Ranthia acquiesced to a shower and Avyna even allowed Ranthia to wash her flowing hair—a rare treat; Avyna tended to be protective of her gorgeous, silky locks.
+
+“What do you want for lunch, my love?” Avyna asked in a too-innocent tone while she toweled herself off.
+
+Ranthia could still admire the view, even while she was unable to muster the energy required for lust.
+
+“…Wait, shouldn’t you be at your shop?” Ranthia finally realized.
+
+“I intended to wait for you, and you were in distress at the loss of your mentor. It is no problem, my love.” Avyna answered with a reassuring smile.
+
+“Oh, babe… You are entirely too good to me, but seriously—I’m fine now. Let’s just eat something quick so you don’t lose the full day?” Ranthia offered.
+
+A nutty bread with some cheese and a few shared pieces of fruit served as their meal. Avyna was hesitant to leave Ranthia alone, but Ranthia promised that she would just be praying at her altar for a while. Finally, Avyna gave in and, a few loving kisses later, made her way out to open her shop.
+
+Ranthia, as promised, knelt at her altar and began to pray. She rambled. It was a clumsy prayer that moved from point to point as Ranthia tried to sort out her own feelings. She recommended Hunting as an angel candidate, though she admitted that he was unlikely to accept. Hunting had never seemed to have any interest in the gods, and she was all but certain that the man would rather let Black Crow carry him to Samsara—where he could seek his next adventure.
+
+It was too selfish to ask to meet whomever Hunting became in the future, but Ranthia danced around it before she managed to quash the urge. Instead, she spoke of who Hunting was. In a lot of ways, it was strange how intensely his parting hit her. In truth, they hadn’t spent that much time together. But he had helped her so much on her path. The man was—had been—an ass, but he had never questioned her potential.
+
+If anything, he saw a brighter future for her than she did.
+
+Hunting had always reminded her of a strange meshing of Tatius and Pupius. It was impossible that either of their souls resided in him, but he was cut from a similar cloth as her fathers were. They were all men that had served in the Legions and sought to become something more—even if they had wildly different ideas about what that meant. So, losing him was like losing her fathers yet again, even before the debts that she owed him.
+
+Hunting had done what he believed was the best for her, even if it left her bruised and confused. He was the kind of mentor that was easy to hate, yet he was inexplicably likable in spite of everything. He had his awkward parts too, like his inability to refer to his friends and peers as anything outside of their titles. And he was forever marked with grief from the loss of his closest partner.
+
+Ranthia could at least pray that Hunting and Katastrofi would meet again in another life.
+
+Her prayers stretched for hours as Ranthia’s thoughts meandered through the scars of her emotions, but through every last moment, she felt Xaoc’s presence. He never reacted, but He listened to every word she sent Him. And that silent, patient acknowledgement meant more to her than any response ever could have.

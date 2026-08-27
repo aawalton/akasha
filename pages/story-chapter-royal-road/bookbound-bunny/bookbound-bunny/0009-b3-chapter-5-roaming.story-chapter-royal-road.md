@@ -1,0 +1,259 @@
+---
+id: bf160746-bbaf-5a7e-9f06-cc0389bf5aae
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 5 - Roaming"
+slug: 0009-b3-chapter-5-roaming
+partOf: bookbound-bunny
+position: 9
+ownLength: 2443
+unit: words
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3039016/b3-chapter-5-roaming"
+royalRoadId: "3039016"
+---
+
+"Right, so can anyone tell me what the number one issue is for night watch?" Alice asked.
+
+A few answers were given, mostly revolving around various nocturnal monster types. However, Alice never told them whether they were right or wrong, so the class just kept guessing.
+
+Eventually, when everyone seemed to have given up, Alice finally revealed the answer. "Boredom!" she announced, accompanied by a smirk.
+
+Lily and the rest of the students looked at their teacher as if she were merely joking, but then she elaborated.
+
+"If you're bored, you might fall asleep, and then there's no point in being on watch. So, always try to have something to keep yourself occupied with."
+
+"I said falling asleep," Hana pouted.
+
+"But the root cause is boredom!" Alice stubbornly insisted. "And since you're all mages, you have a natural advantage in this regard since you can just practice spells to pass the time."
+
+The students groaned at her answer, likely from either Alice's stubborn insistence or the solution to just practice spells. Lily understood that not everyone would share her enthusiasm for routine practice.
+
+"Just make sure you don't cause too much of a lightshow, or you might bring something unexpected to the camp," Alice warned. "Of course, you can do whatever you can think of. The best thing is to have a partner on duty since you can chat or, at worst, keep each other awake. Actually, your Familiars are pretty good for that part as well."
+
+Naturally, the next question from the students was "Do you want us to practice now?" to which Alice shook her head.
+
+"Why don't we share spooky stories?" Alice suggested, a devilish grin on her face. "I'll start…"
+
+Once Alice was deep into her tale, a few students couldn't help but hope a monster would attack right then. Sadly, it never happened, and they were left feeling tense throughout their shift. When they swapped with the next batch, their pale expressions had caused quite a fright.
+
+"What happened?" Thomas asked.
+
+"Alice," Lily said. It was enough of an answer, and Thomas could only gulp and nod.
+
+The evening wasn't just Alice trying her best to unsettle everyone; she also pointed out a few things to watch out for. There were also mentions of a few methods for informing your companions and diverting attention away from them as they got ready.
+
+When the night was finally over, there hadn't been a single attack, and Alice actually looked quite annoyed by it.
+
+"I guess my presence scared them off," Alice muttered.
+
+Lily shook her head. If I were a monster, I wouldn't want to run into you either!
+
+With everyone safely awake, they were told to pack up and disperse to their respective territories. Some of them were expecting some last-minute words of wisdom, but Alice practically shooed them away.
+
+Lily, Lotte, and Thomas shrugged at one another and set off. Once they were far enough away, they began joking about the tyrant Alice now that she was out of ear reach.
+
+"This should be quite exciting. Hopefully, it doesn't take too long to reach our spot so we can set up and start exploring," Lotte said.
+
+Thomas pulled out the map they had received that marked their spot. "It doesn't look too far. We should have plenty of time."
+
+"I still can't get over how big this place is," Lily said. "Sun, stars, animals, trees, it really doesn't feel like we are in the dungeon."
+
+"Makes me wonder what the floors below are like," Lotte replied.
+
+"Have you two heard anything about them?" Thomas asked.
+
+"I only accidentally heard that one of the floors is blanketed in darkness," Lily answered. "Rose asked for night drops once she heard I'd received the recipe."
+
+"I still can't believe you made them so easily," Lotte sighed. "My night drops are more like afternoon drops with how bad they are."
+
+"You'll get there soon, I bet," Lily encouraged.
+
+"Definitely," Thomas agreed. "Still, a floor entirely in the dark. That sounds like quite a challenge."
+
+"Well, we could always try exploring at night in the forest to get a feel for it," Lotte suggested.
+
+"That's not a bad idea…" Lily murmured.
+
+"Really? I was half kidding," Lotte chuckled.
+
+"No, I agree as well," Thomas said. "Different monsters are active at night, so we could get a change in variety."
+
+"And there should be different plants too," Lily added.
+
+Lotte frowned. "Plants? Does the dungeon spawn them after the sun sets?"
+
+Lily giggled and shook her head. "No. Some magical plants only bloom at night, and if you pick them during the day, they tend to wither."
+
+"Sounds like someone hasn't been reading their herbology book," Thomas teased.
+
+"Wait, even you knew?" Lotte asked in surprise.
+
+Thomas nodded.
+
+"You aren't even taking alchemy class, though," Lotte replied.
+
+"But I have two alchemist friends whom I could sell to," Thomas said with a smile. "Also, I never turn down a good book to read."
+
+Lotte could only give up in defeat, and she tried to swiftly change the subject. The group continued to chat while remaining vigilant for any potential monsters. They definitely agreed to try a nighttime exploration at least once, but only after they had secured their pass.
+
+While they were journeying, they also kept an eye out for potential gatherings, and thanks to Lotte, they had a unique advantage in this regard. Typically, one would never attempt to eat any unknown berries or fruits, but Lotte could taste-test without any fear.
+
+"At this rate, you'll become like Professor Sylwel," Lily teased.
+
+"I hope not. I'd look awful in a shade of blue," Lotte joked back.
+
+While they were giggling, Lily's ears suddenly perked up at the sound of something large approaching.
+
+"Monster!" Lily shouted, her Nebula Veil materializing over her.
+
+Lotte and Thomas quickly reacted, joining Lily as the three stuck close together in case of an ambush. However, rather than a creature of subtlety, they had come across something on the complete opposite end of the spectrum.
+
+"A dire bear!" Lily exclaimed, pointing at where she could spot it through the trees.
+
+"What? There were no signs that this was its territory," Thomas replied.
+
+"It must be a roamer then," Lily said.
+
+"And a big one at that," Lotte replied before clicking her tongue. "Damn, this makes the bear I saw look like a cuddly teddy bear."
+
+"Should we flee?" Lily suggested.
+
+"No way!" Thomas snapped. "You never run away from a bear. I read that those things are faster than a horse."
+
+"Then we stand and fight," Lotte confidently declared.
+
+Lily and Thomas nodded, just in time, as the beast had finally approached close enough to spot them. The second it did, it raised back on its hind legs before letting out an intimidating roar.
+
+Lightning began to crackle as Thomas started chanting while a wisp of luminous green magic began to swirl around Lotte's arm. Both were poised to attack as Lily's cloak began to billow out; at that moment, she had the highest defense of the group.
+
+While they were prepared to stand their ground, Lily also pulled out her wand. She could summon a Starburst at a moment's notice, but had a flash of inspiration to try using an explosive rune.
+
+"I don't think you have the time to draw right now, Lily!" Lotte said in a panic.
+
+"Watch me!" Lily replied as she began swishing the wand in quick and definitive strokes.
+
+The bear had finished its intimidating roar and charged forth; its speed was terrifying, and, coupled with its size, it seemed unstoppable.
+
+Lily was already finishing off her explosive rune as she directed it to the ground, while Thomas let off a bolt of lightning. The air crackled, and the smell of burnt ozone permeated as the beast was struck; however, its assault lasted only a few seconds.
+
+"Crap, I thought that would stun it for longer," Thomas cursed.
+
+"Good job anyway! I didn't know you could do ranged spells already!" Lotte shouted as she prepared to unleash her own spell.
+
+"Back away as you shoot," Lily said, already trying to draw a second rune.
+
+"You don't need to tell me twice," Lotte joked as she finally unleashed her own spell.
+
+The magical glowing serpent shot out like an arrow, its "fangs" bared as it rapidly approached its target. The bear made no effort to dodge, and the spell struck its shoulder.
+
+"Damn, I was going for the head," Lotte complained, beginning to prepare another one.
+
+Despite her complaint, the sickening spell was doing wonders as the dire bear's shoulder was rapidly being eaten away. Unfortunately, due to its sheer size, it would take some time before the spell reached the joint through the girth and impaired its movement.
+
+Lily had placed a second rune in their path by the time Thomas fired another bolt of lightning while they continued to back away. The jolt briefly hampered it, but it was still barreling for them.
+
+"Lily, can you even block it?" Thomas asked with concern.
+
+"I can certainly try," Lily replied, while her free hand reached into her pocket.
+
+Her cloak was a fantastic defense, but even she began to doubt whether it would be enough to stop such a heavy monster. Lily had a shield talisman at the ready, and not only that, but the bear was about to approach the first rune.
+
+"Brace yourselves!" Lily warned, as she wasn't entirely sure how powerful the blast would be.
+
+The dire bear unknowingly stepped over the white rune, which flashed an ominous red before erupting in an explosion. The bear was even momentarily knocked backwards, with earthy shrapnel flying everywhere.
+
+"What!?" Lotte and Thomas cried out in surprise.
+
+"Focus on the bear!" Lily insisted, even though she, too, was shocked by the violent display.
+
+Lotte's second spell struck the exposed chest of the bear that was still reeling backwards from the blast, causing it to roar out in agony.
+
+"Direct hit!" Lotte cheered.
+
+In theory, with the way Lotte's magic worked, the bear was now on borrowed time. The poisonous and corrosive spell would continue to spread according to the amount of Mana Lotte had put into it, and judging by the size of this second one, she had thrown a lot!
+
+The bear had recovered from the explosion and charged again mindlessly. Thanks to the setbacks, Lily had even managed to layer a second explosive rune over the remaining one, doubling the potency of the trap.
+
+All three noticed the bear trigger the trap and collectively held their breaths in anticipation. The stacked runes flashed together, and in a terrifying blast, actually flung the bear upwards from sheer force.
+
+Lily and Lotte cried out in shock while Thomas grit his teeth. The bear came crashing down, its injuries severe, and the limb Lotte first struck had gone missing.
+
+Thomas threw out one last bolt, and before Lily or Lotte could do anything else, the bear exploded into countless black flakes that polluted the area.
+
+"Holy crap, we beat it!" Thomas yelled.
+
+"Of course! We're the number one team!" Lotte gloated.
+
+Lily let out a sigh of relief. While they still had more to throw at it, it was better that they didn't have to tangle with it in melee. Even with their Wards to save them, such a huge beast was terrifying.
+
+"Since when could you cast explosion magic?" Lotte asked, now that they'd calmed down.
+
+"It's an explosive rune," Lily explained. "It's basically a dumb glyph."
+
+"Dumb? It totally sent that bear flying!" Lotte exclaimed.
+
+"Yes, but it can only explode," Lily tried to explain.
+
+"Isn't that more than enough?" Lotte questioned.
+
+Lily sighed and shrugged; she couldn't really explain it, especially not with such incredible results.
+
+"Hey, look, we managed to claim some monster meat," Thomas interrupted, pointing at the bear's arm lying on the ground.
+
+The three approached it cautiously, their expressions a mix of surprise and shock. None of them technically had the spells at the ready to do this, and yet they'd accidentally succeeded.
+
+"It looks like it was heavily weakened from your spell, and then when it stepped on the trap, the blast took it clean off," Thomas suggested.
+
+"That makes sense," Lily agreed.
+
+"The bad news is, I don't think anyone's Familiar will eat it," Lotte said with a sigh.
+
+Lily and Thomas were both confused until they looked closer. There were still remnants of Lotte's spell clinging to the limb, slowly poisoning and eroding it.
+
+Despite that, Yona jumped off Thomas' head and sniffed at the limb. Thomas was about to scream at her when she stuck up her nose at it, and walked away as if not interested.
+
+"That was close…" Thomas sighed in relief.
+
+"I can't believe it. Finally, something even Yona won't touch," Lotte joked.
+
+[The lizard should be able to eat it.]
+
+Lily nearly jumped out of her skin. Arakil had been silently observing for over a day, so she hadn't expected him to suddenly speak up.
+
+"What about Jade?" Lily suggested.
+
+Lotte hesitated for a moment before summoning forth her Familiar. The green and rather rotund horned lizard appeared in a flash, looking quite excited.
+
+"Maybe I need to keep you out more to lose some weight," Lotte chuckled.
+
+Before anyone could say or do anything else, Jade sniffed the air excitedly before wobbling over to the bear limb. She licked her lips as if observing a mouthwatering banquet.
+
+"No way, are you serious?" Thomas asked right as Jade chomped down on the leg.
+
+"Jade…" Lotte said with concern.
+
+"It should be fine. She's your Familiar after all," Lily replied.
+
+While not as impressive as Yona's eating speed, the limb was soon gone. Even the clearly contaminated parts were swallowed by Jade without delay.
+
+"Are you okay?" Lotte asked.
+
+Jade let out a satisfied burp before wagging her scaly tail excitedly.
+
+"Looks like she can eat poison?" Thomas asked.
+
+"Looks like it," Lily agreed.
+
+Lotte's eyes suddenly widened. "Is that why you give me so much trouble whenever I try to dismiss you? You wanted to eat poison?"
+
+Jade nodded, and Lotte groaned as she rubbed her temples in frustration.
+
+"At least you figured it out now," Lily said with an awkward smile.
+
+Lotte turned to her and sighed before giving a slow nod.
+
+"Let's walk and talk," Thomas suddenly suggested. "With those explosions, we might have more roamers heading here shortly."
+
+The two girls nodded in agreement, Lotte scooping up Jade as they quickly vacated the area.
+
+Hopefully, we don't run into more trouble before we reach our area…

@@ -1,0 +1,287 @@
+---
+id: 3f4342d1-de88-5ec8-94de-a7cb7ecaa5c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter ??? - Dragoneye Mortis 1.1"
+slug: 0009-chapter-dragoneye-mortis-1-1
+partOf: beneath-the-dragoneye-moons
+position: 9
+ownLength: 1994
+unit: words
+publishedAt: 2021-08-13
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/733089/chapter-dragoneye-mortis-11"
+royalRoadId: "733089"
+---
+
+Whatever Vita expected to be doing this morning, it sure wasn’t hurling head-over-heels through an unknown void. Like getting sucked down a river, she tumbled uncontrollably, no memory of how she got here and no idea where ‘here’ even was.  Time seemed to have no meaning here, space was nothing but a force pulling her along.  She’d given up struggling, spending her time pulling mana into and out of her soul.  What else was there to do?  Only when she was unceremoniously dumped into the middle of a field, landing face-first in the grass, did she come back to her senses.
+
+And then the voices start.
+
+[*ding!* Welcome to Pallos!]
+
+[Name: Vita]
+
+[Race: n<=£‡§ô!ã]
+
+[Age: 16]
+
+[Time remaining on System locks: -72,435:53:22]
+
+[*ding!* Congratulations! You’ve survived your early years, and the system is now fully unlocked for you!]
+
+“What?  What the fuck?” Vita snapped, jerking her head up and looking around.
+
+“Ooh!  We finally caught one!” a sing-song voice announced.
+
+“What is this thing?” another voice grumbled.  “You were supposed to get a human!”
+
+“This is a human!”
+
+“I don’t think it is.”
+
+“Who’s there!?” Vita shouted, trying to feel around.  But there was nothing.  No souls, anywhere.  It felt like she was still in the void.
+
+[*ding!* Congratulations! You’ve earned your first class – [Child of Nothing] - Mist]
+
+[Child of Nothing] – A starter class for eÁ*Â>n £ÃûùZ9Ào¡ Aôâ/¥Wà ¼±»ÙBè! +4 Free Stat points per level.
+
+[*ding!* Congratulations! [Child of Nothing] has leveled up to level 1 -> 8! +4 Free Stat points per level from your class, +10 Mana for your race per level, +1 Speed and +1 Dexterity from your element per level!]
+
+[*ding!* Congratulations! You can now advance your class!]
+
+“Class?  What’s a class?” Vita growled, standing up to look around.  “Who is saying all this?  Where am I?”
+
+[*ding!* You’ve unlocked the General skill [Observe]!]
+
+[*ding!* You’ve unlocked the General skill [Identify]!]
+
+[*ding!* You’ve unlocked the General skill [Meditate]!]
+
+[*ding!* You’ve unlocked the General skill [Lying]!]
+
+[*ding!* You’ve unlocked the General skill [Conning]!]
+
+[*ding!* You’ve unlocked the General skill [Stealing]!]
+
+[*ding!* You’ve unlocked the General skill [Walking]!]
+
+[*ding!* You’ve unlocked the General skill [Running]!]
+
+[*ding!* You’ve unlocked the General skill [Climbing]!]
+
+“Ow!  Ow, stop dinging!”
+
+[*ding!* You’ve unlocked the General skill [Gymnastics]!]
+
+[*ding!* You’ve unlocked the General skill [Throwing]!]
+
+[*ding!* You’ve unlocked the General skill [Dodging]!]
+
+[*ding!* You’ve unlocked the General skill [Polearms]!]
+
+[*ding!* You’ve unlocked the General skill [Jumping]!]
+
+[*ding!* You’ve unlocked the General skill [Spotting]!]
+
+[*ding!* You’ve unlocked the General skill [Survival]!]
+
+[*ding!* You’ve unlocked the General skill [Knives]!]
+
+[*ding!* You’ve unlocked the General skill [Combat Reflexes]!]
+
+[*ding!* You’ve unlocked the General skill [Poison Resistance]!]
+
+[*ding!* You’ve unlocked the General skill [Pain Resistance]!]
+
+[*ding!* You’ve unlocked the General skill [Food Prep]!]
+
+“What is this?  Stop yelling at me!”
+
+“Aww, the poor thing is confused!” the first voice tittered.
+
+“We should probably just choose for her,” the second commented.
+
+[*ding!* You’ve unlocked the General skill [Mood Detection]!]
+
+[*ding!* You’ve unlocked the General skill [Lie Detection]!]
+
+[*ding!* You’ve unlocked the General skill [Food Detection]!]
+
+[*ding!* You’ve unlocked the General skill [Stomach Capacity]!]
+
+[*ding!* You’ve unlocked the General skill [Monster Muncher]!]
+
+[*ding!* You’ve unlocked the General skill [Corruption]!]
+
+[*ding!* You’ve unlocked the General skill [Blasphemy]!]
+
+[*ding!* You’ve unlocked the General skill [Cannibalism]!]
+
+[*ding!* You’ve unlocked the General skill [Pedicide]!]
+
+“Pedicide!?” Vita snapped.
+
+“Really?  You want that one?” asked the first voice.
+
+“Well, I’m not sure it will come in handy, but if you insist!”
+
+[*ding!* You’ve unlocked the Passive skill [Vigilant]!]
+
+[*ding!* You’ve unlocked the Passive skill [Adaptable]!]
+
+[*ding!* You’ve unlocked the Passive skill [Active]!]
+
+[*ding!* You’ve unlocked the Passive skill [Learning]!]
+
+[*ding!* You’ve unlocked the Passive skill [Loyal]!]
+
+[*ding!* You’ve unlocked the Passive skill [Dedicated]!]
+
+[*ding!* You’ve unlocked the Passive skill [Intimidating]!]
+
+[*ding!* You’ve unlocked the Passive skill [Cute]!]
+
+[*Error!* SKILL SELECTION OVERRIDE!]
+
+“Right, well, we’re choosing Pedicide… and she’ll probably need Polearms…” the second voice mumbled.
+
+“Stealing!” the first voice insisted.  “Stealing is fun!”
+
+“Right, okay, Stealing… probably Survival? Oh, and Loyal, we should make her Loyal.”
+
+“Give her Corruption!”
+
+“We are not giving her Corruption.  We’re already going to be in trouble for this.”
+
+"Conning, then! Everyone loves a good con! I can't wait to see what she does with that!"
+
+“Right, Conning.  And… Intimidating, in case she gets delayed.”
+
+“And Cute!”
+
+There was a pause.
+
+“You want her to be Intimidating and Cute?”
+
+“Yes!”
+
+“Shut up and show yourselves!” Vita shouted furiously, finally scrambling to her feet.
+
+At least all her gear was intact, even if something seemed to be blocking her soul sense.  She looked up, down, left, right, trying to find the source of the voices.  She felt nothing, but everywhere she looked things just seemed more wrong.  A bright blue sky, devoid of even a single floating stone.  Some kind of super bright pain-orb floated up there instead, causing suffering whenever she tried to look at it.
+
+“Show ourselves?” one of the sing-song voices cooed, high-pitched yet oddly androgynous.  “You’ll never see us if you merely look around.”
+
+“Because we’re on top of your head!” squeaked the other, suddenly leaning down over Vita’s face.
+
+“Ack!” Vita jumped, smacking at her scalp as the two giggling creatures leaped off her head and fluttered into the sky, buzzing around her.
+
+They looked like tiny, doll-size humanoids, naked yet genderless, dashing about on dragonfly wings as they laughed at Vita’s ineffectual attempts to swat them.
+
+“Where am I?” she demanded.  “What do you want with me?”
+
+“This one does not listen to the System!” one giggled.  “Foolish, foolish!  You must listen to survive here!”
+
+“You are on Pallos!  We brought you here to send you on a grand quest!”
+
+“The grandest of quests!”
+
+“Atop the spire of stone, a treasure unmatched in beauty and worth awaits! In the direction of the setting sun you will find it guarded by a beast most foul!”
+
+“Most hungry!”
+
+“Most vile!  There, you will slay the creature and claim your prize!  Only then will the champion be sent home!”
+
+“...Fuck off!” Vita snapped. “If you can teleport me all the way to crazy land, then deal with the stupid creature yourself! Just zap it a few thousand feet into the air and leave me alone!”
+
+Seriously, this could not make any less sense. Vita was becoming increasingly convinced that she was hallucinating, possibly under some sort of cognimancy spell.  Two tiny, flying, riddle-talking bug people definitely pushed things well over the cliff of possibility.
+
+“The prize!  The prize!  We cannot claim the prize for the hero claims the prize!” the two fairies sing, clasping hands and dancing in a circle in the air.  “The champion from beyond the world shall quest and seek the prize!”
+
+“Nope, nuh-uh,” Vita grumbled, starting to walk off.  “Fuck this Capita shit, I’m out.  How do I wake up?”
+
+“Well, first, you go to sleep,” one of the fae answered, turning to face her with a grin.
+
+“More fucking riddles!?” Vita complained.
+
+“No,” the fae answers.  “Initiate class advancement.”
+
+“What is a—”
+
+[*Error!* CLASS ADVANCEMENT OVERRIDE!]
+
+With a snap of the fae’s fingers, Vita found the ground flying forward to meet her once again, unconsciousness rapidly approaching.
+
+“I told you we should have gotten one from Earth,” the other fae complained.  “They always pick these things up faster.”
+
+“Eh,” their companion responded.  “Call our sibling. We can do that too.”
+
+--
+
+Elaine groaned and rolled over in her sleep. She’d been missing home, and was sleeping with her mom’s pendant in her hands. Peaceful sleep eluded her though, as she was tormented by nightmares. By failure, by death dealt to her friends and dealt by her own hand.
+
+Her hand tightened, like it was fighting the grip of someone strangling her, then loosened, dropping her pendant.
+
+Three fairies popped in around her.
+
+“She’s unprotected! Get her!” The one the size of a hummingbird yelled, pointing at Elaine.
+
+“Just because you’re the tallest…” Grumbled the short one, weaving her hands, dusting Elaine with power.
+
+“Wait! The Quest! We must tell her the quest!” The tallest one, still hummingbird-sized, said.
+
+“Oh right. Flowers! Gotta get the flowers!” The middle one said.
+
+“Idiot! You didn’t make it into a riddle!” The shortest one reprimanded, buzzing her wings with crossed arms.
+
+“And now, I steal the sun!” the middle one interrupted, snapping her fingers.
+
+Vanishing Elaine.
+
+“Maybe we should’ve woken her up, before telling her the quest.” The tallest one said, tapping her chin, then shrugging.
+
+“Ah well. It’s her fault for sleeping.”
+
+Elaine woke up four feet off the ground, and falling fast.
+
+She cursed a foul invective, trying to activate [Talaria] right before she landed. She hadn’t slept with her sandals on though, so the skill failed to activate, dumping a surprised Elaine face-first into the dirt.
+
+She immediately flipped up, on guard, ready to fight against whatever had attacked her. Being teleported around wasn’t exactly a friendly move.
+
+She narrowed her eyes at the still and silent jungle around her, mentally noting that the sun was high in the sky. She’d been moved a long, long distance.
+
+Or massively slept in.
+
+No System notifications. Elaine felt her heartbeat pick up, as she quickly tried to check her status. She breathed a sigh of relief as it popped up.
+
+Just to make sure, she flickered through a few active skills really fast. [Mantle] still worked, [Shine] still lit things up, and Elaine pointed up and fired off a [Nova].
+
+Perfect. Her skills still worked. Her mind was entirely intact - this time.
+
+A bush rustled, and Elaine whirled around, seeing a human-sized dinosaur flying through the air towards her. Its feathers were broken and patchy, but its claws were long and its teeth were vicious.
+
+[Bullet Time] activated as Elaine leaned back, firing a narrow beam of Radiance through the raptor’s head. It drilled through in an instant, but Elaine didn’t get a kill notification. Cursing, she fired off a [Nova], throwing up [Mantle of the Stars] behind the skill, protected by a mystical wall of shimmering stars.
+
+[Nova] landed with a roaring explosion, blasting the raptor to pieces in a fiery, golden inferno, yet there was still no kill notification.
+
+How tough is that thing!? Elaine cursed to herself as five more raptors leapt at her from the bush. Five more headshots, no notifications, and Elaine blew another [Nova] at point-blank range, swearing as her shield needed to protect her from her own skill as well, burning mana she couldn’t afford to waste.
+
+Everything settled for a moment, and Elaine took a look around, seeing six burned and broken bodies laying on the earth jungle floor in pieces. Elaine picked the one that seemed to be in the most pieces, and piece by piece, started to incinerate it.
+
+Halfway through, it clicked.
+
+“Puppets. Or body hijackers. Or zombies. Wait, it can’t be body hijackers, they would’ve gotten killed. Spore jackers.”
+
+Elaine threw her hands up in frustration.
+
+“Either way! Not a living creature, no kill notifications.”
+
+She moodily kicked one of the re-dead raptor’s bodies.
+
+“And no experience by the look of it. Great. Just great.” She complained, continuing to talk to herself. Helped distract her from the fact that she had no idea where she was, or which way home was.
+
+Still, this was hardly the first time Elaine had been almost literally thrown into a jungle with no equipment to survive, so she didn’t bother to waste any time panicking about it.
+
+A screech made Elaine turn her head, and immediately she saw dozens, if not hundreds of raptors storming across the jungle towards her.
+
+That part was new.
+
+Elaine started running away, to give herself more time and space against the raptors. She blindly fired [Nova]s behind her as fast as she could - it wasn’t like she needed to aim to hit 5, 6, 7 of them at a time! As the dead started to fall, however, their master took notice.

@@ -1,0 +1,203 @@
+---
+id: 52d96d1d-f158-53be-bdb8-5da9fd6ee805
+page-type-slug: story-chapter-royal-road
+title: "Chapter 936 The next steps"
+slug: 0020-chapter-936-the-next-steps
+partOf: azarinth-healer
+position: 20
+ownLength: 3208
+unit: words
+publishedAt: 2025-04-29
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/2240984/chapter-936-the-next-steps"
+royalRoadId: "2240984"
+---
+
+Chapter 936 The next steps
+
+Ilea spent most of the afternoon beating up the students of the Sentinel Corps, new and old. Verillion helped here and there but she found that many of the older students were more than capable of showing the next generation how powerful humans could get, in a both painful and inspirational manner.
+
+She watched with a sigh as the new arcane healers of the Sentinels took care of each other. “There’s more newcomers this time around, or am I wrong?” Ilea sent to Trian. The man had arrived for the festivities, otherwise busy with his own participation in fighting the remaining void, coupled with his management of the Medic Sentinel Corps.
+
+“The elixir and subsequent arcane healers make for easier prolonged resistance training. And with everything that happened, we’ve had far more applications,” Trian said. “Wish I could take the elixir at this point.” He sighed and shook his head. “Plenty of them have rushed past me in mere years, it’s embarrassing.”
+
+“You’re not primarily a fighter though,” Ilea said. She saw he had gained quite a few levels as well from his recent efforts.
+
+[Lightning Mage – lvl 285]
+
+“I’m not particularly bothered, Ilea. I know it’s a reality of my position, especially teaching Sentinels. If they don’t shoot past me, something’s gone wrong,” he sent and laughed. “Though yeah, I don’t want to disappoint them either. Hoping to get to three hundred at least this year.”
+
+“Good luck with that,” Ilea sent and smiled, remembering her fights against the undead knights of Tremor that helped her reach that milestone. I hope you don’t lose a head, she thought when one of Aki’s machines joined them.
+
+“Enjoying yourself?” he asked.
+
+Ilea watched three of the younger Sentinels rush Chana, the woman weaving through them like a frenzied battering ram through weightless crash test dummies.
+
+She nodded. “Yeah.”
+
+“The festivities will continue but we have a meeting planned with the Accords, this one I thought you might want to join. It’s about the source recovered from Ravana.”
+
+Ilea looked at the silver machine with raised brows, then summoned a meal. “Finally decided what to do with it?”
+
+“Further study mostly but there are some suggestions that will need approval. You’ll hear about them in the meeting. Or I can inform you now, if you do not wish to join.”
+
+“I’ll be there,” Ilea said. “Just let me know when it starts and I’ll pop in. Meadow’s domain?”
+
+“Yes,” Aki said. “I’ll let you know when we start. Verillion, I encourage you to join as well.”
+
+The vampire glanced over with inquisitive eyes. “Interesting. I shall do so, with Ilea.”
+
+“Personal teleporter?” Ilea asked.
+
+“Personnel teleporter, if you will. For important foreign guests,” Verillion said.
+
+Trian breathed some air out of his nose.
+
+“I’m glad we have the gates, I’ll be honest,” Ilea said. “Wouldn’t want to become a one woman teleportation network for the Accords.”
+
+“Be glad I’m still around,” Aki said, in a dry tone.
+
+“Yeah,” Ilea said, perfectly aware that without him, his machines, and his ability to set up gates and connect them, the Accords may very well not have remained. They wouldn’t have rebounded as fast as they had, that was for sure. Organizing all the remaining fighters to protect the survivors, connecting settlements again after the Extraction, and providing much of the grunt work required for the foundations of the new human cities in the south, all of it was done by Aki. Him and the legions of guardians he controlled.
+
+She looked at the Executioner and smiled to herself, eating another bite before she turned to watch the Sentinels beat the absolute living shit out of each other. The whole Io bit sucked but in a weird way, the Taleen ended up winning what they thought of as a war against the Ascended. They created the One without Form, the One without Form created millions of machines and thousands of production facilities, and Aki took over to now use it all for the Accords.
+
+Didn’t expect that one, eh, Ker Velor?
+
+Aki nudged her some time later, informing both her and Verillion that the meeting would soon start. Trian had already left by that time.
+
+Ilea stretched and rolled her shoulders. She still wore her dragon scale armor, none of the Sentinels able to leave as much as a scratch on the heavy and enchanted material.
+
+She turned to look at Verillion, the man wearing his blood covered armor, the leather bits still wet. “Ready to go? Or do you need to change your dress to something more appropriate?”
+
+“I have a reputation to uphold,” he said with a slight grin and gestured for her to open a portal.
+
+“Maybe some deodorant at least?”
+
+“It is part of the charm,” he smiled, showing his canine teeth.
+
+Ilea rolled her eyes and opened a gate to the domain of the Meadow, stepping through and onto the black grass that reached far into the cavern.
+
+Only the section closer to the Meadow remained mostly natural, its mana density too much to handle for most members of the Accords, only a select few able to get close, let alone remain there for extended periods of time.
+
+The circular stands previously used to discuss the Architect and the threat of an Extraction had been extended and decorated, more colorful than before, metals and flags added to represent the different settlements, governments, and peoples part of the Accords. Carved pillars had been added around the structure, with a massive roof placed on top. Ilea cringed a tiny bit when she saw a chiseled depiction of herself and a few choice allies depicted on the ceiling, frozen in their fight against a horde of void creatures. She was glad Ravana herself wasn’t shown, not giving her any weight in the history of this place.
+
+It fit too. Just another monster added to the pile.
+
+At least I’m not front and center. Just one of many, she thought. Could be any one of the Sentinels with those horns and ashen wings.
+
+“Hey, how’ve you been?” she sent through her connection with the Meadow. “Looks like a proper alliance headquarters by now.”
+
+“Expectations were high,” the Meadow replied. “I do personally prefer something a little more plain and natural but I understand the notion. I kept it as grounded as I could.”
+
+Ilea found a seat near one of the pillars, smiling when she found that none of it even strained under her weight.
+
+“I’ve been as well as the circumstances allow. Much of the void remains but I’m confident now that Elos will not meet a fate similar to Erendar. Much in thanks to you, and everyone here today,” the Meadow sent.
+
+Ilea allowed herself a slight smile. The being wasn’t wrong of course. She was just glad she had taken it with her. Things would’ve been very different without its help. Perhaps the Architect’s plans would’ve not even been uncovered in the first place, and a few centuries from now, the entire planet would’ve just been wrecked without warning.
+
+Could I have survived that? Ilea wondered with a slight grin. A morbid thought but Vor and Nes did mention some kind of advanced Extraction that Ker Velor was planning.
+
+She saw the two Ascended in question standing at the center of the circular amphitheater, discussing with an Executioner and a few other representatives of the Accords.
+
+“Found your way back,” Catelyn said as she walked up to Ilea, the fox relaxing onto one of the seats next to her. “I hear you’ve gotten a bit of a vacation.”
+
+“For a time,” Ilea said. “Why the smirk?”
+
+“Oh, do not worry about that, child,” Catelyn said and yawned.
+
+“You’ve been busy too, I see. Many changes for Hallowfort?”
+
+“Not really,” Catelyn said. “Meadow and Aki take care of most things, and Elana manages much of our council’s work. Lots of visitors, more than before the Extraction even but they bring interesting trinkets to my shop, so I won’t complain.”
+
+“No wish to hunt the void yourself?” Ilea asked.
+
+“The North has always been crawling with dangerous critters. It will pass in time,” Catelyn said and yawned again. “I’ll leave it to the young and capable.”
+
+Ilea pushed some air out of her nose and smiled, remembering the many times she had seen her friend turn into a massive flaming monster to tear apart whatever beasts opposed her. And yet it had always been a last resort. To defend her home and the people of Hallowfort. Now, with both the Meadow residing here, and the might of the Accords at their back, Ilea could see how Catelyn would probably be more than happy to eat cake, sleep, and occasionally trade in strange trinkets.
+
+“Picked up alchemy again?” Ilea asked.
+
+“No need to say that with that tone. I’ll get back to it when I find a suitable teacher,” Catelyn said.
+
+Ilea grunted, remembering the downright poison the fox had her test when she had met her for the first time. She heard the conversations dying down, many of the seats now occupied by high ranking members of the Accords. Verillion joined her side as well, the scent of blood coming with him.
+
+“Greetings, Accords,” Aki spoke. “It has been a busy few months, for all of us. City foundations in the southern regions of the former human Plains are being set up. Void populations throughout all of our controlled regions are being pushed back, resulting in major gains of personal power for many of our peoples. Teleportation and trade has been reestablished and we’re looking into any possible magics to reclaim more above ground land. Your continued cooperation and hard work has enabled all of this.
+
+“Today, we gather here, to discuss what our most powerful warriors have managed to reclaim from the Ascended called Ravana, upon her defeat above the very land we stand in. The Source of Niraela, the first sun of Elos.”
+
+Murmurs went through the gathered crowd but Aki quickly continued.
+
+“The reclamation would not have been possible without the knowledge and technology provided by Vor Elenthir, the same Ascended who has chosen to support this realm after the first Extraction many thousands of years past. Study of the source will need to continue for many years but our initial testing has provided enough knowledge to provide basic safety to scholars and engineers below level five hundred to join this endeavor.”
+
+More murmurs. This time, Ilea could hear the excitement. She herself wasn’t too keen on anyone handling the source or studying it herself. The glimpse she had gotten was more than enough. But of course she understood the interest many would have in working on this project, and if it led to more understanding of the current state of this realm and technology to maybe help balance the storms and mists, she would be all for it.
+
+“However, while barriers and enchantments can provide reasonable personal protection to those who work with the Source itself, we have deemed it too dangerous to conduct extensive testing in this realm,” Aki said.
+
+“In this realm?” Ilea asked herself, raising her brows. Conversations broke out, questions thrown towards the center of the amphitheater.
+
+“There are two propositions we deem reasonable,” Aki spoke up, the conversations quieting again. “The first is to set up a stabilizing field powered by the Source of Niraela. An extensive project which would provide us with a reasonable amount of surface land to use but little opportunity to further study the source and any technology it could power, nor potentially the discovery of a more widely applicable solution to the arcane storms and the mists now plaguing our realm.
+
+“The second proposition is to move the Source and any interested scholars who would wish to study it, to Kohr, the home realm of the Ascended,” Aki said.
+
+Ilea breathed in deep, then leaned back, the first questions and shouts already raining down on Aki. That’s a risky move, she thought. But then, it was Vor Elenthir who helped Eregar set up the Haven. He gave up the Source they had taken from us, and now we’re using theirs as well to power Aki. Ilea wasn’t sure how many people knew all of that. Nor of the fact that the Source was going out of control before Vor stepped in with his magical ass cube to capture it, or whatever the tech did with the star.
+
+“Please, there is plenty of room for questions and concerns in the end,” Aki said, waiting another minute or two for the gathered crowd to calm down. “Vor Elenthir and Nes Mor Atul have confirmed their ongoing cooperation regardless of the decision made. Should the Source be moved to Kohr, they have facilities in place where extensive experiments could be performed without the danger of impacting our peoples or further destabilizing the surface of our realm. If either of you wish to speak, do so now.”
+
+Nes floated forward, her white eyes taking in the crowd. “Greetings, Accords. I am Nes Mor Atul, Navuun of Kohr. My home was destroyed by the very same technology that has now made much of your realm uninhabitable. The power gained from the Source, and the power that could be gained from taking more was enough to end the millennia old alliance of the Olym Arcena. The few that remain are scattered throughout the realms, our home realm in ruins.
+
+“If you wish to use this source, the star taken from your skies, to reclaim a small part of your land, then such is your decision. This is no mere coalition of Ascended but an alliance of differing species with ancient knowledge and magic alike. Though while uncertain, if moved to Kohr, we could reach for more. Not just the future stabilization of your realm, but perhaps ours as well. I will not deny my personal stakes in this but I find that our goals align. Let me study and work, with the help of your scholars, and I’m sure we can achieve the impossible.”
+
+She watched the crowd, then glanced at Vor Elenthir, and floated back.
+
+He took up her spot. “I have dreamed of bringing back life to Kohr since the first Extraction removed our sun from our sky, and most of life from our lands. I will continue to work with your alliance either way, I have decided, however, it seems foolish to waste the potential we could achieve for a small gain of land. That is all.”
+
+“No permanent teleportation gates between realms will be established,” the Meadow spoke before more conversations could break out. “The risks of such would be enormous, however, we have mages capable of moving both equipment and people to Kohr and back. The Ascended facilities would be extended and made suitable for the various species that would wish to participate. Both me and the Sentinel of Akelion strongly suggest this course of action. While it is coupled with potential risks, the potential long term benefits far outweigh them. We are open for your questions and concerns before we move on to voting.”
+
+Ilea summoned herself a bottle of ale while she leaned back and waited, glancing over to see Catelyn yawn. A testing facility in Kohr. I guess it would allow for pretty much all kinds of experiments. Can’t really wreck that place more than it already is.
+
+“Will I have to move the source?” Ilea asked the Meadow.
+
+“Once contained, anyone who can move objects will be able to do so. It requires a reasonable amount of mana but both Vor Elenthir and Scipio could accomplish the task. If the vote comes to favor this outcome, we would of course appreciate your help with transporting both people and materials,” the Meadow sent.
+
+Ilea smiled. “Guess I would be replacing the gates to move an expedition rather than the entire trade network of several countries.”
+
+“Indeed. But let us wait and see what the Accords decide on.”
+
+Ilea finished her ale as she waited, both Aki’s machines and various groups talking and arguing with each other until finally some semblance of order returned to the crowd.
+
+She would’ve expected the vote to be divisive but considering the direct involvement of the two present Ascended in the defeat of Ravana and the Architect, coupled with both Aki and the Meadow clearly leaning towards the move of the Source to Kohr, she didn’t think it would be close.
+
+And it wasn’t.
+
+“The votes are counted and will be documented and confirmed. The proposition to move and study the Source of Niraela in Kohr is accepted, which includes the formation of an outpost of the Accords in the realm of the Navuun,” the Meadow informed. “Applications to join this expedition are open as of now, we will inform you of the risks and conditions.”
+
+Ilea finished her ale. “First outpost of the Accords in another realm,” she murmured.
+
+“Everything is moving too fast for me at this point,” Catelyn said. “But I’m glad that thing will be as far away as possible from Hallowfort.”
+
+“I’ll get some work after all,” Ilea said and stretched.
+
+“There is something else we wish to discuss with you,” the Meadow sent to her.
+
+“Sure, I’m here,” Ilea said.
+
+“Your cosmic healing. We have finished another set of tests with the copy you have provided and we now deem it safe to use your healing on all beings,” the Meadow sent.
+
+“Not just some work, I guess,” Ilea said. “So how good is it?”
+
+“Please keep this to yourself for the time being. Your healing now affects not just ailments of body and mind but heals subjects in ways guided by their very essence, to use the cosmic energies to heal even old scars and trauma. It has the power to reverse even aging, though not in subjects whose essence does not guide your healing in such a way. The effects are quite far-reaching but as far as healing goes, it is the most complex application I have seen. You could enable people to have another chance.”
+
+Ilea breathed in deep. She had already heard most of those possibilities in their last talk but to have it all confirmed. It made her feel a little strange.
+
+Summoning the Primordial Flame to burn the very souls of her enemies was one thing but reversing aging? Healing people in a way their soul yearns for?
+
+“What is it?” the Meadow asked.
+
+“Just,” Ilea started. “Kind of feels like too much power for little ole me,” she said and scratched the back of her head.
+
+“You don’t hav-”
+
+“I’ll use it,” Ilea said. “Feels like a lot of responsibility, to have this kind of power but yeah, the potential is crazy.” She nodded. “Let Aki know I’m game to start whenever. I assume this will take some time.”
+
+“I will inform him,” the Meadow sent. “Thank you, Ilea.”
+
+“Thanks for all the testing,” Ilea said and cracked her knuckles. She felt like her vacation was now officially over. “Oh, and Meadow. If Claire hasn’t heard about this yet, if she wants to, I could now have a look at Leia.”

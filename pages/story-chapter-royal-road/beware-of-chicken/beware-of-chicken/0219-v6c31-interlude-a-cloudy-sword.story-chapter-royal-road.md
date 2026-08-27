@@ -1,0 +1,167 @@
+---
+id: d71add14-731c-5ba2-b1b0-3231d2725d2f
+page-type-slug: story-chapter-royal-road
+title: "v6c31 Interlude: A Cloudy Sword"
+slug: 0219-v6c31-interlude-a-cloudy-sword
+partOf: beware-of-chicken
+position: 219
+ownLength: 1895
+unit: words
+ownProgress: 1895
+publishedAt: 2025-06-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2326416/v6c31-interlude-a-cloudy-sword"
+royalRoadId: "2326416"
+markedReadAt: "2026-06-29T18:58:52.569Z"
+---
+
+The day before the New Year:
+
+Moving at a mortal pace was quite boring, Su Ge mused as they walked through the snow. The week had still been agreeable enough despite the need to escort them. Even the hangers-on had been tolerable.
+
+Yuanlin was more concerned with the safety of the mortals than trying to flirt with Lu Ri, which Su Ge could respect. The woman took her duty seriously, and while she was flirtatious… oddly, she seemed to be genuinely trying to help Su Ge with her clothing recommendations. There was no malice at all, no catty, snide remarks Su Ge had heard bandied about by other cultivators when she was at tournaments.
+
+Yeo Na on the other hand…
+
+“And so I indulged my beloved Junior Brother’s request. My sister disciples overheard that some man had insulted me,” Yeo Na said, an amused little smile on her face as she recounted the tale of how she and Lu Ri met. Su Ge raised an eyebrow at the tale, while a bark of laughter came from Yuanlin.
+
+“That sounds like a fun week,” Yuanlin chuckled.
+
+“It was most informative. Their killing intent was quite bracing,” Lu Ri said, nodding along.
+
+Yeo Na saw the small frown forming on Su Ge’s face and gave a gentle smile. “Of course, I corrected the misunderstanding before it could tarnish my Junior Brother’s reputation.”
+
+Su Ge let the matter drop, seeing the small smile. Yeo Na just liked watching with amused eyes, her tone lightly teasing at worst. Su Ge got the sense that Yeo Na was not exactly interested in Lu Ri, despite her calling him “my beloved Junior Brother.” Her tone was like an elder sibling… and Su Ge found it perhaps just a bit amusing.
+
+…it was honestly the most Su Ge had interacted with people who weren’t her servants in a while. It was quite pleasant.
+
+Even the mortals were agreeable.
+
+“Oh? They’re comin’ around toward us,” Yuanlin suddenly said, her eyes locked on the Windward Blade. They had seen it in the distance for the past hour, beyond the sight of the mortals, performing maneuvers.
+
+There was a sudden bit of tension, there always was when another sect approached, even an allied one… but suddenly Lu Ri smiled and relaxed.
+
+“Junior Brother is aboard with his family,” he informed them, and the air of tension faded.
+
+Indeed, the ship descended. The mortals had all frozen in shock and unrestrained awe at the sight of the beautiful ship cutting through the sky.
+
+There were several people already on the deck—one of which caused both Yuanlin and Chief Han to shout.
+
+“Grandson?!/Young Master?!”
+
+A man with squinting eyes and a fox-like face waved back.
+
+The ship soon alighted before them, and Su Ge laid her eyes on Rou Jin for the second time. He looked exactly the same as the first time she had seen him, standing beside Uncle Shen Yu, as her grandfather said he should be called, despite Su Ge never having truly met the man.
+
+“Need a ride?” Rou Jin asked—which was honestly the last thing Su Ge had expected to hear. She turned to the Typhoon Wing, who was practically lounging against the railing, with a raised eyebrow.
+
+The woman nodded, a cheery smile on her face.
+
+Su Ge never thought she would see something as absurd as a herd of yak being corralled onto the deck of Tianzhe Minyan’s personal skyship.
+
+There ended up being too many, and they would have to make three trips… but it would still be a day faster than if they had to walk it.
+
+The fox-faced man, and another, who looked a bit like a monkey, were both swarmed by the mortals and Yuanlin; hands thumped on their backs. Old grandmothers pinched their cheeks, and children clambered up onto their shoulders. They both bore it all with large smiles, laughter echoing out as they were reunited with their kin. Several others had looks of shock on their face, and were bowing to what looked like a small Thunderhoof.
+
+Even Su Ge couldn’t help the small smile that came to her face.
+
+And then it came time for greetings to be exchanged. Rou Jin stood before them all, a smile on his face, and a rooster on his shoulder.
+
+Rou Jin was tall. Thickset. He did not have the body of a cultivator, nor the bearing of one, his emotions open and clear.
+
+If she had caught him on the road, all she would ever have seen was a farmer.
+
+And yet, in spite of all of this, he had praise lavished upon him, by her grandfather, her elders, and Lu Ri. Even ever-grumpy Uncle Shou had nothing but praise.
+
+“That our Sect drove him away is a great sin, and proof of our failings. Of my failings,” her Grandfather had declared.
+
+As a Core Disciple and as a result of her own instruction, Su Ge was insulated from most of the Sect, spending her days cultivating. She had had no idea of the rot that had infected the Honoured Founder’s greatest work, and her own rage had been nearly equal to her Grandfather’s when she was informed.
+
+But when she had realised she could not aid with dispensing justice, she had looked into what had happened, following the notes of the investigation into Chen Li.
+
+To her surprise, she actually remembered that day. She had just finished reading a passage in her Grandfather’s personal journal—a journal that detailed his meeting with Shen Yu. How he had seen the other man’s power and skill and, impressed, made friends with him.
+
+Su Ge had been inspired, and thus decided to see the Outer Disciples. Perhaps one of them would have been able to shake off the boredom of her days of quiet contemplation? A bold friend like Shen Yu had sounded exciting.
+
+So she had descended from her pavilion into the Sect, her eyes looking for one who stood out. On her walk, she came to a crossroads. A road to the west, where the female disciples were quartered, and a road to the east, where the males resided.
+
+The choice had made her pause for a brief moment. The choice, for some reason, had seemed important.
+
+After a moment, she decided to go west. She wandered amongst the Outer Disciples, and found no one interesting. No one that had stood out to her. They didn’t have the drive, the passion, or the strength.
+
+She completed the circuit, and went to the male side. She had passed by a disciple mopping the flagstone path, cleaning it of blood.
+
+“What happened here, Disciple?” she had asked.
+
+“A sparring match, Senior Sister,” the disciple had replied.
+
+Su Ge had accepted that statement. It was just a bit of blood, after all. She kept walking and again found no one that stood out to her. She had heard Chen Li, of whom she had no real opinion, aside from mild distaste at his bragging and his weakness, talking and laughing about defeating somebody. Several other disciples laughed with him, and if they were with Chen Li, then they certainly weren’t worth her time.
+
+She ended the day mildly disappointed, and then entered closed door cultivation.
+
+Yet the choice stuck out in her mind. She wondered what would have happened if she had gone east instead of west that day. Would it have changed anything? She didn’t know, and there was no real sense dwelling upon those thoughts. What was done was done.
+
+Now, she just had to meet with her martial nephew. If he was half the man that her Grandfather said he would be then there would be little problem with them getting along… she hoped.
+
+Rou Jin was soon joined by others. The men on the ship stood prominently at his flanks. Then, as one, they bowed.
+
+“Senior Brother,” the man clasped his fist in his hand and bowed deeply. “Disciples of the Cloudy Sword Sect, thank you for the care and consideration you’ve shown to my family. I will never forget what you did for them. For us.”
+
+Su Ge instinctively straightened at the seriousness in the man’s voice.
+
+“You saved their lives. I don’t know if we can ever repay this,” the fox-faced man continued, picking up where Rou Jin had left off. His eyes opened, exposing amber irises.
+
+“But if you ever need anything, we’ll be there,” the monkey one said.
+
+Lu Ri clasped his own hands together, and bowed his head in return.
+
+“I am humbled that I was trusted with such an important task. We are friends, and this was the duty of a friend; may we trade favours so often we forget the score.”
+
+Rou Jin smiled. “As ever, Senior Brother has the right of it.”
+
+His voice rang with respect. Humble without grovelling, secure in himself. His smile was warm. She could see the steadfast resolve of his spirit… and just a bit of cheeky humor dancing in his eyes.
+
+One choice, years ago. Would it have changed anything? She didn’t know.
+
+But she at least knew that the man before her was worthy of the praise directed his way.
+
+She stepped forward.
+
+“It is a pleasure to meet my martial nephew. This one is Xiao Su Ge,” she intoned politely. The man had a look of slight surprise at her words, but he recovered quickly, and offered her a smile.
+
+“It's a pleasure to meet you. I hope that you’ll join me at my home for the New Year.”
+
+Su Ge nodded. “If it's not an intrusion.”
+
+That was the signal, and more people stepped forwards to introduce themselves.
+
+If she hadn’t been warned beforehand, having a chicken in the Spiritual Realm politely greet her would have made Su Ge question if she was under some illusion. The others were similarly cordial, and all were in good spirits.
+
+It was much different than she was used to… but it wasn’t bad.
+
+And then, Su Ge found herself in front of a sword. Shen Yu looked at her with a raised eyebrow.
+
+“Su Ge greets Uncle Shen Yu,” she said.
+
+The old man just chuckled.
+
+“Ah, so you’re Ge’s pride, eh? I can see why. He told me you cleared six Demonic bases by yourself!”
+
+“Yes, Honoured Uncle. I’m glad I finally got to do battle with the Great Enemy.”
+
+Shen Yu’s smile widened at the undercurrent of eagerness. Those had been most enjoyable battles. Finally out of the boredom of the Sect and crushing the Great Enemy? It was a gift.
+
+“Good. Good! We’ll share a drink later, and you can tell me about your adventures, niece. And you need gifts! I’ve been remiss in my duties!”
+
+Su Ge blinked at the jovial mood the man was in, and inclined her head; the man was just as her Grandfather described him. Full of good humour, and a man who valued his friendships.
+
+“Do you have any stories about Grandfather that he wouldn’t have told me?” she asked quietly
+
+Shen Yu’s smile widened.
+
+“Ah, we’ll get along well, you and I,” the man replied.
+
+==================================
+
+And that was how Xiao Su Ge found herself in a mortal town’s brothel with Uncle Shen Yu, Lu Ri, Yuanlin, and Yeo Na talking about the mail service.
+
+The prostitutes proved to be surprisingly insightful.

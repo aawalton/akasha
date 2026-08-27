@@ -1,0 +1,237 @@
+---
+id: fa39c41f-1ced-52b7-8b86-6c3cc2493961
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 33 - Shock and Awe"
+slug: 0038-book-4-chapter-33-shock-and-awe
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 38
+ownLength: 4634
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2837042/book-4-chapter-33-shock-and-awe"
+royalRoadId: "2837042"
+---
+
+Ranthia wasn’t sure what she expected when she informed Avyna of her decision to return to the war, but she was somewhat relieved that her partner seemed to accept it without concern. Instead of dwelling on their impending return, they made the most of her birthday. The preparations could wait for another day.
+
+Of all that they needed to do, Ranthia had quietly dreaded telling her [Mind Healer] more than anything. After all, less than a year plainly hadn’t been enough time to completely erase the problems that Ranthia had accrued. The [Mind Healer] had done much—to an impressive degree, truly—to ease the burdens that Ranthia carried, but Ranthia was under no mistaken belief that she was irrevocably “cured” of the maladies of her mind; she was all too aware of the darkness that still lurked within. Which wasn’t surprising, the elf had warned her that it would be a multi-year journey and stressed the importance of continuing it.
+
+Allegedly, elves feared nothing more—not phrased like that, of course, but “considered it to be worthy of great concern and enduring vigilance” hardly rolled off the tongue—than the damage the mind could accrue. The importance of [Mind Healers] was great enough that they were surprisingly open about some infamous historical incidents where an elf lost sight of something crucial and chose to self-destruct—and managed to do significant harm as they went.
+
+And yet, Ranthia had never imagined that the [Mind Healer] had always planned to stay in touch with her when she inevitably left. The woman had even prepared for Ranthia’s eventual departure and promised to teach her how to read and write for their continued letters (as if Ranthia somehow wasn’t already adept at the written word). …Which raised a question that Ranthia had, somehow, completely failed to consider.
+
+How in Xaoc’s glory was any of their ‘vacation’ being paid for?! The resort provided meals, entertainment, numerous facilities, and even spa-like treatments without a ledger ever appearing. Her therapeutic discussions with an elven professional had continued since their arrival—with the woman even rearranging her schedule when Ranthia was most vulnerable and in need of greater attention—and would continue after her departure. Yet the woman never even hinted at Ranthia’s payment for her services!
+
+It wasn’t exactly the grandest mystery on Pallos—the fact that Avyna had planned and arranged for everything made the reason obvious—but Ranthia knew the contents of Avyna’s contribution credit ledgers. And there was no way that everything had remained comfortably within those confines—most of Avyna’s wealth remained invested in stock for her shop!
+
+“<Ah…>” Avyna stiffened at Ranthia’s overdue question, folding the toga in her hands three times more than was necessary. The tips of her ears reddened as her body language openly broadcasted her efforts to cast around for some opportunity to change the topic.
+
+But, alas, there was nothing else pressing that could possibly distract Ranthia, and Avyna knew it.
+
+“<I had a few diamonds and rubies that were extraneous to my future plans, my love.>” Avyna finally admitted in a quiet—though somewhat stiff—tone of voice.
+
+“<You know I would have happily paid my way!>” Ranthia immediately protested.
+
+“<I still owe you an untoward sum of points. And I would appreciate it if you would quietly accept that I did this for us.>” Avyna allowed a slightly plaintive tone to color her response.
+
+Ranthia swallowed her reflexive urge to remind her beloved that she actually didn’t need to be paid back. Avyna had offered a gesture of affection, and she wasn’t going to be foolish enough to turn it into an argument.
+
+Even she could learn, after all.
+
+Ranger Command wasn’t about to let her redeploy without putting her to work; she spent the bulk of her final day charging uniformly faceted stones of jet with [Void Edge]. Her Skill was heavily destructive to knives, but it had enough utility that it still ended up in the charged gemstone sets that most of her fellow Sentinels carried. And the war meant her peers went through charged gemstones at an aggressive pace—which definitely didn’t leave her feeling jealous, not in the least.
+
+…Gods and goddesses, she would have traded violent favors for the ability to carry some of Deflection’s Skills into battle. Unfortunately, [Reflections of Reality] was too essential to her survival and her combat style for her to trade the Skill for any amount of single-use imbued gems.
+
+Still, the demand for [Void Edge] was great enough that it spawned an (incredibly obvious, in retrospect) idea in her head, and by the time the local quartermaster finally let her leave, Ranthia had to rush to Coalition City’s markets before they finished winding down for the day. She probably slightly overpaid for the gemstone, but she managed to acquire a piece of jet that was similar to those she had seen entirely too much of.
+
+If [Void Edge] was good enough for her fellow Sentinels, it was worth preparing the Skill for Avyna too. One extra layer of protection, to keep the woman she loved safe.
+
+Their final farewells had been bidden to Lithée and the other women that worked at the resort that Ranthia and Avyna had gotten to know throughout their stay. Their friends (and, in Avyna’s case, business contacts) had been informed of their departure previously. Which meant that the couple—thoroughly engulfed by the numerous bags and sacks that they each carried—were finally ready to meet up with Sentinel Aurora.
+
+Ranthia still struggled to call Aurora a friend, but she was grateful that her colleague was willing to ferry them back to Remera.
+
+Coalition City was still entirely too quiet at night, but the journey to the landing platform that Sentinel Aurora always used for her launches went smoothly. They were both carrying entirely too many bags, but the weight wasn’t enough to truly inconvenience either of them.
+
+“Sentinel Grace, ma’am! There has… been a change of plans.” One of the legionaries milling around sprinted over as soon as she stepped onto the platform, saluting the entire time.
+
+It was a bit surprising to get recognized. Ranthia wasn’t wearing her armor, and her badge was hidden beneath the mountain of bags she had strapped and slung across her body. Even if she was expected, were the Legions truly so lax to just let any woman accompanied by an elf walk in unchallenged, wielding the authority of a Sentinel?
+
+…Okay, yes, that was probably a narrow enough security vulnerability that it wasn’t worth worrying about.
+
+“What do you mean?” Ranthia asked, shifting one of their bags—seriously, how were they leaving their vacation with well over thrice what they had brought with them?!—to better glare at the man. She was ready to get home in time to meet her promise to Night, not to deal with Legion-issued incompetence (again).
+
+If they had somehow misplaced the arcanite stores that Aurora had to draw from to form her [Starship]…
+
+The legionary stiffened at her glare and chose to silently point into the sky. …Where the [Starship] was rapidly vanishing into the distance at speed, heading towards some unknown destination in the warzone.
+
+“What’s the situation?” Ranthia slipped back into her Sentinel Grace voice for the first time in what felt like an age.
+
+“The only details I have are that the 17th Legion has suffered unexpected casualties and was requesting an evacuation for the wounded to [Healers], ma’am.” The same man answered readily.
+
+“Were there any orders for me?” Ranthia regretted the question almost the very instant it passed from her lips. If there were any, she would have received them through a runner from Ranger Command, not some random legionary on a largely redundant posting!
+
+“Not that I’m aware of? Er, that is, no ma’am!” The confused legionary stumbled over his response.
+
+Ranthia nodded to the man—unable to salute with her arms occupied by bags—and led Avyna away from the landing platform.
+
+“<What now?>” Ranthia vocalized the question that was running through her head.
+
+“<We could always buy a cart and walk.>” Avyna answered, shamelessly borrowing Ranthia’s glib tone.
+
+Ranthia planned to laugh when she opened her mouth, but instead a thoughtful sound escaped as her mind actually seriously considered the suggestion. If Avyna truly was able to keep up with her…
+
+Huh, it seriously was a possible answer to their dilemma.
+
+It took a little time, but even with the markets shut down for the day Avyna managed to source a hand cart that could replace the lesser quality cart that she used in Remera. Just before midnight, they departed Coalition City, leaving a few puzzled legionaries in their wake.
+
+Ranthia had changed back into her armor and was handling the cart. Avyna wore a brand-new set of traveller’s leathers that were dyed a lovely—if somewhat impractical—shade of green that matched her [Emerald Eyes]. Ranthia gradually accelerated to her full speed, as she became increasingly convinced that the elven-made cart could endure the abuse, and was delighted to find that Avyna effortlessly kept pace with her.
+
+Ranthia released a delighted whoop into the air once she reached the peak of the speed that she could comfortably sustain for an overnight journey. Once Coalition City was little more than a bright speck on the horizon at their backs, she finally conjured five images around them and set [Submind] to making them act as though they were vigilant guards.
+
+Ranthia’s exuberant mood proved infectious—that or Avyna enjoyed a good opportunity to run free just as much as she did—and the couple chatted playfully and happily as they rejoiced in the freedom of privacy. The night’s air was refreshing and there was a light breeze in play—it truly was a picturesque scene, so far as the monotonous wasteland was concerned. Or, perhaps, that was just the beautiful woman at Ranthia’s side.
+
+…Her right side, specifically. Not her own image on her left.
+
+Avyna was regaling Ranthia with the story of a forest in the western reaches of the Tympestshard Council’s territory. According to her, the majority of the trees there were eternally in their autumnal hues, with vivid leaves of oranges, reds, and yellows—even throughout the winter. It sounded like a wonderful place to visit, but Ranthia couldn’t dwell on the vision that her mind imagined.
+
+Avyna fell silent, a heartbeat before Ranthia could signal her to request it.
+
+No Skill pinged, but they had lived for years in the wasteland that the war was (largely) being fought within. As easy as it was to write it off as barren, that was hardly the truth. Life wasn’t as abundant as it was in a rich land like Remus, but insects, animals, and plants eked out their continued existence even amidst the rocky terrain.
+
+And it was all too clear that the subtle sounds of life—discernable through their vitality-enhanced senses—were only coming from behind them. With her accelerated perception, Ranthia allowed herself to indulge in a single moment of outrage. A significant factor in her decision to walk was that the shimagu rarely attacked anyone moving between Coalition City and Remera, even if Remera was still technically within shimagu-controlled territory.
+
+But rarely didn’t mean it never happened, and Ranthia had better things to do than stand there silently reciting every curse and bit of profanity she knew.
+
+Instead, Ranthia released the cart and offered a reassuring smile to Avyna—marred by her concern over her beloved’s presence—before she and her five images stepped into the dead zone (no relation) that the shimagu ambushers had inadvertently created. [Rhythmic Grace]’s ability to erase her footprints was intentionally suppressed as she stomped forward, stopping just shy of the centermost point of the area avoided by the region’s predator-fearing life.
+
+“<If you plan attack, bring it on.>” Ranthia shouted her challenge in the shimagu tongue, her eyes locked on the thinned rock that concealed a Skill-created cavity beneath the ground. Ceding initiative to her adversaries was sub-optimal, but she wasn’t stupid enough to try to get an image underground and aspire to shift into it before it was destroyed.
+
+Her brief distraction—another wistful pang for the charged gemstones she couldn’t carry—came to an end as the ground in front of her crumbled away. The shimagu moved quickly, but plainly none of them were able to match her speed. Eleven individuals—ten ogres and one human wearing Legion-issued armor—emerged. In the lead was an ogre wielding a massive iron axe, one that was positively covered in old, flaking blood. He roared, lunging directly for the tightly grouped Ranthias.
+
+Ranthia embraced the spontaneous rhythm as it came to her. She was all too aware of Avyna’s eyes on her, which meant that she couldn’t allow any close calls or sloppiness in the battle. …Okay, yes, she really needed to avoid those things in general, but at the very least she hoped to allay any lingering concerns that her beloved might carry. Which meant that she needed to do more than fight—she needed to put on a show, specifically a display of sheer competence!
+
+Ranthia moved. Her dance carried her forward as she slipped around the ogre’s extremely telegraphed cleave. Her images gracefully rushed the other shimagu puppets, but Ranthia paused to say a few words.
+
+“…And seriously? Maintain your weapon, idiot!” Ranthia quipped to the stunned ogre, before she drove her knife through the back of his neck.
+
+[*ding!* Your allies have slain an ogre [Guardian Protector] (Earth, level 461), [Wolf Raiser] (Wind, level 71)!]
+
+[*ding!* You have slain a shimagu [Frontline Warrior] (Ooze, level 503), [Fierce Charger] (Gale, level 480)!]
+
+Ranthia paid a single smug glance to the notifications, then promptly almost tripped. Her rhythm failed her while the unexpected nature of the pair of notifications sunk in. But… she was the only combatant in the area…?
+
+The dead ogre, still falling backwards, provided an unmissable explanation: the arrow’s vibrant green fletching was still visible, even with much of the shaft still buried in the ogre’s eye socket.
+
+Avyna offered her a confident smirk when Ranthia spared her a quick glance. A second arrow was already nocked and, in the same instant Ranthia looked her way, Avyna smoothly drew back the string of her beautifully carved wooden bow. The enchantments engraved throughout the bow shone vividly in the night, actively powered by the elf’s own Skills.
+
+But even those brief moments of distraction came at a cost. By the time Ranthia swallowed her brief-lived urge to insist that Avyna needed to withdraw—seriously, she had just spent months reaffirming that Avyna was a capable woman who could make her own damned choices—three of her images had been destroyed and the remaining shimagu had fanned out to give themselves ample space to provide cover for one another.
+
+Refocused and (more or less) firm in her decision to trust Avyna’s judgment and—at best—loosely Skill-backed talent (Focus!), Ranthia found her rhythm again as she moved toward the shimagu. Shards of conjured stone whizzed past her head, forcing her to twist and bend to avoid the shimagu [Mage]’s probing attacks. But her next target was an ogre wielding a crude iron sword that looked as though it was forged from partially melted farm implements.
+
+She had enough time to replace two of her images—and set them to distracting the other shimagu—before she reached the brutish puppet. The parasite within him proved more competent than the last; he had the sense to switch to a defensive posture while his allies moved to box Ranthia and her images in. Not that Ranthia intended to let him.
+
+Ranthia pivoted to slip around her slower opponent, only to find her progress stymied by the crude sword that he recklessly thrust into her path. But with his blade so far away from his torso, the ogre had blocked her at the cost of his own defense! Ranthia pirouetted to punish him for his blunder…
+
+But when [Combat Awareness] pinged, Ranthia didn’t hesitate. She abandoned grace and threw herself backwards, which brought her clear of the conjured stones unleashed by the same [Mage] that passed through the sword, wholly uninhibited by the ill-forged metal.
+
+[*ding!* Your allies have slain an ogre [Bird Hunter] (Wind, level 530), [Hunter Archer] (Wind, level 473), [Seeker of Water] (Water, level 103)!]
+
+Why wasn’t the System smart enough to use the singular ‘Ally’? Ranthia silently willed the System to consider them a party while she vaulted back to her feet. The ogre archer was out of the picture—though the vicinity around the fallen foe would be perilous until his parasite perished—which offered her a moment of breathing room.
+
+The [Mage] was condensing a larger piece of stone, aggressively pouring his mana into an obvious projectile that gradually expanded with each moment. An ogre wielding a large, crude shield made of bone and worn animal hide was moving toward her, as was the ogre with the strange sword. All three ogres that wielded spears remained where they were, unwilling to risk their mutual cover. The stolen legionary was putting on a grand duel with one of her images, somehow unable to gain an edge over Ranthia’s brittle Skill.
+
+But the other two ogres were missing, which was worrying. If they were concealed by a Mirage Skill, Ranthia would have (presumably, given the apparent level difference) seen through it with [Vision of the Void]. But the fact that they had, at some point, disappeared from even her senses suggested a far more practical—or dangerously potent—effect was at play.
+
+Not that Ranthia could spare any more time for her flatfooted search. The two that volunteered to dance with her were slow, but each stride of the oversized ogres consumed a substantial distance. Ranthia swept forward and baited a slash from the sword-wielder—easily dodged—before she severed a chunk off the other ogre’s shield.
+
+The shield-bearer was obviously trying to get an opportunity to slam into her with his superior bulk, but it wasn’t exactly challenging to stay a step or three ahead of him. Ranthia kept her focus stretched outward—both to allow her images to harry the less aggressive shimagu forces and to keep an eye on the [Mage]—while she worked to whittle down the bulky barricade the ogre carried, avoiding or parrying the intermittent attacks from the other ogre’s crude sword as they came.
+
+Finally—after a few interminable seconds—the shield-bearer misjudged her movement and turned the wrong way. Ranthia slipped past the brute and managed to inflict a single slash across the back of his neck as she went.
+
+[*ding!* You have slain an ogre [Patient Laborer] (Wood, level 361), [Steady Stamina] (Light, level 370)//a shimagu [Wielding the Might of Others] (Ooze, level 404), [Defender] (Wood, level 318)!]
+
+The brief elation of triumph gave way to horror. As Ranthia came around from her strike, her eyes found the [Mage]’s projectile—a stone spike as long as her forearm—already in flight.
+
+But it wasn’t coming for Ranthia, instead the accursed parasite had sent his strike directly toward the back of Avyna’s head. And her elf was distracted, fully focused on the two ogres that had reemerged from underground behind her!
+
+There was no time. Ranthia tried to shout a warning, but the bulk of the [Mage]’s mana had clearly gone into the projectile’s acceleration. Even at the limits of her perception, it was fast—and shouting took precious time.
+
+The armed and living ogre a mere pace or two away from Ranthia was forgotten as she watched what her heart feared would be her beloved’s final moments. Grief, anguish, and impotent fury chased the warning as it travelled up her throat.
+
+Xaoc, please! Her thoughts were cursedly swifter than her body. There was no time to adjust her blades and throw them at the lethal rock. She lacked the speed to lunge into its path. Her warning would likely arrive alongside Avyna’s horrific end. Helplessness and desperation forced the nigh-incoherent prayer.
+
+Then the stone spike reached the back of Avyna’s head.
+
+And vanished.
+
+Ranthia had exactly enough time to send exuberant gratitude Xaoc’s way—and get the impression of a dismissive shrug in response—before Avyna glanced over her shoulder at the ogre [Mage]. The projectile reappeared when the elf activated [Return] and—just as the counterpart to her [Catch] Skill promised—the conjured rock flew right back to the [Mage] that sent it her way.
+
+He fared somewhat worse.
+
+[*ding!* Your party has slain an ogre [Plague Survivor] (Forest, level 262), [Unrelenting] (Mountain, level 199)//a shimagu [A Thousand Promises of Friendship] (Ooze, level 360), [War Mage] (Earth, level 349)!]
+
+Avyna spared Ranthia a single roll of her beautiful eyes, before she refocused on the ogre that was swinging a brutal fist her way. Avyna lowered her bow and side-stepped the punch with a level of grace that rivaled anything Ranthia had ever achieved. As the blow passed her, Avyna caught the ogre’s arm with her free hand and pulled the ogre forward—sending him off-balance.
+
+But Ranthia couldn’t just stand there, slack-jawed, while she watched her lover make a mockery of their opponents with civilian classes. [Combat Awareness] dragged her attention back to the ogre swordsman nearly too late—Ranthia was forced to thrust her adamantium bracer into the blade’s path to buy the extra moment she needed to move clear of the weapon’s arc.
+
+Beneath the bracer, her skin bruised. But [Higher Power] offset the impact enough that it was just a minor bit of inconvenient pain—and she hadn’t forgotten how to ignore that after such a short break.
+
+The ogre had overcommitted his strike, and his freshly dented blade sank surprisingly deep into the ground. While her opponent was vulnerable, Ranthia swept in to finish him off—yet impossibly his blade slid effortlessly through the rocky terrain and would have taken her arm, had she been careless.
+
+Instead, Ranthia evaded the upward cleave and buried a knife in the back of his neck.
+
+[*ding!* You have slain an ogre [Effortless Plow] (Mountain, level 505), [Field Keeper] (Spore, level 416)//a shimagu [Dreambreaker] (Ooze, level 512), [Soldier] (Mantle, level 462), [Adult of the Shimagu] (Water, level 8)!]
+
+[*ding!* Your party has slain an ogre [Brawler] (Fire, level 474), [Wanderer] (Sand, level 368)//a shimagu [Foul of Temper, Quick of Fist] (Ooze, level 476), [Stoneshaper] (Mountain, level 415)!]
+
+That left five enemies—and one parasite trapped in a corpse—that needed to be purged.
+
+“<Care to yield?>” Ranthia felt obligated to make the offer.
+
+Three of the foes—two spear-wielding ogres and the infested legionary—volunteered an impromptu lesson in shimagu profanity, but plainly every upright foe was determined to fight until their bitter end.
+
+Avyna was effortlessly evading the crude swings from the last ogre that went after her—a woman wielding two axes that were of dwarven make and far too small in her robust hands—as she moved toward Ranthia. But Ranthia needed to focus on the trio of spear-wielding ogres that were moving forward in an impressively—by shimagu standards—coordinated formation. There was no way for her to close in on any member of the trio without at least one of the others able to strike at her.
+
+It was clever, Ranthia had to admit. It would have been more clever if any of them were wielding something more robust than a worn length of wood with a sharp rock tied to the end. Ranthia moved in with exaggerated wariness until the lead ogre jabbed his weapon at her. As expected, [Void Edge] effortlessly tore through the weapon when she intercepted his strike—the shimagu parasites themselves had precious little vitality to offer any weapon they wielded.
+
+And there wasn’t a [Warrior] to be found amongst the three ogres, just [Laborer]-tagged classes.
+
+Ranthia closed in on the partially disarmed ogre. He had the sense to swing the remnants of his spear at her as though it were a somewhat short staff, but Ranthia wasn’t about to let a stick stop her advance. Her knives tore through the ogre’s final implement as she stepped into his guard.
+
+As expected, the other two ogres drove their spears at her with utter disregard for their comrade’s safety. Ranthia ducked under the incoming blows and used her left bracer to redirect the thrust the lowest-level ogre made—which meant his weapon pierced into the chest of the opponent she had disarmed.
+
+[*ding!* Your party has slain a human [Linesman of the Legions] (Mantle, level 426), [Parrying Specialist] (Mantle, level 350)//a shimagu [Twisted Usurper] (Ooze, level 455), [Grudging Soldier] (Metal, level 408)!]
+
+Pride for the love of her life and Ranthia’s pride in her own abilities warred in her heart. She shouldn’t feel competitive. But she was the Sentinel on the scene, and Avyna was seemingly outclassing her ability to kill the infected hostiles!
+
+Ranthia blurred into motion. The weakest ogre was still trying to rip his weapon out of his ally’s chest, while the third tried to track Ranthia’s aggressive dance. He failed. The ogre thrust where she had been—missing her cleanly—which let her punish his blunder with a sweep of her knife. With a pirouette, she immediately slung her knives at the throats of the preoccupied ogres.
+
+[*ding!* You have slain an ogre [Stone Stacker] (Earth, level 415), [Mighty Hauler] (Fire, level 397)//a shimagu [Ostensibly Obedient] (Ooze, level 421), [Jabber] (Wood, level 401)!]
+
+[*ding!* You have slain an ogre [Dutiful Laborer] (Metal, level 310), [Cleaner] (Water, level 156)//a shimagu [Yearning Desires] (Ooze, level 314), [Shimagu Warrior of War] (Metal, level 315)!]
+
+[*ding!* You have slain an ogre [Restless Father] (Mist, level 421), [Gatherer] (Forest, level 406)//a shimagu [Restless Tormentor] (Ooze, level 449), [Clever Scout] (Ice, level 417)!]
+
+With her pride satiated, Ranthia turned her attention to the final ogre. A few graceful movements were all it took to pass Avyna by and intercept the brute that pursued her. Her bracers finished their transformation into her second pair of knives an instant before her blades met her opponent’s steel axes and—
+
+A sharp crack split the air as cobalt energy arced between her opponent’s weapons and her own. Ranthia’s arms spasmed—forcing her to hurriedly dance backwards before her enemy could capitalize on her momentary vulnerability. Her arms felt somewhat numb in the aftermath, but fortunately she had managed to keep her grip on her knives.
+
+The ogre—eager to finish a weakened opponent—rushed forward with her axes held high. But Ranthia wasn’t half as stricken as the parasite obviously expected her to be. Ranthia met the ogre’s charge—and slashed her Void-kissed knives through the brute’s unprotected armpits.
+
+The ogre’s axes tumbled from her insensate fingers, moments before an arrow lodged itself deep in her throat.
+
+[*ding!* Your party has slain an ogre [Rock Climber] (Mountain, level 503), [Expert Herb Seeker] (Forest, level 429)//a shimagu [Killer’s Intent] (Ooze, level 539), [Voltaic Violence] (Lightning, level 503), [Veteran Combatant] (Metal, level 65)!]
+
+“<It remains quite distracting to see you in battle, my love.>” Avyna announced with a playful—and blatantly pleased—smile.
+
+Ranthia took a deep breath and tried to force her face to show her partner some expression that wasn’t exasperation or bafflement! Her efforts resulted in an interminably strained expression that sent Avyna into a fit of wrist-concealed giggles.
+
+But by every last god and goddess that watched over Pallos…! Ranthia had sorely underestimated the woman that she loved. Civilian classes or not, Avyna was still an elf—and she had the tyranny of both stats and experience to prove it.
+
+[*ding!* Your party has slain a shimagu [Ambush Enthusiast] (Ooze, level 542), [Power Shot] (Gravity, level 493), [Lethal Arrows] (Gale, level 128)!]
+
+She had a funny feeling—or perhaps an optimistic hope—that Avyna wouldn’t be the hapless waif in her nightmares any longer.
+
+“<We’ll just… collect your arrows. Then we can finally go home.>” Ranthia broke her stupefied silence once her mind offered something that wasn’t stunned, incoherent amazement.
+
+The smile that Avyna offered in response was quite possibly even more radiant than any other expression that she had ever seen from her elf.

@@ -1,0 +1,201 @@
+---
+id: c1c08d4b-a291-55b6-88d6-a5af8d4f9d0c
+page-type-slug: story-chapter-royal-road
+title: "v7c22: Cycles of Peace"
+slug: 0275-v7c22-cycles-of-peace
+partOf: beware-of-chicken
+position: 275
+ownLength: 2629
+unit: words
+ownProgress: 2629
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2986611/v7c22-cycles-of-peace"
+royalRoadId: "2986611"
+markedReadAt: "2026-06-29T19:00:51.747Z"
+---
+
+There was always something special about the last moments before sunrise. Fa Bi De sat upon the roof of his home in the pre-dawn darkness, looking up at the moon.
+
+He had stayed up most of the night, for the first time in a long while. Fa Ram no longer needed him to conduct the night watch. The Great Pillars were fully repaired, standing tall and proud. Their coops were well secured, and any interloper attempting to break in would be foiled. But more than that, there was their first line of defense. The reason Bi De was unneeded in the night was Vajra. Already she had utterly surpassed all but the Healing Sage in her ability to detect interlopers, despite the difference in their cultivation. She was the best of them, a network of bees operating in shifts that covered the length and breadth of Fa Ram. Even Shen Yu acknowledged her skill for what it was.
+
+Still, Bi De had been feeling a bit nostalgic; he had assumed his old position and sat alone during the night, gazing out over the land that was his charge; a charge that had been his for three weeks now. His feet had gripped tight the perch Tigu had made for him, feeling the warmth of the wood under his toes, even as he observed his favourite face; the crescent moon had kindly watched over Bi De while he contemplated its beauty.
+
+It was like he was a young cock again, daydreaming of the heavens.
+
+He let his nostalgia fade as the silver light of the moon dimmed. From the east, strands of dark purple threaded through the sky, getting progressively lighter and lighter, until they transitioned to pink tinged with gold.
+
+And then, like a great eye opening up, the sun crested the horizon. It bathed the world in light and heat, instantly warming his feathers, and starting the process of burning off the morning mist. The Yang of day eclipsed the Yin of night, completing another cycle.
+
+The sun stirred his soul; it demanded action, and he would oblige it.
+
+He took a deep breath, feeling the skin on his chest grow taut with the action. The scar tissue still plagued him, even after months of healing.
+
+To receive damage from an Expert was no small thing; had he been wounded by a peer, the damage to his flesh would have been long gone. His plumage would have regrown, and his Qi would not be wavering. But Bi De had been hurt by the backlash of his own attack, and the merest brush of Qi from one in the Imperial Realm. Their attacks wounded more than just flesh, they wounded the soul. The damage refused to be denied.
+
+Shen Yu had told Bi De he might carry at least some scarring until he hit the Sky Realm.
+
+Yet that was fine. It added some character to his human form, and the rest of his chest feathers could hide it while he was in his natural form. What was more problematic was his Qi, which would occasionally waver, the echo of a dark star pulsing through his body; But each day he rested, it happened less and less.
+
+Bi De felt he had drawn sufficient breath. He opened his beak and greeted the morning sun, his voice echoing over the hills.
+
+It was time to start the day.
+
+=========================
+
+He entered back into the house through the window to his room—his room that his Great Master had made just for him.
+
+The walls were decorated with woodblock prints, his calligraphy practice, and Yun Ren’s images projected onto paper. The biggest section of the wall above his desk had landscapes, images of his family and friends all smiling, and in the place of honour was an image of the entire family making silly faces.
+
+The desk itself was a bit of a mess right now; something Pi Pa had jokingly said he had inherited from their Master. It was covered in manhua print blocks, as well as his notes for the plot and panel design.
+
+He had a dresser for his various outfits, human and chicken both, and beside that dresser was another table, displaying knicknacks and souvenirs he had collected on his journeys.
+
+Silver-threaded rocks and a shepherd’s crook from the Eighth Correct Place. A branch from the Ash Forest. Shards of crystal from where he had broken Xiaoshi’s memory crystal off the wall. Art from the monkeys of Crystal Hill. One of Yushang’s hair ties; a pendant carved by Old Ling; a rather fetching hat from Fat Han; a good set of mountain picks from Shao Heng; a bottle of alcohol from Fenxian and Yingwen. There were teeth from a particularly vicious Spirit Beast that had tried to kill them in the Sea of Snow.
+
+He had quite a few memories preserved now. Some good and some bad, but they were to be treasured all the same.
+
+He exited his room, and was promptly ambushed. Two arms swept down, and he was lifted and pressed into Ri Zu’s bosom.
+
+“Good morning,” he said, looking up at her. She smiled down at him.
+
+“Did you have a good night looking at the moon?” she asked.
+
+“It was very pleasant, yes… though I did miss your warmth,” Bi De replied flirtatiously.
+
+Ri Zu’s cheeks heated at the tone in his voice, then kissed the top of his head.
+
+She carried him down the stairs, and Bi De allowed himself to be cuddled until they reached the kitchen; and then he hopped down to face his first challenge of the day.
+
+Assisting Pi Pa in making breakfast.
+
+Now, Bi De could cook, but he was decidedly mediocre at it. Yet with his Master gone… there was no time like the present to improve!
+
+When everyone returned, he would craft for them a grand feast!
+
+“Good morning, Pi Pa,” he greeted the pink-haired woman, who graced him with a smile.
+
+“Good morning, Master,” she replied. It was still odd to hear that coming from her, but Bi De was currently the Master of the House; thus while his Sister was working, he was referred to as such.
+
+It filled him with determination to be worthy of the title. He hopped to, leaping to the counter and beginning to assist Pi Pa in her work, paying careful attention to the cooking time and the seasonings… as well as his own special projects.
+
+He would have new flavours for Brother Wa Shi. He would have new flavours for everyone!
+
+Though, it was quite sad that most of the humans of his family didn’t like bugs. Pi Pa and Ri Zu didn’t mind them, though, which meant that he would not be alone in consuming the delicious pepper grasshoppers—not that he could actually feel the heat as a chicken, for some strange reason. Ri Zu was working on that one.
+
+======================================
+
+When breakfast was ready, and the plates set, Bi De took his place at the seat where his Master normally sat, and looked over the few people who remained.
+
+Bowu was still half asleep, finally having returned home last night from six days at Verdant Hill, working non-stop. Miantiao was in a quiet mood, calmly drinking his morning tea. Biyu and Yun Ren were talking quietly about carving tools. Spooks and Chun Ke were planning a walk in the woods later. Vajra and a flight of her daughters were assembled around a bowl of syrup. Finally, there was Shen Yu, the old man watching over them all.
+
+Bi De got why his Master said it was too quiet. Most of their pranksters were gone, and while the calm atmosphere was fine, it was still missing something.
+
+He would have liked Tigu or Yin to burst in. That would be fun.
+
+They finished their quiet breakfast together, then Bi De clapped his hands against his thighs, as his Master did. No words needed to be said; it was time for the morning exercises.
+
+They filed out together, and went through the martial forms passed down to them. All of them moved well. Even Biyu was starting to move with surety, integrating the forms into her body.
+
+The peace of the day settled over them all.
+
+And when they were finished, it was time for the work to begin. Bi De handed out the duty roster he had crafted.
+
+With the spring planting finished, there was mostly just maintenance to be done, but everyone gave it their all. Especially Bi De.
+
+His Master had worked hard to give them a home proud for them to come back to, and Bi De would give them all the same.
+
+A home, lovingly tended. His Qi flowed out of him, into the earth. The great golden web underneath him was even more vibrant, even more beautiful feeling, than last year. He could occasionally feel flashes of affection from Tianlan, resonating through the earth, far away as she was.
+
+Once, it rang with five pure chimes of a gong, reverberating through their home and their souls.
+
+He knew that, in a distant place, his Master was doing what he did best.
+
+Bi De went through everything his Master did. He gave his Qi to the Spiritual Herbs; he shoveled the dung from the barns. He allowed the gentle pace of his home to calm his soul, so strained from its exertions over the solstice.
+
+All who had journeyed north appreciated it. He could see it in Ri Zu, Yun Ren, and Spooks’ eyes, as they did the simple, but fulfilling work; Yun Ren especially. Bi De had overheard Biyu mentioning to Ri Zu about Yun Ren’s occasional bad dreams, wondering if there was some herbal remedy to help him.
+
+In the end, all any of them needed was time.
+
+The downtime also allowed Bi De to broaden his skills. He worked hard with Pi Pa to learn management from her. He read Gou Ren’s notebook that had been given to Yun Ren, and practiced his Qi reinforcement diligently. Yun Ren didn’t let the bad dreams get him down; Biyu was a balm to his soul, as was his work. Though he grumbled sometimes, he diligently followed in Gou Ren’s footsteps, and Bi De could say he barely saw a difference.
+
+He helped Miantiao with his porcelain, carefully bending lengths of copper coil into shapes to be filled with glass; he forced Bowu to take a break day, and walked with the young man and Chun Ke through Fa Ram’s forests.
+
+He spent wonderful afternoons learning medicine with Ri Zu… though sometimes they didn't get that much studying done, due to getting… distracted.
+
+The evenings he spent in the company of Shen Yu, who watched over Bi De’s light exercise with a practised eye, making sure he did not overexert himself.
+
+He did not just passively maintain, either. Home was not a thing of stasis. It was a place of growth and cycles, and so he looked for ways he could help. Thoughtful things that he could do for his family, to make home better for them.
+
+And then he decided to tackle the main thing his Great Master had complained about. The fortress. Its grey stone walls were sturdy and strong, and Gou Ren’s work was solid, but the Fortress of Fa Ram stuck out terribly. Nobody wanted to take it down, just on the off chance that it would be needed again.
+
+So instead, he strove to make it beautiful.
+
+Not all of his plans worked out. Adding colourful pennants made it look too garish. More carvings didn’t seem to be the answer, either. Instead, he decided the best way to improve it was greenery.
+
+Planters were artfully arranged, disguising some of the stone with greenery and climbing vines where they would not compromise the defenses.
+
+In the end, the green started to blend in with the trees around it. It started to look older, and more weathered, but Gou Ren’s Qi left it feeling sturdy and strong.
+
+He would have to play with the arrangement some more, but he felt it was on the right track. The hard, imposing stone was gaining an air of tranquility.
+
+=============================
+
+It was not all maintenance, however; Bi De had been entrusted with Fa Ram’s obligations, and he would not fail them.
+
+Firstly was the daily purging of the demonic poison they had extracted from the ground; all of them diligently attended to that boring and foul-smelling task.
+
+Secondly were the gifts to Master Forest Sweeper; Bi De could not say the alcohol he made matched his Master’s, but he tried his hardest, and it once more brought him fresh admiration for his Master’s techniques.
+
+On the outside, everything seemed so simple, most cultivators would call it peasant work. And yet here too was mastery; mastery of the highest order, in Bi De’s opinion, for it was a mastery of creation.
+
+After his time in the Shrouded Mountain Sect, it was most needed.
+
+He spent several most enjoyable evenings trying to fine tune the mixture with Spooks, his friend eager to learn how to craft that which aided his own Master.
+
+In addition to Forest Sweeper’s brews, he met with Grandmother in her house in Verdant Hill; he checked in with the guard captain there also, to see if there were any problems that needed to be taken care of.
+
+He met with the foxes of Smoky River, so he could watch over their farming techniques, which inevitably led him back to Hong Yaowu, where he enjoyed the company of Uncle Xian.
+
+And then, he would return home for dinner, and practise his cooking once more.
+
+They were perfect, pleasant days… though sometimes, Bi De felt a twinge of anxiety. Like it was too peaceful, and something was going to go wrong.
+
+And yet, as the first month passed, nothing did.
+
+His anxieties settled, and he devoted himself to his home.
+
+Everything was in place. Everything was peaceful.
+
+He looked up at the stars at night, with Ri Zu in his lap.
+
+“Our Masters were right. This is a very nice rock,” Bi De decided, perched as the two of them were on the boulder that their Master had taken from near Verdant Hill.
+
+“It's a very pleasant place to sit,” Ri Zu agreed. “Shall we allow it its purpose?” she asked, turning around to look up at him.
+
+The Kissing Rock’s name was well earned, by the end of the night.
+
+And there was one bonus, to having a mostly empty house.
+
+They didn’t disturb anyone.
+
+And so another night came to an end, and another day began.
+
+=============================
+
+The scout bee buzzed through the air, feeling the bare edges of its queen’s range. Her Majesty was testing their limits today, and they had flown far indeed.
+
+This particular scout had been sent south—and though she could not recognise this place, flashes of recognition came from the queen. The scents, the taste of the air; this was roughly the path she had taken on her own journey north.
+
+The command came again to widen the net, and the scout bee obliged.
+
+The connection became fuzzy and indistinct, the voices of her sisters suddenly silent.
+
+They had gone too far.
+
+The scout bee turned back around, to fly back into range, when her antennae caught a whiff of something. Something that made every hair on her abdomen stand on end, and her instincts began to scream. It was a familiar smell. A disgusting smell.
+
+The smell of butchers and pillagers, the scent of billions of corpses piled high—
+
+Something massive, larger than the largest of their sisters, twice the size of Sister Bane, hit her.
+
+The scout bee’s head dropped to the ground.

@@ -1,0 +1,131 @@
+---
+id: 3e1c3129-4dbc-5119-a787-84d130c43b88
+page-type-slug: story-chapter-royal-road
+title: "54. Darkness Incarnate"
+slug: 0054-54-darkness-incarnate
+partOf: breaker-of-horizons
+position: 54
+ownLength: 2260
+unit: words
+publishedAt: 2020-11-05
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/579824/54-darkness-incarnate"
+royalRoadId: "579824"
+---
+
+The darkness of midnight seemed to press in on the globe lights that lined the path. Snow materialised out of the gloom, lightly dusting the grounds. Ensconced as we were in our thin shields, each accompanied with a mote of arcanic fire, the seven of us were protected from the cold. I was relieved to learn that snow melted upon contact with our shields, leaving a faint smell that vaguely resembled petrichor. It was a novel scent, and it reminded me of how I could identify a flavour-vein-echo with my arcanic sense.
+
+"Do you guys smell that?" I found myself whispering, not wanting to disturb the sleepy quietness.
+
+"Yeah," Devon answered in a low voice. "And for the record, I object to doing this so late at night."
+
+"Yes, the records note another objection. What's the count now? I lost track after ten," I said, rolling my eyes. There was a slight chuckle from Jerric at that. "Anyway, has anyone else ever noticed that smell before?"
+
+"No. Does it matter?" Devon shot back a little irritably. "It's snow on the shields."
+
+"Or maybe it's the arcanic fire," Jerric mused.
+
+"Or maybe we're all smelling things because it's late and we're tired."
+
+"Yeah, we're all tired," Kevan cut in wearily, "but Jerric's right. We should keep the variables the same as much as possible. He's always done this at night, so we're doing it at night too. If this checks out, we can try again when it's day."
+
+We were passing the Spire now. Tonight, it seemed more alive than ever before. It was crazy how little we noticed its presence in our earliest days in the Academy. The structure quite literally dwarfed the other buildings, and even without our connection to the augera within, its physical presence was intimidating. Our hushed whispers gave way to meek silence, and only the soft shuffle of our footsteps on the path marked our passage. We crept around the Spire, and it seemed to stir a little like a beast being roused from slumber. But then the feeling of being watched passed, as if it had decided that we were not worth waking up for.
+
+None of us spoke again until we finally reached the hidden door. Jerric performed his trick with the Minor Control Sphere, though Ambrose and Emilia lingered a little when we crossed the threshold.
+
+"What is it?" I asked them.
+
+"Nothing," Ambrose answered, just as Emilia muttered, "Weird."
+
+That got everyone's attention. The rest, who had gone on ahead a little, turned to look. I raised an eyebrow at Ambrose.
+
+He hesitated and glanced at Emilia. "I felt... it felt like..."
+
+"Like you were being held back?" Emilia asked him, frowning. "Because I felt that too."
+
+Ambrose nodded, shooting a concerned glance back at the door. "And I think it was the augera. But it wasn't trying to stop me. It felt more like a warning."
+
+"Did the rest of you feel that?" Emilia, to her credit, did not seem worried. I could almost sense the furious computation that was happening in her head as she pulled together various theories and bits of data to make sense of what had just happened. But no one else had felt anything.
+
+"It makes sense for you to feel something," she began, addressing Ambrose. "As the Chosen One, it has a special plan for you. But why me, too, and not the rest?"
+
+"If you are the one brought close, then you have a bigger role than the rest of us," Jerric pointed out. "Whoever holds that position seems to be marked for something more than the others."
+
+"Maybe the two of you are in greater danger than the rest of us," Lynus offered. "But it didn't stop you, so that's a good sign?"
+
+"We'll drive ourselves crazy speculating what the augera wants," I said firmly. "Let's stick to our course. We've got an experiment to run."
+
+"This isn't creepy at all," Devon commented dryly. "Let's just pretend nothing's wrong and keep going."
+
+"No, Caden is right." Emilia stepped past the rest and continued down the path, conjuring a globe light now that we were beyond the wall and there was no more illumination. "And as Lynus said, if the augera wanted to stop us, it would have. It warned us. We are duly warned. We move on."
+
+"You sure she's not the Chosen One, taking the lead?" Lynus asked jokingly, nudging Ambrose as he followed after her. Ambrose rolled his eyes and elbowed him right back.
+
+We dialled up the brightness of our globe lights the further we got from the wall. I had long since grown out of any fear of the dark, but I did feel a little safer when we could see more of what was around us, and apparently, the rest shared the same sentiment. With a little adjustment, we could get our globe lights to shed a more diffuse glow so that it didn't cast hard shadows across the scene. Together, we formed our own little patch of day.
+
+The dark water of the lake bled into our isle of light as we got to the edge. Something did not feel right about it.
+
+"Why is the water black?" Devon whispered.
+
+That was it. There was a gentle bank and there was enough light that we should have been able to see a little of what was underwater, but the surface of the water defied illumination, and nothing was reflected in its mirror-smooth surface. We were standing at the edge of a void.
+
+Suddenly, Ambrose commanded sharply, "Back off!" We obeyed without question, stopping about ten paces away from the water's edge.
+
+"What is it?" Kevan asked, positioning himself just slightly in front of Emilia, ready for trouble.
+
+"Jerric's theory is that the lake augera, being wild, adjusts to our frames of reference. That's why it appears as his mother," Ambrose said slowly, his eyes still fixed on the water.
+
+"Yes, that's why we're all here, to see if it becomes something different to other people," Devon said, looking just about ready to bolt. "What's your point?"
+
+"You think it's already here," I surmised, eyeing the black water. "But no one called to it."
+
+"We're assuming it needs to be called." Ambrose motioned for all of us to take a few more steps back.
+
+But I felt nothing in the air. My arcanic senses picked up no flavour-vein-echo of anything at all. And I was certain that I would have felt the lake augera's presence since I had met it once before with Jerric.
+
+"Well, nothing bad has happened yet, so let's start," Jerric said, trying to sound confident. "Everyone, get together. Caden, are you ready?"
+
+I nodded and brought up the same 'arcanic mirror' pattern that I had employed to hide Jerric and myself from the lake augera, but this time it enclosed the six of us, leaving him on the other side. There was no single figure for me to orient it towards, so I simply placed it between ourselves and the lake.
+
+There was no shift in the air. The lake remained impenetrably black. Jerric roused his auric-ambient-flare to call out into the arcana.
+
+'Mother?'
+
+She did not materialise out over the water. I felt a coiling in the fabric of the arcana around us like it was being pulled sharply together, and then she was right in the middle of the six of us.
+
+"SHIT!" someone yelled as we were, all six of us, blown off our feet by a wave of force. Desperately, I wrapped myself in as dense a weave of arcana as I could, using the sequence that Emilia had taught us; the same one she had employed in her defence against Ambrose in their last duel. It absorbed most of the impact as I crashed to the cold earth, but I still felt winded.
+
+In the few seconds that it took me to reorient myself and get my feet under me, I could sense more dense knots forming in the arcana. I looked up, expecting to see more phantasms, but only the shadow of Jerric's mother stood at the centre, and she was slowly walking towards Jerric. To my horror, I realised that someone had landed in the water and was thrashing about.
+
+'No, no, no, no, no!' I heard Lynus babbling into the arcana somewhere to my left, but I darted towards the lake to help whoever it was in there. Even as I ran, I formed the sequences in my head around the glyph of transmutation that would allow me to grab things with arcana alone. It wasn't something that could be done easily over a long distance, and the heavier an object was the harder it would be to accomplish this, but entering the water did not seem wise.
+
+Behind me, I heard the dull throb of arcana being thrown about. I recognised the flavour of heavy arcanic bolts from Kevan, the crackle of something complex by Emilia, the sharp scent of Ambrose's focus on a sequence of almost alien design.
+
+So that meant the figure in the water was Devon. There was no room for finesse and no point in hiding physical gestures against a being of pure arcana. My hand shot out in a grasping motion as I desperately tried to get a hold of him, but he slipped beneath the water without leaving so much as a ripple.
+
+"NO!" The cry forced itself out of my throat and also bled into the arcana. I could not reach him beneath the water with my arcanic hand. It was like an impenetrable barrier.
+
+That desperation triggered a memory when I couldn't physically reach Kevan through the arena barrier to ensorcel him. 'With auric-ambient-flare! Not with hand!' the augera had admonished me.
+
+Not with hand. My auric-ambient-flare is not a hand. I drew myself up, seeing, in my mind's eye, Reeves' hand as it gestured as he tuned the weight of his ensorcelment in the lecture hall. It is not a wave. It is not a pulse. It is not a heartbeat. It is a LIGHT.
+
+It seemed so obvious before, but with that realisation, I understood more fully that deep concept of personal arcana. My auric-ambient-flare illuminated the space, and my arcanic sense could finally penetrate the darkness of the water, even if my eyes couldn't. The lake's water dimmed my arcanic sense a little, but I turned up my auric-ambient-flare's brightness until I caught Devon in the warm glow of its illumination. And with that, I planted my feet, instinctively reaching out with both hands even as I grasped him firmly with my arcana, and yanked him right out of the water onto the cold bank.
+
+He came out spluttering and choking. But before I could even pull him to his feet, a perturbation in the water distracted me. Something shifted in the depths, roused by my illumination. It was like a massive eye had opened, and the intensity of its gaze pinned me in place. Devon must've sensed it too because he gave an inarticulate cry of horror and started blindly hurling arcanic bolts at it.
+
+Despite the situation, I felt a swell of pride because I sensed that he was manifesting those bolts within the water itself, and not directly from his body. It seemed that he had figured out how to attune to the arcana on some level. Even the nature of his bolts was different — not hardened to cause physical damage, but empowered as a purely arcanic construct so that it slipped through the water with barely any resistance.
+
+However, those bolts were casually batted aside by the entity in the water, creating little eddies in the arcana that were violent enough to send up a few eruptions on the surface of the water. I desperately attempted the mirror trick again to hide us from it, but this time the malice in its gaze smashed those constructs to pieces, and I felt contempt radiate from it even as it roused itself and came closer to the surface and to the bank.
+
+Further up the bank, the others were engaged in a titanic struggle with whatever had loosed itself upon Lynus. Jerric was locked in some private battle with the figure of his mother, which had seized his hand and was frozen in the act of pulling him away from the lake.
+
+But there was no time to even worry about them now. The entity in the water was approaching with increasing speed. I half-dragged a sopping Devon away even as I laid one heavy barrier after another in our wake just to soften the awful weight of the entity's scrutiny so that we could move.
+
+"I knew it," Devon was gasping, barely coherent, "bad idea, at night, worst idea, always the darkness, always!"
+
+"Stay with me!" I heaved him up. "We're getting out of here, so help me, damnit!"
+
+He continued to mutter distractedly as we stumbled up the bank towards the rest, but he did start stitching together my barriers and patching them as best as he could even as the entity's gaze wore them down.
+
+But we were too slow, and it was too fast. The entity breached the surface. In horrified fascination, we turned to stare up at it as it loomed over the lake, our globe lights marking it out as a yawning void that swallowed up the night. Even the frantic activity from the others stopped for one brief moment.
+
+And then it lunged.

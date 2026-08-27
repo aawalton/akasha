@@ -1,0 +1,151 @@
+---
+id: 7196743e-abb3-5572-a178-931b3db9adab
+page-type-slug: story-chapter-royal-road
+title: "v4c77.2: A Cat's Tale Part 2"
+slug: 0094-v4c77-2-a-cat-s-tale-part-2
+partOf: beware-of-chicken
+position: 94
+ownLength: 1961
+unit: words
+ownProgress: 1961
+publishedAt: 2024-02-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1505901/v4c772-a-cats-tale-part-2"
+royalRoadId: "1505901"
+markedReadAt: "2026-06-29T18:54:40.558Z"
+---
+
+There was something to be said for getting a letter. Unlike the Before, with cell phones and email, where you could know what anybody was doing in a heartbeat, getting a letter was an event.
+
+Especially when you had been looking forward to hearing from that somebody for months. I couldn’t send a letter every week with the state of the system, or with them being constantly on the move. And even though I had known they were alright…. I really, really wanted to know what they had all gotten up to.
+
+Now though, we could sit down and hear what had happened all together. It was fun playing the part of a speaker in this audio drama retelling of Tigu’s Excellent Adventure.
+
+“Yin then said, ‘A round on me if you say his name is Shandan!’ She dared! Master, Miantiao, you must scold your disciple for this betrayal! Especially since the bar agreed with her! Your Daughter could not convince them!”
+
+I pitched my voice in a passable imitation of Yin being smug, then transitioned into Tigu’s righteous anger. Everybody else burst out with laughter at the petulant whine. Noodle was wheezing from his place coiled around Bowu’s arm, tears gathering in his good eye.
+
+‘Ah, this old man is glad she's getting a sense of humour!’ Noodle said, wiping at his eye with his tail. It was a little bit of a struggle to get there because of his back, but he managed it.
+
+I shook my head in amusement and continued.
+
+“I later learned that this was all Rags’ fault, and hunted him down for corrupting my dear Junior Sister! I tied him to the ceiling of the bar!”
+
+At this, I pulled out another drawing and turned it around, eliciting a fresh round of laughter at the very unflattering depiction of Rags.
+
+Big D’s letter had been lyrical, almost, in its quality. He wrote like somebody from, well, an ancient time period, his language largely formal but still informative. It had been concise, with the occasional aside to explain his feelings.
+
+Tigu just rambled. It flowed from one place to the next, roughly, occasionally jumping back when she remembered something she thought was important. It was earnest and heartfelt. Tigu’s thoughts were conveyed as best as she could to the page.
+
+She had little doodles in the margins of the scroll, things she had seen on people’s clothes; and when she reached something she wanted to convey, she didn’t even try to describe it. Another print would simply be inserted.
+
+From the reed houses of the Misty Lake, to the endless Grass Sea at sunset. One was Xiulan, staring at the horizon, a little smile on her face.
+
+“The Blade of Grass paid her respects to her fallen comrades. I’m glad the demons of her past no longer haunt her. Those men can rest easy knowing that Rou Tigu and her comrades have taken up their cause!”
+
+Meiling’s eyes softened and a small smile crossed her face. Chunky oinked with pride.
+
+She was a far cry from the selfish cat she once was. I was proud of her. And I was even more proud when a print of people in cages was unveiled. This one was abstract, unlike Tigu’s normal perfect realism. The vision was edged in red and black miasmic swirls.
+
+“I do my best to follow what you have told me, even when sometimes I do not entirely know right from wrong. One part of me cares little about those sorts of distinctions. But when I came to this scene, I knew in my soul that this was evil. I will walk with my head held high, for in this… I know that I have done the right thing.”
+
+‘She’s grown up so much,’ Peppa stated, her eyes warm. ‘A better Sister, I could not ask for.’
+
+“Nor a better daughter,” Meiling murmured. Her back was straight and proud.
+
+The girl who had once cared nothing about the weak and maimed things she didn’t like because she thought it was fun had grown to become a woman who would stand between the weak and those who would hurt them.
+
+I felt a smile grow on my face. She was right. She could hold her head high, because all of us were proud of her.
+
+She may not have been the daughter I had imagined having… but I was glad that she was.
+
+She had her second abstract piece after that—the great beetle that was Grass Sea City, and its dark, seedy underbelly.
+
+What followed was straight out of an action movie as they hunted down the slavers, and met Delun’s mother and father, two people who Tigu had given a glowing review.
+
+I glanced at my wife and she nodded. We would have to meet the potential in-laws soon.
+
+“And so it was done. With the help of our friends, and the Special Inspector, a man by the name of…” I trailed off. “Huh. That's a familiar name.”
+
+I tapped the name and Meimei looked at it, her eyebrow raised. “Oh, that's the Lord Magistrate’s surname—wait, that's his son’s name.”
+
+“Well, it isn’t exactly an uncommon name,” I pointed out after a moment. “Besides, the Lord Magistrate told me he's stationed in Pale Moon Lake City.”
+
+We both looked at each other and shrugged.
+
+I continued reading as they left Grass Sea City and headed to the Dueling Peaks.
+
+“...Never in my life have I heard such terrible music! Even kind and fluffy Shaggy Two took exception to her!”
+
+I shook my head at the sheer smugness that was radiating off the next picture; a cute chibi-rendition of Yin playing her pipa as a dog gnawed on her head.
+
+============================================
+
+Finally, they came to the Dueling Peaks.
+
+Tigu described the tenseness. The confrontation with the Grand Ravine Sect. The charge in the air—and then the absolute bafflement as they simply handed over all the memory crystals.
+
+It was almost anti-climactic. They were all prepared for a battle, perhaps a war, but I think Tigu had the right of it.
+
+“The easy part is now over. Now comes the truly hard part, keeping it going. It's endless meetings and paperwork that makes my head hurt sometimes; but… I think it's worth doing. That this is truly worth something.
+
+“It is only this past week that I've finally been able to sit down and think of something to write to you. Xiulan is a slave driver and I would usurp her, but she has to do more work than me. Being the Grand Marshal of the Azure Hills is too much. So your Tigu will have to content herself with being Captain of the White Tigers. Before Wa Shi asks, no, I didn’t choose the name! We had a vote and they named it after me! I am training them hard, and imparting the lessons you gave to me, Master. Mistress! It is disappointing! They are failing their ethics questions as much as I once did!”
+
+“She’s holding ethics classes?” Gou Ren asked, a look of incredulity on his face.
+
+Washy just started laughing so hard he nearly fell out of his trough.
+
+“I suppose this is the end of things. I still have so much more I want to say, but I’ll say it to you all face to face! For now, enjoy the things I’ve sent home, and enjoy the letters I've made the others write! I’ll see you all on the solstice—come whatever hells that may try to stop me!
+
+“Your Daughter and Sister—Rou Tigu.”
+
+I finished the scroll and sighed with contentment.
+
+“This is going right beside Big D’s,” I declared happily…. before swatting away Washy’s hand as it inched towards a bag of sweets in the chest.
+
+“Does anybody want to read their letter out aloud?” I asked, and Bowu immediately opened his scroll.
+
+“My Dearest Brother. I hope this letter finds you in good health…” he began, and I listened to the sweet, affectionate words that had been penned to Bowu.
+
+I started pulling out the souvenirs—there were reed hats and water plant seeds from the Misty Lake, an opera fan and preserved flowers from the Verdant Blade Sect, several prints  carved in stone, a slightly ragged headband that looked like the one that Rags wore, and badge that had a tiger on it.
+
+There were also dried fruits and honey candies—along with a bottle of some kind of perfume.
+
+“I would like for you to one day see our home again. But if you don’t, that is for you to decide. Even if you never return, have faith that your Sister will always be at peace with your decisions. Know that my love for you can never waver,” Bowu finished as we passed around the new items. He looked a bit choked up and he scrubbed at his eyes.
+
+Encouraged, Gou Ren opened his next. He grinned as he unfurled it and cleared his throat, ready to tell us the contents of the letter he had received.
+
+“Gou Ren. I write to you with all the love in my heart,” I smiled as another sweet letter began as she described how much she missed him. “Just as my heart yearns for you, so does my body. I have purchased several items you will like. Upon my return we shall endeavor to… shatter our bedfram—” and then his eyes bugged out and he choked.
+
+His eyes went further and further down the page, and his blush went from his cheeks all the way up to his ears.
+
+He tried to roll the scroll back up, but Meimei was beside him in an instant, moving faster than I had ever seen her move. She grabbed the letter, her eyes roving all over it—before her face turned pink.
+
+“Wow. Xianghua is bold,” she simply said.
+
+Gou Ren snatched his letter back, his face so red that you could probably cook an egg on it.
+
+======================================
+
+The other letters were much less lewd, fortunately.
+
+Most of them were actually more personal letters, written by Tigu, to Washy, Chunky, and Peppa. Mostly, they were about food, in the case of Washy’s letter, gloating about all the different things she got to try.
+
+The dragon got steadily angrier as he read, until he was positively fuming—his rage was only quelled by the fact that Loud Boy had also written to him, thanking him for his instruction. Xiulan had written to me, thanking me for the idea to just give everybody the recordings. That one was rather embarrassing. I had just provided the idea. She was the one who had gone and done it.
+
+The Torrent Rider had written to Big D, so that one remained untouched.
+
+And then the final letter was from Yin to Noodle. It was rather short and to the point, and kind of awkward and stilted, as she struggled to describe things.
+
+But its ending caused the snake to bow his head.
+
+“You were right. There is more to life than fighting… but this is the path I’m going to choose.
+
+“I know that this isn’t the life you want for me; a life of battle. But it's the life I want. And even if my life is a life like this, you have my promise that I will be more than a weapon. I’ll be Yin, whenever I find out what that is.”
+
+The snake took in a shuddering breath and sighed. ‘Foolissshhh student.’
+
+It was a wonderful end to a wonderful day.
+
+And it gave us something concrete to look forward to. They were coming home on the solstice.
+
+We had it in writing. And if they weren’t home, well, I would have to go and fetch them, wouldn’t I?

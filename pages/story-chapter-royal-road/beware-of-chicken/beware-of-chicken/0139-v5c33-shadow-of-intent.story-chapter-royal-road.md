@@ -1,0 +1,133 @@
+---
+id: 407d9fdd-dac2-5029-bbfa-52e4bd7b490c
+page-type-slug: story-chapter-royal-road
+title: "v5c33: Shadow of Intent"
+slug: 0139-v5c33-shadow-of-intent
+partOf: beware-of-chicken
+position: 139
+ownLength: 1729
+unit: words
+ownProgress: 1729
+publishedAt: 2024-08-14
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1757466/v5c33-shadow-of-intent"
+royalRoadId: "1757466"
+markedReadAt: "2026-06-29T18:56:03.507Z"
+---
+
+Last Night:
+
+Lu Ri was quite impressed when the defenses around First Den had activated. They were old and had nearly crumbled to dust—yet they were wards and defenses from the Age of Heroes. Even after thousands of years of degradation, even after so much damage had been done to them, they valiantly rose to do their duty again, even though they sparked fitfully as they did so.
+
+A befuddling mist rose, ghosting along Lu Ri’s senses. It sought to misdirect and beguile before it recognised him as a friend, disappearing from his mind and sight. Another ward activated some manner of shield, and he felt Miss Yuanlin’s power surge slightly as the formation chose her as its master and the defender of its mortal charges, empowering her.
+
+Then, all at once, that power disappeared. Lu Ri nodded in satisfaction. The wards were subtle. It should be enough for the mortals to simply hide within, along with Miss Yuanlin. They would be safe there, hidden away, and that would give Lu Ri leave to continue scouting the north or return to Hong Yaowu, and ready for the potential demon attack.
+
+He was just letting a small smile come to his face when he noticed a dark shape flying through the air not too far away.
+
+It was a bird. A bird that was looking directly at where First Den was, its gaze unnaturally still and its flight perfect. Its head tilted, and its eyes locked directly onto Lu Ri.
+
+Lu Ri had studied the lives of base animals, as the Honoured Founders had instructed. Animals were desperate to survive, and each action they took was purposeful. Each action they did was for a reason, no matter how absurd it seemed to a human at first glance. In observing base beasts, one learned to look underneath seemingly random actions to find the true purpose for them; this was their first lesson on the path to understanding the actions of men, and then, of cultivators.
+
+So Lu Ri knew well how a base beast’s eyes looked. He knew well how birds flew, how their eyes twitched, and how their wings angled.
+
+No base bird flew like that. No base bird’s eyes were so still.
+
+And a secret hiding spot was only good if it remained secret.
+
+Lu Ri was beside the creature in an instant, black blood gushing over his blade as he executed the demonic scout. Yet his slaying of the beast was not perfect, as a tiny pulse of Qi erupted from the corpse of the enemy. He tried to catch and snuff it out, but the thin line of Qi was already attached to something, and even though he got part of it, whatever was on the other end of that line would have surely been alerted.
+
+Lu Ri grimaced and landed. Miss Yuanlin would have to be warned. If their foe was competent, they would investigate this sudden death of one of their scouts, and while the vision from the prophetic mortal had shown weaker demonic forms, Lu Ri would take no chances.
+
+He had sworn an oath that the mortals of Clan Nezin would come to no harm.
+
+=======================
+
+Miss Yuanlin joined Lu Ri as they scoured the north. This time, they relied upon stealth, a thin mist covering them as they searched for anything that would dare threaten First Den… until, to Lu Ri’s surprise, they found their enemy.
+
+They were five hundred in number, charging through the burgeoning storm directly toward First Den. They were armoured in black chitin and were slavering as they hurled themselves forward.
+
+This proved that there was a demonic assault heading for Lu Ri’s Junior Brother. Lu Ri attempted to send a transmission, but within the storm as he was, the only thing he got was static.
+
+Lu Ri frowned heavily as they retreated slightly. The two of them together should be able to ambush and destroy this force of demons, but…
+
+“That is no main force,” Miss Yuanlin said authoritatively. “Whatever is controlling the scouts is likely controlling them.”
+
+“I concur,” Lu Ri said, acknowledging Miss Yuanlin’s point. “But is this a scouting force, a vanguard… or the reserves?”
+
+“It's a damn lot of the bastards whatever it is—and I think I saw other tracks leading south too, but it was too far to tell,” Miss Yuanlin cursed. Her lip curled, revealing a too-sharp canine as her amber eyes turned to slits.
+
+Lu Ri pondered their predicament. “We shall retreat. Miss Yuanlin, I will find a suitable place to erect the Raging Cloudy Sword Formation.” He would have to move swiftly, as he required around an hour to properly set up the formation. “After I have accomplished this, I would request that you lead the enemy to me. After that, retreat to First Den and ensure that nothing strikes it.”
+
+Miss Yuanlin nodded at his words, instantly grasping Lu Ri’s intent, before she frowned slightly. “That is a great many demons, Master Lu Ri, and likely not all they have. I would reckon that they have stronger forces than this current showing as well, if so many are on the field. If a peer combatant arrives with similar numbers of chaff… would you be able to hold, after maintaining such a hastily prepared formation?”
+
+Lu Ri considered the predicament. “If not, I am confident in my ability to lead them away further still.”
+
+Miss Yuanlin went quiet for a moment, before speaking hesitantly.
+
+“What about if we used First Den?”
+
+Lu Ri raised an eyebrow. “You would consent to leading the enemy to the fortress?”
+
+“They already know where it is. We’ll use it to do what a fortress is best at—butchering attackers on prepared ground. The protections also allow me to help support an ally—you would not have to worry about Qi as much. And if this is the level of our foes, we may be able to draw them all out and crush them here,” Miss Yuanlan stated the bold plan with a calm voice.
+
+Her points were valid. If this did escalate, and if Lu Ri had the support of First Den’s own protections…
+
+“Very well then,” Lu Ri finally agreed.
+
+===================
+
+Present:
+
+Back at First Den, Lu Ri sat, eyes closed, within the greatest technique of the Honoured Founders.
+
+The Raging Cloudy Sword Formation.
+
+Outside its embrace, the hordes of demons had paused—the first of their number had charged into the clouds and the first of their number had all perished in an instant.
+
+To the enemy, it was like they had simply been cut down by a near-invisible sword. The truth was much greater than that.
+
+The scripture for this technique was freely available to any Senior Disciple and could even be requested to be studied by Outer Disciples, if they filled out the proper forms.
+
+Yet few did, even though this most sublime of techniques could technically be used by even the least of cultivators, if only but once because they lacked the Qi to maintain it. All it required was the requisite understanding and the formation could be deployed.
+
+It was utterly mind-bending to contemplate. The technique clouded one's intent and form from being observed by their enemy; rendering unto the disciple the state of Indeterminate. In this state, to the enemy, one is both there and not there. Their blade is both sheathed and unsheathed. A strike has already been completed—yet never happened at all.
+
+That is why they were called the Cloudy Sword Sect: their intent and blades were so shrouded that their enemies could not comprehend what they were going to do next. Even its name was intentionally misleading; ‘Raging’ implied something different than what it actually did.
+
+Lu Ri had discussed the concepts of the formation once with his Junior Brother, phrasing it as a thought experiment rather than the greatest technique of the Sect. That had led to a rather confusing tangent about cats in boxes and a man called Shuding Er... that after several hours of contemplation did make a sort of sense.
+
+Miss Yuanlin’s knives flashed out, spearing the last of the birds in the air and with some thudding into demonic flesh. The demons roared at this, and the pause in their advance ended. The demons charged into the clouds that were being supported by mist.
+
+Lu Ri beheaded the first artificial demon to enter. The strike was made perfectly, from out of vision and with no room for retaliation.
+
+One of the demon’s comrades immediately launched an attack, trying to strike down Lu Ri. But Lu Ri was not there. He never had been.
+
+The demon who had tried the attack was slain. A perfect thrust through the heart—again, with no room for retaliation. Then, Lu Ri was gone again; he had never been there.
+
+He was not Elder Ge, to simply think his formation was full of his blade and make it so. He still had to swing his sword.
+
+Another demon died to a blow that was perfect. Then another. Then another and another and another and another.
+
+Artificial demons did not know what fear was. They were soldiers without compare. Tireless, devastatingly strong, as durable as Spirit Beasts. Yet their minds were not fully developed. They were scarred and traumatized by their horrifying transformations. They could not comprehend what was happening.
+
+And thus, their fates were sealed.
+
+Within the clouds, Lu Ri was rendered unobservable. Indeterminate.
+
+Within the clouds, Lu Ri was in every state he could possibly be at the same time.
+
+Upon attack, his sword swung down in a perfect killing blow. On defense he was simply never there in the first place.
+
+This was the pride of one of the greatest sects in the Empire.
+
+This was the Raging Cloudy Sword Formation.
+
+This was the technique that eclipsed strength. For if an enemy could not comprehend what the practitioner was doing… they would never be able to strike their foe, no matter how hard they tried.
+
+Lu Ri stood with his hands behind his back as the Great Enemy died in droves. There were no earth-shattering techniques. There were no thunderous flashes of Qi.
+
+There was simply perfectly applied force, with no collateral damage.
+
+The Senior Disciple of the Cloudy Sword Sect killed and killed and killed. His blade was everywhere.
+
+Yet still in its sheath.

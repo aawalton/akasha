@@ -1,0 +1,125 @@
+---
+id: 982a890e-59dd-55c5-8f97-1d2e813b4940
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 17 - Her First Weapon"
+slug: 0074-book-5-chapter-17-her-first-weapon
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 74
+ownLength: 4086
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3424402/book-5-chapter-17-her-first-weapon"
+royalRoadId: "3424402"
+---
+
+“Well?”
+
+During the celebrations, Ranthia saw pretty much every single person she knew, with a singular exception. Namely, the expanse of exquisite musculature that stood before her, arms crossed, and her resting annoyed face on full display. The tavernkeeper was impossible to miss in a crowd—Ranthia was only somewhat above average in height compared to elven women, but no one she’d seen came close to matching the imposing elf. And elven men, on average, seemed to be roughly the same height as the women, which meant the forcibly nameless woman towered over every elf in the City of Arts. Plus, there were those magnificent horns that stretched out further than Ranthia could spread her arms.
+
+“I’m ready.” Ranthia gave her confirmation with a nod.
+
+As she had been ordered, she woke up early the day after the celebrations came to an end. While most elves slept in or blearily tried to clean up after themselves, Ranthia made her way to the tavern to fulfill a promise… or, rather, to avoid a threat.
+
+Because, by Xaoc, she did not want the tavernkeeper to hunt her down. …Okay, one part of her did, but she generally tried not to be stupidly horny—the reality would never live up to her fantasies. No matter what her newest Skill claimed.
+
+[Facets of Passion]: Pallos is a realm of delights, and you have an unmistakable passion for many of them. You yearn to taste good food, to feel the beat of music, and to sample the sweetest ‘fruits’ you can find—with little regard for their source. Seize your passions and make your fantasies into a reality that is rich with depths of pleasure beyond your pale expectations. Slightly increased dexterity with your fingers, toes, and tongue per level. Increased tactile sensitivity with level. Increased sense of taste with level. -2560 Mana Regen Rate.
+
+“Good. Now, you made a common—and rather stupid—mistake with whatever crap you did before. See, more than a few of my kind tend to get it in their idiotic heads that whatever worked for them must be the only possible workable solution and try to enforce that on everyone that has the misfortune of listening to them. So, whatever you’ve heard about memory Skills, forget it, right here, right now. If you use any of that dreck to argue with me, I’ll knock it out of your thick skull.” The mountainous elf explained, in a tone that reminded Ranthia entirely too much of the Ranger Academy instructors.
+
+“Yes ma’am.” Ranthia chose the wisest path.
+
+After all, she was seriously interested to learn what the woman had to say. [Chest of Experience] hadn’t lived up to her expectations at all. The Skill had been time-consuming and strangely… confusing to use. It did what it was supposed to, but Ranthia had to waste more than a few minutes finding what she needed, which didn’t seem to match the experience anyone else had with their own memory Skills. A piece of her was still convinced that she had—somehow—been the bottleneck for a Skill that should have worked. But no matter how much time she’d spent with it, before she dropped the Skill to take Clover as her Bond, it never seemed to grow any more intuitive.
+
+“Actually, I’m probably going to regret this, but I’ll let my curiosity satisfy itself for a change: what do you think a memory is? No philosophical bullshit, I’m asking what memories are—what they mean—to you?” The woman leaned against her creaking bar and crossed her arms over her chest while she waited.
+
+As much as Ranthia wished she could answer such a question off the cuff, she found herself chewing on it. It wasn’t something she had ever considered before, not really. Memories were just… there. They were a part of her. There were wonders and horrors within them, with the former outnumbering the latter—as a good life should. But they were more than that too…
+
+“I… I suppose they’re tools. My memories are the means I use to shape and hone myself. They’re the weight of experience that my Skills and my combat instincts rely upon to keep me alive in battle, yet they’re just as invaluable when I’m speaking to someone or working on carving a Tali set out of the antlers I bought during the anniversary. Calling them tools feels like a disservice to what they truly mean to me, but it’s also true.” Ranthia hesitantly gave voice to her thought process.
+
+“Heh, not bad. I can follow reasoning like that. But I suppose even a dumbass can say something decent once or twice a cycle.” And just like that, the praise was dead. “Alright, tools. If you’re capable of stretching your imagination beyond your pitifully minimal worldly experiences, don’t think about anywhere you’ve actually lived. Imagine a realm built to your exact specifications. You need a tool to keep you alive or to save you from showing your metaphorical ass during a conversation—where are you looking?”
+
+Wait… Was that it?! Did all of her problems stem from the fact that she had a different answer to such a simple little visualization exercise than Avyna did? True, she’d never been fond of the little chest of drawers in their shared home. She wasn’t even entirely sure if she’d ever opened a single drawer on it after Avyna’s departure. But could that truly explain her extreme difficulties with her former Skill?!
+
+“Don’t bother telling me what you come up with, just start visualizing it. What would different tools represent? How is it organized? Keep those questions in mind when you build your visualization. A good memory Skill is something you intuitively know and understand. You shouldn’t need to hunt for the specific tool you want. You should be able to walk up to it—or in, or however you’re visualizing this—and grab what you need. And don’t bother trying to visualize specific memories as specific tools, you aren’t smart enough to remember every memory you have. Just trust yourself and keep things generalized, focus on categories of memories. How many types of tools you want to visualize is how many categories you have to sort your memories into. Past that, just go with chronological—newest to oldest is probably best, unless you have strong feelings about something else.” The experienced elf continued to guide Ranthia while she focused.
+
+The advice was useful, though it was hard to listen while she attempted and abandoned various visualizations. She’d already been forced to set her lingering questions aside while she tried to concentrate. It was surprisingly challenging to come up with something tailored to her own tastes—which was almost certainly a clear indication that she was doing something wrong. Her memories were tools. Fine. She was reasonably happy with that, but what would a large supply of tools even look like? Back when she’d travelled with her fathers, Tatius had carried quite a few tools in his backpack since they were generally useful, and the man had strength and stamina to spare—at least by Reman sensibilities. Gods and goddesses, even with her minimal investments in the stat, she was probably stronger than he’d ever been.
+
+Wait, no, she was losing focus. Again. Tools! Her experience with tools was, despite her words, somewhat minimal. As a Ranger, they travelled with a crate of tools, mostly used for digging latrines when they made camp, but they were good for certain emergencies, like floods. Yet the crate had only ever contained a selection of the most broadly useful tools and was meant for a small group. It wasn’t any more useful for the visualization than Tatius’ overladen backpack had been. And ever since she acquired her adamantium, she hadn’t bothered with conventional tools because she could make approximations with a bit of time.
+
+Actually, was that a useful visualization? Could she just imagine adamantium sand that became whatever memory she needed? She was fairly certain she could, but she wasn’t exactly sure how to build on such a visualization. And even if shifting adamantium was part of her combat kit and was one of the primary facets of her [Priestess] class, she wasn’t so sure if it was important to her.
+
+“I’m overthinking this.” Ranthia muttered to herself, without bothering to listen for any response the elf might have. The gorgeous and terrifying woman had given her all the pieces she needed. She was struggling with how to build the visualization, but she could still tell the components were there.
+
+The word ‘tool’ didn’t just mean things like shovels, hoes, hammers, and their ilk—not to her. Her knives were tools, just as they were a part of her. And that was important. Tools weren’t just things used for necessary tasks. The tools she cared about were extensions of herself.
+
+…Gods and goddesses, how could she have been so stupid? She was struggling with a visualization when her world within had already provided her with the answer she needed! Of course, it was just the first step. As much as she loved her world within, she lacked the inventiveness or desire to imagine a grumpy master of the domain—for her memories she needed to own and control the space. And crude, dated swords weren’t the sole tools she cared to stock within her own armory… It would be her truest arsenal—the place to store the armaments that she used to define herself.
+
+The word functioned like a keystone. Half-assembled visualizations seemed to snap into place and become anchored in an instant. Armaments that were just for her, a well-stocked facility that was laden with the tools she knew best. Shelves of knives, racks of swords, baskets full of spears, hooks bearing bows or quivers, stands with armor, stacks of shields, and more materialized within her imagination. Disseminating her memories amongst the arsenal was easy. Cherished memories that she used to bolster herself became shields and armor—dependable and unbreakable. Painful and awkward memories became spears—a tool that forever felt uncomfortable in her hand. More and more built, until…
+
+[*ding!* You have unlocked the General Skill [Immortal Armaments]!]
+
+[Immortal Armaments]: In the hands of the wise, a wealth of experience is worth more than any blade. Your memories and experience mold and guide you. Each moment you live is another tool within your arsenal. As an Immortal, the armaments you might come to possess are without limit. Through this Skill, each shall forever be as reliable as the day it was forged. Never forget another moment. Increased clarity of recall with level. -61 Mana Regen Rate.
+
+“It worked.” Ranthia whispered. She hardly dared to believe it—it’d been so easy compared to the visualization exercises for [Chest of Experience], at least once she sorted out what her ‘tools’ truly were. Yet when she accessed the Skill, the memories came effortlessly. Her first encounter with Avyna… she was impossibly beautiful, yet she immediately grew indistinct in Ranthia’s recollection when the her of back then refocused on pears of all things. Another activation brought her the smiling faces of Tatius and Pupius when she was bragging about killing some rodents in Aquiliea—though the memory still bore the haziness from the passage of time. Hexara’s face came next, a woman taken too soon by something no one would even explain. And relatedly, her [Mind Healer]’s name was Aellea! Gods and goddesses, she missed the stern, yet kind, woman and her invaluable guidance. From there, Ranthia went on a binge of name recollections. Faces from the Ranger Academy that she’d never gotten close to. Fellow Adventurers she’d loosely known. And her first girlfriend’s name was—
+
+Ranthia stopped herself and forcibly shook her head. Once again, she visualized her armory, except with her standing inside of it. With a force of will, she manifested a dagger in her metaphorical hand that bore the woman’s name. A cheap thing, poor-quality iron that had been hammered too thin.
+
+And, without fanfare, Ranthia dashed the flimsy blade against the unyielding stone she envisioned. She had no idea if she could properly erase the name from her mind with her Skill, but she could definitely live with removing it from her armaments. The girl that Ranthia had mistreated deserved to be remembered—that regret helped Ranthia grow beyond the selfish child she’d once been. It was important. But the name of the woman that girl became wasn’t.
+
+Some things deserved to be forgotten as time marched on.
+
+“Oi, you damned moron! If you’re going to get lost in your memories, fuck off and do it somewhere else!” The elf had one final bit of wisdom for Ranthia. Unfortunately, it came a mere moment before she (quite literally) tossed Ranthia out of the tavern.
+
+“Be nice, she’s showing us where another library is.” Ranthia gently admonished her moody Bond.
+
+She still had no idea why Clover seemed to dislike Sunny so intensely. Sure, Sunny’s aesthetics, sense of humor, proclivities, and interests were… unusual, but the woman was genuinely kind and helpful. Ranthia owed her a lot! Yet Clover continued to glare at her, as if Sunny had recently stolen fresh fruit out of the bunny’s bowl.
+
+As for the reason they were out together… well, Ranthia was pretty sure she was going to lose whatever tenuous grasp she had on the dregs of her sanity if she had to keep reading the thrice-cursed Medical Manuscripts to her rabbit. Clover continued to snub every other book that Ranthia offered and would even seek out wherever Ranthia had hid the volumes of the obnoxious tome. Worse, [Immortal Armaments] had confirmed that it was the same text she was familiar with from her time in the Ranger Academy, where she had often been forced to write copies of the damned thing. Sure, there were some minor tweaks and more than a few additions, but she hadn’t imagined she could be on the other side of Pallos and still be dealing with the same accursedly incomprehensible scrolls!
+
+And seriously, why was an elf even wasting anyone’s time with something written by a human? A lot of the Medical Manuscripts went over Ranthia’s head, but she couldn’t believe for a moment that this ‘Elaine’—who may or may not have been the same Elaine as the deceased Sentinel Dawn—had written something superior to any of the elven texts on anatomy and healing. The School of Sorcery and Spellcraft existed, sure, but it was still fairly new. And there just wasn’t any means for a world-class book of accumulated wisdom and expertise to come out of Remus. Few masters shared their wisdom with anything more than a few apprentices, and they were likely to forget half of what they learned and reinvent something worse!
+
+A (minor) nightmare from her past’s return aside, Ranthia was well aware that she was letting her bad mood best her. A fellow Hunter—albeit not one of the ones Ranthia was very close to—perished during a cave-in in an incomplete tunnel, which left the Lodge in a somber mood. Compounding that, autumn was days away and there was still no word from Avyna! As the anniversary of her arrival in the City of Arts came nearer, her concerns swelled. [Immortal Armaments] quite helpfully allowed her to recall the final message she found from Avyna—the one that spoke uncertainly of their prospects of meeting again. And no one from Avyna’s trading house had attended the celebration, though there’d been that one damned couple that loudly and happily reunited during the anniversary celebrations…
+
+Well, the stress was getting to her. She still had no real means to seek Avyna out, so she decided to try to improve what she actually could hope to change. She just needed to find something new to read to Clover, something they could both enjoy.
+
+Thank Xaoc, Sunny claimed she knew a less-frequented library that actually had a robust section of books intended for younger minds. The only library Ranthia had used beforehand focused mostly on factual works—histories, records, and other confirmed accounts. With a robust section dedicated to learning about various arts taking up almost half of the space, of course. Aside from the Lodge (or at least, the Lodge during most evenings) there was no escaping the City of Arts’ excessive focus.
+
+“This is it?” Ranthia asked in disbelief when Sunny beckoned them forward. The building was made out of smoky-colored crystal that wasn’t even slightly translucent—seemingly with no windows. But the bigger concern was that there was no trace of any signage on it, just a solitary (and quite closed) door.
+
+“Of course, my pretty; I would never steer you wrong. If you want to get technical, it’s not really an official library, just one book-obsessed woman’s hobby. But she’s happy to loan stuff out. I visit from time to time. She’s also the best rope-maker in town, assuming you can get her to part with any, and she drifts somewhere in the upper echelons of the ranks for Knitting. At least when she bothers to venture out of her place. No need to knock or anything, she welcomes visitors into the library—just don’t be a creep and try to go downstairs where the basement is without being invited.” Sunny explained.
+
+Something about her smile felt off, but Ranthia was still distracted with her efforts to suppress and contain her ill mood. With a shrug, she strode forward and opened the door.
+
+The scent of aging paper and ink struck her like a natural force as she passed through the door and beneath the curtain that hung on the other side. The inside of the private library was surprisingly dark, with only dim, red light emanating from a handful of crystals. Shelves, overladen with books, were eclectically shoved wherever there was space, often with piles of books alongside them. The air was cool and dry, and it wasn’t like there was any visible dust anywhere—yet the place still felt disused and overly quiet.
+
+Ranthia walked a few steps deeper into the library, then turned back to where Sunny was standing. There was no sign of anyone else in the oversized room, and she wasn’t about to poke around in a stranger’s private collection without—
+
+“Hi!” Without warning (not even from [Divine Eyes in the Void]), someone dropped, head-first, into the space between Ranthia and Sunny. Worse, she found herself staring at the back of the woman’s head, with a poorly wrought Mirage that was presumably meant to be a face placed over it.
+
+Fortunately, Ranthia wasn’t even overly surprised or alarmed. After all, she was quite used to unexpected things happening. Clover screamed though.
+
+“Sorry, I’m—well, other me is—in the middle of a chapter and I—we—didn’t hear you come in! Oh, hi Sunny, I didn’t see you over there! Can I help you with something, or do you just want to browse? So long as you aren’t planning to pleasure yourselves or do anything lurid in a corner like Sunny did that one time, there’s no real rules! Oh, except no food or drinks. And don’t damage any books. And try not to spit anywhere. Um, yeah, just don’t be gross and we’re good!” The woman was hanging upside down from a rope, with her real face buried in a book. She was dressed in pants and a light top that her modest cleavage was struggling to hold in place, with the rope clutched between her thighs.
+
+The ceiling was considerably higher up than Ranthia had expected—whatever Spatial enchantment the building had wasn’t quite symmetrical, oddly enough. The upper regions of the library contained a maze of ropes, like a spiderweb crafted by a highly intoxicated arachnid. There were more books precariously perched up there, along with blankets and—contrary to the stated rules—a few caches of snacks like dried fruit or nuts.
+
+“Relax, I had my fun with her just a couple of weeks ago; I’m good for a while. She’s looking for story books for children, to find stuff to read to the rabbit down there. Figured I’d show her the best place in town for books.” Sunny was still wearing a broad grin in the aftermath of Clover’s reaction to the unexpected arrival.
+
+“Oh! A young adult giant field rabbit, how cute! …It doesn’t chew on books, does it? I… Hm. We give permission, so long as it doesn’t expel waste or chew on anything.” The Mirage nodded, without budging the brown-haired elf’s actual head. “Other me, can you turn the body a bit so I can…? No? S-i-g-h. Okay, so, kidlit’s mostly in the back corner, the one that’s to the east. But not the actual back wall! You want the shelf that starts a few paces from there. Just follow it for more, on both sides. And the next that runs mostly-parallel-ish to it! …I think we might have others piled somewhere nearby, maybe? We don’t read much kidlit, so it’s been a while. Oh, if you see any loose books on the floor, can you let us know? She dropped a book when she got mad that her favorite side-character got killed off out of nowhere three weeks ago, and we still haven’t found it. I think it probably landed atop a book pile and will remain lost for a time, but she insists that’s ‘incredibly unlikely.’”
+
+“Sure. Thank you! Clover, you heard the rules. I know you rarely have accidents anymore, but let me know if you need to go out, okay?” Ranthia met her Bond’s eye, then nodded with a smile.
+
+In those few seconds, their host had (somehow) climbed back up the rope to return to her own domain… using only her legs. Her hands continued to grip whatever book she was engrossed in. Logically, the woman probably had a mind Skill like [Submind]—or, more likely, Secundia’s [Split Mind]—that let her exist as (at least) two distinct entities. The effect was uncanny though, especially while the one that controlled the body was so heavily absorbed in her book.
+
+Ranthia tried to put the strange elf out of her mind and refocused on finding a book for Clover. She had come to accept that she and her Bond had different tastes in stories. Clover had little interest in anything violent or overly dramatic and—worse—was prone to losing interest entirely if intimacy stepped much beyond intermittent hugs and handholding. Yet she could while away a day listening to dry nonsense like Ranthia’s best efforts to parse the complexities of the Medical Manuscript! But even if Clover was an adult in terms of physical development, she was still just a one-year-old (per Litil, give or take up to 3 months). She was a gargantuan bunny, with the mind of a child. …More or less.
+
+Absent a better way to gauge Clover’s interests, Ranthia tried picking up randomly selected books from the shelves, opening them somewhere, and reading a bit out loud. If Clover seemed interested, she carried the book with her. If not, she returned it to the shelf.
+
+Sunny lasted half an hour before she announced that she had an itch to start crafting a new project and made her escape. But Ranthia remained with her Bond, trying to amass a diverse collection of books to read. Even after the bulk of a year together, they still struggled to understand one another sometimes, and there was a stark difference between ‘a page or two sounded interesting’ and ‘the book would distract Clover from her obsession with the Medical Manuscripts.’ Surprisingly, some of the books meant for the youngest readers made the cut, while nothing in High Elvish did—which probably had more to do with Ranthia seldom using the language around Clover.
+
+“Hey,” Ranthia called up after a couple of hours, carefully hefting the stack of books she had selected, “is it okay if I borrow thirty-two books? I’ll return them as we finish, of course!”
+
+“Sure, sure! Just treat them well and don’t damage them. We will be displeased if you do, but so long as you’re good to our books, you will remain welcome here. Unless you make us add three new rules, of course. That’ll get you banned, but no hard feelings! Unless there are any, we guess.” The distracted response came several moments later.
+
+Ranthia tried to keep her expectations in check as she made her way out, though she couldn’t help but feel optimistic. With thirty-two books to choose from, she was all but certain to—at the very least—get a well-deserved break from the Medical Manuscripts!
+
+…She chose to believe she hadn’t jinxed herself.

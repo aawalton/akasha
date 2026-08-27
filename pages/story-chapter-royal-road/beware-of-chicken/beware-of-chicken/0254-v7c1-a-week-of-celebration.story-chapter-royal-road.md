@@ -1,0 +1,163 @@
+---
+id: 31494666-9ac2-5c13-a031-e51d413558ae
+page-type-slug: story-chapter-royal-road
+title: "v7c1: A Week Of Celebration"
+slug: 0254-v7c1-a-week-of-celebration
+partOf: beware-of-chicken
+position: 254
+ownLength: 2484
+unit: words
+ownProgress: 2484
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2770960/v7c1-a-week-of-celebration"
+royalRoadId: "2770960"
+markedReadAt: "2026-06-29T19:00:06.872Z"
+---
+
+I couldn’t help the small smile that came to my face as I beheld the rolling green hills of my farm. They stretched out and over the horizon, meeting the beautiful blue sky that was dotted with fluffy clouds.
+
+The winter had been long and hard. And while winter had its own charms… this time it had gone on for long enough.
+
+My family had endured an attack from a Demonic cultivator army, a battle that had scarred the land for kilometers around us. The damage done by the Demonic cultivators had been extensive. Entire swathes of forest had been knocked over, burned, or poisoned and turned to sludge. We’d worked around the clock to repair it… but the wounds had been obvious, preserved by the quiet cold. The winter had stilled the world outside, practically frozen it in time.
+
+Spring, however, was the complete opposite.
+
+Spring, loud, bold, brash and unrepentantly alive, was here. A riot of motion and growth stirred.
+
+You could smell it. The blooming wildflowers, the damp earth, and the fresh shoots of springtime grasses. It made the air sweet with its scent, a natural perfume that never got old. It was carried on the breeze from the south, the warming air only adding to its strength.
+
+You could hear it. The chorus of a hundred thousand birds in the forests and frogs in the river singing their little hearts out. They were joined by millions of insects: crickets chirped, flies buzzed, and the army of bees we hosted droned without ceasing, flinging themselves out into the warm air to gather their bounty. I could even hear the soft chewing sound of caterpillars, working hard to become butterflies and moths. Fish breached the surface of the river, leaping for the abundance above it. Deer called in the forest beyond.
+
+You could see it. The growth. The life. A vast green army was on the march, reclaiming the earth from winter's grasp.  It surged forth, tenacious, bold in its movement, and coated everything it could in its colours.
+
+My eyes roved over the uneven horizon. The gaps in the forest, the new hills and valleys. It was changed forever—but the destruction had paved the way for new life.
+
+The wounds upon my home were scarring over. Where once was poisoned land, new saplings breached the dark soil. On the dead hulks of the trees, mushrooms erupted along with creeping vines. Bushes and other fast growing soft woods claimed the space where they had once resided.
+
+I saw the flash of a family of foxes, kits gamboling through the meadow. A hawk gazed down from above, lazily tilting its wings and locking onto mice using the vast downed trees as cover. In the distance, far, far away, I even saw a bear climb out of his den, looking around quite confused at the shape of the landscape… before deciding it wasn’t his problem and trundling off in search of food.
+
+I experienced it all; the warm wind caressing my face, the song of life that settled into my beating heart.
+
+“Now that's a beautiful sight,” I said aloud, reaching for the teacup beside me and taking a sip.
+
+“It is indeed, Master,” a deep, smooth voice said from my shoulder.
+
+I glanced up at the rooster sitting there. Big D was still wearing his ragged fox fur vest; his favourite garment had taken a beating, but he still loved wearing it—like a shirt that was more hole than fabric, but was just so comfortable you kept wearing it.
+
+His own eyes were fixed on the horizon, a small smile on his beak. It was nice to just sit with him like this, and take it all in.
+
+I set my teacup down and closed my eyes. It was almost unconscious, to push the Qi from my body and grant it to the world, saturating everything I could reach. I felt the vibrant pulse of the earth’s heartbeat, and a song drifted up from deep, deep below.
+
+Tianlan, the Spirit of the Azure Hills, was humming to herself, and I could feel the cheerful preoccupation she had while nudging the land’s dragon veins back into their proper places. The battle on the solstice against the Demons had hurt her. We had been very worried when she had woken up again… but instead of being weak, or in obvious pain, there was a fire lit inside her, and a simple joyful happiness that we had all been okay.
+
+Our Qi touched and mingled as it always did, and she took some of it, patching over another broken part deep in the earth like a tiny yet vast plumber.
+
+She was clearly in the zone, so I left her to it.
+
+I took a breath in and out. For several minutes, I just savoured the sensations.
+
+But all things must end. When I opened my eyes again, the sun was higher in the sky and I could hear annoyed babbling sounds from the house below us.
+
+My son, Zhuye, was awake and wondering why the sun was up when he hadn’t yet heard the morning crow.
+
+I smirked.
+
+“I think we’ve given them enough of a sleep in, eh?” I asked Big D, before standing up and leaning over the edge of the roof. “What do you think, Meimei?”
+
+My call reached my wife’s ears and a hand stuck out from the kitchen window, giving me a thumbs up.
+
+“Make it loud, Bi De!” she asked.
+
+The rooster on my shoulder chuckled. “I shall endeavor to give it my all, My Lady.”
+
+I turned back to look behind me and towards what I called my “front yard”.
+
+A front yard that was filled with tents, tables, and the detritus that came with several hundred people having a party in it.
+
+Gou Ren and Yun Ren’s wedding celebration had just passed the seven day mark. We had eventually ended up migrating the whole party over here from Hong Yaowu, simply to save on trips of me bringing over food and booze.
+
+Gotta be right next to the source.
+
+And truthfully, I was grateful. I had way more than I needed, and we were finally making a dent in the storage.
+
+“I do believe you are correct, Master,” Big D said, stroking his wattles. A mischievous gleam entered his eye, which was fixed on the quiet tents—their occupants all likely to be rather hung over.
+
+“Then please, my disciple. Do the honours,” I commanded.
+
+My first disciple sucked in a breath, his chest swelling. I braced for impact.
+
+A truly glorious cock-a-doodle-doo ripped across the hills, his voice a demand to wake up and greet the sun. It was melodious, invigorating, and impossible to ignore.
+
+Immediately tents shuffled. People moaned piteously. Some staggered out of their tents half-dressed, squinting eyes and blinking blearily at the sun. One brave soul, a member of the Nezin tribe, shook his fist in Big D’s direction… then promptly face-planted into the dew-wet grass.
+
+“You tell ‘em, Big D,” I said, barely keeping the laugh out of my voice.
+
+Below us, my son shouted out with joy, his favourite sound finally having graced his ears.
+
+Ah, now this was a start to the day.
+
+I jumped down off the roof and went into the kitchen to help get the last of the prepwork done for the day.
+
+It was a lot of work—but for a family wedding you had to pull out all the stops!
+
+=================
+
+“Hangover Cure, get your hangover cure!” Meiling shouted just a bit too loudly, a little smile on her face. Her amethyst eyes were sparkling with mischief, and the brace of freckles across her nose crinkled delightfully with the grin on her face. She waved people in the right direction, and our son, perched on her back, copied her hand movements, a big smile on his own face at this new game he was playing with his mother. Several large bees buzzed around him—and one was currently gripped in the hand that wasn’t waving.
+
+The three-inch long bee seemed quite pleased with her current position. I knew they wouldn't sting him, but it still gave me a heart attack sometimes to walk in on him playing with Vajra’s girls.
+
+Everybody who passed Mei gave her a bit of a stink eye as she directed them to where said hangover cure was, but nobody dared to comment because she was the one who had made it, and the sweet relief of the concoction was just about the only thing on their minds at the moment. She was clearly having too much fun, my Meimei.
+
+They quickly made their way to a bubbling cauldron being worked by a small rat and a dozen more little shadows. They squealed and chirped to each other as they worked in teams. Ri Zu was decanting it as fast as she could into cups for the line of people. Another woman, tall, graceful, and beautiful with pink plum blossom hair met the guests. Peppa served out the cure with a dazzling smile of perfect hospitality.
+
+I watched it all, amused, from my place beside a dragon, both of us scrambling eggs and frying potatoes on a solid hunk of iron that was raised on rocks. Washy was in his element, his chef’s hat perched proudly on his head, crafting culinary wonders—the crazy bastard had decided that a wedding reception breakfast deserved to have hollandaise sauce on the eggs, nevermind that this was day eight. At least he had the sense to hand it over to Xiulan, who was a one-woman food processor. Floating kitchen implements whirled around the eye of the storm, whisking the sauce while also cutting up everything we were using for omelets. We practically danced past each other as we worked, swaying to the same invisible beat. Xiulan gave me a wink as she handed over more chopped meat, her blue eyes sparkling. She looked content—the Grand Marshal of the Azure Hills’ cultivators cheerfully cooking a morning meal for the largely mortal crowd.
+
+The final member of our kitchen team had her hand directly onto our iron plate, keeping the heat at the perfect point for each ingredient we were cooking. A warm second sun blazed on Yin’s brow, and there were beads of sweat on her face from the concentration this demanded. But the silver-haired woman-who-was-a-rabbit was still managing the bacon with admirable focus.
+
+“You’re doing great, Yin!” I praised, and she gave me a big grin in response.
+
+Soon, people started trickling in, once they recovered with the hangover cure, to get food, and we started serving in earnest.
+
+It was a riot of colours and body shapes; Big D joined, serving to speed things along, taking note of what people wanted and then leaping from place to place in an acrobatic display. Bowu, Xianghua’s little brother, was far less flashy, but he did his own part.
+
+We served the people of Hong Yaowu. We served people from Verdant Hill. We served members of the Su tribe of foxes from the Howling Fang Mountains, who ranged from normal humans to people with blatant, real fox features. We served a troupe of monkeys with golden fur and blue faces, Master Gen from the Crystal Hill pleased with our more vegetarian options.
+
+At first there had been some tension and awkwardness. But after a week of drinking and partying together, nobody got a second glance.
+
+Meimei came back to help us out as well, putting our son on a cushion nearby, where he was watched over by a scarred green ribbon and an old man. Noodle couldn’t cook, but the one-eyed snake had certainly saved us with the amount of plates and cups he had produced for the guests. Gramps, on the other hand, simply watched on with amusement at the crowds of people.
+
+We started to run low on rice and veggies, and we were soon restocked.
+
+“Father, we’re back!” Tigu said. Her orange hair was a banner in the sunlight. Her shirt was open completely, with only her bandages around her chest. After the winter, she was spending every day sunbathing so her tan would come back as fast as possible. Beside her was a veritable mountain of flesh, a massive boar loaded down with most of the rest of the supply run—but even his form wasn’t entirely sufficient, so Babe the ox had also come to help, carrying yet more bales of rice.
+
+It was hard work. But it was good work. The air was filled with the chatter of joy, of people getting along, and eating good food.
+
+A wonderful sound indeed.
+
+And then, finally, the people who this was all for arrived. Yun Ren and Biyu strolled together, their recording crystals flashing as they took candid shots of their own event. Biyu looked almost giddy, the fluffy-haired woman’s big eyes wide, while Yun Ren just looked content, a small smile on his face. His perpetually squinting eyes roved around the place, taking in people with fox features talking and laughing with the natives of the hills. Their matching scarves fluttered in the warm breeze.
+
+Bringing up the rear were the last two, Gou Ren and Xianghua walking arm in arm… and both of them were walking kind of funny. I shared a small smirk with Meimei at the sight. The man who looked kind of like a monkey had a warm smile on his face, and he looked like he was on cloud nine. The woman beside him was no different. Liu Xianghua was positively glowing, and she looked like all was right with the world.
+
+“Good morning, everyone,” Yun Ren greeted us.
+
+“Mornin’ brother,” Gou Ren said, holding out his fist for me to bump, but keeping himself from looking like he was about to come over and help.
+
+Meimei had bitten his head off when he had tried the first day. “Your job is to have a good time!” she had commanded both of the Xong brothers.
+
+“It's a great day today. The light is perfect!” Biyu said, her recording crystal chiming when I stuck out my tongue. She stuck her tongue out back at me.
+
+“It's a truly fine day!” Xianghua boomed. “Thank you again for offering the energy drink, Meiling, but we did not need it! My husband’s vigour is unmatched!” She looked so incredibly proud, hands on her hips, chest out, smug, self satisfied smile.
+
+Gou Ren choked. Yun Ren clapped his brother on the shoulder, looking entirely too amused. Biyu doubled over, giggling. I snorted out my own laugh. There was a cheer from the guests, ragged, heckling, but lively.
+
+It was perfect. It was just what everyone needed.
+
+The darkness seemed just that much farther away.
+
+A wedding really was the best way to start spring.
+
+===================
+
+===================
+
+Editors: Massgamer, Oshi, Aaron “Pastafarian” Sofaer, BargleNawdleZouss, Brandon “Philosophysics” Zhang-Leong

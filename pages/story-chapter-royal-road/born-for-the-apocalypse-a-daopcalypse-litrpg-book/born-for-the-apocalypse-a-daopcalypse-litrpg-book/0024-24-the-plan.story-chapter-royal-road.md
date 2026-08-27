@@ -1,0 +1,77 @@
+---
+id: 1b91d1dc-3a69-5d88-8141-6d0fb2c1424d
+page-type-slug: story-chapter-royal-road
+title: "24: The Plan"
+slug: 0024-24-the-plan
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 24
+ownLength: 1048
+unit: words
+publishedAt: 2024-11-06
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1889004/24-the-plan"
+royalRoadId: "1889004"
+---
+
+24:
+
+Jack held on to the cut branch from its other end, unbothered by the twigs brushing against his hand as he held it aloft.
+
+He turned his gaze to Sarah, who was crouched near the opposing bend of the Anarix Tree’s trunk, trying to be as diminutive as she could be.
+
+A few moments later, Sarah realized that she was being stared at and met Jack’s gaze. She nodded her head before mouthing the words, “I’m ready.”
+
+Jack nodded back, before refocusing his attention towards the branch held in his hand. If his theory was correct and the archer he’d detected earlier truly had a rune that enhanced eyesight, which would be a godsend for any archer, then there was no chance in hell he’d miss a polished metallic surface peeking around from behind the tree where he’d sent four of it’s Rift Goblins in expectations of one sided murder only to receive stillness instead.
+
+Slowly, as if it was Jack himself that was planning on bolting out of cover, he inched the helmet towards the bend of the tree, stopping after it was half peeking out of cover.
+
+A few seconds passed without reaction.
+
+Jack waited.
+
+A muted twang of a bow that Jack’s perception barely managed to hear was all the warning he got before the helmet he had before the helmet he’d been balancing on a tree branch literally exploded into dozens of small pieces, a trail of light blue Qi his only hint at what had happened.
+
+Instinctively, Jack had let go of the branch and crossed his arms before himself protectively. A wince escaped his lips as a few shards of metal, or atleast, what he suspected to be shards of metal dug into his arms.
+
+For a few moments, Jack remained there, taking deep breaths to calm himself before he lowered his guard. It seemed like the points he had invested in constitution hadn’t been for naught, as the three light shards of metal that had embedded themselves, two in his left and one in his right, had only drawn a few superficial streaks of blood.
+
+Jack didn’t hesitate to pluck out the shards before tossing them aside, feeling incredibly lucky to find three cuts that were lengthier than they were deep. Had the Goblin-Made Helm been made out of a denser metal, Jack wouldn’t have fared nearly as well. Though, perhaps it wouldn’t have shattered in that case either.
+
+Nevertheless, Jack didn’t feel the need to expend a Recovery Pill, not just yet.
+
+He turned his gaze to Sarah, who panickedly scrambled backwards from where she had been attempting to peek at the archer.
+
+“Any luck?” Jack asked, his lips pursed as he fought back the tingle of pain stemming from his arms.
+
+“What in damnation was that?” Sarah asked in a heaved whisper, her tone winded.
+
+“The blasted thing can use Qi Arrow, by the looks of it,” Jack replied with a grimace, as he found himself thinking back on how easily the damn helmet had exploded. It was more of a gunshot than an aimed arrow.
+
+Sarah was about to reply, when she noticed the open scratches on Jack’s arm and caught herself.
+
+“Are you okay?” She asked, her worry temporarily forgotten in the favor of concern.
+
+“Just a scratch,” Jack replied, his tone laced with urgency. “Listen, did you manage to get a pulse out?”
+
+“I did,” She replied. “Once I heard a whooshing sound, I assumed that the bait had been taken so I peeked out in the direction you had mentioned earlier. It wasn’t exactly a trail, but the arrow was basically a streak of blue and it was arcing downwards, so I just focused my pulse where you said it’d be and I found the creature.”
+
+Jack nodded, before saying, “Yeah, uh, let’s not do that again. Look, I’ve got a plan. That Goblin has no intentions of letting us leave unscathed. And even if it bought our little bait, it knows that there are two of us and I have no more helmets to spare. And that’s an if, I don’t know how its rune works. You see that tree over there?” Jack asked, pointing at an Anarix Tree that was positioned behind the one they were taking cover against, a little to it’s left.
+
+“I do,” Sarah hurriedly replied.
+
+“We need to run and take cover behind it,” Jack said, his voice calm as opposed to the utter madness he was proposing.
+
+“What?” Sarah asked, her tone heavy with skepticism. “Why?”
+
+“If we wait here long enough, we give the archer an open invitation to flank us. If we try to charge the damn creature, we’re dead. Our tree here should obscure most of our movements. We’ll only be exposed once we step outside the line of sight it's obfuscating. A few seconds of risk buys us more time to recharge our Qi Pools,” Jack explained.
+
+“What will that change, though?” Sarah asked, not sounding convinced at all. “Isn’t it better to just try and make a break for it?”
+
+“I just need five points,” Jack replied. “Five points and I’ll have a way to counter it. I unlocked a new skill,” He said, before explaining the specifics of Qi Projection as briefly as he could.
+
+Sarah’s eyes widened in surprise, before she replied, “That could work but… are you sure you’ll be able to aim it?”
+
+“It’s Qi Arrow is no longer a surprise. The damned creature held off from using it the first time around because it wanted to conserve Qi. Or maybe it wanted to hold off the trump card in case we dodged it. Dive, duck, weave— if you hear the twang of the bowstring or the whooshing of the arrow, do whatever it takes to get out of its way. I don’t know how this creature found us and I don’t know if it can do it again. We need to kill it, because if nothing else, it’ll make us stronger.”
+
+Sarah let a long, weary sigh escape her, but she didn’t deny Jack’s words. Instead, she nodded.
+
+“I can’t believe I used to think security compliance meetings were the worst part of my day,” She joked, before shaking her head. “Ready to go, at your call.”

@@ -1,0 +1,139 @@
+---
+id: 6ad16e25-49ed-500d-acf4-4d2d95a7fad0
+page-type-slug: story-chapter-royal-road
+title: "107. Trepidation"
+slug: 0107-107-trepidation
+partOf: breaker-of-horizons
+position: 107
+ownLength: 2121
+unit: words
+publishedAt: 2021-05-10
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/679868/107-trepidation"
+royalRoadId: "679868"
+---
+
+The walk from the repurposed training room to the one they used for storing their equipment for the trip wasn't far, but to Caden it seemed to take an excruciatingly long time for Ambrose to guide him there. Somehow, his limbs refused to move with the simple coordination that everyone took for granted, and even with Ambrose bearing most of his weight, Caden struggled to stay upright.
+
+When they finally made it, Caden collapsed into the nearest chair, panting heavily. His muscles were all painfully tense.
+
+"How are you feeling?" Ambrose asked, a little winded himself.
+
+The words did not come easily. Caden's tongue felt thick and alien in his own mouth. "Shit," he managed, before choking a little on his saliva. "Shitty."
+
+Ambrose nodded sympathetically. "It'll pass. Do Emilia's breathing exercise."
+
+There were all sorts of things Caden was only just noticing about his body, chief of which was how noisy it was. He wasn't panting that badly now, but the thundering of his heart still went on, and with each beat he swore he could feel his fingertips pulsing a little as the blood circulated through them.
+
+In fact, now that he was paying attention to it, that uncanny sensation of flowing blood was everywhere. It was in his ears, his eyeballs, his neck. And it may have been his imagination, but it seemed like he could even feel the blood as it traced innumerable little paths across and through his brain.
+
+All that was overlaid with the racket of his own breathing. With every expansion of his chest, his ribs seemed to give a gentle little creak, and the flow of air rattled through his nostrils and throat. A smidgen of phlegm prompted him to clear his throat, and the sound was like a sharp crack in his ears.
+
+If it were just the sound, then Caden might have found himself overwhelmed with alarm, but the soreness of his muscles drew the bulk of his attention. Without meaning to, he had tensed every part of his body, and that was causing him a great deal of discomfort and pain. He shifted his attention from one limb to the next, willing himself to relax. As he settled into the breathing exercise and began gently circulating the arcana through his body, the tension slowly bled away.
+
+"Good," Ambrose said, nodding in approval. Evidently, he had been able to sense Caden's gradual recovery.
+
+"The noise," Caden muttered, wincing slightly. "It does get better, right?"
+
+"Noise? You mean hearing the arcana?" Ambrose asked.
+
+"Hearing... the arcana?" Caden gave him a confused look. "No, I mean... everything is noisy. My breath. My heartbeat. My voice."
+
+"For me, after my first time, I seemed to be able to hear patterns in the arcana itself. It's always been something that was possible, but it became a lot more pronounced," Ambrose explained. "I think maybe what you're experiencing now has something to do with your own fundamental frameshift of how arcana works."
+
+Caden nodded slowly, still slightly distracted by how acute his sense of hearing had become, though after what Ambrose had just said, it became apparent that he wasn't really hearing his literal blood rushing through his veins. It was more like he was keenly aware of how his own auric-ambient-flare was linked to his physical body.
+
+"It'll make sense eventually," Ambrose said, though he was looking at Caden a little anxiously. "I'm sorry I sort of pushed you into it. It's just... I sensed a shift in you when the exercise started, and it seemed like the perfect moment to try again."
+
+"Yeah, I get it," Caden said, vaguely waving a dismissive hand. "Don't worry about it. It's just... not pleasant. And that was just a moment, for me. I can't imagine how you managed to tolerate it for as long as you did, with the augera in the Spire."
+
+Ambrose grimaced at the memory but started pacing eagerly after a moment. "I think once you're settled, you'll probably have a heightened sense of arcana beyond anything you've experienced so far. And we may be able to do more in the arcanic sea without even dipping into oblivion."
+
+"I don't think that'll be enough for us to get out of the manor undetected," Caden pointed out. "I mean, you haven't really sensed anything that I haven't in the last two days, right? We're still up against a wall there."
+
+"We've only tried probing the manor's defences and alarms independently so far," Ambrose said. "Now that we're on more equal footing, maybe we can do a gestalt, and start using some glyphic formulas to form an array."
+
+Caden didn't answer immediately. The noise had risen to a distracting crescendo and he had to take a moment to make a real, conscious effort to focus on what Ambrose was saying, but he still wasn't able to clearly catch Ambrose's words. In frustration, he closed his eyes and forced himself to concentrate on his breathing while gently circulating the arcana through his mind, hoping it would literally wash away the noise.
+
+"Caden?" Ambrose stopped pacing and look at him in alarm.
+
+"Just a sec," Caden ground out through gritted teeth. "Let me handle this."
+
+At first, there didn't appear to be any discernible change. But he kept at it with dogged determination even though he had no idea if it was really going to work. Something in him just refused to give it up, and his resolve hardened around a single mote of intransigence — he didn't care whether or not it made sense, but he was going to bloody make sure that circulating arcana like this was going to make things better somehow.
+
+Perhaps it was some kind of major placebo effect but after a minute of this (with Ambrose's auric-ambient-flare giving off little eddies of worry) Caden did feel a little better, and after another minute he was quite positive that this was having an effect. After a full ten minutes, during which Ambrose had joined him in the quiet circulation of arcana within himself, while also extending it a little into the ambient arcana in the room, Caden felt like he was finally feeling completely normal again.
+
+"I'm not really sure what I did," Caden said with a sigh of relief, "but I feel a lot better now."
+
+"You know, Emilia's breathing exercise really does seem to tap into some fundamental principle of arcanophany," Ambrose mused. "It doesn't feel completely new to me, but it sort of does clarify how I interact with and manipulate arcana."
+
+"That could be the Prophecy at work," Caden said quietly. "You know, the part about her being the one who 'becomes the bones / that form your crown o'er mortal thrones'. Maybe this has something to do with it."
+
+Ambrose looked a little sceptical. "You think that means she discovers a whole new practice about training people in arcanophany when she's not even done with her first year in the Academy?"
+
+Caden shrugged. "World-changing ideas start as seeds somewhere. And then people plant and water them, sometimes over a period of years. She may have really stumbled onto something here. And I'm very sure she's perfectly capable of conducting some deep study of this in time to come. She's so perfectly suited to this kind of stuff that it's almost obviously a part of Prophecy."
+
+"She replaced you, though. That means she's not the only one capable of doing that," Ambrose pointed out.
+
+"Yes, well... I guess." Caden looked thoughtfully around the room, momentarily seized by the rather startling realisation that this implied that there was a high chance of him discovering some fundamental, ground-shattering truth of arcanophany since the Prophecy's first choice for the person in this spot had been him, not Emilia. But he quickly shelved that thought for later consideration, and continued. "But my point is that Emilia was probably positioned by the Prophecy to open this avenue of arcanophany to you. So I think you should be careful. This can help us, and we probably do want to follow this thread a little, but there may some knots along the way here that don't fit in with our new goals."
+
+Ambrose nodded seriously. "I understand. I'll try to get a feel for what's coming, though honestly, at this point I'm still practically going blind."
+
+"Well, you got me up to speed," Caden said, deciding to test himself by finally getting to his feet. When no sudden discomfort or dizziness hit him, he gave a slight grin to Ambrose. "Now that we're both sort of on the same level, so to speak, maybe we can try some of those ideas you had. Let's start with a two-person gestalt, then move on to basic glyphic amplification formulas if that doesn't work."
+
+"Alright!" Ambrose stepped forward, then hesitated. "I think you should take point on this gestalt."
+
+Caden shot him a look of surprise but nodded after a moment of consideration. "You're probably right. Okay, lets—"
+
+"Oh, wait," Ambrose interrupted. "Do you think we should do this now, or head back to the others?"
+
+The moment stretched as Ambrose waited for Caden's response. As much as Caden wanted to make the attempt now, he realised he was really feeling quite worn out after that dip into oblivion. And it wouldn't do for them to accidentally trigger any alarms by poking at them when Caden wasn't at his best. He gave a wry smile.
+
+"Let's do this when we're fresh, tomorrow morning. Let's head back and see if the others are done dancing."
+
+"What if the rest of them are, and it's just Kevan and Emilia, dancing alone?"
+
+"... uh. Let's just... call it a day. See you at breakfast tomorrow?"
+
+Ambrose grinned. "Sure."
+
+Emilia's session went on for another half an hour, and it was only close to the end of that time that Jerric and Kevan managed to hold their arms steady for five full minutes, using a steady trickle of arcana to support them in the endeavour. Kevan was eager to continue, but Emilia refused, pointing out that they had enough material to practice with before another session.
+
+"Right now, you've managed five minutes of steady channelling, but you've had to build up to it. We'll move on when everyone can do five minutes from a cold start," she said.
+
+"I don't see how conjuring our own mirrors was considered getting double the practice," Kevan remarked as they dismissed the conjurations.
+
+"We didn't get that far today," Emilia explained. "Once everyone can manage to hold the pose without much effort, we'll move on to that."
+
+"So we have to wait for the rest to catch up?" Kevan complained.
+
+"I think that's for the best, yes," Emilia said decisively. "In any case, I think the only person you have to really wait for is your brother. Unless I'm very much mistaken, both Caden and Ambrose will manage easily."
+
+Kevan grimaced a little. "I can understand why Ambrose is way ahead of us, but it honestly does scare me how quickly Caden progresses."
+
+"He is Top Scorer," Devon said, a little protectively. "That's to be expected."
+
+Kevan looked pointedly at him. "We went over this earlier. You realise that just means he's even more of a possible threat?"
+
+"Then w—" Devon began hotly.
+
+"But yes," Kevan interrupted, raising his hands in mock surrender. "He may be totally right, too. I'm just saying, alright? And I'll probably keep repeating that point, so bear with me. At this point, I really hope Ly and I are wrong because the alternative terrifies me."
+
+"Are we done for the night?" Jerric asked Emilia wearily, changing the topic entirely.
+
+"You're worn out?" Devon asked, surprised.
+
+"Honestly? Yes. Not from the exercise, but just... from all this." He gestured vaguely. "The uncertainty. The... the scale of everything. It's a lot, you know?"
+
+No one said anything, but there was a general air of agreement and resignation that filled the quiet. Even Emilia looked suddenly weighed down.
+
+It was Jerric who broke the silence first. He got up with a sigh and looked around. "And on that cheerful note," he said, crossing over to the door, "I'm headed to bed. Night, all."
+
+"Yeah, me too," Devon said, following him out.
+
+"You know," Emilia said when it was just Kevan left, "it's really only just sinking in for me."
+
+"What is?" Kevan asked, drawing a little closer to her.
+
+"The scale," Emilia answer softly, worry etched in her face.
+
+Kevan didn't know what to say, so he did the only thing he could — he hugged her quietly. She stiffened at first, then returned the hug tightly, and Kevan felt the fear in her grip.

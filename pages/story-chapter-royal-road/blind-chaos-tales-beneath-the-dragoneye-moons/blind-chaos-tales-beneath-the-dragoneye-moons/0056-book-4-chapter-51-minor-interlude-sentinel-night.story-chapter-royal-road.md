@@ -1,0 +1,135 @@
+---
+id: 614ce1ca-ecc9-5c49-99e9-4fb21423d239
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 51 - Minor Interlude – Sentinel Night – Defining a Legacy"
+slug: 0056-book-4-chapter-51-minor-interlude-sentinel-night
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 56
+ownLength: 3348
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3038099/book-4-chapter-51-minor-interlude-sentinel-night"
+royalRoadId: "3038099"
+---
+
+Night wasn’t having a good night. He was well aware that some would find humor in those words, but only one thing had gone as he had hoped—and he’d never anticipated some of the failures that he was forced to deal with. Problems required resolutions, yet he couldn’t be everywhere at once. Compound situations demanded delegation, though that seemed to have brought about its own problems.
+
+Night valued three things above all else when it came to those he chose to interact with: control, competency, and care. And yet, at least one of those crucial facets seemed to elude far too many of the people that he was forced to rely upon.
+
+The young vampire that preened before him had managed to fall short of all three. The child responded to orders with unsubtle complaints, his boastful report made it obvious that he had failed to properly investigate, and the fact that he was already back and fully convinced of such an unlikely outcome was unforgivable.
+
+Unfortunately, Night couldn’t claim to be surprised. The nascent vampire had been sent to him by one of his peers, ostensibly as a ‘gift’ intended to make up for some minor slight from more than a century ago. The true intent was obvious: his peer was hoping that he would dispose of an unwanted problem. The child joined their ranks through an act of carelessness, and it seemed as if he chose to embody that same carelessness.
+
+Still, Night elected to give the child an opportunity—even if he was unsurprised that the whelp failed his test. But it was important to go through the necessary steps. Night considered himself to be an excellent judge of character, yet no one was infallible. Roughly five thousand years of experience had proven that lesson time and time again, and Night preferred to allow the lessons that he learned to guide his behavior. It was foolhardy to cut short the potential of someone that might still manage to surprise him, even if such an outcome was blatantly improbable.
+
+Still, however obvious the folly of youth was, Night needed to see for himself. With a nod, he dismissed the whelp, then set off on his own. There was precious little time remaining, but there was enough to make his own journey and return before the sun shed its unwanted light upon the land.
+
+At least the solitary travel time offered him an opportunity to dwell on his thoughts. He remained alert and vigilant as he travelled, of course, but he was more than capable of remaining wary and thinking at the same time—had he been so incapable he would have perished long ago.
+
+At least the largest gamble that Night had been forced to make seemed to have worked out as he hoped. Etalix and the other Guardians never appeared, even as the final shimagu cities fell. The elves had expected the Guardians to intervene, and that was why they deliberately left before the operation got underway. The same fear had driven the dwarves to inaction. But Remus’ leadership was committed, and Night was forced to make a judgment call.
+
+He had wished for greater information about what made the Guardians appear, but only a fool was brought to inaction over wishes for a better choice. Night had one point of evidence that suggested they would ignore the shimagu’s plight, and so he chose to continue the mission and risk his Sentinels. After all, the Guardians never intervened to save the formorians either. He had theories about why that was the case for humanity’s enemies—the most compelling of which was that there were no true innocents among either population—but the theories would only matter if he ever gained additional points of reference.
+
+The simple fact that the Guardians did not intervene meant that the final shimagu cities were as good as theirs. The attacks had not gone quite as smoothly as he had hoped, but with Pierce’s assistance, the war would soon be done.
+
+In truth, the current group of Sentinels were not as carefully selected as they were in previous eras; the war had necessitated a certain degree of flexibility. And many of them had risen to the challenge quite marvelously.
+
+Pierce was one of the finest Sentinels that Remus had ever seen, and Night could only hope that the man would continue to shoulder the burdens that their empire piled upon him. Gravity, Solace, Convoy, and even Beast had proven to be more reliable than he had feared. Each was willful and was operating under a set of beliefs that was just out of step with Night’s own priorities, but they were sufficiently reliable peers.
+
+He was feeling somewhat more cross with Sentinel Talon—the man had allowed approximately forty shimagu to escape their cities when the attacks began. Worse, he’d had the gall to not bother to report it until after the Legions found the tracks of those that had fled.
+
+As to the rest, at least those that he had worked with long enough to develop a reasonably firm opinion about them, he had no complaints. With Sentinel Grace serving as the sole exception. The woman had practically embodied competency, even as a youth. She had also possessed an… adequate degree of care—and it was something he had hoped to polish with time. And yet ‘control’ seemed to be antithetical to her very existence. More often than not, Grace seemed to be brazenly incapable of controlling herself—and attempts to guide her action beyond the broadest of terms continually backfired on those that tried to do so.
+
+Still, she had played her role adequately, even if Night was often forced to pass over her when selecting Sentinels for missions that required greater precision than he would likely receive from her. And to his genuine surprise, efforts to cultivate a sense of trust from her occasionally seemed as though they would bear fruit with time. As mutual immortals, they had ample time to make a mere asset into someone that Night could truly consider to be a peer—assuming she truly had changed.
+
+And then he received word that, instead of pursuing the shimagu remnants as she was ordered, Grace instead chose to visit the base that she’d previously been stationed at. What exactly transpired was unclear, but she’d consulted with the dwarves there and then failed to report in as he would have expected her to. He had precious few trustworthy individuals that were capable of following her, though keeping an eye on the woman while she carried out her feigned debauchery—notably, without ever relaxing her guard or properly resting—was easy enough to arrange.
+
+And then, in their meeting, Grace alone failed to express satisfaction that the war was reaching its natural, obvious conclusion. Her control over her true emotions had improved remarkably during her time assigned to Launchpoint 8, but Night had carefully watched and assessed individuals from all walks of life since the gods saw fit to place him amongst their initial efforts. He noted the subtle hints of anger and tension.
+
+And now he was supposed to believe the woman was dead. He wasn’t quite so naïve as that.
+
+Grace’s request to face off against an ‘inhuman’ threat was easy enough to grant. At best, it mirrored a plea that Sentinel Ocean had made once, long ago—an opportunity to stop killing people. It wasn’t a sentiment that Night could understand, or even properly sympathize with, but there was merit in ensuring that his Sentinels’ skills remained broadly applicable. Night had also considered it to be something of a test, half expecting her to detour back to the dwarves at Launchpoint 8 once again.
+
+Which was why he had ordered the fledgling to check on her status once the sun set.
+
+Unfortunately, due to the arrogant whelp’s tardiness, Night had precious little time to investigate the audacious claims that he had received.
+
+Locating the alleged battleground proved to be an easy enough task. The site wasn’t exactly where the reports placed the hydra, but the stench left in the wake of the clash had carried throughout the region. Unsurprisingly, the local scavengers that eked out their continued survival in the harsh terrain had come in droves, though they warily withdrew when Night made his approach.
+
+His first task was to locate the charred remnants of Grace’s armor. The armor was unmistakably hers—Ranger Command had continually blocked attempts to make it the new standard, due to the higher costs and difficulty of maintenance—and there was arcanite within the ashes of the lining. There were no gemstones, but Grace was unique in that she never used them. The body within the armor had been abused beyond recognition between the scavengers, the explosion that eliminated the hydra, and (at least according to his nose) at least one potent acid. The adamantium was absent, though the hands were entirely missing as well. It was easy to imagine that some prior scavenger—whether elvenoid or beast—had made off with the precious metal.
+
+Truly, the staging was impressive. Night was readily willing to admit that much. Grace had even left her Sentinel badge behind.
+
+But it was unmistakably staged.
+
+The first mistake that she made was easy to miss. The dead woman’s hair had been cut a bit too short. To be certain, that was preferable to leaving it too long—many would assume the damage that the body had accumulated had shortened the hair. But Night tended to be more thorough than most; he found the few remaining strands that showed where they had been cut.
+
+Her second mistake was situational, the woman was close to Grace’s height and build, but she had once possessed more bodyfat. Granted, the scavengers had sought out what little remained, but there was a difference in the aroma of her burnt flesh caused by the higher fat content.
+
+Of course, it was easy for him to be confident in those mistakes—the third was far more blatant. The reports stated that Grace had left Spearpoint with an extremely full leather backpack, a leather sack of reeking entrails, and a crate of alchemical firebombs. The sack of bait was marinating in its own juices nearby and the crate was presumably amongst the ashes that littered the scene of the clash. Yet Night located an intact, empty backpack some distance from the battle while he combed the area.
+
+The blast, presumably from the alchemical firebombs, had possessed enough force to throw the lightweight container away from the blaze. It was only lightly charred, and there was barely a trace of Grace’s scent upon it.
+
+Grace was still alive, but she wanted to convince the world that she had perished.
+
+At least she had been clever enough to minimize signs of her passage. Finding her trail would have taken an excessive amount of time, even for him. He invested just enough of the waning night to confirm that she had moved away from Remus.
+
+It also offered Night the opportunity to decide how he wanted to handle the situation.
+
+Once he was done, Night retrieved—and used his Dark element to wholly annihilate—the backpack that Grace had left behind. He needed to hurry; there was precious little time to signal Sentinel Gravity before the sun rose.
+
+It took eight nights before Night was able to gather the War Sentinels. There was much to do, with the population of the shimagu reduced to those that had been stranded outside of their cities—and those that Talon had allowed to escape. Many had been hunted down in the intervening days, yet the task remained incomplete.
+
+Before his War Sentinels, Night engraved Sentinel Grace’s name upon the stone with a steady hand. It was a stand-in for the Indomitable Wall—which already bore the name that the still-living woman had forsaken. But Night had chosen to keep that to himself.
+
+Sentinel Grace had left a useful legacy, and he already had his people within Remus locate a complete copy of the speech that the woman had once given. He wasn’t ready to make use of that just yet, but he needed the full details to plan for the future.
+
+For the moment, he had War Sentinels to direct as events transitioned into a new phase.
+
+Solace wept openly. But grief and rage were two sides of the same coin. The woman was specialized to the point that she was almost useless beyond the extermination of the shimagu, but there were still shimagu that needed to be hunted down. Night made a mental note to ensure that a report mentioning that the shimagu had experimented on at least one hydra found its way to her team. Adding fuel to her zealous nature was hazardous, though Night had no use for her beyond her current task.
+
+Pierce was bereft of his signature smile, and it was one of the few times that even Night had seen the man without it. In its place was a stern expression—and guilt. For him, Night would offer sympathy and a friendly ear. Pierce needed to be preserved for the inevitable conflicts that waited in the future.
+
+Beast was visibly uncomfortable; given the glances he sent at his peers, the man likely expected to be blamed for Grace’s death. Granted, it was supposed to be his mission, but such political posturing amongst their ranks would be unbecoming of the Sentinels. Unfortunately, Night wasn’t surprised. Beast had always fallen short of expectations when it came to interpersonal interactions.
+
+Gravity, Sage, and Silence were solemn, and Night was confident that all three would be largely unaffected by the loss of Grace. They would grieve and they would move on, as proper Sentinels should. In a similar vein, Talon, Convoy, and the rest had never even met Grace while she still lived—their solemnity was entirely formal in nature.
+
+Grey, of course, seemed indifferent. She alone knew the truth of the situation. After all, she served as Night’s right hand amongst the War Sentinels. With the Sentinels divided into two almost entirely separate organizations, it was essential to have someone that he could trust amongst each group. Night couldn’t personally monitor both sets of Sentinels at the same time and merely watching them from the outside with his vampires was a fool’s gambit.
+
+In the end, legacies were important. While Grace’s impact on the end of the war had been unfortunately minimal, she was still one of the most renowned names from its prior stages. The woman might have abandoned that legacy, but Night would still make use of it.
+
+He concluded the engraving of Grace’s name with a subtle mark—one that no one else present even noticed, concealed within the minor imperfections of the stone. He would have to mirror the mark on the Indomitable Wall when he next returned to Ariminum.
+
+Night had a habit of making special marks by the names of every Sentinel that had the potential of being encountered again. Dawn, one of the more ideal Sentinels of the previous age, had been the last recipient of a similar mark. Had Aurora lived long enough to attempt her foolish plans to reach the darkness beyond Pallos, she would have likely received the same mark that Dawn had. Yet that never came to pass—instead, she fell to a shimagu twin, though she at least managed to make it an act of mutual annihilation.
+
+Grace’s mark was different. It was a mark that Night had only made once before, throughout Remus’ long history.
+
+It was the mark of a potential enemy.
+
+Three seasons later, Night finally found a chance to return to a chamber he had planned to revisit ever since Grace vanished. His memory Skill was impeccable, though it was good to occasionally revisit his eldest records—those old enough to be recorded on tablets, rather than scrolls. It was a location that he had lost access to and recovered more than once throughout his long history, and the formorians had come dreadfully close to breaching its copper walls while they had control over the area.
+
+Fortunately, the subpar copper that had been sourced for the chamber was isolated and expunged before construction got underway. Copper was admittedly outmoded as a defensive material, but it had proven to be sufficient to withstand the expansion of the formorian’s tunnels.
+
+Every record present within the chamber was replicated elsewhere, yet these tablets had each been recorded by his hand, before Remus even came into existence. There was something to be said for an opportunity to consult the originals—to revisit the outlook he carried at the time.
+
+Things were changing rapidly. Remus had committed to expanding its borders and the operation to kill the plant within the Nostrum Sea was underway. Remus was reentering the greater world, but that had been inevitable from the day that its first emperor formally declared war upon the shimagu. And just as events were set in motion, a new fervor enkindled amongst Remus’ leadership.
+
+The Genie—an entity that had remained silent for a great many years—had spoken. The wish that Hwinthel, allegedly an elven historian of little import, made was simple enough. System notifications that were given when a species went extinct were an incredibly useful tool, especially with Solace and other teams hunting the final remnants of the shimagu. But those in power weren’t interested in that wish.
+
+Instead, they outright salivated over the idea of a being that could grant wishes. The expansion of Remus had taken on a new impetus, and it was forcing plans to be accelerated beyond what was wise.
+
+But Night had finally found a lull in the preparations and active tasks that required his personal attention, so the time had come to pay an overdue visit to a specific repository of his memories. The tablets were slightly difficult to read—it was easy to overlook just how much the language had drifted since the gods saw fit to shove it into the heads of those like him—but little time was required to return his mindset to the language’s original form.
+
+Tablet after tablet, all taken from a specific shelf. Many were off-topic, yet those were still fewer in number than Night had expected. Even if there was precious little chance of his existing conclusions being changed, the process was still worthwhile. Night could hardly claim to be the same being that he was back then, and even with the System’s influence, time still changed how recollections could be perceived. In contrast, records engraved in his own hand bore clear signs of his mood at the time—he had possessed much less control over his emotions back then. The depth of characters, embellishments and their absence, and even outright mistakes spoke volumes.
+
+The differences were striking, but the similarities couldn’t be denied either. Grace—rather, Ranthia—had changed in important ways, yet without continuous oversight, it was difficult for Night to remain confident that former behaviors and dangerous patterns would not reemerge. There was little doubt that they were one and the same; Ranthia herself had provided all the evidence that he needed with her limited recollection.
+
+And he was one of the few beings alive that knew what the woman was truly capable of. Since almost the very day the gods placed humans on Pallos, vampires had watched over them. It was a mutually beneficial arrangement—by day, humans protected vampires, and in the darkness, vampires kept vigil. And from the very beginning, Night had been there. Even when humans forgot their debt, he continued his role.
+
+And he would never forgive those that came so close to shattering the alliance that predated every nation. His fury and pain were engraved in those tablets, and it was hard to not be affected by it—even after so much had passed.
+
+For the time being, he would use her legacy to his advantage. But if she returned to her old ways—and sought to return to Remus—that was fine. Night just needed to remain vigilant and, if it became necessary to do so, he would deal with her.
+
+After all, he had his ways.
+
+And he had killed her once already.

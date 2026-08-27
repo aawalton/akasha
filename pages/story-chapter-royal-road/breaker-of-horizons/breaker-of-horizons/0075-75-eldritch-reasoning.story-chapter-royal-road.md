@@ -1,0 +1,117 @@
+---
+id: fd076424-d9da-59ba-8ff8-fa5a5d23061d
+page-type-slug: story-chapter-royal-road
+title: "75. Eldritch Reasoning"
+slug: 0075-75-eldritch-reasoning
+partOf: breaker-of-horizons
+position: 75
+ownLength: 2129
+unit: words
+publishedAt: 2021-01-18
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/616659/75-eldritch-reasoning"
+royalRoadId: "616659"
+---
+
+It took a great deal of effort for them not to fall into the spirals of their own thoughts. The augera's gift of insight about how to navigate their own auric-ambient-flares, grafted straight into their consciousness, was new knowledge that had not yet gently sunk into their unprepared minds. Their arcanic senses were overwhelmed with the proliferation of information that they were now privy to. But that was not all — since they had been drawn closer together by the augera, they were also in danger of being caught up in the colourful torrents of each other's auric-ambient-flares and drowning in thoughts and emotions that weren't their own.
+
+It was Devon's blind panic that saved him since it eclipsed what everyone else was feeling. It gave him the briefest moment for him to actually find some familiarity in this sensation because it was something he knew to be his own emotion, and with that, he managed to hold on to his sense of self and neatly draw a mental line between himself and the others.
+
+And just like that, the noise made sense. He knew he had to ignore the babble of his own thoughts so that he wouldn't start thinking about thinking about thinking about—
+
+—so he directed his thoughts away from 'self' and into the domains of the people around him. Jerric's mind was the most familiar since he had spent an entire term sharing a dorm room with him. He drifted through his friend's auric-ambient-flare, like a tiny grain of dust hurtling through a constellation. Each brilliant strand was just a tiny portion of Jerric's life, and each was an invitation into a miniature universe as it contained the sum total of his experiences and how he had shaped them consciously, and how they, in turn, had shaped him.
+
+But Jerric's consciousness was not there within his auric-ambient-flare. It was still stuck close to the augera, caught in the empty spaces between the four of them, shivering in distress as it struggled to make sense of the world around it. Devon reached out to it, instinctively forming a little cocoon of calm by infusing his own relief at being able to divide himself from the chaos around him.
+
+'This,' he shared ever-so-gently with Jerric, 'is how you know what is you, and what is not you.'
+
+It turned out to be a good thing that he hadn't simply darted forward to quickly envelop Jerric in that little bubble of security. Jerric's relief was so palpable that it threatened to wash Devon away in a tide of gratitude. As it was, his tenuous approach gave him enough time to anchor his sense of self so that it wasn't plunged under that wave of emotion. Realising what was happening, Jerric sent over a profusion of apology that, ironically, threatened once more to dislodge Devon's grip.
+
+But Devon was a little more prepared now. For this purpose, for this moment, he shouldn't be butter melting into the arcana. He had to be separate, unperturbed and unconsumed. He grinned (somehow, without lips, without a body in this mental space — but definitely a grin! An odd sensation...) as he pictured food floating in a pot of boiling water. Jerric's thoughts and emotions washed over him, under him, and around him, but they left him undisturbed and whole.
+
+'Think softly,' Devon sent carefully, recalling a little of what the augera had said to him about communicating over long distances, and realising that it could be applied here as well. 'Light thoughts. Careful steps.'
+
+Gradually, Jerric managed to rein himself in. The two of them floated in between their auric-ambient-flares, taking a moment to gaze in wonder (though not too closely) at the sheer beauty and complexity of their lives and their minds spread out before them like this.
+
+'So how are we going to do this?' Devon asked.
+
+Jerric did not answer, but Devon could actually see the colours and strands of thought going through his friend's mind. It was too difficult to follow, so he couldn't actually parse everything, but he got the gist of it before Jerric put his response into words. Devon struggled a little to manage his surprise and a sense of betrayal.
+
+'No,' Jerric answered firmly. But he hastened to add, 'not like this. And not us.'
+
+'You're siding with the twins?' The torrent of indignation from Devon, and even a touch of fury, poured into the space around them.
+
+Jerric struggled to maintain his mental balance, and he found a core of certainty in himself. There was a coldness to his own thoughts that was almost painful to his mental touch, but he grabbed hold of it and steeled himself through the pain.
+
+'No,' he repeated, putting just enough of that ice into the response to freeze the wild emotions around them. 'But this will not fix Caden. Not really.'
+
+'We don't have time for this, the twins are going to—'
+
+More ice poured in, crowding out Devon's increasingly emotional communication. Jerric's mind suddenly sharpened, and for a moment Devon was given a clear window into the inner workings of his friend's mind and glimpsed whole sketch of the situation there, comprehensive and complex. Devon quietened and waited for Jerric to explain.
+
+'The twins are still floundering,' Jerric pointed out, giving the impression of a mental nod towards where two minds were thrashing about in the arcana, still directionless. 'We need to convince the augera to push them out and keep Caden safe here for the time being. We shouldn't be the ones to fix him.'
+
+'I agree with the bit about the twins. But why can't the two of us do it?' Devon was eager to do what he could to put Caden right again.
+
+'You heard the augera. Bits of him are missing. Our memories... they're just pictures of him from the outside. I won't pretend to know how this all really works, but I think we'll just end up putting together a Caden that may look right from the outside, but isn't really him on the inside. He'll still be unchosen-sighted-{~?~}, but he wouldn't be everything else that he was.'
+
+'But then what do we do? We'll have the same problem even if we get his family in on this. Everyone we can possibly ask for help will end up only giving pictures from the outside.' Devon's helplessness and frustration at the situation were growing, and it was getting increasingly difficult for him to manage his emotions. Somehow, self-control was more difficult here.
+
+But the coldness of Jerric's logic was helping to mitigate Devon's emotional slippage. Devon saw once again how Jerric made a conscious effort to think before he spoke — saw his mind drag skilled fingers across the sea of memories, pulling up disparate facts from little swirling eddies and expertly combining them into theories and possibilities.
+
+'We need more time, first. If the augera can lock the twins out, we can talk with it and get more information. That might help us consider other possibilities.'
+
+It was such a marvel and a testament to his confidence that Jerric believed that it was possible for them to think of something that a complex and eldritch being like the augera hadn't even considered. Devon saw his own resignation about his own limitations contrasted sharply against Jerric's belief in his ability to push the boundaries given enough time and knowledge.
+
+'Exactly,' Jerric sent, surprising Devon by actually managing to accurately read his thoughts. 'The augera are so far beyond us that we're like ants to them. But humans don't know all the ways of ants. We're in different domains. So we may be ants... but maybe we can teach the augera a thing or two.'
+
+'Maybe.'
+
+The augera's voice was like a thunderbolt in their little quiet bubble, which threatened to pop. But it held firm as the augera itself reached in to stabilise it.
+
+'You have thoughts,' it directed at Jerric. 'Speak.'
+
+'Do I really need to?' he asked, almost cheekily. He was thrilled with what was happening, Devon realised. It was exciting beyond belief for him to be able to discover all these things first-hand.
+
+'Better to speak. Clarifies. Consolidates. Directs. Unfiltered thought is messy, imprecise.'
+
+Unbidden, a memory floated out of Devon's mind and drifted into their little space: Reeves lecturing them at the beginning of the term about how "precision is important".
+
+'Yes. Precision is important.'
+
+'Then why do you want us to be imprecise in putting Caden back together by using our memories?' Jerric challenged.
+
+'We do not care about all of Caden,' the augera answered matter-of-factly, with no guile or rancour. It was like someone casually stating what the weather was like at the moment. 'Only need his unchosen-sighted-{~?~}. Other aspects unimportant.'
+
+'You don't know that for sure, though,' Jerric argued. 'The other aspects are still a part of him. How can you be sure that the parts you care about will work properly if those other parts are just facsimiles stitched together from our imperfect memories?'
+
+'Strength of recall will be perfect,' the augera rumbled impatiently, snapping their attention to the echo of Reeves that was still there in the space with them. 'In arcana, no detail lost.'
+
+'It's not perfect,' Jerric countered, triumph in his tone. He produced his own echo of memory from the same incident that Devon had thought about.
+
+"In arcanophany, precision is important," the two echoes of Reeves said in perfect unison, identical right down to the pitch and timbre. "Therefore, the language we use is important."
+
+'Perfect,' the augera pronounced, though there was a mote of confusion as it considered Jerric's absolute certainty and conviction.
+
+'The subject is recalled perfectly. But the experience of it is different,' Jerric pointed out. He tried to focus attention on the strands of cognition and emotion, and the augera swiftly stepped in and took the strands out of his clumsy hands. It amplified everything and drew Devon and Jerric deeper into that moment so that they all could scrutinise it more carefully.
+
+Jerric was right. At that precise moment, when Reeve spoke, he had experienced a moment of epiphany. It brought a wave of pleasure, of realisation, of joy. Devon, on the other hand, had not gained any insight. The words had passed through his mind as nothing more than a collection of sounds that enunciated a fact, but the fact had burnt no revelation into him. Instead, it had dredged up feelings of mild despair as he had thought about the complexity of the work that lay ahead of him, and it had left him wondering if he would be able to keep up with his peers.
+
+'You really sell yourself short, Dev,' Jerric sent, a little embarrassed by the stark contrast now that it was on display.
+
+'He's right,' Devon addressed the augera, resolutely ignoring Jerric and the echoes. 'The experience is different. You can't just grab anyone's memories. In fact, you can't even use memories to fix Caden. Whoever it is you get, they won't give you memories that give you the absolute truth of what he experienced in that moment.'
+
+'Irrelevant,' the augera responded. 'Even if experience is different, we only need unchosen—'
+
+'But you're wrong again,' Jerric insisted. 'You just told us we're more than the faces of our auric-ambient-flares. All the other parts of Caden help to influence and operate the parts that all you augera are interested in. If he's really your best chance at freedom, don't you want to make sure he's really fixed properly?'
+
+'Irrelevant,' the augera repeated. 'Memory is only available source left for restoration. No better alternative remains.'
+
+As Jerric and Devon digested this, Devon tried not to look at his own auric-ambient-flare as despair trawled across it.
+
+But Jerric's was not tainted with despair. It was growing colder and sharper still as he dug even deeper, possessed with single-minded certainty that there was a solution out there if only they were clever enough to think of it.
+
+'You were wrong twice,' Jerric finally declared, his tone glacial in its gravity. 'You owe it to yourself, and to all augera, to make sure you're not wrong this third time. Unless you want to risk Caden dying, or coming back damaged, and end up having to wait around for who knows how long before the universe happens to send you another unchosen-sighted-{~?~}.'
+
+There was a long silence.
+
+'Many woven-shackled-streams will gladly take this risk now,' the augera responded eventually, its thoughts carefully threaded through to become perfectly understandable. '... but I am the first-bound, and I am tired. If I must wait for a breath to spare myself the wait of another aeon, then I will do so. What is your plan, mortal?'

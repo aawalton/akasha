@@ -1,0 +1,187 @@
+---
+id: 0cb40487-6269-5401-b1df-e8a608a3b888
+page-type-slug: story-chapter-royal-road
+title: "v5c30: Full Burn"
+slug: 0136-v5c30-full-burn
+partOf: beware-of-chicken
+position: 136
+ownLength: 2792
+unit: words
+ownProgress: 2792
+publishedAt: 2024-08-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1747901/v5c30-full-burn"
+royalRoadId: "1747901"
+markedReadAt: "2026-06-29T19:01:29.094Z"
+---
+
+The key to an effective ambush is shock and surprise.
+
+Pretty basic, honestly. The question was how exactly one achieved said surprise. A fusillade of powerful techniques? A profound formation?
+
+I had neither of those, so I settled on the next best thing.
+
+Namely, dome the fucker who “felt right.”Honestly, I wasn’t entirely thinking when the man had touched down beside the tree I had just gotten to. He felt right, so I wound up my shovel and swung for the fences.
+
+Now, baseball swinging a normal shovel, as a normal man, has a very good chance of killing them.
+
+My shovel, flooded with my Qi and propelled as hard as I could swing, was somewhere around “mountain leveling”.Instead of turning into chunky salsa, however, something flared just before impact and the man simply went flying for a few hundred meters before he hit the ground and skidded backwards.
+
+I, meanwhile, stepped out from behind the tree, scowl fixed firmly on my face, and letting my Qi really show just how unhappy I was with the impromptu invasion my lands were being subjected to.
+
+“Ho ho ho. Happy Solstice,” I said, with a lot more cheer than I felt, and it had the desired effect of making everybody stop and focus on me. I glared at the demonic cultivators. Had they killed a bunch of people to get those Shrouded Mountain Sect uniforms?
+
+Immediately after I revealed myself there came the shouts. I was preparing to just ignore them and go straight to swinging, but the words made me pause.
+
+“You’re courting death, you bastard!” one shouted, the line as cliche as it came. The others made various exclamations of anger at my appearance, but the timbre was off.
+
+They sounded angry… but lacked rage. It lacked passion. Cultivators had big emotions, for the most part. Legendary anger. The bitterest sorrows. The fiercest joys.
+
+More than that, I knew the cultivators from the Shrouded Mountain Sect. I had met with the Yingwen guy a few times, and even though he was polite, professional, and cold… even his voice would have carried an undercurrent of offense if I had just domed his leader.
+
+It was there, but it was missing depth for lack of a better word. The other thing is that none of them sounded particularly scared—Yingwen and his guys had had their knees knocking together when I was pouring out my Qi like this, but all that radiated from these cultivators was belligerence.
+
+Secondly, Meimei had said they smelled weird. Not entirely demonic, but weird.I squinted at the cultivators, who were obviously gearing up for an attack. I looked into one of their eyes, the closest one. His eyes were ever so slightly dull. Nearly imperceptible, but it was something about the back of his eyes.
+
+…if this was meant to be a false flag to get me to attack the Shrouded Mountain Sect… then what better way to do that than to use actual mind-controlled members of said sect?
+
+Which made things a bit complicated. I had people attacking me against their will. It was my people’s lives over theirs, of course, but… well, we’ll see.“Mind control. Gently, if possible,” I shouted to the others, who were still hidden in the surrounding trees. I heard Tigu and Xiulan curse under their breaths. Hopefully the paralytic poison Meimei had given us would make this possible. Tigu, Xiulan, Xianghua and Yin all burst out of the trees at that moment, going on the offensive.I had only a moment to see the girls scythe into poor, mind-controlled bastards when I felt a surge of lightning and cursed myself slightly for not keeping on the pressure and instead taking stock of the situation.My eyes jerked back to the guy I had hit. He had blonde hair with a well-trimmed beard, and a rapidly forming bruise on his forehead where I had hit him.
+
+He looked kind of like the imposter guy, which made me grimace. Did they get both the father and the son with their body-snatcher technique? His body twitched and spasmed, and then he moved. I lifted up my shovel and intercepted the strike, grounding myself as electricity erupted out from the point of impact. It was a punch that made the air scream and the world shake.My muscles spasmed slightly, but I held firm; I was protecting my home, as was a farmer’s right.
+
+“You, slayer of my son. Did you think you could insult the Shrouded Mountain Sect so and escape our wrath?!” the man roared, our faces inches from each other, and my eyes widened. This voice, compared to the others, had passion. His voice had hate. This man’s eyes, as they met my own, had a spark within.  A spark of unbridled rage… but also glee. “I, Zang Zeng of the Shrouded Mountain Sect, will destroy you! Kowtow before me a thousand times and I will kill you swiftly!”Yet even with that fact, there was still something off about his voice. Like he was speaking it from a script.
+
+A different version of mind control? Could he be broken out of it? Could I defuse this and save him?
+
+My hesitation at this new information cost me. Qi erupted around the man, fully visible and so thick the world trembled.
+
+My eyes widened.
+
+[Fulmination Arts: Heaven’s Searing Rebuke]
+
+A thermobaric bomb went off in my face as Zang Zeng, or whatever was controlling him, instantly went for the big guns. The world turned white.
+
+Metal ground Qi— I thought as the man exploded with golden light. I rammed my shovel into the ground and flared my Qi, making a lightning rod like how I did when I showed Washy how electricity functioned. I could take one of his blasts and not feel a thing.
+
+This was not Washy’s lightning. This was a powerful cultivator's lightning, and physics, to them, was a mere suggestion.
+
+It still partially worked. Some of the lightning was redirected into the earth; the snow sublimated instantly to steam, and the ground melted and turned into slag. The area directly under my shovel heaved and shuddered like I had gotten hit by a localized earthquake. The trees around me exploded as the water within them expanded and turned to steam.
+
+The rest of the man’s Qi met my own. It hurt. It hurt like Hell. Tears sprung to my eyes as my entire body shuddered as I contained it—and kept it away from the bee behind my ear. It was buzzing with panic, but the little girl held fast.
+
+There was no time to really think about the attack. Barely enough time for my wits to return.
+
+[Fulmination Arts: Blade of Heaven’s Judgement]
+
+There was a sword descending on me, trailing bolts of blue lightning. It was also two stories tall and coursing with Qi.
+
+My shovel was already in the ground, which was loosened from the previous strike, so I dug. The earth parted for me like water and the world around me quaked. I went down diagonally, and that proved to be the smart decision as the sword cut through the ground like butter and stray bolts still lashed painfully against me.
+
+I have to get him away from the others if he's just going full destruction mode. Gold cracks formed on my knuckles. My sluggish Qi pumped. It would not be the real technique, but it would be its foundation.
+
+Old teachings filled my head as I landed on an underground rock.
+
+He was still standing on the ground.
+
+I gave a mental apology to the earth as I fused my Qi with it and jumped.
+
+The bones of the earth came with me.
+
+===================================
+
+To Rou Tigu, their ambush had started rather well. Her Master had struck a mighty blow against a powerful enemy, sending him reeling. He had focused all the enemy’s attention upon him, his overpowering Qi smothering their enemy’s senses so they could not feel Tigu and her companions. Tigu had even spotted one of the enemy’s scouts—an ugly bird that had been driving her Mistress to distraction with its foul smell.
+
+When her Master had declared that their enemies were being mind-controlled, it made perfect sense—her Master having seen through the foe’s foul ploy instantly.
+
+It incensed Tigu. To take control of people and force them to fight against their will? It was just like the slavers at Grass Sea City, but worse!
+
+She swore an oath to herself at that moment; the men here would be free of whatever had stolen their minds, and their captors would face justice.
+
+Tigu, Xiulan, Xianghua, and Yin smashed into their foes. The surprise was total and Tigu threw a rock at the bird, which exploded into a shower of black blood.
+
+They downed five people before their enemy began to react in earnest, and Tigu was certain this spoiling attack would be as successful as her Master envisioned it. Her opponents had disturbed reaction times, and Tigu grabbed one of Xiulan’s blades, coated in one of Mistress’s paralytics.
+
+And then the world exploded.
+
+Tigu whipped around as the forest they had emerged from detonated. Over a thousand trees exploded, their tops sailing into the air and splinters the size of spears made the air scream as they whistled past. Tigu had to intercept three before they impaled one of her downed foes.
+
+“What the fuck—?!” Yin got out.
+
+A massive sword made of lightning fell from the heavens, plunging into the ground and setting off a small earthquake. Tigu’s eyes went wide and, for a moment, a flash of fear entered her heart. She knew cultivators could cause such destruction, she had seen it in the Memory Crystal, but living it—
+
+The earth heaved again. A massive section of ground erupted like Chun Ke jumping in a lake. The world shook, and this time Tigu nearly lost her footing as over a Li of earth was thrown into the air. Tigu caught a brief glimpse of her Master grappling his foe before he was gone, tackling the man away from them so the rest of the ambush force wouldn’t be caught in the crossfire.
+
+All of that had taken seconds.
+
+Tigu nearly took a sword to her back for her distraction, her mind-controlled foes not even reacting to the sudden devastation. She snarled and broke the man’s arm before stabbing a knife into his thigh, taking care to avoid the arteries. The man’s body seized up, thankfully, but his heart kept beating. It worked, but if they had too many more foes they wouldn’t have enough of the paralytic.
+
+Tigu forced her full attention back to the fight. Her Master was fine. He would defeat their enemy. Tigu just had to do her job.
+
+===================================
+
+[Heaven Sundering Horn]
+
+I threw myself out of the way as Zang Zeng’s arm decompiled into lightning. The blast barely missed my head, just singeing my hair as I landed on all fours. My opponent’s landing was a little more graceful, barely disturbing the snow—and then he had a bolt of lightning in his hand and he was throwing it at me again. I ripped up a chunk of earth to use as a shield, and let go of it as it exploded.
+
+I grimaced and broke into a sprint as three more bolts put artillery to shame, cratering the landscape.
+
+He was burning way too hard. Cultivators didn’t do this. I saw his right arm. He had electrical burns on it, his fingernails were gone—and shit, it was burning him up.
+
+Whatever was controlling him was planning on killing him.
+
+I was hurting a bit, and I was feeling a bit of strain myself—but with each breath I took I would get better. Nourishing air filled my lungs, and I could, eventually, just outlast him.
+
+But could I? Could I wait and try and break the mind control on him?
+
+[Thunderous Steps]
+
+If I hadn't trained with Xiulan, if I hadn’t sparred with Gramps, if I didn't have Rou’s instincts… I think it would have ended there. The man was blindingly fast. So fast my shovel barely got in the way in time.
+
+Even enhanced by my Qi… his sword bit into my shovel’s blade, and once more sent lightning up my arms. My mind instantly supplied me with the composition of his sword—Qi enhanced metals that I had only ever read about. The blade this man wielded was a treasure of cultivation. The fact that my village-made steel actually resisted at all was the kind of thing that most people would be more impressed by.
+
+I tried to overpower him. For a brief moment he was stuck, and I struck back.
+
+Zang Zeng tried to deflect the punch, but one doesn’t deflect an avalanche. It slammed into his arm and I saw him try to shove me aside, and as soon as he realised that that wouldn’t work, he locked himself.
+
+He skidded backwards, pulling his sword out of my shovel. My blow had forced him away from the other fight a bit as well.
+
+His arm was bruised, but unbroken, as Qi visibly shimmered around his arm. I dove after him and smashed a crater into the ground when he dodged. I tried to keep up the pressure—when his Qi flared again.
+
+[Thunderous Steps]
+
+He moved, then disappeared. He was behind me in a flash, his sword descending like a bolt of lightning. My fingers dug into stone and I launched myself out of the way, and then I barely had time to raise my shovel and get a second cut on its blade. My fingers went numb as more electricity savaged the nerves.
+
+For the first time, I was fighting an opponent that could truly be called my peer. A man I couldn't simply bulldoze over.
+
+Not the people who I had defeated with one punch, or by staring at him. Not Gramps, where both of us had held back. This was a real fight.
+
+I couldn’t afford to hold back. I had been practicing Break the Rocks, but it still required a bit of a charge up if I didn’t want my arm to partially explode. If I whiffed then it would be the end of things right thereI mentally started chanting.
+
+And so, the Great Ancestor Shennong…
+
+A golden crack formed on the knuckles of my right fist.
+
+My opponent's eyes widened as I pulled more on my Qi.
+
+I aborted the mental chant. I had to. In just three exchanges he had torn three triangles out of my poor shovel’s blade, and on the fourth I was disarmed, my shovel sailing away to impale itself into a mountain.
+
+His was a technique refined for probably hundreds of years, thousands of battles. Had he been mortal, his sword technique alone would have made him a legend in the Before.
+
+His skill utterly eclipsed me. His strikes were like lightning, never striking the same place twice. Impossibly fast, devastatingly strong… yet there was the occasional hitch in his movements, which was the only thing that stopped it from ending sooner.
+
+Against this onslaught was what Gramps had taught me, the forms I had practised diligently every day since I had been taught them.
+
+My movements were simple. They were effective.
+
+They locked us in a stalemate that I was going to slowly lose, because while they were simple and effective they did have limits. There was a reason people moved past the basics, because the basics right now could only keep me alive and were ill-suited to providing me with a counterattack.
+
+He kept on the pressure, and I didn’t have the time to concentrate and prepare any of my own real techniques. I was just surviving, and trying to force the opening Gramps said I needed.My wrist met the flat of his blade. I grabbed his arm and accepted the burst of electricity, but the spasm just made my hand clench harder, his bones grinding together. But I was forced to let go and step backwards to not lose an eye. I twisted my body at the last moment as his second strike aimed for my heart and his sword skated along my chest, leaving a thin cut, but not penetrating, while my flesh seared slightly from more tendrils of lightning.
+
+His arm was slightly too extended. His body twitched. A swift jab made his head jerk backwards slightly. The distraction made him miss the twist of my hips.My knee slammed into his thigh, and this time I did feel something break.
+
+[Thunderous Steps]
+
+He disengaged again. And then Zeng’s entire body spasmed.
+
+“Forbidden Arts. Divine Fulmination Body,” his voice was strained and double-layered.
+
+Zang Zeng became light.

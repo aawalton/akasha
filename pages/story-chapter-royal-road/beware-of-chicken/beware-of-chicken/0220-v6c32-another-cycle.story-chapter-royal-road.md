@@ -1,0 +1,263 @@
+---
+id: f35acd66-c187-534a-b76b-4064343b6f0b
+page-type-slug: story-chapter-royal-road
+title: "v6c32: Another Cycle"
+slug: 0220-v6c32-another-cycle
+partOf: beware-of-chicken
+position: 220
+ownLength: 2939
+unit: words
+ownProgress: 2939
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2334221/v6c32-another-cycle"
+royalRoadId: "2334221"
+markedReadAt: "2026-06-29T18:58:54.670Z"
+---
+
+One day Before the New Year:
+
+Nezin Han, Chief of the Nezin Tribe, had seen a great many things in his sixty five years of life. He had seen the Seven Flame Aurora of the Sea of Snow, painting the skies in all the colours of the rainbow, a tide of light that turned even the darkness of the north to day. He had seen the Millennium Migration: the rivers of Long March Caribou on their eternal, looping odyssey from one end of the continent to the other.
+
+He had seen volcanoes that spewed ice, the flashes of light from battling Spirit Beasts in the distance, and had even borne witness to a full-grown Thunderhoof, the titanic creature almost a mirage as it strode, unhurried, through the snow.
+
+However, these past two years had revealed to him more than he ever thought possible.
+
+First, his grandsons had become cultivators. Then, Yun Ren brought a baby Thunderhoof through their encampment. He met distant kin from the Howling Fang Mountains, hid in the ancient refuge of First Den while cultivators battled demons outside, and then he had flown on a skyship with his kin and their herd of yaks all the way to Hong Yaowu!
+
+He was getting too old to have this much excitement in his life… but at the same time, it was invigorating.
+
+And Hu Li’s face had been bloody hilarious when the skyship had touched down. Yun Ren had shown him the recorded image, as Han had stayed behind until the last trip. The chief went last, that was the way of things. Seeing his daughter’s gobsmacked expression had brought warmth to his heart while he waited, though. Served the little hellion right.
+
+Flying had been amazing. Watching the ground pass by… indescribable. He had been a bit worried when one of the herd took a shit on the deck, but the pretty lady with the blue hair had waved it off.
+
+“It’ll wash off!” she said cheerfully... before her face became ever so slightly nervous. “I think.”
+
+There had been quite the welcome party when they had touched down in Hong Yaowu. Xian had been front and center to welcome them and offer their homes, and should they need it, medicine.
+
+The Hongs had always been good, reliable friends, which is why he hadn't minded Hu Li running off with Little Ten.
+
+But now, his little adventure was over. He thanked the cultivators for their escort, even though he didn’t really know the correct protocol was for such things. Master Lu Ri had accepted his thanks and had bowed back, though. Han assumed he would never see them again after this, but he offered them their tribes’ hospitality if they ever needed it anyway.
+
+With his duties done, at least for the moment, he could finally spare a moment to look around.
+
+Hong Yaowu had changed, too. It had been a while since he had last visited—and the place was completely different. Han at first hadn’t known if they all would fit, and assumed they would all just be in tents, like they normally were for the winter… but the village had room. Shit, Hu Li had practically a damn mansion now—built by Gou Ren.
+
+A fierce pride filled his soul when he saw that. The symbols of their tribe hung on Ten Ren’s doorway. And more than that, Yun Ren still had his scarf, and Gou Ren was wearing his headband… along with another lady wearing their colours.
+
+She was a tall and stately woman. Stunningly beautiful, with wavy blue hair down to her shoulders, and booming laughter erupting from her mouth as children clambered all over her like a tree. He had heard her name, but hadn’t really had time to talk to them properly with all the excitement.
+
+As first impressions went? He already liked her.
+
+“Alright! We’re going up twice more, then we have to leave!” the blue-haired skyship lady shouted.
+
+The children abandoned their tree and sprinted back to the skyship, the tribe’s young ones and the children of Hong Yaowu so mixed up Han couldn’t tell who belonged with whom.
+
+Han chuckled, and moseyed on up to his daughter, son-in-law, kin from the mountains, and grandchildren.
+
+“Daughter. Grandsons,” he greeted them. The woman, Xianghua, immediately perked up as he approached.
+
+“Honoured Grandfather, it's good to meet you at last,” she intoned, bowing with respect.
+
+There was no hesitation. The cultivator immediately lowered her head, her voice filled with nothing but sincerity.
+
+How could he not approve?
+
+Han smiled and put his hands over hers, gently pulling them apart so he could hold her.
+
+“You wear that headband very well, Granddaughter,” he said. Xianghua beamed at him.
+
+Han turned to Gou Ren.
+
+“Boy, now how the Hells did youse pull a gal like this, huh?” he demanded, his accent coming out.
+
+Gou Ren rolled his eyes while Hu Li and Ten Ren started laughing… along with another girl who was standing beside Yun Ren.
+
+Han’s eyes narrowed at the way the short, owlish woman was holding onto Yun Ren’s arm.
+
+“And who’s this one?” he asked.
+
+The woman startled, before offering him a smile.
+
+“This one is Biyu, Grandfather,” she greeted him with a smile. Han turned to his grandson, who suddenly looked a bit uncomfortable.
+
+“Yun Ren’s girl,” Gou immediately interjected, tossing his brother out of the saddle. “Who he’s been draggin’ his feet with.”
+
+Yun Ren flushed.
+
+“Boy,“ Han said, his disappointment dripping from that single word. The cultivator squirmed.
+
+“I’m meeting her parents soon,” Yun Ren mumbled.
+
+“And he's supposed to kidnap me? It sounds quite exciting!” Biyu said brightly.
+
+Han nodded. He considered the young woman for a moment. He looked to Hu Li, who nodded, then to Gou Ren, who nodded as well. He returned his gaze to Biyu.
+
+“You look cold,” he told her. Biyu blinked in confusion, then her eyes widened as Han unravelled his own scarf—a match to Yun Ren’s, just as Gou had his headband. He tied it around Biyu’s neck and patted it twice, before turning his glare to Yun Ren. “Spring, you lazy boy. Get it done.”
+
+“Yes, Grandfather!” the boy yelped.
+
+Han nodded decisively.
+
+“It's going to be the biggest gathering of the tribe since your mother married! Truly the biggest, if I have my way. Yuanlin!”
+
+“Yes, Uncle?” his cousin from the mountains asked cheerfully.
+
+“You think the others can make it here for spring?” he asked her.
+
+“Hells yeah we can! We’re used to movin’ fast. Wouldn’t miss the Young Master’s wedding for the world!” she declared. “Speakin’ of, where is Honoured Uncle?” she asked, looking at Yun Ren.
+
+“I’ll tell you everything later. But… right now he's with Zang Shenhe of the Shrouded Mountain Sect, to make sure they’re honouring their side of the deal he made with them.”
+
+The woman’s jaw dropped. “After so long…” she whispered. “My, this year has been something, hasn’t it?” the fox-woman asked, tears shining in the corner of her eyes.
+
+Han chuckled. “That it has. Now! I need to go and pay my respects!”
+
+He turned to where there was already a small group forming. A young Thunderhoof was looking on curiously while his tribe approached, greeting him.
+
+A bringer of fortune was present; and fortune had graced them all. It would be rude, if he didn’t offer his own thanks.
+
+===========================
+
+I awoke early on the day of the New Year. We had done all the final checks yesterday, which was good, because Hong Yaowu had swiftly devolved into an impromptu party when the Nezin tribe arrived. I had set up the guest rooms at Fa Ram for Lu Ri, Su Ge, and Yeo Na, while Yuanlin was staying in the village.
+
+Yun and Gou’s grandpa was just as much of a shit disturber as Yun, the older man constantly needling his family with a little fox-like smirk on his face… though he had pulled me aside to thank me for sending Lu Ri and Yuanlin his way.
+
+“Family helps family,” I replied. “They’re Meimei’s brothers in all but blood, and my sworn brothers.”
+
+Grandpa Han hadn’t known what to say to that… other than to drag me over so I could share a drink with him, and start learning all of my new “cousins’” names.
+
+That, and get regaled with embarrassing stories about Hu Li and Ten Ren from when they were kids, to both of their chagrin.
+
+It was a great time, but it almost felt like a pre-show, considering what was to come. Tigu was practically jittering in her new clothes, a big, excited smile on her face.
+
+Though we had several more people than I originally imagined heading to Verdant Hill. Our number included Senior Brother, Su Ge, and Yeo Na… as well as Bailu and Seiyu from Soaring Heaven’s Isle. The rest of the women on leave ended up deciding to go to Grey Shard Coast—one of them had heard something about a cultivation artifact on auction, so the rest of them went flying in that direction. Partially because of the artifact, and partially because Verdant Hill still felt uncomfortable to them.
+
+With Chunky pulling the sleigh we started our journey, along with several more sleighs hitched to the back, almost like one of Bowu’s trains.
+
+We hit Hong Yaowu and more people filed… or in some cases, stumbled, out of their houses, nursing hangovers… but the prospect of the sleigh ride was too good to pass up.
+
+It must have been quite the sight; the giant red sleigh pulling up to the walls of Verdant Hill, bells ringing and boughs of pine decorating the sides.
+
+The town wasn’t quite in the full party swing just yet: Everybody was still setting up, which was perfect.
+
+It gave us time to set up too.
+
+“You never do anything by half, do you, Jin?” the Lord Magistrate asked as the stalls came out and the calliope was set up. Xianghua was going to be playing it, having commandeered the “collaborative project between myself and my brother!”
+
+“Never,” I replied with a smile. “Everybody ready?”
+
+“Yes!” came the chorus of voices.
+
+“Hit it!” I commanded.
+
+Xianghua grinned and pulled the first lever. The instrument was really kind of hard to play. Bowu hadn't fully been able to make the valves spring back closed in the time he had to build it, so instead it was double-action, the player having to manually stop the sound by pushing up on the lever to close it again.
+
+Luckily, Xianghua was a cultivator, and fast enough that it didn’t interfere with her. It actually sounded better than the calliopes I remembered from Before.  Xianghua had managed to get the whistles tuned just the right way to cut out the ever-so-slightly discordant sound I remembered.
+
+While Entry of the Gladiators is a classic, I still remembered one song that had stuck with me on a steamboat tour, Waiting for Robert E. Lee.
+
+The calliope was loud. Bombastic. It instantly drew the eye of everyone who heard the steam sing.
+
+And then Tigu stepped up, her robe pinstriped, and a flat hat made of straw.
+
+“Step right up! Step right up! Are you ready for the most amazing New Year’s games you’ve ever played?!” she demanded. “Then give it your best shot and win a prize!”
+
+That broke the dam. A horde of children practically stampeded towards their carnival.
+
+The Lord Magistrate chuckled.
+
+“May I try the instrument?” Lady Wu asked.
+
+“By all means,” I replied.
+
+Hearing a traditional Chinese tune come out of the calliope was a little strange, but it still sounded really good.
+
+=========================
+
+That was how the New Year’s festival went. After all the darkness of the Solstice, it was something lighthearted. Something fun.
+
+================================
+
+Big D’s manga flew off the shelves, and the Adventures of Chun Ke became an instant classic. Big D and Babe both looked incredibly proud of themselves.
+
+Children stomped around roaring at each other and brandishing clay dinosaur bones, while Yin taught a few more interested kids how to find the right clay and how to make a kiln so they could make their own, their eyes shining.
+
+Everybody stopped to stare as the Lord Magistrate absolutely demolished the archery game, the man hitting the bullseye every time.
+
+An audience gathered around Bailu and Seiyu as the two of them competed in ring toss games, both of them pulling off impossible trickshots, then asking the crowd who was better; the winner got to take a bite of food or a swig of booze. Both of them were clearly holding back to a roughly human amount of force as well.
+
+Peppa and Chunky wandered around the stalls, locating lost children, or directing shivering little ones too excited to notice how cold they were back towards the fires. Both of them had soft smiles on their faces.
+
+Rizzo, Rags, Loud Boy, and Delun were all lending a hand, handing out prizes and helping to run the stalls.
+
+Yun Ren and Biyu were running a recording image stall, taking pictures of people and projecting them onto the walls. Washy’s game was simply titled Feed The Dragon… which was himself, in a trough of water, leaping up to catch morsels of food. If he liked what you fed him, you got a prize.
+
+It was surprisingly popular.
+
+Even Miantiao, Huo Ten, and Spooks seemed to be having a good time. Miantiao was resetting the arrow game, and Spooks used his ice powers to make more targets for people to hit. Huo Ten would take the pieces of ice and run underneath the carousel, poking the new “special” target up for people to hit.
+
+Through it all, there was Tigu, hyping up the games, providing commentary… and in some cases, roasting uppity teenagers.
+
+“Aha! A new technique, closing both eyes to throw! Ahh? Your eyes weren’t closed?!” she asked of a teen who had pushed in front of a kid to get his turn. His face turned crimson as he completely whiffed his next throw too, and the crowd roared with laughter.
+
+Now, the locals probably would have been mad at us for taking all of their customers… if Tigu also hadn’t been directing people their way as well, mentioning the quality of the prizes of some of the stands, which got people interested enough to wander over.
+
+That, and we ran out of prizes before it got dark. Eventually, the calliope spluttered to a halt, its fuel exhausted. The arrow game slowed.
+
+But instead of any anger, there were simply good vibes. It had been new and exciting, and that was enough.
+
+Then… we all mostly went our separate ways. Meimei, Zhuye, and I met up with Tingfeng, Meihua, and Jinhai and just wandered the town, eating snacks, listening to music, and generally having a good time.
+
+Until it was time for the show.
+
+The village gong sounded, and everyone started to assemble in the square. Normally, there would be people on the stage in the center, but today it was empty. Empty, save for a woman with long brown hair, her face hidden by a blank mask.
+
+The music started. Xiulan stood, opened her fan, and began to dance.
+
+From what I understood, this was something of a classic, performed in music halls the empire over.
+
+It was mesmerising. Nobody could take their eyes away. Xiulan was grace personified, each movement perfection.
+
+It ended all too soon. The crowd erupted with cheers, hoots, and demands for more… but Xiulan merely bowed and the mysterious dancer departed the stage, disappearing into the night… only to reappear by my and Meimei’s sides, a small smile on her face.
+
+======================================
+
+Xiulan danced, she sang, she drank, she watched the fireworks, and she clapped along to the off-key singing of drunken mortals.
+
+When things started winding down in Verdant Hill, they returned first to Hong Yaowu, and then back home… where things got even rowdier. They played “wine pong” and answer-go and sang about a donkey and a whore.
+
+It was wild, unrestrained, and free, and Xiulan loved every moment of it.
+
+She was also very, very drunk by the time the sun started to crest the horizon and decided to take a bath. She was joined by a few others, and to her surprise, Bailu and Seiyu as well.
+
+“Ah, thissh place is the bessh!” the draconic woman declared.
+
+“It is,” Xiulan replied, letting the water cascade over her body and the smell of lotuses fill her nostrils. The bath truly was the best.
+
+But as she relaxed, she felt strange… and noticed that somebody was watching her. Or rather two someones. Both Bailu and Seiyu were staring directly at Xiulan’s chest.
+
+Bailu especially was squinting and humming, before she suddenly slammed her palm into her fist.
+
+“I know thosssh boobiesh!” she suddenly declared, slurring. “Right, Sheiyu?”
+
+Xiulan blinked at the statement, utterly befuddled.
+
+“Pardon?” she asked, thinking she was drunk enough to hear things.
+
+Seiyu walked around behind her, cupped her chin, and nodded.
+
+“Yes, and that butt is also familiar,” she said, slowly, like a sage who had all the secrets of the universe.
+
+“Wha?” Xiulan asked, still utterly confused.
+
+“Yeah, your face is ssshuper different, but your body… you look jusshlike Liushei!” Bailu said.
+
+All at once, the annoyance and happy buzz was purged from Xiulan's system.
+
+“Liusei? Yangtze Liusei?” Xiulan asked, the words making the world spin.
+
+“Liuliu, Watch Cap’n, thassh her! Ya know her?”
+
+“...she's my mother,” Xiulan replied in shock
+
+Her mother, who had left thirteen years ago to continue her cultivation journey.

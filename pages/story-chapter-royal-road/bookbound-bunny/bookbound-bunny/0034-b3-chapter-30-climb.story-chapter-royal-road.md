@@ -1,0 +1,179 @@
+---
+id: cc3c9dbc-a505-5fd1-b27d-41628ec173c7
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 30 - Climb"
+slug: 0034-b3-chapter-30-climb
+partOf: bookbound-bunny
+position: 34
+ownLength: 2183
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3280006/b3-chapter-30-climb"
+royalRoadId: "3280006"
+---
+
+The climb up the stairs was tiring yet uneventful, with most students casually chatting to pass the time. Lily and Lotte were no exception as they talked about food and their long-awaited beds.
+
+Now that the faction stuff had effectively dissolved, with the camping trip officially over. Thomas rejoined Arthur. The two appeared to be chatting about their experiences while trying to impress each other. They weren't alone in this, as Wallace and Garet seemed to form a duo, and Hana eventually joined Lily and Lotte. Only Clarissa and Frederick stuck to their original duo.
+
+Alice seemed content to just listen from the sidelines, although Lily managed to catch a few of her mutterings thanks to her sensitive ears. Most of them were just grumbles about being tired and wanting a long, hot bath, something pretty much everyone was feeling at the moment. The interschool tournament was the one interesting thing Lily caught from her grumbles, with Alice occasionally glancing at the students while saying stuff like "exciting" or "good show."
+
+Lily had already resolved herself to do her best when representing Regarth, as a sort of payment for everything they'd done for her. Yet she couldn't help but wonder if there was more to the tournament and the school rankings than she had previously given them credit for. Sure, there was the prestige of being the "number one school in the kingdom," but was there anything more than just a fancy title?
+
+After much climbing and grumbling from everyone about aching legs, they reached the exit. Along the way, Lily had expected to pass by another landing with a large set of doors marked with a large number one, but that didn't happen. Apparently, she wasn't alone in that thought, and Hana asked about it.
+
+"Why would you need a shortcut to the first floor?" Alice asked. "Just use the proper entrance."
+
+Hana looked embarrassed, but judging by the looks from the other students, almost everyone had thought there would be another set of doors before the exit. Even Clarissa didn't speak up, despite the obvious opportunity to throw mud on her face.
+
+Exiting the dungeon landing, they were welcomed to the familiar halls of Regarth. The stonework, the sconces, everything screamed that they'd left the dungeon and finally made it back. Before leading them away, however, Alice pointed to a large set of doors.
+
+"That's the official entrance, this is the side door, which you won't be able to open until you make it to at least the second floor," Alice explained.
+
+The students slowly nodded, looking a little absent-minded. At this point, everyone just wanted to go home.
+
+"I can suddenly understand why Professor Elius told us to work on our cardio…" Thomas sighed, earning a collective nod from everyone except Hana.
+
+"Having to climb these stairs every day…" Wallace muttered, his face somewhat grim.
+
+"Don't forget the return trip," Alice added with a smirk.
+
+There were murmurs and grumbles from the students. Suddenly, the dungeon was appearing a little less glamorous than previously. At this point, they all just wanted to head back to their rooms, eat, and sleep. That was when Headmaster Fabrelis arrived, and a collective tired groan was released.
+
+Headmaster Fabrelis chuckled, with a knowing smile appearing on his face. "Don't worry, I won't keep you for long. I just wanted to say congratulations for making it this far, and to collect the items you want evaluated."
+
+Everyone, Alice included, looked relieved. If the Fabrelis started lecturing, they were probably going to pass out. The adrenaline and excitement from their dungeon adventure had long run dry.
+
+The headmaster pulled out three large sacks, each marked with the symbols of Terravix, Maranix, and Zephyrix, respectively. Then, with a bit of guidance, he helped them empty their spoils into the large bags. All the while, he swore there wouldn't be a single leaf missing when it was returned to the students.
+
+While that was happening, Alice started dumping out the camping gear, and Lily realized they weren't the only ones who'd asked for their stuff to be brought back. It was actually a bit of a relief; otherwise, they might have been accused of favoritism.
+
+"Right, I heard some of you found some magical items," the headmaster said as he began securing the three bags. "If you want them identified and evaluated, take them to Professor Ollie. Most of you probably haven't met him, but he's in charge of 'Applied Enchanting & Glyphwork' and one of the few professors here who can provide the service for free. Otherwise, you are welcome to go to the trading house in Kaeling, where there's usually a guild identifier present, although they charge a fee if you aren't willing to sell."
+
+The Maranix and Zephyrix teams nodded, while Terravix looked a little upset. However, the headmaster merely chuckled,
+
+"There's always next time, the dungeon isn't going to run away, so don't be discouraged."
+
+Clarrisa and Frederick seemed to shrug it off, but Garet looked to have his fighting spirit rekindled, even letting out a small roar as he pounded on his chest. "Next time!"
+
+The other students chuckled at his antics, while his two partners awkwardly shifted away. It looked like the Terravix team wasn't as united as the others, although Wallace seemed happy to amp up his friend.
+
+Finally, they thought they were going to be dismissed, but the headmaster told them to stay for one last thing. Sighing, they held their complaints, but when Fabrelis asked them to take out their dungeon passes, they were excitedly reinvigorated.
+
+As the students held out their passes, as instructed, he gave each a simple tap and moved on to the next. It seemed so lackluster that Lily was positive that there was more to it, so she secretly activated her Magesight before he reached her in the lineup.
+
+That's when she saw it, with each tap, he appeared to be injecting something into the item, a type of formula within his Mana that seemed to be rewriting the item. Lily had never seen something like this before and couldn't help but wonder what it was.
+
+[Interesting…]
+
+{Do you recognize it?}
+
+[It looks like there's more to the headmaster than meets the eye. It appears he's been given a small portion of authority over this dungeon.]
+
+{He can control it?}
+
+[Not exactly… If the dungeon is the owner of the shop, then the headmaster is a manager. He has a small amount of authority, but only at the permission of the owner.]
+
+Lily sort of understood the analogy, although she had no idea how Headmaster Fabrelis had become the manager. Still, she would have to keep her questions for later as he had arrived at her and tapped her token. She watched with fascination as the strange Mana entered the token. Lily thought that was that, but right as he was leaving, she caught a faint smile across his face.
+
+Lily managed to hide her shock, but feeling uneasy, she asked Arakil. {Did he notice something?}
+
+[No, but I'm glad we left your token behind during the dryad incident. He's not only adding permissions to the tokens, but he also appears to be retrieving information from them.]
+
+{He can do that?} Lily asked, barely managing to keep a straight face.
+
+[It appears so, and he only took information from Lotte, Thomas, and you.]
+
+Lily swallowed, a little nervously.
+
+[Don't fret, I imagine it might have more to do with his surveillance eye being noticed. The dungeon swore not to reveal what happened, and it would not dare to break that oath. Still, I'm glad that I left those belongings behind when we went to… Negotiate.]
+
+Lily silently agreed. She had no idea what information could be gleaned from their passes, but if it showed her entering the lower floors, then the dungeon's promise would've been worthless.
+
+"Right, you all now have permission to enter the first and second floor officially," Fabrelis said, gesturing to the large doors that held the official entrance.
+
+"Assuming you get past the first floor, of course," Alice chimed in.
+
+"Quite right," Fabrelis said, with a nod. "Remember it's a marathon, not a race, even though we've granted these slightly ahead of schedule. If accidents start happening, or you abuse this privilege, it can and will be taken away. Do you understand?"
+
+The students quickly exclaimed a collective "Yes!", and with that, everything was finally over. They thanked Alice and Fabrelis and departed, each heading back to their rooms.
+
+Lily, Lotte, and Hana walked back together. Clarissa hadn't come with them, despite the same destination, most likely due to the awkwardness between her and Hana. When they arrived, Beatrice was waiting to warmly welcome them back to the dorm.
+
+"I'll have some food sent to your rooms, just this once, it sounds like you've all had quite an adventure," Beatrice told them.
+
+"Can you send it to Lily's room?" Lotte asked.
+
+Beatrice paused for a moment, then nodded. "Alright, but not too late now. You've got to rest up and be ready for when classes start again."
+
+They thanked her profusely, and the trio went to Lily's room. Opening the door to her room, Lily felt a tinge of nostalgia. While she hadn't lived here too long, it had already started to feel like home to her, so these two weeks away felt substantial.
+
+The girls all borrowed Lily's bracelet, using its magic to clean themselves again before they settled down for their meal. Most of them were still tired, especially Lotte, who, while better than normal, was still looking a little pale.
+
+After they ate, they stayed a little longer, enjoying tea that Hana provided and that Lily had brewed. The three had enjoyed tea parties a few times before, with Hana usually treating them, but at some point, Lily had refined a glyph to brew it perfectly, and soon Hana was merely the supplier.
+
+"You're really making it look like glyphs can do everything…" Hana sighed as she ran a finger along the mouth of the cup.
+
+"And you only saw half of it," Lotte chuckled. "Maybe when we've all unlocked the second floor, we can show you the fort we built."
+
+"I still can't believe it," Hana shook her head. "I thought the plan Arthur and Wallace cooked up was amazing, but it sounds like you outdid someone with an earth bloodline."
+
+"I didn't do it alone, though," Lily pointed out. "I drew it, sure, but Lotte and Thomas helped supply the Mana."
+
+Lotte flexed her arm and smiled playfully. "Damn right, I gave it my all!"
+
+"I suppose that makes sense," Hana admitted. "I'm comparing Wallace against the Mana of three people, which is unrealistic. Still… It's a big surprise."
+
+"You should join the enchanting class next year!" Lily said excitedly.
+
+Hana seemed to consider it, but then her gaze gradually took in the room and the countless pages with drawings on them. Not to mention the complex glyphs that still floated in Lily's room, providing various household functions.
+
+"It seems… Complicated," Hana sighed.
+
+Lily's excitement faded, while Lotte began to laugh. "Sorry, Lily, I think you and maybe your professor are the only ones who get excited over these. To the rest of us, they look like complicated scribbles."
+
+"There are other students…" Lily insisted.
+
+"Yeah, but how many?" Lotte asked.
+
+Lily went silent. Her class was small, and a few had already been kicked out or left of their own volition. Sadly, she had to admit that drawing glyphs was not something most people found enjoyable, and most had joined just on the prospect of earning a lot of money.
+
+"No comment…" Lily sighed again.
+
+"Speaking of which… Aren't you in a bit of trouble?" Hana asked Lily.
+
+"What do you mean?" Lily asked back.
+
+"Well, our first-year classes were postponed, but enchanting is for second-years," Hana answered.
+
+"Oh. Don't worry, I'm technically ahead of that class," Lily answered. "Professor Ollie gave me my homework, and I finished it before we left."
+
+Hana blinked a few times. "I see…"
+
+"She's ahead in alchemy class too," Lotte chimed in.
+
+"Only for now, but my headstart will run out soon," Lily insisted.
+
+"And glyphs?" Hana asked curiously.
+
+Lily paused, then shook her head. "I'm not sure about that. I have a very good teacher," her eyes flickered to Arakil's grimoire.
+
+"Don't you mean had?" Hana asked.
+
+Lily smiled awkwardly. "Slip of the tongue."
+
+Lotte didn't say anything, and Hana didn't press further. Either way, it looked like their tea party was going to be wrapping up soon, as all three were growing increasingly tired.
+
+"Do any of you want to run to Kaeling tomorrow with me?" Hana asked as they were departing.
+
+"Run!?" Lotte gasped.
+
+"Jog?" Hana offered.
+
+Lily and Lotte glanced at each other and then shook their heads apologetically.
+
+"Oh well…" Hana said, seemingly giving up on that idea.
+
+Lily waved goodbye to her friends and then closed the door behind her. Turning to Arakil, she let out a blissful sigh.
+
+"We're finally back…"

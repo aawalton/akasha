@@ -1,0 +1,111 @@
+---
+id: d285a161-6863-5a3c-bb61-fddbc3865598
+page-type-slug: story-chapter-royal-road
+title: "62: Perception"
+slug: 0062-62-perception
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 62
+ownLength: 1986
+unit: words
+publishedAt: 2025-02-28
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2094628/62-perception"
+royalRoadId: "2094628"
+---
+
+62:
+
+“After I deal with the archers, I won’t be able to come back until the fight begins,” Jack explained as quickly as he could, knowing that every second he delayed leaving for the archers’ dune was another chance their ploy could be suspected.
+
+“To keep their attention on you?” Sarah asked, a tinge of worry revealed in her tone.
+
+“In part,” Jack replied. “If I hunker down on the archer’s dune, they’re not going to walk into what is obviously enemy territory. If their leader has half the military training that he looks to have had, then he won’t hesitate to cut his losses and retreat if the scales look like they're tipping against him. As it stands, he is in a perfect position to retreat. He won’t though, because they still have seven to our four and the three that make up the command are unscathed.”
+
+“What do you think they’re going to do then?” Marcus asked.
+
+“The range they’re striking from is making their best cultivators ineffective. If I was their leader, I’d make the approach to the nearest vantage point, where my Qi Projections would have the best chance of hitting if I committed to more, my assassin would have ample opportunity to sneak around and try to hit the enemy from their flank and where my group would be able to both defend themselves and retreat if needed,” Jack explained.
+
+“You mean the dune we’re hiding behind,” Sarah all but exclaimed, a euphoric excitement spilling out into her tone as she was hit by the realization.
+
+“It’s a modestly sized dune, but that makes it easier to climb. And it offers a direct line of sight to the archer’s dune, where I will be,” Jack explained.
+
+“Wouldn’t it be better if we tried to make them retreat?” Jin asked, a light tremble running across her tone.
+
+Jack couldn’t blame her for that, being ambushed by a group of ten cultivators and then considering fighting them off wasn’t a matter of bravery anymore, it was a fight for survival.
+
+“We’re not dealing with beasts here,” Jack replied, his voice strained as he felt the seconds he was wasting tick by him. “Sarah, duck.”
+
+Sarah did as she was told, falling prone to the ground as an arrow whizzed overhead. It would’ve missed her, but only by a foot or two.
+
+“Remember that the enemy is a person and assume they have more knowledge and training than you,” Jack continued on, unfazed by the near miss. “No, I’ve already killed one of their archers. Leaders who rule through force cannot let challenges to their authorities go unanswered, otherwise people start getting ideas. He will be on the lookout for signs of deception and we still don’t know what artifacts they might have up their sleeve. There is no surrender beyond this point and letting them leave is to invite another ambush deeper into the desert. They started it and if we want to live, we need to end it.”
+
+The silence after his statement only lingered for a second or two, before Sarah asked, “When do we ambush them?”
+
+“Wait for as long as you can and use your Qi Projections as the opening salvo. Marcus, if you think your Dao Mark can do more damage, use that instead. Once you begin the ambush, fight as recklessly as you can— remember that I can still offer protection with Qi Projections of my own. Simply put, once you start, don’t stop.”
+
+“Do we— uh, have to kill them?” Jin asked, before she let go of the deep breath she was holding onto.
+
+“None of us are strong enough to offer mercy in the battlefield,” Jack replied, his tone stern. “If you hesitate, you will die. Don’t. Now, get ready. Once I leave, you will be exposed to the archers, but their attention will still partially be obscured by the Mist cloud and I’m hoping they don’t have reason to look elsewhere.
+
+“Okay,” Sarah replied in affirmative.
+
+Once again, Jack broke out into a jog. He could move much faster now, with him not needing to limit his speed to offer cover to his group, but if Jack wanted to hold onto the ruse of them moving as a group, he couldn’t.
+
+Still, he needed to find a way to keep the archers’ attention on him, otherwise the ruse would be over. It didn’t take a genius to tell why the archers had suddenly stopped firing at the approaching cloud of Mist Qi only to go after an unassuming sand dune instead.
+
+So Jack began to move in an erratic, zig-zag motion, the cloud of Mist Qi following him on his path. As he got closer to the archer’s dune, so did their desperation rise and as a consequence, the delay between each fired arrow got shorter and shorter until it felt like they were down to three or four seconds per shot. Through sheer volume of fired arrows alone they should’ve injured one of Jack’s group members by now, had they all been still hiding within the cloud of Mist Qi.
+
+Instead, it was Jack alone that lurked in the mists, his movement speed greatly enhanced by the Mist Qi as he dodged, ducked, weaved, combat rolled and even leapt out of the trajectory of the relentless barrage of arrows, all while feeling like he gliding across the ground instead of actively putting effort in running, so through the movement speed enhancement of the Mist Qi was.
+
+Then, as Jack approached the base of the dune, the barrage of arrows stopped.
+
+Half a minute later, Jack was well on his navigating around the dune instead of climbing it when he decided that the main group’s line of sight should be obscured enough, given that he could no longer see them at the top of the largest dune and they were likely making their descent down it.
+
+So, in case the archers had prepared another trap, Jack decided to stop holding back his speed.
+
+Finally, Jack was getting a return on the continuous Qi Point drain he was facing to keep the Pendant of the Mistwalker’s effect going. He blurred forward only to realize that the archers were no longer positioned on the top of their dune and instead found them in the opposite direction, running.
+
+“Shit, shit, fuck!” One of the archers, a brown-haired man, exclaimed. “I fucking told you Matt. We should’ve killed that bitch, Rachel and made a run for it!” He yelled, the rage in his voice a furious storm.
+
+“And get our hearts opened up by lances? Fuck, John, just shut it and keep running!” The second archer, presumably Matt, shouted back with venom in his tone.
+
+Lances? Jack’s eyes narrowed at the archers as he tamped down on the part of him that was conflicted at the sight of the fleeing archers. It was clear that the archers weren’t following orders entirely willingly, but at the same time they could’ve fled way earlier if escape was their sole goal and Jack’s group would in all likelihood still have ended up clashing with the middle-aged man’s group.
+
+Instead, they had chosen to relentlessly target him and his group, hunting them down with intent to kill. Had the arrow found Jack’s throat when he was distracted, it would be him that would be lying face down in the sand, with his blood dyeing the sand red.
+
+If he let the archers that had come after his group leave, he would not only be betraying his group, given that all four of them had been attacked without any provocation or warning, but he would also expose them all to the archers returning after Jack’s group clashed with the main group to either return to their leader’s side or finish Jack’s group off after they had expended their stamina and Qi reserves.
+
+I wish I was strong enough to show mercy, Jack thought, as he blazed forth towards the archers.
+
+“Matt, the fog!” The first archer, John screamed out in panic. “It’s gaining on us!” He cried out in warning.
+
+Matt hurriedly sneaked a peek behind him in response and Jack watched as the man’s expression paled in real time, his eyes going wide in shock as he narrowly avoided tripping over his own feet, saving himself from a stumble.
+
+“How the fuck did it get so fast!” Matt asked, the horror dripping from his tone as his steps grew longer in an effort to speed up.
+
+“I don’t fucking know—,” John trailed off as the misshapen fog cloud swallowed his form whole, followed by Matt.
+
+He stumbled and slammed into the sand as his visibility was snatched away from him, more from the shock of having succumbed to the enemy’s trap than it was because he couldn’t maintain balance.
+
+“D-Don’t come near me, you fuckers!” Matt threatened as he nocked an arrow with trembling hands, waving his bow across his field of vision, as covered by fog as it was, in search for the enemy. The tip of his bow lit up with Qi Arrow’s signature azure glow, making it a very real threat. “I swear I’ll run my arrow right through you!” He screamed again.
+
+I really do wish I was stronger, Jack thought as he plunged his blade in a clean thrust to the heart, making the archer’s death as painless as he could. Besides a gurgling as the life ebbed out of him and unconsciousness claimed him, with shock the last expression etched on his features, there was no other sound that followed.
+
+“Matt?” John called out about a minute later. “Matt, are you still…,” He trailed off, as he pivoted and fired an arrow exactly behind him.
+
+The archer’s perception stat was higher than Jack had anticipated and he had feigned his fear so well that Jack had bought into it as he made his approach. Had Jack not instinctively brought his Shield of Greater Deflection to shield his face in time, there was no doubt in his mind that the archer would have been successful in blowing his head off his body.
+
+As it stood, the stored Wind Qi in the Shield of Greater Deflection fought against the impressive force of the arrow, before it succeeded in blowing it away.
+
+It’s better this way, Jack thought, noting that even as the archer looked shell shocked at Jack managing to defend against his Qi Arrow, it didn’t stop him from nocking another one.
+
+Instead of charging at the archer to close the distance, Jack dove forward and committed to a roll, a maneuver that was only possible in armor because his Jade Guard Armor set quite literally moulded to his body.
+
+As soon as Jack landed on his feet, he swiped out with the flat of his blade even as he was still crouching and slammed it onto the side of the archer’s right knee, causing it to buckle inwards.
+
+A startled yelp escaped the archer as he found himself down on one knee and Jack capitalized on it by calling upon the artifact’s Moon-flow ability. Moon Qi ensconced his blade as Jack thrust forward with enhanced speed and force, catching the archer in his heart.
+
+As the strength left the archer’s arms, Jack’s gaze turned upwards, not wishing to avoid witnessing the price he had to pay to hold onto his humanity. Instead, he realized that the archer was offering him a soft smile even as his eyes contained a raging fire of hatred that sent a chill down his spine even as blood dribbled down the archer’s mouth.
+
+The archer’s hands had indeed dropped, but he was still holding onto his tensioned bow, the tip of which alighted with one last spark of Qi. Then the strength left the archers hands entirely, releasing his hold over the bow and arrow and letting the tension loose.
+
+Fuck.

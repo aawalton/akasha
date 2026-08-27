@@ -1,0 +1,157 @@
+---
+id: 4105f748-4109-52cd-8b68-2a965fd3cf28
+page-type-slug: story-chapter-royal-road
+title: "v6c60: Mountains and Hills"
+slug: 0249-v6c60-mountains-and-hills
+partOf: beware-of-chicken
+position: 249
+ownLength: 1920
+unit: words
+ownProgress: 1920
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2558079/v6c60-mountains-and-hills"
+royalRoadId: "2558079"
+markedReadAt: "2026-06-29T18:59:56.432Z"
+---
+
+And so Yun Ren found himself heading home again. Instead of just heading back over the mountains, they went south first, to where the rest of the foxes had been waiting out the winter. It was a very bumpy journey, as Bi De once more took the opportunity to train his flight technique. He still couldn't turn properly, which was frustrating the rooster to no end. Their camp at night was full of diagrams and moon phases he drew in the snow, muttering to himself.
+
+Their pace was unhurried. It was kind of funny. The times they said it wouldn’t take long, they were delayed. Now, when they purposefully gave themselves a lot of time in case there were delays, they finished what they were sent to do early.
+
+The heavens were laughing at them, probably… but Yun Ren was glad things had actually gone smoothly this time. He would have hated it if every time he left the province there was some kind of bad incident to deal with.
+
+Well, there was a bad incident, it just so happened to be resolved without them.
+
+“Oh? Fengyan is quite upset,” Shen Yu mused when they saw the Imperial Declaration of Censure that was plastered front and center on the local village sign board.
+
+“What does it mean?” Bi De took the initiative in asking.
+
+“A Declaration of Censure is not that damning in what it directly does to a sect that receives it,” Shen Yu explained. “It merely strips them of their guarantees as a sect. They are barred from tournaments for a time, must pay taxes like they are mortal subjects, and are no longer allowed to call mortals to arms.”
+
+“And I’m guessing with it being shouted out like this that the outcome is going to be… not the greatest for the Frozen Cloud Sect?” Bi De continued.
+
+Shen Yu’s smile was not a pleasant one. “What do you think the people of Verdant Hill would do if the Lord Magistrate announced to the population that a certain family had spat upon his good will and lawful orders?”
+
+“Oh, they’re gonna be driven outta town, but… cultivator style,” Yun Ren said. He would have felt sorry for them… if he hadn’t seen the aftermath of one of the towns left to fend for itself due to the Frozen Cloud Sect’s actions in hampering their regular defenders.
+
+“Indeed,” Shen Yu replied.
+
+They continued their journey after that, and it did not take long for them to reach their destination, which was hidden under an illusion. Without Nezan’s directions, they never would have been able to find the place. But with Nezan’s direction, and Yun Ren being able to feel the illusion, they broke through the veil and found themselves in a picturesque valley.
+
+People looked to the sky, at first with concern, but then they pointed and cheered when they realised who it was and started waving.
+
+They set down just outside of a manor compound, and Su Nezuhua, the owner of the Den of Delights, was there to greet them.
+
+“Lord Shen Yu! Young Master!” she said with a bow. “It's good to see you again!”
+
+==============================
+
+They were quickly welcomed into the compound, which had enough room to house several hundred people. Unlike last time, where basically everyone had been adults due to Nezan considering the possibility of war, this time there were more families than fighters.
+
+Gaggles of children, bundled up in winter clothes, played games and chased each other around. Out of the hundred or so children Yun Ren had seen while walking through the compound, less than an eighth of them had real fox tails and ears—the rest were fake, and Yun Ren counted only two actual foxes amongst all the children he saw, gamboiling around with the others.
+
+“It’s been so long since we’ve gathered in such numbers, and even longer since we took account of our families. This is… well, this is most of us,” Nezuhua told him as they settled in with food and drink.
+
+“There's more of us than I thought. I still can’t believe that the hunts have actually stopped, most days,” Nezuhao mused. The wizened old woman was the one who owned and maintained the various scattered manors and safehouses. Her voice was melancholic, a raw and personal pain showing momentarily as she turned her old eyes on Yun Ren. “You have our gratitude, Young Master. Should you ever need anything…”
+
+Yun Ren nodded solemnly at her voice. There were more of them here than they had in Hong Yaowu, that was for certain, but there were at most a thousand or two people in the foxes’ tribes in total. He understood the gravity of the situation. There was no denying the debt; it would dishonor what they’d lost. Instead…
+
+“I do actually have something you can do for me,” Yun Ren said after a moment. His words made them all straighten up. “Y’see, you know how you were going to meet with Grandpa? Well, uh… how about you all come to my wedding as well?”
+
+The tension and preparedness immediately went out of the foxes, and the two women gave him warm smiles.
+
+“We wouldn’t miss it for the world, Young Master,” they replied.
+
+“Good! Grandpa would tan my hide if you all weren’t there,” Yun Ren said, to the amused chuckles of the other foxes.
+
+They stayed the night with the foxes—there was good food and drink, and Yun Ren showed off his recordings to all the kids.
+
+He offered to escort them home, but they had their own plans. Yuanlin would be coming to get them, and they already had plans with her, so they were sent on their way.
+
+Through Stone Gate, and back toward the Dueling Peaks.
+
+==========================
+
+Caring for so many families was a demanding job, Nezuhua mused, completing another ledger, but a rewarding one.
+
+It had been so very long since she had seen so many children. It had been a few days since the Young Master’s visit, and she had been very busy arranging everything for their trip to the Azure Hills.
+
+“Hey all, I’m back!” Yuanlin’s bold voice echoed through the compound as she strode into the meeting room, her smile bright and her pointed teeth on full display. Nezuhua chuckled at the booming greeting. Yuanlin’s ears were positively bouncing along with her tails—though what was new was the blue scarf around her neck, decorated with geometric patterns. It was quite a fetching piece. “And we gotta get ready! The Young Master is getting married, and we’re all invited!”
+
+“The Young Master stole a march on you!” Nezuhao retorted. “Tell us some actual news!”
+
+“Ah, he was here already? Good!” Yuanlin said, before looking around in the meeting room. It was just Nezuhua, Nezuhuo, and the newly arrived Xue Ji, the severe-looking clerk fresh from her own travels. “Where’s Da Jin?” Yuanlin asked, referring to Nezuhua’s assistant.
+
+“She has taken over the Den, as we thought it prudent to keep it open,” Nezuhua replied.
+
+“She had been leaving her post and meeting with Che Han, before the whole thing with the Frozen Cloud Sect. She thinks she's being sneaky about it,” Xue Ji added absently.
+
+“Oho?” Yuanlin asked, leaning in with a predatory grin and ready for some gossip.
+
+Nezuhua put a stop to the gossip before it could begin, clapping her hands. The wild-looking woman turned to Nezuhua.
+
+“How was the Azure Hills, Yuanlin?” she asked.
+
+“We should move there. As many as can be convinced to go. As soon as possible,” came the instant response.
+
+Yuanlin, despite her wild appearance, was known for being a measured and cautious woman. Though her rescue of her kin looked bold, each rescue was a masterwork of planning that eliminated every possible risk factor.
+
+Her favouring such a bold strategy was very unlike her.
+
+“Truly?” Nezuhao asked, her voice wavering.
+
+“For the first time in my life, I felt completely safe. I didn’t feel like I had to watch my back. I didn’t feel like each day was a risk. Maybe it's just how I lived before this, but…” Yuanlin trailed off.
+
+“It was that good?” Xue Ji asked, her eyes focused.
+
+“There’s land. There’s people who don’t want to kill us, but more importantly, people who actually like us, instead of just tolerate us to fuck with the Shrouded Mountain Sect. Our kin… the Nezin tribe, when they heard about our story, they looked like they wanted to load up, come to the mountains and fight anyone who tried to hurt us,” Yuanlin smiled and ran her hand along the scarf she was wearing.
+
+Nezuhua felt her heart tighten. Their kin barely knew them… and they wanted to march all the way here to help them?
+
+“They sound like good people,” Nezuhua whispered.
+
+“They are,” Yuanlin replied. “It’s a hard life they got up there, make no mistake. They’re nomads, hunters, and traders. Mortal as can be, except for the Young Master and his younger brother… but they care.”
+
+There was silence at her declaration.
+
+“And… the location would be safe?” Xue Ji questioned.
+
+Yuanlin grinned. “Well, first there's a Cloudy Sword Sect outpost that I managed to assist…. and got the personal thanks of Elder Xiao Ge of the Cloudy Sword Sect for doing so,” Yuanlin said, buffing her nails on her robe. Nezuhua’s jaw dropped. Nezuhao’s wizened eyes opened fully for the first time in several hundred years. Xue Ji’s fur puffed out, her tail appearing of its own accord.
+
+“What?” Nezuhua breathed.
+
+“Then there's Master Jin, who is a great guy by the way. He’s exactly like the Young Master and his friends described. He was also upset on our behalf, and didn’t look opposed when I casually mentioned a few of us moving into the area. And then there's his scary Grandpa, Lord Shen Yu.”
+
+The room was silent.
+
+Family, protection, and a new start.
+
+“It almost sounds too good to be true,” Nezuhao muttered. “What’s the catch?”
+
+“We have to petition the Lord Magistrate,” Yuanlin said.
+
+“Is that all?” Xue Ji asked. That would probably be Nezuhua’s job. She’d give him the best service he ever had, and some pillow talk later, they’d be in. And if that failed, possibly an illusion ——
+
+“And convince him, properly,” Yuanlin cut off that train of thought. “No illusions. No pressure. No bribes, no… foxy wiles. Just a good case of why we would be a benefit to his commandery because otherwise the Cloudy Sword Sect and Master Jin will get mad at us.”
+
+What kind of Magistrate is that?! Nezuhua thought with trepidation. To have both the backing of the Cloudy Sword Sect and Master Jin?
+
+“We make good alcohol,” Nezuhua mused.
+
+“I can secure a glowing recommendation from the Imperial Palace,” Xue Ji stated, referring to her job in the capital of the province as one of the Lord Governor’s aides.
+
+“Wood working, pottery… isn’t little Lihua’s branch architects?” Nezuhao asked.
+
+They spoke long into the night. They wouldn’t abandon the Howling Fang Mountains entirely. It was, after all, their home.
+
+But sending some of their number to set up a new den, safe, and amongst kin… that was certainly attractive.
+
+They prepared and made ready to move.
+
+=======================================
+
+And thus did the last weeks of winter begin to fade.
+
+The snow melted slowly, calmly, pulling back from the world. The sunlight started hitting soil instead of ice.
+
+The time of change was upon the world.

@@ -1,0 +1,125 @@
+---
+id: 653f330e-a38e-562b-84d6-f501179536b9
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 46 - Decay"
+slug: 0050-b3-chapter-46-decay
+partOf: bookbound-bunny
+position: 50
+ownLength: 2249
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3447398/b3-chapter-46-decay"
+royalRoadId: "3447398"
+---
+
+Classes continued on as if nothing major had changed. It seemed that after the initial rush to test them early, the staff weren't actually entirely sure on how to appropriately progress from there and fell back on their usual curriculum.
+
+Lily didn't really mind, though, as this slower pace suited her better and allowed her to put more focus on her own studies. Naturally, whenever she could, she would practice rolling the spheres in her hand, hidden under the desk. True to his word, Arakil had started teaching Lily more crystal components so she could prepare for their next dungeon expedition, and these took up her evenings almost entirely.
+
+The crystal seed component alone was perfectly suited for Lily, but the more she learnt, the more she felt that if her heart hadn't been stolen by the stars, she would've gladly picked it. Of course, whether by fate or chance, she hadn't and now wouldn't have to suffer the consequences of blatantly stealing from an established clan bloodline.
+
+What Lily was not pleased about was the lack of any progress on recreating her ethereal hand. No matter how much she tried to focus or strain her brain, she wasn't able to even conjure so much as an ethereal fingernail, let alone the hand. At this point, she realized that she wouldn't make any progress until her next lesson inside the grimoire.
+
+The week went by without much fanfare, the highlight being when she finally met up with Rose again and shared some of her recent experiences with her big sister. At the same time, she finally gifted her the crystal star, which was instantly snatched and enthusiastically cherished.
+
+Seeing this, Lily knew it was the right call to have her friends hide their own until Rose was gifted hers first. Yes, dragons were known to be greedy, but she hadn't expected a reaction to this degree.
+
+Sensing that this was an opportune time to try digging up some useful information, Lily spoke loosely about her group's plan to speed through the dungeon in an effort to unlock the second floor. Lily had hoped Rose's inability to keep a secret would tell her if she was on the right track, but almost uncharacteristically, there was no sign of anything but confusion.
+
+"Where did you get that idea from?" Rose asked.
+
+"I read about various dungeon trials; from puzzles to goals to room completion, and everything in between," Lily explained.
+
+"Then… Maybe you're right?" Rose shrugged. "I'm actually surprised none of the groups have made it yet, but then what you're saying makes sense."
+
+Lily went silent, staring at her sister as if she had grown a second head. "Do you not know how you cleared the first floor?"
+
+Rose chuckled and shook her head. "I just went through the dungeon, and eventually found myself on the second floor. Honestly, that was how most floors go for me unless I was restricted by my access level from progressing further."
+
+Rose's blunt answer left Lily speechless. Yes, such an answer was oddly fitting of the dragon that could brute force her way through anything, but hearing that it was actually the case was humbling.
+
+It's no wonder nobody in her year can keep up with her, and she has to set her sights on her seniors for a challenge.
+
+Compared to Lily's year, which seemed to have talent and prodigies popping out of the woodwork, it was a stark difference. If anything, it was almost like Rose was born in the wrong generation, or perhaps she was just the herald of things to come.
+
+"By the way, which school competitions are you entering?" Rose asked.
+
+"Alchemy and the dungeon duo gauntlet," Lily answered.
+
+"Not glyphs!?"
+
+"First, well, second years don't have anything to compete in," Lily explained. "From what Professor Ollie told me, it's not till the third year that they actually learn to apply enchantments."
+
+"I guess that makes sense… I was expecting you to blow away the competition," Rose revealed.
+
+"Next year, assuming they let me compete as a second year," Lily replied with a smile.
+
+"They'd better, otherwise someone might argue in your third year that you're receiving fourth year lessons!"
+
+Lily frowned. That was definitely a possibility. Either she competed as the youngest in the group, or she risked someone throwing a fuss about her receiving an unfair advantage. Which was true, after all, when it came to glyphs and inscriptions, there could be no greater advantage than apprenticing under Arakil.
+
+Rose and Lily continued to catch up, including a conversation involving Arakil himself. Neither of them mentioned the mental landscape, though, as Lily was concerned it might cause Rose to unnecessarily panic. Lily didn't want to keep a secret from her big sister, but something in her gut told her it would be better if she actually had results to show for it.
+
+If only I could at least make a phantom finger, then maybe I could finger paint.
+
+As for Rose's involvement in the competition, she was taking part in the duels and the dungeon gauntlet, as expected.
+
+"Are you not entering the farming competition?" Lily asked with a slight teasing tone.
+
+"Ugh… No," Rose grumbled. "I tried once, but I didn't put in enough effort to get any results. I tell you, some of those kids are crazy about plants. I just let them grow; I thought quantity was good enough, but some of them get involved in cross-pollination, grafting, and all sorts of other experiments. It's too much for me."
+
+[I could offer some advice.]
+
+Rose shook her head. "It would take up too much of my valuable dungeon time. I'm not joking when I say that I sort of just let them grow on their own. I even have a few helpers to water them when I'm deep down. As for the kids who win those competitions, honestly, most of them haven't even gotten to the third floor yet… It's embarrassing to be in the same class as them."
+
+Lily gave a pained smile at how brutally honest Rose was. Regarth was quite possibly the only school that could hold her attention long enough, thanks to the dungeon beneath it. If she were in any other school, no doubt she would've run away out of sheer boredom to become an adventurer.
+
+Rose eventually reversed the question, asking why Lily didn't want to compete in the dueling competition. Truthfully, it was a good question, as Lily could quite easily win it if her performance in PMC was any indication. However, dueling wasn't exactly fun for her, and it seemed that anyone who fell victim to her Lunar Eclipse held quite the grudge against her.
+
+"I'll represent Regarth if they ask me, but for the internal competition, I'd rather not," Lily answered honestly.
+
+While Rose looked a little disappointed, she seemed understanding of Lily's feelings. She was also well aware that preparing for the dueling competition would take up valuable time Lily could be using for drawing glyphs, brewing potions, or who knew what else. They parted ways, wishing each other good luck on their dungeon adventures and promising to watch out for each other during the competition.
+
+Rose is going to be bored out of her mind watching a bunch of us brew potions, oh well… Lily giggled to herself.
+
+When the weekend finally came around, Hana and Lotte were eager to attempt their speed run through the first floor. They were hopeful of getting it on their first attempt, and while each of them had made preparations, they were unsure whether it would be enough.
+
+They entered the dungeon confidently, and at first, things went quite well, and they didn't need to exert much effort to quickly clear each room. Usually, they would take their time to comb through for any hidden loot, but Lily abused Arakil's superior magical sense to expedite things.
+
+After clearing multiple rooms in quick succession, things started changing as later rooms suddenly had more monsters, or traps, or combinations of the two. None of their previous attempts had escalated to this extent, which lent credence to Lily's theory.
+
+With the dungeon ramping things up, the group had to start using their prepared resources, and they unfortunately fell a bit short. Hana, in particular, didn't have enough time to practice using the crystal discs in conjunction with her casting, leading to missed shots and wasted items.
+
+It was disappointing but perfectly understandable, given the less than a week before this attempt. To make up for the lack of practice, Lily tried handling the discs with telekinesis, but this resulted in her own performance declining. Yes, she could easily use telekinesis and her Nebula Veil concurrently, but other spells were still a struggle, and trying to draw a rune was out of the question.
+
+To counter this, Lily pulled out her own aces: the crystal seeds and talismans she had prepared beforehand, and this seemed to stabilize the situation as they continued to progress rapidly against the clock.
+
+Her talismans were all old tricks she'd shown before, so they weren't worth mentioning, but the crystal seeds were new to everyone, including herself. Yes, Lily had drawn them herself, but she had not had a chance to use them due to a lack of privacy, nor did she want to destroy her room in the process.
+
+The three types of seeds Lily had prepared all revolved around the formation of rapid crystal growths. The attack variety caused the crystal seed to grow into jutting spikes, like beautiful yet dangerous stalagmites that had rapidly formed. The defense variety rapidly grew into a barrier, with surprising durability that made her earlier earth-wall talismans fall into obscurity. The final seed was a support or trap variety, and it would grow across the floor and then upward into anything it caught, and it was enough to even half a Brassbound in its tracks.
+
+The question on everyone's mind when these were first revealed was obvious: how could so much crystal grow so fast? Even taking into account that the seed was dormant, with most of the Mana paid for and hidden within, but to grow so much and so fast could not be cheap. Thankfully, the answer was soon revealed, especially with the attack crystal seed, as only a few breaths after its piercing formation did it crack like a frozen lake. The cracks multiplied exponentially, and then, with a crash, the entire crystal stalagmite shattered into fragments of dust.
+
+[With rapid growth often comes hasty decay. If you capitalize on this natural link, you can force out the extreme on both sides.]
+
+This was one of the lessons Arakil had given Lily when designing crystal inscriptions, and was obviously not included in any of her previous drawings, since she wanted them to last. By intentionally including a glyph that decayed the crystals, giving them a harsh time limit, one could reduce their expenditure and push their growth to the extreme.
+
+The results spoke for themselves, and while Hana lamented the loss of so many beautiful crystals, it also had the added convenience of not leaving behind evidence. Not that Lily was paranoid about her dungeon exploits somehow being leaked to the Mustelia clan, but it was certainly convenient.
+
+At the same time, Lily finally realized that Arakil was probably not trying to tempt her away from Astral magic. This lesson on the balance of growth and decay was greatly beneficial for her and was effectively her first step towards understanding the true power behind inscriptions. They weren't just a bunch of glyphs slapped together, as with proper thought and care, you could bring out something truly marvelous.
+
+It's a pity that growth and decay probably only apply to crystals and, I'm guessing, plants. I can't think of anything else where I could use these from the crests or glyphs I've currently studied. Then again, I wouldn't have thought crystals counted as 'growing' before today, so maybe Arakil has more secrets in store for me.
+
+Sadly for the trio, despite their best effort with the preparations they had made, their curfew was reached before they achieved their objective. However, despite not succeeding, they had all but confirmed that they were on the right track. When they returned from the dungeon and had a debriefing, Lily even pointed out a few things she had noted.
+
+"It looks like the difficulty increases with every five rooms we clear, with every tenth being a significant jump," Lily explained.
+
+Unfortunately, by the time Lily had noticed this occurrence, they'd cleared an unknown number of rooms beforehand, so they didn't have a total number from that day. If she were to give a rough estimate, then she'd guess that maybe they needed to clear fifty rooms to unlock the second floor.
+
+"I'll be ready for next time!" Hana declared, a fire burning in her eyes.
+
+"Even if we don't get it next time, this was still a great experience," Lotte replied.
+
+Lily nodded in agreement. Even their stay on the second floor hadn't yielded so much refinement for her Mana Core in a single day. While she was eager for her next attempt, she was looking forward more to her promised lesson with Arakil inside the grimoire.
+
+I'll have to try to cram in both during the next weekend. It'll be tight, and I won't have room for anything else, but I don't want to let Hana or Lotte down.

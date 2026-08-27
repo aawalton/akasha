@@ -1,0 +1,103 @@
+---
+id: 12e92dda-7604-5a85-b351-8d045abfd5aa
+page-type-slug: story-chapter-royal-road
+title: "79. Familiar Chords"
+slug: 0079-79-familiar-chords
+partOf: breaker-of-horizons
+position: 79
+ownLength: 2179
+unit: words
+publishedAt: 2021-02-01
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/623591/79-familiar-chords"
+royalRoadId: "623591"
+---
+
+Jerric's unveiling of his own thoughts was a disturbing thing to witness, and Kevan couldn't quite make sense of it all since he was still struggling with wrapping his head around what was happening in this arcanic space. But the shape of Jerric's auric-ambient-flare left him feeling uneasy. No, wait, uneasy wasn't quite strong enough. Unsafe. It was like suddenly realising he was standing near a wild bear who hadn't yet spotted him. There was the same thrill of fear and excitement he had felt while out in the wilderness with Ly as they tracked big game, only this was a little less welcome since he wasn't prepared at all. Why was Jerric, of all people, putting out such a palpable sense of danger?
+
+He instinctively retreated, his mote-like consciousness shrinking until it was possible for him to hide in the strands of his own auric-ambient-flare. It put him uncomfortably close to another memory, but with sheer force-of-will, he held the stream of emotions and echoes at bay and settled in to listen.
+
+Devon was there, too, his presence immediately perceptible as he retreated a little from Jerric. 'Okay,' he answered, and somehow Kevan could picture him huffing even though there was no real body language to read in this space. 'We'll watch each other's backs.'
+
+Curious, Kevan drifted a little closer. He wasn't sure what they were up to, but what caught his attention was how they were maintaining their sense of self in order to more easily navigate the arcanic space. In his frame of reference, they seemed to be nothing more than little motes of consciousness like himself, but they were wrapped in little cocoons. How did that help?
+
+Experimentally, he completely abandoned any attempt to marshall his arcanic form into a tiny humanoid version of himself, and instead relaxed more fully into being that little fuzzy mote. The vague sense of having limbs vanished entirely, leaving him momentarily disorientated. Panic began to rise as the world around him turned strange and alien now that he was left without a familiar frame of reference, but he grit— no, there no teeth to grit! He had no mouth, and he—
+
+What happened next was an insane blend of relief and horror. His perception shifted, and somehow he was all the way back at the core of his auric-ambient-flare, staring at the full spread of his own thoughts as they played out in real-time. He watched as a tendril from his own mind twisted and twined around the part of him that was panicking. With brutal efficiency, it rapidly choked off the flowing stream by dumping in a slurry of self-loathing and anger. Don't you dare start whining and snivelling. Get it together.
+
+And his auric-ambient-flare calmed. The panic petered out. In its place, the slurry hardened into firm resolve, and Kevan could feel himself calming down and steeling himself as he had done innumerable times before in the past. Now, he felt strong. In control.
+
+But that familiar sense of control was rapidly unravelling now that it had been revealed for the sham it was. The slurry cracked, then melted again into a morass of corruption. More emotions were pouring out now, and although tendrils from his mind worked to instinctively stem the flow, they worked too slowly to keep up with the flood that was washing over him now, and their movements were half-hearted as he floated there, almost completely bereft of spirit.
+
+He now felt broken and sad because he could see it all laid out so clearly. This was who he was — just a tangled knot of pain and self-loathing, with anger thrown into it that was directed at everyone, including himself.
+
+The sense of being overwhelmed intensified, and now despair was leaking out all over his auric-ambient-flare, seeping into all the crevices, like tears—
+
+—flowing down his six-year-old cheeks, wet and hot. It helped to focus on that, instead of on the stinging welts on his palms.
+
+"Don't you dare start whining and snivelling," his father growled, bringing a cane down on the table next to them. Kevan flinched, but he knew better than to run. He forced himself to stay there, hating himself for trembling. The cane hovered ominously right in front of his nose, and he almost went cross-eyed from trying to keep its point in view. It helped to focus on anything besides the pain. If he ignored the pain, he'd be able to stop crying sooner.
+
+"Look at me." Immediately, Kevan's focus shifted from the tip of the cane to the face behind it, but it was hard to properly focus on that because of the tears. And then it was all over, because he had lost focus. His hand felt like it was on fire, and now his breath was coming in choking sobs again as the pain came to the front of his awareness. He blinked furiously to clear his eyes so he could look at his father and ignore the pain, but more tears flowed, and now he was panicking because he was starting to cry again, and that meant—
+
+This time, Kevan did not wrench himself out of the memory. All the fight had gone out of him as he recognised how early he had begun to squeeze off his own emotions, and with that realisation came a sense of utter hopelessness. And once he had given up completely on having any hold over his emotional state, he had slid right out of the memory and back into the arcanic space. The emotions of that memory no longer snared him or snagged on his consciousness because they had nothing to resonate with.
+
+He had no idea how long he floated there, a little disembodied mote, wracked with unspeakable grief for himself and how badly he had strangled his own mental and emotional self. What wouldn't he have given to have an auric-ambient-flare as clear and smooth as Caden's? Even now, he could recall little snatches of memories that had flashed by when the augera had laid Caden's psyche out before them. There hadn't been many details, but it had been suffused with so much warmth, so much happiness. And there had been brief flashes of comfort and safety, of being glad to be in the shadow of a father, instead of being terrified of that shadow.
+
+Gradually, as he allowed his own grief to flow through him and as he gave himself over fully to feeling every horrid pang of it, he realised that the grimy mess of his own auric-ambient-flare had loosened a little. It was still tangled, but the knots were not as tightly drawn as before. A rare blossom of guiltless relief sparked through it all as he realised this.
+
+'But what a shitty way to have to deal with this,' he muttered to himself, watching that thought racing through his own mind.
+
+And it was shitty. Particularly shitty because it wasn't totally his fault. The memory had made it clear — he had started down this path of ruthlessly culling his own emotional life because of how his father had raised the two of them. People always thought of Ly as the more reasonable and well-adjusted twin, but they had no idea how messed up he really was inside too. But Kevan knew. The two of them had gone through the same things, and although he admired Ly for being able to keep a better lid on all of it, he knew that his brother hadn't come out of their childhood unscathed either. It was down to their father.
+
+Before he could fall into seething anger, that little note of resentment against his father found a sudden and unexpected echo. But what was surprising was that it wasn't coming from his own auric-ambient-flare. Startled, his little mote of consciousness spasmed and flitted off in the direction of the echo, trying to locate the source.
+
+All at once, he remembered that he had been observing Devon and Jerric before he had fallen into his own mind again. Perhaps it was them? But what was going on? Kevan struggled to navigate the arcanic space in his mote-form, though the echo gave him something to focus on. He barrelled clumsily towards it, and turned a corner—
+
+—straight into the Duke. Devon had been running at full-tilt through the corridors, laughing and squealing, with the governess hot on his heels. When he recovered and realised who he had run into, all the mirth drained out of his face and his heart was seized with sudden fear. The governess rounded the corner as well, and he felt her freeze, the laughter dying on her lips.
+
+"Your Grace." The governess managed to compose herself with admirable speed. He wished he could become calm just as quickly. "Please accept my apologies for disturbing you. I'll bring Lord Devon back to-"
+
+"No," the Duke said, glaring severely down at Devon. "You will leave him with me. I will teach him to comport himself with more dignity, as befits his station."
+
+"As you wish, Your Grace." The governess bobbed a curtsy and turned to go.
+
+"Governess Lane." The Duke's voice was cold. Devon knew that tone. Nothing good was coming next.
+
+The governess turned, looking a little apprehensive. "Yes, Your Grace?"
+
+"I think we have had the measure of you after these two weeks. I thank you for the services you have rendered to my family, but I think you are not quite suited for your position here. You may finish the week, and we'll pay your wages for the next month as well, so you should be able to set your affairs in order."
+
+Devon's heart sank. He liked Governess Lane. He risked a backwards glance at her and was both gratified and crushed to see that she was looking just as crestfallen as he was at this turn of events. He bit on his lower lip hard to stop himself from blubbing, because that would surely displease the Duke. He always had to worry about whether—
+
+Kevan retreated hastily, swimming around the arcanic space in confusion. That had been completely different from seeing Caden's memories. He had fallen right into that one as completely as he had fallen into his own memories, and it was so hard now to separate his own mind from the echoes of Devon's. That brand, that flavour of bitterness against his father, the Duke—no, against Devon's father...
+
+'Oh shit.'
+
+That mind... was Devon's. Kevan's mote shook itself out as he tried to get his bearings. It was the closest he could come to trying to loosen his limbs in this weird arcanic space. Once he had finally centred his frame of reference again, he realised his mote was not alone.
+
+Devon and Jerric were drifting there, encapsulated in their little bubbles.
+
+'Hi,' Devon sent, conveying sheepishness, guilt, and raw fear in such quantities that they almost overshadowed his words.
+
+'We can explain,' Jerric jumped in quickly, somehow managing to radiate an aura that reminded Kevan strongly of green trees and cold moors.
+
+'Explain?' Kevan echoed, still a little confused. He oriented himself towards Devon's mote. 'Was that... did you...?'
+
+'That was my memory, yeah,' Devon supplied, quickly reining in all the emotional spillage so that his thoughts came through a little more clearly.
+
+'Any luck finding stuff about Caden?' Kevan asked, still trying to keep his mote together, and finding it particularly difficult now that there were two other people nearby putting out emotional and mental interference.
+
+'I... uh, we...' Devon was putting out more perturbations, and Kevan was quickly losing his cohesion.
+
+'Okay, stop, move away a little,' he sent tersely, trying to focus on something else, anything else, before Devon's panic brought on another memory. The aura of calm from Jerric was a little useful, but if he paid too much attention to that, then he'd slip into other memories too, albeit happier ones, of time hunting with Ly and with a father who was a little less adversarial.
+
+'Here, maybe this will help.' Even though Devon was still failing to properly rein in his own spillage, he managed to quickly throw a bubble around Kevan's mote. The moment his mote of consciousness was enveloped in that bubble, it became significantly easier to separate his own feelings from the ones bleeding out from Jerric and Devon.
+
+'Thanks.' The relief was immediate, and somehow the bubble even made it less awkward for him to orientate himself. A cursory study of it told him that it was formed using the underpinning principles of a few glyphs.
+
+'Is this from the anti-ensorcelment sequence?' he asked.
+
+'Yep.' Devon's replies were guarded, but the faint note of admiration in Kevan's question made him relax a little.
+
+'Clever,' Kevan muttered. But it was slowly dawning on him that if Jerric and Devon were looking for Caden's memories, then it was highly suspicious that they were here, in his auric-ambient-flare, instead of in their own.
+
+'... you guys wanna tell me what you're doing here?' he asked.

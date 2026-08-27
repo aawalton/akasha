@@ -1,0 +1,261 @@
+---
+id: cc7d1143-5d43-57e2-ac46-e76af66b0b97
+page-type-slug: story-chapter-royal-road
+title: "v7c59: Last Days at the Peaks"
+slug: 0312-v7c59-last-days-at-the-peaks
+partOf: beware-of-chicken
+position: 312
+ownLength: 3265
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3430209/v7c59-last-days-at-the-peaks"
+royalRoadId: "3430209"
+---
+
+The distance to the Verdant Blade Sect’s manor in the Dueling Town was short, and the streets were now much less crowded. They went with all of their friends, as the offer for tea was rather informal. Even Xiulan joined in, taking a break from her duties.
+
+The compound was even more beautiful than Yun Ren’s recordings had shown it to be, by Meiling’s estimation. While it had obviously been a nice-looking manse in the recordings, it had a certain, almost unlived, air about a lot of the buildings.
+
+That had clearly changed. With the Verdant Blade Sect staying in the manse throughout the year, the place had transformed—the gardens were full to bursting with flowers, and the walls were painted in traditional operatic backdrops of pale gold interspersed with stylized clouds.
+
+“Master Rou, Lady Hong, it is my honour and pleasure to host you,” Cai Xi Kong said with a bow, the servants of the manor lined up behind and bowed with him. Xi Kong was an extremely handsome man—Meiling would even go so far as to call him beautiful, with a waterfall of silky brown hair. She could really tell where Xiulan got her looks from.
+
+“Thank you for having us, Sect Master Cai,” Jin replied in an equally formal voice, and they all bowed back… though not as low. They stayed in that tableau for a moment, before Jin chuckled and Xi Kong chuckled with him. “Shall we dispense with the formalities?”
+
+“But of course, Jin,” Xi Kong said, rising and stepping forward to clasp Jin’s forearm. Both of them nodded at each other, before Xi Kong turned his attention to Meiling. “My lady,” he greeted with immaculate courtesy. “It is so good to finally meet the one that saved my daughter’s life. Please, if there is anything the Verdant Blade Sect can do for you, please do not hesitate to ask.”
+
+Meiling blushed at the sincerity in his words… and understood the seriousness with which he offered his assistance.
+
+“Well, the father of my good friend can begin by calling me by my name,” Meiling said, and Xi Kong chuckled.
+
+“And what say you, Young Master, may this old man call you by your first name as well?” he asked Zhuye.
+
+Meiling’s son looked at the man, his nose twitching. He looked from Xi Kong to Xiulan, then back again, then sniffed, trying to figure something out. He squinted at Xi Kong.
+
+“Nah Au’ Lala,” he said gravely, his voice full of suspicion. Xi Kong did smell a lot like Xiulan—his Qi was grass, flowers, and blade oil, but it was far less complex, and far less comforting than how Xiulan smelled; Xiulan’s scent was always fresh and pure, while Xi Kong’s had a slight acrid back end from minute amounts of pill toxicity.
+
+“He’s my Papa,” Xiulan told him. “Auntie Lanlan’s papa.”
+
+Zhuye considered her words at great length, before making a decision. “Unc’ Lala,” he declared, the suspicion falling from his eyes… and his hands reaching out to grab Xi Kong’s hair so he could start chewing on it.
+
+Meiling’s finger quickly intercepted the grasping digits, while Xi Kong laughed.
+
+“Truly an honour!” he said, before continuing down the line with Wa Shi, Bei Be, the Lord Magistrate, and Lady Wu. Even Bane was greeted with all due respect, the man not missing a beat in conversing with an insect.
+
+He greeted each one of them with warmth and sincerity. He had an easy charisma, making little jokes and making everyone feel welcome.
+
+They were also introduced to two other people: Li Lee and Xi Bu, who were Xiulan’s students. Huyi was on leave and spending time with his family, while An Ran was still in Grass Sea City.
+
+So these two were “Grass Head” and “The Smallest Blade of Grass,” as Tigu had named them. The names were quite apt; Lee had a head of spiky green hair and a long ponytail, while Xi Bu was as short as Ri Zu’s human form—but the bald young man had a surprisingly deep voice.
+
+Mei soon found herself at a table with Jin on one side and Xiulan on the other. The rest of their party spread out a bit, on the back porch or in other parts of the room.
+
+It was a lot more relaxed than Meiling had been expecting, as they were all ushered into the manse, and Meiling found herself enjoying the atmosphere.
+
+“Ah, your muscles are looking fantastic today, Pretty Eyes,” Tigu said with a smile. “I see you’ve taken my advice!”
+
+“Of course I have!” Xi Kong declared, rolling up a sleeve and exposing his bicep. “Your advice on proportionality was indeed well-reasoned, and with the arts of our ancestors, our musculature must be redefined.”
+
+Tigu puffed out her chest with pride.
+
+It really was just a social visit; the topics meandered through the group, the tea was excellent… but most of all, Cai Xi Kong had a truly wonderful treasure.
+
+“Ah, this was her first form in front of the Sect,” he said, smiling at the recording playing from his crystal.
+
+“Ah, she's so cute!” Meiling gushed, her eyes locked onto the little girl who was flowing through a martial arts form, a single blade floating behind her.
+
+Xiulan’s cheeks were pink, and she was sitting as primly as possible while sipping her tea. Jin was grinning at the sight.
+
+“Indeed, my daughter is a peerless beauty!” Xi Kong boasted. Xiulan’s flush deepened.
+
+“Ah, that's Elder Yi, isn’t it? I recognise some of your Elders from when I met them,” Jin said. “His style was certainly… interesting twenty years ago.”
+
+Meiling squinted at the man, and his facial hair. His mustache formed into a giant, upwards curve that reached halfway to his eyes.
+
+Xi Kong’s eyes twinkled. “He said all should embody the spirit of a Blade of Grass, and grow upwards. He had a theory about hair and Qi flow and, well… the results were inconclusive.”
+
+“Didn’t Elder Xinling ask him if she could stick pieces of chicken on his mustache and then use him to grill it?” Xiulan asked.
+
+“Yes,” Xi Kong said, before looking shifty. “Please do not tell Yi I showed you this…”
+
+“Our lips are sealed,” Jin promised, his lips twitching, before he paused at catching sight of a woman. “Wait, is that…”
+
+He trailed off, his finger directed to a woman with midnight black hair and a… well, a rather lush figure. A figure Meiling knew very well, and she realized those Storm Wings from Soaring Heaven’s Isle had been right. Meiling did know those boobies—they were a very comfortable pillow.
+
+“Yes. That is my mother, Yangtze Liusei,” Xiulan said, her voice calm. Meiling studied the woman’s face—outside her figure, she looked nothing like Xiulan.
+
+“No word back yet?” Jin asked, and Xiulan shook her head.
+
+“Not as such, no,” she replied… and yet there was no bitterness in it. “If she wishes to speak with us again, we are here. But in the meantime, we have things to do.”
+
+Meiling reached out and held Xiulan’s hand under the table. Her friend squeezed her hand back. Xiulan seemed relatively at peace with things at the moment.
+
+“Blade of Grass! Blade of Grass!” Tigu’s boisterous voice interrupted. “We need another for the mahjong game! Are you prepared to be defeated?!”
+
+“Oho? You’re challenging me again? Very well, I shall oblige you all!” Xiulan said, rising and marching over to where Tigu was heckling her.
+
+Xi Kong watched her go with a complex expression on his face, before he sighed and shook his head.
+
+“Once, I said to Jin that I wished to entrust my daughter to him,” Xi Kong said to Meiling after a moment. “He responded that I should entrust her to herself. You truly do have a vision longer than mine.”
+
+“I’m very glad we met her,” Meiling replied. “I don’t know where we would be without her.”
+
+“Isn’t that the truth?” Jin said. Slowly, a smile came across Xi Kong’s face. It was one full of paternal pride.
+
+“She is the greatest blessing of my life,” Xi Kong agreed.
+
+==============================
+
+“I still can’t believe he brought that recording crystal along,” Xiulan muttered to Jin and Meiling as they sat together on the couch of their room in the mountain. It was just the three of them for the moment; everyone else was out with Xiulan’s students, or had some more work to do.
+
+It had been fun to just go out, have some tea, and take a break from politics. Her father facilitated it, and it had put everyone in a good mood… though if only he hadn’t had the ‘wondrous idea’ of showing her friends what she was like when she was young. She didn’t really mind it, but it had given Meiling entirely too much ammunition to use against her.
+
+“Don’t be mad, Xiulan, you were absolutely adorable! I can only wish I have a daughter half as cute!” Meimei declared, pressing into Xiulan’s arm. Xiulan rolled her eyes, while pushing away the warm feeling in her stomach. Meiling’s compliments were entirely too much!
+
+She had to strike back somehow!
+
+“I’m sure any daughter you and Jin have will be the cutest in the world, if they look anything like Zhuye. My nephew is the best!” Xiulan riposted, and was delighted to see Meiling’s offensive immediately shatter—as always, she could dish it out, but she couldn't take it! She flushed prettily at the compliment. “I hope my children are as cute as Zhuye too!”
+
+Meiling made a lovely ‘urk’ sound and turned away with her cheeks pink, defeated. Yet when she wheeled around to face her other enemy who had been content to just laugh at her, Jin’s smile had also died.
+
+In its place was a grimace. He chewed his lip, looking uncomfortable.
+
+“Jin?” she asked, concerned.
+
+He let out a little sigh. “It's… well, it's probably nothing, but last night we overheard some assholes. There were some rumours about you… and me.”
+
+Ah. Those.
+
+“Yeah. Jin stopped me from poisoning anybody, but they were…” Meiling let out a little growl of anger.
+
+Xiulan sighed and was about to wave their concerns away—but Jin continued, looking directly into her eyes. “Back home, with the villagers, it's kind of a non-issue. They don’t know who you are. But here? Xiulan, is it causing problems for you? And is there anything I can do to help?”
+
+Xiulan paused. She looked into his eyes, and saw what lay there.
+
+So many relationships in this world came with strings attached. And yet, as always, the only thing in Jin’s eyes was an earnest desire to help.
+
+Most men wouldn’t care. Xiulan had dealt with rumours like that before. A lot of them even encouraged the rumours, laughing and pretending that such things had happened. That they had ‘conquered’ her. Xiulan knew she was a ‘prize’. Her cultivation level; her position as Grand Marshal. So many people would be happy for the rumour, if it meant it drove other men away.
+
+And yet when she mentioned having children of her own… his only thought was to get that rumour out of the way so that it would not interfere with her life.
+
+She knew how many people wanted things from her. Wanted her to act how they desired. It was probably worse now that she was Grand Marshal rather than when she had just been the Young Mistress of the Verdant Blade Sect.
+
+Jin had never wanted anything from her but her happiness.
+
+She smiled at her dear friend, her sworn brother. She reached forward and cupped his cheek with her hand. His cheek was warm, and his green eyes were focused on her own. They were a deep shade of green, and had little shimmering flecks of gold in them.
+
+“Thank you, Jin,” she said, and his grimace lessened. “But… those rumours are just something that is. I don’t think we can do anything about them. Someone will always find a way to disparage me, and it's best to give them little thought… unless they are plotting to try and kill me, instead of just complaining about their own lack of skill,” Jin and Meiling both let out little snorts of amusement, and Jin clearly conceded the point.
+
+“As for whether it bothers me?” she continued. “No, it does not. I have sworn to marry only someone whom I choose. If I find somebody who I love, they will surely be the kind of person who will listen to reason, and those rumours will not hurt our relationship.”
+
+Xiulan had not really been looking for a relationship, granted. She had been too busy. And… it might be a long time until she found someone to call her own. She didn’t even know what she was looking for, other than that she wished her future partner would be someone like Jin. Steady and calm, a balm to her soul. A man who could wipe away the weight upon her shoulders. Or perhaps like Meiling? Spicy and constantly teasing… that wasn’t bad, either.
+
+But she was getting distracted. She pushed the thought away and refocused on the moment.
+
+“Honestly, it's actually rather useful a lot of the time. In the beginning, I had to decline so many marriage meetings until people started assuming I was ‘taken’ by you,” she finished with a little smile.
+
+Jin sighed and nodded.
+
+“Okay,” he said simply, accepting her judgement. “It still sucks that you have to deal with that at all, though.”
+
+“We can still poison a couple of them if you want,” Meiling said, leaning on Xiulan’s shoulder.
+
+They both looked after her, each in their own way… and Xiulan appreciated it.
+
+“...I’ll reserve judgement,” Xiulan said, and all three of them laughed.
+
+“And hey, if everyone gets scared off by your big marriage shield, we can always just make it official~” Meiling breathed into her ear, her grin salacious. Xiulan’s face turned crimson at the jest, and the tickling sensation that sent shivers down her spine. She turned and glared at the gremlin, but Meiling just kept grinning, turning her attack on Jin. “You see, hubby, you’d better be ready to take responsibility!”
+
+Jin reached over and simply grabbed his wife by the scruff of her neck like a cat and pulled her over to be caged upon his lap.
+
+“The Divine Brat-Sealing Prison Formation, activate,” Jin sighed, effortlessly wrangling her. Meiling cackled, entirely too amused. “Warden Xiulan, please begin the torture of the prisoner.”
+
+The laughter cut out.
+
+“Wait, what?” Meiling asked, suddenly nervous.
+
+Cai Xiulan rose up and loomed over Meiling. She reached into her bag and pulled out the story Meimei had been reading.
+
+Xiulan opened it and pulled open the scroll until she could see the end. Meiling instantly realised what she was doing.
+
+“Wait, wait waitwaitwaitwait! We can talk about this!” Meiling yowled.
+
+“Ah, I see, so in this investigation, the apothecary deduces that it was the—” Xiulan said.
+
+“Nooooooo!” Meiling thrashed, but she was held fast.
+
+Both Xiulan and Jin started laughing. Xiulan drew it out, starting to say who the culprit of the mystery was, and Meiling would begin yelping and squirming.
+
+It was hilarious… and it dispelled the sober mood from earlier in the conversation.
+
+Thoughts of any kind of relationship were things for the future. But this, right here and now, was enough.
+
+================================
+
+We stayed in the Dueling Peaks for another two days, finishing up the itinerary Xiulan had planned. Which included a feast of every specialty item from the town, for which Washy was very grateful.
+
+And then, it was time to leave. Once more the sects gathered to see us off, and made a great fanfare of it.
+
+We thanked Xiulan, the sects, and Director Huizhong for the hospitality—and honestly, it had been a good time.
+
+============================
+
+Ye Shun stood at the precipice. He had made his choice.
+
+He would set off upon his own path, as he always had. His son was coming with him, but his grandson was staying. The boy said he had much to learn here… and Ye Shun gave his blessing.
+
+Thus he turned east. Though not before finally getting to see Master Rou, on the day the man was leaving the city.
+
+He came out to great fanfare, a tall, broad-shouldered—Ye Shun froze. His jaw dropped open as he realised the peasant he had talked to that night had been a Master beyond Masters.
+
+He had been given advice by Master Rou. Good, sound advice. What?! How?!
+
+And then his thoughts were interrupted, as right beside Master Rou… was the beast. The beast in the form of a woman that guarded the Magistrate.
+
+Her slitted eye locked on to him, and she speared Ye Shun and his son with her gaze. For a moment, he thought he was going to die. He had crossed paths with her, as she had warned him against.
+
+And yet, she took in his wide open mouth, his shock and horror, the bags for travelling—and she saw clearly that they had not intentionally trespassed upon her.
+
+Though that was little excuse to a cultivator as powerful as she. She was well within her rights to slay them where they stood for disobeying her.
+
+Yet the monstrous creature had some benevolence. She deigned to consider their circumstances.
+
+She allowed them to live. The eye turned from them, and her dismissal was clear.
+
+Ye Shun and his son immediately made themselves scarce, fleeing like they had that night.
+
+And in his flight, he realised:
+
+He had made a very good choice, hadn’t he?
+
+=========================
+
+And so we started off in the direction of Grass Sea City. The Acting Lord Magistrate had waited long enough. Once we were on our way, Meiling and I would split away and kip off in the direction of Ash Forest, to see if we could fix what was causing the Qi mutations.
+
+There had only been two incidents in six months… so it likely wasn’t anything too big.
+
+But knowing our luck? It was going to be a mess.
+
+==================================
+
+Fa Bi De had been content. It had been uneventful since the death of one of Vajra’s scouts. No more smells of her enemy had found them, and they had all settled back into their routines of farming the land.
+
+At least that is what they had been doing.
+
+A warning from Vajra’s scouts came. An interloper smashed into trees and simply ran blindly, prioritizing speed over anything else.
+
+So Bi De ventured forth to confront the interloper. He stood upon the Great Pillars of Fa Ram, ready for anything.
+
+The interloper burst through the trees, and Bi De flared his power in warning.
+
+The run of the interloper turned into a tumble, as a Blaze Bear tripped and rolled head over heels for three full rotations, before coming to a stop.
+
+Eyes, filled with tears, stared pitifully up from the ground toward Bi De, and the smell of urine filled Bi De’s nose as the Spirit Beast relieved himself in fear.
+
+Bi De paused. He had seen this one before. He had met the Spirit Beast briefly, during his adventures in the south with Yin and Miantiao.
+
+“Paobu?” Bi De asked the Blaze Bear, whose eyes were wide with fear.
+
+‘Why? Why is it always me? Why do I always find the monsters?! Please, Great One, spare me!’ the Blaze Bear begged, kowtowing before Bi De.
+
+The rooster stared, baffled at the beast.

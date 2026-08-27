@@ -1,0 +1,189 @@
+---
+id: f0bc46d4-1594-523d-a89d-a77e9db2e9a8
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 31 - Rest"
+slug: 0035-b3-chapter-31-rest
+partOf: bookbound-bunny
+position: 35
+ownLength: 2167
+unit: words
+publishedAt: 2026-04-18
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3288371/b3-chapter-31-rest"
+royalRoadId: "3288371"
+---
+
+Despite having some time to relax before classes started again, their break ended rather quickly. Lily had wanted to make some progress, but actually ended up spending most of the time sleeping and recovering. She hadn't realized it at the time, but there was an unseen toll on her body and mind during her stay in the dungeon.
+
+Naturally, she asked Arakil about it, concerned that something was wrong with her. Fortunately, he relieved her concerns and said it was post-stress fatigue, with maybe a little toll from the dungeon.
+
+[Remember, the dungeon is effectively feeding on its inhabitants. Even if it's an insignificant amount that wouldn't hinder your day-to-day activities, it's still happening in the background. Not to mention, I don't think you fully recovered from my intervention.]
+
+Lily happily accepted the answer and instead just embraced the downtime, no longer trying to fight it. She thought her friends would be concerned about her suddenly being so lazy, but, strangely, they expressed relief that she was finally slowing down, even if only for a bit.
+
+"I feel like you don't ever stop, so it's nice to see that even you need time to recharge," Lotte joked.
+
+Her other friends said similar things, which she tried and failed to deny. Yes, she was putting in a lot of effort, but it wasn't "work" for her, it was fun—especially when it came to glyphs.
+
+On the last day before class, Rose finally came for a visit. Her reaction was quite different from her friends', as she was concerned that Lily had fallen ill.
+
+"Are you okay? Did you catch a cold in the dungeon? Have you not eaten enough? Do I need to call a healer?" Rose asked in rapid succession, not giving Lily the time to interject until she was done.
+
+"I'm just tired, we stayed in the dungeon for a long time, and even had to endure Alice forcing monsters to attack us," Lily said reassuringly.
+
+"Are you sure?" Rose asked again.
+
+Lily nodded. "Yup. I don't fall sick like back in the orphanage anymore. I won't run a marathon anytime soon, but camping in the dungeon is nothing."
+
+That was fortunately enough to calm the dragon down, and they spent most of the time with Lily recounting their time in the dungeon. Despite Rose knowing the full story, Lily still held back and didn't mention the dungeon's attack or Arakil controlling her body. While she didn't want to keep anything from her big sister, she felt like no good would come of it.
+
+Rose might try to attack the dungeon herself; in fact, I bet that's exactly what she'd do! I also think it might break our agreement with the dungeon?
+
+Once her story was done, Lily asked about Clarissa. Immediately, Rose sighed, her face tired. "Sorry…"
+
+"I don't necessarily mind, but I wish you told me about it," Lily replied.
+
+"I wanted to, I just didn't expect her to move so fast," Rose answered before sighing again. "I thought I'd be done with the nobles once I got inside Regarth, since they usually all go to Stremweth. During my year at least, there was almost none, but it looks like some were sent here after I made a name for myself."
+
+Intrigued, Lily tilted her head. "Made a name for yourself?"
+
+"Well, at the interschool competition," Rose answered. "Before then, not too many people knew I existed. After that, though, well, I sadly revealed myself to the world."
+
+"I know you're amazing, but surely there's more than one Dragia?"
+
+Rose grinned at the compliment, but nodded in response to the question. "There are, but I was basically number one for the year. Nobody could beat me, although sadly it's a team competition and while I won the battle, I lost the war."
+
+"So you exploded onto the scene, and now everybody wants a piece of you?"
+
+"Pretty much," Rose answered, scratching her cheek sheepishly.
+
+Lily paused before a hint of worry flashed across her eyes. "Am I going to have the same problem?"
+
+"Maybe? Honestly, you have the potential to have an even bigger problem," Rose replied. "You're the first Lagia mage, with Astral magic, and can draw glyphs in the air."
+
+"With the help of a wand!" Lily corrected.
+
+"Even if it's with a wand, I've never seen anybody else do something like that."
+
+"Point taken…"
+
+"If you also get first for your year, it'll only add further fuel to the fire," Rose said.
+
+Now it was Lily's turn to sigh. "I want to do my best for Regarth, but this certainly complicates things…"
+
+Rose patted Lily on the shoulder apologetically. "I wish the headmaster would prevent nobles from joining, but they often have the best bloodlines, which is like the number one bonus to get in."
+
+"Other than because they are strong, why does Regarth do that?" Lily asked.
+
+"Good question, from what I've heard, there are two reasons," Rose answered, much to Lily's surprise. "Rumor says it has something to do with keeping the dungeon operational, but I'm not sure how much credence that has. The more objective answer is that the headmaster is trying to collect some magical legacies to be passed down."
+
+"Magical legacies?" Lily asked.
+
+"Um… How do I explain this?" Rose asked with a frown as she began to ponder for a moment. "So you know how bloodlines sort of give us insights into magic? Well, apparently, those can be refined into producing normal spells for other people. Humans being the prime example, but in theory, anyone with matching affinities can also benefit."
+
+"So, for example, the headmaster wants you to pass down some fire magic?" Lily asked.
+
+Rose nodded. "Yeah, sounds like you get it. Although it's easier said than done."
+
+"What do you mean?"
+
+"Well, my fire magic just comes naturally; it's pure instinct. Now you're asking me to not only stop that, but also translate that into something for normal people," Rose answered, shaking her head.
+
+"It almost feels like asking you to teach someone how to paint in your style," Lily suggested.
+
+"Exactly! But, not only that, but it would also be basically revealing any secrets I have, which is what they want. After all, they've probably already got hundreds of ways to cast a fireball, so they're mostly focused on new kinds of magic. Of course, if it's something that doesn't exist at all, then they ask for the simple stuff too."
+
+"They don't force you, do they?" Lily asked, with a hint of worry.
+
+"No, they don't, it's purely voluntary. Which is why some magics are extremely hard to find."
+
+Lily felt relieved that she wouldn't be forced, although it also gave some insight into something she had previously wondered about. "I suppose this is why Thomas struggled with lightning magic; nobody with any lightning bloodlines volunteered."
+
+"Or what they did share was strategically selected," Rose pointed out. "If I want to be the only lightning mage, but I'm being pressured into sharing, then I just share something that's too advanced for the average mage. That way, future lightning mages can't be nurtured, and the advanced mages are usually already too stuck in their ways to make the switch."
+
+Lily rapidly blinked in surprise. "I didn't expect that from you…"
+
+Rose blushed. "Well… To be honest, it wasn't exactly totally my theory alone."
+
+"Headmaster Fabrelis?"
+
+Rose shook her head. "Aura."
+
+Lily couldn't hide her surprise at that answer. "Really?"
+
+"Yes, really," Rose chuckled. "Remember, she's got a legendary bloodline too, mythical even. She was so deep in that nonsense that she's hiding here in the cafeteria as a result. Basically, if it's a common magic type, they are after rare spells, but if it's a rare magic, then they want simple spells to build a foundation."
+
+Lily held her head. "I feel a headache brewing from all this. Let's get back to the original topic…"
+
+"Sure." Rose shrugged.
+
+"So what am I supposed to do about Clarissa?"
+
+"Just beat her," Rose replied.
+
+"Like in a duel?"
+
+"Or anything really. Test results, dungeon exploration, whatever. I basically got rid of her by saying that she and her family weren't anything special because I've already got you."
+
+Lily frowned. "Isn't that putting a big target on me?"
+
+"If it gets too much, then you can surrender, and she will be my problem again," Rose offered. "I just figured that she couldn't beat you, so it would be a quick and easy fix."
+
+"Sure… Okay."
+
+Rose smiled before embracing Lily in one of her near-suffocating hugs. "Thanks, Lily, you're the best!"
+
+"I'll send the first years next year your way then," Lily teased.
+
+Rose's face darkened, although she didn't reject it. After all, she did the same thing to Lily, and there wasn't a guarantee the nobles would try to send someone to recruit her.
+
+They continued to chat and catch up, with Rose mentioning that she was going to pay a visit to the second floor to see the fort they constructed.
+
+"I haven't been to the second floor in what feels like ages. It'll be nice to see it again. Maybe I can go fight a dryad," Rose said casually.
+
+"Fight a dryad? Is that safe?" Lily asked.
+
+"Are you forgetting who you're talking to? I was basically born to destroy dryads."
+
+Lily reluctantly nodded, although Arakil did mention that the dryad being controlled by the dungeon had elevated its usual capabilities.
+
+"Here's a bit of a tip with the elite monsters in the dungeon: treat them as if they were from three floors higher," Rose revealed. "So, if you can reach floor five, you can deal with the dryads on floor two. Of course, not many people go back, unless they hold a grudge, as there's usually better loot on the later floors, but it's something to keep in mind."
+
+"That reminds me, how come we didn't bump into any other students while we were camping?"
+
+"Alice locked down the first and second floor," Rose answered. "So we could only go to the third floor and beyond while you were having your test. There's a notice board outside of the dungeon that lists any official activities that are happening, warnings, and so forth."
+
+Lily nodded along as she took in Rose's answers.
+
+Rose then sighed. "Also, you don't really want to bump into other students when in the dungeon."
+
+"Really? Why not?" Lily asked.
+
+Rose was silent momentarily before answering. "I guess there's no harm in telling you this now, dungeons have a bit of a bad reputation, so much so that there's even a warning phrase…" she paused for emphasis. "What happens in the dungeon, stays in the dungeon."
+
+At hearing the rather ominous warning, Lily gulped.
+
+"Now, Regarth obviously doesn't tolerate that; this is a school after all," Rose said, much to Lily's relief. "However, it's still something that should be taken into account and to be fully aware of. Outside of the school, you might not get a second chance. So, the catch is that students are allowed to challenge each other for treasures inside the dungeon."
+
+"Isn't this just bullying?" Lily asked with a frown.
+
+"Maybe a little, but I think it's still a good warning," Roes answered. "Rather lose a few items than get injured or worse."
+
+"I see…" Lily murmured. Suddenly, the dungeon wasn't as appealing as it had been a few days prior.
+
+"Look, not every student does it, I don't unless someone really pisses me off. It's usually the older students, so it's got a nickname as the senior tax."
+
+Lily frowned again; it really was bullying. "Are there rules or restrictions?"
+
+"Nothing lethal, of course, and you stop after one Ward shield is broken," Rose answered. "The professors have a way to tell if another student triggered someone else's Ward, so nobody can get any funny ideas.
+
+"That's a relief…"
+
+Rose nodded. "As for what happens, well, it's usually one piece of loot for whoever loses. That includes the person who's the attacker, if you defend yourself. Oh, and you are only allowed to take something that was earned from the current dungeon trip, so you don't need to worry about an older student stealing your wand, for example."
+
+Lily happily nodded at that; it was already a big concern festering in the back of her mind, the second Rose mentioned this "senior tax".
+
+After that, Rose left a few more warnings and tidbits of advice, which mostly boiled down to avoiding other students. Thankfully, there were rules against attacking in safe zones, and this also applied to secret rooms.
+
+Rose even offered to take revenge on anyone who targeted Lily, which could unofficially label her "untouchable," though she said it was a last resort. While this might be seen as cruel, it was still crucial for the world outside Regarth.
+
+With that, the weekend came to a close, and Lily, feeling refreshed, was ready and eager for her classes to resume.

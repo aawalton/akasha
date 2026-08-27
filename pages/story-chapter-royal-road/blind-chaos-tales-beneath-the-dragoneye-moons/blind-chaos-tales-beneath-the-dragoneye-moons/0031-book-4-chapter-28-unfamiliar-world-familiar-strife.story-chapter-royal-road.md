@@ -1,0 +1,233 @@
+---
+id: a77147c1-64a4-598c-9ab0-e705d3dbf9e8
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 28 - Unfamiliar World, Familiar Strife"
+slug: 0031-book-4-chapter-28-unfamiliar-world-familiar-strife
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 31
+ownLength: 3790
+unit: words
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2755917/book-4-chapter-28-unfamiliar-world-familiar-strife"
+royalRoadId: "2755917"
+---
+
+“Stay back! We have visual confirmation that she was infected! The parasite will be desperate!” One of the base commander’s personal advisors had made a rare appearance to control the small crowd that had gathered. The man shouted orders from behind a wall of flesh as loyal legionaries tried to form a cordon around the carnage.
+
+The final impact from the battle over Remera had left the upper body of Sentinel Grace impaled on the remnants of one of the command tents—mercifully, one that was inactive at the time. The once-robust tent’s steel supports had shattered from the force of the impact and left the ruined form of what was once a woman pierced through in eight different places. Her armor was almost entirely absent, leaving what precious little intact flesh she had left on full display. Her neck was broken and her head—bereft of its trademark blindfold—laid at a horrific angle. Her blood and viscera were scattered across a wide area, driven from her body by excessive forces.
+
+There was no sign of life—aside from the lingering presence of the System—yet the advisor kept people away as though he expected the legless body to impossibly rise and attack.
+
+Which proved prescient when the body’s eyes snapped open—revealing terrible eyes wholly unlike those any person should possess. A horrific, inhuman sound escaped from the corpse’s lips, even as legionaries drew back in fear. And at the officer’s orders, weapons were raised to fend off whatever abomination the worldly remains of their Sentinel had become.
+
+Within the blackness, Ranthia screamed.
+
+Not like this! Not. Like. This!
+
+NOT AGAIN!
+
+The sensation wasn’t quite unlike drowning, and it was all too familiar. She—or at least her predecessor—had gone through it once already. Yet once again, she sank further and further from all that was light and life. Familiar or not, Ranthia fought against it with everything she had. A great crow’s talon had seized her and was pulling her down, into the darkness that heralded her final judgment and whatever next step her journey would have.
+
+So much for her promise to fend Black Crow off with her Void-kissed knives.
+
+Ranthia screamed and cursed at the semi-divine being as she struggled, reaching for her System that remained beyond her grasp. And then, without warning, the talon released her. Ranthia didn’t question it—she seized her moment. And with a titanic act of sheer willpower, she forced her way back to the light and fought for distance from the darkness of oblivion.
+
+She returned to consciousness.
+
+Her lungs refused to take in air. Her eyes refused to focus. Her struggle wasn’t done—the darkness clawed at her, but Ranthia fought desperately to hang on to the semblance of life she had found. Something within her chest moved, an alien experience that felt wholly unlike the beat of her heart ever had.
+
+But she succeeded, step by step. She should have perished, but instead she manifested an image and, after an eternity that spanned a single abortive beat of whatever had replaced her heart, she reached [Reflections of Reality] and triggered the Skill.
+
+It was both infinitely easier and one of the hardest things she had ever done to just… exist until the Skill finally concluded.
+
+Once she was intact—once she was undeniably Ranthia once again—she numbly turned to face what she had just escaped from. It wasn’t a body. It was a pile of ruined meat, scarcely still in a shape that could be considered to be reminiscent of a human torso, held together by an array of broken bones—many of which were visible. With contempt, she dismissed the ruined image. Though her tenuous grasp on her strength failed the moment it disappeared, and she collapsed on the spot. Desperately, she breathed and gulped at the air, choking on it, shuddering and trembling all the while.
+
+There were people—armed people—around her. There was a litany of sound, shouts and some form of argument; too much to comprehend. Some piece of her suggested that she should shrug it off, walk proudly. Maybe roar her triumph over death.
+
+The mere thought of such effort made her sob weakly. She was spent and she had nothing left to give. In her weakness, even shame failed to find purchase.
+
+At some point, and she knew not how long she stayed like that, someone wrapped her in a cloak and helped her to her feet. Supported on the shoulder of this unknown person, Ranthia was led away, her weight supported entirely by the stranger. Wait, no…
+
+Gailla. That was Gailla.
+
+The memory felt distant, but she clung to it. The woman was pale, but bore an expression that was… resolute? That sounded right. Not that she could quite remember what the word meant, but it felt as though it fit.
+
+“My love!”
+
+Broken or not, Ranthia knew that she would never fail to recognize the radiant presence of Avyna. The sight of her wasn’t enough to fix whatever Ranthia had become, but her restored heart thrummed when the woman materialized out of nowhere—no, she had just stepped hurriedly from the side. Avyna clung to her, a wretched and emotional mess.
+
+It felt… warm. Warm was good.
+
+Avyna and the stranger—Gailla, her name was Gailla—helped whatever Ranthia had been reduced to move forward. Though, perhaps Gailla struggled to support both Ranthia and Avyna? It was oddly difficult to tell. Ranthia wasn’t even quite certain what emotion she displayed in her strange existence. Was there even any emotion left within her? Some crucial piece of what she used to be still felt impossibly distant—possibly lost forever.
+
+They moved past a pale strange elf. No. Not strange. That was Avyna’s daughter.
+
+Caeli. Caelillia.
+
+The pale elf wore open horror on her features, but she followed. Her knuckles were white around the stick that she gripped in one hand, but Avyna’s familiar bow was loosely and respectfully carried in her other. She was back in her travel leathers and bloodied garments. That was too bad, it had been nice seeing her naked.
+
+No, no, that hadn’t been nice. It had been awkward. Probably. Possibly.
+
+An unspeakable, interminable time passed, then, once the next epoch arrived, they entered something. Something familiar.
+
+Ranthia spoke for the first time, while she looked around with unfocused eyes.
+
+“Home. This is home.” Her voice sounded like it came from elsewhere, but no, she only had a single image—the one that she inhabited.
+
+By Xaoc’s beard—wait, did He have a beard?—everything felt so strange.
+
+“Uh, Ranners?” Gailla asked, a new emotion writ upon her face. Confusion, that was confusion. Or was it concern? One of those. It was too hard to remember the difference between the two.
+
+“She is probably…” Avyna trailed off for several moments before she grew frustrated. She followed her pause up with an elven—High Elfish, that was it… wait, no—word that Ranthia failed to grasp, before she continued. “I do not know the word for it in Creation. Her case seems… bad. Help me sit her down on the bed.”
+
+“Disassociating.” Caeli put in. Wait, was Ranthia supposed to call her Caeli? Was that impolite?
+
+Gailla and Ranthia both looked at Caeli blankly. Or at least Ranthia assumed her face was blank. She really had no idea. But she was sure—ish—that she had no idea what the word was.
+
+“Dissociation? You know, detachment? …Seriously? Do you barbarians know nothing about mental trauma?!” The young elf—no not young, she was also old—seemed… frustrated. Frustrated, yes.
+
+Ranthia’s jumbled thoughts crashed and broke apart the moment they stepped through the curtains, and she saw her bed. Unbidden and without thinking, Ranthia threw an image out next to the source of warmth and comfort. She shifted to the new image then, naked, collapsed into the bed bonelessly.
+
+Soft. Soft was also good.
+
+Avyna and the two less important people were saying something, but when Ranthia tried to follow their words, she instead remembered that it was polite to put away her old image. Wait, no, dismiss—that was how she usually thought about it. She dismissed the image that she had abandoned and whatever fragments of what had once been her gear fell to the floor. She refused to look, she didn’t want to know what was left.
+
+Luxuriating in the softness, Ranthia rolled onto her back and sprawled out. But no, something was amiss. There was some essential warmth absent—she was cold. Something important was missing. Confused, she looked at the three women, until she finally locked her gaze on Avyna. Of course, how could she have ever forgotten?
+
+Avyna seemed to know what she wanted. She always did—even what Ranthia had been reduced to still knew that much. The beautiful woman hurried over and climbed into the bed. Then, less expectedly, she pulled Ranthia’s head into her lap… which wasn’t quite what Ranthia wanted, was it? It was still nice. Ranthia closed her eyes while Avyna soothingly ran her fingers through Ranthia’s hair.
+
+Nice was good too. Silence fell for a few moments. Or perhaps it was longer. Some stupid piece of Ranthia’s mind suspected the silence was awkward, but how could anything be awkward when she felt nice?
+
+And then the moments ended when someone else arrived. Ranthia opened an eye to give the interrupter a not pleased look.
+
+Wait, that was Glorine! Yes, definitely Glorine! Though the woman looked kind of shaken?
+
+“I… I went for her legs. I got there first. But there was someone behind me. Someone fast. I only had a brief moment. I thought it was important, so I grabbed it. …I think they tried to follow me. I ran as fast as I could, but they followed me. I think I lost them though, so I finally came here.” The Glorine stammered.
+
+The Glorine? Ranthia wasn’t entirely sure if that sounded right. Perhaps, just Glorine. That fit better.
+
+Glorine held up something. It was… an arrow! Like the kind someone whose role-name she couldn’t be bothered to remember shot from bows.
+
+“…The fletching is different, but I’d swear this is a Remus-made arrow. Aion knows I’ve handled enough of them to tell the difference.” Just Glorine’s voice fell to a whisper.
+
+The others looked at each other. Avyna’s fingers stopped stroking Ranthia’s hair. Rude!
+
+“Based on the smell, I think it’s poisoned. …I think someone tried to murder Ranthia, even while she fought the twin.” Glorine added, finally.
+
+Someone… tried to murder… Ranthia? She was Ranthia!
+
+Well, that, at the very least, forced her to claw her way back to full attention.
+
+The silence left in the wake of Glorine’s revelation lingered long enough for Ranthia to seize whatever fragments of energy and wisps of willpower she had left. Once she managed to grab whatever she could, she sat up—somewhat unsteadily.
+
+“How sure are you?” Ranthia asked, once she was confident that she could.
+
+“I’ve run arrows nearly every battle we’ve ever fought. Dwarves make them one way, the shimagu another. This is a Legion-issued shaft and arrowhead, I’d bet anything.” Glorine answered confidently.
+
+The poison was speculation, but that… was easy to answer. Ranthia stood—her weak sense of modesty remained forgotten—and approached. Carefully, she took the arrow and eyed it. It sure felt and looked like any of the Remus-made arrows she had ever handled, fletching aside…
+
+Ranthia threw another image behind her, then carefully pressed her thumb against the arrowhead until she applied enough force for it to break her vitality-reinforced skin. To be certain, she dragged her bloodied thumb back and forth over the tip of the arrow. It had spent time implanted in her butt, which might have diluted the poison.
+
+It didn’t take long. Within seconds, an odd numbness spread through her thumb and spread to her hand. She could still feel whatever she touched just fine, but her hand felt weak and didn’t move right—the effect reminded her of when she was struggling to learn how to control her suddenly clumsy images after she gained [Pure Reflections], some seventeen years ago.
+
+“It’s poisoned alright. Something nasty. Paralysis and weakness, at a minimum. Even with my vitality it’s tearing right through me.” Ranthia explained, before she gingerly handed the arrow back to Glorine with her good hand and shifted to the image she had prepared.
+
+She dismissed the afflicted image and worked her hand to convince her body that the insidious poison was gone. The others needed a bit of time to absorb the news anyway.
+
+“It had to be an accident, no?” Gailla hesitantly offered.
+
+“I… don’t think so.” Glorine answered her wife.
+
+“Definitely not. The ogre thrashed us around while he ascended, but he had stopped—I’m pretty sure we were just hovering more-or-less in place when that arrow was shot. I’d assumed it to be an unlucky shot at the time, but looking back… it nailed me without touching my armor. The ogre was a bigger target, even with him holding me downward. And they could have aimed for his wings too. By Xaoc, if that poison was meant for him, aiming for the wings would have been the best thing to do; immobilizing a wing would have crippled him.” Ranthia decided.
+
+…Shit. When she had clawed her way back to coherence, she had assumed that Glorine was jumping at shadows—the woman could be skittish. But the more she thought about it, the more sense it made. Which raised a lot of fucking questions.
+
+And her temper.
+
+The others fell into fretful discussions, but Ranthia ignored them for the moment. Instead, she consulted the System to check her filtered and sorted notifications.
+
+First, there was the same kill notification that she’d seen and glossed over in the heat of the moment.
+
+[*ding!* You have slain an ogre [Eternal Stone-Wielding Warrior] (Mountain, level 719), [That Which Crumbles Before Me] (Erosion, level 622), [The Beast Within Rises] (Forest, level 747)!]
+
+Thank Xaoc, it wasn’t the only one. A glance at her raw notifications list confirmed that the parasite perished at some point while she was in Black Crow’s talons unconscious.
+
+[*ding!* You have slain a shimagu [Speak Cautious Whispers, Wield Potent Tendrils] (Ooze, level 724), [As the Stars Fall] (Gravity, level 697), [A Little for Life and Might] (Poison, level 585)!]
+
+The Gravity class wasn’t a surprise—it was the only coherent explanation for how the twin had moved and what happened to her in the aftermath of the ogre’s death. The Poison class was an oddity though—strange name aside, the only poison that had affected her had come from the outside interference of the arrow. Had the ogre’s claws or tendrils possessed a venom toxic enough to render her blood sufficiently poisonous to coat the arrow… well, she would have perished long before her blood became so potent. It wasn’t a possibility that was worth entertaining.
+
+At least the levels brightened her mood.
+
+[*ding!* Congratulations! [Diffuse Reflectance] has leveled from 641 to level 677! Per level: +5 Free Stats, +3 Dexterity, +3 Vitality, +120 Mana, +120 Mana Regeneration, +120 Magic Power, +120 Magic Control from your class, +1 free stat for being human, +1 Mana Regeneration and +1 Magic Power from your element.]
+
+[*ding!* [Mirror Spirit], [Scattered Reflections], [Pure Reflections], [Persistent Imagery], and [Ideal Reflectance] have leveled from 641 to level 677!]
+
+[*ding!* [Reflections of Reality] has leveled from 422 to level 452!]
+
+[*ding!* Congratulations! [She who Dances with Chaos] has leveled from 649 to level 692! Per level: +100 Strength, +100 Dexterity, +100 Vitality, +100 Speed, +8 Mana, +8 Mana Regeneration, +5 Magic Power, +5 Magic Control from your class, +1 free stat for being human, +2 Mana from your element.]
+
+[*ding!* [Void Affinity], [Rhythmic Grace], [Void Edge], [Flowing Momentum], [Vision of the Void], [Echoes of Devastation], [Divine-Touched Identify], [Sentinel’s War Supremacy], [Submind], and [Combat Awareness] have leveled from 649 to level 692!]
+
+[*ding!* [Sustained Chaos] has leveled from 610 to level 645!]
+
+[*ding!* [True Grace] has leveled from 435 to level 441!]
+
+[*ding!* Congratulations! [Harbinger] has leveled from 201 to level 206! +10 Free Stats, +23 Strength, +199 Dexterity, +200 Vitality, +198 Speed, +27 Mana, +95 Mana Regeneration, +86 Magic Power, +24 Magic Control, +1 free stat for being human, +1 Strength and +1 Magic Power from your element.]
+
+[*ding!* [Magic Metal Authority], [Adamant Commander], and [Unbreakable] have leveled from 201 to level 206!]
+
+[*ding!* [One With Chaos] has leveled from 163 to level 170!]
+
+[*ding!* [Higher Power] has leveled from 138 to level 161!]
+
+[*ding!* [Ranthia’s Covenant with Xaoc] has leveled from 185 to level 190!]
+
+[*ding!* [Fast Learner] has leveled from 520 to level 523!]
+
+[*ding!* [Image Recall] has leveled from 301 to level 312!]
+
+[*ding!* [Sexy] has leveled from 310 to level 316!]
+
+Thirty-six levels in [Diffuse Reflectance], forty-three in [She who Dances with Chaos], and… five in [Harbinger]. [Harbinger] aside, she was reasonably happy with her gains. It wasn’t the meteoric sixty-six levels she had gotten out of the troll twin, but she also couldn’t exactly claim she had outmatched the winged twin and defeated him—it was her strategy that ended his existence, but there was as much luck as there was cunning in her success. Still, the encounter had been undeniably deadly and novel, which was what the System loved to reward.
+
+[Reflections of Reality] even got a nice jump in levels. Unfortunately, her other notoriously stubborn Skill, [True Grace], had barely influenced the battle—which explained its six paltry levels. [Harbinger]’s lack of levels was truly baffling, but it was difficult to muster enough energy to truly give a damn—[Higher Power] had surged, at least.
+
+The five levels for her [Covenant] weren’t surprising, though Ranthia felt the tiniest tinge of regret at wreaking such chaos inside her own base. She hadn’t exactly intended to do so, but there were scars in Remera that would take time to heal.
+
+[Fast Learner] gained a few levels from hard-won lessons. [Image Recall]’s (by that Skill’s standards) massive gains were stranger; it usually only leveled like that when she was creating new images. [Sexy]’s levels suggested that she had been wearing even less than she knew when she—
+
+Nope, not thinking about that right now. Ranthia chided herself before she managed to step off a metaphorical cliff into the sea of emotions that she was willfully ignoring.
+
+Still, overall, the levels were welcome. She came away from the battle stronger than ever, and the winged twin—both halves of the being—was undeniably dead. And she lived to fight another day.
+
+There were also a series of Skill unlocks:
+
+[*ding!* You have unlocked the General Skill [Bracing]! Would you like to replace a Skill?]
+
+[*ding!* You have unlocked the General Skill [Paralytic Resistance]! Would you like to replace a Skill?]
+
+[*ding!* You have unlocked the General Skill [Poison Resistance]! Would you like to replace a Skill?]
+
+[*ding!* You have unlocked the General Skill [Tearing Resistance]! Would you like to replace a Skill?]
+
+[*ding!* You have unlocked the General Skill [Unyielding Refusal]! Would you like to replace a Skill?]
+
+[*ding!* You have unlocked the General Skill [I Shall Never Bow to the Triviality of Pain]! Would you like to replace a Skill?]
+
+[*ding!* You have unlocked the General Skill [Cling to Consciousness]! Would you like to replace a Skill?]
+
+It wasn’t like the System gave her a breakdown of unlocks timed to events that didn’t trigger System notifications but based on the fact that [Paralytic Resistance] and [Poison Resistance] were offered before the anti-pain Skills, she assumed they came after she was shot by that arrow. [Tearing Resistance] was a wildly misleadingly named anti-pain Skill, same as [Unyielding Refusal] and the pretentious [I Shall Never Bow to the Triviality of Pain]. It was easy to pass on the lot—she seemed to be able to free herself from poisons by shifting to new images and she had survived that long without a pain management Skill.
+
+[Bracing] aided her when she steeled herself to receive an attack in order to strike her own blow. There was some temptation there, but it was somewhat antithetical to her dance-focused combat style. [Cling to Consciousness] was exactly what it sounded like. A Skill that promised to help her endure trauma while she sought an opportunity to escape (or counterattack). It was somewhat tempting, but her Skill slots were filled and there was nothing that she was willing to drop for it. She had just recently—well, two or three years ago—gone through that exercise at Avyna’s behest when she taught Ranthia about how [Chest of Experience] worked and urged her to take the immortal memory Skill.
+
+As to the question of whether or not she was truly the victim of an assassination attempt that came from some source other than the winged ogre twin, nothing in her System notifications proved her suspicions. That said, none of it made her second-guess her (Xaoc willing, fanciful) conclusions either.
+
+While she had been wholly distracted—she was losing her grasp on the vestiges of her energy and willpower rapidly, it seemed—the others had come up with a plan. From what she was able to glean, Gailla was volunteering to leave the safety of their tent to carry a message to the dwarven encampment. They needed the expert opinion of someone they could trust, and Ranthia was well-respected amongst the dwarves; given that she had recently saved the [Battlemaster]’s life, she felt optimistic that they would grant her a favor or two.
+
+Everyone else—well, with the exception of Caelillia, who remained blithely disinterested in her well-being—seemed to be of the mind that the most important thing Ranthia could do was to get some rest while she could. Somewhat grumpily, Ranthia followed orders and settled herself back into bed. Her ‘task’ became vastly more acceptable once Avyna finished composing the message and joined her in bed. Cradled in the arms of the woman she loved, Ranthia found herself in slumber’s embrace almost before she knew it drew near. Which probably shouldn’t have surprised her; she had been sleep deprived and reliant on the adrenaline of the immediate crisis.
+
+Sleep was a blessing. Especially since Glorine and Gailla could handle the immediate tasks that they needed to accomplish. Even if their what-if scenario—which was still only supposition—turned out to be true, Ranthia needed to recover before she could do anything about it.
+
+Ranthia was home. She was safe. Avyna was safe. That… had to be enough, at least for a while.
+
+In her final moment of fading consciousness, Ranthia promised herself that she would seek the truth and do what she must—whether the arrow came from some unknown shimagu beyond their walls or from a threat within—just as soon as she was recovered. Someone had tried to kill her, and by Xaoc, she fully intended to make them regret their failure.

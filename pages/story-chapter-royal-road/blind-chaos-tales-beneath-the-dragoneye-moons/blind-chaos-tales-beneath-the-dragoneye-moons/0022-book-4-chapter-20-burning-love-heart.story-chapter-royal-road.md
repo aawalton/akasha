@@ -1,0 +1,387 @@
+---
+id: 3960f253-fdd3-5a78-8457-af6e043e1237
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 20 - Burning Love Heart"
+slug: 0022-book-4-chapter-20-burning-love-heart
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 22
+ownLength: 5737
+unit: words
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2666942/book-4-chapter-20-burning-love-heart"
+royalRoadId: "2666942"
+---
+
+Being in a relationship meant that, inevitably, one learned the darkest secrets of those they loved. And one of the things that Ranthia had seized upon was the fact that Avyna was a hopeless romantic. It was a great trait; Ranthia knew how to make the woman she loved happy! But the gusto and enthusiasm that Avyna wielded when it came to Glorine and Gailla’s upcoming wedding still managed to surprise Ranthia. Within days both women had largely ceded control over their ceremony to the elf—someone who had never even seen a wedding. Avyna’s dedication to the task seemed to mirror the focus she had when she prepared her own shop!
+
+Which felt more apt than ever as Ranthia watched Avyna unpack a large crate—delivered via the [Starship]—across their table. Scrolls about Reman wedding traditions, including scrolls specific to the hometowns of each woman, took up the bulk of the crate, but there were also supplies and items relating to Avyna’s expanding plans for the celebrations.
+
+“You really do get excited over romantic stuff, don’t you?” Ranthia couldn’t help but tease her lover while Avyna struggled to figure out which scrolls went into which organizational pile.
+
+“I do not, I simply enjoy celebrations. This is exactly how I am when I plan the little parties we throw, my love. You just seldom get to see the full breadth of my planning so visibly.” Avyna argued, pausing to consult the shipping manifest that accompanied the order.
+
+“Oh, come on! I’ve gotten to know you very well—you aren’t fooling me.” Ranthia replied with a roll of her eyes.
+
+“Mm, my love, respectfully we have not been together for quite two years yet. We still barely know each other in many respects. And in this case, you are wrong.” Avyna stubbornly insisted.
+
+“Oh, so that’s how this is going to be, huh? You’re going to go down swinging?” Ranthia let a playful bit of menace color her words—a challenge.
+
+“I am simply stating the honest truth.” Avyna answered, her own tone effortlessly bridging the normally incompatible notes of both indifference and arrogance.
+
+Ranthia just smiled—Avyna could be stubborn, but that was kind of endearing in and of itself. Sure, she could point out the most obvious proof, the fact that Avyna rarely read anything except romance, but a better idea came to mind. She had something she had been waiting for an excuse to try out. Ranthia made rare use of [Rhythmic Grace]’s lingering ability to erase the sounds of her footsteps as she crept up behind her lover—Avyna often was impossible to sneak up on, but she was focused on marking the manifest against the contents she possessed.
+
+“<You are sinking non-trivial funds into this with zero expectation of return. You only do that for me and your daughter, so your inner romantic is showing… my Gemheart.>” Ranthia whispered into her beloved’s ear. In her best High Elvish.
+
+Avyna stiffened, and Ranthia seized the opportunity to wrap her arms around the elf’s slender waist. While Avyna processed, Ranthia snuggled closer, compressing her chest against her lover’s back.
+
+“You used the wrong word for your intended use of zero, and that conjugation of romantic suggests something more sexual than you intended.” Avyna corrected in Creation, her voice hushed.
+
+“<Thank you. I’ll bear that in mind, Gemheart.>” Ranthia accepted the criticisms, but she refused to cease using High Elvish.
+
+“And that—!” Avyna was about to address the crux of Ranthia’s efforts.
+
+Ranthia was dying to know Avyna’s thoughts—so she silenced her lover by planting a rough, loving kiss at the base of her neck. Her elf shivered in the most delightful way in her arms.
+
+“<I’m aware, I put a lot of thought into this one,>” Ranthia started in High Elvish, but she needed to switch to Creation to explain, “I know exactly what it means. But it matches what you mean to me more than anything else that I’ve come up with. The phrase refers to the origin point for a gem, the point it grew and developed from. I know jewelers often prefer to cut this point off since it has higher levels of impurities, but… To me, <Gemheart> refers to the place where all that is beautiful and good originates. A foundation for perfection.
+
+“And by Xaoc, there is no phrase more perfect to describe you, my love. Meeting you has brought me so much joy and happiness. All that is beautiful in my life, I owe to you. Until I met you, I merely survived—and, yes, strove to bring about chaos as I could—but now that we are together, I thrive. I’m happy, even when I can’t find a single opportunity to cause the mildest bit of chaos. All because I am with you, my perfect <Gemheart>.” Ranthia concluded her explanation, before she trailed kisses up the back of Avyna’s neck.
+
+“Oh, you…!” Avyna squirmed as her ears flushed to an incredible shade of rich carmine.
+
+A heartbeat later, she switched to High Elvish and began to unleash a rapid-fire bombardment of short exclamations in her own language. The speed was overwhelming and Ranthia had to accelerate her perception to even attempt to keep up with parsing out what meaning she could find… But she swiftly realized that she didn’t need to. The words and phrases differed, but the meaning of the utterances as a whole was more than clear.
+
+Avyna was conceding defeat. The name was approved, and Avyna was ready to admit that she might be somewhat affected by romantic words and events.
+
+She swept the scrolls and supplies off the table a moment later—they needed the space while Ranthia claimed her reward.
+
+[*ding!* You have slain an ogre [Beast Wrangler] (Lava, level 541), [Frequently Bitten] (Mountain, level 406), [Stoic] (Steam, level 128)//a shimagu [Words of Arrogance] (Ooze, level 550), [Shocking Shocker] (Lightning, level 520), [Needler] (Metal, level 183)!]
+
+[*ding!* Congratulations! [Diffuse Reflectance] has reached level 630! +5 Free Stats, +3 Dexterity, +3 Vitality, +120 Mana, +120 Mana Regeneration, +120 Magic Power, +120 Magic Control from your class, +1 free stat for being human, +1 Mana Regeneration and +1 Magic Power from your element.]
+
+[*ding!* [Mirror Spirit], [Scattered Reflections], [Pure Reflections], [Persistent Imagery], and [Ideal Reflectance] have reached level 630!]
+
+Finally. Ranthia danced away from the slain enemy and took the chance to throw a fresh image on the wall. With that obnoxious infected down—seriously, he hadn’t even been a twin, just a high-control shimagu [Mage] in an aggravatingly resilient host—she needed to check in with her handler to learn where she needed to throw herself next.
+
+[Reflections of Reality] concluded, and Ranthia’s perspective warped to her customary place on the wall… which was probably a problem, she needed to move before she invited some shimagu artillery [Mage]’s assault. The mousy young woman—no longer the child she once was, not after experiencing the weight of true warfare—was harried and exhausted, but she dutifully followed Ranthia as she relocated.
+
+“I really don’t like this, you saw what happened there—the shimagu are actively trying to keep me off that stupid tower. Yet here we are, this deep into the ongoing conflict, and there’s still no sign of any of the three twins! Tell me the scouts have found something already.” Ranthia demanded.
+
+The woman nodded and beckoned to request a moment while she began to speak into one of the stone bracelets she was wearing. Since Ranthia had a wisp of time, she decided to check her sheet.
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 34]
+
+[Mana: 297853/545080]
+
+[Mana Regen Rate: 342450]
+
+[Stats:]
+
+[Free Stats: 6]
+
+[Strength: 34224]
+
+[Dexterity: 72764]
+
+[Vitality: 73151]
+
+[Speed: 71157]
+
+[Mana: 54508]
+
+[Mana Regeneration: 66865]
+
+[Magic Power: 56173]
+
+[Magic Control: 45017]
+
+[Class 1: [Diffuse Reflectance – Mirror (630)]]
+
+[Mirror Spirit: 630]
+
+[Scattered Reflections: 630]
+
+[Echoes Reflected: 319]
+
+[Pure Reflections: 630]
+
+[Persistent Imagery: 630]
+
+[Ideal Reflectance: 630]
+
+[Distorted Likeness: 203]
+
+[Reflections of Reality: 410]
+
+[Class 2: [She who Dances with Chaos – Void (637)]]
+
+[Void Affinity: 637]
+
+[Rhythmic Grace: 637]
+
+[Void Edge: 637]
+
+[Flowing Momentum: 637]
+
+[Vision of the Void: 637]
+
+[Sustained Chaos: 589]
+
+[Echoes of Devastation: 637]
+
+[True Grace: 427]
+
+[Class 3: [Harbinger – Adamantium (196)]]
+
+[Adamantium Authority: 196]
+
+[Adamant Commander: 196]
+
+[Unbreakable: 196]
+
+[Mine!: 105]
+
+[Adamantium Symbiosis: 196]
+
+[One With Chaos: 142]
+
+[Higher Power: 121]
+
+[General Skills:]
+
+[Divine-Touched Identify: 637]
+
+[Ranthia’s Covenant with Xaoc: 175]
+
+[Sentinel’s War Supremacy: 637]
+
+[Submind: 637]
+
+[Combat Awareness: 637]
+
+[Fast Learner: 498]
+
+[Image Recall: 316]
+
+[Sexy: 278]
+
+Six more free stats she needed to feed into her dexterity. But the gap between her classes was narrowing alarmingly—they were just seven levels apart. Unfortunately, [She who Dances with Chaos] seemed to be increasingly unimpressed with slaughtering hordes of weaker enemies, and with the twins remaining absent, the utility of her [Diffuse Reflectance] class was seeing greater gains. Yet without her images and her shifting, her life promised to be brief.
+
+…Oh. As Ranthia skimmed for changes, she noticed another that she had nearly overlooked—she had missed her birthday at some point. It was a bitter realization, the shimagu attacks had raged for the past… weeks (she had no idea how many) and her days were blurring together. Honestly, it still felt like she had just celebrated the new year! Her heart ached for the time she was losing with Avyna, but she had to do her part to keep Remera standing.
+
+“Sorry, Sentinel Grace, there’s still nothing. The only other thing alive that they’ve seen in the area is a pack of herbivorous dinosaurs eating at the dying plant life left from the last rain. They acted skittish when a scout got too close but were hesitant to leave the rocks that sheltered their food source. Unlikely to be anything suspicious, according to the scouts’ [Leader].” The woman finally reported after a [Messenger] handed her a scrap of parchment, which she used to wipe futilely at her sweat once she finished reading it.
+
+Ranthia really should have realized that her birthday had come and gone, considering how hot it’d become. Summer was arriving.
+
+“…Wait… Sentinel, look—Dwarven Team Shieldstrike is cut off! There!” The woman was pointing.
+
+Ranthia exhaled her frustration and performed a quick gear check. One of the armor segments was missing from her side, but it didn’t cover an essential vital organ and the lining was still mostly intact—it was fine. Arcanite was probably still fine-ish. It wasn’t like she had time to go home and swap armor sets anyhow.
+
+Ranthia threw images around the area where their allies were imperiled and activated [Reflections of Reality]. She had a moment of regret for not getting water while she had a chance, but she could prioritize that on her next visit to the wall. For the moment, she needed to do what a Sentinel was supposed to do: enter the fray and save lives.
+
+Okay, admittedly she arguably saved lives while she kept the shimagu twins in check, but she hadn’t joined the war to stand around and look [Sexy]. Besides, it had been an age since she had last clashed with a twin for more than a single exchange—some [Analysts] suspected that shimagu twin numbers were dangerously low, in an effort to explain their recent skittishness. Unfortunately, whether or not that was true was largely irrelevant; no matter what the shimagu were up to, it was her mission to crush them while they actively threatened Remera.
+
+Once again, Ranthia’s perception lurched, and she was in the thick of the battle. The press of bodies only made the oppressive heat that baked the area more intense, and the shimagu seemed to be gleefully trying to make the problem worse—a shimagu [Mage] unleashed a gout of flame at her as soon as she struck down her first parasite.
+
+The conjured Fire didn’t feel threatening to her Skills—which wasn’t foolproof, but with the host being level 309, Ranthia chose to take the gamble. She ignored the flames, letting them wash over her armor while she closed in on the fat ogre that was keeping the dwarf’s heavy defender pinned. Another ogre tried to intercept her with a glowing club, yet it barely cost her any of her momentum to dance around the incoming blow.
+
+Ranthia leapt once she was close enough—she needed more height with the size of the ogre. The brute never even looked up from wrestling with the dwarf with two shields. He and his parasite died in ignorance as her [Void Edge]-kissed blade tore through bone, brainstem, and ooze alike.
+
+[*ding!* You have slain an ogre [Bulk of the Highlands] (Mountain, level 583), [He Who Calls] (Sound, level 301), [Consumptive Glutton] (Void, level 395)//a shimagu [Whispers of a Pugilist] (Ooze, level 576), [Muscular Overdrive] (Inferno, level 598), [Restoration] (Water, level 404)!]
+
+The big threat—and the highest level shimagu in the immediate vicinity—was down. The problem was that Ranthia was stuck airborne, and her opponents knew it. She had no way to land immediately—[Reflections of Reality] needed time, even if she hadn’t lost her other images while her back was turned. Another ogre leapt straight at her. There wasn’t much she could do, but Ranthia managed to form an image to kick off from. It wasn’t enough to throw her free of the ogre, but at least she was facing her next opponent. The ogre slammed into her, and she used his momentum to pierce her blade through his ribs before she ripped it to the side, shredding both heart and lung.
+
+[*ding!* You have slain an ogre [Goods Hauler] (Water, level 423), [Windrunner] (Gale, level 400)!]
+
+It was a bit of a suboptimal solution, admittedly. It was the best she could manage in the heat of the moment, but a heartbeat and a half later, Ranthia hit the ground, pinned beneath a heap of dead ogre—a corpse that contained a living parasite. Tendrils of Ooze bloomed from the ogre’s corpse, one of Ranthia’s less sensical nightmares made manifest. She thrashed, trying desperately to get enough leverage to kick the ogre’s corpse away.
+
+And then, with a bone-smiting crunch the tendrils vanished.
+
+A rough hand seized Ranthia’s shoulder and hauled her out from under the newly headless ogre. A dwarven woman nodded to her, before she shouldered her massive hammer and rejoined her team. Ranthia shouted her thanks, but there was no time to linger—the biggest obstacle was dead, but there were still plenty of shimagu between them and the rest of Remera’s forces.
+
+The dwarves had fallen victim to the shimagu’s main strategy: isolating a group and drawing them deeper and deeper into the vast shimagu forces. Most of those that the shimagu managed to close ranks on were worn down until the damned parasites could seize them—after which, they had to pray that artillery from the walls could end their plight before they were carried out of range. Rescue was next to impossible if anyone got too deep, thanks to the sheer numbers the shimagu possessed.
+
+Unfortunately, even if everyone knew about the shimagu’s strategy, it was more difficult in practice to avoid getting caught up in it than it sounded. Things changed too quickly in conflict, especially at such a massive scale, and for all the Legions derided shimagu troop movements, their enemies were shockingly proficient at maneuvering through a battlefield.
+
+With Ranthia’s help, it only took a few (less than twenty-four, surely) minutes to open a route back to the safety of allies. The dwarves moved, led by their dual-shielder as he punched the smaller (just twice the size of most Reman shields) of his shields forward. The front-facing spikes tore through enemies mercilessly as they moved.
+
+“Oi, Sentinel woman! I ‘eard one of them [Leader] types thataways!” The last dwarf, a fleet-footed man that was armed with one of their people’s massive crossbows, urgently whispered when he passed her by.
+
+Ranthia nodded her thanks while she remained to cover the dwarves’ escape, joined by five images once the dwarves got clear. The moment she was convinced the dwarves would make it to the ‘safety’ of the greater melee, Ranthia’s dance carried her deeper into the shimagu ranks, in the direction that the scout had indicated. Even for her, it was dangerous to go too deep, but she sorely doubted the scout was trying to lead her into a trap—to the best of her knowledge, she was on good terms with the dwarves.
+
+Besides, the potential quarry was worth the risk. Killing shimagu [Leaders] usually resulted in the nearby forces falling into disarray, at least until the shimagu could get another [Leader] into the area. Besides, all logic—and the bulk of the [Analysts], including Gailla—agreed that there had to be a shimagu field commander, someone like a legate, somewhere amongst the enemy. If she could kill such a key commander, there was a real chance that the damned parasites would be forced to withdraw.
+
+The shimagu were slow to respond to a lone bringer of death so deep within their ranks. Most of the parasites were relaxed or focused on their anticipation of the next movement that would bring them to Remera’s defenders. Ranthia strove to move faster than the cry of alarm could spread, dancing through their ranks as swiftly as she could manage. She culled where she could, but it wasn’t her goal—she refused to lose momentum for unimportant kills.
+
+A running shimagu broke through the ranks right in front of her. Ranthia pivoted to avoid the expected attack, but the ogre was obviously surprised to see her. The ogre threw herself to the side, with a face masked with horror, and made no move to pursue once Ranthia passed her. It was weird, but Ranthia didn’t have time to worry about it.
+
+She was finally close enough to hear the [Leader]. A human male, given the voice. He wasn’t shouting, instead he spoke at a conversational volume while he moved with the press of infested flesh, as if he were just another unimportant soldier. It explained a lot about why they struggled to find [Leaders] of meaning amidst the shimagu—the fuckers were cleverer than the Legions were, at least in that respect.
+
+Ranthia pulled from her arcanite to bring herself back to full mana as she closed the remaining distance. Xaoc willing, her opponents would be unable to properly try to box her in once she killed her target, but she needed to focus on her kill first. Exfiltration could—
+
+A brilliant orange light flared behind her. And the shimagu began to cheer.
+
+“<Good done! Those who kill your you now have home burns!>” The [Leader] shouted in the shimagu tongue.
+
+Had Ranthia been less distracted, it would have been a great bit of dialogue to chew on to help her own understanding of the language. But she understood enough—her heart thundered in her chest.
+
+The cheering shimagu were no obstacle; they barely paid attention to the woman shoving past them. And there the [Leader] was, a middle-aged man, wearing filthy hides just like any number of unimportant nobodies.
+
+He opened his mouth to shout something over the cheers, likely to egg the shimagu on.
+
+The angle wasn’t perfect, but the combination of fear and rage that burned through Ranthia refused to just run back to Remera. Her knife absorbed her Skills, then she tied them off with [Sustained Chaos] and hurled the fully imbued knife with everything she had, driving it with [Adamant Commander].
+
+The man tilted to the side absurdly with his profile revealing a vapid expression as the knife slammed into the side of his neck.
+
+[*ding!* You have slain a human [Undaunted Navigator] (Storm, level 482), [Survivor of Shipwrecks] (Ocean, level 503) //a shimagu [Charming Words, Brutal Commander] (Ooze, level 589), [Barrier Adept] (Brilliance, level 517), [Always Heard] (Sound, level 443)!]
+
+[*ding!* [Sustained Chaos] has reached level 590!]
+
+[*ding!* [Ranthia’s Covenant with Xaoc] has leveled from 175 to level 177!]
+
+As though heralded by that final notification, the shimagu in the vicinity fell into pandemonium. A Mirage [Mage] painted the form of the deceased commander across every last infested in the immediate vicinity, most of which promptly ran. Several of them were gathered in clusters, as though they were protecting someone in their midst. Other enemies raced for her, out for blood.
+
+But her role was done—the System notification was beyond unlikely to have been faked. She had done what she needed to do, which meant that she needed to withdraw. [Adamant Commander] called her knife back to her while she parried a nearby shimagu’s stolen sword with its twin.
+
+Moments later, she caught her blade even as she hopped onto the back of an ogre that sought to catch her with a body slam. His bulk bought her a precious moment to survey the situation, since it forced the other shimagu back. She wasn’t as deep into the enemy lines as she had expected, but she had stirred them up and she was too deep for her allies to readily come to her aid.
+
+An arrow that she narrowly evaded made up her mind. Ranthia danced into the midst of the enemies and sent out a new image—into the sky, midway between Remera’s walls and her current position. She would have preferred to get it closer to the walls than that, but her range for [Reflections of Reality] was less than two-thirds her range for [Scattered Reflections], which narrowed her options.
+
+As Ranthia carved her way through the press of infested flesh, doing her best to evade Skills that punched through their own allies in their fervor to see her dead, Ranthia waited for [Reflections of Reality] to conclude. Precious heartbeats, mere moments that were transformed into an eternity by her level and by her situation.
+
+Shimagu and their hosts died.
+
+And then she was mid-air.
+
+The defensive [Mages] and a legitimately impressive archer were trying to help cover her—it was the only reason her image was still there. More and more shimagu arrows and conjured attacks came her way as an increasing number of the enemies noticed the falling woman that presented such an obvious target. They were met by panes of Brilliance and conjured Mirror, alongside arrows and other Skills that intercepted incoming attacks. A bolt of Fire was doused by a tendril of Water, an arrow shattered the shaft of a cruder shimagu-made arrow, a small slug of Metal punched through and shattered a bolt of sharpened Ice, and Gale met Gale.
+
+But they couldn’t counter everything the shimagu threw at her.
+
+A thick, oversized arrow punched through her armor and pierced her intestines. It was too large for [Void Edge] to erase, so she was forced to take it. Several other attacks stripped away her unimbued armor and took their toll of blood, before Ranthia could even get an image onto the wall.
+
+Godsdamned observant bastards. [Reflection of Reality]’s glacial activation speed was costing her dearly.
+
+A chain wrapped around her—she nearly attempted to sever it, but it came from the wall. Ranthia found herself yanked, with enough force that it felt like her organs were dislocated, but it pulled her clear of the incoming attacks.
+
+It bought her enough time to shift onto the wall.
+
+“Oh, gods and goddesses! Thank you.” Ranthia managed to wheeze out before she took a deep breath.
+
+The dwarf, a Mantle [Mage], nodded at her with a bright grin, before his chain struck downward into an enemy that dared get too close to Remera’s walls, splitting the ogre in twain.
+
+“‘Nytime, lass!” He replied, not even watching his Skill’s blood-thirsty antics.
+
+With the situation in hand, Ranthia turned to face Remera.
+
+Flames burned across the base as the legionaries fought the flames with lines bearing water and sand. Angry and desperate shouts for [Mages] that could help rang across the base. Two of the command tents were outright gone, though neither of them was the one in use (…she hoped). Throughout the base, other tents had been reduced to charred remnants, while legionaries worked to deconstruct tents near the larger blazes to try to keep them contained.
+
+But more important than anything else, Ranthia’s prominent home stood unblemished. It was a beautiful sight that lifted the weight of fear from her shoulders. Avyna’s shop was a single gap away from one of the spreading fires, but Ranthia wasn’t too worried—Avyna’s fire resistance enchantments were solid. Plus, it wasn’t like Avyna would be there in the middle of the night…
+
+…Ranthia glanced upwards. At the sun.
+
+“Fuck!” Ranthia cursed aloud while she tried—and failed—to convince herself that there was no way that Avyna’d be in her shop during such an overt crisis. Gratingly, she needed to make sure the situation was handled before she could check on Avyna. With the risk of shimagu agents inside Remera’s walls in mind, Ranthia raced down the wall toward her Sound [Mage] handler.
+
+“What happened?” Ranthia demanded on arrival, not caring that the woman was in midsentence with someone else.
+
+“Hold please. Sentinel! It was the herbivores! As soon as our scouts were out of sight, they rushed the walls and unleashed Fire, Inferno, or Lava attacks over the walls. The defense [Mages] on that grid block were understaffed and got overwhelmed. They directly targeted the command tents that were in range, one of our food growth tents, three [Analyst] tents, and one storage tent. We thankfully were able to save the storage tent, but we’re still waiting for a full body count!” The woman reported, before she went back to speaking to whomever was on the other side of that bracelet.
+
+The shimagu forces were fragmenting and losing what passed for their limited concept of cohesion. Remera’s other defenders and weaponry could bleed them for their sins, and they could do it without her.
+
+Ranthia abandoned her duty and instead threw an image deep into Remera. Shifting was faster than running, and she was desperate to confirm that the woman she loved was safe!
+
+Inside, Remera was worse than it had seemed from the walls. The base was hot between the day’s heat and the uncontrolled blazes. Smoke hung thick in the air. And both legionaries and civilians ran around like insects revealed after removing a rotting log. The sounds of wailing men and women joined the cries of infants, as if they took a hard look at the situation and decided that just having everyone’s senses of sight, touch, smell, and taste overwhelmed wasn’t quite sufficient.
+
+Ranthia danced through, snuffing flying embers as she went. It wasn’t much, but she could offer that limited assistance while she rushed for Avyna’s shop—it was closer to her current position than their home was.
+
+Ranthia burst dramatically through the entrance and found… one ash-covered legionary—one of the familiar ones that tended to hang around Avyna—buying refills of cold juice as fast as he could drain the cup, while Avyna tried to block his hand from the transfer sheet.
+
+“Sertius, your throat—and possibly more—has been damaged by the smoke. You must see a [Healer], go!” Avyna insisted, unamused by the man’s antics.
+
+“<Gemheart>! Are you okay?!” Ranthia shouted over the situation, as she rushed for her beloved.
+
+Avyna turned to Ranthia and smiled with relief. But even as she opened her arms, her face lost a hint of color. Instead, she drew back, which stopped Ranthia short.
+
+“My love! Your armor is burning!” The elf all but shrieked.
+
+Ranthia glanced about at her damaged armor and found the charred section that had Pallos’ tiniest tongue of flames still working at the leather. Annoyed, Ranthia beat at the small fire, while the ash-covered legionary stepped over and splashed his half-drained cup of juice across another section near the center of her back.
+
+Once she was extinguished, Ranthia spared a moment to wonder how in Xaoc’s eternal glory she had managed to catch herself on fire again. Any flames left from the various attacks the shimagu failed to kill her with should have been extinguished when she shifted. Which meant she had to have managed to reignite her armor while she was dancing through Remera—it was worse out there than she had even known.
+
+Ranthia shook the question off.
+
+“You’re okay, <Gemheart>?” Ranthia asked.
+
+“Of course I am! You are the one being reckless and not even noticing that you were aflame!” Avyna scolded her in return, a scowl on her face.
+
+Ranthia bowed her head, but she also smiled with relief.
+
+“Ran—Sentinel Grace, ma’am!” A haggard and wide-eyed Glorine charged into the shop, shouting at the top of her lungs.
+
+Avyna rolled her eyes and muttered something about noise fines in High Elvish.
+
+“What now?” Ranthia asked, with a half-hearted salute.
+
+The messenger ignored it and rushed over, grabbing desperately at Ranthia’s armor.
+
+“Where is Gailla?! Please, help me find my fiancée!” Glorine pleaded.
+
+Gods and goddesses, she was trembling.
+
+Ranthia accelerated her perception and realized the problem immediately. Gailla was one of Remera’s [Analysts], and several of their tents had been targeted.
+
+Ranthia nodded and set her hands on her friend’s shoulders, trying to project an air of confidence.
+
+“I’m sure she’s okay. But come on, follow me! We’ll find her together, I promise. <Gemheart>, stay here!” Ranthia did her best to reassure Glorine without wasting undue amounts of time.
+
+Sparing only the briefest moment to glance back at Avyna—to reassure herself that she wouldn’t regret leaving—Ranthia released Glorine and took off at a run, trying to match Glorine’s lesser top speed. The desperate [Messenger] was hot on her heels.
+
+Glorine seemed to have expected Ranthia to start searching Remera, but she had a better idea. The command tent that was actually in use that day was glaringly obvious in the current crisis. People buzzed about like insects as a nonstop press of [Messengers] and officers flew in and out.
+
+Inside was even worse, a calamitous blend of shouts, orders, and queries threatened to drown out every last bit of comprehension. Even with her authority as Sentinel Grace, Ranthia struggled to get the distracted pseudo-attention of one of the assignment personnel long enough to confirm that Gailla hadn’t been assigned to any of the tents that had been hit.
+
+Glorine’s desperation crashed so hard that the woman nearly collapsed out of sheer relief when Ranthia shouted the news into her friend’s ear. Which left Ranthia carrying the woman out of the tent to get them out of the way, but once the [Messenger] found her feet again, they set out—at a more reasonable pace—to the specified tent.
+
+Ranthia left the two crying women to their embrace once they were reunited, each relieved beyond words to know the other was safe.
+
+Given the anguish in the air, far too many men and women weren’t so lucky.
+
+The fires had been cleared and the shimagu finally retreated, ending the long conflict. The base commander was demanding a meeting, but Ranthia was at home, sitting in a wooden chair while she stubbornly attempted to clean and repair her heavily damaged armor.
+
+She knew she was being ridiculous, but she didn’t want to swap to a spare suit, she had just gotten that one perfectly broken in and adjusted.
+
+Avyna was putting the finishing touches on dinner while they awaited Glorine and Gailla’s arrival. Their friends’ tent had been dismantled due to being near one of the fires, so the duo needed a place to sleep until they could set up again. They were lucky, nothing was truly lost—it was just packed away for the moment.
+
+The younger couple entered without fanfare, and Ranthia shifted to a fresh image—though she had [Submind] continue to scrub the armor in the image she abandoned. She could spare a bit of attention to direct it while they ate.
+
+Avyna carried the pot of fresh soup to the table and set it down. It was a creamy, cheesy broth with ingredients that had been chopped fine enough it could be sipped. Avyna still used a spoon, but everyone else alternated between taking careful sips of the hot soup and dunking chunks of bread in it.
+
+Yet no one spoke. There was a pall hanging over their gathering. They were lucky, but Remera had suffered. The death toll wasn’t yet finalized, but at least thirty people died inside Remera during the fires, on top of the losses amongst the wall defenders and those that took the field.
+
+The infected dinosaurs that were responsible had been culled, but that didn’t bring back those that were lost. Gailla in particular had friends and colleagues in the tents that were struck, and she didn’t even know who she might never be able to see again.
+
+Their mutual silence lingered even after the food was finished. Avyna brought some fresh fruit out, but only Ranthia opted to take any. Dark mood or not, she wasn’t about to pass on a pear—the gentle, refreshing flavor was almost as welcome as Avyna’s hand was.
+
+“Avyna, we wanted to ask you something.” Gailla finally broke the silence right when Ranthia bit into her fruit.
+
+“Oh?” Avyna prompted.
+
+“We know you’ve done a lot of prep work for us…” Glorine explained before she nervously trailed off.
+
+“But we want to move our marriage ceremony up. While we love the winter solstice…” Gailla picked up where Glorine left off.
+
+“I was so scared that I lost her today, without ever being able to call her my wife.” Glorine concluded, before she seized her fiancée’s hand.
+
+They rested their foreheads together, reminding one another that they were both still there.
+
+“I see… How about the autumnal equinox then? It will be here before we know it and I think we should be able to pull it off. I will need to check with the base commander tomorrow… or perhaps the day after, considering.” Avyna offered.
+
+The women smiled and nodded their consent.
+
+Ranthia hid her wince with another big bite of pear. With the schedule moved up, her life promised to become busier and even more restless for the next few months. Worse, it was going to cut into her precious time with her Gemheart!
+
+…But she was being selfish. It was a sacrifice that she needed to be more willing to make—to help her friends enjoy their own love. Hadn’t she promised herself to be a better person?
+
+Besides, a proper wedding promised to be a beautiful distraction from the darker thoughts that had built up in the back of her mind.

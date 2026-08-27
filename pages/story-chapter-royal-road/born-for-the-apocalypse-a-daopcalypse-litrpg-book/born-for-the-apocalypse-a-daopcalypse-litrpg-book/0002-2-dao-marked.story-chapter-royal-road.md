@@ -1,0 +1,179 @@
+---
+id: cb573593-b70f-5737-a2a3-6d323b7ddc8b
+page-type-slug: story-chapter-royal-road
+title: "2: Dao Marked"
+slug: 0002-2-dao-marked
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 2
+ownLength: 1722
+unit: words
+publishedAt: 2023-02-04
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1105316/2-dao-marked"
+royalRoadId: "1105316"
+---
+
+In his right hand, was a sword. Or atleast, it felt like the hilt of a sword. Jack tightened his grip over it, his palm sinking into the oddly flexible, rubbery texture.
+
+Naturally, he tried to move.
+
+Not again, he thought to himself upon realizing that he was locked in place again. Trying to move his body, he realized that he still possessed motor control over his neck and lip muscles, but that was it.
+
+Naturally, his gaze shifted, as he scanned the surroundings.
+
+“Well, this is unexpected,” Jack muttered aloud, referring to the other three individuals that seemed equally, if not more befuddled than he was. “I was not told to be expecting visitors,” he added, a twinge of amusement audible in his tone.
+
+Their gazes immediately shifted to him.
+
+A lanky, black-haired man cautiously took in his features as he returned the favor. A bead of sweat trickled down his pale face that looked like it hadn’t seen a lick of sunlight in years, his right hand holding onto a dark-purple recurve bow and his left clenched onto a solitary arrow which boasted of a wooden shaft and a silver metal tip. Steel perhaps? Jack wasn’t inclined to make assumptions. From this angle, he got a good look at his hands, noticing or rather, observing the lack of calluses upon his hands.
+
+‘Pale skin, blemishfree hands and black circles around his eyes in what, his late twenties?’ Jack thought to himself, reaching the conclusion that it was unlikely that this person was one of the townsfolk, the only town in a radius of a hundred kilometers he had access to.
+
+The first impression he gave off was of an overworked office worker living in a concrete jungle, and it was likely fo be the correct one too.
+
+What Jack found more interesting was his clothing— a faded green tunic that appeared to be made out of linen clothed his upper body, matched with well-fitting leggings in the same hue that stretched down till the a little below the knees, the rest covered by tall, patterned leather boots. A cloak completed the outfit, the quiver slung behind his back.
+
+Jack’s eyes widened in surprise, as he glimpsed at the circular tattoo upon the Ranger’s right hand. At first, it’s significance hadn’t entirely registered, not until his thoughts flashed back to the mention of the Dao Mark.
+
+He focused upon that tattoo, coming to the realization that it wasn’t as tangible as it appeared on first glance. A milky white halo had superimposed upon the back of his hand, exuding an ethereal, fleeting aura that he had to focus on to grasp. Images flashed through his mind, though they were too jumbled and esoteric to make sense of— all he was able to comprehend was the general emotions and feelings associated with each fliting image; of purity, of new beginnings, of rebirth, of renewal and of growth.
+
+Jack hurriedly pulled his gaze away, trying not to give away the surprise he felt. Craning his head downwards, he noticed the same halo upon his hand as well, though due to the angle and being locked in place, he couldn’t get a clear view. Another set of images flashed though his mind, different but conveying a similar message— as far as he could interpret, anyway. It wasn’t a strong compulsion, and he could easily break away from it as soon as he wished, so the marks itself didn’t seem to be offensively inclined.
+
+Curious.
+
+His attention shifted to the other two individuals staring at him. Both wore a similar combination of tunic and leggings, the difference mainly in the colors and small accessorizations. The first was a woman, appearing to be in her mid-twenties. Her amber eyes gazed upon his visage, but she was not really looking at him— the melange of confusion and shock rather evidently reflected in the depths of her beautiful eyes. Her toned muscles spoke of an athletic build, the tip of a bluish-silver metal spear glinting in the sunlight. Jack noted that even the spear’s shaft was comprised entirely of metal, but the woman didn’t seem concerned about holding onto it with her right hand.
+
+A lightweight alien alloy?
+
+His own sword seemed to be made of a different metal, interestingly enough. Filing that observation for later consideration, Jack noted how her auburn hair was tied into a neat ponytail, her appearance tidy and well-maintained.
+
+Definitely another desk-job.
+
+Whether they actually had a desk job or not was irrelevant to him; his goal was to assess combat capabilities and readiness, not financial health. He could only imagine what must be going through the woman’s head, stranded in the middle of a seemingly inhabited forest with three other men with unknown origins and intentions, but his gaze shifted to the last person.
+
+Early thirties. Well-built. Tall. Calloused hands. A thick, bushy beard.
+
+What Jack found more interesting was the man’s musculature— two burly arms intimidatingly hung at his sides, his skin more on the tanned side. As a whole, the man carried a more rugged look compared to the others.
+
+A construction worker, maybe? Definitely gets action in the field. Plenty strong, too.
+
+He held a sword identical to his own, but Jack was keenly aware of the difference in their respective strengths. If a dispute, or worse, broke out, then he would have to employ a more sophisticated sword style over a more direct, forceful one.
+
+None of the others seemed willing to initiate a conversation, atleast, not so long as they were locked in place. They simply took stock of one another, some with intimidated gazes and others trying to intimidate.
+
+Before the silence stretched into awkwardness, another screen popped up into his vision, admittedly, startling him a little.
+
+He thought that the pop-ups were only limited to the Dreamscape, as Arrenis Shen had termed it, but quite evidently, that wasn’t the case.
+
+[Quest: Awakening
+
+Duration: 60 Days.
+
+Bathed in the flames of the Divine, you have transcended the threshold of mortality and stepped upon the path of cultivator, an arcane master of the laws that influence and govern the three realms.
+
+From henceforth, your actions shall influence the Divine Flames’ manifestation in your soul, the evolution of a Dao Mark into a Dao Path. This quest is designed to stimulate your body, mind and soul to the brink, to the absolute threshold of your perceived limitations and then, to the beyond.
+
+A Dao is a fundamental law that governs the three realms. Presently, the Dao Mark on your right hand is in an inert state. Your intent, your resolve and your actions will provide it with the necessary stimulation to awaken.
+
+Awakening a Dao Path will grant you an affinity in that concept, saving years and decades of cultivation that still might not offer any results. A Dao Path grants concepts that most integrated cultivators normally would never be able to naturally master in their lifespans.
+
+However, ultimately, the System leaves the choice upto you:
+
+Power or Impotence?
+
+Defiance or resignation?
+
+Rage or acceptance?
+
+Life…
+
+..Or
+
+Death? ]
+
+Still goading me, are you?
+
+Jack wasn’t given any time to even voice his thoughts, when another screen popped up in quick succession.
+
+[Quest Rules:
+
+1. Cultivation can be achieved by killing another lifeform and absorbing its Qi, as it is commonly referred to, in the form of experience. The System will assist in the Qi cycling process for the initial stages.
+
+2. During this phase of this trial, a cultivator may encounter the following enemies:
+
+-Prisoners from the Astral Lock
+
+-Rift Beasts
+
+-Evolved predators from Earth’s fauna
+
+-Hidden Pieces
+
+3, For each kill, [Tutorial Points] are awarded long with experience. Killing another cultivator awards all the [Tutorial Points] in their possession. Additional rewards may be granted for slaying powerful enemies.
+
+4. Artifacts, cultivation pills, cultivation techniques and resources will be awarded for slaying system designated enemies as enumerated in Rule 2. [Tutorial Points] can be used to purchase powerful rewards from the [Tutorial Shop].
+
+[System Statistics], [Spatial Inventory] and [Tutorial Shop] are now partly available.]
+
+System statistics?
+
+[Name: Jack Anderson
+
+Cultivation Stage: Qi Gathering
+
+Race: Human [Unrefined]
+
+Class: Swordsman [Basic] (Lv.1)
+
+Feat: -
+
+Dao Mark: Inert
+
+Minor Dao Fragment: -
+
+Skills: Inspect (Lv.1), Qi Blade (Lv.1)
+
+Statistics:
+
+Strength: 6
+
+Constitution: 6
+
+Intelligence: 9
+
+Wisdom: 7
+
+Dexterity: 8
+
+Perception: 8
+
+Qi Pool: 10/10]
+
+Jack blinked, unsure how to react to the screen that had popped up in front of him again. Without being prompted, information began to flow into his mind through a mix of pictures and emotions over words, the jargonic nonsense transforming into a classification of the self, his self, that he could understand.
+
+It was overwhelming and much he still didn’t understand, but the barebones concept was simple enough. His statistics were rather simple to interpret, though he found it rather insulting to be deemed a mere six in strength.
+
+It wasn’t necessarily wrong, for he had always preferred a leaner, more mobile physique over bulking and cutting, preferring calisthenics over bodybuilding; but still, it stung.
+
+Qi Pool was the magical energy that let him channel, well, Qi into his sword and cut stuff, in a simple, unrefined way of putting it.
+
+His class, well, he chose it. But what he found fascinating was the concept of class evolution, which would trigger if he hit certain levels and thresholds. His actions during that levelling period would determine which direction his class evolved in, and it wasn’t necessary that he would be stuck with a sword for the rest of his life. The rest basically seemed irrelevant to his present situation. He was pretty sure that [Human (unrefined)] wasn’t a personal insult directed to him or his race, but if there was a way to refine his body he wasn’t made aware of it.
+
+‘Spatial Inventory’
+
+[The following items have been deposited into your Inventory:
+
+x 500 nourishment pill
+
+x 500 hydration pill
+
+x 5 Recovery Pill (Heals non-lethal wounds)]
+
+Looks like securing a stable food and water supply isn’t necessary.
+
+Finally, he directed his thoughts to the ‘Tutorial Shop’.
+
+[The Tutorial Shop shall be available twenty four hours after the commencement of the trial].
+
+A few seconds later, he could feel the intangible restrictions binding him in place beginning to fade.
+
+[The Quest commences in 60…59…58…]

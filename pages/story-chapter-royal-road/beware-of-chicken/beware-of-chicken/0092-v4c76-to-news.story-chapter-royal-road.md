@@ -1,0 +1,161 @@
+---
+id: 00bbf530-8962-5f34-b97f-55ace2f033b3
+page-type-slug: story-chapter-royal-road
+title: "v4c76: To News"
+slug: 0092-v4c76-to-news
+partOf: beware-of-chicken
+position: 92
+ownLength: 1912
+unit: words
+ownProgress: 1912
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1499767/v4c76-to-news"
+royalRoadId: "1499767"
+markedReadAt: "2026-06-29T18:54:36.484Z"
+---
+
+The wind blew through Meiling’s hair and steam wafted off the top of her tea. It was warm—one of summer's last hurrahs. Outside the small pavilion and in the sun, it was even hot enough that quite a few of the people out in the fields had stripped off their outer layers. The rain from the past week had been chased away, leaving conditions perfect for the harvest… or an event.
+
+And an event Hong Yaowu would proudly host, the Great Reaping Race.
+
+It was a small thing, mostly amongst family and friends, but somebody had invited the Lord Magistrate and Lady Wu—and to everyone’s surprise, they had actually come.
+
+So now Meiling was sitting with Lady Wu, Pi Pa, Meihua, Hu Li, and several other women from Verdant Hill that Lady Wu had brought along with her.
+
+It was the kind of gathering where she normally would have sat on the edges of, if she had been invited at all. A wallflower, shying away from the more radiant ladies around her.
+
+It was a hard habit to crack, but one could hardly blend into the background when they were seated beside Lady Wu. And yet there were no condescending looks from the other ladies. No barbs about Meiling’s appearance. Even when Meiling found herself looking for things to get angry about, there was nothing. The boney viper, the prickly thistle… was just Meiling.
+
+She found herself smiling as she returned to the conversation.
+
+“It has taken a lot longer than I first anticipated, but it's been an enjoyable project—I even saved up a bit and bought thread from the Azure Jade Trading Company! Isn’t it a wonderful shade of blue?” one of the ladies asked as she opened up the embroidery project she had been working on.
+
+Meiling gave it a glance. The scene of sky and clouds woven into the dress was very nice—she would have to see about making one like that for herself.
+
+‘It is a wonderful design. The colours truly pop,’ Pi Pa said from her own seat.
+
+“Thank you, Miss Pi Pa.” The women Lady Wu had brought with her had been afraid of the talking pig at first—but that fear had swiftly fallen away when they discovered the dainty-hat-wearing Spirit Beast was as prim and proper as they came, the picture of feminine grace.
+
+“I wish we could afford that!” another lady grumbled. She looked slightly frazzled, even now. “But this year has been a travesty! Burrower ants in the foundation, termites infesting the walls of the servant’s quarters—we’ve had to tear down three buildings and take the servants into our own house. I haven't had a quiet moment in months, and my husband’s been working himself to the bone. He's been too tired to fulfill his duties to his own wife!”
+
+Meiling felt a touch of pity for the woman. That was one thing Meiling didn’t have to worry about.
+
+“I may know something to put a bit of… pep back in him,” Meiling said, and the rest of the ladies leaned forwards in interest.
+
+“Oho? Liling’s specialty?” Hu Li asked. “Youse best be careful with that, couldn’t walk straight for a week after Ten had a sip!”
+
+Lady Wu’s eyes lit up. The rest of the ladies leaned in. “Please, do tell us more, Meiling.”
+
+================================
+
+The conversation meandered from there. It was nice to have women’s talk. While she did love Jin and Gou, ever since Xiulan, Ri Zu, Tigu, and Yin left she was mostly lacking in female conversation partners; only Pi Pa remained and they both needed more people to talk to.
+
+Meiling felt herself relaxing as she looked out at the fields where they were finishing the set up for the demonstration. She quickly spotted Gou Ren, who was taking care of Zhuye today. He looked to be lounging and lazing; her son curled up in his arms after finally exhausting himself.
+
+It was a welcome reprieve for both of them. While Meiling enjoyed being a mother, she had just gotten hit with her first real trial. Taking care of Zhuye when he was immobile had been rather simple, in a lot of respects, and her constitution prevented a lack of sleep from impacting her.
+
+This was a bit more of a trial.
+
+The second her boy learned how to crawl he immediately set about giving every one of his minders a headache. He scuttled about like a rather cute beetle, and each day he crawled for longer and longer. He definitely had his father’s inexhaustible stamina, even at this tender age.
+
+It was good that they had baby-proofed the living room, but even then he had somebody always watching him, just in case.
+
+Just in case of times like when he decided the best idea ever was to launch himself off the couch. He had been sleeping the moment before! Chun Ke had managed to catch him on his back. The boar pushed the shaken baby back up onto the couch, looked Zhuye in the eye, and gently but firmly shook his head.
+
+Zhuye had immediately started crying after being admonished… but somehow Chun Ke’s simple headshake had gotten through to him. Zhuye stayed away from the edge of the couch now.
+
+Still, it was trying enough while he was crawling. Meiling wasn’t particularly looking forward to the day he could walk, run, and escape the relatively safe confines of the house.
+
+As if reacting to her thoughts, Zhuye stirred. His eyes opened and he pushed himself out of Gou Ren’s grip, his eyes darting all around.
+
+Gou sighed and looked at Meiling. Meiling simply winked and raised her cup of tea, cherishing the man’s expression as he stuck his tongue out at her.
+
+“Ah, I remember when my son started crawling,” Lady Wu observed with a small smile. “He was a bit less spirited than your Red Leaf, but he got into everything. My husband used to call him his ‘Special Inspector’ because there was nothing we could do to keep him away from drawers he really wasn’t supposed to be in.”
+
+Meiling laughed. “Like the ones containing the ropes?” she jabbed.
+
+“Like the ones containing the ropes,” Lady Wu replied serenely.
+
+Both of them chuckled.
+
+===========================================
+
+Soon, however, it was time for the event to begin, and Meiling, according to Jin, had a vital part. She was standing in the middle of a field, holding two flags that she would raise and drop to signal the start of the coming race.
+
+There was also a costume to go along with this, but Meiling refused to wear the tight-looking, form-fitting garment in front of the village. The women in the Other Place were certainly bold to have such clothes!
+
+No, the “racing queen” was strictly for her own enjoyment, and as a project. Getting fabric that shiny would be something to work on.
+
+The atmosphere in Hong Yaowu was charged as the racers lined up.
+
+“First! We have Yao Che’s apprentice! The Lord of Steam! Ty An’s husband, Liu Bowu!” Jin shouted. Meiling stifled a laugh as Bowu’s face went crimson, and Ty An in the crowd started hurling expletives. The rest of the village jeered at the introduction, or whistled, making the teen’s faces go even redder.
+
+“Next! We have the Master of the Blade! The ponderer of the riddle of steel! Bei Be and Sun Ne, along with their helper, Liu!” The crowd cheered at the ox peacefully chewing his cud. His horns were bedecked in flower crowns, and to Meiling’s surprise, Quiet Liu, the normally silent little girl, was seated on the plow, looking determined.
+
+“The next contestant is the man you all know and love! The titan of the land! The greatest Ride Giver and his assistant—Chun Ke and Hong Xian!”
+
+Meiling raised an eye at her little brother, who was standing on Chun Ke’s back with his arms folded over his chest. He was wearing a cape, of all things, and what looked like those glasses things Jin had drawn, but dark red and pointy—and it wasn’t glass at all, but lacquered wood, so her little brother couldn’t see anything.
+
+The rest of the village children seemed to think it was the coolest thing ever, judging by the cheers.
+
+“Chun Ke! I believe in you!” he shouted.
+
+“And finally, the mountain of Hong Yaowu! The Mighty Blacksmith and his squad, Yao Che!” The man flexed, grinning, as did the five fastest men in the village.
+
+“I’ll now turn it over to our lovely mistress of ceremonies!” Jin shouted. “The most beautiful woman in the world, my wife!”
+
+Meiling just rolled her eyes and raised her flags. The people at the starting line tensed.
+
+“One! Two! Three! Go!” Meiling shouted, dropping her hands. The crowd around her let out a cheer as the contestants surged forwards.
+
+Steam spluttered. Scythes swung. The two Spirit Beasts marched forwards.
+
+Meiling shook her head, her job finished, as the crowd started heckling the contestants. She wandered over to plop beside Gou Ren, who had managed to distract Zhuye with a piece of fabric.
+
+“You’re going to make a good father,” she told him simply, and Gou Ren flushed.
+
+She watched the race from beside her brother in all but blood as Jin heckled every one of the contestants. Meiling honestly thought Bowu had it—but it was much closer than she thought. Bowu’s reaper spluttered at a critical moment, and Bei Be capitalized. The ox, with Sun Ne, reached the end of the field first.
+
+Xian was still proclaiming he was going to win, his wooden, pointy red glasses completely blocking his view.
+
+In the end, Bei Be won, followed by Bowu and then by Yao Che and his men—who had all taken off their shirts and were flexing at the crowd to laughter. Finally, Chun Ke was in last—though that was probably because he didn’t want her foolish little brother to fall off his back if he went any faster.
+
+The Lord Magistrate was chuckling and shaking his head. Lady Wu, her retinue, and Pi Pa were all giggling about something.
+
+Jin was running away from a red-faced Bowu and Ty An.
+
+Meiling smiled and breathed in deeply—and then frowned.
+
+It had happened once before, a slight acrid tang on the wind that disappeared as soon as she smelled it. The first time she had asked Vajra and Lu Ri to check on the area—but both had found nothing.
+
+Yet here it was again.
+
+Just what was it?
+
+“Mei, you okay?” Gou Ren asked her.
+
+Meiling startled and looked at him. “I’m feeling alright,” she said after a moment. “Just smelled something strange again.”
+
+Gou Ren frowned and opened his mouth to respond, when he too paused, his eyes suddenly going to the road.
+
+Meiling followed his gaze, and raised an eyebrow.
+
+Because there were soldiers marching up the road. Soldiers bearing the colours of the Azure Jade Trading Company.
+
+They were arranged around a single wagon, their eyes peeled. Jin went up to talk to them, and he was similarly frowning.
+
+That lasted until the men all bowed.
+
+And then Jin smiled.
+
+Meiling walked over, interested.
+
+“What's going on?” she asked.
+
+Her husband’s giant smile turned to her.
+
+“Letters from Tigu and Xiulan,” he replied.
+
+The guards of the caravan unloaded a chest. A heavy chest that thunked as it hit the ground.
+
+The memory of the acrid scent was dispelled as the letters were revealed.

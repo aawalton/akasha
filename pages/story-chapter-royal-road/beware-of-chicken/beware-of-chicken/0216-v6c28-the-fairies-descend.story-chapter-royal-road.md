@@ -1,0 +1,131 @@
+---
+id: 9e2eb228-8705-5a13-9fb6-a65b2fe10ae1
+page-type-slug: story-chapter-royal-road
+title: "v6c28: The Fairies Descend"
+slug: 0216-v6c28-the-fairies-descend
+partOf: beware-of-chicken
+position: 216
+ownLength: 1743
+unit: words
+ownProgress: 1743
+publishedAt: 2025-05-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2308573/v6c28-the-fairies-descend"
+royalRoadId: "2308573"
+markedReadAt: "2026-06-29T18:58:46.312Z"
+---
+
+“What the Hells should I do?” was the thought running through the mind of  Wakokukin Seiyu, the Tsunami Wing of Soaring Heaven’s Isle Sect, as she flew onwards towards their destination. The Windward Blade moved sedately behind her, its speed cut by the Qi void they were flying through.
+
+It was an annoying beast, snapping and drinking her Qi. They planned to pick up their victuals and then spend the New Year’s leave drinking in the Sea of Snow, or perhaps Grey Shard Coast, so they would soon be rid of the annoyance, so Seiyu could ignore it for at least a little while.
+
+The actual thing on her mind was the coming meeting.
+
+They were going to meet that man again.
+
+Seiyu was not an Imperial. She was Wakoku—or a tribal barbarian, as the Empire said. Her people were from the wind-swept archipelago of Wa in the southern sea that had had its own language and culture for thousands of years. They were seafarers, traders, and occasionally pirates.
+
+They had been small enough, quiet enough, and difficult enough to get to that the Empire had considered them too much effort to bring into the fold… at least until recently. It was only sixty years ago that an ambitious captain, eager for Seiyu’s hand and the glory of bringing barbarians to kneel, had threatened invasion when rejected… and in doing so made the mistake of attempting to order a Soaring Heaven’s Isle Sect ship to join their forces to his.
+
+Captain Liang had seen through the man’s blatant greed and lust… and after seeing the islands the man wished to invade had struck a deal with the Lord of Wa.
+
+Seiyu had personally held the bastard that had threatened to burn her home to the ground and slaughter her people under the waves until he had stopped struggling. However, there were certain debts that had to be paid for such things. The Islands of Wa were spared the fire of conquest and incorporated into the Empire, albeit with a loose hand, and Seiyu herself, Princess of Wa, was a political prisoner, looked after by Soaring Heaven’s Isle Sect.
+
+Frankly, it was the best outcome that could have been borne. Seiyu had nothing but respect for her new home and technical captors. She was a loyal Disciple of Soaring Heaven’s Isle Sect.
+
+But she hadn’t been home in sixty years. Imperial food was fine. Good, even. But it wasn’t home.
+
+And then out of nowhere, a man had made the staple of her homeland for her. Imperials didn’t make rice balls like that. Didn’t make onigiri. The triangular shape had been perfect. The flavours had been different, but the handmade feel and taste of almost home had been enough to bring a tear to her eye… and made her fantasize about meeting the man who had made them again.
+
+And Seiyu didn’t know how to… well, ask him the burning question. It was normally men who took the lead in instances like that, right?!
+
+She grabbed her head and kicked the air, and then shoved the thought out of her mind forcefully.
+
+Best not to think about it for now! Instead, she began to turn back and actually do her job. Bailu smirked at her, and Seiyu studiously ignored her fool of a friend.
+
+Instead, she looked to her subordinates, one of whom was already standing on the deck waiting for her. Most of the Midships were on deck, looking a little ill from the lack of Qi.
+
+“How's the floatstone holding up?” she asked. The Qi-filled rock that kept the ship flying hadn’t liked going into the Azure Hills when Elder Minyan was supporting it… and this time, it was completely unsupported, Elder’s orders. She had said she wanted to test how the stone held up without a powerful cultivator taking the strain… which meant one thing—Soaring Heaven’s Isle Sect might be visiting this province more often, and without Elder Minyan.
+
+“She's groanin’ but holdin’, Ma’am. She’ll last, I reckon, but I cannae say how much maintenance she’ll need later,” Lai Ni, the ship’s Floatstone Keeper, reported. The thick accent of Silver Pine Loch was certainly something, but the cultivators of Soaring Heaven’s Isle learned swiftly how to parse the vast array of accents that filled the Sect. The Soaring Heaven’s Isle Sect recruited women from all over the continent, casting the widest net of any sect in the Empire.
+
+Seiyu nodded at the report. “Keep us abreast of the details,” she replied, then imbued her voice with Qi to reach the ears of everyone present. “We’ll be arriving soon, so straighten yourselves out—”
+
+Yet as soon as the words left her mouth, the strain abruptly cut off. The Qi void dissipated. The ship, slow and lumbering, seemed to perk up.
+
+Everyone on deck froze. There were exclamations of shock and confusion at the unexpected feeling. Seiyu herself was stunned at the gentle cold that now graced their bodies. Then, she shook her head.
+
+“As commanded! Straighten yourselves out! We’re meeting important allies of the Sect!”
+
+The Midships all immediately started checking themselves over.
+
+=======================
+
+I whistled as I watched the skyship descend. “Isn’t she a beauty?” I asked, and my words received several murmurs of agreement.
+
+Mei had, of course, smelled them coming. They apparently smelled like an oncoming storm, and like Pale Moon Lake, but salty… which I supposed was a good approximation for a woman who had never smelled the sea. The entire farm had come out to see them, and they weren’t disappointed by the spectacle. Big D let out an approving cluck from my shoulder, while Washy splashed in his jar.
+
+Now, flying swords are all well and good, but there was something special about an honest-to-god skyship. A sword was a sword and could be beautiful, but the ship? The ship was a work of art.
+
+The sails were a lovely seafoam green, and subtly decorated with wind currents and clouds. The masts were carved with more art, spiraling in patterns that went up all the way to the top. The ship itself had glass windows on the portholes and cabin, ballistae that were currently uncrewed and pointed up at the sky, and a faint shimmering aura around the entire thing. The actual body of the ship was one sleek line, fast and aggressive-looking, and ending in a sharp, bladelike ram prow.
+
+Compared to the Cloudy Sword Sect, the ship screamed military—and was reinforced by the fact that there were a bunch of ladies standing at attention on the deck, their eyes fixed forward. But that was where ‘military’ kind of fell off. All of the women were wearing silk dresses and robes, looking more like noble ladies than the crew of a ship. I could see a bit of makeup as well.
+
+Beside the ship two other women descended. Bailu and Seiyu, I remembered their names were. Both women had neutral expressions fixed on their faces, and each movement was of serene grace.
+
+The ship moved into position… and then to my surprise, the women stepped onto the railing, and dropped off the ship. They fell like petals, their colourful clothes dancing around them, but they landed in ranks, Bailu and Seiyu at their head.
+
+As one, they clasped their fists in their hands and spoke.
+
+“The crew of the Windward Blade pays their respects to Rou Jin!” all of them said, their voices surprisingly soft and refined. Not the barked military thing I had been expecting… but all of them sounded professional.
+
+I could definitely respect that.
+
+“Rou Jin greets the fairies of Soaring heavens Isle. Please be welcome,” I replied. “That's a beautiful ship you have there.”
+
+All of the women puffed out their chests a bit, smiles on their faces.
+
+“She's indeed a beauty!” Bailu boasted.
+
+I smiled and nodded. “I can’t wait to go up on her later.”
+
+“The best view in the world!” the blue haired woman replied. “We can go up at any time, and we can fit everyone here!” she said enthusiastically, and I smiled at the eagerness.
+
+She was the only one speaking, though. The other one, Seiyu, was just sneaking glances at me, a small flush on her cheeks. She was practically vibrating on the spot.
+
+I watched her for a moment, but she didn’t feel dangerous, just like she was working up the courage to say something.
+
+“I would love that, but first let's make sure everything is in order—” I began.
+
+But just as I was prepared to go further and discuss things with our new guests, two things happened.
+
+First, there was a pop, as Washy emerged from his jar as a dragon, his mouth open and his finger pointing accusingly at Bailu…. who also froze, her mouth open, and pointed right back at the fish.
+
+“Dragon!” both of them shouted at each other.
+
+And then the purple-haired one, Seiyu, stepped forward. Her eyes were locked on mine, and she actually grabbed one of my hands. She looked soulfully into my eyes.
+
+“Master Rou, forgive this Seiyu, but she must say something. You’ve been on my mind for weeks, and now, I cannot stay silent any longer!” she said passionately, her cheeks flushed. Mei’s eyes narrowed, and she made to step forward.
+
+“I love your cooking! Please make me lunch!” A bit of drool came out of the corner of Seiyu’s mouth. Her stomach grumbled. Her eyes were desperate.
+
+Mei nearly tripped, and her eyes went from annoyed to incredulous… and then she slapped her hand over her mouth and started laughing.
+
+“...Sure, I can make you lunch,” I replied.
+
+The woman fell to her knees and let out a victory cry. Bailu on the other hand, had grown draconic horns and was glaring at my own dragon.
+
+“Do you like booze?!” she demanded of him.
+
+“Of course I like booze!” Washy fired back, offended that she would even dare ask that question. A massive smile spread across her face.
+
+“Drinking buddy!” she shouted, and tackle-hugged Washy.
+
+Gramps was laughing. Xiulan looked bewildered. Tigu looked excited.
+
+I turned back to the rest of the women. Half had their faces in their hands. The other half looked mortified.
+
+My eyes locked on the most senior-looking of them.
+
+“Please don’t tell Elder Minyan,” she mouthed at me, desperation written all over her face.
+
+I wasn’t exactly expecting that… but you know what, this is fine, too.

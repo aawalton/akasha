@@ -1,0 +1,161 @@
+---
+id: f5d2482e-0c21-5ebb-8dbb-697fa86af8cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Beneath the Crescent Moon"
+slug: 0003-chapter-3-beneath-the-crescent-moon
+partOf: beware-of-chicken
+position: 3
+ownLength: 1461
+unit: words
+ownProgress: 1461
+publishedAt: 2021-01-14
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/614658/chapter-3-beneath-the-crescent-moon"
+royalRoadId: "614658"
+markedReadAt: "2026-06-29T18:51:24.493Z"
+---
+
+Bi De knew fury. One of the red ones had vexed his Great Master. It had nearly slain one of the Great Master’s flocks, somehow managing to sneak past him. He barely sound the alarm in time, his voice berating the foul interloper.
+
+But this red one, this vile beast, was skilled. It danced around his blows, and even, horror of horrors, evaded the Great Master’s mighty spur, the one that he used to tame the earth. In all other cases, his iron spur had been a command of death. With a single contemptuous blow, he smote all others.
+
+But not for this one.
+
+At first, he was stunned nearly to the point of spitting blood. Why did his Great Master not pursue? He could have easily slain the interloper, this demon, if he directed his full and terrible wrath against it.
+
+He did not understand, but he knew his Great Master had wisdom that far eclipsed his.
+
+Thrice, the foulspawn did attempt to take what was rightfully the Great Master’s. Thrice, did the Great Master’s mighty blow miss.
+
+He even gave it a name from the very pits of hell: Basi Bu Shi. Bi De shuddered whenever he heard it. His Great Master’s words of power contained both virtuous and fell wisdom.
+
+But now, he understood. He had figured out the conundrum his Great Master had set before him. His Great Master had once more bought out his mobile coop. He remembered vaguely, before he was enlightened, travelling to these blessed lands upon the mighty fortress from the…. other place that was more hazy.
+
+Some of his master’s supplies had run low. He wished to return to the other place, so that the people there may give tribute to his glory.
+
+But to travel outwards, he would have to leave his home. With only Bi De as it’s guardian.
+
+And he was not strong enough. His weakness was preventing the master from living how he wished. It was unacceptable.
+
+He had been issued a challenge, in Basi Bu Shi’s continued existence. A mighty task to prove his worth against the wicked.
+
+And so he redoubled his efforts. His kicks took on new energy. His dance, new grace. He would slay this mighty enemy, and earn his Great Master’s trust.
+
+The Great Pillars of The Fa Ram called.
+
+/////////
+
+Well, just a bit more till I head back to Verdant Hill. I’d have to take the chickens along with me, so they didn’t all get eaten. I should probably finally deal with Basil Brush. I was being kind of lazy about it, just chasing him off and hoping he would get the message, but he was becoming persistent.
+
+I squinted at Big D as I finished dressing the fox pelt.
+
+Was…. Was my fucking chicken doing a training montage?
+
+I watched his incredibly crisp kicks for a little longer.
+
+I shook my head. Nah, I had spent too long alone. Humanising him a bit too much. Or its just cultivator world bullshit.
+
+Alright, tomorrow I’ll hunt Basil down.
+
+Heheheh. Boom Boom.
+
+////////
+
+Tonight, he would slay wicked Basi Bu Shi.
+
+Tonight, it would be either glory--or his death. Either were acceptable. If he fell in this battle, it merely proved that he was unworthy of his Great Master’s continued sufferance.
+
+He went into the night, hopping from tree to tree in silence. And there, he found his quarry.
+
+The beast was arrogant. It stalked, but did not realise others could stalk it.
+
+In silence, Bi De descended, and he struck. His legs lashed with great strength, and his enemy snarled in pain.
+
+He struck again to press his advantage, but Basi Bu Shi was worthy of his master’s ire, the lithe creature shooting away, but with a deep scar in it’s flesh that leaked blood.
+
+Bi De saw it, in his mortal enemy’s eyes. The spark of awareness. The spark of fury.
+
+This one… this one knew too.
+
+His foe did not run. It knew he had not called his Great Master. It knew it could lay him low here.
+
+Their silent dance began.
+
+His legs and spurs cut through the night air, as he flipped and dashed around his enemy’s razor teeth and tearing claws.
+
+It tried to strike him with it’s limbs, to foul his footing and drive him to the earth, but he had grown wise to these beast’s tricks, dodging them when he could, and accepting the blow to gain distance when he couldn’t.
+
+The two whirls of red chased each other through the trees, bouncing off trees, and leaving scratches in the forest floor.
+
+Bi De felt triumph. He was equally matched with this one-- nay, he dared think himself it’s superior. It’s nose was slashed open, one of it’s ears a ragged mass.His spurs ran crimson.
+
+But the wicked one could have tricks too. It raised it’s limb, as to strike another blow, sending his wings snapping out to redirect hit momentum.
+
+He saw the gleam of satisfaction too late.
+
+The paw slammed down instead, launching the wicked one forwards, and the vile Basi Bu Shi became a streamer of red, trailing behind an open maw.
+
+Teeth crashed down upon his wing. The wicked one shook it’s head savagely, and then threw him across the clearing, to slam into a tree.
+
+It was pain like no other. He nearly cried out, he nearly summoned his Great Master, but he refused to. This was his test, and he refused to fail.
+
+He staggered to get up, his legs shaking with the effort. But it was for nought.
+
+Basi Bu Shi drove him to the earth with his mighty paw. He laughed over besting the Great Master’s disciple. He savoured his victory.
+
+Bi De knew only shame, as he lied there, pinned to the base earth. He could not return his Great Master’s Blessings. He could not ever repay him. All he could do is stare up at the night sky in torment.
+
+The enormous crescent moon loomed in his vision. It was his favourite phase of the celestial object, and he always contemplated it when it showed its most perfect form. It looked somewhat like his master’s mighty spur-- or his own useless, weak ones.
+
+Ah, how he wished for a mighty weapon to slay the wicked.
+
+The Crescent Moon loomed.
+
+Bi De, in his last moments, contemplated the lunar glory.
+
+Bi De, in his last moments, understood.
+
+He guided his energy and intent true. Blades of light, pure as the moon above, sprung from his limbs.
+
+[Rising of the Crescent Moon]
+
+His body sprung from it’s prone position and he rose as surely as the moon. The wicked could not contain him with it’s paltry strength. The blade struck true, gouging out one of the foulspawn’s eyes as he flipped in the air.
+
+The enemy shrieked in pain, its very soul burned by the righteous, heavenly blades he now bore.
+
+He hung there a moment, under the moon’s celestial light, gazing down upon his enemy.
+
+All things that rise, fall.
+
+[Descending Lunar Fangs]
+
+It was inevitable, as true as the sun, the moon, and the stars set, so too did he once more descend to the base earth, carrying the weight and glory of heaven with him.
+
+Both of his glimmering spurs buried themselves in the neck of the red one. This unsightly Basi Bu Shi.
+
+[Wheel of the Crescent Moon]
+
+His legs split apart, once more throwing him into a flip, the white energy forming a ring-like afterimage around him, and parting his mortal enemy’s head from it’s shoulders.
+
+He landed gracefully once more upon the earth.
+
+His enemy’s head thumped to the ground behind him.
+
+He.. he had done it. Bi De had completed his master’s task.
+
+He roared his victory to the heavens.
+
+His Great Master burst into the clearing upon hearing his cry, fury in his eyes at those who would dare attempt to harm his disciple.
+
+//////////
+
+I stumbled to a stop, after once again being called out of bed. The small clearing was cut up from something, and there was Big D, looking pleased as punch, standing on the savaged and beheaded form of Basil Brush.
+
+What the fuck?
+
+/////////
+
+His Great Master, as always, lavished affection upon him. His broken wing was bandaged. His messed feathers combed, and his wattles rubbed in a most pleasing way.
+
+He was delivered back to the coop, and fed full sprigs of Heavenly Herbs. His Great Master Commanded him to replenish, and enjoy himself.
+
+He was a good disciple of his Great Master. He had passed his test, and was now to be granted guardianship of The Great Fa Ram, trusted to hold faith for his Lord while he braved the world.

@@ -1,0 +1,165 @@
+---
+id: 8581d368-2351-5665-83d9-f251068b782d
+page-type-slug: story-chapter-royal-road
+title: "v4c 12.3: Induction part 3"
+slug: 0020-v4c-12-3-induction-part-3
+partOf: beware-of-chicken
+position: 20
+ownLength: 2064
+unit: words
+ownProgress: 2064
+publishedAt: 2023-06-04
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1234534/v4c-123-induction-part-3"
+royalRoadId: "1234534"
+markedReadAt: "2026-06-29T18:52:00.630Z"
+---
+
+~Let the stars take their rest~
+
+A voice flowed in through his open window and Zang Zhong, Young Master and head of the Inner Disciples of the Shrouded Mountain Sect, felt it penetrate his meditation. As a cultivator in the Spiritual Realm, he rarely slept days, spending the hours cultivating instead of wasting time with the unnecessary action.
+
+The voice was powerful, yet soft. The notes were long and drawn out, echoing across the Shrouded Mountain. It was an exaltation of the morning that Zhong found quite beautiful, even as it disturbed his meditation. He could not be angry at the morning salutation though, for it was time to awake and begin his duties anyway—and then he felt the slight amount of Qi within.
+
+His guard was instantly up as he examined what was happening… but rather than being an attack, the song’s only purpose was to awaken and invigorate.
+
+~Let the stars take their rest.~
+
+Hearing the voice call for all to wake once more, Zhong blinked as he felt his senses sharpen and a tiny bit of fog he didn’t even know existed within his mind lifted, leaving only crystal clarity.
+
+It was refreshing. He felt… good.
+
+Curious about the singer, he exited his mansion to find the one that was greeting the morning. What he found was the newest initiate to the Inner Sect standing on the roof of the smallest had that an Inner Disciple had within their compound. The housing district was full of them—but this particular place had only one old mortal servant, and compared to the grander palaces the house looked like a farmer’s hut.
+
+Bi De’s eyes were closed and he was lacking a shirt. His hair seemed to sparkle in the sun as he lifted his face to its warmth, a small smile on his face.
+
+~Let the light fill the sky; let the dawn crest—~
+
+Zhong saw others who were coming out to watch. Their eyes, too, were bright and alert, ready to face the day. The man’s voice had a pleasing quality that urged all who heard it to arise.
+
+~As the darkness fades.~
+
+Despite himself, Zhong was impressed. After he suppressed Bi De,and made sure the man was no threat he decided would allow the man a spot in his retinue, if only to sing in the morning for him.
+
+And then Zhong saw the looks the women—and some of the men—were giving the sparkling bastard, and any kind feelings left Zhong’s soul. For the ancestors’ sake, his cousin Huiying, looked like she was drooling.
+
+The last notes echoed over the Shrouded Mountain, and the handsome bastard opened his eyes. He stepped off the roof of the house and alighted on the ground with grace. He turned his iridescent green eyes on Zhong—and then bowed.
+
+“Bi De greets the Young Master, and hopes the morning finds him well.”
+
+Zhong was torn. On one hand, the brat knew his place. His bow was perfect for his station and without arrogance. The morning song was something he had obviously done for years—he was too practised and uncaring about the effect he was having for there to be any other outcome, so it was not some plot—and sun worship was quite common amongst the peasants.
+
+On the other hand, just by existing he was annoying him.
+
+“If you have enough energy to sing, then you have enough energy to get started on your duties,” he replied. “I do believe the gardens require more manure.”
+
+There was no reaction other than a nod as the man accepted his charge. “Of course, Young Master. This Bi De hears and obeys.”
+
+The man turned, starting off towards the gardens as Zhong watched his back.
+
+“Why do you all gawk like chickens?” he demanded as the rest of the Inner Disciples continued to watch the man go. “Be about your business.”
+
+They all dispersed, save for his cousin, who approached.
+
+“Really? Giving him garden duty? Quite spiteful of you, cousin.” Her voice was light as she played with her braid, her eyes on Bi De’s back.
+
+“All must contribute to the Sect,” he said dismissively and turned to head back to his own home to complete his morning duties and cultivation.
+
+“Oh, I know, but it’s a touch too far on such a new disciple. Give him to this pretty sister here, and she’ll polish that gem right up.”
+
+“That will not be happening. I have been instructed to watch over him by Elder Chongyun.” He knew at once that was the wrong thing to say, as Huiying’s face turned sly.
+
+“Oh, is that jealousy—”
+
+“You are tolerated because you are blood.” His intent froze her in place. His weaker cousin swallowed. “Be about your business, or you may join him in the fields—planted head first.”
+
+His cousin bowed and left, beating a hasty retreat. Really, how thick was her face, to act like that around him? Zhong snorted. People had been getting uppity since the rumours that little Zang Li had died. In the Azure Hills of all places. He would likely have to make an example out of someone soon.
+
+He returned to his home, the servants having already arranged things for him, and started his morning duties, which went by remarkably quickly and remarkably smoothly. All the paperwork and management which took up his time was finished in record time. Even his brief session of morning cultivation was slightly more productive than normal.
+
+His mood was good and he pondered on how to improve it further. He soon smirked as he wondered how frustrated the newest Inner Disciple was.
+
+Thus, he left the house and headed to the gardens to check on Bi De’s work, debating whether or not to find some ‘mistakes’ the man would have to fix…
+
+Only to stop dead as he witnessed Bi De’s work. The man moved like a master, his attention wholly consumed by his task. His skin glistened with a slight sheen of sweat as he tended to the Spiritual Herbs.
+
+They, by necessity, only grew the most hardy of Spiritual Herbs in their gardens. The rare and valuable herbs could only grow wild. These were the work-horse herbs, the Flesh-Knit Roots, the Twelve Poison Resistance Spice, and the Hundred Year Ginseng experiments from before Zhong’s time. All of them were grown on the side of the Shrouded Mountain in a walled courtyard.
+
+The Twelve Poison Resistance Spice Bi De was tending to had flushed a vibrant shade of green, looking more vital than Zhong had ever seen them. It stretched towards the sky, almost waving its fronds.
+
+But the other thing that caught Zhong’s attention was what exactly Bi De was doing.
+
+Because it utterly baffled Zhong.
+
+The man was a fool. An idiot of the highest proportions who had obviously just gotten lucky as he poured his Qi into the ground like it was water. Was he planning on reaping the entire field at once through some technique? Zhong looked closely at the Qi saturating the ground and being taken up by the plants.
+
+Throwing one’s Qi into the ground… Zhong did not even need to suppress him. He could just allow him to act and Bi De would suppress himself. In fact, he could even play the role of the kind Senior—thus, he descended upon Bi De.
+
+“Fantastic work, disciple. You truly have a gift.” Zhong complimented the red-haired man.
+
+“Bi De thanks the Young Master,” the man replied, radiating honesty. “Though things would be better if the wall could be removed—it interferes too much with the sun, I believe.”
+
+Zhong filed that information away as he stared at the Spiritual Herbs. “I see. Well then, I have long been searching for a gardener to assist in growing my own Spiritual Herbs—you shall assist me in this endeavour.”
+
+“As you will, Young Master,” the man said, once more looking unbothered. Bi De was cold as ice, compared to his fiery red hair. He was strange… very strange, but he could be used and that was enough.
+
+Zhong Li clapped his hands, and at once his main servant appeared beside him. A cultivator in the Second Stage of the Initiate’s Realm, and who had been serving Zhong since Zhong’s birth..
+
+“Get this junior here some water and food, so that he may continue his work.”
+
+That, of all things, seemed to surprise Bi De. “Thank you, Young Master.”
+
+“As you were.”
+
+Zhong walked off with a smile on his face, the taste of victory on his lips. He looked back at Bi De, wishing to indulge in the sight of the bastard demeaning himself.
+
+The smile fell slightly.
+
+How the hells did one manage to look handsome shoveling shit?!
+
+================================
+
+Bi De glanced at where Zang Zhong had left. He was an odious sort. The naked greed in his eyes was distasteful, and Bi De quite frankly wanted nothing to do with him.
+
+But he was kin to Zang Li—the man who turned out to be a demon. Thus, it was only prudent to observe him and his family.
+
+Better yet, Bi De now had access to his household with his gardening duties.
+
+He would have to be quiet when poking around, but this was certainly a fine boon.
+
+Satisfied at how his morning was progressing, he turned his attention back to the land and the Spiritual Herbs.
+
+The state of the herbs was, quite frankly, dreadful. They didn’t deserve to be treated like this. It was entirely the wrong place to be growing them. The walls needed to come down, at the very least, but Bi De could not just start tearing down structures without permission.
+
+He shook his head as he fed more Qi to the land. It was much more taxing to do this here than back home in the Azure Hills. Though the Dragon Veins were fairly close to the surface on the Shrouded Mountain, the earth seemed to hardly notice his offering—and the Qi itself felt odd. Though it was thick in the air, it paradoxically felt less nourishing and less able to be used.
+
+The second thing… was that he likely would not be getting his Qi back when he slept. The nourishing air of Fa Ram was warm and inviting. Those who slept in its embrace awoke full of vitality. Outside of it was a completely different story.
+
+He knew now why most cultivators were shocked when they witnessed what his Great Master did; his Master had but to sleep and his Qi would recharge, cycling with the earth. Everything he offered would be returned to him.
+
+Here? Here, the land was indifferent to him. He would have to meditate to regain his strength, as he’d done during his adventure to find the crystal—taking it back slowly and painstakingly from the air, or recharging his Qi through the fires of his Dantian.
+
+Both methods would lead to a stagnation, if they did not outright halt his growth.
+
+It would only be a detriment to himself to continue to offer his energy to the Spiritual Herbs. Others would consume these plants, reaping the rewards. He also wouldn’t be around long enough to continuously improve the soil with his Great Master’s teachings. Others would pick this place clean and ruin all of his hard work.
+
+And yet… Bi De offered it anyway. He infused his Qi to the land. He did not do it to receive the power of an Earth Spirit, but because… he desired to do so.
+
+He gave to the earth… and the earth would give back.
+
+Even if he would not be the one to receive it, someone would.
+
+And that was enough.
+
+Painstakingly, Bi De completed the field. And then he went off to repair the treasure shed.
+
+This task, too, was given his full attention. He felt eyes upon him as he repaired the place, being watched by others carefully to see if he stole anything—but Bi De had no time for these so-called ‘treasures’.
+
+He had a mission to do.
+
+Surely, his companions would have just as much, if not more, luck than him!
+
+======================
+
+“You fail.” Master Lishu of the Medical Pavillion told Ri Zu, his voice cold and detached.
+
+Ri Zu sat before him, her back straight… and no matter how much it stung her pride.. She couldn’t disagree with the man’s assessment.

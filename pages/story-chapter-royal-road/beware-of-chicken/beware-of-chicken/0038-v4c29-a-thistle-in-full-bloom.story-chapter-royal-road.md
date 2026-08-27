@@ -1,0 +1,123 @@
+---
+id: 57e83839-4bf2-5e7a-bf2b-e9db648a1c5a
+page-type-slug: story-chapter-royal-road
+title: "v4c29: A Thistle in Full Bloom"
+slug: 0038-v4c29-a-thistle-in-full-bloom
+partOf: beware-of-chicken
+position: 38
+ownLength: 1776
+unit: words
+ownProgress: 1776
+publishedAt: 2023-07-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1294583/v4c29-a-thistle-in-full-bloom"
+royalRoadId: "1294583"
+markedReadAt: "2026-06-29T18:52:39.152Z"
+---
+
+“Thank you for extending to me this offer. It would be an honour and a pleasure to learn.” Meiling said, as she sat across from an old man. He had reminded Meiling of Uncle Bao—warm and jolly, but with a mind sharper than any blade.
+
+The old man sitting across from her smiled.
+
+=================================
+
+Meiling woke up, the last vestiges of her dream fading from her mind. She had been talking to an old man, learning some medical techniques with his other disciples. She didn’t remember what had been said but she remembered the old man vividly.
+
+It had been a rather strange dream… but she supposed it was probably just about her own studies. She had been writing her own anatomy treatise, detailing her observations and trying to confirm some of the stuff Jin had been saying about nutrition, things he had learned from… the other place. It was an interesting topic. They were so far ahead in some areas, but they didn’t take into account the energy of the room or the healing properties of Yin and Yang Qi.
+
+Meiling sighed and snuggled into her husband’s embrace, listening to his breathing. Her little brother had decided to worm his way between them during the night, while Zhuye was on his own bedroll.
+
+Some days, Hong Meiling had to remind herself that she wasn’t living in some strange dream world. It truly was her life. She glanced over at Zhuye, who was still asleep as well—their son slept through the night most of the time now. So Meiling sighed with contentment and simply lay there, letting her boys sleep for a while longer.
+
+Honestly, for her it was less of a relief to have her son sleeping than it was for most new mothers. Meiling didn’t actually need to sleep that much, perhaps an hour a week if she was pushing it—and every other woman in the village made sure to voice their envy when she had been talking to them about the trials of motherhood.
+
+Or at least they were grumbling about her when they weren’t gossiping about Bowu and Ty An.
+
+“Looks like everybody from the village has been shacking up with a prince or a princess,” Hu Li had said with a wry smile on her face.
+
+She had never thought of it that way, but it was kind of funny in retrospect. A village so remote it wasn’t even on some of the maps was now playing host to the movers and shakers of the province. The village itself had somehow changed to a better, more idyllic version of itself thanks to Gou Ren and Jin’s work. The yields they were expecting this year were thrice what they normally had, and the paddies attracting ducks and other animals meant there was more game closer at hand. As long as they took, as Jin said, sustainably, they would be eating like nobles.
+
+She took another deep, contented breath, and her nostrils filled with the scents of the world. Jin’s scent had a wonderful, earthy aroma that in summer smelled like dew-speckled grass and wildflowers. Her little brother smelled like a warm summer’s night with the stars out and shining in the void.
+
+Zhuye smelled like a sapling, barely poking out of the soil.
+
+Meiling exhaled and took another deeper breath. She found the comforting mossy rock that was Chun Ke and the absence of smell, the void, that was Pi Pa in the guest bedroom. Beside them was the world after a passed storm—the scent of Wa Shi asleep in his jar.
+
+A third breath and the scent of the heated earth that was Miantiao reached her. Beside him was the faint, barely perceptible hot water and steam of Bowu.
+
+The last person in the house was her father who smelled slightly of herbs, so faint it was barely there.
+
+And still she breathed deep, her senses expanding ever outward. She swept across the village. Each and every person had their own unique scent now, simple and one-note, but she could tell them all apart now. Her power had expanded and she quite enjoyed her new party trick of being able to tell who was in front of her even when she was blindfolded.
+
+In the midst of these faint scents of the villagers was the solid, dependable smell of mortar and stone dust—Gou Ren asleep in his old family home beside Ten Ren and Hu Li, who smelled like warm leather and cooking food. Beside that house was the sharpness of Bei Be and Sun Ne, already awake and wandering around the village.
+
+Outward into the hills she reached the scents of home. Their home. The Qi permeated the walls and fields that were thick with the heady smell of growth. It was almost overpowering in its vital strength, pulsing and beating like a heart, breathing in tune with the world around it. And mixed within it, she caught the hints of their patrolling guard—the diffuse scent of order and honey that was Vajra.
+
+There were scents missing. Scents that she had gotten used to, that now were conspicuous in their absence. Meiling lingered on those absent scents, waiting for the day when she could feel them again.
+
+She took another breath. In the opposite direction, she found Verdant Hill. There was just a taste of it, a bare thing, but she could almost feel the couple thousand people who lived there. It wasn’t unpleasant, just the smell of life and general contentment.
+
+She let out her last breath and, not having scented anything out of the ordinary, opened her eyes—only instead of meeting Jin’s sleeping face, she met his beautiful green eyes.
+
+“Morning, beautiful,” Jin said, smiling at her.
+
+Not even a year ago, that would have had her blushing like a maiden. Her husband had always appreciated her body… It had made her ashamed in the past but seeing through his eyes had let her release the shame. Now she no longer felt self-conscious about her size or weight, most of the time.
+
+“Good morning, handsome,” she returned, and their faces closed to greet each other properly. It was a relatively short, chaste moment, as Xian was still in bed with them. When they pulled back, she saw her husband’s pondering face before he brightened up.
+
+“You first or me today?” he asked her, referring to their little game of telling each other strange or random facts in the morning.
+
+It was getting on to two years and they still hadn’t repeated themselves.
+
+Meiling smiled. “You seem like you have a good one today.”
+
+“You can look into an owl’s ear and see its eyeball,” he said. “And they’re not actually balls, they’re tubes.”
+
+Meiling blinked. She actually hadn't known that. How was she going to top that today? Jin was a font of random facts—ah, there we go. That was one.
+
+“You can turn the scent glands in tusk deer into a very nasty stink bomb by…”
+
+Her husband looked equally appalled and impressed by the time she finished.
+
+=============================
+
+What was meant to be a swift breakfast turned into a longer affair, as Zhuye had woken up a bit grumpy and fussy. He, like all babies, had good days and bad days, and she was thankful her son was more on the agreeable side. But oh, he definitely had his moments and today he proved it with, like everybody remarked on, a seriously impressive set of lungs.
+
+“I think it's because the rooster didn’t crow right,” Gou Ren offered his opinion as they marched along the road to Verdant Hill. The entire village was in the carts he, Jin, and Chun Ke were pulling. The new road had shortened the journey to the point where even mortals could make the trip in a day if they pushed it, and with cultivators pulling the carts? They would be there by noon at the latest.
+
+Jin glanced at their son, who was still pouting impressively in Meiling’s arms.
+
+“You know what, I think you’re right. He didn’t shout this morning. The rooster of Hong Yaowu is too weak! His voice is not impressive enough to rouse Xiao De’s spirits!”
+
+All of them laughed and continued along the road. Once, this would have been a fairly large undertaking, getting the whole village to Verdant Hill. Now, it was simply routine to take a 'day trip,' as Jin called it.
+
+The journey was completely uneventful, save for having to stop a couple of kids who decided it would be a great game to jump between the moving carts. The guards didn’t give them a second glance as they arrived, far too used to them now.
+
+The town was pumping with activity, the entire center square taken up by the caravaneers advertising their wares. They had bright, colourful banners, and Meiling couldn't wait to go exploring. Gou had a similar expression on his face.
+
+However, she was a mother now, and she couldn't just rush off…
+
+‘My Dear and I can look after our Little Brother.’ Pi Pa bumped against Meiling’s side, smiling kindly at her.
+
+Her calling Zhuye 'Little Brother' meant that Pi Pa wasn’t ‘working’ right now. Still, Meiling nearly said yes to the offer—but really, Pi Pa should get some time for herself as well.
+
+“And you two should enjoy these things we have traveled to see, Pi Pa,” her father said, preempting her refusal as he stepped forwards. “This old man wants some time with his grandson. You little ones go out and play.”
+
+“Thank you, father,” Meiling said. “If anything happens, I’ll—”
+
+“Go on, I’m not listening~” Xian replied as he took her son from her arms.
+
+Meiling huffed, but smiled at his retreating back. She turned back to Jin and Gou, who were both craning their necks and trying to get a better look at the stalls.
+
+She shoved herself between them and wrapped her arms around both their waists. She leered at the man who was nearly her brother and then at her husband in turn.
+
+“Look at me, a flower in each hand. What a lucky gal I am,” she said in her most sleazy voice as she grabbed their butts.
+
+Jin cupped his face and looked away. Gou Ren fake swooned.
+
+They both waited for Yun Ren to make a smarmy remark, before remembering he wasn’t there. As slight as their hesitation was, Jin still noticed it.
+
+“Whoever gets Yun the present he likes the most wins,” Jin said.
+
+“You’re on!” Meiling and Gou Ren replied, accepting the challenge.
+
+They marched into the stalls, laughing and joking and poking fun at each other.

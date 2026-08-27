@@ -1,0 +1,145 @@
+---
+id: dde11f55-6a0f-5561-855e-4fc5e8904a5f
+page-type-slug: story-chapter-royal-road
+title: "v5c65: The Experts of the Empire"
+slug: 0173-v5c65-the-experts-of-the-empire
+partOf: beware-of-chicken
+position: 173
+ownLength: 1778
+unit: words
+ownProgress: 1778
+publishedAt: 2024-11-18
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1909934/v5c65-the-experts-of-the-empire"
+royalRoadId: "1909934"
+markedReadAt: "2026-06-29T18:57:14.887Z"
+---
+
+The Lord Magistrate left to deal with the Auditor-General, and Gramps told Shenhe to get some rest. Elder Ge did something with his Qi. At once, all sound from outside the room was cut off, leaving me alone amongst the old monsters.
+
+I felt a bit on edge, meeting the real movers and shakers of this world… but all of them seemed,  well, if not normal, then much different than I anticipated. I had expected humorless, grim experts, with eyes ready to kill.
+
+Instead, Elder Ge seemed downright approachable—he looked like a stern but fair teacher, and he hadn’t hesitated to speak to the Lord Magistrate with what sounded like respect in his voice.
+
+Yukong and Shou were a bit harder to place. Yukong looked like a woman in her mid-thirties; she had dark hair and eyes, with a stark, stoic feeling about her, but her lips were quirked in a small smile. The man she was standing beside, Shou, seemed to have a bit more of a temper and had reacted the most obviously out of anybody. Even now he was shooting me glances…  but they weren’t hostile, more like an eager academic. He obviously wanted to sit me down and talk with me about stuff, and I’d be happy to later.
+
+The person I was the least sure of, however, was Tianzhe Minyan.
+
+She had a cold arrogance about her and seemed bleached of colour, looking like a frozen ice sculpture rather than a woman. Most of her face was covered by a veil, leaving only her blue eyes exposed. They looked like chips of ice, sharp, cold and merciless. When Gramps had first introduced me as his grandson, those eyes had focused on me with terrifying intensity, her intent so cold it had made my bones creak.
+
+That intensity had faded when Gramps had explained things further, the woman visibly calming—and now her glances were merely curious, rather than murderous. Gramps had spoken of a lady friend before, and I was beginning to think that this was her.
+
+She had also arrived on a flying ship—which was awesome. My desire to see it up close was currently warring with my desire not to become a walking icicle if she took offense.
+
+The final person was the Herald. The guy seemed fairly lenient and easy-going, surprisingly, taking Gramps’ jokes and likely active treason without a care.
+
+It was weird, but considering how strong Gramps was… or rather, had been, I guess polite disinterest was probably the best move.
+
+They obviously had some purpose for the meeting, as Elder Ge turned to Minyan.
+
+“Divine Falcon Minyan. By the ancient friendship between our Sects, the Cloudy Sword Sect wishes to enter into an accord of information sharing and mutual cooperation for the duration of our examination of the north. Are you amenable?” Elder Ge asked the veiled lady.
+
+“I cannot speak for the entirety of the Isle, but this Minyan accepts the offer of the Black Cloud of the Silent Sky,” the cold, icy looking woman declared.
+
+They clasped forearms and nodded to each other. Gramps smiled at the byplay.
+
+“Ah, it feels a bit like old times,” the old man said, a small grin on his face.
+
+Minyan raised an eyebrow at him. “How are you so energetic, you old fool?” she demanded. “Look at you, you’re weak now, yet you’re bouncing about like you did as a boy.”
+
+Her words were disdainful, but there was no heat to them. In fact, the way her eyes looked, she seemed to be smiling.
+
+Ah, her voice and mannerisms suddenly clicked. She wasn’t just an arrogant asshole.
+
+She was a tsundere.
+
+What the hells.
+
+“Indeed! I am in a fine mood—even my body’s aches have been improved by seeing you again. If I could but behold you for a few hours, I would be fully healed,” Shen Yu smiled brightly at her.
+
+Minyan clicked her tongue and looked away, tilting her nose up in the air slightly.
+
+Yup, this lady was tsundere as fuck.
+
+Ge chuckled and shook his head.
+
+“Then let us see to our disciples,” he said, and we exited the room, and started down the hall. When we reached the room where the disciples were staying, the others paused. The door was closed, but I could hear Lady Wu’s guzheng… as well as other instruments being played.
+
+Ge opened the door.
+
+Most of the Cloudy Sword Sect disciples were seated and seemed to be enjoying the music, save for one woman who had added her erhu to Lady Wu’s guzheng. The lady had a few bandages over her arms, but other than that she didn’t look too worse for wear.
+
+The Soaring Heaven’s Isle disciples, in contrast, had mostly left their tables. Several of the women had their own instruments out as well, and most of them were sitting in front of the impromptu concert bobbing along to the music. They were all well-dressed, but I could see some callouses, and the occasional flash of a tattoo.
+
+Two hadn’t joined in. The first was a woman with her long blue hair in two braids who was watching over her fellow disciples. Above the waist she was still, but I could see her feet tapping along to the song. There was another woman beside her, who appeared to be wearing part of a kimono, of all things. She had short purple hair, grey irises, and a mole under her left eye. Instead of looking at her fellow disciples, her gaze was locked onto a large pot of rice. She had an utterly forlorn look on her face, and I saw her swallow thickly. There was still quite a bit of rice in it, and she was clearly holding herself back for some reason.
+
+The Elders seemed to find this arrangement satisfactory, and the disciples swiftly noticed their leaders. The music, aside from Lady Wu, immediately stopped, the disciples rising to their feet at the entrance of the Elders.
+
+“Have the accommodations been satisfactory, disciples?” Elder Ge asked.
+
+“Yes, Elder,” one of the Cloudy Sword Sect members stepped up—another woman, who looked quite a bit like Elder Ge. “We pay our respects to the Household of the Lord Magistrate.”
+
+The other disciples followed suit.
+
+Elder Minyan looked at all her girls and simply raised an eyebrow.
+
+“It was delicious,” the purple-haired woman said simply, her voice wistful.
+
+“Excellent. Now that you are refreshed, gather around. Our course of action is clear,” Elder Ge said. The disciples all sat again as Elder Ge took the stage, flanked by Yukong and Shou while Minyan was only slightly behind Ge. Gramps and the Herald stayed back beside the wall. Elder Ge started explaining the mission to the north, their objectives, and their duties.
+
+Seeing as I wasn’t really a part of this, I went over to Lady Wu.
+
+“Thank you,” I whispered to her. She smiled at me.
+
+“It's no trouble, Jin. They were all most polite.” She stood gracefully, lifting up her guzheng. “It has been a while since I have played for so long.”
+
+With that she left, exiting out of the servant’s entrance. Meanwhile, I walked over to the pot of rice. There was enough for a couple of rice balls left, as well as some pickles. I glanced at the lady whose dress looked a bit Japanese, then shrugged.
+
+Onigiri it was. There wasn’t any seaweed, but there was a cloth and a box to wrap them in. I’d pay the Lord Magistrate back for them later.
+
+The briefing didn’t take very long.
+
+“That is all, disciples. We are moving out immediately,” Elder Minyan stated.
+
+The cultivators all rose and started filling out, but I walked up to the purple-haired woman before she could.
+
+“Excuse me, miss?” I asked. The woman turned, and I saw the shift in her body language. She put on a haughty mask and looked at me.
+
+“Can this one assist you?” she asked, her voice prim and proper.
+
+“Please, you looked like you were still hungry,” I offered, holding out the rice balls. The woman’s look of haughty coldness instantly broke. She gaped at the food I was holding out to her, and her jaw worked for a moment, like she had no words.
+
+“Ah, um—” she turned to look back at Lady Minyan, who was watching with a raised eyebrow.
+
+“Time is of the essence, Seiyu,” was all she said before turning away.
+
+Seiyu instantly took the offered food and dipped into a bow.
+
+“Wakokukin Seiyu humbly receives this!” the woman said, her voice not quite a shout.
+
+She then fairly dashed off, the prize clutched to her chest. The blue-haired woman, who had paused with Seiyu, looked at me for another moment, and then to my surprise, she broke out into a big, sunny smile.
+
+“I’m Lanlong Bailu. Nice to meet you, Mister!” she said cheerily, her voice bubbly and far more carefree than I expected, and then sauntered off as well.
+
+I followed after, at a slightly more sedate pace, to the roof.
+
+Neither myself nor Gramps would be going—we were too injured, and somebody had to run the base of operations.
+
+Both of us lifted our hands in the gesture of respect.
+
+“My friends, I pray for your victory,” Shen Yu declared. “And you! When you go back to your Master, tell him not to bother me for a while! I don’t care what the boy wants me to do!”
+
+His eyes were locked onto the Herald.
+
+The man bowed, and once again let the insult roll off him. The cultivators jumped as one and moved so fast they disappeared into the distance, leaving no trace of their passing to the town below that was slowly waking up.
+
+Then it was just me and the old man.
+
+I glanced at Gramps, who rolled his eyes. “Don’t look at me like that. Fengyan isn’t incompetent enough to send a man who will get offended at my words… and it's fun to guess who's under the mask by the reactions alone. I think it's Shi Lang, since he was doing that little shrug with his shoulders. Not the most inspired man, Shi Lang, but he’s not terrible. He has a particular dry wit, and was originally Fengyan’s cupbearer…”
+
+I sighed and shook my head as we went back in to collect Shenhe… and head home.
+
+Our duty was done.
+
+For the moment… this was somebody else’s problem. I still didn’t feel 100% safe, but hells, I certainly didn’t want to be a demon right now, with that kind of firepower heading towards me.
+
+Truly, delegation was the strongest super power.

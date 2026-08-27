@@ -1,0 +1,105 @@
+---
+id: 4c30a57a-254f-5726-b12b-57690a955cde
+page-type-slug: story-chapter-royal-road
+title: "34. A Step into Darkness"
+slug: 0034-34-a-step-into-darkness
+partOf: breaker-of-horizons
+position: 34
+ownLength: 2642
+unit: words
+publishedAt: 2020-08-27
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/545263/34-a-step-into-darkness"
+royalRoadId: "545263"
+---
+
+My father released me, and the moment passed. It felt far too much like he was saying a sort of final farewell to me as he resigned himself to his lot, but I had also made my private resolution and there were things I had to do now. There was nothing else for us to dither over. With a wan smile, he ruffled my hair. "I'll see you in class later, Cadey."
+
+I nodded not trusting myself to speak. Still viewing myself from a distance made it easy to conclude that it was probably for the best that I didn't linger. I was brimming with emotion, and staying for a moment longer might just trigger a meltdown or breakdown and leave me inconsolable for the next few hours.
+
+"One more thing, Cadey," my father said, turning to address me as I opened the door. "It's best if you were discreet with that orb. You can hide it anywhere as long as the arcanic tether is still linked. It'll have to stay relatively close for now, but when you develop finer control, the distance it can stretch will grow."
+
+"Will it break if it stretches beyond its limits?"
+
+"It can. But you'll know long before it reaches that point. If it ever happens, just get within its reach again and the tether should re-form."
+
+I nodded and unzipped my bag. All it took was a simple flexing of the will and the orb nestled into it. My father smiled, a faint look of pride on his face as I put it away. My heart twisted. I hastily turned and, with a vague gesture of farewell, stalked off across the grounds.
+
+It felt strange to still think about going to classes after what had transpired, but it was important for me to keep up with my studies. Anything that gave me a firmer grasp of arcanophany was going to be useful. But I had a more immediate concern — should I rejoin the others for lunch now?
+
+I stopped, caught in a moment of indecision. It was a rather novel feeling since I wasn't someone who usually had trouble with such trivial choices. It occurred to me that this was probably a point where the prophetic links might have tugged me towards one option, and in their absence, I was given the space to truly consider the question if I wanted to.
+
+I wasn't ready to talk to the others about what had just happened. I wasn't even sure if I should clue them in, and if so, how much I ought to tell them. That part of the plan was still just a vague sketch. And as for Ambrose, I wasn't so sure it was wise to try and get him to tell me the full Prophecy anymore, given what my father had just told me about the nature of prophetic links. I had the protection of the orb, but it wasn't something I wanted to put to the test just yet.
+
+The skein of dispassion slipped and I was suddenly aware of how this newfound freedom from the major Prophecy's links meant that every decision was now invested with great weight. I had something no one else had, and with it, I could do things no one else might be able to do. What was I going to do with it?  That thought threatened to suffocate me — it was so much responsibility to bear.
+
+But... I didn't have to act now, did I? My father and the rest of my family weren't in any immediate danger. The image of pigs being fattened for slaughter came to mind, and although that particular metaphor was rather horrible to consider, it did mean that I still had some time. Time to just breathe... and then plan, instead of blundering forward. I had to learn from the mistakes of my father and build on his groundwork, not rashly charge ahead. And what was freedom for if it couldn't also be enjoyed? Perhaps I could just try to enjoy one ordinary day.
+
+Yes. That made sense. Enough sense to ease the weight that had settled in my chest. I turned towards the cafeteria and started walking.
+
+As it turned out, I didn't get to enjoy just one ordinary day. I got several. And before I knew it, more than a week had passed.
+
+We had three more group double-Thau sessions, where it was easy for me to keep the orb close enough during our practices even though it was stashed in my bag. The length of the tether had grown to about ten metres. I found that straying close to its limit brought on a sense of actually being physically stretched, which was unpleasant, and I didn't dare to push it far enough for the tether to break.
+
+The orb seemed to have the happy side-effect of making me immune to ensorcellment. I suspected it wasn't something to do with prophetic links, and that it had more to do with reinforcing the 'shape' of my auric-ambient-flare. Kevan wasn't pleased when I refused to explain how I was protecting myself, and I also thought it was prudent not to share even my own hacked-together sequence that had worked against Reeves because I couldn't safely confirm by myself that the auric-ambient-flare bit was what worked against ensorcellment. It seemed unwise to give something away without knowing its true value. As a compromise, I dropped clues about having to find a way to find and maintain a state of balance within oneself.
+
+So while the others shielded themselves and tried to figure out how to more fully protect themselves against ensorcellment, I got more and more practise with actually placing one on someone. Thinking back to the two occasions when the friend-in-the-arcana had helped me ensorcel people gave me some insights, and I found that even without calling upon it, I was becoming better and better at weaving robust and long-lasting ensorcellments, and even affecting multiple people over ever-greater distances without diluting the potency. By our last session, I was tasked with ensorceling everyone so that they could all focus on defending themselves against it since it was more pressing for them to learn how to block Reeves.
+
+Ambrose hadn't forgotten my dire pronouncement about having a long-overdue talk with him and to his credit, although he wasn't comfortable with my changed behaviour, he actually set aside the time for that and didn't try to avoid me. We met in private twice but I hadn't yet thought things through to my satisfaction, so I steered away from the topic of the Prophecy's contents. Ambrose was wary about this change in tack, but he didn't press the issue.
+
+Instead, we honed our arcanophanic skills away from the rest. Our ordinary Thaumaturgy classes had finally moved on from harmless arcanic bolts to ones that could cause actual damage. Riding on the concepts learned from Advanced Glyphs, we were introduced to a new series of sequences that allowed us to infuse these bolts with material effects. Instead of simply exerting a soft, gentle pressure, our bolts now hit hard enough to leave bruises even with the smallest investment of auric arcana, and we would soon move on to other more dangerous iterations. So when Ambrose and I met, we carefully experimented with shielding, learning how to adapt the practice arcanic barriers to these new, deadlier bolts since the classes hadn't covered new shielding techniques yet.
+
+Through it all, I observed the rest. It was very clear now, with the protection of the orb, that I had been previously manipulated by the prophetic links into rapidly developing a friendship with them. Now that I was outside of its direct influence, I could see how these unlikely bonds were forming. It was immediately clear that none of us would have put up with Kevan (except maybe his own brother) if not for the interference of the Prophecy. He was abrasive, selfish, and arrogant to boot. And while I did enjoy talking theory with Jerric, he had developed a gloomier disposition after the first ensorcellment incident that made it a little difficult for people to feel entirely at ease around him. Devon was easily the most likeable by dint of his effervescent personality, but even then his abrupt dips into a morose mood, whenever he felt inferior, could be rather wearying. Even I found it tiresome after a few days. And it was exactly the kind of thing that people like the twins would pounce on, and proceed to savage him to pieces.
+
+Removed as I was from the shackles of Prophecy, I could see the restraining effect it had on the group's worst impulses, and the amplifying effect it had on the smallest positive interaction. But it also meant that I didn't enjoy its mitigating influence. I found myself grinding my teeth in frustration as I mustered the will to overlook transgressions and put up with their idiosyncrasies. I hung on to the consolation that making friends wasn't supposed to be easy, after all — certainly not something that happened in just a handful of days — and that at least now I could be intentional about who I spent my time with.
+
+After the final lesson of the week, I decided to try and get to the lake again. One of the Advanced Glyphs we had learned in order to grant our arcanic bolts some material effects had given me an idea — the glyph of transmutation. It tapped on complex ideas about how one thing could be transformed into another, and we were expressly warned not to experiment with it without consulting one of the tutors (a basic tenant of safety, but one that was stressed again when we covered the glyph — Celwyn had been even scarier than usual at that point). I wasn't planning on doing anything with it, but I realised that it felt a little like the glyph of prophetic links, in a way. Thinking about the glyph of prophetic links allowed me to think about prophetic links more clearly, and to even sense them. In some way, the glyph of transmutation seemed to allow me to manipulate the idea of transmutation more concretely in my head. And something about those concepts reminded me of how the hidden gate to the lake had closed up behind me. I suspected that transmutation had something to do with it, and I wanted to take a closer look to see if I could now sense anything new.
+
+So, despite the fading light, I found myself following the Minor Query I had conjured, approaching the looming shape of the walls. I zipped up my sweater and tucked my hands into its pockets since it was particularly chilly.
+
+As I neared the place where the gate was supposed to be, I was surprised to see a shape standing near it. It was hard to make out who it was in the gathering gloom since the person was out of the soft glow of the globe lights along the path. I hesitated but decided that it would be a waste of time if I turned back just because I didn't want to talk to what looked like another student, so I continued my steady approach, trying to appear unconcerned even though I was a little nervous.
+
+That sensation of nervousness sharpened into trepidation as I got close enough to make out more features. The shadow cast by the wall made it harder to see, but now I could recognise the general shape and stance. It was the Demiurge, currently dressed in a navy-blue T-shirt with a hooded black sweater thrown over, with black pants. He tilted his head up a little, and I caught a glimpse of his platinum blonde hair under the hood. The entire ensemble had made it hard to see him clearly. And even though his stance was relaxed and casual, with one foot propped against the wall as he leaned against it, I felt a shiver run up my spine.
+
+I wanted to turn and walk away, but that seemed rather rude now that I was less than twenty metres away. I swallowed and continued my approach.
+
+"Caden, so nice to see you," he said with a slight smile, once I had come within ten paces.
+
+I stopped there. "Hello, Demiurge Caldwell, sir," I said, conspicuously aware of my dry throat.
+
+"Not going to fly around the lake again, are we?" he asked, his tone light. "It's a little late for that."
+
+"N-no." By this point, it somehow wasn't surprising that he knew, even though I had told no one about it besides my father. It seemed rude to ask him what he was doing here, so I cast around for something else to say. "I... I wanted to thank you. For helping me that day."
+
+"My pleasure. The healers had already done the hard work. I just nudged it along," he replied, his smile stretching a little wider.
+
+What do I want to do with my freedom? That thought came back to me. Here I had one of the most powerful arcanists, if not the most powerful arcanist in the Empire, right in front of me. I was free of the major Prophecy's links. I could ask anything I wanted. He may not be at liberty to answer, but seeing what he could or could not answer was still useful information.
+
+"Can I ask you something, sir?"
+
+"Yes. And now you may ask me something else."
+
+I blinked, a little nonplussed, but I gathered my thoughts and tried to compose myself. "That day in the infirmary, what did you do to me?"
+
+He nodded indulgently. "Let's see if you understand enough to understand the explanation. You were overdrawn. Completely. Do you know what that means yet? And I don't mean in the laymen sense."
+
+"There wasn't enough auric arcana in my system to keep the ambient arcana out," I answered.
+
+"Hm." He seemed a little disappointed. "Well, in that case, you can say that I emptied you of all arcana, and then made sure you had enough auric arcana in your system so that the symptoms of overdraw would not be fatal."
+
+"Can you tell me exactly what the proper understanding of overdrawing is?"
+
+"I can!" He grinned but did not continue. The silence stretched.
+
+"... Will you?" I ventured, surprising myself by allowing a note of annoyance to creep into my voice.
+
+"I'll do you one better, young Dundale. Come with me, and I'll give you a chance to learn it yourself." He straightened up and stretched a little.
+
+"Is... is this why you're here, sir? You were waiting for me?"
+
+He fixed me with his gaze, and there was a sudden gravitas in his bearing that made me take an involuntary step back. Instead of replying immediately, his eyes swept over me and seemed to pause for a fraction of a second on my bag. Then he looked me dead in the eye and suddenly smiled. "No. I wasn't waiting for you in particular. But here you are, and I have something that I did want to show you. Now is as good a time as any."
+
+Could I refuse? That seemed like a silly question. Of course I could. I was literally the free-est person in the world.
+
+And yet I was beginning to realise that while I was free from the major Prophecy's direct control, I was still bound by my own fears, insecurities, curiosity, a general desire to adhere to social convention, and so many other mundane influences. Would a young arcanist say "no" when one of the most celebrated Demiurges in the history of the Empire extended an invitation to learn something about the fundamental principles of arcanophany?
+
+"... Lead the way, sir."

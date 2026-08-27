@@ -1,0 +1,301 @@
+---
+id: 3b23eb0c-0545-5c2d-81d7-e79b1a9a97e3
+page-type-slug: story-chapter-royal-road
+title: "v7c66: Interlude: Black and Yellow Nightmare"
+slug: 0319-v7c66-interlude-black-and-yellow-nightmare
+partOf: beware-of-chicken
+position: 319
+ownLength: 3762
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3499145/v7c66-interlude-black-and-yellow-nightmare"
+royalRoadId: "3499145"
+---
+
+Yi Baolin, of the village of Hui Jaotzu, was warm and comfortable. He was laying on soft bedding, and his wife had her hand resting on his chest.
+
+He felt good. Better than good actually, like he had slept a while.
+
+Baolin must have, for he’d had the most fantastical dream. It was strange, and it had felt so real, but surely such things didn’t happen. He had dreamt he had been taken by Blaze Bears, and all sorts of strange things had happened. But no. He was here, warm in his bed—
+
+The wind shifted. The acrid smell of burning carapace hit his nose.
+
+And it all came rushing back.
+
+========================
+
+Yi Baolin was having a wonderful day. He had spent a lovely morning with his wife, his son, and his daughter, teaching his children how to fish with spears as his father had taught him and playing in the river. His children were eager to learn. Baolin was the best fisher in the village. The best man with a spear in general, really, and he was the one everyone came to when there was something dangerous afoot. It was a position he held with pride.
+
+With summer well on its way the crops needed little tending, and so life in their village was relaxed. Hui Jaotzu was a blessed place, nestled in the trees and surrounded on both sides by rivers that Blaze Bears generally did not cross—the Chief said it was because they lived at the confluence of three territories, with the river as the boundary… and the bears did not care to provoke quarrels with their neighbours.
+
+There, the people of Hui Jaotzu lived as their forefathers lived. Hunting, fishing, farming, raising pigs and goats. Their harvests were bountiful, the fish in the rivers plentiful. And best of all, few tax collectors ever wanted to get this close to bear country. They didn’t exactly need any of the bigger towns, and the towns didn’t need them, so it was a good arrangement. They remained unbothered, and the Magistrate of Logsplitter Landing didn’t have to build roads or any of that nonsense for them.
+
+Just the way everyone liked it.
+
+Now, they were in the middle of preparing their bounty.
+
+“And then you take the guts out like this,” he instructed, guiding little fingers to get a feel for it.
+
+“Ewwww! Papa, it's so slimy!” Fu complained, her nose wrinkling.
+
+“Oh, that's awesome, it's so slimy!” Feng said, his eyes sparkling.
+
+Baolin laughed along with his dear Lihua. His wife shook her head at their little ones’ reactions.
+
+“Do I have to do this, Papa?” Fu asked, still looking disgusted.
+
+“I’ll let you in on a secret. Fish always tastes the best when you’re the one to prepare them,” Baolin said, giving her his most charming smile. The smile that had charmed her mother.
+
+His daughter looked up to him, then her eyes narrowed with suspicion.
+
+“Mama, is that true?” she asked, and Baolin couldn’t help but be amused.
+
+“It's true my dearest. It's just as your father said,” Lihua said, planting a kiss on their daughter’s brow. “It really does taste better.”
+
+“…okay,” Fu muttered, resigned… still not entirely convinced, but cleaning her fish off anyway.
+
+It was a lovely, perfect day—
+
+“Blaze Bears! Blaze Bears—Ancestors preserve us!” Mao the lookout screamed, and then there was a titanic crash. The wall around the village practically exploded, torn through in an instant by the Spirit Beasts.
+
+Baolin was on his feet in an instant, his spear in hand, while his wife took the children to safety.
+
+The entire village started panicking at the sounds and at the sudden attack. They expected flames, they expected roars of fury— and with this many bears, the village and its people were surely doomed, but they had to fight anyway!
+
+Baolin found the first beast and leveled his spear at it…and the Blaze Bear ignored him.
+
+The giant beast brushed past him without paying any mind. It looked… mangy. It smelled of fire, its back fur was oddly short, it had weeping welts along its body… and it was carrying a cart. One of the high-sided ones they used for transporting livestock.
+
+Baolin was utterly baffled by the action. Blaze Bears were bears. Big bears, smart bears, but they were still beasts. He had seen many in his life, and not a single one had cared for anything made by the hands of men.
+
+But these ones did. One bear carried the cart and slammed it down in the square, then another approached, two pigs under its armpits, one in its mouth, and one in each clawed paw—only for it to toss every pig into the cart, and then unceremoniously march back to the pens.
+
+Baolin’s jaw dropped. No fire, no roars of rage—those at least were understandable.
+
+Instead, the village was being robbed!
+
+Baolin’s befuddlement changed to anger. The bears were robbing them!
+
+And not like how Blaze Bears were supposed to steal from people!
+
+“You bastard creatures, how dare you! Have you no shame?!” he demanded of one of the beasts. None spared him any glance, continuing their thievery. The other men gathered around Baolin by this point—some tried to warn the bears off with spears, but none would be denied. They tore the front off the smokehouse and grabbed everything within.
+
+Soon others, women and children were watching, also staring with shock and anger at the sheer gall of the Spirit Beasts, taking their livelihood like one of those townsfolk did their shopping, loading everything up in carts to be taken at their leisure. One woman, Chen, even hit a bear with a wok when it made a grab for her pot of jam, but the bear just snarled and then secured its prize.
+
+It was methodical. It was organised. It was utterly baffling.
+
+“What do we do?!” Han demanded, frustration clear on his face.
+
+“… why are they doing this?” Chief Xiong Shu said, his old eyes focused on the bears… and it was a good question.
+
+They were moving quickly, urgently, grunting to one another. Baolin took in the weeping sores… and then he started to get worried.
+
+Which is when he heard the buzzing. The low droning. The bears all froze—and then, for the first time, they started snarling and roaring, moving faster.
+
+“What the Hells is that—” was all Mao, still atop his post, got out… before he started screaming.
+
+At once, every head in the village turned to him as a mass of black and yellow consumed him. He was taken off his feet and into the air, the seething, writhing mass of hornets the size of Baolin’s hand stinging and tearing into him with their mandibles.
+
+One of the bears reacted instantly—and jumped. It grabbed Mao from the swarm, and with a burst of flame from its maw, it roasted the rest of them. Its surprisingly dexterous claws flashed through the air, and the hornets on Mao’s body were sliced to pieces.
+
+Baolin, heedless of the danger, raced up to his friend. He was covered in the same weeping sores, parts of his flesh were torn off, and he was gasping and choking, foaming at the mouth. His friend’s eyes were full of terror, and they met Baolin’s once… before they glazed over and he slumped. His chest ceased its rise and fall, and Baolin knew at once his friend was dead.
+
+He looked up at the bear, and the bear looked back. Its wounds matched the wounds on Mao. If they could hurt Blaze Bears enough for them to run… what sort of demons were these hornets?
+
+Baolin felt the tension come from the men, terror and horror giving way to panicked desperation.
+
+“Help them pack,” Baolin commanded, cutting though his fellow villagers’ babble before it could escalate.
+
+“What, Baolin—”
+
+“They are running. Spirit Beasts are running. We should be running too! Get the carts, get the food, get your families! We! Are! Leaving!”
+
+His words thundered through the village.
+
+“Do as he says!” the Chief demanded. “Get all the livestock. Everyone works! Now!”
+
+They all rushed to obey, grabbing everything and slinging it as fast as they could onto their carts. The bears seemed at first confused, but then a couple of them nodded and got back to work too.
+
+The bear closest to Baolin breathed out of its nose at him, before going to grab more food.
+
+They lashed together their leather and logs to make harnesses for the bears so they could pull the carts easier, while others started to soothe their flocks, the animals within panicking at the smell of the bears.
+
+In an hour, they cleared out the village of as much of the food as they could fit and all their animals. A bear burned another small hornet swarm. Everything they couldn’t load, they piled in the center of town and lit on fire.
+
+Mao’s body burned with it, the closest thing they could give him to a funeral.
+
+Then, the lead bear grabbed a cart and started pulling, and the rest followed. They directed the bears to the best part of the river to ford. The women and children were all aboard, and Fu and Feng were both scared… but they were holding up well, thank the Heavens.
+
+Baolin and the other men thought they would have to run alongside the bears… but then, they did something nobody expected.
+
+Baolin felt his guts clench as the lead bear simply grabbed him, its massive, scything claws grasping around his chest. Baolin thought he was dead… but the bear simply deposited him in the cart.
+
+The same thing happened to every villager… and then the bears began to run.
+
+They were Spirit Beasts; tireless and unyielding creatures who only cultivators could match.  Their stride was like the wind, a thundering, loping thing that made horses look as slow as snails. The wind whipped past their faces, and the carts rattled ominously, but they were oddly less bouncy than they should have been at that speed.
+
+No one had any idea of where they were being taken. They travelled a full day and a half at that pace, going through the night and only stopping for a brief moment to eat and drink at a river. It was a miserable time, stuck in the carts, and everyone was sore and exhausted by the time they arrived at their destination.
+
+Which turned out to be a place with even more Blaze Bears. Again Baolin felt dread, as the bears started unloading their livestock… and turned to look at the humans with narrowed eyes. They ushered them into a hole in the ground—a den, one that was surprisingly warm and not damp at all.
+
+And yet that was when the fear started to set in again. Had the bears taken them along to be eaten, too? Were humans just livestock to them as well?
+
+A Blaze Bear, one of the smaller ones, trundled into the den. It held a basket in one paw, a human basket. And in the basket were a couple of berries.
+
+The bear shoved the basket at him, then pointed at the berries. It grunted and whuffed at them… and Baolin realised what it was trying to get at.
+
+“You want us to go out and gather berries?” Baolin asked, crouching down and miming the action. The bear nodded at that, grunting again, this time in approval.
+
+“And we can stay here? We can sleep here?” he ventured, playing out sleeping again.
+
+The bear nodded, and Baolin felt some relief… before he asked the question he felt he had to ask.
+
+“… are you going to eat us?” he asked, pointing at the bear, making chewing motions before he pointed at himself.
+
+The bear looked at him in confusion—before understanding seemed to dawn, and the creature managed to look disgusted and offended. It made a retching noise, snorted at him, then turned to walk away.
+
+“Well, I guess that answers that question,” Baolin said, and for the first time in a day and a half, people laughed.
+
+===========================
+
+The next two days were a blur. The Blaze Bears didn’t seem to want to eat or otherwise kill the humans in their midst. They got some strange looks, and a couple glares, but when they came back with the baskets of berries, the ones that glared seemed satisfied.
+
+All the humans could do really was wait. A couple people said they should just try and travel on foot to the south… but they didn’t know where the demon hornets were, and if they ran into less agreeable Blaze Bears while travelling…
+
+It was best to be with the devil one knew. And a pack of Spirit Beasts serving as guardians? That was the best guard people could ask for. It wasn’t like cultivators were going to care about a bunch of bees, no matter how vicious.
+
+That, and the Blaze Bears clearly had their own plans. They were digging tunnels, setting up piles of pine needles, and hiding pieces of their hair in the trees around the clearing.
+
+It was intensely unnerving to see animals so… smart. So deliberate. So… human.
+
+======================
+
+Of course, that’s when everything went to hell. He was out gathering more berries, when he spotted movement on a nearby tree.
+
+His blood went cold when he saw it. A hornet, the size of his palm. It was laying still, its head pointed towards the clearing, its antenna twitching.
+
+Baolin snuck up on the vile thing before striking. It was a clean shot, and his spear slammed into its back—but it took far, far more force than Baolin thought it would to pierce it. He had to put his full weight into the strike, and even then it was a near thing.
+
+He pulled the wretched creature off the tree—and to his surprise, even impaled it was still writhing and buzzing. Its beady eyes seemed hateful.
+
+Baolin sprinted back to the clearing. The bear that the lead bear had reported to—who was probably the real lead bear—stared at the insect, before it bellowed to its kin. And for a moment, in between the grunts and the growls, Baolin thought he caught the gist of it, and it made his blood run cold.
+
+They were surrounded.
+
+They were surrounded by the enemy.
+
+The bears went to their places, preparing for their enemy. The villagers of Hui Jaotzu huddled together. Their eyes were wide and full of fear—as wide and as full of fear as the bear cubs nearby. The cubs were making noises of distress, and one of them had even, seemingly without thought, grabbed onto the closest thing for comfort.
+
+Which happened to be his son. Feng hugged the cub back.
+
+Baolin wanted nothing more than to run into one of the dens and collapse the entrance. To hide, and wait until this nightmare was over.
+
+And yet… he knew in his heart of hearts that that wasn’t an option. They needed everyone. Every bit of help they could get. He saw a few of his friends, men he had known his entire life, come to the same conclusion.
+
+He turned to his wife. Lihua found his gaze. No words needed to be said between them. She simply nodded.
+
+Lihua would protect the children. And Baolin would do whatever he could.
+
+His grip tightened on his spear as the bears lit fires and smoke started filling the air—but it wasn’t quite right. If they arranged the piles better, there would be more smoke.
+
+The Chief was the first to move, grabbing a shovel and marching toward the pine piles. Others followed, racing in his wake.
+
+Baolin stepped up beside the lead bear. The great beast looked down at him, then to the humans heaping more fuel into the smoke. It said nothing for a moment… but there was something in its eyes that looked like respect. The bear barked something at one of the others hanging back—who nodded and started ushering both the bear cubs, and the human children, into one of the tunnel dens.
+
+All his life, he had heard stories about the infamously bad-tempered creatures. How they wandered where they pleased, burned down houses, and ate everything they could get their paws on. Blaze Bears were known as stupid, gluttonous brutes. Callous things that would eat a man’s livelihood in front of him, cooked on the burning remains of his cabin.
+
+And yet here they were, protecting humans. Here they were, saving the lives of Hui Jaotzu.
+
+… at the end of this, he wanted to have a talk with this bear. To truly convey his thanks.
+
+But for now, it was time to fight.
+
+At first there had been a little niggling thought in the back of Baolin’s mind. He had wondered, why did the bears fear the insects?
+
+And then he heard the sound of wings, he saw the tide of flying bodies, and cold terror gripped his soul.
+
+====================================
+
+The battlefield swiftly transformed into hell. The heat, the smoke, the screams of the hornets and the droning wings, all of it turned every moment into a waking nightmare.
+
+Baolin’s spear whirled, bisecting hornets at the thin parts where their body parts met. One ten, twenty, fifty. It was a paltry tally compared to the hundreds the bear before him was reaping, but every hornet dead was a hornet not attacking.
+
+He was flowing. He was moving like a coursing river, his spear perfection, striking the small gaps like he was catching fish.
+
+And then he got stung for the first time. It was in the forearm.
+
+Liquid fire poured down his arm. Baolin stifled a scream and nearly dropped his spear, but he managed to tear the little bastard off his arm and impale it, but the damage was done. His arm immediately started to swell, his joints groaning—but he had to keep fighting.
+
+He was stung a second time, then a third.
+
+The world started to spin. The waking nightmare became a fever dream, colours starting to blur and blend. But he kept swinging, kept killing. Amazingly, the tide was petering out. They were doing it, they were winning—
+
+The smoke suddenly parted. The sky turned black. Black and yellow.
+
+All Baolin could see was the face of death. His spear finally dropped from trembling fingers.
+
+“Please be safe, Lihua, Fu, Feng,” he managed to choke out.
+
+He heard a roar, he felt the rushing wind, and everything went dark.
+
+=========================================
+
+His eyes snapped open and he sucked in a greedy breath, panic gripping his soul, when a second hand joined the first in holding him down. He was completely restrained from shooting to his feet, but the pressure was surprisingly gentle.
+
+“Peace, brave warrior. Ri Zu is making sure the last of the venom is purged from your bloodstream,” the voice was calm and authoritative, but filled with genuine care.
+
+Baolin turned to the woman who was pressing on his chest. She was spectacularly beautiful, with deep purple eyes, a brace of freckles across her nose, and a green streak in her hair.
+
+Her hands were also glowing green.
+
+“… cultivator?” he asked dumbly.
+
+“Yes. Hong Ri Zu is a cultivator,” the woman replied. “Might she know your name?”
+
+“Yi Baolin. Of Hui Jaotzu,” he managed to get out.
+
+“Shady Glade? That is a pleasant sounding name for a village. Ri Zu’s family is from Hong Yaowu. Quite apt, no?” the woman giggled musically and wiggled her glowing green fingers. Baolin felt himself chuckle too.
+
+“A healer from a place called the Warehouse of Medicine? That is pretty funny, Lady Cultivator…” he trailed off for a moment. “The children…?”
+
+“The children are well,” the cultivator answered, her voice soothing. “They’re coming back this way.” The words were an utter relief. “Can you lie back again for Ri Zu?”
+
+Baolin let himself be pushed back down. The air still shimmered with heat. The smell of smoke drifted through the clearing. It still looked like they were in hell.
+
+But a pleasantly cool breeze blew. Little shadowy rats scampered about. A chicken stood on a log, discussing something with a gaggle of bears.
+
+A giant beast with antlers that looked like they could batter down houses was beside him.
+
+A man with two sets of ears, one human and one fox, touched a ring—and then started pulling out entire bales of rice. There were ten of the damn things, and then he switched to pulling out boxes of carrots, barrels of water, a giant wok for cooking on— stuff just kept coming out.
+
+“I am being convinced that this is, in fact, a dream,” Baolin said after a moment.
+
+‘You and me both, Stick Human,’ a growling voice said.
+
+Baolin looked to where the speaker was… and saw the lead bear. Who was covered in bandages, and had little shadow rats crawling on him, their paws glowing green.
+
+“Yes, this is definitely a dream, I understood that,” Baolin muttered.
+
+The bear blinked, then squinted at him. ‘Huh. You can finally talk and listen.’ The bear looked at Baolin for a moment longer. ‘You’re very stupid, Stick Human. You nearly died. That one there had to move your blood for you because your heart stopped.’
+
+Baolin blinked at the blunt statement of his near death. Lady Ri Zu clicked her tongue and levelled a glare at the bear, who looked unrepentant. Something cold gripped his heart, and he swallowed, letting his head hit the ground.
+
+“Yeah. I suppose it was really stupid, fighting like that as a mortal,” he said and trailed off.
+
+Then, the children and bear cubs emerged from the tunnel they had gone down, looking around worriedly. They were led out by an old bear whose fur was mostly grey.
+
+“But if I kept them safe for even a moment longer, it was worth it.”
+
+There was a moment of silence. Then the bear snorted.
+
+“I am Huishou. The humans call you Yi Baolin, do they? It's not a terrible name. You can call me Big Brother, because you’re small and dumb.”
+
+Baolin laughed. “Of course, Big Brother Huishou.”
+
+The bear made a pleased rumbling sound.
+
+“Daddy!” Fu shouted when she saw him, sprinting over along with her brother and Lihua, who had tears in her eyes. And also a gaggle of bear cubs, who wanted to see what the commotion was.
+
+Yes, this had to be some kind of strange dream.
+
+But… it wasn’t bad at all.

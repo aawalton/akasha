@@ -1,0 +1,35 @@
+---
+id: ddf0658a-efd5-5f92-b252-f5fffb032b5c
+page-type-slug: story-chapter-royal-road
+title: "Not a chapter - Update on the story/serialized version"
+slug: 0016-not-a-chapter-update-on-the-story-serialized-version
+partOf: azarinth-healer
+position: 16
+ownLength: 488
+unit: words
+publishedAt: 2023-12-31
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1460641/not-a-chapter-update-on-the-storyserialized-version"
+royalRoadId: "1460641"
+---
+
+Hey everyone
+
+I hope you're doing well, however your holidays may have been. I know it's not an easy time for everyone :).
+
+I'm posting to update you on a few things.
+
+With book 3 of Azarinth Healer out and book 4 soon in the deep edit stage, I think we've reached the point of the story where the writing starts to flow somewhat alright. There's still a ton to change and smooth out but it's more or less okay to read through to the end, especially if you're invested already. I saw that the story is high on the popular list atm as well.
+
+Now with that, and considering the future work both me and my editors are going to put into the edits, I've decided to take down most of the unedited and serialized version of the story from royalroad/patreon/scribblehub.
+
+So far, I was focused on both edits and patreon but now as my focus has shifted, and with Infrasound paused for the time being, I have to prioritize the book releases a little more. By now, I think most everyone who's started reading the story on Royalroad has finished it. So now, I want to make sure that the releases of the edited version get as much attention as they can. With the long wait between books, I think a lot of people will be reading the free version instead. This is nice but it also means that fewer people will be buying the new releases where a lot of my work will be focused on, and there will also be less momentum for the books as the edited version gets published.
+
+For other ongoing stories, leaving the unedited story up means that readers who go from amazon to RR will then likely feed into the patreon but with Azarinth mostly done and my patreon paused, that is not the case for me.
+
+Taking down most of the chapters on Royalroad/Patreon will, I think, mean more financial security from the new book releases, less stress in terms of when the next book needs to be done, and it should also allow me to keep working on new stuff at my own pace.
+
+As to my current setup and plans for the near future, much of my time will still be occupied with edits/rewrites but in the last few months, I've been setting up a new world to write in. I'm not ready to share anything on that front quite yet, and likely not for some time but I'll keep you posted as I see fit.
+
+That's all. I wish you all a good new year's eve tonight, and thank you for the long time support and for being part of this community. I'm excited to write more and share more with you all but ye, it'll take time :). Hope to see you there whenever I post.
+
+Cheers, and thank you as always, for reading.Rhaegar

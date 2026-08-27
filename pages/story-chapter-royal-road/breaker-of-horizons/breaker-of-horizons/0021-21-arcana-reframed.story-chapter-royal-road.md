@@ -1,0 +1,119 @@
+---
+id: cf252103-f614-500e-8539-c0d5a3fa6fdf
+page-type-slug: story-chapter-royal-road
+title: "21. Arcana Reframed"
+slug: 0021-21-arcana-reframed
+partOf: breaker-of-horizons
+position: 21
+ownLength: 2152
+unit: words
+publishedAt: 2020-07-13
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/523832/21-arcana-reframed"
+royalRoadId: "523832"
+---
+
+Now that we knew how to beat Reeves' infusion, all we had to do was apply that understanding into an actual technique we could use. That, however, was something easier said than done.
+
+Even though the theory of frame-shifting was easy to understand, it was a lot harder to actually make practical use of it. For my entire life, I had viewed arcana as a nebulous energy that suffused our bodies and the environment. Manipulating ambient arcana, in my mind, was almost analogous to manipulating a physical thing. Now that we were actively thinking about how we thought about arcana (I still found myself tripping a bit over that particular bit of metacognition), I realised that my physical-centric interpretation of it was actually quite limiting.
+
+Whenever I shaped the ambient arcana, I would imagine my auric arcana to be a sort of extension of my body that I used to do the shaping, like how one might use hands in order to shape clay, scoop water, or disturb the air. Even in my attempts at infusion, I defaulted to the concept of an arcanic 'body' — my auric arcana would 'radiate' my intent into the ambient arcana, much in the same way a body would radiate heat into the surrounding air.
+
+But this meant I had very little control over the ambient arcana that was not in direct contact with my auric arcana. If I was not actively shaping it, then I lost any hold over it. And it also meant that I had a limited measure of influence over the ambient arcana. You can scoop water and manipulate it with your hands to a certain extent, but it is still subject to the limitations of its form, and to gravity. You can't make water flow upwards or form into a rigid column just by using your hands.
+
+Then it hit me. This was why glyphs were important, and why even our interpretation or understanding of a glyph could affect how much control we had! The concepts tied to the glyphs helped us to engage in limited frame-shifting, regardless of our personal interpretations of the nature of arcana. Our understanding of the language of arcana changed our perception of arcana. And that was why it was possible to manipulate arcana without even using glyphs, because all they did was help to shape and focus our minds, which were the instruments all along!
+
+I hadn't confirmed that by any research, but once again something about the direction of my thoughts felt instinctively right. I was absolutely convinced that I had just enjoyed an epiphany about the nature of arcana itself.
+
+But that didn't exactly help me at the moment. Knowing was only half the journey. But no matter how much I tried to think my way around my own conceptual bias, I was still grasping at straws. I didn't know of any other frame of reference I could use.
+
+The others were similarly engaged in their own furious introspection. Anyone walking in would have seen six guys just sitting or lying around in the duelling chamber, staring holes into the floor and walls. From the looks of it, none of them were any closer than I was.
+
+"Why can't we just use glyphs?" Devon hissed in frustration.
+
+"Don't tempt me," Kevan said through gritted teeth.
+
+"The point is to develop greater arcanic control without them," came Jerric's weary reply.
+
+We lapsed into silence again.
+
+Maybe I didn't have to abandon my body-centric view. What if I just focused on fashioning a part of my auric arcana into set of 'arcanic scissors'?
+
+As soon as the thought occurred to me, I felt quite certain that it wouldn't work well. Still, in the spirit of being thorough, I went back to my default perspective of arcana and thought of shaping the outline of some scissors using my auric arcana. As expected, it responded sluggishly, barely maintaining coherence as it forced itself into the form I had visualised. I experimentally snipped around. The ambient arcana parted reluctantly, then flowed back into one seamless whole. It was obvious that this facsimile wouldn't be able to cut through an arcanic net when it could barely part the ambient arcana.
+
+I let out a frustrated sigh, which got me some chuckles from Jerric and Ambrose, and mentally hunkered down to do some serious thinking.
+
+Reeves had presented frame-shifting as something that needed to be done in order to refine arcanic control. But why wasn't there one objective representation or understanding about the nature of arcana? Surely it had to be defined in some way, to adhere to some universal standard, even if we hadn't yet discovered it?
+
+Of course, if it was undiscovered, then it wasn't likely that I'd be able to stumble upon the Truth of Arcana after one afternoon's hard thinking. After all, this was the kind of stuff that generations of Sages had bent their minds towards, and none of them had so far come up with anything better. The field of arcanophany only explored the nature of arcana far enough to observe the existence of frame-shifting, and went no further.
+
+... But what if a Prophecy was involved?
+
+My heart suddenly went into overdrive as my mind raced ahead, connecting strings of possibility. I knew nothing about the contents of Ambrose's Prophecy, aside from the fact that it involved the five of us somehow, and that it was necessary for me to know about its existence at this point in time. But I could guess that its contents were of great importance. Historically, the major Prophecies had involved things as big as the establishment of a new world order. According to legend, it was apparently a Prophecy that had brought the Empire into existence in the first place.
+
+So... what if this Prophecy had something to do with changing the world's understanding of arcana itself?
+
+Logically, it was impossible for me to draw any definitive conclusion that I had gotten the right sense of what the Prophecy was about. That idea was so baseless – I had nothing to lend any credence to it. It was little better than a wild guess.
+
+But I was horrified to realise that the thought seemed to fit in an instinctive way, much like my experience with coining the term 'auric shield'. I didn't know why I was putting so much stock into that feeling of rightness when coining terms in my head, but it seemed impossible for me to ignore or dismiss it. There was a quality to that feeling of rightness that seemed very heavy, almost like it was burning some cosmic truth into my soul. And now I was getting that feeling just by thinking that the Prophecy involved the nature of arcana somehow.
+
+Oh no. No, no, no, this was big. Too big. I couldn't breathe.
+
+"Caden?"
+
+It was him. The Chosen One. My eyes flew open and I saw him looking at me with great concern. The others were snapping out of their own preoccupations and turning to me as well.
+
+"Caden?" Ambrose repeated, unfolding his legs and getting to his feet. "You alright?"
+
+"Mm, f-fine," I stammered, ignoring a treacherous bead of sweat as it ran down my face.
+
+"You don't look fine." Jerric came from behind and sat himself down right next to me to get a closer look.
+
+"No, really, I'm fine." I got to my feet shakily. I needed to get away, needed to process all this, needed to think. It was too much.
+
+Someone's hand darted out to steady me but I brushed it away as I stumbled out of the duelling chamber and into the corridor.
+
+Maybe the Prophecy was guiding the six of us towards some great discovery about the fundamental nature of arcana itself. And that kind of knowledge was power. That kind of knowledge was almost absolute power, because from all indications, understanding was the key to unlocking greater arcanic control. Even the whole system of glyphs was a scaffold for understanding and directing arcana. And if you ever got ahold of the fundamental truths of arcana itself, then...
+
+Unbidden, a memory of our first class with Celwyn surfaced.
+
+Reyes shook his head. "I don't get it. So I can imagine a glyph that means ultimate power and then inscribe it on myself and I become some kind of god?"
+
+A few people laughed but quickly quietened when they realised that some of us had serious looks on our faces. Celwyn herself was not laughing.
+
+"Since I appear to have given you the keys to ultimate power, Reyes, I hope you will be appropriately thankful and that you won't erase me when you remake the world according to your wishes," she said without a trace of humour. "As far as we know, Reyes' suggestion, even though he meant it to sound ridiculous, is not outside the realm of possibility."
+
+And that was why nobody had managed it so far. They were looking for more glyphs. But the fundamental truths of arcana were not tied to glyphs. Glyphs were just another frame of reference. It was just a more standardised and widely-spread form of frame-shifting.
+
+"Caden, wait, stop!" It was Ambrose again, with the others close behind. I looked up, surprised to find myself on the floor, slumped against the wall outside the duelling chamber. "You look sick, we need to bring you to the infirmary."
+
+"Not sick," I mumbled, still reeling from the magnitude of the realisations I had come to.
+
+"Yeah right," Kevan sneered, but there was a trace of panic and worry beneath that. "Look at you, crawling on the floor!"
+
+I blinked, taking stock of where I was. He was right, I hadn't collapsed against the wall after leaving the chamber — I had been on my hands and knees, slowly crawling away, until Ambrose stopped me. Why was I crawling away?
+
+"Come on," Ambrose said, motioning to the others to help. He tried to get one of my arms around his shoulder so he could hoist me up. Jerric came forward and took the other side.
+
+And just like that, it came to me. I had a frame to shift to. That mundane act of being helped to my feet by my friends had given me an idea.
+
+Help me, I thought into the arcana around me. Help me get out of here.
+
+The air around us instantly grew heavier, dense with ambient arcana coming alive. Ambrose and Jerric immediately let go of me and backed away, recoiling in abject panic as a net of overwhelming emotion was draped over them. I had somehow managed that with the barest exertion — all it had taken was a simple twist of my auric arcana, like a mouth voicing a request to the friend-in-the-arcana, and the ambient arcana moved of its own accord to form the net by itself. I had no idea how the net worked, but the arcana knew, and that was enough.
+
+Devon and the twins rushed forward to hold on to Ambrose and Jerric as they scrambled away blindly, their arms and legs flailing. There was a lot of swearing and grunting as they tried to stop the two of them from bolting down the corridor.
+
+"What did you do to them?" Kevan shouted at me as he and Lynus struggled to pin Jerric down, who was growing increasingly hysterical as he tried to get far away from me. Ambrose seemed to be faring a little better as his thrashing was less insistent, and Devon was able to keep him down alone.
+
+Of course Ambrose would be in a better state. Bloody Chosen One bullshit. That was what was getting me into all this off-the-charts crazy level of arcanophany.
+
+I couldn't do it. It was too much for me to confront now. I had to get away from them all.
+
+I didn't want to be on the floor. I wanted to be far away from this place. With another subvocal request, I found myself rising to my feet, and then a few inches above the ground.
+
+"What the f—" Kevan managed, before he got hit by one of Jerric's flailing fists for being momentarily distracted.
+
+I didn't feel like I had the strength to walk, so I asked for help again and found myself being borne down the corridor like the wind, my shoes just gently brushing the ground.
+
+In some dim corner of my mind, I registered the fact that I was doing something impossible, and I had no idea how any of it was being done. There was a part of me that was screaming internally at the sheer insanity of everything that was happening.
+
+But at that moment, I found my sense of self being washed away in the blissful calm of utter surrender. I was in the hands of arcana itself, and all was well.

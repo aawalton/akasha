@@ -1,0 +1,123 @@
+---
+id: 15a2fc4a-794a-59aa-99bb-d73da0b3f88d
+page-type-slug: story-chapter-royal-road
+title: "v4c70: Aftermath 1"
+slug: 0085-v4c70-aftermath-1
+partOf: beware-of-chicken
+position: 85
+ownLength: 1782
+unit: words
+ownProgress: 1782
+publishedAt: 2023-12-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1445639/v4c70-aftermath-1"
+royalRoadId: "1445639"
+markedReadAt: "2026-06-29T18:54:21.952Z"
+---
+
+Bi De observed the new moon high above his head. He was sitting on the railing of a second floor balcony. The air was crisp and clear so high up in the mountains. There was something to be said for its refreshing bite.
+
+The sound of music and Nezan’s laughter echoed out from behind him, sounding female this time. The fox had been shifting around and dancing on the tables ever since Yun Ren had come down and received the full story.
+
+Indeed; all of the foxes had lost themselves to their joy when they learned they no longer had to fear the Inquisitors hunting them down and executing them.
+
+That at least had made Bi De smile… for a little bit. He had eventually slipped out of the party so that he could contemplate the events of the day.
+
+Bi De took a swig of his wine. It was a little awkward to lift the gourd with his feet, but after months in human form being back as his proper self was grand. Of course, there were some advantages to being human… Like the fact that he could hold his drink better, but right now… he simply needed to be himself. He swallowed his mouthful of drink and hummed with contentment. This was a fine vintage, the sort better savoured slowly. The cold air only added to its taste as he took a breath and then began again his study of the moon.
+
+It was almost a complete void, where the great heavenly sphere normally sat; there was a patch of empty sky, where once there was glory. He supposed it was fitting for his current mood. Just as the moon’s current face was shrouded and unknowable… His own feelings were unclear.
+
+He did not know what to think. There had been some justice done; that much was clear, but…
+
+Bi De sighed and took another drink of wine. He stayed staring at the moon even as he heard footsteps behind him, the man not trying to hide his presence at all.
+
+“The party is missing you, Bi De. You’re one of the men of the hour, and these foxes are quite delightful!” Shen Yu exclaimed as he leaned on the railing beside Bi De. Shen Yu looked… well, the same as he always did, save for the addition of red lip marks on his cheeks and chest. “A man should savour such honest attention! And if not from the foxes, from your own women.”
+
+Bi De flushed at the insinuation. He would indeed have liked to enjoy Ri Zu… and Yushang’s company, but… Not right now.
+
+Bi De looked back up at the moon. Shen Yu’s smile faded slightly and he sighed.
+
+“I know that look, boy. Tell your Master what ails you.”
+
+Shen Yu saw through him instantly of course.
+
+“I am contemplating what happened,” Bi De replied. “And my own role in the events.”
+
+“That is good. A man must always reflect upon his actions; It is the best way to improve,” Shen Yu answered. “This was your first experience with such things, and you were successful! I expected more joy, but you are a contemplative fellow. I must confess that in my first victories I did not give as much thought to my actions as you clearly are. Back in those days the only thing that really mattered was that we defeated our enemies. We used to give our Masters such headaches…”
+
+Shen Yu tailed off with a chuckle and Bi De felt a small smile form on his face at the thought of Shen Yu sitting before his Master, thoroughly chastised.
+
+The smile did not last though as his uneasy mood returned.
+
+“I was wondering if there was a better way,” Bi De said. The entire sect had not been his enemy. His time spent among them hadn’t been wholly pleasant, but they did their duty. The roads were safe and the mortals were protected. And now? Now that once province-spanning protection network was compromised by their own actions.
+
+Shen Yu looked to the stars. “You seek perfection in your actions; and that is always a noble pursuit. It is the only true pursuit, though “perfection” is never truly attainable, at least until we ascend and leave our earthly bodies behind. All that can be acquired is “as close to perfection as possible”... and that depends on what your definition of perfection is. For you, what would be your perfect ending to all this?”
+
+Bi De contemplated his words and then answered honestly. “I do not know. Perhaps we could have stayed? Perhaps things would be resolved without as much bloodshed? Many will die fighting the Patriarch… and leaving them to it when we were the ones that instigated things. The Patriarch will kill many before he dies… if he dies at all.”
+
+“Oh, I would not be so worried. It's quite difficult to fight with ruptured meridians. He will die,” Shen Yu stated with absolute certainty. Bi De did feel a little bit of relief at that. “As for your question… I shall answer with two more. How invested are you in the future of that sect? And at what point does helping become harmful?”
+
+Bi De pondered the questions. He was not especially invested in the future of the Shrouded Mountain Sect. Quite frankly… he did not really care at all for it beyond those he knew that might be affected. Old Ling, the Che family, and maybe Fengfeng and her friends. They had at least been agreeable. But that was the crux of it. Shen Yu was asking how much of himself he should dedicate towards the sect… and implying that it might have taken years of his support to truly help it.
+
+As for the other question…
+
+“If you solved their problems for them they would not value the solution. Leaving so quickly was intentional. You have said often how a man must struggle and overcome to be better. By fighting, and perhaps winning on their own merits…”
+
+Shen Yu smiled and inclined his head.
+
+Bi De huffed and looked up towards the sky. He supposed it did make a certain amount of sense.
+
+Still, even if it made sense… He still didn’t entirely like everything that had gone on. The world of cultivation… it was a cruel thing. Yet he was here now. He had participated. He didn’t have a better ending this time… but perhaps if there was a next time he would figure something out.
+
+“We all make our choices. And in the end, our choices make us,” Bi De replied, quoting his Great Master. He had made the choice to leave with Shen Yu and see the world. Now he would see where the rest of that choice took him.
+
+Shen Yu blinked. “That is a good saying. A very good saying,” the man said. “Now, return to the party and wallow no further upon this. Your Master’s orders.”
+
+Bi De sighed and shook his head. There was a pop and a man was there once more.
+
+…it was easier to hold the wine bottle this way.
+
+He reentered the manor, looking around at the insanity Nezan was producing. A technicolor lightshow erupted out of his hands as he danced and capered around the room, shifting between man, woman, and fox between steps, dragging along Yun Ren with him. The fox-boy was complaining the whole time, looking utterly annoyed by his uncle’s antics.
+
+“Three cheers for our Young Master!” Nezan shouted, lifting him up before the entire room.
+
+The foxes did as Nezan bid.
+
+“Three cheers for his companions!” Nezan shouted. Han and Shao Heng blinked as he pointed at them.
+
+Han looked vaguely ill as the illusions danced around. One of the fox-women was beside him, rubbing his back. Heng was sitting beside Han, but engaged in conversation with another fox-woman, one who looked a lot… Well, wilder than most of the others. She was saying something about patrol routes, and Heng was nodding along.
+
+Ri Zu was alone, however, watching along as Nezan laughed and danced, her face slightly flushed from alcohol.
+
+Bi De walked over and sat beside her.
+
+“Where’s Yushang?” he asked, searching for their missing companion.
+
+Ri Zui squeaked slightly and then she swallowed. “She just stepped out for a little!” Ri Zu deflected, before pouring Bi De another drink. “She’ll be back in a little bit. Have you tried this one?”
+
+Bi De had not. And while he was curious… well, his Master had commanded him to not dwell on things. So he downed the cup and then glanced at Ri Zu. “Shall we?” He asked, gesturing at the spot where people were dancing.
+
+Ri Zu responded with a brilliant smile and obliged him. They drank and danced for perhaps an hour—when Yushang rejoined them and nodded firmly at Ri Zu. Bi De raised an eyebrow at the two of them; they were clearly scheming something.
+
+His suspicions were further reinforced when Ri Zu asked him if he would walk outside for a while with him.
+
+Together they went out into the crisp mountain air. There were two pops as Bi De turned back into a chicken and Ri Zu back into a rat. She hopped onto his back just like she always used to.
+
+He took comfort in her warmth as she snuggled into his feathers. They made a slow circuit around the inside of the manor’s walls before Ri Zu asked him to leave the manor’s grounds.
+
+It was then when Bi De realised what exactly Yushang had been doing.
+
+There was a single patch of mud in the otherwise rocky and stark terrain.
+
+Ri Zu hopped off his back. “My, my. Ri Zu wonders what this is doing here,.” she said, lying unconvincingly.
+
+Two pops sounded out. Two humans stood before a patch of mud. “Indeed. However, I believe that this is rather auspicious, don’t you?” Bi De held out his hand. Ri Zu’s smaller hand fit snugly inside his own larger hand. Then, with great decorum, he lifted her into his arms like a princess. “Though I thought we were going to wait until we were back home?”
+
+Ri Zu looked into his eyes. “I don’t want to wait and miss any more moments,” she replied. “Our Masters will understand.”
+
+Bi De nodded solemnly. He looked back at the pit, and with great decorum said his Great Master’s words of power.
+
+“Ca Wa Bun Ga.”
+
+There was a splat. The mud was cold. The wind was freezing. He still didn’t know if he had done his best.
+
+Yet Ri Zu’s mud splattered smile drove all those thoughts away.

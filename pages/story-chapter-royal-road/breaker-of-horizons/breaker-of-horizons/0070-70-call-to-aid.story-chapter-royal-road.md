@@ -1,0 +1,107 @@
+---
+id: 47c3b13c-681a-5b5b-8f2a-9afa8cd25416
+page-type-slug: story-chapter-royal-road
+title: "70. Call to Aid"
+slug: 0070-70-call-to-aid
+partOf: breaker-of-horizons
+position: 70
+ownLength: 2251
+unit: words
+publishedAt: 2020-12-31
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/607558/70-call-to-aid"
+royalRoadId: "607558"
+---
+
+In ancient times, the city of Geldor was nestled in the shadow of the Crystalline Peaks. As it grew and expanded as the seat of power for the early Aiestan Empire, a castle was built into the mountainside with the help of advanced arcanophany and a grand wall was erected around the city below. The first Spire was constructed not long after once space was cleared for it in the very heart of the city, and with that, Aiesta's arcanophanic superiority over the surrounding nations was sealed.
+
+The city had long since grown past the boundaries of the walls of shimmering white marble, but they still served to mark out a portion of the city that was considered its beating heart. Contained within it were the centres of administration and business, and the homes of those who had the money to spend on the premium residences there. Most of the areas of historical interest lay there, too, though few of them had survived into the modern age without extensive modification.
+
+Despite — or perhaps because of — the Spire's cultural value, it was never remodelled or renovated to keep up with the times. Even the castle, which was the Emperor's residence, had been transformed into a palace with all the comforts, fixtures, and trappings of the present day, but the Spire was left untouched. Its thirty-storey height kept it above the rest of the buildings through the ages until skyscrapers became more commonplace in modern times. Now, its ancient marble facade was mostly hidden from view behind the other towers of glass and steel that made up the city, but one could still slip through the modern buildings and streets and stand in front of it, and look up at a remarkably well-preserved relic that dated back to the earliest days of the Empire. One might even fancy that, absurd as it might sound, the Spire would, in turn, look down and favour such an observer with disembodied, ancient eyes.
+
+Devon's eyes were drawn to it as soon as he turned the corner and he gave an involuntary shudder. A light dusting of snow had been laid over the city in the middle of the night, but he was fairly certain that the shudder had nothing to do with the cold. There was something very disconcerting about this Spire in particular. Or was it just his imagination? Ever since he had learned about the Prophecy, and about the augera that were imprisoned in every single Spire across the Empire, strung together in some sort of massive web that caught everyone in its influence, he had found it hard to pass by the Geldor Spire without feeling uneasy.
+
+But he shoved his hands into his coat and shook his head, forcing himself to focus on the task at hand. His bodyguards would notice his absence soon, if they hadn't already, and he only had a short window of opportunity.
+
+Since this was the capital city, it never truly slept. Even though the sun had barely risen the streets and roads were already full of cars and people. Devon kept his head down and joined the throng that was waiting at a traffic light, concentrating on his auric-ambient-flare as he did so and drawing it tightly around himself so that it was only in tenuous contact with the ambient arcana. It was all he could manage now, but that made it just a little bit harder for someone to pinpoint one's location using arcanophany. It was something Jerric had figured out by just watching their bodyguards very closely yesterday, and it was surprisingly easy for Devon to pick it up once it had been explained.
+
+He crossed the road to the Spire and the feeling of apprehension grew. There were no fences or barriers — the sidewalk simply gave way to the original marble tiles that were laid around the Spire's base when it was erected, and a small series of steps led up to a set of ancient, wooden double doors. It was almost exactly the same as the Academy Spire. On either side of the Spire's lot rose two modern skyscrapers. Most of the pedestrians were turning into the Panoply headquarters on its left or the Imperial Bank on the right. Some were crossing the marble tiles to get to the other street since the Spire served as a convenient break in the line of buildings. Others had congregated at the fringes of the space where they loitered while they waited for friends and colleagues. Devon tried to blend in with that last group as he leaned against the wall that sectioned off Panoply HQ from the teeming masses.
+
+He unfurled his auric-ambient-flare just enough to allow him to whisper into the arcana. 'I'm here.'
+
+A shadow seemed to fall across him and he shuddered again. Some of the people nearby felt slightly perturbed without really knowing why, but they shrugged it off and went about their business. Devon, however, was quailing under the regard of the Spire's augera.
+
+'Closer,' it whispered back, sending over a wave of impressions. Devon was only barely able to understand — it wasn't asking him to approach the Spire physically. It wanted him to meet it in the arcana.
+
+That was a big ask. It wasn't something that he, Jerric, or the twins had managed ever since their little session with the Demiurge back in the Academy, and it wasn't for lack of trying. If anyone had managed it, it would probably be Caden, Ambrose, or Emlia... but none of them had arrived in Geldor yet.
+
+Still, he didn't dare return a negative reply to the augera, so he sucked in a nervous breath, glanced around to see that he wasn't drawing undue attention, then closed his eyes.
+
+You are butter, and the arcana is the pan. Melt into it. That was what Caden had told him. But right now, cold and afraid as he was, that butter was a solid block that refused to melt.
+
+A wave of impatience rolled across him. In any other situation, having an annoyed person watching you try to do something would have put more pressure and made it even more difficult to perform, but the augera's impatience was a perturbation in the arcana that made something click in Devon's head. It was a little like what had happened when the Demiurge had smashed his staff into the dodecahedron back in the Academy, and here it broke the ice beneath Devon's feet and sent him plunging into the freezing ocean of arcana. Panic threatened to overwhelm him.
+
+I am butter, I am butter!
+
+The moment of panic passed and he oriented himself in the arcana, quickly latching on to what he had learnt from the first experience. Ignore the physical.
+
+'Here,' the augera whispered, setting off a little pulse in the arcana to catch his attention.
+
+Devon gathered himself, then flashed over to that brief beacon before it faded away. He found himself in the unmistakable presence of Spire augera, a woven-shackled-stream trapped in a knot-link-anchor. But its raw signature was somehow muted, like it was veiling itself in some way.
+
+'Message for fated five and the Chosen One,' the augera sent, as quietly and conspiratorially as a person leaning in to make sure no one else overheard. 'Unchosen has been attacked.'
+
+'Caden was attacked?! Is he alright? Wait, who is this message from? Why are you telling us?'
+
+A sudden headache almost derailed his train of thought as the augera reined in a rush of responses. He felt it hastily throttle the flow into something more manageable.
+
+'Creyvlor-woven-shackled-stream possessed him, defended him from attackers. But also damaged him. Creyvlor-woven-shackled-stream not stable. Instability transferred to Caden. Fated five and Chosen One must bring unchosen here, to Geldor-woven-shackled-stream, in front of Geldor-knot-link-anchor. I must fix him.'
+
+'Why couldn't you just tell me all this when you contacted me while I was home? And why do we need to bring him here?'
+
+'Ancient-distant-spiders watching more closely now. May see. May hear. Conversation... fixing Caden... both not soft. Will be louder if done over long distance. Must be quiet.'
+
+'What about the agents with Caden? Why weren't they protecting him?'
+
+'Many questions, little time! Caden will arrive at your home. Smuggle him here. Door will open. No one else must know.'
+
+'How are we going to avoid our own armed guard, and get in the door of the Spire without being seen when it's in plain view?'
+
+'This is also why warm-skillful-bridge must be here. To receive knowing, to receive power, softly.'
+
+If he hadn't braced himself for it, Devon would have cried out in shock. As it was, he still let out a sharp gasp as his consciousness was abruptly returned to his body, and he tried to pass it off as a sneeze as the people around him turned in surprise. That attempt was somewhat spoiled as he sank to the floor, trembling all over.
+
+"Are you alright?" one of the businesswomen who had been walking past stopped and laid a hand on his shoulder in concern.
+
+"F-f-fine! Just chilly!" he stammered, weakly massaging his upper arms as he hugged himself.
+
+"We should get you out of the cold," she said, looking uncertainly around as she considered where to put him. A few more people were beginning to pay attention.
+
+"N-no, really, I'm f-fine!" He was feeling hot all over now, and he wasn't sure if his cheeks were burning with embarrassment or some mysterious infusion of 'power' from the augera. He managed to get to his feet with the help of the woman.
+
+"You sure?"
+
+"Yes," he said, the stammer suddenly gone. He felt great. Like he had just gotten a full night of restful sleep. The wintery chill in the air had been replaced with a pleasant warmth. A grin split his face. "See? All good now."
+
+The woman gave him a strange look and opened her mouth to speak. Devon found himself desperately wishing that everyone would just ignore him now so he could escape this embarrassing situation and go somewhere and figure out what the heck had just happened.
+
+His eyes widened in shock as he felt the arcana shift around him, and he realised that without really meaning to, he had sunk an ensorcelment of some kind into the air. The people nearby blinked in unison, just once, then continued on their way. The woman who had stopped to help him shook her head, looked at him with a faintly puzzled expression as if surprised to find him there in front of her, then murmured a hasty "sorry" and walked off.
+
+'Use sparingly!' the augera hissed at him, and a moment later he received a trickle of impressions and instruction about exactly what he was now temporarily capable of. He felt a mental nudging from the augera that pointed him across the street where he had come from. A black car was just coming around the corner. 'Bodyguards here soon. Go quietly. Say nothing. Bring Caden.'
+
+And with that, the augera retreated so far that even the feeling of being watched was gone. The Spire was now just an ancient building, a monument to the past. Devon turned and saw two agents, one male and one female, in full suits walking briskly towards him, having just gotten out of the car which had come to a stop in front of the Spire.
+
+"Lord Devon—" the lead agent began, as soon as the pair drew near enough for him to speak discreetly. Mercifully, the ensorcelment on the members of the public nearby seemed to be holding and no one batted an eye or even spared the agents a second glance.
+
+"I told you," Devon interrupted through gritted teeth as he stepped forward, "just Devon."
+
+"Please get in the car."
+
+He went without any protest. As soon as he was in, the other agent closed the door firmly and activated a locking sequence on it, then walked over to the other side. She paused for a moment just as she opened the door, then scanned the surroundings, a frown on her face. "Active ensorcelment field present," he heard her murmur.
+
+The driver's hands whitened on the steering wheel, while the lead agent who had slid into the front passenger seat tensed and withdrew a thin wand from the glove compartment while taking another out of his pocket. "Hostile?"
+
+The second agent turned to face the Spire, and Devon sensed the slightest ripple in the arcana as she slipped into it. There was a long pause. "... No," she said finally, relief and confusion in her voice. "Has our signature on it. It's veiling us from casual perception. But who—?"
+
+"Nevermind that, we need to get Lord Devon out of here. Dispell it as we leave."
+
+She got in and fastened her seatbelt in one smooth motion. A faint ripple played briefly around her hand as she gestured vaguely in the air, and Devon felt a subtle shifting in the arcana as she sent out a sequence towards the people scattered around the Spire's base. As soon as the car started moving, it unfurled and neatly wiped away the ensorcelment. All anyone felt was a slight chill wash over them, which they could easily put down to the cold winter morning. A few eyes noted the black car sidling off, but nobody paid it any extra attention as it rounded the corner and headed for the High District.

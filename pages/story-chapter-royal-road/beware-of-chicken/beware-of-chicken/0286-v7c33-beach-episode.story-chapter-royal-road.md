@@ -1,0 +1,197 @@
+---
+id: 021c5196-85ad-541a-8cff-8eae5f0b16f6
+page-type-slug: story-chapter-royal-road
+title: "v7c33: Beach Episode"
+slug: 0286-v7c33-beach-episode
+partOf: beware-of-chicken
+position: 286
+ownLength: 2487
+unit: words
+ownProgress: 2487
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3106474/v7c33-beach-episode"
+royalRoadId: "3106474"
+markedReadAt: "2026-06-29T19:01:14.631Z"
+---
+
+A trip to the beach was just what the doctor ordered.
+
+Literally. Meimei was very blunt about where we were going today.
+
+But first, we had to get there. Most of the beaches near the city were crowded and noisy, especially on this fine day; people were doing laundry, fishing, and generally just living their lives… but we weren’t looking for a crowded beach. We wanted some place quieter.
+
+So we got our trusted and reliable friends, the Azure Jade Trading Company, to loan us a boat, so we could take a mosey around the lake.
+
+We chose one of the smaller craft instead of the big-ass pleasure barge they had. She was small and swift, but still had some comforts.
+
+“Set sail!” Meimei cheered, pointing forwards, one leg braced upon the prow of our small ship.
+
+“Se! Saaaaaaa!” Zhuye shouted, his hands raised to the air. He bounced up and down where he was swaddled against Meimei’s back. The scene was so cute I couldn’t help myself. My recording crystal chimed, capturing the moment.
+
+“Aye, aye, captain,” Wa Shi declared, speaking normally now that there were less people around. He saluted with a flourish, then dove beneath the waves. The water around us swelled on its own accord, and the wind started blowing.
+
+There were certain benefits to knowing a prince of the storms, rivers, and lakes.
+
+Our ship slid out of its berth with impossible grace, then leapt into the waves. Meimei shouted with joy and I whooped with her. Zhuye added his voice to the chorus, bees buzzing around him, and Babe stepped up beside us to let out a crooning low. He didn’t normally shout so loud, or really make normal cow noises at all. None of the cows back home did, really; they were a fairly quiet bunch.
+
+Zhuye stared at Babe, stunned. Then he turned back to the prow of the ship. “Mooooooo!” he called, and looked back to Babe, his eyes eager.
+
+The ox looked quite bashful at the sudden excitement around the noise he made, but he obliged our son, letting rip another long moo. Zhuye clapped his hands excitedly.
+
+Maybe the chickens had some competition?
+
+“Hey-yo~” A dignified shout came from beside us, and I turned with a bit of surprise. Lady Wu looked incredibly amused, her hands cupped around her mouth. “That is what I heard shouted quite often.”
+
+Teacher let out a laugh. “That is what one says when returning from a voyage, my dear. I believe the correct saying is ‘Ridin’ ‘long the Moon!”” he shouted, pitching his voice and making it boom across the water.
+
+“That's the old one. It's ‘Ridin’ cross the Moon’, that's popular now, last I heard,” Yanjing said from where he was lying on one of the rather nice couches, a towel over his eyes. The man was currently vegetating for all he was worth, and honestly I didn’t blame him.
+
+“Oh, this is so much different than the lakes back home! It's so big! And the boat feels so solid compared to our canoes!” Meiling bounced up and down like a jiangshi, her eyes sparkling with wonder and excitement. “And the ocean gets even bigger and deeper? I can't wait! Suyan, Xue Ji, is there anything like this where you're from?”
+
+“No, Mistress,” Suyan said from her own seat, where she was drawing with a bit of charcoal the shore to our right—or rather, starboard? I think? Ship terminology confused me sometimes. “The largest lake in the Howling Fangs is perhaps not even an eighth of the size of this one.”
+
+“Neither of us have seen the ocean either. I think we may be the first of the Su clan to see it, and come back and tell the tale… well, ever,” Xue Ji added, starting to look excited. Suyan paused at that bit of information, then a small smile formed on her own face.
+
+“Thank you for taking us to see such amazing sights, Master, Mistress,” she said, her voice earnest. I know she had done some drawings of the Ironfields as well. They were simple things, but they captured what she saw beautifully.
+
+We lapsed into silence, staring out while our ship zipped along.
+
+We would be staying close to the shore today, and I could tell we were riding the bare, ragged edges of Tianlan’s destroyed Dragon Veins.
+
+The destruction here was truly terrible.
+
+“Metal to water,” Tianlan murmured in the back of my mind, feeling the quiet echoes of a cataclysm that the land itself had nearly forgotten. “Every bit of metal turned into its equivalent mass of water in an instant. Any Spirit metals? The Qi turned to water too. Five times, ten times its mass.”
+
+I could see it, in my mind's eye. The Ironfields, for all their desolation, had nothing on this. I saw a tsunami that would dwarf everything we had videos of, back in the Before. A wall of water radiating outwards like a meteor impact, obliterating everything before it. Consuming it, smashing it, grinding it to dust mercilessly and utterly. An event so violent that it shattered Tianlan’s Dragon Veins worse than anywhere else. Fire, Earth, Wood and Metal had nothing on the destruction Water had caused.
+
+“Shennong was right,” I mused. “Water truly is life and death.” And yet, now that we were close to it, now that we were at the edge—the strain I could feel on our connection was nowhere near what I felt, like when I got to the edge near the Howling Fang Mountains. "It's not a dead zone, though. There's too much life. And while there is Qi leaking into the lake, it's not enough to explain the fish stocks the fishermen speak of.”
+
+“You’re right,” Tianlan said. “There must be fragments, still there. I think… I think I can feel some.”
+
+I could feel it too. The ghost of a whisper.
+
+“Something to look for tomorrow, then,” I said at last. “I think I'm going to have to go for one hell of a swim—see how long I can hold my breath for.”
+
+“We could also use [Divert the Waters],” Tianlan replied. “Just walk along the bottom, if you have to.”
+
+I paused. “That's a really good idea. Can we make sure we don't cause any rogue waves or anything?"
+
+I could feel Tianlan’s sassy smirk. “Of course! There shall be no waves if I don't decree any!”
+
+Well then. Turns out tomorrow, I would be taking a walk—like a certain bunch of scoundrels from the Caribbean. But less zombie-like.
+
+I started humming the theme as we continued onwards. The swelling strings bounded along with the waves.
+
+I sent a mental image to Tianlan of her with a pegleg and an eyepatch, Chunky perched on her shoulder like a parrot.
+
+Her laughter at the absurd image echoed in my head.
+
+“Avast me hearties! The dread pirate Tianlan shall steal all your booty!”
+
+“If you want my booty I think you have to fight Meimei for it. That's her property.”
+
+“I don't need to fight her. We have joint custody!”
+
+I snorted, my laughter interrupting my humming. Meimei turned to me with a raised eyebrow.
+
+“Tianlan and I were just discussing which percentage of my ass you and she own,” I told her with all seriousness.
+
+Meimei choked, and then started laughing at the absurdity, before she trailed off and scratched her chin. “I think the math works out. I own fifty percent of your butt, and Tianlan owns fifty percent of your butt; but you own fifty percent of my butt, with Tianlan having the other half. And we both share Tianlan’s butt. Therefore we each have two full cheeks; and a whole ass.”
+
+Her logic was utterly impeccable; her wisdom sage and profound.
+
+“My darling, you are truly the most intelligent woman to exist,” I declared.
+
+I could feel Tianlan nodding, and her own awe at Meiling’s deductions shone through our bond.
+
+Our ship continued onwards. Washy jumped out of the water over us, his leap leaving a trail of rainbow droplets in his wake.
+
+Our laughter echoed out over the lake.
+
+================================
+
+Eventually, we found a perfect beach.
+
+The lake itself was completely round, but there were several islands around the edges; small things, but they afforded us some privacy. We chose one with a nice curved beach, with trees sheltering it.
+
+Normally a place like this would have a lot of mosquitos… but Bane of the Black Lances and her crew took immediate and violent exception to their presence.
+
+With any other animal I might have said something… but fuck mosquitoes. Clearing out one beach isn’t going to harm the ecosystem.
+
+Instead of their buzzing, we instead got to hear frogs serenading us, as we changed into our beachwear.
+
+“Here. Wear this,” Meimei commanded me.
+
+My dearest wife, naturally, had made me a speedo. As soon as I stepped out from where I had changed, I met my teacher, who had also finished changing.
+
+Into the exact same outfit.
+
+“The things we do for our wives,” he said, his tone mock-suffering.
+
+I whistled in appreciation. I had always known Teacher was strong; seeing him like this was always impressive. The Lord Magistrate clearly lifted, bro. He was closer to Yun Ren or Bi De in physique than to what I was. Not quite as picture perfect as the two cultivators, but he was lean, mean, and all natural; his body tapered into a triangle—from his broad shoulders to his trim waist—and he most certainly didn’t skip leg day.
+
+His body had little nicks and marks, and there were some wrinkles from weather and age… but damn.
+
+“Damn,”  I declared, nodding. Teacher flushed, but so too did a proud, almost preening grin form on his face. “Shall we make an entrance?”
+
+“Indeed.”
+
+Together, we walked out in our budgie smugglers, stance wide, hands on hips, and muscles flexing.
+
+There, we beheld our friends and family.
+
+Meimei was wearing a red bikini—surpsingly not the world’s first, because some cultivators had beaten her to it. It was also made of silk, showed off her lovely hips, and had all her freckles on full display—along the top of her chest, her shoulders, and her thighs. Her hair was done up in a simple ponytail.
+
+Man, she's so pretty.
+
+My wife spotted me as I descended from the ship and froze. Her mouth dropped open when she saw me. A rather perverse sounding “hu, hu, hu.” echoed forth from her lips.
+
+“Oh my,” Lady Wu said, her eyes going wide. Her fan snapped open to hide the lower part of her face, her eyes flicking back and forth between the Lord Magistrate and myself. “Meiling, how scandalous,” she chastised… even as she also wore a bikini—a dark black number that Meiling had made for her.
+
+She was stunningly beautiful. Her silken hair was fanned out around her on the chair; and her legs were a vast expanse of pale, creamy skin.
+
+Sitting on the same blanket were Suyan and Xue Ji. They were wearing more traditional things to preserve their modesty, their dudou and loincloths. Suyan already had a fishing spear next to her, and looked like she wanted to go diving, while Xue Ji had let her hair out from its bun. Unrestrained, it was a cascade of waves and near curls that completely changed her from no nonsense to something wilder.
+
+Both women were staring at us, their amber eyes wide open. Xue Ji looked like she wanted to eat the Lord Magistrate.
+
+“Mistress, your designs are truly beyond this one’s comprehension,” Suyan stated.
+
+Xue Ji bit her lip, a single fang poking out. “Lady Meiling, might we take these designs? They are… fantastic,” she purred.
+
+All of the bees had stopped in their hunt for mosquitos, and had turned to us.
+
+Sheng Yanjing finally leaned up to see what the commotion was about, and removed the towel from one eye. He looked at us for a moment.
+
+“Huh. Damn,” he stated. Washy, coiled around Zhuye, started laughing. Babe, already in the water, just shook his head.
+
+==================
+
+Zhuye puttered around under his own power, splashing in the shallows with wide eyes and delighted squeals. His walk was still wobbly, and he would often collapse to his knees to keep going, but the sand would cushion his fall—and whenever he did fall, I would smile and nod. Any tears in his eyes would quickly disappear, and he quickly stopped caring about the stumbles at all.
+
+He would wobble over to rocks that caught his eye, or freshwater shellfish shells, and lift them into the air with a “dah!”.  My hands were soon full of his treasures, to the point where Washy had to go back and get me a pouch for all of them.
+
+Meiling helped him out too, pointing out dragonflies and waterskaters, and even caught a frog for Zhuye to marvel at.
+
+He reached out and gently patted its head twice, and Meiling set the little guy back in the water, where he dashed off. Zhuye clapped his hands at the speed, clearly pleased with the frog.
+
+So I dropped to all fours, and started hopping along myself. Meiling soon joined me.
+
+Zhuye chased us around, shrieking with laughter, and trying to hop himself. He was really uncoordinated, but he was having a good time, and that was all that mattered.
+
+He played run to momma, then run to papa; he dug in the sand, and piled it up with Washy’s help. He clapped and cheered when Babe and Sunny cut the water, forming brief valleys where you could see all the way to the bottom of the lake, before they splashed back up again.
+
+Suyan caught us dinner—the fox woman came out of the water with a great bounty and a pleased smile. To my surprise, Yanjing helped cook, muttering the whole time about how his mother used to roast this particular fish. Washy was his able assistant, eager for this new flavour.
+
+The Lord Magistrate, Lady Wu, and Xue Ji simply went for a walk together, or lounged in the shade… and the subtle flirting between the three of them got more and more blatant as the hours passed.
+
+Finally, the bees, after taking out anything that came to try and bite us, stood down. I made them a couple little balls of grass, wove some tiny nets… and had beach volleyball, miniature edition good to go. They seemed to like it, their little butts wiggling like crazy.
+
+The tension in everybody’s shoulders slowly faded, as we ate good food, sang songs… and just let everything unwind.
+
+The sun set. The fireflies came out, and danced along the lake. The stars shone down from the heavens.
+
+Zhuye fell asleep in my arms.
+
+“It's so beautiful,” Meiling said, watching the lights dance over Pale Moon Lake.
+
+It really was.

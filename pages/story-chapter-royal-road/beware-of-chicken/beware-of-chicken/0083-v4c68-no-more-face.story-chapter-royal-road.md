@@ -1,0 +1,245 @@
+---
+id: 22b67990-0f25-55ae-9f69-648fbb338c3c
+page-type-slug: story-chapter-royal-road
+title: "v4c68: No More Face"
+slug: 0083-v4c68-no-more-face
+partOf: beware-of-chicken
+position: 83
+ownLength: 2406
+unit: words
+ownProgress: 2406
+publishedAt: 2023-12-11
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1439452/v4c68-no-more-face"
+royalRoadId: "1439452"
+markedReadAt: "2026-06-29T18:54:17.400Z"
+---
+
+Zang Sheng woke instantly when he felt the power descend from the Elder’s box. It would have been impossible not to; the power the man emanated felt like all of Sheng’s ancestors had had their funerary tablets broken.
+
+Still, he kept his eyes shut and took stock of his wounds. He was not too badly damaged—the massive rent in the front of his body hadn’t hit anything important. His cultivation and refined body had managed to resist the worst of the damage the rooster had inflicted on him.
+
+Bi De had not broken him. Being defeated by a chicken would be embarrassing to some, possibly embarrassing enough to cause a deviation; but Sheng refused to feel shame at his defeat at the hands of a Spirit Beast who was his equal in cultivation.
+
+He would have to train even more harshly in the future. He did not comprehend how Bi De had broken through an attack that he had spent his Vital Qi on, but it had happened.
+
+It was utterly vexing, but irrelevant. All that mattered was that he was lacking.
+
+He took deep, even breaths, and turned his attention from himself to the voices that were emanating from the stage. It was mildly annoying that he had apparently just been forgotten where he lay, but there was no helping it.
+
+Somebody was speaking.
+
+“Oh? Guilty of many things?” an old voice asked.
+
+“While they are innocent of being demons, we have found numerous instances of… dishonourable conduct. Particularly the conduct of the Inquisition and the Patriarch,” Bi De declared.
+
+Sheng felt a change in the air, like it was suddenly denser.
+
+He opened his eyes… and blinked as he saw mist surrounding the arena, having formed into a giant woman with nine golden tails.
+
+She was tending to another man with blonde hair and blue eyes, the splitting image of the depictions of the Second Patriarch.
+
+He was later named: Zang Zengsheng, the man Sheng himself and his own father were named after. He should have felt pride, to see his line’s sire.
+
+Except for one thing.
+
+The man’s eyes were weak. Sheng noticed it instantly. They were not the eyes of a man filled with resolution and might, solid and unflinching. They flitted and locked on to things. They were shifty.
+
+Sheng had to shove down his instinctive revulsion for the behaviour. That was the Patriarch. The founder of the Shrouded Mountain Sect. His Ancestor.
+
+Surely, he was about to erupt with might after he found out what the foxes were doing? He would see the blood sacrifices and fight his way free.
+
+Sheng waited, but all the crystal showed was the fox-woman showing off her home.
+
+A home that looked rather well-kept. Humans and foxes going about their business.
+
+The Patriarch then promised to leave and return… and return he did, again and again, each time receiving healing and gifts from the foxes.
+
+Sheng could hear the disciples start to murmur with the same confusion he felt.
+
+Just what was going on here?
+
+And then there was a great outcry as the founder took a fox hostage and tried to steal one of their treasures, breaking every rule of hospitality there was—and the mortals of the mountains took their hospitality very seriously.
+
+The mountains were a cold and dangerous place, and the customs of them were as old as time. Blizzards would blow in unpredictably, and travelers would often find themselves taking refuge in another’s home; None would dare turn a stranger away, just as no stranger would dare to harm or steal from a person who gave them shelter. Even the worst of mortal bandits abided by the Mountain Code.
+
+Those from mortal families were standing up, and others were cursing—and even Sheng himself felt a brief surge of satisfaction as the man was beaten severely by the woman. He was so utterly pathetic.
+
+Sheng couldn’t believe he was the founder.
+
+The scene changed, the mist crackling with lightning—and Sheng’s eyes widened. His jaw dropped. His breath quickened… and he could tell he was not alone.
+
+Even through the mist, the man had presence.
+
+His eyes were pure and resolute. His body was perfectly refined, and the scars that marred his front simply added to his majesty.
+
+This was a man who never backed down. He never retreated. He was might incarnate.
+
+Sheng stared at the magnificence of the First Patriarch. The man who was often sidelined, or omitted all together as a fool who died to the foxes.
+
+That… that had to be a lie. Sheng basked in his overwhelming presence. He could feel lightning Qi touching his very soul, charging him, filling him with might.
+
+“Strength above all,” the man said with a smile, and Sheng knew the mantra was good. He had lived his entire life by it. Surely, the First Patriarch would have been proud of him—
+
+“To protect those we love.”
+
+Sheng’s world screeched to a stop. The man, Zang Young, laughed as he lifted children up onto his shoulders and shook the hands of mortal soldiers.
+
+Their words… their creed had been different?
+
+He was almost numb as the First Patriarch’s eyes widened and he went to check on his brother.
+
+The man rose and went off to war—for the sake of a man weaker than him, for the sake of a snake, against a woman who had never wronged them.
+
+The battle was spectacular, of course. His might was everything Sheng had ever dreamed of.
+
+And then, once more, there was confused murmuring as they stopped their quarrel and apologized to each other. Their eyes brightened as they thought of the future.
+
+And then a lightning bolt pierced both of their backs.
+
+The stone under Sheng’s hands crumbled into dust.
+
+He could only imagine that this had to be some sort of lie. His ancestor was a paragon of strength. His ancestor was mighty. He wasn’t a rat who killed his own brother from behind because he was too weak to face him openly.
+
+But he could feel it. He could feel the Qi in the air and the mist, charged by lightning. The lightning of the last dregs of an honest man.
+
+Sheng grit his teeth as his ancestor led the assault on the foxes and drove them from their home.
+
+Blood almost unconsciously filled his mouth and he spat it out. He kept his eyes locked on the mist.
+
+==============================
+
+On the ground of the arena, Yun Ren was sweating as the mist shifted and billowed.
+
+This… this was not entirely as planned. He had created this illusion, sure… but it had been nothing like this. The mist had taken on a life of its own. He could feel the Qi within it, bubbling and surging and changing things.
+
+Yun Ren had planned on a show. He hadn’t planned on the emotions within it. He hadn’t planned on the sheer visceral sensations that he was certain everybody in the arena could feel.
+
+He grimaced as the Qi within it brushed against his own, it wanted something. It demanded something, now that the remnants of the old fox could finally act.
+
+The illusion tugged at him again. Yun Ren took a deep breath as the mist in his mind pulled back slightly, revealing its deepest self to him. Yun Ren reached out… and ripped off the last of the shackles that kept the mist tied to the Mountain.
+
+======================
+
+Che Han had been reeling when he saw the first part. All his life he had been taught of the monstrous foxes and how they had betrayed everything… only for them to have been the ones that were betrayed.
+
+And then the scene changed as a man who looked a lot like Che’s own father appeared, frowning.
+
+“There's no way the Patriarch could have been defeated like that,” the man whispered to somebody else. “I need more information… but… I think Zengsheng may have killed him.”
+
+The words were treasonous… and somebody had noticed them.
+
+Zengsheng stared dispassionately as the report came in.
+
+“Send Hanbin on a mission and get him out of the way. As for the rest of the clan? The vine shall wither, but the Sect may still make use of the stunted fruit."
+
+Han felt his grandfather stand up, his Qi roaring with fury as Zang Zengsheng sent their ancestor on a suicide mission… and then condemed the rest of them to thousands of years of being held back.
+
+He felt like he wanted to vomit as he turned to Yun Ren. The man’s eyes were glowing blue; mist was seeping out of his mouth and he was shaking slightly.
+
+And still the vision continued.
+
+==============================
+
+Elder Chongyun could only watch. He knew the Inquisitors were mostly for internal affairs… but the sheer extent they had been used was mind-boggling. The visions were speeding up now, as more and more of the early generation was culled.
+
+This… they could not recover from this. There was no way any of the families and clans under their banner would tolerate this.
+
+There was another roar of fury,this time the Mo family, as one of their ancestors was snuffed out just as easily.
+
+And then… the vision changed to a woman he recognised.
+
+Zang Wen, the “Arch-Traitor.”
+
+Shenhe’s aunt. Chongyun blinked. Shenhe and Wen, who were of the line of Zang Yong.
+
+Zang Wen, who found out the truth and was tortured and broken for it.
+
+Elder Chongyun’s heart started beating faster. He had joined the Sect and risen high within it. And now… he had an idea that just might salvage things. Something that might prevent the utter implosion of the Sect and the devastating consequences that would come with it.
+
+Chongyun licked his lips and waited for the right moment to act.
+
+==============================
+
+Shen Yu stared up at the mist as a final crime played out, the Inquisitors extinguishing an entire family on the current Patriarch’s orders.
+
+Bi De had been right. They had been dishonourable.
+
+Shen Yu had known something was up, but this certainly hadn’t been what he was expecting! Shen Yu had spent his time looking for demonic influences and otherwise evaluating his pupils. But in the end, this was much, much better than he had ever hoped for.
+
+Really, just where did Jin find all these people? He had a transcendent talent for finding transcendent talents! Only in the Profound Realm and they had driven a sect into what was looking to be an open schism?!
+
+Shen Yu’s smile widened. He looked up at the stands. Family heads were all on their feet. Disciples were looking to either run or get their own pound of flesh.
+
+He would have to get Yun Ren something nice. Because this? This was something quite amazing.
+
+Shen Yu smiled at the boy as he fell face first to the ground twitching slightly, his Qi exhausted; but the mist itself seemed to be growing in power… like a storm cloud.
+
+Shen Yu could feel the intent within, as all the mist on the mountain started to gather.
+
+He smiled and nodded.
+
+“Well! I do believe this ends the trial of the Shrouded Mountain Sect. They have not been infested by demons,” He declared grandly. “And now that the verdict is rendered, it is no longer our place to interfere with their internal affairs. Your tagalongs may follow if they wish.”
+
+Bi De blinked and then seemed to get what Shen Yu was getting at.
+
+“Will the mortals be alright?” the chicken asked, and Shen Yu smiled.
+
+“The barrier will hold. The mortals are safe; The inquisition…” Shen Yu reached out and grasped at the little beacon he had left for himself, cutting between the intervening space.
+
+The Inquisitors, trussed up and looking extremely panicked, fell to the floor of the arena.
+
+Bi De bowed and made to get ready, turning to talk with his friends. Shen Yu watched with a grandfatherly smile.
+
+“Why?” a voice croaked from next to Shen Yu’s feet.
+
+Shen Yu blinked and turned to look at the man who was kneeling at his feet. The Patriarch of the Shrouded Mountain Sect’s face was twisted into an ugly, furious thing.
+
+“Why what?” Shen Yu asked.
+
+“You’ve ruined me. You’ve ruined us. You’ve come into our Sect, torn off our face, and now… Now…!”
+
+“Oh, why did I do this? Do you really wish to know?” Shen Yu asked. He leaned in and smiled at the man. “Because your sect insulted my grandson.”
+
+The man gaped at Shen Yu as the Unconquered Blade reached out and slapped the man’s face twice. It was almost an affectionate gesture… aside from the fact that the strikes nearly exploded his meridians. The man’s Qi started to spasm.
+
+The Patriarch collapsed, coughing.
+
+Shen Yu then turned back to the children.
+
+“Ready to go?” he asked.
+
+The children nodded.
+
+And thus… they left the Shrouded Mountain Sect.
+
+==========================================
+
+There was silence in the arena at the sudden departure. The barrier stayed… but the arena was still full.
+
+Things were balanced on a knife’s edge and ready to erupt into bloodshed. Family against family. Disciple against disciple. Thousands against the Inquisition, who had murdered and ripped apart the minds of far too many disciples.
+
+And then, somebody broke the silence.
+
+“Shrouded Mountain Sect! To me! Stand with me, against the blood of the usurper and the kin-slayer!” ever-cautious Elder Chongyun shouted. His words ripped through the arena as eyes widened. “With me! To restore our Sect to glory!”
+
+The spell broke.
+
+“Kill the kin-slaying cunts!” Che Hanbin roared, his face purple with rage.
+
+Disciples and families roared, their eyes locked on the Inquisitors.
+
+The current Patriarch’s power exploded off of him. The charge instantly stalled.
+
+“If you think I will just lay down and die—!” the Patriarch began, and then eyes widened.
+
+He turned around as all of the mist from around the mountain finished ripping itself free. It churned like a storm cloud… and then it launched itself at the Patriarch, a spear of lightning and foxfire.
+
+=========================
+
+The mountain bucked and rocked for three days and three nights as cultivators did battle upon it.
+
+Mortals watched on with fear as it shuddered and trembled.
+
+They didn’t know what was happening. But they did know one thing, as the perpetually misty place was revealed entirely.
+
+It would never be called the Shrouded Mountain ever again.

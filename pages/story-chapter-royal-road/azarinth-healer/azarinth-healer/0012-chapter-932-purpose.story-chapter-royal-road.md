@@ -1,0 +1,163 @@
+---
+id: af987785-b761-504c-97ca-e350d88375b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 932 Purpose"
+slug: 0012-chapter-932-purpose
+partOf: azarinth-healer
+position: 12
+ownLength: 3285
+unit: words
+publishedAt: 2023-05-17
+link: "https://www.royalroad.com/fiction/16946/azarinth-healer/chapter/1216108/chapter-932-purpose"
+royalRoadId: "1216108"
+---
+
+Chapter 932 Purpose
+
+Ilea watched as yellow fire descended upon the mountain range before her. She flew far above the southern parts of the vampire lands. Her most recent request, by one Berrik Grainwyld. Vampire of the Court of Flow and one of the first two of their kind that she had met. His request had been forwarded through Verillion Carn, First Vampire and former First Hunter of the Azarinth Order.
+
+She formed thin lances of black glass and sent them down into the remaining targets crawling the splintered mountain range while her magic illuminated the night. Creatures of the void, called by the Primordial Flame and its power, killed by her volcanic glass mere moments later, hundreds of projectiles raining down as she flew and scanned the landscape.
+
+Compared to the Plains and the former Navali forest, the changes due to the Extraction seemed less severe in the lands claimed by the Courts, though she supposed it had more to do with them having been mountainous territories in the first place. She could see some of the mountains splintered, cracks running through the valleys, broken streets, and sections covered by splintered and burnt wood where she assumed forests had once graced the landscape, destroyed now by the arcane storms ravaging most of Elos.
+
+She teleported a few times, checking different angles and sending out a few more lances, all the while using Monster Hunter to attract any beasts that were still hiding.
+
+Here in the wilderness, she even found a few non void beings that had survived. Ilea tried not to kill them, if only because they had managed to survive the Extraction and everything that had followed.
+
+Satisfied with her work, she summoned a gate and flew through, appearing in Marrindayne.
+
+The largest city of the Courts was busier than she had ever seen it. Refugees from the other vampire cities had gathered once they had somewhat recovered from the initial impact of the Extraction and following assault of the void monsters. They had lost many, just like the human kingdoms and elven domains but with their high levels and aptitude for healing and blood magic, they were able to keep losses lower compared to many of the other species throughout the continent.
+
+Ilea sighed, looking at the moons of Elos shining down onto the vampire city. The only one in the Courts still remaining mostly undamaged and above ground, thanks mainly due to the ritual magic set into the very foundations of the city and powered by Verillion himself. She understood by now that other vampires or even non vampire blood mages could power the magic but hundreds would have to spend their entire mana for a day to even come close to what Verillion could add into the magic in a single hour.
+
+Marrindayne was his domain, just like Hallowfort and what lay below was the Meadow’s.
+
+A few people greeted her with respectful bows or gestures, others simply glancing her way and whispering one or the other rumor to those they were with. She didn’t mind much. Not anymore. Closing her gate, she walked towards the cathedral housing various representatives of the Accords. It had been a makeshift shelter to share information and organize the involvement of Accords fighters and machines in the recovery of the peoples of the Courts. A semi permanent set of teleportation gates had been added, connecting the ruins of large vampire cities now underground with Marrindayne, teams of engineers and mages traveling through the fabric to rebuild and add necessary enchantments and technology for life underground.
+
+While many would remain in the few places sheltered from the arcane storms, Ilea found that many would rather live in their own home, even if they were now underground. As long as they had some way to see the moons from time to time. A silver lining, she supposed, for vampire kind.
+
+Months had passed since the Extraction, the beginning rather busy. Herself, Owl, and Nelras had rushed from one place to the next, wiping out tens of thousands of void creatures every day. It had been a trance and each day had melded into the next, the group soon splitting up to help in less crowded areas. She hadn’t slept for weeks, only allowing herself a nap when the requests had become more sparse.
+
+The cleanup had allowed her to process things a little. It had been hard to see the destruction, loss, and pain caused by the Architect but all she could do was take the next step and help where she could. There were people who blamed her and the Accords but many more were simply glad to know that there was someone out there capable of fighting back. And she wasn’t alone either. Sentinels, Shadows, Cerithil Hunters, the Mava, Vampire kind, Dark Ones from Hallowfort, and many more had chosen to join the fray, to fight and get stronger through this cataclysm.
+
+Once the regions close to any settlements had been cleared out, Aki’s machines escorted entire groups of mages and warriors into the wild, systematic formations were created and perfected, the void creatures coming to this realm to consume were instead slaughtered to empower the peoples of Elos. Many had made leaps in levels that even Ilea had rarely experienced. She wouldn’t be surprised to learn that Kyrian and Evan would soon no longer be rare in their status as three mark humans.
+
+There was a grit now, to those left behind. Everything they had lost, everything that had been destroyed. Much had been taken for granted but now even former administrators, farmers, and brewers alike took up magic Classes and fighting lessons. With what the Extraction had done, Ilea could only imagine the long term suffering and chaos the nations of Elos would’ve experienced without long range teleportation, healing orders and organizations, nature mages producing food for millions underground, transported by Aki’s machines. Just as much did she see the impact of single leaders like Verillion or Verena, battles and speeches to inspire. She herself had listened to a few recordings in the past weeks, given to her by Aki.
+
+Elos was not lost. Its peoples were not lost. They would reclaim their lands and they would rebuild. She wondered now, how this event would be recorded in history, how this generation of survivors would shape the future. She was glad that her power had allowed her to fight the Ascended, and to clear out so many creatures of the void in the early weeks after the Extraction but already she could see that the need for power alone was no longer near as present.
+
+While those working with Aki’s Praetorians and Executioners improved their own powers and magic, engineers, smiths, and scholars worked to build and improve equipment and technology both to protect the settlements that were left but just as much to repurpose ancient Taleen cities into prosperous settlements illuminated by enchanted lighting mimicking sunlight.
+
+She had yet to hear of any successes in stabilizing regions against the arcane storms, the technology of the Haven something that would take years or decades to replicate and impossible to power without another Source. Marrindayne’s ritual magic had resisted the Extraction to an extent and prevented the arcane storms to form or move into the region but as far as she was informed, they hadn’t yet figured out why exactly the complex ritual had such an impact. Replicating the whole thing presented the same issue of another power source, same as with the Mava oasis, either the Heart of Verivyen or the Fae that initially gifted the artifact responsible for the effects protecting the region.
+
+Ilea was sure they would figure something out in time but she knew the Accords were going for something that could be employed safely and in high quantity. Any technology that could be easily sabotaged or targeted was out of the question. But they had enough food, shelter, and opportunities for the remaining population of Elos.
+
+She looked up at the broad circular and dark red tinted window of the cathedral and went inside, careful not to damage the floors with her weight. Fighting for weeks on end sometimes made her forget about the immense power she wielded.
+
+“Lilith,” the guard greeted, a Dark One covered in enchanted plate mail and wielding a silver blood magic rifle of Accords design. More simplistic and mass produced in Aki’s many factories.
+
+She had heard that the weapons made a lot of people travel to Marrindayne to learn about blood magic. Even a few fresh Sentinels had picked up the magic in combination with their arcane healing. She could only imagine the possibilities in the future. Blood magic and healing really went hand in hand. At least in that sense, she could understand why the Azarinth Order had meddled with the magic that it had.
+
+She found an Executioner talking to a group of armored Shadows, the group leaving a moment later, vanishing through one of the many teleportation gates now set up in the hall.
+
+“You added more,” she sent and looked around. The cathedral was busy. Merchants selling wares, a few smiths and leather workers performing repairs for the injured and exhausted fighters that appeared.
+
+“We did. Marrindayne has integrated well into the mesh of settlements that remain. I suppose many enjoy the different culture as well, what with Ravenhall and the surrounding region being as crowded as it is. You’re done?”
+
+“I’m done,” Ilea sent. “What’s the next target?”
+
+The Executioner’s eyes glowed bright before it glanced at her. “There is none at the moment.”
+
+“None?” Ilea asked.
+
+“None. No sightings of behemoths on the coast lines, no large groups in the vicinity of our strongholds. I suggest you leave the current known void populations to those who would benefit from killing them. It will take longer to clear them of our lands but in the long term it will benefit our alliance more.”
+
+Ilea breathed in.
+
+“You have fought for long enough,” the machine sent.
+
+A ringing came to her ears and vanished immediately, her healing flowing through her.
+
+I did fight for a long while.
+
+She summoned herself a chair of ash and sat down, switching out her Calamity Scale Armor for a simple set of linen clothes. How long since I last wore clothes.
+
+It felt a little strange.
+
+Ilea found it felt even worse to disable her Ash Scale Armor.
+
+The Executioner glanced her way. “You look tired.”
+
+“I can fight for another month without issue,” Ilea sent.
+
+“Doesn’t change that you look tired,” Aki sent. “Get some rest.”
+
+Ilea smiled. She did feel tired, in some strange way. Her Stamina was full, her mana was near full, and her mind was focused, and still there was something that told her to rest. Perhaps a remnant of her humanity or something different, something in her soul.
+
+She breathed in a deep breath and summoned herself a meal. One of Keyla’s of course, the cook and friend still her main source of culinary joy. “What about healing?”
+
+“We resumed testing with your copy. We should have more to share soon, the Meadow is still taking a lot of precautions despite the data we have gathered from your usage during the attack on Riverwatch and the Extraction itself. And we’re prioritizing the problems of realm and fabric stability. I’ll let you know when we can start, I have everything set up on my end.”
+
+“Good to hear,” Ilea sent back and looked at the food. She realized that she had time to eat it. Time to enjoy it. It had been a while. Even back when they had searched for the facilities of the Architect, she had felt a sense of urgency at the back of her mind. The Extraction had happened. They had prevented their second sun from being destroyed but either way, the threat was gone. Of course there could be others in the future, realm tears, invading monsters or civilizations but right now, she really could take a break.
+
+She smiled to herself. Ilea found that she was happy about her cosmic healing. Something she could contribute. Some purpose left. Might pick up knitting sometime soon.
+
+She knew her urge to fight something powerful would come up again soon enough but right now, she had enough. The real problem of finding a reasonable challenge sat somewhere in the back of her mind as well. Even a Source powered Ascended hadn’t been able to put her down.
+
+Maybe you were onto something, Wind of Aveer, she grinned as she thought of the Elemental. Did it hold back? She still wasn’t sure. It had been a good fight either way and that, in the end, was what mattered.
+
+She finished the curry type dish whilst watching the craftspeople work, looking at the various adventurers that appeared and disappeared from the cathedral. A part of her wanted to be back at level two hundred. She could almost feel the excitement in the air, the purpose, the will to fight and get stronger, to retake their homes and lands.
+
+But somehow she could tell that the bigger challenge for her was not the next fight but instead taking a break. A longer one maybe. Time spent just being and enjoying herself. The next drake would come either way. Perhaps she could stop chasing it.
+
+For a while at least.
+
+Until the first Sentinel reached the four mark stage. She assumed that would take a few years at the very least.
+
+She focused on one of her marks and sent a message. “Hey. Bit earlier today but I’m done apparently. I would like to see you.”
+
+For the first time in months, she felt a little lost while waiting for the reply.
+
+Felicia didn’t take long. “Meeting for another hour but afterwards, yes. In Iz? I’m starting to really like the city.”
+
+Ilea smiled to herself. The daily and sometimes more often messages were the only interaction she’d had with Felicia, the woman just as busy after the Extraction. The Empire now worked closer with the Accords, more treaties binding them but Alyris still refused to outright join the alliance. The old pride of a dying Empire, Felicia had said a few weeks past, and still, she remained a Major and a noble in the Court of the Empress. Ilea didn’t think the Empire would be done as long as Alyris remained.
+
+She opened a gate to the former dwarven capital and stepped through, spreading her wings close to the central golden metal sphere hovering above a pit. Aki, Sentinel of Akelion. It remained funny to her that the copied consciousness of an elf was now in charge of the machine formerly responsible for the hunt on their kind.
+
+Some thousands had moved to Iz once the Accords had come to control it but with the Extraction, people had downright flocked to the former capital. The cavern was enormous, well lit, and the infrastructure had remained mostly undamaged. Any repairs required due to the past assault by Ilea and the Cerithil Hunters had long been finished.
+
+She still remembered the tense and unsettling feeling of appearing in the capital for the first time, a sprawling underground city crawling with green eyed machines ready to kill her. By now it was entirely transformed. Bustling streets, magical lights, merchants shouting, and drunken fights escalating into battles of magic, only to be interrupted by Guardians or guards. She saw Dark Ones in the form of wisps and insect like beings mingling at restaurant tables with humans, dwarves, and Mava alike. She even saw an elf running across the rooftops.
+
+Ilea wondered if he was a Cerithil Hunter, or if he belonged to one of the Domains. She was still the Monarch of Verleyna and thus the ruler of the Sky Domain. Nelras Ithom and her own actions in the Sunlight Wastes as well had left more of an impression than she had intended, diplomatic relations with the wastes continuing to expand. The Fire Wastes were more difficult to deal with apparently, despite the direct involvement of the Faransire but she was sure at least some of them would be curious to at least see the other species and settlements throughout the continent.
+
+To think even seeing an elf running through the streets would’ve caused a mass panic just a year ago. Isalthar and Feyrair did a lot of work.
+
+The Hunters had helped where they could, clearing void populations or helping out with their magic, and they all wielded powerful magic.
+
+Feyrair as acting Monarch even had teleportation gates added to Verleyna, encouraging other species to visit and meet the elves, surely for the benefit of either. Ilea still assumed it would take a generation or two for either humans or elves to move on from their past but the common enemy of Ker Velor and the common suffering from the Extraction pushed them closer together. At least for now.
+
+She landed in one of the streets and picked a random restaurant that seemed nice. Her title and the marks seen through Identify turned heads and ended conversations but she simply got a seat and reinforced it with a lot of ash and glass. “I’m just here to eat,” she said with a smile, the waitstaff talking to each other before one of them approached.
+
+A few mages walked up to her table as well, one of them asking if they could join her, offering to invite her for dinner.
+
+“Sure, been a while since I had company,” Ilea said and smiled at the waitress. “One entire menu, if that’s possible.”
+
+The young human woman opened her mouth before she shut it. She nodded. “Yes o… of course, Lilith, ma’am, lady, I mean… yes. We’ll be right there.”
+
+“There’s no rush,” Ilea said, turning to look at one of the mages. They seemed hesitant, taking awkward glances at each other as people in the street stopped to look what the noise was about. Ilea identified one of them.
+
+[Arcane Mage – lvl 135]
+
+“I remember an arcane mage from an expedition below Dawntree. Trained my resistance with his help,” she said and smiled. “Staying in Iz? Or just temporary?”
+
+“I… I plan to stay, actually. There are gates leading to the upper tunnels below Karth, a few Taleen ruins. We’re helping to clear and restore it,” the mage said.
+
+“I fix the buildings, Reyne here adds crystal to the caverns for light. With enough time we’ll have another small town ready for people to move into,” another one of them spoke, an earth mage of a similar level.
+
+Ilea listened to them talk, noticing that more people had joined but others were leaving too, moving on with whatever they were doing or returning to their own conversations. For once, she felt comfortable with the attention she was getting. She supposed that slaying a dragon warranted at least some recognition, though she planned to find something a little more quiet once Felicia was done with her work.
+
+She leaned back, her ash and black glass spreading behind her to support not only her chair but the wall and entire Taleen structure. Looking up, she could see the warmth of magical lamps, a fireplace adding heat to the establishment, tapestries and even a colorful mural adding life to the ancient stone building.
+
+Knowing that even Iz could flourish once more with so much life made her feel a little more at ease with the state of this realm. She breathed in a deep breath when the first mugs of ale arrived at their table.
+
+I suppose I really was due for a break.

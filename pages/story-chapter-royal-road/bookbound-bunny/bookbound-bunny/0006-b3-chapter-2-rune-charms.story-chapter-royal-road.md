@@ -1,0 +1,153 @@
+---
+id: e04b5430-6162-550a-8bb2-6949da18fd1f
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 2 - Rune Charms"
+slug: 0006-b3-chapter-2-rune-charms
+partOf: bookbound-bunny
+position: 6
+ownLength: 2167
+unit: words
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3014288/b3-chapter-2-rune-charms"
+royalRoadId: "3014288"
+---
+
+With Alice's latest announcement, everyone was scrambling more than ever before. With the internal competition official, the faction limits, and the minimum survival time, it had caused quite a stir, and with only a week until the start, they needed to make all the preparations they could.
+
+The factions even called for a meeting over the weekend to offer their services, with Bradley putting quite a lot of pressure on Lily's team to perform well for the glory of Maranix. After all, it was made up of three members in the top ten of the mock gauntlet, with two of them even coming in first and second place!
+
+Unfortunately for Maranix, aside from some raw resources, they couldn't offer much to this elite team. Bradley had thought the senior alchemists could at least offer to brew something up for them, but then it was revealed that both Lily and Lotte were already Sylwel's apprentices! Not only that, they both had active commission work with the madman.
+
+Rather than providing helpful aid, the seniors suddenly felt a rising pressure beneath their feet. With such highly competent juniors, wouldn't they be shaming Maranix if they didn't shine just as brightly? Thankfully, the other teams didn't have two alchemists behind them, so they could show off their seniority there and save some face.
+
+Lily, however, was more than happy to take the discounted resources, and together with Lotte, they were able to brew quite a few potions over the weekend.
+
+Rose had even made an appearance, and when Lily explained the situation, she dropped a stockpile of resources on Lily's doorstep. Rose wanted a number of finished alchemical goods, and the pay would be any leftovers.
+
+Despite Lily owing Rose, this was a considerable payment if she could keep her wastage down. Lily had even stressed this point to her older sister, but she had just looked at her in confusion.
+
+"This is the standard amount, though?" Rose replied, confused.
+
+Lily pressed for further details and learned that Rose was not doing this solely out of the goodness of her heart. She was sticking to her agreement to trade Lily's services for the dimensional pouch, and the extra resources on top were the insurance to get the quantity she wanted.
+
+This is just like when I used to do scribe work. I got to keep the extra parchment and ink just by doing a good enough job.
+
+Lily was mostly delighted, with only a touch of anxiety on her side. The opposite was also true: if she failed to deliver the amounts Rose wanted, she'd need to fork out for the required resources on her own.
+
+Rose's requests weren't anything too crazy, and the hardest was the night drops. Rose had been ecstatic when Lily mentioned she had acquired that recipe from Sylwel.
+
+"Some of the lower floors have no light whatsoever," Rose explained. "Normally, it's not an issue since I can just keep some flames up. But that also makes me a huge glowing target for the monsters down there."
+
+The response was logical, but it still surprised Lily.
+
+Since when does Rose care about sneaking around? I would have thought she would have welcomed any and all monsters to try their luck against her.
+
+That could only mean that the monsters down there were far more dangerous than she realized. While she had the utmost confidence in her big sister's unparalleled strength, she couldn't help but be somewhat concerned.
+
+I'll just have to brew up the best batch of potions possible! That way I can help keep Rose safe!
+
+This became Lily's life: potions during the day, and then glyph lessons during the night. When not in class, of course.
+
+As for the glyphs, Lily and Arakil scrutinized every inch of the book that Professor Ollie had provided. It became evident that the book had dungeons in mind, with plenty of designs to quickly take control of a situation, as well as a large section dedicated to traps.
+
+"I didn't think of using glyphs like this…" Lily admitted, eyes wide in shock at what she was reading.
+
+[Truthfully, it's actually what most mages learn, even if they do not wish to pursue glyphwork. The explosive rune in particular has been a staple for over a millennium.]
+
+"Don't you mean explosive glyph?" Lily promptly asked.
+
+[Rune was the nickname, or label, assigned to them. A lot of the dedicated scholars and researchers were not pleased about these pseudo glyphs being associated with them.]
+
+"Were you one of them?"
+
+[Heavens, no. All magic is worth studying, in my opinion, even if it appears crude and simple. While I wouldn't encourage you to dedicate yourself to these, they have their uses, especially in conjunction with your wand practice.]
+
+Lily nodded in agreement. Though she wasn't an expert on the subject, even she could tell the downsides of these quick magical solutions.
+
+For one, they had no customization options, as they were simplified to a fault, and you couldn't apply sigils or otherwise change them. That also meant they all had a singular use, unless you were extremely creative about where you applied it.
+
+The effects of the runes were similarly blunt and could be described in a single word, such as explode, burn, block, dig, flood, and so forth. It paled in comparison to what could be accomplished with a well-constructed glyph, let alone an inscription.
+
+If a rune is just a word, then a glyph is like a sentence, while an inscription is like a paragraph. Arakil created a simple inscription that cleared an area, raised it, and transmuted it to stone!
+
+Still, it was another tool for the belt, and they could definitely prove helpful. The speed at which they could be drawn was no joke, and after Lily practiced a few times, she thought she could easily replicate this even while fending off a monster attack with her cloak.
+
+As they read further in the book, they even found markings similar to the charms Professor Melina had shown. Thankfully, her curiosity was quickly fed, as Arakil explained that this concept was what the mages created in an attempt to upgrade their runes.
+
+Arakil even laughed during his explanation, admiring the simplicity of "more makes better" in its execution, which was what these charms effectively boiled down to. Yes, you had to worry about the balance and maintaining the formation or perimeter, but you were still working with incredibly easier tools.
+
+Lily suddenly paused during their reading and turned to look at Arakil in his book. "Wait, correct me if I'm wrong, but couldn't I just place multiple explosive runes on the same spot, and achieve the same effect?"
+
+[Correct. Hence why I said it was an attempt to upgrade their runes. For the vast majority of them, you needn't go through so much effort in trying to set up a pseudo-inscription formation.]
+
+Arakil even went so far as to explain a few success stories, and they all seemed to have one thing in common—duration. All of the runes were one-and-done; they would do their thing and then vanish. Yes, the effects would stay behind if it were material, but they weren't designed to last.
+
+The charm design that Melina gave them was made to protect a campsite, which it did by discouraging wandering beasts or monsters from entering the perimeter. Naturally, this needed to be long-lasting, or it would be a useless effect, which was why the pseudo-formation was required.
+
+Lily gripped her wand tightly, an excited smile blossoming on her face. I can't wait to try this all out in the dungeon!
+
+***
+
+Lily, Lotte, and Thomas would update each other during their shared classes on their progress. Lotte was handling the simple potions and salves, while Lily focused on her wand work and night drops. Thomas also reported that he'd been stocking his bag with dried goods while refining his culinary skills, even going so far as to ask Professor Melina for some lessons on the side.
+
+"You didn't ask Aura for lessons?" Lotte teased.
+
+"In making charcoal?" Thomas retorted, prompting the team to chuckle.
+
+"You could probably ask for pastry lessons… But I don't think that would help our camping trip," Lily pointed out after the giggles calmed down.
+
+Lotte nodded. "Even I'll admit she's good there. I wonder who's better between the two?"
+
+"Melina, hands down," Thomas quickly replied.
+
+Lily didn't answer. While she really admired Professor Melina, she had to admit that Aura's baking was out of this world.
+
+They moved on with sharing their progress and preparations, where Thomas also mentioned that he'd been putting in extra effort towards his lightning magic.
+
+At first, he had tried to be secretive about it, like he promised Lily, but Lotte had sussed him out. After all, she had also received an "ancient magic scroll" that somehow was just what she needed.
+
+And just like that, the day of the trip had finally arrived. Any further lessons for the day were cancelled, and even lessons for the next week were put on notice.
+
+"If you're good enough, you can treat this trip like a mini vacation," Alice joked. "I'm sure camping in the dungeon will be way better than doing remedial theory lessons next week."
+
+There was a collective groan from the students, and now they realized how the school could afford to keep them in the dungeon for a prolonged period. If they were successful, they likely didn't need any help; if they failed, remedial lessons were required to bring them up to the rest of the class's standard.
+
+Even Lily, who embodied Arakil's "practice makes perfect" philosophy, felt the looming threat of remedial theory lessons. Arakil's repeated lessons were at least practical in nature, so there was visible progress. But in this case, going over theoretical knowledge was akin to teaching one to parrot the correct information back.
+
+"Right, before we depart, here are some ground rules," Alice announced. "While we are heading down, you are to stick closely to me. No wandering off, or you'll get kicked out. Next, my word is law. If I say you failed, you failed. If you cry about it, I'll restrict your future access to the dungeon."
+
+The class gulped.
+
+"Next…" Alice said, drumming her fingers across the desk. "I can't remember. So we'll head down. Remember, stick close; we have a lot of ground to cover to reach the passageway down."
+
+Without warning, Alice suddenly got up and started heading down, causing the class to scramble to catch up. They proceeded through the usual doors and down into the first floor of the dungeon.
+
+From their previous excursions, nothing seemed out of the ordinary, but Alice was following what appeared to be a known path. None of them had any chance to test their skills as any monsters were defeated in the blink of an eye.
+
+Eventually, after reaching a large chamber, there was a gilded door that opened up to a staircase down. The students' collective anticipation was palpable as they stared at the stairs, wondering what awaited them below.
+
+They call it the forest floor, but surely it's not really a forest, right? Lily pondered.
+
+"Come on, no dawdling!" Alice said, wasting no time in heading down.
+
+They followed Alice down the stone steps, which seemed almost endless, until the stairway abruptly widened and the world opened before them. Where Lily had expected another wall or corridor, an unending forest stretched out instead—vast and somehow illuminated in sunlight despite being underground, from her own assumption.
+
+Alice continued, ignoring the gasps and unanswered questions from the astonished students. The last of the carved stone receded behind them as one by one, they stepped onto soil and leaf litter, the air changing from the dank dungeon to the earthy fragrance of the woods.
+
+Lily turned around, wanting an explanation for this unbelievable phenomenon, and saw that they had emerged from a towering tree, its canopy even breaching the cloud line. Others also followed suit and were similarly dumbstruck by the sight.
+
+"Welcome to your new home for the next few days," Alice chirped.
+
+"Is this really under the school?" someone asked, not believing it.
+
+"Of course," Alice answered. "Trust me, a grand dungeon like this is full of surprises."
+
+"But… There's a sky?" Arthur asked this time, evidently not believing his eyes.
+
+"The sky is unfortunately fake," Alice admitted. "If you try going straight up, you'll actually hit the ceiling. If you're strong enough, you could, in theory, burst back to the first floor, although I wouldn't advise trying something so reckless."
+
+Alice chuckled, but nobody joined in. Everyone was too speechless from the sight and her words.
+
+"Even so. Isn't this too big?" Thomas asked, shaking his head.
+
+"Your bag is bigger on the inside, why not the dungeon?" Alice casually replied, and before there were any further questions, she began heading out. "Follow me, we have plenty to do before it gets dark!"

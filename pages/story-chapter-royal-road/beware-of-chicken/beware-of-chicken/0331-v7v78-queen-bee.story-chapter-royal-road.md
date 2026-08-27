@@ -1,0 +1,143 @@
+---
+id: 2be49c69-0165-5914-9094-bdda36efa00a
+page-type-slug: story-chapter-royal-road
+title: "v7v78: Queen Bee"
+slug: 0331-v7v78-queen-bee
+partOf: beware-of-chicken
+position: 331
+ownLength: 2153
+unit: words
+publishedAt: 2026-07-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3664584/v7v78-queen-bee"
+royalRoadId: "3664584"
+---
+
+I was rather intrigued, so we ended up following Vajra— Meimei, Big D Rizzo, Yun Ren, Spooks and I were joined by Tigu, Yin, and Xiulan, who were likewise wondering what the commotion was about.
+
+The only thing any of us could do was watch as Vajra got the stampede of bears to calm down after they gathered a bunch of wood, and then set about holding a seminar on building hive boxes and proper bee care, all smiles, sweetness, and patience. She also obviously knew we were watching, but kept up the lesson anyway.
+
+It turned out Blaze Bear claws were dexterous enough to properly carve the wooden frames, and then also lift the frames from the boxes without making them bigger. The bears seemed to like how small and—once you knew what you were doing—relatively easy to build they were. Wood, some measurements, and a bit of wax to help show the bees where to build.
+
+It was one of those inventions that seemed so obvious in hindsight.
+
+Paobu was the first to complete his hive, assisted by the man called Baolin—and several other bears had some help too, squinting as the humans helped them measure and hammer things together. Basically all of them were people from the village Shady Glade, who now had something of a friendship with the bears. They took Vajra’s bombast and new form relatively in stride—getting attacked by giant hornets and fighting alongside bears against them seemed to have pushed up their tolerance for weirdness… and Vajra was teaching them a new and useful skill.
+
+As soon as he was done… he was rewarded. The entire clearing jerked to attention as they heard the buzzing of wings—and then relaxed when they saw what was making the noise. A small swarm of bees, led by one of Vajra’s soldiers, came down to land on the completed hive.
+
+After a couple of moments of wiggling and careful inspection by the swarm… they rather swiftly disappeared within it.
+
+Vajra clapped her hands together, a bright smile on her face. “Well done, well done! The great hero is skilled in every regard! Our little friends are quite enamoured!” Paobu had a great big silly grin on his face as he looked down at his hive with pride. The other bears redoubled their efforts. “Great Paobu, please treat my little friends with kindness! They traveled quite far at my request when they heard one of the heroes of Ash Forest wanted to see them—and don’t worry, to all the other brave warriors, others are coming. You shan’t be wanting!”
+
+“How far did they travel?” one of the humans asked with interest.
+
+“There are no bees left in Ash Forest; nor are there any within a hundred Li beyond,” Vajra replied, and the man’s jaw dropped. “Each and every one was slain and eaten by those vicious demons. They specifically hunted them down. We are very lucky Brave Paobu found us when he did, else the forest itself would have perished, with no bees to attend to the flowers or the trees! My poor little friends!” Vajra let out a little breath, clasped one hand to her chest, and turned away in what looked like grief.
+
+Man and bear alike let out snarls of fury.
+
+“She’s very good at this,” Xiulan muttered beside me, looking at the woman with respect.
+
+‘It died too quick! We should have burned it for at least ten days!’ the biggest Blaze Bear in the clearing snarled, smoke erupting from his mouth.
+
+More growls of assent came, as well as increasingly imaginative ways they could’ve killed the Yellow Empress.
+
+Vajra turned and favoured them all with a smile, tears still gathered at the corners of her eyes. “We are so lucky that you brave heroes all stood up to stop her! You have my utmost thanks, and the thanks of all the little ones you saved! Without you, the damage to the forest would have been so much worse—but alas, even as it is, it is still hurting badly.”
+
+‘It’s still hurting?” Paobu asked as the bears made noises of alarm.
+
+“Yes, the yellow fiend tried to eat the very Qi of the Earth, the essence of the forest! She managed to take great mouthfuls out of the land’s spirit, stealing its strength. That was why Noble Bi De returned its ill-gotten gains as best he could… but the wounds are still there. Our dear home is still hurting, still bleeding,” Vajra said, wiping a tear from her eyes, lamenting the state of the forest.
+
+‘Can it be fixed? What can we do to help?’ the big Blaze Bear demanded, his eyes very concerned.
+
+“Well, there is one thing that this Vajra knows, but… I am told most see it as a waste,” Vajra said after a moment. “For you see, as noble Bi De did, one can give their Qi to the earth, like so.”
+
+She knelt and pressed her hands to the ground. She made a show of it, of her Qi entering the earth. I felt Tianlan’s amusement as she accepted the Qi; there wasn’t very much before it was cut off, but it had been given earnestly enough.
+
+‘...that's it?’ another Blaze Bear asked.
+
+“Yes. Just a little is needed, every day. To the earth, my power may be nothing. But what if ten gave just that small amount? A hundred? A thousand? Just a small bit of Qi, given earnestly—so that the wounds inflicted by the demons may heal, and that our children may grow up under the boughs of these trees, under the protection of the Great Mother, safe and strong.”
+
+Several eyes widened as she invoked that title with such earnestness, her hands once more clasped, her smile beatific.
+
+‘The bee-human-female speaks sense,’ one of the older bears commented.
+
+‘It's just a bit of Qi. Barely any,’ another bear mused.
+
+Slowly, one by one, earnest little bits of Qi started trickling down into the ground.
+
+…It was really, really hard to reconcile the silly little bee who regularly passed out in the bath with the woman who had just social-fu’d an entire species Spirit Beasts. What the hells. Xiulan was right, she was good at this.
+
+We watched for a while longer, as more bears returned to their hive boxes and more swarms of bees winged down, drawn in from other areas. Most of them were comparatively tiny, and I could tell Vajra had taken care to not depopulate other regions completely to refuel the bees here.
+
+Vajra walked among them, praising, complementing, and occasionally fixing mistakes with a grace that reminded me of Peppa. Even wearing obviously too-small clothes she had a kind of regality about her.
+
+But not too long later, as the bears inspected their hives as if they were the most precious things in the world, Vajra approached us.
+
+“Your Majesties,” she greeted Meimei and me, dipping into a deep formal bow. Chunky had occasionally translated her words as “Emperor”, but I had assumed that was simply the closest translation of her dancing. I had thought bee language probably just had odd conventions, and I was technically the ruler of the Farm.
+
+It was a little awkward, but Meimei looked quite pleased by the address, and Vajra continued. “Noble Bi De, Princesses Tigu and Yin, Prince Yun Ren, Young Master Spooks, Lady Ri Zu, and Grand Marshal.”
+
+Everyone was greeted in turn with the utmost courtesy and elegance, and then she waited. By convention, it was for me to tell her to rise, if I was the emperor in her mind.
+
+“I’m impressed, by both your resilience and the way you were handling this,” I said, addressing her. I meant it. I would have been a lot more pissed off than she was in her position. Vajra immediately went from stone cold politics to preening, before schooling her features… but her swarm still buzzed with delight.
+
+“Ah, my resilience? Oh, the whole ‘Empress of the Forest’ matter. Worry not, Your Majesty, your servant has already conquered that mishap,” she said, puffing out her chest and tapping her fist against it.
+
+“You have?” both Tianlan and I asked at the same time.
+
+“Oh yes, the forest is ‘home’, so this one shall just expand the forest. With your leave, this humble servant shall have her daughters begin planting seeds towards Fa Ram, so she may continue to serve her lord,” Vajra stated matter of factly.
+
+Everyone paused at that. At the sheer simplicity of the solution.
+
+“Tianlan?” I asked, through our bond.
+
+“...we’re a pack of damn idiots, is what we are,” she replied, and I could feel her kneading her forehead. “Yeah, that’ll work. It shouldn’t interfere with anything. Most of the trees here are just normal trees with the domain marker within them. They won’t interfere with any ecosystems—and it might not even need to be contiguous. Hells, we can even make it go faster by transplanting a couple of full grown trees. And yes, we can get one of the ones that will grow bigger than that big tower in that city from the other place. I saw how much you want one.”
+
+Hey! A treehouse in a tree that would grow to the size of the CN Tower was one of the biggest childhood dreams out there! It would take too long to grow for me to play in it… but I’m sure our grandkids would love it!
+
+Big D chuckled. “My, my, the simplest solutions are the most elegant,” he mused.
+
+“They are. Great thinking, Vajra,” I said, smiling at her. “I’m glad you think so fondly of our home.”
+
+“We all would have missed you if you had to stay away for too long,” Meiling continued, a warm smile on her own face.
+
+Vajra’s cheeks turned crimson for a moment, before she schooled her expression. Her swarm behind her practically swooned.
+
+“W-well this much is nothing for your Vajra! Naturally, your servant surmounts any and all obstacles, and delivers perfect results!” she boasted. “Repairing this forest shall be child’s play!”
+
+She was a lot like Xianghua, I was finding. But while a lot of Xianghua’s bombastic moments were an act… with Vajra I really wasn’t sure.
+
+“You are wonderful,” I told her. “And now that we can really communicate… we should take the time to get to know each other properly.”
+
+I placed a friendly hand on her shoulder. She froze.
+
+“What a wonderful idea, Master,” Big D agreed, taking her hand on her other side. “I apologise that my learning of Bee was so slow, but it will be wonderful to truly get to know each other.”
+
+The red started at her chest, and slowly spread up her face, to her cheeks, the tips of her ears, and her forehead.
+
+“Get… to know… both of you… at once?” she muttered, her voice just a bit dreamy, and a dazed smile appeared on her face. She suddenly gasped and cleared her throat. “This servant would be delighted to, Your Majesty!”
+
+I raised an eyebrow at the odd reaction, and glanced at Meimei.
+
+“Her Qi is a bit unstable. She must have pushed herself too hard earlier,” Meiling reported. It's nothing too bad, but she should still sit down for a little while.”
+
+I nodded. “Well, first thing is first, you don’t need to call me ‘Your Majesty’. You’ve done so much for us all. Just Jin is fine...”
+
+It took a little coaxing, but eventually I did get her to call me Jin instead of “Your Majesty”, which she was surprisingly bashful about.
+
+She did that quite often, flipping between hilarious, absolute and almost arrogant confidence to blushing and bashful at the drop of a hat.
+
+I was really glad the whole ‘Empress of the Forest’ thing wasn’t going to be a real problem. And while she would have to stay in the forest at least for a little bit… we would be able to bring her home soon enough.
+
+It seemed we managed to nip this crisis in the bud. And while the aftermath wasn’t flawless… it was the best we could hope for, given the circumstances.
+
+I looked on at a blushing Vajra as Meimei measured her; my wife was in full seamstress mode right now, and Vajra would be wearing some clothing that actually fit her pretty soon. Though Meimei was going a little bit extra with the bee motif. The fur ruff in the sketch looked good, but it was a little much, maybe.
+
+I shook my head, and turned to Big D. The rooster was sitting beside me, looking on with similar amusement at the scene.
+
+“Hey.”
+
+“Yes, Master?” he asked, looking up at me.
+
+“Proud of you.”
+
+Those three words may have been simple. But they were enough. I buried my fingers in his feathers, and my boy looked away, clearly blushing at the praise.

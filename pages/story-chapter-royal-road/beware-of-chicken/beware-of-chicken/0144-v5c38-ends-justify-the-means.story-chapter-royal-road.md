@@ -1,0 +1,191 @@
+---
+id: b702a63b-4d71-569b-aacd-bd128529f2eb
+page-type-slug: story-chapter-royal-road
+title: "v5c38: Ends Justify the Means"
+slug: 0144-v5c38-ends-justify-the-means
+partOf: beware-of-chicken
+position: 144
+ownLength: 2320
+unit: words
+ownProgress: 2320
+publishedAt: 2024-08-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1782739/v5c38-ends-justify-the-means"
+royalRoadId: "1782739"
+markedReadAt: "2026-06-29T18:56:13.646Z"
+---
+
+Yulong’s relationship with his mother was…complex. She had loved him, cared for him, and tried her best for him, but his mother had been a broken woman. Some days she was completely non-functional, simply staring at the ground. She muttered about voices, the stars, and a Prince.
+
+On good days she would say he was the Prince, that he would improve the world, and he would bring about a great change. Those were the good days, when she could speak about the things she saw. The shining cities, the happy people, and more wonderful things. She whispered to him of a legacy. Their legacy; that they had been emperors once, and would be again.
+
+On bad days she drank and wept, mumbling apologies to ‘Liling’. He had never found out who exactly the woman was to his mother. She refused to speak of her when she was lucid, and answered no questions when she wasn’t.
+
+Towards the end, the bad days came more than the good.
+
+In the end, his mother had died. Died of a sickness—but not before giving her only son the greatest gift a parent can give to their child.
+
+Power.
+
+A minor cultivation reagent she had acquired from one of her clients, a man who enjoyed his mother's company. For while she had the blemish of freckles on her nose, in makeup she was still beautiful and her sharp wit delightful.
+
+That reagent that ignited his dantian.
+
+She smiled as her child ceased to be mortal. She pressed her forehead to his. The freckles across the bridge of her nose that formed a shape reminiscent of the Big Dipper had disappeared.
+
+And the freckles across the bridge of Yulong’s nose had proliferated. He had felt something around his soul, containing it with spite for some sin he had never committed, break.
+
+His ability to smell Qi had exploded in scope and power—and thus he swore to honour his mother’s final wish. He still carried her funerary tablet to this day.
+
+It was a journey that had already taken him all over the Empire. It had seen him plumbing the depths of the world. It had stoked his rage as he found out more and more about his family and their bloodline.
+
+The Celestial Constellation Soul Art.
+
+It was a rare and many-faceted ability, shifting and warping under the circumstances of one’s birth, corresponding with the stars most dominant in the sky.
+
+His mother had been born under the Star of Foresight—yet her ability to see had been broken and crippled. Instead of a diviner who held the world, she muttered and rocked.
+
+Yulong was born under the Star of Kingship. The Star of the Emperor. He was strong of arm. His words were heeded. Others would find their way under his banner. He was, as his mother had said, a Prince, though uncrowned.
+
+He had learned that once, his kin had been emperors. They had ruled the world and protected it from demonic incursion. Theirs had been the bloodline that had erected most of the hidden domains in which humanity had taken refuge in the first place.
+
+And how was his family repaid? They had been hunted down like animals. Prime targets for both the demons and the jealous who took shelter under their aegis.
+
+Their bloodline was now nearly extinct. As far as Yulong knew, he was the last member of it. He had despaired, then. And then he grew angry. He had glared in the direction of the Crimson Phoenix throne, at the upstart, at the usurper who sat there.
+
+And so… Yulong started working against him. In secret. In the dark places. In the places far from the Emperor, where his reach was weak, and the resentment of the people to the distant flame was strong.
+
+It had been slow. It had seemed futile.
+
+And then, by chance, he met his Master. His Master, who was mighty. His Master, who had already been working toward the same goal. His Master, who taught Yulong the truth of this world.
+
+His Master had told Yulong of his great plan—and gave Yulong the chance to truly honour his Ancestors’ legacy.
+
+===================================
+
+Yulong studied the woman. There were differences. The shape of the eyes and the sharpness of her face was different, but the parallel was unmistakable. The eyes of Huian’s scouts were good, but the image of the green-haired woman was always slightly blurry. This? This was blatant.
+
+To see a woman that looked so similar to Yulong’s own mother appear before him threw him off balance. To hear the fox say those honeyed words?
+
+Yulong paused. He flinched.
+
+He chastised himself for his own arrogance, even as he immediately tensed for an attack. Arrogance was an insidious killer, something his Master had pounded into Yulong’s head.
+
+Yet the fox failed to capitalize.
+
+The fox’s illusion did not move, neither did the smell of its Qi.
+
+Yulong had to admit that the fox was good at what it did. Logic said the beast had no intentions of parley and was merely biding its time. Yet the words made him think. Made him hope that he was not the last, that he could have one of his kin stand beside him instead of fate turning them against each other.
+
+“Oh? That's quite the offer. With whom does Lanxing Yulong speak?” he asked, making sure to sound intrigued. He continued the weaving of his technique, while dropping his arms and addressing the illusion.
+
+Yet the die had already been cast. He had already told Huian and Chixia to capture this woman. Her last memories would be of the Shrouded Mountain Sect attacking their home before they took her.
+
+And her first set of new memories would be of her salvation from them by Yulong. Chixia and Huian’s techniques would muddy the waters. They would falsify the smells she remembered. She would remember men flying high in the sky before the assault instead of birds.
+
+It was regrettable to lie to kin, but she would likely be far away from the fighting; those born in the Azure Hills were always weak. She would be protected and cherished, a little sister he had never known.
+
+The other one, the one in his base, was more problematic… but once she learned of the truth of the world, she would join him. The artificial demons would wear them out. He could even promise her that some of the others could live, after his Master dealt with his peer.
+
+“Su Nezan, last trueborn of the Misty Fang. Bane of the Shrouded Mountain Sect, consort of Zang Wen,” the fox spoke, the voice now guttural and masculine. Another figure formed beside the woman, this one of a man with sharp, vulpine features. “A pleasure to make the Young Master’s acquaintance.”
+
+Yulong frowned at the introduction. As far as he knew, the fox was telling the truth—which made it all the odder that he was aiding the Shrouded Mountain sect.
+
+“Will they stand down if you order them to? I shall give you my word that any not from the Shrouded Mountain Sect shall be unharmed—and I shall swear it in binding oath,” Yulong offered as invisible symbols placed themselves around the tunnels.
+
+“Generous of you, Young Master,” the fox replied, sounding genuinely surprised. The mist was thickening slowly. If Yulong had truly been foolish enough to drop his guard he might have been surprised by the subtlety of the buildup. “I was not expecting such…  magnanimity from a demonic cultivator. Especially with those beasts you’re making.”
+
+Yulong let out a breath and internally smiled. The fox was fishing… and it had unknowingly given Yulong an opening to unbalance it.
+
+And better yet, to unbalance it with the truth.
+
+“The artificial demons are unfortunate necessities—and when this is all over, such things will be useless. At least the ones who do not develop personalities. Those will be integrated back into the population,” Yulong said conversationally.
+
+He smelt the Fox’s Qi hitch.
+
+“Oh?” the fox asked as the mist slowed its gathering.
+
+“Indeed. Though permit me a question. You are old, are you not? At least a couple of hundred years?”
+
+“I am older than that. I was born at the tail end of the Age of Heroes—though time moved a bit differently in our hastily-erected protections after we were driven from the Fang… and I have been dozing for quite some time,” the fox declared.
+
+Yulong let a smile come to his lips. “Tell me, you have noticed it, haven’t you? How the world is getting weaker?”
+
+The Fox’s Qi once again hitched. The gathering mist paused entirely.
+
+“...That is happening, yes,” the fox replied, cautiously.
+
+“It is the work of the demons. They have ripped bleeding wounds into this world—and with their raids, they bleed us dry,” Yulong declared. “The Crimson Phoenix Empire is a rotting corpse. A slothful, bloated thing, content to sit and fester like an open wound. They wait for each demonic incursion, only acting when things become dire. They ignore the degradation of the world as year by year the Qi is drained out of it, fewer cultivators igniting and even less making it into the Imperial Realm. In the Age of Heroes, there were vast fields of resources. Those fields are now barren. Each year, it lessens just a little bit more.”
+
+The Fox listened, and listened intently. The Fox didn’t notice the black bands connecting the freckles on his nose together.
+
+“The demons don’t have to do anything but wait. Wait, and occasionally attack, while the world gets weaker and weaker. Oh, we likely have thousands of more years before the situation becomes truly dire… but when did waiting until the last minute ever really work?”
+
+“Your point?”
+
+“We are going to change that. The world is weakening. It is running out of resources… but we have another place. A place where we can consume and refine to our hearts’ delight.”
+
+They would overthrow the Empire. They would bring Yulong’s family back to the fore.
+
+“The Demon Realm.”
+
+“The Demon Realm?!” the Fox asked, incredulous. More invisible sigils formed around his stunned foe
+
+And then they would do to the demons what the demons were attempting to do to them.
+
+“We’re going to conquer it. Never again will the Great Enemy be a threat. Never again will the beasts dirty our world. With the formations and the resources of the Phoenix Throne, we are going to drain the whole damn realm. The demons will be our cattle, used to fuel great formations that would pump the stolen bounty of our world—of every world they have stolen from—back to its rightful place.”
+
+They would use the demons’ own techniques and abilities against them.
+
+The demons thought of their world as fuel. Was it not right to think of them the same way?
+
+The Fox was silent for a moment. He could feel the turmoil in its Qi.
+
+Yulong completed his technique, yet he held off for a moment. His words had reached his foe, and now to see if they took root.
+
+“The ends justify the means, hm?” the Fox asked.
+
+“They do,” Yulong replied. For the future of the world… a few sacrifices had to be made.
+
+“Perhaps I would have said yes not too long ago, but as it is… your plan is unacceptable, and quite frankly insane,” the Fox deadpanned.
+
+“A pity,” Yulong said.
+
+[Imperial Heavenly Constellation 26: Vermillion Bird of the South’s Extended Net]
+
+The stars flared to life. The mist burned away as the fox was surrounded in the stellar fire. They burned, catching the concentration of Qi—
+
+Yulong jerked his head back as the mist coalesced and a massive fox formed out of it, aiming to take his head in its massive mouth. The fox spun and its massive paw slashed, scoring a thin line against his chest.
+
+Nezan smiled, a bloodthirsty thing.
+
+“Wha—?!”
+
+“Boy, I just said I knew a woman with the same technique as you. Did you really think I hadn’t learned some tricks to mislead that nose?” the Fox asked.  Its grin was mocking, and Yulong felt rage grow in his chest—before he forcefully calmed himself.
+
+The scent was weaker now. The fox had expended a great deal of its Qi in that charade, perhaps even part of its core. Enough that Yulong saw the fatigue as it taunted him. With the mist gone, Yulong received a report. He saw a brief flash of the artificial demons pressing into the prison. He saw Beidou and Zhigong locked in combat with a red and silver blur.
+
+“I acknowledge your skill,” Yulong ground out. “I’ll be sure to keep you alive—after all, that woman will be my guest soon. The northern end of the Azure Hills. A farm… that's being attacked by my comrades right now.”
+
+The fox’s eyes sharpened and its pupils dilated. The fox attacked, fury guiding its movements.
+
+Yulong rose to meet it.
+
+There was a crunch and sharp teeth flew after three exchanges, the Fox staggering back and blood dripping from his maw.
+
+There was a reason tricksters used tricks.
+
+Out in the open, they could only fall.
+
+===================================
+
+Far, far away, Chixia smiled as she received a report that her forces were close to their quarry. Finally, her time in this Heavens-forsaken province would soon be over.
+
+She almost relaxed as the artificial demons’ relentless advance made the ground rumble, secure in her victory.
+
+She did not notice as it rumbled in time with something else.
+
+None did. The Earth is a quiet thing to men. They rarely notice its movements… until it announces itself with a great upheaval.
+
+=========================
+
+Chun Ke’s stride was silent. His titanic bulk left no trace of his passing. The rocks did not shatter. The trees did not shake.The artificial demons did not even notice until he was directly upon them.

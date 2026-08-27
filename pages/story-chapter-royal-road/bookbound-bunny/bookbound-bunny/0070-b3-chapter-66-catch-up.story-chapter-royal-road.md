@@ -1,0 +1,165 @@
+---
+id: 9312a08e-0889-517b-a44c-99fc157daf0d
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 66 - Catch Up"
+slug: 0070-b3-chapter-66-catch-up
+partOf: bookbound-bunny
+position: 70
+ownLength: 2168
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3683674/b3-chapter-66-catch-up"
+royalRoadId: "3683674"
+---
+
+The next morning, Lily reunited with her two missing friends, and the mystery of "where's Hana" was finally resolved. Rather than wandering around the festival, they had instead spent a lot of the time inside the building, before they all went to Kaeling for some quality family time together away from the hustle and bustle.
+
+Hana congratulated the two on their success in the alchemy competition and apologized for not being able to attend in person. Neither of them held it against her, though, as they couldn't imagine watching others brew potions was that enjoyable—they hadn't stuck around to watch their seniors brew for that very reason!
+
+"My dad thinks you're totally adorable. He didn't believe me when I told him you were actually a mage," Lotte revealed when Lily asked how the time with her dad was.
+
+"I think my parents would have a similar reaction. I could imagine my mom offering to adopt you," Hana said, with a somewhat apologetic look.
+
+"I really don't understand that," Lotte commented. "Why do nobles adopt people into their families?"
+
+"Ignoring what we both know Lily is capable of, it's usually done for the prestige," Hana started explaining. "I know a lot of people think it's only done because they hope to spread a rare bloodline throughout your family, but that usually only happens if you're married into said family. For normal adoptions into a family, they are hoping to raise their name through your potential deeds. You could sort of think of it as an investment."
+
+"Is family prestige really worth all that?" Lily asked.
+
+"It depends… The royals are more likely to seek you out for a duty if they know you are powerful, but it could also be for the benefit of their subjects. For example, a family might adopt you in hopes that you would spread your glyphs across their fiefdom. Imagine crops empowered by glyphs, and more bountiful harvests would also mean more bargaining power with the royals."
+
+"Sounds messy," Lotte quipped.
+
+"It's extremely messy," Hana agreed. "There's a reason I want to become an adventurer instead. I'm lucky that my family is a bit more open to that, as while a famous adventurer does add to the prestige, some nobles look down upon it."
+
+Lily and Lotte threw out a few more questions, as it was stuff neither of them had really ever heard of. Lily had thought it worthwhile to gather some knowledge on the matter, as it might become important to both her and Rose further down the line.
+
+What really shocked her was when she found out that being adopted into a family was not something only for orphans. Nobles sometimes adopted children from commoners, effectively offering to buy a child from their parents in some extreme cases. In more normal cases, a family member from a lower class, often called a branch member, would sometimes be adopted into the main family.
+
+Lotte, in particular, was extremely upset to learn this, as she couldn't imagine leaving her family behind for a better future. Yes, her life certainly had its ups and downs, but not enough to make her ever consider leaving them for so-called prestige.
+
+All of this happened while the group was snacking on various foods. They had followed their previous advice and skipped breakfast to enjoy the festivities. They had a bit of time to kill before the next event, which all three were competing in.
+
+"I can't believe you're doing the dungeon and the duels," Lily sighed.
+
+"Arthur is, too, assuming he actually shows up," Hana replied.
+
+"Speak of the devil, here he comes," Lotte chuckled and pointed to the approaching figure.
+
+"I'm not late, am I?" Arthur asked, seeing the three already here.
+
+"No, we were early," Lily answered, pointing to the food still in their hands.
+
+Arthur sighed with relief. "Probably a good idea. We want to get the dungeon over with as quick as possible to rest before the duels."
+
+"Repeating what Lily said, I can't believe you're doing both," Lotte chuckled.
+
+"Why not try to maximize our chances?" Hana replied, to which Arthur nodded in complete agreement. "Besides, the dungeon competition is a time trial, so it should be over quickly. If worse comes to worst, I'll just drink a potion before the duels begin."
+
+"I honestly forgot that was an option," Lotte admitted.
+
+"What a tragedy, our alchemist has forgotten that potions exist," Arthur joked, earning a giggle from Hana.
+
+Lily almost blurted out that that was "very wasteful," until she realized that Mana potions were meant for recovery, and she was the weird one using them to refine her Mana Core instead. She hid the remark on the tip of her tongue with a somewhat awkward giggle of her own. Lotte could only sigh and shake her head, throwing out a few sarcastic chuckles of her own.
+
+The group continued to talk while they waited, mostly to inform Arthur that their parents had arrived and to ask him if his had as well. He shook his head, claiming they were too busy to come this far. Lily offered her condolences, saying she was in the same situation with Margit and Camilla, the closest thing she had to family.
+
+"With the stories you've told me about Camilla, I'm surprised she isn't here trying to make some coin," Lotte replied.
+
+"Good point… Maybe I should tell her that for the interschool competition?"
+
+"Wouldn't she get in trouble for rooting for someone from a different school?" Hana asked.
+
+Lily blinked in surprise, having overlooked that small detail. "Also a good point… I'm not actually sure… Are they strict about that sort of thing?"
+
+"My mom had to basically sign a contract to come here. She went to Stremweth, so you can imagine Headmaster Fabrelis was not happy about her wanting to visit. I can only imagine that went double for Clarissa's parents."
+
+"I think that just killed any chance of Camilla surprising me today…" Lily sighed.
+
+"Sorry, I should have mentioned it," Hana regretfully apologized.
+
+"Even if I had known, she hates contracts," Lily admitted.
+
+In her head, she was already imagining Camilla ranting and raving that Regarth was after her money, or somehow trying to scam her. As for Margit, while she would have loved for her to have come, she knew full well it just wasn't feasible. Lily wasn't the only child in her care, and it was the very reason Oz had been the one to escort her here.
+
+Maybe if both Rose and I ask her to come, she can ask for some time off to visit for the interschool competition? If push comes to shove, maybe we could even ask Lady Desthu to pull some strings for us…
+
+While Lily knew Rose had mixed opinions of the "fake dragon," she was still an influential figure in Ceedale, not to mention absolutely loaded with money. If Lily extended an invitation with the caveat to bring Margit along, she felt like it had a very high chance of happening, assuming that the noble woman still wanted to keep a connection to Rose.
+
+I know she likes burning things, but let's hope she hasn't burnt that bridge entirely.
+
+The four continued chatting, with Arthur bragging about his business carting people back and forth to Kaeling. In fact, he claimed it was so successful that he almost regretted being double-booked today for the competitions.
+
+"I tried getting Thomas to take over the morning shift at least, but he's been busy with his tutoring thing. Who knew studying books could earn so much money?"
+
+Hana frowned. "He's still tutoring Clarissa?"
+
+"Yes? I would be too if I were slightly less awesome and more book smart," Arthur admitted.
+
+Lily and Lotte giggled while Hana still seemed a little peeved, unwilling to let it go until the conversation finally shifted to other topics. Their curiosity about how this competition would be handled was one thing, as all they knew was that the times would be recorded to serve as a leaderboard.
+
+Thankfully, they would not have to wait long for an explanation, as soon as they saw Rose arriving, dragging along someone else who looked very reluctant to be here. It took Lily a moment to recognize who it was, and soon she realized it was Rebecca, the one who had helped them with their Familiars and Lily with her orientation. Thanks to her ears, Lily managed to overhear most of their conversation.
+
+"Rose… I want to go back to bed, it's too early," Rebecca groaned.
+
+"You can sleep once we're inside the dungeon. I'll handle everything," Rose said confidently.
+
+"But the dungeon is cold, unlike my warm bed…" Rebecca continued to protest.
+
+Unfortunately, her complaints fell on deaf ears, as Rose basically lifted her up and carried her the last few steps. The rest of Lily's group also noticed Rebecca, meaning she had probably also assisted Hana and Lotte when they first arrived.
+
+Aside from the fact that she was sleeping on her desk when they first arrived, Rebecca was a senior student they had kind of respected, so seeing her carried like a sack of potatoes was quite the shock for the rest of the group.
+
+Arthur, in particular, looked quite shocked. "Damn, I see why they say she's the strongest of her year. I've got a lot of catching up to do…"
+
+"Good luck with that," Lotte snorted.
+
+"I have to agree with Lotte, I think it's best to avoid confronting the dragon entirely," Hana remarked.
+
+Lily could only shake her head, wondering why Rose had forced Rebecca into this situation. The girl, when she saw her four juniors looking at her in such a pathetic state, seemed to finally realize what was going on and perked up, flashing an angry glare at Rose, who seemed to ignore it.
+
+"Hey all, glad to see you ready for the dungeon. This is Rebecca, in case you haven't met her," Rose said.
+
+"We met during orientation day…" Rebecca mumbled.
+
+"Nice to see you again," Lily replied, her friends also throwing out their own greetings.
+
+"I can't believe you did this to me in front of my cute juniors…" Rebecca sniffled.
+
+"I'm your junior, too; you should be helping me out," Rose retorted.
+
+"You're not a cute junior," Rebecca immediately rejected. "I take back ever thinking you were cute when we first met, you're a dungeon-obsessed monster."
+
+Rose simply smiled and shrugged, apparently quite happy to have earned that label. Although Rebecca did raise a good point, and Lily evidently wasn't the only one who caught on.
+
+"Rebecca… Aren't you in your third year? Are you allowed to team up with Rose?" Hana asked.
+
+Rebecca suddenly began to pale, swallowing nervously while looking extremely awkward and embarrassed. Unfortunately for her, she was in the presence of Rose, who had almost zero tact.
+
+"Rebecca is in third year for every subject except the dungeon, which she failed and was held back a year," Rose answered.
+
+"Don't just say it!" Rebecca cried.
+
+"You… Failed the dungeon?" Arthur repeated with evident confusion.
+
+"I didn't fail! I didn't!" Rebecca tried to deny it with every fiber of her being. "I was just held back slightly for remediation. If I catch up, I'll be back with the rest of my peers."
+
+Rose chuckled and shook her head. "Sorry, Rebs. I think I've got a better chance of skipping a grade."
+
+"No… Don't say that," Rebecca shuddered.
+
+For Lily and her companions, seeing the third-year girl who had helped them basically crumbling before their eyes was startling. Lily, in particular, had thought the girl was heavily involved in Familiar research, not to mention that she was important enough to help with orientation, yet she had actually failed.
+
+"Are the dungeon exams that hard? Our camping trip seemed pretty easy," Arthur commented.
+
+"It was basically two weeks off from school," Lotte agreed.
+
+Poor Rebecca looked worse and worse the more anyone said. Maybe, eventually, feeling guilty about destroying her image and reputation, Rose finally spoke up to defend her.
+
+"Rebs didn't meet the minimum floor requirement, so she was technically held back. She was too busy with her other classes, helping the school, and other stuff. That's why they let her continue on to the third year despite that, because it's kind of their fault too."
+
+Looks of understanding and sympathy flashed across the rest of the group. The dungeon took up a lot of time, and if Rebecca was spread too thin, it was only natural that her progress would've suffered.
+
+[Maybe use this as a warning for yourself. I know you're currently ahead, but you don't want to end up like this, too.]
+
+Lily hadn't expected Arakil to chime in, but having grown more accustomed to his random interjections, she managed to hide her reaction. She also silently agreed and felt a bit better about eventually letting Lotte take the torch in alchemy while she focused on glyphs, inscriptions, and eventually enchanting.

@@ -1,0 +1,253 @@
+---
+id: 7322deb6-fdee-5d2c-9ff5-6554fe16db5c
+page-type-slug: story-chapter-royal-road
+title: "v7 Epilogue: And The Paths Leading Back Home"
+slug: 0341-v7-epilogue-and-the-paths-leading-back-home
+partOf: beware-of-chicken
+position: 341
+ownLength: 3122
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3763552/v7-epilogue-and-the-paths-leading-back-home"
+royalRoadId: "3763552"
+---
+
+Ming Jie, Messenger of the Lord Magistrate of Verdant Hill, put one foot in front of the other. He was weary, but pleased he had completed his duty—and that the road to Verdant Hill was beneath him. In the distance, he could just make out the walls. He had made fantastic time back north, the worst of the weather far behind him. He had made such good time he had even surprised himself. Some days he must have managed a hundred li!
+
+And now the journey was at its end. He felt his heart swell over the fact that his task was nearly completed… even if he would not be able to deliver his message directly to his lord.
+
+He had been found by a fellow messenger in a stroke of great luck, who were also participating in the grand mail experiment. Some organisation called the Plum Blossoms or another, who were conducting a deep review of the more populated Grass Sea.
+
+The man had informed him of his Lord’s departure from Verdant Hill to handle urgent business in Pale Moon Lake City; apparently his message from the Young Master, now Acting Lord Magistrate’s, predicament had advanced some timetables.
+
+Still, he was not particularly worried. Pale Moon Lake was a nest of vipers, to be sure, but his Lord treated with cultivators on a regular basis. The Patriarch of Verdant Hill was sure to walk all over those fat fools.
+
+The Lord Magistrate was superior to them in all respects—and Ming Jie had proof. A puffing, hissing contraption in a nearby river, attached to a long animal hide tube. It looked a bit like a pump—and indeed, it was drawing water from the river and into a field. A man was just standing beside it, chatting with a friend, instead of doing the arduous task of transporting water by hand.
+
+Another person had the most complex reaper Ming Jie had ever seen disassembled in front of him, and was showing several others how to repair it and how it worked.
+
+Both were powerful tools that the Lord Magistrate had subsidized, so that his people could afford and use these wonders. They were far beyond anything else, even the best of Pale Moon Lake City.
+
+So it was with  pep in his step, instead of dragging feet, that he entered the town of his birth. The guards recognised him immediately, slapping Ming Jie on the back and congratulating him for completing his journey.
+
+And then he went to deliver his report to the palace. He was greeted by one of the servants, who drew him a bath. Refreshed and ready, he entered into the main office, where he was awaited.
+
+First Archivist Bao and the cultivator… what was his name again? Ah, Lu Ri were awaiting him, as were two more whom he did not recognise. One was a severe, cold, and stark beauty, while the other, just as beautiful, had wild and untamed blonde hair that almost looked like fur.
+
+“Ming Jie, welcome home,“ the First Archivist said with a warm smile.
+
+“It is a pleasure to be back,” he replied. They made some small pleasantries, in which he was introduced to Lady Su Ge and Yuanlin, while Bao got out a strongbox for them to put the Young Master’s reply in, so only the Lord Magistrate would see it… and then they got down to business.
+
+“Any and all notes are appreciated, of course,” Master Lu Ri said, his voice eager.
+
+“Ah, I may have gone a bit overboard,” Ming Jie said, opening up his full delivery satchel and taking out the many scrolls within.
+
+Ming Jie had kept meticulous notes. How long it took his boots to dry, the wear patterns on the strap of his pouch, the weight distribution, how fast he got fatigued, the state of the roads, rough travel times, places where a horse post could go…
+
+The cultivator’s eyes widened as Ming Jie kept placing out scroll after scroll. He grabbed the first and started reading, and slowly, a smile crossed his face.
+
+“Ming Jie, you are a scholar,” he said emphatically.
+
+“The Lord Magistrate is a scholar; I’m merely a messenger. You requested this be delivered, and so it was,” he said with some small amount of pride.
+
+“Well then, I suppose the messenger needs his new uniform,” Master Lu Ri said while gesturing to a nearby table. There, folded with exacting precision, was another set of clothes.
+
+It was a very smart-looking uniform—a  jacket, an odd, brimmed cap, long pants, and a truly fantastic looking pair of boots—the kind the Nezin tribe wore, and who always refused to sell the wonderful things to others.
+
+It looked really, really well made, and he could spot some of the things he had mentioned when he first arrived in Pale Moon Lake City already incorporated—the slightly thicker strap, the clearly treated jacket… it looked both good and functional. Official.
+
+He went to go change into it.
+
+The jacket was light weight, waterproof, and padded in all the right locations. The strap was soft, and double reinforced. The cap was comfortable, and the brim would keep the sun out of his eyes.
+
+And the shoes. Oh, heavens, the shoes. Nezin-made for sure. The aches in his feet seemed to just melt away as he stood in them.
+
+And then something caught his eye on the bag, an inscription along the front.
+
+‘Not rain, nor snow, nor sleet, nor hail, nor rampaging Spirit Beasts shall prevent your words from being delivered.’
+
+It was what he had said when he first swore to deliver the message all those months ago. He blushed at the incorporation.
+
+Then, he reentered the room and stood at attention.
+
+Once more Master Lu Ri smiled. “Su Ge, you have outdone yourself,” the man said, and the woman preened.
+
+===
+
+Huibai Yue, known to all as the elegant Lady of the Lake, yawned mightily—elegantly. Doing her job of fighting back the Qi void was hard work, but it was worth it! It was slow, it was steady… but she could feel the darkness being pushed back little by little.
+
+Lady Tianlan would be so proud of her! Sometimes a little tendril of hers would brush against Yue, full of warmth and encouragement. Ah, she served such an awesome lady!
+
+She had an awesome lady, and a truly wonderful court! It was full of fish and otters and seals and paddle-snakes and tiny, just-forming wind spirits that were more like eager dogs than people, gusting around at her command. Playing with them was rather fun, especially when a storm rolled down from the mountains. They got so excitable!
+
+But sometimes everyone was a bit much. Swimming around and making waves and not listening to her at all because… well, because they were fish and otters and paddle-snakes. Not a single thought in any of their heads besides “lake good, lady good!”
+
+Which of course it was and of course she was! She was the brilliant Lady of the Lake! Mother of storms, scolder of fools!
+
+But it got annoying and so she… retired to quieter chambers. She didn’t run! She just withdrew, to a special room that the others couldn’t come into unless invited. She retired to the Grand Court of Lady Tianlan!
+
+She imagined horns going off whenever she thought it. Grand horns, as she entered to much fanfare and applause!
+
+Well, when it was fixed more, at any rate.
+
+The place was kind of dingy, if she was honest. It was dark and a bit damp, and the pillars were half shot through with gold cracks or shattered completely.
+
+The two seats within it looked nice, at least. Hers was a throne, pearlescent like the river clams, and made of stone like the bottom of the lake.
+
+The other one, that she had never seen full, but had a presence about it, was a series of ice blocks that looked rather like a fortress.
+
+Her Senior, the General that Commands the Winter! She couldn’t wait to meet him.
+
+But for the moment, she rested. Peace, quiet, and—
+
+"Is this only for those who are without family?" A man’s voice whispered.
+
+"No. All who bear our banner are our brothers and sisters. All who wish to rest here are welcome to be at peace,” A woman replied, her words thrumming through Huibai Yue’s soul. Demon Slaying Orchid, Azure Hero, Grand Marshal, whose deeds were  etching themselves into the fabric of the province’s ‘history’.
+
+Something sparked, approving, at the words. A Cycle completed. In Victory, Defeat. In Defeat, Victory.
+
+There was a sudden change. The air suddenly stopped being so damp. Some of the pillars suddenly grew, some of the golden cracks closed— and then two new chairs were suddenly there.
+
+Well, it was really one chair. The grand ornate seats were fused together at the arm rest, while the backs formed two jagged peaks that faced each other.
+
+“Eh? What is this place? It's all dark and dingy,” a deadpan female voice declared.
+
+“HAHAHAHAHAHAHA! It's dingy as hell, ain’t it?” a brash male voice fired back.
+
+Two beings formed on the throne. One was a male, with white hair and black bangs, while the other was a woman, with black hair and white bangs.
+
+Both were idealised forms of cultivators: the man’s robe was open to exposed his toned chest, his long hair held in a ponytail, while the lady was pale, slender and slim.
+
+The man had a massive grin on his face, while the woman’s resting face seemed almost bored.
+
+Then, the two saw her, and their eyes sparked with fascination.
+
+“Hey, hey hey, you’re Pale Moon, aint’cha? Don’t you shout a lot?” the man asked, his voice earnest.
+
+“She certainly looks full of hot air,” the woman said, eyeing Huibai Yue’s curly, cloudlike locks, which had drifted upwards like she was underwater in her shock.
+
+Both of them slapped their knees at the same time, and then started laughing.
+
+Huibai Yue felt a vein bulge in her forehead. She felt her body swell like a storm cloud, towering over the two little brats laughing at her.
+
+A deluge of water issued forth, nearly washing them out of their chairs while they spluttered and coughed.
+
+“And you two look like you're just a bit wet behind the ears, insulting your Senior like that,” Yue replied.
+
+She expected an outburst of anger, but the two simply laughed again.
+
+“She got us there, sister!” the man chuckled.
+
+“We stand defeated, brother!” the woman lamented.
+
+“She’s got fire and zest. A real storm of a gal!” the man finished, and they both slapped their knees and laughed again, both of them finding the joke entirely too funny.
+
+When they finished, the woman wiped a tear from her eye and asked: “I suppose you’re our big sister, then?”
+
+“I am indeed! I am the peerless, the elegant, the second most senior member of our lady’s court, Huibai Yue! Who are you two miscreants?” Yue declared, letting her scales shimmer in the light.
+
+Both of the fools grinned and rose to their feet as a gong sounded from nowhere, and then music started playing from their throne.
+
+“We are the masters of martial arts and the sovereigns of ceremonies!” the man declared, leaping up onto his throne and doing a handstand.
+
+“We are the heights of victory and the depths of defeat!” the woman exclaimed, doing several acrobatic swirls and flips.
+
+“We are the crucible that forges tomorrows!”
+
+“And the grandest stage in the land!”
+
+“Cao You!” the man declared, completing his dance and striking a pose with one hand thrust out.
+
+“Xiang Zuo!” The woman followed, crouching down and sticking her own hand out, posing alongside her brother. A wind gusted from nowhere in opposite directions, so their hair landed just so… and with their alternating hair colours, they looked like a taijitu. The music reached a triumphant climax.
+
+“And we’re the Dueling Peaks!”
+
+A final gong sounded out.
+
+They kept on posing.
+
+Huibai Yue felt a headache start to form.
+
+===
+
+Vajra leaned back on a delightful cushion. It was rather formless and ugly, but whatever the Blaze Bears had stuffed it with was divine. She observed the choice in front of her with all the consideration she had. It was a choice that would have consequences for years to come, and she had to make the correct decision.
+
+But she was Vajra, and so the path forward came swiftly.
+
+“Green is the superior choice,” she decided, pointing at the colour for the curtains to her temporary abode.
+
+Though she would be here only a short time, it was no excuse to not have a fine place to receive guests while she was working.
+
+“It is a wonderful colour, Lady Vajra,” one of her new servants said with a smile. Lihua was her name, wife of the Blaze Bear’s little brother and newly minted Sect Master Baolin.
+
+‘Green like forest. Very good,’ the Old Bear Huoha nodded, similarly pleased with Vajra’s choice.
+
+‘The green does work well with the walls,’ Young Master Spooks voiced his opinion as well.
+
+“Naturally!” she declared, pleased to know her servants were competent. Satisfied, she relaxed for a moment more before one of her daughters, who had been keeping time, prodded at her. Vajra rose in her usual manner, that is to say, with grace, and walked out the front door of her temporary home and into the beautiful clearing it had been built into.
+
+The start of the Blazing Forest Sect was well underway around her, bear dens mixed with some human dwellings. And before her, in the heart of the small compound, was an important part of improving the forest.
+
+“Children! It is time for lessons!” she called out. The human children and Blaze Bear cubs who had been playing together perked up.
+
+“Yes, Lady Vajra!” they chorused, and Vajra smiled with satisfaction. The children raced towards the door… as did some of the adults who were in the village. Some of them were illiterate, which was unacceptable, and the Blaze Bears who wanted to learn were quite interested in all the characters.
+
+Vajra apparently was very good at teaching.
+
+She was just copying the Emperor… and relying on the knowledge of her daughters who had sat in on the lessons in question. She had known how good of a teacher he was, of course, but putting his lessons and how he taught into practise revealed just how good he was at it. Each person present had one of her daughters on hand, to alert Vajra if they needed more help. The men and women didn’t want to be seen struggling, the fools, and would rather Vajra approach them after class in private. Which was annoying.
+
+She taught her lessons, delivered orders to her daughters and those out doing field work, patrolled the outskirts of the forest… and reviewed again the progress made in expanding the line of trees towards home.
+
+Everything was going as expected. She saw everything, knew everything—which is why she was caught off guard when she let the students out for the day and saw a boar the size of a Blaze Bear sitting in the middle of the clearing and chatting with several bears. There was a titanic pack by his side, clearly full of more food and drink.
+
+“Duke Chun Ke?!” she yelped while glaring at her daughters, who looked just a bit guilty. Treason! They had hid this from her, they dared?!
+
+The pleas of her daughters softened the blow. Duke Chun Ke had only wanted to pleasantly surprise her. They swore if it was any other, they would have told her, but it was the Duke.
+
+Which… well, it was the Duke. Fine, but never again!
+
+“Friend Vajra,” the Duke greeted her warmly, while Steward Pi Pa slipped off his great bulk and approached Vajra… who wasn’t expecting to be swept up in a hug,
+
+“Are you alright, darling? Are you eating well? Is there anything you want or need from home, I’ll get it from you!” Pi Pa asked, her voice so utterly earnest.
+
+“Ah, I would have to think about it?” Vajra said, still a bit off guard.
+
+“Take your time deciding,” Pi Pa said, before her eyes found the children. They had gone back to their games and her smile warmed. “Now, shall we have some tea? I would like to know this wonderful lady before me better.”
+
+They did have tea together, and Steward Pi Pa delivered messages from the others: Young Master Bowu said he would fast-track any requests she had, and Artisan Miantiao asked what he could do to aid her.
+
+Everyone wanted to help her. It… made her feel a bit weird. She was perfectly self-sufficient… and yet… it was rather nice, to have her hive reach out like this to help her.
+
+It was so much better than being alone.
+
+===
+
+A woman stared up at the massive archway that denoted the entrance to the entrance to the Azure Hills.
+
+It was the second time in her life she had seen it; the first time was when she had left the Azure Hills, walking away from her husband and daughter to continue on the path of cultivation.
+
+Her husband and daughter, who had been too weak to survive the outside world.
+
+Or so she had thought.
+
+“Oh, yeah, she was in the Spiritual Realm. Freshly ascended, but she was there!” a cheery voice echoed in her mind.
+
+The memory of that voice sent a stab into her guts.
+
+Spiritual Realm. In the Azure Hills.
+
+She herself was in the Spiritual Realm.
+
+Old regrets settled in her guts. Old fears. She nearly stepped back from the gate, nearly turned around and walked away, fear and guilt curdling into something most unbecoming from a cultivator.
+
+But she steeled herself. Her fingers brushed against the message in her pocket, which she had read every night since she had first gotten it… and every night since she had finally worked up the courage to ask for leave so she could visit.
+
+“Father and I would like to see you again, if ever you decide to visit.”
+
+She sucked in a breath, and forced one foot in front of the other.
+
+Stone Gate loomed overhead, and once she passed the threshold, she felt it. The air, latching onto her Qi and trying to drag it away. The hungering ravenous void that made her skin tingle and crawl.
+
+And yet, for some reason… it didn’t feel quite as bad today.
+
+Yangtze Liusei of Soaring Heaven’s Isle, wife of Cai Xi Kong and mother of Cai Xiulan, entered the Azure Hills.

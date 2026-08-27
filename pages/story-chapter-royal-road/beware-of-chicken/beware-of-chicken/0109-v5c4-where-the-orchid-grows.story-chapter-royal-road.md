@@ -1,0 +1,193 @@
+---
+id: 8569b2a9-1b0c-567c-9e68-f699cc230bc0
+page-type-slug: story-chapter-royal-road
+title: "v5c4: Where the Orchid Grows"
+slug: 0109-v5c4-where-the-orchid-grows
+partOf: beware-of-chicken
+position: 109
+ownLength: 2987
+unit: words
+ownProgress: 2987
+publishedAt: 2024-05-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1645979/v5c4-where-the-orchid-grows"
+royalRoadId: "1645979"
+markedReadAt: "2026-06-29T18:55:14.275Z"
+---
+
+Xiulan couldn’t help the smile that overtook her face as Tigu went from slumped in defeat to grappling the laughing Yin. Tigu picked the silver-haired woman up and planted her head first into a snowbank, huffing with mock anger.
+
+“...Zhuye, Red Leaf, is a fine name, suitable for my little brother,” Tigu declared. “It approaches Kai in strength—and is much better than Li. Really now, Ri Zu can come to me to name her children. Her naming sense is—gah!’
+
+With a flare of fire Yin melted the snowbank, still laughing, and tackled Tigu. They began a slow, over-exaggerated, and playful fight. They were even purposely bumping into the others to drag them in, and at their level of strength even Bowu could hold his own.
+
+Xiulan watched it all, feeling the weight on her shoulders lessen with each peal of laughter. She had been under an immense amount of pressure lately. Leading the entire Sect coalition of the Azure Hills as the Grand Marshal was a titanic task at the best of times. Somehow, through skill and luck, she had managed to balance on that piece of twine over a bottomless chasm, where her fall would mean the end of her dream. Soothing wounded pride, stopping fights, and bringing Sectmasters around to initiatives—like the increased patrolling between mortal settlements—they didn’t see the point in.
+
+She understood completely now why Jin didn’t want to lead others. The months had ground her down, despite the flawless image she presented to those she met with. She had been the vital, unstoppable Grand Marshal, who looked pristine even after mediating a conflict between the Azure Horizon and the White Water Sects for sixteen hours straight. Or running two thousand Li in less than a week visiting every sect in her path and drinking entire bottles of Spiritual wine that had been brought out to toast her arrival—and then having to spar with most of the sect when she was visiting with Elders, to prove her talent and skill.
+
+There had been entire weeks where Xiulan slept for less than two hours in total—and if she had not been a cultivator, she would have died from the relentless pace that the Azure Hills had required. Of course, her companions had kept similar schedules a lot of the time, assisting her the best they were able—but there was only so much they could do when nearly each and every Sectmaster asked for Xiulan specifically.
+
+By the end of it all, she hadn’t even noticed the pressure upon her until it started easing off. Each and every step to Fa Ram was like a millstone being removed from her neck, and now, watching as her friends played and roughhoused with carefree smiles on their faces, Xiulan felt strange—like she was slightly wobbly and that if she took even a single step she would fall over, so great was the weight that had been lifted from her. That was why she had paused when the others had run forwards. The feelings had been nearly overwhelming.
+
+Lucky then that she was being kept upright. Meiling was leaning on Xiulan’s side and looked amused at the little scrum they were having right at the gates… but even as she watched, her fingers were working at Xiulan’s back, hitting pressure points that were making her muscles unclench. Jin’s arm was comforting from where it was slung around Xiulan’s shoulders. She was leaning against him, his body a steady, stable anchor that would never let her fall.
+
+“Hey, Xiulan?” he asked her, and she looked up into his practically sparkling green eyes. “Welcome home.”
+
+Xiulan rested her head against his chest, feeling almost like her muscles had completely failed her.
+
+“It's good to be back,” she replied. Indeed, all was right with the world. They stayed a moment more, while the others got some of their excess energy out of their systems.
+
+“Let's get warmed up! You’ve all had a long journey, so come on and take a load off instead of brawling at the gates!” Jin finally called out once everybody but Yin was wet as the woman’s body heat was forcing all of her clothes to dry out.
+
+The skirmish ceased instantly. Tigu bounded over, a bright smile on her face, and Jin laughed as she clambered up onto his back. Yin hopped astride Chun Ke and snuggled up against Miantiao.
+
+They started up the hill that was in front of the gate.
+
+“So, so! What have you all been up to?! We were moving around too much to get letters from you! How was the harvest, was it good?! Did we get lots of potatoes?!” Tigu demanded, her eyes hungry. They were questions Xiulan wanted answered for as well, and both Yin and Huo Ten perked up.
+
+Jin chuckled. “The harvest was great. It took a little longer without as many helping hands, but we got it done. Bowu was a big help with his reapers, you know? They’re the talk of the commandery.” Xianghua’s head jerked back to her little brother as the young man preened. “As for the rest…? Well, how about you see for yourselves?”
+
+Jin finished talking right as they crested the hill, and judging from his little grin, that had been intentional.
+
+Tigu’s jaw dropped. Xiulan’s eyes widened.
+
+“Holy shit,” Yin said, her voice shocked.
+
+Xiulan was used to the farm changing. She was used to more fields being added; but for the most part, she had been there as the changes had taken place, and some things, like Jin’s house, had been a constant.
+
+It was different. Not different enough to be unrecognizable—its layout, and dare she say, its soul had been preserved. It still felt like home, its arms open wide to welcome them back, and explore the new, yet familiar place.
+
+“”I think… it's time for the grand tour, eh Gou?” Jin asked, smiling.
+
+“Damn straight!” Gou Ren replied, as they walked down the path to the first drastic change. “We went all out!”
+
+Gou Ren’s house, the one he had inherited from Jin, had been expanded into a more traditional manor with rust red shingles. The walls were adorned with the geometric designs of Gou Ren’s mother’s tribe. It had a full courtyard, tree saplings within, and glass windows. There was even an entire outcropping of the house that was glass, mimicking Jin’s greenhouse, and this was clear of snow and filled with green and growing things. Within the courtyard were stacks of lumber and stone, what looked to be a mock-up of a miniature house, and a bunch of Bowu’s machines, all under varying states of construction.
+
+Gou Ren scratched at the back of his neck, embarrassed. “I maybe went a bit overboard,” he admitted. “But there were a bunch of things I wanted to try, and well, it's not just my house. Bowu lives here too, and Chun Ke and Pi Pa sleep here a lot of the time, so…”
+
+Xiulan nodded as she looked at the house and noted that every door had a large protrusion on it—so Chun Ke could easily grab it and open the doors, she realised.
+
+“We got it knocked out in under a month. It's got the works: water crystals and fire crystals for hot and cold water, light stones, plumbing, an indoor shower, the toilet is connected to the septic system we made—I'll show you all how it works later,” Jin narrated as Gou Ren let them in. “Everybody worked really hard on this.”
+
+It was simple, clean, and homey… and there were technical and architectural drawings pinned up against most of the walls—all except one, which had a bunch of the images Yun Ren had made displayed proudly on it, the most prominent of them featuring Gou Ren, Bowu, and Xianghua.
+
+Xianghua looked like she was about to melt as she stared at that wall—covered in their smiling faces.
+
+“Isn’t it great, Big Sis?” Bowu asked.
+
+“It's wonderful,” she whispered before giving Gou Ren a look out of the corner of her eye as he explained the sink to Huo Ten. Xiulan had seen Jin’s design drawing for it. It was quite like what they had at the Dueling Peaks, now that Delun had fixed the formations powering the water supply. “Though, I would ask for your consideration tonight, Little Brother—”
+
+“I’m sleeping at Jin’s place,” Bowu whispered, giving a thumbs up to his sister. Miantiao, Pi Pa, and Chun Ke all nodded as well.
+
+Xianghua’s smile was one of a cat which had just caught a bird, stolen a fisherman’s catch, and topped it all off by raiding the milk pail.
+
+Xiulan prayed for her Junior Brother’s pelvis. Gou Ren hadn’t noticed still, as he was showing off the toilet bowl.
+
+Yin in particular was examining it with an experienced eye.
+
+“As expected of Shifu! Look at that smoothness on the glaze! And the durability!” Yin said, her eyes full of admiration.
+
+‘Indeed, my disssciple. It was a mossst engaging project!’ the snake replied.
+
+From Gou Ren’s house, they continued down the path. To the right, there was a new clearing in the forest, filled with three enormous warehouses. They were slightly hidden from view by the forest, and from the main house they would be completely invisible. Jin opened the door of the first warehouse and Xiulan had to pause and just stare at the row upon ordered row of rice bales.
+
+“Are all of them full?” Xiulan asked. They had been pretty full last year, but this? It made her feel a bit guilty for being gone for the harvest.
+
+“Yup. If it ain’t food it’s building materials—and these are the warehouses for the stuff we’re going to sell. There's more storage in the cold cellars, and we repurposed Huo Ten’s tunnels as the new cold cellar.“
+
+‘Oho? Tha’s a fine use for my tunnels!’ The monkey said. ‘Tell me if they need to be expanded more—digging is always fun.’
+
+They turned back and kept walking on to the island, and as they rounded the forest they saw another building downstream on the first, smaller river’s bank, slightly shielded again by the trees.
+
+“That's the guest house for people like the Guan siblings to stay at,” Jin narrated as they continued on. “Having so much stuff to maintain is a bit annoying, but that one just needs a quick look over like once a week.”
+
+They then reached the first bridge—it had been redone—it was wider and made of stone, with a red lacquered railing. They then crossed over onto the island.
+
+To the left was the medicine hut. Though hut was hardly an appropriate term for it now, as it was now a true medicine warehouse. Complete with a bunch of warnings on the door in Jin’s good calligraphy, telling people who entered not to touch anything without permission, complete with an amusing looking drawing of a man getting poisoned. The warning was apparently courtesy of the…‘Oh Sha’ sect? She had heard Jin say something about Oh Sha before, like when they were all wearing helms by the drop hammer.
+
+To the right was the bath house, which looked much the same and was already puffing smoke. Beside the bath house was an old friend—the mighty form of the General that Commands the Winter stood proudly. Yet he still obviously needed more snow, as well as his hat—it was only half built, and there was a hollow in his chest where the perfect sphere of crystal that was his ‘heart’ was yet to be put in.
+
+“We dragged our feet a little bit, because we knew you guys were coming home,” Meiling said with a smile. “We’ll finish him up tomorrow, if you’re all feeling up to it.”
+
+That got enthusiastic nods from Tigu and Yin.
+
+Finally was the house. Again, Jin and Gou Ren had captured the soul of the original. It looked much the same, but there were small differences that spoke of the lessons Jin had learned. There were separate ways of grabbing doors for Spirit Beasts, and they were slightly wider to accommodate Bei Be’s bulk. On the rooftop, every corner had an additional, perch-like extension, and there were small divots carved into the pillars that held up the roof, so smaller creatures could easily climb to the top.
+
+It was the small things, to make life easier for the people who lived there.
+
+They opened the door to the house, and the smell hit Xiulan—the comforting scent of home. The mudroom was again nearly how she remembered it, though there was a difference.
+
+“You fixed the Feng Shui,” Xiulan said, pleasantly surprised. That had been the only blemish on the otherwise lovely house—the paths Qi had taken through the building were strange, and that was why when Xiulan did cultivate she did so on the roof.
+
+Jin rolled his eyes. “Gou Ren fixed the Feng Shui. That said, there are two people who need to meet you. The first is Vajra.”
+
+Xiulan blinked. “The bee? She's a Spirit Beast?”
+
+Jin nodded as he led them into the living room. Xiulan couldn’t wait to lay down on one of the couches.
+
+“Yup, she's a Spirit Beast. And she did a very good job of guarding Zhuye—he fell asleep a bit before you arrived.”
+
+The bee, which had been sitting on the back of the couch, buzzed into the air and started bobbing up and down. Xiulan paused, examining the dance.
+
+She… she was understanding the bee?
+
+…praise…Emperor, be welcomed… warriors of…?
+
+‘Friend Vajra thanks Big Brother. Welcomes returning soldiers home,’ Chun Ke oinked, translating for the bee.
+
+Oh, Xiulan was quite close then. Though she was fairly certain Vajra’s language had been significantly more flowery.
+
+And when she had wiggled at Xiulan, it had an undertone of… insult? Maybe?
+
+Xiulan squinted at the bee before paying her no mind, instead focusing on the last member of Fa Ram.
+
+Zhuye was asleep on a blanket at the foot of the couch. Tigu was already on all fours before him. She was clearly restraining herself from just picking him up.
+
+“He's gotten so big!” Xiulan whispered in awe as she looked at the boy’s rosy cheeks and peaceful face. He had to be three times the size he had been when they had left! And he was so cute!
+
+Especially the way his nose started twitching.
+
+The boy squirmed in his sleep, sniffing the air like Meiling did. He paused and sniffed the air again.
+
+His eyes snapped open and locked on to Tigu and Xiulan as his nose kept twitching.
+
+Then Zhuye started bouncing and wiggling as he made grasping motions. Tigu scooped him up into her arms and the boy squealed with happiness.
+
+“Little brother! I’m back!” Tigu cheered.
+
+Xiulan’s cheeks hurt from her smiling.
+
+=============================
+
+It had been early afternoon when they had arrived, and by the time they finished the tour, looking at the second greenhouse, the expanded drop hammer, and all the new fields, the sun was starting to set.
+
+After that, they had a feast. Jin, Meiling, Wa Shi, and Pi Pa had gone all out. The familiarity of home was accented by an assortment of foods Xiulan could have never even dreamed of. Wonton soup sat beside Ta Kos filled with beef. Rice was served with a Ka Jun boil that had crawdads, potatoes, and corn with a spicy pepper paste in it. Meiling had even made a roast duck, one of the last of the season that had been preserved and aged wonderfully by Gou Ren.
+
+They mostly talked about everything that had happened on the farm, rather than any of their own exploits—they spoke of things like the Wandering Deer Caravan, having sampled vodka mixed with berries, and laughed about Wa Shi getting launched out of the toilet.
+
+They also asked about Bi De, Ri Zu, and Yun Ren. They were told they were fine, but that it was a story for tomorrow.
+
+After the meal, they had a bath; and for the second time today and the first in eight months, Xiulan got to feel the skilled fingers of Meiling, who tutted about the state of Xiulan’s back, even as she efficiently dismantled every knot and left Xiulan a pile of jelly.
+
+And then, by that point, it was dark out, and Tigu had started yawning.
+
+Xiulan was fading quite quickly too, so they decided that it would be better to sleep.
+
+She went into her room. Her room, which previously she had called her borrowed room. It was again, a bit bigger. But everything she had left there had been lovingly kept and tended to. The clothes were clean and fresh. The images and seeds from Chun Ke she had kept on her desk had been left largely undisturbed, so that she could arrange them how she pleased later.
+
+Xiulan changed into her sleepwear, which Meiling had put by the fire so it would be warm, and walked out onto the small balcony—another new addition for the rooms. And, in another moment of consideration, it was easier to get onto the roof from here.
+
+She swung herself up. The roof itself was completely clear of snow, and she walked over to her normal place and sat down.
+
+She sighed happily as she stared out at the winter-blanketed land, setting her hands on either side of herself… before pausing and glancing down.
+
+…there were little circular divots in the roof tile—the perfect size to hold a cup of tea. Xiulan smiled slightly as she heard approaching footsteps.
+
+Speak of Cao Cao, and he shall arrive.
+
+“I thought I’d find you up here,” Jin said, carrying a tray. Meiling was right behind him. “Tea?”
+
+What could Xiulan do but agree?
+
+The tea was as warm and comforting as the two people who sat on either side of her.
+
+Home. She was home.

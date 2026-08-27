@@ -1,0 +1,55 @@
+---
+id: 8938568e-2a88-59fe-88fe-f5441bd77017
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 3- Scout"
+slug: 0066-book-2-chapter-3-scout
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 66
+ownLength: 1028
+unit: words
+publishedAt: 2025-05-08
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2264646/book-2-chapter-3--scout"
+royalRoadId: "2264646"
+---
+
+65:
+
+Sarah felt her heart hammer in her chest as her mind whispered the odds their rag-tag team of three were up against. There had been no response from Jack after he had charged at the archers, but given that the fog was still blanketing the archer’s dune and there were no arrows being fired at their exposed position, she felt like it was safe to assume his success— either at driving the archers into a retreat or… successfully neutralizing them.
+
+That was a great relief to their odds at survival, but try as she might, Sarah’s mind didn’t allow her to take it as a reassurance. Just the three well-armored individuals on the enemy side had looked to be a match for them, especially given that Jin only had a single uncommon chest piece to guard her from damage, leaving her head and lower body completely exposed to damage. Throw in an additional four cultivators that might not have Rare armor sets to guard their vitals but still were more than capable enough of driving their swords and spears through their hearts and their odds turned grim; atleast if they wanted to survive this without casualties.
+
+Maybe Jack rejoining the fray could change the tides in their favour, but there was no telling how much Qi he was expending maintaining that fog and how much more he had needed to dispatch the archers. There was a possibility that he might not have much left to give and even if he did, Sarah couldn’t rely upon it. She couldn’t keep relying upon Jack if she wanted to carve a life out for herself in the new world, however fucked up of a world it might be.
+
+She had to assume Jack was out of the fight and crushed the part of her psyche that was still hoping for a timely interference in case her plan went horribly wrong. That left the element of surprise as their greatest ally.
+
+“Marcus,” Sarah softly spoke. “What is the range of your Dao Mark?”
+
+“Hm,” Marcus grunted in thought. “I think— No, I know it’s around a dozen meters. Atleast, that’s what it feels like, it’s hard to explain. But the further I visualize pushing the flames, the weaker it feels like the flames get. If that makes sense?”
+
+“That is promising,” Sarah noted with a nod. “If they try and peer over the dune, or if they try and flank it, blast them with your flames. It doesn’t matter if it’s weak, I’ll bet good money that fire scares them all the same. Charge immediately after and you’ll be able to down one person before they even know what hit them.”
+
+“I can do that,” Marcus slowly nodded. “What if one of you is in the way though?”
+
+“Then wait for a different target or aid us with your sword. I’m not sure how deadly your flames are, but if they can’t get through armor then their greatest value is in disorienting the enemy and buying us more time.”
+
+“Roger,” Marcus said, his tone earnest. “So where do you want me?”
+
+“Face the dunes. Burn anything that crests it, it should be within your range. I’ll take the left flank with a Qi Spear Projection ready. Jin, you take the right. They think we’re on top of the archer’s dune, so they won’t see us coming. That’s our greatest advantage and if we blow it, we’re dead. So don’t hesitate. If you want to talk from now on, whisper. If you have anything to say, say it now.”
+
+“I’m ready,” Jin declared and Marcus just grunted in tacit approval.
+
+Sarah nodded and took her position to Marcus’ left, turning to follow the downwards sloping curvature of the dune to it’s natural end, where it rejoined the sea of sand on one side. Her back was positioned towards Marcus’s side, a person that she didn’t trust anywhere near enough to watch her six, but there was little Sarah could do except hope that Marcus would direct his flames towards the enemy instead of her back.
+
+Sarah took a deep breath to calm her anxious mind, held her spear outwards and activated Qi Spear, letting it point towards the lefternmost edge of the dune they were hiding behind, the most likely place where an enemy would emerge if they were trying to flank the dune from her side. She let her thoughts about Marcus and Jin fade into the background and recentered them on herself, on what she could do in the heat of the moment.
+
+So she listened, focusing entirely on her sense of hearing as she tried to pick up on even the smallest disturbances across the desert landscape, as her gaze scanned the curvature of the dune as it climbed towards it’s crest before pulling away her gaze back towards the edge of the dune and then repeating the process.
+
+It didn’t take long for her to catch onto muffled footsteps that seemed to increase in loudness with every passing moment. Her focus only intensified in response and around a minute later, her efforts were rewarded as she found herself picking up on words.
+
+“Halt,” A gruff, domineering voice called out, one Sarah identified as belonging to the middle-aged man that had issued the ultimatum to them. With his command, the muffled footsteps that had intensified in both frequency and loudness came to a sudden stop. “Target is at … twelve o’clock…. no guarantee on… could be hiding at the base of the dune. Ethan, I need you on recon…. scope out their positions and return. No elimination unless it’s… easy kill….” Sarah missed quite a few words due to the command being issued in a low tone, but what she had heard was enough for her to get the gist of it.
+
+“I can do that,” A second, unfamiliar voice answered far more loudly, sounding far younger. “What do I do if I run into trouble?”
+
+“Return in fifteen mikes, or we assume you’re either K.I.A. or captured. If you’re caught behind the dunes…. but as long as you’re out in the open I can… support.”
+
+“I’m on it."

@@ -1,0 +1,155 @@
+---
+id: cf008954-9858-530f-b5ea-7ff389a05cc0
+page-type-slug: story-chapter-royal-road
+title: "v6c8: Bright and Early"
+slug: 0196-v6c8-bright-and-early
+partOf: beware-of-chicken
+position: 196
+ownLength: 1880
+unit: words
+ownProgress: 1880
+publishedAt: 2025-03-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2151204/v6c8-bright-and-early"
+royalRoadId: "2151204"
+markedReadAt: "2026-06-29T18:58:02.789Z"
+---
+
+The morning, as always, dawned bright and early.
+
+However, this morning I had to deal with an issue related to our guests. It had been a surprise—I never expected something like this to happen, but really, I maybe should have seen this coming. So with a stone heart I looked upon it, focused completely on my current predicament. I steeled my spine, and with as much of a commanding presence I could muster I addressed the problem.
+
+“Meimei, I have to get up,” I said seriously, my hands on her arm. It was locked across my chest, preventing me from getting up. I traced the arm back to the nest of blankets.
+
+A single amethyst eye glared out at me from under the covers, while two smaller eyes looked up at me, Zhuye seemingly pleased by his new burrow. He gurgled happily.
+
+“Nuuu,” Meimei whined maturely. “Don't wanna deal with cultivators.”
+
+I felt my composure start to crack, and I could barely keep from laughing at her petulant tone.
+
+“Come on, they weren’t that bad, were they?” I cajoled. And to my surprise, yesterday hadn’t been that bad. Hells, it had actually been pretty enjoyable. Ge, Shou, Yukong, and Minyan had all been a lot more chill than I had been expecting.
+
+Take Elder Ge, for example. He looked like one of those old xianxia Masters. His cultivation was so powerful that even suppressed I could feel it blazing inside his chest. He practically oozed mastery, a man who was approaching immortality. The kind of man who, in stories, was obsessed with honour and propriety. A man to be careful around, and watch one’s manners.
+
+That lasted until the bath. This old monster, this man who could rend mountains and split the sky? He used his phenomenal cosmic power, gained through centuries of cultivation, to retaliate after getting smacked on the ass with a tree branch.
+
+Elder Ge and Gramps had an entire wuxia sword fight with their sticks in the air, dancing off snowflakes, and executing techniques that had Big D watching with wide eyes at their mastery. It ended with both of them yelping and then smashing through the ice into the river.
+
+The Elder of the Cloudy Sword Sect walked out and declared the entire experience ‘refreshing’. He walked past me back into the bath with a visible red welt on his ass, followed after by Gramps, bruised but still chortling.
+
+Shou was a lot easier. Dude was a nerd, and I meant that in a good way. It was in his mannerisms, even after centuries of cultivating. He was a bit awkward, but his passion for plants was like a blazing star. Out of all of them, he had been the easiest to be with.
+
+I had always got along with my people, even if I never really had looked the part. Most people in the Before didn't expect the big, dumb-looking farmboy hockey guy to get into arguments about obscure science stuff.
+
+With Shou it was even easier. Plants were awesome.
+
+Elder Yukong was basically the same way, she just hid it a bit better. I could see the nerd eyes in her, though, as she talked to Elder Minyan about the sealing formation and spoke to our disciples.
+
+The only one I didn’t particularly have a read on was Elder Minyan. Meimei said she had started to engage a bit more after they went to the baths. According to Meimei, she was less prickly than she first appeared and had even complimented what we had here.
+
+Meimei grumbled at my statement.
+
+“Admit it, you liked showing off a bit,” I continued.
+
+The grumbling intensified.
+
+“You kind of like Shou and Yukong, at least,” I said, and the grumbling reached a fever pitch before petering out.
+
+“No, they aren’t that bad,” she finally conceded. It sounded almost painful for her to say it, but say it she did.
+
+I chuckled at the grudging tone.
+
+“Don’t worry. I don’t think they’ll be here long, anyway. They have a bunch of cultivator stuff to do, so we’ll host them for a couple of days, they’ll go about their business, and we’ll be back to normal.”
+
+Meimei sighed. Her grip on my chest went slack.
+
+“It's hard. I hated them for what they did to you for a long time, you know?” she said, “I wish I could be more like you and just be comfortable around them.”
+
+I took her hand and kissed the back of it.
+
+“Honestly, I’m not,” I said. Meimei blinked at me, poking her head up out of the covers. “I’m still uncomfortable with them here, I just fake it. Being nice and laughing along is easy when it’s something that’ll help my family. And if they turn out to be good people I can get along with, well, then that's when it stops being a mask and starts being real. We had a saying in the Other Place; Fake it till you make it.”
+
+Meimei looked into my eyes. “Being nice and laughing along is easy when it’s something that’ll help my family, huh?” she muttered, a little smile on her face.
+
+Then her hand moved to the back of my head and she pulled me into a kiss.
+
+“...let's get ready for today,” she declared.
+
+========================
+
+Breakfast was our usual affair. We had been respectful of the cultivators yesterday by reducing the number of people, but today everybody was in our house for breakfast. Meanwhile, I stood at the entrance and waited for our guests.
+
+They came in from the guest house… while Gramps and Minyan wandered in from his house.
+
+The house had been part of the summer’s renovations—a place for the old man to stay if he wanted it, and if he didn’t, well, considering the number of visitors we got, somebody would use it.
+
+I showed it to him after everything calmed down, and Gramps had immediately moved in… though that may have been because it was a bit sentimental. I had based the layout on the little house we had lived in in Crimson Crucible City.
+
+I hadn’t been in since I gave it to him, but we all had been busy. Judging by the bright grin on his face, and the fact that Lady Minyan’s eyes had a kind of smug look in them, I guessed he had… well, broken it in.
+
+I wondered what the Hells was going on between them… but wasn’t sure I really wanted to know. A hundreds of years-long relationship was probably bound to result in some weirdness.
+
+I pushed the thoughts out of my head.
+
+“Good morning. Were the rooms comfortable enough?” I asked the Cloudy Sword Sect contingent.
+
+“A fine place to meditate for the night,” Elder Ge declared.
+
+Elder Yukong nodded. “The scent of cedar is a good alternative to incense, and the Qi here is very gentle.”
+
+Shou, meanwhile, seemed a bit confused by the question.
+
+“They were fine enough to conduct my analysis in. The specimen you have is absolutely fascinating! I still don’t have any idea what it is!” the man said, sounding a bit distracted.
+
+I just found it a bit funny that none of them had actually slept… but I guess most powerful cultivators didn’t.
+
+“It's definitely a mystery,” I agreed. “Now, we normally all have breakfast at one big table, but if you wish I can instead serve you in the greenhouse if that's too crowded.”
+
+Shou perked up at the mention of the greenhouse.
+
+“Thank you for inviting us into your home,” Yukong said, preempting him. Shou blinked, and obviously reorientated himself at her interjection.
+
+“Of course,” he said, coughing.
+
+And that was how we got a bunch of cultivators at our breakfast table. It was a little bit awkward as everyone made room for them, unsure of how to truly act… until a voice piped up.
+
+Ever-fearless Tigu charged into the fray with a bright smile.
+
+“I never got to say this yesterday, but the design on your robe is very beautiful!” Tigu declared. Her eyes were practically sparkling as she looked at Minyan’s robe. “Do the designs mean anything? Who made them? Where is the cloth from? It’s so floaty!”
+
+The woman raised an eyebrow, and there was a brief pause. Her cold, icy gaze settled on Tigu, judging her. Then her eyes roved round the table, and the awkward silence grew.
+
+“Hmm, like the Midships,” the woman said. “You’re quite lively. Do you enjoy art, child?”
+
+“Yes! Your clothes are really neat! It's so different from what I’ve seen of most Imperial styles,” Tigu enthused. “But I see some things! Like those clouds. Did Soaring Heaven’s Isle invent them, and the rest of the Empire started using them?”
+
+Minyan appeared taken aback by her enthusiasm, but her eyes warmed a bit.
+
+“That is indeed the case. You’re quite canny to notice that our clouds were the originals. Which of the arts do you engage in?”
+
+“Sculpture, mostly! And carving!” Tigu pulled off her bracer and presented it to Minyan.
+
+The woman studied it with a practised eye.
+
+“You’re fairly skilled,” Minyan said. She looked back up at Tigu, preening at the compliment. “As for your questions, the design on this dress depicts the Limitless Sky. It was made by Honoured Luhua, one of the finest artisans of the Isle, six thousand years ago, and was a gift to me from my Master. The cloth was woven out of Flying Lotus Silk—a species of Spiritual Herb now long extinct.”
+
+That seemed to break the ice. Gramps smiled at Tigu as she kept the conversation going, her honest and innocent interest cutting through Minyan’s icy cold.
+
+“Young man,” Elder Ge began, getting Yun Ren’s attention. “That pane of recording crystal, what is its use?”
+
+Yun Ren recovered quickly from the shock. “Well, it may not be able to record in motion, but…” he began, explaining what was basically his camera.
+
+Yukong was talking to Huo Ten about the designs on his crystal pendants, looking intrigued at the monkey’s explanation… and even Shou was listening to Ri Zu as she asked him a question about healing that was way out of my league. The man paused for a moment, but then launched into a deeply technical medical lecture that quite frankly went over my head, and had Ri Zu and even Meimei looking intimidated.
+
+It was still a bit awkward. It was still a bit stilted.
+
+But these Elders began to thaw just a little bit, conversing freely with those so infinitely far below them.
+
+And then… Washy came out with the pancakes. Normally we would have had a more traditional meal, but Hells, sometimes you just need something sweet in the morning.
+
+“Ah, this one is my grandson’s specialty!” Gramps said, a smirk on his face.
+
+We had quite the selection: thick, fluffy cakes with pats of butter on top, ready to soak up the syrup. Thin crepes, ready to receive the jams, whipped cream, and fresh berries from the greenhouse.
+
+“How innovative—” Shou began as he picked up a pancake. His eyes focused on it… and then he was rudely interrupted by two sounds of absolute pleasure.
+
+Both Xiulan and Spooks flushed when everyone turned to look at them.

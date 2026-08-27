@@ -1,0 +1,145 @@
+---
+id: 35012b21-e703-5b70-b766-ecbec62f2cbb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 - Rebirth"
+slug: 0003-chapter-1-rebirth
+partOf: beneath-the-dragoneye-moons
+position: 3
+ownLength: 2698
+unit: words
+publishedAt: 2020-09-28
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/561246/chapter-1-rebirth"
+royalRoadId: "561246"
+---
+
+A raw, primal scream was being wrenched from my throat, my mind and body wracked by pain. The pain of loss, the pain of death, the pain of ending.
+
+A crisp snap broke through my screaming, the pair of fingers that did the deed appearing in my vision. An old pair of fingers started the snap; a young pair of fingers ended the snap. I felt a strange force invade my mind, grab something, twist, and rip. I cried out in pain, a sense of loss washing over me. My mouth closed, every breath sending fresh flames of torment radiating from my lungs.
+
+A tall, thin man was in front of me, speaking. “I do really hate the screaming, but I suppose that’s what happens when you mortals die.”
+
+Wait what!? Die!? I was in class just a second ago! What did he mean die!? I was too young to die! I could feel the panic quickly mounting again, my breath becoming shorter and faster as I started to hyperventilate.
+
+“Who are you? Where is this? What do you mean die!?”
+
+As I shot my questions off rapid-fire, I looked around.
+
+I was disoriented. Dazed. Pain and anguish were clawing at my heart, my mind, my very soul, but slowly, oh so slowly, it was starting to fade.
+
+Until I noticed where I was. And where I wasn’t.
+
+Then it all came rushing back, and while I’d been silenced nothing stopped me from hyperventilating there’snoairhereohmygod!
+
+A pair of fingers snapped again, and the man spoke once more, derision dripping from the single word he uttered.
+
+“Honestly.”
+
+My mind cleared.
+
+I wasn’t sure where I was anymore – I seemed to be floating in space, surrounded by twinkling stars and galaxies, comets and planets. It wasn’t home, it wasn’t school, it wasn’t even earth. There was nobody present except the tall thin man, floating impossibly in front of me, looking both ancient and young, happy and sad, male and female, tall and short, fat and skinny, red and blue – wait what?
+
+I pinched myself, putting all my might into it. Only thing to do really. This dream was way too trippy for me.
+
+I jumped as an electric shock went through me. I was still here, wherever here was. That didn’t bode well.
+
+I might be in a minor spot of serious trouble.
+
+A deep, long-suffering sigh escaped him? Her?
+
+“You died. I took the memory of you dying to calm you down. Unfortunately, it doesn’t seem to have worked nearly as well as it should’ve.” She added, barely under her breath “Mortals.”
+
+I felt an enforced calmness come over me, my panic not going away, just… not mattering anymore. Given where I was, strange floating among the stars with what can only be described as a super powerful shape-shifter, I could believe I had died. This wasn’t Kansas anymore.
+
+“Now then, we can have a discussion. You have died. Your soul has failed to properly re-enter the cycle of reincarnation, and I found you just floating in the void.”
+
+Their face twisted in an unhappy grimace, and I felt an instinctive fear run through my…
+
+Did I even have a body anymore? Was I just a soul now?
+
+I didn't know what to make of being told I’d died, that my life was over. I did know that I hadn’t been old, or even middle-aged when I died. Had I even made it to adulthood!? I tried to make a disgruntled noise – the enforced calm was preventing any sort of outrage, only to discover that I couldn’t make a sound.
+
+That bastard.
+
+We couldn’t have a ‘discussion’ if I couldn’t say a single word! I guess he just wanted to monologue, and my input could take a jolly hike.
+
+“I’m Papilion, the God of Change,” she grandly announced, to an audience of one – and that constant shifting of male to female, young to old, pleased to outraged made a bit more sense, although it was giving me a pounding headache to follow. “And you’re being reincarnated. Normally, as souls are reincarnated through the cycle of life and death, all of their memories are erased. They’re given a clean slate to start over. I don’t know what to make of you, a lone soul lost to Samsara, so you have the option of keeping some of your memories. Regrettably, a newborn’s mind is simply too small for all of the things you know, and you do know quite a few dangerous things. What is your choice? Would you like to start as a blank slate, a new life? Or keep some of your knowledge, some of who you are, knowing that you’ll never be able to go back, be forever incomplete, missing a part of yourself?”
+
+I wasn’t ready to make a decision of this scale. Hell, 10 minutes ago by my reckoning, I was debating what to eat for lunch, deciding if I wanted to buy that dress or not, and figuring out how to get all my homework done!
+
+Poof! Like a magician’s disappearing act, it was all gone! A mote of dust in the breeze, smoke wrapped in the wind, the last ember soaked in water.
+
+My entire life was over. Everything I’d worked for and accomplished gone in a heartbeat.
+
+The crushing weight of that threatened to overwhelm me, but then the absurdity hit.
+
+I was dead. It wasn’t like I could make any worse choices now, could I?
+
+What was the worst that could happen now?
+
+On one hand, I could keep my memories. Sounded painful, more emotional than physical. I would lose everyone I had ever known – my parents, my best friend, my brother, aunts and uncles, cousins and friends – everyone. I would know it. I would be aware. It was like a plague went through and I had to attend a hundred funerals at once, but the only funeral anyone would be attending was mine. The option to just… forget… was tempting, especially if it was as thorough as removing the memory of me dying was.
+
+On the other hand, it sounded like this was a rare chance. Not everyone got to keep their memories – even if it was only a fraction of them – and start over again, tabula rasa. It was tempting, just for the aspect of doing something nobody – wait, maybe this had happened before – had done.
+
+“Can… can I ask some questions….?” I asked, getting a single arched eyebrow back as a response. That might be a “go ahead”, but it might also be a “you dare question me mortal”, and I wasn’t going to play games with my life. Err… afterlife? Soul? Reincarnation?
+
+I decided not to ask any questions, and mull it over myself. There wasn’t much more to add.
+
+In the end, I felt that the choice was forced. As some famous philosopher said: “You die twice. Once when you die, and once when someone speaks your name for the last time.” I might have died and lost my first body, but my soul and memories were intact. That was alive enough for me, and I fully intended to keep it that way. I was too young to die.
+
+“I would like to keep my memories.” I said with far more confidence than I felt. The god in front of me smiled as he started to morph into a strange bird – it looked like a crow, but it had too many feet. Somehow, his voice was all the same coming out of a beak.
+
+“Right then. Chemistry, gone. Physics, gone. Far too dangerous to know that where you’re going. Scientific method – you can do too much damage with that. Broad strokes of history – fine, but the details are completely superfluous, and we need to make room. Mathematics – keep the basics, but calculus will do nothing for you where you’re headed. Arts, literature – useless, but removing it will change you too much. There’s not much point in letting you keep your memories if you’re a completely different person. Interpersonal relationships – they can stay, same reason. English – I suppose you need a starting baseline. French? Spanish? Entirely useless. Gone. Hmm… a few more things to clean up… and we’re done! Prepare to be reincarnated as a Golden Crow.”
+
+I felt the strange force from before entering my mind, magnitudes more powerful and painful than before, rooting around in my head. Each time the crow squawked, I felt something rip out from my mind, and I tried to hold back tears of pain. By the time math was gone – I never liked it, but was indescribably sad at it leaving – I was curled up on the floor weeping silently. Not that there was a floor, just more floating in space. But when he said ‘Prepare to be reincarnated as a Golden Crow‘ I shot up, panic racing through me, somehow about to speak again.
+
+“NO! I WANT TO BE HUMAN! MAKE ME HUMAN! HUMA-“
+
+A pair of fingers snapped.
+
+I was floating in warm, wet darkness. I had been floating here for quite some time, and I was doing lots of thinking. My first instinct was that it was all a bad dream, but I had fallen asleep and woken up too often for that to be the case. So, it seemed like I had truly died, and was being reincarnated.
+
+The only thing I was unsure about was if I was going to be human, a ‘Golden Crow’, whatever that was, or something else entirely. This whole reincarnation thing really needed a user manual or something. I didn’t seem to have a shell, but there was no telling really.
+
+At least, I was pretty sure something called a crow would be hatched from an egg. Who knew what I actually knew and what got ripped out by that cruel, capricious god. Who knew what was real, and what I just made up on my own as I floated here in the dark, trying desperately to plug the holes in my memories, holes where I knew things should be but were not.
+
+I wanted to go home. I wanted to see mom again. I wanted dad to hug me, to tell me everything was going to be ok. Maybe I could look them up on the internet when I was old enough, tell them that I was ok. Would they even believe me? Would they think it’s just some cruel hoax?
+
+I could probably tell them enough about me, enough about them, growing up. How the sun hit the windows, how it would go through the crude ‘stained glass’ plastic I made in 4th grade. That Becky was my best friend until 2nd grade, when she moved. How our dog Aoife used to eat anything and everything – proven by the Great Banana Peel Experiment – and was taken too soon. What was an ‘experiment’ anyways?
+
+The fact that some knowledge was considered “too dangerous” for where I was going implied that I wasn’t heading back to the time I came from. I thinly tried to hold on hope that Papilion had meant “too dangerous to be born knowing so much”, but I knew I was just deluding myself. I grieved. I lamented. I cursed fate, cursed the gods. It changed nothing. They were most likely all lost to me.
+
+Waking period by waking period, the details of my past life got dulled, along with the pain of losing everyone I knew. Random things stayed – like why did I still know my bus schedule? How did that stay, why didn’t it get stripped out? Others faded. I could only name half of the people in my biology class, I had no idea who my teachers were last year, and the details of the latest book I had been reading were gone.
+
+God, I wanted to read again. To pick up a book, sit in a cozy chair by the fire, and just lose myself in the pages. Rarely was I so happy as when I was reading. Although, “God” might be a bit of a strange epithet, after now knowing there were gods, and it didn’t seem like there was just one. Otherwise he (she? Them? What pronoun did a shape-shifting god (goddess??) use anyways? – I decided to use he, since that was the first and the last form shown to save my sanity until said god of change told me otherwise.) probably wouldn’t have referred to himself as “the god of change”, and probably just “god”. God. This was tricky.
+
+I had entirely too much time to think, and nothing else to do. I tried flailing about now and then, just for a change of pace, but I rapidly hit soft walls all around me that absorbed what I did and gave. I tried to brace myself and push out, but had no luck. I would rapidly tire out and fall asleep after each attempt.
+
+I kept at it though, because there was nothing else to do. Except think. And there was nobody to bounce my thoughts off of, nobody to interact with, and just far too much time on my hands (claws? Please not claws.) God. Gods.
+
+I occasionally heard noises, as if coming from a great distance underwater, but couldn’t make anything out. I would redouble my escape efforts whenever I heard that – maybe someone could let me out? But it never made a difference. The noises were usually soothing, which was nice, but being unable to really make anything out, it wasn’t that much of a change. At least it broke up the monotony. Inevitably after each attempt, I would get exhausted and fall asleep.
+
+When would this end?
+
+The state of affairs couldn’t last, and one day I felt the fleshy walls of my prison contract around me, squeezing me. I felt a sharp spike of fear go through me, and I flailed more in panic. There wasn’t anything else I could do. This did seem to strongly imply that I didn’t need to escape with a beak, which gave me a brief sense of relief – only for panic to set in once again as the walls contracted around me, squeezing all over. Again, and again, pain and pause, the relief between each movement constantly shortened. I was battered, I felt bruised all over, but finally, with one last massive squeeze, I emerged into the world, and a massive deluge of information.
+
+[*ding!* Welcome to Pallos!]
+
+[Name: Elaine]
+
+[Race: Human]
+
+[Age: 0]
+
+[Time remaining on System locks: 68,820:43:16]
+
+[*ding!* Due to the great efforts of [Hero] Herculix, you get a +1 bonus to all stats! You also get a passive 2% increase to all exp gain!]
+
+Strange words floating in front of me, and so many more words, dozens, hundreds! I needed to investigate. But more than that –
+
+Giants. Giants all around me. Some yelling, some screaming, two covered in blood. The noise grated, and went right between my ears, nails on chalkboard. I was picked up, incomprehensible language babbled all around me, and looking down, I saw a female giant bleeding profusely. Another giantess elbowed her way in, put her hand on the first giant, yelled something, and I watched the flesh of the first giant knit itself back together!
+
+Holy shitballs there was magic here!
+
+I looked up for the first time, and realized that we were in a field under the open sky. I was passed down to the giantess who was healed, my head being moved around as I saw more of the night sky, and I saw them.
+
+Two crimson cat’s eyes with slitted pupils glared down from the sky to me, watching me, seeing every movement I made. I could feel the weight of its ominous gaze pressing on me, suffocating. The strange floating words, being manhandled by giants, the screaming, getting battered and bruised, the blood, the magic - it was too much. I screamed and cried and flailed about, and didn’t stop until my voice gave out and I passed out from exhaustion.

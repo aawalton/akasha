@@ -1,0 +1,133 @@
+---
+id: b379b3cc-eac4-5a84-a6a8-ebd2665418c5
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 49 - Replicating Belief"
+slug: 0053-b3-chapter-49-replicating-belief
+partOf: bookbound-bunny
+position: 53
+ownLength: 2269
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3490841/b3-chapter-49-replicating-belief"
+royalRoadId: "3490841"
+---
+
+After a lengthy time in the grimoire, Lily was utterly exhausted. It amazed her how, inside the mental landscape, she barely felt anything, but the minute she got out, it would all come crashing down on her.
+
+While she desperately wanted to go straight to sleep, she needed to stretch her legs for a bit, not to mention food and a bath. While she did all of that, she briefly discussed the idea she had with Arakil, who had mixed feelings on her epiphany.
+
+When you took everything she had learned about the beginnings of magic, it was easy to see how she reached that conclusion. Arakil especially praised her insight into the originators of the spell, which fed off belief, and revealed that it was considered somewhat of an unspoken secret, which ultimately led originators to try to spread their work.
+
+In some cases, getting their magic to work once and be witnessed by the masses was enough, and almost like a self-fulfilling prophecy, they would have their work cut in half for each subsequent exertion of their willpower. Arakil then stressed that Lily should never reveal this to anyone, especially not any of the gods' servants, as under the guise of blasphemy, such thoughts were often extinguished.
+
+As for whether Lily's plan would actually work, Arakil was conflicted. He agreed that, in principle, having a powerful backer with willpower to spare, like Rose, was the right approach, but he was unsure whether it would be enough. As for himself, unfortunately, he wouldn't be able to substitute for any willpower, as while he did believe in her, he also knew too much about her plan and the underlying machinations required.
+
+"So I should have done it secretly?" Lily asked with a hint of regret.
+
+[It might have helped, but even if you kept me in the dark, I don't think I would be able to provide enough. Not only do I know too much about how these things work, but I'm also presently sealed and unable to even exert my own willpower in reality.]
+
+While Lily was relieved that she hadn't accidentally screwed up her plan before it even got started, she still couldn't help feeling a bit disappointed about it. Of course, Arakil reminded her that if things were too easy, she wouldn't feel like she accomplished it, which was a problem in itself for any fledgling mage.
+
+Finally, Arakil brought out the crux of the matter, which was that Lily still needed to, at least partially, succeed in exerting her willpower on the world for Rose to witness. Arakil stressed that there needed to be a spark to light the flame. Whether having her unwavering belief beforehand would help or not, he couldn't confirm, but he was erring on the side of caution and revealed he'd never seen or heard of that before.
+
+[Not to rub salt into the wound, but even Rose might not be enough by herself. Generally, you need a lot more witnesses to gain any benefit.]
+
+Lily nodded along, when along came a crazy idea that she absent-mindedly blurted out. "Like an audience at a competition?"
+
+[N—Hold on… Maybe?]
+
+Lily was fully expecting Arakil to say no; it took her a few moments to realize he hadn't rejected it. "Really?"
+
+[Maybe! But you'd still need to draw something, anything, and while it could be simple to the extreme, it still would need to work.]
+
+"Would a rune be enough?"
+
+[Yes, although crude, it would likely be sufficient.]
+
+Lily joyfully beamed, although she still had the unresolved issue of needing to somehow draw that very first rune without help. Then, when she thought about it some more, she also realized that she would be making herself the center of attention for something utterly unheard of in the current world of magic, which made her feel even more conflicted.
+
+[Put it aside for now. We can both spend some time thinking about it in the days to come.]
+
+Agreeing, Lily finally went to bed. She still had more pressing matters that needed to be taken care of, like a certain dungeon floor.
+
+***
+
+After waking up surprisingly early, Lily had to get to work. If they were going to conquer the first floor of the dungeon today, then they needed to be prepared. She had already prepared a lot of crystal seeds and talismans before the day, but now, after her game of glyphs with Arakil, she had a few improvements to make.
+
+At the same time, Lily set up a production for a few more crystal discs for Hana. This was something Arakil had suggested when he foresaw that Lily was going to be spending an endless amount of time replenishing her stock with each excursion.
+
+The way this worked was relatively simple: you made a mother crystal that could be turned on and off and would always branch off to grow its children according to the inscribed design. The branches to these children were thin enough to break by hand, freeing the item.
+
+When Arakil explained this to Lily, she immediately wanted to know whether it could also be used for crystal seeds. Arakil must have expected this, as he let out a deep sigh before, unfortunately, telling her no. Yes, you could use them to grow seeds, but those seeds would be inert with no spell stored in them.
+
+[You would need a mother crystal that could replicate glyphs. Which, to be perfectly honest with you, I'm not even sure if I can teach you.]
+
+Lily was about to ask, but Arakil answered the inevitable question.
+
+[Self-replicating glyphs were how I earned my minor deification. You could even say it was my greatest achievement, although whether others would agree is certainly up for debate. I'd love to pass them down to you, but two things are holding me back.
+
+First, I might technically be forbidden to do so, and it could paint a target on your back. Second, and frankly, the primary reason, while I'm sealed, I do not think they will function. You could say the only reason they functioned at all was that I fully exerted my full willpower, but I never passed them on, and thus they fell into obscurity along with me.]
+
+Lily gulped and, perhaps sensing that this was a little forbidden to talk about, quickly switched over to telepathy.
+
+{Are they glyphs that draw glyphs?}
+
+[Well, an inscription that draws glyphs, but yes. Regardless of my opinion, it was called self-replicating glyphs because the glyphs were being replicated, even though the inscription was the one doing the task. I digress…
+
+The result was quite spectacular back in the day, especially if you consider that there was infinite Mana at everyone's disposal. You could almost say the self-replicating formula had infinite potential, which certainly caused a bit of outrage. There was a time they even tried to label it as 'forbidden magic' until I successfully disputed it.]
+
+{I… See… Um…}
+
+[Apologies, this certainly went off course and got a bit heated. Anyway, back to your question, without such a function, the crystal seeds produced would be but empty shells. However, the discs that Hana is using require no magic; they only function from their form.]
+
+And that was how Lily learned more about Arakil's troubled past. If she didn't know him better, she would have said he was intentionally looking for trouble, but like always, it started from a relentless pursuit to further explore magic.
+
+Seeing the mother crystal at work reminded Lily that she had wanted to ask Arakil to demonstrate the self-replicating glyph within the mental landscape, but it had completely slipped her mind. While she couldn't learn it, and it would probably be useless in the outside world, she still wanted to see such a strange creation at work.
+
+I'll have to ask next time… Lily swore to herself.
+
+With preparations out of the way and her pouch packed, Lily went to have breakfast. There she met up with Hana, who was early, as always, and joined her as they waited for Lotte.
+
+"Do you think we can do it?" Hana asked.
+
+"If not today, then certainly soon," Lily replied. "Let's just hope it doesn't get too crazy at the end."
+
+"I mean… It's probably going to spawn a guardian at the end, right?" Hana asked.
+
+Lily sighed and nodded. It wouldn't be a challenge if it didn't have a big, bad monster right at the end to defeat. Thankfully, their group had Lotte as their secret weapon and designated guardian killer.
+
+Lotte eventually arrived, and after scarfing down her food, the gang excitedly left for the dungeon. Since it was the weekend, the entrance was rather packed with students, although everyone except the first years was using the stairwell to head deeper.
+
+As for the first floor, surprisingly, outside the rest areas, they had never spotted any other students, which felt intentional. Almost like their gauntlet, when they first entered, they would need to pick a door, and if multiple groups entered, they would be forced to choose different entry points. From there, things seemed to branch off wildly, yet they never had any issue returning to the exit when they needed to.
+
+A few students had noticed this and even asked Alice whether the first floor was more regulated than usual, to which she answered, "Obviously!"
+
+While the school tried its best to keep the students as safe as possible, the deeper end of the dungeon could be perilous. The first floor was more strict than usual to ensure the students were ready for what awaited below.
+
+When the group entered, they didn't do anything yet; they casually picked an unoccupied door and entered the first challenge room. As always, it started off very slowly, and it was just a pair of skeletons that Hana routinely took out with two beams of light from her fingers.
+
+Now that the room was clear, they needed to get into action. Lily began pulling out the discs for Hana, only transferring them while hidden in the dungeon. Lotte began pulling out potions and handed them to the group, and also took the opportunity to summon Jade. The chubby lizard was bouncing with joy, especially when she was fed a rather noxious-looking concoction that Lotte revealed.
+
+"Remember, be careful where you spit, only on the monsters!" Lotte ordered.
+
+Hana didn't bother bringing out Tach, as most of the monsters were seemingly immune to the flashes of blinding light it could emit. Of course, when they reached the second floor and fought more ordinary monsters, such a utility would be very beneficial.
+
+It might have seemed that Lily and Lotte were investing more into this than Hana, but the girl had also stepped up and taken it upon herself to prepare all their other supplies. Food, water, and even snacks were prepared and ready to keep them energized. Considering she also put in extra effort during the fights, none of them would ever claim she was mooching off the two crafters.
+
+The signal to start was when Lily blessed the three, no, four of them with Lunar Radiance. Jade didn't seem to understand why there was a shining moon above her head, but she made happy yipping noises regardless as the group jogged to the next room.
+
+This time, it was a trio of Brassbound. Lotte and Jade each took one, confronting it directly, while Hana distracted another so that Lily could fire a spell straight at its undefended back. In almost no time, the trio had cleared another room, and after Arakil confirmed there were no hidden treasures, they moved on.
+
+This kind of prepared action continued until the dungeon finally stepped up its game and started throwing variety into its encounters. Still, the team had targets they would prioritize, and Lily often fit into a 'flex' slot, able to rapidly react with a crystal seed or a talisman from her pouch.
+
+Hana continued being on undead duty, but at the expense of a crystal lens or two, she could also fulfill the role of dealing with swarms. Lotte was their defense buster and would prioritize Brassbound above all else, with Jade able to back her up on occasion. The little lizard was actually proving quite helpful, making Lily wonder how exactly she had tamed her.
+
+She should give Thomas some advice, Lily chuckled to herself.
+
+Outside of her role being flexible, Lily would abuse her Nebula Veil and act as the group's defender. Yes, it was completely ill-fitting to have such a small and cute bunny as the one on the front line in case of too many monsters, but her cloak was just that good.
+
+Despite everything else going on, Lily still managed to set aside time to further master it. It might have been childish for her to jump on a spell so early on and confidently declare it would become her signature spell, but she had kept at it. Yes, glyphs and inscriptions had certainly stolen her heart, especially after the wand, but she wasn't going to abandon the cloak that kept her safe and warm.
+
+And so, just like this, the group continued their assault through the dungeon. They tried to keep their breaks to a minimum, but certainly not at the expense of their safety. None of them knew when the final challenge would appear, and if they had rushed in when everyone was tired, the consequences could be dire.
+
+Slowly, but surely, the dungeon was increasing the challenges as they cleared room after room. Until finally, something changed.

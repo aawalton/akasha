@@ -1,0 +1,69 @@
+---
+id: c8daa4f2-de7a-5145-8bd1-d3c70143bb43
+page-type-slug: story-chapter-royal-road
+title: "42: Potential"
+slug: 0042-42-potential
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 42
+ownLength: 1401
+unit: words
+publishedAt: 2025-01-14
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2010144/42-potential"
+royalRoadId: "2010144"
+---
+
+42:
+
+Jack turned his gaze to Sarah, noting that her features seemed far less uncertain than his own were, before he addressed her, “Did you make a decision?” He asked, knowing that it wasn't the first time they had pondered upon the Tutorial Shop’s wares. It was hard to not think about them when amassing the tutorial points and purchasing the right item could mean the difference between life and death and perhaps, even more than that.
+
+“Make a decision on what?” Marcus cut in, having recovered enough breath in his lungs to cut in before Sarah could respond.
+
+Jack’s gaze looked down to meet Marcus’s, noting the glimmer of fear the man’s eyes concealed behind the stony look that he gave him.
+
+“On the tutorial shop,” Sarah replied calmly, a softness in her tone that intended for her words to be disarming. “Killing those goblins, along with any other creature that we might encounter, gives us tutorial points that we can use in the shop. Those items might be the difference between surviving what we encounter in this fog or…” She trailed off, not wanting to invite fate to prove her words correct.
+
+Marcus’s features seemed to relax a little at the explanation, but there was apparently more the man had on his mind that needed asking, “Before that, how did you two find us in the first place? The only other member in our group that could’ve called for aid died to an arrow wound a few hours into… whatever this is,” Marcus gestured to the gray fog around him, but it was clear that he meant the new earth that they had found themselves in. “And you couldn’t have stumbled upon us by accident, given that,” He looked to Sarah, needing a moment to recall her name, “Sarah knew exactly what to cut to find us. So… just how did you do it?”
+
+“The system told us,” Jack moved to respond before Sarah could, his tone hardening as he continued. “It told us that there were people trapped in the goblin camp and gave us an option to choose to rescue them. We put our own lives on the line to do so, a choice we made out of our own volition. Now, every moment that we waste talking is another moment we might be inching closer to our deaths,” He declared, an iron in his voice that made it clear that he wanted no more interruptions. “Sarah?”
+
+Knowing that her words were being subject to the scrutiny of four instead of two, she chose her words carefully as she responded, “I have a clear idea of what I want. Given that we don’t know what the items do besides their names, I’m going to play it safe.”
+
+Jack nodded in understanding, having discussed this with her before. Had she earned a total of twenty thousand TP, he would find it hard to pin down what she was buying, but given that she had about 3000 TP before and received 13,000 TP from the quest, he had an idea.
+
+Sarah had seen Jack’s sword in action now and from what she had told him, the spears that she had access to shared the same names. She hadn’t seen him in action with Moonsword before, but that had changed and assuming the Moonspear worked similarly, moon-flow would be even more deadlier with a spear than it was with a sword.
+
+Choosing a spear meant that Sarah couldn’t rely on a shield like Jack did, so armor was the natural progression in her immediate need. In truth, if Jack only wanted to bolster his own survivability, buying one of the armor sets was a natural choice. It was certainly the easiest choice, considering it would guard him against blows that he didn’t see coming, giving him enough time to prepare a counter-response, but Jack’s encounter with the group of hostile rift goblins had reshuffled his priorities.
+
+Pieces of armor didn’t feel like they would be hard to come by, but Jack didn’t think any ordinary creature would drop a cultivation technique, if any dropped them at all.
+
+He needed a trump card up his sleeve and with that in mind, he addressed Sarah again, “Do you think you can buy me a Greater Recovery Pill?”
+
+Sarah blinked as she considered the question and then nodded as she answered, “I can. But… why?” She asked, her confusion audible in her ask. They had both received a king’s ransom in Tutorial Points and it was safe to say that neither of them should be lacking.
+
+Jack took a deep breath, before his expression firmed and he cryptically answered, “I’m going to take a gamble”.
+
+Sarah gave him an incredulous look, clearly not having expected the answer he had given her. For a moment, she looked like she would just up and ask, but given that they were in the presence of two strangers and perhaps recalling the aftermath of what had happened with Trent and Andrew, she reconsidered before she spoke, “Alright. Do you want me to go first?”
+
+Jack considered the question as he fought back the urge to send an approving nod in Sarah’s direction. It was wise for Sarah to not mention the specifics of what they were planning on purchases, given that anyone could access the tutorial shop and see the prices of everything on sale. Even if Marcus and Jin didn’t understand the value of Tutorial Points yet, that would change and if they observed keenly enough, they would realize just how difficult, bordering on outlandish it was for a group of two to amass the TP required for the purchases; TP that had been granted to them for rescuing Marcus and Jin.
+
+It hadn’t escaped Jack’s attention that the two former captives and now survivors shared the same classes as him and Sarah.
+
+“No,” Jack replied after giving the matter thought. “I don’t think I’m going to learn anything from your purchases. On the other hand, I can give you the opportunity to make a more informed decision.”
+
+“I see,” She said, before reaching for her left pocket that was hidden beneath her tight-fitting goblin armor, before flicking a pill in Jack’s direction. “I bought another along with a body refinement stone,” She explained, as Jack caught the pill with ease.
+
+Jack pocketed the pill and then, there was nothing holding him back from the decision.
+
+He confirmed and twenty thousand TP were subtracted from his available balance in the blink of an eye. He caught Jin’s curious gaze from where she was seated, but any remark she might be wanting to make was withheld as Jack reached out to his inventory and pulled out a slender canister that was cool to the touch, it’s metallic surface appearing to be a soft gold, with an eye-catching silver etching that his gaze was drawn to. A four-legged serpentine creature with reptilian eyes seemed to be depicted swiping at another of its kind, except the second beast was splayed beneath it with its eyes shut and a hole in its neck. In the clawed hand, the victorious serpentine creature held a gem in between its claws, one that was dotted with small lines.
+
+Jack’s gut told him those lines could be veins, making the gem the beast’s heart equivalent. He hoped that the essence syphon art didn’t require ripping out hearts with his bare hands, but Jack was twenty thousand tutorial points in too deep for him to hesitate now.
+
+Plucking the lid of the canister open and stashing it in his pocket, Jack reached for the scroll contained within. The scroll’s rollers were cylindrical lengths of silver capped by golden spindles that depicted the serpentine beast’s roar.
+
+Jack didn’t hesitate as he unfurled the scroll and held it before him. There were lines upon lines of densely packed words in a language he had no hope of understanding, words that glew in luminescence from an ordinary deep-brown to an ethereal gold that grew in vibrancy with every passing millisecond.
+
+Then, they faded away entirely and information flooded his mind with an intensity that surpassed the imprinting process that came with a new skill.
+
+That was because it wasn’t one skill, it was parts of multiple bridged together by strings that had come to form something greater than the sum of it’s parts.
+
+Something with far more potential.

@@ -1,0 +1,155 @@
+---
+id: 1e03159b-bb5e-5ee8-a0e9-56b994335f29
+page-type-slug: story-chapter-royal-road
+title: "v4c80.2: The Wheel Keeps Turning Part 2"
+slug: 0101-v4c80-2-the-wheel-keeps-turning-part-2
+partOf: beware-of-chicken
+position: 101
+ownLength: 2493
+unit: words
+ownProgress: 2493
+publishedAt: 2024-03-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1537350/v4c802-the-wheel-keeps-turning-part-2"
+royalRoadId: "1537350"
+markedReadAt: "2026-06-29T18:54:56.540Z"
+---
+
+The days continued, sunrise and sunset winding into each other. The cold wind began to blow even in the south, as the trees began to change colours. The harvests of the mortals were reaped in full, the ground in the morning started to be coated with frost, and the fall rains poured from the heavens upon the Grass Sea.
+
+Great herds of bison and deer continued their unending march, heading south, where the winter would be milder. Many would come to shelter in the Grand Ravine, where there was always at least some grass exposed, and the clear running water rarely froze.
+
+They were preyed upon by tigers, ripperbeaks, wolves, and the occasional Spirit Beast. So too did the people of the Grass Sea take their bounty, as the herds marched past them; yet even they could not make a dent in the vast numbers of herbivores, fueled by the green of the Grass Sea.
+
+Fall had come, at last; a deep breath before the snow fell, and winter was truly upon them.
+
+================================
+
+The cycle of seasons marches ever onwards, Liu Xianghua mused as she sat on a balcony.
+
+The Dueling Peaks had hundreds of such platforms, and the lower reaches of the mountain had turned scarlet, orange, and gold as the trees changed colours. Today, there was no work; a day of rest, and one that Xianghua was grateful for. Instead, they were observing the fall colours, one of Master Jin’s traditions, and watching over the town below as it prepared for the Mid-Autumn festival.
+
+Despite the coming cold, the entire town seemed to be in a festive mood; men practised for the dragon dances, women carefully inspected the puppets and the clothing, repairing as needed, and children dashed all about the town.
+
+Xianghua smiled at the peaceful atmosphere and stretched her arms above her head. She had needed this break. Running a sect was hard work, but she was fully capable of the task. She had been learning since she had been a toddler, after all.
+
+If she was honest, the pressure was immense. All of a sudden, she was responsible for everybody and everything. It was a grand task, and one made more complicated by the state of the sect. Her fool of a sire had been rather lax in some of his record-keeping. There were some mortal villages that hadn’t been visited in nearly a decade, and even worse, he had not been performing his duties as outlined in the sect’s founding document. The head of the Misty Lake Sect was to open the festivals of the mortals, and her father had simply sent somebody else, uncaring about the “wastes of time.”
+
+Absolutely, positively unacceptable.
+
+The man’s only redeeming quality is that he hadn’t abandoned all his oaths and all his senses and was actually on top of the petitions from the mortals, as was their right, even if many of the petitions had stalled with the sudden instability any power transfer brought.
+
+Elder Bingwen, at least, had made great strides in resolving those issues, but he still needed the Sectmaster to have the final say. The man had been an immense help, and he was in charge whenever Xianghua was absent. Some might find it strange to trust the man who had led the charge in deposing her father—but Xianghua was fairly certain she understood Elder Bingwen. The man cared only that the sect was strong and righteous.
+
+Oh, Xianghua was certain that he had liked ruling the sect, but Elder Bingwen was the pragmatic sort. Xianghua made them stronger, so he gladly relinquished control. The entire sect was swelling like a spring river, the rediscovered teachings of their ancestors and the steam furnaces propelling them to new heights.
+
+It was a new dawn. The sect was united like never before. The councils were fruitful and productive—even when Xianghua had to speak with the woman who birthed her. They had an understanding between them. The woman did her job, and Xianghua did hers.
+
+Integration into the alliance, training regimens, diplomacy… it was all under Xianghua’s purview now. Though she was getting a bit tired of running back and forth between Misty Lake and the Peaks. She had gotten the travel time down to a day and a half at this point.
+
+But running the sect was not all she did—she was an integral part of the alliance here, if she did say so herself, assisting where she could. Her days were full to bursting.
+
+The lack of a defined routine she could follow was starting to wear a bit, and having to remember so many faces and people was exhausting. At least her act still worked… mostly. Some people were getting harder to read, as they stopped treating her like a Young Mistress and instead a Sectmaster. She may have to rework her entire act, and that made her soul leave her body just a little bit.
+
+But today, there would be no work! None! She could recover herself and truly appreciate the fall colours with her friends, even if she wished she was with her Gou right now. Sitting in his lap and watching the leaves fall would have been very nice! Especially if Bowu was in her lap so he could tell her all about the new things he had made! And Mother Hu Li and Father Ten Ren would be there too, as well as Lady Meiling and…
+
+Xianghua pouted a little bit, then took a sip of her tea to wash away the budding grumpiness before she returned her attention back to her friends who were sitting with her. They were acceptable too. Especially since Xiulan had gone out of her way to make Xianghua’s favourite tea.
+
+‘Perhaps we should tell them?’ Tigu asked from where she was sitting. At the moment she was a cat. ‘Maybe knowing that there are already other Spirit Beasts among them would smooth things over?’
+
+Xianghua blinked at the conversation, before she recalled what they were talking about. The Crystal Hill monkeys joining the alliance had been a bit strained. Most cultivators didn’t know how to act around the friendly Spirit Beasts. Things were awkward and stilted and there had been some inadvertent insults as the monkeys were treated like animals instead of the cultivators they were. Thankfully, disagreements hadn’t escalated to blows, but the worry was always there. It helped that Master Gen was very visible sitting among the Elders, and the monkeys were very present in various rebuilding efforts.
+
+“It's up to you, Tigu,” Xiulan replied. “I do not know what the reaction will be. I just know most won’t be as subdued as others.”
+
+At this, Xiulan turned and smiled at where Delun was sitting. Delun, Loud Boy, Rags, The Torrent Rider, Shaggy Two, and Huo Ten the monkey were all sitting around Yin and using the heat she was producing to roast rice balls. The woman was currently in rabbit form, content to be used as a portable stove, lying underneath the metal mesh that served as the grill.. All of them were chatting about something and laughing.
+
+Indeed, Delun’s reaction to finally figuring out Tigu was a Spirit Beast had been quite amusing… and proof of his nature. He had looked a bit shocked, then he had pondered for a moment, then he had spoken.
+
+“Tigu is Tigu, no matter the form she takes,” the man had said with a shrug.
+
+Xianghua smirked before considering Tigu’s question. “I think we should stay the course. I believe it is helping with you being so casual with them. The others look to you for guidance, and if a “human” reacts like this to them, they will follow suit.”
+
+Tigu sighed. There was a pop, and then she was human again. “Feels a bit like tricking people.”
+
+Xianghua shrugged. “Then do as you please. We shall deal with any problems that come up together.”
+
+The woman smiled. “Thank you, Misty Lady. Truly, my Brother Disciple had a good eye to find such an exceptional woman!”
+
+Xianghua chuckled, and Xiulan rolled her eyes.
+
+“You can thank me by not talking about work, fool,” Xianghua deadpanned.
+
+Tigu blushed and scratched the back of her neck.
+
+“Though, speaking of our Junior Brother,” Xiulan said. “Delun has mentioned difficulties in repairing some of the core structural components of the mountain—for all that we can repair the mechanisms… there are no true architects here for the task. I think I’ll be asking him to lend us a hand, if he can be spared.”
+
+“He already has a most worthy and pressing duty assisting Master Jin,” Xianghua demurred. “But it would be nice to see him, if only in an advisory role.”
+
+Gou Ren, aiding in this? Being by her side so she could refill her reserves of energy? It would make her a thousand times more efficient!
+
+The thought put Xianghua in a better mood.
+
+After that, things did change to lighter topics. The Mid-Autumn Festival, for one, and what they would be doing. It was a good conversation!
+
+Then, they finished their tea and all went for a walk through the forest on the mountain, to properly admire the colours.
+
+Xiulan scoured the entire mountain until she found a red maple tree and started making a crown for herself out of it.
+
+“You know, there would be fewer comments about you being Master Jin’s woman if you stopped wearing so much of his symbol,” Xianghua noted.
+
+The look on Xiulan’s face was most amusing.
+
+=============================
+
+Across the Grass Sea, and in Grass Sea City, another man prepared for the Mid-Autumn Festival—or rather directed the preparations.
+
+And directing festival preparations for the city of over a million souls, and probably the surrounding lands that held millions more, was certainly a trying endeavor—but also ironically a lot easier than he had feared.
+
+“Excellent work on the banners,” the Special Inspector, Acting Lord Magistrate of Grass Sea City, complimented one of the work gangs who were making fresh banners for the interior of Underbridge. The men grinned and slapped each other on the back. They were rough lads, some covered in tattoos and most scarred, but they did good work. “Let's get these up. Report to Mister Lung for payment, afterwards.”
+
+“Yes, Special Inspector!” the probably previously gang members said, smiles on their faces. The Special Inspector nodded to them, and then turned to the brightly lit interior of Underbridge. It looked great—much better than it had previously, bright and clean, instead of dark and dilapidated. For the first time in living memory too, Underbridge would officially be a part of the celebrations.
+
+Normally the place was completely ignored, the previous administration citing the people as “dirty malcontents who stole everything good.”
+
+Which was an unfortunate comment. Sure, the people were poor, but back home in Verdant Hill, the poor weren’t any lesser or dirtier, they were just poor. His Honourable Father’s methods on how to make the place better and reduce crime worked wonders, and he was a little bit baffled that the previous administration had such a hard time imposing order.
+
+All you had to do was go down and talk to them like they weren’t simpletons, and things got done. Tell people what you want, pay them the amount you said you would on time, and the suspicious looks instantly turned into polite deference. Hells, the guards previously refused to enter the place except in force… so he had gone and done the patrols himself. Now, little patrols were there, accompanied by Boss Tanhui’s men, and the thefts and violence had dropped like a rock into a river.
+
+The people he had the most trouble with were the remaining nobles. They schemed and they politicked and they looked for any slip-up he could make. He checked his drinks for poison whenever he was around them. That was the hard part, and the part that had him wishing for his replacement to hurry up and arrive already.
+
+He’d give the man his functioning city, that didn’t have anything obviously wrong that could be blamed on his management in it, and then he could escape to a less stressful job!
+
+Or maybe go back home, escape from being Special Inspector forever and sleep on his parents’ couch for the rest of his life. Maybe inherit Verdant Hill?
+
+It was a pleasant thought that kept him going throughout the day, making sure everything was running smoothly, and waving to the people who called his name.
+
+He kept his smile wide, as he met with the nobles again, and listened to a couple of them complain about how much he was paying workers.
+
+He finally got to his room, screamed into his pillow for thirty seconds, and then got ready for bed.
+
+The only good part about this was at least he wasn’t causing his parents any stress.
+
+==================================
+
+Ming Jie was on one knee as he bowed his head before his Lord and Lady. His Master’s face was stone, while the Lady was smiling.
+
+It was not a nice smile. In fact, he was rather terrified right now.
+
+“This will be a long and arduous journey; the first of many, and the first long distance test,” the other man in the room said. Some manner of cultivator who served the Patriarch. And was that not a fascinating idea? Only the Master of Verdant Hill could have such a retainer.
+
+“Yes, I will write down everything and make note of any problems,” Ming Jie reported, his head bowed.
+
+“Excellent,” the Lord Magistrate said. “Thank you, Ming Jie, for volunteering to go so far.”
+
+“It is no trouble at all, Lord Magistrate. It's an honour and a pleasure.” And it truly was. He had already done the first rounds in Verdant Hill and to the outlying villages. Ming Jie liked to travel, honestly, and this new mail system his Lord was devising was truly ingenious! He planned to spread it over all the province—and Ming Jie would have the honour of being the Lord Magistrate’s eyes and ears in how he could implement it.
+
+“Then please, go, and deliver this message to our son. To his hands only,” Lady Wu said. “To Pale Moon Lake City first. Because our son is certainly not lying to us about his peaceful school life, and if he is I’m going to tan his hide…” The last part was furiously said under her breath, the woman’s smile turning malevolent.
+
+“Yes, my Lady. Not rain, nor snow, nor sleet, nor hail, nor rampaging spirit beasts shall prevent your words from being delivered,” Ming Jie swore.
+
+And then he set off, his head held high, his delivery for the Young Master safe and sound.
+
+=========================
+
+“It's probably just a coincidence that the new Lord Magistrate has the same name as our boy,” the Lord Magistrate said to his wife after Ming Jie left.
+
+Lady Wu twitched. “It had better be.”

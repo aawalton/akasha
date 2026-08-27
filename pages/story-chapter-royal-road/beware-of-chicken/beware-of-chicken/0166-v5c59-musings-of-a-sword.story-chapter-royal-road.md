@@ -1,0 +1,267 @@
+---
+id: e697b17d-5fe5-5e91-919b-00a641fcb3c9
+page-type-slug: story-chapter-royal-road
+title: "v5c59: Musings of a Sword"
+slug: 0166-v5c59-musings-of-a-sword
+partOf: beware-of-chicken
+position: 166
+ownLength: 4192
+unit: words
+ownProgress: 4192
+publishedAt: 2024-11-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1882180/v5c59-musings-of-a-sword"
+royalRoadId: "1882180"
+markedReadAt: "2026-06-29T18:56:59.998Z"
+---
+
+The morning after Shen Yu returned to Fa Ram
+
+=================
+
+It's raining.
+
+“Victory!” somebody yelled.
+
+He can’t feel anything.
+
+“Victory! Victory!” the men around Shen Yu cheer.
+
+He can hear their happiness.
+
+“Shen Yu! Shen Yu led us to victory!” somebody cried, raising his blade high.
+
+The words are true. They’ve won. He's won, again.
+
+But all he can see is the one person who mattered to him, laying dead in the dirt, the price paid for another one of Shen Yu’s victories.
+
+==============================
+
+Shen Yu woke from the familiar nightmare with a grimace. It had been his first time actually sleeping, rather than entering a state of meditation, in quite a long time… but he was truly exhausted. This temporary weakness was allowable considering the previous day’s events. It wouldn’t do to indulge too often, but he felt quite refreshed, even if he was objectively still in a sorry state. All that mattered was that he was in a warm home and Jin was alive. He cast the memories aside.
+
+Still, he looked up, just in case.
+
+The sky was still dark, the room lit only by the dull glow of the fire and the light emanating from the coloured glass balls on the walls of the house. It lent a pleasing, warm effect to the affair.
+
+It reminded him quite a bit of Minyan’s cabin in her first skyship, the Breeze Dancer. So long ago they too had all been sprawled out together, fresh from their own victory against a Demonic Sect.
+
+…perhaps that was why he had asked Minyan for help. He normally wouldn’t have, but last night the camaraderie had truly infected him.
+
+His eyes locked onto Jin. He was sleeping propped up on a pillow, sitting and only slightly reclined. His was a pose of a warrior not quite ready to truly rest; should there be any commotion, he would be the first up to deal with it, as a true man should. Despite it all… his face was at peace, his brow was unfurrowed.
+
+And why should his brow be furrowed? He was victorious.
+
+Shen Yu let out a breath and smiled, warmth filling his stomach.
+
+Shen Yu’s cultivation had been set back a full realm, with only the dregs of his previous heights remaining. His body and soul were riddled with holes. He had cracks throughout the rest of his cultivation, some of the damage almost reaching to the foundation.
+
+Centuries of work was gone. And yet there was no despair in the loss. His grandson slept, victorious. Alive.
+
+It was the closest that Shen Yu had been to death in centuries. It was the most damage he had probably taken in his life—yet he lived, triumphant and victorious.
+
+Better still, it was a shared victory. Too many times had the Unconquered Blade been the last man standing on a field of fallen comrades. The sole survivor, the only one strong enough.
+
+Something precious to him, something dear to him that he considered fragile, had been directly attacked. But when the desperate hour came, so too had Jin risen to the challenge. He had met it head on, took all it had to strike him with, and then defeated it utterly.
+
+Indeed, what could a man be other than pleased after hearing that his grandson fought a running battle against three Earth Realm Cultivators at once and then another construct peaking at the Sky Realm? His grandson, who was merely in his twenties?
+
+How magnificent.
+
+They had not emerged completely unscathed. He would mourn Nezan as a martyr, if the fox’s core was completely unsalvageable—but he could not stop the feeling of relief that was in his heart.
+
+Shen Yu let himself smile as he ran though Jin’s recounting once more. The boy had been sharp, decisive; he had acted well with what little information he had. He would have made a magnificent leader of armies. Shen Yu had felt his pride swell as he described each blow that he had suffered, and with each one he had dealt in turn.
+
+Electrocuted by a man using his vital Qi.
+
+Poisoned by a powerful demonic cultivator.
+
+Fighting against three at the same time, and standing victorious.
+
+What warmed him most was the knowledge that Jin had done it largely upon the diligently-practised basics Shen Yu had taught him. His years running the boy ragged with lessons worked.
+
+It had taken Shen Yu two hundred years, studying thousands of styles and distilling them into their purest essence, to form his Immortal Foundation Arts. It was the closest thing to perfection he had ever made. It was to be his gift to the first he found worthy of being his disciple… or his children.
+
+Bu had learned it first. Many an hour he had spent with his son, teaching him. They were some of his fondest memories. And yet, by the end, no trace of the style had remained, lost and tossed aside.
+
+Jin held to it still. The knowledge was bittersweet, as it always was.
+
+A small tinge of sadness reached Shen Yu’s heart that his grandson's mind was not truly on the path of traditional cultivation, for the Unconquered Blade could see the unpolished greatness… but Jin had made his choice.
+
+A different path, his own. He had sworn he would defend this place against every threat, to create a heaven upon this earth.
+
+He made good on that oath. And while his grandson had shouldered the heaviest burden, each and every person here had helped to lift the titanic boulder.
+
+His eyes shifted from his grandson’s face to the side. Little Mei was using her husband’s thigh as a pillow, their son Zhuye tucked into her breast. Her breathing was slightly uneven due to the internal damage she had suffered from the poison cultivator, rasping along. Her contribution was easy to overlook—yet she had been vital for their victory, staving off injury and death and dueling the poison cultivator. Poison cultivators fighting inside another’s body was like a mortal’s knife fight in an alleyway—dirty, brutal, and savage, where the smallest margins meant death.
+
+Cai Xiulan was on Jin’s left side, similarly sleeping partially upright. One of her swords rested against her shoulder, her robe falling open slightly, exposing a raw, angry looking crack in the middle of her chest. The edges were charred and flaking, as if the golden seam had heated up so much it had begun to cook her. Her hand poked out of the bottom of the blanket, her hand resting in Jin’s upturned palm.
+
+The woman had transcended her limits somehow, according to her story, with the aid of mortals, to punch up into the Earth Realm. The feat had obviously taxed her—but that was the sort of thing that had one’s name resounding through the world. A talent that nearly equaled Bi De, in his own opinion.
+
+He was still a little unsure of her relationship with Jin and Meiling—but there was something deep there. Whatever it was… it was good.
+
+Movement caught his eye, and he finally stopped staring at his grandson. His other disciple, Bi De, was stirring. The sun was still hidden, but the rooster knew his calling. He gently extracted himself from Ri Zu and Yushang, and with a small pop he was in his natural form.
+
+Jin and Meiling’s eyes both snapped open at the sound, both of them fixing swiftly onto Bi De, who was in the middle of bowing to Shen Yu in greeting. Jin and Meiling looked at each other, then their eyes closed as their breathing evened out.
+
+Shen Yu nodded at his disciple. The rooster smiled. He spared a glance at Jin, and seemed buoyed by his Master’s closed eyes and even breathing. With his head held high and proud steps, he exited the house.
+
+Shen Yu heard him hop up to the roof, to the top of the building, where a perch had been crafted just for him. Shen Yu heard his disciple take several breaths.
+
+Little Mei shifted slightly, so she was less curled around her son. Jin had a smile on his face.
+
+The first light of dawn broke the horizon.
+
+Bi De let it be known to the world. The melodious sound filled the hills, resonating with the brightening sky, invigorating, awakening, but not startling. Everyone in the room shifted, roused to wakefulness.
+
+Zhyue’s eyes snapped open. The babe thrust his arms into the air and trumpeted his own crow, bouncing up and down, a giddy smile upon his face, and his eyes searching for the source of that wonderful, familiar sound.
+
+“I’ve missed that,” Jin said with a soft, warm smile. He brushed some of Mei’s hair out of her face and bumped Xiulan’s shoulder with a smile. “You tell ‘em, Bi De!”
+
+The rooster hopped back in, looking very, very proud of himself.
+
+==========================
+
+Shen Yu gave each and every one who had shouldered the burden their due consideration while his granddaughter and Ri Zu attended to him. The rat was showing Little Mei how things were supposed to work with cultivator medicine. Lishu of the Shrouded Mountain Sect had been an able teacher to Ri Zu… and Little Mei drank in this new information like a woman dying of thirst. Their Qi soothed Shen Yu’s wounds, but they needed to make more medicine before they could truly aid him… and that required Wa Shi’s lightning. However, the dragon was still asleep. Such was his exhaustion that even the smell of cooking breakfast had yet to rouse him.
+
+Truth be told, Shen Yu had pegged the beast as something of a coward—yet when he had to fight, he had fought savagely. He was certain some of the dragon’s tale had been exaggerated, but the truth of the matter was easy to discern, with the shattered remains of the puppet his trophy. Another who transcended mere power through knowledge—the Honoured Founders of the Cloudy Sword Sect would have loved the beast.
+
+Chun Ke, the boar, gently laid a blanket over the dragon as he slumbered. He moved gingerly, obviously injured from his holding action. That he had survived an Earth Realm cultivator’s poison was a testament to his vitality. The boar noticed Shen Yu‘s gaze and smiled at him in silent acknowledgment. He nodded back at the boar, who went over to Spooks, Han, and Shao Heng and began showing them his assortment of nuts, lichens, and dried persimmons, much to the Thunderhoof’s pleasure. Spooks was looking much better today, his wounds mostly sealed and his eyes bright and happy.
+
+“Do we need anything else?” Tigu called out, a bale of rice over her shoulder. The girl was as bouncy as ever, though she had obviously been tempered by her experiences on the road. She felt firm; mature, even. The cheerful girl had swiftly blossomed into a young woman—and it had been a long time since Shen Yu had last felt the sharp cold fire of a Demon Hunter’s Qi. It had been centuries since he had truly seen one in action, the baleful green flame smiting all before the man as he held the line before a demonic rift.
+
+She walked beside Tie Delun, who carried jars of pickles. The tall, freckled man was a good egg. He had joined the defense as soon as he had heard what might happen, offering himself against a foe he knew little about without hesitation.
+
+He was also… well, Shen Yu would not call him a toad lusting after the flesh of a swan. The boy was better than that. If Jin agreed, then Delun was… an acceptable lad.
+
+Shen Yu took his eyes elsewhere as the food was delivered. Pi Pa, in her human form, received it. There was still something raw about her… and he could not blame her. She had confessed to nearly striking Chun Ke when she unleashed her cultivation. The void was truly a terrible, indiscriminate thing… but she had leashed it once more, even after letting it loose. Her fortitude was near equal to Chun Ke’s. She would surely recover.
+
+Yin scooted past Pi Pa and Tigu, her job lighting the kitchen fires done. She yawned and stretched, then scratched at the deep bruises on her neck before flopping down beside the Xong brothers, who chuckled as she began to doze. A woman who had fought multiple opponents a realm above her, and then acted like it was something she should have been expected to do and was upset she had started to flag near the end.
+
+Gou Ren simply sat leaning against his older brother, who had Nezan’s core in his hand. His hope was still strong. He and Yun Ren drew strength from each other’s presence—both brothers were as stalwart as they came. They reminded him a little of Ge and Ran, the two who had been with him through thick and thin, his greatest friends. To think, they were mortals but two years ago. Now they were toppling sects, fighting demons, and crafting fortresses that could withstand demonic assaults with raw Qi reinforcement.Gou Ren had certainly grown mighty. His cultivation, already rock-like, now felt more like a mighty fortress.
+
+Xianghua, who had helped to defeat an entire Fulmination Assault Group without casualties and then burned nearly twenty demons to death in a single technique, looked very satisfied by the fact that her feet were in Gou Ren’s lap while she lovingly repaired both of their headbands, stopping occasionally to look at a scroll.
+
+Not a single soul here had shirked their duty. All had contributed.
+
+Zhang Fei, Shaggy Two, and Huo Ten, who, despite their level of cultivation, had managed to contribute, were even now talking to Bi De and Yushang, the rooster-masked boy animated as he mimed sharp thrusts to his approving Master.
+
+Bei Be, who had cut down his fair share of the enemy with a plow. Miantiao, who had leapt in front of Meiling when he thought her down, ready to give his life rather than have her hurt when an artificial demon had barged into the room.
+
+Even the bee, Vajra, had done her duty… and was by all accounts essential. To think, even insects upon his grandson’s farm had the soul of heroes.
+
+Again, Shen Yu was inordinately pleased. What man would not love to have his grandson be surrounded by such a wealth of heroes?
+
+“This is as much as we can do,” Little Mei said as she removed her hands and interrupting his thoughts.
+
+“Thank you, granddaughter,” Shen Yu replied—and he truly was. Little Mei bowed to him, and then from Shen Yu they next went to Yingwen. The member of the Shrouded Mountain Sect was still awkward, but the boy was polite enough, revealing the leg Ri Zu had transplanted onto him. The woman preened under her Master’s praise, while Fenxian looked amused.
+
+Both men had proven themselves in Shen Yu’s eyes. They had fought well and held to their oaths… but they were both clearly lost in this environment.
+
+“Not at the table!” Jin scolded the women as he emerged with breakfast—and he was obeyed with tittering laughs.
+
+Thus, they had their meal. It was truly as delicious as ever, and they also got a show—as Spooks and Cai Xiulan made the exact same noise of pleasure when they ate.
+
+“Unless there’s anything you need seeing to, Gramps, we’ll start the day trying to wake Zeng up to get the full story from him, then work on the corpses outside. For our guests, please don’t worry about any of that. Tell Pi Pa if you need anything or get hungry or thirsty, okay?” Jin informed everyone.
+
+“I shall require some provisions. After we awaken Zang Zeng, I shall be heading north to resupply Lu Ri,” he informed his grandson.
+
+Pi Pa was given that task, and Wa Shi finally awoke to eat his fill and then go back to dozing.
+
+The sun was barely up when they entered the fortress, Zang Shenhe there to greet them at the door. The Shrouded Mountain Sect disciples were restless, but their behavior had been good. They were supplied with some more medicine, and Jin made small talk with Shenhe about what they needed, while Shen Yu simply settled in to wait. They questioned some of the other members of Zeng’s team while they waited, but the men had little information and had not been informed of their leader’s whole plan.
+
+Naturally, his granddaughter was skilled beyond measure—and with some enlightenment from her, Zang Zeng awoke and was ready to report.
+
+A report that left Shen Yu a bit conflicted. The man was massaging the truth a bit, but not lying. He had clearly been intending to assault Shen Yu’s grandson, and had broken his orders… but he had also been directly targeted by a disciple of an Imperial Realm Demonic Cultivator and had managed to resist both her and a puppet worm in order to act righteously. His interference in the fight had allowed Jin to come out less scathed than he otherwise could have been.
+
+Yet he had also known about the Patriarch and the dark secrets of his sect.
+
+He asked his boy what he wished… and Jin just didn’t care. He would receive healing for his assistance in the battle and leave with his life, as long as he stayed away from Jin’s home forevermore.
+
+Shen Yu washed his hands of the man… and left the Shrouded Mountain Sect to have their internal breakdown. This one was boring to watch, because he quite liked Shenhe, so he went to do his other duty.
+
+==========================
+
+The flying sword strained him, but Shen Yu was not about to admit defeat—and this was also the quickest way, and much faster without having to carry others. Shen Yu arrived at the captured base swiftly, Lu Ri radiating a beacon of Qi to guide his path.
+
+“I see you have been busy, Disciple,” he called when he arrived, casting his gaze at the formerly hidden base.
+
+“Lu Ri greets Master Shen,” the man intoned, bowing politely outside the captured base. Not a hair was out of place, not a drop of blood stained him—despite the several dozen corpses that were lined up and ready for cremation. “Forgive this Lu Ri for the mess; he just finished mopping up the stragglers and was going to commence the funerary rites for unwilling enemy combatants.”
+
+Shen Yu smiled at his voice and actions. Truly, Lu Ri was upon the path of the Founders.
+
+“I bring you resupply. My grandson and Pi Pa assembled the victuals.”
+
+The man perked up at that statement, a small smile on his face.
+
+“You honour me, Master Shen— This one accepts and appreciates your goodwill.” Lu Ri bowed again.
+
+“Nonsense. A reward and an apology must both be delivered in person.”
+
+The man rose and blinked as the words reached him. “Apology? he asked, sounding confused.
+
+Shen Yu clasped his fist in his hand and bowed. “This Shen Yu must make amends. He briefly questioned your honour, and the honour of the Cloudy Sword Sect, when he found you absent from the defense while you were striking at the core of the enemy base. This Shen Yu offers his apologies to Senior Disciple Lu Ri of the Cloudy Sword Sect, and asks for his forgiveness.”
+
+Lu Ri’s eyes genuinely widened and he seemed at a loss for words. The man opened and closed his mouth several times, before he cleared his throat and returned the gesture of respect. “Lu Ri accepts Shen Yu’s apology. Past actions of the Cloudy Sword Sect destroyed a lifetime’s worth of trust, and it is only natural that it will take time to rebuild. This Lu Ri will endeavor to once more make the Cloudy Sword Sect’s honour unquestionable.”
+
+Even in accepting an apology, Lu Ri was above others.
+
+“Shen Yu thanks Lu Ri for his magnanimity,” Shen Yu said, rising and laying eyes upon the man again. “But I will insist upon setting this matter to rights properly. I owe you a boon of your choosing—we shall discuss it further when Brother Ge arrives.”
+
+Lu Ri inclined his head.
+
+Then, Shen Yu looked around as they both began to walk into the base. “You said there was another here, a Yuanlin?”
+
+Had she been here, he would have told her about Nezan’s state. She deserved to know that much.
+
+“Yes, Master Shen. I told her to go back and check on First Den while we wait, to make sure things are still fine. She was instrumental in our speedy advance and finding this base in the first place.”
+
+They lapsed into silence as they began to tour the facility, fully intact in a testament to Lu Ri’s talents and intelligence. He had already captured everything he could in a recording crystal, but had declined to touch the formation should he accidentally set off some kind of warning.
+
+If they could analyze it completely, they could craft their own artifacts and formations to seek out the formation’s unique Qi signature—allowing them to find these anywhere in the world they might try to hide—and for that they needed an intact example.
+
+“Excellent work, Disciple,” Shen Yu said. He had seen enough to give information to Ge when he arrived… but was in no state to start gutting the place himself. “Please, eat. You will be relieved soon.”
+
+Lu Ri bowed and made the gesture of respect, then opened up one of the jars that had been sent along with the meal.
+
+Lu Ri’s eyes widened and a faint smile crept onto his face.
+
+“Ah, Miss Pi Pa has outdone herself,” Lu Ri murmured as he ate the sweet.
+
+Shen Yu chuckled and he ascended back into the sky.
+
+===================================
+
+He returned about an hour before midday with his joints screaming at him. He briefly checked on the Shrouded Mountain Sect, who were all in varying states of shock, before dismissing them and going to observe what Jin was doing.
+
+His grandson had out a piece of paper, a chart, and was getting people to use their techniques on the pile of corpses in thirty-second intervals.
+
+Curious, he had asked—and Jin had told him about the charts, the intervals, and repeated testing, as well as the different “states” of Demonic Qi.
+
+Jin’s information was not new… it was just not often so quantified. Most scrolls were rather vague about the phenomenon. Demonic Qi was not generally completely static. It could change “states” quite readily—doubly so in some techniques where the Demonic Qi actively fought back, so it was generally best to learn how to grind it down with one’s own Qi.
+
+It was slow, but it worked, and could readily be done with meditation and while cultivating… and so most were simply left to figure out the “states” by themselves.Even the Cloudy Sword Sect seemed conflicted on the changing nature of Demonic Qi. There was much discussion about it amongst the Founders of the Cloudy Sword on the phenomena, but they all called it something different, or had different terms for it—to say nothing of other sects.
+
+His grandson’s understanding was perhaps not complete, but the theory was understandable in a way most weren't. The organized, repeatable tests swiftly collected data, and the writings produced from said data were easily understandable, enlightening all who would look at them.
+
+Instead of one expert using their Qi and making proclamations about the nature of Demonic Qi, Jin had over sixteen types of Qi that he was experimenting with, from a variety of styles—while other disciples also gave their input and thoughts.
+
+It was an interesting way to approach the problem, so different than what many did.
+
+As it was, the work was not yet done, and Shen watched with pride as Jin frowned at the charts, clearly ruminating on the nature of it. He looked at the results of his tests—then at the Hongs’ siphoning formation, and his own formation for growing plants, and scratched his chin.
+
+“Multi-stage destruction array?” he murmured to himself. “Use different types of Qi to destroy it faster and more efficiently? Or siphon the different states into separate places to destroy them?”
+
+All Shen Yu could do was smile.
+
+Then… to his surprise, the day got even better as Yun Ren ran back to the house, waving Nezan in the air.
+
+The wily bastard had lived.
+
+Shen Yu’s grin stretched across his face. How long had it been, since he had had a victory like this? Where the stakes were so high, so involved with his family, but the price so light?
+
+He did not know. But this victory was not his alone. He got to truly revel in it.
+
+He drank with the fox and made merry with the others, celebrating Nezan’s return—while he waited.
+
+His comrades were surely just past the horizon. They would arrive… and then this victory would be truly complete.
+
+Shen Yu was a cracked wreck compared to what he once was, and yet his smile took up his entire face.

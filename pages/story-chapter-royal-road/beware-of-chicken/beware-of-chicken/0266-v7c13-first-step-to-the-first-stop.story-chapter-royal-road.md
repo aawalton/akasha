@@ -1,0 +1,239 @@
+---
+id: bbc833cf-ff44-50fd-b84f-e6c573dd92e2
+page-type-slug: story-chapter-royal-road
+title: "v7c13: First Step, to the First Stop"
+slug: 0266-v7c13-first-step-to-the-first-stop
+partOf: beware-of-chicken
+position: 266
+ownLength: 2720
+unit: words
+ownProgress: 2720
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2855011/v7c13-first-step-to-the-first-stop"
+royalRoadId: "2855011"
+markedReadAt: "2026-06-29T19:00:32.562Z"
+---
+
+It was time to go.
+
+Last night had been tense, a mix of excitement and trepidation colouring all of our moods during our small good-bye party. Meimei had trouble sleeping, and so did Zhuye, our little man catching the strange energy in the air.
+
+The morning came entirely too swiftly, appearing seemingly out of nowhere. Had we not been cultivators it would have been a miserable morning, all of us sleep deprived and grumpy. Instead it was just one of us—Zhuye had been a very displeased little lad this morning, and neither a fuzzy bee, fluffy fox tail, nor momma’s hair had lifted his mood. At least he wasn’t crying, just huffing and grumbling and giving people the stink eye from Meiling’s arms—though now even he seemed to know something was up, looking around in confusion.
+
+We were all gathered at the gates of our farm. It was a common enough scene; the entire family gathering to greet people, or wave them goodbye. It was just that most of the time I was on the other side of this gathering, looking outward to the world and wishing those who left a safe journey.
+
+This time, I was looking in. Looking in at the people and the home I wouldn’t see for months.
+
+The farm looked beautiful in the early morning light, a slight mist blanketing the edges of the hills that we roamed as we pleased. Green shoots filled every field and garden, our pride and joy reaching toward the heavens. The little graves we had made for Vajra’s bees had sprouted into full splendor, filling the fields with wildflowers that perfumed the air, a fitting tribute to the fallen. Our home stood, warm and beautiful, and full of so many good memories. The land beneath my feet almost seemed to be asking me to stay, promising a wonderful slow summer of pastoral bliss and pleasant days.
+
+My mind grasped onto any excuse to stay for a moment longer; but really, there was nothing to latch onto.
+
+Everything was packed and ready thanks to Peppa and Suyan.
+
+I turned to the group of people, surrounded by a veritable army of bees who were either settled on the fence or buzzing around—there had to be nearly a million of the insects, all of them watching and waiting.
+
+I let out a breath, and made myself move.
+
+It was time to go.
+
+“See ya soon Gramps.” I said, clasping forearms with the old man, then pulling him into a hug.
+
+Gramps chuckled. “Indeed you shall. You think I am going to miss the great show of my grandson taking a province in hand? I’ll have to get out the good vintage for that!” he declared, slapping my back.
+
+I snorted. “Worry not grandfather, they shall know of this daddy’s might!” I declared pompously, rolling my eyes.
+
+Gramps pulled back, laughing. He looked at me, and whatever he saw caused him to nod.
+
+Next up were Chunky and Peppa, both in their natural forms. The two stood together, islands of peace and serenity. Chunky had a soft smile on his face, not a hint of doubt or anxiety on him. Peppa, leaning against him, caught my gaze and offered me a smile of her own.
+
+“Safe travels, Big Brother,” she said, breaking from calling me ‘Master’ just this once. Her voice was soft, quiet, without a hint of uncertainty.
+
+I hugged the pig and the boar around their necks, patting their flanks. They nuzzled into my side. “I’m gonna miss you two,” I whispered back.
+
+“No need to miss; we meet in dreams. Will be fun,” Chunky replied, and I paused.
+
+“Ain’t that the truth,” I said, realising he was right.
+
+Next was Yun Ren.
+
+“We’ll be around in a bit, yeah? I’m almost done with Gou’s checklist. Now nobody can say I'm slacking,” Yun Ren huffed.
+
+I laughed and thumped him on the shoulder. “Eh, you’ve done an alright job,” He jabbed me in the gut for my cheek, and then I just pulled him in for a hug too, making him squawk.
+
+“Take care of everyone, Yun. You got more than your brother looking to you for guidance now,” I whispered into his ear.
+
+Yun Ren stopped struggling and sighed, returning the hug. “Don’t I know it. Man, I just wanted to wander around recording cool images…” he grumbled. He didn’t offer any protests, which was good—we both knew the foxes held onto his every word.
+
+“Still, it suits ya. The Young Master of the Su Clan is an upstanding fellow,” I said, stepping back.
+
+Yun Ren blinked in surprise at my statement, then his cheeks heated.  “Why do you gotta be all sappy,” he complained, but his heart wasn’t in it. “If you get there first, tease Gou Ren for me, yeah?”
+
+“Of course! Who do you think I am?” I sighed and shook my head, turning to Biyu. “Keep him on his toes, Sister.”
+
+The owlish woman giggled, then opened her own arms. Biyu had quickly adapted to my brand of affection, and seemed to enjoy the fact that I liked to hug people.
+
+“Of couse~” she singsonged. “And remember to put my new baby through its paces, okay?”
+
+I tapped the recording crystal she had made for me; a still image type. “I might need another before we’re halfway done,” I promised.
+
+Bowu and Noodle stepped up after I released Biyu, the two of them offering their own goodbyes.
+
+“Will you even notice I'm gone?” I joked to the two of them. They had been absolutely consumed with their work recently. Both the young man and snake chuckled.
+
+‘I’ll make sssssure he doessss not work too hard,’ Noodle said, tapping his tail against Bowu’s cheek. ‘Ty An will alssso make ssure of thissss.’
+
+That made Bowu blush… but less than he used to when the topic got bought up.
+
+“Just have a good time, Big Bro,” Bowu said, changing the topic. “By the time you get back, I’ll have the next iteration done!”
+
+“I don’t doubt it!”
+
+I released the two of them from the embrace, and moved onto Spooks, wrestling with the young Thunderhoof for a moment. He laughed as we “locked horns” and pushed against each other, before we released each other, and I wrapped an arm around his thick neck.
+
+“I meant it, stay as long as you want. Any of your people can,” I told the kid, and Spooks grinned.
+
+‘Thank you. And if you ever want to see the Ice Heart Forest, Master will be happy to meet you. Walk tall, Master Jin.’
+
+I patted his flank twice, then turned to where Vajra was. I held out my hand, and she launched herself from where she was resting on the fence. I patted her little head, and she wiggled cheerfully.
+
+“Keep up the good work, Vajra. And thank you for the guards.”
+
+Zhuye had a complement of bees with him, including one that Chunky said had an actual name: The Bane of the Black Lances, which was a hilariously badass name for a bee, especially one as seemingly docile as her. She was also the one Zhuye liked to chew on the most. We wanted to test out the range she could connect to her soldiers, and if anything went wrong, she might be able to tell us before Tianlan.
+
+Another wiggle was my answer, and I released her to fly away. A little rat scampered up my leg and onto my vacated palm. I pressed my forehead to hers.
+
+“Have a good trip! Adventures are hard… but Ri Zu really likes them!” she squeaked, before leaping off and going to Meiling.
+
+And finally, there was the last one.
+
+A rooster stood before me, his back straight and his head held high. I knelt down before him.
+
+Big D was nervous. I could see it in his eyes and the way he held himself. He was worried about taking charge of the farm again, after what had happened last time with Chow Ji and the rats.
+
+He was as nervous about me leaving as I was.
+
+I reached out, and placed my hand on his shoulder.
+
+He didn’t need words of affirmation or a speech on how much I trusted him. I just looked into his eyes, and nodded.
+
+It was a simple thing, but that was all he needed. The disquiet in his eyes faded. He nodded back.
+
+“I’ll be seeing you, buddy,” I pulled him into a hug. “Thanks again for the present.”
+
+There were going to be no roosters on our trip… so Big D had recorded his own voice, giving Zhyue something familiar to wake up to in the morning.
+
+“It was the least I could do,” he said back. “Safe travels, Master.”
+
+I held him for a moment longer. And then the moment broke.
+
+I rose, and turned away, back to the carriage.
+
+Babe had hooked himself up—I didn’t mind pulling it, but he had just said it was good training. His plow was packed away as well, Sunny sitting pretty on the back of the carriage.
+
+Washy was resting in his new jar, lounging like an emperor in the cloisonné vase Noodle had made for him. It was as decorated as a palace, a fierce dragon commanding storms shimmering upon it, Washy in his full glory.
+
+Suyan was standing beside the carriage, a small smile on her face; Yun Ren and Biyu had wished her goodbye as well, and had given her a recording crystal that she could use during  her time off.
+
+Everyone was around Meimei and Zhuye, giving them their last kisses and goodbyes—and then Meiling too turned around, walking up to me, and leaned into my side. Zhuye looked up at me.
+
+“Goodbye, everyone!” she called, waving. Her eyes glistened, but no tears dripped down her face.
+
+“Goodbye!” my family shouted, waving back.
+
+“We’ll see you all soon!” I said.
+
+“With tales of tasty food!” Washy added.
+
+‘And many great stories of the road,’ Babe completed.
+
+“Ji!” Zhuye shouted, his little hands copying our waves.
+
+I gave everyone one last glance. I took one last breath of my home’s air. I felt a tiny hand made of gold brush along my hair. Tianlan settled invisibly on my shoulders.
+
+The spring wind blew, warm and full of life. The carriage rolled smoothly into motion.
+
+A rooster let loose his cry from behind us.
+
+“You tell ‘em, Big D!” I shouted back.
+
+We took our first steps onto the road.
+
+==============================
+
+Our first stop was, as always, Hong Yaowu. The village was full of hustle and bustle, Bowu Machines puttering around through the fields Gou Ren had designed. Yao Che’s forge was as busy as always, more full now than ever with the addition of two people having the Su Clan’s narrow eyes. Twin brothers—an extreme rarity in the fox clan—were learning to forge from the older man. Ty An was watching on, looking happy that the new apprentices were taking on the bulk of the work, even as she fiddled with a steam furnace. Children of Hong Yaowu, the Nezin Tribe, and the Su Clan raced through the village, laughing and playing games.
+
+The village was vibrant and lively, but we didn’t stay long. We said goodbye to Pops, Senior Brother Lu Ri, Miss Nezuhua, Ten Ren, Hu Li and the rest of the villagers.
+
+Meiling’s father and brother held her close; Little Xian was upset he couldn’t come, but not too much.
+
+“Bring me back sweets!” he demanded in recompense. “And something cool to carve for Liu. She's kept up the carving Big Sis Tigu taught her, and she's getting really good!”
+
+“How about I bring you some medical books instead?” Meimei teased him.
+
+Xian started to make a face… then schooled his expression and bowed. “Those too, thank you sister! I’ll study hard!”
+
+Meiling’s own eyes widened at his maturity before the shock turned to warmth. She ruffled her little brother’s hair, hugged her father tight, and then we were off again.
+
+==========================
+
+Verdant Hill was our next stop. We took some time saying goodbye to Meihua, Tingfeng, and Jinhai, who was now two, puttering around under his own power, and calling me “Unca!”
+
+He was cute as hell, and Meihua took the time to gush about how smart he was. Meihua was pregnant again as well. She was positively glowing, and this time Meimei didn’t fuss over her quite as much as the first time.
+
+Our second stop was meeting with a certain old lady and her husband, after we sent Suyan and Washy to get some last minute supplies. I trusted Suyan enough, but this woman had asked for her privacy. I brought along the things I had promised her.
+
+“Your tribute, My Lady,” I said with exaggerated respect, presenting some of the food and drink I had promised them for warning us about the impending demon attack.
+
+She sniffed imperiously at my presence. “Good, good! You know your place well!” she declared—before her good eye snapped to her husband and her goat, who were both eyeing the food with extreme interest. “Pace yourself, you greedy beasts!” she scolded. “Look at this, they’ll get fat because of you!” she complained without heat, petting the orange, three-legged cat in her lap.
+
+Her house was nicer than when I had last visited. It was no longer as cramped, stuffy, or cold. Shu had obviously put in a lot of work making the house nicer, and all of the old lady’s carvings now had proud display shelves.
+
+“Please forgive us, grandmother,” I begged, smirking. She rolled her good eye. “Big D is going to be delivering the rest of these for us while we’re in the south.”
+
+She paused, and sighed. “I see. Going into the viper’s den, eh?”
+
+“Needs must,” I replied, and she nodded. “You stay safe, okay, grandmother?”
+
+I started to leave, and her hand reached out, grabbing my sleeve.
+
+“Not going to ask for a reading?” she asked after a moment.
+
+I considered her. “Is there anything world ending?” I finally settled on. She blinked.
+
+“Not that I can see.”
+
+“Then I’ll let the rest of it be a surprise. If I don't know what's going to happen, there won't be any self-fulfilling prophecies.”
+
+The old crone snorted at my answer, a slow grin spreading across her face. “I suppose you’re right. A wiser answer than most.”
+
+I winked at her, and set off.
+
+===============================
+
+In Verdant Hill, too, the entire population had turned out to say goodbye—though not to us.
+
+Instead, nearly three thousand people—the town's population, and people from the nearby villages— had gathered in the town square, listening to the words of the Lord Magistrate as he explained that he was going, who would be in charge, and how long he was expecting things to take.
+
+“I will be gone for less than a year, but my heart shall yearn each day for the moment I return to the commandery,” the Lord Magistrate finished, smiling around at the gathered townspeople.
+
+A great cheer erupted at his words.
+
+“A thousand blessings, Lord Magistrate!” the crowd shouted.
+
+“Patriarch, return soon!”
+
+“Three cheers for the Lord Magistrate!”
+
+“Look at the Lord Magistrate, being ferried to and fro by cultivators—truly, he is a powerful man, to have such connections!”
+
+All of them shouted for him. The Lord Magistrate offered them a smile and a nod, then turned to enter our carriage, along with his wife, the Auditor General, and the only member of his staff that would be coming—Xue Ji.
+
+Who was mostly there for deterrence. There was a chance that the Wus would attempt to escalate, and hire cultivators to do some dirty work.
+
+So Xue Ji had volunteered herself as bodyguard, just in case. The rest of their protection would be the Azure Jade Trading Company’s elites, and their security forces were no joke.
+
+And so we took our first true steps on our journey.
+
+Our first destination? It was a bit of a detour, but still on our way south, and who had been informed of our coming. A place that I had quite a lot about, from Tie Delun.
+
+We would be making a quick stop in the Ironfields—and I would be meeting the Hermetic Iron Sect.

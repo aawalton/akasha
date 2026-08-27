@@ -1,0 +1,171 @@
+---
+id: 4faaa3ad-8fed-5c7f-a824-59ce0f154256
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 36 - Perks"
+slug: 0040-b3-chapter-36-perks
+partOf: bookbound-bunny
+position: 40
+ownLength: 2032
+unit: words
+publishedAt: 2026-05-02
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3344447/b3-chapter-36-perks"
+royalRoadId: "3344447"
+---
+
+The rest of the week went by pretty much the same, with the only odd exception being that there was no practical lesson for Dungeon Studies this time. Although after the long camping trip they just had, it was understandable.
+
+As the weekend approached, the first-years were already excitedly talking about exploring the first floor of the dungeon and trying to beat it. Since beating the floor wasn't a test or faction activity, this meant students could form their own teams or even attempt it solo, and friends who were separated during the camping trip were eagerly preparing.
+
+Lily wanted to join in on the enthusiasm, but if she was completely honest with herself, she was still feeling slightly under the weather. She wasn't sick or anything, but there was this niggling feeling that she wasn't at one-hundred percent.
+
+[Sorry, Lily, this is probably a lingering effect from my intervention. I suggest you just rest, as you'll have plenty of time to catch up. The dungeon isn't going anywhere.]
+
+So while almost everyone was anticipating an exciting weekend, Lily was planning a quiet one, drawing glyphs in her bedroom. Her friends popped by from time to time to check if she was alright or wanted to go exploring with them, but she politely declined.
+
+Lotte didn't seem to mind and actually only poked around on the first floor for a bit before leaving, opting to also take a bit of a break. Hana, on the other hand, was devastated.
+
+"Arthur, Wallace, and Thomas are exploring the first floor together… Don't you want to beat them reaching the second floor?"
+
+"Maybe we can next weekend…" Lily suggested. "Sorry, but I want to catch up on glyphs and runes before I go into the dungeon. I also need to work on my next bloodline spell."
+
+Hana sighed but ultimately accepted the reason. "I guess I'll just go explore a bit on my own then…" Her words drifted, and she was staring at Lotte.
+
+Lotte caught the implied meaning and could only offer an apologetic smile in return. "Sorry, Hana, I'm going to work in the alchemy lab this weekend. We gathered so many resources, and I intend to use them for practicing if I'm going to keep my assistant position."
+
+Lily turned to her friend. "Do you need—"
+
+"Nope! I can ask Professor Sylwel for help if I need it. You should focus on yourself for a bit, you've done enough for everyone else that you might start falling behind."
+
+Lily nodded and, after a bit more chatting, waved goodbye to her two friends.
+
+Back in her room, Lily was making some good progress. With no distractions or threat of the dungeon, she could fully commit and focus all her effort. She spent most of her time drawing with her wand; however, she also brought out the pen and ink and began restocking her prepared talismans.
+
+After using the wand for so long, the pen and ink almost felt like a novelty; nevertheless, Lily knew she would probably never abandon it entirely. After all, even if she could snap her fingers and summon a glyph, it still cost Mana while her talismans only cost her paper, ink, and time.
+
+When her fingers were feeling a little cramped from holding the pen for too long, she would take a short break to read through her rune book or spend the time practicing the chant for Lunar Eclipse. The spell was already partially manifesting, which was a startling amount of progress considering how long it had taken her to finally cast its counterpart: Lunar Radiance.
+
+And just like that, Lily's first day of the weekend went by without much fanfare. She was fully expecting her last day of the weekend to be pretty much the same, and was actually looking forward to that after enjoying the peace and quiet. However, late in the afternoon, she had a surprise visit from her big sister Rose.
+
+"Word on the grapevine is that a certain little bunny is feeling under the weather," Rose said, entering as if she owned the room.
+
+"Really?" Lily asked, sounding a little exasperated. "I take one weekend off, and it's turned somehow into gossip?"
+
+Rose chuckled and nodded. "That's the price to pay if you're top of the class. You've been racing nonstop since you arrived, and now that you aren't, people are suspicious. I think you're the only one who didn't step into the dungeon for at least an hour or two."
+
+Lily groaned and rubbed her temples. "I swear if I'd known that I would have just gone for a bit to keep everyone quiet."
+
+"Nah, don't worry about it. It's just people either jealous of you or trying to figure out your secret to success," Rose replied. "Those types of people will latch on to even the most minor supposed downfall you encounter, hoping that somehow it will continue to drag you down."
+
+Unfortunately, Rose's 'encouragement' only made Lily feel worse. She didn't want to see her fellow students in such a petty, bleak way and hoped they were better than that. Yet Rose was blunt and ruthless in that regard, not giving them the slightest bit of tact.
+
+"Anyway, maybe this will make you feel better," Rose said, and handed over a small basket covered in a checkered cloth.
+
+Lily gingerly accepted it and removed the cloth, revealing a bunch of carrots. She frowned and looked up to see her snickering big sister.
+
+"Carrots?"
+
+"I heard all Lagia love them," Rose replied with a widening smile.
+
+For the umpteenth time, Lily sighed again. Sure, some Lagia loved carrots, but for Lily, they were just okay. But as she placed the basket on the desk, the contents shifted, and her eyes caught something red beneath the mountain of orange.
+
+Her eyes widened, and after lifting a few carrots, she saw the true treasure was hidden beneath—strawberries!
+
+Lily's face immediately brightened up, unable to hide her excitement. Rose gave her a hug from behind, leaning her chin on Lily's head. "Did you really think I don't know you better?"
+
+"No, but that's why I thought this was the intended joke," Lily admitted.
+
+Rose giggled, not denying that possibility.
+
+While Lily snacked on a few delectable strawberries, she and Rose chatted about a bunch of nonsense. Nothing regarding the dungeon, or Regarth, or bloodlines. Just their usual chats they would have at the orphanage, like good old times.
+
+Of course, after a while, the conversation naturally drifted to such topics, as they were at Regarth after all, and their goals and desires hadn't faded. Rose picked up a loose page on the desk and stared at it, wide-eyed.
+
+"I can't believe you drew something this complicated. I'm starting to feel my big sister energy fading."
+
+Lily giggled and looked at what Rose was talking about: an inscription diagram that Arakil had drawn for her using auxiliary glyphs.
+
+"No, I didn't draw that, Arakil did," Lily explained.
+
+"So you traced it? That's still very impressive," Rose replied.
+
+Lily shook her head. "No, Arakil drew that for me to use as a reference. I could probably trace it, but I've been trying to avoid that for now."
+
+Rose frowned. "I thought…"
+
+"You thought?" Lily pressed.
+
+Rose's brow furrowed further; seemingly, the cogs were turning. "Why can I read it?"
+
+Lily instinctively opened her mouth to tease her, but then realized what Rose meant. Why could she read it?
+
+"Arakil?" Lily asked, turning to the book.
+
+Arakil had been quiet during their conversation, letting the two sisters catch up and for Lily to enjoy a break. However, when his name was called, he awoke from whatever trance he might have been in prior. Rather than answering Lily, however, he started to chuckle.
+
+[I'm surprised you only noticed now.]
+
+"What do you mean?" Lily asked.
+
+[Did you forget the page we gave to the headmaster?]
+
+Lily frowned and then gasped as the pieces of the puzzle fell together. They had given a page to the headmaster, Arakil had drawn it on the spot!
+
+"What happened? I thought only I could read you? Does this mean someone can take you away from me?" Lily frantically asked.
+
+"What!?" Rose snapped. "If they dare try to steal your book, I'll roast them cinders!"
+
+While the two girls were each having their own adverse reactions, Arakil was still softly chuckling, as if he had expected this outcome.
+
+[No, no, don't fret, it's nothing of the sort. Without you and your permission, nobody can read what I've written.]
+
+"They need my permission?" Lily repeated.
+
+"They do?" Rose asked.
+
+Lily quickly brought Rose up to speed; the confusion on her face was evident.
+
+[Actually, I have a better idea…]
+
+The grimoire opened, and then, just like old times, Arakil began writing out his words rather than speaking them to Lily telepathically.
+
+[Hello, Rose. We've met before, but this is our first time conversing.]
+
+Rose's pupils dilated. "I can actually read it!"
+
+Lily gasped, but her eyes were sparkling with excitement. The two most important people in her life could finally communicate without her needing to relay everything.
+
+Rose turned to Lily. "What changed?"
+
+[Anyone that Lily trusts, or wishes to share knowledge with, I can communicate with. This is the result of our bond improving and Lily's overall growth, especially inside the dungeon.]
+
+Rose was nodding along as she read, but Arakil also then sent a secret telepathic conversation to Lily.
+
+[Remember, I said you were my first apostle? Well, this is one of the perks of the job. As my apostle, it's your privilege to spread the word of magic to those you deem worthy. Or, in simpler terms, people you fully trust or truly wish to share with. Nobody can force you to reveal these secrets, as it's linked to will and intent.]
+
+{That's wonderful!}
+
+[For others, yes, however, I'm still working on an exclusive benefit for you. After all, you should get the grandest treatment I can muster.]
+
+Lily was smiling so hard her cheeks were starting to burn. However, that ended their secret conversation, and they returned their attention to Rose. To Lily's surprise, while she had been conversing with Arakil telepathically, a written conversation was happening between the two of them.
+
+I struggle to even talk to Arakil during a class, so I can't even imagine having two conversations at once…
+
+Rose and Arakil's conversation was rather simple, mostly introductions, before she started grilling him on his plans for Lily. Thankfully, none of it was hostile, and Rose actually ended up formally thanking him for everything he had done for her.
+
+After that, their conversation started drifting towards Rose, with him asking her a few questions about her bloodline and her spells. As usual, her responses were very emotional or gut-feeling driven, yet Arakil seemed to understand, while Lily could only shake her head in dismay.
+
+Rose must have been extremely talented, as her bloodline constantly tried to guide her to the point that she felt lost and slightly overwhelmed. Arakil actually gave her a few pointers in this regard, suggesting where she should focus and which she could safely ignore for now.
+
+[Oh, right. You should probably teach Rose the Magesight.]
+
+"Sure," Lily agreed.
+
+Lily pulled out her wand and drew the model, while Arakil was trying his best to explain the process. Lily would occasionally chime in, trying to simplify things in a way that Rose might better understand. Still, it wasn't too often as she noticed Arakil was using some of her own words from when she was advising Lotte and Thomas.
+
+That simple action made Lily's emotions swell with joy and pride. Finally, she felt like she had made a small contribution to Arakil's vast collection of knowledge.
+
+Rose's reaction to the Magesight was met with excitement, especially at the prospect of quickly identifying items, plants, or other resources that contained traces of Mana. Lily had never seen her so focused on learning before as she uncharacteristically threw herself at the task.
+
+Seeing Rose's fast progress, Lily couldn't help but sigh.
+
+As expected of a prodigy, she's learning this faster than even those two.

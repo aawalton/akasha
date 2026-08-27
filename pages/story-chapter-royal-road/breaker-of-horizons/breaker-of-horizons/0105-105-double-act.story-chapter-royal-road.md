@@ -1,0 +1,133 @@
+---
+id: 4bc7fd63-999e-5bb3-b9ef-a23c93830b97
+page-type-slug: story-chapter-royal-road
+title: "105. Double Act"
+slug: 0105-105-double-act
+partOf: breaker-of-horizons
+position: 105
+ownLength: 2358
+unit: words
+publishedAt: 2021-05-03
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/675676/105-double-act"
+royalRoadId: "675676"
+---
+
+After the decision to commit to a dance lesson (which Caden had begun to jokingly refer to as "The Chosen One's First Pronouncement"), Emilia had instructed them to gather back at the dining hall. It was a little over an hour after dinner by the time they congregated there. Caden half-expected Devon to turn up in leotards but was rather relieved to see that the young lord had only come in his usual thaumaturgy practice outfit. The rest had the same idea. Emilia was in an all-black outfit that mirrored Kevan's, and even though the latter clearly wasn't thrilled at the prospect of dancing, the two of them made quite a pair.
+
+"It's actually good we don't have a traditional wall of mirrors," Emilia said as she led the whole group into the room that she and Devon had been using, which was just a few doors down from the dining hall.
+
+The room was populated with comfortable chairs, ottomans, and pouffes, though these were all neatly placed at the edges of the space so that the centre was clear. It looked like it was meant for guests to lounge about, and there was even a standing piano tucked neatly into a corner. Even though the decor was warm and cosy, once all the seats had been put aside it provided a surprising amount of space. Emilia imperiously directed them to take up a position with enough space so that they wouldn't accidentally collide with anyone else even if they were to stumble a few steps or fall over.
+
+"Why? So we can't see how silly we all look when we flail about?" Lynus asked sardonically.
+
+"No." She glanced at him and gave a rare smile. "So you can conjure your own mirrors, and get double the practice in."
+
+Lynus frowned. "We've done that before. It's not hard. Why would that even help?"
+
+"You'll see soon enough," Devon muttered darkly, his voice haunted with suffering.
+
+"For now, create a simple mirror in front of you." Emilia's voice was soft but authoritative. "Make it just large enough so that you can see your whole body. Stand straight, stand tall, keep your arms relaxed by your sides."
+
+Everyone complied. It was a simple enough conjuration since they all had gotten plenty of practice ever since Kevan first made use of it in his duel with Emilia.
+
+"We're going to start with simple breathing," she said, slowly walking around the room. "Don't look at me. Observe yourself as you inhale deeply through your nose to the count of three, and out again through your mouth to the count of three. And in, two, three, out, two, three..."
+
+After several repetitions, she motioned with her hands to indicate that they should continue the breathing exercise. "Keep the count yourselves. Keep breathing. Now observe yourself more closely. The rise and fall of the chest. Is there tension in the neck? Do your arms lift a little with each breath? Are you overarching your back? Just observe. Notice all the little movements you make when you simply breathe. Be aware of the muscles that move to make those tiny things happen. And just breathe."
+
+It was actually rather relaxing, and Caden found himself struggling to stay fully present. He became so at ease that he was actually slipping a little into the arcanic sea, and he was a little surprised to find that while he was doing that, he could actually tune in to the ebb and flow of his own auric-ambient-flare. Interestingly, it was also moving with his breath. It had no muscles, but it shifted anyway as he inhaled and exhaled.
+
+"Now, start paying attention to your own flow of arcana. Keep breathing. Keep noticing. And now, without gesturing, without using the standard sequence, but with pure focus alone, produce a small globe light in each of your palms."
+
+The room was suddenly awash with light. Caden noticed how each of them had produced a slightly different shade, and their lights were all of varying intensities too.
+
+"This isn't a competition to see who can make the brightest light," Emilia said, wincing a little, especially since Kevan's globe lights were glaringly bright, casting sharp shadows of his fingers. Almost immediately, everyone else dialled down the intensity into something softer, and the room was now more evenly lit in a warm, amber glow that was much easier on the eyes.
+
+"Good. Just hold it there, and keep breathing. Keep noticing. Now, since you're all channelling a little arcana, notice that too, as you breathe."
+
+Since none of them were using the standard sequence, the lighting was not as stable as what was produced by ordinary globe lights. Every now and then, the nice even orange glow would suddenly be streaked through with harsh white, or a part of the room would become suddenly dim, as somebody's focus slipped a little. But as the minutes wore on, these slips became less frequent, and eventually stopped altogether.
+
+"It pulses," Lynus said, sounding surprised. "The arcana, not the light. Kind of like a heartbeat in my hands."
+
+"Yes," Emilia said approvingly. "Keep breathing. Keep noticing."
+
+Now that everyone's channelling was stable, the pulsing that Lynus had just noticed became more apparent to the rest. Caden, though, had already picked up on it the moment they had been asked to conjure globe lights. Instead of paying attention to the pulsation of his own globe lights, he had already moved on to noticing the minute but recognisable differences between the pulsing of his own lights and those from the others.
+
+'Noticed that too?' Ambrose whispered quietly to him in the arcana. Caden jumped a little, caught off-guard.
+
+"What was that?" Jerric asked, looking around the room sharply. As everyone else's attention slipped, the quality of light in the room started fluctuating wildly.
+
+"Ambrose, was that you?" Emilia asked, frowning.
+
+"Sorry, just trying something out!" he answered sheepishly.
+
+"Let's get everyone on the same page before we experiment," she said simply, a hint of reproach in her tone. "Back to breathing. Stabilise the light. Keep noticing."
+
+This time, it didn't take nearly as long for everyone to settle their globe lights. Caden turned his attention to the unique pulsations of everyone else's arcana, and this time, now that he was watching for it, he even picked up a little sense of scrutiny from Ambrose, as if his auric-ambient-flare was turned to him, even though it didn't actually have a 'front'.
+
+"Alright, put the globe lights out," Emilia said after another minute of quiet noticing. The warm glow vanished, leaving only the gentle blue of the room's globe light. "This exercise of paying attention to the pulsation of your own arcana forms the basis for the rest of what we're going to do."
+
+"I was kinda hoping that was it," Lynus said, grimacing a little.
+
+"Lynus!" Emilia went up to him. "Raise your arms."
+
+"What?"
+
+"Like this," she continued blithely, demonstrating as she raised both arms above her, gently curved. He hesitated, so she unceremoniously grabbed his arms and positioned them for him. "Keep them there."
+
+The rest were trying to suppress sniggers, but their mirth at Lynus' expense was short-lived. Emilia turned and gave a curt command. "Everyone, follow!"
+
+She went around correcting everyone's posture, dragging their arms into position and pointing out what adjustments she had to make. Devon was the only one she skipped, and since Caden was positioned a little to the front and side of Devon, he caught in the reflection the little smile of satisfaction that Devon permitted himself when he thought no one was looking.
+
+Once everyone was properly posed, Emilia continued. "Now, keep your arms there for as long as you can. Channel arcana to help you in whatever way you need, without using any sequences. Not even individual glyphs. Just pure focus."
+
+Caden realised that this was quite different from employing arcana to boost one's physical capabilities in combat. So far, whenever they had used arcana to assist their movements, it was in quick and violent bursts. It required hardly any control at all. Even though the task that Emilia had set didn't require much raw power, it did take a lot more concentration. Simply flooding his arms with arcana wasn't going to do anything to help one bit, since he didn't need to project any force on anything.
+
+"Not like that!" Emilia snapped, jabbing Kevan sharply in the ribs. Everyone else turned to look as he let out a yelp.
+
+"You said in whatever way we need!" he complained.
+
+Emilia blinked at him, then frowned. "Technically correct, yes. But you know what I meant!"
+
+"What did you do?" Caden asked.
+
+"Shaped barriers to just pin my arms in place," Kevan answered, giving a wry smile as he readjusted his arms.
+
+"Can you demonstrate?" Ambrose asked.
+
+Emilia shot him a questioning look. "It wouldn't be visible to the naked eye. Do you think it would help?"
+
+"I think all of us can sense arcana flowing, to varying degrees," Ambrose pointed out. "It's worth a shot."
+
+She nodded and lifted her arms, while the rest watched her closely. Before Caden dipped into the arcanic sea, he took a quick look around. Lynus and Kevan already had a glazed sort of look which Caden took to mean that they were quite capable of dipping into the arcanic sea. Jerric, too, was looking at Emilia through half-lidded eyes. Devon was squinting at her, his head tilted a little to one side. Ambrose, strangely enough, wasn't even looking directly at her — he had turned his head ever-so-slightly so that he appeared to be listening to Emilia instead.
+
+Even before dipping into the arcanic sea, Caden was able to sense a shift in how Emilia was directing the arcana. Instead of pushing it outward to form a coherent sequence, he sensed it flowing over her arms and then seeping back in. When he took a closer look by immersing himself in the arcana, it seemed like she was circulating the arcana through her whole body, not just her arms, although the effect was more concentrated on them.
+
+"Like blood," Kevan said, drawing everyone's attention.
+
+She nodded. "That is indeed where I got the idea. The flow of arcana, frameshifted to function in a manner analogous to blood, when circulated through your auric-ambient-flare, seems to alleviate physical fatigue. Now, all of you try. And remember to notice."
+
+It took a bit of practice, but Caden was able to quickly get the hang of it. In some sense, it was a little like floating in the arcanic sea, because when he was there he sensed little eddies in the arcana, and it was actually a natural part of that frameshift for him to imagine himself swirling his non-existent arms a little to keep himself floating in place. Now, with a little adjustment, he was able to imagine arcana actually passing through his limbs as it flowed, and he imagined it ferrying away all his fatigue and infusing him with renewed vigour. As that image sharpened in his mind, the sensations in his physical body shifted to match. His arms felt light and relaxed even as he held them above him in that (to him) slightly silly pose.
+
+He allowed his attention to wander, and he noticed that the emanations coming off from the rest weren't all as stable. Ambrose was, predictably, doing just fine. Devon's flow was actually almost as good as Ambrose's, which surprised Caden quite a bit. But Jerric and the twins were struggling. They kept bleeding excess arcana, and it manifested in little bursts that were sometimes potent enough to actually wash out in the physical space, where it caused the globe lights in the room to fizzle a little in response to the undirected energy.
+
+"That's alright," Emilia said serenely as Kevan cursed softly. "Just keep noticing the flow. Notice how it sometimes hiccups. Notice how it feels when it circulates smoothly. Notice how your own auric-ambient-flare sometimes shifts and squeezes. And through it all, breathe."
+
+While the rest were preoccupied with their efforts, Caden felt another shifting in the arcana, which he was expecting since he was now keeping one proverbial eye on Ambrose.
+
+'Can you hear this?' Ambrose asked, even more softly than before. None of the others appeared to pick up the communication.
+
+Instead of simply replying verbally through the arcana, Caden decided to experiment a little. Since he was now so tuned to the little movements of his own auric-ambient-flare, he shifted it ever-so-slightly so he could give the equivalent of a subtle nod.
+
+To his delight, Ambrose seemed to be able to pick it up. He got a whiff of mild surprise and approval, and then an invitation.
+
+'What do you want to try?' Caden sent back.
+
+'Let's see if this breathing exercise helps you peer beyond the veil.'
+
+Caden's stomach knotted in anxiety. Ambrose had already explained as much as he could to the rest of them, but despite all the assistance he tried to give as they worked together over the past two days along with brief demonstrations by Ambrose, Caden hadn't been able to actually pierce the veil. All he managed to get were vague sensations of something deeper in the arcana. But he sensed that Ambrose was on to something now. It felt like a fundamental realisation was floating tantalisingly around him in the arcanic sea, waiting for him to reach out just a little further now that he was this relaxed, and this aware of his own auric-ambient-flare.
+
+Ambrose drifted in the arcanic sea, then, with one last glance of invitation back at Caden, vanished.
+
+Caden almost thought he could sense some fundamental change in Ambrose's auric-ambient-flare at that last instant, some sort of twisting in on itself. He took a deep breath, thinking of his arms still held aloft in the physical world, and smiling to himself at how effortless that felt. He seized that moment of utter relaxation, of peace, of self-assurance, then tried to twist in on himself, mimicking what Ambrose had done.
+
+And the arcanic sea around him vanished.

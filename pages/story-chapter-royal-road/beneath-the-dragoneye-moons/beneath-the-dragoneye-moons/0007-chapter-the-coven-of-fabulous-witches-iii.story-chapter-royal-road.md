@@ -1,0 +1,317 @@
+---
+id: 4fc1f532-5de6-5f4d-9b04-f8fe2d4638c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter ???? – The Coven of Fabulous Witches III"
+slug: 0007-chapter-the-coven-of-fabulous-witches-iii
+partOf: beneath-the-dragoneye-moons
+position: 7
+ownLength: 2546
+unit: words
+publishedAt: 2021-04-01
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/656182/chapter-the-coven-of-fabulous-witches-iii"
+royalRoadId: "656182"
+---
+
+Poor Larry, the clerk in the store all six of them had found themselves in, led the way down the street. Ariane followed imperiously behind him, like nothing else could be more natural than the mortal bending to her every whim. Ilea came next, the multi-dimensional hopper always having a way home. This particular adventure was significantly less trippy than some of the other realms she’d been in.
+
+Broccoli and Elaine came after. Getting yoinked from A to B wasn’t exactly new, but it wasn’t like they had 30 different skills dedicated to it.
+
+40? It was hard to keep track sometimes.
+
+Candle and Eve brought up the rear, intrigued by the prospect of seeing new, different weaponry, unsure what this new world would bring.
+
+“Soooo… Vampire?” Elaine asked Ariane.
+
+“That is correct,” Ariane said, not taking her eyes off the road, off the horizon, scanning for some store that screamed ‘HEAVY FIREPOWER’.
+
+“My boss is a vampire progenitor. Old dude, like 5000 years old or something.” Elaine said, trying to make some sort of conversation. Kinda flubbing it awkwardly.
+
+“A progenitor? Is he obnoxiously self-confident?” Ariane asked, suddenly a lot more invested in the conversation.
+
+“Mmmm. Kinda. Looks down on just about everyone - well, he’s got the levels and stats and power and position to do so - but, like, also lets everyone mostly do what they want and feel is needed. Just steps in when we’re, like, going to all get ourselves killed doing something extra-stupid.”
+
+Ariane snorted.
+
+“Typical. They rely too much on their powers, and power is a crutch. You wouldn’t happen to have a vial of his blood, would you?”
+
+Elaine really didn’t have anything to say to that.
+
+Meanwhile, in the back, Broccoli and Eve were having a conversation.
+
+“I’m sure you’ll get your loaf of bread one day Ms. Eve.” Broccoli said. “I know! Let’s go together, and make you a loaf!”
+
+Eve sighed.
+
+“No, it won’t work. It never works. Something will just go wrong, I know.”
+
+“That’s okay!” The irrepressible, perpetually cheerful Broccoli said. “We can just try again!”
+
+“But it’ll break again.” Eve pointed out.
+
+“But then we try, try, and try again! One day, we can do it! I just know it!” Broccoli replied. “I believe!”
+
+The two started to get into a circular argument in the back, and Candle sighed. She knew it was going to have to be up to her to break them out of the loop they’d found themselves in, but she couldn’t get a word in edgewise.
+
+Meanwhile, Elaine and Ilea had gotten chatting.
+
+“You’re also a healer?” Elaine asked, confirming her earlier observation. Self-decapitation and still being alive helped significantly with the guess, but Elaine’s [Identify] was on the fritz. She was getting back rainbow-colored eldritch nonsense instead of anything reasonable, and wasn’t taking any chances.
+
+“Yup!” Ilea confirmed. “Also - ‘also’?”
+
+“Same here! Although, I can’t regrow my entire body.” Elaine said, briefly thinking about and discarding adding a “yet”. Either way, Ilea was clearly more powerful in every way. “Any tips?”
+
+“Work on your resistance skills. Try to get as many as possible.” Ilea promptly answered without thinking, almost like she’d been asked the question hundreds of times and was sick and tired of it.
+
+“I have one…” Elaine said, trailing off. “But I have limited skill slots. I could only get seven more, tops, and that’s if I dumped all my other general skills. Heck, I don’t even know if I can get resistance skills as a general skill.”
+
+Ilea paused, looking at Elaine with horror, the thought of having “only” eight resistance skills too much for her.
+
+She closed her mouth, and patted Elaine on the shoulder with a look of pity.
+
+“Good luck.”
+
+“We’re here.” Larry said.
+
+“Yessss. Show me the weapons.” Ariane said, throwing open the doors and striding inside.
+
+“Shopkeeper! I wish to peruse your finest firearms!” Ariane declared, as the rest of the gang piled in behind her.
+
+The floor creaked ominously under Ilea. She looked slightly guilty, and the floorboards bent back into position.
+
+Roughly.
+
+They took a look around the store. It wasn’t particularly impressive. A few pistols were in a glass case, a couple of single-shot rifles on one wall, a few sad, scattered boxes of ammo on the other. You could shrink the store to a third of its size, and there’d still be leftover room for more merchandise. Not exactly the most amazing of places.
+
+“Whaddaya want?” The bored store owner asked from behind the glass case. “It’s a five-day minimum wait to purchase any guns while the check clears.” He said in a monotone, “damn these window shoppers” tone.
+
+Ariane looked around, disappointment clear on her face.
+
+“Well. If this is the best that can be done, there is nothing for it. I will simple have to-”
+
+Candle sniffed.
+
+“I smell chocolate. And gunpowder. Under there.” She said, pointing to a now rather-obvious trapdoor.
+
+Everyone piled in, ignoring the protests of the shop owner.
+
+It was clear that the store upstairs was a decoy, a front. The real weapon store was down here.
+
+And oh, what a weapon store it was.
+
+A giant, cavernous space hosted the weapons.
+
+Rows upon rows of every conceivable gun was merely the start. From front-loaded single-shot rifles, to beautiful ivory-engraved pistols, moving to fully automated weapons, into the miniguns, straight to the anti-aircraft weapons, skipping weapons that were loaded onto tanks, and transitioning right into guns that would be right at home on a battlecruiser. 127mm to 155mm guns, too large for any human to pick up and carry.
+
+Blessedly (cursedly?) Ariane wasn’t human. Things like “too heavy” didn’t apply, and she was giddy like a schoolgirl, moving from one large gun to the next, picking one up, “sighting” down the barrel, and putting it down, only to move onto the next.
+
+And yet. Guns were barely the start.
+
+Grenades were next. Smoke, fragmentation, stun, flash-bangs, cluster, big, small, little. You wanted a grenade? They’ve got em!
+
+Hiding innocently inside the grenade section, just, hanging out there, was a rack dedicated to bread. All types. White, wheat, sourdough, baguette, pita, brioche. It was like a mad baker had baked every single bread in existence, and just placed them in “Gluten”, next to “Grenade”.
+
+Eve eyed the bread.
+
+Eyed the grenades.
+
+Put one and one together.
+
+“EVERYONE DOWN!” She yelled, throwing herself to the floor.
+
+Ilea was replaced with a winged, horned demon of ash, tendril trailing from behind her.
+
+Elaine snapped up a shield, shimmering and glowing like the Aurora Borealis.
+
+Everyone else threw themselves to the ground.
+
+…
+
+“Excuse me Ms. Eve, but what are we waiting for?” Broccoli asked. “I’m okay with this, but shouldn’t something be happening?”
+
+Eve spluttered.
+
+“The grenades - the bread - they - argh!” She said. “The moment I get close to the bread, something will go wrong and destroy them. Most likely, the grenades will blow up, then ALL of them will blow up, and it’ll be bad.”
+
+The ashen demon nodded.
+
+“Yeah, that’d be pretty bad. I’ll shield all of you. Just get a bit closer to trigger it.
+
+“Are you quite certain?” Ariane asked, uneasily eyeing a grenade labeled “high incidindary” “That does not appear to be the safest course of action.”
+
+Ilea shrugged.
+
+“If it’s going to go wrong, might as well be in a controlled situation.”
+
+Hesitantly, then slowly going forward, Eve crept towards the bread. One step, a pause. One step, a flinch, expecting a massive explosion to tear through the facility.
+
+Ten steps away.
+
+Five steps. The closest she’d ever been to Bread since getting the Quest.
+
+Three steps.
+
+Two.
+
+One.
+
+Hesitating, disbelieving, Eve reached out with one hand, touching a loaf of banana bread. Could it be this easy? Was her Quest at long last complete?
+
+It felt weird. Eve had expected the bread to be soft, pliable. Something you wanted to eat. This was cold. Hard to the touch. Unyielding. It -
+
+“THIS ISN’T FUCKING BREAD!” Eve cried out, grabbing it and throwing it to the floor. “ITS ANOTHER DAMN FUCKING GRENADE! ARGH!”
+
+The loaf-grenade hit the floor.
+
+In two pieces.
+
+Right next to the “H” for “High Explosives”
+
+“Oh Fu-” Eve got out, right before the grenade went off.
+
+It was Candle who saved them all. She drew, at lightning speed, a rune in the air that froze the grenade, stopping it from going off, saving them all from an untimely end.
+
+Well. Untimely for everyone but Ilea. She’d have survived it.
+
+Missile launchers. Bazookas. Land mines. Sea mines. Air mines. Space mines. Bayonets. Carbon-fiber knives and swords. Flamethrowers, from tiny to XXL. Mortars, artillery trucks, jeeps, tanks, grenade launchers - conveniently next to the grenades - missiles, torpedos.
+
+Submarines. Helicopters. Fighter jets.
+
+The pièce de résistance.
+
+A large bomb in a crystal case, surrounded by beeping counters. It was unlabeled, with just the name “Fat Boy” on it.
+
+“No. Nope nope nope no.” Ilea said, vanishing the weapon. “Absolutely never not nope.”
+
+“How large is this place?” Candle asked, voice echoing throughout.
+
+No answer was given, as a roar of gunfire preceded maniacal laughter.
+
+“Yes. YES!” Ariane cried out, as the unyielding firestorm resumed. “This is IT!”
+
+The others stopped their wandering, and made their way over to the noise.
+
+Ariane had found miniguns were exactly to her taste, and was busy test-firing a larger-than-life one at the firing range. The barrels slowed down as she finished firing the latest rounds at the now-former targets, revealing that someone had been visited by the “Good Idea” fairy, and had placed bayonets on the end. One per barrel.
+
+“Alright, alright, I think I’ve got the hang of this.” Ariane said. “Watch.”
+
+Moving to another section, she pressed the trigger, and the minigun spat out bullets with a roar.
+
+In under a second she stopped, and pointed gleefully at her work.
+
+Two hundred dummies were in the section, each with a single bullet expertly placed in a lethal spot.
+
+“This is perfect.” Ariane declared.
+
+Nobody was inclined to argue with her.
+
+“Um, excuse me Ms. Vampire.” Broccoli asked. “Should you really be doing that without the permission of the person who owns the place? He might be sad.”
+
+“Hmmm. You bring up an excellent point. I must find the owner of this establishment, and reimburse him.” Ariane said.
+
+“Why don’t we all find something we like, and pay at the end?” Elaine suggested.
+
+The looting began.
+
+Ariane grabbed the minigun, then started picking up, testing, and strapping weapons she deemed “acceptable” to her back. She started to look a bit like a hedgehog. Sniper rifle, assault rifle, hand guns, and more. The author’s not a gun nut, and can’t really comment past this. Lots of guns.
+
+Ilea grabbed a little of everything. Some grenades, some bazookas, a few guns. Her ashen limbs behind her rearranged themselves, each one holding a gun.
+
+A one-woman army of weapons.
+
+Quite frankly, a downgrade from her normal fighting prowess. Still, it was fun, and hey, who knows, maybe she’d get another 10 general skills from it. A [Missile Launcher] skill, a [Grenade Launcher] skill, a [Bazooka] skill, an [Anti-Aircraft weaponry] skill....
+
+Illea had to collect them all.
+
+Eve looked around morosely, before deciding that her current weapons were just fine.
+
+Elaine picked up a handgun, and went to the firing range. She experimentally, inexpertly, tried to fire a few shots at the targets.
+
+“Do you require assistance or instruction as to the use of firearms?” Ariane asked her.
+
+Elaine hesitated.
+
+“Yes, but I don’t think I’ve got the time to learn how to use a gun properly. Like. I’d need to aim and track and such.”
+
+Ariane tilted her head.
+
+Elaine figured a practical demonstration would work better. She didn’t even need to point. One moment she was standing there, the next a beam of burning, golden light shot from her, piercing straight through a target dummy’s head.
+
+Ariane hissed at her.
+
+“No sunlight!”
+
+“Relax, it’s not sunlight, it’s Radiance. Looks the same, feels the same. Isn’t sunlight. Does sunlight make you explode into flames?” Elaine asked rhetorically.
+
+“Yes.” Ariane hissed back.
+
+“Ah, um. Sorry?”
+
+Candle found the “field rations”, which ranged from “technically edible” to -
+
+Well. Candle never found out what they ranged to. She stopped at “Chocolate.”
+
+She transformed into a massive, mighty dragon - still relatively tiny inside the space - to better load herself up with chocolate.
+
+She didn’t know why coconut-flavored chocolate was considered an army ration, but she wasn’t going to complain.
+
+Broccoli looked around, ears flat.
+
+Then she spotted the swimming pool. Everyone else was busy finding weapons. Broccoli didn’t think weapons were needed. Just a nice chat and a hug! That’s all anyone ever needed, really.
+
+Broccoli got to the swimming pool, and eyed it doubtfully. Was asking for a swimming pool of water too much? Instead, it was full of ammo, just loosely piled around.
+
+With a diving board.
+
+It was a gun nut’s version of a Scrooge Mcduck money tower.
+
+Eventually, the looting shopping spree came to an end, and everyone got back together.
+
+“Hang on.” Broccoli asked. “How are we going to pay for any of this?”
+
+There was an awkward moment as everyone took out what they had.
+
+Elaine had some round iron coins with a triangle in the middle.
+
+Ariane had a few bills.
+
+Nobody else had much more that was better.
+
+“How are we going to get out with all this stuff?” Elaine asked, doubtfully eyeing Ariane and her many guns.
+
+“Also, we should talk about how we get to the island.” Eve said. “Apparently, the metal birds can fly?”
+
+Candle snorted, small flames emerging from her nostrils. Elaine took a few steps back, making sure she was well and clear from the Dr-
+
+No don’t say it don’t think it. It’s not a D----g. Just a transformed human with poor taste. It must be.
+
+“I’m bigger and faster than anything iron. Can’t even see how it flies.” She said.
+
+Some cajoling, begging, pleading, bribery, and flattery later, and Candle had agreed to take them all to the island.
+
+“Now we’ve gotta pay.” Ilea said, using space magic to transport them all back to the main store.
+
+“Proprietor!” Ariane commanded. “You have a most impressive selection of weaponry. You may become a supplicant, for a generous donation.”
+
+He snorted.
+
+“What, you think you’re some sort of jedi, waving your hand around like that? Fancy mind tricks don’t work on me. Only money.” He said, drawing the last two words out and rubbing his fingers together.
+
+Broccoli eagerly offered up everything she had.
+
+“Here you go mister! It’s all I’ve got.”
+
+He looked doubtfully at the offering.
+
+“That’ll pay for three bullets.”
+
+Elaine offered her coin pouch - along with a few diamonds.
+
+“Now we’re talking! That pays for the training dummies and rounds you all used.” He said.
+
+Ilea rolled her eyes, and out of nowhere, summoned a giant chunk of gold, larger than she was.
+
+A look of greed crossed the storekeeper’s face for a brief instant.
+
+However, the added weight of the gold was one insult too many for the floorboards. Ilea did a Wile-E-coyote.
+
+Read the next part here!

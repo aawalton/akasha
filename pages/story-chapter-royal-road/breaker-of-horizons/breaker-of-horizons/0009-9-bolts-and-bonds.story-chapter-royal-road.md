@@ -1,0 +1,191 @@
+---
+id: c69070dd-c260-5383-928b-dfe5e7c889e0
+page-type-slug: story-chapter-royal-road
+title: "9. Bolts and Bonds"
+slug: 0009-9-bolts-and-bonds
+partOf: breaker-of-horizons
+position: 9
+ownLength: 2631
+unit: words
+publishedAt: 2020-05-31
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/503976/9-bolts-and-bonds"
+royalRoadId: "503976"
+---
+
+After the duel between Ambrose and Kevan, the night took a turn for the worse. Kevan did not take kindly to being beaten and Ambrose's refusal to explain how he had managed to win made the situation worse. The black-haired youth, usually meek, was uncharacteristically firm. He wasn't rude, but it was clear that he wasn't about to freely discuss his duelling technique. Jerric tried to point out that Kevan had pulled the same thing on everyone else but in the end, Lynus had to physically drag his brother away. He shot us an apologetic look as he ushered Kevan out of the duelling chamber.
+
+It was just Ambrose, Devon, Jerric, and myself now. We sat on the lowest tier and watched as the brothers disappeared through the doors.
+
+I sighed. "Hope he's less of an ass tomorrow."
+
+"Don't count on it," Devon snorted. "His behaviour so far doesn't exactly advertise sweetness and sunshine. If he were a product, I'd put him back on the shelf."
+
+"Sorry." Ambrose looked very downcast. "I kinda provoked him."
+
+"No," I said firmly. "He's the one who provokes people. He's just sore that you beat him. He obviously thinks he's the best, and you put him in his place."
+
+"Understatement of the year. You wiped the floor with him!" Devon crowed.
+
+"I don't suppose you'd give us even a tiny hint about what you're doing?" Jerric asked hopefully.
+
+Ambrose bit his lip. "I... it's best if I don't. But I'm not... special or anything."
+
+I wrestled down the urge to snort and roll my eyes. Ambrose probably sensed the scepticism and disbelief radiating off me because he looked at me and gave a huff. "Really, it's nothing special. Okay, look..."
+
+He stood up and turned to face us. "I'm not going to tell you exactly what I'm doing... but I can point you in the right direction."
+
+I crossed my legs and sat up straight. Devon and Jerric were likewise listening with rapt attention. Ambrose was a little taken aback at the suddenness of it, but he rallied.
+
+"Uh... okay, so here's a standard bolt sequence." He pulled a little arcana together and a cluster of glyphs appeared in the air. "Which parts cover direction?"
+
+"It's just that one." Jerric threw a red ring around one of the glyphs. "It makes it go forward."
+
+"No, that's..." Ambrose frowned at Jerric. "How do you curve yours?"
+
+I blinked at Ambrose in confusion. "What do you mean? Don't you know?"
+
+He returned my look of confusion. An awkward silence descended over the four of us.
+
+"Why don't I explain how I arc my bolts," Jerric said tentatively, "and then we go from there?"
+
+Ambrose nodded and sat next to us. Jerric didn't stand up and instead opted to narrate from where he sat, using loops of arcana to highlight the relevant glyphs as he spoke.
+
+"So, normally, these bolts have no mass, so gravity doesn't pull on them like actual projectiles. These glyphs control the density of arcana, and we need to introduce a clause here to give it a mass value."
+
+His modifications went up. "Then, you add some additional glyphs to the 'forward' one to indicate an angle. That way, it tosses the bolt at an angle, and the bolt then follows a natural arc subject to gravity. We can tweak the mass values and the angles to affect the trajectory. So that settles the top-down arcs. There are other adjustments you can make to the density of the arcana, the launch speed, even the shape, which will all affect the bolt's flight path and trajectory."
+
+Ambrose nodded. "I see. I... didn't learn it that way."
+
+The three of us exchanged surprised looks. It was a pretty standard modification in the student duelling circles. The trouble was learning how much to adjust the values.
+
+"But that's just two angles of attack," Ambrose pointed out. "Straight ahead, and from the top. And besides that, your modifications wouldn't make it hone in on a target point directly in front of you. It'd just make the bolts fly in an arc in the direction you toss them."
+
+Jerric nodded. "And that's where the more advanced version comes in. If you add in another clause here," he threw up more modifications. The sequence was looking very convoluted now, "then you change the direction of gravity that the bolt experiences. Now your bolt arcs along any plane you want, even from the bottom up."
+
+Ambrose read the glyphs carefully and nodded to show his understanding. He held out a palm and experimentally shot a few bolts that formed ever-larger arcs across the duelling chamber. Then he shot a few bolts sideways, forming little dancing rings within the duelling space. When he was satisfied that he had gotten it down, he dissolved the bolts. I couldn't help but stare at him a little. He had picked it up very quickly.
+
+"What I want to know is how you do that arc that looped back at the end of your fight with Kevan," I said, turning back to Jerric.
+
+"That one's actually a homebrew version I came up with," Jerric grinned proudly, tacking on yet more glyphs. "Instead of putting a single value for the mass, I put in a short equation that adjusts the value over time. You tweak the variables in the equation to change when the loop happens. I found that when the value of the mass becomes negative, it actually moves opposite to the 'forward' glyph, so it doubles back."
+
+I stared at his modifications. There was some very involved math here. "You do this in battle?"
+
+Jerric nodded, his grin widening. I shook my head. "No wonder you were so eager to fight. You thought your ridiculous calculation speeds would beat everyone."
+
+"Couldn't beat Kevan," he said, deflating a little.
+
+I laid a comforting hand on his shoulder. "You heard Lynus. They're not making adjustments on the fly. They've got memorised sets, a whole arsenal of variations. And they've probably fought each other so many times that it's muscle memory at this point. But the moment they meet deviations in the pattern, they fall apart. I mean, look at Kevan against Ambrose."
+
+"Yes, it's not..." Ambrose cast around for a word, "not combat-worthy. Your way is more flexible and adaptable, which makes it better in a real fight. But it's hard to pick up, too. There's so much calculation. I don't think the average person can do it."
+
+Devon gaped at Ambrose. "Combat-worthy? You sound like you've got training in, like, thaumaturgy thaumaturgy?"
+
+"What does thaumaturgy thaumaturgy mean?" Ambrose mimicked his intonation, looking puzzled. He looked at me and Jerric, but we shrugged to indicate our own confusion.
+
+Devon clicked his tongue in impatience. "I mean, thaumaturgy is arcanophany applied in combat, but the stuff we learn in schools is just duelling and defence, you know? Not like, actual combat. So... like... you've done thaumaturgy thaumaturgy?"
+
+"Stop saying it like that, it sounds silly," I chuckled.
+
+"Double Thau, the Real T, the True T," Devon rattled off. He brought a hovering finger right in front of Ambrose's nose. "Whatever we wanna call it! Have you done it before?"
+
+"I've had some, uh, prior exposure," Ambrose mumbled, waving away Devon's finger.
+
+"Man, now we have to know the details," he said, getting right up in Ambrose's face.
+
+"Get off!" Ambrose pushed him away and stood in front of us again. "Anyway, it looks like we have totally different methods. As I said, I... shouldn't tell you exactly what I'm doing. Not yet. I'm just pointing out some things, and you'll have to figure it out from there."
+
+"Yes, sir. Please teach us Double Thau," I grinned.
+
+"Yes, we're so calling it that from now on," Devon said, raising his hand for a high-five. I indulged him. Jerric shook his head.
+
+"Right..." Ambrose looked at us helplessly, then coughed and tried to ignore our grins. "So, you guys modify direction by giving the bolt some properties so that it acts as a physical projectile. That's one way to do it."
+
+He gestured at the glyph sequence and erased all of Jerric's modifications. "So, earlier, I asked which parts control direction. Jerric pointed out the rune for 'forward'. That's just one part. But what's the point of origin for that direction?"
+
+We sat in silence for a few seconds, and then a jolt of realisation hit me as I saw some of the new glyphs we had learned. I sent out a wisp of arcana to ring a set of glyphs that indicated the source of arcana for the bolt. "Here. There's a clause that indicates that the bolt will fuse surface auric arcana with surface ambient arcana. Then this other clause marks where the fusion happens as the point of origin for all directions."
+
+Ambrose nodded. "So now you've found the point of origin. That's all you need."
+
+"You... shift the point of origin? Doesn't that make it even more complicated?" I tried to think of how you would even make a bolt curve by shifting the point of origin, but every idea seemed even more mathematically convoluted. I looked at Jerric, who was shaking his head in confusion.
+
+Ambrose thought hard, clearly fighting the impulse to simply blurt the answer. After a moment, he asked, "How do you know where the bolt comes from, even with those glyphs?"
+
+"It... comes from us. What do you mean?" Devon scratched his head.
+
+"Devon, throw a basic bolt," Ambrose instructed. Devon complied, raising a hand to launch it.
+
+"And you, Caden." Mystified, I did the same.
+
+"Now Jerric." He stood and went through the same motions as Devon and me.
+
+"Okay, think back to the fights with me, Kevan, and Lynus," Ambrose said, looking intently at us. "Did we do the same thing?"
+
+"I don't know what we're looking for here," Devon complained.
+
+"You never used your hands," Jerric and I said at the same time, having both had the same realisation.
+
+"Yeah, and you can do it, too, right? You just need to focus. The bolt comes out from where you want it to. But it's a habit to point where you aim. A bad habit, because it telegraphs your moves." Ambrose raised a hand and pointed it straight ahead but this time, a bolt shot out of his armpit and hit the floor. It was such a comical and unexpected sight that the rest of us burst into laughter.
+
+Now that he had pointed it out, we started experimenting with that. It didn't even require any adjustments to the glyphs — just a little bit of intentionality. We were soon shooting bolts from anywhere. We spent a few moments shooting bolts out of every conceivable orifice in childish amusement.
+
+Jerric was the first to sober up. "So what does this have to do with how the point of origin can change the direction and movement patterns of the bolt?"
+
+"Everything. That's all I can say."
+
+"What?!" The three of us cried out.
+
+"It's everything," Ambrose repeated firmly. "Think about it, experiment a little. Trust me, it's very important that you figure it out on your own. If someone just tells you, it'll be harder to pick up."
+
+This was already way more than what I had expected, given his earlier reluctance, so I decided not to press the issue. Besides, he had already given me a lot to think about.
+
+"Thanks, Ambrose," I said. The others echoed the sentiment.
+
+He ran a hand through his hair, looking a little shy. "It's nothing, really."
+
+"No, really, thank you for opening up, and sharing more with us." I placed a hand on his shoulder. "You didn't really have to tell us anything. It's obvious you put in a lot of work and learned this stuff on your own. The fact that you just gave some of it away to us is really something."
+
+"Well, you're my dorm mates, so... it's only natural I'd help, right?" Ambrose smiled.
+
+Devon rolled his eyes. "Yeah, tell that to Kevan. He said something earlier today about you being a goody-goody, and how that completes our group right? Well, he's obviously taken the role of the ass."
+
+I choked down a laugh. "To be fair, he probably knows that. It's getting late, we should head back."
+
+"A couple more Double Thau sessions with Ambrose here and we're gonna wipe the floor with Kevan too!" Devan enthused.
+
+"Don't start anything with Kevan," Jerric said warningly. "You may have a Panoply arcane ward over our room, but I'd prefer not having to watch my back."
+
+Devon continued to fantasize and joke about different ways to provoke Kevan all the way back to the dorm, much to Jerric's increasing exasperation. Ambrose and I laughed at their exchanges. I was glad to see that Ambrose had opened up a lot more since last night.
+
+Lynus was seated at the table in the common area and reading a book when we came in. Kevan was nowhere to be seen.
+
+"Hey... everything okay, Lynus?" I took the seat facing him. He looked quite tired out.
+
+"Yeah." He put aside the book and motioned for all of us to gather around. "Listen, I know my brother's not the easiest person to be around. But he's not a bad guy."
+
+Jerric nodded his understanding. Devon looked like he was about to give a snarky reply, but Jerric shot him a quelling look and he nodded along as well.
+
+"Where is he now?" I asked.
+
+"Showered and in bed already. So..." Lynus awkwardly ran a hand through his hair and looked up at Ambrose. "Sorry about earlier. Just give him a chance. I'll try to keep him in line."
+
+"It's nothing," Ambrose mumbled. "I mean, it's not that I'm trying to hold back secret knowledge. It's... not safe."
+
+"I get that. And Kevan probably gets it too, but he's really competitive, so the duel got him really down. He's been top dog for a long time. But he'll come around."
+
+"Alright. Well... I already showed Jerric, Devon and Caden some stuff. I can go over it with you and Kevan tomorrow. I'll teach you all what I can, but there are some things that you gotta figure out."
+
+Lynus look surprised. "Uh, you don't have to, I mean, don't let Kevan make you feel like you have to—"
+
+"No, it's fine, really. I do want to share stuff. I just need time to figure out what can be safely imparted."
+
+"Well... thanks." Lynus stood and gave Ambrose a handshake. "I mean, really. Thank you."
+
+Ambrose nodded but looked unsure about what else had to be said. He covered the awkward moment with a cough. "Well, uh, I'll... I'm going to sleep. See you guys in the morning."
+
+"I'm showering first!" Devon became a coloured blur as he dashed to his room, grabbed his things, then disappeared into one of the two bathrooms. The rest of us rolled our eyes.
+
+Later, as I climbed into bed after cleaning up and packing my bag for tomorrow, I found myself grinning. Even though Kevan was a little bit of an ass (not something I'd ever say to his face), I was quite happy with our little group, and with life in the Academy so far. It had been a good first day of lessons, all things considered.
+
+It looked like being in the same cohort as the Chosen One wouldn't be such a chore after all. After all, we didn't even know who it was, so it didn't affect our lives in any way beyond that initial memory wipe, and I had found people who would probably, hopefully, turn out to be great friends.
+
+The future looked bright.

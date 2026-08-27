@@ -1,0 +1,163 @@
+---
+id: dbac7dca-9b6f-5ef5-961e-53e094005f8b
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 18 - Moon Fishing"
+slug: 0022-b3-chapter-18-moon-fishing
+partOf: bookbound-bunny
+position: 22
+ownLength: 1855
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3160899/b3-chapter-18-moon-fishing"
+royalRoadId: "3160899"
+---
+
+The group tried their hand at some light hunting, going to a relatively quiet area of the woods and finding some wildlife. The unfortunate part was that none of them really had the tools required to do this.
+
+Lotte couldn't use any of her spells, or she would poison the meat. Lightning was terrible for hunting, and so were Lily's exploding stars, as both were far too loud and caused anything that wasn't a monster to flee in terror.
+
+To not leave empty-handed, Thomas fell back on some wind spells, and Lily did the same, except in glyph form. While this slightly improved the situation, it was still a far cry from what they were hoping to accomplish.
+
+"What about fishing?" Lotte suddenly suggested.
+
+"Are there even fish?" Lily questioned.
+
+"I think I saw some in the river…" Lotte replied.
+
+And so the group relocated their hunt to the riverbank, using makeshift fishing poles and spears. The group couldn't help but chuckle at the sight; they were supposed to be upcoming magical elites, and now they were trying to scrounge up fish with sticks, twine, and a bent needle.
+
+The first to catch something was Lotte, who revealed that her grandfather had actually taken her fishing a few times in the past. Thomas eventually managed to catch one with a makeshift spear and a bit of magical assistance.
+
+Lily, unfortunately, was having no luck. While the other two might have been learning to fish or swing sticks around, she had been holed up in her room learning to draw or locked in Camilla's atelier, brewing potions.
+
+Not wanting to go home empty-handed, Lily eventually drew a glyph that finally caught her a single fish by causing the water around it to shoot it out of the river. It worked, but the result practically drenched everyone nearby and scared the remaining fish away.
+
+Thus, Lily was forbidden from repeating this and instead left the fishing work to the other two. While they moved location, Arakil made a surprising suggestion.
+
+[Why not use this as an opportunity to cast Lunar Radiance on Lotte and Thomas?]
+
+Lily instinctively checked her Mana Core, and it had almost fully recovered by now. Not to mention that after witnessing Arakil perform the spell, it was still deeply engraved in her mind and body, so she felt like she could finally cast it correctly now.
+
+{Okay!}
+
+So, while her two friends were doing their best trying to catch some more fish, Lily was focusing her Mana as she began reciting the incantation.
+
+With each syllable, there seemed to be a resonance, and when she was a quarter of the way through the chant, a silvery sphere appeared in between the palms of her hands. As Lily continued the chant, visualizing the effect, feeling the outcome, and focusing her desire, the sphere was refined further. The silvery sphere began to curve, gradually transitioning from a full moon to a waxing crescent.
+
+When Lily finished the chant, she opened her eyes and saw that the apparition of the spell was held in her grasp. At this point, the spell was ready to be cast and was just waiting for its intended target. Nine times out of ten, this would be herself, as she would want to boost her own fortune and thus improve her Astral spells.
+
+[Congratulations, you were on the verge so many times and only held back by a lack of accurately witnessing the effects firsthand.]
+
+Lily silently nodded, with a smile blossoming on her face. It had been impossibly hard for her to imagine the feeling behind the spells, and Arakil's explanations and examples had sadly not been enough. How was she supposed to "feel lucky" or "favored by probability," as Arakil would say? But when he cast the spell with her body, she had at last experienced it and broken past the final hurdle.
+
+Her friends were too distracted to notice the spell, and Lily directed it towards Lotte. Her body was enveloped in a soft silvery glow, and above her head was the small image of the crescent moon. Lotte must have been concentrating on her makeshift fishing rod, as she didn't notice the magical boon she'd just received.
+
+Lily watched in fascination, and moments later, Lotte caught a fish. Not too long after that, she'd received another bite, which even caught Thomas by surprise.
+
+"What the heck, why are you getting so lucky?" Thomas complained.
+
+"It's not luck, it's skill," Lotte boasted.
+
+[It's neither of those. It's simply a skewed probability…]
+
+Lily giggled at Arakil's vehement protests. Yet she'd witnessed his misfortune firsthand, as he failed to produce even a single star. What else could you call this effect other than luck? Arakil had tried to explain it to Lily, avoiding such terms, but Lily failed to see it any other way. Even the analogy of rolling two dice and picking the higher of the two boiled down to luck, in her opinion.
+
+Seeing Lotte's success, Lily began casting the spell again. This time, she went a little faster as she was more confident in herself, and soon she was directing another blessed moon towards Thomas. Then, shortly after, he also seemed to miraculously catch a fish.
+
+[You seem to have a great affinity with this spell.]
+
+Lily nodded.
+
+{I was going to ask… Doesn't this seem a little too good?}
+
+[Unfortunately, I can't really recall a memory to compare it to, but from the notes I have, its effects shouldn't be this prominent.]
+
+Lily couldn't help but smile, as she'd felt drawn to Astral magic ever since Arakil first demonstrated it. Of course, what he actually cast was illusion magic, but the intent behind it was what counted, or so Lily continued to insist.
+
+After the two caught an unbelievable number of fish, they eventually stopped and finally noticed the subtle glow between them. After a momentary panic, a giggling Lily explained the situation.
+
+"Star magic can control luck?" Thomas asked.
+
+"Astral magic," Lily corrected.
+
+"Sorry, I'm used to the old name," Thomas chuckled.
+
+"Is there a catch?" Lotte asked.
+
+Lily paused to think, then shrugged with the only answer she had at the moment. "It doesn't seem to last very long at the moment."
+
+Lily had had to cast the spell a few times to renew the magical blessing on the two of them during their fishing expedition. Not that she minded, as it was more practice for her, and she was enthralled by how it manifested itself.
+
+[The duration can be improved by dedicating more Mana towards it. And, of course, through more practice.]
+
+"That's a pity, I'd love to take a test while blessed with luck," Lotte sighed.
+
+"Wouldn't that be cheating?" Thomas asked.
+
+"I mean… We are in a magic school," Lotte pointed out.
+
+"I'm not sure," Lily answered with a giggle. "There's a good chance it wouldn't do anything to help if there isn't any probability to the situation."
+
+"Umm… Pardon?" Lotte asked, scratching her head.
+
+"If there isn't any random chance involved, it won't help?" Thomas attempted to explain.
+
+Lily nodded. "Basically that."
+
+Lotte frowned. "Where's the random chance in fishing?"
+
+The group went silent, each apparently trying to come up with some reasonable-sounding examples.
+
+"Does the fish happen to see the bait?" Lily suggested.
+
+"Right place, right time," Thomas said with a nod.
+
+"The fish happened to not get spooked," Lily added.
+
+"The sunlight catches its attention," Thomas replied.
+
+Lotte eventually sighed. "You're making it sound like the hook finds the mouth."
+
+"Well… Maybe not that magical," Lily giggled.
+
+Thomas joined in, and Lotte also surrendered to the small fit of humor. Even if she didn't understand it, it was hard to argue with the results they had just witnessed.
+
+"I guess luck just works in mysterious ways," Thomas replied.
+
+Lotte shrugged, apparently giving up on trying to fight it any longer. The group packed up and began slowly walking back to the camp, chatting along the way. While their hunt was terrible, their fishing expedition had been a resounding success!
+
+Back at the camp after settling down, Lotte and Thomas got to work cleaning and descaling the fish. Lily helped where she could, with Lotte showing her the ropes. The plan was to have a fish stew tonight, with any excess getting dried and preserved for the following days.
+
+"I guess we will take it easy tomorrow, then, and go out at night?" Thomas said while they ate.
+
+"Sounds good. I can't wait to try out the night drops," Lotte said excitedly.
+
+"We can use the lantern too," Lily pointed out.
+
+"I suppose so, although I'm more excited to see working alchemy," Lotte admitted.
+
+"It's also more convenient," Thomas added. "If one of us needs to carry around the lantern, then our spell gestures will be hindered."
+
+Lily eventually agreed, albeit somewhat reluctantly. Lily had been momentarily infected with Camilla's desire for profits, and after she saw they had a renewable and, more importantly, free resource, she tried to write off using the night drops. However, she wouldn't deny her friends this first-time experience and saved the money-making ideas for later.
+
+After dinner, Lily helped the two of them again with trying to create their first Magesight. Using her wand, she drew the visualization image for them again and tried her best to offer what guidance she could, often borrowing directly from Arakil.
+
+When the group lesson was over and the other two went to bed, Lily spent some time once again trying to advance her Magesight to the next level. When her eyes began to strain, Arakil told her to swap the lesson over to learning the other half of the crescent moon spell—Waning Woe or Lunar Eclipse.
+
+Lily was admittedly a little apprehensive about the counterpart to Waxing Wonder or Lunar Radiance, as she much preferred the idea of granting a boon than inflicting a bane. However, she knew Arakil was right and that the monsters weren't going to go easy on her, especially after witnessing what happened that night.
+
+And so, after Arakil repeated the incantation a few times for her benefit, Lily began to focus on the task at hand. While she had a relatively good image thanks to Arakil's casting, it wasn't directly manifested upon her, so some gaps needed to be filled. Not to mention Lily needed to perfectly enunciate the incantation, as she continued to hold herself to that degree of scrutiny.
+
+The night went by uninterrupted, much to her relief, and eventually she traded places with Thomas. This time, he wasn't magically rejuvenated, so it took a bit of effort to get him up and about for his shift.
+
+Right before Lily went to bed, she spoke with Arakil.
+
+{Once I cast Lunar Eclipse, I want to learn a dream glyph…}
+
+[Alright, that can be your reward once you correctly cast it.]
+
+Lily grinned with smug satisfaction. She knew he would probably teach her anyway, but she liked this as an added motivator. Plus, she wanted to experience the fantastic rest her two friends had unknowingly received.
+
+{Goodnight, Arakil.}
+
+[Goodnight, Lily.]

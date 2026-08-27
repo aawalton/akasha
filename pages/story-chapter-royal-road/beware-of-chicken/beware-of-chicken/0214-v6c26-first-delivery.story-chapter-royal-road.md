@@ -1,0 +1,135 @@
+---
+id: 95541d1d-2ecb-5440-bd60-451ad64fe35f
+page-type-slug: story-chapter-royal-road
+title: "v6c26: First Delivery"
+slug: 0214-v6c26-first-delivery
+partOf: beware-of-chicken
+position: 214
+ownLength: 1878
+unit: words
+ownProgress: 1878
+publishedAt: 2025-05-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2296827/v6c26-first-delivery"
+royalRoadId: "2296827"
+markedReadAt: "2026-06-29T18:58:42.364Z"
+---
+
+One day before the New Year:
+
+The streets of Grass Sea City were awash with red and gold. Lanterns hung in their millions. Dragon and Phoenix pennants were draped from the sides of buildings in such numbers that it looked like the great towers of the city were dressed in fine robes. Even the bridges were decorated this year, streamers cascading out of Underbridge and dancing in the cold winter air.
+
+The forges had been shuttered. The great places of industry the city was known for were silent, for the New Year had been declared a day of rest.
+
+People thronged the streets, looking at the decorations or simply enjoyed the crisp winter air. The whole city felt alive, and most would even dare say optimistic. After the chaos of the summer, the peace of winter was a balm for their spirits.
+
+And if one were to ask the people of this great city how they felt? Most would say they felt optimistic—in years past, a rarity for those who had lived in the relentless grind that had taken hold of the people’s souls. The pressure of heavier quotas and longer days, when their so-called ‘rulers’ had worked them to the bone and even had the gall to enslave Imperial subjects, was absent.
+
+And if one were to ask who they trusted to lead them in this time, to guide them, there could, of course, only be one answer—and that answer was part of the reason why so many were out on the streets on this cold, crisp winter’s day.
+
+“There he is!” somebody shouted in the crowd, and the people of Grass Sea City straightened up, their eyes turning towards where a gap was forming in the crowd.
+
+A gap that was created around the most popular man in the city.
+
+He was young, barely into his twenties. His black, silky hair was done into a simple topknot, and his face was handsome, angular, and sharp, his clean-shaven cheeks enhancing his innate nobility. His dark brown eyes roved the crowd, full of warmth and an almost paternal affection despite his young age.
+
+He wore the robes and sash of office of the highest government official within the city, but he did not rest upon a palanquin, shielded from the people. He strode the cobbled path without fear and without hurry, his steps perfect despite the fact that he had been touring the city since before the sun had risen.
+
+“Lord Magistrate!” somebody shouted, and the man turned to smile at them.
+
+“Good afternoon,” the Lord Magistrate replied. “A lovely day we are having, is it not?”
+
+The people nearby shouted responses, their words affirmative… but none stepped into his path.
+
+He had but four guards who marched with staves and sheathed swords, rather than a wall of helmed men wielding halberds clearing the street beforehand—and the only reason the previous Lord Magistrate left his palace was to go to some noble’s party, not walk the streets and actually see the city with his own eyes.
+
+Any number of mortal guards would have been superfluous regardless. Two women walked beside the man; their bearing immaculate, their eyes absently scanning the crowd. Two flowers, two visions of beauty that would have looked out of place beside any other Lord Magistrate, but looked like they were meant to be beside their own.
+
+Lady An Ran, student of The Demon-Slaying Orchid, protege of Xiulan the Hero, walked on his left. Her hair was done in an elegant braid and her eyes were warm like a summer breeze. Lady An Ran was a living promise to the people of the city, given to them by Cai Xiulan—that her eyes were here and she would not tolerate any noble who dared to take revenge against the common folk.
+
+Lady Xinlai of the White Water Sect strode to his right, her bearing cold and imperial. Normally the people would retreat from such eyes, their hearts stricken with her cold majesty, but all knew she had been there from the beginning with the Azure Heroes, striking low the wicked. A stern hand of justice, unwavering.
+
+The rest of their Lord’s retinue followed in his wake. Captain Han of the City Watch. Boss Tanhui of Underbridge. Miss Liao. Head Foreman Mao of the Ironworkers. The Masters of the Guilds. The gaggle of scribes and functionaries who walked with much less surety than the Lord Magistrate, many of them sweating.
+
+The Lord Magistrate would occasionally pause for a moment, speaking to the street vendors and asking them about their wares. He would pause by the road workers and the men setting the decorations to praise them for their work. He even spoke to the common man, asking them and their children what their wishes for the New Year were in his kindly voice.
+
+And then he continued on. He kept moving forwards, and the crowd kept parting in front of him without a single shouted order.
+
+Such was the way of their new Lord Magistrate. He was the polar opposite in every way to their previous ruler. He noticed. He cared.
+
+His laws and orders were just, and firm when they had to be. Some had sworn they saw his eyes turn to steel once, and his mere glare had killed a corrupt official who had tried to trick him. And after six months of his leadership, even the most jaded of city-folk would grudgingly praise him.
+
+For their Lord Magistrate was simply different. A tireless paragon who had delivered them from the dark times.
+
+=======================
+
+The Acting Lord Magistrate of Grass Sea City slumped backwards in his chair, a cold cloth over his eyes. He was in his private office, the glowstone lights dimmed, and he could finally—finally—let out a pained groan.
+
+His feet hurt. Why the Hells had he thought walking around the entire city was a good idea? It was what his father did, but Verdant Hill was a fraction of the size of Grass Sea City. It had been a brutal, grueling slog. It had been cold and his cheeks still stung from it.
+
+About the only good thing was that he was able to confirm every project was right on schedule… and he had partaken of some truly delicious heated and spiced cider. It had been the highlight of his day!
+
+And then he had come back to three stacks of paperwork.
+
+Tired and sore from walking, they had taunted him. But they needed to get done. Blessedly, they were the last of it. He had no paperwork tomorrow—but he had just as much work watching over the festivities and the party in the Palace… as well as playing peacemaker with Lady An Ran and Lady Xinlai. Both women put up polite masks outside, but whenever they were alone together they sniped constantly at each other with smiles on their faces.
+
+The Acting Lord Magistrate let out what sounded like the death rattle of a dying man. He needed a damn break.
+
+But of course, he couldn’t be left alone for too long.
+
+There was a polite knock on his door. The Acting Lord Magistrate pulled the cloth from his eyes and quickly made himself presentable. He schooled his features.
+
+“Enter,” he called. The door opened, revealing his secretary, one Mister Shui Shi. He was a most skilled aide. Frankly, the Acting Lord Magistrate had no idea how he would get by without the man. “What is the matter?”
+
+“There's a visitor, Lord Magistrate. All of his seals check out, and he has a delivery for your eyes only.”
+
+The Acting Lord Magistrate raised an eyebrow. “Must be important then. Please send him in.”
+
+Shui looked to the side, and called, “The Lord Magistrate will see you now.”
+
+The Acting Lord Magistrate gave himself one more once over and then sat how his father sat, relaxed, in control, yet not intimidating—
+
+And then he saw the man who walked through his doorway. The Acting Lord Magistrate’s face froze. He felt sweat bead on his back. His stomach churned like a cauldron.
+
+The man’s boots were of impeccable quality, and clearly made for harsh winter roads. He had a large, exquisite satchel on his hip, a true work of art. His outer jacket was perfect for the cold, and had the look of some kind of uniform that complimented his brimmed hat.
+
+But more than that, was the man’s face. Because the Acting Lord Magistrate knew that face. He had trained with that face. He had drank wine with that face, and that face couldn’t be here.
+
+“Ming Jie?!” the Acting Lord Magistrate most certainly did not squeak.
+
+“Young Master,” the man replied, clasping his hands in the proper, courteous gesture. He gave the Acting Lord Magistrate a small smile, before his face became stern. “I have a special delivery from your Honourable Father and Honourable Mother.”
+
+“Ah…” the Acting Lord Magistrate barely got out. His eyes desperately searched for his secretary, but on hearing why Ming Jie was here the man gave the Acting Lord Magistrate a brilliant smile… and closed the door to give them some privacy. He nearly screamed at the other man not to leave him alone… but it was too late. He licked his lips. “You’re… quite far from home.”
+
+“Yes, indeed I am, Young Master. Though I was quite surprised that you were not in Pale Moon Lake City, like your letters indicated. It took me nearly two months to get across the Grass Sea—the weather was particularly poor in the last stretch.” His voice was calm and matter of fact.
+
+Meanwhile, the Acting Lord Magistrate was panicking.
+
+“D-do they…?” he rasped out.
+
+Ming Jie nodded. “They know. My Lady is… cross with your deception.”
+
+The words sent a dagger of fear to the Acting Lord Magistrate's soul.
+
+Oh Heavenly ancestors, doom, doom upon him.
+
+His composure finally broke. “How did they find out?! Why did they find out?!”
+
+Ming Jie’s eyes gained a bit of amused malice. “My Lord and Lady are close, personal friends with a certain group. I believe the people of this city call them the Azure Heroes? They spoke most glowingly of a certain Special Inspector in a letter to their Master… and later to My Lord and Lady themselves.”
+
+The words were so absurd that they nearly didn’t make sense, but he caught on to one thing.
+
+“There are cultivators around mother?! How is father—”
+
+A letter was respectfully, but firmly placed on his desk.
+
+“I believe you can ask them yourself in a return letter… or over the Transmission Stone. I’m not to leave until either are sent.”
+
+The most powerful man in Grass Sea City folded like cheap linen.
+
+His hands reached shakily for the letter… or rather the envelope? It wasn't a scroll, but a rather thick folded package. It was rather clear how to open though, so he broke the wax seal and began to read.
+
+“To my dearest and most filial son…” the letter began, in his mother’s hand.
+
+The Acting Lord Magistrate instantly knew he was absolutely doomed… but curiosity kept him reading anyway. Surely meeting Xiulan was the most exciting thing his hometown had suffered?
+
+As it turned out, he was absolutely, positively wrong.

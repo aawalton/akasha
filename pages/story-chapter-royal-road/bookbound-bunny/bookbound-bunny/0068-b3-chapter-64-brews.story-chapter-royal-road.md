@@ -1,0 +1,167 @@
+---
+id: e24a5df7-5543-5f52-8c7e-8cc164a55095
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 64 - Brews"
+slug: 0068-b3-chapter-64-brews
+partOf: bookbound-bunny
+position: 68
+ownLength: 2250
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3660981/b3-chapter-64-brews"
+royalRoadId: "3660981"
+---
+
+"But, before we begin judging, does anyone have a guess at what this potion is? I'll give a bonus point if anyone gets it right," Sylwel said with a wry grin.
+
+There was a lot of mumbling from the participants, but not a lot of answers. Eventually, a few guesses were thrown out haphazardly, but Sylwel wasn't accepting any of them. Lily also threw out her own guess at an anti-drowning potion, and while it raised the professor's eyebrow, he also shot it down.
+
+"We had a few guesses that were almost close enough," Sylwel revealed. "I'm glad to see a few of you at least reasoned out that this was a water-themed brew. As for the actual potion, it has a few names… Riverfolk's Lung, Fisherman's Last Sip, and, my personal favorite, Bubblebelly Tonic," Sylwel chuckled to himself. "As for its use, it's a very minor effect as it simply lets you keep your breath underwater for an extended period of time. Naturally, there are far superior potions that let you actually breathe underwater, although those have much more costly ingredients and recipes."
+
+"Thank you for the explanation, Professor, but shouldn't we move on?" Headmaster Fabrelis interrupted.
+
+"Right, right. Technically, Lily was the closest, but considering that many people have drowned trying to drink this when they were running out of air, I simply can't. It must be imbibed before going underwater. Anyway, let's start the elimination."
+
+Lily expected the judging to take a long time, having never watched it live before; however, against her expectations, it happened rather quickly. Professor Sylwel was rather brutal in his evaluation; evidently, he'd been paying close attention to each student's brewing methods and swiftly eliminated over seventy percent of the students.
+
+"Unfortunately, your concoctions aren't at all viable. You messed up too many steps, and if anyone were relying on these, they would be found sleeping with the fishes. However, don't be too discouraged, in the next class we will officially go over this recipe together."
+
+The remaining students were everyone Sylwel had previously marked as assistants, and a few extra additions. Now that the number had been significantly reduced, he started evaluating each brew. His method? Personally tasting it, of course… The professor would take a sip, scribble something down, then take another sip or move on, though some students weren't so lucky and were eliminated after the first taste.
+
+Nobody disputed his judgment, as no matter how eccentric he was, his actual method was renowned as one of the best in the kingdom. After all, no other alchemist would so haphazardly ingest practically anything and everything.
+
+"Everyone who's remaining, you have an effective potion and my seal of approval to actually use them or sell them. Now onto the winners…" Sylwel said, drifting off a bit while appearing a little conflicted.
+
+"Technically speaking, I should award Lotte the victory based on potency, quantity, and time; however, there appears to have been a bit of an accident," Sylwel sighed, with an apologetic expression. "Your potion appears to be slightly toxic, and only someone like yourself can safely use it. You were the one closest to using the Crimson Fungus correctly."
+
+Lotte blinked in surprise. "Really? I thought I screwed up…"
+
+"You added the fungus, then removed it before allowing it to fully dissolve, which is the ideal outcome. Yes, you lose some of your brew, but it acts like a catalyst and provides an increase in the concentration for the remaining liquid."
+
+It was a double trap!? Lily couldn't believe it.
+
+"I guess I contaminated my mixture when I grabbed it out of the pot…" Lotte replied, showing her hand, which had some burns on her fingers. "I didn't want to stop stirring… and when I saw it shrinking I panicked, reached in and yanked it out."
+
+Sylwel nodded. "While I admire your bravery, sadly, I can't approve of it in this case. Still, I wanted to make a special mention of it, as, whether by luck or chance, you did end up with the ideal outcome. Sometimes in alchemy, the unexpected can happen, and you need to be willing and able to react in time. I have some high expectations for your future endeavors."
+
+Lotte smiled, even looking a little embarrassed at the compliment. Lily was happy for her and definitely agreed she had great potential.
+
+Maybe someday I'll have to ask her for help on my assignments…
+
+"Which means that the winner by default is Lily. While she didn't have the best time, her method was virtually flawless, and her sheer quantity of viable potions speaks for itself."
+
+"Yes!" Rose screamed from the audience, causing Sylwel to nearly jump out of his skin in surprise.
+
+I won? Lily was a little surprised after hearing about the catalyzing effect that concentrated the potion. But looking at how few potions the other students had, she realized what the professor meant.
+
+After recovering, Sylwel continued, "Yes, it isn't concentrated, as she didn't include the Scarlet Fungus at all, but it's a textbook example of the original recipe."
+
+"Original recipe?" one of the students asked abruptly, looking a little displeased with the outcome.
+
+"Yes, the original recipe doesn't include it at all. Adding Scarlet Fungus is something I included, as it was what I discovered during my younger days," the professor explained. "That's why I used it for this competition, I wanted to show you all that even existing formulas can be improved. I also wanted you to teach you not to just blindly follow recipes; sometimes your own gut and intuition are far better."
+
+The students and some members of the audience began to nod. Then the professor turned to Lily. "What made you choose to exclude the Scarlet Fungus?"
+
+Lily hesitated for a brief moment, not expecting to be put on the spot, but managed to recollect herself. "It seemed strange for a fire-based ingredient to be included in an almost exclusively water-aligned recipe. Then I also noticed it was the only fungus, which made me more suspicious. The instructions were also a bit weird…"
+
+Sylwel was happily nodding along until Lily's last words, which seemed to confuse him. "The instructions were weird?"
+
+Lily nodded and pointed at the recipe still projected. "It sounded more like a cooking recipe; I've never diced ingredients for alchemy… I thought it was intentional to get us to notice how weird it was."
+
+A few of the students murmured in agreement; evidently, they had questioned it but trusted the recipe.
+
+Sylwel coughed awkwardly. "Oh… Um… Sorry, that wasn't intentional. I just found that dicing made it easier to remove from the cauldron during the brew."
+
+That got a few chuckles, including from Headmaster Fabrelis. Apparently, it wasn't often that Sylwel felt embarrassed by his actions. After that, there were no further comments about the results, and he finished ranking the remaining students.
+
+Sylwel still awarded Lotte second place, despite the toxic component, because he felt she truly deserved it. Lily felt a little awkward taking first place because of a technicality, but Lotte didn't seem bothered by it. In fact, she even gave Lily a thumbs-up.
+
+As for the prizes, first, Sylwel reminded the students that they could keep their potions. Next, he awarded the top five additional ingredients in proportion to their rankings. Everyone who participated also got the official recipe, which included the missing line about removing the diced fungus within ten seconds of their entry. It was also clearly stated as optional, proving he wasn't lying about the original recipe not using it at all.
+
+The original recipe stated its official use allowed one to hold their breath underwater for up to twenty minutes, depending on the user's fortitude, while the concentrated version went up to thirty. Considering it was only a tiny, very simple addition, it was easy to agree with the professor's assessment. There was also a small warning stating that this potion only worked in water, and not to attempt it in other fluids.
+
+As for Lily, the winner, she had thought her abundant ingredients were her ultimate prize, but Sylwel handed her another page with another recipe.
+
+"This is another one of my improved formulas. We will learn the generic version later, but you should be able to brew it. You'll also receive ingredients to make up to ten batches, although if you run out, you'll need to buy or trade for more."
+
+Lily glanced at the page and saw the words "Mermaid Lotion" crossed out at the top and replaced with "Waterproof Wash". She immediately looked up in confusion, only to see the professor grinning triumphantly.
+
+"This may or may not be very beneficial for you. Only time will tell," he said cryptically before walking off.
+
+Lotte walked over, and Lily looked back awkwardly at the professor. "Um…"
+
+"You can do whatever you want with the recipe; it's your prize. Just remember that your free ingredients are very limited and only two of you can acquire more of them at the moment."
+
+"Only two of us…" Lily murmured.
+
+"Do you think he means the dungeon?" Lotte whispered.
+
+"I know we reached the second floor, but the other students can still use the ingredients from there…" Lily replied.
+
+"But what about the third floor?" Lotte asked.
+
+Lily quickly glanced at the list of ingredients, most of which were entirely unfamiliar, and if not for one having "coral" in its name, it might not have been obvious.
+
+"There's definitely not any coral in the forest…" Lily whispered back.
+
+Sounds like the third floor might be a little wet," Lotte said with a bit of a giggle.
+
+"That explains the professor's actions… Although, do we even have permission to go there?"
+
+"Maybe from our reward for winning the camping trip?" Lotte suggested. "Although Alice hasn't actually confirmed that yet. Plus, we have only just reached the second, so it might be some time until we discover what we need to do."
+
+Lily nodded in agreement, and then the pair began gathering up their potions before leaving. After what Sylwel had said, Lotte had made sure to mark her bottles so that nobody else would accidentally drink them.
+
+Then the two left the stage, where Lily was unceremoniously grabbed by Rose. "You won!"
+
+"Oh, right, congrats!" Lotte quickly added.
+
+"Thanks… Although I don't really feel like I won. I felt so confident in figuring out the trap, but hearing it was actually beneficial makes me feel dumb."
+
+"Blame the professor's cooking instructions," Rose snorted, causing Lotte to giggle.
+
+"Or me for sticking my fingers in an active potion. I should be lucky the mixture didn't explode, or worse. Who knows what basilisk blood can do?"
+
+"Well, either way, I'll be sharing the recipe with you," Lily stated. "With my focus on glyphs at the moment, I probably won't have the time to play around with this."
+
+"I don't mind doing a bit of the groundwork, but I hope you'll take a shot at it. I don't think the professor would be too happy if you abandoned his improved formula," Lotte replied.
+
+"When I have the time," Lily agreed.
+
+"With today's show, your free time might be limited," Rose pointed out.
+
+"Yeah, I agree, I think a lot of people are going to suddenly want inked glyphs."
+
+Lily sighed. "Well, that's the problem for the two professors to solve. I'm sure Professor Sylwel will make more ink, and Professor Ollie will include more of his students in the work."
+
+"What about selling them?" Rose suggested. "Considering the talismans are disposable, you'd have plenty of recurring customers."
+
+"Again. Time," Lily groaned. "If I use up all my ink to make money, then I need to work for Professor Sylwel to get more, which would eat into more of my time. I get the feeling he isn't going to just accept money for his ink."
+
+"Yeah, I think he's loaded with his transmutation magic," Lotte agreed.
+
+"If it's something for the school, and during school time, I don't mind helping out," Lily said. "But between my own studies, not to mention the dungeon, I have to be smart about it."
+
+"The dungeon is definitely more exciting," Rose promptly agreed.
+
+"And I suppose with you drawing glyphs in the air, ink must feel like a downgrade," Lotte added.
+
+"I don't know if I'd go that far," Lily responded, defending her talismans. "I still enjoy using ink, and having it fully prepared can't be understated… I'm just working towards something else right now."
+
+"No issue, anyway, we still have lots more time today… Unless you want to watch our seniors brew?" Lotte asked.
+
+Lily shook her head. "Not really, unless you want to?"
+
+"Nope. I'm actually more interested to see if we can find Hana. I want to see what her parents look like," Lotte admitted.
+
+"Sounds like we will be spending the rest of the day wandering around then," Rose happily agreed. "But first, let's go grab a snack. I smelled something delicious earlier that I wanted to check out."
+
+"Sounds great," Lily replied.
+
+"I hope it's sweet. I need some sugar after all that alchemy," Lotte admitted.
+
+"If it's not, we can always go see Aura for a treat," Lily said.
+
+"As long as it's baked. Otherwise, we run," Rose joked.
+
+The trio chuckled and began heading back to the stalls. Judging by the new additions or replacements that had been set up, it looked like there was plenty more for them to explore.

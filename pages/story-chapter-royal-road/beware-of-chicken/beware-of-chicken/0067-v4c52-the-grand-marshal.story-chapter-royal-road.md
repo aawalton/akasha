@@ -1,0 +1,183 @@
+---
+id: c4e5f5a7-ab20-5204-9cca-9949be250e6c
+page-type-slug: story-chapter-royal-road
+title: "v4c52: The Grand Marshal"
+slug: 0067-v4c52-the-grand-marshal
+partOf: beware-of-chicken
+position: 67
+ownLength: 2277
+unit: words
+ownProgress: 2277
+publishedAt: 2023-10-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1385977/v4c52-the-grand-marshal"
+royalRoadId: "1385977"
+markedReadAt: "2026-06-29T18:53:41.767Z"
+---
+
+It was three days later when Xiulan finally managed to get some time alone, collapsing onto her new desk contained within the Dueling Peaks.
+
+Of course, committing to this path had been only the start to things. To Xiulan’s amazement, every Sect present had joined in with them... but she knew in her heart that not all of them had done so out of a true desire to enact the changes they would be making.
+
+No, most had seen the writing on the wall and the implicit threat of the Grand Ravine Sect. In the end, from those Sects’ perspectives, it wasn’t much of a choice at all. Better to be an unwilling part of the coalition than an outsider against the might of over ninety percent of the Hills.
+
+There would be problems, but those were issues for the future. She hoped that with time she could change their minds. For now… for now, she had done it. The first step was made. She needed only to make a thousand more. Easy enough.
+
+And to her chagrin, the first step was paperwork.
+
+They needed to decide on meeting places, on a governing body, a council to oversee disputes…
+
+Creating a task force of cultivators dedicated to security would also be a necessity.. That, surprisingly, had been one of the easier things to set up—Tigu had unceremoniously taken charge of the as-yet-unnamed united guard force, with every Sect seconding cultivators to it. Yin, Rags, Loud Boy, and the Torrent Rider had eagerly joined Tigu there.
+
+Delun had formed the Azure Hills Renewal Force—gathering those whose ancestors had originally helped build their province to now repair what was broken.
+
+For everything else? There was so much paperwork that they were going to have to do. And while Xiulan had said she wished not for dominion… she had found herself at the head of everything.
+
+They had named her the Grand Marshal of the Azure Hills. The title felt a bit too grand, but it was one she would wear with as much pride as she could muster.
+
+Though it did mean that Xiulan was the one who had to make sure all that paperwork was in order and she currently had the final say on things, in addition to being the first person the Elders and Sectmasters would contact if something came up. A title with much work and responsibility. She was quite glad Pi Pa had taught her a few tricks for keeping things organised or she would have already been doomed. Still, it would be months before they could leave the Dueling Peaks.
+
+I wonder if it's too late to give up my position, she joked to herself, imagining Tigu in her position, the woman slumped over the desk with steam coming out of her ears
+
+She sighed and leaned back in her chair, looking up at the ceiling. She felt deep in her soul a gentle pressure—a hand offered in support. Xiulan smiled at the touch and then sat up straight.
+
+Months. It would be months—but by the solstice she would be back home. She would be with her friends and family again.
+
+She was looking forward to it.
+
+She stretched her back and got back to work. She would definitely need some assistants soon, however. As Jin said, delegation was an overpowered technique.
+
+Hours passed. Tigu, Xiulan, and Delun visited, dropping off more paperwork or meeting with her to discuss particulars. An Ran showed up, Xiulan’s closest disciple settling in without a word to help her organize things.
+
+Xiulan was optimistic for the future.
+
+========================
+
+When she finally called a stop to the day’s work, the sun was setting.
+
+Xiulan cleaned her desk, carefully filed away the matter she’d been working on, and stood. Looking over the last missives she had received, one of them caught her eye—most were invitations or meetings for the next day, but one was for that night.
+
+An invitation from the Patriarch of the Grand Ravine Sect to drink with him privately. It was not something she could really refuse; so she pulled on her shawl and set off to the private meeting room the Lord Director had prepared.
+
+Ulagan Baatar was already waiting for her when she arrived, seated in a chair with three lines above his head.
+
+“Grand Marshal Xiulan,” he hailed her, his conterance calm.
+
+“Patriarch Baatar. To what do I owe this pleasure?” she returned as she sat, her own three lines lighting up.
+
+The table was covered with food—though not food one would normally bring. Instead there was horse meat, cheeses, and thick looking stews. Food she had been served by Auntie Hu Li and the cuisine of the Grand Ravine. It suggested a longer and more serious conversation than his invitation implied, and one in which he was… placating her, perhaps, or trying to convince her of something.
+
+“Business, not pleasure, I am afraid. Though you have undoubtedly had a hard day. Please, partake of the fruits of the Grand Ravine and rest before we discuss serious matters.” His voice was light, for all his seriousness.
+
+Xiulan nodded. “Is there any butter tea?” she asked, and the Patriarch perked up slightly.
+
+“Indeed, Grand Marshal. My own family tends to this herd, and its quality is the highest you shall ever taste,” the old man said proudly, and to her surprise he showed her great face by taking the teapot and pouring her a cup of the thick drink. It was not Xiulan’s favourite, but it went well with the grilled meat and the pickles.
+
+She took a sip and considered the brew. “It is indeed of fine quality—it tastes quite different than the kind my Auntie makes.”
+
+The Patriarch nodded. “Yes. The butter tea of our northern cousins has a different aroma, from their yaks feasting upon the northern grasses—it has been centuries since I tasted it.”
+
+In contrast to the usual domineering personality of the Patriarch, the man was acting almost grandfatherly as they spoke about the food, the process of creating it, and her own thoughts on how the meetings were progressing.
+
+Xiulan felt herself relax slightly, for the man seemed genuinely happy and far more open than she was expecting.
+
+Soon, however, the table was cleared and they each had a cup of alcohol that Xiulan was completely unfamiliar with in her hands—a wine that had been aged in a wooden barrel.
+
+She took a sip and nodded at the flavour, aware of the Patriarch’s eyes upon her.
+
+“You were right, Cai Xiulan. You are worthy to bear that flag,” the Patriarch of the Grand Ravine Sect said. “I confess my ignorance and retract my insult. Please, carry it aloft with pride.”
+
+Xiulan inclined her head. “Thank you for your words, Patriarch Baatar.”
+
+The man nodded in turn before his eyes focused on her and the Patriarch returned, supplanting the grandfather she had enjoyed her meal with.
+
+“I shall be blunt. I would have you marry Tarkhan—you know him as Daxian the Younger.” His voice was matter of fact, and Xiulan blinked. That was blunt. “We shall join you to our tribe. You shall learn the ways of our people… and forever more shall you have our backing. The cultivators of the Grand Ravine Sect will march at your command without hesitation. None shall defy us, and we shall hold these Hills within our grasp.”
+
+His words were almost forceful, yet still relatively respectful. He wanted this. He wanted her as part of the Grand Ravine Sect, like how Tianlan and Xiaoshi had been.
+
+It was objectively a good deal to tie herself to the Grand Ravine Sect, to be a part of their family and have the backing of so many cultivators. It likely would solve a lot of issues if she could just command that they go her way.
+
+But Xiulan could not agree to those terms. Not right now. She had promised herself that she alone would decide who she would marry—even if that meant giving up a politically expedient solution.
+
+And a certain other person felt her reluctance and had an objection of her own.
+
+Xiulan felt the stirrings of gold in her soul again, longing to shine bright. This time she allowed it. The golden power flowed into her, almost possessively. It wrapped around her and consumed her, warm and protective. The embrace of a sibling.
+
+The chair she was sitting on lit up with all five colours and lines, and Tianlan’s Qi filled the room. Xiulan felt her power shift as markings crawled across her eyelids and forehead.
+
+“I would gladly learn the ways of the Grand Ravine. I would gladly help you protect your way of life. But I will not give up that choice for it. That one is mine and mine alone.”
+
+Ulagan Baatar stared at her, his eyes wide. The man shuddered as Tianlan’s presence filled the room. “You could have come as an empress,” he finally managed to choke out. “You could have had us upon our knees before you.”
+
+“I could have… but I will not. I shall not command. I shall lead—and those that follow in my wake will know my commitment and my deeds. They will not shrink beneath my shadow and be lesser. They will rise with me, and forge something that shall outlive us all.”
+
+Ulagan Baatar said nothing for a moment. Then he rose and the Patriarch, a man in the Spiritual Realm, bowed.
+
+===============================
+
+For a week the cultivators of the Azure Hills remained cooped up in the mountain. Tao the Traveller waited each day, positively vibrating with excitement. He so desperately wanted to know what was happening, but alas, he found nobody who would say.
+
+And then, suddenly, the doors to the Arena opened. There were quite a few people milling around the town square, waiting for some kind of announcement from the cultivators… but none ever came.
+
+So Tao leveraged some of his contacts. His mortal contacts. Huizhong was giving a private address to community leaders.
+
+Huizhong looked at all of them. “It isn’t treason or war. It was mostly about how they’re making a task force to better hunt down bandits like Sun Ken,” the man said. “So, big news… but nothing really for us mortals to worry about. Life will go on.”
+
+And that was that. It sounded boring though. So Tao went digging deeper, until he found somebody else. A young man who had been there, along with Huizhong. Bao Wen couldn’t really hold his drink… and what he told Tao was the best story he had heard in years.
+
+Cultivators of the Azure Hills Discuss Unification.
+
+He’d sit on this one a little. But this… this was something interesting.
+
+This was an opportunity.
+
+============================
+
+The Auditor sighed as his carriage rattled down the road. His ears were still ringing from the chastisement his patrons had given him over the Transmission Stone.
+
+It wasn’t his fault he got told to ‘get’ by the Patriarch of the Grand Ravine Sect, but Lady Wu had been… upset.
+
+Extremely upset.
+
+… he really shouldn't go back to Pale Moon Lake for a couple of months. He should give it time and let them cool down—
+
+—oh, wait! He had another assignment that he had forgotten about during his duel of wits with Huizhong.
+
+He pulled the scroll out and read it.
+
+Some poor rural bastard had somehow gotten on the Wu’s shit-list… but better them than him. Hopefully he would be able to find some success there, and then Lady Wu wouldn’t… do something unfortunate.
+
+That said, he lamented how far north he would have to go. Verdant Hill was very far away.
+
+=========================
+
+Zhang Zeng sat in his quarters, his eyes focused on the reports of his agents. He took a mouthful of rice and chewed, savouring the taste.
+
+Something big had definitely happened in the Azure Hills. Most of the cultivators had dispersed and were now traveling back to their sects.
+
+And his woman had whispered that now was the time to strike. Her voice had been hot, sending his pride soaring. He could surely strike now… but still something stopped him: the nagging feeling in his gut that said that something was wrong. That this was some sort of trap, and that he was dancing to the strings of some unseen puppet master.
+
+He bit down on his chopsticks and growled, looking at the reports. One said a man had gone north, and it wasn’t a sure thing…. But it looked right.
+
+“Send the scouts to the north,” he commanded.
+
+What was it? What was going on here? What was he missing?
+
+Meanwhile, in his body an invisible war raged—and a woman stewed with anger and confusion at the inaction of her patsy.
+
+==============================
+
+Ning of Dueling Town yawned as she sat behind the counter in her father’s shop. This was boring! Dad said he would be back ages ago!
+
+Ning sighed and grumbled. It was her fault for saying she wanted to learn more about the shop anyways. Building this place with Mister Freckles had been fun! But girls didn’t do construction, or so Ma said.
+
+So instead Ning was learnin’ how to run the shop… which was kind of fun as well.
+
+The door opened and Ning glanced at the new customers… and her eyes widened in shock.
+
+“Hey, Ning!” an orange-haired girl greeted her. An orange-haired girl who was Mister Freckles’s daughter. “Is the roof holding up alright?”
+
+“Is it ever!” Ning cheered.
+
+================================
+
+The seeds of the dandelion scattered, took root… and scattered again, drifting to all four corners of the Azure Hills.

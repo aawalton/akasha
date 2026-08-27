@@ -1,0 +1,95 @@
+---
+id: 5a197648-80ad-51a0-b3ae-0ce8163014a6
+page-type-slug: story-chapter-royal-road
+title: "30: Moonsword"
+slug: 0030-30-moonsword
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 30
+ownLength: 1271
+unit: words
+publishedAt: 2024-12-09
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1947540/30-moonsword"
+royalRoadId: "1947540"
+---
+
+30:
+
+[Moonsword (Qi Gathering Stage Artifact, Rare) and Moonsword Sheathe (-) has been deposited into your inventory. 5000 TP has been subtracted. Available TP: 22]
+
+Jack didn’t hesitate any further as he reached for a tear in the void and pulled out the sword he had so heavily invested in. Its hilt was wrapped in a soft, felt touch leather, the noticeable lack of a knuckle guard allowing him to adjust his grip comfortably before he pulled the blade out.
+
+His gaze ran along the length of the blade, noticing the cruciform hilt, the white marble-like stone that the double-edged blade was chiselled out of and the smoky gray crystal with a blue sheen emanating from its core that comprised the tapering, roughly triangular pommel, it’s tip pointing towards the wielder.
+
+If Jack had to guess, the blade was roughly thirty inches long, give or take a few in either direction. It was too long to be called a shortsword, but it was a single-handed blade and nearly not the length one would expect from a longsword. An arming sword, then.
+
+Jack immediately used inspect on the sword.
+
+[Moonsword, Qi Gathering Stage Artifact (Rare)
+
+Description: Chiselled out of {unknown} ore, the Moonsword excels at thrusting and slashing attacks while offering the wielder versatility as a single-handed sword that offers superior range to the shortsword while being easier to navigate in battle compared to a longsword. The Moonsword exhibits a minor enhancement effect to any unattuned Qi being channeled through it.
+
+Artifact Ability:
+
+Moon-flow: Allows the wielder of Moonsword to invest up to twenty points from their Qi Pool at maximum capacity. The invested unattuned Qi can be stored within the artifact to be called upon to launch attacks or converted into Moon Qi.
+
+The wielder of Moonsword can call upon Moon Qi as an aura that ensconces the sword, greatly reducing the weight of the blade for the wielder while enhancing both the force and speed behind Moonsword for as long as the store of Moon Qi lasts. Wielder can add and convert unattuned Qi into Moon Qi even while the sword is being used for active combat.]
+
+‘Now we’re talking,’ Jack thought as he finished reading through the description. Even without using the Moon-flow ability, the system seemed to think that the Moonsword excelled at thrusting and slashing attacks.
+
+He didn’t have any Qi to spare at the moment and in all honesty, while the edges of the white-marble like material seemed to be sharpened well, they didn’t seem like much.
+
+Jack walked a few steps away from Sarah and swung his blade, swiping at an Anarix Tree’s branch that he could just about reach with the tip of his blade.
+
+It normally would take him a minute to saw through the branch, but the moonsword practically glided through the Qi-enhanced branches of the Anarix Tree. Jack had to drop his blade to the side and catch the falling branch with both his hands, to muffle the noise from the impact as much as he could.
+
+A muted thump sounded out, much to his relief and Jack gently placed the severed branch onto the ground before reaching for his sword.
+
+“That’s new,” Sarah remarked, a tone of surprise audible in her voice.
+
+“It is,” Jack replied as he picked up his sword with a new-found respect in his gaze. It had come with a sheathe of its own that he pulled out from his inventory, before tossing his old blade back into the void. In case he lost or got separated from his Moonblade, it would serve as a valuable backup, though Jack hoped the situation wouldn’t come to that.
+
+Once his newly acquired Moonsword sheathe was clipped to his waist, blade held within, Jack turned to face Sarah.
+
+She hadn’t bothered to hide the interest in her gaze as she studied the hilt of the blade he had sheathed to his waist.
+
+“Did you spend five thousand points on that?” Sarah asked, her tone tinged with surprise as she voiced her theory.
+
+“How’d you know that?” Jack asked, not denying her claim. It wouldn’t make sense to offer a sword in the tutorial shop to someone who had chosen the Spearwoman (Basic) class and he certainly hadn’t been offered any items from different classes.
+
+“You already got that shield for killing the commander and that sword is beyond anything a random Rift Goblin would’ve gotten you. The only spears offered by the Tutorial Shop right now cost 5000 TP, so I just assumed it would be the same for you,” Sarah explained, her tone sounding thoughtful. “How is it?”
+
+“The weapon?” Jack asked, waiting for Sarah to confirm the line of her inquiry.
+
+She nodded.
+
+“Fantastic,” Jack replied. “The shield offers me more utility, because I can use it to defend both myself and you, but the sword is going to help me cut down these beasts faster and more efficiently.”
+
+“I could save up for it,” Sarah mused. “But at the rate they’re selling, there’s no guarantee I’ll have enough before they’re sold out. After what happened with the commander, I don’t think I’m in a position to afford the wait. Investing in strength and constitution isn’t going to keep me alive if I don’t start taking more initiative.”
+
+“You’re already taking initiative, Sarah,” Jack reassured her. “Without the courage you displayed, both of us would’ve fallen to the commander. I might’ve killed the creature, but it was you who gave me that opening. Honestly, thinking back on it, a part of me feels like we weren’t supposed to survive that encounter. The reward I got only sells me on that theory. But we did.”
+
+“I..,” Sarah began, only to falter as her voice cracked. “I just don’t feel like I’m doing enough.”
+
+A small smile crept up on Jack’s visage before he replied, “Hey, if you don’t want to hear it from yourself, listen to the doomsday prepper who had a fallout bunker equipped with enough weapons to fund a police department. You did phenomenally well.”
+
+“You had a what?” Sarah asked, clearly taken aback by the revelation.
+
+“Did I not tell you that I was a doomsday prepper?” Jack asked.
+
+“Well yeah, sure, but I assumed you meant your, uh, room had I don’t know, a small collection of guns, some edgy armageddon posters, a camping tent or two and maybe you raided the local hypermarket for their entire stock of MRE’s, maybe? Not a… how am I even supposed to know— wait, you had a fallout bunker in this economy?” She asked, her conflicted thoughts spilling out in a moment of amused relief.
+
+“Only cost about three quarters of a mill,” Jack nonchalantly replied.
+
+“What in the..,” Sarah sputtered, before a chuckle interrupted her protest. A moment later, Sarah had broken out into full blown laughter that she was muffling by keeping a hand over her mouth.
+
+Jack offered her a winning smile.
+
+“Okay, okay,” Sarah took deep breaths to get rid of the bouts of laughter. “So, did you figure out what that Body Refinement Stone does?” She asked.
+
+“No,” Jack replied, blinking repeatedly a few times in succession as he was reminded of his purchase. “With everything going on, it kind of slipped my mind.”
+
+“Do you think you can test it now?” Sarah asked. “They’re selling quickly and if I can get an inkling on what it does, I can make a decision.”
+
+“That’s smart,” Jack replied. “Can you watch over me, make sure nothing creeps up while I fiddle with the stone?”
+
+“I will,” Sarah replied, determination etched on her features.

@@ -1,0 +1,161 @@
+---
+id: f96e9668-f135-54b1-a6fa-3b0f131f0a16
+page-type-slug: story-chapter-royal-road
+title: "v7c57: A Very Swift Tournament"
+slug: 0310-v7c57-a-very-swift-tournament
+partOf: beware-of-chicken
+position: 310
+ownLength: 2296
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3373263/v7c57-a-very-swift-tournament"
+royalRoadId: "3373263"
+---
+
+Meiling and her husband retired to the mountain after their final drink. Both of them had been in a rather good mood after a day of exploration, and when they told Xiulan and Rags about Ye Shun… it turned out the man was apparently already known to Rags, and he had his eye on the man and his family as a precaution. Him, as well as several other groups, who seemed to be a disgruntled set of Independents.
+
+Whatever the case, things seemed to be well in hand; Dong Chou looked ragged and haphazard, but he was a man with a heart of gold, and surprisingly meticulous. He honestly reminded her a bit of the stories her father told of her mother. A person from the city, rough around the edges, crass, rude… and absolutely the best person to have at your back, who would walk with you into the gates of the Underworld without a second thought.
+
+Xiulan and Tigu had really found some good friends, and she hoped to have him for dinner again soon.
+
+And so the night ended without any further events. Jin had still seemed a bit upset over what he had heard the worthless trash say about Xiulan, but the night had been late and he clearly didn’t know how to bring it up to their friend after talking about Ye Shun.
+
+Her husband, for all his normally easygoing attitude, did have his limits. Seeing the fury on his face last night had been enough to shock Meiling out of her own anger… but he had still been focused enough to just leave the fools be. They weren’t worth it anyway, just people who were mad that Xiulan was better than them.
+
+That's all it boiled down to. It didn’t make it any easier to walk away when she heard it, though.
+
+Still, always with the insinuations that Xiulan was sleeping with Jin! That was what everyone defaulted to! Well, they were kind of right. Xiulan had slept in their bed quite often, but that was entirely chaste, even though sometimes—
+
+Meiling shoved the stupid, idle thought away.
+
+Meiling loved Xiulan. It was like how she loved Meihua, her sister in all but blood! Her teasing was just teasing!
+
+Xiulan was a hero. A real noble hero, going off into the unknown to fight against those who would prey on others. But she was also more than the hero, the Grand Marshal; she was a cheeky brat at times, using floating chopsticks to poke people when they least expected it. She was only just a bit better at Go than Jin; she was entirely too lazy, and demanded to be pampered when she got time to herself. She had a wonderful singing voice, and her dancing was even better.
+
+It had been wonderful to be there with her, as Xiulan opened up to them. How the closed-off, rigid cultivator had become Lanlan; the person whose presence always made Meiling’s heart swell with joy. Who held their son with such tenderness and love.
+
+She just wanted Xiulan to be their friend forever.
+
+And… she knew Jin felt the same way. Well, they had never really talked about it, but… she had seen in his expression the same anger that was within her. He loved Xiulan too. It was like how he loved Yun Ren and Gou Ren, who had become his brothers like she was Meihua’s sister.
+
+That was how it was.
+
+Meiling snuggled closer to Jin and fell asleep.
+
+===============================
+
+The next day was another event; one that found them overlooking the Earthly Arena once more.
+
+“And so begins a tournament to showcase the skills of the younger generation, and to see how much they have grown!” the announcer boomed out, while Meiling sat in the “Imperial Box”, watching on. She had heard others describe a tournament, and read about a couple of them, but she had never actually seen one in person. She had been interested in what the draw was, to be honest, and Tigu had made the entire thing sound downright fun.
+
+“I still can’t believe you arranged this,” Meiling whispered out of the corner of her mouth. Xiulan knew of her interest, hence why she had arranged this; a small tournament, its participants randomly selected through a draw.
+
+“What else would this one do, except endeavour to please the Lady Meiling,” Xiulan replied with a cheeky smile, before continuing in a quiet voice and leaning in so only Meiling could hear her. “I needed the practice anyway. These events will require both myself and Director Huizhong working together, so best to find out any problems now.”
+
+Which did make sense.
+
+The Imperial Box itself was indeed a truly grand room; it had many carved reliefs of old heroes, silk tapestries of flags, and the room itself was the perfect temperature, shielded from the summer sun. The only bad part about it was the chairs were slightly too high off the ground, leaving her feet dangling—though Washy noticed, and when he coiled around her chair he let her rest her feet on his back, while he took his own couch.
+
+“Presenting, from the Azure Horizon Sect! Disciple Feng Han!” the announcer called out.
+
+Everyone from their group was in attendance; there were bees on her arm rests, Bei Be was standing at the edge of the box looking at the arena with a thoughtful expression, Zhuye was in her lap, looking around and not really caring what was going on, Suyan was standing at attention behind her chair, Lady Wu was holding the Lord Magistrate’s hand, while Xue Ji surreptitiously massaged his shoulders. The man was not entirely comfortable at having to watch a bunch of cultivators fight, but he was here anyway, and his face betrayed none of his discomfort.
+
+Tigu and Yin were both down in the stands, helping organize things.
+
+Her family was not the only one in the box either. Xiulan made sure to bring them a bit early so they could poke around… before the other Elders arrived. It was another mingling opportunity, and they all wanted to hear if Jin had any commentary.
+
+The rest of the stands were filled with other cultivators, as well as a bunch of monkeys; the audience looked incredibly sparse, as this was a trial run.
+
+“Third Stage of the Initiate’s Realm!” came the booming announcement.
+
+Though it did not diminish the spectacle, Meiling had to admit that watching each cultivator walk up to the giant black stone, place their hand on it, and have images flash across it, along with their cultivation level, took a while. It was pretty exciting. The crowd was certainly getting into it, cheering for each person that came up.
+
+Jin seemed pretty amused by the proceedings as well, but he hadn’t reacted so far, as the Elders murmured amongst themselves.
+
+“Third Stage—he recently made Inner Disciple, did he not?” someone whispered behind her.
+
+“A random sample of our sects today boasts a level of cultivation that was seen only in the most talented of Young Masters at the last tournament,” another whispered.
+
+“Presenting, the Young Mistress of the Crossed Branches Sect, Bai Ruyi!” the announcer declared as a young woman walked forwards, carrying, of all things, a broom.
+
+“Ah, they really did go all in on the brooms…” one person muttered—only for them to cut off their words as Jin leaned forwards to get a good look at the woman using a broom. A small smile was on his face.
+
+“She caught his eye?” “Truly? She's the only one Master Rou took notice of!” whispers sounded out.
+
+“Never underestimate one who wields the broom,” came Jin’s solemn voice… even though he was smiling the smile he got when he found something incredibly amusing. “I can tell she has great skill in the art; and I think she shall win the tournament. We shall have to trade pointers later.”
+
+Everyone in the box gasped at his proclamation. The young woman touched her hand to the stone.
+
+“Fifth Stage of the Initiate’s Realm!”
+
+Another round of gasps.
+
+“I see that you all have grown much since the last time I saw you,” Jin mused. “Even a random sampling of sects has the might of the Young Masters of two years ago.”
+
+The Elders behind them preened.
+
+And then, the gong rang out.
+
+The fights started.
+
+=======================
+
+Meiling realized that the presence of the Sect Elders with them in the Imperial Box did actually bother her. She just barely kept herself from shouting “Yeah, get his ass!” when one of the cultivators finally closed the distance against his opponent who had been playing keep away and peppering him with throwing knives and smoke bombs.
+
+Not out of any real malice, but just because she was really getting into this, and “Lady Meiling” was a lady of decorum. It clearly showed to her friends, though. Xiulan’s lips were twitching with amusement whenever she glanced at Meiling, and Jin too seemed incredibly amused.
+
+The fights were fast-paced, flashy, and mostly just like everyone sparring back home, so it was fun—but it was rougher. The first time somebody’s arm got broken she nearly leapt out of the box to make sure the rather nasty break hadn’t hit a vein—but the cultivator was fine. He was seen to by one of his sectmates, who set the bone, and the man looked completely fine afterwards. It didn’t heal instantly, like they could have healed it back home, but the bruise was still healing at a rate that would have been absurd for a mortal—it was already turning yellow, and it had been less than an hour.
+
+Ri Zu had talked about this too. The Medical Pavillion of the Shrouded Mountain Sect had taken care of all the injuries during their tournament—and those had been much worse than these. So far nobody had had a sword put through them completely; they called it before things went that far.
+
+The bouts came one after another—they were going to finish this before lunch, apparently, and there weren’t that many participants.
+
+A small part of her, deep deep in her stomach, wanted to be down there. Seeing this now, hearing the roar of the crowd, and smelling the clashing Qi—some part of her soul said she was supposed to be in that arena, fighting, winning, conquering. Winning the grand prize. That she was a shooting star that would rise above everyone else.
+
+But it was a quiet demand; a demand in her soul made just for the sake of demanding, and when Zhuye started playing with her fingers it disappeared entirely.
+
+It was an amusing thought… but just a thought. It quieted down after a few minutes, and Meiling just enjoyed herself.
+
+Occasionally, Jin would say something like, “Hmm. Too rigid,” or “A fine blow,” and then there would be more whispers from behind them, commenting on what he said, and discussing what he saw.
+
+At one point Meiling was pretty sure he said “interesting” just to fuck with them… but his initial thoughts on the Broom-Woman were correct.
+
+“She’s certainly cleaning up the competition,” Meiling whispered, under the guise of passing Zhuye off to Jin. This time, it was her husband whose composure nearly broke, Jin barely swallowing a laugh.
+
+She winked at him and sat back down, watching as Bai Ruyi swirled her broom in such a way that her opponent was caught up in a miniature tornado, spun like a top, and then flung off to slam into the wall of the arena.
+
+“Her footwork is impeccable,” Xiulan mused.
+
+“Hm. Powerful,” Suyan whispered, her gaze locked on the young woman.
+
+======================
+
+Throughout the bouts, the arena rose into the sky, affording them a spectacular view of the Grass Sea below them. After each round, the arena would change configuration, adding walls, or different elevations, thereby changing the dynamics of the fight.
+
+The fast-paced, no rest blitz of a tournament was clearly taking its toll on the combatants, who were getting slower and more fatigued.
+
+“It’s better when they can all fight at their best—but enemies will rarely wait for one to recover. Endurance is always necessary,” Xiulan said.
+
+And so it went. The crowd roared. Weapons clashed. Techniques were fired off—and through it all, even the Lord Magistrate seemed to relax enough to enjoy the show.
+
+The final bout came, and Bai Ruyi, as Jin predicted, managed to win. It was close, and probably a bit messier than the woman would have liked… but it was a victory.
+
+“A fine showing, Grand Marshal," Jin said, an approving smile on his face. “The younger generation of the Azure Hills has grown. Please, give a token of my appreciation to the combatants—I have some extra rice and Spiritual Herbs in my carriage."
+
+The Elders gasped.
+
+It was almost funny how easy it was to impress people with their produce—but it didn’t stop the spark of smug pride that formed in her chest.
+
+A sense of pride that redoubled when she saw the looks on the competitor’s faces, when Xiulan announced the last minute addition to the prize pool.
+
+“Master Jin has contributed cultivation resources to all combatants as a show of respect; and to the victor, Bai Ruyi… he shall trade with you one pointer.”
+
+The crowd went absolutely wild.
+
+Though… the ‘pointer’ just ended up being Jin drawing a couple of characters in the dust with Ruyi’s broom.
+
+Meiling really wasn’t expecting the palpable aura of Qi to surround the girl, who looked like she had just witnessed something truly profound.
+
+======================
+
+And then, after lunch, they found themselves once more in a bit more of a private setting, sitting in the manor of the Verdant Blade Sect, having tea.

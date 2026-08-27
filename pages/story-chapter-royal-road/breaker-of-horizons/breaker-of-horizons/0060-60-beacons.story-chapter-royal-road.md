@@ -1,0 +1,93 @@
+---
+id: bd29f483-09c0-58d9-ba22-720cd464399e
+page-type-slug: story-chapter-royal-road
+title: "60. Beacons"
+slug: 0060-60-beacons
+partOf: breaker-of-horizons
+position: 60
+ownLength: 2411
+unit: words
+publishedAt: 2020-11-26
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/591079/60-beacons"
+royalRoadId: "591079"
+---
+
+Working with the mental analogy of being in a room, we huddled together in a corner to reduce the chance that the Demiurge could 'listen in' on our plans. Of course, we had no guarantee that the Demiurge wasn't still able to follow what we were doing, but in the spirit of exploration and experimentation, we wanted to see what did or did not work.
+
+Even as we drew closer, I marvelled at the ease of communication we enjoyed in this space. I could tell that we were all making use of Emilia's mental trick because the sense of orientation grew when we were 'close' enough to sense more of each other. The security and certainty that came with visualising a physical space emanated from each one of us, resonating with the commonality of our own focus so that together we formed a kind of structure — an island, almost, of stability wrapped around that concept that Emilia had provided for us — that bobbed in the turbulent river of arcana.
+
+At this distance, Ambrose didn't even need to really speak. I felt him make a mental sweep of the situation, felt the precise moment when he judged that it was safe to share, and then what followed was a flash of insight that encapsulated his instinctive understanding of the space, and what he wanted to test out to see if it would help us locate the Demiurge. It was coming as quickly and easily as my own thoughts came to me, except in this case I could tell the thoughts were his, not mine.
+
+And I wasn't the only one marvelling at this new dimension of communication. Even as I 'stared' in fascination at how Ambrose was clearly passing along all this information to us, I heard, saw, felt, the same awe emanating from the rest. And that, too, coalesced together in our little shared space in the arcana.
+
+Emilia's mind, sharp as a razor, corralled our collective amazement and gently pushed it aside so that the channel wasn't muddied, and we could contemplate Ambrose's plan. Under the umbrella of clarity she provided, Jerric quickly verified the theoretical underpinnings and added some refinements. Devon volunteered a new connection he had made thanks to his earlier insight about how to accomplish instant relocation of awareness within the arcanic space. Kevan pulled in a theory about cascading effects that he had come up with during his sessions with seniors which could be applied in this space, and Lynus' perspective of that same event presented a unique flavour that allowed us to collectively spot another possible application of that theory. And as a result of witnessing all these things, it occurred to me that there was an arcanic link we could follow to the Demiurge if we could find it first. I added in my own perceptions of the Prophecy's links that I had sensed around each of them when they had heard the words of the Prophecy for themselves, and in so doing I gave us all a target to look for.
+
+'Ready,' we all sent to each other. Our arcanic voices meshed in a resonant chord.
+
+We were working entirely without glyphs here, but Ambrose seemed comfortable enough with that. He drew in a bit of arcana and deftly fashioned it into a shape that echoed the muddy noise of our earlier spillage, much like how I had produced an echo of my own auric-ambient-flare to distract the lake augera the first time I had encountered it with Jerric. To the Demiurge, it would seem like we had failed to contain our spillage again, even though we were keeping a tight rein on it.
+
+The spillage echo, however, was growing in magnitude. The adjustment from Kevan, a more refined version of what he had attempted when trying to improve the power of his arcanic lightning, was causing this construct to draw in more and more arcana so that it could amplify the 'volume' of our spillage echo.
+
+Lynus' input was a stroke of genius, because he helped us realise that this magnification could work in reverse, and it was possible for us to piggyback a second effect into this field. Even as it amplified the spillage echo, the field was working to reduce the noise of our real spillage, so our communication was almost 'silent' in this dimension.
+
+With Devon's insight, we quickly warped away from our present locations. Even though we didn't yet have any target area, it was a simple matter of deciding to be five metres higher than where I am now, or any other similar pronouncement that used our own location as a point of reference, and we instantly found ourselves there. We still managed to maintain our communicative link over that distance without being overheard since its signal was masked by the spillage echo.
+
+'I told you all to focus,' the Demiurge's voice boomed again out of the darkness. As it rolled over me, I could feel the intent he had pushed into it; the power to disperse that fog of noise that was blaring out from the spillage echo.
+
+That was what we had all been waiting for. Arcanic voices seemed to be like perturbations in the arcana, and although there was no physical direction to it as with a real voice, they were still extremely useful in tracing someone. In the arcanic space, his voice's distinct signature carried a part of who he was — and he was bound by the links of the major Prophecy. I tasted the barest trace of it in his voice, and so did the rest. In unison, from seven different directions, we seized upon that tenuous connection — that extremely subtle, ever-so-slender thread of the major Prophecy twining around the Demiurge.
+
+Before he could throw us off the scent, we warped to its source using Devon's trick. I felt a fleeting moment of disorientation and realised that we were mere inches away from the dodecahedron. That made sense since it was the thing that seemed to be weaving prophetic links around people.
+
+But here, we were stymied. It was easy enough to trace prophetic links from the dodecahedron — the problem was that there were too many of those links. To our senses, it looked like the whole thing was in the centre of a web with millions of tiny off-shoots. Six of those were tethered to the others, but it was only possible to tell because they could trace where the prophetic links led from their own auric-ambient-flares to the crystal. Trying to find the one link that led to the Demiurge was worse than trying to find a needle in a haystack.
+
+I was briefly reminded of what the lake augera had told me. If this was how the Fateweavers perceived the world, it was no wonder they hadn't 'spotted' me yet.
+
+'It was worth a try,' Devon sent, sensing my disappointment over how my contribution hadn't borne fruit.
+
+'We should have realised doing that would put us next to the dodecahedron. It's such a large thing in this space that it was bound to draw us in when we're using prophetic links as a dowsing rod.' Emilia's self-reproach was so strong that she momentarily muddied our channel, especially since Jerric was putting out a similar emotion that magnified her input, but she hastily cleaned it up again.
+
+'We'll just use the original idea, then, and put out dozens of these spillage echoes. We'll try to find him as he puts them out one by one,' Ambrose said.
+
+The seven of us flitted randomly around the space, spawning spillage echoes that drew in arcana to amplify themselves. In real-world terms, this was like trying to find an invisible person in a big mansion by making a horrible mess wherever we could, then lying in wait to jump on that person when they tried to come and clean up after us. It wasn't possible for us to see the invisible person, but we could observe their effect on the world.
+
+I found myself caught up in the sheer joy of acting without restraint. It was like splashing paint on walls with wanton abandon, or running around and screaming at the top of your voice, or (and this impression came from Lynus) peeing in a public swimming pool. It was all of these things at once, and more.
+
+Thanks to the dual nature of our spillage echoes, the more noise they put out, the cleaner our signal of communication became. So even though we could hear almost nothing else in the din, the messages and impressions we sent to each other were still crystal clear.
+
+And then, at the same moment, we all sensed it when one of the echoes was silenced. In the cacophony, that one space of quiet was so pronounced that it was as good as a beacon. We flitted over, our metaphorical arms spread wide, and pounced on whatever it was that was occupying that space.
+
+The Demiurge's surprise came through loud and clear before he did something strange, almost like he was bending backwards in half. Instead of crashing straight into him, all seven of us sailed past, narrowly missing him by a hair's breadth. Then, with another strange flexing of his auric-ambient-flare, he sent out a precise burst that unravelled all our spillage echoes, leaving a ringing silence in its wake.
+
+'Well done.' He drifted before us, radiating glee, excitement, and approval. 'Very good improvisation. There are easier ways to find someone, but that was an excellent and creative strategy that you've all developed in the face of the unknown. You've experienced more of how to orientate yourself in this space, and how to travel in it. And quite independently, you've already figured out how to place beacons for yourself in this space in order to help you navigate, so we can skip ahead.'
+
+He flitted away, but this time left an impression like an arrow, directing our attention elsewhere in the space. He was back by our physical bodies, and we joined him there in an instant.
+
+'When a wild augera perturbs the arcana, your physical senses will be so overwhelmed that they become almost entirely useless. At that point, you must slip into the arcana as you are now doing. Observe your bodies now. Why is it useful to be here, in the arcana, when your physical senses are disrupted?'
+
+I braced myself so that I wouldn't fall, fascinated, into the recursive loop of watching my own consciousness watching itself, and took a look at my physical body. After travelling around in the arcanic space without any physical signposts, it was almost a relief to contemplate something so solid.
+
+'We can sort of tell physical direction while we're here, looking at our bodies?' I supplied.
+
+'Yes, exactly. When your senses are disrupted, you can't move properly. You suffer extreme vertigo, hallucinations, phantom sensations. In that state, you're barely aware of what is happening to your physical body. But here, you retain those faculties with more clarity. More importantly, you can now lay beacons for yourself to follow. The trick is moving your physical body while you anchor your attention here in the arcanic dimension.' The Demiurge's body moved into the region we were in and sat down in the chair he had vacated. I noticed his consciousness was still unmoored from his physical body, drifting with us here in the arcana.
+
+The others were attempting to do the same, with no success. Their consciousness flitted in and out of their bodies, and waves of unease and discomfort came off them with each transition.
+
+'How?' Lynus asked, frustration, helplessness, and a great deal of queasiness bleeding out before he finally reined in his spillage.
+
+'A certain level of detachment,' the Demiurge replied, drawing our attention to the threads of his consciousness. He invited us to come a little closer and somehow... 'lifted' it up for us to see, like putting his arm in front of our noses so we could see the hairs on his skin.
+
+His consciousness was other, it was not me, but after a moment it was possible to see similar patterns of thought in my own mind. The details were different, but the structures were the same. I understood the broad strokes of what he was doing, but I would have to figure out the way my own mind processed this, and come up with a solution specific to my own needs and mental patterns.
+
+'Like a doll,' Emilia mused. We watched as her body sat up straight with a sudden jerk, its movements marionette-like. It experimentally waved a hand, then flexed its fingers.
+
+'If that works for you, yes,' the Demiurge replied, though his thoughts were laced with concern. 'As a basic frame to help you grasp the fundamentals, that is fine. But you must not limit yourself in that way. A marionette has only a few points of control. Eventually, you want to get to a point where you can move naturally, and even register what is happening to your physical body while your consciousness is not currently there.'
+
+We were abruptly pulled back into our physical bodies, and I gasped in shock. The Demiurge had walked over to the dodecahedron and wrenched his staff out of it. The world stopped wobbling and rapidly solidified around us. I felt strangely trapped in my own flesh all of a sudden.
+
+"Well!" He smiled around at us. "It wouldn't do for you to linger too long in the perturbations of an augera, even one that is currently ensconced within a nexus. Now that you've gotten a sense of what it is like to work in the proverbial sea of arcana, you can practice in your own time. It'll be harder to get into that frame without a local perturbation, but it'll be safer."
+
+He vanished for a moment, then reappeared with an old leather-bound book, and a thick paper-back lexicon. He dithered a moment, looking at the lot of us, then pressed both of them into Jerric's hands. "Some holiday reading for you. I'll see you all around, though hopefully not before the winter break is over."
+
+And with that, he vanished once more, leaving us alone with the dodecahedron. It rumbled a little.
+
+'Hurry. Learn. Free us.' And even though it was something alien and unfathomably ancient, I thought I sensed aggrieved desperation in that plea.

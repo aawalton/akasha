@@ -1,0 +1,201 @@
+---
+id: 4898d1db-dfc2-5e7d-8740-3560d371753d
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 6 - Setting Up"
+slug: 0010-b3-chapter-6-setting-up
+partOf: bookbound-bunny
+position: 10
+ownLength: 2127
+unit: words
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3052733/b3-chapter-6-setting-up"
+royalRoadId: "3052733"
+---
+
+After covering a reasonable distance, the group finally started to slow down. The group was slightly out of breath, with Lotte suffering the most, but they were terrified of something even fiercer than the dire bear coming to investigate the explosions.
+
+"That was… awesome," Lotte panted.
+
+"Who would've thought we would take out a dire bear before the first day even officially started?" Thomas replied, a smile on his face.
+
+"Hopefully it's the last before we reach our camp," Lily said with a hint of concern.
+
+"What? Can't you just whip out some more of those explodey glyphs?" Lotte asked.
+
+"And attract even more monsters?" Lily retorted.
+
+Lotte sighed. "Good point…"
+
+"And they are explosive runes," Lily corrected.
+
+"Where the heck did you learn those?" Thomas asked. "It kind of looked like the wooden charms."
+
+Lily nodded. "They are sort of related, and I got them from a book on blood glyphs from Professor Ollie."
+
+"Wow, your wand lets you use blood glyphs without the blood?" Lotte gasped in amazement. "I can see why you gave up the biggest bag for it."
+
+"Of course, and when we set up our camp, I should be able to show you both what it can really do," Lily said excitedly.
+
+"Speaking of which… How much further?" Lotte asked and glanced at Thomas expectantly.
+
+Thomas consulted the map and let out a sigh. "It's still a ways off, I'm afraid."
+
+"Really? Why is it so far away?" Lotte whined.
+
+"I wonder if this is Alice's way of bullying us?" Lily suggested.
+
+"I don't think so," Thomas said with a brief shake of his head.
+
+"You sure? Because she's done petty things before," Lotte pointed out, and Lily bobbed her head in agreement.
+
+"I think we got put further away to make it easier for the other students," Thomas explained. "Arthur and Hana also got put just as far as us, except on the complete side of us. I think the idea is that the more capable groups make a perimeter around the others."
+
+Lotte frowned. "That seems a bit unfair, so they get an easier pass?"
+
+"Maybe… I wouldn't put it past Alice to stir up some trouble for them anyway. Also, it's not like we can stop all roaming monsters from heading to the center," Lily replied.
+
+"I'm also guessing we were separated from Arthur and Hana for safety reasons," Thomas suggested. "If there's any real danger, then we've got more ground covered to group up with others."
+
+"I suppose that's reasonable," Lotte admitted.
+
+"On the bright side, since we are at the edge, we have more ground to explore undisturbed by others," Lily pointed out. "Just because the middle groups are safer, doesn't mean that they are in a better position. They will be more restricted in what resources they can gather. Not only do they have their fellow centers to compete with, but nothing is stopping the outer groups from heading in."
+
+"Oh! That's actually a really good point," Thomas said excitedly.
+
+"We should stick to exploring outwards, then, we should be able to gather more riches than anyone else!" Lotte excitedly declared.
+
+The group promptly agreed and continued on to their designated area with more excitement, looking out for any valuable foraging opportunities along the way. The rest of the trip wasn't too eventful, with the highlight being them crossing through the territory of a monster pack.
+
+The territory was occupied by dire weasels, but even with their monstrification they were thankfully not too large. With the size of the bear and wolves they had seen so far, they had assumed everything would be giant.
+
+However, what they lacked in size or power, they made up for in numbers. Their pack was large, which gave Thomas a moment to shine, as when the pack got close, he unleashed a spell of forked lightning that struck countless members of their pack. While each fork was weak, it was perfect against swarm tactics, taking out many of them.
+
+Lily avoided using her explosive runes this time and instead just used her Nebula Veil offensively while occasionally releasing a Starburst. Both were overkill for these beasts, but it paled in comparison to Lotte, whose spell was far too potent for such weak creatures.
+
+However, what really surprised the group was that Yona and Jade had decided to join in the battle. Unexpectedly, the two gluttons had joined the fray. Yona's method of combat was swallowing weasels whole, and that would have been the most disturbing event if not for Jade.
+
+Jade's method of combat was vomiting globules of greenish caustic mucus, which seemed almost on par with Lotte's own spell except in splash radius. The weasels had no chance and were decaying before the group's very eyes.
+
+"Since when can you spit out acid barf?" Lotte asked when the danger had passed.
+
+Jade simply burped in response before licking her lips.
+
+"Maybe it's because this is the first time you fed her magic?" Lily suggested.
+
+"If I had known that, I would have fed her sooner… Maybe I need to paint her blue to match Sylwel," Lotte joked.
+
+"At least that kind of makes sense," Thomas sighed before pointing at Yona. "I have no idea what she's doing. Why can she eat monsters? What even is she?"
+
+The group could only shrug, and even when Lily subtly gestured at Arakil, he couldn't come up with an explanation he was confident in. He threw out terms like void, demonic, spatial, and gluttony, but ultimately gave up on a concrete answer.
+
+[Some Familiars just can't be explained.] Arakil sighed.
+
+***
+
+"So we are in our territory now," Thomas said, putting the map away. "Now we just need to find a good location to set up camp."
+
+"We could destroy some of the trees if we can't find a clearing," Lotte suggested.
+
+"Let's look around a bit first," Lily replied. "If we can't find anything suitable, then maybe I can make one."
+
+"Glyphs?" Lotte asked.
+
+Lily raised her wand with a smile.
+
+"You're making me wish I had taken the subject…" Thomas admitted.
+
+"Nope, I've seen her notes, it's endless pages and diagrams and whatnot," Lotte said.
+
+"It's not that bad," Lily disagreed.
+
+"All I'll say is there's a reason they moved it to second years only," Lotte insisted.
+
+Unfortunately, Lily couldn't refute that and could only sigh. At least Arakil and Ollie shared her enthusiasm for them.
+
+Sylwel, too, although I think he just wants the results more than the art.
+
+The group searched around and eventually found a relatively small clearing in the forest. Feeling the fatigue from the constant travel, they decided it was good enough and collectively fell on their backsides.
+
+Thomas distributed some rations, and they took a well-deserved break while recovering. Lily was very tempted to use the stamina spell to help everyone out, but with no reasonable explanation possible, she held her tongue.
+
+It's too bad I don't have more of Miss Camilla's energy tonic. I wonder if I can find an equivalent recipe with dungeon ingredients?
+
+After resting up, the group got to work. They'd rather have everything set up now than be forced to do it in the evening when they wanted to sleep. Lotte was in charge of the tents while Thomas was digging a fire pit.
+
+Lily, on the other hand, pulled out her wand and began drawing. Her first task was to set up a perimeter of charms around their camp, which she did eagerly. She briefly considered making one and then copying it with the wand's function, but decided not to for further practice.
+
+These runes and charms are already so simple that Arakil will call me lazy if I do that. Although I have to admit it's certainly tempting to copy multiple explosive runes after seeing what two stacked together did to that bear.
+
+Once the deterrence perimeter was complete, Lily began drawing more luxurious designs. The first was a water supply; whether for cooking, cleaning, or drinking, it was essential.
+
+The next was a relatively complex glyph that stabilized the temperature; whether it was a hot day or a cold night, the three of them would be comfortable in the camp. Her two companions instantly noticed the difference when that was completed, and the surprise on their faces was priceless.
+
+"Maybe the endless notes aren't too bad…" Lotte muttered.
+
+"Or you could just pay Lily to do it," Thomas chuckled.
+
+As Lily continued drawing glyphs, Thomas began cooking a meal while Lotte was on guard duty. Lily had plenty of ideas to explore, and the entire campsite was her canvas. By the time the food was ready, Lily had set up lights and even a rain shield.
+
+Everything can be toggled on or off, so it shouldn't need that much Mana. Plus, the dungeon Mana should offset the costs a little, even with the drawbacks Arakil mentioned.
+
+As they ate, the topic naturally turned to the magical light show Lily had created, her two companions dying to know what delights she had brought them. Lily gave them an explanation and even offered further examples of what she could potentially draw, while also asking for any requests or suggestions.
+
+"What about making a big wall around our campsite?" Lotte suggested.
+
+"I could…" Lily mumbled in thought.
+
+"Wouldn't that be too eye-catching?" Thomas asked.
+
+"Is that a problem?" Lotte questioned.
+
+"I heard if a roaming monster's path is blocked, it would lash out," Thomas explained. "That's why the charms give a subtle deterrence rather than a barrier."
+
+Lotte sighed. "That's a bummer… I kind of wanted our own forest fortress."
+
+They continued discussing and throwing around ideas. Some of them were absurd, while others were rather pointless. The two best suggestions were a flame glyph in the fire pit so they wouldn't need to burn wood and a shadow glyph that could shroud their site.
+
+The former was something Lily could throw together in a jiffy, but the latter would require too much of her time to do right now, as she'd never done anything except the personal shadow cloaks.
+
+"I'll design something during the first watch," Lily said.
+
+"I guess that's one way to stave off boredom," Lotte giggled.
+
+"Well, since the camp is ready, should we do some initial exploration before it gets too late?" Thomas suggested.
+
+"Definitely!" Lotte promptly agreed.
+
+[Before you leave, you should make a glyph or rune and position it high up in the air. The type doesn't matter much, but it needs to have enough Mana to be seen through the dungeon's fog.]
+
+Lily was initially confused by the suggestion, but the pieces quickly fell into place. Arakil wanted her to create a beacon that could guide them back to their camp in case they got lost. If it had enough Mana, then Lily's Magesight would be able to see it from a distance.
+
+"Give me one minute before we go!" Lily said excitedly and got to work.
+
+Despite Arakil saying it didn't matter what she picked, Lily went with a glyph rather than a rune. She was worried that the latter could be triggered by a bird or something else, robbing them of their waypoint home. Once the simple light glyph was finished, Lily activated the repositioning function of the wand and directed it up into the sky.
+
+"What's that for?" Lotte asked curiously.
+
+"A marker in case we get lost," Lily explained.
+
+"That's a great idea," Thomas said, scratching his head. "But… Will you even be able to see it if we are far away?"
+
+Lotte glanced up at the glyph high up in the sky and frowned. "I think Thomas is right. I can barely see it, and we're right under it."
+
+"Don't worry. I can see my own glyphs," Lily explained.
+
+"Huh… That's handy," Lotte commented.
+
+"Incredibly handy," Thomas agreed.
+
+[There's no harm in sharing the Magesight technique with your friends. I'm honestly surprised it hasn't been brought up as a subject in one of your classes yet.]
+
+Lily signaled "yes" to Arakil, happy to have more to share with her friends. They'd certainly have plenty of free time before bed, so this would be a great way to bond and pass the time.
+
+Plus, having Magesight will probably help with their night watch. I still need to work on advancing mine from basic.
+
+Lily sighed to herself. She wanted to do so many things, but there was unfortunately only one of her. While Arakil always emphasized patience, she had to admit that it was a struggle when so many exciting things were begging for her attention.
+
+"Nothing else?" Lotte asked.
+
+Lily shook her head.
+
+"Okay, let's go explore our turf," Lotte said with excitement flashing in her eyes.

@@ -1,0 +1,177 @@
+---
+id: d1fdc03f-091a-57f2-98c2-776ce7ae7fc4
+page-type-slug: story-chapter-royal-road
+title: "30. Chipping at the Fetters"
+slug: 0030-30-chipping-at-the-fetters
+partOf: breaker-of-horizons
+position: 30
+ownLength: 2823
+unit: words
+publishedAt: 2020-08-13
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/538491/30-chipping-at-the-fetters"
+royalRoadId: "538491"
+---
+
+7AM. The familiar vibration.
+
+My watch. It still works, even after... after water-sky-warmth-joy.
+
+I wanted to continue to lie there, luxuriating in the warmth of the bed, but something was nagging at me. It seemed especially important that I didn't sleep in today. I had... I had things to go for. There was a test to face... a man I had to... sit against?
+
+My eyes cracked open. The room was dimly lit by a globe light turned low. I frowned — since when had the globe light in the room been this big? Maybe the... the roommate had modified it. But then where was he?
+
+I craned my neck to look over at the bed where the roommate should have been, but there was only an olive-green curtain. A curtain in the middle of our room?
+
+It finally occurred to me that I wasn't back in my room in the dorm. The bed beneath me was slightly bigger and more comfortable, and the curtain that surrounded the bed was a screen that offered some privacy in what was an otherwise open space. I thought I heard the creak of bedsprings from elsewhere in the room, and it gave me some sense of the scale of the place. It was definitely much larger than my dorm room.
+
+There was a name for this place. I struggled for a few moments to grasp it with slippery mental fingers, but then the urge to do so faded away, leaving me staring around, lost. I looked down at myself and saw that I was wearing a loose-fitting blue cotton T-shirt and pants. For some reason, these clothes told me I should be worried. My heart began to race.
+
+Stay in the here and now, the memory of a man said. His face was familiar. I wanted to listen to him.
+
+That was very easy to do. My mind kept wandering from one tattered thought to the next as new stimuli presented itself to my senses — smooth-curtain-green; bed-soft-warm; smell-morning-rich; footsteps-smart-serious. And yet I had a feeling that this wasn't exactly what I was supposed to be doing. I was supposed to stay, not wander-fly-whimsy until I rose-faded-melted into the woven-shackled-stream.
+
+The what? It was strangely hard to follow my own thoughts.
+
+'The woven-shackled-stream, bridled-broken-moulded by the ancient-distant-spiders.'
+
+That tattered thought scattered in the wind as the footsteps stopped right on the other side of the curtain, which was drawn back with a sharp motion. The white-bright-power frowned down at me, and I frowned back at him as I tried to pin down where this face was supposed to fit into my memory. He was wearing a black sweater, grey jeans, and shoes that belonged on someone else.
+
+"A little disappointing, Caden," he said, the frown-lines deepening.
+
+Caden. There was a face that went with that name, too. It appeared in mirrors. It was supposed to be mine. I felt a rising panic as I realised I couldn't remember the face that belonged to me. What was the shape that went with this auric-ambient-flare?
+
+The man must have read the incomprehension in my eyes. The frown vanished, replaced with curiosity and worry. He leaned closer, and I leaned forward, trying to read the name that was supposed to be hidden in the contours and features of his face. Maybe if I could do that, I could find my own face.
+
+"This is what happens when you ignore basic safety," he sighed, shaking his head. "You always bring a spotter if you want to try something novel. I thought you were smarter than that."
+
+That made sense. But I grinned at him. "A spotter wouldn't have let me... let me..." I trailed off, the words eluding me. I couldn't articulate the water-sky-warmth-joy.
+
+The man rolled up his sleeves and sat at the edge of my bed, pushing me back down into it. I wanted to protest, but then I got distracted by the pressure-flesh-firm and the bed-memory-relaxation. One of his hands went to my forehead, and the other went to my solar plexus.
+
+I gasped as a horrible, paralysing cold rushed through me. It touched every vein, every nerve, and then retreated, leaving a sense of such utter hollowness that it felt like I might shrivel up and collapse into nothingness. But it lasted only for a moment before another sensation consumed me. This time, it was fire, chasing out the emptiness, filling every crevice with molten agony instead. The world around me became just a pinprick of stimuli that barely registered as I sank beneath an ocean of flame.
+
+And yet, for a moment, through the delirium, I felt-heard-knew something from the woven-shackled-stream.
+
+'Touch-speak-bend the Chosen-Blinded-Jailer.'
+
+The familiar vibration.
+
+I jolted awake, sensing that something was horribly wrong. The light coming in through the gaps in the window blinds was too bright. My watch confirmed it — it was 8AM. Why had it gone off an hour late?
+
+And why did everything hurt so much?
+
+An involuntary cry of pain escaped me as I swung my legs off the bed. My whole body was awash in a horrible painful prickling. It was like a case of pins and needles, except the needles in question were made of salt and were being slowly twisted as they slid into a million microscopic wounds.
+
+Ambrose opened the door and hurried over. "Caden, are you okay?"
+
+"N-no, I think I... overdrew? Completely?"
+
+He nodded gravely. "We sent an Emergency Call when you passed out yesterday. The healers arrived and took you off to the infirmary, then wouldn't let anyone see you. They just came and dropped you off here half an hour ago."
+
+I looked down at the blue cotton clothes that were the infirmary's standard wear for patients. Bits and pieces of these events were starting to coalesce into a vague recollection. It was worse than trying to remember a dream that hadn't been particularly vivid.
+
+"They brought me back here?" I managed to say through gritted teeth. "Why didn't they let me recover in the infirmary?"
+
+"They said it's best for you to try and get through the day as usual instead of getting bed rest," Ambrose said, his face clearly showing the doubt he had about that particular call.
+
+"What?" I asked sharply, incredulity giving me strength.
+
+"The Demiurge himself recommended it, apparently."
+
+"Caldwell can go and jump in the lake." I tried to swing my legs back onto the bed, but all I succeeded was in making them twitch a little, which sent ribbons of fire racing up them. I found myself paralysed by the pain.
+
+"Just... don't get up. I'll get you something to eat. Maybe you'll feel better."
+
+He left the room. Something had changed between us. I could feel it — there was an absence of fellow-feeling, of camaraderie. And as I heard the low buzz of conversation outside through the half-open, it occurred to me that perhaps this was what was natural.
+
+"He's awake?" That was Devon.
+
+"Yes," Ambrose replied. "And I don't think he's in any shape to go for class."
+
+"It's just a lecture today, he'll be fine," Kevan said a little dismissively.
+
+"It's Reeves," Devon shot back. "You know what happens in today's lecture."
+
+"Yeah, well, he should go anyway, and if Reeves pushes him too far, maybe Caden will turn the compulsion back on him and give the rest of us a break." I could hear the grin in Kevan's voice.
+
+Irritated, I managed to draw in enough breath to raise my voice. "I'm not some kind of monster!"
+
+There was a beat of awkward silence, then the conversation picked up again in whispers. Ambrose came back into view, bearing a plate with bacon and scrambled eggs. It was still gently steaming — obviously Devon's handiwork. He set it down on my bedside table.
+
+"Listen, if you're not feeling up to it, you should just rest," he said, handing me a fork
+
+The smell of breakfast worked as a wonderful stimulant. I nodded brusquely at Ambrose and concentrated on eating. In five minutes, I managed to polish off the entire plate. And as much as I hated to admit it, I was feeling much better after moving around a little. Maybe the Demiurge was right.
+
+Ambrose had been watching me worriedly the entire time. It was a little irritating to have him there. My thoughts were beginning to crystalise around some recent realisations, sharpened by the pain — I was probably riddled with prophetic links as a result of being so close to Ambrose. And that likely accounted for a lot of the strangeness in my life in the Academy, like my experience with the friend-in-the-arcana phenomenon. It was intoxicatingly powerful, but it wasn't something I was entirely comfortable with.
+
+Thinking about the friend-in-the-arcana brought back a confused jumble of thoughts and emotions from my time in the infirmary. There had been a... thing, vast and unknowable... that had told me to do something. And I felt very strongly that this was something that didn't have anything to do with the Prophecy.
+
+"You look a little better," Ambrose remarked, breaking my train of thought. "Do you think you wanna try going for Reeves' lecture?"
+
+"You need to stop talking," I said irritably as I struggled to communicate my current state. I wanted to make it clear that I didn't want to be disturbed.
+
+Finally, the memory came back to me, drawn out by my desire for him to just understand, so that I didn't have to talk.
+
+Touch-speak-bend... it was a jumble of alien impressions that I understood as ensorcel. And the Chosen-Blinded-Jailer was the amalgamation of concepts and feelings that I understood as the Chosen One. Or rather, this Chosen One in front of me in particular, not just some generic term. It was a very interesting bundle of concepts that identified Ambrose. And that vast, unknowable something wanted me to ensorcel him.
+
+The temptation to do it immediately was overwhelming, but I reined the impulse in with great difficulty. I didn't want a repeat of what had happened two days ago (Fates, it felt like forever) with him and Jerric. If I did perform this ensorcellment, it would be on my terms, with a clear head.
+
+I gingerly got to my feet. The pain had subsided into a dull burn, so I managed to gently close the door.
+
+"Ambrose. I need to perform a... well, I call it an ensorcellment now. I need permission to do it on you."
+
+I expected some sort of objection, but Ambrose only raised an eyebrow fractionally. He didn't even seem particularly affected by the term 'ensorcellment'. I had a suspicion that he had heard it before since the answer came a lot more quickly than I expected. He nodded wordlessly.
+
+"But... not here, and not now," I said, my memory filling itself in a little more. I knew that for this ensorcellment, I'd need the friend-in-the-arcana again (surely there was a name for it?), and my last two experiences had more than adequately demonstrated that it was something a little beyond my control. The Demiurge had been right — I should have known better than to experiment with it alone, without consultation or supervision.
+
+"When?" he asked. It struck me as a little odd how he was being so accommodating.
+
+"You're being awfully compliant," I pointed out peevishly.
+
+"I'm not going to argue with someone who can fly at will, and ensorcel people so powerfully that only the Demiurge can reverse it," he said, grinning a little.
+
+"Stop it," I hissed through gritted teeth, partly out of frustration, but mostly due to actual pain as I felt a throb in my auric arcana. It was a new and very unpleasant sensation, quite different from the pain I had felt when I first woke up. Why were there so many flavours of agony?
+
+He did stop. And now he looked perturbed.
+
+"What, you thought I'd always be all buddy-like with you?" There was another throb, but my grimace of pain sharpened into a defiant grin.
+
+"Well... yeah," he said, genuine confusion in his voice.
+
+"No... we're starting at square one. This time, Chosen One, you don't... get to have prophetic links... doing your job for you." Every pronouncement sent new flares of pain through my auric arcana, but I was beginning to acclimate.
+
+"Prophetic links?" he echoed, puzzled. I couldn't tell if it was an act.
+
+"Yes," I said, closing my eyes and picturing the glyph in my head. The very act of doing that seemed to open my senses, and I zeroed in on the source of pain and discovered it wasn't physical. I could feel the prophetic links burrowing into me, sinking into my innermost being, filling out the 'cracks' and 'grooves' in my auric arcana...
+
+... the cracks and grooves that they had left when they had somehow been flensed off earlier.
+
+I tried to force them out, but their tendrils were implacable. I tried framing them as a form of ambient arcana so that I could vent them and slow their ingress with the same principles used to keep ambient arcana at bay, but that had no effect either. All I could do was stand helplessly by as they slowly snaked around me, into me, melding with me.
+
+Panic was threatening to overwhelm me again. I knew what would happen if they managed to get a firm hold. It would make me friendly, make me stay close to Ambrose, even against my own interests. It seemed so clear now in hindsight, especially with the revelatory help of the glyph of prophetic links.
+
+I had to win this. I had to be me. Who am I?
+
+There is a shape that goes with this auric-ambient-flare. That addled thought from earlier this morning came back to me, and now, in a more conscious state, I was able to parse some meaning out of it. Back then, I had been trying to recall the shape of my physical face. But there was more to it than that. There was a shape to my arcana that was me. Like a name to a face.
+
+I knew that shape. And right now, my shape was wrong.
+
+I ran through the glyphs I knew to try and patch something together so I could keep my shape.
+
+General auric arcana and general ambient arcana. These two things formed my shape. I didn't know why, but they did. These glyphs would be the heart of the sequence.
+
+As for the tendrils, they couldn't just be frameshifted. They needed a name so they could be dealt with. That would be the glyph for prophetic links. It would be in a clause for exclusion. That way, the proximate ambient arcana glyph would be able to identify what it needed to keep out. And together, these things would form a barrier to slow the ingress.
+
+But how to cleanse the interior?
+
+Auric-ambient-flare. That jumble of impressions seemed to carry some fundamental truth about what made up our inner beings. I returned to the glyphs for general ambient arcana and general auric arcana to try and understand them more.
+
+They formed my shape... and so that meant they would serve to define it, not just as a once-off formation, but as an exercise in constant adjustment back to a base state. If I fixed them properly in my mind, they should be able to self-regulate. They would flare, and burn out impurities.
+
+The sequence was ready — the insights had come rapidly, aided by desperation, but mostly by the strange alien knowledge that had crept into my psyche during my short convalescence. It was disquieting, but I comforted myself with the fact that at least this time, I could tell it was not something that originated from me. And I was using these things on my own terms, voluntarily.
+
+The Demiurge's warning came back to me — always bring a spotter before trying something novel. But he wasn't here and I didn't trust anyone right now except my father. Plus, I didn't think I could wait that long. I had to fix this now, while I was still relatively unfettered.
+
+I threaded my auric arcana through the sequence in my head, and the arcana in and around me reacted. A gentle warmth grew within me, expanding into what felt like specific corners of my mind and washing away the pain. Triumphant, I opened my eyes. Ambrose was still looking bemused.
+
+"Yes," I repeated as I felt the pain subside and as the tendrils' advance slowed to a crawl. "Yes... you withheld information once. And we somehow swept that under the carpet. But not anymore. I'm going to class with all of you like nothing's happened. But then I'm going to see my father. And then you and I... we're going to have a long-overdue talk about where we both stand."

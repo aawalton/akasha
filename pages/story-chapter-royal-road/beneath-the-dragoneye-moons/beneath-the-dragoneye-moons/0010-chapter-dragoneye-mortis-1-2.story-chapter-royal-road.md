@@ -1,0 +1,289 @@
+---
+id: e30a9546-e496-5450-b309-7ab96c489935
+page-type-slug: story-chapter-royal-road
+title: "Chapter ??? - Dragoneye Mortis 1.2"
+slug: 0010-chapter-dragoneye-mortis-1-2
+partOf: beneath-the-dragoneye-moons
+position: 10
+ownLength: 3326
+unit: words
+publishedAt: 2021-08-13
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/733090/chapter-dragoneye-mortis-12"
+royalRoadId: "733090"
+---
+
+The explosions also helped get her attention.
+
+“...The heck sort of monster did they find?” Vita mumbled to herself, planting a shard of her soul into yet another dinosaur corpse and feeling it spread throughout the inside like the branches of some ethereal tree.  The body rose, her power flowing through it. The Dreg stood and waited for instruction.
+
+“Follow me and attack on my command,” Vita ordered, drawing her spear.
+
+Each of the dozens of dinosaurs in earshot moved into formation, surrounding their master in as even a formation as possible.  [Voice of Command] and [Coordinated Horde] at work, she supposed.  Dreg zombies were infuriatingly stupid, and back home they’d barely be able to walk without tripping over each other.  This… “system” stuff was definitely a bit weird and abstract, but Vita couldn’t deny how helpful it was.  Especially since, for some insane reason, nothing in this damn world had a soul. Her army was made out of Dregs because she couldn’t make anything but Dregs! If not for the [Horde Queen] class, she’d be sunk.
+
+Her other class seemed like kind of a dud.
+
+More blinding explosions thundered nearby as Vita mounted a raptor zombie, riding it as her force approached.  Anything capable of unleashing magic that powerful would easily overpower an unled section of her horde, but Vita was hardly above letting her minions tire whatever it was out, especially now that the system changed the stakes.  Her entourage leaped over the half-vaporized bodies of her former minions, and she raised a hand.
+
+“[Soul Reclamation],” Vita muttered, feeling a leap in power as the shattered dust of her broken shards spiraled towards her in a radiant swirl.  At least she wouldn’t lose any parts of herself invested in the Dregs, even if they got smashed to dust. Still, Vita hated this damn world.  There was nothing here she could feel with her soul sense.  Nothing but her.
+
+Which was why she ended up so surprised to find a human shooting the explosive blasts at her army.
+
+Hmm.  Threat or potential ally?  It probably depended on their opinion of animancy, considering that she was currently riding a zombie.  Without her soul-sense, Vita couldn’t get a good handle on how powerful this armored kynamancer was, but the way she was tearing through the raptors like wet tissue paper felt like a pretty good hint. Just to be safe, she quietly subvocalized an order, letting [Voice of Command] carry it to her minions. Hidden zombie raptors started circling around to flank the human. If things went badly here, they’d be able to attack her from all sides. Given the wary distance she was keeping from the Dregs, she wasn’t a close-in fighter.  Probably since she’d just blow herself up with whatever that offensive kynemancy spell was.
+
+The human noticed Vita, immediately identifying her as the source of the zombie raptor plague by merit of her riding one of them, and shouted her way.
+
+“Oi! You! Call off your raptors!” she yelled.
+
+Oh, hey, she was talking.  Vita decided to take that as a good sign.
+
+“Okay.” Vita answered, glancing over at her attacking zombies. “Stand down!”
+
+The raptors immediately halted in their tracks. Elaine blinked in surprise.  That didn’t usually work.  A quick [Long-Range Identify] picked the girl up as a [Mage], maybe in the high-two hundred low-three hundred range? A potential threat, but unlikely to be a big one.
+
+“Um. Hi. I’m Elaine,” she said, waving a hand but not coming closer. A cape, seemingly made out of stars, appeared on her back. “What’s your name?”
+
+“...Vita,” the girl muttered in answer, not meeting Elaine’s eyes. Getting a good look at her, Elaine realized this ‘Vita’ seemed barely thirteen years old, the poor thing.  Although she was also armed and armored to the teeth and surrounded by an undead raptor army, so point in her favor there. None of her equipment seemed to be metal, though, for whatever reason.  Maybe it was cultural, like the Dwarves?
+
+“Vita. Cool. So do you know where this is, kiddo? I seem to have gotten yoinked again, and I have no idea how to get home.”
+
+“...M’not a kiddo.” Vita grumbled, eyes narrowing. Why did people keep calling her that? “And no.  I have no idea.  This place is weird and the sky is empty and blue and something called ‘the system’ keeps screaming in my ear and nobody has a fucking soul.  Why doesn’t anyone have a soul?”
+
+“I am pretty sure I have a soul,” Elaine insisted, raising an eyebrow. It wasn’t like she could have gotten flung through the aether and drop-kicked into Pallos without one.  “And, wait, are you from somewhere without a system? Oh man! Are you from Earth?”
+
+Vita blinked.
+
+“You mean like… the ground?”
+
+“Guess not,” Elaine muttered to herself. “[World Traveler]. Gotta be more than one place. Plus, there was that whole mess with the fairies and those other people that one time…”
+
+Elaine snapped her fingers.
+
+“Fairies! Did any faeries do anything to you?”
+
+Vita scowled.
+
+“That depends.  Are fairies like... tiny assholes with bug wings that never answer any questions?”
+
+Elaine looked more than a little nervous at that description.
+
+“Fairies are wonderful people who simply enjoy a few harmless pranks now and then. Yup yup.”
+
+Elaine locked eyes with Vita and slowly nodded twice. Or, she tried to lock eyes with Vita, but Vita seemed distracted, not looking in her direction.
+
+“They’re of the most perfect tiny size,” she said, pinching her fingers together in roughly the size of a fairy. “And they’re the most beautiful, elegant, gorgeous people ever, with enough power to pull a half dozen people from different planets into one spot for a practical joke. Aren’t they just AMAZING!”
+
+Elaine was slowly shaking her head at the last part, praying to Papilion and all the other gods and goddesses in the great sky above that this Vita would pick up the hint.
+
+Vita did not pick up the hint.
+
+“...No, can’t be them, then,” she concluded.  “Mine were annoying assholes.  They stuck me with a bunch of dumb skills, talked like crazy people, and then I ended up getting attacked by… whatever these things are.”
+
+She motioned at her menagerie of undead dinosaurs.
+
+“I got excited when a few of them shot lightning at me, but of course they can’t replicate the trick once I’m controlling them.  Fucking Dregs.”
+
+Elaine facepalmed.
+
+“Right, what did your totally-not-fairies ask you to do? For all I know, they told me while I was asleep, and considered it fair game. Then again, this is still Pallos, I could just try to find my way home normally…” Elaine muttered to herself. “Do you have any sandals on you?”
+
+That is... certainly a question a person could ask someone that just attacked them with zombies, Vita thought to herself.
+
+“I’m sure you are going to be shocked to learn that I do not,” she deadpanned, kicking her legs lightly to show off her leather boots and greaves.  “Is that really an important question right now?”
+
+“Well, if by some miracle you did, I could fly and look around.” Elaine said, as if acquiring sandals equalling flight was the most normal and reasonable thing possible. “Guess I’ll have to climb a tree instead. Ook ook, imma monkey.”
+
+Vita blinked, not sure how to respond to that.
+
+“Um, have fun, I guess?” she hedged.  “If you can find a ‘spire of stone’ in the direction of whatever the fuck a ‘setting sun’ is, that’d be a big help.  Apparently the assholes are keeping me hostage here until I kill something there and claim a prize for them.”
+
+Elaine was already halfway up the tree, moving far faster and more nimbly than Vita would’ve given her credit for.
+
+“...Do you not know what a sunset is?” Elaine asked, as she slowly scanned the horizon. “Do you not have a sun? Are you some sort of mole-person, living under a planet?  Is that why you’re short?”
+
+Elaine was finally taller than someone. Finally.
+
+“Firstly, fuck you, I’m still growing,” Vita snapped.  “Secondly, the only kind of son I know of is the family member, thirdly no I’m not a goddamn mole person and fourthly what the shit is a planet? I’ve heard you say that word twice but I have no idea what it means.”
+
+Elaine slowly looked down at Vita. Mostly because she was still in the tree. She blinked.
+
+“Why don’t you tell me about where you live, and we’ll compare notes while we walk that way?” She said, pointing in a direction. “Saw some big fuck-off temple-looking thing, which is probably where we should go, one way or another.”
+
+Elaine then just jumped out of the tree, nimbly slowing herself down with little flares of starlight steps that appeared under her feet.
+
+“Huh,” Vita muttered, watching the scintillating magical flares.  “You are a really powerful kynamancer, aren’t you?  Well, we don’t have to walk if you don’t want to.  Feel free to pick a zombie, any zombie.”
+
+She casts a hand out to indicate her horde of unblinking, unliving reptiles.
+
+“I promise they don’t bite.  Unless you do anything stupid.”
+
+Elaine shrugged.
+
+“If they don’t bite my head off, I’ll be fine. I can just regrow stuff.”
+
+Vita eyed Elaine, wondering exactly how that worked.
+
+“Why would you tell me that?  Also, wouldn’t you just starve if I had them keep biting you?”
+
+“Maybe, but you’d have to bite me a lot.  I’m pretty mana-efficient.”
+
+“But where do you get the mass from?”
+
+“It’s created from mana.”
+
+Vita’s eyes went wide.  What?  That was incredible!  The possibilities were endless!
+
+“How efficient is it?” she asked excitedly.  “If you cut off your arm and then eat your arm, is that enough food to regrow your arm again?  Less?  More?  I bet if we chopped off enough of your body parts and I hid soul shards in them we could create a mass-enslavement trap zone. What about blood loss?  Do you get dehydrated?  Can you create water too?  Oh shit, I’m so happy I found you.  I thought I was going to starve out here!”
+
+Elaine looked at the raptors they were riding on, and back at Vita.
+
+“Starve? Really?” she asked with a quirked eyebrow. “Also, I’m attached to my body parts. Pun intended. Yes, I can regrow more. No, I don’t plan to lose an arm. Even if it’s for a, um...”
+
+Elaine stumbled over ‘good cause’, because really, she couldn’t see it that way. ‘Let me be an endlessly regrowing food source for the hungry offworlder’ was low, low down on her ‘to-do’ list, no matter how friendly and disarming said offworlder might be.
+
+“Of course I’d starve, I don’t recognize any of these plants and I don’t know the meat-treating spell,” Vita explained, as if that were some common sort of thing. “Although… I guess you have a good point.  If you’re a strong enough biomancer to regrow limbs mid-combat and form matter out of mana—which I thought was impossible, but I’m assuming it’s one of these weird ‘skill’ things—you probably can make meat safe.  We can eat one of the zombies if you want.  Hey!”
+
+She pointed at one of the raptors and snapped her fingers.
+
+“Head to that lady over there, rip your arm off, and give it to her, would you?”
+
+Elaine’s eyes bugged out as the raptor did exactly that, a sick tearing sound echoing between the trees as the arm’s bones and tendons were ripped out of the shoulder.  It politely offered her the morsel with its remaining forelimb.
+
+“Um. Thank you. For your… arm.” Elaine managed to choke out, minding her manners. She held the arm up, and let golden, burning light emit from her hand to the arm, starting to cook it.
+
+“Why are you doing that? Is that your meat prep magic?” Vita asked.
+
+“No, this is cooking it. Because I like cooked food. Meat’s generally safe to eat, except for parasites, bacteria, possibly prions if you’re real unlucky. Cooking handles almost all of those. Ascaris suum, listeria, salmonella, and probably a dozen different tropical diseases I don’t know about.”
+
+“Never heard of any of that. What about heat-resistant magical diseases?” Vita asks seriously.
+
+Elaine shrugged.
+
+“A possibility. Worst-case, I’ll just heal myself,” she said, taking a huge bite of roasted raptor wing.
+
+“Mmmmmmmmmmmmm. Tastes like chicken.”
+
+“Wh- hey!  Give me some!” Vita complained, spurring her riding raptor closer.
+
+“Sure, here you go.” Elaine said, handing over the roasted arm. “Let me know if you want any healing.”
+
+“Sure, I’ll take free healing.  Mom always said to take everything free you can and to never piss off the healer!  ...Or was that ‘make’ everything free?  Eh, it works either way.”
+
+Elaine looked at Vita, amused.
+
+“Gotta eat the arm first before I try healing you of any problems the arm can cause, yeah?”
+
+“Oh, right.”
+
+Vita took a brief moment to decide whether trusting this random stranger was worth eating zombie flesh over, immediately decided that yes, obviously it was, and chowed down on the chicken wing. Er, raptor arm.
+
+“Right! Healing please!” Vita said.
+
+Elaine just glanced at Vita, making sure both were in sunlight, then her jaw dropped.
+
+“WHAT THE HELL!?” she yelled. “Are you even human!? Healing you just drained every drop of mana I had!”
+
+Elaine seemed to check something floating in the air, then did a double-take.
+
+“And what’s up with my mana regeneration!? You are human, right?”
+
+Vita shrugged, taking a moment to swallow her zombie flesh.
+
+“Depends on who you ask,” she answered frankly.  “Why do you care?  I thought you said you were something called a monkey.”
+
+“Because my healing has efficiency factors. If I can imagine what I’m doing? More efficient. If I’m closer to you, or touching you? More efficient. If I’m healing something small, rather than large? Less mana. The more human someone is, the more efficient I am. Restoring an arm takes a few thousand points. You? For an internal bacterial problem that might not even be there?”
+
+Elaine leaned in, intensely studying Vita, drinking up every detail about her.
+
+“Over one hundred thousand mana gone in an instant. Vita. Are you sure your System says you’re human?”
+
+Vita fronwed, following Elaine’s lead and glancing at something invisible in the air.
+
+“...My ‘race’ category just says a bunch of jibberish characters.  I just thought the whole thing was broken or something, though.  I mean, my mana is listed with a period and an ‘e’ and shit like that.  Not even real numbers.”
+
+Elaine’s mouth opened, paused, and closed again.
+
+Open…. Pause…. Close.
+
+“Yeah, okay, I’m going to call the race thing a bug and say that’s why healing you is so inefficient,” she said. “Don’t lose an arm or anything, I’m not sure I can regrow it.”
+
+“What about my mana?”
+
+Elaine shuddered.
+
+“Please tell me the numbers after the E are small. Please.” She begged.
+
+“Um, it says… nine point four five three seven seven E... forty-three?  And my mana regen is negative a thousand something.”
+
+Elaine just shook her head.
+
+“Right. Negative mana regen can kill you, if you let your mana get to 0. That’ll happen for you in…”
+
+Elaine twitched her fingers a few times.
+
+“I stopped counting at a few trillion years. You’ll be fine.”
+
+“That’s a long time,” Vita opined. “But you said it was just broken, right?”
+
+“The race sounds like a bug. The mana?”
+
+Elaine shuddered, changing the topic.
+
+“How about we get a move on to that ziggurat? Also, do you have some sort of mana regeneration buff? My numbers are going crazy.”
+
+Vita shrugs.
+
+“Uh, I think so.  My [Infinity Beyond the Veil] skill might be doing that.  Kind of a pretentious name, right? Whatever brought me here picked all my classes and skills without giving me a say in the matter, so I’m not totally sure what everything does.  This [Maw of Mana] class seemed totally pointless since people can’t run out of mana anyway, but… I guess you can?  I bet that sucks.  Also, how come it’s purple?”
+
+Elaine gave Vita a look.  Okay, so maybe the girl was a lot stronger than her level let on.
+
+“So… about telling me where you’re from?"
+
+"Oh, right, I mean, I don't know if there's much to say. I'm from Verdantop island? Country of Valka?"
+
+Elaine answers Vita with the kind of flat, blank look that made it clear she’d never heard of those places.
+
+"Have you heard of either of those places?" Vita asked anyway.
+
+Elaine sighed. The girl was more than a little strange, not picking up on expressions, only rarely emoting, and never making eye contact.  She was probably somewhere on the Autism spectrum. That had to be wretched in the type of medieval society that the girl’s equipment seemed to imply she was from.
+
+"No. I have not,” Elaine clarified. “You mentioned something about the sky being the wrong color and not knowing what the sun is so I imagine we're from different worlds entirely."
+
+"Yeah, my sky is yellow," Vita confirmed. "And all the other islands are visible above, while you guys have… nothing. It's weird. Is this not like… one of the top islands, or something? Oh! Maybe it is! Maybe you guys can run out of mana because we’re super far away from the Mistwatcher!"
+
+"See, now it's my turn to ask you what that is," Elaine prompted.
+
+“Um, it’s the big mass of eyeballs and tentacles tens of thousands of miles across that you see when you go to the edge and look down? And gives people souls, though… hmm.  I guess you don’t have one.”
+
+“I still definitely do,” Elaine protested, though Vita ignored her. Still, a mass of eyeballs and tentacles tens of thousands of miles across? What the hell? What kind of insane Lovecraft world is this girl from?
+
+“Also, the planet we’re on has no edge.”
+
+“What happens when you walk in one direction forever then?” Vita asked instantly, since obviously there had to be an edge somewhere. Maybe they just hadn’t found it?
+
+“You end up back in the same spot,” Elaine answered easily, like it was the most obvious thing in the world.
+
+Vita hesitated, wanting to argue more, but decided to leave it be. As long as she never saw the edge, what did it matter to her?
+
+“So… okay, maybe we’re not orbiting around the Mistwatcher at all,” Vita admitted hesitantly. “But… what does that mean?  Where are we?  Is this your… ‘world?’”
+
+“I think so,” Elaine said. “Although we’re a long way from where I’m used to.  This world is called Pallos.”
+
+“Oooh!  Yeah, Pallos!  That’s where the naked flying assholes said I am!”
+
+Elaine winced.
+
+“Please, please stop calling them that” she begged. “We really do not want to make them mad.”
+
+Vita frowned, looking around.
+
+“I… guess I need them to get home, so that’s fair.  Do you think they’re listening to us?” she asked.
+
+Gods, I hope not, Elaine thought to herself.
+
+Instead of answering, she spurred her raptor on, trying to make it go faster. The lifeless construct reacted by... not reacting at all.
+
+“Uh, you okay there?” Vita asked. “Are you trying to make it go faster? Let me. Speed up!”
+
+The raptor Elaine was on shot off, and she swore as she tried to keep a grip. Raptors weren’t exactly made for riding, nor was Vita any sort of master [Leatherworker], able to make a saddle.
+
+Vita didn’t need one. The Dregs carried her with unnatural grace, like she was some sort of royalty, and she seemed utterly unbothered by the bareback journey. Dropping Vita? Literally unthinkable. Mostly due to a lack of brainpower. Elaine’s butt was not so lucky, but what was ranger training for if not being flexible enough to ride a zombie dinosaur?

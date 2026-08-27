@@ -1,0 +1,113 @@
+---
+id: 3e656928-e033-5ae4-b932-67f79acb777e
+page-type-slug: story-chapter-royal-road
+title: "v4c51: Those who can be Reforged"
+slug: 0066-v4c51-those-who-can-be-reforged
+partOf: beware-of-chicken
+position: 66
+ownLength: 1798
+unit: words
+ownProgress: 1798
+publishedAt: 2023-10-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1383826/v4c51-those-who-can-be-reforged"
+royalRoadId: "1383826"
+markedReadAt: "2026-06-29T18:53:39.672Z"
+---
+
+Xiulan and her companions were sitting upon the roof of the inn. The moon was high in the sky, and the cicadas were giving their last hurrah of the season. All of them should have been asleep—Xiulan wanted to be asleep—but none of them could rest even had they wanted to.
+
+The town was so full of intent it had set them all on edge. The Sects were surely going through the memory crystals, and with the revelations they were receiving there was an outpouring of Qi. It was like sitting in a storm of emotion. Pride, vindication, despair, sadness… it swirled around the Dueling Town like a storm.
+
+Xiulan felt Tigu twitch next to her as another cultivator broke through and ascended to the Fourth Stage of the Initiate’s Realm. The Torrent Rider, on the other hand, vomited into a bucket while Yin and Delun rubbed his back—the undercurrent of tension and turmoil was affecting the lad badly. Xiulan’s own stomach felt slightly sick as she felt another Elder approach Qi deviation, the anguish in the Qi touching hers and leaving an impression.
+
+The mortals below were similarly restless, though the effects were muted on them—there was less of their Qi to leave an impact in.
+
+Despite all this turmoil… despite all the revelations today… Xiulan couldn’t help but think that tomorrow would be even more important.
+
+Tomorrow would be their chance to truly change things.
+
+They watched as the sun crest the horizon as the flares of intent petered out. And then they rose together.
+
+No words needed to be said. All of them were prepared for this moment.
+
+Tigu clapped Xiulan on the back. Xianghua did the same. Delun nodded while Rags and Loud Boy smiled. Yin yawned and stretched, and the Torrent Rider, still looking a bit peaky, stood up to his full height, his eyes blazing with determination.
+
+They began their walk to the Earthy Arena, the moment drawing ever closer.
+
+==================================
+
+The meeting resumed in the morning. This time, Xiulan and her companions were the first ones in the Earthly Arena. Gone were the marches and shows of force yesterday—most staggered in today like drunks or trudged in like they were attending their own funeral. Elder Gang especially looked pale. The normally authoritative man looked old, and he kept looking down at his hands. Half of his sect was missing compared to yesterday.
+
+Only the Grand Ravine Sect could boast to be the same as they were yesterday, the Patriarch of the Grand Ravine’s Qi positively brimming with vitality. He even offered her a nod as he sat down and crossed his arms with unspoken respect.
+
+And then there was silence and all eyes were upon Xiulan once more.
+
+She was the eye of the storm. Though the winds howled outside, here there was tranquility.
+
+Bai Huizhong broke it, his voice somber and restrained. “If there are no objections… Then This Humble Servant of His Imperial Majesty shall begin the meeting. Cai Xiulan has the floor.”
+
+Nobody objected.
+
+Xiulan rose, coming to her feet. She took a breath in and out. And then she began.
+
+“Mortals plan, the Heavens laugh—so says the proverb. It is interesting how our lives can change so swiftly. But two years ago, I thought my path and future as the Young Mistress of my sect was set in stone. I would act my part. I would play a role that my ancestors had played. Aiding the same allies and bearing the same grudges a hundred generations had held. My future was a line I would follow diligently. I wanted to follow that path… But something happened. Something forced me from that path, and set me upon a new one,” Xiulan began. “Last year, I began what most would call a fool’s errand. I approached my fellows in the Younger Generation. I asked them to gather here during the summer for a single purpose. To undo the cycle that had rent us asunder for centuries. I had seen in my journeys something in the heart of us that was broken, bleeding, consuming the best of us.’
+
+“During my battles with Sun Ken, I watched the consequences of the flaws with our current system. Sun Ken exploited it in his march of terror. He fled between territories, pitting us against each other. I saw how he ravaged the villages of the mortals. How he killed and slaughtered with abandon and then ran cowardly from pursuit, only saved by the pettiness of our ‘righteous’ sects. It burned at me. But what could I do? That was the way of the world… or so I thought.”
+
+She took a deep breath as the memories flowed from her. The air stilled. The arena hushed. She saw the smiles of Jin and Meiling. Of Gou Ren and Yun Ren. She saw Bi De bow his head to her, and the villagers of Hong Yaowu wished her luck.
+
+She saw her soldiers, waving her forwards.
+
+“That winter, I met some people who changed my understanding of the world. They saved me from certain death and challenged all I knew. They asked for nothing and gave all they could. One man in particular shared with me some wisdom that I will endeavor to never forget. He told me that everything is connected—and that the smallest actions can have a disproportionate impact.”
+
+“Mere months later at the Dueling Peaks we, the Younger Generation, stood shoulder to shoulder against the Shrouded Mountain Sect. Not for pride. Not for the honour of our sects… but because one girl was wronged. She had been kind because she could be, because she should be. We stood together because it did not matter whose ancestor was spit upon nor whose station is above the other. All that mattered was that one person reached out their hand… and in that moment, we were one.”
+
+Xiulan saw out of the corner of her eye Tigu blush at the words.
+
+“For so long have our hills been fractured. Our only concern, the shallow waters of our home. The weakest of the Empire we are, so why would we frogs bother looking outside our little well? But in that moment I saw something that I had striven for. An end to the endless cycle of division that had been wrought by disasters far in the past. Even if we were doomed to be the weakest forever… we did not have to be the least. We could strive for something better than we had. This, I believed then; and this, I still believe now.
+
+“Some will say this is a fool’s task. What is broken can never be mended. The heavens have made it so.” Xiulan smiled to all who were gathered. Shaking her head, she laughed bright and deep, eyes lit up with a burning intensity. “But are we not Cultivators? Is not defying the Heavens the reason for our existence? The Heavens may set their fate—but we are the Azure Hills, and I declare today that whatever tribulation they may have set, we will set ourselves against it!”
+
+Xiulan paused, sweeping her eyes around the Earthly Arena. The Younger Generation was mostly nodding along to her words, while most of the Elders looked conflicted.
+
+“I know not all of you are convinced of my words—for I am still young and untested. But if you have no faith in me, then have faith in our ancestors. As I looked upon them, I realised that my idea was not so foolish after all.”
+
+“Once… our sects were united. Once, we did not war for petty reasons. Once, men like Sun Ken could not have run rampant, exploiting our divisions for their own gain. Once, we stood together, arm in arm against first a deplorable tyrant, and then against the demons themselves!”
+
+Her voice rose with each word. She felt her Qi stir, and the other cultivators sat up straighter.
+
+“We were brought low by demonic treachery! They savaged our souls, slew our heroes, drove the Spirit Bests mad and turned us against each other! Shall we accept this defeat? Let ourselves be blind! Or shall we finally grasp the chance afforded us. Chance is all a cultivator is ever given. Let us rise together and take the victory our ancestors paved for us!”
+
+Murmuring broke out from the other sects as Xiulan’s Qi filled the arena.
+
+“The past grievances we have are many. None of us are without sin. We have struck against each other for thousands of years, and that blood does not wash away overnight.”
+
+“But we are all Children of Tianlan Shan, and upon our home I have made this oath: We shall honour the past, and nurture and protect the future—not merely of our own kin, but all who live in these hills. We seek not glory, nor station above all others—only to put into practise those ideals that we know to be true.”
+
+She saw Ulagan Baatar’s eyes widen at those words, the man looking utterly stunned.
+
+“We are all Children of Tianlan Shan—and I would have us united once more.”
+
+Xiulan finished, feeling oddly breathless. The whole arena was silent.
+
+And then, her father rose.
+
+“This Cai Xi Kong of the Verdant Blade Sect shall strike our record clean. I shall forgive every instance of enmity committed against us since the Fall. I shall join my Sect’s hands with any who will see our Ancestors' will resurgent. In the name of Cai Ruolan, I pledge our Sect to this bargain.”
+
+Xianghua rose next. “I, Liu Xianghua of the Misty Lake Sect, shall strike our record clean. I shall join my Sect’s hands with any who will see our Ancestors' will resurgent. By the name of the Lord of the Lake, I shall pledge my Sect to this bargain.”
+
+Tie Delan rose next. And then elder Xinling of the Grey Water—
+
+And then Ulagan Baatar rose.
+
+“I, Ulagan Baatar, Patriarch of the Grand Ravine Sect, shall strike our record clean. We shall forgive all actions against our Sect by those who join this compact, and fly the banner of Azure Hills. In the name of our Ancestor, Chengis Altan.” His voice was a rumble as he spoke.
+
+One by one, more and more Sects rose.
+
+Xiulan took a deep breath, calming her nerves.
+
+As the last of the Sects spoke… there was a pulse. A rumble in the earth.
+
+And then the Earthly Arena began to rise of its own accord. Slowy, haltingly, the arena hauled itself up the mountain, and when it reached its peak, the walls folded, and slid down—so that all of them could see over the hills, the sun shining brightly down upon them all.
+
+Though the sun had long risen, Xiulan thought the dawn was beautiful.

@@ -1,0 +1,251 @@
+---
+id: abea2465-9625-537e-a777-c9ebee618dac
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 34 - Boundless Expectations"
+slug: 0092-book-5-chapter-34-boundless-expectations
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 92
+ownLength: 5071
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3845281/book-5-chapter-34-boundless-expectations"
+royalRoadId: "3845281"
+---
+
+Anthelleon, stubborn and prideful as ever, insisted on carrying Mahvel herself, on her own two feet. Standing tall, she strode from the room to present Neyvern with their son. Ranthia chose to give the emotional couple some space and instead remained behind to help the [Midwives] clean up.
+
+Not that there was much to clean up. Elves were incredibly efficient and neat, even in childbirth.
+
+“Does it always go that smoothly?” Ranthia asked, mostly just to be friendly.
+
+“Birth is the easy part, usually. I’ve been here almost four hundred years now, and I haven’t seen any complications at that stage. Read about ‘em, mind you, but never seen one myself. Early pregnancy’s usually the most fraught bit, though hopeful mothers might only know about those difficulties if they’re actively trying and visiting us for support.” A lithe, blue-haired woman answered.
+
+It was frustrating sometimes, but elves truly were just better in almost every way. Their natural baselines were considerably higher than Ranthia’s, which meant the System’s weight had that much more to improve. They were beautiful, almost without exception. They were healthier and innately immortal. And the cycle of life and birth was just… easier for them, because of course it was.
+
+Elves were perfect because the gods had iterated their way up to that point. Conversely, humanity was presumably one of the earliest attempts.
+
+But the System was also a powerful equalizer, especially when precious few elves faced undue hardship. Which was part of why Ranthia refused to lay around idle. Helping Anthelleon—her sister, the first she ever had—was important, yet a piece of her remained impatient for Spring. With each day that passed, her journey to Ithil drew nearer.
+
+“Sorry kid, there’s no milk in there, you’ll have to settle for this.” Ranthia grumbled quietly at the infant cradled in her arm.
+
+Elven ingenuity had crafted something Ranthia had never seen before—a handheld false breast that was filled with milk. [Mages] helped remove excess milk from mothers that produced more than their children needed, then stored it within the unusual containers for anyone who needed them. Alas, even though the false breast looked and felt completely realistic and delivered milk that was perfectly warmed through the enchantments concealed around the handle, Mahvel wasn’t fooled.
+
+He wanted real titty, but no matter how aggressively he fondled Ranthia, she wasn’t on the menu.
+
+“Quit behaving like a teenager and just eat.” Ranthia pleaded, as she once again offered the artificial nipple to the babe’s lips.
+
+Honestly, she wasn’t a fan of his antics. He was probably too young to mean anything by it, but she regretted not having anything stiffer and more padded to wear. Still, he was her nephew. She supposed she owed him some degree of tolerance and patience.
+
+And it was kind of awe-inspiring to hold the newborn elf in her arms. Anthelleon had refused to give him up—often even refusing to let Neyvern spend much time with him—until at last, three days later, her well of stamina ran dry and she dozed off. Neyvern was just as exhausted, and Ranthia foolishly volunteered herself to take the kid for a few hours.
+
+It was her first time holding her nephew. She couldn’t call him cute or handsome or any of the other plentiful adjectives that Anthelleon piled on the kid—he was… doughy. Doughy was the word that she kept landing on, no matter how unkind it was. Which absolutely had no impact on how emphatically she agreed with her sister’s praises, but her heart was never in it.
+
+He didn’t even have any horns. Which, in retrospect, probably made a lot of sense, from a “mothers need to survive giving birth” perspective. Neyvern had confirmed that they usually grew in right about the same time kids unlocked their System—when they turned 8, just the same as it was in Remus.
+
+Still, the kid was… alive. He was a tiny elf, fragile and untouched by the System. His blond hair was wispy and thin, his limbs were clumsy, and he had a horrid habit of refusing to let go of anything his teensy little fingers managed to close around. But his eyes were bright and he gazed intensely at everything.
+
+Everything except the source of food that Ranthia offered.
+
+She finally gave up. If the kid wasn’t hungry enough to accept a stand-in, she wasn’t going to force the matter. Instead, she balanced the bulb of milk on the arm of the chair and grinned at the kid.
+
+Ranthia passed her hand over her face, revealing a silly expression. She widened her eyes, stuck her tongue out, and forced the corners of her cheeks as high as she could raise them. Then she passed her hand over her face again, revealing an expression of exaggerated surprise.
+
+The newborn in her arms didn’t laugh at her antics, but his eyes did light up.
+
+And that was pretty freaking great.
+
+“I’m home!” Ranthia called out as she passed through her door.
+
+It was weird to have been away for almost three months, but her nephew was finally sleeping through the night more often than not, which meant that passing the kid between the three of them wasn’t a necessity any longer. And she was pretty sure that a healthy distance would help her future relationship with him. She’d stepped up to help her sister, but she was far fonder of children when she could pass them back to their parents and leave.
+
+At least deleting the stinky sludge that the kid unleashed without warning—from both ends—had helped [Pinpoint Barrier] reach level 59.
+
+Instead of a telltale Vlip followed by an excited bunny-tackle, Clover approached one slow hop at a time, until she came into view. There were no words, of course, but Ranthia was pretty sure she knew exactly what the annoyed thump meant.
+
+“What, is my long-awaited homecoming after almost a season inconveniencing you?” Ranthia deadpanned.
+
+The sleepy bunny shamelessly agreed.
+
+“Alright, that’s it.” Ranthia blurred into motion and swept Clover up before her Bond could even react, nuzzling the soft bunny fluff while she mercilessly showered Clover in affection.
+
+Bunnies were so much cuter than babies.
+
+She was so caught up in it that it took her almost a full second to realize just how long it had taken for Clover to start to thrash. Warily, she focused one of her [Divine Eyes] on her Bond.
+
+[Rabbit – Dark] level 8. [Rabbit – Dark] level 8. [Artisan – Forest] level 256.
+
+Ranthia stiffly set Clover down before she reacted. She could feel her temper flaring with every beat of her heart. Clover had reset her first two classes. Her bond was cycling, and she had done so without even so much as consulting her! The entire reason that Ranthia had desperately pushed herself and taken on inordinate risks and exhausting hunts was to give Clover more vitality—more time on Pallos—so that she could find the means to achieve immortality.
+
+And in her absence, Clover had thrown almost all of that work out the proverbial window! The bulk of her vitality was gone. And without it, she would age far more quickly. Each day that passed suddenly had a weight that Ranthia hadn’t even known—because no one seemed to know just how much time a giant field rabbit had.
+
+She wanted to yell. She wanted to scream, to rage, to demand.
+
+Instead, Ranthia forced herself to take a walk. Without a word, she turned and left her home.
+
+Realistically, Ranthia knew Clover had an explanation. The years they had spent together were still few in number, but Clover was an adult rabbit. It didn’t matter that she would be a child by human—or elven—standards, she had proven her cleverness time and time again. She had proven her worthiness. There had to be an explanation.
+
+Ranthia just needed to cool her head enough to listen to it. Metaphorically listen, at least—it wasn’t like Clover was going to start talking. But her Bond could write, and that would be important.
+
+And sure enough, when she returned to her home, she found Clover waiting on the table with a stack of paper and an inkwell. One sheet of crisp, elven paper was between them already, with a few words written on it.
+
+Trust me, I have a plan.
+
+Ranthia took a deep breath and forced herself to nod.
+
+“I do trust you, sweetling. I truly do. But this isn’t enough and you know it. For Xaoc’s sake, I need to know the plan. Please.” She wasn’t as calm as she would have liked, but she was more than a little impatient for answers.
+
+Clover tried to stamp her foot and glare at Ranthia, but when Ranthia refused to back down, the bunny finally deflated a bit. At last, she nodded—an oddly human gesture.
+
+And, before Ranthia’s eyes, Clover began to age. She wasn’t being philosophical either, it wasn’t a moment of an immortal perspective—Clover quite literally started to age. Rapidly. Her ears drooped more and more, her coat began to grey, her nails thickened, and her eyes began to grow cloudy. Within seconds, Clover went from the peak of a healthy adult to a decrepit elder.
+
+And then—thank Xaoc—the process reversed itself, just as swiftly. Ranthia’s mounting panic receded, and she found herself gawking at her rabbit.
+
+Once Clover was restored to the same bunny that Ranthia expected her to be, she once again altered her left forepaw for writing—the paw itself widened and a single nail elongated, curving more sharply as it did so. Clover raised her paw and dipped the nail into the inkwell, then the ink lowered as it was somehow absorbed into the claw, and finally she turned to her sheet of paper to write. The lines of her characters were no match for Ranthia’s graceful, flowing script, but they were far neater than Clover’s earlier writings—muscles within the digit of her paw gave her far more fine control over the nail than she’d once been capable of.
+
+…Okay, seeing Clover grow increasingly excited as she explained was adorable, but Ranthia was feeling somewhat daunted by the time her bunny began on the third page of her information dump. But if—if—she was parsing her Bond’s highly specific explanation correctly, Clover’s mortality problem was… already solved.
+
+According to her, Biomancy made it easy to just… disable aging. It wasn’t like Ranthia’s own immortality, where she was constantly reversing her age every time she shifted to a fresh image, it was just disabling the “biological” processes that caused someone to age, while also preventing any and all degeneration of the body. Except Clover was still letting herself age sometimes, because she was trying to prove that the aging process was beneficial to her mind developing, even if her teacher said that it was likely irrelevant.
+
+That led to a three page aside, while Clover scribbled excitedly about something called “Build a Better Bunny with Biomancy,” which seemed to be some sort of plan for the idealized form that Clover intended to make permanent. Except she wasn’t ready and was still iterating because of… well, Ranthia ended up completely lost around that point. One moment Clover was scrawling about cranial structures, the next she was offering a “simplified” explanation of types of brain… bits and how they differed in functionality and purpose.
+
+But even if Ranthia couldn’t understand half of it, there was a plan. And they had more time than she had started to fear!
+
+Though she had some minor regrets when Clover zipped off and returned, hauling a dense stack of papers on either side of her bun bod—papers that were clutched in beaks that had grown out from her sides.
+
+Her bunny was adorable, but Biomancy made for some downright unsettling sights.
+
+And she had a funny feeling that she was in for another long night.
+
+If Lumornor, or anyone else for that matter, ever again asked Ranthia what she knew about Biomancy, she planned to answer with “Far too much.”
+
+“In Ithil? Algaras. Definitely start with him. The man’s a bit eccentric—and that’s coming from me—but he’s a miracle worker with leather, and I know for a fact he’s handled wyvern before.” Myntheria was speaking far too loudly, but since her words were directed at Ranthia, no one else seemed to pay them any mind. Not even the young elf that she was painting reacted.
+
+Ranthia was still trying to keep the fact that she’d slain a wyvern somewhat quiet. Sure, her eventual armor would be a plain giveaway to anyone that knew what they were looking at, but she had no interest in bragging about the accomplishment.
+
+“I’m a bit surprised you actually have a name. Everyone else I’ve asked, aside from the Lodge’s owner, couldn’t really tell me anything except what not to look for. And even the barkeep only had a business name for me—Rykellos Armorers.” Well, Ranthia verbally claimed that she was surprised, but she truly wasn’t. Myntheria always seemed to know a bit about… pretty much everything. And she was starting to suspect that the cute elf might be considerably older than most of the City of Arts’ inhabitants.
+
+With an act of will, she once again wrested her eyes from her friend’s exposed, paint-accented breasts and leveled her gaze upon the woman’s eyes, where it belonged. Gods and goddesses, she was usually better about not gawking!
+
+“I’ve been to Ithil a few times, and creative sorts tend to stick together. It makes it easy to pick up names and basic details.” The elf breezily waved off Ranthia’s suspicions. “Rykellos’ place would probably be able to help you—he ascended as the god of armor just a few centuries ago, by the way—but they tend to stay pretty busy making custom orders for spoiled brats. Good quality, mind you. Just expect a wait to even speak with anyone other than their sales team.”
+
+Myntheria paused with that and frowned, before wordlessly gesturing to request a moment. Without further warning, she accelerated to full speed and the spring-themed floral pattern that she was painting on her current canvas of flesh was rapidly completed, leaving the level 258 youngling completely baffled when she gently sent him on his way.
+
+“Alright, I probably shouldn’t say this, but we’re friends, you and I, right?” Unlike when she was speaking of Ranthia’s ‘I’d rather keep this quiet’ achievement, the blonde elf with partially dyed hair kept her voice very quiet as she slipped gracefully into Ranthia’s personal space.
+
+“Yes? Of course we are.” Ranthia blinked as she tried to rein in her surprise.
+
+“Right. Well, Elsyny—Elsynthene—was doing some checking in about you, and she kind of wrote a letter to someone that she shouldn’t have. Long story short, some of the [Priests] from the greatest temple are curious about you, and it might not be the worst idea to get ahead of that. It’s a short journey from Ithil. And you might enjoy talking to the [Priest] that’s regarded as being the closest to your god, maybe?
+
+“Don’t tell Elsynthene that I told you this, by the way. I might be mad at her on your behalf, but she’ll be a terror if she knows that I’m warning you about her indiscretions.” Myntheria winked after she finished speaking.
+
+Meanwhile, Ranthia was trying not to blush from the feeling of her friend’s warm breath against her lips. They were so close together that a single careless movement could make their noses touch!
+
+It seemed that she had more to think about while she finished preparing than she’d expected.
+
+She was falling. It’d been a simple step, just like any other in the dance—except the petal that her foot landed on turned out to be a flake of hot ash. The moment her sandal touched it, it disintegrated, and she found herself plummeting. With the momentum of her dance ruined, she plowed through the other flower petals and leaves on the wind, unable to catch herself upon them.
+
+There wasn’t enough time to shift. There were probably other options that she could have tried with her images. In fact, there was a good chance that her image could catch her if she powered it up to the maximum extent that she could. But she stubbornly refused to manifest a single image.
+
+Instead, she rolled as she made impact, then sprang promptly to her feet.
+
+“I concede the match; there’s no recovering from that at this level!” Ranthia called out, with a false grin on her face.
+
+She was seething, yes, but she could address the crowd and pretend to be a good sport. Sure, she hated losing. Yes, it was her second attempt to challenge for Rank 24—and her first against Nylko. But she could still smile at the crowd and make the proper noises.
+
+“You were doing well. And if I find out who was letting smoke flow into our dance, I’ll have stern words for them, I promise you that. Are you certain that you are alright?” Nylko landed gracefully next to her, his vividly red hair splaying out around him as he twirled to bleed his momentum.
+
+The man was well-spoken and the crowd loved him, but Ranthia knew better. When she was in the middle of her competition to claim Rank 31, she’d heard his snide commentary. He found her unattractive—fine, whatever. She had no interest in the male gaze anyway. But he had disparaged her images. He called them a gimmick that had no place in the art. Which, first of all, she actually had to dance with her images, so of course they had a place in the art!
+
+Second, she had been competing against a woman that used Mirages to provide illusory backdrops and pops of color while she danced! And he hadn’t said a word about her eye-catching tricks that were unrelated to dancing!
+
+“I’m fine, thank you. And I’m pretty sure that whoever was burning something didn’t mean to cause any issues.” Ranthia hoped her grin wasn’t too stiff.
+
+Or murderous—visibly murderous was also a problem.
+
+What frustrated her more than anything was that Nylko was actually, legitimately good. She even out-leveled the man, but she still had to push herself to her limits, just to keep up with him. And that was why she made such a stupid mistake—she had been wholly focused on her dance, just to compete with the man.
+
+Even if she hadn’t screwed up, there was a good chance that the crowd would have favored him. And that stung.
+
+For all that she disparaged the idea of competing in the arts, it seemed that she developed something of a competitive streak somewhere along the line. Arguably though, the loss was for the best. She had successfully defended her current rank, and Singarri seemed to be unlikely to be unseated any time soon from Rank 26. So, in a way, she had confirmed her place in the rankings, which was as good a place as any to leave the city for several months. And so long as she returned within two years, her place as Rank 25 would be maintained.
+
+She would have rather won.
+
+“And you didn’t think to bring this up any sooner?” The barkeep continued to glare at Ranthia across her counter. She was still wiping the same long-dry mug with a hand towel that was in no way properly scaled to her impressive frame too.
+
+“I figured I’d be able to borrow or pay for some cargo space in the caravan. But now that it’s here, the foreman told me that they’ll be completely full.” Ranthia hurriedly explained. She wasn’t being foolish; she had just made a completely reasonable assumption! And she was tired of being treated like an idiot. Even if she was inexplicably attracted to the emotionally distant woman, she had her limits.
+
+She owed the barkeep a lot and she trusted her deeply, but she was worthy of at least a little acknowledgement!
+
+“Dumbass.” With a single utterance, the barkeep dashed Ranthia’s hopes. Not that she stopped there. “Of course the supply caravan stays full! The entire point of the damned thing is to deliver what one city needs, while retrieving that city’s excess to move to the next. They’re the only reason reason we have flour here, even without a single fucking wheat or rye field anywhere nearby.”
+
+“I… huh. I’m guessing the excess from our fruit trees and maybe some of the meat from the Lodge is what they’ll be taking on here?” Ranthia indulged in her curiosity.
+
+“Decent guess. Incomplete, but decent. And you can bother someone else with the specifics; I have better shit to do.” That almost sounded like praise!
+
+…Gods and goddesses, just how attention-starved was she?
+
+“Right. Anyhow, seriously, do you have any suggestions about where I can borrow a Spatial storage container with a strong enough enchantment to carry everything that I need to bring to the armorer?” She even tried to tap into the wellspring of her charm. She had asked her friends already, but none of them had a Spatial storage device that could hold her remaining containers of preserved wyvern parts. Though admittedly, the barkeep still wasn’t her last hope—she hadn’t asked Elsynthene and she really hoped that she wouldn’t have to. She’d expected the barkeep to rake her over the metaphorical coals, but even that was preferable to the Maestro’s benevolent generosity.
+
+Ranthia was starting to feel far too indebted to the scarred elf to be even remotely comfortable with it. No matter how she tried to convince herself that it was reciprocal, the fact that her curse-breaking Aura hadn’t had any visible effect for years suggested that it was either smaller in range than they hoped or insufficient to the task. And if she wasn’t holding up her end of the bargain…
+
+“Ugh, fine. Just stop with that ridiculous pouty stare before I punch you. Fucking idiot. I’ll loan you a spatial storage box that you can wear on your back. But I need collateral. Because you’ve proven time and time again that you’re too fucking stupid to be concerned about my displeasure. So, I’m going to see if you can scrape enough damned foresight to remember that you care about something precious to you!
+
+“That dumb mistweave garment you’re always wearing—the white short dress thing—you’re leaving that with me. And if you ruin my box, you aren’t getting your damn garment back. Your lack of fashion sense will hamper the resale value, but I can probably still recoup most of my losses if you manage to destroy my box. Just bring it by in the morning; the caravan won’t be departing before noon, no matter what the fool in charge of it told you.” With a final grumble passed through her limps, the barkeep turned away from her to deal with actual paying customers.
+
+And with that, almost every task Ranthia had on her to-do list was done. She was more or less ready for her trip. …Just as soon as she finished packing.
+
+The day wasn’t beautiful. Spring was well underway, sure, but the sky was filled with heavily laden clouds that promised to deliver ample amounts of rain. It was unseasonably dark for noon, and the air smelled of the coming showers, even within the City of Arts’ protective barrier. Not that Ranthia was about to let that bother her.
+
+She had a bright and sunny smile plastered on her face as she bade her friends and family farewell.
+
+“You sure you don’t want to come with me, sweetling?” Ranthia asked as she shamelessly nuzzled her protesting bunny.
+
+Ever since she’d returned from helping Anthelleon and Neyvern with Mahvel, Clover had been stubborn about excessive physical affection. Not that Ranthia was about to stop just because of the moody whims of her Bond—she could somehow tell that Clover still loved it, even if she was putting on a front.
+
+Alas, Clover was still steadfastly refusing to leave the City of Arts. According to her, Lumornor was in the midst of some sort of research project and she was focused on doing what she could to support it. Ranthia felt more than a bit weird about leaving her behind though—even the months she spent in the stone tower had been hard, with Clover a short walk away. But while she was in Ithil, there would be a significant distance between them, one that even Ranthia couldn’t cross on a whim.
+
+Their [Companion Bond] had no maximum distance—elven literature was extremely confident about that. But it still felt wrong.
+
+Clover escaped her arms with a sudden forceful kick, just in time for Anthelleon to embrace Ranthia instead.
+
+“I shall miss you, my sister. But do not worry, I’ll make certain that Mahvel remembers you and looks forward to your return.” The elf squeezed as hard as she could, shamelessly exploiting Ranthia’s improved resilience.
+
+Honestly, she was a bit surprised that Anthelleon was willing to part ways with her son for long enough to see Ranthia off. For all the fear and uncertainty that her sister had expressed during her pregnancy, she had seized motherhood with relish and tried to spend every possible moment with her infant. After all, “I am well aware that they grow up all too quickly, so allow me to have my tenderness for the scant years that it shall last.”
+
+Neyvern was tending to their son, and Solareon was cooped up at the facility she was boarded at. Ranthia was still half-convinced that the griffon really wanted to accompany her to Ithil, but that was a terrible idea for a variety of reasons. Bonded predators were generally tolerated in elven society so long as their partner was present, but Ranthia wasn’t Neyvern—she had no Skills associated with the oversized avian-esque feline!
+
+“Now, now, don’t go crushing the poor dear before she gets to leave.” Next up was Elsynthene—who hadn’t been there a moment ago. “Do take care. And remember that there are those here eager for your return.”
+
+With a final smile, the white-haired elf vanished once again, without waiting for a response.
+
+“She is such a busybody. There’s a meeting going on, so she just schlepped out in the middle of it, just to say the obvious. Absurd!” For a rare change, Myntheria was fully dressed and without a single lick of paint anywhere on her skin. She was a bit darker of skin than Ranthia had ever expected. And while it was strange to see her without her daily body paint, she was no less beautiful in her dress—one that was the exact same shade of blue as the dyed tips of her blonde hair.
+
+Once Anthelleon finally released her, Ranthia gingerly hugged her other friend.
+
+“I’ll be back before you know it. With new armor and ready to hunt!” Ranthia offered the two elves a fierce grin once she separated from her final hug.
+
+“Wearing a suit of armor that is made from something you killed. I truly have made a Hunter out of you, haven’t I?” Anthelleon pretended to wipe a stray bit of sentimentality out of her eye, blithely ignoring the facts that Ranthia became a Hunter before they became friends and that she herself wore a suit of armor made entirely out of market-sourced materials.
+
+But there was no time to linger, because the caravan’s foreman at last called for them to get underway. Ranthia delayed long enough to stick her tongue out at her sister, before she grinned one last time and offered them both a wave. After that, she sprinted to catch up with the surprisingly swift train of wagons.
+
+The sky opened up shortly after they got underway, but the rain hardly slowed them down. Enchantments—or perhaps just clever design—kept the elven roads from accumulating too much water and prevented them from becoming treacherously slippery, which meant the caravan kept up its brisk pace as they traversed the forest. Well before nightfall, they passed through one of the tunnels carved through a mountain and continued their journey to the southwest.
+
+Ithil wasn’t the caravan’s first destination—they had five other cities and an isolated farm to visit before they arrived—and Ranthia was looking forward to seeing more of the nation that had become her home. Most elven caravans were fairly lackadaisical and were prone to prolonged delays, just because the weather was too nice or too foul for travel, which was why Ranthia had waited for that specific caravan. Its stringent schedule kept it moving at a brisk pace, which suited her.
+
+It was too bad that she’d have to celebrate her birthday during the journey, but that was a small price to pay. She was finally on her way.
+
+A short time after sunset, the caravan came to a stop for the night. The wagons were drawn into a cluster and the campgrounds bloomed around them as each elf efficiently assembled their tent and necessities. Ranthia found a place on the outer edge to erect her own tent, though she immediately abandoned it to volunteer to help make dinner.
+
+And less than an hour later, she backed away from the four cauldrons of stew that she had helped to make and manage.
+
+[*ding!* [Home Cooking] has leveled from 141 to level 144!]
+
+[*ding!* [Soups & Stews] has leveled from 68 to level 79!]
+
+Meh, it still refused to merge. Still, not bad gains from such a short bit of work. Cooking in such vast quantities was a novel experience for her, and there’d been no small amount of pressure to do it right. She was determined to enjoy her journey, and helping to provide a tasty meal for everyone was an important first step in that.
+
+Ranthia used her arm and traveller’s cloak to protect her own bowl of soup and her generously thick crust of buttered bread as she made her way back to her tent to eat. The weather was too foul for anyone to gather to socialize. Instead, Ranthia settled in to eat, then made herself comfortable in the fur-lined “sleeping cocoon” that she bought for the journey. With high expectations for the coming days, she allowed the pitter-patter of rain against the waterproof cloth of her tent to lull her to sleep.
+
+Weather aside, it was a great first day for her journey.
+
+[*ding!* The shimagu have gone extinct.]

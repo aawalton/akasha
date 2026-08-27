@@ -1,0 +1,213 @@
+---
+id: b54c12b8-b396-5db8-a545-f1c77c841cab
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 16 - A Wild Anniversary II"
+slug: 0073-book-5-chapter-16-a-wild-anniversary-ii
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 73
+ownLength: 5534
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3372401/book-5-chapter-16-a-wild-anniversary-ii"
+royalRoadId: "3372401"
+---
+
+“Honestly, why are you mad at me?! I got you the permission you wanted!”
+
+Ranthia was more than just relieved to have found Clover safe and sound, but the rabbit’s mood was unambiguous. Instead of hopping along at Ranthia’s side merrily, the bunny was several strides ahead of Ranthia and was refusing to look her way. Sure, Clover had been unusually standoffish when Ranthia found her in at some art lecture, but she’d naïvely assumed it was just her Bond manipulating her to get permission.
+
+Honestly, she should be the one that was mad! Litil had dropped Clover off at home, yet the bunny just left! By herself and without telling anyone—okay, that bit could be forgiven. …Ranthia released another frustrated sigh. She’d been so worried! She had solicited assistance from everyone that she knew that she could find—Litil, Sunny, and two Hunters she was acquainted with—only to finally get a lead when she checked the very last entrance to the Heart of Arts and Learning.
+
+It was remarkable just how few elves bothered to notice a (relatively) gigantic bunny.
+
+But there were no worst-case scenarios at play, it was ‘just’ her Bond misbehaving in an especially brazen way. So why was Clover the one that was angry after all of that?! Ranthia’s own fury hadn’t forced its way through her relief, but Clover was clearly pissed off enough for the both of them!
+
+Also, Clover had what looked like a cute little leather backpack scaled to her body size strapped across her back and Ranthia was more than a little curious about what was up with that. But she’d really prefer to have her Bond’s cooperation to investigate instead of just peeping with her Skill.
+
+“Clover, come on. Look at me!” She was really, really trying not to yell at her bunny. But as Clover continued to snub her, she found herself struggling to quash problematic urges to shout or make use of her superior stats. Just… honestly! What in Xaoc’s glory had she done to deserve so much stress?!
+
+But no matter what she tried, Clover refused to acknowledge her throughout dinner, pre-bed prayers, and the bit of reading Ranthia did before she called it a night. Clover even stayed on the padded bench in another room when Ranthia swept the hay out of her bed and settled in for the night.
+
+“Perhaps she’ll be over this by morning…” Ranthia tried to salve her emotions with a platitude before she closed her eyes—she was getting used to her [Divine Eye] watching over her while she tried to fall asleep—and relied on her old habits and training to help guide her path to slumber.
+
+Ranthia awoke to a bed bereft of bunny, but she did have hay digging uncomfortably into her cheek. That was… something. Possibly.
+
+Clover remained absent until Ranthia finished her morning exercises and other preparations for the day. It was only when she was dressed and ready to leave her rooms—her home—that the bunny finally materialized. Clover was once again completely nude and Ranthia had no idea where the cute little bunny backpack had gone.
+
+But Clover was once again refusing to look her way, so Ranthia just let out a defeated sigh and opened the door. The fast still needed to be broken.
+
+There were far more options for food than there usually were thanks to the festivities. Restaurants and pop-ups aside, there were twice as many meal services running and—more surprisingly—each was proffering something different. Most of the crowds went for the sweet or the meaty options, which suited Ranthia just fine. She followed her nose to the fruity choice and accepted a generous bowl of mushed grains laden with wild berries. The deliciously tart flavors helped to wake her up and Clover seemed to be enjoying her pair of strawberries—even if she was making quite a mess of herself.
+
+Clover garnered far more attention than she had the previous night, once they set out again. A bunny with a red, dripping visage was somewhat noteworthy, it seemed.
+
+Clover was still snubbing Ranthia, so Ranthia just followed her Bond while they checked out the various displays, stands, and performances that were scattered across the city. In one field, a group of performers had an elaborate juggling act going that involved eight people in colorful costumes and sixty-four balls rapidly flying between them in complex patterns. In another, sixteen elves were hunched over a variety of surfaces while they… wrote text across paper? Okay, seriously, who even has a live competition involving writing a short story that revolves (somehow) around the word ‘potato’?!
+
+Yes, there were weird things going on, but a lot of it felt familiar too. Town festivals were far less common in Remus—and Ariminum seemed to lack any except when the government tried to win over its people—but Ranthia had always enjoyed them. Sure, the City of Arts was always full of laughter and wonder, but the anniversary celebration had magnified that by more than a little. Giggling gaggles of elves slipped by as they rushed to some display of artistry or other, while Ranthia and Clover examined exquisite pieces of jewelry, finer than anything that had ever graced Ariminum’s markets.
+
+They wandered for a couple of hours, with no particular destination, before they found themselves waylaid.
+
+“Hi there! Would you like to buy a stick? Pull the one with the green ink and you win a free massage from myself and my friend here—we’re the Rank 11 and Rank 7 in Massage!” A man called out to them, rattling a can full of sticks in front of Ranthia.
+
+“To fill in the details my idiot friend left out: they’re four small arcanite each, with savings for buying more than one at a time. The proceeds go toward buying a new type of scented oil for the massage studio most of us share. You can either get a four-handed massage from both of us or split us between you and a friend or lover. And because my idiot friend is, as I’ve carefully established, an idiot, feel free to use any Skills that you might possess that can help you draw the correct stick. We’ll take as many winners as we end up with! And if you successfully cheat, he has to buy me a pastry of my choice. Again.” Another elf leaned in and yanked her idiot friend out of Ranthia’s personal space with a smile on her face.
+
+“I still didn’t agree to the pastry thing.” The idiot grumbled.
+
+“You boasted that this is cheat proof—and no, that’s not an invitation for you to repeat your entire thing about why you think that—and since I have to dole out extra massages every time you’re wrong, you’re continuing to bribe me with sweet, golden shells stuffed with enough cream to drown a gnome.” The other elf kept her smile while she menaced the idiot.
+
+Ranthia just laughed and glanced Clover’s way, before she fished four small arcanite out of her pouch and tossed them to the woman. With that done, Ranthia took a half-bow and drew a stick from the can.
+
+The one with the green tip, of course.
+
+“H—how?!” Unsurprisingly, the man seemed to be stunned at the feat. “I dyed the other sticks in there with a red dye derived from the same plant that has the same scent! Every stick is cut to the exact same length and is indistinguishable from the bit sticking out of the can! And—”
+
+“I looked through the can.” Ranthia answered, tapping her blindfold.
+
+“By the fiddler’s fiddling sticks! I was so sure this can would be peep-proof!” His lament was unexpectedly childish—shrill tone included.
+
+“Pastry number four, from his foolishness to my lips. But for the moment, congratulations dear winner! It would be helpful if you could accept your massage now—we have a room reserved. Four hands for you, or do you have a lover or pal you can get super quickly?” The same smile remained fixed on the woman’s face, though her eyes spoke of a greater level of amusement.
+
+“Actually…” Ranthia glanced down at her Bond. “How are you two with non-elvenoids?”
+
+Were there limits to the sacrifices that Ranthia would make for her Bond? Apparently not. Somehow—and she couldn’t explain why or how—she became convinced that Clover preferred the woman. She was the higher ranked masseuse and, to be fair, she had begged to be the one to massage Clover.
+
+So Ranthia suffered a man’s touch, and left bliss to her Bond. To his credit, the idiot was a perfect gentleman. There was no discernible leering, his hands never wandered at all, and he even checked with her to establish comfort before he touched any new areas of her body. But no matter how skilled he was at the art of massage, Ranthia couldn’t claim her muscles felt more relaxed than they were before the process began. Which was probably terrible of her, it was just… massages were intimate in her mind. Probably because there were only a couple of women that had massaged her without Ranthia bedding them.
+
+Clover, on the other hand, was so boneless and blissed out that Ranthia had to carry a snoring bunny out of the studio. Not that she stayed asleep for long. All it took was the aroma of lunch to revive her Bond.
+
+“Okay, okay, we can grab a bite!” Ranthia laughed after Clover willfully snubbed the hay that Ranthia carried in one of her pouches. She was starting to get a bit of an appetite herself anyway.
+
+Be it by Ranthia’s sacrifice, the bliss of a massage, and/or the healing power of a nap, Clover’s mood was undeniably improved as they continued to spend the day together. They explored the aquatic exhibit—Clover seemed far more vested in the exotic lifeforms than Sunny had been—then watched while the Rank 13 challenged the Rank 12 in Singing. The challenger was ultimately unsuccessful, but both of their voices were incredible!
+
+And as Ranthia explored, laughed, and snacked alongside her Bond, she couldn’t help but to marvel at how far Clover had come. Sure, they still struggled to communicate their wants or wishes from time to time, but… gods and goddesses, Clover had just been a wild animal barely more than half a year ago! Yet there she was, barely shrinking away from a boisterous crowd at all. It was probably ridiculous, but Ranthia chose to take no small amount of pride in her rabbit’s progress.
+
+“No, you can’t have a pork chop!” Ranthia scolded her greedy bunny as she carefully carried three plates away from the service line. They’d been prepared by the Rank 16 in Cooking using the pork she’d brought in, and the man had generously allowed her to take three portions once she explained what she intended to use them for.
+
+Clover, on the other hand, insisted that she deserved at least one of them.
+
+Ranthia grunted in feigned distress every time Clover kicked her, though she still kept the plates balanced until she reached the shrines that had been set up in front of miniature replicas of the city’s great trees.
+
+“Hush for a moment Clover, this is important.” Ranthia chided the agitated bunny, before she set the first plate on an altar and knelt.
+
+“I make this offering to the God of Arboriculture, out of gratitude for the shelter that your creation has offered me. I am a newcomer to the elven lands, yet your wondrous tree has become a home unlike any I have ever known. The dish that I offer includes the pork of wild beasts that I hunted with my own blades, as prepared by the Rank 16 in Cooking. I hope that this offering is to your liking. And sincerely, thank you.” Ranthia made her prayer out loud, as she opened her mana to the unfamiliar deity.
+
+In general, she had… somewhat less respect for the ascended gods, but she felt somewhat dutybound to offer her gratitude to the man that created her home. She hadn’t been familiar with him beforehand, but the city’s populace seemed to hold him in high regard. And a god dedicated to the growth and tending of trees certainly sounded rather wholesome.
+
+The dish disappeared with a twinkling glow and the sound of a warm breeze (how Ranthia knew it was meant to be warm was just one of those mysteries of communing with divinity). A few leaves were left in its place, and they soon flitted away on the gentle wind that continuously flowed throughout the city. He also claimed twenty-five thousand mana, but that wasn’t exactly a problem—she had plenty.
+
+But Ranthia couldn’t offer another deity a boon without offering the same to the god she was pledged to. She stood and walked a respectful distance away from the shrines to the local deities and set her personal serving down on a nearby table. Then, she raised the remaining dish over her head. Sure, there were a few unaligned altars available throughout the town, but she was Xaoc’s [Priestess]. And she was reasonably certain that she had no need to make the journey.
+
+“Xaoc, great god of Chaos! I have offered thanks to the one that granted me my current home, but now I offer thanks to You—He who granted me life and purpose! I will forever be grateful to You, and I make this offering not just out of gratitude, but out of both love and respect. The pigs brought chaos to this forest, true, but they were little more than agents of destruction that left a lifeless and sundered space wherever they went. And I will never accept such senseless devastation—never again. I hope that this dish offers You a modicum of pleasure, though I doubt it can equal the splendors that You enjoy as You watch over our world.” Okay, so she hadn’t meant to include the aside about destruction and her refusal to accept senseless devastation ever again, but that was how prayers went sometimes. And it probably was important that she accepted her complicity in far too many of the horrors that the war had wrought.
+
+Just when Ranthia began to second-guess her theory that she could serve as her own holy altar when praying to Xaoc, He acted. A shift in weight denoted the food vanishing off the plate, moments before said plate shattered into a deluge of colorful fragments that poured down her body.
+
+More than a few elves jeered and chortled while Ranthia sputtered and generally did what she could to get irregularly shaped shards of colorful crystal out of her mouth and nose. She was aware that she could feel His amusement, but she had space for little else other than getting the finer flecks of the former plate out of her mouth. Why had she prayed out loud?!
+
+Naturally, He had drained much of her mana. But that was fine, He could make better use of it than she could while she was idle. Besides, she had a hearty meal waiting for her…
+
+“Gah! Clover n—” Her rebuke fell prey to a coughing fit after she inhaled plate dust in her efforts to stop her greedy bunny.
+
+Clover continued to ignore her plight and hurriedly tore chunks off the pork chop to down them before she could be stopped.
+
+“You’re lucky that nothing it was seasoned with was on the list of things that are deadly if they’re ingested. But rabbits aren’t meant to eat meat.” Ranthia groused as she directed her Bond through the door into their home.
+
+Naturally, due to divine shenanigans, shifting somehow carried the colorful fragments of crystal to her new body. So, she was still leaving a discernable, sparkling trail. The city’s cleaning auras should—in theory—clean that up, but she was in dire need of a shower. And even if eating a quarter of a pork chop wasn’t on the list of emergencies, she still fully intended to mention it to the [Healer] in the morning. How much ‘not great’ did it take to constitute a major problem?
+
+“You, my sweetling, can make life exhausting.” Ranthia complained. …Except her audience had slipped away while she was distracted!
+
+Ranthia indulged in a silent bout of seething as she removed her belt, carefully shucked her mistweave dress, and carefully knelt down to loosen the straps on her sandals enough to slip them off. She promised herself a long, hot shower followed by immediately going to bed. Everything else could wait for another day.
+
+The sound of something sliding and bumping against the wooden floor of their home dragged Ranthia’s psyche—metaphorically kicking and screaming—back to the moment. She turned in the direction that the sound was coming from, ready to start shouting the moment Clover had rounded the corner. She had endured enough for one day!
+
+Her outrage died on her lips as Clover’s cute little backpack came into view. The rabbit was carefully pushing it with her nose toward Ranthia. And just in case that wasn’t already dangerously cute—Clover began to make her excited noises as she drew closer. Litil had referred to it as ‘honking’ and it was a clear indication of excitement—just the same as the long, joyous hops she sometimes made.
+
+“Okay, okay, yes, you’re adorable.” Ranthia giggled as she knelt back down. “Am I finally going to get to admire your cute new bag?”
+
+Clover continued her approach and nosed the bag straight into Ranthia’s hand before she stopped. Ranthia started to admire the bag—it felt new enough that it was likely made specifically for Clover and the straps could be adjusted if she kept growing—but Clover’s excitement gave way to impatience after a few moments. After a minute or two of failures to communicate, Ranthia finally set her fingers on the straps that opened the bag and—with Clover’s excited permission—undid them.
+
+Inside the bag was a surprising volume of hay—had Clover somehow sourced a bag with a mild spatial enchantment?!—with a crystalline sculpture nestled within it. Carefully, Ranthia withdrew the figure so she could take a look at it. While her real bunny bounced excitedly in her peripheral vision, she admired the sculpture of a rabbit in mid-jump. It wasn’t based on Clover—most likely it depicted a less gargantuan specimen of rabbit—but it was finely crafted with impeccable detailing work. The crystal it was made from was the same that elves used as robust building material, so it wasn’t even fragile. If anything, the fine steel chain it hung from was probably the most vulnerable material on the sculpture.
+
+For all that Ranthia struggled sometimes to understand her Bond, there was precious little ambiguity about what the figurine was meant for.
+
+“A gift, for me?” Ranthia confirmed.
+
+Only to get tackled by an enthusiastic bunny.
+
+The celebration wasn’t done, of course. The bulk of the third day was spent with Myntheria—dressed in pants and body paint, the same as usual—with Clover abandoning them in favor of Litil partway through the morning. Thankfully, the [Healer] wasn’t too worried about the pork chop incident since the bunny had left fresh piles of poop in Ranthia’s horribly abused former backpack. Ranthia just made sure to put some gems into Clover’s backpack for her before they parted ways. For the third time, Ranthia toured the aquatic display, laying eyes on a few creatures from the oceanic depths that she hadn’t seen on her prior visits. But Myntheria was mostly interested in watching the artistic performances and competitions throughout the city.
+
+The morning of the fourth day was spent with Sunny—without Clover, after the rabbit promptly kicked Sunny and zipped off across a crowded street to bother Litil’s eldest daughter. But they didn’t have time to get up to much before they joined the crowds that filled the streets and fields surrounding the Purple Pavillion—the largest of the Pavillions in the city. Ranthia and Sunny joined Litil’s family, with Anthelleon joining them before the crowds thickened too much for her to find a place with their group. And with Clover perched in Ranthia’s lap, they bore witness to the spectacle of music at its finest.
+
+The scarred elven Maestro introduced herself to the crowd as the Maestro of Conducting, one of the founding members of the City of the Arts. The latter wasn’t a surprise, but it was the first time that Ranthia had heard what her art truly was—she’d always been cagey about it when they spoke. Not that the name meant anything to Ranthia. At least the mystery solved itself swiftly. Standing before the top sixty-four—selected from the best in Music and in Musical Instruments—she drew a wand of pure arcanite from some storage item or another. Balls of Lightning illuminated the Purple Pavillion as she began to move her wand—and with that movement, the music began.
+
+Conducting had no role in creating the music. In fact, the eyes of the musicians only flicked to the wand briefly or watched it through the corner of their vision—or some dedicated Skill. Instead, much as the woman had once promised, she brought the diverse group of elves into harmony. Through her wand, the Maestro controlled the tempo of the performance and cued each and every change as individual instruments or entire categories of sounds joined or departed from the symphony.
+
+The end result was beautiful. Ranthia had heard almost every instrument in play, of course. Some of them individually, others played through small groups. But the culmination of sixty-four individual [Artisans] was something wholly unlike the sum of its parts. Each note joined and melded into a cohesive whole. Nothing she had heard in Remus even came close to the utter perfection of the combined sound.
+
+It was even richer than Ranthia could have imagined music to be.
+
+It was so beautiful that even her urge to dance was subsumed by her desire to drink in the performance.
+
+They continued to play throughout the rest of the day and well into the night, but few in the crowd dared to leave the grand performance. It was one of the highlights of the city’s anniversary celebration and by every last god and goddess, it deserved its reputation.
+
+The fifth day, Ranthia stayed with Clover and promised her friends that she would spend more time with them another day. Together, they sampled fruits that Ranthia had never seen—with the exception of fresh Ilan fruit, not after her experience with the bread—and watched various performances, including a particularly hilarious one.
+
+Some non-native Ooze [Mage] was running something that was halfway between a sport and a spectacle. He would encase two to eight elves in thick, bulbous layers of non-sticky Ooze and have them form teams to face off in a game where they sought to get a floaty, oversized ball into large nets on either side of the field. Except the Ooze that the elves wore wanted to bounce, so they had to limit their speed and carefully hold back on the force they used, lest they went flying. And even with elven grace, few that ended up on the ground could manage to recover their footing. Honestly, it was a delight to watch the haughty elves struggle with clumsiness. And Ranthia was far from the only person to feel that way—the crowd was filled with delightful heckling and laughter.
+
+In a three-on-three match, three of the Hunters Ranthia didn’t get along with clashed—clumsily—with three of the city’s volunteer guards. Two guards and one of the Hunters were on their backs, cursing up a storm as they thrashed and struggled, while the remaining guard proved himself an impressive barrier to the remaining duo. The score remained at zero-zero until their time slot came to an end.
+
+Snickering, Ranthia beckoned Clover to follow. They’d watched three matches and she was ready to move on.
+
+“Lo there, human! Are you seriously going to leave without stepping into the field yourself?!” The man that was presumably Sunny’s father tried to waylay them, waddling as best he could in his bulbous orange costume of Ooze.
+
+“Yup.” Ranthia confirmed.
+
+“I challenge you, one-on-one! What are you, scared?” The man sneered at her, clearly unaware of how absurd that looked in his current attire.
+
+“Terrified.” Ranthia confirmed, shaking her hands and knees for emphasis. “For I am not yet done with my first cycle and there is no way I can possibly compete in such a deadly bloodsport. The display of effortless grace and peerless might is far beyond my means, alas! I must away to soothe my too human heart!”
+
+Sure, she could have tried to don one of the Ooze suits and made a fool of herself. But it was far more amusing to depart at that point, while the crowd laughed at the expense of her would-be opponent. Besides, Clover was obviously tired of watching a game she presumably couldn’t understand.
+
+The Heart of Arts and Learning had set up a special one-day exhibit on the first floor: art created by children that had yet to unlock. And Ranthia wasn’t even slightly surprised that Clover led her directly to it. The floor had been divided into eight quadrants by age. Less than one year, one year, two years, and so on up to the seven-year-olds. Much of the art was little more than colorful, meaningless scribbles, but there were actually some legitimately impressive pieces. One of the most eye-catching displays was a full replica of the town constructed by a mere six-year-old across almost a full year of effort. Sure, there were a few missing buildings, and the scale was wildly inconsistent. But Ranthia couldn’t imagine many children that age managing so much dedication to such a prolonged project.
+
+Then again, unlocked or not, they were still elves. They were just built different.
+
+Just after sunset, a new form of entertainment revealed itself. And Ranthia and Clover joined the crowd rushing to the spectacle—the Rank 5 in Cooking had challenged the Rank 4!
+
+Scaldos, the fire elemental. He was a spectacle in and of himself with his voice of crackling flame and a non-elvenoid form of flexible size. Most often he looked like nothing more than a roaring bonfire on his side of the field—a bonfire that burned nothing and even left the grass unblemished (though perhaps a bit dryer from his passing). Common logic said that only Inferno could make flame solid, but despite being an elemental of mere Fire, Scaldos was able to form limbs and manipulate ingredients and utensils. His form was constantly in flux, though he favored broad paws with six flexible digits where they were suitable.
+
+He also knew how to work a crowd. He cracked jokes, unleashed a torrent of (oft-strained) fire puns, and involved the crowd in every step of his process as he cooked—often using his own body. His opponent on the other hand, was a taciturn woman that chose to hold her silence after she wished him luck. Her hands were a blur as she prepared her own dishes and her gaze flickered between each and every pan and pot she had going.
+
+Surprisingly, the audience was asked to judge the results. In a usual contest, the competitors would declare the winner—with a cultural bias for the higher ranked competitor to cede the Rank if there was any doubt in their victory. Sure, the crowd’s excitement was a factor, but they were rarely asked to name a preference. But, since Scaldos couldn’t actually taste anything, instead the competitors created two hundred and fifty-six little plates and saw them passed out to the entire crowd.
+
+Scaldos’ steak and seared vegetables were a delight, but unfortunately his competitor’s dumplings in soup were undeniably better. Even with [Expert Tongue], Ranthia was certain she couldn’t appreciate the full breadth of flavors that the taciturn elf had finessed through her cooking. Her dish looked simple, but the complexity and sheer genius of it sang across her tongue.
+
+“Ha! Well, congratulations, my hot-blooded rival. But my own talent in your art burns brighter with every year that joins the ashes of history—I hope you don’t fireel too burned next year!” A ripple of brighter flame passed through the elemental to visualize his mirth.
+
+Surprisingly, the competitors resumed cooking for anyone that wanted to sample more of their food. Most of the crowd queued up for the winner’s impressive soup, but Ranthia and Clover were part of the rare few that favored the fire elemental. In large part because he was the only one that was cooking anything that Clover could have. Sure, it was better for Clover to eat raw vegetables, but cooked ones couldn’t hurt—especially when prepared by a chef Skilled enough to keep the nutrition value just as high.
+
+“A human! Well, burn my non-existent eyes, I haven’t seen your firike since I was a wandering spark trying to survive the wind!” The flames seemed to blaze more intensely as Scaldos lifted himself up more to properly examine Ranthia—and her Bond. “And a lovely rabbit too! Well, well, this must be my pyrolucky day! Too bad I couldn’t be blazing with victory for you both!”
+
+Clover shrunk back from the (surprisingly cool) intense flames, but she still eagerly ate every vegetable he flung her way while he cooked for those that favored him.
+
+The rest of the celebration felt as though it passed in a blur. It sounded regrettably trite when put so simply, but the experience was unlike anything that Ranthia had properly experienced before. Eight days of merriment with friends and her Bond. Laughing, sharing food, and soaking in new sensations with every sense she possessed. Truly, it shouldn’t have felt so novel.
+
+But in Remus, she had grown jaded to entertainment—her Skills muted the Mirages they favored, just as her honed senses revealed the flaws in their piteous works. But the immortal society had truly rekindled the wonder and splendor of the arts for her. Sure, some of the performers were likely even younger than she was, but even the youngest among their ranks had dedicated themselves to the arts with the same zeal she had dedicated herself to the necessity of survival.
+
+During those precious days, the stresses and worries that her life had accrued felt distant and her heart felt a little lighter.
+
+Then, with nervous anticipation, Ranthia joined the crowd in one of the parks on the final night of the celebration. She had witnessed many contests in the arts, but there was one in particular that had been planned since before the celebrations even began.
+
+The Rank 2 in Dancing had challenged the Rank 1. Both women were dressed in fine costumes with colors and motifs meant to evoke the forest. Floating crystals struggled to provide pops of alternative color beneath the vibrant glare of the full moons. The Rank 1 in Singing himself provided the music, though the dance didn’t immediately begin. It was only once a Wind [Mage] created a brisk, cool breeze that swept petals and leaves into the sky that the dancers moved.
+
+Ranthia could scarcely believe her eyes. The dancers weren’t competing on the grass—they danced in three dimensions, moving between leaves and petals with every step. The Skill-generated breeze should have made for a chaotic and almost unpredictable arena, but the dancers were so proficient that every move they made felt as though it had always been part of their plan. Before their sheer talent, even the whims of nature couldn’t hope to become an obstruction. It was as if every petal and leaf was exactly where they needed them to be, even when they weren’t the ones controlling the winds.
+
+Rationally, Ranthia possessed enough gift in the art to tell that they were adapting their dance to the chaos of the winds—both natural and Skill-born—but even she couldn’t tell what was adaptation and what was just… the normal cadence of the dance. They were at a level that she couldn’t match.
+
+Could she even dance upon flower petals on the wind? There was no Skill at play there—that was a feat of pure dexterity. She had achieved things that she would have once believed were impossible herself, but even still she struggled to imagine that she was capable of being so graceful that her weight had no bearing at all on the world.
+
+It was something to aspire to.
+
+No. It was something to try! She was no mere mortal, fighting for survival in the gentlest cradle Pallos had to offer. She was human, yes, but she was a dancer too. [True Grace]’s greatest value had never been in the bolstering effect it had on her Skills—its modifications to her body had honed her natural dexterity to the point that she, at the very least, narrowed the gap between her and elven perfection in that one stat.
+
+And she was done with letting herself feel like an outsider. For the first time, Ranthia looked at the impeccable dancers without thinking of them as the height of wonder. For Xaoc’s sake, they weren’t goddesses!
+
+And Ranthia was determined to become their equal. No, not just their equal—she wouldn’t stop until she surpassed even their lofty talent.

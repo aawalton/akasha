@@ -1,0 +1,217 @@
+---
+id: 581cfe21-8e89-5d55-bbad-64e1d6e7a3c9
+page-type-slug: story-chapter-royal-road
+title: "v5c20: Heeding Cassandra"
+slug: 0126-v5c20-heeding-cassandra
+partOf: beware-of-chicken
+position: 126
+ownLength: 2426
+unit: words
+ownProgress: 2426
+publishedAt: 2024-07-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1707829/v5c20-heeding-cassandra"
+royalRoadId: "1707829"
+markedReadAt: "2026-06-29T18:55:50.193Z"
+---
+
+One of the reasons why Shiyun, the woman who was once called “The Heavenly Path”, loved the Azure Hills so much was the fact that her prophetic dreams were muted here. Instead of visceral things, as if she was living them out in the moment, her visions were simply like watching a recording crystal. They were far away from her, detached in perspective and tinted with grey light. The waking dreams, too, were kinder. They merely sent her good eye rolling for a moment; when she was a child, the bad ones had sent her to the floor, frothing at the mouth, and only cultivation and a lifetime of dealing with the visions had kept her face smooth when she was still Shiyun of the Heavenly Path.
+
+Instead of battles that concerned the fates of sects, cities, or the Empire itself, she saw the weather for the next week, or a small incident at a party that was horribly embarrassing for the person, but just funny to her.
+
+It had been soothing, after a lifetime of interpreting dreams that barely made any sense. And the people she told about her visions were just grateful or mildly interested, instead of demanding she plot out every little moment. Especially because living somebody’s death multiple times always made her feel a bit sick.
+
+Then, when Jin had arrived, her dreams changed again. Instead of grey things, they seemed softer. The grey light turned to warm pastel colours, as Qi started returning to the province. She saw joyous births and happy celebrations. She saw a young rooster defying the fate she had seen for him. The future was painted in brighter colours, influenced by a man with a bright smile and freckles on his cheeks. Red strings connected him to many others, as they took up his noble, if simple, ideals.
+
+To live a good life and be a good person. To reject the common sense of cultivation and extend an open hand without expecting anything in return.
+
+It was cute. And while she might be a bitter and jaded old woman… they were good dreams.
+
+And then, last night, it had changed.
+
+========================
+
+It had started off like a mere nightmare. Like a dream, and not a vision of the future. She was freezing, in the middle of a snow-covered plain. It was bright, cold, and sterile. The sun reflected off the snow in a way that was nearly blinding.
+
+It was so cold it should have been painful. It should have been painful, and yet it wasn’t. The cold worked its way into her body, aiming to capture her heart, its cold fingers clutching to stop its warm beating.
+
+She had half a mind to let it. What was dying in a dream, after all? She would just awaken, and that would be the end of things.
+
+And besides, with the sparkling snow, the place was beautiful. Admiring the Sea of Snow while freezing to death wasn’t a bad way to spend a dream; the snow was practically iridescent in the sunlight, making the featureless white plain sparkle like a thousand gemstones.
+
+Yet, as she looked at her surroundings, and as the cold got closer and closer to her heart, she noticed one thing.
+
+She was blind in the wrong eye.
+
+She was not dreaming, she was seeing.
+
+At that realization the sleepiness had been banished from her mind; and all at once the dream had become painful. She felt the biting cold as it tore at her skin and ripped the breath from her lungs.
+
+The sky above turned black and the wind began to howl as great, heavy storm clouds rolled in from the north. They sparked and spluttered uncertainty, like the encroaching darkness was smothering the lightning within it.
+
+While the sky was overtaken by clouds, the ground began to rumble. It shook like the very earth was trembling as an ugly black slick poured over the snow, a raging flood that consumed the white around it, thundering towards her.
+
+It slammed into her body and sent her tumbling as it smashed her off the ground and threw her high into the air. It filled her mouth and nose, and it made her retch with the horrific taste—acid and fire, death and rotting blood.
+
+She could not vomit in a dream, yet it was a near thing, as she was smashed, rolled, and beaten, until she managed to grasp a rocky outcropping and hold on for dear life.
+
+Her head broke the surface of the black water, even as it grabbed her, trying to drag her along, to bury, crush, and drown her. It was like a living thing, with clawed hands that bit into her flesh.
+
+Yet even when she managed to hold firm, the water changed. It solidified. The black water turned into black chitin. The trembling earth now shook from the tread of a thousand feet.
+
+Demonic Qi filled the air as an army thundered past her like a roaring river. Tireless, relentless, even as a storm howled around them.
+
+Unlike the demons Shiyun knew, who roared and spoke in their profane tongue, these ones were silent. Their burning eyes were devoid of that spark of malevolent cunning. They simply hurried onwards.
+
+“Forward!” a voice boomed, and Shiyun forced her eyes from the demons to where what sounded like a whip cracked. A figure made of strings and wires took up half the sky, looming over everything. It twitched its puppeteer’s crook, and beings made of fire and silence obeyed, following in the tide’s wake. Another figure, a butterfly dripping malice fluttered, shifting between smoke and poison. From her wings fell drops of blood, which formed into other twisted beasts.
+
+Both butterfly and string creature reached forward, and a third added their hand: a man with stars for eyes.
+
+As one, they stretched their grasp south—their fingers closing greedily around a maple leaf.
+
+The world once more became one of darkness.
+
+And then something brushed up against her.
+
+====================================
+
+Shiyun woke up screaming and foaming at the mouth as she barely woke up before the anti-divination ward killed her.
+
+Shu was distraught, holding her hand, even as she nearly broke his fingers, the last dregs of her Qi making her grip, far, far stronger than it should be… at least for a half of an hour before her energy depleted itself completely from the stress of the vision. Her foolish man was so worried for an old biddy like her. At her age, it was a miracle she was still alive!
+
+But the fool had looked so devastated.
+
+And doubly devastated when Shiyun staggered to her feet and started wobbling her way to the door.
+
+“You can barely stand, what are you doing?!” he demanded.
+
+“I have to… I have to go. I have to warn… there's something coming,” she implored him. She was too weak to fight him off, but there was a sense from the vision that something would be happening soon.
+
+Shu was a mortal. The most mortal of mortals, who had no idea about the life Shiyun had led.
+
+Shu heard the desperation in her voice. Shu’s frown deepened. A waking dream of him stopping her filled her mind, of him pushing her back into bed, getting a doctor, and preventing her from leaving. He was an old man, but right now… she was just an old woman, without any Qi.
+
+“What the Hells are you going to do, walk to wherever you’re going?” Shu demanded. His hand grasped her arm firmly. “Lanfan, you lazy beast!”
+
+Shiyun blinked as lazy Lanfan heeded his words and trotted over, a gleam in the goat’s eyes. Normally, she took every opportunity to snub Shu and annoyed him on purpose. Shu grabbed Shiyun’s coat and bundled her up in it.
+
+“Nothing good comes from stoppin’ a person with that look in their eyes,” Shu said as, once more, her divination failed to predict him. “Where are you goin’? I’ll find a horse and get to ya.”
+
+“Hong Yaowu. Maybe a bit past it,” she managed to reply. Her husband nodded.
+
+“You can hold on, right?” he asked. “I know your goat ain’t normal.”
+
+Shiyun nodded.
+
+“Then get, and warn who ya need to. I’ll be along soon,” Shu replied. “You’re too much of a cantankerous bitch to die from a bit of travel.”
+
+Lanfan butted Shiyun’s leg. Laoshi jumped down onto her shoulders. Shu turned, grabbing his own coat. He was old and bald, full of wrinkles.
+
+And he was, at that very moment, the most handsome man in the world.
+
+She grabbed his shoulder and he turned, looking angry.
+
+“What are you still doin’? I thought ya had ta—”
+
+She cut him off. And when she was finished, she was quite pleased to see him looking incredibly dazed.
+
+Then she turned and mounted up. Lanfan reared like a stallion—and then took off at twice the speed.
+
+==========================================
+
+I frowned as Grandmother relayed her story to me. Lu Ri was seated beside me with his arms crossed, while Meimei, Xiulan, Tigu, Xianghua, and Gou Ren all listened.
+
+“From the north?” I clarified. “Grabbing a maple leaf?”
+
+“Yes,” the old woman confirmed.
+
+“Well, that sounds rather ominous,” I tried to joke to lighten the mood, but as soon as it was out of my mouth I knew it would fall flat. I grimaced.
+
+For a moment, there was silence, as we all processed the warning.
+
+“Divination is unreliable at best,” Lu Ri said, his voice calm, and I could tell he was playing the devil’s advocate.
+
+“I would rather be safe than sorry,” I replied, and Lu Ri nodded. “Now, what do we do about it?”
+
+Grandmother looked rather relieved at those words. Gods, was she like Cassandra? The lives of prophets and oracles were never kind in myths, but I like to think that her life would be better.
+
+“The ward around Hong Yaowu, while not fully set, will be able to use some of its active defenses,” Lu Ri replied. “There are a few anti-demonic wards you may set up around your own home. But past that? We need solid proof of demonic activity before we call for the full might of the Cloudy Sword Sect… if we need it. Forgive me, but the descriptions that you gave of the demonic war-forms… they are not a particularly powerful variant.“
+
+The old woman frowned as she considered Lu Ri’s words, before she grimaced and gave a little nod.
+
+“More concerning are the other forms—but against that number of demons, at that level, we have little to fear,” Lu Ri said.
+
+That caused the mood of the room to brighten a little.
+
+“Um… you said they were coming from the north, right? Well… that's where Mom’s tribe is,” Gou Ren said. He swallowed as Lu Ri turned his eyes to him. I nearly slapped myself for forgetting that.
+
+“Grandmother, how urgent did you say this felt?”  I asked.
+
+“It felt like it was within a month. But… it could be shorter than that,” the old woman replied.
+
+“Then I shall go and retrieve them. If needs be, I can perform a fighting retreat while guarding the mortals while also confirming the existence of any threat. This does, however, split our forces…” Lu Ri said.
+
+“Protect them, please. I’ll hold down the fort here,” I replied.
+
+“They’re going to be at one of the over-winter camps,” Gou Ren fretted. “We have a few locations marked, but… maybe take Miss Yuanlin with you? She wanted to meet the family anyway, and searching two places at once…”
+
+Lu Ri nodded before standing and offering a martial salute. “This Lu Ri shall depart immediately. He swears upon the Honoured Founders—no harm shall come to your family.” His voice was solemn. “I shall leave a few scrolls on warding here.”
+
+With that, he departed, leaving the rest of us sitting in the room.
+
+Four days until the solstice. Really, did this have to happen at Christmas? The thought nearly made a hysterical chuckle break through my throat. Big D and Gramps too… they said they were going to be up north with that Shenhe lady. Sure, it was a really long way away, but… were the two demon things connected?
+
+I really hoped they were alright. I really hoped nothing bad had happened…
+
+“Jin?” Meimei’s voice broke through my own introspection. She looked at me. All of them were looking at me. “What do we do?”
+
+I could feel the anxiety bubbling in my chest—but I forced it down. People were relying on me.
+
+“We get ready. We hope for the best. And we prepare for the worst,” I stated, my voice calm.
+
+It might just be time for me to put my money where my mouth was. I had said I was going to protect my little slice of heaven.
+
+Now I might just have to.
+
+Fighting demons was terrifying. But losing this?
+
+I took a deep breath.
+
+Like Hell.
+
+================================
+
+That night, in Hong Yaowu, and with Shu beside her, Shiyun fell asleep.
+
+Her warning had been heeded. People were preparing.
+
+They would not be caught unawares.
+
+She went to sleep without fear, satisfied that her full warning had been heard.
+
+It was not the full warning.
+
+For the anti-divination ward had made her forget the last part of the dream.=====================
+
+As one, they stretched their grasp south—their fingers closing greedily around a maple leaf.
+
+The world once more became one of darkness.
+
+And then something brushed up against her. It was the wind, as something moved.
+
+There, behind the darkness further still, was something else. A leviathan from the deep. It eclipsed everything, so impossibly, titanically huge that it twisted her mind just staring at it.
+
+She fell towards it and the dark shape began to resolve itself. Like the beasts from caves, its flesh was pallid and twisted, run through with cracks and sores. Emaciated, it had not a speck of hair upon it.
+
+Yet as she fell further and beheld its face, she felt terror grip her heart.
+
+Its empty eyes were curved with mirth. Its lips were parted, exposing toothless gums in a smile so wide it was grotesque.
+
+It wheezed, chuckling to itself as it sat, curled in the darkness. It was staring at whatever prize it clutched in its hand.
+
+The last thing Shiyun saw before it turned to gaze at her was that the monster was holding a cracked sword.
+
+================
+
+===============
+
+Edited by: Brandon “Philosophysics” Zhang-Leong, BargleNawdleZouss, Massgamer,

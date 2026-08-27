@@ -1,0 +1,237 @@
+---
+id: e6dc9220-8f27-508e-ae60-85169f56dd7b
+page-type-slug: story-chapter-royal-road
+title: "v6c30: Countdown"
+slug: 0218-v6c30-countdown
+partOf: beware-of-chicken
+position: 218
+ownLength: 2711
+unit: words
+ownProgress: 2711
+publishedAt: 2025-05-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2318621/v6c30-countdown"
+royalRoadId: "2318621"
+markedReadAt: "2026-06-29T18:58:50.378Z"
+---
+
+Hong Meiling was a naturally suspicious person. She had always been the stick in the mud who had hung back when their village met new people, eyes searching for any hint of treachery. In her experience, that character trait at least had served her and her family well… and even if Gou and Yun liked to tease her about it sometimes, they trusted her when she said something was wrong.
+
+Overly friendly people were the most likely to be the ones trying to pull something. But as she watched the Disciples of Soaring Heaven’s Isle Sect, Meiling was rather certain that nobody was being dishonest.
+
+Bailu and Seiyu were nodding along to Wa Shi’s instructions, eager looks on both of their faces. Seiyu’s hand went to her cheek as she tried a particular bite, a pleased sound erupting from her lips.
+
+Bailu and Seiyu were apparently just like that.
+
+They were in the Earth Realm.  Meiling could smell the raging storm that fueled both cultivators, but rather than being dangerous they smelled… well, free. Unrestrained. They were like older versions of Tigu with how vivacious they were. In between bites, Seiyu was speaking proudly of the island she was from and how the Sect recruited women from all over the Empire. Jin was nodding along, scratching at his chin. He looked very interested in Wa.
+
+Speaking of Tigu, she was chatting away with some of the other Soaring Heaven’s Isle Sect ladies as well. One of them had rolled up her sleeve to expose a rather large tattoo of a crimson bird with rainbow-coloured tail feathers. With Bailu and Seiyu’s antics going unremarked upon, they started to come out of their shells.
+
+Chun Ke was going around with Pi Pa, making sure everybody had enough food and drink, and he received many pats upon the head. Pi Pa looked mighty smug every time one of the women called him handsome.
+
+Meanwhile, Bi De and Ri Zu - in their natural forms - were asking questions about their ship, which a bewildered woman was answering to the best of her ability. Finally Xiulan, Xianghua, and Rags had been dragged into a conversation about the duties one had on a skyship.
+
+Her own hangups satisfied, Meiling turned to the woman who was sitting in front of her, one Lai Ni. The woman was seated close to Bailu and Seiyu, which meant she had a high position. Lai Ni was a tall woman, with a shock of curly hair the same shade as Tigu’s pulled back into a ponytail. She had wide shoulders and looked like a solid lady… but she also looked nervous.
+
+“Your sect recruits from many places? Miss Nai, where do you hail from?” she asked.
+
+The woman froze, and then swallowed.
+
+“This one is from Silver Pine Loch, My Lady,” came the slow, stilted response. Each word was enunciated with great care… and was attempting to hide a rather thick accent.
+
+It still took some getting used to, that Meiling was someone people tried to watch their mouths around, putting on airs, and the woman was clearly uncomfortable.
+
+Meiling gave her a gentle smile and affected some of the accent she remembered from her mother, the accent from the back alleys of Pale Moon Lake City.
+
+“For real? That's just past the Howlin’ Fangs. You’re a northern gal just like me then, eh?” she asked. She had never thought much about the province—it was only slightly bigger than the Azure Hills, and dominated by a massive lake, bigger than even Pale Moon Lake. Despite its “closeness” they rarely heard anything from it; the Howling Fangs meant the traders went south instead of west. Lai Ni startled slightly, but gave Meiling a tentative smile. “Are the pines truly silver?”
+
+“Aye, they do be in the spring,” Lai Ni replied, her accent thickening. “The needles sparkle like gems and was why our Province was named, but a better name would be Iron Pine Loch, ye ken? ‘Tis what our beautiful darlin’ yonder is built from, our Windward Blade. You’ll find no better ironwood in all the lands! No matter what tha bastards from Titan Tree Domain say! They’re big, but their grain! Pfeh! Fit only for a skiff, not one of our warships!”
+
+“Ya running your bignugly mouth again, Stonekeeper?!” another voice cut in. While Lai Ni was rather tall and had quite wide shoulders, the rapid-fire, almost squeaky voice that accosted her was her complete opposite. The woman glaring at Lai Ni was even shorter than Ri Zu’s human form—quite possibly the smallest woman Meiling had ever seen. She would have thought the other woman a child, save for her proportions. Her hair was forest green, and her eyes were just slightly too big, the backs of them oddly reflective, like a cat’s. “The Titans are the biggest and the strongest! The grain means they can bend, rather than shatter! Much better for dissipating force!”
+
+“Put a sheep stomach in it, tree rat!” came the immediate strike back. “Yer squeakin’ll give us all a right headache!” Then Lai Ni paused, realising what she had just said. “Ah, beggin’ your pardon, Milady.”
+
+Meiling laughed at the sudden sheepishness in the other woman’s voice. “I think we’re rather past formalities, no?” she replied, looking over at Bailu and Seiyu, who were still in animated discussion. “And we much prefer such company. So! Titan Tree Domain? Do you really live in giant tree houses? And what's your name?”
+
+The tiny woman grinned. “Qiao Ju! And yeah, ‘course we do! The forest floor is way too dangerous in the deepwoods! Too many things that’ll kill you—Titan Bears, Taijitu Snakes… not to mention the Wigwigs.”
+
+A full body shudder accompanied Qiao Ju’s proclamation, followed by some kind of warding gesture.
+
+Meiling leaned in, fascinated, as more women started to talk about where they were from.
+
+The wider world was a truly fascinating place. Even separated by such distances… all of them spoke the same language, and all of them celebrated most of the same festivals… but all of them adapted slightly to where they lived.
+
+Meiling was quite glad that they had invited the sect for lunch.
+
+========================
+
+And then, while the mood was light, and after the food was packed away, all of her home assembled before the Windward Blade.
+
+“Permission to come aboard?” Jin asked. She could tell he was really, really eager about this, and she couldn’t help but be amused. If he had a tail he would be wagging it.
+
+Every member of the Windward Blade clasped their fists with ther palms.
+
+“Please be welcome upon our vessel,” Bailu said, her eyes low.
+
+“The winds shall be your ally; and the sky shall be your home,” Seiyu continued.
+
+Meiling stepped onto the ship with some trepidation. The only time she had been on a boat, it was on a lake… and Gou Ren had purposefully capsized the thing. Sure, it had been kind of Meiling’s fault for putting itching powder on him earlier in the day, but she still… didn’t particularly like them. If they capsized in the sky—and Zhuye was on her back still-!
+
+Wa Shi tapped her shoulder, jolting Meiling out of her thoughts. The dragon smiled at her, levitating a bit off the ship, before settling down again.
+
+Meiling let out a breath and chuckled.
+
+“Thanks,” she said, and kissed his cheek. She walked closer to the front of the ship, where Jin was watching her. He put an arm around her shoulder. She took some comfort from the touch and looked up at her husband. A bee clasped the top of his ear—Vajra had wanted to come too.
+
+“Bi De, Xiulan, Yin, and Gramps can fly too,” he whispered to her.
+
+Meiling nodded, the fear slowly going away and being replaced with excitement. She had already flown on Wa Shi a couple of times, after all. This wouldn’t be that different! Meiling looked back. The deck had plenty of space for all of them. Tigu was bouncing up and down, Bi De in his true form on her shoulder. Pi Pa was admiring the immaculate deck, the wood so clean and polished it was practically a mirror. Huo Ten, Biyu, and Delun were all admiring a set of crystals closer to the back of the ship. Bowu was just looking around with wonder, Xianghua close beside him. Even Bei Be was aboard, looking with interest at the sword-shaped prow.
+
+“Rigging!” Bailu shouted.
+
+“Ready, Captain!” Qiao Ju shouted, clambering about the rigging like she was born to it.
+
+“Stonekeeper!” Bailu shouted.
+
+“Ready, Captain!” Lai Ni shouted, her voice coming from the bowels of the ship.
+
+“Tiller!”
+
+“Ready, Captain!” came another voice.
+
+“Anchor!”
+
+“Retracted and stowed, Captain!”
+
+“Navigation!”
+
+“Ready,” Seiyu said, her voice soft, her hand on a large wheel.
+
+Bailu opened her mouth… then paused and smiled. She walked over to Jin and whispered into his ear. Meiling smiled at what she told him.
+
+“Would the Honoured Guest give the order?” she asked.
+
+Jin laughed, a bright smile on his face.
+
+“Windward Blade! Soar into Heaven!” he shouted.
+
+“Soaring into Heaven!” the rest of the women on the ship roared.
+
+The entire ship jolted, almost eagerly, and began to rise. For a brief moment, wind tousled them all, before an invisible barrier smoothly slid into place.
+
+Higher and higher they rose—past what she had ever gone on Wa Shi. The world pulled away, the endless expanse of white snow occasionally being broken by patches of evergreen. She saw it all, her eyes locking onto everything there was. The still blasted and cracked land to the north, where Jin had fought Zang Zeng, clearly visible from so high up.
+
+But more than that, there were better sights. Hong Yaowu, nestled and cozy looking.
+
+Verdant Hill, barely visible in the distance.
+
+It was utterly beautiful.
+
+Meiling leaned on the railing, overlooking the land below.
+
+Meiling tore her eyes away, looking back onto the ship. Bailu was watching them, a small smile on her face. Shen Yu was leaning back against the railing, looking amused.
+
+“So, Honoured Guest, we have no true orders, only that you’re allowed on the ship. Where do you want to go?”
+
+“Wherever the wind may take us,” Jin replied, then in a whisper only Meiling heard, muttered, “I’ve always wanted to say that.”
+
+Bailu’s eyes widened, and then so did her grin. “Ha! Too bad you’re not a woman! You’d fit right in our Sect! Navigation! You heard him!”
+
+Seiyu chuckled.
+
+The ship began to move, the sails billowing out. In what seemed like no time at all, they were past Hong Yaowu, then Verdant Hill—and then the Torrent Rider shouted.
+
+“I can see my village from here!” he exclaimed, pointing down excitedly.  Shaggy Two, his forepaws placed on the railing, barked just as excitedly.
+
+“Hey-ho!” Jin shouted, looking down at the ground. Bi De let out a crow. Zhuye cheered.
+
+It was fun. It was so fun. Even Wa Shi was having a good time, the lazy dragon pleased to enjoy the view without having to fly for himself. Yun Ren and Biyu’s crystals chimed away.
+
+Meiling took Zhuye off her back and let him get a better view. His eyes sparkled, and one hand reached for the horizon.
+
+There were some parts of cultivation that were really worth it.
+
+They soared through the sky, and all the world was laid out below them.
+
+“I remember our Master called us away,  from the blood and the fires of those forlorn days…” Bailu’s voice rose, carrying on the breeze.
+
+“There she did tell us, you're ragged and spent, then at her orders to home we went,” Seiyu continued. The song was obviously familiar to the rest of the women from the Sect, as all of them joined in next.
+
+Oh, the skies fill with stars, and the wind blows our way.
+
+We haul to the south, where the fairies once played.
+
+To the springs and the meadows, and those forest glades;
+
+We sail to the place where we spent better days…
+
+The tune they were playing it in was upbeat, but the lyrics themselves were wistful and forlorn—a strange combination. But she supposed turning a song of sorrow into one of joy had its own beauty.
+
+And she could really appreciate the ending.
+
+Oh, the skies fill with stars, and the wind blows our way.
+
+We haul to the north, where the damn demons lay.
+
+I head to a battle I might not survive
+
+But those monsters will know the whole time I'm alive!
+
+=============================
+
+They sailed aimlessly for a while; but they did have a couple more things to do today, so eventually the fun had to stop. They sailed back towards Hong Yaowu, just enjoying the view, when suddenly Gou Ren pointed something out.
+
+“Hey, look there! Aren’t those yaks?!” Gou Ren shouted.
+
+Everybody turned to where he was pointing. And sure enough, on the horizon, there was a yak train. Meiling’s eyes suddenly sharpened, and she could see everything clearly. She could see Grandpa Han, Hu Li’s father, as well as…
+
+“Yuanlin?” Yun Ren asked.
+
+“Hey, that's Senior Brother! He said he would be escorting the Nezin tribe here. They made good time!” Jin said. “They’re still a ways out though…”
+
+And then Bailu spoke again.
+
+“You know, come to think of it, we weren’t given a limit to people either,” Bailu mused.
+
+Meiling got the feeling that that was kind of against the spirit of what they had agreed to with Lady Minyan.
+
+And yet Bailu offered it without a second thought, a smile on her face. No guile. No ulterior motive.
+
+Grandpa Han’s face was pretty damn hilarious when the Windward Blade settled in front of them, Gou Ren, Yun Ren, and Meiling waving at them.
+
+“Need a ride?” Jin asked.
+
+“Ah, that would be most appreciated, Junior Brother,” Lu Ri replied, not an ounce of surprise on his face, while the tribesmen and other cultivators seemed shocked.
+
+The Windward Blade, by the end of the day, had more than a hundred passengers on it, yaks included… and the people of Hong Yaowu also got to fly.
+
+Meiling’s little brother loved every moment.
+
+==========================
+
+Tianzhe Minyan looked at the food her Disciples were hauling off the Windward Blade, her eyebrow raising.
+
+“This is a lot more than I imagined,” Minyan said, staring at the veritable bounty.
+
+“‘The friends of Fa Ram receive only the best!’” Bailu quoted, a big smile on her face.
+
+Minyan was impressed at what Jin considered fair compensation. They would have to do business with him more often. It was the little things, too. He had gone out of the way to make sure that the girls on duty still had a New Year's feast. “He also asked us to deliver a message!”
+
+Minyan nodded, gesturing for Bailu to continue.
+
+“He wishes you a happy New Year, Lady Minyan, and hopes blessings come your way.”
+
+…that was the most earnest and pure thing she had heard in a while. Minyan would have to write her own blessings back.
+
+“And how were you received?” The Midships girls froze, looking uncomfortable, but Bailu just grinned.
+
+“We made such a good impression that he invited us to spend New Year’s with his family!” she cheered.
+
+Minyan blinked at the truth in Bailu’s voice and turned to the Midships who, to her surprise, also nodded.
+
+“... they made fools of themselves, didn’t they?” Minyan asked.
+
+Every single disciple nodded again; Lai Ni, the ranking Midships, rolled her eyes in minor exasperation at her two seniors. Though they seemed a bit tense still. Minyan looked at them, and then the ship. It had been suspiciously freshly cleaned.
+
+“A fine attention to ship maintenance, disciples,” she said, and despite none of them moving, she felt them all cringe. She considered scolding them… but well, nothing bad had obviously happened, so decided to let it slide.
+
+“Well, I suppose I cannot argue with the results,” Minyan replied. She had had an inkling they would react positively to her Storm Wings, as long as they didn’t do any damage… and they had succeeded wonderfully. “Then… you are cleared for leave, disciples. Blessings upon the New Year.”

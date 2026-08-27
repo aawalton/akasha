@@ -1,0 +1,111 @@
+---
+id: 3420e782-fabf-5bf7-8df1-3cfe131836e4
+page-type-slug: story-chapter-royal-road
+title: "146. Parsing History"
+slug: 0146-146-parsing-history
+partOf: breaker-of-horizons
+position: 146
+ownLength: 2108
+unit: words
+publishedAt: 2021-09-23
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/755406/146-parsing-history"
+royalRoadId: "755406"
+---
+
+[Caden's notes are an almost illegible scrawl at first, but the content suddenly becomes smoother and perfectly consistent after one paragraph though the handwriting is still recognisably his. However, little notes written in a more natural script are squeezed into the otherwise orderly spaces between each line, and some portions of the neat text are untidily underscored or circled for emphasis.]
+
+Brief History
+
+Fateweavers created modern system of arcanophany with invention/creation/discovery(??? he kept using different words for this) of glyphs. Glyphs frame - helps laypeople use arcana w/o need for theory. But b/c glyphs frame, they also control - restricts possibilities, limits perspective. Framing v. impt part of how glyphs make it easier/safer for laypeople and arcanists to use arcana
+
+When - about 3800 years ago, averting crisis that would have likely caused Empire collapse (details not given, said there are more important things to tell me first)
+
+How - sages discovered wild augera; presences in the arcana, wild, intelligent, alien. (Origin? I mentioned wellspring-ocean-core, he said can discuss another time, need to move on first) Pre-arcanophany sages tried to tame wild augera, failed - augera too powerful to restrain. Discoveries in nature of arcana from failed attempts led to glyphwork - found that framing devices can also be applied to self or others, directing arcanic power v. precisely, but also limiting potential/scope. Thus able to limit power of wild augera, make them more malleable/vulnerable
+
+Atrael Ka'atus (demiurge, v. powerful) made use of glyphs to shackle first augera. (How? no details about exact process, probably knowledge restricted by Fateweavers) Process transformed wild augera into woven-shackled-stream. First Spire built as mechanism of control, also served as channel to direct captured augera's power
+
+Sages continued research on first woven-shackled-stream, Ka'atus helped capture more. Led to discovery of network effect, amplifying scope and power of arcanic control via augera. Proto-Fateweavers formed - first made use of wide area-of-effect sequences to defend Empire from physical assault. Use of Spire network and continued interaction with woven-shackled-streams led to greater discoveries of oblivion, higher dimensions. Led to discovery of non-physical connections being observable, capable of being manipulated.
+
+Proto-Fateweavers suppressed research, made use of discovery to elevate themselves, wiped records, erased memories. Became first collective of Fateweavers. Made use of Spires to secure Empire via new field of prophecy. Built more Spires, made more Fateweavers, honed use of prophecy.
+
+Made use of prophecy to shape Empire - discouraged factors that threatened stability of Empire, encouraged/inculcated attitudes, discoveries, societal shifts to strengthen Empire.
+
+Emperors/Empresses know; not figurehead authority. Immunity from prophetic links guaranteed via early Fateweaver injunction. Throne is one check on Fateweaver power - majority of Fateweavers support this arrangement. Demiurges also know - second check. But effectiveness questionable. Throne and demiurge positions only preserved by Fateweaver permission, not by intrinsic power.
+
+Mechanics of Prophecies (big/small)
+
+Big ideas: ancient sages discovered all people are nexus points, also simultaneously channels of connections. Mere presence affects others, even w/o direct interaction. Connections are in higher dimensions via proximity, not necessarily physical. Can be emotional, psychological, temporal, (other fields mentioned, didn't catch; impt pt is not only physical, many many avenues, direct interaction/awareness not required to influence).
+
+With glyphs as focus, mundane statements can be given greater weight of meaning. When nexus points/people receive statements, will translate to shift in their field of influence as both nexus point and channel. Delivered in the right way to the right people at the right time, a glyphed statement can change nexus point's influence profile v. powerfully, and go on to affect other nexus points - cascading effect, self-strengthening.
+
+Spire network helps exert influence over nature of nexus points' profiles, favours some connections more than others. Nature of glyphs used + influence of Spire network gives all prophecies a quasi-intelligence that works to make itself come true within scope of wording. Some 'drift' b/c meanings of words not always fixed, subject to interpretation, may be read metaphorically, etc. etc., so Fateweavers shepherd their prophecies along desired paths, pruning/correcting some offshoots, or deciding to cultivate offshoots if unexpected but favourable.
+
+!!!V. IMPORTANT!!! - Caldwell behind Empire-wide memory wipe of Ambrose at start of semester, with Reeves' help. This helped to reset v. unfavourable influence profile b/c of too-early revelation of Ambrose's identity. This is major cause of my initial position in Six-Chained-Foundations - probably would not have been close to Ambrose if not for memory wipe. Why?? Done with permission of Fateweavers? Does it affect people outside the Empire? If not, why, when the info isn't fully purged - won't influence from outside Empire still be in effect? Demiurge refused to answer - FIND OUT BY MYSELF.
+
+Ambrose's Prophecy
+
+Creation of new Fateweaver necessary to replace dying Fateweaver. Long lives, but not immortal - oldest recorded is 970 years, shortest 116. Averge unknown.
+
+Fateweavers try to capture zeitgeist of current age in new Fateweavers to improve collective understanding + obtain forward perspective, to add to historical/cultural context of past Fateweavers. Six-Chained-Foundations meant to provide life experiences to capture essence of what new Fateweaver must have. Past Fateweavers had similar supporting elements in their Prophecies. This is why Major Prophecy face aspects are Creating-Selecting-Chain.
+
+"crown o'er mortal thrones" - Caldwell worried by this line. Claims past prophecies do not have references to thrones. Does not believe it is poetic turn of phrase - believes it may signal Fateweaver intention for absolute control over Empire from now on, or conquest of other nations, or both. Fateweavers have neither confirmed nor denied it when Caldwell spoke with the ones he knows.
+
+When is fulfilment due? Not stated, not known. Will Ambrose 'ascend' upon Fateweaver death, or will Fateweaver step down, or meant to still be alive when Ambrose joins? - not known.
+
+Caldwell's Position
+
+Claims 'loyal opposition' means he does not agree with Fateweaver methods, sometimes actively works against them. Fateweavers allow it b/c he is demiurge, part of Fateweaver-approved system to provide check/balance to Fateweavers. But he has Empire's interests in mind
+
+Currently trying to capture wild augera formerly lurking around Academy lake. Meant to be key to Ambrose's future ascension (?!) - apparently creation of new Fateweaver must involve wild augera. Refused to give me details. Said he was not commanded/forced by Fateweavers to do this - he volunteered and Fateweavers agreed to entrust capture of wild augera to him. Refused to tell me why he volunteered
+
+Caldwell consulted with the Emperor and advised him to formally call arcanists across Empire into active service, pivot to preparation for war. Also asked Emperor to support the change in Academy curriculum and admission procedures (compulsory thaumaturgy + condensed, more demanding syllabus, and expelling those who cannot resist ensorcelment/other tests the future). Emperor reluctant, but Caldwell convinced him. Why? - refused to answer. Hinted: not Fateweaver request/command, but Caldwell's personal initiative.
+
+Caden snapped the notebook shut and leaned back in his seat. The sun had sunk below the wall and its warm, orange glow was rapidly fading away, darkening the stained glass windows of the cafe. Inside the library, the globelights that usually stayed on for the benefit of students studying late were not activated. Only the Demiurge's own globelight illuminated their little corner.
+
+"I think you've got enough to go on with for now," Caldwell said with a small sigh as he looked out across the empty cafe tables. He seemed a little sad.
+
+"Yep," Caden nodded, massaging the bridge of his nose. Their talk had been both fruitful and frustrating. Caldwell had pulled back the veil on a lot of mysteries, but it was still clear to Caden that there was more to know, and when he tried to pursue his own lines of questioning, the Demiurge had not always been forthcoming or clear in his responses. Evidently, he was playing his cards close to his chest.
+
+"Well, that leaves us with just one last pressing matter to attend to," Caldwell said, getting to his feet. "You can stay in your old dorm until the term begins, after which we'll need to sort out your living arrangements again now that you are no longer a part of the Prophecy's favoured group."
+
+"What are the alternatives?" Caden asked. "Can I go back home?"
+
+Caldwell raised an eyebrow. "Of course you can. You can attempt anything you want, if you have enough nerve to see it through."
+
+"That sounds like a 'no'," Caden replied evenly. He was irritated, but far too tired to be riled up at the moment.
+
+"You can go home," Caldwell reaffirmed. "I don't believe the Fateweavers will stop you. The last ride out of here will leave tomorrow morning. After that, there won't be anyone else coming or going until the term begins again."
+
+"I want to go, then. Is it a bus? Where do I need to be, and what time is it leaving?"
+
+"It's not a bus. Your father is driving out tomorrow. You can find him at his staff residence now."
+
+Caden's heart seemed to be lodged in his throat. His father was still here. The thought reminded him of the series of visions he had seen when he had been engaged in combat with the Fateweaver while under the control of the augera. Had those visions been of the present? But he shoved those concerns aside. The prospect of being able to see his father and talk with him was filling him with so many conflicting emotions. He wanted to say so much, but also had no idea where to begin, and although the prospect of being able to share it all with his father promised some relief, it also seemed like an insurmountable task fraught with its own perils. Even if he could tell his father everything, should he?
+
+Caldwell seemed to know what was going through Caden's mind. He smiled slightly, though this time there was no trace of levity about it, only a kind of weary, pained understanding. "You can decide tomorrow. Unless you do something to alter the present course of events, he'll only be driving off after ten in the morning."
+
+Caden nodded mutely. Caldwell gave him a brief pat on the shoulder — it felt quite uncharacteristic, almost as if a mask of aloofness had momentarily slipped — then quietly made his way out of the library. The tapping of his staff grew fainter and fainter until Caden was left in silence, with only Caldwell's globelight for company.
+
+No, that was not quite accurate. The wysana was there. Caden could sense it approaching him now, like something slowly surfacing from the depths of the ocean, stopping in shallower waters to regard him curiously.
+
+"Yes?" he asked a little irritably, instinctively reaching out through the arcana even as he spoke.
+
+It dipped a small fragment of its will into the arcana sea, spawning a Minor Query mote out of Caldwell's globelight. Even though Caden knew more about a wysana and its capabilities now, it was still an act that took him by surprise. It was like seeing a piece of clothing helping to fold other pieces of clothing.
+
+"You are not familiar with the Academy grounds in its unveiled form," it answered, emanating a sense of tentative helpfulness. "If you need, you may follow this mote to your old dorm."
+
+He felt a little guilty for addressing it so peevishly, and then felt somewhat confused because he knew it was really just an arcanic construct invested with some measure of independence. He wasn't sure if it was technically alive. "Do you have a name?"
+
+It seemed to draw itself up in indignation. "No. Do not attempt to fashion one for me. It is not welcome."
+
+"I'm sorry, I—"
+
+"Follow the mote if you need. If not, please dismiss both sequences before you leave." The presence rapidly receeded, leaving Caden with more questions.
+
+What do I do now? he wondered, staring at the Minor Query mote. He dismissed the globelight, made contact with the mote, and followed it out of the library. Once he was through the doors, he paused. The mote bobbed ahead and stopped, waiting for him to catch up.
+
+The notebook in his hand felt heavy with the weight of revelations he had penned in them. There was a lot to unpack. There were many things to consider. He needed to figure out where he stood on a lot of different issues that he hadn't known even existed until just a few hours ago.
+
+He could do it alone. Or he could go see his father.
+
+The moment stretched. Finally, with a mingled sense of weariness and grim determination, he began walking, following the mote back to his old, empty dorm.

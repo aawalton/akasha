@@ -1,0 +1,247 @@
+---
+id: 751986e4-3ae1-51f1-9ebe-0f87fd0abf4e
+page-type-slug: story-chapter-royal-road
+title: "v4c6.2: Join the Cause p2"
+slug: 0012-v4c6-2-join-the-cause-p2
+partOf: beware-of-chicken
+position: 12
+ownLength: 3295
+unit: words
+ownProgress: 3295
+publishedAt: 2023-05-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1206014/v4c62-join-the-cause-p2"
+royalRoadId: "1206014"
+markedReadAt: "2026-06-29T18:51:43.976Z"
+---
+
+Tigu loved travelling. She loved exploring the world and experiencing what it had to offer. The ones with the biggest impact were burned into her memory. Seeing Pale Moon Lake City from the top of Cloudrest Peak. When the trees thinned out and turned into the rolling hills and endless blue sky of the Grass Sea. The proud Dueling Peaks, standing unrivaled and framing a sunset.
+
+Yun Ren had the right idea by recording them, while Tigu tried her best to capture the majesty of places in her own way, by carving them permanently into stone or using the feelings the vistas evoked to fuel her craft.
+
+This new place was just as interesting. As they travelled from the Crystal Hill to Xianghua’s home, the landscape changed drastically. The humidity soared, mist starting to obscure their vision. The ground became boggy and wet, and the grass, once waist high at most, grew so tall it would hide her Master from view with room to spare.
+
+“I wonder how long it would take to cut all this to a proper height?” Tigu asked. Normally they had the sheep eat the grass to keep it short, but occasionally her Master would take a scythe to it to trim it down short, and after he cut it wildflowers would always bloom.
+
+It also smelled very nice.
+
+Xianghua laughed. “It's a fool’s errand! This is the short, slow-growing stuff still. Deeper in one could cut for a thousand years and not make a true dent in it! The Lakemen weave artificial islands out of the reeds. Floating towns and villages that they use to migrate around the lake, following the fish and the Keelbreakers as they shear open new paths.”
+
+“It grows that fast?” The Torrent Rider asked. Shaggy Two was trotting beside him, his fur from the legs down a pile of mud from when he stepped off the trail.
+
+“It does!” Xianghua replied. “The old timers bet on it. They each choose a strand of grass or reed, and whichever grows the longest the fastest wins! They get quite rowdy over it.”
+
+Rag’s eyes lit up at the mention of gambling. “I know what I’m doing tonight. Whose all in?”
+
+“I’m quite good at nurturing Blades of Grass.” Tigu boasted, and Xiulan rolled her eyes.
+
+“Wouldn’t this place have been better for the Verdant Blade Sect? Since you’re all about grass?” Loud Boy asked as he ripped a stalk out of the ground to examine it. “Though… I guess it wasn’t always grass, huh?”
+
+He was referring to long ago in the past, when the lake and its rivers looked more like the ones near Pale Moon Lake.
+
+“... indeed. It was not always grass. Honestly, it would look stranger without it being so green.” Xianghua admitted. “The grass and swamp has protected the Lakemen for generations. To have it all go back to easily navigable waters and rivers… it would destroy our entire way of life… but so too would our lives be destroyed if the grasses and reeds completely choke out the water. It is a delicate balance, I suppose.”
+
+They lapsed into silence for a moment. Some people may have thought about which path was better, the path of the past or keeping things like they were… and Tigu was firmly on the second side.
+
+What was the point in changing it? It had happened, and trying to revert it just seemed like inviting a second catastrophe.
+
+“This is kind of neat. How do they get the reeds so solid?” Yin asked as she looked closely at the section of the road they were all walking down.
+
+“The Misty Lake is renowned for its weavers.” Xiulan was the one that answered this time. “Most of my clothes are brought from the Misty Lake Masters”
+
+“Indeed! Every good son or daughter of the Mist knows how to weave! The children can make a reed canoe before they can walk, sometimes.” Xianghua replied, a note of pride in her voice. “Now! This is our turn off, here.” She said turning to face the solid wall of green, instead of continuing on the road. “The rest of this road is for outsiders, it loops around a few more times. This way will cut a day off our journey, and I want to show you what the lake is really like.”
+
+Xianghua lifted up her cart and pushed through the grasses. Shrugging, the rest they followed behind her, Tigu picking up Shaggy Two.
+
+“Make sure not to step off the path; you’ll go down with mud over your head and get covered in leeches.” Xainghua cautioned as they stepped onto a nearly invisible reed path. Though none of them went into the water to worry about the leeches, they were hounded by another droning pest. They were uncommon back home, but this place was swarming with mosquitoes.
+
+Tigu was rather glad her skin was too tough for them to get through, but poor Shaggy Two had no such defense.
+
+Tigu got an idea. “Torrent Rider!” she barked, and the boy straightened up immediately.
+
+“Yes!”
+
+“Guard duty! Use your spear to strike these foul beasts from the sky!”
+
+“Yes!”
+
+Soon the air was filled with the sound of a swishing spear as the Torrent Rider committed a massacre. They continued on for perhaps an hour, until they broke through and came up to open water.
+
+Xianghua whistled, a keening sound that reminded Tigu of a bird.
+
+Not five minutes later a man appeared through the mist, wearing a wide brimmed hat and using a barge pole to push his reed raft along.
+
+He paused as he saw them, and then he bowed deeply.
+
+“I greet the Young Mistress,” he said. “What do you require of me?”
+
+“Is it Thatchback or Welterraft that's nearby?” Xainghua asked.
+
+“Thatchback, my lady. South, middle, east, north through the Breakerpaths.”
+
+“Not far then. I would use your raft—rest for a while and we shall take over the chore of moving it.”
+
+“What's mine is yours, Young Mistress.” The man said agreeably, stepping back and letting them all aboard the large square woven from reeds. “Welcome home.”
+
+Tigu blinked at the rather friendly nature of the man as he simply stepped off his boat, handing it over without a second thought.
+
+“It is good to be back, and thank you.” Xainghua replied as she took the man’s barge pole from him and then started expertly maneuvering the raft back into the forest of mist and reeds.
+
+“...aren't you going to pay him?” Tigu asked, and Xianghua shook her head.
+
+“This is his duty, just as it is mine to protect him. He would have refused me if I had tried… and besides, he was likely looking for an excuse to sit around and drink anyway. One of his friends will find him, or he’ll walk back to the main road.”
+
+Tigu nodded as they set off into the water. It was a maze. Tigu couldn’t make sense of it at all, and yet Xianghua didn’t even hesitate as she navigated the reeds.
+
+There was something ethereal about the place that Tigu liked. It was oddly quiet as everyone fell into silent contemplation, the only sounds being their breathing and the soft thump of the pole meeting the bottom of the lake, propelling them forwards.
+
+“The Hells is that?” Loud Boy asked, pointing into the water—at first, it looked like a submerged log, before Tigu noticed the fins.
+
+“That is a Keelbreaker.” Xianghua said. “It's not the breeding season, so we have little to fear.”
+
+The fish was a giant—longer than Wa Shi when he was a dragon. Its head was an armored battering ram, and it had a massive, scissor-like set of teeth. It looked like a ferocious predator… yet even as Tigu watched, it bit down on a section of reeds, shearing straight through them and creating a new path in the water.
+
+“The gardeners of the Misty Lake. That one is a male. One can tell by how small it is.”
+
+“That's small?” Rags asked incredulously.
+
+“Indeed.”
+
+Rags just sat back on the barge.
+
+The sun was starting to set when they heard another call like the one Xianghua had made, and a glow started to penetrate the mist.
+
+There was something moving out there.
+
+Tigu smiled as her eyes pierced the fog enough to see.
+
+It was a town. A town, floating on a giant reed barge. It wasn’t as big as Verdant Hill, but it had nearly fifty buildings on it; an eclectic mixture of reed huts, wooden houses, and even a stone building in the center of it, which looked like a tavern. Lanterns hung from poles all around, glowing orange through the mist.
+
+And at its back, and along the sides, stood nearly a hundred people with barge poles.
+
+The bird-call sounded again, and as one they shoved the poles down and pushed, moving the entire village.
+
+The sound of shearing teeth and crunching showed a line of twenty Keelbreakers abreast all chewing their way through the reeds in front of the town, consuming tons of the plants every moment.
+
+“Wow.” The Torrent Rider said, voicing what Tigu felt. This would make for a great carving.
+
+==========================
+
+The town was surprisingly normal, for being a mobile island. The tavern served its drinks and everybody was rather polite and respectful, bowing their heads to the Young Mistress.
+
+They got a private room for all of them, and though Xianghua’s clothes got a bit of a strange glance, as they looked like their attire mixed with Hu Li’s tribe’s, they were left alone.
+
+“Do you need us to do anything when we visit your sect?” Xiulan asked.
+
+Xainghua shook her head. “No. I have a plan, and I am certain that it will be effective.”
+
+“What’s the plan?” Tigu asked as she stuffed another piece of fried fish in her mouth. It was delicious.
+
+Xianghua just smiled.
+
+=====================
+
+“I call this meeting to order,” Elder Bingwen, Acting Sectmaster of the Misty Lake Sect, said from his position at the head of the table.
+
+His face was locked into his mild smile as he looked up and down both sides of the table. All six Elders were present. His fellows nodded, heeding his words as they straightened up and began their reports. The sect had been unsettled after the Dueling Peaks. They had lost their Sectmaster, and the Young Mistress and her artificer brother had disappeared. But under his steady hand and calm countenance, things had returned to their more normal state.
+
+“We have received three more Initiates of the First Realm, and a mortal who has Water Spiritual Roots but has not yet been able to ignite his Dantian. He looks very promising, however. The Qi fluctuations have started, and I am sure he will begin his journey by the end of the year,” Elder Yangling declared, his voice proud.
+
+Bingwen nodded along with his fellows. It was a good crop. He sat back as discussions began on how they would distribute the disciples for instruction, simply watching with a smile.
+
+Even after nearly a year, it still felt good that he was sitting here. Bingwen didn’t like to think himself a schemer. Oh, he desired power like all cultivators, but it hadn’t been entirely his intention to seize this position. Fortuitous events had simply led him here. He desired what was best for the sect—and what was best for the Sect after the revelations of Xianghua’s strength and Bowu’s genius had been ousting Xiang for being so foolish as to squander such precious talents.
+
+That he was elected as their leader after the Sectmaster’s departure was simply the result of his tireless service. And was it wrong for a loyal servant to enjoy himself and the duties he had?
+
+He would not act as a tyrant, commanding loyalty and eliminating those who would be threats. Their Young Mistress was still heir, and he had no intentions of challenging the current status quo. His allies would turn against him if he did that.
+
+If Xianghua desired to be sectmaster in a few decades? At the rate she was growing, he would never be able to challenge her. Thus, were that to come to pass, he would gracefully step aside and cement his position as a trusted advisor. And if she did leave entirely? Well, he would accept the providence of destiny.
+
+He would be like the water and the mist. Inscrutable, but ever present and prepared to move and flow as the winds changed.
+
+“The disciples have been spoken for,” Bingwen said, after the small arguments were finished. “What of the other project?”
+
+Their plan to try and recreate the Steam Furnace. Like his sister they could not just hope that Bowu would come back, especially given his past treatment; they had to take matters into their own hands, but from what Bingwen knew… it was going poorly.
+
+Elder Boshai grimaced. He was the latest of them to try their hand. “I cannot recreate it,” he said, looking utterly ashamed, his hair unkempt and his eyes bloodshot. His robes were covered in grease. “I cannot recreate what a mortal created.”
+
+“Then it merely speaks to Young Master Bowu’s genius. Blame not yourself for this,” Bingwen consoled. “Instead, direct your ire at the one who squandered such talent.”
+
+There were murmurs of agreement from his fellow Elders.
+
+Boshai sighed, but nodded. “Xiang’s style was necessary thirty years ago, but he was too stuck in the past.”
+
+Xiang had been a hard man who made hard decisions. Once upon a time it had been invaluable, and it had saved their Sect from ruin. But when confronted with a problem that couldn't be solved by martial might? Well, his uncompromising nature had proven to be a detriment.
+
+Bingwen’s eyes shifted over to the only one of the six who had remained silent, Elder Sei Fen, wife of the previous Sectmaster.
+
+Her eyes were cold and aloof as always, even as people disparaged her husband. The woman was normally a recluse save for these meetings, meditating her days away.
+
+He dismissed her from his mind and turned back to the meeting, when there was a knock on the door.
+
+“Acting Sectmaster! Forgive this disciple’s interruption, but he has a report!”
+
+If they were interrupting this meeting, it had to be important. “Enter disciple, what news do you bring?” Bingwen said. The door opened, revealing one of their scouts. His breathing was heavy from running. “”
+
+“Young Mistress Xianghua is approaching the Sect; she has asked that we make ready for her return—as well as the presence of honoured guests.”
+
+Bingwen’s eyes widened amidst the gasps of the other Elders. He hadn’t expected her back so soon. But he had been expecting her back, unlike some of his fellows.
+
+“Bingwen’s insight is correct, as always,” Elder Yangling muttered. He had been one of those who doubted she would return.
+
+“I see,” Bingwen said calmly. “Thank you, disciple. Is there any other pertinent information?”
+
+“She is in the company of Cai Xiulan, Rou Tigu, Tie Delun, ‘Rags’ Dong Chou, ‘Loud Boy’ Zang Wei, and two unknowns—a young man and a woman who both wear the same symbol as Rou Tigu.” Bingwen raised an eyebrow. That was not a small number of people. “Additionally, she bears a cart… and this disciple thinks that it bears multiple steam furnaces.”
+
+The silence in the room was deafening, and once more Bingwen smiled. Once more, he was vindicated in the eyes of his fellows. One truly did catch a cat by being kind to it.
+
+Better than he dared to hope. Bingwen thought to himself. “Excellent! We should prepare immediately to receive our Young Mistress and her guests!”
+
+She would likely drop off the furnaces and then once more be off. Perhaps she would demand some of their disciples as well? That would be well within expectations!
+
+“Come,” he said, immensely pleased. “Let us greet our Young Mistress.”
+
+=================================
+
+Bingwen should have known better. Xianghua, as ever, defied the expectations of the leader of the Sect.
+
+Instead of their Young Mistress simply searching for a place to rest her head, she strolled straight into the sect with her Qi unrestrained.
+
+Second Stage of the Profound Realm. Beside her stood Cai Xiulan, at the Third Stage, eclipsing every Elder gathered here, and Rou Tigu, also at the Second. Tie Delun, just behind her, was into the First Stage of the Profound Realm himself. Together, they had enough power to challenge all the Elders, and with Cai Xiulan there… they could win. She was stronger than all of them, a full step up on them. And this was after she had been injured and burned back down to the Third Stage of the Initiate's realm barely a year ago.
+
+It was like a storm had just blown into the Sect, each and every disciple barely stayed on their feet as their Young Mistress stalked forwards.
+
+Bingwen could only stare at the new power that had suddenly asserted itself in the halls of the Misty Lake Sect. For a moment, he was worried that she had come looking for blood, since… well, Xianghua could hold grudges.
+
+Her eyes locked directly onto his.
+
+“Elder Bingwen! You have served the Sect well, but there now arises a situation that I must take control of!” she said to him before turning to address all the gathered Elders and members of the Sect. “Elders of the Misty Lake Sect! This Liu Xianghua demands that you recognise her right to become Sectmaster!” Her voice was a thunderous boom. Her Qi was a furious well of power. Her tyrannical Aura pressed down on each and every one of them, a fierce heron ready to fish a dragon out of the heavens.
+
+And then her steam furnace activated. The pulse of power sent some to their knees— and Bingwen knew in his soul that any battle with her had only one outcome. Complete and utter defeat. Even her father would be like an insect before her new power.
+
+Xianghua shattered everything people thought of as common sense. Her absolute audacity had stunned everyone into silence, and even her mother, Sei Fen, had no words.
+
+Just what sort of monster did Master Jin create?
+
+Bingwen managed to find his voice, and there was only one response possible to her demand.
+
+“We shall make the necessary arrangements immediately, Heir Xianghua,” he declared in firm and immediate capitulation.
+
+“Excellent! Truly, you are an Elder without parallel, Bingwen! Additionally! I will announce my engagement to Xong Gou Ren! You may offer your congratulations to your Sectmaster!”
+
+Her voice was a stern command. She strode forwards into the Sect and towards the meeting room, where she took her place at the head of the table without hesitation.
+
+The rest of them could only obey and follow.
+
+Bingwen could see the other’s shock and resentment at this sudden play begin to grow. He himself was still unbalanced by her words and actions, so he did the only thing he could do.
+
+“What do you need the might of the Sect for, Young Mistress?”
+
+“We have found the lost history of every sect in the Azure Hills, and a way to replicate and distribute it. We shall call a grand conclave to discuss this amongst the sects… and we will support the proposal Cai Xiulan brings forwards with the entire Sect—as its first supporters!”
+
+“… I may need you to explain things to me more thoroughly, Young Mistress.” Bingwen said carefully, his voice unsteady at yet another revelation.
+
+She did.
+
+Bingwen had to sit down.
+
+Be like water and mist, he told himself. Be like water and mist.

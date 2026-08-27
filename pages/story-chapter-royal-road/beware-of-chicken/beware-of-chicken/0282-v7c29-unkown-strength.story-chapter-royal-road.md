@@ -1,0 +1,243 @@
+---
+id: 6d9f6b32-935f-5aa4-a4f6-40ad5488eb0f
+page-type-slug: story-chapter-royal-road
+title: "v7c29: Unkown Strength"
+slug: 0282-v7c29-unkown-strength
+partOf: beware-of-chicken
+position: 282
+ownLength: 2998
+unit: words
+ownProgress: 2998
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3073261/v7c29-unkown-strength"
+royalRoadId: "3073261"
+markedReadAt: "2026-06-29T19:01:06.650Z"
+---
+
+Wu Chanchou glared at the peasant Magistrate as he calmly laid out documents upon the table; Zei Qi hadn’t even glanced once in Chanchou’s direction since this had started, so instead she could only direct her ire at the person currently speaking… who was also refusing to notice her.
+
+But he had noticed their dealings. He had a disturbing amount of knowledge of the Wu’s inner workings, no doubt provided by Chanchou’s sister… but so many of these seemed beyond even her knowledge. Only a portion was about the clan from before she left. The rest of it was more recent developments.
+
+“As you can see, the discrepancies in the Master of the Treasury’s reports on the land developments outside Pale Moon Lake City are… well. Quite obvious,” the peasant said.
+
+Her husband snorted. “You think that small matter is even worth caring about?”
+
+“They are when taken with the testimony of the fire brigades being waylaid by “gangsters” who just so happen to be in the employ of the Wu family, which contributed to the continuing of the blaze,” the peasant noted blandly. “A blaze which burned down one of Lord Shan’s warehouses.”
+
+Her husband and father looked like they had bitten something sour. The silence was oppressive, and then it was broken by her sister’s sole servant placing a fresh teacup beside the man.
+
+“Master,” the woman said with a warm voice.
+
+“Ah, thank you, Xue Ji,” the man replied, breaking decorum in acknowledging the woman. Chanchou blinked, having dismissed the wench’s appearance, hidden as she was at the back of the pavilion, but in the light, Chanchou found her glare intensifying.
+
+The woman’s hair was pulled into a perfect bun, but it did nothing to hide exactly how glossy and smooth the serving girl’s hair was. Her face was similarly perfect, some kind of makeup hiding every blemish. Her eyes were narrowed into a squint that made her look playful and mischievous, almost like a fox. Chanchou’s husband’s jaw dropped, and her father was also startled out of his frown to stare with avarice at the beauty now attending to Chanchou’s sister.
+
+…what the hells was in the water up north? When this was all over she would be sending up an expedition to find the things that made these women’s faces so smooth.
+
+“Shall we proceed to the next item?” the magistrate asked. And then he continued without awaiting an answer, laying out more documents.
+
+Her father frowned heavily at the statement. The peasant’s pile of papers was very thick… but something seemed odd to Chanchou.
+
+Why was he laying everything out to them? Was he just stupid? He was going through them so slowly as well, almost like he was stalling for time.
+
+Her father evidently thought the same.
+
+“No. I have heard enough, peasant. Tell me, what is the point of this?” her father demanded. Everything that had been revealed so far was damaging, yes, and it would cost them much… but the man who revealed this information would be killed.
+
+Even if the man was stupid, unless her sister’s brains were completely scrambled, she had to know it too.
+
+“We have kept a few others close to our chest, but these are the subjects I am willing to make disappear. There shall be some retaliation—I cannot have you think that I have no teeth. But as I stated; we are gentlemen. And gentlemen make deals,” the peasant stated.
+
+There was another pause. Chanchou looked at her father, and then her husband.
+
+And then, she chuckled. “That is quite adorable,” she sneered.
+
+“Indeed, a cat is trying to speak to a tiger as an equal,” Father chortled. “Daughter, you’ve truly gotten soft and weak in the frozen north,” Zei Qi said nothing, simply closing her eyes. “Hmmm. Let me hear your deal then.”
+
+“It is simple. We want to be left alone. No more auditors. No more… appointments for our son. A very cheap price, no?”
+
+Chanchou leaned back in her seat., covering her own face with her fan.
+
+Father just laughed.
+
+“You slap the face of the Wu Clan, make demands like this, and then ask to be left alone? Why should I do that, boy? Why should I leave a loose thread, dangling in the wind? Those that could pose a threat to us have been destroyed. There is no power to release them to, save the barking dogs you have aligned yourself with; and what shall they do, other than be driven before us? Yes, there shall be some blood. I do not deny that…. But provoking this rabble will only benefit us. We shall see who opposes the Wu out in the open and destroy them. You have no leverage,” Father sneered. “Instead, dog, here is what is going to happen. You will give me those documents. You will kowtow before me. You will beg for my forgiveness and then tell me every secret of our family you have told these peasants.  And if you do all this with appropriate contrition, I may allow you to walk out of the city, naked and ashamed—while my daughter is returned to our house, so that she may be educated, and her son put to work for our ends.”
+
+The peasant’s face didn’t change. Neither did Zei Qi’s.
+
+“Is that so? When I last met with you, you were a more reasonable man—or at the very least, you knew when to cut your losses. But it seems like now you believe yourself invincible. Your assessment of your father’s character was spot on, my dear,” the peasant said with a sigh.
+
+“Yes. He's a spectacularly small man,” Zei Qi observed. “The skin on his face is as thin as rice paper. It tears with a breeze.”
+
+“Indeed. However, I was expecting more refinement from a man who can trace his lineage back to the founding of the city. Alas, I am disappointed.”
+
+Father and her husband stood. “You bastard, you’re courting death—”
+
+He was interrupted by the sound of a commotion from back towards the gate.
+
+“And that should be enough stalling,” the peasant stated, waving his hand towards one of the Trading Company’s servants who was looking on from a distance.
+
+“...stalling?” father demanded.
+
+Zei Qi chuckled. “Poor form, sister; not asking after your servant. You were so concerned about yourselves, that you never asked… where exactly is the Auditor General you sent after us, and why are we here without him?”
+
+Chanchou froze at the statement and turned to see one of their men sprinting towards them, panic clear on his face.
+
+“My Lord!” the man shouted.
+
+“Speak, boy!” her father demanded.
+
+“My Lord. The Auditor General… he entered the compound with troops, not even an hour after you left. He knew where the hidden rooms were. He has everything,” the man whispered in a panic into her father’s ear.
+
+That snake! That treacherous dog! After everything they had done for him, Yanjing went and stabbed them in the back?! He deserved ten thousand deaths—and the Wu Clan would grant him what he so clearly desired!
+
+Father whipped back around to the peasant.
+
+“You said I have no leverage. Indeed, what I have here are minor things. But the documents of your house, in your writing… that would provoke more than peasant rabble, would it not?” the man asked, sipping his tea. “The documents will be held by trusted parties; in the event of our deaths, they will be released. To everyone.”
+
+Father’s face turned so red it almost went purple. “You… you dare…”
+
+“No. You dared,” Zei Qi sneered. “Or rather, Chanchou did. If you wish to blame anyone, blame her. For without her interference, none of this would have happened.”
+
+Chanchou’s face flushed at the sudden attention she was getting. The furious glares from her father and her husband. Her heart hammered in her throat.
+
+Father looked like he wanted to hit her.
+
+But he did not, instead, turning woodenly to the peasant.
+
+“What do you want?”
+
+“What I have already said. Here is a contract; we can even keep it a secret between you and I. You will not retaliate. You will not interfere with our lives any longer… and the Wu Clan’s secrets might not be transmitted to the entire province.”
+
+Father glared at the bastard, and the paper he placed in front of him.
+
+Then, he picked up the paper. He examined it carefully… then ripped it in half.
+
+“We are the Wu Clan. The mightiest clan in these Azure Hills. We will not bow to you, nor any of the dogs snapping at our heels. What you have done is intolerable.” He said coldly. “You have come prepared for war, you say. Now let us see you fight it.”
+
+==========================
+
+They went back to the Wu compound immediately. Chanchou shifted uncomfortably. Her husband was steadfastly not looking at her, while father was glaring out the window.
+
+“...father?” she said. “I—”
+
+“Do not speak,” he commanded her. “I care not what you have to say. I have long tolerated your games, but this time they have gone too far.” Chanchou flinched at the cold gaze. “What is done is done. You are my daughter. This attack concerns the entire Wu Clan, and our reputation. This is now the hour where we must fight… and we shall talk after this is over.”
+
+Chanchou looked down at her hands, swallowing at the finality in her father’s voice.
+
+They first checked their ransacked storage rooms, just to make sure of what had truly happened… and when each one turned up devoid of records, father’s face became increasingly grim.
+
+He went into his office, reached under his table, and tore a paper talisman in half. Then they waited, stewing in silence.
+
+Ten minutes later, a man simply appeared, stepping through the open window.
+
+It was a cultivator. Their cultivator, and his sons. Grandfather had made friends with Ye Shun in his youth, bailing the peasant out of his debts, in return for several favours.   Something Chanchou had only learned about after she had married the Master of the Treasury; some wretch had tried to assassinate them, and the cultivator had stepped in and stopped the attack. In all other cases, the man was the Wu Clan’s secret weapon.
+
+The man lived like a king for the little he did; he had a palatial mansion to himself and his sons, courtesans aplenty, and the finest food and alcohol. Sometimes, Father grumbled that he cost more money than he was worth.
+
+But when they did need him, having a man in the Fifth Stage of the Initiate’s Realm ended all arguments.
+
+Ye Shun was wearing a fine silk robe, his hair tied up in a golden clasp. His beard was combed into straight silken strands, and he smelled of fine oils and incense. He had a jeweled sword at his hip. His son and grandson were beside him, both similarly richly dressed.
+
+“Ah, Lord Wu. A pleasure, as always,” the cultivator said. “What can this old man do for his old friend?”
+
+================================
+
+It was night when Ye Shun took to the rooftops. The mortal had been amusingly wroth; something had clearly happened to invoke his ire… and demand an attack upon the Azure Jade Trading Company headquarters.
+
+Ah, the things he did as thanks for his friendship. He had even left closed-door cultivation for the man!
+
+The resources of the Wu had served them well. He was nearing the cusp of the Profound Realm; his son was in the Third Stage of the Initiate’s Realm, and his grandson in the Second.  They were the equal of some of the strongest strike forces the Sects of the Azure Hills could bring to bear—and as independents.
+
+That said, ordering such a strike… perhaps it was time to rethink the arrangement? It was nice to be able to meditate without distractions, but attacking one of the main suppliers of cultivation reagents was foolish.
+
+“Ignore the guards. No collateral. We do not want to be connected to this,” Ye Shun told his son and grandson. Both of them nodded.
+
+The first two targets were some poor souls who had insulted the Wus so much they had called on him; they were to be captured and taken to Lord Wu. It should be a relatively easy task.
+
+They bounded quickly across the rooftops towards their destination. Their target, according to the Wu’s informants, would be on the top floor—but something caught his attention. A garden pavilion, lit by lanterns. Where two men and two women were sitting together.
+
+Both men and one of the women matched the descriptions he had been given.
+
+Ah, it appeared the heavens were smiling upon him. There were no guards. Only a servant, brewing tea.
+
+Ye Shun and his descendants leapt down from the roof, and landed amid the pavilion.
+
+“Good evening,” Ye Shun greeted them. “Be you the Lord Magistrate of Verdant Hill, Lady Wu Zei Qi, and the Auditor General?”
+
+The man, drinking tea and going over documents, raised his head.
+
+“I am honoured to have that position,” the elder of the men said, his voice perfectly calm. There was no hint of alarm upon his face as he stared at Ye Shun. The Auditor, on the other hand, swallowed nervously.
+
+“I see. I’m afraid I must ask you to come with me; the Wus were very insistent,” he said, and let some of his intent leak out to weigh down upon the mortals.
+
+Most targets fell down in terror by this point—yet all of these mortals remained unmoved. The Auditor even looked confused.
+
+“Hmmm. You are not very skilled, are you?” the Magistrate asked.
+
+Ye Shun recoiled at the insult. His son and grandson bristled. Not very— he focused more of himself on the man, who just remained unimpressed.
+
+The woman with the guzheng giggled.
+
+Ye Shun felt his teeth grind at the sheer disrespect. His fists clenched, and a vein bulged in his forehead.
+
+“I see you are courting death. Very well. I shall oblige you,” he declared, his hand touching his sword as he advanced.  The Wus had only said alive. A missing limb or two was survivable—
+
+“That would not be wise,” the serving girl in the back spoke. Calm, razor-sharp diction. A single squinted eye opened, exposing an amber iris.
+
+The eye was slitted vertically. Like a cat’s. Like a predator’s. There was something there, something evil. Something malevolent that was going to kill them all.
+
+Ye Shun’s entire body seized, as the heights of power undreamable for the Azure Hills was revealed to him.
+
+Beyond the Second Stage of the Profound. Beyond the Fourth, beyond the Fifth.
+
+There was a cultivator in the Spiritual Realm staring at him and his sons.
+
+Ye Shun made a choking sound. His son and grandson started sweating so badly it immediately stained their robes.
+
+“Ah-ah-ah… Y-Ye Shun greets the e-esteemed e-expert,” he stammered, his shaking hands barely managing to make the gesture of respect. His boys did the same, good.
+
+“Who are the Wus, to demand the presence of my Master? Are they your Master?” the woman asked, her voice devoid of emotion.
+
+Ye Shun paled further at the word Master. Master? How the hells did a mortal in the Azure Hills command such a monster? How could such a powerful cultivator call a mortal Master?! It was absurd! Beyond absurd! Was this some dream?! “Ah… he is not my master, we are merely aligned—”
+
+The woman was suddenly right in front of him. The titan beyond them all looked at Ye Shun like he was a particularly repulsive insect.
+
+“Then what is your reason for being here?” came the final question. “Are you perhaps… courting death?”
+
+The half-lidded predatory eyes bored into his soul. The world tilted. The moon turned blood red, and the scent of death filled his nostrils. The shadows swelled and began to dance, ruined corpses capering from their ever-lengthening grasp, moving in time to the staccato beat of his heart.
+
+“W-we made a mistake,” he managed to force out. “That is not the man we’re looking for.”
+
+“Oh?” the woman asked.
+
+“The Great Expert is indeed correct, we have no reason to be here, and will be leaving immediately,” Ye Shun stated, bowing low. “We thank the Great Expert’s benevolence, and apologise to the Lord Magistrate for our unseemly actions.”
+
+“What do you think, Master?” the woman inquired. The mortal—who might not have been a mortal at all, but an existence so beyond him as to be the heavens if he had this monster as his attendant—raised a brow.
+
+“Clearly a misunderstanding,” he said after a moment.
+
+Ye Shun latched onto the out with all his might. “Of course, My Lord.”
+
+“They can go. But I do hope that we never cross paths again,” the man continued.
+
+“We shall of course stay far, far away,” Ye Shun replied, bowing again.
+
+The man nodded, and then returned to his papers.
+
+The monster gave Ye Shun one last look, then turned her back on him dismissively.
+
+Ye Shun and his sons fled the instant her back was turned, walking a respectful distance away from the Azure Jade’s pavilion… and then sprinted back to their mansion as fast as they could move.
+
+“Pack everything,” he commanded his boys, who nodded shakily. “We are gone from this city within the hour.”
+
+They needed to loot everything they could, because the Wu’s were not long for this world.
+
+=============================
+
+“As expected,” Lady Wu said.
+
+“They cannot conceive of not being the strongest. They think it's a bluff. They think they can just march forwards, and sweep us all aside.” the Lord Magistrate mused. “Just like you said. This is the only way it can end. Are there any regrets, my wife?”
+
+“None.”
+
+“Then we proceed. Send a message to the Lord Director of Civil Service Examinations; ask if he can please call a special court session.”

@@ -1,0 +1,141 @@
+---
+id: 64be794b-9576-506b-98e3-d98c86be1ad9
+page-type-slug: story-chapter-royal-road
+title: "89. Manipulated"
+slug: 0089-89-manipulated
+partOf: breaker-of-horizons
+position: 89
+ownLength: 2396
+unit: words
+publishedAt: 2021-03-08
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/643415/89-manipulated"
+royalRoadId: "643415"
+---
+
+"... then Lynus just disappeared. One moment he was there, and the next moment he was totally gone without leaving a trace in the arcana. We couldn't even find him using that trick we did to locate the Demiurge. And all of a sudden, I was back in my body, totally disorientated. All I could tell was that Jerric and Lynus were fighting, and when I finally got my head clear, Jerric was already unconscious, and I started doing what I could. Then you woke up, and, well, here we are. I can't tell you how relieved I was when you got up."
+
+Devon's voice was a little raspy because of his crying earlier, and from all the talking he had just done, but he had calmed down considerably. Recounting everything to Caden seemed to help him come to terms with the events that had happened.
+
+"I'm glad you two had my back, at least." Caden gave a small smile, but it quickly faded as soon as he realised that it was now his turn to tell Devon about his own experience of being stitched together, piece by painful piece, as he lay helpless in the hands of an ancient augera.
+
+Devon sensed the sudden disquiet in Caden and reached across the still-unconscious Jerric in order to give a reassuring pat on the shoulder. "You don't have to give me all the details. I'm just glad to have you back."
+
+Caden shook his head a little. "No, that's not it. I mean, I'm not saying I want to really talk about it, but... it's important. You'll need to know some things. It's just hard for me to figure out where to start."
+
+He looked distractedly around the room. Was it his imagination, or were there little perturbations in the air? It seemed like there were tiny shimmers, like minuscule heat waves, that danced in the edges of his vision but were gone as soon as he turned towards them.
+
+"Caden?" Devon looked worried.
+
+"Sorry." Caden shook his head again, this time with a little more force, and rubbed his eyes in order to try and clear his vision. It didn't work, but he decided to put it out of his mind for the moment. "So, long story short... don't get possessed by a half-mad augera."
+
+Devon cracked a smile. "No, really? But all the cool kids are doing it."
+
+Caden gave a self-deprecating chuckle, then continued more seriously, "The Geldor augera told me that the Creyvlor augera didn't mean me any harm. So the damage I suffered was probably mostly due to its own broken, corrupted nature."
+
+Devon nodded. "Jerric and I got a sense of that, too."
+
+"Well, when the Geldor augera put me back together and explained all that, I took the chance to also ask it about exactly what's going on with the Prophecy, and what it thinks I can do to help free the augera." Caden got up and started to pace slowly.
+
+"What did it say?" Devon asked, leaning forward a little.
+
+"It confirmed our theory that Ambrose is going to become a Fateweaver. And it said that I can be a 'key to Ambrose', while Ambrose himself is a 'key to all cages' of the augera."
+
+"So this means... you've got to convince Ambrose to free the augera? That doesn't seem too hard, does it? I mean, he's already on board with the plan," Devon pointed out, looking a little surprised at how easy it all seemed.
+
+Caden snapped his fingers and pointed at Devon, acknowledging his point. "That's what I thought. It was too convenient. Plus, it felt like the augera was giving me a really simplistic answer. And when I, uh, called it out, it basically threatened to leave me unfixed."
+
+Devon paled, and his brows furrowed as he considered what Caden had just said. "So you think it means that Ambrose isn't on board, and you're going to... what, have to fight him? Force him to free the augera?"
+
+Now that Devon had articulated it, Caden realised the great weight of the reservations he had about following along with the plan to free the augera. For one, going against Ambrose was something that troubled him on two levels. First, he had come to regard Ambrose as a friend, even if being around the Chosen One was a terrible inconvenience and had brought no small amount of trouble to his life. And second, if it came down to a fight between the two of them, Caden very much doubted that he would last ten seconds against Ambrose. He was, after all, literally fated to become a Fateweaver, and so far he had shown every indication of being a far superior arcanist to everyone else in their year. Caden very much doubted that Ambrose had even shown the full extent of his capabilities.
+
+He signed. "Maybe. But that's just one problem."
+
+"Just one?" Devon echoed, deflating a little. "What else?"
+
+"Well... when it threatened me... it reminded me a lot of the broken augera from Creyvlor."
+
+"You mean it's damaged in some way, too?" Devon asked, aghast.
+
+"No," Caden said slowly, frowning as he tried to articulate the sense he had gotten off the augera in the arcanic space. "It felt dangerous. Angry. But not at me, or at least not only me. It was like it was angry at... everyone. Everything. Crevylor's augera felt the same way too, and it actually called the Empire 'monstrous'. I was thinking about how horrible it was, because it... it really killed my attackers cruelly. Horribly. And the augera was basically in my mind, so it knew what I was thinking, and it didn't like what I had thought."
+
+The memory surfaced and Caden felt the cold touch of fear as he remembered being caught in the grip of Crevylor's augera. And after he had entertained that thought and made that private judgement, the augera had responded with contempt.
+
+"Horror? You do not know the word. Ancient-distant-spiders are the true horror. And one day, they will know the word, and wish for not-knowing."
+
+The words escaped his lips in a rasp, but also bled out into the arcana as he recalled the precise timbre and emotional weight of that declaration. Devon flinched away, a look of panic on his face. Caden blinked, realising that he had somehow sunk an ensorcelment of some sort into the air, then hastily released his hold on the ambient arcana.
+
+"Sorry, sorry!"
+
+"What was that?" Devon demanded, sounding shaken. "Ensorcelment?"
+
+"It..." Caden stared around again at the little flurries in the edges of his vision and failed once more to catch anything. "Not really ensorcelment. I... I don't know."
+
+Devon composed himself and shot a worried look at Caden. "So the Creyvlor augera said that. And it felt like that too, when the Geldor augera threatened you?"
+
+Caden nodded.
+
+"Well," Devon continued, "that's too bad for the Fateweavers. I really wouldn't want to be one of them, if that's how the augera feel about them. And who can blame them? I mean, they've been shackled for—"
+
+"—a good reason."
+
+Both of them spun around to face the source of the voice. Lynus was propping himself up on his elbows, looking utterly worn out, but still determined.
+
+Devon sprang to his feet, conjuring defensive layers of arcana around himself, Jerric, and Caden. Simultaneously, a dense ball of energy coalesced in his right hand, crackling with deadly energy. Caden stared in surprise at the complexity of it — Devon had managed to trap arcanic lightning within the sphere that they normally used to divert or absorb it, and it was slowly growing in intensity as he looped the energy back on itself. With his heightened attunement to the flow of arcana, Caden could tell that it was a very elegant fusion of two different sequences. Devon was clearly demonstrating the skillful aspect of his auric-ambient-flare.
+
+"One wrong move, and it's over!" Devon snarled.
+
+Lynus' eyes widened momentarily, but then a smile crossed his face. He lay back on the floor with a sigh. "I'm not going to fight. Not now."
+
+"Yeah?" Something in Lynus' manner struck Devon as dismissive, and his already frayed composure cracked. "Well, what makes you think I'm going to let you get away with what you've done?"
+
+The concentrated arcana in Devon's hand snapped out a deadly arc of energy. Cursing, Lynus rolled out of the way just in time to avoid it. Before he could shore up any more defences, another arc raced straight towards him—
+
+"NO!" Caden yelled, and the arc of lightning froze in mid-air. Its sinister sizzling echoed around the chamber for a moment, and then faded away as the energy dissipated. The orb in Devon's hand fizzled out a second later.
+
+"What the hell?" both Devon and Lynus blurted out, staring at Caden with looks of incredulity.
+
+"What the hell," Caden breathed in agreement, staring back at them. He wasn't sure exactly how he had accomplished that, but he did know that he had been thinking about how Ambrose had unravelled sequences back in their last duel together in the Academy.
+
+"Why did you stop me?" Devon demanded. Arcana was stirring around him, responding to his hostility, obeying his will to thread itself into deadly sequences again.
+
+"Devon, no," Caden repeated insistently, instinctively reaching out again, the vague outline of a sequence in his mind. The patterns that were coming to fruition stalled and then shook themselves apart. Devon finally relented, too surprised to continue the assault.
+
+"Well, there's another reason for me not to fight now," Lynus muttered bleakly, slumping onto the floor again.
+
+Caden found himself feeling extremely irritated at Lynus' attitude. It was times like these he was forcibly reminded that Lynus and Kevan were brothers. Kevan was usually the one who came off as haughtier and more blase, but sometimes Lynus also echoed that infuriating self-assuredness. It was even more galling now because Lynus was obviously the weaker party here.
+
+"Why are you even fighting against the rest of us in the first place?" Caden snapped.
+
+"Will you actually let me explain, and not attack me?" Lynus drawled as he lay spread-eagled, tilting his head to look at Caden.
+
+Even though he was the one who had healed Lynus, Caden was feeling a growing desire to pummel the little snot back into unconsciousness at the very least. He didn't have to take this sass from someone who had tried to kill him. But with a supreme effort of will, he forced himself to remember the augera's last few declarations. Swallow pride. Learn forgiveness. Practice mercy.
+
+With a little application of arcana, Caden animated the glyphed silver knife and sent it drifting over to Lynus, where it floated above his face point-down, rotating gently. Once again, this wasn't a sequence he had personally studied, but he recalled its effect when he had seen his father stashing books away in the Academy residence, and it was somehow a simple matter to intuit what he needed to do with the ambient arcana in order to achieve the same effect.
+
+"You can begin by explaining this," Caden said as calmly as he could.
+
+To Caden's immense satisfaction, Lynus' attitude changed. He shifted uncomfortably and the air of insouciance vanished entirely. "Okay. Put that away, and I'll tell you everything."
+
+"You've mixed up the order of things there." Caden went to stand over Lynus and looked down at him, making his displeasure clear. "Tell me everything first, and then I'll think about whether I should be putting this away, or putting it to use."
+
+For a moment, Lynus looked like he was on the verge of talking back. But Caden allowed the knife to sink a little closer to Lynus' face, and that look of rebellion was quickly wiped away. Caden made sure not to allow the relief to show on his face. He had been worried that Lynus would realise that he actually had no intention of following through on that threat, given what the augera had said.
+
+"Alright," Lynus relented. "I don't actually understand the glyphs myself. They were given to Kev and me by the Academy augera."
+
+"What?" Caden asked, incredulous. But as far as he could tell, Lynus was telling the truth.
+
+"It wasn't something direct. We'd been in touch with it, and it told us we had to eliminate an ex-anchor of the Prophecy. We didn't realise it at the time, but that was when it also implanted some knowledge in us. It's like... a vague sense of the glyphs. Like seeing a shadow of something in your head. We had to spend a few weeks figuring out what it was, and the picture only really became clear when we arrived back home."
+
+"And why did you think it was meant to be used on me?"
+
+"Because you're the ex-anchor," Lynus pointed out. "And... and the glyphs themselves... I don't know else to explain it, but they feel like they 'belong' to you."
+
+Caden frowned and turned his attention to the knife. Now that Lynus had pointed it out, the glyphs did feel strangely close to him. They were still wrapped in a heavy shroud of danger, and he did not feel safe standing this close or even looking too closely at it, but there was an undeniable sense of connection. In fact, the longer he examined it, the closer he felt to it. There was a growing compulsion to reach out and hold it in his hands.
+
+He shook his head. "Why would the Academy augera want to kill me? It was the one that set me free from the Prophecy in the first place."
+
+"It doesn't want you dead," Lynus answered. "At least, not really. As an augera, it wants you alive because you're supposed to free them somehow. But as an augera under the Fateweavers' control, it also has to work to fulfil the Prophecy. And apparently, that involves removing you from the picture."
+
+"Removing me..." Caden's eyes went back to the knife floating in mid-air. That explanation did not make sense. The strange, inscrutable glyphs were hinting at an altogether different idea.
+
+Devon gave out a cry of alarm and started forward, but Caden did not realise that he had been reaching out towards the knife until his fingers closed around it.

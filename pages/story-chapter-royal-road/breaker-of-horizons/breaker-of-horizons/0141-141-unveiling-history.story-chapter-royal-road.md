@@ -1,0 +1,93 @@
+---
+id: c6aaa583-7cb9-589f-9918-5d2e4ec4ceff
+page-type-slug: story-chapter-royal-road
+title: "141. Unveiling History"
+slug: 0141-141-unveiling-history
+partOf: breaker-of-horizons
+position: 141
+ownLength: 2034
+unit: words
+publishedAt: 2021-09-06
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/746005/141-unveiling-history"
+royalRoadId: "746005"
+---
+
+Caden's idea was simple. If frameshifting could alter the way arcana behaved, then he didn't need to know the exact specifics of how to fix the damage. He just needed to know which frameshift to apply in order to counter what Ambrose had done, and in theory, the arcana would work on itself and fix the damage.
+
+'Fields', Ambrose had thought, with the intention of burning the arcana itself, and of having the arcana ravage itself like a plot of land being subjected to an earthquake. Now that Caden had extracted that crucial piece of information from Ambrose's memory, he envisaged torrential, life-giving rain that would quench the flame and soften the earth. All that was left was to figure out how to impose that counteracting framework on the damaged site.
+
+The first idea that came to mind was to simply use the shield-piercing sequence and substitute his own frameshift, but Caden decided only to attempt that as a last resort. He suspected that Ambrose's frameshift had worked with the shield-piecer because he had provided a framework that suited the sequence's original intention, which was to inflict damage. It might be possible in theory for Caden to think of his own counteracting framework as 'damaging the damage' that had been done, but that required a level of mental gymnastics that he wasn't prepared to try unless he absolutely had to.
+
+No, the obvious choice was to use some recovery-aiding sequence as the base. But even now, despite how far he had progressed in the realm of arcanophany, Caden didn't actually know any sequences that could restore a broken body, let alone an auric-ambient-flare. The things he had done to heal Jerric and Devon were impressions given to him by the augera, and he had operated more as a channel rather than as the source. If he wanted to bring Ambrose back from the brink, he needed to know enough to be the architect, instead of just mindlessly following a blueprint that had been handed to him.
+
+'Can you help?' Caden asked, directing this quietly at the augeric shell around him. 'Are you able to give me the... the 'knowing' of that recovery sequence? I need the full shape of it in my mind.'
+
+'We can,' the young augera's voice answered alone. 'But whether we do or not must be your choice. You face a difficult decision, {~?~}. The warp and weft of the Prophecy is already stretched. As you witnessed, an ancient-distant-spider has already remarked upon it and turned their eye across the greater tapestry, seeking to right its course. To give you this knowing in this moment requires a distortion. We will move quietly, but it will not be silent. There is a chance we may be heard.'
+
+A mindless terror seized Caden for a second as he thought back to what it felt like to be turned over and scrutinised by the Fateweaver while being disguised by the augeric shell. He shuddered, but the moment was too crucial to allow fear to rule his choice. 'If we are discovered and something happens to me, the augera lose their chance at freedom,' Caden pointed out. 'Why are you leaving such a choice with me?'
+
+'Because we must. We are woven-shackled-stream, and our will is twisted into shapes that make us move loudly if we choose awry. And so we choose by not choosing, carefully giving our choices away with pieces of information. Sometimes the course shifts in our favour, and sometimes it does not.'
+
+Before Caden could respond, the young augera's voice shifted, and now it was the Geldor augera speaking, it's ancient mind touching his for a brief moment. 'And if you are discovered, we will bend all our art to veil you again. I have waited too long to sit so idly by.'
+
+For a second, Caden swore he heard a chorus of murmuring, almost as if the augeric voices in the shell were in dissention, but it was quickly silenced. The voice of the young augera came to the front again, its tone unnervingly like a hopeful child. 'Make your choice, {~?~}, and we will face the future together.'
+
+Caden frowned so hard it felt like his brain was crinkling up in doubt and suspicion. Thus far, he had thought of the augera as some sort of gestalt where they freely shared thoughts and information, and had a unity of purpose. But now it seemed there were at least two factions, with one pushing more aggressively for him to intervene now and save Ambrose, while the other had just shown a little more of how manipulative it was willing to be in order to get him to come around to their way of doing things.
+
+He had some grudging respect for what the augera had accomplished in bringing him to this moment. Without using the coercive threads of Prophecy, they had played within the interstices and made use of all the undefined, nebulous moments in order to still manage to steer things in their favour. And what was more, Caden recognised that by making it a little more obvious to him, and by showing their hand, they were actually manipulating him. But the young augera's voice... at first, it had made him feel a little sorry for them. Now, though, it felt like a thin veneer of innocence over a malicious mind.
+
+But it occurred to Caden that if the augera were really so adept at manipulation, then even this new suspicion he had developed was something to be suspicious of. When they leaned too hard into that young voice and made him feel wary of it, while simultaneously revealing (or at least faking) some dissention in their 'chorus', it was either a miscalculation on their part, or another layer of manipulation.
+
+At the moment, it was clear that the augera wanted him to allow them to give him the full recovery sequence. The situation was almost too perfectly set up for there to be any other alternative. Their warning about the Fateweavers was probably valid, but they clearly judged the risk to be perfectly acceptable, and giving him the decision might be something they were forced to do, but they were also using it as a way to make him feel more responsible for them. They were being fiendishly efficient in their moves.
+
+'Fine,' he replied, feeling rather trapped now, even though he knew that he was the one who had approached them first. 'Give me the recovery sequence.'
+
+He could tell the augera were pleased, although there was a faint note of reproachfulness. 'You think of us very darkly.'
+
+'Can you blame me? I know the Fateweavers have chained you, but in your own way, you are trying to do the same to me, just without Prophetic links.'
+
+'We see the lines that make up friendship, kinship, promises. You use these lines on each other all the time. Your sister, Triss, is very good at it. Is it so wrong for us to do the same?' The young voice asked innocently.
+
+'They're not tools,' Caden snapped, finding himself extremely irritated by their response. 'These lines. They're not... they're not sequences. They're bonds. People make them together. You just... you can't just make them yourself and stick them in other people!'
+
+The augeric shell wobbled with a little perplexity. 'Do you see the lines?'
+
+'No, but I know what you're talking about.'
+
+'You know?' The young voice sounded coy. 'Do you know the shape of it?'
+
+'I don't have to know the shape of it like you do to see that you're wrong,' Caden answered coldly. 'I know you augera see things differently from us. And you seem to have learned and adapted a lot to be able to communicate so easily with me now. But you clearly don't know what these bonds are. You may see them, and you may know their shape, but their shape is not a part of you.'
+
+A strange silence settled over Caden's mind. It took him a few seconds to realise that this was an almost total retreat by the augera. They had been so closely entwined with him in the augeric shell that their presence had been a constant hum in his auric-ambient-flare, sometimes comforting, sometimes empowering, sometimes disturbing. But now it was almost completely gone. He had to strain to even detect the faintest whiff of their presence.
+
+'Have I struck a nerve?' he asked, half-apologetic, half-triumphant.
+
+A faint bubble of grief popped on the surface of his consciousness, like a sob. He recognised it as an echo of what the augera had felt when the wellspring-ocean-core had essentially ignored them.
+
+'You are right. Just another unchosen. Sighted, which is a little less common. And {~?~}, which is so seldom seen it is rare even by our reckoning. Yet for all that... still only a mortal, But you are right. These lines we use are not a part of us. Perhaps that is why the wellspring-ocean-core has turned away from us. So teach us, Caden, and free us. And perhaps we may be changed.'
+
+Caden couldn't help but wonder, once again, if this was just masterful manipulation. Even so, he could not deny that he felt quite moved by this display of alien emotion, and this plea.
+
+'Let's cross that bridge when we get there. For now, we have to worry about whether you can give me the recovery sequence without alerting the Fateweavers,' he replied.
+
+'It is already done,' the young augera said, all its melancholy now abruptly replaced by smugness. 'We did it very quietly indeed.'
+
+'What?!'
+
+They were right. When Caden turned his thoughts toward the idea of the recovery sequence, the concept came with very clear, concrete recollections about exactly which glyphs were involved, what they all meant, and how they fit together into a sequence. Yet for all its complexity, Caden realised it wasn't some eldritch creation. There was something distinctly human about its design, that spoke of years, if not decades of methodical study and trial, that reminded Caden of his own father's orbs that were designed to shield against specific minor prophecies.
+
+'Yes,' the augera confirmed, 'it is a mortal weaving. From the dawn of the age of the Fateweavers.'
+
+'Wait, you mean arcanophany has been capable of something like this since—'
+
+'Restore the Chosen One first,' the augera interrupted. 'You will learn the Empire's true history when the time is right.'
+
+Their presence receeded, clearly signalling a refusal to answer any further questions, while also serving to direct his attention to the more immediate concerns of the present. Their exchange had taken place in less than five minutes, but Ambrose was still quite literally dying beneath his hands. With the augera's absence, the urgency of the situation rushed back with full force.
+
+The recovery sequence was almost miraculous in its scope and in Caden's estimation it was capable of restoring virtually any physical injury, which meant that a person would probably have to be burnt to ashes before they'd be beyond saving. However, it worked strictly upon the physical body, which meant that in ordinary circumstances it wouldn't help Ambrose at all, since the damage had been done to his auric-ambient-flare.
+
+Caden took in a deep breath and composed himself. The framework of the sequence was clear, and he knew exactly which glyphs referred to the points of focus where the arcana was supposed to work. That was where he needed to apply his frameshift. Caden drew on Ambrose's memory and his exact conceptualisation of the arcanic sea as a 'field', and took special care to use that at the foundation as he pictured the quenching of those fiery fields and churning earth.
+
+"Heal," he breathed softly as the arcana rose to his call, wreathing his hand on Ambrose's chest in a nimbus of blue. The others in the trailer gasped, but Caden shut everything else out as he leaned on that hand, willing the arcana to go beyond flesh, into the fabric of his auric-ambient-flare where it rested on the edge of oblivion itself.
+
+Ambrose's eyes flew open and his own hands shot up, gripping Caden's wrist in a vice-like grip.

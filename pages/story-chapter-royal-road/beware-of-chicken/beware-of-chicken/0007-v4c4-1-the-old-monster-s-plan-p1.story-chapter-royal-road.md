@@ -1,0 +1,155 @@
+---
+id: 5e748125-e739-5ea3-b85f-ab003c3425da
+page-type-slug: story-chapter-royal-road
+title: "v4c4.1: The Old Monster's Plan p1"
+slug: 0007-v4c4-1-the-old-monster-s-plan-p1
+partOf: beware-of-chicken
+position: 7
+ownLength: 2087
+unit: words
+ownProgress: 2087
+publishedAt: 2023-04-25
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1192101/v4c41-the-old-monsters-plan-p1"
+royalRoadId: "1192101"
+markedReadAt: "2026-06-29T18:51:32.457Z"
+---
+
+Earlier
+
+“… walk in the front door. Myself, in my own way—and you, my apprentice… as a disciple,” Shen Yu declared as they walked along the mostly empty forest road. They were bordered on either side by towering pines that Yun Ren and Ri Zu had been discussing.
+
+Bi De froze, his mind screeching to a halt. Ri Zu coughed, and Yun Ren turned in confusion.
+
+His mind had conjured an image of Shen Yu simply walking forwards, kicking a massive gate off its hinges, and then demanding everybody come down and kowtow before him. After all, while the old man could be affable and seemed to enjoy playing the role of the crotchety grandfather, Bi De was under no illusions about what Shen Yu was capable of. Shen Yu’s eyes barely hid dispassionate steel—and the stories he had told during their journey, where the old man had laughed and reminisced with Nezan about ‘the good old days’, did little to hide that.
+
+“Ah, I slapped him one hundred times for that! His face looked like this after I was done!” Shen Yu said, mashing his own cheeks together and making a stupid face. Bi De had laughed, because it was an amusing image, while Nezan outright cackled.
+
+Such a delightful tale, until one learned that the man in that story had committed suicide later from the shame he had endured. Those little dissonances always made him feel slightly uncomfortable around the old man.
+
+Bi De was unsure if the entirety of the Shrouded Mountain Sect deserved such treatment. Simply starting a rampage sat ill with him. Perhaps Shen Yu merely meant to talk instead?
+
+But…?
+
+“As a disciple?” Bi De asked, bewildered.
+
+Shen Yu laughed and turned to smile at him. “Indeed. It's true, at first, I was just going to demand that they kowtow before me and explain themselves, after crushing all of their formations and suppressing their Elders. It would be efficient, this Old Man simply smashing everything aside, would it not? After all, they insulted my Grandson. Such a thing is not done.”
+
+Shen Yu’s eyes turned cold for a moment.
+
+A single bird in a nearby tree simply perished, its heart stopping. It fell to the forest floor with a thump even as the rest of the birds in the forest took flight, screeching in terror. Shen Yu smiled, the brief flash of his rage subsiding, the kindly grandfather look returning to his eyes.
+
+Bi De swallowed thickly. Yun Ren started shaking. Ri Zu squeaked, and Big De felt her start to bolt beneath his vest before she managed to catch herself. Even Nezan’s cheery smile turned brittle, sweat dripping downwards on his current form’s face.
+
+“But instead, I had a much better idea. Now, tell me, why would I command you to join the Shrouded Mountain Sect through their upcoming initiation?” Shen Yu asked.
+
+Bi De mulled the question over for a moment before he realised the answer.
+
+“To know my enemy,” Bi De replied. “This Bi De swore that he would handle these matters of cultivation for his Master; yet he is still too inexperienced. You wish me to learn the ways of the Sects. To truly know them, instead of only hearing of them through the accounts of others.”
+
+Shen Yu nodded, looking pleased. “An excellent deduction, Bi De. That is exactly my intention. Words are nothing compared to experience. The Shrouded Mountain Sect is an Orthodox Sect. Their methods are common across the world. You will learn their ways—what drives them, their abilities—while keeping an eye out for anything having to do with demonic taint. I too will be searching, and observing your methods to speak upon them later. Then, we shall correlate what we have found and render judgment upon them. Do remember to find ways to seal any exits or escape routes. Catching every rat is always annoying, no offense intended to Miss Ri Zu of course, and I have agreed not to destroy the mountain. Remember, smashing a mountain is always easier than having to search it.”
+
+Bi De nodded; crushing a mountain would certainly have been simpler.
+
+Shen Yu’s plan did make sense, to gain experience in the ways of the sects and to train his ability to root out demons in a hostile environment. His Great Master would say that a teaching style like this was ‘sink or swim’. Indeed, the part of himself that he was very careful to keep under control exalted in the challenge Shen Yu was presenting him with. There was just one problem.
+
+They likely would not accept a chicken as a disciple, which meant Bi De would have to do something he still was unsure about.
+
+“And… I am to become human for this?” Bi De asked.
+
+“Is there a problem with that?” Shen Yu replied. “Nezan said you are more than powerful and skilled enough to achieve human form if you wished.”
+
+“… I must admit some discomfort with the human form. As you have said, ‘one must be themselves’, and I have seen no need for it. My spirit is in harmony with my body; disrupting it like this is not something I would wish to do… but if I must, then I must.”
+
+Shen Yu considered Bi De’s words. “I approve of the sentiment,” the old man said. “However, if you must, then think of it as a disguise.”
+
+“I see. I had wished to maintain this form for a while longer, at least, but if this will aid our cause, then I am ready.”
+
+Shen Yu nodded, a glimmer of approval in his eyes.
+
+“Wait-Wait,” Ri Zu interrupted, her voice becoming thicker and more guttural. “What about us-clan?”
+
+Shen Yu shrugged. “Your current form is suitable enough for the task ahead. Or, you could attempt to achieve human form yourself and join him out in the open. Whatever you decide… Well, that is your business.”
+
+Ri Zu squeaked, her eyes narrowing.
+
+Bi De frowned at the man’s bluntness. “I will be relying on your support, Sister,” Bi De told Ri Zu. “But I will need you to get down for a moment.”
+
+“Oh? Right now?” Nezan asked.
+
+“There is no time like the present,” Bi De stated. Ri Zu paused, wringing her paws for a moment and then leapt down off Bi De’s back.
+
+He walked further up the path; Tigu had said there was lightning and he would not let anyone else get caught in the blast.
+
+Bi De took a deep breath, closed his eyes, and willed himself to change.
+
+There was, to his surprise, no lightning. There was just an odd sensation.
+
+Perhaps this was because it did not feel like some important achievement? He was strong enough, so he simply changed. It was no great matter to him—only the temporary purpose of blending in with strangers, and some curiosity about seeing the world as his Great Master did.
+
+In a random, unimportant forest path, Bi De became human.
+
+The first thing he noticed was that it was rather uncomfortably breezy.
+
+He opened his eyes and glanced down at his new body. He looked to be partially shrouded in a haze of silver light. He noted that he was wearing his necklace, the one that the Torrent Rider had given him, but his vest was nowhere to be found. Next was that Tigu did have a point, the muscles in his abdomen and chest were rather aesthetically pleasing. Vibrant red hair cascaded down his shoulders, and he was rather paler than he was expecting—as though he hadn’t worked outside a day in his life. He also felt just a bit unbalanced. The ground looked rather far away, as it did when he was sitting on his Great Master’s shoulders.
+
+“I wasn’t expecting that.”
+
+Shen Yu’s voice cut through Bi De’s introspection. He glanced up to see the old man studying his new form. Sister Ri Zu was simply staring, while Yun Ren looked rather amused.
+
+“Indeed, his transformation is more in line with my people’s,” Nezan mused. “We are predisposed to becoming human, so it is easier for us, as we ‘descend’ to a human form rather than it being superior to our own bodies.”
+
+“I do not feel any great difference,” Bi De admitted. Actually… was he a bit weaker? He would have to test his abilities. He raised his wing—hand—to stroke his wattles, only to find smooth skin. Well… that was disappointing. It just didn’t feel right. Bi De wondered whether he could grow a magnificent beard like Shen Yu’s. Or perhaps a refined goatee like the Lord Magistrate?
+
+“His eyes… they’re like Jin’s,” Shen Yu observed. He had a complicated expression on his face, before it settled on amusement. “The shoulders and height too—but none of my boy’s rugged charm! You look so soft, Bi De, and you have no freckles!”
+
+Bi De recoiled, the last of the silver light dissipating. No freckles?! He had hoped to at least be able to tease Tigu with those! She was still annoyed that she didn’t have any.
+
+“Oh? It looks like you’re quite like your Master in another area, though,” Nezan said, hand raised to his mouth and eyes below Bi De’s waist.
+
+Ri Zu squeaked, her eyes wide and her ears red. There was a crystal chime from Yun Ren. Shen Yu snorted.
+
+Ah, yes. He was naked, wasn’t he? He felt a strange, almost shame-like emotion enter his mind, before he banished it.
+
+“Yun. He's a bit big, but give him some of your clothes,” Nezan commanded, his female avatar’s sultry voice thick with amusement. “We’ll reach the safehouse tonight, and we’ll be able to resupply there.”
+
+“What kind of safehouse is it, anyway, fox?” Shen Yu asked.
+
+Nezan smiled. “One that you’ll enjoy immensely.”
+
+================================
+
+“This place is the territory of the Mountain Ascending Daoist Sect,” Nezan narrated. “Enemies of the Shrouded Mountain Sect. Not a single member of their sect has ever set foot in this town, and—oh, good, it's still here.” He sniffed at the air with some relief. “And… fourth niece’s descendants? Excellent! Come now, I promise you we’ll be treated like kings at this fine establishment.”
+
+Bi De stared blankly at the brothel nestled in a bustling valley town.
+
+Honestly, he didn’t know what he was expecting. It looked like an older building, but it had been lovingly maintained. Water crystals had been used to make a tasteful pond, and the garden was magnificently arranged. Bi De could hear several women practicing instruments and singing.
+
+It also had portraits of beautiful women strung up, with prices, signatures, and hearts drawn on them.
+
+Nezan sauntered in like he owned the place, walking right up to the clerk, a woman with black hair done up in a braid. Her eyes were dark and inviting.
+
+“Excuse me, darling. We're here to see the madame,” Nezan simpered. “We had a lovely walk under a summer sky, and now we’re looking for some tea. Perhaps some lovely ladies with blonde hair as well?”
+
+The clerk at first looked confused, and then her eyes widened at Nezan’s words, as well as the slight amount of Qi he released.
+
+“Lord… Lord Uncle?” the woman stammered.
+
+Nezan smiled indulgently. “Yes, my dear. I’m back.”
+
+Tears filled the clerk’s eyes, and with a pop fox ears erupted from her head and two fluffy tails from her behind.
+
+Bi De idly wondered what the use for two sets of ears was.
+
+The woman furiously tapped a transmission stone, and a voice crackled out of the other end. “Da Jin, I told you not to bother me unless it's urgent—”
+
+“Lord Uncle Nezan is here!” the clerk shot back.
+
+“Lord Uncle Nezan?!” The woman on the other end hissed, her voice going from annoyed to shocked. “That's impossible! Are you mad—”
+
+Nezan let his Qi leak through more, and the voice on the other end immediately silenced itself. Then there was the rapid beat of feet and a door off to the left was torn open. Another woman appeared in the entrance, wearing a barely on robe. She had a similar body type to Disciple Xiulan—though slightly smaller in the chest area.
+
+The woman immediately dropped to a knee.
+
+“Su Nezuhua greets Lord Uncle Nezan! Our House is yours, Lord Uncle!”
+
+More and more heads popped out of various doors throughout the establishment. Men and women both, looking curious about what was going on… and they too, had fox ears and fluffy tails.

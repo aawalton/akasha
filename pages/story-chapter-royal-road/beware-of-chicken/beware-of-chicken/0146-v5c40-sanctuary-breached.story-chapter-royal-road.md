@@ -1,0 +1,257 @@
+---
+id: 2dc66cb2-ee56-5f16-b034-01ce6e690527
+page-type-slug: story-chapter-royal-road
+title: "v5c40: Sanctuary Breached"
+slug: 0146-v5c40-sanctuary-breached
+partOf: beware-of-chicken
+position: 146
+ownLength: 2629
+unit: words
+ownProgress: 2629
+publishedAt: 2024-09-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1790424/v5c40-sanctuary-breached"
+royalRoadId: "1790424"
+markedReadAt: "2026-06-29T18:56:17.954Z"
+---
+
+The entire operation was going to the Hells.
+
+Master always said Luck was the most important attribute a cultivator could have; as always, his lessons rang true.It was galling to have Luck be on their enemies’ side.
+
+Huian frowned heavily as the damage reports came in from their forces. The vanguard was taking impressive casualties. The dragon in particular was proving to be highly effective and was using far, far less Qi than Huian had expected. Its control was peerless.
+
+The plan had been to hide their operations by having the Shrouded Mountain Sect be responsible for everything. This was supposed to be bait for the Cloudy Sword Sect, if their foe truly was affiliated with them. Their troops were meant to be the cleanup crew, killing poisoned or weakened enemies and ensuring that the aftermath matched the false narrative. They were not meant to show their hands too overtly.
+
+The plan was now impossible to achieve. Instead of a clever ploy…they would simply have to kill everyone, then cover their tracks as best they could.
+
+Huian frowned as an alert from the remaining scouts sounded. Another had died, but its report was concerning. The one who had defeated Zang Zeng was moving far, far faster than had been calculated. When observed, his speed was the same, but whenever he got out of view he would… warp, for lack of a better term.
+
+The man and the women with him would reappear  far ahead of where they had been in an eyeblink. Twice… no, three times the speed? Perhaps faster?
+
+An invisible hourglass ran in Huian’s mind. They were running out of time—
+
+Huian nearly jumped as their transmission stone suddenly started hissing. Chixia was close enough to Huian that it shouldn’t be doing that, but the light snowfall seemed to be interfering…. somehow.
+
+The stone abruptly stopped and began glowing an angry green. The stone would burn out like this, but it was the only way to get through the interference.
+
+“Huian, we have failed. There's no way to hide this,” Chixia’s voice ground out. It seemed Chixia had come to the same conclusion.
+
+It was time to go loud.
+
+“I concur,” Huian said. “All restraints will be released. Be prepared to receive a peer, our unknown target is moving to intercept. Glory to the Heavenly Demon.”
+
+“Glory to the Heavenly Demon,”
+
+The transmission stone cut out.
+
+Chixia may have been an arrogant bitch… but even she knew when to set aside her pride for the sake of the mission.
+
+Huian turned their gaze to the Artificial Demons.
+
+[Directive Code: Sunset]
+
+The Artificial Demons were meant to be troops with longevity, superior in that respect to the Puppet Worms, who could only control their hosts for days at most. They were meant to be used again and again and again, conserving their strength and fighting for many days straight if need be.
+
+Of course, Huian hadn’t been satisfied with that. All of them had been implanted with an override. Not as drastic as the Puppet Worms... but still enough.
+
+The Artificial Demons roared as the corruption nodes within their bodies burned.
+
+“Reroute, continue on original objective,” Huian commanded.
+
+A thunderous roar answered, the artificial Demons bursting into motion to once more heed the directives, uncaring of injury and knowing no fear.
+
+Huian then turned to the dragon. Its Qi was racing after the demonic soldiers, trying to distract and kill them.
+
+Well. A dragon? Huian hadn’t been expecting a dragon. But this would work.
+
+Huian had always wanted a dragon puppet.
+
+Their fingers pressed to their storage ring. Two things burst forth.
+
+The first was a funerary tablet, covered in seals. The second was a puppet. A puppet of a Tiger-Eagle, a great beast with the fierce head and wings of an eagle along with the body and power of a tiger. They were beautiful, majestic, powerful Spirit Beasts. Some even were said to be worshiped as gods.
+
+The funerary tablet glowed with ghostly blue fire as Huian placed the tablet into its body.
+
+The puppet opened its eyes, a ghostly blue flame burning within. At once, it changed from a puppet of wood and fur… into something more. Its eyes came to life. It heaved with breath. It glared hatefully at everything and everyone, its soul shackled and bound for all eternity.
+
+Huian smiled as strings connected them to their creation.
+
+No words were said as the command was issued and the puppet launched itself into the air, the wind roaring around it.
+
+“Huoha. Anjing.” Huian called to their subordinates, who had been standing guard in around the clearing. Yourselves and the Blood Blades are with me,” Huian commanded. “The rest of you? Support the advance. Slide your blades in deep while whatever other defenders are distracted.”
+
+The human element of the assault force bowed their heads.
+
+“Yes, Heavenly Demon.”
+
+===========================================
+
+Wa Shi struck. His water flowed. His lightning made his aim unerring. For the first time, he felt true pride. For the first time, he felt truly mighty; he truly felt like a prince of the Heavens.
+
+His enemies turned to flee—they were driven before his might, and Wa Shi was pleased.
+
+Until he noticed that they were back to sprinting towards his home.
+
+Wa Shi roared in outrage, rising into the air. Lightning crackled around his body. The storm above them rumbled in time with his rage. More demons died to blades of water.
+
+There was a whistling shriek. A great winged predator descended.
+
+Wa Shi had never been good with hawks. Something about them terrified him at a primal level. Whenever he saw them dive, he would duck and cover, even though he was too big and too strong for them to hurt.
+
+The Prince of the Heavens reacted as he always did. He dove into the snow. There was a pop, and the great winged thing missed him by a hair's breadth. The vortex that formed behind it uprooted trees and cleared the land of snow, nearly sending a fat carp flying.
+
+Wa Shi’s eyes boggled at the terrifying creature. It screamed, glowing with ghostly blue fire, and making the wind swirl around it.
+
+It was a monster.
+
+It looked like a cross between a hawk and Tigu. It was striped and feathered and made Wa Shi want to bury himself into the ground. He swallowed thickly as the great beast stared at him. Its eyes were glittering gemstones. Its beak had a predatory hook. Its arrogant eyes saw only prey.
+
+Tears sprang to Wa Shi’s eyes. He whimpered, as he shook under its wrathful gaze. Yet again, there was a pop. Wa Shi forced himself to his feet. Even as his knees knocked together. Even as his breath came in gasping pants.
+
+Wa Shi roared his challenge. Massive orbs of water formed, and then imploded on themselves racing to strike down his foe.
+
+They met a whirling barrier of wind, the water spiraling harmlessly off to the side.
+
+Wa Shi let out a small squeak. The tiger-hawk dove, and Wa Shi was forced to dodge.
+
+===============================
+
+Chixia shattered the transmission stone in her grasp. The spent shards hit the forest floor.
+
+The rage had been steadily building in Chixia’s guts as the roars from the Spirit Beasts shook the land.
+
+Setback after setback. Annoyance after annoyance. Months of work wasted on Zang Zeng when the man impossibly threw off her control. Her innards were still throbbing in protest, even after she had healed them, and two of her defensive talismans were gone, now dust in the wind. Her Qi wasn’t replenishing itself properly in this Qi void either, and it pulled and grasped at her energy, trying to tease bits out and weaken her.
+
+Another booming roar, again from what seemed to be the complete opposite direction. Another thunderous charge, smashing into her force’s flank.
+
+Chixia did not particularly care about the Artificial Demons that were dying. They were fodder. Their purpose was to die.
+
+Losing so many of them under her watch was unacceptable. And after every other loss so far—Chixia was not happy. Her patience was at an end. It was time for this farce to end.
+
+She took a deep breath and bore her Qi into the world. For the first time in nearly a year, it swelled free from the binders and restrictions she had placed on herself.
+
+The snow around her turned black. The trees closest to her withered and died. They spasmed and shook as the poison Qi took them writhing in a parody of agony.
+
+It felt cathartic.
+
+Her senses expanded through the void. Each and every bit of poison lit up like a bonfire to her senses. The poisons in her storage ring, the poisons on the blades of her fifteen servants, the poison that was the Artificial Demon’s blood.
+
+The blood her foes had been spilling. The blood that clung in miniscule specks to their enemy’s form and weapons.
+
+As her senses reasserted themselves , the trick of the “teleportation" of her foes was revealed to her. Namely, they were not teleporting at all—they were just seemingly ignoring the terrain and any obstacles that should have impeded them.
+
+For a brief moment, Chixia considered just killing the entire forest and everything within it. A poison fog to take everything.
+
+It would render the Artificial Demons’ body parts that had already died unusable… and such a dispersed strike would be greatly weakened by the Qi void. Using Qi on that when their foe could potentially have more tricks up their sleeves was foolish. It was indiscriminate destruction and she was oh so tempted.
+
+Instead, she settled on a more targeted solution.
+
+“Enlai,” she commanded.
+
+“Yes, Mistress,” her loyal servant instantly responded, getting down on one knee. His red eyes locked onto her attentively.
+
+“Take the Hunter Team—and my favour.”
+
+“Yes, Mistress,” Enlai stated. He had a hungry smile on his face. “We shall bring you its head without fail.”
+
+Chixia opened one of her poison vials and poured every ounce of frustration she had into the technique.
+
+[Butterfly Poison Arts: Hornet Lance]
+
+==================================
+
+Pi Pa swallowed thickly. Her mouth tasted vile. The thing in her chest was swirling gleefully, consuming everything she ate. Each bite drained her, and each churn of the void in her guts replenished what was lost.
+
+But it was going well. Their hit and run attacks had made the enemy falter. They were hesitating, rushing around the forest in disarray, skitting from one point to the next.
+
+Then, that all changed. The demons froze and spasmed. Their eyes, a dull red, began to glow.
+
+They turned back towards Fa Ram, heedless of them both with a roar.
+
+Her Dear snorted. Dark blood marred his fur and little scratches littered his face, but he showed no signs of stopping. He issued forth his challenge again, trying to gain their enemy’s attention.He broke more of their foes—foes that paid them no mind.
+
+Then, the world pulsed.
+
+Out of the forest burst not more demons, but men. They had cloaks and straw hats, save for the leader, who had purple hair and red eyes.
+
+Three of them carried spears. Spears that felt malevolent.
+
+Pi Pa’s instincts screamed. Her Dear shuddered. The humans let fly their weapons.
+
+Pi Pa bit down, and to her shock and horror, her mouth barely closed. The poison lance strained against her maw, trying to ignore the void. It felt like that time she had, at her Master’s behest, tried to use her ability on him.
+
+It hadn’t worked. It had been like trying to fit a mountain into her mouth, and in the end, he hadn’t felt a thing.
+
+This was nearly as bad. She struggled against the feeling, her jaw screaming at her, and the void within desperately pulling—until at last she snapped her mouth shut. It sent her staggering, as the Qi within threatened to overwhelm her.
+
+Her Dear’s tusks met another, shattering the weapon, and cracking his tusk.
+
+Pi Pa opened her mouth for the third. Poison dribbled past her lips as she groaned.
+
+She tried to close her mouth around it. Her Dear twisted to dodge.
+
+But the lance struck true. It hammered into the plates of stone that were Chun Ke’s shoulder.
+
+For a moment, it seemed that the spear had been resisted and that Chun Ke had overcome the blow.
+
+The humans had not stopped moving. The one with red eyes threw himself forward, grasping the spear and heaving with all his might.
+
+Pi Pa bit—but the void did not take him. A small bite appeared on his arm instead of shearing it off.
+
+With a crack—it penetrated.
+
+It did not go deep, but the lance sunk through the top layer of armour and into Chun Ke’s body. The spear made of poison instantly collapsed into liquid and forced itself into the small wound it had made.
+
+Chun Ke bucked, throwing himself around and scattering the men. His tusks swept in a titanic blow. Most dodged, but Pi Pa bit down as one tried to jump. Instead of biting off their leg, it simply grabbed and held him.
+
+The great root tusks hit him and broke him.
+
+Her Dear charged off again into the forest, the woods looking to Pi Pa’s eyes like they were growing and shrinking at random.
+
+Her Dear grunted and staggered, a low moan coming from his throat as the poison started ripping into his body. He shuddered in pain.
+
+Pi Pa coughed and spat out some of the poison that was still in her mouth. It was cloying and sweet and she felt light-headed, but it was nothing compared to what her Dear must be feeling.
+
+‘Dear?’ she asked, frightened.
+
+He snorted and shook his head. ‘Chun Ke fine—’
+
+He was cut off as one of the men leapt at them from the side, coming out of seemingly nowhere. Her Dear managed to dodge, but had to skid to a stop.
+
+And that was when more of them marched out of the trees.
+
+All of their eyes were locked firmly on Chun Ke and Pi Pa. Their weapons stank of foulness.
+
+Her dear’s eyes narrowed.
+
+Pi Pa coughed and shook her head.
+
+Their enemy had learned how to track them.
+
+Both of them stared down their new foes. Steam billowed from Chun Ke’s nose. Pi Pa stoked the swirling thing in her chest.
+
+And then, their enemies were upon them.
+
+==============================
+
+Glittering red eyes appeared in the forest. Gou Ren, atop the walls, swallowed thickly.
+
+Time had been bought.
+
+He hoped it had not been bought too dearly.
+
+He hefted his staff. Tie Delun gripped his hammer. Bei Be let out a little snort. Huo Ten wore a grim expression on his face. A frightful droning buzz came from the hives as Vajra’s soldiers woke up. Meimei was within the fortress with the Torrent Rider, Miantiao, and Shaggy Two.
+
+Gou Ren’s Qi formed around him slowly; thick, heavy, and solid.
+
+The demons were milling around the fence outskirts of the forest. There were small flashes of flaring light from the defensive formation Lu Ri had given them. It had been hastily set up, and from what Gou Ren knew about defensive formations, they needed time to power up properly. More and more and more demons pressed forward, until the light was constant. Some eyes dulled as they fell over. But the pressure continued.
+
+Until with one last flare, the light faded.
+
+The first demon shoulder-checked its way through the fence. A black, chitin-armoured  monstrosity advanced, parts of its body glowing. It was smoking and its face was burned down to the skull.
+
+Another stepped through the hole.
+
+Then another.
+
+The Demons had set foot upon Fa Ram.

@@ -1,0 +1,63 @@
+---
+id: 8c98d58a-bfe2-5cdd-9718-0e902d32b810
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 11- Demon"
+slug: 0074-book-2-chapter-11-demon
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 74
+ownLength: 1079
+unit: words
+publishedAt: 2025-05-20
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2293907/book-2-chapter-11--demon"
+royalRoadId: "2293907"
+---
+
+73:
+
+From his eagle’s eye view, the world within his violet domain seemed like it was moving at an excruciatingly slow pace. Jack instinctively knew that the moment he took a step forward, the instant he willed his body to accelerate, the world would return to it’s normal flow of time for him and with it, he would no longer be able to take complete advantage of the state of heightened perception that his violet domain was offering him.
+
+The feeling of being able to see and perceive everything within the sphere of perception that was his domain was intoxicating, bordering on a narcotic out of body experience that was unlike anything Jack had born witness to before. Even the Sand Stalker that was visible at the very periphery of his new sight, buried dozens of meters beneath the earth as it slithered away from Jack’s group, likely not having noticed their presence or sensed the barrages of Qi that had been exchanged between two enemy groups, which didn’t surprise him because an entire dune separated them from making contact.
+
+He understood the abilities of the violet domain more through instinct than any revelation or profound knowledge, which was the reason why Jack hadn’t charged after the middle-aged man the moment he had disarmed him. Activating the violet domain for the first time had flooded his body with Qi, topping off his Qi Pool nigh instantaneously—- as if all the ambient Qi within his domain had been funnelled into his body immediately after calling upon it—- but forcibly erasing the middle-aged man’s attuned Qi constructs had caused two-thirds of Jack’s Qi Pool to evaporate in an instant.
+
+With a third of his Qi Pool remaining, he would normally have just enough for a Qi Projection, but Jack knew that there was more he could do within his violet domain. He focused his gaze upon the flickers of amber he had noticed earlier, trailing in a path that lead towards the middle-aged man.
+
+The more Jack focused, the clearer the stream of amber fragments got until Jack could recognize what they were—- remnants of the flames that Marcus had unleashed upon the middle-aged man; which made them the remnant energy of his attuned Qi, the source behind which was a Dao.
+
+Since Marcus had been towards Jack’s left and behind him when he had unleashed a torrent of flames, there was a fragment within his reach, moving incredibly slowly before the state of heightened perception Jack had found himself in.
+
+He touched it and once again, words spilled out of his mouth in an alien tongue, instinctive but not unprompted, “Vortala shem'tar”.
+
+“The void remembers!”
+
+Jack watched in fascination as the fragment of the flame Marcus had cast onto the middle-aged man seeped into his palm, disappearing completely beneath the surface of his own hand. The next moment, a spark of violet flickered in his open palm and before Jack could do anything to stop it, deep-violet flames that burned in that same over-eager pattern as Marcus’s did had blazed within.
+
+If that had been all, Jack wouldn’t have taken the step forward, wouldn’t have willingly let go of the state that let him see and discover so much about both himself and his surroundings. But Jack felt a resonance with the deep-violet flames, a direct connection that told him that he could funnel more Qi into the flames and they would not only grow, but also grow in the direction Jack commanded them to— that the flames would obey his command, like Marcus’s flames had done so for him.
+
+So Jack moved and while the world remained violet tinted, the flow of time resumed as normal.
+
+“Jin, start running to the right now!” Jack bellowed at the top of his lungs, as a dazed Jin turned her head from left to right, the confusion in her gaze only growing at the now absent blade that had been pointed at her throat mere seconds ago— until she heard Jack’s command.
+
+Apparently, ‘Jack’s done something’ was explanation enough for Jin as she pivoted right and broke out into a sprint.
+
+The middle-aged man yelped in shock, all traces of his earlier composure shattered as he tried to come to terms with what had just happened and instinctively lunged at Jin with his sword arm, only to once again be confronted by the reality that his weapon had vanished into thin air with his shield— and what he saw was synonymous with what he felt, there were no fog-based illusions at play.
+
+“What the fuck!” The middle-aged man exclaimed as he began to backpedal even as he crossed his arms before him, no doubt intending to summon another white stone shield into existence.
+
+However, before he could manage such a thing, a charging Jack unleashed a torrent of deep-purple flames, charging it with every bit of his remaining Qi Pool.
+
+“Stop this!” The middle-aged man bellowed as his Juvenile Wyrm’s breath armor began to visibly heat up and redden under the heat of the deep-purple flames. The next sound that came out of his mouth weren’t pleading words, but instead angry screams as the Juvenile Wyrm’s Breath Armor began to sizzle and pop, still structurally intact but the middle-aged man was no doubt feeling the heat beneath it.
+
+“I surrender, son!” The middle-aged man croaked out between screams. “Please— Stop—- I’ll fight for you. I’ll do anything. I promise!”
+
+Finally, Jack’s deep-violet flames ran out of Qi to power them, but not before Jack had infiltrated the middle-aged man’s guard, only two steps separating them now.
+
+Jack had to admit that the middle-aged man’s resilience was to be admired, as his face had remained largely shielded from the impact of the flames, with his arms shielding him from the brunt of it and his eyes tightly shut to minimize his chances of losing sight.
+
+But that also meant that when Jack’s blade snaked past the middle-aged man’s crossed arms and punctured his throat, he had only just opened his eyes.
+
+Disbelief was reflected in his gaze as he locked eyes with Jack’s, followed by a visceral fear that would be the last expression he ever made as he dropped to his knees, his eyes still locked onto Jack’s own.
+
+“Shouldn’t have threatened me,” Jack whispered as the middle-aged man fell face forward onto the ground, speaking one final word before the oncoming sand could muddle his voice, in a gurgling rasp,
+
+“Demon.”

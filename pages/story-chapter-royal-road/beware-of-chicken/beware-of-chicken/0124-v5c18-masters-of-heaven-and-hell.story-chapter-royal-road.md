@@ -1,0 +1,145 @@
+---
+id: 91e04de0-7f6d-5ff4-a1e3-9a0b3184ce41
+page-type-slug: story-chapter-royal-road
+title: "v5c18: Masters of Heaven and Hell"
+slug: 0124-v5c18-masters-of-heaven-and-hell
+partOf: beware-of-chicken
+position: 124
+ownLength: 2163
+unit: words
+ownProgress: 2163
+publishedAt: 2024-07-03
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1702752/v5c18-masters-of-heaven-and-hell"
+royalRoadId: "1702752"
+markedReadAt: "2026-06-29T18:55:45.964Z"
+---
+
+Purple eyes opened in a room lit with pale blue candles as Lanxing Yulong exhaled, completing his morning cultivation. He rose and the lights brightened, the shadows in the room receding. The massive stone vault was a good place to cultivate, but he still didn’t like having to do it underground.
+
+Humans were meant for the surface, under the light of the sun—but alas, needs must.
+
+He got up slowly, the bands of light that connected the freckles on his nose dissipating as he put back on his outer shirt and robe. He took a small sip of water from a gourd, then placed it back into his storage ring.
+
+Finally, he approached a small table, the only thing upon it being his mother’s funerary tablet. He clapped his hands twice, bowed his head, and then that too was placed into his storage ring before he exited the cultivation chamber.
+
+“Good morning, Young Master,” two voices intoned as he exited his room. Beidou and Zhigong bowed immediately at his presence. Zhigong held up Yulong’s outer robe, while Beidou stepped in front of him.
+
+“How were the pills this time, Young Master?” she asked, her quiet, husky voice pleasant as always. Her dark purple hair was tied into a braid that went down her back, and her black robes were accented by a sash with blue stars on it, marking her as one of Yulong’s direct subordinates.
+
+“The research teams did a great job with these ones. Much easier to handle, and the loss of power is negligible,” he replied before turning to nod his thanks to Zhigong as he finished putting on his outer robe. The taller man bowed politely, his black hair immaculately groomed as always. He was dressed the same as Beidou. “I’ll be commending Guiying’s teams later today.”
+
+Both of them bowed again as Yulong walked down the brightly lit hallway and towards the main section of the base.
+
+They passed by a couple of menial workers—some of them working on new tunnels or simply cleaning. Every one of them stood and offered a bow and a “Young Master”. They continued on, past a common room where still others in black robes were either training, reading scrolls, or cultivating. They too perked up as he walked past.
+
+“Young Master,” they intoned, bowling their heads.
+
+“Brothers and Sisters,” he replied with a nod and he saw their backs straighten as he continued on his way, more people parting before him. Honestly, the Sea of Snow base was pretty lively, bordering on crowded after he had evacuated the Howling Fang Mountains bases. Even though there were probably thousands of Li of tunnels in this area, they didn’t have many that were fit for habitation currently…and a lot of the new arrivals lacked the cultivation level or ability to live in the darkness without dying. Most of these people would be little good in a real fight, but they had knowledge of their operations and were good at their jobs, so they could be repurposed.
+
+It always took a while to find people with the proper mindset and those who had enough discontent about the Empire to want to do something about it. Lust for power was all well and good, but a proper Demonic Sect needed more than that. His Master had once ordered him to destroy a fellow Demonic Sect. He had been confused at first, thinking they were all in it together… until he got there. Those crazy bastards had open pits of blood, carved runes into their flesh that wept foul Qi, and were dueling and eating each other openly, keeping subordinates in line with only the threat of death.
+
+How disgustingly inefficient. Fear of death was the stick. A man needed a fine carrot to be truly loyal. He had understood immediately why his Master had wanted them destroyed and gladly carried out the execution order.
+
+At least their techniques were fairly useful, after a bit of work, and their bodies had made fine reagents for refining the Artificial Demonic Soldier Project.
+
+His people were a cut above the maddened, raving fools that made up many Demonic Sects, exactly as his Master had taught them. They were no Demonic servants. They were the future, the future masters of the continent, and the saviours of this world.
+
+And speaking of the Artificial Demonic Soldier Project…he pressed his thumb to a door covered in seals, making sure to cut his skin slightly. Blood and Qi mingled on the wards, and the door unlocked, letting them in. He was looking forward to seeing their progress.
+
+He was once more greeted; this time by the demonic scholars.
+
+“Young Master Heavenly Demon,” Shou Tsetung, another of Yulong’s direct subordinates, intoned.
+
+“Brother Tsetung. How goes the work?” Yulong asked.
+
+Tsetung held out his hand and they started down the hallway, towards the containment cells. The doors here were all specially reinforced and warded, as they contained the members of the Shrouded Mountain Sect they had captured.
+
+“Unfortunately, Young Master, we are drastically behind schedule. Shenhe’s subordinates are proving much more resilient than anticipated— I take full responsibility,” Tsetung said with an apologetic bow, sounding regretful.
+
+“There is nothing to be responsible for. Simply continue as best you are able,” Yulong replied. Like he would kill the man for their enemies being powerful—especially when this part of the operation was so delicate. “I know where the true blame lies.”
+
+They stopped their walk as they got to the end of the hallway, where another door was; this one bigger, thicker, and even more warded than all the others. Yulong glanced inside.
+
+The bound form of Shenhe greeted him. She was chained and staked to the ground. Needles attached to reservoirs constantly pumped her full of paralytics, hallucinogens, Qi suppressors and a cocktail of other poisons.
+
+It was to his shame that this was all necessary. He had originally thought his formation had been enough to suppress her. The tricky bitch Shenhe had played like she was out of it and when they had loosened some of the bindings to implant the corruption nodes, she had struck. She had killed two skilled assistants, but more importantly, had nearly killed the previous Head Spiritual Doctor, Lan. The man was still alive, barely, thanks to the reagents Yulong had poured into him, but was still in a coma—lucky to be alive at all after Shenhe had torn out his throat and nearly ripped off his head with her teeth while blasting him with as much lightning Qi as she could muster.
+
+Still, unexpected deaths were why he got his men to share information with each other. Especially for projects as important as this.
+
+Yulong was briefly tempted to go in there and add some Flensing Fire Poison to the reservoirs, but the burst of pain might shake the woman out of her stupor. And that was the last thing he wanted at the moment.
+
+Besides. Master would be here soon to inspect their prize, and then there would be no hope of her ever escaping. “Enough of her. Just continue as best you can. Now, take me to East Wind.”
+
+“By your will, Young Master,” Tsetung said and once more took the lead, heading to another cell—but this one was much, much better appointed.
+
+Within, a young man covered in black carapace armour was sitting. Two horns stuck out from his skull. He perked up when Yulong entered, a wide, almost childish smile on his face.
+
+“Young Master!” he shouted. East Wind, previously Kang Yunru, Young Master of the Ice Wind Sect of the Howling Fang Mountains, was certainly in good spirits for an Artificial Demon.
+
+“You’re speaking now! Excellent!” Yulong said as he sat down with the monster he had created.
+
+“Thank Young Master! East Wind work hard! Glory to Heavenly Demon!” the abomination declared.
+
+Artificial Demons were mindless things. At least, they were supposed to be. Strong, fast, and durable. Brutes without true skill.
+
+At least until now. What had started as a project to simply make them better at fighting had succeeded beyond their wildest imaginations.
+
+Kang Yunru had been at the Fourth Stage of the Profound Realm. East Wind was at the Fourth Stage of the Spiritual Realm.
+
+During the trauma of his rebirth, his mind had been wiped clean of his previous loyalty, and through Yulong’s Master’s formation, it now lay with them.Now, there was only East Wind. Not very bright still… but possessing all of the skill he had in his previous life.
+
+And soon, the Shrouded Mountain Strike Force remnants would be the same. Such would be the fate of all their enemies—turned into loyal servants for the cause.
+
+=========================
+
+After checking up on his various projects, interacting with the men in the Sea of Snow base, and a bit of light sparring with Beidou and Zhigong, Yulong had another appointment.
+
+An appointment that found him in the transmission room. The massive crystals began to glow, powering the connection and the formation—until the hazy and indistinct form of one of Yulong’s allies appeared.
+
+“Heavenly Demon Yulong.” Yulong couldn’t tell if the voice that came out of the projection was slightly mocking or not, just as he could never tell if Huian was a man or a woman. Whatever the case, occasional snide remarks or not, Huian was the easiest of his comrades to work with. Chixia was…well, a bitch, and even though he had never met Lu Ban in person before he died, even second hand the bastard had been a headache.
+
+“Heavenly Demon Huian. I’m guessing Chixia isn’t joining us?”
+
+“She will not. So we should begin. There have been some developments—”
+
+The transmission abruptly cut out. Yulong sighed.
+
+Perhaps five minutes later, Huian came back, their form even more fuzzy than before.
+
+“My apologies. The storm is extremely fierce, and my transmission stone’s formation is…suboptimal,” Huian said, their voice slightly annoyed.
+
+“No apologies needed, Huian. We’ve had to batten down everything on our end as well—and it still smashed in one of the entrances,” Yulong replied. “But suboptimal? How so? Shouldn’t the array be the same there as here?”
+
+Huian’s image wavered. “It's an old base, built close to the Qi desert. Too close, as it turns out. The Qi void destroyed the wards, including all the anti-vermin ones. Most of the pill stockpile was ransacked, the furnaces were full of rat dung or just missing, the technique scrolls have been half eaten or destroyed, including one of Master’s personal techniques. We’ve had to purge the base of mutated weasel Spirit Beasts—half of them were nearly human, and they were chewing on the stones.”
+
+Yulong grimaced. “My condolences.”
+
+Huian nodded. “On to business. Chixia’s target still refuses to commit, and is instead meditating and cultivating.”
+
+“Seriously? What is that woman doing?” Yulong sighed. “She assured us she had control over him.”
+
+Huan shugged. “She continues to assure me of the same, that Elder Zang Zeng of the Shrouded Mountain Sect is putty in her hands, but has said that we may send troops, just to ensure victory.”
+
+“So she doesn’t have control and wants an ambush force just in case she has to fight her way out?” Yulong was tempted to dally, or refuse all together. After months of this, she had finally asked for help?
+
+“Likely,” Huian replied. ”However, though Chixia’s delay was, at first, somewhat troublesome, the extra time for scouting has proven…invaluable. I have something you need to see.”
+
+Yulong leaned forward as the image of Huian was replaced with another image. Most of it was black, with splotches of green—what the demonic scout’s Qi senses saw as it flew over the landscape.
+
+Then, that green abruptly turned to orange and then red.
+
+“The Qi locus is significantly larger than we first thought. And significantly more powerful. And secondly—” the image shifted and Yulong’s eyes widened. “I believe I may be, if not compromised, close to being so. She comes out whenever I fly a scout nearby. Your family’s nose is vexing, Yulong.”
+
+Yulong swallowed as he stared at a grainy image. A woman with green hair, purple eyes, and freckles was glaring up at the sky, her eyes looking around aimlessly, instead of focused on the tiny speck high above that was staring at her.
+
+“...Chixia will have her reinforcements. I’ll send them, along with a Puppet Worm, Zhigong, and Beidou. I want that woman alive. Alive, and unspoiled,” Yulong said, his eyes fixed on the image.
+
+“Keep Beidou and Zhigong. The main base is more important. I’ll send Huoha and Anjing, along with the Blood Blades. I shall get your prize, Brother Disciple.”
+
+Yulong nodded and stood as the connection cut out.
+
+Less than an hour later, Artificial Demons and Demonic Cultivators surged southwest, carried upon a floating platform.
+
+=========================
+
+And in Verdant Hill, an old woman, who had one blind eye and one good one, woke up screaming and foaming at the mouth.

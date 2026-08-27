@@ -1,0 +1,177 @@
+---
+id: 20f9efbc-7bd3-5aae-99fa-055943eb0764
+page-type-slug: story-chapter-royal-road
+title: "v7c23: Old Terrors"
+slug: 0276-v7c23-old-terrors
+partOf: beware-of-chicken
+position: 276
+ownLength: 2000
+unit: words
+ownProgress: 2000
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2993346/v7c23-old-terrors"
+royalRoadId: "2993346"
+markedReadAt: "2026-06-29T19:00:53.780Z"
+---
+
+A great Empress sat within her fortress. She was surrounded by a legion of her soldiers; from the fresh faced newbrood to the grizzled veterans to the massive, armored forms of her Immortals.
+
+All were silent, for their Empress was in a rather foul mood.
+
+A simple task, it was only a simple task! Vajra snarled in the sanctity of her own mind. Her daughters could feel some of her agitation, but not the full embarrassment their Empress felt.
+
+What had begun as a test of her range had started off well; if she had greater range, she could better serve her Master, and with his departure, it became a top priority. How pleased would he be, if his Boozemaster suddenly reconnected with Bane of the Black Lances and created for him a world where he had eyes everywhere?
+
+Surely, they would all be rewarded.
+
+It had been heady to feel her scouts soar on in an ever expanding circle; they had flown past her Lord’s vassals, Hong Yaowu and Smoky River; past the encampment of the Nezin Tribe—and further still, to the titanic hive that was Verdant Hill. It was the most interesting thing in her range; everything else merely being the normal scenes of nature. She had mapped out the flower meadows and fruit trees well by this point.
+
+The human hive was truly a massive place, filled with many of the Emperor’s servants. They toiled for him well, and they were surely obedient subjects, that he allowed them such autonomy.
+
+Or perhaps he just didn’t like dealing with the peasants? Whatever the case, her scouts made it to slightly beyond the far wall of the great human hive before Vajra started to feel the strain of connecting with her daughters.
+
+It was a good range; a fantastic range for just herself.
+
+Before the Winged Demons had destroyed her previous empire, a Queen could use subordinate Queens to dramatically increase the ranges over which they could command their armies; and Vajra had many Queens as her servants indeed. Hundreds of millions had fought and died at her command… even if in the end it had not been enough.
+
+Vajra had been considering making a subordinate Queen of her own… but she was not yet ready for a competitor. Any daughter of hers raised on the royal jelly made within the Emperor’s domain would be beyond all other Queens… and while the Emperor favoured Vajra, she did not know for how long that would last when such an immaculate child was born.
+
+So, it was selfish, but she held off. The Queens of the peasant hives could not aid her either… so there was only one route left; to empower herself.
+
+So she did. She sat in the middle of her hive and concentrated… then told her scouts to expand their circle.
+
+Immediately, the strain had hit. But she had stayed unmoving, like a true Empress.
+
+Every couple of moments, she commanded the cordon to expand. And each time the strain upon her had gotten worse and worse… until at last, Vajra’s concentration had slipped. The majority of her scouts simply disappeared from her senses.
+
+She had expected them to simply fly back into range, and indeed, the majority of them did.
+
+A third of them did not.
+
+Vajra had immediately panicked, fearing some manner of attack, but after a brief moment she had realised that an attack was unlikely. It was too spread out, too random for the distances involved. So she commanded her best scouts to regroup and find their fellows.
+
+With her attention solely on fewer scouts, the strain was less and the range was longer; it did not take them long to find one of their wayward sisters, buzzing aimlessly through the air. Vajra’s mind had immediately reached out, grasping her errant daughter, to demand an accounting of the solider.
+
+The instant their minds connected, Vajra felt only relief and joy in equal measure. Her daughter, who had survived the demons, sobbing like the Prince when denied his favourite servants.
+
+Vajra had been curious, and again impressed upon her the demand that her daughter explain herself for going away without leave and abandoning her post.
+
+What Vajra got in return was The Silence.
+
+She had sent scouts forth before and knew of it; it was why she granted Bane of the Black Lances so many guards, and a portion of her power.
+
+But never before had she felt it so acutely from one of her daughters. The sucking hole in her soul that devoured even thought. The scout had felt like Vajra when she had lost her entire empire. She could feel the panic, the horror, as her daughter’s mind compressed into a single point, rendering her as a dumb animal, not one of Vajra’s elite guardians, charged with the safety of Fa Ram.
+
+And it had been Vajra’s lapse in concentration that had caused it.
+
+How utterly embarrassing.
+
+Vajra immediately set out with salvaging her operation, so she would not lose face when Duke Bi De asked for her report at the end of the day.
+
+She worked as fast as she could, each small brace of scouts zipping along at their best speed, capturing their wayward sisters and returning them to the fold.
+
+Thankfully, they were not particularly hard to find. Some managed to find their way back on their own. Quite a few of her daughters simply landed, so disoriented were they.
+
+But the worst to find were the ones who flew aimlessly, distracted by simple pleasures, rather than their glorious mission.
+
+It was now hour three of gathering her troops and returning them to the fold, and Vajra’s temper was very short indeed… but at least the circuit was completed. She should have all her daughters back.
+
+She glanced at one of her courtiers, one who was most adept at taking roll. Vajra would normally do it, but she had quite the headache at the moment. Her servant danced and wiggled, conveying the readiness of the troops.
+
+One was still missing. One of the southern squadron.
+
+Vajra briefly considered just letting that one be.There were two options; her daughter would return when night fell… or she had been slain. Vajra was not so naive to think the weakest of her forces were invincible. They were no Immortals, who could withstand the blows of demons. They were small, fast, and lightly armoured. A bird or other beast could quite easily slay one.
+
+Scouts died occasionally. Accidents happened. It was not worth her time to find one scout.
+
+And yet she remembered the little graves dug for her army. The flowers that now bloomed above their mortal remains, nourishing the entire hive. The blessing of the Emperor, commending their valiant souls to the heavens.
+
+…no, no one would be left behind.
+
+Vajra sent her scouts out in force once more, to scour the area. Her daughter must have flown off in a truly wild direction.
+
+But after another hour of searching, with the sun setting, Vajra’s temper was beginning to fray even further.
+
+And then, one of her daughters found something. A scent on the breeze. The smell of blood.
+
+The blood of her daughters.
+
+It was faint. So faint, barely staining the grass below.
+
+Vajra felt her heart lurch. She had seen so many die already… and yet for this daughter, for some reason, it hurt.
+
+They scoured the area for a corpse, and found nothing. A daughter, ambushed, slain, and consumed.
+
+The scouts gathered around the location of her demise. There was a certain solemnity to it. They gathered the grass stained with her blood, and another, the seed of a wildflower.
+
+Their antenna touched the ground.
+
+And then, one of her scouts froze. The confusion from her daughter was clear. She didn’t know why, but all of a sudden, from the faintest scent of something she didn’t recognise, she felt fear.
+
+Others gathered around her. They tapped their antennae to the ground.
+
+There was something there. Something so faint it had nearly faded completely. But it sent a shiver up her daughter’s carapaces just to smell it.
+
+For a brief moment, Vajra’s mind jumped to the Flying Demons. She had been cocky, so cocky, wishing for their return. She had boasted to herself that the Flying Demons should all come, so that they could be destroyed by the Emperor.
+
+Yet now that the possibility was there, she felt uneasy. They were still far, far to the south, weren’t they? They had no reason to come north. They couldn’t have grown that much, that they were already hunting these grounds?
+
+Vajra buzzed uneasily.
+
+Her scouts were recalled. If any were sent down here, they would be sent with a squadron of Immortals.
+
+But… should she report this to Duke Bi De? She had no proof. She had no idea if the Flying Demons were even here and the casualty was not caused by something else.
+
+“If you’re worried about something, tell one of us!” the Emperor had commanded.
+
+…Vajra made her choice.
+
+Fa Ram had to be informed.
+
+=================================
+
+To Bi De’s surprise, after lunch, Vajra called an assembly; something she had never done before. She had been unusually solemn and her body language, what little he could tell of it, was very tense.
+
+But it was rare that she asked for anything, and so Fa Ram assembled for her, settling down in the greenhouse. All who had remained at home were there, save for Shen Yu, who had departed earlier in the morning—the man leaving to go and do something he had not felt like specifying.
+
+Chun Ke would be translating, for they still had little luck in parsing her dances.
+
+Bi De was expecting a work rotation change, or something to do with flowers and honey.
+
+Instead, Chun Ke’s brow had furrowed.
+
+“Friend Vajra says there are Flying Demons to the south, and they may be heading towards Home,” his voice dipped into a rumble, and the entire table froze at her words.
+
+The words nearly had Bi De out of his seat, and running to get Lu Ri.
+
+“More demons?!” Yun Ren demanded, his knuckles going white on his sword. Ri Zu’s shadows began to boil, little shadow rats peeking their heads out. Pi Pa’s hands clenched into fists, her eyes narrowing.
+
+Vajra wiggled more on the table.
+
+“Not big demons. Small demons. Things that are not demons?” Chun Ke carefully sounded out. “Things like her.”
+
+“Other Spirit Beasts?” Bi De asked, feeling the knot of tension in his chest start to come undone.
+
+“Yes. A great war; killed billions. Friend Vajra, the only survivor.”
+
+That caused the mood to once again dip. Vajra continued dancing.
+
+What Bi De heard made his mood sour.
+
+Vajra told him a tale; a tale of war on a level that boggled his mind. Millions upon millions of corpses. A ravening horde of hornets that, judging by the measurements, could get longer than their Master’s hand.
+
+And worst of all, they were only a couple days of travel by mortal speeds to the south.
+
+In truth, he was quite confident about his chances against any of these swarming insects. But the numbers were a problem with how far they could spread out. What would happen if they spread out and attacked other villages?
+
+Would they attack at all? Could they be reasoned with? Were they truly his enemies?
+
+Bi De didn’t know.
+
+“My, my, it's one thing after another, isn’t it?” he asked, injecting some levity into the suddenly sombre day. “Ri Zu, some preparations please, for anti-horde duty. We shall scout, we shall prepare, and we shall warn any villages further south.”
+
+He would prepare for the worst… and hope for the best.
+
+And he would not tempt the heavens by thinking something would be easy… but he could be annoyed that they wouldn’t give him a break.
+
+A test had been sent… and this time he would not fail it.

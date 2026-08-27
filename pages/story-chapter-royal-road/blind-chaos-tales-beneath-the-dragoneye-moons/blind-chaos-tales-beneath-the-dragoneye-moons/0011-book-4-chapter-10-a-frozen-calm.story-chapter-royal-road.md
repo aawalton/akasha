@@ -1,0 +1,313 @@
+---
+id: d2b04809-620e-5cb6-9515-9f0644d6267a
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 10 - A Frozen Calm"
+slug: 0011-book-4-chapter-10-a-frozen-calm
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 11
+ownLength: 4862
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2539688/book-4-chapter-10-a-frozen-calm"
+royalRoadId: "2539688"
+---
+
+“Alright babe, have a good day with the shop. I’ll see you when I bring lunch.” Ranthia didn’t always walk Avyna to work, but she wasn’t exactly in a hurry to separate from her lover.
+
+Their relationship was secure, and it felt great. They were official—no more trial, no more uncertainty. And they were mutually in love. It was hard to deny the impulse to dance around Remera, but she was trying to keep herself content with an obvious spring in her step.
+
+“Of course. Take care of yourself, my love.” Avyna delayed for a final kiss—just as wonderful as the other forty-eight kisses they had shared since waking up—then waved Ranthia off while she turned to undo the security enchantments on her shop’s tent. “…That is odd.”
+
+The words brought Ranthia up short, just as she was turning to walk away.
+
+“Prisms! Yesterday… The shop!” Avyna’s voice dipped into an almost shrill range as the realization dawned.
+
+The elf yanked the flap open with excessive force and blurred into her shop. Ranthia was hot on her heels—her partner’s alarm more than enough reason to have her own perception accelerated. Within the shop was…
+
+…a relief.
+
+The shelves still bore products. Even the luxury goods and unsold snacks were where they should be. And there was a small pile of iron coins on the counter, which was the clearest proof of all that there was no crisis. Ranthia’s own panic receded, even as Avyna continued to blur throughout the shop as she took careful stock of everything. Ranthia, for her part, just walked to the counter to confirm her suspicions.
+
+“Okay, looks like the legionaries took things on the honor system while you were out and were… well, honorable.” Ranthia called out—briefly accelerating her perception to keep her words from being maddeningly slow for Avyna—as she eyed the (mostly properly) filled out transfer sheets for contribution credits. There were even attempts to record the necessary information for book rentals.
+
+“…Yes, this seems to match the items that are missing.” Avyna materialized next to Ranthia and exhaled slowly, transfer ledger in hand.
+
+Her ears were definitely reddening though as her panic gave way to utter embarrassment. She really had been upset about learning how much weight ‘love’ had in Creation—there was no way that she would have forgotten to secure her shop otherwise. Not that Avyna had admitted that she forgot, but the situation was obvious, even with her silence on the matter.
+
+“Do you want help getting the shelves restocked and everything cleaned up?” Ranthia offered.
+
+Avyna nodded and the two got to work. Her patrols could wait—some things were more important. She knew Avyna’s layout and stock system, even if she still couldn’t make heads or tails of the rationality behind it. It was one thing for Avyna to explain that the shop was laid out like a faceted gemstone, with the facets flattened across a surface, but even when she handled the stone the layout was based on, she still couldn’t understand the logic. Instead, she simply memorized where everything was.
+
+Between the two of them, it didn’t take overly long to get the restocks done. Avyna was particularly vexed that someone had moved books around on one of her shelves, but she had that corrected by the time Ranthia returned from picking up the day’s goods from the baker legionaries.
+
+“Alright, I’ll see you for lunch. I love you.” Ranthia promised.
+
+“When I find out who messed with my shelf, I will fine them.” Avyna huffed.
+
+“‘I love you too, Ranthia. You’re the best for helping me with the consequences of my own actions.’” Ranthia teased. She wasn’t about to point out that whoever messed with the shelf probably was just trying to help; Avyna knew that as well as she did.
+
+“Yes! All of that and more, my love. But off with you, I need to get the shop opened!” Avyna couldn’t quite keep hold of the giggle that slipped out after her retort.
+
+Fall and winter discontinued their game of dominance and winter bit in hard. The Unbreakable Image had suffered some brutally cold periods, but 4819’s winter rapidly proved itself to be the coldest that the Coalition had faced since the war began. Temperatures plummeted and—much worse—the sky was, more often than not, drizzling. By day there was a light, mostly frozen rain, and by night they were powdered by snow.
+
+Remera became icy, cold, and bitter. The oh-so-handy plates that the base sat atop were great with rain, since they directed water where it needed to be. Unfortunately, they didn’t do the same for ice—it just made the surfaces more than a little treacherous for those with low dexterity. One of the [Mages], somehow, discovered that salt helped mitigate the dangers of ice, but it wasn’t like they had a small mountain of salt hidden away—it was a precious resource. There would be more than a few people that took an Ice class, assuming anyone managed to unlock their third class before things warmed back up.
+
+The shimagu were all but forgotten as Remera’s meetings refocused on weather mitigation. The cold was proving just as bad as the heat had been for people with low vitality—the base plates absorbed extreme temperatures entirely too well—and then there was the other big problem.
+
+“Our armor is going to get people killed.” Was the comment that started it all—one of the [Analysts].
+
+Remus’ armor was amazing for the heat—at least when it didn’t start scalding flesh—but it was almost the worst possible thing to wear in icy, windy weather. The metal soaked up the cold (or however that worked) and the padding beneath the laminar froze if the wearer worked up a sweat. Strangely, armor built for what was increasingly obviously (at least environmentally) paradise on Pallos was ill-adapted for anywhere cold enough that [Mages] had to constantly work to keep their wells from freezing solid.
+
+The solutions were obvious. The dwarves had armor that was thermally stable—what worked for extreme heat helped with extreme cold, as one of them pointed out. Avyna had warned them all that the winter would be especially brutal—a warning/goods forecast from her trading house—and had already sourced materials to improve Ranthia’s linings for both her current armor and her first backup suit. Ranthia couldn’t name a quarter of what had gone into it, but the cost had been easy to swallow—even with Avyna not yet ready to repay the loan.
+
+And yet, somehow, the easy answers were impossible for the Legions to accept. It wasn’t even (entirely) the base commander’s fault; the official policy was that Remus’ best and brightest—likely people back in Remus who had zero exposure to actual cold—were working on it.
+
+At least the base commander decided to requisition multiple barrels of weak wine and granted permission for fires at duty stations. Because a drink of Remus’ worst wine, even one that was served warm, was definitely a meaningful solution.
+
+“Ma’am, wake up.”
+
+Ranthia swallowed the curse that nearly escaped her lips. In that moment, she suddenly considered Avyna’s decision to encourage their messenger friend—Glorine—to just enter the tent and wake Ranthia up directly to be highly treasonous and indefensible. Not that she would have been any happier to have been woken up by the sound of chiming after only an hour or two of sleep. Being gently whispered to and shaken awake was probably preferable. Maybe.
+
+She wouldn’t stab anyone over it, at least. And she was truly glad that at least Avyna was going to get to stay asleep—assuming she was careful enough. Getting her arm out from under her beloved’s sleeping form took a bit of time, and the limb promised to stay numb for a while. Once it was freed, she carefully slid the covers back and escaped the bed—only to pause and readjust the blankets around the elf. Avyna was not going to wake up with a chill on her watch; their tent was far warmer than most, but the air still carried traces of cold.
+
+Glorine was standing stiffly, with her eyes struggling to stay fixed on the fabric ceiling—a somewhat transparent attempt to make herself stop gawking at Ranthia’s naked body or the brief sight of Avyna’s curves. Ranthia just rolled her eyes and grabbed her gear so she could shift into it. She was grateful that Glorine had no night vision Skill, since it meant that her eyes couldn’t bother the woman. She and the messenger then left the tent together while Glorine hurriedly whispered the pertinent details—and may Xaoc bless the woman for waiting. Avyna needed her rest, and a conversation would have definitely woken her up.
+
+In summary: Remera had received a runner from the 15th Legion. They had been operating in shimagu territory, but they were in full retreat, pursued by a “larger force of shimagu.” The legate decided to head to Remera for shelter. They were roughly a day away and the shimagu forces would likely be a quarter of a day—at most—behind them.
+
+The current command tent was packed with basically everyone of any level of rank from both the Reman and dwarven forces. The strongest, bitterest tea that someone could manage was present in abundance and Ranthia found a cup of it thrust into her hand shortly after she entered.
+
+“Ah, Sentinel Grace! Excellent. We’ll need your services; there is confirmation of two twins amongst the shimagu force headed our way.” The base commander, as usual, left out any pleasantries.
+
+She strongly suspected that he didn’t like her. Which was fair, she barely tolerated his existence herself.
+
+“Was there no Sentinel attached to the Legion?” Ranthia asked. If so, it was atypical—but presumably not unheard of, there were more Legions than there were Sentinels.
+
+She took a sip from her tea once she asked her question and—gods and goddesses, that was definitely helping her wake back up. It was awful, but it was (almost uncomfortably) hot and invigorating. Also, it possessed downright unholy levels of scorched bitterness (seriously, did an Inferno [Mage] try to boil the tea instantly?), which made it almost as offensive of a beverage as that alcoholic paint remover had been.
+
+“Madam Sentinel, Sir! Sentinel Mirage was attached to us, but we unfortunately are uncertain as to his status! He and his support team were cut off before the legate called for a tactical withdrawal!” An unfamiliar face barked. His filthy gear suggested that he was the runner.
+
+“Very well, we should operate under the assumption that he’ll show up at some point. Have we sent a runner to Coalition City yet?” Ranthia asked the tent’s occupants collectively.
+
+“Ah’ll be headin’ out ‘oon as ye lot ‘ave a plan ‘n place.” A dwarf in Legion colors answered.
+
+What? She liked the dwarves—a lot—but every now and then she ran into an accent so thick that it took her a moment to work it out. Ah, he was saying he’d head out as soon as they had a plan in place—that made sense. A dwarf [Messenger] serving in the Legions made a lot less sense, but she had better things to do than ask stupid questions out of curiosity.
+
+“Grace, I want you in your standard position when the 15th comes within sight. The twins will no doubt realize the best chance they’ll have to do significant damage is when we’re trying to get our people within our walls.” The base commander ordered.
+
+Ranthia considered it—briefly distracted by the realization that several times as many people were about to be crammed into their walls, by Xaoc, that promised to be awful—before she shook her head.
+
+“No. With two twins, once they have a bead on me, they could easily use one to distract me while the other snuck around. Worse, we don’t know for certain that there aren’t others. That stupid pillar can’t be our plan.” She countered.
+
+“The strategy is not up for discussion.” The base commander declared while he eyed her.
+
+He, no doubt, expected her to back down. Instead, she met his glare with her own.
+
+“With respect, as the only Sentinel on site, I will rely on my best judgment. I’ll put an image atop your pillar, but I’m going to position myself on the wall so I can better respond to any cleverness on their part. If the shimagu attack this base directly, I need to be able to intercept and deflect, not follow them in and hope I can chase them back out.” Ranthia retorted, in her best Sentinel Grace voice.
+
+Really, she wished Remera had watchtowers, preferably including one in the middle of the base, like the Unbreakable Image… acquired. The base was supposed to have watchtowers, but they got axed—from the base plan that was already approved—for reasons that she doubted even Bulwark fully understood.
+
+“…Sufficient, very well. Just make your image a good one. We cannot let them think we lack an answer to their threat.” The base commander nodded his agreement, seemingly magnanimous.
+
+In truth, it would have only served to undermine his own authority had he pressed her, and they both knew it. Ranthia had just damaged their professional relationship a bit further, which ranked somewhere in the bottom one hundred and twenty-eight of her countless priorities.
+
+Ranthia nodded (and carefully didn’t point out that any [Identify]-like Skill would see her images as the fabrications that they were) and the meeting proceeded—remarkably smoothly—from there as troop assignments and strategies were locked into place. For the moment, they were assuming that the 15th would have no contributions and would only be a strain on their supply and service lines.
+
+The runner seemed to have operated under the assumption that they would (inexplicably) do nothing and let the legate take over leadership when he arrived, but the base commander shut him down with a simple “Reme—Launchpoint 8 is under my command, and I will handle my duties as they were assigned by Command.”
+
+Ranthia wished she could have snickered at the man’s inability to avoid using the increasingly formalized ‘casual’ designation. But the atmosphere was too serious. Also, no one else batted an eye.
+
+From there, they moved to logistics and concerns. The biggest problem that stuck out was that they lacked the healing power required to practically screen an entire Legion as they came in and get them in before the shimagu arrived. The dwarven shrubbery [Healer] was their only area healer—but one of the dwarves hurriedly confirmed even he couldn’t quite cover the entire entrance without being placed in the way. Sure, there was the obvious option of dangling the man over the gates, but Ranthia could only assume that no one suggested it purely out of fear of being attacked: dwarves took politeness to [Healers] seriously. Admittedly, there was also the issue that his mana pool would never hold up if a battered, weary Legion moved through his range.
+
+In the end, the consensus was that they had to eat the risk. The [Healers] would remain in the medical tents to receive the wounded, and they needed to step up internal patrols and security postings to try to mitigate the potential for saboteurs to be mixed in with their allies. Best case, they were paranoid for no reason. But, unfortunately, an army in retreat was an easy target for ‘extras’ to slip into the ranks unnoticed. The shimagu had done it before and they would undoubtedly do it again.
+
+The [Messenger] took off as soon as the meeting ended. Ranthia couldn’t exactly watch him go, but the brief bit she saw from the dwarf impressed her—the guy was fast. Not that the runner’s speed mattered much; no matter how swiftly he reached Coalition City, the Legions and generals would be glacial to respond. Last time Remera had been threatened they got a fraction of a Legion that arrived long after the crisis was done.
+
+Ranthia quietly hoped for another Sentinel or two to swiftly arrive at the very least. She did not like her odds against two (and possibly more) twins at once. There were only a handful of people in Remera that might be able to fight a twin if their classes matched up favorably, and the incoming Legion should have other high-level soldiers… assuming they still lived. But she really didn’t want to gamble with her life, not like that.
+
+The dwarven [Battlemaster] was the combatant closest to Ranthia’s level in Remera, but the woman was… ill-suited to fighting one-on-one. Her Sound class was built on the assumption of fighting underground—in the open winds, the sound ‘hammers’ that minced her opponents dispersed too much. She was damned effective against the shimagu masses that were below her level (especially since they seldom had much in the way of reinforcement Skills), but it would take more than a bit of luck for her to be able to take a twin. A dwarven Earth [Mage] and a human Radiance [Ranger] had the next highest levels—mid five hundred or so—but they likely would require a very favorable matchup.
+
+She didn’t even bother asking the runner for information about the Legion’s so-called elite. She couldn’t recall the name (Prime something, maybe?) and she had no interest in hearing puffery about how amazing some deadbeat allegedly was.
+
+The situation was urgent, but once the meeting was done… there really wasn’t anything for Ranthia to actually do. She just needed to be on standby and wait for the Legion—or shimagu scouts—to arrive. Going back to bed was an obvious option, but… Well, she wasn’t exactly in the mood to sleep.
+
+Two confirmed twins, and they couldn’t be confident there weren’t more.
+
+The Legion’s runner hadn’t had any pertinent details about them—gods forbid the idiots that sent him to them armed him with useful intelligence. But she had fought four twins by that point, and she was not liking her odds.
+
+The two that she had fought previously on the front lines—back before she was a Sentinel—had outmatched her in both level and capability. And even if she had the level advantage against the new twins, it was impossible to discount just how dangerous six classes working harmoniously in one body was. The breadth of Skills and elements made them challenging to counter, and the parasite and host in conjunction were able to focus on and process twice what she could. The sneaky (never officially designated) twin in Remus had been a strong shimagu with a weak host—and they still stole a friend from her before she could take them out. She slew the ogress with the element of surprise—and a healthy dose of recklessness that should have gotten her killed. She slew the troll with a combination of foreknowledge, class matchup advantage, and sheer godsdamned luck. But more recently, the winged ogre had proven himself to be a bad matchup for her, though Sentinel Deflection had easily driven him off.
+
+Since that single match, the winged ogre had chosen to avoid fighting her. She wasn’t sure if he was wary of her because she wounded him on their first meeting, if he assumed she was the barrier [Mage] that shut him down effortlessly, or if he was just playing some game. But either way, he was still out there—quite possibly in pursuit of the inbound Legion.
+
+Ranthia wasn’t some [Bard]’s fearless and all-powerful hero. She got nervous. She was—immortality aside—all too human. She had faced her death entirely too many times, but she never looked forward to doing so. And she couldn’t even properly prepare herself because some idiotic Legion commanders hadn’t bothered to send ahead the most pertinent fucking information!
+
+In short, her mind was far too agitated to allow her to sleep.
+
+Back in their home, Ranthia carefully carried her personal altar into the cooking area—Avyna was still asleep—and started to dance before it. She needed to move, even if she was praying. The familiar embrace of her dance made it easier to focus on her prayers. She prayed to Xaoc on behalf of those that had been lost from the incoming Legion. She made another prayer for Sentinel Mirage’s safety. This was followed by preemptive prayers for those that would soon be lost. And, of course, she had to include a (not at all selfish, completely justified) prayer for Avyna to stay protected—to be safe.
+
+Then, there was another. It wasn’t planned—she always tried to avoid selfish prayers. Her respect for Xaoc was without limit, but she served Him—not vice versa. It was never the other way around. She did everything in her power to avoid giving in to her pitiable urges to pray for His intercession. Divine intervention was—by its very nature—the purview of the divine. She had no right, even if she had given in out of desperation during her days at the Unbreakable Image. But for Avyna—for the love of her life—she found herself making an exception. A tiny one.
+
+She prayed she would live to see Avyna again, once the fighting was done.
+
+Avyna woke up and was still in a languid mood when she found Ranthia in the cooking area—actually cooking, her prayers were long done. The elf offered Ranthia a sleepy, playful smile as she drifted closer… but it fell. Either she noticed that Ranthia was in full kit, or she finally sensed her love’s mood.
+
+“What’s going on?” Avyna asked quietly, as her legs consumed the final distance between them.
+
+Her warm hands on Ranthia’s arm felt like a balm—a place of calm in the storm that threatened to consume her.
+
+“A Legion ran into trouble. They’ll be here sometime tonight—by morning at latest—followed closely by what we understand to be a major shimagu army. …And there are at least two twins in the shimagu force.” Ranthia refused to lie to the woman that owned her heart.
+
+Avyna stiffened and fell silent. Her mind was sharp—sharper than almost anyone else Ranthia had ever known—she had no doubt that her elf already fully understood the true weight of the situation. She looked forward to seeing Avyna’s usual problem-solving face, not that she expected her beloved to have a solution, unless she could actually get some elite elven [Warrior] to join—
+
+Instead, Ranthia squeaked in surprise—nearly dropping the ladle in her hand—as Avyna suddenly, and roughly, pulled her into a tight hug. As usual, Avyna showed zero concern about Ranthia’s equipment or armor. A heartbeat later, Ranthia set the ladle aside blindly and returned the embrace.
+
+They just held one another in silence as time ticked by.
+
+“…Can this base withstand such a thing?” Avyna finally whispered, her voice so low that Ranthia barely heard the words.
+
+“I don’t know.” Ranthia honestly answered.
+
+Another silence, this one was longer. The food probably needed attention, but it was hard to remember to care—the moment they were sharing felt too important.
+
+“…We could leave. The two of us could easily escape.” Avyna’s voice carried only the tiniest hint of her pleading tone.
+
+…
+
+Ranthia was tempted. Gods damn everything, she was so tempted. The window of opportunity was closing, but it truly was an option. The two of them could just leave. They would be safe. They would be together. Avyna wouldn’t have to be in danger. Ranthia wouldn’t have to risk leaving Avyna forever, just to try to stop enemies that she might not be able to drive back.
+
+It was unconscionable—but oh Xaoc, she was irredeemably tempted. The possibility was almost intoxicating.
+
+All it would cost her was everything else. It was unspeakably arrogant, but her heart knew that without her… the odds for anyone else to survive would be diminished. There was a real chance that her departure would consign everyone in Remera to death. Avyna’s cherished shop would be pillaged and burned. They might not even be able to get Glorine and her girlfriend out—neither of them had the levels to keep up with Ranthia and Avyna, the shimagu might overtake them if they tried. And that might be the limits of the names Ranthia had absorbed, but it wasn’t like everyone else in Remera was a complete stranger. The commander’s niece was young and arrogant—she still had her life ahead of her. The dwarves that Ranthia admired would face a grand threat without her. The [Analyst] with the perpetually rosy cheeks and the easy smile, the [Mage] that reminded her in some indistinguishable way of Deflection, the legionary [Warrior] that subtly winced every time he clanged his fist against his armor with entirely too much force when he saluted her or the base commander, the washerwoman that gave Remera its name and gained nothing from it—they would all die.
+
+Ranthia wouldn’t just be a deserter if she took the opportunity to escape, she would—rightfully—be branded a traitor. She would never be able to return to Remus and, worse, her friends in Remus would have cause to curse her name and memory.
+
+Also, Night would undoubtedly send a Sentinel or three after her—no, more likely he, himself, would come after her. He was the one knife she could never hope to outlast.
+
+And yet… Gods and goddesses…
+
+“Please, don’t ask that of me… I can’t…” Ranthia never even noticed that she was trembling.
+
+“I know, my love. I apologize, I should never have said that.” Avyna whispered soothingly.
+
+“I’m sorry…” Ranthia whimpered. The words repeated themselves several times and she lost track of who she was even apologizing to.
+
+It was one thing to have an escape plan if the base fell—after she had truly tried to save people. But to be so fucking tempted to abandon the battle before it began… She could never hold enough guilt to make up for it.
+
+More than a few tears later, Avyna and Ranthia wrestled their fears and emotions back into some semblance of control. They ate a meal together that neither tasted—which was for the best, the sauce had definitely scorched. They read books with their hands joined, their eyes tracing words that vanished from their minds as soon as they read them. Rare and brief were the moments that they went without some form of physical contact as the day proceeded.
+
+Each of them pretended—quite poorly—that she was just fine. They tried to be strong for one another, as best they knew how.
+
+Ranthia kissed Avyna farewell when the sky darkened. It was a tentative, uncertain kiss that neither wanted to be the one to break. Duty finally forced Ranthia to take her lips from Avyna’s. She smiled and cupped her beloved’s cheek with her hand and allowed the lie that she would be back soon to spill from her lips. Avyna set her hand over Ranthia’s and vowed that she would be there, waiting for Ranthia’s return. No matter what.
+
+While Ranthia tried to figure out how to properly secure the helmet that she never wore—it finally felt prudent—Avyna started to string and prepare a wooden, enchanted bow that Ranthia had never even known was in their home. That terrified her enough that she sought a distraction.
+
+“Wish me luck.” The words weren’t directed to Avyna; she had found herself in front of mage-rock and saluted it out of habit. The tile it sat on was inert—the inscriptions that once made mage-rock special were long dead—but mage-rock’s nature never changed in her eyes. She hadn’t ever been able to see the lie, so it remained the truth in her heart.
+
+Mage-rock, of course, did no such thing. Still, as ridiculous as it sounded on its face: she felt like she drew some form of strength from mage-rock’s stoic, certain silence. It felt like there was a profound lesson to be found there and—okay, Avyna was absolutely staring at her. And not in a good way.
+
+“I love you.” Ranthia turned back to Avyna one last time, unable to stop herself from stalling just a bit longer.
+
+“<And I love you. Go, show them—>” Avyna answered in her own tongue. And, amazingly, Ranthia understood… almost everything. The final word was beyond her, but that was okay.
+
+She had many things to show the shimagu. Her tenacity. Her brutality. Her grace.
+
+She would show them her will to survive.
+
+[Name: Ranthia]
+
+[Species: Human]
+
+[Age: 32]
+
+[Mana: 525770/525770]
+
+[Mana Regen Rate: 324895]
+
+[Stats:]
+
+[Free Stats: 0]
+
+[Strength: 33810]
+
+[Dexterity: 71572]
+
+[Vitality: 72006]
+
+[Speed: 70063]
+
+[Mana: 52577]
+
+[Mana Regeneration: 64725]
+
+[Magic Power: 54309]
+
+[Magic Control: 43383]
+
+[Class 1: [Diffuse Reflectance – Mirror (615)]]
+
+[Mirror Spirit: 615]
+
+[Scattered Reflections: 615]
+
+[Echoes Reflected: 318]
+
+[Pure Reflections: 615]
+
+[Persistent Imagery: 615]
+
+[Ideal Reflectance: 615]
+
+[Distorted Likeness: 201]
+
+[Reflections of Reality: 395]
+
+[Class 2: [She who Dances with Chaos – Void (632)]]
+
+[Void Affinity: 632]
+
+[Rhythmic Grace: 632]
+
+[Void Edge: 632]
+
+[Flowing Momentum: 632]
+
+[Vision of the Void: 632]
+
+[Sustained Chaos: 580]
+
+[Echoes of Devastation: 632]
+
+[True Grace: 425]
+
+[Class 3: [Harbinger – Adamantium (193)]]
+
+[Magic Metal Authority: 193]
+
+[Adamant Commander: 193]
+
+[Unbreakable: 193]
+
+[Mine!: 105]
+
+[Adamantium Symbiosis: 193]
+
+[One With Chaos: 137]
+
+[Higher Power: 105]
+
+[General Skills:]
+
+[Divine-Touched Identify: 632]
+
+[Ranthia’s Covenant with Xaoc: 167]
+
+[Sentinel’s War Supremacy: 632]
+
+[Submind: 632]
+
+[Combat Awareness: 632]
+
+[Fast Learner: 473]
+
+[Image Recall: 312]
+
+[Sexy: 266]

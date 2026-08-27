@@ -1,0 +1,301 @@
+---
+id: 7f4cb976-1fd6-5af1-8ad9-9f7c231be222
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 19 - Lives Lived, Lives Lost"
+slug: 0021-book-4-chapter-19-lives-lived-lives-lost
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 21
+ownLength: 5979
+unit: words
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2661871/book-4-chapter-19-lives-lived-lives-lost"
+royalRoadId: "2661871"
+---
+
+Neither Ranthia nor Avyna encountered that horrible [Bard] again. This made Avyna suspicious—no matter how often Ranthia affirmed she hadn’t done anything—until she confirmed with someone else in the caravan that the woman was still with them. Ranthia was just glad when the elves finally left a couple of days later, taking the menace out of sight and—hopefully with time—out of Avyna’s thoughts.
+
+Her beloved needed happier days.
+
+Ranthia’s birthday was heralded by a night of harrowing nightmares, each more brutal and twisted than the last. Nothing truly made sense, but the sensations of her body being cut, torn, and broken were far too realistic. The muted sensations of pain were never acute enough to wake her, but they ensured that she woke up hot and sweaty, with Avyna having scooted away from her in her sleep.
+
+Ranthia got up and sighed while she threw out an image and shifted into it. In all honesty, she hadn’t really been looking forward to her birthday. Avyna had reacted with open mirth at the Reman culture of celebrating every birthday (according to her, elves only celebrated birthdays that matched levels/class unlocks and preferred to celebrate achievements), yet she had also tried to insist on a large party for most of the base too. She had finally agreed to a small lunch party with Glorine and Gailla, with Ranthia and Avyna spending the day together otherwise, but Ranthia was starting to regret even mentioning her birthday.
+
+Avyna was the only person in Remera that could even know that Ranthia was turning thirty-three. If she intended to live beyond her mortal allotment of years, her immortality—her curse—had to stay a secret.
+
+And, in her sour mood as she moved to silently pray at her altar, she found herself wishing that she had agreed with Avyna’s sensibilities. Celebrating her birthday as if she was still just a Reman Adventurer was a mistake.
+
+Pallos’ cutest little yawn pulled Ranthia out of her mostly silent prayers—which was perfect timing since she was nearly out of mana. Ranthia stood and blew a kiss to her drowsy lover before she slipped through the dividing curtain and moved to start breakfast.
+
+“No! My love, out! No kitchen for you!”
+
+Ranthia blinked as her beloved—still wonderfully undressed—elf blurred through the curtains at speed and physically shoved Ranthia away from the kitchen. Wasn’t she just half-asleep?!
+
+“I was in the mood to cook for us!” Ranthia confusedly protested. She liked cooking!
+
+“I shall prepare our food. There are things in there you are not to see!” Avyna chided, even as she slipped on a robe that must have come from her Spatial storage Skill.
+
+Ranthia found herself pouting for a second reason, until she was distracted by a larger mystery. How in Xaoc’s glory was there something in the cooking area she wasn’t supposed to see?! There hadn’t been any caravans for a couple of weeks!
+
+Ranthia set aside her confusion and feigned her initial grumpiness until Avyna gave her eight kisses—each more wonderful than the last—after which she was mollified. As such, Ranthia accepted her banishment and returned to their personal area to settle onto the chaise (it was nice finally having a word for the ‘bench’) with her current reading project: a High Elvish book of songs that had been popular across the past eight centuries. It was a dense tome, and it was definitely more challenging than her current proficiency with the language could handle—she was forced to turn to other books and/or her notes to find meaning from unfamiliar words all too often. But ever since she had learned that Avyna possessed an exquisite singing voice, she was eager to find some excuse to hear it again.
+
+It would be a tragedy if Avyna kept her passion for music sealed away just because of her horrible ex!
+
+Once breakfast was ready, Avyna surprisingly insisted on feeding Ranthia every bite. It wasn’t exactly practical, but it was sweet and Ranthia was all too happy to play along. The best part was how Avyna gave her each sip of the pear juice, even if it was a touch messy—Ranthia never turned down any excuse to lock lips with the woman she loved.
+
+After which, Ranthia expected to escalate things, but Avyna—the cunning minx—convinced her to accept a massage instead. The richly scented, woody oils were unlike any Ranthia had experienced before, and even without any dedicated Skills or classes, Avyna effortlessly put Sunrise to shame. Ranthia was left a boneless, blissed-out mess, that lingered even after Avyna smugly left her to recuperate.
+
+Recovery resulted in an unplanned nap.
+
+Ranthia had zero doubts that Avyna was trying to keep her distracted. Her sneaky, sweet elf continued to flit between different means to keep Ranthia occupied and away from the cooking/hosting area of their home. Her [Merchant] savviness even coerced Ranthia into wearing a new outfit for her own small party—an elven dress that proved to be absurdly complicated to put on. The green fabric wasn’t like any material Ranthia had ever seen. It looked like a solid color, but a different set of subtle patterns appeared depending entirely on the direction of the lighting that caught the dress.
+
+More annoyingly, it had elegant golden chains—that looked extremely fragile—that formed a complex pattern across the surface of the garment. Ranthia found herself hating them as she struggled to get them in place and secure.
+
+It was pretty and Avyna was wearing a blue-and-platinum version of the same dress, which provided just enough incentive for Ranthia to keep trying to figure out the convoluted garment. Honestly, Avyna had made it look easy.
+
+Finally, Ranthia got everything settled and, at that very moment…
+
+“My love, our guests are here!” Avyna called out as she poked her head through the curtains.
+
+“How in Xaoc’s glory could you have possibly timed that?!” Ranthia sputtered, openly staring at her beloved in disbelief.
+
+Avyna just offered a mysterious, yet playful smile—okay, yes, it was an incredibly sexy expression that momentarily stalled Ranthia’s mind—before she returned to their guests. Ranthia took a moment to recompose and convince herself that it had to be a fluke (there was no way Avyna could have predicted to the moment both their guests’ arrival and the time Ranthia needed to get dressed… right?) before she joined the others.
+
+Gailla was fidgeting with an oversized fruit tart—the promised dessert that Avyna had ordered from her baking associates—adjusting where it was positioned on their surprisingly full table. Glorine was, increasingly unsubtly, attempting to signal to her perfectionist girlfriend that Ranthia had arrived.
+
+The tart smelled amazing, providing a hefty note of lemon, with sumptuous slices of fresh pear splayed out across the surface of the confection. The aroma was gorgeous, though it finally clued Ranthia in that the only food scents in their home seemed to be it, the bowl of salad, and the fresh, hot bread—all already on the table.
+
+But before Ranthia could start to feel too disappointed or confused, Glorine—visibly flustered—finally grabbed the sides of Gailla’s head and lifted her gaze up to Ranthia.
+
+“Oh! The woman of the day! Happy birthday! Rine said you wouldn’t be interested, but my hometown had a tradition of singing a song for people’s birthdays—I’d be willing to sing it!” Gailla announced, with a large grin.
+
+Glorine just buried her face in her hands.
+
+“That’s fine, I’m just glad the two of you could make it!” Ranthia answered with a laugh. She had heard Gailla sing before—it was… an acquired taste.
+
+Ranthia moved to hug her friends, but she paused—a familiar aroma had suddenly filled their home. Ranthia turned to find Avyna carrying a stewpot from the cooking area.
+
+“It can’t be… is that…?” Ranthia didn’t dare to hope.
+
+“Only the best for you, my love. Rabbit stew—I had Pandia get information from her wife and Lady Green about how you prepared it.” Avyna replied with a grin.
+
+With unspoken apologies to their guests, Ranthia had to hug the love of her life first—and sneak a few kisses—once the stew was safely set on the table. She hugged her friends second (sans kisses) while she tried to settle her emotions. Her 33rd birthday was already better than the too-large party and lingering revelries of her 32nd!
+
+Food was next. Ranthia still had lingering questions about how Avyna managed to keep the aroma contained, but the answer was almost certainly “enchantments.” Instead, she focused on savoring the rabbit stew. It was a valiant recreation of her own recipe. Sure, there were details that Ranthia could have quibbled about had she been a terrible person, but she was so touched that it was practically the best thing she had ever tasted.
+
+Ranthia may or may not have eaten entirely too many servings, then while she relished her full belly, she was plied with gifts. Glorine gave Ranthia a pouch filled with roasted and seasoned nuts, snacks that could be kept for a good while (“For when you get stuck on top of that tower of yours.”). Gailla shyly gave Ranthia a small, framed mural made out of painted wood and stone chips that she had made (“It’s just a hobby, but I thought this was one of my best works.”). It was supposed to be artwork of Ranthia and Avyna side by side. The accuracy of the likenesses was dubious, but Ranthia was touched and Avyna clearly found the vibrant artwork to be very pretty.
+
+Avyna found a place for it immediately on the fabric walls of their home.
+
+“And from me, my love, I swallowed my pride a bit and ordered this in…” Avyna explained while she presented Ranthia with a small wooden chest.
+
+Inside were four of those little brown confections that Avyna was so taken with.
+
+“Oh, wow! I thought these were expensive?” Ranthia gasped.
+
+“They are, but… well, I wanted to celebrate you properly, my love. Though I do hope you will choose to share.” Avyna winked salaciously before she leaned in, speaking in a huskier tone. “I’m also wearing your other present under this dress.”
+
+Glorine’s face turned red while Gailla nodded approvingly.
+
+Ranthia laughed and leaned in to kiss Avyna…
+
+…Only to be interrupted by the sound of horns blasting an urgent warning a mere moment after their lips touched.
+
+Ranthia wasn’t entirely sure if she or Avyna was angrier about the interruption, but she scrambled for her armor.
+
+So much for a great birthday!
+
+Sixteen days later, Ranthia stood on her stone pillar. The winged ogre was atop the former battering ram opposite her, making threatening gestures at her while she grazed on Glorine’s nuts and watched the skirmish below.
+
+The shimagu assault force had approached Remera from the wrong direction—having cut into Coalition-controlled territory while they marched—which managed to bypass most of Remera’s scouting efforts. The base commander was still livid—as if he wasn’t responsible for the patrol routes—but Remera still had enough warning to harden its defenses and send word before their enemy reached them.
+
+It was an unusual conflict, with intermittent actual skirmishes that were surprisingly small in scale. The shimagu had formed a camp just within view of Remera and periodically sent a subset of their forces forward, matched by a similar number of legionaries and dwarves. Three days prior, they had actually had an hour-long contest that concluded without a single fatality on either side.
+
+Most of the base’s leadership seemed pleased by the change, but Ranthia’s nightmares had been worse than ever—during the rare moments she was able to steal brief naps. The situation reminded her entirely too much of what life was like in the Unbreakable Image while the troll twin toyed with them and trained. War, stripped down to mere games where each side postured.
+
+Ranthia knew that she should be fine with it. Wasn’t a pointless contest with minimal loss of life better than rank butchery? It was obvious that the winged ogre would have loved to die by her blades (oh, sure, the idiot probably assumed he would win if they truly fought, but Ranthia was focused on the true outcome), but they were both bound by the ‘strategies’ of others.
+
+Besides, he wasn’t the sole (purported) twin. He had only flown in more recently. The first day, another ogre—a big guy with a spear almost as outlandish as the trainee she had accidentally convinced to leave the Ranger Academy—had climbed the shimagu tower of wood to “oppose” her. His levels were a bit behind her own, with the exception of his third class having ninety-eight levels above hers (Steam, Gale, and Gravity). But he wasn’t the only new face.
+
+There was a human archer too, barely into his third class, that was almost as bored as she was on top of the tower. Tentatively, he was her favorite twin that she had encountered to date; instead of glaring at her or making threatening gestures or ridiculous poses, he had wordlessly proposed a game to pass the time. One of them would hold up a number of fingers, concealed by their other hand, while the other tried to hold up the same number of fingers—with bonus points for matching the same fingers raised. It wasn’t much, but it was preferable to doing absolutely nothing for days on end—even if the base commander ended up petty and irritated with her every time she finished such a shift.
+
+The twins (both confirmed and self-declared) only showed up one at a time, and her opponent always ascended their own tower—which kept her bound to Remera’s. The official word was that Remera wasn’t requesting reinforcements so long as their enemy remained honorable, which meant that Ranthia’s abundance of time to spend on her Avyna was at an end.
+
+Midsummer was hot and entirely too dry. [Mages] that weren’t on wall duty deepened their wells to try to accommodate the prolonged dry spell, but they were still reliant on deliveries from Sentinel Aurora’s [Starship] to avoid rationing. The only downside was that the water she delivered was seawater that had been purified and desalinated with Skills. It was perfectly safe to drink, but it still had an indescribably ocean-y taste that made it vaguely unpleasant to drink.
+
+Fortunately, Remera was predominantly manned by war-hardened legionaries—men and women that were far too disciplined to complain about such a minor issue.
+
+…They weren’t throwing the base’s leadership to the shimagu. Yet.
+
+Another day of standing around concluded when the winged ogre took flight and returned to the shimagu camp as the sun set. There hadn’t even been a single skirmish between their respective forces, just the two of them wasting their day staring at each other while the winged ogre cycled through his pathetic efforts to intimidate her—seriously, the dumbass needed to, at the very least, come up with fresh material.
+
+Ranthia was feeling lazy (among other things), so instead of climbing down, she just sent an image atop Remera’s walls and shifted to it. She dismissed her abandoned image while the ever-present mousy Sound girl reminded her to attend a debriefing with the base commander—as if Ranthia was somehow unaware of the routine after the bulk of her summer had been spent living it.
+
+The meeting didn’t eat up too much time; even the self-important base commander could only make so many demands of her when literally nothing happened. It was just another hour of her life. And there was no small amount of loathing involved in that somehow becoming her standard for a ‘brief’ meeting.
+
+Gods and goddesses, she needed some Avyna time. She just wanted to get home and pounce on the one source of happiness she had left in the world! Which meant that, naturally, she was less than halfway home before she was stopped again—this time by the moonlit glow that covered Remera becoming replaced by a dazzling array of vivid hues.
+
+Ranthia didn’t even need to look up, she was getting used to the effect caused by Sentinel Aurora’s [Starship] arriving once again. By necessity, the supply line Sentinel kept her visits randomized—Xaoc knew what the shimagu could do if they could ready a trap specific to her—which meant that Remera was just as unprepared as their hostile neighbors were.
+
+The dazzling constellation made manifest descended rapidly, even as the [Mages] on levitation duty scrambled to prepare for the supplies. Aurora was still unable to land in Remera, since the powers that be declined to provide Remera with adequate arcanite to allow her to reform the vessel. This left Aurora vulnerable while supplies were ferried down safely (airdropping water barrels was almost as stupid in practice as the idea sounded).
+
+Which meant that Ranthia needed to hitch a ride up with the [Mages] to help protect the stupid, beautiful bit of Skillcraft.
+
+“Grace.” Sentinel Aurora’s tone was all business, but she saluted Ranthia—which, for Aurora, was a warm gesture of camaraderie, when it wasn’t strictly required by circumstances.
+
+“The parasites been any trouble?” Ranthia asked with a companionable nod, keeping a wary eye on the not-distant-enough base.
+
+“Weirdly quiet lately. Had a few pteros fly away from me earlier this month and I can’t even say if they were wild or infected. This war is all kinds of nonsense; I would’ve rather served against the formorians.” Aurora replied, as she leaned against the starry mast of her own Skill.
+
+They were both ignoring the [Mages] that gathered their weight limit of supplies and descended. After so many repetitions, they could be trusted to grab what was meant for Remera without causing any problems for Aurora’s other deliveries.
+
+Ranthia nodded her agreement with the sentiment. The shimagu base seemed to still be quiet, but she wasn’t about to drop her guard. The winged ogre rarely flew above Remera—they had artillery enough to make him pay for the attempt—but wariness was inescapable in times of conflict.
+
+“Oh, damn. Nearly forgot! Message for ya.” Aurora called out.
+
+Ranthia blinked and caught the scroll—sealed with the Hyrria insignia, which meant it was from Tertia—and peered quizzically at Aurora. The woman had to have been carrying the scroll on her person, which was… unusual.
+
+“Got it from some retired Ranger when I finally went back to Ariminum a few days ago. She slipped me sixty-four rods to get that straight to your hand as soon as I could.” Aurora explained, not caring that they had an audience to her admission of taking a bribe.
+
+It was weird, but Ranthia shrugged it off. For all she knew, maybe paying sixty-four rods as a bribe was cheaper than sending it normally—messages from Remus had been growing increasingly less frequent for most of Remera. She could read it later, it wasn’t like the scroll was going anywhere.
+
+Ranthia returned to her watch until the [Mages] announced they were done. With that, she traded salutes with Aurora one last time and leapt directly off the side of the [Starship]—sure, one of the [Mages] would have happily given her a ride, but she was ready to get home!
+
+Ranthia stepped into her home and laid eyes on the beautiful elf that was the light of her life—waiting near the entrance. At last, Ranthia’s paranoid vigilance fell away, and her world narrowed to the woman with the radiant smile that was about to greet her.
+
+Ranthia didn’t even bother to slow her perception. With the full breadth of her stats, she tossed the scroll in her hand gently toward the table and rushed to seize Avyna. A fiery, needful kiss was an ample greeting. Once she was confident that Avyna was returning the kiss with as much fervor as Ranthia offered it, she carefully—yet roughly, elven fabrics were durable—pulled Avyna’s garments open as she steered her lover toward their dining table.
+
+She was hungry for something other than food, but it was an acceptably close surface.
+
+“Um, hi?”
+
+Ranthia froze, her tongue still between Avyna’s lips, as she forced her world to widen just enough to recognize that they had company. Gailla was holding the scroll that Ranthia had tossed and was waving awkwardly with an openly amused smile. Glorine was seated next to her on the bench, her face practically ablaze with a frenzied blush as she tried to stop herself from gawking.
+
+Ranthia’s desire warred with her baser emotions. Their friends were well below their level—neither woman had her third class—which gave Ranthia a few precious moments to make up her mind.
+
+She separated her lips from Avyna’s—and managed to resist the adorably disappointed pout on her elf’s face—before she clumsily tugged Avyna’s clothes more-or-less back into place.
+
+Guests. Sure. She could be polite and spend some time with their friends.
+
+With a rictus smile forced through the blush that had consumed her face, Ranthia greeted their guests.
+
+Alcohol and laughter helped. Ranthia’s frustration and disappointment soon were dislodged by the social lubricant and the warmth of friendship. Before she started to serve Ranthia, Glorine used to work as a messenger for a stodgy, rule-obsessed minor Legion official who assumed her word was all-important. Ranthia was practically undone by hysterical laughter over a story of Glorine’s former boss attempting to wield her tiny amount of power against a Legion logistics officer who kept responding to every message with a simple “No.” While the woman attempted to write longer and more formal and weighty messages to get her way.
+
+By the time Ranthia and Avyna saw their—somewhat unsteady—guests out, Ranthia finally felt like herself again. Avyna offered her a promising kiss and offered to get things cleaned up before she joined Ranthia in bed.
+
+Some things were more important than whatever amount of sleep she managed to snatch before the horns woke her up.
+
+Ranthia happily grabbed her forgotten scroll and cracked it open while she discarded her tunic. While she waited for her lover, she could enjoy the words of another close friend.
+
+Greetings to Ranthia, the Graceful Sentinel, from Tertia of the house of Hyrria.
+
+“What in Xaoc’s name…?” Ranthia stared at the opening line. It felt stiff—formal enough that Ranthia had to squint at the handwriting to convince herself that it was actually from her closest friend. Tertia had never written like that in her previous messages.
+
+After another two paragraphs of dense language and hollow substance—empty pleasantries delivered with rigid purposelessness—Ranthia finally reached the point of the letter.
+
+It is with a heavy heart that I scribe these words. I have just left the Ranger Convocation, and it is my greatest hope that I am the first to provide you with word of what I have just learned. With condolences and shame, I report to you that Pyra—bereft of additional names—and Juvenae—similarly bereft—have perished in the year 4819 while serving their duties with Ranger Team 11.
+
+All traces of Ranthia’s good cheer vanished.
+
+“No…” Ranthia whispered, unaware that she had already whispered the same word multiple times while she read the dark message.
+
+The rest of the scroll was a bleak read. Tertia had retreated into a businesslike, cold demeanor—which meant Ranthia had to wrestle with her impatience with her friend’s needlessly obtuse wording to find the nuggets of agonizing truth. Tertia had spoken to the team’s leader—Helvius, a man Ranthia had met, alongside a hale and happy Pyra and Juvenae—and transcribed her take on the story he provided.
+
+Removing the formal horseshit left Ranthia digesting a terrible tale. A small group of Legion deserters—trainees that had never even seen combat and couldn’t even stomach the gentle abuse of whatever training the Legions did—had taken over a small farm. The Rangers encountered the displaced family and agreed to help. Eight fully trained Rangers—four of which were veterans of multiple rounds—against six half-trained Legion dropouts.
+
+It should have been easy.
+
+And it was—with a single, horrible exception. A level 97 kid—some nobody with low levels and mediocre talent—got a lucky shot off. A moment before the party’s heavy smacked him down, the kid loosed an arrow.
+
+And Pyra was gone.
+
+The arrow took her through the eye. She was killed instantly and without suffering—the coldest of comforts. Juvenae methodically eliminated the rest of the traitors and took it upon herself to use materials from the farm they had secured to build a grand funeral pyre. Her team leader elected not to stop her, and instead they bore witness to the pyre’s ignition.
+
+They wandered off to deal with the damage and to find the family that owned the farm again while Juvenae stoked the funeral pyre as hot as her Pyronox could make it. A grand roar of dark flames.
+
+When they returned, they found that she had joined Pyra in the conflagration. The official word was that another traitor had hidden themself and attacked her while she was vulnerable, but neither Tertia or Ranthia had any doubt of the truth: Juvenae had thrown herself into the fire.
+
+The woman had always been complex and hard to read, but it was obvious that she had decided that she couldn’t live on without Pyra. The love the two shared was something that was foreign to Ranthia, but it had worked for them. They had a more distant happiness than Ranthia could accept, but it was their happiness.
+
+Together they went through life, and together they entered Samsara.
+
+Ranthia had—more-or-less—accepted that her immortality meant she would lose what few friends she had over time. That her last, tenuous connections to Remus would gradually be erased. But for Xaoc’s sake, she was only thirty-three—she wasn’t even considered old for a mortal human, at least for any metric outside of marriage.
+
+But being a Ranger was even more dangerous than life as an Adventurer. She knew that. Gods and goddesses, just a couple of years ago, she’d scolded herself for assuming that Lysia would survive the round. Black Crow had a dark sense of humor—Lysia was plainly still alive, but the bastard took two of her other dear friends in exchange.
+
+“My love. …What is the matter?” Avyna’s voice shifted from sultry to concerned.
+
+Ranthia wrapped her arms around her beloved as soon as Avyna reached her. She clung tight to the one constant in her life that she could hope to hold on to while she tried—and failed—to find the words to describe what she had learned. Every option felt hollow, as if she was failing to capture the true depth of what she had lost. Pallos had grown poorer seasons ago and she had never even known.
+
+Summer came to an end and autumn arrived. And with it, rare and terrible interruptions to the performative stalemate began. Larger attacks from the shimagu came without warning, between the games. But even then, Ranthia was still trapped atop her stone tower—where she kept some presumed twin in check by standing there—while men and women valiantly died all around her.
+
+At some point, Ranthia had grown to truly despise warfare. Her entire career as an Adventurer—and, later, as a Ranger—had simply required her to find a problem, point herself (and her team, when she had one) at it, and break the problem with overwhelming force. War was materially different. It felt more like a fact-finding mission: a narrow role where her use of violence was aggressively discouraged. Just like with most fact-finding missions, Ranthia was forced to witness and learn of horrors, then she was forced to hope that someone, someday, bothered to resolve them.
+
+The base commander and whatever Legion faction produced him favored a slow war—one intended to minimize human losses. In a lot of ways, it felt like they sought to recycle her understanding of the strategy used against the formorians: a defensive war while humanity sought to gradually expand Remus’ territory until their enemy was somehow defeated.
+
+The ironic thing was that the strategy had failed back then, too—humanity pushed until it resulted in a desperate, all-out battle for survival when the formorians surged. Were it not for the Sentinels and, allegedly, a literal divine miracle ending the formorian queens, Remus might have fallen under the tides of chitin. Instead, the formorians were utterly wiped out.
+
+It was hard to believe that the war against the shimagu would see better results from the short-sighted strategy. Remera’s defensive posture was strong, but the shimagu barely took more losses than they did. Remus wasn’t gaining any ground there; their supposed key launchpoint—as if Remera had ever seen much use as a staging ground for larger pushes into shimagu territory—was in check.
+
+Avyna had likened the manifestation of the strategy to elven tactics, and she was right. Unless something changed, they were in a war that could take two hundred and fifty-six years to resolve. But there was an open question about what had happened with the alleged grand push of the Legions toward one of the shimagu cities—even with summer done, that was likely still underway.
+
+“Gods and goddesses, you’re breathtaking.” Ranthia whispered in awe as she ran her fingers through Avyna’s hair.
+
+It was flattery, but it was true. No matter how many times she got to behold her lover, she was wowed all over again. She couldn’t imagine any form more beautiful—more perfect—than the woman she shared her heart and life with. The bleak casualness of war weighed on her, but she still felt as if she was blessed by Xaoc Himself each and every time Avyna chose to share her body with her.
+
+“Mmm, flatterer.” Avyna purred.
+
+And then the all-too-familiar chiming of bells filled their home. Avyna frowned with amusement while Ranthia tried to swallow her frustration—she was starting to hate that sound almost as much as she loathed the sounds of the base’s horns.
+
+Though seriously, who the heck was visiting them so late? It was mid-winter and the weather of the wasteland that housed their farcical war was just as extreme and hostile to life as ever—it was cold out there.
+
+Avyna made the decision before Ranthia could. She slipped away and seized a robe as she hurried to the hosting side of their home, leaving Ranthia to snatch up her mistweave tunic as she followed.
+
+They opened their flap to find Glorine—cold enough that it paled her lips and colored her cheeks.
+
+“Hi, sorry for stopping by so late. I just… Well, I wanted to ask for your help with something, both of you! I, well, since shimagu attacks have been scarce for a while now I’ve been thinking and I know I’d decided to wait but I just keep thinking y’know, and so I think I’ve come to my decision. But I want to do this properly or at least as close to properly as I can out here and so I was hoping that you—and Ranthia of course—could help but…” Glorine started chattering, clearly spinning her wheels, even as Avyna practically hauled their friend in out of the cold.
+
+With Avyna tending to their friend—the woman was so focused on whatever she was working toward that she wasn’t even flustered over Avyna’s revealing attire—Ranthia heated a pan of spiced non-alcoholic cider for them. As it turned out, the messenger was still red-faced and stumbling by the time the three of them were seated at the table with cups of the hot beverage.
+
+Glorine just cradled her untouched drink while she briefly stammered and stopped herself, as her blush intensified. Finally, Ranthia reached over to set her hand atop Glorine’s wrist to stop her.
+
+“Just take a deep breath, then let’s try this: what are you hoping to do?” Ranthia prompted.
+
+Their friend took a deep breath, then another—nearly choking on it—before she finally steadied herself enough to take a deep swig of her drink. As if it would grant her courage, despite its dearth of alcohol content.
+
+“I want to ask Gailla to be my wife!” Glorine belted out as quickly as she could manage at her paltry level.
+
+“Oh, how exciting and delightful! What can we do to help? When do you plan to do it? How—” Avyna eagerly started, until Ranthia nudged her.
+
+Honestly, asking Glorine a bunch of questions at once when she was already so high-strung was a terrible idea!
+
+Late into the night, they discussed and planned until the conversation became blatantly repetitive. Avyna offered to let Glorine stay the night, but she accidentally(?) asked it in a somewhat suggestive tone. Once their guest processed the words, Glorine went a fascinating shade of scarlet before she hurriedly bade them a good night and left.
+
+Avyna just laughed and pounced on Ranthia the moment their home was secure, eager to pick up where they left off.
+
+…Though Ranthia could have done without Avyna continuing to discuss their friend’s plans—and relationship—even while they indulged in their own passions!
+
+Avyna and Glorine hatched a plan together, but Avyna required time. Caravans weren’t coming to Remera while the siege persisted, but the cunning [Merchant] had somehow arranged for a bit of cargo space in Sentinel Aurora’s periodic deliveries. With a bit of judicious use of Sentinel Grace’s name, Avyna succeeded in sourcing exactly what Glorine needed.
+
+Three weeks after their friend’s late-night visit to solicit their aid, they were ready. The shimagu were quiet during the day and, to the best of their scouts’ ability to tell, seemed to be hunkered down until things warmed up again. With the risk of interruption deemed to be minimal, Avyna invited Glorine and Gailla over, under the pretense of wanting to test an elven game she had acquired. She needed their feedback to see if it was worthy of being stocked in her shop.
+
+The four of them gathered around the vividly painted wooden board and maneuvered their carved pieces across its surface. The rules were convoluted, which concealed the fact that the game had been modified—Avyna had positively stuffed the stack of squares of thick paper with “Truthfully answer the question asked by the person on your left” prompts—and Glorine had a certain non-standard question hidden under her bracelet.
+
+Even with the anticipation in the air, it was a cozy way to welcome the night. They talked and joked while the game proceeded—Avyna’s early lead erased by a truly disastrous draw. As the game neared its conclusion, Glorine started to visibly fret—Gailla had continued to fail to draw the prompt—but it finally happened, scant moves from the game’s conclusion.
+
+“Huh, ‘truthfully answer the question asked by the person on your left.’ I’d swear I’ve seen that one before, what’ve you got for me, hon?” Gailla smirked at Glorine.
+
+Glorine smiled brightly and promptly fumbled the swap that she and Avyna had practiced—it was all too easy to see that Glorine had swapped the sheet of paper for another, yet Gailla said nothing.
+
+Glorine looked Gailla in the eyes and read, without even looking at the tiny bit of paper in her hands.
+
+“Will you wed me and become my wife?” Glorine asked. Ranthia was impressed—the woman had been so flustered before, but there were precious few signs of how nervous she was once she finally got to ask the question.
+
+“Of course, we discussed it before.” Gailla answered easily.
+
+“Um, no, I mean I’m asking you—” Glorine’s composure cracked like a cheap jug.
+
+“I know, silly. And my answer is still yes, of course! You’re the only woman for me.” Gailla promised, a happy smile writ plain across her face.
+
+Avyna trilled with excitement while their friends embraced and shared a passionate kiss. Ranthia just squeezed her beloved’s hand under the table while she smiled. The world was richer with every person that found and joined with someone that they could joyously share their lives with. Ranthia had found her happiness, and she rejoiced in seeing the same level of felicity reflected in her friends.
+
+Remera might be at war, but there was still warmth to be found amid the chill of reality.

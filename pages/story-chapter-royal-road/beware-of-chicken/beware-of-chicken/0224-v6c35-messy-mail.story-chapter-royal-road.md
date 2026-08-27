@@ -1,0 +1,157 @@
+---
+id: e6cb441a-4b9f-511f-9f27-1bed35aa0643
+page-type-slug: story-chapter-royal-road
+title: "v6c35: Messy Mail"
+slug: 0224-v6c35-messy-mail
+partOf: beware-of-chicken
+position: 224
+ownLength: 2125
+unit: words
+ownProgress: 2125
+publishedAt: 2025-06-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2368055/v6c35-messy-mail"
+royalRoadId: "2368055"
+markedReadAt: "2026-06-29T18:59:03.177Z"
+---
+
+The New Year’s celebrations continued; the thumping of drums and the joyous music was ever present. Xiulan found it very enjoyable, but even she had her limit to the partying.
+
+She was also distracted by the news about her mother. Not the bad kind of distracted. The news didn’t pull up any bitter feelings; quite the opposite. Instead… she was hopeful that she could reconnect with her mother. To think that letters had been sent, but never arrived. Some part of her thought that there could possibly be some kind of sabotage that had prevented the messages from reaching her, because according to the Storm Wings, Xiulan’s mother had sent multiple letters.
+
+Jin and Meiling had listened to that worry, and Jin had some advice.
+
+“Talk to Senior Brother. He’ll know what's going on,” Jin had said, nodding his head sagely.
+
+Xiulan took his advice and went to find Lu Ri. She had little interaction with the man, but even those small interactions had been quite positive. His aura was that of a true cultivator—calm and in control. He had never stared; the eyes that had tracked over her body had been the eyes of a warrior evaluating another, not of a man staring at a woman. He had proven himself an able teacher, passing on a spear style to Meiling… but more than that, he had marched out to defend the Nezin Tribe without hesitation.
+
+She had been worried that she might spoil his celebrations by asking about the mail.  She knew it was his personal project, but working during a break would be annoying. Jin had assured her that the man wouldn’t mind.
+
+They traveled to Hong Yaowu that day, to spend time with Meiling and the Xong Brothers’ families; the Storm Wings also invited themselves along, but nobody really minded. Strangely, Xiulan felt that they kind of fit. Bailu was like a bubblier version of Tigu—the woman swiftly formed the ‘dragon squad’ comprising herself, Wa Shi, Xianghua, and Loud Boy. Their goal, according to the dragon woman, was to “drink booze and think dragon thoughts.”
+
+They accomplished their goal of draining many bottles of wine… and “thinking dragon thoughts”—whatever that meant—was apparently helping Loud Boy’s cultivation, to his own bafflement.
+
+Seiyu was more reserved, but the steady supply of food Jin was feeding her revealed a very mellow personality, and her own mischievous streak. Both Seiyu and Tigu competed to make the most absurd and outlandish mahjong hands imaginable. The Great Gates of Fa Ram dueled with The Glory of Old Man Fuji.
+
+The children were all playing with little firecrackers, and were quite happy to hear the jingle of the sleigh’s bells, running around in the snow. They greeted them all with cheer, and Xiulan indulged Quiet Liu with a piggy back ride to the center of the village… where Xiulan found the man she was looking for.
+
+Lu Ri was standing with his fellow disciples and Miss Yuanlin before the puffing form of the Azure Express, examining its schematics for the rail lines that he and Jin were imagining. Bowu was pointing to certain places on the map, and Lu Ri nodded, completely engrossed.
+
+“We saw that from the air, but it moves?!” Seiyu asked with shock.
+
+Bailu considered the Azure Express for a moment, then with great solemnity, announced:
+
+“Dragon.”
+
+Both of them dashed forwards to examine the steel marvel in more detail, while Xiulan walked over to Lu Ri.
+
+“Excuse me, Senior Brother. Could I have a moment of your time?” Xiulan asked politely. Intent was leveled upon her from one of the women, Su Ge, who was standing beside him. Xiulan paused at the observation, but forged onwards. “I need your expertise on mail.”
+
+Lu Ri perked up and gave Xiulan a small smile, while the intent faded as quickly as it had come.
+
+“Of course, what do you need advice on?” he asked, almost cheerily.
+
+================================
+
+Xiulan came well-equipped with maple candies and tea, enough for Lu Ri and his fellow disciples, while she told Lu Ri of the problem of her mother’s mail. Bailu and Seiyu had eventually lost interest in the train, and had come to sit in and listen as well.
+
+Lu Ri rubbed his chin thoughtfully. “I see. In this instance, I doubt sabotage.”
+
+Xiulan felt herself relax at the claim. “Really? I knew things were not the greatest within the Azure Hills, but are there not cultivator courier systems?”
+
+Lu Ri nodded and took a sip of his tea. “Most cultivator courier companies tend to not really take just messages. Their domain is high value asset transfer and strategically important messages. She likely did not use one of these companies simply because the price is too great. Their success rate is very good—their honour is on the line in every delivery and some companies have even served the Emperor—but I doubt your mother would contract one of them for personal letters.”
+
+That did make sense to Xiulan. Sending a letter generally didn’t require an armed escort who could fight off other sects.
+
+“How much would it cost for a company like that?” Xiulan asked.
+
+“By going rates…?” Lu Ri brought out a small scroll and turned it around to show Xiulan his neat orderly writing… and the obscene prices on the page. She blanched.
+
+“That much!? That's enough to buy fifty Spiritual Realm refining pills!” Xiulan knew how much Jin made from his partnership with the Azure Jade Trading Company, and even he would choke at seeing that kind of cost. Xiulan knew Soaring Heaven’s Isle was rich, but her mother… likely wasn’t.
+
+Lu Ri nodded and put away the scroll.
+
+“Less skilled companies and solo couriers would be the other choice… but most refuse to travel into the Azure Hills. Or any Qi Waste, for that matter. These smaller outfits tend to be couriers because the job funds their own wanderlust and cultivation journey. Purposefully going to a place with no Qi would not be something most would consider. Their goal in most missions is money and recognition. They dont mind engaging in pitched battle and possibly losing their lives, because that will increase their prestige, and bigger clients will want their services. There have been several scandals involving some purposefully staging attacks on themselves—but I digress. For them it's a balancing act. Performing a duty for a member of Soaring Heaven’s Isle Sect is a positive, but delivering a message to the weakest province does not look good to potential clients. Secondly, it's a very long way to travel to a place that they know will not have any interesting city at the end in which buy cultivation reagents. Most would consider the trip a net loss, unless the up-front compensation was adequate, which would bring us again to the first problem of expense.”
+
+Lu Ri paused in his lecture for a moment and hummed.
+
+“Of course, there could be directives that the cultivator courier hand it off to a mortal for the final stretch, but that would be an unacceptable loss of face. For a mortal to complete your delivery? If it got out, the courier would be ruined. Which leaves the second to last option.”
+
+“A mortal company,” Xiulan answered.
+
+“Correct. Search for a man with a good reputation, then send him halfway across the Empire on foot. If the letter was coming from Soaring Heaven’s Archipelago…? The odds are technically more favourable than not if the courier chooses a good route, but there are enough failure points that losing a number of letters is very likely. I have researched this thoroughly.”
+
+Xiulan frowned, but did feel a bit better about the letters not arriving now.
+
+“You have indeed, Lu Ri of the Cloudy Sword Sect,” Seiyu said. Xiulan blinked at the polite and formal tone that the woman was speaking with. She actually sounded like Xiulan imagined she would. The woman actually looked interested in the conversation.
+
+“The mail is a pain even for us,” Bailu agreed. “So many ships going to different places…”
+
+Lu Ri turned his gaze to her, and there was something hungry in his eyes.
+
+“Our sects have long been allies, Lady Bailu. Do you imagine we might be able to collaborate on this matter?”
+
+Bailu paused. “I can deliver a message to Elder Minyan. I don’t really know anything about it!”
+
+Lu Ri nodded.
+
+“You said second to last, though. What would be the last?” Xiulan asked.
+
+“Delivering the message herself, of course. That would be the best, seeing as she already knows where to deliver the letter, but I assume there are outside and possibly personal factors to consider.”
+
+Which was what didn’t entirely make sense to Xiulan, but there had to be a reason for it.
+
+“Thank you for your knowledge, Master Lu Ri,” Xiulan said, giving a brief bow.
+
+Lu Ri waved her off. “It is no trouble. In fact, it is for this reason that I embarked on this project. I know just how hard it is to deliver a letter,” he said with amusement. “Though there are still several bottlenecks on Empire-wide mail services…”
+
+His eyes darted to the Azure Express for a moment… and then to Bailu and Seiyu. He scratched his chin thoughtfully.
+
+Xiulan left him to his contemplations. She had a letter to write.
+
+If there was one good thing about being the Grand Marshal, it was that she had gotten very good at powering through any discomfort and inking a letter to someone she didn’t know how to talk to, because she would need every ounce of that ability.
+
+========================================
+
+It was dark by the time Xiulan finished the letter to her mother. It had still taken hours, despite the brief nature of the message. All it really said was that Xiulan knew that her mother was trying to contact them… and that both her and her father would be happy to see her if she had the time to visit.
+
+It had been an emotionally draining experience, and all she wanted to do was have some food and sleep… but her attention was caught by Bi De checking over jars of maple syrup and packing them away.
+
+“What's going on?” she asked.
+
+The rooster, in his human form, turned to look at her.
+
+“We thought it a good idea to include Master Forest Sweeper in the celebrations. We delayed long enough as it was, anyway,” he answered.
+
+“Oh? Who is going?”
+
+“Master Shen Yu, myself, Ri Zu, Spooks, and Yun Ren. If Master Forest Sweeper is amenable to more guests, we shall return.”
+
+Xiulan smiled, thinking back to the images Yun Ren had recorded of the noble Spirit Beast.
+
+“I’ll be sure to pay my respects if he is,” she said. “Do you need a hand?”
+
+Bi De shook his head. “We have it under control. We’re just waiting on the last thing—”
+
+“Back! Back, you damn lizards!” Jin’s mock offended voice belted out, cutting off Bi De. “I thought you kept saying gluttony was a sin, Wa Shi!”
+
+Both of them raised an eyebrow and went to see what the commotion was about.
+
+Just outside, before the still, Jin was standing tall with his hands out, his posture warding against the begging eyes of Bailu and Wa Shi.
+
+He was standing protectively before a barrel as big as he was. No, not a barrel, because it had a massive handle nailed to the side. It was a massive mug with a lid, smelling of alcohol and spice.
+
+“Oh? Grandson, is it done?” Shen Yu asked excitedly from his seat on the veranda.
+
+Jin nodded. “Yeah, the flavour developed fast. Vodka, mixed with essence of Volcano Ginseng! It packs one hell of a kick!” Jin said with a smile, before whipping his head back around to glare at the staring draconic duo, who had stars in their eyes at the sheer size of the tankard. “Back, you gluttonous beasts! I have some for you both, you don’t get any of this! This is for Master Forest Sweeper!”
+
+Xiulan chuckled at the sight, shaking her head, then turned to Spooks who had also come to see what the commotion was about.
+
+“Is this goodbye?” she asked him curiously.
+
+The Thunderhoof shook his head.
+
+‘I don't think it is. And besides, I want to see the rest of the New Year Festival! I'll be back for the end, even if I have to beg!’ His eyes were shining and he had a bright smile on his face. ‘This place is fun!’
+
+“It is,” she replied… and wondered, if she met her mother again… would she like Xiulan’s new life too?
+
+She hoped her mother would…. But she wouldn’t mind even if she didn’t.

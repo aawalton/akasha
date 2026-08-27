@@ -1,0 +1,159 @@
+---
+id: 493a6503-a5e1-5440-a036-42842d87bb3f
+page-type-slug: story-chapter-royal-road
+title: "v7c12: Interlude: Maid Matters"
+slug: 0265-v7c12-interlude-maid-matters
+partOf: beware-of-chicken
+position: 265
+ownLength: 2105
+unit: words
+ownProgress: 2105
+publishedAt: 2025-12-14
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2846175/v7c12-interlude-maid-matters"
+royalRoadId: "2846175"
+markedReadAt: "2026-06-29T19:00:30.365Z"
+---
+
+Su Suyan stood at attention behind her Master and the rest of his household while he waved goodbye to the two merchants, their wagons loaded up with barrels of maple syrup, panes of glass, one of Young Master Bowu’s steam furnaces, and several of Master Miantiao’s pottery pieces. Miss Guan Chyou had been enamoured with the Spirit Beast’s new style of mixing glass and pottery, and the Spirit Beast had deemed it fit to part with some of his smaller pieces.
+
+They were heading back south to prepare for Master Jin’s arrival in Pale Moon Lake City, as well as continue the preparations for their expedition.
+
+As the two mortals rounded the bend and disappeared, Lady Pi Pa turned to Suyan with a small smile.
+
+“Shall we continue your orientation, Suyan?” she asked kindly. It had been three weeks since Suyan had begun her time at Fa Ram.
+
+“Yes, Ma’am,” Suyan replied, bowing. Though lesser in cultivation compared to her, Suyan felt herself admiring the other woman. She was so graceful, in both forms. She seemed so sure of herself; and though a mere servant, she radiated authority and competence… and she was a sort of kindred spirit.
+
+After the initial grueling trials, Suyan had expected every day to be some new challenge of the body and mind.
+
+She was correct, but the way those challenges presented themselves differed quite a lot from her initial expectations.
+
+“Then, it is time to begin preparing lunch,” Pi Pa said with all due seriousness. “Please select a menu and have it ready, Miss Suyan—while attending to the Young Master.”
+
+Mistress Meiling carefully handed her son over to Suyan, who took him gladly. The Young Master was a cute little one, and she was glad to attend to him. He was a relatively easy babe to take care of as well. All she needed was to wave her tail in front of him and he would be distracted. She quickly had him bundled on her back, not too tight, and with enough of a view that the curious babe could see what she was doing.
+
+Then she set off for the kitchen, Pi Pa trailing slightly behind. Suyan would be doing the lion’s share of the work but Pi Pa thought the task too much for one to cook for everybody here.
+
+Her eyes darted around, her nose twitched as she scented the air, and her Qi ghosted along the cabinets. She was vigilant for any sort of trick or trap.
+
+She was fairly certain Master Jin was satisfied with her physical conditioning and readiness—unless he was luring her into a false sense of security?
+
+…she checked anyway just to be sure. It was good practise for when she was out in the world, rather than in her Master’s home.
+
+Though instead of physical training and ambush scenarios, most of her tasks were simpler, more mundane things… taken up to the highest level.
+
+Suyan had thought she was a fairly good cook—whenever she was around her kin she tended to pick up any chore or odd job that needed doing, so she was confident in her skills. Nobody had ever complained, at least, and most even complimented her food!
+
+Suyan swiftly learned that her previous skills meant nothing. Here, she was not good; she was woefully inadequate as a cook.
+
+For the first week she was not the one in the kitchen.
+
+No, Master Jin, Lord Wa Shi, and Lady Pi Pa cooked for her while she watched. They prepared feasts of gold-grade rice and other ingredients that were without equal, practically shimmering with Qi. They served each meal and showed her how it was made, pointing to each method and flavour. Lord Wa Shi was especially demanding, his eyes burning with passion while he instructed her.
+
+It was only natural, considering the ingredients. Treasures reserved for feasts were things she was expected to know how to cook for every meal, and cut up into small bites for the Young Master.
+
+She did her best to cook the meal, concentrating on each movement. Lord Wa Shi had exacting standards.
+
+Suyan hummed a song she had heard Lady Pi Pa hum as she worked. When the Young Master grunted and pointed at something from behind her shoulder he found interesting, Suyan lifted it up so he could see it more clearly, and things like vegetables she let him touch and inspect… though she did have to stop him from trying to take a bite out of an onion.
+
+He pouted and grumbled mightily and grumbled, but that lasted only a moment. There was the swift buzz of wings, and a streak of black and yellow. It took all of Suyan’s willpower to not cut the enormous insect from the air for daring to head toward her charge.
+
+She had nearly slapped it out of the air on the first day out of reflex before Master Jin gently caught her hand and explained the creature’s presence. Suyan apologised to the bee, which had just seemed to glare at her.
+
+She got a strange feeling from it. Half like the creature grudgingly respected her, and half like it disliked her.
+
+Zhuye caught the Spirit Beast and waved it up and down, the onion forgotten. Suyan supposed that out of any insect, a bee was the most acceptable. It was huge, but also fuzzy and quite cute.
+
+It also felt oddly smug and self-satisfied at the moment. She could almost see it looking down on her, a superior smile on what passed for its face, pleased that it had soothed the Young Master before her.
+
+Suyan felt a flash of annoyance at the creature, then took a small breath. It was not worth her ire, nor her attention. Suyan resolved to ignore it and instead focused on completing the meal.
+
+Even though something that felt vaguely like taunting emanated from the bee.
+
+“That smells delicious, Suyan!” Master Jin praised when she started bringing out the meal. The table was set, the Master’s family arrayed around it, and there was another seat there, too.
+
+For her.
+
+It had been the biggest surprise that she was expected to eat with them. She had expected the cold professionalism of her previous employment. Cultivator guards were treated quite well by the mortal families who could afford them, but it was clear where they all stood. They were given respect, and anything truly onerous was to be performed by a mortal. They were bodyguards, first and foremost.
+
+Her new Master and Mistress seemed intent on treating her like a valued member of the family.
+
+These treasures were given to her freely. She was eating every meal with them. They asked her about her life, what she liked to eat, and then they made some of the dishes she said she enjoyed.
+
+It was…nice. Well, they were Young Master Yun Ren’s family, so it made some sort of sense; Mistress Meiling was his Younger Sister, and it was most amusing when they teased each other or got into playful arguments.
+
+It was refreshing.
+
+It was as if she was among family, that was it. Like how she saw others, in the moments before she had a new assignment. Just sitting together, living in the now, rather than each and every moment being dedicated to movement and work. She was thanked. She was appreciated. She was told to take breaks, like how she always told others. She didn’t need those things, of course. To look for such accolades like a child was unbecoming.
+
+Suyan alternated between feeding the Young Master and herself, feeling the rich, Qi-dense food fill her soul. The Qi of this area of the Azure Hills was a kind, gentle thing. So different from the harsh mountains she was used to stealing moments in, or the unrestrained, violent power of the few cultivation pills she had used on herself. It was quiet. It was understated.
+
+It was constant here, working without intruding. Building without being seen.
+
+She found herself appreciating the quiet strength.
+
+=========================================
+
+She finished feeding the Young Master—he was not a hard babe to feed, always eager for something to eat—and finished eating herself. She was told to take seconds, and later, thirds. To eat until she was fully satiated.
+
+Even a bowlful of this food would have normally been enough, a feast for a king.  She would have gladly accepted those meals as all her payment for her duties.
+
+But the meals were not even her compensation. She was going to be receiving bales of rice, a selection of Spiritual Herbs, more than her normal price in silver coins, all of her medical expenses covered…the contract was absurdly generous.
+
+But more than that, ‘medical expenses’ apparently included this.
+
+“There?” Mistress Meiling asked, pressing her fingers deep into Suyan’s shoulder. Suyan grunted, feeling the meridian within unlock fully.
+
+“Yes, My Lady,” she sighed.
+
+Mistress Meiling and Lady Ri Zu took Suyan into the bath each night, their skilled fingers opening blocked meridians, soothing Qi flow, and aligning her muscles and bones with the sublime skill only Spiritual Doctors possessed.
+
+Each night, she felt it. Her Qi circulated more easily. Her body moved faster. Her eyes were more precise.
+
+The hot water seemed to wash away her lingering bone-deep tiredness, seeping far  into her soul and dredging up energy that Suyan didn’t know she had.
+
+Then, she was dismissed for the night. Her duties were considered done. She was invited to play games, read stories, sew with the ladies, or try out the image recording crystals with Young Master Yun Ren. He showed her how to use her illusions to paint in the air with light, something that captured her attention.
+
+She could even cultivate, feeling the warm, comforting Qi of Fa Ram fill her dantian.
+
+Though not for too long. Once she had meditated all night, and Lady Pi Pa had scolded her. Suyan was commanded to sleep… which did feel strange. She was used to going days or weeks with only brief moments of meditation.
+
+But the beds were nice, soft and comforting. They cradled her as she slept, their warmth mixing with the warmth of the baths.
+
+===============================
+
+Suyan woke up each day sharp and ready. She studied all of her charges, learning their habits.
+
+Some of them were things that required her utmost attention, like provisioning and keeping an eye out for threats.
+
+Other things were sillier, like when Young Master Yun Ren declared giving her ‘decorum training’ and every member of Fa Ram took turns to see who could make her laugh.
+
+It was a futile effort, for her face was as stone… but they did come close. When the training finally ended she primly walked out of the room, and then collapsed against the wall, heaving silent giggles.
+
+They did work on their farm, pouring their Qi into the earth. They tended to powerful Spiritual Herbs. They crafted great wonders. And occasionally, they would return to Smoky River.
+
+There, she could see her people. The smiles on their faces. The laughter. They were safe and happy because of the one she now served.
+
+They had peace. They all did.
+
+And so Su Suyan ascended to the Fifth Stage of the Profound Realm.
+
+The Young Master, who was dozing on her lap, suddenly straightened, turning to look at her with those curious amethyst eyes.
+
+He smiled brightly and patted her on the leg. “Ba!” he said to her with a bright smile… and then immediately started crawling off. He turned to look at her, then crawled forward a bit more again. He pointed, almost eagerly.
+
+…he had always been content to take naps and rest in her presence before. And now, he wanted to go off on adventures?
+
+Suyan rose and obliged him.
+
+There was a great party in Smoky River that night—for the first time since she could remember, just for her, instead of another.
+
+========================
+
+Then, at the end of the week, it was finally time for Suyan to embark upon her duty. The packs were filled with supplies. The carriage loaded and ready.
+
+Lady Pi Pa declared Suyan’s orientation complete; and so Suyan changed into the uniform Mistress Meiling had given her. It was a wonderfully practical outfit. The long black dress concealed leg holsters for her daggers and throwing knives as well as her shortsword. Her white apron had plenty of pockets. The white frilly headband was very cute, and the color scheme matched her fur perfectly; black and white.
+
+She instantly liked the uniform.
+
+“Maid Su Suyan, ready to serve, Master,” she said with a curtsey.

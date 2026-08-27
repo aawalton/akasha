@@ -1,0 +1,221 @@
+---
+id: dfb92cfd-2ec0-5400-8634-cd05fe0918f5
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 23 - Must Come Down I"
+slug: 0026-book-4-chapter-23-must-come-down-i
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 26
+ownLength: 3621
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2697267/book-4-chapter-23-must-come-down-i"
+royalRoadId: "2697267"
+---
+
+Ranthia had important questions. Chief among them was how the shimagu were reacting faster than Remera could, but the world wasn’t going to give her answers while she stood on the wall. And yet, no matter how tempted she was to just leap over, she instead moved back into Remera proper. Ranthia kept the legionaries—and a growing number of dwarves—in motion, but she needed to remain until the rescue party, at the very least, was ready. The risk of some idiot overriding her orders in her absence was too high.
+
+The [Starship] had completed its remarkably controlled disintegration and scattered people, crates, and dulled arcanite across the wasteland, yet Ranthia lingered, shouting orders. The [Healers] had four powerhouses—including the dwarf she was fond of—gathered at the gates while the rest, along with their apprentices, prepared the medical tents. And a number of dwarves were ready to go.
+
+Yet her rescue team was dismal—twelve volunteers, four of which were supposed to be assigned to the walls. But the base commander’s people were interfering, which meant Ranthia was left making a judgment call.
+
+“Rescue and retrieval teams, move out!” Ranthia ordered, turning to the gates.
+
+One of the base commander’s advisors was shouting to keep the gates shut, but the shrub-like dwarf with the incredibly bushy fusion of beard and hair was quick to point out a hell of a counterargument: they had enough strength to lift the gate themselves, so why bother denying the Sentinel’s orders?
+
+The [Mages] on gate duty levitated the heavy stones, and Ranthia’s too-small team rushed for the crash site.
+
+“We’ll get there ahead of the shimagu, but they’ll be too close to Remera before we get back!” One of the scouts Ranthia had worked with shouted to her—as if she wasn’t already all too aware.
+
+“Rescue operations first, Sentinel Aurora and I will work out the rest!” Ranthia ordered with absolute confidence, not that she truly felt it.
+
+There were twenty-some-odd legionaries littered about the crash site, several of which were wounded—some severely. But Ranthia breezed past them as she searched for the woman she sought. There! Sentinel Aurora was bleeding from a gash to her forehead, but she was on her feet.
+
+“You realize Remera isn’t rated for landing, right?” Ranthia called out.
+
+“If the generals won’t supply you correctly, you should try yelling at Night until he convinces Ranger Command to open the coffers!” Aurora spat in response, before her face stretched into a grin.
+
+Yeah, that’s her alright. Ranthia breathed a sigh of relief inwardly, before she tore off her pouches of fused arcanite and threw them to the woman. Her fellow Sentinel caught them with an appreciative nod and stuffed her fingers into both as she pulled against the unattuned arcanite for precious mana.
+
+By that point, her rescue team—and the upright legionaries—were collecting the wounded while the dwarves grabbed inert chunks of arcanite and what few crates and barrels had survived the crash. There wasn’t much cargo, but it had ended up scattered across a large area—it might have been at least partially controlled, but it was still a crash landing.
+
+“Get moving, back to Remera! Aurora, with me—we need barriers to hold the shimagu back!” Ranthia ordered, falling back on the instincts she developed at the Unbreakable Image.
+
+A chorus of wildly inconsistent assents answered her orders. Yes sir, yes ma’am, aye, as ye want, and more. But even with the delightful lack of uniformity of words, the men and women that followed her all acted as they were expected. The group got underway.
+
+Four of the crash victims were in bad enough condition that, under ideal circumstances, Ranthia would have preferred to bring a [Healer] to them instead of risking their lives. But the shimagu weren’t making the situation ideal.
+
+Ranthia led the way, joined one-by-one by her images as swiftly as she could form them. She couldn’t fill the battlefield with them, but she had enough lead that her eight images offered some measure of defense for those that followed.
+
+“That’s so damned unnerving to actually watch.” Aurora muttered under her breath—and yet not nearly quietly enough—as she struggled to keep up with her faster coworker.
+
+They made great time getting back to Remera, but Ranthia was already playing defense. Shimagu-infected ogres loosed thick, crude arrows that Ranthia intercepted with her knives or images, while [Mages] hidden within the bodies of bruisers unleashed ranged attacks of almost every element the System possessed. Sticky pellets of Ooze threatened to slow people down, jagged spikes of Earth sought blood and death, and the damned parasites even had a Sound [Mage] calling out fake orders with a rough approximation of Ranthia’s voice—though Aurora seemed to be readily able to tell the difference and was calling out “Ignore!” or “Act!” to mitigate the damage.
+
+Once they reached Remera’s gates, Aurora threw up beautiful, curved panes of starlight to try to wall off the shimagu.
+
+Yet the gates remained closed.
+
+“Open the gates!” Ranthia ordered.
+
+“Close the keeped gates!” The shimagu—clearly not an expert at Creation—tried to amp up the confusion.
+
+Godsdamnit, the Sound [Mage] wasn’t even slowed down by Aurora’s barriers. Ranthia started to dance in place to build up the momentum she’d need to go over the barriers. If she could push the shimagu back with just her images—
+
+“OI! OPEN DA FOOKIN’ GATES, YE ORC-SCENTED TURDS!”
+
+The gates hurriedly rose, and the dwarven [Battlemaster] emerged, followed by eight of her people’s combat teams.
+
+“Shieldstrike, tip o’ the pickaxe! Mashers, Maulers, Steelhand—follow ‘em up! Ironface, Dark Glory, Orcsplitters, Gorer, hold da line! You, Barrier Babe, can ye do a tunnel—with a fookin’ ceilin’?!” The woman demanded as the bells woven throughout her prodigious beard rang out.
+
+“I… yes!” Aurora answered.
+
+“Bully! Yer ‘ith me! Grace, you do you!” The [Battlemaster] pointed one of her fragile-looking hollow swords forward.
+
+The people that followed Ranthia worked to get everyone and everything inside Remera, while the dwarves tore into the shimagu like a force of nature. Team Shieldstrike led one front into their enemies, while Aurora shaped a corridor of starlight that trapped others in a faux tunnel—with a woman that was at her deadliest in a confined space.
+
+Aurora started cursing and rapidly drained Ranthia’s arcanite while she made a valiant effort to keep her cracking panes of Celestial material intact. Within, the shimagu were sundered into tiny pieces by the intense reverberations of Sound made physical—sharper than any blade. The dwarven [Battlemaster] just slowly bounced forward, as the bells and metal scales that she wore gave her all the Sound she needed to reign supreme in the enclosed space.
+
+As awe-inspiringly terrible as it was to see the woman’s true potential, Ranthia couldn’t just stand there and watch—she formed her own wedge with her images and tore into the shimagu ranks. The defenders on the wall were taking their own toll from the shimagu; there was a reason their enemies seldom got so close to Remera.
+
+The shimagu’s desperate push for Remera’s vulnerable, open gates ground to a halt and, mere moments later, devolved into a retreat.
+
+The parasites had pushed too quickly and too far. They were scattered and were getting butchered, without being able to return the favor. Whatever [Leaders] that might have been able to solidify their resolve and get them into formation were either absent or had been outpaced.
+
+Ranthia hadn’t seen such a brutal rout since her days of slaughtering shimagu civilians.
+
+“That dwarf is terrifying; how did she get that high level without dying underground?” Aurora complained while a [Healer] tended to her injuries.
+
+She had tried to pull the whole stoic legionary “I’m fine” bullshit while she bled, but neither Ranthia nor the [Healer] would budge since at least one of her injuries was a headwound.
+
+“I mean, rock’s pretty tough. But seriously, can you tell me what happened?” Ranthia tried to pull Aurora back on track.
+
+“Meh, fine. Walk with me, I want to check on Tullus’ condition.” Aurora announced.
+
+For all her stubbornness, the [Healer] was already done and was waving them out.
+
+“Okay, so, as I’m sure you can imagine, those of us without a cushy static gig have been busy since the Disaster of Flame two years ago—” The woman began.
+
+“The what? Are you referring to the… Night of the Second Sun?” Ranthia interrupted, though she had to steel her nerves to even mention the incident that had taken Hunting—just over two years ago.
+
+Gods and goddesses, she had never even thought of what that had to be like for Ocean, watching the name of one of his last true peers get added to the wall.
+
+“Okay, are you playing some stupid game, or has someone seriously never told Launchpoint 8?” Aurora demanded in a stern voice.
+
+“The base commander’s been in contact with Legion command, but I haven’t heard a damn word from Ranger Command or any Sentinel since you stopped showing up.” Ranthia retorted.
+
+“…Fuck.” Aurora dropped her voice to a whisper. “Okay, so I don’t know what game’s being played here, but late year before last the Legions walked right into a big fucking trap. The biggest push Remus had done, to take a shimagu city, and instead we lost multiple Legions all at once. The city was primed to go up like a pyre.
+
+“The survivors are scattered in pockets throughout enemy territory, and the shimagu used our weakness to hit hard. Launchpoint 5 fell during their push last year. Launchpoint 3 was the only one they didn’t hit—even Coalition City saw some action. Most of us Sentinels are still on search and rescue duty. The guys I brought were part of a group of survivors that seized a shimagu base, except these idiots got caught raiding the slimes’ supply lines. Forced me to land and reform the [Starship] to pick ‘em up from the dead end they’d wedged themselves into.
+
+“Took out most of my arcanite. I was confident I could make it here, just fell a bit short since I had to jink and rush to avoid one of the shimagu’s newer tricks, a flock of ornithocheirus that follows an infected alpha.”
+
+There was a lot to unpack in that explanation. Enough that Ranthia didn’t even bother trying, instead she acknowledged the grim news—and the explanation for the lack of support—and mentally set it aside.
+
+“Good job with the landing, by the way. I was surprised your Skill didn’t just vanish out of the blue.” Ranthia spoke back up as they reached the next medical tent, once Aurora finished exchanging a few words with the apprentice [Healer] that met them.
+
+“My Legion flight instructor drilled it into me that anything that goes up has to come down eventually. He convinced me to develop a Skill to mitigate the problems if I run out of mana or have something interrupt my flight. It’s a reserve Skill, gives me a touch more mana to control my descent, but I had too much momentum built up for its current level. Still, guess this was better than getting pasted.” Aurora replied, before she turned away, satisfied with the report about the condition of the man she was worried about.
+
+Which meant it was time to speak to the base commander.
+
+Even with the shimagu routed, Remera was somehow still in “a state of emergency,” which meant it took hours for the meeting to get underway. Aurora gulped tea like it was essential to her continued existence as she fought off her usual morning exhaustion. Ranthia waited seemingly patiently, fearing for her coworker’s overstuffed bladder.
+
+But at last, the base commander entered and—without a single dwarf present, as usual—announced the meeting could begin.
+
+“So, why the fuck wasn’t Sentinel Grace made aware of any current events of the war? The Disaster of Flame, Launchpoint 5’s downfall, and the current state of the Legions were all news to her.” Aurora chimed in, her tone bored and easy.
+
+“My briefings were marked for my eyes only, and I was advised to keep things confidential beyond my inner circle.” The man replied, cool as a cucumber.
+
+“Here’s a direct order then: she’s part of your inner circle, so share all updates directly with her.” Aurora snapped, every word precise and loud enough to rattle the tent.
+
+“I will have to verify…” The base commander seemed to be somewhat cowed.
+
+“Optio Favonis, I remind you that not only am I the Aurora Sentinel, but I still hold my rank as Specialist Tribune with the Legions, just to prevent idiotic questions about the chain of command—just as you are attempting to do. I repeat, that was a direct order.
+
+“And so help me, if you respond improperly one more time, I will have you running laps across your own base, before the eyes of your own men! Is that understood?!” The woman tore into the base commander with the delightful weight of authority.
+
+“Sir, yes sir!” The man was on his feet and saluting, just like a rookie legionary fresh from basic training that displeased a superior.
+
+“With that settled: that shimagu base must come down. It’s imperative that I get back to Coalition City as soon as possible.” Aurora continued to run the meeting herself.
+
+Even with Aurora getting back to her Legion roots, it still took two days to get everything ready. One of the legionaries that she had rescued was a decent Mirage [Mage] (Mirage, Sand, Sound) that specialized in group stealth, and the plan was to have him lead an elite unit to the enemy camp and set it ablaze, before they dealt with any targets of opportunity they could take out.
+
+The fact that the plan was almost verbatim one of the ones that Ranthia had recommended—panned as “both reckless and foolhardy”—just with a Mirage [Mage] attached was noted, but Ranthia said nothing. She was just thrilled that there was a plan that wasn’t just repeating the same daily interactions until their enemies inexplicably dropped dead or surrendered.
+
+By day they repeated the usual interaction. Ranthia stood on her tower. The winged ogre remained absent. No shimagu appeared to challenge Remera’s forces, but that was fine. As the sun set, Ranthia sent an image atop Remera’s walls and had it walk out of sight—where it likely fell, since it shattered. The real her landed behind the stone tower and waited. The plan called for her to ascend the tower again if the winged ogre showed up when the conflagration began.
+
+[Vision of the Void] was sufficient to best the Mirage [Mage]’s illusions. Which let her watch the group of roughly equal numbers of humans (both strangers and familiar faces) and dwarves as they exited Remera and soundlessly crossed the wasteland at a slow pace.
+
+The wait was boring, but Ranthia was more than used to standing around for hours on end. But, at the very least, she knew she was waiting for something fun (for a rare change).
+
+A while later, there was a beautiful sound: the explosive noise of raging flames. The night was dyed a vibrant, flickering orange.
+
+The winged ogre never materialized. Ranthia was finally given leave to move as she saw fit, but there was no need.
+
+The shimagu’s base camp blazed brightly, a grand conflagration that encompassed the entire semi-fortified area.
+
+The elite unit was forced back by the heat and fury of the inferno. Ranthia joined them, but precious few shimagu even managed to escape the blaze. And most that did sought escape, rather than deliverance.
+
+“I never would have expected the shimagu camp to be that vulnerable to fire. Did they seriously have nothing to mitigate it?” Ranthia commented with a satisfied grin.
+
+“Ah mighta carried ov’ah a eettle barrel o’ me granpappy’s firebrew n’ throwed it in too.” One of the nearby dwarves—the one with a beard full of heat-curled hairs—happily offered an explanation.
+
+“Firebrew?” Ranthia asked.
+
+“Aye, it burns ‘etter an ‘otter tan mos oils.” The man agreed.
+
+“Ah, firebrew.” Ranthia decided that there was a certain wisdom in the name.
+
+“Burns a’most as much goin’ down ta hatch!”
+
+Terrible, terrible wisdom. Not that Ranthia believed for an instant that one ‘little’ barrel of any liquid could have been responsible for the intensity and fury of the flames. If anything, it was a testament to the potential of forty-eight (or so) high-level (for mortals) pissed off classers.
+
+The base and its occupants were naught but ash. The shimagu that had been outside of the base or managed to escape were permitted to flee. Remera was energized and celebrated its one-sided victory. But Ranthia couldn’t help but to find the whole thing a bit anticlimactic—there was no big showy battle, nor any final showdown with the winged ogre, just… one large fire.
+
+Aurora left shortly after the sun set, escorted by [Warriors], scouts, and defense [Mages] from Remera’s own roster. With the shimagu cleared from the vicinity, they had every expectation of getting supplies and fresh troops once again.
+
+With the crisis done, Ranthia finally felt like a weight had been lifted from her shoulders. Remera hadn’t been abandoned; the Legions were just scrambling to replace what they had lost, and Aurora had been busy elsewhere. Avyna was in a bright mood, too, with trade restored—even if she was somewhat preoccupied with her efforts to figure out additional space-efficient goods she could stock that could be kept for extended periods of time. As Avyna put it, she was determined to “never tolerate barren shelves again!”
+
+Avyna’s first solution was to embrace spices. Her shop swiftly became even more delightful to enter, with a rich aroma of spice permeating the entire structure. It was a boon (usually, Ranthia had a few incidents) for their cooking too.
+
+With the dread she had felt largely dispelled and Avyna back to being all smiles, affection, and naked greed, Ranthia’s world finally felt righted. Sure, the winged ogre twin was still alive, which was suboptimal, but she was confident that Black Crow would find him sooner or later.
+
+Yet the nightmares refused to abate. Instead, Ranthia gradually learned to sleep without thrashing about when her nightmares came to her. She refused to let her weakness worry Avyna for no reason. Besides, it wasn’t like the nightmares visited her every night—there were the rare and precious few where she slept a dreamless, deep slumber.
+
+The new personnel assigned to Remera were a mixed bag. For every experienced legionary or officer that they received, they got at least twenty-four recruits that barely were trained in how to use a bow or hold a spear (and seldom excelled at both). Word was that Remus was increasingly aggressively recruiting to replace what had been lost, which meant some of the new personnel had rather bleak stories about how and why they were there. But man or woman, slave or unneeded son, Remera accepted whatever it could get with cautiously open arms.
+
+Even when it caused problems.
+
+“Empty your coin purse.” Ranthia ordered.
+
+She was blocking the exit, while one of the newest legionaries glared at her.
+
+“What’s it to you!?” The kid managed to stretch the ‘you’ out until the word almost became incoherent. It wasn’t a quirk of anywhere in Remus that Ranthia was familiar with—a baleful reminder that she hadn’t really toured Remus for over a decade.
+
+“That’s Sentinel Grace, I saw her when I was little!” Another newcomer whispered.
+
+…It had only been four years since she was given the damned title!
+
+“Why’s a Sentinel guarding some rabbit’s rip-offs?” The kid with a coin pouch full of stolen sweets groused.
+
+“Keep flapping your lip and I’ll bust it before I punish you. You’re talking about my wife.” Ranthia informed the kid with the most saccharine smile she could muster.
+
+Honestly, she had never understood why some people called elves ‘rabbits.’ Yes, they had long ears, but for the love of Xaoc, it was such a hollow comparison. They had nothing else in common!
+
+…Well, other than being delightfully tasty, but in extremely different ways.
+
+The kid sulked his way to the counter and signed over some contribution points. Which earned him an extra eight laps, before he grudgingly handed over a fistful of coins to cover the rest of what he’d stolen. Ranthia left supervising his punishment to one of Remera’s veteran regulars that tended to hang around Avyna’s shop and settled in on a stool next to her lover.
+
+“What were they thinking, sending petty criminals to the front lines?” Ranthia groused.
+
+“You say that like that’s anything new. Sosius threatened a tax collector and got sent out here.” Another legionary chimed in.
+
+People either died, or they leveled until they could butt in on conversations from afar. There was no other outcome, not in Remera.
+
+“Wait, that’s a crime? I thought that was a public service!” Another man—by the books—cried out in exaggerated despair.
+
+“<Remind me to stop speaking Creation in public.>” Ranthia grumbled as the shop became boisterous with legionaries daydreaming about freedom from taxes.
+
+“They are happy, my love. This is something you should enjoy.” Avyna wisely answered in Creation.
+
+Ranthia sighed, but she nodded. The love of her life was right, as always. Accepting the wisdom, Ranthia tried to relax, even as the conversation turned to crimes the loyal soldiers of Remus would like to commit against tax collectors and/or governors. One could have argued that she should have stopped them, but she was too busy holding the hand of the woman she loved—she just couldn’t be bothered by such trivial concerns.
+
+And if anyone important entered, she was prepared to claim she was napping and had no idea what anyone was saying.

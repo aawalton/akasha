@@ -1,0 +1,337 @@
+---
+id: 3b8e40cc-deea-51b7-a396-9e92c38506bf
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Getting the Gang Together"
+slug: 0048-interlude-getting-the-gang-together
+partOf: beware-of-chicken
+position: 48
+ownLength: 4624
+unit: words
+ownProgress: 4624
+publishedAt: 2023-08-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1327745/interlude-getting-the-gang-together"
+royalRoadId: "1327745"
+markedReadAt: "2026-06-29T18:53:00.671Z"
+---
+
+Several Hours before the Raid…
+
+“With this many places to hit, manpower is the biggest issue…” The Special Inspector said, frowning at the map he had open. They were all gathered in a large room in the manor, planning the raids.
+
+Dong Chou, also known as Rags to his friends, yawned as he leaned against the wall of the manor, listening with half an ear to the conversation Xiulan and the Inspector were having. It was a skill to pay attention while looking like you weren’t listening at all, and Rags picked absently at his ear.
+
+Honestly, he had just kinda been expecting them to take all the info, then go off and hit the places themselves. That was why he had offered the help of his contacts. But actively working with a law-man?
+
+That was some bullshit. The dickwads of Grass Sea city were all incompetent, corrupt shitheels. The Han guy seemed alright though. Some of the guys on the lower rungs always were. But the big bosses up top? Those guys were always nasty pieces of work.
+
+There was a reason why Underbridge basically had its own guards for the real people of the city. That, and the Grass Sea Guards didn’t patrol the really bad places. They knew that wandering the alleys was a good way to get knifed.
+
+He eyed the rest of their gang, most of whom were listening intently to the inspector. His arm was still in his sling, and he was sweating slightly, but he was still speaking like he was their equal… and Xiulan was letting him.
+
+Rags sighed. He knew he would be out-voted if he brought up just taking shit and leaving. Even if he was the Boss here, telling your folk to go against their original decision wasn’t something a real leader did lightly. You had to be sure.
+
+But that didn’t mean he couldn’t bitch a bit…
+
+“I don’t see why we need these guys. I can get the boys together for the dregs, and then we hit every place at once. None of this ‘negotiation’ crap.” Rags grumbled.
+
+“I thought you were trying to go legit?” Loud Boy asked with a smirk from his place beside Rags, leaning against the wall..
+
+Rags huffed. “There's going legit, and then theres goin’ legit, yeah?”
+
+His best friend looked at him, considering his words—really considering his words, like Rags was smart, instead of just humoring him like most people did—and nodded.
+
+“Yeah. I do get it. The guards are dicks a lot of the time.” Rags grinned at Loud Boy’s words. Of course his buddy got it. He understood the way the world worked. “But, well, Xiulan and Tigu seem to think this is the best way…”
+
+Rag’s smile faded again. Of course, his buddy had to bring reason into this. And he was right. But still…
+
+“I just want to smash these guys. Fuck procedure.”
+
+“I understand your feelings, Rags. Do not think for a moment that I do not wish to simply part their heads from their shoulders.” Xianghua said, her voice entering their conversation quietly. It was a little weird not hearing her yelling or laughing, and seeing her face locked in a blank expression like that was honestly a little unnerving. But… one of his fellows was agreeing with him. He saw Tigu glance back and nod, having heard his grumbling.
+
+“I know there's a reason, It's just frustration,’' He sighed.
+
+Xianghua turned to him. “It is. Yet what would happen, if we simply crushed everything in our path?”
+
+Rags blinked at the question, Loud Boy opened his mouth to reply, before pausing, looking at Rags, then elbowing him—what he had started doing when he had taught Rags how to read, and he wanted him to answer a question.
+
+This bastard, knowing the answer but making him work for it. Rags delegated riddles and weird questions to Minmin, his second. Rags was more a doer than a thinker. Give him a problem that he needed to get all his boys through and they’d ride laughing into the sunset. Having to ‘splain—no, ar-tic-u-late himself when it wasn’t in the moment was a pain in the ass.
+
+He elbowed the bastard back, but actually thought about it, frowning. Well, the problem would be solved. They’d have a bunch of dead cunts, smouldering mansions, and freed slaves. It sounded like a pretty good deal to him.
+
+But everybody else clearly thought that wasn’t the right answer, so he had to think of something else. Why were they working with a law man? They didn’t need him except for—oh.
+
+“To show we’re ain’t just headbeakers, we’re real Bosses?” Only a stupid fucker just smashed heads and expected respect. “That we’re legit—I mean, we’re legitimate?” He ventured, and Xianghua nodded at his answer, a small smile gracing her lips. Shit, she was pretty when she did that, but she was a taken woman, and Rags wasn’t no dog. Bro Gou Ren was a good guy, and makin’ moves on his woman went against the code. He jerked his eyes away from her to Loud Boy, who looked pleased as well. Rags scowled to hide the pride. He was getting better at this shit. Reading those boring scrolls really did help!
+
+“Indeed. We could slay them all. It would be easier than capturing them. But what kind of message would that send to the people of the city?” Xianghua asked. “We’d just be more cultivators, doing as we pleased. Even when the truth came out, we still would have slaughtered hundreds of people—the shock and fear would have likely overridden any sense of what we had done. Doing this the right way, the legitimate way…?”
+
+See? Now that reason made sense. It was still novel that people actually explained shit—cultivators especially. “It makes us different.” He said.
+
+“Indeed. And our way is supposed to shake things up, isn’t it?” Xianghua asked.
+
+Rags nodded tentatively. He was still a little leery about putting his trust in this guy though.
+
+Tanhui wouldn’t like working for a law-man. The Demon Slaying Orchid? Well, that was another matter.
+
+Rags sighed, considering his predicament… when the door opened, and a woman walked in, carrying a stack of papers.
+
+“Mister Inspecta, I’ve got everythin’ right here for you.” the woman said. She had dirty blonde hair in dreadlocks and tied up by a red bandana.
+
+A woman who looked familiar, but the last he saw her she had been a kid, instead of… Well, a woman. She must have grown three feet since he last saw her!
+
+Rags had to do a double take.
+
+“Little Lao, ‘zat you?!” he demanded.
+
+Lao’s eyes bugged out as she heard the name. “I ain’t little!” She shot out reflexively, whirling around to glare at Rags… when her eyes widened as well. “Bastard of Three Fathers! Bro Chou, is that you?!”
+
+How the hells did Lao end up working for a law-man?!
+
+==========================
+
+To Rags’ surprise, the meeting stopped mostly, so Lao could tell her story.
+
+“—then I learned he was investigating the missin’ folk, well, I had to help. I snuck him into the compound, got some of the letters, and got out, but a guard found him. We were running, but they were good shots. I thought I was a goner before Mister Inspecta cut three arrows out of the air… before taking the last in the shoulder.” Lao narrated as she sat beside the Special Inspector. She had a bright smile on her face, as she looked at the man. It was a tale of a chance meeting between one of the quiet thieves in the slums and a law-man straight out of one of those weird romance stories that both Loud Boy and Minmin liked… though Loud Boy had to read them aloud to her. They had teamed up to try and get information on the slaving ring, gotten a bunch of letters, and then got caught. Leading to the Inspector jumping in front of a set of arrows that would have killed Lao.
+
+Nobles just didn’t do that for Underbridge folk.
+
+“You took an arrow for her?” He asked the Inspector, his voice serious. That was a debt. A real one, the kind of debt that unified gangs for years. The man shifted uncomfortably.
+
+“I did not intend to get injured. I missed the last arrow.” The Inspector said ruefully. “My Lord Father would have cut every one from the air, then  would have been able to flee carrying Miss Lao here on his back. I’m still lacking in my skills, unfortunately.”
+
+Rags stared at the guy. “Is your dad a cultivator?”
+
+“Yes, you look familiar, Inspector.” Tigu said, squinting at the man’s face. “I may have met them before.”
+
+“Ah, no, he's just a normal man. He lives far out of the way, and avoids matters of cultivation.” He said, clearly uncomfortable now “It was only the luck of the heavens that we were delivered by Lady Xinlai.”
+
+The Grey Water Lady, who had been frowning heavily at the closeness between the Inspector and Lao suddenly preened at the praise.
+
+“Yeah, without Lady Xinlai we would've died—Shes amazing! She cut down those bastards like that!”
+
+“I didn't do it for you, fool,” the woman said, looking slightly uncomfortable at Lao’s praise. “The inspector owed this Young Mistress tea, and I would not let him leave his debt unpaid.”
+
+Rags sighed, as he looked at the moon eyes Lao was giving the Inspector. “So Boss Tanhui knows what you were doing, doesn’t he?” He asked, already knowing the answer.
+
+Lao froze and flushed. Rags raised his eyebrow at the dumbass. “...Kinda? He's probably real worried right now. He didn’t want to get involved.”
+
+Rags sighed, and made his decision. “Well, that's where we’re going next. To see if he’ll help us. They’re a bit rough around the edges, Inspector, but they’re loyal and true—they’ll solve our manpower issues, if we can get them to agree.”
+
+“Then we’ll have to take that chance. I shall come with you. They deserve to know what they’re getting into directly from me.” The Inspector replied, his face set, and ready to go.
+
+Rags looked at the guy. Really looked at him, looking for any signs that he wasn’t honest.
+
+But the law man in front of him was serious. Serious about actually upholding the laws, rather than just the laws for the bastards at the top.
+
+Grudgingly, Rags. found himself respecting him. “Good! A man should be a man, and tell people things straight!” He clapped the man on his good shoulder, and gave him a firm, manly nod.
+
+The pretty boy nodded back.
+
+“We’ll go together.” Xiulan said, as Tigu stepped up beside her. Xianghua and Sergeant Han will go to the Plum Blossom’s Shadow, and see what else they can learn.”
+
+========================
+
+That was how Rags found himself navigating their little crew through the side alleys. Tigu, Xiulan, Loud Boy, Delun, Lao and the Grey Water Lady had joined in with the Special Inspector. All of them were wearing the wide brimmed hats of the fishermen who plied the Twin Rivers. It was a common enough sight, especially going through these alleys. Nobody would give them a second glance.
+
+It was kinda fun, he had to admit, being on the same side as the law. He was more used to running from guards after he had stolen food from one of the rich inns, or scavenged from some noble’s spice garden. Like that heist he pulled when the Farrow Gang had left the city. They had been eating good for weeks, and he had been able to afford medicine for Granny Na.
+
+He was glad he had left. He hated Grass Sea City, and judging by the looks of his friends, none of them had particularly liked it either.
+
+None of them were really in the mood for chatting or banter though as they wound through the side streets, heading lower into the city. The crowds got thicker, and the buildings shabbier, until they found what they were looking for.
+
+A yawning stone archway filled with people—the main entrance to North Underbridge. It was as tall as three men, and it had, once upon a time, probably been something beautiful. But now any worked stone had been worn away by time. The faded and weathered sign that called it Bei Qiao Xia was covered in graffiti. Lanterns hung down in a mess of strings, bathing the entrance in red light. The tunnel itself was dimly lit, the lanterns continuing all the way through the bridge.
+
+“Welcome to Underbridge. Stick close and watch your coin purses,” Rags warned. He saw Lao shuffle closer to the Inspector, her eyes peeled.
+
+They pushed into the entryway, into his old home, and onto the main ‘street’. The temperature abruptly spiked, from the warm but pleasant city to something just slightly higher than comfortable, especially with how humid it was.
+
+They pushed into the crowd, and Rags felt just a little nostalgic. The dull roar of the city seemed magnified here as the sounds of thousands conducting business and living their lives echoed off stone walls. People hawked their wares, restaurants cooked, and wives argued with each other while standing outside of stone dwellings. The place was full of the smells of spices and cooking, with the undercurrent of stale sweat and candle oil made from the fish that lived in the rivers.
+
+Occasionally, a gust of wind would bring in fresh air, but on bad days? It would start raining. Somebody had once told him it was from the water in men’s breaths, as well as their sweat. Rags believed it.
+
+The main street was obviously wider than Loud Boy and Tigu had been expecting, judging by their noises of interest—and it split off to the side into a multitude of alleys and dead-ends. The bridge was, after all, nearly half a Li across, and a warren of tunnels originally built during the old days, before whatever cataclysm had shaken the province.
+
+Now it was home to the poor and the desperate. The mainstreet was the best part of it, but if one looked into any alley, they would see some sorry soul strung out on the heavens knew what and soon to leave the world.
+
+It was a shitty place, no two ways about it.
+
+“Is the entire place like this?” he heard Tigu whisper from beside him.
+
+He paused and glanced at his friend. She had a frown on her face, but he could see the look of anger that she had. Her eyes were locked onto a skinny kid, one whose ribs were showing through the holes in his ragged shirt.
+
+“Yeah. It's a fair bit worse than Pale Moon Lake City, eh?” he joked. “Grass Sea City is the place of opportunity, they say. So people come in, looking for work. They look to make it big… And all they end up doing is feeding the forges or pumping the bellows.”
+
+Tigu sighed. “I don’t know how to fix this problem.” She actually sounded regretful.
+
+Rags smiled at her. Really, a cultivating cat who had transformed into a young woman cared more about people than the actual leaders of the city. He should have been shocked… but he guessed Tigu was special in that way.
+
+Tigu cared. That was more than most people did. She saw a problem and wanted to fix it.
+
+A couple years ago, Rags would have said this city was unfixable. It was why he had gathered his people and left, after all.
+
+But what would he say now? Here he was, with a Young Mistress who wanted to make things better, a lawman who had decided to trust the people of Underbridge; all, well most of them, were on a quest to unite the Sects of the Azure Hills.
+
+Heh. Guess actions spoke louder than words. He was feeling pretty optimistic these days.
+
+“Well, I think you’ll be able to come up with something. We’re already on our way to clean up one big mess, eh?”
+
+Tigu nodded back. They both glanced at the child again, who suddenly brightened up, smiling and waving. Another kid sprinted towards him, similarly grinning. The new boy had a half-full bag of rice in his hands, and was clearly intending to share in his bounty.
+
+Even in a pile of shit, you could find some people who were better than their circumstances.
+
+He just hoped his old friends were still where he remembered they would be.
+
+Rags continued forwards, feeling even more confident than before. They walked through a couple of twisting alleyways, before they arrived at a door that looked no different than any other door.
+
+Save for a familiar marking on it. He looked back to Lao, who nodded.
+
+“Your show, Boss Chou.” She stated simply, falling in behind him as his second.
+
+Good.
+
+He walked up and knocked on the door. There was the sound of shuffling, then a voice called out.
+
+“Whaddaya want?” a gruff voice demanded.
+
+“A brother from the Bridge is lookin’ to meet with the Boss,” he replied.
+
+A slot carved in the door opened, and suspicious eyes peered out… before they widened. “Bastard of Three Fathers!” the voice exclaimed, and the slot slammed shut.
+
+Rags blinked as he felt everybody look at him.
+
+“I thought you said these were your friends,” Loud Boy said, sounding amused. Lao started laughing.
+
+Rags flushed. “There's some kinda misunderstandin’—” he started, and was vindicated when there was the sound of a jangling lock and the door burst open, revealing a man who was missing an arm.
+
+“Chou, you cock!” he shouted, grinning at him.
+
+“Whats good, brother?” Rags replied, smirking at Ming. One of the old guard. A man with more balls than brains, to stick out the Face Snatchers. ”It's good to see you again… And the boys,” he said, jerking his head at the two other men, both armed with spears. They nodded at Rags, who nodded back.
+
+Ming clasped forearms with Rags, but scowled at Lao, who was looking up and whistling.
+
+“It's good to see you—Now, what did you want? You never come around unless there's a problem, and we got some shit in our rice bowls too.”
+
+Rags chuckled, and scratched the back of his head. “You’re not… completely wrong. I need to see the Boss. My buddies and I need his help.”
+
+Ming frowned. His eyes were searching, before he sighed. “Alright, mister bigshot cultivator, you and your friends can come on in. Welcome to the Community Meeting Hall.” he finished with a grin.
+
+Ming let them into the compound, and past the guards, who both clasped arms with Rags. Then, they went deeper. They passed by several people, then some more people with weapons, until they came to another doorway. This one just had a curtain covering it.
+
+“You ready? Most of the boys are in,” Ming asked.
+
+Rags nodded. Ming turned back around and stepped through the curtain. “Boss! I got important guests, and one dumbass!”
+
+Lao started cursing under her breath.
+
+They came into the room. The last time Rags had been here was years ago. The room was dominated by a large table, and all around the table, there were men. Rough looking men, who wouldn’t look out of place if they were bandits, rather than the real unofficial guard force of Underbridge.
+
+But Rags only had eyes for one man. He was at the head of the table.
+
+A long time ago, he had been just Brother Tanhui. Before the Face Snatchers. Tanhui’s mouth was locked into a scowl as always, and he looked angry. Just like his Sister, Minmin. Rag’s second in command.
+
+“Boss Chou,” Tanhui greeted, his eyes narrowing slightly. He flicked his gaze to Lao.
+
+Tanhui was still upset that Rags hadn’t married Minmin, but they weren’t like that. She was like, his sister! It would be weird. That said, any other man who didn’t want to wife up his Sworn Sister was an idiot. She was strong and kind, she could cook, and clean and shank a bastard going for your back in the guts. She was the perfect woman! Sure she had a nasty scar that went up her neck and face from when a ‘snatcher nearly ripped her face off before Rags killed him, but any fool who couldn’t look past that deserved to die alone in a ditch.
+
+He shook off the thought. The men in the room had gone silent. All of them were looking at Rags, and were obviously slightly nervous. They all knew he was a cultivator now, and were wondering what his game was.
+
+“Boss Tanhui,” Rags replied, greeting his fellow Boss by clasping his hands together. “Good to see you again, brother.”
+
+The mood in the room relaxed at his words and the inclination of his head, showing respect to the Boss of Underbridge.
+
+Tanhui’s scowl even got less pronounced. “You dog. You look good!” his old friend shouted, moving around the table so they could clasp forearms. “Now, what do you want? You only ask me for things, you bastard!”
+
+“That's because Boss Tanhui always comes through. If you don’t want me to rely on you, don’t be so good at shit!” Rags shot back.
+
+The room erupted into laughter as Rags gave their boss face. He was buttering up his old friend a bit, but he was going to be asking for a lot.
+
+That, and Tanhui always did come through.
+
+“You fucker…” Tanhui said fondly. “Now speak! We’re in the middle of something! Like how to handle what this idiot did,” he growled, jerking his head at Lao.
+
+The woman looked utterly unrepentant.
+
+“I asked him to arrange this meeting, Boss Tanhui,” the Special Inspector said, stepping forwards. He clasped his hands and bowed slightly.
+
+Tanhui frowned, but listened, as the Special Inspector outlined his plan.
+
+============================================
+
+“You want us. You, the Special Inspector of the Azure Hills, want my boys to help you to arrest over a hundred nobles and their families?” Tanhui asked the Special Inspector.
+
+“That is correct. By the power invested in me by the Lord Magistrate of Pale Moon Lake City, you would all be formally deputized and a part of the Azure Hills Militia for the duration. Every action you take would be completely legal. You do not have to fight, either. We just need fine, trustworthy men to guard them so they can’t escape while the rest of my companions do the fighting. You won’t be in any danger,” The Special Inspector explained. “I will also, of course, be arranging compensation for your time and the risk to yourselves.”
+
+Tanhui leaned back on the cushion he was sitting on, clearly thinking. He hummed, rocking his head back and forth, before speaking again.
+
+“It's a good deal, Mister inspector, it's a good deal,” Tanhui said, yet while the Special Inspector seemed pleased, Rags grimaced. “But, while we can do this… what happens after you leave?”
+
+The Special Inspector paused, and his eyes widened.
+
+“Let's say we do help you out. We just became the people who spat in the face of the nobles. You go back to Pale Moon Lake City. We’re all stuck here. So tell me, what happens, after your protections fade? When the nobles look at the people who just helped to catch their family and friends?”
+
+There was silence. The men who were leaning against the walls were all grim-faced. Rags cursed internally. He would just fight his way out. Tanhui? Tanhui couldn’t and they couldn’t just sit around in Grass Sea City…
+
+The Special Inspector closed his eyes and then sighed. “You are correct, Boss Tanhui. I can’t say what happens after. I can try my hardest to get more guards and change things… But this plot runs deep. If we fail to capture even one, it would indeed possibly fall upon you.”
+
+“...then we cannot help you. Not directly.” Tanhui said. He sounded apologetic.
+
+Rags, out of the corner of his eye, saw Xinlai glare at Tanhui. He could almost see her screaming “you dare?” at the man for questioning the Inspector, but Xiulan placed a hand on her shoulder. The Blade of Grass had kept her hat down, hiding most of her face. But now, she stepped forwards.
+
+“You fear for your people, Boss Tanhui. I understand,” Xiulan said, speaking up for the first time. “Your concern does you credit. But while the Special Inspector cannot say what will happen next… I can.”
+
+She tipped back her hat, revealing her face. She went from nondescript to some kind of avenging guardian spirit in an instant. Everybody not used to her gasped.
+
+“Demon-Slaying—” Tanhui gasped as Xiulan stepped up beside the Special Inspector and knelt down, like she was treating him.
+
+“The Magistrate of the city will not target you. Neither will the nobles. I shall deal with them, and the members of the Verdant Blade Sect, the Misty Lake Sect, and others will make sure that no noble ever gets any of these ideas in their head,” Xiulan said, her voice soft, and yet every word was utterly captivating. “They have lapsed in their duties. They have preyed upon the people. For that, we shall destroy them. But as we are right now, we cannot be sure. Right now… we have to ask you to lend us your strength.”
+
+And then Xiulan bowed. Like when Master Jin had bowed to him, it seemed to knock something about in Tanhui. A cultivator, the slayer of the Face Snatcher Gang, the Demon-Slaying Orchid, was bowing to him and asking for his help.
+
+Rags knew he had nearly shit himself when Master Jin had done this.
+
+Tanhui swallowed thickly. He licked his lips.
+
+The leader of Underbridge took a deep breath.
+
+“If you can do that… Then, Special Inspector, we will gladly stand with you,” he said.
+
+He stood up and walked towards them. They both stood as well. He and the Special inspector clasped forearms, sealing the deal.
+
+He paused, when he turned to Xiulan, unsure of how to properly address her.
+
+Xiulan held out her hand to a man from the slums—not a martial salute between practitioners. Not a demand for a bow from an inferior.
+
+She held out her hand to clasp forearms as if Tanhui was an equal.
+
+Tanhui reached forwards and took Cai Xiulan’s hand.
+
+Rags knew he was watching the start of another legend as the boys stared with wide eyes.
+
+===================================
+
+Rags stayed behind for a little longer as the rest of the boys went out to get everybody together.
+
+“Is she serious?” Tanhui asked without preamble. He always had been suspicious. Even after he had agreed, he was clearly wondering if he had made the right choice, or if her words had just been something pretty to strong-arm them into it..
+
+“Absolutely. I wouldn’t be following her if she wasn’t,” Rags replied easily.
+
+Tanhui froze at the words.
+
+“What did she promise you, Chou, to follow her?”
+
+Chou looked up at the ancient ceiling.
+
+“No more Face Snatchers. No more Sun Kens. No more little wars between sects that catch people like us in the crossfire.”
+
+His old friend’s eyes widened. “...and you believe her?”
+
+“Enough to bet my life on it,” Rags replied with a smile.
+
+Chou saw a glimmer of something that had never been in Tanhui’s eyes before.
+
+Hope.
+
+==========================
+
+A few hours later a veritable army boiled up from Underbridge. Men all wearing a blue sash on their arms.
+
+The city heaved as they marched, their eyes blazing with purpose.

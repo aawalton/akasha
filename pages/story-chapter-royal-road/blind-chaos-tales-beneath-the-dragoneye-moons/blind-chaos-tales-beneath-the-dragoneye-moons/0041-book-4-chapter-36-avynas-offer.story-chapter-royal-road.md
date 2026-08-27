@@ -1,0 +1,191 @@
+---
+id: 449dedd8-e67d-57de-8468-1a7264152dc1
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 36 - Avyna's Offer"
+slug: 0041-book-4-chapter-36-avynas-offer
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 41
+ownLength: 3693
+unit: words
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2863142/book-4-chapter-36-avynas-offer"
+royalRoadId: "2863142"
+---
+
+Ranthia made her best effort to accelerate her perception without changing the cadence of her breathing—she needed a moment to think. But anticipation and dread fought a brutal war through her consciousness that made it difficult, even with her thoughts coming as fast as the System allowed.
+
+Truly, there was only one section that Ranthia hated, and it was the time limit—they had forty-five years left, and Ranthia periodically struggled with that ever-shrinking number. Her heart and her hope insisted that Avyna was referring to that section, but a whisper of doubt and fear threatened to cripple her thoughts—it was all too easy to imagine that Avyna was accusing her of falling short of some aspect of the contract. Damningly, she hadn’t actually read it in many, many years; she wasn’t confident that she knew every rule and obligation contained within.
+
+But no matter how insidious her fears could be, they struggled to find purchase against the light of hope.
+
+“<…Is there something you wish we had done differently in our contract?>” Ranthia finally asked a question after her own thoughts circled long enough that she felt some need to speak.
+
+“<I asked you first, my love.>” Avyna answered. The elf continued to keep her features and her voice strictly controlled, offering Ranthia no hint as to her true thoughts or feelings.
+
+Even her eyes were surprisingly steady and focused, as though she was looking past Ranthia into some unknowable future.
+
+“<I… I love the relationship we established. My heart belongs to you, Gemheart. Of course, if I had it my way we would be bound together for ten or twenty thousand years, at a minimum. Maybe thirty. Actually, forty thousand has a nice ring too…>” Ranthia continued to escalate the numbers while she openly snuggled and nuzzled her lover until, at last, Avyna’s mask broke.
+
+Avyna eventually mastered her giggles and gathered the will to playfully swat Ranthia into submission somewhere just north of eighty thousand years.
+
+“<You are incorrigible, my love. …But I do so enjoy it, I shall admit that much. But I wish to be serious. Is that truly the only change you would wish for?>” Avyna succumbed to Ranthia’s flirtatious mood, but she managed to reassemble most of her mask before the final question came.
+
+…But only most. Through the seams, there lurked a strange note of what Ranthia was rather certain was hopefulness. It wasn’t quite anything in Avyna’s voice, or—rather—wasn’t just her voice. Her body language, her eyes. She seemed to be hoping for something specific.
+
+Which left Ranthia more lost than ever!
+
+“<I… nothing else is coming to mind off-hand? I try to be grateful for what I have, because you are wonderful. I truly love you.>” Ranthia hoped she wasn’t making a terrible misstep, even as she kissed Avyna’s forehead tenderly.
+
+The elf fell silent for a long moment, before she took a deep breath. When she looked into Ranthia’s eyes, her mastery over her own expression was gone. The hope was absent too, replaced by something far, far worse.
+
+Fear.
+
+“<What… would you say if… That is… Prisms!>” Avyna had become a hesitant mass of nerves and was clearly getting frustrated with herself over it.
+
+Somewhat helpless, Ranthia tried to patiently wait while the woman she loved struggled to find the words that she wished to say. Though Ranthia’s own fears and doubts latched onto Avyna’s obvious discomfiture and frayed her own nerves. She had no idea what was coming, and she—
+
+“<I have come to regret the provision that stated that I would not bear you a child!>” Avyna unleashed the words as if they were some sort of Sound-based attack Skill. They came rapidly, gathered by her courage and pushed past her uncertainty with explosive force.
+
+And in their wake, Ranthia was left with no sense of how to even begin to respond…! In a daze, Ranthia stared at her beloved. There was something she should say in response, but it felt impossible to figure out what. Her mind scattered in uncountable directions and threatened to drown her very existence in an endless ocean of questions, concerns, and terror.
+
+It was impossible to sort out any specific emotion or thought. Everything was a jumble. She felt like she was…
+
+[*ding!* You have unlocked the General Skill [Panicking]! Would you like to replace a Skill?]
+
+…Seriously?! Ranthia wanted to scream at the System, but honestly? Her flare of incredulity helped. Her disparate thoughts unified into a single purpose, which stopped the spiral and brought her back into the moment.
+
+She still turned down the Skill—she hadn’t wanted it when she was eight and she sure as chaos had no need for it as a sixty-seven-year-old woman.
+
+“<…My love?>” Avyna gently prompted her with obvious concern.
+
+By Xaoc, just how long had she been trapped in her own vortex of thoughts?
+
+“<Sorry Gemheart, you caught me off-guard. Um… Is it okay if I ask you some questions first?>” Ranthia tried to keep her voice and hands steady. Her nervousness hadn’t abated, even if she had returned to the moment.
+
+“<Of course, my love. Ask whatever you wish, I would be happy to answer.>” Avyna’s relief was palpable.
+
+Ranthia tried to rein in her emotions so she could properly consider her questions. Back when they first drafted their contract, she had laughed at the notion of two women having children together, only to be floored when Avyna shrugged it off. Yes, she had been curious ever since—purely because of the weirdness of it—but she had never asked. Yet, there was a far greater question that she needed to ask, before anything else. Depending on the answer, every other curiosity and concern could be moot.
+
+“<Can a human and an elf even have a child together?>” Ranthia asked the key question.
+
+“<While I am not personally aware of anyone actually making the attempt, I had always somewhat assumed the answer to be no. Elves are unable to interbreed with any other species that we have encountered, after all. However, during our rest in Coalition City I met a young man—an elf, I should clarify—that informed me that a reliable [Healer] that was a heavily knowledgeable expert in ‘body stuff,’ as he put it, once told him that elves and humans uniquely possessed the ability to create children together. He described this [Healer] as a great scholar, and he seemed convinced that she must have known humans with elven ancestry.>” Avyna answered with an enthusiastic energy that Ranthia hadn’t expected.
+
+“<…How long have you been thinking about this?>” The words slipped out of Ranthia’s mouth before she quite realized the thought had escaped the confines of her mind.
+
+Avyna hurriedly raised her wrist and giggled softly against it. The joyous mirth helped to take some of the pressure off of Ranthia’s mind—her own happy smile was a natural side-effect of her beloved’s giggles. And yes, she freely admitted that she was something of a lovestruck fool.
+
+“<Please do not tease me, but the thought has been on my mind since you saved my daughter. …My first daughter. Perhaps, I may soon need to clarify.>” Avyna confessed with a shy expression, once she concluded her giggles.
+
+Ranthia’s cheeks started to burn, and she reflexively buried her face in Avyna’s hair to hide the blush.
+
+“<Um. Okay… I… Oh Xaoc, I was not expecting this conversation. Um…>” Ranthia mumbled into her lover’s beautiful, blonde hair.
+
+She had never heard of anyone in Remus that had elven traits, but her International Studies course at the Ranger Academy had seemed far more aware of the elves as people, with precious little information about their nation. It was absurd, but it wasn’t impossible that there were a few humans with elven traits hidden away somewhere—Xaoc knew the emperor hid much from his people. She had found a secret facility where the empire was breeding or taming—or something—monsters from beyond their nation. Was it truly so hard to imagine the existence of a conclave that wasn’t spilling its dangerous evidence across Remus?
+
+But with their ability to have a child confirmed, Ranthia found herself struggling with her own fear. She had never wanted to be a mother; she had no idea how to be a mother—she hadn’t exactly had the best example. Tatius and Pupius had been great fathers, but they were fumbling around and trying to do their best. It wasn’t like they had chosen to have a daughter!
+
+She had never wanted the responsibility—she was terrified of it. It was the same fear that made a bonded companion beast untenable. Ranthia could join hands with other adults who sought their own paths, but the idea of trying to look after a wholly dependent being…
+
+“<Gemheart, I am flattered. Gods and goddesses, I cannot possibly explain just how flattered I am! …But I really don’t think I would be fit to be a mother.>” Ranthia whispered her fear into Avyna’s hair, trusting her beloved’s ears to pick them up.
+
+“<Nonsense, my love. You risked your life and directly confronted the former base commander, just to save Caeli. You do not even bear blood or obligation to her, and yet you acted as any parent would—or rather, should. You are caring, you are deliberate, and you have a marvelous level of passion and flexibility. Everything I know about you makes it obvious that you would do anything in your power—and quite possibly feats beyond even that—for our child. I would not be entirely surprised if you proved to be a better parent than I am.>” Avyna waved the concern off while she affectionately—or, perhaps, reassuringly—squeezed Ranthia.
+
+Oh Xaoc, she’s put so much thought into this… Ranthia wasn’t surprised, she knew well that she had fallen in love with a woman that excelled at planning, but…
+
+Avyna’s reassurance did nothing for the terror that chilled Ranthia down to the very core of her existence.
+
+“<I don’t even know how to be a mother. Remember, I have no memory of my childhood from either lifetime, and mine abandoned me days after I awoke.>” Ranthia tried to reason with her elf, even if she couldn’t quite keep the tremor out of her words.
+
+The terror made her mind and heart more pliant, and the dark pain that Ranthia held in her memory seeped through her ancient, intangible wounds.
+
+“<You know more than you think. You have told me of the noble sirs that raised you, Tatius and Pupius. You could do worse than to follow their example when you are unsure of how to act. And never forget that we would be together on this.>” Avyna was merciless with her logic. Endlessly reasonable, she had the perfect counter to Ranthia’s every concern.
+
+“<…Why now?>” Ranthia finally asked after a long moment. Her mind was grasping for more information, so she could find some logical argument that would convince Avyna.
+
+Because she wasn’t sure if she was brave enough to say no.
+
+“<We… have enough guaranteed time left together to know whether our child will inherit elven immortality or end up as mortal as you once were. If I delayed much longer there may not be certainty.>” Avyna’s answer came off as evasive, but Ranthia’s fraying mind couldn’t grasp any reason why.
+
+Ranthia shrugged it off. More likely, it was just her own insecurities affecting her judgment. She wanted to see hesitance from Avyna, and her mind provided it.
+
+“<A warzone is no place to raise a child.>” Ranthia attempted another argument against motherhood. It was an obvious point to make, which meant that Avyna had undoubtedly considered it. Gods and goddesses, it wasn’t like Remera lacked for children as things were, but she was running out of arguments and excuses.
+
+She really hated the idea of outright refusing Avyna—and she wasn’t convinced that she was strong enough to do so. But, oh Xaoc, she couldn’t even imagine herself raising a child, and she was a very creative woman! That was how wildly unsuited she was to the task!
+
+“<I would have to journey to Coalition City anyway to find a licensed [Alchemist] that can brew what we would require. As the one bearing our child, they would require my blood for each stage of the process to create the alchemical means. You would need to visit once the foundation is ready. …But I would likely have to stay in Coalition City throughout my pregnancy and for the first eight years of our child’s life. You may stay with us or visit as often as the war allows. Once our child unlocks their System, we can return to Remera. There are numerous other children here, after all. And between the two of us, I am confident that we could keep an unlocked child safe.>” Avyna had plainly spent a lot of time planning. She recited and summarized what she had already envisioned with practiced ease.
+
+That… explained the mystery of how two women could have a child, Ranthia mused to herself. Or at least it explained enough of the mystery—elven [Alchemy] was undeniably more advanced than Remus’ own paltry efforts. And honestly, Ranthia’s curiosity had soured somewhat. In that moment, she didn’t want to know more details about how the process worked unless she wanted to go through with it.
+
+And the one thing she was still certain about was that she did not want to have a child. Even if she had ten thousand years, she struggled to imagine that she would ever feel ready to bear such responsibility. She just wasn’t suited to the task.
+
+And she was running out of excuses.
+
+Ranthia rolled her shoulder backwards and gently fumbled until her fingers found the large cup of water next to their bed. She offered it to Avyna first, and let her lover drink her fill, before she accepted the cup and drank. The cool, life-giving liquid seemed to dampen her fear, just a little.
+
+Ranthia made her decision and, in the time that it took her to return the cup to where it was, she found her determination.
+
+…She still sent a quick prayer to Xaoc, selfishly asking for ‘luck’—while making it clear that she had no expectation for Him to do anything. Xaoc seemed to be somewhat unimpressed with her, and took just over half her mana in retaliation for being dragged into her personal life.
+
+“<I love you so much, Gemheart, and I… Your offer means so much to me.>” Ranthia began.
+
+“<But.>” Avyna interjected the word with a whisper, her tone difficult to define.
+
+“<…But,>” Ranthia agreed, “<I’m just… I’m not ready to be a parent. I don’t know if I ever will be, honestly. Gemheart, I’m terrified at the prospect of being a mother. Yes, Tatius and Pupius helped me, but I don’t know if I can agree that they truly raised me. I consider them my fathers, yes, but… I also did much to raise myself, not as a parent, but because of my knowledge and whatever weight of experience that I carried into my new life. Gods, I don’t even know what a parent’s tenderness truly feels like—those two were always kind of awkward. Some essential piece of parenthood is entirely foreign to me. Yes, I could learn …probably. But not in a godsforsaken war zone. Even with just you here—even with how incredibly capable you’ve proven yourself to be, time and time again—I still feel terrified sometimes. At least when I’m feeling low.
+
+“<Even if I could be a mother… Even if I wouldn’t fail both you and our child at every turn, I honestly don’t think I could function if our child was here. Each time we faced danger… I don’t know what I would do.>”
+
+Ranthia had started crying at some point while she spoke. She never even noticed until the words finally stopped coming. She hadn’t meant to say even half of what came out, but once she started giving voice to her fears, they kept coming. The result left her feeling raw and vulnerable, as though she were back in her [Mind Healer]’s office. Gods and goddesses, she probably needed to write to the woman again.
+
+No matter how many years passed, she still continued to find rough edges within herself.
+
+Ranthia made an effort not to make Avyna’s beautiful hair too gross as her face continued to leak unabated. But they both remained silent—and continued to embrace—as they each struggled with their own thoughts.
+
+“<Very well, my love. I accept your decision; I simply wished to make an offer.>” Avyna finally announced.
+
+Ranthia was pretty sure that Avyna’s good cheer was somewhat forced. She was certain that she had disappointed the love of her life…
+
+But Avyna still freed an arm to brush away Ranthia’s tears, before she kissed her. Because she truly was perfect.
+
+“<What is this, my love?>” Avyna called out.
+
+It had been a few days since the… offer, and life had returned to normal. Avyna hadn’t brought her offer up again, nor had she ever displayed any hint of disappointment. It was almost enough to convince Ranthia that the entire conversation had been some especially twisted nightmare, but even she wasn’t willing to be so deluded.
+
+They were in the midst of cleaning up their home and going through their accumulated clutter, driven by Avyna discovering that one of her missing books that she rented out was (quite inexplicably) hidden in a drawer amongst Ranthia’s sexiest undergarments. But honestly, they had accumulated quite a few possessions from traders and from their visit to Coalition City, things that neither of them truly needed. Many of the items would be donated to the small tent where unwanted items were free for the taking for anyone stationed within Remera, but there were already a few things that Avyna intended to add into her shop’s stock.
+
+Ranthia ducked through the partially open dividing curtains, still carrying the lid that seemingly failed to fit atop any pot or pan contained within their home. She wasn’t about to set it down—the darn thing would have undoubtedly vanished if she did.
+
+Once Ranthia laid eyes on her, Avyna hefted up a massive book. One that Ranthia had completely forgotten about.
+
+“<Oh! I… had meant to gift that to you sometime as a joke.>” Ranthia offered a lame explanation as she suppressed the urge to cringe. Somehow, the idea of a tax book as a gag gift was considerably less hilarious after so many years.
+
+“<Oh? Let me see…> The Tax Codes of the Nation of Devils?” Avyna carried it into brighter light and checked the (marginally darker red on bold red, because some people just hate eyes, apparently) title.
+
+“<Yeah… like I said, it was a gag gift. I got it when I got that cursed book that we buried.>” Ranthia confessed, feeling extremely stupid. It was one thing to give someone a gag gift that had ceased to be funny, but it was even worse to have completely forgotten about it until Avyna found the thing.
+
+“<My love, this is perfect! Thank you, this promises to be helpful. I look forward to studying its contents.>” Contrary to every expectation, Avyna was beaming a bright, happy smile Ranthia’s way and her words were unambiguously sincere.
+
+“<You are a very strange woman sometimes, Gemheart.>” Ranthia deadpanned. Who would ever look forward to reading about taxes?!
+
+“<You, my love, do not sufficiently appreciate the life of a [Merchant] that wanders Pallos.>” Avyna sassed in return, a grin on her face.
+
+Okay, that was fair.
+
+“<Will it really be that helpful?>” Ranthia asked.
+
+“<Yes! It is marvelous timing; I will likely actually use what I learn from this within a short time after we part ways. Thank you so much, my love! I was not even aware that copies of such tomes of study could be found anywhere beyond their borders! I should have plenty of time to memorize the contents in full, even with its obvious size. Forearmed with their laws is forewarned, when it comes to the devils.>” Avyna seemed to be downright giddy.
+
+She even practically pranced while she approached Ranthia to reward her with a quick kiss.
+
+Ranthia was only barely able to appreciate it. Her heart ached far too much at the mention of how little time they had left.
+
+Just forty-five years. Only slightly better than half of their time together remained…
+
+Ranthia was sixty-seven, but—absent obvious tragedy—she would live an immortal’s life. Forty-five years was nothing. Gods and goddesses, she had already lived longer than that!
+
+And every year that passed left her even less convinced that she could face life without sharing it alongside Avyna. But ever since that damned conversation, it was increasingly difficult to hold out hope for Avyna to change her mind.
+
+Avyna was true to her word and spent an inordinate amount of time studying the dense book of tax laws for some distant nation. Their home gradually became littered with paper, as Avyna took notes and organized them for active referencing. The elf was especially excited that there was an appendix in the book that listed the four previous versions of every law and rule that had ever changed, along with explanations of when and why each change was made. Somehow, for reasons that were beyond Ranthia, this was a great thing because it “future-proofed the knowledge” that the outdated book had to offer. They were words that Ranthia understood, but she was left confused by the implications that had left Avyna so adorably giddy.
+
+Ranthia remained silently concerned that the book was just as cursed as the horribly unromantic dullahan ‘romance’ had been. She had even thrice prayed to Xaoc to break any curses that might affect the woman she loved, but to date her god had refrained from responding to her pleas.
+
+Though after Avyna swore her to silence about the book’s existence, she nearly gave in to her petty selfishness and burned the book, just to be safe. …But cursed books were (probably, gods willing) just a ridiculous superstition, much like ghosts or islands that flew across the skies of Pallos.

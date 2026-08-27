@@ -1,0 +1,147 @@
+---
+id: 7c1c1f25-786c-54bc-a912-034bcc76cb6e
+page-type-slug: story-chapter-royal-road
+title: "v5c14.2: Training Montage Part 2"
+slug: 0120-v5c14-2-training-montage-part-2
+partOf: beware-of-chicken
+position: 120
+ownLength: 1665
+unit: words
+ownProgress: 1665
+publishedAt: 2024-06-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1690478/v5c142-training-montage-part-2"
+royalRoadId: "1690478"
+markedReadAt: "2026-06-29T18:55:37.589Z"
+---
+
+Bi De opened his eyes to the wooden interior of the hut Master Forest Sweeper had loaned them.
+
+It was slightly too small, but it was warm and cozy—and doubly warm, for Bi De was currently being hugged to Yushang’s stomach, the woman using him as a cushion, and Yun Ren’s arm as a pillow.
+
+On the other side of Yun Ren, Han's back was pressed against the man’s side, while Shao Heng slept sitting up. Fenxian was further still on the other side of Shao Heng, and finally, Yingwen had the bed, still the most injured.
+
+Yet he was improving every day, as the heat and Ri Zu’s talent enabled him to begin exercising in earnest, his new limb working with him rather than against him.
+
+Bi De took all of this in, then breathed out.
+
+Today was the fourth day. Three more days left.
+
+Bi De gave his companions five more minutes, then wiggled out of Yushang’s grasp and rose. He felt Ri Zu stirring on his back as he opened the door and hopped onto the roof.
+
+He closed his eyes and felt the light of the silver moon—as well as the barest hints of the sun’s rays below the horizon and out of sight.
+
+Bi De raised his voice to meet it and poured his Qi into the world.
+
+His companions heeded his call, arising from their slumber filled with vigor. They once more strode out into the snow, and Yushang looked up at Bi De.
+
+“Even if this wakes me up more, I still say the singing was nicer… ” she grumped as she moved past the chicken on the roof and started on her morning routine.
+
+==============
+
+Spooks, as reliable as always, arrived not too long after they had finished their morning routines, bringing with him the bounty of the forest. Spooks was an amusing fellow, and Bi De had a hard time figuring out if the Thunderhoof was being serious or joking at times, but he was a dutiful and polite disciple, aside from his habit of appearing behind people unannounced.
+
+The lichens, mushrooms, and nuts were quite tasty and packed with Qi, as befitting this forest.
+
+After they broke their fast, they again traveled to the Eternal Winterbloom, where they began their training once more.
+
+Bi De’s leg slammed into Yingwen’s guard and broke through it—this time from the power of the blow rather than Yingwen’s new leg buckling.
+
+Bi De immediately paused and retreated, allowing the man to reset himself.
+
+“How was that?” he asked, curious.
+
+“About as unpredictable as the artificial demons,” Yingwen replied, rubbing his chest. “Those spines of Qi you crafted were one of the weapons they used, hidden within their bodies.”
+
+Bi De nodded, stroking his wattles. “Very high resistance to pain and damage, hidden demonic weapons that may or may not be poisoned, and a complete disregard for their own health. They will certainly be a trying foe.”
+
+“Without the benefit of an ambush, they will be much less effective,” Yingwen said confidently. “We know now our enemy and their tricks, so they will be less able to surprise us. Thank you for the pointers in any case, Bi De. Allow me to catch my breath and then we may begin again.”
+
+Bi De nodded and turned his attention to the rest of the clearing.
+
+Fenxian was currently locked in a duel with Spooks. Blade clashed against antler. At the First Stage of the Profound Realm, Spooks had a solid foundation, and his cultivation style played to all his strengths. The freezing chill he could summon, his bulk, and his antlers made for a solidly built juggernaut of an opponent that could simply outlast people, sapping their strength in a battle of endurance.
+
+Yushang was meditating beside the tree and would occasionally lash out with her sword through an empty space—the space where Yun Ren’s technique was located, trying to disrupt it.
+
+Ri Zu and Shao Heng traded their own pointers. The man deflected Ri Zu’s thrown needles and advanced with purpose, closing the distance. Though much weaker in body and cultivation since his injury, Shao Heng was still a skilled, wily opponent. He was a man who was used to fighting things stronger than him, and surviving ambushes. He weathered Ri Zu’s assault admirably, and when he was finally spent he assisted Ri Zu by setting up verbal scenarios for her to walk through and how to identify snow patches for signs of disturbance other than wind.
+
+Finally, Han had his hands on a formation, using the formula he had created to imbue an Artificial Spirit into Yingwen’s sword, enabling it to channel his Qi better and accept a greater reinforcement than the blade would normally allow.
+
+Bi De smiled slightly.
+
+In spite of everything, Bi De couldn’t help but find the time spent preparing for the storm Master Forest Sweeper was summoning… satisfying. And maybe even somewhat enjoyable.
+
+Yes, they were preparing for battle against a demonic foe in a land so cold even cultivators would freeze to death, but after his time in the Inner Sect of the Shrouded Mountain Sect, where everybody just wanted to get ahead, there was something… pure about all of them working together to obtain strength against a common enemy.
+
+It was almost like being back home; different people doing their best upon their chosen path, all working together towards a common goal. It was like the couple of stories Shen Yu had told Bi De about his time in the Cloudy Sword Sect.
+
+Bi De loved Fa Ram and loved farming, but unlike his Great Master, Bi De had never disliked meditating or cultivating. On the contrary, he found it immensely satisfying to meditate on the world. But unlike simply sitting down for hours for the nebulous goal of ‘getting stronger,’ this came with a clear and present end to work towards, and Bi De felt that that was helping.
+
+Bi De was a cultivator. He was not his master, and he was not on the same path as his master. For the sake of his family and for Fa Ram, he would continue to challenge the Heavens. He could not turn away from this path.
+
+“I am prepared,” Yingwen said, settling himself.
+
+Bi De turned back to Yingwen and nodded, obliging him. Once more, they dueled and Yingwen lasted slightly longer.
+
+They traded sparring partners. They took turns meditating. They got together to discuss hypothetical plans of action, or create contingencies in case one of them was wounded.
+
+They prepared.
+
+===================
+
+In the second half of the day, Bi De worked on perfecting his own technique. It was quite taxing to use, but the air of this place, though cold, was as nourishing as Fa Ram’s and the Howling Fang Mountains'.
+
+He was thankful Master Forest Sweeper had conjured blocks of ice for him to strike at; at half a li tall, as thick as ten men, and reinforced somewhat by the Thunderhoof’s Qi, they were effective at resisting him.
+
+Until he finally figured out what he was doing wrong with the initial impact, at any rate.
+
+Bi De touched the perfectly smooth tunnel he had bored through the block and nodded with satisfaction.
+
+========================
+
+As they came upon the sixteenth hour of training and prepared to leave the clearing, Bi De turned to the Everbloom.
+
+And though he wouldn't turn away from the path of cultivation, that did not mean he would ever fail to honor his Master’s teachings.
+
+He bowed his head in thanks to the great tree, and the Frozen Font, and gave to them his Qi.
+
+The land here had not the warmth of Tianlan, but neither was it the brutal savagery he was expecting when he first gave to this inhospitable land his thanks. It was similar to the indifference of the Howling Fang Mountains.
+
+It accepted his offering of Qi and did nothing else. The world did not suddenly become warmer. He didn’t suddenly feel more protected. Nothing changed at all.
+
+But that was fine. The earth had already given to him. To be greedy and ask for more would have been uncouth.
+
+He turned back to his companions and they went back to the little cottage.
+
+Shen Yu, Nezan, and Master Forest Sweeper awaited them.
+
+“You have done well,” Shen Yu said simply. “So some reward and motivation are in order.”
+
+The old man touched his storage ring and removed something that made all of their eyes widen.
+
+A jug, stamped with a maple leaf and a rice stalk.
+
+A jug of maple syrup.
+
+Yun Ren’s eyes widened. Ri Zu squeaked happily… and then more happily still as Shen Yu pulled out more food from home.
+
+“Wait… is this the “maple” stuff you talked about?” Han asked.
+
+Bi De nodded.
+
+“Behold, the bounty of Fa Ram,” he declared.
+
+Maple-glazed roasted nuts. Indeed, it was a true bounty, and Bi De did enjoy seeing the others' reactions to the syrup. From Yingwen’s look of shock, to Han’s blissful smile, to Yushang’s happy squirming... and to the comically wide eyes of Spooks.
+
+‘It feels like I’ve been missing something all my life, and it suddenly appeared! It's like an old friend—Master! Master, you have to try this!’ the young Thunderhoof sobbed as he licked his lips. ‘It's the truth of the universe!’
+
+Master Forest Sweeper turned his great head to Shen Yu.
+
+‘...did you give my apprentice drugs?’ he asked, looking utterly baffled.
+
+The great Spirit Beast’s construct approached the jug and sniffed deeply, before licking a small bit off the ladle.
+
+His eyes widened and his pupils dilated. He raised his head and bellowed so loud the very forest shook. The aurora above flashed and sparkled, and lightning coursed through the clear sky as Master Forest Sweeper’s mantle took shape.
+
+‘Nectar! Sweet Nectar!’ he roared with delight.
+
+Bi De laughed, getting the feeling that for some reason his Master would find this just as amusing.

@@ -1,0 +1,63 @@
+---
+id: b1c508c7-71cc-5b88-b912-14db4832d284
+page-type-slug: story-chapter-royal-road
+title: "46: Tension"
+slug: 0046-46-tension
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 46
+ownLength: 1488
+unit: words
+publishedAt: 2025-01-20
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2020267/46-tension"
+royalRoadId: "2020267"
+---
+
+46:
+
+Sarah agreed to take on the role of the vanguard, positioning herself at the tip of the formation as she led the way forward. After hearing the truth of what had transpired between Marcus, Jin and Takeshi, who Jack assumed to be the fourth member and possibly the former leader of their group, he had decided that Marcus wasn’t someone he wanted to offer his exposed back to.
+
+Marcus had shown his combative side to Jack and the fact that he hadn’t refused Jin’s words spoke volumes about the general veracity of her claims. It was possible that there was more nuance to the truth and recklessness in and of itself wasn’t a crime, if anything the system seemed to encourage and reward it. But Jack was certain that in this case, it would only get them killed and the fact that Marcus had already, if inadvertently, caused the death of one of his former group members made him certain of his decision.
+
+Marcus couldn’t be trusted with his exposed back and Jack couldn’t let him be a complete loose cannon, because that was what had gotten his group members captured in the first place.
+
+The only place left for him in their diamond formation was in the middle and Jack was a lot more comfortable with Marcus walking to his side, where he wouldn’t be able to escape his peripheral vision or do something too reckless without Jack being in a position to react to it.
+
+On the other hand, Jin seemed to be a different kind of dangerous. He had seen the red-hot rage simmering beneath her gaze for himself when she had recounted the tale of Marcus’ actions and what it had cost them. Whether it was her time in captivity that had built up that rage, or it was her loathing for a man that had cared little enough for his own life in the heat of the moment that he was willing to risk everyone else's, it was clear that she had been bottling it up for a while.
+
+Jack didn’t want to be subjected to that rage when the dam finally burst through, but at the same time, it was clear that while her defeat and capture by the goblins had changed her, it had not broken her. So far, besides the single outburst at Marcus’s belligerence, she seemed to have been managing to keep her emotions in check. Now, if she was given an outlet that deserved it and managed to harness that rage, well, Jack suspected that she could become a powerful ally to have on their side.
+
+The if remained to be seen though and Marcus and Jin had first hand witnessed the disadvantage they were at when compared to Sarah and himself in terms of reaction time. All the fury in the world wouldn’t be enough to deal with an enemy that slit your throat before your sword or spear had made it halfway to them.
+
+“Remember, Jin,” Jack decided to call out to her, knowing that their survival depended on everyone understanding their roles. “It doesn’t matter how long the creature’s claws are or how fast it is. You’ve got a spear, make sure it stays between you and anything that comes at you. Don’t try to kill it, you’ll die. Don’t try to evade it, it’s faster than you. Use every bit of focus you can muster and put the spear between you and the creature no matter what it takes. The fact that it abandoned a head-on confrontation means that it fears getting injured or dying if it tries to brute force the encounter,” He explained, reiterating points while doing his best to give the grim scenario they found themselves in a silver lining, an upthrust of hope that was rooted in educated guesses.
+
+Jin’s goal was to simply buy them time to react to the onslaught and anything more would simply get her killed given her flimsy reflexes and a single piece of armor. In the case Marcus was attacked, he was to react in a similar manner, though given that his odds were even lower than Jin’s, Jack had told the man to dive to safety and trust for him and Sarah to react in time. His own proximity to Marcus meant that if the man fell, he would be next, so Jack had to act regardless if he valued his own life.
+
+He hoped that Sarah’s willingness to act as vanguard and likely shoulder the most amount of risk and with Jack being a pretty likely target, given that he had ruined the creature’s carefully crafted ambush, would inspire Marcus to join into the melee once one of them managed to get the creature pinned down, but he half expected the man to split off from the group and run off into the gray fog to preserve his own life.
+
+If that happened, Jack was certain that the man would die one way or the other given his lack of gear and low stats, so there was nothing to be done there. He only hoped Marcus had meant it when he had declared that he was done running.
+
+An eerie silence blanketed the group as Jack flooded his eyeballs with Qi, until they were full to the brim.
+
+Jack clicked his tongue as he closed his eyes shut, reducing the intensity of True Sight until he found a middle ground between the physical world and the spiritual world. First Jack scanned his own hands, to make sure that he could see his meridians through his skin, before turning to the gray fog.
+
+Sure enough, it wasn’t going to be that easy. Neither was there anything natural about floating clouds of Qi that blanketed the region they were in, slowly but surely shifting under his gaze. His ability to perceive Qi with True Sight only served to scramble his senses upon being surrounded by a sea of Qi that boxed him in from every direction and even worse was the fact that Jack’s ability was linked to his visual acuity.
+
+Still, there was still one observation that had the potential of becoming an ace underneath his sleeve. As they walked forward, the clouds of Qi parted around them like water flowing past a boulder in a gentle stream. The clouds of Qi that made up the fog were forced to shift in accordance with their pace, but that had only quickened their flow in a very noticeable pattern.
+
+If Jack remained focused, he would notice a disturbance in that rhythm as sure as one would see the ripples in the water if a flailing fish leapt out of it.
+
+But why did the unnatural Qi fog part around them in the first place? Jack scanned his meridians and confirmed that there was nothing that had changed, at least not noticeably. Moreover, humans were not immune to the effects of Qi, whether it be that dark-green Qi Trent had tapped into or regular Qi that could empower the properties of their swords and spears.
+
+If there was a distinction between the Qi flowing through his meridians and the Qi that empowered the fog, Jack couldn’t tell. Assuming that there wasn’t, mostly because that was the only line of assumption he could follow through with a conclusion, then they weren’t immune to the effects of the fog at all.
+
+The system was pushing it back for them in a certain radius and it was the only reason why they were still alive. Even True Sight wouldn’t let him fight in the fog if his vision was completely choked by a thick smattering of diffused Qi in every direction.
+
+Perhaps that was the real reason why the lupine beast had chosen to retreat at the first real sign of resistance. Its greatest advantage had been partially stripped away from it and if it wanted to attack, it needed to reveal its form and give them a chance to strike back.
+
+Making a decision, Jack adjusted his shield closer to his left elbow, positioning it quite awkwardly as the entirety of his left hand now peeked out of the radius of the shield. It was an odd compromise, but he couldn’t give up his sword to use Primordial Claw and his shield might be the only thing keeping his heart from getting ripped out, so he would have to settle for defending awkwardly at an angle.
+
+It was a tighter fit now and there were certain angles he couldn’t defend anymore, but it would have to do for now.
+
+As Jack swept his gaze across the fog that parted around them, peeking back every few seconds to make sure the lupine creature didn’t sneak up on him from behind, he found himself hoping that the beast would come for him sooner than later.
+
+Maybe more points in wisdom won’t be such a bad idea, after all.

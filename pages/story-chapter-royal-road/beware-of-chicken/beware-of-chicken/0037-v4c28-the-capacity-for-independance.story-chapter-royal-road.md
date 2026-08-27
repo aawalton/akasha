@@ -1,0 +1,197 @@
+---
+id: b1bd32eb-b283-524d-b330-cb7b3de427a7
+page-type-slug: story-chapter-royal-road
+title: "v4c28: The Capacity for Independance"
+slug: 0037-v4c28-the-capacity-for-independance
+partOf: beware-of-chicken
+position: 37
+ownLength: 2549
+unit: words
+ownProgress: 2549
+publishedAt: 2023-07-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1292643/v4c28-the-capacity-for-independance"
+royalRoadId: "1292643"
+markedReadAt: "2026-06-29T18:52:37.140Z"
+---
+
+“Firstly, I ask you all. What is the Dao?” the old man asked, his voice quiet, yet impossible not to hear. It echoed out so it reached all of them, then went no further. Aside from the majestic antlers adorning his bald head, he did not look awe inspiring. His face was kindly, soft lines belying a man who smiled often. He had a set of plain robes that exposed a positively mundane physique. A body hardened from exposure to the elements and the rough work of tending the land, not the defined sculpture of a cultivator; it was the physique of a father who had let himself go to seed, comfortable in his skin. If not for the horns, he could almost be mortal.
+
+Almost.
+
+If you had ears, eyes, and took breath in this world you could never deny the being before you. He was the air in your lungs, the earth beneath your feet, and the mountains in the distance. He was.
+
+Shennong; the Master of Agriculture and Medicine.
+
+Arrayed around him were a thousand disciples. Each one of them full of vital, primordial power, the likes of which modern cultivators would have spat blood in awe of. They eclipsed the greatest kings and sages with their presence. They held the power of the land, of the elements, and some even had the power of the heavens themselves.
+
+All of them were on their knees before Shennong, students learning from a master who eclipsed them utterly.
+
+In the center of this mass of power sat Tianlan and her Connected One. At first, her Jin had been a bit unnerved by the power of these people but by now he was used to it.
+
+His eyes too were on Shennong. The old man was seated on a simple wooden bench in the middle of a vast plain bordered by mountains. The wind blew gently, carrying with it the scent of herbs and sweet flowers..
+
+“Please, disciples. I wish to hear your thoughts,” he said, after there was no answer for a moment.
+
+“It is the way you do things, Master.”  A giant of a man, clad in furs and rippling with muscles spoke up. His voice had a thick accent to it, and the skull of some beast was sat on one of his shoulders, used as a pauldron. A warlord given flesh, the epitome of a barbarian given form. He was violence incarnate, a tiger amongst men, and yet his claws were sheathed—he had a hoe beside him that had been made out of a battle axe.
+
+“In some ways it is, and some ways it isn’t,” the old man replied with a smile, and the giant man swelled like a dutiful son receiving a father's praise. Shennong nodded to the man, before gesturing to the other disciples inviting more answers.
+
+“The way is the way,” A feminine voice that sounded like the roar of the sun and the whisper of the moon spoke up. She looked like she was partially made out of starlight, a shimmering, celestial form. There was a force behind her voice, a quiet wellspring of strength and fortitude that made her words impossible not to listen to.
+
+Shennong inclined his head. “Indeed. The way is the way. Quite succinct, I do declare. That is the simplest explanation; it is. But what else is it?”
+
+“It is the absolute way to do things. The perfect path.” A third disciple responded. This one was richly dressed. His body was adorned with fine jewelry, the bounty of the earth, and upon his head he wore a phoenix crown. He was on his knees before Shennong, his fingernails were crusted with dirt, yet he was undiminished by his posture of submission and the dirt—this man was a true king, and his actions only proved his majesty.
+
+“Indeed. It is the correct, perfect path. And yet… What is perfection?” Shennong replied, once more opening the question to the other disciples.
+
+Tianlan glanced back at her Connected One. He was listening quietly. The golden seam that had once dominated the center of his face was now barely visible. He glanced down at Tianlan when he noticed her gaze and smiled at her before returning his attention to Shennong again.
+
+They sat together with the other disciples as the cultivators around them discussed what perfection was. All of them were listening to each other, and when Shennong spoke, it was as if the world held its breath.
+
+Tianlan, on the other hand, stopped paying attention. This was something she had heard before. For these lessons, these memories, they were the core of what Tianlan was. It was a part of her deepest self, the instruction of Shennong. That, along with the rules that supposedly governed what an Earth Spirit was supposed to do.
+
+She wasn’t exactly sure if she should even be showing her Connected One this but if there was a rule about it, she couldn’t remember. Her memory still wasn’t the best.
+
+Tianlan frowned slightly. She knew she had done things already that she shouldn’t have but as she rewatched these memories with Jin, as her memory became better and better, she slowly realised something.
+
+It started as a small whisper in the back of her head, but as she felt his power, as she tasted his might, she knew.
+
+Shennong could have made the rules that governed her actions absolute. He could have made it so she couldn’t disobey. And yet… he hadn’t. He had given her—and, she assumed, every Earth Spirit—the capacity for independence.
+
+Or at least for some of them. What she had done with Xiaoshi, bringing her Dragon Veins to the surface? Discouraged, but not forbidden. Getting a body of her own? The same. But becoming more human, abandoning her existence as a mass of energy… it wasn’t forbidden, but in the back of her mind there was a vague feeling of caution from the rules. Like a father warning a child the lake might be dangerous.
+
+On the other hand… the guidelines of her contract with Jin were more absolute.
+
+It was an odd revelation. One that troubled her. Why exactly had she been made this way? She had never given it much thought before, but now, reliving these memories, really looking into the core of herself… she found it strange.
+
+She glanced out of the corner of her eye at her Connected One again as he listened thoughtfully to Shennong. Sometimes, an ugly little thought would worm its way into her head. It asked her why she was making the same mistake twice, in giving everything she had to another human. Why was she trusting them, when they could just break her again.
+
+And then she would remember them, building that little cozy house for her, and all those doubts would disappear. She would feel the acceptance, the deep, guiding bond that was her link with Jin… and she would know there would be no betrayal.
+
+Even Xiaoshi hadn’t truly turned against her in the end. She banished that voice away, every time.
+
+All of a sudden her concentration was broken as Shennong clapped his hands together in a resounding echo that made Tianlan shoot to her feet. “Excellent answers!” he said.
+
+Her Connected One laughed at her shock. Shennong had an odd smile on his face, and Tianlan could swear the memory was looking at her… before his eyes turned back to staring at the crowd.
+
+“Thus, we shall end the lesson here. I shall leave you with these meditations. There is one perfect Dao; there is no perfect Dao,” Shennong said.
+
+The other disciples began murmuring amongst themselves. Tianlan herself paused, wracking her memory for the answer to the sudden nonsensical statement.
+
+“There's a perfect way for you, but there's no one perfect way for everybody,” Jin said. “Or at least that's probably the answer. Could be that there is no answer? I can never tell with these things.”
+
+Tianlan squinted up at him. “I thought you said you were bad at riddles.”
+
+“I am. I’ve just read entirely too many novels,” he joked as he stood up and offered her a hand. “Some of them had some pretty fun stories—I’ll see if I can remember enough of them so you have some to read, when we’re all awake.”
+
+“Thank you,” she whispered, as the world of the lesson began to fade. Tianlan glanced back to where Shennong was smiling at a large man who had a short girl hanging off his shoulders. She couldn’t see the two’s faces.
+
+Tianlan squinted at them. Shennong’s smile widened.
+
+====================================
+
+After they listened to Shennong’s lectures, they practised.
+
+Here, the difference between Jin and Xiaoshi was at its most stark. When Xiaoshi and Tianlan had deepened their bond to use the arts, Xiaoshi had still been like a normal cultivator. They spent hours together, their eyes closed, as they meditated and became one through careful breathing. Tianlan had realised early on that they needed something to break the monotony, and throwing mudballs at him when he got too focused was fun.
+
+With Jin? It was more like they were playing games than training, but she could never deny its effectiveness.
+
+She sat on a rock beside her Jin, the twanging sounds of his Ban Jo echoing through the air. Tianlan, after he was finished, copied him on her own pipa.
+
+It was a song that was a call and a response, for the most part, and they traded off who was in the lead.
+
+Her Connected One grinned as he made his instrument squeal like a scalded cat, and Tianlan rolled her eyes, copying him, before they transitioned into something that wasn’t them just joking around.
+
+Jin had called it ‘Dueling Ban Jos’ and Tianlan had to admit it was appropriate.
+
+Aside from the instruments, they planted crops. They wove baskets. They played Ha Qi. They danced, and play fought… and simply existed together.
+
+And sometimes, they did things from… the other place. The place one half of her Connected One was from. The world without Qi. They played games powered by lightning, and her Jin taught her all kinds of new and fascinating curses. And some of their dances! Oh, Ruolan would have loved that “Tan Go” dance.
+
+Aside from the lack of Qi… the world was just that. A world. One slightly different. In some ways, it was better, at least where her Jin had lived. It was peaceful. There were no demons thirsting for souls, and the petty, every day violence where people died seemed further away.
+
+But neither did it have people like Bi De, Chun Ke, or Meiling. Or Tigu or Xiulan… or any of them.
+
+In that way, it was inferior, because it didn’t have her friends.
+
+Their song ended. Their hearts beat as one, and Tianlan looked up at the smiling form of her best friend.
+
+“… Jin?”
+
+“Yeah, Tianlan?”
+
+“I’m glad you’re here,” she said.
+
+His emotions flashed through a thousand different feelings, before he smiled. There was no fear in that smile.
+
+“I’m glad I’m here too.”
+
+Their bond pulsed. Jin had accepted the end point. He would die one day. She just had to make the days they had together the best she could.
+
+“I’ll make my own heaven right here,” Jin so often said.
+
+Tianlan knew Jin and Shen Yu had been talking past each other, on that front. For him, it was metaphorical. And yet… and yet…
+
+Maybe… maybe the old man might have been on to something.
+
+A heaven. But was she even capable of doing what Shen Yu thought they were?
+
+“Are you ready?” her Jin asked.
+
+Tianlan took a deep breath in time with Jin, and conjured a mountain in her soul; a memory of the time when she was the Azure Mountains, rather than the Azure Hills.
+
+“It should be as heavy as the world and lighter than air,” Tianlan whispered.
+
+“It should never be used lightly, but with exacting knowledge,” Jin replied.
+
+“The first step of creation is destruction. This is the Natural Law,” they both said at the same time.
+
+They chambered their fists. Gold climbed up both of their right arms.
+
+Both of them grinned.
+
+“I wonder how many paving stones we could make out of something that big?” her Jin asked.
+
+“We can find out if you want to. Howling Fang Mountains doesn’t need all of its mountains, does it?”
+
+“No demolishing actual mountains, you insufferable gremlin.”
+
+They stepped forwards, beginning the movement. It was a simple punch.
+
+The simplest of punches.
+
+For others, they would have changed it. Xiaoshi had used a motion his father had taught him. Jin used the teachings of Shen Yu.
+
+It wasn’t flashy. It wasn’t even perfect, as far as a punch went. But as Shennong had said:
+
+It was perfect for them.
+
+====================================
+
+“Hammer!” Tianlan called out to Chun Ke, and the boar chuffed happily, handing it over.
+
+Tianlan was in a great mood as she wormed her way through the shattered Dragon Veins that were her soul. They looked a lot better, a testament to the work she and her friends' had done.
+
+She probably should have been resting after training, but she was feeling particularly energized today—and besides, she was nearly at a part of herself she had been working her way towards for months.
+
+It had started when Jin had mentioned offhand that he couldn’t sense Qi properly. He wasn’t supposed to be bad at sensing Qi. In fact, one of the aspects of their bond was that the user would be beyond other men at sensing it. Nearly to the level of the Azure Emperor.
+
+So she had gone searching. Something had obviously gone wrong… and she was nearly at that connection point.
+
+It took five more swings of her hammer to break through the barricade of gold, and into the connection point.
+
+The problem was immediately obvious.
+
+“No wonder he's so bad at sensing Qi. It would be like trying to spot an ant from a mountaintop,” she muttered as she stared at the lines that were designed to be constantly feeding her Jin information from throughout the entire province. That was what it was supposed to do, but… a third of them were broken, half of them were feeding him a steady stream of nothing, and the rest were running through barely hooked together Dragon Veins from around… Grand Ravine? The conflicting sets of information made him practically blind. He wouldn’t have been able to feel Qi properly unless it was right beside him—and even then it would have been difficult.
+
+Chun Ke chuffed from beside her as she stared at the absolute and utter mess.
+
+‘Start small. Work bit by bit,’ Chun Ke recommended kindly as he pressed into her side.
+
+Tianlan nodded. “Let’s get to it!” she said, puffing out her chest.
+
+She got to work. It would be a task of months still, but little by little, she would get stronger.
+
+Yet as she worked, she pondered. On something that her Connected One said. On what each and every one of them was working towards, even though her Jin hadn’t entirely meant it like how they took it.
+
+She pondered on a heaven right here.

@@ -1,0 +1,151 @@
+---
+id: fe95f33f-380f-5971-be89-4410c7f7eb1c
+page-type-slug: story-chapter-royal-road
+title: "v7c69: Surrounded"
+slug: 0322-v7c69-surrounded
+partOf: beware-of-chicken
+position: 322
+ownLength: 1847
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3564784/v7c69-surrounded"
+royalRoadId: "3564784"
+---
+
+The first few days of my little adventure with Meimei were honestly relaxing. It was just really nice to spend time with the person you love. We did have our mission to repair the Dragon Veins… but we could also afford to just live a little in our search.
+
+It was just the two of us. No extra cart, no extra dependents, just travelling across the sheer vastness that was the Grass Sea.
+
+The landscape changed as we went. The grass came in varying sizes and widths, and even colours. We passed a patch of grass that was crimson red; another on our path had blades the width of my palm and grew as tall as a tree, pointing directly up. It wasn’t all grass either. We wandered past old growth forests that had untouched trees thousands of years old within them.  We crossed rivers that had so many fish and frogs in them you could probably walk across without ever touching the bottom.
+
+I had to say, the best thing about what we had with Tianlan? It was the ability to just… be in the world. It moved on like we weren’t even there, and revealed its deepest secrets to us. If you had given us a camera and Sir David Attenborough, we could have filmed the greatest nature documentary of all time.
+
+…hells, I still might do that, because this was amazing!
+
+Where we walked, no animals took notice of us. We strode through a great herd of bison without a single head turning to regard us. We watched the calves gambol around and headbutting each other with glee. We watched ripperbeak males practising their moves for next spring—they wove together great bowers of grass while they danced and chirped, strutting their stuff with exaggerated swagger.
+
+The chicks were mostly with their mothers, following her around like tiny velociraptors hunting lizards and bugs while she watched over them.
+
+We ran with the great herds of deer; we watched over Azure Hills tiger cubs learning how to hunt; we watched as a veritable tide of bats took to the wing out of a cave, millions filling the night skies as they hunted for insects.
+
+We saw the people too. The little interconnected villages, interspersed among hundreds of kilometers of untouched land. This area was the most populated in the hills. Millions of people called the Grass Sea home, and it still had so much unspoiled land.
+
+The entire thing was basically just a camping trip. I even brought my pipa along, and each night we christened a new kissing rock. Like at Pale Moon Lake we slept under the stars… and no biting bugs bothered us either.
+
+In other words, it was perfect.
+
+“I can see why so many cultivators do this,” Meimei said, leaning back against my chest. “The freedom, the joy of seeing what lies just beyond your view… even this grassland changes so much! Was it like this when you were travelling from Raging Waterfall Gorge?”
+
+“I honestly don't remember much of that trip,” I replied. “The only thing on my mind was getting as far away as I could. But even still, some things stood out to me. I remember thinking the waterfalls were utterly spectacular, even at the worst moments. They were so magical I even once thought that maybe I shouldn’t go to the place with the least amount of Qi. I thought, for a little while, I might even go to Yellow Rock Plateau. I was in a world of magic, so I should enjoy it. Then I ran into an Earth-Crushing Devil Serpent.” Meimei squeezed my hand, but I just chuckled. “Exporing now, with you… it really does bring the magic back. I can’t wait to do this with our kids, too. Seeing the Azure Hills is pretty special."
+
+I felt Tianlan’s amusement… and a feeling of warmth came through our bond.
+
+Meiling just smiled at me, her grin turning sultry. “Then we should probably start making a couple more, huh?“
+
+That night one of the kissing rocks became something much less wholesomely named.
+
+=======================
+
+That morning, however, we got some news.
+
+‘Jin, Mei, change of plans. You need to head north more. Bi De says there's a problem,’ Tianlan told us.
+
+Both of us paused at her words.
+
+“A problem?” Big D wasn’t the type to ask for help if he didn’t think something was truly wrong. “How big of a problem?”
+
+‘Big enough that he's warning me of it, and he's leaving the farm with Ri Zu, Yun Ren, and Spooks. It's some kind of swarm…?’
+
+A swarm big enough Big D was worried, and in the direction the busted Dragon Vein was…
+
+“You tell the Azure Alliance yet?” I asked.
+
+‘Yeah. Xiulan is waiting for your decision.’
+
+“Then let's gather up the cavalry. I’ll go back and get Bane, just in case we need more scouting,” I replied.
+
+So that was what we did. We went from our search pattern to full speed ahead. Xiulan, Tigu, and Yin were the fastest—with a contingent of Yin’s Blazing Swords and some outriders also coming to assist.
+
+We got to the edges of Ash Forest in a week—when all of a sudden the bee behind my ear started wiggling and jolting, making excited noises. All of the bees did the same, shooting into the air with a clamour.
+
+==================================
+
+Bane of the Black Lances had been most loath to leave the Prince—but His Majesty had been steady in his command that he needed her and her sisters, so all she could do was obey. Bei Be and Wa Shi were still with the Prince, as were the foxes.
+
+She had been prepared for her mission—when all of a sudden, they walked into warmth.
+
+Brightness. Connection. Wholeness.
+
+The missing hole in their souls was suddenly filled. In ones and twos their sisters noticed, excited clamouring rising up as they felt Bane’s presence—and they sent their love back.
+
+But what came next was a hammer blow. Their Queen's full attention rushed through the link.
+
+“Ah—my daughters! My Greatest Immortal, Bane of the Black Lances!’ Their mother’s voice was one of shock and utter delight. Her mind touched them, counting, making sure everyone was accounted for, and she was most pleased by what she felt. Her utter joy washed over them all… when suddenly it was replaced by trepidation. ‘His Majesty is here?! Is he disappointed in us?’
+
+‘Nay, the Emperor is most pleased, our dearest mother!’ Bane replied. ‘He knows all, and so knows of your battles against some manner of evil! He comes to lend his stinger! He is only the first. The Blade of Grass, Princess Tigu, and Princess Yin rush to join him, with cultivators from the great cultivator hive!’
+
+‘Excellent! We are ready to hear his orders!’ Mother said, immediately deferring to the Emperor.
+
+Bane and her sisters got into formation and transmitted the message to the Emperor. He looked upon them… and then shook his head.
+
+“This is your show. Tell us how we can help,” he said.
+
+There was silence for a moment… and then mother began to laugh. Long and loud, it went ‘Ohohohohohohoho!’ before becoming distinctly less refined and more bloodthirsty.
+
+‘We had many stratagems, all with varying levels of risk. We thought we would have to use Ri Zu’s shadows and stretch them to their limits… but now, we may strike with impunity. Dearest Daughter, then please, with greatest humility, relay this message to the Emperor…”
+
+=====================
+
+And that was how every town and village south of the Ash Forest was quickly, and quietly, occupied—with forces the Yellow Empress had no knowledge of.
+
+In one location, a clap produced a shockwave that pulped an entire swarm.
+
+In another, the hornets crawled out of their holes into a fine, pale purple mist. They instantly began twitching and dying as they came into contact with poison Qi. A green-haired woman started chuckling to herself as she watched the swarm that would have killed an entire village die ignobly.
+
+In the third, the swarm of hornets met a swarm of jade grass blades, the swords matching, then exceeding their numbers.
+
+In the fourth an entire swarm was simply burned before they even exited the ground, a silver-haired woman detecting their digging. The ground steamed under her golden armor, flames hotter than anything Blaze Bears could produce dancing over her form.
+
+Qi Claws ripped and tore. Swords, spears, axes, and elemental fury tore into the skies as the Blazing Swords and Outriders stood their ground.
+
+In most villages, the populace didn’t even know anything had happened.
+
+================
+
+‘The others report. Cordon complete,’ Vajra reported to Bi De. ‘They are ready to begin the offensive.’
+
+Fa Bi De smiled. For the first time in a very long time… he was going to draw his blades at his Master’s side.
+
+“Signal general advance,” Bi De commanded.
+
+====================
+
+But while some of the humans were oblivious… the Yellow Empress was not. Another blazing assault ripped into hives from the Blaze Bear’s encampment. Lightning burst from nowhere, crackling and sparking. More hives simply and suddenly fell asleep, never to wake up again.
+
+The Yellow Empress shuddered. She had drastically underestimated her foes, it seemed. She was utterly surrounded.
+
+That meant it was time to flee. From what she could see, none of the others could fly. She could simply get away if she left now.
+
+The thought was… unpleasant. It had taken her years to build up to this level of power. It had cost so much to capture this location, just so she could get stronger.
+
+She glared at the golden pool. This was what they wanted. The bears had tried to protect it, so it was something they wanted back. So it was best to deny them. She dipped down, taking a drink of the golden pool beneath her.
+
+As always, the power filled her to bursting. Normally, she would have stopped. When she felt the tingling changes come on, she would pull back so they did not mutate her overmuch.
+
+But this time? This time she kept drinking.
+
+The delicious, invigorating, intoxicating golden liquid settled in her gut and poured into her meridians, swirling round her body. The power. Oh, the power.
+
+It burned like a star in her chest, and she kept drinking. She drank and drank and drank until the golden pool was dry. Something in her chest made a cracking sound.
+
+The sky above her spasmed, and a burning, blazing bolt of lightning speared down from the heavens.
+
+She screamed. Her swarm screamed. It burned. It hurt. It was killing her, it was tearing at her soul—!
+
+It was judging her. It was judging her. What right did it have to judge her?! She was the Yellow Empress! She was the Queen of the World!
+
+She grabbed the blazing, burning power, and ate that too.
+
+The lightning petered out.
+
+And the Yellow Empress began to laugh, her swarm shifting and twisting, the power of both the heavens and the earth flooding into them.

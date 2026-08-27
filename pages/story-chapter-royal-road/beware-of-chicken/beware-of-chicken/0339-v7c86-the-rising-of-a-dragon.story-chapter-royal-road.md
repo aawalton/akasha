@@ -1,0 +1,165 @@
+---
+id: 7074bb01-79b5-57b4-a838-d13fc2dd11ec
+page-type-slug: story-chapter-royal-road
+title: "v7c86: The Rising of a Dragon"
+slug: 0339-v7c86-the-rising-of-a-dragon
+partOf: beware-of-chicken
+position: 339
+ownLength: 2667
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3741900/v7c86-the-rising-of-a-dragon"
+royalRoadId: "3741900"
+---
+
+“Is it starting soon?”
+
+“Court is in session right now, it won’t be long.”
+
+“Oh, I hope it's good news…”
+
+The air was filled with murmurs and gossip. Grass Sea City had ground to a stop as its populace gathered around the Announcement Pillars. The great formation that the Azure Heroes had repaired allowed announcements to ring out across the entire city, making them quite convenient. The Acting Lord Magistrate used them to tell the citizens of events he had planned, progress on the reconstruction of the city, or sometimes just to warn them of inclement weather, reported from outlying towns. His ‘dinner time chats’, as they were called by the people, were a much-beloved institution of the Acting Lord Magistrate’s tenure.
+
+But today, instead of people eating meals while listening with half an ear, all of them were focused. Word had got around that there was an official decision from Pale Moon Lake City about the status of the Lord Magistrate position. Every official had been called into the palace—even Boss Tanhui of Underbridge was there—to witness whatever was taking place.
+
+Everyone in Grass Sea City knew of Pale Moon Lake City—their distant, disinterested overlords that their own leaders constantly quarreled with. There were always speakers on street corners, declaring those of Pale Moon Lake to be jealous of Grass Sea—weak, aging overlords who were pushing down on them to keep them from growing too strong and taking their rightful place as the true capital of the Azure Hills.
+
+The words often found fertile ground. They were proud of their city, for all its faults. They had crafted this shining jewel on the twin rivers. They were the richest and most powerful city in the province.
+
+Yet it turned out that it was not Pale Moon Lake City stepping on their heads, but their own nobles. For a while, that pride had taken a hit. Even as they were grateful to the Azure Heroes, the question bit deep. Were they great? Were they worth anything? Or were they just the refuse of the Grass Sea, shoved into one giant, gilded cesspit called Grass Sea City to labour until they died?
+
+The Acting Lord Magistrate answered that question when he took the nobles’ ill-gotten wealth and started repairing what was broken. He answered it when he walked the streets alongside even the least of them and spoke to them to find out how he could aid them better. He answered it with festivals and celebrations that were even more impressive than the parties the nobles used to hold, but for everyone.
+
+Corrupt officials were censured and stripped of their titles. Guards once looked upon with suspicion at best now served with rigour and honour, earning back trust under the stern right hand of the Acting Lord Magistrate, Good Captain Han. Even the worst parts of the city seemed to evaporate like mist under the sun in his presence.
+
+Nowadays, it was said that a blind woman could walk through the worst parts of Underbridge, alone, with a full purse of coins on open display—and nothing would happen to her. Something that would have, should have been, completely unthinkable.
+
+Under the previous Lord Magistrate, Grass Sea City was a rich city. A powerful city.
+
+Now? Even the most skeptical declared Grass Sea City was a great city. It was the jewel of the Grass Sea.
+
+And it was all thanks to the Acting Lord Magistrate.
+
+A man who had come from nowhere, bearing the title of Special Inspector. A man with the wisdom and fortitude to treat with cultivators. A man who was a personal friend of Cai Xiulan, the Demon-Slaying Orchid—the woman who had destroyed the Face Snatcher Gang, slain Sun Ken, and annihilated the Grass Sea Slavers.
+
+Was there any man more qualified to be Lord Magistrate? He was their man. But now, as the news spread, the old tales of Pale Moon Lake City trying to stifle them came back with a vengeance.
+
+Their old rivals would surely suppress them by taking this jewel back for themselves. They would say he was too young, or make up some other excuse that would take their Magistrate away—and send them back into the clutches of their old rulers.
+
+The city was electric with anxiety. With fear. With resentment and anticipation.
+
+And then, the Announcement Pillars crackled to life.
+
+“My fellow subjects; citizens of Grass Sea City. This humble servant of the Emperor hopes this morning finds you well.” The calm, perfectly controlled voice of the Acting Lord Magistrate came out of the pillars, like this was just another evening chat. “We have just convened a special session of court. I am sure you have already heard some rumours as to what has transpired… and I am speaking to you now to lay these rumours to rest.”
+
+The silence in the square was deafening as every word was listened to intently.
+
+“But first I would like to say some thanks. I still remember that day when I was invested with the power of Acting Lord Magistrate of this city—and I would like to say how proud I am of all we have accomplished together in such a short time. I would like to thank you all for your patience with me, as well as for everything you have contributed towards this city and your fellow citizens. It has been an honour and pleasure to work with you during my tenure.”
+
+Tears gathered in the corners of some people’s eyes as the mood became heavy. The murmuring started up again. Was it really true? Was he really leaving?
+
+“When I was first commanded to take up this post I said that it would be only be temporary, until His Majesty's Government in Pale Moon Lake City decided on a proper replacement. This has come to pass. The position of Acting Lord Magistrate is no more.”
+
+The entire city seemed to intake its breath. Exclamations of shock and groans of disappointment rang out.
+
+“The decision was made after looking at all available facts, and considering the best and most learned men. The Lord Governor and the Lord Director of Civil Service Examinations have made their decree. I have been commanded to take up the post of Lord Magistrate and Lord Protector of Grass Sea City.”
+
+The tension, once about to boil, was suddenly cut as if with a knife as the words registered. The muttering froze. The entire city was silenced.
+
+“I am still a young man, still inexperienced. But I would like to ask for all of your support, so that we may march forward into this new era together. In truth, the title of Lord Protector is merely a ceremonial one…”
+
+Nobody cared about the rest of the explanation about the ceremonial title. Nobody cared… and nobody could even hear it, because the dull roar that had started when the Acting Lord Magistrate had said he was staying drowned out other sounds.
+
+“Lord Protector! Lord Protector! Lord Protector! Lord Protector!”
+
+The chant thundered through the city, and it was said it could be heard all the way to the ocean. The people marched through the streets, and they all had one destination. There, in the main square, underneath the Imperial Palace they gathered, the chant growing and swelling like a rising tide.
+
+And then they saw him, and the massive crowd went silent.
+
+The Lord Protector strode onto the high balcony, to the dais above the crowds. He was a young man, his face unblemished by wrinkles or spots. His hair was immaculately groomed and pulled into a topknot that denoted his truly noble ancestry.
+
+His magisterial robes were in the traditional colour of Grass Sea City, green bordered by twin strips of blue, denoting the city and the two rivers—but something else was added. A vibrant red sash, the colour of the Phoenix. Proof that he was Lord Protector.
+
+His shoulders were broad, and his back was unbowed. On his face was a smile as he looked upon them all.
+
+And he did not walk alone. Four cultivators stood as guards, their own gazes sweeping over the crowds.
+
+Xinlai, the Coursing River Spear and their adopted ‘Empress’. Stern, domineering, and a vision of cold, stately beauty none could match. Her tongue was a dagger, and she suffered no fools… but she was the first to come to the Lord Protector’s aid. She was there with the Azure Heroes from the beginning to deliver their salvation.
+
+An Ran, the Smaller Blade of Grass, the Hero of the Grass Sea’s treasured student. The proof of Cai Xiulan’s promise, upon her oath, to protect them from those who would seek their harm. She was kind and sweet to all save for villains, who only tasted her blade.
+
+Narantuya the Sun Hawk and Sarantuya the Moon Hawk, the Grand Ravine's Twin Talons, stood at the flanks. The strange new additions had proven themselves fierce hunters of those who had designs of the Lord Protector’s life; and more than that, they had arrived because even the Grand Ravine Sect had proclaimed the man a virtuous and wise ruler. They had at first seemed like silent assassins... but more and more people saw them cracking playful jokes, or doing acrobatics to entertain children.
+
+And with them were other familiar faces: Good Captain Han, Boss Tanhui, Big Sis Lao, one of the Heroes of Underbridge, his ministers and under-secretaries.
+
+All of them stood behind the Lord Protector as he looked over his people.
+
+The Lord Protector’s hands rose and he clasped them in the gesture of respect, inclining his head to his subjects.
+
+Then, something beyond everyone’s wildest imaginations happened. The crowd gasped as a legend came to life.
+
+From behind the magisterial palace, a dragon ascended, snaking into the sky and off into the distance—as if the Heavens themselves were predicting their rise and had sent a messenger to deliver a divine mandate.
+
+The roar that erupted was deafening.
+
+===
+
+“I still can’t believe you did that!” I shouted to Washy over the din.
+
+“What? It was funny!” the dragon that was currently a fish replied, looking entirely too amused with himself.
+
+“I think you might have started a cult!” Meimei said, trying to sound like she was scolding him, but instead she was just struggling not to laugh as we navigated through the crowd.
+
+Grass Sea City was currently in the midst of a truly epic impromptu party.
+
+New Year’s celebrations in Verdant Hill were great, don't get me wrong, better than any party than I had ever been to in the Before, but this was electric.
+
+It wasn’t commanded or planned. People just spilled out onto the streets into a spontaneous wave, and the vibes were absolutely immaculate. Everyone was having a good time, drinking, singing, and generally just letting it all out in a massive wave of joy.
+
+Everywhere we went we heard some story about the Lord Protector, running with the guards, walking the streets, solving disputes between people with only a few words—he was a chip off the old block, it seemed.
+
+While it was interesting seeing the whole government ceremony investing the newly-instated Lord Protector with his powers… it was also long and kind of boring. So we decided to head off into the city while Lady Wu and Xue Ji interrogat—got to know her son’s paramours.
+
+Five? What the hell, man. Damn, but also, damn, your life is about to get really interesting. Interesting in a good way or interesting in a bad way remained to be seen, but I wished him luck.
+
+If he could make it work he would make it work, again like his dad. At the end of the day it wasn’t really any of my business. Live and let live, I suppose.
+
+And there were much more important things to do, like try every food in the city—and they had plenty of stuff to try.
+
+The bounty of the Grass Sea was on full display. They had braised bison soup that was utterly delicious, sweet and sour river fish, preserved clams from the coast not too far away, and somebody wearing the clothes of the Grand Ravine had made entire ripperbeaks into what looked like a kind of shawarma, served atop rice and with a side of some kind of tomato and lentil soup—both being native to the Grand Ravine and south western Azure Hills, and why the Lord Magistrate had been able to get the tomatoes for me a few years back. It had still been one hell of a journey though. We were three thousand four hundred li from home—which was sixteen hundred kilometers. Thank the heavens for being able to run as fast as a car, or this journey never would have happened.
+
+On the other side of the street was apparently a newer addition: a bunch of stalls from Yellow Rock Plateau, the province I had gotten the potatoes, corn, and avocados—or rather alligator pears from.
+
+The food almost looked Mexican, but run though a Chinese filter. One person was selling corn tortilla burrito-taco things, complete with something almost guacamole. The burritos were heavy on the rice, but not bad—they also had steamed fish wrapped in corn leaves, and several stews that kind of tasted like things I remembered. There were roasted and fried potatoes, and somebody had clearly stolen the Jolly Fatty’s idea to fry them in duck fat.
+
+I actually got to chatting with one of the stall owners about things, and he had some rather shocking revelations.
+
+“Oh, yeah, we didn’t used to bring this stuff down here; my pa said the people here turned their noses up whenever he started eating his lunch. Said it was too strange. But then the Azure Jade Trading Company started buying up everything, and I mean everything. They say some big noble loves the food from the Plateau, and only the most refined people eat earth apples.” The stall owner snorted at the joke. “Now the Trading Company is buying in bulk, and everyone wants to try.” The man smiled at his box, full of coins. “The Heaven’s blessing on whoever that rich boy was, he has good taste! Our food is the best in the Empire!”
+
+I tried very hard to keep my face neutral, because that rich boy was me. I had accidentally helped kickstart this entire thing.
+
+Which was real weird to think about… but hey, the food was good.
+
+Then finally there was the biggest score, strawberry jam-filled bao. Both Meimei and Zhuye loved the things; Washy looked like he was in heaven. Even Babe was indulging.
+
+My son broke a bao in half. He handed one part to Suyan, who accepted it with a smile… and then inhaled ten more of the things. It was hilarious seeing the normally prim maid with her cheeks stuffed like a chipmunk and humming with happiness.
+
+Zhuye held the other aloft for the bees to drink the sweet fruit syrup, and giggled as they danced around with glee.
+
+You’d best believe I got my hands on seeds as fast as I could.
+
+“All hail the Lord Protector! May he reign for ten thousand years!” somebody shouted, and another great cheer erupted.
+
+Food and drink flowed like water. People hugged and danced with random strangers in the streets. A puppet stall had been set up, and the play was in the midst of the Azure Hero puppets beating the shit out of several evil nobles.
+
+Man, whoever worked on that Tigu puppet had made it well.
+
+Zhuye noticed the puppet too, squinting at it.
+
+“Jiejie!” he shouted, pointing excitedly.
+
+“Yeah, Jiejie!” I replied, putting him on my shoulders so he could watch the rest of the show. He got really into it, making Zaah! noises and swinging his fists about while he watched the Azure Heroes beat up bad guys.
+
+All around us, the party kept going, celebrating a good politician.
+
+Truly a magical world, this one.

@@ -1,0 +1,165 @@
+---
+id: 22a18ee5-909d-5fee-9d4c-83b29ebc900a
+page-type-slug: story-chapter-royal-road
+title: "v4c58: About Time"
+slug: 0073-v4c58-about-time
+partOf: beware-of-chicken
+position: 73
+ownLength: 1661
+unit: words
+ownProgress: 1661
+publishedAt: 2023-11-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1403312/v4c58-about-time"
+royalRoadId: "1403312"
+markedReadAt: "2026-06-29T18:53:55.497Z"
+---
+
+Bi De had much to think upon as the days passed; Shao Heng’s assault, the true history of the Shrouded Mountain Sect, and the approaching tournament.
+
+At least their original mission of investigating the sect seemed to be complete. Indeed, there were no demons here—just a more human brand of evil. Yet it was rather sad that the difference seemed to be so slim. The only thing demons did that men did not was completely destroy the land… and Bi De did not have any doubts that some cultivators would do that as well if it benefited them.
+
+Still, Bi De had to prioritize. Thus, the true history of the Sect was something Bi De had washed his hands of. What happened with those memories now was up to Yun Ren.
+
+Zang Zengsheng was a man who deserved death, the honourless, kinslaying dog he was… but he had vanished long ago. The sect said that the man ascended, but there was no proof. He just disappeared one day. The only people who knew of the truth seemed to be the Head Inquisitor and the current Patriarch, while the actual collaborators were all long dead. The entire sect had been corrupted… and yet that corruption may yet be defeated.
+
+Zang Wen, on realising the truth, had drawn her sword against it. How many other disciples would do the same if exposed to that truth?
+
+Bi De did not know, but he was willing to bet more than a few.
+
+Next was his cultivation and preparing for the upcoming tournament. Bi De had plateaued at the Fifth Stage of the Profound Ream… and that was fine. Instead, he sought to refine his fighting style in this form.
+
+He had restricted himself to using solely the arts of his hands, rather than his legs, but the punches and blocks came slowly to him. The only thing that did come easily was an analogue to a wing strike… which manifested itself as an open-handed palm strike. Though that came with its own problems.
+
+“Oho, Young Master, practising your face-slapping?” Old Ling asked with a guileless smile on his face.
+
+Yushang and Fat Han looked at him, rather concerned.
+
+“Maybe… don’t use that in the tournament,” Fat Han suggested. “Unless you’re trying to make enemies for life.”
+
+Bi De realised just how his strikes looked, but it was not a slap, no matter what the others said. He was not going to intentionally humiliate anyone.
+
+Unless they deserved it.
+
+And then there was the matter of Shao Heng… which Bi De only had limited ability to help with. But he still had some ways that he could contribute.
+
+============================
+
+“The Mo family assaulted the Medical Pavilion?” Zang Fengfeng demanded. Bi De nodded solemnly from where he sat across from the Young Mistress.
+
+This time, the woman and her friends had been free when Bi De had come calling to invite them for a meal. Of course, it had been couched in the language of Bi De giving tribute to Fengfeng… but alas, if that was what needed to happen, it needed to happen.
+
+“Indeed. Mo Chaoge sought to cover up his shame with this heinous act,” Bi De replied, and the women around the table made noises of contempt.
+
+“Those shameless upstarts dared! Well, they’ll soon learn the skin on their face isn’t quite as thick as they imagined!” Fengfeng said, glee in her words as she picked up a piece of pancake and put it into her mouth. She moaned at the taste. “And Bi De, you must give this recipe to my servant!”
+
+“Of course,” Bi De replied. Naturally, the women had been enamoured by his food and the recipes gifted to him by his Great Master. Though Bi De had no maple syrup, there was a fascinating alpine fruit known as a "blue berry” that produced a fantastic jam. Bi De’s treasure trove was slowly growing, and his Great Master would surely be pleased when he returned with the literal fruits of his bounty.
+
+The talk soon shifted to other things as they ate, and Bi De waited until an acceptable pause opened up.
+
+“Baolai, how is Yuquing’s Senior Sister in the north doing these days?” he probed. The woman perked up, eager to share the gossip.
+
+“Elder Shenhe is gearing up for some big assault, they say,” the woman said slyly. “And they think it to be the last assault before they come home. I still don’t know exactly what they were hunting, but it seems that hunt will soon end.”
+
+Bi De nodded, filing the proffered information away.
+
+“Enough about rumours. How do you feel about the tournament, Bi De?” Fengfeng asked, her eyes narrowing with challenge. “Are you feeling prepared?”
+
+“I shall win it all,” Bi De stated simply, looking back into the woman’s eyes.
+
+Fengfeng flushed and looked away. “Win, and I shall give you a proper… reward.”
+
+Her voice turned sultry and smoky, and the eyes around the table glinted just ever so slightly predatory. Bi De felt his blood begin to run hot at the looks they were giving him.
+
+“I shall look forward to it,” Bi De said before his mind had fully caught up with the implications of Fengfeng’s promise.
+
+His meditation was very troubled that night.
+
+=====================================
+
+And so the days did pass.
+
+==================================
+
+If one thing was the worst, Ri Zu reflected, it was the uncertainty of waiting. It had been a week, and yet there had been no attacks.
+
+Still, there was a weight off of Ri Zu’s shoulders—a weight that had been lifted by Master Lishu. The man had said he would take care of things.
+
+The man had been visiting other pavilions for the past week, gone nearly every day. Then, there had been some sort of meeting between Elders called… and when Master Lishu came back the man was no longer quietly seething.
+
+In fact, he seemed viciously amused.
+
+He arrived while Shao Heng was teaching Fat Han and Yushang some of his mountaineering tricks. Ri Zu too had been listening intently.
+
+“It seems the Mo family bit off a bit more than it could chew,” the Master of the Medical Pavilion declared. “Their rise was too swift, and now many would see them suppressed. Even the Che family has taken umbrage.”
+
+“I doubt my family swayed much,” Fat Han admitted, and then yelped as Yushang hugged him.
+
+“Thank you, Brother Han,” Shao Heng said, his eyes full of gratitude.
+
+“On the contrary. Their shame is so great even the Che family dares to speak down to them,” Master Lishu returned. “I would not let down my guard… but things appear to be progressing well. They want to have this matter resolved before the tournament.”
+
+“Truly?” Ri Zu asked.
+
+“Things move fast indeed when you bar an entire family, any cultivator they sponsor, and any of their allies from the Medical Pavilion,” Master Lishu stated simply. His voice was calm and matter of fact, while Ri Zu’s jaw dropped.
+
+Master Lishu, it seemed… did not do anything by half measures.
+
+=====================================
+
+Yushang, despite everything, could say she was happy. She had added another trustworthy person to her growing collection—now she had five! Five people!
+
+Truly, she had the luck of the heavens. Uncle Heng was nice and played along with her jokes, even.
+
+Well, actually she had six if she counted Master Lishu, but Master Lishu wasn’t really her friend. He was the Medical Pavilion Head.
+
+Still, the luster of being part of the powerful sect had well and truly worn off, with everything that had happened. But there was a bright spot on the horizon.
+
+After the tournament they would be able to start having missions outside the Sect! The “probation period" would end and they could go out into the world. She didn’t care much that they would be representing the Shrouded Mountain Sect, but it did mean they could go…well, anywhere but here. With Bi De being an Inner Disciple, he could take any disciple he wanted with him on a mission.
+
+And then all six of them could have an adventure! A proper one, away from all of this shit!
+
+She told her plans to Fat Han… and her friend actually smiled a bit.
+
+“Some time away can only do me some good,” the man admitted.
+
+======================================
+
+Yun Ren meditated deep in a forest.
+
+Truly meditated, sitting perfectly still.
+
+The mist of the Shrouded Mountain began to roil and swirl around him.
+
+He concentrated on the feeling. The tiny spark of a woman’s will left behind. His own ancestry. And a bit of Wen’s qi from Summer’s Sky.
+
+There was a spark. A tiny connection, to a fraction of the mist.
+
+Yun Ren lifted a hand, and the mist changed.
+
+It twisted and it coiled… and then the shadows started to brighten. Colour bled into the mist. Colour and sound.
+
+Like it was a giant projection.
+
+Yun Ren’s lips curled into a vicious, vulpine smile.
+
+===========================================
+
+And then, the day of the tournament arrived.
+
+It arrived to cheers and fanfare as the mortal servants pulled out all the stops. Music and fireworks erupted all over the Shrouded Mountain and the city beneath it.
+
+The Rising Fist Tournament had begun.
+
+===================================
+
+And far, far to the frozen north, something else began. Lightning struck a mountain as cultivators smashed through hidden entrances and breached the hidden base. The last base, they thought, and then they could go home.
+
+At their head was the valiant Elder Shenhe, ready to finally end this threat once and for all.
+
+Deep in the bowels of the demonic sect’s base, a young man with green hair and freckles opened his purple eyes.
+
+They shone like cursed stars, malevolent and cruel.
+
+“Hell, it's about time,” the young man said, his smile spreading across his face.
+
+Purple and black bands of light connected the freckles on his nose, turning them into something resembling constellations.

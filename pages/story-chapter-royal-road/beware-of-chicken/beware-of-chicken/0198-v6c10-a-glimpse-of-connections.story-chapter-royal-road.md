@@ -1,0 +1,191 @@
+---
+id: 4c9b45dc-4a6c-5a25-9e0f-37c916b85c59
+page-type-slug: story-chapter-royal-road
+title: "v6c10: A Glimpse of Connections"
+slug: 0198-v6c10-a-glimpse-of-connections
+partOf: beware-of-chicken
+position: 198
+ownLength: 2365
+unit: words
+ownProgress: 2365
+publishedAt: 2025-03-31
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2162326/v6c10-a-glimpse-of-connections"
+royalRoadId: "2162326"
+markedReadAt: "2026-06-29T18:58:06.977Z"
+---
+
+The subtle tension that always came when dealing with politics filled Xiulan’s body as she reset the Go board. It made her hyper aware of the people in front of her, looking for every twitch, every shift in the tone of their voice that indicated that the person in front of her was trying to take advantage of her. It was a skill she had cultivated out of necessity, and while it served her well, it was a feeling she hadn't missed. It was like being in the middle of combat without the release of adrenaline fighting offered. Just a constant, low-level simmer.
+
+The tension was heightened today because of just who exactly was sitting opposite her.
+
+“Thank you for indulging this old man,” Xiao Ge said as he took his seat. Xiulan searched his face quickly as she reset the board, but she wasn’t so foolish as to think she was skilled enough to see the depths of the man before her.
+
+Indeed, his face betrayed nothing about him. There were no tells, no tightness, just absolute serenity.
+
+“It is my pleasure; one should always take the opportunity to learn from their elders,” Xiulan replied.
+
+The old monster before her chuckled. “My, your assessment of my skill is quite high… but not incorrect. Go is my favourite game, and I find one of the more interesting ways to get to know someone is to play a few games with them.”
+
+“You wish to get to know me?” Xiulan asked, slightly confused. She had thought she would be uninteresting to these powerful cultivators.
+
+“While your accomplishments fell to the wayside in our… exciting introduction, you are quite interesting. You slew an Earth Realm cultivator, and yet your power is only at the beginning of the Spiritual Realm.  According to my good friend, you were instrumental in the defense of one of our honoured allies, and I have also heard some praises of you from a trusted disciple. So I am curious about the woman who accomplished such things.” Xiao Ge explained.
+
+“Your praise honours me.” Xiulan dipped her head into a bow. Praise from a trusted disciple? Had Lu Ri actually said something about her to an Elder of the Cloudy Sword Sect? “I hope I will not disappoint you.”
+
+The board was set. Ge considered her for a moment, before nodding.
+
+“I do not believe you will. But first, I think we must reintroduce ourselves,” he said. He straightened up, and all of a sudden there was presence. Not enough to suppress her. It was not his Qi, but simply the man before her. An old, towering peak sat before her, its face obscured by clouds. “This one is Xiao Ge, the Black Clouds of the Silent Sky and Master of the Cloudy Sword Sect.”
+
+Xiulan felt sweat bead on her back. She swallowed and straightened herself. It took all her composure to declare herself in front of this man.
+
+“This one is Cai Xiulan, Young Mistress of the Verdant Blade Sect and Grand Marshal of the Azure Alliance.”
+
+Xiao Ge nodded at her introduction, then raised his hand, indicating to her that she should take the first move. Xiulan obliged him, and the game began.
+
+“Grand Marshal? An interesting title. May I ask what it implies?” he asked.
+
+“I am the leader of an alliance that contains every sect within the Azure Hills,” Xiulan replied, setting down a stone. She had no doubt that he already knew that though, if he had spoken to Lu Ri.
+
+Still, Xiao Ge raised an eyebrow at her statement and then placed down his own stone.
+
+“… you may command every sect in this province? Most would make certain to bellow that achievement from the rooftops, and use their position to try and impress.”
+
+Xiulan raised an eyebrow. “What sort of fool dares to boast in front of the Cloudy Sword Sect?”
+
+“The more common than not kind,” Ge replied with a slight smile. “Some also try to curry our favour, offering all sorts of things in exchange for our expertise. Few stay silent.”
+
+Xiulan began a more orthodox attack with her stones, a slow, measured push to capture territory. Elder Ge was content to let her, also performing orthodox moves in a game that he had certainly played before.
+
+“The leader of the Sects of the Azure Hills is merely the leader of the Sects of the Azure Hills. It is a new and still tentative alliance. What could we offer? What could we do, other than grovel for resources? No, both of those paths are without honour and without pride. We may be the weakest now—but we will grow. We will be more than parasites, leeching from the strong. We will be more than dogs, eating nothing but scraps. It is insulting to you, and it is insulting to ourselves to follow that path.”
+
+Xiulan internally kicked herself when she realised how strongly her voice had come out at the end—but she didn’t regret it. This was something she was passionate about. It was the future of her home. It was the path she wanted to walk. How could she not be passionate?
+
+She almost expected Ge to be disappointed at her outburst. Instead, the old man was observing her with a soft smile.
+
+“That is indeed a laudable goal, Cai Xiulan, and good reasoning. You are correct, those actions would have gained nothing but disdain from the Cloudy Sword Sect. But now I find myself curious… if you are the Grand Marshal, what will you tell the Sects about what has happened here?”
+
+Xiulan let out a breath. “It was my intention to tell the truth—omitting only those parts necessary to protect my Sworn Brother’s home. However, I am well aware of the realities of the world. What should be said about the Cloudy Sword Sect? While things can be discussed in private, the official story should be one that gives our enemies the least amount of information possible.”
+
+Elder Ge nodded, then turned his attention back to the board. They played a few more moves, and unlike the early moves Ge’s playstyle suddenly changed—they were seemingly random, instead of the gentle pushback he had offered before, but Xiulan knew the man had started to play in earnest.
+
+“I shall write for you a letter, detailing our involvement. I know the Emperor would prefer this to be quiet to prevent panic, but several disciples will be stationed in the Sea of Snow for an extended period. Those that can be trusted may know as much as you deem fit.”
+
+Xiulan bowed her head. “Thank you, Elder Ge.”
+
+“However, now I am very curious. How exactly did you become ‘Grand Marshal’, if you don’t mind regaling this old man with that tale?”
+
+Xiulan nodded, taking a deep breath.
+
+“It all started with a crystal that Bi De found…” she began.
+
+===========================
+
+“You just gave the crystals to them?” Xiao Ge asked, making sure he had heard the young woman in front of him correctly. Their game lay forgotten. Ge had started using the plays he favoured to teach, the grand stratagems his own Master had taught him, but Cai Xiulan’s tale had proved worthy of his entire attention.
+
+“Yes. It was originally Jin’s idea, but as we discussed it, I realised how important it would be that we start out from a position without resentment, as a forced gathering could have never succeeded…”
+
+Xiao Ge had not known what to expect when he had approached Cai Xiulan. She was quite a pretty thing, but she had been content to stay in the background, unobtrusive. The only reason why he had approached was because of Lu Ri’s words.
+
+His disciple had mentioned her when Ge had spent one night asking him about his information network. She had been described as virtuous and noble, and Lu Ri had called her a person of interest in the Azure Hills.
+
+As always, Lu Ri had understated the matter.
+
+Uniting an entire province’s sects under a single governing body? At her age? It didn’t matter that this was the weakest province in the Empire, that was a legendary feat.
+
+It had been the plan of some of the Honoured Founders to have such a body, but the realities of the time they lived in caused them to abandon the idea as unfeasible. The distances were too vast, and the cultivators too independent to even think of allowing others to impose on them like that. Some of them had disagreed completely as well, stating that the freedom of the sects prevented another Tyrant of the Crucible from rising.
+
+In Ge’s experience as well, this unification was quite unprecedented. Normally, things went the other way. A sect, holding hegemony over a province, was more likely to split due to an internal schism. Others would rise to challenge their power.
+
+It was how the world worked.
+
+And yet here was a young woman challenging that ‘fact of life.’ Challenging it to defend mortals. To stop the wicked from taking advantage of their divisions.
+
+By her own admission, it was young. It was untested. It could fall apart in the coming years.
+
+But if she could keep it together?
+
+Shen Yu had joked last night that they made women in the Azure Hills differently than those of other provinces. Ge had disregarded it as Shen Yu doting on Hong Meiling. But it appeared that he hadn’t been.
+
+It was good Lu Ri was here to keep an eye on this. Ge would want regular updates on the state of this ‘Azure Alliance’.
+
+However, one thing stuck out to him, as Cai Xiulan finished her tale.
+
+“The Azure Hills are not suitable for cultivation. This is common knowledge. Even on the journey here, we could feel it. Yet from your tale, the cultivators of the Hills seem to just be… growing in power.”
+
+The Azure Hills was a mystery. Most just assumed the Qi void was natural, and the cultivators were weak because of it. So adapted to this area of low Qi, they grew slowly no matter how many resources they consumed. But if they were much more powerful in the past…? Something was strange here.
+
+Cai Xiulan considered his question. She looked into his eyes, and Ge realised that she was considering trusting him with some piece of information.
+
+“The state of our province is not natural,” she finally said. “The crystal that contained their styles also contained the reason for the Qi void. Our province was nearly destroyed by Demonic forces. Its Dragon Veins were shattered. Only barely were our foes stopped… but the damage was already done. A slow, bleeding death. A province nearly devoid of Qi and Dragon Veins.”
+
+Ge’s eyes widened. So that was the reason.
+
+“But as for how we are getting stronger? That is not my tale to tell.” Cai Xiulan nodded at where Young Jin sat with Shou. “It is his.”
+
+Ge’s mind raced, trying to unravel this puzzle box. And yet, the only thing he could come up with was that Jin was somehow repairing the Dragon Veins.
+
+That was… that might just be unprecedented.
+
+A steady, thumping beat echoed out, interrupting his train of thought.
+
+“Lunch time!” a dragon shouted, smacking his tail against the ground.
+
+Ge chuckled at the sight. “Ah, it appears we have lost track of time… and our game. Thank you for the riveting tale… Grand Marshal.”
+
+The young woman blushed when Ge clasped his hand over his fist in a martial salute
+
+Both of them rose to head towards lunch. One mystery solved, and another had taken its place.
+
+No wonder Shen Yu liked this place so much.
+
+====================
+
+Xiulan was rather glad Wa Shi had interrupted. It had been nerve-wracking to be on the other side of the table from Xiao Ge, even though the man had clearly been predisposed to liking her.
+
+She hoped she had handled things well. She didn’t know if she had revealed too much. She didn’t think she did, but still, it was only right to be a bit uncertain of herself.
+
+Lunch was just what she needed.
+
+Though both of them did slow down when Xiulan saw Tigu standing proudly beside an ice sculpture. Delun was there too, and he looked constipated.
+
+The Divine Falcon of Soaring Heaven’s Isle, Tianzhe Minyan, was staring at the ice sculpture Tigu had brought into the greenhouse. Her eyebrow was raised, and her body language was unreadable.
+
+Xiulan glanced at the sculpture. It was the most abstract piece she had seen Tigu make. Swirls of wind, jagged pieces of ice, and a form within those clashing elements that vaguely looked like Lady Minyan.
+
+“This is supposed to be me?” the woman inquired, her voice blank.
+
+“You were very, very hard to pin down,” Tigu said. “But Handsome Man’s words captured some of your essence! Solid, yet formless! Peace in the center of a raging storm! A true challenge it was, to capture such majesty! This Tigu apologizes, but she does not know if we succeeded!”
+
+Tianzhe Minyan looked directly at Xiulan’s friends. Tigu smiled guilessly. Only Delun’s stoicism kept him rooted to the spot.
+
+“Most sculptors try to simply capture my face,” Lady Minyan stated. “This is quite… different.”
+
+“But your face is the least important thing about you?” Tigu stated, cocking her head to the side. Minyan’s brow rose higher.
+
+Then Lady Minyan let out a single snort and the tension dissipated.
+
+“I suppose it is, isn’t it?” she mused. “You are correct, it is incomplete. You may continue refining it.”
+
+Tigu smiled, bowing. “Thank you!”
+
+“And, boy?” Minyan’s voice cut through the air.
+
+Delun stiffened just after his shoulders had started to relax.
+
+“Yes, My Lady?” he asked, humbly.
+
+“You may hold your head high. Your words about me were closer than some of the most renowned sculptors in the Empire.”
+
+Delun’s jaw dropped.
+
+Tigu smiled at him. Delun caught Xiulan’s eyes.
+
+He saw her, and by the complicated expression on his face, she could tell instantly he understood.
+
+Having these old monsters around was stressful!
+
+===================
+
+==================
+
+Editors: Massgamer, BargleNawdleZouss, Aaron “Pastafarian” Sofaer

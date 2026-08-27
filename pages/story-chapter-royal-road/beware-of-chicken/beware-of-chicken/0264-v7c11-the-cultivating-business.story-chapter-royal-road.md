@@ -1,0 +1,177 @@
+---
+id: 702ede75-0740-57f4-87bc-34b12b013cd1
+page-type-slug: story-chapter-royal-road
+title: "v7c11: The Cultivating Business"
+slug: 0264-v7c11-the-cultivating-business
+partOf: beware-of-chicken
+position: 264
+ownLength: 2078
+unit: words
+ownProgress: 2078
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2840529/v7c11-the-cultivating-business"
+royalRoadId: "2840529"
+markedReadAt: "2026-06-29T19:00:28.330Z"
+---
+
+After the discussion on accommodations and travel plans with the Lord Magistrate were complete, Master Jin invited them back to his home so they could view some of the plants he had grown over the winter from their efforts… though after they met with some newcomers to the area.
+
+Master Jin was truly a great patron, introducing them to new customers.
+
+She had expected that Chun Ke would be pulling them along again in his cart.
+
+Instead, Guan Chyou was riding a dragon.
+
+Her red hair had slipped free from its bun, the wind in her face sending it trailing behind her. The great, majestic beast’s body snaked along the landscape, travelling faster than Chyou thought possible.
+
+The dragon roared, its voice shaking the heavens and proclaiming dominance over the earth. Fire and smoke belched from its maw, its blazing heart clear for all to see.
+
+The Azure Express was stunning. It was beautiful. It truly deserved the name, the Iron Dragon.
+
+Chyou knew she looked like a fool, her mouth open in a wide smile, but she was not alone. Her brother was similarly dumbfounded.
+
+It was mind-bending to hear that this was not some heavens-shaking artifact. Young Master Bowu had explained it to largely be—aside from the formation within it—a mortal artifact.
+
+It was impossible, and yet it was here. She had seen the plans before, the sketches of parts and the outlines. She had nodded along as they were explained, not entirely getting it.
+
+She got it now.
+
+Already she could see lines of track criss-crossing the province. She could see a hundred, no, a thousand Iron Dragons pulling vast carts of goods. A fleet, with the symbol of Prosperous Mist alongside the Azure Jade—
+
+There was a sudden shriek and the Iron Dragon lurched, rattling from side to side. Chyou’s heart leapt into her throat, reality invading her daydream, and her knuckles went white on the edge of the cart’s railing.
+
+The Iron Dragon spluttered to a stop.
+
+“I know what that is this time!” Young Master Bowu exclaimed from the front of the Iron Dragon. “Come on, let’s go, let's go! An hour, tops!”
+
+Bowu leapt off the Iron Dragon, followed closely by a freckly young woman who had a pack of tools slung over her shoulder. She had quite big arms for a woman, and her hair was mostly hidden under a kerchief. What was visible was tied into two braids. A bunch of other blacksmiths jumped off the steam locomotive, swarming around the great steam furnace. The clanging of hammers filled the air.
+
+Chyou let out a breath.
+
+“He’s getting better at diagnosing the problems,” Master Jin praised, looking out the window at the young man with a smile before turning to Chyou and Bo. “It’s pretty amazing, isn’t it?”
+
+“Yes, yes it is,” she whispered before composing herself. “Master Jin, is there any way the Azure Jade Trading Company can assist with this?”
+
+“Well, one of our production bottlenecks is iron…” the man said leadingly.
+
+Her brother pulled out some paper and began writing things down.
+
+It ended up taking an hour and a half to get moving again… but Chyou’s enthusiasm for the Iron Dragon was undiminished.
+
+Lady Biyu had already fundamentally changed hauling cargo with her Partial Storage Array—only for another connected to Master Jin to do it again.
+
+There were still a thousand issues to sort out—wear on the tracks, Spirit Beast attacks, derailing locomotives… but all of these things could be solved and mitigated.
+
+And even if they couldn’t, the ability to pump water out of mines alone would make investing in this venture worth it.
+
+They arrived at Smoky River and Chyou hurriedly combed her hair back in time to meet with the new village chief.
+
+“Master Jin!” a stunningly beautiful blonde woman greeted them. She was wearing a tribal coat, and her blonde hair was tied up with a blue band. Her eyes were locked in what looked like a perpetual squint. She looked more like a noblewoman than most village chiefs, and there was something about her… the ease in which she effortlessly moved, the perfection of her skin—this woman was a cultivator.
+
+“Nezuhua! These are the ones I told you about, the Azure Jade Trading Company!” Master Jin introduced them.
+
+Both she and her brother bowed.
+
+“Any friend of Master Jin is a friend of the Azure Jade Trading Company!” Bo  declared.
+
+As it turned out, the woman had a rather large list of things they needed that were impossible to get this far north. Nothing that was urgent, apparently, but everything was recorded. They would be transmitting the list back to Pale Moon Lake as soon as they could so they could get a start on fulfilling the order.
+
+Smart cultivators knew the value of reliable servants—and Lady Nezuhua was, from Chyou’s brief interactions with her, a very smart woman.
+
+After their business was concluded, however, they got a tour of the quickly growing village. It was a bit of a shock to see the ears and the tails on some of the people, but Chyou had long since mastered the ability to not stare.
+
+Her brother, however, had not, though thankfully the Su Clan didn't seem to mind. In fact, they welcomed the questions about their ears and tails. Chyou listened politely, but something caught her nose and then her eye.
+
+There was another familiar face in the village.
+
+“Lord Wa Shi,” Chyou greeted, walking over to the trough of water that had been erected for the fish. “That smells delicious!”
+
+“Ah, Sister Chyou!” the fish said, actually said instead of using Qi Speech, turning to beam at her. He pointed with a fin at the food that was cooking. “Come, take a bowl! This is a dish from the Howling Fang Mountains, and it is quite delicious!”
+
+Chyou eagerly complied. The fish had never fed her anything less than delicious. The two fox people who were cooking for him seemed very amused.
+
+And indeed it was… but something was missing… “Ah, I think some potatoes would go very well with this,” she suggested.
+
+The fish eagerly slapped his fins against the trough and beamed at her.
+
+“Exactly as I was thinking!” he exclaimed, “Sister Chyou has good taste!”
+
+She chuckled at the praise. The fish was always amusing to interact with.
+
+“Lord Wa Shi, this one also has news on the expedition,” she said, remembering his eagerness on the subject. “Late this summer, we will be setting forth.”
+
+That caught his undivided attention.
+
+“Ohohoho?! So soon?! Tell me everything!” he demanded.
+
+Chyou smiled at the little Spirit Beast. The fish happily listened to the tales of negotiations and the planned route they would be taking, his eyes sparkling.
+
+It was quite a pleasant time, eating delicious new food from the Howling Fang Mountains and speaking with a rather plump fish.
+
+She even had a lovely dip in the hot spring that ran through the village, attended to by one of the Su Clan; these people were surprisingly good at service. The warm water washed away the aches and pains of the road.
+
+Then, Chun Ke arrived with a carriage that was truly stunningly appointed. The great boar was, as always, a delightful sweetheart.
+
+==============================
+
+From there, they once more arrived at Master Jin’s home. Things were different… but they pointedly did not ask about the new, rather large fortress near the forest, nor the spots where trees had obviously been knocked down.
+
+Something had happened here, but if it was not their place to know, Chyou would remain quiet.
+
+They were welcomed warmly, as they always were—though instead of a pretty pink pig greeting them, it was a woman with plum-blossom hair.
+
+“...Lady Pi Pa?” Chyou asked, stunned.
+
+“It gladdens me to see you in good health, Miss Chyou,” the regal woman said. Heavens above,  she was a beautiful, stately woman. She towered over Chyou, but instead of looking like a brute, she moved with elegance and grace.
+
+Chyou was looking forward to their discussion of the numbers for the maple syrup, but first there were the gifts.
+
+Thankfully, her brother had decided to overpack, thanks to the carrying capacity Lady Biyu’s formations gave.
+
+“They’re truly a wonder!” Bo gushed to the Lady Biyu herself, whose chest puffed out with pride. She was also very pleased with the reams of fine cloth that were sitting in front of her on the table—as were several other wedding gifts, such as combs and mirrors, needles and thread.
+
+Pi Pa looked on amused, but no less pleased with the selection before her, which included several faithful drawings of dress styles. “Naturally, the Azure Jade Trading Company knows the best tailors in the province; we would be happy to take your measurements to them,” Chyou explained.
+
+They had something for everyone, as a continuation of their business relationship. Gifts as thoughtful as she and her brother could make, as they were the ones who interacted with Master Jin and Lady Meiling the most.
+
+Cloth, jewelry, metal samples for tools, wood samples for tool hafts and furniture, different sands from all over the province for Master Miantiao’s perusal. They also had balls and other things that young boys would like for the Young Master. The babe seemed to find one of the bean-filed sacks most agreeable, shaking it up and down before proudly showing it to the new addition to Master Jin’s staff. An obvious maid this time, who was most definitely from the Su Clan, due to her squinted eyes, as well as her ears and tail.
+
+The woman made noises of interest at the ball and attended to the Young Lord, much to his delight.
+
+And of course, the main thing that they were here for.
+
+Their travels and contacts had once more borne fruit… quite literally. Yellow Rock Plateau was proving a most lucrative place to gather from. They had seeds from cactus pears, and cuttings from some enormous succulent plants—as well as the piece Master Jin was most pleased with.
+
+Chyou had at first thought these seeds were stones, as big as her fist and perfectly round. They came from a strange fruit called an ‘alligator pear’. Chyou had tried some of the odd green flesh; it had a texture almost like butter.
+
+Master Jin was so excited by the ‘alligator pear’ he promptly went to plant them, inviting Chyou and her brother along with him.
+
+The green house was as spectacular as ever, and full of the fruits of the Azure Trading Company’s labours. He showed them the seedlings and new shoots of plants; the corn, the peppers, the tomatoes—a sprouted lychee tree, all reaching for the heavens. They were even allowed bites of the flesh of the fruits that had been grown in winter. They were fresh and delicious.
+
+Though there was one thing in particular that Master Jin stopped to show them.
+
+“And finally, these might be the most important.”
+
+Chyou blinked curiously at the two glass tanks standing side by side. One was full of caterpillars and leaves. The little creatures were munching away without a care in the world. The other had what looked like small wasps.
+
+“This?” she asked, confused.
+
+“Remember what you bought me at the end of last year?” Master Jin replied.
+
+Something that had to do with caterpillars—she gasped.
+
+“You figured out how to cultivate Imbalance Quelling Summer Grass?” she asked, stunned. The incredibly rare mushroom was well known for its properties in combating consumptive diseases and cancers.
+
+It could only be found in the wild. A thousand attempts had been made at cultivating it, and each time it simply failed.
+
+“Kind of. There is a reason why just sprinkling it on caterpillars doesn’t work. It has a two-stage life cycle. It doesn’t grow in the caterpillars themselves, but instead in parasitic wasp larvae that have been laid in caterpillars. These aren’t quite the right wasps, I don't think… but it's worth a try.”
+
+Chyou let out a breath and stared around at all of the wonders. All of the tastes. All of the new creations!
+
+She was contributing to this. And after the journey south, there would be even more amazing things growing right here.
+
+Guan Chyou knew then that she would fill the greenhouse with new wonders until Master Jin had to build another one.
+
+A selfish goal, but one that felt right.
+
+She couldn’t wait until summer ended.

@@ -1,0 +1,131 @@
+---
+id: 3bf6f900-8935-5ff0-86a6-b18852888434
+page-type-slug: story-chapter-royal-road
+title: "v7c39: Westward Leading"
+slug: 0292-v7c39-westward-leading
+partOf: beware-of-chicken
+position: 292
+ownLength: 1835
+unit: words
+publishedAt: 2026-03-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3178763/v7c39-westward-leading"
+royalRoadId: "3178763"
+---
+
+We left Pale Moon Lake City behind us, heading west. As we left the gates and trundled along the road, there was a palpable easing of tension from the Lord Magistrate and Lady Wu.
+
+“I’m glad that's all behind us,” Teacher declared, slumping over to rest his head on Lady Wu’s lap. He picked up Xue Ji’s tail, which had been wrapped around Lady Wu’s waist, and buried his face in it. The fox-woman hummed with amusement from where she was sitting, reading a scroll. “To think, I once wanted that to be my life. I would have gone as bald as Bao from the stress!”
+
+We all chuckled at his muffled voice, and Lady Wu patted his head.
+
+“Court politics were certainly… interesting,” I agreed. “But as an outside observer…somebody else can deal with all that shit.”
+
+“The cities produce the greatest of wonders, and the most difficult of challenges,” Lady Wu agreed. “And what about you, Meiling? What did you think of the city?”
+
+Meimei paused to consider the question, gathering her thoughts.
+
+Finally, she spoke. “It was interesting. There were so many artisans in one place; so much fascinating food, wonderful architecture, and just people. All those scrolls in the Archive… it was vibrant. Alive. Even at night, I could feel the energy flowing through the city. It was amazing… and yet at the same time I don’t think I would ever want to live there. It's too much.”
+
+I nodded, full of understanding. I felt the same way, after all. Even the Rou part of me had come around to country life.
+
+“That, and well, it's probably childish of me, but I kept waiting for… what happened when I went there last to happen again,” she said, referring to the cultivator that killed a beggar child when she went to the city as a kid. “I kept running it through in my mind, what I would do to stop a cultivator that was inconvenienced by mortals and how to hurt them. How I could intervene. But in the end… well, nothing like that happened. The closest thing were those cultivators who came that one night, but Xue Ji took care of them. I was tense the whole time.”
+
+That, too, I understood. Meimei had been watching the crowds like a hawk whenever we went into the city, her eyes darting around. It hadn't been anything major, and she had still obviously enjoyed herself… but the memory of that incident must have still been affecting her.
+
+However… there was one thing she hadn’t taken into account.
+
+“But Mei, you did see a cultivator who was inconvenienced by mortals,” I mentioned.
+
+Meiling blinked. “We did? When?”
+
+“When we were walking to pick up Babe and Washy from the gallery Chyou took them to, you remember that kid who tripped over your foot when he darted out from that alley? You caught him and told them to be more careful. When you took off your shoes at our accommodations, you didn’t even notice the scuff.”
+
+Meimei blinked at my words. Her mouth opened for a moment, then closed again.
+
+“Huh,” she finally said.
+
+“It is not what a person is that determines their reaction; but rather who they are,” the Lord Magistrate said, his voice full of sage wisdom… and still hidden behind a fluffy tail.
+
+Meimei shook her head at the sight. “I suppose I was too focused on the fact that they were a cultivator,” she finally murmured.
+
+“Well, cultivators do seem more likely to be assholes sometimes,” I admitted. “But I don't know if that's because more are assholes, or if we just hear about the bad things about them more often. There's no story to tell when a cultivator dodges the person who bumps into them, or just doesn't care about the interaction.”
+
+I had come to this world expecting most cultivators to be pill-popping nutjobs… and that wasn’t the case at all. Most of the cultivators I had met had been fairly reasonable people—and while there were rotten eggs, there were also people like Big D, Xiulan, Tigu, and that Shao Heng guy. People who were downright heroic.
+
+It was part of the reason why I was fine with this entire trip; instead of running away and staying on my farm.
+
+I had been wrong. Not about every cultivator, but about enough of them. I wanted to understand them as more than just characters screaming “You dare!” for the smallest perceived slight in poorly machine-translated novels.
+
+I lived here now. I lived in a world full of people, and not in a xianxia setting where everything ran on tropes.
+
+Hells, I had some stories to attest to that. Tigu had been very disappointed when there hadn’t been any noodle shop fights during her first trip to the Dueling Peaks, and later, Grass Sea City. Though, speaking of Grass Sea City…
+
+“You got a reply from your messenger, right?” I asked, remembering the man they had sent to their son several months ago.
+
+“Yes. He sent a message back to one of our contacts in Pale Moon Lake City when he could not reach us, saying he delivered his letter; and later, when we were travelling south, he said he would be returning to Verdant Hill with his reply. Perhaps we shall meet him on the road? But I would not bet on it at this point. He might even be going up north directly, instead of going back to Pale Moon Lake; we did tell him to test out the various routes…”
+
+“Sometimes children need their parents to surprise them,” Meimei said, with a small, amused grin.
+
+Lady Wu chuckled, an identical grin forming on her face. “Yes, indeed. Sometimes they need a good scare, for making their parents worry so.”
+
+Washy and I exchanged glances, and we simultaneously  edged away from the vindictive intent coming off both women.
+
+===============================
+
+And so we entered the Grass Sea and returned to our spots on the top of the carriage. Neither the Lord Magistrate nor Lady Wu had been in this direction either, and wanted to see what the Grass Sea really looked like.
+
+“Wow...” was all Meimei said when we broke out of a copse of trees, the horizon stretching out before us. The green seemed to go on forever, stretching into the horizon. We could see for probably hundreds of miles out into the vast expanse of grassland.
+
+This would be the part of our journey that would take the longest. The Grass Sea started not far from Pale Moon Lake, and continued to the ocean—a distance that was equal to the widths of Manitoba, Saskatchewan, and Alberta combined. It went south to Yellow Rock Plateau, and north far enough that it reached nearly the center of the province, until it blended into Ash Forest. It was a titan of an environment, as large as the Great Plains back in the Before.
+
+And prior to this, it had been an area of a hundred thousand rivers; little islands of land cut through with water. Yet surprisingly, the animals hadn't had to adapt much; most of the streams and rivers had been small enough to wade through, and the grasses and water reeds had been plentiful.
+
+The number of rivers had been cut drastically; but there were still quite a lot, and there was enough rain that everything remained lush and green.
+
+It was the perfect habitat for humans. It had a lot of rain, but not too much. It had game aplenty, in great herds of bison and deer, and just enough forests to make things easier for people. The rivers flooded, but fairly reliably and not too violently, fertilizing the soil.
+
+Compared to the devastation wrought by earth turning to metal, and metal to water, things had actually gotten better for your average person here. A lot better.
+
+And so in this little cradle, without too many Spirit Beast attacks, free from Demonic incursions… humanity had flourished.
+
+A million people called Pale Moon Lake City home. Grass Sea City was its equal or even larger.
+
+It was the Grass Sea that supported both places.
+
+Both Meimei and Washy made noises of fascination as our ground-eating pace continued, mesmerised by the expanse. Both Xue Ji and Suyan had their normally squinted eyes wide open, and were looking around with surprise; the contrast from the mountains to here must have been quite the shock. Bane of the Black Lances and her girls took off, buzzing happily and visiting the thousands of wildflowers shimmering in the grass.
+
+Babe started humming; it was one of the songs he heard me sing before. And well, we were on a road trip, weren’t we?
+
+I got out my pipa and started singling along.
+
+“So darling, darling stand by me, oh, stand by me…”
+
+====================================
+
+The first day we had no real plan, just wandering and taking it all in. We didn’t bother with an inn that night, even though there was one fairly close by—the stars were too good to spend the night in town.
+
+So we made a great bonfire and got out some of our provisions. I was holding Zhuye’s hand as he trundled about pulling up tufts of grass… and chewing on some of the tufts he pulled out.
+
+I took some of them away to check and make sure there wasn't anything that could hurt him… but there was nothing. It was just grass.
+
+So I let him chew on some. I was surprised when he didn’t seem to mind it, so I got a bite too.
+
+It wasn't bad, honestly.
+
+“The grass here is almost as good as the grass back home,” Babe said, chewing happily.
+
+Washy, meanwhile, had… a mouthful of dirt. He was chewing thoughtfully. I stared at him, and he frowned heavily.
+
+“I think Tigu was pranking me. She said you could eat the soil of the Grass Sea, and while it has some merits… I would not recommend it,” he declared with great decorum. “Naturally, I shall avenge this.”
+
+I snorted and shook my head, and then took out my map, planning the next day.
+
+“There are a couple of places we can angle to,” I said after a moment. “We can head up to Crystal Hill and see Master Gen, that's on the way. Or we can go to the Dueling Peaks first, and use that as a base to visit other parts of the Grass Sea before heading to Grass Sea City.”
+
+“We should probably go to the Dueling Peaks first, shouldn’t we? That's where everyone is,” Meimei said, stoking the fire.
+
+“Probably the best idea. Though, there is one stop if we go to the Dueling Peaks first. There's a sect on the way—the Framed Sun Sect. It would be rude of us to just walk right past them.”
+
+“Then that's where we go,” Meiling said. “I’ll get everything ready!”
+
+And so our plan was set. Next stop, the Framed Sun Sect.

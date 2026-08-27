@@ -1,0 +1,233 @@
+---
+id: 47c8d7f4-0646-5352-b0e6-2f53c57e96b6
+page-type-slug: story-chapter-royal-road
+title: "v7c68: War of Maneuver"
+slug: 0321-v7c68-war-of-maneuver
+partOf: beware-of-chicken
+position: 321
+ownLength: 3101
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3559709/v7c68-war-of-maneuver"
+royalRoadId: "3559709"
+---
+
+Vajra’s eyes studied the map that rested where it had been left open on the log. She looked over the boundaries, and mentally plotted out the areas she could see. With idle thoughts she directed her daughters, preparing for the night watch. Defense in depth. Multiple scouts, from all angles. Her daughters were covering themselves in soot and mud to disguise their scent. Those in the trees that still had leaves were doing the same, and carefully constructing small lodges of rolled up leaves to further hide themselves.
+
+They used all her old tricks, as well as several new ones she had devised. Nothing would escape her daughters’ sight. The fast reaction force of Immortals were on a rotating watch, ready to spring into action.
+
+Satisfied at her daughters’ diligence, she turned her head to look upon the humans and bears. They had just fallen asleep after they danced themselves to exhaustion. How utterly unbecoming. They were reveling in their deliverance, like they had already won. And while naturally Fa Ram would emerge victorious, it still felt premature to be so carefree.
+
+The enemy was still out there. Waiting. And like Vajra herself, they had changed.
+
+Each soldier was twice the size of the ones Vajra remembered. They were faster, stronger, more numerous; their venom had progressed in potency and their mandibles were even sharper.
+
+They were also tougher, but not by an amount that made those defenses unsurpassable. Their stingers had outpaced their carapace, and while they were terrific lances, they still died in droves in their suicidal charges.
+
+Which was another thing that was new to Vajra. In every battle she had previously fought with these monsters, the casualties for her forces had been horrific. Each one slain was a triumph bitterly paid for.
+
+Yet here and now, they died like her old colony died. In tremendous droves. There was a certain amount of glee in that. It made her very, very happy to be the one outmatching their foe.
+
+And yet, their enemy would adapt. The interaction with the enemy queen, for that was all it could have been, unnerved her.
+
+It was glad to find Vajra. It had been happy that it would get to try and eat her again.
+
+For now, the enemy had just used vast swarms to overwhelm. But Vajra was certain things would get trickier from here on out.
+
+But there would be no escape. They would find and destroy this infestation.
+
+“Your diligence is impressive, Vajra,” Bi De said, approaching to stand beside her. Vajra started at the interruption of her introspection, but made certain he didn’t notice her distraction.
+
+‘Of course, Noble Bi De! This Servant is attempting to divine the strategies of the enemy!’ she wiggled.
+
+The rooster smiled at her, before he turned his eyes to the map as well. He sighed, seeing the extent of the territory captured.
+
+“The scale of this is… daunting. I have been reading texts on war recently… and all the writers agree that as important as the battle is, the maneuvering beforehand is moreso,” he said. “And we will have much maneuvering to do.”
+
+Bi De had grasped the problem instantly. He was functionally impervious to their enemy’s blows; even if the enemy tried to shove themself down his nose or mouth, trying to clog his lungs, they were doomed to failure.
+
+It was a tactic of desperation, for it was ineffective against nearly every member of their group. Even the weakest Blaze Bear could simply breathe out and reduce to cinders any that attempted to suffocate them. Bi De, in his natural form, had nostrils too small for them to try and wiggle down, the same with Ri Zu. The little concubine of Bi De was actually smaller than the enemy in her natural form. Lordly Spooks was more akin to the bears, just with frost and storm rather than flame.  The only one actually vulnerable to the attack would be Yun Ren and the other humans.
+
+And yet, even with all those advantages, there was one mitigating factor. Space. Against any individual swarm they were victorious. But if even a single one slipped past them into a human hive or a spirit beast den, it would be a slaughter. And despite the giant hammer blow attacks, the enemy had proved themselves capable of subterfuge by surrounding the glade in the first place.
+
+‘It is a challenge, but one we shall overcome. This one has ideas,’ Vajra replied. Bi De watched her dance with intense eyes, and when he realized the meaning, he nodded.
+
+“I would heed your counsel then; you have fought this enemy longer than I have been alive.”
+
+And so they spoke long into the night on how to best get to their foe. How to use the terrain to their advantage… though her daughters were rather upset at the conclusions they were coming to. They wished to muster and incite grand battles against their foe, to fly in rank and slaughter these creatures that had once laid low their mother. Vajra wished for it too… but Bi De was of a different mind.
+
+“I do not believe the best use of your daughters is in massed assaults. There would be far too many casualties,” he told her, his voice firm. There was a bristle of protest from her daughters, but he held up a wing to forestall any objections. “You will see battle, but the best use of your forces is as a cordon and for lightning raids on enemy outriders.”
+
+Those words were some balm to the burning fires within her daughters. He was right. They were better as scouts than in direct combat, which was galling and yet somehow gratifying in equal measure. They were neither considered expendable, nor useless.
+
+‘And I assume other duties will be to guard the larvae here?’ she asked, referring to the little bears and humans.
+
+“We will need to guard this area, yes. As for guarding the children… I was going to see if they would be willing to evacuate to Fa Ram. The enemy already knows of this location, and while we can defend it, there’s no reason to keep our most valuable members here.” Vajra buzzed with irritation. These beggars, under the direct aegis of Fa Ram? And yet it would be safer…“Yet after speaking to them, I do not think they will agree. The Blaze Bears have their pride, and the humans want to reclaim their home. And while they trust us to an extent, they may not wish to send their children so far away and directly to the heart of our territory. So we will have to work doubly hard to keep our foe sufficiently occupied while we wait for more Blaze Bears to arrive, so that we can better contain this threat.”
+
+His wisdom was, as always, impeccable.
+
+‘I do know one thing, that will sufficiently keep our foe occupied,’ Vajra stated.
+
+“Oh?” Bi De asked.
+
+‘Me.’
+
+Bi De raised a brow.
+
+“You are offering to use yourself as bait,” he realized.
+
+‘The foe seemed quite fixated upon me. Every advantage is to be leveraged, no?’ Vajra asked. ‘Besides, shall I ever truly be in any danger with such a capable guard?’
+
+Bi De chuckled, then rose to stand before her. His intense eyes gazed upon her form. Then, the magnificent rooster swept into a deep bow. “Your Majesty, this Bi De swears no harm shall befall you under his watch.”
+
+His feathers sparkled in the moonlight. His bold voice vibrated her body.
+
+Oh. Oh my. Oh, this was doing things for her. Noble Bi De, bowing to his most glorious empress…. doing those things she saw him doing to his concubines—
+
+Vajra forced the thought away, lest she catch the vapours. She couldn’t afford to be passing out now!
+
+====================================
+
+The Blaze Bears, true to Bi De’s predictions, refused to evacuate to Fa Ram, but instead were going to another glade that they knew of that would support them. Most of the humans would be travelling with them, but a few stayed behind. They would be helping out around the camp, doing menial work… and in Baolin’s case, dancing around a fire and feeling his Qi like Huishou instructed him. The human had sweat pouring off his form.
+
+And so their plan went into effect. Bi De, following the map, circled around to the south, along the edges of the enemy’s territory.
+
+There, they found a swarm of their enemy. They were in the process of picking a small lake clean. Their soldiers hovered lazily over the water—and when a fish leapt up to try and eat them, more would swoop in, kill the fish, and fly it back to shore to butcher the meat.
+
+The beach was piled high with thousands of carcasses already, from fish that looked like they could eat Pi Pa down to the smallest silver flashes, to say nothing of other beasts that normally came by the lake to drink.
+
+Vajra, sitting on Bi De’s shoulder, fanned her wings. Her scent blew over the lake, overpowering the scent of fish starting to fester.
+
+Every single hornet froze. As one, they turned, staring in the direction of Vajra’s scent.
+
+“Greetings,” Bi De said, stepping forwards. “We spoke last time, but briefly. Might we continue our conversation?”
+
+There were no words. The hornets exploded into motion, aiming directly for Vajra.
+
+They never got close. Some of them were slain, but not all. Bi De, while he could have just destroyed all their pursuers immediately, instead turned to flee. Not at his full speed, but he remained tantalizingly close. He circled around to the southwest. The route had been picked out  meticulously. There were no villages Vajra’s scouts could find, nor Spirit Beast dens.
+
+But it was away from Fa Ram, and away from the Blaze Bears.
+
+Eventually, he did turn, and he destroyed them.
+
+Then, they found another swarm.
+
+He repeated his greeting. And again, they were chased.
+
+Bi De attempted to direct the swarm; to pull it together into a tighter formation, to reduce the space… And goad the enemy queen into making a mistake.
+
+=====================
+
+While they laid out the bait, the others were not idle. Ri Zu had several of Vajra’s soldiers rub their bodies over a cloth that she wrapped around some meat she had impregnated with poison. She snuck close and deposited the meat.
+
+From there, Ri Zu could feel her Qi within the poison… and how it infected the entire hive.
+
+Spooks and the Blaze Bears prowled, forging into hornet territory and destroying everything they found before retreating, and fending off the retaliatory swarms. They were nearly overwhelmed several times, with only Spooks’ wind and Ri Zu’s medicine preventing death. Even with that, the pace was glacial—the large swarms were easier to fend off… compared to the near constant strikes from five or six hornets that would sneak in and launch surprise attacks.
+
+Vajra’s scouts found themselves the first line of defence against these suicidal charges, embroiled in a vicious shadow conflict under the boughs of the trees. Their enemy was not stupid. The stream of scouts and infiltrators scoping out their defences and resting places was constant.
+
+Finally, Yun Ren bent the light around himself… and walked deep into Ash Forest, trying to find concentrations of their enemy, or even, perhaps, the queen.
+
+===================
+
+For nearly a week, Bi De’s efforts seemed to pay off. The swarms seemed to dither and started to concentrate. Their expansion paused, and their raids stopped.
+
+It was working. Soon, they would be able to shut the jaws of the trap.
+
+So Bi De kept on his mission. The hornets set increasingly elaborate traps for Bi De and Vajra, trying to box them in and capture her.
+
+And each time they were foiled.
+
+Until one day, the hornets did not immediately give chase.
+
+When Bi De greeted them, one of the hornets twitched and spasmed, before it locked on to Bi De with frightening clarity.
+
+‘This game is growing tiresome,’ the voice rasped.
+
+“Oh, my. I would say it is a pleasure to meet you again, but I cannot. This one is Fa Bi De. Who are you?’
+
+The hornet just stared at him. ‘We are the Yellow Empress.’
+
+“Well met, Yellow Empress. Though I must say, you have been nothing but rude; assaulting my person and so many others.”
+
+‘We offer apologies. We were merely… excited at seeing the treasure we thought lost. We want her. We will discuss terms.’
+
+Bi De studied the hornet across from him. “You are asking for terms?”
+
+‘It is one worker. Surely it is no cause for conflict between hives?’ the hornet asked.
+
+“You would have to remove yourselves from occupying the central location of Ash Forest, at minimum; and cease your current practices. What you are doing to the forest is a recipe for disaster. We would not just leave you to starve, however. We would help you get the food you need.”
+
+It was a long shot, and to Bi De’s surprise, the hornet nodded. ‘This is acceptable to us; and Fa Bi De, you shall be overjoyed that handing that over to us shall accomplish all your goals.’
+
+Its words were blunt and matter-of-fact, but for some reason Bi De got a feeling of duplicitousness from the creature.
+
+“How so?”
+
+‘We need food. That is food; the best food. We remember when they flew in numbers beyond counting—until one day they did not. It was our fault. We thought they were too numerous to ever fade.”
+
+“You want me to hand her over so you can eat her?” Bi De asked flatly. “How would a single bee solve this?”
+
+“No, no we shall not eat her. One of her kind cursed us. Cursed us to never know satisfaction without the taste of its flesh. But now we will have her. We will eat and be satisfied. It turns flowers into meat. We shall take it, and then we will never go hungry again.’
+
+The hornet did not want to directly eat Vajra. She wanted to enslave her, have her produce offspring… and then eat those. They wanted to farm her as their primary food source.
+
+If it were just normal bees, Bi De would have no real reason to refuse them. But Vajra’s daughters… for some reason, so many of them seemed aware. Bi De would not countenance that.
+
+But there was one last thing. The hornets were, as Bi De had thought, under the effects of a beast curse.
+
+“And if I can break the curse and give you an alternative food source without handing Vajra over to you?” Bi De asked.
+
+‘No. You will give that to us, or we do not have a deal!’ the hornet stated.
+
+“What if I told you you may have her… but you can no longer drink the golden liquid that comes from the earth?”
+
+At that, the hornet froze.
+
+“We… shall accept,” the hornet said, but again… Bi De felt like it was lying. The voice was practically simpering, but its Qi was hungry.
+
+“I think you are lying. I think that you will obey me for a time, because you see my strength. You will glut your swarms on the easy meat of your new slaves. You will sneak out to drink the golden liquid… and when you are strong enough you will retake the forest and try to kill me,” Bi De stated, his eyes narrowing.
+
+The hornet made a derisive sound. ‘...smart, for meat. But we have been watching you. We have been seeing what you value.How you are trying to drag us away from the human hives. You will not give it to us. Very well. So we shall take what is yours. Many of us will die. But we will take our vengeance—because you are not the only ones who know how to dig.’
+
+Vajra buzzed with alarm as her scouts reported in. Vast swarms started to come out of the ground, heading directly towards human settlements, as well as the Blaze Bear encampment.
+
+Bi De nodded. “I see. Then it appears negotiations have completely broken down, and I have only one thing to reply with—we were stalling, too. We had not the numbers to contain you—but that has changed.”
+
+The hornet only had time for a confused noise before Bi De destroyed it.
+
+He had informed Tianlan of his designs before he left, as a precaution. And as always, asking for help when one needed it tended to produce spectacular results.
+
+The swarm had concentrated enough.
+
+Vajra buzzed. ‘The others report. Cordon complete.’
+
+============================
+
+The Yellow Empress would have been a true trial for the province, in any other circumstances. Her numbers, fueled by the bounty of Ash Forest, were apocalyptic in scale, and they were guided by a foe that was adaptable and vicious.
+
+She had marked all of their locations. Vajra’s scouts knew of some of their counterparts, but others were well hidden enough that they were practically invisible.
+
+The Yellow Empress picked her targets correctly. She avoided direct confrontation until she could grow more powerful. She was trying to hit them where it would hurt, in the only way she knew how.
+
+But Yun Ren had spotted the vast mounds of dirt deep in their territory, and Ri Zu had felt her poison going underground and marching towards human villages. At first, it had been a cause for concern.
+
+The earth erupted, and hornets streamed towards a town. None of her foes were near enough to prevent it. Thousands of humans were sure to die, slain by the horde of flying insects. There were shouts of alarm as the dark cloud descended upon them.
+
+[Rooster Tail Broom]
+
+A shockwave met the dark cloud mid-air. The swarm was like a candle’s flame put in front of a hurricane.
+
+Brief.
+
+==================
+
+I rubbed my hands together, and shook out the tingles. It always hurt a bit to clap that hard. A small flight of bees launched themselves from my shoulders, picking off the disoriented stragglers, and the one behind my ear kept buzzing away, sounding quite happy to be connected to her hive after all this time.
+
+“Man, that was a big-ass swarm of gribblies,” I muttered. “Everyobody else done what they needed?”
+
+The bee behind my ear buzzed its affirmatives.
+
+“Awesome. And tell Meimei to stop it. I know she's cackling and scaring people… “
+
+I chuckled as the bee started reporting Meimei’s spluttered denials….and that she had indeed been cackling.

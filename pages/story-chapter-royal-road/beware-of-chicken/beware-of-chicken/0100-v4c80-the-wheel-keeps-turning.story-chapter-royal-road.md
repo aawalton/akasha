@@ -1,0 +1,113 @@
+---
+id: f597ac7e-b3fd-5aff-a460-3550ffacdc16
+page-type-slug: story-chapter-royal-road
+title: "v4c80: The Wheel Keeps Turning"
+slug: 0100-v4c80-the-wheel-keeps-turning
+partOf: beware-of-chicken
+position: 100
+ownLength: 1635
+unit: words
+ownProgress: 1635
+publishedAt: 2024-02-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1534743/v4c80-the-wheel-keeps-turning"
+royalRoadId: "1534743"
+markedReadAt: "2026-06-29T18:54:54.617Z"
+---
+
+“By the power the sects of the Azure Hills have invested in this position, Cai Xiulan calls this meeting to order,” Cai Xi Kong’s daughter declared formally. Her eyes roved over the assembled Elders as she spoke. This was the first meeting called with all of them in attendance since that fateful month, where his daughter had revealed her ambitions.
+
+How much things had changed in that short time already. The little seed his daughter had planted was already growing and gathering strength. He had charted its course with great interest, as had the rest of his sect. Like the grass their sect was styled after, it had grown fast, quickly covering the hills in green.
+
+Those who hadn’t been paying as much attention, those whose entire thoughts were consumed by the crystals and the secrets within them, had likely received a rather large shock. They had assumed the hot blood and folly of youth would stymie the growing movement. They assumed that the old grudges they held for each other were inviolate, even with the oaths they had taken.
+
+Needless to say, they had been unprepared for when Xiulan and her allies went on their tour to each and every sect in the province to make their oaths and claims a reality. The youth had not fallen to petty infighting. Instead, Xiulan’s vision had captured them all.
+
+The youth had a dream, a shared vision burning within them. A dream of strength, glory, and respect that they chased after with all the passion and fire their youth gave them. They had something to build, something to create for themselves, and they had grasped it with all their might.
+
+What was worse for those who never intended the organization to be as strong as it became was that Xiulan’s ideas were good… and that they were working.
+
+Cultivators who seemed certain to forever only taste the First Stage of the Initiate’s Realm had surged to the Second, or even the Third. Young Masters and Young Mistresses went from the Fourth at best to knocking on the gateway to the Profound—if they had not broken through already.
+
+It was like some great curse had suddenly been lifted from all of them, like some hand that had been weighing them down had suddenly relinquished its grasp on their souls, and now the children, especially those who had thrown themselves into this new dream, grew like weeds.
+
+It was here where the nature of cultivators worked in his daughter’s favour. She was making them stronger. And thus, she was allowed to work.
+
+Still, some would scheme, some would plot, some would grumble behind closed doors…
+
+But none, right now, could refute that what she was doing was working.
+
+All Xi Kong felt was pride, and a sense of satisfaction.
+
+It was still the early days yet… but this was no longer some mere ephemeral moment. It was an enduring reality.
+
+And today they were about to see more fruits of this reality; for today these Peaks would be hosting a very special guest. A guest that Xi Kong never would have guessed they would have.
+
+“We are gathered today to welcome one of the first benefactors of the Azure Hills, the ones who made it possible for me to share with all the sects the memory crystals you now hold,” Xiulan said to the gathered cultivators. “Captain Tigu, please bring in our esteemed guests.”
+
+Several of them leaned forwards, clearly curious. Xi Kong would have likely been curious as well… but being Xiulan’s father did have some paternal privileges.
+
+So he was not surprised at all when the doors to the amphitheater opened, and an honour guard walked in.
+
+They were one and all clad in armor, their allegiance to the Azure Hills proclaimed upon the flags they bore. Little Tigu managed to look stern and commanding, a far cry from the boisterous young girl he had known briefly last year; her demeanour all business as she escorted one of the secret movers and players of the Azure Hills.
+
+Several of the Elders leaned back in their chairs, bafflement upon their features. Others had their eyes widened in recognition. Lady Mengde, the woman who had created the Crystal Emporium, and her close friends had featured heavily in many of the recorded memories after all.
+
+“A monkey?” one of the Elders asked, his voice incredulous.
+
+“Presenting, Master Gen Ten!” Tigu declared.
+
+The monkey was one common to the north; some called them a golden snub-nosed, or simply a golden monkey on account of the rich golden colour of their fur. His face was a pale blue, and his nose was non-existent, only having two small holes that made his face look slightly skull-like.
+
+But nobody who saw this monkey could say he was a mere beast.
+
+It was his eyes. Like Bi De and Ri Zu, the monkey’s eyes were filled with a keen awareness and intellect. He did not merely see; he observed, his eyes considering them all.
+
+He walked in on his hind legs, his gait only slightly shuffling. On his back he wore familiar clothes—the same blue colour that Xiulan and her companions had worn. On his back was the symbol for azure, and over his heart was a stylized open palm. His wrists and neck were adorned with crystal pieces—and some of the crystals Xi Kong had never seen before.
+
+The monkey walked to the center of the room.
+
+“Master Gen, it's a pleasure to see you again,” Xiulan said, starting things off.
+
+“It's good to see you again too, lass,” the monkey said, his voice strong, deep, and gravelly, like a mortal mining foreman. The kind of mortal who would stare nobles in the eye and tell them to get bent. “Now, I’ve got a few things to say, ifn’ ya don’t mind, Little Orchid.”
+
+“Not at all, Master Gen.”
+
+The monkey smiled at Xiulan, before that smile faded. He looked up at them all. He studied them, his eyes fathomless. And then, he reached into his shirt and produced a pipe. He pressed a crystal to it and it sparked, igniting the smokeweed within.
+
+The monkey took a puff before he straightened up. He had a presence about him, Gen Ten. He felt old and hardy—it was like looking at a fellow Elder, if Xi Kong was honest.
+
+“I am Gen Ten, Master of the Crystal Hill and supplier of nearly every crystal used in Mengde’s Crystal Emporium. Each and every one of you has used something mined by us; some of you have used thousands of our crystals. And some of you use what we have even now, looking at the memories of your ancestors. Yet… we have kept ourselves hidden. I’m sure you do not need for me to tell you why,” Gen’s rumbling voice filled the amphitheater. There were several nods—and On Gang suddenly looked particularly ill.
+
+They would have been resources at best to most of them. Still, it was quite remarkable that the crystal sellers had managed to keep such a secret quiet for so long. That their main suppliers were Spirit Beasts…
+
+“Several months ago, it was my first time seeing the past as well. Long have my kin searched for the secrets of our Ancestors—for we too had lost much. Imagine my surprise, at seeing what we had in the past. Even more surprising was the Little Orchid there, who swore that she would bring about those times again.
+
+“It had been thousands of years since we interacted with any but our dear friends in Mengde’s… Well, she convinced me of the purity of her resolve. So we backed her, with the crystals you use to view the past. We believed in her resolve, and we believed in her dream. And now… in light of the repairs being made to this blessed mountain… we shall extend some trust to you as well.
+
+“We are the Monkeys of Crystal Hill. We will not be your servants. We will not be your resources. But we trust the Orchid. We will believe in that dream, the dream our ancestors had. So… we are willing to extend this much trust. Everything must start somewhere.”
+
+And then, he raised his hands in the traditional gesture of respect.
+
+“This old man pays his respects to the sects of the Azure Hills,” the monkey said. “I represent my kin; the miners of the crystals of the Azure Hills. I look forward to working with you in repairing the mountain.”
+
+There was a brief moment of silence. The monkey’s calm, gravelly voice had been full of power and resolve.
+
+Then, Xi Kong spoke.
+
+“I pay my respects to Master Gen. It is good to meet you.”
+
+“You have kept your people safe for thousands of years. That indeed deserves respect,” Ulagann Baatar, Patriarch of the Grand Ravine Sect, intoned.
+
+It was one thing to see the monkeys helping to craft the Dueling Peaks. It was another to have one in front of them, laying out his own plans.
+
+The greetings were slow. The greetings were cautious. But they were a start.
+
+Just like all of this. Just like the rest of the revitalization of the Azure Hills.
+
+For the first time in thousands of years, a spirit beast sat upon one of the Dueling Peaks’ chairs—and to the chagrin of some, it lit up with three lines, denoting a person of importance.
+
+For now, only the people directly involved with the repair of the mountain would know. But what else would the future bring?
+
+Xi Kong couldn’t say.
+
+What he did know was that the new ambassador from the Monkeys of Crystal Hill to the Sects of the Hills was named Huo Ten, and both Tigu and Yin were very happy to see him.

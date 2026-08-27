@@ -1,0 +1,141 @@
+---
+id: 570560ff-f25d-58d3-bfe2-27dda84cd925
+page-type-slug: story-chapter-royal-road
+title: "v5c13: The Frozen Forest"
+slug: 0118-v5c13-the-frozen-forest
+partOf: beware-of-chicken
+position: 118
+ownLength: 2131
+unit: words
+ownProgress: 2131
+publishedAt: 2024-06-18
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1681519/v5c13-the-frozen-forest"
+royalRoadId: "1681519"
+markedReadAt: "2026-06-29T18:55:32.973Z"
+---
+
+Ri Zu had awoken warm for the first time since they had reached the Sea of Snow. The cabin that Master Forest Sweeper had built for human visitors was surprisingly comfortable, if a bit cramped with the current number of people using it.
+
+It smelled pleasantly of pine, the blankets made of soft down, and it had a blessedly warm fire.
+
+Now, however, they were back in the freezing cold, and both she and Bi De were in their human forms to more easily conserve heat. While the others were commencing with their morning stretches or meditations, Ri Zu was once again looking over her patients.
+
+She held Shao Heng, the once-crippled outrider of the Shrouded Mountain Sect’s, arm in her hand, intently studying the flow of his Qi. He was progressing well in recovering his former strength—his cultivation had skyrocketed back to the Fourth Stage of the Initiate’s Realm and he was knocking upon the Fifth. He had been doubly motivated after seeing the destruction of Elder Shenhe’s taskforce, and the man had even merited an appraising eye from Shen Yu, especially because his foundation was better now than when it had been broken.
+
+Ri Zu’s exercises had enabled his meridians to contain the surge in power and, though painful,  Shao Heng did them without hesitation.
+
+“Once you break into the Profound Realm, Ri Zu doubts that you will have to do the exercises any more,” she reported. “Your meridians are contracting at a slower and slower rate as you return to the place you were at.”
+
+Shao Heng smiled at her and bowed. “Thank you again, Doctor,” the older man said. He looked perhaps thirty, but there was an age to his eyes, and an experience to his mannerisms that they had all appreciated. Shao Heng knew how to survive in these hostile climates the best out of any of them, especially when dealing with the constant ambushes from other Spirit Beasts they had been subjected to.
+
+With Shao Heng taken care of, Ri Zu turned to her next patient, Zhou Yingwen. He had been part of the squad that, on Zang Li’s orders, had kidnapped Tigu at the Dueling Peaks.
+
+If Ri Zu was honest, she disliked both him and Fenxian. The only reason he was even here was because he had objected to that plan, though he had been forced to carry it out—and he had kept his blows non-lethal. He and Fenxian had been the only ones of Zang Shenhe’s force who had survived the encounter with and had escaped capture by the demons—the same force that they were now following.
+
+The demonic cultivators had captured Elder Shenhe and were planning on turning her, and any other survivors, into artificial demons. It was a process that would take months, so they still had at least some time, but they all felt the pressure.
+
+Both of them had pledged their lives to the cause…and against the demonic cultivators, they likely needed every ally they could get.
+
+That did not, however, mean that they had to like the men. Yun Ren was understandably wary of Fenxian, after the man had nearly impaled him last year, even as he tried not to show it.
+
+Still, Ri Zu could at least respect their resolve. Fenxian had perhaps another day or so until he was back to his old might; Yingwen, on the other hand, was still a work-in-progress.
+
+Yingwen pulled up the bottom of his trousers, exposing the massive scars across both of his legs. One leg was his own and was already mostly healed, while the other was from one of the demon’s repositories of bodies—Ri Zu having purged it of the impurities that had been implanted in it and then attached the limb to Yingwen. It was the only limb that felt even slightly compatible with the man’s Qi and body.
+
+Master Meiling and Master Jin had once had a discussion on transplanting limbs and all the problems that could happen in doing so, but as far as Ri Zu could tell the transplant was working.
+
+It was happening slowly, but his body was obviously accepting the new limb.
+
+“How is the pain today?” Ri Zu asked, her voice polite and professional. He was under her care and protection at the moment, and even if she disliked the man he would receive only the best she could offer as her patient.
+
+“It is less today, Doctor Ri Zu. The heat did it good, I believe,” Yingwen replied in the same polite tone. His Qi was placid and obedient. He was the perfect, model patient. His responses were prompt and he never tried to downplay the pain or the problems the limb was causing him.
+
+Ri Zu agreed with him. The heat had done him good.
+
+“Keep off it for as long as you can today,” Ri Zu recommended. “The fact that it hasn’t fallen off after a week of use is the best sign we are likely to receive.”
+
+Getting a transplanted limb, then running for a week through a place as inhospitable as the Sea of Snow, was quite frankly madness—and Yingwen had also fought in several of the running battles against the local Spirit Beasts.
+
+Ri Zu sent a bit more of her medicinal Qi into his leg, to soothe some more of the pain, and then reapplied the binding bandages. A formation was inscribed on the linen, to stabilize the Qi within and promote healing. It was a technique she had learned from Master Lishu, head of the Shrouded Mountain Sect’s Medical Pavilion. He was her teacher for only a short time, but she hoped he was doing well and that he and his people, her former fellow disciples, had avoided the worst of the Sect’s internal conflict.
+
+Ri Zu stood and Yingwen bowed slightly to her. “Thank you again for your care, doctor,” the man said, his voice formal.
+
+…. It was actually rather hard to dislike him when he was like that.
+
+Ri Zu nodded in return, walking off to stand beside the rest of her friends. All but Shao Heng had finished their morning exercises, and they were waiting for Shen Yu, Nezan, and Master Forest Sweeper to return from where they had decided to have a private discussion.
+
+Yushang immediately hugged Ri Zu, the taller woman resting her head atop Ri Zu’s own. Yun Ren and Han were taking turns holding a fire crystal, while Bi De was somewhere up in the trees, looking at the moon.
+
+“Man, I’m never complaining about the winters back home ever again,” Yun Ren grumbled after a moment. “I can’t believe that this is considered the warm bit around these parts.”
+
+“It's colder than a Young Mistress’ hole,” Fenxian agreed from across the clearing, his loud boisterous voice echoing out. Yushang and Han snorted at the crude joke, and even Yun Ren started to smile… until he remembered who had made it and a complicated expression overtook his face.
+
+Yun Ren paused and looked like he was going to say something when he was interrupted.
+
+‘I dunno what you would complain about. The winter where you’re from was really nice and mild, Jumpy.’
+
+Yun Ren cursed as he flinched. Han sprung backwards from the large head that was suddenly right beside him. Yushang flinched, and even Ri Zu felt her skin spasm.
+
+“Bastard of three fathers!” Yun Ren howled at the smirking young Thunderhoof. “Did you really have to?!”
+
+‘No, but it's good practise!’ the young Spirit Beast replied. ‘And I missed your face, you know?’
+
+Indeed, the young Thunderhoof was remarkably stealthy for someone so large. His tale of coming this far north last night had been one of him mostly managing to sneak past any threats, drawn by the invisible song of this forest—and impressing Master Forest Sweeper with this feat, considering how young he was.
+
+Though there was one thing that they hadn’t learned—his name. He didn’t actually have one, with Master Forest Sweeper simply calling him “Apprentice”.
+
+Yun Ren glared. “If you’re gonna call me Jumpy, I’m calling you Spooks.”
+
+The Thunderhoof, contrary to Yun Ren’s attempt to retaliate, actually looked quite pleased with the idea.
+
+‘Really?’ he asked, his voice chipper. ‘That's a great name! I like it, Jumpy! I think I'll use it until Master gives me a title. You’re a real good friend, to give me a name like that!’
+
+Everybody stared at the smiling Thunderhoof, trying to figure out if he was being sarcastic or not, until Ri Zu realised that he wasn't.
+
+Yun Ren just sighed in defeat, while Yushang and Han started chuckling. Ri Zu, on the other hand, was more interested in what the Thunderhoof had brought with him.
+
+He carried on his back several bags and a large basket filled with what looked like ice sculptures of birds.
+
+“What did you bring, Spooks?” she asked, using his new name, and the Thunderhoof perked up.
+
+‘Oh, I brought you all breakfast! And my job, I gotta test all these birds,’ Spooks replied. Ri Zu raised an eyebrow as the Thunderhoof reached back and, with deft movements of his lips, pulled off the basket and placed it on the ground. It was then that Ri Zu realised what exactly she was looking at. They weren’t ice sculptures of birds, they were literal frozen birds.
+
+“What exactly happened to them?” Ri Zu asked, curious.
+
+‘Oh, ever since we got told about the demon birds, Master has been freezing every bird that flies close to the forest,’ Spooks replied. Everybody sobered at the casual mention of Forest Sweeper freezing every bird that approached the forest that was at least a thousand Li in size. Spooks breathed out, forming a small needle made of ice. ‘So I go to the gathering points where Master’s spirits collect them for me, bring them back here, poke them with this, see if their blood is black, and, if it isn’t, I take them to get defrosted and let them go with a Qi signature in them so they don’t get targeted and frozen again.’
+
+“That doesn’t hurt them?” Ri Zu asked as the rest of them gathered around to watch the Thunderhoof work.
+
+‘Nope! Master freezes them so fast they just fall asleep, and when we thaw them out they wake right back up and fly off. That said, we haven't found any with black blood yet, but Master wants to be thorough.’
+
+Well, Ri Zu supposed that was one way of checking for demonic infiltration.
+
+“Would you like a hand?” Ri Zu asked. It was also one way of passing the time.
+
+Spooks seemed quite pleased by her offer.
+
+=======================
+
+They finished checking the birds—none had any black blood, and Spooks handed them off to more ghostly spirits to take them back to the approximate area where they had been found.
+
+They also had a simple breakfast of mushrooms, lichens, berries, and a kind of fish whose flesh was completely clear and whose blood was blue. Ri Zu saved some of the berries and mushrooms. The berries were sharp, tart, and oddly warming, while the mushrooms tasted exactly like the venison jerky Yun Ren and Gou Ren made.
+
+Their breakfast finished, they started to separate to either meditate or train—when Shen Yu finally returned, along with Nezan and Forest Sweeper.
+
+“We have discussed much,” Shen Yu said simply. “And we have come to a conclusion. Forest Sweeper shall allow us to use his forest as our base, while you all prepare for the upcoming march. We have a good idea of where the enemy is hiding, but they have an unknown number of scouts hidden in the bodies of ordinary looking animals. You have one week to train and devise a method for getting closer to the base of the enemy under your own power and without being spotted.”
+
+Ri Zu paused, along with the rest of them.
+
+“We are still approaching this situation as training, then?” Bi De asked.
+
+Forest Sweeper inclined his head.
+
+‘I wondered why this Sword here did not advance alone to crush the foe, but his judgment is sound. The next generation must be trained to combat the threat of the demonic. To this end, Apprentice, you shall join your might with theirs as a guide, and support them as best you are able,’ Forest Sweeper intoned.
+
+Spooks looked surprised at this outcome.
+
+“We shall begin probing and examining their defenses. If their abilities are too great to surpass with your own power, then Master Forest Sweeper shall summon a great storm that we may move beneath to the heart of the enemy undetected,” Nezan finished.
+
+Ri Zu nodded along with the rest of her companions at the task.
+
+At least stealth was her specialty.

@@ -1,0 +1,159 @@
+---
+id: 3ba4e269-9942-5e2f-97bc-7bb50e9da95a
+page-type-slug: story-chapter-royal-road
+title: "v4c60: Something Afoot"
+slug: 0075-v4c60-something-afoot
+partOf: beware-of-chicken
+position: 75
+ownLength: 1760
+unit: words
+ownProgress: 1760
+publishedAt: 2023-11-21
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1417002/v4c60-something-afoot"
+royalRoadId: "1417002"
+markedReadAt: "2026-06-29T18:53:59.570Z"
+---
+
+The crowd erupted into utter pandemonium at the Young Master’s words. Bi De watched as the once confident competitors turned meek. In one instant the Young Master had changed the course of the entire tournament.
+
+Zang Sheng’s eyes bored into the crowd, daring anybody to say a word. Everyone whom he stared at averted their eyes… except for Bi De.
+
+Zang Sheng’s eyes narrowed, and with a burst of speed he was standing before him on the edge of the raised platform.
+
+He needed the platform, otherwise he would have had to look up to look Bi De in the eyes. Green met blue as the intent of one in the Spiritual Realm bored down on Bi De.
+
+Bi De remained standing, his eyes focused on the man before him. He could see a spark, a desire to crush Bi De for his impudence. Sheng wanted to hurt him.
+
+Yet that glow in his eyes faded after a moment. “So, you’re the gardener, hmm? I shall allow you to retain the use of your hands, despite looking at me with those impudent eyes,” he stated, and then turned his back on Bi De.
+
+Bi De said nothing, simply looking at his back.
+
+This man… was strong. Stronger than Bi De was.
+
+And yet… he felt his blood start to pump. His soul could not deny the challenge that had been thrown this way from Zang Sheng.
+
+They would meet in combat, that much was certain.
+
+Bi De went to his seat as the first names were called, and as lightning began to fly—
+
+He was rather surprised. His friends had said the initial bouts were rather boring, but this was anything but. He found himself quite engrossed as the crowd began to holler and cheer.
+
+“Twenty silver coins on Jian Feng!” Yushang called, grinning at Bi De.
+
+And that was how he started gambling.
+
+And taking a lot of Yushang’s money.
+
+==================================
+
+“Finish wrapping that burn. Poultice changes every two hours,” Ri Zu commanded her aide as she finished her work on one of the injured combatants. Electrical burns were something Ri Zu had a wealth of experience of beforehand, from Tigu, Xiulan, and Wa Shi’s “tribulation training”. That had turned out to be a boon today.
+
+Her aide bowed while Ri Zu took a breath and reviewed her work in her mind, finding nothing wrong with what she had done. The patient would make a full recovery in three days time, if all went well.
+
+Satisfied, Ri Zu went to wash her hands, looking around the ward. The beds were empty, but prepared; Ri Zu, as the most junior doctor, had been the one to deal with the first patient of the day.
+
+Finished with her duties, she walked back into the extremely well-appointed break room in their little underground bunker. The cushions were extremely comfortable, and the table was laden with food and drink for the Medical Pavilion disciples on standby.
+
+The rest of her fellows were watching the tournament on a crystal that took up an entire wall. Yuanzi, their most senior member, had the control, and they could zoom in on certain sections of the event as he directed.
+
+“Anyone else?” Ri Zu asked her Senior Brother.
+
+“Just some walk-offs,” he replied. “How's our cherry-boy doing?”
+
+“Three days, but he shall be fine,” Ri Zu replied, and Yuanzi nodded. “Have Bi De or Yushang been called yet?”
+
+Her Senior Brother shook his head, and Ri Zu went to the table to sit down just as another bout ended. Unlike the Dueling Peaks with its preliminary rounds, this tournament went straight to focusing on one combat round at a time. Ri Zu studied the crystal and winced as a blow landed.
+
+“Ooh, that one had to hurt,” Hutao said as she ate another custard bun.
+
+“Definitely some liver damage. He’s going to be pissing blood for a week,” Kuang Dan chuckled as he sipped some juice—lcohol was banned for everyone on duty.
+
+“Nothing a pill won’t fix,” Yuanzi replied, yawning. “Walk-off.”
+
+“Walk-off,” the others agreed.
+
+There was the sound of chalk on a board, and another tally was added to “walk-off”.
+
+Next to those was the single mark under “critical” and the two empty columns of “broken cultivation” and “death”. It was probably rather morbid to keep a tally, and even moreso to bet on the outcomes, but Ri Zu knew that at some point one had to laugh or they were going to cry or break.
+
+The bout did indeed end as the disciple simply walked off an injury that would have slain a mortal, looking mildly annoyed with his defeat. A few disciples gave the arena a once over to make sure nothing was too badly damaged, and then the announcer bellowed the next two names as the crowd cheered or jeered.
+
+“What do you guys think? Equal cultivation, but Shu has three years more experience than Lidai,” Yuanzi asked.
+
+There were several moments of muttering before the answers all came in, with “walk-off” being the most popular. Kuang Dan voted “critical,” while Ri Zu herself also said a “walk off”.
+
+And then the bout began immediately with blasts of lightning and fire.
+
+If there was one thing Ri Zu noticed in particular about this tournament compared to the one at the Dueling Peaks, it was the sheer amount of techniques thrown around.
+
+It was the addition of Qi. In the Azure Hills, techniques were carefully held back for most of the bouts. Qi was something to be hoarded, and only expended when necessary. What most competitors did was hone their bodies, their best attacks saved for the final moment… if they were used at all.
+
+Here? Lightning fell like rain, fire consumed flesh, and blades punched deep—yet in return the quality of the healing was better and they could afford to take such risks. Thus the combat, even accounting for the differences in cultivation level, was much more intense and probably wouldn’t have been that interesting for a mortal onlooker, as they moved too fast to properly see.
+
+Xiulan had been the only cultivator in the Profound Realm back then. Here, the Profound Realm was the norm—and as much as she loved Xiulan, her dear friend likely would have lost some of these preliminary bouts back when she was at the Dueling Peaks. Tigu would have been an underdog, instead of somebody to watch.
+
+It was humbling to realise just how much manpower the Shrouded Mountain Sect had available to it, even in the sheer quantity.
+
+Ri Zu watched the fight until the end, where, as predicted, the bout ended in a “walk off”. The loser hopped on one leg off to the side, the other limb twisted all the way around, while the winner pulled four throwing knives out of his chest and shoulders.
+
+“Have ‘em back, asshole!” Shu shouted and chucked them back at his opponent, while Lidai made an incredibly rude gesture back.
+
+The crowd laughed at the byplay, and got a few chuckles from Dan, while Yuanzi marked down another “walk off.” After he did that however, he squinted at the screen then tapped his transmission stone to contact the disciples who had been chosen as stretcher-bearers.
+
+“Make sure Lidai comes in. That leg break is worse than he thinks,” her Senior Brother stated, and that got everybody to go from amusement to closely studying Lidai.
+
+“Oh, the bones have separated,” Hutao said, a moment before Ri Zu could give her answer. “A deceptive wound.”
+
+Yuanzi smiled. “Guess what your reward is for being the first to get it right?”
+
+The woman rolled her eyes and stood up. “Yes, Senior Brother.”
+
+“Dan. Next one is yours, then me, then back to Ri Zu,” Yuanzi commanded.
+
+“Yes, Senior Brother,” they chorused.
+
+The next few bouts went smoothly and Hutao returned swiftly, her task completed, and sat back down. Hutao packed a smoking pipe, ignited it, and took a couple of puffs. She glanced at Ri Zu, who was sniffing at the blend, and proffered the vessel to her. Curious, Ri Zu took it and inhaled… then promptly started coughing.
+
+Hutao burst out laughing, and Kuang Dan clapped her on the shoulder.
+
+She recovered just in time for the announcer to speak up.
+
+“And now—Our Young Master, Zang Sheng, versus Yoh Xao.”
+
+The jovial mood died in an instant.
+
+“Prepare to receive a casualty,” Yuanzi stated flatly. “Signal the stretcher-bearers—this one is going to be ugly. Broken cultivation is likely.”
+
+Ri Zu’s eyes widened as the mood became grim.
+
+The gong rang to begin the fight, and Sheng simply stood there. “Junior, you have the first blow,” he commanded, his eyes boring into his nervous opponent.
+
+He visibly swallowed before he steeled himself, drew his sword, and shot into a thunderous charge, his sword swinging to end the fight in an instant.
+
+Sheng used a finger to block it. His eyes burned with barely contained energy—and then the Young Master flicked the blade away. The disciple went flying, barely managing to catch himself before he went out of bounds. But he raised his head, looking like a cornered rat before getting eaten by a cat.
+
+Sheng simply looked at his opponent, his face utterly lacking in any emotion.
+
+“Not completely worthless. Acceptable aggression,” Sheng said, his voice cold. “Now, I shall allow you to receive my pointer.”
+
+Yuanzi was leaning forwards, his eyes utterly intent.
+
+Sheng then pitched his voice so it boomed over the stands. “This is how one properly performs such a charge.”
+
+Sheng nearly disappeared from Ri Zu’s eyes. His form crackled with lightning, his fist aimed squarely for the disciple’s heart… and then he stopped.
+
+The air pressure blew the disciple’s hair backwards, and the barriers behind him flared with energy.
+
+The disciple took a single step backwards, disqualifying himself. “Th-th-thank you for your pointer, Senior Brother,” he stammered. “This one sees now where he was lacking.”
+
+Sheng ignored him, turning to the disciples who were waiting to be called into the ring.
+
+“As I said, you, all of you, shall be educated. Those who are worth something shall benefit. Those who are not can wallow in their weakness. The first place prize means little to me—whoever impresses me the most may have it.”
+
+His voice was calm, simple, and matter of fact. Like he had already won.
+
+Yuanzi stared at the crystal. All of them did.
+
+And then the crowd ripped into cheers for the Young Master.
+
+Yuanzi looked like the world didn’t make any sense anymore.

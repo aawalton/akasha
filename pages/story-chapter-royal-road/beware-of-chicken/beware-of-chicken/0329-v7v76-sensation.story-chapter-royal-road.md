@@ -1,0 +1,159 @@
+---
+id: bf2ed8ef-efbe-5f5d-b8c7-4a4d0501c056
+page-type-slug: story-chapter-royal-road
+title: "v7v76: Sensation"
+slug: 0329-v7v76-sensation
+partOf: beware-of-chicken
+position: 329
+ownLength: 2540
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3647093/v7v76-sensation"
+royalRoadId: "3647093"
+---
+
+Earlier:
+
+Vajra’s new mouth made an odd whining noise as she laid on the forest floor. She had just terribly embarrassed herself! Falling out of a tree? How could this Empress do such a thing! And in front of Noble Bi De! She could feel warmth flood her face, and an odd feeling pool in her gut. She felt ashamed. She could almost imagine the disgust on Noble Bi De’s face—!
+
+She reached out to her daughters’ vision, and thankfully she could still see through their eyes. She was almost dreading what she would see on Bi De’s face, but… instead of any disdain, or amusement, he just seemed concerned.
+
+“Vajra, are you all right?” Noble Bi De asked, his voice deep and pleasing. It had so many different notes, and the warmth of it was somehow greater.
+
+He reached out and put the hand of his human form on Vajra’s shoulder.
+
+His touch burned. Instead of the dull sensations she received through her armoured carapace, where his fingers landed burst with sensation. The feeling of his long digits digging in slightly to her shoulder sent a jolt of almost overwhelming pleasure through her body. Something in her chest was thundering like a drum and—
+
+“Your heart rate is quite high,” the man said, concern still evident.
+
+Her heart? That was her heart? She was used to it feeling like her whole body was pulsing, from her head to her abdomen. Having it hammering away like this made her feel… feel…
+
+‘Like a steam furnace?’ one of her daughters chimed in helpfully. Sentinel that Braves the White Death normally guarded Young Master Bowu, who, despite his mortality, was a genius who helped Vajra attain the title of Booze Master. She knew much of his designs!
+
+Exactly! Like a steam furnace! Pressure! Her head was feeling as woozy as one of her daughters chimed with an apt analogy—pressurized as one of the steam furnaces!
+
+“Vajra, please talk to me—” Bi De said, true worry coming from him now.
+
+She tried to zip upwards, but she had no wings, so instead she flailed for a moment. She tried to push herself up, and with only two arms it was so terribly unwieldy, but she managed it!
+
+“I am well!” she managed to get out, her throat vibrating. Oh, that felt nice! And sounded nice! She was a fantastic dancer already, an expert communicator! It was to be expected that her voice sounded so wonderful!
+
+And finally, seeing Bi De with her own eyes—it was stunning. The clarity! Every line was so sharp! His jawline, the tantalizing little bit of chest she could see—the trees. The bark. The depth perception. She wasn’t moving at all and yet she could see exactly how far away things were. Her eyes moved! They flicked around and latched on to anything and everything that moved of what seemed to be their own accord that it was very hard to focus—
+
+Her daughters flew beside her, some landing on Vajra’s face and sharing their vision. At once, the image split to be more how she was used to it, a hundred smaller images that made up a whole. She could see around her, most of her own body, and behind her. Her daughters took care of focusing on the movements, which allowed her to return her vision to Bi De’s wonderful, wonderful face, which had gained a very, very fetching slight pink tinge.
+
+It made him even more handsome than usual!
+
+He coughed and shrugged off the human-sized version of the coat he wore. “I’m glad you’re well,” he said, draping it over her shoulders. The sensation of the sliding fabric, and the way his fingers brushed along her body, was delightful. “Now, let us go and see Ri Zu to make sure of things. I would never want you to get hurt.”
+
+His warm words, and the smell of his coat around her, made her heart thump faster.
+
+“Of—of course!” she declared. Bi De stood, and Vajra tried to mimic him. She got taller and taller and taller as her legs unfurled, until she was towering… well, relatively towering. She had to be a thousand times taller than her previous form, but that still meant she was smaller than Bi De. Judging by her height, she was neither particularly short, nor tall—about the average of the other human females that lived at Fa Ram.
+
+And then she took her first step.
+
+Her legs wobbled. She didn't try for her wings this time, instead going for another pair of legs, but that just made her arms flail uselessly. She started to pitch forward, the coat coming off her… before she was suddenly scooped up.
+
+One arm went behind her back, the other caught her legs, and then she was in Bi De’s arms and pressed against his chest. His green eyes stared into hers. She vaguely heard her daughters cheering.
+
+“I suppose out of everyone your body was the most different from a human's…” she vaguely heard Bi De say. She nodded, her cheek rubbing against the fabric on his chest. She flinched. That was sensitive. Why were her cheeks sensitive? It felt good and she really wanted to just rub herself against his chest more, but she managed to restrain herself.
+
+Instead, she just contented herself with the utterly enviable position of being in Bi De’s arms. He carried her all the way to Ri Zu, who was in the medical tent.
+
+“I have a patient for you,” he said, the amused rumble of his voice vibrating through her body. She looked through her daughters’ eyes at the woman but kept her gaze on Bi De’s features.
+
+Ri Zu looked up from where she was sorting her needles, and paused as she took in Vajra. She looked closer at Vajra’s face, sniffed, and frowned slightly before sighing.
+
+“Ri Zu was okay with Yushang, she isn’t completely against these things, and is glad you think to include her, but… Ri Zu would still like to at least get to know the person before—” the woman began, and Bi De’s face flushed.
+
+“Wha—no, Ri Zu, this is Vajra,” the man spluttered.
+
+“Oh! Oh…” Ri Zu’s face turned crimson as well, and she coughed. There was an awkward silence.
+
+“The patient?” Noble Bi De asked, and he dipped, allowing Vajra to put her feet on the ground. She kept a hand on Bi De for support, however. Her fingers curled around the fabric on his chest, sensations travelling back down her fingertips. They were like antennae, kind of. In this body, they were far more sensitive, but she couldn’t smell out of them, which was a travesty. Though, no, humans worked with their hands. She had seen them mucking barns. Being able to smell and taste that so closely… no, no thank you!
+
+“Yes!” Ri Zu squeaked. “Vajra! How wonderful, you have attained human form! It's certainly…” She looked Vajra up and down. She blinked. “Striking.”
+
+“Of course I am striking,” Vajra replied. “In both forms, I am stunningly beautiful, you merely could not appreciate this Empress before!”
+
+She put one hand on her hip like she had seen Liu Xianghua do—she was highly placed at court, and therefore acceptable to borrow things from. The other woman had wondrous poses.
+
+Concubine Ri Zu stared for a long moment; her admiration at her future Empress’s body clear.
+
+“Ri Zu sees,” she said after a moment, pulling her eyes upward to Vajra’s face with a powerful force of will. “Let us begin your examination.”
+
+The entire thing was… deeply involved. Such poking and prodding and measuring! She was made to walk around the room, touch her fingers to her nose, and all sorts of other embarrassing, degrading commands that she normally would have refused, but here and now… it seemed prudent to test this new body.
+
+Thankfully, she was as sublimely talented in this form as in her previous one, and most of the awkwardness faded quickly. She went from stumbling to walking, to listening, to focusing on things. There were so many questions, mostly about what was different, and the answer was…
+
+Basically everything. The world was simultaneously terribly dull and overwhelmingly vibrant.
+
+There were more colours in some cases, and less colours in others, but she could see through her daughters' eyes and so received the best of both worlds. The smells were more present, yet at the same time there were less of them, or different smells? And the touch! Oh, the touch. She thought she had felt things before? The feeling of Bi De’s beak around her carapace, the gentle touch of the Emperor’s fingers were nothing compared to this. Skin! Skin was quickly becoming her favourite thing to have. It was soft, supple, sensitive… it was just the best.
+
+It was almost a shame she had to cover it up and wear clothes! The world should stand in awe of such perfection!
+
+She shared everything with her daughters, naturally, who were most interested with this development.
+
+And then the Emperor arrived.
+
+She approached, intending on paying her respects. She moved the way she saw the foxes move, their hips swinging, which made every man look upon them; and yet the Emperor’s gaze was firmly on her face.
+
+And then… a wooden box of supplies dared to leap out in front of her path! As a bee she would have bounced off it, but as a human... her knee impacted the wood and sent it clattering loudly off to the side.
+
+Vajra’s body felt the pressure again, her face red, but she managed to complete her greeting, bowing low as expected of her station.
+
+When she looked up… instead of approval, or any other emotion, a small frown crossed his features.
+
+Instantly, she was stricken by horror. Was she somehow displeasing? Was it her body? She was effectively the opposite of the Healing Sage in everything. Perhaps her hips, was it that?!
+
+His hand landed on her shoulder. It was massive, warm, and possessed an undeniable, yet restrained weight. Some part of her soul sang at that touch. He leaned down, his green eyes staring into her own, and his breath on her face and—
+
+“We need to continue your checkup,” the Emperor declared.
+
+===
+
+The next few minutes got confusing. The Emperor’s Qi took her own, and she was guided down into the earth… until she opened her eyes, and saw she was surrounded by a forest, wherein they were greeted by a small child—no. A small woman. Her eyes were absolutely ancient.
+
+There, she was introduced to Tianlan, the Spirit of the Earth. She also looked rather familiar—and Vajra realised that she occasionally had dreams of the woman. She also felt familiar—exactly like the Emperor, their Qi so entwined it was indistinguishable from his. An ancient, otherworldly might… who looked at the Emperor with a deep and abiding love.
+
+Everything clicked into place. Of course the Emperor was the consort of the Earth itself. Everyone always spoke of the deep connection the Emperor had to the earth, and how he helped Tianlan, but this? This made sense.
+
+What did not make sense in this strange Spiritual Realm was being subjected to yet more prodding. It was only tolerable because the Emperor had noticed her anxiety and asked if she wanted him to hold her hand.
+
+She said yes, naturally, and now she felt much better. And besides, if there was something wrong with her, then the Empress would be able to fix her, no?
+
+It was fine.
+
+“Ah! Found it! Right here!” The Earth Spirit declared, holding up what looked like a green glowing string that connected from Vajra’s chest to the forest floor. “She really did it! That mixed melon, was this revenge for me dying her fur red that one time…?”
+
+“Ah… Great One… what is it? And what is wrong with this one?” Vajra ventured after a few moments of grumbling.
+
+Tianlan huffed. “This? This is the mantle of the Empress of the Forest. How to explain it? I suppose the closest thing to it would be a Domain. Do you know what that is?”
+
+“A cultivator imposing their will upon the world, to create a space governed solely by them?” Vajra asked, remembering listening in on one of the lectures given to Bei Be.
+
+“Yes. What the Empress Of The Forest did is sacrifice her ability to create a Domain, and instead designate an area as her Domain. While a normal Domain uses Qi to keep it active, this does not. The owner of this kind of Domain gains Qi and cultivates better while within the radius. Right now… you’re the Empress of the Forest. At full power? There's a reason why even the Azure Emperor didn’t dare come and tangle with Mishu.”
+
+Vajra’s eyes widened, and a massive grin stole across her face. Of course, she was an Empress, and destined to rise! To know she was destined to be mighty enough to defeat Emperors—how wonderful! Both the Emperor and Bi De would surely lavish her with favour for securing such a wonderful thing!
+
+Fingers snapped in front of her face, and she recoiled, Empress Tianlan giving her an amused look. “You can fantasize about things later. There are also very big drawbacks. But for now, I need to know, what exactly did you and Mishu talk about?”
+
+Vajra thought back to last night.
+
+“The bear approached to offer tribute, and praised our conquering of the Yellow Empress, and our dominion of Ash Forest. She was quite free with her praise, as a peasant should be, and humbly requested what my plans were. Naturally, I told her that we would elevate and repair this little forest, and make it a jewel in the Emperor’s palm; our dominion would bring untold prosperity. Not just to the men, but for the Spirit Beasts, the animals and the trees as well, from the greatest noble to the lowliest worm. For the Emperor thinks of even the least of his creatures, and praises them for their duties—like Master Worm, or the river snails,” Vajra said, singing the Emperor’s praises and currying favour. The Emperor offered her a small smile for her praises, and Vajra’s cheeks once more heated.
+
+“Was that it?” Empress Tianlan pressed.
+
+“She asked me if I meant it; of course I meant it. This Vajra never says anything she doesn’t mean!” she lied. It was best to be honest most of the time. It made the lies that much more believable.
+
+Empress Tianlan stared at her and raised a brow. A drop of sweat formed on her cheek, but the Lady did not press, and instead sighed.
+
+“Well, to quote that big lug right there, you gotta put your money where your mouth is.”
+
+“...I beg your pardon?” Vajra asked.
+
+“You swore a binding oath to the last bits of a God Beast’s power,” Empress Tianlan deadpanned. “To protect, restore, and improve Ash Forest, and all that live within it.”
+
+Vajra stared at the green thread in Empress Tianlan’s fingers. It hummed with what felt like amusement.
+
+“Congratulations, Empress. Here's your throne. You can’t leave until you make good on your promise.”

@@ -1,0 +1,143 @@
+---
+id: 06ff986d-b29b-542b-8dd7-e16f7e17f3b4
+page-type-slug: story-chapter-royal-road
+title: "B3 - Chapter 23 - Moons"
+slug: 0027-b3-chapter-23-moons
+partOf: bookbound-bunny
+position: 27
+ownLength: 2121
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/104261/bookbound-bunny/chapter/3213299/b3-chapter-23-moons"
+royalRoadId: "3213299"
+---
+
+For Lily, the night was actually smooth sailing, and there was no sign of Alice or the monsters she was supposedly sending their way. At first, Lily had thought that she might lure them to their camp, but Arakil suggested she might chase or divert them here instead.
+
+[If she's strong enough, she might actually cause the monsters to flee from her, and if your camp happens to be in the way…]
+
+Lily shuddered at the thought, wondering how much of her strength Alice had been hiding.
+
+When Lily woke up Thomas for his shift, she warned him that she'd seen nothing and quickly told him about the new defensive runes she had set up. Once that was done, she went to bed, wondering how the night would progress…
+
+When Lily woke up, she was amazed to find it was morning. Feeling much better than the day prior, she got up quickly and, after using her bracelet, emerged into their camp fort. From the looks of things, it looked like either there had been no attack, or the problems were swiftly dealt with outside the walls.
+
+Lily approached Lotte curiously, eager to learn what had transpired.
+
+"Absolutely nothing," Lotte replied.
+
+Lily frowned. "So… We weren't attacked?"
+
+"Not at all. Unless you count a weird bird monster I attacked from a distance," Lotte replied.
+
+Lily stared questioningly at Lotte, who merely shrugged in response.
+
+"I was getting bored and tense waiting around expecting an attack, so I took the initiative to strike first," Lotte said proudly.
+
+At this point, Thomas had also arrived on the scene, and he must have heard a good portion of Lotte's story, as he was shaking his head and sighing. Lily also turned to him, and he quickly gave the answer she sought.
+
+"I didn't have any monsters during my shift either," he revealed.
+
+"Do you think she was pranking us?" Lily suggested.
+
+"Get us all scared of the impending attack, so we give up?" Lotte asked.
+
+Thomas coughed awkwardly. "While I think Alice is a…decent teacher, and an excellent adventurer, I don't think she's capable of psychological warfare."
+
+Lily nodded in agreement. Alice didn't seem like the type to do something like this; her style seemed more aligned to solving problems with her fists.
+
+"Maybe she attacked one of the other camps last night, then, and we might be tonight or tomorrow," Lily speculated.
+
+Her two friends nodded in agreement; it was the much more likely scenario. So, instead of worrying about what could have been, they instead focused their efforts on the day's activities.
+
+They wandered off again, trying a different direction than last time in hopes of finding more treasure, or at least something exciting. However, they didn't want to go too far, as they wanted to reserve some energy just in case it was their turn to be attacked tonight.
+
+Their daytime exploration was actually relatively lucky, as after dealing with a territory full of large, ferocious feline-type monsters, they discovered a small glade with a considerable number of herbs and plants. Lily and Lotte's eyes sparkled with desire, so they spent the time carefully harvesting them while Thomas stood watch.
+
+After that, they returned triumphantly to their camp, only to run into a small problem—soon their bags would be full!
+
+"I guess it's a good thing the competition is coming to a close," Lotte sighed.
+
+Lily and Thomas both nodded; even Lotte's bag, which was the best of the bunch, only had a bit of space left. They had tried redistributing their spoils between the three of them, even using Lily's pouch for some of the small items, but it only slightly alleviated the issue.
+
+"What are we going to do about the tents?" Lily suddenly asked.
+
+Thomas slumped as he scratched his head in thought; he'd likely also realized this potential issue.
+
+"I'm sure the treasures we found are worth way more than the tents; we can just leave them here," Lily suggested, although it pained her to do so.
+
+"Or maybe we can ask Alice to take them home for us? I'm sure she has the space," Lotte suggested.
+
+"We'll cross that bridge when we come to it," Thomas replied. "For now, let's focus on the night ahead…"
+
+***
+
+During the night, Lily was staring out in the darkness, watching the sparkling fireflies while occasionally directing her own Starlight spells to sweep across the surroundings. From the outside, it almost looked like she was conducting a magical orchestra, as with the wave of her hand, countless tiny stars flew across the horizon.
+
+Basic spells like this now felt so natural to her; she couldn't help but compare them to when she had first started. She'd been entranced by a minor illusion prepared by Arakil back then, and now she could arguably do far better with a few waves of her hands.
+
+While she was reminiscing, she caught signs of movement in the woods below. She could have directed more of her Starlight spells to the area, but even at their maximum brightness, it likely wouldn't be enough.
+
+To remedy this, Lily performed a small chant, for a spell she hardly found the time to use—Moonlight. Above and behind her right shoulder, a full moon magically appeared, and with her arm pointing the targeted direction, a column of silvery light shot out like a ray.
+
+The darkness was banished, and the area was illuminated in the silvery radiance, revealing several monsters that had been approaching. Lily wasn't sure what they were, but they appeared to be something resembling monkeys, except they had elongated fingers that looked like hooks.
+
+I bet they can climb our walls!
+
+Lily now wondered if the delay in the attack against them was just because Alice needed to find the right kind of monster to threaten them. Thankfully, there were only roughly a dozen or so, which meant that she could probably handle them without waking up her teammates.
+
+The monsters had recovered from their temporary blindness and began advancing forward, with newfound ferocity and likely a desire for revenge for Lily's spell. However, she wasn't going to let them, and with another chant, she blessed herself with Lunar Radiance. With both a full moon and a crescent moon floating beside her, it now appeared that she was a moon mage, rather than a star mage!
+
+Lily giggled at that thought and quickly began casting Starburst. It was her only offensive spell, unless she used glyphs, which she couldn't do unless she used the last few talismans she had left, and the monsters certainly wouldn't wait while she took the time to draw them. Arakil must have sensed her desire as he spoke up.
+
+[Perhaps you can draw them beforehand and keep them at the ready instead. Remember, preparation is your strongest asset when it comes to glyph magic.]
+
+Lily silently agreed as she sent out a small cluster of stars streaming out towards the monsters. It was far enough away that she reckoned it wouldn't disturb her friends from sleeping, as her spell paled in comparison to the thunderous booms of Thomas' lightning magic.
+
+The results from Lunar Radiance made Lily feel like she was cheating, as every time she declared a number of stars while it was active, she got it. Arakil had said it increased the probability, but for her, it felt like it was a guarantee.
+
+That wasn't the only benefit, as Lily found her spells were strangely more effective in other weird ways. For example, one of the bursts ended up hitting two additional monsters that had, for some inexplicable reason, dodged towards her intended target.
+
+How unlucky was Arakil that he called this spell useless? Surely it's not supposed to be this good, right?
+
+Lily wanted to ask him about it, but she didn't because she was concerned it would further damage his spirit. She'd already predicted he'd taken a mental toll after failing to produce a single star when he was puppeteering her body.
+
+Those thoughts were put at the back of her mind as she continued to send a barrage of spells at the monsters. Under the light of Moonlight, none of them escaped her gaze as she rained down stars upon them until there was no more.
+
+She didn't drop her guard yet, though, and began sweeping across the perimeter with the silvery beam of light, searching for any other potential threats. When her normal eyes failed to find anything, she double-checked with Magesight, but it looked like the attack against them had failed, and she breathed a sigh of relief when Arakil also confirmed that it was now safe.
+
+Lily spent the rest of her shift drawing a glyph she hoped to use for future defenses. Taking a page from Arakil, she wanted to reproduce the magical bolts he'd demonstrated in his fight against the dryad, as not only did they seem especially powerful, but also particularly subtle.
+
+Not to mention, they won't cause any forest fires.
+
+Lily had thought of using firebolts, or even fireballs, but decided against it when she thought of accidentally causing an out-of-control blaze. She was comfortable with fire when she could precisely control the distance and keep collateral damage to a minimum, but for this long-range defense on the wall, she needed to remove that restriction.
+
+Arakil was more than happy to share the components with her, once again demonstrating the newfound function of his recent repairs by having them magically manifest in the pages. To Lily's delight, she quickly recognized a few of them from the emergency talisman Arakil crafted, which she still kept safe and secure as a last resort.
+
+They had a bit of an impromptu lesson on the wall, with Arakil talking while he observed the surroundings so Lily could properly digest the information. She was delighted to hear that this glyph actually shared a lot of commonality with the shield glyph, as both were different aspects of something Arakil called Arcane Force.
+
+From Lily's understanding of his lesson, Arcane Force was almost a raw type of Mana that was refined into having a physical presence. He called it the bread and butter of magic and mentioned it was often the go-to backup for anyone when their specialty failed them.
+
+[When a pyromancer fights against a lava giant, they don't pointlessly throw fireballs at it. No, they fall back on Arcane Force!] Or so Arakil had enthusiastically described to her.
+
+The lesson, unfortunately, had to end when Lily's shift ended, but thanks to her wand, she could bring the half-finished glyph back with her. She woke up Thomas once more and, after recounting the attack against the camp and warning him that there could be a second round, she went to her tent.
+
+Lily carefully placed the unfinished glyph in a corner of the tent and, after saying goodnight to Arakil, drifted off into slumber.
+
+***
+
+Alice sighed as she scratched her head. She had spent quite a bit of time and effort locating the perfect monsters to besiege their fort, only for them to be wiped out before even getting a chance to climb.
+
+If it had been the whole team working together, she would have felt better about it, but it had been only one of them! Sure, it was Lily, and her display had made Alice very impressed, but it had still left a sour taste in her mouth.
+
+"Maybe I should just throw them into the fort…" Alice murmured.
+
+Looking back, Alice decided to ensure the subsequent attacks occurred when Lily was asleep. She needed to test all the students, and at the moment, it seemed like Lily's Astral magic was empowered during the evenings—or at least that was what Alice was assuming.
+
+I probably should have guessed that star magic would work better at night. Or should I call it moon magic now? I don't remember her casting those two spells before, but she has been working on her bloodline in private.
+
+Unfortunately, Alice didn't have the answers, but she made a mental note of what she witnessed. She wished the headmaster were awake so he couldn't observe tonight through one of his floating eyeballs, but the fuzzball said he needed his beauty sleep and had long since gone to bed.
+
+Lily's magic seemed to get stranger and stranger, so all she could do was try her best to recount it to Fabrelis and hope he had some inkling of an idea of what was going on.
+
+"Regardless, it's looking more and more like nobody is going to back down in this competition," Alice sighed. "I'll have to somehow get them to agree to a truce and surrender at the same time."

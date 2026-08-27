@@ -1,0 +1,193 @@
+---
+id: e6561bc1-c31a-52cb-a180-82de6069280d
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 25 - Interlude – Clover – Paw by Paw"
+slug: 0082-book-5-chapter-25-interlude-clover-paw-by-paw
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 82
+ownLength: 3298
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3596066/book-5-chapter-25-interlude-clover-paw-by-paw"
+royalRoadId: "3596066"
+---
+
+There was a lot to learn about the world, but Clover had figured out one great truth long ago: being a bunny was hard.
+
+Sometimes, it felt like she was faced with a new limitation almost every day. People ignored her or assumed she was just… another animal. No one seemed to have the same rhythm of sleep as she did, which often left her alone. But the most frustrating limitations were, of course, physical.
+
+Writing had stymied her entirely. Neither quill nor crystalline pen was meant to be held in a rabbit’s mouth, and no matter how much dexterity she gained, trying to grip either between the claws of her paw was a losing gambit. Her attempts often left her covered with (or tasting—yuck) ink without a single coherent character.
+
+Doors required an embarrassing amount of clumsy effort when they lacked the enchantments to open automatically. She often found herself burning her limited teleports just to bypass them when she was confident that nothing would make itself an obstacle.
+
+Even worse, no one took her seriously as a student of Biomancy. Not Teacher, not First nor Second, and not a single one of her peers. She was a ‘class pet,’ and some of her would-be peers still joked about using her for experiments.
+
+But… they were right.
+
+She could make excuses. Like, there had to be an easier way to learn to read than jumping between books intended for young minds and the ever-expanding Medical Manuscripts. She was an adult by the standards of her own species, but less than a child by the standards of elves. And, at least sometimes, it was hard to argue with the elven perspective.
+
+But excuses wouldn’t fix any of her problems. They were kind of useless like that.
+
+There was so much to learn. So much to accomplish. She was so far behind her peers in so many ways.
+
+The great thing about the Heart of Arts and Learning was that every single door inside of it opened both ways by pushing. That meant that even Clover could open its doors without incident or undue awkwardness. As usual, she raised herself up and pushed her way through the door—quite early—and hopped her way into the learning room that Teacher used.
+
+Early or not, Teacher was already there. He stood with First and Second in their little privacy corner. As always, the three glanced at her, then went back to talking.
+
+“Are you sure there’ll be anyone that meets your standards that soon? Two weeks seems a bit… soon.” First asked. She had altered herself again with Biomancy. Her height had been reduced by about a broadleaf’s worth, and the whites of her eyes had become a vivid pink. Weird.
+
+“My standards? No. But this examination will not be so rigorous, it merely will separate those who have taken a basic Biomancy class and can follow instructions from those that have not and will not do so.” Teacher gave his response.
+
+And that was the reason that Clover liked to come in early. She needed every advantage she could get and as much as she hated the fact that everyone ignored her, advance warning about things she needed to know and prepare for helped her keep up. She plainly could hear as well as any elf—possibly even better—and whatever privacy magic was there still let their voices out of the top. She could hear them planning just fine.
+
+“What about our mascot?” Second asked. He had yet to alter himself again—not since he tripped over his own bird feet a few weeks ago.
+
+Silly, birds weren’t meant for walking. That was why they had wings!
+
+“The animal served its role well in attracting students, but the time has come to focus exclusively on the students that show some degree of promise. Besides, once it fails the examination, I can use the opportunity to meet with the human woman properly.” Teacher’s words were difficult to hear.
+
+So even he doubted her…
+
+Clover fought against the instinct to stamp her displeasure and managed to keep herself still. That ear twitch didn’t count.
+
+Well, she had two weeks to ready herself for… whatever the test would be. Frustratingly, they never discussed the contents of the test, but given that Teacher had mentioned that it would remove those that hadn’t taken a basic Biomancy class… Well, even without holding a quill, she could still draw a conclusion.
+
+The day was beautiful and the sun was bright. The lecture had concluded and Clover’s heart yearned to frolic and feast in one of the parks. It was hard to resist the urge to live a life full of exclamation marks! She wanted to play; she wanted to jump and thump and be energetic.
+
+But she was a scholar, which meant she needed to schol. And the noble pursuit of the schol demanded that she needed to hop—very normally—her wondrously fluffy tail back home so she could study and think. She couldn’t be like the other idle elves that just lived their lives.
+
+She had made her choice.
+
+Her human wasn’t the idle, playful sort. Sure, Ranthia played—or at least she used to, before she got very sad. But she was also fighting very hard more often than not. Even back then, Clover knew she was tying herself to someone that fought and survived. Someone that knew death, just like she did.
+
+No matter how many seasons passed, Clover could still close her eyes and smell her siblings’ lifeblood. She could still remember her mother—so big and strong—running away, leaving them to die. The wolf with its hundred stale wounds. Proof that scary things weren’t always secretly fun, like puddles or the deer that had visited scant days before.
+
+Death.
+
+To many, death was an aberration, something that happened to other people in other places. But Clover knew the truth: death was an inevitability. The only questions were when it came and for whom it came. Ranthia knew that same truth and had reached the same answer:
+
+Those who carry death to them must be made to embrace it. Ranthia’s knives did what Clover’s clumsy kick—delivered to what she had since learned was a broken spear lodged in the wolf’s skull—had accomplished. They delivered death to that which needed to die.
+
+Black Crow wasn’t death. Black Crow was what came after death. Ranthia was death. Clover too, though she could hardly claim to be proficient. She could never hope to dance like Ranthia. She had tried to match Ranthia once—that kick had broken her leg and nearly brought death back unto her. Unacceptable.
+
+She needed a better way. And she had chosen Biomancy. From the outset, it had appealed to her. It represented a way to attain everything she wanted… without changing the core of what she was. She was fluffy. She was adorable. And she was death.
+
+Biomancy could… no, no quitter thoughts! Biomancy would give her the means to not only catch back up with Ranthia, but to keep up with her.
+
+Forever.
+
+With burning determination, Clover dove back into her reading like a bunny with a cause. Which she was. That was why it was like that.
+
+She couldn’t take notes, but [No Forgets!] helped with that. Dubious grammar aside (she was still young when she took it!), the Skill was one of Clover’s favorites. …Well, top ten, at least. She made her notes in her mind. Or her Skill, maybe? She had no idea, but however it worked, she had her notes even without a quill.
+
+She was a Biomancer. It didn’t matter if Teacher believed it or not… Okay, it did. But she was still an official Biomancer.
+
+The System itself said so. Her guide had led her to the sidegrade when her second class hit level 256. It had been costly. Sound was her only valid option, and Sound wasn’t related to Dark—the difference in both class type and element had pushed her quality back down to red. But it was a Biomancy class. Albeit a limited one.
+
+Her true Biomancy would come with Teacher’s approval. He had warned them to never take a Forest-type Biomancy class without his explicit permission. Forest was true Biomancy, with no limitations—and no restrictions. It was dangerous and infinitely more complex than the simple things her Sound class could accomplish. Yet the promise of its power, once she was ready to harness it, was why she kept her third class ready. It remained at the first class up, no matter how many times her human tried to argue with her or force her to progress.
+
+But she wasn’t ready. She was too clumsy and understood too little. Just the day before, she had injured herself with her Sound class. Forming a human hand attached to her body? Easy, simple. Except it was nothing more than an inert growth. Grafting it to her spine and tethering it to her existing nerves had been far too ambitious—all she accomplished was pinching the nerves between her vertebrae. It’d been trivial to undo, but her body had continued to warn her not to do that again for far longer than she would have liked.
+
+At least Ranthia wasn’t home. The human always reacted poorly when Clover was screaming. Honestly, she acted as if she never broke down and cried for a while.
+
+Clover scratched at her head to clear the unwanted thoughts out of it before she carefully worked to turn the page. She had no idea what the test would demand of her, but she was determined to have both the knowledge and the Skills required to pass it.
+
+She just had to succeed.
+
+The official notice for the test came at the end of one lecture, with the test to occur at the beginning of the next. A bit less than two days of warning.
+
+Clover wasn’t confident that she could have succeeded had she lacked the early start. But she had already prepared herself, and the exact details of the test simply narrowed where she needed to apply her final preparations. She needed to demonstrate a practical Biomancy modification that gave her something she lacked, without dramatically altering the overall structure of her body, affecting her nerves in any way, unduly increasing the demands on her body, or causing any side-effects.
+
+That was… easier than she had feared. Xaoc willing.
+
+While Clover waited in line, she communed with Xaoc. She had never felt particularly religious, but it was impossible to exist around Ranthia without being infected by a shard of her own piety. And communing with Xaoc was… well, it helped with her nerves. It was hard to describe to anyone else just what they did—neither of them used words, but there was still a connection. It was more like they shared… the intentions behind words directly with one another?
+
+Also, Xaoc was funny. Most human and elf humor did nothing for her, but Xaoc had her ears twitching every single time!
+
+Teacher gave nothing away to any of the hopeful students he assessed. He simply examined their modifications to their own body, then had them move on to their seats. As such, the line progressed at a brisk pace.
+
+Too brisk, Clover hardly felt ready by the time she hopped in front of Teacher. She still opened her mouth as wide as she could.
+
+The man nodded automatically, but Clover didn’t miss the truth. His eyes widened just a bit further with his second glance. At that point his gaze lingered. After all, she had replaced her usual adorable bunny teeth with feline teeth. Teeth suitable for consuming a tasty porkchop!
+
+For the first time, Teacher truly looked her way.
+
+It was impossible to keep her tail down when she hopped her way back to her chair.
+
+Contrary to Clover’s hopes and dreams, she and the remaining students weren’t granted permission to take a Forest-type Biomancy class after the exam. They weren’t ready—yet. The qualifier was new. And new was promising.
+
+With hope in her heart, Clover began to set aside time for her grandest ambition. Build a Better Bunny with Biomancy! Like the name, there were four pillars to her plans. First, she wanted to improve her brain… somehow, she was still fuzzy on those details. Second, she wanted to improve her digestive organs—the world was full of entirely too much deliciousness to only eat a tiny bit of it. Third, she needed to make many improvements to make her body more robust as her bones and organs were unacceptably frail, especially her heart. And fourth, she hated her bulky adult dewlap that got in her way constantly—she desperately missed the cute, smaller one she had when she was younger.
+
+And once she perfected her form, the ravages of age would no longer be a concern! Her human would finally be able to relax.
+
+Not that Build a Better Bunny with Biomancy was progressing nicely. It was, just perhaps, a bit much when she’d just spent two weeks preparing herself to replace her teeth (which admittedly required her to make adjustments to her skull and jaw).
+
+Still, she had time. And every bit of progress mattered!
+
+[*ding!*]
+
+Clover was under Ranthia’s bed before she woke up enough to remember what the too loud sound meant. It was rude! She had been sound asleep, perfectly content, and she had no idea why—
+
+…Wait, was the option to change the sound always there?! Why had no one told her?! Clover was so indignant that she felt an urge to stamp her foot. Well, she was home alone, which meant that she could stamp her foot to her heart’s content!
+
+After that, she darted to a different hiding place, juuust in case. There were definitely no monsters or wolves in their home, but… Well, it was easier to be brave when Ranthia was within reach. And once she was startled, it took a bit of time to get a grip on her baser instincts.
+
+Once she calmed down, she spent some time in front of the clock in the main room. It was one of the gifts that the scarred elf with the tingly fingers had given them over the seasons and it was Clover’s favorite. The gentle, reassuring ticktock soothed her lingering nerves.
+
+In fact, she adopted the sound for her System. That was much nicer than a harsh ding!
+
+Besides, the levels meant that her human would be on her way home soon!
+
+“Clover? I’m home!”
+
+Vlip.
+
+Was the teleport necessary, strictly speaking? No. Of course not. But it was fun. She thumped into Ranthia’s chest—weirdly, not her armor—and let out a happy cluck. It was always so good to see her human, safe and sound, after one of her ‘hunts’. After she faced death anew. Sure, the fact that the Skill for their Bond remained proved that Ranthia was alive, but ‘alive’ and ‘safe’ weren’t the same thing!
+
+“I’m glad to see you too, sweetling. …Issues with the bear aside, the rewards were nice. I got [Reflections of Reality] up to 575, [True Grace] up to 579, and [Adamantium Will] up to 221. At this rate I don’t expect them to catch up to my class levels by the time we class up again, but they’ll be much higher than they would have been had we never met. And that should help my class qualities.” Ranthia stroked her chin and cheek just right.
+
+Honestly, her human had such weird Skill names. They were a far cry from the simple majesty of her own Skills. [Blinkies!], [Change!], and [Wise Ears!] were much, much better than [Reflections of Reality]. Like, what did that even mean?
+
+“Meanwhile you are finally level 568. You’re lucky that my classes love going after new and different challenges… like a proper Adventurer should.” Ranthia put a playful lilt on the last bit as she set Clover back down, before she walked into the kitchen.
+
+That gift from the scarred elf Clover disliked. There was only one reason Ranthia ever used the accursed thing—company. Things would be noisy and unpleasant, once again. It was bad enough when her human used to bring elves of the same biological sex over to engage in false mating behavior for whatever reason (sure, sure, books claimed that it was pleasurable, but could there truly be any pleasure in life that came close to the bliss that was a safe, sun-filled park full of tasty plants?). But she hadn’t done that since the long sad.
+
+Instead, it meant that her fellow Hunters would be over. Anthelleon was fine enough, but the new guy was very loud. His bond was even worse—the monstrous female was just plain mean!
+
+Clover growled at the oversized griffon before she hopped further away from the mean, nasty thing. The first time they had met, she caught the scent of rabbit blood from the horrible lady’s cruel beak. Thus, there was never any hope for peace between them.
+
+Clover liked living and the giant winged monster liked eating. They were from different worlds!
+
+Worse, everyone carried on and on about how ‘smart’ the stupid griffin was. Clover doubted that the bully even knew how to read the basic little kid books, let alone masterpieces of scholarly wisdom like the Medical Manuscripts!
+
+“I’m just glad Solareon is okay. I know there was no blood in the air, but that bear hit hard.” Ranthia was outright ignoring Clover’s struggles, instead she was focused on being charming to their guests.
+
+“She’s a tough girl, isn’t that right Sol?” The loud man asked loudly.
+
+The griffin screeched in answer and Clover found herself tempted to use Biomancy to make her ears stop working for a few hours. She could do it. Probably. It seemed possible, even with her limited Sound-type class.
+
+Too bad she lacked the mana and magic power to Biomancy the griffin. Wait, no! That was a bad thought. She needed to be a good girl. Not that she was allowed to have any of Ranthia’s cooking—her human ‘lacked the Skills’ to make it safe for her. But the jar of treats was there on the counter, tempting Clover to not cause problems.
+
+The current treats were made with bananas. They were so, so good.
+
+“How long will it take for her feathers to grow back so she can fly again?” Anthelleon asked.
+
+“Eh, shouldn’t take more than a few days. I’ll keep singing to her to help them regrow a bit faster.” Yet another too-loud response.
+
+Clover hadn’t even noticed the griffin was missing some feathers. She still seemed to have plenty, but not being able to fly sounded… sad. It would be like not being able to hop!
+
+Clover was moody about having her quiet night ruined. But… she supposed she could try to be nice to the griffin.
+
+“Oh, the wine cask is empty! I’ll be right back; I’ve got another in storage.” Ranthia stood up from the table and pranced her way out of the room.
+
+“Er, is she going to be alright? It’ll get awkward if she starts weeping again.” The loud elf failed miserably at being quiet enough.
+
+“That was that damned dangerous brew the Lodge’s owner gave me! I never get that drunk, nor am I a sad drunk!” Ranthia retorted from across their home, clearly annoyed.
+
+Silly elves, why did they persist in underestimating bunny hearing? It just made sense that Clover’s human had good ears! They were Bonded!
+
+About that moment, the griffin leaned down and gently brushed her beak through Clover’s fur. It was sweet, it was a feather-light (sorry!) touch, and it was plainly meant as a display of affection.
+
+Clover still bristled and left the room at top speed.
+
+Instincts were her rudest enemy.

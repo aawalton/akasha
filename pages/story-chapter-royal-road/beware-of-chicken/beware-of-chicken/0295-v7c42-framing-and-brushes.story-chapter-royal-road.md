@@ -1,0 +1,177 @@
+---
+id: 01123069-bee9-519c-9dd0-586d8ac46011
+page-type-slug: story-chapter-royal-road
+title: "v7c42: Framing and Brushes"
+slug: 0295-v7c42-framing-and-brushes
+partOf: beware-of-chicken
+position: 295
+ownLength: 2371
+unit: words
+publishedAt: 2026-03-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3205672/v7c42-framing-and-brushes"
+royalRoadId: "3205672"
+---
+
+The welcome of Master Rou, his wife, and his servants had gone well so far for the Framed Sun Sect, Yang observed. The atmosphere had relaxed upon seeing the man’s genial attitude, and the powerful cultivator had indulged Yang in allowing a recording.
+
+He had a small smile on his face; the kind that people got when watching those younger than them. It would have been a terribly insulting and condescending expression coming from anybody else, but Master Rou was a Spiritual Herb Master of the Cloudy Sword Sect—that he regarded them like youngsters to be indulged was actually a good outcome.
+
+A man did not look upon children with that expression if he intended to destroy them.
+
+It fit with all that was known about him. Benevolent, yet uninterested in having their submission. A massive existence, who allowed them to chart their own path.
+
+And though the Framed Sun were firmly the junior partner, Master Rou and his wife actually complimented them and looked like they meant it as an honour.
+
+So things were indeed going well. Their guests of honour were brought to the main pavilion, the one with the best view of the Peaks.
+
+“It is so very beautiful. I heard tales, and I saw Yun Ren’s images, but to see it for myself…?” Lady Meiling said with a sigh, her eyes set upon the sight of the Dueling Peaks. The sun was approaching its most spectacular view from the main pavilion, just before it was eclipsed by the gong, the Thunder of the Earth.
+
+“The world is dyed in hues of gold and pink, the mountains frame our goal. Ten thousand Li away, yet for a moment, it looks like just a stroll,” Yang quoted, one of their ancestor’s poems rolling off his lips.
+
+At first they had thought the meaning was simply on the matter of cultivation. And yet… Yang was now sure that it was less about cultivation, and more about what the Dueling Peaks represented.
+
+Yang’s father stiffened slightly at Yang interrupting the powerful cultivator’s admiration of the view. Both Master Rou and Lady Meiling smiled, however, not minding in the least. “Ah, that one is quite lovely,” she said, and Yang bowed his head at the praise. His father went from nervous at the interruption to beaming with pride at the compliment.
+
+“Please, be seated, Master Rou, and partake of our Sect’s hospitality,” Chen Tai said, sweeping his arm out. Servants marched in from the sides, carrying platters full of the finest foods they knew how to make. Dishes that were only eaten on the most special occasions were in abundance—tea-smoked duck, honey-glazed goose, fivespice peacock, and even a whole braised ripperbeak. The giant bird, bigger than a man, had been stuffed with lemons, herbs, and spices; under the skin had been packed with butter, following an ancient recipe.
+
+And those were just the birds. The whole bounty of the Grass Sea graced their plates.
+
+There were bison ribs, smoked and served with a sauce of wild berries, their steaks cooked on hot rocks, and their loins, along with onion and cabbage, filled bao.
+
+Deer shanks, roasted, baked, and every other preparation; five treasures rice with nuts and bamboo, peas, squashes, fruits, whole steamed riverfish with ginger and wine, and, their specialty, sweets made out of the seeds of sunflowers; just to the south, they were famous for the massive fields of them, where they used the oil for frying in addition to eating the seeds.
+
+It was a massive feast, one that made the tables groan under its weight. Wa Shi was staring at the spread with delight.
+
+“Thank you for the warm welcome, Sect Master Chen Tai. And my apologies to your chefs; it was rather short notice.” The words would be unthinkable from many other cultivators. It was the servant’s job to toil… and yet as Yang had witnessed, Master Rou had always been concerned with the mortals’ wellbeing.
+
+Something Yang was striving to emulate ever since the Dueling Peaks Incident. There was something nice about being looked on so favourably, and having the mortals greet him in the street. There were even a few who would crack jokes around him, or ask him for pointers in their own writing. Why, there was one man who found Yang’s characters so beautiful he had learned to read and write just so he could appreciate them better!
+
+“Thank you for your hard work,” Lady Meiling said, flashing a smile to the shocked-looking servants. The head servant, Rui, stepped forward and bowed low.
+
+“It is our pleasure to serve Master Rou and Lady Meiling. We only pray that our work is up to your satisfaction,” he said.
+
+Both of them nodded, pleased by the answer, and then took their seats. “I’m sure it will be. It all smells delicious,” Lady Meiling replied, and all the servants puffed up, smiling.
+
+“Then my family’s seventy-six generations of service will have paid off; I can look upon my ancestors with pride,” Rui said.
+
+It had probably been longer than that. Yang remembered seeing a man who had a resemblance to Rui serving their own honoured ancestor.
+
+Indeed, it was a point of pride for them as well. That an unbroken line still served their family? Despite everything, they had at least been passable stewards of their ancestor’s holdings.
+
+And so they feasted. The conversation was light, and was kept mostly on their side, giving them opportunities to speak about their Sect’s architecture, their holdings, and the industry of the nearby mortals. It was all rather mundane, but Master Rou took obvious and genuine interest in it.
+
+And then the discussion turned to calligraphy—which is when the conversation really started to flow. They discussed the different lengths of brush hair, ink consistency, paper quality… the servants were even asked to bring out some of their most treasured pieces, which the party reviewed as the sun set in the background.
+
+To the shock of Father and the rest of his sectmates, even the ox joined in; Bei Be was his name, and his calm, deceptively quiet voice reached them all.
+
+It was a bit strange talking to an ox, but Yang had been talking to monkeys for a while already—and it helped that the ox’s eye was quite refined. The servant with salt and pepper hair who looked like some sort of noble joined in as well.
+
+“Oh, that one is fantastic. It's the poem you recited earlier, but the way the artist made it look like the Peaks themselves, with the sun in between? Absolutely stunning,” Master Rou declared.
+
+Father looked at the Elders who, as one, nodded. It was a beautiful piece, yes… but now they had something they knew Master Rou would like.
+
+Slowly, the feast wound down. The sun disappeared behind the Thunder of the Earth.
+
+It burned and shimmered, the light shining through the characters carved into the gong… and then, the striker reared back.
+
+It had cost Father quite a bit to have this bit of theater arranged.
+
+The Thunder of the Earth rang out. The single deep resonant note reached them, pure and clear. It was no shocking roar, but something surprisingly gentle, that resonated and reverberated with a kind of serenity that was astonishing for something so large.
+
+The smell of good food. The warm summer breeze, the perfect temperature as night slowly came upon them. The resonant note.
+
+It truly was a beautiful moment.
+
+Master Rou’s smile widened. Lady Meiling’s eyes sparkled. The servants gasped, looks of wonder forming on their faces.
+
+“Wonderful,” Master Rou declared. “What a lovely evening.”
+
+“Your praise honours us, Master Rou,” Yang’s father said. “We are most pleased that we were able to offer you anything; and now we offer you these. They are but small tokens, humble things compared to your might, but we hope that they are in any way pleasing to you.”
+
+The servants brought out their finest paper, made from the trees to the south, and ink of the highest quality they had; both gifts got nods of appreciation from both Master Rou and Lady Meiling. Tigu and Gou Ren said they liked to cook, and so a large scroll of their servants' recipes were provided. There was a small calligraphy set for when Young Master Zhuye would be old enough to use it… though he would probably have something superior from Master Rou’s own hands.
+
+It was a bit galling that the most they could offer were mortal, mundane things. But at least they had one final gift: the calligraphy Master Rou had enjoyed. The man’s eyes widened at the last piece.
+
+“Truly?” he asked. “I would not wish to deprive your sect of this masterpiece.”
+
+“The fact that you see its worth and recognise it is enough to know that you should have it,” Chen Tai said. “Please, we are proud that it should go to the man who defended the Azure Hills from demonic incursion.”
+
+“Thank you. I shall hang this upon the wall of my library. Or perhaps in the sitting room,” Master Rou replied, his eyes tracing the curve of the characters.
+
+He liked it enough that he wanted to look at it every day.
+
+Their Sect was going to be bragging about this for years.
+
+Of course, they were not the only ones to give gifts.
+
+Master Rou seemed quite determined to repay them for the piece of calligraphy.
+
+There were bales of Gold Grade rice. Jugs of maple syrup. Produce that was so full of Qi it made Yang salivate even though he was stuffed from the feast.
+
+And then, there came the true prizes.
+
+Spiritual Herbs. From a Spiritual Herb Master.
+
+Volcano Ginseng. Fire and Yang aspected, and a treasure for their cultivation. That alone would have been more than they could ever hope for.
+
+But he also pulled out something they had coveted since they had found out about it.
+
+“Obsidian Inkroot?!” Yang’s father exclaimed.
+
+It produced some of the highest grade ink in the Empire. Out here? It would be so expensive that they would have to sell their manor.
+
+“Yes, and I do still owe you,” Master Rou said. “A piece for a piece. It seems fair. My Seniors all quite enjoyed this one...”
+
+And that was how Yang’s entire Sect ended up doing spontaneous calligraphy with Master Rou and his servants.
+
+They took turns making pieces, and then presented them to the Sect.
+
+Master Rou’s bold characters, and Lady Meiling’s blocky, scribe-like script. His mortal servant’s elegant flourish, and Bei Be’s slashes and drawing, which then took a turn to all of them trying their hand at the style. Traditionally, the characters themselves were the art—yet adding pictures was also very interesting.
+
+Their sect responded in kind with poetry and drawings of their own. Yang managed a single splash of golden ink, a single Qi-infused swipe… but it stayed on the page, shimmering beautifully.
+
+Master Rou was their guest; and yet he drew them all in. He made them comfortable. By the end of the night, they were all like old friends.
+
+==========================
+
+We only stayed one night in the Framed Sun Sect and left in the morning… though not alone. The Framed Sun Sect would be following a respectful distance behind as we headed to the Dueling Peaks.
+
+“It’s a lot different from Delun’s home, isn't it?” Meimei asked.
+
+“It is,” I replied. The Ironfields had been an almost alien landscape—harsh and unforgiving. The people there had survived the best they could in a place that was poor in everything except metal.
+
+The Framed Sun Sect was more like what I would expect from a cultivator’s home. It was a place of plenty. A palace of grand feasts with well-formed produce and enough meat to satiate anybody.
+
+It was grand. Nearly ostentatious… and yet it wasn’t obnoxious. Maybe it was just rose-tinted glasses, but I had thoroughly enjoyed the night—talking calligraphy and just hanging out had honestly been really fun. And the Dueling Peaks? Spectacular view.
+
+I honestly felt a bit bad. They had gone all out, and even given me a wonderful piece of calligraphy. And all I had for them were things I had in abundance… and a flower Gramps had given me so I could make more ink for us.
+
+I just hope the calligraphy I had given them was thoughtful enough…
+
+‘I enjoyed it,’ Babe declared. ‘It was fun. Their pursuit of the characters is interesting,’ I smiled at his words. It was good he was making friends.
+
+“Well, I’m sure they would welcome you back. What about you, Washy? …Washy?” I turned when he didn't answer.
+
+The fish was nose deep in the scroll of recipes, whiskers quivering, his eyes practically bloodshot as he devoured the contents.
+
+Everyone in the carriage laughed at the sight.
+
+“It was… an experience. A good one,” Teacher said quietly. “I never imagined that I would be among cultivators discussing calligraphy, but it was a good night.”
+
+Lady Wu, the fox girls, and Bane all nodded in response.
+
+Well, Bane kind of just wiggled happily at me. But it still counted!
+
+‘...I think Xan would have liked them,’ Tianlan whispered. ‘But! They’re much too reserved still! Where were the stupid poems? I was looking forward to seeing how his fart jokes had progressed over the years, but they didn’t bust out a single one.  My favorite was The Wind Blows! ‘I have two mouths and two voices, one speaks willingly, the other without my consent…’’
+
+I shook my head at her recitation of an incredibly crude poem and leaned out the window. The Peaks were getting closer with each step.
+
+“So… you think Xiulan has any welcome laid out for us?” I asked.
+
+“I hope it's short. Zhuye and I are deficient in Xiulan hugs; this must be rectified,” Meimei declared, bouncing Zhuye up and down. “Hear that, Xiaode? Auntie Lanlan is nearby!”
+
+“Lala?” he asked. “Aun’ Lala?”
+
+Meiling beamed. I ruffled his hair. Xiulan was going to be over the moon that he was learning her name.
+
+And for me… It was time to see exactly how much had changed since I had been here last.

@@ -1,0 +1,149 @@
+---
+id: a7f4a050-9752-5740-b4de-55c0c4a5f9ed
+page-type-slug: story-chapter-royal-road
+title: "v5c70: The Torch Bearers"
+slug: 0180-v5c70-the-torch-bearers
+partOf: beware-of-chicken
+position: 180
+ownLength: 2050
+unit: words
+ownProgress: 2050
+publishedAt: 2024-11-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1929750/v5c70-the-torch-bearers"
+royalRoadId: "1929750"
+markedReadAt: "2026-06-29T18:57:29.482Z"
+---
+
+Zang Shenhe sat atop the fortress of Fa Ram in the early morning sun, deep in meditation. Her foundation was slowly stabilizing as she internalized the revelations she had received about the past of her Sect and set upon a new path. It would be a slow process to rebuild herself and her cultivation… but rebuild it she would.
+
+It was fortunate that Master Rou had given them a week—for his hospitality was unparalleled. Everyone was recovering at a swift rate, thanks to the gifts he had lavished upon them. Gold Grade Rice and some unknown type of pickle saturated with Qi made the task much easier than it should have been.
+
+Today she spent her time contemplating the knowledge she had gained during the meeting between Shen Yu, the Cloudy Sword Sect, the Soaring Heaven’s Isle Sect, and the Imperial Herald.
+
+The meeting had been trying. It had taken all her power to appear unmoved by the weight of the elder cultivators’ gazes… yet all her might was only equal to a mortal and a man barely into his twenties. It had been quite a shock to learn just how old “Master Rou” truly was. Some part of her wanted to be angry that one so young had had the gall to command them.
+
+Yet in the end, did it really change anything? His cultivation was superior to hers, and he was only mildly injured from a battle that would have killed her. He had earned the right to command them. He was no old monster. He was a young man on a meteoric rise—so meteoric he had left the Cloudy Sword Sect yet they maintained good relations with him. It was obvious why, and it was not because Elder Shou, a master of Spiritual Herb cultivation, wished to trade notes and pointers with him.
+
+With such a monster as his grandfather, was there any question?
+
+He still had the might to enforce his commandments if they had decided to test him. He was affiliated with the Cloudy Sword Sect… and everything they had done because of that misunderstanding had been their best course of action.
+
+Zang Shenhe opened her eyes and glanced down at the item she held within her hand, the boon she had gotten for being a part of that meeting and for her actions against their enemies. She had not been found wanting.
+
+“Zang Shenhe, by your actions you have done a service to our Empire,” the Imperial Herald had declared before he left upon Lady Minyan’s ship. “This humble servant of His Imperial Majesty also knows that your sect has fallen upon hard times—so We shall grant unto you this.”
+
+“This pendant signifies His Majesty's favour. Time is the most valuable thing We can grant you—time where those that are your foes will hesitate from striking you. The provincials know that their antics are tolerated because Our eyes are elsewhere. With this, all shall know Our eyes are upon you. The Shrouded Mountain Sect, for its all faults, has in the past discharged its duties without fail. Our subjects were safe. Our armies unmolested. Our trade, prosperous. And so We were content with your sect’s stewardship. Now, We give you an opportunity to continue this stewardship. But Zang Shenhe, know this well. Should your righteousness waver, should We find you wanting…. Our gaze will turn elsewhere.”
+
+The implied threat made her swallow.
+
+“I shall not fail His Imperial Majesty,” Shenhe had replied, her bow near to kowtowing.
+
+“Another servant of the Empire shall arrive at your sect once Our business is done, bearing rewards for meritorious deeds. See that you are ready to receive them.”
+
+With that, the masked man had gone, leaving only the pendant as a trace of his passing.
+
+Shenhe stared at it.
+
+“Quite a heavy burden that is,” a voice said from her shoulder. Nezan was sitting there, the fox casually licking his paw. He was doing that more and more lately, perching upon her shoulder. Shenhe didn’t entirely mind it. His fur was soft against her cheek, and his presence was oddly comforting.
+
+“From the precipice of the abyss, salvation,” Shenhe replied, before sighing. “If there's still anything left of the Sect to save.”
+
+Nezan raised an eyebrow at her words, before he licked the side of her face. “Resolve, young one. Resolve.”
+
+Shenhe grimaced at the words. The weight upon her shoulders was great, nearly crushing, but it was something she had to endure. For herself. For her family.
+
+And for her disciples.
+
+Those that had chosen to follow her.
+
+Shenhe rose to her feet and looked out over the courtyard, where the disciples were beginning to train and meditate again.
+
+There, her eyes locked on two disciples in particular. Yesterday, Yingwen and Fenxian had stayed in Master Rou’s home. She had approached them to see where their hearts lay.
+
+“What do you need of us, Elder Shenhe?” Yingwen had replied, sinking down to one knee.
+
+Fenxian had just looked confused. “When did we ever leave?” the other man had asked.
+
+Shenhe was ever grateful for their loyalty.
+
+Shenhe took a breath and straightened her back, casting aside the doubts. “Yes, you are right. Acting like that is unbecoming, especially when there are still disciples who are counting on me.”
+
+“Indeed,” Nezan said. “Not a bad bunch. But Shenhe, I do not come for just a social call—Cai Xiulan, Grand Marshal of the Azure Hills, has invited you to tea.”
+
+Shenhe nodded. She had asked the other woman for a meeting after she had found out about her position—the leader of an alliance of sects that spanned the entire Azure Hills.
+
+Many would have laughed at the thought. A nobody, from the Azure Hills no less, giving her advice?
+
+Yet Master Rou had recommended her, so only a fool would dismiss the woman.
+
+“Thank you, Nezan,” Shenhe replied. She girded herself for the coming battle the best she could. This was the realm of politics, and their war would be with words. Such a powerful woman would surely exact a toll for her advice.
+
+Shenhe set out to Master Rou’s house, where she was greeted by Pi Pa, the woman bowing politely and directing Shenhe to a well-lit sitting room.
+
+“Zang Shenhe greets the Grand Marshal,” Shenhe intoned when she entered, clasping her hands and bowing politely. The other woman returned the formal greeting, clasping her hands in the gesture of respect.
+
+Cai Xiulan was one of, if not the most beautiful woman Shenhe had ever met in her life. Both of them had blue eyes, but Cai Xiulan’s seemed brighter, more captivating; her features refined and delicate. Her bearing was immaculate. Elegant. Graceful, yet beneath the porcelain beauty Shenhe could feel the other woman’s force of will and intent. The woman had punched up from the Spiritual Realm into the Earth Realm with her techniques, defeating a cultivator that should have crushed her. Any who could do that should never be underestimated.
+
+“Good morning, Zang Shenhe. Please, sit and make yourself comfortable. And… there is no need for the formalities. Just Xiulan is acceptable.”
+
+Shenhe nodded, walking to the other side of the table to sit across from the other woman. “Then you may address me as Shenhe.”
+
+When both of them were seated, and Cai Xiulan had poured the tea, Shenhe opened her mouth to ask for her assistance, but Cai Xiulan beat her to it.
+
+“I know why you wished to speak to me, Shenhe. While I do have the honour of being called ‘Grand Marshal’, I am no expert at unifying disparate people. All I have are my own experiences leading an alliance still new. If my insight into this matter can help you, then please, ask any question you wish and I will do my best to answer.”
+
+Shenhe paused at the frankness in Xiulan’s tone and the utter lack of conditions. She looked into the Grand Marshal’s eyes… and immediately had to reassess her initial plan.
+
+Cai Xiulan was utterly and genuinely trying to help her. There was nothing hidden there. There was no agenda.
+
+Shenhe had to clear her throat before asking the main question on her mind.
+
+“How did you unite them, in the end?”
+
+“Well, having the ancient past of the sects revealed to them certainly did help,” Xiulan said, with a slightly whimsical smile. “Following in the footsteps of your righteous ancestors and being able to truly walk their path helps… but the biggest thing is they have to want it.”
+
+“That simple? I wish for unification, and that is the biggest thing?” Shenhe asked, her eyebrow raised.
+
+Xiulan shook her head. “No. Not you. Not the Elders. Not the leaders. The next generation. You have to give them a vision. A vision of the future. A future that they themselves can help you build, a future where they have a stake. Where they can see themselves rise, where they see themselves succeed. The fires of youth are passion and enthusiasm—an indomitable will and drive to succeed, yet untainted by the experiences of age.” Xiulan paused, before she took a breath, her eyes growing distant. “We shall honour the past, and nurture and protect the future—not merely of our own kin, but all who live in these Hills. We seek not glory, or to advance our station above all others—only to put into practise those ideals that we know to be true.”
+
+Shenhe’s eyes widened at the oath she spoke, and of the surety in her voice.
+
+“Tell me, Zang Shenhe. What is your vision of the future?” Cai Xiulan asked, her intent and Qi around her like the panoply of an empress.
+
+Shenhe considered her words. A good sect. A righteous sect.
+
+“Strength above all, to protect that which we love,” Zang Shenhe stated firmly.
+
+The Lightning Brigade reborn.
+
+Cai Xiulan smiled and took a sip of her tea.
+
+“Now, how do you plan on achieving your goals and how might I aid you?” the Grand Marshal inquired.
+
+They ended up conversing for several hours. They spoke of Shenhe’s tentative plans, they spoke of Cai Xiulan’s own challenges—the constant butting heads, the old grievances, and how she worked to solve them—if she could solve them at all. Oftentimes, it was a compromise.
+
+Xiulan’s method was not the iron fist, instead it was deceptively soft and gentle. Some things Shenhe thought would work—others would not work within the Howling Fang Mountains. What began as asking questions turned into a spirited debate—and then into commiserating about paperwork.
+
+There was always so much paperwork.
+
+============================
+
+It was mid-day when Shenhe left, feeling much better than when she had entered. Their talk had… it had helped. Cai Xiulan had given Shenhe much to think upon… and if Shenhe dared to think it… something of a friend.
+
+Light a fire in their hearts.
+
+Her eyes turned to the window, where beyond she watched three figures. Her eyes often found them, these uncut diamonds, as they trained and played Ha Qi.
+
+Che Han was busy, crafting a formation to empower needles for Lady Meiling. His skills were undeniable. He was currently grinning enthusiastically about something and waving his hands around. Her heart ached at what his loyal clan had gone through.
+
+Once-Outrider Shao Heng was nearby, doing some kind of exercises with a smile on his face. He would occasionally answer a question, or let out a small chuckle as Han gesticulated. An old soldier who had served loyally for decades.
+
+And the last, the one who had the least reason to return to the Sect, Liao Yushang. She was practising again with her blade. Her movements were beautiful. She had so much raw talent. But more than that… Shenhe saw her smile. It was bright and wide, a thing of unbound joy.
+
+It was the exact same smile Zang Yong had once borne onto the worst of battlefields.
+
+The Sect had used and abused them—but… who better than to help guide the Sect on the correct path?
+
+Who better than to ask for help in crafting the future? If she could reach them, if she could give them something to believe in… maybe she could give it to the most jaded and broken of their Sect?
+
+Who better to be the spark?

@@ -1,0 +1,115 @@
+---
+id: d52cb9c6-3782-51d3-b496-320bda359106
+page-type-slug: story-chapter-royal-road
+title: "v4c10 Boundaries"
+slug: 0016-v4c10-boundaries
+partOf: beware-of-chicken
+position: 16
+ownLength: 1753
+unit: words
+ownProgress: 1753
+publishedAt: 2023-05-23
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1222026/v4c10-boundaries"
+royalRoadId: "1222026"
+markedReadAt: "2026-06-29T18:51:52.127Z"
+---
+
+Vajra the Boozemaster, Queen of the Emperor’s Hives and Commander of the Prince’s Guard, was immensely satisfied with her entrance. The awe shone in the lesser guests’ eyes as her mighty host descended upon them and an Empress graced them with her presence.
+
+It did sting that she had not been assigned a proper place in the Emperor’s procession—but it was not his fault. He had commanded the servants to prepare, and they had forgotten to inform her!
+
+She had only learned that the Prince was about to receive his name when they were leaving! When Pi Pa, the fat, graceless majordomo, was making sure the rest of the servants had their gifts prepared. Vajra had nearly missed it, so out of sorts had she been from her morning bath with the Emperor.
+
+It made her want to spit blood. She had no gift for the Prince! Such a thing was absolutely unacceptable, even if she had not been informed. How could she ever dare to show her face before her Emperor again for offering him such an insult?!
+
+But when trials found Vajra, she rose to meet them head on! Her hive immediately burst into action. Her mind and Qi worked so much she felt her fortress begin to get hotter as her guards wove masterpieces. They depicted the Prince leading the warriors to glorious victory over the Black Lances which had dared try to sully his flesh with their obscene noses. They showed him at his proper place, in the Emperor’s arms, as they toiled below him.
+
+Enemies, awaiting disposal, had been swiftly butchered, and more offerings had been gathered as raiding parties pillaged the forests between the Emperor’s hive and his subordinate fortress. The Black Lances, the Giant Flesh Tearers, and the Bone Pickers of Ohn Ta Rai Oh (a most formidable name, for such small villains) were purged with extreme prejudice.
+
+Even though it was to be a rushed job, Vajra made sure everything was perfect before assembling her host. Their carapaces gleamed. Flowers, laden with nectar, were plucked and woven into a crown, their rich bounty unharvested to show the absolute wealth of their august Lord.
+
+She might, she thought, have to actually thank the pink one for not informing her. It made Vajra’s entrance all the more glorious. All the servants’ eyes turned to regard her in shock and awe. The Prince reached his hands out and giggled as the Bane of the Black Lances took her guard position—and then his attention fell on Vajra herself.
+
+She personally danced for him, her movements fast and sure, as she sung of his glories and his mighty name. Zhuye, the advance scouts had informed her. The rest of her host laid down the offerings to the Prince.
+
+Her appearance was sure to curry favour with the Emperor. His enemies destroyed, a golden bounty to his son’s name, and an army assembled to be commanded at his leisure!
+
+… even if they were a minor power, compared to the overwhelming might even Pi Pa could bring to bear. Still, numbers counted for something!
+
+She finished her dance and turned her eyes to her Emperor. He had a tapestry in his hand, and was showing it to the Empress. She made an approving noise, and Vajra’s hearts pumped faster.
+
+“Thank you, Vajra.” His voice was deep, and a wellspring of might. “I’m very happy that you hold us in such high regard. Your gifts are amazing.”
+
+Vajra immediately launched into the dance of supplication, her emotions nearly getting the better of her. She had the Emperor’s thanks once more! She, who held the title of Boozemaster! Would she receive another? Would he make her the permanent captain of the Guard? Taking the position from Tigu would certainly be a boon!
+
+“I was wondering what was killing all the mosquitoes, but now I know…” the Empress muttered, before shaking her head. “Excellent job in… culling the pests, Vajra— but now allow your soldiers their rest, and join us. We have much to speak about.”
+
+Vajra nodded and dismissed her soldiers, all but the Prince’s Guard dropping out of their ranks and dispersing. Vajra made to fly up to the Empress, but instead, the Emperor lowered his hand for her to climb up on instead. Truly, she received honour after honour!
+
+Vajra strutted up and onto his enormous, powerful hand as the peasants got over their shock and began once more greeting the Prince.
+
+Vajra was taken to the Emperor’s table. “Are you hungry?” her Master asked as he pulled out a spoon and served her some of his delicious, Qi-filled syrup. She bowed her head in thanks, for only a fool dared to deny the Emperor.
+
+After she took her fill, the Emperor addressed her. “How long have you been awake, Vajra?” he asked her directly. To have enough favour that she had her Master’s personal attention? It was a dream come true!
+
+Vajra launched into an explanation. Her behind wiggled as she wove her tale for her Great Lord, who gazed upon her with an inscrutable eye, along with the pink servant and Handsome Chun Ke.
+
+She completed her explanation and stilled. All remained staring at her. Then, Chun Ke coughed.
+
+‘Verily, this Queen has been awake for years—yet the time between her old life and the time this Queen was rescued by noble Bi De, most magnificent of her Master’s servants, is like two differing lives,’ he narrated.
+
+Varja froze as understanding dawned in the rest of their eyes.
+
+Her Emperor had not understood her dances?!
+
+And yet, it made sense! Oh, heavens above, why would the Emperor know how her kind communicated? She was but an insect before him! How arrogant had she been, that she thought he understood her pitiful waggling behind?!
+
+She chastised herself, even as the Emperor gave her face by apologising for not understanding her! Vajra panicked, and called some of her servants. They immediately formed ranks, pulling themselves together into writing. It felt like a horrid waste of resources, to use servants for this instead of gathering nectar, and it felt incredibly strange—but Vajra persevered as her servants formed the characters for apology.
+
+And yet… Vajra’s faux pas was forgiven, her Emperor a magnanimous soul. He invited her to sit at his table and eat with him, and when they returned he would make a place for her. A place of her own, directly at the table!
+
+Such a joyous day!
+
+Vajra, of course, immediately accepted her elevation. She must have been promoted two ranks—no, three! She had attained the rank of favoured servant!
+
+Everything, absolutely everything, had worked out for her.
+
+It was then that the Prince made a noise of discomfort, and the Emperor’s eyes rose from Vajra to his son. The child looked upset, and the Emperor rose to attend him, along with Chun Ke and Pi Pa. Vajra rose as well, her wings buzzing so she could curry more favour—but gentile, dainty fingers plucked Vajra out of the air.
+
+“So… all this time you’ve been completely aware… what have you been doing in my husband’s bath?” the Empress asked lightly, and Vajra froze. Two purple orbs speared her.
+
+Her mind raced, and her swarm trembled as she realized she had no excuse ready.
+
+===================
+
+It turned out Zhuye had a bit of an accident. So I took him aside and cleaned him up, before heading back out. The party had restarted in my absence. The people of Hong Yaowu were rather used to animals suddenly acting like people by this point, so the swarm of sentient bees was more a passing curiosity rather than a cause for alarm.
+
+Especially since most of them seemed to have dispersed and gone back to doing bee things.
+
+A couple of people were looking over one of the little tapestries the bees had brought. They were really good. They looked kind of like neolithic cave paintings in woven form; giants stood above the bees, who were arrayed in ranks. In another, they did battle with giant mosquitoes, hunting them down.
+
+It was an insight into a microculture I had no idea even existed. I sighed. How had I not clued in? I mean… I know why I didn’t think she was a Spirit Beast. She kept getting caught in the bath! How was I supposed to know that she had intelligence comparable to a human when she kept doing that?!
+
+Was it just the warmth? Did she like my Qi? Maybe that was it. Well, whatever made her feel better.
+
+I sighed and shook my head as I finished getting Zhuye situated—and then I groaned.
+
+“Son. We do not slobber on the bees,” I chastised, and gently extracted the two-inch long… well, was it a Spirit Beast? Or was only Vajra the Spirit Beast and she simply influenced the rest, sort of like the situation with the monkeys of Crystal Hill? I had no idea.
+
+“Sorry you have to deal with that,” I said anyway to the very wet trooper. The bee buzzed as I set her down, then resolutely marched back towards my son… standing just outside the range of his grasping fingers this time.
+
+I saluted the brave soldier and turned back to where Meimei was talking to Vajra still.
+
+At least the bee didn’t seem to be too annoyed that I hadn’t noticed. Vajra… well, aside from the bath thing, she seemed fairly well adjusted. I think. She hadn't killed anybody so far, but she apparently had declared war on the mosquitos and enacted a purge, so the jury was still out on that front.
+
+I sighed. I thought I was through with surprises on the Spirit Beast front, but more fool was me. Meimei seemed to have finished saying her piece, and Vajra flew off the table. My wife nodded and then stood up as well, grabbing some snacks from the main table and walking towards me.
+
+“What was that about?” I asked my wife.
+
+“We had a wonderful conversation on boundaries,” Meimei said with a smile. “If she wants to bathe so much it can be with the rest of the girls.”
+
+I shrugged. Well, everything seemed resolved. Now we just had to have a conversation about honey, and if I could still collect it—but that could wait until tomorrow. For now… well, we had a new family member.
+
+A new family member who needed her own tiny bowl and cutlery. And possibly a hat.
+
+Hey. Bees are cute.

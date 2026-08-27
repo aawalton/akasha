@@ -1,0 +1,29 @@
+---
+id: 8d3e0111-49e7-5866-9d54-d8811f8ed878
+page-type-slug: story-chapter-royal-road
+title: "Book 1 is now on Amazon!"
+slug: 0033-book-1-is-now-on-amazon
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 33
+ownLength: 234
+unit: words
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2765837/book-1-is-now-on-amazon"
+royalRoadId: "2765837"
+---
+
+https://www.royalroad.com/amazon/B0DK7T53L1
+
+It's kind of hard to believe that the day has come. I still swear it feels like just yesterday that I was fretting about whether or not I wanted to share Blind Chaos with more than a handful of friends.
+
+But Budding Rhythm is now available on Amazon and Kindle Unlimited!
+
+Ratings and reviews are highly appreciated—a successful launch will (fingers crossed) let me keep writing full time!
+
+Physical copies are coming in the near future, I'm not yet certain if I'll commit to hardcovers, but I intend to experiment with some things to find out if I want to make the commitment (they have a significantly lower max page count than print on demand paperbacks, which is why some authors don't bother with them).
+
+I seriously want to thank each and every one of you, whether you've silently read each update without a single comment or you're one of the many that've said something at some point that brightened my day. Sharing a piece of myself with the world has been scary, but I'm glad that I did it. So thank you all for helping to convince me that Ranthia's story is worth sharing.
+
+I've added a new non-chapter to help offer refreshers for stubbed content, for those that might need it: The Story So Far...
+
+And Book 2 will be releasing this month, no matter what my body puts me through.

@@ -1,0 +1,37 @@
+---
+id: 529492e2-d881-52b0-aba7-d5e395c32b4e
+page-type-slug: story-chapter-royal-road
+title: "Book 2: Chapter 2 - Damn it"
+slug: 0065-book-2-chapter-2-damn-it
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 65
+ownLength: 1097
+unit: words
+publishedAt: 2025-05-06
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2260574/book-2-chapter-2-damn-it"
+royalRoadId: "2260574"
+---
+
+64:
+
+It had been entirely within the realm of possibility for the middle-aged man to decide not to pursue, opting instead to cut his losses and retreat, or even feign a retreat to lure Jack’s to the largest dune in the vicinity in case he believed that Jack’s group would opt for pursuit. Regardless, whatever Jack had expected, it wasn’t nearly as dramatic as the sight unfolding before him.
+
+Their formation advanced at an impressive pace, a crescent vanguard forming the first line of defense. The four men and women that Jack had assessed as members of a different group that had been subdued by the middle-aged man, were clad in common armor and even starter armor, in the case of one unlucky dull-brown haired swordsman, who along with a chitinous spear wielding man closely flanked the man-woman duo that made up the charge, their only visible defenses a buckler worn on the lead woman’s forearm.
+
+All of the vanguard’s weapons and armor were formed out of the same black chitinous material that was looted from Sand Stalkers, Jack knowing that for a certainty since his own group had amassed a small collection of the common weapons and a few armor drops that unfortunately all turned out to be common rarity. Had they secured an uncommon legguards or sabatons they could have gone to Jin, but the chitin that made up the legguards at common rarity was rigid, which hadn’t been worth the tradeoff she’d have to sacrifice in mobility for what was modest protection at best.
+
+If Jack’s group revealed their positions on the smaller dune they were hiding behind, they had line of sight on the charging enemy as they navigated around the largest dune in the vicinity that they had issued their bold declaration from, angling for cover behind a chain of rising and falling dunes that would offer them cover as they covered distance. If they wanted to come for Jack on what had formerly been the archers’ dune, they would have to curve inwards and either cross the smaller dune where his group was waiting for them or navigate around it and fall for the ambush regardless and Jack hoped that they would opt to wait.
+
+The middle-aged man had taken stock of their group earlier and noted that they had no archer with them. Even a single archer on their team with an infinity quiver, even if their Qi reserves were depleted, could continuously shoot arrows without worrying about cost or the significant distance separating them. But if Sarah, Marcus or Jin wanted to strike the enemy from a distance, all they had to count on was Qi Projection and each strike would deplete 5 Qi Points for each attempt.
+
+Even if they did somehow manage to land a lucky hit, the vanguard was clearly disposable to the middle-aged man and Jack was certain that it’s makeup wasn’t exactly a voluntary affair and the true enemy was nestled behind a rectangular screen of white stone that was held to the side, likely by the leader of the enemy group.
+
+The makeshift shield was tall enough to obfuscate the middle-aged’s form and wide enough to screen three people and it was held at the side at an an angle that was being continuously adjusted to keep account of the archer’s dune and the field of view it offered. There was no description of a tower shield artifact being sold on the tutorial shop, if it could even be considered one and Jack doubted that that even his enhanced stats were comfortable running while holding onto a sheet of white stone.
+
+Jack’s lips thinned into a line as he took note of the third Dao Mark that he had encountered so far. Trent had been able to imbue his poisonous dao into his arrows, Marcus could call upon fire dao in the palm of his hand though his projectile range, if he even had one, remained unknown to Jack, so he had to admit that his understanding of the concept was spotty—- and that was a generous assessment. Still, Jack found himself hard pressed to imagine that creating a sheet of stone was the limits of what he suspected to be the leader’s Dao Mark could do, given how niche and limited the concept sounded compared to summoning a dao that could corrode limbs at a touch or a primal element that had incredible versatility in terms of the number of ways it could be used in.
+
+That was when he recalled a mention of lances by Matt, one of two archers that Jack had no choice but to neutralize— ‘And get our hearts opened up by lances’ was what Matt had said. If the leader couldn’t merely create sheets of white stone from his Qi, but also shape them into sharpened points or smaller shields as he needed them as part of a larger stone shaping ability, then it would make sense how he had managed to subjugate multiple groups with just two others as part of his core group.
+
+Jack realized that he was clenching his teeth, having come to the conclusion that he had no way of warning Sarah, not unless he wanted to give up on the ambush and expose their true location. No, he had to stay put and have the middle-aged leader believe that he understood the threat he was dealing with. From how he was angling his makeshift shield, it seemed clear that he believed all four of them to be hiding on the archer’s dune, taunting them into giving chase by their mere inaction. What was worse was Jack now understood the source of the leader’s confidence and he had to admit that it was a darn good one.
+
+He’s not scared of the fog because we went for the weaker group with it and he believes that he’s got a read on it’s speed. The dune Sarah and the others are hiding behind is a good enough distance away from this one that he will be confident in his ability to retreat in time if the fog advances and they can pursue if the fog retreats. He thinks he can wait it out and he’s not entirely wrong, Jack considered, not having forgotten the drain of 1 Qi Point per minute. I could rush in there, but Sarah and the others will have their vision impeded by the mists as well and if the leader stops caring about the consequences and starts throwing lances at random, it’s going to get really dangerous. Damn it!

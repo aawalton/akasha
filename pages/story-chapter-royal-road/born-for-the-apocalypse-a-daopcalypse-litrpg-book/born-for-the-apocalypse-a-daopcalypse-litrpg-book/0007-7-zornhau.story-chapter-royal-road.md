@@ -1,0 +1,79 @@
+---
+id: 5f557483-e87a-5d92-ab68-9cba32612bb1
+page-type-slug: story-chapter-royal-road
+title: "7: Zornhau"
+slug: 0007-7-zornhau
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 7
+ownLength: 1014
+unit: words
+publishedAt: 2023-02-11
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/1111345/7-zornhau"
+royalRoadId: "1111345"
+---
+
+To claim Jack had a contingency ready for this exact scenario would be a gross exaggeration. He didn’t. The Twilight Boar was simply too fast. The Recovery Pill had sent a burst of reassuring warmth coursing through his body, numbing the searing pain tearing away at his abdomen enough to make it tolerable as the wound slowly began to reknit itself.
+
+The good news was that blood loss at least, had slowed down to a trickle, even if his wound remained a gaping aperture, its fleshy, partly-healed inner layers visible. The bad news was, well, he was pretty certain that his wound would gush open if subjected to strain.
+
+He could perhaps dodge the Twilight Boar again with a little bit of luck on his side.
+
+The third charge though, if allowed, would be the final one.
+
+The others did not factor into his consideration, for the beast did not allow him to, as it reared its head, a spark of fury glimmering in its blood-red eyes, though maybe he was imagining that part.
+
+There was only one card he really had to play.
+
+From the moment he had unlocked the Qi Pulse skill, his thoughts had been drawn to its combat functionality. While Qi Blade was a skill designed specifically for combat, the line was far more ambiguous when it came to Qi Pulse. His instinct told him that there was a deeper level of mastery he could achieve with the skill, but even the most unskilled of fighters abided by the ancient proverb— 'in the crucible of combat, rely upon the practised and proven'.
+
+Even Jack wasn’t daring enough to close his eyes in the middle of facing the deadliest adversary he had encountered in his life, betting his survival on a skill he’d used once before.
+
+But the Twilight Boar’s second charge drastically changed the variables in that equation.
+
+He exhaled deeply, expelling some of the gnawing tension building up in the pit of his stomach. In that moment, the hoofbeats of the nauseatingly fast Twilight Boar, the sounds of battle echoing in the background and the rapid beating of his own heart…. all that faded in the background as his gaze flashed with a final glimmer of defiance.
+
+A second later, his eyelids clamped shut.
+
+[Qi Pulse]
+
+Once again, blackness enshrouded the sensory realm he found himself in. A pang of terror welled up as his thoughts involuntarily flowed in the direction of the three hundred pound monstrosity charging at him, now invisible to his sight.
+
+Focus, damn you.
+
+The ingrained instinct bestowed upon him by the scale wanted him to expand his Qi-Strands in all directions, but instead Jack chose to fight against it—- he didn’t need a large scale sweep, his foe, the only foe he cared about right now, was right in front of him. Consciously willing the Qi-Strands expended way more mental fortitude than he had anticipated; half of the strands shattered right at the outset, but Jack chose to ignore them.
+
+The reason he believed that this strategy was worth the immense risk he was taking was because his perception in this sensory realm exceeded his natural capabilities, since they were no longer affixed to the limitations of his physical body.
+
+Strained, he willed the surviving Qi Strands forward. Barely any time passed before he got a response, revealing a venous network accompanied by a beast core that was suspended in the center.
+
+Now, split it.
+
+A few strands split off from the Twilight Boar, peppering the ground its approaching silhouette tread upon.
+
+I can sense it!
+
+He could sense the beast’s heavy, oxen-like hoofs making contact with the earth, leaving heavy imprints as the ground bore the brunt of its weight. His focus was completely ensnared by the Twilight Boar’s gait, noting the way its four limbs moved with synchronicity, the speed it traveled at it as it drew closer to him with every passing second, the height it possessed relative to his own and the likely position where its vitals would be positioned.
+
+The rhythm of its movements…
+
+He had grasped it.
+
+I need to seek the rhythm of the world.
+
+The few strands he had embedded into the earth allowed him a base reference to measure the boar’s height and its coordinates relative to himself.
+
+Now I just need couple the boar’s rhythm with the rhythm of the world.
+
+Jack’s eyes shot open, alight with life, as he canceled the Qi Pulse skill.
+
+His movements displayed an otherworldly fluidity, a grace that could only be achieved by one lacking an iota of hesitation in the heat of battle. He did not try to seek visual confirmation of his target, for the time it would take his mind to process that information would be the difference between life and death.
+
+The first side-step took him out of the Twilight Boar’s direct line of attack. With the second step, his right foot was placed forward, his sword positioned in an overhead stance as he expended another half a second leaning backwards to better leverage his body weight. His blade flashed with the characteristic azure glow as he activated his Qi Blade skill.
+
+“Zornhau,” Jack whispered, rotating his waist to gather more momentum as he swung his sword in a sweeping, circular motion that arced downwards. A technique from German longsword tradition, Zornhau, or Wrath Cut, was originally made to be utilized with a two-handed longsword, but Qi Blade more than made up for the extra weight and momentum it would provide. All in all, it was the most powerful strike in Jack’s arsenal and most likely, also the most aptly named one for the present situation.
+
+The Level 3 Twilight Boar charged past him, a thin line running from the back of its neck to a little below the base of its skull. Half a second later, its porcine head was separated from its body, a burst of black lifeblood spraying all over the tall grass as it was sent rolling away.
+
+[Qi Pulse has reached level 2!]
+
+[Qi Blade has reached level 3!]

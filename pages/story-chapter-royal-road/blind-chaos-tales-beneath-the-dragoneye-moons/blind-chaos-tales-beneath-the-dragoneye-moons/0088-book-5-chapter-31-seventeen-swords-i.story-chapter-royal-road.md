@@ -1,0 +1,251 @@
+---
+id: abc7ccbd-20bf-5484-ad07-ce56f6239860
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 31 - Seventeen Swords I"
+slug: 0088-book-5-chapter-31-seventeen-swords-i
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 88
+ownLength: 6256
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3774909/book-5-chapter-31-seventeen-swords-i"
+royalRoadId: "3774909"
+---
+
+Under normal circumstances, Ranthia could have squirmed her way out from under the dead wyvern within seconds. But no matter what she attempted, her world continued to spin uncontrollably. Which kind of made it just a touch difficult to focus on, say, anything else. Every lever of control that she possessed for her [Divine Eye] only worked on the original, without any discernible effect upon its new twin. She couldn’t even close the Xaoc-forsaken thing!
+
+“You really are the godsdamned stupidest and most reckless fucker to ever set foot in my Lodge, aren’t you?”
+
+But life wasn’t going to give her the space to figure out the quirks to her Skill’s advancement, it seemed. She wasn’t quite sure why or how she had missed the tavernkeeper’s approach (aside from the obvious), yet from the very moment the woman spoke, there she was—standing directly above Ranthia. Her well-behaved [Divine Eye] watched the woman squat over Ranthia while its manic twin continued to do everything it could to liquefy her mind.
+
+She needed to reply, the powerhouse of a barkeeper wasn’t known for her patience, yet thinking of words felt impossible while it took every shred of willpower that she possessed to prevent herself from drowning in her own vomit!
+
+“New sensory Skill?” The barkeep asked, not unkindly.
+
+“Evolved.” Ranthia managed the word, though it was followed by a far less dignified sound as she forcibly tamped down on what very nearly followed the word.
+
+The barkeep nodded, witnessed by one sensible manifestation of the Skill and another that caught nothing more than a single instant of the gesture. Then, without preamble, she gently reached over and set her hand on Ranthia’s hair…
+
+And forcibly ripped her out from under the wyvern with a single, sharp tug.
+
+Ranthia—newly set down on her feet—spewed furiously (just curses and profanity, mercifully) for several seconds while she carefully felt her head. Her scalp sure felt like it’d been ripped off her skull, yet no matter how she checked herself, she wasn’t even bleeding. Not that her [Divine Eyes] were any help, they were both fixated on glaring… at…
+
+Before she lost the feeling, she shoved the instinct to glare at the barkeep into [Submind]. Keeping her second eye fixated on the powerful elf was far preferable to allowing it to spin around until she blacked out.
+
+“Better?” The barkeep waited for Ranthia to nod, before she resumed speaking, “Good, then put this on before you get any idiotic fucking ideas.”
+
+Ranthia knew that her armor had sustained some damage during the battle, sure. But the severity was far beyond her expectations. …And the bulk of her armor was still trapped under the wyvern, most likely. The remnants of the shoulder plates and the heavily perforated remains of the topmost plate were all that remained on her person, and the leather straps that kept those hanging from her body were both in atrocious condition.
+
+A sigh escaped her lips, but there wasn’t really anything she could say. She knew the barkeep wasn’t truly responsible for her armor being torn apart when she was wrenched out from under the monster’s corpse. Most likely, it would have failed even if she had wriggled her own way out. Assuming the rest of her armor even was under the wyvern and wasn’t just scattered throughout the vicinity. Losing her armor though, that was bad. Sure, it hadn’t offered much protection, but… Godsdamnit, she needed to find whatever arcanite she could salvage, at least.
+
+That could wait for a moment. Before the woman lost patience, she accepted the fur-lined cloak with a grateful nod and wrapped herself in it. Her mistweave undergarments were just fine, but the cloak was warm and comfortable—a definite upgrade.
+
+“And you—you’re as bad as she is, but at least she knows what she’s doing!” The barkeep rounded on Clover almost the very moment Ranthia was covered. “I have no idea how you fought like you’re every animal in one body, but you used it like a fucking fool! For all your gifts, you still allowed the wyvern to control the entire pace of the damned battle and did nothing but respond to its attacks for the entire time you fought. And, just in case that wasn’t shit stupid enough on its own, you reacted by making a single change and never pushed a single momentary advantage. You just kept repeating whatever worked instead of ever using your fucking brain—with your abilities you could have done far more!
+
+“If you’re going to insist on going against your nature and fighting monsters, you have to learn to fucking fight.”
+
+Clover was incredibly stubborn and had just proven beyond any and all doubts just how brave she could be, yet the barkeep’s tirade had her backpedaling with drooped ears. Ranthia tried to step forward to defend her bond, yet the mighty elf was looming over her from the moment she finished yelling at Clover—before Ranthia could even open her mouth.
+
+“I know you didn’t expect your Bond to show up, but that’s no excuse for never teaching her the basics, you shit-for-brains moron! I’m beyond just pissed off at you right now, but I’m still going to go against my better judgment and do you a colossal fucking service.” No one was to be spared from the woman’s displeasure, it seemed.
+
+“I’m still getting the medium rubies and the bounty?” Ranthia allowed herself to get her hopes up, fighting against her absurd urge to back away from the barkeep’s displeasure.
+
+“Fuck no, I’m not giving you the tiniest shard of arcanite for being this godsdamned stupid. Instead, I’m going to do so much for you that I rightfully should demand a favor in recompense, but I’m not even going to ask for anything, because that’s just how fucking nice I am. So, listen up and don’t you dare interrupt me with any damned complaints.
+
+“First, I’m going to claim half the carcass. In ‘return’, I’ll be making sure you don’t lose a single bit of its value by butchering it myself and providing equipment to preserve everything. Lucky for you, I actually have equipment meant for this sort of thing in storage.
+
+“Second, I’ll introduce you to a few contacts that can help you move whatever you decide to sell from your portion. And I’ll even make sure that they pay you directly, and over time as things sell, instead of letting them reap the full profits while you get a paltry lump sum.
+
+“And third, I’m going to keep an eye on all of these proceedings, so you can’t get yourself into more trouble, you senseless idiot!” The barkeep jabbed a finger against Ranthia’s collarbone to punctuate her third ‘colossal fucking service.’
+
+It took every fiber of good sense that Ranthia possessed to keep her mouth shut. Had the offer come from any other elf in the City of Arts, Ranthia would have refused immediately. But from the barkeep, of all people? She couldn’t even imagine that the temperamental woman might try to scam her. Sure, she had no idea why the barkeep’s equipment or butchering skills (unless she had actual Skills for it) were more applicable than her own, but she was willing to find out. As strange as it was, she truly trusted the barkeep. …And that probably had nothing to do with her attraction to the woman.
+
+She nodded her assent.
+
+A few answers to Ranthia’s lingering questions were granted as work got underway. As it turned out, another Hunter had heard the sounds of Ranthia’s battle and possessed the good sense to inform the barkeep instead of wasting time investigating for himself. She had actually shown up right around the same time Clover joined the fight—though she chose to watch instead of intervening. And given the levels that they gained, Ranthia had her doubts that the woman even would have intervened to save them had things gone wrong. Which wasn’t surprising; it wasn’t like she watched over any Hunter, no matter how great a risk (or mistake) they took on.
+
+As illuminating (and obvious) as that was, the process of dismantling the wyvern proved to be even more enlightening. She probably should have expected as much—wyverns were mystical creatures, and as such, they were a step or eight removed from the more conventional creatures of flesh that Ranthia knew. Sure, they still contained flesh and blood, though there were crucial differences that extended beyond the System’s influence.
+
+At the more mundane end: she would have ruined the entire hide had she tried to butcher it herself. Per the barkeep’s explanation, there was a slimy layer to the wyvern’s skin that liquefied the hide to create patches of scar-like tissue—and did so rapidly when exposed to air. Biologically, it made sense. It allowed wyverns (and other dragonkin) to recover from even severe injuries at a rapid pace. But that specific layer had to be cleanly and utterly removed as the wyvern was skinned.
+
+And naturally, it didn’t want to remove cleanly. Incredibly precise knife-work was required to keep from ruining the hide. The barkeep’s heavily curved blade looked more like a short sword than a knife, a necessity to ensure the layer was removed before air reached it.
+
+But the mythic’s non-traditional biology showed up in other ways, including certain organs. The wyvern’s breath attack came from a combination of the System’s blessings and the unique anatomy that was shared among the higher echelons of dragonkin. The organs responsible couldn’t generate any material without the System, but they were still innately magic. Which meant that the barkeep had to cut her way to get them out the moment she was done skinning the wyvern—to limit how much they diminished without the System.
+
+Fortunately, the barkeep could make the journey between the site and the city in less than a minute, which she made full use of as she worked. And the storage equipment that she retrieved was specially designed to maintain and preserve even mystical anatomy. Each winter steel container was engraved with enchantments unlike any Ranthia had ever seen before, with integrated arcanite meant to fuel and preserve the enchantments. The end results were metal cases and barrels that were quite nearly seamless once they were sealed—airtight and guaranteed to last for over a thousand and twenty-four years once activated.
+
+Neither Ranthia nor Clover were permitted to help with any stage of the butchering process. Clover was surprisingly content with watching—and paid rapt attention as she did so. But Ranthia made the mistake of asking if she could help for a second time and ended up tasked with collecting every needle from the wyvern’s breath attack that she could find. Armed with a pair of tweezers and a more mundane metal box, Ranthia set out to perform what was almost certainly a waste of time. There was pretty much zero chance that the material hadn’t been conjured, which meant that it would break down and vanish, no matter what they tried to do to preserve and store it. Still, on the outside chance that they somehow weren’t conjured, she focused on her busywork while the barkeep prepared and stored every last bit of the wyvern—down to the last tendon.
+
+But the weirdest bit came after everything was put away…
+
+“Hey idiot, am I right to assume that you don’t have any ridiculous taboos about nudity?” The barkeep asked while she accepted the (mundanely enchanted) box from Ranthia.
+
+“…Yeah, I’m fine with it.” Ranthia answered honestly, though she was unable to suppress the urge to frown. She liked the fur-lined cloak that she was wearing, it was warmer and comfier than most blankets that she owned! She absolutely didn’t want to part with it already.
+
+“Good. And I presume that becoming stronger means more to you than a bit of currency?” The barkeep seemed to assume this one was obvious, yet she still asked.
+
+“Of course.” Ranthia agreed immediately. Not that she had any idea where the line of questions was going anymore.
+
+“Good. Get naked—and I mean naked. No mistweave, no sandals. Your rabbit had the right idea, even if it’s painfully fucking obvious that neither of you knew it.” The barkeep ordered.
+
+Ranthia wasn’t shy, no, but the strange insistence came out of nowhere and the lack of explanation left her momentarily flatfooted. And the aside about Clover felt especially out of place! She just—
+
+“Okay, okay!” Ranthia snapped, rubbing her cheek. Sure, she had several thousand more vitality than she had last time the barkeep physically abused her, but that just didn’t change much at her level. Which meant that the rock that the damnably impatient woman bounced off of her face stung just as severely.
+
+Still, she had enough sense to do what she could to avoid a second stone—or worse. She even accelerated her perception to burn through her annoyance while she hung the cloak on a nearby tree branch at speed. A heartbeat later, her mistweave, the remnants of her armor, and both sandals joined it. And her mood was mildly bolstered by the fact that her footwear was in better shape than her armor had been. Sure, a few straps had been destroyed, but those were easy to repair or replace.
+
+Moments later, Ranthia was sitting in a large wooden tub, more confused than ever. She had no idea what was going on or why the vociferously nameless elf was insisting upon any of it!
+
+“Will you just tell me what—” Ranthia tried to make a (quite reasonable) demand.
+
+“Shut your mouth.” The barkeep’s voice came from behind. The words though, they weren’t intended as a rebuke—they were a warning.
+
+Said warning was promptly followed by the sensation of liquid—warm and oddly pleasant—spilling over her head. Ranthia promptly shut her mouth and eyes before the liquid could run past them on its way to cover her chest. The barkeep kept the flow gentle and controlled, careful not to spill or splatter a single drop, but even with the constant stream of warmth, Ranthia could tell that the liquid was oddly thick. And the aroma was different from what she was used to—richer and somehow more… vibrant than the typical sort that she was all too used to.
+
+But the difference only fooled her for a moment. She knew the stench of blood far too well to miss what she was being bathed in. Also, there was the minor detail that she could see the vividly crimson liquid getting poured over her head by the magnificently muscular elf, courtesy of her Skills.
+
+The urge to shout “What the fuck?!” was intense enough that it took a physical act of exertion to force it down and keep it from escaping. She wasn’t Night—she had no interest in learning what wyvern blood tasted like!
+
+“Alright, that should be good. Be damned sure you get it everywhere—coat and soak every last bit of your skin. Don’t ignore anything, or you might waste it.” The elf announced once the flow of blood finally stopped.
+
+Seriously, explanations would be appreciated! Not that she could clear her face enough to ask.
+
+“Oh, and make sure she’s thoroughly covered too. Just dunk her a few times. And keep her in there until I say you’re both done, so I can clean both of you idiots at the same time.” Those words were followed by the arrival of a familiar ball of squirming and protesting fluff.
+
+“Will you tell me what that was all about already?!” Ranthia demanded. She was holding Clover over her bare chest, watching the last of the blood flow back into the metal barrel—courtesy of the seventh Skill gem that she’d seen the barkeep blow that night.
+
+“Let’s see if you have enough wit to figure it out for yourself.” The barkeep had an uncharacteristically amused expression on her face as she raised a hand.
+
+Ranthia prided herself on her ability to react to danger. Evasion was a core aspect to her combat style, for Xaoc’s sake! But the barkeep was still triple capped at level 2560.
+
+Thus, the stone bounced off Ranthia’s cheek before even her [Divine Eyes] could react. And her hand went to her face instinctively, although…
+
+“It didn’t hurt?” Ranthia blinked in surprise.
+
+“Figured as much. And yes, it was the same rock I hit you with before and I threw it just as hard. Now piece it together, dumbass.” The barkeep crossed her arms expectantly, wearing the same grin.
+
+…Absurd. It couldn’t be!
+
+Sure, she had seen it come up in books, though it’d always been just as ridiculous as the idea of eating hearts to gain strength. And yet… She knew the barkeep too well to believe that it was a joke. But how in Xaoc’s name could bathing in a dragonkin’s blood have made her stronger?!
+
+It wasn’t strength. Well, there was a little of that (allegedly; though if it was true, Ranthia couldn’t feel much of a difference). Instead, it was her vitality that had truly changed and not through her stats or in any way the System listed, she was just innately more resilient.
+
+And improvements to her baseline had a dramatic effect once they were bolstered by the System. She wasn’t twice as durable or anything quite to that extreme, but it took a significant amount of additional force to puncture her skin with her knives. Also, the rough forest floor failed to bother her during her walk home to the extent that she never realized that she’d forgotten to put her sandals back on until she moved to take them off.
+
+They were sitting atop the pile of enchanted winter steel that was her share of the wyvern, delivered during the barkeep’s repeated trips back and forth. The pile of expensively enchanted containers were in the way, but she’d worry about storing them another time.
+
+After all, even the changes to her body had barely kept her attention while she rushed back to the city with her impatience nipping at her heels. As important as the increased innate vitality was—both for her survival and for Clover’s life expectancy—it couldn’t hold a candle to what was to come.
+
+“I know you’re sleepy, but let’s class up first. Together.” Ranthia grinned down at her drowsy Bond.
+
+She’d been twenty-three when she last classed up her Mirror-aspected class. And that was two years after she last classed up her Void-aspected class—ninety-eight years ago. That was before she even encountered the shimagu. Back when she had expected to live out her mortal life within Remus’ borders—and had worried that those were her final class ups. Sure, she had hoped to unlock her third class and believed it to be possible, especially once she met Night, Ocean, and other Sentinels, but it’d been something of a distant dream back then.
+
+It was hard to even imagine what she could expect from her core classes’ evolutions. [Diffuse Reflectance] had kept her alive against all odds—and in the process, had made her immortal. [She who Dances with Chaos] was always intended to give her the tools to fight against any opponent, not that she’d truly expected to find herself using it to fight against entire armies or monsters from ancient legends.
+
+But at last, the time had come. And every necessary delay was past—she just needed to sit down and enter her world within.
+
+“What a fool. You seem to have forgotten every warning you ever heard.” Her guide was sighing and shaking her head from the moment Ranthia manifested.
+
+She wasn’t quite sure what she was expecting, but her world within seemed to be untouched and unchanged. Really, expecting anything different was silly—it hadn’t been that long since she obtained [Adventuring Priestess of Chaos]. No matter how much time had passed since she took the class she was replacing, her inner temple remained eternal. The door to the temple itself remained sealed and difficult to even notice, her guide still wore simple vestments behind her counter, and the racked blades were as familiar as ever—though the colors were further removed than ever from the reds, oranges, and yellows that she had once expected.
+
+And the case that memorialized her [Paladin] class was sealed tight, just as it always was.
+
+“I had plenty of time to think about it. And I can’t even imagine what I want out of my combat class until I know what my survival options are. I’ll be back in once I’m done here to class up my [Warrior] class too, of course—I’m not going to stick around with a [Mage] tag.” Ranthia delayed her answer until she finished looking around.
+
+“So, you do still claim to have a lick of sense.” Her doppelganger deadpanned.
+
+“Yeah, if you’re going to try to mock me, can you at least wear a leather bodysuit? Your imitation of the barkeep falls flat without it. Not that we have the figure to match.” Ranthia waved off the barb as she approached the counter. “Alright, I know we don’t really have a plan we’re following anymore for my classes, but at least I know what I don’t want. Significant sidegrades, element changes, or anything that would revoke my immortality, for example. My survival still comes first.”
+
+“Our survival.” Her guide countered, though she still nodded her agreement even as she offered the rebuke. “Very well, wait there. I shall bring applicable options as I find them.”
+
+It was only a matter of moments before Ranthia’s other self delivered the first short sword. As expected, it bore a pyrite pommel stone and a wrapping that was just barely on the blue side of blue-green—hardly a promising sign, though Ranthia still touched the weapon to absorb its story.
+
+[Reflections of Ranthia]. The class was arguably a sidegrade, in that she’d lose access to her mirror images. But in their place, she’d gain the ability to create a true clone of herself—a perfect copy, wholly independent and able to think for herself. Each time she used the core Skill, her current body would reset to match the clone, and she’d be able to choose which of them would be the true her. Naturally, her duplicate wouldn’t have the System, though other Skills would allow her to share her stats and Skills with the clone for varying costs.
+
+It was powerful. By sharing her stats and Skills, her clone would be able to match her prowess and would be utterly independent. She would have the ultimate assistant in every battle. And she nearly discarded the class outright. The class was revolting and horrifying in a way she had never imagined! Each and every time she used the Skill, she would create a second Ranthia—someone that was fated to die, knowing all the while that she was nothing more than an ephemeral copy. There could only be a single clone and a single ‘true’ her. If she used the Skill again, the clone would cease to exist and be replaced as she once again split into two independent beings—one of them helpless without the other.
+
+Unlikely. To say the least.
+
+The second class, [Polished Steel], wasn’t much better, despite it avoiding any nightmare fuel. The wrapping on the hilt was undeniably purple, but the class itself was… well, it was boring. The only true difference between [Diffuse Reflectance] and [Polished Steel] was that her images would become more resilient, based on her vitality. Useful, but nothing about the class really grabbed her—it was just as bland as its name.
+
+Sure, [Diffuse Reflectance] was great—it had kept her alive for almost a century. But she had expected something more than the exact same class after so many years!
+
+After the two duds, Ranthia’s enthusiasm was undeniably dimmed as she moved her eyes to the third sword, especially given that it was ‘merely’ wrapped in one of the late shades of blue. [Shards of the Shattered Mirror]. Okay, fine—technically, it was named [The Uncountable and Chaotic Shards of the Perpetually Shattered Mirror]. But no, there was no way she was going to call it such a pretentious and overly long name! Fortunately, the class itself was much more in line with what she was hoping to find—a true and direct improvement to what she already loved about her class. A few limitations were altered, but the big thing was that it finally freed her from the power cap for her images! They wouldn’t be limited to a mere 1% of what she was capable of any longer. Instead, she’d have an expanding pool of power that she could assign freely to her images. She’d have the flexibility to spread it out among many images or to concentrate it narrowly, even on a single image. If she did that it could wield up to 80% of her stat product.
+
+Her images could finally become independent threats and she’d once again be able to use them to force even powerful opponents to split their focus!
+
+Honestly, she was tempted to accept the class on the spot, but her guide was still bringing swords faster than she could finish assessing even the broadest strokes of each class. And when her doppelganger delivered a blade while fixing Ranthia with a judgmental glare… well, who wouldn’t get curious?
+
+[Parallel Passions]. It was… well, it was pretty much just a sex class, yes, but surprisingly, it didn’t really inhibit her viability in combat! Admittedly, she wouldn’t gain much combat utility from it, aside from [Facets of Passion] getting absorbed as a Class Skill and lightly improved. Instead, [Echoes Reflected] would evolve into a Skill that allowed her to get sensory feedback (as well as pleasure, obviously) through her images. There was some potential there, and she could actually imagine some (non-lurid) uses for it.
+
+…Short list. It wouldn’t make the final cut, tragically, but it would be hilarious to watch her guide’s reaction when she lined up her final classes to mull them over.
+
+The next blade was just barely on the purple side of the divide that followed blue. The biggest change [Dancing Multitudes] offered was that it removed her restrictions on how many concurrent images she could maintain. Instead of being capped by the image-creating Skill itself, she would be gated by a new Skill that controlled them much like how [Submind]… wait. No. Unfortunately, that wasn’t quite right.
+
+“Okay, new restriction—no more classes that eat [Submind] and turn it into a class Skill. Unless it somehow allows me to use the Skill with [Divine Eyes in the Void] as well, of course.” Ranthia made her request the next time her guide delivered a blade. Sure, she still hoped to eventually master using [Divine Eyes in the Void] without [Submind]’s assistance, but the Skill had proven itself invaluable even back when she only had a single ‘eye’. With the second (even if it had finally calmed down), she couldn’t risk losing broad access to her mental Skill.
+
+“Very well. While I have your attention—this blade inarguably falls afoul of your previous rules, however I still believe that you would wish to review it for yourself.” Ranthia’s guide reverently set down yet another short sword with a hilt wrapped in blue while she spoke, before resuming her search.
+
+It felt more than a bit odd for her guide to refute her restrictions, though her surprise didn’t keep her from promptly absorbing the blade’s story. And yeah, [The Endless Echoes of Eternity] was unlike any of the other class options that she’d seen—or expected, for that matter. It was a class that changed everything.
+
+She never imagined that she’d be even momentarily tempted by any class that stripped her of her mirror images. But her imagination soared with what it offered in their place. The name of the class was literal—as she moved, she would leave echoes in her wake. They would be intangible and largely unassailable, yet she’d be able to use a Skill that she could only describe as [Reflections of Reality]’s direct superior to revert herself back to any of her echoes at will.
+
+Never again would she suffer while she waited for the Skill to activate.
+
+Instead of backup dancers of limited (one class option aside) ability, she would be alone, reveling in a far more chaotic dance. Forget feints, she would be able to make true attacks, then revert and come from another angle once the enemy’s defenses were focused! The inability to scatter her images was a drawback, but she would still have some measure of control over the frequency and duration of her afterimages—she could adapt how she danced.
+
+But that was the crux of the issue. She would have to retrain herself—[The Endless Echoes of Eternity] was outright incompatible with every last instinct and habit that she’d established. The class wouldn’t be a survival class any longer, it would be an extension of her primary class. She would be a dancer that wielded two elements for the same seemingly reckless dance.
+
+The other drawback was that an opponent that figured out the trick—a visibly obvious trick, at that—would be far deadlier than one that figured out how her current shifting worked. Relying on afterimages, it would be significantly more difficult to leave one somewhere an opponent might never expect.
+
+“…This isn’t a good class if I’m outmatched. Unless I’m confident that I can always decisively end the battle with a single clean hit…” Ranthia vocalized her thoughts. She wasn’t seeking her guide’s advice—which was why the woman remained silent—but she was starting to regret not classing up her Void [Warrior] class first.
+
+Yet if she had, she’d regret not knowing the confines of her Mirror [Mage] class. There really wasn’t any way to win against what-ifs, not without perfect and impossible levels of knowledge and foresight.
+
+Instead, Ranthia reached for the next sword. [Fractal Chaos]’s wrapping was once again on the blue end of the spectrum, but the class itself didn’t really grab her either. It promised to erode the confines of what forms she could shift into as it progressed, but that wasn’t really a limitation that she cared about. She liked herself. Xaoc chose a girl that grew into a beautiful woman for her, and she was happy with that. She just didn’t need to be able to shift into other species or dramatically different figures. Sure, there was merit to the ability, but it didn’t resonate with her.
+
+And she wasn’t about to pick something that she didn’t resonate with just because it had obvious benefits. The true path to power came through loving your classes and Skills.
+
+…Which was something she needed to bear in mind when she considered her final options. She silently thanked [Fractal Chaos] for the reminder, then moved on to the final blade that was waiting on the counter.
+
+[Reflective Chaos] was a mid-blue class—putting it at the lower end of those that she had considered. But stats aside, the class seemed interesting. Instead of meaningfully changing the dynamics of her familiar Skills from [Diffuse Reflectance], it gave her new tools—namely, the ability to use other active Skills that she saw. There were some significant limitations to the Skills she would be able to mirror, including that she needed to understand how they worked on a fundamental level, but there was a lot of potential to broaden her abilities.
+
+“The biggest downside is that I still won’t even be performing them at twenty percent of the power I could use if I actually had the Skill, even once I get this Skill to level 800. Copying attack or barrier Skills will be almost useless, and I can’t copy Passives with it.” Ranthia grumbled.
+
+“True. At least in part, you would be hoping for the Skill to evolve or hoping for it to improve in a future class offering. But there are Skills that would offer utility that qualify, even with the current limitations.” Her guide spoke up in response while she continued to browse the racks of swords.
+
+Yet somehow, Ranthia wasn’t expecting any other classes that met her requirements to appear. Well, sure, she was pretty certain that she could pray to Xaoc and receive a second [Priestess] class if she wanted, but she didn’t want to just walk in His shadow. A single divine-granted class was plenty—more than she deserved, truly. Living her life in service to Him meant that she still needed to prove herself capable.
+
+Also, any classes He provided would forever be limited to blue quality. And she was plainly starting to outgrow that with her own merits.
+
+“[Shards of the Shattered Mirror], [Parallel Passions], [The Endless Echoes of Eternity], and [Reflective Chaos]. One of those four, for certain.” Ranthia smiled expectantly at her guide.
+
+And received a disgusted scowl in response—that was even better than the glare she had hoped for!
+
+“You may return the others.” Ranthia requested, not even bothering to suppress her pleased grin.
+
+Which classes truly spoke to her though? What resonated with her heart and soul, like her first dancing class once had?
+
+[Shards of the Shattered Mirror] restored what she loved about [Diffuse Reflectance] and its ancestors when she was at a lower level. Her backup dancers would once again become a meaningful component to the chaotic performance of ultraviolence that she brought to any and all battles. Of course that spoke to her.
+
+[Parallel Passions] would make her downtime a lot more fun, especially if she was with Avyna or anyone else. Sure, the class didn’t do anything super exciting for her combat abilities, and she had complained that she wanted a class that did more than just [Diffuse Reflectance] did. And yet, she had to admit that she was into what it offered. It was almost like merging a hobby class into her combat class!
+
+[The Endless Echoes of Eternity], on the other hand, offered greater uncertainty. The class offered a lot of potential, but it was virtually blazing a new path unlike the one she had chosen. She didn’t hate the path it offered, yet… It was hard to get excited about such a drastic change. The overwhelming feeling she got when she seriously considered the class—without getting swept up in fantasies about inflicting a novel form of chaos upon those she fought—was apprehension.
+
+The class could—quite easily—get her killed. She would have to retrain herself from the ground up to make use of it. And until she got used to the significant changes, she would be more vulnerable than ever. Worse, if the enemy was too strong for her to bring them down with an attack or two—even if she somehow managed to get inside their guard and inflict a true wound wherever she wished—they would most likely have the ability to strike all of her afterimages concurrently. And she had fought more than a few enemies like that throughout her life.
+
+[Reflective Chaos] was in many ways similar. While it didn’t hold her back like [The Endless Echoes of Eternity] did, the class just didn’t offer anything that spoke to her. Sure, there absolutely were Skills out there that she’d love to be able to use, but with the restrictions and power limit in play… Well, the class would only be useful if she was punching down considerably or if she had a highly specialized or overwhelmingly powerful ally that she could copy from. Also, there was one other wrinkle that she hadn’t considered before that moment.
+
+“[Reflective Chaos] says nothing about permanently copying the Skills. So, I assume I need the source on hand?” Ranthia looked to her guide for confirmation.
+
+“Correct. There are two parts to the Skill: witnessing and recreating. I believe it should be possible to witness a Skill’s use and recreate it at a later date, but it would be a one-off in such an instance.” Her doppelganger always had a better sense of the System and the full scope of her classes than what Ranthia could absorb without wasting far too much time exploring the scenarios that her inner world could craft for her.
+
+And as much as Ranthia wanted to pretend that she was struggling to choose between [Shards of the Shattered Mirror] and [Parallel Passions]…
+
+“Your name is [Shards of the Shattered Mirror]. I don’t want to see any nonsense on my stat sheet after this.” Ranthia gave a firm order to the sword, even as she removed [Diffuse Reflectance] from its sheath at her side.
+
+Reverently, she handed the blade that had served her so well—for the bulk of her life, no less—back to her guide. Then, with just as much formal care, she accepted her new class and slid it into place.
+
+“I’ll be back in just a moment for the successor to [She who Dances with Chaos].” Ranthia bowed to her guide to show her gratitude, before she turned to leave her inner world.
+
+[Shards of the Shattered Mirror]. Your images have long danced alongside and around you, though their capabilities have failed to keep pace with your own. Their best has never been enough and that issue has been exacerbated with each and every level. So, shatter the mirror anew and change that reality. Are the images you summon mere shards of a whole that they may never hope to match or are they a significant piece of your overall potential? Leave your enemies perpetually uncertain of the ever-chaotic truth. +68 Dexterity, +59 Vitality, +424 Mana, +479 Mana Regeneration, +464 Magic Power, +441 Magic Control.

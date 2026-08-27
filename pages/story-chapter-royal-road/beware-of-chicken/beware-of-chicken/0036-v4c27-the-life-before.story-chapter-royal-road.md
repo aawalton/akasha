@@ -1,0 +1,205 @@
+---
+id: ead4f231-ddba-524a-affd-14312e10b28a
+page-type-slug: story-chapter-royal-road
+title: "v4c27: The Life Before"
+slug: 0036-v4c27-the-life-before
+partOf: beware-of-chicken
+position: 36
+ownLength: 2896
+unit: words
+ownProgress: 2896
+publishedAt: 2023-07-26
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1289463/v4c27-the-life-before"
+royalRoadId: "1289463"
+markedReadAt: "2026-06-29T18:52:34.997Z"
+---
+
+Some nights, I dreamt about a life Before.
+
+I dreamt of a young man, eighteen, living in rural Canada. He lived in one of those towns. Perpetually behind the cities by a decade or two, a time capsule. The only clue to what year it was was the presence of smartphones.
+
+He worked in a wastewater plant. It wasn’t exactly a glamorous job, handling the literal shit of a couple thousand people, but it was a job, and his town didn’t have many options. It was the shit plant or the donut and coffee shop, and everybody knew that place was going to hell ever since the Americans bought the company—and the golden arches stole their coffee suppliers, the bastards, leaving it a shell of its former self.
+
+Nobody would shut up about it, even years later—the destruction of an institution, they said. The young man didn’t really disagree.
+
+The economy of the town could have been better. Farming was on a downswing, and it showed in the area. The people who could get out moved to the city—though it wasn’t so bad that he thought about that too often. He had a fairly comfortable life, living with his family, a mother, a father, and a sister. His family wasn’t poor, but neither were they rich, and the young man was considering his options. He didn’t much like the city, but university seemed like the way to go.
+
+So he went.
+
+==============
+
+I was standing in a rice paddy, knee-deep in water, looking at stalks of grain. The summer sun beat down on my back, its gaze hard and unrelenting, only soothed by a northern breeze. I ran my fingers along the plants, examining them. They were all extremely healthy, the heads already showing that they would be fat with grain. The rows were completely clean of weeds and home to frogs, minnows, the occasional carp, and several families of ducks that nested on the banks of the paddy.
+
+The fish and ducks helped to fertilize things, leading to increased yields. And in return, the occasional duck made its way to our table, but only after I had made sure it wasn’t aware. With so much Qi saturating things these days it was a real risk, but there hadn’t been any more Spirit Beasts that had popped up recently.
+
+I rose from my bent-over position and stretched, looking over the ten acres of rice, waving in its terraces. It was a truly beautiful sight. Fit for a wallpaper I’d reckon. We had slightly more rice this year than last, but not by too much. We already had more than enough.
+
+I smiled at what we had created and turned, heading back down from the paddy maintenance. As I walked I passed by Gou Ren, who was using his bare hands to shape wood and stone into pillars and walls, all while carrying a truly massive boulder he had found on his back for training. He looked a bit like some sort of strange turtle, but he still wanted to be able to keep up with Xianghua.
+
+His arms moved like a kid playing a cup-stacking game, and I watched as a house grew beneath his steady hands in minutes. He had found a way to blue-tack things with his Qi instead of having to continuously nail them together, and he was abusing it to its fullest extent. Gou Ren frowned at his newest creation, sighing and scratching at his chin. He seemed lost in thought for a moment, engrossed in something only he could see. Then, his eyes lit up, he sucked in a breath then pulled out a notebook to immediately start writing something down.
+
+I felt an odd kind of ping in my head. A kind of invisible pulse from my friend as he transitioned to the Fifth Stage of the Initiate’s Realm.
+
+I’d have to make some ice cream for him—though he obviously hadn’t really noticed it, consumed as he was muttering about nail-less joints. I was getting better at telling “power levels” at least. Or rather some people’s cultivation. Mostly my family and friends. It was honestly a bit weird. It felt like I got a damn text message when I suddenly knew that Tigu had increased in her cultivation yesterday.
+
+I would have to ask Tianlan to pass on my congratulations.
+
+==============
+
+I dreamt about the young man’s life. How he lived every day. He did his shift, or he commuted to university. He watched anime, read manga and crappy, machine translated xianxia novels. He loved them, from the worst power fantasy, to the most obnoxious protagonist. They were the things that calmed him down, after a day of work or school. He hung out with what little friends still remained in their town, and roamed the countryside when he could, indulging in its beauty.
+
+He hadn’t been in a rush to change. He had been… comfortable. A little aimless, at times, but he could safely say he liked his life. It could be a bit boring at times, true, but that was life.
+
+Then, one day, change was thrust upon him.
+
+He died. He didn’t remember exactly how. Other than pain, screaming and darkness. I liked to think he died doing something heroic. Rushing into a burning building, or pushing somebody else out of the way of a speeding car.
+
+I really hoped I had been that brave.
+
+==================
+
+I continued on past the muttering builder remaking the countryside with his architectural ideas. I was headed to my special garden. I passed the sheep, cows, and veritable horde of chickens that were being minded by Chunky. The boar led the animals in a little procession like a marching band conductor as they ventured to prime pasture. The sheep and cows were covered in birds as they leapt through the air and gorged themselves on flies and other bugs that dared to get close to the mammals that were their perches. The reedy voice of Big D’s son cackled out constantly, the little man sitting on Chunky’s right tusk.
+
+He actually managed an impressive, long crow! And then immediately toppled backwards off his perch as he held it too long, the little idiot. I laughed as the rooster wobbled to his feet. It took him three tries before he managed to hop back onto Chunky’s tusk, and I caught Chunky’s eye. We both shared a smile as I continued on .
+
+I looked up into the sky and waved to a swarm of bees as they travelled in from the south, their furry legs laden with pollen. They bobbed up and down happily, descending to buzz in front of me in a formless mass that was just a little bit creepy.
+
+“Anything to report?” I asked them. It was a little strange, but Vajra had, through Chunky, demanded to be given extra work. So I had asked her to go on “scouting missions.” We’d talked a bit since her dramatic reveal. Vajra had apparently been driven from her home by Spirit Beast Hornets, and I had no desire to have them infest the farm.
+
+The bees bobbed up and down before the mass turned from a ball into the approximate outline of a grove of trees…. And then they formed up into what looked like… bunches of cherries?
+
+I blinked.
+
+“That is a good find!” I complimented, and the bees buzzed happily. “Tell you what, can you guide me there in a little? I want to see about getting some cuttings.”
+
+The bees bobbed up and down in assent.
+
+Satisfied, I continued. I hadn’t expanded the rice fields much, the yields were good enough. Everything else though? We’d expanded it all. I walked past fields of potatoes and radishes. Past the cabbages and the tomatoes growing in neat rows. Past the giant stalks of corn right to my destination. My experimental garden.
+
+This was my attempt to get away from the monocultures I had in my other fields. I wanted to test the way things grew together. Washy was already there, doing some watering of our… well, creations. He was floating around the garden, miniature rain clouds following in his wake. Min iature rainbows had formed around him, glistening off his scales.
+
+“How are they doing, bud?” I asked him, and the fish-dragon perked up from where he was staring intently at a tomato plant. Or what looked like a tomato plant, hidden in the soil beneath the vibrant plant was a secret.
+
+‘Good to eat soon, Boss. Big Sis has first dibs though.’ He said, referencing Meiling’s love of the fruits. She ate them on everything she could.
+
+I walked over and touched the plant. “The other parts are nearly ready too,” I said, gesturing to the soil. The dragon turned his eyes back to the plant greedily.
+
+Hey, I’m a cultivator, and cultivators do strange experiments, right? Washy had been stunned when I had unveiled the pomato plant. A graft of a tomato plant onto a potato plant, as they were both from the nightshade family. From there we had gotten onto the fact that the good tasting apples were all grafts, and the rest was, well, history. Washy, in his search for new flavours, had suddenly become a very willing student of a different kind of cultivation.
+
+I didn’t just want to mash things together willy-nilly though. That way laid madness. Instead, we were doing things slowly… though Washy was still very interested in the idea. Hopefully none of them came alive and started eating people. I didn’t know if I was that kind of scientist.  Not that I entirely knew what I was doing when it came to grafting. The pomato had kind of been a joke—something I had actually done in the Before for fun, but I could tell, just by holding onto plants, if they were roughly compatible.
+
+The rest of the garden was a work in progress. I wanted to do what was best for the soil, and what I could to prevent disease. I had a very Irish friend in the Before, whose family came over during the Great Famine, and that would not be happening here—especially as Hong Yaowu had begun growing the crop.
+
+I did a bit of work—there was always work to be done, as I inspected my experiments one by one, determining their health. I was rather glad I could just touch my hand to them and they would practically talk to me, telling me how they were feeling and what they needed.
+
+=================
+
+Whatever the case was, the man whose name I had mostly forgotten died. Died, and woke up in the body of another man who had just suffered the same fate.
+
+I’d had that dream a lot in the beginning. The memories had been fresh, and raw, and I woke up with a cold sweat. I would leap up out of bed and start working, trying to get those damn visions out of my head. Regret, pain, and terror. It overwhelmed me.
+
+Things changed though. As they always did. I fell in love with this new world, rather than hating and fearing it. I stopped being an outsider, and started being a person who truly lived here.
+
+As I found my place here, it stopped being so painful.
+
+===============================
+
+By the time I was done, it was time for lunch, and we wandered back home.Washy went right for the house while I got Babe. The massive ox was chopping firewood. He had Sunny the plow hoisted onto his horn. All he would do is nod his head slightly, then the logs would just kind of… split into pieces. The cuts on most of them were practically mirror smooth.
+
+I went to see if I could help in the kitchen, but got shooed out by Peppa and Washy, who were collaborating today.
+
+‘Go see to the Mistress and the Young Master.’ Peppa said in a tone that brooked no argument. I chuckled and retreated, heading instead to the kitchen table. Mei had our son in the rocking crib I had built him. Her foot was resting on the side of it. Little D was fast asleep while his mother wrote out what looked like a textbook volume on medicinal plants. She brightened up when I entered the room.
+
+“Ready for the trip tomorrow?” She asked.
+
+“Definitely! You said these caravaneers only come around once every five years, so I’m really looking forward to seeing what they have,” I replied.
+
+Mei smiled at my enthusiasm. “They have things from as far away as Green Stone Forest!” she declared.
+
+“They’ve got some really good stories,” Gou Ren said as he entered with Bowu and Noodle. The young Man and the snake went to get cleaned up, as their faces were covered in grease. “They have silver tongues—Yun almost ran off to join up with them once.”
+
+“No!” Meiling gasped, sounding almost scandalized.
+
+Gou returned after washing up, furrowing his brow. “I’ve never told you that one?”
+
+Mei leaned forwards eagerly.
+
+“Well, it started with this girl, ya see…” Gou began.
+
+==============================
+
+These days, there was none of that terror. The dream lingered more on the good times, then the final, gut-wrenching horror.
+
+It lingered on the people who I know would have been proud of me.
+
+A mother and father and sister who I loved with all my heart. I hoped they were doing fine. I hoped they lived good long lives… just like I was going to.
+
+My only regret was that they would never see just how far I’d come.
+
+=======================================
+
+“They’re here!” a child heralded our entrance to Hong Yaowu, and the sleepy village came to life to greet us. It was everybody today, the only person left at the farm being Vajra’s swarm. The place looked really, really good. It wasn’t nearly time for the harvest yet… but even a blind man could see the fat heads of grain out in the fields. They had likely doubled their crop… if not tripled it.
+
+It was a wonderful sight. As were the massive grins on the villagers’ faces.
+
+I smiled, completely content… and then picked up my wife after she finished greeting her father.
+
+“Pops,” I said with a nod, Meimei firmly in my arms. She looked a little confused at what I was doing.
+
+“Son,” Hong Xian replied. “To the mud pit?”
+
+“Of course,” I said primly. “To the Mud Pit!” I shouted, my voice booming over the hills. Mei started laughing.
+
+“To the Mud Pit!” Mei’s little brother cheered.
+
+“Mud Pit!” the call was taken up as several other men got rather mischievous grins, and women realised they were in danger.
+
+“Mud Pit! Mud Pit! Mud Pit!” The chant was taken up as I marched to a sacred, holy place.
+
+“My dear. The honours please,” I said, looking down at my wife. Meimei rolled her eyes, took a deep breath, and shouted.
+
+“Ca Wa Bun Ga!” She roared.
+
+There were many wet splats as the mud squelched around people, and whooping kids leapt into the pit with us. Gou and Ten Ren had both grabbed Hu Li, the woman fighting like a demon, while I saw Bowu get suplexed in by Ty An, the now quite muscular village girl managing a reversal… And ending up with both of them squabbling like children as they threw mud at each other.
+
+Mei and I just laughed as we watched the mayhem… at least until Gou sought to challenge me.
+
+I wished the rest of my friends were here. But there would be plenty of time for this with them later.
+
+We finished the day off with a meal, the caravaneers arriving tomorrow the talk of the town. Then we all had a drink… and the day ended.
+
+I got into bed with Mei, and closed my eyes, drifting off.
+
+============================
+
+Some nights, I dreamt about a life Before.
+
+Of a place full of metal and glass. Of a place without Qi, or Spirit Beasts.
+
+A place that had helped make me the person I was. It had been my life.
+
+Xiulan had said it best. Honour the Past. Protect the future.
+
+=============================
+
+When I next opened my eyes a little girl, her body laced through with veins of gold, was watching me. She stood on a grassy field, above her in the sky golden stars dotted the heavens.
+
+“What’s crackin’, shortstop?” I asked Tianlan. She smiled at me.
+
+“Nothin much, tall bean.” She replied. “You ready?”
+
+My hand landed on her head, and I ruffled her hair as hard as I could. The Earth Spirit giggled.
+
+“One hundred percent. Let's get to breaking those rocks.”
+
+The world shifted. The grassy hills became hazy, and I once more found myself with a gaggle of students, all of them sitting before a jolly looking old man. He had a long beard, a bald head adorned by a massive set of antlers.
+
+“It does my heart good to see you all in such fine Spirits, my Disciples.” said Shennong, the Yan Emperor, the man who had gifted humanity farming and medicine. “We have much to discuss today, upon the nature of the Dao. Much indeed!”
+
+Tianlan and I sat down, ready to listen.
+
+=====================
+
+Some nights I dreamt of a life Before.
+
+On those days, I woke up smiling.

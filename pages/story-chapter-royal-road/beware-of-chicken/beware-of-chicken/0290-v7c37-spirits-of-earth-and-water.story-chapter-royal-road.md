@@ -1,0 +1,203 @@
+---
+id: e9f5b2e2-c482-5761-8751-1f7d7b262ba4
+page-type-slug: story-chapter-royal-road
+title: "v7c37: Spirits of Earth and Water"
+slug: 0290-v7c37-spirits-of-earth-and-water
+partOf: beware-of-chicken
+position: 290
+ownLength: 2447
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3163824/v7c37-spirits-of-earth-and-water"
+royalRoadId: "3163824"
+---
+
+Shenguashi, the spirit created by Master Xiaoshi was, for the first time, utterly content. He had done it! He had found the Emperor! One to carry on Master Xiaoshi’s will, and defend Lady Tianlan!
+
+He had all the necessary traits. His intelligence, his conviction, his temperance—he was also mighty! Nearly as mighty as the one called Shen Yu, who had refused Shenguashi! A fine man to become Emperor!
+
+…of course he was already also Emperor of the rest of this massive continent. The one Bi De had shown him, the mighty Phoenix. But that did not matter!
+
+This was perhaps even better! Now Shenguashi could potentially convince the Emperor to use the rest of his Empire to protect the Azure Hills! How joyous! How amazing!
+
+“Hmmm. These memories are interesting. I can see why they were important, but not urgent,” the Emperor said, rubbing his chin. “It appears the scholars were wrong; the Qi Wastes are not naturally occurring parts of our planet, especially if that is what the Azure Mountains used to be like.”
+
+Both of the strongest cultivators who had entered Shenguashi’s crystal had been concerned with the same thing; both had expressed shock that the damage the Demons had done to Lady Tianlan had not been something natural—apparently, there were other parts of the world wherein the Earth Spirits had been consumed entirely.
+
+His directives urged him to advise the Emperor—just as they suddenly ran into conflict with another directive.
+
+Obey Lady Tianlan.
+
+Lady Tianlan, who did not wish to be known by the wider world, worried that she and the other Earth Spirits might come under threat by the very people who lived on this world. With the horrors Lord Xiaoshi had witnessed, where humans had ripped open Lady Tianlan’s bones to drink her marrow… it was a pertinent worry.
+
+Support the new Emperor. Protect Tianlan.
+
+“Hypothesis is that the Demons find some manner of important node within the Dragon Veins, and then use that node to drain the entire province,” Shenguashi reported. An excellent answer! Both directives fulfilled! “Both the one known as Shen Yu and the one known as Xiao Ge further hypothesized that these holes in the world are responsible for slowly draining the Qi from it.”
+
+The Emperor rubbed his chin in consideration. “That does make sense.” The man ruminated on it for a moment, before turning back to Shenguashi. “Your maker was an interesting man; Xiaoshi of the Azure Mountains. It seems that there is more to that province than I thought. This Shen Yu, Rou Jin… I’ll have to keep a closer eye on it.” Shenguashi brightened at the statement. “I suppose that is one of your directives? The protection of the Azure Hills?”
+
+“Yes, Emperor—but between the ones who found me, and your attention, I think it is well protected indeed!” Shenguashi answered.
+
+The man chuckled. “I suppose Shen Yu is indeed a deterrent to anything harming those Hills. Very well. Your other directive was to assist me, was it? Let me see what your maker considered to be assisting.”
+
+The Emperor's gaze sharpened. Shenguashi nearly preened under the attention. He would not fail his maker! He would be a great advisor!
+
+“Firstly, a matter of law; one man has accused another of exploiting his lands…”
+
+=====================================
+
+The Emperor of the Crimson Phoenix Empire exited the crystal some time later, a small smile on his face.
+
+The crystal spirit was an amusing thing; very eager to please, and its advice wasn’t bad. It leaned towards virtue, but above all, the Spirit desired effectiveness.
+
+Not too idealistic, and understanding of difficult issues; it had provided counterpoints, but more than that, how a man called “Kongming” had ruled on previous cases—the leader of the judiciary under Ancestor Xiaoshi.
+
+The man’s quotes had been eloquent, yet direct and to the point. A great piece to have as a servant.
+
+Fengyan considered the crystal for a few more moments. He’d keep this one close by. He might have more use for it later.
+
+He walked back to one of his couches and sat down, pulled out a piece of paper, and began drafting some ideas. He needed to send some scholars to the Wastes; he needed Dragon Vein specialists, Spiritual Doctors… just scholars in general. They would need to be guarded—many bandits called the Wastes home, and the landscapes were always perilous. The Cloudy Sword Sect had said it wanted to be involved more, so perhaps them?
+
+He spent a few more moments drafting his plan, and then his mind began to wander. If the Qi Wastes were unnatural, then perhaps they could be repaired. If he accomplished that… if it was possible…
+
+The Emperor let out a breath.
+
+It was best to not hope too much.
+
+His allotted time off was done for the day, and Fengyan rose once more. He sent his orders to gather scholars to investigate the Wastes to his aide, and then checked to see if there were any alerts. Most were low priority, thankfully, but one was in the “persons of interest” category.
+
+He picked up the report. Speak of Cao Cao and He shall appear; it was from the Azure Hills.
+
+“‘While cataloging Pale Moon Lake City Archive as commanded, received new additions; names on the pieces matched the names of the persons of interest, as did the description of the one who added it to the Archives. Have copied the texts. Awaiting orders if they shall be sent, or remain here.’”
+
+Fengyan glanced at the list of three titles.
+
+“On Beekeeping by Rou Jin, Hong Meiling, and Hong Xian. On the Distillation of Alcohol, Rou Jin, Hong Meiling, Yao Che, and Liu Bowu. On the Sterilization of Medical Equipment, Rou Jin, Hong Meiling, and Hong Xian.”
+
+Fengyan raised an eyebrow. Shen Yu’s grandson had written these and added them to the Archives? They did find the basis for their Anti-Demonic formation within his creation’s halls, but… they were actually giving back to it?
+
+Fengyan suddenly desired to read whatever had been written. It didn’t sound impressive, especially to most cultivators, but beeswax was a very important product—and sterilization of medical tools? Interesting.
+
+He called one of his messengers. The man, as always, popped up from his shadow.
+
+“Your Majesty,” he intoned, kowtowing before his master.
+
+“I have a priority job for you. Retrieval and delivery. This location,” Fengyan commanded. Orders received, the messenger sped away, his body blurring into motion.
+
+He had at least a full day before his messenger returned; the art they cultivated allowed them great speed.
+
+And then, hopefully, he would have something interesting to peruse.
+
+Fengyan looked up at the map of his Empire, specifically at the little corner in the northwest.
+
+The Azure Hills. Who would have thought it would eventually be important?
+
+Would it keep surprising him?
+
+=======================
+
+Her eyes slowly fluttered open.
+
+The weight of whispered eons and the call of the void tried to keep them closed; but she would not be denied.
+
+She had been asleep for too long already.
+
+Her eyes slowly opened, and what she saw… was gloom. It was barely lighter here than when they were closed. But there was light; enough light to see a bare patch of lakebed that extended forwards, and then dropped off into the void.
+
+It was a bottomless pit. Yawning. Gaping. Waiting for her. Calling to her, to move forwards and just… fall.
+
+Fall back asleep. Fall back into eternity.
+
+Its siren song would have been more effective if the land touching it wasn’t providing the light by which to see in this place. It burned dull gold, pressing into the darkness.
+
+It made the proposition rather less convincing.
+
+“Not today!” she shouted, pushing off the chair she was sitting on. “Ohohohohohoho! You thought you could get the best of me?! I think not! Fool! Stupid! Impudent! You dare?! I’ll spank your bottom ten thousand times for this cheek!”
+
+Her voice boomed through the water, and made the gold grow brighter. She swung her fan at the hateful thing, adding great waves to crash against the darkness, and she waved her fishing spear above her head—it felt quite natural.
+
+Unfortunately, she ran out of breath quite soon, and was reduced to panting on the lakebed.
+
+“And... let that… be a lesson… to you!” she wheezed, glaring at the darkness. She huffed and brushed some of her hair out of her face. Pale as moonlight and so curly it floated like a cloud, or perhaps the foam from waves. At least her ponytail had kept most of it tame.
+
+She brushed her dress down, and made sure it was in good order; the blues and greens were very fetching. A truly beautiful dress. And from the bottom of her dress poked her tail—the tail of a fish, with scales shining like pale moonlight.
+
+She remembered appearing before fishermen and guiding them through her storms, her tail waving to show them the way—wait, no, she hadn’t done that. That was just… something fishermen told each other. A legend.
+
+But they believed it was real. Huibai Yue Hu. That was her wasn’t it? Pale Moon Lake?
+
+Her introspection was interrupted by the sound of clapping hands.
+
+“A wonderful show! I thought you would need some more direction, but I think you have it already,” a cheeky voice declared.
+
+Huibai Yue whipped around, heat travelling to her cheeks. She glared at the interloper, ready to give them a piece of her mind—when she saw who exactly it was making fun of her.
+
+It was a woman. A girl, really. She was a tiny slip of a thing, her body cracked and shattered—yet golden light held her together. She was with a man who looked most amused, and a woman with constellations on the bridge of her nose who was hiding a smile under her hands.
+
+Huibai Yue instantly knew who this was.
+
+Tianlan Shan. The Azure Hills.
+
+Her liege. Who had just seen her flailing about like a fool and shouting at the void.
+
+Huibai Yue coughed. “Ah, My Lady, you see… I was just…” she spluttered.
+
+“It’s good to see you so lively,” Lady Tianlan’s voice was quiet, but her words reached Huibai Yue’s soul. A feeling radiated from her mistress; one of relief, and joy that she was here. “I’m glad; those seeds our people planted… they grew up wonderfully.”
+
+Huibai Yue flushed. “Naturally, My Lady! Your Pale Moon Lake is beauty, grace, and perfection in all things!”
+
+Her voice made the water roil.
+
+“Has a good set of pipes on her too,” her Liege's contractor said, clearly amused.
+
+Huibai Yue huffed at the cheeky words… but could muster no anger at him. The teasing had enough admiration she could let it slide.
+
+“And your hair—its so pretty!” the constellation woman asked, her eyes shining. “So curly!”
+
+“In a second,” Lady Tianlan scolded before Huibai Yue could accept the offer. “There’s some stuff to do first. Pale Moon Lake. Huibai Yue Hu. Come before me.”
+
+The water around them changed. Huibai Yue did as she was bid, and approached, kneeling down before her much smaller lady. “Yes, My Liege?’
+
+“This land is broken. The world is in flux. You can feel it, can’t you?” Tianlan said, her voice blunt. The void behind Huibai Yue sat, silent but ever-present. “Huibai Yue Hu. My Pale Moon Lake. Beloved child, formed in the aftermath of calamity; home and harbour to man and beast alike, and saviour of uncounted numbers. I have come, my Lady of the Lake, to beseech your help.”
+
+Huibai Yue looked up at her master, confused. Of course, she would do anything Tianlan asked of her. It was her nature. It was her purpose. Thousands of years of faint prayers, impressions not entirely erased by the void, called to her. The land needed her to do this duty.
+
+And yet… her Liege was asking anyway.
+
+“It is a hard, thankless task—it will be to war against the void—to fight it, every day. To stabilize the Dragon Veins, and prevent them from going wild. That will be your charge—and I am sorry to ask it of you so soon after you’ve awakened.”
+
+Huibai Yue smiled at the words. “You need not apologise, My Lady. Your Pale Moon Lake will accomplish this task without fail!”
+
+Her liege looked into Huibai’s eyes and smiled sadly. “You should not be so swift to jump into such miserable duties,” she scolded, her voice gentle. She let out a sigh, and pulled Huibai Yue into her embrace. “If you ever need help. If you ever need anything. Even just a break for a couple of days. Please, call for me. Even if you can stand alone… you should not have to. I will not abandon you.”
+
+The words reverberated through the water. Huibai Yue closed her eyes, as a bond of golden trust formed in her chest. She still did not entirely understand…. But she knew it was important.
+
+“Yes, My Lady,” Huibai Yue whispered.
+
+Tianlan pulled back and nodded decisively. “Good! I’ll headbutt you if you don’t! Now… let's have a picnic! Mr. Battery! Give her some of the good stuff!”
+
+Lady Tianlan’s contractor rolled his eyes. He held out his hand.
+
+“From us… and from everyone who had trouble getting this to you,” the man said.
+
+The Qi touched her.
+
+And she felt it. Love for the long, curving shore. Admiration for the thundering storms. Joy, playing in the water. Happiness of fishermen having a new catch and of the seals that played amongst the lake weeds. The fierce pride of a Pale Moon Eagle, flying over its territory.
+
+A thousand sensations. A thousand quiet thanks, long overdue to reach someone who could appreciate them.
+
+=====================================
+
+The lake changed, the fishermen said. It was… different, though none could really explain why.
+
+It wasn’t the temperature. It wasn’t the waves. It wasn’t the distance between one shore and the next. The fish’s patterns didn’t change, or at least not in any way that people noticed.
+
+Yet the fishermen insisted. She was different. More alive.
+
+But none could explain it.
+
+The Lady still shouted and roared. Her storms still battered at houses and sails, and the rain still fell, like it had for thousands of years.
+
+But maybe… maybe a few more fishermen started saying that, during the worst storms, when they prayed to the Lady to stay her anger… they could see a tailfin of pure moonlight, guiding them back to shore.
+
+And in those storms, when the waves crashed, and the wind howled, they could hear a lady shouting and cursing and scolding some invisible foe, laughing all the while.

@@ -1,0 +1,177 @@
+---
+id: f5253969-c7da-5ccf-bfcc-4f85e2983827
+page-type-slug: story-chapter-royal-road
+title: "v4c81.2: Last Days of Fall part 2"
+slug: 0103-v4c81-2-last-days-of-fall-part-2
+partOf: beware-of-chicken
+position: 103
+ownLength: 2035
+unit: words
+ownProgress: 2035
+publishedAt: 2024-03-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1544681/v4c812-last-days-of-fall-part-2"
+royalRoadId: "1544681"
+markedReadAt: "2026-06-29T18:55:01.370Z"
+---
+
+Three years. Three Mid-Autumn Festivals. It's amazing how time flies.
+
+The Mid-Autumn Festival was one of my favourite occasions. There was just something so supremely pleasant about going to Hong Yaowu and partaking in it.
+
+Maybe it was the cheers as we arrived with our massive wagon loaded down with food and a dragon heralding our presence. Maybe it was the laughter of the children as we got straight to work helping everybody.
+
+Maybe it was Pops, telling me, “Welcome home, Son.”
+
+Maybe it was because this was the first place, three years ago, where I felt like I really belonged?
+
+Whatever it was… I loved it. I loved the… well, I guess the purity of the entire event. It was a small town festival, and the only people here all knew each other as family and friends.
+
+It was a place where we could gather, eat good food, and have a good time. The fireworks were simple things that popped and cracked. The drums were old heirlooms that had been repaired a thousand times, and anybody could come up to bang on them. The village itself was vibrant, red and gold matching the leaves of the trees.
+
+I had woken up with a silly grin that morning when we packed up and set out—and that small grin was still on my face.
+
+“How long until the dumplings are done?”
+
+“Could I have a hand over here?”
+
+“We need some more firewood!”
+
+“Ty An, could you get those please?”
+
+I sat just outside the kitchen and let the sounds of food preparation wash over me. I took in the people at work, the burning fires, and the tantalizing scents. I caught one smell in particular, one that made drool gather at the corner of my mouth. Meimei was making some of her special dumplings, and I couldn’t wait to dig in. I smiled at the thoughts of food, before turning my attention back to my own task.
+
+“Big Bro! Big Bro, is it ready yet?” Xian the Younger demanded of me. His eyes were wide and pleading—as were the rest of the children’s.
+
+And Washy’s. The dragon was giving me the puppy dog eyes something fierce.
+
+“Not quite yet,” I replied as I glanced down at the piece of cast iron I was rotating over the fire. It was a strange looking thing: a bulbous kettle with a top that had been screwed down tight. It was another piece from my memories. I remembered the videos of the street merchants with this iron contraption, using it for a very specific purpose—and Bowu had once more worked his wizardry. It crafted the newest dessert in Hong Yaowu, a dessert of dreams and imagination!
+
+After a few more turns of the kettle, a few more eager bounces from the kids, and a few more trembles from an excited dragon, it was done.
+
+I pulled the cast iron contraption off from the fire and put the mouth of it inside the woven bag.
+
+“You ready?” I asked them.
+
+“Three!” Xian shouted.
+
+“Two!” the rest of the kids called.
+
+“One!” Wa Shi roared.
+
+I pulled down on the handle, and the kettle exploded with a terrific bang. It dumped white, fluffy clouds of puffed corn into the bag.
+
+The kids and the dragon all cheered.
+
+I was pretty surprised too when I found out one of the varieties of corn the Azure Jade Trading Company had gotten me popped. I remember popcorn being a special type of corn, but the pink corn I had received was truly special in more ways than one. In addition to being fabulously coloured, it also popped into something truly decadent—soft, yet crunchy in all the right ways.
+
+And it was about to get even better. Working quickly, I transferred some of the corn to the bubbling caramel pot that had been beside the corn on the fire, and with a few tosses the popcorn was generously coated.
+
+Now, it was still too hot to eat—but the previous batch was now cool enough and I filled up the multitude of bowls and the single platter presented to me.
+
+The children got their popcorn and rushed off whooping, in the full throes of a sugar high and with nobody around to stop them. The dragon added on caramel apples, caramel pears, caramel water reeds, and caramel coated eggs.
+
+‘Boss. Big Bro. How do you keep coming up with such wonders!?’ the dragon asked as he popped an egg into his mouth, considering the new taste.
+
+“Mostly just copying what other people have done,” I admitted freely. “The world is vast, and the flavours are limitless. To eat is to live; to live is to eat.”
+
+Tears sprang to the dragon’s eyes. ‘Truly, this Wa Shi is lucky to have such a Master.’
+
+I laughed at his expression, and added a few more caramel offerings to hid platter. “Go on and get these to Chunky and Peppa. The pepper flakes are an interesting choice, though.”
+
+‘Pi Pa will love them,’ the dragon declared authoritatively.
+
+I trusted his judgement. Looks like I would have to start spicing Peppa’s food more heavily, if she liked the heat that much! Well, sweet heat was good—and wait, hot honey would be great too…
+
+Something to think of for later. We certainly had enough honey for it. And speaking of honey…
+
+“Take as much as you want, girls,” I said to the flight of bees hovering around more of the caramel popcorn. They buzzed in what I thought was happiness before they alighted on a couple pieces and carried them off, up and away, to eat the sugar off them. I idly wondered how many of the workers were sapient, and how much they were more of a hive mind. I didn’t know, and I had a lot of trouble understanding Vajra’s answers as Chunky translated her dance for me.
+
+I shrugged and returned my attention to filling the kettle back up. It was the first of its kind… and yet, it would probably be joined by thousands more soon enough.
+
+I smirked when I remembered our most recent visit with Bo and Chyou.
+
+The Azure Jade Trading Company had come around again, to collect the harvest, and let's just say the looks on Bo and Chyou’s faces when they saw just how much I had had been rather priceless.
+
+It was rather fun showboating, and showing them the power of my cultivation.
+
+They got a show, and a bunch of ideas that I knew they were going to implement. I got money—but more than that, I got things. The most valuable of things, seeds. More varieties of corn, peppers, squashes, and peas, some barley, a pear sapling—and lychee. Lychee were known as the “king of fruits” and they were impossible to grow this far north—but the Palace of Pale Moon Lake City had some seeds, and the Trading Company had gotten them for me.
+
+The other things they had gotten were a bunch of edible and medicinal mushrooms—including one that blew my mind and made Meimei actually swoon. It was some kind of cordyceps mushroom growing out of a caterpillar that could apparently cure cancer. Or at least significantly reduce the effects of the disease.
+
+And unlike the snake oil from the Before, this cure actually worked. Because Xianxia magic.
+
+Hells, Pops had started hopping around like a Jiangshi too when Miemei had shown him. The synchronized bouncing was actually pretty cute.
+
+Unfortunately, they were both extremely rare and expensive as hell. Or at least they were right now.
+
+Because if there was one thing me and Meimei were good at… it's growing things. It may take decades, and we may need a few more to dial it in, but with luck?
+
+Well, cancer could go fuck itself.
+
+Hell, I’m glad that I told them I preferred seeds and rare medicinal plants to money. This was way better than a bunch of coins—I had enough of those for more than one lifetime.
+
+And well, other than the gifts, and them picking up the harvest, they had also given us an update on the progress on the expedition to the south… which, if they pushed it, they would be able to go next summer. Which was way faster than I had been expecting.
+
+I let out a contented sigh as I turned back to the popcorn, turning it around and around in its kettle.
+
+Man, this year… it had been a pretty good year so far. The birth of my son, the reconciliation I had with Gramps, learning how much Tigu had grown….
+
+The only thing I was missing was a letter from my favourite rooster.
+
+I hummed and finished up the last of the popcorn, and then, seeing that nobody else wanted any for now, I stood up.
+
+I walked past where Ty An and Bowu were tinkering with something. I walked past where Chunky, Peppa, and Washy were sitting, chowing down on caramel popcorn. I walked past where Gou Ren was trying to convince his parents to let him build them an even bigger house, and where Babe sat, the ox bedecked in a crown of leaves and little Liu brushing his fur. The ox seemed to quite enjoy the treatment.
+
+I finally came to the head table, where a tired but happy Hong Xian the Elder was sitting, my son cradled in his arms. Zhuye was giggling as his grandpa and Yao Che made funny faces at him.
+
+I plopped the popcorn down beside them and settled into a chair myself, looking out over the village and taking in the sights.
+
+Some of the adults were playing what looked like a variation of cornhole, laughing and cheering. Kids were zipping around, playing tag and hide and seek. The sun was starting to set. The air was cool, but not cold.
+
+Dinner was served. We all ate, drank, and made merry.
+
+It really was the perfect day.
+
+“Jin, there's somebody coming,” Meiling said as the sun started to dip below the horizon. “They smell like…. mist. Mist and warm fur. They’re being accompanied by Lu Ri.”
+
+I raised an eyebrow.
+
+“Shall we?” I asked.
+
+My wife nodded.
+
+We both quietly excused ourselves from the party and set off down the road.
+
+It wasn’t too long until we met Lu Ri and the person he was accompanying. Lu Ri simply nodded to us, his body language completely relaxed. I turned to the woman.
+
+She was kind of short, with wild blonde hair and extremely familiar eyes locked in a permanent squint.
+
+“Would you be Master Jin?” the woman asked politely.
+
+“Yes,” I replied.
+
+The woman bowed, and with a pop two bushy ears erupted from her head and a golden fox tail from her rump. I stared, shocked at the sudden appearance of a real life Kemonomimi.
+
+“This one is Su Yuanlin. She comes bearing a message from Fa Bi De, Hong Ri Zu, Young Master Yun Ren, and Lord Shen Yu.”
+
+Meimei blinked incredulously, “Young Master Yun Ren?!”
+
+“Aye, He's Honoured Uncle’s heir,” the woman replied.
+
+Both of us paused, and I looked at Meimei.
+
+“Well… there's certainly a story there, miss,” I said after a moment. “Why don’t you come join and tell us? There's plenty of food, and enough drink.”
+
+The woman with fox ears and a tail smiled. “Thank you, Master Jin. Additionally, I was instructed by Bi De to give you these immediately, as well as this recipe. Something about you not having beets here?”
+
+I took the piece of paper she presented to me, and saw my man’s writing. Big D always had a certain flair to his characters.
+
+Beets?! Hells yeah! I loved beets! And this recipe looked like some kind of borscht!
+
+“What a dutiful son,” Meiling said with a laugh.
+
+Big D and Gramps trusted her enough to let her bring us this letter, so she deserved at least our hospitality. We got her settled in and introduced her to Hu Li, who pointed at the other woman in shock.
+
+Myself, Meimei, and Gou on the other hand, got to reading.
+
+Reading a tale about what happened at the Shrouded Mountain.

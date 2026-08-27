@@ -1,0 +1,169 @@
+---
+id: 6606171d-455e-5795-bb68-fb83eb0f3319
+page-type-slug: story-chapter-royal-road
+title: "v4c6: Join the Cause p1"
+slug: 0011-v4c6-join-the-cause-p1
+partOf: beware-of-chicken
+position: 11
+ownLength: 2411
+unit: words
+ownProgress: 2411
+publishedAt: 2023-05-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1202920/v4c6-join-the-cause-p1"
+royalRoadId: "1202920"
+markedReadAt: "2026-06-29T18:51:41.076Z"
+---
+
+When Zang Wei—known as Loud Boy to his friends—had thrown in his lot with Cai Xiulan and her plan to unite the sects, he had been expecting many things. Battles against other cultivators, intrigue, politics, and hardship. That sort of thing. But after visiting Master Jin, he really should have known things would get just a bit weird. Things like their jobs which included escorting a monkey home.
+
+Huo Ten was generally quiet, and when he did speak was a rather gruff fellow. He was content to sit in the cart full of Steam Furnaces Xianghua was pulling, whittling or just staring out the back at the scenery passing by.
+
+Wei had imagined a giant tree house; something that they would find in the mountains. Instead, Huo Ten had directed them through the most subtle and powerful wards Wei had ever sensed, a formation that defied his every attempt to comprehend it.
+
+And then, instead of the expected treefort came a little cabin; and now… now he was underground.
+
+Deep underground in a massive vault, equal to the old fortress that Rags and his crew lived in. They were all sitting at a round table, one used for grand meetings. It was exquisitely crafted. Perfectly circular and level, intricate designs of knotwork were carved into its face in inlaid patterns of gold, silver, and gemstones.
+
+The massive table that a sectmaster would have had in his room was nothing compared to everything else. Rather, the first thing that caught the eye were the crystals that filled the room. They glittered in the walls, they shone from enormous piles on the floor, and some were being used on desks as paperweights.
+
+“Three hundred, no, five hundred thousand Silver Coins. For that pile,” Rags whispered as he pointed at one of the smaller piles. His brother looked torn between awe and greed. “We could buy an entire commandery with this!”
+
+“Truly, the world is vast and full of unfathomable mysteries,” Tie Delun said. Even the Young Master of a sect based around mining was humbled. He looked half in awe… and half like he was close to spitting blood as he looked around at the sheer amount of crystals on display.
+
+Loud Boy could only nod dumbly as he looked upon the most wealth he had ever seen in his entire life. Fire crystals, Water crystals, Ice crystals, Recording crystals, Quake crystals—crystals whose nature was totally unknown to him! He wanted to just start filling his bags, then cut and run.
+
+But he wouldn’t. He was better than that. Miss Cai had put her trust in him. Tigu had put her trust in him. Their goal was to make the Hills a better place—and he wasn’t going to be the one to ruin things by going with his gut impulses.
+
+Even if he knew few others would have absolutely nothing against strip mining this place.
+
+Loud Boy forcefully dragged his attention away from the temptations that were littering the ground and over to what they were here for—the old monkey, Master Gen, who was deep in a whispered conversation with Huo Ten. He debated trying to listen in before deciding that that it would be rude, returning instead to being bored and looking around at the rest of his companions.
+
+The others who didn’t look nearly as shocked as Loud Boy felt.
+
+“Thank you, little one,” Xiulan said as a small creature with golden fur and blue skin walked up with a teapot. The monkey nodded and poured her some tea, which their leader took with her normal sublime grace. She somehow managed to not look out of place or awkward at all—instead, it seemed like this was something that happened all the time to her.
+
+Tigu and Yin, who lived with Spirit Beasts, were similarly unaffected. Tigu was examining the table’s decorations with a critical eye, while Yin had somehow already gotten dirty, a miner’s helm on her head as she cracked open geodes.
+
+Xianghua had gone so far as to have one of the monkeys on her lap and was petting its fur. The creature had supremely bushy sideburns and looked a bit like Gou Ren—and there Loud Boy stopped himself, deciding it best not to think anything uncharitable. Both of them were good people. Xianghua especially had been kinder than he ever imagined her to be.
+
+But what surprised Loud Boy the most was the Torrent Rider. The kid was super raw, having just become a cultivator—but unlike the rest of them, he just looked a bit interested, rather than awed.
+
+“Man, you're an unflappable kid,” Loud Boy said to the kid who had nearly the same name as him. “A mountain full of Spirit Beasts and you look like it’s just another day!”
+
+“Eh?” The kid perked up. “Master Bi De was the first cultivator I met. It makes sense that there are a lot of cool Spirit Beasts. Is this not normal?”
+
+Zang Wei pursed his lips. How did he respond to such honest confusion? Rags simply chuckled from beside them.
+
+Finally, the monkeys seemed to stop their conversation and Master Gen stepped forwards, bowing low.
+
+“This Gen Ten thanks you for delivering our Huo Ten and this precious cargo back to us safely,” the old monkey said before straightening up. “Master Jin and Bi De have kept their promise to us… no, they have more than kept their promise to us, if what Huo Ten says is true. Tell this Gen Ten, what does Master Jin desire in return for this boon?”
+
+“Neither Master nor Bi De want anything. You gave them the crystal, they gave you back what you were owed,” Tigu said, shrugging as she recited what Master Jin had told her to say.
+
+It still baffled Wei how the Hidden Master could just do that. He was the kind of person Wei wanted to be, So strong you didn’t have to scrape for every advantage… even if he got the feeling that Master Jin would have said the same thing if he was the poorest farmer.
+
+The monkey, though, seemed aghast upon hearing that. “There must be something we can do for your Master!”
+
+“Ah! Right! There is one thing!” Tigu said, and the monkey leaned forwards eagerly. “Master wants you to come over for dinner some time!”
+
+The monkey nearly tripped. It took all Wei had not to burst out laughing. Indeed, it was utterly absurd. It went against everything he—and every other cultivator within this grand vault—knew to be true. But instead of interjecting that maybe the monkey could help them… they all remained silent.
+
+“If I cannot repay the Master, then I can at least repay you. Please, stay and partake of our hospitality as long as you like—Huo Ten! Go and find them some prime crystals as well! Whatever they want. Break open the vaults!”
+
+It seemed that virtue had its own reward. Wei and Rags fist bumped under the table. He wanted to be a better person, but one should also be happy when they receive a gift!
+
+“Now… do tell this old man, what are so many youths doing traveling together?”
+
+All of them turned to Xiulan. No less amused than any of the previous times they’d left her to explain it, she began to speak..
+
+=======================
+
+Gen Ten was in a good mood as he looked on at his kin and at the strange humans that were with them.
+
+Tigu and Yin were both sorting crystals with Huo Ten, Ye Ten, and Yu Ten. The big lad, Delun, had a pile of iron ore in front of him that he was bending and kneading with his bare hands, to apparently check its quality. Rags and Loud Boy were filling entire sacks with scrap crystal, the amusing scamps entirely too happy about the fact that Gen had told them they could take as much of that trash as they wanted. Xianghua was being used by the children as a tree, while the small boy, the Torrent Rider, had Pi Ten in his lap and was picking through his fur, while Do Ten beside him was grooming the boy’s shaggy white dog.
+
+And finally… finally, there was Cai Xiulan. Drinking tea with a serene smile on her face.
+
+“We will unite the sects of the Azure Hills. Unite them as they once were in the past, and put a halt to the meaningless bloodshed!” Cai Xiulan said, her eyes burning with passion and conviction.
+
+Gen Ten sighed. It was an utterly mad plan, and he hoped they wouldn’t get burned attempting to accomplish it.
+
+The old monkey shook his head and turned to the crystal in his hands. A gift he had never expected to receive. It was strange, to spend nearly a century looking for lore on your old masters… only to have it drop into your lap.
+
+He gave his thanks to the heavens as he dived into the crystal.
+
+And he saw.
+
+He saw it all. His Master’s Master, building a formation for an Emperor. His kin, at the height of their glory. The world as it was, before the Breaking.
+
+All his life he had searched for this knowledge, and now he had it.
+
+Gen Ten pulled back from the crystal and let out a breath.
+
+He had seen the works of the Ancestors and understood them. He had seen his kin, his clan, working hand in hand with humans and accomplishing wonders under an Azure Banner.
+
+And suddenly Cai Xiulan’s mad plan didn’t seem so mad after all.
+
+And with comprehension… came power.
+
+He felt it. A bottleneck that had been there for years strained and shattered like glass. With it, he could ascend to the Fifth Stage… no, to the Profound Realm.
+
+Yet Gen Ten, leader of the monkey clan, did not. He had seen the clan. He had seen them whole, all of them, rather than as pale shades barely hanging on through his power.
+
+His family, his clan… they would not be just pale shades.
+
+His power swelled within his body… and then flowed out into his connection with all of his kin.
+
+They went from less to more between one breath and the next.
+
+Their movements before their sparks had been awakened were ever so slightly unwieldy, their minds not fully able to handle such precision, lke they were not in full control of their actions. And though their eyes held a spark of intelligence, it was merely the intellect of a particularly smart animal.
+
+Now, they shone. They shone with emotion. With personality. With a spark of their own. Some looked a bit confused. Others didn’t notice. But the air was suddenly full of conversation. Of Spirit Beasts, near a hundred of them, talking, laughing, and going about their lives.
+
+‘So then I says, ‘Shu Ten, you little bastard, you took my peach!’ And then I bapped ‘em in the face with a pile of shit!’ Do Ten said as he groomed the dog. He gesticulated wildly to the boy beside him, whose eyes had gone wide.
+
+‘Yeah, right there girlie! You’re good at this! You want a job with ol’ Yu Ten?’ Yu Ten praised as he looked at a geode Yin had found.
+
+‘Look at the big one! He’d make a fine miner!’ Li Ten whispered to Nu Ten.
+
+‘Stop moonin’ over the big man, hun. I ken he's handsome, but it’ll never work.’
+
+Delun jumped in his seat and turned to look at the two monkeys that were gossiping in the corner. There was a complicated expression on his face, while Rags looked like he was struggling to hold in his laughter.
+
+‘Ooh. Feel like someone jus walked over me grave,’ Fu Ten said, her voice warm and matronly. She blinked at the teapot in her hands. ‘Oh. Oh my…”
+
+Gen felt tears collect in his eyes as he stared. Jin may have refused any kind of payment… but there was no way Gen wouldn’t figure out something to give back. He would definitely be coming for dinner…
+
+Because on that night, over a hundred monkeys became Spirit Beasts.
+
+=====================================
+
+Xiulan and all her companions had a spring in their step as they marched along the road and away from the Crystal Hill. The feast yesterday had been something… something indescribable. Like something out of the old tales, as an entire clan of Spirit Beasts showed them their hospitality.
+
+And how Master Gen had stood up and proclaimed something that had shocked her.
+
+“We, the Crystal Hill, shall stand behind you! All the wealth in this mountain can be used for your cause, Cai Xiulan! Our mountain and its wards will be your fortress in times of need—and I shall speak with our friends at Mengde’s. I have little doubt that the Crystal Emporium shall support this endeavor as well.”
+
+She hadn’t been expecting them to pledge their assistance. But they had… and all of a sudden Xiulan had felt extremely foolish.
+
+For all her talk of uniting the Hills, all of her thoughts had been on the human component, the sects. And yet… the Azure Hills once named Spirit Beasts among their number as equals. Ruimblin’ Yao, the Queen of the Forest, the Antidote Serpents, the Blade Wolves… and the Monkey Clans. All of them, together, formed the Azure Hills. She did not know if they could be reasoned with any more. She did not know if they would be open to dialogue. But she was already attempting one impossible task.
+
+Why not attempt another?
+
+With new resolve, she faced the coming days and let out a breath before turning to her companions, who were similarly in a good mood.
+
+All except one.
+
+“What troubles you, Xianghua?”
+
+“The monkeys beat me to it,” she said, irritated.
+
+“I beg your pardon?”
+
+“The Misty Lake Sect was supposed to be the first to aid our cause!” Xianghua snapped.
+
+Xiulan chuckled. “I wasn’t expecting your entire Sect, Xianghua; we were just supposed to—”
+
+“If we can’t be the first organization, then at the very least we’ll be the first human sect! That’s it! I’m taking over the position of Sectmaster, and then you are receiving the Sect’s full support!” Xianghua declared, her eyes blazing. “Even if I have to fight every Elder in a row to prove my worth!”
+
+Xiulan stared in shock at her friend’s declaration—and reminded herself that she was no less capable of being surprised.

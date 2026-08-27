@@ -1,0 +1,139 @@
+---
+id: 00d21b88-1ef1-5c87-89c6-0e6c96c12eff
+page-type-slug: story-chapter-royal-road
+title: "120. Mystery at Dawn"
+slug: 0120-120-mystery-at-dawn
+partOf: breaker-of-horizons
+position: 120
+ownLength: 2298
+unit: words
+publishedAt: 2021-06-24
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/704872/120-mystery-at-dawn"
+royalRoadId: "704872"
+---
+
+The night seemed to be filled with an oppressive gloom after dinner. Caden stood by himself for another hour or so after Ambrose exchanged words with him, then retreated back into the trailer without speaking with anyone else. They all heard the little shower being used, but after the water stopped running Caden did not emerge again. The conversation outside went through little fits and starts, meandering around mundane topics as everyone tried to ignore the pall that Lynus' faux pas had cast over the cosy dinner. After awhile, they all gave it up as a lost cause and simply lapsed into silence.
+
+After clearing everything up with Jerric's help, Devon was the first to retire inside. Caden was already seemingly asleep in his bunk, so Devon decided that he could check in with him another time. One by one, the others went inside and got themselves cleaned up. When Jerric was done, he did a quick check to make sure that everything was in place, and was surprised to find Emilia seated outside, her hair floating like ghostly tendrils around her as she dried them with arcana.
+
+"We should get some sleep," Jerric said, approaching her.
+
+Emilia nodded, though she made no move to rise and instead continued staring out into the silent night as her hair drifted serenely in the air. He could feel the gentle heat wafting off as a breeze swept across the empty lot.
+
+"Emilia?"
+
+"We should be taking watches," she murmured, adjusting herself a little in the portable chair so she could sit more comfortably.
+
+"You're right, I overlooked that." Jerric pursed his lips and let out a little huff of annoyance. He looked uncertainly at the trailer. "If we take 2-hour shifts, we only need four people. I guess I can prod Devon up later, but we need one more. Who should we get?"
+
+"Devon can make that choice after his shift," Emilia replied. She waved a hand in lazy dismissal. "I'll wake you later."
+
+Jerric nodded gratefully and went inside. The rest were little more than dark bundles huddled under blankets in their bunks. As soon as Jerric's laid his head down, he drifted off into a deep sleep.
+
+"Gone? What do you mean gone?"
+
+It felt like only a second later. Jerric's eyes snapped open and he swung himself out of the bunk with a horrified gasp at the sunlight streaming in through the trailer windows. Kevan's cry of alarm had woken him, but the rest of what he was saying was drowned out as Caden's voice cut him off, sounding placatory. Kevan's response was a lot more muted, but there was still an undercurrent of panic.
+
+"Wuzzgoinon?" Devon mumbled sleepily, stirring in his bunk.
+
+Lynus had just sat up and was looking around blearily. Ambrose shifted a little, then pulled his pillow over his head to drown out the noise.
+
+Jerric stumbled out of the trailer and stared around wildly. Kevan was already hurrying over to the edge of the lot. In the light of the early morning sun, it looked a lot smaller than it did the night before. Caden cast a worried look in his direction and turned around just in time to see Jerric coming towards him.
+
+"Emilia?" Jerric asked, his voice strangled. "Missing?"
+
+Caden nodded and glanced distractedly at Kevan, who had just reached the treeline.
+
+"She was supposed to wake me! We were going to take turns to keep watch!" Jerric said, rushing over to where she had sat. Their little collection of portable chairs was untouched and Emilia's seat was exactly where he remembered it had been. It hadn't moved an inch.
+
+"I was the first to get up," Caden explained, keeping one eye on Kevan where he had stopped, and was now staring into the trees. "Didn't see her in her bunk, so I came out to look for her. When I didn't see any sign of her, I got Kevan out here, and I just told him."
+
+"What's he doing?" Jerric turned to look.
+
+"She's left a sort of... trail," Caden said.
+
+Jerric stared down at the asphalt, half-expecting to see a trail of blood. A moment later, Caden clarified, "In the arcana."
+
+Despite his general state of agitation, slipping into the arcanic sea was almost second nature to Jerric now. When he dipped his senses into it to try and spot the trail Caden had mentioned, he was momentarily taken aback by the latter's presence. It was recognisably the unchosen-sighted-{~?~}, but there was a new richness to it that he didn't know how to quantify. It was like eating milk chocolate all your life and then having your first taste of dark chocolate.
+
+Caden acknowledged the brief pause with a little pulse of his auric-ambient-flare, like someone doing an exaggerated spin to show off a new outfit before giving a sardonic wave.
+
+'Bigger problems at hand,' Caden sent, with a mental nod at something.
+
+Jerric shook himself, feeling a little embarrassed for 'staring' at Caden's auric-ambient-flare, and turned his attention to what Caden had indicated. If it hadn't been pointed out to him, Jerric might have failed to notice it entirely. There was the faintest ripple of something odd in the arcanic sea, like a little patch of warm water in an otherwise icy-cold flood. It was almost gone before he could properly mark it, but he jumped on the sensation and managed to pin it down.
+
+'What is this?'
+
+'Do you know it?'
+
+Jerric found himself 'staring' at Caden again for the second time in less than a minute. Caden's words were simple enough, but the depth of meaning that lurked behind the simple word 'know' he had used felt almost like a glyph, and Jerric was sure that he didn't understand even half of what Caden meant by using that term. He realised with a slight shudder that this felt a little like speaking to an augera.
+
+Caden seemed to notice and somehow understand what had just crossed Jerric's mind. There was a whiff of resignation, amusement, and sadness coming from Caden. 'Sorry, I can probably try to explain this later. But right now... can you pick anything up from this?' His auric-ambient-flare shifted and indicated the nebulous 'trail' that Emilia had left.
+
+Jerric tried to focus on it and examine it more closely. He wasn't sure if it was his imagination filling in the gaps for him since he had been told this was Emilia's trail, but he thought he sensed a faint trace of her auric-ambient-flare about it.
+
+'I think it's her,' Jerric replied uncertainly. 'The brilliant-sighted-singer. But only parts of it are clear? No, not parts. More like... like echoes.'
+
+'Anything else?' Caden pressed, a little desperation coming through.
+
+Jerric's further attempts to glean more information fell short. He had no idea what else there was to pick up on, and why Caden, who was clearly operating on a totally different power level, was asking him about it.
+
+'Not parts,' Caden murmured to himself, seeming a little reassured. 'Only echoes.'
+
+'Will you explain what's going on?' Jerric demanded.
+
+In lieu of an answer, Caden enveloped Jerric's consciousness for a brief instant. It happened so quickly that Jerric didn't even have time to shrink back or muster any sort of response to what felt like a sudden and unprovoked attack. Before he knew it, his senses weren't anywhere near his auric-ambient-flare. His mental anchorpoint was now right next to Kevan's auric-ambient-flare, with Caden's consciousness bobbing alongside them both.
+
+'— the hell?' Jerric blurted, flailing around in panic, completely disorientated.
+
+'Stop that!' Kevan barked, though his communication was clean and totally devoid of any emotional bleed. 'You're messing up the trail!'
+
+Jerric righted himself and stilled his mind. The perturbations he had been putting out settled. A little mote of apology from Caden, tightly-focused, made contact with Jerric, before directing his attention to the arcana in the vicinity.
+
+Here at the treeline, the trail was a lot stronger. Jerric was sure now that it really was Emilia, though he had never seen auric-ambient-flares leaving any line of residue in the arcana like this before. He had no idea if it was something done intentionally or not.
+
+'I found this trail,' Caden explained. 'Never seen anything like it before. Kevan couldn't pick it up until I put him on it, and he rushed off to follow it.'
+
+'Why didn't you keep going?' Jerric asked, directing this to Kevan. The trail was so much clearer here than it had been by the chair that he could tell his earlier assessment had been accurate. These were not pieces of an auric-ambient-flare torn off from the main mass. They were echoes, or something akin to footprints in the arcana. It was still faint, but clearly leading deeper into the woods.
+
+'It could be a trap of some sort,' Kevan replied. A hint of worry bled through before he reasserted his completely disciplined hold on his auric-ambient-flare. 'The arcana feels different beyond the treeline. I don't know how to explain it.'
+
+'It's an area of overlap in the coverage of a Spire,' Jerric realised, recalling his maps of the Spires in the Empire back when they had made plans to look for a wild augera. 'I need to check to be sure, but if memory serves, we should be reaching the place where the Geldor Spire's coverage meets with the Hanafast one. The road should bring us straight through it eventually, but then we'll come out of it and be firmly back in the Geldor's Spire's range.'
+
+'That's it?' Kevan asked. 'Nothing dangerous?'
+
+Jerric drifted forwards a little so he could taste the arcana more acutely. The moment of transition wasn't a clear line in the arcana — it was more like slowly noticing smells. Like he had been smelling roses for so long that it had become just a background smell, and he only just noticed it again because it was now blending in interesting ways with a new scent on the wind.
+
+'Yes,' he answered, though not really confidently. Though he had read about this, experiencing it for oneself in the field for the first time did leave some room for doubt.
+
+But it was enough. Without another word, Kevan dashed off into the woods, following the trail in the arcana. Caden called out, but before long Kevan was hidden from sight by the press of trees.
+
+"Shit," Caden cursed, and Jerric's attention was sharply shifted back to where the two of them were standing by the trailer as he was dragged out of the arcana, like he had been caught in the slipstream of something moving really quickly.
+
+"What the hell is going on?" Jerric gasped out, reeling a little from the sudden return. He stared after Caden, who was hurrying over to the trailer. By now, Devon had stumbled out of it, and he gaped in surprise and confusion as Caden passed him and hopped inside.
+
+"Ly! Kevan needs your help! Emilia's gone!" Caden's raised voice was accompanied by the sound of rapid footsteps that made the trailer wobble a little. A moment later, Jerric jumped when Caden called out again. "Jerric! Where are the wings?"
+
+Jerric hurried inside to find Lynus in a state of confusion and alarm. Caden still hadn't stopped to explain anything else, and was instead rummaging wildly through the various boxes.
+
+"What's happening?" Lynus demanded. "Damnit, Caden, stop for a second and tell us what's going on!"
+
+"I don't know, but I think Emilia's in some sort of trouble and she left that trail intentionally," Caden said distractedly, still searching for the wings.
+
+"Here, here." Jerric finally darted forwards and pushed him aside. He worked a few boxes free and started extracting a few cases that had been buried beneath the mass.
+
+"Just Ly and me. We'll take two more sets for Kevan and Emilia," Caden said, grabbing them and hurrying outside.
+
+"What?" Jerric followed him out. "What about the rest of us?"
+
+"Can't abandon the trailer," Caden answered tersely, opening one of the cases and taking out the harness. He quickly shrugged it on and started securing the various clasps. Next to him, Lynus was also getting himself into a harness. "Also, those necklaces we've got for personal protection? Start keying yourselves to them. Should've done all this last night." He cursed under his breath as he struggled a little with one of the clasps.
+
+"Will you guys be alright?" Devon asked, looking on fearfully.
+
+"We'll be fine," Caden said, looking up and giving a brief, reassuring smile. "But better assume that we'll have to make a quick departure once we get back with Emilia. So load up, make sure we've got shield sequences in place, and get ready to bolt."
+
+"I'm ready," Lynus said, and with a flick of his wrist, a small control sphere manifested in his palm. It was far more intricate than the usual type that was used to manipulate common household artefacts or sequences, but after a few experimental tugs, the harness thrummed and encapsulated him in a sheath of arcana which lifted him several feet off the ground.
+
+As soon as Caden clicked the last buckle into place he was similarly borne aloft, though Jerric noticed that he hadn't bothered to even bring up the control sphere. But before anyone could remark on that, Caden nodded to Lynus and hurtled through the air towards the woods. Lynus dithered for a second as he sorted through the control sphere's functions, then followed in Caden's wake.
+
+Jerric hastened back to the trailer to find the necklaces, but when he turned, he saw Ambrose standing at the door with a look of absolute horror on his face as he stared at the rapidly-receeding forms of Caden and Lynus.

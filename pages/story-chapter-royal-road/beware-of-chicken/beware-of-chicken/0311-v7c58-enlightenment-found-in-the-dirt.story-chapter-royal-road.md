@@ -1,0 +1,125 @@
+---
+id: 6ea1d64c-bc0d-5a11-97ea-db452ceae8bd
+page-type-slug: story-chapter-royal-road
+title: "v7c58: Enlightenment Found in the Dirt"
+slug: 0311-v7c58-enlightenment-found-in-the-dirt
+partOf: beware-of-chicken
+position: 311
+ownLength: 1958
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3421078/v7c58-enlightenment-found-in-the-dirt"
+royalRoadId: "3421078"
+---
+
+The tournament turned out to be surprisingly good fun; I had never been an MMA guy much in the Before, but who didn’t like seeing super-powered warriors facing off against each other? Instead of twenty minutes of sweaty men rolling around on the floor and hugging each other, it was a fast-paced dance of strength, speed, and skill, with the occasional blast of elemental power roaring across the arena. It was like one of those cultivation novels I had loved come to life… and it was awesome. In addition to that, it was a tournament where nothing went wrong. A miracle! It went super smoothly, and everyone had a good time!
+
+I could tell Mei had really enjoyed it too. Hopefully next time the box really would actually be a private one; I could tell she wanted to shout at the competitors and get into it,instead of holding herself back.
+
+It actually made me sad I had missed Tigu’s debut tournament—but I made a promise to myself to see the next one.
+
+As for the winner, it had been pretty funny to see a sect openly using brooms. I had read a bunch of stories where a Hidden Master was disguised as a street sweeper outside a sect, watching over a Young Master or Mistress with some incredible bloodline as their protector. While it was kind of funny to me, Bai Ruyi obviously took her broom techniques extremely seriously—and who was I to judge? I was a farmer.
+
+Added to that, Xiulan had nothing but good things to say about the young woman—who had been a soft-spoken, kind woman even before they passed out the memory crystals.
+
+So while I didn’t think I had too many pointers to impart, I did think I had something that would help her out—and it would only add to “Master Rou’s” Hidden Masterness.
+
+======================
+
+Bai Ruyi was on top of the world. She had won. She had won! She had won and proven that their brooms were not just mere toys!
+
+It was only a small tournament, yes, but Master Rou had been in attendance… and more than that, he had been so pleased by their performance that he was adding to the prize pool!
+
+The entire arena held its breath as Master Rou descended. Bai Ruyi could only watch as he strode into the arena, a small smile on his face. His eyes were not cold and hard, but soft and full of warmth. His cultivation was titanic—so vast she could barely feel it, despite being within the very heart of his power.
+
+“You all fought well,” he praised, looking at each and every competitor. His voice was deep and resonant, yet so too was his voice soft. He had no need to shout, for it seemed like the world itself carried his voice. “I hope my gifts to all of you are useful—my good friend Wa Shi is getting the rice and Spiritual Herbs for you.”
+
+They could all see the sinuous form of Lord Wa Shi crossing the sky to retrieve Master Rou’s bounty.
+
+“We thank Master Rou for his benevolence!” Ruyi shouted, bowing along with the rest of her fellow competitors. She knew everyone else would be immensely jealous of what they received today—but they had all been drawn by random lot by Director Huizhong, and so luck would hopefully be blamed rather than anything else.
+
+“And I believe I owe you a pointer, Bai Ruyi. It is quite rare to see someone with such a cultivation artifact,” Master Rou continued, coming to stand before her.
+
+She instinctively looked up to meet his gaze. Master Rou was very tall. He felt even taller than that, a presence like the Dueling Peaks ascending to the heavens. And yet he was not shrouded in mist, like other large mountains. He was open, his eyes as warm as his voice, looking upon her like her grandfather did.
+
+And there was no dismissiveness at all in his voice. Nor any shred of incredulity that she was using a broom instead of something grander.
+
+She had faced that contempt so often recently that it was stranger to not have the person before her be confused or derisive. Her victory here would quell some voices, but… it was an acknowledgement from a Hidden Master. Master Rou saw nothing wrong with their Sect’s brooms! That meant that there was nothing wrong with them!
+
+“May I?” he asked, holding out his hand.
+
+At this, Ruyi paused. Her grip instinctively tightened on the artifact of her Sect. It was attuned to her Qi, recognising her as its master. It was nearly a Spiritual Weapon. She could sense the nascent soul within, ancient and cracked, and yet so happy to be used again. It liked her, and so far it had refused to be used by anybody else. Not even her father, who took the rejection with good humour.
+
+Yet Master Rou was a master among masters, and so she surrendered her partner. It fell into his hand, and she felt the broom’s nascent spirit swell with indignation—before his own Qi touched it. And then, to her shock, the artifact immediately relaxed. It surrendered itself, bending to his will with what felt like a curtsey; like a maid welcoming home her rightful master.
+
+He did not bind it and yoke it to his will—there was no domination necessary. With a single touch, her artifact was obedient and mild. His control of his Qi must be so utterly sublime, since it took only a touch!
+
+“A fine artifact. Impeccable craftsmanship,” he said, nodding at the ancient artifact in his hands, before he looked at her. “The broom is underestimated. Disregarded. And yet sometimes, that is the whole point.”
+
+He shifted. The broom’s head was pointed to the ground, and the dust and dirt at his feet swirled.
+
+Ruyi was instantly stunned. She was still adapting, still trying to mesh the proper techniques with the spear style she had been using most of her life, but it was slow going. Her broom was now her weapon, and she still found herself thrusting or striking with it like it had a blade instead of bristles.
+
+…and she hadn’t actually ever even held a broom before she viewed the memory crystal. The broom had been for servants—and it wasn’t like they would have allowed her to sweep anyway, before the crystal. The servants, the aunties and uncles and grannies and grandpas, said it was their job to do the little things, so she could do the big things. She had taken their words to heart, and had done her best to be a good Young Mistress. While she was no Cai Xiulan, hero of the entire province… she liked to think she had done a good job. But it had made the transition a bit difficult, at times.
+
+Master Rou had no such problems. He moved the broom with such sublime and easy grace it was like watching her ancestors in the memory crystal all over again. His hips. His shoulders. This ancient and powerful lord… he knew how to sweep. The broom was an old and familiar friend in his hands.
+
+Everyone else in the stands was looking at them, their eyes straining, trying to catch a glimpse of the profound wisdom he was surely trying to impart into her.
+
+Master Rou flicked her broom, and in the center of a perfectly clean circle formed a single word in wonderful, beautiful calligraphy.
+
+Victory.
+
+It was a bold character, and her cheeks flushed as a Master wrote that for her… yet she had only a brief second to admire the lines, for Master Rou swirled the broom again. He erased victory, and her eyes widened as it was replaced with Defeat. Its hard lines pierced her, but it was not a rebuke—it seemed almost like a warning? No, a fact of life, and it had been made out of the same dirt as victory.
+
+There was a lesson here, an absolutely profound one, and she was so honoured that a Master of the Cloudy Sword Sect was giving it to her!
+
+But then, too, was defeat erased; erased, and in its place, was Everything.
+
+And then, with another flick of his broom, there was Nothing. Unlike all the other characters, which were composed of piled dirt, this one was composed of the absence of dirt.
+
+And then nothing was gone too—and in its place, was Cultivation.
+
+The broom swirled one final time, and so too cultivation was gone,replaced by a taijitu. The symbol of the dao and of balance stared at her.
+
+Victory, defeat, everything, and nothing. It was all connected. Everything, the victory today, the defeat tomorrow, the everything she wanted, and the ‘nothing’ she had—it was all the path of cultivation, on an endless cycle. The good and the bad, the darkness and the light. The ridicule of their brooms that had made her strive all the harder, which culminated in this victory—
+
+It was all a part of ‘life’. A cycle. The world itself was the floor—and the one who wielded the broom decided if it was dirty, or if it was clean.
+
+Ruyi felt tears form in her eyes, that she could stand in the presence of this Master and have his wisdom bestowed upon her.
+
+==================
+
+I stared with pride at the taijitu I had made. Like riding a bike, you never forget it, I guess. This one was always the hardest to make look good, but the Taijitu formed just how I wanted it. Empty, with a full dot. Full, with an empty dot. Gramps had made me practise the damn things for hours, and it had been a really fun little blast from the past.
+
+It kind of made me forget that I was once again the center of attention for like a thousand people, but that was getting easier and easier the more it happened.
+
+The dirt and dust settled, and Ruyi just stared at the design. What I was trying to get was what I had told Xiulan, that everything was connected, and I hoped I hadn’t just screwed myself in front of everyone here by trying to be too profound… but it had been fun.
+
+I looked at the woman for a moment, because she seemed a bit out of it, but just when I was about to prod her, I felt her Qi erupt off her, her eyes blazing.
+
+“This Bai Ruyi thanks Master Rou for this enlightenment!” she shouted, bowing deeply.
+
+…okay, that was way bigger of a reaction than I was expecting.
+
+People in the audience immediately began to speak amongst themselves.
+
+“Damn, I didn’t get it, my comprehension is lacking!” somebody said, genuinely distraught.
+
+“I will have to meditate upon this! It surely had a profound meaning!”
+
+“Such wonderful calligraphy, yet made of dirt, and destroyed without hesitation,” somebody else muttered.
+
+“That must be it! ‘Do everything with perfection, even the least things; and in making things perfect, even the least things become sublime!’”
+
+Several people turned to that person with considering eyes, nodding at their deduction.
+
+…man, was I actually really good at this whole Hidden Master thing?
+
+I let out a little chuckle and handed her broom back to her. “As I expected. A truly fine broom. Should you ever recover how they were made… I would not mind having one.”
+
+“Yes, Master Rou!” she said, bowing again.
+
+…okay, I had to check myself before I got a big ego about this, because playing Hidden Master was entirely too much fun!
+
+Washy returned shortly thereafter, and we distributed the extra prizes—and then, we were off to the Verdant Blade Sect manor in the town for tea.

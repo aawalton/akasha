@@ -1,0 +1,409 @@
+---
+id: 133f6011-c885-5f48-abd3-3d1fb715dd95
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Chapter 19 - Interlude – Avyna – Ambition’s End"
+slug: 0076-book-5-chapter-19-interlude-avyna-ambitions-end
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 76
+ownLength: 8292
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/3455191/book-5-chapter-19-interlude-avyna-ambitions-end"
+royalRoadId: "3455191"
+---
+
+She was screaming, but it had less to do with her injury than one might expect. Of course, having a sickle buried in the flesh of her shoulder and the quite unwelcome sensation of being pulled through the air from that point hurt. Prisms, Avyna had lived a very long time without encountering an agony that could directly compare! Her scream may have been born from pain, but it was her terror that kept it going.
+
+Ripping someone forcefully out of a Spatial Skill was dangerous. The attack had destabilized her Skill, and it was nothing more than a fluke of luck that she was pulled through the breach before her Skill wholly collapsed. Such reckless actions frequently resulted in the death of Spatial users and/or those that pursued them—a closing Spatial rift could sunder even the most vital of elves.
+
+It wasn’t even necessary! Had whatever facetless fool just made it clear that they knew she was there and could reach her, she would have emerged on her own. Instead, she went through one of the most needlessly terrifying experiences she could imagine. Even once she landed hard on her rear, she still struggled to refocus on the moment.
+
+At least the impact dislodged the sickle. Thank the spires for small mercies.
+
+Deprived of dignity, Avyna clutched her wound to staunch the flow of her blood as best she could, while she absorbed the situation. Though there was little need to take more than a single glance at the vicinity. She was surrounded by combat-tagged elves and the corpses of her former protective escort. Given the lack of Mist in the air and the levels on the few she had time to check, they were presumably Hunters or Elf Hunters.
+
+For a precious moment, Avyna allowed herself to indulge in her frustration. Not only had one of the too-young killers nearly brought her to a grisly end through an act of grandstanding incompetence, but the mere fact that she had been caught was quite beyond merely infuriating! For centuries she had planned contingencies, established and obfuscated routes, and made arrangements to render her movements as difficult to predict as possible. Even if the Tympestshard Council’s limited forces that could be activated in the region happened to go after her wagon, they should have followed the main road leading to the east. The game trail she was on led to a seldom used crossing point with precious little in the area.
+
+The useless route was the entire reason why she had a second wagon—a smaller one, disassembled and buried alongside a Skill gem that would make it self-propel for a time—waiting in the woods, a short distance from where she ended up ambushed. She had been so close to escaping. She had worked so hard to make what had undeniably happened as unlikely as possible. She had been so confident—so proud of her own cleverness.
+
+And it was all for nothing. A bit of luck (or, perhaps, a tracking Skill that exceeded anything she knew to exist) was all that it took to unmake a lifetime of diligence and risk-taking. Unfortunately, the reality of the situation was that Avyna had been caught; there was nothing she could do to undo that truth. She had a few Skill gems and other surprises, true, but none of them were likely to allow her to escape such a large crowd.
+
+She still considered it, just for a moment. Yet the idea of ending young lives, just to struggle against what was likely inevitable, felt utterly repugnant. She had done many terrible things throughout her life, but at the end, she found her line in the proverbial sand: she refused to cut so many young lives short. Death was so much more final than most elves seemed to realize. Her sister would never forgive her for selfishly removing the boundless potential of youth from the world. Besides, she had a better use for her undesired audience.
+
+If her efforts must come to naught, she might as well do what she could to plant seeds of doubt within their hearts. The absence of Wardens was both a boon and a bane, though she knew better than most just how impressionable young minds could be. Her final words could become a long-term poison that led others to rebel against the Unchanging Council in the future. Such a thing was hardly comparable to the blow that she had hoped to inflict, yet she was left with no other productive option.
+
+“<I…>” Grimy Gemstones! Reason and logic were all well and good, but her emotions had a firm grasp on her tongue. The piteous sound she made was barely even coherent!
+
+Not that it mattered. One of the elves before her had been shoving his way forward and, just as she made her attempt to speak, he began his charge. He raised his blade of crimson crystal over his head, though Avyna’s gaze was drawn down to the brazen greed blazing in his eyes. He saw her as little more than a bounty, or, perhaps, he saw her level and desired to claim his pittance of the wealth of experience that she carried. The reasons were somewhat irrelevant. She had seen enough to know that his intent was genuine.
+
+She was moments from death, unable to speak, and unwilling to defend herself. Given his speed, his class qualities were likely atrocious. Had she possessed the inclination, she likely could have evaded the coming blow. But she had failed in every conceivable way. Well over a thousand and twenty-four years of effort and misery were moments away from being undone. She had promised herself that, were she caught, she would hold her head up high and face her death with a smile on her face and poison on her lips. But none of that had worked out.
+
+She was terrified. And from the way he held his blade, it was clear that he had no intention of even granting her a clean decapitation—he intended to split her skull like a melon.
+
+It is what I deserve. The bitter thought echoed through her mind as Avyna closed her eyes. She had failed to say the words that she needed to. But if there was any kindness left in the world, her death would be the end of it and Caeli would be left alone to live the life she wished. Through the terror, Avyna reached for a memory of Caelillia. One last time.
+
+But the face that she imagined was not that of her daughter. Instead, [Chest of Experience] provided her with a final source of guilt. Ranthia… Prisms, she would never be able to apologize for her deception. I am sorry, my love. You deserved so much more than my cruelty.
+
+She could almost imagine Ranthia’s voice, refusing to accept the apology.
+
+“No!”
+
+…Her imagination had never been quite that vivid!
+
+Avyna opened her eyes to a surreal world, a nightmare so terrible that it could only be reality. Shards of rubies flew as Ranthia—impossibly real—parried his sword with her Void-touched knife. Her stance was atrociously precarious, yet she still managed to catch herself with a single sandal-covered toe and pirouetted to deliver a surprisingly forceful kick to the flat of the elf’s blade that drove him back.
+
+She had improved, even if her level had changed far less than Avyna would have expected.
+
+“Wait! I know her! She’s not involved!” Ranthia shouted as she interposed herself between Avyna and the bulk of the elves. After a moment of hesitation, she used the back of her knife to lift the blindfold off of her eyes. Her gaze carried anger, yes, but desperation was just as obvious.
+
+But what was she even doing there? Even if she had made it to the City of the Arts, as Avyna had hoped, any forces from it should have gone south to counter one of the decoys that moved through that region! The odds of them reuniting at that moment—of all times—had to be ludicrous.
+
+For the first time, Avyna found herself convinced that there may be some degree of truth in her beloved’s belief that her Chaos deity had a hand in every coincidence.
+
+“She’s a [Merchant] with a Skill that allows her to enter a Spatial hideaway—one that’s tethered to her cargo so she might be able to recover it! It’s obvious that these orcs attacked and stole her cargo, forcing her to hide and hope for an opportunity to recover it and escape! So why the fuck are you attacking her?!” Ranthia directed her fury at the elf she had stopped.
+
+He was staring at his damaged blade. There was some sort of heavily enchanted wooden core at the heart of it, which had been gouged by Ranthia’s Void. From the angle, Avyna was unable to tell how bad the damage was, though his mounting anger was likely more important.
+
+Ranthia’s excuse sounded plausible, but there were obvious holes. Avyna’s [Hidden Hideaway] was a fixed location Skill, same as most Spatial abilities. She had been forced to stop the wagon before she could escape—lest she endured the mana costs and physical discomfort of being shunted because the wagon itself blocked her egress—and even then, it had likely moved forward further since she had. The exit point would not have matched Ranthia’s description. And she should have known better! It had been a number of years since they shared Skillsets, true, but Avyna found herself disappointed by her former partner’s flawed recollection.
+
+Still, she needed to shut Ranthia up before the wonderful woman managed to draw suspicion on herself. Had the Wardens been the ones to catch her, Avyna would have been given an opportunity to boast about her accomplishments and plot—which would have removed the need for any follow-up investigation once she was executed. Avyna appreciated what Ranthia was trying to do, she truly did, but her fate had been sealed from the moment she had been caught.
+
+And there was no way that she was going to allow the woman she loved to perish for her crimes. She just needed to compose the words in her head—in Creation, by unfortunate necessity—that would make it clear that Ranthia had been ignorant despite their prior connection. Actually, the presence of her beloved was a boon in some ways.
+
+If anyone deserved to harvest whatever merit the System decreed Avyna’s life was worth, it was the woman that she loved. It was a pale form of atonement that would undoubtedly hurt Ranthia for a time, but she was so wonderfully strong—Avyna knew that her beloved would recover with time. It would also grant her an opportunity to wound the pride of the callous youths by proclaiming that a human was the only person that could be trusted to grant her a clean death.
+
+The words were imperfect, but Avyna was on something of a time limit. Just before Ranthia could begin to speak again, Avyna hurriedly sought her former partner’s gaze. It was a struggle to keep from trembling as she tried her best to silently beg Ranthia to stop with nothing except her eyes. To communicate to the woman that she had cherished the depth of her guilt. She was unable to say the words, yet she needed Ranthia to understand the truth.
+
+I am unworthy of your protection, my love.
+
+Condemnation should have followed—assuming Avyna was successful in conveying what she needed to. They had established great rapport in the past, but Ranthia was likely still of the mortal mindset that the four years they had spent apart was somehow a significant stretch of time.
+
+And yet, Ranthia’s Void-touched eyes carried no condemnation. What they conveyed was significantly worse than that. There was no surprise. She knew—or, at the very least, she had pieced it together for herself in the moments since Avyna appeared before her. Prisms, she had always been surprisingly insightful in a crisis.
+
+Had they not fought side-by-side, Avyna might have missed the true weight that lurked within her beloved’s gaze. There was no surprise, no fear, and no joy in Ranthia’s expression. There was only a resigned acceptance, offered for the merest of instants, before her gaze moved back to the elves that partially surrounded them.
+
+Avyna had accepted that she would never walk away from the situation she found herself in. She had failed, and she was prepared to pay the price for that failure. She had, of course, hoped to succeed, but her role within the great machination had always demanded that she walked beneath Black Crow’s gaze. One did not steal goods guaranteed by the Unchanging Council itself without being prepared to lose her life in the attempt.
+
+That was why Avyna had done everything in her power to keep Ranthia from getting involved. Very early into their too-brief relationship, she had abandoned the idea of bringing the dazzling woman along. For a woman of not yet one hundred and twenty-eight years, Ranthia was a superb combatant, but she was also just one woman. Ranthia excelled at matching a single greater foe and, by necessity, she had developed experience with engaging against a large force of weaker adversaries.
+
+The situation they found themselves in was the worst possible scenario. In truth, Ranthia would be hard-pressed to match against any single elf that surrounded them. Yet there she was, preparing herself to face most, if not all of them.
+
+No!
+
+Avyna refused to allow such a travesty to happen. Ranthia should have never even been there, and there was no way she was going to let the amazing woman that won her heart to perish!
+
+The problem was, what could she do? Had she chosen to argue with Ranthia, she would have proven their connection and invited an attack. And even if she professed her guilt, she knew in her heart that Ranthia would fight to protect her until they both succumbed to the fury of the Hunters and Elf Hunters. And while Avyna was a fast thinker, she was out of time.
+
+There was only one possible path forward. It was narrow. It was horrendously unlikely to work.
+
+Avyna just had to set aside her pride.
+
+“<I am no orc!> I…” Avyna’s voice remained feeble as she struggled to speak.
+
+The majority of her life had been dedicated to a single role. Everything she had become had been achieved as part of her pursuits within the great machination. Only a [Merchant] could win the Ilan family’s trust and become empowered by them to manage the finances and logistics for their elite crop. Hundreds of years of labor were required to perfect the next generation variety of their nation’s beloved fruit, which culminated in a newly established farm. Each time the new generation of the crop was ready, a new farm would be established, and a [Merchant] would be chosen to transport the saplings and guide the new farm.
+
+Any elf would brag about all that they achieved and sacrificed. Final confessions were a time-honored tradition amongst the elves. After all, what elf could make an effort that few—if any—others had matched without a whit of pride in what they achieved? They had done something, and by the spires, they wanted the world to know it! Few crimes within the Tympestshard Council’s territory went unnoticed. More than a few serial thieves even started leaving calling cards or providing advanced notice to satisfy their ego.
+
+All Avyna had to do was to set aside her pride. All she had to do was deny White Dove and her hateful curse. All she had to do was convince herself that the majority of her life had been meaningless. That a single human was more important than everything Avyna had ever sought to accomplish.
+
+…And Ranthia truly was. Avyna had struggled with the choice before, but as she knelt there, bleeding and facing death, the decision she had once made felt outright obscene. How could she have ever doubted her heart’s truest desire? How had she allowed her old pain to cloud her judgment so severely? How could spitting on the pride of a few exploitative elves possibly be worth so much?!
+
+Evi would have never made such a dubious decision.
+
+“There are other wagons, not just mine! Are the drivers I hired safe?!” Avyna looked to the other elves as she declared her innocence.
+
+After all, she wanted them to believe that she was a [Merchant] that had arranged for a phased caravan and ended up attacked. Of course she was concerned about the other wagons! She was financially responsible for their well-being, and she was a generally pleasant person to work for.
+
+As she hoped, many elves seemed to seriously consider her words. She had remained silent for longer than she would have preferred, but she was wounded and somewhat traumatized by Spatial recklessness. With her answering Ranthia’s impassioned words, it was enough to seed doubt in the hearts of some of those present. After all, most elves had some degree of aversion to killing their own.
+
+“Who cares?!”
+
+Most elves.
+
+“She can’t prove she wasn’t with the orcs. Besides, she was at the site of the recovered goods; she’s part of the bounty! And I’m not going to leave good gems on the table just because some hornless wannabe has a soft heart! Out of the way, fake Hunter!” The elf with the blade of conjured ruby shoved Ranthia forcibly out of his way, leveraging his superior strength, as he raised his sword.
+
+And that was the problem. Even if she was innocent and her Skills worked as Ranthia had claimed, Avyna had no means to prove anything that would convince those that would rather see her dead. And he was hardly the only one, few elves in the group had much control over their expressions—more than a few were openly doubtful of the truth that Ranthia had tried so hard to create. Worse, a handful wore their hostility openly.
+
+The elf with the highest level, at least among those present, stepped forward.
+
+“Hold on, we—” A path to peace.
+
+Offered too late.
+
+Ranthia had recovered her balance in an instant and came around in a beautifully executed spin. With needless force, she drove her knife through the side of Avyna’s would-be assailant’s skull.
+
+[*ting-a-ling* An ally in your party has finished off a [Exquisite Blade] (Gemstones, level 768), [Peerless Hunter] (Erosion, level 768), [Suave Self-Protector] (Mountain, level 505).]
+
+The elf stumbled. In one moment, his eyes were alight with avarice. In the next, life and light had already left him. His heavy blade fell from his hand, followed thereafter by the softer impact of his corpse.
+
+There were no other sounds in the vicinity, aside from the background noise of the woodlands they were surrounded by. For a precious moment, every single elf present seemed to be frozen in shock. Ranthia’s expression registered a worrying blend of regret and calm acceptance.
+
+Desperately, in that infinitesimal space, Avyna sought some path forward. Anger, followed by violent retribution was the most likely outcome; and Avyna refused to let Ranthia die. Not for her sins. Yet she had no answers. Perhaps only the creator gods could stop what was to come.
+
+“That loathsome fool! He always acted without thinking. A foolish act begets a foolish end.” The girl that had been eyeing Ranthia with unmasked pity spoke up, just before her peers could rile themselves into a frenzy.
+
+By the prisms, it worked. Many of the elves shed their anger and nodded in agreement! The high-level elf looked displeased, though there were no longer enough elves masked with fury to matter. Any call for retribution was unlikely to succeed.
+
+Avyna started to relax her shoulders, only to invite a spike of pain from her wound. She was far from safe, and the situation remained quite fraught. However, if calmer heads prevailed, there was a chance that she could talk her way out. She may have become a [Merchant] out of strategic necessity, but she found herself genuinely well-suited to the career. She was confident in her own prowess for negotiations, to say the least. So long as the Wardens or the Unchanging Council found no need to fully investigate her, she could keep both Caeli and her beloved safe. She had a chance at happiness. A chance to start over.
+
+“Oh, I agree, he was incredibly foolish.” A young elf, carrying a sickle-and-chain—with blood still dripping from the sickle—projected his voice as he stepped forward. “Why would anyone give the slightest damn about the difference of a couple of paltry gems? My friends, the ignorance of those who proclaim themselves our betters—the elders that remain as inflexible as quartz—have given us an opportunity to make ourselves wealthy with a mere moment of work.”
+
+The grandstanding fool spread his arms like a peacock fanning its tail. The momentary pause was offered only to allay his own ego—he spent it glancing about to make sure all eyes were on him. With that, he spoke quickly, counting on his audience to have the stats necessary to follow his words.
+
+“We have a cargo that is of interest to the Unchanging Council itself. Who gives a damn if the pretty idiot was stealing it or unable to protect herself from a few filthy orcs? We just slit her throat, kill whatever the fuck that thing shielding her is, and bash in the skull of our hapless supervisor,” he turned to point his pinkies at a mounted elf that was approaching, “with an orc’s weapon and we all get to live it up! ‘Alas, so tragic, the orcs slew our valiant guide and set everything on fire before we could retrieve it!’”
+
+Grimy gemstones! Before Avyna’s eyes, lines were drawn.
+
+“As if I’m going to let you do that? Come on now, Ryondin. You know better than that, no matter what you call yourself.” The highest-level elf—inasmuch as level 1024 was somehow noteworthy—stepped toward the youth, cracking his knuckles.
+
+Quite a few elves stepped back hesitantly.
+
+“Aegiomus is far weaker than he pretends to be. Come at him from all sides, and his mana will last what, twenty seconds now?” A cape-wearing woman stepped next to the sickle-wielder, lazily pointing her curved sword at the elf.
+
+“Something like that, but hey, twenty seconds is plenty of time to rip a couple of troublemakers into pieces.” The dubiously strong elf cracked his neck.
+
+“So, what will it be, friends? Will you wallow in mediocrity under the thumbs of those that think themselves special? Or shall we kill a few assholes and split the bounty that they have so generously given us?!” The sickle-wielder sneered as he began to spin his weapon.
+
+Uncertainty reigned. Greed and the comfort of what had been established warred in the hearts of elves. Unfortunately, those that became Hunters seldom chose their career out of a fondness for the normalcy of their environment.
+
+“Get cracked, Aegiomus! I’m sick of acting like you’re somehow superior just because you cycle a class tier ahead of the rest of us! You don’t speak for us, and that monster isn’t here to stick up for you!”
+
+A spike of conjured metal flew from a nondescript elf near the back. Aegiomus—the highest-level elf present—raised an arm as shimmering energy formed over it. The projectile deflected off his Skill and flew into a different crowd of elves. A wet, tearing sound was promptly followed by a cry of outraged pain.
+
+The possibility of peace died as Skills, battle cries, and long-suppressed grudges roared into existence. Prisms, Avyna had specifically chosen to pursue a path that would avoid spilling the blood of the young, and yet…!
+
+“<Gemheart, run. I’ll be right behind you, but you have to get clear of this. Just let me get Anthelleon.>” Ranthia whispered in nigh-flawless High Elvish as she stepped fully in front of Avyna.
+
+It was valid advice. If Avyna stayed—or worse, fought—she would only draw more ire toward Ranthia. Yet she still hesitated. The situation was volatile, but if this Aegiomus could crush the main provocateurs quickly enough there was some hope…
+
+Naturally, he was pinned down between six other elves. A quick peek around Ranthia revealed that his shimmering energy had covered his entire body—and lifted him into the air as though he was several times his actual size—as he defended himself against his assailants and tried to shout them down. As for the largest two problems…
+
+Ranthia began to dance in place as she deflected a sickle. The girl-elf—presumably Anthelleon—projected a sheet of Brilliance to block his follow-up, but the woman provocateur launched herself forward. Wind and energy streamed from her feet and back as she vaulted over the projected barrier. A moment later, Ranthia danced to Avyna’s side as she tried to bleed the momentum she absorbed. Sparks flew through the air as elven steel forcibly met adamantium. Ranthia’s counter-attack forced her adversary to launch herself backwards, buying a precious moment while she came around to try again.
+
+“<Go!>” Ranthia shouted her order, as she danced toward her opponent.
+
+Avyna found her feet and activated her Spatial storage to retrieve her bow and arrows. …Only to find herself empty-handed. Whatever disruption the facetless fool had inflicted on her [Hidden Hideaway] had completely made a mess of her [Spatial Safe Box]! The items were there—they had to be—but she no longer knew where any item was, which prevented her from summoning specific implements.
+
+She had nothing to contribute. Knife-work or hand-to-hand had never been her forte. She had experience with them, of course—she had competence. But mere competence was no match for [Warriors] and [Mages], especially when she had no meaningful defensive Skills to back them up.
+
+“<Be careful, my love.>” Avyna whispered her plea out loud. And with that, she turned away from the conflict and began to run, hating herself with every step she took. She had acted to weaken the grip the Unchanging Council had on the world, yet children—elves approximately her daughter’s age—were the ones that would die for it.
+
+She truly was a failure. Her hopes, both those she had carried for much of her life and the naïve dreams she tried to seize before everything shattered, were truly as poisonous as any venom. The truth had never changed, no matter how much time passed: Pallos would have been a better place had she died instead of Evi.
+
+Avyna fled into the woods, haunted by the sounds of the ongoing conflict. Lacking a better destination, she ran toward the disassembled cart she had hidden away. There was no time to retrieve or assemble it, but it was the area she knew best.
+
+Avyna had no classes intended for combat, but she was still an elf—and her class qualities were much higher than any idle child’s. Speed was the least of her stats, yet the woodlands still blurred around her as she rushed for a modicum of safety, embroiled in regret. She was confident that no pursuer could possibly catch up.
+
+She remained confident up until the very moment a sickle once again tore its way into her same shoulder.
+
+Intentionally, Avyna diverted her path to the nearest tree to keep the sickle from ripping its way back out of her shoulder. She was already hurt; her options narrowed considerably if she entirely lost the ability to use her arm. Instead, she bled as much momentum as she could, then embraced the tree to transfer what remained.
+
+“Thought you could get away from an Elf Hunter? It’s always a shame to ruin a pretty face, but hey, I knew what the job entailed before I ever took it.” His tone and expression certainly disagreed with his words. The unpolished brute was aglow with untoward excitement.
+
+“I… had hoped.” She struggled to keep her pain from coloring her words.
+
+“Before you die, tell me the truth. What wonderful prize are we getting out of this and why did you steal it?” The child acted confident, though it was quite obvious that he was doing his best to buy as much time as he could. Whether he was awaiting his partner or just hoping to avoid the main melee was irrelevant.
+
+After all, Avyna was confident that the woman she loved would save her. If the child wished to buy time, she intended to play along.
+
+“Why would I answer? You shall find out soon enough if any of this was worthy of the choices you have already made. Even if I told you that the contents are worthless, it is not as if you could undo what has been written.” Avyna turned her nose up in disdain.
+
+In retribution, the child flicked his chain. An instant later, the sickle tore free of her shoulder with far more force than the minor movement should have allowed. Stubborn or not, there was little that she could do to stifle the pained cry that slipped between her gritted teeth.
+
+“And your guilt?” He mocked her suffering.
+
+“I… stole nothing. I was attacked.” Avyna hissed her answer through her teeth.
+
+The lie had to become the truth. The child had chosen to flirt with Black Crow, but Avyna denied him all the same.
+
+“Bad luck then. Well, I suppose we’ll see if you change your tune while I cut supple meat off your bones.” The beaming child approached her. His expression and gait suggested an easy confidence, yet he never lowered his guard.
+
+Again and again, Avyna tried to retrieve items that might be of assistance. She sought Skill gems that might protect her. She sought her bow. Nothing was where it should have been within her storage space. She could have manifested her entire storage in a mess, though she was more likely to arm her adversary than herself—and drain much of her mana in the process.
+
+“Just to give you a little incentive to behave.” The child produced a bottle from his own Spatial storage and poured its contents over the sickle. “I’m told this blend of toxins is exquisitely agonizing—and it’s quite fatal too. The last time I used it, my quarry screamed for just a dozen seconds before she died. So maybe let me take my time.”
+
+He produced a serrated knife to replace the bottle.
+
+Avyna had her own knife hidden in her cinch, but it would do her no good. As much as she hated it, her best choice was to take his abuse. At least until he relaxed his guard.
+
+Besides, she fully believed that Ranthia would save her before she suffered too much in his hands.
+
+The child menaced her with his sickle as he got within reach of her.
+
+She had faith.
+
+He raised his knife with sadistic glee.
+
+She was unafraid.
+
+The knife descended, aimed to split the layers of her garment down her front.
+
+And Avyna’s trust was rewarded. Another knife flew in, faster than the child could react. It struck the blade of his knife with enough force to wrench it out of his grasp. And both weapons tumbled through the air, beyond reach.
+
+“Get away from her.” Ranthia’s face was twisted into a furious snarl as she advanced. Her blindfold was back in place and blood covered the front and side of her armor, but she seemed no worse for wear.
+
+“Impossible! That stupid elf got intercepted—Rogue Wind should have split you in half!” The child shrieked with his paltry fury as he slipped beside Avyna and pressed his sickle against her throat.
+
+He was still wary of her, so Avyna continued to play the part of a meek victim. Unfortunately, the situation left her no space to ask if the woman truly used such an immature title in lieu of her name.
+
+“She’s dead.” Ranthia ground the words out, gesturing to the blood on her armor with her half-formed spare knife.
+
+“No way! She’s killed dozens of people! She wouldn’t have lost!” His composure fractured like cheap crystal.
+
+“Do you have any idea just how few that is?!” Ranthia snapped in retaliation. “I probably passed that number when I was still a kid.”
+
+The child holding Avyna hostage trembled at the words, until he blustered his way through their effect.
+
+“Liar!” The word was spat with juvenile petulance. “But don’t come any closer! See the poison dripping off my sickle?! I can kill her with the barest touch of her neck!”
+
+The child hurriedly adjusted how he held his weapon, to keep the sloppily applied poison from running into her open wounds. In the process, he interposed Avyna between Ranthia and himself, then held his free hand up.
+
+A large gemstone appeared—a strange one. Avyna activated [Spatial Peek] to adjust her point of view so she could study it more closely. At a glance, it appeared to be high-quality cinnabar with an odd occlusion at its core. But between [Spatial Peek] and [Emerald Eyes of the Trader], she was convinced of a far less likely truth. The composite gemstone was comprised of cinnabar wrapped around olivine—and there were Skills stored in each. The combined stone was almost the size of the child’s head, which promised substantial amounts of mana had been invested into the gemstone.
+
+Not that Avyna could even begin to explain how it existed. As far as she knew, there was no way to store Skills inside anything except the purest of gems. Whoever was responsible either had a level sufficient to deny the laws of reality or was a true visionary, one that was wasted on providing deadly baubles to children.
+
+“See this?! A bit of mana and we’re all dead. You, me, your pretty elf here—we’ll be nothing but ashes!” Alas, he had enough sense to not rely entirely on his solitary hostage.
+
+“Just let her go. I’ll let you walk away.” Ranthia made her offer after grinding her teeth for a moment.
+
+“Drop your weapons!” The child countered.
+
+Ranthia slowly raised her hands, then released her knives so they fell at her sides. She still had one bracer left—and the ability to call her weapons back to her hands at will. Though the child had no way to know it, and he seemed to have not noticed where her third knife came from.
+
+“The offer stands. You can just walk away.” Ranthia repeated herself after a moment of silence.
+
+He began to mutter under his breath. Of course, that meant he was practically whispering into Avyna’s ear, given their position. She truly wished that she could be surprised that he planned to refuse Ranthia’s too-generous offer, but when he muttered about just needing to kill them, Avyna made her choice.
+
+She was his only true shield. Without her, he had to hope that he could activate a gem faster than Ranthia could kill him. Not that Avyna intended to leave him with either option.
+
+Avyna jerked her head to the side. An insignificant movement, sufficient only because of how tightly he had kept his sharp weapon pressed against her skin. A bit of pain informed her that her skin had parted beneath the Skill-sharpened weapon.
+
+The poison he used acted just as swiftly as he had bragged it would. From her neck, a growing swath of her flesh burned in agony.
+
+But the child froze up. A hostage was only useful while she lived. For a precious moment, his entire focus went into trying to find some way to undo what had already been done.
+
+Avyna’s fingers found the handle of her knife and pulled it free. A practical thing made with dwarven steel—with a piece of faceted jet set into its grip. [Void Edge] ignited as Avyna desperately slashed at her captor’s wrist. The angle was awkward, even for an elf. But her beloved’s Void had a way of balancing things out.
+
+The moment the hybridized gem was loosed—along with the child’s hand—Avyna threw herself at it, cutting a deeper furrow through her neck in the process. The poison was already affecting her ability to move; not that she required much finesse to tackle the gemstone away from the elf.
+
+Ranthia was shouting something. Her knives were already in her hands again as she desperately lunged forward.
+
+Avyna kept her fraying focus on her would-be killer. To his credit, he recovered swiftly. He was screaming—probably, it was oddly hard to hear much—but he hurled his sickle at her before she could move too far away.
+
+Avyna activated [Catch] with the dregs of her consciousness. His weapon vanished into the Spatial portal she formed and the chain snapped in twain when the portal closed. Unfortunately, Avyna missed her shot with [Return]—the blade missed his head by a finger’s width.
+
+He was less fortunate when Ranthia’s knives tore into him.
+
+[*ting-a-ling* An ally in your party has finished off a [Steel for Slaughter] (Mantle, level 836), [Counter-Mage] (Spatial, level 799), [Blood Chain, the Slayer] (Gale, level 642).]
+
+“<Gemheart!>” Ranthia’s voice pierced through the foggy haze that Avyna had briefly lost herself within. She somehow doubted it was the first utterance of the endearing word.
+
+“<It is okay, my love…>” Avyna managed to get the words out on her second attempt, as she tried to sit up.
+
+“<No. You can’t…!>” Ranthia’s blindfold had disappeared at some point. She tried to hold Avyna down with pressure applied to her good shoulder.
+
+“<That is not what I meant, my love.>” Avyna pushed a laugh through her lingering malaise. With that, she felt strong enough to move her arm. Her first attempt fumbled, though her second caught the chain of lusterite. She tugged it to free the pendant from her clothing—the purium that Ranthia had given her, back before their relationship became genuine. “<You have already saved me, my love. For… at least the third time, I believe?>”
+
+The metal, carefully formed into the… interesting shape of their sigil, had turned black and corrupt with the toxins it had absorbed. She was still a bit lightheaded from whatever damage the poison had wrought before it leeched into the metal, but she was alive. That had been something of a gamble, admittedly.
+
+Ranthia was momentarily stricken—caught between her relief and outrage. Avyna used the moment to free herself from her beloved’s well-intentioned pinning and carefully fought her way back onto her feet. She was still a touch unsteady, but her dignity demanded restoration.
+
+“<You’re… okay?>” Ranthia whispered the words as she found her feet. A moment later, her arms wrapped wonderfully around Avyna’s waist. They both leaned forward in unison.
+
+…Only for Ranthia to stop, a mere moment before their lips found one another.
+
+“<You lied to me.>” Instead of affection, words of condemnation spilled from her beloved’s lips.
+
+Right, that. Prisms, Avyna had almost forgotten just how little she deserved. The barest moment of relief and the promise of affection had made her lose sight of the truth. A lifetime of misery—misery that she spread unto others along the way—had brought about horrific bloodshed.
+
+“<…You are correct. I do not deserve you. I nearly brought about your death. I am sorry, but ‘sorry’ changes nothing about what I have done.>” Avyna tried to turn away. Ranthia’s embrace had loosened.
+
+“<No.>” Ranthia’s voice became shaky, though the word was clear enough.
+
+Avyna truly was monstrous.
+
+Then Ranthia seized Avyna by the hips and forced them face-to-face once again.
+
+“<Let me finish, damnit! No. You do not get to decide who I love! But for Xaoc’s sake, I can’t believe any of this…!>” Tears began to spill once again as Ranthia trembled, her gaze fixed against Avyna’s own eyes.
+
+“<…My love…>” Prisms, how could she have ever been such a fool?!
+
+“<We need to talk. I… I don’t know if we’re okay. Right now, I’m just so damned relieved that you’re alive, I don’t even know what to think! I want us to be okay, but I don’t know. That’ll depend a lot on what you have to say. …But this is not the time, or the place, is it? We can discuss this at home.>” Ranthia was practically pleading by the last line.
+
+She truly was magnificently insightful.
+
+Avyna carefully removed Ranthia’s hands from her hips and stepped back, shaking her head. “<I cannot, my love. …With the ordeal that this has become, there is no chance of it being swept away and ignored. If I return, they will investigate. I was careful and my foundation is firm, but the Unchanging Council will look for any reason to order my execution. …If I stay, the same may befall you, or my daughter. I cannot allow that.>”
+
+Her beloved struggled, she was desperately attempting to craft a rebuttal.
+
+“<The only thing I can do is let the world believe that I died here. That… should be the end of it. By the names of each of the eight spires, I truly hope that shall be the end of it. I believe that the unfortunate youth has left us the means to make the lie quite compelling.>” Avyna stepped back, gesturing at the fused Skill gem as she did.
+
+They were on borrowed time. As much as she desperately wished to linger and answer Ranthia’s every question—to gain confidence about what future they might have—with every moment that passed, the risk of someone else arriving increased. And there had been enough death.
+
+If Avyna found herself in a situation where she had to take yet another precious, young life to hide her final lie, she would rather make the lie into the truth. Her dwarven steel had suffered during the prior activation, but there was still some mana within the piece of jet.
+
+“<After all of this, you’re just leaving… again?!>” Ranthia bit her tongue partway through her initial response. Hysteria had increased her volume more than she had intended.
+
+“<Not forever, I promise. By the memory of Evi, I swear, I shall return to you. Just give me two hundred and fifty-six, no, one hundred and twenty-eight years. Enough time that no one would think of looking for me. I will tell you everything.>” Avyna made her pledge from the heart.
+
+“<…I trust you. Gods damn it all, I still trust you.>” Ranthia lowered her head after she spoke.
+
+“<Activate the gem from afar, once I am clear. Until then, my love.>” Avyna turned away before her own tears could escape. She began to run.
+
+Before she made it more than a few steps, Ranthia slammed into her and roughly spun her around. Her beloved’s lips pressed against her own in a desperate, needful kiss. By the standards they had established, it was not terribly long, though it was no less powerful for its necessary brevity. No matter how long Avyna lived, she still underestimated just how many emotions could be exchanged in a moment of physicality.
+
+“<I still don’t know if we’ll ever be okay again, but… Eighty years. That’s all I’ll wait. And tell me where you’re going. This time, I’m coming after you if you fail to come back to me.>” Ranthia whispered the words into Avyna’s ear.
+
+Avyna had every reason to refuse. Eighty years was insufficient—even one hundred and twenty-eight had been reckless. And telling Ranthia where she was going would only endanger the wonderful woman. It would give her a clue about at least one aspect of the great machination.
+
+“<Very well. The nation of devils, to the north. Magnate Ryx. Even if I am no longer a guest of his, he will know exactly where to find me. Keep to the central-eastern portion of the border and it should be trivial to send word to him.>” Avyna still gave Ranthia an honest answer.
+
+“<Okay.>” Ranthia kissed her one last time. “<Go—I’ll blow the gem in a minute. Sooner, if I hear anyone.>”
+
+With that, they separated.
+
+“<One last thing.>” Avyna seized her hair roughly in her hand. She had long cherished her hair. In a world where she was nothing more than a cog in the great machination, her hair was often the only facet of her existence that remained entirely under her own control. No Skills had shaped it, she had lovingly grown it out, tended to it, and tamed it through personal diligence.
+
+She was surprised with how little she hesitated to pass the failing knife through it.
+
+“<Take it. It is traditional to weave it into the sigil of your formal partner when they perish. Wear it prominently and wear a hood where it is polite to do so. Any elf will understand that you are in mourning.>” Avyna explained. It would cover her death and serve as the first means to mask herself as she fled the Tympestshard Council’s territory.
+
+Ranthia’s hand was unsteady as she accepted the loose hairs. In exchange, she roughly shoved a bottled potion into Avyna’s hands. Prisms, she had almost forgotten that her neck and shoulder were still bleeding. The power the heart had to distract the mind truly was frightful.
+
+“<Be careful. You have to stay safe, so we can talk. I’ll be yelling at you—a lot—so don’t be late.>” Ranthia’s voice wavered.
+
+As much as Avyna’s heart craved to linger—to study Ranthia’s face just a bit longer—to beg for another kiss… She only offered a silent nod before she turned away and ran as swiftly as her legs could carry her. Eighty years… It was nowhere near long enough and it was only the barest fraction of the life that she had lived.
+
+And yet, it was also an eternity.
+
+The distant explosion was significantly greater than she had expected it to be. Still, she had faith that Ranthia had remained safe—her beloved’s grace was greater than that of most elves, at least those at her level.
+
+Heh, faith. Maybe she should try praying to Ranthia’s Chaos deity.
+
+Avyna had run for just over three days straight—bolstered, in part, by the wondrously rejuvenating properties of the Alchemist’s healing potion. But she was spent in both body and mind. Her jubilation and terror could only carry her so far without rest, food, or drink. She just had to hope she had enough distance to safely rest.
+
+Given the fires and smoke that had reigned in the wake of the Skill gem, her escape route—and her hidden wagon—was likely little more than ash and slag. Pursuit was unlikely. And perhaps, someday, she would truly believe it, once she was beyond the reach of even the Wardens.
+
+She found a small, muddy space amongst the bushes and vegetation of the area. By the scent, it was likely a large animal’s resting place, though the stench of its fur and sweat were old. It was just large enough. With a wave of her arm, she manifested the entire contents of her [Spatial Safe Box]. Gems, books, trinkets, and her personal effects clattered and spilled around her. She would have to store the items one at a time, but she needed to rest first.
+
+She found some food and a waterskin and forced herself to take slow sips and bites. Her stomach roiled more than a little over exposure to Ilan bread and water after she had exhausted its contents, but she managed to keep the trifling amount she dared down. After that, she slept for a time.
+
+In the gloom of the waning moons, Avyna changed clothes and carefully retrieved her belongings, leaving only a sword, her bow, and her quiver out. Those she equipped, before she settled down one last time.
+
+No matter how thoroughly she had covered her escape, everything would be ruined if she was spotted. But everyone knew her as a [Merchant] with long blonde hair and eyes of faceted emerald. Her head coverings had likely burned in the conflagration of that Skill gem, but she could remove her concerns about everything else.
+
+After all, she had made a promise to the woman she loved. And for once in her miserable existence, she fully intended to keep her word—in both letter and spirit. If Ranthia would truly have her again, she would become the partner that Ranthia truly deserved. She had chosen to cast away every last plan and goal that she had ever possessed. Which meant that she needed to reassess her build.
+
+She would never be an idle [Merchant], living large from a seat of power within the nation of devils.
+
+With an act of will, she slipped inside of her own System.
+
+The manifestation of Avyna’s System had remained untouched by her recent epiphanies. Despite her nebulous hopes, the space was still the shop she had once dreamed of owning. A massive, sprawling center of commerce under the watchful eye of her stern doppelganger. Through the windows, Ithil could be seen—unchanged from the last time she had laid eyes on the city, centuries ago. And as always in the inner world, Avyna was reduced to a child as she trundled up to the counter.
+
+“<Do you require assistance?>” The shop’s owner asked, her voice effortlessly bridging warmth and formality to an extent that Avyna had never quite matched.
+
+“<I have a return, actually. I will be resetting my [Merchant] class.>” Avyna had made her choice before she even entered. True, the class would have aided her when she negotiated with Ryx—she no longer had the goods that she had promised him.
+
+But it would also be the greatest source of experience and class quality that she would receive for a very, very long time. And if she was going to become worthy of accompanying Ranthia, she needed to become a wandering [Merchant] that could take care of herself.
+
+The first step to reinventing oneself was never easy.

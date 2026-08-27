@@ -1,0 +1,79 @@
+---
+id: 81bd314a-ace1-5810-b2c3-d1a4b12361f4
+page-type-slug: story-chapter-royal-road
+title: "50: Notifications"
+slug: 0050-50-notifications
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 50
+ownLength: 1295
+unit: words
+publishedAt: 2025-01-28
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2035145/50-notifications"
+royalRoadId: "2035145"
+---
+
+50:
+
+[You have slain a Level 10 Juvenile Werewolf (Middle-Layer Qi Gathering Spiritual Beast). For inflicting the maximum amount of damage and dealing the finishing blow, you have received 12,248 Soul Experience!]
+
+[You have discovered a Hidden Piece: The Howling Mist-Vault. Danger abounds but it is not without reward. Each and every enemy within the boundary of the Qi fog is connected to the Mist-Vault, a training relic of a long-forgotten sect, rewarding double soul experience on every kill along with access to the Mist-Vault proportionate to the kill contribution.]
+
+[Soul Experience received from killing Level 10 Juvenile Werewolf has been doubled due to a contribution from the Mist-Vault.
+
+Original Soul Experience Reward= 10,248, Multiplier= 2
+
+New Soul Experience Reward= 24,496]
+
+[For dealing the maximum amount of damage and landing the finishing blow on an evolved Earth Predator that had strengthened to the level of a Spiritual Beast one cultivation layer above you, you are awarded Feat: Core Sunderer.
+
+Feat: Core Sunderer
+
+Description: Any evolved Earth Predator that has reached the threshold of a Spiritual Beast is faster, stronger and possesses far greater Qi reserves than a cultivator of the same cultivation stage and layer, also possessing naturally granted physiological advantages that are bolstered and reinforced by their Qi reserves over time.
+
+To kill an evolved earth predator that has reached the lowest threshold to be considered a Spiritual Beast one layer above you speaks of your ferocious nature as a cultivator, marking you as a rare human that other predators should be wary of.
+
+Slaughter Aura: Upon killing the Juvenile Werewolf, you have absorbed a portion of it’s bestial aura. Once in twenty four hours, you can unleash the Slaughter Aura. Any Spiritual Beast at or below your cultivation layer and stage will be assailed by a primal fear upon witnessing the Slaughter Aura.]
+
+[Congratulations, Class: Swordsman (Basic) has reached level 7 (5791/50,000),+5 Free Points, +1 Qi Pool has been awarded. ]
+
+[Qi Sword has reached Level 9!]
+
+[Qi Projection has reached Level 7!]
+
+[Inspect has reached Level 7!]
+
+Jack had been bombarded with so much information at once that he wasn’t sure what to make of any of it. Apparently, the foggy stretch of land they had plunged into in the hopes of avoiding a hoard of rift goblins that were on their heels and gaining on them had led them into a training area of sort, one that thought it amusing to pit them against half-man half-wolf monstrosities that were enhanced to a step above the evolved earth predators they had faced up until now. The system had described the difference as a threshold, so Jack supposed that it was still a creature from earth that had been warped by such dense reserves of Qi that it was unrecognizable in all but appearance.
+
+What was even more puzzling was the revelation that the training area was also linked to a vault that would reward them with additional experience and rewards, another hidden piece that in hindsight, seemed obvious enough for anyone willing to plunge into the unknown.
+
+It had only been an hour or so since he had hit level 6 and Jack had to maim and kill multiple rift goblins to reach it, while killing a single Juvenile Werewolf in the Howling Mist-Vault had been enough, with the double experience reward active, had been enough to reach Level 7 in one go.
+
+Not to mention, the Slaughter Aura he had received had been a truly unexpected benefit, to the point where Jack hadn’t even known such a thing existed. It’s effect didn’t seem to fall under the same category as the dark-green Qi Trent had harnessed, allowing him to inflict a strong, if not deadly poison on his target, nor did it feel like a runic symbol like the one the Juvenile Werewolf had used to traverse the Qi Fog freely.
+
+Inflicting fear on beasts wouldn’t physically harm them but if he used the Feat’s reward correctly, he could use it to secure a kill or allow their group to flee a hoard of predators.
+
+Seeing such massive jumps in levels to his class skills filled Jack with pride, for only he knew the hell he had endured and the enemies he had slayed by the skin of his teeth to hone them. His class itself seemed to reward new skills to him at random, but the individual skills’ levels were attained by fighting tooth and nail for and repeatedly putting his life on the line— that was something both the Doomsday Prepper and the human within him could be proud of.
+
+The additional point in his Qi Pool had already pushed his total capacity to 16 and now Jack had 5 more Free Points to work with.
+
+But before he could invest them, a sharp voice shook him out of his reverie.
+
+“Marcus!” Jin shouted as she ran towards him, more collapsing than kneeling down at his side as she tore open his tunic to assess the wounds.
+
+Reminded of his own injuries, Jack pulled out his Greater Recovery Pill and swallowed it. Now that he knew that the entire area covered by the Qi Fog was a Hidden Piece, Jack knew that there was no way that there was only a single beast concealed within.
+
+“He’s alive!” Jin declared with a quivering tone, only surprise audible in her tone.
+
+Jack noted the noticeable lack of relief in Jin’s tone, which didn’t bode well for Marcus’ continued survival. Before he rushed over to them, he scanned the circular clearing that the Howling Mist-Vault had allowed them as a reprieve from the Qi Fog that blanketed their sight.
+
+Where the Juvenile Werewolf’s body had been moments ago, now stood a chest that had been sculpted out of the gray fog that ensconced them, it’s ethereal, wispy form was constantly shifting, yet the curved lid and rectangular base clarified it’s intended purpose well enough.
+
+If the system’s revelation upon the Hidden Piece they had discovered was to be believed, then that chest was connected to the Mist-Vault and the rewards they would receive would be proportional to their contribution towards the kill. Jack had neither the intention nor a reason to rush to hit, his gaze shifting further into the distance and coming to a stop only after he laid eyes on Sarah.
+
+She was limping on the butt of her Moonspear as she walked and Jack’s keen eyesight managed to pick up on a thin trail of blood trickling down from the corners of her mouth down to her chin, but her Jade Guard Armor Set’s chestplate seemed to have escaped the Juvenile Werewolf’s whipping kick with a small dent in the abdominal region, an ovular lump that had been stomped into the flexible light green metal.
+
+That had to have left more than a bruise, but it spoke volumes about the thin metal’s resilience that it was able to take a direct hit from the Juvenile Werewolf’s hindlimb and withstand it without shattering. Jack’s own Twilight Armor Chest Piece certainly couldn’t manage such a feat, the same way an actual Twilight Boar would find its flesh pierced and bone crumpled upon taking a direct hit from the Spiritual Beast.
+
+Jack had felt the corded strength contained within the Juvenile Werewolf’s tails as they had whipped him across the earth, sending him scrambling for purchase a dozen meters away from where he had originally been and that was its least Qi Reinforced body part. That had not been the case for its limbs.
+
+Inferring that Sarah had already taken a Greater Recovery Pill from the relief etched upon Sarah’s visage as she limped towards Marcus and Jin, Jack nodded to her before breaking out into a jog in the duo’s direction.

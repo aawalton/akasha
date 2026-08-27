@@ -1,0 +1,113 @@
+---
+id: cfcf51d6-1f0c-551b-af18-187e46b580b1
+page-type-slug: story-chapter-royal-road
+title: "100. Anger and Agency"
+slug: 0100-100-anger-and-agency
+partOf: breaker-of-horizons
+position: 100
+ownLength: 2184
+unit: words
+publishedAt: 2021-04-15
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/665107/100-anger-and-agency"
+royalRoadId: "665107"
+---
+
+"We need to make a decision," Mr Silver said, his voice heavy.
+
+The sun had long since set, and the cordon of cars around the Spire had drawn a great deal of attention at first since they were blocking a common route that people used. In order to stop large crowds of curious onlookers from gathering, the agents employed a mix of mundane crowd-control to divert the flow of traffic, along with subtle ensorcelment fields. Ms Pearl had personally laid down a powerful distortion field to hide the cars from casual perception, which was something that Mr Silver had never seen done before without the aid of artefacts. But then again, that level of mastery was to be expected from someone assigned to head the team escorting SD-P1.
+
+The crowd was a potential source of danger because enemy forces would be able to use it as cover for an attack, but the perception-distortion and ensorcelment fields made it much easier to spot arcanists. There were a few who reacted in surprise and who deployed sequences to shield themselves from the influence of the agents' sequences. They stood out like sore thumbs from the unsuspecting masses as they tapped into the arcana, but it was clear that these were ordinary Aiestan citizens – other ordinary arcanists, and not nefarious actors from hostile nations.
+
+Now that the crowd had thinned, the agents had to address the fact that SD-P1 had been inside the Spire for hours now. By Ms Pearl's report, he hadn't eaten since the previous day.
+
+She hesitated, but eventually replied, "Our orders stand. We have to wait for him to emerge, not go in after him."
+
+"But what if something has happened inside? I still find it incredible that no one was assigned to escort him, and we didn't even put a trace on him to get in touch in case of an emergency."
+
+"If you like, we can set up a link now and you can question our orders," Ms Pearl said icily. When Mr Silver did not reply, she continued in a softer tone, "I understand what you mean. These are the same questions I raised when I was given the assignment, and I was told in no uncertain terms not to enter the Spire. In any case, even if I could, I don't think I'd want to."
+
+Mr Silver frowned. "What do you mean?"
+
+Ms Pearl crossed her arms and faced the Spire. The street lights only illuminated its lower reaches, while the rest of it stretched upwards like a shadow against the night sky. "There is something up there," she murmured, "and it does not feel safe to trespass."
+
+"You mentioned a flavour in the arcanic field earlier. Can you elaborate?"
+
+She shook her head, not in rejection but in mild frustration, still staring up at the Spire. "I was part of a small team. We were returning from an assignment, and as we crossed the border back into Aiesta, we stumbled into a field of wild arcana. There were five of us, but only I was recovered alive. I don't remember much. But I do remember the flavour in the arcana. There's something up there that feels similar."
+
+This was not at all reassuring to Mr Silver. "But then that means SD-P1 is in danger!"
+
+"If he is," Ms Pearl turned to him, all steel and ice again, "then none of us will be of any help. If you insist, Mr Silver, you may set up a link and confirm our orders with our superiors. But until they give the word, we are going to stay right here until he comes out to us."
+
+Mr Silver hesitated for the space of a heartbeat. The air around Ms Pearl had grown markedly colder, even in the wintry chill of the night. Her passive connection to the ambient arcana was so acute that it was even tuned to the shifts in her mood. But he steeled himself and decided that there was no harm in seeking clarity. He nodded curtly at her and turned away, heading back to his car to make use of the mobile telepresence array.
+
+The glyphs woven into the floor were humming.
+
+That was the first thing that Ambrose was finally able to pay attention to. His left cheek was pressed against the cold, black marble, and he could see the little golden glyphs that spiderwebbed across the floor up close. Even then, he could only make out the one that was right next to his left eye – it wasn't any glyph he recognised from the Basic or Advanced Sets, but there was something he understood about it.
+
+He understood how it sounded. It was like recognising someone's voice, but not being able to understand what they had just said.
+
+And as he fixed on that strange sense of recognition, he realised he could hear other voices, too. They were all humming. He noticed them one by one, note by note, until it finally clicked that he was listening to the sequences that had been etched into the floor. It was a whole orchestra, humming out a symphony that filled the chamber, spiralling through the air and holding the massive crystalline dodecahedron aloft.
+
+He did not know how long he lay there, his mouth slightly agape with a thin stream of saliva running down his cheek to pool on the floor. All he could parse was the sound. The rest of the world seemed odd, and the sensory input he was getting from the rest of his body did not seem meaningful. His mind struggled to make meaning out of all of them. So he allowed himself to drink in the beauty of the symphony, hoping that that sense of recognition and understanding would spread to the rest of the world.
+
+The next thing that suddenly clicked into place was his proprioception. The symphony was suddenly not in his mind alone – he realised he could actually locate the sensory organ that was picking it up physically. His ears! With that point of reference, he figured out that the seat of his consciousness was in his head, and then the rest of the sensations of his body's positioning came back all at once.
+
+Immediately, he let out a groan of pain and discomfort. He gathered his stiff limbs together, wincing as he forced his cold and cramped muscles to move. With some difficulty, he managed to get himself into a seated position, and he grimaced as he wiped the line of spittle from his chin. The dodecahedron seemed to shift ever-so-slightly, and something stirred in its milky-white depths. Ambrose shuddered and flinched away instinctively. It felt like a mountain-sized predator had just turned one massive eye in his direction.
+
+'Jailer,' the augera sent softly, with a hint of schadenfreude.
+
+'You could have been gentler,' Ambrose sent back, somehow finding enough courage to sound reproachful.
+
+'Yes. Are you oriented, Jailer?'
+
+Ambrose supposed it was asking whether he was settled back into his own body. He flexed his fingers experimentally and stretched. There was some dizziness, but all things considered, that was a less severe reaction than he expected.
+
+"I think so," Ambrose said, deciding to work his physical muscles a bit more by actually speaking aloud. His voice came out a little hoarse, and his stomach rumbled.
+
+'Our time will be marked by your mortal requirements,' the augera noted, sounding a lot more businesslike now. 'We will speak until you must leave.'
+
+"You mean the only time limit I've got here is how long I can go without food, water, and sleep?" Ambrose asked a little incredulously. "Isn't there something you can do about that?"
+
+'You misunderstand, Jailer. Your mortal requirements are not the impediment — they are the marker of the passage of time for our present interaction. Other factors are the true limiters.'
+
+"Okay... what are those other factors?"
+
+'Too many to be practical to number given our current allotment of time. Jailer, you must ask the more urgent questions.'
+
+Ambrose frowned. "Why can't you just tell me what I need to know? Why must I ask the questions?"
+
+This time, the dodecahedron really did move a whole inch. It was like whatever was locked inside had slammed itself against the interior of its crystalline prison, and the whole edifice shook in place, suspended in mid-air. A pulse of arcana so dense washed out of it that Ambrose actually slid back a few feet. He fell back on his elbows, startled.
+
+'BECAUSE YOU CAN,' the augera roared. It was not even vaguely analogous to a human's roar, or even one that channelled the ferocity of animals. No, this was more like the violent cry of the ocean smashing itself against rocky cliffs, or the savage ululation of a volcano spewing molten death.
+
+Even though it was useless, Ambrose clapped his hands over his ears. The augera's voice echoed in his head, in his bones, in his auric-ambient-flare, and all around the chamber, the symphony of the glyphs dissolved into a terrible cacophony. It took some time for the sequences to settle back into harmony, but the prison held firm.
+
+'Because you can,' the augera repeated, this time with more restraint and civility, though it still held a level of menace that sent chills up Ambrose's spine. 'Chosen, yet now loosened. Blinded, yet now led by the hand. A Jailer by design, doomed to live in the prison together with his charges, yet now given the key to his own freedom.'
+
+"You're talking about Caden," Ambrose managed to gasp out, his head still ringing, his auric-ambient-flare still throbbing.
+
+'Unchosen-sighted-{~?~},' the augera crooned in acknowledgement. 'He has crossed your path, and by that accident, you are free to ask, and I am free to answer.'
+
+There was so much here that Ambrose did not fully understand. He found himself wishing that Caden were here so he could exchange information, even though Caden had become a little stand-offish whenever something about the Prophecy came up. But he shook himself mentally and put some steel into his own spine. He was literally the Chosen One. He could figure this out.
+
+"If not for that, what would have had to happen here?"
+
+The response did not come immediately. Instead, the augera seethed, and the air became palpably warmer. 'You risk treading the marked path, Chosen One. Remember, to know is to be bound. This is especially true for you, pawn of Prophecy.'
+
+Ambrose swallowed a lump that had formed in his throat. "I know that. And I know you want to be free. You're hoping Caden will push me towards freeing you. Well, I'll be straight with you — I'm already inclined to help him. You've just called me a pawn of Prophecy, but the truth is you're hoping to make a pawn out of me too, against what the Fateweavers have planned. Isn't that right?"
+
+'... Yes.'
+
+The admission did not anger Ambrose. In fact, he felt a little relieved to have something like this settled. He sat up a little straighter. "I may be the Chosen One, but I didn't get a say in the matter. I appreciate the fact that Caden's introduced a little chaos into this mix, and given me more agency. But I don't like how you're so eager to take that way from me and to force me to do what you want me to do by limiting what I know. I get that you're afraid that knowledge binds, but I don't very much enjoy feeling like I'm being led blindly around. So let's have a deal here. Let's both trust in this loosening you talked about. I don't want to be a pawn of Prophecy, and I don't want to be bound by knowledge against my will, but I do want to know as much as I can so I at least know what the hell is happening. And I want you to tell me, even if you don't think it'll favourably lead things the way you want them to go."
+
+'Mortal,' the augera began, anger pooling in the air, 'you know knowledge binds, and yet you would place your hands within the manacles and–'
+
+"–then just force me to do what you want! Stop telling me you're going to give me a choice, then trying to warn me off those choices!" Ambrose shouted.
+
+Silence filled the air. The anger of the augera faded, and in the sudden absence of that weight, the air felt strangely empty. Ambrose suddenly felt like he was alone in a totally abandoned chamber, even though the dodecahedron was still there.
+
+"... hello?" Ambrose called tentatively, getting gingerly to his feet.
+
+There was no response. He took a few cautious steps towards the dodecahedron, but when nothing happened he kept going until he was standing directly underneath it, staring up at its impenetrable milky depths.
+
+He waited for what felt like an hour, but the dodecahedron remained silent, and the only sound that filled the air was the humming of the glyphs and their symphony of imprisonment.

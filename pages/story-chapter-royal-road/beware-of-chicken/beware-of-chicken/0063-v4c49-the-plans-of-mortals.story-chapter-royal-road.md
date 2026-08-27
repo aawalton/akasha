@@ -1,0 +1,155 @@
+---
+id: 1ee4c43c-3532-518d-acb8-0e464d420626
+page-type-slug: story-chapter-royal-road
+title: "v4c49: The Plans of Mortals"
+slug: 0063-v4c49-the-plans-of-mortals
+partOf: beware-of-chicken
+position: 63
+ownLength: 2000
+unit: words
+ownProgress: 2000
+publishedAt: 2023-10-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1376689/v4c49-the-plans-of-mortals"
+royalRoadId: "1376689"
+markedReadAt: "2026-06-29T18:53:33.188Z"
+---
+
+Bai Huizhong, Lord Director of Spiritual Ascension Affairs, stared out the window of his study, his knuckles white, feeling like he was going to throw up. To say he was stressed would be an understatement. The Auditor beside him looked equally as pale. The man had an unfortunate, weasel-like face, and was wearing the full courtly regalia of an Imperial Auditor: a bright yellow robe and large black hat. Normally, they were filled with nothing but spite for one another, but for the moment, they were united.
+
+“What in the heavens’ name was that?!” the weasley looking man whispered to himself as sweat dripped down his brow.
+
+They were both still reeling from what they had felt—they had been informed of the arrival and budding confrontation between Cai Xiulan and the Patriarch of the Grand Ravine Sect—but Huizhong hadn’t expected the intensity. The pair had felt the outpouring of intent and Qi from their place in the mountain. Even this far away, and used to the bouts of intent from battling cultivators, Huizhong had nearly fallen to his knees.
+
+And now they were moving towards them.
+
+Huizhong swallowed. “Just cultivator things.” he replied, his legs shaking.
+
+The year had actually started out well, despite the… incident. True to Master Rou’s words, whatever altercation had been brewing, fizzled out. The Shrouded Mountain Sect had retreated, and things had calmed down again… mostly. Not that there had not been consequences.
+
+The mountain itself had been… difficult. Yes, difficult. Doors would open randomly. Lights would flash and start playing what sounded like recordings of past events. Systems that had been dead for centuries occasionally turned on of their own accord before just as mysteriously shutting off.
+
+It was like there was a ghost walking the halls of the Dueling Peaks.
+
+At least Bao Wen, the newly appointed Director of Dueling Peaks Reconstruction, was doing his job well. The cultivators had appointed him, and he seemed determined to do all he could to keep things under control. A wave of his maintenance rod and a flashing light or screaming crystal would quiet. The kid was taking his new duties seriously, and Huizhong made sure to always be a reasonable ear when the lad wanted to vent, as much to keep abreast of the situation as out of any altruism.
+
+And with that in fairly good hands—or at least not being Huizhong’s own responsibility—he was able to put one problem out of his mind as the snows began to fall..
+
+The winter had been absolutely glorious. The aid package he had requested from the capital, ostensibly for building repairs from damages suffered during the tournament, had arrived. But there was no damage left to repair. The cultivators had already fixed the town. And it had been so much money…
+
+Of course, there were some obligations he had to see to, like setting up Bao Wen’s new Department for Dueling Peaks Reconstruction like the cultivators had wanted. Then, with nothing else to actually use it on, he had taken half for himself and his staff to hand out bonuses and spent the rest on parties. He had even thrown the commoners a bone: the New Year’s bash he had held would be spoken of for decades to come. The sky had turned to day with the number of fireworks that he had set off, they had gorged on Silver Grade Rice, and the amount of alcohol consumed had been truly epic.
+
+Hells, he woke up the next day to a statue of himself in the square built out of snow and a cheering populace.
+
+From there he had coasted, enjoying his wine, his assistant Cho’s shapely rear, and the steady rise of numbers in his books.
+
+The doll sales were absolutely through the roof, even with the small amount he had to set aside for Rou Tigu’s royalties. They had even added another workshop to keep up with demand!
+
+He stared down at the approaching cultivators and swallowed. Hopefully… hopefully they never put together just who was selling those dolls. Especially Cai. She really didn’t need to know what some people would pay for high quality, anatomically accurate dolls—in fact, he should probably shut down that entire division. No matter how discrete the customers were, he wasn’t going to be touching that any longer.
+
+He grimaced.
+
+Life had been going great. He should have known it wouldn’t last. Sourly he looked at the man who had started the downward slide.
+
+The Auditor. The man was still in shock. He wouldn’t have lasted a day in Huizhong’s job. He was soft.
+
+He wasn’t the Auditor-General Huizhong was more familiar with. That man was like a grim executioner and had a face like a battle-axe. This was the new Auditor-General. He had a weasley little face that Huizhong took an instant dislike to. The man had smiled with a smug, vindictive little grin, and then he had requested Huizhong’s records.
+
+All of them.
+
+And the worst part was that the bastard took over the main office while he worked, going over things line by line!
+
+Now, Huizhong liked to think he was good at hiding things, but even he couldn’t cook his books perfectly. And the Auditor knew that, delighting in calling Huizhong in to tell him about the ‘minor discrepancies’ he had noticed.
+
+Huizhong could have taken it. He had enough friends and allies at court that he would be able to weather things as long as the big, important stuff stayed hidden… and then he got a private transmission from said court.
+
+“The incident is of great concern to the Court,” the voice on the other end had said. “Any information you can give might make certain things… go away.”
+
+Of course, the entire thing turned out to be about the incident. This could only be the nobles poking around. The Lord Magistrate had at least understood him when he wanted to keep things quiet, but apparently the nobles wanted all the juicy gossip and thought to poke at him to get it.
+
+Were Huizhong an idiot, he would have just told them then and there. But the cultivators wanted this quiet, and Huizhong was very inclined to agree. Airing dirty laundry—especially when that dirty laundry belonged to the Shrouded Mountain Sect—was certainly a good way to commit suicide.
+
+Huizhong wanted to be alive to appreciate his wealth, thank you very much. And If the fuckers in Pale Moon Lake wanted to declare war on him for his decision, then war they’d get. So in the next meeting he had with several Sect representatives he mentioned his… problems.
+
+The next time he met the Auditor the man was quite a bit less smug. They had a bit of an understanding after that, but the asshole was still setting the fines too fucking high.
+
+And then, in the middle of all that, he had been politely informed of the meeting.
+
+A meeting that would have every Sect in the Hills in attendance. The Dueling Peaks had always played host to tournaments, but it had never held as many cultivators as were about to arrive.
+
+And he had just seen Cai Xiulan square off against a cultivator in the Spiritual Realm, who was so powerful Huizhong had seen him start to impose his will on the very world itself!
+
+Cultivators in the Azure Hills shouldn’t have been able to do that.
+
+But unfortunately, he couldn’t just wait here and sob to himself. He would have liked that. He wondered if he should resign. He had enough money to live large for the rest of his days…
+
+Huizhong carefully unclenched his hands from the windowsill and then straightened his robes.
+
+“Let's get this over with,” he said, and turned to Bao Wen, who was sitting down and looking a bit ill. The Auditor turned to him, looking stunned and horrified in equal measure.
+
+Huizhong didn’t spare him a glance as he marched out with Bao Wen towards where the meeting would take place. The Auditor stumbled after them a few seconds later.
+
+They were headed towards the arena. They marched through the halls with a contained sense of urgency… only to find several Elders and Sectmasters waiting for them at the entrance to the arena. There were fourteen of them—from the Grand Ravine to the Rumbling Earth, all looking grim and uneasy.
+
+Guo Daxian the Elder noticed them first and spoke.
+
+“You said there was a new space for this meeting to take place, Lord Director. One that could accommodate all of us.” The man was utterly humorless.
+
+Indeed, they needed a new space—one to accommodate everybody, and Bao Wen had found just the thing.
+
+“We will be using the arena itself, Master Daxian,” Huizhong declared, sweeping his hand out over the arena, and its bare, empty floor
+
+“Are we to sit upon the ground?” Sectmaster On Gang demanded.
+
+“Ah… no, Master On. Um… if I may?” Bao Wen ventured, drawing attention to himself.
+
+Every eye locked onto him, stern and hard… before the Elders suddenly grinned.
+
+“Oh, Wen boy!” Gang exclaimed, seemingly happy to see the kid. “Did you kill something and give its head to your woman like I suggested?” he demanded.
+
+“Please tell me you did not follow that brute’s advice!” Elder Xinling exclaimed.
+
+The boy paused, before scratching the back of his head. “I haven't had the time, Master Gang. But I did take her out for tea like Elder Xinling suggested… She likes the peach syrup candies. It went well, and thank you all!”
+
+Huizhong was utterly lost as Bao Wen bowed and the Elders all looked on like proud parents, Elder Xinling patting his shoulder.
+
+And then all of their eyes turned to the last person there.
+
+“And who is this?” Daxian asked, gesturing to the Auditor.
+
+The man puffed up, seeming almost offended, and Huizhong mentally marked him as a man soon to die.
+
+“I am His Imperial Majesty’s Auditor-General—” the man began, only for the cultivator to cut him off.
+
+“And this is cultivator business. You are not required. Complete your audit and leave immediately,” Daxian the Elder commanded. The cultivators once looking like Aunties and Uncles, were suddenly grim warriors. People who killed to keep their secrets.
+
+The Auditor looked affronted… until the slightest bit of intent leaked from the Elders.
+
+The Auditor’s face paled. Bowing, he quickly fled.
+
+Huizhong had good odds on the man being gone by nightfall.
+
+The Elders turned back to Bao Wen.
+
+“Show us what you have discovered, Bao Wen,” Cai Xi Kong asked, his tone encouraging.
+
+Bao Wen nodded. Then he stepped out into the arena. He took a deep breath, and began to move.
+
+It was a dance—and one that was clearly putting strain on the boy as he moved, his breath deep and even. After thirty seconds the cultivators began to look skeptical… until the Earthly Arena began to grind and change.
+
+The floor went from flat paving stones with sand on them to beautiful marble slabs, inlaid with jade.
+
+The floor seemed to grow a table—a single enormous piece of wood that could accommodate hundreds.
+
+Chairs, more like thrones, rose from the ground. They were the twins of the chairs in the Old Hall in the palace in Pale Moon Lake City, regal and imposing. Behind those thrones were smaller chairs, so that other cultivators could sit behind their leaders.
+
+Some of the marble slabs rose slightly higher, like a stage, and two more chairs grew upon it.
+
+Bao Wen collapsed to his knees, panting.
+
+The Elders looked upon the new seating arrangements, and smiled.
+
+“A worthy stage,” a voice rumbled as the Patriarch of the Grand Ravine Sect stepped into the arena. His presence nearly forced Huizhong to his knees… but something soft, gentle, and supportive kept him upright. “Cai Xiulan, I trust you are prepared?”
+
+“I am,” the woman said, her voice soft… and yet carrying to everybody in the arena.
+
+“Then… let the meeting of the Sects begin.”

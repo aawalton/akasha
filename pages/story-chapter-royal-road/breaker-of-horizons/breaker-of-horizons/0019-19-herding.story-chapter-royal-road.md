@@ -1,0 +1,123 @@
+---
+id: c45ec415-4f84-5abd-919a-b71951e2d51f
+page-type-slug: story-chapter-royal-road
+title: "19. Herding"
+slug: 0019-19-herding
+partOf: breaker-of-horizons
+position: 19
+ownLength: 2346
+unit: words
+publishedAt: 2020-07-06
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/520519/19-herding"
+royalRoadId: "520519"
+---
+
+"The boundaries aren't clear enough," Devon snarled as he paced back and forth, uncharacteristically angry. I didn't blame him.
+
+We were all back in the dorm. Kevan and Lynus had retreated to their room while the rest of us were gathered around the table again. It was a similar scene to the morning, but a lot had changed in the last few hours.
+
+"No, they're not,' Jerric agreed shakily, pinching the bridge of his nose.
+
+"This is wrong, totally wrong," Devon continued.
+
+"Let's calm down, then we can discuss this rationally," I said, trying to project confidence. But my own voice betrayed me and cracked a little.
+
+A glance at Ambrose told me that he was doing a lot better than the rest of us. We were all just slowing piecing ourselves together from the emotional trauma we had endured at the hands of Kevan's compulsion, and it showed in red-rimmed eyes, runny noses, and patchy breaths. He, on the other hand, didn't seem to have been as emotionally distraught and only looked very exhausted.
+
+Not for the first time, I wondered if this was down to his own hard-won greater mastery over arcanophany, or if it was just a product of his Prophetic protection. I couldn't help but feel a little jealous if it was the latter. It was like plot armour in real life, and it was really beginning to grate on me. Did effort count for anything, then, if prophecies held that much sway over reality?
+
+"Have you all managed to vent the ambient arcana in you?" Ambrose asked wearily.
+
+Jerric and I nodded. Devon stopped his pacing and, with a great deal of effort, forced himself to sit down and focus inwards. A vague ripple disturbed the air around him.
+
+Kevan had fled after flooring us with his compulsion. Even now, I didn't have a clear idea of exactly how he had managed to do what he did. I found myself in a deep hole of utter misery and hopelessness, and the feelings were accompanied by memories of all the occasions when I had fallen into that pit of despair over the years of my life. But it was more than that. Those feelings must have been amplified because I was sure I had never felt that depressed before. Yet somehow, Kevan had infected me with this new intensity that felt real, natural, as if it had been taken from my own life.
+
+It was a good fifteen minutes before any of us could contemplate anything beyond ourselves. Ambrose had been the first to recover by quickly venting the ambient arcana in his system that carried Kevan's compulsion. That was another mystery — I didn't know why Kevan's compulsion was still in effect even though he was gone and had released his hold on the ambient arcana.
+
+I took my cue from Ambrose and did the same, albeit at a much slower pace, and with less improvement. Then the two of us went about coaching the rest through the process of venting ambient arcana and keeping it out, which was made even more difficult due to the fact that we all had to work through our grief. Devon had been inconsolable for a long while. All in all, it had taken almost three hours for us to even get enough of a hold on ourselves to make it back to the dorm.
+
+Jerric let out a long sigh. "Kevan did something really amazing, speaking from a purely technical standpoint. But before we break it down, we do need to talk about this compulsion thing."
+
+"And set up absolute boundaries, with punishments," Devon added, with more than a little venom.
+
+"No," Jerric said, surprising us all. He looked momentarily taken aback by the look of outrage from Devon, then clarified, "I mean, I'm not against that, but I'm talking about the bigger picture here."
+
+"You mean with the Academy encouraging this," I surmised.
+
+"Exactly." He looked emotionally wrung out, but somehow he managed to rally. It was strangely encouraging to watch him handle himself so well. "Why is the Academy getting us to learn something like this on our own time? Why isn't it formally taught, with clear principles, guidelines, and boundaries laid out and enforced with the authority of the professors?"
+
+"Maybe it's just Reeves," I offered. It was difficult for me to believe that the Academy really encouraged something like this. It would imply that my father, being in the faculty, was in on it.
+
+"That's a possibility," Jerric allowed. "But that still leaves us with no clear reason why we're doing this. Have the seniors gone through the same thing?"
+
+"No," Ambrose chimed in. "I know some of them. Reeves is doing it across all his classes for the first time."
+
+"You don't think this has to do with the Prophecy, do you?" Devon asked, a little calmer now that he had cleared his system more carefully.
+
+I looked at Ambrose to gauge his reaction but he just gave a nonchalant shrug. "Whatever the reason, what can we do? If we don't want to be expelled, we'll have to learn it up to a point."
+
+It took me a great deal of effort not to narrow my eyes in suspicion. It sounded like he knew the reason, and that he actually wanted us to learn it, and definitely not just up to a point. It might have been my imagination, but it almost seemed like beneath the very real exhaustion was a hint of happiness.
+
+Chosen One bullshit.
+
+"Up to a point," Jerric repeated slowly. "But that's the problem. Arcanophany isn't a set of stairs where you can decide to just stop at a certain floor. By learning this, we've been exposed to a whole new way of thinking and been given a glimpse of a whole new realm of possibilities. It's like climbing a set of stairs and then reaching an elevator that can bring you up, but at the same time you learn that there are other buildings with elevators of their own, and you can see how to get to them. Kevan has obviously taken the little that you've taught us and come up with something bigger. And we're just novices at this. Do you see what this means, in the bigger picture?"
+
+The door to the twins' room opened and our heads snapped towards it. Kevan had emerged, looking just about as horrible as the rest of us. Lynus was behind him, steering him forward with a firm hand on his shoulder.
+
+"So... I owe everyone an apology," Kevan said in a hollow voice.
+
+Devon moved faster than I would have thought possible and landed a solid punch across his cheek.
+
+"What are you doing?" Jerric cried, getting to his feet and pulling Devon back. But Devon settled back into his seat without any fuss, his face flushed.
+
+Kevan had taken the blow without flinching. He massaged his jaw as he gave Devon an appraising look. When he spoke, he sounded a little more alive. "I guess I deserved that."
+
+I let out a breath I didn't know I had been holding. I was fully expecting Kevan to break Devon down into tiny pieces. Strangely enough, Lynus didn't seem to have the same notion. He had released his brother and taken a seat.
+
+"So, the apology," Kevan said, addressing all of us. "I'm sorry about what I did. I just... I'm not usually good at saying things. So when Jerric pointed out that emotion is the core of the compulsion, I had an idea. And I just wanted you all to... to understand."
+
+"Understand?" Jerric echoed, a little confused.
+
+Lynus nodded. "Think about it. You do, don't you?"
+
+And I did, in a way. There were no words I could put to it, so it wasn't so much understanding as it was empathising, but I felt like I knew where Kevan was coming from. Beneath the bravado and the bluster, this was what he felt — it was something that drove him but also warped him at the same time. There was great strength that came from this intensity, but it wasn't healthy. And he probably knew it but didn't know how to change.
+
+Most of us were nodding a little. Even Devon looked somewhat regretful over how he had just punched Kevan.
+
+"Do you know what this means?" Jerric asked, sounding a little awestruck. "This isn't sending a compulsion. This is changing someone's mind. Kevan, you've... you've somehow..." He trailed off, evidently lost for words.
+
+"How is this not mind control?" Devon demanded, now a little alarmed at Jerric's proclamation.
+
+"Precision matters," I said almost out of reflex. "If you convince someone to do something, or you get them to understand your point of view, is that mind control?"
+
+"Whatever you wanna call it, you kinda started it," Kevan said wryly, directing his comment at me. "I thought I had a handle on myself, and then you went and blew things wide open with that compulsion of yours."
+
+I nodded, thinking back to that moment when they had all walked in during my attempt to interrogate Ambrose. In my case, I had been on the receiving end of it when I was in a conversation with Ambrose, and the Prophecy itself had aligned the circumstances to make the compulsion seamless and almost natural. In the case of Devon, Kevan, and Lynus, I had ripped a treasured truth right out of them without even a social exchange to shield them from the force of it. That, somehow, seemed to matter a lot. I had wounded them in some way. And the same was true for what Kevan had done to us.
+
+"This is new territory to all of us," I said. "I'm sorry about what I did, too. But there is a bit of a bright side to all this. We... we know each other better. We can work through this, all six of us."
+
+Jerric nodded, and Lynus looked relieved. Kevan himself was smiling a little. Devon retreated into a sullen silence, but there was an air of resignation about him.
+
+"Right," Ambrose said with slightly-forced brightness. "Who wants to try another round of that?"
+
+He got no further than that as chair cushions flew at him from all sides.
+
+We were all starving since the afternoon had flown by while we were dealing with the fallout of Kevan's compulsion, so we went back to the cafe on campus and ate more than our usual share. It seemed that grief made people hungrier. The conversation was muted, but that was to be expected. All of us had retreated into our own thoughts, surfacing occasionally just to make an idle comment or two. But where it might have been awkward earlier in the week, there was now a sense of general comfort hanging over us that wasn't there before. We seemed to sit a little more easily in each other's company now.
+
+While absently munching on dessert, I mulled over what Kevan had managed to do to us and started mapping out the mechanics of it.
+
+The first thing I wanted to unravel was how his compulsion had been persistent, even without him being physically present. I immediately ruled out any possibility that he had maintained a link to the ambient arcana around us, because he had gone straight back to the dorm. Any connection would have been broken by the distance.
+
+The clue was likely in the fact that he believed he could direct the compulsion at individuals, judging from his offer to exclude people if they didn't consent. An educated guess led me to the conclusion that he had worked out how to inject the infused ambient arcana directly into someone's auric arcana. It made sense, but it was also something that was supposedly notoriously hard to do. And yet Kevan had figured out how just this afternoon. I flagged it for review and private experimentation. It'd probably be something I'd have to tap on Ambrose to help with.
+
+Next was exactly what he had done to us. After what Jerric had said, I no longer believed it was in the realm of what we had begun to call 'compulsion'. It didn't make sense for Kevan to compel us to cry. And by his own admission, that wasn't what he had wanted. He had said that he wanted us to understand. He projected an emotion, but it was more than that. Beneath the raw blend of sadness, despair, and desperation, there was also a reservoir of thoughts and self-rationalisation. Thinking about it now gave me the feeling that I got Kevan, on some subconscious level, even if I couldn't exactly articulate what was going through his mind, or what thoughts had given me this certainty of understanding.
+
+Empathy was a weird word to use for this. Was it possible to make someone empathise with you? Maybe it was. There didn't seem to be a better way to think about it at the moment, so it would have to do as a placeholder. But even as I settled on that in my head, I felt uneasy. Precision is important.
+
+And that idea continued to bother me as I looked around at everyone. Devon was bent over a chocolate sundae, contemplating the half-melted liquid at the bottom. Lynus and Kevan were each having a banana split, Kevan looking lost in thought while Lynus shot the occasional worried glance at his brother. Jerric wore a thousand-yard stare as he sipped on a milkshake.
+
+I caught Ambrose's eye. He had been surveying the rest just like I was, and the tiredness of his face barely concealed a look of deep satisfaction.
+
+It occurred to me then that we had never returned to the point that Jerric had raised earlier about the implications of learning this compulsion/empathy thing, and how this fit into the bigger picture. It had all been brushed under the carpet by the natural progression of events.
+
+I did not have a good feeling about this.

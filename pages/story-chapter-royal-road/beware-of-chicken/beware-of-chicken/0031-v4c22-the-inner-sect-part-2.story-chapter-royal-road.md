@@ -1,0 +1,207 @@
+---
+id: 2dfb50fe-2123-5c45-9cdb-a8d67d673bbc
+page-type-slug: story-chapter-royal-road
+title: "v4c22: The Inner Sect part 2"
+slug: 0031-v4c22-the-inner-sect-part-2
+partOf: beware-of-chicken
+position: 31
+ownLength: 2552
+unit: words
+ownProgress: 2552
+publishedAt: 2023-07-07
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1269475/v4c22-the-inner-sect-part-2"
+royalRoadId: "1269475"
+markedReadAt: "2026-06-29T18:52:24.289Z"
+---
+
+Bi De sighed as he struggled not to sink into the cushions of the entirely too plush couch. It was the hardest seat he had managed to find, but it still felt like it was going to swallow him whole.
+
+He had to admit, he much preferred the garden. Alas, his suggestion to Zang Zhong had merited an invitation to sit with the rest of the man’s… friends. They had been adequate company so far, he supposed. His only issue with them was their inability to cease speaking.
+
+It seemed as though not a moment could go by without them remarking on something. Then again, in their incessant need to fill the air with their own voices, they were remarkably helpful—Bi De had learned more gossip in the past few minutes than he had in the previous near-month of keeping his ear to the ground. He had heard a lot of useful, if biased, information from their chatter. Outside of the gossip, their conversation was grating at best. Did they really need to point out the obvious so often?
+
+“Ha, look at her face! She was surely spitting blood, earlier,” Chu, the tallest of them, chortled as he pointed out the most recent arrival, who had marched right up to where Zang Zhong was sitting.
+
+“Serves her right for trying to steal a march on the Young Master. Really, is she stupid?” Jianshen laughed.
+
+Bi De looked to where Zhong was sitting. The man had his arms around the shoulders of two women. One was Yuyu, the woman Bi De had met before, and the other was an Outer Disciple who was also his lover. As were, apparently, the six others who draped themselves around him sharing Zhong’s couch, simpering and serving him.
+
+“Thank you for inviting me, cousin,” Zang Fengfeng said as she greeted Zhong, her eyes sparking with contained rage. She was obviously furious, a state of affairs worsened by his triumphant smirk.
+
+“Indeed. One should be kind to family, and those less fortunate than themselves,”
+
+“Indeed, cousin, indeed,” she said, smiling like Tigu before she killed a rat. “I shall return all the kindness you have shown me—a gift truly worthy of yourself, to show my utmost regard.” She pulled a box out from a storage ring on her finger. “I have procured for you some refining pills—I’ve heard of your troubles with your bottleneck, and, kindly Sister I am, have procured for you some pills worthy of your cultivation.”
+
+The box had the character for ‘Initiate’ on it.
+
+Zhong flinched slightly, his eyes narrowing, while those watching let out sounds of outrage—or amusement. She hadn’t been quiet about Zhong’s cultivation troubles.
+
+“That brat, she dares?” Chu muttered.
+
+…they certainly disliked being quiet, these men.
+
+“I thank you, cousin, for giving me the best treasures you could afford. Even such small, worthless boons are appreciated. Every little bit counts, no?” Zhong mused after a moment.
+
+Both of them glared bloody murder at each other.
+
+Why Zhong saw it necessary to invite those whom he disliked so thoroughly was a mystery to Bi De, as was why those people bothered to show up. But these were not questions that he expected to unravel the mysteries of in so short a time, and there were eyes on him; putting those thoughts aside, he took a careless-seeming swig of the spirits he had been provided.
+
+He could not say the vintage was bad. Indeed, it had a pleasant flavour, and it had as much Qi in it as the mead Vajra produced. It would have been quite enjoyable, without the slight acrid, bitter tang he could taste within it.
+
+Bi De longed to mix it with fruit, or something more pleasant, but alas. Just as he was stuck at this party, no matter how much he was already tired of it, so too was it necessary to not seem too unusual. So he endured the… peculiar tastes.
+
+Bi De quite enjoyed the parties back home. Drinking and having fun with his fellow disciples was always something he looked forward to. They were some of the best times he had, all of them together and celebrating something or another.
+
+Zang Zhong’s gathering, by Bi De’s reckoning, was not a party.
+
+Where was the dancing? Where was the thumping music? Where were the merry jigs? Where were the games of luck and skill? Or the river to jump into and play in? Where were the people making fools of themselves, for no other reason than to make their friends laugh?
+
+There was none of that here. Here, people had eyes like vipers stalking their prey. Their smiles were as false as their thanks for being invited.
+
+It was not a party, but another battleground. An arena of words, rather than blades… and perhaps that wasn’t entirely out of the cards either, judging by the tension in the air. Truly, his Master had been correct on the culture of Cultivators.
+
+People stuck to what seemed to be pre-arranged groups, chatting while sitting on perfumed silks, until an hour later a gong rang out, and they all rose to seat themselves for dinner.
+
+Servants stepped gracefully out from the doors to the kitchen, placing covered trays before each of the guests. The service was a show of wealth and power in its own right; there was one servant for each of the nearly two hundred cultivators—Inner Disciples, and a few members of their retinue.
+
+Zhong stood up and clapped his hands, and the servants pulled off the coverings of the trays to which everybody gasped as they saw the salads and understood the depths of his performance.
+
+“Five Colour Dew Herbs?!” several shouted in shock, and everybody else twisted to stare at the lounging Zhong.
+
+“A small bounty from my garden, to you. Eat as much as you’d like—I have a very capable gardener,” Zhong said, smirking at Bi De.
+
+An explosion of impressed sounds and muttering about how powerful Zhong was followed the declaration. Like a ravenous Wa Shi, the cultivators descended upon the salads before them. Bi De himself picked up a chopstick full of it and put it in his mouth.
+
+It really was quite good. The essence of the plant had a nice flavour, even if it was still lacking some things. He would have to bring some of this herb back home. Wa Shi would surely enjoy discovering its uses.
+
+For now, Bi De reached into his sleeve, glanced around to see if anyone was watching, and then added some sprinkles of dried, spiced worm.
+
+Ahhhh, that was better.
+
+He kept his eyes scanning the cultivators as they ate… but there was no reaction from any of them. Or at least no immediate reaction that wasn’t simply them enjoying the food.
+
+Well… He would have to check a roster of some sort, but this gathering had nearly every Inner Disciple eating at least some of his Qi—and though many were muttering about the “pure taste” nobody seemed bothered by it.
+
+He supposed that was good. There were at least no demonic influences among the Inner Disciples.
+
+===========================================
+
+Thankfully, things relaxed after everybody had eaten. The cliques seemed to dissolve somewhat as people claimed spaces all over the mansion, in separate rooms, or the palatial great hall, where more food and drink was distributed.
+
+Bi De took the opportunity to wander, his senses primed for anything out of the ordinary, but his exploration of the mansion was halted when a woman called out to him.
+
+“Fa Bi De. I would have expected you to be seated at Zhong’s table as a reward for growing him such high quality herbs,” Zang Fengfeng said, her voice challenging. She was seated at a table with four other women, all of whom were staring at Bi De with interest.
+
+Bi De considered them. All of them disliked Zhong… and quite frankly, Bi De disliked the man too. He did want to investigate the Sect more deeply, and this was as good an invitation as any.
+
+“I am but the gardener,” Bi De said, making sure to project some dissatisfaction in his voice.
+
+Fengfeng’s eyes widened slightly. “Oh?”
+
+“I hoped that there would be… better things here, but alas,” he continued, and the woman brightened slightly at the slight insult he had leveled against Zhong.
+
+“Hmph. My cousin wastes precious things. Come sit with us pretty Sisters, we can…. treat you right.”
+
+The other women smirked, making room for him to sit.
+
+Be Di strode forwards confidently, settling amongst the hens, his feathers unruffled. They introduced themselves: Baolai with her long blue hair; Heirong, who had a veil; Lanfen who had silver hair and eyes so dark they were black; and finally, a nervous looking, pink-haired woman named Shi.
+
+“Hmph, that bastard Zhong, lording it over people,” Fengfeng launched into her complaints immediately after a swing of her drink. She flipped her blonde hair to the side and stared at him. “Why did you even start obeying him?”
+
+“He commanded me to, and I thought it was prudent to obey at first… but I must confess I find myself unimpressed,” Bi De said. “All he wants me to do is tend to his garden, and my time is better spent elsewhere. Soon, it shall not require much thinking at all, and I may return my efforts to other things.”
+
+The other ladies nodded, while Heirong smirked.
+
+“Do you get a lot of people asking you to tend to their garden?” she asked.
+
+“Lady Yuyu,” Bi De said simply, and the rest of the ladies gasped at the scandal he had just revealed.
+
+“Did you?!” Fengfeng demanded immediately, and looked disappointed when Bi De shook his head.
+
+“I am not the sort of man to tend to just any flower. One must look for something of… high quality.”
+
+He leaned in and picked up one of the alcohol bottles, then turned to Fengfeng with a brilliant smile. He poured her drink, staring into her blue eyes. A light dusting of red graced her cheeks.
+
+“Hmph. I bet you say that to every woman,” she declared, before turning her nose up at him.
+
+Bi De just smiled… and then turned to Shi, winked at her, and filled her cup as well. The pink-haired woman turned completely red.
+
+Master Shen Yu was correct. This is rather fun.
+
+“You cad,” she huffed, but her eyes were intent. “How do you plan on apologising to this maiden for playing with her heart?”
+
+“How does the lady wish to be apologised to?” he asked, leaning forward.
+
+“Sing for us!” Baolai blurted out. The woman was practically vibrating in her seat. Fengfeng glared at her moment being stolen, but nodded.
+
+“Indeed. Sing for us, and I may forgive you.”
+
+“Dance too!” Baolai heckled.
+
+Bi De rose. It had been a while since he had shaken his tail feathers for some females… and Disciple Xiulan was not the only one who could dance.
+
+His silver Qi trailed in his wake, and the eyes of every woman at the table were on him.
+
+====================================
+
+When he finished, he found that the women had rearranged themselves around the table. His new seat was now in the middle of the group—where he sat, bemused, while the ladies chatted and gossiped around him.
+
+He learned rather more about the sex life of people he had never met before than he wanted to. He refilled cups, and he made small talk.
+
+It… came rather worryingly easily to him to say the right words and compliments to have one of these ladies spluttering or looking away with red cheeks. Baolai was hugging one of his arms, and the softness felt quite good.
+
+Suddenly, Fengfeng straightened, and seemed to remember something.
+
+“Oi, Baolai, what did you want to tell us earlier, anyway?” she asked, and the other Inner Disciple grinned, looking to say something, before turning to Be Di with a slight amount of apprehension.
+
+Normally, Bi De would have excused himself, to avoid eavesdropping on something he wasn’t meant to hear, but he was here to gather information... “One does not divulge the secrets of ladies,” he said instead with an easy smile, though it sat a little uneasily with him to do so.
+
+Baolai perked up and turned to the other women, who also seemed to believe him. “I have news about what's going on in the north,” she said. “I heard it directly from Elder Shenhe’s disciple, Yuqing.”
+
+“You lie,” Huirong said. “Core Disciple Yuqing is gone too.”
+
+“But Xiao Yun is still here,” Baolai replied, shaking her finger. “And I just so happened to be nearby when she was taking a transmission from her Senior Sister.”
+
+The rest of the ladies leaned in.
+
+“They’re hunting for something. And it's not foxes. Yuqing was complaining about the pace Elder Shenhe had set. They’ve hit thirteen locations so far, destroying them utterly.”
+
+“And it's not foxes?” Shi whispered.
+
+“You know what I think. I think it's Demons. Those rumours about Zang Li were true, he was a demon, and—” Baolai said.
+
+“Do not let the inquisitors hear you say that. He died fighting another cultivator, a demonic one.” Fengfeng said, her voice hard… before it softened and she rolled her eyes. “No matter how unbelievable that is. He was a cunt when he came back from the north.”
+
+“Mmm. He used to be kinda cute. But… well, domineering Li wasn’t too bad either. I heard from Jiao he wasn’t bad in the sack, but he didn’t cuddle,” Huirong singsonged, and Fengfeng looked like she was going to gag. “Still, if we can’t let the Inquisitors hear, there must be some truth to things, no?”
+
+There were uncomfortable murmurs.
+
+“They’re continuing north to Shatterfrost Peak—ah, you didn’t hear that from me,” Baolai said, suddenly uncertain.
+
+“Hear what?” Bi De asked, and he received a smile in return. Inwardly, however, he was quite pleased. This was good information. Demons in the north—and if an Elder was hunting them… well, then perhaps that meant that the leadership of the Sect wasn’t compromised, didn’t it? He would have to investigate further.
+
+He refilled Baolai’s cup.
+
+Eventually, the party ended. It took all of Bi De’s willpower not to accept any of the rather blatant invitations—but the women were all rather intoxicated, and his Great Master and Shen Yu had said to tread carefully with such things. Instead, he swiftly returned them to their homes and servants, to the surprise of the mansions’ staff.
+
+He very, very nearly caved however, when Fengfeng got… grabby.
+
+Thankfully, he thought better of it. Doing this would make Ri Zu sad. And he wasn’t about to hurt her for any of these women.
+
+He went to bed quite frustrated… so frustrated he briefly considered going to find Ri Zu. She was very beautiful in her human form, and… and she needed her rest. She was working very hard.
+
+He tossed and turned for several minutes until he gave up on sleep.
+
+Perhaps some work will calm my mind?
+
+He ventured back to Zhong’s garden and began tending to the plants. The work was soothing, and he lost himself completely in it. His breathing evened out. His eyes went blank.
+
+He moved without conscious thought.
+
+==========================
+
+Qi.
+
+Intent.
+
+‘… hmm?’

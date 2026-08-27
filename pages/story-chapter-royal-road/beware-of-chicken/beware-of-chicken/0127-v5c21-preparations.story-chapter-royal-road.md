@@ -1,0 +1,159 @@
+---
+id: 66920dbf-bf1e-5d2f-87a5-dcdb36033d4c
+page-type-slug: story-chapter-royal-road
+title: "v5c21: Preparations"
+slug: 0127-v5c21-preparations
+partOf: beware-of-chicken
+position: 127
+ownLength: 1973
+unit: words
+ownProgress: 1973
+publishedAt: 2024-07-17
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1720703/v5c21-preparations"
+royalRoadId: "1720703"
+markedReadAt: "2026-06-29T18:55:52.302Z"
+---
+
+With the fact that there may be demons coming to attack us, there of course needed to be a number of conversations.
+
+A couple hours later we were in Verdant Hill. Everybody from the farm, as well as Pops and Yao Che, were sitting around a table with the Lord Magistrate, Lady Wu, and Uncle Bao.
+
+It was an eclectic mix of cultivators and mortals, and everybody was in serious mode. I almost didn’t recognize Tigu. Right now she wasn’t the little kid that regularly crawled into my bed, she was a seasoned commander ready to do battle. Xiulan had an aura about her that I just couldn’t put my finger on, save that she seemed almost regal. Xianghua would occasionally release a breath of steam from her mouth, while Gou Ren suddenly felt palpably solid, like a bastion wall.
+
+The room was very warm because of Yin. The woman had her arms crossed and was literally burning with barely contained rage. Noodle was coiled around her arm and apparently didn’t feel the heat. He was glaring with his one good eye, a look of almost manic hatred seething in its depths. Huo Ten looked rather grim, the monkey fiddling with his various crystal pendants. Zhang Fei was here as well, the boy wearing his chicken mask. He had refused to go back home when he heard about what was happening.
+
+Chunky loomed over the meeting, filling every available space that wasn’t occupied by another person. Peppa had one lip curled, exposing her own, much smaller tusks, and she seemed to be radiating darkness and foul intent. Washy, in his dragon form, simply laid at rest, coiled as his eyes flicked over everybody. Babe looked the most normal, simply calmly chewing his cud, while Vajra had a contingent of her bees from the greenhouse drawing what looked like a topographical map of the terrain surrounding the farm, complete with likely routes that enemies could take.
+
+Meiling was the only person in the room who was sitting off to the side, and that was because she was already starting on her own preparations. She was crushing and mashing up different mushrooms and plants. I suspect the only reason we weren’t coughing and hacking over here was the fact that you could visibly see the toxic fumes pulling themselves back towards her and then re-condensing into liquid in a glass flask on the little table she had.
+
+And beside all these people with literal magic super powers, the Lord Magistrate managed to not be swallowed up. He sat at the center of the table, his face stoic, and his back ramrod straight as I informed him about what we had so far learned.
+
+There wasn’t even a hint of fear on his face, just understanding that I wouldn’t have brought this to him if It wasn’t important.
+
+“You are sure of this?” The Lord Magistrate asked.
+
+“Not one hundred percent, but signs currently point to yes,” I replied.
+
+The man swallowed while Lady Wu took a sip of tea, her hand shaking slightly.
+
+“An evacuation will be… costly,” The Lord Magistrate said after a moment. “It's the middle of winter, and so the cold is just as much our enemy as the things coming from the Sea of Snow. The sick, young, and elderly will not have a good time of things, and that is not counting the usual suspects: starving wolves and mad bears who have refused to hibernate.”
+
+He was right. Though the people would evacuate if he asked them to, it wouldn’t be a pretty thing. The snow was four feet deep in some places, and the nights could be bitterly cold.
+
+“Babe can plow the road between here and the next town, and we have fire crystals I'll give to you—but an evacuation may not be necessary,” I replied. “If there are demons and they are heading towards us, there shouldn’t be any that come to Verdant Hill,” I said, drawing on the memories of my time in the library of the Cloudy Sword Sect. “Demons are drawn to Qi. If Meimei was smelling their scouts, then they know exactly where we are and are heading towards us from the north. Verdant Hill is a day further south, even for a cultivator.”
+
+“You plan to stand and fight then, and stop them there?” The Lord Magistrate asked.
+
+I looked him in the eyes. “Yes. We will have contingencies… but we will stop them before they get further south.”
+
+If the demons made it past us, a whole load of people would die. And while I may not be a hero… like hell was I going to let that happen.
+
+“But that doesn’t mean we’ll just leave things undefended. I’ll need somebody to help out with scouting, and to relay messages.”
+
+‘Friend Vajra says, “My scouts will range far, and we shall know of our enemy’s approach. My servants will convey the Master’s will across the distance,”’ Chunky conveyed, his deep voice rumbling.
+
+I paused. Right, we had a literal legion of scouts thanks to Vajra—she could see through their eyes for fairly long distances and control them to some amount… but they were just bugs.
+
+“Will they be fine in the cold?” I asked her.
+
+The bee wiggled. Chunky spoke for her again. ‘Sacrifice for Hive is the highest calling.’
+
+I paused at the declaration. The bee stood proudly, her wings buzzing. The bees drawing the map paused in their work to land and began furiously wiggling their behinds in what I could only imagine was praise and shouts of conviction.
+
+Were they all sapient, or just extensions of Vajra’s will? I didn’t know. I didn’t want to think of anybody as expendable cannon fodder. But… this was the best option. The safest for everybody, really.
+
+“Yin, see if you can do anything about the cold for them, even if it means shaving down fire crystals to slivers. Vajra, the scouts’ primary goal is to stay alive, no heroics. Information is what we need. The longer your girls stay alive, the better off we are.”
+
+“Yes, Master!” Yin barked, while the bees redoubled their wiggling. Vajra even dropped into what looked like a regal bow.
+
+‘Master wields his blades well,’ Chunky once more said for her, though I got the feeling that this wasn’t the full translation of what Vajra was trying to say.
+
+“If we can catch them with their pants down that would be the best. I don’t want to just sit at home and wait for them to attack. If we can hit them first and as hard we can, we’ll spoil a lot of their plans,” I said. Villains act, heroes react? Miss me with that shit. I’ve played too much hockey and too many tabletop wargames to cede the initiative. “Tigu, Xiulan, Yin, Xianghua, if we can get a sense of their power… we might be going in.”
+
+They all perked up at that. Some part of me wanted to tell them to sit safe at home, and I would take care of it all, but that was stupid. And worse, insulting. They were warriors, all of them.
+
+I knew better than to give them an order they would disobey.
+
+“Meimei, Gou Ren, Zhang Fei and Shaggy Two, Peppa, Noodle, Babe, Huo Ten Vajra, you’re all defense.” There were various nods at that. Gou Ren in particular seemed a bit grim. “I want things shored up, and I want to know if anybody sneaky tries for a flank.”
+
+Never hurt to guard your backside after all.
+
+“Chunky, you’re our mobile reserve. If we need you on the offense, come running, if not, you’re on defense.”
+
+The boar nodded solemnly.
+
+Finally, I looked at the last person who could be a combatant. Washy looked a bit constipated and he swallowed thickly, clearly nervous about what assignment I was going to give him.
+
+Out of everybody, Washy showed the most overt fear.
+
+He was a coward. Everybody knew it. He talked a big game, but it was something he couldn’t really hide. He was the first one to turn tail and cheese it. Hells, he even flinched at hawks sometimes, even when he was a dragon.
+
+But… that made him perfect. Because out of everybody… Washy was the only person who I knew would actually obey me when I told him to run.
+
+“Washy, if things start going south grab Zhuye and Bowu, signal the evacuation here, and then take the boys to the Cloudy Sword Sect as fast as you can.”
+
+Washy’s eyes widened. Bowu looked like he was about to object, while Xianghua turned grateful eyes on me.
+
+“I very much hope it will not come to that. But… it's the most important job I've got for you, okay? I trust your judgment.”
+
+The dragon bowed his head.
+
+I took a deep breath. “Grand Marshal, do you have anything to add or any recommendations?” I asked.
+
+I had almost asked Xiulan to do this instead of me. She was better at public speaking and she even had the title.
+
+But this was my home. And as the strongest local cultivator, it was “common sense” that command fell to me.
+
+The only thing that was good was that Xiulan knew me well enough that she wouldn't try to ass-kiss with me. She knew I wanted her actual thoughts.
+
+But Xiulan shook her head. “We could call for help from the others, but it will take, at minimum, two weeks for anybody to receive a message in this weather and reach us here with an appropriate force. And that is if they get the message and start moving immediately. Secondly… we are among the strongest members of the Azure Alliance. If we cannot handle things, then another Sect joining us would make little difference. Finally, if it ends up as a false alarm… things could get awkward. As it stands, the plan is sound. The attack team shall go over the more detailed particulars about a possible approach over the coming days.”
+
+I nodded. Good enough for now.
+
+“We’ll hope for the best and prepare for the worst outcome. Everybody know what they’re doing?” I asked.
+
+“Yes, Master!” came a resounding chorus.
+
+“Then let's get ready,” I declared authoritatively.
+
+Everybody stood, their eyes filled with determination and fueled by the confidence in my voice.
+
+They didn’t see my hand shaking slightly under the table.
+
+Yet I didn’t escape the notice of one person, as Meimei’s arms wrapped around my shoulders.
+
+“We’ll get through this,” she whispered in my ear.
+
+The shaking slowly stopped.
+
+“Yeah. We will,” I agreed.
+
+We too departed, heading back home to prepare.
+
+“Oh, by the way, do you want to hear about my newest poison?” Meimei asked, her eyes gleaming.
+
+“Of course. Tell me how nasty it is,” I agreed.
+
+The answer was “really fucking nasty,” as it turned out.
+
+There was one more surprise waiting for us when we were just about to leave, however.
+
+“Handsome Man?!” Tigu shouted out.
+
+All of us turned to the big lad walking towards us. He had a smile on his face and a massive pack on his back that looked to be filled with gifts.
+
+However, that smile paused as he saw the serious looks on our faces.
+
+“A bit of a bad time to visit, unfortunately,” I remarked.
+
+“What is the matter?” he asked as his eyes became serious.
+
+“There may or may not be a demon assault headed towards us,” I replied.
+
+The man paused only a split second before he nodded.
+
+“What can I do to help?” Tie Delun asked, as though the very thought of leaving had never even entered his mind.
+
+Like all the rest of my friends and family.
+
+…man, what the hells did I do to deserve these people?

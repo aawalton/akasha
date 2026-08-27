@@ -1,0 +1,225 @@
+---
+id: 9fe4136f-0395-5b2d-bbeb-ae15422f5177
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 22 - A Multitude of Reunions"
+slug: 0025-book-4-chapter-22-a-multitude-of-reunions
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 25
+ownLength: 3714
+unit: words
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2684755/book-4-chapter-22-a-multitude-of-reunions"
+royalRoadId: "2684755"
+---
+
+“Morning, <Gemheart>.” Ranthia whispered the instant Avyna opened her eyes.
+
+Her nightmares were still unspeakable. Xaoc’s domain only loosely covered dreams and Ranthia was more than a little disinclined to find some lesser deity to waste prayers on for selfish reasons. There was nothing she could do about the nightmares, so she tried to waste no effort on them. So long as she minimized her time asleep, she was fine.
+
+Besides, it let her greet Avyna every morning when the foundation of all that was good in her life woke up!
+
+Avyna just smiled at her and leaned in for a kiss.
+
+“<Morning’s greetings, my love.>” Avyna replied, before she sat up and stretched while Ranthia shamelessly enjoyed the view.
+
+“The leftover stew still sound good for breakfast, or do you want me to get up and make something while you shower?” Ranthia asked once her lover finished.
+
+“<The stew will be fine. You may greet your god, my love.>” Avyna replied with a smile before she sought a second kiss. After a luxurious, lingering time spent immersed in affection, Avyna rose and walked across the plush rugs to seek her morning shower.
+
+Ranthia watched her go with ideas forming in her head. She had already prayed to Xaoc while she waited for Avyna to rise, after all. And she fully intended to relish every moment of time she spent with Avyna since she finally had much of her lover’s attention again. With her soul soothed, she was making grand strides on finding the strength required to seal away her own weakness.
+
+It was her problem, but her perfect elf was undeniably the source of her boundless willpower.
+
+Ranthia slipped to her feet and snuck towards the running shower, intending to join her lover for whatever she could get away with without making Avyna late—to the elf, running her business was just as sacred as Ranthia’s actual faith was to her.
+
+“<Ah, 1450.>” Avyna’s voice—far drier than her body no doubt was—noted.
+
+Had Ranthia not already passed through the curtains as she neared the shower, she never would have heard the quiet words. Instead…
+
+Well, she knew that number.
+
+“It’s your birthday?!” Ranthia abandoned stealth and shoved her head into the shower while she shouted.
+
+She rarely managed to catch Avyna completely by surprise, but her lover emitted an adorable yelp as she spun.
+
+The novelty (and new knowledge) was entirely worth getting sprayed by water over.
+
+“We have to celebrate.” Ranthia argued while she aggressively ran a towel through her hair.
+
+“I decline. The number is not significant, and I do not consider mere survival for another year to be an achievement. Not after so many.” Avyna retorted in a frosty tone that would have normally forced Ranthia to drop it.
+
+But it was too important for her to be dissuaded!
+
+“At least let me do something for your birthday. Something just for the two of us.” Ranthia offered.
+
+Honestly, she was fine with there not being a party—she had shared enough of her time with her beloved.
+
+“What do you have in mind?” Avyna asked, plainly exasperated, while she finished drying.
+
+Ranthia hadn’t exactly put a ton of planning into it, but she buried her doubts and made her offer anyway.
+
+“<Henceforth, we shall exclusively use your language while we are alone!>” Ranthia boldly declared.
+
+“<My love, your pronunciation is still terrible. Were I less versed in your attempts, I might have failed to understand that.>” Avyna’s voice was gentle and soothing, even as she crushed Ranthia’s pride.
+
+“<…Yes, well, I am sure I will improve. Speaking more it will help me considerably.>” Ugh, there was a mistake there, but she refused to stop. “<It will let you feel more comfortable, at least while we are together. Besides, the language feels more romantic, which suits our conversations nicely.>”
+
+“<I… suppose I cannot disagree with any of that.>” Avyna still seemed unconvinced.
+
+“<Happy birthday, Gemheart. It may be unimportant to you, but every year—every day—we spend together is priceless to me. I love you, as deeply as the spring flower loves the rain and as deeply as the cat loves the warmth of the sun. May each and every moment of our eternity be so full of wonder and bliss.>” Ranthia shamelessly cheated.
+
+“<Fine! Gift accepted, thank you. But do not quote that poem at me, I have little enough time to break my fast before I have to open my shop!>” Avyna pleaded as the tips of her ears burned a delightful shade of pink.
+
+…Ranthia was never going to let Swarm find out that she had found a fondness for certain poetry. The man wouldn’t just be insufferable—she had no doubt that he’d try to coerce her into reading Reman poetry!
+
+The winged ogre was back, yet he never appeared on the shimagu tower (still a battering ram they planted like a twisted sapling), even when Ranthia manned hers. Instead, the godsdamned coward attacked their patrols and fled before Ranthia could reach him. Much like his attack on the convoy, he descended from the sky for a powerful diving strike—plainly further enforced by his Skills—then tried to wreak additional havoc for several moments before he flew away.
+
+The first attempt he made wasn’t too bad. The scout he targeted had a good threat warning Skill—the equal of [Combat Awareness], at a minimum—and managed to scatter his team ahead of the impact. Only one of them got hit with a glancing blow from one of the ogre’s follow-ups before they managed a coordinated counterstrike that drove him away.
+
+The second killed two scouts. The third killed one.
+
+And Ranthia was doing her damned best to prevent a fourth.
+
+Three attacks were hardly sufficient to establish a pattern, but the twin had only struck during cloudy days or heavy fogs—and was often seen flying off to Xaoc knew where to make himself someone else’s problem. It was impossible to predict when and where he would strike, so Ranthia made herself as tempting a target as possible. Each cloudy (or foggy) day, Ranthia bundled herself under a heavy traveller’s cloak and braved the frigid weather on a long solo patrol route that lasted until nightfall or until the weather cleared up.
+
+Not that the winged ogre had taken the bait.
+
+Ranthia grumbled to herself as she made her way home. It was cold, but she still managed to work up a sweat prancing about while she was buried under the traveller’s cloak. The result was an awful blend of feeling like she was both freezing and sticky. Ranthia was in a foul enough mood that she actually walked under the gate before she realized what she was doing.
+
+Well, whatever. Ranthia went through her [Healer] screening and stamped her way home. She was in a foul mood, and she needed to see Avyna. And, nearly as dire, she needed to get out of her armor before she snapped.
+
+“<I’m home, Gemheart!>” Ranthia called out as she passed through their home’s flap.
+
+Where she immediately shifted out of her armor and her undergarments both, once she confirmed no one was sitting at their table.
+
+“<My love, why are you are always in such a rush to get naked every time you wear your armor for too long?>” Avyna teased as she stepped through the curtains from their personal area.
+
+It wasn’t the first time that Avyna had asked the question; it had become a bit of a game between them. Avyna would comment on her zeal for nudity and Ranthia would make a flirtatious response. Yet, for whatever reason, something went awry that day.
+
+“<I—…>” Ranthia’s lewd retort died on her tongue.
+
+Unwanted memories paraded across her mind. Namely—horrifyingly—a hundred and twenty-eight different views of Pupius’ sun-kissed cheeks. When she was young, she had always complained about the man’s propensity to cast off his armor and get naked after a hard fight, and yet…
+
+“<Oh Xaoc, I’ve turned into my father.>” Ranthia whispered in horror.
+
+Avyna tittered into the side of her wrist, plainly enjoying the mental damage Ranthia was actively suffering.
+
+The [Analysts]—specifically Gailla’s team—finally proposed a potentially workable solution to the issue with the winged ogre. If the twin wouldn’t go after Ranthia, they would deliver Ranthia to him. …Which was obvious, but their actual plan was for Ranthia to dress up like a Legion scout, complete with carrying bulky gear that blocked the aerial view of her—hopefully fouling whatever flavor of [Identify] the twin possessed.
+
+Ranthia loved the idea, but she took it a step further. Few in Remus knew the true breadth of [Diffuse Reflectance]’s talents—which was for the best. Yet Ranthia was determined to kill the accursed twin, so she created a new image for the task: a woman that was a hand shorter, with darker skin and more prominent musculature, and light brown hair. The form was on the outer edges of what [Reflections of Reality] would still allow her to shift into—the form was human, but it was no longer her in any meaningful way.
+
+The necessity of preserving her secrets meant she only assumed the image once she was outside of Remera—the scouts were collectively surprisingly willing to swear themselves to secrecy, just as they were able to endure the sight of her inhuman eyes. Granted, people were often flexible when it came to matters of survival.
+
+As per the original plan, Ranthia still wore the greyed leathers of a scout and carried the bulky portable shelter, which covered her head. The straps could be released with a single touch, and her adamantium was hidden under cloth wrappings that covered her arms. Complete with a Legion-issue spear, she looked just like any other scout assigned to longer-range missions. Yet she was ready to cast aside the unfamiliar weapon the moment the ogre came within her reach.
+
+Day after day, the game continued while Ranthia awaited her chance.
+
+On the thirteenth day, Ranthia and four other scouts hiked across the wasteland through the intermittent sleet. The day was hazy and grey, with a gentle—yet piercingly frigid—wind that maximized their misery as they trudged gamely toward the north. The plan, like most of Ranthia’s days spent as noxious bait, involved a two-to-four-day mission that sought to identify any signs of additional shimagu forces in the operational vicinity.
+
+Or, as the lead [Scout] liked to refer to it: busywork, up until the moment it became a crisis.
+
+The only other woman on their team of five seemed to be doing her best to keep morale down. Ranthia had no idea how they even ended up on the topic, but she refused to shut up about bamboo. The woman was from a family that ran a bamboo farm (as if the stuff wasn’t common enough in the wild) and seemed to take her removal from the farm as a divine mandate to spread the gospel of bamboo to the masses.
+
+Ranthia was trying to decide how she wanted to play it when one of the men inevitably recommended their fellow scout suffer an “accident” while they journeyed. And then Ranthia felt the ping of danger, an instant before her ears picked up on the sound of an object descending through the air at excessive speed.
+
+Finally! The thought stormed through Ranthia’s head as she shoved the nearest two scouts clear while she hopped back. The winged ogre twin smashed into the frosted ground with enough force to spray them with fragments of frigid rock, but there was no serious harm. The menace glared balefully at his prey, then he froze—presumably, he noticed her level.
+
+The pause was all the opening Ranthia needed. The pack dropped as she lunged forward, driving the spear that she carried into—and through—his leg and into the rocky terrain. If he was pinned, he couldn’t just fly away.
+
+“Sur-priiise!” Ranthia called out in a sing-song voice.
+
+An image of the real Ranthia appeared in front of him and lashed out with her knives. The winged twin snarled and blocked the attack with his stone club—meaninglessly. The image wasn’t the real attack.
+
+Ranthia, still in disguise, slammed her shoulder into her own image, shattering it as she passed through the space it had occupied. Then she lunged, lashing out with one of her newly formed knives for a broad strike.
+
+Her opponent’s club was too high and still had too much upward momentum to easily reverse course in the tiny window she had left him. Her own attack wouldn’t be immediately fatal, but spilling his intestines was sure to slow him down.
+
+Her opponent surprised her. There was no beat of his wings, yet with the sound of splintering wood, the winged ogre launched into the sky at speed.
+
+But he wasn’t meaningfully faster than she was— even if his level had climbed more than a little since they met.
+
+Her attack still landed… she just slashed somewhat lower than she had intended or expected to. Her [Void Edge]-kissed blade sheared through both leather and flesh, followed by [Echoes of Devastation] tearing even deeper into the groin of the winged ogre.
+
+The twin howled a haunting mixture of fury and agony as he continued to fly into the air like an arrow, trailing blood as he went.
+
+“That’s what you get! Mess with the Legions and you’ll be less of a man!” The lead [Scout] gleefully shouted, as he lowered his bow.
+
+The other three scouts were too busy staring at the piece of ruined… meat that the ogre had left behind.
+
+Ranthia was cursing inside of her head. The winged ogre wouldn’t die from such a wound! Her opponent disappeared into the clouds at speeds she had never known him capable of. The fact that he left bereft of something was unimportant—he had seen more of her abilities, and she had failed to kill him!
+
+Which meant the shimagu knew more of what she was capable of.
+
+The scouts, at the very least, were convinced the ogre wouldn’t attack their patrols anymore. Their return journey was filled with crass jokes, not that Ranthia was entirely in the mood. She wasn’t some moron with a ‘code of honor’ or anything—she had inflicted similar injuries on rapists more than once—but she was displeased with herself for failing to finish him off.
+
+All she could do was hope that the scouts were right.
+
+Barely a month later, a second force of shimagu arrived, renewing the population of hostiles in the vicinity. The new arrivals assembled a new base, closer to Remera than the old camp—then tore it down and reinforced the existing camp instead, after the dwarves proved they could fire their siege weapon into its heart.
+
+As much fun as that day was, the ones that followed were less entertaining. Almost daily, the shimagu camp disgorged a force to challenge Remera, and Ranthia found herself perched atop the stone tower facing down an angry winged ogre.
+
+Which all but confirmed that the shimagu had some sort of [Healer] available. Without one, there was no way that the ogre’s leg could possibly be restored so quickly from the spear that tore through his thigh.
+
+Remera was back to playing games with the shimagu as spring arrived properly and warmed the wasteland day by day. Small attack forces skirmished with small defense forces in the middle of the wasteland while Ranthia ignored crude and hostile displays from her adversary, neither of them ever taking action.
+
+Ranthia tried to push for permission to engage the winged ogre so Remera’s forces could attack the enemy base directly. The shimagu’s base had been forced to take down their former defenses when it swelled in size, which left them with short walls that were mostly conjured material. It was a battle Remera could win if they attacked, so long as she kept the twin out of the fight. The base commander refused—he called her plan “reckless” and remained concerned about the potential risk of some unseen additional twin that could prevent it from working.
+
+Ranthia’s response to the man’s cowardice wasn’t suitable for shouting during the meeting, so she held it in until she complained to Avyna.
+
+Ranthia’s 35th birthday passed with almost as little fanfare as her 34th had. It was hard to celebrate while most of her time was spent atop her stone tower.
+
+With the shimagu’s return to their former tactics—and the lack of any sign of an all-out attack or true siege in the works—Legion command was even more openly apathetic to Remera’s status. Several crates of arrows were airdropped from above the clouds—which tested their defense [Mages] more harshly than anything the shimagu tried—but supplies otherwise remained minimal. The base commander and his advisors seemed to be the only people in Remera that were okay with the dearth of support after so long, though they continued to try to convince everyone else that the shimagu presence near Remera was likely a feint, meant to distract the Legions from some greater attack.
+
+The position felt like it came out of nowhere, which was suspicious in and of itself—especially with how vocal they were about it.
+
+Summer arrived with a heatwave, and it showed no signs of abating. It wasn’t as brutal as some of the ones that the war-torn wastelands had endured, but it made each day unpleasant—even before the issues with their neighbors.
+
+The shimagu made sure most days were far worse than just ‘unpleasant.’
+
+Unfortunately, Ranthia’s problems weren’t limited to the heat and the near-daily stints on her tower. In fact, they were, in many ways, the least of her problems.
+
+“<I am uncertain what I shall do, my love.>” Avyna fretfully admitted.
+
+Late at night, in the back of Avyna’s shop where the storage area was, they concluded an inventory that confirmed what Avyna’s records showed. Happily, there were almost no discrepancies—even for a business located in a military base, theft was impressively rare. Less happily, it was impossible to deny that Avyna’s stock was nearly depleted.
+
+“<Not even the elves are willing to run a caravan out here?>” Ranthia allowed herself to ask a stupid question.
+
+“<They are averse to risk, my love. There are gnoll caravans that would be willing to visit our base and the camp of your enemies, but I have no way to invite them. Their tribes follow their own whims. Granted, even if one arrived, they are unlikely to carry many of the staples that I stock.>” Avyna’s frustration was palpable.
+
+Demand had, if anything, increased as Remera remained cut off from resupply. It was great for Avyna’s profits, but it wasn’t like she was getting any new stock either. Without more supplies, she wasn’t able keep the legionaries’ bakery running and there was nothing to fill her barren shelf space.
+
+“<I suppose I’ll have to attack the shimagu camp and defeat them singlehandedly to get things moving again.>” Ranthia tried to joke in a solemn tone.
+
+Which earned her one of Avyna’s trademark glares, followed by a thin smile.
+
+“<We shall not resolve this issue tonight. Come, my love, it is late. Let us retire for the night.>” Avyna finally spoke into the brief-lived silence.
+
+Hand-in-hand, they crossed Remera’s quiet streets. Attacks by the shimagu after dark were exceedingly rare, and everyone was eager to get rest while they were able. The walls weren’t left undefended, of course—they weren’t stupid—but there were few signs of life on the dusty streets of the base.
+
+In their home, the two undressed and settled into bed, while Ranthia cuddled and tried to soothe Avyna’s worries. She had no actual solutions to offer her beloved—and she absolutely was not going to ask if closing the store for a while was really that bad of a problem—but she could offer the elf her love and her presence.
+
+Together, they could endure anything. Ranthia had come to accept that for her own circumstances, and she hoped that Avyna felt the same.
+
+“<I love you, my Gemheart.>” Ranthia whispered drowsily. She had no idea if Avyna had dozed off or if she was just at peace in Ranthia’s embrace—her elf was far too perfect to do anything so crass as snore—but she had to whisper the truth of her heart one last time before she succumbed to her own slumber.
+
+Ranthia closed her eyes. And the sound of horns blasting through the once-tranquil night chased all vestiges of her restful state from her mind.
+
+“Shit, that’s the urgent crisis pattern!” Ranthia shouted as she lunged for her armor, her promise to speak High Elvish momentarily forgotten.
+
+The horns continued to blare the same pattern as Avyna worriedly watched Ranthia prepare. A single shift was all it took to get herself fully equipped once again.
+
+“<Be careful, my love!>” Avyna called out after Ranthia’s shift concluded.
+
+“<I will, just stay here!>” Ranthia replied, thankful that Avyna kept her bow at her shop.
+
+Ranthia rushed from her home, her mind conjuring frightful possibilities about the emergency. For all she knew, it was some grand shimagu invasion or a team of twins out to crush their base once and for all—and those were on the likely end of her imaginative explanations. Ranthia opted to ascend the walls instead of throwing images, just in case her mana was about to become essential—her arcanite was full, but if she found herself locked into prolonged combat again, every bit counted.
+
+“Situation report!” Ranthia ordered as she finished her ascent.
+
+Not that she needed to bother—her own eyes told everything that she needed to know.
+
+Sentinel Aurora’s [Starship] was approaching their base—fast—and it grew less resplendent by the moment. One of the base’s officers that stood nearby started to explain his theory that it was a shimagu ruse—a false vessel—but Ranthia made a different judgment call.
+
+“That’s the real thing, but she’s out of mana! Get a rescue team together and tell the dwarves that we need to recover whatever cargo and arcanite we can salvage! Go, that’s an order!” Ranthia roared, even as the fading, crumbling vessel skimmed the ground.
+
+Ranthia spared a single glance at the shimagu base, which was already disgorging an unorganized mass of charging hostiles. Their window to act shrank by the moment, and Remera was on the back foot!

@@ -1,0 +1,359 @@
+---
+id: cb4482b6-d05d-53aa-b435-0314000f2adc
+page-type-slug: story-chapter-royal-road
+title: "v5c46: Reap the Harvest"
+slug: 0152-v5c46-reap-the-harvest
+partOf: beware-of-chicken
+position: 152
+ownLength: 3858
+unit: words
+ownProgress: 3858
+publishedAt: 2024-09-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1822101/v5c46-reap-the-harvest"
+royalRoadId: "1822101"
+markedReadAt: "2026-06-29T18:56:30.334Z"
+---
+
+The Spiritual Doctor who had aided Shenhe immediately pounced on the wounded disciples, going for Fenxian first. The disciple was in bad shape—bloody, broken, with a hole in his gut, yet he was smiling. His eyes met Shenhe’s and she knew that look: he had accepted his death, ready to die with honour and dignity.
+
+Shenhe met his eyes directly and let him see her approval. She would honour him in his last moments.
+
+Except the small woman declared him “treatable,” and Disciple Fenxian grimaced when she started shoving some healing concoctions into his wounds.
+
+Shenhe blinked. The woman reminded her a bit of Lishu of the Medical Pavilion in her style.
+
+The vulpine man, the woman who was good with her sword, the scion of the Che Clan, and Outrider Shao Heng all began attending to the groaning Spirit Beast, the mass of muscle whimpering softly. The vulpine man spoke to the Spirit Beast in a soothing voice, a half empty bottle of sparkling medicine in his hands.
+
+“Apologies, Elder, but time is still limited,” Yingwen stated as he approached. “We have joined forces with Lord Shen Yu, and the disciples of his grandson, Master Rou. Upon hearing of your capture, Lord Shen Yu decided to initiate a rescue.”
+
+Out of everything the man could have said, that certainly wasn’t something Shenhe had been expecting. The name did not make sense. Shen Yu? The Shen Yu that had apparently slept with the Patriarch’s aunt? The man from that slanderous and obviously fake tale? She knew the man existed, she had gathered that much, but she did not believe that he had seduced the Patriarch's aunt.
+
+Adding into that was the fact that the man was apparently Master Rou’s grandfather?! The Expert of the Cloudy Sword Sect, who had figured out these demons existed in the first place, and gave their Sect the chance to redeem themselves, even after their failure?
+
+The shock nearly made her break her cold, controlled mask. It had taken years to construct it—their branch of the Zang family had particularly expressive faces, a horrid weakness.
+
+It was unbelievable, yet completely believable. The truth, after all, was beside her. The man who looked uncomfortably like a fox had been mentioned in the report Fenxian had given. The man himself was proof.
+
+Their salvation had come from the Cloudy Sword Sect.
+
+Yet if there was an Imperial Realm cultivator here, and there was still a fight…
+
+“Where is Lord Shen Yu?”
+
+“He is doing battle with a foe, one that could be his peer.” The words chilled her. An Imperial Realm demonic cultivator—this was a truly dire situation. “Another ally is engaged with an enemy in the Earth Realm—the one who defeated us previously. Our ally is performing a holding action, and seemed quite certain of his defeat. Our objective was to awaken you, so that you could assist in that battle… and then extract while Lord Shen Yu finishes his own battle.”
+
+It was as good a plan as any. They had put their lives on the line to awaken her, so Shenhe would follow it. “The situation is understood. I shall sally forth immediately. Collect the disciples and retreat,” Shenhe commanded, then turned to Outrider Shao Heng. “Was the location where they stored our weapons uncovered? Going into battle unarmed is not ideal.”
+
+The man bowed his head. “No, Elder Shenhe.”
+
+Unfortunate. The man had defeated her once before. Even with help…
+
+A rattle drew her attention. The fox-faced man looked down at his sword as it shook. The man sucked in a breath and nodded.
+
+“Use mine,” he said, drawing the sword and holding it out to her. Shenhe’s eyes widened as she got a good look at it. “Please… I don’t think my uncle can last much longer.”
+
+The young man’s voice was thick with emotion as he offered Shenhe his blade, a slight bit of fear in his expression.
+
+That was not just a sword. That was Summer’s Sky, the blade of the arch-traitor. She knew its look by heart, and seeing it in person let her feel its nature all the more. How often had Shenhe dreamed of retrieving this sword and returning it to its rightful place in the Sect? Of cleaning some of the stain off her branch of the family?
+
+And here it was in the hands of another. He might look unfortunately fox-like, but it was good that the blade was in the hands of a righteous cultivator.
+
+There would be time to have the full story later. For now… this was fate. She would use the traitor’s blade to protect a member of the Cloudy Sword Sect, and raise their own sect higher in the process. Her heart swelled.
+
+“Zang Shenhe swears she shall do all in her power to rescue your uncle,” Shenhe intoned, her Qi burning under her skin. She swore on her deeds, not her honour, because her deeds were all she had.
+
+She grasped the hilt of Summer’s Sky, and her Qi touched the spirit within.
+
+‘Demand. Return Summer’s Sky to Eighth Wielder upon completion of duty.’ The words were sudden, the Sword Spirit speaking to her directly. Shenhe’s own blade had a Spirit, but it was a quiet thing. This was powerful. She could feel the sword’s Qi, its will pressing against her own.
+
+“I swear to.”
+
+‘Temporary Wielder acknowledged. Training locks disengaged. Summer’s Sky will do all in its power to aid Temporary Wielder.’
+
+In the middle of winter, a summer’s sky dawned. The sword burned with white light, synchronizing with Shenhe’s Qi. The cold of the prison was banished. The blood and filth that still partially caked Shenhe peeled off and burned away—as it did on everyone close, the Qi of an Earth Realm cultivator resonating deeply with this profound treasure and allowing it to express its full power.
+
+It felt like Shenhe had been wrapped in a warm hug. The feeling she got from the blade was warm and familial, lightning Qi touching her own.
+
+This time, the battle would be different.
+
+“Elder Shenhe. Take this.” Shenhe glanced at the small healer woman, who was holding out a rat made of shadow towards her. The little beast looked at her with red eyes. “He will keep the last bits of demonic Qi from being able to be used against you.”
+
+Shenhe held out her hand, taking the mass of shadow. It clambered up onto her shoulder and pointed out the way. It squeaked with shock when Shenhe accelerated, her heart singing in her chest. Something surged from the blade, a will that brushed against her own that was urging her onwards.
+
+She could feel it now, the burning Qi of her enemy. She armored her little assistant in her Qi and her body decompiled into lightning.
+
+===============================
+
+Yulong’s battle had taken entirely too long. Once revealed, and forced  into the open, the Spirit Beast had been unable to do any more damage—yet pinning him down had been like trying to catch smoke with his bare hands. The fox’s mastery of shapeshifting allowed him to dodge impossibly well, more liquid and gas than solid. His illusions could work for brief instants, and those moments that lasted less than a heartbeat let the fox create distance between.
+
+But it had been a losing battle. The fox before him was broken, impaled by spears made of starlight. His Qi was flickering and fading.
+
+And yet, in his defeat, he had partially won.
+
+Yulong smelled it as it came, the burst of lightning that heralded the oncoming storm. He saw the fox’s face twist into a grin as he noticed too.
+
+A Summer’s Sky filled the room, chasing away the cold and the lingering mist.
+
+==================================
+
+With a burst of Qi, Shenhe was there, following the power of her enemy. Yulong was his name—she had heard the researchers calling him a “Heavenly Demon.” He was standing before an impaled mass of fur, his body already turned to receive her blow.
+
+Summer’s Sky arced down and met the man’s own blade. The blazing white sword bit deep, her foe’s weapon cracking.
+
+Yulong raised two fingers.
+
+[Internal Impurity Tremor]
+
+Shenhe’s guts spasmed as the technique rammed into her, seeking the spines that had been embedded in her body—yet they had been removed. The little shards that remained were coated in green Qi. They challenged the Qi of her foe, and gave Shenhe enough time to stop the technique from progressing any further.
+
+A bolt of lightning sent the man skidding away—and Shenhe put herself directly in front of the thing that he was trying to kill.
+
+Yulong barked out a laugh, the man looking slightly strained. “A member of the Shrouded Mountain Sect protecting a fox? Well, I never thought I would see the day.”
+
+Shenhe glanced at the fallen Spirit Beast… and her eyes widened as it shifted.
+
+Immediately visceral hate filled her mind. She saw its teeth, she saw its narrow eyes. It was one of the beasts that had beguiled her aunt and ruined everything—
+
+What felt like a hand chopped the back of her head, the scolding touch of a family member.
+
+‘Eyes up, little crane,’ the soft voice of Zang Wen filled her ears, just in time for Shenhe to block a spear of burning light. The woman’s will was lingering within the blade. ‘Or are you going to break your oath?’ Shenhe’s face twisted at the reminder. ‘I promise, you’ll have all the answers you seek at the end.’
+
+Shenhe swallowed thickly and shook her head. Everything was confusing, but one thing remained true. She had made a promise to a boy who had helped save her.
+
+If this fox was his uncle… she would save him. After that would be when things got difficult.
+
+“Oh, lending this brat a hand, my dear?” the fox asked, his voice raspy. He coughed several times, blood splattering onto the ground. “Well, I have a little bit more I can give.” He smiled at her, his face twisting with amusement. “The foxes and the Shrouded Mountain standing as one. How amusing.”
+
+The fox staggered to his feet, spikes of energy fading.
+
+Lighting crackled. Mist drifted slowly into the room.
+
+And Yulong’s eyes turned completely purple. The man rose into the air, constellations flashing into existence around him.
+
+====================================
+
+Bi De raced through the collapsed hallways, his heart thundering in his chest. A little rat sat on his shoulder. One of Ri Zu’s helpers had found him and was whispering to him.
+
+They were fine. Shenhe had awakened and was even now doing battle with the other Earth Realm cultivator.
+
+Bi De was ready and willing to fight, searching for a path back to his friends…but he found none. Instead, the only paths left went back to the center. Back to where Shen Yu was fighting.
+
+He could feel Master Shen Yu’s Qi. He could feel it flagging.
+
+He felt the hall shake.
+
+Bi De sucked in a breath and turned towards the main hall.
+
+==========================
+
+Chixia screamed as she was driven back. Green blades were everywhere, scything through the sky and ripping into her body without cease.
+
+She was losing. Her foe’s Qi was burning like a bonfire, blazing with light. Each time she was poisoned, green medicinal Qi forced Chixia’s own out.
+
+From this height, Chixia could see everything.
+
+She saw their defeat. She saw the masses of artificial demons laying unmoving. She saw cultivators chasing down the last stragglers—including, of all things, an ox with a plow on its horns. It strode forwards, and artificial demons were split apart around it. A man with a hammer pulverized everything before him. A heron made of steam and a man made of stone crushed and smashed their way through everything.
+
+Rong split apart, the Spirit dissolving into motes of light.
+
+…She had to escape. She had to leave, now.
+
+“I leave a guide for the soon to be dead,” Chixia intoned, her soul screaming at her.
+
+[Poison Butterfly Arts: Hell Butterfly]
+
+A burning, blazing butterfly flapped its wings, its Qi swirling around it—only for a giant sword, filled in with cracks of gold, to punch straight through it. The fire burned her enemy, Xiulan, but the woman stayed standing on the front of the sword, her arm pulled back.
+
+A thousand blades gathered and compressed into multiple spirals around her arm.
+
+[The Harmony of Silk and Steel: Lotus Blossom—]
+
+Chixia gathered all of her remaining defenses. Taxed and depleted by Zang Zeng, they sputtered as the point of spinning blades punched into them—and through.
+
+Blades of Grass went through Chixia’s ribs, her lungs, and her heart, growing inside her.
+
+[Bloom]
+
+The world went dark, and a poison butterfly fell to earth.
+
+=========================
+
+Yulong grimaced as he barely blocked another strike. Zang Shenhe was fighting far, far better than the first time they had fought, the ghostly image of another woman at her back almost gently guiding her through the motions for sword strikes, while the fox fought with her absolutely seamlessly. He was weak and barely contributing, but each moment added and added…. until Yulong started to be pushed back.
+
+His pride burned. Fury rose in his chest. Yulong grabbed the sword. It bit into his hand, and he roared. Shenhe was out of position. He struck down with the force of the stars—and met white fur instead as the fox tackled Shenhe out of the way.
+
+The fox fell, finally out of the fight. Shenhe looked stunned as she looked upon his broken form.
+
+And then the lightning came again, falling like rain.
+
+=========================
+
+The scent of prey filled her nostrils. The scent of terror. The scent of evil.
+
+Tigu could feel them now, fleeing from her through the trees.
+
+She could see it. An overlay of two worlds, spurring her onwards. Spurring her to the hunt.
+
+She remembered the vision, she had had, when the shadows had stabbed into her stomach.===================
+
+Tigu blinked, staring around at her surroundings. She was in a great courthouse, lit by blue flames. Last she remembered were spears of shadow piercing her. It hurt, but she had been planning her counterattack when she had blinked and found herself here.
+
+“You’re not nearly dead enough to be here,” a voice rumbled through Tigu’s soul.
+
+A giant man stared down at her, frowning. His eyes were bulging. His face was puce. His beard was bushy and wild, and his lips were pulled into a grimace of barely contained rage. The giant of a man loomed over her even while he filled out forms on his well-crafted mahogany desk.
+
+“Lord Zhong Kui?” Tigu asked, recognizing the man from the depictions of him.
+
+“Indeed, that is I,” the man rumbled, leveling his gaze upon her.
+
+She bowed deeply before the man. “Tigu apologizes for interrupting your work. She does not know why she is here, and would like to return.”
+
+The man’s bulging eyes remained on Tigu, his grim expression somehow managing to intensify. “You bow to my portrait, battle the wicked in my name… and now that I am before you, you have nothing to say? Nothing to ask?”
+
+Tigu paused at the question. “This Tigu didn’t know if you actually existed,” she settled on. “But your Path is worthy to be followed; your deeds worthy of honour. Without any boons. Without expectation of reward. Like my Master says, ‘we give to the land, and the land gives back’. Should that not apply to people too? So no, this Tigu has nothing to ask of Lord Zhong Kui—only that she be allowed to return swiftly.”
+
+The giant man’s gaze was piercing. He glared down at her… before eventually he snorted.
+
+“Your answer is satisfactory. Rou Tigu, I grant you leave—continue your hunt in my name. Slay the demon. Banish the ghost. Vanquish the wicked.”
+
+His voice resonated over the courthouse, a declaration that was absolute. Green flames swelled around Tigu, spiraling up and around her body.
+
+Tigu bowed. The gate behind her opened, and Tigu felt the way back calling her. Already she could feel it pulling her back. She turned to leave, but paused.
+
+“Actually, Lord Zhong Kui? This Tigu does have a question.” The man raised a bushy eyebrow. “Why does everyone call you ugly? This Tigu can only see a vision of beauty.”
+
+Muscles, sculpted by a lifetime of battle. Scars from a thousand wounds gained when carrying out his duty.
+
+Truly, Zong Kui’s physique was something spectacular.
+
+The god of slaying demons looked upon Tigu. His red face got even redder.
+
+He started to laugh. It was a great, booming thing that echoed off the walls. The man slapped his desk and leaned back in his chair, his voice shaking the walls.
+
+All she could hear was his laughter as she was pulled through the gate.
+
+Tigu opened her eyes to the feeling of the land thundering with drums, and began her hunt.
+
+============================
+
+Huian was crawling. They had to get away. Everything was lost. They reached into their robes and pulled out one of their final talismans.
+
+Huian could hear the man approaching, intent on finding them.
+
+Huian ripped it in two.
+
+At once, the world became indistinct and hazy as Huian partially entered the Spirit World. The aches and pains faded as their body became light.
+
+Huian ran. They ran as fast as their legs could carry them, leaving this cursed place far, far behind. They charged north, towards the Sea of Snow and towards their base.
+
+Yet… oddly, Huian could hear footsteps. Padding footfalls. Green lights danced at the edge of their vision.
+
+Fear began to well up in Huian’s guts. There was something chasing them. Huian spared a glance backwards. There was nothing there. Feeling a bit of relief, Huian looked forwards again, only to suddenly trip.
+
+Huian sprawled, shock filling their system, and rolled until they hit something. Huian looked up at the wall—no, not a wall. It was a pile of three balls of snow. His arms were made of branches, and his nose was a carrot. The mass of snow bent so he could see malevolent black eyes and an out of place smile.
+
+Around them were more of the things. Small. Tiny. Smiling.
+
+Slowly, their arms moved and pointed.
+
+A woman stepped out of the darkness, her eyes burning gold. An ethereal blue tiger let out a rumbling snarl, and Huian’s stomach dropped.
+
+They hurled themselves to their feet. Terror gripped them. They shattered the last talisman, the one that they could never recreate again. Huian felt the pull as the world warped and twisted, the teleportation effect taking hold.
+
+Yet before it was fully completed, claws stabbed into their leg, scything deep.
+
+Huian screamed.
+
+“I’m going to find you again one day,” the tiger woman snarled, her voice scarring Huian’s soul.
+
+The world went black.
+
+==========================
+
+Shen Yu and his foe clashed again. Their strikes were nothing compared to what they had been. Both of them were injured. Both of them were near death.
+
+Their protective talismans burned, blocking decisive blows. Their bodies bled freely.
+
+They were stalemated once more. Shen Yu’s body was held together only by his will, while Jingsheng’s smile was long since gone.
+
+Yet… the stalemate was slowly breaking. The damage the Demonic Cultivator had done was… extensive. Shen Yu’s Qi was flagging under Jingsheng’s own relentless assault.
+
+Shen Yu’s broken body faltered. Jingsehng’s eyes gleamed.
+
+A dark star formed once more. Shen Yu rose to meet it.
+
+They clashed. The weight of the world pressed down upon Shen Yu. His body groaned and he grit his teeth, putting it all into this strike. Both men glared at each other. The top of the mountain screeched and broke as their control finally slipped. Hundreds of thousands of tons of rock disintegrated, opening the base up to the cold night sky.
+
+Shen Yu’s feet began to slide back. The weight increased. The darkness was overwhelming.
+
+And then, from the darkness, came silver and gold.
+
+[Wheel of Eternity, First Form—The Unending Heavenly Cycle]
+
+A rotating wheel screamed down from the Heavens, bringing light to eternal night. Shen Yu’s heart leapt into his throat. The Qi was in the Spiritual Realm—and no match for Jingsheng, even in his weakened state.
+
+The Demonic Master diverted a fraction of his Qi to slow the ball and snuff it out.
+
+Yet the swirling mass refused his might. It battled against his will.
+
+Jingsheng raised a finger and caught it. A finger that could shatter mountains with a touch—yet the finger began to bend backwards.
+
+His whole hand was forced, reaching up and grasping the spiral, finally, finally halting the blow.
+
+The ancient beast, a cultivator in the Imperial Realm, held a ball of glaring feathers in his hand.
+
+For an instant, the darkness faltered.
+
+“A chicken?” he asked, his voice utterly and genuinely befuddled.
+
+Shen Yu smiled at his disciple, and gratefully took the opening that he presented.
+
+Jingsheng’s head was separated from his shoulders.
+
+=======================
+
+The ground burned. Chixia felt agony, her soul drifting without a body. She was weak. She was near helpless.
+
+She needed…she needed to find a host. She cast her senses out and felt a little spark contained within a stone structure. A baby.
+
+There…she could lay dormant for years. Until the time was right.
+
+Her soul launched forward towards the little spark. She phased through the wall and pressed against the little soul, seeking to hide behind it—
+
+Something grabbed her.
+
+A great golden hand grabbed the ghostly little caterpillar and yanked.
+
+Chixia screamed again as she was dragged deep below the earth. She hit hard ground and turned—only to see three forms looming above her.
+
+One was a woman, who looked like a shattered statue, repaired with gold.
+
+One was a man. He stood with his arms crossed. A rack of antlers adorned his head, and a mantle of woven rice stalks and red leaves were upon his back.
+
+The final form was a woman. Constellations burned on the bridge of her nose, on her shoulders, on her chest, and on her thighs. Amethyst eyes glared down, filled with purple fire.
+
+Chixia screamed, trying to get away. She wriggled on the ground, flopping gracelessly.
+
+“Oh? Where's the threats? Where's the bravado?” the cracked woman demanded. “You were having such a good time, sowing destruction upon my home.”
+
+She raised her hand and Chixia was pinned.
+
+“Well, you know what they say about sowing,” the man said, raising his own hand. Golden light shone from within.
+
+“One day, the seeds you planted grow,” the final woman, full of constellations, decreed. A third hand came over top of her.
+
+“Everything you’ve done comes back to account,” the broken woman said.
+
+The man’s eyes narrowed. “And everyone must eventually…“
+
+Their voices boomed as one.
+
+[Reap the Harvest]
+
+Chixia burned. Every torment, every poison, every callous experiment. For an eternity and a moment, Chixia felt everything she had ever done to others.
+
+By the time oblivion came, she welcomed it.
+
+========================
+
+The first golden rays of dawn broke through the darkness.

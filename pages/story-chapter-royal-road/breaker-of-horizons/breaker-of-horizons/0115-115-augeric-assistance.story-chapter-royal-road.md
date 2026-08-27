@@ -1,0 +1,119 @@
+---
+id: d943566e-e4a1-5d9a-ab0a-71ab41cec729
+page-type-slug: story-chapter-royal-road
+title: "115. Augeric Assistance"
+slug: 0115-115-augeric-assistance
+partOf: breaker-of-horizons
+position: 115
+ownLength: 2000
+unit: words
+publishedAt: 2021-06-07
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/695363/115-augeric-assistance"
+royalRoadId: "695363"
+---
+
+Kevan seemed to be a little more at ease after his short talk with Caden, but when Caden withdrew to give Emilia some time alone with Kevan, his shell of composure gave way again. Caden was a little too far to hear exactly what was being said, but Emilia'a measured voice went on for awhile, and after some time, Kevan started nodding in acknowledgement.
+
+Meanwhile, Devon had somehow managed to talk Lynus into getting it together and talking things over with his brother. When he came over to where Kevan was sitting by the tree, Emilia and Caden gave them some space, though Emilia made it clear that she was standing by to intervene if anything happened.
+
+"Kevan is less mercurial now, but you're making up for that," she said simply, right to Lynus' face before she went off. "So if either of you gets out of hand, I'm going to put a stop to it."
+
+Lynus grimaced, though he had the grace to look at least a little bit abashed. Kevan gave a wry smile and nodded at her. "We'll behave."
+
+She moved to where Caden had been standing a little further away so that they could speak in private, though she made sure she was still just one arcanic-assisted leap away from closing the distance.
+
+Since Emilia seemed to have things well in hand, Caden left her to watch over the two of them and rejoined the rest who were by the trailer.
+
+Caden was surprised to find Devon leaning against the trailer with his arms folded, looking like he was holding back tears. Jerric, too, looked a little watery-eyed.
+
+"So, uh, you guys managed to calm Lynus down," Caden observed, hoping to prompt some sort of explanation about their state.
+
+"That's mostly Devon," Ambrose said quietly.
+
+"Are you alright?" Caden asked him gently.
+
+Devon nodded, blinking furiously. "Didn't know I had it in me. You know, I've always been a bit scared of the twins. Actually, not just of them, but of the rest of you guys, too. Well, maybe not scared, but... intimidated."
+
+He unfolded his arms and ran his hands through his hair as he took in a deep, steadying breath. "Now, though, I'm beginning to see that we're all a little broken. And broken things might have sharp edges, but that doesn't mean we should be scared of them. They just need help getting fixed."
+
+Caden blinked. "What did you guys talk about?"
+
+Devon gave an embarrassed smile. "I was talking about myself, mostly. As firstborn son, I've got a lot of pressure riding on me. When my arcanophanic capabilities surfaced, my father sent me straight to the best preparatory school. I was barred from the kitchens since he wanted me to 'have absolute focus on that which is important'. Well, I became pretty miserable, and I got it in my head that the only way to escape the pressure was to... well, you know."
+
+He sighed. "Anyway, long story short, my mom got wind of it, and she told me about the pressure she faced, because she was trying hard to give my dad a child because they had a few miscarriages before I was born. She said it felt like it was her fault, and she also once considered taking the permanent option out."
+
+"So she talked me out of it, and later, even though I didn't want her to, she told my dad what she had caught me planning. He got angry at me, but then she got angry at him. That was the only time I've ever seen my mom shout my dad down. In the end, once we had all aired everything, I was allowed to decide how and where I spent my free time as long as I tried my best at arcanophany."
+
+Caden shook his head. "That's... a lot of stuff you had to deal with. I had no idea."
+
+"He told me the gist of it back in the Academy, after he found out about my original plans with the lake," Jerric said.
+
+"Anyway," Devon cleared his throat. "It felt weird talking about myself, but it somehow felt like Ly needed to hear that, and apparently he did. I figured it's something the twins need to really sit down and talk through. I mean, Caden, you heard a bit of what Kevan said to me earlier, so we know he's got stuff to deal with too. And now we know a bit of Lynus' own private demons. This is the kind of stuff that just eats away at you until you air it."
+
+"Let's hope the airing doesn't lead to more trouble," Caden said, glancing worriedly back at where the twins were still talking.
+
+Devon let out a little huff of annoyance. "Yeah, those two seriously get into fights too quickly. Still, better to have it out. Anyway, I'm hopeful because I think Prophecy is on our side here."
+
+Out of the corner of his eye, Caden saw Ambrose shift uncomfortably, but when he glanced over, Ambrose gave a noncommital shrug.
+
+Jerric had caught it too. He frowned at Ambrose, though it was more a sign of deep thought rather than annoyance. "If you can pin down the threads of the Prophecy with some accuracy, we may be able to use it to our advantage. But until you're sure, maybe it's best if you try not to accidentally drop hints."
+
+"I'll try, but it's really not that simple," Ambrose said helplessly.
+
+"So, we were in the middle of going over our plans before the twins erupted," Caden said, glancing back at the twins again. "It doesn't look like they're going to be done anytime soon. Should we come up with something first, then fill them in later?"
+
+"That depends on how safe we are," Jerric pointed out. "If we have more time to plan, I'd like to involve them. Ambrose, you were talking about how we can keep people off our trail?"
+
+"Right. Well, Lynus' trick won't work because the enemy knows to look for the hairline crack. The Empire's agents will be able to do that too. My method is different." He thought for a moment, then offered a simple explanation. "I can't tell you how it's done yet, but basically, within a certain radius I can mask the identifying traits of our auric-ambient-flares. As long as we're in a populated area, we'll just look like random people."
+
+"But our auric-ambient-flares aren't hidden?" Jerric asked.
+
+Ambrose shook his head. "They're not, so it's only useful in certain circumstances. If we're out in the middle of the wilderness, they wouldn't recognise us, but they would still spot us. Basically, we're wearing the equivalent of arcanic disguises."
+
+"Do you think you guys might be able to figure out a way to hide us completely?" Jerric asked, looking at both Ambrose and Caden. "I haven't the faintest idea how that might be possible, but the two of you have access to oblivion, so... I honestly don't know what might be possible."
+
+Caden bit his lip, his mind going to the shell around him, which he had only just recently learned was some sort of bestowment of power by the augera that apparently did more than just provide him with immunity against all prophetic influence. "Maybe? I've, uh, got to think about that for awhile. But if we can't hide ourselves, then what other options do we have?"
+
+Jerric thought it over. "We've got the wings, so if it comes to it we can probably ditch the trailer and outrun any pursuit. Unless they're winged too, in which case we'd be forced into a confrontation. If we've seen the extent of their combat capabilities already, we might be able to risk an encounter and get out of it alive, but I don't like the idea of taking that chance."
+
+"If we encounter the Empire's agents, they won't be trying to kill us," Devon pointed out.
+
+"They won't, but that doesn't mean getting caught by them is good for us either." Jerric replied. "We'd have to beat them to be free of them, and that comes with its own set of problems even if we do manage to win the engagement. Like, would we be arrested when we get back?"
+
+"Probably not, but you're right about having to fight them anyway," Devon answered.
+
+"But there's another problem," Ambrose noted. "If we ditch the trailer, that means our expedition is over."
+
+"Right," Jerric nodded. "We need it as a base of operations since we've got no other way to manage all our supplies. This is problematic... if we were headed for an abandoned Spire that wasn't so isolated, we might've been able to just drive to the fringe of a civilised area, then use the wings. But as it stands, the one we're headed for is too far out for a there-and-back journey by wings alone. I was counting on us being able to travel via trailer for most of the way, and we only use the wings as a last-mile kind of thing, or as a safety precaution."
+
+"So this hinges on us finding a way to travel concealed?" Caden asked.
+
+"Well, that's all I can come up with at the moment," Jerric said, sighing.
+
+"Maybe the twins and Emilia will have some ideas," Devon suggested.
+
+The four of them glanced over. Emilia was still watching the twins, who were still deep in conversation. It looked like Lynus was unloading a lot of baggage. Kevan looked tense, but he was visibly holding himself back from cutting in, allowing his brother to go on. Once in awhile, he would give a curt nod to indicate acceptance or concede a point.
+
+"We might be here 'til dinner," Caden observed. "Anyway, we're probably safe enough here. If they haven't caught up to us by now, then it's likely that they've overlooked us since our auric-ambient-flares are masked. We can give them time, then fill them in and see what ideas they might have."
+
+"In the meantime, why not you and Ambrose see how far you can get in trying to find a way to hide us more completely?" Jerric asked.
+
+Caden glanced at Ambrose, then turned back to Jerric. "He can get a headstart on that. There's... something I need to work through first."
+
+Jerric gave him a look of confusion and was about to press the matter, but Devon was the one who stepped in. "You'll keep us posted when you can, right?" he asked breezily.
+
+"When I can," Caden nodded gratefully. "Yeah."
+
+Jerric went back into the trailer to look over their resources while Devon stayed outside with Ambrose, keeping a casual eye on Emilia and the twins. That left Caden free to find a quiet space for himself away from everyone else. He walked away from the trailer and closer to the road but made sure to stay within shouting distance.
+
+The breathing exercises had elevated his awareness of his auric-ambient-flare quite significantly. He was already intimately familiar with how it interfaced with his physical body, but now with his most recent epiphany, he was also finally realising for the first time how it was scaffolded by the shell that the augera had laid over him. The shell curled protectively around him, but also connected to him on a deep, foundational level.
+
+'What is this?' he asked again, softly. 'What does this gift do?'
+
+'Much,' came the whispered reply of the augera. 'What does the unchosen-sighted-{~?~} need now?'
+
+'Is it really that simple? I ask, and you provide, no strings attached?'
+
+A subtle wave of amusement floated over his consciousness. If he hadn't been so tuned to the flow of arcana, he might have missed it completely. For some reason, the connection to the augera was so faint. Or perhaps they were, in their words, moving softly. 'Strings always attached. But you choose your strings, {~?~}. What do you need?'
+
+Caden steeled himself. 'I need a way to hide auric-ambient-flares.'

@@ -1,0 +1,115 @@
+---
+id: 9371468f-432b-5860-8f71-af3201fd352c
+page-type-slug: story-chapter-royal-road
+title: "40: Captives"
+slug: 0040-40-captives
+partOf: born-for-the-apocalypse-a-daopcalypse-litrpg-book
+position: 40
+ownLength: 2437
+unit: words
+publishedAt: 2025-01-11
+link: "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book/chapter/2004622/40-captives"
+royalRoadId: "2004622"
+---
+
+40:
+
+Jack slid down the escarpment with the grace of a flailing sloth as he skidded more than slided down the slope. His back rattled with every meter he navigated down the incline, if managing to hold onto his sword and pressing against the earth with his feet when needed to avoid being flipped face first into the dirt could be called navigating anything.
+
+Thankfully for Jack, it was much easier to go down an escarpment than it was to climb up it and it couldn’t have been more than a few seconds before his feet stamped down on the base of the escarpment.
+
+Jack groaned as he felt another flare of pain run up his back. Besides the puncture wound that had been exacerbated by the tumble down the escarpment, Jack was also sure that particular maneuver had earned him a smattering of new bruises across his back and thighs.
+
+He pulled out the Greater Recovery Pill that he had kept in his left pocket, grateful that it hadn’t been lost in the melee. He really needed a better way to store pills in the long-term, but given that his bloodthirsty opponents hadn’t even given him the opportunity to use the pill up until now, Jack supposed that there was a lot more he could use in his arsenal.
+
+Consuming the pill came as a relief as the warm healing energy suffused his body before focusing on his back and thighs, the area where the energy was needed the most. He got back on his feet, a feat of willpower more than endurance, as the Greater Recovery Pill’s healing did little to the utter exhaustion weighing down upon him, both mentally and physically.
+
+The cries of the goblins had grown more distant as he broke into what was more a jog than a sprint, approaching the rear-end of the encampment as fast as he could manage in the moment. His acute hearing could hear no tumbling goblins, so for now it seemed like there was no one amongst the rift goblins that wanted to throw themselves down the escarpment just yet.
+
+It wasn’t an impasse he expected would hold, not to mention, there was still a small group of rift goblins waiting at the base of the escarpment in the distance, where Jack had originally been spotted. They would be on his heels soon enough and the distance separating them was the only saving grace.
+
+Well, that and the fact that he had entered the bow-wielding rift goblin commander’s blindspot, unless it wanted to shoot through its own encampment or chase after him on foot. Neither seemed like the kind of tactic the commander would take, given that the first one he had fought was more than content to use the goblins under it as an advance party to flush them out of cover, using that time to either line up the perfect shot or flank them and try from a different angle.
+
+There weren't any thick trees for it to hide behind or a dense canopy that it could snipe from, which left the open area surrounding the land and the thick gray fog that stretched out into the distance. If the commander could land a shot from within the fog, well then Jack was probably dead, but besides that, further pursuit seemed unlikely when it was easier to wait for its kin to force him out of cover and then take the shot.
+
+A short distance away from him, Sarah stood before three figures that were seated on the ground before her. One look at the wooden palisade that was supposed to shield the rift goblin encampment revealed that a portion of it, namely three wooden stakes worth, had been sheared away near the base and was now lined next to the three seated people.
+
+To their right, Sarah had emptied out a small pile of weapon artifacts, their combined haul from slaying multiple rift goblins before their assault on the rift goblin encampment, as they had discussed earlier. Without knowing what class they were in advance, dumping out the weapons was the quickest way to let them pick what suited them.
+
+His approach had not gone unnoticed as Sarah met his gaze, stifling the unease that flitted across her expression with firmness as she took in Jack’s own haggard features.
+
+Then her face hardened as she looked down upon the captive that sat closest to her, a dark-skinned man that was clad in tattered animal hides that did a poor job of hiding the tapestry of scabbed and a few raw and red surfaces that were visible on his side. No more blood appeared to be leaking from the long, narrow flesh wounds, but his deep-set brown eyes were hollow when they turned to take in Jack’s features, not a flicker of surprise, shock, or for that matter, any emotion at all visible within. Even with his visage matted in dirt and dried blood and dressed in rags, the bald man’s tall frame and well-maintained physique spoke of an athletic and handsome man, his build neither cumbersomely muscled nor particularly lean.
+
+“Look,” Jack could hear Sarah’s voice clearly as the distance between them had been reduced to a matter of meters. “I understand that you’ve gone through… unspeakable, horrible things. Things I wouldn’t wish on anyone. And I’m sorry about that, for what it’s worth. I’ve torn away the ropes that bound you. The recovery pills have stemmed the bleeding and there’s no risk of the wounds getting infected anymore. But risking my life and the life of my companion is going to mean nothing if you don’t pick up a weapon and run. If we’re going to die today, then let it be with weapons in our hands and the blood of goblins splattered across them. Please…,” Sarah trailed off with a plea, giving Jack the time to examine the other two captives they had rescued.
+
+There were two women seated behind the dark-skinned man.
+
+The younger one amongst the two, who looked to be in her early to mid twenties was of asian descent . Her straight black hair appeared like it had been randomly, or perhaps forcibly cut short, giving it an uneven spread that was clumped together due to blood from a head injury coagulating. Her brown eyes still had a spark within them as she looked from Sarah to Jack before turning towards Sarah again, her expression seeming dazed as she did so. Her high cheekbones and lightly tanned skin along with her wiry frame was a physique he would attribute to a runner, but his attention was drawn more to the tattered rags she was clad in, or more specifically to where blood had stained through on her thighs.
+
+The other woman, who had to be in her early thirties, was rocking back and forth as she hugged her knees. Her cinnamon-brown skin tone with light sprinkle of freckles dotting her round face would’ve given Jack the impression of a warm, friendly lady, had her expression not been blank and her eyes lost in trauma.
+
+Jack came to a stop before Sarah, his gaze flitting from Sarah, to the former captives, before peeking behind him.
+
+“Sarah, we need to leave, otherwise we’re all dead,” Jack cut in with a grave expression before turning towards the former captives. “The name’s Jack and I’m sorry I can’t do more. I really am. But if you want to keep holding on to the breath you’re drawing, you need to pick up a weapon and run alongside us. I’m not going to paint a rosy picture of the shithole we’re trapped in and neither would I expect you to believe in half-assed platitudes, but I’ll promise you one thing. If you walk alongside us, there will be less of those violet skinned motherfuckers tomorrow than there are today.”
+
+For a moment, Jack thought that the captives had been broken too thoroughly to cling on to any thoughts of self-preservation.
+
+But his words seemed to resonate with the bald man, who slowly but surely rose in his tattered rags.
+
+“Marcus,” He said with a grunt, before he walked over to the pile and picked up a goblin shortsword that seemed small in his hands, given his physique and a height that was only an inch or two shorter than Jack’s own six-feet-two inches. “I will slit my own throat before I let one of those rodents lay another hand on me,” He declared with a grim determination, a steel in his tone that told Jack the man was dead serious.
+
+Jack nodded to Marcus, not trying to protest against the man’s resolve. It was a twisted declaration, but so were the horrors this world had subjected upon them. He had no right to judge or try and alter the weight of marcus’ trauma and the resolve that followed after it.
+
+The asian woman was the next to rise, standing about five feet and four inches, maybe five feet five inches, which meant that Sarah was still taller than her by around two inches.
+
+“Jin,” She rasped out through chapped lips as her eyes landed squarely on Jack. “It was near the end, but… I saw you fight,” She slowly said, as the spark in her eyes bloomed into a full-blown campfire. “You killed that…that despicable…,” Jin took a deep breath to calm herself as tears threatened to spill out from her eyes. “...that goblin even after it leapt at you. I’ve n-never seen someone fight like that. Will you teach me?” She said the last part hurriedly, as if afraid the words would not escape her lips if she didn’t say them fast enough.
+
+“I will, Jin,” Jack replied as reassuringly as he could manage. “But for now you need to pick up a weapon suited for your class and we need to get out of here.”
+
+Jin nodded repeatedly as she walked over towards the weapon pile and plucked out a spear that was two-thirds the length of Sarah’s, clearly designed for goblin use over human one.
+
+That left the last lady, who was still rocking herself back and forth.
+
+Jack’s expression tightened as he walked over to her and crouched before her.
+
+“What’s your name?” Jack asked as softly as he could, as even the doomsday prepper within him crumbled a little at the sight of the broken woman.
+
+She looked him in the eyes and stopped moving, almost as if she had gone limp.
+
+“C-Carmen,” She replied, the fear in her eyes causing Jack’s lips to stretch into a thin line.
+
+“Well Carmen, you don’t have to pick up a weapon. But do you think you can run? We’ll keep you safe. You just need to keep moving and stop for nothing,” Jack asked with as much gentleness he could muster.
+
+“I…I think I can do that,” Carmen slowly nodded, as Jack noted her miami accent.
+
+“Great,” Jack beamed a warm smile at her as he offered her a hand, which she gingerly accepted.
+
+Sarah was stashing the unpicked weapons back into her inventory, having heard the compromise Jack and Carmen had reached.
+
+Once Carmen was on her feet, Jack addressed the group as swiftly as he could, “Move, now.”
+
+The footfall of rift goblins didn’t feel too distant in Jack’s enhanced hearing and a peek behind him revealed the charging forms of a group of four, likely the ones that had been waiting at the bottom of the escarpment.
+
+Sarah, Marcus and Jin didn’t need any further encouragement as they broke out into a sprint, with Sarah making sure not to take the lead too far beyond Marcus and Jin.
+
+Carmen needed a moment longer to compose herself before she broke out into a jog, her frame neither particularly athletic nor muscled, falling on the chubbier side. Jack caught up to her as he broke out into a sprint, having recovered a small chunk of stamina from standing around instead of sprinting non-stop earlier.
+
+Sarah knew where to go, as they cleared the encampment and headed right for the gray fog permeating the landscape. There was nowhere else to go but the obvious trap and they could only hope an entire army of rift goblins wasn’t behind it.
+
+As they were three fourths of the way towards the wall of gray fog, with Jack and Carmen trailing behind the group, Jack’s heart dropped as the twang of bowstring rang out in the distance. Without hesitation, Jack dived forward into a roll, certain the commander had fired a final shot in an attempt to kill the man that was responsible for the death of so many of its kind.
+
+An agonized cry died in the throat it was uttered from, a distinctly feminine cry that caused Jack’s heart to fill with dismay.
+
+“No!” A cry of his own escaped his lips as he realized that the commander had an angle to shoot at them from it’s spot near the entrance of the encampment given that they had nothing to cover them, he just hadn’t been too worried because he was confident in his newfound ability to evade the arrows.
+
+The same couldn’t be said about his companions and as Jack glimpsed back at Carmen’s slumped over form, with an arrow in her back and her eyes glazed over as she looked forward, towards him, a rage unlike anything he had felt before filled Jack’s heart.
+
+His parents death had been personal, targeted and more than likely, had a reason behind it. A motive. But this? This was madness, insanity given shape and form. He didn’t want to hunt the goblin down, to tear it from limb to limb. No, Jack wanted to dismantle and destroy the very system that made this possible, that subjected them to this mayhem.
+
+Jack charged forth, seeing no reason to limit his speed. Feeling like he was moving faster than he had ever before, he caught up to Sarah’s group in a matter of moments.
+
+“Hands!” He screamed out as he thrust his own in Jin’s direction. It took a moment for Marcus and Jin to understand what he meant, but Sarah knew what he was talking about and thrust her own free hand in Marcus’s direction as she slowed her pace to fall into a line next to him.
+
+Jin grabbed his sword arm and marcus’s short sword holding left, though that was more of an arm grab, while Sarah grabbed marcus’ free right hand with her free left.
+
+Then, they ran into the fog and it’s gray form consumed their figures entirely.

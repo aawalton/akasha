@@ -1,0 +1,269 @@
+---
+id: e48f0a08-f377-59ef-a1f7-42c251dffa55
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 5 - Conflict Rekindled"
+slug: 0006-book-4-chapter-5-conflict-rekindled
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 6
+ownLength: 5261
+unit: words
+publishedAt: 2025-08-11
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2510560/book-4-chapter-5-conflict-rekindled"
+royalRoadId: "2510560"
+---
+
+By the next morning, the rains had finally come to an end. Then, as the sun climbed over the horizon, the clouds broke and scattered beneath its brutal gaze. The day promised to be hot, but after so much rain and gray, it was a welcome change. The mood in Remera gradually improved, even with the threat of conflict hanging over them.
+
+There had been no other signs of the shimagu—so far, but no one was willing to accept that. Still, duty cycles were important—Ranthia had gotten some sleep, at least. Avyna had been… less than amused that Ranthia had charged off to fight without her armor, but she was thankful that Ranthia made it home safe and sound.
+
+Ranthia just had to leave off having to fight with her shoulder disabled by an arrow when she recounted the story to her lover. Though, in all honesty, she gave it even odds on if the arrow would have been just as debilitating had she been in her armor.
+
+“—which is why I shall be staying here, even if an army of the enemy comes, my love.” Avyna boldly concluded.
+
+She was confident in her enchantments and… less than confident in Reman inscriptions, which was fair, but… Ranthia just struggled with the idea that cloth could provide as much protection as one of the armored shelters—even if the shelters would likely be wildly unpleasant with multiple people in them with how hot the day was getting. Still, she was willing to trust Avyna’s judgment—the woman couldn’t have survived for a fraction of the time she had by being foolhardy.
+
+They were talking while they ate a light lunch of cured meats, Avyna’s latest seasoned bread creation, cheese, and a shared bowl of seared veggies. Ranthia was still trying to make her mind stop screaming at her that she had brought the love of her life to the site of an actual war. It was something she had thought she was comfortable with—Avyna could make her own decisions in life—but with the threat hanging over their heads…
+
+Still, she didn’t want to invite trouble before they even knew the shape of it. She stabbed another crunchy vegetable that she had no idea of the name of—it was elven, it was good—with her crystalline knife and popped it into her mouth.
+
+Only to be interrupted mid-bite by the gentle bell-like music that meant someone had pulled the ‘knocking’ rope outside their tent. Ranthia grumbled, swallowed the piece almost whole, and grabbed her blindfold so she could see who it was. At least she was still wearing her tunic—Avyna was dressed in a robe, yes, but Pallos’ most beautiful elf saw no reason to tie it shut. Not that Ranthia was ever going to get tired of the view, but she didn’t know anyone else in the base well enough to trust them.
+
+“Sir!” The messenger saluted when she opened the flap.
+
+“At ease, what is it?” Ranthia answered with false cordiality.
+
+“For you!” The messenger held out a scroll.
+
+If it was another scroll telling her to go somewhere to get a scroll, she might have to stab someone.
+
+Ranthia still took it and read. In short, the base commander wanted to request her assistance for a wider range patrol. They needed to scout for other signs of the shimagu, but he was also concerned about the effects of the flooding on the area and how they might affect ground-based convoys and caravans. Ranthia was a bit less enthusiastic about the fact that she’d need to meet with the man to go over the details and get the team, but—well, that was part of life as an arm of the government and a Sentinel on loan to the Legions for base security.
+
+Ranthia rolled the scroll back up and opened her mouth to confirm receipt and tell the messenger that she would meet with the base commander after she finished eating, but Avyna spoke up first—from right behind her.
+
+“Oh, it is that cute messenger from Coalition City!”
+
+Ranthia blinked—she wasn’t even surprised anymore that Avyna could be sneaky enough to get right behind her unnoticed—and eyed the woman in a Legion uniform. The differences were subtle, but the color of the trim denoted that she wasn’t with Ranger support staff—which the messenger from Coalition City had been.
+
+“…It is?” Ranthia asked.
+
+Okay, yes, that was incredibly rude—the messenger was standing right there!
+
+“Oh, my love, your eyes are entirely too focused on me! You should pay more attention to those you interact with.” Avyna chided, though her tone danced between playful and pleased.
+
+The messenger held her salute, but the young woman was clearly fighting her eyes’ desire to wander toward the under-clothed elf behind Ranthia. The woman was turning red.
+
+“Um, yes. I requested a transfer and got here just before those damned rains. My uh… girlfriend! Yes, my girlfriend was assigned here! So um, I wanted to come out here too so I…” The poor woman was plainly flustered, but she kept speaking. “I am very sorry, Sentinel Grace, but I indicated that you had requested my presence to serve as your personal messenger in my transfer!”
+
+Ah, so she’s flustered out of guilt for using my name to stay close to her girlfriend, not because of Avyna. Honestly, she was kind or relieved. But as far as being used as an excuse by the woman went…
+
+“It’s fine. If you ever need it, I can write something for you that says as much.” Ranthia assured her.
+
+Honestly, she could do worse for a personal messenger. The girl had been obnoxiously peppy before, but she seemed to be competent at her job. The fact that she was another woman who liked women—or at least one woman—was another point in her favor too. Ranthia didn’t feel as much a need to keep her at a distance.
+
+The young woman sagged with relief, though she still held her salute.
+
+“Oh! The two of you should come over sometime. I would love to host a small get together some evening when your schedules allow it!” Avyna offered.
+
+“We couldn’t! You’re a Sentinel’s…?” The woman trailed off uncertainly. She was probably unsure of exactly what their relationship was.
+
+“You can and you must! …If you refuse me again, I shall have to inform your girlfriend exactly where your eyes continue to steal glances to.” Avyna threatened, her voice colored with mirth. The quiet, yet unmistakable sound of the fabric of Avyna’s robe being moved followed.
+
+Ranthia blushed and mouthed a silent apology to the messenger for her lover’s antics.
+
+“…Very well then, my lady. It would be our honor.” The messenger managed to speak with remarkable clarity, in spite of the alarming blush that had covered her upper body.
+
+Ranthia wasn’t entirely certain that the woman had noticed her apology—her eyes were kind of absurdly unfocused.
+
+“Ahem, at any rate… Please tell the Commander that I will be there as soon as I finish my meal.” Ranthia saluted the messenger and spoke using her best authoritative Sentinel Grace voice. She hated to use it, but the poor girl probably needed the mental reset it should carry.
+
+The young woman nodded—somewhat stiffly—then took off at a speedster’s run.
+
+After she was gone, Ranthia shot a glare at Avyna once the entrance to their home was closed. Not that the elf showed the slightest hint of remorse for her behavior—she simply smiled affectionately at Ranthia, slipped the robe back over her shoulders, and sauntered—with plainly exaggerated hip-sways—back to the table to resume eating.
+
+Which defanged Ranthia’s annoyance quite effectively.
+
+It was wildly unfair that mud could still exist under the intense heat of the returned sun. Sure, most of it had dried, but it was impossible to tell when a footfall would crunch through a seemingly solid layer of swept dirt and sink into mud. Mud that would immediately soak through their sandals and dry into an irritating coating. Worse, it tended to splatter all over Ranthia and the other three scouts that were teamed up with her—where it would become uncomfortable, itchy patches of dirt that remained unerringly cemented to their skin and gear.
+
+Remera was far enough out that an enemy could, theoretically, approach from any direction. Plus, they legitimately did need to ensure that the area around them hadn’t become impassable due to the flood, which meant the entire region needed to be checked. Ranthia’s team divided the task in half with a second—larger—team. Ranthia’s group was moving north and would sweep down to the west before they returned.
+
+As much as the journey was miserable, it was kind of beautiful to see the wasteland in an aggressive bloom. Ranthia had never seen so much greenery and life in all her time in the Unbreakable Image.
+
+Except for the bugs. They could have all done without the dramatically increased bug population.
+
+Two of the other three scouts had Skills that helped them with bad terrain. Ranthia was fine between [Rhythmic Grace] and her dexterity—even if she drew amused looks every time she had to dance through the worst of what they moved through. The last man seemed to be part monkey, he—seemingly quite happily—dropped down and started crawling on all fours with surprising speed when he needed more stability.
+
+Whatever worked for people; the System enabled all sorts of nonsense.
+
+Fortunately, the flood didn’t seem to have wrecked things too badly. Once the area finished drying out, it would be about as passable as it ever had been. Ranthia had never paid much attention, but there were subtle grooves in the rock that allowed the bulk of the water to flow out of the area—natural drainage worn into place over the years. Rainstorms like that were obviously rare, but they presumably weren’t unheard of. That said, there were still uprooted plants scattered about and the odd waterlogged carcass, but that wasn’t surprising.
+
+The most interesting thing they found was a white branch from some sort of supposedly ‘rare’ tree that the monkey man was extremely excited about. The rest of the group was fine with him claiming it—no one else seemed to know or care what it was.
+
+“That’s… odd.” Ranthia whispered.
+
+The drying mud was easy to spot—its topmost layers were forming large, curling ‘flakes’ on top of the cooler mud (or, preferably, dried dirt) beneath. Yet there seemed to be none of it ahead, just the same dusty dirt that usually could be found amongst the rocky terrain. Similarly, there was a dearth of greenery in it.
+
+They had spotted the oddity from a distance and were approaching it stealthily. …Well, as stealthily as four dirt-caked people in broad daylight could move across a fairly open area.
+
+“Don’t like this. Doesn’t feel right.” One of the scouts whispered.
+
+Ranthia nodded her agreement with the woman—weird was always worrisome when enemies were in the vicinity.
+
+“Oh, come on, it’s just a spot that got missed or had better drainage or something. There’s nothing here.” The most generic scout grumbled. He was a guy, he was a scout, and he had no real distinguishing features—also, he was being far too loud.
+
+Then, without warning, the monkey man tackled him to the side. The arrow that so nearly took the scout through the heart instead slammed into the meat of the monkey man’s thigh.
+
+By the time Ranthia’s knives were formed, the other scouts were reacting. The tackled man started to swear—still loudly—at the monkey man, but he saw the blood and the arrow before he finished the first word. The other scout had an arrow nocked and was starting to draw her bow. The monkey man stayed down—teeth gritted—and was trying to apply pressure to his wound.
+
+At the first sign of movement, the scout next to Ranthia loosed her arrow, before her compatriot even found his feet.
+
+[*ding!* Your allies have slain an ogre [Bird Hunter] (Gale, level 365), [Rock Climber] (Earth, level 301)!]
+
+The ogre fell from the mesa he had hidden atop. A second notification came when his body struck the ground.
+
+[*ding!* Your allies have slain a shimagu [So I’m a Scout Now?] (Ooze, level 380), [Steady Eye] (Water, level 399)!]
+
+The impact was not subtle. The hefty body of the ogre bellyflopped into rock with a surprisingly booming thud, followed by the telltale sound of the body coming apart. For an instant there was utter silence as everyone waited.
+
+The silence was followed by a deafening roar of commingled voices that shook the area enough for dust to fall from the dry rock formations. Moments later, there was the sound of feet pounding against stone—entirely too many feet.
+
+Once again, the foolish scout swore loudly. Not that stealth mattered anymore; their enemies plainly knew exactly where they were.
+
+“Take him and go! I’ll buy you as much time as I can!” Ranthia called out as she stepped toward the oncoming noise. Dust was already being kicked up—soon the enemies would crest the short rise and see them.
+
+“Ma’am, I’ll—” The female scout started to offer.
+
+“That was an order; get your brother-in-arms out of here now, soldier!” Ranthia snapped.
+
+The intact scouts, grim-faced, nodded and uttered “Sentinel!” in unison before they grabbed the monkey man and began to retreat.
+
+Ranthia inhaled deeply through her nose and bounced between her feet as she readied herself to dance. She tossed her left hand’s knife to the side for the moment and reached down to her potion pouch. A moment later she bit the wax seal off one of the small clay vessels and drank the first enhancement potion, followed by two others. A little more dexterity, a bit more speed, and some extra strength—they weren’t much and they wouldn’t last long, but at least the Legions were providing them. Ranthia had a funny feeling she was going to need every advantage she could get.
+
+Xaoc, I hope you enjoy the show. I know death isn’t great chaos, but I’ll visit what I can to the shimagu.
+
+He took only a pittance of mana in exchange for the prayer and sent her the impression of holding His thumb up. A slight smile crossed her lips as the first ogre’s head peeked over rocks.
+
+It was time to find out if that force was truly as large as it sounded.
+
+She had one simple plan for the engagement, and it hinged on not letting herself get surrounded. Unfortunately, the shimagu were determined to surround her, and they had enough numbers that it was more than just challenging to deny them. Killing them wasn’t the goal—she couldn’t possibly cull enough shimagu to make a difference. She was facing an army that came to contest Remera—a single knife-wielding classer was never going to change that.
+
+Despite her narrowed focus, she soon found herself engulfed among the shimagu. Counting the force was impossible. Ogres, infested dinosaurs, and a smattering of other species came at her. They didn’t form orderly lines like the Legions would, but they weren’t the uncoordinated mass that had usually menaced the Unbreakable Image either.
+
+Two ogres tried to pincer her from either side, as a long-necked, yet reasonably sized, dinosaur that she didn’t recognize snapped at her again. Ranthia ducked under the bite and ended beast and parasite both with a single cut while she slipped away from the oncoming club. A spear came at her to try to drive her back into the attack, but Ranthia knocked it aside and set about trying to carve herself a bit more breathing room.
+
+Her images had gotten destroyed again.
+
+The only blessing was that there didn’t seem to be a twin present—or, if there was one, it was holding back while the army tried to wear her down. But the army continued to shift around her; no matter how she tried to carve a way clear, the enemy masses shifted faster than she could cut through them.
+
+The enemy was being conducted. They were organized. This wasn’t like when she leapt into the midst of the enemy and wreaked havoc in the past—she was facing a primal sort of order. Worse, they weren’t mere fodder, there was at least a measure of actual skill. Not to mention Skills.
+
+She had never expected the difference to be so significant between the shimagu she had faced before and the true armies of her adversaries. Another conjured rock had to be deflected with her bracer—even as a metal spike shattered two of the images she had just formed. An ogre covered in layers of regenerating bone armor returned to the fore once again—his armor and bone weapon restored—and resumed trying to bisect her with his improbably sharp bone sword.
+
+She was trapped, and it was taking everything she had just to continue what was effectively a stalemate. The instant she ran out of mana or screwed up, things would get bad for her.
+
+Which wasn’t unfamiliar, but it was still unwelcome.
+
+With no better options—she had bled too much mana already trying to shift out of the problem—Ranthia chose to immerse herself in her deadly dance. Her dexterity proved its value as her Skills—and skills—harmonized into a chaotic blend of unpredictability. When the shimagu attempted to close ranks and pin her down or restrict her too far, [Scattered Reflections] and [Reflections of Reality] let her become a different group of the enemy’s problem. [Rhythmic Grace] and [Combat Awareness] were up to the task of letting her weave between the bulk of the Skills and attacks that came at her from (all too literally) every direction, while [Flowing Momentum] guided her knives to where they would do the most good. [Void Edge] and [Echoes of Devastation] had to be used sparingly though—Ranthia couldn’t let herself tear through her mana too quickly. Her armor’s arcanite was full, but it wasn’t inexhaustible.
+
+Neither was she, even if time seemingly lost all meaning as she danced.
+
+She might have been an adherent of Xaoc’s, but she became an instrument of Black Crow. Ranthia had been freed from the muddy terrain, but a new, more abhorrent sludge was born as blood flowed freely around her. Not every blow was fatal—an injured shimagu that withdrew was just as good as a dead one in her situation. [True Grace] and [Sentinel’s War Supremacy] boosted everything she had—and the latter Skill was plainly pulling its weight. She was far deadlier than she had been in the Unbreakable Image.
+
+Even against the higher caliber of opponent that she faced, her evasion and defenses were almost perfect. But almost still wasn’t good enough. All too often, her own blood joined and commingled with the blood of her foes—at least until she abandoned the body and let it break.
+
+Every mistake was costly, and the shimagu probably believed it was inevitable that some mistake would cost her everything. Their forces continued to shift around her and counter any momentum she built up, forcing Ranthia to react to her true—unseen—dance partner: the [Leader] that directed them.
+
+If she was predictable, she would die quickly. Fortunately for her, she was a disciple of Chaos Himself. Consistency was anathema to her dance. Her concept of perfection had no trace of order, she was carnage elevated to an art form as she danced through the press of flesh and weaponry.
+
+She hadn’t taken the time to silence System notifications—she hadn’t even thought of doing it before it was too late. Instead, she tuned them out entirely. It didn’t matter if she killed a shimagu puppet, nor did it matter if the parasite within the deceased host lived on; at most they were another Skill she had to evade or counter. It didn’t matter if a Skill or class level increased or if a new Skill was offered.
+
+Ranthia’s dance was guided by instinct more than thought, as she focused on the eternal moment that she found herself trapped within. There was no grand plan, instead she embraced her ideals and entrusted herself to them. Had there been less fear in her heart, she might have found the experience meditative.
+
+She was buying time for the scouts to get away. Avyna was waiting for her. And she had yet to do enough in the service of Xaoc—there was still chaos that she needed to bring to Pallos.
+
+And so, she would live. It had to be as simple as that.
+
+Her dance of death continued unabated. Time was meaningless, but she kept her senses alert for one thing in particular as she fought—her true opponent. The order that guided her opponents had to be within their forces somewhere, she couldn’t believe that the shimagu could be so coordinated if led from afar. If nothing else, the delay would have allowed her to escape their grasp.
+
+Another shift to nullify another debilitating wound taken to her neck, or perhaps her leg—something essential, at least—finally brought her the proverbial scent of her target. She had no time to parse out the crude tongue of the shimagu, but she recognized the tone of orders being called out.
+
+Her quarry was cunning—they tried to move away from her, even as she doggedly pursued them through an endless tide of viscera. It was the work of mere moments—or perhaps the efforts of a lifetime—but at some point Ranthia broke through a defensive wall of shields and Skills with the aid of entirely too much use of [Void Edge] and [Echoes of Devastation]. Spears came at her, but Ranthia kept moving. One knife sheared off a spearhead, another delivered a messy cleave across an ogre’s stomach—it was the best wound she could inflict in the situation, but it was far from ideal.
+
+Even as his intestines spilled, she was forced back. The shimagu rallied faster than she had expected and ringed her in. She could hear the [Leader] slipping away as the army stifled her movements. Injuries came swiftly as Ranthia lost the room she needed to maneuver—hostile Skills took a toll of flesh and blood and metal from her, even as she countered the obvious weapons.
+
+It was desperate, but she was forced to throw an image into the sky and shifted to it as rapidly as she could to escape the deathtrap that nearly consumed her. Her flesh was renewed—her armor was not—but she was vulnerable. As if to punctuate the thought, an arrow punched through the side of her face, shredding her cheek as it went past. Her blades intercepted the next volley while she used the precious moment to find a new place for an image on the ground. There—where two ogres stood nearly back-to-back.
+
+The image she placed between them wasn’t the only one she formed. In rapid succession she had five others—handed off to [Submind] to aggressively attack. They wouldn’t last long, but they gave her just enough cover for her shift to conclude. She was, once again, intact and momentarily safe, which meant that she was able to rejoin the battle on her own terms.
+
+Ranthia sprang forward and carved through the blindsided shimagu and, at long last, caught sight of the [Leader] she had sought. He was tagged as a [Laborer], but she knew his voice. [Sustained Chaos] delivered a fully empowered knife through his heart and lung.
+
+She even got lucky enough to retrieve it with [Adamant Commander] before the enemies around her retaliated.
+
+It wasn’t ideal—the [Leader] was almost certainly the shimagu, not the ogre it infested. She could only hope that inflicting a deadly wound on the ogre would debilitate the parasite too.
+
+The nigh-endless tide of the enemy forced Ranthia away from her quarry before the ogre expired, but that was fine. Her dance resumed and she bided her time to let the pall of order pass from her opponents before she juked, ready to make her escape at long last.
+
+But, once again, the enemy forces adapted and shifted.
+
+She had struck down the ogre that was responsible for the orders—unless there was such a thing as a shimagu [Healer], there was no chance that he survived. Had she been tricked? Pursuing him had led her into a trap, but keeping a primed defense near the [Leader] also made sense. There was a chance that the shimagu could have jumped to another body—how readily the shimagu could change hosts was an ongoing mystery. There was also a chance that there were multiple [Leaders] or a Sound classer decoy. Or, perhaps, she had simply slain someone that repeated orders for his section of the army.
+
+In most ways, it didn’t matter—the questions were even less important than any number of concerns she had already tossed aside. Yet some piece of her—a quite outraged piece—couldn’t help but to obsess. It had been her goal, her lifeline.
+
+It had been for nothing.
+
+The saner aspects of her psyche focused on Avyna. Ranthia was a survivor by nature, but Avyna represented the most tangible reason for her to endure—even after hope was lost. She had barely even begun to share her life with the woman that she had found love and happiness with, and she refused to leave Avyna so soon.
+
+And so, she danced. She had lost track of time, but she knew she had fought longer—with objectively worse stats. Her opponents might overwhelm her with time, but fortunately the sheer bulk of the ogres and dinosaurs limited how many opponents could come at her at once. Ranged attacks tore into allies more often than they found purchase on her elusive form. She was a point of grace and lethality amid the hostile army, and so long as she kept moving, she wouldn’t be trapped by the corpses that she created.
+
+Ranthia’s blades continued to take a toll on her enemies. Flesh, bone, wood, stone, or metal were irrelevant—the Void allowed nothing to exist within it and erased them equally. The rhythm of chaos never left her as she fought on. Her dance was as wild as it was brutal. She was slaughter made manifest on the greatest scale she could manage at her tier.
+
+But no matter how lesser her opponents were, no matter how their clumsy might paled before her grace, she was ultimately an individual in the midst of an army.
+
+She was several class ups away from that being a fight she could win.
+
+But it didn’t matter. Her heart clung to her love and zeal to survive, and she fueled her dance with that all-encompassing need. It didn’t matter if her victory was impossible; she would survive. Even if she had to test her Void against Black Crow, she refused to yield. She denied the inevitability with every last bit of her willpower.
+
+Her thoughts never stilled, but she felt detached from her body. It was a strange reverie, one that was different than the combat fugue she was used to. It was… warmer.
+
+But no matter how comfortable the state was, it shattered from a wholly unexpected change.
+
+A second force swept through the shimagu army and culled them with impunity. She felt the approach and heard the signs among the shouts of her sea of adversaries, but almost the very moment the presence entered the range of her awareness, it slipped through.
+
+Sentinel Night put his back to hers.
+
+“Sentinel Grace, keep close behind me.” His voice was low, but it still cut through the din of the battlefield to reach her ears.
+
+Ranthia nodded, unable to find her own voice. It was sufficient; even with his back to her, Night seemed to acknowledge her gesture. Once again, he blurred into action and tore into the shimagu like a nightmare made manifest. His Dark-kissed blades carved through the forces with an alacrity and ferocity that Ranthia still couldn’t match.
+
+The enemy tides shifted to hold them.
+
+But Night was different from Grace—he had no need to adjust his flow to try to counter their own. He pierced through it. For all Ranthia’s self-satisfaction at the brutality she inflicted, Night effortlessly proved her to be little more than a pale imitation of what he truly embodied: death itself.
+
+Night punched a hole through the shimagu, but the shimagu’s [Leader]—or [Leaders]—raced to try to close it. Ranthia was forced to cut through as she raced to keep up with him. Her mana dipped low, so Ranthia pulled from the arcanite woven throughout her armor.
+
+It had nothing to offer her—she had exhausted it without realizing. Cold dread filled her as she sought the arcanite from her pouches—fused blocks of arcanite that Avyna had created for her. Most were like her armor—emptied. Her final pouch, the one that bore the arcanite that her fathers had left her, yielded only a small splash of mana—barely a quarter of her pool—before it, too, had nothing left to offer.
+
+She hadn’t even noticed that she had come so close to running out of mana—she thought she had been minimizing what she used! A cold, dark pit formed in her stomach as she realized how close she had come—had Night been any slower…
+
+With the shimagu, she would have been lucky if death was what had awaited her.
+
+But she wasn’t safe yet. She was barely above half mana, and she was trying to follow a man that she could barely keep up with in ideal circumstances. They were tearing through the shimagu forces, but Ranthia was forced to spend precious mana as she desperately struggled to follow the faster Sentinel.
+
+With the terror that hammered through her, the rhythm that usually felt second nature required almost all of her concentration to barely maintain it. She was struggling, but she raced. She raced after the obnoxiously fast vampire—her last lifeline—even as she raced her own dwindling pool of mana. If she didn’t use the Void, she lost precious moments and momentum to collisions.
+
+A stone tore through part of her arm, but she could still move it. She could endure that, along with the other scrapes, scratches, cuts, and bruises that she collected. Shifting for anything more than an injury that made it impossible to follow Night was untenable. Each shift took entirely too much of her rapidly vanishing mana.
+
+And she wasn’t convinced that Night would—or even could—get them both out if she proved unable to keep up with him.
+
+Six digits of mana became five.
+
+Night was pulling ahead, and a Skill-infused spear that seared through her leg forced her to shift again. It was the last shift that she had the mana for.
+
+At least she caught up to Night again—but she was officially on her last four thousand mana. She had so little mana that the mana she regenerated with every heartbeat was starting to matter.
+
+For Xaoc. For Avyna. For myself. The words echoed through her mind as an endless refrain as she drove herself forward. Injuries didn’t matter. She couldn’t let them matter—she couldn’t do anything about them anymore.
+
+And then, she was through.
+
+The final line of shimagu forces fell around her as Night covered her exit. The relief was so intense that she nearly stumbled—as idiotic as that would have been. But she wasn’t done; once she was free of the confines of the enemy forces, she finally could use the breadth of her speed.
+
+Night contemptuously cut down the arrows that the shimagu sent after them, and the duo were off—at speeds that the army of ogres and other brutes chosen for their strength could never hope to match.

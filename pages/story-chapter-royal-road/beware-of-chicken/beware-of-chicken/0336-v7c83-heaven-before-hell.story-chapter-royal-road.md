@@ -1,0 +1,287 @@
+---
+id: 4053c9c8-7cfb-5603-b9c2-9b86b6377516
+page-type-slug: story-chapter-royal-road
+title: "v7c83: Heaven Before Hell"
+slug: 0336-v7c83-heaven-before-hell
+partOf: beware-of-chicken
+position: 336
+ownLength: 3723
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3712635/v7c83-heaven-before-hell"
+royalRoadId: "3712635"
+---
+
+The day of the Acting Lord Magistrate always began early.
+
+He awoke with the dawn. After a brief moment of taking his bearings, he would reach over to his bedside table and spin over the artifact hourglass he had. Then, he would stare at the ceiling of the Magisterial Suite in the palace for five minutes.
+
+In those five minutes, he would breathe in and out, staving off the worst of the existential dread that filled his soul—all the work, how his actions would be judged, the lies he had told his parents, all of it settled upon him like the rock that had sealed away the Great Sage Wukong.
+
+It had been worse, ever since that delivery had come, indicating that his parents knew of his deception. Every day he worried about them, what they would try to do to protect him. His poor, sickly mother, his aging father. Even with the news of scandal, and some kind of fall from grace by the Wu Clan, which was still trickling out into the Grass Sea, they were still more powerful than anything his parents could hope to do anything about.
+
+And all because he had lied. All because he had been foolish and gotten caught up in all of this.
+
+He would swallow the slowly building scream, feel the sweat build on his face—which was  about when the hourglass would chime that his five minutes were over.
+
+His moments of contemplating his own mortality and failings over, he would rise from his bed and begin the day.
+
+Thankfully, there were at least some comforts to being the Acting Lord Magistrate of Grass Sea City. His rooms were vast and well appointed; the Magisterial Suites were probably three times the size of his own father’s. The floors were covered with fine rugs he did enjoy scrunching his toes into; and the water he used to wash his face came out of a crystal. There was some kind of heating and cooling system that always kept the temperature of the rooms pleasant and mild.
+
+But the best part of the rooms were the attached gardens that looked out over the entire city. Out of everything, the gardens were his favourite place. They were peaceful, tranquil, and helped him center himself for the day. The flowers were wonderfully tended, filling the air with their sweet scent; there were apples and peaches and plums growing on the trees, still green yet, but they were sure to be delicious.
+
+It would be really nice if he could have something like this when he finally went home, even if he had to make it himself. Ah! That's what he could do. He could be his parents' gardener! That would be a more useful place for his skills.
+
+With his mind calm and centered, he would complete his morning training while the sun was still low on the horizon. He would run laps; he would use the pots filled with water and soil as weights; he would complete the sword forms his Lord Father had taught him, every morning… though he kept it light today. He had an inspection of the city guard later, and he wanted to be in good enough form to do the drills with the men, as his father had always done.
+
+It was a little bit awkward that he could sometimes feel the stares of his… bodyguards from the nearby rooftops, but he was also grateful that none of them ever interrupted his routine. They let him have his morning peace.
+
+But nothing lasted forever. His exercises came to an end, he washed off the sweat under another water crystal, and then rang the bell that signaled that he was prepared for breakfast—and that the Acting Lord Magistrate was beginning his day of work.
+
+He was swiftly joined by two of his four guards.
+
+“Good morning, Sarantuya, Narantuya,” he greeted each in turn. “I hope the night was uneventful?”
+
+“Nothing to report, Lord Magistrate. A quiet night,” Narantuya reported.
+
+“And a better morning. We had a fine view today,” Sarantuya teased, wiggling her eyebrows.
+
+“An amazing view,” Narantuya nodded, and both approached his table, their walk quite distracting—but the Acting Lord Magistrate kept his eyes from dipping lower.
+
+“Indeed; the sky is a particularly wonderful shade today. I remember you telling me the Tianlan sky was the most beautiful among the Ravine folk, and I must agree,” he said instead. Both of them stumbled at his words, and the teasing, sultry walk dissipated, and—oh, they were both blushing. The sight was quite fetching.
+
+It had been rather nerve-wracking at first to have the two Ravine-women suddenly appear as his guards. He hadn't thought he had done anything special by talking down that mob assaulting that poor family, but apparently the Grand Ravine Sect had appreciated his actions so greatly that they sent these two.
+
+He had thought them rather frightening, with their fierce, hawk-like gazes, and the way they prowled like tigers; the rest of the staff in the palace had been similarly intimidated by them, and many had recommended he limit contact with the “wild beasts”.
+
+Which was stupid. He knew tribals. The Nezin tribe were perfectly reasonable people; the largest tribe in the Azure Hills had to be similarly reasonable… so he just treated them like Xinlai and An Ran, and asked the occasional question about the Grand Ravine.
+
+Calling them wild beasts was rude. They were ladies. Ladies who were quite enthusiastic about their home, but ladies none the less.
+
+“You remembered that?” Sarantuya asked, twirling a lock of her dark hair around a finger.
+
+Narantuya’s eyes, on the other hand, were intense. “It’s the prettiest sky, and the place to properly view it is in the Grand Ravine. How about we take you there, and show you—”
+
+“The best place to see the sky is at the bottom of the Ravine? Utter hogwash. The sky would be better seen from a mountain—like the ones nearby my Sect,” Xinlai cut in as the door opened. She, An Ran, and Lao appeared, carrying reports alongside their morning meal. There had been one poisoning attempt that hadn’t gotten very far. The kitchen staff had uncovered the would-be assassin and beaten the man into a pulp before turning him over to the guards… but every meal was screened for poison these days, anyway. It was annoying that it was something he had to worry about, and couldn’t wait until his replacement finally got here—which would hopefully be soon. Last he heard there had been a meeting in Pale Moon Lake City to put the question to rest, presided over by the Lord Director of Civil Service Examinations.
+
+The twins narrowed their eyes at the interruption. An Ran and Xinlai both approached the table, and there was what felt like a storm brewing between them.
+
+“The rushing water would interrupt the tranquility—the grasslands of the Verdant Blade Sect is obviously the best place to see the sky,” An Ran said, and their glaring match intensified.
+
+“Here’s the reports for today, Boss!” Lao said, leaving the cultivator women to do cultivator things. They glared at each other quite often, but nothing ever really came of it besides a few verbal barbs.
+
+“Thank you, Lao,” he replied graciously
+
+He did know what they were doing… He just still didn’t entirely know why they were doing it. He was just a mortal.
+
+They were all stunningly beautiful women, but more than that, they were all so interesting. Xinlai was like an empress, domineering and aggressive, but with a surprisingly soft and sensitive side. An Ran was the opposite, normally so sweet, but with iron and steel lurking just beneath the surface. The twins were wild and intriguing, free and unrestrained like storms across the grasslands. Lao was so gregarious, so ready to help her people, and she looked at him like he had been sent by the heavens.
+
+But even if he did want to try something, the fear stopped him. Once upon a time, it had been fear of them as individuals. But after spending so much time with them all… he didn’t fear them anymore. How could he? He liked all of them. Instead, the fear was deeper. Not of them, but of himself.
+
+The fear of who he really was. The fear of letting someone see the terrified, unsightly side of him.
+
+The real side of him… and to see their eyes cloud with disgust.
+
+He sighed and looked instead at the missives. There weren’t that many today, thankfully. His workload was on a downswing, amazingly, but he couldn’t get complacent.
+
+Focus on the job, he told himself. And when he was working… he could forget these matters that unnerved him so, and forget, for a moment, that he was being a coward about this whole thing.
+
+His father would have known what to do in this situation. But he couldn’t exactly ask him, now, could he?
+
+So instead, he maintained the status quo. The comfortable, but uncomfortable existence that was the Acting Lord Magistrate’s life.
+
+Training with the guards was one way to take his mind off things.
+
+====
+
+“Ah, he's so manly, tiim uu?” Sarantuya sighed dreamily, staring down at the head of the mortal guard column where the Acting Lord Magistrate was running alongside Captain Han.
+
+Xinlai found herself in the rare position of agreeing with the tribal girl. Every woman who looked upon the young lord of the city was instantly smitten, from young girls who just found out that men could indeed be anything more than icky to old crones who tittered when he offered them a warm smile.
+
+Sword drills, archery contests, martial arts, horsemanship… the Acting Lord Magistrate went through every measure with his men and had now run for several Li through the city, to the adulation of the citizens—from the richest quarters of the city to Underbridge.
+
+The city rang with cheers as the people got to know who their protectors were. It was a masterstroke, even though the man said it was his father’s idea rather than taking credit for it all.
+
+He had spent quite a long time planning this day. The entire thing was a show, more than anything… but it made the city guard look grand. It gave them a sense of pride, something that they themselves could aspire to be.
+
+That, and the sadly unusual fact that the Acting Lord Magistrate actually paid them on time helped a lot. Instead of skimming off the top, the Acting Lord Magistrate always paid his men their due.
+
+So far, the show was making up for missing the event at the Dueling Peaks. Xinlai’s sister Xintong had sent a letter gushing over how amazing the entire thing had been, and Xinlai had stopped reading it halfway out of annoyance. It would have been an amazing thing to have escorted the Acting Lord Magistrate to, but he couldn’t leave… and Xinlai was not going to let any of those harpies steal a march on her. She had seen him first!
+
+She glanced at An Ran, who was sipping tea contentedly, then back to the Ravine twins again and raised an eyebrow.
+
+Narantuya seemed annoyed. “Look at him. He can do that, but why doesn't he just sling any of us over his shoulder and have his way with us?”
+
+Xinlai flushed at the blunt statement while An Ran choked on her tea.
+
+“Kidnapping may be how your people do things, but the Acting Lord Magistrate is a gentleman!” Xinlai sneered.
+
+“You don’t want him to take you to his bed and ravish you?” Narantuya asked, an eyebrow raised, while her twin started to cackle.
+
+Xinlai’s face heated up. “That is besides the point!” she riposted. “A man needs to court a lady!”
+
+“And he's not courting any of us,” Narantuya grumbled. “He looks, I see sometimes how his cheeks turn red, but…”
+
+The tribal woman trailed off, and there was silence.
+
+She was right, damn her. None of them had made any progress. The Acting Lord Magistrate remained a fortress without a breach. He was polite, he genuinely listened when they spoke, he was witty, he was kind, he was everything all of them wanted.
+
+But he had changed ever since that letter had been delivered. He had thrown himself into his work more and more. He was clearly worried, and it made her heart ache to see him like this.
+
+It made all their hearts ache to see him like this.
+
+It would have almost been better if he had been a cad, stealing kisses and whispering to them to lay with him, instead of earnestly asking about their family members or remembering their favourite tea. That way, there wouldn’t be these… feelings.
+
+It would have been some fun, instead of whatever this was.
+
+“We could try just asking him. Teacher Xiulan… she always says honesty is best,” An Ran speculated… but that idea felt uncomfortable.
+
+Would he even answer honestly?
+
+Sarantuya snapped her fingers. “We find something to celebrate, we all get drunk, and then we ask him!” she decreed. “The old ways say, ‘have a drink with your friends, and show them your heart!’ It's how the Great Ancestor befriended the first Guo Daxian!”
+
+Narantuya made a noise of agreement.
+
+Xinlai looked at An Ran. It didn’t sound too bad of an idea. Much better than randomly ambushing him with a question like that, and ruining the comfortable friendship they maintained.
+
+To their surprise, they ended up not needing their plan.
+
+===
+
+The Acting Lord Magistrate stared in shock at the missive in his hands.
+
+A missive, detailing the fall of the Wu Clan, the seizure of their holdings, and their effective destruction.
+
+The Wus… weren’t a threat to his parents anymore?
+
+Slowly, a smile crawled its way across his face. The burning churning in his guts smoothed out. Instead, bubbling euphoria replaced it.
+
+The Wus were gone. His parents were safe.
+
+The next transmission made the already bubbling feeling start to come to a boil.
+
+“An official decision has been reached regarding your position as Acting Lord Magistrate of Grass Sea City. As this is a sensitive matter, an official courier will be sent to Grass Sea City soon to deliver our verdict,” the voice from the transmission stone, the Lord Director, declared.
+
+Which was followed by another report; that of a grand carriage, one opulent and expensive, making its way to Grass Sea City. A grand carriage that, according to all intelligence reports, contained a Lord Magistrate.
+
+“I’m finally being relieved,” the Acting Lord Magistrate said, feeling dazed.
+
+The Wus. Destroyed through scandal. His temporary position finally over, and another Lord Magistrate already on his way to relieve him.
+
+This was officially the best day ever. Oh, there was still the fact that his parents knew about his activities and were upset with him, but he would gladly throw himself onto the ground before them after today! He would return, the unworthy son, to beg their forgiveness a thousand times, and then he would take up his position as a gardener! That would be his life, and it would be a quiet, peaceful one!
+
+He was in such a good mood he decided to take the rest of the day off, having the servants send some celebratory drinks up to his room. Xinlai, An Ran, Lao, and the twins were on hand to join him in this glorious moment. One bottle disappeared, and then two, and then the room was pleasantly floaty. He turned to his good friends, wanting to see the looks on their faces, expecting them to be as happy as he—but none of them looked happy.
+
+Xinlai was scowling at him.
+
+“Are we so repulsive to you that you’re that pleased to be rid of us?” Xinlai asked, her voice full of scorn.
+
+The words slammed into him like a Wreckerball, as did the realization.
+
+He had gotten so used to them being around that… he had forgotten that once he left, he might not see them again.
+
+The good mood was shattered, and for some reason his heart started to ache.
+
+“No. No, Lady Xinlai, you are not. None of you are. How could any of you ever be repulsive?” he asked, and Xinlai looked away.
+
+“Then… why have you spurned us so? None of us have been subtle about what we desired,” An Ran said next, her cheeks flushed from alcohol. Lao and the twins all seemed to agree with the words, their faces ones of discomfort.
+
+He blinked at the bluntness of it all, the direct attack that caught him off guard. All of them looked genuinely upset.
+
+He floundered for a moment, at first searching for an excuse. A set of sweet words, to defuse this situation—but he realised that lies had gotten him into this mess in the first place.
+
+No. No more lies.
+
+“Because I’m not the man you see,” he finally answered. “The Special Inspector, the Acting Lord Magistrate? Those are lies. The competent man, solving every problem without a sweat? Who the hells is that? I’m so scared I’m about to piss myself half the time, and in the other half, as soon as you’re all out of the room, I throw up.”
+
+He left the words to hang, the burn of alcohol in his guts lending him courage. Everyone was looking at him with varying degrees of shock. He stood, swaying slightly.
+
+“You’re all so amazing… and I’m just a man. A mere mortal from the far north, thrust somewhere at the wrong place at the wrong time, constantly second guessing himself, constantly terrified that I’m going to do the wrong thing and get people killed—or worse, die myself! How could I ever be worthy of such affection when you know not the real me? The real, pathetic man who wants nothing more than to run back north screaming all the way?”
+
+His words faltered then, and shame filled him. “You’re not supposed to lie to someone you love, and the only thing I’ve been doing to any of you is lying.”
+
+There was silence, and he lacked the courage to look any of them in the eyes. To see what the people he held in such regard really thought of him.
+
+“But you didn’t run, didja?” Lao asked, her accent slipping through. ”When they shot arrows at me, you stepped in front of them, and you cut them out of the air, then carried me to safety.”
+
+“Hm, you have a surprisingly foolish side. It's rather cute,” Xinlai said, an amused lilt to her voice. “We’re cultivators. Do you think we did not see you sweating, nor hear your heart racing?” He looked up in shock, his mouth dropping open. “So what? Like the fool girl said, you stood anyway.”
+
+“What were your nefarious plans with the orphans you fed?” An Ran asked sarcastically. “Or where was this great coward when you infiltrated a bandit’s hideout to bring them to justice?”
+
+“When you scolded those nobles for calling us barbarians, were you lying?” Sarantuya asked, her voice quiet.
+
+“Tehneg! You’re right, I am upset; upset this person before me is disparaging a good man,” Narantuya said, her eyes narrow.
+
+He opened and closed his mouth, looking in shock at them all.
+
+There was no disgust. They were… defending him?
+
+“Oh,” was all he managed to say in a very tiny voice. Then he let out a breath. “Forgive me for my indecision, and my… issues. I shall make it up to you all.”
+
+“Oh, and how will you do that?” Xinlai challenged.
+
+“I shall spend time with each of you. And then… I will choose. Before my tenure is up.”
+
+There was silence at his declaration for a moment.
+
+“Oho? How bold! After all this, those are the words you dare say?” Xinlai asked.
+
+“Yes,” he said with all the resolve he could muster.
+
+“Oh my,” An Ran said, her face flushed.
+
+“Yoy, Yoy! He’s got a bold spirit!” Narantuya said. “Like a stallion!”
+
+“Eh? Me too?” Lao said, looking fearful for a moment, before she stood up too. “Well, I’m not going to lose!”
+
+Sparks flew between them all.
+
+A strand of fear entered his chest, before he quelled it. This was the path forward.
+
+“Now we drink! To the destruction of one’s enemies, a wonderful future, and fair competition!” Xinlai shouted.
+
+Her words were met with great enthusiasm. Another bottle was shoved into his hands… and for the first time, he felt truly amused at the way they were all jockeying against each other, trying to decide some sort of order of whom he would spend a day with first.
+
+They drank, laughed, and did foolish things. His chest filled with warmth, and for a while, just a while, there was no Acting Lord Magistrate, nor Special Inspector.
+
+Just people whom he liked, and who liked him in turn.
+
+He would fear no more. He would march forwards, unflinching!
+
+At one point, everything went hazy, and then warm, and then started to feel very, very pleasant—
+
+===
+
+“Acting Lord Magistrate?”
+
+He woke up with a pounding headache, and feeling worse than when he had spent all day running with the guards.
+
+But at the same time, he was very comfortable. He was embraced by something—
+
+“My Lord, are you awake?”
+
+He groaned as the voice came again.
+
+“Come back later,” he said for the first time ever to the servant. “I’m too tired for whatever it is.”
+
+“Ah, forgive me, Lord Magistrate, but…the guests say they are your mother and your father, and match the descriptions of them we were given…”
+
+There was a moment of silence.
+
+Then the Acting Lord Magistrate of Grass Sea City bolted upright, his heart pounding like a drum.
+
+“Nooo, more hugs,” Xinlai muttered.
+
+“It's too early,” An Ran sighed.
+
+“Tianlan örshöö! Sister, are we sure he's a mortal?” Narantyua groaned, rubbing her back.
+
+“Manly~” Sarantuya said, her voice half delirious.
+
+Lao was dead to the world, drooling on his thigh.
+
+He looked at the state of himself, the bite marks, the bruises, and the… fluids, and then back at the door.
+
+"Ten—ten minutes!" he squeaked.
+
+He needed twice his usual time to prepare for his impending death, after all.

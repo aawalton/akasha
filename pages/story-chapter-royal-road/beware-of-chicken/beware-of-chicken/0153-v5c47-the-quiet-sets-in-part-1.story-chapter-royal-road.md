@@ -1,0 +1,169 @@
+---
+id: 06e8ad33-4938-5aec-93d2-c1694f3c6d21
+page-type-slug: story-chapter-royal-road
+title: "v5c47: The Quiet Sets in Part 1"
+slug: 0153-v5c47-the-quiet-sets-in-part-1
+partOf: beware-of-chicken
+position: 153
+ownLength: 2124
+unit: words
+ownProgress: 2124
+publishedAt: 2024-09-28
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1824315/v5c47-the-quiet-sets-in-part-1"
+royalRoadId: "1824315"
+markedReadAt: "2026-06-29T18:56:32.369Z"
+---
+
+Bi De fell from the Demonic Cultivator’s hand. He watched as the cultivator’s head sailed through the air. The man’s face displayed shock and befuddlement.
+
+Relief swept through Bi De’s soul. His involvement had been a strike of pure desperation. He had put all that he was into that final blow. His target had been distracted, grievously injured, low on Qi, and had been struck with a fundamental truth of the world.
+
+He had been a mere distraction—but it had been enough.
+
+Even a moment longer and Bi De himself would have perished. There was a ringing in his ears, his dantian was screaming in pain, his meridians were on fire, his spurs were bleeding splinters, and every feather had been stripped from his chest. His biggest regret, however, was that his vest, the first gift His Great Master had ever given him, was a scorched pile of fur somewhere after being blown off his body.
+
+But they had won. He looked upon the stunned visage of the man who had nearly killed Shen Yu, almost floating through the air—and then his head began to bulge grotesquely, swelling up from the inside. His body followed suit. The man’s nearly extinguished Qi spiked.
+
+The man’s body split open at the seams. Before Bi De could react, before he could even think, there was a burning dark star expanding to fill his vision. The malice within pierced straight through to Bi De’s soul. Cold fingers clasped around his heart. It would consume him, snuff him out, and there was nothing he could do about it.
+
+A sword interposed itself. An arm wrapped around Bi De, shielding him.
+
+“No,” Shen Yu spoke. His words were carved onto the very world itself. Blood leaked from his lips. The skin of his chest peeled off, revealing metal underneath inscribed with poems, beautiful etchings, and stunning calligraphy.
+
+The sword in his hand burned like the sun, too bright to look at. For what seemed like an eternity, the darkness and light battled—but inexorably, the blade pressed forward, unwavering.
+
+And so, the darkness was cut.
+
+The roar of the explosion dissipated. The malicious Qi faded.
+
+For a brief moment, there was silence. Shen Yu glared at the lingering traces of dark mist along the edges of the room.
+
+“Begone,” Shen Yu thundered, his Qi once more flaring. The mist was banished, blown away—but there was a sound like pained laughter as it went.
+
+The Unconquered Blade stood tall for a moment longer, his eyes blazing, standing tall under the moon. The obliterated roof let in the freezing cold, and let them see the stars.
+
+The silence was broken by the thunderous boom of lightning, and a roar of fury.
+
+Shen Yu, mighty and indomitable, coughed. His legs wobbled. Blood splattered all over the floor from the gaping wounds littered across his body.
+
+Bi De had barely any Qi—but he had enough to turn back into his human form. It was very nearly a mistake. His body screeched at him for daring to use it so roughly.
+
+But he caught Master Shen Yu. The wobbling titan remained standing. A look of surprise crossed his face as Bi De supported him, before the old man smiled.
+
+“Thank you, disciple. To the-” Shen Yu coughed again, more blood splattering to the floor. “To the wall, my disciple. I need a moment.”
+
+Bi De did as was asked of him, bringing Shen Yu to the wall so that he could lean against it. Bi De looked at Shen Yu and truly saw the damage.
+
+If Shen Yu had not been a cultivator, he would be dead a hundred times over. His clothes had been burned off, and all Shen Yu had left was a loincloth. Spikes as thick as his Great Master’s forearms had erupted from Shen Yu’s body. Most had been snapped off, but the bases remained, the skin around them puckered and cracked like metal. His skin was missing from vast swathes of his body, instead revealing a metallic sheen beneath. One of his eyes had nothing human about it any longer. It was simply a glowing pit.
+
+Bi De had his own medicine out, but he was uncertain if it could actually heal the horrific wounds.
+
+“A stronger dose is required, disciple,” Shen Yu said in a quiet voice. He touched his storage ring, and out poured pills whose power was overwhelming. The man knocked back five, and his wounds began hissing and steaming. The man, seemingly satisfied by whatever the medicine was doing, tapped his storage ring again and offered Bi De a pill.
+
+There was a flare of Qi in the distance. Lightning clashed against some other power. Bi De winced.
+
+“I shall be up in a moment, Bi De. Worry not. This old man has a bit more left in him,” Shen Yu assured him.
+
+At his words Bi De kept calm and stood vigil as the mountain rumbled. He took the pill, and grimaced. The Healing Sage’s concoctions were much gentler.
+
+=================================
+
+The fight turned completely surreal for Zang Shenhe after the fox had pushed her aside. The traitor’s lingering will and Summer’s Sky pulsed in unison, and Shenhe found herself unable to deny their desire to help her crush this man before her.
+
+Images, thoughts, and sensations filled her. Yet instead of cruelty and malice, instead of regret and pain, the searing, overwhelming force that burned in her veins was love.
+
+Zang Wen had loved Nezan—the fox. Shenhe saw the battles between the two of them. She saw Wen’s own crusade as the Spirit filled her and imparted every lesson she could. How could this glorious hero ever have been beguiled?
+
+They were at the same stage of cultivation, but Wen’s strikes and knowledge would have slain Shenhe in an instant.
+
+Each blow was a masterstroke, each deflection worthy of song as the Spirit gently guided her body into the proper forms. They struck starfire and the starfire burned, recoiling from her blade.
+
+She saw Wen giving Summer’s Sky tea for the first time, the sword enjoying the sensation. She saw Wen laughing and playing with children. She saw Wen smiling and kissing the fox on the cheek. She saw her burying her face in the fox’s chest fur and giggling.
+
+Why? For what reason was Wen showing Shenhe this… shamefulness? For what reason was Wen making her feel this way, these useless emotions… and why were they making Wen so strong?!
+
+“Kneel!” Yulong boomed, the stars glittering above his head like a crown. Knives speared into Shenhe’s skull as the voice commanded her, itching in the back of her head.
+
+She saw visions of the Inquisition. The truest disciples of the Shrouded Mountain Sect taking Wen, and she saw them torturing her. She saw them trying to break her, because she found out the truth.
+
+The Inquisition could not break Zang Wen. The years Shenhe had endured, doing the worst missions, trying desperately to be acknowledged by her sect, had not broken her.
+
+The voice demanded she give up. And neither Shenhe nor Wen were ever very good at that.
+
+“Strength Above All!” Shenhe and Wen roared. Her body decompiled into lightning. Her Qi tore free of her body, and she leapt towards her enemy.
+
+“To protect what we love.” Wen and Summer’s Sky continued.
+
+The world seemed to freeze. A man with blue eyes and blonde hair smiled at her. The words resonated deeply within her soul.
+
+Shenhe gasped. Yulong’s eyes widened. She slammed into the barrier the man conjured, the starlight buckling and cracking. Summer’s Sky broke through. The blade pierced Yulong’s shoulder, before with a pulse of energy Shenhe was flung back.
+
+Both of them paused, Shenhe glaring at her foe. Her body was screaming with protest, and the visions were getting worse. Yet instead of speeding towards her, Yulong suddenly stiffened. His glare intensified… before a bolt of starlight erupted into the ceiling.
+
+Rocks began to fall, her foe clearly trying to effect an escape.
+
+Shenhe was in no condition to pursue, and getting trapped under all the rubble would not be ideal. Shenhe turned to make her own retreat… and then paused. Her eyes landed on the pile of fur that had taken a blow meant for her.
+
+Shenhe grimaced. She slung the fox’s body up onto her shoulder, and fled back the way she had come.
+
+She had sworn an oath…and hoped she had not failed it.
+
+=============================
+
+“They won. They won! Our foe-enemies are flee-retreating!” Yun Ren heard Ri Zu shout, her voice taking on that odd, guttural accent that it always did when she was strained or emotional.
+
+The disciples of the Shrouded Mountain Sect began cheering. They hugged each other, clasped arms, and one guy and a girl started kissing. Yushang practically tackled Ri Zu with tears in her eyes. Shao Heng clapped Han on the shoulder, the portly man looking just a bit lost.
+
+Yun Ren didn’t say anything and stayed where he was, his back against the wall beside Spooks. The Thunderhoof was looking a lot better, bandages covering his body.
+
+‘This sucked. I never want to have to do this again,’ the Thunderhoof said after a moment.
+
+Yun Ren laughed. “Don’t I know it, buddy.”
+
+It didn’t escape Yun Ren that when he had started this journey he had only planned on wandering around and recording a few images. Not getting involved in all… this.
+
+He shook his head and forced himself to his feet. He walked over to Ri Zu, who was hugging Yushang back.
+
+“Ri Zu, how's Uncle Nezan?” he asked, getting her attention.
+
+The woman paused, closed her eyes, then grimaced.
+
+“Ri Zu does not know from this distance. Shenhe will be here soon.”
+
+A pit of worry started to form in Yun Ren’s guts. He bit his lip and controlled his breathing the best he could. His mood was not improved when Ri Zu got the last of their healing supplies together.
+
+His heart leapt into his throat when he heard footsteps.
+
+“Spiritual Doctor, we require assistance!” Shenhe’s gruff voice sounded out. It should have been comical to see a woman carrying a fox so large on her back. Instead, it just highlighted how limp Nezan was. His fur was no longer white, but red and pink. There was a massive hole in his side, most of his teeth were missing, and one side of his chest was just caved in.
+
+Shenhe was in little better shape. There were cuts and burns all over her, and she walked with a pronounced limp. Something had burst in her left eye and her nose, blood flowing freely.
+
+He could barely hear anything as the fox was gently set down and Ri Zu began her work. More of her little helpers poured from her shadow, green flowing from their bodies.
+
+Nezan wasn’t breathing. “...heart, destroyed. Body has shut down. Not enough medicine…” the rat glared at the body. “Manually circulate blood? Manually circulate blood.”
+
+Yun Ren thought he was going to throw up. Nezan, the teasing uncle who had helped him out so much… wasn’t breathing.
+
+That was bad. That was really bad. He barely noticed Yushang taking his hand, or Shao Heng gently guiding Yun Ren so he could sit against the wall again.
+
+Meimei always said if a man didn’t breathe for over three minutes he was probably dead.
+
+The green light around the fox began to splutter. Ri Zu’s nose started bleeding, and she was biting her lip.
+
+The green light died. Ri Zu started heaving. Her hands were shaking.
+
+The world tilted.
+
+He stared at the white fur of Nezan. He stared at the dull red eyes, which had once glittered like gemstones.
+
+Wait… gemstones… Yun Ren’s eyes widened. Gemstones! Nezan had once given Yun Ren part of his core, and while he had given it back so that Nezan could regain his full power… Nezan had said powerful Spirit Beasts don’t truly die until their core is destroyed.
+
+Yun Ren surged to his feet. “His core! Ri Zu, help me get his core!”
+
+The rat started, looking confused for a moment, and then her eyes widened.
+
+“Here! In the center of the chest!” Ri Zu shouted, making an incision. Yun Ren reached in, his hand closing around a hard sphere that was the size of a walnut.
+
+Carefully, gently, he pulled it out. He swallowed thickly when he saw its condition.
+
+The sphere was in three sections. One, the largest, was flaking away as more and more cracks formed in it. Another was dull and dark, a hole pierced straight through it. But the last… the last still gleamed with energy. Diminished and broken… but not spent yet.

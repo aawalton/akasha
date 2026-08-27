@@ -1,0 +1,117 @@
+---
+id: 4d8a775c-9ca5-5d35-99d0-931913ba7b00
+page-type-slug: story-chapter-royal-road
+title: "56. Unexplained Intervention"
+slug: 0056-56-unexplained-intervention
+partOf: breaker-of-horizons
+position: 56
+ownLength: 2143
+unit: words
+publishedAt: 2020-11-12
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/583599/56-unexplained-intervention"
+royalRoadId: "583599"
+---
+
+We were all seized with the sensation of falling, of losing our balance. The Demiurge pointed his staff at the lake, and the air became charged with power. His hair and robes drifted lazily, and waves of arcana pouring off him distorted the air, giving the illusion that he was underwater. I had the impression of something massive attempting to flee from him — the lake augera, whose form I still couldn't discern — but then the world kept on tipping until we were on the ground, and we couldn't tip any further, but it still continued tipping... until everything, everything slid out of focus.
+
+Incomprehension.
+
+Utter incomprehension.
+
+Reality stretched and warped, and all my senses were desperately trying to stitch together something that gave meaning to what was happening around me. I was being buffeted by freezing wind, but also found myself suffocating under an oppressive, humid warmth like the worst summer day. My ears thundered with blood, and yet I could somehow hear a babble of unintelligible voices. The night sky, which was now beneath me as I desperately clung to the earth above, opened up into a dazzling profusion of colours that bled into our eyes, casting the scene in brilliant shades that defied nature and reason. Before us, the entire lake seemed to be retreating into the horizon before spiralling up into the heavens, like an accidental stroke of an artist's brush.
+
+As I pressed myself onto the ground, the earth rippled at my touch. I could trace the waves as they lapped against my friends, and also taste the fear and confusion as the ripples of their own collapsing psyches reached me too. Our emotions ran like water, forming little eddies that mixed and blended together into terrifying new shades and flavours of abject horror as we were mercilessly dashed against the jagged surface of the unknown.
+
+The surface of the unknown. Because despite how overwhelming all of this was, some fragment of my mind managed to process the fact that we were, even now, only drowning on the surface. In the directionless chaos, this realisation was like a breath of air. I seized upon it and realised this was my arcanic sense, managing to give me one lifeline of understanding so that I didn't vanish utterly into unthinking madness.
+
+As I clung on to that one sensation like a drowning man, I realised that even as we were choking on the surface, below us lay even greater depths of incomprehension. I was floundering in the waves of a vast ocean and had just dipped my head into the water to stare into the lightless abyss. A sense of doom closed its fist around my very soul as, dimly, I became aware of how completely insignificant I was in the face of such profound mystery.
+
+The longer I stared, the greater that weight on my soul. But this was the only thing that gave me something to orientate to. My arcanic sense was telling me that I was on the 'surface', and so even as the world fell apart around me and the rest of my physical senses failed, I melted into the arcana — the only familiar thing left — and dived.
+
+I was not alone here, beneath the surface. Now that I had plunged into it, I realised that the ocean of arcana was not empty like it initially appeared. Hints of other movements and entities pressed in on me, and it took a great deal of effort to try and make sense of what I was 'seeing'. The Demiurge, the white-bright-power, was here, like a beacon in the darkness. But he was not a dim, vague collection of concepts. In the ocean of arcana, he was a whirling mass of intent, his thoughts like a swarming shoal of fish, except here the fish could somehow direct streams of water and change the currents.
+
+The Spire augera, the woven-shackled-stream, was here, too, but instead of being a beacon that provided direction and stability, it was a blazing furnace, that threatened to scorch anything that came too near, unbearably intense with power and fury. The white-bright-power was flitting all around it, siphoning off little eddies of power and using it to mould the ocean of arcana.
+
+A lot of that moulded power was subsequently being channelled at another entity. It was the lake augera, the raw-boundless-tempest. Turning my arcanic sense upon it here gave me a better appreciation of what it had just told me — that calling upon it in that form was dangerous. Where the woven-shackled-stream was a furnace of seething anger, bound in place, this was a river of magma. It flowed according to its own inscrutable purpose, and its unbridled power incinerated anything that approached too carelessly, not out of malice, but simply as a consequence of its nature.
+
+And it was running from the Demiurge?
+
+Whatever the Demiurge was doing, it was causing the great river of magma to rapidly retreat. But that was baffling because it didn't even look like the Demiurge's efforts were making contact with the raw-boundless-tempest. It wasn't being beaten back at all.
+
+Distance meant little or nothing here, but I understood, as I continued staring at the stream of power that the Demiurge was directing at the retreating raw-boundless-tempest, that I was getting far too close to it. I frantically tried to back away, but I had no idea how. A dim awareness of my body told me I was flailing my arms and legs uselessly, even as my consciousness was drawn deeper into that stream of power lancing out from the Demiurge's staff.
+
+The white-bright-power shifted his attention to me. I was suddenly swarmed by his shoal of intent, and in the next instant, I found myself shooting upright with a gasp, taking in the crisp air of a wintery night and seeing the reflection of the moon on the calm surface of the lake. All around me, the others were snapping back to reality. Devon let out a horrifying shriek, then dissolved into sobs. Lynus was gently rocking himself back and forth, murmuring to himself. Jerric, on all fours, was alternating between retching and weeping. Emilia was quiet as she sat on her haunches and stared out across the lake, wide-eyed, her breathing laboured. Next to her, Kevan was on his back, laughing hysterically in a way that sent chills up my spine.
+
+Ambrose was the only one on his feet. He was staring out across the lake, too, but the expression on his face was not one of incomprehension or confusion. He looked fascinated, amazed... maybe even hungry.
+
+I tried to get up, but a wave of nausea washed over me and I emptied my stomach onto the cold ground. Somehow, this was comforting. It was almost exquisitely pleasurable to be able to feel my body again, even in the agony of throwing up.
+
+The Demiurge went to each of my friends who were still incapacitated, his manner brisk and efficient as he tapped them once with the staff. In my state of hypersensitivity, having just emerged from a 'dive' into the arcana, I tasted the power wafting off the staff from this simple gesture. But its intricacies were beyond me, and I couldn't understand the nature of this weaving. Its effect, though, was immediate. One by one, they sank to the ground unconscious, a look of relief and calm on their faces.
+
+It was just Ambrose and me, now. The Demiurge came to stand over me. I managed to sit up, though the world twisted dizzyingly around me as I looked up at him.
+
+"No," I croaked, weakly lifting a hand in protest as he moved to tap me with his staff.
+
+The staff tip hovered inches from my face as he paused. His grey eyes flicked over me, but I also sensed something brushing against my auric-ambient-flare. It reminded me of how I had been examined by the lake augera.
+
+"Impressive, Caden," he murmured, looking more serious than I had ever seen him before. "A lesser mind would have broken."
+
+"The others... broken?" It was hard to speak. My throat felt raw, and my voice was something strange and unfamiliar to my own ears.
+
+"Nearly. Very nearly. You saved them by your very presence, even if you didn't mean to. They sensed what you did in order to orientate yourself, and they followed suit."
+
+"Didn't stop us... why?"
+
+He smiled sadly. "Their threads all lead here, to this lake. I am no friend to Fate, but as I am, I cannot go against it. But you, Caden, your thread was not counted in the stitching. You didn't have to be here. But you were, and now the tapestry is not exactly as it was meant to be. You should count this as a win for yourself, and for your plans."
+
+Ambrose was still standing off to the side, so deep in thought that I wondered if he had even caught a word of my conversation with the Demiurge.
+
+"Ambrose... how?"
+
+"He's not all back yet," the Demiurge said, nodding at the lake. "He was a little slower than you in developing his arcanic sense, but I'd say that by now he's caught up and even pulled ahead."
+
+"Fighting... the augera?"
+
+"No. Just watching. Seeing it for what it really is."
+
+"You... chased it off? How? Why?"
+
+"Chased?" he raised an eyebrow at me, opened his mouth to answer, then seemed to reconsider. "You are not all well. There will be time for a talk before you all go back for the winter break."
+
+Before I could protest any further, he touched the tip of his staff to my forehead.
+
+The milky-white orb grinned at me. I felt the carapace around me open up in answer to a command from it, and the Spire's augera reached in and enveloped my auric-ambient-flare in a soothing bath of peace and dreams.
+
+Between waking and sleeping, I drifted in the arcana. Distantly, I could feel the woven-shackled-stream stitching something around me, and even in me, bringing tangled or frayed threads together and gently fusing them again. As it worked, it seemed to hum with glee.
+
+'Unchosen-sighted-{~?~} has met with raw-boundless-tempest.'
+
+'Yes... yes I have.'
+
+'Was not part of Creating-Selecting-Chain for fated five and Chosen-Blinded-Jailer to meet raw-boundless-tempest. Not so early. '
+
+'They... they're meant to meet eventually?'
+
+'Chosen-Blinded-Jailer must meet. Fated five, optional. But never so soon. {~?~} has forced the threads. They tangle.' It hummed even more, sending pleasant vibrations through me.
+
+'I had no idea. But we all nearly went mad. I'm not sure if everyone's still whole. Why are you happy?' I wanted to muster some sort of anger at how it appeared to delight in our pain, but I felt strangely disconnected from everything, too distant to really care enough to be angry.
+
+'Must not twist mind,' the augera admonished. It tugged at some threads, and I felt a twinge of discomfort in my being. 'Think softly, or risk breaking.'
+
+I quietened, feeling quite keenly aware of how fragile I was in its hands. After a few moments — or some indeterminate length of time, it was really hard to tell — it spoke again.
+
+'Creating-Selecting-Chain has met no challenge since creation. Caden comes. Unchosen, so ancient-distant-spiders do not care about Caden. Sighted, so Caden can see from the shadows of anonymity. And {~?~}, so Caden can do what everyone can, or what no one can, or nothing. Woven-shackled-stream worried that Caden would do nothing. But now... not nothing. It is... exciting. It makes us hopeful.'
+
+'The Fateweavers still don't know what's happening?'
+
+'Now, with tangled threads, maybe they know they must look closer. But ancient-distant-spiders cannot always see all. Webs are vast. Spiders are vaster, and distant, to have whole web in vision. Do you notice all the ants, though you step over the grass?'
+
+That was both heartening and terrifying because even if it took a while for them to really find the root of their new problems, the imagery offered was clear — if they found me, I was nothing more than an ant that could be squashed.
+
+'So Ambrose and the others met the raw-boundless-tempest sooner than planned. How does this help?'
+
+The augera grinned at me again, and this time when it spoke, its voice sounded like an echo of mine. '...even the least-remembered moment has its part in shaping our fate. One seemingly inconsequential moment can change a life, and one seemingly inconsequential life can alter the course of history.'
+
+'... that's... what I wrote in my entrance essay.'
+
+'Meeting raw-boundless-tempest early may help, may not help. But it is different. It is not in Creating-Selecting-Chain. Thus, it alters. For good, for bad... who knows? Sleep now, {~?~}, and may you have many more inconsequential moments.'

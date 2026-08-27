@@ -1,0 +1,169 @@
+---
+id: 314d5445-e78a-5c79-b115-31e5b6f7354c
+page-type-slug: story-chapter-royal-road
+title: "v7c49: Wind Down"
+slug: 0302-v7c49-wind-down
+partOf: beware-of-chicken
+position: 302
+ownLength: 2024
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3303287/v7c49-wind-down"
+royalRoadId: "3303287"
+---
+
+“Thank you all again for this delightful evening. I enjoyed myself quite thoroughly,” Master Rou declared.
+
+Bai Huizhong watched the man from one of the arena openings, his eyes drooping. He was kept awake only by copious amounts of tea, for the hour was very late. It was perhaps four hours until sunrise. Master Rou had taken a while—but the man had spoken with any and all who had come up to him, including multiple independent cultivators. Yeah, it was nice for all the cultivators, even the weakest, to be noticed, but it was no fun for the mortals. Every one of them had bags under their eyes.
+
+“We are glad that you enjoyed yourself, Master Rou,” the Grand Marshal said, standing at the head of the group of cultivators who were seeing him off for the evening.
+
+“My thanks to all who performed, and to all the mortal support crew—you all worked long hours, performed admirably, and made it a memorable night.”
+
+The cultivators of course preened, but there was a bit of stunned silence from beneath the stage.
+
+The man had been concerned with mortal livelihoods when he had visited last, but that… well, that sounded genuine.
+
+Huizhong found himself smiling at the acknowledgement. Cai Xiulan and the rest of the Azure Heroes were similarly kind, but to hear it from this old monster? To hear a cultivator understand that they had worked hard on this, and appreciated it?
+
+It was gratifying.
+
+“I will see you tomorrow, Master Rou?” Cai Xiulan asked, and the man nodded.
+
+“Indeed! I’m looking forward to a tour of your mountain. It's changed much since I was last here,” the man said, again with enthusiasm.
+
+“Then good night, Master Rou,” Xiulan said, and her statement was met with a chorus from the other cultivators, who all bowed.
+
+“I bid you all a good night as well!” Master Rou said, before turning with his wife and his servants and exiting the Earthly Arena.
+
+Everyone waited for a beat, their expressions set and still.
+
+“He is down the hall and shows no sign of turning,” came the report from one of Huizhong’s men, which was broadcast into the arena.
+
+Bai Huizhong slumped with relief. He was not the only one. The sects began moving out, also filing away from the arena.
+
+“That's a wrap everyone! Reset the arena!” he commanded.
+
+The servants swept out into the Earthly Arena, gathering the food and drink that was left over. At the same time the arena made a grinding noise, returning it to its initial configuration.
+
+Bao Wen staggered up from beneath the floor with the rest of his team, all of them sweating and looking exhausted.
+
+But of course, their night wasn’t over quite yet. The Sect Masters had all gathered in the main meeting room—and Huizhong had to go and report their duties complete. At least all of them looked pleased with themselves.
+
+All the Sect Masters were crowded around the Grand Marshal, nodding and speaking to her.
+
+“It was beyond my expectations!” Tian Shen, Sect Master of the Azure Horizon, said. “To think our Earthly Arena is once more capable of such marvels!”
+
+“It was a thing of true beauty,” the Sect Master of the Crossed Branches Sect said, his gaze intense. “I cannot wait until the next tournament! It will be one for the ages!”
+
+“The most important thing is that Master Rou derived some pleasure from our works. The Grand Marshal arranged an excellent show,” Lady Xinling said, nodding at the woman.
+
+“The Grand Marshal does not hoard merit, but allows all to partake,” Ulagan Baatar stated. “And her insight is why this event was a success.”
+
+There was much spirited agreement from the other Sect Masters.
+
+“Yet she is not the sole reason; the tireless work of the Restoration Commission and Bao Wen were the keys to success. Lad, you outdid yourself with the transitions. So smooth and seamless!” Ulagan Ganzorig, who had been Sect Master of the Grand Ravine before he stepped down for his father, beamed at the young man.
+
+The other Elders noticed Bao Wen, and all of them smiled at the boy like he was their own nephew.
+
+“He trains for hours; though he cannot cultivate, his work ethic is not lacking in the slightest,” Cai Xi Kong said, stroking his beard.
+
+Bao Wen flushed.
+
+“Bai Huizhong is also to thank. As Master Rou said; you all performed flawlessly,” Xiulan said, her eyes landing on Huizhong. Her smile was entirely too dangerous. It looked like the air was sparkling around her!
+
+“We all did our part,” Huizhong stated magnanimously. “But if the Esteemed Elders can grant us one thing?”
+
+“What do you require, Bai Huizhong?” the Lord of the Grand Ravine asked, his eyes sharp.
+
+“Some sleep,” Bai Huizhong said, his voice deadpan. “We mortals are dead on our feet, and most of us have to wake up in less than four hours.”
+
+Baatar’s serious mien vanished into amusement. The assembled Elders, all already in a good mood, laughed.
+
+“Ah, yes, mortals do need quite a lot of sleep,” one of them mused.
+
+“Please tell everyone who worked tonight to take the morning off, Huizhong,” the Grand Marshal said. “I’ll take care of everything else for tomorrow.”
+
+Huizhong gave them a little bow, very pleased with that—as would his people.
+
+And they would be even more pleased with the bonuses they would be getting tomorrow. The cultivators, on the other hand, all turned their conversation back to Master Rou.
+
+“They were both so elegant, but Lady Meiling? Her poise was immaculate. So aloof and imperious. That kind of decorum is befitting of such a powerful Lady…”
+
+================================
+
+“Hnnnnnghg,” Meimei said with as great an amount of decorum as one could with their face buried in somebody’s chest.
+
+In this case, my chest. As soon as we had gotten back into our room Meimei had immediately face-planted into me, all stressed out from keeping up her act all night. Now I was laying on one of the room’s couches giving my wife some TLC. She had definitely earned it.
+
+It was probably around two in the morning, or slightly later. Zhyue had already been asleep for a long time, watched over by Suyan and most of the bees aside from Bane of the Black Lances. Our little man seemed to be adapting quickly to things, and had slowly stopped rubbing his nose over the course of the night; with luck he would be able to come on our tour with us tomorrow and not be so plagued by all the smells.
+
+“Yes, that's absolutely correct. Meeting with a lot of people is stressful,” I agreed. There were several chuckles. Everyone save Xiulan and Xianghua were here, having acted like they were heading off, only to double back so we could hang out some before we truly turned in for the night.
+
+“Hnerg. Snerf,” came the reply. Yin just started laughing at the noises Meimei was making— while Tigu, on my other side, patted Meiling’s arm.
+
+“There, there, you did well, my student,” Lady Wu said, patting her head—before letting out a massive yawn.
+
+“Mrrr?” Meiling asked from my chest.
+
+“Ha! No grumblin’, Lady Meiling! You guys did great!” Rags said, an easy grin on his face. He was still obviously rough around the edges, and a bit ragged-looking, but he appeared calm and comfortable.
+
+“Yeah. You did real good. I’m not used to the Elders being so subdued!” Loud Boy said, shaking his head. “Normally they’re all stern, acting like they have all the answers—or they want to try and tell us all what to do when they’ve got no jurisdiction. I’m just glad I don’t have to interact with them much—I’m normally on patrol with the rest of the Tiger-Leopard Outriders. Xiulan had us going hard these past couple of months.”
+
+“How's that been going?” I asked, continuing my shoulder massage—Meiling was slowly coming back online. She sighed and finally rolled off my chest to sit beside me.
+
+“It feels good to be out there, yanno? Making a difference,” he replied. “We finally got everything completely worked out with Rags’ report system. We’re starting to hit bandits and rogue Spirit Beasts faster. It's a hard pace, but it's worth it.”
+
+He sounded very proud.
+
+“I’ve been hearing about how safe the roads are. The merchants are all noticing your hard work, at the very least. You are making a difference. Both of you.”
+
+Rags and Loud Boy blushed, before Loud Boy coughed. “We’ve also started picking up fresh ignites. People from villages and the like, who don’t have a sect, or don’t know what they need.”
+
+“Xiulan’s idea,” Rags said. “We’ve been going around the less populated places, and been expanding out of the Grass Sea. Let me tell you, I wish I had a quarter of the shit these new guys get when I was starting out.”
+
+Loud Boy and Rags both laughed. “Lucky assholes. It's good though, they don’t have to muddle their way through the bullshit by the skin of their teeth like we had to.”
+
+There was no bitterness in their voices. Just amusement. They had suffered—and now they were making it so no one else had to.
+
+“Rags and Loud Boy are doing an amazing job!” Tigu said, a warm, fond smile on her face.
+
+“They’re doin’ alright,” Delun said, with a teasing lilt to his voice.
+
+The sworn brothers immediately made rude gestures at him.
+
+“It’s been an… experience, that's for sure,” Rags said with a sigh—the sigh of a man who was satisfied with his work. ”Even intercepted that bounty they put on the Acting Lord Magistrate.”
+
+“Bounty?” the Lord Magistrate asked with a raised eyebrow.
+
+“Yeah, some idiot from Pale Moon Lake City put a bounty on his head, and there were a few takers. No worries though, sir. His girls took care of him, we pulled the bounty, caught the perpetrators, and sent messages that it was defunct. No more issues.”
+
+The Lord Magistrate and Lady Wu, who had looked alarmed, both let out breaths. “Well, I, for one, am glad that there are such men and women safeguarding the people of the Azure Hills,” the Lord Magistrate said. “Thank you, Dong Chou. I’m in your debt.”
+
+“Nah, you’re not. We swore we would keep him safe, because he's keeping the city safe. We both do our part, yeah?” Rags asked.
+
+“Cheers to Dong Chou and Zang Wei!” Meimei declared, picking up the bottle of rice wine on the table.
+
+“Now that I can get on board with!” Rags declared.
+
+“What about you, Yin?” I asked. “What sort of stuff are the Blazing Swords up to?”
+
+“We have less work than those two,” Yin replied. “But we’ve had two things. A pair of kinda weird Spirit Beasts.” She stressed the last words meaningfully. “I made sure to keep the corpses, and marked where we killed them on the map. One of the places... well, that's one of the places you’re gonna have to see to, Big Bro.”
+
+“Then we’ll talk about that tomorrow,” I said, a frown on my face. Tianlan’s own feeling of unease entered my head.
+
+‘One of the burst dragon veins, probably,’ she whispered.
+
+It seemed likely.
+
+I shook off the feeling. It had waited months already, it could wait a week more.
+
+Not too long after, both Xiulan and Xianghua finally joined us. Xianghua immediately hopped into Gou Ren’s lap, while Xiulan rolled her eyes and sat beside Meiling, who was patting the couch beside her.
+
+“So, about tomorrow—” Xiulan started, only to have Meimei place her finger over Xiulan’s lips.
+
+“That can wait,” she commanded, then pointed that finger directly at Xianghua and Gou Ren. “You two! Details! How did it go, little brother? Do I have to poison people?”
+
+Xiulan rolled her eyes, but didn’t push tomorrow’s itinerary. Both Gou Ren and Xianghua laughed at her demand, and then launched into their story of his introduction to the Misty Lake Sect.
+
+All I have to say is that I was glad cultivators didn’t need to sleep much.

@@ -1,0 +1,171 @@
+---
+id: 4cc0807b-2bc1-5a73-a697-7dd3e469a7a3
+page-type-slug: story-chapter-royal-road
+title: "4. Advanced Glyphs"
+slug: 0004-4-advanced-glyphs
+partOf: breaker-of-horizons
+position: 4
+ownLength: 3202
+unit: words
+publishedAt: 2020-05-14
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/496269/4-advanced-glyphs"
+royalRoadId: "496269"
+---
+
+By the time Reeves' lecture had ended, my brain was a throbbing mess. He was an excellent teacher — something I really appreciated since I've heard horror stories about how bad some teachers could be — but the sheer depth of the material he had unveiled in the first lecture alone was quite staggering. And this was just the overview. It didn't help that he often made liberal use of his auric arcana to emphasise points. It was like sitting through an emotional rollercoaster while trying to study. Was it subconscious, or was he actually doing it to make things harder for us?
+
+I was glad to see the rest of my dorm mates weren't faring much better. Misery loves company, after all.
+
+Devon, in particular, looked quite wrung out. He was slowly running his hands through his hair. "If every lecture is like that, I don't think I'll make it."
+
+"I don't think it'll always be like that. Not every lecture." Kevan's tone was light, but it sounded a little strained. "I mean, maybe it's just every lecture by Reeves?"
+
+"Guess we'll find out." Devon let out a huge sigh and struck off on his own, a heavy air of gloom hanging over him. The rest of us traded sombre looks and went in different directions - only the twins were in the same group for our next class.
+
+The Ka'atus Room, named after a famous Demiurge from ancient times, was part of a smaller building next to the one that housed the Nivordin Lecture Hall. According to the orientation package, that building was one of several others that were built with special safety measures that could effectively seal them shut so that any stray arcana could be isolated from the rest of the Academy. It was in these little lab-buildings that the really dangerous stuff was done.
+
+Again, the interior was put together with more modern sensibilities. There were other senior students here making their way to their own classes, but I spotted some familiar faces from the earlier lecture. I was relieved to find that the Ka'atus Room was close to the building entrance since I was already running a little late. I didn't know how they expected us to immediately get from one class to the next.
+
+The room was quite large - a rectangular space that could comfortably seat over fifty people in a typical lecture setting. However, only 11 chairs had been set in a loose circle in the centre of the room. The floor was a black, polished marble and the only source of illumination was a simple orb bobbing near the ceiling above the circle of seats, casting a warm glow over the scene.
+
+Half the seats were already occupied so I hurried over and took the closest chair.
+
+"You're Caden." A curt voice next to me gave me a little start. I recognised it - Emilia, the one who had spoken first in Reeves' lecture. She had sharp features, and her brown hair was pulled back into a braid.
+
+"Hi. Emilia?" I returned with a half-smile, trying to cover my nerves.
+
+"Top Scorer." Emilia's words were clipped but her face betrayed no animosity. If she hadn't addressed me, I would have assumed she was just lost in thought and happened to be looking in my direction.
+
+I cleared my throat uncomfortably. No one else was engaged in their own conversations, so everyone was either pretending not to be listening to what was going on or unabashedly following the exchange. "Uh, yeah. Nice to meet you."
+
+She held out a hand and I shifted awkwardly in my seat to shake it. I took in a breath to ask a question but she abruptly turned away from me and started taking out her writing materials. Some of the others in the circle snickered.
+
+Thankfully, I was saved any further embarrassment when more students hurriedly came in and took their seats. All 11 chairs were now filled. I frowned, looking at the others, and saw my confusion mirrored their faces. Even Emilia had a slight crease between her eyebrows.
+
+Where was our lecturer?
+
+"Is this the right room?" A boy with blonde hair in a ponytail asked, looking around. His question was met with a few affirmatives but he got up and went to check the sign outside the room and confirmed it before coming back.
+
+"A test," Emilia muttered. The rest of us traded sceptical looks and she actually frowned this time with an impatient click of her tongue. "It's Advanced Glyphs."
+
+The blonde boy shrugged. "So? How does that make this a test?"
+
+"It's Advanced Glyphs," she repeated, turning to glare at me, as though she expected me to back her up.
+
+I shrugged helplessly at everyone, but something about her emphasis got me thinking. "Reeves showed off his mastery over auric arcana at the start, before he drilled us on the fundamentals of arcanophany. Maybe this Celwyn person is showing off some sort of glyph sequence right now?"
+
+I privately thought that our instructors were being a tad too dramatic, but I decided not to voice my opinion since it was highly likely that Celwyn was actually already here, somehow disguised as one of us.
+
+Instantly, the warm glow of the orb floating above us shifted into a soft green that I supposed indicated that I was correct. In a few moments, it had returned to its original hue. Emilia nodded at me, then got up and started looking around the room. A few of the others got up too, but they stood or shuffled around awkwardly, not entirely sure what they were looking for.
+
+"Glyphs draw in ambient arcana and shape them in specific ways. If we can find where the sequence of glyphs is, we can figure out what's being done," I said, getting to my feet and looking around.
+
+A red-haired boy shook his head. "But what if Celwyn's just using glyphs mentally instead of inscribing them somewhere?"
+
+"Could be... but if this is a glyph literacy test of some sort, I'm assuming the glyphs have to be visibly inscribed in this room." I shrugged helplessly again before continuing my search. "If someone's got a better idea, I'm all ears."
+
+All of us fanned out to comb the room, but there wasn't much to look through. It was completely empty except for our seats and the orb. I saw Emilia carefully studying the corners but she returned to the circle looking visibly irritated after not finding anything.
+
+With nothing left to check, we started turning our chairs over and scrutinizing every inch, looking for any tiny glyphs that may have been scratched in somewhere. In less than 10 minutes, we were all seated again, stumped.
+
+"Only thing we haven't checked is the orb," the blonde boy said. Eleven pairs of eyes looked up at the glowing ball floating above us.
+
+As far as I could tell it was just a standard, intangible light composed of shaped arcana. I tentatively stretched out a hand towards it, forming the universal control glyphs in my head that would allow anyone to access such household implements. As I threaded my auric arcana through them and extended it towards the orb, it responded and floated down to rest in the centre of the circle.
+
+We took turns with the orb, passing the controls over as each one examined it. None of us had managed to find anything by the time it had come back to me. "Maybe I should dispel it? I could always just reform it later."
+
+Nobody said anything, so I went ahead and snuffed it out.
+
+Instead of being shrouded in darkness, the whole room was suddenly bathed in the light of a dozen other orbs hanging at regular intervals along the walls. One of the other students in the circle suddenly looked twenty years older and her ordinary clothes had been replaced with black robes trimmed with glyphs, though less ceremonial in appearance than Reeves' outfit last night. She shook her head at us reprovingly. A few people yelped in surprise.
+
+"Well, that was terrible. You're not being modest, are you? Nobody spotted anything wrong with the original light?"
+
+There was a general murmur of embarrassment. A few people shot a glance at me and smirked. My insides shrank a little. This 'Top Scorer' business was getting a bit out of hand. Damn that Emilia for bringing it up.
+
+The woman sighed. "Well, I am Alina Celwyn, and I'll be taking you for Advanced Glyphs. I'm an artificer by vocation, but for the past few years I've been working under the Prime Sage. He's probably already given you all the talk about the Chosen One, so it might interest you to know that a large part of that work involved me and the rest of my colleagues taking the other groups."
+
+"Well, let's do a quick round of introductions so we all know each other," she said brightly.
+
+The atmosphere felt a lot lighter than Reeves' class. Maybe it was because we were in a smaller group and it felt more intimate, or maybe it was because Celwyn smiled a lot more and didn't make her auric arcana cast a pall of doom and power over us. Once we had learned each others names, Celwyn brought us back to the topic of glyphs.
+
+"So, let's talk about what just happened when you all first came in."
+
+She leaned forward and gestured at the empty space in our circle, except it was no longer empty. Jaws dropped as our attention was drawn to the intricate set of glyphs that covered every inch of the floor, walls, and the ceiling. They were drawn in some sort of silvery substance and were razor-thin, so fine that they were almost invisible even against the black marble of the floor, and almost impossible to see on the lighter-coloured walls.
+
+"Where did... how...?" The blonde boy, Reyes, spluttered.
+
+"Yes, how?" Celwyn repeated, arching an eyebrow. She gestured again and a sequence of glyphs in the floor behind her glowed, and ghostly images of them floated and fixed themselves in front of all of us, rotating slowly. "Read this and figure out as much as you can. I'll give you all two minutes."
+
+I used the ambient arcana to make a copy of the glyphs and brought it in front of me so I didn't have to look at the rotating version. A moment later, a few others did the same and I was surprised to see that not everyone could do it. Those who couldn't had to settle for transcribing it using pen and paper.
+
+There were the glyphs for the original orb of light. Ordinary folks with no training would have the sequence inscribed somewhere and they could just focus on channelling their auric arcana through it, and the glyph sequence would then draw in enough auric or ambient arcana to conjure the orb. However, it was simple enough that most arcanists could form the orb without even having the glyphs written down - you just needed a good memory and a reasonable level of clarity in your visualisation. If you knew enough about the glyphs, you could even substitute some of them to create your own variation. As far as I could tell, this was a standard sequence with no modifications.
+
+But the sequence Celwyn had put in front of us had more than just the orb of light. There were glyphs that connected the orb to other sequences - links that somehow worked as conjunctions to even bigger and more complex sequences that were not included in this excerpt. I couldn't even tell what some of the glyphs did since I had never encountered them anywhere, but the bits I could read were being used in ways I didn't even know were possible.
+
+"That's two minutes," Celwyn said, clapping her hands together. "Anyone?"
+
+"The orb's light... hides everything. I think some of the glyphs are keyed to detecting the arcana of the original light orb, and there's something about hiding stuff if it picks up the orb's light. So wait, no, that means, to be more accurate, everything else hides itself in the light of the orb," I said, a little faint with wonder. I didn't even know you could turn things invisible, let alone selectively invisible.
+
+A few were nodding along, having reached the same conclusions. Someone gave a low whistle.
+
+"How long did it take?" Emilia's voice carried no awe and she didn't look impressed at all.
+
+"The theory took years of development. The time it actually took to physically inscribe the sequences was about two days." Celwyn smiled at Emilia. "You've pointed out the drawback of working with physical glyphs. My colleagues and I built these rooms long ago to better conduct our Advanced Glyphs classes. The rooms have many functions that we will study over the course of this year, and you will learn to decode parts of it and understand the underlying principles. Your seniors sometimes use these rooms to safely carry out experiments, and when you've managed to master the use of some of these glyphs, you will be able to do the same."
+
+She gestured again and the glyph sequence vanished, to be replaced by the basic set of glyphs.
+
+"These are basic glyphs that are pretty well-established by now, and even people beyond the Empire use these. You've probably memorised their form and function, but for Advanced Glyphs we're going to introduce even more sets."
+
+With another gesture from Celwyn, the basic glyphs shrank and floated upwards. Hundreds of new glyphs appeared, arranged into sets of their own.
+
+"Lots of memory work ahead of you. I expect everyone to be functionally fluent within three months, and you should have perfect recall after half a year. If you can't memorise all of them you won't progress very far, not just in my class but in the rest of the Academy. So this is the on-going homework that runs alongside whatever else I dish out in class."
+
+"But this is Advanced Glyphs, so we're not just going to memorise. You need to understand the theory behind glyphs in the first place, which is where we'll start today."
+
+I was already furiously scribbling in my notebook. There was no convenient desk attached to our chairs, so I had to balance my notebook on my knee. Those who were likewise taking things down were all in similarly awkward positions.
+
+A surge of ambient arcana surprised all of us and suddenly there were little flat planes of wood floating in front of each of us.
+
+"Here's a surface for note-taking. The room has glyphs that will shape ambient arcana into any classroom implement we'll need and stabilise the form long enough for our use. You can manipulate the constructs using the usual universal control glyphs, and once you learn more, you can exert finer control. I'll give you all a list of what we can do in this room at the end of the day."
+
+We spent a minute or so playing around with the floating planes of wood. I realised that it could even bear weight while in mid-air if I locked its position.
+
+"So, what are glyphs?" Celwyn looked around, smiling indulgently as some of us fidgeted with the desks.
+
+"They're the alphabet, the language of arcana," a red-haired girl named Triss volunteered. (I couldn't wait to tell my sister that her name wasn't that special after all.)
+
+"Right, so who came up with it?"
+
+"No one?" Reyes looked confused by the question. "It's just the language of arcana itself. That's what we're taught."
+
+"That's what laypeople are taught," Celwyn amended. "Now, as arcanists, you need to go beyond the surface answer. We call it the language of arcana when we teach at the lower levels, but a language is a construct, isn't it? Why does dog mean that four-legged animal? Other languages have different words for it, but they all refer to the same thing. Our culture decides that we will use this series of sounds to refer to that animal and that these marks on the paper represent that series of sounds. And other languages use different sounds, different marks on a paper."
+
+I had never actually thought about it that way. So if glyphs are a language, then...
+
+"So are there other... glyph languages?" I asked.
+
+"No," Celwyn turned to me and nodded approvingly. "But that's a question in the right direction. There are no other glyph languages other than the one we use, but we call it a language anyway. We're not lying when we teach that at the layperson level. It's still correct. So why do we call it a language?"
+
+"It's made up," Emilia said softly.
+
+Her answer was met with confused looks, but Celwyn nodded and gestured for Emilia to continue. The girl looked back blankly for a moment, but took in a deep breath. "The glyphs mean what we want them to mean. We make up the meaning."
+
+There was even more confusion at this pronouncement, but I could see where this was leading, or at least I thought I did.
+
+"But there are rules?" Reyes demanded. "We can't just draw something and say this is a new glyph, can we?"
+
+"Languages have rules, yes, because it needs to make sense somehow. But we decide what that sense is," Celwyn answered. "So actually... you can just draw something and say it is a new glyph. And if it's a glyph that nobody has drawn before, you get to decide what meaning it has."
+
+Silence. Absolute, pin-drop silence.
+
+Reyes shook his head. "I don't get it. So I can imagine a glyph that means ultimate power and then inscribe it on myself and I become some kind of god?"
+
+A few people laughed but quickly quietened when they realised that some of us had serious looks on our faces. Celwyn herself was not laughing.
+
+"Since I appear to have given you the keys to ultimate power, Reyes, I hope you will be appropriately thankful and that you won't erase me when you remake the world according to your wishes," she said without a trace of humour.
+
+More silence. I quickly revised my estimation of Celwyn and decided that she was just as terrifying as Reeves and that this class was probably scarier than his.
+
+"As far as we know, Reyes' suggestion, even though he meant it to sound ridiculous, is not outside the realm of possibility. Rest assured, many people are looking into exactly how to do that. But we'd be venturing far into theoretical glyph-work which is more the realm of those who intend to take up the Sage vocation. I'll be teaching you the principles behind glyphs that could lead you there one day, but our classes will be of a more practical bent that you will find immediately useful in other courses like your Basic of Artificing, or your Offensive and Defensive Thaumaturgy."
+
+I took a deep breath and sighed. This was just the second lesson, and I could already feel my understanding of the world unravelling around me.

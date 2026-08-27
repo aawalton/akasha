@@ -1,0 +1,257 @@
+---
+id: e024077c-fa36-5d1c-93f5-f15d45a49711
+page-type-slug: story-chapter-royal-road
+title: "v7c61: Yellow Tide"
+slug: 0314-v7c61-yellow-tide
+partOf: beware-of-chicken
+position: 314
+ownLength: 2882
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3451757/v7c61-yellow-tide"
+royalRoadId: "3451757"
+---
+
+It was during the Solstice that things changed, that much Paobu knew.
+
+It was the longest night, and the air was filled with noise. Blaze Bears from all over, those who could make it, were Home. Home, in what humans called the Ash Forest. Paws slammed into hollow tree trunks, letting out a raucous beat. Enormous bonfires burned, fueled by their Qi. Blaze Bears stood on their hind legs and bounced up and down in a slow, shuffling dance; one arm up in the air and forward, the other behind and pointed to the ground. They shimmied and shook, and their arms moved like a growing flame.
+
+Some of his kin, however, said it looked more like a growing tree than a growing fire. Trees were important, they argued. Every Blaze Bear knew that living in an ashen desolate waste was no good. You needed trees to scratch your back against, fallen trees to sleep under, trees for food to eat, so they could have meat, and trees for bears to eat from. Everyone liked eating nuts.
+
+Paobu thought this did have some logic… but they only danced on the darkest night, so fire was obviously more right.
+
+Meat and berries and seeds were thrown into the flames, charring to ash as a sacrifice to Home—and to the great fire that all the old ones and strange ones said had birthed them; they had come out of the flames, and made Home from the Ashes.
+
+The Darkest Night was always a good time for Paobu. With so many of them gathered, no scary humans—or scary chickens—would dare come into the forest. With their numbers, Paobu could relax, sit back, eat some tasty honey, and generally have a good time. He shared it around, and nobody called him Cowardly Paobu when he did, because he was the only one who always remembered to stockpile tasty treats.
+
+Though he did wish it was the old honey. For a long time there, the honey in Home and the surrounding area was the most delicious in the world—but that changed only a few years ago. Honey now was hard to find, and wasn’t as good.
+
+The others said the big bees made up for it by having tastier larvae, but honey was honey, and it had no match.
+
+This Solstice was a really good one, because Paobu hadn’t seen hide nor hair of any of the monsters that lurked beyond the forest all year.
+
+He finished his honey and joined the dance as the night deepened. He ignited his back and arms, and they swayed, a blazing pyre so the sun could see them and come out of hiding.
+
+It was then, when he started hearing the beat.
+
+Dan, dan, da-dan.
+
+At first, he just thought the ones pounding on the hollow logs had struck a good beat. It felt… good. It felt right, to hear the sound of thunder. Everyone started dancing harder, the growing forest guiding their movements.
+
+He paused, when he realised what he was thinking. It was the blazing, growing fire, not the growing forest.
+
+That was when the first shockwave hit. The surge of Qi came on like a thousand rolling Wreckerballs, rumbling and shaking and bouncing and… and that was when everyone who was dancing saw it. The world shifted and became dreamlike.
+
+Bigger than the big shell of the Wreckerballs that the humans had taken. Her claws were bigger than the claws that the Reaper Wolves fought over. When she stood, she was bigger than the trees that they had planted.
+
+A titanic bear.
+
+He knew instantly when he saw her, that she was his mother. She was their mother. The Great Mother.
+
+She was a missing piece that he did not know he needed. He saw her, dancing the same dance they danced. He watched as other bears, her children, danced and laughed and bounded around the big stone pillar.
+
+She turned her head and she looked at him, and he could see the warmth in her eyes.
+
+The stone pillar they were dancing around cracked and exploded. The great forest burned. Her cubs burned.
+
+She burned.
+
+She tried to save them. She tried to stop what was happening. She roared as she fought the blaze, the fire that threatened to consume everything. The ground heaved as fire from the earth tried to crawl up to join the fire that was burning in the sky. They could see the path of burning earth, where it would travel—to the southwest, and pour into the great canyon that connected with the sea.
+
+But she did not let it.
+
+She fought the fire, until it stopped. The Great Mother, against the blazing, unstoppable star, won.
+
+There were no more flames. There was only silence. Silence, and charred bones. The last drops of her blood hit the hissing soil. She wished… she wished for her cubs. She wished for them to live.
+
+Her blood spilled to the ground. Her bones turned to dust.
+
+And from the great drops of blood, mixed with ash, came bears. Not green and brown, but red and grey.
+
+The vision ended as suddenly as it arrived, and all the dancers collapsed, stunned by what they had seen.
+
+====================
+
+There were a great many discussions—and a great many fights over the next few days about what they had envisioned, but every bear knew what they had seen.
+
+They knew that they lived in the once-home of the Great Mother, whose blood had made them. They knew now why they felt that Home was so sacred.
+
+Because it was.
+
+And yet… that revelation didn’t really change anything. Not truly, at least not for Paobu. Some part of him felt better, knowing what he knew now… but in the end, great revelations did not fill stomachs.
+
+Life continued as it was, for a while.
+
+===================================
+
+As the months passed, the Qi in the forest started to get stronger. It was strange, but not unwelcome. There was even a spring of gold liquid that bubbled up in the center of Home’s glade that radiated Qi.
+
+Some of the old ones, their fur completely grey, said it was a blessing from the Great Mother. That this would let them grow strong. It was a manifestation of her blood, they said, and so it was to be protected.
+
+There was much talk, as some of his kin said that the Great Mother had finally found them worthy of her affections.
+
+Which was stupid. Who had seen the vision of the Great Mother would think that they hadn’t been loved before? Of course she loved them. No, it was something else.
+
+…but Paobu had little desire to learn about what exactly that was. Someone braver, someone stronger, would find the truth, and he would listen to that grand tale with some honey.
+
+Yes, that sounded good.
+
+===========================
+
+Three months in, when the snow was starting to melt, was when the rumours started.
+
+Paobu remembered the first one. A bear, worried that his friend was not back yet. None thought much of it. That happened. Blaze Bears wandered as they pleased.
+
+That argument did not convince Shihao, who went to find his friend. Shihao did not return, but everyone assumed that he had found his friend, because why else would he have gone?
+
+========================
+
+The rumours came sparingly. Strange disappearances with no traces. But still, it must have been nothing; what could have taken them? None had seen any humans, and there were no bodies to be found. There were some burn marks… but that didn’t mean anything. Who didn’t light a nice fire before cooking something?
+
+But then, there was a female, distraught with her cubs. Her mate had suddenly gone. He said he was going out to gather larvae for them.
+
+This roused the old ones, who called for action. The brave Blaze Bears of the forest would venture forth to find this strange evil, and slay it.
+
+Paobu joined. He was getting quite sick of the insinuations that he was a coward. He was not! He just knew his own limits, and the beasts past the forest’s edge were beyond him!
+
+This… this would be a good, easy way to get his reputation back. And perhaps impress Fa Guang. She was quite fetching, and she enjoyed the honey she brought, but he had to prove himself as a worthy male as well!
+
+So three Blaze Bears marched into the woods.
+
+They searched for days in their group, roaming all over the forest—but at first, they found nothing.
+
+It was only when You Ge, hungry after another futile day of searching, ripped open a big bee nest that things changed.
+
+He yelped. Yelped in pain.
+
+The big bees were big, and they sometimes had little bits of Qi in them, but they were still just big bees—though big bees without honey.
+
+Worthless things, in Paobu’s estimation, but the others liked the larvae, so who was he to judge.
+
+But these big bees, they were hurting You Ge. They were stabbing him with their stingers, and biting him with their little teeth. You Ge erupted into flames, but instead of instantly slaying the big bees, they kept fighting. Their wings burned. Their bodies popped and sizzled. But even as they died, they stabbed and stabbed and stabbed—and it was only when the rest of them joined in, and added their flames to You Ge’s, that the big bees really started to die.
+
+At first, it was funny.
+
+‘Nearly beaten by food!’ Pihuo chortled, and Paobu joined in on the chuckling.
+
+You Ge snarled at the mocking. He was very, very upset that he had been so stabbed by big bee stingers. He earned the name “thin hide” from the others.
+
+And so their search continued. But You Ge got weaker as they travelled. Paobu was the one who noticed first. You Ge’s breathing got laboured, and big welts swelled across his body.
+
+Then he stumbled, his breathing raspy.
+
+Things swiftly stopped being funny after that. Especially when the drone of big bee wings filled the air. Another batch of them shot from the forest, their eyes locked onto You Ge, and their stingers aimed.
+
+Paobu was the one who stepped in front of them and shot a gout of fire that sent most spiralling to the ground. But the ones who did not die instantly flew on, and even on fire, they pounced onto You Ge and started stinging him again.
+
+They bathed You Ge in fire, and killed the rest—when they heard even more wings.
+
+‘We need to run,’ Paobu said.
+
+‘They are just bees, Cowardly Paobu!’ Pihuo snarled. ‘We’ll just burn them, as many as they come!’
+
+‘Look at You Ge. He will die if we do not run,’ Paobu replied. Pihuo growled again, but his eyes flicked to You Ge, who was starting to cough and hack. His eyes were unfocused. ‘I will carry him. Your fires are the biggest and the strongest, and so you can surely cook all this food. If I am wrong, then we can all laugh at Cowardly Paobu, who even runs from bees.’
+
+‘Fine!’ Pihuo finally agreed.
+
+Paobu grabbed the other bear, who was quite heavy, and slung him onto his back. He was quite glad he was a Spirit Beast. He would not have been able to carry You Ge far if he was not.
+
+And so, Paobu ran. Behind him, he heard the crackle of flame and the buzzing of wings—the buzzing of wings that just kept coming. Pihuo roared and sent gouts of fire every time a new wing advanced—but the great blazes got smaller and smaller as they ran, until Pihuo himself started yelping and snarling as single big bees got through to bite and sting  him.
+
+Some of them landed on You Ge, which Paobu had to burn off regularly, and one even bit Paobu!
+
+It was a lance of fire, crawling up his leg. It actually hurt.
+
+The big bees had never hurt before!
+
+So they kept running. Running, until they heard no more wings or droning behind them.
+
+============================
+
+They took You Ge to the old ones, who knew how to heal—and it was a very close thing. One of the old ones had to press on You Ge’s chest like he was trying to break through ice to catch a fish, and another had to give him chewed up herbs—but even then, You Ge did not wake up that day.
+
+The others were stunned, and then, when they heard what had happened, they started to laugh.
+
+“It's just Cowardly Paobu, jumping at shadows!’ they said, their tones dismissive. ‘Running from food!’
+
+Pihuo was angered by this and stood on his hind legs. His mane ignited, and so did his arms as he roared.
+
+‘Is this Pihuo a coward?!’ he demanded. His body was covered in welts, and one eye was swollen shut. All eyes turned to the forest floor. Pihuo huffed, but stayed standing. ‘These are no big bees. These are demon bees. Foul things that must be destroyed!’
+
+Paobu agreed. They were demon bees.
+
+‘Mmm. This is true. A great blaze must go forth, to burn these beasts out,’ one of the old ones proclaimed. Paobu nodded. Good! Someone else could go forth, and he would hear all about it later. That was entirely too much excitement for one year—‘Pihao and Paobu! You shall lead our fires to the nests of these beasts!’
+
+Paobu went pale under his fur.
+
+‘They’ll all burn. I swear on out Great Mother!’ Pihao growled.
+
+‘Ah, well…’ Paobu started.
+
+‘You’ll kill all of them, won’t you Brave Paobu?’ pretty Fa Guang asked.
+
+‘Of course!’ Paobu replied.
+
+=======================
+
+The next time, they went with twelve. This time of year, Home was relatively empty. Most went forth to forage other grounds, and give Home time to recover.
+
+They gathered in force and marched forth. It started out well. They punched into the demon bees’ territory, and burned every nest and every bee. It was so simple. They feasted on fried larvae and laughed as they drove the enemy before them.
+
+It was going so well that their compact ball of fire started to spread out.
+
+They fought and fought and fought… and then it started to get dark.
+
+But the buzzing just continued.
+
+They came in a stream. Constantly. They did not stop. Just demon bees. And more demon bees. And more demon bees until they started to get tired, and the flames started to weaken.
+
+And then bears started to get stung. One sting, two sting, three sting. Throughout the day, throughout the night, the vicious, relentless creatures just kept coming, in numbers unending.
+
+Until the little stings started to add up.
+
+They stopped finding nests too. Everything in their path was abandoned, ripped out of the trees they made their nests in.
+
+And still, the droning buzz came.
+
+They pushed forward as hard as they could, and the numbers surged.
+
+They had to retreat.
+
+=======================
+
+From fighting and burning all the demon bees, it turned to containing them. They found the edges where the demon bees lived, and stayed away from them—at least until they could get more bears back and burn out the infestation once and for all.
+
+And for a time, it worked. If one stayed out of that part of Home… then nothing would happen.
+
+Until one day, when spring turned to summer… that all changed.
+
+The demon bees, content with their borders, suddenly erupted forwards—they surged north, and directly into the heart of Blaze Bear territory.
+
+=========================
+
+They fought of course. All of them did. More and more bears joined them.
+
+They filled the air with fire, and shredded thousands with their claws. But soon the stream became a flood.
+
+They sent all the cubs away. They sent all who could run away. But Paobu found himself still fighting, still roasting the demon bees by the hundreds, by the thousands.
+
+The flood became an ocean.
+
+The sky turned black, and all their ears were filled with the sound of droning wings.Their fires disappeared into the seething mass. The sky was more Demon Bee than air.
+
+The old ones called upon the protections of the ancestors; they called upon the old ways, and a titanic pyre filled the air, burning, burning, burning… but like with the Great Mother, the fire eventually lost.
+
+A massive gust of air quenched the great fires—and Paobu saw it.
+
+It was big. Bigger than a Blaze Bear. It was held aloft by six buzzing wings. Its abdomen was grotesquely distended. The little arms a bug was supposed to have were not little—instead looking like parodies of Blaze Bear paws. They were enormous, with grasping claws, and it grabbed one of the old ones and ripped out his throat with her bug teeth.
+
+It threw him aside… and then walked up to the golden pool of the Great Mother’s blood.
+
+Paobu only saw it bend down to drink before he ran.
+
+===========================
+
+He ran and he ran and he ran, chased all the way by the maddening, buzzing noise. He ran, like the coward he was.
+
+He ran, until the buzzing stopped and he found himself at a fence, a rooster sitting atop it.

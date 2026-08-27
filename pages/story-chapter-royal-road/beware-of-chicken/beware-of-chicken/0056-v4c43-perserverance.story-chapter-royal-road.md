@@ -1,0 +1,307 @@
+---
+id: b34c7040-d91e-55f1-ba1e-b251272f8de2
+page-type-slug: story-chapter-royal-road
+title: "v4c43: Perserverance"
+slug: 0056-v4c43-perserverance
+partOf: beware-of-chicken
+position: 56
+ownLength: 3723
+unit: words
+ownProgress: 3723
+publishedAt: 2023-09-23
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1351817/v4c43-perserverance"
+royalRoadId: "1351817"
+markedReadAt: "2026-06-29T18:53:18.218Z"
+---
+
+Shao Heng of the Shrouded Mountain Sect faded in and out of consciousness. He remembered the moment the Wolf had ripped into his leg, tearing it from him in his nightmares. He could feel it attached to him in his moments of awareness. He should be dead, broken into pieces. But he lived.
+
+Shao Heng drifted, comfortable. The beast was dead. He lived.
+
+He did feel a bit empty. Like there was a void in his chest, where there should be fire. But with his recent battle, his Qi was most surely depleted.
+
+Sleep claimed him once more, his eyes closed and he drifted, happy he was still alive.
+
+===============================
+
+Shao Heng came from a long line of cultivators.
+
+They were not anything special. They were not some grand clan. The most notable of their line had entered the Spiritual Realm.
+
+They lived in a compound within a little walled town, in the territory of the Shrouded Mountain Sect. Shao Heng spent his days training, and ranging across the mountains. It was a simple life he had as a boy. Or as simple as the life of a cultivator could get. He spent most of the time with various cousins, sparring.
+
+“The only goal a cultivator should have is to challenge the heavens,” his father would say often. Heng always found those words boring. Uninspiring. There had to be more to life.
+
+One day, it happened. The attack. The event that changed Heng’s life. The details were hazy to him. He couldn’t remember exactly what had happened afterwards. But he remembered the pale face of his father as he staggered back into town bleeding, shouting for somebody to send a transmission to the Shrouded Mountain Sect.
+
+And then, he remembered the walls crumbling. A Spirit Beast assaulted the town, roaring its fury. It shattered the walls, blowing through nearly an arm’s length of stone and iron like Heng remembered charging through the walls of a snow fort.
+
+He remembered the screams and the terror. But most of all, he remembered the bolt of lightning. It crashed to earth in front of the villagers. A cultivator had arrived. Heng remembered the man drawing steel, a confident smile on his face, as more lightning bolts smashed into the ground around them. Another man and a woman, more cultivators.
+
+And just like that, they were safe. The cultivators moved so fast they disappeared, and slew the dread creature.
+
+Heng remembered watching the party, as they celebrated the death of the creature. He remembered seeing the first man, the first cultivator to arrive, with a pretty village girl on his knee. He remembered his smile, the firelight reflecting off his handsome face.
+
+He remembered the look in people’s eyes as they stared at Shrouded Mountain Cultivator. The awe. The same awe Shao Heng felt.
+
+“Master Cultivator! How does one get as strong as you?” somebody asked him.
+
+“Perseverance! The true essence of cultivation is never giving up!”came the boisterous reply. He remembered the man catching his eye and winking.
+
+That, Shao Heng knew in his heart, was a hero. It was so much better than the boring preaching about challenging the heavens. He wanted to be that man.
+
+He later learned that the man was an outrider from the Shrouded Mountain Sect. The mortal chief talked about how lucky they were that they lived in their territory.
+
+And so Heng found his purpose.
+
+========================
+
+When he next awoke it was to a gentle brush of fingers on his wrist, the healer obviously checking his pulse. But it felt… off. Not as acute as it should have been. He should have been able to feel even the individual ridges on the Spiritual Doctor’s fingerprints.
+
+But he couldn’t. It was disconcerting. And even more disconcerting was when warm broth was coaxed down his throat. It tasted like chicken soup, but this too was different in a way. In some ways it was the best soup he had ever had. But in others, there was an essence in it he could barely feel that he should have been able to.
+
+He reached for his depleted Qi, but the world faded before he could feel anything.
+
+===========================
+
+Heng staggered through the mountain storm. The Shrouded Mountain only accepted the best of cultivators, so he had to get stronger!
+
+There were rumors that these mountains grew Frost Bells in the depths of their caves. One hadn't been seen for years, but if he could find one, it would most certainly help with his cultivation!
+
+So Shao Heng went looking. He scoured the mountains. He braved every danger he could. His father was happy Heng was suddenly so dedicated, but to hells with that. He was going to be a hero.
+
+And when he found it—a softly glowing plant in a cave—he was elated. A Frost Bell. With this.. With this, he truly would be able to be a hero like his hero.
+
+Shao Heng sat beside the plant. He did what the scrolls told him he should do. He meditated, in the Qi filled place, holding the Frost Bell in his hands.
+
+It did not want to be refined, this plant. It’s Qi surged and strained his meridians. It felt like he was freezing over. Three days passed, as he meditated. But the true power of a cultivator was never giving up, as his hero had said. Shao Heng didn’t quit!
+
+It took him two more days. But when he stepped out of the cave, he was at the Third Stage of the Initiate’s Realm.
+
+He jumped up and roared with victory. He had done it! He smiled down at the flower, intending to press it, or keep it somehow, but what greeted his eyes was a withered husk.
+
+When he tried to touch the plant, it disintegrated into nothing.
+
+He shrugged and walked out of the cave. He had a spring in his step. He was going to be a hero! An Outrider of the Shrouded Mountain Sect!
+
+His father was pleased at his advancement. His mother was as well… until they were alone. She screamed at him for an hour straight about telling people where he was going, and hit him over the head with her beautiful silver hand, but not even her howling could dampen his spirits.
+
+=======================
+
+The third time he awoke, he noticed the noise. Or rather, the lack of it. Everything he could hear felt muddled and indistinct. He had prided himself on his hearing— the best in the Outriders. Nothing had been able to sneak up on him in nearly twenty years, even Spirit Beasts a full realm above him.
+
+Two people whispering beside his bed should have been heard as if they were shouting. But instead, he couldn’t make out a word.
+
+He reached for his Qi, as much as he could, but nothing answered him. He still must have been exhausted from his battle, but normally he could feel something.
+
+He began to feel a bit concerned as the darkness came again.
+
+============================
+
+He poured his all into his cultivation. He fought and trained until he shit blood.
+
+And then one day his father called him and his cousins up, to stand before their little clan.
+
+“What is your reason for cultivation?” he asked them all, Shao Heng at the front and center.
+
+“To be a Shrouded Mountain Sect Outrider, and protect the villages!” Shao Heng’s voice cut through the chorus of “Challenge the heavens” from the rest of his family.
+
+His father was aghast. The rest of the clan laughed.
+
+“That is fine, my son, but your first goal should be to challenge the heavens. Everything else is secondary.”
+
+Shao Heng thought that was stupid, and said it to his father’s face.
+
+It wasn’t very smart of him.
+
+The next years sucked. His father didn’t pull his punches at all, and the lectures got worse.
+
+Every time his father asked, he belted out the same answer.
+
+Shao Heng didn’t quit. It made him stronger, until his father was the one who gave up.
+
+Four years of shit later, he felt strong enough to approach the Shrouded Mountain Sect.
+
+He still remembered vividly that first day. The wealth. The power that the Mountain, the heroes, seemed to radiate.
+
+The initiation was grueling, but Shao Heng never faltered. He made it through. He tasted the flesh of Spirit Beasts and drank wine that his town could never afford. He passed the test to join the Outriders with flying colours. And though Jian Li Wei, the Master of the Outriders, seemed like kind of a dick, it didn’t matter. He was here.
+
+And his good fortune continued. For the leader of his small squad was the man who had saved his town. His hero.
+
+It was great! They learned how to do things the Shrouded Mountain Sect way, and fought a couple of weak Spirit Beasts. But one night, while out on patrol, his hero asked him a question.
+
+“So, what is your goal in life, Junior?”
+
+Shao Heng gave his answer.
+
+The man chuckled. “A good goal.”
+
+Shao Heng asked his hero what his was. “To challenge the heavens, of course!” was the reply.
+
+Shao Heng paused. If his hero said it… then that was probably a good goal.
+
+====================================
+
+And thus began his service of being an outrider. He traveled the length and breath of the Howling Fang Mountains. He grew in strength, becoming more than some mere man—becoming instead a true cultivator.
+
+There were good times. He fought Spirit Beasts. He saved people, and saw them look at him like he had looked like his hero. The promotion he got, second in command of the squadron. The fine beard he grew.
+
+There were bad times. The day he heard news of his hero dying in battle against a Tyrant Frost Wyrm. The day he learned of his mother’s death… and realising he hadn’t seen her for over twenty years. The day he traded pointers with a younger disciple and lost so badly he was in the Medical Pavilion for a week. The constant vigilance he had to have when one of his subordinates wanted his place on the Outrider Squadron.
+
+Yet still, Heng enjoyed it, even as the luster wore off. Even as he saw death and destruction, and learned the brutal politicking of the Sect.
+
+He enjoyed it, save for one thing. He had stagnated. Stagnated at the Second Stage of the Profound Realm. For ten years he had been stuck there. It felt like a weakness, and strength was above all.
+
+A cultivator’s main goal should always be to challenge the heavens.
+
+That was one thing everybody knew. So Heng… slacked off a little in his duties sometimes. He needed something. Something to push him past where he was. Every spare second was spent cultivating and looking for resources. When he got to the next stage, he would start being as vigilant as he had been.
+
+Shao Heng didn’t quit. They needed him to live longer, so he could keep protecting them, right?
+
+===============================
+
+Four years later, his squadron got called in. A King Frost Wolf was close to the Sect and in his squad’s sector. Rampaging. Slaughtering. How had it been missed?
+
+Shao Heng knew how it had been missed, but he didn’t say anything.
+
+So they traveled into battle against the mighty beast. They fought through a storm of icicles as thick as a man’s torso. They fought through the Spirit Beast’s murderous, tyrannical intent. Their leader screamed for them to retreat, the foe was beyond them.
+
+But Shao Heng didn’t quit. His guts were hanging out down to his knees. If this thing lived, it might destroy another town.
+
+He struck the beast with all his might. It took his leg in retaliation. And as it thrashed and spasmed, its life leaking to the snow, it screamed. Long, loud, and hateful, spearing deep into his very soul.
+
+And then Shao Heng knew no more.
+
+===============================
+
+After what felt like an eternity, Shao Heng finally managed to open his eyes. The ceiling above him was a soft white colour, but it looked strange for some reason. He absently noted the smell of lavender emanating from somewhere.
+
+He smiled, happy that he was alive, but he also felt… Worried still. He tried to raise his left leg. It obeyed him, and he saw the sheets rise on his foot, but… it was difficult for some reason. He could feel the weight of the blanket on top of him. It was rather thin, but he could still feel it had a bit of heft to it. It required actual effort to move.
+
+Which was very strange.
+
+The feeling didn’t go away. His leg dropped down and he returned to staring at the ceiling. The strange looking ceiling. He frowned at it, wondering what was wrong.
+
+Then he realised he couldn’t see the wood grain properly. The colours were less vibrant. The lavender beside him didn't smell as strongly as it was supposed to, and he could hear something muffled beyond his door. He reached for his Qi, to bring the world back into proper focus. It was probably depleted from his battle, but a little to return the world to order would go a long way to make him feel better.
+
+But there was no Qi. He could not feel the roaring fire in his gut that he had fed and tended to for forty years. The source of his power. The reason he was alive.
+
+He closed his eyes tight and reached for it again as deep as he could. It felt like he was trying to squeeze water from a stone.
+
+There was nothing.
+
+There was no fire. There was instead what felt like a puddle of water, stagnant instead of coursing through his meridians.
+
+He was no longer a cultivator.
+
+Shao Heng was having trouble breathing and he felt lightheaded.
+
+Panic welled in his throat. He felt his breath start to come in pants.
+
+No cultivation. No cultivation. Nocultivationnocultivationnocultivation.
+
+He let out a little moan as the darkness came again, encroaching on his vision. It was a bad dream. It had to be a dream. He would wake up and he would be fine. He had to be.
+
+Terror crept into his mind as the darkness returned. A great monster made of shadows smashed through the walls of a village, its malevolent eyes staring right at him.
+
+He felt like he was drowning. And then two fingers touched his arm and soothing Qi flowed into his body.
+
+“Shao Heng, listen to Ri Zu’s voice,” a calm, even command cut through his panic.
+
+He reached out for the voice, realising belatedly that he was trying to grab onto a Spiritual Doctor and expected to be shoved irritatedly away.
+
+Instead, another small hand rested itself on his.
+
+“Calm. Calm. You are in no danger. The worst of things have passed,” she spoke.
+
+Shao Heng couldn’t believe her when she spoke. How could the worst be past when he was a cripple?
+
+===================================
+
+Shamefully, it took Shao Heng three minutes to master himself, but he still felt numb.
+
+“Forgive me, Doctor, for that unseemly display,” he said, bowing politely to the small, freckled woman with dark, soulful eyes. Aside from the unfortunate speckles across her nose, she was a true beauty—petite and slim, but with an air of grace and serenity that couldn’t be faked.
+
+“You have nothing to apologise for,” she replied as she sat beside him. She had a small smile on her face. “Ri Zu is glad you are awake.”
+
+She referred to herself in third person? That was quite cute, he noted, even through the numb feeling. Normally, he would have flirted with such a woman, but… He couldn’t muster any enthusiasm for it now.
+
+“Yet you still must be thanked for tolerating it. Are you the one who reattached my leg?”
+
+“Yes. You came to Ri Zu in bad shape,” Ri Zu said as she rose and began examining his leg. There was a thin scar that went all the way around it, and several on his stomach when she pulled his robe open. “Everything is healing as it should be. The leg was reattached with a tincture of…” The woman went into detail about exactly how damaged he had been, and how everything had been fixed.
+
+Though the way she casually listed off quite expensive reagents used to heal him made his guts churn.
+
+“How magnanimous the Shrouded Mountain Sect is, to operate on a man without cultivation,” he said as he leaned his head back.
+
+“Your cultivation was not destroyed. You were infected with a Beast Curse. Your Qi was running wild and killing you. Ri Zu had to puncture and drain your dantian.”
+
+The words were a hammerblow to his mind. His cultivation hadn't been destroyed by the Spirit Beast, but instead the doctor?!
+
+“Wha-bu-surely, there had to be another way?!” he demanded as he jerked up from where he lay.
+
+“There was. But Ri Zu judged the chance of fatality being too high. Thus, this method was chosen to preserve your life.” Her calm voice grated on his ears. The world started to spin.
+
+Preserve his life?! Shao Heng felt bile flood his throat. His cultivation was his life! He was pushing sixty already! Without it—oh, heavens without it he would die in less than twenty years!
+
+“Preserve my life?! You’ve as good as killed me!” he roared as he grabbed her outer robe. His fist thumped weakly into her chest. The woman made no move to push him off. He tried to pull her. To shake her for what she had done, but he couldn't. She was like a rock, and he was only a mortal. “You had another method to heal me, and you chose this one?!” he roared. Small flecks of spittle hit the woman’s face, yet she remained impassive.
+
+“You would have been dead,” Her voice was calm and matter of fact.
+
+“Better dead than a cripple!” he nearly screamed back
+
+The woman stared at him and raised an eyebrow.
+
+“Oh? A cripple, are you?” she asked, her voice calm. “I suppose you are the same as a mortal who has lost a limb, or been blinded? They do not beg for death, do they?”
+
+Shao Heng reeled from the question. He knew of the crutches mortals used, trying to get on with life and even joking about their maiming. His own mother had lost her hand before Heng was born and had a silver replacement covering for it, but she was a cutlivator. His favourite memory of her was when he had once asked for a hand, only to have the silver appendage thrown at his head—he cut the thought off.
+
+“This is different! My cultivation—” he started before Ri Zu cut him off.
+
+“Can be repaired, unlike most mortals’ severed limbs. Your dantian is intact, and your body and meridians remember being at the Second Stage of the Profound Realm.” Her statement was blunt and matter of fact, and Shao heng felt himself pause at this revelation. She sounded absolutely certain this was the case.
+
+He floundered for a moment. “But it took me forty years to reach that stage!”
+
+“So you have a wealth of experience? You know what not to do now? You know how to properly construct your foundation?” the doctor continued relentlessly. Shao Heng shrunk from her calm, brutally delivered words.
+
+“But… How can I start again from nothing?” he whispered.
+
+“Cultivation can be considered part of a patient’s health. Ri Zu has received special permission from Master Lishu to continue to render aid to you.”
+
+Heng’s head snapped up again. “You… You’re going to help me?”
+
+“Yes. Ri Zu has some ideas about repairing cultivation, especially when it is destroyed in such a controlled manner,” she said calmly as she gently removed Heng’s slack grip from her robe and held it in hers. “It will not be easy. Ri Zu imagines it will be quite hard and quite painful. But Ri Zu knows that it will work… if you have the will to continue. Ri Zu does not mean to underplay what you have lost. It is a loss of time that you may never recover. But there is a chance. A chance you can take to regain what you have lost. But Ri Zu cannot help anyone who is not willing to even try.”
+
+Shao Heng stared at the resolute woman. Her grip was strong, but not painful. She did not look at him with pity or contempt.
+
+He swallowed thickly. He still felt his emotions running wild. And yet… at Ri Zu’s words, he felt a bit of hope stirring in his chest.
+
+His cultivation could be repaired. Maybe repaired quickly. The doctor seemed so certain.
+
+“Then… I will be in your care, Doctor,” he said, grasping at the chance offered to him. After all, if it failed and he died… well, it wouldn’t matter much, would it?
+
+Ri Zu smiled at him. ”We shall begin soon then,” she declared and rose from his bedside. “Ri Zu has to finish preparing the herbs and will be back shortly.
+
+Shao Heng was stunned by her words. Already? She had already been preparing for this? And preparing herbs for him?
+
+He couldn’t understand why she wanted to help him. His mouth opened as she turned to leave.
+
+“What is your goal in life, Ri Zu? Why are you doing… this?” he asked.
+
+The short woman looked slightly confused.
+
+“Ri Zu’s goal? To help you. If you mean in a more general sense, it is Ri Zu’s dream to be a good doctor and help people.” Her voice was earnest.
+
+He paused. “Not to challenge the heavens?”
+
+“If the heavens feel challenged, they may feel challenged. Ri Zu has work to do.” Ri Zu said and turned once more to leave.
+
+Shao Heng stared at the door, still feeling like the world was spinning.
+
+He slowly laid back.
+
+He didn't know what the future held… but he did know one thing.
+
+Perseverance. The true essence of cultivation is never giving up, even against the worst odds. He was shamed for even contemplating it. For falling into despair.
+
+Shao Heng didn’t quit.

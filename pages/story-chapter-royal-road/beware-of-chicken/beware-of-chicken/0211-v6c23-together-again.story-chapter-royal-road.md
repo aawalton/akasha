@@ -1,0 +1,201 @@
+---
+id: 2de65978-d462-5198-9ce1-f6edc73354a6
+page-type-slug: story-chapter-royal-road
+title: "v6c23: Together Again"
+slug: 0211-v6c23-together-again
+partOf: beware-of-chicken
+position: 211
+ownLength: 2525
+unit: words
+ownProgress: 2525
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2266054/v6c23-together-again"
+royalRoadId: "2266054"
+markedReadAt: "2026-06-29T18:58:36.040Z"
+---
+
+Zhang Wei, whose nickname was Loud Boy, had known they were about to be in for a nearly unbelievable tale.
+
+And he was right. The events on the Solstice… if he hadn’t known his friends, and hadn’t seen some of what happened in the memory crystal, it would have sounded like some tale from a scroll.
+
+But it wasn’t unbelievable. It wasn’t some fantasy. He could see the memories flash over his friends’ eyes. He could hear the still-present wounds the battle had inflicted on them in their voices, and the bandages that even Master Jin still wore, even as they told their story without pause.
+
+It took several hours to tell, and for all of them he was on the edge of his seat, along with Rags and Miss Biyu. It went on so long they ended up having dinner in the living room, eating food around the hearth. His fists clenched when they told him how close things came to disaster, and his heart swelled in his chest when his friends gave the Demonic Cultivators the final blow.
+
+He also felt a quiet surge of dark amusement and glee when he learned what had happened to the Shrouded Mountain Sect… only to feel slightly ashamed when Tigu described the aftermath and letting go of her own grudge.
+
+How could they possibly unite the land and tell others to let go of the past when they couldn’t?  Wei would have to meditate on that.
+
+Yet despite the pride in what his friends had been able to do, and despite the relief that they were all safe… something in Wei’s chest felt a bit hollow.
+
+The fact that the Cloudy Sword Sect and Soaring Heaven’s Isle Sect were involved were almost afterthoughts—their role small, and them coming in at the end to finish things off.
+
+Which meant that it was his friends who had struck the decisive blow.
+
+The story had ended on a triumphant note, thank the Heavens. Just injuries, rather than deaths, which was truly one of the more unbelievable things. And he was staring at one of the injuries right now.
+
+“And so all that's left… is the clean up, really,” Xiulan finished.
+
+“Shit, Boss! That's insane!” Wei finally got out when the tale ended.
+
+Xiulan just smiled ruefully and absently ran a finger along the glint of gold that poked up above her collar.
+
+The golden crack in her chest still looked raw and painful—and Wei’s guts clenched when he looked at it. But they had done it. And that was good… so why didn’t he feel as happy as he could?
+
+“It was quite the night.” Bi De, who was a human now, sounded amused.
+
+“All of your cousins have fox tails?” Wei heard Biyu whisper to Yun Ren, her eyes sparkling.
+
+“Well, not all of them…”
+
+Rags, on Wei’s other side, was deep in thought. “What the Hells are we gonna tell everybody?” he finally asked. He looked up at Xiulan, his expression looking a bit anxious.
+
+“The truth,” was her only reply. Rags looked around at the various nods from Master Jin and Bi De. The concern faded from his face, and a small smile formed. “We’ll compile a report and address the other Qi anomalies. The good news is that all of it is repairable… but we will be busy after the New Year.”
+
+At that, all of their shoulders slumped. There had been so much paperwork last year already…
+
+“You got it, Boss,” Rags said with conviction, then got to his feet. “Shit though, that was one Hell of a thing. The Azure Heroes, back at it again!”
+
+“The best there is!” Tigu shouted back, and both of them clapped their hands together.
+
+“Look at our little brother, all grown up and fighting demons!” Wei cheered, ruffling the Torrent Rider’s hair. “And you, kicking the ass of the Shrouded Mountain Sect?! Hell Yeah, Yin!”
+
+The silver-haired woman grinned and waved her hand for him to keep the praise coming. Wei just laughed at her behavior, her eager acceptance of his praise and her radiant joy.
+
+The mood turned festive as Rags started messing around, boasting and bouncing around the room, hyping everybody up. Loud Boy got up too, clapping his friends on the backs and laughing as they all got into talking about the victory and the plans for the New Year… but his heart wasn’t entirely in it. They had won, of course everyone was happy, and yet…
+
+After not even half an hour later he found himself drifting away from the boisterous atmosphere and towards the back of the house. He found himself in front of a large window that looked out onto the river and into the hills beyond.
+
+He leaned on the windowsill and sighed.
+
+His friends had been fighting for their lives, and he had been having a party, drinking and singing with not a care in the world. For the first time in his life he really had people who he could rely on. He had friends who had his back… and when shit had gone down, he hadn’t been there.
+
+It made his guts twist in his stomach.
+
+“What brings you from the joy of your comrades?” a voice cut through Loud Boy’s musing, and he jumped, whipping around—only to see an old man. He was seated off to the side in a rocking chair with Tigu’s little brother on his lap. He looked for all the world like he was simply a grandfather in his dotage, but Wei knew better.
+
+This was Shen Yu. This was Bi De’s Master, the man who had slain an Imperial Realm cultivator.  Wei couldn’t believe how lightly they had considered him last year, just thinking him a harmless old man.
+
+Wei hastily bowed.
+
+“Forgive me for disturbing you, Master Shen Yu.”
+
+The man raised an eyebrow at him and looked at Wei, and he felt himself being considered and judged. The old man’s eyes were… weary, and full of weight. He looked at Wei… and then he seemed to decide something.
+
+“Those are heavy eyes, boy. What troubles your mind?” he asked. There was no command in his voice, only mild curiosity.
+
+Wei took a breath. He probably did need some guidance right now.
+
+“We weren’t here,” he whispered after a moment.
+
+The old man’s eyebrow raised again, and then a small smile graced his features.
+
+“That such a thing bothers you so greatly speaks well of your character, young man,” he said. Wei flushed, and the old man let out a single laugh before he sighed. “It is a feeling I know all too well.”
+
+Wei blinked at the admission, taken aback. He would have assumed that this old monster before him was ever victorious. He just gave that impression, like a blade without flaw. And yet… he said he was familiar with how Wei felt at this very moment.
+
+“I feel like I could have been here. I should have been here…” Instead of having fun, while his friends were fighting for their lives. He never would have known if they had died. They would have just been gone one day. Wei bit his lip. It was kind of rude to ask the old monster this, but Wei wanted to know. “Is there any way to… deal with it?”
+
+The old cultivator blinked at his question, and then considered Wei’s words. He mulled them over, his gaze heavy, and when he spoke it started slowly.
+
+“It will always hurt,” the old cultivator said after a moment. “You will always wish you were there, instead of where you were.” Shen Yu’s eyes seemed to look past Wei. “Wishing you were by your comrades' side so that you may brave the danger with them is noble. The burning anger you feel towards your foes for the injuries they inflicted is justified.”
+
+Those were said with conviction. Like they were the absolute truth… and then he trailed off. His eyes suddenly returned and focused on Wei.
+
+“But to dwell on the guilt… no, that is not the way. Young man, do not blame yourself. Had you known, would you have rushed to be by their side?”
+
+“I would have,” Wei replied.
+
+“Do your comrades blame you for not being here?”
+
+“… no.”
+
+“Then you have your answer. Even if it feels difficult to accept, and it is difficult to accept.  Sometimes, even knowing the truth… you dwell on it.” The last part was said as a whisper. Shen Yu’s eyes focused. “Return to your comrades, young man. Celebrate with them. The victories are easier than the defeats.”
+
+Wei bowed and clasped his hand in his fist. “Thank you for the advice, Great Expert.”
+
+Then he retreated and left Master Shen Yu to his thoughts. His eyes were still heavy. And yet… maybe they were a bit less heavy now.
+
+He returned to his friends, still not feeling entirely well about this. But Tigu wrapped an arm around his neck, and Xianghua started booming with laughter.
+
+And maybe… he did feel a little better.
+
+======================
+
+Biyu was very glad that she had traveled north. Sure, it had been a miserable week, but today? It made it all worth it. The only unfortunate thing was that Uncle Nezan had left with the Shrouded Mountain Sect. Biyu had very much been looking forward to meeting him again.
+
+But the rest of it? It was amazing. There was Fa Ram’s wonderful food. Mister Wa Shi had improved again, and had even started adding flourishes to make the food look nice too. And he was so handsome in his chef hat. Somehow it just worked.
+
+There was the amazing bath—Biyu would have to up her own flower game! She had already had a couple of plants on her windowsill, but the scents and the sights, it was like being in a hidden grotto.
+
+But while those soothed the aches and pains of the road, and watching the rowdy party had been fun… there was, of course, the best part.
+
+And that was after everyone had retired for the night.
+
+“And this was just after we entered the Howling Fang Mountains. The light here was really nice. Some of the best I've seen,” Yun Ren narrated for her. She was curled against his side on a bed in the guest house.  Gou Ren’s house was rather crowded, and they both just wanted some quiet. His fluffy tail was draped over her legs, and her fingers were buried in the delightfully soft fur.
+
+His recordings were displayed on the wall, showing the beautiful shimmering effect, the surface of the waterfall sparkling with all the colours of the rainbow.
+
+Half her attention was on the recording, and half was on his face as he spoke. On the intensity in his eyes, the way he described light angles and framing.
+
+She loved it. She loved the passion in his voice. Even if he hadn’t been using something she had created… it still would have been wonderful.
+
+“The way it's blurred… you were using your idea on “exposure time”, weren’t you?”
+
+Yun Ren smiled at her, bringing up one of the techniques he had been considering for capturing the look of flowing water. It was more than capturing a moment in time, yet less than recording the world in motion—it produced the illusion of movement. “That's exactly it. It works well, doesn’t it?” he asked.
+
+“It does!” she agreed. “If you taught that in Pale Moon Lake City, the Still Image Recording Society would be thrilled!”
+
+Yun raised an eyebrow. “Still Image Recording Society?” he asked, and Biyu blinked… then turned to get out her own Still Image Recording Crystal. While she wasn’t as prolific or nearly as good as Yun, she still strived to capture moments to share with him. After all, they were apart so much.
+
+She pressed a small piece of glowstone against her crystal, the small bits of Qi in the rock channeled through a small formation, letting her project her own image. A workaround by mortals, for mortals… and not one of hers this time. This one had been developed long ago.
+
+The image displayed several distinguished noblemen and noblewomen sitting before several projected images. There were flower arrangements, fine tablecloths, and men serving drinks.
+
+“They’ve gotten very popular—half the new apprentices only produce these. Small, compact, and easy to use,” Biyu told him with a bright smile. “The Society invited me when they found out I was the inventor, and it was fun.”
+
+Yun squinted at the image. “They’re not half bad,” he allowed with a little smirk. “Especially that one, Tigu’s older brother.”
+
+Biyu chuckled at the image Yun pointed at. It was a picture of an orange cat stretched out in a sunbeam.
+
+He was very plump, and the noble lady sitting before the projected image looked incredibly proud of her work.
+
+They spent a while critiquing the noble’s work… and then they started with Yun Ren’s images again.
+
+As they got deeper and deeper into the recordings, they became more and more fantastical. The Shrouded Mountain in all its glory. Yun Ren’s new friends; Han, Shao Heng, and Yushang from the Shrouded Mountain Sect all grinning up at the recording crystal. Even a darkened hallway that looked like it had been hastily recorded.
+
+Yun Ren narrated the images as they swept past. While the story she heard earlier had been relatively triumphant… this time Yun Ren went deeper.
+
+He went into the fear of infiltrating the sect. The hardship of the road. The pain from demonic chitin piercing his body.
+
+Biyu embraced him. She ran her fingers through his hair. She may have just been a mortal… but she shouldered as much of it as she could.
+
+“When it got real tough. When I found something that made me want to quit, you know what thought kept me going?” he whispered.
+
+“What was it?”
+
+“Coming back to you.”
+
+Biyu’s face turned crimson.
+
+That was completely and utterly unfair.
+
+Some part of her felt like she didn’t deserve it, the open and honest devotion. He was a cultivator. He had the power to shape the world… and she was just a crystal carver.
+
+She shoved the thought aside. The answer was simple: be worthy of it. A little fire burned in her gut at the thought.
+
+Biyu pressed her lips to Yun Ren’s.
+
+“I think I’d like to hear more stories of your adventures. And maybe next time… we’ll go together. Have a less… intense journey,” she told him.
+
+“What about your carving?” he asked.
+
+“All I need is a chisel. And besides, gathering good crystals is also part of the job!”
+
+Yun Ren looked into her eyes.
+
+“Well, I’ve got an entire book full of places to go.”
+
+“Then we’ll have no shortage of stories to tell,” Biyu replied. “Now, Meiling has the right of it. I want to see how sensitive these are,” Biyu said, her eyes wide and gleaming as her fingers found the wonderfully soft set of fox ears on Yun Ren’s head.
+
+As it turned out, they were very sensitive.

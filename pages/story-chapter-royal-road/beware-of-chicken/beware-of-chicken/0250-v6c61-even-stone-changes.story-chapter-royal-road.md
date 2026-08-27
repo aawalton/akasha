@@ -1,0 +1,255 @@
+---
+id: f270433a-d169-51e2-b301-f3789e55cd1d
+page-type-slug: story-chapter-royal-road
+title: "v6c61: Even Stone Changes"
+slug: 0250-v6c61-even-stone-changes
+partOf: beware-of-chicken
+position: 250
+ownLength: 2746
+unit: words
+ownProgress: 2746
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/2566246/v6c61-even-stone-changes"
+royalRoadId: "2566246"
+markedReadAt: "2026-06-29T18:59:58.457Z"
+---
+
+The world was cold, grey, and miserable-looking. On Gang sat on top of the shell of Lord Yao. His eyes were blank and unfocused, and his Qi ravaged his body from within.
+
+He was dying. And yet, his thoughts were not on his imminent demise.
+
+Break the cycle. Those were the words that resounded within the head of On Gang, Sect Master of the Rumbling Earth Sect. Break the cycle.
+
+The words consumed his thoughts, his every waking moment. Even as he died by inches, he had thought, pondered, and meditated on how to do it. How to approach the Wreckerballs. How to try to reach them.
+
+Because he had to try. He owed Lord Yao that much.
+
+“We do not accept the world as it is! We do not sit here and say this is how the world is! We challenge the heavens!” Cai Xiulan said, her eyes so clear and bright.
+
+“How can you still trust humans, after everything?” he had asked Master Gen Ten. The monkey had stroked his chin.
+
+“Because we have the truth,” was the monkey’s reply. “We know that there isn’t only one way.”
+
+The truth had been revealed to him about the past. To all of them.
+
+So why could it not be revealed to the Wreckerballs?
+
+On Gang took the most important treasure of his sect… and set out to answer the call about a Wreckerball approaching the sect for what was probably his last time.
+
+=============================
+
+A Wreckerball trundled forward through the brambles of the Wrecker Thicket. The Spirit Beast paid no mind to the thorns that were as big as humans that scraped along its shell and headplate, and flattened the razor reeds and caltrop grass under its calloused feet and armored knuckles. It moved with a sense of urgency, even though it seemed almost distracted, following scent trails and tremors in the earth.
+
+It was not long before the Spirit Beast saw movement. Another two shells, thick and covered in spikes of earth. The other Wreckerballs laid eyes upon the newcomer, and frowned.
+
+‘You’re back,’ Fensui, one of the Thicket Guardians muttered, her eyes roving over Chui’s shell. ‘Did you find him?’
+
+‘’Course he didn’t find Shellcrusher, the others are telling tall tales,’ Gunbang, her brother, sneered.
+
+‘No. They’re telling the truth. I found Shellcrusher,’ Chui said, his voice strained. ‘And I need to talk to the bosses. Now.’
+
+Fensui and Gunbang recoiled at the urgency in his voice.
+
+‘What? Why?’ Gunbang started, but Fensui slammed her side into her brother, their shells meeting with a vicious crack that sent Gunbang staggering and opened the way for Chui. Fensui could see how disturbed he was.
+
+They marched together through the thicket, past all the overwinter dens, where little sleepy chirps were coming from the pups. They passed their smaller kin, waking up from their winter sleep; the weaker ones needed to burrow and rest through the winters, and most made the pilgrimage back to the thicket… but enough tried their luck in the other hills. Some of the young ones were headbutting each other, or smashing their shells together, while other adults were arguing and grumbling about the state of the world.
+
+They marched right toward the Old Shells. While most of their kind were only about as big as humans, the Old Shells were the largest of them… and the easiest to spot. Each of them was at least as big as a human house.
+
+‘Ah? Chui, is that you, boy?’ Lord Dizhen demanded, turning his good eye to Chui. One eye was a mass of scar tissue, and his shell was shot through with unhealed cracks. The other Old Shells turned to Chui as well, a few of them chewing on their preserved winter forage. They saw the look on Chui’s face, though, and frowned. ‘What's the matter?’
+
+‘The stories are true. Shellcrusher… he ain’t crushing shells no more. I hit him. A lot. And he didn’t do anything to me. He just… waited. Then… then he…’ Chui trailed off.
+
+‘What? What did he do to you?’ the wizened, concerned voice of Lady Jhizu asked. She was positively ancient, one of the biggest Wreckerballs here.
+
+‘He… he took me into a memory crystal. He showed me things… he showed me impossible things, but the crystal wasn’t lying—!’ Chui wheezed, the memories flooding his mind. The majesty of Lord Yao, alive and breathing… and the little humans that lived in their dens with them.
+
+A claw rammed into his shell, the crack of nail on armor snapping Chui out of it.
+
+‘Boy. What did you see?’ Lord Dizhen asked, not unkindly.
+
+‘He showed me Lord Yao. Alive.’
+
+The silence was deafening.
+
+And then came the fury.
+
+‘He dares… HE DARES?!’ Lord Dizhen snarled. His teeth were clenched so hard blood started dripping from his gums ‘Filth! Corpse-desecrating vermin! A blight on this world! They killed him, and they dare to speak the Patriarch’s name?! He dares mock us with that?’
+
+The others rose to their feet, the ground starting to tremble with their Qi and their wrath. Their eyes became bloodshot, and their own rage started to overtake their minds. The thought of Lord Yao, of the humans speaking about him, would have done the same to Chui not even a day ago. But now… but now…
+
+‘He wasn’t mocking Lord Yao!‘ Chui shouted, shocked that he even spoke, but his words, and the pain within them, made the others recoil, and the bloodlust in their eyes paused.
+
+‘What do you mean?’ Lord Dizhen demanded.
+
+‘I can’t explain it. You have to see it. You have to know,’ Chui whispered. ‘He’s… he’s out there, still, Shellcrusher. He's waiting for us. And he's alone.’
+
+===================
+
+On Gang knelt in the muddy, half-frozen earth. He bore no covering save for a loincloth, exposing a body toned by war and littered with scars from a lifetime of battle.
+
+His head had been shaved, his topknot gone and burned in fire.
+
+On Gang waited. The cold rain fell upon him, but he did not flinch from it. His breathing was calm. Idly, he wondered if the Spirit Beast had understood him. If its words would even reach its fellows? He didn’t know. But for the first time in a while, he felt peace.
+
+His affairs were in order. His nephew would assume his rightful place as Sect Master of the Rumbling Earth Sect at the end of all this. He had even written a poem about life and death. One that hadn’t been complete trash, for the first time in his life.
+
+His most trusted man had letters to deliver to the Sect and the Grand Marshal if he did not return within the week.
+
+And now, he was ready for what was to happen.
+
+The Wrecker Thicket rumbled like a living thing. Thorns the length of lances shook and rattled, and grass sharp enough to slice straight through a mortal's shoe was trampled.
+
+From the thicket burst a legion of Wreckerballs. Ten, the size of houses led the vanguard, thundering toward him in their loping knuckle walk that they used when not rolling.
+
+Even if On Gang wanted to fight them, it was a battle he was guaranteed to lose. He could see the rage in their eyes. They hated him. They wanted nothing more to trample him underfoot.
+
+On Gang smiled.
+
+Everyone always said he was an idiot brute, and here he was, his plan going off without a hitch.
+
+He lifted his hand, and pressed it to his own stomach.
+
+====================================
+
+Dizhen saw Shellcrusher, and the fury nearly overtook him at the sight of the human. He felt the man’s Qi. The hunter. Shellcrusher. The one who had killed so many. The chief of the vermin that desecrated the remains of their lord. The scar over his eye burned, and the cracks in his shell ached, reminders of what the Shellcrusher had done to him.
+
+His other kin roared their hatred at the sight of him.
+
+He expected treachery. He expected this to be some trap that had somehow befuddled young Chui.
+
+His thoughts were confirmed when the human raised his hand and smiled. Dizhen turned, getting ready to roll, his spikes sharpening and lengthening—
+
+The human pressed his hand to his stomach, and his cultivation broke.
+
+The act was so shocking Dizhen stumbled. Three of the other Old Shells did as well. Dizhen slammed his claws into the ground, slowing his momentum. The charge, meant to crush the human and continue on to the comrades that were surely hiding just behind him faltered… and stumbled to a stop.
+
+Still, the human did not flinch. With calm and deliberate movements, he lifted his hands once more. Lifted them to his face, and ripped out his own eyes.
+
+Never before had any of them seen this. One of their greatest enemies was now mortal and crippled.
+
+The once-braying stampede of his kin was silent.
+
+There was only the sound of the rain. There were no other Qi signatures. There were no other scents. Shellcrusher was truly alone.
+
+‘What madness is this?’ Dizhen finally asked, utterly baffled by the human’s actions. Was it some manner of human Beast Curse? But he had no Qi. There was no malevolence in the air. This was no trick.
+
+“Madness? No. My entire life has been madness. This is clarity,” the human said, his voice unwavering. “On Gang offers his greetings to the descendants of the Great Lord Yao.”
+
+The words were nearly incomprehensible. His words should have provoked their fury, to invoke the name of their progenitor, the God Beast Lord Yao, Master of the Grass Sea.
+
+And yet the human’s voice was full of reverence and respect for the name of their Lord. Chui was right. There was no mocking. There was no insult.
+
+Just the baffling actions of a human.
+
+‘...why are you here, Shellcrusher?’ Dizhen demanded. ‘Are you just here to die?’
+
+“I am here because of the truth,” the human said. “We have been killing each other for as long as we can remember. We have been killing each other over a lie.” Again, his words did not make sense, but something had recently infected the humans. They no longer hunted. They no longer wore pieces of his dead kin. They… something had changed about them.
+
+The human reached beside him and lifted a crystal the size of his fist. A memory crystal. Slowly, reverently, he placed it on the ground before him.
+
+“This is the truth. And if you see the truth, and still want my life, it's yours.”
+
+Dizhen glared at Shellcrusher. at the now mortal human before him. He pressed his claw to the crystal.
+
+=======================
+
+Dizhen saw. He saw Lord Yao.
+
+It could be no trick. It could be no fabrication. His blood sang as soon as he saw their Patriarch. It bubbled through his veins, and it felt like a great weight had been taken from his shoulders. Tears sprang to his eyes, and his heart beat to the sound of his booming laughter.
+
+He saw a boy who was blinded protecting a Wreckerball.
+
+He saw them living together as inseparable family members. He saw their laughter and their joy, their grand parties, dancing and singing for Lord Yao.
+
+He saw demons break the world, and drive the survivors mad.
+
+Even the memory of the Qi that flooded the world made his mind go blank. He could feel the earth below his feet screaming in agony, and he could feel the sympathetic echo of its mind-numbing pain like it was his own.
+
+He screamed. His claws slammed into ethereal dirt, and he swung his tail with all his might, a force enough to pulverize any human castle. He staggered in the memory—and something within the crystal, a tiny fragment of gold touched him.
+
+It showed him a vision. He saw his Lord’s memory, echoing through the broken earth.
+
+He saw the great Lord smiling as he died, humans and Wreckerballs alike sheltering under his shell.
+
+His mind went quiet. The pain receded.
+
+===============================
+
+And then he was standing before the human again.
+
+A human, who had destroyed his cultivation and eyes for their kin.
+
+‘Why?’ Dizhen asked.
+
+The human, Shellcrusher, On Gang let out a breath.
+
+“Just because it was a lie, does not mean we have not hurt each other. I have hunted as many of your kind as I could. I have tormented them, and slain them for the joy of it. But someone has to take the first step. I, On Gang, offer everything I have. My cultivation. My eyes. My life, for the sins I have committed. Maybe this will never amount to anything. Maybe we have hurt each other too much to reconcile. But someone must make that first step. And I will make it, even if it leads to my death.”
+
+His words were as honest as the earth beneath their feet. Conviction as steady as stone.
+
+And using his body to take blows meant for another.
+
+==============================
+
+“He’s been gone for four days. Do you think…?” Dulou Gan, Young Master of the Rumbling Earth Sect, asked anxiously.
+
+Xiulan put a hand on the man’s shoulder. “It is too early to tell,” she replied. She had been called in a panic by Dulou Gan—the Sect Master had disappeared with the Sect’s memory crystal four days ago… and the most likely reason was that On Gang had taken matters completely into his own hands.
+
+Xiulan had been drawing up plans for a measured approach to meeting with the Wreckerballs, slowly feeling them out. They could use the monkeys of Crystal Hill, Tigu, Yin, and Shaggy Two to show their good will, and convince them that way to come to the table… or at least that was the plan. She had known it was a priority for the Rumbling Earth Sect and had been acting accordingly, but On Gang had taken his own initiative.
+
+Xiulan could not blame him. He felt like he had to do something… and he had acted.
+
+But that did come with problems.
+
+“Wreckerballs!” came a shout from outside, and an alarm sounded. Both Xiulan and Gan froze, before rushing outside.
+
+What was approaching wasn’t hard to spot.
+
+There had to be a hundred Wreckerballs marching on the Bonepile, on Lord Yao’s shell. The ground was shaking. The buildings were trembling.
+
+The faces of the Rumbling Earth Sect were ashen.
+
+Was it war, then? Were the Wreckerballs here to try and drive them out, Xiulan wondered.
+
+….would there even be a fight? Most of the disciples had no fighting spirit. They were looking for exits.
+
+Gan especially looked grim… and then his eyes widened.
+
+“Uncle?” he whispered.
+
+Xiulan focused on the lead Wreckerball… and there was On Gang. He was seated on the large Spirit Beast’s shell, and had bandages around his eyes.
+
+“Open the gates!” he shouted, and the disciples hastened to obey.
+
+The gates were opened, and the Wreckerballs marched up to them before pausing at the threshold, as Gan leapt down to stand before them. The world paused and seemed to hold its breath.
+
+And then, Gan clasped his fist in his hand.
+
+“Welcome home, descendants of Lord Yao,” he said, bowing.
+
+The Wreckerballs paused. The lead one looked down at Gan’s earnest attempt to reach out.
+
+‘... it's good to be home, little brother,’ the lead Wreckerball replied.
+
+And one by one, as they passed the threshold, it was like some invisible weight was lifted from their backs.
+
+For the first time since the Breaking, they once more sheltered beneath Lord Yao’s shell.
+
+Xiulan could only watch.
+
+The Wreckerballs’ voices came out in reverent chitters and barks. Their claws clacked against the massive shell.
+
+All but the leader, who looked at his kin with a complicated expression.
+
+Things were balanced precariously. The Rumbling Earth Sect was nervous and unsure. The Wreckerballs were shooting the humans glances.
+
+The leader, the one missing an eye, looked around… until his good eye landed on her, and the Spirit Beast startled.
+
+‘Lady Ruolan?!’ the Spirit Beast asked, bewildered.
+
+“My ancestor,” Xiulan replied, stepping up and making the martial gesture of respect. “Cai Xiulan, Grand Marshal of the Azure Hills, greets the descendants of Lord Yao.”
+
+It was awkward. It was tense. But like so many things these days… at least it was a start.
+
+The warm wind of spring caught in Xiulan’s hair.

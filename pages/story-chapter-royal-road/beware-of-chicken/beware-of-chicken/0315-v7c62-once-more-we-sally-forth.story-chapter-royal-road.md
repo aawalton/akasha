@@ -1,0 +1,189 @@
+---
+id: df007205-f933-5756-8dd8-3569fdc5e84b
+page-type-slug: story-chapter-royal-road
+title: "v7c62: Once More, we Sally Forth"
+slug: 0315-v7c62-once-more-we-sally-forth
+partOf: beware-of-chicken
+position: 315
+ownLength: 2335
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3463210/v7c62-once-more-we-sally-forth"
+royalRoadId: "3463210"
+---
+
+There was silence after Paobu finished his tale. All of these powerful Spirit Beasts, strong humans, and most of all, Blaze Douser. They had all remained quiet while he told his story, only listening. There were no laughs, no taunts, no amusement that the Blaze Bears were weak enough to lose Home to insects of all things.
+
+He wondered when the jokes would start. It was what one did to the defeated. It was what Reaper Wolves did to those they slew. What Wreckerballs did to those they crushed. What Blaze Bears did to those they burned. Even the humans did it, parading around pelts of vanquished foes.
+
+He was a Blaze Bear, and they were not. That meant that they were… well, if not enemies, they were opposed to one another. It was simply the way of the world.
+
+Yet there were no taunts nor amusement. The woman simply kept her hand on his side, the herbs and soft green glow healing up the last of his aches and pains.
+
+”Just one thing after another, huh?” the human who looked and smelled like a fox eventually asked, leaning back with a groan of annoyance.
+
+There were commiserating murmurs. The owl-looking human beside the fox rubbed his arm.
+
+“Indeed, it seems there is never really much time to rest,” Blaze Douser said. “Yours is a grim tale, Paobu, and you have my condolences. In a way, it is good so many of your people left the Ash Forest. That means they still live.”
+
+Paobu blinked at the words, and the… compassion in them. The others nodded. Even the swarm of bees buzzed up and down.
+
+Paobu stared blankly. ‘It is… good, that we still live?’ Paobu asked, confused. And yet there was a pulse in his chest, a feeling of warmth that they had said that. ‘B-but why would you say that? You are not us. Why should you care? Are we not just… food?’
+
+That was what the others said. Other things were food. Paobu had always had doubts, personally, but the biggest and the strongest, as well as the oldest and the wisest, were so sure of it.
+
+The Blaze Douser looked into Paobu’s eyes. All of the others looked at him, and he saw in them… pity?
+
+“No. You are not. You think. You feel. You have joys and regrets. That makes you a person,” Blaze Douser spoke, his voice calm and as certain as the words of the old ones. “A person who we can reason with, and with whom we may find common ground. That does not guarantee it, however. We may have irreconcilable differences, and we may yet come into conflict. But it means we have to make the attempt to speak with one another.”
+
+His words were quiet, and yet they resounded in Paobu’s mind like the roars of the strongest males. It was such a strange philosophy. It was something that just… did not happen.
+
+And yet it was happening. They had taken him in. They had healed his wounds. They clearly had no plans to kill him, and most of all, they were talking to him. Talking to him and listening, just like the Blaze Douser said they should.
+
+‘Is that… truly what you believe?’ he asked, and everyone who surrounded him nodded.
+
+“Yes. Just like how we are speaking to each other now. You are not just a Blaze Bear. You are Paobu. A brave defender of your home, an enjoyer of honey—a son of the Forest Empress.”
+
+After everything. After thinking he was going to die, after the terror of the demon bees…
+
+Paobu felt tears come to his eyes.
+
+And yet… Blaze Douser was not yet done.
+
+“Rest well, Paobu. Get better. And do not worry. We shall get to the bottom of this. You will see Ash Forest again—and none of the hornets shall bother you while you live there.”
+
+His words were an oath. Paobu only barely realised what the rooster was promising.
+
+The tears that were gathering spilled.
+
+The little human’s fingers scratched behind his ears. The boar nosed his side with gentleness.
+
+It was so… strange. It was not the way the world worked. It was not the way anything was supposed to go—and yet... why did it feel so right?
+
+========================
+
+Bi De closed his eyes, turning away as the Blaze Bear sobbed quietly. It was part exhaustion, part relief, and part disbelief that any who were not his kin would speak of helping him. Paobu was so spent by his tale and by his injuries, he fell asleep not long after…
+
+…he had been through a lot.
+
+Paobu’s story resonated deeply with Bi De. It sounded too much like the attack on Fa Ram—but instead of victory, Ash Forest had been overrun, its people scattered or killed. If the hornets had done that to the Blaze Bears… what exactly were they doing to everything else that lived in the region?
+
+Vajra had described them as ravenous, unrelenting things, never satisfied. Paobu had testified that they killed and ate whatever got too close to their territory, judging by the disappearances of several Blaze Bears. It could have possibly happened after the bears attempted to predate their hives, that was true, but the biggest thing was the mention of the golden pool.
+
+Tianlan’s blood. The Blaze Bears had preserved it… and the giant mutated hornet was drinking it.
+
+That could not possibly be good.
+
+Additionally, they had attacked Fa Ram first. They had slain one of Vajra’s scouts, and if the timeline of events was accurate, they started moving their entire empire in this direction not long after.
+
+“So, what are we going to do?” Ri Zu asked Bi De, looking to him for guidance. In fact, everyone was looking to him. A threat had appeared, and they were all waiting for his decision. His Master was in the south. Shen Yu was still off somewhere.
+
+Everything was firmly upon his shoulders. He was the guardian of Fa Ram, and he could not afford to be found wanting.
+
+“We shall confront them,” he declared. “We shall not wait for this swarm to cut its way north and besiege us within our home. No. We will go to them,” Bi De said, his path clear and his voice resolute. Retreating into their shell like a turtle was foolish. As Shen Yu had taught, the best way to confront a possible enemy was to sally forth and forcefully claim the initiative.
+
+For a moment, he expected discussion, like they normally had during the conclave of disciples. He expected someone to bring up a point he had missed.
+
+But instead every head nodded.
+
+“Ri Zu and Yun Ren—with poison and lightning we have the best chance of taking out swarms,” Bi De said, turning to his companions who had fought with him during the northern base assault. His dear friends would be more than equal to this task. Poison and lightning were a great equalizer against swarms.
+
+“Ri Zu will begin preparing,” Ri Zu replied, ever ready to stand with him.
+
+Yun Ren heaved a great sigh, but nodded. “My zaps aren’t as good as the Shrouded Mountain Sect ones yet,” he warned. “But I’ll see what I can do.”
+
+“Vajra, you shall be with us, as well, of course,” he said to the agitated swarm, which swiftly calmed.
+
+“Sister Pi Pa, Brother Chun Ke, Miantiao—I will entrust Fa Ram to you while we are away. We shall not be gone long.”
+
+“I will prepare the travel bags,” Pi Pa said, her voice steady. Brother Chun Ke simply oinked. He nodded at Bi De, a small smile on his face.
+
+‘Glassss is rather good against inssssect wingssss,’ Miantiao agreed, showing no disappointment in his assignment.
+
+“Biyu… I would ask you to stay here as well. Like Bowu, your place is not on the battlefield unless it is absolutely necessary.”
+
+“I understand,” she replied, while Bowu simply nodded.
+
+“We’ll keep doing our own thing,” he said.
+
+‘What about me?’ Spooks asked when Bi De didn’t address him.
+
+“I would not presume to command the apprentice of Master Forest Sweeper; so I shall only ask, what do you want to do?”
+
+Spooks considered the offer… before glancing back at the Blaze Bear. ‘I’ll come. Master said to learn… so I’ll see how you resolve this incident.’
+
+“We shall do our best to treat with them. We will afford them what should be afforded to all Spirit Beasts. But if they will not talk, if they insist on battle… we will give it to them,” Bi De said, his words final.
+
+“I will have the packs ready by the end of the day. When shall you be departing, Master?” Pi Pa asked.
+
+“When Paobu has recovered enough to travel. It would do no good to just barge in on our lonesome. I intend to speak with the surviving Blaze Bears… and we need the one who secured us as allies to accompany us, no? Brave Paobu, who fought their enemy, and found friends to help him,” Bi De replied. “And… we have others to inform as well.”
+
+“Oh?“ Pi Pa asked.
+
+Bi De glanced at the ground. “We lack transmission stones, but we have a far more reliable method of speaking with others. We shall inform our friends of what has happened, and take care of it.”
+
+The rest of his companions smiled… especially Chun Ke.
+
+And so the plan was set. Swift, decisive action would be the name of the day, and they would nip this new problem in the bud.
+
+=========================
+
+Tianlan walked away from the Dueling Peaks, travelling with her Jin and Meiling as they set forth once more.
+
+It had been… cathartic, in a way. To see her people working together once more, instead of slaughtering each other for dwindling resources. To see them building things together, instead of tearing them down.
+
+Instead of tearing her down.
+
+If Xiaoshi could have seen it like this again, after everything that had happened….
+
+She thought he would have smiled. They had made it so that their people could see each other's skills, and appreciate what the disparate peoples of Tianlan could do.
+
+Xiulan… really was making good on her promise. She really was trying her best, along with everyone who had spoken that oath to her with their hearts full of resolve.
+
+It had been nice to just be able to sit and watch. The Peaks were already connected to her, and had been ever since Jin had visited the first time. Tigu, Xiulan, Yin, and the others all gave to her, and their sincere devotion made the Dueling Peaks a lot more stable than they otherwise should have been.
+
+Stable… and primed for it to continue being repaired.
+
+The Dueling Peaks once had a Spirit, before she broke. She remembered it vaguely, in bits and pieces that were hazy, like smoke falling through her fingers. It had been rising fast in her court, becoming stronger and more important as more and more people felt the mountain was important.
+
+Then she had broken, and with it, that Spirit had died.
+
+And yet, as in Pale Moon Lake, echoes had remained. Unlike in Pale Moon Lake, where she had to craft the Spirit wholesale with seeds of her power, here, the Spirit was already growing. The Dueling Peaks had been less damaged than Pale Moon Lake; and so the echoes, the thoughts, the beliefs were stronger here. Instead of being drained away immediately, the Dueling Peaks housed a coalescing egg. Here, with her resurgence, she didn’t need to spend any more power. With this one, she could just wait, and that egg would hatch into the new Spirit of the Dueling Peaks.
+
+Or rather, Spirits.
+
+She could feel them. Two that were one. Yin and Yang. Victory and Defeat. She could feel the boisterous echoes, and the sound of them drinking deeply of cups of wine. She could feel them already arguing with each other, betting on the winners and losers. She could feel them shouting encouragement, or heckling with equal enthusiasm.
+
+Festivities, pageantry, battle, unity, balance.
+
+They would be strong, growing naturally, growing correctly, until they could sit where they were meant to sit.
+
+It made her feel warm. It made her feel hopeful.
+
+The pain was dulling. With each break her Connected Ones fixed, she felt more and more whole. She felt like she remembered feeling, all those years ago.
+
+They really were the best, her contractors.
+
+And now, Jin and Meiling were travelling fast. They had split off, and were heading northwest, to where Yin had found those mutated animals. To where they would be able to fix those leaks, and then go back to exploring, and seeing how things had changed—and changing the world themselves.
+
+She had a big smile on her face.
+
+A smile that paused, when she felt a metaphysical tapping on her head.
+
+Her consciousness was coalesced here, with Jin and Meiling, but she was still the Azure Hills. The connected parts of her were herself too.
+
+And there, far, far away, and every, very faint… there was a tapping sensation. It was at… it was at home?
+
+Her brow furrowed. Little strands of Qi tapped her dragon veins insistently. She recognised them. Bi De? Ri Zu? The rest of them at the farm? She could feel concern—
+
+She forced her awareness towards them. Were they in danger, what was—?
+
+She took a breath, and shoved the sudden panic and rage away, and parsed the message she was being given.
+
+Danger. Confronting it. Southwest…?
+
+Her eyes narrowed, as she tasted the level of urgency, and their plan. She felt what was happening… and then, she nodded. They were going to be rather close, if they kept this heading…
+
+And Bi De didn’t know that they were this close. A small, amused smile stole across her face.
+
+“Jin, Mei, change of plans….” Tianlan said to her Connected Ones.

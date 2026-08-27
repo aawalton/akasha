@@ -1,0 +1,171 @@
+---
+id: 20a41ea8-99f0-56f1-a8e2-9ca1c6dde40e
+page-type-slug: story-chapter-royal-road
+title: "50. The Beginning"
+slug: 0050-50-the-beginning
+partOf: breaker-of-horizons
+position: 50
+ownLength: 2318
+unit: words
+publishedAt: 2020-10-22
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/572921/50-the-beginning"
+royalRoadId: "572921"
+---
+
+There was a stunned silence that seemed particularly pronounced after all the violent hurling of arcana. Both Ambrose and I regarded each other — I, with undisguised incredulity, and he, with a sense of satisfaction and approval.
+
+"Fates," Devon breathed from the stands, "what was that?"
+
+With the field of ensorcelment broken, Kevan managed to sit up. He stared at us in disbelief. "It's a draw."
+
+I shook my head to clear it. "It wasn't a duel. This was ensorcelment practice, remember?"
+
+"Regardless, that was quite impressive, Caden," Emilia said, dusting herself off as she got to her feet.
+
+"What's really impressive was that mid-air flip and recovery," I replied, trying not to allow my head to grow too big now that she had finally acknowledged my ability. "How are you so nimble?"
+
+"My parents got me involved in gymnastics when I was younger. I've kept up with bits of the training on my own because I like it. But nevermind that. Your sequences — how did you change the points of origin so drastically?"
+
+By now, the others had drawn closer. Devon had brought up the Minor Control Sphere to dismiss the arena barriers.
+
+"I... it's not a part of the sequence."
+
+"Not a sequence? So that was all just pure focus and arcanic control?" Jerric jumped in.
+
+"Kind of. It's really not that different from how we apply enough focus so that something like an arcanic bolt comes out from anywhere, not just an open palm, and then changes direction even after it's left our contact."
+
+"But it looks like it's more than that," Jerric said, shaking his head. "In all our sequences so far, the origin is still our body. But you've shifted the point of origin beyond yourself, and the sequences are coming from thin air."
+
+"I really don't modify any glyphs. The sequences are standard. What changes is my sense of the arcana. The 'self' as a point of origin... expands? I connect to the ambient arcana, and it allows me to use parts of it as points of origin."
+
+"Both medium and power source," Emilia murmured, recalling Reeves' first lecture.
+
+"Exactly."
+
+"It's a frame-shift, then, expanding on our view of ambient arcana, not just as a passive external medium, but a medium that can be subsumed and integrated into our sense of self," Jerric mused, his precise wording making it clearer even for me. "That'll take some practice. But we haven't seen you trying that out before."
+
+"Actually, you have. In all our ensorcelment practice sessions, I do it every time I have to ensorcel the lot of you all at once. Today was just me pushing the boundaries a little bit."
+
+"A little bit?" Devon repeated faintly, looking mournful. "I'm so far behind."
+
+"Cheer up, Dev." Jerric elbowed him. "You're no further behind than the rest of the normal people in our cohort. You shouldn't compare yourself with the crazy bunch here. Besides, you outlasted me!"
+
+"And my brother," Kevan added, shaking his head at Lynus. "For shame, Ly."
+
+Devon looked up, clearly surprised that he was receiving some encouragement from Kevan. He wasn't the only one who noticed. Everyone else except Emilia was staring a little.
+
+"What?" he asked, looking defensive.
+
+"Oh, nothing," Lynus drawled. He winked at a bemused Emilia. "Keep up the good work, Em. We like the changes you've made."
+
+"What?" she asked, lost.
+
+"Ignore them," Kevan muttered. "Anyway, I wanted to ask what the heck Ambrose did at the end there. And it wasn't just with the lightning ball thing at the end. When Caden used those arcanic tendrils on us, you somehow... unravelled them. It was the same thing, wasn't it?"
+
+Ambrose nodded. "If you're fast enough and familiar enough with a sequence, you can... uhm... 'overwrite' it. Not like crossing out something that has been written down, but a bit more like... exchanging letters in a word so it becomes nonsense. If you do it right, you can destabilise an active sequence, and it usually just falls apart."
+
+"How?" Jerric asked, intrigued. "Are you using more advanced glyphs?"
+
+"No, the glyph of transmutation actually forms the basis for that kind of arcanic control," Ambrose pointed out. "You just need focus and speed."
+
+That certainly explained how the tendrils and the lightning cage had simply dissipated without any opposing clash of energy. But even if he had given the theoretical framework for what he had done, I was very certain that his application of it involved something far more complex. What he had just described did not account for the presence in the arcana I had felt, nor the strange flexing and stretching in the fabric of the ambient arcana.
+
+But he was the Chosen One. There was likely something big behind that, and I didn't want to ask about it in front of Emilia and the twins. Maybe another time, when it was just Devon, Jerric, and me.
+
+Instead, I turned to Kevan. "There's something I wanted to ask you. You managed to sense exactly where the bolts were coming from, right? Even Emilia had to rely on a directional shield behind her, but you didn't seem to have that many problems. It was like you could tell my bolts were forming the instant they were being formed."
+
+Kevan met my gaze with an inscrutable look. "Yeah, I could sense them."
+
+"How?"
+
+"I think you know," he answered seriously, "otherwise you wouldn't be asking, would you?"
+
+... that.... was not the answer I had been expecting. I genuinely had no idea what he was talking about, and I figured that he and Lynus had picked up some tips from the seniors they trained with. But then the memory of his grand duel with Emilia came to me: I had ensorceled him and given him binding knowledge of the flavour-vein-echo of the woven-shackled-stream, the augera in the Spire.
+
+I didn't know what to say. The silence stretched. Ambrose, Devon, Emilia, and Jerric watched, uncertain about what we were talking about.
+
+"Ly knows, too," Kevan said after a moment, stuffing his hands in his pockets and jerking his head at his brother, who was now looking serious. "I shared the knowledge with him after the duel."
+
+"The duel?" Emilia probed. "Our first duel here, when Caden ensorceled you and forced you to stop channelling the black lightning sequence?"
+
+"Oh, he did more than that. Didn't you, Caden?"
+
+He wasn't angry. In fact, he wasn't anything — he was being very matter-of-fact about it, even though the words he was using might have been delivered in a mocking tone. It was very disconcerting.
+
+"I..." My eyes went to the others, who mostly looked confused, except for two: Lynus' mouth was an expressionless line, while Ambrose looked... wary?
+
+"He made introductions," Kevan supplied, glancing at Emilia. "The ensorcelment didn't stop me directly. It just connected me to someone else that did. Or something else. And I introduced my brother to it, too. And ever since then, we've been a little bit more in tune with the arcana around us, like you. That's probably what helped you figure out how to shift the point of origin for your sequences, right?"
+
+"You've... been in regular contact with it?" I asked, a lump in my throat.
+
+He shook his head. "No. It's a bit too hard to really take it in. Ly and I have only made contact once more. But that was plenty."
+
+"What has it shown you?" Ambrose stepped forward a little. I was suddenly hyper-aware of how we were all arranged in the space; Devon and Jerric by the stands, Lynus drifting closer to his brother with Emilia between them, and Ambrose casually positioning himself a little closer to me.
+
+What were the sides, here? Were there sides? What was going on? Kevan didn't seem like he was aggressive or hostile, so why did it look like Ambrose was getting ready for a fight? I tried not to panic. What was there to fight over?
+
+"Honestly, Ly and I don't understand most of it. It's in jumbles of ideas and impressions. But it's pretty clear about you, Ambrose."
+
+Jerric and Devon glanced my way, exchanging a look full of meaning. Maybe now was the time to lay it out in the open, about the whole Chosen One business, and how we were trying to exert change over the terms of the Prophecy.
+
+Ambrose nodded, encouraging him to go on. "What's it say about me?"
+
+"That you're the Chosen One."
+
+"I knew it!" Emilia burst out, surprising us all. "It had to be one of you, and I thought you were the most likely candidate once I had eliminated Kevan."
+
+"Wait, what?" Kevan's seriousness gave way to bewilderment.
+
+She seemed to realise that she had said something potentially bruising to his ego. "I did think it was you at first, but since we've gotten to know each other better, I realised that your talent is... well, your talent, not the work of a Prophecy. Maybe amplified by your proximity to a Prophecy's Chosen One, but still not its direct result."
+
+"So I have no talent of my own?" Ambrose asked dryly.
+
+"... Maybe," Emilia said after a pause. "But as a Chosen One, that does not matter, does it? Your talent or lack thereof is part and parcel of your fate. Talent is not something you need ever concern yourself with. You will have exactly what you need, and nothing less."
+
+The tension was easing a little as we all watched Emilia delivering one of her usual matter-of-fact almost-insults while being rather oblivious to it. I might have chalked it up to mere chance, but I now knew better. This had 'Prophetic influence' written all over it.
+
+"Anyway, we're not here to talk about talent. Caden's been in contact with this thing, so that means he knows too. And that explains some of the things he's done so far. When were you two going to tell the rest of us?" Kevan asked Ambrose, going up to Emilia and taking her hand.
+
+Ambrose glanced at me and hesitated. I realised, my blood running cold, that he was asking for my input. But that wasn't the only thing contributing to the icy dread in my veins. I stared at Kevan as he waited expectantly for an answer, Emilia's hand in his.
+
+'... and one, brought close, becomes the bonesthat form your crown o'er mortal thrones.'
+
+I had been severed from the direct influence of the Prophecy. Had she been brought in as my replacement?
+
+What would Kevan's reaction be if he knew and if he understood the full terms of the Prophecy? Were we, even now, racing towards the fulfilment of the clause where he would curse Ambrose's name? What might happen then?
+
+"It wasn't the right time," Ambrose answered, and I realised that the moment of opportunity for my intervention at a critical point had passed.
+
+"Fair enough," Emilia said. "But now the secret is out, and it seems that this is the right moment."
+
+"I guess so." Ambrose didn't look very confident, but he also seemed to be content to go along with what was happening now.
+
+"That means the rest need to know," Kevan said, turning to look at Devon and Jerric.
+
+"Actually," Devon piped up sheepishly, "they told us. We know."
+
+"Yeah?" Kevan frowned at Ambrose and me in turn, then faced the two of them again. "I don't mean knowing that Ambrose is the Chosen One. I mean... knowing. About the thing. That Caden knows. And that Ly and I know."
+
+Jerric stood up. "You mean the augera. It has a name."
+
+Kevan's frown deepened, but it was one of slight confusion, not anger. "Augera. That... fits. But it doesn't feel like you know."
+
+It dawned on me what he was getting at. I had shared, via ensorcelment, the flavour-vein-echo of the augera in the Spire with Ambrose, and then Kevan who had, in turn, shared it with Lynus. But Devon and Jerric only know about the augera via word-of-mouth, not through the binding power of knowledge shared by ensorcelment. They knew, but they did not know. They had not unmade-learnt-assimilated that knowledge.
+
+There was a stirring in the arcana and I tasted the flavour-vein-echo of the augera as it responded to Kevan's call. My eyes widened in horror and I instinctively reached out to try and attune to the arcana so I could exert my will over it and stop what was happening. I sensed Ambrose doing the exact same thing, and we took each other by surprise, both of us flinching away and losing our hold over it.
+
+'Let them unmake-learn-assimilate the flavour-vein-echo of the woven-shackled-stream,' Kevan intoned to the augera.
+
+Devon and Jerric weren't slow on the uptake. Fresh from ensorcelment practice, they had their protections in place to anchor and fortify their auric-ambient-flares. But while those protections had held against me, they were no match for the augera. I felt it wrap around them, brushing aside their feeble resistance and sinking deep into their auric-ambient-flares.
+
+Just when I thought the situation couldn't get any more incredible, another perturbation in the arcana nearby drew my attention to the fact that Lynus had done the same thing to Emilia. The augera was in two places at once, working through both twins at the same time.
+
+It was over in a moment. As the ensorcelments took hold, Devon, Emilia, and Jerric were left staring at the rest of us with identical looks of confusion and fear.
+
+The augera lingered in the arcana for a moment longer, and when it thrummed with glee, I saw the newly-ensorceled people flinch and look around. They could hear it now.
+
+'The pieces are in place. Fate turns.'
+
+Before it vanished, I sensed it brush past me and whisper:
+
+'And you, unchosen-sighted-{~?~}, can be the fulcrum upon which it turns.'

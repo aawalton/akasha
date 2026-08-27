@@ -1,0 +1,29 @@
+---
+id: d91186f9-175e-503b-83df-051ddfbe2de6
+page-type-slug: story-chapter-royal-road
+title: "The Story So Far..."
+slug: 0001-the-story-so-far
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 1
+ownLength: 740
+unit: words
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2765788/the-story-so-far"
+royalRoadId: "2765788"
+---
+
+In an unknown place in an unknown age, there was a Paladin in service to Xaoc—the god of Chaos and one of Pallos’ five great gods that stand above the rest. The Paladin fell in battle and stood before Xaoc, fully expecting to become an angel devoted to His eternal will. Instead, Xaoc declared the Paladin unworthy. A lifetime spent in service to chaos had been ruined by the Paladin’s more recent actions. And yet, the Paladin was given a second chance to live a life truly in service to chaos… but not as a [Paladin]—that path was forever barred.
+
+Ranthia woke up in the city of Perinthus, in the (then) Republic of Remus. She was an eight-year-old freshly unlocked child with no memory of her past life except a hazy recollection of the Paladin’s death and a clear—though strange—memory of Xaoc’s judgment. Her only gift was a head full of disjointed knowledge, presumably from her past life, albeit said knowledge was often incomplete and proved to be riddled with flaws. Worse, she had absolutely nothing in her head of her new body’s life before that moment.
+
+Life swiftly became interesting. Ranthia was abandoned by her mother, adopted by a pair of ex-bandits (Tatius and Pupius; and that worked out surprisingly well for all of them), and then she became an Adventurer. As she came into her own, she lost her found family to a dangerous job. She grieved for them and moved forward. She met a woman and started a relationship, she grew as an Adventurer until she reached the pinnacle of the profession, and then she got talked into joining the Ranger Academy.
+
+The Rangers serve as the Empire of Remus’ elite protectors, but not even an A-Ranked Adventurer could skip the grueling Ranger Academy. There, Ranthia learned that her level and her achievements couldn’t hold a candle to Remus’ true elite—the Sentinels. But while Sentinel Night was terrifying, Sentinel Hunting took her under his wing. While the man believed in tough love, he also helped Ranthia hone her combat style. During her time there, she learned quite a bit, gained experience fighting without relying on her sight, survived her big dance number (seriously), and made some new friends—including a multi-talented woman named Statia. And then she became a Ranger.
+
+Ranthia’s first two years as a Ranger proved to be disastrous. Under a veteran Ranger, Leoios, Ranger Team 13 travelled Remus solving problems, until they met a problem that was too far beyond their capabilities. In the city of Massilix, a kraken from the depths of the Ocean appeared—and Leoios made the call to attack. After fighting a desperate multi-day battle that she should have never attempted, Ranthia slew the kraken, but her team was already dead. Survivor’s guilt drove her forward—against protocol—and Ranthia completed her team’s round solo. She did what good she could and she even stopped a group of violent rebels in the process.
+
+Back in Ariminum, Ranthia learned that Hexara had moved on without her in the years she was gone, faced an interrogation from Ranger Command, and had her combat prowess tested by the Sentinels. Then, as though nothing had happened, she started her second round as a Ranger in Ranger Team 6. The team was more than a little unusual—it turned out that Green liked to form teams around diamonds in the rough and those that she was worried about. Even with the novice-heavy team, things went well, overall—until Ranthia got a taste of the enemy Remus was at war with when the shimagu murdered Hylla, the [Healer] assigned to their team. Shortly thereafter, Ranthia nearly got herself killed fighting a needless battle against a flock of ornithocheirus.
+
+Once Green (narrowly) saved Ranthia’s life, she tried to do what she could to help Ranthia with the burdens, guilt, and anger that she was carrying. Ranthia took a few lessons from Green—especially that heroic sacrifices were bullshit—and let go of some of the self-loathing she had accumulated. But she couldn’t let go of her hatred of the shimagu, not after she watched Hylla die right in front of her.
+
+The empire formed a new task force of Rangers, the so-called War Rangers, to strike back against the shimagu. And Ranthia didn’t even hesitate when she was named to the force. The shimagu took a friend away from her, and she was determined to make sure they never set foot in Remus ever again.

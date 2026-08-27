@@ -1,0 +1,233 @@
+---
+id: a6ed1521-b349-5fe2-bf86-68ef75e6898f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Fall of the Wu part 2"
+slug: 0284-chapter-31-fall-of-the-wu-part-2
+partOf: beware-of-chicken
+position: 284
+ownLength: 2668
+unit: words
+ownProgress: 2668
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3086569/chapter-31-fall-of-the-wu-part-2"
+royalRoadId: "3086569"
+markedReadAt: "2026-06-29T19:01:10.751Z"
+---
+
+There was a buzz from Father’s desk. A small transmission stone came to life. Father’s eyes narrowed, and Chanchou swallowed.
+
+The connection crackled and writhed, barely stable.
+
+“Lord Wu. The Governor has ordered your immediate arrest, and all clan assets to be seized.” The voice on the other end said, clearly strained.
+
+“I see.” was all her father said. He rose calmly, and picked up another crystal that was lying upon his desk. He walked to the window, and then threw it into the sky.
+
+The crystal rose, elegantly, and unbound by the earth. It began to glow. Softly, at first, and then with increasing intensity, until it was a bright green star hanging in the sky.
+
+At once, smoke and flame erupted from several buildings. Warning gongs started ringing. People started shouting and screaming—but her father’s frown became even deeper.
+
+“They found some of them—no matter. We are leaving.” father stated, as armed servants rushed into the room. “We are splitting up, and we shall regroup at the fortress. From there we can coordinate our return.”
+
+His command rang out, and all of a sudden, things were a whirlwind. Her guards bundled her along, and Chanchou just kept moving, as they ushered her below ground. Things happened so fast, she lost track of her husband. At the start, he was there, and then all of a sudden, he wasn’t. Perhaps he had gone to get their children? Yes, yes, that had to be it!
+
+There was no palanquin this time. Chanchou had to half run, half walk, her heart pounding in her throat. She moved like in a dream, following the route father had made her practise.
+
+She was panting and gasping by the time she pulled herself up the ladder that lead to a quiet alleyway. They had a couple blocks, and from there they would hit the lake, where there would be a boat—
+
+“My Lady, back!” the guard shouted desperately, throwing himself in front of her. All of her guards drew their blades, their faces masks of desperation.
+
+And then, Chanchou saw the people standing in front of her and freedom.
+
+Blank crystal lenses stared dispassionately at her. Rasping breaths issued forth from face-covering masks.
+
+They had clubs and mancatchers in their thick, cloth-covered hands and a few had crossbows were levelled at her and her guards. The tips of their bolts were made of glittering crystal.
+
+At the head of the faceless men, Mengde’s elite guards, was a giant of a man. He too had a club—though it was more like a tree trunk ripped from the ground.
+
+“Wu Chanchou. You will surrender to us.” the man commanded, his voice so deep it rumbled her bones.
+
+Chanchou’s legs were shaking.
+
+“You dare impede the Wu Clan?” her lead guard demanded.
+
+Those blank lenses simply stared at her guard. Sweat trickled down the back of his neck.
+
+“They’re behind us too.” another of her men whispered.
+
+The captain nodded.
+
+“Through, then. Get ready to run, My Lady.” He said.
+
+And then, they surged forwards. The two men with shields were first, roaring battle cries as they surged forwards.
+
+The crossbows fired.
+
+And instead of simply sinking into or bouncing off the shields, Chanchou staggered as blasts of cold hit them. Her guards cried and fell; their shields and shield arms suddenly encased in jagged chunks of ice. Two men behind them also had their feet frozen to the ground.
+
+But they had done their job.
+
+For a moment, she was hopeful. Her men were much faster than the hooded mean, wielding unwieldy polearms, who were trying to capture. She saw several of her men simply dance past the thrusts, and then descend on those who dared to impede her path. A sword arced beautifully through the air, sure to kill.
+
+The Mengde soldier simply raised his arm, and the sword made a clanking noise as it bounced off, the armor holding without any issue.
+
+The return strike from a club crashed into her guard’s gut, and sent him to the floor.
+
+It was a scene that was swiftly repeated. Her guards blades couldn't penetrate the Crystal Emporium’s armor, getting caught on the heavy cloth, and clanking off well hidden plates.
+
+The crossbows fired again, and this time they were aimed completely at the ground. The earth froze, locking everyone’s legs in place—save for her enemies, which with a bit of labour, ripped their way free of their imprisonment.
+
+The big one simply grabbed a guard’s head, lifted him into the air, and then slammed him into a wall.
+
+Chanchou had fallen to her knees. Her legs were shaking. The faceless, emotionless things closed in around her, too big hands reaching down, and grabbing her arms.
+
+Chanchou struggled, and screamed, tears falling from her eyes, looking around desperate for something, anything—
+
+She froze, as she saw a flash of black and white hair.
+
+Her sister was standing there, staring at Chanchou. Her maid was standing right behind her—and the pretty servant was smiling. It was a thin smile that was too wide for her face, that looked like it had to have split her cheeks open.
+
+“S-sister?” she asked.
+
+“Hmmm. It's rather strange that you used this route. I thought father would have changed it. Either he's sloppy… or you were sent this way on purpose.” Zei Qi mused.
+
+Chanchou shook. The men holding her arms kept her on her knees, but parted, so her sister could stare at her.
+
+“B-big Sister. Big Sister, please, this isn’t funny anymore.” Chanchou said.
+
+“Oh? And doing that to my son, doing that to my husband… that was funny?” Zei Qi asked.
+
+“It was just—I didn’t mean anything by it! It was just a game, like we used to play!” her voice cracked. “Please, Big Sister. You made your point! I lose, you win! I’ll do whatever you want!”
+
+Zei Qi smiled at her. She stepped forward, and cupped Chanchou’s cheek like she used to do, and leaned in. Her breath ticked Chanchou’s ear.
+
+‘You burned down the field, salted the soil, and now you’re trying to garden.” Zei Qi’s voice was dripping with condescension. “Oh, worry not, my dear sister. So you have sown; now you shall reap. This Wu Zeitian declares it.”
+
+Chanchou choked, her sister’s courtesy name was a brand in her ears. She had always foud it so funny that the squeamish boor had been given the same courtesy name as the Torture Empress.
+
+It wasn’t so funny anymore. Nothing was.
+
+Her sister let go of her cheek, and turned around.
+
+“Big Sister?” Chanchou tried one last time.
+
+Her sister did not look back.
+
+==========================
+
+Fires burned in the city—yet they were swiftly extinguished. Half of those prepared were never started in the first place.
+
+As soon as the flare rose, the Wu Clan was under assault. While the legal holdings were assaulted by Pale Moon Lake City guards, the less than legal holdings were swiftly subdued.
+
+The enemies of the Wu Clan feasted on their entrails while they were still alive.
+
+The guards stormed the Wu Clan compound— and as soon as they broke open the gates, they found the Master of the Treasury waiting for them, claiming he had been taken prisoner by the Wu Clan, and that as he had nothing to hide, he would of course cooperate with the Lord Governor.
+
+The Lord of the Wu Clan made it to his ship—where less than an hour later he was intercepted by boats belonging to both the Azure Jade Trading Company, and Master Shiban’s North Passage Cargo Company. The cordon was too tight.
+
+A battle ensued, which ended up sinking two of the pursuing vessels; but just when it seemed that Lord Wu would slip away, a stroke of bad luck caused the sail lines to snap—snaps that were suspiciously clean, like they had been cut open by an absurdly sharp knife. Some men even reported seeing a flash of silver overhead, that looked oddly like the wing of a cicada.
+
+In the end, Lord Wu was subdued.
+
+To the Lord Governor, the death toll was surprisingly small—the Wu Clan captured… and justice ready to be meted out.
+
+====================================
+
+The Lord Magistrate of Verdant Hill stood with his wife on the docks of Pale Moon Lake City. The entire City was awash with gossip about what had just happened.
+
+The topic of course was the destruction of the Wu Clan. The people were quite gleeful about the likely impending executions. That they would have acted the same if it were any other clan was obvious yet… still tragic somehow.
+
+The farcical performance of admonishments made him long for the peace of Verdant Hill. Most of them didn’t really care.
+
+“It’s quite sad, but sometimes, I think getting hurt by that cultivator was the greatest thing that could have ever happened to me,” his wife whispered. Her eyes were distant… and he wondered if she was alright.
+
+“Fate does work in mysterious ways,” he finally said.
+
+“Thats enough of this. Let’s find our dear students, and put this sorry business behind us.” She said, turning to him
+
+“...indeed. I do think a meal and good company would do wonders for us,” the Lord Magistrate agreed.
+
+They set out into the city, the warm breeze on their faces. It was too nice a day to be bothered with such things.
+
+He hoped that this would be the last they ever saw of the Wus… but they also were prepared for anything they had set in motion.
+
+==============================================
+
+Far, far away in Grass Sea City:
+
+Gao Yuze of Yellow Rock Plateau grimaced under the moonlight. He had heard the stories about the Azure Hills, but he had never thought it would be this bad. The Qi here was abysmal. It felt like it was trying to eat his soul, this damn shit.
+
+He glanced at the paper in his hand again, the amount written on the bounty, and his irritation started to fade away. He had just ascended to the Profound Realm… by spending all of his money on cultivation aids. And this bounty would sure as hell pay it all back, and then some. Being an independent was rough, and a job like this? It would set him up to at least the Third Stage of the Profound.
+
+So he had come down from the plateau, to this heavens-forsaken place. It was a quick in and out. It would be worth it, even if the man did have a couple of protectors.
+
+…case in point, as he landed on the rooftop. Qi signatures. The air was messing with his ability to sense Qi, but he knew they were Initiate’s Realm.
+
+Not one, not two, but three ladies landed in front of him.
+
+“State your business," the shortest of them demanded. She was a cute thing, her hair in twin tails, with a light dusting of freckles on her cheeks, and wearing a green robe.
+
+“He’s obviously here with ill intentions. Let's just cut him down and be done with it,” the second, taller one declared arrogantly.  A true haughty beauty, this one, wielding a spear, glared at him in a rather fetching way. She wore a blue and white dress, and her hair looked like silk.
+
+The final one was some tribal girl. An exotic looking thing with tanned skin, a bandanna with a geometric pattern on it around her head, and dark blue eyes. Her dark hair was done up in two braids, and she had a tattoo that started on her right hand that went up her wrist to mid-forearm. A dagger tied to a rope was held loosely in her hands.
+
+Yuze flared his own Qi in response, and smiled as they all stiffened.
+
+“My business is my own, pretty sisters. Let me be on my way, and later I can show you all the sights of my home up on that plateau. The best view is from my bedroom window,” he said, smiling at the fetching things. Against one from Yellow Rock Plateau, they would surely stand down; he heard that they barely got above the First or Second stage around here—
+
+“Absolutely not,” the petite beauty said.
+
+“Disgusting,” the tall one sneered.
+
+“Khöökh! He's a bit touched in the head, yeah?” the tribal barbarian uttered, butchering the proper tongue with her accent.
+
+Yuze chuckled, even as a vein bulged in his forehead. “Very well, then, I'll play with you now,” he replied, drawing his sword.
+
+All three launched themselves at him, and he raised his blade confidently to meet their strikes—when suddenly a rope wrapped around his leg and yanked.
+
+His eyes widened at the sudden assault that dragged him off balance. A fourth?! He caught a glimpse of another form—the tribal woman was behind him, but in front still—no. Not the tribal woman. A mirror image. Twins.
+
+The women’s Qi flared higher, and he got a better sense of it; that wasn’t the First or Second Stage, these women were at the Fourth or Fifth of the Initiate’s Realm!
+
+And it was four on one.
+
+[The Harmony of Silk and Steel, First Form!]
+
+The shortest woman’s blade split into twelve copies—and one of those blades split into a fan. It wavered and spluttered, the blades not quite all there.
+
+[Coursing River, Shattering Waves!] The spear became a thundering rapid, heading for every vital point.
+
+[Binding the Clouds!] Two voices shouted as one. The rope daggers weaved a net, sliding around his limbs.
+
+===========================
+
+An Ran of the Verdant Blade Sect panted, and wiped some blood off her sword in the predawn light. Shui Xinlai of the White Water Sect was favouring one leg. Oyun Sarantuya and Oyun Narantuya, twin sisters of the Grand Ravine, made sure that the most recent assailant’s wrists were bound.
+
+“Yoy, Yoy! You girls weren’t kidding! The Magistrate certainly has a lot of flies after him!” Sarantuya chuckled, standing up and readjusting her headband, which was damp from her own sweat. Her eyes scanned the horizon, however, alert for any more threats. “This is the second one this night!”
+
+“Khöörkhii döö. Must be stressful! We should give him a massage to relax!” Narantuya agreed with a little smirk, but similarly alert. The cut on her arm was freshly bandaged.
+
+Both An Ran and Xinlai twitched at the blatant teasing. After the Acting Lord Magistrate had protected several families of the Grand Ravine from a mob, the Grand Ravine had decided to show their appreciation for the act by dispatching these two, to “protect a friend of the Grand Ravine, and assist the Grand Marshal of the Azure Hills.”
+
+An Ran wished they had been men, rather than two stunning tribal beauties, who had instantly decided the most amusing thing to do would be to insert themselves into things.
+
+Neither An Ran nor Xinlai could tell if they were serious or not—at least at the beginning. Now both of them were quite sure they had a new pair of devastating, extremely forward rivals who took great delight in teasing everyone they could.
+
+“Thankfully Rags warned us,” An Ran said, thankful the man had some people who kept an ear on the transmission stone networks. They had tried to hide this one, but the ragged-looking cultivator proved why he had An Ran’s teacher’s trust. “An open bounty, and for that much silver…?”
+
+“I’m going to kill whoever put that out,” Xinlai agreed. “They’ll die a thousand deaths for this.”
+
+“Oh! I know a good one! You cut open their back, break their ribs open, then tear their lungs out the hole!” Narantuya said, a bloodthirsty grin forming on her face.
+
+“Makes them look like a fat, ugly bird,” Sarantuya chimed in.
+
+“...that one has merit,” Xinlai declared.
+
+“Let's just get ready for the next one,” An Ran said, sheathing her blade.
+
+They had to hold the fort here—and trust Rags would get to the bottom of this.
+
+====================
+
+===================
+
+Edited By: Brandon “Philosophysics” Zhang-Leong, BargleNawdleZouss,

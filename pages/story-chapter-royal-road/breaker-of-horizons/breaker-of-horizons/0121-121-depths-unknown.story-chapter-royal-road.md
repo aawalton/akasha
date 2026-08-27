@@ -1,0 +1,123 @@
+---
+id: e70af961-a27d-54da-ae3b-1db8203e1369
+page-type-slug: story-chapter-royal-road
+title: "121. Depths Unknown"
+slug: 0121-121-depths-unknown
+partOf: breaker-of-horizons
+position: 121
+ownLength: 2136
+unit: words
+publishedAt: 2021-06-28
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/707223/121-depths-unknown"
+royalRoadId: "707223"
+---
+
+Flying over the canopy would have been a lot easier because although the woods weren't dense, they were still not sparse enough for Caden and Lynus to simply open the proverbial throttle on the wings. Unfortunately, it was almost impossible for Caden to detect the trail left by Emilia if he stayed above the treetops, so they were forced to bob and weave through the trees.
+
+Although the flight artefacts didn't have any actual physical wingspan that they had to worry about, it was still difficult to deftly manoeuvre around the trunks and branches. Caden was having a slightly easier time of it than Lynus, though. The glyphs on the harness made an instinctive sense to him and he found that he was able to direct the artefact without having to use the control sphere interface. He wasn't exactly directing the artefact with his thoughts alone, but it was close. It was like having a mechanical arm grafted on, which he was only just becoming more proficient with.
+
+Lynus, on the other hand, had to grapple with the controls. They were designed to be intuitive but this was literally his first time using the artefact, and although he was doing remarkably well considering his total lack of experience, he wasn't able to fly smoothly and or with a fine degree of control.
+
+Caden's advantage meant that Lynus was lagging behind, so he slowed down a little and turned his attention to the trail left behind by Emilia. It was growing stronger, but it was difficult to tell how long ago it had been laid, or how far away she was. He didn't understand it enough yet to be able to make those deductions.
+
+"Do you know where we're going?" Lynus called over the sound of the wind in their ears.
+
+'No, I'm just following the trail,' Caden replied through the arcana, along with a suggestion for Lynus to do the same so they wouldn't yell and give away their position.
+
+Lynus complied. 'Where's Kevan?' he asked.
+
+The same question had surfaced in Caden's mind. Kevan had gone on foot, so they should have spotted him within a minute or two after setting off. Caden frowned. 'I don't know. Maybe he's augmenting himself with arcana and moving ahead. We'll probably catch up soon.'
+
+'Hasn't he left some sort of trail too?' There was a faint note of demand in that question, as though Lynus expected Caden to be more adept at picking things up.
+
+'No,' Caden sent back. It took him a moment to piece together his thoughts so he could explain the situation as he understood it. 'I don't think we naturally leave trails of our auric-ambient-flare in the arcana. Emilia seems to have done this intentionally, though I'm not sure how. Kevan likely doesn't know either, which is why there's no trace of him in the arcana.'
+
+Lynus was a knot of anxiety and frustration that was almost palpably emitting waves in the arcana. With a supreme effort of will, he reined himself in and stopped the emotional slippage. Caden sent a subvocal acknowledgement to indicate he understood Lynus' situation, and tried to convey some sense of reassurance. 'I'm sure we'll catch up in no time and he'll be fine. It's Emilia I'm worried about.'
+
+'If Emilia's trail is a trap, then Kevan's in danger, and so are we.' Lynus wasn't putting out waves of emotion anymore, but there was a definite edge to his tone.
+
+'A trap? I don't think so...' Caden hadn't considered that before, but it was quite unlikely. The trail was unmistakably Emilia's doing. He wasn't entirely sure about the mechanics behind why he knew with absolute certainty it was hers, but he knew this sense could be trusted. It was something rooted in the intimate connection he now had with the arcana around him — this gift of the augera.
+
+Any further debate on the matter was made unnecessary when they finally caught sight of Kevan. He was indeed sprinting through the woods, clearing several metres with each stride. He was definitely fast and he had come an incredible distance in a short period of time, but something seemed off. Their wings were faster, and by Caden's estimate they should have caught up to him a lot sooner.
+
+'Kev!' Lynus called out. His brother stopped in his tracks and immediately enveloped himself in shields, but he relaxed visibly when he looked up to see the two of them descending quickly.
+
+"How did you—" Caden began, but Kevan's hand snapped up in warning, calling for silence as looked around, tense and alert.
+
+Caden dipped a little more into the arcana, trying to pick up anything out of the ordinary, but no auric-ambient-flares presented themselves to him aside from Lynus' and Kevan's. Still, he kept quiet and wordlessly handed one of the other wing harnesses to Kevan, who slipped it on in silence, still looking about.
+
+When he was done, he finally whispered in the arcana, 'Something's not right about the woods. Just before you caught up with me, I thought I was being followed. But not by you guys.'
+
+'I didn't sense anyone,' Caden replied, though he coloured his response with a little self-doubt. It was unlikely that an ordinary arcanist could sneak up on him now that he had learned something fundamental about how auric-ambient-flares could be hidden, but that wasn't exactly a comforting thought now. 'If someone's really capable of hiding from me, they'll be very dangerous.'
+
+The twins exchanged meaningful looks at Caden's implied superior arcanic ability, but they didn't seem insulted or belittled. It was more like a grim acceptance.
+
+'What can we do?' Kevan asked. 'I'm not turning back, but we need to be ready if we're ambushed.'
+
+'We do a battery gestalt,' Caden suggested. 'You two serve as the frontline, and I'll supply the flow and cover us. If someone hits us, then hit them back hard with everything you've got. Try to take them out in one shot.'
+
+'You want to be the battery and run defense at the same time?' Lynus asked doubtfully.
+
+'It's not sustainable, but for a short engagement I should be able to manage,' Caden replied.
+
+'Ambrose gave you that combat-grade sequence, and you've even... uh... dismantled one,' Lynus pointed out, hesitating slightly as he chose a diplomatic word to skim over the catastrophic accident back in Geldor. 'I hate to admit it, but you're better-equipped than we are here. If we need the fight to end quickly, you should take point. Kev and I can do defense and provide extra arcanic flow if you need it.'
+
+Lynus was right. It was a bittersweet moment for Caden because even though he told himself it didn't matter, on some level he did want to be better than the twins. They were the ones who had referred to his Top Scorer status with a little condescension throughout their first semester in the Academy, and there was a sense of competition between them. Now, though, this concession from Lynus meant that Caden would have to be ready to exercise the full extent of his thaumaturgical ability and strike a lethal blow against someone else, even if it meant killing again.
+
+'Alright,' Caden sent, weighed down by a sudden heaviness.
+
+'Okay, Caden, you take point.' Lynus wobbled a little as he rose into the air again.
+
+'What's with that sloppy flying?' Kevan remarked, raising an eyebrow at his brother. His fingers danced over the control sphere and he launched himself off the ground and did a little spin before coming level with Lynus.
+
+'Show-off,' Lynus grumbled. 'You had time to study the glyphs before this. I just strapped this thing on a few minutes ago without taking a look at it. Now shut up and let's go get your girlfriend.'
+
+Despite the gravity of the situation, Caden found himself smiling a little. He reined in the impulse to one-up Kevan with his own adeptness at using the wings simply joined them in the air with quiet aplomb. With him in the lead, they set off through the woods at a decent pace.
+
+The trail led them on an eerily consistent course. It made allowances for trees and rocks, but other than that it kept to an almost perfectly straight line.
+
+'This isn't random wandering,' Kevan observed after another five minutes of flying. 'And even if you know where you're going, people don't normally move in such a direct path.'
+
+'You're using the word 'normal' on Emilia?' Lynus jibed. An instant later, he floated an apology through their link when a little flare of anger and indignation erupted from Kevan.
+
+'It's like something called to her,' Caden mused, ignoring the exchange.
+
+That was a disquieting thought that kept them in tense silence for another minute or so as they flew on.
+
+'How long are we going to stay on this trail?' Lynus asked.
+
+'Until we find her!' Kevan replied tersely.
+
+'I'm not saying we abandon her,' Lynus answered testily. 'But what if the trail goes on for a whole day? We can't leave the others and we've got to regroup at some point.'
+
+There was nothing except dogged determination radiating off Kevan and he didn't respond, so Caden decided to weigh in. 'If she set off right after Jerric went to sleep, that gives her almost an eight-hour headstart. If she walked non-stop, we'll probably catch up to her in two or three hours with the wings. If she ran non-stop with arcanic assistance, then maybe double that time.'
+
+'So six hours max, before we turn back?' Lynus asked.
+
+'I think if we don't catch up to her by then, we need to reevaluate what we know and figure out something else,' Caden replied, side-stepping the question.
+
+Kevan didn't raise any objection, but he didn't acknowledge the suggestion either. Caden suspected that if the six-hour mark came, he'd simply go on ahead alone. If that happened, Caden wasn't sure what to do. Letting Kevan continue off into the unknown by himself was the very definition of a bad idea, but leaving half the group behind waiting without news didn't seem wise either, especially since they were just parked out there, relatively exposed, while enemy agents and Imperial Nightwatchers were looking for them. Caden hoped they would find Emilia before that decision had to be made.
+
+Flying turned out to be a lot more exhausting than any of them had anticipated. The wings were mostly capable of powering themselves with the ambient arcana, but simply being held aloft like that was strangely tiring. They compensated by making use of Emilia's technique of using arcana to bolster their bodies, but that demanded focus. Caden was able to sustain that state without much difficulty, but Kevan and Lynus were beginning to tire even before the first hour was past.
+
+'I think a five-minute break will help,' Caden suggested.
+
+'No!' Kevan snapped. 'We're fine. Just keep going.'
+
+'Five-minute break,' Caden insisted, in a tone that brooked no argument. The arcana itself became a little heavier with his resolve, and the twins were so surprised that they simply stopped. When Caden landed, they did so too.
+
+"What was that?" Kevan asked, keeping his voice low. It was a mark of how mentally taxed he was that he had defaulted to verbal communication.
+
+Caden gave a rueful smile. "Long story. The short version is that I'm even more attuned to the arcana now. Anyway, while we rest, there's something I wanted to check. Kevan, how did you move so quickly earlier, on foot?"
+
+Kevan blinked. "It's simple arcanic assistance. What do you mean?"
+
+"We didn't leave that long after you did," Caden pointed out. "And we had wings. You've seen how fast they can go. We should've caught up to you almost, I dunno, five minutes before we actually did."
+
+Lynus frowned. "Yeah, that was odd. You were so far ahead of us, even on foot, and even with arcanic assistance."
+
+"I didn't do anything different. That's as fast as I can go." Kevan mirrored Lynus' frown as he thought it over. "You're right. Something's not adding up."
+
+Now that they were on the ground again, Caden walked over to Emilia's trail and scrutinised it again. It didn't seem markedly different. What could have caused that strange discrepancy in Kevan's foot-speed and their flight speed? And was it something they had to account for in their pursuit of Emilia, since she was on foot? Caden's heart sank. If travelling on foot was somehow faster than normal, they'd need more time than Caden had allowed for to finally catch up with her. But was that really possible?
+
+'It is,' the chorus of augera in the shell whispered to Caden alone. There was a note of worry in it. 'A wellspring is near.'

@@ -1,0 +1,171 @@
+---
+id: 1b492098-7728-5025-b061-02705cbfcede
+page-type-slug: story-chapter-royal-road
+title: "v4c33: The Tyrant or the Guardian part 1"
+slug: 0044-v4c33-the-tyrant-or-the-guardian-part-1
+partOf: beware-of-chicken
+position: 44
+ownLength: 2117
+unit: words
+ownProgress: 2117
+publishedAt: 2023-08-14
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1309703/v4c33-the-tyrant-or-the-guardian-part-1"
+royalRoadId: "1309703"
+markedReadAt: "2026-06-29T18:52:51.863Z"
+---
+
+Tigu yawned and stretched, arching her back. Her feet pounded along the road, along with several others. They were on one of the back routes, to avoid the constant traffic on their way to their destination.
+
+The path to Grass Sea City took Tigu and her companions southwest. It was largely a pleasant journey, save for the occasional rain storms. They spent their days walking, cultivating, and training… or in Yin’s case, taking every opportunity she had to needle Tigu about the name of her little brother.
+
+It was mutiny! It was rank betrayal! Her little brother’s name would surely be Kai!
+
+But aside from the traitor, things were going well! Tigu had managed to jump off of air, like her Master had said was possible. She had kicked the air so hard it had become solid for a brief instant, which had allowed her to use her movement technique even while most couldn’t move at all!
+
+Naturally, she immediately challenged the Blade of Grass, and they had a most agreeable fight. Tigu had even broken through to the next stage of her cultivation from that accomplishment! They had a little party for her like they had had for the Torrent Rider, in a little town by a river. That had been a wild night! The entire bar had joined in on the party… including two cultivators that Tigu couldn’t quite recall the names of. They had eagerly joined in on congratulating her.
+
+Or at least she thought she had. They had been happy for her to be at the Third Stage of the Profound Realm. Just a little bit under Xiulan again, but in time, Tigu would challenge her again as a complete equal!
+
+She could tell Xiulan was looking forward to it too.
+
+Their stride ate up the li, and Tigu knew they were close when, on the horizon, they saw something looming.
+
+At first, Tigu thought it just a trick of the light… but she swiftly discarded that thought as she focused on piercing through the haze that day.
+
+Because rising from the ground, like a great wave cresting the horizon, was Yellow Rock Plateau. They were still over three hundred Li away from the border, but they could already see the massive edifice of stone that sprouted from the ground. Tigu, Yin, and the Torrent Rider had to just stare at it. It was one of the biggest things Tigu had seen in her life. People said that the Howling Fang Mountains were bigger, but those were mountains—they were jagged and had peaks and valleys. This was just a natural wall, uniform in height and carved at a near perfect 90 degree angle.
+
+Tigu whistled.
+
+“Quite a sight, isn’t it?” Handsome Man asked as he stood beside her. “I’ve been down this way a few times, but it always takes my breath away.”
+
+“I can see why. It's… it's beautiful,” was all Tigu could reply with as she gazed at the plateau.
+
+“The wall that separates the Azure Hills from the rest of the Empire. The great Yellow Rock Plateau,” Xiulan chimed in. “It's beautiful and treacherous in equal measure. The only safe way up is through the pass near Grass Sea City… which we should be able to see tomorrow.”
+
+They moved forwards with renewed purpose after that.
+
+Her eyes kept getting drawn to the landform. She was so distracted she was only listening twitch half an ear as Rags told a story. As they got closer, Tigu started to make out more details. While the predominant colour was a yellowish rock, there were bands of red, white, and even pale blue that ran in continuous lines through the side of the stone.
+
+“—and so I grabbed him and said, ‘when I’m through with you, there’ll be two of us with faces like an ass!’” the man declared, finishing part of his tale. Xianghua, Loud Boy, and Yin doubled over with laughter, while Xiulan let out an undignified snort.
+
+“I think most cultivators only see the upper districts,” Xiulan said after a moment. “It's quite beautiful there, but Underbridge is… Underbridge.”
+
+“Don’t I know it. I’m impressed you went into Qiao Xia,” Rags said, looking with more respect at Xiulan. “But I guess the Face Snatcher Gang had to have some fallback points there.”
+
+“Underbridge and the sewers,” Xiulan replied, grimacing slightly.
+
+“Underbridge?” the Torrent Rider asked. “The Face Snatchers?”
+
+“You’ll see Underbridge when we get there,” Rags stated simply. “We can poke around for a bit—I think I got a few contacts, maybe. But the Face Snatcher Gang? They’re what drove the Farrow Gang out in the first place.”
+
+Rags launched into a story of how his gang came to be—the most desperately poor people in the entire city fleeing the mad leader of a gang that ripped people’s faces off and used them as masks.
+
+A gang that Xiulan had destroyed.
+
+While Rags’s story was somber, his highly embellished tale that he had learned from a friend of a friend about how Xiulan had destroyed the gang brought the mood back up, especially with Xiulan’s blushing face, annoyed that she was once more portrayed as a pristine fairy handing out judgements… instead of the apparent slog the sewers had actually been.
+
+“I honestly don't remember most of it,” Xiulan said. “It was like a waking nightmare. I wasn’t… fully there, as it was.”
+
+“Indeed. Our Blade of Grass was courting death—she broke my arm when I said it, but she was gripped by madness. It's good that she has found her peace and laid her ghosts to rest,” Xianghua said.
+
+Tigu couldn’t help but agree.
+
+================
+
+They spent the night in a small village off the beaten track. Well, small for the Grass Sea. It was about twice the size of Hong Yaowu.
+
+The villagers welcomed them cautiously, for they were a group of obvious cultivators—but as soon as they found out the Blade of Grass was amongst their number, the greeting became much less cautious.
+
+“Three cheers for the Demon-Slaying Orchid!” the headman roared, and the rest of the villagers cheered.
+
+It was always hilarious to watch how Xiulan squirmed uncomfortably at the attention. Tigu noticed she seemed… less put off by it this time. She seemed calmer. More at peace. Instead, she deflected compliments rather than refusing them.
+
+Seeing how permissive Xiulan was, the children of the village grew bolder. They got closer and started asking questions of the famous Demon-Slaying Orchid. “Was it like the song?” one child asked, his grin bright. “Did Sun Ken squeal like a pig?”
+
+Everybody had heard the Tale of the Demon-Slaying Orchid. The song was sung by bards across the Azure Hills. Tigu had heard it so often she was sick of it. It was triumphant. A story of a lone woman who challenged a bandit army and crushed them. It was very popular, and had no relation to truth at all.
+
+Tigu grimaced. Xiulan’s face normally went cold at that question, her eyes growing hard.
+
+This time, however, she smiled. “I’m afraid it wasn’t like the songs the people sing—I wasn’t alone. I had a lot of very dear friends beside me.”
+
+“Pa said Sun Ken was real strong—she musta had all these cultivators with her!” another child exclaimed, her voice full of certainty.
+
+“I did have cultivators with me, but they were only from the Verdant Blade Sect. I met most of my friends here after. No… my friends were mortal soldiers.”
+
+There was a moment of silence at Xiulan’s words.
+
+“Really?”
+
+The children were excited… while the adults leaned in closer, intrigued.
+
+“Mhmm. They were my good friends who helped me defeat Sun Ken and his gang. They taught me a lot. Would you like to hear about them?”
+
+“Yes!” the children cheered.
+
+“Then let me tell you about the Little Blades of Grass who challenged the Demon Blade…”
+
+Xiulan’s voice was quiet, yet captivating. She told the tale of a Young Mistress and her beloved, brave soldiers, marching off to war. The entire village had stopped to listen to the story—the real story, told by the Demon-Slaying Orchid herself.
+
+Tigu sat back to listen. Xiulan certainly had gotten better at telling stories. It was interesting to see her able to capture an audience so completely. People laughed as she wove in the bad gambling habits and the bawdy humor of the men.
+
+Tigu chuckled along too—and then noticed somebody who hadn’t joined in the impromptu party.
+
+A young woman was pacing, worry clear on her face. Restless. She had tried to sit down and listen to Xiulan, but couldn’t for long before her face twisted and she marched off.
+
+Tigu frowned at the woman, the entire thing seeming odd. Glancing around the village square, she spotted the headman, and approached him.
+
+“Village Chief.” She said.
+
+“What—” the man aksed, sounding a bit annoyed at Tigu interrupting him listening to Xiulan’s story. He turned, and realised who he was talking to. “I mean… yes, Lady Cultivator?
+
+“That lady who just walked away. Who was she?”
+
+The man blinked. “Lu Fang? Oh—begging your pardon, Lady Cultivator. Her husband went to get her maternal family for their son’’s name day ceremony. They were supposed to be here this morning. Her husband takes the trip often… but… They’re late. She fears for them.” He looked nervous at addressing her. “Nothing to inconvenience yourself over, they probably just got held up!”
+
+“How long ago were they supposed to be here?” Tigu asked.
+
+“They always take three days to get to the next village over, and three days back. Still, no need to worry about this small matter!”
+
+“Hmm,“ Tigu replied.
+
+A missing family was a small matter.
+
+She glanced back at where the woman had gone… and then stood.
+
+Tigu found Lu Fang kneeling before a shrine. It was a small one, made to Zhong Kui, the King of Ghosts, Slayer of Demons. He was said to protect against calamity and deliver the righteous from the wicked.
+
+The woman’s face was pinched and lined with worry. A part of Tigu told her it wasn’t any of her business. The part of herself that conquered territory for Fa Ram and toyed with things before killing them. It was a quiet voice, these days.. But it was still there, occasionally whispering in the back of her mind.
+
+Tigu pushed it away. It wasn’t like it was too far out of Tigu’s way…
+
+“Miss,” she said and the woman jumped at the sound of Tigu, scrambling to her feet to bow to her. “Which road was your family supposed to have come down?”
+
+The woman’s head rose up. She stared at Tigu standing over her. Two burning yellow orbs were reflected in Lu Fang’s own dark eyes.
+
+Eyes filled with hope.
+
+============
+
+Tigu raced down the road in the direction the lady had given her. Behind her, Yin and the Torrent Rider kept pace, the Torrent Rider carrying his dog, Shaggy Two, on his back.
+
+“You think we’ll find anything?” Yin asked, her voice slightly bored.
+
+“I don’t know,” Tigu replied. “But… well… Master and Mistress say what goes around comes around! A good deed now is good karma!”
+
+Yin raised a delicate eyebrow. “You know, when you say things like that, it's hard to believe the stories the others told me about how you used to be.”
+
+Tigu flushed. Yin was right. A year ago Tigu wouldn’t have cared at all. Lu Fang wasn’t her family. But… well, looking at the woman had made something unpleasant bubble in Tigu’s gut. “I’m merely obeying my Master and Mistress’ orders, and fulfilling my oath to protect the weak!”
+
+“We’re heroes, like Master!” The Torrent Rider agreed. His voice was slightly strained as he struggled to keep up with them. Shaggy Two was tied to his back, the dog looking ahead with his tongue lolling out in the wind. “And.. I’m worried too. You don’t just not look for people!”
+
+Tigu knew he was genuinely worried. Zhang Fei was speaking from experience. His village had nearly been destroyed by Spirit Beasts, and as soon as he had heard about Lu Fang’s predicament, he rushed to lend his aid and Shaggy Two’s nose.
+
+Tigu had convinced the rest to stay behind. It was hopefully nothing… and with Tigu and Yin, they would be able to handle any threat..
+
+Yin nodded. “If there's anything dangerous, I’ll rip its colon out its throat.”
+
+Tigu and Zhang Fei laughed—when suddenly something punched Tigu in the nose.
+
+She froze at the familiar smell. Shaggy Two started growling as the Torrent Ridder skidded to a stop.
+
+It was the smell of human blood.

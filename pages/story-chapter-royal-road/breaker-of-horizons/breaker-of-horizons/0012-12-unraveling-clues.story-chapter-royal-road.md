@@ -1,0 +1,119 @@
+---
+id: 8cb1d47c-4b94-5800-8e71-2bb0b7fdfe47
+page-type-slug: story-chapter-royal-road
+title: "12. Unraveling Clues"
+slug: 0012-12-unraveling-clues
+partOf: breaker-of-horizons
+position: 12
+ownLength: 1955
+unit: words
+publishedAt: 2020-06-11
+link: "https://www.royalroad.com/fiction/32123/just-a-bystander/chapter/509024/12-unraveling-clues"
+royalRoadId: "509024"
+---
+
+Once Kant had put away his book and invited us to sit, he spent the rest of the time breaking down everything he had learned about our sequences during the demonstration, and critiquing how effective they had been. Instead of simply telling us everything, he posed difficult questions that got us to consider our own glyph sequences in a different light.
+
+Triss' beams were easily the hardest-hitting attack amongst all of our sequences, but we learned that staying in one place for that long was a luxury that thaumaturgists wouldn't always have. Reyes asked if it was possible to channel a beam like that while moving, to which Kant simply replied with a smile, "See if you can find a way to do that, then use it against me next time."
+
+Then he discussed the biggest failing we had — predictable directions of attack. "Only Caden," he said, turning to me with an approving nod, "managed to break out of that mould at the end. He learned how to control the direction of his arcanic flow even after the sequence has been cast."
+
+I got a few appraising looks from the rest. "How did you do it?" Reyes asked.
+
+"No," Kant cut in before I could say anything. "There are some safe shortcuts to knowledge and understanding, but this is not one of them. In our Thaumaturgy class, you will break your minds against the unyielding rock of combat, and you will learn from that trial. If you try to take the short way through this, you may irrevocably stunt your ability to develop finer control. The rest of you must apply yourself to developing this aspect of your arcanic control as your first order of business."
+
+This sounded a lot like what Ambrose had said during our 'Double Thau' last night. It made me wonder if he had received some kind of higher training prior to even arriving at the Academy. I had never heard of this kind of precaution that had to be taken when delving into arcanophany, even from my father.
+
+Reyes tentatively raised a hand. "Si-.. er... Marcus. How did you channel enough arcana to fuel two copies of our sequences?"
+
+"And somehow even manage to enhance them," Triss chipped in, looking very sour.
+
+Kant shook his head. "That's another thing I can't tell you outright. I'll just say that you need to study the glyphs in your own sequences a little more closely, and read up on glyph theory. Your Advanced Glyphs studies should cover enough ground for you to piece it together."
+
+I thought back to how just having a different understanding of the glyph denoting 'origin/source' allowed me to direct the arcs with my will alone. I guessed that it meant that glyphs held more than just one straightforward meaning, and simply grasping concepts and tying them to the glyphs somehow affected what could be done with them.
+
+I was beginning to see why Celwyn, our Advanced Glyphs tutor, had said that glyphs really were a language, and it was entirely possible to invent new glyphs.
+
+By the end of the session, Kant had drilled home three simple points.
+
+First, mental discipline matters. He pointed out how our sequencing could have been more efficient if we had simply managed our emotions better. This was especially directed at Emilia, who schooled her expression into one of stony acceptance.
+
+Second, read your opponent. In fifteen minutes of painful, surgical analysis, he described the tells that we had which made it easier for him to anticipate our strikes. Even my invisible arcs were clearly telegraphed because of where my eyes went as I picked out target points to calculate the right trajectory.
+
+Third, arcanic control matters more than complex glyph sequences. Using some arcana to form images, he perfectly replicated all the glyph sequences we had used, and then gave us a glimpse of his own modifications. They were all at least half as long, some even just a third of the length of the original, even including his adjustments to make them more powerful than our original sequences. Before anyone could copy them down, he erased them. It was clear that his level of control was making entire segments of our sequences completely unnecessary, which partially explained how he could juggle so many things at once in his head and how he had managed to cast so quickly. But it was still frightening. Even with his simplified sequences, what he had done in combat against us was the equivalent of multiplying 10 pairs of two-digit numbers in the time it took me to say my full name, and getting all the answers right the first time.
+
+"Couple of things before we're done. Everyone but Caden, Emilia, and Reyes need to independently come up with a shield sequence that will stand up to one of the barrages I've used today at a quarter the arcanic load. I'll test your sequences next week. And Caden, your prize."
+
+He tossed the bodice-ripper at me. I was so surprised that I almost dropped it. Triss snickered.
+
+"Knock yourself out," he winked.
+
+"Make sure you all make some progress on the stuff we covered today, or I'll do more than just knock you over at our next lesson."
+
+And with that ominous declaration, he walked out the door, whistling as he went.
+
+"What is that?"
+
+The dormies (as I had come to call my dorm mates, in my head) and I had gathered at the library cafe for lunch again. I privately wondered how well-heeled the rest of them were, because some quick mental sums told me that the allowance money my parents had given me wouldn't last long if this became a regular thing.
+
+Kevan was pointing at the bodice-ripper in my hand. I had decided against putting it in my bag because I didn't want it touching my other belongings.
+
+"You can have it," I said, tossing it to him in what I hoped was a good imitation of Kant's blase manner when he had 'gifted' it to me.
+
+"No way." Kevan turned the book over in his hands, his eyes alight with mischief. "You, the Top-Scorer, read this stuff?"
+
+The looks that the others were giving me ranged from disgusted to lewd. We really did have all the 'types' in our little group.
+
+"It's not mine," I spluttered. "Well it is now, but it wasn't before, I mean—"
+
+"Hey, no judgement! I mean if this is what you read, that explains why you study hard," Kevan grinned.
+
+"It's from Thaumaturgy!" My face was burning. "It was a prize for—"
+
+"You mean you actually wanted to win that?" Devon was bewildered.
+
+"What?! No, I didn't know, I... ARGH!"
+
+I spent the rest of the lunch being the subject of merciless teasing from Kevan. The others were so amused by the situation that they didn't do anything to stop him. On my part, I tried to look at the positive side — at least this kind of helped to alleviate the tension after our Double Thau argument earlier in the morning.
+
+As it turned out, none of us were in any shape to attempt to practice more thaumaturgy ourselves. Kant had been the most intense out of all the tutors, but it didn't mean that the rest were that much softer. Jerric reported that at the end of the lesson, his tutor, a young woman named Debra Wyrnn, had locked them in with an arcane ward on the door of the classroom that all of them had to work together to break if they wanted to leave for lunch. It was simply a test of brute strength, and even though she had set up the ward alone, all ten of them had to push so hard to break it that everyone had overdrawn. The others had tutors who engaged the entire class in battle, much like Kant, but without as much overwhelming power.
+
+"Looks like Thaumaturgy class is basically just a time when they beat us up," Devon complained.
+
+"It's to build arcanic control over time," Ambrose piped up, striking a consolatory tone. "You'll overdraw less as time goes by."
+
+"Are you overdrawn?" I asked. He did look tired, but nowhere near as worn out as the rest of us.
+
+He didn't answer immediately, and he looked like he was trying to decide how much to downplay it. Kevan took that decision out of his hands.
+
+"You're not even close, are you?" he asked bitterly.
+
+The look of indecision on Ambrose's face gave way to resignation. He nodded. "Probably can have another Thaumaturgy class at that intensity before I overdraw."
+
+"How's your control so far beyond ours?" Kevan demanded. Thankfully, he didn't seem antagonistic, just frustrated with his own progress.
+
+"I... well, I've started earlier. I've had this kind of combat-worthy training for a little over a month."
+
+"Why?" Devon asked curiously. "Is this an Academy thing or a private thing? Did your family pay for some kind of extra arrangements?"
+
+"I'm sorry, guys, but I'd... rather not say. I'll keep sharing what I can about what I've learned, but..."
+
+"That's more than enough, you don't owe us anything," Jerric said. "Thanks, Ambrose."
+
+Maybe it was my recent epiphany with arcanic control, but I felt a sense of something else clicking into place in my head. Ambrose's reticence, his greater hold on arcanic control, the mysterious provenance of his extra training... he was special somehow. And if I had to narrow things down about what made him special, then the obvious conclusion was...
+
+I looked at Ambrose. He met my eyes and seemed to see the conclusion that I had come to. I didn't really know what my expression was, but I was pretty sure I wasn't keeping a straight face.
+
+"I promise I'll tell you guys more when I can," he said to everyone in general, then seemed to look back to direct that statement particularly at me.
+
+Oh Fates. I felt the floor vanishing beneath me. Is he the Chosen One?
+
+If the rest saw anything odd about this exchange, I couldn't tell. Jerric might have picked up on something, but I was far too preoccupied with my own racing thoughts to read anything from his expression. I was really too shaken by the conclusion I had come to. The more I thought about it, the more things seemed to fit. His mysterious access to facilities that none of us knew about, his superior arcanic control and extra training, even his odd declaration that he would help me challenge Fate after that brief conversation when I told him about my own rejection of the existence of the Fateweavers...
+
+And once I was convinced of it, my mind automatically raced off on other trains of thought. One was professional indignation or anger — if all this Chosen One business and the Prophecy was real and more than just some imperial propaganda, then why was he being so slack about keeping his identity a secret, especially when so many resources had already been poured into hiding it?
+
+Another train led me to furious speculation. What if he was doing it intentionally? Then why us? Did this mean we were going to be involuntarily drawn into this Prophecy? How was this fair? Could we unbind ourselves?
+
+I stewed for the remainder of the lunch, dropping out of the conversation entirely as I mulled these things over. Distantly, I could tell that the others noted my withdrawal, but I decided I could explain it away as just a case of exhaustion from overdrawing.
+
+Ambrose kept shooting glances at me periodically, and each time he looked my way, I thought I caught some regret in his eyes.

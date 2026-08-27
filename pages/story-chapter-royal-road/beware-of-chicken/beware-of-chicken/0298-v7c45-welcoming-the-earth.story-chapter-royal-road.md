@@ -1,0 +1,161 @@
+---
+id: faa29459-9747-5f0f-b40e-97366de3a0b4
+page-type-slug: story-chapter-royal-road
+title: "v7c45: Welcoming the Earth"
+slug: 0298-v7c45-welcoming-the-earth
+partOf: beware-of-chicken
+position: 298
+ownLength: 2145
+unit: words
+publishedAt: 2026-04-05
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3233251/v7c45-welcoming-the-earth"
+royalRoadId: "3233251"
+---
+
+Ulagan Baatar, Master of the Grand Ravine, breathed heavily as he practically collapsed into a chair.
+
+“You were correct, grandson. His presence was….” he trailed off. All those who had not felt Master Rou’s might before were in a similar state, their eyes wide and spirits trembling.
+
+It had taken all of Baatar’s will not to fall to his knees outright and shame his ancestors when Lord Rou had turned his gaze upon them.
+
+His son and grandson had spoken of Master Rou. They had been adamant that his might was beyond all other men. They had described, in detail, how his very presence made the earth tremble.
+
+But so too did Cai Xiulan feel of the Earth. She could make the Dueling Peaks acknowledge her presence as a leading figure. If she called upon her true power she could shake the entire province. Among his people there was some debate on who was the true Herald of the Earth between them.
+
+Had Cai Xiulan not united them? Had she not returned to them their pasts? Had she not proven herself a capable leader? All knew such things to be true. She was a friend of the Ravine. She had the Earth in her bones.
+
+And yet Master Rou’s entrance removed all doubt. Cai Xiulan was a spring, a warm upwelling of strength and embraced by the power of the Earth.
+
+Master Rou was the Earth. His presence enveloped the Dueling Peaks. The venerable mountain allowed Xiulan to command it. It prostrated itself before the man who now stood before them, growing grass and igniting ancient systems.
+
+The very peaks themselves welcomed him home.
+
+A presence of something greater, something that felt like the Ravine’s most sacred place, ghosted around Cai Xiulan.
+
+Now, in Master Rou's presence, it suffused the very world; It felt like ten thousand of those golden spires their people worshiped as the blood of the Earth. It was heady. Nearly intoxicating. He could feel it upon his shoulders, weighing him down ever so gently. Yet it was not an oppressive weight. It was almost comforting.
+
+“He's… even stronger now, Tarkhan whispered. “The feeling was nowhere near as intense the last time. Before it was a whisper that I had to listen for. Now, after seeing the memory crystal… it's so clear.”
+
+“And all shall proclaim them friend. The Sects. The Tribes. Even the beasts and the trees shall bow their heads and know the Herald of the Earth,” Temuulen, who had been here with Tarkhan at the tournament, whispered.
+
+His words caused several heads to bow. “The Wisdom of the Ancestors is without flaw.”
+
+“And their descendants shall heed this wisdom,” Baatar replied. “A dragon is his herald. That would be proof enough. Yet every Spirit Beast he meets serves him, becoming docile and kind. Bi De, who is in the Spiritual Realm. The monkeys of Crystal Hill. The ox who wields a Spirit Weapon as a plow… and even the bees.”
+
+“The bees?” Tarkhan asked; several others also looked confused. Baatar did not entirely blame them. Were he a younger man he might have missed it too.
+
+“They were on top of the carriage, surveying the crowd as if they were guardsmen—no, I suppose they are guardswomen,” Baatar murmured, before another realization was made. “The Wreckerballs. We thought it merely the knowledge of our Ancestors working through On Gang that stopped their feud. Yet is Master Rou’s spirit so vast that he even made those Spirit Beasts willing to talk?”
+
+Again, Baatar was humbled; they all were. The Herald of the Earth’s power was something beyond them, and they had only seen the foothills of the mountain that towered to the heavens.
+
+“What of the two women with him? His servants? They were hiding their Qi, and I could not get a sense of them,” another kinsman asked.
+
+The two women gave Baatar pause. Both hiding and suppressing their might to the point where he would have to be rude to better gauge them, pressing his Qi to touch theirs.
+
+Which meant they were nearly as strong as he was... or stronger.
+
+Two high—at least— Profound level cultivators as guards for his servants and his son.
+
+“I believe they are Yun Ren and Gou Ren’s kin,” his grandson opined. “Their eyes, the shape of their face… it fits, I do believe. The one given the honour of holding Master Rou’s son I managed to catch the side profile of. She had a blue hair tie, with what looked like the symbol of their tribe.”
+
+“Good catch, Tarkhan,” Baatar praised his grandson. “Indeed, their eyes are similar… but I had no idea our northern cousins had such power within them. Perhaps they are more of Master Rou’s disciples?”
+
+The room fell into murmuring for a moment.
+
+“What is the path forward, Patriarch?” one man finally spoke.
+
+Baatar did not hesitate.
+
+“That he is the Herald of the Earth is clear. Let none be in doubt. Carry news back to the Ravine, as soon as we are able. As for tonight? We shall watch and wait. Let the others crowd him and try to curry favour. They will be battling to convince him to visit their sects. He has already agreed to visit the Grand Ravine, so this battle is won. Engage with his servants instead. Make conversation, and ensure they have a good impression of us. Greet our cousins, if they are such, and bid them welcome to the Ravine. Engage even the ox and the bees, if they are able to make conversation.”
+
+There were nods all around.
+
+“Grandfather, am I to approach him?” Sarnai asked. His granddaughter looked nervous and excited in equal measure. She was their most beautiful rose; a sincere and sweet girl. She had been informed of the possibility of them offering her as servant… or as wife to the Herald of the Earth, to show their sincerity and bind them closer.
+
+Sarnai clearly was not opposed to the idea. He was the Herald… and from what he could tell beyond that, Sarnai found the man quite attractive.
+
+Yet there was one thing in the way.
+
+That a powerful cultivator had a powerful wife was of course natural; Lady Meiling’s power was in no way lesser than her husband’s…  but in spite of that, she hadn’t seemed to make much of an impact. She had greeted them politely, then faded into the background again as Master Rou kept all the attention.
+
+But something about her had kept Baatar’s vision upon her, even after she stepped back.
+
+She was neither one of those Imperial Jade beauties, nor the hawks or wolves Ravine men cherished. She was more handsome than beautiful, with a brace of freckles across her nose and cheeks.
+
+But her eyes.
+
+They had met, when she looked out over the crowd. For a brief moment Baatar saw constellations, soaring over the world before the moment passed, and he averted his gaze.
+
+If there was one thing he knew… it was that making an enemy of her would be disastrous.
+
+“Our Grand Marshal said he is devoted to his wife. We need more information before we commit to a plan and insult either of them,” Baatar commanded.
+
+His words received more nods. Baatar took a deep breath, steadying himself. He would need all of his composure to survive the night.
+
+============================
+
+“Is everyone ready?” Bai Huizhong, Lord Director of Spiritual Ascension Affairs for the Azure Hills, demanded, pacing into the Earthly Arena. His gut was clenched with stress. Normally, he liked to think he thrived in situations like these, but tonight if anything went wrong… well, he shuddered to think of the consequences.
+
+They were hosting a big wig. The tip top power. A man who was a part of the Cloudy Sword Sect… and Cai Xiulan had put mortals in charge of this section.
+
+Well, they were normally in charge of it, but they weren’t in charge of doing this much… stuff. The only saving grace was that the Grand Marshal was smart enough to give them plenty of practice time for the show that was about to start.
+
+Huizhong liked the Grand Marshal. She was a surprisingly reasonable woman. More reasonable than most of his superiors in Pale Moon Lake City, at any rate, and a damn sight easier on the eyes.
+
+“Yes, Lord Director! Everyone is in their places,” Bao Wen dutifully informed him. The young man was distracted, waving around his control rod. Huizhong left him to it, even though he kept playing with his sleeve. This section of the mountain was recently excavated, and they were surrounded by glowing runes.  Huizhong almost didn’t believe that the mountain was capable of what they were about to do with it… but well. It was. He had seen it
+
+Huizhong glanced around the area beneath the arena, where more of the arena keepers were going through the same motions as Bao Wen, almost dancing. The floor above them pulsed, and the crystals around them glowed a lot brighter than he was used to.
+
+“Is that… good?” he asked, then mentally kicked himself for distracting the boy.
+
+“It's better than good. It's  really working with us today, Lord Director. I can feel it. It's… happy? Eager?”
+
+…that sounded preposterous, but even he had felt the Qi from the cultivator outside. Was it helping the systems out?
+
+“He's on the move, getting seated now!” somebody shouted down at them.
+
+Bao Wen nodded and turned to the person beneath the stage with them.
+
+“Lady Xinling? Whenever you’re ready, My Lady,” Bao Wen said, smiling at the Sect Master of the White Water Sect. “You’re going to look stunning.”
+
+“Thank you, young man,” the cultivator said, warmth in her voice. “I know how hard you’ve been practising.” She stepped past Bao Wen and gave him a light pat on the shoulder. All of the Elders were oddly affectionate to the boy, treating him like their own grandchild.
+
+Huizhong was grateful for it. Bao Wen made a fine messenger whenever there was a bit of bad news, or he needed some paperwork that the Elders always dragged their feet about giving him.
+
+Bao Wen would always come back smiling, the task complete.
+
+“Cue! Lord Director!” Huizhong nodded, sending one last worried glance to the bright crystals, before hurrying up the stairs and taking his place at the Resounding Crystal Dias.
+
+The stands of the Earthly Arena had been transformed. Instead of the normal arrangement, all of the seats had shifted to one side, forming a single raised platform, replete with massive tables for the cultivators to sit at. The head table, where Master Rou would be sitting, was raised up on a dais at the back, so those sitting at it could see the arena below and the rest of the platform.
+
+Master Rou, led by the Grand Marshal, took his seat; surrounded by the various sect masters. When he sat, the rest of the attendees sat as well.
+
+One of his men held up three fingers, then two, then one, then pointed at Huizhong.
+
+The Resounding Crystal Dias flared to life. Bai Huizhong took a deep breath. Formal function, not tournament announcer today.
+
+“The Azure Alliance welcomes Master Rou Jin to the Dueling Peaks,” Huizhong said, his voice rolling from the dias smoothly, instead of crackling with static like it once had. “We pay our respects, and hope that he finds our hospitality agreeable. We have arranged several attractions for your viewing pleasure. Please enjoy the first act.”
+
+He tapped the crystal in the correct location. The signal was sent. All of the glowstone dimmed, leaving everything in darkness, except for the arena floor.
+
+Then, the Earthly Arena changed.
+
+From the tiles themselves, water suddenly rose. It filled the arena not with a roar, but the soft bubbling of a spring. It was crystal clear, and sparkled under the lights. Mist immediately started forming atop it, shrouding the entire thing from view.
+
+The single clear note of a guzheng sounded out, echoing across the arena.
+
+Then, the center of the arena opened up and a platform rose. None of the water fell back down the hole. Instead it rose with the platform, enveloping it in a bubble of liquid.
+
+The guzheng sounded again, continuing the first notes of a classic song.
+
+Then, the bubble burst into a thousand shimmering droplets, the water hanging unnaturally in the air.
+
+There were gasps of shock and awe from the crowd.
+
+Lady Xinling, seated on the platform with her guzheng, looked like an ethereal water nymph. She didn't have on her veil, and her eyes focused upon the head table.
+
+“Welcome to the Dueling Peaks, My Lord,” she intoned, and then began to play.
+
+Lady Xingling truly was stunning at the guzheng.
+
+And that was only the first part of the evening.

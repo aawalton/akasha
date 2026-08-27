@@ -1,0 +1,117 @@
+---
+id: 8c4ea22f-96e0-57f9-943a-dacdfbe788e1
+page-type-slug: story-chapter-royal-road
+title: "v5c26: No Plan Survives First Contact"
+slug: 0132-v5c26-no-plan-survives-first-contact
+partOf: beware-of-chicken
+position: 132
+ownLength: 1597
+unit: words
+ownProgress: 1597
+publishedAt: 2024-07-29
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1735983/v5c26-no-plan-survives-first-contact"
+royalRoadId: "1735983"
+markedReadAt: "2026-06-29T19:01:20.830Z"
+---
+
+Fa Bi De took in a deep breath, then released it. His eyes opened. Darkness greeted him. Darkness, and walls of stone. The walls of the little sanctuary they had created in the tunnels outside their enemy’s base, hidden by Nezan’s illusions.
+
+He idly wondered how he kept finding himself underground, because he very much hated being surrounded by stone. First the map that led him to Xiaoshi’s memories, then the Crystal Hill monkeys, and now a secret side passage where they were preparing to face down demonic cultivators.
+
+At least this time, ironic given what this place held, the walls did not feel so oppressive. Perhaps it was the fact that he was stronger now…or perhaps it was because it was so close to the solstice. He could feel the moon’s presence here in this place beneath the earth. It was the most powerful he had ever felt; on the eve of the longest night of the year, in this perpetual darkness, shining down on the cold tundra.
+
+It helped, refreshing and rejuvenating him after the brutal journey through Master Forest Sweeper’s conjured storm. Even with the protections the Thunderhoof had granted them, it had not been pleasant. The terrain had been a nightmare to navigate at the best of times, and it was only due to Shao Heng and Spooks that they got here as quickly as they had. But that arduous journey was only the first half of their task. They had managed to steal into the tunnels surrounding their foe’s base undetected. Now, they needed to actually defeat their foe. They had already found what was going to be their entrance to their enemy’s base: a partially collapsed tunnel Ri Zu had found with her shadowy Qi constructs.
+
+He looked to where Shen Yu and Nezan stood. The old man and fox would be held in reserve to do the heavy fighting—if the opponent who had defeated Zang Shenhe reared his head, he would be crushed by Shen Yu.  The rest? That would be up to Bi De and his companions to manage.
+
+The old man nodded to Bi De.
+
+Bi De rose to his feet; he had noticed that his natural appearance…well, it did not inspire as much confidence in his comrades. A human form was easier for them to see as equal. It was likely a natural, instinctive thing, and he wanted them to feel confident until there was need for his full fury.
+
+Bi De turned into the small, cramped tunnel, and looked back towards his companions. Their once wavering Qi had settled. Though some of them were still not one hundred percent… moving now was preferable to waiting and risking being caught before their strike could begin.
+
+Turning to his companions Bi De called them forward. “It's time,” he stated simply.
+
+Yun Ren, who had been resting his forehead against Summer’s Sky, let out a soft breath. His hands were shaking slightly, but he clenched them into fists. His amber eyes, locked in his perpetual squint, betrayed some of his nervousness. Yet he sheathed his sword and stalked forward, his gait predatory in a manner beyond that of a seasoned hunter. One lip curled, exposing two sharp, carnivorous teeth. Fox ears twitched on the top of his head, and a tail swished from his behind.
+
+Yushang pushed herself off from where she had been leaning against the wall and rolled her shoulders. There was no bright, bubbly smile on her face today; instead her gaze was focused, and her intent so sharp it rivaled Tigu’s.
+
+Han nodded at Bi De’s words. The portly man finished chewing the ration bar he had, his head held high and his eyes burning. “For the Che Clan,” he muttered under his breath. “Heroes. Demon-Slayers. Blade-fodder no longer.”
+
+Shao Heng clapped the younger man on the shoulder as he lined up beside Han. Shao Heng was simply prepared, like the veteran he was; what he lacked in the intensity that Yushang and Han had, he made up for by simply being calm and in control. A rock in a raging river, unbothered by the turbulence around him.
+
+Spooks the Thunderhoof let out a small snort, though he kept his presence suppressed,  the young Spirit Beast looked eager to begin.
+
+Fenxian and Yingwen simply settled in, lining up with the others and standing with their hands behind their backs and swords at their hips.
+
+“We thank you again for giving us the chance to assist in rescuing our comrades and Elder Shenhe,” Yingwen said. “Do not hesitate to spend our lives if they will buy us victory.”
+
+Bi De inclined his head at their resolve.
+
+Finally, Bi De turned to Ri Zu. She opened her eyes and in the shadows surrounding her a swarm woke. A hundred red gleaming eyes opened, shadowy forms began to caper, chittering and squeaking.
+
+All of them were prepared. All of them were focused. The hour was truly upon them. Bi De spoke into the tense silence.
+
+“It is my greatest honour that I shall do battle at your sides,” Bi De said. “To have such stalwart companions for the struggle ahead. I name each and every one of you my brothers and sisters; for what else could you be, when we are about to shed blood together?” He clasped his hands together and bowed. “Now, into the breach, my dear friends. Into the breach we go.”
+
+There was no shout of agreement. There was no raising of voices, even though Bi De knew that most of them wanted to—to shout and let off some of the tension.
+
+Bi De turned and strode forward. His companions followed behind him. It was like going to confront Sun Ken all those years ago, marching with the full might of Fa Ram at his back.
+
+Bi De had been arrogant then; full of himself, and assured of his utter superiority. He had swaggered up, full of insults and commands. He had walked openly, for he thought none could withstand him.
+
+He knew better now.
+
+They moved swiftly and silently, suppressing their Qi. Shadowy rats sprinted beside them, their red eyes gleaming in the darkness. They chittered occasionally to Ri Zu as they scouted ahead.
+
+‘The entrance is coming up soon. The guard just changed,’ Ri Zu whispered, her voice carried to their ears alone by Qi.
+
+Bi De nodded and held up his fist as they neared the partially collapsed tunnel they had spotted yesterday. The hole was too small for a human to pass through.
+
+But not for a rat.
+
+There was a muffled pop as Ri Zu transformed and drew her weapon. The once silver needle Han had made for her was stained black with poison.
+
+She glanced at Bi De, who nodded.
+
+Ri Zu disappeared through the hole. They waited for Ri Zu to handle the guard, their bodies tense.
+
+A moment later, a shadowy rat appeared in the gap and squeaked.
+
+Bi De held his hand like a knife and, with several swift slashes, widened the gap. He was mindful to make no noise, his hands a blur as he caught every errant piece of debris before swiftly throwing them back to be caught by his companions, which they gently lowered to the ground.
+
+And then…they were in. They were in a brightly lit hallway of stone. Ri Zu stood on top of a man’s shoulder. He was standing up straight, a weapon in his hand, yet his eyes were blank.
+
+All of his muscles, save for his heart and lungs, were completely frozen—a perfect mannequin that would stand up to cursory examination if somebody passed by this hallway, though the chances that he would ever truly wake up again were slim.
+
+They had successfully breached their opponent’s base, their enemy none the wiser. The plan was to stay as quiet as possible, dispatching enemies as they found them without raising an alarm, and keep catching isolated patrols by surprise.
+
+More of Ri Zu’s constructs dove into the shadows in the walls. The little rat listened intently for a moment, before pointing down the hall to the east.
+
+They moved along the hall until they came across another couple of guards, who were standing lax at their posts.
+
+Bi De took one. Shao Heng, his blade coated in Ri Zu’s poison, took the other.
+
+They paused again, and Ri Zu pondered the information her shadows brought.
+
+‘There are many-many passages,’ she whispered, dipping into her natural rat speak. ‘This one leads to the center, while this one contains the faint scent-smell of blood.’
+
+“Then we should head—’ Bi De started, but then paused when all of a sudden there was a pulse. The entire mountain shuddered.
+
+A wail began echoing through the base.
+
+“Intruders! Intruders in the base! Southeastern quadrant!” a voice boomed through the walls. ”All non-combatant personnel are to proceed to evacuation points!”
+
+Bi De recoiled in surprise and turned to Shen Yu—the old man had looked approving of their actions a moment ago, but for the briefest instant a frown flashed across the old man’s face.
+
+“There were no wards triggered,” Shen Yu stated.
+
+There was a clunk that echoed through the base.
+
+And then a deep set of booming roars and cackling laughter.
+
+“To the center!” Bi De made a snap judgement. “See if we can locate what found us and decapitate any leaders before they can attempt to escape!”
+
+They all exploded into motion, racing down the hallway—while Bi De suddenly gained a bad feeling in his gut.
+
+Who or what had revealed them?

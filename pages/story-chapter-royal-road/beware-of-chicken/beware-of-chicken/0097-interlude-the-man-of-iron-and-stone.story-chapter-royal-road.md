@@ -1,0 +1,147 @@
+---
+id: f957d180-4a0f-5b6e-addb-c11950b92ba6
+page-type-slug: story-chapter-royal-road
+title: "Interlude: The Man of Iron and Stone"
+slug: 0097-interlude-the-man-of-iron-and-stone
+partOf: beware-of-chicken
+position: 97
+ownLength: 1985
+unit: words
+ownProgress: 1985
+publishedAt: 2024-02-20
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1525190/interlude-the-man-of-iron-and-stone"
+royalRoadId: "1525190"
+markedReadAt: "2026-06-29T18:54:46.625Z"
+---
+
+In the dim glow of a light stone Tie Delun took deep, even breaths as he worked alone. He was standing in the middle of a granite tube, one twice as tall as he was. His hammer gently tapped out an even beat on the back of his chisel. Each tap was uniform in power, and each movement of the chisel was perfectly aligned with the formation that had painstakingly been drawn on the inside of this tube of solid granite; it was cladding for one of the devices of the Ancients, and it aided in regulating some of the artifact’s functions.
+
+It was an arcane, branching thing; if one traced every line and character and spread it out, end to end, it would reach all the way to Verdant Hill.
+
+Delun had been working on this for twelve hours so far today. He had started long before the sun had risen, and now it was setting. Yet his chisel did not deviate. No groove was deeper than any other. Each and every line was ruler-straight or perfectly curved. All that existed was himself and the work.
+
+There was no pause. There was no break. Until, at the fourteenth hour, his hammer finally stopped falling. His chisel ceased its relentless cuts.
+
+Tie Delun took a deep breath and let it out. He examined the walls. Tomorrow, he would cross reference everything to the diagrams. But for now… he was finished.
+
+Carefully he climbed out of the cladding. The sound of clanging hammers, scratching chisels, pumping bellows and shouts of other members of the Azure Hills Restoration Commision returned to him. They were winding operations down for the day, and within the hour this place would likely be deserted.
+
+Delun sighed and stretched as he surveyed his domain; there were a lot of people. Every member of his own tiny sect was here, in addition to members of practically every sect in the Azure Hills; every seal specialist, every formation master…everybody who could contribute had come.
+
+All of them were working together for the resurrection of their history. The Dueling Peaks were considered the heart and soul of cultivation matters in the province. Who would shame their sect by not participating? Who did not wish to see the glory of their Ancestors return?
+
+At first, it was a small thing. He had called it the Azure Hills Renewal Force. Tigu, Xiulan, and Xianghua had so much on their shoulders, taking the foremost roles within the tentative alliance. So he sought to lighten the burden and give them some victories—showing tangible, immediate benefits to this alliance. He would repair some of the broken infrastructure of their Azure Hills, to return it to the glory of the Ancients like he had in Grass Sea City.
+
+A few of his fellows in the Young Generation had been receptive: Chen Yang from the Framed Sun Sect and one of his fellows, Ai, a woman whose father had been a carpenter; a couple of members of the Grand Ravine Sect had joined them; one member of the Misty Lake Sect; and the Young Master of the Rumbling Earth Sect, Gan, who had looked so lost and confused Delun had taken pity on the other man and shoved a chisel into his hands.
+
+Delun had decided to start things off with something small in the Dueling Peaks. They were already there, so he looked for things to do to help out, deciding to take a look at the elevators first. They had only stopped working relatively recently, and the formations they used were pretty exposed.
+
+Together, they managed to find the break in the formation—and luckily the formation used was one of the ones familiar to Delun. Delun taught his comrades the proper way to repair the formation, and within the week the elevators, operated by pulleys and chains, once more smoothly slid up and down the mountain of their own accord.
+
+That caught the attention of everybody. An assembly had been called, and Delun had explained what he had done and what he planned to do.
+
+His idea to aid his friends quickly went from a minor operation to something central to the first days.
+
+They went from the Azure Hills Renewal Force to the Azure Hills Restoration Commision. One with sweeping powers over how and where they repaired things.And after Xiulan had mentioned he had already repaired the formation in Grass Sea City… Delun was quickly asked to head the new commission.
+
+He got asked. Not his father, not some Elder, him. His Father had even agreed with them!
+
+At first he had been confused about them not asking the obviously more experienced man to head their efforts, but his father was resolute.
+
+“You are more experienced in this field than us, my son,” his mother had gently reminded him. “You’ve had months to study the memory crystals… and our Dao is much more set. We must reexamine ourselves and alter our very foundations, for we study iron and steel—and the mysteries of stone are a different creature altogether.”
+
+Of course, then she kissed him on the cheek and started calling him Head Mason.
+
+Which stuck.
+
+And now everybody called him Head Mason.
+
+So the repair work began on the Dueling Peaks. To Delun’s surprise, there was even an entire archive in the basement, something that the various sect Elders only became aware of not too long ago and now freely shared, that contained even more knowledge than the crystals did about how the Dueling Peaks worked… but had equally lacked much of the knowledge that the creators had evidently considered common sense about constructing extremely complex formations.
+
+Delun had been in that library quite a bit—and honestly he wasn’t tired of it yet. There was something invigorating about repairing the Dueling Peaks.
+
+“Master Mason!” a voice called out and Delun blinked as he was knocked out of his thoughts, turning to look down to where Bao Wen, the caretaker of the archive, was standing, and  beside him was—Delun blushed as Tigu smiled up at him. She was holding a waterskin and she had a backpack on that smelled delicious. His body suddenly remembered that he hadn’t eaten or drank anything since he started, and he swallowed the spit in his mouth.
+
+“Handsome Man,” Tigu said with a smile. It had been a week since he had seen Tigu last, and he drank in the sight of her. “Bao Wen told me you normally finish around this time!”
+
+Delun turned to look at the man, and Bao Wen nodded back. For some reason, the Elders had appointed the young mortal to be the archive’s caretaker—and they couldn’t have chosen a better man.
+
+Not just because Bao Wen did this for him. He already had a good idea of where exactly the scrolls that Delun needed were; he had mastered the use of a control rod, which made things a lot easier in testing where the mechanisms were broken; and he shared Delun’s irritation with the demands of his work interfering with the time he could spend with the woman he liked… which was the only really bad part about his position.
+
+Bao Wen understood, in the way a true man did. Delun had made Bao Wen a lotus formed out of burnished copper and beaten gold for his early assistance, and now it seemed that the mortal was returning the favour.
+
+“How goes the work?” Bao Wen asked leadingly.
+
+“I am done. I’ll finish the checks tomorrow, and then we can get this cladding into place,” Delun answered, and Tigu brightened up before she slumped.
+
+“I wish I had more time to assist you! This looks so interesting!” Tigu said with a sigh.
+
+Delun smiled. “We both have our roles to play. And any time you feel like it, well… You’re handy enough with a chisel,” he teased.
+
+“Handy enough—” Tigu shouted, outraged, before she crossed her arms and stuck her nose in the air. “Humph! I’ll take these bao I made elsewhere then!”
+
+“Forgive me, mistress of carving,” Delun immediately capitulated, and Tigu laughed.
+
+“You’ve been working too hard, and my Master says that all work and no play makes a dull man,” Tigu declared. “So come! Bao Wen told me of a lovely hill! We’re going to meet up with the rest of our comrades and dine upon it, after you show me what you’ve been working on!”
+
+Bao Wen, who had been looking smug, suddenly slumped slightly and turned an apologetic gaze to Delun.
+
+But Delun simply smiled. He hadn’t seen most of his friends in a while. It would be good to catch up with everyone. Though he would have to do something nice for his mortal friend. It had been a good idea, and he had tried his best.
+
+“Sounds like a great idea,” he replied. “Now come on up, I’ll show you how this works.”
+
+They hopped down into the cladding together. It was a very tight fit, with both of them pressed up against each other.
+
+Tigu’s eyes were wide and sparkling as he explained everything he had been doing and how they were going to assemble everything.
+
+He had her full attention. Though for some reason she kept her eyes mostly on him as he talked, rather than the things he was pointing at.
+
+And he really wasn’t prepared for when she spoke.
+
+“You’re very handsome when you’re passionate,” she declared.
+
+Delun’s face went crimson.
+
+He was in a very good mood for the rest of the night.
+
+=============
+
+The next day, in the afternoon, Delun once more found himself surrounded by Elders.
+
+“Alright, everybody. Let's do this,” Tie Delun commanded his subordinates, and he received nods in return as they swung into action.
+
+The checks had all come back good, so they went ahead with things. The old artifact was one of the simpler ones, and only slightly damaged. They had removed all the broken parts last week, including the outer cowling, and now it was time to install the components.
+
+It was several hours of work. Several hours hoping that everything was right and that when they activated this there would be no failure.
+
+The bronze components were connected. Intricately carved wooden rods were placed where the old ones had snapped off. And finally, the granite cowling, twice as tall as Delun, was carefully lowered into place around the main core.
+
+Then came the moment of truth. Bao Wen picked up his control rod and went through the movements, and the ancient artifact shuddered. It clicked.
+
+Like a great beast, seemed to take in a breath.
+
+Then another.
+
+Then a third, and everybody in the room could hear as water started filling the device.
+
+And then it started trickling out. It dripped into bone dry channels. Its trickle became a stream, and the stream a steady flow.
+
+There was a great cheer as the Dueling Peaks Water Pump and Purifier started working again.
+
+The channels would take it all throughout the mountain. Every room would have fresh water; it would flow past long-desiccated planters filled with seeds.
+
+And finally, it would flow out into the town around the mountain itself, in long unused channels. They had already warned the people what would happen, and that there would soon be a ring of water in the town itself; A constant flow of fresh, immediately drinkable water.
+
+At first, he hadn’t really known its value to mortals, but now he truly knew. Even if they did have wells, they could now have a spigot dispensing water on every street corner.
+
+And, if they fixed a couple of other things…it would allow the Earthly Arena to be flooded for additional environmental effects.
+
+Tie Delun smiled and nodded his head.
+
+They had a lot more work to do, but he was looking forward to it.
+
+=============
+
+================
+
+Edited by: Brandon “Philosophysics” Zhang-Leong, BargleNawdleZouss, Massgamer,

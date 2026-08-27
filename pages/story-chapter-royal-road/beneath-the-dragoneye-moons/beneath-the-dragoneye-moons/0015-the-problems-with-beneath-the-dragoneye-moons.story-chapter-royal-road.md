@@ -1,0 +1,151 @@
+---
+id: 58d803f9-d5da-5458-99e5-d91f402c77e7
+page-type-slug: story-chapter-royal-road
+title: "The problems with Beneath the Dragoneye Moons"
+slug: 0015-the-problems-with-beneath-the-dragoneye-moons
+partOf: beneath-the-dragoneye-moons
+position: 15
+ownLength: 1395
+unit: words
+publishedAt: 2022-07-04
+link: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons/chapter/941664/the-problems-with-beneath-the-dragoneye-moons"
+royalRoadId: "941664"
+---
+
+AKA "Why the huge timeskip?"
+
+When I sat down to write Beneath the Dragoneye Moons, I had some story beats that I really liked, and others that annoyed me.
+
+One story beat that drove me up the wall was that stories were never set close to creation, no. There were always endless “Lost empires” and “hidden dungeons” and “they used to be so much better at magic than we are now.”
+
+Examples of this would be The Stormlight Archives and The Wandering Inn, but nearly every single fantasy series falls victim to this.
+
+I thought that was dumb as a brand-new reader. I wanted to see what it was like “shortly” after creation. Not so shortly that everyone was still in tribes and trying to figure out this “fire” thing, but during the first civilization.
+
+What was it like? Everyone talks about the great old empires, nobody writes what it was like living in the great old empire.
+
+Hence, Remus, the Rome analog.
+
+It was all fun and games at first, but even before I started posting, I realized I’d screwed up a bit.
+
+The reason people didn’t write about the first civilization was a lack of depth.
+
+The main conflict is people vs nature. I didn’t write about Remus’s neighbors, because they didn’t HAVE any. The only conflicts and issues are internal. There are no hidden dungeons that I can pull up to make a new adventure. There are no ancient archives to raid.
+
+Everything is new and shiny!
+
+This lends itself to having a much, MUCH earlier natural “stopping point” to the series than I wanted.
+
+So I plotted. I planned. And I laid down the seeds of my great big “reset” button.
+
+I thought it’d only be, like, 100 chapters tops.
+
+HA.
+
+300+ chapters deep, and here we are!
+
+As I continued working through things as I wrote, I realized I had screwed up a number of other small worldbuilding things. Magics that I didn’t realize my System allowed, but that could and should exist.
+
+Like shapeshifting. [Form of the Dinosaur] should totally be a known skill, but we’ve seen nobody use it. Potions. Alchemies, tens of thousands of different things.
+
+Well, I have an excuse. Instead of “Oh hey we rediscovered the lost magic” AKA the usual “whoops! Fixed that!” that many authors use (there’s no shame in it!), I’m going more with “It wasn’t well fleshed out and developed yet”.
+
+This has also given me the time to properly sort out countries. Cities. Cultures, races, and so many, many more things that give a world its rich feel. Well established organizations, relics and treasures, religion and more!
+
+I’m also fairly restricted right now. I can’t do glass, or things with glass in Remus. I need to stick to pure Classical Rome things. There aren’t a ton of other cultures out there.
+
+I’m not super interested in writing endless “Elaine, the only human, deep in elf/dwarf/orc/ogre/centaur territory, occasionally at war with shimagu/others.” I’m not sure you’d all be that interested in reading it.
+
+Another thing is the “global level” so to speak. There’s only so many people living, and there’s only so high levels can get. I have an end in mind, but with the current worldbuilding it’d take some massively absurd timeskips to get there.
+
+“Then Elaine lived happily for the next 900 years to get another 300 levels” isn’t exactly gripping storytelling.
+
+I needed a shakeup. So I prepared.
+
+As I said, as early as chapter 5ish I started to lay down the groundwork for one day fixing, revamping, and overhauling everything.
+
+I believe it worked… mostly. I’ll occasionally think of something interesting and go “well shit that changes things”, but I’ve had almost two years of thinking at this point. Things are a lot stronger than they used to be.
+
+Hence, the Great Shakeup.
+
+Iona was the early introduction to the shakeup and the new world. I have essays to write about her, but those are for another day.
+
+I worked with a number of early beta readers to try and figure out the best “shape” this will take, and broadly speaking, we found an excellent way to make it happen. Many of you have guessed at some of it, but I don’t think anyone guessed the full thing.
+
+I’ll let you find out soon what it is ;)
+
+Thank you all for understanding!
+
+On a different, medium-low spoiler note, I’ve had some people approach me concerned that Iona’s time is “bog standard medieval fantasy with the serial numbers filed off.”
+
+This is a somewhat valid concern, because Rolland IS bog standard medieval fantasy with the serial numbers filed off! However, not all of my countries are. Here’s a breakdown for those concerned:
+
+Nime: Straddles the line. I’m trying to make it super-authoritarian, but I might get stuck in some ruts. The endless waterfall from nowhere does give it some flavor, along with the forbidden four classers. Bleak. Like 50% serial numbers filed off (SNFO)
+
+Lithos: Nordic-inspired, with troll Jarls. Like 40% SNFO, but I hope my twists are enough
+
+Jurcor: 0% SNFO. Lots of lawful devils with… ok, it’s hard to explain in a short sentence or three, and I’ve got a lot of these to run through.
+
+Draakveld: 0% SNFO. Windmills, demons, WORKING communism, and tulips.
+
+Xerius: 0% SNFO. Persian Saurians… but they’re all dinosaur-themed saurians.
+
+Exterreri Empire: 10% SNFO. Roman-inspired vampires that - wait, hang on!
+
+Ankhelt - 50% SNFO. Ancient Egypt fairly standard fantasy fare with beastkin. Maybe more like 70% SNFO.
+
+Tympestshard Council: 90% SNFO. High elves, cities of crystal, etc etc.
+
+Sicalatian Confederacy: 10% SNFO. Italian City-states, which are really more city-TREES filled with clever gnomes.
+
+Han Empire: 20-80% SNFO, depending on how you see things. Warring States period, with Dullahans and their lava forges doing the warring.
+
+Geum Kingdom: 20% SNFO. Ancient Korea scholar-warrior minotaurs.
+
+Tuvan Tribes: 75% SNFO. Tribal yetis.
+
+The Great Tang: 100% SNFO. Cultivators galore, except the Tang Sect is filled with reasonable people so they survive.
+
+…. Mostly because I want to poke fun at cultivation novel tropes when I want to.
+
+Nippon-Koku: 75% SNFO. Japan, with Kitsune Daimyo. Then again, I’m not sure how often I actually see it…
+
+Vollomond: 25% SNFO. Gothic Germany run by werewolves. Still unsure on some details.
+
+Cartref Clyd: 25% SNFO. Think the Shire, then replace hobbits with fauns that are more than happy to hire mercenaries to do their dirty work.
+
+Tonaltintli: 0% SNFO. Aztec/Mayan blended Kobolds.
+
+The Silver Horde: 0% SNFO. Mongolian-inspired centaurs, lots of orchards. (The golden horde, except silver for reasons to be revealed)
+
+The Golden Courts: 100% SNFO. Classic wood elves. Do I need to say more?
+
+Khazad: 25% SNFO. We saw these dwarves before!
+
+Rolland: 100% SNFO. English-French late dark/early medieval castles and knights, court wizards, etc. You know how this all works.
+
+Urwa: 50% SNFO. 1001 Arabian Nights, elf-style.
+
+Modu: 10% SNFO. Frost giants in their castles of ice and snow…with a minor mix of mad scientists.
+
+Kalea: 0% SNFO. A polynesian-inspired coalition of various intelligent aquatics. They fight the [REDACTED]
+
+Ekada Ruh: 0% SNFO. A sort of “second country” of changelings trying to live their life, integrated into whatever society they’ve found themselves in. They’re all kin, and recognize it as such.
+
+Aerie Heights: 0% SNFO. Jagged floating mountains are perfect for harpies.
+
+Suen: 50% SNFO. Think any trader-city in books, and that’s Suen! Country of coin.
+
+Dairalt Republic: 25% SNFO. The gnolls we saw before! Nothing tribal can truly get to 0%, but i think “the worlds largest pet store anchors it” gives it some flavor.
+
+Phantasym Mageocracy: 75% SNFO. A country of wizard towers with supporting villages. Yeah, you can see it in your mind’s eye now!
+
+Bhutai Provinces: 0% SNFO. Think giants that decided to live like a tibetan monk does.
+
+Omospondia Confederacy: ??? SNFO. Awkwardly. I still need a good culture for them. It’s a monster mash. The ogres, orcs, gorgons, etc. who are generally reviled elsewhere have all grouped together here.
+
+Penujuman Necrocracy: 0% SNFO Siam-inspired liches raise thousands of undead to labor for them, all while the official state religion is “Pray for more liches to be born.”
+
+Gwyllt: 0% SNFO. BEES OH GOD SO MANY BEEEEEEES AHHHHHHHHHHHHHHHH
+
+Ralakar: 0% SNFO. India-inspired culture filled with exceptionally horny Dragonlings. Well, they claim to be related to dragons, but…

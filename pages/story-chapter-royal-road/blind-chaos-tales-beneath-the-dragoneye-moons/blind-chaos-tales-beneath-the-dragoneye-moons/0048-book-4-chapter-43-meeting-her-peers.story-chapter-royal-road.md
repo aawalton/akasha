@@ -1,0 +1,251 @@
+---
+id: e8a8dc40-a7cd-5895-8ce0-98e4f73b1378
+page-type-slug: story-chapter-royal-road
+title: "Book 4 - Chapter 43 - Meeting Her Peers"
+slug: 0048-book-4-chapter-43-meeting-her-peers
+partOf: blind-chaos-tales-beneath-the-dragoneye-moons
+position: 48
+ownLength: 5847
+unit: words
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons/chapter/2943682/book-4-chapter-43-meeting-her-peers"
+royalRoadId: "2943682"
+---
+
+Choosing what to pack was strangely complicated. Sure, the war was about to end, but she had no idea what that actually meant. Would they go for a single overnight all-out offensive and be done? Would it be eight days of fierce combat? Would the shimagu army surrender if they took out the remaining twins, or would they have to cull enough to cripple their ability to fight? It wasn’t like Ranthia was going to get answers, so she was forced to trust her own judgment.
+
+The first things that went into her pack—the backpack itself was an acquisition from a convoy roughly six years ago, because the one she bought in Remus was falling apart after so many years—were her practical mistweave. The material didn’t get soiled, which meant her tunic and spare undergarments were all she really needed. Eight pairs of sandals didn’t take up too much room and felt sensible. …Another two pairs, just to be safe. Avyna’s map was sensible to take, and it didn’t take up much room. Her traveller’s cloak (also new—despite being purchased nine years ago) felt like an essential item as autumn was succumbing to winter.
+
+Choosing what to pack for her armor was far more complicated. Complete sets were bulky. She could break her armor down, but then she needed almost thrice that time to reassemble it—which meant it was unavailable in a crisis. The linings and the leather were the most space-hungry components, but she could take enough replacement steel plates and connectors to keep her going for ages—so long as the damage her armor took remained very specific. But inarguably, the arcanite in the lining was the most important component for her, unless her armor Skill finally manifested, and if she used up the arcanite in one lining she really needed a way to replace it…
+
+After hemming and hawing for entirely too long, Ranthia crammed one complete set of armor into her pack, stuffed a spare lining inside of it, and piled in some repair and maintenance tools and supplies. That had to be sufficient. Mostly because her backpack couldn’t hold much more, no matter how she expanded it. It wasn’t like she could carry an enchanted bag, not that enchantments worked half as well on pliable materials—and she was getting distracted. Again.
+
+Snacks! Snacks were important. Meals would (hopefully) be provided, but if she was on the field of battle and found herself in a lull, it was good to have something she could choke down quickly. As nice as pears and other fruits were, Ranthia had no interest in keeping pulped mush in her belt pouches. Also, she ate the last pear she had days ago. Jerky was good, but she didn’t have much left—and it wasn’t like she could just wait around for Numeria to open her shop. She’d always struggled to keep nuts in stock too; they were all too easy to snack on.
+
+With a resigned sigh, Ranthia approached a cabinet she hadn’t opened since Avyna’s departure.
+
+She never had gotten around to actually trying the Ilan bread that Avyna infrequently received. After the first few attempts went awry due to emotions or emergencies, Ranthia had turned it into something of a game—finding (mostly) plausible excuses to avoid trying it. It wasn’t without reason: she had wanted to leave it for Avyna to enjoy, since it meant more to her. …Also, admittedly, there was a modest amount of concern ever since her elf clarified that the fruit was ‘dangerous’ to non-elves due to it potentially being addictive.
+
+Ranthia had seen enough purple flower addicts that she was somewhat loath to risk it, even baked into travel bread.
+
+Naturally, Avyna had been less impressed with Ranthia’s antics, to the extent that she left three pieces behind—in their home’s best stasis enchantment—along with a note that stated how long the bread would last and hinted at Avyna’s future displeasure if Ranthia allowed them to go to waste. Naturally, Avyna had no way to know, but Ranthia’s concerns were mild enough that it wasn’t worth lying to the woman she loved.
+
+With a sigh, Ranthia grabbed one of the densely baked breads and broke a corner off of it. From that fragment, Ranthia took a properly dainty nibble, a crude approximation of how Avyna had always savored the bread.
+
+It wasn’t as sweet as Ranthia had feared, which was good. The bread itself had a nice dense and chewy texture that wasn’t overly prone to crumbling—how elves got a travel bread that could last for a long time so moist was beyond Ranthia’s knowledge. The flavor itself was strange. It wasn’t unpleasant, but Ranthia found herself struggling to place it. It was almost as though the flavor shifted or had more complex notes than her vitality-enhanced tongue could identify. Yet it was impossibly cohesive, with the myriad notes blending into a surprising harmony.
+
+Ranthia continued to take nibbles as she worked at the flavors. It wasn’t off-putting, that was for certain, but it was harder to decide if she actually liked it. It was so different from anything that she had ever experienced, and many of the notes from the fruit were sweeter than she would usually prefer. And yet…
+
+Eventually, Ranthia decided that it didn’t matter if she was a fan or not. It existed, and it was edible. She just needed to wrap the rest of it and—
+
+Where did the rest of the bread go?!
+
+Ranthia stared mutely at the countertop, where the majority of the bread should have sat—bereft of a single corner. Yet there were only a few small crumbs to suggest there had once been bread there.
+
+“…I’m giving the rest to the dwarves.” Ranthia closed the cabinet with a bit too much force, lest she find a hand reaching for either of the remaining travel breads.
+
+The base commander left a message for her at the gates with a list of concerns about what her absence meant for the security of Remera, the region, and the Legion personnel that patrolled or drove supplies through it. That wasn’t surprising, but it ended with him acknowledging that she likely had no further information to offer which made reading it feel like an even greater waste of time than it already was!
+
+But after that, Ranthia made her exit, witnessed by saluting legionaries and cheering dwarves.
+
+She had never been to Spearpoint base, but she had a very good map—and she had spent much of her life studying and scouting the terrain the war was fought within. Besides, every young Adventurer learned what it took to travel in a (mostly) straight line without screwing that up; direction-finding was crucial.
+
+As much as it felt like Ranthia was jinxing herself, the journey itself went smoothly. Sure, she had to climb a mesa to orient herself at one point, but the skies were just beginning to brighten when Ranthia finally arrived at the irregular walls of Spearpoint base, which meant she was right on schedule. The entire region surrounding the base buzzed with activity. Scouts from every species represented in the Coalition swarmed the area to keep the shimagu from pulling off anything clever—and each offered her surprisingly warm greetings when she presented her Sentinel badge. Sure, there were language barriers in a few cases, but the Sentinels weren’t just recognized, they were respected.
+
+…Well, except for the elven patrol; they saw fit to chuckle amongst themselves about “another mortal that thinks she’s something special” until Ranthia thanked them for their diligent scouting efforts in High Elvish. One from the group seemed mortified, two started offering her friendly pointers about her pronunciation, and the rest just scowled broodingly in her general direction.
+
+The sound of conflict filled the region, even as she moved through peaceful, currently uncontested territory. In a valley on the far side of Spearpoint, the armies of the Coalition and the shimagu fought on—a melee the likes of which Ranthia had never seen and could have scarcely imagined. A pointless waste of life that would undoubtedly have less total impact on the war than the meeting Ranthia was travelling to attend.
+
+It was strange to have a level that would have been literally unthinkable when she was young. At 753, Ranthia could potentially do more damage to the shimagu than an entire Legion could in the same amount of time. And she wasn’t about to pretend that she was capable of more than anyone else in the Coalition. Night was undoubtedly—at a minimum—still her equal. Pierce had probably become a deadly force, if he was still around. Amphea—Steel—could stonewall an army better than Ranthia ever could. And those were just her immediate peers that she was already familiar with.
+
+She had witnessed a small force of centaurs as they tore a shimagu army asunder. And the dwarven [Battlemaster] of Remera considered herself “average, at best” amongst her peers. In addition, Ranthia had no idea what to expect from the top combatants from the gnolls, minotaurs, and whoever else had joined their efforts to put a stop to the shimagu’s enslavement.
+
+And beyond them all, the elves had personnel with twice Ranthia’s level and at least eight times her experience. It was impossible to imagine what they would be capable of—Avyna, with a civilian build, had rivaled Ranthia’s greatest efforts.
+
+Her heart felt abuzz with anticipation by the time Ranthia finally reached one of Spearpoint’s gates and began the process for entry. One gate raised and Ranthia stepped into a tiny room, where she was checked by spears thrust through openings just large enough to accommodate them. Once a [Healer] cleared her with some sort of parasite-detection aura, the next gate opened—revealing another small room, which housed a small table and a gleaming (likely conjured) crystalline knife. Ranthia was ordered by a voice that seemed to come from all around her to use it to cut her own palm, while another [Healer] tried to heal the damage she inflicted with a ranged Skill. After that, she was finally allowed to enter a somewhat larger room with a diverse group of guards that (respectfully, as much as they were able to make such an act respectful) restrained her while four different [Healers] entered and laid hands on her.
+
+Only then was she finally cleared to enter Spearpoint. Her anticipation had chilled more than a little after a prolonged session of manhandling and well-meaning abuse, but she still had to stop and properly take in the sight of the base. The original fortress of stone—stolen from the shimagu—remained the heart of the base, and the Coalition had built outward from there. As a whole, the place was a chaotic jumble of tents and hastily assembled structures. It was a mess and Ranthia was in love; there wasn’t even a hint of order to be found! The efforts to leave space for roads often ended in failure, resulting in numerous footpaths that dead-ended against a tent or a structure. Quite plainly even the expanded outer walls had been insufficient for how many men and women ended up crammed into Spearpoint, which resulted in people aggressively building where they could—including both upward and downward.
+
+It was madness. And it was beautiful.
+
+Ranthia’s mood lightened and her smile brightened as she ambled along, enjoying the cacophony of life forced into close proximity. Spearpoint was noisy enough that it almost drowned out the sounds of battle. Also, it was hilarious to watch centuries try to assemble in the twisted and narrow paths ahead of deployment to relieve another force. There was an almost palpable “we gave up years ago” energy amongst the leadership while they watched their neat lines collapse into a press of flesh.
+
+As expected, Ranthia’s objective was the original fortification at the heart of Spearpoint, but instead of entering the stone fortress, she was directed into a suspiciously new wooden structure assembled within the inner walls. Inside, a harried man who looked—and, more worryingly, twitched—like someone who hadn’t slept in days gave her a room number for her “shared room that she would share with another Sentinel who should be able to give her the rest of the detail-things she needed” and handed her a half-eaten apple that she was rather certain he hadn’t meant to give her.
+
+With the apple left on the man’s counter, Ranthia set out. The room number wasn’t as useful as Ranthia had expected—the building seemed to have been built under some numbering scheme that she couldn’t parse out—but the unadorned halls were empty enough that she could use a bit of speed to trivialize her search.
+
+With the proper door found (…assuming the man gave her the right number, which was a somewhat bold assumption) Ranthia knocked to let the enigmatic “another Sentinel” know she was there. After waiting in silence, she knocked again. When that one also went unacknowledged, Ranthia finally tried the door and found it unlocked.
+
+Within, the room was… drab. Drab was absolutely the best word Ranthia had for it. Grey fabric had been nailed onto the walls, as though it somehow provided a decorative touch. On the left side of the room, a small, simple cot sat—with grey linens—mirrored by another on the right. And, at a massive table that occupied almost the entire back wall of the title, a diminutive—and very grey—woman sat facing it. Aside from the small storage chests at the foot of each cot, there was nothing else in the room.
+
+“Hi?” Ranthia called out hesitantly. In an ideal world, she really wanted some form of acknowledgement before she barged in. She was trusting the man that sent her there less by the minute.
+
+“Yes, Sentinel Grace, come in already. I’ve been using the bed to your left, but feel free to claim it for yourself, if you have strong feelings about your spatial orientation while you rest.” Even the woman’s voice was drab and forgettable, not that she bothered to look up from whatever it was that she was doing.
+
+Ranthia shrugged and made her way into the room, closing the door behind her. The bed on the right was fine with her. She set her backpack down next to the bed and pulled her mistweave tunic out, before she shifted into a fresh image that was wearing it. There was no rack for her armor, so she just carefully set it against the wall—she could clean and maintain it later—and started to unpack her backpack into the empty storage chest.
+
+The woman never said another word, which had Ranthia practically fidgeting by the time she was done.
+
+“So… can I ask who you are?” Ranthia asked, terribly tempted to walk over and peer at the woman’s precious table.
+
+“Sentinel Grey. Charmed. Don’t mind me, I’m trying to memorize the new material compositions for every structure in Spearpoint. The last report was incomplete.” The woman that eerily reflected her title replied, in a somewhat clipped tone.
+
+Seriously, her clothing was grey, the heavy Sentinel armor resting on her bed was grey, and her hair was extremely grey. Even her skin had a somewhat grey pallor. And Ranthia couldn’t even begin to guess the woman’s age because of it.
+
+“Everything?” The incredulous question passed Ranthia’s lips before she could stop it.
+
+“Yes, as I stated. Though I only care about the structures themselves; the biological entities within and their possessions are on their own. My Skills cannot and will not improve their resilience, no matter the fidelity of detail I am provided.” The woman confirmed.
+
+Ranthia just sighed and leaned against the wall. By her estimate, there was still almost a full hour until the meeting. She felt too restless to grab a nap and her hopes for conversation were apparently dead.
+
+“I suppose I should offer you an advance warning: you may wish to be careful with Sentinel Solace. She is a fan of yours, and her emotions run deeper than most seem to realize.” Grey almost startled Ranthia when she actually spoke up, unprompted.
+
+“I have fans?” Ranthia let a wry smirk play across her lips. Maybe her roommate had more of a sense of humor than she dared to hope.
+
+“Per her file, her grandmother attended your Triumph, and you gave her some worthless bauble. Solace was raised hearing of you and often attended the orphanage that you founded. This is what led her to the path of a [Healer]. Also, she screamed with excitement when Night informed us that you were being summoned here.” Came the deadpan response.
+
+Ranthia opened her mouth, then closed it.
+
+In the end, she had no idea what to do with that information.
+
+The meeting room was another eerie facsimile of the one in Remus, and Ranthia no longer had any doubt that Night was copying it intentionally. By all logic, the layout of the room should have steadily changed as time passed, yet it remained unerringly consistent, even after more than eighty years. An immortal seeking a place of comfort was the only viable explanation.
+
+Ranthia amused herself by imagining Night’s reaction if she redecorated the room while she settled into a plush chair near the exit—it was easier than fretting about the five pairs of unfamiliar eyes that watched her enter. Her roommate—thus far, the only person in the room that Ranthia had ever seen before that moment—was already perched atop a simple stool.
+
+Ranthia felt out of place enough that she was actually relieved when Night walked into the room, especially when Pierce followed him in. They moved at casual speeds to their seats, which gave Ranthia ample time to appraise both men.
+
+As expected of an immortal, Night remained unaffected by the passage of time. He hadn’t even changed his hairstyle in the time that she knew him, and even his level was eerily similar to what it used to be. At 551, 549, and 91, Night impossibly had one of the lowest levels in the room—with only Grey’s 547, 501, and 219 competing with him. Everyone else present had at least one class at or above 600, with Ranthia and Pierce standing well above the rest.
+
+…Pierce, on the other hand, had actually managed to surpass her level. The man was just over level 800 in his first two classes, with his third trailing just a bit behind them.
+
+But before Ranthia could ask him what in Xaoc’s glory he had been doing, Night began the meeting. The first items were about changes to base security—namely, the screening process that Ranthia had endured—and orders to remain within Spearpoint until the meeting (tentatively scheduled for the next day) with the Coalition leaders and elite.
+
+“With those matters addressed, we should take a moment to refocus on our own ranks. This is the first opportunity that many of you have had to properly meet, so I would like to propose we have each of you introduce yourselves and the basics of what you bring to the ranks of we Sentinels that have focused ourselves on outward threats.” Night beckoned to Sentinel Grey, clearly intending to sit the process out himself.
+
+That was fair. As the nominal ‘lead’ Sentinel, it was safe to assume that everyone in the room was already familiar with him and whatever facets he chose to reveal about his own combat role and bloodsucking tendencies. Not that it spared him from the glares of almost every man and woman in the room.
+
+He just ignored their glares, of course.
+
+“Sentinel Grey. I am currently fortifying every structure within this base, including the walls and the tents. I would ask that you refrain from punching walls when you get frustrated, it costs me mana every time.” The woman was the only one that wasn’t preoccupied with glaring at an indifferent vampire; she just rattled off her introduction.
+
+And set the tone for the rest.
+
+“Sentinel Gravity. You’ve probably already seen me zipping around. But don’t treat me like a [Messenger], I’m a combatant.” The dark woman in the lightest Sentinel armoring Ranthia had ever seen went next. She had a slight build and average features, which made her seem oddly ordinary amongst the often visually distinct ranks of the Sentinels.
+
+“Sentinel Beast. One class gives me a quasi-bond with a pack of predators, the other two let me fight just as savagely as they do alongside ‘em. Don’t be worried if I go all beastly, just stay out of our way and trust us to keep our teeth pointed in the right direction.” A gruff middle-aged man with long hair—dyed a vivid red—and leather armor that wasn’t half as tattered as it was meant to look.
+
+“Sentinel Solace. I’ll be departing the ranks of the Sentinels once the shimagu have been exterminated from Pallos. I can weaken any shimagu caught within my mists and have never failed to purge a parasite from anyone.” The sole [Healer] in the room spoke next. An attractive woman with dirty blonde hair, wearing mid-weight Sentinel armor painted glossy white, with golden trim. She was the only person in the room that was wearing one of those ridiculous capes they were assigned for formal occasions, though hers was white-and-gold without a hint of the typical red.
+
+Sentinel Silence. Quiet kills. The next man communicated through Ranger hand signs—which took Ranthia a moment to remember how to parse. She had never even realized that she was getting rusty.
+
+“Sentinel Grace. I specialize in one-on-one combat and punching up, but I can also handle groups.” Ranthia chose to keep her contribution simple, once she came up. There was no need to try to flex or show off, not with her peers.
+
+Or so she had hoped, but Sentinel Beast snorted in what was undeniably derision. That unwelcome sound was followed by an even less welcome high-pitched noise that came out of Sentinel Solace, though the woman’s facial expression never changed from her mien of calmness. Even as her eyes remained unerringly fixated on Ranthia.
+
+“Sentinel Pierce. As I like to say: have spear, will pierce. Now, they might call me the strongest human back home, but I’ll be honest: there’s at least two people in this room that I wouldn’t want to fight. Not with my life on the line, at least.” His voice was jovial and warm, but Pierce had undeniably changed since he left Ranthia’s care. Sure, he had grown and matured—that was to be expected—but there wasn’t even a hint of the arrogant snot that she had known. His smile looked easy, yet something about it felt forced. To Ranthia, her former apprentice looked as though he smiled because he felt like he had to. It was as if he was burdening himself with the weight of the expectations of even his so-called equals.
+
+…It wasn’t quite what she used to do, but it was still uncomfortably familiar. Unfortunately, Ranthia wasn’t confident that she could do even a fraction of what her [Mind Healer] had done for her, but she probably still needed to speak to him.
+
+“Sentinel Sage. Back in Remus, I’m known as the oldest Sentinel, even though I’m probably only in third place in this room alone. I bet I’m referring to the exact same two that—” An elderly man, hunched by the weight of age, started to speak.
+
+But Ranthia was running [Divine-Touched Identify] on each of her peers as they spoke up, and what she saw from him demanded an interjection.
+
+“You have two Storm [Mage] classes?!” Ranthia was stunned. Storm [Mages] were a famous joke. It was a build that simply didn’t work, yet the man had two worthless classes—as a Sentinel?! Storm, Arcanite, and Storm was just an inexplicable combination for a triple-classed [Mage]!
+
+In the aftermath of her outburst, the room was utterly silent. Every eye was on her, and no one so much as breathed.
+
+“Sentinel Grace is able to see the tag for each class a person possesses, in addition to the element. This is due to a unique evolution of [Identify], through a process that has proven impossible to replicate.” Night spoke into the silence, and the tension slowly dissipated from the room.
+
+…Mostly, at least.
+
+“Ha, yes, I am the proverbial Storm [Mage], and I found a way to make it not suck. Basically, I have a large support unit that I affectionately refer to as the links in my chain. My Arcanite class allows me to link our mana pools together as a collective whole, which I combine with channeled effects to generate potent storms.
+
+“That said, please bear in mind that I cannot control what I have unleashed, once it is done. It’s really not my fault if you fly into a storm and get struck by lightning.” Sage accompanied his explanation with an exaggerated wink.
+
+“I still say you did it on purpose. I saw you; you looked right at me right before it happened.” Gravity’s tone was acidic.
+
+“Those that listen to a humble old timer’s instructions have nothing to fear.” Sage reiterated with an affable smile.
+
+While Gravity openly seethed.
+
+With the meeting devolving, another Sentinel seized his moment to make things worse.
+
+“I still can’t believe the infamous Sentinel Grace is just some child slapped with the name of the woman she replaced.” Beast muttered, nowhere near quietly enough to even count as an attempt to subvocalize his thoughts.
+
+Seriously?! The man was the third lowest level of the group, more than a hundred and twenty-eight levels beneath her, and he still wanted to try and belittle her?! Ranthia was more insulted by how blatantly idiotic it was than the actual insult!
+
+“Looks can be deceiving. We should have all learned that lesson while dealing with the shimagu.” Ranthia chose the closest thing to diplomacy that she could muster. It was a tad patronizing, but it was better than the first several things that came to mind.
+
+Sentinel Beast replied with a charming bit of casual misogyny. The words weren’t worth remembering, but they sure as chaos cemented Ranthia’s opinion of him. Even Gravity looked ready to start throwing punches, and his commentary hadn’t even been directed at her!
+
+“Enough.” A single word from Night cut through the room before anything could escalate.
+
+The uncharacteristically open irritation on his face probably did more to bring the rising tempers to heel than the word he spoke. The word just brought their attention to his open displeasure.
+
+“Beast, if It helps, I can vouch for Grace. She isn’t someone given the name—she’s the original. Don’t let her pretty face fool you, she’s one of the few people that could probably take me apart, even today.” Pierce accompanied his benevolent words with a magnanimous smile that should have been off-putting yet somehow wasn’t.
+
+The blood-haired man grumbled a halfhearted apology after he gave Pierce a too-stiff nod.
+
+At least Ranthia had absorbed Sentinel Beast’s name. The brute truly was absolutely bestial. But she also wasn’t surprised. When she was just another trainee at the Ranger Academy, the expectation behind the Sentinels was a coordinated collective—allies that knew each other well.
+
+Instead, the reality of war meant that many of them seldom laid eyes on one another. Instead of forging trust through mutual respect, they were asked to acknowledge the badge of their station as sufficient cause to have faith in one another. And that was a lot to ask, especially when the number of Sentinels was greater than ever. The war had undoubtedly eroded some standards.
+
+But that thought was fleeting. Ranthia was far more concerned with who was absent. Aurora had disappeared from the sky ages ago. But there was no sign of Mirage, Quake, or Deflection either. Was Bulwark still in Coalition City, or had time—or shimagu activity—taken him as well?
+
+And where in Xaoc’s glory was Amphea?!
+
+“Night… Amph—Sentinel Steel, is she…?” It wasn’t entirely relevant. She clearly hadn’t been expected to attend the meeting, but she was one of Ranthia’s people! …And Ranthia had to know if she had gotten another one killed, by the same enemy she had meant to save them from.
+
+“Who?” That time, Sentinel Beast actually tried to subvocalize his reaction.
+
+But Ranthia had the misfortune of bearing senses sharpened by an obscene amount of vitality—at least by human standards. She had no doubt about the terrible utterance she had overheard. And she knew exactly what it implied…
+
+“Sentinel Steel transferred to the inward-focused Sentinels, those often called the Security Sentinels, twelve years ago. It is my understanding that she still serves in western Remus, as part of the final defensive line to ensure that aggression from beyond Remus, both from the shimagu and from any other source, fails to penetrate the borders of the empire.” Night’s voice felt atypically gentle as his words saved her from the worst of her assumptions.
+
+“Security Sentinels aside, there are more War Sentinels than are present in this room too. But we have selected those that we feel would be of greater benefit consolidated here in Spearpoint for the coming days.” Sentinel Old Guy (the Storm [Mage] that claimed to have figured out how to make it useful) chimed in.
+
+The [Healer] Sentinel continued to keep her gaze fixated on Ranthia, though she kept her mouth shut.
+
+“If the current schedule holds, our customary meeting tomorrow will be preempted by the Coalition gathering. Unless you receive orders to the contrary, be certain to attend at the primary fortification’s great hall. Your station is worthy of a seat within the assembly, and your participation is expected. I do not believe that I need to remind any of you of the importance of this assembly.
+
+“As a final note before we end today’s meeting, I wish to urge you all to take care when interacting with our dwarven allies. The one that some among them were calling the King Under the Mountain was killed four nights ago. There are undoubtedly individuals within their ranks that will be in an atypically sensitive state, and I will not tolerate any attempts to antagonize them. Be respectful and remember that their ways are different from our own.” Night concluded, in a perfectly dry tone. As though he was reminding them about something inconsequential, like the weather.
+
+But Ranthia was openly gawking at him. She had spent a lot of time around the dwarves of Remera ever since Avyna departed. She had heard of the man that Night coldly informed them was dead. He had worked tirelessly to unite the city-states of Khazad and was well-respected by the survivors from Nolgrod too. The Remeran dwarves had often spoken of him with hopeful reverence—he had represented a path toward true peace and cooperation amongst the dwarves.
+
+And his death was a footnote to their meeting?! Just a heads-up to not antagonize allies that no one should be antagonizing in the first place?!
+
+“What happened?” Ranthia demanded before anyone could get up.
+
+“The kill was identical to others that have affected us in the past.” Night answered after a pause so brief that Ranthia wasn’t sure if anyone else noticed.
+
+That was… odd. Not Night being surprised about her asking questions—it wasn’t like anyone else in the room seemed to give a damn, so her caring probably was at least somewhat unexpected. But if it was a death like the others… why were assassins from the empire killing a politician found amongst their own allies? The King Under the Mountain had been a staunch supporter of the dwarves’ alliances, from everything that she had heard. If anything, he had hoped to increase cooperation between each nation.
+
+Was her theory wrong? Was there truly some unknown shimagu twin, or was it some internal power struggle amongst the dwarves that chose to mimic a known killer’s signature style?
+
+Ranthia wished she could consult with—and offer her sympathies to—the dwarves of Remera, but she was under direct orders to remain in Spearpoint until new orders came in. Sure, there were undoubtedly dwarven camps within Spearpoint, but it wasn’t like Ranthia would know anyone that was there—and intruding on such a sensitive topic was just generally a bad idea.
+
+While Ranthia chewed on her thoughts, Night dismissed them. He promptly disappeared in a blur to go do whatever it was that bloodsucking predators did during their free time and… okay, that was a thought that conjured unhappy mental images.
+
+Ranthia shook her head to clear it, which let her catch Sentinel [Healer]’s approach.
+
+Ranthia was still nursing a bit of a grudge over Sentinel Beast’s behavior, and she was feeling more than a bit overwhelmed by everything she had learned—and seen—during the meeting. When she asked herself if she was interested in being fawned over by a fan—a peer that was plainly enamored with her—the answer was a resounding no.
+
+Some thoughts just made her want to hide and take a nap.
+
+Instead, with an unspoken apology thought in the direction of the too-slow [Healer], Ranthia blurred into motion as well, and made her escape.
+
+She had dwarves to find.
+
+As expected, Ranthia received a polite—but cold—response from each group of dwarves that she located within Spearpoint. They were happy enough to exchange greetings with her, and several [Battlemasters] took the opportunity to introduce themselves to a member of humanity’s closest approximation of their ranks. But no one really wanted to give Ranthia more than their names and/or a beverage. She was, after all, a stranger that hadn’t even fought alongside them yet.
+
+But even with the minimal hospitality Ranthia received, something felt off.
+
+There were no overt signs of grief or anger. If anything, the dwarves seemed to be excited—those that chose to speak to her boasted about how they looked forward to fighting alongside her (and everyone else) to see the shimagu army broken and the final twins cut down. It was possible that they were just putting on a brave front since she had no real bond with them, yet it seemed strange.
+
+But, in the end, it wasn’t her problem. Meeting her peers had left her feeling uncomfortable, and it was entirely possible that she was just projecting her personal discomfort onto the actions of others. And, unfortunately, her [Mind Healer] wasn’t around to help her through it.
+
+Also, there was more than a little guilt that she hadn’t followed Pierce to try to offer whatever help she could to him. He hadn’t been in her care for a long time, but it was hard to set aside the sense of responsibility she felt for him.
+
+And if there truly was a shimagu assassin striking among the Coalition, all Ranthia could do was maintain her personal vigilance. So long as the assassin avoided her—or she managed to counter any attempt made on her—she had nothing to worry about.
+
+Besides, she never had gotten any sleep, and with the sun setting, she needed to remedy that. Because if anything, the next day was sure to test her far more than interacting with her fellow Sentinels had.

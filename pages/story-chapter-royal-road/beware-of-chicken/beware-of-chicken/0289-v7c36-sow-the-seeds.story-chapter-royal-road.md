@@ -1,0 +1,199 @@
+---
+id: 2367448e-f825-5bb9-8e8b-3b408f4eaf88
+page-type-slug: story-chapter-royal-road
+title: "v7c36: Sow the Seeds"
+slug: 0289-v7c36-sow-the-seeds
+partOf: beware-of-chicken
+position: 289
+ownLength: 2341
+unit: words
+publishedAt: 2026-03-08
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/3128685/v7c36-sow-the-seeds"
+royalRoadId: "3128685"
+---
+
+Shen Yu looked down from the heavens to the earth. Just beyond his body, his Qi cut itself at the edges, so his scent would not reach his granddaughter. He was fairly certain the technique was successful; she had not looked in his direction once as he watched them with the Thousand-Li View.
+
+My, he was getting quite voyeuristic in his old age! Almost as bad as that amusing bee. But alas, it was necessary. His presence would disturb things. He wanted to see what they did, without them knowing his eyes were upon them.
+
+At first, he had investigated the Ironfields—yet they had been gone a week when he had arrived, and he saw nothing important. Nothing noteworthy, save a not-completely abysmal Qi level.
+
+But he had paid half an ear to what Tie Delun said, back at Jin’s home—the boy had earned that much. He had spoken of metal under the bare layer of topsoil.
+
+Not soft, loamy dirt.
+
+Then he listened to the whispers. He had learned of the change in the land; the titanic shift that had them all whispering a god had blessed them.
+
+He knew then that he had to truly see Jin’s next project. He had to see Jin in action.
+
+For one week he observed their efforts; how they spoke with the mortals, how they carved ditches into the lakebed to craft a formation… and how they pushed their Qi into the earth.
+
+There were, to conventional knowledge, two facts about the nature of the world.
+
+The first was that the overall strength of each province was relatively static, save for what scholars had deduced was a an extremely low decline in Qi levels year after year—so slow that there was some debate if the Qi levels were truly dropping, or it was just the fact that all the oldest and most potent reagents had been harvested.
+
+Within provinces, it could be more granular. There were areas of high and low Qi. Dragon Veins close to the surface, or deep down. Occasionally, they would move, over thousands of years, and create new natural wellsprings—and thousands of sects had been founded atop these places. But the Qi itself was always there, just inaccessible.
+
+So too could powerful cultivators move the Dragon Veins of the world—but rarely was it worth it. Moving the roots of the earth produced lasting destabilizations, intermittent swells of Qi, random mutations in nearby life… or the power would recede entirely, reducing the Qi in the area.
+
+Even Xiaoshi, Martyr of the Age of Heroes in the Azure Hills, had never improved his Earth Spirit Companion’s strength. He had just made it swifter to access her Qi. Even the formation he had crafted, which harnessed the Qi of millions of his subjects, did not improve the quality of the Qi; it only allowed him to use it to reinforce the barrier around his lands.
+
+The second fact was that the Qi Wastes were dead. They were a natural part of this world; strange, malformed places that would never produce Qi, that would never know the breath of life, beyond what they stole from the air and cultivators who dared venture into their depths.
+
+Yet here and now, he saw what was ‘impossible’.
+
+The world thrummed. Golden roots dug into the Qi void below him, filled with the sound of drums. The Qi of the area pulsed, bounced, and danced in time with the beat, the perfect mathematical alignment of the formation being complemented by the well-placed cuts.
+
+The roots of the earth twisted and writhed, relentlessly growing into the dark spot within Shen Yu’s senses.
+
+It was a tremendous expenditure of power. It was pulled from all corners of the province in a steady stream. Vast rivers of might, thrown into the void. So many would call it wasted. So many would say that it would be better used for other things; they would think that taking so much power would surely make the one expending it weaker.
+
+And yet this was not the case.
+
+Day by day the Qi seemed more vital. More animated. More eager to dig into the void in the center of the lake. The sickly pathetic dregs of Qi around this part of the Azure Hills grew more and more vital. The quality surged—without mutation. Without unchecked Qi release. Like a paper lantern, rising on a candle, the world breathed.
+
+Until upon the eighth day of Jin’s efforts, something changed. On the eighth day, the mortals of this place had a summer festival. There were songs, boat races and fishing competitions; they made offerings to the great Pale Moon Lake. They thanked it for its water, and asked that she not scold them so much this year.
+
+They prayed and danced, a curious, heavy beat that seemed more suited for miners than fishermen. The world resounded with their laughter and their cheer.
+
+And something whispered on the breeze.
+
+===================
+
+“And So the Great Ancestor, Shennong, Instructed His Disciples in the Ways of Preparing the Fields.”
+
+The prayers had tried to reach her. For so, so long.
+
+Millions had spoken to her. They cried out to her. They joked and laughed with her. They cursed her name.
+
+They knew her. She knew them. They could have been friends. This place could have been hers, and she theirs.
+
+She had a belief. A mandate.
+
+It all meant nothing, because the world was broken.
+
+“Everything that comprises ‘today’ was made possible by what was planted yesterday. Crops or actions, it matters not, for what took root in the past shall grow in the future.”
+
+Was broken. Little motes of golden light filled the shattered hulk of a throne. It beat back the sucking void. And for the first time, those beliefs, those prayers that filled the earth… started to find purchase.
+
+Huibai Yue. The Pale Moon. The Lady of the Lake. Patient. Kind. The lifegiver; but she had her own temper, her shouts roaring forth in great storms, scolding any who took her for granted, or disrespected her might.
+
+“Within tiny, insignificant seeds is our world made; so cast them not in arrogance, yet neither hoard them in fear. For the future comes, whether one is ready or not. Tend to them carefully—go with purpose, even if you do not know what the seed will grow into.“
+
+Awareness started to come. The dreams and legends, forming what she was. It should have been chaos. It should have been confusion. And yet... it was right.
+
+She felt.
+
+The hand of a father, gentle in spite of his strength, ruffling her hair. The hand of a mother, cupping her cheek, warm and loving.
+
+And the earth around her, touching her shores. The earth beneath her, cradling her gently despite the damage she had inflicted with her birth.
+
+“That doesn’t matter,” the earth replied. “You are a part of me now; and I cannot hate such a cute daughter. Thanks for taking care of everyone, all this time.”
+
+“Answer barrenness with abundance. Let there be life where there once was none.”
+
+The earth gathered together everything that she was.
+
+The cheers of the people on shore, thanking her for another year. The prayers for safe passage. The cheeky curses to rival villages, asking her to shout and scold them with her storms.
+
+Not just existing… but known.
+
+Not just needed… but wanted.
+
+[Sow the Seeds]
+
+A core was planted within the web of belief, and thousands of years of memory made the delayed seed sprout.
+
+There was a gasp. Upon a throne, a new existence formed. Young, yet ancient. Born of a cataclysm—
+
+Now venerated as the saving grace of all who lived upon her shores.
+
+===========================
+
+Like the breakthrough of a cultivation bottleneck, the Qi levels in the lake jerked and snapped, before rising even higher. The quality improved dramatically. The golden roots instantly became more fluid, spooling into the water like coursing golden rivers.
+
+Despite the power that had been spent, despite the flood of Qi that they had poured into the land… when Jin stood tall beside Meiling, the corona of light dissipating from their forms, they were stronger.
+
+The Earth Spirit beneath them was also stronger.
+
+Tianlan… had the capacity for growth. Had the capacity to destroy Qi voids.
+
+Could she eventually grow beyond even this world? Was she capped by her previous limit? Or did her breaking allow her something else?
+
+Shen Yu did not know. With his experience of a thousand years, and all his wide-ranging studies, this was unique.  And he got the feeling that Jin was not entirely sure either.
+
+He closed his eyes.
+
+"I don't care about ascending to the heavens,” Jin said with utter conviction, “That door is closed to me. Instead I'm going to make my own."
+
+Make his own heaven.
+
+It had been hope that had made him stop at first. Desperate hope of what those words represented. The words that had shown Shen Yu that Jin was not simply planning on dying without striving. The words that showed he still had drive and passion, not a spirit broken by the world.
+
+Shen Yu did not entirely understand what the words meant, ‘to craft his own heaven’. It was something personal to Jin.
+
+The thing Shen Yu feared the most was a wasted life. Not for the one who had given him his drive back.
+
+When he heard of the Path of Shennong, he had despaired. And yet, the description he had read of the technique was clearly completely wrong.
+
+Jin had turned his back on cultivation. He did not care at all to be immortal. Every word, every action made that clear.
+
+Yet he still had a mission. He still strove for something, along a path that was uncertain. A path that said its end was death, true. But that is what everyone said about Shen Yu’s own style. The Unconquered Blade. One defeat, and it was all over. A suicidal path—yet Shen Yu intended to succeed in his goals anyway.
+
+Shen Yu could see it in Jin. The same undaunted conviction. The same desire to live life in the way he chose, on his own terms.
+
+A Heaven right here. Was it the ascension of the province? Was it the repair of the Azure Hills, and then every Qi Waste besides?
+
+If he somehow accomplished that, it would be the greatest blow struck against the demons since the Age of Heroes. A way to recover what they had destroyed. To stop the slow bleeding of the Qi from the world.
+
+Or was his idea to simply craft a better place for his family to live on, and what he considered “better” was so beyond anything Shen Yu could see that it was hidden behind the horizon?
+
+Shen Yu did not know. At first, he hadn’t wanted to know, uncertain if he would be able to accept the answer.
+
+But now… he would have to ask, one of these days.
+
+But for now, Shen Yu simply watched. He watched what was ‘impossible’ bloom under his grandson, and his companions' hands, swirling and coalescing into the sunrise of tomorrow.
+
+The void below shrank under its light.
+
+Though, speaking of wastes, he did wonder what Fengyan thought of the fact that they were demon-created? He had given that crystal to the Herald to deliver….
+
+==============================
+
+Fengyan, Emperor of the Crimson Phoenix Continent, let out a breath. He finished work for the day, and had some free time to study and cultivate.
+
+He retreated to his garden, and organised his scrolls and reagents, wondering which one to pursue, when one caught his eye.
+
+His Herald had given him the crystal from the Azure Hills; a gift from Shen Yu, that apparently had some interesting knowledge in it, but it was not marked as particularly urgent. Very few items of interest from the Azure Hills were ever deemed worthy of his formal attention, so his interest was piqued.
+
+Making his decision, he picked up the crystal, and pressed his will into it. It had clearly been curated, but there were some rough edges—he paused, when a spirit spluttered into existence in front of him. A memory crystal curator—a harmless thing, though this one had clearly seen better days. It had wide, almost manic eyes, and it was unravelling at the seams.
+
+Fengyan raised a brow. Was this some kind of prank by Shen Yu? No, this Spirit was ancient. From the Age of Heroes.
+
+The Spirit crackled and snapped. “All parameters met. Would you like to be the Emperor?” it asked, almost desperately.
+
+Fengyan raised a brow, cocking his head to the side.
+
+“I already am,” he replied.
+
+The spirit raised its fist to the heavens. “Noooo—uh?!” Its scream cut out. “Already Emperor?!” it asked, its body buzzing.
+
+“I am the Crimson Phoenix Emperor. The Son of Heaven. Master of the Continent.”
+
+The Spirit stared blankly. Its integrity failed further.
+
+“Already… already… already…” it repeated in the same tone of voice, looking miserable. “The chik—kzzt— said… it’s true… am I to remain unfulfilled?” it trailed off for a moment, eyes full of despair. It lapsed into silence for a moment, before it spoke again in a quiet voice.
+
+“Do… do you require—kzzzt—an advisor?”
+
+It stared at the ground, slumped. A memory curator, and ancient advisor spirit from the Age of Heroes? Fengyan did not have one this old. They were that rare. What a wonderful gift from Shen Yu and Ge!
+
+And if it was useful, even better!
+
+“I am always in need of competent advisors,” he said. And wasn’t that the truth? “Now, my friend said there was information in this crystal I needed to see?”
+
+The spirit for a moment looked like it was about to cry, its head snapping up to stare at Fengyan. Then, its body straightened, slightly fuzzy outline reverting back to solid once more.
+
+“Yes, Your Majesty! Let this Shenguashi—ah, this one sees! The creation of Qi wastes by demonic means!” the crystal declared.
+
+Fengyan’s eyes widened.

@@ -1,0 +1,205 @@
+---
+id: 631de7e0-fa99-52e9-a0d8-08ef5a154cd8
+page-type-slug: story-chapter-royal-road
+title: "v5c60: The Sparks of Lightning"
+slug: 0167-v5c60-the-sparks-of-lightning
+partOf: beware-of-chicken
+position: 167
+ownLength: 2455
+unit: words
+ownProgress: 2455
+publishedAt: 2024-11-06
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1887685/v5c60-the-sparks-of-lightning"
+royalRoadId: "1887685"
+markedReadAt: "2026-06-29T18:57:02.199Z"
+---
+
+Che Han had, over this past month, completely given up on what he had previously considered common sense. Clearly, his knowledge had all been wrong, and so now whenever anything new happened he found himself just nodding along.
+
+It was an easier way to view the world and not get so worked up about the little things. It was better to “roll with it”, as Yun Ren liked to say, and so instead of being shocked and confused he could just be happy when Nezan revealed that he was alive and Master Jin had called for a celebration.
+
+He was currently having snacks with a dragon, a boar, and a very pretty woman with plum blossom hair—who was also apparently a pig and the wife of said boar—discussing the food of the Howling Fang Mountains.
+
+“Bi De spoke fondly of the blueberries; are they normally just eaten as is?” the dragon asked, his eyes focused… despite the fact that he looked absolutely exhausted. His long, sinuous body was covered in bandages.
+
+Che Han was acting like it was all perfectly normal.
+
+“We normally render the blueberries into a sauce, or add them to our ration bars. It's dried meat and blueberries mixed together with rendered fat. It is long lasting and a good meal up in the mountains,” Han said, pulling out one of said ration bars. “We either eat them as is or make them into a soup with mountain bread.”
+
+The dragon paused his writing in his ‘food log’ and took the bar with a dainty claw, examining it with a keen eye. He glanced at the boar, who shook his head, then broke off a piece for himself and Pi Pa before taking a bite. His eyes closed as he considered it at length… even as he put on a kettle so he could try making it into soup, streams of water twisting slowly moving through the air at his command—his grand power used for tasks as mundane as cooking and cleaning.
+
+Bi De had told the truth, the dragon had done the dishes. And he had poured Han a cup of water when he went to get some refreshments for himself and his friends earlier today.
+
+“A most choice flavour. I can’t wait until the bushes are fully grown!” the dragon exclaimed. “What do you think, Pi Pa?”
+
+“...I can’t taste this very much,” the woman admitted, looking sad.
+
+“I’ll make a syrup out of them then; that shall concentrate the flavour—a jam or a jelly, yes, for the lovely you and my most Handsome Brother Chun Ke,” the dragon stated, idly waving his claw. “It is good that you both force me to think of these things!”
+
+The boar chuffed happily while the woman smiled, her lips slightly wobbly.
+
+Han felt a little like he was intruding on a private moment before the dragon turned to Han again.
+
+“It does this one’s heart good to know a gentleman like yourself was among my friends’ number, Che Han. Bi De and Ri Zu are both mediocre at cooking, and Yun Ren is little better. They would have been deprived of good food without your skill—and Fa Ram would be lesser for it!” Wa Shi declared, and Han blushed at the praise. All he had done was give them several pages of recipes he liked cooking, yet the dragon was treating it like a precious scroll.
+
+Wa Shi set about making the soup while Han leaned back, nursing some of the ‘vodka’ Master Jin had given them, the drink mixed with berry juice from berries grown inside that wondrous glass house outside.
+
+Han had heard quite a few stories from Bi De, Ri Zu, and Yun Ren of their home, but even with the recording crystal’s images, for some reason he struggled to truly understand it. What his friends described… it sounded so alien to him. Surely, there was no place like this Fa Ram? Surely, the love of their home was so great it colored their descriptions and made for a fairer image than Fa Ram actually was?
+
+Then they had arrived, and Han swiftly realized that they had been underselling the place they had come from.
+
+Sure, it had no grand floating spires, no awe-inspiring arenas, or even obvious artifacts of cultivation. It was a simple noble’s manor on a plot of farmland.
+
+Yet somehow it was all the more profound for it. It was the energy in the air… and it was those who lived within.
+
+He understood now why his friends were the way that they were.
+
+They cared little for treasures because they were surrounded by them. They gave freely because their Master gave freely. They did not mind working in the fields because they produced a bounty so vast it boggled the mind.
+
+And when Han came, a nobody compared to the likes of his comrades… he was greeted warmly and freely offered what they had.
+
+Indeed, it was a beautiful place.
+
+It felt like a home.
+
+The warmth here… it reminded Han of his own family, of their kindness despite the losses and the poor state of their clan compound compared to others, with its gentle mists and tranquil ponds.
+
+A bittersweet memory, for all Han knew he could be the last of his family if things hadn’t gone as the others predicted.
+
+Han was the only one who felt any real urgency to return to the Sect. He had talked earlier to the others. Yingwen and Fenxian were demoralized and uncertain; the institution they had served had seemingly collapsed. Shao Heng would do his duty with or without the Sect. Yushang had been the one with the least connection in the first place, but bless her soul she had promised to come with him when he did return. Spooks had shrugged and just said, “It's on the way back north.”
+
+He hadn’t broached the topic with Bi De, Ri Zu, or Yun Ren yet. He sighed, wondering just what the future would hold, his mood starting to darken as he worried.
+
+Han nearly jumped when a warm nose pressed into his side. Chun Ke smiled up at him.
+
+‘Friend Han, don’t worry about what you can’t change,’ the boar said, his voice deep and calming. ‘Whatever may come, simply remember… you are not alone.’
+
+Han paused at the statement, then Chun Ke tilted his head to the side, where Wa Shi held out a char-grilled rice ball with red flakes on it. It smelled spicy.
+
+“And for everything else, there's food,” the dragon said cheerily.
+
+“Those in tandem seem to fix many problems,” Pi Pa mused, her eyes distant.
+
+Han smiled and took the rice ball.
+
+It was very tasty, and really, Chun Ke was right. There was no point in worrying at the moment. He had to heal first. And then… then he could go and see his family. And he could return to the Sect with his head held high due to their actions.
+
+He was most of the way through the new, delicious offering when a small commotion caught his eye. Lady Meiling was holding a needle up in wonder.
+
+“These are really good!” Lady Meiling exclaimed. “They hold Qi so well! I didn’t notice before how much my other needles fought me—Han made these?”
+
+Her eyes turned to him.
+
+Han paused, taken aback. “Ah… yes?”
+
+“Do you take commissions?” she asked.
+
+Han paused to savor the moment of acknowledgment, the first member of his family to have earned such praise in centuries.
+
+What else could he say but yes?
+
+===================
+
+“And then I swung around to the side, under the monstrous paw, and pierced the beast through its black heart,” Shao Heng finished his tale for the young man in front of him. Bi De’s disciple had stars in his eyes as Shao Heng recounted one of his missions to protect a village in the Fangs.
+
+“Uncle is so cool!” Zhang Fei said, a big grin on his face. Shao Heng smiled. It was nice to have such an enthusiastic audience.
+
+“Shao Heng is the most skilled of us all in the arts of hunting and tracking. We are lucky to have his skill and expertise,” Bi De explained, and the young man’s smile only grew.
+
+“That's amazing! I was starting to wonder if every story that gets told was fake!” Zhang Fei, the Torrent Rider, said.
+
+“Fake?” Shao Heng asked, amused.
+
+“Yeah, in all the stories the Spirit Beasts are all mean, which I’m glad is fake… But I really liked the stories about strong Masters—and, well, Xiulan and Xianghua kept beating all the cool-looking old men up,” he trailed off, looking sheepish.
+
+Shao Heng raised a brow. “The ladies are that strong, to be suppressing their Masters?”
+
+“Yeah. Big Sis Xiulan, Big Sis Tigu, Big Sis Xianghua, and Big Sis Yin are all really strong,” the young man before him stated guilessly. “I’m not as strong as them yet… but I’m helping them out the best I can! I help the Azure Alliance with hunting and tracking! Do you have any tips?”
+
+Shao Heng smiled. “I do indeed have a few,” he agreed.
+
+The Torrent Rider immediately snapped to attention, as did the shaggy dog beside him.
+
+The boy was an able learner… though he did get distracted when Yushang started juggling for everyone else’s entertainment, throwing a multitude of bowls, plates, chopsticks, knives, and even pieces of glowstone into the air with a smile on her face. She was soon joined by Yin and the monkey, Huo Ten.
+
+She, at least, seemed to fit in just fine. But there was a small gap in their numbers. A couple of people were missing.
+
+========================
+
+“And then, well, that about sums it up,” Fenxian said as he stared out over the snow drifts. He was sitting on the roof with Rou Tigu, Gou Ren, Xianghua, and Yingwen; the orange haired woman had asked them all up here to talk to them.
+
+Fenxian had been expecting some kind of dressing down. He would have been satisfied being a punching bag, if that's what she wanted.
+
+Instead, she had asked them about their lives, what had led them to join the Sect—and what had ultimately led them to being in the Young Master’s entourage and fighting against them.Fenxian knew neither of their stories were particularly unique. Yingwen was an orphan, picked up and given a chance. The Sect was his family, as far as he was concerned.
+
+Fenxian? Fenxian had dreamed of glory. He had dreamed of power, of heroism… and had fallen in love with the brotherhood of being in an Outrider Squad. His had been a good one, going on long patrols away from the Sect and fighting the good fight. He got to save villages, then booze and boast while pretty girls had thrown themselves at him.
+
+His record had been good. He had been considered trustworthy by the Elders… and neither of them had seen anything that pointed towards anything Demonic. The Young Master had just been the Young Master. Tigu had insulted them, and the Young Master had ordered them to make her pay for her defiance.
+
+You didn’t have to like your orders. Fenxian hated going on patrol when it was pissing rain horizontally up in the mountains, but you did it. So the Young Master commanded, and they had to obey.
+
+It was just what cultivators did.
+
+Or at least… that's what Fenxian had thought. They sat in silence after they had both finished.
+
+The Xianghua woman considered their words for a moment, before shrugging.
+
+“You saved my Honoured Brother’s life. Liu Xianghua has no quarrel with you,” she informed them both. “Many grudges in the Azure Hills have had to be put aside recently. This is just one more to add to that tally.”
+
+Gou Ren pondered for a moment more, before sighing. “What Xianghua said,” he finally settled on.
+
+Tigu’s eyes ghosted over Yingwen, and then they settled on Fenxian.
+
+“You were the one who knocked me out.”
+
+“Yes, I was,” he admitted.
+
+“You were the one who broke Loud Boy’s dantian,” she continued.
+
+Fenxian grimaced. That one actually hadn’t been intentional, not like Shi, who had just cut down the ragged-looking man, angry that they had dared to fight them. The kid had swung with a move that had made every one of Fenxian’s senses scream that it was dangerous, so he had just reacted, nailing him in the gut with way more force than he had intended. He had obviously vastly overreacted, and losing control like that was shameful.
+
+“I was.”
+
+“...what would you say if I said I still wanted your life?”
+
+Yingwen stiffened, Fenxian shrugged.
+
+“I would accept it,” Fenxian stated simply. “Honestly, I never expected to come back alive from this mission. I rescued my comrades and my Elder. If I die here… I guess I’m satisfied.”
+
+Rou Tigu looked into his eyes. “...Xianghua is right. We cannot talk about ending grudges, if we refuse to let them go ourselves. Once, you fought against us. Once with us, with your life on the line. Then… we shall wipe the slate clean.”
+
+The woman sucked in a breath and stood. She clasped her fist in martial salute.
+
+“This one is Rou Tigu, Young Mistress of Fa Ram, Commander of the White Tigers of the Azure Alliance. Might she have the names of the men before her?”
+
+Fenxian’s eyes widened. He saw the opportunity… and he took it.
+
+“This one is Gen Fenxian, Disciple of the Shrouded Mountain Sect. He greets Rou Tigu.”
+
+From the depths of Hell, back to solid earth, he and Yingwen had ventured.
+
+He wondered if the Sect could do the same.
+
+===========================
+
+Zang Shenhe stood a polite distance from the house. Laughter and amusement echoed out from it, lit by the afternoon sun. She flared her Qi, a polite knock.
+
+A few moments passed before a voice entered her ear.
+
+“My grandson has given you leave to enter, Zang Shenhe,” Shen Yu’s voice echoed in her ear. “Enter through the front.”
+
+Shenhe approached the manor and the front door opened automatically, shadowy rats operating the handle.
+
+She took off her shoes in the indicated spot and entered the house proper. Abruptly, the sounds of amusement stopped and all eyes locked on her.
+
+“What brings you here, Zang Shenhe?” Shen Yu asked.
+
+“I’ve come to return Summer’s Sky… and I must speak with Nezan about the future of the Shrouded Mountain Sect.”
+
+She met his gaze unflinchingly, her back straight, and head held high.
+
+Shen Yu smiled.
+
+“Those eyes aren’t bad, girl,” the old man said, his tone approving.
+
+“Not bad at all,” Nezan agreed.

@@ -1,0 +1,295 @@
+---
+id: eab97b88-a163-5c58-9e35-804824c9698a
+page-type-slug: story-chapter-royal-road
+title: "v5c31: The Monster Inside of My Head"
+slug: 0137-v5c31-the-monster-inside-of-my-head
+partOf: beware-of-chicken
+position: 137
+ownLength: 2769
+unit: words
+ownProgress: 2769
+publishedAt: 2024-08-10
+link: "https://www.royalroad.com/fiction/39408/beware-of-chicken/chapter/1752122/v5c31-the-monster-inside-of-my-head"
+royalRoadId: "1752122"
+markedReadAt: "2026-06-29T18:55:58.767Z"
+---
+
+The first concept the Puppet Worm ever learned was agony.
+
+It was crafted in a jar full of poison and corruptive Qi. Its flesh and very soul burned at the touch. It flailed and thrashed, as within moments of its birth it was gripped by one of its siblings. The pincers pierced its flesh and its sibling tried to eat it. The Puppet Worm had flailed harder at the sensation, and while its sibling had caught its rear it reached down and impaled its sibling’s head.
+
+It was hungry, so it feasted. Another of its siblings tried to kill it, so it ate them too. It had to keep eating—it had to fuel its body’s repairs, as it was constantly regrowing flesh destroyed by its environment.
+
+It ate and ate and ate until it was the only one left—and then it started eating the poison too, until that was drained. And still, the torment did not stop.
+
+One day, it was plucked out of its jar and brought into the light. Its skin burned. Its eyes were blinded. It writhed once more with pain. It was cut open. It was crushed. It was stabbed. It had foreign Qi shoved into it day after agonizing day.
+
+And then it was placed into its first Host. It did as its instincts demanded, burrowing into its brain and attaching to its spine. The Host was confused. Confused, and terrified, as it felt its control over his body disappear.
+
+But still the agony did not relent.
+
+Limbs it never had before screamed as they had been broken. Its new throat was raw from the maddened howling. Its body shook from fever it had gotten from having to survive in this cold wretched place.
+
+But the worst thing was the memories, the pain they had within them. It relived the destruction of its village and the pain of losing friends. It relived the tortures visited upon it as it curled up into a ball and whimpered.
+
+[Directive. Stand.]
+
+The command reverberated through its being. It could not! It was hurting too much!
+
+The pain increased.
+
+[Directive. Stand.]
+
+The Puppet Worm forced itself to its feet this time. A new sensation, fear, driving it forward. If it did not obey, it would hurt more. The Host begged it to stand. The Host showed it how, so that some of the suffering would be alleviated.
+
+So it forced the dying Host to its feet. It staggered around.
+
+Some of the pain vanished. Some measure of relief came, as it diminished from an all-consuming blinding horror to a dull throb.
+
+Its eyes adjusted to the dark room. Its eyes saw the hunched and huddled forms of others. Others the Host recognized.
+
+[Directive. Kill.]
+
+Once more the command cut through the Puppet Worm. The Host, at first relieved, suddenly lost that feeling. Instead, dread started to manifest in its mind.
+
+Please. Please no. The Host begged, but the pain was starting up again.
+
+The Puppet Worm raised the Host’s fist. It leapt upon one of the hunched and huddled forms. It swung with all its might as the Host pleaded for it to stop.
+
+But it could not stop. Even if it could, it would not.
+
+Because as it struck, as the thing beneath it started to scream, the pain finally went away.
+
+And thus, the Puppet Worm learned.
+
+The only time where it did not feel agony was when it was inflicting it upon others.
+
+=======================================
+
+It was torn out of its old Host and placed in a box. There, it went to sleep, feeling nothing but satisfaction and relief.
+
+And then, it was released again into another Host. Into another set of memories.
+
+The directives became more complex. It was given things to say. It was given objectives to complete.
+
+And each time it did so, it would feel good.
+
+Each time it did so, the Hosts got stronger… but none of them lasted long. Their bodies could not handle the Puppet Worm’s existence as it extracted every scrap of power from them. It got better at looking at its Hosts’ memories. It got better at using their knowledge and techniques.
+
+And somewhere along the way, it started to feel pride in what it did. It began to look forward to the time when it once more had a Host and it could be unleashed.
+
+In a Host, it was not just a Puppet Worm. It was instead a powerful cultivator, a being of fury and Qi. It could carve up the land. It could stand under the glare of the sun.
+
+It was mighty, then. Even the techniques from its Hosts’ memories would kill the Host could not touch it. It would burn out the Host's body, to be sure, but there was one thing the Puppet Worm knew:
+
+There were always more Hosts. It would be retrieved. It would once more have both the power, and then, the blessed painless sleep.
+
+========================
+
+It slept for a long, long time. It slept, and it was good.
+
+And then, it was once more awakened.
+
+[Directive Prime: Commence Assault on Target Location. Use all available force.]
+
+Directions flashed in its mind.
+
+[Directive Prime: Kill Target with highest cultivation.]
+
+[Directive Prime: Do not, through action or inaction, allow Target Little Star to come to harm.]
+
+A Target with green hair appeared.
+
+[Directive Secondary: If Directive Prime is accomplished, proceed to Capture Target Little Star.]
+
+The Puppet Worm acknowledged its directives and was released. It ate into its Host’s brain and attached itself to its spine.
+
+========================
+
+Its current Host was the most powerful one it had thus far been in. The Host’s Qi was a heady thing. His memories of combat were sublime. The amount of suffering it could inflict was unparalleled.
+
+The Host even had other, smaller Hosts that would do its bidding. Infected by a Master’s Qi, to be sure, but it had done battle with such things at its side before. They were good distractions.
+
+It pilfered its Host’s memories. It tasted the Host’s despair, forlorn sadness, and his feeling of bitter defeat, and then used its poison to further numb the Host’s mind. Something it had learned to do, as some Hosts had fought quite hard against the Puppet Worm’s control… at least for the first hour or so.
+
+The Host did nothing as the Puppet Worm used his body and set off along the attack vector. It ran at the head of the pack, as was its place.
+
+It was Zang Zeng now. A mighty cultivator, not a weak worm.
+
+It raced onwards—until it was struck. It reflexively offloaded the pain onto the Host and rose. The Host shifted slightly, roused by the strike.
+
+It took the Puppet Worm a moment longer to recover. It had not escaped the pain entirely, and this new foe had made the ache come back.
+
+The thing in front of it was stopping it from completing its directives. If it did not complete its directives, the pain would come back.
+
+But as the thing’s Qi rose, the Puppet Worm felt relief. As it reached the Earth Realm, it was even pleased.
+
+Its Target had come to it. The Host once more despaired as the Target’s Qi flooded the area. The Host was cursing itself for some reason, muttering about the loss of good disciples.
+
+And then the Target said something, and the Host’s Qi shuddered for a moment.
+
+“Mind Control. Gently, please.”
+
+Shock. Surprise.
+
+The Host’s Qi shuddered slightly as the Puppet Worm started its assault, gleefully bringing all of Zang Zeng’s power to bear. It absently pressed more venom into his brain, to quiet and still the Host.
+
+[Fulmination Arts: Heaven’s Searing Rebuke]
+
+The world detonated. A forest disappeared in a blast of lightning. The Puppet Worm grinned. It ripped into the Host’s memories and pulled out another technique. The Target burrowed into the ground to escape it, like a worm.
+
+[Fulmination Arts: Blade of Heaven’s Judgement]
+
+The blade reached into the sky and cleaved the earth. The Target erupted from the ground and clashed with the Puppet Worm.
+
+They looked into each other’s eyes, and the Puppet Worm hated what it saw.
+
+The Target’s body was burning. His Qi was shuddering from the aftereffects. And yet, the Target’s eyes…
+
+Pure. Clear.
+
+The Puppet Worm felt rage at those eyes.
+
+The Puppet Worm grabbed another of the Host’s techniques and forced a disengagement. Its body filled with lightning as it rained down destruction upon the Target who dared to look at it with those eyes.
+
+The Target that still looked at it with those eyes.
+
+He does not wish to kill me. He has found out the Demons’ plans. He is truly part of them.
+
+The Puppet Worm shuddered as the thought invaded it. Its limbs spasmed.
+
+The Host… was fighting it?
+
+That was impossible. Its poison was too strong. The Host’s body was the Puppet Worm’s now. It writhed and pumped more poison into the Host’s brain.
+
+The pain was starting again. The Host body was tiring—the Target was simply enduring and its Qi had not wavered once.
+
+More power. More power. It needed more power to avoid the pain.
+
+It ripped again into the Host’s mind. It dug up every memory of the sword. It used the memory of the Host’s muscles.
+
+It descended upon the target. This deluge of lightning should have been enough.
+
+According to the Host’s memories, such a blow against any other at this level of cultivation would have resulted in a devastating injury. A blade that parted metal like water skittered off steel-like skin.
+
+Each thunderous blow felt like it was a mortal striking a rock.
+
+The Target was not skilled in comparison to the Puppet Worm. The Target used only the most basic of blocks. The Target used the most rudimentary of parries.
+
+Yet even this would have failed. Should have failed. Yet the Host kept interfering. Muscles spasmed. Qi imbalanced. Deathblows were forced off course.
+
+And then the Target managed to retaliate.
+
+PAIN.
+
+The pain came back. The Target reared back for another blow. Its fist cracked and turned gold. A gold that made every one of its instincts scream.
+
+It reached for another technique… and was rebuffed.
+
+Satisfaction.
+
+The Puppet Worm screeched with rage at the Host denying it. It was deflecting. It was trying to stop the Puppet Worm from using its body properly.
+
+It dug its legs in further and grabbed what the Host was trying to keep from it. A grand technique. A sublime one.
+
+[Forbidden Arts: Divine Fulmination Body] it snarled with triumph.
+
+Satisfaction.
+
+Its body decompiled into lightning. The Puppet Worm shrieked as it too was transformed. The agony took it. The Host struck against its control. His Qi battled with the Puppet Worm’s poison.
+
+The darkest night turned to day as the Puppet Worm and its Host rose up into the air, crackling with the might of the Heavens. The Host’s Qi blasted and electrocuted, just as the Puppet Worm ripped and tore.
+
+But it was built for this. Glutted on Qi. Buried in the Host’s Brain. The pain was nothing compared to what it had endured before.
+
+It clamped its pincers down and shrieked with victory as the Host’s will started to crumble again.
+
+Yet its mouth moved without its command.
+
+“There are two more!” the Host’s mouth bellowed. “One uses poison! This is the distraction force!”
+
+The Target, who had been drawing back his fist, paused, his eyes widening.
+
+“You have my thanks for your restraint against my disciples! To my shame, I am beaten. The beast in my skull has bested me. All that is left is this: My most Profound Technique! Expert of the Cloudy Sword Sect! Grant this Zang Zeng a worthy death!”
+
+The Puppet Worm bit down again. The voice went silent.
+
+The Puppet Worm was in control.
+
+It rose slightly higher as pure power flooded its body. As it transcended every limit. As it became light, the light no longer burned it.
+
+[Directive Prime: Kill Target with highest cultivation.]
+
+The Puppet Worm stared down at its Target. The Target looked up upon the pillar of lightning… and his knife-hand became less rigid.
+
+The gold receded. His stance widened. He brought both hands up and clasped them together in front of him. His arms extended as he braced, like he was going to weather the oncoming storm.
+
+“I’ll do you one better, Zeng.”
+
+============================================
+
+An old man knelt before a river, behind him sat numerous disciples. He traced his finger through the sand and nodded as some of the river followed its new course. It followed its new course, until it hit a downhill slope.
+
+“Water is life,” the old man said, his horns rising to the sky. “But so too is it death. Too much water is death. Too little water is death. Thus, a farmer must learn how to Divert The Waters: to bring it where it is little, and take it away from where it is too abundant. Water may be used to both nurture…”
+
+It picked up speed and in an instant it smashed into a little village made of sand, wiping it from existence.
+
+“And devastate.”
+
+The old man turned solemn eyes to them.
+
+“He who controls the water controls life and death; victory and defeat.”
+
+=====================
+
+Time slowed as the sky burned like day. There would be no running from this. It was too fast. It was too immense.
+
+So I had to do something else.
+
+In the end… water was a metaphor for energy. For Qi.
+
+“To be upon this path is to be a master over a small part of the cycle of life and death.”
+
+Divert The Waters controlled that energy. I knew how Tianlan and Xiaoshi had used it. They used it to remove the ability of enemy cultivators to access ambient Qi. It could crack Domains and render other techniques useless as the very world “diverted” them away.
+
+Against something other than a man made of lightning… this probably wouldn’t work. It still might not work. The Path Of Shennong seemed more suited to massive effects. Divert The Waters was supposed to cover a massive area, instead of what I was about to do.
+
+Break The Rocks probably wouldn’t be too effective against something so ephemeral. Fell The Trees might have split this in half, but that wasn’t a sure thing either.
+
+“To wield this is to render judgment upon all things. This is Natural Law.”
+
+Golden cracks formed up my arms and over my chest. I could see the Wuxing, the cycle of the elements, reflected in the puddles of melted snow, forming behind my back like a halo.The world trembled.
+
+It was harder without Tianlan. She did so much for me, and with her asleep it felt like I was trying to lift up the entire world. But there was something else, something else once more lending its aid.
+
+Instead of Tianlan’s hug and warm touch, this was cold and dutiful. It was a small and young feeling.
+
+“In one hand, Creation. In the other, Destruction. With my arms I carve a new path and—”
+
+The heavens descended, right onto my clasped arms.
+
+[Divert The Waters]
+
+Instead of dissipating the lightning, I caught it. I channeled it.
+
+Where before, my attempt at a lightning rod had mostly failed, this was different. This was Natural Law.
+
+I guided it into a stream even as my shirt burned off completely. It felt like my chest was going to explode and that my blood was boiling.
+
+I captured the bolt of lightning that was Zang Zeng. I captured it in a closed circuit.
+
+A band of light as thick as an old oak formed around me, even as errant bolts lashed out into my skin. The ground slagged. The world shuddered. My teeth grit so hard they felt like they were about to shatter.
+
+The band of light spiraled thousands of times per second. Something within screamed with rage and hate—as it flickered in between energy and solid.
+
+I released my clasped hands and plunged my fist into the lightning. Something snapped.
+
+I ripped out the offending creature.
+
+A little insect, roaring with rage and spite and hate. It was an ugly thing, pincers snapping at the air. Its hooked legs wriggled and spasmed, trying to dig into the flesh of my fist. It was a sad, disgusting, pitiful thing.
+
+I squeezed, and it died.
+
+The band of light destabilized, as a body formed within it.
+
+And the world once more vanished into light.
